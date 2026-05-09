@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, homesteading, animal-husbandry, design, regenerative, food-forest, forage, livestock]
-sources: []
+sources:
+  sources: []
 ---
 
 # Homestead Permaculture Design
@@ -33,7 +34,7 @@ the broader homestead ecosystem.
 - **Worm bins (vermicompost):** Fed with rabbit manure, kitchen scraps, and
   garden waste. Castings for garden beds.
 ### Zone 2 — Orchards, Food Forests, and Medium Livestock
-- **Chickens and ducks in orchards:** Poultry forage fallen fruit, control
+- **Chickens and ducks in orchards:** [[free-range-poultry-forage-design-mollison]] fallen fruit, control
   codling moth larvae, and fertilize trees. Portable housing allows rotation.
 - **Goats:** Browse hedgerows, clear brush, produce milk and meat. Fence
   separately from young trees (goats debark and kill them). See
@@ -46,7 +47,7 @@ the broader homestead ecosystem.
 - **Bee hives:** Pollination for orchard and garden crops. Place with
   morning sun, afternoon shade, wind protection.
 ### Zone 3 — Pastures, Large Livestock, and Main Crops
-- **Cattle and sheep:** Main rotational grazing area. See
+- **Cattle and sheep:** Main [[comparison-rotational-grazing-vs-continuous-grazing]] area. See
   [[cattle-husbandry]], [[pasture-management]].
 - **Hay production:** Part of Zone 3 dedicated to hay cutting for winter
   feed. See [[hay-and-forage-management]].
@@ -63,7 +64,7 @@ the broader homestead ecosystem.
   plant species.
 - **Hunting and foraging:** Wild game, mushrooms, wild greens, nuts.
 ### Zone 5 — Wilderness
-- Unmanaged area for wildlife habitat, biodiversity, and ecosystem services.
+- Unmanaged area for wildlife habitat, biodiversity, and [[biodiversity-of-fungi-ecosystem-services-agriculture]].
 - Provides predator prey base (reduces pressure on livestock).
 - Watershed protection, pollinator habitat, seed sources.
 ## Integrating Animals with Gardens
@@ -83,7 +84,7 @@ the broader homestead ecosystem.
 - **Guinea fowl:** Aggressive tick and insect hunters. Range freely.
 
 ### Grazing Cover Crops
-- Plant cover crops after harvest (winter rye, crimson clover, oats, peas).
+- Plant cover crops after harvest (winter rye, [[comparison-lupin-vs-crimson-clover-green-manure]], oats, peas).
 - Allow chickens or ducks to graze in spring before tilling — they fertilize
   and eat insect eggs. Sheep/goats graze taller covers (rape, kale, turnips).
 
@@ -106,11 +107,11 @@ the broader homestead ecosystem.
 
 ### Duck Ponds and Wetlands
 - Constructed duck ponds serve multiple functions: water for ducks,
-  habitat for beneficial insects and amphibians, nutrient capture from
+  [[query-how-do-i-design-habitat-for-beneficial-insects]] insects and amphibians, nutrient capture from
   uphill runoff, and irrigation water source.
 - Duck pond water, rich in manure, can be diverted to gardens as liquid
   fertilizer (dilute 1:10 with fresh water).
-- Constructed wetlands filter greywater and animal yard runoff before
+- [[comparison-constructed-wetlands-vs-bioswales]] filter greywater and animal yard runoff before
   entering waterways.
 
 ### Keyline Design and Water
@@ -146,52 +147,3 @@ the broader homestead ecosystem.
 - Monitor body condition of all species — some may outcompete others.
 
 ## Guilds and Polycultures with Animals
-
-### Chicken-Compost-Garden Guild
-- Chickens scratch through compost piles, accelerating decomposition.
-- Compost feeds garden beds.
-- Garden waste feeds chickens and compost.
-- Chicken manure enriches compost.
-- This closed loop is the foundation of Zone 1 integration.
-
-### Pig-Orchard-Pasture Guild
-- Pigs clean up windfall fruit (pest control).
-- Pig manure fertilizes pasture and orchard.
-- Pasture feeds pigs (30-50% of diet).
-- Orchard provides shade and seasonal food.
-- Rotate pig paddocks annually through orchard rows.
-
-### Goat-Brushland-Silvopasture Guild
-- Goats clear brush and invasive species from forest margins.
-- Cleared land produces better pasture for sheep and cattle.
-- Trees provide browse (leaves), shade, and timber.
-
-## Design Principles
-
-- Each element performs multiple functions (ducks: eggs, meat, pest control,
-  fertilizer). Each function supported by multiple elements (fertility from
-  compost, manure, cover crops, and nitrogen fixers).
-- Use edges and value the marginal: hedgerows with elderberry, hazelnut,
-  blackberry provide browse, wind protection, and crops.
-- Start small and slow: a simple 4-paddock rotation beats a complex system
-  you cannot manage. Observe results and adapt before adding complexity.
-- Spend a full year observing your land before major design decisions — sun
-  angles, water flow, frost pockets, existing vegetation, and soil types.
-
-## Seasonal Overview
-
-- **Spring:** Begin grazing rotations, brood poultry, prep garden beds,
-  repair fencing.
-- **Summer:** Peak production, intensive rotation, heat stress management,
-  preserve surpluses.
-- **Fall:** Process meat animals, stockpile pasture, harvest hay, breed
-  livestock, plant cover crops. See [[hay-and-forage-management]].
-- **Winter:** Feed stored hay and grain, maintain housing, plan improvements,
-  order supplies. See [[livestock-feed-formulation]].
-
-## Links
-
-- [[pasture-management]]
-- [[livestock-fencing-guide]]
-- [[hay-and-forage-management]]
-- [[homestead-poultry-health]]

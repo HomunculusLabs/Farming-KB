@@ -12,7 +12,7 @@ type: concept
 
 Decomposition is the biological process by which organic matter is broken
 down into simpler organic and inorganic compounds. It is the engine of
-nutrient cycling in all ecosystems, returning carbon, nitrogen, phosphorus,
+[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in all ecosystems, returning carbon, nitrogen, phosphorus,
 and other elements to forms usable by primary producers. Without
 decomposition, ecosystems would rapidly accumulate dead organic matter and
 run out of available nutrients — effectively halting life.
@@ -48,14 +48,14 @@ substrates and operate at smaller spatial scales.
 As decomposition progresses, a fraction of the organic matter becomes
 chemically stabilized into humus — complex, recalcitrant organic compounds
 resistant to further microbial attack. Humus contributes to soil structure,
-cation exchange capacity, and long-term carbon storage. The remaining
+[[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity, and long-term carbon storage. The remaining
 nutrients are fully mineralized into inorganic forms (CO₂, NH₄⁺, PO₄³⁻,
 SO₄²⁻) available for plant uptake.
 
 ## Factors Controlling Decomposition Rates
 
 Decomposition rates vary enormously across ecosystems, from weeks in tropical
-forests to centuries in boreal forests and tundra. The principal controlling
+forests to centuries in [[fungal-diversity-boreal-forests-taiga]] and tundra. The principal controlling
 factors are:
 
 ### Substrate Quality
@@ -87,7 +87,7 @@ tundra environments.
 
 ### Soil Chemistry and Biology
 
-Soil pH influences microbial community composition — fungi dominate in
+Soil pH influences microbial [[core-endorhiza-bacterial-community-composition-cannabis]] — fungi dominate in
 acidic soils while bacteria dominate in neutral to alkaline conditions.
 Clay minerals can physically protect organic matter from microbial access
 through adsorption and aggregation. Calcium-rich soils tend to have faster
@@ -123,7 +123,7 @@ Decomposition releases approximately 60 gigatons of carbon per year as CO₂
 through soil respiration — roughly six times current anthropogenic fossil
 fuel emissions. This flux is balanced by approximately equal carbon fixation
 through photosynthesis, maintaining atmospheric CO₂ at relatively stable
-levels over millennial timescales. However, climate change threatens to
+levels over millennial timescales. However, [[dighton-fungi-climate-change-feedback]] threatens to
 destabilize this balance by accelerating decomposition rates (particularly
 in permafrost and boreal soils) while potentially reducing photosynthetic
 uptake through drought and heat stress.
@@ -137,7 +137,7 @@ decomposition, releasing more CO₂, causing further warming.
 ## Human Impacts
 
 Agriculture, deforestation, urbanization, and pollution all affect
-decomposition processes. Nitrogen deposition from atmospheric pollution
+decomposition processes. [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] from atmospheric pollution
 can suppress lignin-degrading fungi and slow decomposition of recalcitrant
 material, potentially increasing soil carbon storage but reducing nutrient
 availability. Pesticides and heavy metals can eliminate key decomposer

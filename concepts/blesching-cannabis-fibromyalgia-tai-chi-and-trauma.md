@@ -17,9 +17,9 @@ type: concept
 |---|---|
 | Total studies reviewed | 3 |
 | Total CHI value | 14 |
-| CHI score (average) | **4.66** |
+| [[blesching-cannabis-chi-score-methodology]] (average) | **4.66** |
 
-This is one of the highest confidence ratings in the entire Cannabis Health Index, reflecting strong evidence across meta-analyses and randomized controlled trials.
+This is one of the highest confidence ratings in the entire [[blesching-cannabis-health-index-autoimmune-conditions]], reflecting strong evidence across meta-analyses and randomized controlled trials.
 
 ## Overview
 
@@ -82,7 +82,7 @@ relatively equally to both CB1 and CB2 receptors. Both sativa and indica
 strains contain cannabinoids that activate these receptors, though
 sativa-dominant strains tend to produce higher THC:CBD ratios than indicas.
 For fibromyalgia, which involves both neurological pain pathways and
-inflammatory components, strain selection matters:
+inflammatory components, [[blesching-cannabis-strain-selection-receptor-targeting]] matters:
 - **Indica-dominant strains**: Recommended for nighttime use, addressing pain
   and sleep disturbance simultaneously
 - **Balanced strains**: Better suited for daytime use, providing pain relief
@@ -95,7 +95,7 @@ inflammatory components, strain selection matters:
 Functional brain-imaging, neurotransmitter, and brain anatomy studies comparing
 fibromyalgia patients with healthy individuals revealed alterations in central
 nervous system (CNS) anatomy, physiology, and chemistry. The frequent
-comorbidity with stress-related disorders — chronic fatigue, PTSD, irritable
+comorbidity with stress-related disorders — [[cannabis-chronic-fatigue-research]], PTSD, irritable
 bowel syndrome, and depression — suggests at least a partial common substrate.
 Researchers conclude that fibromyalgia may not be a primary brain disorder but
 may be a consequence of early life stress or prolonged severe stress affecting
@@ -115,7 +115,7 @@ minutes, three times per week. University of Washington researchers concluded
 that fibromyalgia is associated with increased risk of victimization,
 particularly adult physical abuse, and that sexual, physical, and emotional
 trauma may be important factors in the development and maintenance of the
-disorder. Contributing factors include early life stress, prolonged severe
+disorder. [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]] include early life stress, prolonged severe
 stress, low positive emotions during stress, and increased risk of
 victimization. By expressing and releasing personal traumatic experiences,
 patients can increase positive affect — a key mechanism in fibromyalgia
@@ -123,7 +123,7 @@ recovery.
 
 ## Tai Chi as Complementary Therapy
 
-Researchers conducted a single-blind, randomized trial of classic Yang-style tai chi, comparing stretching exercises to wellness education per the American College of Rheumatology 1990 criteria. Of 66 enrolled fibromyalgia patients, the 33 in the tai chi group showed measurable clinical improvement and a general increase in quality of life. Benefits persisted at six months with no adverse effects observed, making tai chi an accessible and safe adjunctive therapy.
+Researchers conducted a single-blind, randomized trial of classic Yang-style tai chi, comparing stretching exercises to wellness education per the American College of Rheumatology 1990 criteria. Of 66 enrolled fibromyalgia patients, the 33 in the tai chi group showed measurable clinical improvement and a general increase in quality of life. Benefits persisted at six months with no [[blesching-cannabis-safety-adverse-effects-evidence]] observed, making tai chi an accessible and safe adjunctive therapy.
 
 ## Key Takeaways
 

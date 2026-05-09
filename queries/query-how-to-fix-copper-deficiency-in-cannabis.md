@@ -1,10 +1,12 @@
 ---
-title: "How to Fix Copper Deficiency in Cannabis"
+title: "How to query how to fix copper deficiency in cannabis Deficiency in Cannabis"
 created: 2026-04-28
 tags: [query, cannabis, nutrients, deficiency, copper]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: query
 ---
 
@@ -24,7 +26,7 @@ but it is indispensable for several critical functions. Copper is a structural
 component of plastocyanin, a protein essential for electron transport during
 photosynthesis. It is also a cofactor for several enzymes involved in lignin
 synthesis, which gives stems and vascular tissue their rigidity and strength.
-Additionally, copper plays a role in protein synthesis, seed production, and the
+Additionally, copper plays a role in protein synthesis, [[cervantes-seed-production-storage]], and the
 plant's antioxidant defense system through superoxide dismutase enzymes that
 neutralize harmful reactive oxygen species generated during photosynthesis and
 metabolism.
@@ -62,13 +64,13 @@ beneficial microbes help cycle copper between unavailable and available forms,
 maintaining steady availability to plants through natural chelation processes.
 
 Copper also has natural fungicidal properties, which is why some growers use copper
-sprays as a preventive treatment against fungal pathogens. However, the same
+sprays as a preventive treatment against [[bloomfield-fungal-pathogens-and-parasites]]. However, the same
 concentrations that control fungi can be phytotoxic to cannabis if applied too
 frequently or at too high a concentration. This dual nature of copper as both an
 essential nutrient and a potential toxin means growers should focus on maintaining
 adequate copper through balanced nutrition rather than relying on copper sprays for
-disease management. The [[cannabis-copper-nutrient]] provides detailed identification guides and safe
-  dosing protocols for all growing mediums
+[[plant-disease-management-solomon]]. The [[cannabis-copper-nutrient]] provides detailed identification guides and safe
+  dosing protocols for all [[cervantes-growing-mediums-comparison]]
 - The margin between deficient and toxic copper is very narrow; always dose
   conservatively and prefer chelated forms for safety
 
@@ -93,4 +95,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

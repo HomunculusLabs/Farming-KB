@@ -19,10 +19,10 @@ type: concept
 Sulfur dioxide (SO2) and its solubility products are toxic to fungi at
 environmentally realistic concentrations. The effects of sulfur-containing
 pollutants on saprotrophic fungal activity influence litter decomposition
-rates, nutrient cycling, and organic matter turnover in forest ecosystems.
+rates, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and organic matter turnover in forest ecosystems.
 Sulfite, the primary toxic solubility product of SO2, suppresses mycelial
 growth, respiration, and spore germination, with species-specific
-differential sensitivity that can alter fungal community composition.
+differential sensitivity that can alter fungal [[core-endorhiza-bacterial-community-composition-cannabis]].
 
 ## Sulfite Toxicity Chemistry
 
@@ -32,7 +32,7 @@ toxic solubility product sulfurous acid (H2SO3). At low soil pH (2 to
 and higher, sulfite (SO3 2-) predominates (Dursun et al., 1996a).
 Sulfur solubility products are used in the brewing and food industries
 for sterilization, so their negative effect on fungi in natural
-ecosystems under atmospheric deposition of acidifying pollutants is
+ecosystems under atmospheric deposition of [[dighton-fungi-acidifying-pollutants-forest-ecosystems]] is
 expected. The pH-dependent speciation of sulfur compounds means that
 the toxicity of acidifying deposition varies with soil conditions.
 
@@ -88,13 +88,13 @@ decomposition of high C:N ratio woody material.
 ## Acid Mist Stimulation of Fungal Activity
 
 Shaw (1996) showed in experimental mesocosms exposed to ozone and
-acid mist (2:1 mixture of H2SO4:HNO3) that metabolically active
+acid mist (2:1 mixture of H2SO4:HNO3) that [[isolation-metabolically-active-arbuscules-intraradical-hyphae]]
 fungal hyphae in two leaf litters were significantly greater in
 acid-misted than control systems. This stimulation may be attributable
 to the addition of nitrogen, which would help decompose high C:N
 litter resources. This paradoxical stimulation contrasts with the
 negative effects of sulfite and SO2, highlighting the complexity of
-pollutant effects on fungal communities.
+pollutant [[brassinosteroid-effects-on-fungal-morphology]] communities.
 
 ## Decomposition Rate Impacts
 
@@ -117,5 +117,5 @@ statements about negative impacts on fungal decomposition are difficult.
 
 ## Sources
 
-- Dighton, J. (2003). Fungi in Ecosystem Processes. Marcel Dekker.
+- Dighton, J. (2003). Fungi in [[fungal-ecosystem-processes-overview]]. Marcel Dekker.
   Chapter 6: Fungal Interactions with Humans.

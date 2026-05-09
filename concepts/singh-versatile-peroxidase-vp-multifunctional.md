@@ -1,5 +1,5 @@
 ---
-title: "Versatile Peroxidase (VP): Multifunctional Enzyme"
+title: "singh versatile peroxidase vp multifunctional (VP): Multifunctional Enzyme"
 created: 2026-04-26
 tags:
   - versatile-peroxidase
@@ -18,7 +18,7 @@ type: concept
 
 Versatile peroxidase (VP; EC 1.11.1.16) is a unique ligninolytic
 peroxidase that combines the catalytic properties of both lignin
-peroxidase (LiP) and manganese peroxidase (MnP) within a single
+peroxidase (LiP) and [[fungal-manganese-peroxidase-remediation]] (MnP) within a single
 protein. Originally described in pleurotus eryngii, VP represents
 a molecular hybrid that broadens the bioremediation potential of fungal
 peroxidase systems by enabling both direct oxidation of non-phenolic
@@ -72,7 +72,7 @@ In the absence of Mn2+ or when non-phenolic substrates are present, VP
 directly oxidizes substrates at the exposed heme edge. The surface
 tryptophan residue acts as a long-range electron transfer hub, accepting
 electrons from bulky aromatic substrates and transferring them to the
-heme center. Veratryl alcohol and other LiP substrates are efficiently
+heme center. [[staycare-veratryl-alcohol-as-lignin-peroxidase-mediator]] and other LiP substrates are efficiently
 oxidized through this pathway.
 
 ### Synergistic Operation
@@ -102,10 +102,10 @@ VP's dual functionality makes it particularly effective for:
 
 1. **Recalcitrant pollutant degradation**: Simultaneous oxidation of
    phenolic and non-phenolic components of industrial effluents.
-2. **Dye decolorization**: Efficient removal of structurally diverse
+2. **[[singh-textile-dye-decolorization-fungal]]**: Efficient removal of structurally diverse
    dyes including azo, anthraquinone, and triphenylmethane classes.
 3. **PAH oxidation**: Degradation of both low- and high-molecular-
-   weight polycyclic aromatic hydrocarbons.
+   weight [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons.
 4. **Pharmaceutical degradation**: Oxidation of emerging contaminants
    including antibiotics and endocrine-disrupting compounds.
 5. **Lignin valorization**: Selective modification of lignin for
@@ -118,7 +118,7 @@ VP offers practical advantages over individual LiP or MnP systems:
 - Functions under less restrictive nutritional conditions than LiP
 - Broader pH tolerance (optimal pH 3.0-5.0)
 - Effective in both Mn2+-rich and Mn2+-poor environments
-- Simpler genetic engineering target (single gene)
+- Simpler [[fukuoka-textdoc-genetic-engineering-critique-warning]] target (single gene)
 
 ## See Also
 

@@ -12,8 +12,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Trappe JM, Molina R, Castellano MA (2007). "Kalapuya, a new genus of truffle." Mycotaxon 100: 437-447.
-  - Trappe JM, Castellano MA, Molina R (2010). "The Oregon truffles: Kalapuya brunnea and K. fibuliformis." North American Truffling Society.
-  - Palfner G, et al. (2019). "Ectomycorrhizal fungi of Pacific Northwest forests." Mycorrhiza 29(4): 329-351.
+  - Trappe JM, Castellano MA, Molina R (2010). "The Oregon truffles: Kalapuya brunnea and K. fibuliformis." [[growing-gourmet-north-american-reishi-species]] Truffling Society.
+  - Palfner G, et al. (2019). "[[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] of Pacific Northwest forests." Mycorrhiza 29(4): 329-351.
   - Kuo M (2024). "Oregon Truffles." MushroomExpert.com.
   - Trudell SA, Ammirati JF (2009). Mushrooms of the Pacific Northwest. Timber Press.
 ---
@@ -60,7 +60,7 @@ Fruiting occurs underground at depths of 2–15 cm, typically from October throu
 
 ## Harvesting and Culinary Use
 
-Oregon brown truffles are harvested commercially using **trained dogs** that detect the mature aroma through soil. Raking is sometimes used but is considered destructive to the mycorrhizal network and is discouraged by sustainable harvesting advocates.
+Oregon brown truffles are harvested commercially using **trained dogs** that detect the mature aroma through soil. Raking is sometimes used but is considered destructive to the [[arbuscular-mycorrhizal-network-visualization-anastomosis]] and is discouraged by sustainable harvesting advocates.
 
 In cuisine, *K. brunnea* is used similarly to European truffles but requires more careful handling. The delicate aroma degrades rapidly after harvest — most chefs recommend using the truffles within 48–72 hours of collection.
 
@@ -80,13 +80,13 @@ The underground fruiting bodies provide food for forest-dwelling mammals includi
 
 Cultivation of *K. brunnea* has been attempted through **inoculation of Douglas-fir seedlings** with spore slurries and mycelial cultures. Limited success has been reported in controlled plantation settings, with truffle production beginning 5–8 years after planting.
 
-Compared to European truffle cultivation, Oregon truffle cultivation remains experimental. Key challenges include establishing the correct soil microbiome, managing competing ectomycorrhizal fungi, and achieving consistent fruiting.
+Compared to European [[comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation]], Oregon truffle cultivation remains experimental. Key challenges include establishing the correct soil microbiome, managing competing ectomycorrhizal fungi, and achieving consistent fruiting.
 
 ### Host Tree Management
 
 Successful plantations require well-drained, slightly acidic soils (pH 5.5–6.5) typical of Douglas-fir forest soils. Canopy management is critical — too much shade suppresses truffle production, while excessive exposure dries the soil surface and disrupts the mycorrhizal network.
 
-Companion planting with understory species that support the soil microbiome without competing for mycorrhizal space has shown promise in experimental plots.
+[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] with understory species that support the soil microbiome without competing for mycorrhizal space has shown promise in experimental plots.
 
 ## Comparison with European Truffles
 
@@ -102,7 +102,7 @@ From a **taxonomic perspective**, *Kalapuya* is more closely related to *Leucang
 
 Sustainable harvesting guidelines developed by the North American Truffling Society recommend leaving a portion of each truffle patch undisturbed, avoiding raking, and refraining from harvesting during drought conditions.
 
-Climate change models predict reduced winter precipitation in the Pacific Northwest, which could impact the species' fruiting patterns. Warmer, drier autumns may reduce truffle abundance and shift the geographic range northward over coming decades.
+[[dighton-fungi-climate-change-feedback]] models predict reduced winter precipitation in the Pacific Northwest, which could impact the species' fruiting patterns. Warmer, drier autumns may reduce truffle abundance and shift the geographic range northward over coming decades.
 
 ## See Also
 

@@ -127,5 +127,7 @@ strained his relationships with more empirically minded colleagues.
 
 ## See Also
 
+- [[hofmann-mysticism-meditation-reality]]
+
 - [[hofmann-lsd-clinical-research-early-studies]]
 - [[hofmann-lsd-psychiatric-research]]

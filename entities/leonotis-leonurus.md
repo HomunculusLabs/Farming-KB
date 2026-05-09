@@ -54,10 +54,10 @@ The genus name *Leonotis* derives from the Greek *leon* (lion) and *otis* (ear),
 Square (quadrangular) stems typical of the Lamiaceae, becoming woody at the base with age. Young stems are green and herbaceous, covered with fine hairs (pubescent). Stem coloration ranges from green to purplish-green, particularly when exposed to full sun.
 
 ### Leaves
-Opposite, simple, lanceolate to ovate-lanceolate, 5–15 cm long and 1–5 cm wide. Leaf margins are coarsely serrate to dentate. Upper leaf surface is dark green and rough-textured (scabrous); the lower surface is lighter green with prominent venation. Leaves emit a strong, characteristic minty-herbal aroma when crushed due to their volatile essential oil content.
+Opposite, simple, lanceolate to ovate-lanceolate, 5–15 cm long and 1–5 cm wide. Leaf margins are coarsely serrate to dentate. Upper [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is dark green and rough-textured (scabrous); the lower surface is lighter green with prominent venation. Leaves emit a strong, characteristic minty-herbal aroma when crushed due to their volatile [[permaculture-designers-manual-essential-oil-plants]] content.
 
 ### Flowers
-The most distinctive feature — arranged in dense, spherical whorls (verticillasters) at intervals along the terminal flower spikes. Each whorl contains 6–12 tubular flowers. Individual flowers are 25–35 mm long, bilabiate (two-lipped), with the characteristic bright orange to reddish-orange corolla. The calyx is tubular, 10–12 mm long, with 5 teeth. Flowering occurs primarily from late summer through autumn (February–May in the Southern Hemisphere; August–November in the Northern Hemisphere), though in warm climates it can bloom intermittently year-round.
+The most distinctive feature — arranged in dense, spherical whorls (verticillasters) at intervals along the terminal flower spikes. Each whorl contains 6–12 tubular flowers. Individual flowers are 25–35 mm long, bilabiate (two-lipped), with the characteristic bright orange to reddish-orange corolla. The calyx is tubular, 10–12 mm long, with 5 teeth. Flowering occurs primarily from late summer through autumn (February–May in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]; August–November in the Northern Hemisphere), though in warm climates it can bloom intermittently year-round.
 
 ### Fruit
 Small nutlets (mericarps), approximately 2 mm long, brown, enclosed within the persistent calyx.
@@ -73,7 +73,7 @@ Small nutlets (mericarps), approximately 2 mm long, brown, enclosed within the p
 - **Lesotho:** Lowland areas
 - **Zimbabwe:** Eastern highlands
 
-It occurs naturally in a variety of habitats including grassland, savanna, forest margins, rocky hillsides, disturbed areas, and along roadsides and watercourses. It is particularly abundant in the fynbos and grassland biomes of South Africa. The plant has been naturalized in Australia (Queensland, New South Wales), parts of the Mediterranean, California, Hawaii, and Central America. In some regions (e.g., parts of Australia), it is considered an environmental weed.
+It occurs naturally in a variety of habitats including grassland, savanna, forest margins, rocky hillsides, disturbed areas, and along roadsides and watercourses. It is particularly abundant in the fynbos and grassland biomes of South Africa. The plant has been naturalized in Australia (Queensland, New South Wales), parts of the Mediterranean, California, Hawaii, and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. In some regions (e.g., parts of Australia), it is considered an environmental weed.
 
 ### Climate Requirements
 - Hardiness zones: 9–11 (USDA)
@@ -84,7 +84,7 @@ It occurs naturally in a variety of habitats including grassland, savanna, fores
 
 ## Chemical Composition
 
-The phytochemistry of *Leonotus leonurus* is diverse, with several classes of bioactive compounds:
+The phytochemistry of *Leonotus leonurus* is diverse, with several classes of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:
 
 ### Diterpenes
 The most pharmacologically significant constituents are labdane diterpenoids, particularly:
@@ -95,7 +95,7 @@ The most pharmacologically significant constituents are labdane diterpenoids, pa
 - **Leojaponin:** Diterpenoid lactone with cytotoxic properties
 
 ### Essential Oils
-Steam distillation yields 0.3–0.8% essential oil, composed of:
+[[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] yields 0.3–0.8% essential oil, composed of:
 
 | Compound | Percentage | Notes |
 |----------|-----------|-------|
@@ -139,6 +139,8 @@ In contemporary herbalism and ethnopharmacology, *L. leonurus* is used for:
 ## Pharmacological Research
 
 ## See Also
+
+- leonotis-nepetifolia
 
 - [[leonurus-cardiaca-entity]] — Motherwort (Lamiaceae relative)
 - [[cannabis-sativa]] — Cannabis (frequently compared entheogen)

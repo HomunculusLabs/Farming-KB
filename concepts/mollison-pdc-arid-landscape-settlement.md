@@ -1,5 +1,5 @@
 ---
-title: Arid Landscape Settlement and Water Strategy
+title: mollison pdc arid landscape settlement Settlement and Water Strategy
 created: 2026-04-28
 tags:
   - permaculture
@@ -18,8 +18,8 @@ type: concept
 
 ## The Arid Landscape Profile
 
-The Permaculture Design Course provides detailed analysis of arid
-landscape geomorphology as the basis for settlement design. For complementary strategies, see [[permaculture-earthworks]]. In the
+The [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] Course provides detailed analysis of arid
+landscape geomorphology as the basis for [[cool-climate-settlement-design-mollison]]. For complementary strategies, see [[permaculture-earthworks]]. In the
 classic arid landscape, two erosion levels define the landform: a
 receding scarp traveling geologically backwards, a down-drop of the
 scarp, a back slope, and then a slope to the pediment. Scarps are very
@@ -103,10 +103,10 @@ not food but water. When water reaches wadi soils:
 ## Desert Agriculture and Water Storage
 
 The PDC describes strategies for reliable agriculture in limited desert
-water situations. See [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]] for erosion control in arid regions:
+water situations. See [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]] for [[permplant-willows-salix-erosion-control-fodder]] in arid regions:
 
 - Rock wall dams can store 100,000 gallons, built from rock and cement
-- Rock diversion drains from molded concrete or low stonewalls can
+- Rock [[mollison-designers-diversion-drains-and-interceptor-banks]] from molded concrete or low stonewalls can
   consolidate scattered flow
 - Die ponds (hand-dug) never dry up and provide reliable stock water
 - Limited situations exist where catchment is large and reliable enough
@@ -116,4 +116,10 @@ water situations. See [[mollison-permaculture-two-arid-water-harvesting-and-eros
 
 ## Animal Systems in Arid Landscapes
 
-Mollison discusses the complex role of animals in desert ecology. For Mollison's analysis of aquaculture in arid environments, see [[mollison-pdc-arid-landscape-scarp-ecology-and-settlement]]
+Mollison discusses the complex role of animals in desert ecology. For Mollison's analysis of aquaculture in arid environments, see mollison-pdc-arid-landscape-scarp-ecology-and-settlement
+## See Also
+- [[permaculture-design]]
+- [[arid-landscape-scarp-wadi-desert-settlement]]
+- [[mollison-designers-check-dam-types-and-landscape-placement]]
+- [[mollison-arid-lands-aquatic-species]]
+- [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]

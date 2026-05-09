@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Mushroom Accidental Ingestion Cases
+title: emcdda-psilocybin-mushroom-dose-and-effects psilocybin-accidental-ingestion-australia Cases
 created: 2026-04-19
 updated: 2026-04-18
 type: concept
@@ -36,7 +36,7 @@ The documented cases of accidental psilocybin ingestion share several common fea
 1. **Misidentification:** The mushroom was collected and consumed as food, not as a drug
 2. **Habitat overlap:** Psychoactive species grew in the same areas as edible species
 3. **Similar appearance:** The psychoactive species resembled a locally common edible species
-4. **Cooking:** Mushrooms were typically cooked before consumption (standard practice for wild mushrooms)
+4. **Cooking:** Mushrooms were typically cooked before consumption (standard practice for [[edible-wild-mushrooms-by-region]])
 5. **Family consumption:** Multiple family members were usually affected
 6. **Complete recovery:** No documented fatalities or lasting harm from accidental psilocybin ingestion alone
 
@@ -70,7 +70,7 @@ This pattern underscores the importance of education: knowing that psilocybin mu
 Accidental psilocybin ingestion is usually benign because:
 
 1. **Psilocybin is not organ-toxic:** It does not damage the liver, kidneys, or other organs (unlike amatoxins)
-2. **Psilocybin has a high therapeutic index:** The active dose (10-30 mg) is far below the toxic dose (estimated LD50: 280 mg/kg in mice)
+2. **Psilocybin has a high [[cannabis-therapeutic-index-overview]]:** The active dose (10-30 mg) is far below the toxic dose (estimated LD50: 280 mg/kg in mice)
 3. **Psilocybin effects are self-limiting:** The experience resolves within 4-6 hours without intervention
 4. **No withdrawal:** There are no withdrawal symptoms
 5. **No physical dependence:** There is no addiction potential
@@ -80,8 +80,8 @@ Accidental psilocybin ingestion is usually benign because:
 The mushrooms that SHOULD be feared (and that cause actual fatalities) include:
 
 - **Amanita phalloides** (death cap) -- Causes liver failure, often fatal
-- **Amanita virosa** (destroying angel) -- Similar to death cap
-- **Gyromitra esculenta** (false morel) -- Contains gyromitrin, can be fatal
+- **[[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]** (destroying angel) -- Similar to death cap
+- **Gyromitra esculenta** ([[bloomfield-false-morel-gyromitrin-volatile-toxin-cooking-risk]]) -- Contains gyromitrin, can be fatal
 - **Cortinarius species** -- Contain orellanine, cause kidney failure
 
 The confusion between these genuinely deadly species and psilocybin-containing species has caused unnecessary fear of the latter.

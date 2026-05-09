@@ -15,7 +15,7 @@ Office Open XML (OOXML) is a zipped, XML-based file format developed by
 Microsoft for representing spreadsheets, charts, presentations, and word
 processing documents. Standardized as ECMA-376 and later ISO/IEC 29500, OOXML
 is the default format for Microsoft Office 2007 and later applications. Files
-use the `.docx`, `.xlsx`, and `.pptx` extensions, where the trailing "x"
+use the `.[[docx]]`, `.xlsx`, and `.pptx` extensions, where the trailing "x"
 denotes the XML-based format replacing the legacy binary `.doc`, `.xls`, and
 `.ppt` formats.
 
@@ -76,7 +76,7 @@ compatibility modes.
 The Open Document Format (ODF), standardized as ISO 26300, remains the primary
 alternative and is mandated by several governments as a document exchange
 standard. The ongoing coexistence of OOXML and ODF has driven the development
-of format conversion tools and the open standards movement in government IT
+of [[document-format-conversion-fidelity]] tools and the open standards movement in government IT
 procurement.
 
 ## See Also

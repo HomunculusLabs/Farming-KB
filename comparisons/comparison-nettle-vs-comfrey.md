@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [comparison, dynamic-accumulators, permaculture, medicinal-herbs, mulch-crops]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -12,18 +13,18 @@ type: comparison
 
 ## Overview
 
-Stinging nettle (*Urtica dioica*) and comfrey (*Symphytum officinale*) are the
-two most celebrated dynamic accumulator plants in permaculture. Both mine
+[[comparison-stinging-nettle-vs-horsetail]] (*Urtica dioica*) and comfrey (*Symphytum officinale*) are the
+two most celebrated [[nutrient-dynamic-accumulator-reference]] plants in permaculture. Both mine
 minerals from deep subsoil layers, produce nutrient-rich biomass for mulch and
-fertilizer, support beneficial insect populations, and offer significant
+fertilizer, support [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] populations, and offer significant
 medicinal value. Yet they differ markedly in their growth habits, nutritional
 profiles, practical uses, and management requirements. Understanding these
-differences allows growers to choose the right plant for each function, or to
+differences allows growers to [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] plant for each function, or to
 combine both for maximum soil-building benefit.
 
 ## Stinging Nettle
 
-[[mollison-designers-dynamic-accumulators-comfrey]]
+mollison-designers-dynamic-accumulators-comfrey
 
 Comfrey is a deep-rooted perennial that produces enormous quantities of
 biomass from a dense, clumping root system. The roots can extend 2 meters or
@@ -55,13 +56,13 @@ the leaves.
 | **Primary Nutrients** | Nitrogen, iron, calcium | Potassium, phosphorus, calcium |
 | **Edible Leaves** | Yes, highly nutritious | No, contains PAs |
 | **Medicinal Safety** | Generally safe internally | Topical only; PAs are hepatotoxic |
-| **Biomass Production** | Moderate, multiple cuts | Very high, 4 to 6 cuts per season |
+| **[[dighton-fungal-biomass-production-aquatic-ecosystems]]** | Moderate, multiple cuts | Very high, 4 to 6 cuts per season |
 | **Insect Support** | Butterfly host plant | Bee forage (flowers) |
 | **Fiber Crop** | Yes, bast fiber for textiles | No |
 | **Spread Control** | Requires root barriers | Self-contained (sterile cultivars) |
 | **Liquid Fertilizer** | High nitrogen (leaf growth) | High potassium (fruit/flower) |
 | **Shade Tolerance** | High, grows in full shade | Moderate, prefers full sun |
-| **Drought Tolerance** | Moderate | High once established |
+| **[[dighton-fungal-drought-tolerance-plant-water-relations]]** | Moderate | High once established |
 
 ## When to Choose Nettle
 
@@ -97,6 +98,9 @@ both nitrogen (from nettle) and potassium (from comfrey), suitable for all
 growth stages.
 
 ## See Also
+
+- [[comparison-moringa-vs-comfrey]]
+- [[comparison-chamomile-vs-nettle]]
 
 - [[comparison-comfrey-vs-aloe-vera]]
 

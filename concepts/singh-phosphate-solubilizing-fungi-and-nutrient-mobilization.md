@@ -1,5 +1,5 @@
 ---
-title: "Phosphate Solubilizing Fungi and Nutrient Mobilization"
+title: "singh phosphate solubilizing fungi and nutrient mobilization Fungi and Nutrient Mobilization"
 created: 2026-04-28
 tags: [phosphate-solubilization, psf, aspergillus, penicillium, agriculture]
 date: 2026-04-25
@@ -48,10 +48,10 @@ Fungal siderophores indirectly contribute to phosphate availability:
 ### Other PSF Genera
 
 - **Trichoderma**: T. harzianum and T. viride solubilize phosphate
-  through citric and fumaric acid production
+  through citric and fumaric [[staycare-fungal-organic-acid-production-metal-leaching]]
 - **Mucor and Rhizopus**: Zygomycete fungi effective at solubilizing
   calcium phosphates
-- **Ectomycorrhizal fungi**: Pisolithus, Suillus, and Laccaria mobilize
+- **[[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]**: Pisolithus, Suillus, and Laccaria mobilize
   phosphorus from mineral soils
 
 ## Agricultural Significance
@@ -64,8 +64,8 @@ PSF offer multiple benefits for sustainable agriculture:
 2. **Improved phosphorus use efficiency**: Only 15-20% of applied
    phosphate fertilizer is taken up by crops; PSF enhance this
 3. **Soil health improvement**: PSF activity improves soil structure
-   through mineral weathering and enhanced microbial dynamics
-4. **Plant growth promotion**: PSF produce phytohormones (IAA,
+   through [[mycorrhizal-mineral-weathering-nutrient-acquisition]] and enhanced microbial dynamics
+4. **Plant [[brassinosteroid-growth-promotion-psilocybe-cubensis]]**: PSF produce phytohormones (IAA,
   gibberellins) and suppress soil-borne pathogens
 
 ## Interaction with Mycorrhizal Fungi
@@ -82,6 +82,6 @@ PSF and mycorrhizal fungi often work synergistically:
 
 In the [[biosorption-isotherms]] or [[singh-mycorrhizal-exudates-root-exudate-interactions]] -- related exudate
   chemistry at the root-fungus interface
-- [[mycoremediation-pahs]] -- context for fungal remediation applications
+- [[mycoremediation-pahs]] -- context for [[cotter-pet-livestock-waste-fungal-remediation-systems]] applications
 - heavy metal contamination -- metals associated with phosphate
   minerals in contaminated soils

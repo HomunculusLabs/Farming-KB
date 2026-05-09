@@ -1,5 +1,5 @@
 ---
-title: Urban Farming Methods
+title: Urban natural-farming-methods-comparison
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Urban farming brings food production into cities and densely populated areas. With creative approaches to space, light, and soil, urban farmers can produce significant amounts of food on rooftops, balconies, vacant lots, and small yards. This guide covers container gardening, vertical growing, rooftop gardens, SPIN farming, and community gardens.
+Urban farming brings food production into cities and densely populated areas. With creative approaches to space, light, and soil, urban farmers can produce significant amounts of food on rooftops, balconies, vacant lots, and small yards. This guide covers [[comparison-cold-frame-gardening-vs-container-gardening-guide]], vertical growing, rooftop gardens, SPIN farming, and community gardens.
 
 ## Container Gardening
 
@@ -17,7 +17,7 @@ Container gardening is the most accessible form of urban food production — it 
 
 ### Container Selection
 - **Fabric grow bags**: Excellent drainage, air-pruning roots, affordable
-- **Plastic pots**: Lightweight, retain moisture; ensure drainage holes
+- **[[query-fabric-pots-vs-plastic-pots-vs-air-pots-for-cannabis]]**: Lightweight, retain moisture; ensure drainage holes
 - **Self-watering containers**: Reservoir system reduces watering frequency
 - **5-gallon buckets**: Inexpensive DIY; drill drainage holes
 
@@ -35,7 +35,7 @@ Container gardening is the most accessible form of urban food production — it 
 - **Carrots**: Need 10-12 inch depth; choose short varieties; see [[carrot-growing-guide]]
 - **Beans**: Bush beans in 5-gallon pots; pole beans with a trellis; see [[bean-growing-guide]]
 - **Cucumbers**: Bush types in 5-gallon pots; vining types with a trellis; see [[cucumber-growing-guide]]
-- **Strawberries**: Excellent in containers and hanging baskets; see [[strawberry-growing-guide]]
+- **Strawberries**: Excellent in containers and [[hamilton-hanging-baskets-organic]]; see [[strawberry-growing-guide]]
 - **Blueberries**: Require acidic potting mix (peat-based); see [[blueberry-growing-guide]]
 
 ### Water Management
@@ -70,7 +70,7 @@ Vertical growing maximizes production in limited square footage by using walls, 
 ### Structural Considerations
 - Ensure walls support the weight of wet soil and mature plants
 - Provide adequate light — vertical surfaces may be shaded
-- Plan drip irrigation; upper levels dry out faster
+- Plan [[comparison-drip-irrigation-vs-passive-irrigation]]; upper levels dry out faster
 
 ## Rooftop Gardens
 
@@ -111,7 +111,7 @@ SPIN farming is a commercial-scale urban farming method that generates income fr
 - **Sub-acre scale**: Profitable farming on less than one acre
 - **Minimal infrastructure**: Low startup cost; uses hand tools and small equipment
 - **Intensive relay cropping**: Multiple crops per bed per season
-- **Direct marketing**: Sell directly to customers, restaurants, CSAs, farmers markets
+- **[[coleman-direct-marketing-and-csa-models]]**: Sell directly to customers, restaurants, CSAs, farmers markets
 
 ### SPIN Farming Workflow
 1. **Siting**: Find backyard, front yard, vacant lot, or shared land
@@ -138,45 +138,6 @@ Community gardens are shared growing spaces where individuals or groups manage p
 
 ### Benefits
 - Access to growing space for apartment dwellers and those without yards
-- Community building and social connection
-- Shared knowledge and resources (tools, compost, water)
-- Fresh food production in food deserts
-- Green space and biodiversity in urban environments
-- Educational opportunities for children and adults
-
-### Getting Started
-- Find existing gardens through local parks departments or the American Community Garden Association
-- Typical plot size: 10x20 to 20x30 feet; fees: $20-100 per year
-
-### Community Garden Best Practices
-- Establish clear rules: plot maintenance standards, organic-only policies, tool care
-- Create common areas: compost bins, tool sheds, pollinator gardens
-- Organize work days; plan crop rotations to avoid soil depletion
-
-## Balcony and Patio Growing
-
-The smallest urban growing spaces can still be productive.
-
-### Balcony Considerations
-- Weight limits and sun exposure (south-facing: full sun; north-facing: shade)
-- Wind exposure common on upper floors; use windbreaks and secure containers
-- Dripping water on neighbors below — use saucers or self-watering containers
-
-### Productive Balcony Crops
-- Hanging baskets: Strawberries, cherry tomatoes, trailing herbs
-- Railing planters: Lettuce, herbs, radishes, edible flowers
-- Floor containers: Tomatoes, peppers, beans, cucumbers with trellis
-
-## Season Extension in Urban Spaces
-
-Small urban growing spaces benefit greatly from season extension techniques.
-
-- **Row covers and low tunnels**: Extend the season by 4-6 weeks in spring and fall
-- **Cold frames**: Simple boxes with glass or plastic lids for hardening off and winter growing
-- **Mini hoop houses**: Cover raised beds or container areas for winter greens
-- **Indoor growing under lights**: Year-round production of herbs, microgreens, and salad greens
-- See [[herb-growing-guide]] for indoor herb growing details
-
 ## See Also
 
 - [[food-forest-design]] for perennial polyculture approaches

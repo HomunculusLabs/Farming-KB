@@ -1,5 +1,5 @@
 ---
-title: Ketamine - The Essential Psychedelics Guide
+title: Ketamine - The turner-essential-psychedelics-5-meo-dmt-void-experience Guide
 created: 2026-04-26
 author: D.M. Turner
 sources: The Essential Psychedelics Guide (1994)
@@ -18,7 +18,7 @@ Ketamine is a general anesthetic manufactured by Parke Davis (marketed as Ketala
 
 ## History
 
-Ketamine is used clinically as a general anesthetic, considered "gentle" and often given to children and elderly people. Its psychedelic characteristics were discovered after recipients reported "reemergence" experiences while coming out of anesthesia. Further experiments showed that a dose much smaller than the anesthetic dose produces a psychedelic experience of incredible intensity.
+Ketamine is used clinically as a general anesthetic, considered "gentle" and often given to children and elderly people. Its psychedelic characteristics were discovered after recipients reported "reemergence" experiences while coming out of anesthesia. Further experiments showed that a dose much smaller than the anesthetic dose produces a [[leary-psychedelic-experience-bardo-mapping]] of incredible intensity.
 
 ## Dosage and Administration
 
@@ -120,6 +120,8 @@ Much of the life energy (Chi or Kundalini) departs the body during the journey, 
 ### Warning on Combining with Natural Psychedelics
 Turner eventually decided against combining Ketamine with any natural psychedelics. The "entities" of natural psychedelic realms appear adverse to having their realms polluted by K. The combination with mescaline was particularly problematic - the entity "Mescalito" was left shocked, stunned, and confused by the introduction of the powerful synthetic.
 ## See Also
+
+- [[turner-ketamine-realms-dissociative-consciousness]]
 
 - [[turner-lsd]]
 - [[psychedelic-combination-guide]]

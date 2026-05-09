@@ -1,5 +1,5 @@
 ---
-title: Mushroom Cultivation in Thailand
+title: accessible-mushroom-cultivation-for-disabilities in Thailand
 created: 2026-04-28
 tags:
   - thailand
@@ -30,7 +30,7 @@ Thailand cultivates a remarkable diversity of mushroom species:
 
 | Species | Common Name | Market Price (THB/kg) |
 |---------|-------------|----------------------|
-| Ganoderma lucidum | Reishi | 1,000-1,500 |
+| [[stamets-reishi-ganoderma-lucidum-cultivation]] | Reishi | 1,000-1,500 |
 | Hericium erinaceus | Lion's mane | 1,000 (dry) |
 | Tremella fuciformis | Silver ear | 300-350 |
 | Agrocybe cylindracea | Black poplar | 250-300 |
@@ -39,8 +39,8 @@ Thailand cultivates a remarkable diversity of mushroom species:
 | Flammulina velutipes | Enokitake | 150-200 |
 | Pleurotus citrinopileatus | Golden oyster | 150-200 |
 | Lentinula edodes | Shiitake | 160-180 |
-| Agaricus bisporus | Button | 80-120 |
-| Volvariella volvacea | Straw | 90-120 |
+| [[genetic-improvement-agaricus-bisporus-molecular-approaches]] | Button | 80-120 |
+| [[paddy-straw-mushroom-volvariella-volvacea-cultivation]] | Straw | 90-120 |
 | Pleurotus ostreatus | Oyster | 30-40 |
 | Auricularia auricula | Wood ear | 30-50 |
 
@@ -92,12 +92,12 @@ Oyster mushroom: 6 months per crop, 200-500g per 1kg bag, THB20 wholesale,
 THB25 retail. Abalone mushroom: 1 year cycle, 500g/kg/year, THB40 wholesale,
 THB50 retail. Yanagi matsutake: 1-1.5 months to first harvest, 10 flushes per
 year, 150-200g/kg total, THB100-120/kg. Shiitake: cultivated in highland or
-cool season, evaporative cooling with cold water on roof, 3-9 flushes per crop.
+cool season, [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]] with cold water on roof, 3-9 flushes per crop.
 
 ## Medicinal Mushroom Revolution
 
 Ganoderma lucidum (reishi) and Hericium erinaceus (lion's mane) were recently
-introduced, generating great interest in medicinal mushrooms and Thai traditional
+introduced, generating great interest in [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] and Thai traditional
 medicine. Reishi and dried lion's mane fetch THB1,000-1,500/kg and THB1,000/kg
 respectively, 25-50 times the price of oyster mushroom. Growing medicinal
 mushrooms is described as producing "golden eggs."

@@ -1,5 +1,5 @@
 ---
-title: "EMCDDA Hallucinogenic Mushroom Amanita Muscaria Emerging Alternative"
+title: "EMCDDA emcdda hallucinogenic mushroom amanita muscaria emerging alternative allegro-amanita-muscaria-properties-and-pharmacology Emerging Alternative"
 created: 2026-04-28
 tags:
   - emcdda
@@ -21,7 +21,7 @@ type: concept
 Following the prohibition of psilocybin-containing mushrooms in several EU
 Member States, a notable market substitution effect emerged: retailers began
 promoting Amanita muscaria (fly agaric) and related species as legal
-alternatives to hallucinogenic mushrooms. The EMCDDA 2006 thematic paper
+alternatives to [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]. The EMCDDA 2006 thematic paper
 identified this trend as a significant concern, as Amanita muscaria carries
 substantially different pharmacological properties and health risks compared
 to psilocybin-containing mushrooms.
@@ -42,7 +42,7 @@ fundamentally different active chemicals:
 These active chemicals are totally different from psilocybin and psilocin,
 producing qualitatively different effects. The experience is generally
 described as more deliriant and dissociative rather than the classic
-psychedelic effects of psilocybin mushrooms.
+psychedelic effects of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]].
 
 ## Health Risks of Amanita Muscaria
 
@@ -54,7 +54,7 @@ mushrooms:
   higher doses.
 - Some closely related Amanita species are highly toxic and could cause
   fatal poisoning, creating a serious misidentification risk.
-- The therapeutic index is narrower than for psilocybin, meaning the
+- The [[cannabis-therapeutic-index-overview]] is narrower than for psilocybin, meaning the
   difference between an active dose and a toxic dose is smaller.
 - Effects can include nausea, vomiting, dizziness, confusion, agitation,
   and at higher doses, delirium and loss of coordination.
@@ -77,7 +77,7 @@ Following the July 2005 ban on psilocybin-containing fungi as Class A drugs:
   substitute.
 - The closely related Amanita pantherina (Panther mushroom or Panther cap)
   was also offered as an alternative.
-- Purple Ohms capsules, whose main ingredient is Argyreia nervosa
+- Purple Ohms capsules, whose main ingredient is [[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]]
   (Hawaiian Baby Woodrose) containing Lysergic Acid Amide (LSA), were
   increasingly marketed as having similar effects to LSD.
 

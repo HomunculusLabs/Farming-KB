@@ -1,5 +1,5 @@
 ---
-title: "Amanita muscaria and Amanita pantherina: Ibotenic Acid and Muscimol Pharmacology"
+title: "allegro-amanita-muscaria-properties-and-pharmacology and Amanita pantherina: amanita-muscaria-muscimol-ibotenic-acid-pharmacology and Muscimol Pharmacology"
 source: "halpern-m-hallucinogens-dissociative-agents-growing-in-us.md"
 tags: [amanita, muscaria, pantherina, muscimol, ibotenic-acid, fly-agaric, pharmacology, misidentification]
 created: 2026-05-08
@@ -7,13 +7,13 @@ created: 2026-05-08
 
 # [[amanita-pantherina]]* (panther cap) are among
 the most recognizable mushrooms in the world, yet their pharmacology is
-frequently misunderstood. Despite the name "fly agaric," these mushrooms do
+frequently misunderstood. Despite the name "[[amanita-muscaria-fly-agaric-history-and-pharmacology]]," these mushrooms do
 not produce significant muscarinic/anticholinergic effects. Their psychoactive
 properties derive from a unique amino acid chemistry — ibotenic acid and its
 decarboxylation product muscimol — which act on glutamate and GABA receptors
 respectively. Halpern (2004) reviewed their pharmacology, geographic
 distribution, and health risks as part of a survey of naturally occurring
-hallucinogens in the United States.
+hallucinogens in the [[dmt-containing-plants-united-states-halpern]].
 
 ## Active Constituents
 
@@ -32,7 +32,7 @@ hallucinogens in the United States.
 - Can also induce powerful hallucinations, slurred speech, seizures, deep
   sleep or coma
 - The first naturally occurring non-nitrogenous kappa-opioid receptor agonist
-  was later found in *Salvia divinorum* (salvinorin-A), not Amanita
+  was later found in *[[golden-guide-salvia-divinorum-and-diviner-sage]]* (salvinorin-A), not Amanita
 
 ### Muscazone
 - A third compound present in these mushrooms
@@ -74,7 +74,7 @@ muscimol** through decarboxylation:
   desirable)
 - Properly dried specimens contain proportionally more muscimol (sedative,
   primary psychoactive agent)
-- This conversion is the basis for traditional preparation methods that
+- This conversion is the basis for [[kava-traditional-preparation-ceremonial-context]] methods that
   involve drying or heating the mushrooms before consumption
 
 ## The Urine Recycling Phenomenon
@@ -104,7 +104,7 @@ The most serious risk associated with Amanita muscaria and A. pantherina is
 not their own toxicity but **misidentification**:
 
 - Deadly poisonous *Amanita* species grow in close proximity to A. muscaria
-- *[[peyote]]
+- *peyote
   or [[psilocybin]] mushrooms
 - Unlike psilocybin-containing mushrooms, Amanita has never been a major
   drug of abuse, likely due to the unpleasant side effects and
@@ -124,3 +124,11 @@ health risks from misidentification with deadly Amanita species.
   Ethnopharmacologic Search for Psychoactive Drugs. USPHS Publication.
 - Waser PG (1979) The pharmacology of Amanita muscaria. In: Ethnopharmacologic
   Search for Psychoactive Drugs.
+## See Also
+
+- [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]]
+- [[amanita-muscaria]]
+- [[amanita-pantherina]]
+- [[amanita-muscaria-muscimol-ibotenic-acid]]
+- [[bloomfield-fly-agaric-amanita-muscaria-muscimol-ibotenic-acid-hallucinogens]]
+- [[amanita-pantherina-regalis-neurotropic-ibotenic-acid]]

@@ -13,7 +13,7 @@ created: 2026-04-28
 
 Clay seed pellets are a core technology in Masanobu Fukuoka's approach to
 [[natural-farming]]. Originally conceived for
-direct seeding of rice, barley, and vegetables in conjunction with the
+[[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] of rice, barley, and vegetables in conjunction with the
 [[fukuoka-no-tillage-direct-seeding-history]] without
 plowing, tilling, or irrigation. In its original application on Fukuoka's farm
 in Japan, it solved the practical problem of getting rice, barley, and
@@ -35,7 +35,7 @@ conditions:
 **Seeds and fungi (10% of combined weight):** Seeds of more than one hundred
 varieties including trees, fruit trees, shrubs, vegetables, grains, and useful
 fungi. The extraordinary diversity is intentional and reflects Fukuoka's
-second genesis philosophy, which holds that making as many species
+[[fukuoka-second-genesis-theory-global-seed-scattering]] philosophy, which holds that making as many species
 available as possible allows nature to select the most appropriate
 combinations for local conditions. By providing maximum biodiversity, the
 revegetation effort does not depend on human judgment about which species will
@@ -63,15 +63,15 @@ improve the pellet's ability to absorb and release moisture in response to
 rainfall and drying cycles, creating a self-regulating moisture buffer around
 the enclosed seeds.
 
-**Medicinal herbs (10%):** Derris root (effective against beetles), powdered
+**[[permaculture-plants-medicinal-herbs-healing]] (10%):** Derris root (effective against beetles), powdered
 fruits and leaves of Japanese star anise (repels goats), Japanese andromeda
 (repels cows), Japanese lacquer tree, and Japanese bead tree (repels small
-insects). Sumac may also be included. These provide natural pest deterrence
+insects). Sumac may also be included. These provide natural [[foliar-pest-deterrence-aact-mechanisms]]
 without toxic chemicals, creating a barrier that protects seeds from the most
 common herbivores and insects found in arid environments.
 
 **Water (5 to 10%):** Used during mixing to achieve the right consistency for
-pellet formation. The exact amount varies with the moisture content of the
+[[singh-fungal-pellet-formation-bioremediation]]. The exact amount varies with the moisture content of the
 clay and other ingredients.
 
 ## Production Using a Concrete Mixer
@@ -116,7 +116,7 @@ environmental stress after the pellets are sown.
 
 The molecular rearrangement caused by kneading clay with bittern and seaweed
 paste produces pellets that are stable, light, and hard. They withstand the
-impact of aerial seeding without breaking, and they adjust to changes in
+impact of [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] without breaking, and they adjust to changes in
 dampness and dryness related to rainfall by shrinking and becoming solid when
 dry and absorbing moisture when wet. This responsiveness means the pellets
 ## See Also

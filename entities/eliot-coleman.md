@@ -10,11 +10,11 @@ sources: [/Users/t3rpz/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md]
 
 # Eliot Coleman
 
-Eliot Coleman is an American farmer, author, and pioneer of organic farming and season-extension techniques. He is widely recognized as one of the most influential figures in the modern small-scale organic agriculture movement, particularly known for demonstrating that vegetable production can continue through winter in cold climates using unheated greenhouses.
+Eliot Coleman is an American farmer, author, and pioneer of [[coleman-deep-organic-farming-philosophy]] and season-extension techniques. He is widely recognized as one of the most influential figures in the modern small-scale organic agriculture movement, particularly known for demonstrating that [[dry-gardening-unirrigated-vegetable-production-solomon]] can continue through winter in cold climates using unheated greenhouses.
 
 ## Biography
 
-Coleman operates Four Season Farm in Harborside, Maine, a commercial organic market garden that has served as a living laboratory for his farming methods. Located in USDA Hardiness Zone 4, his farm demonstrates techniques that challenge conventional assumptions about the limitations of cold-climate agriculture. His practical, research-based approach has influenced generations of organic farmers worldwide.
+Coleman operates Four Season Farm in Harborside, Maine, a commercial organic market garden that has served as a living laboratory for his [[natural-farming-methods-comparison]]. Located in USDA Hardiness Zone 4, his farm demonstrates techniques that challenge conventional assumptions about the limitations of cold-climate agriculture. His practical, research-based approach has influenced generations of organic farmers worldwide.
 
 ## Winter Harvest Method
 
@@ -25,7 +25,7 @@ Key principles of the winter harvest method include:
 - **Timing**: Crops are planted in late summer and autumn so they reach near-maturity before the shortest days of the year. Growth slows dramatically with reduced light but crops remain harvestable in a dormant state.
 - **Cold-hardy crops**: Selection focuses on species naturally adapted to cold, including mache, claytonia, spinach, various [[carrot-growing-guide]], parsnip, celeriac, and scallion.
 - **Minimal heating**: The system relies entirely on passive solar energy and the thermal mass of the earth. No artificial heating is used, keeping costs extremely low.
-- **Succession planting**: Multiple planting dates ensure continuous harvest availability throughout the cold months.
+- **[[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]]**: Multiple planting dates ensure continuous harvest availability throughout the cold months.
 
 ## Organic Farming Philosophy
 
@@ -35,7 +35,7 @@ Coleman is a vocal advocate for organic and biological farming methods. He empha
 - **Small-scale efficiency**: He argues that well-managed small farms can be more productive and profitable per acre than large-scale monocultures.
 - **Local food systems**: His work supports the viability of year-round local food production, reducing dependence on long-distance food transport.
 - **Scientific approach to organics**: He brings rigor and experimentation to organic practices, countering the perception that organic farming is unscientific.
-- **Economic viability**: Coleman demonstrates that organic farming can be commercially successful without premium pricing, through efficient production and direct marketing.
+- **Economic viability**: Coleman demonstrates that organic farming can be commercially successful without premium pricing, through efficient production and [[coleman-direct-marketing-and-csa-models]].
 - **Continuous improvement**: He encourages farmers to maintain detailed records and conduct their own on-farm research to optimize their systems.
 
 ## Comparison with Heated Greenhouses
@@ -71,7 +71,7 @@ Coleman's work has had far-reaching impact on the local food movement and sustai
 
 - He helped establish the Maine Organic Farmers and Gardeners Association (MOFGA), one of the oldest and largest state-level organic farming organizations in the United States.
 - His techniques have been adopted by thousands of small-scale farmers across temperate climates worldwide, enabling local food production where it was previously considered impossible year-round.
-- The "Four Season Farm" model has inspired similar operations across North America and Europe.
+- The "Four Season Farm" model has inspired similar operations across [[psilocybin-north-america-pacific-northwest]] and Europe.
 - His emphasis on profitability and efficiency has helped make small-scale organic farming economically viable.
 - He has mentored numerous farmers who have gone on to establish successful organic operations.
 

@@ -1,5 +1,5 @@
 ---
-title: Rain Interception and Throughfall in Forests
+title: mollison rain interception and throughfall in forests and Throughfall in Forests
 created: 2026-04-26
 tags:
   - permaculture
@@ -18,7 +18,7 @@ type: concept
 Mollison provides a detailed account of how forests interact with
 rainfall in the Designers' Manual, describing the processes of canopy
 interception, throughfall, stemflow, and the transformation of rain
-into nutrient-rich water as it passes through the forest layers.
+into nutrient-rich water as it passes through the [[food-forest-layers-and-species]].
 
 ## The Canopy as First Filter
 
@@ -30,7 +30,7 @@ forests, exceeded by the creation of soils by forests.
 
 If the rain is light, little of it penetrates beyond the canopy, but
 a film of water spreads across the leaves and stems, and is trapped
-there by surface tension. The cells of the tree absorb what is needed,
+there by [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]]. The cells of the tree absorb what is needed,
 and the remainder evaporates to air.
 
 ## Interception: The Primary Forest Effect
@@ -68,7 +68,7 @@ water of throughfall.
 
 Research shows that rain washes large amounts of potassium and
 smaller amounts of nitrogen, phosphorus, calcium, and magnesium from
-the canopies to the surface soil. Litter adds organic matter, and is
+the canopies to the surface soil. Litter adds [[hamilton-composting-and-organic-matter-management]], and is
 a rich source of calcium and nitrogen and a moderately rich source of
 magnesium and potassium.
 
@@ -120,7 +120,7 @@ Understanding interception and throughfall informs design:
 - **Mulch systems**: Replicate the forest humus layer with deep
   mulches that absorb and slowly release water and nutrients.
 
-- **Nutrient cycling**: Recognise that throughfall delivers nutrients
+- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]**: Recognise that throughfall delivers nutrients
   to the soil surface; design ground-cover species to capture and
   cycle these nutrients before they leach away.
 
@@ -128,11 +128,14 @@ Understanding interception and throughfall informs design:
   ground temperatures and reduce frost damage to sensitive crops.
 
 - **Water harvesting**: Design collection systems that work with the
-  forest's natural water distribution patterns rather than
+  forest's natural water [[guzman-global-distribution-patterns-neurotropic-fungi]] rather than
   interrupting them.
 
 ## See Also
 
 - [[mollison-orographic-and-forest-rainfall-effects]]
-- [[mollison-mulching-and-soil-health]]
+- mollison-mulching-and-soil-health
 - [[mollison-water-harvesting-management-permaculture]]
+- [[fungal-hyphae]]
+- [[mollison-designers-gallery-forests-and-valley-bottomland-systems]]
+- [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]

@@ -5,7 +5,7 @@ tags: [fungi, edible-mushroom, medicinal, saprotrophic, hericiaceae]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Petersen, R.H. (2000). 'Hericium' in the southeastern United States.'
+  - "Petersen, R.H. (2000). 'Hericium' in the southeastern dmt-containing-plants-united-states-halpern.'
   - "Moncalvo, J.M. et al. (2006). Molecular phylogeny of the Hydnoid fungi."
   - "Wang, J. et al. (2014). Erinacine A production from Hericium coralloides."
   - "Kawagishi, H. et al. (2004). Hericenones and erinacines: stimulators of NGF synthesis."
@@ -16,13 +16,13 @@ sources:
 
 ## Overview
 
-*Hericium coralloides* (Scop.) Pers. (1801) is a species of edible mushroom in the family Hericiaceae, order Russulales. It is commonly known as the coral hedgehog mushroom or comb tooth fungus, named for its branching, coral-like fruiting body that hangs in cascading spines from dead or dying hardwood trees. Unlike its more commercially prominent relative *Hericium [[mycelium]] has been confirmed as a productive source of erinacines A and E.
+*Hericium coralloides* (Scop.) Pers. (1801) is a species of [[bloomfield-boletus-satanus-edible-mushroom-hazards]] in the family Hericiaceae, order Russulales. It is commonly known as the coral hedgehog mushroom or comb tooth fungus, named for its branching, coral-like [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] that hangs in cascading spines from dead or dying hardwood trees. Unlike its more commercially prominent relative *Hericium [[mycelium]] has been confirmed as a productive source of erinacines A and E.
 
 **β-Glucans:** Polysaccharide β-(1,3)/(1,6)-glucans isolated from *H. coralloides* fruiting bodies demonstrate immunomodulatory activity, activating macrophages and enhancing NK-cell cytotoxicity. These compounds contribute to the species' traditional use as an immune tonic.
 
 **Anti-inflammatory effects:** Ethanolic extracts of *H. coralloides* inhibit nitric oxide (NO) production and suppress pro-inflammatory cytokines (TNF-α, IL-6, iNOS) in LPS-stimulated macrophage models, indicating potential applications in chronic inflammatory conditions.
 
-**Neurological benefits:** Preclinical studies suggest that *Hericium* extracts may ameliorate cognitive decline by promoting myelination, reducing amyloid plaque formation, and enhancing hippocampal neurogenesis. Human clinical trials have primarily focused on *H. erinaceus*, but *H. coralloides* is expected to share similar neurotrophic properties given overlapping chemistry.
+**Neurological benefits:** Preclinical studies suggest that *Hericium* extracts may ameliorate cognitive decline by promoting myelination, reducing amyloid plaque formation, and enhancing hippocampal neurogenesis. Human [[mushroom-cancer-clinical-trials-overview]] have primarily focused on *H. erinaceus*, but *H. coralloides* is expected to share similar neurotrophic properties given overlapping chemistry.
 
 **Antioxidant activity:** Phenolic compounds and polysaccharides from *H. coralloides* exhibit significant free-radical scavenging activity in DPPH and ABTS assays.
 
@@ -30,7 +30,7 @@ sources:
 
 *Hericium coralloides* can be cultivated on supplemented hardwood sawdust substrates, though it is less commercially developed than *H. erinaceus*. Optimal [[biological-efficiency]] (fresh weight / dry substrate weight × 100) typically ranges from 50–80% over two to three flushes.
 
-Outdoor cultivation on hardwood logs is also feasible, using a spawn-and-plant approach similar to shiitake cultivation. Inoculated beech or oak logs (10–20 cm diameter) are incubated in shaded, humid conditions for 6–12 months before natural fruiting in autumn.
+Outdoor cultivation on hardwood logs is also feasible, using a spawn-and-plant approach similar to [[gourmet-medicinal-mushroom-shiitake-cultivation-logs]]. Inoculated beech or oak logs (10–20 cm diameter) are incubated in shaded, humid conditions for 6–12 months before natural fruiting in autumn.
 
 ## Similar Species
 
@@ -56,7 +56,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -98,4 +98,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: Symbiotic Fungi — Ectomycorrhizal Network Carbon Trading
+title: Symbiotic Fungi — symbiotic fungi ectomycorrhizal network carbon trading Carbon Trading
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,7 +10,7 @@ tags: [fungi, mycology, mycorrhizal]
 
 # Symbiotic Fungi — Ectomycorrhizal Network Carbon Trading
 
-Ectomycorrhizal (ECM) and arbuscular mycorrhizal (AM) fungi form extensive belowground hyphal networks that interconnect plant roots, facilitating the transfer of carbon, nitrogen, phosphorus, and other nutrients between plants. These common mycorrhizal networks (CMNs) represent one of the most significant but cryptic components of terrestrial ecosystem functioning, mediating resource exchange that shapes plant communities and ecosystem processes.
+Ectomycorrhizal (ECM) and [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] (AM) fungi form extensive belowground hyphal networks that interconnect plant roots, facilitating the transfer of carbon, nitrogen, phosphorus, and other nutrients between plants. These common [[dighton-mycorrhizal-networks-carbon-transfer]] (CMNs) represent one of the most significant but cryptic components of terrestrial ecosystem functioning, mediating resource exchange that shapes plant communities and [[fungal-ecosystem-processes-overview]].
 
 ## Carbon Flow in Mycorrhizal Symbiosis
 
@@ -55,7 +55,7 @@ Key findings from 13C labelling studies (Olsson and Johnson 2005):
 - Most carbon assimilated by intra- and extraradical AM fungal structures remains 32 days after labelling
 - Recently assimilated carbon in *Plantago lanceolata* appeared in extraradical AM fungal hyphae within a few days and remained largely there for at least 30 days
 - Higher 13C enrichment in lipids of intraradical mycelia than in plant root lipids shows that lipid metabolism is more active in the intraradical mycelia
-- 13C enrichment showed a gradual release of carbon from roots to rhizosphere bacteria, but at a much lower rate than direct transfer to AM fungi
+- 13C enrichment showed a gradual release of carbon from roots to [[lowenfels-rhizosphere-bacteria-plant-interaction]], but at a much lower rate than direct transfer to AM fungi
 
 Timing is critical in labelling experiments because carbon is continually respired. A large proportion of AM fungal carbon is contained in lipids in vesicles inside plant roots and in spores on the external mycelium, where they accumulate and may be stored for long periods.
 
@@ -112,7 +112,7 @@ Ion-selective microelectrodes allow non-invasive measurement of net ion fluxes (
 ## Ecological Significance
 
 CMNs affect multiple aspects of ecosystem functioning:
-- **Plant competitive interactions** — resource sharing or competition through networks
+- **Plant competitive interactions** — [[mycelial-network-resource-sharing-plants]] or competition through networks
 - **Seedling establishment** — CMNs can facilitate or suppress seedling growth near mature plants
 - **Nutrient distribution** — redistribution of carbon, nitrogen, and phosphorus through communities
 - **Below-ground carbon storage** — mycorrhizal hyphae as significant carbon sinks
@@ -124,7 +124,7 @@ Understanding the directions and magnitude of carbon and nutrient transfer betwe
 ## See Also
 
 - [[mycorrhizal-carbon-allocation]]
-- [[mycorrhizal-carbon-cycling-soil-sequestration]]
+- mycorrhizal-carbon-cycling-soil-sequestration
 - [[soil-food-web-nutrient-cycling]]
 - [[mycorrhizal-networks]]
 - [[mycorrhizal-networks-common-mycelial-network]]

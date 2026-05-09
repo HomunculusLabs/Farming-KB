@@ -9,10 +9,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Smith, A.H. & Thiers, H.D. (1964). "A contribution toward a monograph of North American species of Suillus." University of Michigan Press.
+  - Smith, A.H. & Thiers, H.D. (1964). "A contribution toward a monograph of growing-gourmet-north-american-reishi-species species of Suillus." University of Michigan Press.
   - Kuo, M. (2024). "Suillus placidus." MushroomExpert.com.
   - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "North American Boletes." Syracuse University Press.
-  - Hall, I.R. et al. (1998). "Edible and Poisonous Mushrooms of the World." Timber Press.
+  - Hall, I.R. et al. (1998). "Edible and [[palmer-poisonous-mushrooms-deadly-species]] of the World." Timber Press.
 created: 2026-05-07
 ---
 
@@ -22,7 +22,7 @@ created: 2026-05-07
 
 The species is distinguished by its smooth, white to pale cream cap that often develops pinkish or cinnamon tones with age, and a distinctive white partial veil that leaves a ring on the stipe.
 
-It is widely distributed across eastern North America and has also been reported from Europe and Asia in association with other white-pine species.
+It is widely distributed across [[polypore-fungi-eastern-north-america]] America and has also been reported from Europe and Asia in association with other white-pine species.
 
 ## Taxonomy and Morphology
 
@@ -51,7 +51,7 @@ The epithet *placidus* means "peaceful" or "calm," likely referring to the mushr
 
 **Flesh:** White, soft, unchanging when cut. No distinctive odor. Taste mild.
 
-**Spore print:** Cinnamon-brown to ochre-brown.
+**[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Cinnamon-brown to ochre-brown.
 
 **Spores:** Smooth, ellipsoid to fusoid, 7–10 × 3–4 µm. Inamyloid.
 
@@ -63,7 +63,7 @@ The epithet *placidus* means "peaceful" or "calm," likely referring to the mushr
 
 It is an obligate ectomycorrhizal symbiont of five-needle pines. In eastern North America it is most commonly associated with eastern white pine (*Pinus strobus*). It has also been documented with limber pine (*Pinus flexilis*) in western montane regions and with various Asian white pines.
 
-Fruiting bodies appear singly or in scattered groups on the ground in coniferous or mixed forests. They prefer moist, acidic soils with good organic matter. The species is relatively shade-tolerant and fruits readily along forest trails and disturbed edges within pine stands.
+Fruiting bodies appear singly or in scattered groups on the ground in coniferous or mixed forests. They prefer moist, acidic soils with good [[hamilton-composting-and-organic-matter-management]]. The species is relatively shade-tolerant and fruits readily along forest trails and disturbed edges within pine stands.
 
 European reports, particularly from Scandinavia and central Europe, may represent a distinct but morphologically similar species complex. Molecular studies have suggested that *Suillus placidus sensu lato* may contain multiple cryptic taxa across its range.
 
@@ -79,3 +79,8 @@ The flesh is soft and mild with a slightly nutty flavor when sautéed in butter.
 - [[stropharia-rugosoannulata]]
 - [[boletus-reticulatus]]
 - [[boletus-aereus]]
+
+## See Also
+
+- [[suillus-lakei]]
+- [[suillus-tomentosus]]

@@ -1,5 +1,5 @@
 ---
-title: Moisture Meters and Watering Technique
+title: cervantes moisture meters watering technique and Watering Technique
 created: 2026-04-28
 tags:
   - cannabis
@@ -10,14 +10,15 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Moisture Meters and Watering Technique
 
 Proper watering is one of the most critical yet commonly
-misunderstood aspects of cannabis cultivation. [[cervantes-salt-buildup-leaching-management]].
+misunderstood aspects of [[query-how-does-no-till-cannabis-cultivation-work]]. [[cervantes-salt-buildup-leaching-management]].
 Water early in the day so excess water evaporates from the soil
 surface and leaves. If using trays to catch runoff, use a turkey
 baster, large syringe, or sponge to remove excess water after a few
@@ -31,12 +32,12 @@ overwatering include:
 
 - Leaves curled downward and yellowing
 - Waterlogged and soggy soil
-- Fungal growth on the soil surface
-- Slow growth that mimics nutrient deficiency
+- [[brassinosteroid-fungal-growth-promotion]] on the soil surface
+- Slow growth that mimics [[cannabis-grow-nutrient-deficiency-problem-solving]]
 
 One of the main causes of overwatering is poor air ventilation.
 Plants need to transpire water into the air. If humid air has nowhere
-to go, water is locked in the grow room environment. Well-ventilated
+to go, water is locked in the [[cannabis-grow-room-setup]] environment. Well-ventilated
 air carries moist air away, replacing it with fresh dry air. See
 [[cervantes-humidity-control-dehumidification]].
 
@@ -59,6 +60,7 @@ growth.
 Keep pots in straight lines when growing and watering. This makes it
 much easier to keep track of which pots have been watered and prevents
 accidental double-watering or missed plants in larger gardens.
+
 ## Practical Considerations
 
 Successful implementation of Moisture Meters and Watering Technique requires attention to
@@ -77,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

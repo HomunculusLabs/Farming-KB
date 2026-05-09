@@ -1,19 +1,19 @@
 ---
-title: Cannabis Drying And Curing
+title: Cannabis cannabis-drying-and-curing-guide
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 # Cannabis Drying and Curing Methods
 
-Drying and curing are the final and arguably most critical stages of cannabis cultivation. These post-harvest processes transform raw floral clusters into properly preserved, aromatic, and psychoactive material. The difference between poorly and expertly dried and cured cannabis is dramatic — affecting potency, flavor, smoothness, and shelf life.
+Drying and curing are the final and arguably most critical stages of [[query-how-does-no-till-cannabis-cultivation-work]]. These post-harvest processes transform raw floral clusters into properly preserved, aromatic, and psychoactive material. The difference between poorly and expertly dried and cured cannabis is dramatic — affecting potency, flavor, smoothness, and shelf life.
 
 ## Harvest Indicators
 
-Before drying and curing can begin, the grower must identify the optimal harvest window. Several visual indicators help determine when cannabis is ready for harvest.
+Before drying and curing can begin, the grower must identify the optimal harvest window. Several visual indicators help determine when [[query-how-do-i-know-when-my-cannabis-is-ready-to-harvest]] for harvest.
 
 Approximately 50% to 70% of the pistils (hairs) should have changed color from white to brown or orange.
 
@@ -25,13 +25,13 @@ The smell will have reached its peak intensity.
 
 Bud mass will not have increased in the past several days, indicating that the plant has redirected energy away from floral production.
 
-These indicators together signal that the plant has reached peak maturity and should be harvested promptly for best results. Growers should follow the breeder's stated flowering times as a general guide, but visual assessment of the plant itself provides the most reliable harvest timing.
+These indicators together signal that the plant has reached peak maturity and should be harvested promptly for best results. Growers should follow the breeder's stated flowering times as a general guide, but visual assessment of the plant itself provides the most reliable [[cannabis-harvest-timing-visual-cues]].
 
 ## Harvesting Procedure
 
 The harvesting process differs slightly between Indica and Sativa varieties.
 
-For Indica plants (typically 1 to 4 feet tall), the entire plant is cut at the base and hung upside down in a cool, dark room with fresh air circulation. Fan leaves are removed with clippers, followed by secondary leaves, and finally the resin-covered trim is collected separately. This yields four different grades of material: fan leaves (lowest quality), secondary leaves, trim (high quality due to resin), and the premium bud.
+For Indica plants (typically 1 to 4 feet tall), the entire plant is cut at the base and hung upside down in a cool, dark room with fresh [[stamets-growing-room-air-circulation-co2-management]]. Fan leaves are removed with clippers, followed by secondary leaves, and finally the resin-covered trim is collected separately. This yields four different grades of material: fan leaves (lowest quality), secondary leaves, trim (high quality due to resin), and the premium bud.
 
 For Sativa plants, which can grow up to 12 feet tall and carry 20 or more ounces of bud, the process is more labor-intensive. The plant is chopped at the base and spread onto a canvas for transport. Because of the plant's size and bushiness, branches may need to be cut and hung separately rather than hanging the whole plant. The same leaf and trim removal process applies to each branch.
 
@@ -69,7 +69,7 @@ Remaining sugars and starches are metabolized, smoothing the smoke considerably.
 
 Cannabinoid acids continue their slow decarboxylation, converting THCA to active THC.
 
-Terpene profiles mature and stabilize through controlled oxidation and polymerization.
+[[cannabis-terpene-profiles-sativa]] mature and stabilize through controlled oxidation and polymerization.
 
 The curing process also allows moisture to redistribute from the interior of dense buds to the drier exterior, resulting in more uniform moisture content throughout. This even moisture distribution prevents mold growth inside the buds while maintaining enough residual moisture to preserve terpenes and prevent the material from becoming excessively dry and harsh.
 
@@ -94,4 +94,3 @@ Strains may be bred that dry and cure rapidly to save valuable time. All conditi
 - [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]]
 
 - [[cannabis-indoor-growing-basics]]
-- [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]]

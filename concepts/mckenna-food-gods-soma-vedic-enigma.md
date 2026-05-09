@@ -1,5 +1,5 @@
 ---
-title: "Soma and the Vedic Enigma"
+title: "Soma and the mckenna-soma-vedic-enigma-detailed"
 created: 2026-04-28
 tags:
   - mckenna
@@ -23,13 +23,13 @@ type: concept
 
 ## Overview
 
-The mystery of Soma constitutes one of the most enduring puzzles in the history of religion and ethnopharmacology. Described lavishly in the [[amanita-herb-indo-european-origins]] peoples, a juice pressed from a sacred plant whose botanical identity has been lost to time. Terence McKenna dedicated an entire chapter of *Food of the Gods* to this "Golden Vedic Enigma," arguing that understanding Soma is essential to recovering the Archaic relationship between humans and psychoactive plants that once shaped consciousness itself.
+The mystery of Soma constitutes one of the most enduring puzzles in the history of religion and ethnopharmacology. Described lavishly in the [[rig-veda-soma-hymns-amanita-muscaria]] peoples, a juice pressed from a sacred plant whose botanical identity has been lost to time. Terence McKenna dedicated an entire chapter of *Food of the Gods* to this "Golden Vedic Enigma," arguing that understanding Soma is essential to recovering the Archaic relationship between humans and psychoactive plants that once shaped consciousness itself.
 
 ## The Rig Veda and Soma Praise
 
 The earliest scriptural writings of the Indo-European people are the Vedas, of which the Rig Veda is best known. The Ninth Mandala of the Rig Veda is entirely composed of hymns to Soma. These hymns praise Soma as "all-pervading, swift as thought," a celestial substance whose juices pour "like chariot-horses" and go "to Indra the wielder of the thunderbolt as a cow with milk to the calf."
 
-The language of the Soma hymns leaves no ambiguity about the power attributed to this substance. Soma was thought to:
+The language of the [[rig-veda-soma-hymns-amanita-muscaria]] leaves no ambiguity about the power attributed to this substance. Soma was thought to:
 
 - Have been brought by an eagle from the highest heaven
 - Be placed on mountains by Varuna, a member of the early Hindu pantheon
@@ -58,14 +58,14 @@ The continuity between Vedic Soma and Iranian Haoma is one of the strongest piec
 
 The reform-minded religion of Zoroaster, established circa 575 B.C., appears to have taken a repressive approach to the ancient sacrament. Zoroaster told of Ahura Mazda, a supreme creator who rules over a world divided between Truth and Lies. The Gathas (sacred verses) contain only two references to Haoma: one mentioning "Duroaosa" (averter of death), and another alluding to "the filthiness of this intoxicant."
 
-However, R.C. Zahner argues persuasively that Zoroaster never actually abolished the Haoma rite. In the later Avesta, Haoma "came back again" and was in almost every respect the same as the Vedic Soma. The Haoma rite has been the central liturgical act of Zoroastrianism ever since the religion developed liturgical worship, and its central position has never been disputed.
+However, R.C. Zahner argues persuasively that Zoroaster never actually abolished the [[mckenna-zoroaster-suppression-haoma-rite-ecstatic-religion]]. In the later Avesta, Haoma "came back again" and was in almost every respect the same as the Vedic Soma. The Haoma rite has been the central liturgical act of Zoroastrianism ever since the religion developed liturgical worship, and its central position has never been disputed.
 
 McKenna suggests Zoroaster may not have intended to ban Haoma itself, but rather the sacrifice of bulls that accompanied the rite — a practice that would be anathema to anyone aware of the connection between cattle and mushrooms in the old religion of the [[amanita-muscaria-entity]]." The [[amanita-muscaria-entity]] (fly agaric) — Wasson's famous theory
-- [[stropharia-cubensis]] (psilocybin mushroom) — McKenna's preferred candidate
+- [[stropharia-cubensis]] ([[emcdda-psilocybin-mushroom-dose-and-effects]]) — McKenna's preferred candidate
 
 ## Soma as Male Moon God
 
-The Ninth Mandala of the Rig Veda states that Soma stands above the gods — Soma is the supreme entity. Soma is the moon, and Soma is masculine. McKenna notes that this is a rare phenomenon: a male lunar deity, limited to certain North American Indian peoples and to the Indo-Europeans (the German folk conception of the moon remains masculine to this day).
+The Ninth Mandala of the Rig Veda states that Soma stands above the gods — Soma is the supreme entity. Soma is the moon, and Soma is masculine. McKenna notes that this is a rare phenomenon: a male lunar deity, limited to certain North [[harner-american-indian-peyote-rituals]] peoples and to the Indo-Europeans (the German folk conception of the moon remains masculine to this day).
 
 In the mythologies of the Near East, a lunar god must have been imported to India from the west. The Babylonian civilization's northernmost outpost was Harran, a city traditionally associated with Abraham and the beginning of astrology. The patron deity of Harran was a male moon god: Sin or Nannar, thought to have arisen from a god of nomads and a protector of cattle. As the father or source of the Goddess, it is fitting that Sin wears headgear suggestive of a mushroom — headgear that serves as the identifying feature for the god on cylinder seals and that no other deity in the Babylonian pantheon possesses.
 
@@ -73,7 +73,7 @@ The mushroom's dual nature helps explain this gender ambiguity: it has a lustrou
 
 ## The Archaic Revival and Soma
 
-McKenna frames the search for Soma within his broader argument for an [[mckenna-food-gods-dmt-experience-hyperspace]]
+McKenna frames the [[mckenna-search-for-soma-vedic-enigma]] within his broader argument for an [[mckenna-food-gods-dmt-experience-hyperspace]]
 - [[mckenna-food-gods-wasson-amanita-theory]]
 - [[mckenna-food-gods-partnership-dominator]]
 - [[mckenna-food-gods-ergot-kykeon-eleusinian]]

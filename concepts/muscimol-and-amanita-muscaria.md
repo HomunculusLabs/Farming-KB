@@ -1,5 +1,5 @@
 ---
-title: Muscimol and Amanita Muscaria
+title: Muscimol and allegro-amanita-muscaria-properties-and-pharmacology
 created: 2026-04-17
 updated: 2026-04-18
 type: concept
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: Hamilton Composting and Organic Matter Management
+title: Hamilton Composting and hamilton composting and organic matter management Management
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -12,15 +12,15 @@ sources:
 
 ## Overview
 
-Composting is the cornerstone of organic gardening. It transforms vegetable and animal remains into humus-rich material that improves soil structure, increases water-holding capacity, feeds soil organisms, and supplies plant nutrients. The first principle of organic gardening is to nurture and encourage subterranean life — fungi, algae, bacteria, insects, and worms — which provide plants with food in a form they can ingest and improve soil structure.
+Composting is the cornerstone of [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]. It transforms vegetable and animal remains into humus-rich material that improves soil structure, increases water-holding capacity, feeds soil organisms, and supplies plant nutrients. The first principle of organic gardening is to nurture and encourage subterranean life — fungi, algae, bacteria, insects, and worms — which provide plants with food in a form they can ingest and improve soil structure.
 
 ## The Soil Ecosystem
 
-Healthy soil contains millions of living organisms per gram:
+Healthy soil contains millions of [[savory-living-organisms-as-tools]] per gram:
 - Soil fungi, algae, and bacteria break down organic matter
 - Earthworms aerate the soil and create channels for water and root penetration
 - These organisms provide plants with nutrients in accessible forms
-- They improve soil structure by breaking it up and allowing air circulation
+- They improve soil structure by breaking it up and allowing [[stamets-growing-room-air-circulation-co2-management]]
 
 The organic approach differs from chemical gardening primarily in its treatment of soil: nurturing this living ecosystem rather than merely supplying mineral nutrients.
 
@@ -28,7 +28,7 @@ The organic approach differs from chemical gardening primarily in its treatment 
 
 ### Traditional Compost Heap
 - Layer green (nitrogen-rich) and brown (carbon-rich) materials
-- Green materials: grass clippings, kitchen vegetable scraps, young weeds, green manure crops
+- Green materials: grass clippings, kitchen vegetable scraps, young weeds, green [[green-manure-crops-detailed]]
 - Brown materials: straw, autumn leaves, woody prunings, paper, cardboard
 - Keep moist but not waterlogged
 - Turn periodically to introduce air
@@ -43,7 +43,7 @@ The organic approach differs from chemical gardening primarily in its treatment 
 
 ### Purchased Organic Matter
 - Well-rotted farmyard manure (the gold standard)
-- Mushroom compost
+- [[staycare-spent-mushroom-compost-bioremediation]]
 - Composted bark
 - Peat or peat substitutes (note environmental concerns with peat)
 - Coir (coconut fiber)

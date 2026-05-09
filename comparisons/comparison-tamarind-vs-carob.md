@@ -14,7 +14,7 @@ updated: 2026-05-03
 sources:
   - Morton JF. Fruits of Warm Climates. 1987. Purdue University.
   - Orwa C et al. Agroforestree Database. 2009. World Agroforestry Centre (ICRAF).
-  - Battle I, Tous J. Carob Tree: [[tamarindus-indica]]: A Review of Traditional Uses, Phytochemistry and Pharmacology. Afr J Pharm Pharmacol. 2013.
+  - Battle I, Tous J. Carob Tree: tamarindus-indica: A Review of Traditional Uses, Phytochemistry and Pharmacology. Afr J Pharm Pharmacol. 2013.
   - El Boushihi M et al. Carob (Ceratonia siliqua L.) Products. J Food Sci Technol. 2021.
 type: comparison
 created: 2026-05-03
@@ -22,7 +22,7 @@ created: 2026-05-03
 
 # Tamarind vs Carob Cultivation
 
-Tamarind (*Tamarindus indica*) and carob (*Ceratonia siliqua*) are two remarkably similar multipurpose leguminous trees that have independently become culinary staples across the tropics and Mediterranean, respectively. Both produce long, pod-bearing fruit rich in natural sugars, both are exceptionally drought-tolerant, and both have served as survival foods during famine. Despite their convergent ecological roles, they differ significantly in botany, climate adaptation, and cultural use.
+Tamarind (*Tamarindus indica*) and carob (*Ceratonia siliqua*) are two remarkably similar multipurpose leguminous trees that have independently become culinary staples across the tropics and Mediterranean, respectively. Both produce long, pod-bearing fruit rich in natural sugars, both are exceptionally drought-tolerant, and both have served as survival foods during famine. Despite their convergent ecological roles, they differ significantly in botany, [[jeavons-climate-adaptation-growing-seasons]], and cultural use.
 
 ## Taxonomic Relationship
 
@@ -40,7 +40,7 @@ Both belong to the Caesalpinioideae subfamily of legumes, explaining their share
 | Parameter | Tamarind | Carob |
 |---|---|---|
 | **Hardiness zone** | USDA 10–12 | USDA 9–11 |
-| **Temperature range** | 18–45 °C optimal | 12–38 °C optimal |
+| **[[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]** | 18–45 °C optimal | 12–38 °C optimal |
 | **Frost tolerance** | Brief frost to -3 °C (mature) | Tolerates -7 to -9 °C (dormant) |
 | **Rainfall range** | 300–2,000 mm/yr | 200–600 mm/yr |
 | **Dry season requirement** | 3–5 months preferred | 4–6 months essential |
@@ -130,17 +130,18 @@ Both species are dioecious (separate male and female trees), making vegetative p
 
 ## Pests and Diseases
 
-Both species are relatively pest-free compared to most fruit trees, reflecting their long co-evolution with tropical and Mediterranean ecosystems:
+Both species are relatively pest-free compared to most [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], reflecting their long co-evolution with tropical and Mediterranean ecosystems:
 
 | Issue | Tamarind | Carob |
 |---|---|---|
-| **Major insect pest** | Fruit flies, scale insects | Carob moth (*Ectomyelois ceratoniae*) |
-| **Major disease** | Powdery mildew, root rot | Root rot, crown gall |
+| **Major [[ingham-foliar-insect-pest-deterrence-mechanisms]]** | Fruit flies, scale insects | Carob moth (*Ectomyelois ceratoniae*) |
+| **Major disease** | [[cervantes-powdery-mildew-prevention-treatment]], root rot | Root rot, crown gall |
 | **Animal damage** | Monkeys, baboons, birds | Birds, rodents |
 | **Overall pest pressure** | Low to moderate | Low |
 
-Carob moth is the most significant carob-specific pest, infesting pods in storage. Tamarind's primary post-harvest issue is fungal growth on pods stored in humid conditions.
+Carob moth is the most significant carob-specific pest, infesting pods in storage. Tamarind's primary post-harvest issue is [[brassinosteroid-fungal-growth-promotion]] on pods stored in humid conditions.
 ## See Also
 
 - [[comparison-mesquite-vs-black-locust-vs-carob-tree]] — carob in broader leguminous tree comparison
 - [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] — integrating these trees into farming systems
+- [[permaculture-plants-legume-trees-acacia-carob-locust]]

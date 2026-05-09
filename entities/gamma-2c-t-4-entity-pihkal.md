@@ -1,5 +1,5 @@
 ---
-title: "gamma-2C-T-4 -- 2,6-DIMETHOXY-4-(i)-PROPYLTHIOPHENETHYLAMINE) -- PIHKAL Entry #42"
+title: "gamma-2C-T-4 -- 2,6-DIMETHOXY-4-(i)-PROPYLTHIOPHENETHYLAMINE) -- 2c-b-pihkal-entry-20 #42"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -39,6 +39,8 @@ extreme caution. This compound is not approved for human consumption.
 
 ## See Also
 
+- [[gamma-2c-t-4-entity]]
+
 - [[2c-o-4-entity-pihkal]]
 - [[2c-g-4-entity-pihkal]]
 
@@ -60,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +104,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

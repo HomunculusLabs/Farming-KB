@@ -12,13 +12,13 @@ tags: [reference]
 
 # Natural Pest Control
 
-The GROW BIOINTENSIVE approach to pest control begins with a fundamental insight: most insects look for sick plants to eat. A healthy soil produces healthy plants that are better able to resist insect and disease attacks. The best pest control strategy is therefore building and maintaining living, healthy soil rather than applying poisons that kill beneficial soil life.
+The GROW BIOINTENSIVE approach to pest control begins with a fundamental insight: most insects look for sick plants to eat. A healthy soil produces healthy plants that are better able to resist [[vegetable-insect-and-disease-control]] attacks. The best pest control strategy is therefore building and maintaining living, healthy soil rather than applying poisons that kill beneficial soil life.
 
 ## The Soil-Health Foundation
 
 ### Why Healthy Plants Resist Pests
 
-Plants, like people, are more susceptible to disease and insect attack when they are stressed or poorly nourished. A debilitated plant sends chemical signals that attract pests. Synthetic chemical fertilizers, while increasing yields in the short term, do not provide a complete diet for plants. Rudolf Steiner traced the decline in crop nutritive value and the rise of insect problems to the introduction of synthetic chemical fertilizers and pesticides.
+Plants, like people, are more susceptible to disease and insect attack when they are stressed or poorly nourished. A debilitated plant sends [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] that attract pests. Synthetic [[cervantes-chemical-fertilizers-guide]], while increasing yields in the short term, do not provide a complete diet for plants. Rudolf Steiner traced the decline in crop nutritive value and the rise of insect problems to the introduction of synthetic chemical fertilizers and pesticides.
 
 These chemicals caused changes in the soil that damaged its structure, killed beneficial microbial life, and made plants increasingly susceptible to attack. As plants weakened, they attracted more insects and needed more toxic "medicines" in the form of additional pesticides and fertilizers — a debilitating cycle.
 
@@ -29,7 +29,7 @@ Compost is the primary tool for building pest-resistant soil. A healthy soil pro
 - **Nutrient balance**: Humus in compost acts as a nutrient exchange site, providing plants with balanced nutrition in forms they can use.
 - **Microbial protection**: More than 6 billion microbial life-forms exist in 1 teaspoon of cured compost. These microbes produce antibiotics that help plants resist diseases and stimulate the plants' natural defenses.
 - **Biological pest control**: Compost harbors earthworms and beneficial fungi that fight nematodes and other soil pests. Predaceous fungi that attack and devour nematodes are only found in large amounts in soil with adequate humus.
-- **Disease suppression**: Healthy soil with diverse microbial populations naturally suppresses many plant diseases.
+- **[[aact-disease-suppression-mechanisms-ingham]]**: Healthy soil with diverse microbial populations naturally suppresses many plant diseases.
 
 ### The Problem with Pesticides
 
@@ -62,7 +62,7 @@ Certain plants create a beneficial atmosphere for the entire garden:
 
 ## Crop Rotation as Pest Prevention
 
-Crop rotation — companion planting "over time" — is one of the simplest and most effective pest management strategies. Many pests and diseases are crop-specific. By rotating crops through different areas of the garden, you break the pest life cycle. The standard Biointensive rotation of heavy feeders, heavy givers (legumes), and light feeders naturally provides this interruption.
+Crop rotation — companion planting "over time" — is one of the simplest and most effective pest management strategies. Many [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] are crop-specific. By rotating crops through different areas of the garden, you break the pest life cycle. The standard Biointensive rotation of heavy feeders, heavy givers (legumes), and light feeders naturally provides this interruption.
 
 The heavy feeder/heavy giver/light feeder cycle also ensures that soil nutrients are not systematically depleted by repeated plantings of the same type, which would stress plants and make them more vulnerable to pests.
 
@@ -110,7 +110,7 @@ The GROW BIOINTENSIVE method uses a hierarchy of responses to pest problems:
 
 1. **Prevention first**: Build healthy soil, use crop rotation, maintain close spacing, choose resistant varieties.
 2. **Cultural controls**: Adjust watering, shading, and planting times. Remove affected plant parts.
-3. **Biological controls**: Encourage beneficial insects through companion planting and flowering plants. Maintain habitat for predators.
+3. **Biological controls**: Encourage beneficial insects through [[query-what-is-companion-planting-and-how-does-it-work]] flowering plants. Maintain habitat for predators.
 4. **Physical controls**: Use shade netting, row covers, hand-picking, and barriers when needed.
 5. **Accept some damage**: A healthy garden ecosystem will always have some pest presence. Complete eradication is neither possible nor desirable — it would also eliminate the predators that keep pests in check.
 

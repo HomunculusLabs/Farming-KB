@@ -5,7 +5,8 @@ tags: [ethnobotany, chile, mapuche, solanaceae, scopolamine,
   hyoscyamine, deliriant, sorcery, schultes]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 type: concept
 ---
 
@@ -72,7 +73,7 @@ practitioner is permitted to work with dangerous substances.
 The chemical investigation of Latua pubiflora has identified two major
 tropane alkaloids: hyoscyamine and scopolamine. These are the same
 alkaloids found in other Solanaceous deliriants such as Datura stramonium
-(jimsonweed), Atropa belladonna (deadly nightshade), and Hyoscyamus niger
+(jimsonweed), [[belladonna-atropa-belladonna-ethnobotany]] (deadly nightshade), and [[henbane-hyoscyamus-niger-ethnobotany]]
 (henbane). The presence of these well-known deliriant compounds confirms
 the pharmacological mechanism underlying Latua's dramatic effects.
 
@@ -93,7 +94,7 @@ The Mapuche employ the fresh fruits of Latua pubiflora for their
 psychoactive effects. The use of fresh rather than dried plant material is
 noteworthy, as it suggests that the active compounds may degrade during
 drying or that fresh fruit provides a more predictable or controllable dose.
-The specific method of fruit preparation and consumption is not detailed in
+The specific method of fruit [[magic-mushroom-preparation-and-consumption-methods]] is not detailed in
 the available sources, but it likely involves eating the fruit directly or
 preparing a fresh juice or infusion.
 
@@ -101,8 +102,8 @@ preparing a fresh juice or infusion.
 
 Latua pubiflora is confined to the coastal mountains of central Chile, a
 relatively narrow geographic range that parallels that of other Chilean
-endemic psychoactive plants such as Gomortega keule (keule) and
-Desfontainia hookeri (taique). The concentration of endemic psychoactive
+endemic psychoactive plants such as [[keule-gomortega-keule-chilean-entheogen]] (keule) and
+[[taique-desfontainia-hookeri-andean-shrub]] (taique). The concentration of endemic psychoactive
 plants in central and southern Chile reflects the region's botanical
 uniqueness and the long history of Mapuche ethnopharmacological
 investigation of the local flora.
@@ -121,7 +122,7 @@ profiles.
 
 Latua pubiflora can be compared to other well-known Solanaceous deliriants
 including Datura species, Atropa belladonna, Hyoscyamus niger, and
-Mandragora officinarum. All share the common mechanism of tropane alkaloid
+[[mandrake-mandragora-officinarum-in-european-folklore]]. All share the common mechanism of tropane alkaloid
 toxicity, though their specific alkaloid profiles, potencies, and cultural
 contexts of use differ. Latua is distinguished by its exceptionally
 dangerous reputation and the reported possibility of permanent insanity,

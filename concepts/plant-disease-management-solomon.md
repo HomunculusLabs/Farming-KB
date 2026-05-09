@@ -1,5 +1,5 @@
 ---
-title: Plant Disease Management (Solomon)
+title: Plant plant disease management solomon (Solomon)
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -23,7 +23,7 @@ Solomon takes a preventive approach to plant diseases, emphasizing that the home
 This means:
 - Using appropriate, well-adapted varieties
 - Maintaining high soil fertility with balanced nutrition
-- Proper spacing for air circulation
+- Proper spacing for [[stamets-growing-room-air-circulation-co2-management]]
 - Appropriate watering practices
 
 ## Foliar Feeding for Disease Prevention
@@ -31,9 +31,9 @@ This means:
 Solomon recommends regular foliar feeding as a disease prevention measure:
 
 - Spray gardens with liquid kelp, which provides micronutrients and other fortifying elements
-- Compost tea brewed from high-quality composts provides beneficial microorganisms
+- [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]] brewed from high-quality composts provides beneficial microorganisms
 - Weekly foliar feeding of vegetables is a good practice in any case
-- Kelp tea and fish emulsion can be combined in spray tanks
+- Kelp tea and [[solomon-foliar-feeding-fish-emulsion-and-kelp]] can be combined in spray tanks
 
 Note: This is not simply a matter of dumping compost into a barrel and brewing "tea." The compost must be quality material, and the tea must be properly brewed and filtered for spray application.
 
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

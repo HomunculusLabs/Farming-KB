@@ -1,5 +1,5 @@
 ---
-title: lignin degradation
+title: mycoremediation-white-rot-fungi-lignin-degradation-enzymes
 created: 2026-04-28
 tags: [biochemistry, mycology, enzymology, bioremediation]
 date: 2026-04-28
@@ -13,7 +13,7 @@ type: concept
 Lignin is a complex aromatic polymer that provides structural rigidity and
 hydrophobicity to plant cell walls. It is the second most abundant
 biopolymer on Earth after cellulose. lignin degradation is a critical step
-in the global carbon cycle and is performed almost exclusively by certain
+in the [[dighton-fungi-elevated-co2-global-carbon-cycling]] cycle and is performed almost exclusively by certain
 fungi, primarily white rot basidiomycetes.
 
 ## Lignin Structure
@@ -31,7 +31,7 @@ to most enzymatic attack — no single enzyme can cleave all bond types.
 LiP (EC 1.11.1.14) is a heme-containing glycoprotein with a redox potential
 of approximately 1.5V, one of the highest known for biological oxidases.
 It oxidizes non-phenolic aromatic substrates (which constitute ~90% of
-lignin) through long-range electron transfer mediated by veratryl alcohol.
+lignin) through long-range electron transfer mediated by [[staycare-veratryl-alcohol-as-lignin-peroxidase-mediator]].
 LiP was first purified from *[[white-rot-fungi]] than
 LiP and is considered the more important peroxidase in nature. MnP possesses
 a unique manganese-binding site formed by three acidic amino acid residues
@@ -39,8 +39,8 @@ a unique manganese-binding site formed by three acidic amino acid residues
 substrate. The enzyme cycles between resting, compound I, and compound II
 states during catalysis, similar to other heme peroxidases, but its primary
 electron donor is Mn(II) rather than an aromatic substrate. The chelated
-Mn(III) acts as a diffusible redox mediator with a redox potential of
-approximately 0.8-1.1V, depending on the chelating organic acid. This
+Mn(III) acts as a diffusible [[staycare-fungal-redox-mediator-chemistry-pollutant-degradation]] with a redox potential of
+approximately 0.8-1.1V, depending on the chelating [[fungal-organic-acid-metal-solubilization]]. This
 diffusible nature allows MnP to extend oxidative attack well beyond the
 fungal hyphae surface. The organic acid chelators themselves are produced by
 the fungus, linking secondary metabolism to lignin degradation capability.
@@ -105,7 +105,7 @@ brown, crumbly residue.
 
 ## Key Fungal Species in Lignin Degradation
 The most extensively studied lignin-degrading fungi belong to the white rot
-basidiomycetes. *Phanerochaete chrysosporium* served as the primary model
+basidiomycetes. *[[staycare-phanerochaete-chrysosporium-in-bioremediation]]* served as the primary model
 organism for decades because it was the first white rot fungus shown to
 produce [[wood-decay-fungi]]
 ## See Also

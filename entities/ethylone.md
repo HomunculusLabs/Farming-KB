@@ -15,7 +15,7 @@ updated: 2026-04-28
 sources:
   - Casale JF, Hays PA. "Synthetic cathinones: Characterization of the β-keto-amphetamines." Forensic Science International, 2012.
   - Europol-EMCDDA. "EU Early Warning System: Report on Ethylone." EMCDDA Publications, 2014.
-  - Zaitsu K, et al. "Metabolism of the newly encountered designer drug ethylone in humans." Drug Metabolism and Disposition, 2014.
+  - Zaitsu K, et al. "Metabolism of the newly encountered designer drug ethylone in humans." [[cytochrome-p450-enzymes-drug-metabolism]] and Disposition, 2014.
   - Palmer RB, et al. "Case series of novel psychoactive substance toxicity." Clinical Toxicology, 2015.
 ---
 
@@ -37,7 +37,7 @@ sources:
 
 ### Structural Classification
 
-Ethylone is a **substituted cathinone** with the following structural features:
+Ethylone is a **substituted cathinone** with the following [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]]:
 
 - **β-keto group** (carbonyl at the β-position relative to the nitrogen) — the defining feature that distinguishes cathinones from amphetamines
 - **N-ethyl substitution** on the amine nitrogen (vs. N-methyl in methylone, N-methyl in MDMA)
@@ -96,7 +96,7 @@ Identified in human urine and plasma studies:
 - **Empathy and sociability** — present but attenuated compared to more serotonergic compounds
 - **Stimulation** — more prominent than with methylone; energy, alertness, reduced fatigue
 - **Enhanced music appreciation** — audio enhancement is notable
-- **Mild sensory enhancement** — tactile sensitivity, visual acuity
+- **Mild sensory enhancement** — tactile sensitivity, [[mckenna-roland-fischer-psilocybin-visual-acuity]]
 
 ### Undesired Effects
 
@@ -124,7 +124,7 @@ Identified in human urine and plasma studies:
 
 ### Discovery and Emergence
 
-Ethylone was first synthesized and characterized in the **2010–2011 timeframe**, emerging in the global research chemical market as part of the wave of novel psychoactive substances (NPS) that followed mephedrone's scheduling. It was first identified by forensic laboratories in Europe and Japan in 2011 and appeared in the United States shortly thereafter.
+Ethylone was first synthesized and characterized in the **2010–2011 timeframe**, emerging in the global research chemical market as part of the wave of novel [[cultural-evolution-and-psychoactive-substances]] (NPS) that followed mephedrone's scheduling. It was first identified by forensic laboratories in Europe and Japan in 2011 and appeared in the [[dmt-containing-plants-united-states-halpern]] shortly thereafter.
 
 ### Market Context
 
@@ -141,5 +141,5 @@ It was frequently misrepresented as MDMA or methylone in the illicit market, con
 - [[dom]]
 - [[methylone]] — N-methyl homolog (cathinone analog of MDMA)
 - [[mephedrone]] — 4-methylmethcathinone (4-MMC)
-- [[mdma]] — 3,4-methylenedioxymethamphetamine (reference entactogen)
+- mdma — 3,4-methylenedioxymethamphetamine (reference entactogen)
 - Cathinone — Parent compound and pharmacological class

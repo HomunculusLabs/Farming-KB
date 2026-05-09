@@ -1,5 +1,5 @@
 ---
-title: "4-TSB (4-THIOSYMBESCALINE;) -- PIHKAL Entry #177"
+title: "4-TSB (4-THIOSYMBESCALINE;) -- 2c-b-pihkal-entry-20 #177"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -68,7 +68,7 @@ methylcyclopentane. Anal. (C11H16O2S) C,H.
 
 To a stirred solution of 16.7 g of 2,6-diethoxythioanisole in 175 mL
 CH2Cl2 there was added 13 g elemental bromine dissolved in 100 mL
-CH2Cl2. After stirring at ambient temperature 1 h, the dark solution
+CH2Cl2. After stirring at [[jadam-ambient-temperature-principle]] 1 h, the dark solution
 was added to 150 mL H2O containing 1 g of sodium dithionite. Shaking
 immediately discharged the residual bromine color, and the organic
 phase was separated. The aqueous phase was extracted once with 100 mL
@@ -88,9 +88,11 @@ stirred mixture was cooled with an external ice bath. There was then
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
+
+- [[3-tsb-entity-pihkal]]
 
 - [[pe-entity-pihkal]]
 

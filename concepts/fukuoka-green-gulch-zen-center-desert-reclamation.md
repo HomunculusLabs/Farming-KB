@@ -1,11 +1,11 @@
 ---
-title: Fukuoka: Green Gulch Zen Center Desert Reclamation
+title: Fukuoka: Green Gulch Zen Center fukuoka-desert-reclamation-projects
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
 tags: [fukuoka, natural-farming]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources: []
   - raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
 ---
 
@@ -25,17 +25,17 @@ The Central Valley of California, where Davis is located, has been extensively f
 
 Fukuoka proposed that the land could be restored using [[fukuoka-desert-revegetation-natural-farming]].
 
-The [[fukuoka-desert-greening-projects]] around the world.
+The [[fukuoka-desert-greening-projects]] [[fungi-around-the-world-species-distribution]].
 
 ## Zen and Natural Farming Converge
 
-The Green Gulch Zen Center represents the convergence of zen spiritual practice and [[fukuoka-mu-economics-and-value-of-nothing-essay]]. The idea that there is no "other world" is not nihilism but the deepest affirmation of this world. When we stop seeking paradise elsewhere -- in technological utopias, in consumer goods, in the afterlife -- we can recognize the paradise that is already present in the natural world around us. The desert is not "other" to the forest; it is another expression of the same natural intelligence.
+The Green Gulch Zen Center represents the convergence of zen spiritual practice and [[fukuoka-mu-economics-and-value-of-nothing-essay]]. The idea that there is no "other world" is not nihilism but the deepest affirmation of this world. When we stop seeking paradise elsewhere -- in technological utopias, in consumer goods, in the afterlife -- we can recognize the paradise that is already present in the natural world around us. The desert is not "other" to the forest; it is another expression of the same [[powell-natural-intelligence-and-the-universal-computation]].
 
 ## The Final Teaching
 
-At Green Gulch, Fukuoka's final message was essentially the same one he had carried throughout his life: abandon human cleverness, return to nature, trust in the greater intelligence of the natural world. The desert, like all degraded land, is not inherently barren -- it has been made barren by human ignorance. Nature wants to cover every square inch of the earth with green plants. Our job is simply to stop interfering and let nature do its work.
+At Green Gulch, Fukuoka's final message was essentially the same one he had carried throughout his life: abandon human cleverness, [[emcdda-return-to-nature-megatrend-mushroom-appeal]], trust in the greater intelligence of the natural world. The desert, like all degraded land, is not inherently barren -- it has been made barren by human ignorance. Nature wants to cover every square inch of the earth with green plants. Our job is simply to stop interfering and let nature do its work.
 
-The tears at Green Gulch were perhaps the tears of a man who had spent his entire life trying to convey this simple truth, knowing that most people would not listen, but hoping that a few seeds -- like the clay pellets he scattered -- would take root and grow.
+The tears at Green Gulch were perhaps the tears of a man who had spent his entire life trying to convey this simple truth, knowing that most people would not listen, but hoping that a few seeds -- like the [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] he scattered -- would take root and grow.
 
 This is the message of [[fukuoka-return-to-nature-philosophy]] that Fukuoka advocated is not a regression to primitive conditions but an evolution of consciousness -- a recognition that the intelligence of nature far exceeds the intelligence of the human mind.
 
@@ -69,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

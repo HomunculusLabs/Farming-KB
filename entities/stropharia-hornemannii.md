@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Noordeloos, M.E. (2011). Strophariaceae s. lato. Fungi Europaei, Vol. 13. Candusso Alba.
-  - Stamets, P. (1996). Psilocybin Mushrooms of the World. Ten Speed Press.
+  - Stamets, P. (1996). [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World. Ten Speed Press.
   - Gartz, J. (1994). "Distribution and habitat of psychoactive fungi in Europe." Zeitschrift für Mykologie, 60(1), 15-26.
   - Allen, J.W., et al. (1992). "A re-evaluation of the distribution of psychoactive fungi." Mycotaxon, 44, 297-318.
   - Breitenbach, J. & Kränzlin, F. (2000). Fungi of Switzerland, Vol. 4. Verlag Mykologia.
@@ -71,7 +71,7 @@ Elevation range is typically 300–1,800 meters, favoring montane and subalpine 
 
 ## Bioactive Compounds
 
-*S. hornemannii* contains **psilocybin and psilocin**, the classic indole tryptamine hallucinogens. Analytical studies have confirmed the presence of these compounds, though concentrations are variable and generally lower than in dedicated psychoactive species.
+*S. hornemannii* contains **psilocybin and psilocin**, the classic indole [[mckenna-tryptamine-hallucinogens-and-consciousness]]. Analytical studies have confirmed the presence of these compounds, though concentrations are variable and generally lower than in dedicated psychoactive species.
 
 **Reported alkaloid concentrations (approximate, from limited analytical data):**
 
@@ -82,7 +82,7 @@ Elevation range is typically 300–1,800 meters, favoring montane and subalpine 
 
 The variability in potency reflects differences in substrate, geographic origin, and age of the fruiting body. Collections from northern Europe tend to report higher alkaloid content than North American material, though sample sizes in published analyses are small.
 
-The species also contains typical Strophariaceae secondary metabolites including various phenolic compounds. No significant concentrations of toxic compounds have been identified.
+The species also contains typical Strophariaceae [[antifungal-secondary-metabolites-coprophilous-fungi]] including various phenolic compounds. No significant concentrations of toxic compounds have been identified.
 
 ## Edibility
 
@@ -94,9 +94,9 @@ No cases of poisoning by misidentification have been documented, though the genu
 
 As a lignicolous saprotroph, *S. hornemannii* contributes to the decomposition of coarse woody debris in coniferous forests. Its preference for well-decomposed logs positions it as a secondary decomposer, breaking down wood that has already been partially colonized by white-rot fungi.
 
-The species is part of the fungal succession on fallen conifer timber, typically appearing after primary colonizers such as *Trametes versicolor* and *Fomitopsis pinicola* have begun softening the wood matrix. It contributes to nutrient cycling by releasing bound carbon and nitrogen from recalcitrant conifer lignin.
+The species is part of the fungal succession on fallen conifer timber, typically appearing after primary colonizers such as *[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]* and *Fomitopsis pinicola* have begun softening the wood matrix. It contributes to nutrient cycling by releasing bound carbon and nitrogen from recalcitrant conifer lignin.
 
-*S. hornemannii* may also form weak endophytic associations with living conifer roots, though this has not been extensively studied. Its ecological interactions with insect fauna colonizing the same dead wood substrate are poorly documented.
+*S. hornemannii* may also form weak endophytic associations with living conifer roots, though this has not been extensively studied. Its [[king-stropharia-ecological-interactions-permaculture]] with insect fauna colonizing the same dead wood substrate are poorly documented.
 
 ## Related Species
 
@@ -110,7 +110,7 @@ The species has historically been placed in *Psilocybe* by some authorities (Noo
 
 ## See Also
 
-- [[psilocybe-cubensis]] — The most commonly cultivated psilocybin mushroom, for potency comparison
+- [[psilocybe-cubensis]] — The most commonly cultivated psilocybin mushroom, for [[psilocybe-cubensis-strain-potency-comparison-amazon-mr-equadorian]]
 - [[gymnopilus-junonius]] — The laughing gym, another lignicolous psilocybin-containing agaric
 - [[lignicolous-fungi]] — Ecological category encompassing all wood-decay fungal species
 - [[kuehneromyces-mutabilis-entity]] — Velvet foot, another lignicolous agaric fruiting on similar conifer stumps

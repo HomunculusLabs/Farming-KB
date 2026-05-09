@@ -3,19 +3,20 @@ title: "Moringa vs Comfrey"
 tags: [comparison, moringa, comfrey, permaculture, dynamic-accumulators]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  sources: []
 ---
 
-# [[comfrey]]
+# comfrey
 
 ## Overview
 
-Moringa (Moringa oleifera) and comfrey (Symphytum officinale) are two of the
+Moringa ([[comparison-moringa-oleifera-vs-moringa-stenopetala]]) and comfrey (Symphytum officinale) are two of the
 most celebrated multi-purpose plants in [[decomposition]].
 
 ## Hybrid Approaches
 
-In climate zones 8-9, creative growers can integrate both plants. Moringa
+In [[mollison-climate-zones-permaculture-strategies]] 8-9, creative growers can integrate both plants. Moringa
 grows as a summer annual or die-back perennial, providing peak biomass and
 food during warm months, while comfrey fills the niche during cooler seasons.
 Both can serve as chop-and-drop mulch beneath fruit trees, with moringa
@@ -25,11 +26,11 @@ indoors while comfrey remains productive outside year-round.
 
 ## See Also
 
-- nutrient and dynamic accumulators
-- companion planting and polycultures
-- comparison comfrey tea vs compost tea
+- nutrient and [[comparison-dynamic-accumulators-vs-cover-crops]]
+- [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] and polycultures
+- comparison [[comparison-comfrey-tea-vs-compost-tea]] vs compost tea
 - comparison dynamic accumulators vs cover crops
-- soil nutrient management and plant nutrition
+- soil [[green-cannabis-grow-bible-nutrient-management-ppm]] and plant nutrition
 
 ## See Also
 
@@ -111,4 +112,6 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+- [[comparison-comfrey-tea-vs-compost-tea]]
+- [[decomposition]]
+- [[comparison-dynamic-accumulators-vs-cover-crops]]

@@ -24,14 +24,14 @@ sources:
   - "Lewandowski, I. et al. (2000). \"Miscanthus: European experience with a novel energy crop.\" Biomass and Bioenergy 19(4): 209-227."
   - "Clifton-Brown, J.C. et al. (2008). Miscanthus: A C4 Bioenergy Crop. Wiley-Blackwell."
   - "USDA NRCS Plant Guide. Miscanthus sinensis (Chinese Silver Grass)."
-  - "Quinn, L.D. et al. (2010). \"Miscanthus × giganteus: A bioenergy crop.\" Illinois Biological Control 1(2): 1-12."
+  - "Quinn, L.D. et al. (2010). \"Miscanthus × giganteus: A bioenergy crop.\" Illinois [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] 1(2): 1-12."
   - "Stewart, J.R. et al. (2009). \"The ecology and agronomy of Miscanthus sinensis.\" GCB Bioenergy 1(4): 331-346."
 ---
 
 ## Overview
 
 *Miscanthus sinensis*, the Chinese silver grass or eulalia grass, is a
-tall, rhizomatous perennial grass in the family Poaceae. Native to
+tall, rhizomatous [[savory-perennial-grass-and-desertification]] in the family Poaceae. Native to
 eastern Asia, it has become one of the most significant bioenergy crops
 worldwide due to its exceptional biomass productivity, low input
 requirements, and ability to grow on marginal land. The sterile hybrid
@@ -72,7 +72,7 @@ from Korea and Japan through eastern China to Taiwan and the Russian Far
 East. It occurs in grasslands, forest margins, riverbanks, and mountain
 slopes at elevations from sea level to 2,000 meters.
 
-The species has been widely introduced in North America, Europe, and
+The species has been widely introduced in [[psilocybin-north-america-pacific-northwest]], Europe, and
 New Zealand as an ornamental and bioenergy crop. In parts of the eastern
 United States and western Europe, it has naturalized and is considered
 an invasive species in some areas, forming dense monocultures that
@@ -100,16 +100,16 @@ matter per hectare per year, depending on climate, soil, and cultivar.
 The crop is C4, giving it high photosynthetic efficiency and water-use
 efficiency compared to C3 grasses. It allocates approximately 50–60% of
 above-ground biomass below ground during senescence, building soil
-organic matter and contributing to carbon sequestration.
+organic matter and contributing to [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]].
 
 ## Permaculture and Ecological Applications
 
 *M. sinensis* serves multiple functions in permaculture and ecological
 design systems:
 
-- **Biomass production:** High-yielding mulch and compost feedstock,
+- **[[dighton-fungal-biomass-production-aquatic-ecosystems]]:** High-yielding mulch and compost feedstock,
   generating large volumes of organic matter annually.
-- **Erosion control:** Dense rhizomatous root systems stabilize soil on
+- **[[permplant-willows-salix-erosion-control-fodder]]:** Dense rhizomatous root systems stabilize soil on
   slopes, riparian zones, and degraded land.
 - **Windbreaks and shelterbelts:** Tall, dense stands provide effective
   wind protection for crops, livestock, and buildings.

@@ -35,7 +35,7 @@ sources:
 
 ## Qualitative Effects
 
-- Psychedelic experience with benign character
+- [[leary-psychedelic-experience-bardo-mapping]] with benign character
 - Body tingling and unsteady walking at moderate doses
 - Cognitive intoxication with difficulty accomplishing simple tasks
 - Strong humor and laughter ("hilarious... mad hatter's tea party, and a trip to the moon")
@@ -54,7 +54,7 @@ At 25 mg: "completely benign, ease with concepts, writing good and smooth." At 3
 
 TMA-6 may be "one of the most rewarding and pleasurable of the methoxylated amphetamines." Its 2,4,6-pattern serves as a parallel template to TMA-2's 2,4,5-pattern. Keeping the 2,6-dimethoxy aspect intact while modifying the 4-position could yield an entire "psi-series" (gamma-series): gamma-DOM (called Z-7 in PiHKAL), gamma-DOB, gamma-DOET, gamma-DOI, gamma-ALEPH, and gamma-2C-X compounds. These are expected to be active but considerably more difficult to synthesize.
 
-The synthesis from phloroglucinol (found in Sequoia sempervirens, Camellia leaves, citrus rinds, and apple/pear tree bark) is described in full, reflecting what Shulgin called "a valid paranoia of our times" — the desire to know how to make starting materials from nature in case commercial chemicals become unavailable.
+The synthesis from phloroglucinol (found in [[sequoia-sempervirens]], Camellia leaves, citrus rinds, and apple/pear tree bark) is described in full, reflecting what Shulgin called "a valid paranoia of our times" — the desire to know how to make starting materials from nature in case commercial chemicals become unavailable.
 
 The phenethylamine homologue (2,4,6-TMPEA or 2C-TMA-6) has been synthesized but not tested in man. It is not a substrate for soluble amine oxidase from rabbit liver, a property it shares with mescaline-entity|mescaline.
 
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

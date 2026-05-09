@@ -51,7 +51,7 @@ Buller drop mechanism, where a water droplet forms on the sterigma and
 rapidly coalesces with the spore surface, propelling the spore
 forcibly into the air. Ascomycetes use osmotic pressure to eject
 ascospores through the ostiole of ascomata. Sphaerobolus (the
-artillery fungus) uses a cup-shaped structure to launch spore masses
+[[bloomfield-sphaerobolus-artillery-fungus-spore-launch]]) uses a cup-shaped structure to launch spore masses
 over distances of several metres.
 
 ## Passive dispersal by wind
@@ -82,7 +82,7 @@ surfaces. Many fungi produce hydrophobins that coat spore surfaces,
 mediating hydrophobic interactions with plant cuticles. M. grisea
 conidia attach tightly to the hydrophobic rice leaf surface through
 adhesive released from the conidial apex. Germination is triggered by
-environmental cues including nutrient availability, surface
+environmental cues including [[ph-and-nutrient-availability-garden-soils]], surface
 hydrophobicity, temperature, and humidity. Not all spores germinate
 immediately; many exhibit dormancy requiring specific triggers.
 
@@ -93,7 +93,7 @@ Sporulation is regulated by environmental signals including light
 and humidity. Many fungi produce conidia in response to light,
 particularly near-UV and blue wavelengths. Nutrient depletion or
 exhaustion often triggers asexual sporulation. The transition between
-vegetative growth and sporulation involves complex signal transduction
+[[cannabis-vegetative-growth-stage]] and sporulation involves complex [[fungal-environmental-sensing-signal-transduction-read]]
 cascades including cAMP signalling and MAP kinase pathways.
 
 ## Atmospheric spore concentrations
@@ -123,14 +123,14 @@ Fungal spores vary enormously in longevity. Some conidia survive only
 days, while sclerotia and chlamydospores persist for years. Melanin
 in spore walls provides protection from UV radiation. Trehalose and
 other compatible solutes protect against desiccation. Heat-resistant
-spores of thermotolerant fungi survive pasteurisation temperatures.
+spores of [[thermophilic-thermotolerant-fungi-ecology-isolation]] survive pasteurisation temperatures.
 Understanding spore persistence is critical for disease forecasting,
 food safety, and building preservation.
 
 ## Aerobiology and environmental health
 
 Fungal aerobiology intersects with human health through allergen
-exposure and opportunistic infections. Aspergillus fumigatus conidia
+exposure and opportunistic infections. [[gadd-aspergillus-fumigatus-glucan-virulence]] conidia
 are ubiquitous in the atmosphere and pose risks to immunocompromised
 individuals. The relationship between atmospheric spore loads and
 clinical infection rates informs public health monitoring. Climate
@@ -140,5 +140,8 @@ distributions and seasonal patterns of sporulation.
 ## Related concepts
 
 - [[gadd-rice-blast-magnaporthe-grisea]]
-- [[fungal-environmental-sensing]]
+- fungal-environmental-sensing
 - [[gadd-colony-morphogenesis-hyphal-growth]]
+- [[aspergillus-fumigatus]]
+- [[magnaporthe-grisea]]
+- [[spore-dispersal]]

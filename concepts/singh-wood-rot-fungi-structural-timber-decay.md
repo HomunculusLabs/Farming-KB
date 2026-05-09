@@ -16,19 +16,19 @@ type: concept
 
 # Wood Rot Fungi and Structural Timber Decay
 
-Wood decay fungi are the primary biological agents responsible for the
+Wood [[wood-decay-fungi-buildings]] are the primary biological agents responsible for the
 degradation of lignocellulose in standing trees, fallen timber, and
 structural wood products. They are classified into three main decay types,
-brown rot, white rot, and soft rot, based on their enzymatic strategies
+[[comparison-brown-rot-vs-white-rot-bioremediation]], white rot, and soft rot, based on their enzymatic strategies
 and the residual materials they produce. Understanding these decay
 mechanisms is essential for timber preservation, building conservation,
 and for harnessing fungal enzymes in [[pah-bioremediation]]. White
 rot fungi can degrade a wide range of xenobiotic pollutants, including
-polycyclic aromatic hydrocarbons (PAHs), polychlorinated biphenyls
-(PCBs), chlorinated phenols, and synthetic dyes, using the same
-nonspecific oxidative enzyme systems they employ for lignin degradation.
+[[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs), polychlorinated biphenyls
+(PCBs), chlorinated phenols, and [[singh-fungal-degradation-of-synthetic-dyes-and-textile-waste]], using the same
+nonspecific oxidative enzyme systems they employ for [[query-how-does-lignin-degradation-by-fungi-work]].
 Brown rot Fenton chemistry has been explored for oxidation of persistent
-organic pollutants. Spent mushroom substrate from cultivated white rot
+organic pollutants. Spent [[gourmet-medicinal-mushroom-substrate-preparation]] from cultivated white rot
 fungi (e.g., Pleurotus spp.) is used as a biofilter and soil amendment
 for contaminant removal.
 ## See Also
@@ -112,4 +112,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

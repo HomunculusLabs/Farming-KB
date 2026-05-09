@@ -1,10 +1,11 @@
 ---
-title: Rocket Stove
+title: comparison-rocket-stove-vs-masonry-heater
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [permaculture, equipment, design, homesteading, methods, regenerative, ecology]
-sources: []
+sources:
+  sources: []
 ---
 
 # Rocket Stove
@@ -59,7 +60,7 @@ For a standard cooking rocket stove with a 4-inch diameter system:
 - Sawdust-clay mix (light cob) — natural, moderate insulation
 
 **Outer shell**:
-- Steel drum (55-gallon) for large rocket mass heaters
+- Steel drum (55-gallon) for large [[query-what-is-a-rocket-mass-heater-and-how-does-it-work]] heaters
 - Metal box or bucket for portable cooking stoves
 - Cob or stone for permanent installations
 - Brick for permanent outdoor installations
@@ -111,7 +112,7 @@ Rocket stoves can be integrated with cob ovens to create an extremely efficient 
 - Once the oven is hot, the cob mass retains heat for hours of baking
 - The rocket stove can continue providing heat for a stovetop surface while the oven bakes
 - This combination uses a fraction of the wood of a traditional cob oven
-- See [[natural-building]] for cob construction techniques
+- See [[natural-building]] for [[comparison-cob-construction-vs-straw-bale-construction]] techniques
 
 ## Fuel Requirements
 
@@ -120,7 +121,7 @@ Rocket stoves are designed to burn small-diameter wood efficiently:
 - **Ideal fuel**: Dry sticks and twigs 0.5-2 inches in diameter and 12-24 inches long
 - **Wood species**: Any dry wood works. Hardwoods (oak, maple, hickory) burn longer; softwoods (pine, cedar) burn faster and hotter.
 - **Moisture content**: Below 20% moisture is ideal. Green or wet wood produces smoke and reduces efficiency.
-- **Fuel preparation**: Prunings from orchard management, fallen branches, and construction scraps are all suitable fuel. This makes rocket stoves an excellent way to use [[food-forest-design]] pruning waste.
+- **Fuel preparation**: Prunings from [[fukuoka-orchard-management-detailed]], fallen branches, and construction scraps are all suitable fuel. This makes rocket stoves an excellent way to use [[food-forest-design]] pruning waste.
 - **Feed rate**: Feed sticks into the horizontal tube as they burn down. The self-feeding design means you add fuel every 5-10 minutes rather than constantly tending.
 
 ## Applications
@@ -135,37 +136,15 @@ Rocket stoves are designed to burn small-diameter wood efficiently:
 ### Heating
 
 - Space heating via rocket mass heater (described above)
-- Greenhouse heating: Small rocket stoves can heat [[greenhouse-design]] spaces efficiently
+- [[biomass-compost-greenhouse-heating-systems]]: Small rocket stoves can heat [[greenhouse-design]] spaces efficiently
 - Water heating: Wrap a water jacket around the heat riser for domestic hot water
 
 ### Homestead Processing
 
 - Maple syrup boiling: High heat output is ideal for evaporating sap
-- Canning: Sustained heat for water bath canning — see [[food-preservation-canning]]
+- Canning: Sustained heat for water [[water-bath-canning-guide]] — see [[food-preservation-canning]]
 - Rendering: Melting fats for soap and candle making — see [[candle-making]]
 - Scalding: Processing poultry — see [[animal-harvest-and-processing]]
-
-## Safety Considerations
-
-- The combustion chamber and heat riser reach temperatures of 1000-1800F — serious burn hazard
-- Provide a stable, non-combustible base for the stove
-- Maintain clearances from combustible walls and ceilings (minimum 36 inches)
-- Install a carbon monoxide detector if using indoors or in enclosed spaces
-- Ensure adequate ventilation — rocket stoves consume oxygen and produce CO2
-- Keep children and pets away from the hot surfaces
-- Check local regulations before installing permanent indoor rocket mass heaters
-
-## Troubleshooting
-
-| Problem | Cause | Solution |
-|---|---|---|
-| Excessive smoke | Insufficient draft; wet wood; cold start; wrong dimensions | Use dry fuel; preheat the chimney with newspaper; check dimensions match specifications |
-| Fire goes out | Draft reversed; chimney too short; blockage | Ensure chimney is tall enough (15+ ft for mass heaters); clear blockages; warm the chimney |
-| Back-puffing (smoke from feed tube) | Wind blowing down chimney; insufficient chimney height | Add a chimney cap; extend chimney height; block wind |
-| Stove overheating | Insulation too thin; continuous over-firing | Add more insulation; reduce fuel feed rate; let stove cool between uses |
-| Cooking surface too cool | Gap between riser and pot too large or too small | Adjust cooking surface height to 1.5x riser diameter |
-| Metal parts burning through | Thin steel in combustion chamber; high temperatures | Use thicker steel, firebrick, or cast refractory for the J-tube |
-
 ## Related
 
 - [[mud-oven]]

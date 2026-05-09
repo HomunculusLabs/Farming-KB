@@ -26,8 +26,8 @@ known in Japan as Buna-shimeji or the Beech Mushroom.
 ## Taxonomy and Naming Confusion
 
 The Genus Hypsizygus was first described by Rolf Singer and contains
-two excellent edible mushrooms: H. tessulatus (Bull.:Fries) Singer
-and H. ulmarius (Bull.:Fries) Redhead. Both cause a brown rot of
+two excellent [[palmer-edible-mushrooms-north-america]]: H. tessulatus (Bull.:Fries) Singer
+and H. ulmarius (Bull.:Fries) Redhead. Both cause a [[comparison-brown-rot-vs-white-rot-bioremediation]] of
 hardwoods. The name "tessulatus" refers to water spots on the caps;
 "marmoreus" means marbled, again in reference to cap markings.
 
@@ -41,6 +41,11 @@ conditions.
 
 Firmer fleshed than most [[growing-gourmet-king-oyster-eryngii-cultivation]].
 ## Related
+
+- [[hypsizygus-tessellatus]]
+- [[hypsizygus-marmoreus]]
+
+- [[shimeji-cultivation]]
 
 - [[growing-gourmet-polypore-mushrooms-cultivation-overview]]
 
@@ -64,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

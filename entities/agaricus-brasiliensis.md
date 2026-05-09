@@ -5,7 +5,7 @@ updated: 2026-05-02
 type: entity
 tags: [species, fungus, basidiomycete, agaricaceae, edible, medicinal, cultivated]
 sources: ["Peck 1893", "Heinemann 1972", "Wasser 1989", "Kerrigan 2005", "Wasser et al. 2002"]
-aliases: [Agaricus blazei, Agaricus subrufescens, almond mushroom, Himematsutake, Cogumelo do Sol, Cogumelo de Deus, sun mushroom, mushroom of the sun, mushroom of God, Princess Matsutake]
+aliases: [[cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides]], Agaricus subrufescens, almond mushroom, Himematsutake, Cogumelo do Sol, Cogumelo de Deus, sun mushroom, mushroom of the sun, mushroom of God, Princess Matsutake]
 ---
 
 # Agaricus brasiliensis
@@ -20,7 +20,7 @@ aliases: [Agaricus blazei, Agaricus subrufescens, almond mushroom, Himematsutake
 
 ## Overview
 
-Agaricus brasiliensis is a commercially important edible and medicinal mushroom in the family Agaricaceae, widely known for its distinctive almond aroma and its extensively studied immunomodulatory and anti-tumor properties. The species has one of the most tangled taxonomic histories in mycology: originally described by Charles Horton Peck in 1893 from New York as Agaricus subrufescens, it was independently rediscovered in Brazil near Piedade, São Paulo, in the 1960s and described by Heinemann in 1972 as Agaricus blazei — an illegitimate homonym of Murrill's 1947 Florida species. Wasser proposed A. brasiliensis in 1989, but molecular studies by Kerrigan (2005) confirmed all three names refer to Peck's original A. subrufescens, which has nomenclatural priority. Despite the taxonomic resolution, the names "Agaricus blazei" and "Agaricus brasiliensis" remain ubiquitous in the commercial medicinal mushroom trade and scientific literature. The species is native to subtropical regions of Brazil and the eastern United States but is now cultivated worldwide at massive scale, primarily in China and Japan, for the medicinal mushroom supplement market valued at hundreds of millions of dollars annually.
+Agaricus brasiliensis is a commercially important edible and [[gourmet-medicinal-mushroom-casing-layer-techniques]] in the family Agaricaceae, widely known for its distinctive almond aroma and its extensively studied immunomodulatory and anti-tumor properties. The species has one of the most tangled taxonomic histories in mycology: originally described by Charles Horton Peck in 1893 from New York as Agaricus subrufescens, it was independently rediscovered in Brazil near Piedade, São Paulo, in the 1960s and described by Heinemann in 1972 as Agaricus blazei — an illegitimate homonym of Murrill's 1947 Florida species. Wasser proposed A. brasiliensis in 1989, but molecular studies by Kerrigan (2005) confirmed all three names refer to Peck's original A. subrufescens, which has nomenclatural priority. Despite the taxonomic resolution, the names "Agaricus blazei" and "Agaricus brasiliensis" remain ubiquitous in the commercial medicinal mushroom trade and scientific literature. The species is native to subtropical regions of Brazil and the eastern United States but is now cultivated worldwide at massive scale, primarily in China and Japan, for the medicinal mushroom supplement market valued at hundreds of millions of dollars annually.
 
 ## Taxonomy
 
@@ -78,13 +78,13 @@ Local inhabitants of Piedade, São Paulo, traditionally consumed the mushroom an
 
 In the 1960s, a Japanese immigrant in Brazil (sometimes identified as Furumoto) noticed the health of the Piedade population and sent spore samples to Japanese researchers. A popular but unsubstantiated story involving Albert Einstein is fabricated — Einstein died in 1955 and had no connection to this mushroom.
 
-Japanese mycologists at Mie University and the Iwade Fungi Institute began cultivation trials in the 1970s-1980s. Successful cultivation was developed in the 1980s, and the mushroom was marketed as "Himematsutake" (Princess Matsutake) — a deliberately misleading name implying kinship with the prized matsutake. Companies like Piedade Co. and Kyowa Medex commercialized extracts and dried products heavily promoted as immune-boosting and anti-cancer supplements. Cultivation expanded to China and other Asian countries in the 1990s-2000s, and the global market for A. subrufescens products grew to hundreds of millions of dollars annually. Scientific interest expanded worldwide with hundreds of peer-reviewed studies on bioactive compounds.
+Japanese mycologists at Mie University and the Iwade Fungi Institute began cultivation trials in the 1970s-1980s. Successful cultivation was developed in the 1980s, and the mushroom was marketed as "Himematsutake" (Princess Matsutake) — a deliberately misleading name implying kinship with the prized matsutake. Companies like Piedade Co. and Kyowa Medex commercialized extracts and dried products heavily promoted as immune-boosting and anti-cancer supplements. Cultivation expanded to China and other Asian countries in the 1990s-2000s, and the global market for A. subrufescens products grew to hundreds of millions of dollars annually. Scientific interest expanded worldwide with hundreds of peer-reviewed studies on [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]].
 
 ## Cultivation
 
 Cultivation follows methods similar to the button mushroom (A. bisporus) but at higher temperatures. The primary substrate is composted straw (wheat or rice) supplemented with horse or chicken manure, gypsum, rice bran, and wheat bran. Composting requires 14-21 days of aerobic fermentation with temperatures reaching 50-80 degrees Celsius, followed by pasteurization at 60 degrees Celsius for 8-12 hours and conditioning at 50-55 degrees Celsius for 5-7 days. Final substrate pH is 6.5-7.0 with 60-65% moisture content.
 
-This is a thermophilic species requiring fruiting temperatures of 22-28 degrees Celsius (optimum 25-27 degrees Celsius), significantly warmer than button mushrooms. Relative humidity of 85-95% is needed during fruiting. Spawn run takes 20-30 days, followed by a fruiting cycle of 3-5 flushes over 60-90 days. Biological efficiency ranges from 30-60% (kg fresh mushrooms per kg dry substrate). Production is primarily in plastic bags or bottles (Japanese method). China dominates production with large-scale facility operations.
+This is a thermophilic species requiring fruiting temperatures of 22-28 degrees Celsius (optimum 25-27 degrees Celsius), significantly warmer than button mushrooms. Relative humidity of 85-95% is needed during fruiting. Spawn run takes 20-30 days, followed by a fruiting cycle of 3-5 flushes over 60-90 days. [[stamets-biological-efficiency-yield]] ranges from 30-60% (kg fresh mushrooms per kg dry substrate). Production is primarily in plastic bags or bottles (Japanese method). China dominates production with large-scale facility operations.
 
 ## Chemical Composition
 
@@ -108,7 +108,7 @@ This is a thermophilic species requiring fruiting temperatures of 22-28 degrees 
 
 ## Medicinal Properties
 
-**Immune modulation (best-studied effect):** Beta-glucans stimulate production of cytokines (TNF-alpha, IL-1beta, IL-6, IL-12, IFN-gamma) and enhance phagocytic activity of macrophages and neutrophils. Evidence level: strong — supported by in vitro studies, animal models, and several human clinical trials.
+**[[cancer-immune-modulation-mechanisms]] (best-studied effect):** Beta-glucans stimulate production of cytokines (TNF-alpha, IL-1beta, IL-6, IL-12, IFN-gamma) and enhance phagocytic activity of macrophages and neutrophils. Evidence level: strong — supported by in vitro studies, animal models, and several human clinical trials.
 
 **Anti-tumor properties:** Animal studies demonstrate tumor growth inhibition (sarcoma 180, Ehrlich carcinoma, MM-46 adenocarcinoma) with oral administration. Proposed mechanisms include immune activation (immune surveillance), direct apoptosis induction, and anti-angiogenesis. Some small Japanese clinical studies showed improved quality of life in cancer patients receiving extracts alongside conventional treatment. Human clinical data remains limited and preliminary; this mushroom is not a proven cancer treatment and should not replace conventional therapy.
 
@@ -124,7 +124,7 @@ This is a thermophilic species requiring fruiting temperatures of 22-28 degrees 
 
 ## Safety Notes
 
-Generally recognized as safe when consumed as food; no serious adverse effects reported in clinical trials at standard doses of 500-3000 mg/day. Rare allergic reactions (skin rash, asthma-like symptoms from spore exposure) have been reported. Gastrointestinal upset is uncommon at high doses. Agaritine content is a theoretical concern but reduced significantly by cooking and found acceptable at normal dietary levels by regulatory agencies. Possible immunostimulatory effects could interact with immunosuppressant drugs — caution for organ transplant patients. Heavy metal accumulation from contaminated substrate is a quality control concern. Insufficient data for pregnancy and breastfeeding — caution advised. Not a replacement for conventional medical treatment.
+Generally recognized as safe when consumed as food; no serious [[blesching-cannabis-safety-adverse-effects-evidence]] reported in clinical trials at standard doses of 500-3000 mg/day. Rare allergic reactions (skin rash, asthma-like symptoms from spore exposure) have been reported. Gastrointestinal upset is uncommon at high doses. Agaritine content is a theoretical concern but reduced significantly by cooking and found acceptable at normal dietary levels by regulatory agencies. Possible immunostimulatory effects could interact with immunosuppressant drugs — caution for organ transplant patients. Heavy metal accumulation from contaminated substrate is a quality control concern. Insufficient data for pregnancy and breastfeeding — caution advised. Not a replacement for conventional medical treatment.
 
 ## See Also
 

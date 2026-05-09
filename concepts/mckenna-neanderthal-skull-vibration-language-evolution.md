@@ -1,5 +1,5 @@
 ---
-title: Neanderthal Skull Vibration and the Evolution of Language
+title: mckenna neanderthal skull vibration language evolution Vibration and the Evolution of Language
 created: 2026-04-28
 tags:
   - human-evolution
@@ -42,7 +42,7 @@ The practical implication is that a self-regulated process as simple as singing 
 vocalization might confer positive adaptive advantages if it also makes the removal of chemical
 waste from the brain more efficient. Groups that engaged in frequent communal vocalization,
 whether in the form of chanting, singing, or the rhythmic vocalizations that accompany
-shamanic mushroom ceremonies, would have experienced measurably better brain function over
+shamanic [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]], would have experienced measurably better brain function over
 time than groups that did not.
 
 ## The Neanderthal Paradox
@@ -91,7 +91,7 @@ vocal behavior.
 The soft palate adaptation represents one of the physical modifications that transformed the
 hominid vocal tract from the limited repertoire of other primates into the instrument capable
 of producing the full range of human speech sounds. Combined with the thinning of the cranial
-bones, it forms part of a suite of anatomical changes that, in McKenna's view, were driven
+bones, it forms part of a suite of [[steroid-induced-anatomical-changes-psilocybe-cubensis-fruiting]] that, in McKenna's view, were driven
 by the interplay of dietary factors and the behavioral demands of an increasingly
 language-dependent social existence.
 

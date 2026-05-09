@@ -1,5 +1,5 @@
 ---
-title: "2C-F (4-Fluoro-2,5-dimethoxy-PEA) -- PIHKAL Entry #26"
+title: "2C-F (4-Fluoro-2,5-dimethoxy-PEA) -- 2c-b-pihkal-entry-20 #26"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 2C-F
 
-PIHKAL entry #26. 4-Fluoro-2,5-dimethoxy-PEA.
+[[2c-b-pihkal-entry-20]] #26. 4-Fluoro-2,5-dimethoxy-PEA.
 
 ## Dosage and Duration
 
@@ -73,7 +73,7 @@ of dichloromethyl methyl ether at a rate that precluded excessive
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

@@ -9,7 +9,7 @@ sources:
 ---
 # Cannabis and Lymphoma
 
-**Source:** The Cannabis Health Index, Uwe Blesching, PhD (2017)
+**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]], Uwe Blesching, PhD (2017)
 **Updated:** 2026-04-19
 
 ## Evidence-Based Therapeutic Potential
@@ -45,9 +45,9 @@ The ceramide pathway is particularly notable because ceramide accumulation is se
 
 The [[cannabis-immune-modulation]].
 
-- **De novo ceramide synthesis:** Cannabinoid receptor activation stimulates the enzyme serine palmitoyltransferase, the rate-limiting enzyme in de novo ceramide synthesis. This increase in ceramide production is a key mechanism by which cannabinoids trigger cancer cell death.
+- **De novo ceramide synthesis:** [[cannabis-cannabinoid-receptor-pharmacology]] activation stimulates the enzyme serine palmitoyltransferase, the rate-limiting enzyme in de novo ceramide synthesis. This increase in ceramide production is a key mechanism by which cannabinoids trigger cancer cell death.
 
-- **Stress response pathway activation:** Cannabinoids activate p38 MAPK and JNK stress response pathways in lymphoma cells, leading to cell cycle arrest and apoptosis. These pathways are part of the cell's response to damage signals.
+- **[[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] pathway activation:** Cannabinoids activate p38 MAPK and JNK stress response pathways in lymphoma cells, leading to cell cycle arrest and apoptosis. These pathways are part of the cell's response to damage signals.
 
 ## The Ceramide Connection
 
@@ -59,7 +59,7 @@ The ceramide pathway deserves special attention because it represents a fundamen
 
 - Cancer cells often develop resistance to single-mechanism therapies, but the multi-target nature of cannabinoid therapy (simultaneous ceramide induction, receptor activation, and stress pathway modulation) may make resistance development more difficult
 
-- Dietary and pharmacological approaches that elevate ceramide levels (such as certain fatty acids and chemotherapy agents) could potentially be combined with cannabinoid therapy for enhanced anti-lymphoma effects
+- Dietary and pharmacological approaches that elevate ceramide levels (such as certain [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] and chemotherapy agents) could potentially be combined with cannabinoid therapy for enhanced anti-lymphoma effects
 
 ## Additional Research
 
@@ -69,7 +69,7 @@ Pre-clinical research on cannabinoids and lymphoma has continued to advance:
 
 - Research has demonstrated that cannabinoids can enhance the effectiveness of rituximab, a monoclonal antibody used in lymphoma treatment, suggesting potential for combination therapy
 
-- Synthetic cannabinoid receptor agonists have shown anti-lymphoma activity in animal models, supporting the development of targeted cannabinoid-based pharmaceuticals
+- Synthetic cannabinoid [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]] have shown anti-lymphoma activity in animal models, supporting the development of targeted cannabinoid-based pharmaceuticals
 
 ## Dosage and Administration
 
@@ -92,7 +92,7 @@ Beyond potential direct anti-cancer effects, cannabis may help manage lymphoma s
 - Fatigue and weakness from cancer-related anemia
 - Night sweats and fever (B symptoms of lymphoma)
 - Pain from enlarged lymph nodes pressing on adjacent structures
-- Nausea and appetite loss during chemotherapy
+- [[cannabis-for-nausea-and-appetite-stimulation]] loss during chemotherapy
 - Anxiety and depression related to diagnosis and treatment
 
 The [[cannabis-endocannabinoid-system]]

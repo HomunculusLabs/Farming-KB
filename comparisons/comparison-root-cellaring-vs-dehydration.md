@@ -1,10 +1,11 @@
 ---
-title: "Root Cellaring vs Dehydration"
+title: "comparison-root-cellaring-guide-vs-canning-and-preserving vs Dehydration"
 created: 2026-04-28
 tags: [comparison, food-preservation, homesteading, storage]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/steve-solomon-gardening-when-it-counts.md"
 type: comparison
 ---
 
@@ -58,7 +59,7 @@ accessible even on a tight budget.
 | Best suited crops | Root veg, cabbage, squash | Fruits, herbs, jerky, veg |
 | Food texture | Fresh, whole, crisp | Dried, leathery, or crisp |
 | Storage volume | Large (whole foods) | Small (reduced 80 to 90 percent) |
-| Shelf life | 2 to 6 months | 6 months to several years |
+| [[psilocybin-shelf-life-stability]] | 2 to 6 months | 6 months to several years |
 | Humidity requirement | High (85 to 95 percent) | Low (drying air needed) |
 | Infrastructure cost | Moderate to high | Low to moderate |
 | Climate dependence | Works best in cold winters | Works best in sunny climates |
@@ -69,8 +70,8 @@ accessible even on a tight budget.
 ## When to Choose Root Cellaring
 
 Root cellaring is the clear choice when your primary goal is preserving bulk
-calorie crops through winter in a cold climate. Potatoes, carrots, beets, and
-other root vegetables store best when kept whole and cool, retaining their
+calorie crops through winter in a [[permaculture-designers-manual-cold-climate-design]]. Potatoes, carrots, beets, and
+other [[growing-root-vegetables-guide]] store best when kept whole and cool, retaining their
 original texture, flavor, and nutritional profile far better than any
 processed form. If you have suitable ground conditions, space to dig or build
 an insulated structure, and a reliable winter cold season, root cellaring
@@ -87,7 +88,7 @@ energy costs.
 
 Dehydration excels when you need to preserve foods that do not store well in
 cool, humid conditions, such as fruits, tomatoes, herbs, and meats. It is
-ideal for sunny climates where solar energy is abundant and reliable. The
+ideal for sunny climates where [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] is abundant and reliable. The
 dramatic reduction in storage volume and weight makes dehydration the best
 choice for portable rations, emergency food supplies, and long-term pantry
 storage where space is limited.
@@ -106,7 +107,7 @@ Root cellaring covers the bulk calorie staples through winter, while
 dehydration handles overflow produce, herbs, fruits, and protein sources. A
 well-designed homestead might store potatoes and carrots in the root cellar
 while running a solar dehydrator for tomatoes, apples, herbs, and jerky during
-the growing season. This combination maximizes food security by diversifying
+the [[savory-growing-season-and-non-growing-season-management]]. This combination maximizes food security by diversifying
 preservation methods and reducing dependence on any single approach.
 
 In climates with cold, cloudy winters and hot, sunny summers, the two methods

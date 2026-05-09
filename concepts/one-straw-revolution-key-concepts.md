@@ -1,27 +1,28 @@
 ---
-title: One Straw Revolution Key Concepts
+title: One fukuoka-one-straw-revolution-conclusion Key Concepts
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # One Straw Revolution Key Concepts
 
-"The One Straw Revolution" (1978) is Masanobu Fukuoka's seminal work on natural farming. Written in a philosophical, almost spiritual tone, it presents farming as a path to understanding nature and humanity's place within it. The book distills decades of experimentation on Fukuoka's farm in Shikoku, Japan.
+"The One Straw Revolution" (1978) is Masanobu Fukuoka's seminal work on [[comparison-natural-farming-vs-permaculture]]. Written in a philosophical, almost spiritual tone, it presents farming as a path to understanding nature and humanity's place within it. The book distills decades of experimentation on Fukuoka's farm in Shikoku, Japan.
 
 ## The Four Principles
 
 1. **No cultivation** — don't plow or till the soil
 2. **No chemical fertilizer** — no prepared compost either
-3. **No weeding** — let weeds grow, control with ground cover
+3. **No weeding** — let weeds grow, control with [[fukuoka-citrus-orchard-ground-cover-cultivation]]
 4. **No pesticides** — let nature find its own balance
 
 These are explored in detail in [[fukuoka-one-straw-revolution-philosophy]] for deeper exploration
 - [[fukuoka-natural-farming-four-principles]] — for the four principles
 - [[fukuoka-rice-and-barley-natural-farming]] — for the rice/barley system
-- [[natural-farming-seed-balls]] — for seed ball details
+- [[natural-farming-seed-balls]] — for [[clay-pellet-seed-ball-method-for-desert-revegetation]] details
 - [[fukuoka-white-clover-ground-cover]]
 ## Practical Applications
 
@@ -100,4 +101,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

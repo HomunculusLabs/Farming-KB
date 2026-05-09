@@ -62,7 +62,7 @@ unconscious, or the unity of all being.
 ## Holotropic Breathwork
 
 The recognition that transpersonal states were accessible through the
-psychedelic experience led Grof to develop **holotropic breathwork** as
+[[leary-psychedelic-experience-bardo-mapping]] led Grof to develop **holotropic breathwork** as
 a non-drug method for accessing similar states. This technique involves
 accelerated breathing, evocative music, and focused bodywork within a
 supportive group setting.
@@ -71,22 +71,22 @@ The development of holotropic breathwork was significant because it
 demonstrated that the perinatal and transpersonal realms were not
 artifacts of the drug but genuine features of human consciousness that
 could be accessed through multiple modalities. This paralleled the
-broader recognition within the field that set and setting, rather than
+broader recognition within the field that [[lsd-set-and-setting-framework]], rather than
 pharmacology, were the primary determinants of psychedelic experience.
 
 ## Albert Hofmann's Mystical Recognition
 
 Metzner notes that gordon-wasson himself recognized the psycholytic
 properties of the LSD experience based on its similarity to his childhood
-mystical experiences in nature. This is a remarkable fact: the discoverer
+[[psilocybin-mystical-experiences-personality-change]] in nature. This is a remarkable fact: the discoverer
 of LSD understood its significance not through pharmacological analysis
 but through phenomenological comparison with his own spontaneous mystical
-experiences. The primary datum was experiential, not biochemical.
+experiences. The [[decentralizing-bender-perceiving-self-primary-datum-mckenna]] was experiential, not biochemical.
 
 ## Leary and Evolutionary Remembering
 
 Metzner also credits [[metzner-grof-perinatal-matrices-and-transpersonal-realms]]
 
 - [[metzner-psychedelic-psychotherapy-clinical-history]]
-- metzner psycholytic psychedelic therapy models comparison
+- metzner [[metzner-psycholytic-psychedelic-psychotherapy-models-comparison]] [[psychedelic-therapy-models-comparison]] comparison
 - [[metzner-leary-bardo-thodol-and-tao-te-ching-adaptation]]

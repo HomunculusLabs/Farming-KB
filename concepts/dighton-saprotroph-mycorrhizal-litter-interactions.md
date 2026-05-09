@@ -18,7 +18,7 @@ type: concept
 
 The interactions between saprotrophic and mycorrhizal fungi in the
 decomposition of leaf litter represent a critical but poorly understood
-interface in ecosystem nutrient cycling. These two major [[barn-design]]'s treatment of [[fungal-decomposition-nutrient-cycling]].
+interface in ecosystem [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. These two major [[barn-design]]'s treatment of [[fungal-decomposition-nutrient-cycling]].
 
 ## The Gadgil and Gadgil Effect
 
@@ -46,13 +46,13 @@ mycorrhizal fungi:
 2. **Enzyme production**: Both groups produce extracellular enzymes for
    organic matter degradation, potentially creating interference competition
 3. **Carbon allocation**: Root exudates and mycorrhizal hyphae may alter
-   the soil microbial community in the rhizosphere and detritusphere
-4. **Physical interactions**: Mycelial networks of different fungal groups
+   the soil [[edaphic-factors-microbial-community-structure]] in the rhizosphere and detritusphere
+4. **Physical interactions**: [[fungal-mycelial-networks-nutrient-translocation]] of different fungal groups
    may directly interfere through combative interactions
 
 ## Dighton et al. (1987) Laboratory Study
 
-In a controlled laboratory study of mycorrhizal inoculation of trees with
+In a controlled laboratory study of [[teaming-with-fungi-mycorrhizal-inoculation-techniques]] of trees with
 and without saprotrophic fungi, Dighton et al. (1987) showed that the
 saprotrophic fungus Mycena galopus reduced the decomposition potential of
 the ectomycorrhizal fungi Suillus luteus and Hebeloma
@@ -86,7 +86,7 @@ factors:
   decomposition of beech leaf litter was much reduced in the presence of
   Scots pine seedlings colonized by certain ectomycorrhizal species,
   but the effect varied among mycorrhizal fungal taxa
-- **Litter quality**: High-quality (low C:N, low lignin) litter may be
+- **[[dighton-litter-quality-fungal-decomposition-rates]]**: High-quality (low C:N, low lignin) litter may be
   decomposed primarily by saprotrophs, while recalcitrant litter may
   benefit from mycorrhizal enzyme production
 - **Stand age and successional stage**: Young stands with high nutrient
@@ -112,7 +112,7 @@ saprotroph-mycorrhizal interactions:
 
 - How do specific pairings of mycorrhizal and saprotrophic species affect
   decomposition outcomes?
-- What role do bacterial communities play in mediating these fungal-fungal
+- What role do [[cultivar-endorhiza-bacterial-communities-cannabis]] play in mediating these fungal-fungal
   interactions?
 - How does the spatial distribution of mycorrhizal hyphae relative to
   litter layers determine the strength of interaction?

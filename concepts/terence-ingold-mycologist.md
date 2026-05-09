@@ -17,7 +17,7 @@ type: concept
 # Terence Ingold (Mycologist)
 
 Cecil Terence Ingold (1905-2010) was a British mycologist whose
-discovery of aquatic fungi with tetraradiate spores in 1938 opened an
+discovery of [[bloomfield-ingoldian-aquatic-fungi-spore-dispersal]] with tetraradiate spores in 1938 opened an
 entirely new field of mycological inquiry. The Ingoldian fungi, named in
 his honor, are now known to comprise more than 300 species and are the
 subject of over 1,000 scientific publications. His discovery has been
@@ -76,7 +76,7 @@ to cocktail sticks, using the strong, pointed tips as perfect
 instruments for manipulating the microscopic spores.
 
 Ingold's broader contributions to mycology include foundational work
-on fungal spore dispersal. His books, including *The Biology of Fungi*
+on fungal [[aquatic-fungi-spore-dispersal-ingold]]. His books, including *The Biology of Fungi*
 (1961), *Fungal Spores: Their Liberation and Dispersal* (1971), and
 *An Introduction to the Biology of Microfungi* (1975), became standard
 references that educated generations of mycologists. His approach
@@ -109,7 +109,7 @@ His career spanned more than seven decades, during which he witnessed
 and contributed to the transformation of mycology from a descriptive
 botanical discipline to a modern experimental science. He remained
 active in research well into his nineties, continuing to publish papers
-on aquatic fungi and spore biology. His centenary was celebrated by the
+on aquatic fungi and [[fungal-spore-biology-dispersal]]. His centenary was celebrated by the
 mycological community as a landmark in the history of the discipline.
 
 ## See Also
@@ -118,8 +118,8 @@ mycological community as a landmark in the history of the discipline.
 - [[terence-mckenna]]
 
 - [Fungal Spore Biology]([[fungal-spore-biology]].md)
-- [Spore Dispersal Mechanisms]([[spore-dispersal-mechanisms]].md)
-- [Fungal Life Cycles]([[fungal-life-cycles]].md)
+- [Spore Dispersal Mechanisms](spore-dispersal-mechanisms.md)
+- [Fungal [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]([[fungal-life-cycles]].md)
 - [A. H. R. Buller (Mycologist)](ahr-buller-mycologist.md)
 
 ## References

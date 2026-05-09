@@ -108,7 +108,7 @@ The LSD + Ludiomil combination occupies a unique niche among [[turner-ketamine-c
 
 - [[turner-multiple-combinations-cosmic-synergism]] - Multi-substance combinations including LSD
 
-- [[psychedelic-safety-guidelines-turner]] - Safety guidelines
+- [[psychedelic-safety-guidelines-turner]] - [[psychedelic-safety-guidelines-turner]]
 
 - [[turner-cydelikspace-and-psychedelic-reality]]
 - [[first-time-grower-common-mistakes]]

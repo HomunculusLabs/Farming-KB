@@ -16,9 +16,9 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 
 ## Overview
 Beauveria bassiana is a cosmopolitan ascomycete fungus and one of
-the most extensively studied entomopathogenic fungi (EPF). It
+the most extensively studied [[singh-entomopathogenic-fungi-biocontrol-agents]] (EPF). It
 infects and kills a remarkably wide range of insect hosts, making it
-a cornerstone organism for biological pest control in agriculture,
+a cornerstone organism for [[cervantes-biological-pest-control-predators]] control in agriculture,
 forestry, and public health. Named after the Italian entomologist
 Agostino Bassi, who first demonstrated that a microorganism could
 cause disease in animals, B. bassiana has become a model system for
@@ -35,7 +35,7 @@ Genotypic analysis has revealed that isolates from tropical and
 subtropical regions show considerably more genetic variation than
 those from temperate regions, suggesting tropical centers of
 diversification. This greater diversity may translate to a wider
-array of virulence factors, making tropical populations particularly
+array of [[fungal-virulence-factors-host-immune-evasion]], making tropical populations particularly
 valuable as sources of biocontrol strains for agricultural
 applications.
 
@@ -83,7 +83,7 @@ rain, or contact to infect new hosts.
 
 ### Biocontrol Applications
 B. bassiana is widely used as a biological insecticide in both
-conventional and organic agriculture. Commercial formulations are
+[[jadam-conventional-and-organic-pesticide-integration]] agriculture. Commercial formulations are
 available for controlling whiteflies, thrips, termites, and beetles.
 The fungus can be applied as a foliar spray, soil drench, or bait
 depending on the target pest and cropping system.
@@ -98,3 +98,7 @@ host range, low mammalian toxicity, and compatibility with
 
 - [[fungal-pest-control]]
 - [[aspergillus-niger-in-fungal-bioleaching]]
+
+## See Also
+
+- [[beauveria-brongniartii]]

@@ -10,13 +10,13 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Cannabis Grow Bible, Greg Green (Ch. 5, 6)
+Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, Greg Green (Ch. 5, 6)
 
 A root-bound plant has outgrown its container, causing roots to circle and pack tightly. Left untreated, it stunts growth and can kill the plant.
 
 ## What Is Root-Bound
 
-When a plant's root system fills the entire container with no room for expansion, roots begin circling the inner walls and eventually choke each other. The root mass becomes a dense, hard ball that holds water poorly and prevents nutrient uptake.
+When a plant's root system fills the entire container with no room for expansion, roots begin circling the inner walls and eventually choke each other. The root mass becomes a dense, hard ball that holds water poorly and prevents [[plant-nutrient-uptake-mechanisms]].
 
 ## Symptoms of Root-Bound Plants
 
@@ -25,7 +25,7 @@ When a plant's root system fills the entire container with no room for expansion
 - **Small, slow-developing new growth**: New leaves are undersized and slow to unfurl
 - **Rapid wilting**: Plant wilts quickly after watering, even though soil appears moist
 - **Requires very frequent watering**: Root-bound plants dry out extremely fast because the root ball cannot hold water effectively
-- **Nutrient deficiency symptoms**: Even with proper feeding, leaves show deficiency signs because roots cannot take up nutrients efficiently
+- **[[cannabis-grow-nutrient-deficiency-problem-solving]] symptoms**: Even with proper feeding, leaves show deficiency signs because roots cannot take up nutrients efficiently
 - **Leaf discoloration**: Yellowing, especially lower leaves, progressing upward
 - **Drooping despite adequate moisture**: Plants may droop even right after watering
 
@@ -40,7 +40,7 @@ When a plant's root system fills the entire container with no room for expansion
 
 - **Container too small for the plant's growth rate**
 - **Left in the same container for too long without transplanting**
-- **Aggressive vegetative growth in small starter pots**
+- **Aggressive [[cannabis-vegetative-growth-stage]] in small starter pots**
 - **Fast-growing sativa-dominant strains outpacing container capacity**
 
 ## Prevention
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

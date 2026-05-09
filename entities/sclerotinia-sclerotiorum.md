@@ -18,11 +18,11 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 Sclerotinia sclerotiorum is one of the most destructive and broadly
 distributed necrotrophic plant pathogens, with a host range exceeding
 400 plant species. It causes white mold (also called cottony rot or
-watery soft rot) on economically important crops including soybean,
+watery [[staycare-soft-rot-fungi-in-pollutant-degradation]]) on economically important crops including soybean,
 canola, dry bean, lettuce, sunflower, and many vegetables. The species
 is characterized by its production of large, melanized sclerotia that
 serve as long-term survival structures. The source text extensively
-documents S. sclerotiorum as a target for biological control, with
+documents S. sclerotiorum as a target for [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]], with
 numerous mycoparasitic fungi colonizing and degrading its sclerotia in
 soil environments.
 
@@ -74,7 +74,7 @@ soil environments.
   annually
 - Infection of fruits, stems, and leaves leads to rapid
   tissue maceration and plant death
-- Disease management is challenging due to the longevity of
+- [[plant-disease-management-solomon]] is challenging due to the longevity of
   sclerotia in soil
 
 ### Mycoparasitic Interactions
@@ -119,7 +119,7 @@ soil environments.
   soil (Gerlagh and Vos 1991)
 - Selective isolation of mycoparasites using soil crumbs on
   host culture plates (Deacon and Henry 1978)
-- PCR-based molecular identification
+- PCR-based [[biodiversity-fungal-molecular-identification-dna-barcoding]]
 - Sclerotial viability assays to assess biocontrol efficacy
 
 ## Relevance

@@ -12,7 +12,7 @@ type: concept
 
 ## Overview
 
-Neurotropic fungi have been used by indigenous peoples across the world
+[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] have been used by indigenous peoples across the world
 for religious, divinatory, and healing purposes. The ethnomycological
 study of these traditions, pioneered by R. Gordon Wasson and Roger Heim,
 reveals deep cultural relationships between humans and psychoactive
@@ -25,7 +25,7 @@ mushrooms spanning thousands of years.
 The Mazatec people of the Sierra Mazateca in Oaxaca are the most
 well-documented mushroom-using culture, largely through the work of
 Wasson and Heim in the 1950s. Key Mazatec species include:
-- **Psilocybe mexicana**: Known as "nti-xi-tho" (sacred mushroom that
+- **[[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]**: Known as "nti-xi-tho" ([[allegro-the-sacred-mushroom-amanita-identification]] that
   springs forth); the first species chemically studied by Hofmann;
   used by curanderos (healers) for divination and healing
 - **P. caerulescens**: Known as "derrumbes" (landslides) because it
@@ -45,7 +45,7 @@ fresh in pairs during the ritual.
 ### Nahua Indians
 
 The Nahua (Aztec descendants) have a well-documented tradition of
-mushroom use. The Aztec name for sacred mushrooms was "teonanacatl"
+mushroom use. The Aztec name for [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]] was "teonanacatl"
 ("flesh of the gods"), documented by the Spanish chronicler Bernardino
 de Sahagun in the 16th century. The Aztecs celebrated the mushroom
 during the feast of Teonanacatl, and used P. cubensis (known as
@@ -63,7 +63,7 @@ South America and New Zealand.
 The Mixe of Oaxaca use neurotropic mushrooms in healing ceremonies
 (Lowy, 1977; Lipp, 1990, 1991). The Chinantec use Dictyophora
 indusiata for divination (Heim and Wasson, 1958). The Mixtec used
-"sacred puffballs" (Ott et al., 1975) including Vascellum pratense, V.
+"[[guzman-allen-gartz-sacred-puffballs-gasteromycetes-indigenous-cultures]]" (Ott et al., 1975) including Vascellum pratense, V.
 intermedium, and Lycoperdon oblongiosporum, though Ott concluded these
 lacked genuine neurotropic properties.
 
@@ -99,6 +99,12 @@ Guinea species is lacking.
 
 ### Soma Hypothesis
 
-Wasson (1968) proposed that [[guzman-magic-mushrooms-copelandia-panaeolus]]
-- [[guzman-magic-mushrooms-mexican-diversity]]
-- [[guzman-magic-mushrooms-psilocybe-sections]]
+Wasson (1968) proposed that guzman-magic-mushrooms-copelandia-panaeolus
+- guzman-magic-mushrooms-mexican-diversity
+- guzman-magic-mushrooms-psilocybe-sections
+## See Also
+- [[soma-hypothesis]]
+- [[psilocybe-mexicana]]
+- [[neurotropic-fungi]]
+- [[mazatec-people]]
+- [[dictyophora-indusiata]]

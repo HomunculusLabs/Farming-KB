@@ -1,5 +1,5 @@
 ---
-title: "Microwave Microbial Kill Curves"
+title: "Microwave microwave microbial kill curves Curves"
 tags:
   - sterilization
   - microwave
@@ -19,7 +19,7 @@ type: concept
 Microwave microbial kill curves quantify the relationship between microwave
 energy dose and the reduction in viable microorganism populations on
 contaminated surfaces. The NASA experiments documented in MSC-22484
-established the quantitative parameters needed for reliable microwave surface
+established the quantitative parameters needed for reliable [[challenge-microorganisms-microwave-surface-sterilization]]
 sterilization, demonstrating complete elimination of mixed microbial
 populations at specific exposure levels.
 
@@ -56,7 +56,7 @@ spores remain largely unaffected at these low doses.
 
 ### Mid Dose Range (3 to 8 W-hr)
 
-Vegetative cell populations drop by several orders of magnitude. The
+[[spore-vs-vegetative-cell-resistance-microwave-sterilization]] populations drop by several orders of magnitude. The
 log-linear reduction characteristic of first-order inactivation kinetics
 becomes apparent. A one-decimal reduction (90% kill) of the total population
 is achieved, primarily through elimination of the vegetative cells.

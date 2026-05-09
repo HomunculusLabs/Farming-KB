@@ -22,7 +22,7 @@ sources:
 
 # Sheep Health and Production
 
-Health management, vaccination schedules, shearing, wool processing, growth data, and homestead integration for sheep. See [[sheep-husbandry]] for breed selection, housing, feeding, and breeding.
+Health management, vaccination schedules, shearing, [[mollison-designers-wool-processing-natural-dyeing]], growth data, and homestead integration for sheep. See [[sheep-husbandry]] for breed selection, housing, feeding, and breeding.
 
 ## Health
 
@@ -30,7 +30,7 @@ Health management, vaccination schedules, shearing, wool processing, growth data
 
 | Problem | Symptoms | Prevention/Treatment |
 |---------|----------|---------------------|
-| Internal parasites | Anemia, diarrhea, bottle jaw | FAMANCHA scoring, rotational grazing, deworming |
+| Internal parasites | Anemia, diarrhea, bottle jaw | FAMANCHA scoring, [[comparison-rotational-grazing-vs-continuous-grazing]], deworming |
 | Footrot | Lameness, foul-smelling feet | Foot baths (zinc sulfate), dry footing |
 | Flystrike | maggots in wool/flesh | Crutching, shearing, fly traps |
 | Caseous lymphadenitis | Abscesses on lymph nodes | Isolate affected animals, hygiene |
@@ -86,7 +86,7 @@ Only deworm sheep that score 3 or above (targeted selective treatment) to slow p
 - Handspun yarn for knitting/crocheting
 - Felted wool for insoles, pads, insulation
 - Raw wool for mulch, compost nitrogen source
-- Wool insulation for [[natural-building]]
+- [[mollison-designers-wool-insulation-and-natural-textiles]] for [[natural-building]]
 - See homestead-crafts for wool processing crafts
 
 ## Growth and Production

@@ -61,7 +61,7 @@ most important locally.
 
 ## System Connections
 
-This topic often overlaps with nutrient cycling, habitat design, water
+This topic often overlaps with [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], habitat design, water
 management, and low-input production. In a farming knowledge base, those
 connections matter because a single intervention can affect pest
 pressure, soil biology, yields, and long-term resilience.

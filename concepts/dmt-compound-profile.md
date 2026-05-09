@@ -34,14 +34,14 @@ Oral doses up to 350 mg produce no effects whatsoever due to rapid metabolism by
 
 At threshold i.v. doses (~4 mg), no effects distinguishable from placebo. At 8 mg, physical effects without mental effects. At 15 mg (threshold psychedelic), nearly all subjects report visual hallucinations; auditory changes are rare. At 30 mg, effects are overwhelming in both speed and intensity — described as a "freight train" that is underway well before the 45-second infusion is complete.
 
-Smoked DMT produces an extraordinarily rapid onset (30-60 seconds), with the full experience compressed into 5-15 minutes. Reports describe moving colored patterns, animal imagery, complete ego dissolution, and encounters with seemingly autonomous entities. A common trajectory: "Up, up, out, out... expanding until I have become so large that I no longer exist."
+Smoked DMT produces an extraordinarily rapid onset (30-60 seconds), with the full experience compressed into 5-15 minutes. Reports describe moving colored patterns, animal imagery, complete [[psilocybin-ego-dissolution-mechanisms]], and encounters with seemingly autonomous entities. A common trajectory: "Up, up, out, out... expanding until I have become so large that I no longer exist."
 
 ### Natural Occurrence — "DMT is Everywhere"
 
 DMT occurs in plants used across indigenous cultures:
 - **Snuffs** (cohoba, epena, parica): ground beans of Piptadenia peregrina and related Anadenanthera species
 - **Ayahuasca**: as a component combined with MAOI-containing plants (see [[ayahuasca-pharmacology]])
-- **Jurema** (Mimosa hostilis): roots contain DMT (originally called "nigerine")
+- **Jurema** ([[entheogen-jurema-mimosa-hostilis-ethnobotany]]): roots contain DMT (originally called "nigerine")
 - **Acacia** species: numerous African and Australian species contain DMT
 - **Phalaris** grasses: reed canarygrass species contain DMT and 5-MeO-DMT
 - **Virola** species: Amazonian trees whose bark provides snuff material

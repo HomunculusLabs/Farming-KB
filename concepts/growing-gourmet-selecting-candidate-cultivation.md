@@ -17,8 +17,8 @@ type: concept
 # Selecting a Candidate for Cultivation
 
 Many mushroom hunters would love to have their favorite edible
-mushroom growing in their backyard. Practically speaking, however,
-our knowledge of mushroom cultivation is currently limited to about
+[[duggar-mushroom-growing-history-and-methods]] in their backyard. Practically speaking, however,
+our knowledge of [[accessible-mushroom-cultivation-for-disabilities]] is currently limited to about
 100 species of the 10,000 thought to exist throughout the world.
 Techniques for cultivating one species may be applied to another,
 often by substituting an ingredient, changing a formula, or altering
@@ -58,7 +58,7 @@ Species that grow on herbivore dung or enriched soils:
 - Scaly Lepiota (Lepiota rachodes)
 - Termite Mushrooms (Termitomyces spp.)
 - Wood Blewit (Lepista nuda)
-- growing gourmet paddy straw mushroom volvariella
+- growing gourmet paddy [[mushroom-training-straw-mushroom-cultivation]] volvariella
 
 ## Uncultivated Species
 
@@ -74,7 +74,7 @@ adaptation of existing techniques.
 When selecting a candidate for cultivation, consider:
 
 1. **Habitat matching**: Select species appropriate for your
-   climate and available substrate materials
+   climate and available [[growing-gourmet-substrate-materials-wood-types]]
 2. **Native vs. exotic**: Native species generally do better in
    outdoor settings, though obstacles to exotic species can be
    overcome with forethought to design
@@ -82,6 +82,8 @@ When selecting a candidate for cultivation, consider:
    [[growing-gourmet-substrate-materials-wood-types]])
 
 ## See Also
+
+- [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]
 
 - [[growing-chicories-endive-radicchio]]
 

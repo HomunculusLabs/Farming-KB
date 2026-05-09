@@ -1,10 +1,11 @@
 ---
-title: "How Do I Grow and Use Stinging Nettle?"
+title: "How Do I Grow and Use comparison-stinging-nettle-vs-horsetail?"
 created: 2026-04-28
 tags: [query, stinging-nettle, dynamic-accumulators, foraging, herbal-medicine]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -16,7 +17,7 @@ Stinging nettle (*Urtica dioica*) is a perennial herb that grows readily from
 root divisions or seed in moist, nitrogen-rich soil with partial to full shade.
 Young spring leaves are harvested with gloves and used as a spinach substitute
 after blanching. The plant serves as a dynamic mineral accumulator, producing
-nitrogen-rich liquid fertilizer, nutrient-dense mulch, and medicinal tea.
+nitrogen-rich [[jadam-liquid-fertilizer-nutritional-perspective]], nutrient-dense mulch, and medicinal tea.
 Containment via root barriers is essential since nettle spreads aggressively
 through rhizomes.
 
@@ -52,9 +53,9 @@ Bury plastic root barriers 30 to 45 centimeters deep around the planting area.
 Plant nettle in large buried containers or dedicated raised beds with solid
 sides.
 Place nettle in edge zones, fence lines, or areas where its spread provides
-erosion control benefits rather than causing problems.
+[[permplant-willows-salix-erosion-control-fodder]] benefits rather than causing problems.
 Regular harvesting (cutting stems to ground level 3 to 4 times per season)
-prevents flowering and reduces seed production.
+prevents flowering and reduces [[cervantes-seed-production-storage]].
 
 ## Harvesting for Food
 
@@ -78,7 +79,7 @@ Cover loosely and let ferment for 2 to 4 weeks in a warm location.
 Stir every few days to promote even fermentation.
 The resulting liquid will have a strong smell when ready.
 Dilute 1 part nettle tea to 10 parts water before applying as a foliar spray
-or soil drench every 1 to 2 weeks during the growing season.
+or soil drench every 1 to 2 weeks during the [[savory-growing-season-and-non-growing-season-management]].
 
 ## Using Nettle as Mulch and Compost Activator
 
@@ -88,7 +89,7 @@ means nettle breaks down quickly, releasing nutrients into the soil within a
 few weeks. Lay freshly cut nettle 5 to 10 centimeters thick around vegetable
 crops, fruit trees, or in compost piles. When adding nettle to compost piles,
 layer it at roughly one part nettle to three parts carbon-rich material such
-as dry leaves, straw, or cardboard. This ratio supports rapid, hot composting
+as dry leaves, straw, or cardboard. This ratio supports rapid, [[comparison-bokashi-vs-hot-composting-method]]
 and produces finished compost with higher nutrient content than compost made
 without nettle activators.
 

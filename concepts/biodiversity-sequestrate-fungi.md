@@ -30,7 +30,7 @@ exposed at maturity and may have a well-developed stipe.
 About 150 genera and 1,200 valid species of sequestrate fungi
 have been described in 38 families, representing 11 orders in the
 [[biodiversity-basidiomycete-diversity-taxonomy]],
-and [[biodiversity-fungi-plant-mutualisms]]
+and biodiversity-fungi-plant-mutualisms
 with annual or perennial hosts.
 
 ## Origin of Life Forms
@@ -49,8 +49,8 @@ show progressive reduction from mushroom to truffle forms.
 Similar progressions occur in the Cortinariaceae, Russulaceae,
 and Tricholomataceae. These "evolutionary experiments" involve
 simplification of structure and increased protection from
-climatic stress, accompanied by increased energy efficiency and
-specialized adaptation to spore dispersal.
+climatic stress, accompanied by increased [[fukuoka-textdoc-energy-efficiency-agricultural-labor]] and
+specialized adaptation to [[aquatic-fungi-spore-dispersal-ingold]].
 
 ## Trophic Relationships
 
@@ -58,7 +58,7 @@ Most sequestrate fungi in the Ascomycetes and Basidiomycetes
 appear to be [[biodiversity-glomeromycota-diversity]].
 
 Some sequestrate fungi have special capabilities. Hysterangium
-and Gautieria species form dense mycelial mats in forest soil
+and Gautieria species form dense [[singh-mycelial-mats-and-biological-soil-crusts]] in forest soil
 with specific biogeochemical properties. Rhizopogon species
 typically induce prolific branching of host rootlets through
 auxin production. Tuber melanosporum produces herbicidal
@@ -86,10 +86,10 @@ Sequestrate fungi contain carbohydrates, nonprotein amino acids,
 proteins, and elevated concentrations of minerals. Their
 nutritional value is evidenced by animals that eat little else.
 In old-growth Pinaceae forests of the Pacific Northwestern
-United States, a remarkable food web links trees, sequestrate
+[[dmt-containing-plants-united-states-halpern]], a remarkable food web links trees, sequestrate
 fungi, northern flying squirrels, and northern spotted owls.
 
-The trees require ectomycorrhizal fungi for mineral nutrition.
+The trees require [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] for mineral nutrition.
 The fungi need trees for energy and squirrels for spore
 dispersal. Squirrels need trees for habitat and fungi for
 nutrition. Owls need squirrels for food and trees for nesting
@@ -106,7 +106,7 @@ can indicate colony location. Raking in the vicinity of an
 animal dig often reveals additional specimens.
 
 Fruiting varies by season and geographic area. In areas with
-pronounced spring and autumn fruiting seasons, the species
+pronounced spring and autumn [[azurescens-fruiting-seasons-and-conditions]], the species
 generally differ between seasons. At low elevations in the
 Pacific Northwest, sequestrate Ascomycetes are more abundant
 in spring, and Basidiomycetes more abundant in autumn. At
@@ -115,5 +115,5 @@ months.
 ## Related Topics
 
 - [[biodiversity-fungi-temperate-boreal-forests]]
-- [[biodiversity-fungi-soil-ecosystems]]
-- [[biodiversity-fungi-tropical-rainforests]]
+- biodiversity-fungi-soil-ecosystems
+- biodiversity-fungi-tropical-rainforests

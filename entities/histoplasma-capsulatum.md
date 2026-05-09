@@ -16,7 +16,7 @@ sources:
 
 # Histoplasma capsulatum
 
-Histoplasma capsulatum is a dimorphic fungal pathogen that causes histoplasmosis, a respiratory disease also known as cave disease, Darling's disease, or Ohio Valley disease. It is one of the most important systemic fungal pathogens in the Americas and is classified as a biohazard class 3 organism due to its virulence and easily aerosolized, respirable conidia. Along with [[blastomyces-dermatitidis]], it represents the most dangerous group of endemic fungal pathogens known.
+Histoplasma capsulatum is a dimorphic [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] that causes histoplasmosis, a respiratory disease also known as cave disease, Darling's disease, or [[histoplasma-capsulatum-ohio-valley-disease-dimorphic-fungus]] disease. It is one of the most important systemic [[bloomfield-fungal-pathogens-and-parasites]] in the Americas and is classified as a biohazard class 3 organism due to its virulence and easily aerosolized, respirable conidia. Along with [[blastomyces-dermatitidis]], it represents the most dangerous group of endemic fungal pathogens known.
 
 ## Taxonomy and Classification
 
@@ -32,7 +32,7 @@ At ambient temperatures (25 to 30 degrees C), the fungus grows as a filamentous 
 
 ### Yeast Phase (Parasitic)
 
-At mammalian body temperature (37 degrees C), the fungus converts to a budding yeast form that survives and multiplies within host macrophages. This intracellular parasitism is central to the pathogenesis of histoplasmosis, as the yeast form evades host immune responses by surviving and replicating within the very cells (macrophages) that are supposed to destroy invading microorganisms. The yeast cells are small (2 to 4 micrometers) and ovoid, typically found within macrophage phagolysosomes.
+At mammalian body temperature (37 degrees C), the fungus converts to a budding yeast form that survives and multiplies within host macrophages. This [[rozella-intracellular-parasitism-chytridiomycota]] is central to the pathogenesis of histoplasmosis, as the yeast form evades [[fungal-virulence-factors-host-immune-evasion]] responses by surviving and replicating within the very cells (macrophages) that are supposed to destroy invading microorganisms. The yeast cells are small (2 to 4 micrometers) and ovoid, typically found within macrophage phagolysosomes.
 
 This dimorphic switch is regulated by temperature-sensitive signaling pathways involving cAMP, calcium signaling, and specific transcription factors that control the expression of phase-specific genes.
 
@@ -92,7 +92,7 @@ Less common manifestations include ocular histoplasmosis syndrome (presumed ocul
 
 Accurate diagnosis of histoplasmosis relies on a combination of methods:
 
-- **Fungal culture**: The gold standard for definitive diagnosis, though cultures may take 2–4 weeks for growth. Mold-phase colonies are white and cottony, converting to the yeast phase at 37°C on appropriate media. Culture must be performed under BSL-3 containment
+- **[[biodiversity-fungal-culture-preservation]]**: The gold standard for definitive diagnosis, though cultures may take 2–4 weeks for growth. Mold-phase colonies are white and cottony, converting to the yeast phase at 37°C on appropriate media. Culture must be performed under BSL-3 containment
 - **Histopathology**: Examination of tissue biopsies reveals small, oval yeast cells (2–4 µm) within macrophages, sometimes with narrow-based budding. Gomori methenamine silver (GMS) and periodic acid-Schiff (PAS) stains highlight the organisms. The intracellular location of the yeast form is a characteristic feature
 - **Antigen detection**: Detection of *Histoplasma* polysaccharide antigen in urine, serum, or bronchoalveolar lavage fluid by enzyme immunoassay (EIA) is the most rapid and sensitive method for diagnosing acute and disseminated disease. Urine antigen detection is particularly useful for monitoring treatment response
 - **Antibody detection**: Complement fixation and immunodiffusion tests detect host antibody responses. These are useful for chronic and subacute forms but may be negative in early acute infection and in immunocompromised patients. A rising titer in paired sera is diagnostic of active infection

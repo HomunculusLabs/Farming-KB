@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Mushrooms as Alien Symbiotes
+title: forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc as Alien Symbiotes
 created: 2026-05-08
 updated: 2026-05-08
 sources:
@@ -12,8 +12,8 @@ tags: [psilocybin, stropharia-cubensis, extraterrestrial, mckenna, panspermia, m
 
 ## Overview
 
-In his 1983 Esalen lecture on tryptamine hallucinogens and consciousness, Terence
-McKenna advanced the controversial hypothesis that *Stropharia cubensis*
+In his 1983 Esalen lecture on [[mckenna-tryptamine-hallucinogens-and-consciousness]] and consciousness, Terence
+McKenna advanced the controversial hypothesis that *[[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]*
 (psilocybin-containing mushrooms) may not have evolved on Earth. The mushroom
 itself, according to McKenna, communicates during psychedelic experiences that it
 is an extraterrestrial organism whose spores can survive the conditions of
@@ -30,7 +30,7 @@ mushroom is an extraterrestrial organism with specific characteristics:
 - Spores colored deep purple — the color needed to absorb deep ultraviolet
   radiation in space
 - Spore casings composed of one of the hardest organic substances known, with
-  electron density approaching that of a metal
+  [[mckenna-fungal-fossil-gap-spore-electron-density-and-metal-hardness]] approaching that of a metal
 - A re-engineered organism that, upon achieving complete understanding of its
   own genetic information, redesigned itself for survival using a mycelial
   network strategy on planetary surfaces and spore dispersion between stars
@@ -45,7 +45,7 @@ of deepening symbiosis with the human species.
 McKenna outlined a panspermia hypothesis for fungal interstellar travel:
 - Global currents may form on the outside of spores in the upper atmosphere
 - Spores are very light and can reach the edge of the atmosphere through
-  Brownian motion
+  [[mckenna-spore-brownian-motion-and-galactic-percolation]]
 - Through interaction with energetic particles, a small number could escape
   into space
 - Only one in billions of spores needs to make the transition — a viable
@@ -137,9 +137,8 @@ experiences back onto the history of the race and the philosophical and
 religious accomplishments of the species."
 
 He acknowledged all compounds are potentially dangerous, the library should be
-the first stop before exploring any new compound, and that the absence of DMT
+the first stop before exploring any new compound, and that the [[mckenna-absence-of-dmt-motifs-in-art-history]]
 motifs in any known artistic or religious tradition remains unexplained.
-
 ## See Also
 
 - [[shamanism-and-hallucinogenic-plants]]

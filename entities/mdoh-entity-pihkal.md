@@ -1,5 +1,5 @@
 ---
-title: "MDOH (N-HYDROXY-MDA; 3,4-METHYLENEDIOXY-N-HYDROXYAMPHETAMINE) -- PIHKAL Entry #114"
+title: "MDOH (N-HYDROXY-MDA; 3,4-METHYLENEDIOXY-N-HYDROXYAMPHETAMINE) -- 2c-b-pihkal-entry-20 #114"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -104,4 +104,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

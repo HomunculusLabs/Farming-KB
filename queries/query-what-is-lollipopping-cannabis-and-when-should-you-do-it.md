@@ -1,5 +1,5 @@
 ---
-title: "What Is Lollipopping Cannabis and When Should You Do It?"
+title: "What Is query what is lollipopping cannabis and when should you do it and When Should You Do It?"
 created: 2026-04-28
 tags: [query, cannabis, pruning, training, yield, flowering]
 date: 2026-04-25
@@ -25,7 +25,7 @@ underlying principle is straightforward and based on plant biology: lower branch
 receive little to no direct light produce small, airy buds with low cannabinoid and
 terpene content. These underdeveloped buds consume energy and nutrients that could
 otherwise be redirected to the top of the canopy where light intensity is highest and
-bud quality is maximized. Lollipopping is one of several training techniques available
+bud quality is maximized. Lollipopping is one of several [[cannabis-training-techniques-comparison]] available
 to cannabis growers, and it relates closely to the broader practices covered in the
 [[query-what-is-defoliation-and-when-should-i-defoliate-cannabis]].
 
@@ -36,7 +36,7 @@ during the transition from vegetative to flowering, either a few days before the
 flip or within the first one to two weeks of flowering (often referred to as the
 "stretch" phase). During this window, the plant is still flexible in its energy
 allocation, and removing lower growth early means the plant never wastes resources on
-buds that would be suboptimal. Lollipopping too early in vegetative growth is generally
+buds that would be suboptimal. Lollipopping too early in [[cannabis-vegetative-growth-stage]] is generally
 not recommended because the plant is still building its structure, and removing too much
 can slow overall growth. Waiting too long into flowering reduces the benefit because the
 plant has already begun investing energy into those lower bud sites. The relationship
@@ -67,9 +67,9 @@ apical stem to encourage lateral branching, as described in
 ### Combining Lollipopping with Training
 
 Lollipopping works best when combined with other training techniques. Low Stress
-Training (LST), Screen of Green (ScROG), and topping all help create an even canopy
+Training (LST), [[cannabis-screen-of-green-scrog-guide]] (ScROG), and topping all help create an even canopy
 that maximizes light distribution. When these techniques have been applied during the
-vegetative stage, lollipopping at the flip to flowering becomes more straightforward
+[[comparison-cannabis-vegetative-stage-vs-flowering-stage]], lollipopping at the flip to flowering becomes more straightforward
 because the canopy is already relatively flat and even. This multi-technique approach
 is discussed in [[cannabis-topping-training]]
   and ScROG, creating an even canopy that maximizes light efficiency

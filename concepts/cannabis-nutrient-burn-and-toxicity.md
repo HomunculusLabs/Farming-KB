@@ -1,5 +1,5 @@
 ---
-title: Cannabis Nutrient Burn and Toxicity
+title: green-cannabis-nutrient-schedules Burn and Toxicity
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -12,7 +12,7 @@ Updated: 2026-04-18
 
 Source: The Cannabis Grow Bible, Greg Green (Ch. 6, 13)
 
-Nutrient burn (also called nutrient toxicity or fertilizer burn) occurs when plants receive more nutrients than they can process. It is one of the most common problems in cannabis cultivation, especially for inexperienced growers.
+Nutrient burn (also called nutrient toxicity or fertilizer burn) occurs when plants receive more nutrients than they can process. It is one of the most common problems in [[query-how-does-no-till-cannabis-cultivation-work]], especially for inexperienced growers.
 
 ## What Is Nutrient Burn
 
@@ -34,7 +34,7 @@ Nutrient burn is the visible damage that results from excessive nutrient concent
 
 ### Potassium Excess
 - Can cause calcium and magnesium lockout
-- Leaf edges showing calcium or magnesium deficiency symptoms
+- Leaf edges showing calcium or [[query-how-to-fix-magnesium-deficiency-in-cannabis]] symptoms
 - Stiff, brittle leaves
 
 ### General Nutrient Burn (Most Common)
@@ -53,7 +53,7 @@ Plants in small pots with limited soil volume have less buffer against nutrient 
 ## Prevention
 
 1. **Start low, go slow**: Begin at half the recommended nutrient strength and increase only if plants show deficiency signs
-2. **Feed on schedule, not every watering**: Alternate between nutrient solution and plain water
+2. **Feed on schedule, not every watering**: Alternate between [[cannabis-nutrient-solution-preparation]] and plain water
 3. **Flush regularly**: Run plain pH-adjusted water through the soil every 2–4 weeks
 4. **Monitor EC/TDS**: Use an electrical conductivity or total dissolved solids meter to track nutrient concentration
 5. **Watch the plants**: They will tell you what they need — look for signs of both deficiency and excess
@@ -82,10 +82,10 @@ It is critical to distinguish between burn (too much) and deficiency (too little
 | Leaf tips | Brown, crispy | Various depending on nutrient |
 | Leaf color | May be excessively dark | Yellowing, paling, or discoloration |
 | Pattern | Starts at tips, progresses inward | Varies — interveinal, edges, older/newer leaves |
-| Progression | Older leaves affected first | Depends on nutrient mobility |
+| Progression | Older leaves affected first | Depends on [[cervantes-nutrient-mobility-deficiency-diagnosis]] |
 | Soil EC | Elevated | Low |
 
-See [[cannabis-nutrient-deficiency-and-toxicity-guide]] for the full deficiency and toxicity reference.
+See [[cannabis-nutrient-deficiency-and-toxicity-guide]] for the full [[cannabis-nutrient-deficiency-and-toxicity-guide]] reference.
 
 ## Seedling Sensitivity
 

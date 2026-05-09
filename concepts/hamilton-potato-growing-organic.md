@@ -1,5 +1,5 @@
 ---
-title: Potato Growing - Organic Methods
+title: hamilton potato growing organic - Organic Methods
 created: 2026-04-28
 tags:
   - potatoes
@@ -20,7 +20,7 @@ Potatoes are one of the most rewarding crops for the organic gardener.
 Geoff Hamilton considered the potato to be a vegetable that truly
 justifies organic methods, as the difference in taste between
 organically grown early potatoes and their inorganic counterparts
-is remarkable. Main crop varieties also serve as an excellent
+is remarkable. Main [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]] also serve as an excellent
 cleaning crop in new gardens, helping to break up compacted soil
 with their vigorous root systems.
 
@@ -40,12 +40,12 @@ with a few tubers of a different type each year.
 
 ## Soil and Site Preparation
 
-Potatoes need a water-retentive soil with plenty of organic matter
+Potatoes need a water-retentive soil with plenty of [[hamilton-composting-and-organic-matter-management]]
 for the best results. If you do not have enough well-rotted compost
 or manure for the whole potato plot, dig the planting furrows deep
 and put a layer in the bottom. Do not lime the potato plot, as
 potatoes prefer an acid soil. If you are using a three-year crop
-rotation plan, grow potatoes in [[hamilton-cloches-and-frost-protection]] in late
+[[query-how-do-i-design-a-crop-rotation-plan-for-my-vegetable-garden]], grow potatoes in [[hamilton-cloches-and-frost-protection]] in late
 winter. Plant in rows 2ft (60cm) apart, setting tubers 12in (30cm)
 apart and about 6in (15cm) deep.
 
@@ -106,10 +106,10 @@ fertilizer options suitable for potato production.
 
 ## Summary
 
-Potatoes are a cornerstone of the organic vegetable garden, offering
+Potatoes are a cornerstone of the organic [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]], offering
 superior flavor when grown organically. Key success factors include
 chitting seed potatoes in cool, light conditions; avoiding lime on
-the potato plot; earthing up regularly for weed control and to
+the potato plot; earthing up regularly for [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]] and to
 prevent greening; and vigilant monitoring for blight and other
 diseases. Early varieties provide delicious fresh crops while main
 crops serve as excellent winter storage vegetables. The black plastic

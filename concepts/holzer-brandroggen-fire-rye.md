@@ -5,12 +5,13 @@ updated: 2026-04-18
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Brandroggen (Fire Rye) Growing and Processing
 
-Brandroggen literally means "fire rye" -- rye varieties sown after plant matter has been burnt on meadow land. This is a traditional Austrian mountain farming method still practiced at the Krameterhof. The Lungau tauernroggen is a local variety that Holzer continues to grow.
+Brandroggen literally means "fire rye" -- rye varieties sown after plant matter has been burnt on meadow land. This is a traditional Austrian mountain [[what-natural-farming-method-should-i-use]] still practiced at the Krameterhof. The Lungau tauernroggen is a local variety that Holzer continues to grow.
 
 ## Field Preparation (Spring, Usually May)
 
@@ -41,7 +42,7 @@ Brandroggen literally means "fire rye" -- rye varieties sown after plant matter 
 ### Second Year (Larger Plots)
 - Harvested at end of August or beginning of September for bread grain and seed
 - The cereal needs longer to mature on larger plots
-- Higher quality grain for milling and seed saving
+- Higher [[oyster-mushroom-spawn-types-and-quality-grain-sawdust-plug-liquid]] for milling and [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]]
 
 ## Harvesting
 
@@ -49,7 +50,7 @@ Brandroggen literally means "fire rye" -- rye varieties sown after plant matter 
 - Gather sheaves into stooks
 - Let ripen in the field for 2-3 weeks
 - Traditional method: use a sickle or scythe, bind with straw or twine
-- Stooks protect grain from rain while allowing air circulation
+- Stooks protect grain from rain while allowing [[stamets-growing-room-air-circulation-co2-management]]
 
 ## Barn Storage and Arrangement
 

@@ -1,29 +1,30 @@
 ---
-title: Psilocybin Potency and Dosage Guide
+title: Psilocybin psilocybin-mushroom-potency-and-dosage-guide Guide
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [psilocybin, mushrooms]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Psilocybin Potency and Dosage Guide
 
-Source: Psilocybin Mushrooms of the World (Stamets, 1996, Ch. 5)
+Source: [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World (Stamets, 1996, Ch. 5)
 
 ## Potency Variation
 
 Considerable variation exists within each species. Beug and Bigwood (1982a) found a fourfold difference in psilocybin content from mushrooms grown on rye grain, and nearly a tenfold difference in wild-collected specimens.
 
 ### Factors Affecting Potency
-- **Substrate nutrition**: Gartz (1989) found raising tryptamine concentrations to 25 millimolars directly affected P. cubensis potency — psilocin from 0.09% to 3.3% of dry mass (psilocybin content was depressed but not as much)
-- **Malt sugar**: Raising malt sugars above 10% completely suppresses psilocybin production
+- **Substrate nutrition**: Gartz (1989) found raising tryptamine concentrations to 25 millimolars directly affected P. [[psilocybe-cubensis-potency-harvest-timing]] — psilocin from 0.09% to 3.3% of dry mass (psilocybin content was depressed but not as much)
+- **Malt sugar**: Raising malt sugars above 10% completely suppresses [[gottlieb-psilocybin-production-extraction-methods]]
 - **Age**: Younger specimens are generally more potent than mature ones (Gartz 1992)
 - **UV radiation**: Sun-struck mushrooms appear weaker; UV destroys molecular bonds
-- **Cattle diet**: Enriched cattle feed may explain why certain P. cubensis strains are more potent
+- **Cattle diet**: Enriched cattle feed may explain why certain P. [[cap-vs-stem-alkaloid-distribution-psilocybe-cubensis-strains-bigwood-beug]] are more potent
 
 ## Potentiation
-Syrian rue (Peganum harmala), rich in MAO (monoamine oxidase) inhibitors, reportedly potentiates otherwise weak psilocybin mushrooms. Suggested protocol: 3 grams Syrian rue with a "below-threshold" mushroom dose. Self-experimentation with MAO inhibitors is warned against as they allow other compounds to pass through the GI tract unaltered.
+Syrian rue ([[mckenna-food-gods-peganum-harmala-soma]]), rich in MAO (monoamine oxidase) inhibitors, reportedly potentiates otherwise weak psilocybin mushrooms. Suggested protocol: 3 grams Syrian rue with a "below-threshold" mushroom dose. Self-experimentation with MAO inhibitors is warned against as they allow other compounds to pass through the GI tract unaltered.
 
 ## Psilometric Scale of Comparative Potency
 

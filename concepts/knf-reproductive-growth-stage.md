@@ -15,7 +15,7 @@ The reproductive growth stage is the period from flowering to ripening of fruits
 
 Within the [Nutritive Cycle Theory, the reproductive stage corresponds to the "Adult" phase. It follows the [vegetative growth stage and represents the period when the farmer's efforts translate directly into harvestable yield.
 
-Successful management of this stage determines fruit quality, sweetness, color development, and post-harvest shelf life. The transition from vegetative to reproductive growth must be handled carefully, as rapid shifts in nutrient availability can cause stress — a condition discussed in [[knf-input-application-timing]].
+Successful management of this stage determines fruit quality, sweetness, color development, and post-harvest shelf life. The transition from vegetative to reproductive growth must be handled carefully, as rapid shifts in [[ph-and-nutrient-availability-garden-soils]] can cause stress — a condition discussed in [[knf-input-application-timing]].
 
 ## Nutrient Focus (K and Ca)
 
@@ -27,14 +27,14 @@ The balance between calcium and potassium is important. Excess potassium can inh
 
 ## KNF Input Recipes
 
-The standard treatment for the reproductive growth stage uses natural farming inputs diluted at a ratio of 1:1000 ml of water. At this stage, more calcium is required than during any other phase.
+The standard treatment for the reproductive growth stage uses [[comparison-natural-farming-vs-permaculture]] inputs diluted at a ratio of 1:1000 ml of water. At this stage, more calcium is required than during any other phase.
 
 Core reproductive-stage inputs include:
 
 - [Water-Soluble Calcium (WCA): The primary input, providing calcium needed for fruit cell wall development and structural integrity.
-- [Oriental Herbal Nutrient (OHN): A complex herbal extract supporting overall plant vitality and disease resistance during the demanding reproductive phase.
+- [[bionutrients-lab-oriental-herbal-nutrients-ohn]] Nutrient (OHN): A complex herbal extract supporting overall plant vitality and disease resistance during the demanding reproductive phase.
 - [Brown Rice Vinegar (BRV): Supports nutrient absorption and helps maintain proper pH for nutrient uptake.
-- [Fermented Plant Extract (FPE): Provides supplemental micronutrients and growth factors that support fruit development.
+- [[comparison-compost-tea-guide-vs-fermented-plant-extract-fpe]] (FPE): Provides supplemental micronutrients and growth factors that support fruit development.
 
 These inputs are typically applied as foliar sprays, allowing the plant to absorb nutrients directly through fruit and leaf surfaces during the critical filling period. Application timing follows the guidelines in [[knf-input-application-timing]], with treatments generally applied every 7 to 14 days during the reproductive phase.
 
@@ -68,7 +68,7 @@ All inputs are mixed in 1000 ml of water and sprayed on the plants during the dr
 
 Effective reproductive stage management depends on close observation and precise timing. Key monitoring points include:
 
-- **Flower development:** Assess whether flowering is uniform and prolific. Poor flowering may indicate a difficult transition from the vegetative stage.
+- **Flower development:** Assess whether flowering is uniform and prolific. Poor flowering may indicate a difficult transition from the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]].
 - **Fruit set:** Monitor the rate and quality of fruit formation after pollination. Drop or malformation suggests nutrient imbalance.
 - **Fruit filling:** Track the rate of fruit enlargement. Slow filling may indicate insufficient calcium or potassium.
 - **Color development:** Proper color progression signals adequate potassium levels and appropriate maturity progression.
@@ -88,7 +88,7 @@ Monitoring the transition requires close attention to the plant's growth habit. 
 
 Different crops present different challenges during the reproductive stage, and KNF practitioners have developed crop-specific modifications to the standard protocol:
 
-- **Tomatoes and peppers:** These solanaceous crops are heavy calcium feeders and are particularly susceptible to blossom-end rot, a disorder directly linked to calcium deficiency during fruit development. Preventive WCA applications beginning at first flower significantly reduce incidence. Increasing the standard WCA application from 2 ml to 3 ml per liter during peak fruit set provides additional protection.
+- **Tomatoes and peppers:** These solanaceous crops are heavy calcium feeders and are particularly susceptible to blossom-end rot, a disorder directly linked to [[knf-calcium-deficiency-symptoms]] during fruit development. Preventive WCA applications beginning at first flower significantly reduce incidence. Increasing the standard WCA application from 2 ml to 3 ml per liter during peak fruit set provides additional protection.
 - **Fruit trees (apples, pears, stone fruits):** Perennial crops benefit from multiple sweetness promotion treatments timed to the ripening curve of each variety. Early-ripening varieties may require treatment 20 days before harvest rather than the standard 15 days. The [seawater component is especially important for tree fruits, as the broader mineral spectrum supports the complex flavor profiles that develop during the final ripening period.
 - **Leafy greens and herbs:** For crops harvested before true reproductive development (bolting), the reproductive stage protocol is largely irrelevant. However, preventing premature bolting in warm conditions can be supported by maintaining adequate potassium levels, which help the plant manage heat stress that would otherwise trigger flowering.
 - **Root vegetables:** Carrots, beets, and radishes store carbohydrates in the root rather than in a fruit, but the reproductive stage protocol still applies. The calcium and potassium inputs support cell wall integrity in the storage root and improve sugar accumulation. Some practitioners report that the crack prevention protocol, originally designed for fruits, also reduces splitting in carrots and beets.

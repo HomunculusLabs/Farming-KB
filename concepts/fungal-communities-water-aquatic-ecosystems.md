@@ -3,13 +3,10 @@ title: Fungal Communities in Water and Aquatic Ecosystems
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-
-# Fungal Communities in Water and Aquatic Ecosystems
-
-Fungi play essential roles in aquatic and marine ecosystems as decomposers of organic matter, nutrient cyclers, and food sources for invertebrates. Although less intensively studied than terrestrial [[singh-endophytic-fungi-plant-protection-mechanisms]]. Their roles in aquatic [[fungal-leaf-litter-succession]] (Gessner et al., 1993):
+# Fungal Communities in Water and Aquatic Ecosystems Fungi play essential roles in aquatic and marine ecosystems as decomposers of organic matter, nutrient cyclers, and food sources for invertebrates. Although less intensively studied than terrestrial [[singh-endophytic-fungi-plant-protection-mechanisms]]. Their roles in aquatic [[fungal-leaf-litter-succession]] (Gessner et al., 1993):
 
 - **Early colonization (2 weeks)**: Communities dominated by 5-6 species including Flagellospora curvula, Tetrachaetum elegans, Lemonniera centrospharea, L. aquatica, and L. terrestris.
 
@@ -17,7 +14,7 @@ Fungi play essential roles in aquatic and marine ecosystems as decomposers of or
 
 - **Peak biomass and conidial production**: Occurs in the middle of succession, measured as ergosterol content and conidial output.
 
-The successional patterns observed in aquatic leaf litter decomposition parallel those seen in [[fungal-fungal-community-assembly]] processes in terrestrial habitats. The [[fungal-decomposition-processes]] on land, where lignin content and resource quality strongly influence decay rates.
+The successional patterns observed in aquatic leaf litter decomposition parallel those seen in fungal-fungal-community-assembly processes in terrestrial habitats. The [[fungal-decomposition-processes]] on land, where lignin content and [[fungal-decomposition-resource-quality-determinants]] strongly influence decay rates.
 
 ## Fungal Biomass in Aquatic Systems
 
@@ -31,7 +28,7 @@ Aquatic fungi form an important food source for invertebrates and alter the phys
 
 The palatability of resources is enhanced during fungal decomposition by the increase in nitrogen content during initial stages of fungal attack (Gessner et al., 1997). This dynamic mirrors [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]] and salt marsh ecosystems, contribute to decomposition of standing-dead plant material. Approximately 50% of aquatic and salt marsh plants are mycorrhizal (Khan and Belik, 1995; Cooke and Lefor, 1998), but the extent of hyphal development into sediments and their roles in nutrient acquisition and sediment stabilization remain poorly characterized.
 
-Molecular approaches have begun to reveal previously unrecognized diversity in marine/estuarine fungal assemblages, particularly in [[marine-oomycete-zoospore-biology-encystment]], while technically straddling the fungal and protist kingdoms, provides additional insight into the adaptation of fungus-like organisms to marine environments.
+[[staycare-molecular-approaches-fungal-bioremediation]] have begun to reveal previously unrecognized diversity in marine/estuarine fungal assemblages, particularly in [[marine-oomycete-zoospore-biology-encystment]], while technically straddling the fungal and protist kingdoms, provides additional insight into the adaptation of fungus-like organisms to marine environments.
 
 ## Knowledge Gaps
 
@@ -39,18 +36,18 @@ The role of fungi in aquatic ecosystems has not been studied as intensively as t
 mechanisms of decomposition,
 fungal-bacterial interactions,
 the relationship between fungal biodiversity and ecological function,
-correlation between community composition and physiological function of species,
+correlation between [[core-endorhiza-bacterial-community-composition-cannabis]] and physiological function of species,
 and the impacts of environmental constraints on fungal activity.
 
 The application of fungal-metagenomics|metagenomic tools and [[freshwater-fungi-diversity-and-sampling]] may be declining as streams and lakes are affected by agricultural runoff, urban development, and water extraction, but without comprehensive baseline data, these trends remain difficult to quantify.
 
 ## Freshwater Hyphomycetes and Stream Ecology
 
-Freshwater hyphomycetes (also called Ingoldian fungi or aquatic hyphomycetes) represent one of the most well-studied groups of aquatic fungi. These asexual fungi are adapted to running water and produce specialized conidia (spores) that are branched or tetraradiate — a morphology that enhances their attachment to submerged substrates and increases the probability of being ingested by invertebrate grazers. The [[fungal-adaptations-environmental-gradients]] in aquatic systems differs from terrestrial patterns in several important respects. While terrestrial fungi experience relatively stable moisture conditions within soil aggregates, aquatic fungi must cope with fluctuating water levels, flow velocities, dissolved oxygen concentrations, and nutrient availability. Seasonal flooding events can dramatically reshape aquatic fungal communities, importing terrestrial fungi into aquatic habitats and exporting aquatic propagules to riparian soils.
+Freshwater hyphomycetes (also called Ingoldian fungi or [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]]) represent one of the most well-studied groups of aquatic fungi. These asexual fungi are adapted to running water and produce specialized conidia (spores) that are branched or tetraradiate — a morphology that enhances their attachment to submerged substrates and increases the probability of being ingested by invertebrate grazers. The [[fungal-adaptations-environmental-gradients]] in aquatic systems differs from terrestrial patterns in several important respects. While terrestrial fungi experience relatively stable moisture conditions within soil aggregates, aquatic fungi must cope with fluctuating water levels, flow velocities, dissolved oxygen concentrations, and [[ph-and-nutrient-availability-garden-soils]]. Seasonal flooding events can dramatically reshape aquatic fungal communities, importing terrestrial fungi into aquatic habitats and exporting aquatic propagules to riparian soils.
 
 ## Fungal-Bacterial Interactions in Aquatic Biofilms
 
-In aquatic ecosystems, fungi and bacteria coexist within complex biofilm communities on submerged surfaces including leaf litter, wood, rocks, and artificial substrates. These fungal-bacterial interactions include both competitive and mutualistic relationships. Fungi often colonize leaf litter first, conditioning the substrate through enzymatic softening and nitrogen enrichment, which subsequently facilitates bacterial colonization. Bacteria, in turn, may stimulate fungal enzyme production through chemical signaling or compete with fungi for released soluble carbon compounds.
+In aquatic ecosystems, fungi and bacteria coexist within complex biofilm communities on submerged surfaces including leaf litter, wood, rocks, and artificial substrates. These fungal-bacterial interactions include both competitive and mutualistic relationships. Fungi often colonize leaf litter first, conditioning the substrate through enzymatic softening and nitrogen enrichment, which subsequently facilitates bacterial colonization. Bacteria, in turn, may stimulate fungal enzyme production through [[plant-hormones-and-chemical-signaling-systems]] or compete with fungi for released soluble carbon compounds.
 
 The balance between fungal and bacterial dominance in aquatic biofilms shifts along environmental gradients. In oligotrophic (nutrient-poor) streams, fungi tend to dominate leaf litter decomposition due to their ability to produce extracellular enzymes that access recalcitrant carbon sources. In eutrophic (nutrient-enriched) streams, bacterial activity increases and may outpace fungal decomposition. This shift has implications for the quality of organic matter entering downstream food webs, as fungal-dominated decomposition tends to produce larger particulate organic matter that supports detritivorous invertebrates, while bacterial-dominated decomposition releases more dissolved organic matter.
 
@@ -62,7 +59,7 @@ The sensitivity of aquatic fungal communities to environmental conditions makes 
 
 - [[fungal-succession-leaf-litter]]
 - [[fungal-role-in-carbon-cycling]]
-- [[fungal-biodiversity-mangrove]]
+- fungal-biodiversity-mangrove
 - [[fungal-community-assembly]]
 - [[freshwater-fungi-diversity-and-sampling]]
 
@@ -85,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

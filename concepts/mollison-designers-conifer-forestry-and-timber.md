@@ -1,5 +1,5 @@
 ---
-title: Conifer Forestry and Timber in Permaculture
+title: mollison designers conifer forestry and timber and Timber in Permaculture
 created: 2026-04-28
 tags:
   - permaculture
@@ -17,7 +17,7 @@ type: concept
 
 Conifer forests are among the most productive timber systems in temperate
 and boreal regions, and their management is a significant consideration
-in permaculture design. In the Permaculture Designers Manual, Mollison
+in [[mollison-permaculture-design-course-curriculum]]. In the Permaculture [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]], Mollison
 addresses conifer forestry with a characteristically critical eye, arguing
 that conventional monoculture conifer plantations represent a misuse of
 forest potential. He advocates for diversified conifer management that
@@ -48,7 +48,7 @@ timber use, and integration with other system elements.
 
 Mollison challenges the conventional forestry approach of clear-felling
 and replanting, advocating instead for continuous cover forestry that
-maintains forest structure and soil integrity across harvest cycles.
+maintains [[mollison-wet-tropical-forest-structure-and-polyculture]] and soil integrity across harvest cycles.
 Sustainable timber yield is calculated as the volume that can be harvested
 annually without reducing the standing volume or future productive
 capacity of the forest.
@@ -59,8 +59,8 @@ clearing entire stands, maintaining a range of age classes across the
 forest to ensure continuous production, and preserving seed trees and
 habitat structures. [[mollison-designers-windbreak-configurations-for-crops-and-orchards]] and
 shelterbelt plantings due to their dense, evergreen foliage that provides
-year-round wind protection. Mollison provides detailed guidance on
-windbreak design using conifers, including species selection for different
+year-round [[cervantes-wind-protection-outdoor-cannabis]]. Mollison provides detailed guidance on
+[[comparison-windbreak-design-vs-species-selection]] using conifers, including species selection for different
 wind exposures, planting density, and integration with deciduous species
 for multi-functional shelterbelts.
 
@@ -84,3 +84,11 @@ can be managed for sustainable harvest.
 [[mollison-designers-rainwater-harvesting-swale-systems]] and
 [[mollison-designers-windbreak-configurations-for-crops-and-orchards]]: Shelterbelt planning
 - [[mollison-designers-rainwater-harvesting-swale-systems]]: Watershed forest role
+
+## See Also
+
+- [[calocedrus-decurrens]]
+
+- [[chamaecyparis-lawsoniana]]
+
+- [[metasequoia-glyptostroboides]]

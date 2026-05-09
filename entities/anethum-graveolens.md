@@ -32,7 +32,7 @@ sources:
 
 Both the feathery leaves (dill weed) and the dried seeds are used extensively in European, Scandinavian, Middle Eastern, and Central Asian cuisines. The plant is also valued in traditional medicine as a carminative, digestive aid, and mild sedative.
 
-Dill is an efficient companion plant in vegetable gardens, attracting beneficial insects including pollinators and predatory wasps that control aphid populations.
+Dill is an efficient companion plant in vegetable gardens, attracting [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] including pollinators and predatory wasps that control aphid populations.
 
 ## Taxonomy and Morphology
 
@@ -56,7 +56,7 @@ Direct sowing is recommended, as dill forms a taproot sensitive to transplant di
 
 Leaf harvest begins 6–8 weeks after sowing. Seed harvest occurs when flower heads turn brown, typically 90–110 days from sowing. Yields range from 1–2 t/ha of fresh herb or 0.5–1 t/ha of dried seed.
 
-The plant is relatively pest-resistant but susceptible to aphids, carrot rust fly, and powdery mildew in humid conditions.
+The plant is relatively pest-resistant but susceptible to aphids, carrot rust fly, and [[cervantes-powdery-mildew-prevention-treatment]] in humid conditions.
 
 ### Harvest and Preservation
 
@@ -68,7 +68,7 @@ Dill pickles — cucumbers preserved with dill weed, seed, garlic, and vinegar �
 
 ## Culinary Uses
 
-Dill is one of the most versatile culinary herbs, used in cuisines spanning Scandinavia to South Asia.
+Dill is one of the most versatile [[holzer-medicinal-and-culinary-herbs-compendium]], used in cuisines spanning Scandinavia to South Asia.
 
 **Dill weed** (fresh leaves) has a fresh, grassy, slightly anise-like flavor. It is a key ingredient in Scandinavian gravlax, tzatziki, borscht, and potato salads. Leaves should be added at the end of cooking to preserve volatile aromatics.
 
@@ -86,7 +86,7 @@ Carvone is responsible for the characteristic caraway-dill flavor and has docume
 
 Additional constituents include **apiol**, **myristicin**, **anethofuran**, and flavonoids (kaempferol, quercetin derivatives).
 
-Pharmacological studies demonstrate **carminative** (gas-reducing), **antispasmodic**, and **antimicrobial** activities. In vitro studies show activity against *Staphylococcus aureus*, *Escherichia coli*, and *Candida albicans*.
+Pharmacological studies demonstrate **carminative** (gas-reducing), **antispasmodic**, and **antimicrobial** activities. In vitro studies show activity against *Staphylococcus aureus*, *Escherichia coli*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*.
 
 Dill extracts exhibit **diuretic** and **hypolipidemic** effects in animal models, though clinical data in humans remains limited.
 
@@ -108,11 +108,11 @@ Dill is an excellent companion plant in vegetable gardens and permaculture syste
 
 It attracts **beneficial insects** — particularly parasitic wasps (*Aphidius* spp., *Trichogramma* spp.), ladybugs, lacewings, and hoverflies (Syrphidae) — that prey on aphids, caterpillars, and other pests.
 
-The umbelliferous flowers are highly attractive to **pollinators** including honeybees, bumblebees, and native solitary bees, making dill a useful addition to pollinator borders and insectary plantings.
+The umbelliferous flowers are highly attractive to **pollinators** including honeybees, bumblebees, and [[comparison-honey-bees-vs-native-solitary-bees]] bees, making dill a useful addition to pollinator borders and insectary plantings.
 
 Dill is compatible with most garden vegetables but is traditionally said to inhibit the growth of carrots when planted in close proximity (both are Apiaceae and may compete for the same nutrients and attract similar pests).
 
-In permaculture design, dill serves as a fast-growing, self-seeding annual that fills niche spaces in guild plantings, providing both culinary yield and ecological services within a single season.
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], dill serves as a fast-growing, self-seeding annual that fills niche spaces in guild plantings, providing both culinary yield and ecological services within a single season.
 
 Volunteer dill seedlings often appear the following season from self-seeding, creating a low-maintenance, self-perpetuating herb patch that requires minimal ongoing input.
 

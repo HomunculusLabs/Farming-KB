@@ -10,7 +10,7 @@ sources:
 
 # Cannabis and Tinnitus Research
 
-**Source:** The Cannabis Health Index (Uwe Blesching, 2017)
+**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]] (Uwe Blesching, 2017)
 
 **Last Updated:** 2026-04-18
 
@@ -54,7 +54,7 @@ The endocannabinoid anandamide modulates sensory gating mechanisms that filter i
 
 ## Clinical Evidence
 
-No clinical trials specifically evaluating cannabis or cannabinoids for tinnitus have been published. The CHI database contains no dedicated tinnitus studies, and the evidence is entirely indirect, drawn from research on comorbid conditions.
+No [[mushroom-cancer-clinical-trials-overview]] specifically evaluating cannabis or cannabinoids for tinnitus have been published. The CHI database contains no dedicated tinnitus studies, and the evidence is entirely indirect, drawn from research on comorbid conditions.
 
 The strongest indirect evidence comes from anxiety research (CHI Value: 23, 28 studies), which demonstrates consistent anxiolytic effects of CBD. Since anxiety amplification is the primary mechanism of tinnitus distress, CBD's anti-anxiety effects may translate to meaningful quality of life improvements for tinnitus patients even without direct effects on auditory perception.
 

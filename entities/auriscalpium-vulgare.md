@@ -27,7 +27,7 @@ sources:
 
 *Auriscalpium vulgare*, commonly known as the earpick fungus or pinecone mushroom,
 is a species of tooth fungus in the family Auriscalpiaceae. It is distinguished
-by its small, brown, laterally stipitate fruiting body that bears a spore-bearing
+by its small, brown, laterally stipitate [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] that bears a spore-bearing
 hymenium of fine teeth on its upper surface, inverting the typical agaricoid pattern.
 
 The species is most frequently encountered growing from fallen pine cones in
@@ -55,14 +55,14 @@ genetically monophyletic.
   that are concolorous with the cap surface or slightly paler.
 - **Stipe (stipitus):** 15–50 mm long, 1–3 mm thick, eccentric or lateral,
   dark brown to nearly black, tough and wiry, arising from the cone.
-- **Spore print:** White to cream.
+- **[[comparison-spore-print-collection-vs-spore-syringe-production]]:** White to cream.
 - **Spores:** Ellipsoid, amyloid, 5–7 × 3.5–4.5 µm, ornamented with low warts
   or ridges visible under SEM. Spores are among the smallest in the Russulales.
 - **Flesh:** Thin, tough, corky. No distinctive odor or taste.
 
 ## Distribution and Habitat
 
-*A. vulgare* has a broad circumboreal distribution across Europe, North America,
+*A. vulgare* has a broad circumboreal distribution across Europe, [[psilocybin-north-america-pacific-northwest]],
 and temperate Asia. It is particularly common in the boreal and temperate coniferous
 zones, occurring from Scandinavia to the Mediterranean and from Alaska to Mexico.
 
@@ -80,7 +80,7 @@ among wood-decay basidiomycetes and suggests a specialized enzymatic repertoire
 targeting the unique chemistry of pine cone tissue, which is rich in phenolic
 compounds and lignin-like polymers.
 
-The fungus contributes to nutrient cycling in coniferous forest floors by breaking
+The fungus contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in coniferous forest floors by breaking
 down otherwise slow-to-decompose cone material. Its ecological niche is sufficiently
 specialized that it faces little competitive pressure from generalist decomposers.
 
@@ -96,7 +96,7 @@ and unpalatable to warrant culinary use. Some older field guides list it as
 The genus *Auriscalpium* contains approximately 10 described species worldwide,
 most of which are rare and poorly known:
 
-- ***A. andinum*** — South American species found on *Araucaria* cones
+- ***A. andinum*** — [[chiric-caspi-brunfelsia-south-american-hallucinogen]] species found on *Araucaria* cones
 - ***A. villipes*** — Southeast Asian, associated with dipterocarp cones
 - ***A. fimbriatopeltatum*** — Tropical Asian, very rare
 
@@ -112,7 +112,7 @@ has made it a recurring illustration in mycological textbooks since the 19th cen
 The genus name *Auriscalpium* derives from the Latin *auris* (ear) and *scalpellum*
 (small knife or earpick), referencing its resemblance to an ear-cleaning tool.
 
-In modern mycological education, the species serves as a benchmark for teaching
+In [[telluride-mushroom-festival-modern-mycological-culture]] education, the species serves as a benchmark for teaching
 cone-associated fungi and the ecological concept of substrate specificity.
 Molecular phylogenetic studies in the 2000s confirmed its placement in the
 Russulales, resolving decades of taxonomic uncertainty that had variously placed

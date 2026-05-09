@@ -1,5 +1,5 @@
 ---
-title: Phosphorus Cycling and Conservation in Permaculture Systems
+title: mollison [[fungal-role-in-phosphorus-cycling]] and [[water-harvesting-and-conservation-in-permaculture]] systems and Conservation in Permaculture Systems
 created: 2026-04-26
 tags:
   - permaculture
@@ -16,11 +16,11 @@ type: concept
 
 # Phosphorus Cycling and Conservation in Permaculture Systems
 
-Bill Mollison's *Permaculture: A Designers' Manual* identifies
+[[bill-mollison]]'s *Permaculture: A Designers' Manual* identifies
 phosphorus as one of the two most critical limiting resources for
 human civilisation, alongside clean water. Chapter 8 presents a
 detailed analysis of phosphorus cycling, loss pathways, and
-conservation strategies that are central to sustainable design.
+[[fungal-conservation-strategies]] that are central to [[ozier-pdc-maslows-hierarchy-sustainable-design]].
 
 ## The Phosphorus Crisis
 

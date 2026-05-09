@@ -1,5 +1,5 @@
 ---
-title: Geese and Duck Weed Control
+title: Geese and Duck fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery
 created: 2026-04-26
 tags:
   - permaculture
@@ -29,7 +29,7 @@ most crops. This makes them ideal for weed control in specific contexts:
 **Orchard integration:**
 - Geese graze grass competition from beneath fruit trees without damaging
   tree bark (unlike sheep or goats which will strip bark from young trees)
-- They prefer grasses over most orchard floor weeds, selectively reducing
+- They prefer grasses over most [[fukuoka-orchard-floor-management]] weeds, selectively reducing
   grass competition while leaving beneficial broadleaf plants
 - Their droppings fertilise the orchard floor, cycling nutrients
 - Mollison recommends 10-15 geese per hectare of mature orchard, reduced
@@ -51,7 +51,7 @@ most crops. This makes them ideal for weed control in specific contexts:
 
 **Species selection:**
 - Chinese geese are the most active grazers and best weeders
-- Embden geese are larger and hardier in cool climates but less active
+- Embden geese are larger and hardier in [[greenhouse-cool-climates-mollison]] but less active
 - Toulouse geese are docile but less effective as weeders
 - Mollison recommends Chinese geese for orchard work and Embden crosses
   for general farm duty
@@ -61,11 +61,11 @@ most crops. This makes them ideal for weed control in specific contexts:
 Ducks serve a complementary role managing aquatic vegetation in ponds,
 waterways, and wetland areas:
 
-**Aquatic weed management:**
+**Aquatic [[fukuoka-weed-management-and-green-manure]]:**
 - Ducks consume duckweed (Lemna spp.), algae, water hyacinth, and other
   aquatic vegetation that can choke ponds and waterways
 - A small flock of 6-10 ducks can keep a 0.1 hectare pond clear of
-  excessive weed growth through the growing season
+  excessive weed growth through the [[savory-growing-season-and-non-growing-season-management]]
 - Muscovy ducks are particularly effective, consuming large quantities of
   aquatic vegetation and insects
 
@@ -78,7 +78,11 @@ waterways, and wetland areas:
 Geese and ducks fill niches that chickens cannot. Geese manage terrestrial
 grass competition; ducks manage aquatic vegetation. Together with chickens
 (who manage insects and weed seeds), they provide complete vegetation and
-pest management for the integrated farm.
+[[cannabis-pest-management-guide]] for the integrated farm.
 
 See also: [[mollison-designers-small-forest-farm-cool-humid-layout]],
-[[permaculture-aquaculture-design]]
+permaculture-aquaculture-design
+
+## See Also
+
+- [[mollison-geese-grass-control-and-integrated-poultry]]

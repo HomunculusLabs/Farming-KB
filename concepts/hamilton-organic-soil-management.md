@@ -16,11 +16,11 @@ together to provide the right conditions for healthy plant growth.
 
 ## The Living Soil
 
-The very first principle of organic gardening is to nurture and encourage
+The very first principle of [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] is to nurture and encourage
 subterranean life so that it can support a much larger plant population than
 nature ever intended. The organic approach feeds the soil rather than the
 plant directly. By maintaining high soil-fertility levels through regular
-additions of organic matter, plants can draw on nutrients as they are
+additions of [[hamilton-composting-and-organic-matter-management]], plants can draw on nutrients as they are
 required. There is no danger of overdose, and a steady supply is ensured by
 the activity of all the various organisms in the soil.
 
@@ -55,7 +55,7 @@ requires slightly different management techniques:
 
 ## Composting
 
-The gardener's primary alternative to chemical fertilizers is compost. All
+The gardener's primary alternative to [[cervantes-chemical-fertilizers-guide]] is compost. All
 organic material of plant origin can be composted except for a few things:
 diseased material (especially blight, clubroot, onion mildew), cooked food
 waste, roots of pernicious weeds (couch grass, ground elder, bindweed),
@@ -108,7 +108,7 @@ Mulching involves spreading a layer of organic matter over the soil
 surface where plants cannot be disturbed. This suppresses weeds, retains
 moisture, and gradually adds organic matter. Apply mulches in spring
 when the soil is moist. Materials include well-rotted manure, compost,
-spent mushroom compost, straw, and pine bark.
+[[staycare-spent-mushroom-compost-bioremediation]] compost, straw, and pine bark.
 
 ## The Four Phases of Soil Management
 
@@ -116,12 +116,12 @@ Hamilton outlines a complete soil management regime:
 1. Test soil pH and nutrient content
 2. Add bulky organic matter (compost, manure, or alternatives) during
    the fall at 20-30 lb per square yard/meter
-3. Apply organic fertilizers as needed for specific plant requirements
+3. Apply [[hamilton-organic-fertilizers-and-plant-nutrition]] as needed for specific plant requirements
 4. Use green-manure crops whenever beds are empty for any length of time
 5. Mulch during the growing season to retain moisture and suppress weeds
 
 The key insight is that healthy soil produces healthy plants that are
-naturally more resistant to pests and diseases. By feeding the soil
+naturally more resistant to [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. By feeding the soil
 with natural materials, organic gardeners build a self-sustaining system
 that improves year after year.
 

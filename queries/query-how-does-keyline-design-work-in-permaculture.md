@@ -1,10 +1,11 @@
 ---
-title: "How Does Keyline Design Work in Permaculture?"
+title: "How Does query how does keyline design work in permaculture Work in Permaculture?"
 created: 2026-04-28
 tags: [query, permaculture, water-management, earthworks, keyline]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/pa-yeomans-water-for-every-farm.md"
 type: query
 ---
 
@@ -13,7 +14,7 @@ type: query
 ## Short Answer
 Keyline design is a land management technique developed by P.A. Yeomans that
 uses the natural topography of a landscape to distribute water evenly across
-slopes. It identifies a specific contour line called the keyline, where the
+slopes. It identifies a specific [[comparison-swale-vs-contour-line-water-management]] called the keyline, where the
 valley floor meets the slope, and uses cultivation and earthworks along this
 line to spread rainfall runoff from wet valleys to dry ridges, dramatically
 improving hydration and soil health across the entire property.
@@ -45,7 +46,7 @@ The soil health benefits of keyline design extend well beyond water
 distribution. By breaking up compacted layers without inverting the soil, the
 [[teaming-with-nutrients-composting-and-nutrient-cycling]] process accelerates as increased
 water infiltration supports more active microbial communities. Over time,
-keyline-managed land develops deeper topsoil, greater organic matter content,
+keyline-managed land develops deeper topsoil, greater [[hamilton-composting-and-organic-matter-management]] content,
 and improved aggregate stability.
 
 Implementation of keyline design does not require expensive equipment or
@@ -58,6 +59,7 @@ accomplish what the keyline plow does on larger acreage. The
 - [[query-how-to-build-a-swale-for-water-harvesting]]
 [[query-what-are-the-12-permaculture-principles]]
 [[water-harvesting-techniques-comparison]]
+
 ## Practical Considerations
 
 Successful implementation of How Does Keyline Design Work in Permaculture? requires attention to
@@ -76,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

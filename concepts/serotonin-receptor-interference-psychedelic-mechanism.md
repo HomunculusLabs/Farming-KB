@@ -8,7 +8,7 @@ Both psilocin and serotonin share a common 4-hydroxyindoleethylamine core scaffo
 ring system bearing a hydroxyl group at the 4-position is coupled to a two-carbon ethylamine side chain that
 terminates in a primary amine.
 This near-identical molecular architecture allows psilocin to function as a serotonin mimetic, binding to
-and activating serotonin receptors with high affinity and producing the characteristic alterations in
+and activating [[psilocybin-pharmacology-and-serotonin-receptors]] with high affinity and producing the characteristic alterations in
 perception, mood, and cognition that define the .
 The Shirota synthesis paper (J. Nat. Prod., 2003) explicitly notes this structural similarity, stating that
 "these compounds resemble serotonin" and that their hallucinogenic effects are "likely due to interference
@@ -48,9 +48,9 @@ in mice lacking the 5-HT2A receptor, which show no behavioral response to psyche
 ## Historical Research: Strassman, Vollenweider, and McCall Contributions
 The modern understanding 's serotonergic mechanism has been shaped by several landmark research
 programs spanning clinical pharmacology, neuroimaging, and behavioral neuroscience over the past three decades.
-'s clinical research at the University of New Mexico in the 1990s systematically administered
+'s [[hofmann-lsd-clinical-research-early-studies]] at the University of New Mexico in the 1990s systematically administered
 psilocybin to human volunteers under controlled conditions, demonstrating dose-dependent psychedelic responses
-and establishing modern safety protocols for human [[controlled-substances-act-and-psychedelic-research]] is essential
+and establishing modern [[mushroom-edibility-testing-safety-protocols]] for human [[controlled-substances-act-and-psychedelic-research]] is essential
 for regulatory enforcement and public health protection.
 Tryptamine-based psychedelics can be identified using thin-layer chromatography (TLC) with Ehrlich's reagent,
 which produces a characteristic purple coloration upon reaction with indole nuclei, allowing rapid presumptive
@@ -69,7 +69,7 @@ important questions remain unresolved, including the precise intracellular signa
 - [[shirota-psilocin-psilocybin-synthesis-from-4-hydroxyindole]]
 ## Practical Considerations
 
-Successful implementation of Serotonin Receptor Interference Psychedelic Mechanism requires attention to
+Successful implementation of Serotonin Receptor serotonin receptor interference [[brain-neuroscience-and-psychedelic-mechanism]] Mechanism requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

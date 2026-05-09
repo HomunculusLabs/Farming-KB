@@ -1,5 +1,5 @@
 ---
-title: "Sugar as Addiction and the Engine of Slavery"
+title: "mckenna-sugar-as-addiction-and-drug-of-the-dominator and the Engine of Slavery"
 created: 2026-04-28
 tags: [food-of-the-gods, sugar, slavery, dominator-culture, addiction, mercantilism, colonialism, mckenna]
 date: 2026-04-28
@@ -37,7 +37,7 @@ They drove the engines of mercantilism and empire building that replaced the inw
 
 As schoolchildren we are taught that the spice trade ended the Middle Ages and created the basis of modern trade and commerce. What we are not made aware of is that the breakup of Christian [[hallucinogenic-mushroom-market-in-europe]].
 
-Only in the nineteenth century, at the encouragement of Napoleon I, were sugar beets developed as an alternative to cane sugar. Sugarcane is known to occur as a wild plant, and the genus is well represented in tropical Asia, with at least five species native to India.
+Only in the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], at the encouragement of Napoleon I, were sugar beets developed as an alternative to cane sugar. Sugarcane is known to occur as a wild plant, and the genus is well represented in tropical Asia, with at least five species native to India.
 
 The Persian king Khusraw I (A.D. 531-578) dispatched envoys to India to investigate rumors of exotic drugs. Among those brought to Jundi-Shapur was sukkar (Persian shakar, Sanskrit sarkara), unknown to Herodotus, known to Nearchus and Onesicritus as "reed honey," supposed to have been made from reeds by bees.
 
@@ -67,7 +67,7 @@ One may argue that something approaching slave labor is typical of the early sta
 
 A further difference must be noted: brutal as it is, the modern drug trade is not involved in anything resembling the wholesale kidnapping, transporting, and mass murder of huge populations as was done to further the process of sugar production.
 
-Sugar slavery was the first time since the Roman latifundia that mass slavery had been used to grow a crop for trade rather than subsistence. It was also the first time in history that one race had been uniquely selected for a servile role.
+[[mckenna-sugar-slavery-and-dominance]] was the first time since the Roman latifundia that mass slavery had been used to grow a crop for trade rather than subsistence. It was also the first time in history that one race had been uniquely selected for a servile role.
 
 ## The African Slave Trade Begins
 
@@ -117,14 +117,16 @@ Sugar is culturally defined as a food. This definition denies that sugar can act
 
 Many children and compulsive eaters live in a motivational environment primarily ruled by mood swings resulting from cravings for sugar.
 
-The exploitation cycles began with sugar. As sugar deepened its claim on consumers throughout the sixteenth century, the seventeenth-century introduction of tea, coffee, and chocolate only drove the craze for sugar to new heights.
+The [[mckenna-exploitation-cycles-drug-diplomacy]] began with sugar. As sugar deepened its claim on consumers throughout the sixteenth century, the seventeenth-century introduction of tea, coffee, and chocolate only drove the craze for sugar to new heights.
 
 Through its use in caffeine drinks and distilled alcohol, sugar played a major indirect role in furthering the dominator culture's suppression of the underclass.
 
 Slavery to drugs is a tired metaphor, but in the case of sugar the metaphor was made horribly real.
 
 Sugar and the caffeine drugs that spread with it reinforce and support industrial civilization's unreflecting emphasis on efficiency at the price of Archaic human values.
-## Related Concepts
+## Related
+
+- [[mckenna-acquired-tastes-chemical-addiction-syndrome]] Concepts
 
 - [[mckenna-food-gods-natural-synthetic-drugs]]
 - [[mckenna-food-gods-tea-coffee-drugs-gentility]]

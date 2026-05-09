@@ -9,7 +9,7 @@ sources:
 ---
 # Fruit Tree Guild Roles
 
-A guild is a harmoniously interwoven group of plants and animals, often centered around one major species, that benefits humans while creating habitat. In a fruit tree guild, each member performs specific ecological roles that together create a self-maintaining, productive plant community. Understanding these roles allows gardeners to design guilds that let nature perform the tasks of fertilizing, pest control, mulching, and pollination.
+A guild is a harmoniously interwoven group of plants and animals, often centered around one major species, that benefits humans while creating habitat. In a fruit tree guild, each member performs specific ecological roles that together create a self-maintaining, productive plant community. Understanding these roles allows gardeners to design guilds that let nature perform the tasks of fertilizing, [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], mulching, and pollination.
 
 Indigenous people, especially those living in the tropics, have been using guilds for millennia to create sustainable landscapes. Anthropologists mistook the lush and productive home gardens that enfolded tropical houses for wild jungle, so perfectly had the inhabitants mimicked the surrounding forest. In temperate climates, the art and science of fashioning communities of useful plants is a newer but vigorous field.
 
@@ -31,12 +31,12 @@ Bulbs keep grasses from moving into the guild. Grasses are surface feeders that 
 
 Flowering plants lure pollinators for boosting fruit set and attract predatory wasps that feast on pestiferous larvae such as borers and codling moths. Flowering shrubs placed nearby (butterfly bush, fuchsia, salvia) encourage insectivorous birds to probe bark crevices for larvae and eggs.
 
-**Examples**: Dill, fennel, coriander, yarrow, bee balm, and many other [[faires-orchard-pruning-methods]]
+**Examples**: Dill, fennel, coriander, yarrow, bee balm, and many other faires-orchard-pruning-methods
 
 - [[backyard-food-forest-design]] -- how guilds combine into a larger food forest
 - [[permaculture-guild-design]] -- detailed guild construction methods
 - [[dynamic-accumulators]] -- plants that mine nutrients from deep soil
-- [[nitrogen-fixing-trees-and-shrubs]] -- woody nitrogen fixers for guild design
+- [[nitrogen-fixing-trees-and-shrubs]] -- woody nitrogen fixers for [[apple-guild-design-guide]]
 
 ## Merged: Sapodilla (Manilkara zapota)
 
@@ -44,7 +44,7 @@ Flowering plants lure pollinators for boosting fruit set and attract predatory w
 
 updated: 2026-04-18
 
-The sapodilla, also known as sapota, Santo Domingo apricot, marmalade plum, naseberry, nispero, dilly, or chiku, is a large evergreen tree native to Central America and southern Mexico. It produces one of the sweetest fruits in the tropics and is the original source of chicle, the natural base for chewing gum.
+The sapodilla, also known as sapota, Santo Domingo apricot, marmalade plum, naseberry, nispero, dilly, or chiku, is a large evergreen tree native to [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and southern Mexico. It produces one of the sweetest fruits in the tropics and is the original source of chicle, the natural base for chewing gum.
 
 ## Botany and Growth Habit
 
@@ -52,7 +52,7 @@ A large, slow-growing, attractively shaped evergreen tree reaching 5-18 m in hei
 
 ## Climate and Soil
 
-The sapodilla prefers a moist, well-drained soil with plenty of organic matter but is adaptable to many soil types. It is drought tolerant and reasonably tolerant of salt spray, flooding, and wind. It needs a warm climate and tolerates very high temperatures; mature trees withstand temperatures as low as -4.5C. Young trees are more frost-sensitive and may be killed by frosts.
+The sapodilla prefers a moist, well-drained soil with plenty of [[hamilton-composting-and-organic-matter-management]] but is adaptable to many soil types. It is [[permplant-carob-drought-tolerant-food-tree]] and reasonably tolerant of salt spray, flooding, and wind. It needs a warm climate and tolerates very high temperatures; mature trees withstand temperatures as low as -4.5C. Young trees are more frost-sensitive and may be killed by frosts.
 
 ## Fruit
 
@@ -60,7 +60,7 @@ The fruit are usually produced in pairs, resemble a quince in shape, and are rus
 
 The fruit can be used for jams and jelly making, and young leaves are also edible. Gross pollination is desirable, so planting more than one tree is advantageous, though not strictly essential. Minimum spacing is 6 m.
 
-Nutritional composition per 100g edible portion: Water 76.1%, Energy 89 calories, Carbohydrate 21.8g, Fat 1.1g, Protein 0.5g, Calcium 21mg, Potassium 193mg, Iron 0.8mg, Phosphorus 12mg, Vitamin A 60 IU, Vitamin C 14mg.
+[[dighton-fungal-nutritional-composition-animal-diets]] per 100g edible portion: Water 76.1%, Energy 89 calories, Carbohydrate 21.8g, Fat 1.1g, Protein 0.5g, Calcium 21mg, Potassium 193mg, Iron 0.8mg, Phosphorus 12mg, Vitamin A 60 IU, Vitamin C 14mg.
 
 ## Chicle Production
 
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

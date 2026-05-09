@@ -5,7 +5,7 @@ updated: 2026-04-23
 type: concept
 tags: [cover-crops, soil-health, succession, nitrogen-fixation]
 sources:
-  - "raw/papers/teaming-with-microbes-lowenfels.md"
+  sources: []
 ---
 
 # Cover Crops and Soil Health
@@ -35,8 +35,8 @@ The book emphasizes that having bacteria and fungi without [[teaming-with-microb
 
 Different cover crop species support distinct soil food web communities. Selecting the right species depends on what crop follows and what soil conditions need addressing:
 
-- **Cereal rye (Secale cereale)**: Perhaps the most widely used winter cover crop. Its extensive fibrous root system supports bacterial communities and produces significant biomass that becomes brown mulch when terminated. Rye roots release allelopathic compounds that suppress weed germination, providing a natural weed-management benefit. It is extremely cold-hardy and can be planted late into autumn
-- **Crimson clover (Trifolium incarnatum)**: A winter annual legume that fixes 100-150 lbs of nitrogen per acre under good conditions. Its flowers attract beneficial insects before termination. Crimson clover supports both bacterial communities (through root exudates) and mycorrhizal networks
+- **Cereal rye (Secale cereale)**: Perhaps the most widely used winter cover crop. Its extensive fibrous root system supports [[cultivar-endorhiza-bacterial-communities-cannabis]] and produces significant biomass that becomes brown mulch when terminated. Rye roots release allelopathic compounds that suppress weed germination, providing a natural weed-management benefit. It is extremely cold-hardy and can be planted late into autumn
+- **Crimson clover (Trifolium incarnatum)**: A winter annual legume that fixes 100-150 lbs of nitrogen per acre under good conditions. Its flowers attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] before termination. Crimson clover supports both bacterial communities (through root exudates) and [[dighton-mycorrhizal-networks-carbon-transfer]]
 - **Hairy vetch (Vicia villosa)**: A vigorous climbing legume that produces substantial biomass and fixes large amounts of nitrogen (up to 200 lbs/acre). Its viney growth habit makes it effective at suppressing weeds. When terminated no-till, the dense mat of residue provides extended surface mulch
 - **Buckwheat (Fagopyrum esculentum)**: A warm-season broadleaf that grows rapidly in poor soils. It mines phosphorus from soil minerals and makes it available to subsequent crops through its root exudates. Buckwheat flowers attract pollinators and beneficial insects. It supports more fungal-dominant soil biology than grass cover crops
 - **Oats (Avena sativa)**: A quick-growing grass that produces significant root mass in a short season. Winter-killed oats leave a dead mulch on the surface through winter, providing erosion protection and early spring planting without termination. The killed root channels create preferential water infiltration paths
@@ -49,14 +49,14 @@ How a cover crop is terminated significantly affects the soil biology it leaves 
 - **Crimping/rolling**: A mechanical roller-crimper folds the cover crop stems flat, breaking them without cutting. The cover crop dies in place, creating a thick thatch of surface residue that supports fungal dominance. This is the preferred no-till method for winter annuals like rye and vetch
 - **Mowing high**: Cutting the cover crop high (6+ inches) leaves stubble and residue on the surface, supporting fungal communities. Lower mowing incorporates more material into the soil surface, favoring bacteria
 - **Tillage**: Incorporating cover crops by rototilling or disking destroys fungal hyphae and disrupts soil aggregates. The soil food web shifts toward bacterial dominance. While this speeds decomposition and nutrient release, it sacrifices the long-term soil structure benefits that cover crops could provide
-- **Herbicide termination**: Glyphosate kills the cover crop without soil disturbance, leaving roots intact. The root exudates stop but the mycorrhizal connections from the cover crop roots persist temporarily. While effective for no-till systems, this approach conflicts with organic gardening principles
+- **Herbicide termination**: Glyphosate kills the cover crop without soil disturbance, leaving roots intact. The root exudates stop but the mycorrhizal connections from the cover crop roots persist temporarily. While effective for no-till systems, this approach conflicts with [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] principles
 
 ## Cash Crop Interactions with Cover Crops
 
 The soil food web effects of cover crops directly influence the performance of subsequent cash crops:
 
-- **Vegetables and annuals**: Most vegetables prefer bacterially dominated soils. Following a cover crop of grasses or legumes terminated by light incorporation creates favorable conditions. A 2-3 week decomposition period after termination allows nitrogen mineralization before planting
-- **Tomatoes and peppers**: These solanaceous crops benefit from moderate mycorrhizal colonization. A no-till cover crop termination that preserves fungal networks gives them a head start. Avoid cover crops in the Solanaceae family (such as potato) before these crops to prevent disease carryover
+- **Vegetables and annuals**: Most vegetables prefer bacterially dominated soils. Following a cover crop of grasses or legumes terminated by light incorporation creates favorable conditions. A 2-3 week decomposition period after termination allows [[fungal-nitrogen-mineralization-pathways]] before planting
+- **Tomatoes and peppers**: These solanaceous crops benefit from moderate [[arbuscular-mycorrhizal-colonization-patterns]]. A no-till cover crop termination that preserves fungal networks gives them a head start. Avoid cover crops in the Solanaceae family (such as potato) before these crops to prevent disease carryover
 - **Brassicas**: Brassicas are non-mycorrhizal -- they do not form mycorrhizal associations and are not supported by fungal networks. Bacterially dominated soils from grass cover crops are ideal. Mustard cover crops release biofumigant compounds (glucosinolates) when incorporated, which can suppress soil-borne pathogens like Fusarium and Rhizoctonia
 - **Perennials and fruit trees**: These crops benefit most from fungal dominance. Broadleaf cover crops terminated no-till support the transition to fungal soils. Long-lived perennials benefit from the extended mycorrhizal networks maintained by living mulch systems between rows
 
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

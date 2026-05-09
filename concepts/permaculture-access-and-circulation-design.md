@@ -11,13 +11,14 @@ tags:
   - zone-planning
   - mollison
 sources:
-  - raw/papers/bill-mollison-permaculture-design-course.md
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
 ---
 
 # Permaculture Access and Circulation Design
 
-Access design -- the planning of roads, pathways, tracks, and circulation patterns -- is a critical but often overlooked aspect of permaculture design. Bill Mollison treats access as a primary design element because it determines how people, animals, water, and materials move across the landscape. Poor access design creates erosion, wastes energy, and makes the site difficult to maintain.
+Access design -- the planning of roads, pathways, tracks, and circulation patterns -- is a critical but often overlooked aspect of [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]. Bill Mollison treats access as a primary design element because it determines how people, animals, water, and materials move across the landscape. Poor access design creates erosion, wastes energy, and makes the site difficult to maintain.
 
 ## Principles of Access Design
 
@@ -38,14 +39,14 @@ On sloped land, roads and main pathways should follow the contour wherever possi
 
 Every path and road should serve more than one purpose:
 - Access routes that also function as [[swale-construction-guide|swales]] for water harvesting
-- Pathways that define garden bed shapes (keyhole beds, mandala gardens)
+- Pathways that define garden bed shapes ([[gaias-garden-keyhole-beds-and-mandala-gardens]], mandala gardens)
 - Roads that double as firebreaks
 - Paths that channel foot traffic away from sensitive areas
 
 ### Connect Elements Logically
 
 Circulation should connect frequently used elements with the shortest, most direct routes:
-- Kitchen to herb garden to compost to chicken coop
+- Kitchen to [[hamilton-herb-garden-design]] to compost to chicken coop
 - House to workshop to garden to orchard
 - Grazing routes from shelter to pasture to water
 
@@ -73,13 +74,13 @@ Circulation should connect frequently used elements with the shortest, most dire
 
 - Garden paths, footpaths, walking trails
 - Width: 0.6-1.2 meters (2-4 feet) for single file; 1.5 meters for two people
-- Materials: gravel, wood chips, stepping stones, mulch, compacted earth
+- Materials: gravel, [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]], stepping stones, mulch, compacted earth
 - Can be informal and changeable
 - Should be comfortable to walk (not too steep, good traction)
 
 ### Specialized Access
 
-- Animal tracks: Routes for rotational grazing, chicken tractors, duck runs
+- Animal tracks: Routes for [[comparison-rotational-grazing-vs-continuous-grazing]], [[mollison-designers-chicken-tractors-egg-production]], duck runs
 - Water channels: Routes for irrigation water, greywater flow
 - Fire access: Roads and cleared paths for firefighting equipment
 - Emergency egress: Secondary exits from the property
@@ -140,7 +141,7 @@ Mollison emphasizes the connection between roads and water:
 ## Related Concepts
 
 - [[permaculture-zones-and-sectors]]
-- [[permaculture-zone-and-sector-analysis]]
+- [[zone-sector-analysis-guide]]
 - [[permaculture-slope-analysis-and-reading]]
 - [[keyline-design]]
 - [[permaculture-earthworks-guide]]

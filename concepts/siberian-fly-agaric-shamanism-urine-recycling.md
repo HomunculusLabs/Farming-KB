@@ -9,7 +9,7 @@ sources: []
 
 # Siberian Fly-Agaric Shamanism — Urine Recycling and the Western Imagination
 
-The fly-agaric (Amanita muscaria) has only been consistently used as an intoxicant in two relatively small regions of Siberia, yet its story has captivated the Western imagination for nearly three centuries, largely due to the remarkable practice of urine recycling.
+The fly-agaric ([[allegro-amanita-muscaria-properties-and-pharmacology]]) has only been consistently used as an intoxicant in two relatively small regions of Siberia, yet its story has captivated the Western imagination for nearly three centuries, largely due to the remarkable practice of urine recycling.
 
 ## The Koryak Mushroom Practice
 
@@ -21,13 +21,13 @@ Von Strahlenberg's account was the first detailed European description of Siberi
 
 When the highly prized mushrooms were in short supply, the poorer Koryak could not afford to purchase them from the Russian authorities. Instead, people from lower social strata would loiter outside the dwellings whenever a mushroom feast was taking place, waiting for the moment when the guests would come out to relieve themselves. They would catch the urine in wooden bowls and drink it down, "having still some Virtue of the mushroom in it."
 
-The practice has a pharmacological basis. The active compounds in [[amanita-preparation-methods]] demonstrate a sophisticated understanding of the mushroom's pharmacology developed through centuries of empirical experimentation.
+The practice has a pharmacological basis. The active compounds in [[amanita-muscaria-preparation-methods]] demonstrate a sophisticated understanding of the mushroom's pharmacology developed through centuries of empirical experimentation.
 
 ## The Western Literary Impact
 
 This unusual practice ensured that the myth of the fly-agaric trip rapidly made a splash in the West. Oliver Goldsmith (1730-1774) brought it to popular attention in his 1766 novel The Vicar of Wakefield and his earlier Citizen of the World (1762). Goldsmith imagined what would happen were the custom introduced in London, conjuring a chain of condescension: a lord eagerly drinking from a priest, a priest from a lord, and a "simple squire drinking it double distilled from a knight."
 
-Citizen of the World remained in print until the early years of the twentieth century, ensuring the story of the Siberian urine-drinkers entered the popular imagination for generations. Goldsmith's satirical treatment — emphasizing the absurdity and social inversion of the practice — established a tone of humorous fascination that would characterise Western writing about Siberian shamanism for centuries.
+Citizen of the World remained in print until the early years of the [[coleman-louis-savier-twentieth-century-maraicher]], ensuring the story of the Siberian urine-drinkers entered the popular imagination for generations. Goldsmith's satirical treatment — emphasizing the absurdity and social inversion of the practice — established a tone of humorous fascination that would characterise Western writing about Siberian shamanism for centuries.
 
 ## Shamanism in the Western Mind
 
@@ -41,13 +41,13 @@ As the century progressed, the shaman ceased to be considered the embodiment of 
 
 This Romantic transformation had lasting consequences. The image of the shaman as a visionary artist — accessing realms of consciousness unavailable to ordinary perception — would be taken up by the [[amanita-muscaria-chemistry-and-pharmacology]] Tradition
 
-The [[mushroom-polymorphous-symbolism]].
+The mushroom-polymorphous-symbolism.
 
 ## Scholarly Reassessment
 
 Modern scholarship has questioned many aspects of the Western narrative about Siberian fly-agaric use. The urine recycling practice, while well-attested in Koryak sources, was not universal across Siberian cultures. Some groups used the mushroom primarily for its stimulant properties rather than visionary effects, consuming small amounts before hunting or long journeys. Others avoided it entirely, considering it dangerous or socially disruptive.
 
-The ethnographer Waldemar Bogoras, who studied Chukchi culture in the early twentieth century, documented considerable variation in mushroom practices even within a single ethnic group. His work suggested that the Western image of a monolithic "Siberian mushroom cult" was more a projection of European fascination than an accurate reflection of indigenous practices.
+The ethnographer Waldemar Bogoras, who studied Chukchi culture in the early twentieth century, documented considerable variation in mushroom practices even within a single ethnic group. His work suggested that the Western image of a monolithic "Siberian [[african-mushroom-cult-history]]" was more a projection of European fascination than an accurate reflection of indigenous practices.
 
 ## Contemporary Relevance
 
@@ -55,7 +55,7 @@ The story of Siberian fly-agaric shamanism continues to influence modern discuss
 
 The pharmacological research into muscimol metabolism that began with curiosity about the urine recycling practice has contributed to modern understanding of [[amanita-muscaria-fly-agaric-history-and-pharmacology]]
 
-- [[magic-mushroom-cultural-history]]
+- magic-mushroom-cultural-history
 
 - [[amanita-muscaria-chemistry-and-pharmacology]]
 
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

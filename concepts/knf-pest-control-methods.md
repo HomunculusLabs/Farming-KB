@@ -1,5 +1,5 @@
 ---
-title: Pest Control Methods
+title: comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol Methods
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-Natural Farming, as developed by [[fermented-plant-extract-fpe]] or [[knf-input-application-timing]].
+[[comparison-natural-farming-vs-permaculture]], as developed by [[fermented-plant-extract-fpe]] or [[knf-input-application-timing]].
 
 ## Fluorescent Insect Attractant (FIA)
 
@@ -27,7 +27,7 @@ Materials: Zinc sheet, fluorescent light, roofing material, basin of water, and 
 
 3. Make a roof to prevent rain damage, put a basin of water beneath the light.
 
-4. Add a few drops of gasoline or kerosene to break surface tension and drown insects.
+4. Add a few drops of gasoline or kerosene to break [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] and drown insects.
 
 The reflective zinc sheet amplifies light output and guides insects toward the water basin.
 
@@ -41,7 +41,7 @@ Proper timing and strategic placement are critical. During the egg-laying season
 
 There are two primary windows when pest control measures are most necessary:
 
-- During the peak of the [[knf-troubleshooting]]. For supplementary approaches, see [[knf-preparations]] — Instructions for preparing KNF inputs used in pest control.
+- During the peak of the [[knf-troubleshooting]]. For supplementary approaches, see [[knf-preparations]] — Instructions for preparing [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]] used in pest control.
 
 - [[fermented-plant-extract-fpe]] — An alternative ingredient for AIA traps.
 
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

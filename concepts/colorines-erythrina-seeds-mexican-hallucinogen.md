@@ -1,11 +1,12 @@
 ---
-title: Colorines - Erythrina Seeds Mexican Hallucinogen
+title: Colorines - colorines erythrina seeds mexican hallucinogen Mexican Hallucinogen
 created: 2026-04-28
 tags: [ethnobotany, mexico, erythrina, leguminosae, isoquinoline,
   seeds, hallucinogenic-plants, schultes]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 type: concept
 ---
 
@@ -13,7 +14,7 @@ type: concept
 
 Colorines is the name given to several species of Erythrina that may be used
 as hallucinogens in some parts of Mexico. The bright red beans of these
-plants resemble mescal beans (Sophora secundiflora), long used as a narcotic
+plants resemble mescal beans ([[mescal-bean-sophora-secundiflora-vision-dance]]), long used as a narcotic
 in northern Mexico and the American Southwest. Both types of beans are
 sometimes sold mixed together in herb markets, and the mescal bean plant is
 sometimes called by the same common name, colorin. Some species of Erythrina
@@ -31,7 +32,7 @@ has led to overlapping common names, with both plants sometimes being called
 "colorin," and has created considerable confusion in the ethnobotanical
 literature about which plant is actually being used in traditional practices.
 
-The mescal bean (Sophora secundiflora) has well-documented use as a
+The mescal bean ([[sophora-secundiflora-entity]]) has well-documented use as a
 narcotic and hallucinogen in the Red Bean Dance of at least 12 tribes in
 northern Mexico, New Mexico, and Texas. Archaeological evidence traces this
 use back to at least 1500 B.C. The alkaloid cytisine in mescal beans is
@@ -44,18 +45,18 @@ bean" use may actually refer to Erythrina seeds, or vice versa.
 
 The genus Erythrina comprises approximately 50 species belonging to the bean
 family, Leguminosae (also known as Fabaceae). These plants grow in the
-tropics and subtropics of both hemispheres and include both trees and shrubs.
+tropics and subtropics of both hemispheres and include both [[nitrogen-fixing-trees-and-shrubs]].
 Many Erythrina species are known for their striking red flowers, which have
 earned the genus common names such as coral tree and flame tree. The seeds
 are typically bright red with a black spot at the base, making them visually
 distinctive and easily recognized.
 
-Erythrina species are widely planted as ornamental trees in tropical and
+Erythrina species are widely planted as [[hamilton-ornamental-trees]] in tropical and
 subtropical regions worldwide, valued for their spectacular floral displays.
 Several species also have important uses in traditional agriculture, where
 they serve as shade trees, windbreaks, nitrogen fixers, and fodder plants.
 The genus has a broad distribution across Africa, the Americas, Asia, and
-the Pacific islands.
+the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
 
 ## Chemistry: Isoquinoline Alkaloids
 

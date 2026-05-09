@@ -24,10 +24,10 @@ sources:
 
 # White Rhino
 
-**White Rhino** is a legendary indica-dominant cannabis strain renowned for its potent
-relaxing effects, heavy resin production, and therapeutic value. A staple of the 1990s
+**White Rhino** is a legendary indica-dominant [[blesching-cannabis-strain-selection-receptor-targeting]] renowned for its potent
+relaxing effects, heavy [[cannabis-glandular-trichome-types-resin-production-clarke]], and therapeutic value. A staple of the 1990s
 European cannabis scene, White Rhino has maintained its reputation as a powerful
-medicinal strain favored by patients managing chronic pain, insomnia, and anxiety.
+medicinal strain favored by patients managing [[cannabis-chronic-pain-management]], insomnia, and anxiety.
 
 ## Quick Facts
 
@@ -37,18 +37,18 @@ medicinal strain favored by patients managing chronic pain, insomnia, and anxiet
 | **THC Content** | 18–22% |
 | **CBD Content** | Low (<1%) |
 | **Breeder** | Green House Seeds |
-| **Lineage** | White Widow × Unknown North American Indica |
+| **Lineage** | White Widow × Unknown [[growing-gourmet-north-american-reishi-species]] Indica |
 | **Flowering Time** | 8–9 weeks (indoor) |
 | **Yield** | High (400–500 g/m² indoor; 600–900 g/plant outdoor) |
 
 ## Lineage & Breeding
 
 White Rhino was created by **Green House Seeds**, one of the most prominent seed banks
-in Amsterdam and a foundational force in modern cannabis genetics. The strain is the
+in Amsterdam and a foundational force in modern [[vic-high-cannabis-genetics-mendelian-inheritance]]. The strain is the
 result of crossing the iconic **White Widow** — itself a legendary Brazilian sativa ×
 South Indian indica hybrid — with an **unknown North American indica**. This indica
 parent is believed to contribute the strain's heavy body effects and abbreviated
-flowering cycle.
+[[cannabis-sativa-flowering-cycle-management]].
 
 The introduction of the North American indica to the White Widow lineage resulted in a
 strain that retained its parent's generous trichome production while dramatically

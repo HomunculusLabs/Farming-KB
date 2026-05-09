@@ -17,7 +17,7 @@ updated: 2026-04-28
 sources:
   - Watling, R. (1970). "The genus Xerocomus." Notes from the Royal Botanic Garden Edinburgh, 30(2), 207-235.
   - Smith, A.H. & Thiers, H.D. (1971). "The Boletes of Michigan." University of Michigan Press.
-  - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "North American Boletes." Syracuse University Press.
+  - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "[[growing-gourmet-north-american-reishi-species]] Boletes." Syracuse University Press.
   - Krombholz, J.V. (1831-1846). "Naturgetreue Abbildungen und Beschreibungen der Schwämme."
 aliases:
   - Red-cracking Bolete
@@ -82,7 +82,7 @@ mycelium. No ring or volva present.
 Often shows a reddish line just beneath the cap cuticle. Odor is pleasant,
 faintly fruity. Taste is mild.
 
-**Spore print:** Olive-brown to olive-yellow.
+**[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Olive-brown to olive-yellow.
 
 **Spores:** 10–14 × 4.5–6 µm, subfusiform to ellipsoid, smooth, yellowish-brown in KOH. Q value: 2.0–2.6.
 
@@ -119,7 +119,7 @@ blue bruising reaction.
 ## Ecological Role
 
 As an ectomycorrhizal partner to a broad range of trees, *X. chrysenteron*
-plays an important role in forest ecosystem nutrient dynamics. The species
+plays an important role in [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] nutrient dynamics. The species
 facilitates phosphorus and micronutrient uptake for host trees in exchange
 for photosynthetically derived carbon.
 
@@ -136,6 +136,8 @@ Several boletes can be confused with *X. chrysenteron*:
 - **Tylopilus felleus** — pink pore surface, extremely bitter taste, inedible.
 - **Boletus edulis** — much larger, white pore surface, reticulate stipe.
 ## See Also
+
+- [[xerocomellus-chrysenteron]]
 
 - [[suillus-luteus]]
 - [[xerocomus-subtomentosus]]

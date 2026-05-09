@@ -1,5 +1,5 @@
 ---
-title: "Antifungal Secondary Metabolites from Coprophilous Fungi"
+title: "Antifungal antifungal secondary metabolites coprophilous fungi from Coprophilous Fungi"
 created: 2026-04-26
 tags:
   - mycology
@@ -53,7 +53,7 @@ in dung.
 
 [[ascomycota-phylogeny-major-classes-lineages]].
 These compounds exhibit broad-spectrum antifungal activity
-and some show cytotoxic activity against cancer cell
+and some show cytotoxic activity against [[blesching-cannabis-apoptosis-and-cancer-cell-death]]
 lines. The spiroketal ring system that links the two
 naphthalene units is a distinctive structural feature.
 
@@ -62,8 +62,8 @@ naphthalene units is a distinctive structural feature.
 Several coprophilous fungi produce modified sterols
 and fatty acid derivatives with antifungal activity.
 These include unusual sterol esters, hydroxylated
-fatty acids, and polyketide-derived macrolides. Some
-of these compounds interfere with fungal membrane
+[[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]], and polyketide-derived macrolides. Some
+of these compounds interfere with [[ergosterol-fungal-membrane-biology]]
 integrity or ergosterol biosynthesis.
 
 ### Peptaibiotics
@@ -91,6 +91,6 @@ following groups:
   Nemania species with diverse secondary metabolite
   profiles.
 - **Chaetomiaceae**: Chaetomium species producing
-  cytochalasans and other bioactive compounds.
+  cytochalasans and other [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]].
 - **Pleosporaceae**: Various genera producing
 ## See Also

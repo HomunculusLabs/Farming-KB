@@ -29,7 +29,7 @@ sources:
 
 ## Overview
 
-Turnera diffusa, commonly known as **Damiana**, is a small aromatic shrub native to the subtropical regions of the Americas, from southern Texas through Mexico, Central America, and the Caribbean. It has a long history of use in indigenous and folk medicine as an aphrodisiac, nervine tonic, digestive aid, and mild antidepressant. The leaves contain a complex mixture of flavonoids, essential oils, and alkaloids, and are consumed as tea, tincture, extract, or smoked. Damiana remains popular in herbal medicine traditions and the modern botanical supplement industry.
+Turnera diffusa, commonly known as **Damiana**, is a small aromatic shrub native to the subtropical regions of the Americas, from southern Texas through Mexico, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], and the Caribbean. It has a long history of use in indigenous and folk medicine as an aphrodisiac, nervine tonic, digestive aid, and mild antidepressant. The leaves contain a complex mixture of flavonoids, [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]], and alkaloids, and are consumed as tea, tincture, extract, or smoked. Damiana remains popular in herbal medicine traditions and the modern botanical supplement industry.
 
 ## Taxonomy
 
@@ -53,7 +53,7 @@ Damiana is a small, upright to spreading shrub reaching 60–180 cm in height. I
 
 ## Geographic Distribution
 
-- **North America:** Southern Texas (Rio Grande Valley) south through Mexico
+- **[[psilocybin-north-america-pacific-northwest]]:** Southern Texas (Rio Grande Valley) south through Mexico
 - **Central America:** Guatemala, Belize, Honduras, Nicaragua, Costa Rica
 - **Caribbean:** Cuba, Jamaica, the Bahamas
 - **South America:** Northern Colombia and Venezuela
@@ -98,7 +98,7 @@ The steam-distilled oil (0.2–0.9% yield) contains 1,8-cineole (~15–20%), α-
 
 ### Aphrodisiac Effects
 
-A 2009 study in the *Journal of Ethnopharmacology* found Damiana extract significantly increased sexual behavior parameters in male rats. Effects are attributed to combined flavonoid action on the CNS and mild vasodilatory essential oil components. Human clinical trials remain limited.
+A 2009 study in the *Journal of Ethnopharmacology* found Damiana extract significantly increased sexual behavior parameters in male rats. Effects are attributed to combined flavonoid action on the CNS and mild vasodilatory essential oil components. Human [[mushroom-cancer-clinical-trials-overview]] remain limited.
 
 ### Anxiolytic and Antidepressant Activity
 
@@ -129,8 +129,10 @@ Damiana is well-suited to warm-climate food forests and permaculture gardens. Dr
 
 ## See Also
 
-- [[damiana]]
+- [[boerhavia-diffusa]]
+
+- turnera diffusa
 - [[withania-somnifera]] — adaptogenic herb with overlapping nervine and aphrodisiac indications
 - [[bacopa-monnieri]] — nootropic nervine herb from the Ayurvedic tradition
-- [[comfrey]] — traditional medicinal plant with permaculture applications
+- comfrey — traditional medicinal plant with permaculture applications
 - [[pausinystalia-yohimbe]]

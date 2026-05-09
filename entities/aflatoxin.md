@@ -54,11 +54,11 @@ Aflatoxin contamination can occur at every stage of the food supply chain — pr
 
 Prevention and mitigation strategies include:
 
-- **Biological control:** Application of non-toxigenic strains of A. flavus (e.g., Afla-Guard®) to competitively displace toxigenic strains in fields
-- **Good agricultural practices (GAP):** Timely harvest, proper drying to safe moisture levels, and insect control
+- **[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]:** Application of non-toxigenic strains of A. flavus (e.g., Afla-Guard®) to competitively displace toxigenic strains in fields
+- **Good agricultural practices (GAP):** Timely harvest, proper drying to safe moisture levels, and [[mushroom-pests-insect-control-stamets]]
 - **Nixtamalization:** Traditional Mesoamerican alkaline cooking of maize reduces aflatoxin levels by 80–95%
 - **Binders and adsorbents:** Clay minerals (e.g., bentonite, NovaSil™) added to animal feed can sequester aflatoxins in the gastrointestinal tract
-- **Breeding for resistance:** Development of crop varieties with reduced susceptibility through marker-assisted selection
+- **Breeding for resistance:** Development of [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]] with reduced susceptibility through marker-assisted selection
 
 ## Health Effects in Humans
 
@@ -82,12 +82,12 @@ Accurate detection of aflatoxins requires sensitive analytical techniques:
 
 ## Historical Context and Discovery
 
-Aflatoxins were first identified in 1960 following the catastrophic "Turkey X disease" outbreak in England, in which approximately 100,000 turkeys died from a mysterious hemorrhagic illness traced to contaminated Brazilian peanut meal in commercial feed. The investigation, led by scientists at the Tropical Products Institute in London, identified *Aspergillus flavus* contamination as the causative agent and isolated the toxic compounds responsible.
+Aflatoxins were first identified in 1960 following the catastrophic "[[aflatoxin-turkey-x-disease-1960-discovery-peanut-meal]]" outbreak in England, in which approximately 100,000 turkeys died from a mysterious hemorrhagic illness traced to contaminated Brazilian peanut meal in commercial feed. The investigation, led by scientists at the Tropical Products Institute in London, identified *Aspergillus flavus* contamination as the causative agent and isolated the toxic compounds responsible.
 
 Key milestones in aflatoxin research:
 
 - **1961:** Aflatoxins chemically characterized as the causative agents of Turkey X disease
-- **1962:** Chemical structures of B₁ and G₁ determined by researchers at the USDA Western Regional Research Laboratory
+- **1962:** [[plants-of-the-gods-chemical-structures-hallucinogens]] of B₁ and G₁ determined by researchers at the USDA Western Regional Research Laboratory
 - **1970s–1980s:** Recognition of aflatoxin B₁ as a potent liver carcinogen, with extensive mechanistic studies
 - **1987:** IARC classification of naturally occurring aflatoxins as Group 1 (carcinogenic to humans)
 - **1993:** TP53 codon 249 mutation established as a molecular signature of aflatoxin-induced HCC
@@ -107,7 +107,7 @@ Aflatoxin contamination has far-reaching economic consequences beyond direct hea
 
 - [[aspergillus-oryzae]] — Produces both B-group and G-group aflatoxins
 - ochratoxin — Another significant mycotoxin produced by Aspergillus and Penicillium species
-- [[ergosterol]] — Fungal membrane sterol used as a biomarker for fungal contamination
+- [[ergosterol]] — [[ergosterol-fungal-membrane-biology]] sterol used as a biomarker for fungal contamination
 - hepatocellular carcinoma — Primary cancer associated with chronic aflatoxin exposure
 - sterigmatocystin — Biosynthetic precursor of aflatoxins with lower toxicity
 - nixtamalization — Traditional maize processing technique that reduces aflatoxin levels

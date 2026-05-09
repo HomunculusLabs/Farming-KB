@@ -9,7 +9,7 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 
 # Herbal Plant Remedies
 
-Simple traditional herbal remedies that can be made by people with small gardens without great difficulty, as described by Sepp Holzer. These were once found in almost every "home pharmacy." As the potency of medicinal plants can vary from place to place, recipes should be adapted — with experience, the correct strength can easily be determined.
+Simple traditional herbal remedies that can be made by people with small gardens without great difficulty, as described by [[comparison-sepp-holzer-vs-biodynamic]]. These were once found in almost every "home pharmacy." As the potency of medicinal plants can vary from place to place, recipes should be adapted — with experience, the correct strength can easily be determined.
 
 ## Calendula Salve (Calendula officinalis)
 
@@ -20,7 +20,7 @@ A wound-healing and anti-inflammatory salve made from the whole calendula plant.
 1. Cut two heaped double handfuls of calendula (whole plant including stem, leaves, and flowers) finely
 2. Heat roughly half a litre of lard (available from a butcher) in a pan
 3. Carefully fry the calendula in the lard, keeping it moving
-4. Alternative: use olive oil or other vegetable oil instead of lard
+4. Alternative: use [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]] or other vegetable oil instead of lard
 5. Cover the mixture and leave to stand for one day
 6. Lightly warm, then filter through a cloth into a container
 
@@ -111,7 +111,7 @@ An old traditional remedy made from rendered animal bones, used for wounded live
 - Treatment of wounded livestock
 - Watered-down form spread on draught animals to protect from flies and horseflies at haymaking/harvest times
 - Deterrent against bark stripping in forest cultures
-- Protection for fruit trees from rodent gnawing — mix with linseed oil, fresh cow dung, slaked lime, and very fine quartz sand to paintable consistency
+- Protection for [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] from rodent gnawing — mix with linseed oil, fresh cow dung, slaked lime, and very fine quartz sand to paintable consistency
 
 ## Sage Tea (Salvia officinalis)
 
@@ -125,5 +125,5 @@ Mentioned by Holzer as a well-established remedy. Sage nutrient content is great
 ## Related
 
 - [[sepp-holzer-method]] — Holzer's broader permaculture philosophy and techniques
-- [[alkaline-soil-plants]] — many medicinal herbs tolerate alkaline conditions
+- [[alkaline-soil-plants]] — many [[permaculture-plants-medicinal-herbs-healing]] tolerate alkaline conditions
 - [[soil-food-web-nutrient-cycling]] — healthy soil grows more potent medicinal plants

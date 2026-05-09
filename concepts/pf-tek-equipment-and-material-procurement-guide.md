@@ -23,7 +23,7 @@ professional mycological methods requiring specialized laboratory equipment.
 
 The complete materials list is organized into three stages corresponding to
 the major phases of cultivation: jar preparation and culturing, mushroom
-growing and fruiting, and spore printing with syringe making.
+growing and fruiting, and [[mushroom-spore-printing-and-storage]] with syringe making.
 
 ## Stage One: Measuring and Sterilization Equipment
 
@@ -36,7 +36,7 @@ The correct standard is 1 cup equals 237 milliliters, which is 1/2 pint or
 in a quart. Cultivators should verify their measuring equipment against these
 standards before beginning.
 
-A large pot is needed for steam sterilization. The pot must have a
+A large pot is needed for [[pf-tek-steam-sterilization-pot-method-common-pottery]]. The pot must have a
 tight-fitting lid, which is described as essential for successful steaming.
 A 3-piece vegetable steamer consisting of a pot, basket insert, and lid is
 the recommended configuration.
@@ -65,7 +65,7 @@ coffee bean grinder for maximum freshness. Freshly ground brown rice is
 recommended over prepackaged type.
 
 Horticultural vermiculite in medium or fine grade, but not powdery, comes
-from garden centers and hardware stores. Distilled or filtered drinking water
+from [[solomon-garden-centers-seedling-traps]] and hardware stores. Distilled or filtered drinking water
 rounds out the substrate ingredients.
 
 Heavy-duty tin foil is used for covering jars when no canning lids are
@@ -76,7 +76,7 @@ a sharpened 3-penny nail held with vise grip pliers punches the needle holes.
 ## Stage Two: Fruiting Chamber Materials
 
 The centerpiece of the fruiting stage is a standard 10-gallon aquarium, which
-serves as the dual chambered terrarium. A 10-gallon aquarium has outside
+serves as the dual [[dual-chambered-terrarium-design]]. A 10-gallon aquarium has outside
 dimensions of approximately 24 by 14.5 inches and inside dimensions of
 approximately 21.25 by 12 inches, though dimensions may vary.
 
@@ -119,7 +119,7 @@ recommended.
 
 Micro curved cuticle scissors from cosmetics or drug stores are used to snip
 mushroom caps for spore printing. Denatured alcohol from hardware stores
-serves as fuel for the alcohol flame sterilization technique.
+serves as fuel for the alcohol [[flammability-hazard-alcohol-lysol-flame-sterilization-mycology]] technique.
 
 A tequila shot glass and eye dropper facilitate the flame sterilization
 process. A small Pyrex glass stirring rod from scientific and lab supply
@@ -134,13 +134,15 @@ pharmacies, drug stores, or scientific and lab supply sources.
 
 The lid is placed with the rubber sealing edge upwards on a supporting
 surface. Using a sharpened 3-penny nail held with vise grip pliers, 4 holes
-are punched inside the periphery of the rubber sealing edge. The lid is
 ## Related Concepts
 
-- [[pf-tek-substrate-jar-preparation-and-steam-sterilization]] for jar preparation
-- [[pf-tek-dual-chamber-terrarium-fruiting-conditions]] for terrarium assembly
-- [[pf-tek-syringe-sterilization-and-storage]] for syringe preparation and storage
+- pf-tek-substrate-jar-preparation-and-steam-sterilization for jar preparation
+- pf-tek-dual-chamber-terrarium-fruiting-conditions for terrarium assembly
+- [[pf-tek-syringe-sterilization-and-storage]] for [[mushroom-spore-syringe-preparation-and-storage]] and storage
 
 ## See Also
 
-- [[pf-tek-ethyl-alcohol-procurement-guide]]
+- pf-tek-ethyl-alcohol-procurement-guide
+- [[fruiting-chamber]]
+- [[dual-chambered-terrarium-fruiting]]
+- [[sterilization]]

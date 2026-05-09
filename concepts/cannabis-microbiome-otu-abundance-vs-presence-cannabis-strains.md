@@ -1,5 +1,5 @@
 ---
-title: "OTU Abundance vs Presence-Absence in Cannabis Microbiome Structuring"
+title: "OTU Abundance vs Presence-Absence in cultivar-cannabis-microbiome-two-tier-selection-model Structuring"
 source: "understanding-cultivar-specificity-cannabis-microbiome.md"
 tags: [cannabis, microbiome, otu, strain-specificity, soil-type, alpha-diversity, rhizosphere]
 created: 2026-05-08
@@ -12,7 +12,7 @@ created: 2026-05-08
 A critical finding from the Winston et al. (2014) study of Cannabis microbiomes
 is that plant strain (cultivar) and soil type exert their influence through
 fundamentally different mechanisms. Soil type primarily determines which
-microbial taxa are *present or absent* (community composition), while Cannabis
+microbial taxa are *present or absent* ([[core-endorhiza-bacterial-community-composition-cannabis]]), while Cannabis
 cultivar primarily shapes the *relative abundances* of those taxa within the
 endorhiza. This distinction has important implications for understanding how
 plant-microbe partnerships form and how they might be manipulated in
@@ -52,7 +52,7 @@ When abundance was factored in using weighted UniFrac distances and ANOVA:
 - **Strain** produced **71** significant OTU differences
 
 The appearance of 71 strain-dependent OTUs in the weighted analysis, contrasted
-with zero in the unweighted analysis, demonstrates that cultivar effects are
+with zero in the unweighted analysis, demonstrates that [[cannabis-cultivar-effects-soil-microbiome]] are
 almost entirely mediated through changes in relative abundance of shared taxa,
 not through selective inclusion or exclusion of specific bacteria.
 
@@ -110,17 +110,17 @@ present in the soil, knowing the plant will adjust their relative abundances.
 
 The dramatic dominance of soil type in determining microbial composition
 suggests that matching soil properties to desired microbial profiles is more
-important than strain selection for establishing beneficial microbiomes.
+important than [[blesching-cannabis-strain-selection-receptor-targeting]] for establishing beneficial microbiomes.
 
 ### Synthetic Communities (SynComs)
 
 The finding that cultivars share most of their endorhiza OTUs (differing only
-in abundance) means that a single synthetic microbial community could serve
+in abundance) means that a single synthetic [[edaphic-factors-microbial-community-structure]] could serve
 multiple cultivars, with the plant naturally adjusting population ratios.
 
 ## Limitations and Considerations
 
-- The study analyzed only bacterial communities via 16S rRNA; fungal and
+- The study analyzed only [[cultivar-endorhiza-bacterial-communities-cannabis]] via 16S rRNA; fungal and
   archaeal communities may show different patterns
 - Sample sizes were relatively small (6-9 plants per experiment)
 - The first experiment sampled post-harvest, potentially confounding results

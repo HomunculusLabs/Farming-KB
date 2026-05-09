@@ -9,7 +9,7 @@ sources:
 ---
 # Garden Plant Groupings
 
-[[permaculture-design]] tool based on the principle that certain plant combinations benefit each other through pest control, nutrient sharing, improved pollination, or microclimate modification. This guide draws from "Permaculture Plants: A Selection" to provide practical companion planting lists for the home garden and food forest.
+[[permaculture-design]] tool based on the principle that certain plant combinations benefit each other through [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], nutrient sharing, improved pollination, or microclimate modification. This guide draws from "Permaculture Plants: A Selection" to provide practical [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] lists for the [[cool-climate-home-garden-mollison]] and food forest.
 
 ## Design Principles
 
@@ -17,7 +17,7 @@ Every element in a permaculture system should serve many functions, and every fu
 
 - Pair plants that provide mutual benefits rather than competing
 - Include nitrogen fixers near heavy-feeding crops
-- Use aromatic herbs to repel pests and attract beneficial insects
+- Use aromatic herbs to repel pests and attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 - Create vertical stacking with compatible species
 - Consider that many species have natural companions still unknown
 
@@ -26,7 +26,7 @@ This list is a starting point. Many species have natural companions listed throu
 ## Fruit and Nut Tree Companions
 
 ### Apple
-- **Good companions**: [[tagasaste]], lucerne
+- **Good companions**: tagasaste, lucerne
 
 ### Apricot
 - **Good companions**: tagasaste, lucerne, [[acacia]] saligna (inter-swales/inter-rows), basil, tansy, southernwood
@@ -58,9 +58,9 @@ This list is a starting point. Many species have natural companions listed throu
 - **Good companions**: Albizia lophantha, tagasaste, garlic, lucerne
 
 ### General Tree Companions
-Most fruit and nut trees benefit from:
+Most fruit and [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]] benefit from:
 - **Tagasaste** (Chamaecytisus palmensis): nitrogen-fixing nurse tree
-- **Lucerne** (alfalfa): nitrogen fixer, bee forage, good lock-up fodder
+- **Lucerne** (alfalfa): nitrogen fixer, [[mollison-designers-bee-forage-tree-planting]], good lock-up fodder
 - **Garlic**: pest deterrent
 
 ## Vegetable and Herb Companions (Good)
@@ -143,4 +143,7 @@ Companions: squash, cucumber
 ### Sweetcorn
 Companions: broad beans, potatoes, melons, tomatoes, cucumber, squash
 
-### Tomatoes
+## See Also
+- [[companion-planting]]
+- [[chamaecytisus-palmensis]]
+- [[gaias-garden-plant-roles-ecological-theater]]

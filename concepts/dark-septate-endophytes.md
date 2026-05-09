@@ -1,5 +1,5 @@
 ---
-title: Dark Septate Endophytes
+title: Dark dark-septate-endophytes-root-colonizing-fungi
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -19,13 +19,13 @@ Dark septate endophytes are defined by their distinctive morphology within root 
 - **Chlamydospores**: thick-walled resting spores produced in soil or on root surfaces
 - In culture, DSE characteristically have thick-walled, dark-pigmented, septate hyphae and are usually sterile or very slow to sporulate
 
-The dark pigmentation from melanin provides resistance to environmental stresses including UV radiation, temperature extremes, and microbial attack. This melanization distinguishes DSE from other root endophytes and contributes to their ecological success in stressful environments.
+The dark pigmentation from melanin provides resistance to environmental stresses including UV radiation, temperature extremes, and microbial attack. This melanization distinguishes DSE from other root endophytes and contributes to their ecological success in [[fungi-stressful-environments-thermophilic-xerophilic-halophilic]].
 
 ## Distribution and Abundance
 
 Dark septate endophytes are globally distributed and found in association with a wide range of host plants:
 - They occur in Arctic, alpine, temperate, and tropical ecosystems
-- Particularly abundant in extreme or stressed environments where arbuscular mycorrhizal fungi may be limited
+- Particularly abundant in extreme or stressed environments where [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi may be limited
 - Commonly found in Arctic and alpine plant communities, saline soils, heavy metal-contaminated sites, and dry habitats
 - Frequently colonize non-mycorrhizal plant families (e.g., Brassicaceae, Caryophyllaceae)
 - Often co-occur with mycorrhizal fungi in the same root systems
@@ -49,14 +49,14 @@ DSE exhibit two main types of root colonization:
 
 The functional significance of DSE associations remains debated but includes:
 - **Nutrient acquisition**: some evidence suggests DSE enhance phosphorus and nitrogen uptake, though less efficiently than mycorrhizal fungi
-- **Stress tolerance**: DSE may help host plants tolerate drought, salinity, heavy metals, and temperature extremes
+- **[[fungal-lichen-stress-tolerance-and-poikilohydry]]**: DSE may help host plants tolerate drought, salinity, heavy metals, and temperature extremes
 - **Pathogen protection**: DSE colonization may provide some protection against soil-borne plant pathogens
 - **Plant growth promotion**: some DSE isolates have been shown to stimulate root growth and shoot biomass in controlled experiments
 
 ### Mutualism vs. Commensalism vs. Parasitism
 
 The nature of DSE-plant interactions varies along a continuum:
-- Some DSE act as mutualists, benefiting plant growth and stress tolerance
+- Some DSE act as mutualists, benefiting plant [[query-how-do-phytohormones-regulate-plant-growth-and-stress-responses]] tolerance
 - Others may be commensalists, colonizing roots without significant benefit or harm
 - Under certain conditions, DSE may act as weak parasites, particularly under nutrient-rich conditions
 
@@ -74,7 +74,7 @@ Studying DSE requires specific approaches:
 - Root tissues are collected, washed, and surface-sterilized (serial washing often preferred over chemical sterilization)
 - Segments are plated onto malt extract agar or potato dextrose agar, often with antibiotics
 - DSE grow slowly, requiring prolonged incubation (weeks to months)
-- Many isolates remain sterile, requiring molecular identification via ITS sequencing
+- Many isolates remain sterile, requiring [[biodiversity-fungal-molecular-identification-dna-barcoding]] via ITS sequencing
 - Colonization assessment in roots uses staining with trypan blue or acid fuchsin
 
 ## Comparison with Mycorrhizal Fungi
@@ -89,7 +89,7 @@ DSE share some ecological characteristics with mycorrhizal fungi but differ in i
 
 - [[endophyte-isolation-techniques]]
 - [[arbuscular-mycorrhizal-fungi]]
-- [[fungal-biodiversity-alpine-arctic]]
+- fungal-biodiversity-alpine-arctic
 
 ## References
 

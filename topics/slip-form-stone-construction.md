@@ -1,6 +1,6 @@
 ---
-title: Slip Form Stone Construction
-subtitle: A natural building method that casts stone and concrete walls inside reusable temporary forms
+title: comparison-slip-form-stone-vs-timber-frame Construction
+subtitle: A [[query-how-do-i-choose-a-natural-building-method-for-my-climate]] method that casts stone and concrete walls inside reusable temporary forms
 tags: [natural-building, stone-masonry, slipform, homesteading, thermal-mass, owner-builder]
 date: 2026-05-02
 updated: 2026-05-02
@@ -37,7 +37,7 @@ Traditional stonemasonry required careful shaping, coursing, and jointing by ski
 Slip form work allowed rural builders to use fieldstone, concrete, and ordinary lumber to make strong walls with less specialized training.
 It became especially visible in twentieth-century homesteading and back-to-the-land movements.
 Builders valued the method because many farms and mountain sites contain stone piles produced by clearing, excavation, or road work.
-Natural building literature later discussed slip form stone alongside [[cordwood-construction]], [[earthbag-construction]], [[cob-building]], and straw bale construction.
+Natural building literature later discussed slip form stone alongside [[cordwood-construction]], [[earthbag-construction]], [[cob-building]], and straw [[straw-bale-construction-vs-earthbag-construction]].
 Its sustainability depends on context: local stone and long service life are ecological advantages, while cement use is a significant environmental cost.
 For that reason, slip form is best understood as a durable local-material strategy rather than a purely earthen building system.
 ## Materials
@@ -88,7 +88,7 @@ The wall should not be treated as decorative stone veneer; it is a structural sy
 ## Thermal Performance
 Slip form stone provides thermal mass rather than insulation.
 Stone and concrete absorb heat slowly and release it slowly, moderating indoor temperature swings.
-This can be valuable in passive solar design when sun warms an interior masonry surface during the day.
+This can be valuable in [[comparison-passive-solar-vs-earth-sheltered]] design when sun warms an interior masonry surface during the day.
 It can also help in climates with hot days and cool nights.
 However, solid stone and concrete conduct heat readily compared with insulated wall systems.
 In cold climates, an uninsulated slip form wall can feel cold and waste energy.
@@ -104,7 +104,7 @@ In freezing climates, saturated masonry can spall when trapped water expands as 
 The best buildings manage water before it enters the wall rather than relying on later repairs.
 A dry wall is both warmer and longer lasting.
 ## Advantages
-Slip form stone can turn a local nuisance, such as fieldstone, into a valuable building material.
+Slip form stone can turn a local nuisance, such as fieldstone, into a valuable [[fungal-building-material-deterioration]].
 It produces walls that are durable, fire-resistant, pest-resistant, and visually distinctive.
 The exposed stone face often needs no additional finish.
 The mass provides sound isolation and useful heat storage.

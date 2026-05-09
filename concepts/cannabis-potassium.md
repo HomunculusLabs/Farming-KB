@@ -15,10 +15,10 @@ tags: [cannabis]
 Potassium is a primary [[cannabis-magnesium-nutrient]], [[query-how-to-fix-zinc-deficiency-in-cannabis]] and [[cannabis-organic-fertilizers]] can add potassium through:
 
 - Soluble potash (wood ashes) mixed with water
-- Kelp meal and seaweed extracts
+- [[comparison-kelp-meal-vs-rock-dust]] and seaweed extracts
 - Greensand (glauconite)
 - Banana peels (composted)
-- Composted wood ash (sparingly -- pH is normally above 10)
+- [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] ash (sparingly -- pH is normally above 10)
 - Granite dust (slow release)
 
 Be careful when using wood ash -- the pH is normally above 10. Use a pH-lowering mix to bring the pH to around 6.5 before application. Avoid using alkaline wood ashes in soil with a pH above 6.5.
@@ -48,7 +48,7 @@ Potassium-starved plants initially appear healthy, which makes early detection d
 
 ### Treatment
 
-Fertilize with a complete [[cannabis-foliar-feeding]] to cure a potassium deficiency is not recommended.
+Fertilize with a complete [[cannabis-foliar-feeding]] to cure a [[knf-potassium-deficiency-and-excess]] is not recommended.
 
 During flowering, a foliar spray of potassium can help flowering, especially if temperatures dip below 50F (10C) or above 80F (25C).
 
@@ -81,8 +81,8 @@ Potassium is used at all stages of growth but becomes particularly important dur
 - Using wood ash without checking and adjusting pH (ash is extremely alkaline, pH above 10)
 - Failing to account for sodium in irrigation water, which competes with potassium uptake
 - Confusing early potassium deficiency signs with normal late-flowering yellowing
-- Using foliar feeding as the primary correction for potassium deficiency (it is not recommended)
-- Not flushing excess potassium before it cascades into magnesium deficiency
+- Using [[comparison-foliar-feeding-vs-compost-tea-nutrients]] as the primary correction for potassium deficiency (it is not recommended)
+- Not flushing excess potassium before it cascades into [[query-how-to-fix-magnesium-deficiency-in-cannabis]]
 
 ## See Also
 

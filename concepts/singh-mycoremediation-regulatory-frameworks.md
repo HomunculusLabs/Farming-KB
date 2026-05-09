@@ -1,5 +1,5 @@
 ---
-title: "Mycoremediation Regulatory Frameworks"
+title: "singh mycoremediation regulatory frameworks Frameworks"
 created: 2026-04-28
 tags: [mycoremediation, regulation, environmental-policy, remediation-standards, compliance]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: concept
 
 # Mycoremediation Regulatory Frameworks
 
-The deployment of fungal bioremediation technologies operates within complex
+The deployment of [[staycare-composting-as-a-fungal-bioremediation-strategy]] technologies operates within complex
 regulatory landscapes that govern environmental cleanup standards, biological
 agent release, waste management, and site closure. Singh's treatment of
 regulatory considerations emphasizes that navigating these frameworks is often
@@ -27,11 +27,11 @@ Mycoremediation projects intersect with multiple regulatory domains:
 - **Contaminated site cleanup regulations**: Cleanup standards that define
   target concentrations for soil, groundwater, and surface water remediation.
 - **Biological agent regulations**: Restrictions on introducing non-native or
-  [[singh-fungal-degradation-pcbs-dioxins]] and other persistent
+  singh-fungal-degradation-pcbs-dioxins and other persistent
   compounds, demonstrating complete mineralization versus intermediate
   accumulation is critical. [[singh-fungal-biosorption-heavy-metals]] processes must achieve regulatory metal
 concentration limits for soil and groundwater. Unlike organic degradation where
-complete mineralization is the goal, metal biosorption transfers contaminants
+complete mineralization is the goal, [[fungal-heavy-metal-biosorption-and-detoxification]] transfers contaminants
 from soluble to solid phases. Regulators require evidence of long-term metal
 immobilization stability, typically through leaching tests and geochemical
 modeling. [[singh-chromium-bioremediation-fungi]] reducing Cr(VI) to Cr(III))
@@ -51,7 +51,7 @@ USDA-APHIS regulations if plant-associated. The EU's Directive 2009/41/EC
 on contained use of genetically modified microorganisms and Directive
 2001/18/EC on deliberate release impose additional requirements.
 
-Key regulatory concerns for engineered fungi include:
+Key regulatory concerns for [[singh-genetically-engineered-fungi-bioremediation]] include:
 
 - **Horizontal gene transfer**: Risk assessment must evaluate the potential
   for introduced genes to transfer to native microbial populations.
@@ -62,10 +62,10 @@ Key regulatory concerns for engineered fungi include:
 
 ## Waste Management Classification
 
-Treatment residuals from fungal remediation processes must be classified
+Treatment residuals from [[cotter-pet-livestock-waste-fungal-remediation-systems]] processes must be classified
 and managed according to waste regulations:
 
-- **Spent fungal biomass**: [[singh-composted-fungal-biomass-heavy-metal-immobilization]]
+- **Spent [[bioremediation-fungal-biomass-biosorbent-material]]**: [[singh-composted-fungal-biomass-heavy-metal-immobilization]]
   from metal-contaminated sites requires appropriate disposal or reuse
   permitting.
 - **Treatment media**: Spent packing materials from [[fungal-immobilization-bioreactor-systems]] may require hazardous waste management if
@@ -89,3 +89,7 @@ and data quality objectives. Singh identifies strategies for advancing acceptanc
    communities builds confidence in proposed approaches.
 5. **Training and certification**: Professional development builds technical
    literacy in fungal remediation principles.
+
+## See Also
+
+- [[singh-ecology-of-mycoremediation]]

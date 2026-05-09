@@ -1,5 +1,5 @@
 ---
-title: Energy Efficiency and Caloric Accounting in Agriculture
+title: fukuoka-textdoc-energy-efficiency-agricultural-labor and Caloric Accounting in Agriculture
 created: 2026-04-28
 tags: [fukuoka, agriculture, energy, food-systems]
 date: 2026-04-28
@@ -21,16 +21,16 @@ modern agriculture is not toward abundance but toward collapse.
 Natural farming produces 130 pounds of rice — or 200,000 kilocalories of
 energy — per man-day of labor, without the input of any outside materials.
 This is approximately 100 times the daily caloric intake (2,000 kcal) of a
-farmer on a natural diet. The farmer produces vastly more food energy than
+farmer on a [[fukuoka-natural-diet-as-foundation]]. The farmer produces vastly more food energy than
 he consumes, with essentially zero external energy inputs beyond human
-labor. Straw is returned to the field, green manure fixes nitrogen, and the
+labor. Straw is returned to the field, [[comparison-green-manure-guide-vs-mulch-types-and-effects]] fixes nitrogen, and the
 soil builds itself through biological processes.
 
 This extraordinary efficiency is possible precisely because natural farming
 does not fight against nature. It does not expend energy on plowing,
 fertilizer production, pesticide application, or irrigation pumping. Nature
 performs these services for free through the activity of microorganisms,
-insects, and natural nutrient cycling.
+insects, and natural [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 ## The Energy Escalation of Modern Farming
 
@@ -122,6 +122,8 @@ productive method — it is the only method that is genuinely productive at
 all.
 
 ## See Also
+
+- [[fukuoka-textdoc-fox-rabbit-grass-energy-cascade-caloric-waste-luxury-foods]]
 
 - [[fukuoka-textdoc-entanglement-natural-scientific-farming]]
 - [[fukuoka-textdoc-laying-waste-land-sea]]

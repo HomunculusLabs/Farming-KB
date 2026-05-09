@@ -10,7 +10,7 @@ sources:
 
 # Stem Butt and Cardboard Cultivation
 
-Low-tech methods for expanding mycelium without laboratory equipment. From [[paul-stamets]]' *Mycelium Running* (2005). See also [[inoculation-methods]] and [[mycelium-running-techniques]].
+Low-tech methods for expanding mycelium without laboratory equipment. From [[paul-stamets]]' *[[woodlovers-mycelium-running-pathway-technique]]* (2005). See also [[inoculation-methods]] and [[mycelium-running-techniques]].
 
 ## Stem Butt Revolution
 
@@ -36,15 +36,15 @@ The stem butt method uses the bottom portion of harvested mushrooms to generate 
 - Slower than commercial spawn (typically 1 year longer)
 - Not all strains survive the transfer
 - Trial-and-error required to perfect technique
-- Lower success rate than pure culture methods
+- Lower [[maitake-fruiting-body-success-rate-management]] than pure culture methods
 
 ## Cardboard Spawn Method
 
 ### Why Cardboard Works
 
 Corrugated cardboard is an excellent substrate for mycelial expansion:
-- Sweet wood-based glues in cardboard boost mycelial growth
-- Contaminating green molds (Trichoderma species) do NOT grow as well on cardboard as many gourmet and medicinal mushrooms
+- Sweet wood-based glues in cardboard boost [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
+- Contaminating green molds (Trichoderma species) do NOT grow as well on cardboard as many gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]
 - Corrugated ridges and valleys provide favorable microenvironments
 - Readily available, free, and biodegradable
 - Cardboard from US, Canada, and Europe tends to be free of dioxins
@@ -133,22 +133,17 @@ Mycelium "breathes" — emitting species-specific fragrances:
 2. Spread over 10 lbs of moist, untreated wheat straw
 3. Place in perforated bag or container
 4. Incubate outdoors at 35-50°F
-5. In Pacific Northwest: January inoculation → March fruiting (for oyster mushrooms)
+5. In Pacific Northwest: January inoculation → March fruiting (for [[query-how-to-grow-oyster-mushrooms-at-home]])
 
 ## Expansion Mathematics
 
 The exponential power of mycelial expansion:
 - **Inoculation ratio**: 1:20 (1 part mycelium : 20 parts substrate)
-- **Annual cycle**: Each year, descendant patches can be amplified at similar ratios
-- **3-year projection**: 4x4-foot patch → 128,000+ square feet (3+ acres)
-- **Key**: Mycelial islands seek to join with other islands to form contiguous mats
-- When spawn is broken up, hyphae fork and refork, extending their range if food is available
-
 ## See Also
 
 - [[inoculation-methods]] for comprehensive inoculation coverage
 - [[bunker-spawn-method]] for scaling up production
 - [[mushroom-cultivation-basics]] for general cultivation principles
-- [[outdoor-mushroom-bed]] for bed preparation
+- [[outdoor-mushroom-bed]] for [[azurescens-outdoor-bed-preparation-woodchips]]
 - [[mushroom-spore-printing-and-storage]] for spore collection
 - [[mycelium-running-techniques]] for additional methods

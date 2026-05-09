@@ -1,5 +1,5 @@
 ---
-title: EU Magic Mushroom Prevalence and Market Trends
+title: EU Magic hallucinogenic-mushroom-prevalence-europe and Market Trends
 source: carolina-mushrooms_08qxp.md (EMCDDA Thematic Paper)
 mined: 2026-05-08
 tags: [epidemiology, prevalence, market, europe, psilocybin, smartshop]
@@ -10,14 +10,14 @@ tags: [epidemiology, prevalence, market, europe, psilocybin, smartshop]
 ## Overview
 
 The EMCDDA 2006 thematic paper provides the most comprehensive snapshot of
-hallucinogenic mushroom use patterns across the European Union during the early
-2000s — a period that saw a significant emergence of magic mushrooms as a
+[[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]] use patterns across the European Union during the early
+2000s — a period that saw a significant emergence of [[guzman-magic-mushrooms-african-species]] as a
 recreational drug trend. The data reveals a substance that, while considerably
 less prevalent than cannabis, achieved lifetime use rates comparable to ecstasy
 among young people in several EU countries.
 
 The emergence of this trend was closely linked to the commercial infrastructure
-of smartshops in the Netherlands, the rapid expansion of internet retail, and
+of [[smartshops]] in the Netherlands, the rapid expansion of internet retail, and
 broader cultural trends favoring "natural" psychoactive products over synthetic
 alternatives.
 
@@ -35,7 +35,7 @@ lifetime prevalence in 11 countries for persons aged 18-36 ranged from 15%
 (Poland) to 45% (Denmark).
 
 The proportion of current users among those who have ever used is lower for
-hallucinogenic mushrooms than for cannabis and ecstasy. The Dutch CAM risk
+[[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] than for cannabis and ecstasy. The Dutch CAM risk
 assessment (2000) noted that the effects of the mushrooms limit the appeal of
 regular use, with users tending to discontinue after a few experimental
 experiences.
@@ -98,4 +98,4 @@ some closely related species can cause fatal poisoning.
 ## Contributing Factors to the Trend
 ## See Also
 
-- [[comparison-matsutake-vs-truffle-ecology-and-market]]
+- comparison-matsutake-vs-truffle-ecology-and-market

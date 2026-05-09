@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-Outdoor mushroom beds offer one of the simplest and most natural methods of mushroom cultivation, requiring minimal equipment while producing substantial yields. This approach is ideal for [[wine-cap-stropharia-cultivation|wine cap]] (Stropharia rugosoannulata), [[kings-stropharia-garden-giant|King Stropharia]], [[morel-mushroom-guide|morels]], and other species adapted to ground-level fruiting.
+Outdoor mushroom beds offer one of the simplest and most natural methods of [[accessible-mushroom-cultivation-for-disabilities]], requiring minimal equipment while producing substantial yields. This approach is ideal for [[wine-cap-stropharia-cultivation|wine cap]] (Stropharia rugosoannulata), [[kings-stropharia-garden-giant|King Stropharia]], [[morel-mushroom-guide|morels]], and other species adapted to ground-level fruiting.
 
 ## Site Selection
 
@@ -36,7 +36,7 @@ Outdoor mushroom beds offer one of the simplest and most natural methods of mush
 ### Basic Raised Bed Method
 
 1. **Outline the bed:** Mark a rectangular area 3-6 feet wide and 4-10 feet long. Wider beds are difficult to manage; narrower beds dry out too quickly.
-2. **Excavate shallowly:** Remove sod and topsoil to a depth of 2-4 inches, creating a slight depression. This helps retain moisture and places the mushroom substrate at ground level.
+2. **Excavate shallowly:** Remove sod and topsoil to a depth of 2-4 inches, creating a slight depression. This helps retain moisture and places the [[gourmet-medicinal-mushroom-substrate-preparation]] at ground level.
 3. **Line the bed (optional):** Cardboard or newspaper at the bottom suppresses weeds and retains moisture. Wet thoroughly before adding substrate.
 4. **Layer the substrate:** Build up layers of woody material and spawn:
 
@@ -88,13 +88,13 @@ Morel cultivation outdoors remains challenging but has been achieved:
 - **Straw-based beds:** Layers of pasteurized straw and spawn, topped with a protective layer of straw or leaves
 - **Stump inoculation:** Drilling holes in stumps and filling with spawn; stumps fruit for several years
 - **Trench method:** Straw spawn mixed into trenches and covered with soil
-- Less reliable than indoor cultivation due to weather variability and pest pressure
+- Less reliable than [[cannabis-sativa-indoor-cultivation-techniques]] due to weather variability and pest pressure
 
 ## Substrate Preparation
 
 ### Wood Chip Sources
 
-- **Arborist wood chips:** Fresh chips from tree services are ideal; diverse mixtures support diverse fungal communities
+- **Arborist wood chips:** Fresh chips from tree services are ideal; diverse mixtures support diverse [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
 - **Hardwood chips:** Oak, maple, beech, alder, and poplar are all suitable
 - **Avoid:** Treated lumber, pressure-treated wood, walnut (contains juglone, toxic to many fungi), and conifers (generally less suitable for most species)
 
@@ -116,7 +116,7 @@ Morel cultivation outdoors remains challenging but has been achieved:
 ### Weed and Pest Management
 
 - **Weeds:** The cardboard underlay suppresses most weeds. Any weeds that emerge should be pulled by hand.
-- **Slugs and snails:** The most common outdoor mushroom pests. Hand-picking, beer traps, and diatomaceous earth around bed edges help reduce damage.
+- **[[query-how-to-get-rid-of-slugs-and-snails-organically]]:** The most common outdoor mushroom pests. Hand-picking, beer traps, and [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]] around bed edges help reduce damage.
 - **Insects:** Fungus gnats and other flies can be managed by maintaining proper moisture (not too wet) and using yellow sticky traps.
 
 ### Seasonal Care

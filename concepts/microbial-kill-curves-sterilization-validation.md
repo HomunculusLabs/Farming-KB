@@ -35,7 +35,7 @@ A typical microbial kill curve has the following features:
 - **Shoulder phase**: An initial lag period where the microbial
   population appears relatively unchanged. During this phase,
   sublethal damage is accumulating but has not yet resulted in
-  cell death. The length of the shoulder depends on the organism,
+  [[blesching-cannabis-apoptosis-and-cancer-cell-death]]. The length of the shoulder depends on the organism,
   the lethal agent, and environmental conditions.
 
 - **Log-linear phase**: The active killing phase where population
@@ -87,7 +87,7 @@ Understanding kill curves is important for mushroom cultivators
 because it informs decisions about sterilization times and
 temperatures for different substrates and container sizes.
 Grain substrates require longer sterilization times than
-smaller agar plates because of the longer heat-up time needed
+smaller [[query-how-to-make-agar-plates-for-mushroom-cultivation]] because of the longer heat-up time needed
 to reach the target temperature throughout the mass. Similarly,
 larger jars or spawn bags require extended sterilization times
 (2+ hours) compared to small jars (1 hour) to ensure that the

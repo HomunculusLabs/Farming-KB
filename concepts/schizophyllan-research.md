@@ -15,7 +15,7 @@ Schizophyllan (also known as Sonifilan, SPG, or Sizofiran) is a β-(1→3)-D-glu
 - **Source**: Schizophyllum commune (a common wood-decomposing bracket fungus)
 - **Type**: extracellular β-(1→3)-D-glucan with β-(1→6) branching
 - **Molecular weight**: ~450-600 kDa (native)
-- **Production**: produced by submerged fermentation of S. commune, extracted from culture broth
+- **Production**: produced by [[cancer-medicinal-mushrooms-submerged-fermentation-production]] of S. commune, extracted from culture broth
 - **Structure**: triple helix in aqueous solution; denatures to single strand in DMSO
 - **Trade names**: Sonifilan, Sizofiran, SPG
 - **Producer**: Taito Co. and Kaken Pharmaceutical (Japan)
@@ -78,7 +78,7 @@ Schizophyllan's immunomodulatory effects are mediated through specific receptor 
 - **Dectin-1 receptor**: Schizophyllan binds to Dectin-1 (a C-type lectin receptor) on macrophages and dendritic cells, triggering Syk/CARD9 signaling cascades that activate NF-κB and production of pro-inflammatory cytokines
 - **TLR-2 co-stimulation**: Concurrent engagement of TLR-2 synergizes with Dectin-1 signaling, amplifying the immune response through MyD88-dependent pathways
 - **Complement receptor 3 (CR3)**: Schizophyllan binds to CR3 on NK cells and neutrophils, enhancing antibody-dependent cellular cytotoxicity (ADCC) and promoting tumor cell lysis
-- **Langerhans cell activation**: In cervical cancer specifically, schizophyllan promotes the migration and activation of Langerhans cells (skin-resident dendritic cells) that infiltrate the tumor microenvironment and present tumor antigens to T-cells, bridging innate and adaptive immune responses
+- **Langerhans [[mushroom-immune-cell-activation-mechanisms]]**: In cervical cancer specifically, schizophyllan promotes the migration and activation of Langerhans cells (skin-resident dendritic cells) that infiltrate the tumor microenvironment and present tumor antigens to T-cells, bridging innate and adaptive immune responses
 
 ## Pharmacokinetics
 
@@ -100,7 +100,7 @@ Schizophyllan has a favorable safety profile compared to conventional cancer the
 
 | Property | Schizophyllan | Lentinan | PSK/PSP |
 |----------|--------------|----------|---------|
-| Source fungus | Schizophyllum commune | Lentinula edodes | Trametes versicolor |
+| Source fungus | Schizophyllum commune | [[staycare-lentinula-edodes-in-bioremediation]] | [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] |
 | Primary structure | β-(1→3), β-(1→6) branches | β-(1→3), β-(1→6) branches | β-(1→3), β-(1→4), β-(1→6) |
 | Molecular weight | 450-600 kDa | 400-500 kDa | 100 kDa |
 | Administration | SC/IT injection | IV injection | Oral administration |
@@ -117,6 +117,6 @@ Schizophyllan has a favorable safety profile compared to conventional cancer the
 ## See Also
 
 - [[lentinan-clinical-research]] — comparison with shiitake-derived lentinan
-- [[mushroom-cancer-clinical-trials-overview]] — clinical trial landscape overview
+- [[mushroom-cancer-clinical-trials-overview]] — clinical [[psilocybin-clinical-trial-landscape-2020-2025]] overview
 - [[lentinan-gastric-cancer-combination-therapy]]
 - [[mushroom-immune-cell-activation-mechanisms]]

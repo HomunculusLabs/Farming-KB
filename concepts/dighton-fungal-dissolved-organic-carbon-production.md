@@ -22,7 +22,7 @@ role in its production. The end product of fungal decomposition is
 frequently dissolved organic matter rather than particulate organic
 matter. Understanding fungal DOC production is critical for quantifying
 carbon budgets in both terrestrial and aquatic ecosystems and for
-understanding nutrient transport between ecosystem compartments.
+understanding [[mycelial-network-nutrient-transport-imaging-gadd]] between ecosystem compartments.
 
 ## DOC in Mangrove Ecosystems
 
@@ -45,8 +45,8 @@ proportion of carbon lost to dissolved organic matter and fine
 particulate organic matter. Fungi contribute significantly to the
 carbon budgets of both aquatic and salt marsh systems. The relative
 contribution of dissolved versus particulate carbon loss varies with
-fungal community composition, litter quality, and environmental
-conditions including nutrient availability and temperature.
+fungal [[core-endorhiza-bacterial-community-composition-cannabis]], litter quality, and environmental
+conditions including [[ph-and-nutrient-availability-garden-soils]] and temperature.
 
 ## Fungal Leaching in Terrestrial Systems
 
@@ -67,7 +67,7 @@ and produce dissolved organic carbon as they break down structural
 polysaccharides. Bacteria in aquatic systems primarily access dissolved
 organic matter, while fungi become important as leached organic matter
 availability declines and they enter intact structural components of
-leaf litter. The transition from bacterial to fungal dominance during
+leaf litter. The transition from [[ingham-bacterial-to-fungal-succession-soil-food-web]] dominance during
 decomposition involves a shift from DOC utilization to particulate
 organic matter decomposition by fungi.
 
@@ -88,7 +88,7 @@ significantly alter carbon fluxes through aquatic food webs.
 In terrestrial systems, fungal decomposition of plant residues generates
 dissolved organic compounds that contribute to soil organic matter
 formation. Humic material encrusted with metal ions forms in soil
-profiles partly through fungal metabolic activity. The humic and modder
+profiles partly through fungal [[arbuscule-isolation-metabolic-activity-assays]]. The humic and modder
 soil horizons characteristic of coniferous forests develop through
 fungal-mediated decomposition and DOC transport. At canopy closure in
 forest development, the shift from high-quality to recalcitrant litter
@@ -114,5 +114,5 @@ decomposition is a significant component of coastal nutrient budgets.
 
 ## Sources
 
-- Dighton, J. (2003). Fungi in Ecosystem Processes. Marcel Dekker.
+- Dighton, J. (2003). Fungi in [[fungal-ecosystem-processes-overview]]. Marcel Dekker.
   Chapters 2 and 6.

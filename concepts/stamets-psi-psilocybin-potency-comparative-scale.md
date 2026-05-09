@@ -1,10 +1,11 @@
 ---
-title: Psilocybin Potency Comparative Scale
+title: allen-psilocybin-potency-australian-species Comparative Scale
 created: 2026-04-28
 tags: [chemistry, potency, alkaloids, pharmacology, psilocybin]
 date: 2026-04-25
 updated: 2026-04-25
-sources: ["raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"]
+sources: sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
 
@@ -22,7 +23,7 @@ mushrooms.
 
 ## Key Alkaloids
 
-The primary psychoactive compounds found in psilocybin mushrooms are:
+The primary psychoactive compounds found in [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] are:
 
 - **Psilocybin** - The phosphorylated (inactive) precursor that is
   converted to psilocin during digestion by dephosphorylation.
@@ -71,7 +72,7 @@ species, based on the psilometric scale:
 
 - bluing-reaction - chemistry of psilocin degradation
 - psilocybe-azurescens - most potent known species
-- [[mushroom-identification]] - proper identification before use
+- mushroom-identification - proper identification before use
 - mazatec-mushroom-ceremonies - traditional dosage practices
 ## Practical Considerations
 
@@ -91,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

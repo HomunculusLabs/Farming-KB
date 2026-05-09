@@ -1,5 +1,5 @@
 ---
-title: Herb Garden Design
+title: Herb comparison-mandala-garden-design-vs-keyhole-garden-design
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-Herbs should always be included in the organic garden for both practical and aesthetic reasons. They attract useful [[weed-suppression-strategies]] for weed control, and can be planted in mixed borders, around shrubs, in containers, or in a dedicated traditional herb garden. Most herbs originate from the Mediterranean and thrive in warm sunshine.
+Herbs should always be included in the organic garden for both practical and aesthetic reasons. They attract useful [[weed-suppression-strategies]] for [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]], and can be planted in mixed borders, around shrubs, in containers, or in a dedicated traditional herb garden. Most herbs originate from the Mediterranean and thrive in warm sunshine.
 
 ## Site Selection
 
@@ -44,7 +44,7 @@ Low-growing species like thyme, rosemary, and parsley are suitable for tubs, win
 | Herb | Height | Sun/Shade | Notes |
 |------|--------|-----------|-------|
 | Chives (Allium schoenoprasum) | 8in | Tolerant | Divide every 3 years. Freeze in ice cubes; does not dry well |
-| Mint (Mentha spicata) | 3ft | Semi-shade | Plant in sunken bucket to contain spread. Dig roots for winter greenhouse supply |
+| Mint (Mentha spicata) | 3ft | Semi-shade | Plant in sunken bucket to contain spread. Dig roots for [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]] supply |
 | Balm (Melissa officinalis) | 3ft | Sun/semi-shade | Lemon flavor; attracts bees. Divide every 3 years |
 | Sorrel (Rumex acetosa) | 18in | Semi-shade | Sharp taste; divide every 3 years. Dry or puree before freezing |
 | Tarragon (Artemisia dracunculus) | 2-3ft | Sun | French type cannot be grown from seed. Divide every 4 years |
@@ -66,13 +66,13 @@ Apply a 2-3in mulch of well-rotted manure or compost over the entire garden in m
 
 ## Harvesting and Storing
 
-Pick leaves for drying before the plant flowers for best flavor. Tie stems in small bunches and hang in a dry, airy place. Handle carefully to avoid losing essential oils. Crumble dried leaves into airtight jars. For seed saving, hang stems upside down with a cloth beneath to catch falling seeds. Many herbs (basil, parsley, chives, mint, balm) can be frozen in ice cubes or plastic bags.
+Pick leaves for drying before the plant flowers for best flavor. Tie stems in small bunches and hang in a dry, airy place. Handle carefully to avoid losing [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]. Crumble dried leaves into airtight jars. For seed saving, hang stems upside down with a cloth beneath to catch falling seeds. Many herbs (basil, parsley, chives, mint, balm) can be frozen in ice cubes or plastic bags.
 
 ## Related
 
-- [[medicinal-herb-growing]] -- medicinal herb cultivation
+- [[medicinal-herb-growing]] -- [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]] cultivation
 - [[companion-planting-deterrents]] -- herbs as companion plants
-- [[raised-bed-gardening]] -- raised bed construction for herbs
+- [[raised-bed-gardening]] -- raised [[hugelkultur-bed-construction-detailed]] for herbs
 - [[dried-herb-storage]] -- storing dried herbs
 ## Practical Considerations
 
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

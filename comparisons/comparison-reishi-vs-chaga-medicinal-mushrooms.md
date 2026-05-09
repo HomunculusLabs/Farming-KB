@@ -1,30 +1,11 @@
 ---
-title: 'Reishi vs Chaga Medicinal Mushrooms'
-created: 2026-05-06
-tags: [medicinal-mushrooms, reishi, chaga, adaptogens, beta-glucans, health, fungi]
-type: comparison
-date: 2026-05-03
-updated: 2026-05-03
-sources: general web search
----
-
-# Reishi vs Chaga Medicinal Mushrooms
-
-## See Also
-- [[comparison-lions-mane-vs-reishi-medicinal-mushrooms]]
-- [[gourmet-medicinal-mushroom-oyster-cultivation-methods|Medicinal Mushroom Cultivation]]
-- [[gourmet-medicinal-mushroom-shiitake-cultivation-logs|Shiitake]]
-- [[beta-glucans|Beta-Glucans]]
-- [[comparison-chaga-vs-reishi-medicinal|Chaga vs Reishi — Medicinal Uses]].
-
----
 
 ## Taxonomy and Identification
 
-| Feature | Chaga (*Inonotus obliquus*) | Reishi (*Ganoderma lucidum*) |
+| Feature | Chaga (*chaga-inonotus-obliquus-medicinal-profile*) | Reishi (*stamets-reishi-ganoderma-lucidum-cultivation*) |
 |---|---|---|
 | **Division/Order** | Basidiomycota / Hymenochaetales | Basidiomycota / Polyporales |
-| **Growth form** | Sclerotium (sterile conk on living tree) | Fruiting body (fan-shaped, shelf-like) |
+| **Growth form** | Sclerotium (sterile conk on living tree) | comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms (fan-shaped, shelf-like) |
 | **Appearance** | Dark cracked black exterior; rust-brown corky interior | Glossy varnished cap (red-brown); white pore surface underneath |
 | **Size** | Irregular mass, 10–40+ cm | 5–30 cm across, kidney-shaped |
 | **Surface texture** | Deeply cracked, resembles burnt charcoal | Smooth lacquered with concentric growth zones |
@@ -39,8 +20,8 @@ Chaga is not a true fruiting body — it is a **sterile sclerotial mass**, a den
 
 | Aspect | Chaga | Reishi |
 |---|---|---|
-| **Cultivation status** | Not commercially viable; wild-harvested | Widely cultivated; one of the easiest medicinal mushrooms |
-| **Grow medium** | N/A (requires living birch) | Supplemented sawdust, hardwood logs, stumps |
+| **Cultivation status** | Not commercially viable; wild-harvested | Widely cultivated; one of the easiest [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] |
+| **Grow medium** | N/A (requires living birch) | [[oyster-mushroom-supplemented-sawdust-blocks]], hardwood logs, stumps |
 | **Time to harvest** | 5–15+ years in the wild | 2–4 months (substrate); 1–2 years (logs) |
 | **Indoor/outdoor** | Not feasible | Straightforward in grow bags, monotubs, or outdoor logs |
 | **Quality concern** | Lab-grown chaga lacks betulin from birch bark | Cultivated retains most triterpenes; wild may have higher ganoderic acid |
@@ -59,7 +40,7 @@ Reishi is a **commercial success** with widely available spawn and minimal equip
 | Unique proteins | — | LZ-8, GLP |
 | ORAC score | Among highest of any food | Moderate-high |
 
-**Chaga highlights:** Beta-glucans (immune modulation), betulin/betulinic acid from birch bark (anti-inflammatory, antitumor), inotodiol (cytotoxic triterpenoid), melanin (potent antioxidant), superoxide dismutase (SOD), and polyphenols giving exceptional ORAC scores.
+**Chaga highlights:** Beta-glucans ([[cancer-immune-modulation-mechanisms]]), betulin/betulinic acid from birch bark (anti-inflammatory, antitumor), inotodiol (cytotoxic triterpenoid), melanin (potent antioxidant), superoxide dismutase (SOD), and polyphenols giving exceptional ORAC scores.
 
 **Reishi highlights:** Beta-glucans, 150+ ganoderic acids (hepatoprotective, antihypertensive, antiallergic), LZ-8 immunomodulatory protein, nucleosides/adenosine (calming, sleep-promoting), and Ganoderma lucidum peptide (GLP, antioxidant).
 

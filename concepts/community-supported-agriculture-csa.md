@@ -1,5 +1,5 @@
 ---
-title: Community Supported Agriculture (CSA)
+title: Community community supported agriculture csa (CSA)
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -10,9 +10,9 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Ultimate Guide to Natural Farming and Sustainable Living, Nicole Faires
+Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]], Nicole Faires
 
-Community Supported Agriculture (CSA) is a direct-to-consumer marketing model where families purchase a seasonal share of a farm's harvest in advance, receiving weekly boxes of fresh produce throughout the growing season. It is the fastest-growing method of direct farm sales.
+Community Supported Agriculture (CSA) is a direct-to-consumer marketing model where families purchase a seasonal share of a farm's harvest in advance, receiving weekly boxes of fresh produce throughout the [[savory-growing-season-and-non-growing-season-management]]. It is the fastest-growing method of direct farm sales.
 
 ## How CSA Works
 
@@ -34,7 +34,7 @@ Community Supported Agriculture (CSA) is a direct-to-consumer marketing model wh
 ### Benefits for Consumers
 
 - **Freshest possible food**: Harvested that day or the day before
-- **Seasonal eating**: Encourages connection to natural growing cycles
+- **[[fukuoka-seasonal-eating-natural-food-calendar]]**: Encourages connection to natural growing cycles
 - **Variety**: Exposure to vegetables and fruits they might not otherwise try
 - **Farm connection**: Knowing where food comes from and who grows it
 - **Community**: Being part of a local food system
@@ -101,6 +101,6 @@ CSA aligns well with permaculture principles:
 ## Related Topics
 
 - [[farmers-market-selling-guide]] — alternative direct sales
-- [[right-livelihood-and-permaculture-business]] — business principles
+- right-livelihood-and-permaculture-business — business principles
 - [[strawberry-growing-guide]] — strawberry production for CSA
 - [[first-time-grower-common-mistakes]]

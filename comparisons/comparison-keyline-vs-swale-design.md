@@ -1,10 +1,11 @@
 ---
-title: "Keyline vs Swale Design"
+title: "comparison keyline vs swale design Design"
 created: 2026-04-28
 tags: [comparison, permaculture, water-management, earthworks, erosion-control]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: comparison
 ---
@@ -13,7 +14,7 @@ type: comparison
 
 ## Overview
 
-Keyline design and swale design are two of the most influential water management
+[[query-how-does-keyline-design-work-in-permaculture]] and swale design are two of the most influential water management
 systems in permaculture and regenerative agriculture. Both aim to capture, distribute,
 and infiltrate water across the landscape, but they differ significantly in approach.
 Keyline uses cultivation patterns following specific topographic lines to spread water
@@ -58,7 +59,7 @@ established and planted, swale systems require minimal maintenance.
 | Maintenance | Periodic cultivation | Initial construction, then planted |
 | Tree Integration | Trees above keyline contour | Trees planted on berm |
 | Speed of Effect | Gradual improvement over seasons | Immediate water capture |
-| Equipment Needed | Standard farm cultivation equipment | Earthmoving equipment or hand tools |
+| Equipment Needed | Standard farm [[gottlieb-psilocybin-cultivation-equipment-and-facilities]] | Earthmoving equipment or [[garden-hand-tools-solomon]] |
 
 ## When to Choose Keyline Design
 
@@ -66,7 +67,7 @@ Keyline design is superior for broadacre agricultural properties where earthwork
 swale scale would be prohibitively expensive or disruptive. It is ideal for grazing
 land, dryland cropping, and large properties where the goal is to improve soil
 moisture distribution across hundreds of acres. Keyline cultivation can be
-implemented with standard farm equipment and requires no permanent structures. The
+implemented with standard [[coleman-small-farm-equipment-and-tools]] and requires no permanent structures. The
 system is particularly effective on land with defined valley-and-ridge topography where
 the keyline and keypoint can be clearly identified. It works gradually through
 cultivation and tree planting rather than through dramatic earthworks.
@@ -75,7 +76,7 @@ cultivation and tree planting rather than through dramatic earthworks.
 
 Swales are better when immediate, dramatic water capture is needed. They excel on
 degraded, eroded, or arid land where establishing trees requires rapid soil
-rehydration. Swales are ideal for food forests, orchards, and tree crop systems where
+rehydration. Swales are ideal for food forests, orchards, and [[mollison-tree-crop-systems-permaculture]] where
 the berm provides a productive planting zone. They are well suited to home gardens
 and homesteads where the visual and functional benefits of terraced water-holding
 earthworks are desirable. Swales provide immediate visible results after

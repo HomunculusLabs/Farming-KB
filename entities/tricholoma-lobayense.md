@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
 
 # Tricholoma lobayense
 
-**Tricholoma lobayense** is a tropical mushroom species belonging to the family Tricholomataceae. It is found in parts of West and Central Africa and has attracted attention for its immunomodulatory and potential anti-tumor properties. The species is among the lesser-known medicinal mushrooms but has demonstrated promising biological activity in preliminary studies.
+**Tricholoma lobayense** is a tropical mushroom species belonging to the family Tricholomataceae. It is found in parts of West and Central Africa and has attracted attention for its immunomodulatory and potential anti-tumor properties. The species is among the lesser-known [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] but has demonstrated promising biological activity in preliminary studies.
 
 ## Taxonomy and Classification
 
@@ -32,7 +32,7 @@ The most extensively studied property of T. lobayense is its ability to modulate
 
 - Activation of macrophages, leading to enhanced phagocytic activity
 - Stimulation of splenocyte proliferation
-- Increased production of cytokines, including interleukins and tumor necrosis factor-alpha (TNF-α)
+- [[fukuoka-textdoc-increased-production-not-increased-yields]] of cytokines, including interleukins and tumor necrosis factor-alpha (TNF-α)
 - Enhancement of natural killer cell cytotoxicity against tumor cell lines
 
 These immunomodulatory effects are consistent with those observed in other medicinal mushrooms containing beta-glucans, such as [[trametes-versicolor-entity]] (PSK/PSP).
@@ -49,7 +49,7 @@ The anti-tumor polysaccharides from T. lobayense appear to function primarily th
 
 ### Antioxidant Activity
 
-Methanolic and aqueous extracts of T. lobayense have demonstrated significant antioxidant capacity in standard assays including DPPH radical scavenging, reducing power assays, and lipid peroxidation inhibition. The antioxidant activity is attributed to a combination of phenolic compounds, polysaccharides, and other secondary metabolites. The total phenolic content and associated free radical scavenging capacity compare favorably with several other edible mushroom species.
+Methanolic and aqueous extracts of T. lobayense have demonstrated significant antioxidant capacity in standard assays including DPPH radical scavenging, reducing power assays, and lipid peroxidation inhibition. The antioxidant activity is attributed to a combination of phenolic compounds, polysaccharides, and other [[antifungal-secondary-metabolites-coprophilous-fungi]]. The total phenolic content and associated free radical scavenging capacity compare favorably with several other edible mushroom species.
 
 ### Hepatoprotective Effects
 
@@ -57,7 +57,7 @@ Some studies on related Tricholoma species have suggested hepatoprotective prope
 
 ## Ethnobotanical Context and Traditional Use
 
-In parts of Central and West Africa, T. lobayense has been used traditionally as a food source and occasionally in folk medicine. Indigenous communities in the Congo Basin region have reportedly used preparations of this mushroom for general health maintenance, though detailed ethnobotanical documentation is limited compared to better-known medicinal mushrooms used in Asian traditional medicine systems. The mushroom is valued in local markets when available and contributes to food security in regions where wild mushroom collection supplements agricultural production.
+In parts of Central and West Africa, T. lobayense has been used traditionally as a food source and occasionally in folk medicine. Indigenous communities in the Congo Basin region have reportedly used preparations of this mushroom for general health maintenance, though detailed ethnobotanical documentation is limited compared to better-known medicinal mushrooms used in Asian traditional medicine systems. The mushroom is valued in local markets when available and contributes to food security in regions where wild mushroom collection supplements [[fukuoka-agricultural-production-net-energy-deduction]].
 
 ## Cultivation
 
@@ -67,7 +67,7 @@ Cultivation of T. lobayense has received limited attention compared to commercia
 - Supplemented substrates with added nitrogen sources (bran, grain)
 - Solid-state fermentation techniques
 
-Optimal growth temperatures appear to be in the range of 25-30°C, consistent with its tropical origin. Fruiting induction typically requires high humidity (85-95% relative humidity) and adequate fresh air exchange. The species has shown reasonable colonization rates on supplemented sawdust substrates, though yields remain lower than those achieved with commercial species. More research is needed to develop commercially viable cultivation protocols, optimize spawn preparation methods, and determine the most cost-effective substrate formulations for tropical regions where the species naturally occurs.
+Optimal growth temperatures appear to be in the range of 25-30°C, consistent with its tropical origin. Fruiting induction typically requires high humidity (85-95% relative humidity) and adequate fresh air exchange. The species has shown reasonable colonization rates on [[oyster-mushroom-supplemented-sawdust-blocks]] substrates, though yields remain lower than those achieved with commercial species. More research is needed to develop commercially viable cultivation protocols, optimize spawn preparation methods, and determine the most cost-effective substrate formulations for tropical regions where the species naturally occurs.
 
 ## Research Status
 
@@ -89,7 +89,7 @@ T. lobayense is generally regarded as safe for consumption based on traditional 
 
 ## See Also
 
-- [[tricholoma-matsutake]] — closely related prized medicinal and culinary mushroom
+- [[tricholoma-matsutake]] — closely related prized [[holzer-medicinal-and-culinary-herbs-compendium]] mushroom
 - [[lentinula-edodes]]
 - [[schizophyllum-commune]]
 - [[trametes-versicolor-entity]]

@@ -1,5 +1,5 @@
 ---
-title: Winter Forest Foraging and Wildlife Cooperation
+title: mollison designers winter forest foraging wildlife cooperation Foraging and Wildlife Cooperation
 created: 2026-04-26
 tags:
   - permaculture
@@ -33,13 +33,13 @@ Hard mast from deciduous trees forms the backbone of winter foraging systems:
 
 - **Filberts (hazelnuts):** Extremely reliable bearers, filberts produce
   annually with minimal care once established. Their small size makes them
-  ideal for wildlife and poultry forage as well as human food. Dense hedgerows
+  ideal for wildlife and [[free-range-poultry-forage-design-mollison]] as well as human food. Dense hedgerows
   of filbert serve dual purposes as windbreak and food source.
 
 - **Hickory nuts and walnuts:** High in fat and protein, these nuts are
   critical winter energy foods for both wildlife and people. Hickory in
-  particular produces well in the eastern North American forest zone.
-  Mollison recommends planting them on contour for erosion control alongside
+  particular produces well in the [[polypore-fungi-eastern-north-america]] American forest zone.
+  Mollison recommends planting them on contour for [[permplant-willows-salix-erosion-control-fodder]] alongside
   nut production.
 
 ## Sprouted Seed Forage Value
@@ -50,7 +50,7 @@ protein while reducing anti-nutritional factors. A simple sprouting system --
 trays of grain kept moist and warm -- can convert stored grain into fresh
 forage throughout winter. This is particularly valuable for [[mollison-designers-cool-humid-climate-design-overview]],
 branch piles on north-facing slopes retain moisture longest, supporting
-fungal decomposition through dry periods.
+[[dighton-fungal-decomposition-leaf-litter-dynamics]] through dry periods.
 
 ## Snow-Melt Planting Sites
 
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

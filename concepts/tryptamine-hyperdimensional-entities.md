@@ -10,21 +10,21 @@ created: 2026-05-08
 ## Overview
 
 One of the most consistently reported and philosophically provocative features of
-the DMT experience is the encounter with apparently autonomous, intelligent entities
+the [[mckenna-dmt-experience-and-hyperspace]] is the encounter with apparently autonomous, intelligent entities
 that inhabit what [[alexander-shulgin]], and others,
 he noted that "if one atom on the molecular ring of an inactive compound is moved,
 the compound becomes highly active." This sensitivity to molecular structure at the
 atomic level suggested to McKenna "a perfect proof of the dynamic linkage at the
 formative level between quantum mechanically described matter and mind."
 
-This perspective positions the DMT entity encounter not as a subjective
+This perspective positions the DMT [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]] not as a subjective
 hallucination but as a genuine interaction with informational processes occurring
 at the quantum foundation of being. The implication is that consciousness and
 matter are more deeply interconnected than the materialist paradigm allows.
 
 ## Comparison with Other Entity Encounter Traditions
 
-The phenomenon of encountering apparently autonomous beings in altered states is
+The phenomenon of encountering apparently autonomous beings in [[weil-the-natural-mind-altered-states-normalcy]] is
 not unique to DMT. Similar reports appear in:
 
 - **Shamanic traditions** worldwide, where spirit allies, power animals, and
@@ -35,7 +35,7 @@ not unique to DMT. Similar reports appear in:
   and the Islamic tradition of encounters with jinn.
 
 - **UFO and abduction experiences**, which share many phenomenological features
-  with DMT entity encounters.
+  with DMT [[dmt-entity-encounters-and-the-logos]].
 
 - **Mystical traditions**, including Kabbalistic descriptions of encounters with
   the Merkabah and Sufi descriptions of encounters with spiritual beings.
@@ -71,7 +71,7 @@ You're long on talk, but what can you show me?"
 ## See Also
 
 - [[tryptamine-glossolalia-and-language]]
-- [[tryptamine-hallucinogens-and-consciousness]]." The Archaic Revival. HarperSanFrancisco.
+- [[tryptamine-hallucinogens-and-consciousness]]." The [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]. HarperSanFrancisco.
 - McKenna, T. & McKenna, D. (1975). The Invisible Landscape. Seabury Press.
 - Strassman, R. (2001). DMT: The Spirit Molecule. Park Street Press.
 - Luke, D. (2011). "Psychedelic entity encounter experiences." Journal of the Society for Psychical Research.
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

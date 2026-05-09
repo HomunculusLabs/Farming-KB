@@ -1,10 +1,11 @@
 ---
-title: Rabbit Husbandry Basics
+title: comparison-rabbit-husbandry-vs-chicken-keeping Basics
 created: 2026-04-17
 updated: 2026-04-18
 type: concept
 tags: [reference]
-sources: []
+sources:
+  sources: []
 ---
 
 # Rabbit Husbandry Basics
@@ -90,7 +91,7 @@ good mothers), Satin (good meat yield, beautiful sheen).
 
 ## Manure as Garden Amendment
 
-Rabbit manure is one of the best organic fertilizers:
+Rabbit manure is one of the best [[hamilton-organic-fertilizers-and-plant-nutrition]]:
 
 - **Cold manure:** Apply directly to gardens without composting (unlike
   chicken/horse/cow manure).
@@ -100,7 +101,7 @@ Rabbit manure is one of the best organic fertilizers:
   microbes, boosts earthworms.
 - **Application:** 1-2 inches worked into beds before planting; up to 20%
   by volume in potting soil.
-- **Vermicompost:** Excellent worm food. Place worm bin under hutches for
+- **Vermicompost:** Excellent worm food. Place [[hemenway-worm-bin-rabbit-integration]] under hutches for
   automatic feeding.
 
 ## See Also

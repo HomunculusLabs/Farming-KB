@@ -1,17 +1,13 @@
 ---
-title: Mushroom Substrate Preparation and Sterilization
+title: Mushroom cotter-compost-substrate-preparation-manure-mushroom-cultivation and Sterilization
 created: 2026-04-28
-tags: [[mycology, cultivation, substrate, sterilization]
+tags: [mycology, cultivation, substrate, sterilization]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 type: concept
 ---
-
-# Mushroom Substrate Preparation and Sterilization
-
-Substrate preparation is the foundational step in mushroom cultivation. The
-substrate provides the nutritional base from which fungal [[decomposition]] phase that breaks down raw materials into a selectively nutritive
+# Mushroom Substrate Preparation and Sterilization Substrate preparation is the foundational step in mushroom cultivation. The substrate provides the nutritional base from which fungal [[decomposition]] phase that breaks down raw materials into a selectively nutritive
 medium.
 
 **Master's mix**, popularized by gourmet cultivators, blends hardwood sawdust
@@ -43,22 +39,22 @@ for straw and compost substrates where residual microbes help defend against
 contamination.
 
 Common pasteurization methods include hot water baths, steam pasteurization
-chambers, and the "lye bath" technique where straw is soaked in hydrated lime
+chambers, and the "lye bath" technique where straw is soaked in [[cervantes-hydrated-lime-quicklime-ph-adjustment]]
 solution for 12 to 18 hours, raising the pH to inhibit contaminants.
 
 **Sterilization** heats substrate to 250 degrees Fahrenheit (121 degrees
-Celsius) at 15 PSI for 60 to 120 minutes. This kills all living organisms
+Celsius) at 15 PSI for 60 to 120 minutes. This kills all [[savory-living-organisms-as-tools]]
 including bacterial endospores. Sterilization is required for supplemented
 substrates because the added nutrients (bran, soy hulls) would otherwise feed
 contaminants as readily as they feed mushroom mycelium.
 
-Pressure canning is the standard sterilization method. Substrate is packed into
+[[comparison-pressure-canning-vs-water-bath-canning]] is the standard sterilization method. Substrate is packed into
 autoclavable bags or jars, fitted with filter patches for gas exchange, and
-processed in a pressure canner or autoclave.
+processed in a [[pf-tek-pressure-canner-sterilization]] or autoclave.
 
 ## The Importance of Filter Patches
 
-Sterilized substrate bags must breathe. Mycelium generates carbon dioxide during
+[[oyster-mushroom-non-sterilized-substrate-cultivation]] bags must breathe. Mycelium generates carbon dioxide during
 colonization, and if gas cannot escape, the bag inflates and eventually bursts.
 Filter patches made of microporous polypropylene allow gas exchange while
 blocking airborne spores larger than 0.3 microns.

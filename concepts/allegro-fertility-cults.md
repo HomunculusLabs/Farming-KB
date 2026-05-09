@@ -1,5 +1,5 @@
 ---
-title: Fertility Cults and Mushroom Symbolism in the Ancient Near East
+title: Fertility Cults and Mushroom Symbolism in the allegro-fertility-philosophy-of-the-ancient-near-east East
 created: 2026-04-26
 updated: 2026-04-24
 type: concept
@@ -22,7 +22,7 @@ prime function was vegetative: to "seduce" the phallic mushroom from the
 ground.
 
 In the Akkadian kukru incantation, the mushroom "little-ones" are said to have
-been engendered by "a sacred prostitute" from the pine-tree's resin, the
+been engendered by "a [[allegro-sacred-prostitute-and-the-mushroom-cult]]" from the pine-tree's resin, the
 tree's "menses." Hosea describes apostate Israelites as harlots "sacrificing
 on the tops of mountains, making offerings upon the hills, under oak, poplar,
 and terebinth, because their shade is good" (Hos 4:13). The mushroom had to be
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Bresinsky A, Besl H (1990). A Colour Atlas of Poisonous Fungi. Wolfe Publishing.
+  - Bresinsky A, Besl H (1990). A Colour Atlas of ramsbottom-poisonous-fungi-identification-guide. Wolfe Publishing.
   - Benjamin DR (1995). Mushrooms: Poisons and Panaceas. W.H. Freeman.
   - Vesterholt J (2008). "The genus Lepiota in Denmark." Friesia 13:1–35.
   - Cattle C, Sutton B, Matheny PB (2022). "Molecular phylogeny of Lepiota sensu lato." Mycologia 114(4): 895–912.
@@ -30,7 +30,7 @@ confused with edible *Lepiota* species and other small agarics. Its small
 stature and innocuous appearance belie its extreme toxicity.
 
 Ingestion causes delayed-onset gastrointestinal distress followed by
-hepatorenal failure, a clinical syndrome identical to death cap poisoning.
+hepatorenal failure, a clinical syndrome identical to [[query-how-to-identify-and-avoid-the-death-cap-amanita-phalloides]] poisoning.
 There is no specific antidote, though supportive care and liver transplantation
 improve survival odds.
 
@@ -57,7 +57,7 @@ concentrically arranged brown to reddish-brown scales on a pale cream to
 whitish background.
 
 Gills are free from the stipe, crowded, and white, becoming cream-colored
-with age. The spore print is white.
+with age. The [[comparison-spore-print-collection-vs-spore-syringe-production]] is white.
 
 The stipe is 30–70 mm tall and 3–5 mm thick, cylindrical, hollow, and bears a
 thin, membranous ring that is often evanescent. The stipe surface is smooth and
@@ -82,7 +82,7 @@ preference in human-visited areas contributes significantly to accidental
 poisonings.
 
 In China, the species is one of the most frequently encountered amatoxin-
-containing mushrooms and is implicated in a large proportion of wild
+[[psilocybin-containing-mushrooms-in-us]] and is implicated in a large proportion of wild
 mushroom fatalities each year.
 
 ## Toxicology
@@ -94,7 +94,7 @@ irreversible liver cell death.
 
 Amatoxin content has been measured at 0.8–2.5 mg/g dry weight, placing
 *L. brunneoincarnata* among the most amatoxin-rich non-*Amanita* mushrooms
-known. A single mature fruiting body may contain a lethal dose for an adult.
+known. A single mature [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] may contain a lethal dose for an adult.
 
 The clinical course follows the classic four-phase amatoxin syndrome. An
 initial asymptomatic latent period of 6–12 hours is followed by severe
@@ -132,8 +132,10 @@ without definitive identification.
 
 ## See Also
 
+- [[lepiota-rachodes]]
+
 - [[amanita-pantherina]] — panther cap, another commonly misidentified toxic agaric
 - [[agaricus-xanthodermus]] — yellow-staining mushroom, toxic agaric
-- [[gyromitra-esculenta]] — false morel, contains gyromitrin toxin
+- [[gyromitra-esculenta]] — [[bloomfield-false-morel-gyromitrin-volatile-toxin-cooking-risk]], contains gyromitrin toxin
 - [[amanita-vaginata]] — grisette, an edible Amanita for comparison
 - [[lepista-nuda]] — wood blewit, edible agaric for morphological comparison

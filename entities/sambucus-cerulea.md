@@ -12,15 +12,15 @@ updated: 2026-05-08
 sources:
   - Pojar, J. & MacKinnon, A. (1994). "Plants of the Pacific Northwest Coast." Lone Pine Publishing.
   - USDA NRCS (2024). "The PLANTS Database." National Plant Data Team, Baton Rouge, LA.
-  - Foster, S. & Hobbs, C. (1999). "A Field Guide to Western Medicinal Plants and Herbs." Houghton Mifflin.
-  - Moerman, D.E. (1998). "Native American Ethnobotany." Timber Press.
+  - Foster, S. & Hobbs, C. (1999). "A [[ghouled-field-guide-historical-context]] to Western Medicinal Plants and Herbs." Houghton Mifflin.
+  - Moerman, D.E. (1998). "[[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany." Timber Press.
 ---
 
 ## Overview
 
 **Sambucus cerulea**, commonly known as blue elderberry or blue elder, is a deciduous shrub or small tree in the family Adoxaceae.
 
-It is native to western North America, ranging from British Columbia south through California and eastward to the Rocky Mountains.
+It is native to western [[psilocybin-north-america-pacific-northwest]], ranging from British Columbia south through California and eastward to the Rocky Mountains.
 
 Blue elderberry produces large clusters of dark blue to purple berries that are important food sources for wildlife and have been widely used by Indigenous peoples.
 
@@ -128,7 +128,7 @@ Over 50 species of birds consume the berries, including robins, cedar waxwings, 
 
 Deer and elk browse the foliage, while the dense thickets provide nesting cover and escape habitat for small mammals.
 
-The flowers are an important late-spring nectar source for native bees, butterflies, and syrphid flies.
+The flowers are an important late-spring nectar source for [[query-how-to-attract-native-bees-and-beneficial-insects]], butterflies, and syrphid flies.
 
 Riparian elderberry thickets stabilize streambanks and reduce erosion, contributing to watershed health.
 
@@ -137,6 +137,6 @@ In California, elderberry shrubs are the obligate host plant for the valley elde
 ## See Also
 
 - [[sambucus-canadensis]]
-- [[vaccinium-corymbosum-entity|[[vaccinium-macrocarpon]]
+- [[vaccinium-corymbosum-entity|vaccinium-macrocarpon]]
 - [[vaccinium-myrtillus]]
-- [[rubus-idaeus-entity|[[morus-nigra]]
+- [[morus-nigra]]

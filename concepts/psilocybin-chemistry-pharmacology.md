@@ -9,7 +9,7 @@ tags: [chemistry, pharmacology, psilocybin, tryptamines, neuroscience]
 
 ## Overview
 
-Psilocybin and psilocin are the primary psychoactive compounds found in hallucinogenic mushrooms of the genera Psilocybe, Panaeolus, Conocybe, Copelandia, and Inocybe. These indolealkylamine compounds belong to the tryptamine class, placing them in the same broad chemical family as serotonin (5-hydroxytryptamine, 5-HT) and LSD. The structural similarity to serotonin is central to their pharmacological activity and underpins their effects on consciousness, perception, and mood.
+Psilocybin and psilocin are the primary psychoactive compounds found in [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] of the genera Psilocybe, Panaeolus, Conocybe, Copelandia, and Inocybe. These indolealkylamine compounds belong to the tryptamine class, placing them in the same broad chemical family as serotonin (5-hydroxytryptamine, 5-HT) and LSD. The structural similarity to serotonin is central to their pharmacological activity and underpins their effects on consciousness, perception, and mood.
 
 The discovery and characterization of these compounds spans several decades of research, from their initial isolation by gordon-wasson in 1958 to modern neuroimaging studies mapping their effects on brain connectivity. Understanding their chemistry is essential for comprehending both their subjective effects and their therapeutic potential.
 
@@ -36,7 +36,7 @@ Both are considered less active than psilocybin and psilocin, though their exact
 
 ## Classification of Hallucinogens
 
-Hallucinogens can be grouped by chemical structure into three major categories, each with distinct receptor binding profiles and subjective effect profiles:
+Hallucinogens can be grouped by chemical structure into three major categories, each with distinct [[tihkal-receptor-binding-serotonin]] profiles and subjective effect profiles:
 
 1. **Indolealkylamines (tryptamines)**: LSD, psilocybin, psilocin, DMT, 5-MeO-DMT
 2. **Phenylethylamines**: Mescaline, 2C-B, DOI
@@ -55,7 +55,7 @@ Psilocin acts primarily on the serotonin system as a **5-HT2A post-synaptic agon
 
 ## Comparison with Amanita Muscaria Chemistry
 
-The fly agaric ([[ibotenic-acid-entity]], and muscarine — with no structural relationship to tryptamines. These act primarily on GABA_A receptors (muscimol is a potent GABA agonist) and glutamate receptors (ibotenic acid is a glutamate agonist), rather than serotonin receptors.
+The fly agaric (ibotenic-acid-entity, and muscarine — with no [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to tryptamines. These act primarily on GABA_A receptors (muscimol is a potent GABA agonist) and glutamate receptors (ibotenic acid is a glutamate agonist), rather than serotonin receptors.
 
 The subjective effects are markedly different: Amanita intoxication is characterized by sedation, dissociation, and ataxia rather than the visual and cognitive effects of psilocybin mushrooms. Additionally, some closely related Amanita species (A. phalloides, A. virosa) contain lethal amatoxins, contributing to the lower popularity and greater danger of this genus compared to psilocybin mushrooms.
 
@@ -80,13 +80,13 @@ Psilocybin is biosynthesized in the fungal mycelium through a pathway that begin
 3. **DMT → 4-hydroxy-N,N-dimethyltryptamine (psilocin)**: Hydroxylation at the 4-position of the indole ring by a monooxygenase enzyme
 4. **Psilocin → psilocybin**: Phosphorylation by a 4-hydroxytryptamine kinase
 
-The discovery of the psilocybin biosynthetic gene cluster (PsiK, PsiM, PsiD, PsiH) has enabled researchers to understand the genetic basis of psilocybin production and has opened pathways for potential biotechnological production. Remarkably, these genes appear to have been acquired independently through horizontal gene transfer in multiple fungal lineages, suggesting convergent evolution of psilocybin production.
+The discovery of the psilocybin biosynthetic gene cluster (PsiK, PsiM, PsiD, PsiH) has enabled researchers to understand the genetic basis of [[gottlieb-psilocybin-production-extraction-methods]] and has opened pathways for potential biotechnological production. Remarkably, these genes appear to have been acquired independently through horizontal gene transfer in multiple fungal lineages, suggesting convergent evolution of psilocybin production.
 
 ## Historical Discovery
 
 Psilocybin was first isolated and characterized by the Swiss chemist Albert Hofmann in 1958, following the identification of psychoactive mushrooms by R. Gordon Wasson during his 1955 expedition to Mexico. Wasson's 1957 Life magazine article "Seeking the Magic Mushroom" brought psilocybin mushrooms to widespread public attention in the West. Hofmann subsequently identified psilocybin as the active principle and went on to synthesize it in the laboratory.
 
-The indigenous use of psilocybin mushrooms in Mesoamerica dates back at least several thousand years, with archaeological evidence including mushroom stones found in Guatemala dating to approximately 1000 BCE. The Mazatec people of Oaxaca, Mexico, continue to use psilocybin mushrooms in traditional healing and divination ceremonies, referring to them as "teonanácatl" — "flesh of the gods."
+The indigenous use of psilocybin mushrooms in Mesoamerica dates back at least several thousand years, with archaeological evidence including mushroom stones found in Guatemala dating to approximately 1000 BCE. The Mazatec people of Oaxaca, Mexico, continue to use psilocybin mushrooms in traditional [[metzner-shamanic-healing-and-divination-paradigm]] ceremonies, referring to them as "teonanácatl" — "flesh of the gods."
 
 ## Modern Research Directions
 
@@ -97,7 +97,7 @@ Contemporary research into psilocybin has focused on its therapeutic potential f
 - **Substance use disorders**: Preliminary research suggests psilocybin may reduce problematic alcohol and tobacco use
 - **Cluster headaches**: Anecdotal reports and early research indicate potential benefits for this severe headache condition
 
-The mechanism underlying these therapeutic effects is thought to involve increased psychological flexibility, enhanced emotional processing, and the generation of meaningful psychological insights during the psychedelic experience.
+The mechanism underlying these therapeutic effects is thought to involve increased psychological flexibility, enhanced emotional processing, and the generation of meaningful psychological insights during the [[leary-psychedelic-experience-bardo-mapping]].
 
 ## See Also
 
@@ -109,3 +109,6 @@ The mechanism underlying these therapeutic effects is thought to involve increas
 - Gossop, M. (1993). Drugs and addictive behaviour: A guide to treatment.
 - Pechnick, R.N. & Ungerleider, J.T. (2005). Hallucinogens.
 - Guzmán, G., Allen, J.W. & Gartz, J. (2000). A worldwide geographical distribution of the neurotropic fungi.
+- [[psilocybin-chemistry-and-pharmacology]]
+- [[psilocybin-mushrooms]]
+- [[neurotropic-fungi]]

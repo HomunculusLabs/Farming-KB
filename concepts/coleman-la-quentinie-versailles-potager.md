@@ -1,5 +1,5 @@
 ---
-title: "La Quintinie and the Versailles Potager: Origins of Intensive Vegetable Production"
+title: "La Quintinie and the Versailles Potager: Origins of Intensive dry-gardening-unirrigated-vegetable-production-solomon"
 source: eliot-coleman-winter-harvest-handbook
 topics: history, intensive-gardening, season-extension, french-agriculture
 ---
@@ -10,7 +10,7 @@ topics: history, intensive-gardening, season-extension, french-agriculture
 
 The intensive vegetable production system that reached its zenith in
 nineteenth-century Paris had its origins two centuries earlier in the
-royal potager (vegetable garden) at the Palace of Versailles. The
+royal potager ([[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]) at the Palace of Versailles. The
 celebrated head gardener Jean-Baptiste de La Quintinie (1626-1688)
 pioneered many of the techniques that would later be refined and
 expanded by the Parisian maraichers (market gardeners).
@@ -22,7 +22,7 @@ manage the royal vegetable garden at Versailles. His official title
 was Directeur Général des Jardins Fruitiers et Potagers de Toutes les
 Maisons Royales (Director General of Fruit and Vegetable Gardens of
 All the Royal Houses). Under his direction, the Potager du Roi (King's
-Kitchen Garden) became a model of intensive cultivation.
+[[holzer-kitchen-garden-herbs-and-medicinal-plants]]) became a model of intensive cultivation.
 
 La Quintinie was not merely a gardener but a serious student of plant
 physiology. He conducted careful experiments on soil management, pruning,
@@ -51,7 +51,7 @@ become foundational to the French intensive system:
    [[coleman-four-season-farm]]
 - [[coleman-moveable-greenhouse-system]]
 
-See also: [[greenhouse-gardening-and-season-extension]]
+See also: [[solomon-greenhouse-and-season-extension-basics]]
 ## Practical Considerations
 
 When working with La Quintinie and the Versailles Potager: Origins of Intensive Vegetable Production, several practical factors should be
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -49,7 +49,7 @@ Bufotenin acts primarily as a **serotonin 5-HT₂A receptor agonist**, the same 
 - **5-HT₃** — the only ionotropic serotonin receptor; bufotenin's activity here may contribute to nausea
 - **Sigma-1 receptor** — agonist; this receptor is involved in neuroprotection and modulation of calcium signaling
 
-This broad receptor binding profile distinguishes bufotenin from DMT and contributes to its distinct subjective effects and side-effect profile.
+This broad [[tihkal-receptor-binding-serotonin]] profile distinguishes bufotenin from DMT and contributes to its distinct subjective effects and side-effect profile.
 
 ### Pharmacokinetics
 
@@ -70,7 +70,7 @@ When vaporized and inhaled, bufotenin produces rapid-onset psychedelic effects w
 - **Rana species** — various frog species worldwide
 
 ### Plant Sources
-- **Anadenanthera peregrina** (yopo / cohoba) — seeds used as a psychoactive snuff in South American shamanic traditions; bufotenin present alongside DMT, 5-MeO-DMT, and β-carboline alkaloids
+- **[[yopo-anadenanthera-peregrina-snuff]]** (yopo / cohoba) — seeds used as a psychoactive snuff in [[chiric-caspi-brunfelsia-south-american-hallucinogen]] shamanic traditions; bufotenin present alongside DMT, 5-MeO-DMT, and β-carboline alkaloids
 - **Anadenanthera colubrina** (vilca / cebil) — seeds similarly used as an entheogenic snuff in the Andes and western Amazon
 - **Piptadenia macrocarpa** and related Fabaceae species — bark and seeds
 
@@ -88,7 +88,7 @@ The most significant ethnobotanical use of bufotenin involves the preparation an
 
 The snuff is blown into the nostrils using a hollow tube (often made from bird bone or bamboo) or administered by a partner who blows the powder forcefully into the recipient's nostrils using a blowpipe. The effects begin within minutes and include intense visual imagery, altered perception of space and time, and sometimes profound visionary experiences.
 
-Archaeological evidence for the use of *Anadenanthera* snuffs extends back approximately 4,000 years. Snuffing tubes and trays have been found at pre-Columbian archaeological sites throughout the Caribbean and northern South America. Chemical analysis of residue from these artifacts has confirmed the presence of bufotenin, DMT, and various β-carboline alkaloids. The inclusion of β-carboline alkaloids (which function as monoamine oxidase inhibitors) is pharmacologically significant, as they may potentiate the activity of the tryptamine compounds when absorbed through the nasal mucosa.
+Archaeological evidence for the use of *Anadenanthera* snuffs extends back approximately 4,000 years. Snuffing tubes and trays have been found at pre-Columbian archaeological sites throughout the Caribbean and northern South America. [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of residue from these artifacts has confirmed the presence of bufotenin, DMT, and various β-carboline alkaloids. The inclusion of β-carboline alkaloids (which function as monoamine oxidase inhibitors) is pharmacologically significant, as they may potentiate the activity of the tryptamine compounds when absorbed through the nasal mucosa.
 
 ## Legal Status and Conservation Concerns
 
@@ -103,13 +103,13 @@ Increased demand for *I. alvarius* venom has raised conservation concerns. The s
 
 ## Modern Research and Therapeutic Potential
 
-A landmark 2019 study published in *Scientific Reports* by researchers at the University of California, San Diego, conducted the first modern controlled clinical trial of inhaled bufotenin. The study found that the compound produced significant psychedelic effects with a favorable safety profile, challenging decades of older literature that had characterized bufotenin as primarily toxic and non-psychedelic. This reassessment has opened new avenues for research into bufotenin's therapeutic potential.
+A landmark 2019 study published in *Scientific Reports* by researchers at the University of California, San Diego, conducted the first modern controlled clinical trial of inhaled bufotenin. The study found that the compound produced significant psychedelic effects with a favorable [[cannabis-safety-profile-and-overdose-risk]], challenging decades of older literature that had characterized bufotenin as primarily toxic and non-psychedelic. This reassessment has opened new avenues for research into bufotenin's therapeutic potential.
 
 Key findings from modern research include:
 
 - **Psychedelic efficacy:** Inhaled bufotenin reliably produced mystical-type experiences on validated psychometric scales (Mystical Experience Questionnaire), comparable in intensity to those produced by psilocybin and DMT in clinical settings.
 - **Safety profile:** No serious adverse events were reported in controlled settings. The most common side effects were transient anxiety during onset, facial flushing, and mild nausea — all consistent with known pharmacology.
-- **Duration advantage:** The relatively short duration of bufotenin's effects (15–30 minutes when inhaled) compared to psilocybin (4–6 hours) or LSD (8–12 hours) may offer practical advantages in clinical settings, reducing the time and resources required for supervised therapeutic sessions.
+- **Duration advantage:** The relatively [[savory-short-duration-grazing-and-cell-systems]] of bufotenin's effects (15–30 minutes when inhaled) compared to psilocybin (4–6 hours) or LSD (8–12 hours) may offer practical advantages in clinical settings, reducing the time and resources required for supervised therapeutic sessions.
 - **Dose-response:** A clear dose-response relationship was established, with higher doses producing more intense psychedelic experiences and greater persisting positive changes in mood and attitudes.
 
 Research into bufotenin's therapeutic potential for mood disorders, particularly treatment-resistant depression and anxiety disorders, is ongoing but remains in early stages compared to the more advanced clinical programs for psilocybin and MDMA-assisted therapy.
@@ -129,6 +129,9 @@ Bufotenin's pharmacological profile can be usefully compared with its close rela
 | **Body load** | Moderate | Low-moderate | Low | Low-moderate |
 
 ## See Also
+
+- [[gelsemine]]
+- [[koumine]]
 
 - [[amanita-muscaria-entity]] — fungal source with overlapping biochemistry
 - Plants of the Gods — ethnobotanical reference covering bufotenin-containing species

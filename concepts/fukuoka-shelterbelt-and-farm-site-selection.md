@@ -2,13 +2,13 @@
 title: Fukuoka's Shelterbelt Design and Natural Farm Site Selection
 source: administrator-microsoft-word-fukuoka-textdoc.md
 author: Masanobu Fukuoka
-topics: natural farming, shelterbelts, windbreaks, farm design, wood preserve, permaculture
+topics: [[comparison-natural-farming-vs-permaculture]], shelterbelts, windbreaks, farm design, wood preserve, permaculture
 ---
 # Fukuoka's Shelterbelt Design and Natural Farm Site Selection
 
 ## Overview
 
-In *The [[natural-farming-guide-forest-garden-strategy-and-ecological-succession]] y, existing vegetation, and ecological succession to create a self-sustaining farm. Central to his design philosophy are two integrated concepts: **ideal site selection** and the establishment of **shelterbelts and wood preserves** that serve as the farm's protective and productive perimeter.
+In *The [[natural-farming-guide-forest-garden-strategy-and-ecological-succession]] y, existing vegetation, and [[holmgren-ecological-succession-and-pulsing]] to create a self-sustaining farm. Central to his design philosophy are two integrated concepts: **ideal site selection** and the establishment of **shelterbelts and wood preserves** that serve as the farm's protective and productive perimeter.
 
 ## Ideal Farm Site Selection
 
@@ -37,7 +37,7 @@ A well-designed shelterbelt mixes fast and slow growers so that immediate protec
 
 ## Wood Preserves
 
-The surrounding woods are not merely a backdrop — Fukuoka treats them as a **natural preserve** and a primary source of organic fertilizer for the farm. The wood preserve serves three critical functions:
+The surrounding woods are not merely a backdrop — Fukuoka treats them as a **natural preserve** and a primary source of [[complete-organic-fertilizer-cof-recipe-solomon]] for the farm. The wood preserve serves three critical functions:
 
 1. It anchors the hillside soil and prevents erosion.
 2. It generates a continuous supply of leaf litter, branch material, and woody debris that feeds the farm's soil.
@@ -49,7 +49,7 @@ Fukuoka describes three pathways to building deep, fertile soil from the wood pr
 
 1. **Direct burial**: Coarse organic matter (branches, trunks, leaves) is buried deep in the ground where it decomposes slowly, creating humus-rich layers far below the surface.
 2. **Gradual improvement**: Planting deep-rooted grasses and trees progressively breaks up compacted subsoil and draws nutrients upward, improving soil structure over years.
-3. **Downhill nutrient transport**: Rainwater carries dissolved minerals and organic particles from the upland woods downhill, naturally enriching the soil at the hill's foot where the farm is located.
+3. **Downhill [[mycelial-network-nutrient-transport-imaging-gadd]]**: Rainwater carries dissolved minerals and organic particles from the upland woods downhill, naturally enriching the soil at the hill's foot where the farm is located.
 
 The third method is particularly important — it means that a well-managed hilltop wood preserve acts as a slow-release fertilizer system for the farm below.
 
@@ -102,7 +102,7 @@ Fukuoka's approach to establishing orchards on hillsides deliberately avoids the
 3. The organic material is **covered with earth** and left to decompose in place.
 4. **No vegetation is carried away** — all biomass remains on site, recycling nutrients.
 
-This method contrasts sharply with conventional orchard establishment, which typically uses bulldozers to strip the land bare. Fukuoka argues that clearing destroys the soil's organic layer, disrupts microbial ecosystems, and requires heavy capital investment.
+This method contrasts sharply with conventional [[fukuoka-citrus-orchard-establishment-bare-hillside]], which typically uses bulldozers to strip the land bare. Fukuoka argues that clearing destroys the soil's organic layer, disrupts microbial ecosystems, and requires heavy capital investment.
 
 ### Advantages of the Natural Approach
 
@@ -123,7 +123,7 @@ Fukuoka's shelterbelt and site selection design rests on several foundational pr
 
 ## See Also
 
-- [[fukuoka-natural-farming]] — Overview of Fukuoka's natural farming philosophy
+- [[fukuoka-natural-farming]] — Overview of Fukuoka's natural [[fukuoka-do-nothing-farming-philosophy-and-practice]]
 - fukuoka no till method — No-till cultivation techniques
 - fukuoka [[fukuoka-textdoc-orchard-management-weed-succession-formative-pruning]] — Orchard care without chemicals or pruning
 - wood preserve management — Managing forest edges for farm fertility

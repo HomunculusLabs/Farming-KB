@@ -1,5 +1,5 @@
 ---
-title: Water Conservation and Irrigation
+title: water-conservation and Irrigation
 created: 2026-04-28
 tags: [water, irrigation, swales, rainwater-harvesting, natural-farming]
 date: 2026-04-28
@@ -20,9 +20,9 @@ and animals using water, and the kinds of plants you want to grow. In a
 ## Water Purification
 
 Ground water is often contaminated with parasites like Giardia and
-agricultural chemicals. The most effective homemade purification is
+[[agricultural-chemicals-mycorrhizal-impact]]. The most effective homemade purification is
 distillation: boiling water to make steam, which is then condensed back to
-liquid, minus impurities. This removes heavy metals, poisons, bacteria,
+liquid, minus impurities. This removes [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]], poisons, bacteria,
 viruses, nitrates, and fluoride. A slow sand filter is simpler but slightly
 less effective: a tank with pebbles, gravel, coarse sand, and fine sand
 through which water flows, leaving impurities behind. It requires no energy
@@ -30,7 +30,7 @@ and no pressure.
 
 ## See Also
 
-- [[natural-farm-permaculture-ethics-principles]]
+- natural-farm-permaculture-ethics-principles
 - [[natural-farm-food-preservation-methods]]
 ## Practical Applications
 
@@ -49,7 +49,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -99,7 +99,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -109,4 +109,4 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+- [[permaculture]]

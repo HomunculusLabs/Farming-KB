@@ -1,5 +1,5 @@
 ---
-title: Traditional Mountain Paddy Aesthetics and Spiritual Wisdom
+title: fukuoka textdoc traditional mountain paddy aesthetics spiritual wisdom Paddy Aesthetics and Spiritual Wisdom
 created: 2026-05-06
 tags:
   - fukuoka
@@ -25,10 +25,10 @@ type: concept
 
 [[natural-farming]]
 
-The traditional mountain paddy embodies all the principles of natural farming. It
-requires no fertilizer because natural vegetation returns organic matter to the soil.
+The traditional mountain paddy embodies all the [[four-principles-of-natural-farming]] farming. It
+requires no fertilizer because natural vegetation returns [[hamilton-composting-and-organic-matter-management]] to the soil.
 It requires no pesticides because the diverse ecosystem of the mountain valley maintains
-natural pest balance. It requires no heavy machinery because human-scale tools and
+[[cho-natural-pest-control-methods]] balance. It requires no heavy machinery because human-scale tools and
 knowledge are sufficient. Most importantly, it requires no sacrifice of spiritual
 fulfillment for material productivity, because the two are inseparable in this
 approach to agriculture.
@@ -113,4 +113,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

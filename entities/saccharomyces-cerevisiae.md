@@ -34,10 +34,10 @@ The genus name *Saccharomyces* derives from Greek words meaning "sugar fungus," 
 *Saccharomyces cerevisiae* is a unicellular fungus with the following characteristics:
 
 - **Cell Shape:** Ovoid to ellipsoidal, typically 5 to 10 μm in diameter
-- **Reproduction:** Reproduces asexually by budding, in which a small daughter cell emerges from the surface of the mother cell. Under nutrient limitation, it can also undergo sexual reproduction, forming diploid cells that undergo meiosis to produce four haploid ascospores contained within an ascus
-- **Cell Wall:** Composed of glucans, mannoproteins, and chitin. Beta-1,3-glucan is the major structural component, while beta-1,6-glucan provides cross-linking. The cell wall also contains alpha-1,3-glucan, though this is a minor component compared to pathogenic fungi
+- **Reproduction:** Reproduces asexually by budding, in which a small daughter cell emerges from the surface of the mother cell. Under nutrient limitation, it can also undergo [[fungal-life-cycles-sexual-reproduction-metamorphosis]], forming diploid cells that undergo meiosis to produce four haploid ascospores contained within an ascus
+- **[[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]]:** Composed of glucans, mannoproteins, and chitin. Beta-1,3-glucan is the major structural component, while beta-1,6-glucan provides cross-linking. The cell wall also contains alpha-1,3-glucan, though this is a minor component compared to pathogenic fungi
 - **Genome:** Approximately 12 Mb in size, distributed across 16 chromosomes, containing approximately 6,275 protein-coding genes. The genome is highly compact, with relatively small intergenic regions compared to higher eukaryotes
-- **Subcellular Organization:** Contains a nucleus, mitochondria, endoplasmic reticulum, Golgi apparatus, vacuoles, and peroxisomes. Unlike filamentous fungi, it does not produce Woronin bodies
+- **Subcellular Organization:** Contains a nucleus, mitochondria, endoplasmic reticulum, Golgi apparatus, vacuoles, and peroxisomes. Unlike filamentous fungi, it does not produce [[fungal-woronin-bodies-and-septal-pore-organization]]
 
 ## Historical Significance
 
@@ -67,7 +67,7 @@ The relationship between humans and *S. cerevisiae* is one of the oldest example
 
 ### Winemaking
 - Both natural wine strains and selected commercial strains are used for grape must fermentation
-- Different strains produce distinct flavor profiles through differential production of esters, higher alcohols, and other volatile compounds
+- Different strains produce distinct flavor profiles through differential production of esters, higher alcohols, and other [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]
 
 ### Baking
 - Baker's yeast is produced industrially as fresh (compressed), active dry, or instant dry yeast
@@ -109,7 +109,7 @@ In natural environments, *S. cerevisiae* is found primarily in association with 
 *S. cerevisiae* has an unparalleled collection of laboratory strains and genetic tools:
 
 - **S288C:** The reference strain whose genome was completed in 1996. It is the basis for the Saccharomyces Genome Database (SGD) and is the most widely used laboratory strain worldwide
-- **BY4741/BY4742:** Haploid derivatives of S288C used extensively in functional genomics. The BY4741 deletion collection (knockout of each non-essential gene) is a foundational resource for systematic phenotyping
+- **BY4741/BY4742:** Haploid derivatives of S288C used extensively in [[magnaporthe-grisea-functional-genomics-rice-blast]]. The BY4741 deletion collection (knockout of each non-essential gene) is a foundational resource for systematic phenotyping
 - **W303:** A widely used laboratory strain with good sporulation efficiency and transformation competence, commonly employed in cell cycle and DNA repair studies
 - **Sc2.0 Project:** An international synthetic biology effort to design and construct a fully synthetic yeast genome with redesigned features, including the removal of transposable elements, introduction of loxPsym sites for SCRaMbLE (Synthetic Chromosome Rearrangement and Modification by LoxP-mediated Evolution), and recoding of TAG stop codons
 - **Yeast Two-Hybrid (Y2H):** A powerful technique for detecting protein-protein interactions, first developed in *S. cerevisiae* and now widely applied across eukaryotes
@@ -125,6 +125,8 @@ The global economic significance of *S. cerevisiae* spans multiple industries:
 - **Research Reagents:** Commercial yeast media, strains, and kits constitute a market exceeding $500 million USD, underpinning basic and applied research worldwide
 
 ## See Also
+
+- [[saccharomyces-paradoxus]]
 
 - [[coprinus-atrementarius-entity-the-mushroom-cultivator]]
 - [[pseudomonas-putida-entity-the-mushroom-cultivator]]

@@ -59,7 +59,7 @@ Modern molecular phylogenetics confirms its placement in *Coriolopsis* sensu str
 
 ## Distribution and Habitat
 
-The species has a pantropical distribution, occurring widely in Central and South America (especially the Brazilian Atlantic Forest), tropical Africa, and Southeast Asia.
+The species has a [[copelandia-cyanescens-pantropical-distribution-and-ecology]], occurring widely in Central and South America (especially the Brazilian Atlantic Forest), tropical Africa, and Southeast Asia.
 
 It fruits almost exclusively on dead hardwood logs and stumps in moist lowland to premontane forests.
 
@@ -69,7 +69,7 @@ Fruiting occurs year-round in consistently wet tropical climates but peaks durin
 
 ## Bioactive Compounds
 
-*C. capitata* has attracted pharmacological interest for its production of diverse secondary metabolites.
+*C. capitata* has attracted pharmacological interest for its production of diverse [[antifungal-secondary-metabolites-coprophilous-fungi]].
 
 Sesquiterpenoids isolated from the species include coriolins and related sesquiterpene lactones with demonstrated antibacterial activity against Gram-positive pathogens.
 
@@ -87,7 +87,7 @@ In parts of the Brazilian Amazon, *C. capitata* is used in folk medicine as a to
 
 Guaraní communities in Paraguay have been documented using related *Coriolopsis* species for treating gastrointestinal complaints, though specific use of *C. capitata* is less well-documented.
 
-No formal clinical trials have evaluated the species for therapeutic use, and its medicinal reputation rests entirely on ethnobotanical reports and in vitro bioassay data.
+No formal [[mushroom-cancer-clinical-trials-overview]] have evaluated the species for therapeutic use, and its medicinal reputation rests entirely on ethnobotanical reports and in vitro bioassay data.
 
 The antimicrobial sesquiterpenoids show promising minimum inhibitory concentrations (MICs of 8–32 µg/mL) against *Staphylococcus aureus* and *Bacillus subtilis*.
 
@@ -97,7 +97,7 @@ Anti-inflammatory effects have been demonstrated in mouse ear edema models using
 
 *C. capitata* is a white-rot decomposer that primarily degrades lignin through peroxidase and laccase enzyme systems.
 
-It plays an important role in tropical forest nutrient cycling by breaking down recalcitrant woody substrates that would otherwise accumulate.
+It plays an important role [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by breaking down recalcitrant woody substrates that would otherwise accumulate.
 
 The species serves as a microhabitat for diverse invertebrates, including beetle larvae (Coleoptera: Ciidae) that specialize on polypore fungi.
 
@@ -107,7 +107,7 @@ Its fruiting bodies are occasionally consumed by arboreal mammals, though it is 
 
 ## Similar Species
 
-*C. occidentalis* (Klotzsch) Murrill — North American species with larger pores (2–3 per mm) and a more grayish upper surface.
+*C. occidentalis* (Klotzsch) Murrill — [[growing-gourmet-north-american-reishi-species]] species with larger pores (2–3 per mm) and a more grayish upper surface.
 
 *C. polyzona* (Pers.) Ryvarden — Very similar, distinguished by smaller spores (5–7 × 1.5–2 µm) and a thinner context layer.
 

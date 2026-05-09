@@ -12,10 +12,10 @@ type: comparison
 
 ## Overview
 
-Jadam Natural Pesticide (JNP) and Jadam Microorganism Solution (JMS) are two of the
+Jadam [[jadam-natural-pesticide-institute-and-research]] (JNP) and Jadam [[jadam-microorganism-solution-culturing]] (JMS) are two of the
 most important inputs in the JADAM ultra-low-cost farming system. While both are
 produced from on-farm materials at near-zero cost, they serve fundamentally different
-purposes: JNP targets pest and disease management above ground, while JMS builds soil
+purposes: JNP targets pest and [[plant-disease-management-solomon]] above ground, while JMS builds soil
 biology and plant resilience from below. Understanding when and how to use each is
 essential for getting the most from the JADAM approach.
 
@@ -23,7 +23,7 @@ essential for getting the most from the JADAM approach.
 
 [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]]
 
-JMS is JADAM's equivalent of the KNF Indigenous Microorganism (IMO) series,
+JMS is JADAM's equivalent of the KNF [[knf-indigenous-microorganism-culture]] (IMO) series,
 simplified and adapted for ultra-low-cost production. It is produced by collecting
 leaf mold or forest soil from a biologically active area on or near the farm, then
 mixing it with boiled potato as a food source for the resident microorganisms.
@@ -31,7 +31,7 @@ This mixture ferments for 5 to 7 days, producing a rich, biologically diverse
 liquid inoculant that can be applied as a soil drench or foliar spray.
 
 The strength of JMS lies in its ability to introduce and multiply beneficial
-indigenous microorganisms directly into the farm ecosystem. These microbes improve
+[[beneficial-indigenous-microorganisms-bim]] directly into the farm ecosystem. These microbes improve
 soil structure, enhance nutrient cycling, suppress soil-borne pathogens, and
 stimulate plant immune responses. Because the microorganisms are collected from
 the local environment, they are already adapted to local soil conditions, climate,
@@ -42,7 +42,7 @@ JMS can be produced in large quantities at very low cost using nothing more than
 potatoes, leaf mold, and water. It serves as the biological foundation of the
 JADAM system, building the soil health and plant resilience that make the overall
 approach work. Healthy plants growing in biologically active soil are inherently
-more resistant to pests and diseases, which means that JMS indirectly contributes
+more resistant to [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]], which means that JMS indirectly contributes
 to pest management even though it is not a pesticide itself. JMS is also used in
 JADAM livestock management to control odor and pathogens in animal housing.
 

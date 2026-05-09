@@ -1,5 +1,5 @@
 ---
-title: Cannabis for Nausea and Appetite Stimulation
+title: Cannabis for cannabis for nausea and appetite stimulation Stimulation
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -18,6 +18,8 @@ Cannabis has been recognized as an effective remedy to stimulate appetite and re
 While cancer anorexia studies show mixed results, AIDS-related and elderly-related appetite studies consistently demonstrate positive outcomes. The multi-symptom approach of cannabis (addressing nausea, mood, energy, and sleep alongside appetite) makes it particularly valuable for patients with complex, multi-faceted wasting conditions.
 
 ## See Also
+
+- [[cannabis-for-gerd-and-acid-reflux]]
 
 - [[cannabis-for-periodontitis]]
 
@@ -102,4 +104,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

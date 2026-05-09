@@ -1,5 +1,5 @@
 ---
-title: JADAM Nature as Teacher Philosophy
+title: JADAM jadam nature as teacher philosophy Philosophy
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-"Ask nature" is the foundational methodological and philosophical principle of JADAM organic farming. When faced with any agricultural problem -- soil degradation, salt accumulation, pest pressure, fertilizer management, or disease -- JADAM's first response is to consult nature as a teacher. This principle shapes every aspect of the JADAM system, from soil management to pest control to fertilizer philosophy.
+"Ask nature" is the foundational methodological and philosophical principle of JADAM [[coleman-deep-organic-farming-philosophy]]. When faced with any agricultural problem -- soil degradation, salt accumulation, pest pressure, fertilizer management, or disease -- JADAM's first response is to consult nature as a teacher. This principle shapes every aspect of the JADAM system, from soil management to pest control to fertilizer philosophy.
 
 ## The Central Principle
 
@@ -33,11 +33,11 @@ JADAM applies the "ask nature" principle systematically to every major agricultu
 
 ### Fertilizer Application
 
-"Ask nature: How do you apply fertilizer?" Nature answers with three rules: (i) fresh material, (ii) on the soil surface, (iii) applied in autumn. This contradicts modern scientific agriculture, which says fertilizer should be fully fermented, applied deep into the soil, in spring.
+"Ask nature: How do you apply fertilizer?" Nature answers with three rules: (i) fresh material, (ii) on the soil surface, (iii) applied in autumn. This contradicts modern [[fukuoka-critique-scientific-agriculture-civilization]], which says fertilizer should be fully fermented, applied deep into the soil, in spring.
 
 ### Microorganisms
 
-"Ask nature: How do you manage microorganisms?" Nature shows that leaf mold soil teems with indigenous microorganisms adapted to local conditions. No imported, commercial microbial products are needed -- the soil already contains everything required.
+"Ask nature: How do you manage microorganisms?" Nature shows that leaf mold soil teems with [[beneficial-indigenous-microorganisms-bim]] adapted to local conditions. No imported, commercial microbial products are needed -- the soil already contains everything required.
 
 ### Optimum Fertility
 
@@ -70,7 +70,7 @@ The "ask nature" philosophy underlies JADAM's SESE principle (Simple, Easy, Scie
 
 JADAM's nature-as-teacher philosophy draws from multiple traditions:
 
-**Korean natural farming**: Hankyu Cho's original Natural Farming philosophy emphasized working with nature rather than against it
+**Korean [[comparison-natural-farming-vs-permaculture]]**: Hankyu Cho's original Natural [[fukuoka-do-nothing-farming-philosophy-and-practice]] emphasized working with nature rather than against it
 **Laozi**: Taught relaxation and softness; inspired making JADAM like water that seeps in without conflict
 **Liberation theology**: Emphasized respect for creation and solidarity with the poor and excluded
 **Ecological theology**: Leonardo Boff's ecological theology was a turning point, inspiring the choice to abandon university for farming

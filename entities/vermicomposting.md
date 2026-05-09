@@ -3,7 +3,7 @@ title: "Vermicomposting"
 created: 2026-04-28
 type: species
 tags:
-  - [[earthworm-ecology]]." 2nd ed. CRC Press.
+  - earthworm-ecology." 2nd ed. CRC Press.
   - Ndegwa, P.M. & Thompson, S.A. (2001). "Integrating composting and vermicomposting." Bioresource Technology, 76(2), 107–112.
 ---
 # Vermicomposting
@@ -19,7 +19,7 @@ from thermophilic composting which relies on microbial heat generation.
 The process produces vermicast — a humus-like material rich in planforest-and-bamboo-beneficial-microorganismseneficial microorganis  ns-plant-growth-hormones ones,
  cids. Vermicast consistently outperforms conventional
 compost in germination trials, pl  ti  ease
-suppression, making it a cornerstone  ming, permaculture
+suppression, making it a cornerstone  ming, [[permaculture]]
 design, and .
 
 ## Key Organism Species
@@ -31,7 +31,7 @@ design, and .
 - **Optimal temperature:** 15–25°C (survives 0–35°C)
 - **Optimal moisture:** 70–80% (by weight)
 - **Processing capacity:** Consumes approximately 50–100% of body
-  weight per day in organic matter
+  weight per day in [[hamilton-composting-and-organic-matter-management]]
 - **Reproduction:** Hermaphroditic; cocoon production 1–2 per week
   under optimal conditions; 3–7 hatchlings per cocoon; reaches
   sexual maturity in 40–60 days
@@ -56,7 +56,7 @@ the alternating banding pattern of *E. fetida*.
 
 ## Process Parameters
 
-**Feedstock:** Fruit and vegetable scraps, coffee grounds, tea bags,
+**Feedstock:** Fruit and vegetable scraps, [[oyster-mushroom-coffee-grounds-cultivation]], tea bags,
 crushed eggshells (calcium source), shredded newspaper/cardboard
 (carbon bedding), aged horse/cow manure. Avoid: meat, dairy, oils,
 excessive citrus, alliums, pet waste.
@@ -82,16 +82,16 @@ drops dramatically. Above 30°C, worms migrate or die.
 
 Vermicast differs from conventional compost in several important ways:
 
-- **Nutrient availability:** Higher plant-available nitrogen, phosphorus,
+- **[[ph-and-nutrient-availability-garden-soils]]:** Higher plant-available nitrogen, phosphorus,
   potassium, calcium, magnesium compared to thermophilic compost
 - **Microbiology:** Enormous diversity including nitrogen-fixing bacteria
   (*Azotobacter*, *Azospirillum*), phosphate-solubilizing bacteria,
-  actinomycetes, beneficial fungi (*Trichoderma*, *Pseudomonas*)
+  actinomycetes, beneficial fungi (*[[trichoderma]]*, *[[pseudomonas]]*)
 - **Plant growth hormones:** Auxins, gibberellins, cytokinins produced
   during gut transit
-- **Humic substances:** 6–20% humic and fulvic acids, chelating
+- **Humic substances:** 6–20% [[teaming-with-microbes-humic-and-fulvic-acids]] acids, chelating
   micronutrients and improving 
-- **Disease suppression:** Antibiotic-producing organisms suppress
+- **[[aact-disease-suppression-mechanisms-ingham]]:** Antibiotic-producing organisms suppress
   soilborne pathogens (*Pythium*, *Rhizoctonia*, *Fusarium*)
 
 ## Vermicomposting Systems
@@ -115,7 +115,7 @@ engineered biofilters, reducing BOD, COD, and pathogen loads.
 
 - **Closed-loop cycling:** Converts kitchen/garden waste into plant-
   available fertilizer on-site, eliminating external inputs
-- **Compost tea substrate:** Preferred substrate for aerated compost
+- **Compost tea substrate:** Preferred substrate for [[actively-aerated-compost-tea]]
   tea (ACT) due to superior microbial diversity
 - **Potting mix amendment:** 5–10% vermicast by volume dramatically
   improves plant growth and disease resistance
@@ -128,5 +128,6 @@ engineered biofilters, reducing BOD, COD, and pathogen loads.
 
 A well-managed household bin (0.5–1 kg worms) processes 0.5–1 kg of
 ## See Also
-- [[gaias-garden-compost-worm-methods]]
-- [[permaculture-urban-waste-food-systems]]
+- gaias-garden-compost-worm-methods
+- permaculture-urban-waste-food-systems
+- [[query-how-do-i-start-a-worm-compost-bin-for-my-garden]]

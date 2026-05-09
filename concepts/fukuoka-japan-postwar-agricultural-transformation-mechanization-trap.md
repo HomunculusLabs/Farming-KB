@@ -1,6 +1,6 @@
 ---
-title: "Japan's Postwar Agricultural Transformation: The Mechanization Trap"
-source: "[[masanobu-fukuoka]] — The Natural Way of Farming: The Theory"
+title: "Japan's fukuoka japan postwar agricultural transformation mechanization trap Transformation: The fukuoka-mechanization-trap-and-farmer-alienation"
+source: "masanobu-fukuoka — The Natural Way of Farming: The Theory"
 tags: [japan-agriculture, postwar-mechanization, farm-village-culture, agricultural-collapse, mechanization-trap, fukuoka, farming-population, rural-decline]
 created: 2026-05-08
 ---
@@ -17,7 +17,7 @@ In *The Natural Way of Farming: The Theory*, [[natural-farming]] rhythms.
 
 **Infrastructure lock-in**: Paved roads, electricity, and communications systems create expectations of modern convenience that require continued income to maintain.
 
-**Cultural destruction**: The sunken hearth disappears, along with fireside discussions and village philosophy. "Everyone sits instead before the TV set, listening to traditional country songs and reminiscing over the past."
+**Cultural destruction**: The sunken hearth disappears, along with fireside discussions and [[fukuoka-textdoc-village-philosophy-disappearance]]. "Everyone sits instead before the TV set, listening to traditional country songs and reminiscing over the past."
 
 ## Population Shift and Its Consequences
 
@@ -34,7 +34,7 @@ Japan experienced "such a sudden and dramatic transformation" following WWII:
 Fukuoka reframes Japan's "economic miracle" as extraction from the countryside:
 
 - The farmer's interpretation differs from the official narrative of "good fortune and wise leadership."
-- Changes in farming methods freed surplus manpower that poured into cities.
+- Changes in [[natural-farming-methods-comparison]] freed surplus manpower that poured into cities.
 - But "this prosperity has made things harder on the farmer."
 - The skyscrapers, highways, and subways of the metropolises "would never have materialized" without rural labor.
 
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

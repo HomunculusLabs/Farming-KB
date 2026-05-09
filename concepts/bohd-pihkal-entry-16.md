@@ -1,5 +1,5 @@
 ---
-title: BOHD (2,5-Dimethoxy-beta-hydroxy-4-methylphenethylamine) - PIHKAL Entry #16
+title: BOHD (2,5-Dimethoxy-beta-hydroxy-4-methylphenethylamine) - 2c-b-pihkal-entry-20 #16
 created: 2026-04-28
 tags: [pihkal, phenethylamine, beta-ethanolamine, hypotensive, box-family]
 date: 2026-04-28
@@ -11,7 +11,7 @@ type: concept
 
 # BOHD
 
-**PIHKAL Entry #16**
+**[[2c-b-pihkal-entry-20]] #16**
 
 ## Chemical Identity
 
@@ -43,7 +43,7 @@ The synthesis was an unexpected result of exploring zinc as a
 reducing agent for the intermediate nitroalkane
 (1-(2,5-dimethoxy-4-methylphenyl)-1-methoxy-2-nitroethane,
 described in the BOD recipe). Treatment with powdered zinc (1.0 g)
-in acetic acid (3.0 mL) at 100 °C on a steam bath, followed by
+in acetic acid (3.0 mL) at 100 °C on a [[scythian-cannabis-steam-bath-ritual]], followed by
 concentrated HCl (1.0 mL) and additional acetic acid to maintain
 smooth stirring for 0.5 h, yielded the beta-hydroxy product instead
 of the expected beta-methoxy compound. The yield was modest (0.2 g

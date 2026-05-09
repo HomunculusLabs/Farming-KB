@@ -1,5 +1,5 @@
 ---
-title: Critique of Scientific Agriculture
+title: fukuoka-critique-of-scientific-agriculture Agriculture
 created: 2026-04-28
 tags:
   - natural-farming
@@ -61,7 +61,7 @@ conditions.
 
 Fukuoka argued that progressive specialization in agricultural research actually
 decreases rather than increases overall productivity. Agricultural research stations
-maintain separate sections for cultivation techniques, fertilizers, and pest control,
+maintain separate sections for cultivation techniques, fertilizers, and [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]],
 each pursuing specialized research independently. This fragmentation means that
 findings cannot be integrated into a coherent whole.
 
@@ -97,12 +97,12 @@ predators, and leaves dragonfly larvae, tadpoles, and loaches vulnerable.
 
 The fundamental problem is that pesticides are applied without understanding why
 insect outbreaks occur in the first place. Fukuoka argued that diseases and pests
-are self-defense measures taken by nature to restore balance when the natural order
+are self-defense measures taken by nature to restore balance when the [[fukuoka-textdoc-natural-order-food-chain-unity]]
 has been disturbed. Pests are warnings that something has gone wrong. When man
 responds by killing the pest without addressing the underlying imbalance, he
 triggers further ecological disruption.
 
-Even the concept of "beneficial insects" versus "pests" is problematic. In the
+Even the concept of "[[comparison-beneficial-insects-guide-vs-integrated-pest-management]]" versus "pests" is problematic. In the
 complex web of ecological relationships, there is no way to determine with certainty
 which organisms are beneficial and which are harmful. A beneficial insect may feed
 on a pest that kills another beneficial controlling yet another pest. Attempting to
@@ -111,7 +111,7 @@ manage this complexity through selective pesticide application is futile.
 ## Energy Inefficiency
 
 Fukuoka demonstrated that scientific agriculture is extraordinarily energy-inefficient.
-Natural farming produces 130 pounds of rice per man-day of labor without outside
+[[comparison-natural-farming-vs-permaculture]] produces 130 pounds of rice per man-day of labor without outside
 inputs, about one hundred times the daily caloric intake of a farmer. Traditional
 farming with draft animals requires five to ten times the energy input, small-scale
 mechanization doubles it again, and large-scale mechanization doubles it yet again.
@@ -124,7 +124,7 @@ Fukuoka also criticized organic farming as merely another form of scientific
 agriculture. Although it avoids synthetic chemicals, it still treats soil fertility
 as a management problem solved through human effort. Labor-intensive compost
 preparation achieves at most a ten to twenty percent speedup in decomposition
-compared to simply spreading raw organic matter on the field, a negligible gain.
+compared to simply spreading raw [[hamilton-composting-and-organic-matter-management]] on the field, a negligible gain.
 Fukuoka predicted organic farming would eventually be assimilated by the very system
 it claims to oppose.
 

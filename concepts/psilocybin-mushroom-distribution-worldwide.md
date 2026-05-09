@@ -1,22 +1,22 @@
 ---
-title: Psilocybin Mushroom Distribution Worldwide
+title: Psilocybin psilocybin mushroom distribution worldwide Worldwide
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [psilocybin, mushrooms]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources: []
 ---
 # Global Distribution of Psilocybin Mushrooms
 
 ## Overview
 
-Based on the comprehensive survey by Guzman, Allen, and Gartz (2000), 216 species of neurotropic fungi are known worldwide. These are divided into four groups: (1) species with psilocybin and related indoles (the vast majority), (2) species with ibotenic acid ([[psilocybe-cubensis-distribution-and-ecology]]
+Based on the comprehensive survey by Guzman, Allen, and Gartz (2000), 216 species of [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] are known worldwide. These are divided into four groups: (1) species with psilocybin and related indoles (the vast majority), (2) species with [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] (psilocybe-cubensis-distribution-and-ecology
 
 - [[psilocybe-antioquensis]]
 - [[psilocybe-guilartensis]]
 - [[psilocybe-naematoliformis]]
-- [[psilocybe-thrausta]]
+- psilocybe-thrausta
 - [[psilocybe-villamedinensis]]
 
 - [[psilocybe-subcaerulipes]]
@@ -27,14 +27,16 @@ Based on the comprehensive survey by Guzman, Allen, and Gartz (2000), 216 specie
 
 - [[psilocybe-bohemica]]
 
-- [[allen-magic-mushrooms-australia-newzealand-species-guide]]
+- allen-magic-mushrooms-australia-newzealand-species-guide
 
 - [[psilocybin-mushroom-habitats-ecology]], 
 
-- [[mushroom-poisoning-and-lookalikes]] -- Dangerous lookalike species
+- mushroom-poisoning-and-lookalikes -- Dangerous lookalike species
 - [[psychedelic-plant-sources]] -- All major psychedelic organism sources
 
 ## Related
+
+- [[sandoz-psilocybin-distribution-program]]
 ## Practical Applications
 
 Psilocybin Mushroom Distribution Worldwide has a range of practical applications that make it relevant to
@@ -112,4 +114,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

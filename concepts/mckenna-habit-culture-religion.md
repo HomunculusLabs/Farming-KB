@@ -19,7 +19,7 @@ gave rise to pathological forms of social organization.
 
 The shaman, through controlled use of psychoactive plants, served as
 the primary social catalyst in early human communities. The ability to
-enter altered states and return with insights created a social bond
+enter [[weil-the-natural-mind-altered-states-normalcy]] and return with insights created a social bond
 fundamentally different from those created by warfare or economic
 exchange.
 
@@ -55,7 +55,7 @@ McKenna uses this term to describe a religious orientation that:
 McKenna connects pathological monotheism directly to the suppression
 of psychoactive plant use. When direct divine experience through plants
 was declared heretical, the priesthood gained monopoly on religious
-authority. The plant became the enemy — a "forbidden fruit."
+authority. The plant became the enemy — a "[[tree-of-knowledge-and-forbidden-fruit-theory]]."
 
 ## Archaic Sexuality and Gender
 
@@ -63,7 +63,7 @@ In partnership cultures, sexuality was celebrated as sacred, connected
 to fertility and plant-based ritual. Psychoactive plants were used in
 fertility ceremonies and associated with the feminine principle.
 
-The shift to dominator culture transformed sexual politics:
+The shift to [[mckenna-dominator-culture-and-suppression-of-ecstasy]] transformed sexual politics:
 
 - Sexuality became regulated and controlled by patriarchal authority
 - The feminine principle was demonized, associated with temptation
@@ -72,7 +72,7 @@ The shift to dominator culture transformed sexual politics:
 
 ### Iboga Among the Fang
 
-McKenna cites iboga (*Tabernanthe iboga*) use among the Fang of Gabon
+McKenna cites iboga (*[[plants-of-the-gods-tabernanthe-iboga-chemistry]]*) use among the Fang of Gabon
 as a surviving archaic practice. The Bwiti religion centers on iboga
 use and represents continuous plant-based spirituality predating both
 Christianity and Islam in sub-Saharan Africa. Bwiti practice involves:
@@ -113,9 +113,9 @@ both human psychology and planetary ecology.
 ## See Also
 
 - [[dominator-culture-and-partnership-society]] - Eisler's framework
-- [[soma-and-the-sacred-mushroom-debate]] - The search for Soma
+- [[soma-and-the-sacred-mushroom-debate]] - The [[mckenna-search-for-soma-vedic-enigma]]
 - [[eleusinian-mysteries]] - Suppressed Greek psychedelic religion
 
-McKenna's framework illuminates modern drug policy wars as fundamentally
+McKenna's framework illuminates modern [[mckenna-modest-proposal-drug-policy-reform]] wars as fundamentally
 religious conflicts — between those seeking direct sacred experience
 and those insisting the sacred requires institutional mediation.

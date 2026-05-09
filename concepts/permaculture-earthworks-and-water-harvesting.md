@@ -31,7 +31,7 @@ Earthworks primarily address items 2, 3, and 4 — they're permanent and expensi
 - The berm (mound on the downhill side) is the planting zone
 
 ### Design
-- Use an A-frame or laser level to find the contour line
+- Use an A-frame or laser level to find the [[comparison-swale-vs-contour-line-water-management]]
 - Swale depth: 1-3 feet (depends on rainfall and slope)
 - Swale width: 3-6 feet at top
 - Spacing: determined by slope (steeper = closer spacing)
@@ -45,11 +45,13 @@ Earthworks primarily address items 2, 3, and 4 — they're permanent and expensi
 
 ### Planting the Berm
 - Trees on the berm (roots access stored water below)
-- Ground cover on the swale floor (prevents erosion)
+- [[fukuoka-citrus-orchard-ground-cover-cultivation]] on the swale floor (prevents erosion)
 - Nitrogen fixers and [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
 - [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
 
 ## See Also
+
+- [[faires-permaculture-water-harvesting]]
 
 - [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]
 ## Practical Considerations
@@ -68,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

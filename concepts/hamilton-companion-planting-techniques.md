@@ -1,5 +1,5 @@
 ---
-title: Hamilton Companion Planting Techniques
+title: Hamilton comparison-companion-planting-reference-vs-jadam-monoculture-critique Techniques
 created: 2026-04-28
 tags:
   - organic-gardening
@@ -43,7 +43,7 @@ required for the onions to have any effect at all.
 
 On the other hand, the cabbage white butterfly is attracted to its
 host plant by smell and it can be fooled by planting the highly
-aromatic French marigold (*Tagetes*) between the rows of cabbages.
+aromatic [[comparison-french-marigold-vs-mustard-biofumigation]] (*Tagetes*) between the rows of cabbages.
 Many scientifically controlled trials have indicated a reduction in
 attack when this was done.
 
@@ -58,7 +58,7 @@ are the most valuable pest predators in the garden.
 The hoverfly has a short feeding tube so needs to feed from an
 open-structured flower where the pollen is easily accessible. By
 planting marigolds, poppies (*Papaver* sp.), nasturtiums
-(*Tropaeolum*), or dwarf morning glory (*Convolvulus tricolor*) between plants, you minimize aphid attack.
+(*Tropaeolum*), or dwarf [[golden-guide-morning-glory-and-ololiuqui]] (*Convolvulus tricolor*) between plants, you minimize aphid attack.
 
 ## French Marigolds and Soil Pests
 
@@ -81,7 +81,7 @@ that attack potatoes in particular, where French marigolds are grown.
 ## Integration with Other Methods
 
 Companion planting works best as part of an integrated approach to
-comparison beneficial insects. Combine it with regular vigilance, good garden
+comparison [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. Combine it with regular vigilance, good garden
 hygiene, and encouragement of beneficial wildlife through
 [[hamilton-pest-and-disease-control-organic]]
 - [[hamilton-pest-and-disease-control-organic]]

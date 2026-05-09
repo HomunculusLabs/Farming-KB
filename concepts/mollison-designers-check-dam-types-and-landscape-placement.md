@@ -1,5 +1,5 @@
 ---
-title: "Check Dam Types and Landscape Placement"
+title: "mollison designers check dam types and landscape placement Types and Landscape Placement"
 created: 2026-04-26
 tags:
   - earthworks
@@ -23,7 +23,7 @@ stabilise eroding channels. They are essential components of
 [[mollison-earthworks-planning-and-post-earthworks-planting]]
 planning, complementing larger
 mollison designers check dam types and landscape placement and
-[[mollison-keyline-water-conservation]]
+mollison-keyline-water-conservation
 systems where water is moved from valleys to ridges.
 
 ### Concrete Flood Check Dams
@@ -58,7 +58,7 @@ equipment.
 ### Ram Pump and Water Wheel Check Dams
 These create only 1-3 m of head but enable lift pumps or
 diversion to canals. They represent the integration of
-water retardation with energy capture, embodying the
+water retardation with [[fukuoka-three-dimensional-solar-energy-capture-rice-paddy]], embodying the
 permaculture principle of multiple functions from single
 elements.
 
@@ -74,10 +74,10 @@ boundaries and within these zones to manage water movement:
 - In transition zones: silt check dams capture sediment
   before it reaches lower slopes
 - In revitalisation zones: gabion check dams spread water
-  and create conditions for [[mollison-pdc-keypoint-keyline-humid]]
+  and create conditions for mollison-pdc-keypoint-keyline-humid
   in valleys
 - Contour dams on slopes of 8% or less
-- [[mollison-designers-post-earthworks-planting-and-slope-stabilisation]] to stabilise all exposed earth surfaces
+- mollison-designers-post-earthworks-planting-and-slope-stabilisation to stabilise all exposed earth surfaces
 
 ## Scaling from Farm to Catchment
 
@@ -85,3 +85,11 @@ Yeomans stated that if from 10-15% of a normal, humid,
 lowland or foothill landscape were fitted with small earth
 storages and check dams, floods and drought or fire threat
 could be eliminated. This scaling principle applies from
+## See Also
+
+- [[mollison-sediment-management-and-check-dam-systems]]
+- [[mollison-designers-fire-resistant-landscape-design]]
+- [[mollison-designers-landscape-rehabilitation-degraded-mined-land]]
+- [[mollison-designers-precipitation-types-and-design-effects]]
+- [[permaculture-designers-manual-settlement-types]]
+- [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]]

@@ -18,7 +18,7 @@ More than two hundred mushroom stones have been found in Guatemala alone, and ot
 
 ## The Psilocybe Connection
 
-The identification of the mushroom stones with psilocybin mushrooms was confirmed by the discovery of a Nahuatl codex — the Magliabecchi codex — that depicts a deity emerging from a mushroom and identifies the mushroom as "teonanacatl," literally "the flesh of the gods." This was the same term used by the Aztecs for the sacred mushrooms described by the Spanish chroniclers.
+The identification of the mushroom stones with [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] was confirmed by the discovery of a Nahuatl codex — the Magliabecchi codex — that depicts a deity emerging from a mushroom and identifies the mushroom as "teonanacatl," literally "the flesh of the gods." This was the same term used by the Aztecs for the sacred mushrooms described by the Spanish chroniclers.
 
 Wasson's historic expedition to Huautla de Jimenez in Oaxaca in 1955, where he participated in a velada (mushroom ceremony) with the Mazatec curandera Maria Sabina, confirmed that a living tradition of mushroom use had survived in Mexico from pre-Columbian times to the present day.
 
@@ -26,11 +26,11 @@ Wasson's historic expedition to Huautla de Jimenez in Oaxaca in 1955, where he p
 
 The mushroom stones suggest a continuity of mushroom cults in Mesoamerica spanning more than three thousand years — from approximately 1000 B.C. to the present. This makes the Mesoamerican mushroom cult one of the longest-lived religious traditions in human history.
 
-The mushrooms depicted on the stones are generally identifiable as members of the genus Psilocybe, which contains the same psychoactive compounds — psilocybin and psilocin — found in the Stropharia cubensis mushroom that McKenna proposes as the catalyst for human cognitive evolution. This convergence of archaeological evidence with the Ur Plant hypothesis strengthens the case for the central role of psychoactive mushrooms in human cultural development.
+The mushrooms depicted on the stones are generally identifiable as members of the genus Psilocybe, which contains the same psychoactive compounds — psilocybin and psilocin — found in the [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] mushroom that McKenna proposes as the catalyst for human cognitive evolution. This convergence of archaeological evidence with the Ur Plant hypothesis strengthens the case for the central role of psychoactive mushrooms in human cultural development.
 
 ## The Timing of Cultural Collapse
 
-The mushroom stone tradition declined and eventually disappeared around the time of the Spanish conquest. This is consistent with McKenna's broader thesis that the suppression of plant-based ecstatic religion has been a consistent feature of dominator culture throughout history. The Spanish systematically destroyed indigenous religious practices and replaced them with Christianity.
+The mushroom stone tradition declined and eventually disappeared around the time of the Spanish conquest. This is consistent with McKenna's broader thesis that the suppression of plant-based ecstatic religion has been a consistent feature of [[mckenna-dominator-culture-and-suppression-of-ecstasy]] throughout history. The Spanish systematically destroyed indigenous religious practices and replaced them with Christianity.
 
 The timing of the decline is also consistent with the hypothesis that the loss of the mushroom sacrament contributed to the collapse of the great Mesoamerican civilizations. As the original visionary sacrament was lost, the cultural institutions it supported — the calendar, the mathematics, the astronomy, the architecture — gradually decayed.
 
@@ -44,12 +44,12 @@ As the original mushroom sacrament was lost, the religious practices it supporte
 
 Despite the destruction of the mushroom cults by the Spanish, the tradition survived in hidden form among indigenous communities. Maria Sabina and the other Mazatec curanderos preserved the knowledge of the sacred mushrooms through centuries of persecution. Their survival is a testament to the resilience of the partnership paradigm and the enduring power of the mushroom experience.
 
-The rediscovery of the Mexican mushroom cult by Wasson in the 1950s sparked a revolution in Western understanding of psychoactive plants and their role in human culture. It also, tragically, led to the exploitation of the Mazatec tradition by countercultural seekers and the eventual suppression of the mushroom ceremonies by Mexican authorities — a pattern of destruction and loss that has repeated itself throughout the dominator era.
+The rediscovery of the [[gartz-wasson-mexican-mushroom-cult-rediscovery]] cult by Wasson in the 1950s sparked a revolution in Western understanding of psychoactive plants and their role in human culture. It also, tragically, led to the exploitation of the Mazatec tradition by countercultural seekers and the eventual suppression of the [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]] by Mexican authorities — a pattern of destruction and loss that has repeated itself throughout the dominator era.
 
 See also:
 - [[psychedelic-plants-and-civilization]]
 - [[mckenna-psychedelic-shamanism]]
-- [[teonanacatl-and-mesoamerican-mushroom-cults]]
+- teonanacatl-and-mesoamerican-mushroom-cults
 
 ## Key Points
 
@@ -65,7 +65,7 @@ McKenna's analysis fits within his broader framework of the [[mckenna-dissolutio
 - [[psychedelic-plants-and-civilization]]
 - [[mckenna-food-of-the-gods-thesis]], to construct a comprehensive narrative of humanity's relationship with psychoactive plants. His work draws on a wide range of sources, including anthropology, ethnobotany, linguistics, and personal experience, to argue that psychoactive substances have been a driving force in human cultural evolution.
 
-The [[psychedelic-therapy-mechanisms]], has demonstrated that substances like psilocybin can produce mystical-type experiences that have lasting positive effects on personality, well-being, and attitudes toward death. These findings lend some empirical support to McKenna's argument that psychoactive plants have played a significant role in shaping human consciousness and culture.
+The [[psychedelic-therapy-mechanisms]], has demonstrated that substances like psilocybin can produce mystical-type experiences that have lasting positive effects on personality, well-being, and [[weil-cultural-attitudes-toward-altered-states]] death. These findings lend some empirical support to McKenna's argument that psychoactive plants have played a significant role in shaping human consciousness and culture.
 ## Practical Considerations
 
 Successful implementation of McKenna on Mushroom Stones of Guatemala requires attention to
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -5,7 +5,8 @@ tags: [cannabis, hydroponics, top-feed, drip-irrigation, growing-systems]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -31,7 +32,7 @@ central reservoir. Key design elements include:
 
 - Flexible drain hose attached near the bottom of each
   bucket connects to a drainage manifold
-- Runoff nutrient solution shuttles back to the central
+- Runoff [[cannabis-nutrient-solution-preparation]] shuttles back to the central
   reservoir for reuse
 - Each reservoir below the growing container holds an inch
   or two of water
@@ -78,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

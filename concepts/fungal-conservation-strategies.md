@@ -10,7 +10,7 @@ sources:
 
 ## Overview
 
-Fungal conservation is a critically underdeveloped area of biodiversity protection. With an estimated 1.5 million fungal species on Earth and only 5-10% formally described, conservation efforts face a fundamental knowledge gap. Fungi play essential roles in nutrient cycling, plant health, decomposition, and ecosystem stability, yet they are frequently excluded from biodiversity conservation planning and land-use management decisions (Hawksworth, 1991).
+Fungal conservation is a critically underdeveloped area of biodiversity protection. With an estimated 1.5 million fungal species on Earth and only 5-10% formally described, conservation efforts face a fundamental knowledge gap. Fungi play essential [[dighton-fungal-roles-in-nutrient-cycling]] cycling, plant health, decomposition, and ecosystem stability, yet they are frequently excluded from [[fungal-biodiversity-conservation-status]] planning and land-use management decisions (Hawksworth, 1991).
 
 ## The Scale of the Problem
 
@@ -40,15 +40,15 @@ Collections maintained in herbaria and their associated data are invaluable reso
 
 ### Bioindicator Approaches
 
-Coprophilous fungi and other specialized groups can serve as useful indicators of both biodiversity and habitat quality, allowing for relatively quick, simple, inexpensive quantitative assessment. Hyde and Hawksworth (1997) suggested that realistic estimates of microfungal diversity may be impractical at full scale, but targeted indicator groups can provide actionable conservation data.
+Coprophilous fungi and other specialized groups can serve as useful indicators of both biodiversity and habitat quality, allowing for relatively quick, simple, inexpensive quantitative assessment. Hyde and Hawksworth (1997) suggested that realistic estimates of [[leaf-litter-microfungal-diversity-tropical-temperate]] may be impractical at full scale, but targeted indicator groups can provide actionable conservation data.
 
 ### Integration with Land-Use Planning
 
-Fungi must be included in considerations of biodiversity conservation, land-use planning, and management. They frequently have been ignored in these contexts, despite their fundamental roles in ecosystem processes.
+Fungi must be included in considerations of biodiversity conservation, land-use planning, and management. They frequently have been ignored in these contexts, despite their fundamental roles in [[fungal-ecosystem-processes-overview]].
 
 ## Why Fungal Conservation Matters
 
-Without fungi, major problems in nutrient cycling would occur, plants would suffer without soil nutrients secured by fungi, many animals would lose food sources, woody materials would not break down, soil structures would differ, and sources of antibiotics and other pharmaceutical products would be diminished.
+Without fungi, major problems in nutrient cycling would occur, plants would suffer without soil nutrients secured by fungi, many animals would lose food sources, woody materials would not [[query-can-fungi-break-down-plastic-pollution]], soil structures would differ, and sources of antibiotics and other pharmaceutical products would be diminished.
 
 ## Related Concepts
 
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

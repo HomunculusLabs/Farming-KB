@@ -13,7 +13,7 @@ type: concept
 
 Bioaugmentation is the deliberate introduction of selected microorganisms
 to contaminated environments to enhance the degradation of pollutants.
-In the context of mycoremediation, fungal bioaugmentation involves
+In the context of mycoremediation, singh fungal bioaugmentation contaminated soils involves
 introducing specific fungal strains or consortia to contaminated soils
 to accelerate the removal of organic and inorganic pollutants. Singh's
 review identifies bioaugmentation as one approach to soil bioremediation
@@ -65,7 +65,7 @@ Phanerochaete chrysosporium has been extensively studied for
 bioaugmentation applications. The FDA activity of P. chrysosporium
 grown in pellets correlates with mycelia dry weight and ergosterol
 content. In addition to optimum substrate composition, optimum
-temperature and pellet structure influence high metabolic activity,
+temperature and pellet structure influence high [[arbuscule-isolation-metabolic-activity-assays]],
 proliferation, and pollutant tolerance. P. chrysosporium and Trametes
 versicolor introduced on contaminated soils using pellets with high
 nitrogen content (C:N ratio of 50:1) show different removal patterns
@@ -84,7 +84,7 @@ to transform chlorinated biphenyls. The success of bioaugmentation
 depends on the survival of introduced fungi in competition with native
 microorganisms, the bioavailability of target pollutants, and
 environmental conditions including moisture, temperature, pH, and
-nutrient availability.
+[[ph-and-nutrient-availability-garden-soils]].
 
 ## Compost Bioaugmentation for PAH Removal
 
@@ -94,7 +94,7 @@ is one of the most promising reactor systems for hazardous soil
 treatment, applicable to soils contaminated by PAHs, explosives, and
 pesticides. The removal efficiencies were 62.8% and 65.6% for fungal
 amended and unamended compost systems, respectively. In these cases,
-bound residue formation is the primary mechanism for benzo[a]pyrene
+[[fungal-bound-residue-formation]] formation is the primary mechanism for benzo[a]pyrene
 removal in active compost systems. The compost matrix provides both
 nutrients and a supportive environment for fungal growth and enzyme
 production.
@@ -103,7 +103,7 @@ production.
 
 A practical method has been developed to promote the growth of white-rot
 fungi in soil without using large quantities of amendments or inoculum.
-In Trametes versicolor, manganese peroxidase and laccase activities
+In [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]], [[fungal-manganese-peroxidase-remediation]] and laccase activities
 increase with addition of either a carbon or nitrogen source and are
 enhanced by addition of both supplements. Alfalfa is a more effective
 nutrient source than other amendments. Fungi colonize alfalfa-amended
@@ -138,9 +138,11 @@ bioengineered fungi could open a new era in bioaugmentation for soil
 remediation. An understanding of metabolic pathways and metabolites is
 crucial to the development of successful strategies for mycoremediation
 in field soils.
-
 ## See Also
 
 - [[fungal-bioremediation-mechanisms]]
-- [[fungal-bacterial-coculture-bioremediation]]
-- [[mycoremediation-scale-up-challenges]]
+- fungal-bacterial-coculture-bioremediation
+- mycoremediation-scale-up-challenges
+- [[fungal-bioaugmentation]]
+- [[singh-fungal-rhizodegradation-petroleum-contaminated-soils]]
+- [[singh-fungal-composting-bioremediation-contaminated-soils]]

@@ -1,5 +1,5 @@
 ---
-title: JHS Nutritional Analysis as Fertilizer
+title: jadam jhs nutritional analysis Analysis as Fertilizer
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -11,11 +11,11 @@ sources:
 # JHS Nutritional Analysis as Fertilizer
 
 **Updated:** 2026-04-18
-**Source:** JADAM Organic Farming, pp.289-290 (Youngsang Cho, 2016)
+**Source:** JADAM [[coleman-deep-organic-farming-philosophy]], pp.289-290 (Youngsang Cho, 2016)
 
 ## Overview
 
-A unique advantage of JADAM Herb Solution (JHS) is that it functions as both a pesticide and a fertilizer. This is "unimaginable with chemical pesticides." The book provides laboratory analysis of Korean pasque flower root (KPFR) JHS showing measurable nutrient content. When used at 3-20 L per 500 L of spray, JHS provides incidental foliar nutrition alongside pest control.
+A unique advantage of JADAM [[jadam-herb-solution-jhs]] (JHS) is that it functions as both a pesticide and a fertilizer. This is "unimaginable with chemical pesticides." The book provides laboratory analysis of Korean pasque flower root (KPFR) JHS showing measurable nutrient content. When used at 3-20 L per 500 L of spray, JHS provides incidental foliar nutrition alongside [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]].
 
 ## Korean Pasque Flower Root JHS Analysis
 
@@ -75,7 +75,7 @@ A unique advantage of JADAM Herb Solution (JHS) is that it functions as both a p
 ### Safety
 - No detectable cadmium, chromium, nickel, or arsenic
 - Only trace lead detected (0.101 mg/kg) -- likely from soil, not the plant itself
-- pH of 6.9 is near neutral -- safe for foliar application
+- pH of 6.9 is near neutral -- safe for [[ultra-low-cost-foliar-application-methods]]
 
 ### Dual Function Advantage
 Chemical pesticides provide zero nutritional value and often harm soil biology. JHS simultaneously:

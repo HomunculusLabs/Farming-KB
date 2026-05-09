@@ -4,20 +4,21 @@ created: 2026-04-28
 updated: 2026-05-06
 tags: [mycoremediation, textile-dyes, bioremediation, pollution, fungi]
 type: concept
-sources: []
+sources:
+  - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
 # Mycoremediation of Textile Dyes
 
 ## Overview
 
-Textile dyeing is one of the most polluting industrial processes globally. The textile industry releases approximately 280,000 tons of dyes into waterways annually, with an estimated 10-15% of dyes used in the dyeing process lost to effluent. These dyes are designed to be chemically stable, resistant to light and washing, and persistent in the environment — properties that make them difficult to remove by conventional wastewater treatment.
+Textile dyeing is one of the most polluting industrial processes globally. The [[staycare-fungal-treatment-of-textile-industry-wastewater]] releases approximately 280,000 tons of dyes into waterways annually, with an estimated 10-15% of dyes used in the dyeing process lost to effluent. These dyes are designed to be chemically stable, resistant to light and washing, and persistent in the environment — properties that make them difficult to remove by conventional [[mollison-designers-wastewater-treatment-wetlands]].
 
 Fungal remediation offers a promising alternative through enzymatic degradation, biosorption, and bioaccumulation. White-rot fungi are particularly effective because their lignin-degrading enzyme systems are non-specific and can attack the complex aromatic structures shared by lignin and synthetic dyes.
 
 ## Why Textile Dyes Are Difficult to Treat
 
-- **Chemical diversity:** Over 10,000 different dyes are used commercially, including azo, anthraquinone, triphenylmethane, and reactive dyes. Each class has different chemical properties and degradation pathways
+- **Chemical diversity:** Over 10,000 different dyes are used commercially, including azo, anthraquinone, triphenylmethane, and reactive dyes. Each class has different chemical properties and [[staycare-chlorophenol-degradation-pathways-white-rot-fungi]]
 - **High water solubility:** Many dyes are designed to remain dissolved in water, making physical separation (filtration, sedimentation) ineffective
 - **Resistance to biodegradation:** Azo dyes, which constitute 60-70% of all dyes used, contain nitrogen-nitrogen double bonds that resist aerobic bacterial degradation
 - **Low concentrations, high volume:** Dye concentrations in effluent are typically 10-200 mg/L, but the volumes are enormous (50-100 liters per kg of fabric)
@@ -30,7 +31,7 @@ Laccases (EC 1.10.3.2) are multicopper oxidases that catalyze the one-electron o
 
 - **Substrate range:** Oxidizes phenolic dyes (especially anthraquinone and triphenylmethane dyes) directly. Non-phenolic dyes require mediator compounds
 - **Mediators:** Small molecules such as 1-hydroxybenzotriazole (HBT), ABTS, and natural mediators (syringaldehyde, vanillin) extend laccase's substrate range to non-phenolic azo and reactive dyes
-- **Advantages:** Laccases use only oxygen as a co-substrate (no hydrogen peroxide required), are relatively stable, and can be produced in large quantities by Trametes, Pleurotus, and Ganoderma species
+- **Advantages:** Laccases use only oxygen as a co-substrate (no [[cervantes-hydrogen-peroxide-sterilization]] required), are relatively stable, and can be produced in large quantities by Trametes, Pleurotus, and Ganoderma species
 - **Decolorization rates:** 70-95% within 24-72 hours under optimized conditions, depending on dye concentration and fungal species
 
 ### Manganese Peroxidase (MnP)
@@ -66,13 +67,13 @@ Fungal treatment is most effective as part of a combined treatment train rather 
 
 - **Pretreatment:** Physical screening removes large particles. Coagulation and flocculation concentrate dyes and reduce volume before biological treatment
 - **Biological treatment:** Fungal bioreactors or biopiles provide the primary degradation step, breaking down dye molecules into smaller, less toxic intermediates
-- **Post-treatment:** Activated carbon polishing removes residual color and any recalcitrant intermediates. Constructed wetlands provide final polishing and habitat creation
+- **Post-treatment:** Activated carbon polishing removes residual color and any recalcitrant intermediates. [[comparison-constructed-wetlands-vs-bioswales]] provide final polishing and habitat creation
 - **Water reuse:** Treated effluent from well-operated fungal treatment systems can often be recycled back into the dyeing process, reducing both water consumption and discharge volumes
 
 ## See Also
 
-- [[fungal-bioreactor-types-for-pollutant-removal]] — bioreactor design for dye treatment
-- [[mycoremediation-pah-and-pcb-degradation]] — fungal degradation of other recalcitrant pollutants
+- fungal-bioreactor-types-for-pollutant-removal — bioreactor design for dye treatment
+- [[mycoremediation-pah-and-pcb-degradation]] — [[singh-fungal-degradation-of-chlorinated-compounds]] other recalcitrant pollutants
 ## Practical Considerations
 
 Successful implementation of Mycoremediation of Textile Dyes requires attention to
@@ -91,4 +92,6 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+- [[aspergillus-niger]]
+- [[fungal-hyphae]]
+- [[mycoremediation]]

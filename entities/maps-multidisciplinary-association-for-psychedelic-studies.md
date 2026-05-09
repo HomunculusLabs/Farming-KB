@@ -1,14 +1,15 @@
 ---
-title: MAPS (Multidisciplinary Association for Psychedelic Studies)
+title: MAPS (maps multidisciplinary association for psychedelic studies for Psychedelic Studies)
 created: 2026-04-13
 updated: 2026-04-13
 type: entity
 tags: [research, psychedelics]
-sources: []
+sources:
+  sources: []
 ---
 # MAPS (Multidisciplinary Association for Psychedelic Studies)
 
-MAPS is a nonprofit research and educational organization founded in 1986 by Rick Doblin, dedicated to developing medical, legal, and cultural contexts for people to benefit from the careful uses of psychedelics and marijuana. It is the leading organization funding and conducting clinical research into psychedelic-assisted therapy. See [[psychedelic-therapy-set-and-setting]] for the therapeutic frameworks it employs.
+MAPS is a nonprofit research and educational organization founded in 1986 by Rick Doblin, dedicated to developing medical, legal, and cultural contexts for people to benefit from the careful uses of psychedelics and marijuana. It is the leading organization funding and conducting [[hofmann-lsd-clinical-research-early-studies]] into psychedelic-assisted therapy. See [[psychedelic-therapy-set-and-setting]] for the therapeutic frameworks it employs.
 
 ## Mission and History
 
@@ -16,11 +17,11 @@ MAPS is a nonprofit research and educational organization founded in 1986 by Ric
 - Originally conceived to pursue FDA-legal research with MDMA after its emergency scheduling in 1985
 - Incorporated as a 501(c)(3) nonprofit
 - Headquartered in Santa Cruz, California
-- Evolved from a small advocacy group to a multimillion-dollar research organization conducting Phase 3 clinical trials
+- Evolved from a small advocacy group to a multimillion-dollar research organization conducting Phase 3 [[mushroom-cancer-clinical-trials-overview]]
 
 ## MDMA-Assisted Psychotherapy for PTSD
 
-MAPS' flagship program has been the clinical development of MDMA-assisted psychotherapy for post-traumatic stress disorder (PTSD), the most advanced psychedelic therapy program in the world:
+MAPS' flagship program has been the clinical development of MDMA-assisted psychotherapy for post-traumatic stress disorder (PTSD), the most advanced [[metzner-psycholytic-psychedelic-therapy-models]] program in the world:
 
 ### Phase 2 Trials (2000s-2010s)
 - Six Phase 2 studies conducted across the United States, Canada, Israel, and Switzerland
@@ -46,7 +47,7 @@ The MAPS MDMA-assisted therapy protocol involves:
 ## Additional Research Programs
 
 - **Psilocybin for various conditions:** Research into psilocybin-assisted therapy
-- **Medical marijuana:** Studies on cannabis for PTSD in veterans
+- **[[cervantes-medical-marijuana-pharmacology]]:** Studies on cannabis for PTSD in veterans
 - **Ayahuasca:** Observational studies of ceremonial ayahuasca use
 - **Ibogaine:** Research on ibogaine for opioid addiction treatment
 - **LSD:** Exploratory research into microdosing and full-dose therapy
@@ -57,7 +58,7 @@ Founder and executive director of MAPS:
 - PhD from Harvard's Kennedy School of Government
 - Wrote his dissertation on the regulation of the medical uses of psychedelics
 - Personal experience with MDMA therapy for PTSD from his own trauma
-- Has advocated for psychedelic research access before Congress, the FDA, and international bodies
+- Has advocated for [[mckenna-suppression-psychedelic-research-lsd-therapy]] access before Congress, the FDA, and international bodies
 - Vision: making MDMA-assisted psychotherapy a legally available prescription treatment by 2024 (pursuing FDA approval)
 
 ## Harm Reduction and Education
@@ -87,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

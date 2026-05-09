@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Haze lineage represents one of the most influential genetic families in cannabis breeding history. Originating from Southeast Asian landrace stock in the 1970s, Haze genetics have been woven into hundreds of modern sativa and hybrid strains, forming the backbone of contemporary cannabis breeding programs worldwide. Understanding the Haze lineage is essential for comprehending the evolution of sativa-dominant cannabis.
+The Haze lineage represents one of the most influential genetic families in [[oner-cannabis-breeding-fundamentals]] history. Originating from Southeast Asian landrace stock in the 1970s, Haze genetics have been woven into hundreds of modern sativa and hybrid strains, forming the backbone of contemporary cannabis breeding programs worldwide. Understanding the Haze lineage is essential for comprehending the evolution of sativa-dominant cannabis.
 
 ## Origins in Southeast Asian Landraces
 
@@ -19,7 +19,7 @@ These landraces were brought to California by travelers, surfers, and military p
 
 The Haze Brothers worked outdoors in Northern California, conducting open-air breeding using prevailing winds for pollen dispersal. Multiple female sativa varieties were pollinated by several male plants simultaneously — a technique that produced what early breeders called "Trainwreck generation" seeds, since the exact parentage was uncertain. This chaotic approach to breeding was born of necessity: cash croppers in the 1970s had limited space for isolated breeding and relied on remote patches with wind patterns to manage pollination distance.
 
-The original Haze was never commercially available in seed form during its early years. Instead, it was preserved as cuttings passed among a small circle of growers. The clone-only nature of early Haze genetics contributed to both its mystique and its genetic bottleneck. When seeds were eventually produced, they were often the result of backcrossing or hybridization rather than true-breeding lines.
+The original Haze was never commercially available in seed form during its early years. Instead, it was preserved as cuttings passed among a small circle of growers. The clone-only nature of early Haze genetics contributed to both its mystique and its [[cervantes-genetic-bottleneck-and-diversity-loss]]. When seeds were eventually produced, they were often the result of backcrossing or hybridization rather than true-breeding lines.
 
 ## Spread to Europe and the Dutch Connection
 
@@ -39,7 +39,7 @@ Developed by Resin Seeds in Barcelona, Critical Haze combines a reverted Amnesia
 Bred by California Cannetics for the SoCal Seed Collective, Dawgtown Daze combines a male ChemDawg plant with a female Pure Haze. At over 90% sativa, this strain preserves the full Haze experience while adding ChemDawg's unique terpene profile. Multiple phenotypes exist with flowering times ranging from 10 to 16 weeks. THC content reaches 19.23%.
 
 ### Super Lemon Haze
-A Haze-based hybrid that became one of the most awarded sativa strains in cannabis competitions. The strain demonstrates how Haze genetics can be successfully bred to express specific citrus terpene profiles while maintaining the characteristic sativa cerebral high.
+A Haze-based hybrid that became one of the most awarded sativa strains in cannabis competitions. The strain demonstrates how Haze genetics can be successfully bred to express specific citrus [[cannabis-terpene-profiles-sativa]] while maintaining the characteristic sativa cerebral high.
 
 ### Tom Hill's Original Haze
 Represents one of the purest surviving expressions of the original Haze genetics. Tom Hill's work in preserving and stabilizing these genetics serves as a genetic time capsule, maintaining the original Southeast Asian characteristics that commercial breeding has often diluted.
@@ -60,7 +60,7 @@ The challenge of working with Haze genetics has always been the same: extraordin
 
 For roughly two decades, from the late 1980s through the 2000s, indica-dominant strains dominated the cannabis market. Indoor growing favored indica's short stature, fast flowering, and heavy yields. Sativa strains, including Haze varieties, were marginalized as too difficult for most indoor growers.
 
-The legalization movement changed this dynamic. As medical marijuana dispensaries opened, many patients discovered that sativa strains provided the energetic, uplifting effects they needed — effects that indica-dominant strains, with their sedating properties, could not deliver. Haze-based strains experienced a renaissance as a new generation of consumers sought cerebral, creative stimulation rather than couch-lock sedation.
+The legalization movement changed this dynamic. As [[cervantes-medical-marijuana-pharmacology]] dispensaries opened, many patients discovered that sativa strains provided the energetic, uplifting effects they needed — effects that indica-dominant strains, with their sedating properties, could not deliver. Haze-based strains experienced a renaissance as a new generation of consumers sought cerebral, creative stimulation rather than couch-lock sedation.
 
 Breeders responded by creating Haze hybrids that were more accessible to the average grower while preserving the genetic essence that made Haze legendary. The result is a modern market where Haze genetics appear in an enormous percentage of available sativa-dominant strains.
 
@@ -70,8 +70,8 @@ Growing Haze-dominant strains requires specific knowledge and patience:
 
 - **Extended flowering periods** of 10 to 16 weeks demand commitment and protected growing environments, especially in northern latitudes where early autumn weather can threaten late-finishing plants.
 - **Height management** is critical indoors. Plants can reach 6 to 14 feet if untrained. LST, topping, and ScrOG are essential techniques.
-- **Nutrient sensitivity** — Sativa plants, compared to indicas, are often described as "wild-ish and highly adaptable" but generally do not respond well to heavy synthetic nutrient feeding. Organic cultivation methods tend to produce superior results.
-- **Mold resistance** varies by phenotype. Dense, foxtailing buds are susceptible in humid conditions. Adequate airflow and humidity management are important.
+- **Nutrient sensitivity** — Sativa plants, compared to indicas, are often described as "wild-ish and highly adaptable" but generally do not respond well to heavy synthetic nutrient feeding. Organic [[synthetic-log-cultivation-methods-guide]] tend to produce superior results.
+- **Mold resistance** varies by phenotype. Dense, foxtailing buds are susceptible in humid conditions. Adequate airflow and [[stamets-cultivator-humidity-management-fogging-systems]] are important.
 - **Light requirements** — Haze strains benefit from maximum available light intensity. Packing additional light into grow rooms produces the heaviest yields.
 
 ## Genetic Preservation and Landrace Conservation

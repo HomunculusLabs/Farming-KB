@@ -1,6 +1,6 @@
 # Ayahuasca Ceremony Structure and Practice
 
-Ayahuasca ceremonies in the Peruvian Amazon follow a general structure that
+[[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] in the Peruvian Amazon follow a general structure that
 varies depending on the tradition (Shipibo, mestizo, or other indigenous
 groups), the setting (community, tourist, or church), and the individual
 shaman's style. Despite this variation, certain elements are common across
@@ -69,7 +69,7 @@ complicated by language barriers.
 
 After participants have drunk the ayahuasca and the effects begin to
 manifest (typically 20-40 minutes after ingestion), the shaman begins
-singing icaros. These sacred songs are the primary vehicle of the shaman's
+[[metzner-shamanic-singing-icaros-rhythm-and-entrainment]]. These sacred songs are the primary vehicle of the shaman's
 work during the ceremony.
 
 Functions of icaros include:
@@ -136,17 +136,13 @@ more accessible, it also means the experience may be shallower than what
 would be available in a traditional community setting.
 
 ## Post-Ceremony Integration
-
-After the ceremony, participants typically rest and may share their
-experiences with the shaman or group. In traditional settings, the shaman
-provides interpretation of visions and guidance for integrating the
-experience. In tourist settings, this integration period may be abbreviated
-or conducted through a translator.
-
 ## See Also
-- [[metzner-huichol-wirikuta-pilgrimage-and-peyote-ceremony-structure]]
+- metzner-huichol-wirikuta-pilgrimage-and-peyote-ceremony-structure
 - [[ayahuasca-preparation-and-ceremony]]
 
 ## See Also
 
 - [[ayahuasca-ceremony-practices]]
+- [[brugmansia-suaveolens]]
+- [[banisteriopsis-caapi]]
+- [[diplopterys-cabrerana]]

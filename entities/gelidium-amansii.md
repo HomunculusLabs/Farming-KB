@@ -20,7 +20,7 @@ sources:
 
 **Gelidium amansii** is a red marine alga (Rhodophyta) in the family Gelidiaceae, historically the most important commercial source of **agar**.
 
-The species is harvested from wild populations and cultivated in East Asia, where it has been used for centuries in traditional food preparation.
+The species is harvested from wild populations and cultivated in [[neurotropic-fungi-japan-east-asia-species-cultural-context]], where it has been used for centuries in traditional food preparation.
 
 Agar extracted from *G. amansii* commands premium prices due to its superior gel strength compared to agar from Gracilaria species.
 
@@ -94,15 +94,17 @@ The genus *Gelidium* contains approximately 124 species worldwide, with centers 
 
 ## Life History
 
-The species has a complex triphasic life cycle typical of the Gelidiales, alternating between haploid gametophytes, diploid carposporophytes, and diploid tetrasporophytes.
+The species has a complex triphasic [[bloomfield-fungal-life-cycle-spiral-versus-circle]] typical of the Gelidiales, alternating between haploid gametophytes, diploid carposporophytes, and diploid tetrasporophytes.
 
 Male gametophytes produce spermatangia in superficial cortical cells, while female gametophytes bear carpogonia that receive non-motile spermatia.
 
 After fertilization, the diploid carposporophyte develops within the cystocarp and produces carpospores. These settle and germinate into tetrasporophytes, which in turn release tetraspores.
 
-Tetraspores develop into new gametophytes, completing the cycle. All three phases are morphologically similar, making field identification of life stage difficult without microscopic examination.
+Tetraspores develop into new gametophytes, completing the cycle. All three phases are morphologically similar, making field identification of life stage difficult without [[fungal-microscopic-examination-mounting-media-techniques]].
 
 ## See Also
+
+- [[gelidium]]
 
 - [[chondrus-crispus]]
 - [[kappaphycus-alvarezii]]
@@ -111,4 +113,4 @@ Tetraspores develop into new gametophytes, completing the cycle. All three phase
 - [[undaria-pinnatifida]]
 - [[laminaria-digitata]]
 - [[ingham-seaweed-sea-minerals-compost-tea]]
-- [[agar]]
+- agar

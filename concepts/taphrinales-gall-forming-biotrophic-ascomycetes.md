@@ -20,7 +20,7 @@ The Taphrinales are a small but distinctive order of
 biotrophic ascomycetes that cause plant diseases
 characterized by hyperplasia, hypertrophy, and abnormal
 development of host tissues. Members of this order induce
-leaf curl, witches' broom, leaf spot, and gall formation on
+[[ingham-leaf-curl-taphrina-disease-control]], witches' broom, [[jadam-canker-leaf-spot-pesticide]], and gall formation on
 a wide range of angiosperm hosts, particularly in temperate
 regions. The order is monogeneric or nearly so, with
 Taphrina being the primary genus of interest. These fungi
@@ -31,7 +31,7 @@ results in characteristic symptoms including leaf curling,
 thickening, chlorosis, and the formation of witches' broom
 shoots.
 
-The growing gourmet black involves both a yeast-like (saprobic) phase
+The growing [[growing-gourmet-black-morel-sclerotia-life-cycle]] involves both a yeast-like (saprobic) phase
 and a mycelial (pathogenic) phase. In the saprobic phase,
 the fungus exists as budding yeast cells on leaf surfaces.
 Infection occurs when yeast cells or ascospores land on
@@ -39,7 +39,7 @@ susceptible host tissue and penetrate through natural
 openings or directly through the cuticle. Once inside the
 tissue, the fungus grows as dikaryotic mycelium.
 
-Sexual reproduction produces asci that are typically
+[[fungal-life-cycles-sexual-reproduction-metamorphosis]] produces asci that are typically
 cylindrical and arise directly from the host epidermis
 without a protective ascocarp (gymnothecial development).
 The asci are often clustered in a hymenial layer on the

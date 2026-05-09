@@ -16,7 +16,7 @@ Source: Biodiversity of Fungi (Hyde et al., eds.), Chapter 13: Saprobic Soil Fun
 ## Why Assess Soil Fungal Communities?
 
 Understanding soil fungal communities is essential for agricultural management because:
-- Fungal community composition affects decomposition rates and nutrient cycling efficiency
+- Fungal [[core-endorhiza-bacterial-community-composition-cannabis]] affects decomposition rates and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] efficiency
 - The ratio of fungal to bacterial biomass indicates soil health and management history
 - Pathogen populations determine disease pressure on crops
 - Beneficial fungi (mycorrhizae, biocontrol agents) support plant health
@@ -24,11 +24,11 @@ Understanding soil fungal communities is essential for agricultural management b
 
 Knowledge of soil fungal communities is also critical for the conservation of soil as a non-renewable resource. Human-caused disturbances, especially cultivation, erosion, and contamination, affect soil habitats and impact the diversity of the soil biota.
 
-See also: [[fungal-biodiversity-inventory-design]], [[soil-fungal-isolation-techniques]], [[particle-filtration-dilution-plating-microfungal-isolation]]
+See also: fungal-biodiversity-inventory-design, [[soil-fungal-isolation-techniques]], [[particle-filtration-dilution-plating-microfungal-isolation]]
 
 ### Warcup Soil Plates
 
-Direct inoculation of small soil samples onto agar media surface. This method preserves some spatial relationships between propagules and can recover fungi that are damaged by the agitation of suspension plating. However, it provides less quantitative data than suspension plating.
+Direct inoculation of small soil samples onto [[growing-gourmet-agar-media-formulas-preparation]] surface. This method preserves some spatial relationships between propagules and can recover fungi that are damaged by the agitation of suspension plating. However, it provides less quantitative data than suspension plating.
 
 ### Particle Filtration
 
@@ -78,7 +78,7 @@ Soil samples should be processed as soon as possible (within hours or a few days
 The goals of the inventory determine the appropriate sampling scale:
 - **Landscape-level assessment**: Network of sites across major habitats
 - **Management comparison**: Paired samples from managed and reference sites
-- **Disturbance assessment**: Samples coinciding with management variables (tillage, fertilization, crop rotation)
+- **Disturbance assessment**: Samples coinciding with management variables (tillage, fertilization, [[comparison-crop-rotation-vs-cover-cropping]])
 - **Temporal monitoring**: Repeated sampling at fixed locations across seasons or years
 
 ### Sample Location and Depth
@@ -113,8 +113,8 @@ Species-isolate curves are the mycological analogue of species-area curves in pl
 
 ### Molecular Methods
 
-Molecular approaches complement culture-based methods:
-- DNA extraction from soil reveals species not captured by culturing
+[[staycare-molecular-approaches-fungal-bioremediation]] complement culture-based methods:
+- [[fungal-dna-extraction-methods]] from soil reveals species not captured by culturing
 - Metabarcoding (e.g., ITS sequencing) enables comprehensive community profiling
 - Quantitative PCR can quantify specific taxa (pathogens, beneficial species)
 - Metatranscriptomics reveals active fungal genes and functions

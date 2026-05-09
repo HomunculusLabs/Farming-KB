@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Poulsen, A.D. (2006). "A Revision of Amomum (Zingiberaceae) in Peninsular Malaysia." Royal Botanic Gardens, Kew.
-  - Xia, Y.M. et al. (2014). "Chemical composition and antibacterial activity of essential oil from Amomum kravanh." Journal of Ethnopharmacology.
+  - Xia, Y.M. et al. (2014). "Chemical composition and antibacterial activity of [[permaculture-designers-manual-essential-oil-plants]] from Amomum kravanh." Journal of Ethnopharmacology.
   - CSIR (1959). "The Wealth of India: A Dictionary of Indian Raw Materials and Industrial Products." Vol. I.
   - Burkill, I.H. (1966). "A Dictionary of the Economic Products of the Malay Peninsula." Vol. I.
   - Sirirugsa, P. (1999). "Thai Zingiberaceae: Species Diversity and Their Uses."
@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-**Amomum kravanh** is a perennial herbaceous plant in the family Zingiberaceae, commonly known as Cambodia cardamom or round cardamom. It is cultivated across tropical Southeast Asia for its aromatic seed pods, which are used as a spice and in traditional medicine.
+**Amomum kravanh** is a perennial herbaceous plant in the family Zingiberaceae, commonly known as Cambodia cardamom or round cardamom. It is cultivated across tropical [[psilocybe-southeast-asia-pacific]] for its aromatic seed pods, which are used as a spice and in traditional medicine.
 
 The species belongs to the large and taxonomically complex genus *Amomum*, which contains over 150 species distributed across tropical Asia. Cambodia cardamom is one of the most commercially significant species in the genus.
 
@@ -45,11 +45,11 @@ The species grows naturally in lowland and hill forests at elevations up to appr
 
 Natural forest populations are increasingly rare due to overharvesting and habitat destruction. Remaining wild stands are found in protected areas in Cambodia, particularly in the Cardamom Mountains from which the common name is partially derived.
 
-Cultivation extends beyond the native range to Indonesia, southern China, Sri Lanka, and parts of India. The species has been introduced to tropical Africa and Central America for spice production trials.
+Cultivation extends beyond the native range to Indonesia, southern China, Sri Lanka, and parts of India. The species has been introduced to tropical Africa and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] for spice production trials.
 
 ## Cultivation
 
-Cambodia cardamom is cultivated primarily in smallholder systems, often as an understory crop beneath taller fruit trees or forest canopy. This shade-grown production system mimics the species' natural habitat and reduces the need for irrigation.
+Cambodia cardamom is cultivated primarily in smallholder systems, often as an understory crop beneath taller [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] or forest canopy. This shade-grown production system mimics the species' natural habitat and reduces the need for irrigation.
 
 Plants are propagated through rhizome division or from seeds collected from mature fruits. Seed-grown plants typically require 3–4 years to reach productive maturity, while divided rhizomes may produce marketable fruits within 2 years.
 
@@ -65,7 +65,7 @@ Diterpenoids of the labdane type, including kravanhin and related compounds, hav
 
 Ethanol extracts of the fruit demonstrate significant antibacterial activity against *Streptococcus mutans* and *Porphyromonas gingivalis*, pathogens associated with dental caries and periodontal disease. This supports the traditional use of the spice as a breath freshener and oral antiseptic.
 
-Antifungal activity has been demonstrated against *Candida albicans* and *Aspergillus niger* in disc diffusion assays. The methanolic extract shows broader spectrum activity than the essential oil alone, suggesting synergistic effects between volatile and non-volatile constituents.
+Antifungal activity has been demonstrated against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and *Aspergillus niger* in disc diffusion assays. The methanolic extract shows broader spectrum activity than the essential oil alone, suggesting synergistic effects between volatile and non-volatile constituents.
 
 Antioxidant capacity, measured by DPPH and FRAP assays, is moderate and comparable to other *Amomum* species. The antioxidant activity correlates with total phenolic content in the seed extracts.
 
@@ -107,4 +107,3 @@ The species serves as a food source for several forest animals, including wild p
 - [[zingiber-mioga]]
 - [[curcuma-phaeocaulis]]
 - [[hedychium-flavescens]]
-- [[zingiber-mioga]]

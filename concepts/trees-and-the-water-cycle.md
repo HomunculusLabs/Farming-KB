@@ -10,7 +10,7 @@ tags: [tree-crop, water]
 
 # Trees and the Water Cycle
 
-Trees are fundamental regulators of the savory holistic resource, performing roles that
+Trees are fundamental regulators of the savory [[savory-holistic-resource-management-animal-impact]], performing roles that
 extend far beyond their visible presence. They create precipitation through
 condensation, moderate temperature extremes, store water in soil, purify
 airborne dust, and maintain the hydrological cycles upon which all life
@@ -24,7 +24,7 @@ stream flow, and re-humidifiers of airstreams. The process works as follows:
 Water-laden air flows inland. Where this humid air flows over the rapidly
 cooling surfaces of glass, metal, rocks, or the thin laminae of leaves,
 condensation occurs and droplets of water form. On leaves, this is greatly
-aided by colonies of bacteria ([[permaculture]] designers manual under trellises, creating cool areas of dense air by evaporation.
+aided by colonies of bacteria (permaculture [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] under trellises, creating cool areas of dense air by evaporation.
 
 ## Rehumidification of Airstreams
 
@@ -37,7 +37,7 @@ air to become clouds.
 Key findings on forest water recycling:
 - Forests return 75% of their water to air, "in large enough amounts to form
   new rain clouds"
-- Forested areas return ten times as much moisture as bare ground and twice as
+- Forested areas return ten times as much moisture as [[savory-bare-ground-and-soil-exposure]] and twice as
   much as grasslands
 - Release of water from trees and plants accounts for half or more of all
   moisture returned to air
@@ -49,11 +49,11 @@ in one area may relate directly to deforestation in an upwind direction.
 
 ## How Trees Interact with Rain
 
-When rain falls on a forest, a complex process begins:
+When [[fukuoka-rain-falls-from-ground-vegetation-rainfall-cycle]] on a forest, a complex process begins:
 
 1. The tree canopy shelters and nullifies the impact effect of raindrops,
    reducing rain to thin mist below the canopy
-2. A film of water spreads across leaves and stems, trapped by surface tension
+2. A film of water spreads across leaves and stems, trapped by [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]]
 3. Cells absorb what is needed; the remainder evaporates
 4. "Total interception" occurs when no rain penetrates the canopy
 
@@ -67,7 +67,7 @@ several storage types:
 
 - Retention storage: water bound to soil particles by surface tension
 - Interstitial storage: water in cavities between soil particles
-- Humus storage: water in swollen [[mycorrhiza]] l and spongy detritus
+- [[holzer-humus-storage-ditches]]: water in swollen [[mycorrhiza]] l and spongy detritus
 
 Fine-textured, high-organic-content soils may store 10-30 cm of rain per 30 cm
 of depth. Free interstitial water can take 1-40 years to percolate through to
@@ -82,3 +82,8 @@ gradual release of meltwater to river sources.
 On open ground, snow may sublimate directly to water vapour in bright winter
 sun, producing no groundwater or streamflow. Even a thin belt of trees entraps
 large quantities of driven snow in drifts.
+## See Also
+- [[permaculture-design]]
+- [[savory-holistic-resource-management-water-cycle]]
+- [[savory-water-cycle-management]]
+- [[urban-permaculture-trees-water-cycling]]

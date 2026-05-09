@@ -1,5 +1,5 @@
 ---
-title: Bioavailability of Pollutants in Fungal Bioremediation
+title: Bioavailability of Pollutants in staycare-composting-as-a-fungal-bioremediation-strategy
 created: 2026-04-28
 tags: [bioremediation, bioavailability, soil, organic-pollutants, fungi]
 date: 2026-04-25
@@ -23,11 +23,11 @@ physically or chemically inaccessible in the soil matrix.
 Persistent organic pollutants (POPs) interact with soil through a
 variety of sorption mechanisms, including covalent bonding and
 electrostatic interactions. The extent of sorption depends on the
-chemical nature of the pollutant and the amount of organic matter or
+chemical nature of the pollutant and the amount of [[hamilton-composting-and-organic-matter-management]] or
 clay in the soil. Hydrophobic compounds such as pentachlorophenol (PCP)
 generally sorb strongly to soil organic matter, including humic and
 syringic acids, which can decrease their transformation rates by fungi
-in liquid culture.
+in [[comparison-liquid-culture-vs-grain-spawn]].
 
 pH significantly influences sorption behavior. PCP, for example,
 becomes a water-soluble salt at high pH, increasing its mobility and
@@ -56,7 +56,7 @@ efficient a fungal inoculant may be under laboratory conditions.
 A fundamental question in [[lentinula-edodes]] was more effective at transforming PCP at lower soil
   moisture, while [[staycare-fungal-in-situ-bioremediation-formulation-strategies]]
   for inoculant delivery
-- [[fungal-enzymes-degradation]] for enzymatic mechanisms
+- fungal-enzymes-degradation for enzymatic mechanisms
 ## Practical Considerations
 
 When working with Bioavailability of Pollutants in Fungal Bioremediation, several practical factors should be
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -116,3 +116,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[fungal-pollutant-bioavailability]]

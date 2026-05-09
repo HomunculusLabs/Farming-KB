@@ -19,7 +19,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Purseglove, J.W. (1972). Tropical Crops: Monocotyledons. Longman, London.
+  - Purseglove, J.W. (1972). mollison-specialist-tropical-crops-forest-products: Monocotyledons. Longman, London.
   - Coursey, D.G. (1968). "The edible aroids." World Crops, 20, 249–254.
   - Onokpise, O.U. et al. (1999). "Cocoyam (Xanthosoma sagittifolium) production in West Africa." Acta Horticulturae, 495, 149–156.
   - FAO. "Taro and Cocoyam." FAO Traditional Food Plants, 2010.
@@ -43,7 +43,7 @@ created: 2026-04-28
 
 *Xanthosoma sagittifolium* (malanga, tannia, yautia) is a tropical herbaceous perennial in the family Araceae, cultivated primarily for its starchy underground cormels and edible young leaves.
 
-The species is a major staple root crop in the Caribbean, West and Central Africa, and parts of South America and Southeast Asia, where it fills a similar ecological and culinary niche to taro (*Colocasia esculenta*).
+The species is a major staple root crop in the Caribbean, West and Central Africa, and parts of South America and [[psilocybe-southeast-asia-pacific]], where it fills a similar ecological and culinary niche to taro (*Colocasia esculenta*).
 
 ## Taxonomy
 
@@ -71,10 +71,10 @@ Monocots → Commelinids → Alismatales → Araceae → Aroideae → Caladieae 
 
 The species has been widely dispersed through human migration and the slave trade, becoming naturalized and cultivated across the tropics.
 
-- **Primary production regions:** Cuba, Dominican Republic, Puerto Rico, Nigeria, Ghana, Cameroon, Côte d'Ivoire, Brazil, Costa Rica.
+- **[[lichens-primary-production-soil-formation-dighton]] regions:** Cuba, Dominican Republic, Puerto Rico, Nigeria, Ghana, Cameroon, Côte d'Ivoire, Brazil, Costa Rica.
 - **Climate:** Requires warm, humid conditions; optimal temperature 25–30 °C; growth ceases below 15 °C; intolerant of frost.
 - **Rainfall:** Prefers 1,500–2,500 mm annual rainfall distributed throughout the year; tolerates seasonal dry periods of 2–3 months.
-- **Soils:** Prefers well-drained, fertile loams with high organic matter; tolerates acidic soils (pH 4.5–6.5) and moderate waterlogging better than most root crops.
+- **Soils:** Prefers well-drained, fertile loams with high [[hamilton-composting-and-organic-matter-management]]; tolerates acidic soils (pH 4.5–6.5) and moderate waterlogging better than most root crops.
 - **Altitude:** Sea level to approximately 1,200 m in humid tropical zones.
 - **Shade tolerance:** Unusually shade-tolerant for a root crop — produces satisfactory yields under 30–50% shade, making it suitable for agroforestry systems.
 
@@ -101,7 +101,7 @@ Cormels are an energy-dense carbohydrate source with moderate protein content co
 
 ## Edibility and Culinary Use
 
-All parts of the plant contain calcium oxalate crystals (raphides) that cause intense irritation if consumed raw; thorough cooking neutralizes the oxalates.
+All parts of the plant contain [[fungal-calcium-oxalate-crystals]] crystals (raphides) that cause intense irritation if consumed raw; thorough cooking neutralizes the oxalates.
 
 - **Cormel preparation:** Peeled, cut into chunks, and boiled, steamed, fried, or mashed; the cooked flesh has a nutty, slightly sweet flavor with a texture denser and smoother than potato.
 - **Culinary uses:** Boiled and served with salt cod or meat (Caribbean), fried as fritters or chips, mashed with garlic and oil (Cuban-style), ground into flour for dumplings and breads.
@@ -113,7 +113,7 @@ All parts of the plant contain calcium oxalate crystals (raphides) that cause in
 *X. sagittifolium* is one of the best-adapted root crops for multi-strata agroforestry systems due to its shade tolerance and versatility.
 
 - **Understory crop:** Grows productively under partial shade of coconut, cacao, banana, breadfruit, and timber trees; the only major root crop that performs well as an understory.
-- **Companion planting:** Intercropped with cocoa (*Theobroma cacao*), coffee, and fruit trees in Caribbean and West African systems; the large leaves provide ground cover that suppresses weeds and conserves soil moisture.
+- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:** Intercropped with cocoa (*Theobroma cacao*), coffee, and fruit trees in Caribbean and West African systems; the large leaves provide ground cover that suppresses weeds and conserves soil moisture.
 - **Soil protection:** Dense leaf canopy intercepts rainfall and reduces erosion on slopes; leaf litter adds organic matter.
 - **Multi-strata role:** Occupies the 1–2.5 m herbaceous layer in food forests, filling the gap between ground covers and canopy trees.
 - **Polyculture staple:** In traditional Caribbean and West African farming, malanga forms the carbohydrate base of multi-crop systems alongside legumes (pigeon pea, cowpea), tree crops, and small livestock.
@@ -123,7 +123,7 @@ All parts of the plant contain calcium oxalate crystals (raphides) that cause in
 - [[blighia-sapida]]
 
 - [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]
-- [[mollison-designers-cassava-tropical-root-crops]]
+- mollison-designers-cassava-tropical-root-crops
 
 - [[colocasia-esculenta]] — taro, the closely related aroid root crop
 - [[dioscorea-alata]] — winged yam, tropical tuber for food forests

@@ -1,5 +1,5 @@
 ---
-title: Goose Keeping Guide
+title: Goose duck-keeping-guide-detailed
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Ultimate Guide to Natural Farming and Sustainable Living, Nicole Faires
+Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]], Nicole Faires
 
 Geese are versatile livestock for the homestead, serving as grazers, guardians, egg producers, and meat birds. They are low-maintenance compared to many other livestock and can live entirely off pasture.
 
@@ -18,7 +18,7 @@ Geese are versatile livestock for the homestead, serving as grazers, guardians, 
 
 Geese provide multiple functions:
 
-- **Weed and grass control**: They eat grass and weeds while leaving crops and mulch alone
+- **Weed and [[mollison-geese-grass-control-and-integrated-poultry]]**: They eat grass and weeds while leaving crops and mulch alone
 - **Soil fertilization**: Their droppings fertilize the land as they graze
 - **Predator protection**: Geese act as watchdogs — alert and somewhat aggressive toward intruders
 - **Eggs and meat**: Provide food for the homestead
@@ -79,7 +79,7 @@ Geese should only be allowed into well-established areas so they do not squash y
 
 - **Brooder space**: 1.5 square feet per gosling until 7 weeks; 2.5 square feet after that
 - **Heat**: Maximum 25 goslings per 250-watt heat lamp
-- **Feeding**: 4 times per day, enough food for 15 minutes of eating. Includes tender green grass/weeds, some duck food, and grit.
+- **Feeding**: 4 times per day, enough food for 15 minutes of eating. Includes tender [[knf-green-grass-liquid-fertilizer]]/weeds, some duck food, and grit.
 - **Pasture transition**: At 5–6 weeks, goslings can survive completely on a large pasture (1 acre per 20–40 geese), optionally supplemented with grain
 - **Butchering**: Before winter when pinfeathers are not growing in
 - **Goose grease**: Traditionally used for frying, pastry, and hand salves

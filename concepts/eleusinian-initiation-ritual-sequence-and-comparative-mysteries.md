@@ -10,7 +10,7 @@ sources:
 
 # Eleusinian Initiation Ritual Sequence and Comparative Mysteries
 
-The Eleusinian Mysteries were the supreme experience in an ancient Greek initiate's life. Months of learning and rituals preceded the culminating revelation night. The entire sequence was a reenactment of sacred drama in which initiates experienced, as actors, the ineffable -- all senses and emotions shot through with what would thereafter be the unspeakable.
+The [[eleusinian-mysteries]] were the supreme experience in an ancient Greek initiate's life. Months of learning and rituals preceded the culminating revelation night. The entire sequence was a reenactment of sacred drama in which initiates experienced, as actors, the ineffable -- all senses and emotions shot through with what would thereafter be the unspeakable.
 
 ## The Initiation Sequence
 
@@ -69,7 +69,7 @@ Wasson, Hofmann, and Ruck drew extensive parallels between Eleusis and Mesoameri
 - **Hallucinogenic potion**: Kykeon at Eleusis / mushrooms or morning glories in Mexico
 - **Secrecy**: Self-enforcing in both cases -- words cannot convey the experience to outsiders
 - **Bond of fellowship**: Initiates felt a lasting bond of shared supernatural experience (cofradia)
-- **Set and setting**: Darkness, silence, and carefully prepared environment
+- **[[set-and-setting]]**: Darkness, silence, and carefully prepared environment
 - **Single lifetime experience**: At Eleusis, one took the potion only once; in Mexico, some took mushrooms only once
 - **Incompatibility with alcohol**: Both traditions strictly separated alcoholic inebriation from the sacred hallucinogenic experience
 
@@ -85,7 +85,7 @@ At Eleusis, the secrecy was enforced by Athenian law (crime to speak of what occ
 
 ## The Final Account
 
-For close to two thousand years, a few ancient Greeks passed each year through the portals of Eleusis. They celebrated the divine gift of cultivated grain and were initiated into the awesome powers of the nether world through the purple dark of the grain's sibling -- Claviceps purpurea -- which Dr. Hofmann had once again made accessible to the modern generation.
+For close to two thousand years, a few ancient Greeks passed each year through the portals of Eleusis. They celebrated the divine gift of cultivated grain and were initiated into the awesome powers of the nether world through the purple dark of the grain's sibling -- [[claviceps-purpurea]] -- which Dr. Hofmann had once again made accessible to the modern generation.
 
 ## Related Topics
 
@@ -98,7 +98,7 @@ For close to two thousand years, a few ancient Greeks passed each year through t
 
 # Soma Hypothesis
 
-The Soma hypothesis concerns the identification of the mysterious sacramental substance called Soma in the Vedic religious tradition of ancient India. R. Gordon Wasson's identification of Soma as Amanita muscaria (fly agaric) and McKenna's counter-proposal of Stropharia cubensis (psilocybin mushrooms) represent the two most prominent positions in this ongoing scholarly debate.
+The Soma hypothesis concerns the identification of the mysterious sacramental substance called Soma in the Vedic religious tradition of ancient India. R. Gordon Wasson's identification of Soma as [[amanita-muscaria]] (fly agaric) and McKenna's counter-proposal of [[stropharia-cubensis]] ([[psilocybin-mushrooms]]) represent the two most prominent positions in this ongoing scholarly debate.
 
 ## The Vedic Soma
 

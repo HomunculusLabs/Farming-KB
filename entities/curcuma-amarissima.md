@@ -12,7 +12,7 @@ sources:
   - Nguyen VD. (2005). "Medicinal Plants of Vietnam." World Health Organization.
   - Sirirugsa P. (1999). "Thai Zingiberaceae: Species Diversity and Their Uses." International Meeting on Zoology.
   - Leong-Škorić J, et al. (2014). "The Genus Curcuma in Vietnam." International Journal of Plant Production.
-  - Theilade I, Theilade S. (2013). "Zingiberaceae of Southeast Asia." Blumea.
+  - Theilade I, Theilade S. (2013). "Zingiberaceae of [[psilocybe-southeast-asia-pacific]]." Blumea.
 ---
 
 # Curcuma amarissima
@@ -39,7 +39,7 @@ commercially important Curcuma species.
 century. It is placed in the genus *Curcuma*, tribe Hedychieae, subfamily
 Zingiberoideae.
 
-The plant is a perennial herb growing 30–60 cm tall. Leaves are lanceolate to
+The plant is a perennial [[medicinal-herb-growing]] 30–60 cm tall. Leaves are lanceolate to
 elliptic, 20–40 cm long and 6–12 cm wide, with a prominent midrib. The leaf
 lamina is green above and slightly paler beneath, with a smooth or sparsely
 hairy surface.
@@ -93,7 +93,7 @@ Chemical investigations of C. amarissima rhizome have identified bitter
 sesquiterpenes as the principal bioactive constituents. The major compounds
 include isofuranodiene, furanodiene, furanodienone, and curzerenone.
 
-The essential oil obtained from rhizomes by hydrodistillation contains
+The [[permaculture-designers-manual-essential-oil-plants]] obtained from rhizomes by hydrodistillation contains
 curzerene, germacrone, and linalool as dominant volatile components. Total
 essential oil yield ranges from 0.5 to 1.2% of fresh rhizome weight.
 

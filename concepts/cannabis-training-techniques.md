@@ -1,5 +1,5 @@
 ---
-title: Cannabis Training Techniques
+title: Cannabis cannabis-training-techniques-comparison
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -50,12 +50,12 @@ ScROG uses a horizontal screen (chicken wire, trellis netting, or string grid) a
 - Creates the most even canopy possible
 - Maximizes light utilization across the entire footprint
 - Supports heavy buds — screen acts as structural support
-- Can significantly increase yield per square foot
+- Can significantly increase yield per [[comparison-biointensive-vs-square-foot-gardening]]
 
 ### Considerations
 
 - Works best with fewer, larger plants (1-4 plants per 3x3 or 4x4 tent)
-- Requires commitment to daily tending during vegetative growth
+- Requires commitment to daily tending during [[cannabis-vegetative-growth-stage]]
 - Not practical for autoflowers with short veg periods
 
 ## Main-Lining / Manifolding
@@ -85,7 +85,7 @@ Main-lining is a systematic approach that creates a perfectly symmetrical plant 
 
 ## Defoliation
 
-Defoliation is the strategic removal of leaves to improve light penetration and airflow. It is one of the most debated techniques in cannabis cultivation.
+Defoliation is the strategic removal of leaves to improve light penetration and airflow. It is one of the most debated techniques in [[query-how-does-no-till-cannabis-cultivation-work]].
 
 ### When to Defoliate
 
@@ -143,16 +143,7 @@ Super cropping is a high-stress technique that involves crushing the inner tissu
 - Over-stressing the plant if performed on multiple branches simultaneously
 - Not suitable for thin or young stems
 
-## Combination Approaches
-
-Experienced growers often combine techniques:
-
-- **ScROG + LST**: Use LST to train branches into the screen
-- **Main-line + ScROG**: Manifold the plant, then ScROG the resulting branches
-- **Topping + LST + Defoliation**: Top for structure, LST for canopy evenness, defoliate for airflow
-
-The key principle is that all training should be completed during vegetative growth. Late-stage training during flowering adds unnecessary stress and can reduce yield. See [[cannabis-environment-control]] for maintaining the proper environment to support stressed plants during recovery.
-
 ## See Also
 
 - [[cannabis-training-techniques-comparison]]
+- [[cannabis-grow-plant-training-scrog-techniques]]

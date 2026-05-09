@@ -1,5 +1,5 @@
 ---
-title: Permaculture Plant Propagation
+title: permaculture-plant-propagation-guide
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Permaculture Plant Propagation
 
-Permaculture plant propagation is the range of techniques used to multiply plants for permaculture systems, including seed saving, seed germination, cuttings, layering, division, grafting, and tissue culture. Plant propagation is a foundational skill for permaculture practitioners, enabling them to develop and expand their food forests, gardens, and restoration systems without depending on commercial nurseries. Bill Mollison references plant propagation throughout Permaculture: A Designers' Manual as an essential capability for self-reliant food production and land rehabilitation.
+Permaculture plant propagation is the range of techniques used to multiply plants for permaculture systems, including seed saving, seed germination, cuttings, layering, division, grafting, and tissue culture. Plant propagation is a foundational skill for permaculture practitioners, enabling them to develop and expand their food forests, gardens, and restoration systems without depending on commercial nurseries. [[bill-mollison]] references plant propagation throughout Permaculture: A Designers' Manual as an essential capability for self-reliant food production and land rehabilitation.
 
 ## Why Propagation Matters
 
@@ -31,7 +31,7 @@ Mollison notes that in cold climates, stratification of the seed of cold area cr
 
 Cutting propagation produces genetically identical copies of the parent plant, preserving desirable characteristics. Softwood cuttings are taken from new growth in spring and early summer, rooting quickly but requiring careful management of humidity and temperature. Semi-hardwood cuttings are taken from partially mature wood in late summer and autumn, suitable for a wide range of shrubs and trees. Hardwood cuttings are taken from dormant wood in winter, the simplest method for many deciduous species.
 
-Rooting hormones, either synthetic auxins such as IBA (indole-3-butyric acid) or natural preparations such as willow water, improve rooting success. The cutting base is dipped in hormone powder or solution before insertion into the rooting medium. A well-drained rooting medium of sand, perlite, or a sand-peat mix provides the balance of moisture and aeration needed for root development.
+[[cervantes-rooting-hormones-cloning]], either synthetic auxins such as IBA (indole-3-butyric acid) or natural preparations such as willow water, improve rooting success. The cutting base is dipped in hormone powder or solution before insertion into the rooting medium. A well-drained rooting medium of sand, perlite, or a sand-peat mix provides the balance of moisture and aeration needed for root development.
 
 Propagation environments for cuttings include cold frames, which provide protection from frost while allowing natural light and ventilation, hot beds, which use decomposing organic matter to provide bottom heat, mist propagation systems, which maintain high humidity around cuttings automatically, and closed propagation cases, which maintain humidity with minimal watering.
 
@@ -61,13 +61,13 @@ Potting media should be well-drained, moisture-retentive, and free of weed seeds
 
 ## Plant Selection and Breeding
 
-Permaculture propagation includes the ongoing selection and improvement of plant varieties. By selecting seeds from the best-performing plants each generation, permaculture practitioners develop locally adapted varieties with improved yield, disease resistance, flavour, and nutritional quality. This selection process is a form of participatory plant breeding that creates genetic resources uniquely suited to local conditions.
+Permaculture propagation includes the ongoing selection and improvement of plant varieties. By selecting seeds from the best-performing plants each generation, permaculture practitioners develop locally adapted varieties with improved yield, disease resistance, flavour, and [[coleman-winter-greens-nutritional-quality-cold-sweetening]]. This selection process is a form of participatory plant breeding that creates genetic resources uniquely suited to local conditions.
 
 ## Propagation Calendar
 
-A propagation calendar helps organise propagation activities throughout the year. In temperate climates, late winter and early spring are the main seed sowing period for annual vegetables and flowers. Hardwood cuttings are taken in mid-winter. Softwood cuttings are taken from late spring through mid-summer. Division is done in autumn or early spring. Grafting is done in late winter when rootstocks and scions are dormant.
+A propagation calendar helps organise propagation activities throughout the year. In [[fukuoka-natural-farming-temperate-climates]], late winter and early spring are the main seed sowing period for annual vegetables and flowers. Hardwood cuttings are taken in mid-winter. Softwood cuttings are taken from late spring through mid-summer. Division is done in autumn or early spring. Grafting is done in late winter when rootstocks and scions are dormant.
 
-In tropical climates, propagation timing depends more on wet and dry seasons than on temperature. Seed sowing is timed to the start of the wet season. Cuttings are taken during periods of active growth. The propagation calendar must be adapted to the specific climate and species being propagated.
+In [[fukuoka-natural-farming-tropical-climates]], propagation timing depends more on wet and dry seasons than on temperature. Seed sowing is timed to the start of the wet season. Cuttings are taken during periods of active growth. The propagation calendar must be adapted to the specific climate and species being propagated.
 
 ## Integration with Permaculture Systems
 
@@ -75,7 +75,7 @@ The propagation nursery integrates with other permaculture systems. Compost from
 
 ## See Also
 
-[[permaculture-seed-saving]]
+permaculture-seed-saving
 
 [[permaculture-plant-selection]]
 

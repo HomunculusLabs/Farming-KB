@@ -12,7 +12,7 @@ tags: [cannabis]
 
 ## Overview
 
-"A Practitioner's Guide to Marijuana Magick" by Magus Sativus positions cannabis within the broader historical tradition of witchcraft and occult practice. While the text does not provide extensive historical documentation or footnotes, it frames the modern use of cannabis in magick as a continuation of longstanding practices by witches and warlocks, drawing on established magical toolkits, ritual structures, and theological concepts that have deep roots in Western esoteric tradition.
+"A Practitioner's Guide to [[marijuana-magick-cannabis-incense-and-preparation]]" by Magus Sativus positions cannabis within the broader historical tradition of witchcraft and occult practice. While the text does not provide extensive historical documentation or footnotes, it frames the modern use of cannabis in magick as a continuation of longstanding practices by witches and warlocks, drawing on established magical toolkits, ritual structures, and theological concepts that have deep roots in Western esoteric tradition.
 
 ## The Witch's Spell Book and Cannabis
 
@@ -48,13 +48,13 @@ The wand appears in the Vortex ritual, used to point "as if touching stars" whil
 
 ### The Broom
 
-The broom is used to sweep away the salt circle and pentagram after rituals, symbolically returning the sacred space to its ordinary state. The broom (besom) has deep associations with witchcraft folklore and is one of the most recognizable symbols of the historical witch. In European folk belief, witches were said to fly on brooms -- a tradition that some scholars have connected to the use of psychoactive flying ointments applied to mucous membranes. The broom's role here as a tool for closing ritual space connects modern practice to this centuries-old symbol.
+The broom is used to sweep away the salt circle and pentagram after rituals, symbolically returning the sacred space to its ordinary state. The broom (besom) has deep associations with witchcraft folklore and is one of the most recognizable symbols of the historical witch. In European folk belief, witches were said to fly on brooms -- a tradition that some scholars have connected to the use of psychoactive [[witches-fungi-and-flying-ointments]] applied to mucous membranes. The broom's role here as a tool for closing ritual space connects modern practice to this centuries-old symbol.
 
 ### Candles
 
 Candles of specific colors serve multiple functions across the guide's rituals:
 
-- **White and green** candles for healing rituals (white for purity and spiritual healing, green for earth and physical health)
+- **White and green** candles for [[shamanic-entheogenic-healing-rituals]] (white for purity and spiritual healing, green for earth and physical health)
 - **Yellow** candles (five, placed at pentagram points) for oil blessing rituals (yellow associated with the solar, intellectual, and success-oriented)
 - **Black** candle for the Vortex scrying ritual (black associated with banishing, protection, and the void from which all creation emerges)
 - **White** candles (five, in pentagram formation) for Smoke and Mirrors (white for purity and protective sacred space)
@@ -101,7 +101,7 @@ The guide consistently addresses its audience as "witches and warlocks," using t
 
 While the guide does not address the historical persecution of witches directly, its content implicitly engages with the legacy of the European witch hunts. The text's insistence that cannabis use is legitimate when practiced "responsibly and with the proper motives" can be read as a response to centuries of demonization of both witchcraft and psychoactive plants. The historical association between witches and "flying ointments" made from psychoactive herbs, combined with the criminalization of both witchcraft and cannabis across much of the modern world, creates a parallel history of suppression that the guide's matter-of-fact treatment of cannabis in magical practice subtly challenges.
 
-The guide's legal disclaimer -- "this should only be attempted in states or jurisdictions where one is able to legally obtain and use marijuana" -- acknowledges this ongoing tension between magical practice and legal authority, a tension that has defined the witch's relationship with power structures for centuries. The witch has historically been the figure who possesses knowledge (including botanical and pharmacological knowledge) that authorities seek to control or suppress, and the guide's integration of cannabis into witchcraft practice continues this dynamic in a contemporary context.
+The guide's [[oss-oeric-legal-disclaimer-and-context]] -- "this should only be attempted in states or jurisdictions where one is able to legally obtain and use marijuana" -- acknowledges this ongoing tension between magical practice and legal authority, a tension that has defined the witch's relationship with power structures for centuries. The witch has historically been the figure who possesses knowledge (including botanical and pharmacological knowledge) that authorities seek to control or suppress, and the guide's integration of cannabis into witchcraft practice continues this dynamic in a contemporary context.
 
 ## The Chalice as Eucharistic Vessel
 
@@ -111,11 +111,11 @@ The chalice's prominent role across multiple rituals connects the guide's practi
 
 A particularly striking image in the guide's description of the Harnessing ritual is the athame used as a "lightning rod" for celestial energy. The text instructs the practitioner to raise the athame skyward and "visualize the healing powers of the heavens raining down upon you, attracted by the power of the athame." The athame is described as "attracting lightning bolts of positive energy," with the practitioner imagining various colors of energy flowing through the blade and into the body.
 
-This imagery connects to ancient traditions of the magician's staff or rod as a conductor of divine power -- from Moses' rod that parted the Red Sea to the caduceus of Hermes/Mercury. The athame in this context functions as a technological extension of the practitioner's will, focusing and channeling energies that would otherwise be too diffuse or overwhelming to work with directly.
+This imagery connects to [[sacred-meal-ancient-traditions]] of the magician's staff or rod as a conductor of divine power -- from Moses' rod that parted the Red Sea to the caduceus of Hermes/Mercury. The athame in this context functions as a technological extension of the practitioner's will, focusing and channeling energies that would otherwise be too diffuse or overwhelming to work with directly.
 
 ## Limitations as Historical Source
 
-It is important to note that the guide is a modern practical manual rather than a historical document. Its claims about early Christian cannabis use and other historical connections are not footnoted or sourced from primary documents. The rituals presented are contemporary constructions that draw on established magical frameworks rather than documented historical practices. The text should be understood as a contribution to modern neopagan and occult practice that invokes historical themes and traditions rather than as a scholarly account of pre-modern witchcraft.
+It is important to note that the guide is a modern practical manual rather than a historical document. Its claims about [[allegro-dead-sea-scrolls-and-early-christian-sects]] cannabis use and other historical connections are not footnoted or sourced from primary documents. The rituals presented are contemporary constructions that draw on established magical frameworks rather than documented historical practices. The text should be understood as a contribution to modern neopagan and occult practice that invokes historical themes and traditions rather than as a scholarly account of pre-modern witchcraft.
 
 ## See Also
 

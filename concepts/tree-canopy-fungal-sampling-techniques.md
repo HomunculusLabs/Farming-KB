@@ -1,5 +1,5 @@
 ---
-title: Tree Canopy Fungal Sampling — Techniques for Accessing Upper Forest
+title: Tree tree canopy fungal sampling techniques Sampling — Techniques for Accessing Upper Forest
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Tree Canopy Fungal Sampling — Techniques for Accessing Upper Forest
 
-To obtain a full species list of fungi in a forest, sampling must extend many meters above the ground. The upper canopy hosts unique microclimates and fungal communities distinct from those near the forest floor. This chapter reviews techniques for accessing and sampling tree canopies.
+To obtain a full species list of fungi in a forest, sampling must extend many meters above the ground. The upper canopy hosts unique microclimates and [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] distinct from those near the forest floor. This chapter reviews techniques for accessing and sampling tree canopies.
 
 ## Why Canopy Sampling Matters
 
@@ -18,7 +18,7 @@ To obtain a full species list of fungi in a forest, sampling must extend many me
 - Upper canopy has more extreme light intensity, temperature, and moisture fluctuations
 - Some foliar fungi occur only in the upper canopy
 - Sooty molds can cover trunks to 9+ meters in some forests
-- Black mildews abundant in upper canopy but rare in dense rain forest undergrowth
+- [[sooty-molds-black-mildews-tropical-foliar-fungi]] abundant in upper canopy but rare in dense rain forest undergrowth
 
 ## Canopy Access Techniques
 

@@ -1,5 +1,5 @@
 ---
-title: "DON -- 2,5-DIMETHOXY-4-NITROAMPHETAMINE -- PIHKAL Entry #70"
+title: "DON -- 2,5-DIMETHOXY-4-NITROAMPHETAMINE -- 2c-b-pihkal-entry-20 #70"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -39,7 +39,7 @@ PIHKAL entry #70. 2,5-DIMETHOXY-4-NITROAMPHETAMINE.
 
 ## Extensions and Commentary
 
-These qualitative comments are not true quotations, but have been reconstructed from the published summaries of the human trials reported by several South American researchers. I have personally never tasted DON and have only these fragments from which to create a portrait of activity. A brief quotation, from a note published by these researchers in a bulletin that is restricted to forensic scientists serving law enforcement agencies, is certainly subject to a number of interpretations. It reads as follows: "This action [a strong stimulant action reminiscent of amphetamine] seems to reduce the incidence of insightful, and therefore potentially unpleasant experiences, and thus [DON seems likely] to appear on the market as an illicit recreational drug." I must admit that I have tried, and I am still not able, to interpret this quotation.
+These qualitative comments are not true quotations, but have been reconstructed from the published summaries of the human trials reported by several [[chiric-caspi-brunfelsia-south-american-hallucinogen]] researchers. I have personally never tasted DON and have only these fragments from which to create a portrait of activity. A brief quotation, from a note published by these researchers in a bulletin that is restricted to forensic scientists serving law enforcement agencies, is certainly subject to a number of interpretations. It reads as follows: "This action [a strong stimulant action reminiscent of amphetamine] seems to reduce the incidence of insightful, and therefore potentially unpleasant experiences, and thus [DON seems likely] to appear on the market as an illicit recreational drug." I must admit that I have tried, and I am still not able, to interpret this quotation.
 
 ## Synthesis
 
@@ -69,12 +69,12 @@ with anxiety and physical discomfort. At higher doses (~4.5 mg), visual
 effects become prominent including enhanced color perception and
 auditory distortion. The duration is notably long at 8-15 hours,
 consistent with the DOx family's reputation for extended action due
-to tight receptor binding and slow metabolic clearance. The stimulant
+to tight [[tihkal-receptor-binding-serotonin]] and slow metabolic clearance. The stimulant
 component appears to partially suppress the psychedelic insights,
 producing a more "recreational" character than compounds like DOI.
 
 ## Legal Status
-DON is a controlled substance in many countries. In the United States,
+DON is a controlled substance in many countries. In the [[dmt-containing-plants-united-states-halpern]],
 its position is ambiguous under the Federal Analogue Act as a
 substituted amphetamine with psychedelic properties. Several European
 nations explicitly control DOx compounds including DON. It is listed in

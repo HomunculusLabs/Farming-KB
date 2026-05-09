@@ -25,7 +25,7 @@ Insomnia is the most common sleep disorder, affecting approximately 30-35% of ad
 
 ### Causes
 - Stress and anxiety
-- Chronic pain
+- [[cannabis-chronic-pain-management]]
 - Medications (stimulants, antidepressants, corticosteroids)
 - Caffeine and alcohol
 - Irregular sleep schedule
@@ -34,7 +34,7 @@ Insomnia is the most common sleep disorder, affecting approximately 30-35% of ad
 - Aging (sleep architecture changes with age)
 
 ### Orthodox Treatment
-Sleep hygiene education, cognitive behavioral therapy for insomnia (CBT-I), and pharmaceutical medications (benzodiazepines, non-benzodiazepine hypnotics, antidepressants). Pharmaceutical sleep aids carry risks of dependency, tolerance, daytime sedation, and adverse effects.
+Sleep hygiene education, cognitive behavioral therapy for insomnia (CBT-I), and pharmaceutical medications (benzodiazepines, non-benzodiazepine hypnotics, antidepressants). Pharmaceutical sleep aids carry risks of dependency, tolerance, daytime sedation, and [[blesching-cannabis-safety-adverse-effects-evidence]].
 
 ## Cannabis Research for Insomnia
 
@@ -80,11 +80,11 @@ For sleep, indica and indica-dominant strains are generally preferred due to the
 
 Research on insomnia consistently shows:
 - Cognitive arousal (racing thoughts, worry) is a primary contributor to difficulty falling asleep
-- Hyperarousal of the stress response system (HPA axis) is common in chronic insomnia
-- Trauma and stress are significant contributing factors
+- Hyperarousal of the [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] system (HPA axis) is common in chronic insomnia
+- Trauma and stress are significant [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]]
 - Relaxation practices (meditation, progressive muscle relaxation, deep breathing) are as effective as medication for many patients
 
-Cannabis may address insomnia through multiple pathways simultaneously: reducing anxiety (cognitive arousal), relieving pain, promoting physical relaxation, and directly sedating through cannabinoid receptor activation.
+Cannabis may address insomnia through multiple pathways simultaneously: reducing anxiety (cognitive arousal), relieving pain, promoting physical relaxation, and directly sedating through [[cannabis-cannabinoid-receptor-pharmacology]] activation.
 
 ## See Also
 
@@ -96,4 +96,4 @@ Cannabis may address insomnia through multiple pathways simultaneously: reducing
 
 ## Source
 
-Uwe Blesching, *The Cannabis Health Index*, Insomnia and related sections (Fibromyalgia, Neuropathies)
+Uwe Blesching, *The [[blesching-cannabis-health-index-autoimmune-conditions]]*, Insomnia and related sections (Fibromyalgia, Neuropathies)

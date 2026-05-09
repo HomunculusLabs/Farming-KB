@@ -64,7 +64,6 @@ Adaptogenic herbs have deep roots in multiple traditional medical systems, thoug
 
 - [[nervine-herbs-and-anxiety-relief]] — Nervine herbs for acute anxiety
   relief (complementary to adaptogens)
-- [[nervine-herbs-and-anxiety-relief]]
 - [[nootropic-herbs-guide]]
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[gynostemma-pentaphyllum]]

@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Mushroom Species and Identification
+title: emcdda-psilocybin-mushroom-dose-and-effects Species and Identification
 created: 2026-04-28
 tags:
   - mycology
@@ -15,7 +15,7 @@ type: concept
 ---
 
 # [[psilocybe-cubensis]]*** (also known as *[[psilocybe-semilanceata]]*** (liberty caps): the most common wild
-  European hallucinogenic mushroom
+  European [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]]
 - ***[[psilocybe-tampanensis-entity]]***: these form
   sclerotia and are known as "truffles" or "philosopher's stone"
 
@@ -29,15 +29,15 @@ A variety of psilocybin-containing mushroom species are found in Europe,
 particularly throughout central and northern Europe. Habitats include wet
 grassy fields and uncultivated pastures. Key species by region:
 
-- ***Psilocybe semilanceata***: found in the UK, Norway, and Germany
-- ***Psilocybe cyanescens***: also found in Europe
+- ***[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]***: found in the UK, Norway, and Germany
+- ***[[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]***: also found in Europe
 - ***[[amanita-muscaria-entity]]* and *Amanita pantherina* (panther cap) as
 legal alternatives, raising safety concerns.
 
 ## Wild Foraging
 
 Evidence is sparse on the extent to which consumers in EU Member States
-collect naturally growing hallucinogenic mushrooms ("magic mushroom
+collect naturally growing [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] ("[[australian-magic-mushroom-common-names]]
 hunting"). Qualitative reports from Poland, Ireland, and the Czech
 Republic indicate that users do hunt for wild mushrooms:
 
@@ -58,6 +58,7 @@ inedible, or poisonous species.
   composition and pharmacological mechanisms
 - [[emcdda-hallucinogenic-mushroom-markets]] for how species
   availability connects to retail markets
+
 ## Practical Considerations
 
 Successful implementation of Psilocybin Mushroom Species and Identification requires attention to
@@ -76,4 +77,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

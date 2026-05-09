@@ -19,7 +19,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Kuo, M. (2024). "Chalciporus piperatus." MushroomExpert.com. https://www.mushroomexpert.com/chalciporus_piperatus.html
-  - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "North American Boletes." Syracuse University Press.
+  - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "[[growing-gourmet-north-american-reishi-species]] Boletes." Syracuse University Press.
   - Watling, R. & Hills, A.E. (2005). "Boletes and their Allies." Royal Botanic Gardens, Kew.
   - Klofac, W. (2011). "The genus Chalciporus (Boletales) — a review." Österreichische Zeitschrift für Pilzkunde, 20, 31–44.
 ---
@@ -77,7 +77,7 @@ The flesh turns bluish when exposed to air, particularly in the stipe and
 tube layer. Taste is markedly peppery and hot, especially in the tubes.
 Odor is mild and not distinctive.
 
-**Spore print:** Cinnamon-brown to tobacco-brown.
+**[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Cinnamon-brown to tobacco-brown.
 
 **Spores:** 9–14 × 4–6 µm, broadly fusoid to ellipsoid, smooth, inamyloid.
 
@@ -101,7 +101,7 @@ classified as ectomycorrhizal, molecular and observational evidence suggests
 it may be a facultative mycoparasite. It is frequently found fruiting in
 close proximity to, or directly from the decaying remains of, other bolete
 species, particularly *Suillus* and *Boletus* species. Some researchers
-propose it obtains nutrients from the mycelial networks of other fungi in
+propose it obtains nutrients from the [[fungal-mycelial-networks-nutrient-translocation]] of other fungi in
 addition to, or instead of, direct tree root associations.
 
 ## Edibility and Culinary Use

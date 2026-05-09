@@ -53,15 +53,15 @@ telestrion. Inside, they sat in rows that descended step-wise
 to a hidden, central chamber from which a fungal concoction
 was served. The pilgrims spent the night together and
 reportedly came away forever changed. These ceremonies,
-known as the Eleusinian Mysteries, continued until repressed
+known as the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]], continued until repressed
 in the early centuries of the Christian era. No revelation
 of the ceremony's secrets could be mentioned under the
 punishment of imprisonment or death.
 
 In 1977, R. Gordon Wasson, gordon-wasson, and Carl Ruck
 first postulated that the Eleusinian mysteries centered on
-the use of psychoactive fungi. That Aristotle and other
-founders of western philosophy undertook such intellectual
+the use of [[cattle-dispersal-psychoactive-fungi-australia]]. That Aristotle and other
+founders of [[fukuoka-descartes-western-philosophy-nature]] undertook such intellectual
 adventures underscores the profound impact that fungal
 rites have had on the evolution of western consciousness.
 
@@ -77,7 +77,7 @@ and on Amanita mushrooms in Euro-Asia/Siberia.
 
 Wasson's publications include Mushrooms, Russia, and
 History; The Wondrous Mushroom: Mycolatry in Mesoamerica;
-Maria Sabina and her Mazatec Mushroom Velada; and
+Maria Sabina and her [[maria-sabina-mazatec-mushroom-ceremony]] Velada; and
 Persephone's Quest: Entheogens and the Origins of Religion.
 More than any individual of the 20th century, Wasson
 kindled interest in ethnomycology to its present state of
@@ -89,14 +89,14 @@ One of Wasson's most provocative findings appears in Soma:
 Divine Mushroom of Immortality (1976), where he postulated
 that the mysterious SOMA in Vedic literature, a red fruit
 leading to spontaneous enlightenment, was actually a
-mushroom: Amanita muscaria, the hallucinogenic Fly Agaric.
+mushroom: [[allegro-amanita-muscaria-properties-and-pharmacology]], the hallucinogenic Fly Agaric.
 Many cultures portray Amanita muscaria as the archetypal
 mushroom. Although some Vedic scholars disagree, Wasson's
 exhaustive research still stands as a compelling theory.
 
 ## Mycophobia and Mycophilia
 
-Fear of mushroom poisoning pervades every culture, sometimes
+Fear of [[european-mushroom-poisoning-history]] pervades every culture, sometimes
 reaching phobic extremes. The term mycophobic describes those
 individuals and cultures where fungi are looked upon with
 fear and loathing. Mycophobic cultures are epitomized by the

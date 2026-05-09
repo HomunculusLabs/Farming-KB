@@ -1,11 +1,12 @@
 ---
-title: Fukuoka Natural Weed Management
+title: masanobu-fukuoka-natural-farming-philosophy Weed Management
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka's Natural Weed Management
 
@@ -19,19 +20,19 @@ competitive balance between crops and weeds through ecological means.
 
 ## The Role of Weeds
 
-Fukuoka viewed weeds as essential components of agricultural ecosystems,
+Fukuoka viewed weeds as essential components of [[fungi-grassland-agricultural-ecosystems-dighton]],
 performing
 valuable functions:
 - **Soil protection:** Weeds prevent erosion and maintain soil moisture
-- **Nutrient cycling:** Deep-rooted weeds bring up minerals from subsoil
+- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]:** Deep-rooted weeds bring up minerals from subsoil
 layers
 - **Microbial habitat:** Weed roots provide food and habitat for soil organisms
-- **Pest management:** Some weeds host beneficial insects or repel pests
+- **Pest management:** Some weeds host [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] or repel pests
 - **Biodiversity:** Weeds contribute to the overall ecological diversity
 that keeps
 pest populations in check
 
-The goal is not zero weeds but an ecological balance where crops dominate
+The goal is not zero weeds but an [[fukuoka-ecological-balance-principles]] where crops dominate
 without
 weeds being eliminated.
 
@@ -53,7 +54,7 @@ natural selection determine which thrived.
 Fukuoka
 observed that certain weeds appear when the soil needs specific corrections
 — they
-are nature's diagnostic tools.
+are nature's [[fukuoka-textdoc-weeds-as-soil-diagnostic-tools-orchard-restoration]].
 
 5. **Flooding (rice only):** In rice cultivation, a brief period of flooding
 after
@@ -79,4 +80,4 @@ See also:
 
 ## See Also
 
-- [[amaranthus-retroflexus]]
+- amaranthus-retroflexus

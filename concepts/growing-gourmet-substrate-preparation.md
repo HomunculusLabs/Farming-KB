@@ -1,5 +1,5 @@
 ---
-title: Substrate Preparation (Growing Gourmet & Medicinal Mushrooms)
+title: cotter-compost-substrate-preparation-manure-mushroom-cultivation (Growing Gourmet & comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive)
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
@@ -12,7 +12,7 @@ sources:
 ---
 # Substrate Preparation
 
-Substrate preparation is the foundation of successful mushroom cultivation. Paul Stamets provides detailed guidance on preparing both supplemented sawdust substrates (requiring sterilization) and bulk substrates like straw (requiring pasteurization), along with several alternative treatment methods.
+Substrate preparation is the foundation of successful [[accessible-mushroom-cultivation-for-disabilities]]. Paul Stamets provides detailed guidance on preparing both [[oyster-mushroom-supplemented-sawdust-blocks]] substrates (requiring sterilization) and bulk substrates like straw (requiring pasteurization), along with several alternative treatment methods.
 
 ## Two Categories of Substrate
 
@@ -29,13 +29,13 @@ Mushroom cultivation substrates fall into two categories based on their treatmen
 - Wheat straw, rice straw, oat straw
 - Cottonseed hulls, sugarcane bagasse
 - Paper and cardboard products
-- Coffee grounds and agricultural residues
+- [[oyster-mushroom-coffee-grounds-cultivation]] and agricultural residues
 - These substrates have lower nutritional value, less attractive to competitors
 - Pasteurized at 160-170F (71-77C) for 2+ hours
 
 ## The Supplemented Sawdust Fruiting Formula
 
-The standard supplemented sawdust formula for gourmet mushroom production consists of:
+The standard supplemented sawdust formula for [[growing-gourmet-mushroom-dehydration-methods-equipment]] production consists of:
 - 80% hardwood sawdust (by dry weight)
 - 20% rice bran or wheat bran (by dry weight)
 - 5% gypsum (calcium sulfate) based on total dry weight
@@ -131,10 +131,12 @@ After substrate treatment, spawn is broadcast onto straw. Mixing is strongly adv
 
 ## See Also
 
+- [[growing-gourmet-soak-and-strike-forcing]]
+
 - [[growing-gourmet-substrate-materials-wood-types]]
 
 - [[growing-gourmet-contamination-prevention]]
-- [[mushroom-substrate-recipes]]
+- mushroom-substrate-recipes
 - [[mushroom-substrates]]
 - [[pasteurization-vs-sterilization]]
 - [[growing-gourmet-fruiting-parameters]]

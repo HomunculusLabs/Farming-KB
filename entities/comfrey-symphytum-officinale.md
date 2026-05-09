@@ -17,11 +17,11 @@ sources:
     url: "https://plants.usda.gov/home/plantProfile?symbol=SYOF2"
   - label: "PubMed — Pyrrolizidine Alkaloids in Comfrey and Hepatotoxicity"
     url: "https://pubmed.ncbi.nlm.nih.gov/26878693/"
-  - label: "ATTRA — Sustainable Agriculture: Dynamic Accumulators"
+  - label: "ATTRA — Sustainable Agriculture: [[comparison-dynamic-accumulators-vs-cover-crops]]"
     url: "https://attra.ncat.org/attra-pub/summaries/summary.php?pub=390"
   - label: "PubMed — Allantoin Wound-Healing Properties"
     url: "https://pubmed.ncbi.nlm.nih.gov/29262073/"
-  - label: "Journal of the Science of Food and Agriculture — Comfrey as Organic Fertilizer"
+  - label: "Journal of the Science of Food and Agriculture — Comfrey as [[complete-organic-fertilizer-cof-recipe-solomon]]"
     url: "https://doi.org/10.1002/jsfa.4746"
   - label: "PubMed — Symphytum officinale Phytochemical Review"
     url: "https://pubmed.ncbi.nlm.nih.gov/25467129/"
@@ -41,7 +41,7 @@ Comfrey (*Symphytum officinale*) is a perennial herbaceous plant in the family B
 
 ### Dynamic Accumulator
 
-Comfrey is the prototypical dynamic accumulator in permaculture literature. Its deep taproot mines potassium (K), calcium (Ca), phosphorus (P), magnesium (Mg), iron (Fe), and [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]] are concentrated in the leaf biomass, which can be harvested 4–6 times per growing season and cycled back into the system.
+Comfrey is the prototypical dynamic accumulator in permaculture literature. Its deep taproot mines potassium (K), calcium (Ca), phosphorus (P), magnesium (Mg), iron (Fe), and [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]] are concentrated in the leaf biomass, which can be harvested 4–6 times per [[savory-growing-season-and-non-growing-season-management]] and cycled back into the system.
 
 ### Comfrey Tea (Liquid Fertilizer)
 
@@ -60,16 +60,16 @@ Comfrey leaves added to compost piles supply nitrogen and act as a biological ac
 
 ### Mulch
 
-Fresh comfrey leaves l [[coleman-overwintered-onions-and-early-spring-crops]] **Crown divisions:** Established clumps can be divided in early spring or autumn. Each division should contain viable crown buds and root mass.
+Fresh comfrey leaves l [[coleman-overwintered-onions-and-early-spring-crops]] **Crown divisions:** Established clumps can be divided in [[coleman-overwintered-onions-and-early-spring-crops]] or autumn. Each division should contain viable crown buds and root mass.
 - **Seed:** *S. officinale* produces viable seed, though germination can be uneven. Cultivars such as Bocking 14 are sterile and must be vegetatively propagated.
-- **Spacing:** Plant 60–90 cm apart for dense biomass production.
+- **Spacing:** Plant 60–90 cm apart for dense [[dighton-fungal-biomass-production-aquatic-ecosystems]].
 - **Harvest:** Begin cutting 5–8 cm above ground once plants reach ~60 cm tall. Allow regrowth between cuts; typically 4–6 harvests per year.
 
 ## Ecological Benefits
 
 - **Soil structure improvement:** The deep taproot creates channels through compacted subsoil, improving water infiltration and aeration. This "biological subsoiler" effect is valuable in no-till and minimum-tillage systems.
 - **Micronutrient cycling:** By drawing minerals from deep soil profiles and depositing them in decomposable leaf litter at the surface, comfrey participates in a vertical nutrient cycling mechanism unavailable to most crop plants.
-- **Erosion control:** Dense root systems and rapid above-ground growth stabilize banks, slopes, and riparian margins.
+- **[[permplant-willows-salix-erosion-control-fodder]]:** Dense root systems and rapid above-ground growth stabilize banks, slopes, and riparian margins.
 - **Biomass production:** Yields of 2–5 kg fresh leaf matter per plant per year make comfrey one of the highest-yielding perennial biomass crops in temperate climates.
 
 ## Safety & Toxicity

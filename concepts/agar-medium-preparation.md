@@ -10,14 +10,14 @@ sources: []
 # Agar Medium Preparation and Techniques
 Agar medium preparation is one of the most fundamental skills in mushroom 
 cultivation. A properly prepared agar plate provides a sterile, nutritious 
-surface for mycelial growth, enabling the cultivator to isolate clean 
+surface for [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]], enabling the cultivator to isolate clean 
 strains, expand inoculum, and store cultures long-term. The quality of agar 
 work directly determines the health of every subsequent cultivation stage — 
 from [[bulk-substrate-preparation]] to 
 fruiting.
 
 ## Standard Agar Formulas
-The most commonly used agar formulas for mushroom cultivation include:
+The most commonly used agar formulas for [[accessible-mushroom-cultivation-for-disabilities]] include:
 - **Malt Extract Agar (MEA):** 20g light malt extract powder, 20g agar 
 powder, 1 liter water. The gold standard for general mycelial work. Light 
 malt extract (not dark or diastatic) provides a balanced mix of simple and 
@@ -37,7 +37,7 @@ See [[contamination-identification-prevention]] issues. Use antibiotics sparingl
 problem isolates.
 
 ## Sterilization Procedure
-Agar media must be sterilized at 15 PSI for 20-30 minutes in a 
+[[growing-gourmet-agar-media-formulas-preparation]] must be sterilized at 15 PSI for 20-30 minutes in a 
 mushroom-pasteurization|pressure cooker or autoclave. Longer 
 sterilization causes caramelization of sugars, turning the medium brown and 
 creating compounds that inhibit mycelial growth. Use the shortest effective 
@@ -63,7 +63,7 @@ Use distilled or reverse osmosis water for agar preparation. Tap water
 contains chlorine and chloramines that inhibit mycelial growth, and mineral 
 content varies significantly between sources. If tap water must be used, let 
 it sit uncovered for 24 hours to off-gas chlorine, or boil for 10 minutes to 
-drive off volatile compounds.
+drive off [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]].
 
 ## Agar Selection
 Food-grade agar powder derived from red algae (Gelidium or Gracilaria 
@@ -71,7 +71,7 @@ species) is standard. Gel strength of 900-1000 g/cm² produces plates firm
 enough to handle during transfers. Higher gel strength (1200+) is useful for 
 [[agar-work-guide]]
 - [[contamination-identification-prevention]]
-- [[mushroom-microwave-sterilization]]
+- mushroom-microwave-sterilization
 ## Practical Considerations
 
 Successful implementation of Agar Medium Preparation and Techniques requires attention to
@@ -91,3 +91,8 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[growing-gourmet-agar-media-formulation-guide]]
+
+- [[malt-agar-baseline-medium-psilocybe-cubensis-growth-assay]]

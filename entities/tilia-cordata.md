@@ -19,7 +19,7 @@ sources: ["domain-knowledge"]
 - Medicinal part: Dried flowers and bracts (Tiliae flos), harvested in early summer at peak bloom
 - Cultivars: 'Greenspire', 'Chancellor', 'Euclid', 'Norlin' widely planted
 - Historical significance: Sacred tree in Germanic and Slavic folklore; associated with justice and community gatherings
-- Monofloral honey: Produces prized pale, aromatic linden honey valued across Europe and North America
+- Monofloral honey: Produces prized pale, aromatic linden honey valued across Europe and [[psilocybin-north-america-pacific-northwest]]
 
 ## Taxonomy
 - Binomial: Tilia cordata Mill.
@@ -63,7 +63,7 @@ sources: ["domain-knowledge"]
 ## Distribution & Habitat
 - Native range: Europe from British Isles eastward to western Siberia and the Caucasus
 - Northern limit: Southern Scandinavia (~63°N in Finland); most cold-tolerant Tilia
-- Naturalized: Widely naturalized in eastern North America, New Zealand, temperate South America
+- Naturalized: Widely naturalized in [[polypore-fungi-eastern-north-america]] America, New Zealand, temperate South America
 - Habitat: Mixed deciduous forests, forest edges, stream banks, limestone outcrops
 - Soil preference: Calcareous, well-drained loams; adapts to both acidic and alkaline substrates
 - Elevation: Lowland to submontane, up to ~1,500 m in southern range
@@ -115,14 +115,14 @@ sources: ["domain-knowledge"]
 - Clinical evidence: Moderate; strongest data for anxiolytic/sedative effects; human trials generally small
 - ESCOP indication: Common cold (catarrh), cough; traditionally anxiety and sleep
 ## Permaculture Applications
-- Bee forage: Premier mid-summer nectar source; supports honey production and native pollinators
+- Bee forage: Premier mid-summer nectar source; supports [[mollison-designers-beekeeping-honey-production-permaculture]] and native pollinators
 - Shade tree: Dense canopy provides excellent summer shade for livestock, seating areas, buildings
 - Coppice / pollard: Responds vigorously to cutting; traditional European management for firewood and fodder
 - Windbreak: Suitable as mid-canopy component in shelterbelts and mixed windbreak plantings
 - Urban tolerance: Exceptional — thrives along streets, in plazas, and under compacted conditions
-- Companion planting: Understory of shade-tolerant herbs (Allium spp., Galium odoratum, Viola spp.)
+- [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]: Understory of shade-tolerant herbs (Allium spp., Galium odoratum, Viola spp.)
 - Edible landscape: Flowers edible (tea, fritters, syrups); young leaves mildly mucilaginous, edible in salads
-- Soil improvement: Deep roots cycle nutrients; leaf litter enriches soil organic matter
+- Soil improvement: Deep roots cycle nutrients; leaf litter enriches soil [[hamilton-composting-and-organic-matter-management]]
 - Wildlife value: Seeds eaten by birds and small mammals; canopy supports nesting; catkins provide early pollen
 - Long-term yield: Decades of flower harvests, coppice rotations, and honey flows once established
 - Guild role: N-fixing legumes benefit from dappled shade; linden draws pollinators benefiting all guild plants
@@ -140,7 +140,9 @@ sources: ["domain-knowledge"]
 - Pests/diseases: Generally pest-free; aphids produce honeydew (sooty mold); linden gall mite occasionally
 ## See Also
 
+- [[tilia-europaea]]
+
 - [[aesculus-hippocastanum]]
 
-- [[melissa-officinalis]] — Lemon balm; shares anxiolytic and nervine indications; traditional tea companion
+- [[melissa-officinalis]] — [[comparison-lemon-balm-vs-passionflower]]; shares anxiolytic and nervine indications; traditional tea companion
 - [[valeriana-officinalis]] — Valerian; complementary sedative herb often combined with linden in sleep formulations

@@ -1,5 +1,5 @@
 ---
-title: Panaeolus Cyanescens and Copelandia Identification
+title: stamets panaeolus cyanescens copelandia identification ecology and Copelandia Identification
 created: 2026-04-28
 tags: [taxonomy, psilocybin-mushrooms, identification, ecology, copelandia]
 date: 2026-04-25
@@ -14,7 +14,7 @@ Panaeolus cyanescens, commonly known as the "blue meanies," is one of
 the most potent psilocybin-containing mushrooms in the world. Under the
 alternative classification system proposed by Singer, it and its close
 relatives are placed in the genus Copelandia, a group of tropical and
-subtropical Panaeoli distinguished by their strong bluing reaction and
+subtropical Panaeoli distinguished by their strong [[field-guide-psilocybin-bluing-reaction-identification]] and
 characteristic pleurocystidia. The Copelandian species include bispora,
 cambodginiensis, chlorocystis, cyanescens, and tropicalis.
 
@@ -55,7 +55,9 @@ measure 11 to 15 by 3 to 5 microns. The characteristic pleurocystidia
 are the defining microscopic feature separating Copelandian species from
 other Panaeoli.
 
-## Related Species and Distinguishing Features
+## Related
+
+- [[panaeolus-antillarum-misidentification-copelandia-confusion]] Species and Distinguishing Features
 
 Panaeolus cambodginiensis is very similar macroscopically but differs in
 overall smaller stature, habitat preference for water buffalo dung, and
@@ -65,13 +67,13 @@ Panaeolus tropicalis is virtually identical to both P. cyanescens and P.
 cambodginiensis, differing only in larger spore size and interior spore
 aspects. Stamets considers these subtle differences potentially regional
 in nature and not sufficient to warrant separate species status.
-Panaeolus bispora, from subtropical North America, is macroscopically
+Panaeolus bispora, from subtropical [[psilocybin-north-america-pacific-northwest]], is macroscopically
 identical but has exclusively 2-spored basidia.
 
 ## Habitat and Distribution
 
 Panaeolus cyanescens grows scattered to gregariously on dung in pastures
-and fields. In the United States, it is found in Hawaii, Louisiana, and
+and fields. In the [[dmt-containing-plants-united-states-halpern]], it is found in Hawaii, Louisiana, and
 Florida. It is widespread in most semitropical zones globally, reported
 from Mexico, Brazil, Bolivia, the Philippines, eastern Australia, and
 occasionally the Mediterranean region near Menton, France. The species
@@ -90,7 +92,7 @@ and 0.6% psilocin by Merlin and Allen (1993). The strong bluing
 reaction correlates with the presence of psilocin, which oxidizes to
 blue upon exposure. The potency of Copelandian species generally exceeds
 that of temperate Psilocybe species, making them among the most
-powerful naturally occurring psilocybin mushrooms known.
+powerful naturally occurring [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] known.
 
 ## Cultivation Notes
 

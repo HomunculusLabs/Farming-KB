@@ -1,5 +1,5 @@
 ---
-title: "How Does Mycorrhizal Network Communication Work Between Plants"
+title: "How Does arbuscular-mycorrhizal-network-visualization-anastomosis Communication Work Between Plants"
 created: 2026-04-28
 tags: [query, mycology, plant-biology, mycorrhizal, ecology]
 date: 2026-04-25
@@ -21,9 +21,9 @@ At the heart of this system are
 follows physiological gradients, moving from where nutrients are abundant
 to where they are needed most.
 
-Chemical signaling through mycorrhizal networks is one of the most
+[[plant-hormones-and-chemical-signaling-systems]] through [[dighton-mycorrhizal-networks-carbon-transfer]] is one of the most
 fascinating aspects of this communication. When a plant is attacked by
-herbivores or pathogens, it can produce chemical signals that travel
+herbivores or pathogens, it can produce [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] that travel
 through the fungal network to neighboring plants, which then upregulate
 their own defensive compounds before the threat reaches them. This
 [[wood-wide-web-theory|wood wide web theory]], popularized by
@@ -45,10 +45,10 @@ molecules. The
 damages mycorrhizal networks by severing hyphal connections, effectively
 cutting the communication lines between plants. Practices that support
 diverse mycorrhizal communities, including
-agroforestry and alley cropping,
+agroforestry and [[comparison-alley-cropping-vs-silvopasture]],
 polyculture plantings, and
 no-till management, help maintain the network connectivity that enables
-inter-plant resource sharing and signaling.
+inter-plant [[mycelial-network-resource-sharing-plants]] and signaling.
 
 It is important to note that mycorrhizal networks are not universally
 cooperative. Plants can also use CMNs to steal resources from neighbors,
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,9 +1,9 @@
 ---
-title: Mushroom Home Cultivation History
+title: Mushroom Home cuthill-mushroom-cultivation-history-19th-century
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "Letcher - Shroom: A Cultural History of the Magic Mushroom"
+  - "Letcher - Shroom: A shroom-cultural-history-hippie-revolution-and-counterculture of the Magic Mushroom"
 type: concept
 tags: [cultivation, history, mushroom-cultivation]
 ---
@@ -12,7 +12,7 @@ tags: [cultivation, history, mushroom-cultivation]
 
 The development of reliable methods for cultivating [magic mushrooms at home was
 one of the key factors in their global dissemination. From the first laboratory successes of [Roger Heim to the revolutionary techniques of [Terence McKenna and the notorious
-[Psilocybe Fanaticus, the history of mushroom cultivation is a story of ingenuity,
+[[pf-tek-psilocybe-fanaticus-cultivation-method]], the history of [[accessible-mushroom-cultivation-for-disabilities]] is a story of ingenuity,
 illicit entrepreneurship, and the democratisation of psychedelic access. Under American
 [prohibition, growing magic mushrooms became celebrated as an illicit
 folk art, "like the secret stills supplying moonshine in the days of prohibition."
@@ -20,7 +20,7 @@ folk art, "like the secret stills supplying moonshine in the days of prohibition
 ## Early Cultivation: Roger Heim and Albert Hofmann
 
 [Roger Heim, Professor of Mycology at the Musee National d'Histoire Naturelle in Paris, was
-the first person ever to culture [hallucinogenic mushrooms in the laboratory. He
+the first person ever to culture [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] in the laboratory. He
 accompanied [Gordon Wasson to Mexico in 1956 to classify and describe the species
 used in Mazatec ceremonies. Attempts by his own laboratory and by American pharmaceutical companies (Merck;
 Smith, Kline and French) to isolate the active ingredients had failed, prompting him to approach
@@ -32,7 +32,7 @@ isolation of [[psilocybin-isolation-and-early-scientific-research]] in 1958.
 
 The breakthrough in home cultivation came from [Terence McKenna (1946-2000) and his brother
 Dennis. In the early 1970s, Terence was travelling in the Colombian Amazon when he learned of a local
-hallucinogenic mushroom, [Psilocybe cubensis, and collected spore prints. The species
+hallucinogenic mushroom, [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]], and collected spore prints. The species
 grew abundantly on cow dung in the tropical lowlands, making it far easier to cultivate than the Mexican
 highland species that had previously dominated scientific attention.
 

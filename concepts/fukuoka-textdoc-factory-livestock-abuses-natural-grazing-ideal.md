@@ -1,5 +1,5 @@
 ---
-title: Factory Livestock Farming Abuses and the Case for Natural Grazing
+title: fukuoka-factory-livestock-critique-natural-grazing-philosophy Farming Abuses and the Case for fukuoka-natural-grazing-ideal
 created: 2026-04-28
 tags:
   - fukuoka
@@ -36,7 +36,7 @@ There appear to be no problems with this method. In addition to being efficient,
 
 Beset by wildly fluctuating prices, the livestock farmer becomes totally caught up with concerns over his margins and profits. The apparent efficiency masks a deeper inefficiency. The factory system requires massive inputs of energy in the form of processed feed, climate control, waste management, and transportation.
 
-When these hidden costs are accounted for, the true energy efficiency of factory livestock farming is far lower than that of natural grazing, where the animals harvest their own feed and convert solar energy directly into food.
+When these hidden costs are accounted for, the true [[fukuoka-textdoc-energy-efficiency-agricultural-labor]] of factory livestock farming is far lower than that of natural grazing, where the animals harvest their own feed and convert solar energy directly into food.
 
 ## Beef Is No Longer Beef
 
@@ -58,7 +58,7 @@ The connection between the farmer, the land, and the animals has been severed en
 
 ## Natural Grazing as the True Ideal
 
-Under the precepts of natural farming, livestock farming takes the form of open grazing. Cattle, pigs, and chickens fattened while free to roam at will on the open land under the sun's rays are a precious, irreplaceable source of food for man.
+Under the precepts of [[comparison-natural-farming-vs-permaculture]], livestock farming takes the form of open grazing. Cattle, pigs, and chickens fattened while free to roam at will on the open land under the sun's rays are a precious, irreplaceable source of food for man.
 
 The problem lies elsewhere, in the prejudiced view that sees natural farming as inefficient. Is grazing, which allows one person to raise hundreds of head without doing anything, really inefficient? Is it not, rather, the most efficient form of production there is?
 
@@ -102,7 +102,7 @@ Breeding programs are usually opposed to nature and often result in animals that
 
 ## Connection to Broader Natural Farming Philosophy
 
-The factory livestock critique extends Fukuoka's broader argument against scientific agriculture. Just as chemical farming destroys soil vitality by replacing natural processes with human interventions, factory livestock farming replaces the natural relationship between animals and their environment with artificial confinement and synthetic feed.
+The factory livestock critique extends Fukuoka's broader argument against [[fukuoka-critique-scientific-agriculture-civilization]]. Just as [[knf-vs-chemical-farming-comparison]] destroys soil vitality by replacing natural processes with human interventions, factory livestock farming replaces the natural relationship between animals and their environment with artificial confinement and synthetic feed.
 
 The result is a product that is quantitatively abundant but qualitatively degraded, economically efficient only when measured in narrow terms that exclude ecological and health costs.
 
@@ -115,3 +115,5 @@ The same pattern appears throughout modern agriculture: human intervention creat
 - [[fukuoka-textdoc-natural-livestock-unconditional-truth]]
 - [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
 - [[fukuoka-textdoc-nature-of-food]]
+
+- [[fukuoka-factory-livestock-critique-natural-grazing-philosophy]]

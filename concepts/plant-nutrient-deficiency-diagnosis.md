@@ -1,5 +1,5 @@
 ---
-title: Plant Nutrient Deficiency Symptoms and Diagnosis
+title: Plant cannabis-grow-nutrient-deficiency-problem-solving Symptoms and Diagnosis
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Understanding nutrient deficiency symptoms is essential for the organic gardener. Plants exhibit visible signs when essential nutrients are lacking. However, symptoms can be confusing because multiple deficiencies may look similar, and environmental stresses can mimic deficiency signs. The principles of nutrient mobility and Von Liebig's Law of the Minimum are key to accurate diagnosis.
+Understanding nutrient deficiency symptoms is essential for the organic gardener. Plants exhibit visible signs when essential nutrients are lacking. However, symptoms can be confusing because multiple deficiencies may look similar, and environmental stresses can mimic deficiency signs. The principles of [[cervantes-nutrient-mobility-deficiency-diagnosis]] and Von Liebig's Law of the Minimum are key to accurate diagnosis.
 
 ## Principles of Diagnosis
 
@@ -112,4 +112,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

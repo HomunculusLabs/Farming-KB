@@ -1,5 +1,5 @@
 ---
-title: Dionysian Cults
+title: mckenna-dionysian-cults-and-suppression-of-ecstasy
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -21,7 +21,7 @@ The Dionysian Mysteries were secret religious practices in ancient Greece center
 
 ## The Eleusinian Connection
 
-The Eleusinian Mysteries, the most famous of all Greek mystery cults, may have incorporated psychoactive substances. The kykeon (a barley drink consumed during initiation) has been proposed as a possible carrier for ergot alkaloids — specifically, the term "elektron" (amber) used in descriptions has been linked to the amber-colored ergot sclerotium. This remains speculative but is supported by the consistent reports of profound mystical experiences among initiates.
+The [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]], the most famous of all Greek mystery cults, may have incorporated psychoactive substances. The kykeon (a barley drink consumed during initiation) has been proposed as a possible carrier for ergot alkaloids — specifically, the term "elektron" (amber) used in descriptions has been linked to the amber-colored ergot sclerotium. This remains speculative but is supported by the consistent reports of profound [[psilocybin-mystical-experiences-personality-change]] among initiates.
 
 ## Historical Impact
 
@@ -38,7 +38,7 @@ The Anthesteria was the most important Dionysiac festival of the Athenian calend
 
 The second day, Choes, involved the carrying of "vine-clusters" between temples, while the third day, Chutroi, takes its name from a Semitic word for "mushroom." The Anthesteria itself may derive from a Sumerian phrase meaning "raising of the penis," reflecting the dual sense of male organ and phallic mushroom in the cult. The festival included a ritual marriage between Dionysus and the wife of the archon (chief magistrate), described as involving solemnization and consummation, and one day was marked as "blood-stained" (miara). The cultic cry of the Bacchantes was "eleleu, eleleu."
 
-Many Dionysiac festivals took place in winter when vine culture offered no agricultural rationale for celebration, suggesting that the intoxicants involved went well beyond wine. Allegro proposes that dried and powdered Amanita muscaria was used to lace drinks during these rites.
+Many Dionysiac festivals took place in winter when vine culture offered no agricultural rationale for celebration, suggesting that the intoxicants involved went well beyond wine. Allegro proposes that dried and powdered [[allegro-amanita-muscaria-properties-and-pharmacology]] was used to lace drinks during these rites.
 
 ## Dionysus and the Mushroom Hypothesis
 
@@ -54,14 +54,14 @@ Friedrich Nietzsche's "The Birth of Tragedy" (1872) framed Western culture as a 
 
 ## Dionysus and the Underworld
 
-Dionysus was one of the few Greek deities who could travel freely between the upper world and the underworld. His descent into the underworld to rescue his mother Semele -- and his own death and resurrection -- parallel the [[amanita-in-ancient-religion]] found across Mediterranean and Near Eastern cultures, where the phallus consistently symbolized fertility, divine power, and the life-force -- qualities that align closely with the mushroom's own symbolism as a generator of divine experience.
+Dionysus was one of the few Greek deities who could travel freely between the upper world and the underworld. His descent into the underworld to rescue his mother Semele -- and his own [[allegro-death-and-resurrection-in-the-mushroom-cult]] -- parallel the organized religion found across Mediterranean and Near Eastern cultures, where the phallus consistently symbolized fertility, divine power, and the life-force -- qualities that align closely with the mushroom's own symbolism as a generator of divine experience.
 
 ## The Dionysian Mysteries and Personal Transformation
 
-Unlike the state cults of Olympus, which focused on maintaining cosmic and social order through prescribed ritual, the Dionysian mysteries offered participants a direct experience of the divine that dissolved ordinary categories of self and other. Initiates underwent what the Greeks called aporrheta — unspeakable experiences that could not be communicated to the uninitiated. This emphasis on direct, personal religious experience over mediated, institutional worship represents one of the most distinctive features of Dionysian practice and prefigures many later developments in Western spirituality, from Gnosticism to Protestant mysticism.
+Unlike the state cults of Olympus, which focused on maintaining cosmic and social order through prescribed ritual, the Dionysian mysteries offered participants a direct experience of the divine that dissolved ordinary categories of self and other. Initiates underwent what the Greeks called aporrheta — unspeakable experiences that could not be communicated to the uninitiated. This emphasis on direct, personal religious experience over mediated, institutional worship represents one of the most [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] of Dionysian practice and prefigures many later developments in Western spirituality, from Gnosticism to Protestant mysticism.
 
 The transformative aspect of Dionysian initiation involved a symbolic death and rebirth. Initiates were sometimes called mystai ("those who close their eyes") and later epoptai ("those who have seen"). This progression from blindness to vision parallels the mushroom experience described in [[history-psychedelics-ancient]]
-- [[amanita-in-ancient-religion]]
+- organized religion
 - [[amanita-muscaria-ethnobotany]]
 - [[sacred-mushroom-hypothesis]]
 - [[allegro-death-and-resurrection-in-the-mushroom-cult]]
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -44,7 +44,7 @@ beta-carbolines and tryptamines.
 
 ## Psychotria viridis: Chacruna
 
-*Psychotria viridis* (Chacruna) is a bush of great cultural significance
+*Psychotria viridis* (Chacruna) is a bush of great [[ethnomycology-cultural-significance-sacred-fungi]]
 as a DMT-providing ingredient of the hallucinogen Ayahuasca, which holds a
 central place in the shamanic tradition of the Amazon. Fresh or dried
 leaves of Chacruna are mixed with the bark or husk of *Banisteriopsis
@@ -66,9 +66,9 @@ leaves of Chacruna is what makes oral ayahuasca possible. Without the
 MAOI action of the vine, DMT would be broken down before reaching the
 bloodstream and would produce no psychoactive effects when taken orally.
 
-The psychoactive principles of the complete ayahuasca preparation are
+The psychoactive principles of the complete [[harner-amazonian-ayahuasca-preparation-methods]] are
 thus beta-carbolines (from *Banisteriopsis*) and tryptamines (from
-*Psychotria* or *Diplopterys*). *Tetrapteris methystica*, another
+*Psychotria* or *Diplopterys*). *[[entheogen-tetrapteris-methystica-alternative-caapi]]*, another
 Malpighiaceous vine used as an ayahuasca substitute by the Maku Indians
 of the Rio Tikie, likely contains the same or similar beta-carboline
 alkaloids.
@@ -86,14 +86,14 @@ the anthropologist Reichel-Dolmatoff.
 It is not always the shaman or medicine man who administers these sacred
 plants. The general population, usually the adult male portion, often
 shares in the use of hallucinogens. This communal aspect distinguishes
-ayahuasca ceremonies from the more private, individualized use of plants
+[[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] from the more private, individualized use of plants
 like ololiuqui.
 
 ## Ceremonial Use and Purpose
 
 Ayahuasca is usually drunk in religious ceremonies. In the famous
 Tukanoan Yurupari ceremony in Colombia, it serves as an adolescent
-initiation ritual for boys. The Jivaro believe that ayahuasca makes
+[[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]] for boys. The Jivaro believe that ayahuasca makes
 possible communication with ancestors and that, under its influence, a
 man's soul may leave the body and wander free. The drink is employed for
 divination, diagnosis of disease, and as a potent medicine greatly feared
@@ -134,6 +134,6 @@ specific.
 - [[schultes-san-pedro-four-winds]] for the Andean cactus with related
   shamanic flight experiences in South American ceremonies
 - [[schultes-psilocybe-little-flowers-gods]] for the sacred mushrooms
-  whose tryptamine chemistry connects them to the Chacruna additive
+  whose [[psilocybin-tryptamine-chemistry-fungi]] connects them to the Chacruna additive
 - [[schultes-peyote-tracks-little-deer]] for another New World visionary
   plant with deep indigenous ceremonial significance

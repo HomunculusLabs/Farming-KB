@@ -8,21 +8,21 @@ sources: []
 ---
 # Multi-Purpose Trees for Permaculture
 
-In permaculture, every element should serve multiple functions. Multi-purpose trees exemplify this principle -- providing timber, fodder, nitrogen fixation, bee forage, erosion control, fire protection, and sometimes food, all from a single planting. This guide covers key multi-purpose species from "Permaculture Plants: A Selection" organised by their primary functions. Multi-purpose trees can also be integrated into broader [[tagasaste]] (Chamaecytisus palmensis)
-One of the most versatile trees in permaculture. Fast-growing pioneer and nurse tree providing:
+In permaculture, every element should serve multiple functions. Multi-purpose trees exemplify this principle -- providing timber, fodder, [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], bee forage, [[permplant-willows-salix-erosion-control-fodder]], fire protection, and sometimes food, all from a single planting. This guide covers key multi-purpose species from "Permaculture Plants: A Selection" organised by their primary functions. Multi-purpose trees can also be integrated into broader tagasaste (Chamaecytisus palmensis)
+One of the most versatile [[multipurpose-trees-in-permaculture-design]]. Fast-growing pioneer and nurse tree providing:
 |- **Fodder**: Abundant leafy growth, palatable to livestock
-|- **Nitrogen fixation**: Adds fertility to the system -- complementary to [[carob]] (Ceratonia siliqua)
+|- **Nitrogen fixation**: Adds fertility to the system -- complementary to carob (Ceratonia siliqua)
 - **Food**: Pods (40-50% sugar) eaten fresh, ground into flour, or used as chocolate substitute
 - **Fodder**: Pods are excellent stock feed
 - **Bee forage**: Produces both nectar and pollen; pods fed to bees for winter survival
 - **Timber**: Heartwood hard and durable
 - **Fire retardant**: Low flammability
-- **Drought tolerance**: Thrives in Mediterranean climates with 250-500 mm rainfall
+- **[[dighton-fungal-drought-tolerance-plant-water-relations]]**: Thrives in Mediterranean climates with 250-500 mm rainfall
 
 ### Casuarina spp (Sheoaks)
 - **Timber**: Hard, dense wood suited to fine crafts and cabinet making
 - **Erosion control**: Extensive root systems stabilise soil
-- **Salt tolerance**: Many species thrive in saline conditions
+- **[[fungal-salt-tolerance-and-ion-homeostasis]]**: Many species thrive in saline conditions
 - **Nitrogen fixation**: Through Frankia spp (actinorhizal)
 - **Firewood**: Dense wood, hot burning
 - **Bee forage**: Produces nectar and pollen
@@ -81,7 +81,7 @@ Key species: Q. robur (English oak), Q. suber (cork oak), Q. alba (white oak), Q
 ### Eucalyptus spp
 - **Timber**: Many species produce hard, durable timber for construction, furniture, and craft
 - **Bee forage**: Major source of nectar and pollen across multiple seasons
-- **Essential oils**: Many species yield commercial essential oils
+- **[[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]**: Many species yield commercial essential oils
 - **Firewood**: Dense, hot-burning wood
 - **Fodder**: Leaves browsed by koalas and some livestock species
 - **Erosion control**: Deep root systems stabilise soil
@@ -116,3 +116,7 @@ Many of the species listed above also have low fire potential. A comprehensive l
 - **Prunus spp**: Food + bee forage + fire retardant (most recover)
 - **Quercus spp**: Timber + food + fire retardant
 - **Schinus molle** (peppercorn tree): Shade + bee forage + fire retardant
+## See Also
+- [[ceratonia-siliqua]]
+- [[chamaecytisus-palmensis]]
+- [[permaculture-multi-purpose-plants]]

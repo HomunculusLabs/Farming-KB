@@ -4,7 +4,7 @@ created: 2026-04-28
 updated: 2026-05-06
 aliases: [Navier Stokes, fluid dynamics equations, NS equations]
 tags: [physics, fluid-dynamics, engineering, partial-differential-equations]
-related: [reynolds-number-and-flow-regimes, heat-transfer-mechanisms, laws-of-thermodynamics]
+related: [reynolds-number-and-flow-regimes, [[heat-transfer-mechanisms]], [[laws-of-thermodynamics]]
 type: concept
 sources: []
 ---
@@ -68,7 +68,7 @@ Knudsen number (mean free path / characteristic length) is below ~0.01; it fails
 zero tangential stress, used for symmetry planes. Periodic boundaries are standard in DNS/LES of homogeneous turbulence. Inlet conditions prescribe
 velocity profiles or mass flow rates; outlet conditions include zero-gradient (Neumann), convective, pressure-specified, and non-reflecting
 characteristic formulations. Free surfaces require kinematic conditions (surface particles remain on interface) and dynamic stress balance including
-surface tension via the Young-Laplace equation Δp = σκ.
+[[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] via the Young-Laplace equation Δp = σκ.
 
 ## Dimensionless Numbers and Flow Similarity
 

@@ -36,7 +36,7 @@ sources:
 
 ### Structure and Classification
 
-LSD belongs to the **lysergamide** family, which are amide derivatives of lysergic acid. Lysergic acid is an ergoline alkaloid found naturally in the **ergot fungus** (*Claviceps purpurea*), a parasitic fungus of cereal grasses.
+LSD belongs to the **lysergamide** family, which are amide derivatives of lysergic acid. Lysergic acid is an ergoline alkaloid found naturally in the **ergot fungus** (*[[bloomfield-ergot-claviceps-purpurea-ergotism]]*), a parasitic fungus of cereal grasses.
 The core pharmacophore consists of:
 - **Tetracyclic ergoline ring system** (indole + two additional rings)
 - **Diethylamide substituent** at position C-8 (critical for psychoactivity)
@@ -69,13 +69,13 @@ The core pharmacophore consists of:
 - LSD became central to the 1960s counterculture movement, championed by figures like Timothy Leary, Ken Kesey (Merry Pranksters), and Aldous Huxley.
 - Leary founded the International Federation for Internal Freedom (IFIF) and popularized the slogan "Turn on, tune in, drop out."
 - The widespread recreational use of LSD — and growing public concern — led to its criminalization.
-- **1966:** California banned LSD. **1968:** The U.S. federal government classified LSD as a Schedule I controlled substance under the Controlled Substances Act.
+- **1966:** California banned LSD. **1968:** The U.S. federal government classified LSD as a Schedule I controlled substance under the Controlled [[controlled-substances-act-and-psychedelic-research]].
 
 ### Research Revival (2000s–Present)
 
-- Regulatory barriers began easing in the 2000s, leading to a resurgence of clinical research.
+- Regulatory barriers began easing in the 2000s, leading to a resurgence of [[hofmann-lsd-clinical-research-early-studies]].
 - Modern studies focus on LSD-assisted psychotherapy for anxiety, depression, cluster headaches, and end-of-life distress.
-- As of 2026, several organizations (MAPS, MIND Foundation, University Hospital Basel) are conducting clinical trials.
+- As of 2026, several organizations (MAPS, MIND Foundation, University Hospital Basel) are conducting [[mushroom-cancer-clinical-trials-overview]].
 
 ## Pharmacology
 
@@ -109,8 +109,8 @@ LSD is absorbed rapidly and reaches peak plasma concentrations within 1.5–3 ho
 | **Threshold** | 10–25 | Subtle mood lift, mild sensory enhancement |
 | **Light** | 25–75 | Noticeable perceptual shifts, enhanced colors, mood elevation |
 | **Common** | 75–150 | Strong visual hallucinations, altered thought patterns, synesthesia |
-| **Strong** | 150–300 | Intense hallucinations, ego dissolution, mystical experiences |
-| **Heavy** | 300–500+ | Complete ego dissolution, extreme altered states; high risk of psychological distress |
+| **Strong** | 150–300 | Intense hallucinations, ego dissolution, [[psilocybin-mystical-experiences-personality-change]] |
+| **Heavy** | 300–500+ | Complete ego dissolution, extreme [[weil-the-natural-mind-altered-states-normalcy]]; high risk of psychological distress |
 
 ### Subjective Effects
 
@@ -135,7 +135,6 @@ LSD is absorbed rapidly and reaches peak plasma concentrations within 1.5–3 ho
 **Physical:**
 - Pupil dilation (mydriasis)
 - Increased heart rate and blood pressure
-- Elevated body temperature
 ## See Also
 
 - [[microdosing-guide]]

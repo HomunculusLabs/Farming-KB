@@ -1,5 +1,5 @@
 ---
-title: "Food as a Strategic Weapon — Fukuoka's Critique"
+title: "Food as a fukuoka-food-strategic-weapon-critique — Fukuoka's Critique"
 type: concept
 tags:
   - natural-farming
@@ -22,7 +22,7 @@ surplus was less a sign of abundance than evidence of systemic dysfunction.
 
 ## The Petroleum-Food Nexus
 
-Fukuoka argued that American agriculture was fundamentally dependent on oil.
+Fukuoka argued that [[fukuoka-american-agriculture-fields-of-death]] was fundamentally dependent on oil.
 The entire system of large-scale monoculture, synthetic fertilizers, chemical
 pesticides, and long-distance transport required enormous fossil fuel inputs.
 
@@ -33,7 +33,7 @@ field.
 When food is produced with oil, it ceases to be food in the traditional sense
 and becomes a commodity shaped by political and economic strategy.
 
-The cost of this production method is hidden. It appears in degraded soils,
+The cost of this [[clay-seed-pellet-production-method-concrete-mixer]] is hidden. It appears in degraded soils,
 polluted waterways, and impoverished rural communities rather than in the price
 tag at the point of sale.
 
@@ -44,12 +44,12 @@ strategic weapon to influence other nations. The Carter administration pressured
 Japan to buy American oranges and wheat, creating dependency.
 
 When Japan proposed shipping its surplus rice to Vietnam, the U.S. State
-Department protested vigorously. American grain sales to Southeast Asia would
+Department protested vigorously. American grain sales to [[psilocybe-southeast-asia-pacific]] would
 be threatened by Japanese competition.
 
 This revealed that food aid and trade were not driven by generosity or free
 market principles but by strategic calculation. Nations that could feed
-themselves were seen as threats to American agricultural export power.
+themselves were seen as threats to [[fukuoka-american-agricultural-decline]] export power.
 
 Fukuoka found this use of food morally repugnant. Food should nourish people,
 not serve as an instrument of coercion between governments.
@@ -75,7 +75,7 @@ communities at fair prices.
 
 ## Natural Farming as an Alternative
 
-If American farmers adopted natural farming methods, Fukuoka believed they
+If American farmers adopted natural [[natural-farming-methods-comparison]], Fukuoka believed they
 could produce abundant food on small acreages and live rich, meaningful lives.
 There would be no need to export food to other countries.
 
@@ -120,6 +120,8 @@ shift in how people understood their relationship to the land and to each
 other.
 
 ## See Also
+
+- [[fukuoka-food-strategic-weapon-critique]]
 
 - [[fukuoka-disappearance-natural-diet]]
 - [[fukuoka-natural-diet-philosophy]]

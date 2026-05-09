@@ -1,11 +1,11 @@
 ---
-title: "How do I save water in a vegetable garden?"
+title: "How do I save water in a fukuoka-dutch-priest-vegetable-garden-spiritual-renewal?"
 created: 2026-04-28
 tags: [query, water, irrigation, vegetables]
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  sources: []
 type: query
 ---
 
@@ -14,7 +14,7 @@ type: query
 ## Short Answer
 Saving water in a vegetable garden is mostly about keeping rainfall and irrigation in the root zone for longer.
 The most reliable combination is healthy soil, mulch, low-flow irrigation, crop timing, and plant spacing that shades the soil.
-Use [[drip-irrigation-guide]] for delivery methods, then add [[humus-formation-and-soil-organic-matter]] explains why organic matter improves aggregation, infiltration, and plant-available water storage.
+Use [[drip-irrigation-guide]] for [[cannabis-delivery-methods-comparison]], then add [[humus-formation-and-soil-organic-matter]] explains why [[hamilton-composting-and-organic-matter-management]] improves aggregation, infiltration, and plant-available water storage.
 [[mulching-in-natural-farming]] treats mulch as a central water and fertility tool rather than decoration.
 [[drip-irrigation-guide]] covers line layout, emitter spacing, filters, pressure, and zones.
 [[watering-irrigation-solomon]] emphasizes matching irrigation to soil, climate, and crop stage rather than following a fixed schedule.
@@ -26,7 +26,7 @@ Frequent shallow sprinkling creates shallow roots, wetter leaves, and higher eva
 Water harvesting can be as simple as shaping beds so rain infiltrates rather than racing down paths.
 [[solomon-rainwater-harvesting-for-gardens]] connects stored water with practical garden irrigation planning.
 [[fukuoka-natural-vegetable-growing]] offers a low-disturbance perspective on vegetable timing, cover, and resilience.
-[[cover-cropping-guide]] helps manage living roots between crops, but cover crops must be terminated or mowed when water is scarce.
+[[cover-cropping-guide]] helps manage living roots between crops, but [[gaias-garden-cover-crops-soil-building]] must be terminated or mowed when water is scarce.
 [[humus-formation-and-soil-organic-matter]] because stored water is better than repeatedly replacing lost water.
 - Maintain annual bed fertility with [[mulching-in-natural-farming]] and choose materials using [[drip-irrigation-guide]] methods over overhead sprinkling when evaporation or leaf disease is high.
 - Use [[contour-swale-irrigation-design]] when runoff is a major loss pathway.
@@ -110,3 +110,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[query-how-do-i-save-seeds-from-biennial-vegetables]]

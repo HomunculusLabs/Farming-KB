@@ -1,5 +1,5 @@
 ---
-title: "Agricultural Land Law as Obstruction to Return Farming"
+title: "[[fukuoka-textdoc-absence-no-fertilizer-tests]] agricultural land law obstruction return farming Law as Obstruction to Return Farming"
 created: 2026-04-28
 tags: [fukuoka, natural-farming, land-policy, agricultural-law, farming-for-all, quarter-acre-farming]
 date: 2026-04-28
@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-Masanobu Fukuoka identifies the legal framework surrounding
+[[masanobu-fukuoka]] identifies the legal framework surrounding
 land ownership and use as the primary structural obstacle
 preventing people from returning to farming. Japan's
 Agricultural Land Law, originally enacted to protect tenant
@@ -136,8 +136,10 @@ needed to create a world that can get along without laws.
 
 ## See Also
 
+- [[fukuoka-textdoc-farming-all-land-law-obstacles]]
+
 - [[fukuoka-textdoc-farming-for-all-vision]] for the
   broader vision of quarter-acre farming
 - [[fukuoka-textdoc-farmland-law-obstruction-return-farming]]
   for related legal analysis
-- [[fukuoka-textdoc-mu-economics-natural-farming-beyond-money]]
+- fukuoka-textdoc-mu-economics-natural-farming-beyond-money

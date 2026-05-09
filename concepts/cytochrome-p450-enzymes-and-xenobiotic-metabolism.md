@@ -1,5 +1,5 @@
 ---
-title: "Cytochrome P450 Enzymes and Xenobiotic Metabolism"
+title: "Cytochrome P450 cytochrome p450 enzymes and xenobiotic metabolism Metabolism"
 created: 2026-04-28
 updated: 2026-05-06
 aliases:
@@ -38,7 +38,7 @@ The defining structural motif is a protoporphyrin IX heme group coordinated axia
 
 ## Nomenclature
 
-The standard system (Nebert et al., 1987) follows the format CYP[family][subfamily][gene]: the first numeral denotes the family (enzymes sharing >=40% amino acid identity), the letter denotes the subfamily (>=55% identity), and the second numeral identifies the individual gene. For example, CYP2D6 is family 2, subfamily D, gene 6. The root "CYP" (all caps) denotes the human gene; "Cyp" denotes mouse/rat genes. Families CYP1-3 primarily handle drugs and xenobiotics; CYP4, 5, 7, 8, 11, 17, 19, 21, 24, 27, 39, 46, 51 handle endogenous compounds.
+The standard system (Nebert et al., 1987) follows the format CYP[family][subfamily][gene]: the first numeral denotes the family (enzymes sharing >=40% [[cho-fish-amino-acid-preparation]] identity), the letter denotes the subfamily (>=55% identity), and the second numeral identifies the individual gene. For example, CYP2D6 is family 2, subfamily D, gene 6. The root "CYP" (all caps) denotes the human gene; "Cyp" denotes mouse/rat genes. Families CYP1-3 primarily handle drugs and xenobiotics; CYP4, 5, 7, 8, 11, 17, 19, 21, 24, 27, 39, 46, 51 handle endogenous compounds.
 
 ## Historical Discovery
 
@@ -58,7 +58,7 @@ Phase I reactions introduce or expose a functional group (-OH, -COOH, -NH2, -SH)
 
 ## Phase II Conjugation Reactions
 
-Phase II reactions conjugate hydrophilic moieties onto Phase I products, dramatically increasing water solubility for excretion. **Glucuronidation** (UGTs, 22 functional human enzymes) transfers glucuronic acid from UDPGA to -OH, -COOH, -NH2, or -SH groups. UGT1A1 handles bilirubin and irinotecan; UGT2B7 handles morphine. **Sulfation** (SULTs, 13 human enzymes) transfers sulfate from PAPS; SULT1A1 handles phenols and acetaminophen. Sulfation has high affinity but low capacity. **Glutathione conjugation** (GSTs) attaches GSH to electrophilic centers of epoxides and halogenated compounds; GSTM1 null genotype (~50% of Caucasians) is a risk factor for lung cancer. **Acetylation** (NAT1, NAT2) transfers acetyl from acetyl-CoA to aromatic amines. **Methylation** (COMT, TPMT, HNMT, INMT) transfers methyl from S-adenosylmethionine to catecholamines, thiopurines, histamine, and tryptamines respectively.
+Phase II reactions conjugate hydrophilic moieties onto Phase I products, dramatically increasing water solubility for excretion. **Glucuronidation** (UGTs, 22 functional human enzymes) transfers glucuronic acid from UDPGA to -OH, -COOH, -NH2, or -SH groups. UGT1A1 handles bilirubin and irinotecan; UGT2B7 handles morphine. **Sulfation** (SULTs, 13 human enzymes) transfers sulfate from PAPS; SULT1A1 handles phenols and acetaminophen. Sulfation has high affinity but low capacity. **Glutathione conjugation** (GSTs) attaches GSH to electrophilic centers of epoxides and halogenated compounds; GSTM1 null genotype (~50% of Caucasians) is a risk factor for [[psk-breast-lung-cancer-clinical-trials]]. **Acetylation** (NAT1, NAT2) transfers acetyl from acetyl-CoA to aromatic amines. **Methylation** (COMT, TPMT, HNMT, INMT) transfers methyl from S-adenosylmethionine to catecholamines, thiopurines, histamine, and tryptamines respectively.
 
 ## Phase III Transport (Efflux)
 
@@ -84,7 +84,7 @@ Extrahepatic CYPs serve important physiological and toxicological roles. The sma
 
 ## Clinically Significant Drug-Drug Interactions
 
-CYP-mediated drug interactions are among the most common and clinically important. **CYP3A4 interactions** are most frequent: ritonavir + simvastatin (AUC increase ~30x, contraindicated due to rhabdomyolysis risk); ketoconazole + midazolam (AUC increase ~15x); rifampin + oral contraceptives (contraceptive failure from CYP3A4/P-gp induction); erythromycin + terfenadine (QT prolongation and torsades de pointes, leading to terfenadine withdrawal). **CYP2D6 interactions**: paroxetine + tamoxifen (reduced endoxifen formation, compromised breast cancer therapy); quinidine + codeine (no morphine formation, no analgesia). **CYP1A2 interactions**: fluvoxamine + theophylline (theophylline toxicity from narrow therapeutic index); smoking cessation in clozapine patients causes clozapine toxicity as CYP1A2 induction reverses. **CYP2C9 interactions**: amiodarone + warfarin (increased INR and bleeding); fluconazole + phenytoin (phenytoin toxicity). These interactions underscore the need for systematic CYP assessment in drug development, codified in FDA and EMA regulatory guidance.
+CYP-mediated drug interactions are among the most common and clinically important. **CYP3A4 interactions** are most frequent: ritonavir + simvastatin (AUC increase ~30x, contraindicated due to rhabdomyolysis risk); ketoconazole + midazolam (AUC increase ~15x); rifampin + oral contraceptives (contraceptive failure from CYP3A4/P-gp induction); erythromycin + terfenadine (QT prolongation and torsades de pointes, leading to terfenadine withdrawal). **CYP2D6 interactions**: paroxetine + tamoxifen (reduced endoxifen formation, compromised breast cancer therapy); quinidine + codeine (no morphine formation, no analgesia). **CYP1A2 interactions**: fluvoxamine + theophylline (theophylline toxicity from narrow [[cannabis-therapeutic-index-overview]]); smoking cessation in clozapine patients causes clozapine toxicity as CYP1A2 induction reverses. **CYP2C9 interactions**: amiodarone + warfarin (increased INR and bleeding); fluconazole + phenytoin (phenytoin toxicity). These interactions underscore the need for systematic CYP assessment in drug development, codified in FDA and EMA regulatory guidance.
 
 ## Acetaminophen Toxicity as a Paradigm
 
@@ -107,5 +107,5 @@ Mechanism-based inactivation (MBI), also called suicide inactivation, occurs whe
 
 ## CYP Evolution and Diversity
 
-The CYP superfamily is ancient, with members found in all domains of life. Bacteria typically have 1-20 CYP genes, while plants have enormous CYP repertoires (*Arabidopsis thaliana* has >240 CYP genes involved in secondary metabolite biosynthesis, including the CYP71, CYP73, CYP75, CYP81, and CYP89 families for phenylpropanoid, flavonoid, alkaloid, and terpenoid pathways). Fungal CYPs are involved in secondary metabolite biosynthesis (including mycotoxins like aflatoxin) and xenobiotic degradation. The expansion of CYP families in mammals correlates with increased dietary complexity and exposure to [[cytochrome-p450-enzymes-drug-metabolism]]
+The CYP superfamily is ancient, with members found in all domains of life. Bacteria typically have 1-20 CYP genes, while plants have enormous CYP repertoires (*Arabidopsis thaliana* has >240 CYP genes involved in [[fungal-elicitors-enhanced-secondary-metabolite-production]] biosynthesis, including the CYP71, CYP73, CYP75, CYP81, and CYP89 families for phenylpropanoid, flavonoid, alkaloid, and terpenoid pathways). Fungal CYPs are involved in secondary metabolite biosynthesis (including mycotoxins like aflatoxin) and xenobiotic degradation. The expansion of CYP families in mammals correlates with increased dietary complexity and exposure to [[cytochrome-p450-enzymes-drug-metabolism]]
 - [[staycare-cytochrome-p450-in-fungal-biodegradation]]

@@ -1,5 +1,5 @@
 ---
-title: "Food Forest vs Backyard Orchard"
+title: "Food comparison food forest vs backyard orchard Orchard"
 created: 2026-04-28
 tags: [comparison, food-production, permaculture, fruit-trees]
 date: 2026-04-25
@@ -33,9 +33,9 @@ A food forest replicates the structure of a natural woodland with seven distinct
 3. Shrub layer including currants, gooseberries, elderberry
 4. Herbaceous layer with comfrey, sorrel, and herbs
 5. Ground cover including strawberry and clover
-6. Root layer with Jerusalem artichoke and yams
+6. Root layer with [[comparison-jerusalem-artichoke-vs-potato]] and yams
 7. Vine layer with grapes, kiwi, and passionfruit
-The design philosophy holds that diverse plant communities self-regulate. Pest pressure is reduced through predator habitat. Nutrient cycling happens through fungal networks and deep-rooted dynamic accumulators. Mulch is produced in place by the plants themselves.
+The design philosophy holds that diverse plant communities self-regulate. Pest pressure is reduced through predator habitat. [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] happens through fungal networks and deep-rooted [[comparison-dynamic-accumulators-vs-cover-crops]]. Mulch is produced in place by the plants themselves.
 The result is a food-producing ecosystem that requires decreasing human intervention over time. Establishment is the most demanding phase, requiring significant investment in the first three to five years.
 ## Food Forest Species Selection
 Selecting species adapted to your climate and soil is essential. A food forest in USDA Zone 5 will look very different from one in Zone 9. Prioritize native and naturalized species for resilience, then add adapted exotics for diversity.
@@ -92,9 +92,9 @@ Many successful systems evolve from orchard toward food forest. Start with backy
 This phased approach delivers fruit quickly from the orchard layer while gradually building ecosystem complexity below. Within 5 to 10 years, the system begins to function as a food forest with diversified production.
 ## Drawbacks and Limitations
 Food forest drawbacks include high initial design complexity, long establishment period, difficulty managing harvest across many species, potential shade competition between layers, and challenges accessing fruit in dense plantings.
-Backyard orchard drawbacks include ongoing maintenance that does not decrease, vulnerability to pest and disease pressure, soil fertility management needs, and limited production diversity.
+Backyard orchard drawbacks include ongoing maintenance that does not decrease, vulnerability to [[hamilton-pest-and-disease-control-organic]] pressure, soil fertility management needs, and limited production diversity.
 ## See Also
 - [[comparison-arbuscular-vs-ectomycorrhizal]]
 - [[food-forest-layers-and-species]] for plant selection guidance
-- guild design permaculture for companion planting in perennial systems
+- guild design permaculture for [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] in perennial systems
 - [[comparison-food-forest-vs-polyculture]]

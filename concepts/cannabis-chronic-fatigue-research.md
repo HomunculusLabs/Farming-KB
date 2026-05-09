@@ -1,5 +1,5 @@
 ---
-title: Cannabis and Chronic Fatigue Research
+title: Cannabis and cannabis chronic fatigue research Research
 created: 2026-04-18
 updated: 2026-04-19
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 # Cannabis and Chronic Fatigue Research
 
-**Source:** The Cannabis Health Index (Uwe Blesching, 2017)
+**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]] (Uwe Blesching, 2017)
 
 **Last Updated:** 2026-04-18
 
@@ -32,7 +32,7 @@ While specific CFS studies are limited in the CHI database, cannabis research on
 
 - Nabilone (synthetic cannabinoid) improved sleep in fibromyalgia patients
 - Dronabinol improved sleep quality in sleep apnea patients
-- Cannabis-based medicine (CBM) significantly improved sleep in chronic pain patients
+- Cannabis-based medicine (CBM) significantly improved sleep in [[cannabis-chronic-pain-management]] patients
 
 ### Immune System Modulation
 
@@ -61,7 +61,7 @@ CFS patients often take multiple supplements and medications, creating potential
 
 THC's sedative effects may compound the fatigue that is already the primary symptom of CFS, creating a paradox where the treatment worsens the condition. Patients should carefully distinguish between fatigue relief (feeling more rested) and sedation (feeling more tired), as these are different pharmacological effects.
 
-CBD is generally well-tolerated with a favorable safety profile, making it the preferred starting point for CFS patients. Common side effects include mild gastrointestinal symptoms and initial drowsiness that typically resolves with continued use. The immunomodulatory effects of CBD, while potentially beneficial, should be discussed with healthcare providers for patients with autoimmune components to their illness.
+CBD is generally well-tolerated with a favorable [[cannabis-safety-profile-and-overdose-risk]], making it the preferred starting point for CFS patients. Common side effects include mild gastrointestinal symptoms and initial drowsiness that typically resolves with continued use. The immunomodulatory effects of CBD, while potentially beneficial, should be discussed with healthcare providers for patients with autoimmune components to their illness.
 
 CFS patients are often sensitive to medications and supplements due to the condition's multisystem nature. Starting with very low doses and increasing slowly (much slower than typical titration schedules) is recommended. See [[cannabis-chronic-pain-management]]
 - [[cannabis-health-index]]
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

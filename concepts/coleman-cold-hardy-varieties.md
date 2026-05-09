@@ -1,8 +1,8 @@
 ---
-title: Cold-Hardy Vegetable Varieties for Winter Growing
+title: Cold-Hardy comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques for Winter Growing
 created: 2026-04-26
 tags: [cold-hardy-varieties, winter-vegetables, seed-varieties, eliot-coleman]
-sources: The Winter Harvest Handbook, Eliot Coleman (2009)
+sources: The coleman-claytonia-winter-harvest-cultivation Handbook, eliot-coleman (2009)
 type: concept
 updated: 2026-04-26
 ---
@@ -35,8 +35,8 @@ updated: 2026-04-26
 | Turnip | 'Hakurei' |
 | Watercress | (species standard) |
 
-### [[coleman-winter-greens]] — Detailed growing information for each green
-- [[coleman-planting-schedules]] — Sowing dates for each variety
+### coleman-winter-greens — Detailed growing information for each green
+- coleman-planting-schedules — Sowing dates for each variety
 ## Practical Applications
 
 Cold-Hardy Vegetable Varieties for Winter Growing has a range of practical applications that make it relevant to
@@ -114,4 +114,9 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[coleman-cold-hardy-winter-vegetables]]
+- [[coleman-rye-straw-mat-cold-frame-insulation]]
+- [[coleman-cold-greenhouse-double-layer-protection]]
+- [[coleman-cold-house-wind-protection-microclimate]]
+- [[coleman-cold-hardiness-testing-ratings]]

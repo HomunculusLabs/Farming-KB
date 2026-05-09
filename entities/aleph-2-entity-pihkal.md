@@ -1,5 +1,5 @@
 ---
-title: "ALEPH-2 (4-Ethylthio-2,5-dimethoxy-A) -- PIHKAL Entry #4"
+title: "ALEPH-2 (4-Ethylthio-2,5-dimethoxy-A) -- 2c-b-pihkal-entry-20 #4"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -91,7 +91,7 @@ ALEPH-3 was intended to be the methallylthio compound,
 (2,5-dimethoxyphenyl beta-methallyl sulfide) was easily made from
 2,5-dimethoxythiophenol (see 2C-T-2 for its preparation) with 3.4 g
 dissolved in a solution of 1.7 g KOH in 25 mL boiling EtOH, and 2.72 g
-methallyl chloride, heated 1 h on the steam bath, poured into 250 mL
+methallyl chloride, heated 1 h on the [[scythian-cannabis-steam-bath-ritual]], poured into 250 mL
 H2O, extracted with 3x100 mL CH2Cl2, and solvent removal yielding 4.4
 g of the sulfide as an amber oil. An effort to convert this to
 2,5-dimethoxy-4-(beta-methallylthio)benzaldehyde (7.2 g POCl3, 6.7 g
@@ -135,7 +135,7 @@ back to room temperature with stirring. There was added 1.4 mL H2O
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 ## See Also
 
 - [[al-entity-pihkal]]

@@ -1,5 +1,5 @@
 ---
-title: "Biochar Production Guide vs Biochar Soil Amendment"
+title: "comparison biochar production guide vs biochar soil amendment Guide vs Biochar Soil Amendment"
 created: 2026-04-28
 tags: [comparison, biochar, soil-amendment, carbon-sequestration, pyrolysis]
 date: 2026-04-25
@@ -31,11 +31,11 @@ fertile Amazonian dark earth created by indigenous peoples over centuries.
 These anthropogenic soils remain fertile thousands of years after their
 creation, demonstrating biochar's extraordinary stability and long-term soil
 benefits. Modern application draws on this legacy to improve contemporary
-agricultural soils through mechanisms including enhanced cation exchange
+agricultural soils through mechanisms including enhanced [[mollison-designers-tropical-soils-and-cation-exchange-management]]
 capacity, water retention three to five times biochar's weight, and provision
-of habitat for beneficial microorganisms including mycorrhizal fungi.
+of [[query-how-do-i-design-habitat-for-beneficial-insects]] microorganisms including mycorrhizal fungi.
 
-Application rates vary by soil condition and goals, ranging from 0.5 kilograms
+[[ingham-compost-tea-application-rates-and-timing]] vary by soil condition and goals, ranging from 0.5 kilograms
 per square meter for maintenance in already-healthy soils to 5 kilograms per
 square meter for remediation of degraded or sandy soils. The critical step
 that many newcomers miss is inoculation. Raw biochar straight from production
@@ -59,11 +59,11 @@ than competing with it.
 | Focus | Manufacturing carbon | Applying carbon to soil |
 | Core Process | Pyrolysis of biomass | Inoculation and field application |
 | Key Skill | Kiln operation, fire management | Soil assessment, composting |
-| Temperature Range | 350 to 700 C | Ambient soil temperatures |
+| [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] | 350 to 700 C | Ambient soil temperatures |
 | Time Investment | Hours per production batch | Weeks for proper charging |
 | Critical Risk | Overburning to ash | Applying uncharged biochar |
 | Feedstock Needed | Biomass for conversion | Compost, compost tea, nutrients |
-| Long-term Benefit | Stable carbon sequestration | Improved soil fertility and structure |
+| Long-term Benefit | Stable [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] | Improved soil fertility and structure |
 
 ## When to Choose Biochar Production Guide
 

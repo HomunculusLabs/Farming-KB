@@ -11,7 +11,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Yatskievych, G. (1999). "Osmundaceae." In: Flora of North America, Vol. 2. Oxford University Press.
+  - Yatskievych, G. (1999). "Osmundaceae." In: Flora of psilocybin-north-america-pacific-northwest, Vol. 2. Oxford University Press.
   - Page, C. N. (1997). "The Ferns of Britain and Ireland." Cambridge University Press.
   - Jermy, A. C. & Camus, J. (1991). "The taxonomy and biology of Osmunda regalis L." Fern Gazette, 14(3), 121–131.
   - Bhardwaja, T. N. & Bir, S. S. (1984). "Cytological studies in Osmundaceae." Caryologia, 37(3-4), 269–274.
@@ -22,13 +22,13 @@ sources:
 
 Osmunda regalis, commonly known as the royal fern, is a large, deciduous fern native to temperate and tropical regions worldwide. It is one of the most distinctive and visually striking ferns, with large, bipinnate fronds that can reach 2.5 meters in favorable conditions.
 
-The species has a long cultural history in Europe, where it was associated with royalty and considered a plant of protection. Its roots and fronds have been used in traditional medicine, fiber production, and horticulture for centuries, and it remains one of the most widely cultivated ornamental ferns.
+The species has a long [[shroom-cultural-history-hippie-revolution-and-counterculture]] in Europe, where it was associated with royalty and considered a plant of protection. Its roots and fronds have been used in traditional medicine, fiber production, and horticulture for centuries, and it remains one of the most widely cultivated ornamental ferns.
 
 ## Taxonomy and Morphology
 
 Osmunda regalis is the sole extant species in the genus Osmunda within the family Osmundaceae. It was described by Carl Linnaeus in 1753 and is the type species of both the genus and family.
 
-Several varieties are recognized, with Osmunda regalis var. regalis occurring in Europe and western Asia, var. spectabilis in eastern North America, and var. brasiliensis in tropical Central and South America. The varieties differ primarily in size, frond dissection, and habitat preference.
+Several varieties are recognized, with Osmunda regalis var. regalis occurring in Europe and western Asia, var. spectabilis in [[polypore-fungi-eastern-north-america]] America, and var. brasiliensis in tropical Central and South America. The varieties differ primarily in size, frond dissection, and habitat preference.
 
 The rhizome is massive, erect to ascending, forming a woody trunk-like base in older plants that can reach 30–50 cm in height. This trunk is covered with persistent old stipe bases and fibrous root masses, giving mature plants a small tree-fern appearance.
 
@@ -46,13 +46,13 @@ Osmunda regalis has a diploid chromosome number of 2n = 44, one of the lower cou
 
 Osmunda regalis has one of the widest natural distributions of any fern species, occurring across Europe, western and central Asia, Africa, the Americas, and Australasia. In Europe, it ranges from Scandinavia to the Mediterranean and from the British Isles to western Russia.
 
-In North America, the species occurs from Newfoundland to Florida and west to Texas and Minnesota. Tropical populations are found in Mexico, Central America, northern South America, and the Caribbean islands. African populations are scattered across mountainous regions of East and southern Africa.
+In North America, the species occurs from Newfoundland to Florida and west to Texas and Minnesota. Tropical populations are found in Mexico, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], northern South America, and the Caribbean islands. African populations are scattered across mountainous regions of East and southern Africa.
 
 The royal fern is strongly associated with wet habitats, including bog margins, marshes, swamps, stream banks, damp woodlands, and wet meadows. It requires permanently moist to waterlogged soils with high organic content and a pH range of 4.5–7.0.
 
 The species tolerates full sun in wet sites but prefers partial shade in drier locations. It is hardy to USDA Zone 3, making it one of the most cold-tolerant ferns of wetland habitats.
 
-At higher elevations in tropical mountains, Osmunda regalis can be found growing alongside other Osmundaceae members in permanently saturated cloud forest understories. These montane populations tend to have smaller fronds and more compact growth forms.
+At higher elevations in tropical mountains, Osmunda regalis can be found growing alongside other Osmundaceae members in permanently saturated cloud forest understories. These montane populations tend to have smaller fronds and more [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] forms.
 
 The species is sensitive to prolonged drought and will go dormant under water stress, with fronds browning and dying back to the rhizome. Recovery is rapid when moisture returns, making it a resilient species in habitats with seasonal water fluctuations.
 
@@ -88,7 +88,7 @@ In Scandinavia, the fertile fronds were historically used as a source of yellow-
 
 ## Ecological Role
 
-Osmunda regalis plays an important structural role in wetland ecosystems, where its large fronds create shaded microhabitats that moderate temperature and humidity. These microhabitats benefit amphibians, aquatic invertebrates, and moisture-loving understory plants.
+Osmunda regalis plays an important structural role in wetland ecosystems, where its large fronds create shaded microhabitats that moderate [[greg-green-temperature-and-humidity-control]]. These microhabitats benefit amphibians, aquatic invertebrates, and moisture-loving understory plants.
 
 The extensive root and rhizome system contributes to wetland soil stabilization and helps filter water in riparian buffer zones. The fibrous root mass traps sediments and absorbs excess nutrients, contributing to water quality improvement in degraded wetlands.
 

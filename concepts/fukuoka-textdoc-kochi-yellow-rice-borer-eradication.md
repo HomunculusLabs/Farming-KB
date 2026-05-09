@@ -19,17 +19,17 @@ type: concept
 
 # Kochi Yellow Rice Borer Eradication Campaign
 
-The yellow rice borer eradication campaign in Kochi Prefecture was a pivotal experience in Fukuoka's career as an agricultural scientist and a turning point in his journey toward natural farming.
+The yellow rice borer eradication campaign in Kochi Prefecture was a pivotal experience in Fukuoka's career as an agricultural scientist and a turning point in his journey toward [[comparison-natural-farming-vs-permaculture]].
 
 Conducted during wartime Japan, this ambitious pest control program represented the most advanced agricultural technology of its era.
 
-Its mixed results — complete elimination of the target pest but no increase in overall crop production — profoundly shaped Fukuoka's understanding of the limits of scientific agriculture.
+Its mixed results — complete elimination of the target pest but no increase in overall crop production — profoundly shaped Fukuoka's understanding of the limits of [[fukuoka-critique-scientific-agriculture-civilization]].
 
 ## Background: Low Rice Yields in Kochi
 
-Kochi Prefecture, despite its warm climate which seemed ideal for rice production, had the second lowest rice yields of any prefecture in Japan.
+Kochi Prefecture, despite its warm climate which seemed ideal for [[fukuoka-energy-analysis-rice-production-natural-vs-mechanized]], had the second lowest rice yields of any prefecture in Japan.
 
-Rice cultivation practices throughout Kochi were disorderly and varied: farmers on the centrally located Kacho Plain double-cropped their rice, while farmers in other areas variously practiced early-season, midseason, or late-season cropping. Transplanting started in April and continued through early August.
+[[jadam-rice-cultivation-methods]] practices throughout Kochi were disorderly and varied: farmers on the centrally located Kacho Plain double-cropped their rice, while farmers in other areas variously practiced early-season, midseason, or late-season cropping. Transplanting started in April and continued through early August.
 
 Fukuoka was stationed at the Kochi Agricultural Experiment Station, where he worked on rice cultivation and conducted research on post-season rice cultivation. He remembers commenting on how there was not "a single healthy rice plant on the Kacho Plain," an indiscretion for which he was roundly criticized.
 
@@ -49,7 +49,7 @@ Fukuoka remembered agonizing over which day in July to set as the end of the ric
 
 ## Gaining Farmer Cooperation
 
-For other specialists, waiting until early July to begin growing rice meant drastically shortening the growing season — a risky proposition for both the farmer and the technician.
+For other specialists, waiting until early July to begin growing rice meant drastically shortening the [[savory-growing-season-and-non-growing-season-management]] — a risky proposition for both the farmer and the technician.
 
 This was Kochi, where farmers began transplanting very early-season rice in April and continued planting early-season, midseason, and late-season rice, followed in some cases by a second crop, right through to early August.
 
@@ -129,7 +129,7 @@ If no one did anything, the sparrows would not devastate the fields.
 
 ## Pests as Self-Defense by Nature
 
-The Kochi experience led Fukuoka to his principle that "diseases and pest damage are self-defense measures taken by nature to restore balance when the natural order has been disturbed."
+The Kochi experience led Fukuoka to his principle that "diseases and pest damage are self-defense measures taken by nature to restore balance when the [[fukuoka-textdoc-natural-order-food-chain-unity]] has been disturbed."
 
 Pests are "a divine warning that something has gone wrong, that the natural balance of rice plants has been upset."
 

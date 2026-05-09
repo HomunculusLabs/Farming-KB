@@ -42,7 +42,7 @@ anti-seizure drugs, and synthetic cannabinoids such as Nabilone.
 
 ## Evidence-Based Confidence Level
 
-From Uwe Blesching's Cannabis Health Index (CHI):
+From Uwe Blesching's [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI):
 
 - Total Number of Studies Reviewed: 5
 - CHI Value: 15
@@ -61,20 +61,20 @@ relieving neuropathic pain.
 |---|---|---|---|
 | Smoked cannabis | Double-blind, placebo-controlled crossover | 2008, UC Davis: Positive analgesic effects with peripheral neuropathic pain | 5 |
 | Sativex (THC:CBD ~1:1) | 48 patients, randomized, double-blind, placebo-controlled, three-period crossover | 2004, Royal National Orthopaedic Hospital, UK: Mild reduction of neuropathic pain, improved sleep | 5 |
-| Whole-plant extracts (CBD:THC sublingual spray) | 24 patients with MS, spinal cord injuries, double-blind, randomized, placebo-controlled | 2003, Oxford Centre for Enablement, UK: Significant pain relief | 5 |
+| Whole-plant extracts (CBD:THC sublingual spray) | 24 patients with MS, [[blesching-cannabis-spinal-cord-injuries]] injuries, double-blind, randomized, placebo-controlled | 2003, Oxford Centre for Enablement, UK: Significant pain relief | 5 |
 | Synthetic cannabinoid CT-3 | 21 patients, randomized, placebo-controlled, double-blind crossover | 2003, Hanover Medical School, Germany: Effective in reducing chronic neuropathic pain | 5 |
 
 **Total CHI Value: 15**
 
 Note: One French study of oral THC (16.6 mg average dose) found no benefits
-and some adverse effects (CHI: -5), resulting in the net total above.
+and some [[blesching-cannabis-safety-adverse-effects-evidence]] (CHI: -5), resulting in the net total above.
 
 ## AIDS-Related Neuropathic Pain
 
 - Number of Studies Reviewed: 2
 - CHI Value: 10
 
-In 2007, researchers at San Francisco General Hospital conducted a randomized,
+In 2007, researchers at [[shipibo-san-francisco-ceremonial-center-ucayali]] General Hospital conducted a randomized,
 placebo-controlled human trial on cannabis and AIDS-related neuropathies.
 Smoked cannabis was well tolerated and effectively relieved chronic neuropathic
 pain from HIV-associated sensory neuropathy, reducing daily pain by 34%.
@@ -86,9 +86,9 @@ experienced a 30% reduction in pains compared to placebo.
 ## Strain-Specific Considerations
 
 Sativex, a pharmaceutical plant derivative, contains THC and CBD in similar
-proportions as Cannabis sativa. Sativa or sativa-dominant strains generally
+proportions as [[comparison-cannabis-sativa-vs-cannabis-indica]]. Sativa or sativa-dominant strains generally
 contain a higher THC:CBD ratio. Patients have reported benefits from various
-delivery methods including sublingual sprays and smoked cannabis.
+[[cannabis-delivery-methods-comparison]] including sublingual sprays and smoked cannabis.
 
 ## Mind-Body Medicine and Neuropathies
 
@@ -101,7 +101,9 @@ The disease picture of neuropathies suggests an element of communication
 about one's general experience of pain, reflecting disruption in the body's
 signaling network.
 
-## Related Topics
+## Related
+
+- [[blesching-cannabis-childbirth-pain]] Topics
 
 - [[blesching-cannabis-multiple-sclerosis]]
 - [[blesching-cannabis-diabetes]]

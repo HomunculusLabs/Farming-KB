@@ -12,8 +12,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Guzmán, G. (1983). "The Genus Psilocybe: A Systematic Revision of the Known Species." Beihefte zur Nova Hedwigia 74.
-  - Stamets, P. (1996). "Psilocybin Mushrooms of the World." Ten Speed Press.
-  - Guzmán, G., Allen, J.W., & Gartz, J. (1998). "A Worldwide Geographical Distribution of the Neurotropic Fungi." Mycotaxon 68.
+  - Stamets, P. (1996). "[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World." Ten Speed Press.
+  - Guzmán, G., Allen, J.W., & Gartz, J. (1998). "A Worldwide Geographical Distribution of the [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]." Mycotaxon 68.
   - Gartz, J. (1994). "Distribution and Evolutionary Trends in Psilocybe." Journal of Ethnopharmacology 41(1-2): 71-77.
 ---
 
@@ -24,7 +24,7 @@ sources:
 **Psilocybe sylvatica** is a rare psilocybin-containing mushroom in the family
 Hymenogastraceae. The species epithet *sylvatica* refers to its woodland habitat.
 
-It was first described by [[psilocybin-mushrooms]] in North America
+It was first described by [[psilocybin-mushrooms]] in [[psilocybin-north-america-pacific-northwest]]
 and is seldom encountered by foragers compared to more prolific species like
 *P. cyanescens* or *P. cubensis*.
 
@@ -87,7 +87,7 @@ psilocybin mushrooms that can be difficult to distinguish in the field:
 - ***P. caerulipes***: Eastern US hardwood debris; more robust
   stature and darker cap coloration.
 
-Microscopic examination of spore size and cheilocystidia is often
+[[fungal-microscopic-examination-mounting-media-techniques]] of spore size and cheilocystidia is often
 necessary for definitive identification among these species.
 
 ## See Also

@@ -1,6 +1,6 @@
 ---
 
-title: Vegetable Garden Harvest and Storage
+title: fukuoka-dutch-priest-vegetable-garden-spiritual-renewal purdue-vegetable-harvest-and-storage-guide
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -22,7 +22,7 @@ sources:
 
 # Vegetable Garden Harvest and Storage
 
-Harvest timing, storage conditions, and detailed crop-specific notes for home vegetable gardens, based on Purdue Extension guidelines.
+[[cannabis-harvest-timing-visual-cues]], [[vegetable-storage-conditions-by-temperature-and-humidity]], and detailed crop-specific notes for home vegetable gardens, based on Purdue Extension guidelines.
 
 Related: [[vegetable-garden-guide]], [[food-preservation-canning]], [[seasonal-planning]]
 
@@ -114,7 +114,7 @@ Related: [[vegetable-garden-guide]], [[food-preservation-canning]], [[seasonal-p
 - **Irish Potato**: Harvest when tops yellowed/died. Do not leave in ground (high soil temps accelerate over-ripening). Cure 1 week in shaded, ventilated place. Remove excess soil; discard diseased/damaged. Avoid light exposure (causes greening/solanine). Store cool (above 40F), high humidity, good ventilation. Up to 4 months.
 - **Dry Onions**: Harvest when 2/3-3/4 tops fallen and necks shriveled. Remove tops, cure 3-4 weeks in open garage/barn. Store in mesh bags, as cool as possible. Ventilate during humid weather.
 - **Sweet Potatoes**: Harvest before frost. Handle carefully. Cure 1 week at 80-85F. Ideal storage: 55F, 85% RH (basement with ventilated boxes covered with moistened burlap).
-- **Pumpkins/Winter Squash**: Harvest when skin hard and colors darken, before frost. Remove with portion of stem attached. Store in single layers on shelves for air circulation.
+- **Pumpkins/Winter Squash**: Harvest when skin hard and colors darken, before frost. Remove with portion of stem attached. Store in single layers on shelves for [[stamets-growing-room-air-circulation-co2-management]].
 - **Green Onions**: Harvest when sufficient size. Wash, cut roots, leave 1+ inch green. Up to 2 weeks.
 
 ## See Also
@@ -122,4 +122,4 @@ Related: [[vegetable-garden-guide]], [[food-preservation-canning]], [[seasonal-p
 - [[vegetable-garden-guide]] — Site selection, planting, fertilization, and general techniques
 - [[vegetable-garden-fertilization]] — Fertilization program and pH management
 - [[food-preservation-canning]] — Canning, fermentation, dehydrating, freezing
-- [[seasonal-planning]] — Year-round garden planning
+- [[seasonal-planning]] — Year-round [[hamilton-garden-planning-and-site-assessment]]

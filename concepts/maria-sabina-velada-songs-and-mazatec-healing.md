@@ -1,5 +1,5 @@
 ---
-title: "Maria Sabina's Velada Songs and Mazatec Mushroom Healing"
+title: "shroom-cultural-history-maria-sabina-and-mazatec-tradition's [[maria-sabina]] velada songs and mazatec healing and maria-sabina-mazatec-mushroom-ceremony Healing"
 created: 2026-04-26
 tags:
   - mazatec
@@ -16,7 +16,7 @@ type: concept
 
 # Maria Sabina's Velada Songs and Mazatec Mushroom Healing
 
-Maria Sabina's mushroom veladas were sophisticated healing ceremonies
+Maria Sabina's [[metzner-mazatec-mushroom-veladas-darkness-singing-and-christian-syncretism]] were sophisticated healing ceremonies
 rooted in Mazatec indigenous medicine, not the religious rituals that
 Western observers assumed. The veladas were adaptive blends of Catholic
 and pagan ritual actions, incorporating Christian saints alongside
@@ -92,7 +92,7 @@ projected the priestly role onto Sabina, and returned home trumpeting
 her as his trophy, the final proof of the thesis that would secure his
 place in the academic firmament.
 
-He pictured his ancient mushroom cult as a form of primitive Christian
+He pictured his ancient [[african-mushroom-cult-history]] as a form of primitive Christian
 mysticism, with mushrooms foreshadowing the sacrament. Sabina's
 devout, suffering, compassionate, generous, humble character, a loving
 and devoted mother, a woman without stain, made her a most Mary-like

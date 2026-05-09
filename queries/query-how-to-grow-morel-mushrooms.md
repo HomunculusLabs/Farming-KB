@@ -14,7 +14,7 @@ type: query
 
 Growing morel mushrooms is one of the most challenging tasks in mycology.
 
-They have complex life cycles involving sclerotia formation and specific environmental triggers for fruiting.
+They have complex life cycles involving [[growing-gourmet-sclerotia-formation-biology-mushrooms]] and specific environmental triggers for fruiting.
 
 While commercial cultivation remains difficult, outdoor methods using prepared substrates and inoculated spawn have shown the most consistent results for home growers.
 
@@ -24,7 +24,7 @@ While commercial cultivation remains difficult, outdoor methods using prepared s
 
 Morel mushrooms (Morchella spp.) have eluded reliable indoor cultivation for decades.
 
-Unlike oyster or shiitake mushrooms, morels form sclerotia, which are dense masses of mycelium that serve as survival structures.
+Unlike oyster or [[query-how-to-grow-shiitake-mushrooms-on-logs]], morels form sclerotia, which are dense masses of mycelium that serve as survival structures.
 
 These sclerotia require specific environmental cues, including temperature fluctuations and moisture cycles, to trigger fruiting.
 
@@ -32,13 +32,13 @@ The [[cotter-morel-cultivation-research]], but results are inconsistent and yiel
 
 Outdoor methods mimic the natural spring conditions that morels prefer: cool nights, warm days, and moist soil.
 
-For indoor growers, [[mushroom-substrate-preparation]] is critical since the substrate must support both mycelial growth and sclerotia formation.
+For indoor growers, [[mushroom-substrate-preparation]] is critical since the substrate must support both [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] and sclerotia formation.
 
 When comparing substrates, the [[grain-spawn-preparation]] techniques apply to morels, but the grain must be carefully sterilized and inoculated under clean conditions.
 
 Morel mycelium grows more slowly than many other gourmet species, so patience during the spawn run is critical.
 
-Liquid culture can speed up the inoculation process, but agar-to-grain transfers tend to produce more vigorous mycelium for sclerotia production.
+Liquid culture can speed up the inoculation process, but agar-to-grain transfers tend to produce more vigorous mycelium for [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]].
 
 Work in a clean environment to prevent contamination, as morel mycelium is especially vulnerable during early growth stages.
 
@@ -62,7 +62,7 @@ Some growers report success with the "slurry method," blending morel mushrooms w
 
 Harvest morels by cutting them at the base with a knife rather than pulling them from the ground.
 
-This preserves the underground mycelial network for future flushes.
+This preserves the underground [[gadd-mycelial-network-dynamics]] for future flushes.
 
 Morels should be cooked before eating, as raw morels contain small amounts of hydrazine toxins that are destroyed by heat.
 
@@ -76,8 +76,8 @@ Contamination is the most frequent issue in morel cultivation.
 
 Following [[morel-mushroom-guide]]
 - Outdoor cultivation is more reliable than indoor methods for most home growers
-- Substrate preparation is critical: morels need a specialized low-nutrient, slightly sweetened mix
-- [[query-how-do-i-grow-sea-buckthorn]]
+- [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] is critical: morels need a specialized low-nutrient, slightly sweetened mix
+- query-how-do-i-grow-sea-buckthorn
 
 - [[query-how-to-grow-oyster-mushrooms-at-home]]
 - [[query-difference-between-pasteurization-and-sterilization-mushroom-growing]]

@@ -1,10 +1,11 @@
 ---
-title: Fukuoka Natural Farming Method
+title: masanobu-fukuoka-natural-farming-philosophy Farming Method
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, farming, no-till, organic, philosophy, methods, theory]
-sources: [raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka Natural Farming Method
@@ -15,8 +16,8 @@ Masanobu Fukuoka (1913-2008) developed natural farming over fifty years on his f
 
 Fukuoka demonstrated the validity of five major principles:
 
-1. **No tillage** -- The soil is worked by small animals and roots, enriched by green manure plants. Plowing ruins the soil.
-2. **No fertilizer** -- Crops depend on the soil itself. Chemical fertilizers and even compost deplete the land from which organic material is taken.
+1. **No tillage** -- The soil is worked by small animals and roots, enriched by green manure plants. [[fukuoka-plowing-ruins-soil-structure-mechanism]] the soil.
+2. **No fertilizer** -- Crops depend on the soil itself. [[cervantes-chemical-fertilizers-guide]] and even compost deplete the land from which organic material is taken.
 3. **No pesticides** -- Nature strikes a balance among the thousand diseases that attack plants. Man created the need for labor and toil by identifying these as insect damage.
 4. **No weeding** -- Nature does not arbitrarily call one plant a weed and try to eradicate it. A cover of grass is beneficial.
 5. **No pruning** -- A fruit tree grows best in its natural habit; branches do not tangle, sunlight falls on every leaf, and the tree bears fully each year, not only in alternate years.
@@ -38,9 +39,9 @@ The essential method is "direct-seeded, no-tillage, winter grain/rice succession
 
 ## Critique of Scientific Agriculture
 
-Fukuoka argued that even organic farming is "just another type of scientific farming" -- moving organic materials from place to place, processing and treating them. The gains are local and temporal; from a broader perspective, many efforts to protect the natural ecology are actually destructive.
+Fukuoka argued that even [[coleman-deep-organic-farming-philosophy]] is "just another type of [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]" -- moving organic materials from place to place, processing and treating them. The gains are local and temporal; from a broader perspective, many efforts to protect the natural ecology are actually destructive.
 
-He further argued that "there is no cause and effect in nature" -- the endless chain of interwoven events and factors is beyond man's powers of comprehension. The only effective approach to restoring barren land is to leave things largely up to nature.
+He further argued that "there is no [[fukuoka-textdoc-no-cause-and-effect-in-nature]] in nature" -- the endless chain of interwoven events and factors is beyond man's powers of comprehension. The only effective approach to restoring barren land is to leave things largely up to nature.
 
 ## Revegetating Deserts
 
@@ -57,7 +58,8 @@ His observation: "Rain does not fall from the heavens; it issues forth from the 
 - [[clay-ball-seed-pellets]]
 - [[no-pruning-fruit-trees]]
 - [[permaculture-design-process]]
-- [[permaculture-zone-and-sector-analysis]]
+- [[zone-sector-analysis-guide]]
+
 ## Practical Considerations
 
 Successful implementation of Fukuoka Natural Farming Method requires attention to
@@ -76,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

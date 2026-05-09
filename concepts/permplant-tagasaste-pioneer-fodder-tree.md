@@ -1,5 +1,5 @@
 ---
-title: Tagasaste as Pioneer Fodder Tree in Permaculture
+title: Tagasaste as permplant tagasaste pioneer fodder tree Tree in Permaculture
 created: 2026-04-28
 tags:
   - permaculture
@@ -30,28 +30,28 @@ identified as potentially benefiting from the species.
 ## Nutritional Value as Stock Feed
 
 Tagasaste is a fast-growing, highly productive stock feed with high
-nutrition levels, low toxicity, and a high degree of palatability. See [[forage-and-fodder-trees-permaculture-systems]] to allow recovery from grazing and to avoid the time-consuming
+nutrition levels, [[fukuoka-low-toxicity-pesticide-deception]], and a high degree of palatability. See forage-and-fodder-trees-permaculture-systems to allow recovery from grazing and to avoid the time-consuming
 cut-and-carry method. Well-fenced hedge rows can be constantly grazed.
 
 Tagasaste is readily eaten by all types of stock including pigs, horses,
 and rabbits, and can comprise a major portion of their diet. The seed
 is also valuable as free-range [[tagasaste-nurse-crop-fodder-systems]] for other trees.
-In trials in New Zealand with various fruit and nut trees, trees growing
+In trials in New Zealand with various fruit and [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]], trees growing
 in close association with tagasaste (as close as 1 m) consistently grew
 better than controls without tagasaste.
 
 When grown close to timber trees, tagasaste forces them upward for
 light, producing straight, long timber. For fruit or nut trees where a
 tagasaste should be clipped and used as
-[[mollison-pioneer-species-and-accelerated-succession]] pattern described in permaculture design.
+[[mollison-pioneer-species-and-accelerated-succession]] pattern described in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]].
 
 ## Companion Plants
 
 Tagasaste grows well with Albizia lophantha and Acacia decurrens as
 fellow nurse plants. Other pioneers in the same ecological niche include
 Cassia spp, Cytisus spp, and Prosopis spp. For more on integrating
-tagasaste with other species, see [[permaculture-pioneer-species]] for other pioneer trees in permaculture systems.
-[[forage-and-fodder-trees-permaculture-systems]] for integrated fodder tree design.
+tagasaste with other species, see [[permaculture-pioneer-species]] for other pioneer [[multipurpose-trees-in-permaculture-design]] systems.
+forage-and-fodder-trees-permaculture-systems for integrated fodder tree design.
 [[permplant-fig-ficus-carica-fruit-tree]]
 ## Practical Considerations
 
@@ -69,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

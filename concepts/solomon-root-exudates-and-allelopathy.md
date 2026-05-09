@@ -1,5 +1,5 @@
 ---
-title: "Root Exudates and Allelopathy - Steve Solomon"
+title: "mycorrhizal-root-exudates-pathogen-interactions and Allelopathy - Steve Solomon"
 created: 2026-04-26
 tags:
   - gardening
@@ -16,17 +16,17 @@ type: concept
 # Root Exudates and Allelopathy
 
 One of the most important yet least understood aspects of plant growth is
-the role of root exudates -- chemical signals that plants release into the
+the role of root exudates -- [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] that plants release into the
 soil. Steve Solomon draws on J.E. Weaver's classic study "Root Development
 of Vegetable Crops" to explain how root behavior and exudates should
 fundamentally change how gardeners think about spacing, competition, and
-crop rotation.
+[[comparison-crop-rotation-vs-cover-cropping]].
 
 ## What Are Root Exudates?
 
 Root exudates are chemicals secreted by plant roots into the surrounding
 soil. These chemicals serve multiple functions, but one of the most
-important is chemical warfare between plants. Plants secrete chemicals
+important is solomon root exudates and allelopathy between plants. Plants secrete chemicals
 that repel the roots of other species and, in some cases, their own roots
 from areas already occupied.
 
@@ -76,7 +76,7 @@ plant health.
 1. **Space generously**: Give each plant enough room for its root system
    to expand without competition. See
    [[solomon-crop-rotation-and-garden-planning]].
-3. **Prepare deep soil**: Double-digging or deep bed preparation gives
+3. **Prepare deep soil**: Double-digging or deep [[azurescens-outdoor-bed-preparation-woodchips]] gives
    roots room to penetrate fully. See
    [[solomon-raised-beds-and-bed-preparation]].
 4. **Feed the soil broadly**: COF should be spread over the entire area

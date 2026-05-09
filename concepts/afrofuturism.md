@@ -24,7 +24,7 @@ Spaceships, alien worlds, mythic ancestors, sonic technologies, and ritual symbo
 The field draws from science fiction, African diaspora, Black studies, electronic music, Pan Africanism, and speculativ  also challenges the assumption that technological modernity belongs mainly to Europe or [[sun-ra]] created one of the most influential Afrofuturist mythologies in twentieth-century music.
 
 He claimed Saturn as a symbolic origin, led the Arkestra, and used cosmic imagery to rethink Black destiny.
-George Clinton and Parliament-Funkadelic developed funk mythologies involving motherships, liberation, and sonic transformatio [[mushroom-symbolism-visual-art]] visual art and design, it provides iconographies of sovereignty, hybridity, and technological self-definition.
+George Clinton and Parliament-Funkadelic developed funk mythologies involving motherships, liberation, and sonic transformatio mushroom-symbolism-visual-art visual art and design, it provides iconographies of sovereignty, hybridity, and technological self-definition.
 In education, Afrofuturism can help students connect science, history, art, and social justice.
 
 It supports conversations about who designs technology and who is harmed or excluded by it.
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

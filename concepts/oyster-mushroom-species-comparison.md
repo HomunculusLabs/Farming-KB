@@ -1,5 +1,5 @@
 ---
-title: Oyster Mushroom Species Comparison
+title: cotter-oyster-mushroom-cultivation Species Comparison
 created: 2026-04-28
 tags: mycology, species, oyster-mushrooms, cultivation-guide]
 date: 2026-04-28
@@ -11,7 +11,7 @@ type: concept
 # Oyster Mushroom Species Comparison
 
 The genus *Pleurotus* contains over 30 described species, several of which are
-cultivated commercially worldwide. Each species has distinct growth parameters,
+cultivated commercially worldwide. Each species has distinct [[chen-maitake-growth-parameters-environmental-control]],
 substrate preferences, flavor profiles, and market characteristics. Selecting
 the right species for a given climate, substrate availability, and market is
 one of the most important decisions a cultivator makes.
@@ -22,7 +22,7 @@ The classic oyster mushroom and the most widely cultivated species globally. It
 fruits at 12-20 degrees C, making it ideal for cool-season cultivation and
 temperate climates. Pearl oysters have a mild, slightly sweet flavor with a
 texture that holds up well to cooking. They grow in shelf-like clusters on
-hardwood logs and stumps in the wild. On supplemented sawdust, biological
+hardwood logs and stumps in the wild. On [[oyster-mushroom-supplemented-sawdust-blocks]], biological
 efficiency typically ranges from 75-150%. This species is aggressive and fast-
 colonizing, making it forgiving for novice cultivators. Common strains include
 P01 (warm) and P02 (cool), which are selected for their respective temperature
@@ -50,9 +50,9 @@ hardwood sawdust with wheat bran. This species commands premium prices.
 
 A striking species with bright yellow caps that retain their color after
 cooking. Golden oysters prefer warm temperatures (22-30 degrees C) and are
-among the fastest fruiting oyster mushrooms. They have a distinctive, complex
+among the fastest fruiting [[query-how-to-grow-oyster-mushrooms-at-home]]. They have a distinctive, complex
 flavor described as citrusy or slightly cashew-like. The fruiting bodies are
-delicate and have a short shelf life (3-5 days refrigerated), which limits
+delicate and have a short [[psilocybin-shelf-life-stability]] (3-5 days refrigerated), which limits
 their commercial viability to direct-to-consumer or farmers market sales.
 [[oyster-mushroom-fruiting-environment]], [[spawn-grain-preparation]], [[cerrena-unicolor]]
 - [[picipes-badius]]
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

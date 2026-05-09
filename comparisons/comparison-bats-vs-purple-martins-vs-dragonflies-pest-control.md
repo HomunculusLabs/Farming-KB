@@ -1,5 +1,5 @@
 ---
-title: "Bats vs. Purple Martins vs. Dragonflies for Mosquito and Flying [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] of mosquitoes by odonates.' Journal of the American Mosquito Control Association, 26(S1), 116–121."
+title: "Bats vs. comparison bats vs purple martins vs dragonflies [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]. Dragonflies for Mosquito and Flying fukuoka-textdoc-arrowhead-scale-ladybug-biological-control of mosquitoes by odonates.' Journal of the American Mosquito Control Association, 26(S1), 116–121."
   - "National Wildlife Federation. 'Purple Martin Conservation Association — Bird House Placement Guidelines.'"
   - "Merckx, T. et al. (2020). 'Aerial insectivores and agricultural pest suppression: a meta-analysis.' Agriculture, Ecosystems & Environment, 295, 106886."
   - "Tuttle, M.D. (2015). The Secret Lives of Bats. Houghton Mifflin Harcourt."
@@ -7,7 +7,7 @@ created: 2026-05-07
 type: comparison
 ---
 
-# Bats vs. Purple Martins vs. Dragonflies for Mosquito and Fl [[graywater-systems-for-homesteads]] [[cho-natural-pest-control-methods]]
+# Bats vs. Purple Martins vs. Dragonflies for Mosquito and Fl  [[cho-natural-pest-control-methods]]
 
 - [[cervantes-biological-pest-control-predators]]
 ## Background and Context
@@ -60,7 +60,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -138,4 +138,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

@@ -1,5 +1,5 @@
 ---
-title: "Sampling Protocol Design for Fungal Biodiversity Studies"
+title: "biodiversity sampling protocol design Design for fungal-biodiversity Studies"
 created: 2026-04-28
 tags:
   - sampling-design
@@ -28,7 +28,7 @@ efficient. Plots of 0.5 m2 work for small ascomycetes on branches; 10-m
 diameter plots sample medium wood. The practical upper limit for
 circular plots is 10-20 m (78.5-314 m2).
 
-For large woody substrata, individual logs or dead trees are more
+For large [[macrofungi-woody-substrata-survey-design]], individual logs or dead trees are more
 appropriate than plots. A fallen tree can be sampled base to top with
 specimen locations, tree type, and decay class noted. The point quarter
 method estimates density of large fallen or standing-dead trees. Two
@@ -67,7 +67,7 @@ richness is most efficient when complementarity among samples is about
 while low values suggest that some samples are redundant. Complementarity
 analysis has been used to determine that sampling 12 1-m2 plots in each
 of two blocks was efficient for estimating litter agaric diversity in a
-tropical forest.
+[[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]].
 
 ### Dispersed Subsamples
 
@@ -75,19 +75,19 @@ Because of the clumped distribution of sporocarps, contiguous subplots
 may underestimate species richness. This spatial autocorrelation can be
 addressed by dispersing plots in various ways. More spatially explicit
 studies are needed for different groups of macrofungi, as saprobes and
-ectomycorrhizal species may exhibit different distribution patterns.
+ectomycorrhizal species may exhibit different [[guzman-global-distribution-patterns-neurotropic-fungi]].
 Sampling design should be considered an iterative process, with data from
 early efforts used to modify later sampling.
 
 ## Inventorying Versus Monitoring
 
-Inventory increases knowledge of fungal diversity and distributions.
+Inventory increases knowledge of [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] and distributions.
 Monitoring assesses population trends over longer periods on fewer taxa
 across many sites, requiring archived data and documentation for
 decades-long repetition. Macrofungi are most useful for monitoring where
 long-term occurrence records or environmental gradients exist.
 
-Indicator species selection criteria include taxonomic stability,
+Indicator species [[cannabis-breeding-traits-selection-criteria-clarke]] include taxonomic stability,
 known natural history, surveyability, disturbance sensitivity, wide
 distribution, and habitat specificity. Macrofungi are poorly known
 taxonomically compared with vertebrates and plants, but are sensitive
@@ -118,4 +118,5 @@ the taxonomic difficulty of the project.
 
 ## See Also
 
-- [[fungal-biodiversity-sampling-design]]
+- fungal-biodiversity-sampling-design
+- [[fungal-biodiversity]]

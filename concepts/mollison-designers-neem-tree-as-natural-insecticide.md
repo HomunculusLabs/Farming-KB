@@ -17,11 +17,11 @@ type: concept
 # Neem Tree as Natural Insecticide in Permaculture
 
 The neem tree (Azadirachta indica, also referred to as Melia azedarach or
-white cedar) is presented in the Permaculture Designers Manual as one of
-the most important multi-purpose trees for pest management in tropical and
+white cedar) is presented in the Permaculture [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] as one of
+the most important multi-purpose trees for [[cannabis-pest-management-guide]] in tropical and
 subtropical permaculture systems. Mollison describes its uses across
-integrated pest management, livestock health, stored food protection, and
-aquatic insect control.
+[[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management, livestock health, stored food protection, and
+aquatic [[mushroom-pests-insect-control-stamets]].
 
 ## Insecticidal Properties
 
@@ -41,8 +41,8 @@ feeding, and reproduction without harming most beneficial organisms.
 
 Broadscale mosquito control, applied from the air or as ground mists, can
 combine fats or oils (e.g. lecithin), neem oil as a poison, and an
-infective agent (Bacillus thuringiensis). All of these are potentially
-assisted in pest control by small fish and insect predators such as
+infective agent ([[cervantes-bacillus-thuringiensis-bt-control]]). All of these are potentially
+assisted in [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] by small fish and insect predators such as
 notonectids (backswimmers) in open water systems.
 
 This integrated approach demonstrates Mollison's principle of stacking
@@ -87,6 +87,12 @@ without chemical residues.
 
 ## Integration in Garden Design
 
-In the [[mollison-tropical-animal-integration-pest-control-and-recycling]]
+In the mollison-tropical-animal-integration-pest-control-and-recycling
 - [[mollison-free-range-pig-systems]]
-- [[mollison-village-complex-elements-in-the-humid-tropics]]
+- mollison-village-complex-elements-in-the-humid-tropics
+## See Also
+- [[integrated-pest-management]]
+- [[bacillus-thuringiensis]]
+- [[melia-azedarach]]
+- [[permaculture-design]]
+- [[azadirachta-indica]]

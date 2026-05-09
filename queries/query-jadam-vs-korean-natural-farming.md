@@ -1,5 +1,5 @@
 ---
-title: "How Does JADAM Natural Farming Differ from Korean Natural Farming?"
+title: "How Does JADAM comparison-natural-farming-vs-permaculture Differ from query jadam vs korean natural farming Farming?"
 created: 2026-04-28
 tags: [query, farming, jadam, knf, organic]
 date: 2026-04-25
@@ -15,8 +15,8 @@ JADAM and Korean Natural Farming (KNF) both originated in South Korea and share 
 philosophy of working with nature rather than against it, but JADAM is a streamlined,
 ultra-low-cost simplification created by Youngsang Cho after he mastered KNF. While KNF
 relies on a complex system of numerous fermented inputs (IMO, FPJ, FFJ, OHN, WCA, etc.),
-JADAM reduces everything to a handful of core preparations centered around Jadam Microorganism
-Solution (JMS) and Jadam Natural Pesticide (JNP).
+JADAM reduces everything to a handful of core preparations centered around [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]]
+Solution (JMS) and Jadam [[jadam-natural-pesticide-institute-and-research]] (JNP).
 
 ## Detailed Explanation
 
@@ -32,9 +32,9 @@ The most significant practical difference is the number of inputs required. A co
 KNF system typically involves learning to prepare and apply a dozen or more distinct
 fermented inputs, each with its own collection, fermentation, and application protocol.
 The [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]] page provides the
-complete method for making JMS, which replaces almost all of the individual KNF inputs.
+complete method for making JMS, which replaces almost all of the individual [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]].
 
-Their approaches to pest management also differ substantially. KNF uses a variety of
+Their approaches to [[cannabis-pest-management-guide]] also differ substantially. KNF uses a variety of
 targeted inputs including OHN (which combines garlic, ginger, licorice, and Angelica
 root fermented in alcohol) and specific plant-based pest deterrents. JADAM takes a
 broader approach with its [[jadam-canola-oil-surfactant-method]], which uses food-grade canola
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

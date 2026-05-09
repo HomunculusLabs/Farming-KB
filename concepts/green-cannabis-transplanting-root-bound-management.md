@@ -20,8 +20,8 @@ Transplanting is one of the most critical physical interventions a cannabis
 grower performs during the early stages of a plant's life. Moving a plant
 from one container to a larger one, or from a starter medium into the main
 grow environment, carries inherent risks but is often necessary to support
-healthy root development and vigorous vegetative growth. Greg Green's "The
-Cannabis Grow Bible" covers transplanting as a core pre-production technique
+healthy root development and vigorous [[cannabis-vegetative-growth-stage]]. Greg Green's "The
+[[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible" covers transplanting as a core pre-production technique
 that bridges the gap between [[green-cannabis-grow-bible-hydroponics-and-the-bubbler]]. There is not much of a problem when transferring the cube and
 seedling to soil -- simply dig a small hole, place the cube in, and cover
 it with soil.
@@ -77,7 +77,7 @@ Key recovery strategies include:
 A root-bound condition exists when a potted plant has outgrown its
 container. The entire root mass grows to its maximum capacity within the
 pot, which causes stress and a variety of secondary problems including
-nutrient deficiencies, stunted growth, and general decline.
+[[hamilton-nutrient-deficiencies-and-treatment]], stunted growth, and general decline.
 
 The only cure for a root-bound plant is a bigger pot. This underscores the
 importance of proactive potting-up before the plant shows severe symptoms.
@@ -96,7 +96,7 @@ into fresh medium in a properly draining container.
 
 Transplanting timing interacts with several other grow decisions:
 
-- green cannabis grow bible seed germination methods
+- green cannabis grow bible [[cannabis-seed-germination-methods]] methods
   method determines the initial container and medium.
 - [[green-cannabis-grow-bible-nutrient-management-ppm]]
   should be paused or reduced after transplanting to avoid root burn.
@@ -110,7 +110,7 @@ careful handling of the root ball, proper timing, and awareness of
 transplant shock. The pot-in-pot method minimizes root disturbance, while
 soil ball extraction offers more control over placement. Root-bound plants
 must be moved to larger containers promptly, and emergency transplants can
-resolve severe nutrient lockout situations. Always handle plants by the
+resolve severe [[cannabis-nutrient-lockout-and-ph]] situations. Always handle plants by the
 soil, never by the stem, and allow a recovery period without feeding after
 any transplant operation.
 

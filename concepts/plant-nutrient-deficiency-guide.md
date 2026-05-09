@@ -1,5 +1,5 @@
 ---
-title: Plant Nutrient Deficiency Guide
+title: Plant cannabis-grow-nutrient-deficiency-problem-solving Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Plant Nutrient Deficiency Guide
 
-Nutrient deficiencies manifest as visual symptoms on plant leaves, stems, roots, and fruits. Learning to read these symptoms allows rapid diagnosis and correction before yield is significantly impacted. This guide covers the primary macronutrients, secondary nutrients, and key micronutrients with their characteristic deficiency signs and organic remedies.
+[[hamilton-nutrient-deficiencies-and-treatment]] manifest as visual symptoms on plant leaves, stems, roots, and fruits. Learning to read these symptoms allows rapid diagnosis and correction before yield is significantly impacted. This guide covers the primary macronutrients, secondary nutrients, and key micronutrients with their characteristic deficiency signs and organic remedies.
 
 ## Before Diagnosing
 
@@ -18,7 +18,7 @@ Check these factors first — they often mimic nutrient deficiencies:
 - pH imbalance: most nutrients are available between pH 6.0-7.0 (slightly different for cannabis: 5.8-6.8)
 - Overwatering: causes root suffocation, mimics many deficiencies
 - Light stress: too much light can bleach and curl leaves like nutrient burn
-- Temperature stress: cold restricts nutrient uptake, especially phosphorus
+- Temperature stress: cold restricts [[plant-nutrient-uptake-mechanisms]], especially phosphorus
 - Pest damage: spider mites, thrips, and other pests create spotting that looks like deficiency
 - Salt buildup: excess fertilizer causes lockout, making nutrients unavailable despite adequate levels
 
@@ -37,7 +37,7 @@ Visual symptoms:
 Mobile nutrient — symptoms appear on older leaves first as nitrogen is translocated to new growth.
 
 Organic fixes:
-- Composted manure (chicken manure is highest in N)
+- [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]] (chicken manure is highest in N)
 - Blood meal (fast-acting, ~12% N)
 - Alfalfa meal or pellets
 - Fish emulsion or fish hydrolysate
@@ -63,7 +63,7 @@ Organic fixes:
 - Bat guano (high-P varieties)
 - Composted poultry manure
 - Worm castings
-- Mycorrhizal inoculation — mycorrhizae dramatically increase P availability to roots
+- [[teaming-with-fungi-mycorrhizal-inoculation-techniques]] — mycorrhizae dramatically increase P availability to roots
 
 ### Potassium (K) Deficiency
 
@@ -142,49 +142,8 @@ Organic fixes:
 - Gypsum (calcium sulfate)
 - Epsom salt (magnesium sulfate)
 - Kelp meal
-- Compost
-
-## Micronutrients
-
-### Iron (Fe) Deficiency
-Immobile nutrient. Severe interveinal chlorosis on new leaves (youngest most affected), leaves may turn almost white while veins stay green, growth severely stunted. Common in alkaline soils (pH >7.0). In cannabis: new leaves turn pale yellow/white at high pH.
-
-Organic fixes: lower pH if above 7.0 (sulfur, peat moss), chelated iron (EDTA/DTPA), iron sulfate, compost/worm castings. Avoid excess P, Ca, or Mn which can lock out iron.
-
-### Manganese (Mn) Deficiency
-Immobile nutrient. Interveinal chlorosis on newer leaves (similar to iron but less severe), small brown/tan spots, speckled appearance. More common in alkaline or poorly drained soils. In cannabis: iron-like symptoms with small necrotic spots.
-
-Organic fixes: lower pH (availability drops sharply above pH 6.5), manganese sulfate (foliar), compost and kelp meal. Avoid excess iron.
-
-### Zinc (Zn) Deficiency
-Small, narrow new leaves (little leaf), shortened internodes (rosette/whorled appearance), interveinal chlorosis on middle to upper leaves. In cannabis: small new leaves, short node spacing, slow growth. Common in high pH, high P, or compacted soils.
-
-Organic fixes: zinc sulfate (foliar), kelp meal, compost, wood ash (small amounts). Address soil compaction and pH.
-
-### Boron (B) Deficiency
-
-Visual symptoms: growing tips die back or distorted, thick brittle stems, hollow stems, heart rot, poor flower/seed set, cracking fruit. In cannabis: hollow stems, slow growth, abnormal branching.
-
-Organic fixes: borax (very small amounts — easy to overdo), kelp meal, diverse compost.
-
-## Quick Reference
-
-**Mobile nutrients** (deficiency shows on old leaves first): N, P, K, Mg, S.
-**Immobile nutrients** (deficiency shows on new leaves first): Ca, Fe, Mn, Zn, B, Cu.
-
-| Amendment | N | P | K | Ca | Mg | Notes |
-|-----------|---|---|---|----|----|-------|
-| Compost | Low | Low | Low | Med | Med | Balanced, improves soil life |
-| Blood meal | 12 | 1.5 | 0.5 | 0.3 | 0.1 | Fast N, can burn |
-| Bone meal | 3 | 12 | 0 | 24 | 0.5 | Slow P + Ca |
-| Kelp meal | 1 | 0.2 | 4 | 1.5 | 0.5 | Trace minerals |
-| Worm castings | 1.5 | 1 | 1 | 2 | 0.2 | Gentle, biology boost |
-| Wood ash | 0 | 1 | 5 | 20 | 3 | Raises pH |
-| Feather meal | 12 | 0 | 0 | 0 | 0 | Slow-release N |
-| Fish emulsion | 5 | 2 | 2 | 0.1 | 0.1 | Fast-acting |
-
 ## See Also
 
 - [[soil-testing]] for baseline nutrient analysis
-- [[nutritive-cycle-theory]] for understanding plant nutrient demand through growth stages
+- [[nutritive-cycle-theory]] for understanding plant [[vegetable-nutrient-demand-levels]] through growth stages
 - [[soil-food-web-nutrient-cycling]] for how biology makes nutrients available

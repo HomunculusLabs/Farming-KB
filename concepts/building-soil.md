@@ -22,14 +22,14 @@ feeds plants without external inputs.
 In nature, soil fertility is maintained through a continuous cycle.
 Plants pull nutrients from the soil, animals eat the plants, and all
 dead material is broken down by [[cover-crops]] for detailed information on using living plants to
-build soil. Cover crops are grown specifically to be turned into the
-soil, adding organic matter and nitrogen while protecting bare ground.
+build soil. [[gaias-garden-cover-crops-soil-building]] are grown specifically to be turned into the
+soil, adding [[savory-soil-organic-matter-and-decomposition-dynamics]] nitrogen while protecting bare ground.
 
 ## Sheet Mulching
 
 Sheet mulching (also called lasagna gardening) is a no-till method of
 building soil and suppressing weeds. Layers of newspaper or cardboard,
-compost, and organic matter are stacked directly on top of existing
+compost, [[hamilton-composting-and-organic-matter-management]] are stacked directly on top of existing
 vegetation, creating a rich planting bed without digging. See
 [[hugelkultur]] for detailed guidance.
 
@@ -37,9 +37,9 @@ vegetation, creating a rich planting bed without digging. See
 
 Building soil is not just about gardening; it's about climate. Soil
 organic matter is roughly 58% carbon by weight. Every 1% increase in
-soil organic matter across an acre of land sequesters approximately
+[[query-what-are-the-best-ways-to-increase-soil-organic-matter-quickly]] across an acre of land sequesters approximately
 20,000 pounds of carbon from the atmosphere. By building soil, gardeners
-can meaningfully contribute to carbon sequestration while improving
+can meaningfully [[query-how-do-fungi-contribute-to-carbon-sequestration]] sequestration while improving
 their garden's productivity and resilience.
 
 ## Practical Tips
@@ -55,7 +55,7 @@ their garden's productivity and resilience.
 - A 2-inch layer of compost applied annually will transform any soil
   over several years, adding nutrients, improving structure, and
   boosting the soil food web
-- Worm castings and compost tea are excellent soil amendments that
+- Worm castings and [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]] are excellent soil amendments that
   introduce beneficial microorganisms quickly
 
 ## See Also
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

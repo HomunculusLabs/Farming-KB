@@ -12,7 +12,7 @@ sources:
 
 # Geoffrey M. Gadd
 
-British mycologist, professor at the University of Dundee, and leading researcher on fungal interactions with metals, minerals, and the environment. Gadd is one of the most cited researchers in geomycology — the study of fungal interactions with geological substrates.
+British mycologist, professor at the University of Dundee, and leading researcher on [[singh-fungal-interactions-with-heavy-metals-in-soil]] with metals, minerals, and the environment. Gadd is one of the most cited researchers in geomycology — the study of fungal interactions with geological substrates.
 
 ## Key Research Areas
 
@@ -30,22 +30,22 @@ Gadd's pioneering research demonstrated that fungi can transform, mobilize, and 
 
 - **Uranium immobilization**: Demonstrated that fungi can immobilize soluble uranium as insoluble phosphate minerals, potentially reducing groundwater contamination at contaminated sites
 - **Cadmium and lead**: Fungal accumulation of toxic heavy metals from contaminated soils
-- **Rock weathering**: Organic acid production solubilizes rock-forming minerals, contributing to soil formation and [[soil-food-web-nutrient-cycling]]
+- **[[dighton-fungal-rock-weathering-mineral-dissolution]]**: Organic acid production solubilizes rock-forming minerals, contributing to soil formation and [[soil-food-web-nutrient-cycling]]
 
 ### Bioremediation Applications
 
-Gadd's research on fungal-metal interactions has direct applications to [[mycoremediation-basics]] of contaminated sites. His work bridges pure mycology and environmental engineering, showing how fungal metabolism can be harnessed for pollution cleanup. See [[fungal-remediation-decision-tree]] for contaminant-species matching.
+Gadd's research on fungal-metal interactions has direct applications to [[mycoremediation-basics]] of contaminated sites. His work bridges pure mycology and environmental engineering, showing how [[singh-fungal-metabolism-pahs]] can be harnessed for pollution cleanup. See [[fungal-remediation-decision-tree]] for contaminant-species matching.
 
 ### Fungal Ecology
 
-Co-editor of *Fungi in the Environment* (with [[sarah-c-watkinson]] and Paul S. Dyer), a comprehensive reference covering fungal contributions to decomposition, nutrient cycling, plant symbioses, and environmental interactions. See also [[john-dighton]]'s complementary *Fungi in Ecosystem Processes*.
+Co-editor of *Fungi in the Environment* (with [[sarah-c-watkinson]] and Paul S. Dyer), a comprehensive reference covering fungal contributions to decomposition, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], plant symbioses, and environmental interactions. See also [[john-dighton]]'s complementary *Fungi in [[fungal-ecosystem-processes-overview]]*.
 
 ## Academic Career
 
 - Professor and head of mycology research at the University of Dundee
 - Published extensively in leading mycological and environmental journals
 - His work is cited throughout the [[mycoremediation-basics]] and [[soil-food-web-nutrient-cycling]] literature
-- Contributed to Singh's comprehensive volume on fungal bioremediation
+- Contributed to Singh's comprehensive volume on [[staycare-composting-as-a-fungal-bioremediation-strategy]]
 - Established geomycology as a recognized subdiscipline
 
 ## Legacy
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

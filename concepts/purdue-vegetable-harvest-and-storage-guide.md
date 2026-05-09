@@ -1,5 +1,5 @@
 ---
-title: Purdue Vegetable Harvest and Storage Guide
+title: Purdue Vegetable vegetable-harvest-and-storage-guide Guide
 created: 2026-04-28
 tags:
   - vegetable-harvest
@@ -21,7 +21,7 @@ A [[vegetable-storage-conditions-by-temperature-and-humidity]] category. Based o
 
 ## Storage Categories Overview
 
-Vegetables are grouped into four storage categories based on their temperature and humidity requirements:
+Vegetables are grouped into four storage categories based on their [[greg-green-temperature-and-humidity-control]] requirements:
 
 | Category | Temperature | Relative Humidity |
 |----------|------------|-------------------|
@@ -97,7 +97,7 @@ Vegetables are grouped into four storage categories based on their temperature a
 
 **Rhubarb:** Harvest leaf stalks when 1/2 to 1 inch in diameter. Do not use the leafy blades (they contain oxalic acid). Store in perforated plastic bags for up to 3 weeks in the refrigerator. Freeze surplus.
 
-**Sweet Corn:** Harvest when kernels are plump, tender, and exude milky juice when pressed. Silks should be dry. Husk to conserve space, store in plastic bags in refrigerator. Freeze or can surplus.
+**[[growing-sweet-corn-organically]]:** Harvest when kernels are plump, tender, and exude milky juice when pressed. Silks should be dry. Husk to conserve space, store in plastic bags in refrigerator. Freeze or can surplus.
 
 **Lima Beans:** Harvest when pods have filled. For tender limas, harvest slightly immature. Shelled limas store about 1 week in perforated plastic bags in the refrigerator.
 

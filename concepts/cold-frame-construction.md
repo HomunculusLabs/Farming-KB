@@ -1,5 +1,5 @@
 ---
-title: Cold Frame Construction
+title: comparison-cold-frame-gardening-vs-container-gardening-guide Construction
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 # Cold Frame Construction
 
-A cold frame is a bottomless box with a transparent lid, used to extend the growing season by protecting plants from frost and wind. It acts as a miniature greenhouse, capturing solar heat while allowing light through.
+A cold frame is a bottomless box with a transparent lid, used to [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season by protecting plants from frost and wind. It acts as a miniature greenhouse, capturing solar heat while allowing light through.
 
 ## Construction
 
@@ -43,7 +43,7 @@ A cold frame is a bottomless box with a transparent lid, used to extend the grow
 | Season | Use |
 |---|---|
 | Late winter | Start seedlings 4-6 weeks early |
-| Early spring | Harden off indoor-started plants |
+| [[coleman-overwintered-onions-and-early-spring-crops]] | Harden off indoor-started plants |
 | Autumn | Extend harvest of lettuce, greens, radishes |
 | Winter | Overwinter hardy crops (parsley, leeks, spinach) |
 
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -20,12 +20,13 @@ tags:
 - lighting
 
 sources:
-- raw/papers/one-straw-revolution-masanobu-fukuoka.md
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # The One-Straw Revolution — Book Guide
 
-*The One-Straw Revolution* (1975, 1978 English) by Masanobu Fukuoka is the foundational text of natural farming. Originally published in Japanese as *Ichi-mugi no Kakumei*, it was translated into 25+ languages and became one of the most influential books on sustainable agriculture. It is part philosophy, part memoir, part farming manual — structured as five "books" told through conversations with visitors at his hilltop orchard.
+*The One-Straw Revolution* (1975, 1978 English) by Masanobu Fukuoka is the foundational text of [[comparison-natural-farming-vs-permaculture]]. Originally published in Japanese as *Ichi-mugi no Kakumei*, it was translated into 25+ languages and became one of the most influential books on sustainable agriculture. It is part philosophy, part memoir, part farming manual — structured as five "books" told through conversations with visitors at his hilltop orchard.
 
 ## Book I: Look At This Grain
 
@@ -54,13 +55,13 @@ He felt "true nature" revealed. A night heron appeared, cried, and flew away. He
 
 He returned to his father's citrus farm, moved to a mountain hut, and began "do-nothing" farming in 1938. His first orchard was a disaster — his father had already pruned the trees to "sake cup shape"; when Fukuoka abandoned them, branches tangled, insects attacked, and the entire orchard withered: "This is abandonment, not natural farming."
 
-He spent 8 years at the Kochi Prefecture Testing Station as Head Researcher of Disease and Insect Control, pondering scientific vs. natural agriculture while managing wartime food production.
+He spent 8 years at the Kochi Prefecture [[fukuoka-straw-scattering-testing-station-resistance]] as Head Researcher of Disease and Insect Control, pondering scientific vs. natural agriculture while managing wartime food production.
 
 ## Book II: Four Principles of Natural Farming
 
 ### The Balanced Ecosystem
 
-Fukuoka walks visitors through his fields: dragonflies, moths, honeybees, spiders, frogs, lizards, moles, earthworms — "a balanced rice field ecosystem." Contrast with the neighbor's field: weeds wiped out by herbicides, soil animals exterminated by poison, soil burned clean of organic matter by chemical fertilizers. "These rice fields, farmed continuously for over 1,500 years, have now been laid waste by the exploitive farming practices of a single generation."
+Fukuoka walks visitors through his fields: dragonflies, moths, honeybees, spiders, frogs, lizards, moles, earthworms — "a balanced rice field ecosystem." Contrast with the neighbor's field: weeds wiped out by herbicides, soil animals exterminated by poison, soil burned clean of organic matter by [[cervantes-chemical-fertilizers-guide]]. "These rice fields, farmed continuously for over 1,500 years, have now been laid waste by the exploitive farming practices of a single generation."
 
 ### The Four Principles
 
@@ -91,7 +92,7 @@ He developed an old variety of glutinous rice from the south: each seed produces
 
 ### Orchard Trees
 
-Started with 1.75 acres of citrus and 3/8 acre of rice fields, expanded to 12.5 acres by taking over abandoned hillsides. Used Morishima acacia (black wattle) as windbreak, nitrogen fixer, and insect predator habitat. Aphids on acacia feed ladybugs, which then descend to citrus trees to eat mites, arrowhead scales, and cottony-cushion scales.
+Started with 1.75 acres of citrus and 3/8 acre of rice fields, expanded to 12.5 acres by taking over abandoned hillsides. Used [[fukuoka-morishima-acacia-orchard-integration]] (black wattle) as windbreak, nitrogen fixer, and insect predator habitat. Aphids on acacia feed ladybugs, which then descend to citrus trees to eat mites, arrowhead scales, and cottony-cushion scales.
 
 Surface soil: "hard red clay, so hard you could not stick a shovel into it" became "loose, dark coloured, and rich with earthworms and organic matter" over 25 years through clover, alfalfa, and daikon radish cover.
 
@@ -117,7 +118,7 @@ Key evidence: his stem borer experiment at Kochi showed the untreated field with
 
 ### Pollution and Food Quality
 
-Fukuoka attended a pollution conference organized by the Agricultural Management Research Centre and the Organic Agricultural Council. When he proposed ending chemical use in farming, the chairman shut him down: "Mr. Fukuoka, you are upsetting the conference." He argues the root cause is systemic — "the Co-ops and the modern agricultural policy-makers depend on large capital investment in fertilizer and agricultural machinery for their base of power."
+Fukuoka attended a [[fukuoka-pollution-conference-modest-solution]] organized by the Agricultural Management Research Centre and the Organic Agricultural Council. When he proposed ending chemical use in farming, the chairman shut him down: "Mr. Fukuoka, you are upsetting the conference." He argues the root cause is systemic — "the Co-ops and the modern agricultural policy-makers depend on large capital investment in fertilizer and agricultural machinery for their base of power."
 
 ### The Fruit Processing Chain
 
@@ -127,7 +128,7 @@ From tree to market: 5-6 chemicals applied (fertilizers, sprays during growth, c
 
 ### Natural Diet Philosophy
 
-Distinguishes between discriminating knowledge (analytic, wilful intellect) and non-discriminating knowledge (accepting experience as it is). "Nature as grasped by scientific knowledge is a nature that has been destroyed; it is a ghost possessing a skeleton, but no soul."
+Distinguishes between [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]] (analytic, wilful intellect) and non-discriminating knowledge (accepting experience as it is). "Nature as grasped by scientific knowledge is a nature that has been destroyed; it is a ghost possessing a skeleton, but no soul."
 
 ### Nature's Food Mandala
 
@@ -138,22 +139,6 @@ Fukuoka's food mandala maps seasonal eating: seven herbs in early spring, mounta
 ### Life at the Orchard
 
 Young people from cities, researchers, students, poets, wanderers gathered at the mud-walled huts. "Many people come, thinking they will find a utopia where one can live without ever having to get out of bed. These people are in for a big surprise. Hauling water from the spring in the early morning fog, splitting firewood until their hands are red and stinging with blisters."
-
-### Philosophy of Non-Understanding
-
-"People study because they think they do not understand, but studying is not going to help one to understand. They study hard only to find out in the end that people cannot know anything." The path: abandon discriminating knowledge, and "non-discriminating knowledge of itself arises within him."
-
-"The more people do, the more society develops, and the more problems arise. The increasing desolation of nature, the exhaustion of resources, the uneasiness and disintegration of the human spirit, all have been brought about by humanity's trying to accomplish something."
-
-## Key Quotes
-
-"The ultimate goal of farming is not the growing of crops, but the cultivation and perfection of human beings."
-
-"If you throw away the concept of 'nature' and 'natural farming' and just do what comes naturally, you will be on the right path."
-
-"The only road for man is to do nothing. If everyone were to do nothing, the world would become a place of peace and plenty."
-
-"Rain does not fall from the heavens; it issues forth from the ground. Deserts do not form because there is no rain; rather, rain ceases to fall because the vegetation has disappeared."
 
 ## See Also
 

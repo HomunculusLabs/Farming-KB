@@ -22,12 +22,12 @@ the primary agents responsible for breaking down complex organic materials
 that bacteria cannot process efficiently. While bacteria excel at decomposing
 simple sugars and proteins, fungi are uniquely equipped to decompose the tough,
 recalcitrant compounds that make up the bulk of plant litter: lignin, cellulose,
-hemicellulose, and waxes. Understanding fungal decomposition is essential to
+hemicellulose, and waxes. Understanding [[dighton-fungal-decomposition-leaf-litter-dynamics]] is essential to
 understanding how nutrients cycle through the soil food web.
 
 ## Saprophytic Fungi: The Primary Decomposers
 
-Saprophytic fungi obtain their nutrients from dead organic matter. They secrete
+Saprophytic fungi obtain their nutrients from dead [[hamilton-composting-and-organic-matter-management]]. They secrete
 a battery of extracellular enzymes that break down complex polymers into
 smaller molecules that can be absorbed across hyphal membranes. This external
 digestion strategy allows fungi to decompose materials that are too large or
@@ -49,9 +49,9 @@ most resistant to biological decomposition. It is a complex, cross-linked
 phenolic polymer that provides structural rigidity to plant cell walls.
 Bacteria decompose very little lignin; this task falls almost entirely to
 fungi, particularly white-rot basidiomycetes. These fungi produce lignin
-peroxidase, manganese peroxidase, and laccase, enzymes that break the
+peroxidase, [[fungal-manganese-peroxidase-remediation]], and laccase, enzymes that break the
 phenolic bonds in lignin molecules. Brown-rot fungi use a different strategy,
-involving Fenton chemistry to depolymerize cellulose while partially modifying
+involving [[bioremediation-fenton-chemistry-brown-rot-fungi]] to depolymerize cellulose while partially modifying
 lignin.
 
 Cellulose, the most abundant organic polymer in plant material, is decomposed
@@ -60,7 +60,7 @@ cellulose decomposition in soil environments because their hyphae can
 penetrate plant tissue more effectively than individual bacterial cells.
 Fungi produce cellulase enzyme complexes that hydrolyze cellulose into glucose
 subunits. The ability to decompose both lignin and cellulose makes fungi
-indispensable for the breakdown of woody debris, leaf litter, and other
+indispensable for the breakdown of [[fungal-succession-woody-debris-ecology]], leaf litter, and other
 recalcitrant organic materials.
 
 ## Fungal Biomass in Soil
@@ -77,7 +77,7 @@ more stable forms of soil organic matter that persist for longer periods.
 ## Fungal to Bacterial Ratios
 
 The ratio of fungal to bacterial biomass is a key indicator of soil food web
-condition and has important implications for nutrient cycling dynamics:
+condition and has important implications for [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] dynamics:
 
 - **Bacterial-dominated soils** (F:B ratio less than 1) are characteristic
   of disturbed or early-successional ecosystems. These soils cycle nutrients

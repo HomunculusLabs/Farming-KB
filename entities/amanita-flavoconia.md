@@ -12,7 +12,7 @@ created: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Tulloss, R.E. & Yang, Z.L. (2021). \"Amanita — overview and taxonomic framework.\" MycoKeys, 81, 1–71."
-  - "Lincoff, G.H. (1981). National Audubon Society Field Guide to North American Mushrooms. Knopf."
+  - "Lincoff, G.H. (1981). National Audubon Society Field Guide to [[growing-gourmet-north-american-reishi-species]] Mushrooms. Knopf."
   - "Miller, O.K. & Miller, H.H. (2006). North American Mushrooms: A Field Guide to Edible and Inedible Fungi. FalconGuide."
   - "Ammirati, J.F. et al. (1985). \"The genus Amanita in North America.\" Mycotaxon, 22, 495–540."
 ---
@@ -21,9 +21,9 @@ sources:
 
 ## Overview
 
-*Amanita flavoconia*, commonly known as the yellow patches, yellow wart, or American yellow-dust amanita, is a mycorrhizal mushroom in the family Amanitaceae.
+*Amanita flavoconia*, commonly known as the yellow patches, yellow wart, or American yellow-dust amanita, is a [[mycelium-running-mycorrhizal-mushroom-gardens]] in the family Amanitaceae.
 
-It is widespread in eastern North American hardwood and mixed forests, fruiting from early summer through autumn. The species is recognized by its bright orange-yellow cap covered with characteristic yellow warts (remnants of the universal veil).
+It is widespread in [[polypore-fungi-eastern-north-america]] American hardwood and mixed forests, fruiting from early summer through autumn. The species is recognized by its bright orange-yellow cap covered with characteristic yellow warts (remnants of the universal veil).
 
 *Amanita flavoconia* is toxic and should not be consumed. It contains ibotenic acid and muscimol, the same primary toxins found in *A. muscaria*, though typically in lower concentrations.
 
@@ -91,7 +91,7 @@ Prefers well-drained, acidic soils in mature forests with rich organic duff laye
 
 ## Toxicity and Chemistry
 
-*Amanita flavoconia* contains ibotenic acid and muscimol as its primary bioactive compounds, the same isoxazole alkaloids found in *A. muscaria*.
+*Amanita flavoconia* contains ibotenic acid and muscimol as its primary [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]], the same isoxazole alkaloids found in *A. muscaria*.
 
 Ibotenic acid acts as a glutamate receptor agonist, while muscimol is a potent GABA-A receptor agonist responsible for the characteristic sedative and dissociative effects.
 
@@ -103,9 +103,9 @@ No fatalities have been documented from *A. flavoconia* ingestion, unlike the le
 
 ## Ecological Role
 
-As an ectomycorrhizal species, *A. flavoconia* plays an important role in forest nutrient cycling.
+As an ectomycorrhizal species, *A. flavoconia* plays an important role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
-It facilitates nutrient and water exchange with host tree roots, enhancing tree uptake of phosphorus and nitrogen from soil organic matter.
+It facilitates nutrient and water exchange with host tree roots, enhancing tree uptake of phosphorus and nitrogen from soil [[hamilton-composting-and-organic-matter-management]].
 
 The fungal mycelium extends the effective root zone of host trees, improving drought resilience and competitive ability.
 
@@ -128,4 +128,4 @@ The distinction between *A. flavoconia* and *A. frostiana* is one of the most co
 - [[amanita-phalloides]] — Death cap, contains lethal amatoxins
 - [[amanita-pantherina]] — Panther cap, another toxic European and North American species
 - [[muscimol-entity]] — Primary psychoactive compound in section *Amanita*
-- [[ibotenic-acid-entity]] — Excitotoxic glutamate agonist precursor to muscimol
+- ibotenic-acid-entity — Excitotoxic glutamate agonist precursor to muscimol

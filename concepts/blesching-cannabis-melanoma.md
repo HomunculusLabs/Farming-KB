@@ -55,7 +55,7 @@ cholesterol into vitamin D.
 
 Several studies have confirmed the anti-emetic benefits of cannabinoids on
 melanoma patients undergoing radiation treatment and chemotherapy. Case
-study reports of successful applications of extracted cannabis oil against
+study reports of successful applications of extracted [[cervantes-hash-cannabis-oil-production]] against
 melanoma exist, notably from the citizen experiments of Rick Simpson and
 reports by Cannabis Science, Inc. While scientific studies examining the
 efficacy of cannabis on melanoma are still limited, a study conducted by
@@ -104,7 +104,7 @@ obvious and subtle micro-expressions.
 - CB1 receptor modulation has been shown to induce apoptosis in human
   melanoma cells in laboratory studies
 - Case reports of successful topical cannabis oil treatments exist, though
-  rigorous clinical trials remain limited
+  rigorous [[mushroom-cancer-clinical-trials-overview]] remain limited
 - Sun exposure balance is critical: 10-15 minutes of unclothed sun before
   10 AM or after 3 PM, three times weekly, supports vitamin D synthesis
   and melanin-based photoprotection
@@ -115,4 +115,4 @@ obvious and subtle micro-expressions.
 
 - [[blesching-cannabis-dermatological-conditions]]
 - [[blesching-cannabis-immune-system-modulation]]
-- [[blesching-endocannabinoid-system-overview]]
+- [[endocannabinoid-system-overview]]

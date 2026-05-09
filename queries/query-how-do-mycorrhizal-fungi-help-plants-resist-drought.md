@@ -1,10 +1,11 @@
 ---
-title: "How Do Mycorrhizal Fungi Help Plants Resist Drought"
+title: "How Do arbuscular-mycorrhizal-fungi-biology-symbiosis Help Plants Resist Drought"
 created: 2026-04-28
 tags: [query, mycology, soil-science, plant-health, drought]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -23,17 +24,17 @@ layers of protection that work simultaneously.
 
 The most direct mechanism is physical access to water.
 [[mycorrhizal-drought-and-temperature-tolerance|mycorrhizal drought tolerance]] shows that colonized plants maintain higher leaf water
-potential and turgor pressure during water stress.
+potential and [[bloomfield-turgor-pressure-and-hyphal-invasion]] during water stress.
 
 Beyond direct water transport, mycorrhizal fungi fundamentally alter soil
-structure through the production of [[fungal-soil-aggregate-formation-glomalin|aggregates]] create a porous
+structure through the production of aggregates create a porous
 soil architecture that improves water infiltration and retention. Soils
 with healthy mycorrhizal populations hold significantly more
 plant-available water because the aggregate structure resists compaction
 and creates a network of macropores for water movement and micropores for
 water storage.
 
-Mycorrhizal colonization also triggers systemic changes in host plant
+[[arbuscular-mycorrhizal-colonization-patterns]] also triggers systemic changes in host plant
 physiology. Plants colonized by
 [[endophyte-mediated-plant-stress-tolerance|endophyte-mediated stress tolerance]], which shares overlapping mechanisms with mycorrhizal-induced
 protection.
@@ -43,8 +44,8 @@ appreciating how the entire soil ecosystem contributes to plant water
 resilience.
 
 From a practical perspective, growers can leverage this relationship by
-minimizing practices that damage mycorrhizal networks.
-[[glomalin|Glomalin production]] by mycorrhizal fungi improves soil
+minimizing practices that damage [[dighton-mycorrhizal-networks-carbon-transfer]].
+[[glomalin-and-soil-carbon|Glomalin production]] by mycorrhizal fungi improves soil
   aggregation, boosting water infiltration and retention capacity
 - Colonized plants show better stomatal regulation and osmotic
   adjustment during water stress
@@ -69,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

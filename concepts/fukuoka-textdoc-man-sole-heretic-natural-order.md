@@ -1,5 +1,5 @@
 ---
-title: Man as Sole Heretic in the Natural Order
+title: Man as fukuoka textdoc man sole heretic natural order in the fukuoka-textdoc-natural-order-food-chain-unity
 created: 2026-04-28
 tags:
   - fukuoka
@@ -21,7 +21,7 @@ type: concept
 
 # Man as Sole Heretic in the Natural Order
 
-Fukuoka identifies man as the single disruptor of an otherwise perfectly self-regulating natural order. While all other organisms participate harmoniously in cycles of production, consumption, and decomposition, man alone acts according to his own desires, breaking these cycles with practices that create pollution and cascading ecological damage throughout the biosystem.
+Fukuoka identifies man as the single disruptor of an otherwise perfectly self-regulating natural order. While all other organisms participate harmoniously in cycles of production, consumption, and [[decomposition]], man alone acts according to his own desires, breaking these cycles with practices that create pollution and cascading ecological damage throughout the biosystem.
 
 ## The Natural Order of Death and Renewal
 
@@ -41,9 +41,9 @@ They return the body to the biological cycles from which it came, without the in
 
 ## Nature's Waste Treatment Capacity
 
-Designs for the most advanced refuse processing plants are child's play compared with the infinitely elaborate methods of treating garbage used by nature. Human society almost has more than it can handle in just treating the garbage that issues from the kitchen, but nature works on a totally different scale.
+Designs for the most advanced [[fukuoka-textdoc-natures-refuse-processing-microbial-self-governance]] plants are child's play compared with the infinitely elaborate methods of treating garbage used by nature. Human society almost has more than it can handle in just treating the garbage that issues from the kitchen, but nature works on a totally different scale.
 
-The reproductive capacity of microorganisms illustrates nature's power. It takes from twenty minutes to an hour for one bacterium or yeast to divide and become two. Assuming multiplication to continue unchecked in the presence of food and suitable temperatures and humidity, after two or three days, a single bacterium such as Escherichia coli could leave a mass of progeny equivalent to the total mass of all living organisms on the face of the earth.
+The reproductive capacity of microorganisms illustrates nature's power. It takes from twenty minutes to an hour for one bacterium or yeast to divide and become two. Assuming multiplication to continue unchecked in the presence of food and suitable temperatures and humidity, after two or three days, a single bacterium such as Escherichia coli could leave a mass of progeny equivalent to the total mass of all [[savory-living-organisms-as-tools]] on the face of the earth.
 
 This means that if the self-governing mechanisms by which nature regulates and controls the reproductive power of one type of bacteria were to cease operating for just several days, the earth would become a morass of bacterial remains. The ability of the earth's organisms to multiply is far more powerful than people imagine. At the same time, their ability to destroy and dispose of organisms is also very great.
 
@@ -67,7 +67,7 @@ He goes ahead and uses pesticides because of their ability to destroy specific p
 
 Fukuoka's village is noted for its Karakawa loquats. Once, loquat blossoms began rotting and the village blamed cold weather, with farmers losing interest in growing loquats. Fukuoka identified the cause as botrytis disease and helped organize a spraying program that brought the organism under control.
 
-The loquats gradually came back, but one question remained unanswered: why had this outbreak occurred in the first place? His theory was that the outbreak was triggered by the sudden spraying of new pesticides following the war in an attempt to control citrus diseases.
+The loquats gradually came back, but one question remained unanswered: why had this outbreak occurred in the first place? His theory was that the outbreak was triggered by the sudden spraying of new pesticides following the war in an attempt to [[fukuoka-mite-scale-microclimate-control-citrus-orchard]] diseases.
 
 The causes were complex and interrelated:
 
@@ -110,7 +110,7 @@ Fukuoka traces humanity's departure from the natural order not to industrializat
 
 The farmer clears land, selects plants, controls water, and battles insects. In doing so, he removes himself from the cycle of mutual dependence that characterizes natural ecosystems. He becomes an outsider looking in, managing nature from the outside rather than participating in it from within.
 
-This is not to say that all agriculture is inherently destructive. Fukuoka's natural farming represents a way of growing food that minimizes human disruption. But the fundamental impulse of agriculture, to control nature for human benefit, is itself the source of the problem.
+This is not to say that all agriculture is inherently destructive. Fukuok [[comparison-natural-farming-vs-permaculture]] ming represents a way of growing food that minimizes human disruption. But the fundamental impulse of agriculture, to control nature for human benefit, is itself the source of the problem.
 
 ## The Illusion of Human Knowledge
 

@@ -13,7 +13,7 @@ type: concept
 
 In *Food of the Gods*, [[eleusinian-mysteries]], the theory
 that the sacred kykeon consumed by initiates at Eleusis was a beer
-brewed from grain infected with the ergot fungus *Claviceps purpurea*.
+brewed from grain infected with the ergot fungus *[[bloomfield-ergot-claviceps-purpurea-ergotism]]*.
 McKenna presents this theory, developed by R. Gordon Wasson, Albert
 Hofmann, and Carl Ruck, as bold and well-argued while also identifying
 significant unresolved questions.
@@ -38,14 +38,14 @@ strong vasoconstrictive effect.
 McKenna notes that the purple traditionally associated with the robe of
 Demeter may signify the distinctive purple color of the sclerotia, the
 ergot of commerce, which are purple and represent an asexual resting
-stage in the life cycle of the organism. Mycelium sprouts from the
+stage in the [[bloomfield-fungal-life-cycle-spiral-versus-circle]] of the organism. Mycelium sprouts from the
 sclerotia and aggregates to form spore-containing asci that do resemble
 tiny mushrooms, though they are light bluish rather than purple.
 
 ## The Wasson-Hofmann Argument
 
 Wasson and his colleagues argued that "ergot of barley is the likely
-psychotropic ingredient in the Eleusinian potion," noting its "seeming
+psychotropic ingredient in the [[albert-hofmann-eleusinian-potion-analysis]]," noting its "seeming
 symbiotic relationship to the barley." They saw grain and ergot as
 joined in a bisexual union, "bearing at the time of the maiden's loss
 already the potential for her own return and for the birth of the
@@ -62,7 +62,7 @@ Eleusis was, it was a tangible, portable substance.
 ## The Minoan Connection
 
 The theory that Eleusinian rites involved ergotized beer is consistent
-with the notion that they had historical roots in Minoan Crete. In 1900,
+with the notion that they had historical roots in [[mckenna-food-gods-minoan-crete-mushroom-religion]]. In 1900,
 Sir Arthur Evans, excavating near the palace of Knossos, unearthed
 vessels adorned with ears of barley in relief, leading him to assume
 that a kind of beer preceded wine on Crete. Carl Kerenyi believed that
@@ -84,7 +84,7 @@ Two clinical types of ergotism are described: the gangrenous form,
 beginning with tingling, vomiting, and diarrhea followed by dry gangrene
 of limbs; and the convulsive form, involving painful muscle spasms
 culminating in epileptic-like convulsions and delirium. McKenna asks
-the critical question: if the source of the Eleusinian Mystery was
+the critical question: if the source of the [[mckenna-eleusinian-mystery-and-psychedelic-sacrament]] was
 ergotized beer, how could it have been taken for so many centuries
 without unpleasant side effects becoming part of the legend?
 
@@ -111,7 +111,7 @@ speculation."
 McKenna presents the ergot theory and Graves's psilocybin theory as
 complementary rather than mutually exclusive. He suggests that if future
 research were to rule out ergot, then Graves's insistence that
-psilocybin mushrooms constituted the Mystery would need to be taken
+[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] constituted the Mystery would need to be taken
 very seriously. Both theories share the fundamental assumption that the
 Eleusinian experience was pharmacologically mediated, a premise that
 McKenna considers well-established by the accounts of initiates and the

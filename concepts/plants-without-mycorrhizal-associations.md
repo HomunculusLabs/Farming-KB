@@ -30,7 +30,7 @@ Plants that do not form mycorrhizae are the exceptions, but they are well-repres
 
 - **Amaranthaceae** — beets, spinach
 
-These plants usually have extensive and quick-growing specialized root systems that make the most of limited nutrients in poor soils such as sand. Their root strategies eliminate the need for fungal symbiosis.
+These plants usually have extensive and quick-growing specialized root systems that make the most of limited nutrients in poor soils such as sand. Their root strategies eliminate the need for [[gadd-beetle-gut-fungal-symbiosis-and-coevolution]].
 
 ## Root Adaptations of Non-Mycorrhizal Plants
 
@@ -38,7 +38,7 @@ These plants usually have extensive and quick-growing specialized root systems t
 
 Proteas (Proteaceae) and lupines (*Lupinus* spp.) have cluster roots—closely spaced lateral roots that are densely covered with root hairs. These roots form near the soil surface so they can feed in the duff layer.
 
-To obtain phosphorus without mycorrhizal fungi, cluster roots support large populations of phosphate-solubilizing bacteria in their rhizospheres. Their exudates are full of organic acids that decay organic matter, releasing nutrients that the roots can absorb directly.
+To obtain phosphorus without [[arbuscular-mycorrhizal-fungi-biology-symbiosis]], cluster roots support large populations of phosphate-solubilizing bacteria in their rhizospheres. Their exudates are full of organic acids that decay [[hamilton-composting-and-organic-matter-management]], releasing nutrients that the roots can absorb directly.
 
 ### Dauciform Roots
 
@@ -48,7 +48,7 @@ Some members of the Cyperaceae (sedges) have dauciform roots—swollen, carrot-s
 
 Capillaroid plants such as rushes (Restionaceae) form a mat of root clusters densely covered in long root hairs at the soil surface. These roots pump out large quantities of organic acid exudates to help them take up nutrients.
 
-Some sedges, rushes, and other monocots in Western Australia have sand-binding roots, in which sand literally sticks to and completely covers the roots. Scientists hypothesize that the attached sand enhances nutrient uptake, though the exact mechanism is still under study.
+Some sedges, rushes, and other monocots in Western Australia have sand-binding roots, in which sand literally sticks to and completely covers the roots. Scientists hypothesize that the attached sand enhances [[plant-nutrient-uptake-mechanisms]], though the exact mechanism is still under study.
 
 ### Carnivorous, Epiphytic, and Parasitic Strategies
 
@@ -56,7 +56,7 @@ Some non-mycorrhizal plants have developed carnivorous capabilities, obtaining n
 
 ## Multi-Mycorrhizal Plants
 
-Though most plants associate with only one type of mycorrhizal fungus, some can form associations with multiple types. See [[mycorrhizal-succession-primary-secondary]] for detailed treatment of succession dynamics.
+Though most plants associate with only one type of mycorrhizal fungus, some can form associations with multiple types. See mycorrhizal-succession-primary-secondary for detailed treatment of succession dynamics.
 
 Determining the succession of mycorrhizal fungi and plants in soil can be a chicken-or-egg situation: the type of mycorrhizal fungi present affects plant distribution and diversity, but plants may also control local fungal distribution by associating or failing to associate with particular species.
 
@@ -80,9 +80,9 @@ These fungal hyphae send out extensive hyphal mass, bringing back nutrients to h
 
 ### Temperate Grasslands
 
-In temperate grasslands with warmer temperatures, higher soil pH, and nitrates as the predominant form of nitrogen, arbuscular mycorrhizae prevail. The huge increase in surface area available from mycorrhizal networks enables host plants to meet their nutrient needs. See [[non-mycorrhizal-plants]]
+In temperate grasslands with warmer temperatures, higher soil pH, and nitrates as the predominant form of nitrogen, arbuscular mycorrhizae prevail. The huge increase in surface area available from [[dighton-mycorrhizal-networks-carbon-transfer]] enables host plants to meet their nutrient needs. See [[non-mycorrhizal-plants]]
 
-- [[mycorrhizal-succession-primary-secondary]]
+- mycorrhizal-succession-primary-secondary
 
 - [[ectomycorrhizae-forest-life]]
 

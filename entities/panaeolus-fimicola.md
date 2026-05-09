@@ -11,14 +11,14 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  sources: []
 ---
 
 # Panaeolus fimicola
 
 **Panaeolus fimicola**, commonly known as the **dung mottlegill**, is a small mushroom in
 the family Bolbitiaceae found worldwide on dung and enriched soils. While primarily
-known as a common and widespread non-psychoactive species, chemical analysis has revealed
+known as a common and widespread non-psychoactive species, [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] has revealed
 low levels of psychoactive compounds in some collections, making it of interest in the
 study of tryptamine distribution among coprophilous fungi. The species epithet "fimicola"
 derives from Latin "fimus" (dung) and "cola" (inhabitant), directly describing its
@@ -90,7 +90,7 @@ The pileipellis is a cutis of narrow, parallel hyphae. Clamp connections are abs
 Panaeolus fimicola is one of the most cosmopolitan mushroom species:
 
 - **Europe:** Ubiquitous across the continent, from the Mediterranean to Scandinavia
-- **North America:** Widespread throughout the [[fungi-of-southeast-asia]]
+- **[[psilocybin-north-america-pacific-northwest]]:** Widespread throughout the fungi-of-southeast-asia
 - **Africa:** Widespread in tropical and subtropical regions
 - **Oceania:** Common in Australia and [[psilocybin]] and/or [[serotonin]] has been confirmed and is common among coprophilous fungi
 - Urea and other simple nitrogenous compounds have been detected
@@ -100,7 +100,7 @@ Panaeolus fimicola is one of the most cosmopolitan mushroom species:
 
 ## Ecological Role
 
-As a coprophilous saprotroph, P. fimicola plays an important role in nutrient cycling in
+As a coprophilous saprotroph, P. fimicola plays an important role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in
 grassland and pasture ecosystems. The species is among the primary decomposers of
 herbivore dung, breaking down undigested plant material and returning nutrients to the
 soil. P. fimicola is typically an early to mid-successional species, appearing shortly

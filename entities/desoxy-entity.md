@@ -10,7 +10,7 @@ sources:
 # DESOXY
 
 **Chemical name:** 3,5-Dimethoxy-4-methylphenethylamine
-**PiHKAL entry:** #52
+**[[2c-b-pihkal-entry-20]]:** #52
 
 ## Overview
 
@@ -80,4 +80,4 @@ The difference between DESOXY (2-carbon, 3,5-dimethoxy) and 2c-d-entity|2C-D (2-
 
 ## Significance
 
-DESOXY serves as a key data point in understanding the role of the alpha-methyl group in psychedelic phenethylamines. The fact that DOM (amphetamine) is roughly 10x more potent than DESOXY (phenethylamine) with similar substitution patterns demonstrates the pharmacological importance of this structural feature.
+DESOXY serves as a key data point in understanding the role of the alpha-methyl group in [[optical-isomers-psychedelic-phenethylamines]]. The fact that DOM (amphetamine) is roughly 10x more potent than DESOXY (phenethylamine) with similar substitution patterns demonstrates the pharmacological importance of this structural feature.

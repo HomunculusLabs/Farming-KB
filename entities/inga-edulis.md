@@ -11,8 +11,8 @@ type: entity
 # Inga edulis
 
 **Type:** Species
-**Category:** Evergreen nitrogen-fixing fruit tree
-**Also known as:** Ice cream bean, joaquiniquil, guaba
+**Category:** Evergreen nitrogen-fixing [[comparison-berry-growing-vs-fruit-tree-pruning]]
+**Also known as:** Ice [[ice-cream-bean-entity]], joaquiniquil, guaba
 
 ## Overview
 Inga edulis is an evergreen tree native to the neotropics of Central
@@ -45,9 +45,9 @@ producer, with over 400 species in the genus.
 
 ### Agricultural Uses
 - **Nurse crop:** Root associates fix atmospheric nitrogen
-- **Shade tree:** Used as shade for coffee and cacao plantations in
-  Central America and the West Indies
-- **[[permaculture]] systems, Inga edulis serves as a
+- **[[mollison-designers-legume-shade-tree-pasture-systems]]:** Used as shade for [[mollison-designers-shade-grown-coffee-and-cacao-systems]] plantations in
+  [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and the West Indies
+- **permaculture systems, Inga edulis serves as a
 multipurpose support tree that provides shade, fixes nitrogen, improves
 soil, and yields a sweet edible pulp, making it ideal for food forest
 overstory layers in tropical climates.
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,4 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+- [[catha-edulis]]

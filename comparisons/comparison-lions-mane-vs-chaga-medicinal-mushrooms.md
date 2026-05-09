@@ -1,5 +1,5 @@
 ---
-title: Lion's Mane vs Chaga — Medicinal Mushroom Comparison
+title: Lion's Mane vs Chaga — gourmet-medicinal-mushroom-casing-layer-techniques Comparison
 created: 2026-04-28
 tags: hericium-erinaceuss, mycology, inonotus-obliquusedicine]
 date: 2026-04-28
@@ -10,7 +10,7 @@ type: comparison
 
 # Lion's Mane vs Chaga — Medicinal Mushroom Comparison
 
-Lion's Mane (Hericium erinaceus) and Chaga (Inonotus obliquus) are two of the most popular functional mushrooms in the supplement world, yet they occupy completely different ecological niches and serve distinct therapeutic purposes. Lion's Mane is the brain mushroom — a wood decomposer prized for neuroprotective compounds. Chaga is the antioxidant powerhouse — a sterile conk that parasitizes living birch trees in frozen boreal forests. This comparison covers their biology, medicinal profiles, cultivation, and practical use.
+Lion's Mane (Hericium erinaceus) and Chaga ([[chaga-inonotus-obliquus-medicinal-profile]]) are two of the most popular functional mushrooms in the supplement world, yet they occupy completely different ecological niches and serve distinct therapeutic purposes. Lion's Mane is the brain mushroom — a wood decomposer prized for neuroprotective compounds. Chaga is the antioxidant powerhouse — a sterile conk that parasitizes living birch trees in frozen [[fungal-diversity-boreal-forests-taiga]]. This comparison covers their biology, medicinal profiles, cultivation, and practical use.
 
 ## Taxonomy and Biology
 
@@ -21,7 +21,7 @@ Lion's Mane (Hericium erinaceus) and Chaga (Inonotus obliquus) are two of the mo
 | **Growth form** | Fruiting body with cascading white spines | Sclerotium (dense sterile conk) |
 | **Ecological role** | Saprophytic wood decomposer | Parasitic on living birch; causes white heart rot |
 | **Habitat** | Dead/dying hardwoods (oak, beech, walnut) | Living birch trees in boreal forests |
-| **Geographic range** | North America, Europe, Asia (temperate) | Circumpolar boreal (Siberia, Scandinavia, Canada) |
+| **Geographic range** | [[psilocybin-north-america-pacific-northwest]], Europe, Asia (temperate) | Circumpolar boreal (Siberia, Scandinavia, Canada) |
 | **Appearance** | White cascading spines, resembles a waterfall | Black cracked exterior, golden corky interior |
 | **Harvested part** | Fruiting body and mycelium | Sclerotium mass (not a true fruiting body) |
 
@@ -36,7 +36,7 @@ The medicinal value of Lion's Mane centers on two classes of compounds that stim
 - **Erinacines** (especially erinacine A): found in the mycelium; stimulate NGF synthesis in astrocytes
 - **Hericenones** (especially hericenones C and D): found in the fruiting body; cross the blood-brain barrier and promote NGF production
 - **[[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]**: one of the highest ORAC scores of any food; combats oxidative stress systemically
-- **Immune modulation**: beta-glucans activate macrophages, NK cells, and cytokine production
+- **[[cancer-immune-modulation-mechanisms]]**: beta-glucans activate macrophages, NK cells, and cytokine production
 - **Anti-inflammatory**: reduces chronic inflammation through multiple pathways including NF-kB inhibition
 - **Anticancer potential**: betulinic acid and inotodiol show selective cytotoxicity against cancer cells in vitro; approved as anticancer drug (befungin) in Russia since 1955
 - **Antiviral activity**: betulinic acid and other compounds demonstrate activity against HSV, HIV, and influenza in vitro
@@ -54,7 +54,7 @@ See [[medicinal-mushroom-guide-chaga]] for details on sourcing and compound vari
 
 | Aspect | Lion's Mane | Chaga |
 |---|---|---|
-| **Traditional preparation** | Culinary (cooked as food), teas, tinctures | Hot water decoction (tea), traditionally simmered for hours |
+| **[[kava-traditional-preparation-ceremonial-context]]** | Culinary (cooked as food), teas, tinctures | Hot water decoction (tea), traditionally simmered for hours |
 | **Modern forms** | Capsules, dual extracts, powders, tinctures | Capsules, dual extracts, chunks for tea, coffee substitutes |
 | **Extraction** | Dual extraction (hot water + alcohol) captures both beta-glucans and terpenes | Dual extraction preferred; hot water for polysaccharides, alcohol for triterpenes and betulin |
 | **Typical dose** | 500-3000 mg/day of fruiting body extract | 1000-2000 mg/day of dual extract or 1-2 cups of tea from chunks |
@@ -81,4 +81,4 @@ Many practitioners combine both — Lion's Mane in the morning for cognitive foc
 
 Sustainability is a critical differentiator between these two mushrooms:
 
-**Lion's Mane** has a low sustainability footprint. It can be cultivated on [[comparison-lions-mane-vs-reishi-medicinal-mushrooms]]
+**Lion's Mane** has a low sustainability footprint. It can be cultivated on comparison-lions-mane-vs-reishi-medicinal-mushrooms

@@ -11,13 +11,13 @@ type: entity
 # Glomus intraradices
 
 **Type:** Species (Fungus)
-**Category:** Arbuscular Mycorrhizal Fungus (Glomeromycota)
+**Category:** [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] Fungus (Glomeromycota)
 **Also known as:** Rhizophagus irregularis (current name), Glomus
   intraradices Schenck and Smith
 
 ## Overview
 Glomus intraradices (now reclassified as Rhizophagus irregularis) is one of
-the most widespread and well-studied arbuscular mycorrhizal fungi (AMF). It
+the most widespread and well-studied arbuscular [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] (AMF). It
 forms symbiotic associations with the vast majority of terrestrial plants,
 enhancing nutrient uptake and providing protection against pathogens. It is
 widely used in commercial mycorrhizal inoculant products.
@@ -41,7 +41,7 @@ the ecological and agricultural literature.
 - Identification is based on spore morphology: spores are hyaline to
   yellow, globose, 80 to 200 micrometers in diameter
 - Forms arbuscules (tree-like branching structures) within root
-  cortical cells for nutrient exchange
+  cortical cells for [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]
 - May also form vesicles (swollen hyphal storage structures) in some
   cortical cells
 - Produces an extensive network of extraradical hyphae in soil
@@ -68,7 +68,7 @@ the ecological and agricultural literature.
 - Inoculation of cotton (Gossypium) with G. intraradices alongside
   G. hoi and G. versiforme significantly reduced wilt disease caused
   by Verticillium dahliae (Lui, 1995)
-- Reduced incidence of root fungal pathogens when used as inoculant
+- Reduced incidence of root [[bloomfield-fungal-pathogens-and-parasites]] when used as inoculant
 - Mechanism involves both enhanced plant nutrition and direct
   antagonism against pathogens
 
@@ -91,8 +91,8 @@ Glomus intraradices is arguably the most important mycorrhizal fungus in
 agriculture and horticulture. Commercial inoculants containing this species
 are widely available and used to improve crop yields, reduce fertilizer
 requirements, and enhance plant disease resistance. In permaculture and
-organic farming, it represents a cornerstone of soil health management,
-reducing the need for synthetic inputs while improving nutrient cycling.
+[[coleman-deep-organic-farming-philosophy]], it represents a cornerstone of soil health management,
+reducing the need for synthetic inputs while improving [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 ## See Also
 

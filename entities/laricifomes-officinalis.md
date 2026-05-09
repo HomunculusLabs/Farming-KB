@@ -4,7 +4,7 @@ created: 2026-05-02
 updated: 2026-05-02
 type: entity
 tags: [species, fungus, basidiomycete, polypore, brown-rot, medicinal, old-growth, endangered, antiviral]
-sources: ["Dioscorides De Materia Medica ~70 AD", "Stamets Mycelium Running 2005", "NIH/USAMRIID Biodefense BioShield Program 2005-2010", "Knutson & Siegel 2013", "Overh. 1939"]
+sources: ["Dioscorides De Materia Medica ~70 AD", "Stamets woodlovers-mycelium-running-pathway-technique 2005", "NIH/USAMRIID Biodefense BioShield Program 2005-2010", "Knutson & Siegel 2013", "Overh. 1939"]
 aliases: [Agarikon, agaric, Fomitopsis officinalis, Fomes officinalis, larch bracket, quinine conk]
 ---
 
@@ -12,7 +12,7 @@ aliases: [Agarikon, agaric, Fomitopsis officinalis, Fomes officinalis, larch bra
 
 **Type:** Species (Fungus — Basidiomycete, Polypore)
 
-**Category:** Brown-rot polypore, medicinal mushroom, old-growth forest obligate
+**Category:** Brown-rot polypore, [[gourmet-medicinal-mushroom-casing-layer-techniques]], old-growth forest obligate
 
 **Family:** Fomitopsidaceae
 
@@ -20,7 +20,7 @@ aliases: [Agarikon, agaric, Fomitopsis officinalis, Fomes officinalis, larch bra
 
 ## Overview
 
-Laricifomes officinalis is a rare, long-lived perennial polypore mushroom and the sole species in the monotypic genus *Laricifomes*. It is one of the most historically significant medicinal mushrooms in Western civilization, documented by Dioscorides in the first century AD as "agaricum," a remedy for consumption (tuberculosis) and intestinal parasites. The species epithet *officinalis* reflects its centuries-long inclusion in European pharmacopoeias. Modern research, particularly by Paul Stamets in collaboration with the NIH and USAMRIID, has revealed potent antiviral activity against poxviruses, influenza, and herpes viruses, positioning agarikon as a subject of biodefense interest. The fungus is an obligate associate of old-growth conifer forests — primarily larch and Douglas-fir — and is considered one of the most endangered medicinal mushrooms in the world due to the loss of its habitat.
+Laricifomes officinalis is a rare, long-lived perennial polypore mushroom and the sole species in the monotypic genus *Laricifomes*. It is one of the most historically significant [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] in Western civilization, documented by Dioscorides in the first century AD as "agaricum," a remedy for consumption (tuberculosis) and intestinal parasites. The species epithet *officinalis* reflects its centuries-long inclusion in European pharmacopoeias. Modern research, particularly by Paul Stamets in collaboration with the NIH and USAMRIID, has revealed potent antiviral activity against poxviruses, influenza, and herpes viruses, positioning agarikon as a subject of biodefense interest. The fungus is an obligate associate of old-growth conifer forests — primarily larch and Douglas-fir — and is considered one of the most endangered medicinal mushrooms in the world due to the loss of its habitat.
 
 ## Taxonomic Classification
 
@@ -43,7 +43,7 @@ Laricifomes officinalis is a rare, long-lived perennial polypore mushroom and th
 - **Size:** 15–60 cm or more in length, 5–20 cm wide, 5–20 cm thick
 - **Surface:** White to cream when young, developing a grayish to tan or pale brown crust with age; deep longitudinal furrows and cracked, rough texture develop over decades
 - **Context (flesh):** Soft, chalky-white when young; becoming harder, corky, and zonate (concentric layered) with age
-- **Longevity:** Individual fruiting bodies persist for 20–75+ years, with some estimates approaching a century — among the longest-lived of all mushroom fruiting bodies
+- **Longevity:** Individual fruiting bodies persist for 20–75+ years, with some estimates approaching a century — among the longest-lived of all [[ectomycorrhizal-mushroom-fruiting-ecology]] bodies
 
 ### Pore Surface
 - White to cream when young, aging to pale yellowish or buff
@@ -73,7 +73,7 @@ Laricifomes officinalis is a rare, long-lived perennial polypore mushroom and th
 - Fruiting bodies emerge from bark cracks or old branch scars, often high on the trunk
 
 ### Geographic Distribution
-- **North America:** Pacific Northwest (southeast Alaska, British Columbia, Washington, Oregon, northern California); historically in Rocky Mountains (Idaho, Montana)
+- **[[psilocybin-north-america-pacific-northwest]]:** Pacific Northwest (southeast Alaska, British Columbia, Washington, Oregon, northern California); historically in Rocky Mountains (Idaho, Montana)
 - **Europe:** Alpine and subalpine regions of central and southern Europe (Switzerland, Austria, Italy, France, Germany, Poland, Carpathians, Balkans, Scandinavia)
 - **Asia:** Siberia, Russian Far East, Japan (rare)
 - Once widespread across its range but now rare to very rare throughout due to old-growth forest loss
@@ -85,7 +85,7 @@ Laricifomes officinalis is a rare, long-lived perennial polypore mushroom and th
 ## Historical Uses
 
 ### Classical Antiquity
-- Known to Dioscorides (c. 40–90 AD) as "​agaricum​" in *De Materia Medica*, prescribed for consumption, asthma, coughs, and intestinal worms
+- Known to Dioscorides (c. 40–90 AD) as "agaricum" in *De Materia Medica*, prescribed for consumption, asthma, coughs, and intestinal worms
 - The name derives from the Agaria people of Sarmatia (modern Georgia/Russia), from whom the Greeks reportedly learned of its medicinal properties
 - Pliny the Elder also described it in *Naturalis Historia*; reportedly worth its weight in gold in antiquity
 
@@ -93,7 +93,7 @@ Laricifomes officinalis is a rare, long-lived perennial polypore mushroom and th
 - Remained in European pharmacopoeias continuously from antiquity through the 19th century
 - Listed in the London Pharmacopoeia (18th–19th centuries)
 - Used as a purgative, diaphoretic, and anti-tubercular agent
-- The bitter principle "​agaricin​" (also called laricic acid) was isolated in the 19th century and became a standard pharmaceutical
+- The bitter principle "agaricin" (also called laricic acid) was isolated in the 19th century and became a standard pharmaceutical
 
 ### Indigenous Uses (Pacific Northwest)
 - Used by Tlingit, Haida, Tsimshian, and other Northwest Coast peoples for respiratory ailments and wound treatment
@@ -114,7 +114,7 @@ Laricifomes officinalis is a rare, long-lived perennial polypore mushroom and th
 - The antiviral compounds appear to be novel — not previously described antivirals
 - Multiple distinct compounds from different chemical fractions show activity, suggesting a diverse antiviral arsenal
 - As of 2024, no agarikon-derived drug has reached clinical trials
-- See [[stamets-antimicrobial-mushroom-charts]] for details
+- See stamets-antimicrobial-mushroom-charts for details
 
 ### Antimicrobial and Immunomodulatory Properties
 - Cold-water mycelial extracts showed strong antibacterial activity against *E. coli* and *Staphylococcus aureus* in Stamets’ experiments
@@ -132,7 +132,7 @@ Laricifomes officinalis is a rare, long-lived perennial polypore mushroom and th
 | β-glucans | Polysaccharide | Immunomodulatory, potential antitumor |
 | Antiviral phenolics | Phenolics (novel) | Active against poxviruses, influenza, herpes; under active investigation |
 
-The full complement of bioactive compounds is not yet fully characterized. Chemical profiles vary significantly depending on host tree species, geography, and age of the fruiting body.
+The full complement of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] is not yet fully characterized. Chemical profiles vary significantly depending on host tree species, geography, and age of the fruiting body.
 
 ## Conservation Status
 
@@ -143,6 +143,7 @@ The full complement of bioactive compounds is not yet fully characterized. Chemi
 - In the U.S. Pacific Northwest, it is a Survey and Manage species under the Northwest Forest Plan
 - Paul Stamets has called it “the most endangered medicinal mushroom in North America”
 - Its extremely slow growth rate (decades to produce fruiting bodies) makes population recovery very slow after disturbance
-- See [[mycelium-running-conservation-biology-and-fungi]]
-
-## Cultivation
+## See Also
+- [[pseudotsuga-menziesii]]
+- [[medicinal-mushrooms]]
+- [[larix-decidua]]

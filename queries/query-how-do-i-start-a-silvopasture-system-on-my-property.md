@@ -1,14 +1,14 @@
 ---
-title: How Do I Start a Silvopasture System on My Property?
+title: How Do I Start a silvopasture System on My Property?
 created: 2026-04-28
 tags:
   - silvopasture
   - getting-started
-  - agroforestry
+  - [[agroforestry]]
   - pasture
   - livestock
   - trees
-  - permaculture
+  - [[permaculture]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -28,7 +28,7 @@ Starting a silvopasture system means intentionally integrating trees, forage, an
 
 Before planting anything, evaluate these key factors:
 **Soils**
-- Get a soil test from your county extension office (pH, N-P-K, organic matter, CEC).
+- Get a soil test from your county extension office (pH, N-P-K, [[hamilton-composting-and-organic-matter-management]], CEC).
 - Silvopasture works on a wide range of soils, but drainage matters. Avoid poorly drained sites for most tree species.
 - Sandy loams are ideal. Heavy clay can work with appropriate species selection (black locust, honey locust, osage orange).
 - Compaction from previous grazing reduces tree survival. Plan to rest the site or use keyline plowing before planting.
@@ -45,8 +45,8 @@ Before planting anything, evaluate these key factors:
 
 **Climate and hardiness**
 - Check your USDA hardiness zone. This determines tree and forage species selection.
-- Consider prevailing wind direction for row orientation and windbreak design.
-- Evaluate frost dates, growing season length, and seasonal rainfall patterns.
+- Consider prevailing wind direction for row orientation and [[comparison-windbreak-design-vs-species-selection]].
+- Evaluate frost dates, [[savory-growing-season-and-non-growing-season-management]] length, and seasonal rainfall patterns.
 
 ### Step 2: Define Your Goals
 
@@ -57,7 +57,7 @@ Be specific about what you want from the system. Common goals include:
 | Timber production | High-value timber species (walnut, oak, pine) with 25–40 year rotation | Long-term investment |
 | Nut/fruit production | Chestnut, pecan, persimmon, apple, mulberry | 5–10 years to first significant harvest |
 | Improved animal performance | Any tree providing summer shade; design for maximum forage production | 1–2 years for grazing benefits |
-| Carbon sequestration | Fast-growing species at moderate density; maintain ground cover | Immediate (soil) + long-term (biomass) |
+| [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] | Fast-growing species at moderate density; maintain ground cover | Immediate (soil) + long-term (biomass) |
 | Diversified income | Mixed species system with multiple products | Varies by component |
 Most beginners succeed by starting with a primary goal and one or two secondary goals.
 
@@ -73,9 +73,9 @@ Most beginners succeed by starting with a primary goal and one or two secondary 
 **For subtropical climates (USDA Zones 8–11):**
 | Purpose | Trees | Forages | Livestock |
 |---|---|---|---|
-| Shade + fodder | Leucaena, gliricidia, moringa | Bermuda, bahiagrass, rhizoma peanut | Cattle, goats |
+| Shade + fodder | Leucaena, gliricidia, [[moringa]] | Bermuda, bahiagrass, rhizoma peanut | Cattle, goats |
 | Integrated orchard | Pecan, citrus, avocado | Stargrass, limpograss, aeschynomene | Cattle |
-| Coconut integration | Coconut palm | Brachiaria, guinea grass | Cattle, carabao |
+| Coconut integration | [[mollison-coconut-palm-polyculture-systems]] | Brachiaria, guinea grass | Cattle, carabao |
 
 ### Step 4: Design the Layout
 
@@ -134,7 +134,7 @@ Most beginners succeed by starting with a primary goal and one or two secondary 
 |---|---|---|
 | Establishment | Years 1–2 | No livestock near trees. Mow alleys for forage management. |
 | Light introduction | Years 2–3 | Introduce livestock for short grazing periods (1–3 days per paddock). Monitor tree damage closely. |
-| Increasing stocking | Years 3–5 | Extend grazing periods. Begin rotational grazing. Stock at 50–70% of normal pasture rates. |
+| Increasing stocking | Years 3–5 | Extend grazing periods. Begin [[comparison-rotational-grazing-vs-continuous-grazing]]. Stock at 50–70% of normal pasture rates. |
 | Full production | Years 5+ | Full rotational stocking. Adjust based on shade and forage productivity. |
 **Fencing for rotational grazing:**
 - Subdivide the silvopasture into 4–10 paddocks using temporary electric fencing (poly wire or poly tape with step-in posts).
@@ -144,4 +144,4 @@ Most beginners succeed by starting with a primary goal and one or two secondary 
 
 - [[query-how-do-i-start-a-small-scale-mushroom-farm-for-profit]]
 - [[query-how-to-start-growing-mushrooms-at-home]]
-- [[arid-zone-permaculture-strategies-mollison]]
+- arid-zone-permaculture-strategies-mollison

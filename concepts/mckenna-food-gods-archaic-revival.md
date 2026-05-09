@@ -1,5 +1,5 @@
 ---
-title: "The Archaic Revival and Future of Entheogenic Culture"
+title: "The mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained and Future of Entheogenic Culture"
 created: 2026-04-26
 aliases: [archaic revival, entheogenic future, legalization, green or die, Eden refound]
 tags: [mckenna, future, legalization, archaic revival, consciousness, shamanism]
@@ -10,7 +10,7 @@ updated: 2026-04-26
 
 # The [[weil-psychedelic-experience-set-and-setting]] upon which primordial shamanism is based is life trivialized, life denied, life enslaved to the ego and its fear of dissolution in the mysterious matrix of feeling that is all around us."
 
-McKenna argued that "an interrupted psychophysical symbiosis between ourselves and the visionary plants is the unrecognized cause of the alienation of modernity and the cultural mind-set of planetary civilization." The "worldwide attitude of fear toward drugs" is, in his view, "being fostered and manipulated by the dominator culture and its propaganda organs" to prevent the reemergence of the partnership values that psychedelics naturally promote.
+McKenna argued that "an interrupted psychophysical symbiosis between ourselves and the visionary plants is the unrecognized cause of the alienation of modernity and the cultural mind-set of planetary civilization." The "worldwide attitude of fear toward drugs" is, in his view, "being fostered and manipulated by the [[mckenna-dominator-culture-and-suppression-of-ecstasy]] and its propaganda organs" to prevent the reemergence of the partnership values that psychedelics naturally promote.
 
 ## The Epistemological Revolution
 
@@ -24,7 +24,7 @@ McKenna offered practical guidance for those who would undertake the psychedelic
 
 - **Good technique is obvious: one sits down, one shuts up, and one pays attention**
 - Journeys should be taken on an empty stomach, in silent darkness, in comfort, familiarity, and security
-- **Set and setting** — the interiorized feelings and expectations (set) and the external environment (setting) should both optimize feelings of security and confidence
+- **[[lsd-set-and-setting-framework]]** — the interiorized feelings and expectations (set) and the external environment (setting) should both optimize feelings of security and confidence
 - External stimuli should be severely limited — phones unplugged, noisy machines stilled
 - "Study the darkness behind closed eyelids with the expectation of seeing something"
 - The preferred environment is what Plotinus called "the flight of the alone to the Alone"
@@ -40,7 +40,7 @@ McKenna's specific policy proposals included:
 3. **Withdrawal of IMF/World Bank lending** from countries producing hard drugs, with international inspection and certification
 4. **Strict gun control** for both manufacture and possession
 5. **The legality of nature recognized** — all plants legal to grow and possess
-6. **Legal psychedelic therapy** with insurance coverage
+6. **Legal [[metzner-psycholytic-psychedelic-therapy-models]]** with insurance coverage
 7. **Strengthened currency and banking regulations** to prevent money laundering
 8. **Massive support for scientific research** and public education
 9. **One year after implementation**, decriminalization of all remaining illegal drugs, with government sale at cost plus 200% to fund social, medical, and educational costs
@@ -51,7 +51,7 @@ He grounded these proposals in the American founding principle: "our inalienable
 
 McKenna argued that "the war on drugs was never meant to be won." Instead, it serves to allow intelligence operations to profit from the global drug trade while simultaneously suppressing the one class of substances — psychedelics — that threatens dominator control. "In cynically manipulating nations and peoples with narcotics and stimulants, modern governments have associated themselves with an ethical disaster comparable to the eighteenth-century rebirth of the slave trade."
 
-He connected the drug war to fundamentalist Christianity: the federal government "when it interferes with rights to reproductive freedom, or with the use of peyote in Native American religious rituals, and when it attempts unreasonably to regulate foods and substances, is acting as the enforcing arm for the values of right-wing fundamentalism."
+He connected the drug war to [[mckenna-food-gods-fundamentalist-christianity-drug-war]]: the federal government "when it interferes with rights to reproductive freedom, or with the use of peyote in Native American religious rituals, and when it attempts unreasonably to regulate foods and substances, is acting as the enforcing arm for the values of right-wing fundamentalism."
 
 ## The New Global Consensus
 
@@ -73,7 +73,7 @@ McKenna's closing words:
 
 ## Koestler's Convergence
 
-McKenna found unexpected support from Arthur Koestler, who concluded from his examination of institutionalized violence that "some form of pharmacological intervention will be necessary before we can be at peace with one another." Koestler was "apparently unaware of the shamanic tradition or of the richness of the psychedelic experience" and therefore could not imagine that "the task of managing a global human population into a state of balance and happiness could involve introducing the experience of an internal horizon of transcendence into people's lives."
+McKenna found unexpected support from Arthur Koestler, who concluded from his examination of institutionalized violence that "some form of pharmacological intervention will be necessary before we can be at peace with one another." Koestler was "apparently unaware of the shamanic tradition or of the richness of the [[leary-psychedelic-experience-bardo-mapping]]" and therefore could not imagine that "the task of managing a global human population into a state of balance and happiness could involve introducing the experience of an internal horizon of transcendence into people's lives."
 
 ## See Also
 

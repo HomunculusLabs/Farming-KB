@@ -1,11 +1,12 @@
 ---
-title: Washing Machine Hash Production
+title: cervantes washing machine hash Hash Production
 type: concept
 created: 2026-04-25
 type: concept
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 tags: [cannabis, hash, water-extraction, commercial, ice]
 ---
 
@@ -42,7 +43,7 @@ large quantities efficiently:
 Step 1: Preparation
 - Place 500 grams of leaf in paper bags in the freezer for
   1.5 hours. Cold temperatures make leaves brittle, allowing
-  easy separation from resin glands.
+  easy separation from [[greg-green-trichomes-and-resin-glands]].
 
 Step 2: Loading
 - Load two one-pound (450 gram) bags of cold leaves into a
@@ -130,7 +131,7 @@ Clean all bags thoroughly after each use. Rinse with plenty
 of water to remove gooey resin and debris that can clog sieve
 pores. Clean screens with 96 percent pure alcohol so no
 oil-based resin remains. Let bags dry completely before
-storing to prevent mold and fungus.
+storing to [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]] and fungus.
 
 ## See Also
 

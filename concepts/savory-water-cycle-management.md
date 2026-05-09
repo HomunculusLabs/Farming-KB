@@ -1,7 +1,7 @@
 ---
 title: Water Cycle Management
 created: 2026-04-26
-aliases: [effective water cycle, water infiltration, erosion control, watershed management]
+aliases: [effective water cycle, water infiltration, [[permplant-willows-salix-erosion-control-fodder]], watershed management]
 tags: [water-cycle, infiltration, erosion-control, watershed, soil-health]
 related: [savory-holistic-management-overview, savory-desertification-causes, savory-land-monitoring]
 type: concept
@@ -12,7 +12,7 @@ updated: 2026-04-26
 
 # Water Cycle Management
 
-Water cycle management is one of the four ecosystem foundation blocks in Holistic Resource Management. The difference between an effective and noneffective water cycle often determines whether land is productive or desertifying, whether communities thrive or collapse.
+Water cycle management is one of the four [[savory-ecosystem-foundation-blocks]] blocks in [[savory-holistic-resource-management-animal-impact]] Management. The difference between an effective and noneffective water cycle often determines whether land is productive or desertifying, whether communities thrive or collapse.
 
 ## Effective vs. Noneffective Water Cycles
 
@@ -42,7 +42,7 @@ In nonbrittle environments, soil cover is seldom a problem because plants are cl
 A noneffective water cycle results in a cascade of problems:
 
 - **Increased runoff and flooding**: More water runs faster, carrying more silt. Trickles form rivulets that create streams that produce damaging floods. Noneffective water cycles lead to increased frequency and severity of floods.
-- **Increased drought severity**: Decreased surface penetration and increased surface losses make below-average or poorly distributed rainfall years into droughts. Scientists often incorrectly attribute this to climate change.
+- **Increased drought severity**: Decreased surface penetration and increased surface losses make below-average or poorly distributed rainfall years into droughts. Scientists often incorrectly attribute this to [[dighton-fungi-climate-change-feedback]].
 - **Reduced production**: Less forage or crop production in all years, with greater instability and fluctuation.
 - **Slower plant growth**: Reduced production leads to more overgrazing pressure on remaining plants.
 - **Falling groundwater**: Springs dry up, wells lower, dams and catchments silt up.
@@ -91,7 +91,7 @@ Savory documented a ranch awarded "Best Managed Ranch of the Year" where transec
 
 ## The Leverage Point
 
-The leverage point for doubling effective rainfall lies in covering the soil and maintaining crumb structure. In brittle environments, this requires periodic disturbance through animal impact to break capped surfaces, incorporate litter, and create conditions for new plant establishment. Combined with planned grazing that maintains adequate plant cover, this can dramatically improve water cycles and reverse desertification.
+The leverage point for doubling effective rainfall lies in covering the soil and maintaining crumb structure. In brittle environments, this requires periodic disturbance through [[savory-animal-impact-and-herd-effect]] to break capped surfaces, incorporate litter, and create conditions for new plant establishment. Combined with planned grazing that maintains adequate plant cover, this can dramatically improve water cycles and reverse desertification.
 
 ## Sources
 

@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of North America. Yale University Press."
+  - "Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of psilocybin-north-america-pacific-northwest. Yale University Press."
   - "Purvis, O.W. et al. (1992). The Lichen Flora of Great Britain and Ireland. Natural History Museum Publications."
   - "Myllys, L. et al. (2011). \"Taxonomy of Bryoria sect. Implexae (Parmeliaceae) in Europe.\" The Lichenologist, 43(2), 119–137."
   - "Huneck, S. & Yoshimura, I. (1996). Identification of Lichen Substances. Springer."
@@ -56,7 +56,7 @@ Pycnidia are common, immersed to slightly protruding, producing bacilliform coni
 
 ## Distribution and Habitat
 
-*Bryoria trichodes* has a circumpolar boreal and montane distribution. In North America, it ranges from Alaska across Canada to the northeastern United States, extending southward along the Rocky and Appalachian mountain chains.
+*Bryoria trichodes* has a circumpolar boreal and montane distribution. In North America, it ranges from Alaska across Canada to the northeastern [[dmt-containing-plants-united-states-halpern]], extending southward along the Rocky and Appalachian mountain chains.
 
 In Europe, the species occurs in Fennoscandia, the Alps, the Carpathians, and scattered mountain ranges through Central and Eastern Europe. It is more frequent in continental boreal regions than in oceanic areas.
 
@@ -70,7 +70,7 @@ Elevation ranges from near sea level in boreal regions to approximately 2,500 m 
 
 *Bryoria trichodes* associates with a trebouxioid green algal photobiont, a pattern typical of the Parmeliaceae. The photobiont provides photosynthetic carbon while the mycobiont contributes mineral nutrients and water retention.
 
-The species is moderately sensitive to atmospheric pollution, particularly sulfur dioxide and nitrogen deposition. It has declined in Central European forests with poor air quality but persists in more remote boreal and alpine regions.
+The species is moderately sensitive to atmospheric pollution, particularly sulfur dioxide and [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]. It has declined in Central European forests with poor [[cervantes-air-quality-ventilation]] but persists in more remote boreal and alpine regions.
 
 *B. trichodes* contributes to canopy epiphyte biomass and intercepts moisture from fog and precipitation. This intercepted water drips to the forest floor, contributing to local hydrological cycling.
 

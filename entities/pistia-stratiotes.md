@@ -68,15 +68,15 @@ Analgesic and antipyretic effects are documented in ethnoveterinary medicine, th
 
 In native ecosystems, water lettuce provides habitat for aquatic invertebrates, fish fry, and amphibians. Its root mass supports periphyton growth and microbial biofilms that process dissolved nutrients.
 
-However, dense mats (>50% surface coverage) block light penetration, suppress submerged macrophytes, deplete dissolved oxygen, and alter benthic invertebrate communities. In invaded waterways, these impacts can cascade through the entire aquatic food web.
+However, dense mats (>50% surface coverage) block light penetration, suppress submerged macrophytes, deplete [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]], and alter benthic invertebrate communities. In invaded waterways, these impacts can cascade through the entire aquatic food web.
 
-Mosquito larvae (Culex, Anopheles spp.) breed in the trapped water within root masses, potentially increasing vector-borne disease risk. This is a documented public health concern in tropical Africa and Southeast Asia.
+Mosquito larvae (Culex, Anopheles spp.) breed in the trapped water within root masses, potentially increasing vector-borne disease risk. This is a documented public health concern in tropical Africa and [[psilocybe-southeast-asia-pacific]].
 
 ## Phytoremediation and Permaculture Applications
 
 Water lettuce is an effective accumulator of heavy metals (Pb, Cd, Cr, Ni, Zn, Cu) from contaminated water. Root tissue concentrates metals at 5–20× ambient water levels. The species also removes nitrogen and phosphorus, reducing eutrophication.
 
-In constructed wetlands and wastewater treatment, Pistia outperforms many other macrophytes in nutrient uptake rates. Combined systems using Pistia with Eichhornia crassipes (water hyacinth) achieve >90% nitrogen and phosphorus removal.
+In [[comparison-constructed-wetlands-vs-bioswales]] and [[mollison-designers-wastewater-treatment-wetlands]], Pistia outperforms many other macrophytes in [[plant-nutrient-uptake-mechanisms]] rates. Combined systems using Pistia with Eichhornia crassipes (water hyacinth) achieve >90% nitrogen and phosphorus removal.
 
 Hydraulic retention times of 5–7 days produce optimal treatment outcomes. Growth rate is positively correlated with water temperature and nutrient concentration, making Pistia most effective during warm growing seasons.
 
@@ -88,7 +88,7 @@ Pistia stratiotes is listed as a noxious weed in numerous jurisdictions includin
 
 The species is prohibited from sale or transport in many temperate countries to prevent establishment. Despite regulations, illegal aquarium trade and accidental transport via shipping ballast water continue to spread it to new waterways.
 
-Biological control agents include the weevil Neohydronomus affinis (successfully deployed in Australia and South Africa) and the moth Spodoptera pectinicornis. The weevil has achieved 80–95% control in tropical release sites.
+[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents include the weevil Neohydronomus affinis (successfully deployed in Australia and South Africa) and the moth Spodoptera pectinicornis. The weevil has achieved 80–95% control in tropical release sites.
 
 ## Nutritional Profile
 

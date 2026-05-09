@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and Hirsutism (Unwanted Hair Growth)"
+title: "Cannabis and Hirsutism (blesching cannabis hirsutism unwanted hair growth Growth)"
 created: 2026-04-26
 tags:
   - cannabis
@@ -21,12 +21,12 @@ typically affects areas such as the face, chest, and back. While the condition
 can have genetic causes, it is often linked to hormonal imbalances, including
 excess androgen production.
 
-## The [[blesching-endocannabinoid-system-overview]]
+## The [[endocannabinoid-system-overview]]
 in the skin and its role in hair growth regulation. For hirsutism specifically,
 researchers found that up-regulation of CB1 produces the suppression of hair
 growth.
 
-This finding is directly opposite to the mechanism identified for hair loss
+This finding is directly opposite to the mechanism identified for [[blesching-cannabis-hair-loss-alopecia]]
 (alopecia), where CB1 down-regulation stimulates hair growth. The
 bidirectional nature of CB1's effects on hair follicles makes it a unique
 therapeutic target:
@@ -88,7 +88,7 @@ balanced and harmonious way."
 Since CB1 up-regulation is the desired mechanism for suppressing unwanted hair
 growth, cannabinoids that activate CB1 receptors (such as THC) may theoretically
 contribute to this effect. THC binds relatively equally with both CB1 and CB2.
-Sativas and sativa-dominant strains generally contain a higher THC:CBD ratio.
+Sativas and sativa-dominant strains generally contain a higher THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]].
 See [[schizophyllan-cancer-clinical-trials]] on cannabis for hirsutism
 have been conducted.
 
@@ -109,12 +109,12 @@ receptor modulation.
 
 ## The CB1 Bidirectional Paradox
 
-The relationship between hirsutism and [[blesching-endocannabinoid-system-overview]]
+The relationship between hirsutism and [[endocannabinoid-system-overview]]
 interacts with multiple hormonal pathways, and understanding these
 interactions is crucial for developing targeted treatments.
 
 The endocannabinoid system's role in hormonal regulation extends beyond hair
-growth to include effects on fertility, stress response, metabolism, and
+growth to include effects on fertility, [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]], metabolism, and
 reproductive function, all of which may be relevant to patients with
 hirsutism.
 
@@ -122,9 +122,11 @@ hirsutism.
 
 Key areas for future investigation include:
 
-- Clinical trials of CB1 agonists for hirsutism treatment
+- [[mushroom-cancer-clinical-trials-overview]] of CB1 agonists for hirsutism treatment
 - Studies comparing cannabinoid-based approaches with conventional treatments
 
 ## See Also
+
+- [[blesching-cannabis-hair-loss-alopecia]]
 
 - [[blesching-cannabis-epinephrine-norepinephrine-endocannabinoid-system]]

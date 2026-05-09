@@ -21,11 +21,11 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - National Research Council (1993). "Vetiver Grass: A Thin Green Line Against Erosion." National Academies Press, Washington, DC.
+  - National Research Council (1993). "comparison-vetiver-grass-vs-bamboo-for-erosion-control: A Thin Green Line Against Erosion." National Academies Press, Washington, DC.
   - Truong, P.N. (2002). "Vetiver grass technology." In: Land and Water Discussion Paper, FAO.
   - Lavania, U.C. (2003). "Vetiver: a miracle grass for soil and water conservation." Proceedings of the Third International Conference on Vetiver, Guangzhou, China.
-  - Martínez, M. et al. (2016). "Use of vetiver grass for phytoremediation of heavy metal contaminated soils." Environmental Science and Pollution Research, 23(14), 13782-13789.
-  - Weyerstahl, P. et al. (2000). "Constituents of the essential oil of Vetiveria zizanoides." Flavour and Fragrance Journal, 15(6), 395-412.
+  - Martínez, M. et al. (2016). "Use of vetiver grass for phytoremediation of [[dighton-fungal-biosorption-heavy-metal-remediation]] contaminated soils." Environmental Science and Pollution Research, 23(14), 13782-13789.
+  - Weyerstahl, P. et al. (2000). "Constituents of the [[permaculture-designers-manual-essential-oil-plants]] of Vetiveria zizanoides." Flavour and Fragrance Journal, 15(6), 395-412.
 ---
 
 # Vetiver (*Vetiveria zizanoides*)
@@ -34,7 +34,7 @@ Vetiver, classified as *Chrysopogon zizanoides* (syn. *Vetiveria zizanoides*), i
 in the family Poaceae, native to tropical Asia and widely naturalized across the tropics and subtropics.
 It is one of the most important multi-purpose plants in permaculture, sustainable agriculture, and ecological
 engineering, valued for its extraordinary soil conservation, phytoremediation capacity, essential oil
-production, and ornamental appeal. The vetiver system — a hedgerow-based technology for erosion control —
+production, and ornamental appeal. The vetiver system — a hedgerow-based technology for [[permplant-willows-salix-erosion-control-fodder]] —
 has been promoted by the World Bank, FAO, and numerous governments as one of the most cost-effective approaches
 to [[permaculture-design]].
 
@@ -46,9 +46,9 @@ to [[permaculture-design]].
 ### [[companion-planting]]
 - Beneficial near fruit trees (mango, citrus, banana), timber species (teak, mahogany), and annual crops
   (rice, maize, vegetables) as a non-competitive hedge
-- Essential oil's insect-repellent properties provide mild pest deterrence in adjacent crops
+- Essential oil's insect-repellent properties provide mild [[foliar-pest-deterrence-aact-mechanisms]] in adjacent crops
 - Intercropping with leguminous species (*[[cymbopogon-citratus]] — lemongrass, a related aromatic grass with essential oil and permaculture uses
-- [[gliricidia-sepium]] — leguminous tree commonly interplanted with vetiver in agroforestry hedgerows
+- gliricidia-sepium — leguminous tree commonly interplanted with vetiver in agroforestry hedgerows
 ## Practical Considerations
 
 When working with Vetiver (*Vetiveria zizanoides*), several practical factors should be
@@ -65,7 +65,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +107,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

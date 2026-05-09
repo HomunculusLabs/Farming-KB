@@ -1,17 +1,17 @@
 ---
-title: "Comparison Chicken Keeping Vs Duck Keeping"
+title: "Comparison comparison-chicken-keeping-vs-beekeeping-basics Vs comparison-duck-keeping-vs-rabbit-husbandry"
 created: 2026-05-02
 updated: 2026-05-02
 type: comparison
-tags: [[homesteading, livestock]
-sources: []
----
----
-title: "[[duck-keeping]]"
+tags: [homesteading, livestock]
+sources:
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 tags: [comparison, poultry, livestock, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # Chicken Keeping vs Duck Keeping
@@ -60,7 +60,7 @@ integration timing matters.
 |--------|----------|-------|
 | Egg production | 250-320 eggs/year (top layers) | 250-340 eggs/year (Khaki Campbell) |
 | Egg quality | Standard, thinner shells | Larger, richer, thicker shells, longer shelf life |
-| Foraging ability | Good scratchers, moderate insect control | Excellent foragers, hundreds of slugs/snails daily |
+| Foraging ability | Good scratchers, moderate [[mushroom-pests-insect-control-stamets]] | Excellent foragers, hundreds of slugs/snails daily |
 | Feed self-sufficiency | 10-20% from foraging | 30-50% from foraging on good pasture |
 | Cold hardiness | Moderate (frostbite risk on combs) | High (well-insulated, no fleshy combs) |
 | Disease resistance | Moderate | High |
@@ -78,7 +78,7 @@ backyard livestock. First-time livestock keepers benefit from the vast knowledge
 base, breed availability, and equipment ecosystem built around chickens.
 Properties without ponds or wet areas are better suited to chickens, as are
 urban and suburban settings where water management complexity is a disadvantage.
-Chicken tractors provide unique mobile fertilization capabilities for garden
+[[mollison-designers-chicken-tractors-egg-production]] provide unique mobile fertilization capabilities for garden
 beds. Choose chickens when consistent egg collection from nesting boxes,
 integration with standard composting systems, and the widest breed and supply
 selection matter most.
@@ -98,11 +98,11 @@ into rice paddies or aquaculture systems.
 ## Hybrid Approaches
 
 Many homesteaders keep both species, leveraging their complementary strengths.
-Chickens handle food waste recycling and compost turning in Zone 2 garden areas
+Chickens handle food [[mollison-designers-banana-circle-waste-recycling-system]] and compost turning in Zone 2 garden areas
 while ducks patrol orchards and wet zones for pest control. Housing should be
 separated — chickens need dry conditions that ducks' water play makes difficult
 to maintain. If keeping both, house ducks downstream or in a separate area to
-prevent mud and splash from affecting chicken coops. Some farms use chickens for
+prevent mud and splash from affecting [[faires-chicken-coops-tractors-and-breeding-guide]]. Some farms use chickens for
 egg production and ducks for pest control and meat, avoiding the need for
 dual-purpose breeds that compromise on either output.
 

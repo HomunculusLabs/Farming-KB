@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - "Deters, A. et al. (2001). \"Hamamelis virginiana bark extract.\" Planta Medica, 67(8), 707-713."
   - "Rauwald, H.W. et al. (1991). \"Tannins and related polyphenols from Hamamelis bark.\" Planta Medica, 57(2), 154-158."
-  - "Foster, S. & Duke, J.A. (2014). Peterson Field Guide to Medicinal Plants. Houghton Mifflin Harcourt."
+  - "Foster, S. & Duke, J.A. (2014). Peterson [[ghouled-field-guide-historical-context]] to Medicinal Plants. Houghton Mifflin Harcourt."
   - "Erdelmeier, C.A.J. et al. (1996). \"Anti-inflammatory activity of Hamamelis distillate.\" Skin Pharmacology, 9(4), 246-250."
 ---
 
@@ -22,8 +22,8 @@ sources:
 ## Overview
 
 *Hamamelis virginiana*, commonly known as witch hazel, is a deciduous
-shrub or small tree native to eastern North America and the sole
-North American representative of the Hamamelidaceae family. It is
+shrub or small tree native to [[polypore-fungi-eastern-north-america]] America and the sole
+[[growing-gourmet-north-american-reishi-species]] representative of the Hamamelidaceae family. It is
 among the most widely used botanicals in commercial skincare and
 topical therapeutics, valued for its astringent, anti-inflammatory,
 and antioxidant properties. Witch hazel hydrosol (distillate) is one
@@ -111,7 +111,7 @@ for DPPH assay).
   hemorrhoidal and varicose vein applications
 - Leaf extracts — milder astringency, used in cosmetic formulations
 
-**Traditional use:** Native American tribes (Ozark, Cherokee,
+**Traditional use:** [[halpern-sacramental-peyote-and-native-american-church]] tribes (Ozark, Cherokee,
 Potawatomi) used poultices of bark and leaves for burns, swellings,
 infections, and tumors. Settlers adopted these uses extensively.
 
@@ -122,12 +122,12 @@ softwood cuttings, or suckering divisions. Slow-growing initially
 but long-lived (50+ years).
 
 Prefers consistent moisture but tolerates drought once established.
-Minimal pruning required; remove dead wood in early spring.
+Minimal pruning required; remove dead wood in [[coleman-overwintered-onions-and-early-spring-crops]].
 Commercial cultivation for hydrosol production occurs primarily in
 New England and the Appalachian region.
 
 ## See Also
 
-- [[urtica-dioica]] — Nettle, traditional companion for skin conditions
+- [[urtica-dioica]] — Nettle, traditional companion for [[cannabis-for-skin-conditions-detailed]]
 - [[salvia-officinalis]] — Sage, another astringent aromatic native
 - [[hypericum-perforatum]] — St. John's wort, herbal anti-inflammatory

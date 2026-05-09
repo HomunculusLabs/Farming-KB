@@ -1,5 +1,5 @@
 ---
-title: "Wind Protection as Primary Mechanism in Unheated Winter Greenhouses"
+title: "cervantes-wind-protection-outdoor-cannabis as Primary Mechanism in Unheated Winter Greenhouses"
 source: eliot-coleman-winter-harvest-handbook
 topics: greenhouse-design, winter-production, microclimate, wind-protection, season-extension
 ---
@@ -13,7 +13,7 @@ Eliot Coleman concluded that the protected microclimate created by
 unheated greenhouses is successful principally because it protects
 against **wind** rather than because it provides significant
 thermal insulation. This is a counterintuitive finding that has
-important implications for greenhouse design and management.
+important implications for [[passive-solar-design]] and management.
 
 The key insight is that cold winter winds cause plant damage
 primarily through two mechanisms:
@@ -89,7 +89,7 @@ between single and double plastic layers.
 ### Ventilation Matters Differently
 
 Since wind protection is beneficial in winter but potentially
-harmful in warm weather (reducing air circulation can promote
+harmful in [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]] (reducing [[stamets-growing-room-air-circulation-co2-management]] can promote
 fungal diseases), the ventilation system must be designed to
 transition smoothly between wind-protected winter mode and
 well-ventilated summer mode. Roll-up sides and end-wall doors
@@ -128,7 +128,7 @@ sweeter, more flavorful leaves and roots at lower temperatures.
 
 This philosophical shift — from fighting nature to working with it
 — mirrors the approach advocated by Masanobu Fukuoka and other
-natural farming proponents. The most effective growing systems are
+[[comparison-natural-farming-vs-permaculture]] proponents. The most effective growing systems are
 those that align with natural forces rather than opposing them.
 
 ## Comparison with Traditional Heated Greenhouses
@@ -136,7 +136,7 @@ those that align with natural forces rather than opposing them.
 Traditional heated "hothouses" attempted to fight winter directly by
 maintaining warm-season temperatures (65°F/18°C for tomatoes, 55°F/
 13°C for lettuce) through the entire winter. This approach requires
-enormous energy inputs and creates a growing environment that is
+enormous energy inputs and creates a [[cannabis-growing-environment-setup]] that is
 fundamentally at odds with the natural season.
 
 The cold-house approach inverts this logic: instead of creating an

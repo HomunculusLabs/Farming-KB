@@ -41,7 +41,7 @@ TIHKAL entry #11. Alpha-ethyltryptamine, also known by the trade name Monase, is
 
 ## Clinical History and Withdrawal
 
-Alpha-ET was a promising antidepressant, explored clinically as the acetate salt by Upjohn under the name Monase. Its central stimulant activity is probably not due to its monoamine oxidase inhibition activity, but appears to stem from its structural relationship to the indolic psychedelics. It was withdrawn from potential commercial use with the appearance of an unacceptable incidence of a medical condition known as agranulocytosis (a dangerous drop in white blood cell count).
+Alpha-ET was a promising antidepressant, explored clinically as the acetate salt by Upjohn under the name Monase. Its central stimulant activity is probably not due to its monoamine oxidase inhibition activity, but appears to stem from its [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to the indolic psychedelics. It was withdrawn from potential commercial use with the appearance of an unacceptable incidence of a medical condition known as agranulocytosis (a dangerous drop in white blood cell count).
 
 ## Opioid Withdrawal Potential
 

@@ -1,5 +1,5 @@
 ---
-title: Bauhaus Movement
+title: query-what-is-the-bauhaus-movement-and-why-does-it-matter
 subtitle: A modern design school that joined art, craft, architecture, and industrial production
 tags: [design-history, architecture, modernism, art-education, industrial-design, typography]
 date: 2026-05-02
@@ -17,7 +17,7 @@ related_concepts:
 The Bauhaus was a German school of art, design, craft, and architecture founded in 1919 by [[walter-gropius]].
 Although it existed for only fourteen years, it became one of the most influential institutions in modern design.
 The school attempted to reunite fine art, practical craft, and the realities of industrial production.
-Its name means building house, but its program included textiles, furniture, metalwork, typography, theater, photography, and urban design.
+Its name means building house, but its program included textiles, furniture, metalwork, typography, theater, photography, and [[permaculture-urban-design-apartments-balconies]].
 The Bauhaus is often associated with functionalism, geometric clarity, minimal ornament, and modern materials.
 It was not merely a style; it was an educational experiment and a social project.
 Its central question was how design should serve everyday life in an industrial age.
@@ -38,7 +38,7 @@ Laszlo Moholy-Nagy later shifted the emphasis toward technology, photography, li
 Josef Albers developed rigorous exercises in paper, glass, color, and the behavior of materials.
 The aim was to teach students how to see relationships rather than copy historical styles.
 Workshop practice followed the foundation course and placed students in contact with real materials.
-This model influenced foundation programs in art and design schools around the world.
+This model influenced foundation programs in art and design schools [[fungi-around-the-world-species-distribution]].
 ## Workshops and Media
 The Bauhaus organized teaching around workshops rather than isolated academic departments.
 The furniture workshop explored chairs, cabinets, modular interiors, and compact domestic equipment.
@@ -82,7 +82,7 @@ The school moved from Weimar to Dessau in 1925 after political pressure threaten
 It moved again to Berlin in 1932 when the Dessau authorities came under Nazi influence.
 In 1933 the faculty closed the school rather than submit to political control.
 The closure ended the institution but amplified its international influence.
-Teachers and students carried Bauhaus ideas to Britain, Switzerland, the United States, Israel, Latin America, and elsewhere.
+Teachers and students carried Bauhaus ideas to Britain, Switzerland, the [[dmt-containing-plants-united-states-halpern]], Israel, Latin America, and elsewhere.
 The Bauhaus diaspora made the school a global movement rather than a local German episode.
 ## Influence on Design Education
 One of the Bauhaus's most durable legacies is the foundation course.
@@ -123,4 +123,4 @@ For that reason the Bauhaus is not only a historical school but a continuing deb
 - [[natural-building-techniques]]
 - [[permaculture-design-principles]]
 - [[homesteading-self-sufficiency-skills]]
-- [[permaculture-zones-and-site-planning]]
+- permaculture-zones-and-site-planning

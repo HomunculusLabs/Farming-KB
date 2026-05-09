@@ -1,5 +1,5 @@
 ---
-title: Fungal Plant Growth Promoting Mechanisms
+title: Fungal Plant plant-growth-promoting-rhizobacteria Mechanisms
 created: 2026-04-28
 tags:
   - PGPF
@@ -21,7 +21,7 @@ organisms that enhance plant growth, nutrient acquisition, and stress
 tolerance through multiple direct and indirect mechanisms. These include
 [[endophytic-fungi]], rhizosphere colonizers, and certain
 saprophytic species. Singh's comprehensive treatment of PGPF mechanisms
-provides a foundation for understanding how fungi contribute to plant
+provides a foundation for understanding how [[query-how-do-fungi-contribute-to-carbon-sequestration]] to plant
 health in agricultural, forestry, and [[singh-mycorrhizal-helper-bacteria-tripartite-interactions]].
 
 ## Indole-3-Acetic Acid (IAA) Production
@@ -64,7 +64,7 @@ in calcareous and alkaline soils where iron deficiency is common.
 Additionally, by sequestering environmental iron, siderophore-producing
 fungi competitively exclude pathogenic microorganisms that require
 free iron for virulence, providing a dual benefit of improved nutrition
-and disease suppression.
+and [[aact-disease-suppression-mechanisms-ingham]].
 
 ## Volatile Organic Compounds (VOCs)
 
@@ -77,9 +77,9 @@ germination, enhance root elongation, increase photosynthetic rate,
 and induce systemic defenses. The airborne nature of VOCs means their
 effects can extend over considerable distances, potentially influencing
 neighboring plants through [[piriformospora-indica]] and related Serendipitaceae enhance
-nitrogen uptake from soil. Certain fungal endophytes in association
+nitrogen uptake from soil. Certain [[fungi-in-the-environment-fungal-endophytes-plant-communities]] in association
 with nitrogen-fixing bacteria create consortia that improve nitrogen
-availability to plants. Mycorrhizal fungi facilitate access to organic
+availability to plants. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] facilitate access to organic
 nitrogen sources including proteins and chitin through extracellular
 protease and chitinase secretion, which is particularly important in
 boreal and temperate forest ecosystems.
@@ -102,5 +102,5 @@ mycoparasitism (direct parasitism of pathogenic fungi, notably by
 Trichoderma), antibiosis (production of antibiotics and antifungal
 metabolites), competition for nutrients and ecological niches in the
 rhizosphere, and enzyme-mediated degradation of pathogen cell walls.
-The combined action of these biocontrol mechanisms with direct growth
+The combined action of these [[singh-trichoderma-biocontrol-mechanisms-applications]] with direct growth
 promotion makes PGPF valuable components of [[integrated-pest-management]]

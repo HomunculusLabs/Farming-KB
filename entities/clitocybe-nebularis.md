@@ -23,7 +23,7 @@ sources:
     Verlag Mykologia, Lucerne.
   - Singer R (1986). The Agaricales in Modern Taxonomy, 4th ed.
     Koeltz Scientific Books, Koenigstein.
-  - Wasser SP, Weis AL (1994). "Medicinal Mushrooms of the
+  - Wasser SP, Weis AL (1994). "[[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] of the
     Tricholomataceae Family." International Journal of Medicinal
     Mushrooms 1(2): 121-138.
   - https://www.mycobank.org/species/Clitocybe_nebularis
@@ -36,7 +36,7 @@ sources:
 Clitocybe nebularis, commonly known as the clouded agaric or cloud funnel,
 is a large saprotrophic and weakly ectomycorrhizal basidiomycete in the
 family Tricholomataceae. It is among the most abundant and recognizable
-late-autumn mushrooms in temperate forests of Europe and North America.
+late-autumn mushrooms in temperate forests of Europe and [[psilocybin-north-america-pacific-northwest]].
 
 The species produces massive fruiting bodies, with caps reaching 15–25 cm
 in diameter, forming extensive troops and fairy rings on forest floors. Its
@@ -70,7 +70,7 @@ are ellipsoid, 5.5–7.5 × 3.5–5 µm, smooth, white in deposit.
 
 ## Distribution and Habitat
 
-C. nebularis is widely distributed across temperate and boreal forests of
+C. nebularis is widely distributed across temperate and [[fungal-diversity-boreal-forests-taiga]] of
 Europe, North America, and parts of Asia. It is particularly abundant in
 Central and Northern Europe, where it is one of the dominant late-season
 forest fungi.
@@ -105,7 +105,7 @@ are thoroughly cooked.
 
 ## Culinary and Nutritional Value
 
-C. nebularis is widely consumed as an edible mushroom across Central and
+C. nebularis is widely consumed as an [[bloomfield-boletus-satanus-edible-mushroom-hazards]] across Central and
 Eastern Europe, particularly in Poland, Russia, and the Czech Republic.
 The flesh is firm and holds its texture well in cooking, making it suitable
 for soups, stews, and preserves.
@@ -124,10 +124,10 @@ commonly pickled or dried for winter use in Eastern European cuisines.
 C. nebularis is a significant decomposer of coniferous forest litter,
 contributing to the breakdown of needle duff and woody debris. Its ability
 to form fairy rings indicates a long-lived, territorial mycelium that
-progressively decomposes organic matter in expanding zones.
+progressively decomposes [[hamilton-composting-and-organic-matter-management]] in expanding zones.
 
 The species may play a role in forest soil health through its
-immunomodulatory polysaccharides, which influence soil microbial community
+immunomodulatory polysaccharides, which influence soil [[edaphic-factors-microbial-community-structure]]
 composition. Its late-season fruiting strategy allows it to access
 nutrients released by autumn leaf and needle fall.
 

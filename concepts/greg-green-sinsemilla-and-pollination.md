@@ -21,7 +21,7 @@ re-flowering.
 Re-vegging a sinsemilla plant allows a grower to get multiple harvests
 from the same genetics without maintaining a separate mother plant.
 However, the re-vegging process can be stressful on the plant and results
-may vary compared to the first flowering cycle.
+may vary compared to the first [[cannabis-sativa-flowering-cycle-management]].
 
 ## Summary
 
@@ -30,7 +30,7 @@ cultivation. Non pollinated females produce more resin, higher THC
 levels, better flavor, and superior overall quality compared to seeded
 buds. Preventing pollination through careful male identification and
 removal, along with proper hygiene practices, ensures the best possible
-harvest. For breeders, controlled pollination techniques allow seed
+harvest. For breeders, [[cannabis-controlled-pollination-seed-production]] techniques allow seed
 production while preserving sinsemilla quality on selected branches.
 
 ## See Also
@@ -113,4 +113,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

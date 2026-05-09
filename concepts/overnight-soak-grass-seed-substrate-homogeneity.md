@@ -1,7 +1,7 @@
 ---
-title: Overnight Soaking Method for Grass Seed Substrate Homogeneity
+title: Overnight Soaking Method for Grass grass-seed-substrate-for-mushroom-cultivation Homogeneity
 source: guid-mhtml_file___e___textos__mycology__exotic_.md
-topic: mycology substrate preparation technique
+topic: mycology [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] technique
 created: 2026-05-08
 ---
 
@@ -9,7 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-In grass seed-based mushroom cultivation, achieving consistent moisture content throughout the substrate is critical for even colonization and predictable yields. The overnight soaking method is an alternative to the direct-addition approach, where water is added directly to dry seed in the jar. Soaking produces a more homogenous substrate by allowing seeds to fully hydrate before being loaded into cultivation jars.
+In grass seed-based [[accessible-mushroom-cultivation-for-disabilities]], achieving consistent moisture content throughout the substrate is critical for even colonization and predictable yields. The overnight soaking method is an alternative to the direct-addition approach, where water is added directly to dry seed in the jar. Soaking produces a more homogenous substrate by allowing seeds to fully hydrate before being loaded into cultivation jars.
 
 ## The Problem with Direct Water Addition
 
@@ -93,7 +93,7 @@ Rye grass seed (Lolium perenne) is the most commonly used species, but mixtures 
 
 ## Integration with the Full Cultivation Workflow
 
-The overnight soak method fits into the broader grass seed cultivation workflow as follows:
+The overnight soak method fits into the broader grass [[grass-seed-cultivation-of-psilocybe-mushrooms]] workflow as follows:
 
 1. **Day before**: Measure and soak grass seed in water
 2. **Morning of prep**: Drain seed, load into jars, prepare lids (loose fit)
@@ -101,17 +101,19 @@ The overnight soak method fits into the broader grass seed cultivation workflow 
 4. **Sterilize** in pressure cooker for 1 hour (720 ml jars) or 2 hours (1.5 L jars and spawn bags)
 5. **After pressure release**: Remove jars, shake to mix wet and dry kernels while still hot
 6. **Cool** to room temperature in a clean place with lids loose (to prevent vacuum)
-7. **Inoculate** once fully cooled using spore syringe, mycelium syringe, or agar squares
+7. **Inoculate** once fully cooled using [[comparison-spore-print-collection-vs-spore-syringe-production]], mycelium syringe, or agar squares
 8. **Shake again** after inoculation, then loosen lids for gas exchange
 9. **Incubate** at 20°C or slightly higher until fully colonized
 
-The soaking step adds lead time but reduces failures downstream. For cultivators doing regular grows, soaking can become a routine evening preparation that makes the next day's jar preparation faster and more reliable.
+The soaking step adds lead time but reduces failures downstream. For cultivators doing regular grows, soaking can become a routine evening preparation that makes the next day's [[pf-tek-jar-preparation-steam-sterilization]] faster and more reliable.
 
 ## Historical Context
 
 The overnight soaking technique is described alongside the direct-addition method in the classic grass seed cultivation guide for Psilocybe species. The authors note that both methods work but present soaking as producing more homogenous results. This preference for reliability over speed reflects the practical experience of cultivators who have encountered the moisture variability problems of the direct method.
 
 ## See Also
+
+- [[overnight-soak-versus-direct-hydration-grass-seed-substrate]]
 
 - [[grass-seed-substrate-preparation-mycology]]
 - [[grass-seed-water-absorption-and-moisture-calibration]]

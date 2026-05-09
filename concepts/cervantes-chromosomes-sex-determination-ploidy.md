@@ -1,16 +1,17 @@
 ---
-title: Cannabis Chromosomes, Sex Determination, and Ploidy
+title: [[cannabis-chromosomes-and-mendelian-inheritance]], cannabis-sex-determination-floral-biology, and Ploidy
 created: 2026-04-26
 tags:
   - cannabis
   - genetics
   - chromosomes
   - ploidy
-  - sex determination
+  - [[cannabis-sex-determination-floral-biology]]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -62,7 +63,7 @@ The polyploid characteristic can be induced with an application of
 colchicine, which disrupts normal cell division. However, colchicine is
 a poison and the technique has never led to agronomic success in
 cannabis. Breeders attempting polyploidy induction have consistently
-been disappointed. See [[cannabis-genetics-and-breeding]] - Breeding fundamentals
+been disappointed. See [[cannabis-genetics-and-breeding]] - [[cannabis-breeding-fundamentals]]
 - [[cervantes-ethylene-hormonal-sex-reversal]] - Sex manipulation
 - [[cervantes-sex-determination-pre-flowering]] - Identifying sex
 ## Practical Considerations
@@ -83,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

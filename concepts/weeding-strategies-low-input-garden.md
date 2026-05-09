@@ -19,7 +19,7 @@ Steve Solomon approaches weeds not as enemies to be eliminated but as competitor
 - Weeds are primarily a problem because they compete with vegetable crops for moisture, nutrients, light, and root zone space.
 - The goal is not a weed-free garden but a garden where vegetables outcompete weeds.
 - Proper spacing of vegetable crops is the first line of defense -- widely spaced plants develop large root systems that access resources beyond the reach of weeds.
-- Dense planting (intensive gardening methods) creates more weed problems because crops and weeds compete more intensely.
+- Dense planting ([[solomon-wide-spacing-versus-intensive-gardening-debate]] methods) creates more weed problems because crops and weeds compete more intensely.
 
 ## Timing of Weed Control
 
@@ -78,7 +78,7 @@ Solomon advocates a philosophical shift in dealing with garden problems:
 - [[hand-watering-garden]]
 - [[weed-suppression-strategies]]
 
-Sources: Steve Solomon, *Gardening When It Counts*, Chapters 5-6 and pest management sections
+Sources: Steve Solomon, *Gardening When It Counts*, Chapters 5-6 and [[cannabis-pest-management-guide]] sections
 
 - [[solomon-gardening-when-it-counts-index]]
 - [[nutrient-movement-through-soil-to-plant-roots]]

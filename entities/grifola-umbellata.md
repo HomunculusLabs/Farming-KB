@@ -1,5 +1,5 @@
 ---
-title: "Zhu Ling (Grifola umbellata)"
+title: "growing-gourmet-polyporus-umbellatus-zhu-ling-cultivation (Grifola umbellata)"
 created: 2026-04-28
 type: species
 tags:
@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Wasser, S.P. (2002). \"Medicinal mushrooms as a source of antitumor and immunomodulating polysaccharides.\" Applied Microbiology and Biotechnology, 60(3), 258-274."
+  - "Wasser, S.P. (2002). \"comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive as a source of antitumor and immunomodulating polysaccharides.\" Applied Microbiology and Biotechnology, 60(3), 258-274."
   - "Ooi, V.E.C. & Liu, F. (2000). \"Immunomodulation and anti-cancer activity of polysaccharide-protein complexes.\" Current Medicinal Chemistry, 7(7), 715-729."
   - "Bissett, J. (1990). Grifola. In: Fungi of Canada. Agriculture Canada.
   - "Zhang, L. et al. (2007). \"Structure and antitumor activity of a polysaccharide from Grifola umbellata.\" Carbohydrate Polymers, 68(1), 120-125."
@@ -61,8 +61,8 @@ radiating from a common base, resembling an umbrella cluster.
 
 ## Distribution and Habitat
 
-- Temperate broadleaf forests of East Asia (China, Japan, Korea); also Europe and
-  North America (less common)
+- Temperate broadleaf forests of [[neurotropic-fungi-japan-east-asia-species-cultural-context]] (China, Japan, Korea); also Europe and
+  [[psilocybin-north-america-pacific-northwest]] (less common)
 - Found at bases of oak (*Quercus*), maple (*Acer*), elm (*Ulmus*), and beech
   (*Fagus*)
 - Sclerotia develop underground in association with living or dead roots
@@ -75,7 +75,7 @@ radiating from a common base, resembling an umbrella cluster.
 ## See Also
 
 - poria cocos — Frequently combined in TCM diuretic formulas
-- grifola frondosa — Close relative with overlapping immunomodulatory effects
+- [[maitake-grifola-frondosa-comprehensive-profile]] — Close relative with overlapping immunomodulatory effects
 
 ## See Also
 

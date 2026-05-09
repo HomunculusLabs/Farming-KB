@@ -13,9 +13,9 @@ updated: 2026-04-28
 sources:
   - Bon, M. (1990). "The Mushrooms and Toadstools of Britain and North-western Europe." Hodder & Stoughton.
   - Breitenbach, J. & Kränzlin, F. (1991). "Fungi of Switzerland, Vol. 3." Verlag Mykologia, Lucerne.
-  - Phillips, R. (2006). "Mushrooms: A Comprehensive Guide to Mushroom Identification." Pan Macmillan.
+  - Phillips, R. (2006). "Mushrooms: A Comprehensive Guide to [[psilocybin-mushroom-identification-guide]]." Pan Macmillan.
   - Consiglio, G. et al. (2004). "Clitocybe geotropa and allies: a morphological and molecular study." Mycological Research 108(9): 1012-1020.
-  - Kalac, P. (2009). "Chemical composition and nutritional value of European species of wild growing mushrooms." Nutrition Reviews 67(12): 694-705.
+  - Kalac, P. (2009). "Chemical composition and nutritional value of European species of wild [[falconer-growing-mushrooms-in-sheds]]." Nutrition Reviews 67(12): 694-705.
 created: 2026-04-28
 ---
 
@@ -27,7 +27,7 @@ created: 2026-04-28
 
 It is one of the largest members of its genus, forming conspicuous fruiting bodies that can reach 25 cm in cap diameter.
 
-The species is widely distributed across temperate Europe and is generally considered an edible mushroom of good quality.
+The species is widely distributed across temperate Europe and is generally considered an [[bloomfield-boletus-satanus-edible-mushroom-hazards]] of good quality.
 
 Trooping funnels are named for their habit of growing in dense troops or fairy rings, often with dozens of individuals in a single cluster.
 
@@ -69,7 +69,7 @@ The taste is mild and nutty, becoming slightly bitter in older specimens or thos
 
 Clitocybe geotropa is widely distributed across temperate and Mediterranean Europe, from Scandinavia to the Iberian Peninsula.
 
-It also occurs in parts of North Africa, western Asia, and has been reported from North America under similar names.
+It also occurs in parts of North Africa, western Asia, and has been reported from [[psilocybin-north-america-pacific-northwest]] under similar names.
 
 The species fruits from late summer to early winter, typically from August through November in central Europe.
 
@@ -87,7 +87,7 @@ Fresh fruiting bodies are approximately 90% water, with the remaining dry matter
 
 The species contains significant amounts of potassium, phosphorus, and various B vitamins including thiamine and riboflavin.
 
-Several bioactive compounds have been isolated, including lectins with immunomodulatory properties.
+Several [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] have been isolated, including lectins with immunomodulatory properties.
 
 Polysaccharide fractions from the fruiting body have shown antioxidant activity in vitro.
 
@@ -115,7 +115,7 @@ Several other clitocyboid species in the same habitats are smaller and less robu
 
 ## Cultivation
 
-Cultivation of Clitocybe geotropa has been attempted on supplemented sawdust and straw substrates with limited success.
+Cultivation of Clitocybe geotropa has been attempted on [[oyster-mushroom-supplemented-sawdust-blocks]] and straw substrates with limited success.
 
 The species is primarily wild-harvested due to the difficulty of establishing reliable fruiting conditions in cultivation.
 
@@ -124,6 +124,8 @@ Mycorrhizal dependency complicates cultivation, as the fungus requires a living 
 Some progress has been made with outdoor bed cultivation near compatible tree roots in forest garden settings.
 
 ## See Also
+
+- [[clitocybe-dealbata]]
 
 - [[tricholoma-equestre]]
 - [[morchella-esculenta]]

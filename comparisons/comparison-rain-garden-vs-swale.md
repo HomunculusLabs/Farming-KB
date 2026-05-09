@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [comparison, water-management, earthworks, stormwater]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -62,7 +63,7 @@ Cost ranges from $3 to $15 per square foot depending on whether you install it y
 
 ## Rain Garden Planting
 
-Select plants native to your region for reliability and pollinator support. Strong choices for eastern North America include:
+Select plants native to your region for reliability and pollinator support. Strong choices for [[polypore-fungi-eastern-north-america]] America include:
 
 - Blue flag iris for the wet center zone
 - Swamp milkweed for pollinators and monarchs
@@ -71,7 +72,7 @@ Select plants native to your region for reliability and pollinator support. Stro
 - Blue vervain for vertical accent
 - Native sedges and grasses for structure
 
-Plant in drifts of 5 to 7 plants per species for visual impact. Space plants 12 to 18 inches apart and mulch thoroughly. Water regularly during the first growing season. By year two, the rain garden should thrive on rainfall alone.
+Plant in drifts of 5 to 7 plants per species for visual impact. Space plants 12 to 18 inches apart and mulch thoroughly. Water regularly during the first [[savory-growing-season-and-non-growing-season-management]]. By year two, the rain garden should thrive on rainfall alone.
 
 ## Swale Deep Dive
 
@@ -107,13 +108,13 @@ Rain gardens are particularly effective at removing nitrogen, phosphorus, petrol
 
 Choose a swale when your priorities include:
 
-1. Sloping land needing rehydration and erosion control
+1. Sloping land needing rehydration and [[permplant-willows-salix-erosion-control-fodder]]
 2. Tree crop establishment on hillsides
 3. Arid or semi-arid broadacre water harvesting
-4. Humid climate slope stabilization
-5. Agricultural land with sheet erosion problems
+4. [[mollison-designers-cool-humid-climate-design-overview]] slope stabilization
+5. [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] with sheet erosion problems
 6. Large properties with landscape-scale needs
-7. Integration with keyline design
+7. Integration with [[query-how-does-keyline-design-work-in-permaculture]]
 
 Swales transform how water moves through a landscape. Instead of concentrating and accelerating flow, they spread, slow, and sink water into the soil, creating underground reservoirs.
 

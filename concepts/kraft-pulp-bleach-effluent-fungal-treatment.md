@@ -1,5 +1,5 @@
 ---
-title: "Kraft Pulp Bleach Effluent Fungal Decolorization"
+title: "Kraft Pulp Bleach singh-pulp-paper-effluent-fungal-decolorization Decolorization"
 created: 2026-04-28
 tags: [bioremediation, pulp-paper, decolorization, white-rot-fungi, wastewater]
 date: 2026-04-25
@@ -26,11 +26,11 @@ produced during the pulping and bleaching processes.
 Two principal fungal species have dominated research on fungal BPE treatment:
 [[turkey-tail-trametes-versicolor]]. These organisms
 employ different enzyme systems for effluent decolorization. In P.
-chrysosporium, manganese peroxidase (MnP) plays the primary role in BPE
+chrysosporium, [[fungal-manganese-peroxidase-remediation]] (MnP) plays the primary role in BPE
 decolorization. Lackner, Srebotnik, and Messner confirmed that MnP-mediated
 oxidation of BPE is catalyzed by manganese(III) chelated to lactate or other
 organic acids. Purified P. chrysosporium MnPs catalyzed BPE decolorization
-in the presence of lactate, manganese(II), and hydrogen peroxide. In
+in the presence of lactate, manganese(II), and [[cervantes-hydrogen-peroxide-sterilization]]. In
 contrast, laccases appear to play the primary role in BPE decolorization by
 T. versicolor, with the ability to dechlorinate several toxic polychlorinated
 phenols that are major BPE constituents.
@@ -66,14 +66,14 @@ may operate under less stringent nitrogen conditions.
 
 A wide variety of bioreactor configurations have been assessed for fungal
 pulp effluent decolorization. Early designs were constrained by the concern
-that agitation would reduce lignin peroxidase activity, leading to approaches
+that agitation would reduce [[fungal-lignin-peroxidase-veratryl-alcohol]] activity, leading to approaches
 such as rotating biological contactors, percolating filters, and packed beds.
 More recently, fluidized beds using mycelial pellets have been shown to be
 effective. [[schizophyllum-commune-schizophyllan-cancer]], while lignosulfonates and chlorolignins from
 different bleaching stages have been treated with combinations of S. commune
 and T. versicolor. Combined photochemical and biological processes using
 Lentinus edodes have been investigated for Kraft E1 effluent, demonstrating
-that pretreatment with UV light can enhance subsequent fungal degradation.
+that pretreatment with UV light can enhance subsequent [[singh-fungal-degradation-endocrine-disrupting-compounds]].
 
 ## Performance Metrics and Scale-Up
 
@@ -92,7 +92,7 @@ industrial treatment applications requiring rapid deployment capability.
 
 Integration of fungal decolorization with existing pulp mill wastewater
 treatment infrastructure presents both opportunities and challenges. While
-fungal treatment can effectively reduce color and toxicity of bleach plant
+[[singh-biopile-fungal-treatment-contaminated-soil]] can effectively reduce color and toxicity of bleach plant
 effluents, scaling laboratory results to industrial throughput requires careful
 process engineering. Reactor design must accommodate the filamentous growth
 form of white rot fungi, which can cause clogging in conventional reactor

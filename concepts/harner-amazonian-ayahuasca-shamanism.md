@@ -1,5 +1,5 @@
 ---
-title: Amazonian Ayahuasca Shamanism
+title: harner-amazonian-ayahuasca-preparation-methods Shamanism
 created: 2026-04-26
 sources: Harner (ed.), Hallucinogens and Shamanism (1973), Ch. 1-4, 6, 9
 related:
@@ -17,7 +17,7 @@ updated: 2026-04-26
 
 # Amazonian Ayahuasca Shamanism
 
-The upper Amazon rain forest is one of the last remaining areas where hallucinogenic drugs are used under essentially aboriginal conditions. The drink, commonly called **yage** or **yaje** in Colombia, **ayahuasca** (Quechua: "vine of the dead") in Ecuador and Peru, and **caapi** in Brazil, is prepared from *Banisteriopsis* species (Malpighiaceae), a genus of tree-climbing forest vines.
+The upper Amazon rain forest is one of the last remaining areas where [[metzner-hallucinogenic-drugs-psychotherapy-shamanism]] are used under essentially aboriginal conditions. The drink, commonly called **yage** or **yaje** in Colombia, **ayahuasca** (Quechua: "vine of the dead") in Ecuador and Peru, and **caapi** in Brazil, is prepared from *Banisteriopsis* species (Malpighiaceae), a genus of tree-climbing forest vines.
 
 ## Botanical and Pharmacological Basis
 
@@ -45,7 +45,7 @@ In all four groups, hallucinogenic experiences are deeply integrated into the su
 
 ## Shamanic Functions
 
-*Banisteriopsis* is typically taken by South American Indian shamans of the tropical forest to:
+*Banisteriopsis* is typically taken by South [[harner-american-indian-peyote-rituals]] shamans of the [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] to:
 - Perceive the supernatural world
 - Contact and affect the behavior of particular supernatural entities
 - Locate and withdraw supernatural objects from bewitched patients
@@ -60,7 +60,7 @@ The Jivaro believe the normal waking life is simply a "lie" or illusion, while t
 
 ## Urban Ayahuasca Healing
 
-Among mestizo healers (*ayahuasqueros*) in Peruvian Amazon cities like Iquitos and Pucallpa, ayahuasca has received its greatest cultural elaboration as an adjunct to folk healing. Healers gather groups of 5-25 patients in forest clearings for nighttime sessions. The healer distributes the potion, reciting orations and whistling to protect each person. Healing sessions involve:
+Among mestizo healers (*ayahuasqueros*) in Peruvian Amazon cities like Iquitos and Pucallpa, ayahuasca has received its greatest cultural elaboration as an adjunct to [[entheogen-cimora-folk-healing-ceremony]]. Healers gather groups of 5-25 patients in forest clearings for nighttime sessions. The healer distributes the potion, reciting orations and whistling to protect each person. Healing sessions involve:
 - Visionary diagnosis of illness
 - Sucking out magically introduced objects (spines, thistles)
 - Counseling and ritual exorcism
@@ -69,7 +69,7 @@ Among mestizo healers (*ayahuasqueros*) in Peruvian Amazon cities like Iquitos a
 
 ## See Also
 
-- [[harner-cashinahua-banisteriopsis-usage]] - Cashinahua ayahuasca visions
+- [[harner-cashinahua-banisteriopsis-usage]] - Cashinahua [[amaringo-ayahuasca-visions-shipibo-iconography]]
 - [[harner-yage-experience-themes]] - Cross-cultural common themes in yage experiences
 - [[harner-datura-solanaceous-shamanism]] - Datura and solanaceous plants in shamanic practice
 ## Practical Considerations
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

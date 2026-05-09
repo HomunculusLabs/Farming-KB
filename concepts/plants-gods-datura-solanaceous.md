@@ -17,9 +17,9 @@ powerful and culturally significant hallucinogenic plants known to
 humanity. In both hemispheres, Datura played highly significant roles
 in native cultures, while the related genus Brugmansia remains one of
 the principal hallucinogens still employed in South America. In Europe,
-Deadly Nightshade (Atropa belladonna), Henbane (Hyoscyamus niger), and
+Deadly Nightshade ([[belladonna-atropa-belladonna-ethnobotany]]), Henbane ([[henbane-hyoscyamus-niger-ethnobotany]]), and
 Mandrake ([[solanaceous-hallucinogens-of-medieval-european-witchcraft]] traditions.
-- **Mandragora officinarum** (Mandrake): Known as "the man-like plant"
+- **[[mandrake-mandragora-officinarum-in-european-folklore]]** (Mandrake): Known as "the man-like plant"
   for its anthropomorphic root, native to the Mediterranean region.
 
 Closely related to Datura, the species of Brugmansia are arborescent
@@ -33,7 +33,7 @@ Datura was employed over wide areas of Asia, particularly in India where
 Datura metel flowers are offered to Shiva. In Mexico, Datura innoxia,
 known as Toloache, is used by indigenous peoples for divination and
 healing. Various species of Datura were employed rather widely in
-North America, but most intensely in the Southwest.
+[[psilocybin-north-america-pacific-northwest]], but most intensely in the Southwest.
 
 In South America, Brugmansia species are known by many names:
 Borrachero, Campanula, Floripondio, Huanto, Haucacachu, Maicoa, Toe,
@@ -76,4 +76,4 @@ alkaloid concentrations.
 
 ## [[datura-candida]]
 
-- [[plants-gods-ayahuasca]] for comparison with South American
+- [[plants-gods-ayahuasca]] for comparison with [[chiric-caspi-brunfelsia-south-american-hallucinogen]]

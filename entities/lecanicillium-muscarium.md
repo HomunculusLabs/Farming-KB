@@ -33,10 +33,10 @@ fungus in the family Cordycipitaceae (Hypocreales). Originally described as *Ver
 lecanii*, it was transferred to *Lecanicillium* following taxonomic revision by Zare and
 Gams in 2001.
 
-The species is a versatile biological control agent with dual activity against insect pests
+The species is a versatile [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent with dual activity against insect pests
 and fungal plant pathogens. Commercial formulations (notably Mycotal™ and Vertalec™) have
 been used globally for decades, targeting whiteflies, aphids, thrips, and the causal agent
-of powdery mildew across greenhouse and field crops.
+of [[cervantes-powdery-mildew-prevention-treatment]] across greenhouse and field crops.
 
 ## Taxonomy and Classification
 
@@ -112,9 +112,9 @@ greenhouses, protected crops, and field applications. Mycotal™ is applied agai
 whiteflies at 1-5 × 10¹³ conidia per hectare, while Vertalec™ targets aphids.
 
 The fungus is particularly valued in integrated pest management (IPM) programs for
-greenhouse vegetables and ornamentals due to its compatibility with predatory mites
-(*Amblyseius* spp.) and parasitoid wasps. It is safe to mammals, birds, and most
-beneficial insects at recommended application rates.
+greenhouse vegetables and ornamentals due to its compatibility with [[comparison-predatory-mites-vs-ladybugs-biocontrol]]
+(*Amblyseius* spp.) and [[comparison-parasitoid-wasps-vs-chemical-pesticides]]. It is safe to mammals, birds, and most
+[[coleman-beneficial-insects-and-ecological-pest-control]] at recommended [[ingham-compost-tea-application-rates-and-timing]].
 
 Efficacy is optimal at 20-28°C with relative humidity above 80%. Application timing
 targeting early pest populations yields best results. The mycoparasitic activity against

@@ -1,5 +1,5 @@
 ---
-title: Fungal Laccase Redox Mediator Systems
+title: singh-fungal-laccase-enzymes-bioremediation staycare-fungal-redox-mediator-chemistry-pollutant-degradation Systems
 created: 2026-04-28
 tags: [mycoremediation, laccase, enzymes, bioremediation, fungal-enzymology]
 date: 2026-04-25
@@ -13,12 +13,12 @@ type: concept
 ## Overview
 
 Laccase (benzenediol : oxygen oxidoreductase, EC 1.10.3.2) is a
-multicopper blue oxidase produced [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] (PAHs), chlorinated aromatics,
-and synthetic dyes.
+multicopper blue oxidase produced [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] (PAHs), [[fungal-biodegradation-chlorinated-aromatics-and-btex]],
+and [[singh-fungal-degradation-of-synthetic-dyes-and-textile-waste]].
 
 ## Laccase Biochemistry
 
-Laccases of ligninolytic fungi are secreted glycoproteins belonging to
+Laccases of [[biochemistry-of-ligninolytic-fungi-bioremediation]] are secreted glycoproteins belonging to
 the blue multicopper oxidase family. They contain four or more copper
 atoms and catalyze the four-electron reduction of molecular oxygen to
 water. Laccase possesses a highly specific binding pocket for oxygen,
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

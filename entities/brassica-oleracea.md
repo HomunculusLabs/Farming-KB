@@ -11,7 +11,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Magrath, R. & Osbourn, A. (2005). "Glucosinolates and their breakdown products." In Plant Secondary Metabolites. Blackwell.
+  - Magrath, R. & Osbourn, A. (2005). "Glucosinolates and their breakdown products." In Plant antifungal-secondary-metabolites-coprophilous-fungi. Blackwell.
   - Dixon, G.R. (2007). Vegetable Brassicas and Related Crucifers. CABI Publishing.
   - FAO (2023). FAOSTAT: Crops and livestock products. Food and Agriculture Organization.
   - Song, L. & Thornalley, P.J. (2007). "Effect of storage, processing and cooking on glucosinolate content of Brassica vegetables." Food Chemistry, 105(4), 2187-2197.
@@ -57,7 +57,7 @@ Cabbage and Brussels sprouts are typically transplanted as seedlings. Broccoli a
 
 The species is moderately nutrient-demanding, requiring adequate nitrogen and consistent moisture. Clubroot (Plasmodiophora brassicae) and cabbage aphid (Brevicoryne brassicae) are the most significant pests.
 
-Crop rotation with non-Brassicaceae species for 3–4 years reduces clubroot pressure. Companion planting with aromatic herbs (mint, rosemary, thyme) can deter flea beetles and cabbage moths.
+Crop rotation with non-Brassicaceae species for 3–4 years reduces clubroot pressure. [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] with aromatic herbs (mint, rosemary, thyme) can deter flea beetles and cabbage moths.
 
 Successional sowing every 2–3 weeks extends the harvest window. In temperate climates, late-season kale and Brussels sprouts improve in flavor after frost exposure.
 
@@ -73,7 +73,7 @@ Carotenoids including lutein, zeaxanthin, and beta-carotene are present in darke
 
 ## Bioactive Compounds and Pharmacology
 
-The principal bioactive compounds in B. oleracea are glucosinolates, a class of sulfur-containing secondary metabolites. Major glucosinolates include glucoraphanin (precursor to sulforaphane), sinigrin, and glucobrassicin.
+The principal [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] B. oleracea are glucosinolates, a class of sulfur-containing secondary metabolites. Major glucosinolates include glucoraphanin (precursor to sulforaphane), sinigrin, and glucobrassicin.
 
 Myrosinase, an endogenous enzyme, hydrolyzes glucosinolates upon tissue damage (chewing, cutting, cooking disruption). This produces isothiocyanates, nitriles, and indoles with documented biological activity.
 
@@ -95,9 +95,9 @@ B. oleracea residues contribute significant biomass to compost systems. The high
 
 Fall-planted kale and Brussels sprouts provide winter forage for poultry and livestock in temperate zones. Their cold tolerance allows harvest when other green fodder is unavailable.
 
-Brassica cover crops, including forage radish (Raphanus sativus var. longipinnatus) and mustard greens, are used as biofumigants. When incorporated into soil, glucosinolate hydrolysis products suppress soil-borne pathogens and nematodes.
+biofumigation and brassica cover crops for pest management crops, including forage radish (Raphanus [[raphanus-sativus-var-longipinnatus]]. longipinnatus) and mustard greens, are used as biofumigants. When incorporated into soil, glucosinolate hydrolysis products suppress soil-borne pathogens and nematodes.
 
-In traditional European agriculture, cabbage was a critical winter storage vegetable. Fermentation as sauerkraut (with lactic acid bacteria) preserved the crop for months and enhanced its nutritional profile through vitamin C retention and probiotic development.
+In traditional [[fukuoka-european-agriculture-observations]], cabbage was a critical winter storage vegetable. Fermentation as sauerkraut (with lactic acid bacteria) preserved the crop for months and enhanced its nutritional profile through vitamin C retention and probiotic development.
 
 ## Historical Significance
 

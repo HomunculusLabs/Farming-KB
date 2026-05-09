@@ -1,5 +1,5 @@
 ---
-title: JADAM Natural Pesticide Recipes
+title: JADAM jadam-natural-pesticide-institute-and-research Recipes
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
@@ -9,11 +9,11 @@ sources:
 ---
 # JADAM Natural Pesticide Recipes
 
-JADAM natural pesticide (JNP) is an all-purpose pesticide system built from three core ingredients: JADAM wetting agent (JWA), JADAM sulfur (JS), and JADAM herb solution (JHS). Different combinations control nearly all crop pests and diseases. All recipes are mixed with water to make 500 L (132 gal), enough for approximately 0.33 ha (0.8 ac).
+JADAM natural pesticide (JNP) is an all-purpose pesticide system built from three core ingredients: JADAM [[jadam-nutrient-management-wetting-agent-and-calcium]] (JWA), JADAM sulfur (JS), and JADAM herb solution (JHS). Different combinations control nearly all crop [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. All recipes are mixed with water to make 500 L (132 gal), enough for approximately 0.33 ha (0.8 ac).
 
 ## Core Principle: One Pesticide for All
 
-JADAM's key insight is that pathogens and pests differ only in size. A germicide at higher dose becomes an insecticide. One pesticide serves as bactericide, fungicide, germicide, and insecticide. Controlling powdery mildew and aphids is the touchstone -- master those two and 90% of pest and disease problems are solved.
+JADAM's key insight is that pathogens and pests differ only in size. A germicide at higher dose becomes an insecticide. One pesticide serves as bactericide, fungicide, germicide, and insecticide. Controlling powdery mildew and aphids is the touchstone -- master those two and 90% of [[organic-pest-and-disease-management]] problems are solved.
 
 ## Mixing Protocol
 
@@ -40,9 +40,9 @@ Stronger than Recipe 1. For serious pepper canker: increase JWA to 10 L, JS to 2
 ## Recipe 3: Aphids and Mites
 
 - JWA: 5 L (1.3 gal)
-- Jerusalem artichoke JHS: 5 L (1.3 gal)
+- [[comparison-jerusalem-artichoke-vs-potato]] JHS: 5 L (1.3 gal)
 
-Replace Jerusalem artichoke with ginkgo, Korean pasque flower root (KPFR), or pokeweed. Add 1-2 L JS for disease control. Add 0.5 kg red clay powder to boost effectiveness.
+Replace Jerusalem artichoke with ginkgo, Korean pasque flower root (KPFR), or pokeweed. Add 1-2 L JS for [[hamilton-pest-and-disease-control-organic]]. Add 0.5 kg red clay powder to boost effectiveness.
 
 ## Recipe 4: Moths (Tobacco Moth, Armyworm, Diamondback, etc.)
 

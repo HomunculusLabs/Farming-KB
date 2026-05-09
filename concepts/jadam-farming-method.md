@@ -1,5 +1,5 @@
 ---
-title: JADAM Farming Method
+title: JADAM what-natural-farming-method-should-i-use
 created: 2026-04-28
 tags: [jadam, organic-farming, ultra-low-cost, korean-agriculture]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: concept
 # JADAM Farming Method
 
 JADAM (Jayonul Damun Saramdul, meaning "people who are
-like nature") is a revolutionary organic farming system
+like nature") is a revolutionary [[coleman-deep-organic-farming-philosophy]] system
 developed by Youngsang Cho in South Korea. Founded on
 oriental philosophy, JADAM pursues ultra-low-cost
 agriculture that can reduce farming expenses to as little
@@ -24,7 +24,7 @@ Youngsang Cho was born in 1965 in Hwaseong, Gyeonggi
 province, Korea. After completing studies in chemistry and
 horticulture, and military service in the 706 Special
 Forces, he began organic farming in 1991. He established
-JADAM Organic Farming and later the JADAM Natural Pesticide
+JADAM Organic Farming and later the JADAM [[jadam-natural-pesticide-institute-and-research]]
 Institute in 2002, systematically developing ultra-low-cost
 methods through decades of research and field testing.
 
@@ -52,18 +52,18 @@ inventions, instead sharing all knowledge publicly.
 
 JADAM's two greatest inventions are:
 
-1. **JADAM Wetting Agent (JWA)**: An environment-friendly
+1. **JADAM [[jadam-nutrient-management-wetting-agent-and-calcium]] (JWA)**: An environment-friendly
    surfactant made from canola oil, caustic potash, and
    water. Essential for all pesticide applications.
 
-2. **JADAM Sulfur (JS)**: A powerful germicide made by
+2. **[[ultra-low-jadam-sulfur-js]] (JS)**: A powerful germicide made by
    melting sulfur in caustic soda, combined with red clay
    powder, phyllite powder, and sea salt.
 
 Other major inputs include:
 
 - [[jadam-herb-solution-jhs]] (JHS): Boiled herb extracts
-  for insect control
+  for [[mushroom-pests-insect-control-stamets]]
 - [[jadam-mineral-water-jmw]] (JMW): Mineral extraction
   from leaf mold and rocks
 - [[jadam-soil-management-without-tillage]]
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

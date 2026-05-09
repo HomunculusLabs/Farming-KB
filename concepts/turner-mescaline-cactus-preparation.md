@@ -31,7 +31,7 @@ of $100-200 per gram makes it too expensive for street popularity.
 
 ## Identifying Real Mescaline
 
-Mescaline sulfate can be identified by its crystal structure:
+Mescaline sulfate can be identified by its [[crystal-structure-and-crystal-defects]]:
 approximately 1/4 inch long needle-like shards of glass. A full dose
 fills two double-0 gelatin capsules. Mescaline hydrochloride, a less
 common form, is said to be about 25% more potent than mescaline
@@ -49,7 +49,7 @@ material was not genuine mescaline.
 - **Peyote**: Potency varies widely. Some report effects from 3-4
   buttons; more commonly 12-15 are consumed; over two dozen is not
   unheard of.
-- **San Pedro**: A piece approximately 10 inches long and 3 inches in
+- **[[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]]**: A piece approximately 10 inches long and 3 inches in
   diameter produces full effects. Cactus is most potent when
   harvested during hotter times of year.
 
@@ -66,7 +66,7 @@ sand mixture with good drainage.
 
 ## Preparation Method
 
-Turner's preparation method for San Pedro:
+Turner's preparation method for [[mescaline-peyote-and-san-pedro-guide]]:
 
 1. Cut out the spines, which is fairly easy on most Trichocereus
    species.
@@ -90,7 +90,7 @@ experienced users.
 Trichocereus cacti can be found in many large nurseries, particularly
 those dealing in cacti and succulents. Turner recommended buying from
 nurseries that mark their cacti with botanical names and avoiding
-asking for psychoactive cacti by name, to keep the practice discreet.
+asking for [[peyote-and-psychoactive-cacti]] by name, to keep the practice discreet.
 Cacti are also available from herb and plant dealers catering to the
 underground market. They remain legal for ornamental purposes.
 

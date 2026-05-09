@@ -8,7 +8,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dy
 ---
 # Arbuscule and Intraradical Hyphae Isolation from Mycorrhizal Roots
 
-The isolation of metabolically active arbuscules and intraradical hyphae from mycorrhizal roots is essential for biochemical and molecular studies of the [[phosphorus-plant-nutrition]] is transferred from the fungus to the plant while carbon compounds flow from the plant to the fungus. Alkaline phosphatase activity expressed in arbuscules relates to the efficiency of phosphorus uptake and sugar metabolism. Isolation of arbuscules from host tissue is necessary to clarify the biochemical mechanisms of nutrient exchange at the arbuscular interface.
+The isolation of [[isolation-metabolically-active-arbuscules-intraradical-hyphae]] arbuscules and intraradical hyphae from mycorrhizal roots is essential for biochemical and molecular studies of the [[phosphorus-plant-nutrition]] is transferred from the fungus to the plant while carbon compounds flow from the plant to the fungus. Alkaline [[mycorrhizal-phosphatase-activity-elf97-detection]] expressed in arbuscules relates to the efficiency of phosphorus uptake and sugar metabolism. Isolation of arbuscules from host tissue is necessary to clarify the biochemical mechanisms of [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] at the arbuscular interface.
 
 Phosphorus is transferred from the fungus to the plant while carbon compounds flow from the plant to the fungus.
 
@@ -18,7 +18,7 @@ Isolation of arbuscules from host tissue is necessary to clarify the biochemical
 
 ## Enzymatic Digestion Method
 
-The primary method for isolating intraradical fungal structures involves enzymatic digestion of root cell walls. The digestion solution contains 1% cellulase, 0.2% pectolase, 0.1% bovine serum albumin, 1 mM dithiothreitol (DTT), 0.01 M Mes-NaOH buffer at pH 5.5, and 0.3 M mannitol. Fresh roots are cut into 5-mm segments and incubated in the digestion solution for 1-2 hours at 30 degrees C in a reciprocal shaker at 110-120 strokes per minute. Extended digestion (over 12 hours) reduces the metabolic activity of the hyphae.
+The primary method for isolating intraradical fungal structures involves enzymatic digestion of root cell walls. The digestion solution contains 1% cellulase, 0.2% pectolase, 0.1% bovine serum albumin, 1 mM dithiothreitol (DTT), 0.01 M Mes-NaOH buffer at pH 5.5, and 0.3 M mannitol. Fresh roots are cut into 5-mm segments and incubated in the digestion solution for 1-2 hours at 30 degrees C in a reciprocal shaker at 110-120 strokes per minute. Extended digestion (over 12 hours) reduces the [[arbuscule-isolation-metabolic-activity-assays]] of the hyphae.
 
 The digestion solution contains 1% cellulase, 0.2% pectolase, 0.1% bovine serum albumin, 1 mM dithiothreitol (DTT), 0.01 M Mes-NaOH buffer at pH 5.5, and 0.3 M mannitol.
 
@@ -46,17 +46,17 @@ A final wash at 1,000 times gravity for 10 minutes removes residual Percoll.
 
 ## Assessment of Metabolic Activity
 
-Metabolic activity of isolated arbuscules and hyphae is assessed using histochemical staining for succinate dehydrogenase (SDH) activity. SDH-active structures indicate viable, metabolically active fungal tissue. The nitroblue tetrazolium (NBT) method reveals SDH activity through the deposition of blue formazan salts in actively respiring hyphae and arbuscules. See also [[mycorrhizal-symbiosis]].
+Metabolic activity of isolated arbuscules and hyphae is assessed using histochemical staining for succinate dehydrogenase (SDH) activity. SDH-active structures indicate viable, metabolically active fungal tissue. The nitroblue tetrazolium (NBT) method reveals SDH activity through the deposition of blue formazan salts in actively respiring hyphae and arbuscules. See also mycorrhizal-symbiosis.
 
 SDH-active structures indicate viable, metabolically active fungal tissue.
 
 The nitroblue tetrazolium (NBT) method reveals SDH activity through the deposition of blue formazan salts in actively respiring hyphae and arbuscules.
 
-The proportion of SDH-active arbuscules provides a measure of the functional status of the mycorrhizal symbiosis.
+The proportion of SDH-active arbuscules provides a measure of the functional status of the [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]].
 
 ## Host Plant Considerations
 
-The choice of host plant significantly affects the success of arbuscule isolation. Most studies have used onion (Allium cepa) roots due to their relatively soft texture and high mycorrhizal colonization rates. The har1 mutant of Lotus japonicus (previously known as Ljsym78) shows increased arbuscule formation compared to the wild type, with most arbuscules being SDH-active, well-developed, and morphologically robust. This mutant provides an excellent source of arbuscule material for isolation studies.
+The choice of host plant significantly affects the success of arbuscule isolation. Most studies have used onion (Allium cepa) roots due to their relatively soft texture and high [[arbuscular-mycorrhizal-colonization-patterns]] rates. The har1 mutant of Lotus japonicus (previously known as Ljsym78) shows increased arbuscule formation compared to the wild type, with most arbuscules being SDH-active, well-developed, and morphologically robust. This mutant provides an excellent source of arbuscule material for isolation studies.
 
 Most studies have used onion (Allium cepa) roots due to their relatively soft texture and high mycorrhizal colonization rates.
 
@@ -87,3 +87,5 @@ Nucleic acid extraction enables gene expression studies of fungal genes active i
 Biochemical analysis of carbohydrate and lipid metabolism reveals the pathways of carbon and phosphorus exchange.
 
 ## See Also
+
+- [[arbuscule-isolation-metabolic-activity-assays]]

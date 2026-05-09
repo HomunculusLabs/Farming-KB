@@ -12,7 +12,7 @@ sources:
 
 updated: 2021-04-18
 
-Glaucoma is one of the most well-documented medical applications of cannabis, dating back to the 1970s. Research from The Cannabis Health Index documents the ability of [[cannabis-anti-inflammatory-applications]] effects in endotoxin-induced uveitis (British Journal of Pharmacology)
+Glaucoma is one of the most well-documented medical applications of cannabis, dating back to the 1970s. Research from The [[blesching-cannabis-health-index-autoimmune-conditions]] documents the ability of [[cannabis-anti-inflammatory-applications]] effects in endotoxin-induced uveitis (British Journal of Pharmacology)
 - **El-Remessy et al. (2008)**: CBD showed neuroprotective effects in endotoxin-induced uveitis via p38 MAPK inhibition (Molecular Vision)
 - **Xu et al. (2007)**: CB2-selective agonist JWH-133 showed anti-inflammatory property in autoimmune uveoretinitis (Journal of Leukocyte Biology)
 
@@ -22,7 +22,7 @@ Cannabinoid receptors (CB1 and CB2) are present and regulated in human retinal p
 ### Night Vision
 **Russo et al. (2004)**: "Cannabis improves night vision: A case study of dark adaptometry and scotopic sensitivity in kif smokers of the Rif mountains of northern Morocco." Journal of Ethnopharmacology 93(1):99-104.
 
-A fascinating study documenting improved night vision in Moroccan cannabis users, consistent with traditional knowledge from the region.
+A fascinating study documenting [[blesching-cannabis-improved-night-vision]] vision in Moroccan cannabis users, consistent with traditional knowledge from the region.
 
 ## Hypnosis and Intraocular Pressure
 **Berger and Simel (1958)**: "Effect of hypnosis on intraocular pressure in normal and glaucomatous subjects." Psychosomatic Medicine 20:321-27.
@@ -33,7 +33,7 @@ Demonstrated that hypnosis could reduce intraocular pressure, suggesting a mind-
 
 - **Dark chocolate**: "The sweet secret" -- beneficial effects on blood flow (Hermann et al., 2005)
 - **Cinnamon**: Phenolic constituents with antioxidant activity (Jayaprakasha et al., 2006)
-- **Cloves**: Essential oil with antioxidant properties (Jirovetz et al., 2006)
+- **Cloves**: [[permaculture-designers-manual-essential-oil-plants]] with antioxidant properties (Jirovetz et al., 2006)
 - **Fennel**: Beneficial effects on ethanol-induced gastric mucosal injury (related to antioxidant protection)
 - **Ginger**: Antioxidant properties and protection of vascular endothelium
 - **Rosemary**: Potent antiglycative effects (Hsieh et al., 2007)
@@ -47,7 +47,7 @@ The primary limitation of cannabis for glaucoma is that the IOP-lowering effect 
 ### Smoking Risks
 Smoking cannabis to treat glaucoma is counterproductive because:
 - Smoke irritates the eyes
-- Long-term smoking may increase oxidative stress
+- Long-term smoking may increase [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]
 - Carbon monoxide exposure affects blood vessels
 
 ### Better Delivery Methods
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

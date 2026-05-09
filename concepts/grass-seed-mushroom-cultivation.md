@@ -1,5 +1,5 @@
 ---
-title: grass seed mushroom cultivation
+title: grass seed accessible-mushroom-cultivation-for-disabilities
 created: 2026-04-28
 tags:
   - mycology
@@ -18,8 +18,8 @@ type: concept
 
 # Grass Seed Mushroom Cultivation
 
-Grass seed substrate is a versatile and efficient medium for the cultivation of hallucinogenic mushroom species, particularly *Psilocybe mexicana* and *Psilocybe tampanensis*, both of which produce sclerotia (truffle-like underground masses) as well as fruiting bodies. The technique was popularized by the late GUID, a pioneering figure in the online [[psilocybe-cubensis]]**: Produces mushrooms on grass seed, though rye grain is generally preferred for this species due to larger fruiting body size.
-- **[[spore-syringe]], mycelium syringe, agar squares, or liquid culture. The paramount requirement is working clean:
+Grass seed substrate is a versatile and efficient medium for the cultivation of [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]] species, particularly *Psilocybe mexicana* and *[[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]]*, both of which produce sclerotia (truffle-like underground masses) as well as fruiting bodies. The technique was popularized by the late GUID, a pioneering figure in the online [[psilocybe-cubensis]]**: Produces mushrooms on grass seed, though rye grain is generally preferred for this species due to larger fruiting body size.
+- **[[spore-syringe]], [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]], agar squares, or liquid culture. The paramount requirement is working clean:
 
 - Syringe needles must be flamed before each inoculation
 - Scalpels for agar transfer must be flamed before use
@@ -30,7 +30,7 @@ Grass seed substrate is a versatile and efficient medium for the cultivation of 
 
 ### Safety Warning
 
-Alcohol and spray Lysol used for surface sterilization are highly flammable and must not be used near open flames used for needle/scalpel sterilization.
+Alcohol and spray Lysol used for [[challenge-organisms-nasa-microwave-surface-sterilization-testing]] are highly flammable and must not be used near open flames used for needle/scalpel sterilization.
 
 ## Colonization
 
@@ -74,7 +74,7 @@ The method uses simple clear plastic bins covered with polyethylene sheeting. Ho
 
 ### Cold Shocking
 
-Harder-to-fruit strains benefit from cold shocking — placing trays in a refrigerator overnight before introducing to the fruiting bin. Easy-fruiting strains such as Ecuador cubensis do not require this treatment. *Psilocybe mexicana*, *Psilocybe tampanensis*, and *Panaeolus subbalteatus* do not benefit from cold shocking.
+Harder-to-fruit strains benefit from cold shocking — placing trays in a refrigerator overnight before introducing to the fruiting bin. Easy-fruiting strains such as Ecuador cubensis do not require this treatment. *Psilocybe mexicana*, *Psilocybe tampanensis*, and *[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]* do not benefit from cold shocking.
 
 ### Watering and Flush Management
 

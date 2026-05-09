@@ -1,5 +1,5 @@
 ---
-title: "How to Extract and Use Fungal Pigments for Natural Dyeing"
+title: "How to Extract and Use query how to extract and use fungal pigments for natural dyeing for query-how-do-i-start-natural-dyeing-with-plants"
 created: 2026-04-28
 tags:
   - mycology
@@ -15,7 +15,7 @@ sources:
   - Casselman, M. (2015). *Mushrooms for Dyes, Paper, Pigments & Myco-Stix*. Mudmine Press.
   - Haines, J. (2020). "Fungal Dyes: Sources, Chemistry, and Colorfastness." *Mycologia*, 112(3), 501-518.
   - Peck, S.E. (2009). "Ethnomyco-Dyeing: Traditional and Modern Uses of Fungal Pigments." *Economic Botany*, 63(1), 67-79.
-  - Ryytty, R. et al. (2019). "Cultivation of Dye Fungi on Agricultural Waste Substrates." *Journal of Applied Mycology*, 14(2), 210-225.
+  - Ryytty, R. et al. (2019). "Cultivation of Dye Fungi on [[fungi-in-composting-and-agricultural-waste-conversion]] Substrates." *Journal of Applied Mycology*, 14(2), 210-225.
   - Boulos, L. & Francis, F. (2022). "Sustainable Color: Advances in Fungal Pigment Extraction for Textile Applications." *Dyes and Pigments*, 198, 110412.
 type: query
 ---
@@ -37,7 +37,7 @@ The basic extraction process is straightforward:
 5. **Simmer** in a stainless steel or enamel pot (never aluminum) at a low boil for 1 to 2 hours. Use roughly equal parts mushroom material to water by weight.
 6. **Strain** the liquid through a fine mesh or cheesecloth. The resulting dyebath is ready to use.
 
-For pigment-rich species like Cortinarius, you can often reuse the dyebath for a second, lighter batch. Save the spent mushroom material for compost   it returns nutrients to the soil.
+For pigment-rich species like Cortinarius, you can often reuse the dyebath for a second, lighter batch. Save the [[staycare-spent-mushroom-compost-bioremediation]] material for compost   it returns nutrients to the soil.
 
  -
 
@@ -59,7 +59,7 @@ Always mordant fiber **before** dyeing. Dissolve the mordant in hot water, add y
 
 Yes, several dye fungi can be cultivated, making the craft more sustainable and reliable:
 
-- **Phaeolus schweinitzii** and **Ganoderma species** can be grown on inoculated conifer wood chips or logs using plug spawn or sawdust spawn.
+- **Phaeolus schweinitzii** and **Ganoderma species** can be grown on inoculated conifer wood chips or logs using plug spawn or [[growing-gourmet-sawdust-spawn-production-use]].
 - **Pisolithus tinctorius** associates with tree roots and can be introduced to soil near compatible tree species (especially pines and oaks).
 - **[[pleurotus-ostreatus]])**, while not a traditional dye species, can produce soft yellow-tan dyes and are very easy to grow on straw or hardwood sawdust.
 - **[[trametes-versicolor-entity]]** (turkey tail) grows readily on hardwood logs and produces yellows and golds.
@@ -73,7 +73,7 @@ Purchase spawn from reputable mycology suppliers. Inoculate outdoor wood chip be
 Mushroom dyeing involves some important safety considerations:
 
 - **Proper identification is non-negotiable.** Some dye mushrooms have toxic lookalikes. Study with local mycological groups or experienced foragers before harvesting.
-- **Work in a well-ventilated area.** Simmering mushrooms release spores and volatile compounds. Use a dedicated dye pot, never one used for food preparation.
+- **Work in a well-ventilated area.** Simmering mushrooms release spores and [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]. Use a dedicated dye pot, never one used for food preparation.
 - **Wear gloves** when handling mordants, especially copper and tin, which are toxic in quantity. Iron and alum are safer but can still irritate skin.
 - **Never dye in food preparation areas.** Keep dye tools, pots, and utensils separate from kitchen equipment.
 - **Dispose of spent mordant solutions responsibly.** Copper and tin solutions should not be poured down drains; dispose of them according to local hazardous waste guidelines.

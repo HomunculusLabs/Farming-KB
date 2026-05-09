@@ -14,7 +14,7 @@ type: concept
 ## Overview
 
 [[water-management]] required — it does not involve the prolonged
-submersion that characterizes conventional rice cultivation, which rots
+submersion that characterizes conventional [[jadam-rice-cultivation-methods]], which rots
 roots and weakens plants.
 
 ### Summer: Minimal Irrigation
@@ -22,7 +22,7 @@ roots and weakens plants.
 In June and July, the field is left unirrigated. In August, water is run
 through the drainage ditches once every week or ten days. This minimal
 irrigation stands in stark contrast to conventional paddy farming, which
-maintains continuous flooding throughout the growing season.
+maintains continuous flooding throughout the [[savory-growing-season-and-non-growing-season-management]].
 
 ### Autumn: Harvest and Repeat
 
@@ -32,9 +32,9 @@ heads. The cycle begins again.
 
 ## The Role of Clover
 
-White clover (*[[happy-hill-rice-strain]]
+[[fukuoka-white-clover-cover-crop-system]] (*[[happy-hill-rice-strain]]
 
-Fukuoka developed a hardy rice variety he called "Happy Hill," which
+Fukuoka developed a hardy [[fukuoka-old-rice-variety-testing]] he called "Happy Hill," which
 contains the blood of wild variants yet is one of the highest yielding
 strains of rice in the world. A single head of Happy Hill, if sent to a
 country where food is scarce and sown over a ten-square-yard area, would
@@ -46,8 +46,8 @@ year, fifty acres two years hence, and 7,000 acres in the fourth year.
 The entire method requires the labor of only one or two people per
 quarter-acre. The work consists essentially of:
 1. Broadcasting clover and winter grain over standing rice (autumn)
-2. Harvesting rice, threshing, and scattering straw (autumn)
-3. Scattering clay pellets of rice seed (winter)
+2. Harvesting rice, threshing, and [[fukuoka-scattering-straw-technique]] (autumn)
+3. Scattering [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] of rice seed (winter)
 4. Harvesting winter grain, threshing, and scattering straw (spring)
 5. Brief flooding to manage clover (early summer)
 6. Minimal irrigation (summer)
@@ -55,9 +55,11 @@ quarter-acre. The work consists essentially of:
 Fukuoka reduced farming to essentially two activities: sowing seed and
 spreading straw. "Human effort is unnecessary because nature, not man,
 grows the rice and wheat."
+
 ## See Also
 
 - [[fukuoka-clover-rice-barley-succession]]
+
 ## Practical Considerations
 
 Successful implementation of Fukuoka's No-Till Winter Grain and Rice Succession Method requires attention to
@@ -76,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

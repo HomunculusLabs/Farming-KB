@@ -1,5 +1,5 @@
 ---
-title: "Sediment Management and Check Dam Systems"
+title: "mollison sediment management and check dam systems and mollison-designers-check-dam-types-and-landscape-placement Systems"
 created: 2026-04-26
 tags:
   - permaculture
@@ -98,7 +98,7 @@ The landscape can be seen (as though sliced into layers through contours)
 as a set of catchment, storage, usage, and revitalisation zones. Check
 dams operate in the catchment zone, intercepting water and sediment
 before they concentrate in valleys. When combined with swales,
-diversion drains, and contour dams, they create a comprehensive system
+[[mollison-designers-diversion-drains-and-interceptor-banks]], and contour dams, they create a comprehensive system
 that treats every drop of water and every particle of soil as a resource.
 
 ## Soil Catena and Erosion Sequences
@@ -115,7 +115,7 @@ downward, stabilizing each level before addressing the next.
 ## Sediment as Fertilizer
 
 Captured sediment is often the most fertile material on the landscape,
-containing fine clay particles, organic matter, and minerals washed from
+containing fine clay particles, [[hamilton-composting-and-organic-matter-management]], and minerals washed from
 upper slopes. When check dams create deposition areas above croplands,
 this enriched sediment gradually moves into the root zones of productive
 species. In effect, the check dam system mines the upper slopes for
@@ -124,7 +124,7 @@ fertility and deposits it where crops can use it.
 ## Integration with Permaculture Systems
 
 - [[mollison-soil-erosion-control]] for upstream erosion prevention.
-- [[mollison-arid-lands-design-and-erosion-control]] for dryland
+- mollison-arid-lands-design-and-erosion-control for dryland
   sediment management.
 - [[mollison-flood-retardation-by-trees-and-earthworks]] for the
   relationship between sediment and flood management.
@@ -143,3 +143,5 @@ fertility and deposits it where crops can use it.
   benches once they form.
 6. Combine sediment capture with water spreading to maximize
   infiltration and revegetation.
+## See Also
+- [[mollison-designers-check-dam-types-and-landscape-placement]]

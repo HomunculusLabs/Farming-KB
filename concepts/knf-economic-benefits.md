@@ -12,13 +12,13 @@ sources:
 
 updated: 2026-04-18
 
-One of the most compelling arguments for Korean Natural Farming (KNF) is its economic advantage over conventional farming. Dr. Cho developed his system at a time when conventional agriculture was recognized as "ecologically not sustainable, economically also not viable, and environmentally ruinous." KNF addresses all three concerns simultaneously.
+One of the most compelling arguments for Korean [[comparison-natural-farming-vs-permaculture]] (KNF) is its economic advantage over conventional farming. Dr. Cho developed his system at a time when conventional agriculture was recognized as "ecologically not sustainable, economically also not viable, and environmentally ruinous." KNF addresses all three concerns simultaneously.
 
 ## Core Economic Principles
 
 KNF economics are built on several fundamental advantages:
 
-**Locally sourced, homemade inputs:** Natural Farming uses natural materials instead of chemicals to make its unique inputs. Materials are locally available and cheap, and the farming inputs are made by the farmers instead of being purchased from the market, thus lowering cost for the farmers and converting waste as resources. Every KNF input -- from [[master-cho-knf-ffj-fermented-fruit-juice-guide]] to [[knf-nutritive-cycle-theory]], using accurate amounts of substances at the precise moment, nourishing the soil with the right amounts of nutrients when the plants or animals need it. This precision eliminates waste from over-application and prevents the nutrient imbalances that reduce yield in conventional systems.
+**Locally sourced, homemade inputs:** Natural Farming uses natural materials instead of chemicals to make its unique inputs. Materials are locally available and cheap, and the [[natural-farming-inputs-cho]] are made by the farmers instead of being purchased from the market, thus lowering cost for the farmers and converting waste as resources. Every [[complete-knf-input-reference]] -- from [[master-cho-knf-ffj-fermented-fruit-juice-guide]] to [[knf-nutritive-cycle-theory]], using accurate amounts of substances at the precise moment, nourishing the soil with the right amounts of nutrients when the plants or animals need it. This precision eliminates waste from over-application and prevents the nutrient imbalances that reduce yield in conventional systems.
 
 The result is higher yield with lower cost -- the book states that NF "produces more with less cost and labour" and is "highly economical and practicable in terms of production and productivity of crops and livestock."
 
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

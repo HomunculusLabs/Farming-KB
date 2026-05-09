@@ -1,10 +1,11 @@
 ---
-title: "Rocket Stove vs Masonry Heater"
+title: "comparison rocket stove vs masonry heater vs Masonry Heater"
 created: 2026-04-28
 tags: [comparison, heating, wood-burning, efficient-heating, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -29,8 +30,8 @@ Major design types include contraflow (Finnish, most common), downdraft, bell, a
 configurations, with efficiencies reaching 80-90%.
 
 Masonry heaters offer the most refined and proven version of clean-burn, thermal-mass heating.
-Their long heritage across Northern and Eastern Europe means design principles are
-well-documented and code acceptance is more established than rocket mass heaters in many areas.
+Their long heritage across Northern and Eastern Europe means [[holmgren-permaculture-twelve-design-principles-framework]] are
+well-documented and code acceptance is more established than [[query-what-is-a-rocket-mass-heater-and-how-does-it-work]] heaters in many areas.
 The gentle radiant heat is exceptionally comfortable, avoiding the dry, hot air blast of
 forced-air systems. Masonry heaters produce minimal creosote and have very low chimney fire
 risk. When faced with decorative tile (kachelofen style), they become functional art pieces
@@ -60,7 +61,7 @@ small fires over a full week to drive residual moisture from the masonry.
 ## When to Choose a Rocket Stove
 Rocket stoves are ideal for off-grid homesteads where cost must be minimized, where abundant
 small-diameter wood waste is available, and where building code restrictions are minimal or
-manageable. They suit outdoor kitchens, greenhouse heating, workshop spaces, and any situation
+manageable. They suit outdoor kitchens, [[biomass-compost-greenhouse-heating-systems]], workshop spaces, and any situation
 where the builder wants hands-on control over design and construction. The rocket mass heater
 variant is particularly compelling for homes heated daily in moderate climates, where a single
 short burn provides all-day comfort through a cob bench.
@@ -95,9 +96,9 @@ cost of ownership is often competitive with or lower than conventional heating s
 Some builders combine a rocket stove combustion core with masonry heater mass and channel
 design, attempting to merge rocket stove efficiency with masonry heater elegance. Rocket stove
 mass heaters can be faced with decorative tile or stone for improved aesthetics. Both systems
-can be integrated with domestic hot water heating coils, and both benefit from passive solar
+can be integrated with domestic hot water heating coils, and both benefit from [[comparison-passive-solar-vs-earth-sheltered]]
 design that reduces overall heating demand. A rocket stove core within a masonry heater bell
-chamber represents a promising frontier in efficient wood heating, combining the best
+chamber represents a promising frontier in [[rocket-stove-design]] heating, combining the best
 engineering principles of both traditions.
 
 ## See Also

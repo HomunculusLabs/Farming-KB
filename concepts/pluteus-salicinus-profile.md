@@ -1,5 +1,5 @@
 ---
-title: Pluteus salicinus Profile
+title: gartz-pluteus-salicinus-wood-inhabiting-psilocybin Profile
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -13,7 +13,7 @@ sources:
 Pluteus salicinus is a little-known wood-inhabiting psychoactive mushroom species
 belonging to the Pluteaceae family. It represents one of the less commonly
 encountered European species containing psilocybin and is notable for growing on
-dead wood rather than in pastures or grassland like many other psychoactive species.
+[[fungal-dead-wood-diversity]] rather than in pastures or grassland like many other psychoactive species.
 
 ## Taxonomy and Distribution
 
@@ -56,7 +56,7 @@ Pluteus salicinus displays several distinguishing features:
 
 ## Chemistry
 
-Chemical analysis of Pluteus salicinus has confirmed the presence of psilocybin,
+[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of Pluteus salicinus has confirmed the presence of psilocybin,
 [[amanita-muscaria-chemistry-and-pharmacology]], placing it firmly
 among the psychoactive mushroom species.
 

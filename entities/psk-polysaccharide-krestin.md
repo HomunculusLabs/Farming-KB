@@ -16,11 +16,11 @@ type: entity
 
 ## Overview
 PSK (Krestin) is a water-soluble protein-bound polysaccharide extracted
-from mycelial cultures of Trametes versicolor (Turkey Tail mushroom).
+from mycelial cultures of [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] (Turkey [[turkey-tail-mushroom-cancer-research]]).
 It is one of the most commercially successful mushroom-derived
 pharmaceuticals, at its peak accounting for 25% of total anti-cancer
 agent expenditure in Japan (1987). PSK acts through dual pathways:
-directly on tumour cells and indirectly through host immune activation.
+directly on tumour cells and indirectly through [[fungal-virulence-factors-host-immune-evasion]] activation.
 
 ## Key Details
 
@@ -46,7 +46,7 @@ immunostimulatory compounds:
 - Shows antiviral activity through interferon production stimulation
 
 ### Clinical Applications
-- Phase I, II, and III clinical trials completed successfully
+- Phase I, II, and III [[mushroom-cancer-clinical-trials-overview]] completed successfully
 - Effective against cancers of the stomach, oesophagus, nasopharynx,
   colon, rectum, lung, and subsets of breast cancer
 - Protects against immunosuppression from surgery and long-term

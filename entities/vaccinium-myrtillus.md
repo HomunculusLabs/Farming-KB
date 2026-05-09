@@ -24,7 +24,7 @@ sources:
 ## Overview
 
 **Vaccinium myrtillus** L., bilberry or whortleberry, is a low-growing 
-deciduous shrub in the family Ericaceae. Native to Europe, northern Asia, and western North America, it is one of the most economically important wild-harvested berries globally.
+deciduous shrub in the family Ericaceae. Native to Europe, northern Asia, and western [[psilocybin-north-america-pacific-northwest]], it is one of the most economically important wild-harvested berries globally.
 
 Renowned for exceptionally high anthocyanin content (300–700 mg/100 g 
 fresh fruit), bilberry extracts are among the best-selling botanical supplements for visual function, cardiovascular health, and glycemic regulation. Unlike cultivated highbush blueberry (*V. corymbosum*), bilberry produces smaller, more intensely colored berries with significantly higher polyphenol concentrations.
@@ -61,8 +61,8 @@ greenish-white to pink. Blooms May–June. Pollinated by bumblebees (*Bombus* sp
 **Fruit:** Spherical, 5–9 mm, dark blue-black with greyish-blue waxy 
 bloom. Flesh purple-red throughout (unlike cultivated blueberry where pigment is skin-only). Sweet-tart, aromatic. Numerous small soft seeds.
 
-**Roots:** Shallow fibrous system with obligate ericoid mycorrhizal 
-association with *Rhizoscyphus ericae* aggregate — essential for nutrient uptake in acidic, low-nutrient soils.
+**Roots:** Shallow fibrous system with obligate [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] 
+association with *Rhizoscyphus ericae* aggregate — essential for [[plant-nutrient-uptake-mechanisms]] in acidic, low-nutrient soils.
 
 ## Distribution and Habitat
 
@@ -95,7 +95,7 @@ mild antiplatelet effects, endothelial protection via NO modulation.
 sensitivity in type 2 diabetes, inhibits α-glucosidase and α-amylase.
 
 **Anti-inflammatory:** Anthocyanins inhibit NF-κB and COX-2 pathways. 
-Reduced inflammatory markers in clinical trials.
+Reduced inflammatory markers in [[mushroom-cancer-clinical-trials-overview]].
 
 ## Traditional Uses
 
@@ -112,7 +112,7 @@ Challenges: slow growth, specific soil requirements, ericoid mycorrhizal depende
 **Food forest ground layer:** Excellent low shrub layer; partial shade 
 tolerance allows thriving beneath canopy trees.
 
-**Ecosystem functions:** Soil stabilization, erosion control via dense 
+**Ecosystem functions:** Soil stabilization, [[permplant-willows-salix-erosion-control-fodder]] via dense 
 rhizomes, bumblebee nectar source, wildlife food, ericoid mycorrhizal host supporting beneficial fungal networks.
 
 **Companions:** Pine, spruce, birch (overstory providing acidic leaf 
@@ -123,11 +123,16 @@ litter); heather (*Calluna vulgaris*), lingonberry (*V. vitis-idaea*); lichens, 
 - **V. corymbosum** — highbush blueberry; larger fruit, lower anthocyanin content
 - **V. vitis-idaea** — lingonberry; evergreen, tarter berries, similar habitat
 - **V. uliginosum** — bog bilberry; wetland species, less aromatic
-- **V. angustifolium** — lowbush blueberry; North American, commercially wild-harvested
+- **V. angustifolium** — lowbush blueberry; [[growing-gourmet-north-american-reishi-species]], commercially wild-harvested
 - [[vaccinium-ovatum]]
 
 - [[food-forest]]
 
 ## See Also
+
+- [[vaccinium-simulatum]]
+- [[vaccinium-tenellum]]
+
+- [[vaccinium-caesariense]]
 
 - [[permaculture-plants-medicinal-herbs-healing]]

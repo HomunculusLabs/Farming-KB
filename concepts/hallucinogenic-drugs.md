@@ -1,5 +1,5 @@
 ---
-title: Hallucinogenic Drugs
+title: metzner-hallucinogenic-drugs-psychotherapy-shamanism
 created: 2026-04-28
 tags: [pharmacology, psychedelics, consciousness, neuroscience]
 date: 2026-04-28
@@ -24,18 +24,18 @@ simple sensory distortion to encompass fundamental changes in consciousness.
 Hallucinogenic drugs are broadly classified into several pharmacological
 families based on their chemical structure and mechanism of action:
 
-**Classic Psychedelics (Serotonergic)**: LSD (lysergic acid diethylamide),
+**Classic Psychedelics (Serotonergic)**: LSD ([[ergot-and-lysergic-acid-history]] diethylamide),
 psilocybin, DMT (N,N-dimethyltryptamine), and mescaline are tryptamine or
 phenethylamine derivatives that primarily act as agonists at the 5-HT2A
 serotonin receptor. They produce characteristic visual hallucinations, altered
-sense of time, synesthesia, and ego dissolution at sufficient doses. Despite
+sense of time, synesthesia, and [[psilocybin-ego-dissolution-mechanisms]] at sufficient doses. Despite
 structural differences, these compounds share a remarkably similar subjective
 effects profile.
 
 **Dissociatives**: Ketamine, PCP (phencyclidine), and DXM (dextromethorphan)
 act primarily as NMDA receptor antagonists. They produce a sense of detachment
 from the body and environment, analgesia, and at higher doses, profound
-altered states resembling near-death experiences. Ketamine has found increasing
+[[weil-the-natural-mind-altered-states-normalcy]] resembling near-death experiences. Ketamine has found increasing
 clinical use as a rapid-acting antidepressant, particularly for treatment-
 resistant depression.
 
@@ -62,7 +62,7 @@ The primary mechanism of classical hallucinogens involves partial agonism at
 the 5-HT2A serotonin receptor, which is densely expressed in the cerebral
 cortex, particularly in layer V pyramidal neurons. Recent research using fMRI
 and EEG has revealed that psychedelics dramatically reduce functional
-connectivity within the default mode network (DMN), a brain system associated
+connectivity within the [[psilocybin-default-mode-network-ego-dissolution]] network (DMN), a brain system associated
 with self-referential thinking and the sense of ego. This DMN disruption
 correlates with the subjective experience of ego dissolution and is thought
 to underlie many therapeutic effects.
@@ -80,7 +80,7 @@ of years. Archaeological evidence from sites in Peru, Mexico, and the Sahara
 suggests ritual use of psychoactive plants as early as 5000 BCE. Indigenous
 cultures across the Americas, Africa, Asia, and Europe developed sophisticated
 traditions around the ceremonial use of psychedelics, often within shamanic or
-religious frameworks. The Eleusinian Mysteries of ancient Greece, for example,
+religious frameworks. The [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] of ancient Greece, for example,
 may have involved the use of ergot-derived compounds.
 
 The modern scientific era began in 1943 when Albert Hofmann accidentally

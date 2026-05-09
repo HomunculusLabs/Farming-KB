@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-Chamomile ([[stinging-nettle]]) are two of the most widely used medicinal herbs in
+Chamomile ([[stinging-nettle]]) are two of the most widely used [[permaculture-plants-medicinal-herbs-healing]] in
 temperate herbalism, yet they occupy almost opposite ecological niches.
 Chamomile is a gentle, sun-loving annual or low perennial prized for its
 calming flowers and delicate flavour. Nettle is a robust perennial with a
@@ -24,7 +24,7 @@ relaxation or mineral-rich nutrition.
 
 [[stinging-nettle]]
 
-Stinging nettle (*Urtica dioica*) is a perennial herb in the Urticaceae
+[[comparison-stinging-nettle-vs-horsetail]] (*Urtica dioica*) is a perennial herb in the Urticaceae
 family, native to temperate regions across Europe, Asia, and North
 America. Despite its painful sting -- caused by hollow trichomes that
 inject histamine, acetylcholine, and serotonin -- nettle is one of the
@@ -42,10 +42,10 @@ high iron content), and as a diuretic. It is a classic "tonic" herb --
 building strength and nourishing the body over time rather than providing
 immediate symptomatic relief.
 
-In the garden, nettle functions as a dynamic accumulator, drawing deep
+In the garden, nettle functions as a [[nutrient-dynamic-accumulator-reference]], drawing deep
 minerals from subsoil through its extensive rhizome network. Nettle tea
 (fermented or steeped leaves) is a high-nitrogen liquid fertiliser
-comparable to compost tea. The plant also hosts over 40 species of
+comparable to [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]]. The plant also hosts over 40 species of
 insects, including many beneficial predatory species, making it a
 valuable component of biodiverse garden edges.
 
@@ -72,7 +72,7 @@ herbs. If your goal is a pleasant evening tea ritual, chamomile delivers
 consistently with its sweet apple flavour and reliable calming effect.
 In the garden, chamomile excels as a low-maintenance companion plant
 that fills gaps between vegetables with attractive, pollinator-friendly
-flowers. Choose Roman chamomile for a perennial ground cover or lawn
+flowers. Choose Roman chamomile for a perennial [[fukuoka-citrus-orchard-ground-cover-cultivation]] or lawn
 alternative, and German chamomile for maximum flower and tea production.
 
 ## When to Choose Nettle

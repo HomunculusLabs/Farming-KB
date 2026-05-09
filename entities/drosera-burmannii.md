@@ -38,13 +38,13 @@ Leaves are arranged in a flat rosette 3–8 cm in diameter. Individual leaves ar
 
 The lamina is covered with glandular tentacles on both surfaces, an unusual trait among sundews. Most Drosera species have tentacles concentrated on the adaxial surface.
 
-Tentacles are of two types: long marginal tentacles (3–6 mm) that are highly mobile, and shorter stalked glands (1–2 mm) distributed across the leaf surface. Both types secrete sticky mucilage.
+Tentacles are of two types: long marginal tentacles (3–6 mm) that are highly mobile, and shorter stalked glands (1–2 mm) distributed across the [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]]. Both types secrete sticky mucilage.
 
 The inflorescence is a scorpioid cyme, typically bearing 5–15 flowers on a scape 5–15 cm tall. Flowers are small, approximately 5–8 mm in diameter, with white to pale pink petals.
 
-The root system is minimal, consisting of a few thin roots that serve primarily as anchorage. Most water and nutrient uptake occurs through the glandular leaf surfaces.
+The root system is minimal, consisting of a few thin roots that serve primarily as anchorage. Most water and [[plant-nutrient-uptake-mechanisms]] occurs through the glandular leaf surfaces.
 
-The species exhibits considerable morphological variation across its range. Populations from Australia tend to produce larger rosettes than those from Southeast Asia.
+The species exhibits considerable morphological [[psilocybin-psilocin-variation-across-flushes]] its range. Populations from Australia tend to produce larger rosettes than those from [[psilocybe-southeast-asia-pacific]].
 
 ## Distribution and Habitat
 
@@ -68,7 +68,7 @@ In rice paddy ecosystems, *D. burmannii* commonly appears as a volunteer plant a
 
 The rapid response is mediated by an action-potential-like electrical signal that propagates through the leaf tissue. This mechanism is functionally analogous to animal nerve impulses.
 
-When prey contacts a tentacle, the stimulated cells depolarize, triggering a calcium ion cascade. This signal causes cells on the opposite side of the tentacle base to rapidly lose turgor pressure.
+When prey contacts a tentacle, the stimulated cells depolarize, triggering a calcium ion cascade. This signal causes cells on the opposite side of the tentacle base to rapidly lose [[bloomfield-turgor-pressure-and-hyphal-invasion]].
 
 The result is a rapid bending motion that brings the tentacle tip — and its adhesive mucilage — into direct contact with the prey. Adjacent tentacles follow in sequence, progressively enveloping the insect.
 
@@ -100,7 +100,7 @@ A single healthy plant can produce several hundred seeds over its lifetime. Seed
 
 Several natural hybrids with other Australian Drosera species have been documented, though these are uncommon. Hybrid plants typically show intermediate morphology between the parent species.
 
-The rapid tentacle response of *D. burmannii* has made it a model organism for studying plant electrophysiology. Research on this species has contributed to understanding of signal transduction in carnivorous plants.
+The rapid tentacle response of *D. burmannii* has made it a model organism for studying plant electrophysiology. Research on this species has contributed to understanding of [[fungal-environmental-sensing-signal-transduction-read]] in carnivorous plants.
 
 ## See Also
 

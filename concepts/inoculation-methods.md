@@ -1,6 +1,6 @@
 ---
 
-title: Mushroom Inoculation Methods — Spores, Spawn, and Stem Butts
+title: Mushroom mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison — Spores, Spawn, and Stem Butts
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -16,12 +16,13 @@ tags:
 - wood-rot
 
 sources:
-- raw/papers/mycelium-running-stamets.md
+sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # Mushroom Inoculation Methods
 
-From Chapter 9 of *Mycelium Running* by [[paul-stamets]]. This chapter covers the practical methods for starting and expanding mycelium, from the simplest spore techniques to advanced spawn multiplication.
+From Chapter 9 of *[[woodlovers-mycelium-running-pathway-technique]]* by [[paul-stamets]]. This chapter covers the practical methods for starting and expanding mycelium, from the simplest spore techniques to advanced spawn multiplication.
 
 ## Spore Collection
 
@@ -55,7 +56,7 @@ The salt limits bacterial growth without stifling spore germination. This is a m
 - Remove mushroom, incubate cardboard in a sealed container in a cool, dark place
 - After 1 week, look for island colonies of germinating spores
 - Transfer mother colony to a sheet 4x larger for expansion
-- Repeat every 2-3 months; cardboard's wood-based glues boost mycelial growth
+- Repeat every 2-3 months; cardboard's wood-based glues boost [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
 
 ### Spores on Straw (Cold Incubation)
 - Immerse 1g spores in 1 liter water; spread over 10 lbs moist untreated straw
@@ -86,7 +87,7 @@ Spawn is mycelium that has been grown on a carrier medium and is used to inocula
 
 | Spawn Type | Carrier | Best For |
 |-----------|---------|----------|
-| Grain spawn | Sterilized rye, millet, wheat | Indoor cultivation, fast expansion |
+| Grain spawn | Sterilized rye, millet, wheat | [[cannabis-sativa-indoor-cultivation-techniques]], fast expansion |
 | Sawdust spawn | Sterilized hardwood sawdust + bran | Logs, stumps, bulk substrates |
 | Plug/dowel spawn | Wooden dowels grooved for mycelium | Logs, stumps, outdoor beds |
 | Wood chip spawn | Fresh hardwood chips | Outdoor beds, bunker spawn |
@@ -141,30 +142,9 @@ Perhaps the most underappreciated cultivation method:
 
 ### Making Cardboard Spawn from Stem Butts
 1. Gather fresh mushrooms with stem bases and rhizomorphs intact
-2. Clip base just above where stem narrows; keep rootlike rhizomorphs attached
-3. Soak cardboard; place 1 stem butt per ~16 sq inches between panels
-4. Soak, place in box/tub, cover with wood chips
-5. Incubate in shade on the ground 4-5 months
-6. Use each colonized sheet as a mycelial footprint for outdoor beds
-
-### Making Dowel Spawn from Stem Butts
-1. Submerge 10,000 birch dowels in water for days/weeks; drain
-2. Place 4-8 stem butts into the box, pushed 2-4 inches deep, ~4 inches apart
-3. Cover with layers of corrugated cardboard; incubate outdoors (e.g., in a blackberry patch)
-4. After 6 months, harvest large mycelial islands
-5. Remove a third of the dowels; mix remaining ones to stimulate regrowth
-6. Broken rhizomorphs regrow with astonishing vigor
-
-### Exponential Expansion Potential
-- Year 1: 1 stem butt → 10,000 colonized dowels
-- Year 2: Each dowel multiplied 1,000-10,000x = 10-100 million dowels (2,000-20,000 lbs)
-- Year 3: Bunker spawn from these dowels could remediate many acres
-
-**Motto: "Move it or lose it"** — mycelium must be transplanted before it consumes its substrate and dies back.
-
 ## See Also
 
-- [[mushroom-cultivation-basics]] — The 10-step cultivation process, sterile technique
-- [[straw-cultivation-methods]] — Substrate preparation for straw-based growing
+- [[mushroom-cultivation-basics]] — The 10-step cultivation process, [[cultivator-sterile-technique-and-agar-culture]]
+- [[straw-cultivation-methods]] — [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] for straw-based growing
 - [[log-cultivation-methods]] — Plug spawn inoculation of logs and stumps
 - [[fungal-ecology]] — Understanding where mushrooms grow naturally

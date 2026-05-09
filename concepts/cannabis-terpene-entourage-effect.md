@@ -1,9 +1,9 @@
 ---
-title: Cannabis Terpene Entourage Effect
+title: Cannabis blesching-cannabis-cannabinoid-terpene-entourage-effect Effect
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "Blesching - The Cannabis Health Index"
+  - "Blesching - The blesching-cannabis-health-index-autoimmune-conditions"
 type: concept
 tags: [cannabis]
 ---
@@ -52,10 +52,10 @@ The most extensively documented terpene in the Cannabis Health Index, (E)-beta-c
 - Classified as a sesquiterpene by chemists; considered a functional cannabinoid by pharmacologists
 - Selectively binds to CB2 receptors as a non-psychoactive agonist
 - FDA-approved as a dietary food additive (used as a flavoring agent since the 1930s)
-- Content in Cannabis sativa ranges from 12% to 35% of essential oil
+- Content in [[comparison-cannabis-sativa-vs-cannabis-indica]] ranges from 12% to 35% of [[permaculture-designers-manual-essential-oil-plants]]
 - Content in some spices exceeds that of cannabis (Ashanti pepper: 52-58%)
 - Orally administered (E)-beta-caryophyllene produced strong anti-inflammatory and analgesic effects in animal studies
-- Activates CB2 receptor sites and initiates potent anti-inflammatory actions and protection from oxidative stress
+- Activates CB2 receptor sites and initiates potent anti-inflammatory actions and protection from [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]
 - Protects against microbes, inflammation, oxidative stress, pain, and cancer
 
 ### Linalool
@@ -94,7 +94,7 @@ The ratio of cannabinoids and terpenes varies significantly between and within c
 The entourage effect has significant implications for how cannabis medicine should be practiced:
 
 1. **Whole-plant preparations may outperform isolated cannabinoids** for many conditions
-2. **Strain selection matters** because different cannabinoid-terpene profiles produce different therapeutic effects
+2. **[[blesching-cannabis-strain-selection-receptor-targeting]] matters** because different cannabinoid-terpene profiles produce different therapeutic effects
 3. **Raw cannabis preparations** preserve acidic cannabinoid precursors (THC-acid, CBD-acid) with their own therapeutic properties
 4. **Combination with dietary spices** rich in terpenes (black pepper, cloves, cinnamon, basil, rosemary, oregano) may enhance therapeutic outcomes through shared CB2 activation pathways
 5. **Pharmaceutical isolates** (Dronabinol, Nabilone) lack the full spectrum of synergistic co-factors present in whole-plant cannabis
@@ -113,7 +113,7 @@ Research on the entourage effect is still evolving. Possible synergistic effects
 
 ## See Also
 
-- [[cannabis-beta-caryophyllene-dietary-cannabinoid]]
+- [[beta-caryophyllene-dietary-cannabinoid]]
 - [[cannabis-pain-management-protocols]]
 - [[cannabis-thc-cbd-ratio-guide-for-conditions]]
 - [[cannabis-and-cancer-research]]

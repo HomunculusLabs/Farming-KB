@@ -1,5 +1,5 @@
 ---
-title: Ingham — AACT Disease Suppression Mechanisms
+title: Ingham — AACT aact-disease-suppression-mechanisms-ingham Mechanisms
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 # Ingham — AACT Disease Suppression Mechanisms
 
-In the *Field Guide for AACT*, Dr. Elaine Ingham details the specific mechanisms by which [[compost-tea-aact]], [[soil-food-web-management-for-farmers]], [[microbial-disease-suppression-soil]]
+In the *[[ghouled-field-guide-historical-context]] for AACT*, Dr. Elaine Ingham details the specific mechanisms by which [[compost-tea-aact]], [[soil-food-web-management-for-farmers]], [[microbial-disease-suppression-soil]]
 
 - [[ingham-soil-drench-techniques]]
 - [[ingham-disease-case-studies-fungal]]
@@ -143,4 +143,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

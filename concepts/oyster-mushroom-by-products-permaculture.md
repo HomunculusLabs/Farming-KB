@@ -1,6 +1,6 @@
 ---
 title: "Oyster Mushroom By-Products in Permaculture Systems"
-source: "Growing Gourmet and Medicinal Mushrooms"
+source: "Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]"
 source_file: "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 topics:
   - mycology
@@ -17,7 +17,7 @@ topics:
 
 ## Overview
 
-Oyster mushrooms (*Pleurotus* spp.) occupy a uniquely versatile position in permaculture systems because virtually every stage of their cultivation generates useful by-products that can be recycled into other components of the agricultural ecosystem. The spent substrate, gaseous emissions, and even the soaking water from substrate preparation all have demonstrated value as fertilizers, animal fodder, pest control agents, and greenhouse supplements. This cascading utility makes oyster mushroom cultivation one of the most efficient entries into mycological permaculture.
+Oyster mushrooms (*Pleurotus* spp.) occupy a uniquely versatile position in permaculture systems because virtually every stage of their cultivation generates useful by-products that can be recycled into other components of the agricultural ecosystem. The spent substrate, gaseous emissions, and even the soaking water from [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] all have demonstrated value as fertilizers, animal fodder, pest control agents, and greenhouse supplements. This cascading utility makes oyster [[accessible-mushroom-cultivation-for-disabilities]] one of the most efficient entries into mycological permaculture.
 
 Paul Stamets' "Stametsian Model" of permaculture places oyster mushrooms at the center of an integrated food production system. In this model, the linear waste stream of conventional agriculture is replaced with a circular flow where the output of each process becomes the input for the next. Oyster mushrooms are ideally suited to this approach because of their aggressive growth, broad substrate range, and the diverse by-products they generate at every stage of cultivation.
 
@@ -77,7 +77,7 @@ The substrate flexibility of oyster mushrooms reflects their role as primary dec
 
 ### Some Varieties on Conifer Wood
 
-Some varieties within the *Pleurotus pulmonarius* species complex are naturally adapted to growing on conifer wood, which is unusual among cultivated mushrooms. Most gourmet mushroom species cannot degrade the resinous compounds found in softwoods, but these specific oyster strains have evolved the enzymatic machinery to break down conifer lignin. This expands the range of available substrates to include softwood sawdust, chips, and bark — materials that are often abundant and inexpensive in regions dominated by conifer forestry. Additionally, one species, *Pleurotus opuntiae*, is native to cactus substrates including prickly pear, agave, and yucca, suggesting potential for cultivation in arid and semi-arid environments where conventional straw substrates are scarce.
+Some varieties within the *Pleurotus pulmonarius* species complex are naturally adapted to growing on conifer wood, which is unusual among [[fungi-cultivated-mushrooms-pathogens-competitors]]. Most gourmet mushroom species cannot degrade the resinous compounds found in softwoods, but these specific oyster strains have evolved the enzymatic machinery to break down conifer lignin. This expands the range of available substrates to include softwood sawdust, chips, and bark — materials that are often abundant and inexpensive in regions dominated by [[mollison-designers-conifer-forestry-and-timber]]. Additionally, one species, *Pleurotus opuntiae*, is native to cactus substrates including prickly pear, agave, and yucca, suggesting potential for cultivation in arid and semi-arid environments where conventional straw substrates are scarce.
 
 ## Integration Into Garden Systems
 
@@ -91,7 +91,7 @@ Oyster mushrooms can be grown on hardwood stumps and logs, transforming a waste 
 
 ### Soil Amendment and Nematode Control
 
-Beyond their direct value as a growing medium, spent oyster mushroom substrates have been shown to reduce populations of plant-parasitic nematodes when incorporated into garden soils. The mechanisms are not fully understood but may include direct predation by residual fungal hyphae, competition for resources, or the production of nematicidal secondary metabolites. This nematode-suppressive effect adds another layer of utility to the already versatile spent substrate, making it a dual-purpose soil amendment that provides both nutrition and pest protection.
+Beyond their direct value as a growing medium, spent oyster mushroom substrates have been shown to reduce populations of plant-parasitic nematodes when incorporated into garden soils. The mechanisms are not fully understood but may include direct predation by residual fungal hyphae, competition for resources, or the production of nematicidal [[antifungal-secondary-metabolites-coprophilous-fungi]]. This nematode-suppressive effect adds another layer of utility to the already versatile spent substrate, making it a dual-purpose soil amendment that provides both nutrition and pest protection.
 
 ### Paper and Pulp Waste Recycling
 

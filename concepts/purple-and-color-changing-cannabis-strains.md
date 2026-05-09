@@ -19,7 +19,7 @@ Colorful cannabis strains have fascinated growers and consumers for decades. The
 red, and pink hues that develop in certain varieties are the result of anthocyanin pigments —
 the same compounds that produce colors in blueberries, grapes, and autumn leaves. While color
 does not directly correlate with potency or quality, these visually striking strains have become
-some of the most sought-after and celebrated varieties in cannabis culture.
+some of the most sought-after and celebrated varieties in [[mckenna-cannabis-culture-history]].
 
 ## The Science of Cannabis Color
 
@@ -59,7 +59,7 @@ in their most extreme expression. The plant grows tall and lanky with branching 
 whatever it wants, yet its flexible stems allow it to withstand harsh weather and it enjoys a
 remarkable resistance to botrytis.
 After the long 16 to 20 week flowering period, the beautiful purple buds deliver a blackberry
-bubblegum and liqueur flavor. The yields are average but the quality is phenomenal. The high is
+[[bubblegum]] and liqueur flavor. The yields are average but the quality is phenomenal. The high is
 extremely cerebral and massively psychedelic. THC content is approximately 15%.
 
 ### Pink Genghis
@@ -68,20 +68,20 @@ Malama Aina Seeds of Hawaii crossed Blue Genghis with Genetics Gone Madd's Redd 
 Pink Genghis. The name references the explosive color displays of both parent strains. Balanced
 between indica and sativa but expressing more sativa growing characteristics, this compact strain
 develops hints of pink, purple, and even blue toward the end of flowering.
-The plant feeds heavily without experiencing nutrient burn, so growers are encouraged to push
+The plant feeds heavily without experiencing [[cannabis-nutrient-burn-and-toxicity]], so growers are encouraged to push
 their boundaries a little and see what the plant can handle. Topping is always recommended, and
-the strain loves aerated soils. Organic growing methods really bring out the gorgeous flavor,
+the strain loves aerated soils. Organic [[mushroom-growing-methods-comparison]] really bring out the gorgeous flavor,
 described as fresh berries topped with sugar and cream. The high is mind-expanding with enough
 body buzz to keep you nicely relaxed.
 
 ### Shaman
 
 Dutch Passion's Shaman is a combination of Purple #1 and Skunk genetics dating back to the
-1980s. Bred particularly for outdoor and greenhouse cultivation, this strain reaches 5 to 6
+1980s. Bred particularly for [[query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growing]] cultivation, this strain reaches 5 to 6
 feet in height. The 25% indica genetics tame the sativa stretch while the plant retains a
 gorgeous, classical appearance that might just be the most beautiful in any garden.
 While the breeders claim about 50% of Shaman plants will turn blue, many crops end up dark
-purple with barely a touch of green or white. The strain is highly resistant to spider mites and
+purple with barely a touch of green or white. The strain is highly resistant to [[cervantes-spider-mites-identification-control]] and
 mold, flowers in about 8 weeks, and produces resin-dripping, colorful buds that will make
 growers cry when they pull them down.
 THC content is approximately 13.7%. The flavor is typically "purple" with a sharp sweetness, and

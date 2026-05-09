@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Carbon Trading
+title: mycoheterotrophic-plants-mycorrhizal-carbon-theft Trading
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
@@ -9,12 +9,12 @@ sources: [raw/papers/symbiotic-fungi.md]
 
 # mycorrhizal carbon trading
 
-Source: Symbiotic Fungi (Varma and Kharkwal, eds.), Chapters 1, 16
+Source: [[mycelium-running-symbiotic-fungi-relationships]] (Varma and Kharkwal, eds.), Chapters 1, 16
 
 ## Introduction
 
-Carbon trading between plants and [[mycorrhizal-symbiosis]], the arbuscule is the main exchange site.
-Alkaline phosphatase activity at the arbuscule relates to both phosphorus uptake
+Carbon trading between plants and mycorrhizal-symbiosis, the arbuscule is the main exchange site.
+Alkaline [[mycorrhizal-phosphatase-activity-elf97-detection]] at the arbuscule relates to both phosphorus uptake
 efficiency and sugar metabolism. Higher 13C enrichment in lipids of intraradical
 mycelia than in plant root lipids indicates that lipid metabolism is more active
 in intraradical mycelia than in the plant.
@@ -31,7 +31,7 @@ A large proportion of AM fungal carbon is contained in lipids:
 
 Lipid dynamics:
 
-- Phospholipids rapidly degraded when hyphae senesce (PLFAs reflect living organisms)
+- Phospholipids rapidly degraded when hyphae senesce (PLFAs reflect [[savory-living-organisms-as-tools]])
 - Neutral lipids also degraded rapidly upon senescence
 - PLFA 16:1omega5: constituent of AM fungal membranes, low specificity
 - NLFA 16:1omega5: sensitive AM fungal signature in roots and soil
@@ -68,7 +68,7 @@ Key findings from carbon tracking experiments:
 - Labeled respiration from field mycelium ceased within 7 days after pulse-labelling
 - Most carbon assimilated by intra- and extraradical AM structures remained
   32 days after labelling
-- Gradual release of carbon from roots to rhizosphere bacteria at much lower rate
+- Gradual release of carbon from roots to [[lowenfels-rhizosphere-bacteria-plant-interaction]] at much lower rate
   than direct transfer to AM fungi
 - Retention of carbon in AM mycelium may contribute significantly to soil organic carbon
 
@@ -101,7 +101,7 @@ Key findings from carbon tracking experiments:
 
 [[mycorrhizal-networks]]:
 
-- Nitrogen transfer between plants linked by CMNs can be bidirectional
+- [[symbiotic-fungi-mycorrhizal-nitrogen-transfer-networks]] between plants linked by CMNs can be bidirectional
 - Both N2-fixing and non-N2-fixing plants can serve as donors or receivers
 - Direction depends on source-sink relationships between connected plants
 - 15N enrichment method demonstrated net N transfer through ECM networks
@@ -120,3 +120,5 @@ The 13C-labelling technique provides an objective way to:
 ## See Also
 
 - [[symbiotic-fungi-ectomycorrhizal-network-carbon-trading]]
+- [[symbiotic-fungi-carbon-isotope-mycorrhizal-allocation-tracking]]
+- [[ectomycorrhiza]]

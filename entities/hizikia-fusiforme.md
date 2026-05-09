@@ -54,9 +54,9 @@ The species occupies the lower intertidal zone to shallow subtidal waters (0–5
 
 Optimal growth temperatures range from 15–22°C, with the species intolerant of temperatures above 25°C. This thermal preference confines it to temperate latitudes and limits the southern extent of its natural range.
 
-Seasonal growth patterns are pronounced. New frond elongation begins in early spring (March–April), reaching maximum biomass by mid-summer. Fronds senesce and erode through autumn and winter, with the holdfast persisting as the overwintering structure.
+Seasonal growth patterns are pronounced. New frond elongation begins in [[coleman-overwintered-onions-and-early-spring-crops]] (March–April), reaching maximum biomass by mid-summer. Fronds senesce and erode through autumn and winter, with the holdfast persisting as the overwintering structure.
 
-Growth rates vary with exposure and nutrient availability. Shaded, wave-protected sites produce longer but thinner fronds, while exposed sites yield shorter, sturdier plants. Anthropogenic nutrient inputs from coastal agriculture and aquaculture have been associated with increased growth rates and expanded distribution in some regions.
+Growth rates vary with exposure and [[ph-and-nutrient-availability-garden-soils]]. Shaded, wave-protected sites produce longer but thinner fronds, while exposed sites yield shorter, sturdier plants. Anthropogenic nutrient inputs from coastal agriculture and aquaculture have been associated with increased growth rates and expanded distribution in some regions.
 
 The species plays a significant ecological role as habitat and refuge for small invertebrates and juvenile fish. The dense branching structure provides substrate for epiphytic diatoms and microalgae, forming a micro-ecosystem on each thallus. During storms, detached fronds contribute to detrital food webs in deeper coastal waters.
 
@@ -80,7 +80,7 @@ The most common preparation is **hijiki no nimono**, a simmered dish combining r
 
 In Korean cuisine, hijiki (known as **tot**) is used in similar simmered preparations and is also added to bibimbap, chapchae, and rice dishes as a nutritional supplement. Korean consumption patterns are comparable to those of Japan.
 
-Hijiki is valued for its earthy, mildly sweet flavor that absorbs seasonings readily. The dried product has a shelf life of several months when stored in a cool, dry place, making it a practical pantry staple. Commercial products range from whole dried thalli to pre-shredded convenience forms.
+Hijiki is valued for its earthy, mildly sweet flavor that absorbs seasonings readily. The dried product has a [[psilocybin-shelf-life-stability]] of several months when stored in a cool, dry place, making it a practical pantry staple. Commercial products range from whole dried thalli to pre-shredded convenience forms.
 
 The reconstituted seaweed can also be deep-fried as a tempura ingredient, producing a crispy texture that contrasts with the standard simmered preparation. In recent years, hijiki has appeared in Western fusion cuisine as a component of grain bowls, seaweed salads, and plant-based dishes marketed for mineral content.
 
@@ -100,7 +100,7 @@ Quality grading of dried hijiki is based on color (darker is preferred), branch 
 
 The global market for hijiki is largely confined to East Asia, with limited export to diaspora communities. Total annual trade is estimated at 3,000–5,000 tonnes dried weight, valued at approximately USD 30–50 million. Japan accounts for roughly 80% of global consumption.
 
-Environmental monitoring programs in Japan regularly test wild populations for heavy metal contamination beyond arsenic, including cadmium, lead, and mercury. Most harvest areas show levels well within safety standards, though localized pollution hotspots near industrial areas have led to temporary harvest closures.
+Environmental monitoring programs in Japan regularly test wild populations for [[dighton-fungal-biosorption-heavy-metal-remediation]] contamination beyond arsenic, including cadmium, lead, and mercury. Most harvest areas show levels well within safety standards, though localized pollution hotspots near industrial areas have led to temporary harvest closures.
 
 ## See Also
 

@@ -1,9 +1,9 @@
 ---
-title: Beneficial Insects - Cannabis Pest Control
+title: comparison-beneficial-insects-guide-vs-integrated-pest-management - query-how-to-use-neem-oil-for-cannabis-pest-control Control
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -11,13 +11,13 @@ tags: [cannabis]
 
 # Beneficial Insects for Cannabis Pest Control
 
-Biological control using predators and parasites is a cornerstone of [[aphids-cannabis]] (primary target), mealybugs, [[aphids-cannabis]].
+[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] using predators and parasites is a cornerstone of [[aphids-cannabis]] (primary target), mealybugs, [[aphids-cannabis]].
 
 - **Target pests**: [[thrips-cannabis]], [[spider-mites-cannabis]], the most common and destructive cannabis pest. Several species are commercially available:
 
 ### Phytoseiulus persimilis
 
-One of the most common and effective spider mite predators. A specialist predator that feeds almost exclusively on spider mites.
+One of the most common and effective spider mite predators. A specialist predator that feeds almost exclusively on [[cervantes-spider-mites-identification-control]].
 
 ### Neoseiulus (Amblyseius) californicus
 
@@ -62,11 +62,11 @@ The fungus Verticillium lecanii (trade name Mycotal) is also effective against w
 
 ### Environmental Requirements
 
-Predators have very specific climatic requirements for temperature and humidity. Before purchasing, confirm with the supplier:
+Predators have very specific climatic requirements for [[greg-green-temperature-and-humidity-control]]. Before purchasing, confirm with the supplier:
 
 1. Latin name of the predator (to ensure correct identification)
 2. Specific pests attacked
-3. Complete life cycle information
+3. Complete [[bloomfield-fungal-life-cycle-spiral-versus-circle]] information
 4. Preferred climate (temperature and humidity range)
 5. Application rate and mode of application
 

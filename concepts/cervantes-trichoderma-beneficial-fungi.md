@@ -10,7 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources: []
 type: concept
 ---
 
@@ -20,7 +20,7 @@ Trichoderma are beneficial fungi that colonize the root zone, crowding
 out negative fungi and microorganisms while stimulating root
 development and resistance to environmental stress. The result is a
 more vibrant, stronger plant with enhanced disease resistance and
-improved nutrient uptake.
+improved [[plant-nutrient-uptake-mechanisms]].
 
 ## What Is Trichoderma?
 
@@ -58,16 +58,16 @@ Trichoderma colonizes the root zone through several mechanisms:
 
 Trichoderma products can be applied in several ways:
 
-- **Seed Treatment**: Applied to seeds before planting to protect
+- **[[jadam-seed-treatment-and-nursery-management]]**: Applied to seeds before planting to protect
   against soil-borne pathogens during germination.
 
 - **Transplanting**: Mixed into the planting hole or used as a root
   dip during transplanting to establish colonization early.
 
-- **Liquid Fertilizer Integration**: Mixed with liquid fertilizer
+- **[[jadam-liquid-fertilizer-nutritional-perspective]] Integration**: Mixed with liquid fertilizer
   solutions and applied through regular feeding schedules.
 
-- **Drip Irrigation**: Injected into drip irrigation systems for
+- **[[comparison-drip-irrigation-vs-passive-irrigation]]**: Injected into drip irrigation systems for
   consistent delivery to the root zone.
 
 - **Soil Drench**: Watered directly into the soil around established
@@ -83,14 +83,14 @@ that cause rot in seeds, roots, and stems.
 
 The product can be applied to seeds, used during transplanting, mixed
 with liquid fertilizer or via drip irrigation, and/or watered in.
-Trichoderma products contain living organisms that will reproduce after
+Trichoderma products contain [[savory-living-organisms-as-tools]] that will reproduce after
 application, so a small amount will do a lot. It is nontoxic and
 environmentally safe.
 
 ## Integration with Other Inputs
 
 Trichoderma works well alongside other beneficial soil organisms and
-amendments. Products containing humic acid, trichoderma, and
+amendments. Products containing [[comparison-humic-acid-vs-fulvic-acid]], trichoderma, and
 beneficial bacteria provide a comprehensive biological approach to root
 zone management. See [[cervantes-organic-amendments-chart]] lists organic inputs
 that support beneficial fungal populations.

@@ -54,11 +54,11 @@ and heteroatoms have been discussed (Faber, 1997). In general, these
 biotransformations are carried out by whole microbial cultures. The
 development of cell-free enzymatic systems offers advantages in terms
 of control, specificity, and the ability to operate under conditions
-that would be toxic to living organisms.
+that would be toxic to [[savory-living-organisms-as-tools]].
 
 ## Cytochrome P450 Enzymatic Systems
 
-[[singh-fungal-petroleum-hydrocarbon-metabolism]]
+singh-fungal-petroleum-hydrocarbon-metabolism
 - [[singh-laccase-mediated-biodegradation-pahs-dyes]]
 - [[fungal-bioremediation-mechanisms]]
 ## Practical Considerations
@@ -79,4 +79,9 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[trametes-hirsuta]]
+- [[mycoremediation]]
+- [[singh-fungal-rhizodegradation-petroleum-contaminated-soils]]
+- [[singh-petroleum-hydrocarbon-fungal-remediation-technologies]]
+- [[singh-ligninolytic-enzymes-fungal-bioremediation]]

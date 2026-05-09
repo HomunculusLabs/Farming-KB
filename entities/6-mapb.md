@@ -20,7 +20,7 @@ sources:
   - Iversen, L. et al. (2014). "Report on the Risk Assessment of 6-MAPB." EMCDDA.
   - Elliott, S. & Evans, J. (2014). "The first reported death in the UK involving 6-MAPB." Journal of Forensic Sciences 59(5): 1402-1404.
   - Caspar, A.T. et al. (2018). "Pharmacological profile of 6-MAPB." Neuropharmacology 134: 42-51.
-  - Brandt, S.D. et al. (2014). "An analytical investigation of thirty 'legal high' products." Drug Testing and Analysis 6(7-8): 708-718.
+  - Brandt, S.D. et al. (2014). "An analytical investigation of thirty 'legal high' products." [[psychedelic-drug-testing-and-adulterant-screening]] and Analysis 6(7-8): 708-718.
   - EMCDDA-Europol. (2014). "6-MAPB — EMCDDA-Europol Joint Report." Publications Office of the EU.
 ---
 
@@ -71,7 +71,7 @@ transporter (NET) contributes to stimulant and prosocial effects. The ratio of
 serotonergic to dopaminergic activity is similar to MDMA, though some evidence
 suggests 6-MAPB may have slightly more dopaminergic character than 5-APB.
 
-Receptor binding profiles from preclinical studies indicate moderate affinity
+[[tihkal-receptor-binding-serotonin]] profiles from preclinical studies indicate moderate affinity
 for 5-HT2A, 5-HT2B, and 5-HT2C receptors. Activity at 5-HT2B raises
 theoretical concerns about valvular heart disease with chronic use, analogous
 to the fenfluramine mechanism.
@@ -104,15 +104,15 @@ Oral dosage ranges (hydrochloride salt, based on user self-reports):
 - Strong: 120–160 mg
 - Heavy: 160+ mg (not recommended)
 
-There is limited clinical dose-response data. The therapeutic index is unknown,
+There is limited clinical dose-response data. The [[cannabis-therapeutic-index-overview]] is unknown,
 and individual sensitivity varies considerably. Deaths have been reported at
 doses estimated above 200 mg, often in combination with other substances.
 
 ## Legal Status
 
 6-MAPB is controlled as a Class B drug in the United Kingdom under the
-Psychoactive Substances Act (2016) and earlier temporary class drug orders. In
-the United States, it is a Schedule I controlled substance under the Federal
+Psychoactive [[controlled-substances-act-and-psychedelic-research]] (2016) and earlier temporary class drug orders. In
+the [[dmt-containing-plants-united-states-halpern]], it is a Schedule I controlled substance under the Federal
 Analog Act due to its structural similarity to MDMA.
 
 It is scheduled in Australia (Schedule 9), Canada (Schedule I), Germany (BtMG
@@ -130,5 +130,5 @@ minimum 4–6 week recovery periods between uses to permit serotonin recovery.
 ## See Also
 
 - [[5-apb]]
-- [[mdma]]
+- mdma
 - [[2c-b]]

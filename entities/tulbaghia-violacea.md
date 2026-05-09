@@ -49,13 +49,13 @@ It tolerates a wide range of soil types from sandy to clay, provided drainage is
 
 ## Cultivation
 
-Society garlic is one of the most widely cultivated South African ornamental plants. It is propagated by division of clumps in spring or autumn, or from seed sown in spring. Seed germination occurs in 14–21 days at temperatures above 18°C.
+Society garlic is one of the most widely cultivated [[kanna-sceletium-south-african-narcotic]] ornamental plants. It is propagated by division of clumps in spring or autumn, or from seed sown in spring. Seed germination occurs in 14–21 days at temperatures above 18°C.
 
 Plants are spaced 20–30 cm apart in full sun to partial shade. Established plants are drought-tolerant and require minimal irrigation in temperate climates. Fertilization needs are low; a single application of balanced fertilizer in spring is sufficient.
 
 The species is hardy to approximately -5°C and is grown as a perennial in USDA zones 7–10. In colder climates, it can be overwintered indoors or grown as an annual. Container cultivation is very successful due to the plant's compact size.
 
-Pests and diseases are rarely problematic. Aphids may occasionally infest flower buds, and slugs can damage new growth in damp conditions. The alliaceous compounds provide some natural resistance to mammalian browsing.
+[[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] are rarely problematic. Aphids may occasionally infest flower buds, and slugs can damage new growth in damp conditions. The alliaceous compounds provide some natural resistance to mammalian browsing.
 
 ## Culinary and Traditional Uses
 
@@ -71,7 +71,7 @@ Traditional veterinary applications include treatment of poultry diseases and as
 
 The primary bioactive constituents include marasmin (a sulfur-containing lachrymatory factor similar to syn-propanethial-S-oxide from onions), several methylthioallyl sulfides, and flavonoids including quercetin and kaempferol derivatives.
 
-Antibacterial activity has been demonstrated against *Staphylococcus aureus*, *Bacillus subtilis*, and *Escherichia coli* in vitro. The essential oil shows antifungal activity against *Candida albicans* and *Cryptococcus neoformans*.
+Antibacterial activity has been demonstrated against *Staphylococcus aureus*, *Bacillus subtilis*, and *Escherichia coli* in vitro. The essential oil shows antifungal activity against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and *[[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]]*.
 
 Anti-hypertensive activity has been documented in animal models. Oral administration of aqueous leaf extracts produced significant reductions in blood pressure in spontaneously hypertensive rats, supporting the traditional use for hypertension treatment.
 
@@ -83,11 +83,11 @@ The genus Tulbaghia includes several species with ornamental and ethnobotanical 
 
 T. violacea is distinguished from related species by its combination of lilac-pink flowers with a darker central stripe, grey-green foliage, and its natural coastal distribution. T. natalensis has narrower leaves and smaller umbels.
 
-T. ludwigiana is a rare species restricted to the Drakensberg escarpment with deep maroon flowers. T. montana occurs at high altitudes in the KwaZulu-Natal midlands and has a more compact growth habit. Several Tulbaghia species are threatened by habitat loss and are of conservation concern.
+T. ludwigiana is a rare species restricted to the Drakensberg escarpment with deep maroon flowers. T. montana occurs at high altitudes in the KwaZulu-Natal midlands and has a more [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit. Several Tulbaghia species are threatened by habitat loss and are of conservation concern.
 
 ## Landscape Applications
 
-T. violacea is widely used in xeriscaping, Mediterranean-style gardens, and water-wise landscapes due to its drought tolerance and low maintenance requirements. It performs well as an edging plant, ground cover, or mass planting.
+T. violacea is widely used in xeriscaping, Mediterranean-style gardens, and water-wise landscapes due to its [[dighton-fungal-drought-tolerance-plant-water-relations]] and low maintenance requirements. It performs well as an edging plant, ground cover, or mass planting.
 
 The species is effective as a companion plant in vegetable gardens, where its alliaceous compounds may deter aphids, whiteflies, and certain soil nematodes. Interplanting with roses is a common practice in South African horticulture.
 

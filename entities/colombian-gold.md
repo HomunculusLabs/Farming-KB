@@ -17,7 +17,7 @@ sources:
   - Clarke RC & Merlin MD (2013). *Cannabis: Evolution and Ethnobotany*. University of California Press
   - Small E (2017). *Cannabis: A Complete Guide*. CRC Press
   - Emboden WA (1972). "Ritual Use of Cannabis Sativa L: A Historical-Ethnographic Survey." Economic Botany, 26(4): 373-387
-  - Meloy M (2020). "The Landrace Strains: A Taxonomic and Cultural Survey." Cannabis and Cannabinoid Research
+  - Meloy M (2020). "The [[sativa-landrace-strains-and-geographic-origins]]: A Taxonomic and Cultural Survey." Cannabis and Cannabinoid Research
 ---
 
 ## Overview
@@ -36,7 +36,7 @@ Colombian Gold is a **pure sativa landrace** that developed over centuries in th
 - **Genetic contributions:** Colombian Gold has contributed genetics to numerous iconic hybrids, including **Skunk #1**, **AK-47**, and **Columbian Gold × Jack Herer** crosses
 - **Breeding legacy:** The strain's terpene profile and sativa effects have been preserved in many modern cultivars, though pure, unhybridized Colombian Gold is increasingly rare
 
-The Santa Marta mountains provide an extraordinary range of microclimates — from sea-level tropical to páramo alpine — which likely contributed to the genetic diversity and robustness found within Colombian landrace populations.
+The Santa Marta mountains provide an extraordinary range of microclimates — from sea-level tropical to páramo alpine — which likely contributed to the genetic diversity and robustness found within [[oner-colombian-landrace-sativa-strains]] populations.
 
 ## Morphology and Cultivation
 
@@ -79,7 +79,7 @@ In Colombia, indigenous communities in the Sierra Nevada de Santa Marta have cul
 
 ## Cultural Significance
 
-Colombian Gold holds a central place in the cultural history of cannabis:
+Colombian Gold holds a central place in the [[shroom-cultural-history-hippie-revolution-and-counterculture]] of cannabis:
 
 - **Smuggler's Gold era:** During the 1960s–1980s, Colombian Gold was one of the most widely available premium cannabis strains in the United States, imported through elaborate smuggling networks that involved small aircraft, sailboats, and commercial shipping routes through the Caribbean
 - **Counter-cultural icon:** The strain became synonymous with the hippie movement and was referenced extensively in music, literature, and film of the era
@@ -97,7 +97,7 @@ Colombian Gold displays a cannabinoid profile typical of equatorial sativa landr
 - **Minor cannabinoids:** Variable but often detectable levels of CBG (cannabigerol) and CBC (cannabichromene), contributing to the entourage effect
 - **Cannabinoid stability:** Like most landrace genetics, Colombian Gold's cannabinoid content is sensitive to harvest timing, with peak THC occurring at full trichome maturation
 
-The strain's effects are often described as more "pure" or "clean" than modern polyhybrids, which some users attribute to the relative simplicity of its cannabinoid and terpene profile compared to the complex chemovars produced by contemporary breeding programs. The terroir effect — the influence of the specific growing environment on secondary metabolite production — is particularly pronounced in Colombian Gold, with plants grown at higher elevations in the Sierra Nevada tending to produce more complex terpene profiles and slightly elevated THC levels compared to lowland populations.
+The strain's effects are often described as more "pure" or "clean" than modern polyhybrids, which some users attribute to the relative simplicity of its cannabinoid and terpene profile compared to the complex chemovars produced by contemporary breeding programs. The terroir effect — the influence of the specific growing environment on [[fungal-elicitors-enhanced-secondary-metabolite-production]] production — is particularly pronounced in Colombian Gold, with plants grown at higher elevations in the Sierra Nevada tending to produce more complex [[cannabis-terpene-profiles-sativa]] and slightly elevated THC levels compared to lowland populations.
 
 ## See Also
 
@@ -106,4 +106,4 @@ The strain's effects are often described as more "pure" or "clean" than modern p
 - [[cannabis-sativa]] — Botanical species classification for Colombian Gold
 - comparison-alkaloids-vs-flavonoids-vs-terpenes — Aromatic compounds responsible for Colombian Gold's distinctive aroma
 - [[cannabis-indoor-growing-basics]] — South African sativa landrace known for its anise aroma and energetic effects
-- [[beta-caryophyllene-dietary-cannabinoid]] — Primary terpene in Colombian Gold, also a dietary cannabinoid via CB2 receptor binding
+- [[beta-caryophyllene-dietary-cannabinoid]] — Primary terpene in Colombian Gold, also a dietary cannabinoid via CB2 [[tihkal-receptor-binding-serotonin]]

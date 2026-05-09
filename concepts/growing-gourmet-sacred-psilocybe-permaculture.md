@@ -29,14 +29,14 @@ within their ecosystem.
 
 Several Psilocybe species are common in the Pacific Northwest:
 
-- Psilocybe cyanescens (Wavy-Capped Psilocybe): the most prolific,
+- [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]] (Wavy-Capped Psilocybe): the most prolific,
   with caramel-colored caps that bruise vividly blue when handled
-- Psilocybe azurescens: considered the most potent species, found
+- [[stamets-psi-psilocybe-azurescens-species-guide]]: considered the most potent species, found
   in coastal dune grasses
-- Psilocybe stuntzii: "Blue Ringers," common in newly laid bark
-- Psilocybe baeocystis: "Knobby Tops," found in conifer debris
-- Psilocybe semilanceata: "Liberty Caps," grassland species
-- Psilocybe cubensis: tropical species, the most widely cultivated
+- [[stamets-psi-psilocybe-stuntzii-blue-ringers]]: "Blue Ringers," common in newly laid bark
+- [[stamets-psi-psilocybe-baeocystis-knobby-tops]]: "Knobby Tops," found in conifer debris
+- [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]: "Liberty Caps," grassland species
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]: tropical species, the most widely cultivated
 
 ## Mycelial Characteristics
 
@@ -98,6 +98,12 @@ C) and after the first heavy rains.
 P. cubensis is the primary species for indoor cultivation, using
 grain spawn and cased substrates. This species is not native to
 the Pacific Northwest but thrives in tropical and subtropical
-climates. See [[growing-gourmet-mushroom-life-cycle]]
+climates. See growing-gourmet-mushroom-life-cycle
 - [[growing-gourmet-contamination-prevention]]
 - [[growing-gourmet-strain-selection]]
+## See Also
+- [[psilocybe-baeocystis]]
+- [[psilocybe-stuntzii]]
+- [[psilocybe-mexicana]]
+- [[psilocybe-cyanescens]]
+- [[psilocybe-azurescens]]

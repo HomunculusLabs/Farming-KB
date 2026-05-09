@@ -1,5 +1,5 @@
 ---
-title: Salad and Braising Mix Production
+title: Salad and coleman salad and braising mix production Production
 created: 2026-04-28
 tags:
   - winter-crops
@@ -17,9 +17,9 @@ type: concept
 # Salad and Braising Mix Production
 
 Baby-leaf (mesclun) salads are an ideal crop for the [[salad-crops-growing-guide]] are far more cold tolerant than
-mature ones. The [[mushroom-certification-quality-standards]]
+mature ones. The mushroom-certification-quality-standards
 
-Quality is the primary concern. The farm does not sell salad mix
+Quality is the primary concern. The farm does not sell [[coleman-baby-leaf-salad-mix-quality-standards]]
 ingredients that are too large, bitter, tough, stringy, or frost
 damaged. If an ingredient does not meet standards, it is left out of
 the mix until conditions improve. These evaluations have led to
@@ -62,7 +62,7 @@ Lettuce, endive, and arugula do not consistently meet quality
 standards during the coldest parts of January and February in the
 cold houses. These three are given protection in a cool house
 (minimally heated greenhouse) during those months. Oak-leaf lettuce
-types are very cold hardy at the baby-leaf stage but quality is still
+types are very [[coleman-cold-hardy-varieties]] at the baby-leaf stage but quality is still
 better from the cool house. 'Sylvetta' wild arugula is perfectly
 hardy but requires more study of its soil-fertility needs and planting
 timing.
@@ -102,12 +102,18 @@ success. The trial plantings sold out by mid-December.
 ## Butter Chard Marketing
 
 Narrow-stem chard serves as both a salad mix ingredient and a
-marketable bunching green. In cool winter greenhouse conditions,
+marketable bunching green. In cool [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]] conditions,
 chard maintains tender leaves and bright colors that appeal to
 restaurant customers and farmers market shoppers. The baby leaves
 work well in the braising mix, while larger leaves can be bunched
 and sold as a cooking green similar to spinach but with a milder
 flavor.
 
-See also [[coleman-winter-greens]], and
+See also coleman-winter-greens, and
 [[coleman-salad-mix-quality-standards]]
+## See Also
+- [[succession-planting]]
+- [[coleman-salad-braising-mix-composition]]
+- [[coleman-salad-mix-quality-standards]]
+- [[coleman-sowing-seedling-production]]
+- [[coleman-baby-leaf-salad-mix-quality-standards]]

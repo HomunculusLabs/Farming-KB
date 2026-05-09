@@ -1,5 +1,5 @@
 ---
-title: Cannabis Seed Germination Techniques
+title: cervantes-cannabis-seed-purchasing-storage seed-germination-techniques-solomon
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Cannabis Grow Bible, Greg Green (Ch. 3)
+Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, Greg Green (Ch. 3)
 
 Germination is the process of waking a dormant cannabis seed from dormancy and starting a new plant. Greg Green covers several methods, with the paper towel method being his recommended standard approach.
 
@@ -26,7 +26,7 @@ Before germinating, select your best seeds:
 See [[cannabis-sativa-indoor-cultivation-techniques]] Topics
 
 - [[cannabis-seed-scuffing-and-preparation]] — scarification for stubborn seeds
-- [[cannabis-vegetative-stage]] — transitioning to vegetative growth
+- [[cannabis-vegetative-stage]] — transitioning to [[cannabis-vegetative-growth-stage]]
 - [[cannabis-sinsemilla-life-cycle]] — complete growth cycle
 - [[cannabis-seed-germination-viability-breeding-clarke]]
 ## Practical Applications
@@ -106,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

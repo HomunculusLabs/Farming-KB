@@ -1,5 +1,5 @@
 ---
-title: JADAM Natural Pesticide Universal Philosophy
+title: JADAM jadam-natural-pesticide-institute-and-research Universal Philosophy
 created: 2026-04-28
 tags: [jadam, universal-pesticide, pesticide-philosophy, farmer-empowerment, size-based-pest-control]
 date: 2026-04-25
@@ -19,7 +19,7 @@ that damage crops, JADAM uses a single formula framework that works
 universally by targeting the size of the organism rather than its
 species identity. Founder [[jadam-methods]].
 All ingredients can be sourced locally or produced on-farm. The wetting
-agent is made from canola oil and caustic potash. Sulfur solution is
+agent is made from [[jadam-canola-oil-surfactant-method]] and caustic potash. Sulfur solution is
 made from agricultural sulfur. Herb solutions come from locally available
 weeds and cultivated herbs. This independence frees farmers from market
 fluctuations and supply chain disruptions.
@@ -107,3 +107,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[jadam-universal-pesticide-approach]]

@@ -22,7 +22,7 @@ created: 2026-04-28
 
 ## Overview
 
-Pulegone is a monoterpene ketone (C₁₀H₁₆O) found in the essential oils of several mint-family plants, most notably pennyroyal (Mentha pulegium) and certain cannabis chemovars. It has a characteristic minty, herbaceous aroma and has been used historically as a flavoring agent, abortifacient, and insect repellent.
+Pulegone is a monoterpene ketone (C₁₀H₁₆O) found in the [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] of several mint-family plants, most notably pennyroyal (Mentha pulegium) and certain cannabis chemovars. It has a characteristic minty, herbaceous aroma and has been used historically as a flavoring agent, abortifacient, and insect repellent.
 
 The compound is of significant toxicological interest due to its dose-dependent hepatotoxicity, which has resulted in fatalities from pennyroyal oil ingestion. Despite its risks, pulegone remains a common constituent of mint-flavored food products, fragrances, and cosmetics at regulated concentrations.
 
@@ -42,7 +42,7 @@ The compound is of significant toxicological interest due to its dose-dependent 
 
 **Optical Activity:** Naturally occurring pulegone is typically (R)-(+)-pulegone, though the (S)-(−)-enantiomer is also found in some plant species. The enantiomers have similar toxicity profiles but differ in odor quality and intensity.
 
-**Stability:** Pulegone is relatively stable under normal storage conditions but can oxidize and isomerize upon prolonged exposure to air, light, and heat. It should be stored in amber glass at reduced temperature.
+**Stability:** Pulegone is relatively stable under normal [[vegetable-storage-conditions-by-temperature-and-humidity]] but can oxidize and isomerize upon prolonged exposure to air, light, and heat. It should be stored in amber glass at reduced temperature.
 
 ## Natural Sources
 
@@ -52,9 +52,9 @@ Pulegone occurs in the essential oils of several Lamiaceae species:
 - **Mentha × piperita** (peppermint): Minor constituent, typically 0.5-3% depending on chemotype and harvest conditions.
 - **Agastache rugosa** (Korean mint): Moderate levels in essential oil.
 - **Calamintha nepeta** (lesser calamint): Variable, 10-40% of essential oil.
-- **Cannabis sativa:** Pulegone occurs in certain cannabis chemovars, particularly those with "minty" or "herbal" aroma profiles. Concentrations are generally low (<0.1% of essential oil) but can be higher in specific cultivars.
+- **[[comparison-cannabis-sativa-vs-cannabis-indica]]:** Pulegone occurs in certain cannabis chemovars, particularly those with "minty" or "herbal" aroma profiles. Concentrations are generally low (<0.1% of essential oil) but can be higher in specific cultivars.
 
-In cannabis, pulegone contributes to the overall entourage effect and may modulate the subjective experience of other cannabinoids and terpenes. Its presence is more common in Sativa-dominant and hybrid chemovars.
+In cannabis, pulegone contributes to the overall [[cannabis-terpene-entourage-effect-profiles]] and may modulate the subjective experience of other cannabinoids and terpenes. Its presence is more common in Sativa-dominant and hybrid chemovars.
 
 ## Pharmacology and Toxicology
 
@@ -67,7 +67,7 @@ Pulegone is metabolized primarily in the liver through cytochrome P450-mediated 
 1. CYP2E6, CYP1A2, and CYP3A4 catalyze the initial oxidation.
 2. Menthofuran formation is the rate-limiting toxification step.
 3. Reactive metabolites form protein adducts in centrilobular hepatocytes.
-4. Glutathione depletion occurs rapidly at high doses, leading to oxidative stress and necrosis.
+4. Glutathione depletion occurs rapidly at high doses, leading to [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] and necrosis.
 
 ### Hepatotoxicity
 
@@ -116,7 +116,7 @@ These traditional applications predate modern understanding of its toxicity, and
 
 - **Flavoring agent:** Used in confectionery, chewing gum, and beverages at low concentrations.
 - **Fragrance industry:** Component of perfumes, soaps, and cosmetics for its fresh, minty note.
-- **Pest control:** Natural insecticide and repellent in agricultural and domestic applications.
+- **[[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]:** Natural insecticide and repellent in agricultural and domestic applications.
 
 ## Related Compounds
 

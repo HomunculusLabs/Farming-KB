@@ -10,28 +10,28 @@ sources:
 
 # Max E. Winston
 
-Lead author of the first comprehensive characterization of the Cannabis microbiome (Winston et al. 2014, PLOS ONE). Research was conducted at The Field Museum (Chicago) and the University of Chicago Committee on Evolutionary Biology, with sequencing done at Argonne National Laboratory.
+Lead author of the first comprehensive characterization of the [[cultivar-cannabis-microbiome-two-tier-selection-model]] (Winston et al. 2014, PLOS ONE). Research was conducted at The Field Museum (Chicago) and the University of Chicago Committee on Evolutionary Biology, with sequencing done at Argonne National Laboratory.
 
 ## Key Research
 
 **Understanding Cultivar-Specificity and Soil Determinants of the Cannabis Microbiome** (2014, PLOS ONE 9(6): e99641):
 
 - First study to characterize endorhiza, rhizosphere, and bulk soil microbiomes across five Cannabis cultivars grown in three soil types
-- Confirmed the two-tier selection model for plant microbiome assembly in cannabis
-- Found that nitrogen is the strongest edaphic predictor of cannabis microbial community structure
-- Identified the core cannabis endorhiza community: *Pseudomonas*, *Cellvibrio*, *Oxalobacteraceae*, *Xanthomonadaceae*, *Actinomycetales*, *Sphingobacteriales*
+- Confirmed the two-tier [[two-tier-selection-model-plant-microbiome]] for plant microbiome assembly in cannabis
+- Found that nitrogen is the strongest edaphic predictor of cannabis [[edaphic-factors-microbial-community-structure]] structure
+- Identified the core [[edaphic-factors-cannabis-endorhiza-microbiome-assembly]] community: *Pseudomonas*, *Cellvibrio*, *Oxalobacteraceae*, *Xanthomonadaceae*, *Actinomycetales*, *Sphingobacteriales*
 - Demonstrated cultivar-specificity in root interior communities — different cultivars recruited different microbial partners even from the same soil
 - Published in PLOS ONE, open access
 
 ## Two-Tier Selection Model
 
 The study confirmed that cannabis microbiome assembly follows a two-tier process:
-1. **Tier 1 (soil → rhizosphere):** Driven primarily by edaphic (soil) factors. The available microbial pool is determined by soil type, organic matter, pH, and nutrient availability. Nitrogen was the single strongest predictor of community structure.
+1. **Tier 1 (soil → rhizosphere):** Driven primarily by edaphic (soil) factors. The available microbial pool is determined by soil type, organic matter, pH, and [[ph-and-nutrient-availability-garden-soils]]. Nitrogen was the single strongest predictor of community structure.
 2. **Tier 2 (rhizosphere → endorhiza):** Driven primarily by host genotype. Different cultivars selectively recruit different microbes from the rhizosphere pool into the root interior. This is where cultivar-specificity emerges.
 
 ## Study Design
 
-The experiment grew five Cannabis cultivars (including "Bookoo Kush," "Maui Wowie," and others) in three distinct soil types. For each cultivar-soil combination, microbial communities were sampled from three compartments: bulk soil (distant from roots), rhizosphere soil (soil adhering to roots), and endorhiza (root interior). 16S rRNA gene sequencing was performed at Argonne National Laboratory. The study found that alpha diversity decreased from bulk soil to rhizosphere to endorhiza, consistent with selective filtering at each step. Phylum-level community composition shifted dramatically between compartments — Proteobacteria dominated the endorhiza while Acidobacteria and other oligotrophs were more abundant in bulk soil.
+The experiment grew five Cannabis cultivars (including "Bookoo Kush," "Maui Wowie," and others) in three distinct soil types. For each cultivar-soil combination, microbial communities were sampled from three compartments: bulk soil (distant from roots), rhizosphere soil (soil adhering to roots), and endorhiza (root interior). 16S rRNA gene sequencing was performed at Argonne National Laboratory. The study found that alpha diversity decreased from bulk soil to rhizosphere to endorhiza, consistent with selective filtering at each step. Phylum-level [[core-endorhiza-bacterial-community-composition-cannabis]] shifted dramatically between compartments — Proteobacteria dominated the endorhiza while Acidobacteria and other oligotrophs were more abundant in bulk soil.
 
 ## Key Findings by Cultivar
 
@@ -58,6 +58,7 @@ This work established that cannabis selectively recruits specific microbial part
 - [[cannabis-living-soil-guide]] — practical applications for living soil beds
 - [[effective-microorganisms-em]] — microbial partners cannabis recruits
 - [[nutritive-cycle-theory]] — growth stage framework for microbial inputs
+
 ## Practical Considerations
 
 Successful implementation of Max E. Winston requires attention to
@@ -76,4 +77,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

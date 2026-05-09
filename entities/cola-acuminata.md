@@ -21,7 +21,7 @@ created: 2026-04-28
 
 ## Overview
 
-**Cola acuminata** is an evergreen tree species in the family Malvaceae, native to the tropical forests of West and Central Africa. It is one of two principal species (alongside cola nitida) whose seeds, known as kola or cola nuts, are consumed as a stimulant and hold deep cultural significance across West African societies.
+**Cola acuminata** is an evergreen tree species in the family Malvaceae, native to the tropical forests of West and Central Africa. It is one of two principal species (alongside cola nitida) whose seeds, known as kola or cola nuts, are consumed as a stimulant and hold deep [[ethnomycology-cultural-significance-sacred-fungi]] across West African societies.
 
 The seeds are rich in **caffeine** and **theobromine**, and have been traded across the Sahara and Atlantic for centuries. Cola extract was a key original ingredient in Coca-Cola and remains commercially significant today.
 
@@ -78,7 +78,7 @@ The caffeine content underlies the primary pharmacological effects: antagonism o
 
 Cola nut preparations have been traditionally used as a remedy for diarrhea and dysentery. The high tannin content provides an astringent effect that may reduce intestinal fluid secretion. This use has some pharmacological basis but limited clinical validation.
 
-Research into the antimicrobial properties of cola nut extracts has demonstrated activity against Gram-positive bacteria including Staphylococcus aureus and Bacillus subtilis, as well as some antifungal activity against Candida species.
+Research into the [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] of cola nut extracts has demonstrated activity against Gram-positive bacteria including Staphylococcus aureus and Bacillus subtilis, as well as some antifungal activity against Candida species.
 
 In-vitro studies suggest antioxidant activity from the flavonoid and phenolic content, with DPPH radical scavenging IC50 values comparable to standard antioxidants. These findings support but do not confirm traditional uses related to general health maintenance.
 
@@ -105,11 +105,13 @@ In agroforestry systems, cola trees are intercropped with food crops including c
 ## See Also
 
 - cola nitida
-- [[theobromine]]
+- theobromine
 - xanthine alkaloids
 - malvaceae
 - west african plants
 - [[agroforestry]]
 - nigeria agriculture
-- [[mollison-designers-cassava-tropical-root-crops]]
+- mollison-designers-cassava-tropical-root-crops
 - adenosine receptor
+- [[coffea-arabica]]
+- [[bacillus-subtilis]]

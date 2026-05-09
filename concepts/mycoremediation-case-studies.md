@@ -10,14 +10,14 @@ sources:
 
 # Mycoremediation Case Studies
 
-Field-verified remediation projects demonstrating fungal cleanup of contaminated environments. Based on [[paul-stamets]]' *Mycelium Running* (2005). See also [[mycoremediation-basics]], [[mycoremediation-of-oil-spills]], [[mycoremediation-of-heavy-metals]], and [[mycorestoration-framework]].
+Field-verified remediation projects demonstrating fungal cleanup of contaminated environments. Based on [[paul-stamets]]' *[[woodlovers-mycelium-running-pathway-technique]]* (2005). See also [[mycoremediation-basics]], [[mycoremediation-of-oil-spills]], [[mycoremediation-of-heavy-metals]], and [[mycorestoration-framework]].
 
 ## Battelle Marine Science Laboratory: PCB Bioremediation
 
 ### The Experiment
 
 - **Location**: Sequim, Washington (Battelle Marine Science Laboratory)
-- **Contaminant**: Polychlorinated biphenyls (PCBs) and polycyclic aromatic hydrocarbons (PAHs)
+- **Contaminant**: Polychlorinated biphenyls (PCBs) and [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs)
 - **Species**: Pleurotus ostreatus (oyster mushroom)
 - **Substrate**: Wood chips inoculated with oyster mushroom mycelium
 - **Goal**: Test whether white-rot fungi could degrade PCBs in contaminated soil
@@ -108,7 +108,7 @@ Field-verified remediation projects demonstrating fungal cleanup of contaminated
 ### Creosote-Contaminated Sites
 
 - **Contaminant**: Polycyclic aromatic hydrocarbons (PAHs) from creosote (wood preservative)
-- **Species tested**: Pleurotus ostreatus, Phanerochaete chrysosporium, Trametes versicolor
+- **Species tested**: Pleurotus ostreatus, [[staycare-phanerochaete-chrysosporium-in-bioremediation]], [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]
 - **Substrate**: Contaminated soil amended with wood chips and fungal inoculum
 - **Results**: Significant reduction in PAH concentrations, particularly for lighter molecular weight PAHs (2-3 ring compounds)
 - **Limitation**: Higher molecular weight PAHs (4-6 ring) degraded more slowly; required extended treatment times
@@ -117,7 +117,7 @@ Field-verified remediation projects demonstrating fungal cleanup of contaminated
 
 - Oyster mushroom mycelium successfully colonized diesel-contaminated soil
 - Visible degradation of diesel compounds within weeks
-- Mushroom fruiting bodies appeared on contaminated substrate
+- [[ectomycorrhizal-mushroom-fruiting-ecology]] bodies appeared on contaminated substrate
 - Subsequent analysis showed reduced total petroleum hydrocarbon (TPH) concentrations
 
 ## Heavy Metal Sequestration
@@ -133,35 +133,12 @@ Field-verified remediation projects demonstrating fungal cleanup of contaminated
 
 - Various fungal species demonstrate ability to sequester heavy metals through biosorption
 - Mycelial mats can be deployed as passive filters for metal-contaminated water
-- After saturation, metal-loaded fungal biomass can be collected and processed
-- See [[mycoremediation-of-heavy-metals]] for detailed species data and mechanisms
-
-## Comparative Summary of Case Studies
-
-| Case Study | Contaminant | Primary Species | Outcome |
-|-----------|-------------|----------------|---------|
-| Battelle PCB | PCBs, PAHs | Pleurotus ostreatus | PCB degradation without bioaccumulation |
-| Oil Spill Response | Petroleum hydrocarbons | Pleurotus ostreatus | Hydrocarbon breakdown, ecological recovery |
-| E. coli Filtration | Coliform bacteria | Stropharia rugoso-annulata | Dramatic E. coli reduction |
-| WSDOT Roads | Sediment, petroleum | Multiple species | Effective sediment capture, cost-competitive |
-| Creosote Sites | PAHs | P. ostreatus, P. chrysosporium | Significant PAH reduction |
-| Radioactive Sites | Cs-137 | Mycorrhizal species | Bioaccumulation for removal |
-
-## Key Lessons from Case Studies
-
-1. **Species selection matters**: Different contaminants require different fungal species
-2. **Enzyme systems are key**: White-rot fungi with lignin-degrading enzymes are most versatile
-3. **No bioaccumulation in fruiting bodies**: Mushrooms metabolize rather than concentrate most organic pollutants
-4. **Fungal-bacterial partnerships**: Combining fungi with bacteria often yields better results than either alone
-5. **Site-specific design**: Each contamination scenario requires tailored approach
-6. **Cost effectiveness**: Mycoremediation can be significantly cheaper than conventional methods ($50-100K vs $1M+ for excavation)
-
 ## See Also
 
 - [[mycoremediation-basics]] for enzyme systems and mechanisms
 - [[mycoremediation-techniques]] for practical implementation methods
 - [[mycoremediation-of-oil-spills]] for petroleum-specific data
-- [[mycoremediation-of-heavy-metals]] for metal biosorption
+- [[mycoremediation-of-heavy-metals]] for [[fungal-heavy-metal-biosorption-and-detoxification]]
 - [[mycoremediation-pahs]] for PAH degradation chemistry
 - [[mycoremediation-pcbs-and-dioxins]] for PCB/dioxin mechanisms
 - [[mycofiltration-watershed-protection]] for water filtration applications

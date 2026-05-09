@@ -1,5 +1,5 @@
 ---
-title: "Mushroom Cultivation Photographic Guide"
+title: "Mushroom mushroom cultivation photographic guide Guide"
 created: 2026-04-28
 tags:
   - cultivation
@@ -16,15 +16,15 @@ type: concept
 
 # Mushroom Cultivation Photographic Guide
 
-The Psilocybin Mushroom Image Guide from Erowid contains an extensive
-series of cultivation photographs documenting the indoor growing of
+The [[emcdda-psilocybin-mushroom-dose-and-effects]] Image Guide from Erowid contains an extensive
+series of cultivation photographs documenting the [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]] of
 [[psilocybin-mushrooms]]
 indoors. The photographs in the image guide document several key
 stages of this process as applied to [[growing-gourmet-tree-species-guide-mushroom-cultivation]]
 
 ## See Also
 
-- [[psilocybin-mushroom-cultivation-guide]]
+- [[psilocybin-mushroom-cultivation-basics]]
 ## Practical Applications
 
 Mushroom Cultivation Photographic Guide has a range of practical applications that make it relevant to
@@ -102,4 +102,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

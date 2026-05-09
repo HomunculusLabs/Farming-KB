@@ -29,13 +29,13 @@ Parasitic nematodes will also control:
 
 ### Using Nematodes
 
-- Parasitic nematodes are easy and cheap to culture by the billions, but it is not always easy to transport or store them alive once they are out of the culture medium.
+- Parasitic nematodes are easy and cheap to culture by the billions, but it is not always easy to transport or store them alive once they are out of the [[fukuoka-matsutake-culture-medium-appendix]].
 - Be cautious when buying nematodes and make sure what you are getting is fresh and remains effective.
 - Apply to warm, moist soil — nematodes require a film of water to move through soil pores.
 
 ## Cultural Controls
 
-- **Crop rotation**: Avoid planting susceptible crops (potatoes, carrots, onions) in the same ground year after year. Follow susceptible crops with non-host crops like legumes or brassicas.
+- **[[comparison-crop-rotation-vs-cover-cropping]]**: Avoid planting susceptible crops (potatoes, carrots, onions) in the same ground year after year. Follow susceptible crops with non-host crops like legumes or brassicas.
 - **Soil cultivation**: Deep plowing or rotary cultivation exposes wireworms to birds and desiccation. Fall cultivation is particularly effective.
 - **Trap crops**: Plant potatoes or carrots as sacrificial trap crops in infested areas, then remove and destroy before larvae mature.
 - **Bait traps**: Bury pieces of carrot or potato 5-10 cm deep, mark the spot, and check after a few days. Wireworms congregate on the bait and can be removed and destroyed.
@@ -43,14 +43,14 @@ Parasitic nematodes will also control:
 ## Prevention
 
 - Wireworms are most problematic in newly broken sod or in areas recently converted from grassland. Avoid planting susceptible crops in the first year after breaking sod.
-- Avoid excessive organic matter that has not fully decomposed — wireworms are attracted to decomposing plant material.
+- Avoid excessive [[hamilton-composting-and-organic-matter-management]] that has not fully decomposed — wireworms are attracted to decomposing plant material.
 - Good drainage helps reduce wireworm populations.
 
 ## Related
 
 - See [[soil-food-web-nutrient-cycling]] for understanding soil biology that supports pest suppression
 - See [[compost-building-guide]] for proper organic matter management to avoid attracting wireworms
-- See [[herbal-plant-remedies]] for additional organic pest management approaches
+- See [[herbal-plant-remedies]] for additional organic [[cannabis-pest-management-guide]] approaches
 ## Practical Considerations
 
 When working with Wireworm Control, several practical factors should be
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

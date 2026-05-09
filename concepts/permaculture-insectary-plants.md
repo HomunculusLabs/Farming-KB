@@ -15,13 +15,13 @@ sources:
 
 # Permaculture Insectary Plants
 
-Insectary plants are those specifically included in a design to attract, shelter, and sustain beneficial insects -- predators and pollinators that provide biological pest control and crop pollination services. Throughout the Designers' Manual, Mollison emphasises that any innovative designer can see ways to add "a vine, a fungus, a beneficial insect" to a seemingly fully-planted area.
+Insectary plants are those specifically included in a design to attract, shelter, and sustain [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] -- predators and pollinators that provide [[cervantes-biological-pest-control-predators]] control and crop pollination services. Throughout the Designers' Manual, Mollison emphasises that any innovative designer can see ways to add "a vine, a fungus, a beneficial insect" to a seemingly fully-planted area.
 
 ## The Role of Beneficial Insects
 
 Permaculture relies on biological pest management rather than chemical intervention. Beneficial insects include:
 
-- **Predators**: Ladybirds, lacewings, predatory mites, ground beetles, assassin bugs, praying mantises, dragonflies
+- **Predators**: Ladybirds, lacewings, [[comparison-predatory-mites-vs-ladybugs-biocontrol]], ground beetles, assassin bugs, praying mantises, dragonflies
 - **Parasitoids**: Parasitic wasps (Trichogramma, Braconid, Ichneumonid), tachinid flies
 - **Pollinators**: Bees (honeybees and native bees), butterflies, moths, hoverflies, beetles
 
@@ -38,7 +38,7 @@ Key umbellifers for insectary use:
 - Parsley (Petroselinum crispum) -- biennial, flowers in second year
 - Parsnip (Pastinaca sativa) -- biennial, left to flower provides major insectary value
 - Dill (Anethum graveolens) -- annual, attracts parasitic wasps
-- Coriander (Coriandrum sativum) -- annual, succession planting extends bloom period
+- Coriander (Coriandrum sativum) -- annual, [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] extends bloom period
 - Queen Anne's lace (Daucus carota) -- wild carrot, excellent insectary
 - Yarrow (Achillea millefolium) -- flat flower heads attract many beneficials
 
@@ -73,7 +73,7 @@ Perennial insectary hedges along garden edges and between crop zones provide per
 
 ## Design Considerations
 
-1. Ensure continuous bloom through the growing season by selecting species with staggered flowering times
+1. Ensure continuous bloom through the [[savory-growing-season-and-non-growing-season-management]] by selecting species with staggered flowering times
 2. Provide shallow water sources (saucers with pebbles) for drinking
 3. Leave some areas undisturbed for overwintering habitat (dead stems, leaf litter, hollow stems)
 4. Avoid broad-spectrum pesticides that kill beneficials alongside pests
@@ -82,7 +82,7 @@ Perennial insectary hedges along garden edges and between crop zones provide per
 
 ## Integration Across Zones
 
-- **Zone 1**: Interplant insectary herbs among vegetables and in kitchen garden beds
+- **Zone 1**: Interplant insectary herbs among vegetables and in [[holzer-kitchen-garden-herbs-and-medicinal-plants]] beds
 - **Zone 2**: Flowering shrubs and perennial herbs in orchard understory
 - **Zone 3**: Allow strips of clover and lucerne to flower in pasture; hedgerow insectaries along field borders
 - **Zone 4**: Native flowering species in windbreaks and forest edges

@@ -1,5 +1,5 @@
 ---
-title: Living Fences vs Conventional Fencing
+title: Living living fences vs conventional fencing Fencing
 created: 2026-04-28
 tags:
   - fencing
@@ -13,7 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - The Encyclopedia of Organic Gardening, J.I. Rodale
+  - The Encyclopedia of hamilton-geoffhamilton-nick-organic-gardening-companion-planting, J.I. Rodale
   - Restoration Agriculture, Mark Shepard
   - USDA Natural Resources Conservation Service: Hedgerow and Windbreak Technical Notes
   - Permaculture: A Designers' Manual, Bill Mollison
@@ -23,9 +23,9 @@ type: comparison
 
 # Living Fences vs Conventional Fencing
 
-Fencing is one of the first infrastructure decisions a homesteader or farmer faces. While conventional fencing — wire, wood, electric, vinyl — dominates modern agriculture, living fences (hedges, hedgerows, and living walls) offer a multifunctional alternative that aligns with [[maclura-pomifera]]*) | Fast | 20–40 ft | Zones 4–9 | Thorny; rot-resistant wood; dense hedge |
+Fencing is one of the first infrastructure decisions a homesteader or farmer faces. While conventional fencing — wire, wood, electric, vinyl — dominates modern agriculture, living fences (hedges, hedgerows, and [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]]) offer a multifunctional alternative that aligns with [[maclura-pomifera]]*) | Fast | 20–40 ft | Zones 4–9 | Thorny; rot-resistant wood; dense hedge |
 | Blackthorn (*[[gleditsia-triacanthos]]*) | Fast | 30–70 ft | Zones 3–9 | Thorny cultivars available; nitrogen-fixer; seed pods for fodder |
-| Sea buckthorn (*[[agroforestry]]
+| [[comparison-sea-buckthorn-vs-aronia]] (*[[agroforestry]]
 - [[caragana-arborescens]]
 ## Practical Applications
 
@@ -104,4 +104,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

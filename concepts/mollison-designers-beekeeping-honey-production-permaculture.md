@@ -1,5 +1,5 @@
 ---
-title: "Beekeeping and Honey Production in Permaculture"
+title: "faires-beekeeping-and-honey-production mollison-pigeons-and-squab-production-in-permaculture-systems"
 created: 2026-04-28
 tags:
   - permaculture
@@ -19,7 +19,7 @@ type: concept
 Bill Mollison's [[mollison-designers-mixed-orchard-design-species-selection]], vegetable gardens, and seed crops,
 while simultaneously producing honey, wax, propolis, and pollen as
 valuable yields. Their presence is an indicator of ecosystem health
-and a keystone of [[permaculture-zone-planning]] principles:
+and a keystone of permaculture-zone-planning principles:
 
 - **Zone 1-2 placement:** Hives near the home ensure regular
   observation and ease of management. The beekeeper passes hives
@@ -36,11 +36,11 @@ and a keystone of [[permaculture-zone-planning]] principles:
   landing reduce the energy cost of water collection.
 
 - **Forage proximity:** The closer diverse forage is to the hive, the
-  more efficient the colony. Mollison recommends planting bee forage
+  more efficient the colony. Mollison recommends planting [[mollison-designers-bee-forage-tree-planting]]
   species throughout [[mollison-designers-herb-spiral-design-construction]] and
-[[permaculture-designers-manual-bamboo]] -- source reference
+permaculture-designers-manual-bamboo -- source reference
 - [[mollison-designers-herb-spiral-design-construction]] -- bee forage in herb gardens
-- [[permaculture-zone-planning]] -- apiary placement strategy
+- permaculture-zone-planning -- apiary placement strategy
 ## Practical Considerations
 
 When working with Beekeeping and Honey Production in Permaculture, several practical factors should be
@@ -57,7 +57,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,4 +99,5 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+## See Also
+- [[bill-mollison]]

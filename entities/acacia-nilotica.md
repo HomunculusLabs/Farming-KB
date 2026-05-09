@@ -55,19 +55,19 @@ Pods are flat, straight or slightly curved, 5–15 cm long and 1–2 cm wide. Th
 
 ## Cultivation
 
-Babul occurs naturally across Sahelian Africa, East Africa, and the Indian subcontinent. It has been widely planted outside its native range in Australia, the Middle East, and Southeast Asia.
+Babul occurs naturally across Sahelian Africa, East Africa, and the Indian subcontinent. It has been widely planted outside its native range in Australia, the Middle East, and [[psilocybe-southeast-asia-pacific]].
 
 The species thrives in arid and semi-arid climates with annual rainfall of 100–1,000 mm. It tolerates extreme temperatures from 5°C to over 50°C and survives prolonged drought.
 
 It grows on a wide range of soils including sandy, clay, saline, and alkaline substrates. Optimal growth occurs on alluvial soils along riverbanks and seasonal watercourses.
 
-Seed germination requires scarification — mechanical abrasion or hot water treatment (80°C for 5 minutes). Direct sowing is most common, though seedlings can be raised in nurseries.
+[[cannabis-seed-germination-methods]] requires scarification — mechanical abrasion or hot water treatment (80°C for 5 minutes). Direct sowing is most common, though seedlings can be raised in nurseries.
 
 Growth is moderately fast, reaching 3–5 m in 5 years under favorable conditions. Maximum height is typically reached at 20–30 years. The tree can live for 50–100+ years.
 
 Its coppicing ability allows for sustainable harvest of fodder, fuelwood, and gum. Regrowth from cut stumps is vigorous, making it suitable for managed agroforestry systems.
 
-In agroforestry systems, babul is planted as a windbreak, shade tree, and living fence. Spacing of 5–8 m between trees is recommended for silvopastoral systems.
+In agroforestry systems, babul is planted as a windbreak, [[mollison-designers-legume-shade-tree-pasture-systems]], and living fence. Spacing of 5–8 m between trees is recommended for silvopastoral systems.
 
 ## Bioactive Compounds and Uses
 
@@ -85,7 +85,7 @@ In Ayurvedic medicine, babul bark is used as an astringent for diarrhea, dysente
 
 African traditional medicine uses different plant parts for treating malaria, colds, and respiratory infections. The gum is applied topically to wounds and burns for its soothing and antimicrobial effects.
 
-Modern pharmacological studies have confirmed antibacterial activity against pathogens including Staphylococcus aureus, Escherichia coli, and Candida albicans. Bark extracts show significant anti-inflammatory activity.
+Modern pharmacological studies have confirmed antibacterial activity against pathogens including Staphylococcus aureus, Escherichia coli, and [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]. Bark extracts show significant anti-inflammatory activity.
 
 Antioxidant assays demonstrate strong free-radical scavenging capacity, attributed primarily to the high tannin content. Hypoglycemic and hepatoprotective effects have been documented in animal studies.
 
@@ -99,7 +99,7 @@ In desertification control, babul is planted for sand dune stabilization and win
 
 The dense wood (density 0.8–1.0 g/cm³) is hard, durable, and termite-resistant. It is used for tool handles, agricultural implements, fence posts, and fuelwood.
 
-Babul can become invasive outside its native range, particularly in Australia where it has spread over millions of hectares. Management includes biological control using seed-feeding insects.
+Babul can become invasive outside its native range, particularly in Australia where it has spread over millions of hectares. Management includes [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] using seed-feeding insects.
 
 The species provides habitat and food for diverse wildlife, including birds, insects, and small mammals. Its flowers are an important nectar source for bees during dry periods when few other plants are in bloom.
 

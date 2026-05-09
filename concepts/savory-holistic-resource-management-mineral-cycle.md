@@ -1,5 +1,5 @@
 ---
-title: The Mineral Cycle and Soil Health
+title: The savory-mineral-cycle-management and Soil Health
 created: 2026-04-28
 tags:
   - holistic-management
@@ -16,8 +16,8 @@ type: concept
 
 # The Mineral Cycle and Soil Health
 
-The mineral cycle is one of the four ecosystem foundation blocks in Allan
-Savory's holistic management framework. It describes how mineral nutrients
+The mineral cycle is one of the four [[savory-ecosystem-foundation-blocks]] blocks in Allan
+Savory's [[savory-holistic-management-overview]] framework. It describes how mineral nutrients
 move through the ecosystem, from deep soil layers to the surface through
 plant roots, back to the soil surface through plant and animal residues,
 and underground again through biological activity and water movement. The
@@ -33,7 +33,7 @@ Because these organisms require energy derived from sunlight but do not
 come to the surface to obtain it firsthand, they rely on a continuous
 supply of decomposing plant and animal residues. A good mineral cycle
 cannot function in a dead soil, a fact often forgotten in our modern
-obsession with chemical fertilizers.
+obsession with [[cervantes-chemical-fertilizers-guide]].
 
 The goal in most management situations is to keep nutrients from escaping
 the cycle and to steadily increase the volume of those cycling in the soil
@@ -76,7 +76,7 @@ litter on the soil and breaks the surface can the proper microenvironment
 occur for biological decay.
 
 Without adequate [[savory-water-cycle-management]] and [[savory-energy-flow-and-solar-capture]] that animates soil life depends on plant roots conveying
-solar energy underground. The water cycle determines whether nutrients
+[[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] underground. The water cycle determines whether nutrients
 move to useful depths or are lost to leaching. Succession determines the
 diversity and health of the biological community that drives the cycle.
 
@@ -87,8 +87,10 @@ that convert nitrogen from the air to usable form. Turning over soil
 speeds the breakdown of organic material, and planting monocultures
 creates less diverse root systems that discourage diversity in soil
 microorganism species. The result is an accelerating dependency on
-external inputs as the natural mineral cycle is progressively destroyed.
+external inputs as the [[jadam-natural-mineral-leaching-and-replenishment]] cycle is progressively destroyed.
 ## See Also
+
+- [[savory-holistic-resource-management-water-cycle]]
 
 - [[savory-water-cycle-management]]
 - [[savory-energy-tetrahedron]]

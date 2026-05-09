@@ -60,7 +60,7 @@ This could mean a long skinny marsh 2 feet wide and 22 feet long (0.6 m x
 In a
 rural environment the marsh would be placed in Zone 2 or at the edge of
 Zone 3 as part of your [[natfarm-swale-water-conservation]] systems
-that direct water to fruit trees and perennial crops. In desert climates,
+that direct water to [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and perennial crops. In desert climates,
 graywater is especially valuable for establishing trees near the house. It
 is much easier to grow a tree where there is water already rather than bring
 water uphill to a dry place. The treated water from the marsh can also
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

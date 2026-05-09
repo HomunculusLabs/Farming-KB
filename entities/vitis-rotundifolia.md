@@ -14,12 +14,12 @@ sources:
   - Basiouny, F.M. & Himelrick, D.G. (2001). "Muscadine Grapes: Composition and Health Benefits." University of Arkansas Extension.
   - Conner, P.J. (2009). "Muscadine Grape Breeding and Genetics." In Kole, C. (ed.), Fruits. Springer.
   - Galet, P. (1979). A Practical Ampelography: Grapevine Identification. Cornell University Press.
-  - Ruelle, P. & Leclercq, P. (2022). "Vitaceae of the Southeastern United States." Castanea, 87(3), 245–267.
+  - Ruelle, P. & Leclercq, P. (2022). "Vitaceae of the Southeastern [[dmt-containing-plants-united-states-halpern]]." Castanea, 87(3), 245–267.
 ---
 
 ## Overview
 
-**Vitis rotundifolia** Michx., commonly known as the muscadine grape, bullace grape, or Southern fox grape, is a deciduous woody vine native to the southeastern United States. It is one of the most culturally and economically important native North American fruit species.
+**Vitis rotundifolia** Michx., commonly known as the muscadine grape, bullace grape, or Southern fox grape, is a deciduous woody vine native to the southeastern United States. It is one of the most culturally and economically important native [[growing-gourmet-north-american-reishi-species]] fruit species.
 
 Muscadines are distinguished from other grape species by their thick skins, loose berry clusters, unique floral morphology, and exceptional disease resistance. They thrive in the hot, humid conditions of the American South where other grape species struggle.
 
@@ -51,9 +51,9 @@ The natural range corresponds closely to the coastal plain and piedmont physiogr
 
 Muscadines grow in a variety of habitats including hardwood forests, pine flatwoods, swamp margins, and disturbed sites. They are particularly abundant in ecotonal areas between forest and open land.
 
-Soil preferences are broad, but the species performs best on well-drained sandy loams with pH 5.5–6.5. It tolerates acidic soils that would limit growth of most fruit crops, making it suitable for marginal agricultural land in the Southeast.
+Soil preferences are broad, but the species performs best on well-drained sandy loams with pH 5.5–6.5. It tolerates acidic soils that would limit growth of most uncommon specialty fruit crops for permaculture, making it suitable for marginal [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] in the Southeast.
 
-The species tolerates the high humidity, warm nights, and heavy summer rainfall characteristic of the southeastern climate. These same conditions promote devastating fungal disease in V. vinifera, giving muscadines a decisive ecological and agricultural advantage in the region.
+The species tolerates the high humidity, warm nights, and heavy summer rainfall characteristic of the southeastern climate. These same conditions promote devastating [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] in V. vinifera, giving muscadines a decisive ecological and agricultural advantage in the region.
 
 ## Cultivation
 
@@ -69,7 +69,7 @@ Yield potential is high, with mature vines capable of producing 20–40 kg of fr
 
 Pruning is typically performed during dormancy, retaining 2–4 nodes per spur on a cordon-trained system. Unpruned vines rapidly become unmanageable due to the species' vigorous growth habit and dense canopy formation.
 
-Irrigation requirements are lower than for most fruit crops due to the deep, extensive root system. Drip irrigation is commonly used in commercial plantings to ensure consistent fruit sizing, particularly during dry spells in late summer.
+Irrigation requirements are lower than for most fruit crops due to the deep, extensive root system. [[comparison-drip-irrigation-vs-passive-irrigation]] is commonly used in commercial plantings to ensure consistent fruit sizing, particularly during dry spells in late summer.
 
 ## Nutritional Value and Uses
 
@@ -102,7 +102,7 @@ The species is increasingly recognized for its potential in sustainable and low-
 - [[ceratocystis-fimbriata]]
 - [[citrus-sinensis]]
 - [[persea-americana]]
-- [[punica-granatum]]
+- punica-granatum
 - [[morus-nigra]]
 - [[camellia-sinensis-entity]]
 - [[castanea-sativa]]

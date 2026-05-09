@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  sources: []
 ---
 
 # Psilocybe maiorchina
@@ -30,7 +30,7 @@ mycologists have suggested that P. maiorchina may represent a regional variant o
 of other semilanceata-group species, though it retains distinct status in some treatments.
 
 The species was first described from collections made in the Balearic Islands, where it
-fruits in grassland and pastured habitats characteristic of the Mediterranean climate zone.
+fruits in grassland and pastured habitats characteristic of the Mediterranean [[holzer-climate-zone-microclimate-creation]].
 Its placement in the semilanceatae section is supported by its habitat preferences, spore
 morphology, and the presence of [[psilocin]] as the primary active
 compounds.
@@ -70,7 +70,7 @@ fragile and hollow. Length typically ranges from 30 to 70 mm, with a thickness o
 2 mm. A thin, fibrillose partial veil may be present in very young specimens but is
 typically evanescent and does not leave a persistent ring.
 
-**Spore print:** Dark purplish-brown to nearly black, typical of the genus Psilocybe.
+**[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Dark purplish-brown to nearly black, typical of the genus Psilocybe.
 
 **Spores:** Ellipsoid to somewhat amygdaliform in face view, with a thick wall and a
 distinct germ pore. Spore dimensions are approximately 10 to 13 μm in length by 6 to 8
@@ -82,7 +82,7 @@ consistent with the genus.
 and [[psilocybe-cubensis]], involving the enzymes PsiD, PsiK, PsiM,
 and PsiH that convert [[psilocybe-semilanceata]]: The [[psilocybe-galindoi]]: Another Mediterranean semilanceata-group species with which
   P. maiorchina shares significant morphological similarity. Definitive identification
-  often requires microscopic examination of spore size and cheilocystidia morphology.
-- [[psilocybe-hispanica]]: Known from the Iberian Peninsula, this species also grows in
+  often requires [[fungal-microscopic-examination-mounting-media-techniques]] of spore size and cheilocystidia morphology.
+- psilocybe-hispanica: Known from the Iberian Peninsula, this species also grows in
   grassland habitats and can be difficult to distinguish without microscopic analysis.
 - Deconica species: Non-psychoactive grassland species that lack the characteristic

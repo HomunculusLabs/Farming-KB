@@ -26,7 +26,7 @@ The species is closely related to mung bean (*Vigna radiata*) and the two share 
 
 India is the world largest producer, accounting for approximately 70% of global output. Annual production exceeds 2.5 million tonnes, with major growing states including Uttar Pradesh, Madhya Pradesh, and Tamil Nadu.
 
-The crop is valued both as a protein-rich food source and for its role in maintaining soil fertility through biological nitrogen fixation. Black gram fixes approximately 50-100 kg of nitrogen per hectare.
+The crop is valued both as a protein-rich food source and for its role in maintaining soil fertility through [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation. Black gram fixes approximately 50-100 kg of nitrogen per hectare.
 
 This nitrogen-fixing capacity makes it an excellent component of rotational farming systems. It is often grown in rotation with rice, wheat, or sugarcane to improve soil nitrogen status for the subsequent cereal crop.
 
@@ -50,7 +50,7 @@ Seed weight varies from 20-40 g per 1,000 seeds depending on variety and growing
 
 *V. mungo* is believed to have been domesticated in the Indian subcontinent from its wild progenitor *Vigna mungo* var. *silvestris*. Archaeological evidence indicates cultivation dating back over 4,500 years.
 
-The primary center of diversity is India, with secondary diversity centers in Pakistan, Bangladesh, and Nepal. Wild populations are found in tropical and subtropical regions of South and Southeast Asia.
+The primary center of diversity is India, with secondary diversity centers in Pakistan, Bangladesh, and Nepal. Wild populations are found in tropical and subtropical regions of South and [[psilocybe-southeast-asia-pacific]].
 
 The wild progenitor *V. mungo* var. *silvestris* is a prostrate, heavily pod-shattering form found in hill forests and grasslands. Domestication selected for erect growth habit, non-shattering pods, and larger seed size.
 
@@ -64,7 +64,7 @@ Black gram is commonly grown as a kharif (monsoon) crop in India, sown with the 
 
 ## Cultivation
 
-Black gram is typically direct-seeded at rates of 15-20 kg per hectare with row spacing of 25-30 cm. Seed treatment with rhizobial inoculants improves nodulation and nitrogen fixation efficiency.
+Black gram is typically direct-seeded at rates of 15-20 kg per hectare with [[wide-row-spacing-intensive-gardening-comparison]] of 25-30 cm. Seed treatment with rhizobial inoculants improves nodulation and nitrogen fixation efficiency.
 
 The crop performs best on well-drained loam soils with a pH of 6.0-7.5. It is often intercropped with cereals such as pearl millet, sorghum, or maize to maximize land use efficiency.
 
@@ -74,9 +74,9 @@ Crop duration is 75-100 days depending on variety and growing conditions. Improv
 
 Average yields range from 400-800 kg per hectare under rainfed conditions, reaching 1,200-1,500 kg per hectare with irrigation and improved management. Yield gaps between research station trials and farmer fields remain significant.
 
-Breeding programs in India have focused on developing varieties with improved yield potential, disease resistance, and early maturity. Recent molecular marker studies have identified quantitative trait loci for key agronomic traits.
+Breeding programs in India have focused on developing varieties with improved yield potential, disease resistance, and early maturity. Recent [[rapd-molecular-marker-techniques-fungi]] studies have identified quantitative trait loci for key agronomic traits.
 
-Major pests include stem fly, pod borer, and whitefly, while diseases such as leaf spot, powdery mildew, and yellow mosaic virus can cause substantial losses. Resistant varieties and integrated pest management are recommended.
+Major pests include stem fly, pod borer, and whitefly, while diseases such as leaf spot, [[cervantes-powdery-mildew-prevention-treatment]], and yellow mosaic virus can cause substantial losses. Resistant varieties and integrated pest management are recommended.
 
 Biological nitrogen fixation is mediated by *Bradyrhizobium* species that form nodules on the root system. Inoculation with efficient rhizobial strains can significantly improve nodulation in soils lacking native rhizobia.
 
@@ -94,7 +94,7 @@ Anti-nutritional factors include phytic acid, trypsin inhibitors, and flatulence
 
 Sprouted black gram shows enhanced vitamin C content and reduced phytic acid levels compared to dry seeds. Fermentation further increases B-vitamin content and protein digestibility.
 
-In Indian cuisine, black gram is used whole, split, or ground into flour (urad dal flour). It is the primary ingredient in idli and dosa batters, where fermentation by lactic acid bacteria enhances nutritional quality and flavor.
+In Indian cuisine, black gram is used whole, split, or ground into flour (urad dal flour). It is the primary ingredient in idli and dosa batters, where fermentation by lactic acid bacteria enhances [[coleman-winter-greens-nutritional-quality-cold-sweetening]] and flavor.
 
 Dried black gram is also an important commodity in international trade, particularly as split dal. India is both the largest producer and consumer, with limited exports to countries with significant South Asian diaspora communities.
 
@@ -106,8 +106,8 @@ Black gram flour is also used in papad preparation, a thin crispy snack popular 
 - [[arachis-hypogaea]]
 - [[vicia-faba]]
 - [[lens-culinaris]]
-- [[crotalaria-juncea]]
-- [[lupinus-albus]]
+- crotalaria-juncea
+- lupinus-albus
 - [[arctium-lappa-entity]]
 - nigella-sativa
 - [[pimpinella-anisum]]

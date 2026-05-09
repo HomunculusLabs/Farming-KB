@@ -1,7 +1,7 @@
 ---
 title: history-of-mushroom-cultivation and Overview
 created: 2026-04-26
-sources: Benjamin Minge Duggar, "Mushroom Growing" (1915)
+sources: Benjamin benjamin-minge-duggar-mushroom-cultivation-research, "duggar-mushroom-growing-history-and-methods" (1915)
 source_path: raw/papers/benjamin-minge-duggar-mushroom-growing.md
 extracted: 2026-04-24
 type: concept
@@ -15,7 +15,7 @@ The word "mushroom" is diversely employed. Our best usage sanctions it as a comp
 
 ## Origins of Cultivation
 
-Mushroom culture had its origin in France, so from the beginning France has been, and still remains, the chief home of the industry. Mushrooms have long been extensively grown in England, and to a much more limited extent in Belgium, Germany, the United States and other countries. On the Continent of Europe, Italy has paid least attention to the cultivation of Agaricus, proportionally.
+[[mazatec-mushroom-culture-and-velada]] had its origin in France, so from the beginning France has been, and still remains, the chief home of the industry. Mushrooms have long been extensively grown in England, and to a much more limited extent in Belgium, Germany, the United States and other countries. On the Continent of Europe, Italy has paid least attention to the cultivation of Agaricus, proportionally.
 
 ## Development in the United States
 
@@ -31,13 +31,13 @@ Wherever and whenever a measure of success has been attained mushroom growing ha
 
 ## The Mushroom Life Cycle
 
-Mushrooms produce spores, which are their propagative structures. The spores cannot, however, be used directly in propagation. Under natural conditions the spores germinate to produce a mycelium (the vegetative, thread-like body), which penetrates the substratum in every direction and absorbs the available food. Mycelium growing in any suitable substratum yields a characteristic "spawn," and "spawn" refers merely to the vegetative stage of the fungus. Spawn may also be produced from cultures of the mycelium.
+Mushrooms produce spores, which are their propagative structures. The spores cannot, however, be used directly in propagation. Under natural conditions the spores germinate to produce a mycelium (the vegetative, thread-like body), which penetrates the substratum in every direction and absorbs the available food. Mycelium growing in any suitable substratum yields a characteristic "spawn," and "spawn" refers merely to the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] of the fungus. Spawn may also be produced from cultures of the mycelium.
 
 When the spawn has developed sufficiently and the environmental conditions are favorable, the mycelium enters the reproductive phase and produces the fruiting bodies -- the mushrooms that are harvested for food.
 
 ## Early Historical Accounts
 
-One of the earliest detailed accounts of [[duggar-mushroom-spawn-preparation]] - How mushroom spawn is produced
+One of the earliest detailed accounts of [[duggar-mushroom-spawn-preparation]] - How [[cuthill-mushroom-spawn-preparation-historical]] is produced
 - [[duggar-mushroom-growing-room-design]] - Designing environments for cultivation
 - [[duggar-mushroom-economics]] - Economics of small-scale mushroom farming
 ## Practical Considerations
@@ -56,7 +56,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -98,4 +98,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: Hallucinogenic Versus Psychedelic Terminology Debate
+title: Hallucinogenic Versus emcdda hallucinogenic vs psychedelic terminology debate Debate
 created: 2026-04-28
 tags:
   - terminology
@@ -12,17 +12,17 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - EMCDDA Thematic Papers - Hallucinogenic Mushrooms: An Emerging Trend Case Study (Hillebrand, Olszewski, Sedefov, 2006)
+  - EMCDDA Thematic Papers - emcdda-hallucinogenic-mushrooms-emerging-trend-europe: An Emerging Trend Case Study (Hillebrand, Olszewski, Sedefov, 2006)
 type: concept
 ---
 
 # Hallucinogenic Versus Psychedelic: The Terminology Debate
 
-The classification and naming of drugs that produce altered states of consciousness has been a subject of ongoing controversy among scientists, clinicians, and users for over a century. The terms "hallucinogenic," "psychedelic," "psychotomimetic," "psychodysleptic," and others each carry distinct connotations that reflect different theoretical frameworks, clinical perspectives, and cultural attitudes toward these substances.
+The classification and naming of drugs that produce altered states of consciousness has been a subject of ongoing controversy among scientists, clinicians, and users for over a century. The terms "hallucinogenic," "psychedelic," "psychotomimetic," "psychodysleptic," and others each carry distinct connotations that reflect different theoretical frameworks, clinical perspectives, and [[weil-cultural-attitudes-toward-altered-states]] toward these substances.
 
 ## Historical Terminology
 
-Issues related to hallucinogenic drugs have aroused vehement discussions and controversy among both concerned experts, including psychiatrists, psychologists, and psychopharmacologists, as well as people who use them. At different times, these drugs have been called:
+Issues related to [[hallucinogenic-drugs]] have aroused vehement discussions and controversy among both concerned experts, including psychiatrists, psychologists, and psychopharmacologists, as well as people who use them. At different times, these drugs have been called:
 
 - **"Psychedelic"** (from the Greek psyche, meaning "mind," and delos, meaning "manifest" or "visible"), coined by Humphry Osmond in 1956 and meaning "mind-opening" or "mind-expanding." This term carries strongly positive connotations and was adopted enthusiastically by the 1960s counterculture movement.
 - **"Psychotomimetic"** (meaning "psychosis-mimicking"), reflecting an early clinical perspective that the effects of these drugs resembled psychotic states. This term was primarily used by researchers who viewed the drug experience primarily through a pathological lens.
@@ -80,16 +80,16 @@ The presence of multiple active alkaloids in varying proportions adds complexity
 
 The hallucinogenic mushrooms discussed in the EMCDDA study belong mainly to four taxonomic families:
 
-- **Strophariaceae family** (Psilocybe genus): The predominant genus in terms of recreational use, including Psilocybe cubensis (also known as Stropharia cubensis), Psilocybe semilanceata (liberty caps), Psilocybe cyanescens (wavy caps), Psilocybe azurescens, and Psilocybe bohemica.
+- **Strophariaceae family** (Psilocybe genus): The predominant genus in terms of recreational use, including psilocybe cubensis (also known [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] semilanceata (liberty  anescens (wavy  urescens, and [[psilocybe-bohemica]].
 - **Bolbitiaceae family** (Conocybe genus): Less commonly encountered species containing psilocybin.
-- **Coprinaceae family** (Copelandia and Panaeolus genera): Including Panaeolus cyanescens (Copelandia cyanescens), a particularly potent species sold in smartshops.
+- **Coprinaceae family** (Copelandia and Panaeolus genera): Includin copelandia cyanescens s (Copelandia cyanescens), a particularly potent species sold in smartshops.
 - **Cortinariaceae family** (Inocybe genus): Some species containing psilocybin, though these are less commonly used recreationally.
 
 The complexity of mycological classification, combined with differences in chemical composition and subjective effects across species, has led to inconsistencies and confusion in the description and identification of hallucinogenic mushrooms. The list of species and their geographical distribution is constantly being critically revised by mycologists.
 
 ## The Amanita Distinction
 
-The EMCDDA study explicitly distinguished psilocybin-containing mushrooms from the Amanita family (Agaricaceae), with Amanita muscaria (fly agaric) being the best known representative. The active chemicals in Amanita species, including muscimol, ibotenic acid, and muscarine, are chemically unrelated to psilocybin and psilocin and produce qualitatively different effects. Amanita species carry substantial toxicity risks, and some closely related species are highly toxic and can cause fatal poisoning. This toxicity partly explains the lower popularity of Amanita mushrooms compared to psilocybin-containing species.
+The EMCDDA study explicitly distinguished psilocybin-containing mushrooms from the Amanita family (Agaricaceae), with [[allegro-amanita-muscaria-properties-and-pharmacology]] (fly agaric) being the best known representative. The active chemicals in Amanita species, including muscimol, ibotenic acid, and muscarine, are chemically unrelated to psilocybin and psilocin and produce qualitatively different effects. Amanita species carry substantial toxicity risks, and some closely related species are highly toxic and can cause fatal poisoning. This toxicity partly explains the lower popularity of Amanita mushrooms compared to psilocybin-containing species.
 
 Following the prohibition of psilocybin-containing fungi in the UK and Ireland, retailers began marketing Amanita muscaria as a legal alternative, a development that raised public health concerns given the different risk profile and the potential for confusion with highly toxic Amanita species.
 
@@ -101,7 +101,7 @@ The structural similarity between psilocin and serotonin (5-hydroxytryptamine) m
 
 ## Taxonomic Complexity
 
-The mycological classification of hallucinogenic mushrooms presents particular challenges for both science and law. There are more than 100 known hallucinogenic mushroom species, distributed across multiple genera and families. The list of species and their geographical distribution is constantly being critically revised by mycologists, with new species being identified and existing classifications being reorganized based on DNA analysis and morphological study.
+The mycological classification of hallucinogenic mushrooms presents particular challenges for both science and law. There are more than 100 known [[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry]], distributed across multiple genera and families. The list of species and their geographical distribution is constantly being critically revised by mycologists, with new species being identified and existing classifications being reorganized based on DNA analysis and morphological study.
 
 For legal purposes, this taxonomic complexity creates enforcement challenges. Laws that name specific genera or species may become outdated as classifications change, while laws that define controlled mushrooms by their chemical content (containing psilocin or psilocybin) require forensic testing that may not be available for every seizure. Different EU Member States adopted different approaches to this challenge, with some listing specific genera (Italy listed "Fungi of the genus Stropharia, Conocybe and Psilocybe"), some naming specific species (Denmark listed "Psilocybe semilanceata, Psilocybe cubensis or other fungi containing psilocin or psilocybin"), and others using functional definitions based on chemical content.
 

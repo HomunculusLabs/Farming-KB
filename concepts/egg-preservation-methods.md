@@ -42,7 +42,7 @@ Similar to lard coating but using food-grade mineral oil:
 ## Method 5: Limewater
 
 A traditional method using calcium hydroxide solution:
-1. Mix 1 ounce of hydrated lime (calcium hydroxide) per quart of water
+1. Mix 1 ounce of [[cervantes-hydrated-lime-quicklime-ph-adjustment]] (calcium hydroxide) per quart of water
 2. Allow to settle; the clear liquid is the limewater
 3. Submerge eggs in limewater
 4. Seal container and store cool
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

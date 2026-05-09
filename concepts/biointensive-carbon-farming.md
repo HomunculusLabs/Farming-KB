@@ -19,29 +19,29 @@ sustainability.
 Conventional agriculture depletes [[biointensive-calorie-crops]]
  allocation overlap significantly. Many carbon crops also produce
 calories. The key insight is that any crop's above-ground biomass (even from
-calorie crops) should be returned to the compost pile after harvest. Only the
+calorie crops) should be returned to the [[mushroom-cultivator-compost-pile-management]] after harvest. Only the
 edible portion is
 removed.
 ## Building Humus
 
 The goal of carbon farming is not just biomass quantity but humus quality:
 
-- A mix of carbon materials (straw, leaves, green manure) produces more diverse compost
+- A mix of carbon materials (straw, leaves, [[comparison-green-manure-guide-vs-mulch-types-and-effects]]) produces more diverse compost
 - Fungal-dominated compost (from woody materials) builds more stable humus
 - Regular composting of carbon crops creates a self-reinforcing cycle: better soil -> more biomass -> better compost -> better soil
 
 ## Comfrey as a Carbon Crop
 Comfrey ([[query-do-beans-and-peas-feed-nearby-plants-with-nitrogen]] levels comparable to
-legumes. The leaves break down rapidly in compost piles, contributing both
+legumes. The leaves [[query-can-fungi-break-down-plastic-pollution]] rapidly in compost piles, contributing both
 carbon and
 nitrogen.
 
-Comfrey also serves as a dynamic accumulator, concentrating
+Comfrey also serves as a [[nutrient-dynamic-accumulator-reference]], concentrating
 potassium,
 calcium, phosphorus, and trace minerals from deep subsoil layers. Russian
 comfrey (Symphytum x uplandicum, the 'Bocking 14' cultivar) is sterile and
 propagated only by root cuttings, preventing the invasive spread that can
-occur with common comfrey. Its use as a mulch around fruit trees and
+occur with common comfrey. Its use as a mulch around [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and
 vegetables is well-documented in [[savory-soil-carbon-sequestration]] available
 ## Practical Considerations
 
@@ -59,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,25 +1,18 @@
 ---
-title: Fukuoka Natural Rice and Barley Cultivation
-created: 2026-04-20
-updated: 2026-04-20
-type: concept
-tags: [fukuoka, natural-farming, philosophy]
-sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
----
 
+---
 # Fukuoka's Natural Rice and Barley Cultivation
 
 **Updated:** 2026-04-18
 
-[[farming-with-air-water-and-sunlight]] a fraction of the labor.
+farming-with-air-water-and-sunlight a fraction of the labor.
 
 ## The Three Stages of Development
 
 Fukuoka passed through three stages in developing his method for barley and wheat:
 
 1. **Tillage, ridging, and drilling:** Conventional ridge cultivation with various seeding width experiments
-2. **Light-tillage, low-ridge or level-row cultivation:** [[water-management]] is natural
+2. **Light-tillage, low-ridge or level-row cultivation:** water-management is natural
 
 **Autumn:**
 - Harvest rice
@@ -34,7 +27,7 @@ Fukuoka passed through three stages in developing his method for barley and whea
 - Organic matter as it decomposes
 - Microbial habitat
 
-**[[beneficial-insects-cannabis]]
+**beneficial-insects-cannabis
 
 **No nursery beds:** Rice is direct-seeded, eliminating the entire process of seedling raising and transplanting.
 
@@ -63,7 +56,7 @@ For natural rice cultivation to work, the seed must survive on the soil surface 
 - The clay pellet eliminates the need for chemical pesticide protectants that conventional agriculture uses on pre-germinated seed
 - When conditions are right (adequate moisture and temperature), the seed germinates through the clay coating
 
-This clay pellet technique makes winter sowing possible and is one of the key innovations that enables Fukuoka's rice [[fukuoka-natural-vs-scientific-farming]] (mechanization)
+This clay pellet technique makes winter sowing possible and is one of the key innovations that enables Fukuoka's rice fukuoka-natural-vs-scientific-farming (mechanization)
 4. **1970:** Agribusiness (energy-intensive systemized agriculture)
 ## See Also
 ## Practical Considerations
@@ -85,3 +78,16 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## Merged: Permaculture Grain Growing
+
+---
+
+Source: [[fukuoka-white-clover-cover-crop-system]]
+- [[fukuoka-barley-winter-grain-method]]
+- [[masanobu-fukuoka-natural-farming-philosophy]] rice [[fukuoka-textdoc-barley-cultivation-three-stage-no-tillage-evolution]]
+
+## Practical Considerations
+
+Successful implementation of Permaculture [[jeavons-grain-growing-mini-farms]] requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and

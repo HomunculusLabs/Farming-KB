@@ -20,10 +20,10 @@ type: concept
 
 Mycelial mats and biological soil crusts (BSCs) represent macroscopic
 fungal structures that significantly influence soil physical properties,
-nutrient cycling, and ecosystem stability. The Singh source documents
+[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and ecosystem stability. The Singh source documents
 the formation, ecological functions, and bioremediation applications
 of these fungal-dominated structures, particularly their roles in soil
-stabilization, erosion control, and the creation of microenvironments
+stabilization, [[permplant-willows-salix-erosion-control-fodder]], and the creation of microenvironments
 that support diverse microbial communities and pollutant degradation.
 
 ## Mycelial Mat Formation
@@ -56,7 +56,7 @@ when grown on lignocellulosic substrates placed on contaminated soil.
 
 ## Soil Aggregation
 
-Mycelial mats contribute to soil aggregate formation through several
+Mycelial mats contribute to soil [[soil-aggregate-formation-fungal-contributions]] through several
 mechanisms:
 
 - Physical entanglement: Hyphae enmesh soil particles, binding them
@@ -75,7 +75,7 @@ mechanisms:
 
 The Singh source notes that mycorrhizal fungal hyphae contribute
 disproportionately to soil aggregate stability relative to their
-biomass, with arbuscular mycorrhizal networks being particularly
+biomass, with [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] networks being particularly
 effective at forming water-stable macroaggregates.
 
 ## Erosion Control
@@ -108,7 +108,7 @@ crusts, are complex communities of cyanobacteria, algae, fungi
 that form a living surface layer on soils in arid and semi-arid
 regions. Fungal components of BSCs include:
 
-- Dark septate endophytes that form extensive melanized hyphal
+- Dark [[dark-septate-endophytes-root-colonizing-fungi]] that form extensive melanized hyphal
   networks within the crust.
 
 - Microfungi that decompose organic matter and contribute to nutrient
@@ -128,7 +128,7 @@ Mycelial mats and BSCs contribute to bioremediation through:
 - Contaminant adsorption: The high surface area and charged functional
   groups of hyphal mats bind heavy metals and organic pollutants.
 
-- Enzyme production: Mats of white-rot fungi produce lignin-modifying
+- [[ligninolytic-enzyme-production-bioremediation]]: Mats of white-rot fungi produce lignin-modifying
   enzymes that degrade aromatic pollutants in surface soils.
 
 - Habitat creation: Mats support diverse microbial communities

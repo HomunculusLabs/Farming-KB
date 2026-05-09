@@ -1,11 +1,11 @@
 ---
-title: Outdoor Woodlover Mushroom Cultivation
+title: Outdoor Woodlover accessible-mushroom-cultivation-for-disabilities
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [cultivation, mycology]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources: []
 ---
 # Outdoor Woodlover Mushroom Cultivation
 
@@ -15,12 +15,12 @@ Wood-loving (lignicolous) [[psilocybe-azurescens]], P. cyanescens, P. subaerugin
 
 The "cyanescens complex" includes closely related species that grow on decaying hardwood chips and debris in temperate coastal regions:
 
-- **P. azurescens**: Columbia River basin near Astoria, Oregon. First found 1979. Largest and most potent of all psilocybin mushrooms (up to ~25mg/g total alkaloids).
+- **P. azurescens**: Columbia River basin near Astoria, Oregon. First found 1979. Largest and most potent of all [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] (up to ~25mg/g total alkaloids).
 - **P. cyanescens**: Pacific Northwest, also naturalized in Europe. Very potent.
 - **P. subaeruginosa**: Australia and New Zealand.
 - **P. cyanofibrillosa**: Pacific Northwest.
 
-These species fruit in cool, wet autumn conditions and form perennial mycelial networks that can produce mushrooms for decades.
+These species fruit in cool, wet autumn conditions and form perennial [[fungal-mycelial-networks-nutrient-translocation]] that can produce mushrooms for decades.
 
 ## Cultivation Overview
 
@@ -42,7 +42,7 @@ Wet sterilized cardboard can be used as a selective medium if contamination prob
 - Fresh cut is ideal
 
 ### Preparation
-1. Soak chips in water for 48 hours (do not exceed -- fungi may start growing)
+1. Soak chips in water for 48 hours (do not exceed -- fungi may [[query-how-do-i-start-growing-hazelnut-bushes]])
 2. Drain thoroughly
 3. Optional: supplement with 1/2 cup oatmeal or boiled grass seed per bag (speeds growth)
 4. Load into autoclavable bags
@@ -51,8 +51,8 @@ Wet sterilized cardboard can be used as a selective medium if contamination prob
 7. Cool in flow cabinet
 
 ### Inoculation
-1. Open cooled bags in laminar flow hood (touch only outside)
-2. Pour in colonized grain spawn
+1. Open cooled bags in [[comparison-laminar-flow-hood-vs-fruiting-chamber]] hood (touch only outside)
+2. Pour in colonized [[comparison-grain-spawn-vs-grain-to-grain-transfer]]
 3. Seal with impulse sealer; test seal
 4. Label with strain and date
 5. Shake to distribute spawn
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

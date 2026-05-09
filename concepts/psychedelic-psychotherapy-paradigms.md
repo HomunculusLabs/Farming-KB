@@ -22,9 +22,9 @@ years, but was ultimately abandoned because LSD's capacity to "tap into the
 hidden mystical potentials of the human mind" was incompatible with producing
 predictably submissive behavior.
 
-The first Sandoz research papers described LSD as bringing about "psychic
+The first [[hofmann-lsd-sandoz-research-program]] papers described LSD as bringing about "psychic
 loosening or opening" (seelische Auflockerung) — the concept that became the
-basis of European psycholytic therapy.
+basis of European [[european-psycholytic-therapy-1960s-1970s]].
 
 ### The Psycholytic Model (European)
 Psycholytic therapy was developed primarily in Europe. Neurotic patients with
@@ -45,7 +45,7 @@ share several core assumptions that distinguish them from conventional
 pharmacotherapy:
 
 ### 1. Profoundly Expanded Consciousness
-Psychedelic therapy invariably involves an experience of expanded consciousness
+[[metzner-psycholytic-psychedelic-therapy-models]] invariably involves an experience of expanded consciousness
 in which individuals can gain therapeutic insight and transcend fundamental
 self-concepts and views of reality. This distinguishes it from conventional
 psychiatric medication, where the drug's pharmacological action is paramount.
@@ -54,7 +54,7 @@ psychiatric medication, where the drug's pharmacological action is paramount.
 Set and setting are more important than the drug itself, which plays the role
 of catalyst or trigger. This contrasts with stimulants, depressants, and
 narcotics where pharmacological action dominates and set/setting play minor
-roles. The set and setting model extends to nondrug altered states including
+roles. The set and [[set-and-setting-model-psychedelic-therapy]] extends to nondrug [[weil-the-natural-mind-altered-states-normalcy]] including
 hypnosis, meditation, drumming, sensory isolation, and fasting.
 
 ### 3. The Amplifier and Microscope Analogies
@@ -66,7 +66,7 @@ that the microscope plays in biology, opening direct, repeatable observation
 of previously hidden mental processes.
 
 ### 4. Therapist's Personal Experience as Essential
-The therapist's own psychedelic experience is considered an essential
+The therapist's own [[leary-psychedelic-experience-bardo-mapping]] is considered an essential
 prerequisite for effective psychedelic psychotherapy. Without prior personal
 experience, communication with a patient in a psychedelic state is "severely
 limited." This implies a significant role for psychedelic experience in the

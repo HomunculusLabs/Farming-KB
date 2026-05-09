@@ -18,7 +18,7 @@ The book does **not** claim plants are conscious, sentient, or intelligent in an
 
 Plants detect **light direction, color, duration, and intensity** through specialized photoreceptor proteins — a capability Chamovitz argues qualifies as a form of "sight," though one radically different from the image-forming vision of animals. Plants don't have eyes, lenses, retinas, or visual cortices, but they continuously monitor the light environment with extraordinary spectral and temporal resolution.
 
-Chamovitz traces the history of photoreception research from **Charles Darwin's phototropism experiments** (1880, published in *The Power of Movement in Plants*) — in which Darwin and his son Francis showed that the tip of a grass coleoptile perceives light and transmits a growth signal downward — through **Julius von Sachs**'s work formalizing plant physiology in the late nineteenth century, to the molecular identification of specific photoreceptor proteins in the twentieth century.
+Chamovitz traces the history of photoreception research from **Charles Darwin's phototropism experiments** (1880, published in *The [[darwin-power-of-movement-in-plants]] in Plants*) — in which Darwin and his son Francis showed that the tip of a grass coleoptile perceives light and transmits a growth signal downward — through **Julius von Sachs**'s work formalizing plant physiology in the late [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], to the molecular identification of specific photoreceptor proteins in the [[coleman-louis-savier-twentieth-century-maraicher]].
 
 Key photoreceptor families include:
 
@@ -32,7 +32,7 @@ The crucial distinction Chamovitz draws: plants don't "see" images or form visua
 
 Plants detect **volatile organic compounds** released by neighboring plants, herbivores, and pathogens — a capability Chamovitz frames as a form of "smell." When a plant is attacked by herbivores, it can release chemical alarm signals — such as **methyl jasmonate**, **methyl salicylate**, and various **terpenoids** — that are detected by neighboring plants, which then prime their own defense pathways before attack reaches them.
 
-This airborne chemical communication operates through receptor proteins that bind specific volatile molecules, triggering downstream defense cascades including the production of toxic secondary metabolites, protease inhibitors that interfere with herbivore digestion, and the release of additional volatile signals that may attract predatory insects — the herbivores' natural enemies. The phenomenon was first documented systematically by **Clarence Ryan** and colleagues in the 1990s and has since been confirmed across many plant species, including both wild and crop plants. It represents one of the most compelling examples of inter-plant communication and has practical implications for integrated pest management strategies.
+This airborne chemical communication operates through receptor proteins that bind specific volatile molecules, triggering downstream defense cascades including the production of toxic [[antifungal-secondary-metabolites-coprophilous-fungi]], protease inhibitors that interfere with herbivore digestion, and the release of additional volatile signals that may attract predatory insects — the herbivores' natural enemies. The phenomenon was first documented systematically by **Clarence Ryan** and colleagues in the 1990s and has since been confirmed across many plant species, including both wild and crop plants. It represents one of the most compelling examples of inter-plant communication and has practical implications for integrated pest management strategies.
 
 ### Touch: Mechanoperception
 
@@ -70,7 +70,7 @@ Chamovitz weaves a rich history of plant sensory research throughout the book, g
 
 - **Darwin's phototropism experiments** (1880) established that the coleoptile tip perceives light and transmits a signal downward to cause differential growth, a finding that set the stage for the eventual discovery of auxin
 - **Julius von Sachs** formalized the study of plant physiology, demonstrated phototropism's dependence on light direction, and established many foundational experimental techniques in botany
-- **Garner and Allard** discovered **photoperiodism** in the 1920s through experiments with the **Maryland Mammoth tobacco** plant, revealing that day length controls flowering time — a finding that revolutionized agriculture by enabling growers to manipulate light regimes for controlled flowering
+- **Garner and Allard** discovered **photoperiodism** in the 1920s through experiments with the **[[chamovitz-maryland-mammoth-photoperiodism-discovery]] tobacco** plant, revealing that day length controls flowering time — a finding that revolutionized agriculture by enabling growers to manipulate light regimes for controlled flowering
 - The **phytochrome** pigment system was uncovered in the 1950s–60s through spectroscopic studies of seed germination and flowering responses, pioneered by **Sterling Hendricks**, **Harry Borthwick**, and colleagues at the USDA Agricultural Research Center in Beltsville, Maryland
 
 ## Book Structure
@@ -102,7 +102,7 @@ Chamovitz occupies a measured middle ground in this debate: he acknowledges the 
 Understanding plant sensory biology has direct practical applications for agriculture, horticulture, and controlled-environment food production. Chamovitz emphasizes throughout the book that the practical implications of basic research in plant perception are enormous:
 
 - **Photoperiodism manipulation** allows growers to control flowering time in greenhouse and field settings, enabling year-round production of ornamentals and food crops across latitudes where natural day lengths would otherwise prevent it
-- **Light quality management** — adjusting red-to-far-red ratios with LEDs — can optimize plant architecture, prevent leggy growth, enhance nutritional quality, and trigger specific developmental transitions without the use of chemical growth regulators
+- **Light quality management** — adjusting red-to-far-red ratios with LEDs — can optimize plant architecture, prevent leggy growth, enhance [[coleman-winter-greens-nutritional-quality-cold-sweetening]], and trigger specific developmental transitions without the use of chemical growth regulators
 - **Chemical priming** strategies could reduce pesticide dependence by harnessing plants' natural volatile-mediated defense communication networks to pre-activate crop immunity, potentially improving both yield and environmental sustainability
 - **Gravitropism knowledge** informs space agriculture research — where plants must grow without consistent gravitational cues — and the design of vertical farming systems where root orientation cannot rely on natural gravity cues alone
 - Understanding **thigmomorphogenesis** helps greenhouse managers avoid excessive mechanical handling that can stunt plant growth and reduce yields, while also informing breeding programs for crops suited to mechanically challenging environments like windy open fields

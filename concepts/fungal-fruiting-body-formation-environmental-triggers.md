@@ -1,5 +1,5 @@
 ---
-title: Fungal Fruiting Body Formation and Environmental Triggers
+title: brassinosteroid-fungal-fruiting-body-morphology suppressed-incomplete-fruit-body-formation-brassinosteroid-treatment and Environmental Triggers
 created: 2026-04-28
 tags: mycology, fungal-physiology, mushroom-cultivation, developmental-biology, environmental-signaling]
 date: 2026-04-28
@@ -12,13 +12,13 @@ type: concept
 
 ## Overview
 
-The transition from vegetative mycelial growth to reproductive fruiting body
+The transition from vegetative [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] to reproductive fruiting body
 (mushroom) formation is one of the most dramatic developmental switches in the
 fungal kingdom. This process, called fruiting or fructification, is triggered
 by specific environmental cues that signal the fungus that conditions are
 favorable for reproduction and [[mycelium]], a network
 of branching hyphae that colonize substrate and absorb nutrients. During this
-vegetative phase, the fungus prioritizes resource acquisition and biomass
+[[green-cannabis-grow-bible-vegetative-phase-management]], the fungus prioritizes resource acquisition and biomass
 accumulation. The mycelium of cultivated species like [[mushroom-substrate-preparation-composting]]
 - [[mushroom-crop-management-flush-harvesting]]
 ## Practical Applications
@@ -99,3 +99,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[fungal-fruiting-body-mechanics-osmotic-pressure]]

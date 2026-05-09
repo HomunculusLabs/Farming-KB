@@ -1,5 +1,5 @@
 ---
-title: Fairy Rings and Giant Armillaria Mycelia
+title: Fairy fairy-rings-and-giant-mycelia Armillaria Mycelia
 created: 2026-04-28
 tags: [fairy-ring, armillaria, mycelium, fungal-colony, giant-organism,
       hyphal-growth, fungal-ecology, basidiomycete]
@@ -11,9 +11,9 @@ type: concept
 ---
 
 Fairy rings are among the most visible and enchanting manifestations
-of fungal biology, appearing as circular or arc-shaped bands of
+of [[bloomfield-fungal-biology-and-hyphal-growth]], appearing as circular or arc-shaped bands of
 mushrooms in pastures and lawns. These formations are the visible
-evidence of massive underground mycelial networks that can grow to
+evidence of massive underground [[fungal-mycelial-networks-nutrient-translocation]] that can grow to
 staggering proportions, making fungi contenders for the largest
 organisms on Earth.
 
@@ -59,7 +59,7 @@ The most spectacular fairy ring fungi belong to the genus Armillaria
 (honey mushrooms). Large Armillaria mycelia have been discovered in
 the United States with outer rims consisting of billions of hyphal
 tips traveling through forests for thousands of years, feeding on
-organic matter in the soil and invading tree roots.
+[[hamilton-composting-and-organic-matter-management]] in the soil and invading tree roots.
 
 By collecting and genetically analyzing mushrooms, which duplicate
 the genetic makeup of their soil-bound parents, investigators tracked
@@ -97,7 +97,7 @@ The mycelium operates as a foraging network, with hyphal tips
 secreting enzymes and absorbing nutrients at their advancing fronts.
 The plasma membrane lining the entire network allows resource
 distribution across the colony, enabling the fungus to respond to
-patchy nutrient availability in soil and wood.
+patchy [[ph-and-nutrient-availability-garden-soils]] in soil and wood.
 
 ## Ecological Significance
 
@@ -105,7 +105,7 @@ Fairy ring fungi play crucial roles in forest ecosystems. Armillaria
 species can be both saprotrophs (decomposing dead wood) and parasites
 (attacking living trees), making them significant agents of forest
 turnover. Their enormous underground networks influence soil structure,
-nutrient cycling, and the composition of plant communities across
+[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and the composition of plant communities across
 vast areas. The rings they produce above ground are the visible
 manifestation of an ancient and largely hidden biological process.
 
@@ -123,9 +123,12 @@ living infrastructure that predates and outlasts the trees above.
 
 - [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] for
   fungal relationships with living plants
-- [[bloomfields-orchard-fungal-biology-and-ecology]] for the role of
+- bloomfields-orchard-fungal-biology-and-ecology for the role of
   fungi in nutrient cycling
 
 ## See Also
 
 - [[armillaria-cepistipes]]
+- [[mycelial-networks]]
+- [[fairy-rings-and-giant-mycelia]]
+- [[bloomfield-truffle-hunting-and-culinary-fungi]]

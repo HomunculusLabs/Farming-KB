@@ -1,5 +1,5 @@
 ---
-title: Tree Oyster Mushroom (cancer-medicinal-mushrooms-pleurotus-ostreatus) Species Profile
+title: Tree cotter-oyster-mushroom-cultivation (cancer-medicinal-mushrooms-pleurotus-ostreatus) Species Profile
 created: 2026-04-26
 tags:
   - mycology
@@ -19,7 +19,7 @@ type: concept
 P. florida Eger is considered conspecific with P. ostreatus because
 spores from each are cross-fertile and produce fertile fruitbodies. The
 Florida variety differs primarily in its preference for warmer
-temperatures at fruiting. The North American P. sapidus also shares
+temperatures at fruiting. The [[growing-gourmet-north-american-reishi-species]] P. sapidus also shares
 synonymy with P. ostreatus according to Vilgalys et al. (1993). P.
 columbinus is also in doubt as a separately valid species.
 
@@ -50,10 +50,10 @@ almond-like.
 
 P. ostreatus is extraordinarily interesting from many viewpoints. Highly
 tolerant and responsive to carbon dioxide levels, Zadrazil (1974) noted
-mycelial growth peaks at 280,000 ppm or 28% CO2. Unless CO2 levels are
+[[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] peaks at 280,000 ppm or 28% CO2. Unless CO2 levels are
 reduced to less than 1000 ppm, malformations occur: typically long
 stems and small caps. The cap-to-stem ratio is an accurate measurement
-of atmospheric CO2 levels in the growing room.
+of atmospheric CO2 levels in the [[duggar-mushroom-growing-room-design]].
 
 Super-sensitive to light levels. Eger et al. (1974) determined P.
 ostreatus forms the most primordia at 2000 lux. Light exceeding 10,000

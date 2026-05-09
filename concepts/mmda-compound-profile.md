@@ -17,7 +17,7 @@ sources:
 - **HCl melting point:** 190-191 °C
 - **Picrate salt melting point:** 179 °C (decomposition)
 - **Molecular formula:** C11H15NO3
-- **Essential oil precursor:** Myristicin (from nutmeg, parsley, dill)
+- **[[permaculture-designers-manual-essential-oil-plants]] precursor:** Myristicin (from nutmeg, parsley, dill)
 - **Classification:** Essential Amphetamine
 
 ## Dosage and Duration
@@ -48,7 +48,7 @@ The synthesis begins with myristicin (5-allyl-1-methoxy-2,3-methylenedioxybenzen
 2. **Alternative route:** The reaction can also be performed by passing myristicin through a liver preparation, demonstrating that this conversion can occur biologically — a key piece of evidence for the "Essential Amphetamines" concept.
 3. **Purification:** The crude product is isolated as the picrate salt (mp 179 °C, decomp.), then converted to the hydrochloride salt (mp 190-191 °C).
 
-This synthesis route is notable for its simplicity: myristicin plus ammonia equals MMDA. The biological feasibility of this reaction (liver conversion) provides one of the strongest arguments for Shulgin's theory that essential oils serve as natural precursors to psychoactive amphetamines.
+This [[four-hydroxyindole-psilocin-synthesis-route-shirota]] is notable for its simplicity: myristicin plus ammonia equals MMDA. The biological feasibility of this reaction (liver conversion) provides one of the strongest arguments for Shulgin's theory that [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] serve as natural precursors to psychoactive amphetamines.
 
 ## Myristicin Connection
 
@@ -62,7 +62,7 @@ The relationship between MMDA and myristicin is fundamental to understanding bot
 
 ## Essential Amphetamine Context
 
-MMDA is the archetype of the "Essential Amphetamines" concept — the idea that nature provides, through essential oils, chemical structures that are one step (addition of ammonia) away from psychoactive amphetamines. Shulgin's son suggested the term "essential" (from essence, something with an odor) to replace the earlier "natural" amphetamines label. There are approximately ten essential oils that have a three-carbon chain and each lacks only a molecule of ammonia to become an amphetamine. See [[phenethylamine-chemistry-basics]] for the full SAR framework.
+MMDA is the archetype of the "Essential Amphetamines" concept — the idea that nature provides, through essential oils, [[plants-of-the-gods-chemical-structures-hallucinogens]] that are one step (addition of ammonia) away from psychoactive amphetamines. Shulgin's son suggested the term "essential" (from essence, something with an odor) to replace the earlier "natural" amphetamines label. There are approximately ten essential oils that have a three-carbon chain and each lacks only a molecule of ammonia to become an amphetamine. See [[phenethylamine-chemistry-basics]] for the full SAR framework.
 
 ## Comparison to Related Compounds
 
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

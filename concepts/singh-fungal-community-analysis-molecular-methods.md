@@ -1,5 +1,5 @@
 ---
-title: Fungal Community Analysis by Molecular Methods in Remediation
+title: air-pollution-fungal-community-responses Analysis by Molecular Methods in Remediation
 created: 2026-04-28
 tags:
   - mycoremediation
@@ -89,6 +89,10 @@ origins in treated environments.
 
 ## Applications in Remediation Monitoring
 
-1. **Baseline characterization**: Pre-treatment community composition for
+1. **Baseline characterization**: Pre-treatment [[core-endorhiza-bacterial-community-composition-cannabis]] for
    [[singh-detection-methods-degrading-fungi-environment]]
 - [[singh-key-fungal-genera-bioremediation]]
+
+## See Also
+
+- [[fungal-molecular-community-analysis]]

@@ -24,7 +24,7 @@ created: 2026-05-07
 
 The species forms **ectomycorrhizal associations** with coniferous trees, particularly **Scots pine** (*Pinus sylvestris*) and other members of Pinaceae.
 
-It is widely distributed across temperate regions of Europe and North America, often found fruiting in coniferous woodlands during late summer and autumn.
+It is widely distributed across temperate regions of Europe and [[psilocybin-north-america-pacific-northwest]], often found fruiting in coniferous woodlands during late summer and autumn.
 
 Unlike its close relative [[ectomycorrhiza]]-forming species that play critical roles in maintaining the health and resilience of boreal and temperate coniferous forest ecosystems.
 
@@ -63,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +105,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

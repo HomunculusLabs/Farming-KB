@@ -1,5 +1,5 @@
 ---
-title: Solomon Growing Cucurbits Guide
+title: Solomon solomon growing cucurbits guide Guide
 created: 2026-04-26
 tags:
   - gardening
@@ -59,14 +59,14 @@ For more on chitting, see [[solomon-disease-identification-and-organic-remedies]
 - **Squash vine borer**: A major pest of squash and pumpkins. Rarely a
   problem with cucumbers and melons. After harvest, promptly burn winter
   squash vines to destroy overwintering larvae.
-- **Powdery mildew**: Common on cucurbits, especially late in the season
+- **[[cervantes-powdery-mildew-prevention-treatment]]**: Common on cucurbits, especially late in the season
   when weather gets cool and damp. See
   [[cucurbita-pepo]]* (acorn, delicata) do not store as long.
 - *C. maxima* (Hubbard, buttercup) and *C. moschata* (butternut) store
   much longer.
 
-Ideal storage conditions: cool (around 55F/13C) with low humidity and
-good air circulation. Curing -- leaving winter squash outside to
+Ideal [[vegetable-storage-conditions-by-temperature-and-humidity]]: cool (around 55F/13C) with [[pf-tek-low-humidity-symptoms-and-remediation]] and
+good [[stamets-growing-room-air-circulation-co2-management]]. Curing -- leaving winter squash outside to
 experience more than one light frost, then bringing them inside where it
 is warm and dry -- improves storage potential.
 
@@ -79,7 +79,7 @@ facilitate packing and shipping), are inferior.
 
 Watermelon ripeness is determined by thumping and listening -- a skill
 that must be learned through practice. In maritime climates, ripe melons
-can only be produced by growing on wide sheets of black plastic mulch to
+can only be produced by growing on wide sheets of black [[jadam-plastic-mulch-problems]] to
 warm the soil.
 
 ## Varieties

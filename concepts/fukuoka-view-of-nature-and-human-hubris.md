@@ -1,17 +1,18 @@
 ---
-title: Fukuoka View of Nature and Human Hubris
+title: Fukuoka fukuoka view of nature and human hubris and Human Hubris
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka View of Nature and Human Hubris
 
 Masanobu Fukuoka's philosophy of [[fukuoka-natural-farming-philosophy]] -- the practice arising from this philosophy
 - [[four-principles-of-natural-farming]] -- practical expression
-- [[fukuoka-critique-modern-agriculture]] -- critique of modern farming practices
+- [[fukuoka-critique-modern-agriculture]] -- [[fukuoka-road-critique-of-modern-science]] farming practices
 - [[fukuoka-natural-farming-spiritual-light]]
 - [[fukuoka-snake-frog-war-and-peace-philosophy]]
 ## Background and Context
@@ -142,4 +143,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

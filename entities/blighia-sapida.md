@@ -46,7 +46,7 @@ The fruit is a pear-shaped capsule, 7–10 cm long, turning from green to yellow
 
 *Blighia sapida* is native to the Guinean forest-savanna mosaic of West Africa, occurring from Ivory Coast eastward to Ghana, Togo, Benin, and Nigeria. It has been widely introduced throughout the Caribbean and tropical Americas.
 
-In the Caribbean, Jamaica is the primary center of cultivation and consumption. The tree has naturalized in parts of Central America, northern South America, and southern Florida.
+In the Caribbean, Jamaica is the primary center of cultivation and consumption. The tree has naturalized in parts of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], northern South America, and southern Florida.
 
 The species grows at elevations from sea level to approximately 900 meters. It prefers tropical lowland climates with annual rainfall of 900–1,800 mm and mean temperatures of 18–30 degrees Celsius.
 
@@ -56,7 +56,7 @@ Soil requirements are moderately flexible, with trees growing on sandy loams, cl
 
 The primary toxins in ackee are hypoglycin A (found in the aril of unripe fruit) and hypoglycin B (found primarily in the seeds). Hypoglycin A is the more toxic and clinically significant compound.
 
-Hypoglycin A is an unusual amino acid structurally related to lysine. It is metabolized to methylenecyclopropylacetic acid (MCPA), which inhibits multiple acyl-CoA dehydrogenases essential for fatty acid oxidation.
+Hypoglycin A is an unusual [[cho-fish-amino-acid-preparation]] structurally related to lysine. It is metabolized to methylenecyclopropylacetic acid (MCPA), which inhibits multiple acyl-CoA dehydrogenases essential for fatty acid oxidation.
 
 The inhibition of fatty acid oxidation forces the body to rely exclusively on carbohydrate metabolism. During fasting or stress, when glycogen stores are depleted, this metabolic blockade leads to severe hypoglycemia and accumulation of toxic fatty acid intermediates.
 
@@ -88,7 +88,7 @@ Vegetative propagation by air layering or grafting is practiced for superior sel
 
 Fruiting season in Jamaica occurs primarily from January to March and June to August, though some trees produce year-round in favorable conditions. Annual yield per tree ranges from 30 to 100 fruits.
 
-Spacing of 8–10 meters between trees is recommended. The tree's spreading canopy requires adequate room for light penetration and air circulation.
+Spacing of 8–10 meters between trees is recommended. The tree's spreading canopy requires adequate room for light penetration and [[stamets-growing-room-air-circulation-co2-management]].
 
 ## See Also
 

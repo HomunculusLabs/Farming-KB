@@ -1,5 +1,5 @@
 ---
-title: Molecular Methods for Fungal Taxonomy and Diversity Assessment
+title: Molecular Methods for molecular methods fungal taxonomy and diversity and ingham-soil-food-web-diversity-assessment-dna-molecular-methods
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -11,7 +11,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dy
 
 The last 30 years have seen accelerating habitat loss from development, pollution, and poor management. As ecosystems are degraded, our need to address issues concerning the biological and genetic diversity of remaining organisms increases. Historically, determining fungal species diversity has been complicated by our inability to culture many fungi, the ephemeral nature of sporocarp production, and intraspecific variation in fungal morphology and biochemistry.
 
-Molecular methods have transformed mycology by enabling researchers to detect and identify fungi directly from environmental samples, bypassing the need for culturing or fruiting body collection. These approaches have revealed that fungal diversity is vastly greater than previously estimated from morphological studies alone.
+Molecular methods have transformed mycology by enabling researchers to detect and identify fungi directly from environmental samples, bypassing the need for culturing or [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] collection. These approaches have revealed that [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] is vastly greater than previously estimated from morphological studies alone.
 
 ## Key Impediments to Understanding Fungal Diversity
 
@@ -25,7 +25,7 @@ Molecular methods have transformed mycology by enabling researchers to detect an
 
 - Physical and chemical requirements for sporocarp development are poorly defined
 
-- Anthropogenic factors (harvesting sporocarps) may obscure fungal biology
+- Anthropogenic factors (harvesting sporocarps) may obscure [[bloomfield-fungal-biology-and-hyphal-growth]]
 
 ## DNA Extraction
 
@@ -38,7 +38,7 @@ Detailed guidance on extraction methods is available in the [[fungal-species-con
 - [[molecular-methods-fungal-diversity]]
 - [[fungal-dna-barcoding]]
 - [[fungal-species-concept-and-taxonomy]]
-- [[fungal-community-ecology]]
+- fungal-community-ecology
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 ## Practical Considerations
 
@@ -56,7 +56,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -98,4 +98,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

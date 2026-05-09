@@ -1,5 +1,5 @@
 ---
-title: Curandero Healing Practice in Ayahuasca Shamanism
+title: Curandero Healing Practice in harner-ayahuasca-shamanism-amazon
 created: 2026-04-28
 tags:
   - curandero
@@ -17,9 +17,9 @@ type: concept
 # Curandero Healing Practice in Ayahuasca Shamanism
 
 The curandero (healer) in Amazonian vegetalismo diagnoses and treats
-illnesses that Western medicine cannot address -- conditions caused
+illnesses that [[fukuoka-eastern-western-medicine-healing-world-crisis]] cannot address -- conditions caused
 by sorcery, evil spirits, and spiritual imbalance. The healing
-practice integrates ayahuasca-preparation|ayahuasca visions,
+practice integrates ayahuasca-preparation|[[amaringo-ayahuasca-visions-shipibo-iconography]],
 [[ayahuasca-sorcery-types]], marupa, or huani sorcery
 - **Manchari** (fright): Sudden fright that settles in the body
 - **Kapukiri**: A substance from rotten leaves that enters the body
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

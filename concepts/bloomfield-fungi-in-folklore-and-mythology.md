@@ -1,5 +1,5 @@
 ---
-title: "Fungi in Folklore and Mythology"
+title: "bloomfield fungi in folklore and mythology and Mythology"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -10,9 +10,9 @@ tags: [fungi]
 
 # Fungi in Folklore and Mythology
 
-Fungi have occupied a peculiar place [[ingold-cecil-t]] notes, many people "giggle at the mention of these organisms,
-drawing on vague notions about hallucinogens and poisons, fairy tales, [[antiviral-properties-of-mushrooms]]." Mr. Bloomfield's Orchard traces how this
-cultural fascination intertwines with real fungal biology, from [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] growth of fairy rings in his Natural History of Wiltshire (written
+Fungi have occupied a peculiar place  notes, many people "giggle at the mention of these organisms,
+drawing on vague notions about hallucinogens and poisons, fairy tales, antiviral-properties-of-mushrooms." Mr. Bloomfield's Orchard traces how this
+cultural fascination intertwines with real [[bloomfield-fungal-biology-and-hyphal-growth]], from [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] growth of [[bloomfield-fairy-rings-armillaria-giant-fungi]] in his Natural History of Wiltshire (written
 between 1656 and 1691, published posthumously in 1847). The resemblance between
 the fungal rings and skin disease reinforced supernatural interpretations of both
 phenomena.
@@ -20,7 +20,7 @@ phenomena.
 The scientific explanation is elegant: mycelia spread outward from their point
 of origin, leaving an ever-widening circle of dead and dying cells at their core.
 This distinctive torus-shaped growth pattern creates annual flushes of mushrooms
-above the active perimeter [[stinkhorn-fungi-phallus-impudicus-spore-dispersal]] (Phallus species) has generated some
+above the active perimeter [[stinkhorn-fungi-and-insect-spore-dispersal]] (Phallus species) has generated some
 of the richest fungal folklore across cultures. In 1926, members of a French sect
 became convinced that these "obscene fungi" arose from bird droppings and
 afflicted those who inhaled their odors with "horrible diseases." They attacked
@@ -35,11 +35,11 @@ spores called the gleba. When the receptacle absorbs [[amanita-muscaria-entity]]
 its bright red cap splattered with white scales -- is "associated with a rich
 history of ritual use and abuse, and has played center stage in numerous fiction
 and nonfiction books." Its visual hallucinations, caused by muscimol and
-ibotenic acid binding to brain receptors, have woven it deeply into cultural
+[[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] binding to brain receptors, have woven it deeply into cultural
 traditions:
 
 - **Lewis Carroll's Alice in Wonderland** (1865) probably owes much of its
-  disoriented world to contemporary accounts of fly agaric inebriation by the
+  disoriented world to contemporary accounts of [[amanita-muscaria-fly-agaric-history-and-pharmacology]] inebriation by the
   mycologist Mordecai Cubitt Cooke. The caterpillar sitting on a mushroom, the
   size changes, the disorientation -- all echo the known effects of the mushroom.
 
@@ -60,7 +60,7 @@ powerful that hands and feet become gangrenous. An eighteenth-century English
 report referred to "a singular calamity" in which six family members lost their
 feet to "a mortification not to be accounted for."
 
-The hallucinations are caused by isoergine (lysergic acid amide), a less potent
+The hallucinations are caused by isoergine ([[ergot-and-lysergic-acid-history]] amide), a less potent
 version of LSD. Money notes this was "a nice touch by the fungus, an additional
 torment for the afflicted" -- medieval sufferers experiencing gangrene while
 believing they were attacked by demons may have been on an "unintentional acid

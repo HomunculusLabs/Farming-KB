@@ -1,5 +1,5 @@
 ---
-title: Stone Cellar Building
+title: holzer-stone-cellar-construction Building
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 
 # Stone Cellar Building
 
-Stone cellars provide permanent storage for fruit and vegetables with the same basic characteristics as wooden earth cellars but are designed to last indefinitely, requiring a great deal more work to construct.
+Stone cellars provide permanent storage for fruit and vegetables with the same basic characteristics as wooden [[sepp-holzer-earth-cellars-and-philosophy]] but are designed to last indefinitely, requiring a great deal more work to construct.
 
 ## Storage Conditions
 
@@ -19,7 +19,7 @@ An optimal stone cellar maintains humidity between 80 and 90 percent and tempera
 
 ### Drainage
 
-Gravel is laid on the floor for drainage. Good air circulation is essential.
+Gravel is laid on the floor for drainage. Good [[stamets-growing-room-air-circulation-co2-management]] is essential.
 
 ### Ventilation Pipes
 
@@ -114,4 +114,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

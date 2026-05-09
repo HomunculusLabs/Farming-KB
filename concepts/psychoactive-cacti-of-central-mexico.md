@@ -1,5 +1,5 @@
 ---
-title: Psychoactive Cacti of Central Mexico
+title: Psychoactive psychoactive cacti of central mexico Mexico
 created: 2026-04-23
 updated: 2026-04-27
 type: concept
@@ -19,7 +19,7 @@ Central Mexico is home to a remarkable diversity of cacti used by indigenous peo
 
 ## Sunami (Ariocarpus fissuratus)
 
-Sunami (*Ariocarpus fissuratus*) has been used in the folk medicine of Mexico and the southwestern United States. It is believed to be more potent than peyote and is consumed in the same manner or prepared as an intoxicating drink. Among some tribes it is known as Chaute (a generic term for *Ariocarpus* species), living rock, or dry whiskey.
+Sunami (*Ariocarpus fissuratus*) has been used in the folk medicine of Mexico and the southwestern [[dmt-containing-plants-united-states-halpern]]. It is believed to be more potent than peyote and is consumed in the same manner or prepared as an intoxicating drink. Among some tribes it is known as Chaute (a generic term for *Ariocarpus* species), living rock, or dry whiskey.
 
 Two varieties exist: var. *lloydii* and var. *fissuratus*, both with similar phytochemical makeup. The plant contains mostly hordenine, lesser amounts of N-methyl-tyramine, and some N-methyl-3,4-dimethoxy-β-phenethylamine. Related species *A. kotschoubeyanus* (Pata De Venado or Pezuna De Venado) and *A. trigonus* contain these same alkaloids.
 
@@ -38,12 +38,12 @@ Interestingly, the total alkaloid content of most Mexican cacti ranges from 0.01
 
 Many of the cacti discussed here face serious conservation threats. *Pelecyphora aselliformis* is listed on CITES Appendix I, the highest level of international protection, prohibiting all commercial trade. *Ariocarpus fissuratus* is also CITES Appendix I, and wild populations have declined dramatically due to overcollection. *Aztekium ritterii* and *A. hintonii* are both endangered in their extremely restricted natural ranges.
 
-Under Mexican federal law (NOM-059-SEMARNAT-2010), many of these species are categorized as threatened or endangered. International trade in wild-collected specimens is prohibited, though artificially propagated specimens of some species may be traded with CITES permits. The primary conservation threats are illegal collection for the ornamental plant trade, habitat destruction from urbanization and agriculture, and climate change affecting the arid ecosystems these species inhabit.
+Under Mexican federal law (NOM-059-SEMARNAT-2010), many of these species are categorized as threatened or endangered. International trade in wild-collected specimens is prohibited, though artificially propagated specimens of some species may be traded with CITES permits. The primary conservation threats are illegal collection for the ornamental plant trade, habitat destruction from urbanization and agriculture, and [[dighton-fungi-climate-change-feedback]] affecting the arid ecosystems these species inhabit.
 Conservation organizations including the IUCN Cactus and Succulent Specialist Group have prioritized several of these species for ex situ conservation and habitat protection programs. Botanical gardens and specialist nurseries maintain living collections of the rarest species, providing a genetic safety net against wild extinction. Illegal collection remains the most intractable conservation challenge, driven by demand from cactus enthusiasts and, to a lesser extent, by interest in psychoactive properties.
 
 ## Legal Status of Psychoactive Cacti
 
-The legal status of these cacti varies significantly by jurisdiction. In the United States, peyote is the only cactus specifically scheduled under the Controlled Substances Act (Schedule I), though an exemption exists for members of the Native American Church. Other mescaline-containing cacti occupy a legal gray area — *Trichocereus* species are widely sold as ornamental plants despite containing mescaline, because they are not specifically listed. The non-psychoactive Mexican species discussed here are generally legal to possess and cultivate, provided they were legally obtained.
+The legal status of these cacti varies significantly by jurisdiction. In the United States, peyote is the only cactus specifically scheduled under the Controlled [[controlled-substances-act-and-psychedelic-research]] (Schedule I), though an exemption exists for members of the [[halpern-sacramental-peyote-and-native-american-church]] Church. Other mescaline-containing cacti occupy a legal gray area — *Trichocereus* species are widely sold as ornamental plants despite containing mescaline, because they are not specifically listed. The non-psychoactive Mexican species discussed here are generally legal to possess and cultivate, provided they were legally obtained.
 
 ## See Also
 
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -31,7 +31,7 @@ found in coniferous and mixed woodlands, often associated with mossy ground.
 Despite its dramatic appearance, the species is inedible due to its insipid
 taste and rubbery texture. It serves as an indicator of healthy, undisturbed
 forest floor ecosystems and is of increasing conservation interest due to
-sensitivity to habitat disturbance and nitrogen deposition.
+sensitivity to habitat disturbance and [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]].
 
 ## Taxonomy
 
@@ -48,7 +48,7 @@ Clavaria purpurea (O.F. Müll.) Fr. — a name applied to multiple purple
 clavarioid species and now considered a confused taxon.
 
 **Etymology:** The species honors Heinrich Zollinger (1818–1859), a Swiss
-botanist and collector who explored Java and Southeast Asia. The genus name
+botanist and collector who explored Java and [[psilocybe-southeast-asia-pacific]]. The genus name
 *Clavaria* derives from Latin *clava* (club), referring to the club-shaped
 fruiting bodies characteristic of the group.
 
@@ -78,7 +78,7 @@ fruiting bodies characteristic of the group.
 
 ## Distribution and Habitat
 
-- **Geographic range:** Cosmopolitan in temperate regions — North America
+- **Geographic range:** Cosmopolitan in temperate regions — [[psilocybin-north-america-pacific-northwest]]
   (east of the Rockies), Europe, East Asia, Australasia, and parts of
   South America
 - **Habitat:** Forest floor in coniferous and mixed woodlands, particularly
@@ -86,17 +86,17 @@ fruiting bodies characteristic of the group.
 - **Substrate:** Terrestrial, arising from leaf litter, moss-covered ground,
   and humus-rich soil; sometimes on well-rotted wood fragments buried in litter
 - **Ecology:** Primarily saprotrophic on forest floor litter; some evidence
-  suggests weakly [[decomposition]]:** Contributes to breakdown of coniferous needle litter
+  suggests weakly [[decomposition]]:** Contributes to breakdown of coniferous [[dighton-pine-needle-litter-decomposition-fungal-succession]]
   and leaf duff on the forest floor
 - **Mycorrhizal associations:** Some evidence of weak ectomycorrhizal
-  capability, potentially facilitating nutrient exchange with host trees
+  capability, potentially facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] with host trees
 - **Bioindicator value:** Sensitive to nitrogen deposition, soil compaction,
   and forest floor disturbance; presence indicates relatively undisturbed
   forest conditions with low atmospheric nitrogen input
 - **Conservation status:** Declining in parts of Europe due to atmospheric
   pollution and habitat modification; listed on several regional red lists
 - **Microhabitat specialist:** Requires specific moisture and litter depth
-  conditions, making it vulnerable to changes in forest management practices
+  conditions, making it vulnerable to changes in [[mollison-pdc-forest-management-products]] practices
 
 ## Similar Species
 
@@ -108,6 +108,7 @@ fruiting bodies characteristic of the group.
 | Typhula spp. | Much smaller (1–3 cm), on decaying herbaceous stems |
 ## See Also
 
+- [[clavaria-vermicularis]]
+
 - [[clitocybe-nuda]] — Another Clavariaceae member with potent bioactives
 - clavulina — Related clavarioid genus with branching fruiting bodies
-- [[clitocybe-nuda]] — Another violet-colored forest fungus

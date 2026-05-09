@@ -1,5 +1,5 @@
 ---
-title: The Vacuole and Tonoplast in Plant Cell Regulation
+title: The the vacuole and tonoplast in plant cell regulation in Plant Cell Regulation
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -19,7 +19,7 @@ In mature plant cells, the vacuole is enormous. It pushes all other organelles a
 
 ### The Tonoplast
 
-The tonoplast is a double-layered phospholipid membrane surrounding the vacuole. Like the plasmalemma, it is studded with transport proteins that tightly regulate what enters and leaves. The tonoplast responds to signals including:
+The tonoplast is a double-layered phospholipid membrane surrounding the vacuole. Like the plasmalemma, it is studded with [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] that tightly regulate what enters and leaves. The tonoplast responds to signals including:
 - pH changes
 - Concentrations of specific ions or proteins
 - Light
@@ -41,7 +41,7 @@ The plant uses the vacuole as an H+ dump:
 2. The vacuole, being much larger and more resilient, can handle higher acidity
 3. Vacuolar pH drops to approximately 5.5 (significantly more acidic than cytosol)
 4. Remaining H+ ions are exported across the plasmalemma to the cell exterior
-5. These exported H+ ions are available for cation exchange and for powering active transport
+5. These exported H+ ions are available for [[mollison-designers-tropical-soils-and-cation-exchange-management]] and for powering [[diffusion-osmosis-and-active-transport-in-plants]]
 
 ### The Coordinated System
 
@@ -75,7 +75,7 @@ The tonoplast has its own set of transport proteins, distinct from those in the 
 
 ### Water Storage
 
-The vacuole is the primary water reservoir of the plant cell. Water moves into the vacuole by osmosis, creating turgor pressure that:
+The vacuole is the primary water reservoir of the plant cell. Water moves into the vacuole by osmosis, creating [[bloomfield-turgor-pressure-and-hyphal-invasion]] that:
 - Keeps the cell rigid (provides structural support to non-woody plants)
 - Drives cell expansion during growth
 - Powers the opening and closing of stomata
@@ -92,7 +92,7 @@ The vacuole stores excess ions that could be toxic or disruptive in the cytosol:
 
 - **Sugars**: Some sugars move into storage vacuoles at sink locations, crossing the tonoplast via specialized transport proteins
 - **Pigments**: Anthocyanins and other flower/fruit colors are stored in vacuoles
-- **Secondary metabolites**: Many defensive compounds are vacuole-stored
+- **[[antifungal-secondary-metabolites-coprophilous-fungi]]**: Many defensive compounds are vacuole-stored
 - **Waste products**: Cellular waste is sequestered in the vacuole
 
 ## Turgor Pressure and Cell Function

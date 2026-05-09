@@ -1,12 +1,12 @@
 ---
-title: Fire-Resistant Trees and Shrubs for Permaculture Design
+title: Fire-Resistant Trees and Shrubs for bill-mollison-permaculture-a-designers-manual-permaculture-design-principles
 source: a-selection-permaculture-plants.md
 author: Jeff Nugent and Julia Boniface
 topics: fire-resistant, trees, shrubs, permaculture, fire-safety, landscaping
 ---
 
 # Fire-Resistant Trees and Shrubs for [[cinnamomum-camphora]]*) — High moisture content
-- **Ginkgo** (*[[chinese-tallow-tree]]** (*Sapium sebiferum*) — Listed as fire resistant
+- **Ginkgo** (*[[chinese-tallow-tree]]** (*Sapium sebiferum*) — Listed as [[mollison-designers-fire-resistant-landscape-design]]
 - **London plane** (*Platanus acerifolia*) — Thick bark resists fire
 - **Chinese pistachio** (*Pistacia chinensis*) — Excellent fire resistance
 - **Paulownia** (*[[ceratonia-siliqua]]*) — Fire resistant, recovers after fire,
@@ -14,9 +14,9 @@ topics: fire-resistant, trees, shrubs, permaculture, fire-safety, landscaping
 - **Olive** (*Olea europaea*) — Fire resistant and recovers after burning;
   also produces edible fruit and oil
 - **Pecan** (*Carya illinoensis*) — Low fire potential, nut producer
-- **Common hawthorn** (*[[elaeagnus-angustifolia]]*) — Nitrogen fixing, fire
+- **Common hawthorn** (*elaeagnus-angustifolia*) — [[comparison-rhizobia-vs-free-living-nitrogen-fixing-bacteria]], fire
   resistant
-- **Japanese raisin tree** (*Hovenia dulcis*) — Edible fruit stalks
+- **[[permaculture-japanese-raisin-tree-hovenia-dulcis]] tree** (*Hovenia dulcis*) — Edible fruit stalks
 
 ### Ornamental and Functional Shrubs
 - **Privet** (*Ligustrum spp*) — Dense hedge-forming, fire resistant
@@ -26,7 +26,7 @@ topics: fire-resistant, trees, shrubs, permaculture, fire-safety, landscaping
   resistant
 - **Agave** (*Agave spp*) — Succulent leaves store water, highly fire
   resistant
-- **Opuntia** (*Opuntia spp*) — Prickly pear cactus; succulent, fire
+- **Opuntia** (*Opuntia spp*) — [[comparison-agave-vs-prickly-pear-cultivation]] cactus; succulent, fire
   resistant
 - **Atriplex** (*Atriplex spp*) — Saltbush; fire resistant, edible for
   livestock
@@ -79,4 +79,4 @@ highly flammable species like eucalypts and pines on the windward side.
 - **Local conditions vary** — Drought-stressed plants are more flammable
 - **Community context** — Fire-resistant planting is one component of a
   broader fire management strategy including access, water supply, and
-  building materials
+  [[natural-building-materials-guide]]

@@ -21,7 +21,7 @@ DOC (2,5-dimethoxy-4-chloroamphetamine) is a potent psychedelic amphetamine belo
 - Shulgin explicitly warns: "Anyone who uses this had better have 24 hours at their disposal"
 - Sleep quality is poor even 24 hours post-dose -- plan rest time accordingly
 - The chlorinated variant is less explored than DOB or DOI in the scientific literature
-- Consider [[psychedelic-harm-reduction]] and [[hallucinogenic-mushroom-health-risks-and-harm-reduction]]
+- Consider [[psychedelic-harm-reduction]] and hallucinogenic-mushroom-health-risks-and-harm-reduction
 ## Practical Applications
 
 DOC (4-Chloro-2,5-dimethoxyamphetamine) has a range of practical applications that make it relevant to
@@ -100,3 +100,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[pihkal-doc]]

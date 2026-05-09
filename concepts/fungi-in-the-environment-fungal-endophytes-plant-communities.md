@@ -14,8 +14,8 @@ Fungal endophytes are fungi that live within plant tissues without causing
 apparent disease symptoms. They represent a diverse and ecologically
 significant component of plant-fungal interactions, distinct from both
 pathogenic fungi and classical mycorrhizal symbionts. Endophytes influence
-plant community composition, herbivore resistance, stress tolerance, and
-nutrient cycling. Their study has revealed remarkable evolutionary dynamics
+plant [[core-endorhiza-bacterial-community-composition-cannabis]], herbivore resistance, [[fungal-lichen-stress-tolerance-and-poikilohydry]], and
+[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. Their study has revealed remarkable evolutionary dynamics
 including hybrid speciation events that generate new fungal species.
 
 ## Diversity of Endophyte Types
@@ -42,9 +42,9 @@ major speciation mechanism in this group.
 Beyond the grass endophytes, a vast diversity of non-clavicipitaceous
 fungi colonizes plant tissues asymptomatically. These include:
 - Vesicular-arbuscular endophytes in grasses, which form structures
-  resembling arbuscular mycorrhizal associations in above-ground
+  resembling [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] associations in above-ground
   tissues
-- Ericoid mycorrhizal endophytes such as those associated with
+- [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] endophytes such as those associated with
   Woollsia pungens, which combine endophytic and mycorrhizal roles
 - Rhizoctonia endophytes of orchids, which serve as germination
   partners for dust seeds
@@ -64,7 +64,7 @@ carbon for germination and establishment from their tiny dust seeds.
 During initial mycoheterotrophic establishment, orchids typically depend
 on soil fungi including saprophytes and root pathogens such as Rhizoctonia
 species. However, most fully mycoheterotrophic orchids have switched to
-associate with ectomycorrhizal fungi on adjacent green plants, gaining
+associate with [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] on adjacent green plants, gaining
 access to large, sustained carbon supplies.
 
 Green orchids may no longer depend on fungal carbon once established, but
@@ -81,3 +81,7 @@ Basidiomycota and Ascomycota. Voyria species associate with Glomus Group
 A [[fungi-in-the-environment-plant-fungal-interactions]]
 - [[fungi-in-the-environment-fungal-biodiversity]]
 - [[fungi-in-the-environment-plant-fungal-interactions]]
+
+## See Also
+
+- [[fungi-living-plant-substrata]]

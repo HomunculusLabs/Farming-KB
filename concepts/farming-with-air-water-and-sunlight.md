@@ -5,23 +5,24 @@ updated: 2026-04-18
 type: concept
 tags: [agriculture, homesteading]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Farming with Air, Water and Sunlight
 
-"Farming with air, water and sunlight" is a natural farming philosophy articulated by Gil Carandang of Herbana Farms, Philippines. It holds that 96% of plant and animal growth derives from these three elemental forces of nature, with only 4% attributable to applied nutrients. The principle urges farmers to prioritize optimizing these natural elements before focusing on fertilization.
+"Farming with air, water and sunlight" is a natural [[fukuoka-do-nothing-farming-philosophy-and-practice]] articulated by Gil Carandang of Herbana Farms, Philippines. It holds that 96% of plant and animal growth derives from these three elemental forces of nature, with only 4% attributable to applied nutrients. The principle urges farmers to prioritize optimizing these natural elements before focusing on fertilization.
 
 ## The 96/4 Principle
 
-Carandang observed that in healthy forests, plants grow vigorously without any deliberate fertilizer application. They achieve this by fully utilizing the powers of air, water, and sunlight available in nature. Nutrients are derived from natural soil fertility as organic matter decays and is processed by microorganisms. The implication is that conventional agriculture's fixation on NPK (nitrogen, phosphorus, potassium) inputs misses the dominant factors driving plant growth.
+Carandang observed that in healthy forests, plants grow vigorously without any deliberate [[cervantes-fertilizer-application-strain-feeding]]. They achieve this by fully utilizing the powers of air, water, and sunlight available in nature. Nutrients are derived from natural soil fertility as [[hamilton-composting-and-organic-matter-management]] decays and is processed by microorganisms. The implication is that conventional agriculture's fixation on NPK (nitrogen, phosphorus, potassium) inputs misses the dominant factors driving plant growth.
 
-This framework parallels [[natural-farm-permaculture-ethics-principles]] emphasis on working with natural systems rather than against them.
+This framework parallels natural-farm-permaculture-ethics-principles emphasis on working with natural systems rather than against them.
 
 ## Air
 
 ### Soil Aeration
 
-Air is vital to plant growth, yet its role is frequently overlooked. Carandang draws on biointensive mini-farming techniques, specifically double digging, which loosens soil to 24 inches compared to the 8-10 inches achieved by conventional plows and tractors. Deeper loosened soil allows more air to pass through, improving root respiration and microbial activity.
+Air is vital to plant growth, yet its role is frequently overlooked. Carandang draws on biointensive mini-farming techniques, specifically [[comparison-double-digging-vs-no-till]], which loosens soil to 24 inches compared to the 8-10 inches achieved by conventional plows and tractors. Deeper loosened soil allows more air to pass through, improving root respiration and microbial activity.
 
 In [[fukuoka-soil-building-approach]], Fukuoka similarly avoided deep tillage, relying instead on soil biology to maintain structure. Carandang's approach differs in explicitly calling for mechanical loosening to maximize air penetration.
 
@@ -47,7 +48,7 @@ Carandang emphasizes that plants die without adequate moisture, but the form of 
 
 ### Plant Orientation
 
-Carandang applies precise orientation principles for crop planting. East-west orientation maximizes direct sunlight exposure as the sun tracks across the sky. North-south orientation is used with interplanting or companion planting, where shorter plants are positioned toward the northern portion to maximize light utilization and shading patterns. See [[fukuoka-do-nothing-farming-and-spiritual-life]] similarly emphasizes alignment with natural forces, though framed in spiritual rather than elemental terms. [[natural-farming-vs-organic-farming]] and [[korean-natural-farming-imo-recipes]] — the Filipino natural farming pioneer who articulated this philosophy
+Carandang applies precise orientation principles for crop planting. East-west orientation maximizes direct sunlight exposure as the sun tracks across the sky. North-south orientation is used with interplanting or [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]], where shorter plants are positioned toward the northern portion to maximize light utilization and shading patterns. See [[fukuoka-do-nothing-farming-and-spiritual-life]] similarly emphasizes alignment with natural forces, though framed in spiritual rather than elemental terms. [[natural-farming-vs-organic-farming]] and [[korean-natural-farming-imo-recipes]] — the Filipino natural farming pioneer who articulated this philosophy
 - [[natural-farming-philosophy]] — Japanese parallel emphasizing natural forces
 - [[soil-food-web-nutrient-cycling]] — how microorganisms process nutrients when elemental conditions are met
 ## Practical Considerations
@@ -66,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

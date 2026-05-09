@@ -9,7 +9,7 @@ sources:
 ---
 # 3-TE (3-Thioescaline; 4-Ethoxy-5-methoxy-3-methylthiophenethylamine)
 
-3-TE is a thio-substituted phenethylamine that replaces one of the oxygen atoms in the mescaline/escaline pattern with a sulfur atom. It is a member of the thioescaline series explored in PIHKAL. The compound is listed as PIHKAL entry #150.
+3-TE is a thio-substituted phenethylamine that replaces one of the oxygen atoms in the mescaline/escaline pattern with a sulfur atom. It is a member of the thioescaline series explored in PIHKAL. The compound is listed as [[2c-b-pihkal-entry-20]] #150.
 
 ## Chemical Classification
 

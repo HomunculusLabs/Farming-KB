@@ -17,10 +17,10 @@ type: concept
 # Fungal Calcium Signalling
 
 Calcium (Ca2+) is a critical second messenger in filamentous fungi, regulating
-numerous cellular processes including spore germination, hyphal tip growth and
+numerous cellular processes including [[growing-gourmet-spore-germination-strain-isolation]], [[gadd-hyphal-tip-growth-and-branching-mechanisms]] growth and
 branching, circadian clocks, and responses to environmental stimuli. The
 fungal calcium signalling toolkit is substantially more complex than that of
-budding yeast, reflecting the greater environmental sensing demands of
+budding yeast, reflecting the greater [[fungal-environmental-sensing-signal-transduction]] demands of
 filamentous growth.
 
 ## The Calcium Signalling Toolkit
@@ -72,7 +72,7 @@ important ways:
 In N. crassa, calcium signalling has been demonstrated to regulate:
 
 - **Spore germination**: calcium transients are among the earliest events
-  following spore hydration and are required for the initiation of germ tube
+  following spore hydration and are required for the initiation of [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]]
   emergence.
 - **Hyphal tip growth**: localized Ca2+ gradients at the hyphal apex are
   associated with polarized growth and vesicle trafficking to the extending
@@ -85,7 +85,7 @@ In N. crassa, calcium signalling has been demonstrated to regulate:
 ## Integration with Other Signalling Pathways
 
 Calcium signalling does not operate in isolation but is integrated with other
-signal transduction pathways in fungal cells. In N. crassa, the genome encodes
+[[fungal-environmental-sensing-signal-transduction-read]] pathways in fungal cells. In N. crassa, the genome encodes
 an expanded repertoire of signalling components:
 
 - Ten heterotrimeric G proteins (compared to two in budding yeast)
@@ -100,7 +100,7 @@ suggests alternative mechanisms for pathway specificity in filamentous fungi.
 
 ## Comparison with Plant Pathogenic Fungi
 
-The rice blast fungus Magnaporthe grisea shows differences from N. crassa in
+The [[bloomfield-rice-blast-appressorium-mechanics]] fungus Magnaporthe grisea shows differences from N. crassa in
 signalling machinery. M. grisea has a greatly expanded family of GPCRs
 (G-protein coupled receptors): 76 identified compared to 35 in N. crassa.
 Sixty-one of these belong to a completely new class of eukaryotic GPCRs (the

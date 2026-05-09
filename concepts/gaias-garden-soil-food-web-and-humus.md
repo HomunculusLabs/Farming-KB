@@ -1,5 +1,5 @@
 ---
-title: Gaia's Garden Soil Food Web and Humus Formation
+title: Gaia's Garden Soil Food Web and lowenfels-humus-formation-benefits
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 # Soil Food Web and Humus Formation
 
-Toby Hemenway's detailed explanation of how soil organisms decompose organic matter, create humus, build soil structure, and make nutrients available to plants. From Gaia's Garden, Chapter 4: "Bringing the Soil to Life."
+Toby Hemenway's detailed explanation of how soil organisms decompose [[hamilton-composting-and-organic-matter-management]], create humus, build soil structure, and make nutrients available to plants. From Gaia's Garden, Chapter 4: "Bringing the Soil to Life."
 
 ## The Decomposition Cascade
 
@@ -30,7 +30,7 @@ Mold mites, springtails, and certain beetles feed on the primary decomposers.
 
 ### Stage 3: Tertiary Decomposers
 
-Centipedes, ground beetles, pseudoscorpions, predatory mites, ants, and spiders feed on secondary and primary decomposers. The hierarchy is not strictly linear — it is a set of nested cycles with extensive interconnections.
+Centipedes, ground beetles, pseudoscorpions, [[comparison-predatory-mites-vs-ladybugs-biocontrol]], ants, and spiders feed on secondary and primary decomposers. The hierarchy is not strictly linear — it is a set of nested cycles with extensive interconnections.
 
 ## How Humus Is Made
 
@@ -80,5 +80,12 @@ This creates a truly [[soil-food-web-and-building-living-soil]]
 
 - [[ozier-pdc-composting-and-soil-building]] — compost chemistry and the soil food web
 - [[soil-food-web-nutrient-cycling]] — nutrient cycling through the food web
-- [[mollison-composting-methods]] — Mollison's composting methods
-- [[sepp-holzer-composting-and-humus-building]] — Holzer's approach to humus building
+- mollison-composting-methods — Mollison's [[natural-farming-guide-composting-methods-and-techniques]]
+- [[sepp-holzer-composting-and-humus-building]] — Holzer's approach to [[composting-humus-building-holzer]]
+
+## See Also
+
+- [[gaias-garden-deer-food-hedge-design]]
+- [[gaias-garden-perennial-food-plants]]
+
+- [[gaias-garden-soil-food-web-ecology]]

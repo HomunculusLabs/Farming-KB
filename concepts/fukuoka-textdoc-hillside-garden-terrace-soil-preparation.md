@@ -1,5 +1,5 @@
 ---
-title: "Hillside Garden Establishment and Terrace Soil Preparation"
+title: "fukuoka textdoc hillside garden terrace soil preparation Establishment and Terrace Soil Preparation"
 created: 2026-04-28
 tags: [natural-farming, gardens, terracing, soil-preparation, hillside-agriculture, cover-crops, fukuoka]
 date: 2026-04-28
@@ -14,7 +14,7 @@ type: concept
 
 ## Overview
 
-Fukuoka outlines a practical approach to starting a garden on hillside land as part of a natural farming system. Rather than treating gardens as isolated plots, he integrates them into the broader orchard ecosystem, using natural methods for soil preparation and erosion control. The key challenges of hillside gardens are soil movement, erosion, and the shallow rooting of most vegetable crops, which make them particularly vulnerable to the elements.
+Fukuoka outlines a practical approach to starting a garden on hillside land as part of a [[natural-farming]] system. Rather than treating gardens as isolated plots, he integrates them into the broader orchard ecosystem, using natural methods for soil preparation and [[permplant-willows-salix-erosion-control-fodder]]. The key challenges of hillside gardens are soil movement, erosion, and the shallow rooting of most vegetable crops, which make them particularly vulnerable to the elements.
 
 ## The Non-Integrated Garden: Inherent Vulnerabilities
 
@@ -28,7 +28,7 @@ People usually think of a garden as a plot of land devoted to the production of 
 
 Clearly, of course, the system of cultivation and the nature of the garden or orchard will differ significantly depending on whether the principal aim is to grow fruit trees or vegetable crops. Land to be used for growing fruit trees and intercropped with grains or vegetables is prepared in essentially the same way as an orchard. The land does not need to be cleared and leveled, but should be carefully readied by, for example, burying coarse organic material in the ground. As the garden matures, it will support any type of crop.
 
-The integration principle extends beyond mere proximity. The orchard trees provide shade that moderates temperature extremes for understory vegetables. The ground cover used for the orchard simultaneously serves the garden. Organic matter from pruning and tree litter enriches the garden soil. The garden, in turn, hosts beneficial insects that help control orchard pests.
+The integration principle extends beyond mere proximity. The orchard trees provide shade that moderates temperature extremes for understory vegetables. The ground cover used for the orchard simultaneously serves the garden. [[hamilton-composting-and-organic-matter-management]] from pruning and tree litter enriches the garden soil. The garden, in turn, hosts [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] that help control orchard pests.
 
 ## Terrace Construction: The Foundation of Hillside Gardens
 
@@ -42,7 +42,7 @@ Whether the individual terraces in a terraced garden are level or slightly grade
 
 ## Soil Preparation Methods
 
-Two primary methods for improving soil in a new hillside garden are described, both relying on natural decomposition rather than chemical inputs.
+Two primary methods for improving soil in a new hillside garden are described, both relying on natural [[decomposition]] rather than chemical inputs.
 
 ### Deep Trench Burial
 
@@ -54,9 +54,9 @@ Another good method is to pile soil up to create high ridges. This can be done u
 
 The ridge method is particularly valuable for crops that need well-drained soil. By elevating the growing surface above the surrounding ground level, ridges ensure that root zones do not become waterlogged even during heavy rainfall. The coarse organic material at the center of the ridge acts as a sponge, absorbing excess water and releasing it slowly during dry periods.
 
-## Initial Cover Crops for New Gardens
+## Init cover crops rops for New Gardens
 
-When starting an orchard intercropped with vegetables, the main goals initially should be prevention of weed emergence and maturation of the soil. These can be accomplished by growing specific succession crops that prepare the ground for future vegetable production.
+When starting an orchard intercropped with vegetables, the main goals initially should be prevention of weed emergence and maturation of the soil. These can be accomplished by growing specific succession crops that prepare the ground for future [[dry-gardening-unirrigated-vegetable-production-solomon]].
 
 ### First Year Rotation
 
@@ -65,7 +65,7 @@ When starting an orchard intercropped with vegetables, the main goals initially 
 
 ### Second Year Rotation
 
-- **Second summer**: Adzuki bean and mung bean as leguminous nitrogen fixers that begin building soil nitrogen reserves
+- **Second summer**: Adzuki bean and mung bean as leguminous nitrogen fixers tha building soil ing soil nitrogen reserves
 - **Second winter**: Hairy vetch and other hardy leguminous plants that grow well without fertilizers
 
 The only problem with these cover crops is that they tend to inundate the young fruit tree saplings. Careful management is needed to ensure the fruit trees are not smothered. The cover crops should be cut back before they grow tall enough to shade the young trees, and the cut material should be left in place as mulch.
@@ -88,7 +88,7 @@ During heavy rainfall, the terraces act as a series of small dams that slow the 
 
 Fukuoka's approach to garden establishment reflects his broader principle that nature already knows how to grow plants. The farmer's role is not to impose a system but to create conditions in which nature can express itself fully. This means working with the slope rather than against it, using the plants that naturally grow in the area as allies rather than treating them as enemies, and building soil through biological processes rather than chemical inputs.
 
-The conventional approach to hillside agriculture typically involves bulldozing the slope flat, applying lime and chemical fertilizers, and planting crops in rows. This destroys the existing soil ecosystem and creates a dependency on external inputs. Fukuoka's approach, by contrast, preserves the natural slope through terracing, builds soil through organic matter burial and cover cropping, and gradually transitions from wild vegetation to productive cultivation.
+The conventional approach to hillside agriculture typically involves bulldozing the slope flat, applying lime and [[cervantes-chemical-fertilizers-guide]], and planting crops in rows. This destroys the existing soil ecosystem and creates a dependency on external inputs. Fukuoka's approach, by contrast, preserves the natural slope through terracing, builds soil through organic matter burial and cover cropping, and gradually transitions from wild vegetation to productive cultivation.
 
 The patience required for this approach is considerable. A farmer accustomed to seeing results within a single season may find it difficult to wait three years for soil preparation. But Fukuoka argues that this investment of time pays dividends for decades. A properly established hillside garden on terraced, biologically active soil will produce crops without any external inputs for as long as it is maintained, while a chemically dependent garden on bulldozed land will require ever-increasing inputs as the soil degrades.
 

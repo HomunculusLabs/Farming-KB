@@ -1,5 +1,5 @@
 ---
-title: The Oak Tree as Ecological Model
+title: The hemenway oak tree ecological model as Ecological Model
 created: 2026-04-26
 tags: [ecology, trees, microclimate, soil, water]
 date: 2026-04-25
@@ -30,11 +30,11 @@ demonstrates why [[lowenfels-earthworms-soil-food-web]] is as important as
    tree provides water harvesting, soil building, microclimate
    creation, wildlife habitat, and food production all at once.
    [[gaias-garden-multipurpose-plants]] that
-build soil, attract insects, harvest water, create microclimates,
+build soil, attract insects, harvest water, [[query-how-do-i-create-microclimates-in-my-garden]],
 and produce food. It means designing [[gaias-garden-multipurpose-plants]]
 - [[hemenway-guild-member-roles-and-species-selection]]
 - [[mollison-designers-forest-condensation-and-micro-climate-rainfall]]
-- [[gaias-garden-plant-community-ecology]]
+- gaias-garden-plant-community-ecology
 ## Practical Applications
 
 The Oak Tree as Ecological Model has a range of practical applications that make it relevant to
@@ -112,4 +112,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

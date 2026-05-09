@@ -3,37 +3,15 @@ title: Chicory
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[permaculture, design]
-sources: []
+tags: [permaculture, design]
+sources:
+  sources: []
 ---
+Updated: 2026-04-18 Chicory (Cichorium intybus) is a hardy perennial plant valued as a nutritious salad green, [[permaculture-designers-manual-animal-forage-systems]], coffee substitute, and herbal remedy. It grows so readily it is often considered a weed. It serves multiple functions in permaculture-ground-cover-plants component. ## Botanical Description Chicory is a deep-rooted perennial [[medicinal-herb-growing]] 1-5 feet (30-150 cm) tall. It has a thick taproot that can reach 6-10 feet (2-3 m) deep, making it an excellent [[nutrient-dynamic-accumulator-reference]]. The blue, daisy-like flowers bloom from mid-summer through autumn. The plant forms a rosette of dandelion-like leaves close to the ground. ## Uses - Edible roots and shoots (bitter but nutritious) - [[mollison-designers-bee-forage-tree-planting]] - Animal forage (kills worms, easy to digest) - Herbal remedy - Coffee substitute (roasted roots) - Companion in baby green salads - [[compost-building-guide]] piles and [[permaculture-dynamic-accumulator-plants]]
 
-Updated: 2026-04-18
+- permaculture-herb-plants
 
-Chicory (Cichorium intybus) is a hardy perennial plant valued as a nutritious salad green, animal forage, coffee substitute, and herbal remedy. It grows so readily it is often considered a weed. It serves multiple functions in [[permaculture-ground-cover-plants]] component.
-
-## Botanical Description
-
-Chicory is a deep-rooted perennial herb growing 1-5 feet (30-150 cm) tall. It has a thick taproot that can reach 6-10 feet (2-3 m) deep, making it an excellent dynamic accumulator. The blue, daisy-like flowers bloom from mid-summer through autumn. The plant forms a rosette of dandelion-like leaves close to the ground.
-
-## Uses
-
-- Edible roots and shoots (bitter but nutritious)
-
-- Bee forage
-
-- Animal forage (kills worms, easy to digest)
-
-- Herbal remedy
-
-- Coffee substitute (roasted roots)
-
-- Companion in baby green salads
-
-- [[compost-building-guide]] piles and [[permaculture-dynamic-accumulator-plants]]
-
-- [[permaculture-herb-plants]]
-
-- [[permaculture-green-manure-crops]]
+- permaculture-green-manure-crops
 ## Practical Applications
 
 Chicory has a range of practical applications that make it relevant to
@@ -111,4 +89,5 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[cichorium-intybus]]

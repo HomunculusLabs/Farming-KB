@@ -1,5 +1,5 @@
 ---
-title: "Fog and Dew Harvesting in Permaculture Systems"
+title: "mollison designers fog and dew harvesting Harvesting in Permaculture Systems"
 created: 2026-04-26
 tags:
   - water-harvesting
@@ -65,7 +65,7 @@ suffice to water one tree.
 
 Very large radiation traps, such as those on Lanzarote
 in the Canary Islands, may grow one grape vine in each
-hole. The cinder-covered pits work by allowing cold air
+hole. The cinder-covered pits work by allowing [[hemenway-cold-air-drainage-and-frost-management]]
 to sink, which then condenses moisture on the cinder
 surfaces.
 
@@ -123,5 +123,11 @@ In Morocco such fences are proposed for deforested
 coastal areas.
 
 This technique is analogous to using [[mollison-wet-tropical-forest-structure-and-polyculture]] is therefore a critical design element. When
-planning [[mollison-settlement-siting-on-slopes-and-landscape-profile]] on slopes, recognition of fog zones can determine
+planning mollison-settlement-siting-on-slopes-and-landscape-profile on slopes, recognition of fog zones can determine
 where water-abundant sites exist.
+## See Also
+- [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
+- [[mollison-designers-rainwater-harvesting-swale-systems]]
+- [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]
+- [[mollison-designers-road-water-harvesting-and-integration]]
+- [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]]

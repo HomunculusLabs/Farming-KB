@@ -22,7 +22,7 @@ Measuring fungal biodiversity is fundamentally more challenging than assessing p
 
 ### Fruit-Body Surveys
 
-The oldest and most intuitive method: counting and identifying visible mushroom fruiting bodies within defined plots. This approach captures only the fraction of species that produce conspicuous, above-ground fruiting structures during the survey period.
+The oldest and most intuitive method: counting and identifying visible [[ectomycorrhizal-mushroom-fruiting-ecology]] bodies within defined plots. This approach captures only the fraction of species that produce conspicuous, above-ground fruiting structures during the survey period.
 
 **Advantages:**
 - Requires minimal specialized equipment
@@ -38,13 +38,13 @@ The oldest and most intuitive method: counting and identifying visible mushroom 
 
 ### Structured Plot Surveys
 
-Standardized plots (typically 100-1000 m²) surveyed at regular intervals through fruiting seasons. The [[fungal-sampling-methods|plot-based approach]] allows for quantitative comparisons between sites and over time. Permanent plots established in long-term ecological research networks provide invaluable baseline data.
+Standardized plots (typically 100-1000 m²) surveyed at regular intervals through [[azurescens-fruiting-seasons-and-conditions]]. The [[fungal-sampling-methods|plot-based approach]] allows for quantitative comparisons between sites and over time. Permanent plots established in long-term ecological research networks provide invaluable baseline data.
 
 ## Molecular and Sequencing Methods
 
 ### Environmental DNA (eDNA) Metabarcoding
 
-The revolution in fungal biodiversity assessment. Soil, water, air, or substrate samples are analyzed for fungal DNA using PCR amplification of barcode regions (typically the ITS region, the official fungal DNA barcode), followed by high-throughput sequencing.
+The revolution in fungal [[fungal-biodiversity-assessment-methods]]. Soil, water, air, or substrate samples are analyzed for fungal DNA using PCR amplification of barcode regions (typically the ITS region, the official fungal DNA barcode), followed by high-throughput sequencing.
 
 **Advantages:**
 - Captures vastly more diversity than fruit-body surveys (often 5-10x more species)
@@ -68,7 +68,7 @@ Isolation of fungi onto artificial media from environmental samples. While labor
 - Living strains for physiological and biochemical characterization
 - Material for microscopy and morphological study
 - Reference strains for molecular work
-- Potential for discovering novel secondary metabolites
+- Potential for discovering novel [[antifungal-secondary-metabolites-coprophilous-fungi]]
 
 ### Direct Microscopy
 
@@ -82,7 +82,7 @@ Different [[fungal-culture-media|culture media]] can be formulated to selectivel
 
 - Acidified media for isolating fungi from bacterial-rich samples
 - Media with antibiotics to suppress bacterial growth
-- Specialized media for specific ecological groups (e.g., ericoid mycorrhizal fungi)
+- Specialized media for specific ecological groups (e.g., [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] fungi)
 
 ### Baiting Techniques
 
@@ -101,7 +101,7 @@ Each method captures a partially overlapping subset of the total fungal communit
 
 ## Challenges and Considerations
 
-- **Temporal variation:** Fungal communities fluctuate seasonally; single-time-point sampling may misrepresent diversity
+- **Temporal variation:** [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] fluctuate seasonally; single-time-point sampling may misrepresent diversity
 - **Spatial scale:** Appropriate plot size and sampling intensity depend on habitat heterogeneity
 - **Methodological standardization:** Lack of consensus protocols hampers cross-study comparisons
 - **Taxonomic resolution:** Molecular methods may resolve to species, genus, or only higher taxa depending on database completeness

@@ -1,5 +1,5 @@
 ---
-title: Creating a Rice Paddy by Natural Methods
+title: Creating a fukuoka textdoc creating rice paddy natural methods by Natural Methods
 created: 2026-04-28
 tags: [fukuoka, natural-farming, rice-paddy, paddy-construction, water-management, traditional-agriculture, terracing]
 date: 2026-04-28
@@ -26,7 +26,7 @@ suited to increasing the size of single paddy fields and promoting mechanized ri
 production, such a process has serious drawbacks:
 
 1. Because it is crude, it leaves a thickness of topsoil that varies with the depth
-   of the bedrock, resulting in uneven areas of crop growth.
+   of the bedrock, resulting in uneven areas of [[coleman-sunlight-and-winter-crop-growth-rates]].
 2. The load that heavy machinery places on the soil results in excessive settling,
    causing ground water to stagnate. This situation can induce root rotting and at
    least partial suppression of initial crop growth on the new field.
@@ -104,20 +104,20 @@ grasses, border weeds, and tree foliage provide the first layer of fertility wit
 imported fertilizers. The soil builds itself from there through natural processes.
 
 Fourth, keep the paddy small enough to be managed by hand. A field of one hundred
-square yards, tended by one or two people, produces enough rice and barley to sustain
-a family indefinitely when managed with natural farming methods.
+square yards, tended by one or two people, produces enough [[fukuoka-rice-and-barley-natural-farming]] to sustain
+a family indefinitely when managed with [[comparison-natural-farming-vs-permaculture]] methods.
 
 ## Water Management Without Concrete
 
 The traditional paddy uses earth and stone levees that breathe. Water seeps through
 them slowly, maintaining the water table in surrounding land and allowing the soil
-microbial community to extend beyond the field boundaries. Concrete levees, by
+[[edaphic-factors-microbial-community-structure]] to extend beyond the field boundaries. Concrete levees, by
 contrast, create an impermeable barrier that isolates the paddy ecosystem from its
 surroundings.
 
 Natural water management also means working with gravity. Mountain streams are
 diverted through hand-dug channels that follow the natural slope. No pumps, no pipes,
-no fossil fuel energy. The water that flows through the paddy is the same water that
+no [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]] energy. The water that flows through the paddy is the same water that
 flows through the valley, carrying nutrients and organisms between upland and lowland.
 
 ## The Promise of Return

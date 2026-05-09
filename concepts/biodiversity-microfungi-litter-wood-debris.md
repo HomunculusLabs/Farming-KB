@@ -1,18 +1,13 @@
 ---
-title: "Microfungi on Litter and Wood Debris"
+title: "Microfungi on Litter and microfungal-biodiversity-ecology-wood-debris-sampling"
 created: 2026-04-28
-tags: [[mycology, microfungi, leaf-litter, wood-decay, fungal-ecology, biodiversity]
+tags: [mycology, microfungi, leaf-litter, wood-decay, fungal-ecology, biodiversity]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 type: concept
 ---
-
-# Microfungi on Litter and Wood Debris
-
-Microfungi associated with dead plant material represent one of the
-most diverse and ecologically significant components of fungal
-biodiversity. These fungi drive [[biodiversity-fungi-wood-decay-succession]] and [[microfungal-diversity-host-plant-relationship]] comes from
+# Microfungi on Litter and Wood Debris Microfungi associated with dead plant material represent one of the most diverse and ecologically significant components of fungal biodiversity. These fungi drive biodiversity-fungi-wood-decay-succession and [[microfungal-diversity-host-plant-relationship]] comes from
 comparative studies. Cannon (1997a) found that Phyllachoraceae species
 between latitudes 20 degrees N and 20 degrees S outnumbered those in
 temperate zones (40 to 60 degrees) by a factor of more than 2.5.
@@ -26,14 +21,14 @@ parts in temperate and Arctic regions.
 
 ### Temperature and Moisture
 
-Temperature affects decomposition rates and fungal community
+Temperature affects decomposition rates and [[air-pollution-fungal-community-responses]]
 composition. The diversity of fungi associated with litter of
 Castanopsis cuspidata and Quercus phillyraeoides was greater in
 southern Japan than in central Japan, reflecting temperature
 differences. Moisture availability strongly influences both fungal
 growth rates and [[particle-filtration-dilution-plating-microfungal-isolation]] and washing methods
 (Bills and Polishook 1994) isolate fungi from individual substrate
-particles for culturing. Dilution plating provides quantitative data
+particles for culturing. [[particle-filtration-dilution-plating-microfungal-isolation]] provides quantitative data
 on fungal abundance but favors rapidly growing ruderal species.
 
 Rarefaction analysis, plotting cumulative species number against
@@ -44,7 +39,7 @@ require extraordinary sampling effort.
 
 ## Ecological Roles
 
-Microfungi on litter and wood debris play critical roles in nutrient
+Microfungi on litter and wood debris play critical [[dighton-fungal-roles-in-nutrient-cycling]]
 cycling, breaking down cellulose, lignin, and other complex plant
 polymers. They interact with [[biodiversity-fungi-soil-fungal-communities]] through spore rain
 and substrate continuity. Their activities influence soil structure,
@@ -64,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

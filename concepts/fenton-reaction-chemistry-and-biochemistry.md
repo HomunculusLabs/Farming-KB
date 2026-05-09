@@ -6,7 +6,7 @@ aliases:
   - hydroxyl radical generation
   - iron-catalyzed oxidation
   - Haber-Weiss reaction
-  - Fenton chemistry
+  - [[bioremediation-fenton-chemistry-brown-rot-fungi]]
   - advanced oxidation processes
 tags:
   - biochemistry
@@ -29,11 +29,11 @@ sources:
 
 ## Overview
 
-The Fenton reaction is a redox process in which ferrous iron (Fe2+) catalyzes the decomposition of hydrogen peroxide (H2O2) to produce the hydroxyl radical (OH.), one of the strongest oxidants known in chemistry. The canonical equation is:
+The Fenton reaction is a redox process in which ferrous iron (Fe2+) catalyzes the decomposition of [[cervantes-hydrogen-peroxide-sterilization]] (H2O2) to produce the hydroxyl radical (OH.), one of the strongest oxidants known in chemistry. The canonical equation is:
 
 **Fe2+ + H2O2 -> Fe3+ + OH. + OH-**
 
-First observed by H.J.H. Fenton in 1894 during tartaric acid oxidation at the University of Cambridge, this reaction underpins phenomena from industrial wastewater treatment to the molecular basis of neurodegenerative disease. The hydroxyl radical has a standard reduction potential of E = +2.80 V, second only to fluorine among common oxidants, and reacts at diffusion-limited rates with virtually all biomolecules it encounters.
+First observed by H.J.H. Fenton in 1894 during tartaric acid oxidation at the University of Cambridge, this reaction underpins phenomena from [[fungal-industrial-wastewater-treatment]] treatment to the molecular basis of neurodegenerative disease. The hydroxyl radical has a standard reduction potential of E = +2.80 V, second only to fluorine among common oxidants, and reacts at diffusion-limited rates with virtually all biomolecules it encounters.
 
 ## Historical Discovery
 
@@ -41,7 +41,7 @@ Henry John Horstman Fenton (1854-1929) reported in 1894 that a mixture of Fe2+ a
 
 ## The Haber-Weiss Cycle
 
-Haber and Weiss (1934) proposed the overall reaction: **O2.- + H2O2 -> O2 + OH. + OH-**. This proceeds negligibly on its own (k < 0.3 M-1s-1) but becomes significant when catalyzed by transition metals. The cycle decomposes into two steps: the Fenton reaction and iron reduction by superoxide:
+Haber and Weiss (1934) proposed the overall reaction: **O2.- + H2O2 -> O2 + OH. + OH-**. This proceeds negligibly on its own (k < 0.3 M-1s-1) but becomes significant when catalyzed by transition metals. The cycle decomposes into two steps: the Fenton reaction and [[bioremediation-fungal-iron-reduction-chelation-metal-solubilization]] by superoxide:
 
 **Fe3+ + O2.- -> Fe2+ + O2**  (k ~10^5 M-1s-1)
 

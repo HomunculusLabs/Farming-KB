@@ -13,7 +13,7 @@ tags:
 sources:
   - Calderón-Montaño, J.M. et al. (2011). "A review on the dietary flavonoid kaempferol." Mini-Reviews in Medicinal Chemistry, 11(4), 298-344.
   - Imran, M. et al. (2019). "Kaempferol: A key emphasis to its anticancer potential." Molecules, 24(12), 2277.
-  - Chen, A.Y. & Chen, Y.C. (2013). "Kaempferol suppresses cancer cell proliferation." Cancer Prevention Research, 6(2), 120-131.
+  - Chen, A.Y. & Chen, Y.C. (2013). "Kaempferol suppresses [[blesching-cannabis-apoptosis-and-cancer-cell-death]] proliferation." Cancer Prevention Research, 6(2), 120-131.
   - Huang, W. et al. (2020). "Pharmacological activities of kaempferol." Frontiers in Pharmacology, 11, 607883.
   - USDA (2023). "Flavonoid Content of Selected Foods." Release 3.2.
 ---
@@ -75,19 +75,21 @@ Metabolic benefits include improved glucose uptake in skeletal muscle, enhanced 
 
 Preclinical evidence supports kaempferol activity against multiple cancer types including breast, lung, colon, prostate, pancreatic, ovarian, and gastric cancers. IC₅₀ values in cancer cell lines typically range from 20–100 µM.
 
-In breast cancer, kaempferol inhibits ERα-positive cell proliferation and synergizes with tamoxifen. In lung cancer, it sensitizes cells to cisplatin chemotherapy by inhibiting DNA repair mechanisms. In colon cancer, it suppresses Wnt/β-catenin signaling.
+In breast cancer, kaempferol inhibits ERα-positive cell proliferation and synergizes with tamoxifen. In [[psk-breast-lung-cancer-clinical-trials]], it sensitizes cells to cisplatin chemotherapy by inhibiting DNA repair mechanisms. In [[cannabis-and-colon-cancer-research]], it suppresses Wnt/β-catenin signaling.
 
-In vivo studies demonstrate tumor growth inhibition of 30–60% in xenograft models at doses of 50–200 mg/kg. No significant toxicity has been observed at therapeutic doses in animal studies. Clinical trials in humans are limited but ongoing.
+In vivo studies demonstrate tumor growth inhibition of 30–60% in xenograft models at doses of 50–200 mg/kg. No significant toxicity has been observed at therapeutic doses in animal studies. [[mushroom-cancer-clinical-trials-overview]] in humans are limited but ongoing.
 
 ## Safety and Toxicology
 
-Kaempferol is classified as GRAS (Generally Recognized as Safe) by the US FDA as a food component. No adverse effects have been reported at normal dietary intake levels.
+Kaempferol is classified as GRAS (Generally Recognized as Safe) by the US FDA as a food component. No [[blesching-cannabis-safety-adverse-effects-evidence]] have been reported at normal dietary intake levels.
 
 At pharmacological doses (>200 mg/day), mild gastrointestinal discomfort has been reported. High-dose intravenous administration in animal studies showed no organ toxicity at doses up to 500 mg/kg. No mutagenic or genotoxic effects have been observed in standard Ames test and micronucleus assays.
 
-Drug interactions are possible due to CYP450 inhibition, particularly CYP3A4 and CYP2C9. Kaempferol may enhance the bioavailability of drugs metabolized by these enzymes, requiring clinical monitoring in polypharmacy patients.
+[[cannabis-drug-interactions-and-contraindications]] are possible due to CYP450 inhibition, particularly CYP3A4 and CYP2C9. Kaempferol may enhance the bioavailability of drugs metabolized by these enzymes, requiring clinical monitoring in polypharmacy patients.
 
 ## See Also
+
+- [[plumbago-zeylanica]]
 
 - [[quercetin]]
 - apigenin
@@ -97,5 +99,7 @@ Drug interactions are possible due to CYP450 inhibition, particularly CYP3A4 and
 - [[pistia-stratiotes]]
 
 ## See Also
+
+- [[plumbago-zeylanica]]
 
 - [[query-what-are-the-health-benefits-of-dietary-polyphenols]]

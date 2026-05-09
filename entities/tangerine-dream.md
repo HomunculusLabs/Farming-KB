@@ -21,11 +21,11 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Barney's Farm Seed Bank. Tangerine Dream strain profile."
+  - "Barney's Farm query-how-do-i-create-a-seed-bank-and-start-seed-saving. Tangerine Dream strain profile."
   - "Soft Secrets Magazine. \"Strain Review: Tangerine Dream.\" (2010)."
-  - "Leafly. Tangerine Dream cannabis strain information."
+  - "Leafly. Tangerine Dream [[blesching-cannabis-strain-selection-receptor-targeting]] information."
   - "Cannabis Cup Archives, High Times (2010, 2012)."
-  - "Mudge, E. et al. (2018). \"Terpene profiles of cannabis cultivars.\" Frontiers in Plant Science 9: 1664."
+  - "Mudge, E. et al. (2018). \"[[cannabis-terpene-profiles-sativa]] of cannabis cultivars.\" Frontiers in Plant Science 9: 1664."
 ---
 
 ## Overview
@@ -64,7 +64,7 @@ more heavily sativa, with taller stature and more energetic effects.
 ## Appearance and Aroma
 
 Buds are medium to large, dense, and elongated, with a structure that
-reflects both indica and sativa heritage. Colors range from bright green
+reflects both indica and [[cannabis-landrace-sativa-heritage-varieties]]. Colors range from bright green
 to yellowish-green, often with orange pistils that complement the
 tangerine theme. Trichome coverage is heavy, giving flowers a frosted,
 resinous appearance.
@@ -123,7 +123,7 @@ less likely to cause couch-lock than indica-heavy strains.
 Tangerine Dream has a flowering time of approximately 65–70 days indoors
 and is ready for harvest in early to mid-October outdoors. It is
 considered moderately difficult to cultivate, requiring attention to
-nutrient needs and environmental control to express its full terpene
+nutrient needs and [[eclss-environmental-control-life-support]] to express its full terpene
 potential.
 
 Indoor yields range from 400–500 g/m² under optimal conditions. Plants
@@ -134,7 +134,7 @@ during flowering.
 
 Outdoor cultivation is best suited to Mediterranean or warm temperate
 climates. Plants are moderately resistant to mold and pests but benefit
-from good air circulation due to dense bud formation. The citrus aroma
+from good [[stamets-growing-room-air-circulation-co2-management]] due to dense bud formation. The citrus aroma
 can be pungent during late flowering, requiring odor management in
 discreet grows.
 ## See Also

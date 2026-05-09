@@ -1,5 +1,5 @@
 ---
-title: "METHYL-MMDA-2 (2-METHOXY-N-METHYL-4,5-METHYLENEDIOXYAMPHETAMINE) -- PIHKAL Entry #131"
+title: "METHYL-MMDA-2 (2-METHOXY-N-METHYL-4,5-METHYLENEDIOXYAMPHETAMINE) -- 2c-b-pihkal-entry-20 #131"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -39,7 +39,7 @@ effects might be.
 This is the only MMDA analogue that has been explored as an N-methyl
 derivative. A more highly substituted analogue has also been made,
 the N-methyl derivative of DMMDA. Isoapiole (see its preparation
-under DMMDA) was oxidized with formic acid and hydrogen peroxide to
+under DMMDA) was oxidized with formic acid and [[cervantes-hydrogen-peroxide-sterilization]] to
 the ketone (2,5-dimethoxy-3,4-methylenedioxyphenylacetone, a solid
 with a mp of 75-76 deg C from methanol) which was reductively aminated
 with methylamine and amalgamated aluminum to give
@@ -100,7 +100,7 @@ which were removed by filtration and air dried to give 4.2 g
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

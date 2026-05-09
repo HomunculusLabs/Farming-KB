@@ -1,5 +1,5 @@
 ---
-title: Medicinal Mushroom Extraction
+title: Medicinal medicinal-mushroom-extraction-bioactive-compounds
 created: 2026-04-28
 tags: mycology, extraction, medicinal-mushrooms, bioactive-compounds]
 date: 2026-04-28
@@ -11,8 +11,8 @@ type: concept
 # Medicinal Mushroom Extraction
 
 [[beta-glucans]]), triterpenoids, sterols, and
-phenolic compounds. Proper comparison cannabis extraction are essential to access these
-bioactive constituents, as many are bound within the tough chitinous alpha glucan fungal of fungal [[ganoderic-acids]] in reishi (*[[hericium-erinaceus]]*), hericenones (in the fruiting
+phenolic compounds. Proper comparison [[comparison-cannabis-extraction-basics-vs-extraction-methods]] are essential to access these
+bioactive constituents, as many are bound within the tough chitinous alpha [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] of fungal [[ganoderic-acids]] in reishi (*[[hericium-erinaceus]]*), hericenones (in the fruiting
 body) and erinacines (in the mycelium) stimulate nerve growth factor (NGF)
 synthesis. These compounds are being studied for potential applications in
 neurodegenerative conditions and cognitive enhancement.
@@ -95,4 +95,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

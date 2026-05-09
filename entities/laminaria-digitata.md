@@ -37,7 +37,7 @@ The stipe is cylindrical, flexible, and dark brown, typically 30–100 cm long. 
 
 The blade is palmately divided into 5–15 strap-like segments, resembling a hand with spread fingers. Total blade length can reach 2 meters, with individual segments 10–20 cm wide. Color is yellowish-brown to dark olive.
 
-Growth occurs through a meristematic region at the blade-stipe junction. The blade erodes at the tips while new tissue is produced at the base, resulting in continuous turnover throughout the growing season.
+Growth occurs through a meristematic region at the blade-stipe junction. The blade erodes at the tips while new tissue is produced at the base, resulting in continuous turnover throughout the [[savory-growing-season-and-non-growing-season-management]].
 
 ## Distribution and Habitat
 
@@ -77,7 +77,7 @@ Alginate from *L. digitata* is used in wound dressings, dental impressions, tabl
 
 The species has been investigated for bioremediation of coastal waters. Its rapid uptake of nitrogen and phosphorus from seawater makes it a candidate for integrated aquaculture systems designed to reduce nutrient pollution.
 
-Kelp forests provide significant ecosystem services including coastal protection through wave attenuation, carbon sequestration, and habitat provision. *L. digitata* beds are recognized as priority habitats under European conservation directives.
+Kelp forests provide significant [[biodiversity-of-fungi-ecosystem-services-agriculture]] including coastal protection through wave attenuation, [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]], and habitat provision. *L. digitata* beds are recognized as priority habitats under European conservation directives.
 
 Historically, *L. digitata* was burned to produce kelp ash (potash) for glass manufacture and soap production. This industry was economically important in Scotland and Ireland during the 18th and 19th centuries.
 
@@ -104,6 +104,10 @@ Pickled kombu (kombu-tsukudani) is prepared by simmering strips in soy sauce, su
 The species is also used in Western health food products, including kombu chips, powdered seaweed seasonings, and encapsulated kelp supplements marketed as mineral and iodine supplements.
 
 ## See Also
+
+- [[nereocystis-luetkeana]]
+
+- [[adansonia-digitata]]
 
 - [[palmaria-palmata]]
 - [[porphyra-umbilicalis]]

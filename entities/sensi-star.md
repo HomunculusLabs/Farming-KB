@@ -17,7 +17,7 @@ created: 2026-04-28
 
 ## Overview
 
-Sensi Star is an indica-dominant cannabis strain originally bred by Paradise Seeds in the Netherlands.
+Sensi Star is an indica-dominant [[blesching-cannabis-strain-selection-receptor-targeting]] originally bred by Paradise Seeds in the Netherlands.
 
 It won the High Times Cannabis Cup in 1999, establishing its reputation among elite legacy varieties.
 
@@ -33,7 +33,7 @@ The breeder, Paradise Seeds, has not released the exact parent cross publicly.
 
 Genetic analysis suggests a roughly 90:10 indica-to-sativa ratio.
 
-Afghani heritage contributes the strain's dense bud structure, resin production, and relaxing effects.
+Afghani heritage contributes the strain's dense bud structure, [[cannabis-glandular-trichome-types-resin-production-clarke]], and relaxing effects.
 
 ## Appearance
 
@@ -73,13 +73,13 @@ The high myrcene content contributes to the strain's sedative character.
 
 The onset is relatively fast, beginning with a cerebral euphoria that transitions to deep body relaxation.
 
-Users report significant stress relief, pain management, and appetite stimulation.
+Users report significant stress relief, [[cannabis-pain-management-protocols]], and appetite stimulation.
 
 The sedative effects intensify over time, making it popular as an evening or bedtime strain.
 
 At higher doses, couch-lock is common, and sleep may follow within 1–2 hours.
 
-Medicinal users value Sensi Star for insomnia, chronic pain, anxiety, and muscle spasms.
+Medicinal users value Sensi Star for insomnia, [[cannabis-chronic-pain-management]], anxiety, and muscle spasms.
 
 Common side effects include dry mouth, dry eyes, and dizziness at higher doses.
 
@@ -97,7 +97,7 @@ Yields are above average at 400–500 g/m² indoors under optimal conditions.
 
 The plants are relatively compact and bushy, reaching 80–120 cm indoors.
 
-They respond well to training techniques such as topping and low-stress training.
+They respond well to [[cannabis-training-techniques-comparison]] such as topping and low-stress training.
 
 The strain is resistant to mold but can be sensitive to over-fertilization.
 
@@ -118,6 +118,8 @@ Sensi Star has also been used as a parent in crosses such as Starberry and Star 
 These crosses aim to retain the resin production and potency while modifying the flavor profile.
 
 ## See Also
+
+- [[jedi-death-star]]
 
 - [[northern-lights]]
 - [[critical-mass]]

@@ -1,5 +1,5 @@
 ---
-title: "DOC -- 2,5-DIMETHOXY-4-CHLOROAMPHETAMINE -- PIHKAL Entry #64"
+title: "DOC -- 2,5-DIMETHOXY-4-CHLOROAMPHETAMINE -- 2c-b-pihkal-entry-20 #64"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # DOC
 
-PIHKAL entry #64. 2,5-DIMETHOXY-4-CHLOROAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #64. 2,5-DIMETHOXY-4-CHLOROAMPHETAMINE.
 
 ## Chemical Name
 
@@ -35,7 +35,7 @@ PIHKAL entry #64. 2,5-DIMETHOXY-4-CHLOROAMPHETAMINE.
 > the `gentle images' and `gentle fantasies' of the 2-carbon
 > phenethylamines. This is the works. There are visuals, and there are
 > interpretive problems with knowing just where you really are. The
-> place where nothing makes sense, and yet everything makes sense. I
+> place where nothing [[coleman-first-rule-nature-makes-sense]], and yet everything makes sense. I
 > have just slept for a few hours, and now I am awake and it has been
 > eighteen hours, and there is a lot still going on, although I have a
 > relaxed, good feeling. Anyone who uses this had better have 24 hours
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

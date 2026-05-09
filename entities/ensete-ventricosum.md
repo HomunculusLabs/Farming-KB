@@ -42,7 +42,7 @@ The underground corm is massive, weighing 40–100 kg in mature plants, composed
 
 The wild progenitor is native to eastern Africa, from Ethiopia south through Kenya, Tanzania, Mozambique, and into South Africa, typically growing in moist montane forests, ravines, and along riverbanks at 1,000–2,400 m elevation. In the wild, it serves as a keystone species — elephants and other herbivores feed on the pseudostem and corm, while birds and primates disperse the seeds.
 
-Wild populations are genetically diverse, providing an important reservoir of traits for crop improvement, including disease resistance and drought tolerance.
+Wild populations are genetically diverse, providing an important reservoir of traits for crop improvement, including disease resistance and [[dighton-fungal-drought-tolerance-plant-water-relations]].
 
 ## The Enset Agricultural System
 
@@ -84,13 +84,13 @@ The fermentation process enhances mineral bioavailability and produces beneficia
 *Ensete ventricosum* is increasingly recognized as a permaculture model species for tropical and subtropical food forests:
 
 - **Productive canopy**: Provides shade and wind protection for understory crops
-- **Erosion control**: Extensive root systems stabilize steep terrain
-- **Biomass production**: Enormous leaf litter contributes to mulch and soil organic matter
+- **[[permplant-willows-salix-erosion-control-fodder]]**: Extensive root systems stabilize steep terrain
+- **[[dighton-fungal-biomass-production-aquatic-ecosystems]]**: Enormous leaf litter contributes to mulch and soil organic matter
 - **Drought buffer**: Continues producing through multi-year droughts
 - **Low-input**: Requires minimal external inputs when managed in traditional systems
-- **Fodder system**: Leaves provide cut-and-carry fodder for livestock integration
+- **Fodder system**: Leaves provide cut-and-carry fodder for [[faires-livestock-integration-permaculture]]
 
-The enset system exemplifies several permaculture principles: perennial polyculture, stacking functions, edge effect utilization, and closed-loop nutrient cycling.
+The enset system exemplifies several permaculture principles: perennial polyculture, [[gaias-garden-stacking-functions-detailed]], edge effect utilization, and closed-loop nutrient cycling.
 
 ## Propagation
 
@@ -108,7 +108,7 @@ Ethiopian farmers recognize over 200 named enset varieties, classified by use:
 | *Fodder* | Leaf and pseudostem for cattle | ~30 varieties | Fed fresh or dried |
 | *Medicinal* | Ritual and healing applications | ~15 varieties | Various preparations |
 
-Variety selection is a sophisticated knowledge system — farmers choose varieties based on soil type, altitude, intended product, fermentation duration, and household food security strategy. Disease resistance and drought tolerance are also key selection criteria.
+Variety selection is a sophisticated knowledge system — farmers choose varieties based on soil type, altitude, intended product, fermentation duration, and household food security strategy. Disease resistance and drought tolerance are also key [[cannabis-breeding-traits-selection-criteria-clarke]].
 
 ## Enset and Climate Resilience
 

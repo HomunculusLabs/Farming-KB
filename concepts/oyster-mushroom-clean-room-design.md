@@ -1,21 +1,19 @@
 ---
-title: Oyster Mushroom Clean Room Design for Spawn Production
+title: cotter-oyster-mushroom-cultivation Clean Room Design for growing-gourmet-sawdust-spawn-production-use
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [[mycology, cultivation, mushrooms]
+tags: [mycology, cultivation, mushrooms]
 sources: []
 ---
-# Oyster Mushroom Clean Room Design for Spawn Production
-
-A clean room provides a hygienically sterile enclosed airspace where mushroom mycelium can be isolated from competing organisms. This page describes a simple, low-cost clean room design suitable for teaching, learning, and experimenting with [[mushroom-cultivation-grain-spawn]] production.
+# Oyster Mushroom Clean Room Design for Spawn Production A clean room provides a hygienically sterile enclosed airspace where mushroom mycelium can be isolated from competing organisms. This page describes a simple, low-cost clean room design suitable for teaching, learning, and experimenting with [[mushroom-cultivation-grain-spawn]] production.
 
 ## Purpose and Scope
 
-This design is intended as a place to teach, learn, and experiment with mushroom sterile culture. It is **not capable of withstanding the demands of commercial mushroom spawn production**, but is excellent for small-scale growers producing their own spawn.
+This design is intended as a place to teach, learn, and experiment with mushroom sterile culture. It is **not capable of withstanding the demands of commercial [[cuthill-mushroom-spawn-preparation-historical]] production**, but is excellent for small-scale growers producing their own spawn.
 
 The clean room can be used to:
-- Inoculate agar plates from culture slants or tissue samples
+- Inoculate [[query-how-to-make-agar-plates-for-mushroom-cultivation]] from culture slants or tissue samples
 - Conduct agar-to-agar, agar-to-grain, and grain-to-grain transfers
 - Produce sawdust-to-grain and sawdust-to-sawdust transfers
 - Work with standard domestic pressure cookers for sterilization
@@ -24,13 +22,13 @@ The clean room can be used to:
 
 | Equipment | Specification |
 |---|---|
-| Laminar flow bench (HEPA filter/fan) | Fan output: 400–500 CFM; HEPA filter depth ≤ 6" (15 cm) |
+| [[comparison-laminar-flow-hood-vs-fruiting-chamber]] bench (HEPA filter/fan) | Fan output: 400–500 CFM; HEPA filter depth ≤ 6" (15 cm) |
 | Polythene sheeting | Clear, 120 gauge (8 mil, 0.5 mm), 50m × 2.5m roll |
 | Saw timber | 2× 1" (50 × 25mm), treated |
 | Fasteners | 2.5" (60mm) counter-sunk wood screws, tacks, or staples |
 | Sealant | Silicone caulking |
 | Disinfectant | 5% household bleach (sodium hydroxide) solution |
-| UV lamp (optional) | For additional surface sterilization |
+| UV lamp (optional) | For additional [[challenge-organisms-nasa-microwave-surface-sterilization-testing]] |
 
 ## Room Dimensions and Airflow
 

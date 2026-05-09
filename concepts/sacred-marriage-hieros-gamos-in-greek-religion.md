@@ -1,5 +1,5 @@
 ---
-title: Sacred Marriage Hieros Gamos in Greek Religion
+title: Sacred sacred marriage hieros gamos in greek religion Gamos in Greek Religion
 created: 2026-04-13
 updated: 2026-04-15
 type: concept
@@ -39,7 +39,7 @@ The concept of sacred marriage appears across many ancient Mediterranean and Nea
 - **Sumeria**: The sacred marriage of Inanna and Dumuzi was celebrated annually, with the king acting as Dumuzi's surrogate in union with the goddess.
 - **Babylon**: The Akitu festival included a hieros gamos ritual between Marduk and Ishtar.
 - **Canaan**: Baal and Anat, fertility deities whose union ensured agricultural productivity.
-- **Egypt**: The marriage of Osiris and Isis, involving death and resurrection, parallels the Greek pattern.
+- **Egypt**: The marriage of Osiris and Isis, involving [[allegro-death-and-resurrection-in-the-mushroom-cult]], parallels the Greek pattern.
 
 ## The Telesterion as Nuptial Chamber
 
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

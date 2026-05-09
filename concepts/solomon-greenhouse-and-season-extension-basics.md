@@ -1,5 +1,5 @@
 ---
-title: "Greenhouse and Season Extension Basics"
+title: "Greenhouse and comparison-season-extension-techniques-vs-cold-frame-gardening Basics"
 created: 2026-04-28
 tags: [greenhouse, season-extension, cold-frames, row-covers, cloche]
 date: 2026-04-28
@@ -22,7 +22,7 @@ tools that are practical and effective.
 ## Solomon's Minimalist Philosophy
 
 Solomon states plainly that you do not need greenhouses, hot frames,
-heat cables, or cold frames for most vegetable production. If you want
+heat cables, or [[hamilton-cold-frames-and-hardening-off]] for most [[dry-gardening-unirrigated-vegetable-production-solomon]]. If you want
 to push the limits, there is no shortage of books on greenhouses and
 hot and cold frames, and plenty of gear available to equip you with the
 neatest of seedling-raising setup. But his advice is to grow seedlings
@@ -49,7 +49,7 @@ fabric is spread over a growing row or bed and loosely anchored with
 soil. As plants grow, they lift the almost weightless fabric, so no
 supporting structure is needed.
 
-Reemay provides a few degrees of frost protection and raises soil and
+Reemay provides a few degrees of [[holzer-frost-protection-techniques]] and raises soil and
 air temperatures, enhancing springtime growth. However, Reemay reduces
 light levels by about 25 percent, which is not desirable for all crops.
 Other brands that are more porous and allow more airflow may not reduce
@@ -117,9 +117,11 @@ to use these tools effectively.
 His recommendation is to start simple: use row covers for frost
 protection and insect exclusion, direct-seed whenever possible, and
 only invest in more elaborate structures if your climate genuinely
-demands it and you have mastered the basics of vegetable growing first.
+demands it and you have mastered the basics of [[fukuoka-semi-wild-vegetable-growing-natural-method]] first.
 
-## Related Concepts
+## Related
+
+- [[solomon-sprouting-seeds-and-early-season-nutrition]] Concepts
 
 - [[solomon-row-covers-and-season-extension]]
 - [[solomon-climate-zones-and-growing-seasons]]

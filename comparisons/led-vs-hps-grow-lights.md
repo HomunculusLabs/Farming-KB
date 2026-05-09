@@ -24,7 +24,7 @@ sources:
 
 # LED vs HPS Grow Lights Comparison
 
-Choosing grow lights is the most impactful decision for indoor cannabis cultivation. The right fixture determines yield, quality, electricity cost, and grow room infrastructure requirements. This comparison covers the six main fixture categories used by home and commercial growers, synthesized from [[cannabis-lighting-guide]] and [[cannabis-lighting-guide]].
+Choosing grow lights is the most impactful decision for indoor [[query-how-does-no-till-cannabis-cultivation-work]]. The right fixture determines yield, quality, electricity cost, and grow room infrastructure requirements. This comparison covers the six main fixture categories used by home and commercial growers, synthesized from [[cannabis-lighting-guide]] and [[cannabis-lighting-guide]].
 
 LED technology has largely displaced HPS as the standard for new installations, but HPS still holds value for budget setups and flowering-only rooms. CMH/LEC fills a middle ground with full-spectrum light and UV output that can enhance terpene production. T5 fluorescents remain the best choice for seedlings and clones. The key metrics are PPFD efficiency (micromoles per joule), heat output, spectrum quality, and total cost of ownership.
 
@@ -57,17 +57,17 @@ LED quantum boards achieve payback over HPS within 1-2 years through electricity
 
 Heat output affects grow room design significantly. HPS 1000W requires substantial ventilation — inline fan, ducting, and possibly air conditioning — adding $200-500 to infrastructure. LED can be placed 12-18 inches from canopy vs 24-36 inches for HPS, effectively using vertical space more efficiently. For [[cannabis-living-soil-guide]] grows where temperature management is critical, LED's lower heat output simplifies the system considerably.
 
-Temperature targets for cannabis are 70-82F day and 60-70F night during vegetative stage. HPS in a small closet can easily push temperatures above 90F without active ventilation, stressing plants and reducing yield. LED fixtures at equivalent PPFD typically add only 5-10F to ambient room temperature.
+Temperature targets for cannabis are 70-82F day and 60-70F night during [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]. HPS in a small closet can easily push temperatures above 90F without active ventilation, stressing plants and reducing yield. LED fixtures at equivalent PPFD typically add only 5-10F to ambient room temperature.
 
 ## Spectrum and Quality Considerations
 
-Full-spectrum LED (quantum boards) and CMH both produce light across the 400-700nm PAR range. HPS is heavily weighted toward red/yellow (570-620nm), which drives flowering but produces stretchier plants in vegetative growth. Research on [[cannabis-lighting-guide]] shows blue light (400-500nm) promotes compact vegetative structure — essential for indoor plants where limited height requires bushy, not leggy, growth.
+Full-spectrum LED (quantum boards) and CMH both produce light across the 400-700nm PAR range. HPS is heavily weighted toward red/yellow (570-620nm), which drives flowering but produces stretchier plants in [[cannabis-vegetative-growth-stage]]. Research on [[cannabis-lighting-guide]] shows [[chamovitz-julius-von-sachs-blue-light-phototropism]] (400-500nm) promotes compact vegetative structure — essential for indoor plants where limited height requires bushy, not leggy, growth.
 
 CMH's UV output (below 380nm) may enhance terpene and cannabinoid production. Some growers run a CMH alongside LED in flowering to add UV to an otherwise UV-deficient spectrum. This hybrid approach combines LED efficiency with CMH's spectral completeness.
 
 ## Light Distance Guidelines
 
-Per [[cannabis-vegetative-stage]] and [[cannabis-lighting-guide]], proper distance prevents light burn and stretching:
+Per [[cannabis-vegetative-stage]] and [[cannabis-lighting-guide]], proper distance prevents [[query-how-to-prevent-and-treat-cannabis-light-burn-and-heat-stress]] and stretching:
 
 | Fixture Type | Vegetative Distance | Flowering Distance |
 |-------------|--------------------|--------------------|
@@ -95,7 +95,6 @@ For new indoor growers, a 300-400W quantum board LED is the best all-around choi
 ## See Also
 
 - [[cannabis-lighting-guide]] — Full lighting science and setup guidance
-- [[cannabis-lighting-guide]] — PAR, PPFD, and spectrum by wavelength
-- [[cannabis-vegetative-stage]] — Light requirements during vegetative growth
+- [[cannabis-vegetative-stage]] — [[growing-gourmet-light-requirements-mushroom-fruiting]] during vegetative growth
 - [[think-grow-model-h-plus]] — Specific LED fixture programming and setup
 - [[indoor-vs-outdoor-cannabis]] — Lighting as part of the indoor/outdoor decision

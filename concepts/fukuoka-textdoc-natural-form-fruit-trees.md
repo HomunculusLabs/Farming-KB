@@ -22,7 +22,7 @@ represents one of the most practical yet philosophically rich aspects of
 his work in *The Natural Way of Farming*. Through decades of observation,
 experimentation, and the sacrifice of hundreds of trees, he arrived at
 conclusions that contradicted the established horticultural wisdom of his
-time and offered a path to fruit cultivation without pruning.
+time and offered a path to [[stone-fruit-tree-care]] without pruning.
 
 ## The Problem with Pruning
 
@@ -48,12 +48,12 @@ irreversible for the individual organism.
 The scientific approach to pruning seeks proper branch spacing through
 experimentation, but never arrives at a definitive spacing for all
 situations. A different result is obtained for every tree shape. This is
-the way of scientific agriculture: an endless cycle of correction and
+the way of [[fukuoka-critique-scientific-agriculture-civilization]]: an endless cycle of correction and
 recorrection that never arrives at a stable truth.
 
 ## The Central Leader Type Discovery
 
-Through direct seeding and observation of unpruned trees, Fukuoka
+Through [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] and observation of unpruned trees, Fukuoka
 determined that the natural form of the citrus tree is a central leader
 type form, not the hemispherical or wineglass shape depicted in textbooks.
 When he reported this finding to the Ehime Prefectural Fruit Growers
@@ -76,7 +76,7 @@ arise primarily from the differing number, angle, and directions of the
 scaffold branches that grow from the central leader. In form, they
 resemble forest trees.
 
-Few mandarin orange trees take on a central leader form, indicating
+Few [[fukuoka-mandarin-orange-citrus]] trees take on a central leader form, indicating
 weak terminal bud dominance and a tendency to develop an open crown with
 confused form.
 
@@ -100,7 +100,7 @@ trained on a single stem than to allow it to grow freely and later cut it
 with a saw. The closer the form to nature, the more reasonable on all
 counts.
 
-The first step in natural farming of any fruit tree is to know its natural
+The first step in [[comparison-natural-farming-vs-permaculture]] of any fruit tree is to know its natural
 form. Whatever new pruning techniques arise, knowing the true natural
 form can never be a disadvantage.
 
@@ -121,8 +121,10 @@ intervention.
 The answer, as always, is to start from seed whenever possible and allow
 nature to determine the outcome.
 
-## Related Concepts
+## Related
+
+- [[fukuoka-textdoc-search-natural-form-citrus-trees]] Concepts
 
 - [[fukuoka-textdoc-what-plowing-really-is]] for soil cultivation philosophy
 - [[fukuoka-textdoc-leave-nature-alone-philosophy]] for non-intervention
-- [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]] for companion planting
+- [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]] for [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]

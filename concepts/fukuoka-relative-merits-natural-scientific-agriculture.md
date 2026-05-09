@@ -1,11 +1,12 @@
 ---
-title: Fukuoka Relative Merits of Natural Farming and Scientific Agriculture
+title: Fukuoka fukuoka relative merits natural scientific agriculture of comparison-natural-farming-vs-permaculture and fukuoka-critique-scientific-agriculture-civilization
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # The Relative Merits of Natural Farming and Scientific Agriculture
 
@@ -13,7 +14,7 @@ From "The Natural Way of Farming: The Theory" by Masanobu Fukuoka.
 
 ## The Problem of Cause and Effect in Agriculture
 
-When we talk of causes, we refer to a complex web of organically interrelated causes -- basic causes, remote causes, contributing factors, predisposing factors. This is why one cannot give a brief, simple explanation of the true cause of poor maturation in rice, and it is also why a more detailed explanation is no closer to grasping the real truth.
+When we talk of causes, we refer to a complex web of organically interrelated causes -- basic causes, remote causes, [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]], predisposing factors. This is why one cannot give a brief, simple explanation of the true cause of poor maturation in rice, and it is also why a more detailed explanation is no closer to grasping the real truth.
 
 The causal relationships between factors in nature are just too entangled for man to unravel through research and analysis. Perhaps science succeeds in advancing one slow step at a time, but because it does so while groping in total darkness along a road without end, it is unable to know the real truth of things.
 
@@ -39,7 +40,7 @@ The true natural farming goes beyond mere rejection of agricultural chemicals or
 
 ## Key Points
 
-1. Central to Fukuoka Relative Merits Natural Scientific Agriculture is the idea that nature already possesses perfect wisdom and human intervention often disrupts natural balance.
+1. Central to Fukuoka Relative Merits [[fukuoka-textdoc-centrifugal-centripetal-natural-scientific-farming]] Agriculture is the idea that nature already possesses perfect wisdom and human intervention often disrupts natural balance.
 2. Fukuoka's approach emphasizes observation over action — understanding natural patterns before making any changes to the landscape.
 3. The principle of 'doing nothing' (mu) means eliminating unnecessary human labor, not abandoning the land entirely.
 4. Natural farming seeks to create conditions where crops, weeds, insects, and microorganisms coexist in a self-regulating ecosystem.
@@ -52,7 +53,7 @@ The true natural farming goes beyond mere rejection of agricultural chemicals or
 
 ## Practical Applications
 
-- Start with a small area and observe natural vegetation patterns before introducing any cultivation.
+- Start with a small area and observe natural [[holmgren-vegetation-patterns-biomass-fertility]] before introducing any cultivation.
 - Use straw mulch and living ground covers (such as white clover) to suppress weeds and build soil organic matter.
 - Introduce seed balls in early spring or fall to establish crops without tilling the soil.
 - Allow beneficial weeds to grow alongside crops — they often serve important ecological functions.
@@ -89,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

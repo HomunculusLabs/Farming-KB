@@ -1,5 +1,5 @@
 ---
-title: Tweetio Series Ethoxy Homologues Pihkal
+title: Tweetio tweetio series ethoxy homologues pihkal Homologues Pihkal
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -26,7 +26,7 @@ Every compound in the 2C-X family has two oxygen substituents at positions 2 and
 
 ## General Activity Patterns
 
-Shulgin documented a consistent pattern across the Tweetio series:
+Shulgin documented a consistent [[psilocin-accumulation-pattern-across-flushes]] the Tweetio series:
 
 - **2-EtO compounds**: Shorter duration and lower potency than the parent
 - **5-EtO compounds**: Relatively unchanged potency but longer duration
@@ -69,7 +69,7 @@ Both of the homologous mono-ethoxy Tweetios of 2C-T have been synthesized and ev
 The Tweetio data supports several conclusions about phenethylamine pharmacology:
 
 ### Positional Specificity
-The 2- and 5-positions are not equivalent in their pharmacological contribution. Replacing the 2-position methoxy reduces potency and duration, while replacing the 5-position methoxy preserves potency but increases duration. This suggests these positions interact with the receptor binding site differently.
+The 2- and 5-positions are not equivalent in their pharmacological contribution. Replacing the 2-position methoxy reduces potency and duration, while replacing the 5-position methoxy preserves potency but increases duration. This suggests these positions interact with the [[tihkal-receptor-binding-serotonin]] site differently.
 
 ### Metabolic Stability
 The longer duration of 5-EtO compounds may reflect increased metabolic stability of the ethoxy group at the 5-position compared to methoxy, possibly due to reduced O-demethylation by liver enzymes.

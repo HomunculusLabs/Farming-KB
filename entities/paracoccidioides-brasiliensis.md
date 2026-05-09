@@ -11,8 +11,8 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 # Paracoccidioides brasiliensis
 
 **Type:** Species (Fungus)
-**Category:** Thermally Dimorphic Fungal Pathogen
-**Also known as:** Agent of paracoccidioidomycosis (South American
+**Category:** Thermally Dimorphic [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]
+**Also known as:** Agent of paracoccidioidomycosis ([[chiric-caspi-brunfelsia-south-american-hallucinogen]]
 blastomycosis)
 
 ## Overview
@@ -57,10 +57,10 @@ practical impediment to its study.
 ### Ecology and Habitat
 - Environmental reservoir has not been definitively identified
 - Associated with moist soils in humid, forested areas of
-  southern Mexico, Central America, and South America east of
+  southern Mexico, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], and South America east of
   the Andes and north of the Argentine pampas
 - Rarely isolated from the environment except through
-  molecular detection methods
+  molecular [[singh-detection-methods-degrading-fungi-environment]]
 - Armadillos have been proposed as potential environmental
   reservoirs
 - Infection occurs primarily through inhalation of airborne
@@ -128,6 +128,8 @@ dynamics, and pathogenesis remains a priority for tropical medicine and
 medical mycology.
 
 ## See Also
+
+- [[agaricus-brasiliensis]]
 
 - [[penicillium-chrysogenum]]
 - [[botrytis-cinerea]]

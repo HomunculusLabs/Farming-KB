@@ -15,7 +15,7 @@ Mushroom log cultivation grows fungi on freshly cut hardwood logs outdoors,
 mimicking natural wood decomposition with minimal infrastructure. Monotub
 cultivation grows fungi on prepared substrates inside modified plastic bins,
 controlling temperature, humidity, and fresh air exchange. Log cultivation
-produces gourmet and medicinal mushrooms over years with low ongoing effort,
+produces gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] over years with low ongoing effort,
 while monotubs produce faster yields in weeks with more active management.
 Both are valuable methods that suit different growers, climates, and goals.
 
@@ -23,8 +23,8 @@ Both are valuable methods that suit different growers, climates, and goals.
 [[monotub-cultivation]]
 
 The monotub is a modified plastic storage bin (typically 54-110 quarts) that
-serves as both colonization vessel and fruiting chamber. It is the most
-widely used method for Psilocybe cubensis cultivation and works well for
+serves as both colonization vessel and [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]]. It is the most
+widely used [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] [[psilocybe-cubensis-cultivation-miniculture]] and works well for
 oyster mushrooms and other species. The design uses two sizes of holes
 stuffed with polyfill for passive fresh air exchange: large holes (2 inches)
 near substrate level and small holes (1 inch) near the top of the tub.
@@ -56,14 +56,14 @@ resistant, and require minimal daily maintenance once properly set up.
 | Infrastructure | Minimal (shade, water) | Tub, humidifier, lighting |
 | Species range | Shiitake, oyster, lion's mane | Cubensis, oyster, many species |
 | Labor pattern | Periodic soaking | Setup-intensive, monitoring |
-| Contamination risk | Low (natural system) | Moderate (sterile technique) |
+| Contamination risk | Low (natural system) | Moderate ([[cultivator-sterile-technique-and-agar-culture]]) |
 | Climate dependence | Seasonal, outdoor | Year-round, any climate |
 
 ## When to Choose Log Cultivation
 Log cultivation is ideal for growers with outdoor space who want a low-
 maintenance, sustainable method that produces over multiple years with
 minimal ongoing inputs. It suits homesteaders, permaculture growers, and
-anyone who wants gourmet mushrooms without investing in indoor equipment
+anyone who wants [[growing-gourmet-mushrooms-civilization-history]] without investing in indoor equipment
 or learning sterile laboratory technique. The method is forgiving of neglect and
 produces excellent shiitake, oyster, and lion's mane. It also integrates
 naturally into food forest and agroforestry systems where logs can be stacked

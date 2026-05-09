@@ -1,5 +1,5 @@
 ---
-title: CBD to THC Isomerization Chemistry
+title: CBD to cbd to thc isomerization chemistry Chemistry
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -8,7 +8,7 @@ sources: []
 ---
 # CBD to THC Isomerization Chemistry
 
-Isomerization is the chemical process of converting cannabidiol (CBD), a non-psychoactive cannabinoid, into delta-9-tetrahydrocannabinol (THC), the primary psychoactive compound in cannabis. This process is the central innovation described in "Cannabis Alchemy" by D. Gold, building on the work of Roger Adams at the University of Illinois in the 1940s.
+Isomerization is the chemical process of converting cannabidiol (CBD), a non-psychoactive cannabinoid, into delta-9-tetrahydrocannabinol (THC), the primary psychoactive compound in cannabis. This process is the central innovation described in "[[lemon-cannabis-alchemy-advanced-refinement-techniques]]" by D. Gold, building on the work of Roger Adams at the University of Illinois in the 1940s.
 
 ## The Chemical Basis
 
@@ -52,7 +52,7 @@ and the reaction progress can be monitored by thin-layer chromatography
 during the reaction.
 
 The legal implications of isomerization vary significantly by jurisdiction.
-In the United States, the 2018 Farm Bill legalized hemp and its derivatives
+In the [[dmt-containing-plants-united-states-halpern]], the 2018 Farm Bill legalized hemp and its derivatives
 including CBD, but the DEA has taken the position that synthetically
 converted THC (even from legal CBD) is a Schedule I controlled substance.
 This legal ambiguity means that isomerization of CBD to THC exists in a
@@ -80,3 +80,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[thc-isomerization]]

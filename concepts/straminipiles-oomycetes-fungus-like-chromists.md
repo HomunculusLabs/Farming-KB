@@ -15,7 +15,7 @@ Oomycetes and other straminipiles were long classified as fungi due to their fil
 
 | Feature | True Fungi | Straminipiles |
 |---------|-----------|---------------|
-| Cell wall | Chitin | Cellulose (sometimes with beta-glucans) |
+| [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] | Chitin | Cellulose (sometimes with beta-glucans) |
 | Energy storage | Glycogen | Mycolaminarin (laminarin-like) |
 | Mitochondria | Tubular cristae | Tubular cristae |
 | Flagella | Single, posterior | Two: anterior tinsel + posterior whiplash |
@@ -34,7 +34,7 @@ The largest and most economically important group:
 - Found in freshwater habitats worldwide
 
 **Peronosporomycetidae:**
-- Pythiales: Pythium (damping-off), Phytophthora (late blight, root rot)
+- Pythiales: Pythium (damping-off), Phytophthora (late blight, [[cannabis-root-rot-prevention-and-treatment]])
 - Peronosporales: Downy mildews (Plasmopara, Peronospora, Bremia)
 - Albuginales: White rusts (Albugo)
 - Some of the most destructive plant pathogens known
@@ -53,7 +53,7 @@ The largest and most economically important group:
 - Marine organisms; important decomposers of detritus
 - Produce unique ectoplasmic net (bothrioid) for nutrient absorption
 - Labyrinthula: Associated with seagrass wasting disease
-- Thraustochytrids: Some produce omega-3 fatty acids commercially
+- Thraustochytrids: Some produce omega-3 [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] commercially
 
 ## Nomenclature Confusion
 
@@ -61,14 +61,14 @@ Multiple names have been applied to this group over time:
 - "Oomycota" (treated as a fungal phylum)
 - "Chromista" (Cavalier-Smith's kingdom)
 - "Heterokonta" (referring to two different flagella)
-- "Straminipila" (Dick 2001; preferred in modern mycological literature)
+- "Straminipila" (Dick 2001; preferred in [[telluride-mushroom-festival-modern-mycological-culture]] literature)
 
 The move away from treating these organisms as fungi has been slow and controversial, but molecular evidence is unequivocal: they are chromists, not fungi.
 
 ## Ecological Significance
 
 ### Plant Pathogens
-- **Phytophthora ramorum:** Sudden oak death; devastating forest disease
+- **Phytophthora ramorum:** [[bloomfield-sudden-oak-death-phytophthora-species-diversity]] death; devastating forest disease
 - **Phytophthora infestans:** Potato/tomato late blight
 - **Pythium species:** Damping-off, root rot of seedlings
 - **Downy mildews:** Major diseases of grapes (Plasmopara), lettuce (Bremia), cucurbits (Pseudoperonospora)

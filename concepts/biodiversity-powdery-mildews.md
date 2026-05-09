@@ -38,7 +38,7 @@ leaves and smaller twigs. On trunks and larger branches, growth
 is usually more robust.
 
 Sooty molds predominate along continental margins of the Americas,
-in Central America, and on islands in the Western Hemisphere.
+in [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], and on islands in the Western Hemisphere.
 They occur in some form in most vegetation types but are prevalent
 around the margins of rain forest communities. Unlike powdery
 mildews, sooty molds are not host-specific parasites but rather
@@ -65,7 +65,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +107,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

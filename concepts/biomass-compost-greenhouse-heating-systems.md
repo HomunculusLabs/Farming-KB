@@ -1,5 +1,5 @@
 ---
-title: "Biomass Compost Greenhouse Heating Systems"
+title: "Biomass Compost hamilton-greenhouse-heating-and-temperature-control Systems"
 created: 2026-04-28
 tags: [biomass, compost, greenhouse, heating, permaculture]
 date: 2026-04-25
@@ -16,8 +16,8 @@ it up is not what generates the heat, but rather the microbial
 decomposition process. This heat can be harnessed passively to warm
 greenhouses, heat water, and extend growing seasons without any
 external fuel inputs. As described in the Ultimate Guide to Natural
-Farming and Sustainable Living, biomass compost heating is one of the
-most practical and accessible renewable energy systems available to
+Farming and [[natural-farming-sustainable-living-principles]], biomass compost heating is one of the
+most practical and accessible [[holmgren-wind-power-and-renewable-energy-debate]] systems available to
 the homesteader.
 
 ## The Science of Compost Heating
@@ -49,11 +49,11 @@ is in the greenhouse, where the warmth supports plant growth during
 cold months. Rather than using a wood compost bin, a ring made of
 chicken wire or other mesh fencing is set up to contain the compost
 pile. This ring is filled with alternating layers of compost material
-and organic matter until full. Then, a coil of plastic pipe is
+and [[hamilton-composting-and-organic-matter-management]] until full. Then, a coil of plastic pipe is
 wrapped around and around the compost pile.
 
 A second ring of wire fencing is set up at least four feet (one
-meter) outside the first ring. More compost and organic material is
+meter) outside the first ring. More [[coleman-compost-and-organic-fertility-management]] material is
 added to this outer ring until it is full. As both rings of compost
 heat up through decomposition, they warm any water that is run
 through the piping coiled between and around them.
@@ -93,8 +93,14 @@ biogas production (methane from manure) is generally not recommended
 for small properties. It takes about 240 pounds of fresh manure per
 day to produce enough gas to fuel a stove. Since animals would
 normally be foraging and fertilizing edible forests and pastures,
-confining them for biogas collection breaks the nitrogen cycle.
+confining them for biogas collection breaks the [[query-how-does-the-nitrogen-cycle-work-in-a-garden]].
 Methane is also hazardous, as methane and oxygen mixtures can
 explode. Biomass compost heating achieves similar energy goals more
-safely and in alignment with [[faires-biomass-compost-water-heating]]
+safely and in alignment with faires-biomass-compost-water-heating
+- [[mollison-designers-solar-water-heating-systems]]
+## See Also
+- [[decomposition]]
+- [[hamilton-greenhouse-heating-and-temperature-control]]
+- [[mushroom-compost-bed-systems-duggar]]
+- [[mollison-designers-compost-toilet-humanure-systems]]
 - [[mollison-designers-solar-water-heating-systems]]

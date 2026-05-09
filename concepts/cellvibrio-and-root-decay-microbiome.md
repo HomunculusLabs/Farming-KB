@@ -14,12 +14,12 @@ type: concept
 ## Overview
 
 Cellvibrio is a genus of aerobic cellulolytic bacteria that was unexpectedly
-found at high abundance in the Cannabis endorhiza during the first experiment
+found at high abundance in the [[edaphic-factors-cannabis-endorhiza-microbiome-assembly]] during the first experiment
 of Winston et al. (2014). Subsequent investigation revealed that Cellvibrio
 served as an indicator of root decay rather than a true member of the healthy
 endophytic core community. The difference in Cellvibrio abundance between the
 two experiments provided a natural experiment demonstrating the impact of
-sampling timing (post-harvest vs active growth) on endorhiza microbiome
+sampling timing (post-harvest vs active growth) on [[cannabinoid-concentration-endorhiza-microbiome-correlation-cannabis]]
 composition.
 
 ## Cellvibrio: Biology and Ecology
@@ -27,7 +27,7 @@ composition.
 Cellvibrio species are aerobic, cellulolytic bacteria known for their ability
 to degrade cellulose and other plant structural polysaccharides. The genus
 was first described in the context of cellulase production (Berg et al.,
-1972). In the Cannabis microbiome study, Cellvibrio was found as part of the
+1972). In the [[cultivar-cannabis-microbiome-two-tier-selection-model]] study, Cellvibrio was found as part of the
 apparent core endorhiza community alongside Pseudomonas, Oxalobacteraceae,
 Xanthomonadaceae, Actinomycetales, and Sphingobacteriales. However, unlike
 the other core members which are well-known endophytic bacteria, Cellvibrio
@@ -77,13 +77,13 @@ in the endorhiza samples from the first experiment, despite the absence of
 cultivar-specific metabolite input from the living plant for 8 weeks. The
 significant strain-level clustering in experiment 1 endorhiza (weighted
 ADONIS R2 = 0.59, p = 0.004; unweighted ADONIS R2 = 0.39, p = 0.003)
-persisted even during root decay, suggesting that the microbial community
+persisted even during root decay, suggesting that the [[edaphic-factors-microbial-community-structure]]
 signatures established during active growth are remarkably persistent.
 
 ## Implications for the Rhizosphere Signal
 
 The root decay process may also explain why the first experiment failed to
-show significant cultivar effects in the rhizosphere, unlike the second
+show significant [[cannabis-cultivar-effects-soil-microbiome]] in the rhizosphere, unlike the second
 experiment. As root tissue undergoes senescence and decay, the rhizosphere
 effect diminishes because:
 
@@ -93,7 +93,7 @@ effect diminishes because:
 - The distinction between rhizosphere and bulk soil microbiomes narrows
 
 The differences between experiments are unsurprising given the different
-sampling timings, as plant growth stage is well-established as a major factor
+sampling timings, as plant [[cho-plant-growth-stage-treatment-protocols]] is well-established as a major factor
 structuring rhizosphere and endorhiza communities.
 
 ## Broader Methodological Implications

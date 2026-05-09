@@ -1,15 +1,15 @@
 ---
-title: Paradise Regained — DMT, Hyperspace and Human Freedom
+title: mckenna paradise regained dmt hyperspace — DMT, Hyperspace and Human Freedom
 source: mckenna_t-food_of_the_gods.md
 author: Terence McKenna
-chapter: 15 - Anticipating the Archaic Paradise
+chapter: 15 - Anticipating the [[mckenna-archaic-paradise-techniques-ecstasy]]
 tags: [mckenna, dmt, hyperspace, tryptamine, legalization, archaic-revival, freedom]
 ---
 
 # Paradise Regained — DMT, Hyperspace and Human Freedom
 
 The final chapter of *Food of the Gods* is McKenna's most forward-
-looking, arguing that the tryptamine hallucinogens — particularly
+looking, arguing that the [[mckenna-tryptamine-hallucinogens-and-consciousness]] — particularly
 DMT — represent a genuine frontier of human experience and
 consciousness exploration. He frames the psychedelic renaissance
 not as a countercultural curiosity but as an essential component of
@@ -56,7 +56,7 @@ hundreds of users. The experience typically unfolds in phases:
    consciousness. Residual visual effects fade. Profound sense of
    having visited somewhere "real" persists.
 
-McKenna emphasizes that the DMT experience is not a "trip" in the
+McKenna emphasizes that the [[mckenna-dmt-experience-and-hyperspace]] is not a "trip" in the
 recreational drug sense but a genuine encounter with an alternative
 reality that demands to be taken seriously.
 
@@ -75,7 +75,7 @@ McKenna argues that the drug war is ultimately about the control of
 consciousness. The prohibition of tryptamine hallucinogens is not
 about public health or safety — these substances are among the least
 dangerous known to pharmacology — but about preventing access to
-experiences that challenge the dominator culture's claim to
+experiences that challenge the [[mckenna-dominator-culture-and-suppression-of-ecstasy]]'s claim to
 exclusive authority over the nature of reality.
 
 The suppression of DMT research is particularly revealing. DMT is
@@ -93,7 +93,7 @@ The consistency of these encounters across cultures and individuals
 suggests to McKenna that they are not merely subjective hallucinations
 but genuine contacts with an objective reality.
 
-Characteristics of the DMT entities as reported by users:
+Characteristics of the [[mckenna-dmt-entities-borges-and-archaic-secret]] as reported by users:
 
 - They appear to be autonomous, intelligent, and self-aware
 - They often seem to be awaiting the visitor or expecting the contact

@@ -11,17 +11,17 @@ type: concept
 # Phytohormone Cross-Kingdom Effects on Fungi
 
 The Gartz, Adam, and Vorbrodt (1990) study documenting brassinosteroid
-effects on Psilocybe cubensis was the first published report of a
+effects on [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] was the first published report of a
 brassinosteroid affecting fungal growth. This finding highlighted a broader
 and often overlooked phenomenon: phytohormones (plant hormones) can have
 significant biological effects on fungi, blurring the traditional boundary
 between plant and fungal hormonal signaling systems. Understanding these
 cross-kingdom interactions has implications for both basic mycology and
-applied mushroom cultivation.
+applied [[accessible-mushroom-cultivation-for-disabilities]].
 
 ## Classes of Phytohormones
 
-The major classes of phytohormones include auxins (indole-3-acetic acid and
+The [[ascomycota-phylogeny-major-classes-lineages]] of phytohormones include auxins (indole-3-acetic acid and
 related compounds), gibberellins, cytokinins, abscisic acid, ethylene,
 brassinosteroids, jasmonates, salicylic acid, and strigolactones. Each class
 regulates distinct aspects of plant growth and development, from cell
@@ -32,7 +32,7 @@ extent and significance of these effects varies considerably. Gibberellins,
 ironically, were first discovered as fungal metabolites produced by
 Gibberella fujikuroi, the causal agent of bakanae disease in rice. This
 historical precedent established that the same compounds can function as
-both fungal secondary metabolites and plant hormones.
+both fungal [[antifungal-secondary-metabolites-coprophilous-fungi]] and plant hormones.
 
 ## Brassinosteroids and Fungi
 
@@ -59,7 +59,7 @@ can manipulate host plant growth to benefit the pathogen.
 In mycorrhizal fungi, IAA production may facilitate the establishment and
 maintenance of symbiotic associations with plant roots. The fungal auxin
 stimulates lateral root formation, increasing the surface area available
-for nutrient exchange between fungus and host. This represents a clear
+for [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between fungus and host. This represents a clear
 example of a phytohormone mediating plant-fungal communication.
 
 ## Ethylene and Fungal Interactions
@@ -117,7 +117,7 @@ responses in plants and fungi.
 
 An alternative explanation is ecological: phytohormones may have evolved
 as signaling molecules in one kingdom and been co-opted by the other through
-ecological interactions such as pathogenesis, symbiosis, or competition.
+[[king-stropharia-ecological-interactions-permaculture]] such as pathogenesis, symbiosis, or competition.
 In this view, fungal sensitivity to brassinosteroids might reflect an
 evolutionary response to plant-produced compounds encountered in natural
 habitats.
@@ -126,4 +126,7 @@ habitats.
 
 - [[brassinosteroid-homobrassinolide-chemistry-synthesis]]
 - [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
-- [[fungal-plant-pathogen-interactions]]
+- fungal-plant-pathogen-interactions
+- [[brassinosteroid]]
+- [[homobrassinolide]]
+- [[brassinosteroids]]

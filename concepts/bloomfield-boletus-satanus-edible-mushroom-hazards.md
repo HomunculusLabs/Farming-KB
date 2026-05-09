@@ -1,5 +1,5 @@
 ---
-title: Boletus satanus and the Hazards of Edible Mushroom Identification
+title: bloomfield boletus satanus edible mushroom hazards and the Hazards of Edible psilocybin-mushroom-identification-guide
 created: 2026-04-28
 tags:
   - mycology
@@ -20,7 +20,7 @@ type: concept
 
 Nicholas Money's account of accidentally consuming Satan's
 bolete provides a vivid illustration of the genuine risks
-surrounding wild mushroom identification. The incident, recounted
+surrounding [[emcdda-wild-mushroom-foraging-misidentification-hazards]] identification. The incident, recounted
 with characteristic humor, also opens a window into the broader
 culture of mycophagy, the eccentric personalities of field
 mycologists, and the fundamental unreliability of mushroom
@@ -32,7 +32,7 @@ During his doctoral work in John Webster's laboratory at Exeter,
 Money and his colleagues lived and breathed fungi, sometimes to
 their detriment. After a weekend foray, Webster left the fruiting
 body of a bolete on Money's bench for identification. Remembering
-their recent conversation about edible mushrooms, Money took the
+their recent conversation about [[palmer-edible-mushrooms-north-america]], Money took the
 specimen home, sliced it into his signature student chili, and
 consumed a bowl or two before retiring to bed.
 
@@ -59,7 +59,7 @@ forced a mouthful down and attempted a feeble smile. Everyone was
 horrified. The experience left him permanently revolted by dryad's
 saddles.
 
-These incidents highlight a paradox of mushroom foraging: the same
+These incidents highlight a paradox of [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]]: the same
 guidebooks that describe a species as edible can lead to profoundly
 unpleasant culinary experiences. Edibility is not a binary
 property. Individual sensitivity varies enormously, and preparation
@@ -97,7 +97,7 @@ tongues, phallic mushrooms, earthstars, and birch conks, though
 even he refused to eat false morels. David Arora discusses
 McIlvaine's "psychosis" in "Mushrooms Demystified" and quotes an
 equally eccentric mycologist, Luen Miller, whose assessment of a
-waxy cap mushroom reads like parody of food criticism.
+waxy [[wine-cap-mushroom-cultivation]] reads like parody of food criticism.
 
 The culture of mycophagy attracts personalities who find deep
 satisfaction in eating things that others reject. This eccentricity
@@ -127,6 +127,12 @@ their toxicity profiles.
 
 ## See also
 
-- [[bloomfield-poisonous-mushrooms-and-mycotoxins]]
+- bloomfield-poisonous-mushrooms-and-mycotoxins
 - [[bloomfield-coprine-disulfiram-alcohol-reaction-coprinus-atramentarius]]
-- [[bloomfields-orchard-mushroom-hunting-and-identification]]
+- bloomfields-orchard-mushroom-hunting-and-identification
+## See Also
+- [[nicholas-money]]
+- mushroom-identification
+- [[laetiporus-sulphureus]]
+- [[bloomfield-amanita-toxins-evolutionary-puzzle-mushroom-poisoning]]
+- [[emcdda-wild-mushroom-foraging-misidentification-hazards]]

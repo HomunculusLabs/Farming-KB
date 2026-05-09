@@ -110,12 +110,12 @@ its language like a kind of second skin. Octopi can hardly not communicate.
 Their use of "ink" clouds to conceal themselves may indicate that this is the
 only way they can have anything like a private thought.
 
-McKenna connects this to Philo Judaeus's concept of a more perfect Logos — an
+McKenna connects this to [[mckenna-philo-judaeus-logos-hearing-to-beholding]]'s concept of a more perfect Logos — an
 indwelling of the Goddess, not heard but beheld. Like the octopi, our destiny
 is to become what we think, to have our thoughts become our bodies and our
 bodies become our thoughts.
 
 ## See Also
 
-- McKenna   DMT Experience and Hyperspace
+- McKenna   [[mckenna-dmt-experience-and-hyperspace]] and Hyperspace
 - [[set-and-setting-psychedelic-therapy-framework]]

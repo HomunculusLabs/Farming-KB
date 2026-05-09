@@ -11,9 +11,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://pubmed.ncbi.nlm.nih.gov/ - research on bioremediation and cultivation
-  - Stamets, P. (2005). Mycelium Running. Ten Speed Press.
+  - Stamets, P. (2005). [[woodlovers-mycelium-running-pathway-technique]]. Ten Speed Press.
   - Tsutsumi, F. & Courtecuisse, R. (2010). "Stropharia rugosoannulata: a useful polypore." Mycological Progress.
-  - Wasser, S.P. (2014). "Medicinal mushroom Stropharia rugosoannulata." International Journal of Medicinal Mushrooms.
+  - Wasser, S.P. (2014). "[[gourmet-medicinal-mushroom-casing-layer-techniques]] Stropharia rugosoannulata." International Journal of [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]].
 ---
 
 # Stropharia rugosoannulata (Wine Cap Mushroom)
@@ -25,7 +25,7 @@ sources:
 First described by Czech mycologist Julius Vincenz von Krombholz in 1836, *S. rugosoannulata* has gained prominence in the permaculture movement through the work of [[stropharia-rugosoannulata-permaculture]]
 - [[kings-stropharia-garden-giant]] Species
 The genus *Stropharia* contains approximately 30 species. Notable relatives include:
-- *S. ambigua* — a closely related North American species sometimes considered conspecific
+- *S. ambigua* — a closely related [[growing-gourmet-north-american-reishi-species]] species sometimes considered conspecific
 - *S. aeruginosa* (verdigris agaric) — greenish cap, also edible when cooked
 - *S. cephalocystidiata* — recently described from China
 - *S. hornemannii* — larger, northern European species
@@ -87,7 +87,7 @@ The species fruits from spring through autumn (May–October in the Northern Hem
 
 ### Substrate Requirements
 - **Primary substrate:** Hardwood chips or sawdust (oak, beech, maple, alder, willow)
-- **Supplementary substrate:** Straw, hay, agricultural waste
+- **Supplementary substrate:** Straw, hay, [[fungi-in-composting-and-agricultural-waste-conversion]]
 - **Amendments:** Compost, manure (aged), leaf mold
 - **Substrate pH:** 5.5–7.5 (broadly tolerant)
 
@@ -112,7 +112,7 @@ The species fruits from spring through autumn (May–October in the Northern Hem
 - Creating self-sustaining fertility cycles in food forests
 ### Water Filtration
 *Stropharia rugosoannulata* has demonstrated exceptional capacity for biological water filtration:
-- Mycelial mats can be established in swales, drainage channels, and constructed wetlands
+- Mycelial mats can be established in swales, drainage channels, and [[comparison-constructed-wetlands-vs-bioswales]]
 - Effectively filters *E. coli*, *Salmonella*, and *Staphylococcus* from greywater and agricultural runoff
 - Paul Stamets' research demonstrated that wine cap mycelium reduced coliform bacteria in downstream water by 99%
 - Can be used in bioswale systems along roadsides and agricultural field margins

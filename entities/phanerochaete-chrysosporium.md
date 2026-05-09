@@ -1,5 +1,5 @@
 ---
-title: Phanerochaete chrysosporium
+title: staycare-phanerochaete-chrysosporium-in-bioremediation
 created: 2026-04-28
 type: species
 tags: [basidiomycete, white-rot, bioremediation, lignin-degradation, biocontrol]
@@ -17,20 +17,20 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 ## Overview
 Phanerochaete chrysosporium is a white-rot basidiomycete and one
 of the most extensively studied lignin-degrading fungi. It is the
-model organism for understanding the enzymatic basis of wood
+[[canary-grass-phototropism-model-organism]] for understanding the enzymatic basis of wood
 decay and has become a cornerstone of bioremediation research due
 to its ability to degrade a remarkably wide range of
 environmental pollutants. The species was first isolated from
-decaying wood and is widely distributed in forest ecosystems
+decaying wood and is widely distributed in [[dighton-fungi-acidifying-pollutants-forest-ecosystems]]
 worldwide.
 
-Beyond its well-known role in lignin degradation, P.
+Beyond its well-known role in [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]], P.
 chrysosporium demonstrates mycoparasitic activity, attacking the
 sclerotia of phytopathogenic fungi including Sclerotinia
 sclerotiorum and Sclerotium rolfsii (Mihail and Alcon 1987). This
 dual capability as both a wood decomposer and a fungal parasite
 makes P. chrysosporium unique among white-rot fungi and suggests
-potential applications in [[singh-white-rot-fungi-lignin-modifying-enzymes-bioremediation]], [[lignin-degradation-mechanisms-wood-rot-fungi]]
+potential applications in [[singh-white-rot-fungi-lignin-modifying-enzymes-bioremediation]], lignin-degradation-mechanisms-wood-rot-fungi
 - [[trametes-versicolor-entity]]
 - [[sporidesmium-sclerotivorum]]
 ## Practical Applications
@@ -50,7 +50,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -100,7 +100,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -110,4 +110,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

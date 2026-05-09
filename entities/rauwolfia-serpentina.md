@@ -13,7 +13,7 @@ sources:
 
 # Rauwolfia serpentina
 
-**Rauwolfia serpentina** (Indian snakeroot) is an evergreen perennial shrub in the family Apocynaceae, native to the Indian subcontinent and Southeast Asia. One of the most pharmacologically significant plants in the history of modern medicine, it has been used in ayurveda for millennia and was the source of reserpine — the first antipsychotic and antihypertensive drug derived from a natural product. The plant contains over 50 identified [[tryptamine]]-class phytochemistry.
+**Rauwolfia serpentina** (Indian snakeroot) is an evergreen perennial shrub in the family Apocynaceae, native to the Indian subcontinent and [[psilocybe-southeast-asia-pacific]]. One of the most pharmacologically significant plants in the history of modern medicine, it has been used in ayurveda for millennia and was the source of reserpine — the first antipsychotic and antihypertensive drug derived from a natural product. The plant contains over 50 identified [[tryptamine]]-class phytochemistry.
 
 ## Key Details
 
@@ -36,11 +36,11 @@ Native to tropical and subtropical regions of the Indian subcontinent and Southe
 - **Southeast Asia:** Present in Myanmar, Thailand, Indonesia, and Malaysia.
 - **Naturalized range:** Introduced in parts of Africa, the Caribbean, and tropical South America.
 
-Prefers shaded or semi-shaded conditions in moist, well-drained forest soils rich in organic matter, typically as an understorey species in tropical deciduous and semi-evergreen forests.
+Prefers shaded or semi-shaded conditions in moist, well-drained forest soils rich in [[hamilton-composting-and-organic-matter-management]], typically as an understorey species in tropical deciduous and semi-evergreen forests.
 
 ## Active Compounds
 
-The roots contain over 50 indole alkaloids. The principal bioactive compounds:
+The roots contain over 50 indole alkaloids. The principal [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:
 
 ### Reserpine
 
@@ -63,7 +63,7 @@ Used in Ayurvedic medicine for at least 3,000 years under the Sanskrit name **Sa
 ### 1950s Introduction to Western Medicine
 
 - **1949:** R. B. O'Neill and colleagues at Ciba isolated reserpine.
-- **1952:** Reserpine introduced clinically as an antihypertensive in the United States.
+- **1952:** Reserpine introduced clinically as an antihypertensive in the [[dmt-containing-plants-united-states-halpern]].
 - **1954:** Nathan Kline demonstrated reserpine's efficacy in treating schizophrenia.
 - **1955:** Reserpine became one of the first drugs widely used for outpatient hypertension management.
 
@@ -73,7 +73,7 @@ The isolation of reserpine contributed to the broader psychopharmacology revolut
 
 ## Medical Applications
 
-- **Hypertension:** First-line antihypertensive for over two decades at 0.05–0.25 mg/day. Commonly combined with diuretics and vasodilators. Largely replaced by newer agents but remains on the WHO Essential Medicines List for its low cost and proven efficacy.
+- **Hypertension:** First-line antihypertensive for over two decades at 0.05–0.25 mg/day. Commonly combined with diuretics and vasodilators. Largely replaced by newer agents but remains on the WHO Essential Medicines List for its [[jadam-ultra-low-cost-agriculture]] and proven efficacy.
 - **Cardiac arrhythmia:** Ajmaline is used clinically as a class Ia antiarrhythmic, particularly valuable in Brugada syndrome diagnosis (marketed as Gilurytmal in Europe).
 - **Anxiety and insomnia:** Ayurvedic preparations use the plant's sedative and anxiolytic properties, attributed to central serotonin and catecholamine depletion. Standardized extracts are available as herbal remedies in some countries.
 - **Schizophrenia (historical):** Effective from 1954 until the late 1960s, abandoned due to high incidence of severe depression and suicidal ideation.
@@ -93,7 +93,7 @@ Acute toxicity of the whole plant is low (LD₅₀ > 500 mg/kg in rodents), but 
 
 ## Conservation Status
 
-Classified as **Vulnerable** on the IUCN Red List due to severe population declines from overharvesting. Wild populations in India, Nepal, and Bangladesh have been severely depleted, often involving uprooting entire plants. Additional threats include habitat loss from deforestation and slow natural regeneration (3–5 years to produce commercially viable roots). Rauwolfia serpentina is listed in CITES Appendix II, regulating international trade. Conservation efforts include in-situ protection, ex-situ cultivation, and tissue culture propagation.
+Classified as **Vulnerable** on the IUCN Red List due to severe population declines from overharvesting. Wild populations in India, Nepal, and Bangladesh have been severely depleted, often involving uprooting entire plants. Additional threats include habitat loss from deforestation and slow natural regeneration (3–5 years to produce commercially viable roots). Rauwolfia serpentina is listed in CITES Appendix II, regulating international trade. Conservation efforts include in-situ protection, ex-situ cultivation, and tissue [[stamets-cultivator-liquid-culture-propagation-methods]].
 
 ## Cultivation
 

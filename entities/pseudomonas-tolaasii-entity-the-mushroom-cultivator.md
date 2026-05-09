@@ -6,7 +6,7 @@ tags: [bacterial-pathogen, bacterial-blotch, mushroom-disease, casing-contaminan
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/the-mushroom-cultivator-stamets.md
+  sources: []
 ---
 
 # Pseudomonas tolaasii
@@ -21,7 +21,7 @@ contains more than 140 identified species, though only a few are known to affect
 mushrooms.
 
 Pseudomonas tolaasii is one of the most significant bacterial pathogens affecting
-cultivated mushrooms. It is the causative agent of bacterial blotch disease and is
+[[fungi-cultivated-mushrooms-pathogens-competitors]]. It is the causative agent of bacterial blotch disease and is
 commonly referred to by the common names Bacterial Blotch and Bacterial Pit (the latter
 being a more severe form attributed to a related but unidentified Pseudomonas species).
 
@@ -46,7 +46,7 @@ the high-humidity environments of mushroom growing rooms ideal for propagation.
 
 The organism is transmitted primarily through water and secondarily through grain, soils,
 composts, flies, mites, nematodes, tools, and workers. Its ability to spread through
-multiple vectors makes it a persistent challenge in mushroom cultivation facilities.
+multiple vectors makes it a persistent challenge in [[accessible-mushroom-cultivation-for-disabilities]] facilities.
 
 ## Role in Mushroom Cultivation
 
@@ -67,17 +67,17 @@ of Pseudomonas tolaasii and hesitate to recommend it as a control measure.
 ## Interactions
 
 Pseudomonas tolaasii stands in contrast to its relative Pseudomonas putida, which is
-beneficial to mushroom cultivation and stimulatory to primordia formation. While P.
+beneficial to mushroom cultivation and stimulatory to [[growing-gourmet-primordia-formation-pinning]]. While P.
 putida enhances fruiting in the casing layer, P. tolaasii is destructive to developing
 fruitbodies.
 
-The proposed biological control using Pseudomonas fluorescens illustrates the complex
+The proposed [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] using Pseudomonas fluorescens illustrates the complex
 interactions within the Pseudomonas genus. The uncertainty about whether P. fluorescens
 is truly a distinct species or merely a variety of P. tolaasii highlights the taxonomic
 challenges within this genus.
 
 Pseudomonas species are much more sensitive to heat sterilization than the
-endospore-forming Bacillus species, which means standard pasteurization and sterilization
+endospore-forming Bacillus species, which means standard [[query-difference-between-pasteurization-and-sterilization-mushroom-growing]]
 procedures can be effective against them, though their ubiquitous presence in water and
 soil means recontamination is a constant risk.
 
@@ -94,7 +94,7 @@ particular attention to areas where water tends to pool or where air circulation
 poor.
 
 The disease cycle of Pseudomonas tolaasii begins when bacteria are introduced to the
-growing environment via contaminated water, casing materials, or vectors such as flies
+[[cannabis-growing-environment-setup]] via contaminated water, casing materials, or vectors such as flies
 and mites. Once established on the mushroom surface, the bacteria multiply rapidly in
 the moist environment, producing the characteristic lesions and slimy exudate. Spores
 and bacteria are then dispersed to adjacent mushrooms through water splash, physical

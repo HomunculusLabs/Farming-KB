@@ -30,7 +30,7 @@ created: 2026-04-28
 
 The compound is characterized by its N-ethyl-N-propyl substitution pattern on the tryptamine nitrogen. This specific substitution produces a pharmacological profile that is psychedelic but generally milder and shorter-acting than psilocin.
 
-4-HO-EPT is classified as a Schedule I controlled substance in several jurisdictions due to its structural relationship to controlled tryptamines. It has seen very limited distribution outside of research chemical markets and remains one of the less well-characterized members of the 4-substituted tryptamine family.
+4-HO-EPT is classified as a Schedule I controlled substance in several jurisdictions due to its [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to controlled tryptamines. It has seen very limited distribution outside of research chemical markets and remains one of the less well-characterized members of the 4-substituted tryptamine family.
 
 ## Chemical Properties
 
@@ -92,7 +92,7 @@ The compound is approximately 2–4 times less potent than psilocin by weight, c
 
 4-HO-EPT was first synthesized by Alexander Shulgin and bioassayed as part of his systematic exploration of substituted tryptamines documented in TiHKAL.
 
-The compound received a brief entry in TiHKAL and was assigned a relatively low activity rating compared to more prominent members of the 4-substituted series. Shulgin's qualitative assessment suggested a short-acting, mild psychedelic experience.
+The compound received a brief entry in TiHKAL and was assigned a relatively low activity rating compared to more prominent members of the 4-substituted series. Shulgin's qualitative assessment suggested a short-acting, mild [[leary-psychedelic-experience-bardo-mapping]].
 
 Following the publication of TiHKAL in 1997, 4-HO-EPT saw minimal interest in the research chemical community. The emergence of online vendor markets in the 2010s brought limited availability, but the compound never achieved the popularity of 4-HO-MET, 4-HO-MiPT, or 4-AcO-DMT.
 
@@ -102,15 +102,15 @@ There are no published clinical studies on 4-HO-EPT. All available information c
 
 4-HO-EPT is unscheduled in many countries but may be controlled under analogue acts or blanket tryptamine bans.
 
-In the United States, the Federal Analogue Act may apply, making 4-HO-EPT potentially prosecutable as a Schedule I controlled substance analog of psilocin. Several states have enacted specific bans on substituted tryptamines.
+In the [[dmt-containing-plants-united-states-halpern]], the Federal Analogue Act may apply, making 4-HO-EPT potentially prosecutable as a Schedule I controlled substance analog of psilocin. Several states have enacted specific bans on substituted tryptamines.
 
-The compound is controlled as a Class B drug in the United Kingdom under the Psychoactive Substances Act amendments. In Germany, it falls under the NpSG (New Psychoactive Substances Act).
+The compound is controlled as a Class B drug in the United Kingdom under the Psychoactive [[controlled-substances-act-and-psychedelic-research]] amendments. In Germany, it falls under the NpSG (New Psychoactive Substances Act).
 
 ## See Also
 
 - [[psilocin]]
 - [[4-ho-mipt]]
 - [[tryptamine]]
-- [[4-aco-dmt]]
+- [[4-acetoxy-dmt]]
 - [[norbaeocystin]]
 - [[mescaline-entity]]

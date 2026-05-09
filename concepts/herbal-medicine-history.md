@@ -15,7 +15,7 @@ The use of plants for healing is as old as humanity itself, predating written re
 
 Archaeological evidence suggests that humans have used medicinal plants for at least 60,000 years. Pollen analysis from Neanderthal burial sites in Shanidar Cave (Iraq) dating to approximately 60,000 years ago revealed the presence of several plant species known to have medicinal properties, including yarrow, marshmallow, and grape hyacinth, suggesting intentional use for healing purposes.
 
-The earliest written records of herbal medicine come from Sumerian clay tablets (approximately 5000 years ago) that list hundreds of medicinal plants including myrrh, licorice, and thyme. The Ebers Papyrus of ancient Egypt (approximately 1550 BCE) documents over 700 herbal remedies, including the use of cannabis ground in honey as a remedy for vaginal illness. Egyptian medical texts describe preparations of garlic, juniper, cannabis, aloe, and castor oil, many of which have confirmed pharmacological activity.
+The earliest written records of herbal medicine come from Sumerian clay tablets (approximately 5000 years ago) that list hundreds of medicinal plants including myrrh, licorice, and thyme. The Ebers Papyrus of ancient Egypt (approximately 1550 BCE) documents over 700 herbal remedies, including the use of cannabis ground in honey as a remedy for vaginal illness. Egyptian medical texts describe preparations of garlic, juniper, cannabis, aloe, and [[permaculture-castor-oil-plant]], many of which have confirmed pharmacological activity.
 
 ## Chinese Herbal Medicine
 
@@ -37,7 +37,7 @@ Many Ayurvedic herbs have been extensively studied in modern research, and sever
 
 ## Greek and Roman Herbal Medicine
 
-Greek herbal medicine was formalized by Hippocrates (approximately 460 to 377 BCE), who is considered the father of Western medicine and advocated for rational, observation-based treatment using diet, exercise, and herbal remedies. The Hippocratic Corpus describes hundreds of herbal treatments organized by disease category.
+Greek herbal medicine was formalized by Hippocrates (approximately 460 to 377 BCE), who is considered the father of [[fukuoka-eastern-western-medicine-healing-world-crisis]] and advocated for rational, observation-based treatment using diet, exercise, and herbal remedies. The Hippocratic Corpus describes hundreds of herbal treatments organized by disease category.
 
 Dioscorides, a Greek physician serving in the Roman army, compiled De Materia Medica (approximately 77 CE), a five-volume work describing over 600 medicinal plants with detailed information on identification, preparation, and therapeutic use. This work remained the standard pharmacological reference in Europe and the Middle East for over 1,500 years.
 
@@ -45,7 +45,7 @@ Galen (129 to approximately 216 CE) systematized Greek and Roman medical knowled
 
 ## Medieval European Herbalism
 
-During the European Middle Ages, monastic communities preserved and advanced herbal knowledge. Monasteries maintained physic gardens (medicinal herb gardens) and compiled herbals that documented local medicinal plants. The Benedictine order was particularly known for its herbal scholarship.
+During the European Middle Ages, monastic communities preserved and advanced herbal knowledge. Monasteries maintained physic gardens ([[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]] gardens) and compiled herbals that documented local medicinal plants. The Benedictine order was particularly known for its herbal scholarship.
 
 The twelfth-century herbal of Hildegard of Bingen documents over 200 plants and their medicinal uses within a spiritual and cosmological framework. Medieval herbals such as the Book of Simples and various leechbooks (Anglo-Saxon medical texts) combined classical Greek and Roman knowledge with local folk traditions.
 
@@ -55,13 +55,13 @@ Arab-Islamic scholars preserved and expanded upon Greek and Roman medical texts 
 
 The sixteenth and seventeenth centuries saw an explosion of herbal publishing in Europe. John Gerard's The Herball (1597) and Nicholas Culpeper's The English Physician (1652) made herbal knowledge accessible to a broader audience. Culpeper's work was notable for translating Latin medical texts into English and integrating astrological correspondences with herbal practice.
 
-European colonial expansion brought contact with the herbal traditions of the Americas, Africa, Asia, and Oceania. Indigenous herbal knowledge from these regions was documented (and often appropriated) by European explorers, missionaries, and physicians. Many drugs that became mainstays of Western pharmacology originated in indigenous herbal traditions, including quinine from cinchona bark (South America), ipecac from ipecacuanha (Brazil), and curare from South American vines.
+European colonial expansion brought contact with the herbal traditions of the Americas, Africa, Asia, and Oceania. Indigenous herbal knowledge from these regions was documented (and often appropriated) by European explorers, missionaries, and physicians. Many drugs that became mainstays of Western pharmacology originated in indigenous herbal traditions, including quinine from cinchona bark (South America), ipecac from ipecacuanha (Brazil), and curare from [[chiric-caspi-brunfelsia-south-american-hallucinogen]] vines.
 
 Paracelsus (1493 to 1541) challenged the Galenic system and introduced the concept that the dose determines toxicity ("the dose makes the poison"), shifting the theoretical basis of herbal medicine and pharmacology toward chemical understanding.
 
 ## The Development of Modern Pharmacology
 
-The nineteenth century saw the isolation of active constituents from medicinal plants, beginning with morphine from opium poppy (1804), quinine from cinchona (1820), caffeine from coffee (1820), nicotine from tobacco (1828), and atropine from belladonna (1831). This process of isolating single active compounds transformed herbal medicine into modern pharmacology.
+The [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] saw the isolation of active constituents from medicinal plants, beginning with morphine from opium poppy (1804), quinine from cinchona (1820), caffeine from coffee (1820), nicotine from tobacco (1828), and atropine from belladonna (1831). This process of isolating single active compounds transformed herbal medicine into modern pharmacology.
 
 The development of synthetic chemistry in the late nineteenth and twentieth centuries allowed the modification of natural compounds and the creation of entirely synthetic drugs. Aspirin (acetylsalicylic acid), developed in 1897, was based on salicin from willow bark. Many modern pharmaceuticals are derived from or modeled on plant compounds, including digitalis glycosides from foxglove, vinca alkaloids from periwinkle, and taxol from Pacific yew.
 

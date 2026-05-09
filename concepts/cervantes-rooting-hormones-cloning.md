@@ -1,20 +1,21 @@
 ---
-title: Rooting Hormones for Cannabis Cloning
+title: cervantes rooting hormones cloning for comparison-cannabis-cloning-vs-seed-starting-indoors
 created: 2026-04-26
 tags: [cannabis, cloning, rooting, hormones, propagation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Rooting Hormones for Cannabis Cloning
 
-Rooting hormones are essential tools for successful cannabis clone propagation.
+Rooting hormones are essential tools for successful [[comparison-cannabis-clone-rooting-and-transplanting-vs-seed-germination]] propagation.
 They accelerate the formation of undifferentiated cells at the cut site, which
 then transform into root cells. According to Jorge Cervantes, understanding the
-[[use-and-value-diversity-permaculture]] practical,
+use-and-value-diversity-permaculture practical,
 but are not [[allegro-end-of-a-road-motivation]] the cutting in powder. Apply a thick, even coat. Tap or
 scrape off excess powder, as too much hormone can hinder root growth.
 
@@ -24,11 +25,11 @@ Cervantes documents several well-known products:
 
 - **Clonex** - The first cloning gel; contains IBA, NAA, and anti-bacterial
   agents
-- **Dip 'N Grow** - IBA-based liquid; very high success rate
+- **Dip 'N Grow** - IBA-based liquid; very high [[maitake-fruiting-body-success-rate-management]]
 - **Olivia's Cloning [[water-management]]-soluble tablets from the world's largest
   rooting product manufacturer (500 to 20,000 ppm strengths)
 - **Rootox** - Known for reliable rooting results
-- **Nitrozyme** - Seaweed extract with cytokinins, auxins, enzymes, and
+- **Nitrozyme** - [[comparison-seaweed-extract-vs-fish-hydrolysate]] with cytokinins, auxins, enzymes, and
   gibberellins; spray on [[staycare-fungal-consortia-for-enhanced-pollutant-removal]] results.
 
 To make willow water:
@@ -56,7 +57,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -98,4 +99,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

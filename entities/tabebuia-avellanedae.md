@@ -20,7 +20,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Lock O. (2011). "Bioactive Compounds from Natural Sources." CRC Press.
+  - Lock O. (2011). "query-what-are-the-main-bioactive-compounds-in-medicinal-plants from Natural Sources." CRC Press.
   - Upton R. (2004). "Pau d'Arco (Tabebuia impetiginosa)." American
     Herbal Pharmacopoeia.
   - Ohsaki A, et al. (1998). "Lapachol and related naphthoquinones from
@@ -86,7 +86,7 @@ seeds dispersed by wind.
 
 Native to tropical and subtropical forests from Mexico through Central
 America to northern Argentina and southern Brazil, from sea level to 1500 m
-in primary and secondary forests, cerrado, and gallery forests.
+in primary and secondary forests, cerrado, and [[mollison-designers-gallery-forests-and-valley-bottomland-systems]].
 
 Tolerates a range of soil types including poor, acidic, and rocky substrates.
 Requires well-drained conditions and full sun. Moderately drought-tolerant
@@ -103,16 +103,16 @@ The inner bark is the primary medicinal part, containing:
   apoptosis in cancer cells
 - **Alpha-lapachone** — less studied than beta-isomer
 - **Xyloidone** — antifungal naphthoquinone
-- **Anthraquinones and iridoids** — additional secondary metabolites
+- **Anthraquinones and iridoids** — additional [[antifungal-secondary-metabolites-coprophilous-fungi]]
   contributing to antimicrobial activity
 
 ## Pharmacology and Traditional Uses
 
 **Antimicrobial:** Lapachol exhibits broad-spectrum activity against
 gram-positive bacteria (*S. aureus*, *B. subtilis*), some gram-negative
-species, fungi (*Candida albicans*, *Trichophyton mentagrophytes*), and
+species, fungi (*[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*, *Trichophyton mentagrophytes*), and
 protozoa (*Trypanosoma cruzi*, *Leishmania* spp.). Pau d'arco bark
-decoctions are used traditionally for bacterial and fungal infections.
+decoctions are used traditionally for [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] infections.
 
 **Anticancer:** Beta-lapachone selectively targets NQO1-overexpressing cancer
 cells via NAD(P)H-dependent redox cycling, generating cytotoxic reactive
@@ -123,7 +123,7 @@ prostate, and breast cancer cell lines. Clinical trials are ongoing.
 inflammatory cytokines, supporting traditional use for arthritis and
 inflammatory conditions.
 
-**Traditional preparation:** Inner bark boiled for 15–30 minutes to produce a
+**[[kava-traditional-preparation-ceremonial-context]]:** Inner bark boiled for 15–30 minutes to produce a
 decoction ("lapacho tea"), consumed 2–3 cups daily. Tinctures and capsules
 of dried bark extract are also available commercially.
 

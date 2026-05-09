@@ -1,5 +1,5 @@
 ---
-title: "Linum album and Piriformospora indica Co-Culture for Podophyllotoxin"
+title: "Linum album and piriformospora-indica Co-Culture for Podophyllotoxin"
 created: 2026-04-28
 tags: [linum-album, piriformospora-indica, podophyllotoxin, co-culture,
       secondary-metabolites, phytopharmaceuticals, plant-cell-culture,
@@ -10,7 +10,7 @@ sources: [~/wiki/raw/papers/symbiotic-fungi.md]
 type: concept
 ---
 
-# Linum album and [[agar]] and
+# Linum album and agar and
 germinated at 25 plus or minus 2 degrees C in complete darkness.
 
 ### Callus and Suspension Culture Initiation
@@ -25,9 +25,9 @@ setups.
 
 ## Development of the Fungal Culture
 
-*P. indica* is maintained on MYPG agar (malt extract 3 g/L, yeast extract 3 g/L,
+*P. indica* is maintained on MYPG agar (malt extract 3 g/L, [[marmite-yeast-extract-straw-substrate]] 3 g/L,
 peptone 5 g/L, glucose 10 g/L, agar 20 g/L, pH 6.2) and subcultured monthly.
-For co-culture, fungal inoculum from 5-day-old solid cultures is transferred to
+For co-culture, [[ingham-fungal-inoculum-sourcing]] from 5-day-old solid cultures is transferred to
 Hill and Kaefer's liquid medium and grown at 200 rpm, 30 plus or minus 2 degrees
 C for 5 days. Fungal cells are then centrifuged, washed, and crushed using a
 sterile magnetic bead (15 min at 100 rpm) before addition to plant cell
@@ -42,9 +42,9 @@ concentrations. Critical optimization parameters include:
   cultivation, end of lag phase, middle/late log phase, or early stationary
   phase. Different addition times test various co-cultivation durations (24-96
   hours).
-- **Fungal biomass concentration**: The ratio of fungal to plant cells
+- **[[bioremediation-fungal-biomass-biosorbent-material]] concentration**: The ratio of fungal to plant cells
   significantly affects both plant biomass and metabolite accumulation.
-- **Harvest timing**: Flasks are harvested in duplicate for analysis of
+- **[[cannabis-harvest-timing-visual-cues]]**: Flasks are harvested in duplicate for analysis of
   cumulative biomass, podophyllotoxin accumulation (mg/L), volumetric
   productivity (mg/L/day), and PAL enzyme activity.
 
@@ -65,7 +65,7 @@ neutralization, and absorbance measurement at 650 nm.
 Dried cells are sonicated in methanol at 4-6 degrees C for 15 minutes,
 extracted for 24 hours, centrifuged, and the supernatant evaporated and re-
 dissolved in HPLC-grade methanol. Quantification uses reverse-phase HPLC
-(Nova Pak RP-C18 column, 250 x 4.6 mm) with 0.01% phosphoric acid in water:
+(Nova Pak RP-C18 column, 250 x 4.6 mm) with 0.01% [[cho-water-soluble-phosphoric-acid-preparation]] in water:
 acetonitrile (72:28%, v/v) mobile phase at 0.8 mL/min, detected at 290 nm
 using a diode array detector.
 
@@ -74,7 +74,7 @@ using a diode array detector.
 Fresh plant cells are homogenized in liquid nitrogen with borate buffer (0.1 M,
 pH 8) containing glycerol and beta-mercaptoethanol. Supernatant is incubated
 with phenylalanine at 40 degrees C for 60 minutes. The reaction is stopped with
-HCl, extracted with toluene, and trans-cinnamic acid production measured at 290
+HCl, extracted with toluene, and trans-cinnamic [[staycare-fungal-organic-acid-production-metal-leaching]] measured at 290
 nm. Activity is expressed as mkat/kg protein, with protein determined by the
 Bradford method.
 
@@ -89,6 +89,8 @@ podophyllotoxin that does not depend on endangered plant species. The system is
 protected under Indian patent application 1266/DEL/2007.
 
 ## See Also
+
+- [[linum-usitatissimum]]
 
 - [[mycorrhizal-helper-bacteria-mycorrhizosphere-interactions]]
 - [[chenopodium-album]]

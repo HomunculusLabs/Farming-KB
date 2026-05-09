@@ -47,7 +47,7 @@ Wild populations of *A. konjac* have declined due to habitat loss and overharves
 
 ## Cultivation
 
-Konjac is propagated primarily using small cormels (offset corms) weighing 50–200 g, as seed production from sexual reproduction is slow and variable. Propagation by tissue culture has become increasingly important for disease-free planting material.
+Konjac is propagated primarily using small cormels (offset corms) weighing 50–200 g, as seed production from [[fungal-life-cycles-sexual-reproduction-metamorphosis]] is slow and variable. Propagation by tissue culture has become increasingly important for disease-free planting material.
 
 Planting is done in early spring with spacing of 50–60 cm within rows and 60–80 cm between rows. The crop requires 3–4 years from planting to full corm maturity, though smaller corms can be harvested after 2 years for processing.
 
@@ -63,7 +63,7 @@ Konjac glucomannan (KGM) is a high-molecular-weight polysaccharide with exceptio
 
 In East Asian cuisine, konjac is prepared as noodles (*shirataki*), blocks, and films. *Shirataki* noodles are widely marketed internationally as a low-calorie, low-carbohydrate pasta alternative for weight-loss diets.
 
-Clinical research has demonstrated that konjac glucomannan can reduce blood glucose levels in type 2 diabetes, lower LDL cholesterol, and promote satiety. These health benefits have driven demand for konjac supplements and functional foods globally.
+[[hofmann-lsd-clinical-research-early-studies]] has demonstrated that konjac glucomannan can reduce blood glucose levels in type 2 diabetes, lower LDL cholesterol, and promote satiety. These health benefits have driven demand for konjac supplements and functional foods globally.
 
 Konjac glucomannan has been approved as a food additive by regulatory agencies including the US FDA and the European Food Safety Authority. It is designated GRAS (Generally Recognized As Safe) in the United States for use as a thickener and gelling agent.
 
@@ -73,9 +73,9 @@ Konjac cultivation integrates well with agroforestry systems because the plant t
 
 The crop helps control soil erosion on steep slopes through its dense leaf canopy and extensive root system. The incorporation of post-harvest corm residues adds organic matter to the soil.
 
-Konjac cultivation requires minimal external inputs once established, making it suitable for low-input farming systems. The crop's drought tolerance during the dormant season reduces risk for smallholders in rainfed agriculture.
+Konjac cultivation requires minimal external inputs once established, making it suitable for low-input farming systems. The crop's [[dighton-fungal-drought-tolerance-plant-water-relations]] during the dormant season reduces risk for smallholders in rainfed agriculture.
 
-In permaculture design, konjac can serve as a productive understory crop in warm-temperate food forests. Its low maintenance requirements and high-value harvest make it attractive for diversified small-scale farming.
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], konjac can serve as a productive understory crop in warm-temperate food forests. Its low maintenance requirements and high-value harvest make it attractive for diversified small-scale farming.
 
 The konjac industry has provided important economic opportunities for rural communities in mountainous regions of China, Japan, and Southeast Asia. Processing konjac into flour and finished products adds significant value at the local level.
 
@@ -87,7 +87,7 @@ Leaf blight caused by *Phytophthora* species also poses a significant threat, pa
 
 Nematodes of the genus *Meloidogyne* (root-knot nematodes) can cause substantial damage to corms, reducing both yield and processing quality. Soil fumigation and crop rotation with non-host species are standard management practices.
 
-Insect pests are generally minor, though aphids may transmit viral diseases and thrips can damage young leaves. Integrated pest management combining clean seed, rotation, and biological control is recommended.
+Insect pests are generally minor, though aphids may transmit [[cervantes-viral-diseases-cannabis]] and thrips can damage young leaves. Integrated pest management combining clean seed, rotation, and [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] is recommended.
 
 ## Processing and Industrial Uses
 
@@ -107,6 +107,6 @@ Industrial applications include use as a film-forming agent in biodegradable pac
 - [[cajanus-cajan]]
 - [[smallanthus-sonchifolius]]
 - [[pisum-sativum]]
-- [[lupinus-albus]]
+- lupinus-albus
 - [[canavalia-ensiformis]]
 - [[ceratonia-siliqua]]

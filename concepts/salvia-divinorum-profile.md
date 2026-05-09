@@ -1,10 +1,11 @@
 ---
-title: Salvia Divinorum Profile
+title: golden-guide-salvia-divinorum-and-diviner-sage Profile
 created: 2026-04-17
 updated: 2026-04-18
 type: concept
 tags: [reference]
-sources: []
+sources:
+  sources: []
 ---
 
 # Salvia Divinorum Profile
@@ -22,14 +23,14 @@ Salvia divinorum is a psychoactive plant in the Lamiaceae (mint) family, native 
 ### Psychological Safety
 - **Extreme intensity**: The rapid onset and complete reality dissolution can be terrifying, especially for inexperienced users
 - **Fall risk**: Loss of motor coordination during the peak makes falls and injury a real concern — sitting or lying down is essential
-- **Psychological distress**: Panic, confusion, and fear are common during the experience, though they resolve quickly due to short duration
+- **Psychological distress**: Panic, confusion, and fear are common during the experience, though they resolve quickly due to [[savory-short-duration-grazing-and-cell-systems]]
 - **Not recommended** for those with personal or family history of psychosis, schizophrenia, or severe anxiety disorders
 
 ## Legal Status
 
 Legal status varies significantly by jurisdiction:
 
-- **United States**: Not federally scheduled, though many states have enacted restrictions or bans. DEA has listed it as a "drug of concern" and has considered scheduling.
+- **[[dmt-containing-plants-united-states-halpern]]**: Not federally scheduled, though many states have enacted restrictions or bans. DEA has listed it as a "drug of concern" and has considered scheduling.
 - **Many countries**: Banned or controlled in Australia, several European nations, Japan, and others
 - **Mexico**: Unregulated in most states
 - **Legal gray area**: In jurisdictions without specific regulation, salvia and its extracts may be legally sold and possessed
@@ -66,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

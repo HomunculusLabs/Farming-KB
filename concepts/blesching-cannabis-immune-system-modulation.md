@@ -1,5 +1,5 @@
 ---
-title: Cannabis and Immune System Modulation (Blesching, Cannabis Health Index)
+title: Cannabis and Immune System Modulation (Blesching, blesching-cannabis-health-index-autoimmune-conditions)
 created: 2026-04-26
 updated: 2026-04-25
 sources: "Uwe Blesching, The Cannabis Health Index (CHI)"
@@ -19,8 +19,8 @@ cells (virus-fighting white blood cells), manages inflammatory cytokine
 production, and coordinates healing responses across the entire body.
 
 Blesching's Cannabis Health Index presents extensive evidence that the
-endocannabinoid system plays a central role in immune modulation. While the
-existing page on autoimmune conditions covers specific diseases, this page
+endocannabinoid system plays a central role in [[cancer-immune-modulation-mechanisms]]. While the
+existing page on [[cannabis-autoimmune-conditions-detailed]] covers specific diseases, this page
 focuses on the broader mechanisms by which cannabinoids interact with the
 immune system.
 
@@ -64,7 +64,7 @@ CB2 receptor activation helps suppress the overactive immune response:
   anti-inflammatory action
 - Multiple sclerosis: Cannabinoids reduce spasticity and modulate immune
   attack on myelin
-- Inflammatory bowel disease: ECS activation reduces gastrointestinal
+- [[blesching-cannabis-inflammatory-bowel-disease]] disease: ECS activation reduces gastrointestinal
   inflammation
 
 ### Cancer and Immunity
@@ -92,7 +92,7 @@ The relationship between cannabinoids and cancer immunity is complex:
 Blesching extensively documents (E)-beta-caryophyllene (BCP) as a dietary
 plant-cannabinoid that activates CB2 receptors without psychoactive effects:
 
-- BCP is FDA-approved as a food additive and is found in black pepper, cloves,
+- BCP is FDA-approved as a food additive and is found in [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], cloves,
   cinnamon, basil, rosemary, oregano, and many other common spices
 - Research has shown BCP protects against inflammation, pain, and microbial
   threats
@@ -133,6 +133,8 @@ findings from the mind-body medicine literature:
 - The ECS serves as a bridge between the nervous and immune systems
 
 ## See Also
+
+- [[plant-immune-system-pti-eti]]
 
 - [[blesching-cannabinoid-pharmacology]]
 - [[blesching-cannabis-inflammatory-bowel-disease]]

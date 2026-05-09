@@ -15,7 +15,7 @@ sources:
 
 ## Overview
 
-Mushroom poisoning is a serious medical concern that results from ingestion of toxic fungal species. While the vast majority of mushrooms are harmless, a relatively small number of species contain potent toxins that can cause illness ranging from mild gastrointestinal distress to organ failure and death. Understanding the major toxin classes, the species that produce them, and the symptoms they cause is essential for safe [[mushroom-foraging-safety|mushroom foraging]].
+[[european-mushroom-poisoning-history]] is a serious medical concern that results from ingestion of toxic fungal species. While the vast majority of mushrooms are harmless, a relatively small number of species contain potent toxins that can cause illness ranging from mild gastrointestinal distress to organ failure and death. Understanding the major toxin classes, the species that produce them, and the symptoms they cause is essential for safe [[mushroom-foraging-safety|mushroom foraging]].
 
 ## Major Toxin Classes
 
@@ -26,8 +26,8 @@ The most dangerous mushroom toxins, responsible for the majority of fatal mushro
 **Chemistry:** Cyclic octapeptides (alpha-amanitin, beta-amanitin, gamma-amanitin, amanin) that inhibit RNA polymerase II, effectively halting protein synthesis in cells. Without protein synthesis, cells cannot maintain themselves and die.
 
 **Species containing amatoxins:**
-- **Amanita phalloides** (death cap): The single most dangerous mushroom. Native to Europe but now established in North America and elsewhere. Responsible for the majority of fatal mushroom poisonings.
-- **Amanita virosa** and **Amanita verna** (destroying angels): North American species containing lethal amatoxin concentrations
+- **Amanita phalloides** (death cap): The single most dangerous mushroom. Native to Europe but now established in [[psilocybin-north-america-pacific-northwest]] and elsewhere. Responsible for the majority of fatal mushroom poisonings.
+- **Amanita virosa** and **Amanita verna** (destroying angels): [[growing-gourmet-north-american-reishi-species]] species containing lethal amatoxin concentrations
 - **Galerina marginata** and other Galerina species: Small brown mushrooms that can be confused with [[psilocybe-genus-classification|Psilocybe]] species by recreational mushroom hunters
 - **Lepiota species** (parasol mushrooms): Some species contain amatoxins
 
@@ -77,7 +77,7 @@ The long latency period makes orellanine poisoning particularly insidious, as vi
 **Species:**
 - **Inocybe species** (fiber heads): Common lawn and garden mushrooms containing dangerous levels of muscarine
 - **Clitocybe species** (funnel caps): Some species contain muscarine
-- **Amanita muscaria** (fly agaric): Despite its name, contains very little muscarine; its effects are primarily from ibotenic acid and muscimol
+- **[[allegro-amanita-muscaria-properties-and-pharmacology]]** (fly agaric): Despite its name, contains very little muscarine; its effects are primarily from ibotenic acid and muscimol
 
 **Symptoms:** SLUDGE syndrome -- Salivation, Lacrimation, Urination, Defecation, Gastrointestinal distress, Emesis. Symptoms appear within 30 minutes to 2 hours.
 
@@ -111,11 +111,11 @@ The long latency period makes orellanine poisoning particularly insidious, as vi
 
 ### Key Principles
 
-- There is no single reliable rule or test to distinguish edible from poisonous mushrooms (the "old wives' tales" about silver spoons, peeling caps, or animal consumption are unreliable)
+- There is no single reliable rule or test to distinguish edible from [[palmer-poisonous-mushrooms-deadly-species]] (the "old wives' tales" about silver spoons, peeling caps, or animal consumption are unreliable)
 - Positive identification to species level is the only safe approach
 - Multiple features must be considered: cap, gills, stem, ring, volva, spore print color, bruising reactions, habitat, and association
 - When in doubt, do not eat it
-- [[mushroom-identification|mushroom identification]] resources and local mycological societies provide essential support
+- [[psilocybin-mushroom-identification-guide]] resources and local mycological societies provide essential support
 
 ### Particularly Dangerous Look-Alikes
 

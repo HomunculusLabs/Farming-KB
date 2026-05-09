@@ -45,7 +45,7 @@ Molecular phylogenetics has revealed at least 15–20 cryptic species within the
 
 ## Morphology
 
-The fungus produces a conspicuous stroma ([[food-forest-understory-plants]]0–25°C, matching the microclimate of the forest understory.
+The fungus produces a conspicuous stroma (food-forest-understory-plants0–25°C, matching the microclimate of the forest understory.
 
 ## Host Range and Specificity
 
@@ -57,7 +57,7 @@ Infection occurs when foraging ants encounter fungal spores on the forest floor,
 
 The fungus penetrates the cuticle using a combination of mechanical pressure and enzymatic degradation (cutinases, proteases, chitinases).
 
-Once inside the hemocoel, the fungus proliferates as yeast-like hyphal bodies that evade the host immune system for several days.
+Once inside the hemocoel, the fungus proliferates as yeast-like hyphal bodies that evade the [[fungal-virulence-factors-host-immune-evasion]] system for several days.
 
 ## Behavioral Manipulation Mechanism
 
@@ -81,7 +81,7 @@ Some ant species groom infected individuals to remove spores before germination,
 
 The fungus creates localized infection zon [[query-how-do-parasitoid-wasps-control-pest-populations]] floor, generating "graveyards" of dead ants that can contain dozens of cadavers.
 
-Parasitoid wasps and hyperparasitic fungi (e.g., *Tolypocladium* species) attack the *Ophiocordyceps* stroma, forming a complex multi-trophic interaction web.
+[[comparison-parasitoid-wasps-vs-chemical-pesticides]] and hyperparasitic fungi (e.g., *Tolypocladium* species) attack the *Ophiocordyceps* stroma, forming a complex multi-trophic interaction web.
 
 This system has become a model for studying host-parasite coevolution and the evolution of extended phenotypes.
 
@@ -92,6 +92,10 @@ Laboratory cultivation is challenging due to the obligate requirement for living
 The fungus can be maintained on artificial media (PDA, SDA) as a saprotrophic phase, but fruiting requires infection of live ants.
 
 ## See Also
+
+- [[entomophthora-muscae]]
+
+- [[ophiocordyceps-sinensis]]
 
 - 
 
@@ -108,5 +112,7 @@ The fungus can be maintained on artificial media (PDA, SDA) as a saprotrophic ph
 - ](purpureocillium-lilacinum.md)
 
 ## See Also
-- [[mycoforestry-forest-management-with-fungi]]
+
+- [[entomophthora-muscae]]
+- mycoforestry-forest-management-with-fungi
 - [[teaming-with-microbes-old-growth-forest]]

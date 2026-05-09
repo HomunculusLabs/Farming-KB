@@ -4,7 +4,7 @@ created: 2026-04-26
 updated: 2026-04-23
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
-  - JADAM Organic Farming: The Way to Ultra-Low-Cost Agriculture ([[youngsang-cho]], 2016)
+  - JADAM [[coleman-deep-organic-farming-philosophy]]: The Way to Ultra-Low-Cost Agriculture (youngsang-cho, 2016)
 type: concept
 tags: [jadam, plant-growth]
 ---
@@ -16,12 +16,12 @@ fungicides and chemical coatings to protect seeds from soil-borne
 pathogens. JADAM replaces these chemical treatments with natural methods
 that are equally effective, cost nothing, and can be performed by any
 farmer using locally available materials. Seed self-sufficiency is a
-pillar of [[jadam-local-material-collection-and-use]] philosophy used throughout JADAM farming:
+pillar of [[jadam-local-material-collection-and-use]] philosophy used throughout [[query-what-is-jadam-farming-and-how-does-it-work]]:
 
 - **Plant extracts**: Infusions of pesticidal herbs used in
   [[jadam-sulfur-germicide-js]]): A diluted
   solution of JS in the treatment water provides powerful germicidal
-  action against fungal pathogens.
+  action against [[bloomfield-fungal-pathogens-and-parasites]].
 
 ### Practical Immersion Protocol
 
@@ -57,7 +57,7 @@ stages:
    stored properly to prevent post-treatment contamination.
 
 Cho reports that JADAM seed treatment methods have proven effective in
-controlling bakanae disease in the Bongha village rice farming community,
+controlling bakanae disease in the [[jadam-bongha-village-proof]] rice farming community,
 where chemical seed treatments have been entirely replaced with JADAM
 methods.
 
@@ -67,7 +67,7 @@ Proper seed storage is essential for maintaining viability between
 seasons. JADAM seed storage principles include:
 
 - **Complete drying**: Seeds must be thoroughly dried before storage to
-  prevent mold growth and maintain germination rates. Moisture content
+  [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]] growth and maintain germination rates. Moisture content
   should be below 13% for most grain crops.
 - **Cool, dark location**: Store seeds away from direct sunlight and
   heat sources. Temperature fluctuations reduce seed viability.
@@ -87,7 +87,7 @@ farmers to select for traits adapted to their specific local conditions.
 Seed saving requires attention to:
 - Maintaining genetic purity by preventing cross-pollination
 - Selecting seeds from the healthiest, most vigorous plants
-- Proper drying and storage to maintain viability
+- Proper [[psilocybin-mushroom-drying-and-storage-methods]] to maintain viability
 - Regular germination testing to confirm seed quality
 
 Combined with JADAM's natural seed treatment methods, seed self-sufficiency
@@ -96,5 +96,9 @@ costs that drive conventional farming expenses upward.
 
 ## See Also
 
+- [[jadam-seed-treatment-and-nursery-management]]
+- [[jadam-seed-seedling-treatment]]
+
 - jadam seed treatment and storage
 - jadam seed treatment and storage
+- [[jadam-seed-treatment-leaf-mold]]

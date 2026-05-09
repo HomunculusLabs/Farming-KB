@@ -6,7 +6,7 @@ fruiting. Unlike the bulk substrate, casing soil does not provide
 significant nutrition to the fungus — its primary functions are
 moisture retention, provision of a humid microclimate at the
 substrate surface, and creation of conditions that trigger the
-biological switch from vegetative growth to reproductive
+biological switch from [[cannabis-vegetative-growth-stage]] to reproductive
 (fruiting) development.
 
 ## Purpose of Casing
@@ -17,8 +17,8 @@ fruiting process:
 - **Moisture reservoir**: The casing holds water and slowly
   releases it to the developing mushrooms, preventing the
   substrate from drying out during the fruiting cycle.
-- **Microclimate creation**: It creates a humid zone at the
-  substrate surface where pinning (primordia formation) occurs.
+- **[[mollison-designers-microclimate-creation-frost-protection]]**: It creates a humid zone at the
+  substrate surface where pinning ([[growing-gourmet-primordia-formation-pinning]]) occurs.
   Mushrooms require very high humidity (85-95%) at the pinning
   stage.
 - **Environmental buffering**: The casing buffers temperature
@@ -27,7 +27,7 @@ fruiting process:
 - **Trigger for fruiting**: Physical and chemical properties of
   the casing soil, along with the introduction of fresh air and
   light, signal the mycelium to shift from vegetative to
-  reproductive growth.
+  [[knf-reproductive-growth-stage]].
 
 ## Standard Casing Recipe
 
@@ -39,7 +39,7 @@ proportions:
 - 2 parts limestone (marl)
 
 The peat moss provides the organic matrix that holds moisture
-and supports mycelial growth at the surface. Vermiculite improves
+and supports [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] at the surface. Vermiculite improves
 water retention and aeration, preventing the casing from becoming
 compacted. Limestone (calcium carbonate in the form of marl) is
 essential for pH adjustment — mushroom mycelium and contaminant
@@ -78,7 +78,7 @@ results is to sterilize the casing soil fully, as the risk of
 introducing competitors through non-sterile casing outweighs any
 theoretical benefits of beneficial microorganisms. This is
 especially true for indoor cultivation where the natural
-microbial community is already disrupted.
+[[edaphic-factors-microbial-community-structure]] is already disrupted.
 
 ## Application
 

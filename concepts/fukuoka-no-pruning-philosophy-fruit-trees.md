@@ -1,18 +1,19 @@
 ---
-title: Fukuoka No-Pruning Philosophy for Fruit Trees
+title: Fukuoka No-Pruning Philosophy for comparison-pruning-fruit-trees-vs-grafting-fruit-trees
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # No-Pruning Philosophy for Fruit Trees
 
 updated: 2026-04-18
 
-Pruning is considered the most difficult skill in fruit growing, yet Fukuoka argued it is fundamentally unnecessary — indeed harmful — when trees are grown under natural conditions from the start. The argument against pruning is one of the most radical aspects of his [[fukuoka-natural-orchard-development]]:
+Pruning is considered the most difficult skill in [[holzer-fruit-growing-marginal-climates]], yet Fukuoka argued it is fundamentally unnecessary — indeed harmful — when trees are grown under natural conditions from the start. The argument against pruning is one of the most radical aspects of his [[fukuoka-natural-orchard-development]]:
 - Trees must never be pruned from the very beginning
 - The natural form of the tree must be allowed to develop from seed
 - Grafted or previously pruned trees cannot fully revert to natural form
@@ -100,4 +101,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

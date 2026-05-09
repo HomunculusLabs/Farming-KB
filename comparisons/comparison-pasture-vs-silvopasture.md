@@ -1,5 +1,5 @@
 ---
-title: Pasture Management vs Silvopasture Systems
+title: grassland-pasture-management-mollison vs Silvopasture Systems
 created: 2026-04-28
 tags:
   - pasture
@@ -9,13 +9,14 @@ tags:
   - livestock
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
 # Pasture Management vs Silvopasture Systems
 
-A detailed comparison of conventional [[silvopasture-systems]], examining forage production, carbon sequestration,
+A detailed comparison of conventional [[silvopasture-systems]], examining forage production, [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]],
 livestock welfare, establishment requirements, and long-term productivity.
 Both approaches support [[biochar-soil-remediation]] or maximizing land-
 based carbon drawdown, silvopasture is one of the most effective practices.
@@ -23,7 +24,7 @@ based carbon drawdown, silvopasture is one of the most effective practices.
 ## Livestock Welfare and Performance
 
 Silvopasture provides significant welfare benefits through shade. Tree canopy
-reduces ambient temperature by 10-15°F compared to open sun, directly reducing
+reduces [[jadam-ambient-temperature-principle]] by 10-15°F compared to open sun, directly reducing
 heat stress in livestock. Shade extends the effective grazing season during hot
 months. Different livestock species adapt to different canopy densities:
 
@@ -59,11 +60,11 @@ This diversification reduces financial risk and improves per-acre profitability.
 
 ## Management Complexity
 
-Open pasture management is relatively straightforward once rotational grazing
+Open pasture management is relatively straightforward once [[comparison-rotational-grazing-vs-continuous-grazing]]
 principles are understood. Silvopasture adds layers of complexity: tree care
 (pruning, thinning, health monitoring), canopy management to balance forage
-production with tree growth, and coordination of livestock grazing with tree
-phenology. Nutrient management is also more complex as tree roots compete with
+production with tree growth, and coordination of [[savory-livestock-grazing-planning]] with tree
+phenology. [[green-cannabis-grow-bible-nutrient-management-ppm]] is also more complex as tree roots compete with
 forage for available resources.
 
 ## When to Choose Each System

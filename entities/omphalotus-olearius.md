@@ -34,7 +34,7 @@ It was long placed in Clitocybe or Pleurotus before molecular phylogenetics
 supported its placement in Omphalotaceae.
 The genus Omphalotus contains several species worldwide, all sharing the
 characteristic of bioluminescence and toxicity.
-North American populations once attributed to O. olearius have been reclassified
+[[growing-gourmet-north-american-reishi-species]] populations once attributed to O. olearius have been reclassified
 as O. illudens and O. olivascens.
 The specific epithet "olearius" refers to its association with olive trees
 (Olea europaea), a common host in its Mediterranean range.
@@ -77,8 +77,8 @@ Symptoms of poisoning typically begin 30 minutes to 2 hours after ingestion and 
 In severe cases, dehydration, electrolyte imbalance, and hypotension may require hospitalization.
 Symptoms are generally self-limiting and resolve within 24–72 hours; fatalities are extremely rare but have been reported.
 The toxin is heat-stable, meaning cooking does not neutralize it.
-Illudin S has attracted significant pharmacological interest as a potential anticancer agent, inspiring synthetic derivatives such as irofulven (hydroxymethylacylfulvene), which entered clinical trials.
-Additional secondary metabolites include illudin M and volatile organic compounds responsible for the mushroom's characteristic odor.
+Illudin S has attracted significant pharmacological interest as a potential anticancer agent, inspiring synthetic derivatives such as irofulven (hydroxymethylacylfulvene), which entered [[mushroom-cancer-clinical-trials-overview]].
+Additional [[antifungal-secondary-metabolites-coprophilous-fungi]] include illudin M and [[fungal-volatile-organic-compounds-communication]] compounds responsible for the mushroom's characteristic odor.
 ## Edibility Warnings
 Omphalotus olearius is POISONOUS and must never be consumed.
 The most dangerous aspect of this mushroom is its resemblance to the edible chanterelle (Cantharellus cibarius), leading to frequent misidentification.
@@ -88,7 +88,7 @@ There is no reliable method of detoxification; cooking, drying, and parboiling a
 Individuals who suspect they have ingested O. olearius should seek immediate medical attention.
 ## Ecological Role
 O. olearius functions primarily as a white-rot saprobe, breaking down lignin and cellulose in dead hardwood.
-It contributes to nutrient cycling in forest and olive-grove ecosystems.
+It contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest and olive-grove ecosystems.
 The fungus can act as a weak parasite on stressed or injured trees, accelerating their decline.
 Its fruiting bodies provide habitat and substrate for various invertebrates.
 The bioluminescent glow may play a role in attracting spore-dispersing insects, though this remains experimentally unconfirmed in O. olearius specifically.
@@ -118,7 +118,9 @@ It appears in numerous field guides as a textbook example of a dangerous edible-
 - Flesh orange, firm
 ## See Also
 
-- [[amanita-muscaria-entity]] — Another poisonous mushroom with distinctive appearance
+- [[omphalotus-olivascens]]
+
+- [[amanita-muscaria-entity]] — Another [[growing-gourmet-poisonous-mushroom-lookalikes]] with distinctive appearance
 - [[psilocybe-cubensis]] — A gilled mushroom with different bioactive properties
 
 See also: [[jack-o-lantern]]

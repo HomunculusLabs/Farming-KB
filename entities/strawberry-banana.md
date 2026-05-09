@@ -22,9 +22,9 @@ created: 2026-04-28
 
 ## Overview
 
-**Strawberry Banana** (also known as Strawberry Banana Kush) is an indica-dominant hybrid cannabis strain created by crossing **Banana Kush** with the phenotype **Strawberry Bubblegum** (sometimes listed as Bubblegum × Strawberry). It was developed by the breeder **Sensi Seeds** and gained widespread recognition after winning **1st Place Hybrid** at the 2015 High Times Cannabis Cup in Michigan.
+**Strawberry Banana** (also known as Strawberry Banana Kush) is an indica-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] created by crossing **Banana Kush** with the phenotype **Strawberry Bubblegum** (sometimes listed as Bubblegum × Strawberry). It was developed by the breeder **Sensi Seeds** and gained widespread recognition after winning **1st Place Hybrid** at the 2015 High Times Cannabis Cup in Michigan.
 
-The strain is celebrated for its tropical fruit-forward aroma, heavy resin production, and potent sedative effects that transition from uplifting cerebral stimulation to full-body relaxation.
+The strain is celebrated for its tropical fruit-forward aroma, heavy [[cannabis-glandular-trichome-types-resin-production-clarke]], and potent sedative effects that transition from uplifting cerebral stimulation to full-body relaxation.
 
 Its genetic stability and exceptional trichome density have made it a popular parent in modern breeding programs, with notable progeny including **Strawberry Banana Kush** crosses and several resin-focused phenotypes.
 
@@ -43,7 +43,7 @@ Buds are medium to large, dense, and conical with a chunky structure typical of 
 
 The most notable visual feature is the **exceptional trichome coverage** — mature flowers develop a thick, frosty white resin layer that often extends onto the sugar leaves and small fan leaves nearby. This trait makes the strain particularly attractive for solventless extraction.
 
-Color ranges from bright spring green to deeper forest green, with occasional purple hues appearing in cooler growing conditions. The resin glands are large and bulbous, visible to the naked eye.
+Color ranges from bright spring green to deeper [[trichoderma-forest-green-mold-guide]], with occasional purple hues appearing in cooler growing conditions. The resin glands are large and bulbous, visible to the naked eye.
 
 ## Aroma and Flavor
 
@@ -78,7 +78,7 @@ The high THC content places Strawberry Banana firmly in the potent category. Nov
 
 **Duration:** 2–3 hours, with residual body effects persisting for an additional hour.
 
-Common applications include stress relief, mild pain management, appetite stimulation, and evening relaxation. The strain is not recommended for daytime use by most consumers.
+Common applications include stress relief, mild [[cannabis-pain-management-protocols]], appetite stimulation, and evening relaxation. The strain is not recommended for daytime use by most consumers.
 
 ## Cultivation
 
@@ -88,13 +88,13 @@ Common applications include stress relief, mild pain management, appetite stimul
 
 **Difficulty:** Moderate — the strain is relatively forgiving but requires attention to humidity during late flowering due to dense bud structure.
 
-It performs well in both soil and hydroponic setups. Sea of Green (SOG) training maximizes yield in confined spaces. The plants respond well to low-stress training (LST) and defoliation to improve light penetration to lower bud sites.
+It performs well in both soil and hydroponic setups. [[comparison-sea-of-green-vs-screen-of-green]] (SOG) training maximizes yield in confined spaces. The plants respond well to low-stress training (LST) and defoliation to improve light penetration to lower bud sites.
 
 Outdoor harvest occurs in early to mid-October. The strain is moderately resistant to mold and pests but benefits from dry conditions during the final two weeks of flowering.
 
 ## Side Effects
 
-Common adverse effects include dry mouth and dry eyes, typical of high-THC varieties. At higher doses, some users report mild anxiety or paranoia, particularly during the initial cerebral phase.
+Common [[blesching-cannabis-safety-adverse-effects-evidence]] include dry mouth and dry eyes, typical of high-THC varieties. At higher doses, some users report mild anxiety or paranoia, particularly during the initial cerebral phase.
 
 Couch-lock is common at doses above personal tolerance thresholds. The sedative effects can be overwhelming for consumers with low THC tolerance, potentially causing premature drowsiness.
 
@@ -107,6 +107,8 @@ Several breeders have selected for specific traits within Strawberry Banana gene
 Resin-focused selections have been developed specifically for solventless extraction, with trichome yields exceeding 25% by weight in some phenotypes. These hash-plant variants typically show reduced branching and tighter internodal spacing.
 
 ## See Also
+
+- [[strawberry-cough]]
 
 - [[granddaddy-purple]]
 - [[runtz-entity]]

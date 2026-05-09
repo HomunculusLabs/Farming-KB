@@ -1,5 +1,5 @@
 ---
-title: dynamic accumulators overview
+title: comparison-dynamic-accumulators-vs-cover-crops overview
 created: 2026-04-28
 tags:
 permacultureture
@@ -69,11 +69,11 @@ sources. Joseph Cocannouer's 1950 book "Weeds: Guardians of the Soil"
 was among the first to popularize the idea that weeds serve important
 soil-building functions. Other foundational works include Ben Easey's
 "Practical [[dynamic-accumulators]]
-- [[mollison-designers-dynamic-accumulators-comfrey]]
+- mollison-designers-dynamic-accumulators-comfrey
 
-- Legume nitrogen fixation is the most well-documented example of true
-  bioaccumulation icover-crops Cover crops and green manures provide a practical framework for using
-  accumulator plants in [[fungal-diversity-agricultural-systems]].
+- Legume [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] is the most well-documented example of true
+  bioaccumulation icover-crops Cover [[cover-crops-green-manures]] manures provide a practical framework for using
+  accumulator plants in fungal-diversity-agricultural-systems.
 - Phosphate accumulators like buckwheat and mustard play a critical role
   in liberating bound phosphorus from soil minerals.
 ## Practical Considerations
@@ -94,4 +94,9 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[dynamic-accumulators]]
+- [[decomposition]]
+- [[comparison-dynamic-accumulators-vs-cover-crops]]
+- [[dynamic-nutrient-accumulators]]
+- [[query-what-are-the-best-dynamic-accumulators-for-permaculture]]

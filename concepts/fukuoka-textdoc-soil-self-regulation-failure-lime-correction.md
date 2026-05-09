@@ -23,7 +23,7 @@ type: concept
 
 ## Overview
 
-Fukuoka's postwar experiment with applying large quantities of sawdust and wood chips to his orchard soil, contrary to expert advice, demonstrated that soil possesses its own self-regulating mechanisms for maintaining chemical balance. The predicted acidification never occurred because microbial succession naturally moved the soil toward equilibrium. This experience became a foundational case study in the natural farming argument for non-intervention in soil management.
+Fukuoka's postwar experiment with applying large quantities of sawdust and [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]] to his orchard soil, contrary to expert advice, demonstrated that soil possesses its own self-regulating mechanisms for maintaining chemical balance. The predicted acidification never occurred because microbial succession naturally moved the soil toward equilibrium. This experience became a foundational case study in the [[natural-farming]] argument for non-intervention in soil management.
 
 ## The Sawdust Experiment
 
@@ -31,7 +31,7 @@ Right after the war, Fukuoka used large quantities of sawdust and wood chips in 
 
 Yet the soil did not turn acid, so lime was not needed. The experts' prediction was not wrong in a narrow sense, but it captured only one moment in a dynamic process and prescribed a fix for that moment without understanding the full sequence of transformations that would follow.
 
-## Phase One: Bacterial Decomposition
+## Phase One: Bacterial [[decomposition]]
 
 What happens when sawdust is applied to soil is a precisely ordered microbial succession that unfolds in three distinct phases.
 
@@ -41,7 +41,7 @@ First, bacteria begin decomposing the sawdust, and organic acids are produced as
 
 Second, as the acidity rises, bacterial growth levels off and molds begin to flourish. The molds are adapted to the more acidic conditions and continue the decomposition process where the bacteria left off.
 
-The transition from bacteria to molds is entirely self-regulating. No human intervention is needed to orchestrate the handoff from one microbial community to the next.
+The transition from bacteria to molds is entirely self-regulating. No human intervention is needed to orchestrate the handoff from one [[edaphic-factors-microbial-community-structure]] to the next.
 
 ## Phase Three: Fungal Maturation
 
@@ -77,7 +77,7 @@ This distinction has profound implications for how agriculture should be practic
 
 Fukuoka draws a direct parallel between the sawdust-lime case and the treatment of crop diseases. Believing rice blast to be caused by the infiltration of rice blast bacteria, farmers are convinced beyond a doubt that the disease can be dispelled by spraying copper or mercury agents. However, the truth is not so simple.
 
-High temperatures and heavy rainfall may be contributing factors, as may the over-application of nitrogenous fertilizers. Perhaps flooding of the paddy during a period of high temperature weakened the roots, or the variety of rice being grown has a low resistance to rice blast disease.
+High temperatures and heavy rainfall may be [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]], as may the over-application of nitrogenous fertilizers. Perhaps flooding of the paddy during a period of high temperature weakened the roots, or the variety of rice being grown has a low resistance to rice blast disease.
 
 ## The Pesticide Panacea
 
@@ -107,7 +107,7 @@ When man sees a brown spot on a leaf, he calls it abnormal. His confident soluti
 
 ## Philosophical Implications
 
-The sawdust experiment illustrates a core principle of natural farming: that nature is self-regulating and that human intervention, however well-intentioned, typically disrupts rather than assists natural processes.
+The sawdust experiment illustrates a core principle of [[comparison-natural-farming-vs-permaculture]]: that nature is self-regulating and that human intervention, however well-intentioned, typically disrupts rather than assists natural processes.
 
 The farmer who applies lime to correct acidity is like a person who tries to help a wound heal by constantly picking at the scab. The body, like the soil, has its own healing mechanisms that work best when left undisturbed.
 

@@ -1,5 +1,5 @@
 ---
-title: "Humus and Organic Matter in Permaculture Soils"
+title: "Humus and hamilton-composting-and-organic-matter-management in Permaculture Soils"
 created: 2026-04-26
 tags:
   - permaculture
@@ -19,14 +19,14 @@ type: concept
 Mollison treats humus as the foundation of soil health, structure, and
 fertility. Understanding the role of organic matter in soils is essential
 for any permaculture practitioner, as humus is the primary factor
-determining water retention, erosion resistance, nutrient availability,
+determining water retention, erosion resistance, [[ph-and-nutrient-availability-garden-soils]],
 and the complex soil food web that sustains plant life.
 
 ## The Humus Content of Soils
 
 Soils in nature can vary from a humus content of 2% to close to 100%
 (as peats). In gardens, 40% or more humus helps block heavy metal uptake
-by plants, holding heavy metals bound in colloids. Many compost-fed or
+by plants, holding [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] bound in colloids. Many compost-fed or
 mulched garden soils contain 10-30% humus, with some much more.
 
 The effect of adequate soil humus is both physical -- effecting good
@@ -68,7 +68,7 @@ but the entire biological infrastructure that humus supports.
 - Buffers pH changes, allowing plants to grow across wider pH ranges.
 - Stimulates root development dramatically even at levels of 60 ppm
   carbon.
-- The humic acids assist root development and nutrient uptake.
+- The humic acids assist root development and [[plant-nutrient-uptake-mechanisms]].
 
 ### Biological Effects
 - Supports earthworm populations, which only increase under mulch.
@@ -92,7 +92,7 @@ K) remain at satisfactory levels.
 It can take 3-5 years to create a balanced soil under mulch from a
 compacted or mined-out soil. Even longer periods are necessary to develop
 humus in permanent crops on the broad scale, where added mulch is not
-carried to the site but derived from tree wastes and green manures
+carried to the site but derived from tree wastes and [[jeavons-green-manures-cover-crops]]
 produced on site.
 
 ## Compost and Humus
@@ -105,7 +105,7 @@ heaps do not lose nitrogen but neither do they kill weed seeds.
 Chinese scientists combine both approaches by first building an aerated
 heap with bamboo poles as air tunnels, heating to 55-60 degrees C for a
 few days, then sealing all holes so the rest of the decay is anaerobic.
-One percent of superphosphate added to a hot compost heap prevents
+One percent of superphosphate added to a [[query-what-is-the-difference-between-hot-compost-and-cold-compost]] heap prevents
 ammonia escape.
 
 ## Long-Term Humus Maintenance
@@ -118,9 +118,9 @@ and green manures produced on site.
 
 ## Integration with Permaculture Systems
 
-- [[mollison-composting-methods]] for compost production methods.
-- [[mollison-green-manure-soil-fertility]] for green manure crops.
-- [[permaculture-soil-biota-and-earthworms]] for soil life management.
+- mollison-composting-methods for compost production methods.
+- mollison-green-manure-soil-fertility for green manure crops.
+- permaculture-soil-biota-and-earthworms for soil life management.
 
 ## Key Principles
 
@@ -134,3 +134,9 @@ and green manures produced on site.
 5. 40% humus in garden soils blocks heavy metal uptake by plants.
 6. Closing the nutrient loop through composting and returning wastes
   maintains long-term humus levels.
+## See Also
+- [[mollison-designers-humus-building-and-soil-organic-matter]]
+- [[soil-food-web]]
+- [[green-manure-crops]]
+- [[humus-formation-and-soil-organic-matter]]
+- [[savory-soil-organic-matter-and-decomposition-dynamics]]

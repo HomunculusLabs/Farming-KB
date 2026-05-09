@@ -1,20 +1,21 @@
 ---
-title: Holzer Mushroom Cultivation Experiments
+title: Holzer accessible-mushroom-cultivation-for-disabilities Experiments
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
+  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Mushroom Cultivation Experiments
 
-Sepp Holzer has experimented with mushroom cultivation at his Krameterhof farm at altitudes up to 1,500 meters, challenging expert opinions about what is possible. His approach exemplifies the [[shiitake-mushroom-cultivation]] literature recommends temperatures between 7-25 degrees C for fruiting, with optimal fruiting at 15-20 degrees C. At 1,500 meters in the Austrian Alps, temperatures regularly drop well below these ranges. Holzer's success suggests that the microclimate created by burying the log provides sufficient thermal buffering through direct soil contact and moisture retention.
+[[comparison-sepp-holzer-vs-biodynamic]] has experimented with mushroom cultivation at his Krameterhof farm at altitudes up to 1,500 meters, challenging expert opinions about what is possible. His approach exemplifies the [[shiitake-mushroom-cultivation]] literature recommends temperatures between 7-25 degrees C for fruiting, with optimal fruiting at 15-20 degrees C. At 1,500 meters in the Austrian Alps, temperatures regularly drop well below these ranges. Holzer's success suggests that the microclimate created by burying the log provides sufficient thermal buffering through direct soil contact and moisture retention.
 
 ## Mushroom Cultivation on Living Trees
 
-After the successful log experiment, Holzer tried growing mushrooms on living wood:
+After the successful log experiment, Holzer tried [[falconer-growing-mushrooms-in-sheds]] on living wood:
 
 1. Bored holes in several broadleaf trees using a hand brace
 
@@ -30,13 +31,13 @@ Living trees possess active defense mechanisms against fungal colonization, incl
 
 ## Integration with Farm Systems
 
-Mushroom cultivation at the Krameterhof is not treated as a standalone enterprise but is integrated into the overall farm design. Mushroom logs are placed in sheltered areas between fruit trees, logs that have exhausted their productive life are used as habitat for beneficial insects, and mycelium-rich soil from around old logs is spread to garden beds to improve soil biology. This systems-level thinking is characteristic of Holzer's approach and reflects the [[outdoor-mushroom-cultivation]], [[holzer-bone-salve-making]]
+Mushroom cultivation at the Krameterhof is not treated as a standalone enterprise but is integrated into the overall farm design. [[holzer-mushroom-logs-mycorrhizae-and-fungi-cultivation]] are placed in sheltered areas between [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], logs that have exhausted their productive life are used as [[query-how-do-i-design-habitat-for-beneficial-insects]] insects, and mycelium-rich soil from around old logs is spread to garden beds to improve soil biology. This systems-level thinking is characteristic of Holzer's approach and reflects the [[outdoor-mushroom-cultivation]], holzer-bone-salve-making
 
-- [[holzer-slug-snail-management]]
+- holzer-slug-snail-management
 
 - [[sepp-holzer-mushroom-cultivation]]
 
-- [[holzer-wild-mushroom-cultivation]]
+- holzer-wild-mushroom-cultivation
 ## Practical Applications
 
 Holzer Mushroom Cultivation Experiments has a range of practical applications that make it relevant to
@@ -114,4 +115,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

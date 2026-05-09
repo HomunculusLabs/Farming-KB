@@ -12,14 +12,14 @@ Members of the order Mucorales are the richest fungal sources of chitosan, with 
 
 - **Mucor rouxii (Rhizomucor miehei)**: The most studied fungal chitosan source, producing chitosan with 85–95% deacetylation directly in the cell wall, without requiring additional chemical deacetylation
 - **Absidia coerulea**: Produces chitosan with high molecular weight and crystallinity, suitable for biomedical applications
-- **Rhizopus oryzae**: Widely used in solid-state fermentation for chitosan production from [[aspergillus-niger]] iger**: Produces chitosan-rich biomass when cultivated on specific nitrogen sources; widely used in industrial fermentation
-[[spent-mushroom-substrate]] rate from commercial cultivation contains recoverable chitin/chitosan, creating a circular economy opportunity
+- **Rhizopus oryzae**: Widely used in solid-state fermentation for chitosan production from  iger**: Produces chitosan-rich biomass when cultivated on specific nitrogen sources; widely used in industrial fermentation
+[[spent-mushroom-substrate]] rate from commercial cultivation contains recoverable chitin/chitosan, creating a [[zeri-circular-economy-systems]] opportunity
 [[botrytis-cinerea]], Fusarium spp., Alternaria spp., Phytophthora spp., and various bacterial plant pathogens
-- **Induced systemic resistance (ISR)**: Chitosan application triggers plant defense pathways including:
+- **[[endophytic-mycorrhizal-induced-systemic-resistance]] resistance (ISR)**: Chitosan application triggers plant defense pathways including:
   - Callose deposition at infection sites
   - Chitinase and β-1,3-glucanase upregulation
   - Phytoalexin biosynthesis (capsidiol, resveratrol)
-  - Jasmonic acid and salicylic acid signaling cascade activation
+  - Jasmonic acid and [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]] signaling cascade activation
   - Reactive oxygen species (ROS) burst at the plasma membrane
 
 ### Seed Coating and Germination Enhancement
@@ -29,7 +29,7 @@ Chitosan seed coatings improve germination rates and seedling vigor:
 - Enhances water uptake through semi-permeable film formation
 - Provides antimicrobial protection during vulnerable germination period
 - Stimulates root development through auxin-like activity
-- Typical application rates: 0.1–1.0% chitosan solution as seed soak or coating
+- Typical [[ingham-compost-tea-application-rates-and-timing]]: 0.1–1.0% chitosan solution as seed soak or coating
 
 ### Soil Amendment
 
@@ -38,7 +38,7 @@ When applied to soil, chitosan:
 - Modifies soil microbial communities, generally increasing beneficial bacteria (Pseudomonas, Bacillus) and reducing pathogen populations
 - Chelates micronutrients (Fe, Zn, Mn, Cu), improving their availability to plants
 - Improves soil aggregate stability through polysaccharide-mediated particle binding
-- Stimulates mycorrhizal colonization, potentially through cell wall signaling mimicry
+- Stimulates [[arbuscular-mycorrhizal-colonization-patterns]], potentially through cell wall signaling mimicry
 
 ## Biomedical Applications
 
@@ -69,12 +69,12 @@ Chitosan scaffolds support cell attachment and proliferation for tissue regenera
 
 ### Water Treatment
 
-Fungal chitosan is an effective biosorbent for [[fungal-wastewater-treatment]]
+Fungal chitosan is an effective biosorbent for fungal-wastewater-treatment
 - **Flocculation**: Chitosan acts as a natural coagulant for turbidity removal, offering a biodegradable alternative to synthetic polyacrylamide
 
 ### Food Industry Applications
 
-- **Preservative**: Antimicrobial films and coatings extend shelf life of fruits, vegetables, meat, and seafood
+- **Preservative**: Antimicrobial films and coatings extend [[psilocybin-shelf-life-stability]] of fruits, vegetables, meat, and seafood
 - **Edible films**: Chitosan-based edible films provide moisture barriers and antimicrobial protection
 ## Practical Considerations
 
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

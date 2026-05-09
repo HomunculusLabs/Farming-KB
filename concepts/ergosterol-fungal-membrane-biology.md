@@ -23,7 +23,7 @@ The C22-C23 double bond in ergosterol makes it more effective at ordering membra
 Many fungal membrane proteins require ergosterol for proper folding, trafficking, and function:
 
 - **H⁺-ATPase (Pma1)**: The primary plasma membrane proton pump essential for maintaining electrochemical gradients requires ergosterol for activity and stability
-- **Nutrient transporters**: [[saccharomyces-cerevisiae]]ae]], increased ergosterol content correlates with ethanol tolerance — a finding exploited in industrial fermentation strain development
+- **Nutrient transporters**: , increased ergosterol content correlates with ethanol tolerance — a finding exploited in industrial fermentation strain development
 - **Temperature adaptation**: Psychrophilic [[soil-mycobiome]]iome assessment**: Ergosterol content correlates with total living fungal biomass (typically 5–50 μg/g soil in temperate ecosystems)
 - **Indoor air quality**: Ergosterol in settled dust correlates with mold exposure and is used in epidemiological studies of respiratory health
 - **Food and feed safety**: Ergosterol levels indicate fungal contamination in grains and stored products
@@ -107,4 +107,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

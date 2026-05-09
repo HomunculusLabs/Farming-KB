@@ -1,5 +1,5 @@
 ---
-title: Fungal Roles in Soil Aggregate Formation
+title: Fungal Roles in Soil soil-aggregate-formation-fungal-contributions
 created: 2026-04-28
 tags:
   - soil-structure
@@ -19,7 +19,7 @@ type: concept
 Soil aggregates are clusters of mineral particles bound together by organic
 materials, biological agents, and physicochemical forces. Their formation and
 stability are critical determinants of soil health, water infiltration, erosion
-resistance, and carbon sequestration. Fungi, particularly arbuscular
+resistance, and [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]. Fungi, particularly arbuscular
 [[saprotrophic-fungi]] also contribute to aggregate formation, particularly through
 decomposition of organic residues and incorporation of decomposed material into
 mineral soil horizons. Their hyphal networks in litter layers create
@@ -28,7 +28,7 @@ faunal activity and physical mixing.
 
 ## Glomalin-Related Soil Protein (GRSP)
 
-Glomalin is an operationally defined fraction of soil organic matter produced
+Glomalin is an operationally defined fraction of soil [[hamilton-composting-and-organic-matter-management]] produced
 by AMF, discovered and characterized by Sara Wright at USDA-ARS in the 1990s.
 It is extracted from soil using sodium citrate at elevated temperature and pH,
 and quantified using the Bradford protein assay. The term "glomalin-related
@@ -47,7 +47,7 @@ GRSP characteristics relevant to soil aggregation include:
 - **Hydrophobicity**: GRSP-coated aggregates show increased water repellency,
   reducing slaking (disintegration) during wetting events and improving
   aggregate water stability.
-- **Metal binding**: GRSP contains iron, aluminum, and other metals complexed
+- **[[chelation-and-metal-binding-in-plants]]**: GRSP contains iron, aluminum, and other metals complexed
   to the protein matrix, linking soil aggregation to singh mycorrhizal   metal translocation and sequestration processes.
 
 ## Macroaggregate Formation
@@ -58,11 +58,11 @@ macroaggregate formation and stabilization, which requires organic matter
 binding agents of sufficient size and strength.
 
 The conceptual model of aggregate formation involves a hierarchical process:
-(1) fungal hyphae and root exudates bind mineral particles into
+(1) fungal hyphae and [[mycorrhizal-root-exudates-pathogen-interactions]] bind mineral particles into
 microaggregates; (2) microaggregates are enmeshed within hyphal networks and
 root systems to form macroaggregates; (3) macroaggregates are stabilized by
 GRSP and other persistent organic materials. This model emphasizes the
-irreversible nature of microaggregate formation and the more dynamic, biology-
+irreversible nature of [[fungal-microaggregate-formation-and-soil-stability]] and the more dynamic, biology-
 dependent stabilization of macroaggregates.
 
 ## Water Stability of Aggregates

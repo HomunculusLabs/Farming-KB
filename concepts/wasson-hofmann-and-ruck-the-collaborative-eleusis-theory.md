@@ -1,5 +1,5 @@
 ---
-title: Wasson Hofmann and Ruck the Collaborative Eleusis Theory
+title: Wasson Hofmann and Ruck the wasson hofmann and ruck the collaborative eleusis theory Theory
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -22,12 +22,12 @@ Wasson was a vice-president of J.P. Morgan & Co. who became the world's foremost
 
 - **"Russia, Mushrooms, and History"** (1957, with Valentina Wasson): Identified the cultural divide between mycophilic (mushroom-loving) and mycophobic (mushroom-fearing) societies
 - **"Mushrooms, Russia, and History"** (1957): Expanded version of the above
-- **The discovery of the Mazatec mushroom cult** (1955-1956): Wasson and his wife Valentina became the first outsiders to participate in a velada (mushroom ceremony) with Maria Sabina in Huautla de Jimenez, Mexico
-- **"Soma: Divine Mushroom of Immortality"** (1968): Argued that the Vedic soma was the fly-agaric mushroom (Amanita muscaria)
+- **The discovery of the [[maria-sabina-mazatec-mushroom-ceremony]] cult** (1955-1956): Wasson and his wife Valentina became the first outsiders to participate in a velada (mushroom ceremony) with Maria Sabina in Huautla de Jimenez, Mexico
+- **"Soma: Divine Mushroom of Immortality"** (1968): Argued that the Vedic soma was the fly-agaric mushroom ([[allegro-amanita-muscaria-properties-and-pharmacology]])
 
 ### Role in the Eleusis Theory
 
-Wasson provided the ethnographic insight: if Mesoamerican peoples used psychoactive plants in religious rituals for millennia, why not the ancient Greeks? He identified the parallels between Mexican mushroom rites and the Eleusinian Mysteries (fasting, darkness, single experience, self-enforcing secrecy, lasting bond of fellowship).
+Wasson provided the ethnographic insight: if Mesoamerican peoples used psychoactive plants in religious rituals for millennia, why not the ancient Greeks? He identified the parallels between Mexican mushroom rites and the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] (fasting, darkness, single experience, self-enforcing secrecy, lasting bond of fellowship).
 
 ## Albert Hofmann (1906-2008)
 
@@ -38,8 +38,8 @@ Hofmann was a Swiss chemist at Sandoz Laboratories who discovered LSD in 1943. H
 ### Key Prior Work
 
 - **Discovery of LSD-25** (1943): While studying ergot derivatives, Hofmann accidentally absorbed a small amount and experienced the first LSD trip
-- **Isolation of psilocybin and psilocin** (1958): From Psilocybe mexicana mushrooms brought back from Mexico by Wasson
-- **Chemical analysis of ololiuhqui** (1960): Discovered that the morning glory seeds used in Mesoamerican ritual contained the same alkaloids found in ergot: lysergic acid amide, lysergic acid hydroxyethylamide, and ergonovine
+- **Isolation of psilocybin and psilocin** (1958): From [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] mushrooms brought back from Mexico by Wasson
+- **[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of ololiuhqui** (1960): Discovered that the morning glory seeds used in Mesoamerican ritual contained the same alkaloids found in ergot: lysergic acid amide, lysergic acid hydroxyethylamide, and ergonovine
 - **Development of Methergine** (ergometrine): A semisynthetic ergot derivative still used in obstetrics
 - **Development of Hydergine**: For geriatric disorders
 

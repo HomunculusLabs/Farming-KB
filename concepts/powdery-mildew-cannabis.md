@@ -1,9 +1,9 @@
 ---
-title: Powdery Mildew - Cannabis Disease Guide
+title: cervantes-powdery-mildew-prevention-treatment - Cannabis Disease Guide
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -30,12 +30,12 @@ Powdery mildew is not always limited to the upper surface of foliage. The diseas
 Powdery mildew fungi reproduce by spreading microscopic spores through the air:
 
 - Fungal spores are airborne and present virtually everywhere in the environment
-- Countless spores are present in the air at all times; when they find proper conditions, they settle and start growing
+- Countless spores are present in the air at all times; when they find proper conditions, they settle and [[query-how-do-i-start-growing-hazelnut-bushes]]
 - The disease cycle begins when spores land on susceptible tissue and germinate
 - Fungal hyphae penetrate leaf tissue and extract nutrients from plant cells
 - After a colonisation period of one or more weeks, the fungus produces visible white powdery spores on leaf surfaces
 - These spores are dispersed by air currents to infect new tissue and new plants
-- The cycle can repeat multiple times during a single growing season
+- The cycle can repeat multiple times during a single [[savory-growing-season-and-non-growing-season-management]]
 
 Most fungi are primitive plants that do not produce chlorophyll and reproduce by spreading microscopic spores. Powdery mildew is unusual in that it does not require liquid water on leaf surfaces for infection, making it particularly insidious in indoor environments where humidity fluctuates.
 
@@ -46,10 +46,10 @@ Most fungi are primitive plants that do not produce chlorophyll and reproduce by
 - Yellowing of affected foliage as chlorophyll is destroyed
 - Stunted growth as the plant diverts energy to fight infection
 - Premature leaf drop in advanced cases
-- Reduced essential oil and resin production on infected buds
+- Reduced essential oil and [[cannabis-glandular-trichome-types-resin-production-clarke]] on infected buds
 - Occasional plant death when left unchecked in severe cases
 
-The damage is compounded because powdery mildew weakens plants and makes them more susceptible to other pests and diseases. Infected foliage has reduced photosynthetic capacity, which directly impacts bud development and overall yield.
+The damage is compounded because powdery mildew weakens plants and makes them more susceptible to other [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. Infected foliage has reduced photosynthetic capacity, which directly impacts bud development and overall yield.
 
 ## Environmental Conditions
 
@@ -59,7 +59,7 @@ Powdery mildew thrives in:
 - Fluctuating temperatures and humidity
 - Low light levels and stale air
 - Excessive nitrogen fertilization
-- Poor air circulation between plants
+- Poor [[stamets-growing-room-air-circulation-co2-management]] between plants
 - Inconsistent watering that leaves roots dry while foliage stays moist
 
 Most fungi grow poorly or not at all when relative humidity stays between 40-50%. Fungi are primitive plants that do not produce chlorophyll and reproduce by spreading microscopic spores. Unsterile, soggy soil combined with humid, stagnant air provides the ideal environment for fungi to thrive. Every dingy, ill-kept indoor garden has fungal problems and yields substandard harvests.

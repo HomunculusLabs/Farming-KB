@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md]
 
 # Ergine (LSA)
 
-**Ergine**, also known as **D-lysergic acid amide** (LSA) and **lysergamide**, is a naturally occurring ergoline alkaloid and the primary psychoactive constituent of several morning glory species (*Ipomoea violacea*, *Ipomoea tricolor*, *Argyreia nervosa*) and related plants. Structurally, it is an amide of lysergic acid, making it a close chemical relative of **LSD** (lysergic acid diethylamide). Ergine is the simplest lysergic acid amide and serves as a biosynthetic intermediate in the ergot alkaloid pathway.
+**Ergine**, also known as **D-lysergic acid amide** (LSA) and **lysergamide**, is a naturally occurring ergoline alkaloid and the primary psychoactive constituent of several [[golden-guide-morning-glory-and-ololiuqui]] species (*Ipomoea violacea*, *Ipomoea tricolor*, *[[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]]*) and related plants. Structurally, it is an amide of lysergic acid, making it a close chemical relative of **LSD** (lysergic acid diethylamide). Ergine is the simplest lysergic acid amide and serves as a biosynthetic intermediate in the ergot alkaloid pathway.
 
 ## Chemical Structure and Properties
 
@@ -22,7 +22,7 @@ Ergine is soluble in ethanol and slightly soluble in water. It forms crystalline
 
 ## Pharmacology
 
-Ergine acts as a partial agonist at **5-HT₂A serotonin receptors**, the same receptor subtype primarily responsible for the psychedelic effects of LSD, psilocybin, and other classical psychedelics. However, ergine has lower affinity and efficacy at this receptor compared to LSD, which accounts for its reduced potency and different qualitative effects.
+Ergine acts as a partial agonist at **5-HT₂A serotonin receptors**, the same receptor subtype primarily responsible for the psychedelic effects of LSD, psilocybin, and other classical psychedelics. However, ergine has lower affinity and efficacy at this receptor compared to LSD, which accounts for its reduced potency and different [[mdma-qualitative-effects-phenomenology]].
 
 Ergine also has affinity for **dopamine receptors** and **adrenergic receptors**, contributing to its complex pharmacological profile. Some evidence suggests it may have ergot-like uterotonic activity, consistent with its origin in ergot alkaloid biosynthesis.
 
@@ -32,8 +32,8 @@ The compound **lysergic acid hydroxyethylamide (LSH)**, which is typically co-oc
 
 Ergine occurs in several plant families:
 
-- **Convolvulaceae**: Seeds of *Ipomoea violacea* (ololiuqui), *Ipomoea tricolor* (heavenly blue morning glory), *Argyreia nervosa* (Hawaiian baby woodrose), and *Turbina corymbosa* (coaxihuitl). Concentrations typically range from 0.03–0.1% of seed weight.
-- **Clavicipitaceae**: Produced by the ergot fungus *Claviceps purpurea* and related species as an intermediate in the biosynthesis of more complex ergot alkaloids (ergotamine, ergocristine, etc.)
+- **Convolvulaceae**: Seeds of *Ipomoea violacea* (ololiuqui), *Ipomoea tricolor* (heavenly blue morning glory), *Argyreia nervosa* (Hawaiian baby woodrose), and *[[plants-of-the-gods-turbina-corymbosa-ololiuqui]]* (coaxihuitl). Concentrations typically range from 0.03–0.1% of seed weight.
+- **Clavicipitaceae**: Produced by the ergot fungus *[[bloomfield-ergot-claviceps-purpurea-ergotism]]* and related species as an intermediate in the biosynthesis of more complex ergot alkaloids (ergotamine, ergocristine, etc.)
 - **Rubiaceae**: Found in trace amounts in some species
 
 ## Effects and Dosage
@@ -61,7 +61,7 @@ Hofmann wrote that this discovery "constituted a remarkable parallel to the disc
 
 ## Modern Use
 
-Ergine-containing seeds are sold commercially as ornamental items (morning glory and Hawaiian baby woodrose seeds). Some users consume the seeds for their psychoactive effects, though the experience is widely considered inferior to other available psychedelics. Various extraction and preparation methods have been developed to reduce the nausea associated with crude seed consumption, though the legal status of such preparations varies by jurisdiction.
+Ergine-containing seeds are sold commercially as ornamental items (morning glory and Hawaiian baby woodrose seeds). Some users consume the seeds for their psychoactive effects, though the experience is widely considered inferior to other available psychedelics. Various [[gottlieb-peyote-extraction-and-preparation-methods]] methods have been developed to reduce the nausea associated with crude seed consumption, though the legal status of such preparations varies by jurisdiction.
 
 ## Legal Status
 
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

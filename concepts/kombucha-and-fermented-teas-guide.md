@@ -1,5 +1,5 @@
 ---
-title: Kombucha and Fermented Teas Guide
+title: Kombucha and kombucha and fermented teas guide Guide
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Kombucha and Fermented Teas Guide
 
-Kombucha is a fermented tea beverage that has been consumed for thousands of years, traditionally in East Asia and more recently throughout the world. It is produced by fermenting sweetened tea with a symbiotic culture of bacteria and yeast (SCOBY). The result is a slightly sweet, tangy, effervescent beverage with potential health benefits from its probiotic content, organic acids, and tea polyphenols.
+Kombucha is a fermented tea beverage that has been consumed for thousands of years, traditionally in [[neurotropic-fungi-japan-east-asia-species-cultural-context]] and more recently throughout the world. It is produced by fermenting sweetened tea with a symbiotic culture of bacteria and yeast (SCOBY). The result is a slightly sweet, tangy, effervescent beverage with potential health benefits from its probiotic content, organic acids, and tea polyphenols.
 
 ## What Is Kombucha?
 
@@ -20,7 +20,7 @@ The microorganisms in a typical kombucha SCOBY include:
 - Acetobacter species (primarily Acetobacter xylinum): Produce acetic acid and the cellulose matrix of the SCOBY
 - Gluconobacter species: Produce gluconic acid and other organic acids
 - Various yeast species including Saccharomyces, Zygosaccharomyces, and Brettanomyces: Produce ethanol and carbon dioxide
-- Lactobacillus species: Contribute lactic acid and additional complexity
+- [[lactobacillus]] species: Contribute [[bionutrients-lab-lactic-acid-bacteria-serum]] and additional complexity
 
 This community works synergistically: yeast converts sugar to ethanol and carbon dioxide, and bacteria convert the ethanol to acetic acid and other organic acids. The result is a complex mixture of acids, sugars, trace alcohol, B vitamins, and other compounds.
 
@@ -36,8 +36,8 @@ Kombucha experienced a surge in popularity in the West during the 1990s and 2000
 
 ### Ingredients
 
-- Tea: Black tea is traditional and provides the most nutrients for the SCOBY. Green tea, white tea, or oolong can also be used. Herbal teas should be blended with true tea (Camellia sinensis) to ensure adequate nitrogen for the culture.
-- Sugar: White cane sugar is standard. The SCOBY consumes most of the sugar during fermentation. Avoid honey (it has antimicrobial properties that can inhibit the culture), artificial sweeteners, and stevia.
+- Tea: Black tea is traditional and provides the most nutrients for the SCOBY. Green tea, white tea, or oolong can also be used. Herbal teas should be blended with true tea ([[camellia-sinensis-entity]]) to ensure adequate nitrogen for the culture.
+- Sugar: White cane sugar is standard. The SCOBY consumes most of the sugar during fermentation. Avoid honey (it has [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] that can inhibit the culture), artificial sweeteners, and stevia.
 - Water: Filtered or dechlorinated water. Chlorine can harm the SCOBY.
 - SCOBY and starter liquid: A healthy SCOBY with at least 1 cup of mature kombucha from a previous batch.
 
@@ -60,7 +60,7 @@ Kombucha experienced a surge in popularity in the West during the 1990s and 2000
 Plain kombucha can be flavored during secondary fermentation. Common additions include:
 
 - Fresh or frozen fruit: Berries, peaches, mango, pineapple, ginger, lemon
-- Fruit juice: Pomegranate, cranberry, apple, grape
+- [[bionutrients-lab-fermented-fruit-juice-ffj]]: Pomegranate, cranberry, apple, grape
 - Herbs and spices: Mint, lavender, rosemary, chamomile, cinnamon, cardamom
 - Vegetables: Cucumber, jalapeno
 
@@ -76,7 +76,7 @@ Kombucha contains live probiotic bacteria, organic acids (acetic acid, gluconic 
 
 However, the scientific evidence for many of these claims is limited. Kombucha should be consumed in moderation, and certain populations should exercise caution:
 
-- Pregnant and breastfeeding women should avoid kombucha due to its trace alcohol and caffeine content
+- Pregnant and breastfeeding women should avoid kombucha due to its trace alcohol and [[caffeine]] content
 - People with compromised immune systems should avoid homemade kombucha due to contamination risk
 - Those with histamine intolerance may react to the fermented beverage
 - Excessive consumption can cause digestive upset in some individuals
@@ -89,10 +89,8 @@ However, the scientific evidence for many of these claims is limited. Kombucha s
 - Too sour: Fermentation has gone too long. Dilute with fresh tea or use as vinegar.
 - No carbonation: Secondary fermentation needs more sugar (fruit or juice) or more time. Ensure bottles are properly sealed.
 
-## See Also
-
-- kombucha brewing for additional brewing details
+## See  brewing for additional brewing details
 - [[vinegar-making]] for making vinegar from kombucha or other fermented liquids
 - [[yeast-biology]] for the yeast component of kombucha
-- [[faires-food-fermentation-methods]] for homestead fermentation techniques
-- [[faires-herbal-medicine-from-the-garden]]
+- faires-food-fermentation-methods for homestead fermentation techniques
+- faires-herbal-medicine-from-the-garden

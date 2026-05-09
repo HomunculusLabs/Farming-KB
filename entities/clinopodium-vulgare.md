@@ -9,7 +9,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Formisano, C. et al. (2010). "Chemical composition and antimicrobial activity of Clinopodium vulgare essential oil." Chemistry of Biodiversity, 7(8), 1824–1832.
+  - Formisano, C. et al. (2010). "Chemical composition and antimicrobial activity of Clinopodium vulgare permaculture-designers-manual-essential-oil-plants." Chemistry of Biodiversity, 7(8), 1824–1832.
   - Tuttolomondo, T. et al. (2013). "Essential oil composition of Clinopodium vulgare L. from Sicily." Natural Product Research, 27(4–5), 458–466.
   - Karioti, A. et al. (2007). "Composition and antimicrobial activity of the essential oil of Clinopodium vulgare." Planta Medica, 73(9), 371.
   - Todorova, M. et al. (2009). "Essential oil of Clinopodium vulgare from Bulgaria." Journal of Biosciences, 64(2), 103–107.
@@ -45,7 +45,7 @@ Flowering occurs from June through October. The plant emits a mild aromatic scen
 
 Wild basil is native to Europe and temperate Asia, with a range extending from the British Isles and Iberian Peninsula eastward through central Europe, the Balkans, and into Siberia and the Himalayas.
 
-It has been introduced and naturalized in parts of North America and New Zealand.
+It has been introduced and naturalized in parts of [[psilocybin-north-america-pacific-northwest]] and New Zealand.
 
 The species occupies a broad ecological niche, found in dry meadows, open woodlands, forest edges, rocky slopes, and along roadsides at elevations up to 2,000 meters.
 

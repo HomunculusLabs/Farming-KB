@@ -4,7 +4,7 @@ source: fanaticus-pf-tek-psilocybe-fanaticus.md
 mined: 2026-05-08
 tags: [pf-tek, mushroom-cultivation, psilocybe-cubensis, brown-rice-flour,
   vermiculite, home-growing]
-aliases: [psilocybe fanaticus technique, BRF tek, mushroom growing guide]
+aliases: [[pf-tek-psilocybe-fanaticus-cultivation-method]] technique, BRF tek, [[duggar-mushroom-growing-history-and-methods]] guide]
 ---
 
 # PF TEK Cultivation Method
@@ -15,7 +15,7 @@ The PF TEK (Psilocybe Fanaticus Technique) is a revolutionary mushroom
 cultivation method introduced by Robert "Psylocybe Fanaticus" McPherson in
 1991–1992. Originally published as a kit, the complete technique was released
 in 1992 and has been copied worldwide. The method enables cultivation of
-Psilocybe cubensis using common kitchen utensils and readily available
+[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] using common kitchen utensils and readily available
 materials: small canning jars, brown rice flour, vermiculite, and an aquarium
 for fruiting. It remains the most widely used beginner cultivation technique.
 
@@ -32,7 +32,7 @@ the use of vermiculite as a structural base. Key innovations include:
 2. **Mass spore inoculation**: Instead of cloning mushroom tissue (which
    leads to senescence — genetic degradation and ceased fruiting after
    multiple generations), PF TEK uses direct spore inoculation onto the
-   fruiting substrate. This preserves complete genotype diversity and
+   [[pf-tek-maximum-fruiting-substrate-formula]]. This preserves complete genotype diversity and
    reproductive vigor.
 
 3. **Simplified sterilization**: Steam sterilization in a common kitchen
@@ -126,7 +126,7 @@ the cake is "birthed":
 1. Remove the jar lid and dry vermiculite barrier layer
 2. Gently tap the jar to loosen the colonized cake
 3. Slide the cake out onto a clean surface
-4. Place the cake in the fruiting chamber (Dual Chambered Terrarium)
+4. Place the cake in the [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]] (Dual [[dual-chambered-terrarium-design]])
 5. Mist the cake and maintain high humidity (95%+)
 
 ## Advantages of the PF TEK
@@ -135,17 +135,15 @@ the cake is "birthed":
 - Low cost (jars, brown rice flour, vermiculite, spore syringe)
 - Suitable for complete beginners
 - Mass spore inoculation prevents senescence
-- Vermiculite matrix provides excellent gas exchange
-- High success rate when procedures are followed carefully
-
-## Limitations
-
-- Low yield per cake compared to bulk cultivation methods
 ## See Also
+
+- [[pf-tek-jar-size-importance-half-pint-reliability]]
+
+- [[pf-tek-steam-sterilization-pot-method-common-pottery]]
 
 - [[mushroom-spore-inoculation-techniques]]
 - [[psilocybin-pharmacology]]
 
 ## See Also
 
-- [[growing-gourmet-mind-and-methods-cultivation]]
+- [[pf-tek-jar-size-importance-half-pint-reliability]]

@@ -1,5 +1,5 @@
 ---
-title: sheet-mulching for Garden Preparation
+title: sheet-mulching for [[natural-farming-guide-sheet-mulching-no-dig-garden-preparation]]
 created: 2026-04-28
 tags: [mulching, soil-preparation, permaculture, no-till, organic-gardening]
 date: 2026-04-25
@@ -10,10 +10,10 @@ type: concept
 
 # Sheet Mulching for Garden Preparation
 
-Sheet mulching is a layered garden preparation method that creates new growing
+[[sheet-mulching]] is a layered garden preparation method that creates new growing
 areas without the hard labor of digging and turning dirt. By stacking sheets
 of organic materials like a layer cake, you can build rich soil over existing
-ground, suppress weeds, and establish gardens on almost any soil type. The
+ground, [[query-how-do-cover-crops-suppress-weeds]], and establish gardens on almost any soil type. The
 technique is central to and
 [[teaming-with-microbes-mulch-and-soil-food-web]] organisms.
 
@@ -91,15 +91,15 @@ Sheet mulching connects directly to and
 [[soil-food-web]] and releases stored carbon. Sheet mulching
 avoids this entirely. It requires no heavy equipment, can be done by one
 person, and actually improves soil over time rather than depleting it. The
-weed suppression alone saves hours of labor per season. Additionally, the
+[[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]] alone saves hours of labor per season. Additionally, the
 moisture retention properties mean less irrigation is needed once the system
 is established.
 
 ## Integration with Other Systems
 
 Sheet mulching pairs well with [[alexander-shulgin]] systems, where water is
-captured and directed into mulched garden beds. It also works in concert
+captured and directed into mulched [[natural-farming-guide-hugelkultur-mounded-garden-beds]]. It also works in concert
 with when finished compost is layered into
 the beds. For very poor soil, combine sheet mulching with
-strategies and cover cropping
+strategies and [[fukuoka-clover-cover-cropping-soil-ecology]]
 before establishing permanent plantings.

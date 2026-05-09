@@ -1,16 +1,16 @@
 ---
-title: Wasson's Soma Doubts and the Case for Stropharia cubensis
+title: Wasson's mckenna wasson soma doubts and stropharia case and the Case for mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal
 source: mckenna_t-food_of_the-gods.md
 author: Terence McKenna
-topics: soma, amanita muscaria, stropharia cubensis, wasson, vedic, ethnomycology, psilocybin
+topics: soma, [[allegro-amanita-muscaria-properties-and-pharmacology]], stropharia cubensis, wasson, vedic, ethnomycology, psilocybin
 ---
 # Wasson's Soma Doubts and the Case for Stropharia cubensis
 
 ## The [[shroom-cultural-history-western-discovery-valentina-wasson]] proposed that the ancient Vedic sacrament Soma was
-*Amanita muscaria* — the fly agaric mushroom. Their argument drew on massive
+*Amanita muscaria* — the [[amanita-muscaria-fly-agaric-history-and-pharmacology]] mushroom. Their argument drew on massive
 evidence spanning linguistic evolution, recurring artistic motifs, and Vedic
 reinterpretation. The Wassons essentially founded the field of ethnomycology
-through this work, having also discovered active Mexican mushroom cults in the
+through this work, having also discovered active [[gartz-wasson-mexican-mushroom-cult-rediscovery]] cults in the
 1950s. Their magnum opus, *Soma: [[rig-veda-soma-hymns-amanita-muscaria]].
 
 ### Empirical Disappointments
@@ -101,4 +101,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

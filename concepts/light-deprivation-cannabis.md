@@ -1,5 +1,5 @@
 ---
-title: Light Deprivation Cannabis
+title: query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work Cannabis
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -111,4 +111,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

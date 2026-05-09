@@ -1,21 +1,8 @@
 ---
-title: "How Do I Grow Dragon Fruit (Pitaya) at Home?"
-created: 2026-04-28
-tags: [dragon-fruit, pitaya, home-growing, beginner-guide, tropical-fruit, FAQ]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - https://www.rhs.org.uk/plants/108449/hylocereus-undatus/details
-  - https://ucanr.edu/sites/gardenweb/Pitaya/
-  - https://www.crfg.org/pubs/ff/dragonfruit.html
-  - https://edis.ifas.ufl.edu/publication/EP560
-  - https://www.gardeningknowhow.com/edible/fruits/dragon-fruit/growing-dragon-fruit.htm
-type: query
----
 
 # How Do I Grow Dragon Fruit (Pitaya) at Home?
 
-A practical FAQ for beginners who want to grow dragon fruit (pitaya) at home, whether in-ground, in containers, or indoors. See also [[comparison-dragon-fruit-vs-passion-fruit-cultivation]] for a side-by-side with another tropical vining fruit.
+A practical FAQ for beginners who want to grow dragon fruit (pitaya) at home, whether in-ground, in containers, or indoors. See also comparison-dragon-fruit-vs-passion-fruit-cultivation for a side-by-side with another tropical vining fruit.
 
 ---
 
@@ -28,7 +15,7 @@ Dragon fruit (*Hylocereus* / *Selenicereus* spp.) is a climbing cactus that prod
 ## What climate do I need?
 
 - **USDA Hardiness Zones:** 9b–11 for outdoor in-ground planting.
-- **Temperature range:** 65–100°F (18–38°C) is ideal. Growth slows below 50°F (10°C).
+- **[[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]:** 65–100°F (18–38°C) is ideal. Growth slows below 50°F (10°C).
 - **Frost tolerance:** None. Temperatures below 32°F (0°C) will kill or severely damage the plant. If you live below Zone 9, grow in containers and bring indoors or into a greenhouse when frost threatens.
 - **Sunlight:** 6–8 hours of direct sun daily. In extreme heat (above 100°F), partial afternoon shade helps prevent sunburn on the stems.
 
@@ -42,7 +29,7 @@ Dragon fruit needs well-draining soil — sitting in soggy soil causes root rot 
 - 40% standard potting soil
 - 30% perlite or pumice
 - 30% coarse sand or orchid bark
-- A handful of worm castings or compost (no more than 10% organic matter total)
+- A handful of worm castings or compost (no more than 10% [[hamilton-composting-and-organic-matter-management]] total)
 
 **Target soil pH:** 6.0–7.0.
 
@@ -91,15 +78,15 @@ Dragon fruit is a vining cactus and must climb. Without support, it sprawls on t
 
 ## How often do I water and fertilize?
 
-**Watering schedule:**
+**[[cannabis-watering-schedule-and-frequency]]:**
 - **Spring/Summer (active growth):** Every 7–10 days. Let the top 2 inches of soil dry out between waterings.
 - **Fall:** Every 10–14 days as growth slows.
 - **Winter (dormant):** Every 3–4 weeks. The plant is semi-dormant; overwatering is the #1 killer in winter.
 - **Rule of thumb:** When in doubt, wait. Underwatering is easy to fix; root rot from overwatering is not.
 
 **Fertilizer schedule:**
-- **Type:** Balanced granular or liquid fertilizer. NPK **8-8-8** or **10-10-10** works for vegetative growth. Switch to a bloom formula like **2-10-10** or **0-10-10** in late spring to promote flowering.
-- **Frequency:** Apply every 6–8 weeks during the growing season (March–October). Stop fertilizing November–February.
+- **Type:** Balanced granular or [[jadam-liquid-fertilizer-nutritional-perspective]]. NPK **8-8-8** or **10-10-10** works for [[cannabis-vegetative-growth-stage]]. Switch to a bloom formula like **2-10-10** or **0-10-10** in late spring to promote flowering.
+- **Frequency:** Apply every 6–8 weeks during the [[savory-growing-season-and-non-growing-season-management]] (March–October). Stop fertilizing November–February.
 - **Supplement:** Add a handful of compost or worm castings at the start of each growing season. Occasional foliar spray with micronutrients (calcium, magnesium) can improve fruit quality.
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: Season Extension Timeline and Frost Protection
+title: comparison-season-extension-techniques-vs-cold-frame-gardening Timeline and holzer-frost-protection-techniques
 created: 2026-04-28
 tags:
   - season-extension
@@ -19,8 +19,8 @@ type: concept
 Eliot Coleman's season extension system is built on the principle of
 layering protection to create progressively milder microclimates. By
 combining the right crops with the right protection at the right time,
-he has demonstrated that vegetable production can continue through winter
-in any part of the continental United States, not just mild climates.
+he has demonstrated that [[dry-gardening-unirrigated-vegetable-production-solomon]] can continue through winter
+in any part of the continental [[dmt-containing-plants-united-states-halpern]], not just mild climates.
 
 ## The Layered Protection Principle
 
@@ -93,7 +93,7 @@ to outdoor conditions before the full harvest period begins.
 
 Coleman notes that the principles of season extension are scalable to
 different climates. Growers in Zone 9 could potentially get by with row
-covers alone for some winter crops, while those in Zones 3 and 4 benefit
+covers alone for some [[coleman-semi-hibernating-winter-crops-harvest-extension]], while those in Zones 3 and 4 benefit
 most from the full two-layer system. Over 85 percent of the U.S. is
 further south than his Maine location and has more sun and warmer winter
 weather. There is nothing preventing winter production of high-quality
@@ -107,7 +107,7 @@ protected cultivation: the rate of temperature drop, the depth of
 temperature drop, the duration of temperature drop, and the frequency
 of temperature drop. Most winter salad crops can be harvested at air
 temperatures down to 15°F if the soil has not frozen. Optimum
-photosynthesis occurs at 75°F, but winter greenhouse averages run closer
+photosynthesis occurs at 75°F, but [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]] averages run closer
 to 55°F during the coldest months. Understanding these factors helps
 growers manage their protection systems to maintain crops within
 harvestable ranges throughout winter.

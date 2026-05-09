@@ -4,7 +4,7 @@ Aminopropyl silica gel (also known as NH2 silica or aminopropyl-bonded silica) i
 stationary phase in which primary aminopropyl functional groups (-CH2CH2CH2NH2) are covalently bonded to the
 surface of silica gel particles through siloxane (Si-O-Si) linkages, creating a polar, weakly basic
 chromatographic medium with distinct selectivity properties compared to conventional unmodified silica gel.
-In the context of indole alkaloid purification, as exemplified by the Shirota, Hakamata, and Goda (2003)
+In the context of aminopropyl silica gel chromatography indole alkaloid purification purification, as exemplified by the Shirota, Hakamata, and Goda (2003)
 synthesis of   in, aminopropyl silica gel provides unique advantages for the separation of
 basic nitrogen-containing compounds from neutral and acidic impurities that arise during multistep synthetic
 sequences involving  derivatives.
@@ -16,11 +16,11 @@ of indole alkaloids and tryptamine derivatives, which typically contain both bas
 indole ring systems that interact strongly with the aminopropyl-modified surface.
 ## Role in the Shirota 
 In the Shirota synthesis , aminopropyl silica gel chromatography was employed for the critical
-purification step following the tetrabenzylpyrophosphate phosphorylation of psilocin, where the goal was to
+purification step following the [[shirota-tetrabenzylpyrophosphate-phosphorylation-n-butyllithium-conditions]] of psilocin, where the goal was to
 remove excess phosphorylation reagent, byproducts, and other non-polar impurities from the reaction mixture
 before the final  step.
 The phosphorylation reaction using tetrabenzylpyrophosphate generates a complex mixture containing the desired
-zwitterionic N,O-dibenzyl phosphate intermediate, unreacted psilocin, excess tetrabenzylpyrophosphate,
+zwitterionic N,O-dibenzyl [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]], unreacted psilocin, excess tetrabenzylpyrophosphate,
 benzyl phosphate byproducts, and potentially benzyl alcohol and other decomposition products that must be
 removed to obtain the intermediate in sufficient purity for the hydrogenolysis step.
 Aminopropyl silica gel proved effective for this purification because the zwitterionic nature of the
@@ -47,13 +47,13 @@ compounds, while aminopropyl silica gel presents basic amino groups that provide
 reproducible interactions with basic analytes.
 For indole alkaloids, which contain basic amino groups that can be protonated under chromatographic conditions,
 aminopropyl silica gel often provides superior peak shape and recovery compared to normal silica gel,
-particularly when the analytes carry multiple basic or zwitterionic functional groups as is the  ibenzyl phosphate intermediate in the psilocybin synthesis.
+particularly when the analytes carry multiple basic or zwitterionic functional groups as is the  ibenzyl phosphate intermediate in the [[psilocin-psilocybin-synthesis-shirota]].
 Normal silica gel 60 F254 remains the preferred medium for TLC monitoring because of its excellent resolution,
 reproducibility, and the convenience of the built-in fluorescent indicator, but aminopropyl silica gel is
 often preferred for preparative-scale purification of basic nitrogen-containing indole alkaloids.
 ## Filtration Through Celite Pads
 In addition to column chromatography on aminopropyl silica gel, the Shirota synthesis employed filtration
-through Celite (diatomaceous earth) pads as a practical purification technique at multiple stages of the
+through Celite ([[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]]) pads as a practical purification technique at multiple stages of the
 synthetic sequence, particularly during workup of the LiAlH4 reduction and during isolation of the
 phosphorylation intermediate.
 Celite filtration serves a mechanical filtration function rather than a chromatographic separation function,
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

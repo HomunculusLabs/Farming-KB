@@ -24,7 +24,7 @@ Lactarius quietus, commonly known as the quiet milkcap, oak milky cap, or
 bland milkcap, is a medium-sized agaricoid fungus in the family
 Russulaceae.
 
-It is one of the most characteristic and abundant ectomycorrhizal fungi
+It is one of the most characteristic and abundant [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]
 associated with oak (Quercus spp.) in European forests, often appearing
 in large numbers from late summer through autumn.
 
@@ -65,7 +65,7 @@ has culinary applications in pickling and preservation.
   colors), mild-tasting on the tongue.
 - **Flesh:** White to pale cream, moderately thick, brittle (typical of
   Russulaceae); unchanging when cut.
-- **Spore print:** Pale cream to pale salmon.
+- **[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Pale cream to pale salmon.
 - **Spores:** Broadly ellipsoidal, 7–9 × 6–7 µm, with a partial
   reticulum or isolated warts up to 0.5 µm tall; amyloid ornamentation.
 - **Taste and odor:** Mildly farinaceous (like fresh meal), sometimes
@@ -91,12 +91,12 @@ including L. subdulcis, L. chrysorrheus, and L. fuliginosus.
 
 ## Ecological Role
 
-L. quietus is an obligate ectomycorrhizal species forming Hartig net
+L. quietus is an obligate ectomycorrhizal species forming [[dighton-ectomycorrhizal-hartig-net-structure-function]]
 structures on oak fine roots, exchanging carbon for mineral nutrients
 and water through its extensive extraradical mycelium.
 
 Studies show L. quietus mycelium is effective at mobilizing organic
-nitrogen from leaf litter — a relevant function in oak forests where
+nitrogen from [[dighton-fungal-decomposition-leaf-litter-dynamics]] — a relevant function in oak forests where
 slowly decomposing litter accumulates.
 
 Its consistent abundance makes it a reliable indicator species for
@@ -137,10 +137,8 @@ be avoided.
 
 Lactarius quietus naturally establishes in agroforestry systems and food
 forests with oak canopy trees. Its presence indicates functional
-mycorrhizal networks and contributes to nutrient cycling. No commercial
+[[dighton-mycorrhizal-networks-carbon-transfer]] and contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. No commercial
 cultivation exists, but preserving oak mycorrhizal communities during
-agroforestry site preparation maintains this ecologically important
-species.
 ## See Also
 
 - [[russula-cyanoxantha]]

@@ -1,5 +1,5 @@
 ---
-title: Shulgin Dosage Guidelines
+title: Shulgin blesching-cannabis-health-index-dosage-guidelines-medical
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -57,7 +57,7 @@ Shulgin's research group followed a systematic approach:
 1. **Start low, go slow**: Always begin at or below the threshold dose and work upward gradually
 2. **Never assume**: Do not assume that a dose effective for one compound is appropriate for another, even closely related ones
 3. **Individual variation**: Responses vary significantly between individuals; a safe dose for one person may be excessive for another
-4. **Set and setting**: The importance of mindset and environment cannot be overstated (see [[psychedelic-mushroom-set-and-setting]])
+4. **[[lsd-set-and-setting-framework]]**: The importance of mindset and environment cannot be overstated (see [[psychedelic-mushroom-set-and-setting]])
 5. **Time between sessions**: Shulgin recommended extended periods between sessions to avoid tolerance development
 
 ## Cross-Compound Potency Comparison
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

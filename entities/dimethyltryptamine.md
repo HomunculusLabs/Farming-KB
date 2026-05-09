@@ -20,7 +20,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-around-the-world-by-joche
 - **SMILES:** CN(C)CCC1=CNC2=C1C=CC=C2
 - **Solubility:** Freely soluble in organic solvents; forms water-soluble salts (DMT fumarate, DMT citrate)
 - **Melting point (freebase):** 44-46°C
-- **Vapor pressure:** Sufficient for vaporization at ~60-80°C
+- **[[cervantes-vapor-pressure-deficit-transpiration]]:** Sufficient for vaporization at ~60-80°C
 
 DMT is a simple indole ethylamine consisting of the [[5-meo-dmt-compound-profile]], [[lsd-lysergic-acid-diethylamide-experience-guide]]). The freebase form is volatile and can be vaporized and inhaled; salt forms are water-soluble and suitable for oral or intravenous administration.
 
@@ -39,19 +39,19 @@ DMT is a non-selective serotonergic agonist with the following primary receptor 
 
 ### Pharmacokinetics
 
-- **Oral:** Inactive without MAO inhibition (e.g., [[entheogen-jurema-mimosa-hostilis-ethnobotany]] (root bark, ~0.5-1%), Anadenanthera peregrina (seeds, with 5-MeO-DMT and [[bufotenin-entity-tihkal]])
-- The pineal gland of rodents (though human pineal DMT levels remain debated)
+- **Oral:** Inactive without MAO inhibition (e.g., [[entheogen-jurema-mimosa-hostilis-ethnobotany]] (root bark, ~0.5-1%), [[yopo-anadenanthera-peregrina-snuff]] (seeds, with 5-MeO-DMT and [[bufotenin-entity-tihkal]])
+- The [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]] of rodents (though human pineal DMT levels remain debated)
 
 ### In the Human Body
-Endogenous DMT biosynthesis proceeds from [[tryptamine-consciousness-theory]]:
+[[mckenna-endogenous-dmt-brain-familiarity]] biosynthesis proceeds from [[tryptamine-consciousness-theory]]:
 
 1. [[tryptamine-consciousness-theory]] (aromatic L-amino acid decarboxylase, AADC)
 2. [[psilocybin]] in this regard) is being studied for existential distress in terminal illness
-- **Neuroimaging:** fMRI and EEG studies reveal DMT-induced disruption of the default mode network (DMN) and increased global connectivity — patterns shared with other 5-HT₂A agonists
+- **Neuroimaging:** fMRI and EEG studies reveal DMT-induced disruption of the [[psilocybin-default-mode-network-ego-dissolution]] network (DMN) and increased global connectivity — patterns shared with other 5-HT₂A agonists
 
 ### Legal Status
 - **Controlled substance:** Schedule I in the United States (since 1971); Class A in the UK; similarly controlled in most jurisdictions
-- **Ayahuasca:** Legal exemption for religious use in Brazil, Peru, and several US jurisdictions (União do Vegetal and Santo Daime court cases)
+- **Ayahuasca:** Legal exemption for religious use in Brazil, Peru, and several US jurisdictions (União do Vegetal and [[metzner-brazilian-ayahuasca-churches-structural-comparison-santo-daime-udv-barquinha]] court cases)
 - **N,N-DMT containing plants:** Generally uncontrolled, though preparation constitutes manufacture of a controlled substance
 
 ## Chemistry and Synthesis
@@ -62,11 +62,11 @@ Extraction from plant material (notably [[tryptamine-consciousness-theory]] — 
 - [[psilocybin]]
 - [[5-meo-dmt-compound-profile]] — 5-methoxy-N,N-dimethyltryptamine; more potent and shorter-acting than DMT
 - [[lsd-lysergic-acid-diethylamide-experience-guide]] — ergoline derivative sharing the dimethylamine motif; acts at the same 5-HT₂A receptor
-- [[ayahuasca-vision-art-and-Shipibo-tradition]] — traditional DMT-containing brew with MAO-inhibiting β-carbolines
+- [[ayahuasca-vision-art-and-shipibo-tradition]] — traditional DMT-containing brew with MAO-inhibiting β-carbolines
 - [[dmt]]
 
 - [[psilocybin]] — mushroom-derived 5-HT₂A agonist with overlapping pharmacology
-- [[ayahuasca-vision-art-and-Shipibo-tradition]] — traditional Amazonian DMT preparation
+- [[ayahuasca-vision-art-and-shipibo-tradition]] — traditional Amazonian DMT preparation
 - [[entada-rheedii]]
 ## Practical Considerations
 
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

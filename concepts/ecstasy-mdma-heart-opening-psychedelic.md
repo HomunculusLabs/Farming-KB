@@ -1,5 +1,5 @@
 ---
-title: Ecstasy MDMA Heart Opening Psychedelic
+title: turner-ecstasy-mdma-heart-opening-psychedelic Heart Opening Psychedelic
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -53,7 +53,7 @@ Lasting beneficial experiences derive primarily from deep bonding with other peo
 
 **Neurotoxicity:** Large doses produced neurotoxicity (reduced serotonin levels) in lab animals. Damage was significantly less to non-existent with smaller doses equivalent to 100-150 mg for humans. A single dose of Prozac taken up to 6 hours after ecstasy completely blocked neurotoxic effects in lab animals.
 
-**Harm Reduction:**
+**[[adverse-effects-and-harm-reduction-psilocybin]]:**
 - Take a single dose rather than double-dosing to reduce hangover
 - Take amino acids (DL-Phenylalanine/DLPA) or other neurotransmitter precursors before and after
 - Anti-oxidant formulas may help prevent free radical damage
@@ -66,7 +66,7 @@ MDMA acts primarily as a serotonin releaser and reuptake inhibitor, with additio
 
 ## Therapeutic Applications
 
-MDMA-assisted psychotherapy is currently in Phase 3 clinical trials for treatment of post-traumatic stress disorder (PTSD). Results from MAPS-sponsored trials have shown significant reductions in PTSD symptoms, with 67% of participants no longer qualifying for PTSD diagnosis after three sessions of MDMA-assisted therapy. The drug's empathogenic properties appear to reduce the fear response associated with traumatic memories, allowing patients to process trauma that would otherwise be overwhelming. The FDA granted Breakthrough Therapy designation to MDMA-assisted psychotherapy for PTSD in 2017.
+MDMA-assisted psychotherapy is currently in Phase 3 [[mushroom-cancer-clinical-trials-overview]] for treatment of post-traumatic stress disorder (PTSD). Results from MAPS-sponsored trials have shown significant reductions in PTSD symptoms, with 67% of participants no longer qualifying for PTSD diagnosis after three sessions of MDMA-assisted therapy. The drug's empathogenic properties appear to reduce the fear response associated with traumatic memories, allowing patients to process trauma that would otherwise be overwhelming. The FDA granted Breakthrough Therapy designation to MDMA-assisted psychotherapy for PTSD in 2017.
 
 ## Combinations
 
@@ -75,7 +75,9 @@ MDMA-assisted psychotherapy is currently in Phase 3 clinical trials for treatmen
 - **2C-B:** In therapeutic use, 2C-B is taken at the tail end of ecstasy to develop and retain insights.
 - **MAO Inhibitors:** May be significantly intensified and possibly dangerous.
 
-## Related Topics
+## Related
+
+- [[mdma-serotonergic-neurotoxicity]] Topics
 
 - [[lsd-molecule-of-perfection]]
 - [[psychedelic-integration-guide]]

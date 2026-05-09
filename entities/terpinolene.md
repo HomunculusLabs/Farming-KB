@@ -19,9 +19,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Tisserand, R. & Young, R. (2014). "Essential Oil Safety." 2nd ed. Elsevier.
+  - Tisserand, R. & Young, R. (2014). "permaculture-designers-manual-essential-oil-plants Safety." 2nd ed. Elsevier.
   - Rice, S. & Koziel, J.A. (2015). "The role of terpenes in cannabis." Journal of the American Society of Brewing Chemists 73(3): 231–240.
-  - Guzmán-Gutiérrez, S.L. et al. (2012). "Antidepressant-like activity of essential oils." Phytomedicine 19(2): 97–107.
+  - Guzmán-Gutiérrez, S.L. et al. (2012). "Antidepressant-like activity of [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]." Phytomedicine 19(2): 97–107.
   - Do, T.K.D. et al. (2015). "Chemical composition of essential oils." In: Essential Oils in Food Preservation. Springer.
 ---
 
@@ -31,12 +31,12 @@ sources:
 
 **Terpinolene** is a monoterpene hydrocarbon (C₁₀H₁₆) found in the essential
 oils of numerous plant species. It is one of the less abundant but
-organoleptically significant terpenes in Cannabis sativa, contributing complex
+organoleptically significant terpenes in [[comparison-cannabis-sativa-vs-cannabis-indica]], contributing complex
 piney, floral, herbal, and slightly fruity aroma notes. Terpinolene occurs
 naturally in lilac, tea tree, cumin, nutmeg, and apples, and is widely used
 in the flavor and fragrance industry.
 
-Despite being classified as one of the major cannabis terpenes, terpinolene is
+Despite being classified as one of the major [[query-what-are-cannabis-terpenes-and-why-do-they-matter]], terpinolene is
 typically present at low concentrations (under 1%) in most cannabis cultivars,
 with exceptions in selectively bred "terpinolene-dominant" chemovars such as
 Golden Pineapple and Sensi Star.
@@ -110,7 +110,7 @@ its typically low abundance:
   cannabis chemovars.
 - **Dominant cultivars:** Select strains bred for terpinolene expression
   can reach 1–3%, including Golden Pineapple, Dutch Treat, and Sensi Star.
-- **Entourage effects:** Terpinolene's sedative properties may synergize
+- **[[beta-caryophyllene-entourage-effects-cannabis]]:** Terpinolene's sedative properties may synergize
   with THC to modulate the overall psychoactive experience, potentially
   contributing to the "couch-lock" effect in indica-dominant strains where
   it is present.
@@ -123,7 +123,7 @@ its typically low abundance:
 - Low acute toxicity (LD₅₀ > 5 g/kg oral, rat).
 - Skin sensitization potential is low but has been reported in isolated cases
   at high concentrations in essential oil preparations.
-- No known drug interactions at typical dietary exposure levels.
+- No known [[cannabis-drug-interactions-and-contraindications]] at typical dietary exposure levels.
 
 ## Related Compounds
 

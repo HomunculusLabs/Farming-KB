@@ -14,8 +14,8 @@ type: concept
 The health of plants, animals, and humans is fundamentally tied to the
 health of soil, according to research presented in The Secret Life of
 Plants. The book documents how the shift from natural humus-based
-agriculture to artificial chemical fertilizers has degraded not only
-soil fertility but the nutritional quality of food, with cascading
+agriculture to artificial [[cervantes-chemical-fertilizers-guide]] has degraded not only
+soil fertility but the [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of food, with cascading
 consequences for animal and human health.
 
 ## The Humus Cycle
@@ -24,7 +24,7 @@ Humus is a brown-black material composed almost wholly of decayed
 vegetable matter. For countless ages before man began to till the soil,
 humus was accumulated by the return to the soil of vegetation which
 died and rotted. When man began to harvest crops, he replaced this
-natural nitrogen in the form of animal wastes and straw, the components
+[[jadam-natural-nitrogen-fertilizer]] in the form of animal wastes and straw, the components
 of barnyard manure. In many countries of the Far East, human waste --
 "night soil" -- is applied to the land instead of being flushed through
 sewage systems into rivers.
@@ -61,7 +61,7 @@ Indore process of composting and became the father of the organic
 agriculture movement. His Agricultural Testament argued that the health
 of soil, plant, animal, and human is one great subject. Howard found
 that the roots of the healthiest vines for wine grapes in France were
-rich in mycorrhizal fungi and had never been treated with artificial
+rich in [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] and had never been treated with artificial
 fertilizers.
 
 ## Soil Bacteria and Mycorrhizae
@@ -113,6 +113,8 @@ disease, it is necessary to heal the soil so as not to have to heal the
 animal or man."
 
 ## See Also
+
+- [[tompkins-soil-health-howard-indore-process]]
 
 - [[humus-formation-and-soil-organic-matter]] for humus science
 - [[bacterial-vs-fungal-soil-dynamics]] for soil biology

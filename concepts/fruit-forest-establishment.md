@@ -1,5 +1,5 @@
 ---
-title: Fruit Forest Establishment
+title: holzer-fruit-forest-establishment Establishment
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,11 +9,11 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 
 # Fruit Forest Establishment
 
-Using seedlings as rootstocks for fruit trees is Sepp Holzer's very simple, economical, and practically risk-free method of cultivating a lush fruit forest or orchard.
+Using seedlings as rootstocks for [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] is [[comparison-sepp-holzer-vs-biodynamic]]'s very simple, economical, and practically risk-free method of cultivating a lush fruit forest or orchard.
 
 ## Soil Preparation
 
-Fruit trees generally prefer high-quality soil. Begin by preparing the area using soil-improving plants (green manure). On the Krameterhof, acid soil where spruce forests once grew took around two years to improve to the point where fruit trees and other demanding plants could thrive without additional support. Green manure is not a one-off measure — it must play a continuous role in cultivation because fertile and healthy soil is the key to success.
+Fruit trees generally prefer high-quality soil. Begin by preparing the area using soil-improving plants ([[comparison-green-manure-guide-vs-mulch-types-and-effects]]). On the Krameterhof, acid soil where spruce forests once grew took around two years to improve to the point where fruit trees and other demanding plants could thrive without additional support. Green manure is not a one-off measure — it must play a continuous role in cultivation because fertile and healthy soil is the key to success.
 
 ## Seed Source
 
@@ -40,7 +40,7 @@ After one to two years of growth, select the best trees for [[fruit-tree-graftin
 
 ## Supporting Plants
 
-When planting fruit trees on new terraces, Holzer sows various supporting plants around them (sunflowers, Jerusalem artichokes, buckwheat, oilseed rape, scorpion weed, among others) which improve growing conditions as green manure crops and also provide grazing opportunities for deer as distraction plants.
+When planting fruit trees on new terraces, Holzer sows various supporting plants around them (sunflowers, Jerusalem artichokes, buckwheat, oilseed rape, scorpion weed, among others) which improve growing conditions as green [[green-manure-crops-detailed]] and also provide grazing opportunities for deer as distraction plants.
 
 ## Related
 
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

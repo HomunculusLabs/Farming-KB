@@ -1,5 +1,5 @@
 ---
-title: Amanita Muscaria in Ancient Greek and Roman Culture
+title: amanita-muscaria in Ancient Greek and Roman Culture
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
@@ -10,13 +10,13 @@ sources:
 
 # Amanita Muscaria in Ancient Greek and Roman Culture
 
-In "Amanita Muscaria: Herb of Immortality," Donald E. Teeter traces the Greek and Roman divine substances Ambrosia, Nectar, and Dionysus back to a common Indo-European sacred plant sacrament, arguing they are linguistic and cultural reflexes of the same [[amanita-muscaria-drying-and-preparation]].
+In "Amanita Muscaria: [[amanita-muscaria-herb-of-immortality-soma-hypothesis]]," Donald E. Teeter traces the Greek and Roman divine substances Ambrosia, Nectar, and Dionysus back to a common Indo-European sacred plant sacrament, arguing they are linguistic and cultural reflexes of the same [[amanita-muscaria-drying-and-preparation]].
 
 ## Ambrosia and Nectar: "Not Mortal" and "Death-Overcomer"
 
 The ancient Indo-Europeans called the Amanita muscaria mushroom "Maga" (The Great Gift). The Greeks called it "Ambrosia" (Not Mortal) and "Nectar" (Death-overcomer) -- the food and drink of the Gods. According to Homer in the Iliad, the Ambrosia/Nectar plant could spring up instantly at the command of the gods, a property consistent with Amanita muscaria's rapid fruiting after rain.
 
-Teeter demonstrates that these are Indo-European words sharing a common root with Sanskrit Amrita (not-death) and Persian Amarta (not-death), all naming a "deathless plant" that produced a living magic drink. The Greek Ambrosia (A = not + mort = death) literally means "not-death," identical in concept to the Sanskrit Amrita.
+Teeter demonstrates that these are Indo-European words sharing a common root with Sanskrit Amrita (not-death) and Persian Amarta (not-death), all naming a "deathless plant" that produced a living [[schultes-ayahuasca-magic-drink-amazon]]. The Greek Ambrosia (A = not + mort = death) literally means "not-death," identical in concept to the Sanskrit Amrita.
 
 ## Dionysus as the Greek Soma
 
@@ -34,9 +34,9 @@ Teeter contends that the original Eucharist wine of early Christianity was ident
 
 ## The Ancient World's Universal Sacred Wine
 
-Teeter argues that across the ancient Mediterranean, wine was always diluted with water before consumption (Greek practice: 2:1 to 3:1 water-to-wine; Roman: 2:1 to 4:1). For alcoholic wine, these dilution ratios would produce beverages of only 4-5% alcohol -- barely intoxicating. He proposes that the "wine" was actually Amanita muscaria extract, and that dilution paradoxically increased its psychoactive potency by breaking muscimol chain structures into individual dissolved units, producing a more purely psychedelic experience. See [[amanita-muscaria-ancient-wine-question]]
-- [[amanita-herb-indo-european-origins]]
-- [[amanita-herb-celtic-european-folklore]]
+Teeter argues that across the ancient Mediterranean, wine was always diluted with water before consumption (Greek practice: 2:1 to 3:1 water-to-wine; Roman: 2:1 to 4:1). For alcoholic wine, these dilution ratios would produce beverages of only 4-5% alcohol -- barely intoxicating. He proposes that the "wine" was actually Amanita muscaria extract, and that dilution paradoxically increased its psychoactive potency by breaking muscimol chain structures into individual dissolved units, producing a more purely [[leary-psychedelic-experience-bardo-mapping]]. See [[amanita-muscaria-ancient-wine-question]]
+- [[rig-veda-soma-hymns-amanita-muscaria]]
+- [[amanita-muscaria-herb-of-immortality-soma-hypothesis]]
 
 ## The Eucharist and Mithraic Influence on Christianity
 
@@ -48,7 +48,7 @@ Zoroaster, who died approximately 600 or more years before the earliest Christia
 
 Teeter argues that there was nothing more sacred in the ancient world than their wine, which was "the one and only god worshipped by the entire ancient world; consumed by Greek, Roman, Jewish, Armenian, Celtic, Persian, Babylonian, etc." He proposes that ancient wine was radically different from modern wine: the ancients always cut their wine with water (2-10 parts water to 1 part wine), and undiluted wine was reputed to cause death -- a major difference from modern wine.
 
-The technology of ancient wine making (open fermentation in crocks or vats) would produce a stable vinegar solution, not alcoholic wine. Herbs and spices were also added in the mixing bowl. Teeter conducted experiments showing that Amanita muscaria extract, when diluted with water, actually becomes more potent and produces a purely psychedelic effect (similar to psilocybin or LSD) rather than the usual Amanita effects -- the opposite of every other drug extract on the planet. He theorizes that muscimol's polar molecular chains are broken into individual dissolved units by the addition of water, producing a more purely psychedelic experience.
+The technology of ancient wine making (open fermentation in crocks or vats) would produce a stable vinegar solution, not alcoholic wine. Herbs and spices were also added in the mixing bowl. Teeter conducted experiments showing that Amanita muscaria extract, when diluted with water, actually becomes more potent and produces a purely psychedelic effect (similar to [[psilocybin]] or LSD) rather than the usual Amanita effects -- the opposite of every other drug extract on the planet. He theorizes that muscimol's polar molecular chains are broken into individual dissolved units by the addition of water, producing a more purely psychedelic experience.
 
 ## The Ancient World View of Gods
 
@@ -56,7 +56,7 @@ Understanding the Greek and Roman context requires understanding the ancient Ind
 
 ## The Haoma-Yasna Connection
 
-Teeter traces a direct line from the Vedic Soma ceremony to the Persian Yasna to the Roman Mithraic sacramental banquet to the Christian Eucharist. The Yasna ceremony used Haoma -- "the yellow plant, from which a juice was extracted and consumed." The sacred wine of Mithra was "a type of Haoma not alcoholic wine since it was said to possess exceptional properties compared to ordinary wine." The original Eucharist wine of early Christianity, Teeter argues, was identical to this Mithraic wine -- not grape fermentation but Amanita muscaria extract possessing healing, visionary, and immortality-conferring properties.
+Teeter traces a direct line from the [[mckenna-vedic-soma-indo-european-mysteries]] ceremony to the Persian Yasna to the Roman Mithraic sacramental banquet to the Christian Eucharist. The Yasna ceremony used Haoma -- "the yellow plant, from which a juice was extracted and consumed." The sacred wine of Mithra was "a type of Haoma not alcoholic wine since it was said to possess exceptional properties compared to ordinary wine." The original Eucharist wine of early Christianity, Teeter argues, was identical to this Mithraic wine -- not grape fermentation but Amanita muscaria extract possessing healing, visionary, and immortality-conferring properties.
 
 ## The Zoroastrian Reformation
 
@@ -74,6 +74,6 @@ This intoxication was "much more pleasant than that produced by the straight ext
 
 ## The Ambrosia Society and Continuing Research
 
-The Ambrosia Society, founded by Teeter in cooperation with the author, is described as "an Educational, Scientific, Religious and Fraternal Association of individuals dedicated to understanding the ancient Sacrament." The society continues Teeter's research into the practical applications of Amanita muscaria, including cultivation of the Living Bread and Sacramental Wine under modern conditions, as detailed in Chapter 15 of the book.
+The Ambrosia Society, founded by Teeter in cooperation with the author, is described as "an Educational, Scientific, Religious and Fraternal Association of individuals dedicated to understanding the ancient Sacrament." The society continues Teeter's research into the practical applications of Amanita muscaria, including cultivation of the [[amanita-muscaria-living-bread-sacrament]] and [[amanita-muscaria-sacramental-wine-preparation]] under modern conditions, as detailed in Chapter 15 of the book.
 
 ## See Also

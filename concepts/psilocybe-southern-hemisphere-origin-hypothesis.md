@@ -1,5 +1,5 @@
 ---
-title: Psilocybe Southern Hemisphere Origin Hypothesis
+title: Psilocybe guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi Origin Hypothesis
 created: 2026-04-28
 tags:
   - mycology
@@ -24,7 +24,7 @@ Guzman, Allen, and Gartz (1998) proposed that the genus Psilocybe and
 related neurotropic fungi may have originated in the southern hemisphere,
 primarily in South America, based on the markedly higher species diversity
 there compared to well-explored northern regions. This hypothesis is
-supported by distribution patterns, taxonomic relationships between
+supported by [[guzman-global-distribution-patterns-neurotropic-fungi]], taxonomic relationships between
 disjunct populations, and the ecology of mesophytic forest corridors.
 
 ## The Diversity Argument
@@ -36,7 +36,7 @@ approximately 116 known neurotropic Psilocybe species worldwide:
 - **18 species** in the USA and Canada
 - **9 species** in Europe
 
-This disparity is especially significant because North America and
+This disparity is especially significant because [[psilocybin-north-america-pacific-northwest]] and
 Europe are far more intensively studied mycologically than southern
 hemisphere regions. As Gartz (1996) observed: "The mushrooms occur in
 abundance wherever mycologists abound." The fact that species-poor
@@ -74,7 +74,7 @@ with Southeast Asia, Australia, and New Zealand through shared ancestry:
 ### Horak's South Pacific Observations
 
 Horak (1983) reported interesting relationships among agarics and
-boletes in the South Pacific hemisphere. South American and Mesoamerican
+boletes in the South Pacific hemisphere. [[chiric-caspi-brunfelsia-south-american-hallucinogen]] and Mesoamerican
 species of these fungi are closely related to those of Southeastern Asia
 (New Guinea, Indonesia, and Australia), including genera Cystoagaricus,
 Galerina, Mycena, and Paxillus. This distribution pattern extends to
@@ -86,7 +86,7 @@ connections shaped the current distribution.
 The [[panaeolina-foenisecii]]
 2. **Northern hemisphere species**: Amanita spp., Cordyceps spp.,
    Psilocybe pelliculosa, P. silvatica
-3. **Eurasian species**: Amanita muscaria and some northern hemisphere
+3. **Eurasian species**: [[allegro-amanita-muscaria-properties-and-pharmacology]] and some northern hemisphere
    types
 4. **North American-Eastern Asiatic species**: P. graveolens, P.
    muliercula, P. pintonii, and P. zapotecorum from America are very
@@ -96,13 +96,13 @@ The [[panaeolina-foenisecii]]
 6. **Southeastern Asiatic species**: P. subaeruginascens var.
    subaeruginascens from Japan and Java
 7. **Tropical and subtropical species**: P. cubensis, P. subcubensis,
-   [[psilocybe-semilanceata]] lanceata (Europe, India, Russia,
+    lanceata (Europe, India, Russia,
   Canada, USA, Chile, Peru, New Zealand, Australia, Tasmania), though
   surprisingly absent from Mexico
 
 ## African Gaps
 
-Africa presents a significant gap in the distribution of neurotropic
+Africa presents a significant gap in the [[global-distribution-of-neurotropic-fungi]]
 fungi. Only 6-8 neurotropic Psilocybe species are known from the entire
 continent, despite its high overall biodiversity. No records exist from
 southeastern Russia, Mongolia, Arabia, Turkey, or many regions of Africa.
@@ -110,4 +110,7 @@ This absence is almost certainly due to insufficient mycological
 exploration rather than genuine absence.
 ## Related
 
-- [[psilocybe-global-biodiversity-southern-hemisphere-origin]] Topics
+- psilocybe-global-biodiversity-southern-hemisphere-origin Topics
+- [[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]]
+- [[neurotropic-fungi]]
+- [[psilocybe-samuiensis]]

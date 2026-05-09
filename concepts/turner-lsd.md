@@ -1,5 +1,5 @@
 ---
-title: LSD - The Essential Psychedelics Guide
+title: LSD - The turner-essential-psychedelics-5-meo-dmt-void-experience Guide
 created: 2026-04-26
 author: D.M. Turner
 sources: The Essential Psychedelics Guide (1994)
@@ -14,7 +14,7 @@ updated: 2026-04-26
 
 ## Material
 
-LSD is a synthetic compound derived from lysergic acid, which is found in Hawaiian Woodrose and Morning Glory seeds, or Ergot fungus, which can grow on rye, wheat, and other grains. Lysergic acid is also psychoactive, although not nearly as potent as LSD, and has been consumed for millennia in the form of the above mentioned plant sources. The most common street name for LSD is "acid."
+LSD is a synthetic compound derived from [[ergot-and-lysergic-acid-history]], which is found in Hawaiian Woodrose and [[golden-guide-morning-glory-and-ololiuqui]] seeds, or Ergot fungus, which can grow on rye, wheat, and other grains. Lysergic acid is also psychoactive, although not nearly as potent as LSD, and has been consumed for millennia in the form of the above mentioned plant sources. The most common street name for LSD is "acid."
 
 ## History
 
@@ -29,7 +29,7 @@ In the early Sixties Timothy Leary and friends began spreading the word that LSD
 LSD is extremely potent by weight and the amount required for a single dose is barely visible to the naked eye. LSD is usually sold on blotter paper, in tablets, or in liquid. With all of these forms it is impossible to tell the amount of LSD one is actually consuming.
 
 - **100 mcg** - minimum psychedelic dose; produces a low-level experience, not overwhelming, without hallucinations
-- **200 mcg** - minimum dose for a full psychedelic experience, complete with visuals and hallucinations (most people need more)
+- **200 mcg** - minimum dose for a full [[leary-psychedelic-experience-bardo-mapping]], complete with visuals and hallucinations (most people need more)
 - **500 mcg** - typical dose for experienced users seeking "transformational states"
 - **1000+ mcg** - large doses for breakthrough experiences
 - **Average street dose** - 50 to 100 mcg range
@@ -80,7 +80,7 @@ Harmala will add a unique dimension to an acid experience. Turner found that it 
 
 ### DMT
 
-Turner had some powerfully enlightening experiences smoking N,N-DMT while on acid. The DMT experience overwhelms the acid experience during its short duration. The acid essentially puts the user on a higher platform for launching into the DMT, and the "open mind" state produced by the acid allows for a deeper DMT experience.
+Turner had some powerfully enlightening experiences smoking N,N-DMT while on acid. The [[mckenna-dmt-experience-and-hyperspace]] overwhelms the acid experience during its [[savory-short-duration-grazing-and-cell-systems]]. The acid essentially puts the user on a higher platform for launching into the DMT, and the "open mind" state produced by the acid allows for a deeper DMT experience.
 
 ### Nitrous Oxide
 

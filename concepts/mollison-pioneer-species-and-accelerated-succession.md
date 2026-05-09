@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 # Pioneer Species and Accelerated Succession
-Mollison explores ecological succession as a design tool, showing how
+Mollison explores [[holmgren-ecological-succession-and-pulsing]] as a design tool, showing how
 the natural process of ecosystem development can be understood and
 accelerated to create productive, stable systems more quickly. Pioneer
 species play a critical role in preparing sites for long-term productive
@@ -28,7 +28,7 @@ environments. We see "weeds" (thistles, Lantana) occupying overgrazed,
 eroded, or fired areas. These pioneer species assist the area by
 stabilising water flow in the landscape, and later they give shelter,
 provide mulch, or improve soil quality for their successors (the
-longer-term forest or tree crop species).
+longer-term forest or [[mollison-tree-crop-systems-permaculture]] species).
 ## Disturbance and the Serial Mosaic
 Fire, flood, death, and other local disturbances renew the system and
 impose a serial mosaic on the site. Almost all landscapes show evidence
@@ -56,11 +56,11 @@ long-term plan.
 The plant nursery is a Zone 1 component containing seedlings, young
 trees for outer zone placement, "mother plants" for cuttings, rare and
 delicate species, and species propagated for specific succession roles.
-This is covered in [[mollison-succession-planting]] for detailed succession planting
+This is covered in mollison-succession-planting for detailed [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]]
   techniques.
-- [[mollison-soil-rehabilitation]] for restoring degraded sites before
+- mollison-soil-rehabilitation for restoring degraded sites before
   planting.
-- [[mollison-zone-one-garden-design]] for intensive early-stage systems.
+- mollison-zone-one-garden-design for intensive early-stage systems.
 ## Key Principles
 1. Nature's succession can be compressed from decades to years by
   planting all stages at once.
@@ -69,7 +69,7 @@ This is covered in [[mollison-succession-planting]] for detailed succession plan
 3. A plant nursery is essential for supplying the 4,000-8,000 plants
   needed per hectare.
 ## See Also
-- [[pioneer-species-and-succession-permaculture-design]]
+- pioneer-species-and-succession-permaculture-design
 ## Practical Considerations
 
 Successful implementation of Pioneer Species and Accelerated Succession requires attention to
@@ -88,4 +88,6 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+- [[permaculture-design]]
+- [[succession-planting]]
+- [[mollison-designers-pioneer-species-for-exhausted-tropical-soils]]

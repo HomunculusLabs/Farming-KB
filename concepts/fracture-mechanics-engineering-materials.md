@@ -124,7 +124,7 @@ The Charpy V-notch impact test (ASTM E23) uses a 10x10x55 mm bar with
 tension specimens (ASTM E399) determine K_IC with W = 2B geometry and
 fatigue pre-cracking. Validity requires a, B >= 2.5*(K_IC/sigma_y)^2.
 Three-point bend specimens (ASTM E399/E1820) serve both K_IC and J_IC
-testing. Additional standards include CTOD (ASTM E1290), fatigue crack
+testing. Additional standards include CTOD (ASTM E1290), [[fatigue-crack-growth]]
 growth (ASTM E647), and creep testing (ASTM E139, 1000+ hours).
 
 ## Engineering Applications
@@ -135,7 +135,7 @@ predictions to set inspection intervals. The 1988 Aloha Airlines Flight
 Pressure vessel design follows ASME Boiler Code Section XI with leak-
 before-break criteria. Pipeline assessment uses API 579 fitness-for-
 service methods. Failure analysis involves visual examination,
-fractography (SEM), chemical analysis, mechanical testing, and stress
+fractography (SEM), [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]], mechanical testing, and stress
 analysis. Non-destructive evaluation includes ultrasonic testing (~1 mm
 crack detection), radiography, eddy current, and acoustic emission.
 ## See Also

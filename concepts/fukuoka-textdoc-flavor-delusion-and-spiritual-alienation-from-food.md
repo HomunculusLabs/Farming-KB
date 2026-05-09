@@ -1,5 +1,5 @@
 ---
-title: "Flavor Delusion and Spiritual Alienation from Food"
+title: "fukuoka textdoc flavor delusion and spiritual alienation from food and fukuoka-flavor-philosophy-spiritual-alienation-food from Food"
 created: 2026-04-28
 tags: [fukuoka, natural-farming, food-philosophy, natural-diet, flavor, spiritual-alienation]
 date: 2026-04-28
@@ -23,7 +23,7 @@ relationship between the human spirit and the natural world.
 
 ## The Nature of Flavor
 
-Flavor cannot be understood through chemical analysis or the
+Flavor cannot be understood through [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] or the
 sensations at the tip of the tongue. Even were the five tastes
 perceived by five different organs, a person would be unable
 to sense the true flavor if their instincts themselves were
@@ -68,7 +68,7 @@ cooking.
 
 An adult who has lost the instinctive sense of taste no
 longer appreciates the taste of rice. Normally eating white
-rice prepared by polishing brown rice to remove the bran,
+rice prepared by polishing [[cho-brown-rice-vinegar-preparation]] to remove the bran,
 such a person adds meat sauce or eats it with sashimi to
 make up for the loss in flavor. People delude themselves
 into thinking of white rice, which has been stripped of the
@@ -138,7 +138,7 @@ In efforts to make bread tastier, bread has ceased to taste
 ## See Also
 
 - [[fukuoka-textdoc-tasty-rice-delusion-food-flavor-crisis]]
-  for the specific analysis of the tasty rice movement
+  for the specific analysis of the [[fukuoka-tasty-rice-illusion-food-processing]] movement
 - [[fukuoka-textdoc-nature-of-food]] for the unity of
   matter and spirit in food
 - [[fukuoka-textdoc-matter-spirit-unity-food]] for the

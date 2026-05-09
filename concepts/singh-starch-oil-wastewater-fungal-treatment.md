@@ -1,5 +1,5 @@
 ---
-title: Fungal Treatment of Starch and Oil Manufacturing Wastewaters
+title: singh-biopile-fungal-treatment-contaminated-soil of Starch and Oil Manufacturing Wastewaters
 created: 2026-04-26
 tags:
   - starch-wastewater
@@ -19,7 +19,7 @@ type: concept
 Starch-processing and oil manufacturing industries generate large volumes
 of wastewater with high organic loads that require effective treatment
 before discharge. Fungi offer an attractive biological treatment option,
-converting biodegradable organic matter into valuable mycelial biomass
+converting biodegradable [[hamilton-composting-and-organic-matter-management]] into valuable mycelial biomass
 that can serve as animal feed supplement while simultaneously reducing
 waste strength.
 
@@ -64,7 +64,7 @@ Geotrichum fragrans reduced 40% of COD in cassava wastewater.
 Aspergillus niger ATCC 6275 forms pellets effective for starch wastewater
 treatment. Pellets exhibited 90% starch decomposition and 75% TOC
 removal in continuous two-reactor systems. Aspergillus oryzae produces
-fungal biomass protein and alpha-amylase in starch-processing wastewater,
+[[bioremediation-fungal-biomass-biosorbent-material]] protein and alpha-amylase in starch-processing wastewater,
 with a one-stage nonaseptic airlift bioreactor removing 95% COD, 93%
 BOD, and 98% suspended solids.
 
@@ -72,7 +72,7 @@ Rhizopus oligosporus treated starch-processing wastewater in a 45-L
 airlift bioreactor, achieving 96% COD reduction and complete suspended
 solids removal. An internal airlift loop reactor with ceramic honeycomb
 support for Candida tropicalis biofilm was used in high-carbohydrate
-wastewater treatment, accumulating dense biomass and producing significant
+[[mollison-designers-wastewater-treatment-wetlands]], accumulating dense biomass and producing significant
 single-cell protein.
 
 ### Solid-State Fermentation
@@ -82,7 +82,7 @@ Myceliophthora thermophila during solid-state fermentation. The highest
 cellulolytic and amylolytic activities were 1300 IU/kg and 1800 IU/kg
 dried sago hampas, respectively, after 72 hours. Although the final
 protein content was not high, an improvement of more than 200% was
-achieved, demonstrating the potential for upgrading agricultural waste.
+achieved, demonstrating the potential for upgrading [[fungi-in-composting-and-agricultural-waste-conversion]].
 
 ## Oil Manufacturing Plant Wastewater
 

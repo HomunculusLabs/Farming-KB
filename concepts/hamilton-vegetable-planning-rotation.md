@@ -1,7 +1,7 @@
 ---
-title: Vegetable Garden Planning and Rotation
+title: fukuoka-dutch-priest-vegetable-garden-spiritual-renewal Planning and Rotation
 created: 2026-04-26
-author: [[geoff-hamilton]]
+author: geoff-hamilton
 sources: hamilton-geoffhamilton-nick_-organic-gardening.md
 updated: 2026-04-24
 type: concept
@@ -24,14 +24,14 @@ year, you make better use of resources and allow the soil to replenish
 lost minerals. Divide the vegetable plot into four sections:
 
 ### Plot A (Heavily Manured)
-Double digging, incorporating manure in upper and lower levels, plus
+[[comparison-double-digging-vs-no-till]], incorporating manure in upper and lower levels, plus
 blood, fish, and bone meal. Crops: potatoes, carrots, beets, parsnips,
 onions, shallots, leeks, garlic, tomatoes, zucchini, squash, pumpkins,
 celery, eggplants, peppers, cucumbers, melons, celeriac.
 
 ### Plot B (Legumes and Light Feeders)
 Single digging with blood, fish, and bone meal. Crops: peas, green beans,
-runner beans, broad beans, Lima beans, sweet corn, lettuce, spinach,
+runner beans, broad beans, Lima beans, [[growing-sweet-corn-organically]], lettuce, spinach,
 chard, Swiss chard, chicory, endive, globe artichokes.
 
 ### Plot C (Brassicas and Lime)
@@ -45,7 +45,7 @@ sea kale, herbs. These do not rotate.
 
 Each year, move each group to the next plot so that two years elapse
 before any crop returns to its original site. This maintains mineral
-balance, reduces disease risk, and makes best use of organic matter.
+balance, reduces disease risk, and makes best use of [[hamilton-composting-and-organic-matter-management]].
 
 ## The Deep Bed System
 
@@ -79,7 +79,7 @@ square yard into the top inch of soil, and cover with 2 inches of
 well-rotted garden compost.
 
 Gross feeders (tomatoes, zucchini, squashes, peppers) benefit from
-liquid kelp every two weeks during the growing season. Overwintered
+liquid kelp every two weeks during the [[savory-growing-season-and-non-growing-season-management]]. Overwintered
 crops like spring cabbage need an extra boost of dried blood in spring.
 
 ## Successional Sowing and Continuous Supply
@@ -101,9 +101,13 @@ system can also be adapted for ornamental growing.
 
 Draw a detailed plan on paper, measuring boundaries using triangulation
 from the house corners. Include space for compost bins, a greenhouse,
-cold frames, fruit cage, herb garden, and utility area. Be flexible
+[[hamilton-cold-frames-and-hardening-off]], fruit cage, herb garden, and utility area. Be flexible
 when transferring the plan to the garden -- if a curve looks wrong
 when cut, adjust it. If it looks right, it is right.
 
 See also: [[hamilton-organic-weed-management]],
 [[hamilton-organic-seed-saving-propagation]]
+## See Also
+- [[hamilton-organic-seed-saving-propagation]]
+- [[hamilton-organic-weed-management]]
+- [[gaias-garden-cover-crops-soil-building]]

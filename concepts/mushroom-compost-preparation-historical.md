@@ -1,7 +1,7 @@
 ---
-title: Mushroom Compost Preparation — Historical Methods
+title: Mushroom cultivator-compost-preparation-phase-methods — Historical Methods
 slug: mushroom-compost-preparation-historical
-source: Benjamin Minge Duggar, Mushroom Growing (1915)
+source: Benjamin [[benjamin-minge-duggar-mushroom-cultivation-research]], [[duggar-mushroom-growing-history-and-methods]] (1915)
 tags: [compost, manure, fermentation, mushroom-cultivation, horse-manure, substratum]
 ---
 
@@ -35,11 +35,11 @@ However, in order to exclude poor material, growers were advised to avoid manure
 
 Any short, trashy compost does not make the best substratum for mushrooms.
 
-It is probably less retentive of moisture and provides inferior structure for mycelial growth.
+It is probably less retentive of moisture and provides inferior structure for [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]].
 
 ## The Ideal Manure Profile
 
-The French ideal was manure from grain-fed animals bedded with rye straw.
+The French ideal was manure from grain-fed animals bedded with [[coleman-rye-straw-mat-cold-frame-insulation]].
 
 When the French government decreed that other cereal straws should be substituted for rye in the cavalry stables to save expense, there was a strong but futile outcry on the part of French mushroom growers.
 
@@ -92,3 +92,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[historical-mushroom-manure-sources]]

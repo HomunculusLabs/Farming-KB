@@ -17,13 +17,13 @@ trumpets," a group of species within the genus *Datura* characterized by
 their large, pendant, trumpet-shaped flowers and woody growth habit. Like
 all Datura species, *D. candida* contains potent tropane alkaloids and has
 a long history of use and misuse as a hallucinogen, medicine, and
-ceremonial plant in indigenous South American cultures.
+ceremonial plant in indigenous [[chiric-caspi-brunfelsia-south-american-hallucinogen]] cultures.
 
 ## Botanical Description
 
 *Datura candida* is a fast-growing, woody perennial that can reach 2 to 5
 meters in height under favorable conditions, occasionally attaining heights
-of 8 meters [[datura-stramonium]] and [[guzman-psilocybin-mushrooms-mexico-central-america]], the Caribbean, Hawaii, parts of Africa, South and Southeast Asia,
+of 8 meters [[datura-stramonium]] and [[guzman-psilocybin-mushrooms-mexico-central-america]], the Caribbean, Hawaii, parts of Africa, South and [[psilocybe-southeast-asia-pacific]],
 and Australia. It is valued in horticulture for its spectacular, fragrant
 flowers and has escaped cultivation in many areas to become established in
 the wild.
@@ -76,7 +76,7 @@ a sign of spiritual strength.
 ### Medicinal Use
 Indigenous Andean medicine uses tree datura preparations both externally
 and internally. External applications include poultices for wounds,
-arthritis, and inflammatory skin conditions, and baths for rheumatic
+arthritis, and inflammatory [[cannabis-for-skin-conditions-detailed]], and baths for rheumatic
 complaints. Internal use in very small doses treats respiratory ailments,
 asthma, bronchitis, and spasmodic conditions. The anticholinergic
 properties that produce hallucinations at higher doses provide genuine

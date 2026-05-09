@@ -15,7 +15,7 @@ sources:
   - "Rayner, A.D.M. (1977). \"Microbial cycling of nutrients in forest floors.\" Annual Review of Ecology and Systematics, 8, 429-442."
   - "De Jong, E. (2000). \"The genus Chondrostereum.\" Persoonia, 17(3), 399-422."
   - "Schwarze, F.W.M.R., Engels, J., Mattheck, C. (2000). Fungal Strategies of Wood Decay in Trees. Springer."
-  - "Ramsfield, T.D. et al. (1996). \"Chondrostereum purpureum as a biological control agent.\" Canadian Journal of Plant Pathology, 18, 331-335."
+  - "Ramsfield, T.D. et al. (1996). \"Chondrostereum purpureum as a [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent.\" Canadian Journal of Plant Pathology, 18, 331-335."
   - "Blanchette, R.A. (1991). \"Delignification by wood-decay fungi.\" Annual Review of Phytopathology, 29, 381-398."
 ---
 
@@ -62,7 +62,7 @@ Its white-rot decay mechanism and ability to colonize freshly cut stumps make it
 
 ## Distribution and Habitat
 
-*Chondrostereum purpureum* has a broad circumpolar distribution across temperate regions of Europe, North America, Asia, and parts of the Southern Hemisphere.
+*Chondrostereum purpureum* has a broad circumpolar distribution across temperate regions of Europe, [[psilocybin-north-america-pacific-northwest]], Asia, and parts of the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]].
 
 It occurs as a saprotroph on dead hardwood branches, trunks, and stumps.
 
@@ -109,9 +109,9 @@ It is particularly effective on species prone to prolific re-sprouting such as a
 
 *C. purpureum* produces a classic white-rot decay, characterized by simultaneous degradation of lignin and cellulose.
 
-It secretes lignin peroxidase (LiP), manganese peroxidase (MnP), and laccase enzymes that break down the lignin polymer matrix.
+It secretes lignin peroxidase (LiP), [[fungal-manganese-peroxidase-remediation]] (MnP), and [[singh-fungal-laccase-enzymes-bioremediation]] that break down the lignin polymer matrix.
 
-Cellulose degradation is mediated by endoglucanases, cellobiohydrolases, and β-glucosidases.
+[[brown-rot-fungi-cellulose-degradation-wood-decay]] is mediated by endoglucanases, cellobiohydrolases, and β-glucosidases.
 
 The combined enzymatic attack results in bleached, fibrous, and eventually spongy wood that is structurally compromised.
 

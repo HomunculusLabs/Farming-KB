@@ -1,5 +1,5 @@
 ---
-title: Morning Glory Entheogens
+title: golden-guide-morning-glory-and-ololiuqui Entheogens
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -12,11 +12,11 @@ tags: [entheogen]
 
 The morning glory family (Convolvulaceae) includes several species
 whose seeds contain psychoactive ergoline alkaloids. The most
-important entheogenic morning glories are Turbina corymbosa
-(ololiuqui), Ipomoea violacea (badoh negro), and Argyreia nervosa
+important entheogenic [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] are [[plants-of-the-gods-turbina-corymbosa-ololiuqui]]
+(ololiuqui), Ipomoea violacea (badoh negro), and [[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]]
 (Hawaiian baby woodrose). These plants have been used for centuries
 in Mesoamerican ritual and continue to be significant in ethnobotany
-for their unique chemistry and cultural importance.
+for their unique [[amanita-muscaria-cultural-history]] importance.
 
 ## Overview
 
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

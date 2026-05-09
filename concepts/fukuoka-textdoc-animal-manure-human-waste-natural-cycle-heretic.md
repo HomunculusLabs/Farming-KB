@@ -15,11 +15,11 @@ type: concept
 
 One of Fukuoka's most provocative philosophical arguments is the identification of man as nature's heretic: the sole creature that not only produces waste but feels compelled to manage and redistribute it through elaborate systems of composting and manure application.
 
-In nature, there is no waste. Every organism's excretions become food for another organism in a seamless cycle of transformation. Only man creates systems that require him to collect, process, and apply his own waste back to the land, revealing how far he has fallen from the [[soil-fertility-management]] in the short term. But he argued that dependence on animal manure, like dependence on chemical fertilizers, is a sign that the farming system is fundamentally broken. A system that requires regular inputs of manure is not self-sustaining and will eventually fail when the supply of manure is interrupted.
+In nature, there is no waste. Every organism's excretions become food for another organism in a seamless cycle of transformation. Only man creates systems that require him to collect, process, and apply his own waste back to the land, revealing how far he has fallen from the [[soil-fertility-management]] in the short term. But he argued that dependence on fukuoka textdoc animal manure human waste natural cycle heretic, like dependence on [[cervantes-chemical-fertilizers-guide]], is a sign that the farming system is fundamentally broken. A system that requires regular inputs of manure is not self-sustaining and will eventually fail when the supply of manure is interrupted.
 
-The use of animal manure also creates practical problems. Manure must be collected, stored, composted, and spread, all of which require labor and equipment. The nutrient content of manure is variable and difficult to predict. Improperly composted manure can introduce weed seeds, pathogens, and other problems.
+The use of animal manure also creates practical problems. Manure must be collected, stored, composted, and spread, all of which require labor and equipment. The nutrient content of manure is variable and difficult to predict. Improperly [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]] can introduce weed seeds, pathogens, and other problems.
 
-And the practice of raising animals specifically for their manure, as is common in some [[building-soil-fertility-long-term]] health, Fukuoka saw it as an admission that the farming system was not working properly. In a natural system, organic matter is returned to the soil directly, without the intermediate step of composting.
+And the practice of raising animals specifically for their manure, as is common in some [[building-soil-fertility-long-term]] health, Fukuoka saw it as an admission that the farming system was not working properly. In a natural system, [[hamilton-composting-and-organic-matter-management]] is returned to the soil directly, without the intermediate step of composting.
 
 The compost heap is, in Fukuoka's analysis, a monument to human arrogance. It represents the belief that man can improve upon nature's methods of decomposition and [[fukuoka-natural-fertility-cycle]]
 - [[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]]
@@ -100,4 +100,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

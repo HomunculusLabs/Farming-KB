@@ -1,5 +1,5 @@
 ---
-title: Catch Crop and Polyculture Design
+title: holzer catch crop and polyculture design and aquatic-polyculture-design-mollison
 created: 2026-04-26
 tags:
   - polyculture
@@ -15,7 +15,7 @@ type: concept
 
 # Catch Crop and Polyculture Design
 
-Sepp Holzer's approach to catch crops and polycultures represents a
+[[comparison-sepp-holzer-vs-biodynamic]]'s approach to catch crops and polycultures represents a
 sophisticated understanding of plant communities and their interactions.
 Rather than growing crops in isolation, he designs multi-species plantings
 that complement each other, improve the soil, provide multiple harvests, and
@@ -34,7 +34,7 @@ energy-rich but contains little protein, so peas are particularly suitable
 for balancing the feed.
 
 ### Flax with Clover
-When growing flax, a catch crop of white clover is advisable. If the clover
+When growing flax, a catch crop of [[fukuoka-white-clover-cover-crop-system]] is advisable. If the clover
 is sown a little later, the flax will have a head start and it will stop the
 clover from becoming overgrown. When selecting catch crops it is important
 to pay close attention to the combination of plants, so that the main crop
@@ -56,8 +56,8 @@ conditions. This makes it possible to feed livestock naturally for longer.
 If the snow is not too deep, the animals can even survive the winter on this
 mixture of feed without requiring any additional feeding.
 
-This approach to [[sepp-holzer-garden-helpers-and-pest-regulation]] by creating habitat for beneficial insects that
-help control pest populations naturally.
+This approach to [[sepp-holzer-garden-helpers-and-pest-regulation]] by creating [[query-how-do-i-design-habitat-for-beneficial-insects]] insects that
+help [[query-how-do-parasitoid-wasps-control-pest-populations]] populations naturally.
 
 ## Slope Stabilisation Polycultures
 

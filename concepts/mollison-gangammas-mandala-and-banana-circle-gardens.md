@@ -1,5 +1,5 @@
 ---
-title: "Gangamma's Mandala and Banana Circle Gardens"
+title: "Gangamma's Mandala and comparison-banana-circle-vs-herb-spiral Gardens"
 created: 2026-04-26
 tags:
   - permaculture
@@ -20,14 +20,14 @@ In Taiwan and the Philippines, small intensively-planted home
 gardens have long been planned to feed a family of five all
 year. Bill Mollison adds his own permaculture "least-path"
 layouts to these traditions, creating a very concise and
-effective model of sustenance garden design for tropical and
+effective model of sustenance [[comparison-mandala-garden-design-vs-keyhole-garden-design]] for tropical and
 subtropical regions. He names the design "Gangamma's Mandala"
-after one of his Karnataka (India) permaculture design course
+after one of his Karnataka (India) [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] course
 graduates.
 
 ## The Banana Circle Foundation
 
-The core of the mandala is a banana/sweet potato/papaya
+The core of the mandala is a banana/[[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]/papaya
 circle garden. The construction process begins at the centre
 of a 100 square metre (1075 square foot) or larger area, where
 a circle 2 m (6 feet) across is described and the topsoil (or
@@ -53,7 +53,7 @@ can be included.
 
 ## Keyhole Bed Design
 
-Surrounding the banana circle are keyhole beds arranged in a
+Surrounding the banana circle are [[gaias-garden-keyhole-beds-and-mandala-gardens]] arranged in a
 mandala pattern. Keyhole paths use raised or gravel paths that
 allow access from one visit to every bed. The beds are about
 1 m across. A keyhole wedge at the base of each bed allows
@@ -61,7 +61,7 @@ the gardener to reach the centre without stepping on soil. The
 hedge surround (E in the mandala) eventually provides annual
 mulch, using a layered sequence of vetiver or lemon grass at
 the outer edge, comfrey, arrowroot, a taller hedge of
-Casuarina, papaya, castor, Leucaena, pigeon pea, and banana.
+Casuarina, papaya, castor, Leucaena, [[comparison-pigeon-pea-vs-cowpea]], and banana.
 
 ## Wet and Dirty Water Patches
 

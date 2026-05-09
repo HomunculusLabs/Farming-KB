@@ -23,7 +23,7 @@ Mimosa pudica (the sensitive plant) has served as a model organism for studying
 plant responsiveness since the 18th century. When touched or shaken, Mimosa
 rapidly folds its leaflets and droops its petioles — the dramatic "fainting"
 response that has fascinated observers for centuries. This seismonastic movement
-is driven by rapid changes in turgor pressure in specialized cells called
+is driven by rapid changes in [[bloomfield-turgor-pressure-and-hyphal-invasion]] in specialized cells called
 pulvini at the base of each leaflet and petiole.
 
 Monica Gagliano's landmark 2014 study tested whether Mimosa pudica could
@@ -77,6 +77,8 @@ fundamental principles of biological computation that are obscured by the
 complexity of animal nervous systems.
 
 ## See Also
+
+- [[plant-memory-and-learning-mechanisms]]
 
 - plant senses overview
 - [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering]]-red-far-red-switch-photoperiodism

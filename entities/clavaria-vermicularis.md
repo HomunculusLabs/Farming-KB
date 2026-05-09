@@ -54,7 +54,7 @@ hyaline, and inamyloid. Basidia are 4-spored, clavate, 50–70 µm long. Cystidi
 
 ## Distribution and Habitat
 
-*Clavaria vermicularis* has a broad circumpolar distribution across Europe, North America,
+*Clavaria vermicularis* has a broad circumpolar distribution across Europe, [[psilocybin-north-america-pacific-northwest]],
 and temperate Asia. It is found from lowland grasslands to montane forests and is one of
 the more frequently encountered clavarioid fungi in temperate regions.
 
@@ -86,19 +86,19 @@ lookalikes include:
   not terrestrial.
 
 The unbranched, pure white, cylindrical fruiting bodies combined with smooth, broadly
-ellipsoid spores provide reliable identification. Microscopic examination of spore
+ellipsoid spores provide reliable identification. [[fungal-microscopic-examination-mounting-media-techniques]] of spore
 ornamentation is definitive where field identification is uncertain.
 
 ## Ecological Role
 
 As a saprotroph, *C. vermicularis* decomposes organic matter in soil and leaf litter,
-contributing to nutrient cycling in grassland and forest floor ecosystems. It plays a
+contributing to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in grassland and forest floor ecosystems. It plays a
 role in breaking down complex polysaccharides and returning carbon and minerals to the
 soil solution.
 
-The species is sensitive to nitrogen deposition and habitat disturbance. In Europe,
+The species is sensitive to [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] and habitat disturbance. In Europe,
 declines have been noted in intensively managed agricultural grasslands where high
-nitrogen inputs and frequent cutting reduce fungal diversity. It persists better in
+nitrogen inputs and frequent cutting reduce [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]. It persists better in
 unimproved pastures, old meadows, and semi-natural grasslands.
 
 *C. vermicularis* serves as a food source for various invertebrates, including slugs
@@ -122,7 +122,7 @@ white coral fungus.
 
 ## Chemistry
 
-Chemical analysis of *Clavaria* species has identified several bioactive metabolites.
+[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of *Clavaria* species has identified several bioactive metabolites.
 Clavariic acids and related fatty acid derivatives have been isolated from various
 Clavariaceae members, though specific compounds from *C. vermicularis* remain
 understudied.
@@ -132,6 +132,8 @@ consistent with the general pattern of antimicrobial compound production in Clav
 No pharmaceutical applications have been developed from this species.
 
 ## See Also
+
+- [[thamnolia-vermicularis]]
 
 - [[clavaria-zollingeri]]
 

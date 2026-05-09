@@ -1,13 +1,6 @@
 ---
-title: "How Does Biochar Improve Soil Health and Should I Use It?"
-created: 2026-04-28
-tags: [query, biochar, soil-health, carbon, amendments]
-date: 2026-04-25
-updated: 2026-04-25
-sources: []
-type: query
----
 
+---
 # How Does Biochar Improve Soil Health and Should I Use It?
 
 ## Short Answer
@@ -19,12 +12,12 @@ binding nutrients away from plant roots.
 
 ## Detailed Explanation
 
-[[query-how-do-i-use-cover-crops-to-improve-soil-health]]
+query-how-do-i-use-cover-crops-to-improve-soil-health
 
-- [[query-what-is-biochar-and-should-i-use-it]] Questions
-- [[query-how-mycorrhizal-fungi-help-plants]]
-- [[query-how-to-make-compost-tea-for-my-plants]]
-- [[natural-farming-imo-collection-and-cultivation]] covers production rates in depth. For context, soybeans yield roughly 0.4 t protein/ha/year while spirulina can exceed 50 t/ha/year in optimized conditions.
+- query-what-is-biochar-and-should-i-use-it Questions
+- query-how-mycorrhizal-fungi-help-plants
+- query-how-to-make-compost-tea-for-my-plants
+- natural-farming-imo-collection-and-cultivation covers production rates in depth. For context, soybeans yield roughly 0.4 t protein/ha/year while spirulina can exceed 50 t/ha/year in optimized conditions.
 
 ### Resource Inputs
 
@@ -34,7 +27,7 @@ binding nutrients away from plant roots.
 
 ### Startup Cost and Complexity
 
-Spirulina has a steep learning curve: pH management (8.5–11), contamination monitoring, harvesting technique (fine mesh or cloth filter), and drying. [[jadam-livestock-integration-and-manure-management]] describe systems that are far more forgiving for beginners. Poultry and legumes are the most approachable for first-time homesteaders.
+Spirulina has a steep learning curve: pH management (8.5–11), contamination monitoring, harvesting technique (fine mesh or cloth filter), and drying. jadam-livestock-integration-and-manure-management describe systems that are far more forgiving for beginners. Poultry and legumes are the most approachable for first-time homesteaders.
 
 ### Nutritional Quality
 
@@ -67,7 +60,7 @@ This is spirulina's biggest weakness for direct human consumption. The strong, e
 ### Suburban Yard (0.1–0.5 acres)
 
 **Best options: Poultry + Spirulina + Legumes**
-- A backyard chicken flock (6–12 hens) provides eggs and meat with low effort.
+- A [[query-how-to-start-a-backyard-chicken-flock]] flock (6–12 hens) provides eggs and meat with low effort.
 - A 100–200 L spirulina tank supplements nutrition significantly.
 - Dedicated garden space for beans, peas, and peanuts provides storable protein.
 - Add a small BSF bin to convert kitchen scraps into chicken feed.
@@ -79,6 +72,6 @@ This is spirulina's biggest weakness for direct human consumption. The strong, e
 - At this scale, run multiple protein systems in parallel for resilience.
 - Use BSF to process farm waste into chicken and fish feed.
 - Grow duckweed/azolla in ponds as livestock feed (chickens, ducks, rabbits).
-- Aquaponics provides fish and vegetables; see [[natural-farming-imo-collection-and-cultivation]] — detailed spirulina growing guide
+- Aquaponics provides fish and vegetables; see [[natural-farming-imo-collection-and-cultivation]] — detailed spirulina [[comparison-bean-growing-guide-vs-pepper-growing-guide]]
 - [[jadam-livestock-integration-and-manure-management]] — aquatic plant protein systems
-- [[query-how-to-use-aquaponics-to-grow-herbs-and-vegetables]] — integrated fish and vegetable production
+- [[query-how-to-use-aquaponics-to-grow-herbs-and-vegetables]] — integrated fish and [[dry-gardening-unirrigated-vegetable-production-solomon]]

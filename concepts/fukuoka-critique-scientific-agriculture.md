@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's [[masanobu-fukuoka]]; Sowing Seeds in the Desert
+title: Fukuoka's masanobu-fukuoka; Sowing Seeds in the Desert
 tags: [natural-farming, philosophy, agriculture, ecology, fukuoka]
 created: 2026-05-08
 ---
@@ -51,7 +51,7 @@ Fukuoka is particularly critical of agricultural research institutions
 and their approach to understanding farming. He recounts visiting a
 research station where scientists were studying individual soil
 components in isolation, analyzing mineral content, microbial
-populations, and organic matter percentages, while ignoring the living
+populations, and [[hamilton-composting-and-organic-matter-management]] percentages, while ignoring the living
 system as a whole. He argues that this approach is not only ineffective
 but actively harmful, because it leads researchers to believe they
 understand soil when they merely understand some of its measurable
@@ -80,7 +80,7 @@ than depleting them.
 Fukuoka's critique of scientific agriculture extends to the conventional
 approach to disease and pest management. Agricultural science treats insects
 and diseases as enemies to be eliminated through chemical intervention, but
-Fukuoka argues that pests and diseases are symptoms of imbalance rather than
+Fukuoka argues that [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] are symptoms of imbalance rather than
 independent threats. A healthy, balanced ecosystem naturally keeps pest
 populations in check. When farmers apply pesticides, they kill beneficial
 insects alongside pests, disrupt soil biology, and create conditions that

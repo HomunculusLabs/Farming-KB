@@ -9,7 +9,7 @@ sources:
 ---
 # JADAM Natural Weed Control Strategies
 
-JADAM fundamentally redefines the relationship between farmers and weeds. Rather than treating wild grass as an enemy to be eliminated, JADAM seeks symbiosis -- using weeds as partners that provide organic matter, mineral diversity, temperature regulation, and disease suppression.
+JADAM fundamentally redefines the relationship between farmers and weeds. Rather than treating wild grass as an enemy to be eliminated, JADAM seeks symbiosis -- using weeds as partners that provide [[hamilton-composting-and-organic-matter-management]], mineral diversity, temperature regulation, and [[aact-disease-suppression-mechanisms-ingham]].
 
 ## The Paradigm Shift
 
@@ -43,7 +43,7 @@ Leave sufficient space between crop rows so grass growing between rows does not 
 
 ### Temperature Regulation
 
-Black plastic mulch (common in conventional farming) creates extreme temperature fluctuations: 45C (113F) at 1 cm depth during the day, dropping below 10C at night. Weed mats or grass cover provide much more stable temperatures. Grass also reduces the "tropical night" effect where soil stays hot through summer nights.
+Black [[jadam-plastic-mulch-problems]] (common in conventional farming) creates extreme temperature fluctuations: 45C (113F) at 1 cm depth during the day, dropping below 10C at night. Weed mats or grass cover provide much more stable temperatures. Grass also reduces the "tropical night" effect where soil stays hot through summer nights.
 
 ### Soil Improvement
 
@@ -54,7 +54,7 @@ Wild grass with vigorous growth extends roots more than 1.5x the above-ground he
 
 ### Disease Prevention
 
-Symbiosis with wild grass reduces the incidence of pests and diseases. Abundant organic matter prevents leaching of soil nutrients, keeping plants healthier and more resistant.
+Symbiosis with wild grass reduces the incidence of [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. Abundant organic matter prevents leaching of soil nutrients, keeping plants healthier and more resistant.
 
 ### Nutrient Cycling
 
@@ -70,7 +70,7 @@ The best method for soil temperature control and weed suppression. Mulch the fie
 
 UV-coated mats with small holes that allow air passage. Advantages over plastic:
 - Temperature rise is much smaller
-- Allows water and liquid fertilizer to pass through
+- Allows water and [[jadam-liquid-fertilizer-nutritional-perspective]] to pass through
 - Lasts approximately 5 years (vs. 1 year for plastic)
 - Can be shifted from place to place
 
@@ -91,7 +91,7 @@ If plastic must be used:
 
 ## The Bigger Picture
 
-Many say weed control is the greatest challenge in organic farming. JADAM reframes this: the conclusion is too simple, derived from viewing wild grass only as a competitor. Controlling weeds may require more labor, but the benefits of symbiosis far outweigh the costs. The key is to maximize the benefits of co-existence: abundant organic matter, stable temperatures, diverse minerals, and reduced disease pressure.
+Many say weed control is the greatest challenge in [[coleman-deep-organic-farming-philosophy]]. JADAM reframes this: the conclusion is too simple, derived from viewing wild grass only as a competitor. Controlling weeds may require more labor, but the benefits of symbiosis far outweigh the costs. The key is to maximize the benefits of co-existence: abundant organic matter, stable temperatures, diverse minerals, and reduced disease pressure.
 
 ## Related
 

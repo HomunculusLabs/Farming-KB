@@ -1,5 +1,5 @@
 ---
-title: Mushroom Flush Management and Watering Techniques
+title: Mushroom Flush Management and cannabis-watering-techniques-and-frequency
 created: 2026-04-28
 tags:
   - mushroom-cultivation
@@ -9,7 +9,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/the-mushroom-cultivator-stamets.md
+  sources: []
 type: concept
 ---
 
@@ -19,7 +19,7 @@ After pin initiation, mushroom crops enter a phase of flush management
 that determines overall yield and quality. The interplay of temperature,
 humidity, air movement, and watering during the cropping cycle requires
 careful attention to detail and represents what experienced growers call
-the "art" of mushroom cultivation.
+the "art" of [[accessible-mushroom-cultivation-for-disabilities]].
 
 ## Understanding Flush Patterns
 
@@ -31,7 +31,7 @@ pinning sets up a uniform pattern of flushing that continues throughout
 the cropping cycle.
 
 Uneven flushing creates difficult situations for proper watering and
-environmental control. To encourage even flushing, early forming pinheads
+[[eclss-environmental-control-life-support]]. To encourage even flushing, early forming pinheads
 are picked off as buttons unless they appear to constitute the flush
 itself. Poor first flushes are indicative of faulty pinning procedures
 and lead to lower total yields and a longer cropping period.
@@ -72,13 +72,13 @@ a whole and giving the grower greater control over the cropping cycle.
 During pin initiation, fresh air removes metabolic gases produced by the
 mycelium. As maturing mushrooms create more CO2, a continuous supply of
 fresh air is required. For Agaricus brunnescens, 4 to 6 air changes per
-hour is common. For more CO2-tolerant species like Psilocybe cubensis, 2
+hour is common. For more CO2-tolerant species like [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]], 2
 to 3 changes per hour is sufficient.
 
 Too much fresh air is preferable to insufficient air supply. However,
 fresh air displaces existing room air which is then exhausted. Unless
 this fresh air is preconditioned to meet species requirements, one will
-constantly disrupt the growing environment and overwork the heating and
+constantly disrupt the [[cannabis-growing-environment-setup]] and overwork the heating and
 humidification systems.
 
 ## The Role of Evaporation
@@ -92,7 +92,7 @@ Green Mold (Trichoderma) and Bacterial Blotch (Pseudomonas).
 Once primordia are set, the relative humidity should be lowered to 85
 to 92 percent and held constant throughout cropping. Evaporation aids in
 the transport of nutrients from the substrate to the growing mushrooms.
-It creates a cool surface effect through evaporative cooling that
+It creates a cool surface effect through [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]] that
 stimulates development.
 
 If the evaporation rate is too high and humidity falls below 85 percent,
@@ -139,6 +139,8 @@ slowly over a period of days. Agaricus growers also use slightly
 chlorinated water (150 ppm) to suppress bacterial blotch organisms.
 
 ## See Also
+
+- [[mushroom-cultivator-compost-pile-management]]
 
 - [[mushroom-cultivator-fruiting-conditions]]
 - [[mushroom-cultivator-harvesting-storage]]

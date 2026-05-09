@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Mushrooms of Mexico and Central America
+title: forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of Mexico and guzman-allen-gartz-neurotropic-fungi-central-america-caribbean
 created: 2026-04-26
 aliases:
   - Neurotropic fungi of Mexico
@@ -26,7 +26,7 @@ Mexico has the highest number of neurotropic (hallucinogenic) fungal species of 
 country in the world, with **76 species** recorded, of which **44 belong to the genus
 Psilocybe** (representing 39% of all known Psilocybe species globally). This reflects
 Mexico's extraordinary biodiversity in subtropical and temperate humid forests, and
-its deep cultural history of ceremonial mushroom use among indigenous peoples.
+its deep [[shroom-cultural-history-hippie-revolution-and-counterculture]] of ceremonial mushroom use among indigenous peoples.
 
 ## Mexico
 
@@ -53,7 +53,7 @@ singerii, P. subcubensis, P. subtropicalis, P. subyungensis, P. subzapotecorum,
 P. uxpanapensis, P. veraecrucis, P. villarrealii, P. wassoniorum, P. weldenii, P.
 xalapensis, P. yungensis, P. zapotecorum.
 
-**Other genera:** Amanita muscaria, A. pantherina; Claviceps paspali, C.
+**Other genera:** [[allegro-amanita-muscaria-properties-and-pharmacology]], A. pantherina; Claviceps paspali, C.
 purpurea; Conocybe siligineoides; Copelandia cyanescens, C. mexicana, C.
 tropicalis; Cordyceps capitata, C. ophioglossoides; Dictyophora indusiata;
 Gymnopilus aeruginosus (?), G. lateritius, G. liquiritiae, G. sapineus, G.
@@ -65,7 +65,7 @@ Vascellum intermedium, V. pratense, V. qudenii.
 
 ### Key species
 
-- **Psilocybe mexicana** -- The type species for the name *teonanacatl*, among the
+- **[[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]** -- The type species for the name *teonanacatl*, among the
   most culturally significant sacred mushrooms. Known from central and southern
   Mexico.
 - **Psilocybe aztecorum** -- Named for the Aztec people; found at high elevations
@@ -129,10 +129,12 @@ subtropical humid forests, particularly in the states of Oaxaca, Veracruz,
 Chiapas, Puebla, and Mexico state. Many species are associated with disturbed
 habitats (pastures, roadsides) where they grow on dung or in rich soils. The
 diversity of Psilocybe in Mexico is unmatched globally, reflecting both the
-country's complex topography and its ancient indigenous mushroom traditions.
+country's complex topography and its ancient indigenous [[sacred-mushroom-traditions-in-mexico]].
 ## See Also
+
+- [[guzman-voluntary-hallucinations-psilocybin-vapor-enclosed-spaces]]
 
 - [[guzman-allen-gartz-global-psilocybe-biogeography]]
 - [[gartz-global-psilocybin-mushroom-distribution]]
 - [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
-- [[teonanacatl-and-mesoamerican-mushroom-cults]]
+- teonanacatl-and-mesoamerican-mushroom-cults

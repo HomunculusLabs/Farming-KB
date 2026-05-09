@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -105,7 +106,7 @@ stripes, spots, and other designs that provide camouflage.
 
 ### Damage
 
-These chewing insects eat pieces of foliage and leave telltale
+These [[jadam-pesticide-for-chewing-insects]] eat pieces of foliage and leave telltale
 bite marks in leaves. Some [[cervantes-pyrethrum-pyrethroid-insecticides]]
 aerosol spray and shake the plant afterward. The spray has a
 quick knockout effect, and most caterpillars will fall from the

@@ -1,6 +1,6 @@
 ---
 
-title: Nutritive Cycle Theory — Cho's Growth Stage Framework
+title: cho-nutritive-cycle-theory Theory — Cho's Growth Stage Framework
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -24,7 +24,7 @@ sources:
 
 Master Han-Kyu Cho's Nutritive Cycle Theory is the foundational framework that determines when and how to apply KNF inputs. It recognizes that plants have different nutritional needs at different growth stages, just as humans need different foods as infants, children, adults, and elderly.
 
-The theory divides plant growth into three phases and prescribes specific nutrient types and KNF inputs for each. The most critical concept is the **changeover period** (also called "morning sickness") — the transition from vegetative to reproductive growth that determines the quality of the final harvest.
+The theory divides plant growth into three phases and prescribes specific nutrient types and KNF inputs for each. The most critical concept is the **changeover period** (also called "[[cho-morning-sickness-and-plant-cross-over-period]]") — the transition from vegetative to [[knf-reproductive-growth-stage]] that determines the quality of the final harvest.
 
 ## The Three Growth Stages
 
@@ -66,7 +66,7 @@ The most critical and most often neglected stage. The plant is transitioning fro
 
 **KNF inputs**:
 - WS-PA at 1:30 (700ml per 20L water) — phosphorus for energy transfer
-- [[water-soluble-calcium-phosphate-wcp]] at 1:500-1000 — calcium phosphate for transition
+- [[water-soluble-calcium-phosphate-wcp]] at 1:500-1000 — [[bionutrients-lab-calcium-phosphate-calamansi]] for transition
 - FFJ from less-ripe/sour fruits (grape, papaya) — acid content aids transition
 - [[water-soluble-calcium-wca]] at 1:1000 — calcium supports the transition
 - [[brown-rice-vinegar-brv]] at 1:200-500 — natural acetic acid, sour nutrient
@@ -93,7 +93,7 @@ The plant is producing flowers, fruit, or seeds. It needs quality-building nutri
 
 **KNF inputs**:
 - FFJ from fully ripened fruits (banana, mango, papaya, peach) at 1:1000 — sugar for development
-- [[oriental-herbal-nutrient-ohn]] at 1:1000 — pest/disease prevention
+- [[oriental-herbal-nutrient-ohn]] at 1:1000 — pest/[[cervantes-pest-disease-prevention-overview]]
 - WS-Ca at 1:1000 — prevents overgrowth, hardens fruit, promotes sugar accumulation
 - WS-K at 1:30 — potassium for starch synthesis, fruit quality, sugar content
 - Seawater at 1:30 — full-spectrum minerals for fruit quality
@@ -130,39 +130,11 @@ Apply 15 days and 2 days before harvest.
 4. **The changeover is critical**: More crops fail at this stage than any other
 5. **Stop nitrogen for flowering**: This is the most common mistake in biological agriculture
 6. **Calcium prevents overgrowth**: WS-Ca is the "brake" that keeps vegetative growth in check
-
-## Practical Application Chart
-
-| Input | Vegetative | Changeover | Reproductive |
-|-------|-----------|------------|-------------|
-| FPJ | 1:800-1000 | 1:1000 | 1:1000 (sparingly) |
-| FFJ | — | 1:1000 (sour) | 1:1000 (ripe) |
-| FAA | 1:1000 | STOP | STOP |
-| OHN | 1:1000 | 1:1000 | 1:1000 |
-| LAB | 1:1000 | Reduce | Reduce |
-| WS-Ca | Avoid | 1:1000 | 1:1000 |
-| WS-K | 1:30 (if weak) | — | 1:30 |
-| WS-PA | — | 1:30 | — |
-| WS-CaPo | — | 1:500-1000 | — |
-| BRV | — | 1:200-500 | — |
-| Seawater | — | — | 1:30 |
-| IMO | Soil drench | Soil drench | Soil drench |
-
-## Cannabis-Specific Notes
-
-For cannabis in [[cannabis-living-soil-guide]], the nutritive cycle maps to:
-- **Vegetative stage** (18/6 light): FPJ from fast-growing plants, light FAA if N-deficient
-- **Changeover** (flip to 12/12, weeks 1-2 of flower): WS-CaPo, sour FFJ, reduce all N inputs
-- **Reproductive** (weeks 3-8+ of flower): OHN for IPM, WS-Ca for calyx development, FFJ for resin production
-- **Late flower/ripen** (final 2 weeks): OHN + WS-Ca + Seawater for trichome maturation
-
-Note: Living soil already provides baseline nutrition — use KNF inputs as supplements, not primary feeding.
-
 ## See Also
 
 - [[knf-preparations]] — complete input guide with growth stage schedules
 - [[fermented-plant-extract-fpe]] — FPJ/FFJ recipes for each stage
-- [[fish-amino-acid-faa]] — nitrogen input for vegetative stage
+- [[fish-amino-acid-faa]] — nitrogen input for [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]
 - [[oriental-herbal-nutrient-ohn]] — immune support across all stages
 - [[water-soluble-calcium-wca]] — WS-Ca for changeover and reproductive stages
 - [[water-soluble-calcium-phosphate-wcp]] — WS-CaPo for the critical changeover period

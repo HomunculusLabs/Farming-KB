@@ -5,16 +5,16 @@ updated: 2026-04-23
 type: concept
 tags: [mulch, soil-food-web, decomposition, organic-matter]
 sources:
-  - "raw/papers/teaming-with-microbes-lowenfels.md"
+  sources: []
 ---
 
 # Mulch and the Soil Food Web
 
-Mulch is anything placed on top of soil to reduce evaporation, prevent weed growth, and insulate plants. For [[teaming-with-microbes-bacterial-vs-fungal-dominance]] by choosing the right mulch materials and application methods.
+Mulch is anything placed on top of soil to reduce evaporation, prevent weed growth, and insulate plants. For [[teaming-with-microbes-bacterial-vs-fungal-dominance]] by choosing the right [[mollison-mulch-materials-sources-and-tropical-application]] and application methods.
 
 ## Organic mulch options
 
-Organic mulches are materials that were once alive and can be recycled back into nutrients by soil food web organisms. These include leaves and leaf mold, aged pine needles, grass clippings, aged bark and wood chips, straw, well-rotted manure, seaweed, "almost compost," plant remnants, and paper.
+Organic mulches are materials that were once alive and can be recycled back into nutrients by soil food web organisms. These include leaves and [[comparison-leaf-mold-composting-vs-hot-composting-method]], aged pine needles, grass clippings, aged bark and [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]], straw, well-rotted manure, seaweed, "almost compost," plant remnants, and paper.
 
 Plastic sheeting may technically be mulch but provides no soil food web benefits.
 
@@ -26,7 +26,7 @@ Most gardeners know the standard reasons to use mulch: weed suppression (smother
 
 Beyond the standard benefits, mulch provides nutrients and habitat for soil food web organisms:
 
-- [[teaming-with-microbes-bacteria-the-smallest-workers]] and [[teaming-with-microbes-protozoa-and-nematodes]] follow, completing the nutrient cycling loop
+- [[teaming-with-microbes-bacteria-the-smallest-workers]] and [[teaming-with-microbes-protozoa-and-nematodes]] follow, completing the [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] loop
 
 Mulch is not as effective as [[teaming-with-microbes-bacterial-vs-fungal-dominance]].
 
@@ -36,7 +36,7 @@ The type of mulch determines which organisms dominate:
 
 **Green mulches** (fresh grass clippings, fresh plant material) support bacteria. They contain simple sugars that attract and feed bacterial populations. Lawn clippings are the most readily available green mulch — avoid clippings from lawns treated with weed killers or pesticides, and from yards where dogs are part of the soil food web. Do not pile grass too thick or it can start to compost and go anaerobic, creating offensive odors or heat that interferes with the soil food web.
 
-**Brown mulches** (aged leaves, wood chips, bark, straw, pine needles) support fungi. Leaves support fungal growth faster than wood chips. Bark chips last 3-4 years because lignin, cellulose, and waxes are difficult for microbes to decay; fungi dominate throughout. Leaves can decompose in 6 months; fungi dominate at the start, but bacteria increase once they get inside the material.
+**Brown mulches** (aged leaves, wood chips, bark, straw, pine needles) support fungi. Leaves support [[brassinosteroid-fungal-growth-promotion]] faster than wood chips. Bark chips last 3-4 years because lignin, cellulose, and waxes are difficult for microbes to decay; fungi dominate throughout. Leaves can decompose in 6 months; fungi dominate at the start, but bacteria increase once they get inside the material.
 
 ## Placement affects dominance (Rules #7-9)
 
@@ -59,7 +59,7 @@ If mulch has abundant carbon but little nitrogen (C:N ratio of 30:1 or greater),
 
 This is actually another reason mulch controls weeds so well: the biology in mulches ties up nitrogen, sulfur, phosphate, and other nutrients on the soil surface where mulch is put down — unavailable to shallow-rooted weeds while deeper-rooted plants are fine.
 
-Using wood chips 3/4 inch or larger reduces bacterial colonization and minimizes nitrogen immobilization in underlying soils. Mixing brown mulch with organic nitrogen sources (green grass, alfalfa meal) ensures the C:N ratio is adequate.
+Using wood chips 3/4 inch or larger reduces bacterial colonization and minimizes nitrogen immobilization in underlying soils. Mixing brown mulch with organic nitrogen sources ([[knf-green-grass-liquid-fertilizer]], alfalfa meal) ensures the C:N ratio is adequate.
 
 ## Application guidelines
 
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,11 +1,12 @@
 ---
-title: Fukuoka - The Naming Problem of Natural Farming
+title: Fukuoka - The fukuoka naming problem of natural farming of comparison-natural-farming-vs-permaculture
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 Updated: 2026-04-18
@@ -18,7 +19,7 @@ The naming problem is not a minor semantic issue but a window into the deepest t
 
 "What can he mean by saying 'my way of natural farming?' There is no X or Y school of natural farming."
 
-When a young man who had stayed on the farm for a year announced he was returning to Kyushu to start "my own way of natural farming," Fukuoka saw this as proof the young man had not succeeded in shedding his ego. Anyone who creates their own "method" or "school" has already failed to return to nature.
+When a young man who had stayed on the farm for a year announced he was returning to Kyushu to start "my own way of natural farming," Fukuoka saw this as proof the young man had not succeeded in shedding his ego. Anyone who creates their own "method" or "school" has already failed to [[emcdda-return-to-nature-megatrend-mushroom-appeal]].
 
 The creation of a school implies a set of principles that can be transmitted from teacher to student. But if natural farming cannot be taught — because it is not a body of knowledge but a mode of being — then any school is already a betrayal of the fundamental principle. This is why [[fukuoka-learning-about-nature-distances-one-from-nature]]. The artist who paints nature from memory is not closer to nature than the city dweller who never thinks about it at all. Both are operating through the medium of human concepts and images. The difference is that the artist believes they are engaging with nature, while the city dweller makes no such claim.
 
@@ -38,7 +39,7 @@ This connects to [[fukuoka-nature-as-teacher]]: the real teacher is not Fukuoka 
 
 ## The Marketplace of Names
 
-In the decades since Fukuoka first raised the naming problem, the natural farming movement has splintered into dozens of named approaches: permaculture, biodynamic farming, regenerative agriculture, agroecology, holistic management, and many more. Each carries the name of its founder or a branded methodology. From Fukuoka's perspective, this proliferation of names is a symptom of the underlying problem — the human need to own, systematize, and market what should remain nameless.
+In the decades since Fukuoka first raised the naming problem, the natural farming movement has splintered into dozens of named approaches: permaculture, [[comparison-biodynamic-farming-vs-organic-farming]], regenerative agriculture, agroecology, [[savory-holistic-management-overview]], and many more. Each carries the name of its founder or a branded methodology. From Fukuoka's perspective, this proliferation of names is a symptom of the underlying problem — the human need to own, systematize, and market what should remain nameless.
 
 This does not mean these approaches are worthless; many of them incorporate genuine insights about working with nature. But Fukuoka would caution that the moment any approach becomes a "brand" with certified practitioners and standardized methods, it has already departed from the spirit of natural farming. The [[fukuoka-learning-about-nature-distances-one-from-nature]]
 
@@ -63,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

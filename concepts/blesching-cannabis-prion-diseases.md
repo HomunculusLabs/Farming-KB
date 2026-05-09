@@ -36,7 +36,7 @@ mainly among members of a cannibalistic tribe in Papua New Guinea and has been
 in decline since the practice ended.
 
 Some orthodox medical treatments have accidentally transmitted Creutzfeldt-Jakob
-disease: older types of growth hormones extracted from cadaver pituitary glands,
+disease: older types of [[gibberellins-plant-growth-hormones]] extracted from cadaver pituitary glands,
 blood transfusions, and certain surgeries (brain, eye, or organ transplants).
 Hospitals find prions extremely difficult to destroy once attached to
 instruments and environments.
@@ -106,7 +106,7 @@ promising treatment approach warrants serious consideration. Cannabinoids
 easily cross the blood-brain barrier and can reach affected tissue with
 relatively few side effects. Time-proven uses of CBD-rich cannabis for other
 neurological disorders suggest CBD may offer hope for Creutzfeldt-Jakob
-disease, though optimal dosage requirements and administration routes must
+disease, though optimal dosage requirements and [[hallucinogenic-mushroom-smoking-and-alternative-administration-routes]] must
 still be determined.
 
 ## Mind-Body Medicine
@@ -127,6 +127,8 @@ things as they are."
 
 ## See Also
 
+- [[cannabis-and-prion-diseases]]
+
 - [[blesching-cannabis-neurodegenerative-diseases]]
-- [[blesching-endocannabinoid-system-overview]]
+- [[endocannabinoid-system-overview]]
 - [[blesching-cannabinoid-pharmacology]]

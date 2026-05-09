@@ -21,7 +21,7 @@ reset pathogen populations.
 ## The Disease Problem in Permanent Gardens
 
 One of the most important insights in Solomon's book is that many
-gardeners in mild climates have been growing vegetables on the same
+gardeners in mild climates have been [[container-growing-vegetables-herbs]] on the same
 land for years or even generations without realizing that their soil's
 productive capacity has been steadily declining. Certain crops that
 were once easy to grow become seemingly impossible. Overall yields
@@ -37,7 +37,7 @@ climates, this natural sanitation does not occur.
 ## The Ley System
 
 Solomon practices a system based on the traditional British ley, which
-alternates periods of vegetable production with periods of grass and
+alternates periods of [[dry-gardening-unirrigated-vegetable-production-solomon]] with periods of grass and
 clover pasture. In his Tasmanian garden, roughly half the enclosed area
 is always in grass ley while the other half grows vegetables.
 
@@ -73,7 +73,7 @@ within a wildlife-proof fence.
 
 This is a significant land requirement that urban and suburban gardeners
 may struggle to meet. However, Solomon argues that this larger footprint
-is the honest cost of sustainable production. Intensive methods that
+is the honest cost of sustainable production. [[row-gardening-vs-intensive-methods-solomon]] that
 crop the same ground year after year without rest eventually degrade the
 soil, producing declining returns regardless of how much fertilizer and
 water are applied.
@@ -117,15 +117,15 @@ their garden to rotational rest.
 
 ## Cover Cropping During Off-Seasons
 
-Even during the vegetable growing season, garden beds that are not in
+Even during the [[fukuoka-semi-wild-vegetable-growing-natural-method]] season, garden beds that are not in
 active use should be protected with cover crops rather than left bare.
 Bare soil is subject to erosion, weed invasion, and nutrient leaching.
 A cover crop protects the soil surface, prevents weed establishment,
 and maintains the soil biological community during fallow periods.
 
 Winter cover crops like cereal rye, hairy vetch, or crimson clover can
-be planted after the main vegetable harvest and allowed to grow through
-the off-season, providing soil protection and nitrogen fixation during
+be planted after the main [[purdue-vegetable-harvest-and-storage-guide]] and allowed to grow through
+the off-season, providing soil protection and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] during
 months when the garden would otherwise be empty.
 
 ## Long-Term Soil Health
@@ -139,8 +139,6 @@ is applied.
 Solomon's approach treats the garden as an integrated system where
 periods of production are balanced with periods of restoration. This
 is not merely a gardening technique — it is a philosophy of
-relationship with the land that prioritizes long-term sustainability
-over short-term maximum extraction.
 ## See Also
 
 - [[dryland-vegetable-gardening]]

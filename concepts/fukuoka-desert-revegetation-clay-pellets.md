@@ -1,21 +1,22 @@
 ---
-title: Fukuoka's Desert Revegetation with Clay Pellets
+title: Fukuoka's fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique with Clay Pellets
 created: 2026-05-08
 tags: [fukuoka, desert-revegetation, seed-balls, clay-pellets, green-manure, ecology]
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
 # Desert Revegetation with Clay Pellets
 
-Masanobu Fukuoka developed a method for greening deserts by scattering seeds
+Masanobu Fukuoka developed a method for [[fukuoka-textdoc-greening-deserts-plant-irrigation]] by scattering seeds
 encased in clay pellets from airplanes. His approach inverts conventional
 thinking about desertification: rather than bringing in water to grow plants,
 he proposes bringing in plants to generate water. The technique emerged from
-forty years of natural farming practice and was tested during his travels in
+forty years of [[comparison-natural-farming-vs-permaculture]] practice and was tested during his travels in
 Africa, America, and Europe.
 
 ## The Core Insight: Rain Falls From Below
@@ -52,7 +53,7 @@ when moisture is present, allowing germination at the right moment.
 The seed mixture includes:
 
 - **Green manure trees**: Black wattle (acacia) and other leguminous trees
-  that fix nitrogen and grow rapidly, providing shade and organic matter
+  that fix nitrogen and grow rapidly, providing shade and [[hamilton-composting-and-organic-matter-management]]
 - **Clover and alfalfa**: Ground cover plants that enrich the soil and help
   retain moisture
 - **Grain seeds**: Rice, proso millet, and other hardy cereal grains that
@@ -108,7 +109,7 @@ until now, since everyone has assumed that vegetation disappears because of
 a lack of water, the first thing done has been to draw in water. Dams are
 built and irrigation systems constructed. Not only is this approach only
 marginally effective, as countless examples in Egypt and elsewhere
-demonstrate, such efforts often end in failure on account of salt buildup in
+demonstrate, such efforts often end in failure on account of [[cervantes-salt-buildup-leaching-management]] in
 the irrigated fields.
 
 Acting on his own knowledge, the scientist decides: "such-and-such seems to
@@ -132,14 +133,10 @@ which gave him hope. If there is clay, then there is hope. He told the young
 people of Somalia: "This earth is young. It is sleeping. The land must be
 awakened from its slumber with natural farming."
 
-In California, he learned that about 30 percent of North America consists
+In California, he learned that about 30 percent of [[psilocybin-north-america-pacific-northwest]] consists
 of arid land, the central grain belt has been severely depleted (another 30
 percent), and green plains make up only another 30 percent. More than half
 of the country was already desert or approaching a desert-like state. The quickest way to enrich land, he discovered through years of observation,
-is to scatter green manure and vegetable seeds and leave the place
-uninhabited. All that ever had to be done was to interplant green manure
-among the fruit trees and scatter green manure plants and vegetable seeds
-just once.
 ## Related Concepts
 
 - [[fukuoka-reunifying-god-nature-and-man]] — the philosophical foundation
@@ -147,5 +144,7 @@ just once.
 - [[fukuoka-critique-scientific-agriculture-civilization]] — how modern agriculture created the deserts in the first place
 
 ## See Also
+
+- [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]]
 
 - [[fukuoka-clay-pellet-desert-revegetation]]

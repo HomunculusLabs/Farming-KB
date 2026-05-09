@@ -19,7 +19,7 @@ Yarsa Gunbu
 Cordyceps sinensis is an entomopathogenic fungus that parasitises
 larvae of Lepidoptera (moth caterpillars) in the high-altitude
 grasslands of the Tibetan Plateau and Himalayas. The fungus gradually
-replaces the caterpillar tissue, and a club-shaped fruiting body
+replaces the caterpillar tissue, and a club-shaped [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]
 (stroma) emerges from the mummified host. It is one of the most
 valued fungi in traditional Chinese medicine, documented in the
 1575 Compendium of Materia Medica by Li Shi-Zhen.
@@ -63,7 +63,7 @@ cultivated and must be harvested from the wild. However, pure [[mycology]] with 
 cultivated as a fruiting body makes it one of the most expensive
 natural medicines. The development of fermenter-based mycelial
 cultivation offers a sustainable alternative while preserving key
-bioactive compounds, particularly cordycepin, which is unique to the
+[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]], particularly cordycepin, which is unique to the
 Cordyceps genus and of significant interest for drug development.
 
 ## See Also
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

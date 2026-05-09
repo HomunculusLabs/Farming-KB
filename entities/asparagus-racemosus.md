@@ -77,7 +77,7 @@ The species also occurs naturally in Nepal, Sri Lanka, Bangladesh, tropical and 
 - Forest margins, thickets, scrublands, and grassy slopes up to 1,500 m elevation
 - Rocky, gravelly soils in semi-arid regions
 - Disturbed sites, road margins, and agricultural field borders
-- Moderate drought tolerance once established; adapts to sandy, loamy, and rocky substrates
+- Moderate [[dighton-fungal-drought-tolerance-plant-water-relations]] once established; adapts to sandy, loamy, and rocky substrates
 
 ## Phytochemistry
 
@@ -105,7 +105,7 @@ Extensive preclinical research supports multiple traditional uses of A. racemosu
 
 **Galactagogue activity:**
 - Increases mammary gland weight and milk production in animal studies via prolactin stimulation
-- Clinical trials show modest milk volume increases in lactating women
+- [[mushroom-cancer-clinical-trials-overview]] show modest milk volume increases in lactating women
 
 **Adaptogenic and anti-stress effects:**
 - Normalizes stress-induced cortisol, blood glucose, and plasma corticosterone in rodents
@@ -129,7 +129,7 @@ Typical daily doses: 3–6 g dried root powder or 500–1,000 mg standardized ex
 
 ## Cultivation and Permaculture Applications
 
-**Propagation:** Primarily by seed (requires scarification and 2–4 weeks stratification); also root division and tissue culture.
+**Propagation:** Primarily by seed (requires scarification and 2–4 weeks stratification); also root division and [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]].
 Seed viability declines significantly after 6–8 months of storage.
 
 **Growing conditions:** Well-drained sandy loam, pH 6.5–7.5; partial shade to full sun; optimal 25–35°C; annual rainfall 500–1,500 mm.
@@ -141,12 +141,9 @@ Cultivation initiatives by government agencies and NGOs are promoting sustainabl
 **Permaculture functions:**
 - Multi-layer food system: root crop integrated into food forests with overstory shade
 - Deep root system stabilizes slopes and cycles nutrients to the surface
-- Dense foliage provides ground cover in tropical food forest understories
-- High-value medicinal harvest complements food-producing species
-- Can be intercropped with fruit trees, [[glycyrrhiza-glabra]]
-
 ## See Also
 
 ## See Also
 
 - [[query-what-is-the-role-of-endophytic-fungi-in-plant-health]]
+- [[query-best-native-nitrogen-fixing-plants-for-permaculture-food-forests]]

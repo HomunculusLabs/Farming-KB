@@ -1,5 +1,5 @@
 ---
-title: "DOBU -- 2,5-DIMETHOXY-4-(n)-BUTYLAMPHETAMINE -- PIHKAL Entry #63"
+title: "DOBU -- 2,5-DIMETHOXY-4-(n)-BUTYLAMPHETAMINE -- 2c-b-pihkal-entry-20 #63"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -62,7 +62,7 @@ A well stirred suspension of 140 g anhydrous AlCl3 in 400 mL CH2Cl2 was treated 
 
 was a pale yellow oil that weighed 146 g and was about 85% pure by GC analysis. The principal impurity was unreacted dimethoxybenzene. The identical preparation with CS2 as a solvent, rather than CH2Cl2 gave a somewhat smaller yield of product.
 
-To 150 g mossy zinc there was added a solution of 3 g mercuric chloride in 60 mL H2O, and this was swirled periodically for 2 h. The H2O was drained off, and the amalgamated zinc added to a 1 L three-neck round-bottomed flask, treated with 80 mL concentrated HCl, and heated on the steam bath. A solution of 20.8 g of 2,5-dimethoxybutyrophenone in 45 mL EtOH containing 10 mL concentrated HCl was added in increments over a 4 h period. During this period an additional 140 mL of concentrated HCl was added periodically to the ketone solution. Heating was maintained for an additional 4 h. After cooling, the aqueous filtrate was extracted with 3x100 mL CH2Cl2 and these pooled extracts washed with 2x200 mL 5% NaOH to remove a small amount of phenolic impurity. After removal of the solvent under vacuum, the residual 16.1 g of clear oil was distilled over the 100-160 deg C range (largely at 141-145 deg C) at the water pump to give 10 g of 2,5-dimethoxy-(n)-butylbenzene as a white oil. This was about 90% pure by GC analysis, and was used without further purification in the next step.
+To 150 g mossy zinc there was added a solution of 3 g mercuric chloride in 60 mL H2O, and this was swirled periodically for 2 h. The H2O was drained off, and the amalgamated zinc added to a 1 L three-neck round-bottomed flask, treated with 80 mL concentrated HCl, and heated on the [[scythian-cannabis-steam-bath-ritual]]. A solution of 20.8 g of 2,5-dimethoxybutyrophenone in 45 mL EtOH containing 10 mL concentrated HCl was added in increments over a 4 h period. During this period an additional 140 mL of concentrated HCl was added periodically to the ketone solution. Heating was maintained for an additional 4 h. After cooling, the aqueous filtrate was extracted with 3x100 mL CH2Cl2 and these pooled extracts washed with 2x200 mL 5% NaOH to remove a small amount of phenolic impurity. After removal of the solvent under vacuum, the residual 16.1 g of clear oil was distilled over the 100-160 deg C range (largely at 141-145 deg C) at the water pump to give 10 g of 2,5-dimethoxy-(n)-butylbenzene as a white oil. This was about 90% pure by GC analysis, and was used without further purification in the next step.
 
 A mixture of 98 mL POCl3 and 108 mL N-methylformanilide was allowed to incubate for 0.5 h. To this there was then added 47.3 g of 2,5-dimethoxy-(n)-butylbenzene and the mixture heated on the steam bath for 1.5 h. This mixture was poured into 1 L H2O and stirred overnight. The H2O was drained from the extremely gooey black crystals that were formed, and extracted with 2x100 mL portions of hexane. The black residue was diluted with these extracts and, on slow evaporation there was deposited 26.4 g of oily amber crystals. Filtering these through a medium porous funnel and sucking the oily phase away from the solids yielded 14.8 g of yellow crystals that could be recrystallized from 50 mL MeOH to give, after filtration and air drying to constant weight, 6.4 g of 2,5-dimethoxy-4-(n)-butylbenzaldehyde as pale yellow crystals with a mp of 47-48 deg C. The recovery of all organic soluble things from the above proce...
 
@@ -75,6 +75,8 @@ safety profiles are based on limited self-experimentation. Exercise
 extreme caution. This compound is not approved for human consumption.
 
 ## See Also
+
+- [[dobu-entity]]
 
 - [[2c-o-4-entity-pihkal]]
 - [[2-br-4-5-mda-entity-pihkal]]

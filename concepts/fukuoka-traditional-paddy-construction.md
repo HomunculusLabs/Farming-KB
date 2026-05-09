@@ -1,5 +1,5 @@
 ---
-title: "Traditional Paddy Construction vs. Modern Concrete Fields"
+title: "fukuoka traditional paddy construction Construction vs. Modern Concrete Fields"
 created: 2026-04-28
 tags: [rice-paddy, traditional-agriculture, terracing, mechanization, soil-degradation, japan]
 date: 2026-04-25
@@ -16,7 +16,7 @@ production, such a process is not without its serious drawbacks:
 
 1. Because it is crude, it leaves a thickness of topsoil that
    varies with the depth of the bedrock, resulting in uneven
-   areas of crop growth.
+   areas of [[coleman-sunlight-and-winter-crop-growth-rates]].
 
 2. The load that heavy machinery places on the soil results in
    excessive settling, causing ground water to stagnate. This
@@ -49,7 +49,7 @@ bordering weeds, and young foliage from trees, rice could easily
 be grown each year without using fertilizers. A tiny field of
 maybe a hundred square yards supplied the food needs for one
 individual indefinitely. The spiritual peace and security, the
-simple joy of creating a rice paddy were greater than can be
+simple joy of creating a [[fukuoka-textdoc-creating-rice-paddy-natural-methods]] were greater than can be
 imagined. From these activities, our farming ancestors gained
 pleasure and satisfaction of a sort that cannot be had through
 mechanized farming.
@@ -78,7 +78,7 @@ These are not just the fond recollections of bygone days by a
 misty-eyed old fogey. The general method of establishing a rice
 paddy described here accords with reality as it exists on
 uncultivated open plains and meadows. Nature itself establishes
-rice paddies through the accumulation of organic matter and the
+rice paddies through the accumulation of [[hamilton-composting-and-organic-matter-management]] and the
 natural leveling of water flow across gentle depressions.
 
 ## Concrete Levees Destroy Microbial Communities

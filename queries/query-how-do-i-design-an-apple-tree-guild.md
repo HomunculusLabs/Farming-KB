@@ -1,10 +1,11 @@
 ---
-title: "How do I design an apple tree guild?"
+title: "How do I design an comparison-apple-tree-care-vs-apple-guild-design guild?"
 created: 2026-04-28
 tags: [query, permaculture, apple, guilds]
 date: 2026-05-02
 updated: 2026-05-02
 sources:
+  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: query
 ---
@@ -13,7 +14,7 @@ type: query
 
 ## Short Answer
 
-Design an apple tree guild by placing useful plants around an apple tree to support fertility, pollination, pest balance, mulch production, and harvest access.
+Design an apple tree guild by placing useful plants around an apple tree to support fertility, pollination, [[fukuoka-pest-balance-without-chemicals]], mulch production, and harvest access.
 Begin with [[apple-guild-design-guide]] and [[hemenway-apple-tree-guild-design]] helps translate the idea into a practical permaculture pattern.
 [[comparison-apple-tree-care-vs-apple-guild-design]] to keep ecological complexity from interfering with basic orchard work.
 
@@ -44,11 +45,11 @@ A guild should make the orchard more alive and easier to balance.
 
 ### Feed without overfeeding
 
-Apple guild fertility should be steady, woody, and fungal-friendly rather than excessively nitrogen-rich.
+[[mollison-designers-apple-guild-and-cool-climate-fruit-guilds]] fertility should be steady, woody, and fungal-friendly rather than excessively nitrogen-rich.
 Nitrogen-fixing plants can help, but too much nitrogen may push soft pest-prone growth.
 Chop-and-drop plants provide mulch when cut before they become woody or invasive.
 Compost belongs near the active root zone rather than piled against the trunk.
-[[holzer-pear-and-apple-pollination-and-harvesting]] reminds growers that bloom timing and harvest timing are design issues.
+[[holzer-pear-and-apple-pollination-and-harvesting]] reminds growers that bloom timing and [[cannabis-harvest-timing-visual-cues]] are design issues.
 A guild can attract pollinators, but it cannot replace genetic compatibility.
 Crabapples can help when their bloom overlaps with the main apple cultivar.
 Do not plant dense shrubs where harvest ladders or picking routes must go.
@@ -72,7 +73,7 @@ An apple guild is never finished after planting day.
 [[apple-tree-care]] sets the non-negotiable orchard-care requirements.
 - [[apple-centered-guild-design]] keeps the design focused on the apple tree.
 - [[mollison-designers-apple-guild-and-cool-climate-fruit-guilds]] connects apple guilds to cool-climate food forests.
-- [[comparison-apple-tree-care-vs-apple-guild-design]] prevents guild design from undermining basic tree care.
+- [[comparison-apple-tree-care-vs-apple-guild-design]] prevents [[apple-guild-design-guide]] from undermining basic [[organic-fruit-tree-care-calendar]].
 - The best guild is productive, inspectable, harvestable, and easy to revise.
 
 ## Related Questions

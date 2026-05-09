@@ -2,14 +2,12 @@
 title: Agaricus sylvicola
 created: 2026-04-28
 type: species
-tags: [[mycology, identification, gourmet-mushrooms, agaricus]
+tags: [mycology, identification, gourmet-mushrooms, agaricus]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 ---
-# Agaricus sylvicola
-
-Agaricus sylvicola, commonly known as the Sylvan Agaricus or Wood Mushroom, is an edible Agaricus species found in woodland and forest-edge habitats. Unlike its meadow-dwelling relatives [[agaricus-arvensis]], this species is associated with forested environments, particularly under conifers and hardwoods. Its delicate appearance and pleasant almond-like scent make it a welcome find for mushroom foragers exploring wooded areas. See [[agaricus-arvensis]] for the larger Horse Mushroom.
+# Agaricus sylvicola Agaricus sylvicola, commonly known as the Sylvan Agaricus or Wood Mushroom, is an edible Agaricus species found in woodland and forest-edge habitats. Unlike its meadow-dwelling relatives [[agaricus-arvensis]], this species is associated with forested environments, particularly under conifers and hardwoods. Its delicate appearance and pleasant almond-like scent make it a welcome find for mushroom foragers exploring wooded areas. See [[agaricus-arvensis]] for the larger Horse Mushroom.
 
 ## Taxonomy and Description
 
@@ -25,11 +23,11 @@ Agaricus sylvicola, commonly known as the Sylvan Agaricus or Wood Mushroom, is a
 - **Stem:** White, slender relative to cap size, with a thin but well-developed membranous ring. Base may be slightly bulbous.
 - **Flesh:** White, thin but firm. When cut or bruised, may develop a slight yellowish discoloration (not the intense chrome yellow of toxic A. xanthodermus).
 - **Odor:** Pleasant, often described as **almond-like or anise-like**, similar to [[agaricus-arvensis]].
-- **Spore print:** Dark chocolate brown.
+- **[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Dark chocolate brown.
 
 ## Distribution and Habitat
 
-- **Global range:** Found across temperate regions of Europe and North America. More common in Europe than in North America.
+- **Global range:** Found across temperate regions of Europe and [[psilocybin-north-america-pacific-northwest]]. More common in Europe than in North America.
 - **Habitat:** Woodlands, forest edges, clearings, and wooded pastures. Often found under conifers (especially spruce and pine) and sometimes under hardwoods. Prefers well-drained, slightly acidic soils in forest environments.
 - **Seasonality:** Late summer through autumn.
 - **Growth pattern:** Usually found singly or in small scattered groups on the forest floor.
@@ -51,13 +49,13 @@ As with all Agaricus species, careful identification is essential:
 - **Agaricus xanthodermus** (Yellow Stainer) is toxic and can also occur in woodland edges. It stains bright chrome yellow when cut and has an unpleasant phenolic (iodine or ink-like) odor.
 - **Amanita species** in the button stage can be confused with Agaricus. Always check for a volva (cup at base of stem) and white gills.
 - The yellow staining of A. sylvicola is faint, not the intense chrome yellow of A. xanthodermus.
-- Young Amanita phalloides (Death Cap) buttons have white gills and grow in similar habitats. Check carefully for a volva.
+- Young Amanita phalloides ([[query-how-to-identify-and-avoid-the-death-cap-amanita-phalloides]]) buttons have white gills and grow in similar habitats. Check carefully for a volva.
 
 ## Forest Ecology and Habitat
 
 A. sylvicola occupies a distinctive ecological niche within the Agaricus genus as a woodland species:
 
-- **Conifer association:** Most commonly found under spruce (Picea spp.) and pine (Pinus spp.), where the needle litter provides a unique substrate chemistry compared to grassland soils.
+- **Conifer association:** Most commonly found under spruce (Picea spp.) and pine (Pinus spp.), where the [[dighton-pine-needle-litter-decomposition-fungal-succession]] provides a unique substrate chemistry compared to grassland soils.
 - **Hardwood association:** Also found under oaks (Quercus spp.), beeches (Fagus spp.), and other hardwoods, though less commonly than under conifers.
 - **Soil preferences:** Prefers well-drained, slightly acidic soils typical of forest floors. Unlike meadow Agaricus species, it does not require heavily manured soils.
 - **Canopy relationship:** Often fruits at the edges of forest clearings, along trails, and in semi-open woodland where light levels are moderate.
@@ -112,7 +110,7 @@ A. sylvicola is comparable to other Agaricus species in nutritional content:
 A. sylvicola typically fruits later than meadow species:
 
 - **First emergence:** August in most regions, peaking in September-October
-- **Temperature range:** Fruits when forest floor temperatures are between 50-65°F (10-18°C)
+- **[[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]:** Fruits when forest floor temperatures are between 50-65°F (10-18°C)
 - **Moisture requirement:** Requires adequate rainfall. Dry autumns result in poor fruiting.
 - **Duration:** Individual fruitings last 2-3 weeks with potential for repeat flushes
 - **Climate dependence:** More abundant in years with warm, wet autumns. Cool, dry falls produce little to no fruiting.

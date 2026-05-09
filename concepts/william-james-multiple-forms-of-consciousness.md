@@ -60,7 +60,7 @@ established a precedent within Western academic psychology for the serious, empi
 of chemically induced altered states — a precedent that would later be taken up by the
 psycholytic and psychedelic therapy researchers of the 1950s and 1960s, and by consciousness
 researchers like Stanislav Grof, Timothy Leary, and eventually Ralph Metzner himself. The
-thread from James through the twentieth century to the present represents an unbroken — if
+thread from James through the [[coleman-louis-savier-twentieth-century-maraicher]] to the present represents an unbroken — if
 often marginalized — tradition within Western psychology: the empirical investigation of
 consciousness through deliberately induced altered states.
 
@@ -82,20 +82,20 @@ is remarkably thin — and remarkably easy to cross, given the right conditions.
 ## Relevance to Psychedelic Psychotherapy
 
 Metzner invokes James to establish that the fundamental insight underlying both psychedelic
-psychotherapy and shamanic healing — that expanded states of consciousness are
+psychotherapy and [[metzner-shamanic-healing-and-divination-paradigm]] — that expanded states of consciousness are
 epistemologically valid — has deep roots in Western psychology itself. This is strategically
 important because it counters the common objection that interest in non-ordinary states is
 merely a romantic appropriation of indigenous practices with no grounding in Western
 intellectual traditions. James demonstrated from within the Western empirical tradition that
-consciousness is not a monolith. The five fundamental conclusions of psychedelic
+consciousness is not a monolith. The five [[metzner-five-fundamental-conclusions-psychedelic-psychotherapy]] of psychedelic
 psychotherapy that Metzner identifies all flow from James's foundational insight: (1) that
 psychotherapy with hallucinogens invariably involves a profoundly expanded state of
 consciousness that transcends fundamental self-concepts; (2) that set and setting are the
 most important determinants of the experience while the drug plays the role of catalyst;
-(3) that the amplifier and microscope metaphors describe the drug's function as a nonspecific
+(3) that the amplifier and [[metzner-amplifier-microscope-metaphors-psychedelic-therapy]] describe the drug's function as a nonspecific
 enhancer of psychic contents; (4) that the therapist's own prior experience with expanded
 states is essential for effective communication with a person in an altered state; and (5)
-that access to transcendent, religious, or transpersonal dimensions of consciousness can be
+that access to transcendent, religious, or [[metzner-transpersonal-dimensions-psychedelic-therapy]] of consciousness can be
 attained through these medicines.
 
 ## Challenge to Scientific Materialism
@@ -107,7 +107,7 @@ scientific worldview that dismisses mystical, psychedelic, or shamanic experienc
 hallucination is, by James's criterion, incomplete and therefore inadequate. Metzner uses
 this to argue that Western psychology, through engagement with entheogenic plant medicines,
 may be "finally coming around to the views expressed by William James" nearly a century
-earlier. The participants in hybrid shamanic therapeutic circles that Metzner studied had,
+earlier. The participants in hybrid [[hybrid-shamanic-therapeutic-rituals-metzner]] circles that Metzner studied had,
 in his observation, expanded their belief systems beyond conventional materialism to accept
 the reality of nonmaterial spirit beings and multiple worlds of consciousness — precisely
 the position James advocated on philosophical grounds alone, without the benefit of direct
@@ -139,6 +139,8 @@ orientation underlies Metzner's comparative approach. He does not argue that the
 worldview is true and the Western materialist worldview is false; rather, he argues that the
 shamanic approach to consciousness produces practical results — healing, divination,
 ## See Also
+
+- [[metzner-william-james-radical-empiricism-multiple-consciousness]]
 
 - [[metzner-four-paradigms-psychedelic-healing]] for Metzner's full comparative framework
 - [[metzner-hybrid-shamanic-therapeutic-rituals]] for the modern practice context

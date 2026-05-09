@@ -1,5 +1,5 @@
 ---
-title: "Inonotus obliquus"
+title: "chaga-inonotus-obliquus-medicinal-profile"
 created: 2026-04-28
 updated: 2026-04-28
 type: species
@@ -11,7 +11,7 @@ tags:
   - betulinic-acid
   - chaga
 sources:
-  - Stamets, P. (2000). "Growing Gourmet and Medicinal Mushrooms." Ten Speed Press.
+  - Stamets, P. (2000). "Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive." Ten Speed Press.
   - Singh, S. et al. (2020). "Inonotus obliquus: A comprehensive review of phytochemistry and pharmacology." Journal of Ethnopharmacology, 252, 112583.
   - Zhao, F. et al. (2021). "Chaga mushroom (Inonotus obliquus): A review of its traditional uses, phytochemistry, and pharmacological properties." Frontiers in Pharmacology, 12, 641267.
   - Wasser, S.P. (2014). "Medicinal mushrooms in human clinical studies." International Journal of Medicinal Mushrooms, 16(1), 1-16.
@@ -21,10 +21,10 @@ sources:
 
 Inonotus obliquus, commonly known as chaga, is a sterile conk-forming fungus that
 parasitizes living hardwood trees, primarily birch (Betula spp.). It ranges across
-the circumboreal temperate and boreal forests of the Northern Hemisphere.
+the circumboreal temperate and [[fungal-diversity-boreal-forests-taiga]] of the Northern Hemisphere.
 
 Chaga has been used for centuries in traditional medicine across Siberia, Scandinavia,
-and North America. Modern research has identified numerous bioactive compounds,
+and [[psilocybin-north-america-pacific-northwest]]. Modern research has identified numerous [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]],
 particularly betulinic acid derived from the host bark and a diverse array of
 polysaccharides with immunomodulatory properties.
 
@@ -97,7 +97,7 @@ IL-1β production in vitro.
 superoxide dismutase activity comparable to synthetic antioxidants.
 
 **Antiviral:** Preliminary activity against HSV-1, HSV-2, and influenza, though
-clinical evidence remains lacking. Human clinical trials are limited in number and
+clinical evidence remains lacking. Human [[mushroom-cancer-clinical-trials-overview]] are limited in number and
 variable in quality; most evidence is preclinical.
 
 ## Cultivation and Harvest

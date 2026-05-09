@@ -1,10 +1,11 @@
 ---
-title: "How to Fix Boron Deficiency in Cannabis"
+title: "How to query how to fix boron deficiency in cannabis Deficiency in Cannabis"
 created: 2026-04-28
 tags: [query, cannabis, nutrients, deficiency, boron]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -23,10 +24,10 @@ Boron (B) is a micronutrient required by cannabis plants in very small amounts, 
 it performs functions that are absolutely critical to plant structure and
 reproduction. Boron facilitates the transport of sugars through the phloem, supports
 cell wall formation by cross-linking pectin molecules, and is essential for pollen
-viability and seed production. It also plays a role in cell division, root
+viability and [[cervantes-seed-production-storage]]. It also plays a role in cell division, root
 elongation, and the metabolism of nitrogen and carbohydrates. Despite needing only
 trace amounts measured in parts per million, cannabis plants cannot complete their
-life cycle without adequate boron.
+[[bloomfield-fungal-life-cycle-spiral-versus-circle]] without adequate boron.
 
 Deficiency symptoms are most visible at the growing tips and in new tissue. The
 earliest sign is often a slowing or stunting of new growth, with leaves appearing
@@ -49,12 +50,12 @@ wait 24 hours to observe any adverse reaction before applying to the entire plan
 The relationship between boron and calcium is particularly important. Boron and
 calcium work together in cell wall formation, and a deficiency in one can mimic or
 exacerbate deficiency symptoms of the other. In many cases, what appears to be a
-boron deficiency is actually a calcium deficiency, or vice versa. The
+boron deficiency is actually a [[knf-calcium-deficiency-symptoms]], or vice versa. The
 [[kelp-meal-fertilizer]]
 into their soil mix, as kelp naturally contains boron along with a full complement
-of trace minerals. [[living-soil-cannabis]], maintaining a diverse microbial community
+of trace minerals. [[living-soil-cannabis]], maintaining a diverse [[edaphic-factors-microbial-community-structure]]
 helps make boron more available through the production of organic acids that
-solubilize mineral-bound boron in the soil. Compost tea applications can also help
+solubilize mineral-bound boron in the soil. [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]] applications can also help
 cycle boron into plant-available forms through microbial activity.
 
 Boron deficiency during flowering can be particularly damaging because boron is
@@ -93,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

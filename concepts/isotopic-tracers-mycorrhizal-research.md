@@ -21,7 +21,7 @@ Isotopic tracers exploit the chemical identity of labeled and unlabeled atoms â€
 
 ### 15N Enrichment Method
 
-The most widely used approach for studying nitrogen transfer through [[mycorrhizal-symbiosis]] (typically 10-20% of net photosynthate)
+The most widely used approach for studying [[symbiotic-fungi-mycorrhizal-nitrogen-transfer-networks]] through mycorrhizal-symbiosis (typically 10-20% of net photosynthate)
 - Time scales of hours to days for short-term pulse-chase experiments
 
 ### 13C Natural Abundance
@@ -35,7 +35,7 @@ The most widely used approach for studying nitrogen transfer through [[mycorrhiz
 
 ### Combined 15N-13C Studies
 
-Simultaneously tracking nitrogen and carbon flow provides insights into the exchange economy of the mycorrhizal symbiosis:
+Simultaneously tracking nitrogen and carbon flow provides insights into the exchange economy of the [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]:
 
 - Carbon flows from plant to fungus; nitrogen flows from fungus to plant
 - The stoichiometry of this exchange reveals the "currency" of the mutualism
@@ -70,7 +70,7 @@ Physical separation of plant and fungal compartments using:
 
 ### Data Analysis
 
-See also: [[the-rhizosphere-ecology-and-plant-microbe-interactions]]
+See also: [[rhizosphere-ecology]]
 ## Practical Considerations
 
 Successful implementation of Isotopic Tracers in Mycorrhizal Research requires attention to
@@ -89,4 +89,5 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[mycorrhizal-mediation-of-plant-plant-competition]]

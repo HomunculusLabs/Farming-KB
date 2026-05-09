@@ -107,13 +107,13 @@ countless others were initiated.
 As reported by initiates, it must have been an illumination, a visionary
 glimpse of a deeper reality. Pindar spoke of the Eleusinian benediction:
 "Blissful is he, who after having beheld this enters on the way beneath the
-Earth. He knows the end of life as well as its divinely granted beginning."
+Earth. He knows the [[powell-psilocybin-end-of-life-anxiety]] as well as its divinely granted beginning."
 Cicero said: "Not only have we received the reason there, that we may live in
 joy, but also, besides, that we may die with better hope."
 Religious scholars believe the initiates were furnished with a potion, the
 kykeon, containing barley extract and mint, which may have been mixed with an
-hallucinogenic drug. Hofmann collaborated with R. Gordon Wasson and Carl A. P.
-Ruck on The Road to Eleusis (1978), discussing the possibility that the kykeon
+[[emcdda-hallucinogenic-drug-classification-and-terminology-taxonomy]]. Hofmann collaborated with R. Gordon Wasson and Carl A. P.
+Ruck on The [[the-road-to-eleusis-wasson-hofmann-ruck]] (1978), discussing the possibility that the kykeon
 acted through an LSD-like preparation of ergot.
 
 ## Meditation and Mystical Experience

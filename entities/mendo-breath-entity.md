@@ -13,7 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Leafly. (2023). Mendo Breath Cannabis Strain Information. https://www.leafly.com/strains/mendo-breath"
+  - "Leafly. (2023). Mendo Breath blesching-cannabis-strain-selection-receptor-targeting Information. https://www.leafly.com/strains/mendo-breath"
   - "AllBud. (2023). Mendo Breath Strain Review. https://www.allbud.com/marijuana-strains/indica/mendo-breath"
   - "Mendoza, R. (2020). The Leaf Detective's Handbook. Green Candy Press."
   - "Wikileaf. (2023). Mendo Breath Strain. https://www.wikileaf.com/strain/mendo-breath"
@@ -47,7 +47,7 @@ The genetic ratio is approximately 80% indica / 20% sativa.
 
 Buds are medium to large, dense, and tightly packed with a characteristic rounded, chunky structure typical of heavy indica varieties.
 
-Color is a striking gradient of deep forest green with prominent purple and violet hues, particularly on the calyxes and sugar leaves exposed to cooler growing temperatures.
+Color is a striking gradient of deep [[trichoderma-forest-green-mold-guide]] with prominent purple and violet hues, particularly on the calyxes and sugar leaves exposed to cooler growing temperatures.
 
 The flowers are heavily coated in milky-white trichomes, giving them a frosted, almost sugary appearance.
 
@@ -65,7 +65,7 @@ The aroma is pungent and fills a room quickly, with a sweetness that is immediat
 
 **Flavor:** The smoke is smooth and sweet on the inhale, dominated by caramel and vanilla flavors with an earthy, woody undertone.
 
-The exhale reveals a more complex profile with hints of black pepper, herbs, and a lingering sweet aftertaste reminiscent of butterscotch.
+The exhale reveals a more complex profile with hints of [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], herbs, and a lingering sweet aftertaste reminiscent of butterscotch.
 
 The flavor is consistently described as one of the most dessert-like among indica strains.
 
@@ -100,9 +100,9 @@ Users commonly report a "couch-lock" sensation, heaviness in the limbs, and a st
 
 **Duration:** 2–3 hours, with residual sedation lasting an additional 1–2 hours.
 
-**Common effects:** Deep relaxation, euphoria, sleepiness, increased appetite, body tingling, pain relief.
+**Common effects:** [[blesching-cannabis-deep-relaxation-healing]], euphoria, sleepiness, increased appetite, body tingling, pain relief.
 
-**Medical applications:** Mendo Breath is frequently used for insomnia, chronic pain, muscle spasms, anxiety, and stress-related disorders.
+**Medical applications:** Mendo Breath is frequently used for insomnia, [[cannabis-chronic-pain-management]], muscle spasms, anxiety, and stress-related disorders.
 
 Its strong sedative properties make it particularly effective for sleep onset and maintenance.
 
@@ -128,7 +128,7 @@ Novice consumers should approach with caution due to the high THC content and he
 
 It tolerates cooler nighttime temperatures well, which can enhance purple coloration.
 
-The strain responds well to LST (low-stress training) and SCROG (screen of green) techniques to maximize light penetration and yield.
+The strain responds well to LST (low-stress training) and SCROG ([[cannabis-screen-of-green-scrog-guide]]) techniques to maximize light penetration and yield.
 
 Pest and mold resistance is average; dense buds require good airflow to prevent bud rot in humid conditions.
 

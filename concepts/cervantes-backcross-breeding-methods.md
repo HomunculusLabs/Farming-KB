@@ -1,5 +1,5 @@
 ---
-title: Backcross Breeding Methods
+title: cervantes backcross breeding methods Methods
 created: 2026-04-26
 tags:
   - cannabis
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -60,7 +61,7 @@ from the recurrent parent, with only 6.25% from the donor parent.
 
 ## Incorporating a Recessive Trait
 
-Recessive traits are more difficult to select for in backcross breeding,
+[[cervantes-dominance-recessive-traits-alleles]] are more difficult to select for in backcross breeding,
 since their expression is masked by dominance in each backcross to the
 recurrent parent. An additional round of open pollination or sib-mating
 is needed after each backcross generation to expose homozygous-
@@ -106,7 +107,7 @@ parent's genetics.
 - The "improved" variety differs only slightly from the recurrent
   parent (typically only one trait)
 - If multiple traits are to be introgressed, other techniques such as
-  inbreeding or recurrent selection may be more rewarding
+  inbreeding or [[cervantes-recurrent-selection-pedigree-breeding]] may be more rewarding
 - Multiple traits must be tracked in separate backcross programs and
   combined in a final set of crosses
 

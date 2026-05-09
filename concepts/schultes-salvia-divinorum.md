@@ -1,5 +1,5 @@
 ---
-title: "Salvia Divinorum"
+title: "golden-guide-salvia-divinorum-and-diviner-sage"
 created: 2026-04-28
 tags:
   - salvia-divinorum-entity
@@ -19,7 +19,7 @@ type: concept
 # Salvia Divinorum
 
 *Salvia divinorum* is among the rarest of [[entheogen-tetrapteris-methystica-alternative-caapi]]. R. Gordon r-gordon-wasson|Wasson was the
-first outsider to witness Mazatec mushroom ceremonies, and the broader
+first outsider to witness [[maria-sabina-mazatec-mushroom-ceremony]] ceremonies, and the broader
 investigation of Mazatec psychoactive plants revealed the use of this
 remarkable sage. Inquisition files from 1696, 1698, and 1706 in the
 National Archives of Mexico City mention Pipiltzintzin and hint at its
@@ -30,7 +30,7 @@ intoxicating effects, possibly referring to *Salvia divinorum*.
 The male or female shamans of the Mazatec use *Salvia divinorum* in
 rituals associated with divination or healing, generally as a substitute
 for the otherwise preferred psychoactive mushrooms. The famous Mazatec
-shaman Maria Sabina remarked: "When I am in the time that there are no
+shaman [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]] remarked: "When I am in the time that there are no
 mushrooms and want to heal someone who is sick, then I must fall back
 on the leaves of pastora. When you grind them up and eat them, they
 work just like the ninos. But, of course, pastora has nowhere near as
@@ -92,7 +92,7 @@ distinct from the serotonin receptor agonism of classical psychedelics.
 
 In the traditional taxonomy of the Mazatec, *Salvia divinorum* is
 related to two forms of labiates. Salvia is known as the "mother" (la
-hembra). *Coleus pumilus* is considered the "father" (el macho), and
+hembra). *[[coleus-blumei-and-coleus-pumilus-potential-psychoactivity]]* is considered the "father" (el macho), and
 *Coleus blumei* is known as el nene (the child). Painted nettle is
 used by the Mazatec as a replacement for *Salvia divinorum*. The fresh
 leaves of these related plants are chewed like chewing tobacco, giving

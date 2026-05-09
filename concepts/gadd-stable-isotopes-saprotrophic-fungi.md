@@ -1,18 +1,13 @@
 ---
-title: "Stable Isotopes in saprotrophic-fungi"
+title: "gadd stable isotopes [[comparison-mycorrhizal-vs-saprotrophic-fungi]] in saprotrophic-fungi"
 created: 2026-04-28
-tags: [[mycology, stable-isotopes, nitrogen, carbon, ecological-tracers]
+tags: [mycology, stable-isotopes, nitrogen, carbon, ecological-tracers]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
 type: concept
 ---
-
-# Stable Isotopes in Saprotrophic Fungi
-
-The natural abundance of stable isotopes, particularly nitrogen-15 (15N) and
-carbon-13 (13C), has become an increasingly important tool for investigating
-[[gadd-fungal-ecology-saprotrophs]] in their natural environments.
+# Stable Isotopes in Saprotrophic Fungi The natural abundance of stable isotopes, particularly nitrogen-15 (15N) and carbon-13 (13C), has become an increasingly important tool for investigating [[gadd-fungal-ecology-saprotrophs]] in their natural environments.
 
 ## Isotope Notation and Principles
 
@@ -54,7 +49,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -91,9 +86,8 @@ advance the field as a whole. Cross-pollination of ideas from biology,
 ecology, data science, and traditional knowledge systems generates novel
 perspectives and solutions that may not emerge within any single domain.
 
-For continued learning, recommended resources include current research
+For continued learning, recommended resources include [[psychedelic-therapy-current-research]]
 publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

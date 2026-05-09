@@ -1,5 +1,5 @@
 ---
-title: Lactic Acid Bacteria in KNF
+title: Lactic lactic acid bacteria knf in KNF
 created: 2026-04-28
 tags: [knf, lactic-acid-bacteria, fermentation, microorganisms]
 date: 2026-04-25
@@ -17,7 +17,7 @@ are cultured and concentrated for agricultural use.
 LAB are resistant to high temperatures and function as
 strong sterilizers against certain harmful organisms. They
 also have the power to resist some fungi, making them
-valuable for disease prevention in crops.
+valuable for [[cervantes-pest-disease-prevention-overview]] in crops.
 
 ## How to Culture LAB from Milk
 
@@ -28,7 +28,7 @@ uses readily available materials:
 - Rice-washed water
 - Milk (unprocessed, not boiled; cow's milk is best)
 - Jaggery or brown sugar
-- Clay jar or glass jar
+- Clay jar or [[sterile-spore-print-collection-glass-jar-technique]]
 - Porous paper (paper towel)
 - Rubber band or thread
 
@@ -60,7 +60,7 @@ vigorous, resilient organisms.
 1. **Soil ventilation**: LAB is very effective for
    improving soil aeration and structure
 
-2. **Vegetative growth**: When used during the vegetative
+2. **[[cannabis-vegetative-growth-stage]]**: When used during the vegetative
    growth period, higher quality plants result that can
    be stored for longer periods
 
@@ -93,7 +93,7 @@ vigorous, resilient organisms.
 
 ## Storage
 
-- Keep refined LAB serum at cool temperature (1 to 15
+- Keep refined [[comparison-lab-serum-vs-compost-tea]] at cool temperature (1 to 15
   degrees Celsius) for extended storage
 - Never store under direct sunlight
 - For normal temperature storage, mix with equal amount

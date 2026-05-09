@@ -1,7 +1,7 @@
 ---
-title: Grain Legumes and Pulse Crops
+title: Grain grain legumes and pulse crops Crops
 subtitle: Cool-season and warm-season legumes cultivated for their edible dry seeds,
-  providing protein-rich food, nitrogen fixation, and soil-building benefits
+  providing protein-rich food, [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], and soil-building benefits
 tags:
   - grain-legumes
   - pulse-crops
@@ -32,17 +32,16 @@ The term "pulse" specifically refers to the dry, edible seeds of leguminous plan
 
 | Pulse | Species | Primary Regions | Growth Habit |
 |-------|---------|-----------------|--------------|
-| Chickpea (Garbanzo) | *Cicer arietinum* | Mediterranean, South Asia | Cool-season annual |
-| Dry Pea | *Pisum sativum* | Temperate zones worldwide | Cool-season annual |
-| Lentil | *Lens culinaris* | Near East, South Asia, Canada | Cool-season annual |
-| Dry Bean (Common) | *Phaseolus vulgaris* | Americas, East Africa | Warm-season annual |
+| Chickpea (Garbanzo) | *[[cicer-arietinum]]* | Mediterranean, South Asia | Cool-season annual |
+| Dry Pea | *[[pisum-sativum]]* | Temperate zones worldwide | Cool-season annual |
+| Lentil lens culinaris aris* | Near East, South Asia, Canada | Cool-season annual |
+| Dry Bean phaseolus vulgaris lus vulgaris* | Americas, East Africa | Warm-season annual |
 | Fava/Broad Bean | *Vicia faba* | Mediterranean, East Africa | Cool-season annual |
-| Cowpea (Black-eyed Pea) | *Vigna unguiculata* | West Africa, tropics | Warm-season annual |
-| Pigeon Pea | *Cajanus cajan* | South Asia, tropical Africa | Perennial shrub |
+| Cowpea (Black-e vigna unguiculata unguiculata* | West Africa, tropics | Warm-season annual |
+| Pigeon Pea | *[[cajanus-cajan]]* | South Asia, tropical Africa | Perennial shrub |
 | Mung Bean | *Vigna radiata* | South/Southeast Asia | Warm-season annual |
 | Lupin (Sweet) | *Lupinus albus* | Mediterranean, South America | Cool-season annual |
-| Bambara Groundnut | *Vigna subterranea* | Sub-Saharan Africa | Warm-season annual |
-| Grass Pea | *Lathyrus sativus* | South Asia, Ethiopia | Cool-season annual |
+| Bamba vigna subterranea igna subterranea* | Sub-Saharan Africa | Warm-season annual |lathyrus sativus Lathyrus sativus* | South Asia, Ethiopia | Cool-season annual |
 
 ## Nutritional Profile
 
@@ -90,7 +89,7 @@ The single most important agronomic feature of grain legumes is their ability to
 
 Different pulse species vary dramatically in their nitrogen-fixing capacity:
 
-| Species | N Fixed (kg/ha/year) | Biomass Production | Rhizobial Specificity |
+| Species | N Fixed (kg/ha/year) | [[dighton-fungal-biomass-production-aquatic-ecosystems]] | Rhizobial Specificity |
 |---------|---------------------|--------------------|-----------------------|
 | Fava Bean | 150–300 | High | Moderate |
 | Chickpea | 50–140 | Moderate | High (specific strains) |
@@ -117,12 +116,12 @@ The nitrogen benefit extends beyond the pulse crop itself. When pulse residues (
 
 Chickpeas are the second most widely grown pulse globally (after dry beans), with India alone producing over 70% of the world supply. Two main types exist:
 
-- **Desi**: Small, dark-colored seeds with rough coats. Grown primarily in South Asia and Ethiopia. Higher fiber and antioxidant content. Better drought tolerance.
+- **Desi**: Small, dark-colored seeds with rough coats. Grown primarily in South Asia and Ethiopia. Higher fiber and antioxidant content. Better [[dighton-fungal-drought-tolerance-plant-water-relations]].
 - **Kabuli**: Large, cream-colored seeds with smooth coats. Preferred in Mediterranean, Middle Eastern, and Western markets. Higher yields under good conditions but less stress-tolerant.
 
-**Growing Conditions**: Chickpeas are extremely [[drought-tolerant-planting-design]] among grain legumes, owing to their deep taproot system (often exceeding 1.5 m) and phenological escape strategy — they flower and set seed during the cool season, maturing before summer drought. Optimal temperature: 18–29°C. Soil pH: 6.0–8.0 (tolerates alkaline soils better than most legumes). Sensitive to waterlogging, frost, and high humidity (which promotes *Ascochyta* blight).
+**Growing Conditions**: Chickpeas are extremely [[permplant-carob-drought-tolerant-food-tree]] planting design among grain legumes, owing to their deep taproot system (often exceeding 1.5 m) and phenological escape strategy — they flower and set seed during the cool season, maturing before summer drought. Optimal temperature: 18–29°C. Soil pH: 6.0–8.0 (tolerates alkaline soils better than most legumes). Sensitive to waterlogging, frost, and high humidity (which promotes *Ascochyta* blight).
 
-**Cultural Significance**: Chickpeas are foundational to cuisines across the Middle East (hummus, falafel), South Asia (chana masala, besan flour), Mediterranean (socca), and increasingly global markets as a plant protein ingredient.
+**[[ethnomycology-cultural-significance-sacred-fungi]]**: Chickpeas are foundational to cuisines across the Middle East (hummus, falafel), South Asia (chana masala, besan flour), Mediterranean (socca), and increasingly global markets as a plant protein ingredient.
 
 ### Lentil (*Lens culinaris*)
 
@@ -147,146 +146,5 @@ Fava beans have the highest yield potential and nitrogen fixation capacity of an
 **Agronomic Advantages**: Deep root system (1–1.5 m), excellent nitrogen fixation, high biomass production, frost tolerance, and tolerance of heavy wet soils. Fava beans are increasingly intercropped with cereals in Europe as a sustainable protein source, replacing soybean imports in some supply chains.
 
 ### Dry Pea (*Pisum sativum*)
-
-Dry peas are among the most widely adapted grain legumes, grown from the subtropics to high-latitude temperate zones. They have been central to crop rotations in Europe and North America for centuries.
-
-**Types**:
-- **Yellow Pea**: The dominant class for food and feed markets. High starch content makes them important for protein isolate and starch fractionation industries.
-- **Green Pea**: Smaller market but commands premium prices. Used in split pea soup, dahl, and snack foods.
-- **Maple Pea**: Brown-marbled seeds; primarily used as birdseed and cover crop in Europe.
-
-**Agronomic Notes**: Peas are relatively easy to grow, have moderate nitrogen fixation, and produce useful biomass. They are susceptible to a range of foliar diseases (powdery mildew, *Ascochyta*, [[downy-mildew-biology-diversity-peronosporales]]) that require varietal resistance or fungicide management in humid regions.
-
-## Warm-Season Grain Legumes
-
-### Cowpea (*Vigna unguiculata*)
-
-Cowpea is the most important grain legume in sub-Saharan Africa, where it provides both grain for human consumption and fodder for livestock. Its extreme heat and drought tolerance make it a staple across the Sahel and savanna zones.
-
-**Key Traits**:
-- Extreme drought tolerance (survives on 300–500 mm rainfall)
-- Heat tolerance (thrives at 30–35°C)
-- Shade tolerance (important for intercropping)
-- Low soil fertility requirements
-- Dual-purpose (grain + leaf vegetable + fodder)
-- Promiscuous nodulation with native rhizobia
-
-**Varietal Diversity**: Cowpea has enormous phenotypic diversity — seed colors range from white, cream, red, brown, and black to mottled and eyed patterns. Seed size varies from 5 to 30 g per 100 seeds. This diversity reflects centuries of farmer selection across diverse agroecologies.
-
-### Pigeon Pea (*Cajanus cajan*)
-
-Pigeon pea is a perennial woody shrub (though usually managed as an annual or biennial in cultivation) that produces protein-rich seeds over multiple years. It is the fifth most important pulse globally by production.
-
-**Unique Features**:
-- Perennial growth habit allows harvests over 2–5 years from a single planting
-- Deep taproot system (2+ meters) provides exceptional drought tolerance
-- Nodulates freely with diverse rhizobia
-- Excellent for intercropping with cereals (especially in India's pigeon pea-wheat and pigeon pea-sorghum systems)
-- High-quality fodder from prunings
-- Windbreak and erosion control benefits from woody structure
-
-**Limitations**: Long growing season (180–280 days to first harvest), susceptibility to frost, and moderate susceptibility to pod borer (*Helicoverpa armigera*), which is the major pest constraint globally.
-
-### Mung Bean (*Vigna radiata*)
-
-Mung beans are the primary pulse for sprout production globally and are also consumed as whole or split dry seeds in South and [[southeast-asian-mushroom-tourism-bali]] cuisines. Their short growing season (60–90 days) allows double or triple cropping in tropical and subtropical systems.
-
-**Culinary Uses**: Bean sprouts, mung dal, cellophane/glass noodles (fen pi), sweet soups, and pastry fillings across Asian cuisines.
-
-### Lupin (*Lupinus albus, L. angustifolius, L. luteus*)
-
-Lupins are unique among pulses for their extremely high protein content (35–45%) and their ability to grow in acidic, infertile soils that defeat most other crops. Sweet (low-alkaloid) varieties developed since the 1960s have enabled lupins to become important food and feed crops in Australia, Europe, and South America.
-
-**Agronomic Advantages**:
-- Tolerates soil pH as low as 4.5 (acid tolerance)
-- Very high nitrogen fixation (150–250 kg N/ha)
-- Deep taproot mines nutrients from subsoil
-- High protein and oil content in seed
-- Good break crop for cereal diseases
-
-**Current Developments**: Narrow-leafed lupin (*L. angustifolius*) dominates Australian production and is increasingly used as a plant-based protein ingredient in food manufacturing.
-
-## Role in Sustainable Agriculture
-
-### Crop Rotation Benefits
-
-Grain legumes are the cornerstone of sustainable cereal-based farming systems worldwide. Their integration into rotations provides multiple benefits:
-
-1. **Nitrogen Supply**: The nitrogen credit from a well-nodulated pulse crop can supply 50–80% of the nitrogen needs of a subsequent cereal crop, reducing synthetic fertilizer requirements.
-2. **Disease Break**: Pulse crops disrupt the life cycles of cereal pathogens (take-all, crown rot, root lesion nematodes) that build up in continuous cereal systems.
-3. **Weed Suppression**: The different growth habits and management of pulse crops (different sowing times, row spacings, herbicide options) disrupt weed cycles.
-4. **[[soil-structure-and-aggregate-ecology]]**: Legume root systems improve soil aggregation and porosity, enhancing water infiltration for subsequent crops.
-5. **Carbon Input**: Pulse residues contribute to soil organic matter, though less than cereal residues due to lower lignin content and faster decomposition.
-
-### Intercropping Systems
-
-Pulse-cereal intercrops are among the most studied and successful intercropping systems globally:
-
-- **Pigeon Pea + Sorghum/Millet**: Classic system in semi-arid India. The tall pigeon pea matures later and uses moisture from deeper soil layers, while the cereal captures early-season moisture.
-- **Cowpea + Maize**: Widely practiced in sub-Saharan Africa. Cowpea's shade tolerance and nitrogen contribution benefit the cereal.
-- **Chickpea + Wheat**: Mediterranean and South Asian system. Chickpea's winter growth cycle complements spring wheat.
-- **Fava Bean + Barley**: Northern European system. High nitrogen transfer from fava to barley.
-- **Common Bean + Maize + Squash**: The Mesoamerican "Three Sisters" milpa system — one of the most successful polycultures ever developed.
-
-### Land Equivalent Ratio (LER)
-
-Intercropped pulses consistently achieve LER values of 1.2–1.8, meaning 20–80% more land would be required to produce the same yield from monocultures. The nitrogen transfer from legume to cereal companion accounts for a significant portion of this advantage.
-
-## Global Production and Trade
-
-India is by far the world's largest pulse producer and consumer, growing over 25 million tonnes annually but also importing 2–4 million tonnes to meet domestic demand. Canada is the world's largest pulse exporter, particularly of lentils and dry peas, with the vast majority of production in Saskatchewan and Alberta. Australia is a major exporter of chickpeas and lupins. Myanmar, Ethiopia, Nigeria, and Brazil are also significant producers.
-
-### Major Challenges Facing Pulse Production
-
-1. **Yield Stagnation**: Pulse yields have increased far more slowly than cereal yields over the past 50 years. Average global yields remain low (chickpea: ~1 t/ha, lentil: ~1.2 t/ha, dry pea: ~1.8 t/ha) compared to theoretical potential (3–5 t/ha for most species).
-2. **Biotic Stresses**: Fungal diseases (*Ascochyta* blight, Fusarium wilt, rust), insect pests (pod borer, bruchid beetles, aphids), parasitic weeds (broomrape), and viral diseases cause major losses.
-3. **Abiotic Stresses**: Drought, heat, salinity, and waterlogging all significantly reduce pulse yields. Climate change is increasing the frequency and severity of these stresses.
-4. **[[post-harvest-handling-marketing-mushrooms]] Losses**: In many developing countries, 10–30% of pulse harvests are lost to inadequate storage (bruchid beetle damage, mold, rodent damage).
-5. **Anti-Nutritional Factors**: Despite processing methods, flatulence and digestive discomfort limit pulse consumption in some populations, constraining demand growth.
-
-## Breeding and Genetic Improvement
-
-Modern pulse breeding targets include:
-
-- **Drought and heat tolerance**: Identifying root architecture traits, osmotic adjustment, and phenological escape mechanisms.
-- **Disease resistance**: Pyramiding multiple resistance genes against *Ascochyta*, Fusarium, and rust pathogens.
-- **Yield improvement**: Addressing harvest index limitations, pod retention, and seed filling duration.
-- **Nutritional quality**: Biofortification for iron, zinc, and selenium; reducing phytic acid and oligosaccharide content.
-- **Mechanization suitability**: More upright growth habits, uniform maturity, and pod height suitable for direct combining.
-- **Nitrogen fixation enhancement**: Selecting for superior nodulation, greater BNF efficiency, and compatibility with effective rhizobial strains.
-
-Genomic resources for pulses have expanded dramatically in the past decade, with reference genomes now available for chickpea, lentil, pea, cowpea, pigeon pea, and lupin. Marker-assisted selection and genomic selection are accelerating breeding progress.
-
-## Pulses in Permaculture and Homestead Systems
-
-### Integration Strategies
-
-- **Multi-strata systems**: Pigeon pea as a mid-canopy nitrogen-fixer between fruit trees and ground covers.
-- **Cover crop rotations**: Cowpea or mung bean as warm-season [[green-manures-and-cover-crop-systems]], fava or field pea as cool-season covers.
-- **Guild design**: Climbing beans on corn stalks with squash as ground cover (Three Sisters adaptation).
-- **Food forest integration**: Fava beans as nitrogen-fixing understory in temperate food forests; pigeon pea in tropical systems.
-- **Chop-and-drop mulch**: Pigeon pea and lupin prunings provide high-nitrogen mulch for fruit trees and garden beds.
-- **Edible landscape**: Scarlet runner beans as ornamental edible climbers; lupins as ornamental nitrogen-fixing perennials.
-
-### Seasonal Planning (Temperate Climates)
-
-| Season | Pulse Crop | Purpose |
-|--------|-----------|---------|
-| Early Spring | Fava bean, Field pea | Cool-season cover crop + edible seed |
-| Late Spring | Chickpea, Lentil | Grain harvest (sow 2–3 weeks before last frost) |
-| Summer | Cowpea, Mung bean, Common bean | Warm-season production |
-| Late Summer | Chickpea (in mild climates) | Overwinter for spring harvest |
-| Autumn | Field pea, Crimson clover (as green manure) | Winter cover, N fixation |
-| Perennial | Pigeon pea (tropical), Lupin | Multi-year production |
-
-## The Future of Pulses
-
-Pulses are positioned to become increasingly important in 21st-century food systems for several converging reasons:
-
-- **Plant-based protein demand**: Growing consumer interest in vegetarian and flexitarian diets is driving demand for pulse-derived protein ingredients (isolates, concentrates, flours).
-- **Climate resilience**: As climate change increases drought and heat stress, pulses' stress tolerance and low input requirements become strategic advantages.
-- **Soil health restoration**: Recognition of synthetic nitrogen's environmental costs (groundwater contamination, N₂O emissions, energy intensity) is driving interest in [[biological-nitrogen-fixation-agriculture]] fixation.
-- **Nutritional security**: Pulses provide affordable protein and micronutrients to populations that cannot access animal-source foods.
-- **Biodiversity**: Increasing crop diversity with pulses reduces the vulnerability inherent in cereal-dominated farming systems.
-
-The challenge ahead lies in closing the yield gap, reducing post-harvest losses, developing varieties adapted to changing climates, and building consumer acceptance. With continued investment in breeding, agronomy, and food technology, grain legumes have the potential to significantly contribute to sustainable, nutritious, and resilient food systems.
+## Related
+- [[gourmet-medicinal-mushroom-spawn-grain-production]]

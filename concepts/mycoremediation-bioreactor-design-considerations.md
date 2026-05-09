@@ -18,18 +18,18 @@ Designing effective bioreactors for fungal pollutant degradation (mycoreactors) 
 - Contaminated water or air flows through the packed bed, contacting the fungal mycelium
 - Advantages: Simple design, low energy input, good biomass retention, minimal shear stress on mycelium
 - Limitations: Channeling can reduce contact efficiency, pressure drop increases over time as mycelium grows, mass transfer limitations in the biofilm
-- Best suited for: Continuous treatment of mining effluent, textile wastewater, and volatile organic compound (VOC) off-gas treatment
+- Best suited for: Continuous treatment of mining effluent, textile wastewater, and [[fungal-volatile-organic-compounds-communication]] compound (VOC) off-gas treatment
 
 ### Fluidized Bed Reactors
 - Solid support particles with attached fungal biomass are suspended by upward flow of liquid
 - Better mixing and mass transfer than packed beds, but higher energy input
 - Shear forces can damage fungal hyphae — requires careful control of flow velocity
-- Effective for: Metal biosorption from wastewater, where mixing improves contact between biomass and dissolved metals
+- Effective for: [[fungal-heavy-metal-biosorption-and-detoxification]] from wastewater, where mixing improves contact between biomass and dissolved metals
 
 ### Rotating Biological Contactors (RBCs)
 - Discs covered with fungal biofilm rotate alternately through contaminated liquid and air
 - Provides excellent oxygen transfer (critical for aerobic fungal metabolism) while maintaining contact with the contaminated phase
-- Well-established technology adapted from bacterial wastewater treatment
+- Well-established technology adapted from bacterial [[mollison-designers-wastewater-treatment-wetlands]]
 - Effective for: Phenol degradation, dye decolorization, and other aerobic oxidation reactions
 
 ### Slurry Reactors
@@ -43,7 +43,7 @@ Designing effective bioreactors for fungal pollutant degradation (mycoreactors) 
 ### Oxygen Supply
 Most pollutant-degrading fungi are obligate aerobes. Oxygen transfer is often the rate-limiting factor in mycoreactor design:
 
-- White-rot fungi require dissolved oxygen concentrations above 2-3 mg/L for optimal ligninolytic enzyme production
+- White-rot fungi require [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] concentrations above 2-3 mg/L for optimal ligninolytic enzyme production
 - Oxygen transfer can be enhanced by sparging, surface aeration, or using RBC designs that expose biofilms to air
 - In subsurface applications (soil biopiles, permeable reactive barriers), oxygen is often supplied by air injection or oxygen-releasing compounds
 
@@ -56,7 +56,7 @@ Fungal metabolism and metal biosorption are highly pH-dependent:
 
 ### Temperature
 - Mesophilic fungi (Trametes, Pleurotus, Phanerochaete) operate optimally at 25-30°C
-- [[ligninolytic-enzymes]] (laccase, manganese peroxidase, lignin peroxidase) are the primary agents of organic pollutant degradation. Their production and stability are affected by:
+- [[ligninolytic-enzymes]] (laccase, [[fungal-manganese-peroxidase-remediation]], [[fungal-lignin-peroxidase-veratryl-alcohol]]) are the primary agents of organic pollutant degradation. Their production and stability are affected by:
 - Nitrogen source and concentration (ligninolytic enzyme production is suppressed by high nitrogen)
 - Inducer compounds (veratryl alcohol, manganese, copper)
 - Temperature and pH
@@ -65,7 +65,7 @@ Fungal metabolism and metal biosorption are highly pH-dependent:
 ## See Also
 
 - [[mycoremediation-techniques]] — overview of mycoremediation approaches
-- [[mycoremediation-heavy-metals-detailed]] — metal-specific reactor considerations
+- [[mycoremediation-of-heavy-metals]] — metal-specific reactor considerations
 ## Practical Considerations
 
 Successful implementation of Mycoremediation Bioreactor Design Considerations requires attention to
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -69,7 +69,7 @@ The oversized, reflexed lid of the upper pitcher exudes a sugary substance rich 
 
 While feeding, the tree shrew defecates into the pitcher. The fecal pellets are rich in nitrogen, which the plant absorbs as its primary nutrient source.
 
-Stable isotope analysis has confirmed that up to 100% of foliar nitrogen in *N. lowii* is derived from tree shrew excrement, making it effectively non-carnivorous in its adult stage.
+[[fungal-stable-isotope-ecology]] analysis has confirmed that up to 100% of foliar nitrogen in *N. lowii* is derived from tree shrew excrement, making it effectively non-carnivorous in its adult stage.
 
 The pitcher morphology is precisely adapted to this interaction. The wide, flat lid acts as a feeding platform, while the inner-angled peristome directs feces into the pitcher chamber.
 
@@ -85,13 +85,13 @@ Birds, particularly sunbirds, have also been observed feeding on the lid exudate
 
 Optimal conditions mimic its montane habitat: daytime temperatures of 18–24°C, nighttime drops to 10–14°C, and humidity consistently above 80%.
 
-Many growers use ultrasonic humidifiers, evaporative cooling, or dedicated highland chambers to maintain appropriate conditions. Room-temperature cultivation is rarely successful long-term.
+Many growers use ultrasonic humidifiers, [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]], or dedicated highland chambers to maintain appropriate conditions. Room-temperature cultivation is rarely successful long-term.
 
 The species requires very pure water (reverse-osmosis, distilled, or rainwater). Tap water contains minerals that accumulate in the substrate and damage roots over time.
 
-A substrate of live sphagnum moss or a mix of long-fiber sphagnum with perlite works well. Good drainage is essential to prevent root rot.
+A substrate of live sphagnum moss or a mix of long-fiber sphagnum with perlite works well. Good drainage is essential to prevent [[cannabis-root-rot-prevention-and-treatment]].
 
-Light requirements are moderate — bright, diffused light simulates the mountain cloud forest conditions the species prefers. Direct sun causes leaf burn.
+[[growing-gourmet-light-requirements-mushroom-fruiting]] are moderate — bright, diffused light simulates the mountain cloud forest conditions the species prefers. Direct sun causes leaf burn.
 
 Growth is slow compared to lowland *Nepenthes* species. Upper pitchers may take 3–5 years to develop from seed, making the species primarily of interest to specialist collectors.
 
@@ -110,6 +110,6 @@ Compared to *N. rajah*, *N. lowii* produces smaller pitchers with a more extreme
 - [[nepenthes-mirabilis]]
 - [[dionaea-muscipula]]
 - [[drosera-rotundifolia]]
-- [[darlingtonia-californica]]
+- darlingtonia californica
 - [[sarracenia-flava]]
 - [[utricularia-vulgaris]]

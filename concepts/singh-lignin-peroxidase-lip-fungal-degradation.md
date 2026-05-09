@@ -1,5 +1,5 @@
 ---
-title: "Lignin Peroxidase (LiP) in Fungal Degradation"
+title: "fungal-lignin-peroxidase-veratryl-alcohol (LiP) in singh-fungal-degradation-endocrine-disrupting-compounds"
 created: 2026-04-26
 tags:
   - lignin-peroxidase
@@ -22,7 +22,7 @@ of lignin, the complex aromatic polymer that constitutes 15-30% of
 plant cell walls. LiP is notable for its ability to directly oxidize
 non-phenolic aromatic substrates, which constitute approximately 90%
 of lignin's structural units, a capability that distinguishes it from
-other ligninolytic enzymes.
+other [[singh-ligninolytic-enzymes-fungal-bioremediation]].
 
 ## Discovery and Significance
 
@@ -55,6 +55,8 @@ LiP contributes to the degradation of numerous xenobiotics:
 
 ## See Also
 
+- [[singh-ddt-endosulfan-fungal-degradation]]
+
 - [[singh-versatile-peroxidase-vp-multifunctional]]
 - [[singh-textile-dye-decolorization-fungal]]
 ## Practical Considerations
@@ -73,7 +75,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +117,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

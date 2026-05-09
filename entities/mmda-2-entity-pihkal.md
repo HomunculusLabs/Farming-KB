@@ -1,5 +1,5 @@
 ---
-title: "MMDA-2 (2-METHOXY-4,5-METHYLENEDIOXYAMPHETAMINE) -- PIHKAL Entry #133"
+title: "MMDA-2 (2-METHOXY-4,5-METHYLENEDIOXYAMPHETAMINE) -- 2c-b-pihkal-entry-20 #133"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -74,7 +74,7 @@ to the quality of its action. Some like it much, and some like it not
 at all. The N-methyl homologue was indeed made, for direct evaluation
 in comparison to N-methyl MDA (which is [[methyl-mmda-2-entity-pihkal]]
 - [[qualitative-comments-methodology-pihkal]]
-- [[fungal-pellet-formation-structure]]
+- fungal-pellet-formation-structure
 ## Practical Considerations
 
 Successful implementation of MMDA-2 (2-METHOXY-4,5-METHYLENEDIOXYAMPHETAMINE) -- PIHKAL Entry #133 requires attention to
@@ -93,4 +93,9 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[2t-mmda-3a-entity-pihkal]]
+- [[methyl-mmda-2-entity-pihkal]]
+- [[mmda-3a-entity-pihkal]]
+- [[mmda-3b-entity-pihkal]]
+- [[mmda-entity-pihkal]]

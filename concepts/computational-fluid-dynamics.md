@@ -11,7 +11,7 @@ sources: []
 ## Overview
 Computational fluid dynamics, usually abbreviated CFD, is the numerical simulation of fluid flow and related transport processes.
 
-It uses computers to approximate the governing equations for liquids, gases, plasmas, sprays, bubbles, heat transfer, reacting mixtures, and moving interfaces.
+It uses computers to approximate the governing equations for liquids, gases, plasmas, sprays, bubbles, [[heat-transfer-coefficient]], reacting mixtures, and moving interfaces.
 
 CFD is valuable when analytical solutions are unavailable and physical experiments are expensive, dangerous, slow, difficult to instrument, or impossible at full scale.
 
@@ -24,7 +24,7 @@ Most CFD begins with conservation of mass, momentum, and energy written for a co
 
 The Navier-Stokes equations relate velocity, pressure, density, viscosity, body forces, and acceleration for viscous flow.
 
-The energy equation is needed when compressibility, heat transfer, combustion, phase change, or temperature-dependent material properties matter.
+The energy equation is needed when compressibility, heat transfer, combustion, [[phase-change-materials-thermal-energy-storage]], or temperature-dependent material properties matter.
 
 Species-transport equations track mixtures, pollutants, vapor, combustion products, dissolved substances, or chemical reactants.
 
@@ -41,7 +41,7 @@ This conservative form makes finite volume schemes especially common in industri
 
 Finite difference methods approximate derivatives on structured grids and are efficient for canonical, atmospheric, oceanic, and high-order research simulations.
 
-Finite element methods represent fields with basis functions over elements and are useful for complex geometry, incompressible flow, multiphysics coupling, and stabilized formulations.
+[[finite-element-method]] methods represent fields with basis functions over elements and are useful for complex geometry, incompressible flow, multiphysics coupling, and stabilized formulations.
 
 Spectral, spectral-element, discontinuous Galerkin, lattice Boltzmann, vortex, particle, and immersed-boundary methods serve specialized accuracy, geometry, or physics needs.
 
@@ -91,7 +91,7 @@ Common boundaries specify no-slip walls, slip walls, inlet velocity, mass flow, 
 
 Thermal problems may require wall temperature, heat flux, convective heat transfer, radiation, conjugate heat transfer, or contact resistance.
 
-Multiphase and reacting simulations require additional conditions for volume fraction, species, droplet injection, evaporation, surface tension, kinetics, or phase change.
+Multiphase and reacting simulations require additional conditions for volume fraction, species, droplet injection, evaporation, [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]], kinetics, or phase change.
 
 Initial conditions matter for transient flows, vortex shedding, combustion ignition, multiphase startup, turbulence development, and simulations with multiple stable states.
 
@@ -134,7 +134,6 @@ LES and DNS reduce some modeling errors but shift the burden to resolution, wall
 
 Poor meshes may create artificial diffusion, unstable iterations, nonphysical pressure fields, or hidden local errors.
 
-Responsible CFD treats color plots as diagnostic evidence, not proof; numerical results need budgets, comparisons, and uncertainty estimates.
 ## See Also
 - [[turbulence-modeling-fluid-dynamics]]
 - boundary layer theory fluid dynamics

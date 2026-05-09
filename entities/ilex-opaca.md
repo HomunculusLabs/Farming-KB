@@ -13,20 +13,20 @@ updated: 2026-05-08
 sources:
   - USDA NRCS (2024). Plant Profile: Ilex opaca. plants.usda.gov.
   - Dirr, M.A. (2009). Manual of Woody Landscape Plants. Stipes Publishing.
-  - Little, E.L. (1979). Checklist of United States Trees. USDA Forest Service Agriculture Handbook 541.
+  - Little, E.L. (1979). Checklist of [[dmt-containing-plants-united-states-halpern]] Trees. USDA Forest Service Agriculture Handbook 541.
   - Cullina, W. (2002). Native Trees, Shrubs, and Vines. Houghton Mifflin.
   - Brand, M.H. (2001). "Ilex." In: Encyclopedia of Plants and Flowers. DK Publishing.
 ---
 
 ## Overview
 
-**Ilex opaca**, commonly known as American holly, is a medium-sized evergreen tree in the family Aquifoliaceae native to the eastern and south-central United States. It is the state tree of Delaware and one of the most widely recognized native ornamental trees in North America.
+**Ilex opaca**, commonly known as American holly, is a medium-sized evergreen tree in the family Aquifoliaceae native to the eastern and south-central United States. It is the state tree of Delaware and one of the most widely recognized native ornamental trees in [[psilocybin-north-america-pacific-northwest]].
 
 The species ranges from Massachusetts south to central Florida and west to eastern Texas and southeastern Missouri. American holly is valued for its spiny evergreen foliage and abundant red drupes that persist through winter.
 
 It is the species most commonly associated with Christmas holly traditions in North America. The wood is close-grained and white, historically used for inlay work, woodcuts, and tool handles.
 
-The genus *Ilex* contains approximately 400–600 species worldwide. American holly is among the most commercially important North American species in the genus.
+The genus *Ilex* contains approximately 400–600 species worldwide. American holly is among the most commercially important [[growing-gourmet-north-american-reishi-species]] species in the genus.
 
 ## Taxonomy and Morphology
 
@@ -68,7 +68,7 @@ American holly provides year-round cover and winter food for wildlife across its
 
 White-tailed deer browse foliage and twigs moderately, particularly in winter when other evergreen forage is scarce. The dense, spiny foliage provides excellent nesting cover and escape cover for songbirds.
 
-The flowers attract native bees, honeybees, and other pollinators during spring. Although individual flowers are inconspicuous, the aggregated blooms produce significant nectar volumes.
+The flowers [[query-how-to-attract-native-bees-and-beneficial-insects]] bees, honeybees, and other pollinators during spring. Although individual flowers are inconspicuous, the aggregated blooms produce significant nectar volumes.
 
 American holly serves as a larval host for the holly azure butterfly (*Celastrina idella*), a specialist that feeds exclusively on *Ilex* species in the southeastern United States.
 
@@ -94,9 +94,9 @@ American holly is closely related to several other North American *Ilex* species
 
 Possumhaw (*Ilex decidua*) is a deciduous holly of the southeastern United States noted for its spectacular winter fruit display on leafless branches. Inkberry (*Ilex glabra*) is a compact, rhizomatous evergreen shrub with entire leaves.
 
-Yaupon (*Ilex vomitoria*) is the only other North American holly containing significant caffeine. European holly (*Ilex aquifolium*) is a closely related Old World species with similar morphology.
+Yaupon (*Ilex vomitoria*) is the only other North American holly containing significant caffeine. European holly (*Ilex aquifolium*) is a closely related [[datura-metel-old-world-ethnobotany]] species with similar morphology.
 
-American holly can be distinguished from European holly by its duller leaf surface, less pronounced marginal spines, and more southerly natural distribution.
+American holly can be distinguished from European holly by its duller [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]], less pronounced marginal spines, and more southerly natural distribution.
 
 ## See Also
 
@@ -106,6 +106,6 @@ American holly can be distinguished from European holly by its duller leaf surfa
 - [[kalmia-latifolia]]
 - [[gaylussacia-baccata]]
 - [[picea-abies]]
-- [[arctostaphylos-uva-ursi]]
+- arctostaphylos-uva-ursi
 - [[vaccinium-myrtillus]]
 - [[kalmia-angustifolia]]

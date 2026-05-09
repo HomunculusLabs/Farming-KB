@@ -1,5 +1,5 @@
 ---
-title: "Phase-Change Materials for Thermal Energy Storage"
+title: "Phase-Change Materials for phase change materials thermal energy storage Storage"
 aliases: [pcm, latent-heat-storage, phase-change-energy-storage]
 tags: [materials-science, thermodynamics, energy-storage, heat-transfer, engineering]
 created: 2026-05-02
@@ -15,7 +15,7 @@ Phase-change materials are substances chosen because they absorb or release larg
 
 Their engineering value comes from latent heat: energy can enter or leave the material while temperature remains close to the phase transition point.
 
-A water-ice mixture near 0 °C is the familiar example, but practical systems also use paraffins, fatty acids, salt hydrates, eutectic mixtures, metals, polymers, and encapsulated composites.
+A water-ice mixture near 0 °C is the familiar example, but practical systems also use paraffins, [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]], salt hydrates, eutectic mixtures, metals, polymers, and encapsulated composites.
 
 In thermal energy storage, a PCM acts like a thermal buffer that smooths heat supply and demand across hours, daily cycles, or intermittent operating conditions.
 
@@ -45,7 +45,7 @@ Eutectic PCMs combine two or more compounds to create a tailored melting point l
 
 Solid-solid PCMs store heat through crystal-structure changes and can avoid liquid leakage, though their latent heats are usually smaller than solid-liquid transitions.
 
-Metallic PCMs such as aluminum-silicon alloys operate at high temperature and are considered for concentrated solar power, waste heat recovery, and compact industrial storage.
+Metallic PCMs such as aluminum-silicon alloys operate at high temperature and are considered for concentrated [[holmgren-trees-solar-power-plants-detailed]], waste heat recovery, and compact industrial storage.
 
 Composite PCMs embed the active material in graphite, metal foam, expanded vermiculite, polymer networks, or porous ceramics to improve heat transfer and shape stability.
 
@@ -61,7 +61,7 @@ Cycling stability matters because a building panel, cold-chain pack, or industri
 
 Compatibility with containment materials is essential: salt hydrates can corrode metals, and organic liquids can swell some polymers.
 
-Safety screening includes flash point, toxicity, vapor pressure, gas evolution, freeze expansion, and behavior during fire exposure.
+Safety screening includes flash point, toxicity, [[cervantes-vapor-pressure-deficit-transpiration]], gas evolution, freeze expansion, and behavior during fire exposure.
 
 Cost is not just the price per kilogram; it includes encapsulation, heat exchangers, installation, maintenance, and degradation over lifetime.
 
@@ -140,5 +140,8 @@ Standard references include heat-transfer textbooks, thermal energy storage hand
 Useful web overviews include the Wikipedia articles on phase-change materials, latent heat, and thermal energy storage, which summarize classifications, selection criteria, and common applications.
 
 Engineering evaluation should always rely on measured data for the specific supplier grade, because additives, purity, and encapsulation method can dominate field performance.
-- [[low-energy-futures-in-permaculture]]
+- low-energy-futures-in-permaculture
 - [[mollison-designers-climate-zone-1-intensive-garden]]
+- [[holmgren-built-environment-household-energy-storage]]
+- [[root-cellaring-and-no-energy-food-storage]]
+- [[coleman-soil-heat-mass-passive-thermal-storage]]

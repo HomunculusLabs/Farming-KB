@@ -34,9 +34,9 @@ Instead, vegetation on the hillside is cut in lateral strips, and large trunks, 
 
 ## Establishing a Natural Protected Wood
 
-The woods surrounding a natural farm should serve as a natural preserve and direct or indirect source of organic fertilizer. The basic strategy for long-term fertilizer-free cultivation is to create deep, fertile soil through three methods:
+The woods surrounding a natural farm should serve as a natural preserve and direct or indirect source of [[complete-organic-fertilizer-cof-recipe-solomon]]. The basic strategy for long-term fertilizer-free cultivation is to create deep, fertile soil through three methods:
 
-1. Direct burial of coarse organic matter deep in the ground.
+1. Direct burial of coarse [[hamilton-composting-and-organic-matter-management]] deep in the ground.
 2. Gradual soil improvement by planting grasses and trees that send roots deep into the soil.
 3. Enrichment of the farm by carrying nutrients built up in the humus of upland woods downhill with rainwater.
 
@@ -79,9 +79,9 @@ Fruit saplings are planted at equal intervals along hill contours. A fairly deep
 
 ### Natural Seedlings vs. Grafted Nursery Stock
 
-From the standpoint of natural farming, trees grown from seed are preferable to grafted nursery stock. When a tree is grafted, the flow of sap is blocked at the graft juncture, resulting in either a dwarf tree requiring heavy fertilization or a tree with short lifetime and poor resistance to temperature extremes.
+From the standpoint of [[comparison-natural-farming-vs-permaculture]], trees grown from seed are preferable to grafted nursery stock. When a tree is grafted, the flow of sap is blocked at the graft juncture, resulting in either a dwarf tree requiring heavy fertilization or a tree with short lifetime and poor resistance to temperature extremes.
 
-However, direct seeding of citrus produces trees that revert or degenerate. Fukuoka used direct seeding primarily to learn the true form of the tree and its natural growth rate, which then informed his approach to training grafted stock toward a more natural form.
+However, [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] of citrus produces trees that revert or degenerate. Fukuoka used direct seeding primarily to learn the true form of the tree and its [[ingham-natural-growth-regulators-soil-microbes]] rate, which then informed his approach to training grafted stock toward a more natural form.
 
 ### Orchard Management Sequence
 
@@ -107,7 +107,7 @@ Fukuoka advocates for orchards that make full three-dimensional use of space:
 - Grow forage crops and semiwild vegetables in abundance.
 - Allow both poultry and livestock to graze freely in the orchard.
 
-Such a natural orchard is entirely different from conventional orchards employing high-production techniques. For the individual wishing to live in communion with nature, this is truly a paradise on earth.
+Such a [[fukuoka-natural-orchard-development]] is entirely different from conventional orchards employing high-production techniques. For the individual wishing to live in communion with nature, this is truly a paradise on earth.
 
 ## Wikilinks
 
@@ -117,3 +117,7 @@ Such a natural orchard is entirely different from conventional orchards employin
 - [[fukuoka-textdoc-creating-rice-paddy-natural-methods]]
 - [[fukuoka-textdoc-soil-self-plowing-natural-root-action]]
 - [[fukuoka-natural-farming-philosophy]]
+
+## See Also
+
+- [[natural-farm-establishment-protective-forests-and-windbreaks]]

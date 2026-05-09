@@ -9,7 +9,7 @@ sources: [raw/papers/shulgin-a-tihkal.md]
 
 ## The Pharmacology of Ayahuasca
 
-Ayahuasca is a synergistic combination of two plant components: a [[dmt-compound-profile]]-containing plant (typically Banisteriopsis caapi, Psychotria viridis, or Diplopterys cabrerana) and a beta-carboline-containing MAO inhibitor plant (typically Banisteriopsis caapi itself or Peganum harmala / Syrian Rue). Neither component alone produces the characteristic visionary experience when taken orally.
+Ayahuasca is a synergistic combination of two plant components: a [[dmt-compound-profile]]-containing plant (typically Banisteriopsis caapi, Psychotria viridis, or Diplopterys cabrerana) and a beta-carboline-containing MAO inhibitor plant (typically Banisteriopsis caapi itself or [[mckenna-food-gods-peganum-harmala-soma]] / [[golden-guide-syrian-rue-and-maoi-plants]]). Neither component alone produces the characteristic visionary experience when taken orally.
 
 ### The Pharmacokinetic Problem
 
@@ -44,19 +44,19 @@ When harmaline and DMT are combined, the resulting experience has properties tha
 - The beta-carbolines contribute their own character: physical purging (vomiting/diarrhea), tremor, and geometric visual patterns
 - DMT contributes the visionary, immersive psychedelic content
 
-Shulgin noted the classification challenge: the combination "invariably shows properties that neither component can show alone" — is it a modified DMT experience, a modified harmaline experience, or an emergent property of the mixture?
+Shulgin noted the classification challenge: the combination "invariably shows properties that neither component can show alone" — is it a modified [[mckenna-dmt-experience-and-hyperspace]], a modified harmaline experience, or an emergent property of the mixture?
 
 ### DMT Content in Ayahuasca Plants
 
 - Psychotria viridis (chacruna): leaves are the primary DMT source in most Peruvian ayahuasca
 - Diplopterys cabrerana (chaliponga): contains both DMT and 5-MeO-DMT
-- Banisteriopsis caapi: the harmala alkaloids come from the bark; some varieties contain trace tryptamines
-- Mimosa hostilis (jurema): roots used in some Brazilian preparations, contains DMT (originally called "nigerine")
+- Banisteriopsis caapi: the [[turner-harmala-alkaloids-preparation-and-dosage]] come from the bark; some varieties contain trace tryptamines
+- [[entheogen-jurema-mimosa-hostilis-ethnobotany]] (jurema): roots used in some Brazilian preparations, contains DMT (originally called "nigerine")
 
 ### Hoasca vs. Ayahuasca Distinction
 
 Shulgin drew a distinction between:
-- **Ayahuasca**: traditional preparation using plant mixtures of unknown/variable composition
+- **Ayahuasca**: [[kava-traditional-preparation-ceremonial-context]] using plant mixtures of unknown/variable composition
 - **Hoasca/Harmaline combinations**: experimental studies using discrete, characterized compounds (harmaline + DMT) in controlled settings
 
 The former is ethnobotanically rich but pharmacologically imprecise. The latter allows for dose-controlled study but misses the full spectrum of minor alkaloids present in the traditional preparations.

@@ -2,15 +2,15 @@
 
 ## Overview
 
-The Free Spore Ring Europe (FSRE) is a non-profit organization that distributes hallucinogenic mushroom spore prints and syringes at minimal cost to cultivators across Europe. Operating primarily through the internet, FSRE represented a significant democratizing force in mushroom spore access during the early-to-mid 2000s, charging approximately 1 EUR per print regardless of species. The organization exemplifies how internet-enabled hobbyist networks circumvented commercial supply chains and legal restrictions to facilitate home cultivation.
+The Free Spore Ring Europe (FSRE) is a non-profit organization that distributes [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]] spore prints and syringes at minimal cost to cultivators across Europe. Operating primarily through the internet, FSRE represented a significant democratizing force in mushroom spore access during the early-to-mid 2000s, charging approximately 1 EUR per print regardless of species. The organization exemplifies how internet-enabled hobbyist networks circumvented commercial supply chains and legal restrictions to facilitate [[mushroom-home-cultivation-history]].
 
 ## Source
 
-EMCDDA Thematic Paper: "Hallucinogenic Mushrooms: An Emerging Trend Case Study" (2006), by Hillebrand, Olszewski, and Sedefov. The FSRE is mentioned in the context of online shop surveys conducted in January 2006.
+EMCDDA Thematic Paper: "[[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]: An [[emcdda-epod-project-emerging-trend-detection-methodology]] Case Study" (2006), by Hillebrand, Olszewski, and Sedefov. The FSRE is mentioned in the context of online shop surveys conducted in January 2006.
 
 ## Organization and Operations
 
-FSRE operated through its website (fsre.org) and distributed spores of various strains including Psilocybe cubensis and [[mushroom-cultivation]] was technically illegal but spore possession was not.
+FSRE operated through its website (fsre.org) and distributed spores of various strains including [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] and [[mushroom-cultivation]] was technically illegal but spore possession was not.
 
 ## Spawnbags and Advanced Products
 
@@ -21,7 +21,7 @@ Beyond basic spore prints and syringes, the commercial market offered more advan
 - [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]]
 ## Practical Applications
 
-Emcdda Free Spore Ring Europe Spore Distribution Network has a range of practical applications that make it relevant to
+Emcdda Free Spore Ring emcdda free spore ring europe spore distribution network Distribution Network has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -96,4 +96,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

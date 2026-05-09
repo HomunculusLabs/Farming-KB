@@ -1,16 +1,13 @@
 ---
-title: "Permaculture Community Legal Structures"
+title: "urban-permaculture-community-building-social-design Legal Structures"
 created: 2026-04-28
-tags: [[permaculture, community, legal, trust, governance]
+tags: [permaculture, community, legal, trust, governance]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["bill-mollison-permaculture-design-course.md"]
 type: concept
 ---
-
-# Permaculture Community Legal Structures
-
-Bill Mollison's [[bioregional-organization]]
+# Permaculture Community Legal Structures Bill Mollison's [[bioregional-organization]]
 
 The structure supports bioregional organization with sub-groups working
 at local levels while maintaining connections to the international
@@ -36,16 +33,16 @@ Mollison stated this model works in Australia, America, and Britain,
 with legal details varying by country. The fundamental architecture of
 community, institute trust, trading trust, and land management
 transfers across legal jurisdictions while maintaining the core
-[[mollison-permaculture-trusts-and-legal-structures-for-community-land]]
+mollison-permaculture-trusts-and-legal-structures-for-community-land
 
-- [[mollison-permaculture-community-legal-structure]]
-- [[pdc-permaculture-community-structure]]
+- mollison-permaculture-community-legal-structure
+- pdc-permaculture-community-structure
 
-- holmgren twelve permaculture design principles for the ethical foundations
-- community supported agriculture for production models
+- holmgren twelve [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] principles for the [[bill-mollison-permaculture-a-designers-manual-ethical-foundations-in-permaculture]]
+- community [[community-supported-agriculture-csa]] for production models
 - land trust conservation for conservation easement approaches
 - cooperative farming models for agricultural cooperation
-- bioregionalism for geographic community organization
+- bioregionalism for geographic [[savory-community-organization-and-shared-grazing]]
 ## Practical Considerations
 
 When working with Permaculture Community Legal Structures, several practical factors should be
@@ -62,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -104,4 +101,6 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+## See Also
+- [[permaculture-design]]
+- [[bill-mollison]]

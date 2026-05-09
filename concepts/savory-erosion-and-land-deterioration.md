@@ -1,5 +1,5 @@
 ---
-title: Erosion and Land Deterioration
+title: savory erosion and land deterioration Deterioration
 created: 2026-04-28
 tags: [erosion, soil-health, watershed-management]
 date: 2026-04-25
@@ -13,7 +13,7 @@ type: concept
 
 In [[savory-ecosystem-foundation-blocks]]. Savory argues that the standard approach to erosion
 control, which typically involves mechanical earthworks and structural
-interventions, addresses symptoms rather than causes. True erosion control
+interventions, addresses symptoms rather than causes. True [[permplant-willows-salix-erosion-control-fodder]]
 requires restoring the biological processes that maintain soil stability.
 
 ## Erosion as Symptom, Not Cause
@@ -61,6 +61,8 @@ erosion trends over time.
 
 ## See Also
 
+- [[savory-poor-land-syndrome]]
+
 - [[savory-water-cycle-management]]
 - [[savory-bare-ground-and-soil-exposure]]
 - [[savory-animal-impact-and-herd-effect]]
@@ -82,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

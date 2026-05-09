@@ -50,10 +50,10 @@ effect that counteracts liming over time.
 
 Slaked lime (calcium oxide), sometimes sold as garden lime, is the
 most readily available form and lasts longer in soil than builder's
-lime. Hydrated lime, or builder's lime, works well but must be
+lime. [[cervantes-hydrated-lime-quicklime-ph-adjustment]], or builder's lime, works well but must be
 replaced at least annually. Ground limestone, often known as dolomite
 lime, is the best type; it is more expensive but lasts several years
-and contains magnesium, an important secondary nutrient. Calcified
+and contains magnesium, an important [[cervantes-secondary-nutrient-deficiency]]. Calcified
 seaweed contains several plant foods as well as lime and lasts in
 soil for two to three years.
 
@@ -85,7 +85,7 @@ Different crops have specific pH preferences. Brassicas need pH
 should not be limed. Legumes tolerate a range of pH but do best
 around 6.5. Root vegetables generally need pH above 6.5 to avoid
 certain diseases. Understanding these preferences allows you to
-adjust pH in different plots according to your rotation plan.
+adjust pH in different plots according to your [[query-how-do-i-design-a-crop-rotation-plan-for-my-vegetable-garden]].
 
 ## Summary
 
@@ -93,10 +93,10 @@ Soil pH management through liming is a cornerstone of organic soil
 care. Regular pH testing informs lime applications, which should be
 small, regular doses rather than large infrequent ones. Timing is
 critical: lime in spring, manure in fall, and never both together.
-Choose the right lime type for your needs; dolomite limestone offers
+[[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] lime type for your needs; dolomite limestone offers
 the best long-term value with added magnesium. Where soil is too
-alkaline, liberal organic matter applications and raised beds
+alkaline, liberal [[hamilton-composting-and-organic-matter-management]] applications and raised beds
 provide effective solutions without synthetic acidifiers.
 
-Mushroom compost can also raise pH moderately while adding organic matter
+[[staycare-spent-mushroom-compost-bioremediation]] can also raise pH moderately while adding organic matter
 and beneficial microorganisms to the soil profile simultaneously.

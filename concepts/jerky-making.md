@@ -66,7 +66,7 @@ Marinades add flavor and contribute to preservation through salt, acid, and some
 - Sweetener: brown sugar, honey, maple syrup, molasses — balances salt and heat
 - Umami: soy sauce, Worcestershire, fish sauce, MSG
 - Liquid smoke: hickory, mesquite, applewood — for smoky flavor without a smoker
-- Spices: black pepper, garlic powder, onion powder, chili powder, cayenne, cumin, smoked paprika
+- Spices: [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], garlic powder, onion powder, chili powder, cayenne, cumin, smoked paprika
 
 ### Marinade Recipes
 
@@ -120,14 +120,14 @@ Marinades add flavor and contribute to preservation through salt, acid, and some
 
 - Use hardwood: hickory, mesquite, apple, cherry, or oak
 - Smoke at 160-180F (71-82C) for 4-6 hours
-- Adding wood chips throughout provides continuous smoke flavor
+- Adding [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]] throughout provides continuous smoke flavor
 - Finish in a dehydrator or low oven if not fully dried after smoking
 
 ### Oven
 
 - Set oven to the lowest setting (usually 170F / 77C)
 - Prop the door open slightly with a wooden spoon to allow moisture to escape
-- Place wire racks over sheet pans to allow air circulation
+- Place wire racks over sheet pans to allow [[stamets-growing-room-air-circulation-co2-management]]
 - Flip jerky every 2 hours
 - Total time: 4-8 hours
 
@@ -142,33 +142,8 @@ Methods to achieve this:
 - Dehydrate at 160F — most dehydrators reach this; check with a thermometer
 - Post-dry in an oven at 275F (135C) for 10 minutes after dehydrating
 
-### Moisture and Spoilage
-
-- Jerky should be dry but not brittle
-- Properly dried jerky should bend and crack, not snap
-- Any moisture remaining promotes mold growth
-- Test: take a piece, bend it — if it cracks but does not break, it is done
-- If it is spongy or flexible without cracking, it needs more time
-
-### General Safety
-
-- Start with fresh, high-quality meat from a trusted source
-- Keep meat refrigerated until ready to process
-- Work quickly during slicing and marinating
-- Sanitize all equipment, surfaces, and hands before and after
-- Do not skip the 160F safety step
-
-## Storage
-
-- Cool jerky completely before storing — warm jerky creates condensation
-- Vacuum-sealed: store at room temperature for up to 1 month, refrigerated for up to 6 months, frozen for up to 1 year
-- In ziplock bags: squeeze out all air, refrigerate for up to 2 months, freeze for up to 6 months
-- Glass jars with desiccant packets: cool, dark, dry place for 1-2 months
-- Check for mold periodically — any mold means the batch should be discarded
-- Absorb moisture packets (food-safe silica gel) extend shelf life significantly
-
 ## See Also
 
 - [[dried-herb-storage]] — principles of drying and storing dried foods
 - [[pickle-making]] — another food preservation method
-- [[jam-and-jelly-making]] — water bath canning and preservation
+- [[jam-and-jelly-making]] — water [[water-bath-canning-guide]] and preservation

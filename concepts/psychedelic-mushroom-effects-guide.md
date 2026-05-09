@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Mushroom Effects Guide
+title: archaeology-of-psychedelic-mushroom-use Effects Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-The effects of psilocybin mushrooms span perceptual, emotional, cognitive, and somatic domains. Effects are highly dose-dependent and profoundly influenced by set (mental state, expectations, personality) and setting (physical environment, social context). This guide describes the spectrum of effects organized by category and dose level.
+The effects of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] span perceptual, emotional, cognitive, and somatic domains. Effects are highly dose-dependent and profoundly influenced by set (mental state, expectations, personality) and setting (physical environment, social context). This guide describes the spectrum of effects organized by category and dose level.
 
 ## Dose-Response Levels
 
@@ -42,7 +42,7 @@ Noticeable but manageable effects:
 
 ### Level 3: Moderate (1.5-3.0g)
 
-The classic psychedelic experience:
+The classic [[leary-psychedelic-experience-bardo-mapping]]:
 
 - **Visuals**: Clear open-eye visuals — geometric patterns overlaying surfaces, enhanced pattern recognition (pareidolia), color shifting, trails or afterimages with motion, surfaces may appear to breathe, flow, or melt
 - **Closed-eye visuals**: Complex, evolving landscapes, fractal patterns, dreamlike imagery, possible visionary content
@@ -55,8 +55,8 @@ The classic psychedelic experience:
 
 Intense experience requiring significant preparation:
 
-- **Visuals**: All previous effects intensified. Objects may morph or transform. Vision may become highly patterned or kaleidoscopic. Possible entity encounters or archetypal imagery. Vision may be significantly altered
-- **Emotional**: Extremely intense emotions. Possible ego dissolution (complete loss of sense of self). Feelings of cosmic unity, unconditional love, or confrontation with shadow aspects of psyche. Terror and ecstasy may alternate
+- **Visuals**: All previous effects intensified. Objects may morph or transform. Vision may become highly patterned or kaleidoscopic. Possible [[dmt-entity-encounters-and-the-logos]] or archetypal imagery. Vision may be significantly altered
+- **Emotional**: Extremely intense emotions. Possible [[psilocybin-ego-dissolution-mechanisms]] (complete loss of sense of self). Feelings of cosmic unity, unconditional love, or confrontation with shadow aspects of psyche. Terror and ecstasy may alternate
 - **Cognitive**: Complete departure from ordinary thought. Non-linear, non-verbal cognition possible. Profound philosophical, spiritual, or mystical insights. May experience ego death — a temporary cessation of self-referential awareness
 - **Somatic**: Significant physical effects — intense sensations, possible feeling of leaving the body, nausea, vomiting (sometimes experienced as purging), tremor, pupil dilation
 - **Duration**: Peak effects may feel timeless; 4-6 hours may feel much longer
@@ -91,7 +91,7 @@ The emotional spectrum under psilocybin is dramatically widened:
 - **Challenging**: Anxiety, fear, grief, sadness, anger, guilt, shame, existential dread, paranoia, confusion
 - **Neutral**: Contemplative, meditative, detached observation
 
-Emotions are often experienced more intensely and with greater immediacy than in ordinary consciousness. Suppressed emotions may surface. The emotional tone is heavily influenced by set and setting — see [[psychedelic-mushroom-set-and-setting]].
+Emotions are often experienced more intensely and with greater immediacy than in ordinary consciousness. Suppressed emotions may surface. The emotional tone is heavily influenced by [[lsd-set-and-setting-framework]] — see [[psychedelic-mushroom-set-and-setting]].
 
 ## Cognitive Effects
 

@@ -37,7 +37,7 @@ Australia:
 - Tasmania: Mt. Field National Park (on the pathway to Russell Falls)
 
 The species fruits during the summer months (April through August in the
-Southern Hemisphere), appearing on horse dung, rich soil among grass, decaying
+[[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]), appearing on horse dung, rich soil among grass, decaying
 leaves and twigs, and mainly in deeply shaded places. It grows solitary to
 gregarious, preferring the cooler, wetter conditions of southeastern Australia.
 
@@ -64,9 +64,9 @@ has allowed the species to spread widely throughout the country.
 
 Unlike the dung-inhabiting [[panaeolus-cyanescens-bali-omelette]],
 P. subaeruginosa is primarily a wood-inhabiting species. Its preference for
-decaying wood chips, bark mulch, and buried woody debris places it in a
+decaying [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]], bark mulch, and buried [[fungal-succession-woody-debris-ecology]] places it in a
 different ecological niche. In urban and suburban environments, it is frequently
-found in garden mulches, particularly those made from pine bark (Pinus radiata).
+found in garden mulches, particularly those made from [[fukuoka-pine-bark-weevil-ecology]] (Pinus radiata).
 
 In natural settings, it occurs on decaying leaves and twigs in deeply shaded
 areas, often in temperate rain forests. In Tasmania, it has been found fruiting
@@ -78,7 +78,7 @@ substrate preference.
 The psychoactive properties of psilocybe subaeruginosa australia were first
 confirmed in 1970 when Picker and Rickards reported finding psilocybine (but
 no psilocine) in Australian specimens. This was only the second record of
-hallucinogenic mushrooms in Australia, following the 1958 documentation of
+[[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] in Australia, following the 1958 documentation of
 [[metol-testing-bluing-reaction-mushrooms]].
 
 ## Dosage

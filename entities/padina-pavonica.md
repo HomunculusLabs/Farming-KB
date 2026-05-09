@@ -49,7 +49,7 @@ It is relatively tolerant of sedimentation and can colonize semi-exposed to shel
 
 ## Chemistry and Bioactivity
 
-P. pavonica produces a range of bioactive secondary metabolites. The most notable include fucosterol (a phytosterol), diterpenes of the dolabellane and hydroazulene classes, and various sulfated polysaccharides (fucoidans).
+P. pavonica produces a range of bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]]. The most notable include fucosterol (a phytosterol), diterpenes of the dolabellane and hydroazulene classes, and various sulfated polysaccharides (fucoidans).
 
 Extracts have demonstrated significant antioxidant activity in DPPH and ABTS radical scavenging assays. Antimicrobial activity has been reported against both Gram-positive and Gram-negative bacteria, including Staphylococcus aureus and Escherichia coli.
 
@@ -63,11 +63,11 @@ As a primary producer, P. pavonica provides habitat and food for various marine 
 
 The calcified thallus contributes to reef-building processes in shallow tropical waters through biogenic calcium carbonate deposition. This process locally increases substrate complexity and influences benthic community structure.
 
-P. pavonica can serve as a bioindicator of environmental conditions. Its distribution, growth rate, and calcification intensity respond to changes in water temperature, nutrient availability, and ocean acidification. Reduced calcification under elevated CO₂ has been documented in experimental studies.
+P. pavonica can serve as a bioindicator of environmental conditions. Its distribution, growth rate, and calcification intensity respond to changes in water temperature, [[ph-and-nutrient-availability-garden-soils]], and ocean acidification. Reduced calcification under elevated CO₂ has been documented in experimental studies.
 
 ## Uses
 
-In traditional medicine across parts of the Mediterranean and Southeast Asia, P. pavonica has been used topically for skin conditions and as a wound-healing agent. These uses are attributed to the bioactive fucoidans and antioxidant compounds.
+In traditional medicine across parts of the Mediterranean and [[psilocybe-southeast-asia-pacific]], P. pavonica has been used topically for [[cannabis-for-skin-conditions-detailed]] and as a wound-healing agent. These uses are attributed to the bioactive fucoidans and antioxidant compounds.
 
 In the cosmetic industry, P. pavonica extracts are incorporated into anti-aging formulations. Marketing claims focus on the mineral-rich, calcified thallus and its fucosterol content, though clinical evidence for efficacy is limited.
 
@@ -87,7 +87,7 @@ Several Padina species occur in overlapping ranges with P. pavonica. P. minor is
 
 P. gymnospora is distinguished by its lack of marginal inrolling and smoother thallus surface. P. tetrastromatica from the Indo-Pacific has a distinctly four-layered medullary structure.
 
-P. boergesenii and P. australis are other warm-water congeners found in the Caribbean and southern Pacific respectively. Accurate field identification requires microscopic examination of cortical cell structure.
+P. boergesenii and P. australis are other warm-water congeners found in the Caribbean and southern Pacific respectively. Accurate field identification requires [[fungal-microscopic-examination-mounting-media-techniques]] of cortical [[plant-cell-structure-and-organelles]].
 
 ## Environmental Sensitivity
 

@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Morris, H. & Wallach, J. (2014). "From PCP to MXE: A Comprehensive Review of the Non-Medical Use of Dissociative Drugs." Drug Science, Policy and Law, 1, 1–37.
   - EMCDDA-Europol Joint Report (2014). "Methoxetamine — a chemical and pharmacological overview." European Monitoring Centre for Drugs and Drug Addiction.
-  - Roth, B. L. et al. (2013). "Ketamine and LSD: a pharmacological comparison." Pharmacology & Therapeutics, 138(3), 459–470.
+  - Roth, B. L. et al. (2013). "Ketamine and LSD: a [[dmt-vs-lsd-pharmacological-comparison-onset-duration-receptor]]." Pharmacology & Therapeutics, 138(3), 459–470.
   - gluc, A. et al. (2011). "First reported case of methoxetamine (MXE) toxicity." Journal of the Royal Society of Medicine Short Reports, 2(11), 84.
 created: 2026-04-28
 ---
@@ -76,17 +76,17 @@ Oral doses are approximately 1.5–2× the insufflated equivalent. Tolerance dev
 
 MXE was first scheduled in the UK under a Temporary Class Drug Order (TCDO) in April 2012, making it one of the first substances controlled under this framework. It was subsequently placed under permanent control as a Class B drug in 2015.
 
-The European Union added MXE to the list of psychoactive substances subject to control measures in 2015. In the United States, MXE is not federally scheduled but is covered under the Federal Analogue Act as an analogue of pcp in some jurisdictions.
+The European Union added MXE to the list of psychoactive substances subject to control measures in 2015. In the [[dmt-containing-plants-united-states-halpern]], MXE is not federally scheduled but is covered under the Federal Analogue Act as an analogue of pcp in some jurisdictions.
 
 China banned MXE production and export in 2015 as part of a broad crackdown on synthetic drug manufacturing. Japan, Australia, and Canada have also scheduled MXE under their respective controlled substances acts.
 
 ## Toxicology and Risks
 
-Documented adverse effects include hypertension, tachycardia, nausea, and ataxia at recreational doses. Severe toxicity presents with agitation, seizures, and cardiovascular collapse.
+Documented [[blesching-cannabis-safety-adverse-effects-evidence]] include hypertension, tachycardia, nausea, and ataxia at recreational doses. Severe toxicity presents with agitation, seizures, and cardiovascular collapse.
 
 There is no evidence of urotoxicity (bladder damage) at recreational doses, unlike chronic ketamine use. However, case reports of prolonged heavy use describe cognitive impairment, memory deficits, and psychological dependence.
 
-MXE has a narrow therapeutic index. Deaths attributed to MXE alone are rare but documented, typically involving doses exceeding 100 mg or combinations with depressants (alcohol, benzodiazepines, opioids). Intravenous use carries the highest risk profile.
+MXE has a narrow [[cannabis-therapeutic-index-overview]]. Deaths attributed to MXE alone are rare but documented, typically involving doses exceeding 100 mg or combinations with depressants (alcohol, benzodiazepines, opioids). Intravenous use carries the highest risk profile.
 
 ## See Also
 

@@ -34,7 +34,7 @@ potassium to calcium through addition of a hydrogen proton.
 This contradicted Lavoisier's dictum that elements could be rearranged
 but not transmuted. Kervran accepted that Lavoisier was right for
 chemical reactions, but argued the error lay in assuming all reactions
-in living organisms are chemical. He published Biological Transmutations
+in [[savory-living-organisms-as-tools]] are chemical. He published Biological Transmutations
 in 1962, offering a new perspective: "The laws of chemistry are not on
 trial. The error lies in applying them at any cost in a field where
 chemistry is not always applicable."
@@ -52,7 +52,7 @@ chemistry is not always applicable."
 - Lunar forces appear important in germination and transmutation
   processes, beyond the effects of warmth and water alone
 - Certain plants bring elements useful for other plants to the soil,
-  with implications for crop rotation, fallows, and fertilizers
+  with implications for [[comparison-crop-rotation-vs-cover-cropping]], fallows, and fertilizers
 
 ## Von Herzeele's Pioneering Discoveries
 
@@ -71,7 +71,7 @@ treatment by academia, which was committed to explaining biological
 phenomena atomistically through chemical laws. Most of his works never
 reached library shelves. At Rothamsted, England, researchers cropped a
 clover field for seventeen years without adding fertilizer. Analysis
-showed that over 10 tons of lime, magnesia, potash, phosphoric acid,
+showed that over 10 tons of lime, magnesia, potash, [[cho-water-soluble-phosphoric-acid-preparation]],
 and nitrogen had been removed. Where had these minerals come from?
 
 ## Baranger's Confirmation

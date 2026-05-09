@@ -16,9 +16,9 @@ tags:
   - cyanobacteria
 sources:
   - Lumpkin, T.A. & Plucknett, D.L. (1980). "Azolla: Botany, Physiology, and Use as a Green Manure." Economic Botany, 34(2), 111–153.
-  - Bocchi, S. & Malgioglio, A. (2010). "Azolla-Anabaena as a biofertilizer for rice paddy fields." In: Organic Fertilizers. Springer.
+  - Bocchi, S. & Malgioglio, A. (2010). "Azolla-Anabaena as a biofertilizer for rice paddy fields." In: [[hamilton-organic-fertilizers-and-plant-nutrition]]. Springer.
   - Wagner, G.M. (1997). "Azolla: A review of its biology and utilization." The Botanical Review, 63(1), 1–26.
-  - Shi, D.J. & Hall, D.O. (1988). "The Azolla-Anabaena association: Historical perspective." In: Nitrogen Fixation. Springer.
+  - Shi, D.J. & Hall, D.O. (1988). "The Azolla-Anabaena association: [[lemon-cannabis-alchemy-historical-perspective-and-references]]." In: [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. Springer.
   - Watanabe, I. & Liu, C.C. (1992). "Improving nitrogen-fixing systems and integrating them into sustainable rice farming." Plant and Soil, 141(1), 57–67.
 ---
 
@@ -60,7 +60,7 @@ A. caroliniana is native to eastern North America, ranging from southern Ontario
 
 The species thrives in still or slow-moving freshwater habitats including ponds, ditches, marshes, rice paddies, and lake margins. It prefers full sun to partial shade and water temperatures between 15–30°C.
 
-Unlike its tropical relatives, *A. caroliniana* can survive winter temperatures by producing dormant sporocarps that sink to the bottom and germinate when conditions improve in spring. This cold tolerance makes it the preferred species for temperate climate permaculture applications.
+Unlike its tropical relatives, *A. caroliniana* can survive winter temperatures by producing dormant sporocarps that sink to the bottom and germinate when conditions improve in spring. This cold tolerance makes it the preferred species for [[permaculture-designers-manual-temperate-climate-design]] permaculture applications.
 
 The sporocarps are bean-shaped structures containing both megaspores and microspores, which are released simultaneously during germination to initiate new colonies. Sporocarp production is triggered by shortening day length and cooler temperatures in autumn.
 
@@ -76,7 +76,7 @@ The fern's dense surface mat suppresses mosquito larvae by blocking oviposition 
 
 In aquaculture, *Azolla* is fed to fish, ducks, and livestock as a protein-rich supplement. Its dry matter contains 25–35% crude protein, making it nutritionally comparable to alfalfa meal.
 
-**Companion planting** with *Azolla* in duckweed ponds creates a multi-layered aquatic system where both species compete for surface space, preventing either from becoming excessively dominant while maximizing biomass production.
+**[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]** with *Azolla* in duckweed ponds creates a multi-layered aquatic system where both species compete for surface space, preventing either from becoming excessively dominant while maximizing [[dighton-fungal-biomass-production-aquatic-ecosystems]].
 
 ## Bioactive Compounds
 
@@ -109,6 +109,8 @@ In modern ecosystems, *A. caroliniana* plays important roles in freshwater nutri
 Wild populations of *A. caroliniana* provide habitat and food for aquatic invertebrates, amphibian larvae, and waterfowl. The dense floating mats create microhabitats that support diverse communities of microscopic organisms.
 
 ## See Also
+
+- [[carpinus-caroliniana]]
 
 - `[[trifolium-repens]]` — Terrestrial nitrogen-fixing ground cover for comparison
 - `[[stropharia-rugosoannulata]]` — Permaculture mushroom compatible with Azolla mulch systems

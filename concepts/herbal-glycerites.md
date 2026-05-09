@@ -23,7 +23,7 @@ Glycerin has a naturally sweet taste that makes it particularly well-suited for 
 
 ## Preparation Methods
 
-The basic folk method for glycerites follows the same procedure as tincture-making. Fill a glass jar one-half to two-thirds full with dried herb (or pack full with fresh herb). Cover with a mixture of 75 percent glycerin and 25 percent distilled water. Seal, label, and shake daily for four to six weeks. Strain through cheesecloth into amber dropper bottles.
+The basic folk method for glycerites follows the same procedure as tincture-making. Fill a [[sterile-spore-print-collection-glass-jar-technique]] one-half to two-thirds full with dried herb (or pack full with fresh herb). Cover with a mixture of 75 percent glycerin and 25 percent distilled water. Seal, label, and shake daily for four to six weeks. Strain through cheesecloth into amber dropper bottles.
 
 The weight-to-volume method uses a 1:5 ratio for dried herbs (one gram herb to five milliliters glycerin solution) or 1:2 for fresh herbs. This produces standardized, repeatable preparations. Weigh the herb precisely, measure the glycerin solution, combine in a jar, and proceed as with the folk method.
 
@@ -45,7 +45,7 @@ The sweet taste of glycerin naturally masks bitterness, making even very bitter 
 
 The primary limitation of glycerites is their reduced extraction power compared to alcohol. Herbs that are rich in resins (myrrh, propolis, calendula resin), volatile oils (peppermint, valerian, chamomile flowers), or complex alkaloids (goldenseal, berberine-containing herbs) may not yield their full therapeutic potential in glycerin alone.
 
-Glycerites also have a shorter shelf life than alcohol-based tinctures. While tinctures can last five or more years, glycerites typically maintain potency for one to three years. The lower preservative power of glycerin means that contamination is more likely if the preparation is not made carefully with clean equipment and properly dried herbs.
+Glycerites also have a shorter [[psilocybin-shelf-life-stability]] than alcohol-based tinctures. While tinctures can last five or more years, glycerites typically maintain potency for one to three years. The lower preservative power of glycerin means that contamination is more likely if the preparation is not made carefully with clean equipment and properly dried herbs.
 
 The viscosity of glycerin makes it more difficult to work with than alcohol. It pours slowly, is sticky, and can be difficult to measure precisely. Straining glycerites through cheesecloth takes longer than straining tinctures due to the syrupy consistency.
 
@@ -59,7 +59,7 @@ Demulcent herbs such as marshmallow root, slippery elm bark, licorice root, and 
 
 Immune-supporting herbs including echinacea, elderberry, and astragalus work well in glycerites, especially for children. The sweet taste makes these preparations easy to administer during acute illness.
 
-Nervine and calming herbs such as lemon balm, chamomile, skullcap, and passionflower produce good glycerites. The alcohol-free nature is appropriate for the calming indications of these herbs, where alcohol would be counterproductive.
+Nervine and calming herbs such as [[comparison-lemon-balm-vs-passionflower]], chamomile, skullcap, and passionflower produce good glycerites. The alcohol-free nature is appropriate for the calming indications of these herbs, where alcohol would be counterproductive.
 
 Adaptogenic herbs including ashwagandha, holy basil (tulsi), and reishi mushroom extract adequately into glycerin, though a blended menstruum may improve extraction of some constituents. See [[herbal-formulation-principles]] for comprehensive dosing information and [[medicinal-mushroom-immune-modulation]] for more on immune-supporting preparations.
 
@@ -77,11 +77,11 @@ Unlike pharmaceutical products, herbal glycerites are not subject to standardize
 
 Glycerites have found a significant application in veterinary herbal medicine, where alcohol-based tinctures are often contraindicated. Dogs, cats, horses, and other animals vary widely in their tolerance for alcohol, and many species metabolize it poorly or not at all. The sweet taste of glycerin makes it more readily accepted by animals than bitter tinctures, and it can be easily mixed into food or water. Dosage for animals is typically calculated based on body weight, with smaller species receiving proportionally smaller doses.
 
-Common veterinary glycerite preparations include echinacea for immune support, chamomile for digestive calm, valerian-glycerite blends for anxiety (useful for travel, veterinary visits, and thunderstorm phobia in dogs), and dandelion root for liver support. The [[honey-based-herbal-preparations]] for detailed guidance on honey-based methods and [[herbal-medicine-preparation-methods]] for comprehensive safety guidelines.
+Common veterinary glycerite preparations include echinacea for immune support, chamomile for digestive calm, valerian-glycerite blends for anxiety (useful for travel, veterinary visits, and thunderstorm phobia in dogs), and dandelion root for liver support. The [[honey-based-herbal-preparations]] for detailed guidance on honey-based methods and [[herbal-medicine-preparation-methods]] for comprehensive [[psychedelic-safety-guidelines-turner]].
 
 ## Related Topics
 
 - [[honey-based-herbal-preparations]] — Alternative alcohol-free preparations
 - [[herbal-medicine-making-basics]] — Foundational medicine-making skills
 - [[herbal-formulation-principles]] — Detailed dosing recommendations
-- holy basil tulsi guide
+- holy [[holy-basil-tulsi-guide]] guide

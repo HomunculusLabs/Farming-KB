@@ -1,5 +1,5 @@
 ---
-title: "Yopo (Anadenanthera peregrina): South American Tryptamine Snuff"
+title: "Yopo (yopo anadenanthera peregrina snuff): chiric-caspi-brunfelsia-south-american-hallucinogen Tryptamine Snuff"
 created: "2026-04-17"
 updated: "2026-04-17"
 type: concept
@@ -64,23 +64,23 @@ The yopo tradition parallels other South American snuffing practices, including 
 
 ## Historical Context
 
-Yopo, prepared from the seeds of Anadenanthera peregrina, has one of the deepest archaeological records of any psychoactive plant in the Americas. Snuffing paraphernalia — including elaborate bone, wood, and ceramic tubes and tablets — has been recovered from archaeological sites spanning the Caribbean, northern South America, and parts of Central America, with the oldest confirmed artifacts dating back over 4,000 years.
+Yopo, prepared from the seeds of Anadenanthera peregrina, has one of the deepest archaeological records of any psychoactive plant in the Americas. Snuffing paraphernalia — including elaborate bone, wood, and ceramic tubes and tablets — has been recovered from archaeological sites spanning the Caribbean, northern South America, and parts of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], with the oldest confirmed artifacts dating back over 4,000 years.
 
 The use of yopo was documented by early European explorers and colonial administrators, who observed indigenous peoples preparing and snuffing the brightly colored seed powder in ceremonial contexts. The preparation traditionally involved toasting the seeds, grinding them with alkaline additives (such as lime or ash from certain plants), and snuffing the resulting powder through bamboo or bone tubes.
 
 ## Modern Significance
 
-Modern chemical analysis has confirmed that yopo seeds contain significant quantities of DMT (N,N-dimethyltryptamine), 5-MeO-DMT (5-methoxy-dimethyltryptamine), and bufotenine (5-hydroxy-DMT). The addition of alkaline materials during preparation serves to convert bufotenine into more readily absorbed free-base forms and may also facilitate the absorption of DMT through the nasal mucosa.
+Modern [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] has confirmed that yopo seeds contain significant quantities of DMT (N,N-dimethyltryptamine), 5-MeO-DMT (5-methoxy-dimethyltryptamine), and bufotenine (5-hydroxy-DMT). The addition of alkaline materials during preparation serves to convert bufotenine into more readily absorbed free-base forms and may also facilitate the absorption of DMT through the nasal mucosa.
 
 The snuffing tradition exemplifies the pharmacological sophistication of indigenous peoples, who developed preparation methods that optimized the bioavailability and duration of psychoactive compounds centuries before these concepts were understood by Western science.
 
 ## See Also
 
-- [[virola-snuff-amazon-preparation-and-ceremony]] — Virola snuff traditions of the western Amazon.
+- [[virola-snuff-amazon-preparation-and-ceremony]] — [[entheogen-virola-snuff-ethnobotany-chemistry]] traditions of the western Amazon.
 
 [[tree-daturas-brugmansia-south-american-ethnobotany]] — New World tree daturas.
 
-[[old-world-hallucinogenic-plants-overview]] — Old World hallucinogenic plants.
+[[old-world-hallucinogenic-plants-overview]] — Old [[old-world-hallucinogenic-plants-overview]] plants.
 
 ## References
 

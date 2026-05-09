@@ -16,7 +16,7 @@ sources:
 
 # Galerina marginata
 
-**Galerina marginata** is a species of deadly poisonous mushroom in the family Hymenogastraceae. It is one of the most dangerous mushrooms in the world, containing the same lethal amatoxins found in the death cap ([[environmental-dna-sequencing-fungi]] of the ITS (Internal Transcribed Spacer) region have conclusively demonstrated that these are all conspecific, representing morphological and geographical variations within a single widespread species now unified under the name Galerina marginata sensu lato. This taxonomic consolidation is significant from a safety perspective, as it means that all of these previously separate "species" carry the same deadly toxicity.
+**Galerina marginata** is a species of deadly [[growing-gourmet-poisonous-mushroom-lookalikes]] in the family Hymenogastraceae. It is one of the most dangerous mushrooms in the world, containing the same lethal amatoxins found in the death cap ([[environmental-dna-sequencing-fungi]] of the ITS (Internal Transcribed Spacer) region have conclusively demonstrated that these are all conspecific, representing morphological and geographical variations within a single widespread species now unified under the name Galerina marginata sensu lato. This taxonomic consolidation is significant from a safety perspective, as it means that all of these previously separate "species" carry the same deadly toxicity.
 
 The specific epithet *marginata* means "edged" or "bordered" in Latin, referring to the prominently striate (grooved) margin of the cap, which is one of the species' most reliable diagnostic features.
 
@@ -36,13 +36,13 @@ Spores are broadly ellipsoid to somewhat amygdaliform (almond-shaped), with a sl
 
 ## Distribution and Habitat
 
-Galerina marginata has a widespread distribution across the Northern Hemisphere, occurring throughout virtually all of Europe, North America, and Asia. It has also been reported from parts of South America, Australia, and New Zealand, likely introduced through human activity.
+Galerina marginata has a widespread distribution across the Northern Hemisphere, occurring throughout virtually all of Europe, [[psilocybin-north-america-pacific-northwest]], and Asia. It has also been reported from parts of South America, Australia, and New Zealand, likely introduced through human activity.
 
 This species is typically found growing on decaying wood, particularly the stumps, logs, branches, and fallen trunks of coniferous and deciduous trees. It is especially common on spruce, [[maple-syrup-production]] substrates. It can also be found growing on buried wood, which may give the misleading impression that it is terrestrial rather than lignicolous. Fruiting occurs from late summer through late autumn, with peak abundance from September to November in temperate regions. It often fruits in the same habitats and at the same times as psychoactive Psilocybe species.
 
 ## Toxicity
 
-**Galerina marginata is deadly poisonous.** It contains the same amatoxins as [[amanita-phalloides-death-cap]]) and Amanita ocreata (destroying angel), specifically:
+**Galerina marginata is deadly poisonous.** It contains the same amatoxins as [[amanita-phalloides-death-cap]]) and Amanita ocreata ([[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]), specifically:
 
 - **Alpha-amanitin** — the most abundant and most lethal amatoxin
 - **Beta-amanitin**
@@ -53,7 +53,7 @@ The total amatoxin content in G. marginata has been measured at levels comparabl
 - **[[stamets-psi-psilocybe-azurescens-species-guide]]** — Another Pacific Northwest species growing on decaying wood in coastal dune grasses, with similar brown coloration and habitat.
 - **Gymnopilus species** — Also wood-inhabiting with rusty-brown spores, though typically much larger, more orange-colored, and with a more robust stature.
 
-The critical distinguishing features are the prominent membranous ring of G. marginata (though this can be lost with age or weathering) and the complete absence of any bluing reaction. However, **no forager should rely solely on these features** — the stakes of misidentification are literally life and death.
+The critical distinguishing features are the prominent membranous ring of G. marginata (though this can be lost with age or weathering) and the complete absence of any [[field-guide-psilocybin-bluing-reaction-identification]]. However, **no forager should rely solely on these features** — the stakes of misidentification are literally life and death.
 
 ## Ecological Role
 
@@ -61,7 +61,7 @@ G. marginata is a saprotrophic wood-decay fungus, playing an important role in d
 
 ## Cultural Significance
 
-The danger posed by G. marginata is frequently discussed in mycological literature and foraging guides as a prime example of why accurate identification is absolutely essential. Within the context of psychedelic mushroom foraging, it represents the single most dangerous lookalike and is cited repeatedly in harm reduction materials. The species is sometimes colloquially called the "funeral bell" or "deadly galerina," though these common names are not standardized. It serves as the archetype of the "deadly lookalike" in mycological education.
+The danger posed by G. marginata is frequently discussed in mycological literature and foraging guides as a prime example of why accurate identification is absolutely essential. Within the context of [[archaeology-of-psychedelic-mushroom-use]] foraging, it represents the single most dangerous lookalike and is cited repeatedly in [[adverse-effects-and-harm-reduction-psilocybin]] materials. The species is sometimes colloquially called the "funeral bell" or "deadly galerina," though these common names are not standardized. It serves as the archetype of the "deadly lookalike" in mycological education.
 
 ## Notes
 
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -5,7 +5,8 @@ updated: 2026-04-17
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 Mycofiltration of pathogens is the use of fungal mycelial mats as biological membranes to filter, trap, and destroy disease-causing microorganisms from water and soil. This application of mycology demonstrates how mushroom mycelium can serve as a living filtration system, reducing populations of coliform bacteria, protozoa, and other pathogens that threaten human health, agriculture, and aquatic ecosystems.
 
@@ -13,7 +14,7 @@ Mycofiltration of pathogens is the use of fungal mycelial mats as biological mem
 
 Mycofiltration is the use of mycelium as a membrane for filtering out microorganisms, pollutants, and silt. More than a mile of threadlike mycelial cells can infuse a gram of soil. These fine filaments function as a cellular net that catches particles and, in some cases, digests them. As the substrate debris is digested, microcavities form and fill with air or water, providing buoyant, aerobic infrastructures with vast surface areas.
 
-Water runoff, rich in organic debris, percolates through the cellular mesh and is cleansed. When water is not flowing, the mycelium channels moisture from afar through its advancing fingerlike cells. The Stropharia rugoso annulata (garden giant) mycelium holds wood chips together tenaciously and thrives when it comes into contact with bacteria, compared to its slow growth under sterile conditions.
+Water runoff, rich in organic debris, percolates through the cellular mesh and is cleansed. When water is not flowing, the mycelium channels moisture from afar through its advancing fingerlike cells. The Stropharia [[stropharia-rugoso-annulata-mycofiltration]] (garden giant) mycelium holds wood chips together tenaciously and thrives when it comes into contact with bacteria, compared to its slow growth under sterile conditions.
 
 ## Coliform Reduction: The Skookum Inlet Experiment
 
@@ -37,7 +38,7 @@ This dieback process is analogous to the decay of a fishing net that loses its c
 
 ## Antimicrobial Properties of Mushrooms
 
-Mushroom mycelium has an unquenchable appetite for organic debris. The mycological landscaper can select mushroom species that target and consume the bacteria and protozoa in a habitat. Research has shown that Polyporus umbellatus (zhu ling) was 100 percent effective in vitro in inhibiting the malarial parasite Plasmodium falciparum.
+Mushroom mycelium has an unquenchable appetite for organic debris. The mycological landscaper can select mushroom species that target and consume the bacteria and protozoa in a habitat. Research has shown that [[growing-gourmet-polyporus-umbellatus-zhu-ling-cultivation]] (zhu ling) was 100 percent effective in vitro in inhibiting the malarial parasite Plasmodium falciparum.
 
 Mycomulching with polypore species around a malaria-infected swamp could reduce the background population of malaria, since the fungus likely consumes the parasite and secretes antibiotics into the habitat. Combining these polypore species with pesticidal mycelia that attract and attack plague-carrying mosquitoes could amount to a double-pronged response to malaria.
 
@@ -63,7 +64,7 @@ Corn farmers can first profitably grow oyster mushrooms on cornstalks and straw,
 
 ## Broader Significance
 
-Mycofiltration represents an elegant convergence of ecology, engineering, and mycology. By harnessing the natural filtration properties of mycelial networks, we can address water quality issues without the energy inputs and chemical treatments required by conventional filtration systems. The approach works with natural biological processes rather than against them.
+Mycofiltration represents an elegant convergence of ecology, engineering, and mycology. By harnessing the natural filtration properties of [[fungal-mycelial-networks-nutrient-translocation]], we can address water quality issues without the energy inputs and chemical treatments required by conventional filtration systems. The approach works with natural biological processes rather than against them.
 
 The potential applications extend beyond rural settings to suburban developments, factory runoff treatment, and municipal water systems. The low cost and sustainability of mycofiltration make it particularly attractive for developing regions where conventional water treatment infrastructure may be unavailable or unaffordable.
 
@@ -86,7 +87,7 @@ Mycoremediation is the use of fungi to degrade environmental toxins, including a
 
 ## The Enzymatic Mechanism
 
-Mushroom mycelia can decompose hydrocarbons in petroleum products because lignin has similar hydrogen-carbon bonds. The extracellular enzymes that white-rot fungi secrete to break down lignin — particularly lignin peroxidases, manganese peroxidases, and laccases — are nonspecific in their activity. This means they can attack a wide range of chemical structures beyond lignin, including many synthetic compounds that were designed to resist biological degradation.
+Mushroom mycelia can decompose hydrocarbons in petroleum products because lignin has similar hydrogen-carbon bonds. The extracellular enzymes that white-rot fungi secrete to break down lignin — particularly lignin peroxidases, manganese peroxidases, and laccases — are nonspecific in their activity. This means they can attack a wide range of [[plants-of-the-gods-chemical-structures-hallucinogens]] beyond lignin, including many synthetic compounds that were designed to resist biological degradation.
 
 Fertilizers, munitions, pesticides, herbicides, textile dyes, and estrogen-based pharmaceuticals are all susceptible to enzymes secreted by mushroom mycelia. Some species can degrade several of these synthetic compounds at once, while others are more selective. The mycoremediation method is elegantly simple: overlay straw or wood chips infused with the right mycelium to create a living membrane of enzymes that rain down on the toxins in the topsoil, replenished annually with additional mycelium-treated substrate.
 
@@ -116,9 +117,9 @@ Pentachlorophenol (PCP) — a broad-spectrum biocide used as a wood preservative
 
 ## Pentachlorophenol: A Case Study
 
-Pentachlorophenol has been a particular focus of mycoremediation research. The oyster mushroom (Pleurotus ostreatus) has been extensively studied for its ability to degrade PCP. In one series of studies, spent oyster mushroom substrate performed better than many mushroom mycelia in removing the biocide, showing that oyster mushroom mycelium working in concert with microbes performed better than oyster mycelium without them.
+Pentachlorophenol has been a particular focus of mycoremediation research. The oyster mushroom (Pleurotus ostreatus) has been extensively studied for its ability to degrade PCP. In one series of studies, spent oyster [[gourmet-medicinal-mushroom-substrate-preparation]] performed better than many mushroom mycelia in removing the biocide, showing that oyster mushroom mycelium working in concert with microbes performed better than oyster mycelium without them.
 
-These researchers noted that Pleurotus harboring both bacteria and fungi functioned over a wide range of initial PCP concentrations and reached a higher degradative capacity in only three days (Chin et al. 1998). Eggen and Sasek (2002) also showed that spent oyster mushroom compost effectively reduces toxins in polluted soil. When a second treatment of spent oyster mushroom substrate was added 15 weeks after initial inoculation, anthracene levels dropped from 87 percent to 50 percent, and fluorene levels went from 99 percent to 87 percent.
+These researchers noted that Pleurotus harboring both bacteria and fungi functioned over a wide range of initial PCP concentrations and reached a higher degradative capacity in only three days (Chin et al. 1998). Eggen and Sasek (2002) also showed that spent oyster [[staycare-spent-mushroom-compost-bioremediation]] effectively reduces toxins in polluted soil. When a second treatment of spent oyster mushroom substrate was added 15 weeks after initial inoculation, anthracene levels dropped from 87 percent to 50 percent, and fluorene levels went from 99 percent to 87 percent.
 
 House wrecker fungi, including Meruliporia incrassata and Antrodia radiculosa, have also shown remarkable capacity for PCP degradation. In 2004, researchers at the U.S. Department of Agriculture published a patent application for a fungal degradation and bioremediation system for pentachlorophenol-treated wood. They created choice tests showing that most fungal cultures avoided preservative-saturated wood, except for aggressive strains of Meruliporia and Antrodia that showed no reluctance and colonized the wood.
 

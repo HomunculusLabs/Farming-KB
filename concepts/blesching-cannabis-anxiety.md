@@ -23,11 +23,11 @@ type: concept
 
 ## Overview
 
-Anxiety is a normal reaction to the subjective experience of stress, such as in "performance anxiety." It occurs when anticipation of future events becomes associated in the mind with thoughts and feelings not rooted in the present moment. While anxieties can be considered a normal part of life, chronic or constant anxiety can be debilitating to quality of life. In fact, such interference produces very real physiological changes in both the short and long term. It is estimated that almost two out of ten people in the United States suffer from some kind of anxiety disorder.
+Anxiety is a normal reaction to the subjective experience of stress, such as in "performance anxiety." It occurs when anticipation of future events becomes associated in the mind with thoughts and feelings not rooted in the present moment. While anxieties can be considered a normal part of life, chronic or constant anxiety can be debilitating to quality of life. In fact, such interference produces very real physiological changes in both the short and long term. It is estimated that almost two out of ten people in the [[dmt-containing-plants-united-states-halpern]] suffer from some kind of anxiety disorder.
 
 ### Types of Anxiety Disorders
 
-Western medicine considers anxiety disorders mood disorders and defines five basic types:
+[[fukuoka-eastern-western-medicine-healing-world-crisis]] considers anxiety disorders mood disorders and defines five basic types:
 
 **Generalized Anxiety Disorder (GAD):** Patients present with chronic worry about anticipated events constructed by their mind. Symptoms include "feeling the other shoe is about to drop," unreasonable worry, tense and aching muscles (particularly neck and shoulders), headaches, trembling, and diaphoresis (sweating).
 
@@ -40,11 +40,11 @@ Western medicine considers anxiety disorders mood disorders and defines five bas
 **Social Anxiety Disorder:** Defined by anticipation of severely humiliating events, sometimes limited to narrow contexts like blushing in public or feeling judged by everyone present. Physical symptoms include facial flushing, trembling, sweating, nausea, and difficulty forming words or sentences.
 
 ### Orthodox Treatment
-Pharmaceuticals (anti-anxiety drugs, antidepressants) or psychological intervention are standard. Adverse effects range from mild to fatal, warranting thorough risk-benefit analysis before committing to long-term pharmacological regimens.
+Pharmaceuticals (anti-anxiety drugs, antidepressants) or psychological intervention are standard. [[blesching-cannabis-safety-adverse-effects-evidence]] range from mild to fatal, warranting thorough risk-benefit analysis before committing to long-term pharmacological regimens.
 
-## Cannabis Health Index Evidence
+## [[cannabis-health-index]] Evidence
 
-The Cannabis Health Index (CHI) rated evidence for cannabis in anxiety with a total value of **14**, based on **4 reviewed studies** — representing one of the higher CHI scores among all conditions examined in the Cannabis Health Index.
+The [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI) rated evidence for cannabis in anxiety with a total value of **14**, based on **4 reviewed studies** — representing one of the higher CHI scores among all conditions examined in the Cannabis Health Index.
 
 ## Clinical Study Findings
 
@@ -73,7 +73,7 @@ A critical finding across multiple studies is that cannabis's anxiety-reducing e
 - **Low to moderate doses** tend to produce anxiolytic (calming) effects
 - **High doses** may produce anxiogenic (anxiety-increasing) effects, including paranoia
 
-This paradox means that "more is not better" with cannabis for anxiety. Careful dose titration to find the individual therapeutic window is essential.
+This paradox means that "more is not better" with cannabis for anxiety. Careful dose titration to find the individual [[blesching-cannabis-therapeutic-window-dosing]] is essential.
 
 ## Strain-Specific Considerations
 

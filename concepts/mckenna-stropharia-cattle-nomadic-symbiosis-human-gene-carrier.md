@@ -1,13 +1,13 @@
 # Stropharia cubensis Cattle Symbiosis and Human Nomadic Association
 
 ## Overview
-In his 1983 Esalen lecture on tryptamine hallucinogens and consciousness,
+In his 1983 Esalen lecture on [[mckenna-tryptamine-hallucinogens-and-consciousness]] and consciousness,
 Terence McKenna elaborated the hypothesis that Stropharia cubensis is a species
 that may not have evolved on Earth. Within what he describes as the "mushroom
 trance," McKenna reports being informed that once a culture achieves complete
 understanding of its genetic information, it re-engineers itself for survival.
 The Stropharia cubensis mushroom's version of re-engineering involves a dual
-strategy: a mycelial network strategy when in contact with planetary surfaces,
+strategy: a [[gadd-mycelial-network-dynamics]] strategy when in contact with planetary surfaces,
 and a spore-dispersion strategy as a means of radiating throughout the galaxy.
 Central to this hypothesis is the mushroom's association with domesticated cattle
 and, through them, with human nomadic populations—establishing a deep symbiotic
@@ -66,7 +66,7 @@ mushroom.
 The classic mushroom cults of Mexico were destroyed by the coming of the Spanish
 conquest. The Franciscan missionaries, who assumed they held an absolute
 monopoly on theophagy (the eating of God), encountered indigenous peoples who
-called a mushroom teonanacatl—"the flesh of the gods." The Inquisition
+called a [[mckenna-mushroom-teonanacatl-franciscan-theophagy-and-oaxaca-survival]]—"the flesh of the gods." The Inquisition
 systematically suppressed these practices, pushing the old religion into the
 mountains of Oaxaca, where it survived in only a few villages until Valentina
 and Gordon Wasson rediscovered it there in the 1950s.
@@ -82,7 +82,7 @@ that had been driven into hiding by the expansion of Christian civilization.
 ## The Alternative Interpretation
 
 ### The Alienated Human Soul
-McKenna offers a counterpoint to the extraterrestrial hypothesis: "It may
+McKenna offers a counterpoint to the [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]: "It may
 instead be what I've recently come to suspect—that the human soul is so
 alienated from us in our present culture that we treat it as an extraterrestrial.
 To us the most alien thing in the cosmos is the human soul." This
@@ -106,7 +106,7 @@ it says in one of its moods, is a symbiote, and it desires ever deeper symbiosis
 with the human species." This framing presents the human-mushroom relationship
 as a mutualistic symbiosis in which both parties benefit: the mushroom gains a
 dispersal vector and cultivation environment, while humans gain access to
-altered states of consciousness that provide information, healing, and what
+[[weil-the-natural-mind-altered-states-normalcy]] of consciousness that provide information, healing, and what
 McKenna calls "gnosis."
 
 ### The Question of Belief
@@ -120,7 +120,7 @@ received in the psychedelic state.
 ## Broader Evolutionary Implications
 
 ### Language and Self-Replicating Information
-McKenna connects the mushroom symbiosis to his broader theory of language as
+McKenna connects the [[mckenna-mushroom-symbiosis-and-nervous-system-dialogue]] to his broader theory of language as
 self-replicating information. He describes language as systems that "reflect
 functions of DNA: learning, coding, templating, recording, testing, re-testing,
 re-coding against DNA functions." The mushroom, in this framework, may be

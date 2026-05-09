@@ -1,5 +1,5 @@
 ---
-title: Mushroom Storage and Processing Methods
+title: Mushroom mushroom storage and processing methods Methods
 created: 2026-04-28
 tags:
   - post-harvest
@@ -17,7 +17,7 @@ type: concept
 # Mushroom Storage and Processing Methods
 
 Mushrooms continue to respire after harvest with a relatively high respiration
-rate compared to other fresh produce. The respiration rate of oyster mushroom is
+rate compared to other fresh produce. The respiration rate of [[cotter-oyster-mushroom-cultivation]] is
 three times greater than most fruits. Mushrooms are 85-95% water with no barriers
 to water loss from their surface. These characteristics make post-harvest
 management critical for maintaining quality and marketability.
@@ -34,7 +34,7 @@ Several factors cause deterioration after harvest:
 
 ## Short Term Storage: Refrigeration
 
-Shelf life of fresh mushrooms may be extended by refrigeration at 1-4C. Cooling
+[[psilocybin-shelf-life-stability]] of fresh mushrooms may be extended by refrigeration at 1-4C. Cooling
 reduces rates of all physiological processes within mushrooms. During initial
 cooling there is a high cooling load; once pre-cooled, cooling load is much
 reduced. Shelf life varies from 1 day to 2 weeks depending on conditions.
@@ -56,8 +56,8 @@ through respiration, creating a modified atmosphere effect.
 
 Drying removes enough water to inactivate enzymes and microorganisms. Fresh
 mushrooms have 70-95% moisture; dried mushrooms reach approximately 10%. Drying
-is commonly used for shiitake and wood ear mushrooms, less often for button or
-oyster mushrooms, though oyster mushrooms can also be marketed in dried form.
+is commonly used for shiitake and [[growing-gourmet-wood-ear-auricularia-cultivation]] mushrooms, less often for button or
+[[query-how-to-grow-oyster-mushrooms-at-home]], though oyster mushrooms can also be marketed in dried form.
 
 ### Sun Drying
 Mushrooms are spread on shelves with gills facing upward, directly exposed to
@@ -119,6 +119,9 @@ sclerotium powder into bread to increase protein content.
 
 ## Related Concepts
 
-- [[oyster-mushroom-cultivation-economics]]
+- oyster-mushroom-cultivation-economics
 - [[mushroom-poverty-alleviation-developing-countries]]
 - [[oyster-mushroom-spent-substrate-recycling]]
+- [[oyster-mushroom]]
+- [[oyster-mushrooms]]
+- [[sterilization]]

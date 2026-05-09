@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-**Xylaria hypoxylon**, commonly known as candlesnuff fungus, candlestick fungus, or stag's horn fungus, is a saprotrophic ascomycete fungus in the family Xylariaceae. It is one of the most recognizable and widely distributed pyrophilous (fire-associated) fungi in the world, commonly found on dead wood of hardwood trees in temperate and subtropical forests. Its striking black and white fruiting bodies, which resemble extinguished candle wicks, have made it a familiar sight to forest walkers. Beyond its visual distinctiveness, X. hypoxylon is of considerable scientific interest for its bioluminescent properties, production of bioactive secondary metabolites, and ecological role in wood decomposition.
+**Xylaria hypoxylon**, commonly known as candlesnuff fungus, candlestick fungus, or stag's horn fungus, is a saprotrophic ascomycete fungus in the family Xylariaceae. It is one of the most recognizable and widely distributed pyrophilous (fire-associated) fungi in the world, commonly found on dead wood of hardwood trees in temperate and subtropical forests. Its striking black and white fruiting bodies, which resemble extinguished candle wicks, have made it a familiar sight to forest walkers. Beyond its visual distinctiveness, X. hypoxylon is of considerable scientific interest for its bioluminescent properties, production of bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]], and ecological role in wood decomposition.
 
 ## Taxonomy
 
@@ -68,9 +68,9 @@ One of the most fascinating properties of Xylaria hypoxylon is its ability to pr
 
 - The young, actively growing tips of the stroma can emit a faint greenish glow in darkness
 - Bioluminescence is most pronounced during the asexual (conidial) stage, when the white coating is present
-- The light is produced by luciferin-luciferase reactions involving molecular oxygen, similar to other bioluminescent fungi
+- The light is produced by luciferin-luciferase reactions involving molecular oxygen, similar to other [[bioluminescent-fungi]]
 - The bioluminescence is typically very faint and may not be visible to the naked eye in all conditions; it is best observed in complete darkness with dark-adapted eyes
-- The ecological function of bioluminescence in Xylaria is not fully understood but may serve to attract insects for spore dispersal
+- The ecological function of bioluminescence in Xylaria is not fully understood but may serve to attract insects for [[spore-dispersal]]
 
 X. hypoxylon is one of approximately 110+ known bioluminescent fungal species, most of which are found in the order Xylariales.
 
@@ -106,8 +106,8 @@ Xylaria hypoxylon has been extensively studied for its production of secondary m
 - **Xylarenone:** A naphthoquinone compound with demonstrated cytotoxic activity against select cancer cell lines
 - **Cytochalasins:** Actin-disrupting compounds with antifungal, antitumor, and anti-inflammatory properties. X. hypoxylon produces several cytochalasin variants.
 - **Terpenoids:** Various sesquiterpenes and diterpenes with antimicrobial and anti-inflammatory activities
-- **Phenolic compounds:** Including hispidin and its derivatives, which exhibit antioxidant activity
-- **Antimicrobial activity:** Crude extracts show broad-spectrum activity against bacteria (including *Staphylococcus aureus* and *Escherichia coli*) and fungi (including *Candida albicans*)
+- **[[ingham-tannins-terpenes-phenolic-compounds]]:** Including hispidin and its derivatives, which exhibit antioxidant activity
+- **Antimicrobial activity:** Crude extracts show broad-spectrum activity against bacteria (including *Staphylococcus aureus* and *Escherichia coli*) and fungi (including *[[candida-albicans]]*)
 - **Antioxidant activity:** Significant radical scavenging capacity in DPPH and ABTS assays
 
 While these bioactive properties are promising, clinical applications have not yet been developed. X. hypoxylon is not used in traditional medicine to the extent of some other Xylaria species (notably X. polymorpha in Chinese medicine as "Wu Ling Zhi").
@@ -126,7 +126,7 @@ Cultivation is primarily of research interest for studying secondary metabolite 
 ## See Also
 
 - [[trametes-versicolor-entity]] — Turkey Tail, another common wood-decomposing fungus with medicinal properties
-- [[fungal-ecology]] — Comprehensive overview of fungal roles in ecosystem processes
+- [[fungal-ecology]] — Comprehensive overview of fungal roles in [[fungal-ecosystem-processes-overview]]
 
 ## See Also
 

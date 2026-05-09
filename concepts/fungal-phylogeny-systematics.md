@@ -3,14 +3,10 @@ title: Fungal Phylogeny and Systematics
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Phylogeny and Systematics
-
-## Overview
-
-Fungal systematics — the science of classifying and naming fungi [[fungal-species-concept-and-taxonomy]]ary relationships and develop natural classification systems. Despite significant progress, fungal systematics remains challenging due to the enormous undocumented diversity and the prevalence of convergent morphologies.
+# Fungal Phylogeny and Systematics ## Overview Fungal systematics — the science of classifying and naming fungi [[fungal-species-concept-and-taxonomy]]ary relationships and develop natural classification systems. Despite significant progress, fungal systematics remains challenging due to the enormous undocumented diversity and the prevalence of convergent morphologies.
 
 ## Phylogenetic Framework
 
@@ -92,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

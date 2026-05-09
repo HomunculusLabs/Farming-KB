@@ -5,14 +5,14 @@ tags: [agroforestry, alley-cropping, silvopasture, integrated-systems, permacult
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
+  sources: []
 type: comparison
 ---
 # Alley Cropping vs Silvopasture
 Alley cropping and silvopasture are two of the most widely practiced agroforestry
 systems worldwide. Both integrate trees with productive land use in the spaces
 between them, but they serve different primary functions and target different
-outputs. Understanding their distinctions helps designers choose the right system
+outputs. Understanding their distinctions helps designers [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] system
 for a given climate, market, and landscape context.
 ## Definitions
 **Alley cropping** (hedgerow intercropping) arranges rows of trees or shrubs,
@@ -20,7 +20,7 @@ typically nitrogen-fixing species, with annual or perennial crops growing in the
 alleys between them. The trees are coppiced regularly, and the pruned biomass
 serves as mulch and green manure for the alley crops. The primary output is
 crop harvest, with trees providing the supporting functions of fertility,
-erosion control, and microclimate modification.
+[[permplant-willows-salix-erosion-control-fodder]], and microclimate modification.
 **Silvopasture** intentionally combines trees, pasture, and livestock on the same
 land unit. Trees provide shade, shelter, fodder, and timber while livestock
 graze the understory pasture. The primary output is animal products (meat, milk,
@@ -32,14 +32,14 @@ fertility.
 |--------|---------------|-------------|
 | Main harvest | Annual crops (grain, vegetables, tubers) | Livestock products (meat, milk, eggs) |
 | Secondary harvest | Fodder, mulch, fuelwood | Timber, fruit, nuts, mast |
-| Fertility source | Tree leaf mulch and nitrogen fixation | Livestock manure and nitrogen-fixing trees |
-| Labour intensity | High (regular pruning, crop management) | Moderate (rotational grazing, periodic pruning) |
+| Fertility source | Tree leaf mulch and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] | Livestock manure and nitrogen-fixing trees |
+| Labour intensity | High (regular pruning, crop management) | Moderate ([[comparison-rotational-grazing-vs-continuous-grazing]], periodic pruning) |
 | Mechanisation | Possible with wide alley spacing | Limited by tree spacing; grazing is self-harvesting |
 ## Tree Species and Function
 Alley cropping prioritises nitrogen-fixing hedgerow species selected for rapid
-biomass production and coppicing vigour. In the tropics,
+[[dighton-fungal-biomass-production-aquatic-ecosystems]] and coppicing vigour. In the tropics,
 [[leucaena-alley-cropping-systems]]
-- [[mollison-designers-silvopasture-integrated-tree-livestock]]
+- mollison-designers-silvopasture-integrated-tree-livestock
 - [[contour-line-water-management]]
 
 ## See Also
@@ -61,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

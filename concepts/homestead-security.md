@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, safety, animal-husbandry, equipment, community]
-sources: []
+sources:
+  sources: []
 ---
 
 # Homestead Security
@@ -37,7 +38,7 @@ Modern IP camera systems are affordable and accessible for homesteads. Prioritiz
 - Motion detection with push notifications to your phone
 - Local storage (NVR/DVR) or cloud recording
 - Weatherproof rating (IP66 or IP67 minimum)
-- Solar power capability for remote camera placement
+- [[holmgren-trees-solar-power-plants-detailed]] capability for remote camera placement
 - Two-way audio for remote communication with visitors
 
 **Recommended placement:**
@@ -91,7 +92,7 @@ The first line of physical security. Gates should match the fence in strength an
 
 - Maintain fences in good repair — gaps invite intrusion
 - Use no-climb fencing in high-security areas
-- Consider thorny hedgerow barriers (osage orange, blackberry, honey locust)
+- Consider thorny hedgerow barriers ([[bloomfield-ghosts-of-evolution-osage-orange-anachronism]], blackberry, [[permaculture-honey-locust-pod-fodder-system]])
 - Lock all gates, even interior gates between pasture areas
 - Keep gates closed and latched at all times
 
@@ -142,29 +143,8 @@ Isolation is the homesteader's greatest vulnerability. A connected community is 
 ### Vehicle and Equipment Security
 
 - Keep vehicles locked, keys secured, and parked in visible areas
-- Use wheel locks, steering wheel locks, or GPS trackers on tractors and ATVs
-- Engrave equipment with your driver's license number
-- Photograph serial numbers and store records off-site
-- Chain and lock equipment in sheds when not in use
-
-### Firearm Safety and Self-Defense
-
-For homesteaders who choose to own firearms:
-- Store in a heavy gun safe, bolted to the floor or wall
-- Ammunition stored separately
-- Regular practice and training
-- Know your local laws regarding self-defense and use of force
-- Have a clear family plan for security scenarios
-- Consider first aid/trauma training alongside firearms proficiency
-
-### Data and Document Security
-
-- Keep copies of important documents in a fireproof safe and off-site (cloud or safe deposit box)
-- Maintain an inventory of all valuable property with photos and serial numbers
-- Back up homestead records (financial, animal health, breeding) to cloud storage
-
 ## Related Concepts
 
-- [[mushroom-foraging-safety-guide]] — Broader safety principles and risk management
+- [[mushroom-foraging-safety-guide]] — Broader [[shulgin-safety-principles-self-experimentation]] and risk management
 - [[goat-husbandry]] — Livestock guardian dogs as part of animal management
 - [[homestead-communication]] — Communication systems for security and emergency coordination

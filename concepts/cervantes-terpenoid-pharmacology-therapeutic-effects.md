@@ -1,5 +1,5 @@
 ---
-title: Terpenoid Pharmacology and Therapeutic Effects
+title: cervantes terpenoid pharmacology therapeutic effects and Therapeutic Effects
 created: 2026-04-28
 tags:
   - terpenoids
@@ -9,9 +9,10 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 synonyms:
-  - terpene pharmacology
+  - [[cannabis-terpene-pharmacology-and-entourage-effect]]
   - limonene cannabis
   - linalool cannabis
   - terpineol
@@ -87,7 +88,7 @@ protective effects of terpenoids.
 ## CB1 and CB2 Receptor Modulation
 
 Different cannabis strains produce different highs partly because
-varying terpenoid profiles influence how cannabinoids interact with
+varying [[cannabis-terpenoid-profiles-detailed]] influence how cannabinoids interact with
 receptor subtypes. Afghani plants produce cannabidiol (CBD) that
 preferentially activates Gi (inhibitory) G-proteins, causing a stony,
 narcotic-like effect. Thai plants contain THCV that may preferentially
@@ -116,11 +117,11 @@ psychoactive potency of the original THC.
 ## Implications for Medical Cultivation
 
 Understanding terpenoid pharmacology has direct implications for medical
-cannabis cultivation:
+[[query-how-does-no-till-cannabis-cultivation-work]]:
 
-- Strain selection should consider terpenoid profiles, not just THC
+- [[blesching-cannabis-strain-selection-receptor-targeting]] should consider terpenoid profiles, not just THC
   content
-- Proper drying and curing preserves terpenoid integrity
+- Proper [[comparison-cannabis-drying-and-curing-vs-flushing-before-harvest]] preserves terpenoid integrity
 - Different medical conditions may respond better to specific terpenoid
   profiles
 - The synergistic effects of terpenoids with cannabinoids support the

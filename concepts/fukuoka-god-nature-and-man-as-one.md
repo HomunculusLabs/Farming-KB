@@ -5,7 +5,8 @@ updated: 2026-04-19
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 Updated: 2026-04-18
@@ -18,7 +19,7 @@ This chapter stands at the heart of [[fukuoka-do-nothing-farming-and-spiritual-l
 
 God is called the creator of all nature, but this Great Spirit may also be thought of as lying hidden within Mother Nature — as the force that raises and nurtures it. The form of God takes expression in the form of Mother Nature; the heart of God arises from within nature. God is at once the conductor of the orchestra playing nature and a cute little performer born into nature.
 
-This passage reveals Fukuoka's panentheistic worldview — God is both immanent within nature and transcendent beyond it. Unlike the Western concept of a creator who stands outside creation, Fukuoka's God permeates every leaf, every insect, every grain of soil. This is why the natural farmer must not impose their own designs on the land: to do so would be to override the divine intelligence already at work.
+This passage reveals Fukuoka's panentheistic worldview — God is both immanent within [[fukuoka-god-nature-and-transcendent-world]] beyond it. Unlike the Western concept of a creator who stands outside creation, Fukuoka's God permeates every leaf, every insect, every grain of soil. This is why the natural farmer must not impose their own designs on the land: to do so would be to override the divine intelligence already at work.
 
 The metaphor of the orchestra is particularly apt for understanding [[fukuoka-one-straw-revolution-philosophy]] as a whole. Fukuoka's revolution was not about a new technique but about a fundamental shift in orientation — from mastery to humility, from domination to participation.
 
@@ -32,7 +33,7 @@ For the natural farmer, this means that what appears as "weeds" or "pests" are s
 
 ## The Contradiction of Human Progress
 
-Fukuoka saw human progress as a paradox: each technological advance that appeared to improve human life actually deepened the separation from nature. The tractor that replaces the ox destroys the soil structure; the pesticide that kills the pest also kills the pollinators; the fertilizer that boosts yields depletes the soil's natural fertility. Each "improvement" requires further interventions to address its unintended consequences, creating an escalating cycle of damage and repair.
+Fukuoka saw human progress as a paradox: each technological advance that appeared to improve human life actually deepened the separation from nature. The tractor that replaces the ox destroys the soil structure; the pesticide that kills the pest also kills the pollinators; the fertilizer that boosts yields depletes the soil's [[fukuoka-natural-fertility-cycle]]. Each "improvement" requires further interventions to address its unintended consequences, creating an escalating cycle of damage and repair.
 
 This insight connects to [[natural-farming-and-spirituality]]
 
@@ -63,7 +64,7 @@ Harsh retribution for straying from nature and plundering its riches has begun t
 
 Having finally grown aware of the gravity of the situation, man has begun to think seriously about what should be done. But unless he is willing to undertake the most fundamental self-reflection he will be unable to steer away from a path of certain destruction.
 
-Fukuoka's warning, written decades before climate change became a mainstream concern, reads with uncanny prescience today.
+Fukuoka's warning, written decades before [[dighton-fungi-climate-change-feedback]] became a mainstream concern, reads with uncanny prescience today.
 
 The ecological crises of the twenty-first century -- climate disruption, biodiversity collapse, soil degradation, water scarcity -- are precisely the "harsh retribution" he predicted. And his diagnosis of the root cause remains as relevant as ever: the problem is not technological but philosophical.
 
@@ -73,7 +74,7 @@ Man has always deluded himself into thinking that he knows nature and is free to
 
 As an organic whole, it is not subject to man's classifications; nor does it tolerate dissection and analysis. Once broken down, nature cannot be returned to its original state. All that remains is an empty skeleton devoid of the true essence of living nature.
 
-Scientific reasoning also is of no avail in helping man understand nature and add to its creations. Nature as perceived by man through discriminating knowledge is a falsehood. Man can never truly know even a single leaf or a single handful of earth.
+Scientific reasoning also is of no avail in helping man understand nature and add to its creations. Nature as perceived by man through [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]] is a falsehood. Man can never truly know even a single leaf or a single handful of earth.
 
 Unable to fully comprehend plant life and soil, he sees these only through the filter of human intellect.
 
@@ -97,6 +98,6 @@ Although he cannot even hope to replace the myriad activities of all the plants,
 
 When a section of the forest is clear-cut and cedar trees planted, there no longer is enough food for small birds. These disappear, allowing long-horned beetles to flourish. The beetles are vectors for nematodes, which attack red pines and feed on parasitic Botrytis fungi in the trunks of the pine trees. The pines fall victim to the Botrytis fungi because they are weakened by the disappearance of the edible matsutake fungus that lives symbiotically on the roots of red pines.
 
-This chain of destruction illustrates what ecologists call "trophic cascades" -- the ripple effects that propagate through an ecosystem when one element is disturbed.
+This chain of destruction illustrates what ecologists call "[[query-how-do-trophic-cascades-work]]" -- the ripple effects that propagate through an ecosystem when one element is disturbed.
 
 What Fukuoka understood intuitively, modern ecology has confirmed through decades of research: ecosystems are not collections of independent species but networks of interdependence in which the removal of a single element can trigger cascading failures throughout the system.

@@ -1,5 +1,5 @@
 ---
-title: THC Acetate Synthesis and Properties
+title: THC thc-acetate-synthesis-and-pharmacology and Properties
 created: 2026-04-28
 tags: [cannabis, thc-acetate,ben-lemony, synthesis, potency]
 date: 2026-04-28
@@ -14,7 +14,7 @@ type: concept
 Chapter 3 of *[[ben-lemon]] describes the synthesis of
 THC acetate, a derivative of THC with approximately twice the potency of
 the parent compound. This chapter details both the chemical properties of
-THC acetate and the elaborate safety precautions necessary for its
+[[thc-acetate-and-isomerization]] the elaborate safety precautions necessary for its
 synthesis using acetic anhydride.
 
 ## Properties of THC Acetate
@@ -87,12 +87,12 @@ anhydride. The following apparatus is assembled:
 6. Rheostat to control temperature from outside the box
 7. Ring stand and proper clamps for securing flask and condenser
 8. Cottonseed oil for the oil bath
-9. Acetic anhydride (three times the volume of cannabis oil)
+9. Acetic anhydride (three times the volume of [[cervantes-hash-cannabis-oil-production]])
 10. Immersible water pump, bucket, and hoses for condenser coolant
 
 ### Refluxing
 
-The solution of acetic anhydride and cannabis oil is boiled in the
+The solution of acetic anhydride and [[cannabis-oil-capsules-preparation]] is boiled in the
 round-bottom flask. The fumes rise into the icewater-cooled condenser,
 where they are condensed back into liquid, thus relieving the pressure
 created by boiling. The drops then fall back into the solution.
@@ -138,11 +138,7 @@ The flask containing the cannabis oil acetate is removed from the safety
 box. Slowly, one drop at a time, several volumes of pure alcohol are
 added to dissolve the oil. This solution is poured into five volumes of
 water and extracted with petroleum ether, as was done in the
-purification techniques following the isomerization.
-
-The ether is evaporated in the stew pot apparatus and collected. The
-The resulting oil contains THC acetate and may be consumed in any of the
-customary manners.
+[[cannabis-oil-purification-techniques]] following the isomerization.
 
 ## Related
 

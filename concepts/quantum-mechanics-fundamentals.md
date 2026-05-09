@@ -1,12 +1,12 @@
 ---
-title: Quantum Mechanics Fundamentals
+title: [[tryptamines-and-quantum-mechanics]] Fundamentals
 type: concept
 category: physics
 related:
-  - statistical-mechanics
-  - maxwell-equations-electromagnetism
-  - crystal-structure-and-crystal-defects
-  - laws-of-thermodynamics
+  - [[statistical-mechanics]]
+  - [[maxwell-equations-electromagnetism]]
+  - [[crystal-structure-and-crystal-defects]]
+  - [[laws-of-thermodynamics]]
 tags: [physics, quantum-mechanics, wave-function, schrodinger-equation,
   hilbert-space, entanglement, uncertainty-principle, superposition,
   quantum-computing, wave-particle-duality]

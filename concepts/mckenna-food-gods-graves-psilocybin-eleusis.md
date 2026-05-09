@@ -1,5 +1,5 @@
 ---
-title: Graves Psilocybin at Eleusis Theory in Food of the Gods
+title: mckenna food gods graves psilocybin eleusis at entheogenic-eleusis-theory-scholarly-reception in Food of the Gods
 created: 2026-04-28
 tags: [graves, eleusinian, psilocybin, mckenna, classical-studies]
 date: 2026-04-28
@@ -17,7 +17,7 @@ history of psychedelic scholarship. Graves advanced the controversial
 thesis that the sacred potion consumed at the [[mckenna-food-gods-stoned-ape-hypothesis]].
 
 The continuity from the African grasslands where McKenna places the
-origin of the mushroom-religion to the temples of Minoan Crete and
+origin of the mushroom-religion to the temples of [[mckenna-food-gods-minoan-crete-mushroom-religion]] and
 finally to Eleusis represents, in this view, an unbroken tradition of
 psychoactive mushroom use spanning tens of thousands of years. The
 destruction of Eleusis thus marks not merely the end of one religious
@@ -44,7 +44,7 @@ the eclipse of Minoan Crete and its Mysteries, humankind crossed what
 McKenna calls a "watershed into the progressively more vacant, more
 ego-dominated world, whose energies were coalescing into monotheism,
 patriarchy, and male domination." The great society-shaping plant
-relationships of the Old World declined to the status of "mysteries,"
+relationships of the [[datura-metel-old-world-ethnobotany]] declined to the status of "mysteries,"
 esoteric pursuits available only to the wealthy, the obsessed, and
 eventually, as McKenna dryly notes, cynical intelligence operatives.
 
@@ -68,6 +68,8 @@ the fragments preserved in myth, art, and archaeology.
 
 ## See Also
 
+- [[mckenna-food-gods-psilocybin-cultivation-1970s]]
+
 - [[mckenna-food-gods-stoned-ape-hypothesis]]
 - [[mckenna-food-gods-fall-consciousness]]
 - [[mckenna-food-gods-partnership-dominator]]
@@ -89,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

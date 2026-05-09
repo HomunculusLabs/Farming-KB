@@ -1,5 +1,5 @@
 ---
-title: Mycorrhiza Collapse and Cascade Ecosystem Failure
+title: fukuoka mycorrhiza collapse cascade ecosystem failure and Cascade Ecosystem Failure
 tags: [mycorrhiza, pine-blight, desertification, soil-microbes, ecosystem-collapse, fukuoka]
 date: 2026-04-28
 updated: 2026-04-28
@@ -12,8 +12,8 @@ created: 2026-04-28
 # Mycorrhiza Collapse and Cascade Ecosystem Failure
 
 Fukuoka's three-year investigation into pine rot, conducted in a
-makeshift orchard laboratory, revealed a chain of ecosystem collapse
-beginning with the destruction of mycorrhizal fungi. He identifies
+makeshift orchard laboratory, revealed a chain of [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]]
+beginning with the destruction of [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]. He identifies
 this as an early warning sign of widespread desertification affecting
 not only Japan but also California.
 
@@ -34,7 +34,7 @@ microscope, isolating pathogens and preparing pure cultures near
 the hearth. He presented his findings at Tsukuba University, with
 a detailed account appearing in the June 1981 issue of Atarashiki
 Sekai e. Youngsters at the farm complained they had come to learn
-natural farming, not to help cut down pines and dig up roots.
+[[comparison-natural-farming-vs-permaculture]], not to help cut down pines and dig up roots.
 
 ## The Black Bristle Mold
 
@@ -125,8 +125,8 @@ west of Tokyo would be almost entirely wiped out within five years.
 ## The Matsutake Discovery and Choice
 
 During his research, Fukuoka discovered a method for artificially
-cultivating the matsutake mushroom. He found that chawan-mushi
-(steamed egg custard) was the ideal culture medium. When a matsutake
+cultivating the [[pine-disease-and-matsutake-mushroom-decline]]. He found that chawan-mushi
+(steamed egg custard) was the ideal [[fukuoka-matsutake-culture-medium-appendix]]. When a matsutake
 cap is placed on top and spores fall into the custard, white mycelia
 fill the container within half a year. At about 61 degrees Fahrenheit,
 little matsutake pop up one after another.

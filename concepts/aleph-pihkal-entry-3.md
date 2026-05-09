@@ -2,7 +2,7 @@
 title: ALEPH (DOT) - Compound Profile
 created: 2026-04-26
 updated: 2026-04-22
-sources: PIHKAL Entry #3
+sources: 2c-b-pihkal-entry-20 #3
 type: concept
 tags: [shulgin]
 ---
@@ -17,7 +17,7 @@ ALEPH, also known as DOT (para-DOT), is a substituted amphetamine and the foundi
 
 ## Synthesis Summary
 
-Synthesized from 2,5-dimethoxy-4-(methylthio)benzaldehyde via nitropropene condensation with nitroethane and ammonium acetate (steam bath, 6h), yielding orange crystalline 1-(2,5-dimethoxy-4-methylthiophenyl)-2-nitropropene (mp 137-138 C). Reduction with LAH in THF/Et2O followed by standard workup gave the free base (mp 91-93 C). The hydrochloride salt crystallized from IPA/Et2O with mp 204-205 C.
+Synthesized from 2,5-dimethoxy-4-(methylthio)benzaldehyde via nitropropene condensation with nitroethane and ammonium acetate ([[scythian-cannabis-steam-bath-ritual]], 6h), yielding orange crystalline 1-(2,5-dimethoxy-4-methylthiophenyl)-2-nitropropene (mp 137-138 C). Reduction with LAH in THF/Et2O followed by standard workup gave the free base (mp 91-93 C). The hydrochloride salt crystallized from IPA/Et2O with mp 204-205 C.
 
 ## Related Compounds
 
@@ -29,7 +29,7 @@ Synthesized from 2,5-dimethoxy-4-(methylthio)benzaldehyde via nitropropene conde
 - [[2c-d-pihkal-entry-23]]
 - [DOM (2,5-dimethoxy-4-methylamphetamine, oxygen analog)
 - [DOB (2,5-dimethoxy-4-bromoamphetamine, halogen analog)
-- [DOx family compounds
+- [DOx [[2c-family-compounds-overview]]
 
 ## Pharmacological Class
 
@@ -42,7 +42,7 @@ ALEPH occupies a unique position in the [DOx family as the sulfur-containing mem
 - [DOM (STP): The methyl-substituted analog, active at 3-10 mg with a 14-20 hour duration. DOM was the compound responsible for the infamous "STP" incident of 1967 where tablets were overdosed. DOM produces more classical psychedelic effects with a substantially longer duration than ALEPH.
 - [DOB: The bromo-substituted analog, active at 1-3 mg with a very long 18-30 hour duration. DOB is significantly more potent and longer-lasting than ALEPH.
 - DOI: The iodo-substituted analog, active at 1.5-3 mg, also with extremely long duration. DOI is used as a radioligand in neuroscience research.
-- [[2c-d-pihkal-entry-23]] proved more predictable and explored, suggesting the sulfur substitution may interact differently with the amphetamine backbone.
+- [[2c-d-pihkal-entry-23]] proved more predictable and explored, suggesting the [[pihkal-sulfur-substitution-potency-sar]] may interact differently with the amphetamine backbone.
 
 The [dosage ambiguity inherent in PIHKAL qualitative reports should be noted -- Shulgin's rating system uses +1 through +4 scale, and individual responses vary significantly.
 
@@ -58,9 +58,9 @@ The extreme initial caution at 0.25 micrograms reflects the genuine uncertainty 
 - Significant inter-individual variability -- start at the lower end of the dose range.
 - Duration of 6-8 hours requires planning for a full day experience.
 - Driving and complex mechanical tasks are dangerous at active doses.
-- The [legal status of ALEPH varies by jurisdiction; it is unscheduled in many areas but may fall under analogue acts.
+- The [[ayahuasca-tourism-legal-status-by-country]] of ALEPH varies by jurisdiction; it is unscheduled in many areas but may fall under analogue acts.
 - See [[set-and-setting-framework]] applies equally to phenethylamine psychedelics.
-- The [qualitative effects themes in PIHKAL provide broader context for understanding the range of experiences possible with phenethylamine psychedelics.
+- The [[mdma-qualitative-effects-phenomenology]] themes in PIHKAL provide broader context for understanding the range of experiences possible with phenethylamine psychedelics.
 ## Practical Considerations
 
 Successful implementation of ALEPH (DOT) - Compound Profile requires attention to
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

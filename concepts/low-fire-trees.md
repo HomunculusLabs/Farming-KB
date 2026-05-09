@@ -36,7 +36,7 @@ Trees and shrubs with low combustibility can be incorporated into permaculture d
 - C. cunninghamiana (recovers), C. fraserana, C. glauca (recovers), C. obesa, C. stricta (recovers), C. torulosa
 
 ### Castanea (Chestnuts)
-- C. dentata (American chestnut), C. sativa (sweet chestnut)
+- C. dentata (American chestnut), C. sativa ([[holzer-sweet-chestnut-and-nut-trees]])
 
 ### Fruit and Nut Trees
 - Carya illinoensis (pecan)
@@ -61,10 +61,10 @@ Trees and shrubs with low combustibility can be incorporated into permaculture d
 - Fraxinus spp (ash), Ginkgo biloba, Grevillea robusta (does NOT recover)
 - Laurus nobilis (laurel), Liriodendron tulipifera (tulip tree)
 - Melaleuca lanceolata (moonah), Melia azedarach (cape lilac)
-- [[permaculture-chestnut]]
+- permaculture-chestnut
 - [[permaculture-tagasaste]]
 - [[hamilton-pruning-and-training-fruit-trees]]
-- [[gaias-garden-fruit-tree-selection]]
+- gaias-garden-fruit-tree-selection
 ## Practical Considerations
 
 Successful implementation of Low Fire Potential Trees and Shrubs requires attention to
@@ -83,4 +83,9 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[ceratonia-siliqua]]
+- [[laurus-nobilis]]
+- [[melia-azedarach]]
+- [[permaculture-design]]
+- [[olea-europaea]]

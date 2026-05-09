@@ -49,7 +49,7 @@ Flowering occurs from June through August, attracting bees and other pollinators
 
 The fruit consists of four small nutlets (mericarps), brown at maturity.
 
-Roots are fibrous and shallow, contributing to the plant's drought tolerance once established.
+Roots are fibrous and shallow, contributing to the plant's [[dighton-fungal-drought-tolerance-plant-water-relations]] once established.
 
 ## Distribution and Habitat
 
@@ -57,7 +57,7 @@ Wall germander is native to much of Europe, from the British Isles eastward thro
 
 It extends southward through the Mediterranean basin to North Africa, including Morocco, Algeria, and Tunisia.
 
-The species has been widely naturalized beyond its native range, particularly in eastern North America.
+The species has been widely naturalized beyond its native range, particularly in [[polypore-fungi-eastern-north-america]] America.
 
 Its common name "wall germander" reflects its frequent occurrence growing on old stone walls, rocky outcrops, and dry masonry.
 
@@ -87,7 +87,7 @@ These diterpenoids exhibit anti-inflammatory, hepatoprotective, and hypoglycaemi
 
 Teucrium chamaedrys extracts have demonstrated antioxidant capacity in vitro, attributed to flavonoids and phenolic acids.
 
-The essential oil, obtained by steam distillation of aerial parts, contains β-caryophyllene, germacrene D, and α-pinene as major components.
+The [[permaculture-designers-manual-essential-oil-plants]], obtained by [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] of aerial parts, contains β-caryophyllene, germacrene D, and α-pinene as major components.
 
 **Important safety note:** Teucrium species, including T. chamaedrys, have been associated with rare but serious hepatotoxicity cases.
 
@@ -105,7 +105,7 @@ It prefers well-drained, alkaline to neutral soils with full sun exposure.
 
 Propagation is readily achieved through semi-hardwood cuttings taken in summer or by division of established clumps in spring.
 
-Seed germination can be uneven; stratification at 4°C for 4–6 weeks improves germination rates.
+[[cannabis-seed-germination-methods]] can be uneven; stratification at 4°C for 4–6 weeks improves germination rates.
 
 Plants should be spaced 20–30 cm apart to allow for their spreading habit.
 
@@ -133,7 +133,7 @@ In its native Mediterranean range, it forms part of the garrigue and maquis shru
 
 The plant has moderate deer resistance due to the aromatic, slightly bitter foliage.
 
-Its evergreen leaves provide year-round cover in mild climates, supporting overwintering beneficial insects.
+Its evergreen leaves provide year-round cover in mild climates, supporting overwintering [[comparison-beneficial-insects-guide-vs-integrated-pest-management]].
 
 ## See Also
 

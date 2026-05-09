@@ -9,7 +9,7 @@ sources: [papers/uwe-blesching-the-cannabis-health-index.md]
 
 # Cannabis and COPD Research
 
-**Source:** Uwe Blesching, The Cannabis Health Index (2017)
+**Source:** Uwe Blesching, The [[blesching-cannabis-health-index-autoimmune-conditions]] (2017)
 
 ## Condition Overview
 
@@ -36,7 +36,7 @@ Chronic Obstructive Pulmonary Disease (COPD) involves narrowing of airways decre
 | Agent | Study Type | Year, Location, Key Finding | CHI |
 |-------|-----------|---------------------------|-----|
 | Cannabis alone vs. tobacco+cannabis | Population study | 2009 -- Vancouver, Canada: Tobacco+cannabis increases risk; cannabis alone does not | 0 |
-| Cannabis oil (THC 3.3-4.2mg) | Human case study | 2005 -- Bad Lippspringe, Germany: 36% increase in walking distance, 1.5kg weight gain | 3 |
+| [[cervantes-hash-cannabis-oil-production]] (THC 3.3-4.2mg) | Human case study | 2005 -- Bad Lippspringe, Germany: 36% increase in walking distance, 1.5kg weight gain | 3 |
 | | | **Total CHI Value: 3** | |
 
 ## Strain-Specific Considerations
@@ -85,11 +85,11 @@ The evidence base for cannabis in COPD is limited but suggestive, with a CHI val
 
 - **CBD supplementation:** Consider adding CBD (5-10 mg per dose) for its anti-inflammatory and bronchodilatory potential without psychoactive effects.
 
-- **Strain selection:** Sativa-dominant strains may be preferred for daytime use to promote activity and appetite without excessive sedation.
+- **[[blesching-cannabis-strain-selection-receptor-targeting]]:** Sativa-dominant strains may be preferred for daytime use to promote activity and appetite without excessive sedation.
 
 ## Safety and Interactions
 
-- **Smoking risk:** Smoking cannabis is contraindicated for COPD patients. The combustion products may further irritate already damaged lung tissue and contribute to oxidative stress.
+- **Smoking risk:** Smoking cannabis is contraindicated for COPD patients. The combustion products may further irritate already damaged lung tissue and contribute to [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]].
 
 - **Tobacco-cannabis synergy:** The combined use of tobacco and cannabis significantly increases COPD risk beyond either substance alone. Patients should be counseled to avoid tobacco entirely.
 

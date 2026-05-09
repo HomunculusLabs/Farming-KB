@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [comparison, cannabis, soil-amendments, growing-media, cultivation]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -12,10 +13,10 @@ type: comparison
 
 ## Overview
 Perlite and vermiculite are both lightweight mineral soil amendments used to
-improve growing media for cannabis cultivation, but they serve fundamentally
+improve growing media for [[query-how-does-no-till-cannabis-cultivation-work]], but they serve fundamentally
 different functions. Perlite improves drainage and aeration by creating air
 pockets in the soil, while vermiculite improves water retention and nutrient
-holding capacity. Both are commonly used in soil mixes, container gardening, and
+holding capacity. Both are commonly used in soil mixes, [[comparison-cold-frame-gardening-vs-container-gardening-guide]], and
 as components of soilless growing media. Many growers use both in combination,
 but understanding their individual properties helps in formulating the right mix
 for specific growing conditions and plant needs.
@@ -27,9 +28,9 @@ Vermiculite is a naturally occurring mineral (hydrous phyllosilicate) that has
 been heated and expanded, similar to perlite but with very different physical
 properties. Where perlite creates air pockets and improves drainage, vermiculite
 acts like a sponge, absorbing and retaining water along with dissolved
-nutrients. Its high cation exchange capacity (CEC) allows it to hold nutrient
+nutrients. Its high [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity (CEC) allows it to hold nutrient
 cations (calcium, magnesium, potassium) and release them gradually to plant
-roots, functioning as a slow-release nutrient reservoir within the growing
+roots, functioning as a slow-release [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]] within the growing
 media.
 
 For cannabis, vermiculite is most valuable in situations where consistent
@@ -68,11 +69,11 @@ growing mature plants that require well-draining soil with plenty of root zone
 oxygen. It is essential for indoor grows with frequent watering schedules,
 outdoor grows in heavy clay soils that need aeration, and any situation where
 overwatering is a concern. A mix of 70-80% quality potting soil with 20-30%
-perlite is a reliable baseline for most cannabis growing situations, with
+perlite is a reliable baseline for most [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]] situations, with
 adjustments based on specific strain preferences and environmental conditions.
 
 ## When to Choose Vermiculite
-Vermiculite is the better choice for seed germination, clone rooting, and early
+Vermiculite is the better choice for seed germination, [[comparison-cannabis-clone-rooting-and-transplanting-vs-seed-germination]], and early
 vegetative growth where consistent moisture is more important than maximum
 drainage. It suits dry growing environments where soil dries out too quickly
 between waterings, and for growers who may occasionally overwater and need a

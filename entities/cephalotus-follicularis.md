@@ -55,7 +55,7 @@ is ribbed and produces copious nectar to attract prey.
 
 Flowers are small, white, and inconspicuous, borne on scapes 10–20 cm tall.
 Each inflorescence produces 3–10 flowers with six tepals. Flowering occurs
-during the Southern Hemisphere summer, December through February.
+during the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] summer, December through February.
 
 ## Distribution and Habitat
 
@@ -101,7 +101,7 @@ of the non-biting midge *Metriocnemus* and various mite species have been
 documented as inhabitants. The extent of mutualistic decomposition is less
 studied than in *Darlingtonia* or *Sarracenia*.
 
-The species is pollinated primarily by small Diptera. Seed production is
+The species is pollinated primarily by small Diptera. [[cervantes-seed-production-storage]] is
 moderate, and germination in the wild occurs during the wet winter months.
 Vegetative propagation through stolons and root division also occurs naturally.
 
@@ -121,7 +121,7 @@ is standard. The tray method works if drainage is adequate — the plant should
 never sit in water deeper than 1 cm. Some growers prefer top-watering to
 prevent waterlogging.
 
-Optimal temperatures range from 15–25°C during the growing season. The species
+Optimal temperatures range from 15–25°C during the [[savory-growing-season-and-non-growing-season-management]]. The species
 can tolerate brief periods above 30°C if humidity is maintained above 60%.
 A winter rest period with cooler temperatures (5–12°C) and reduced watering
 is beneficial but not strictly required.

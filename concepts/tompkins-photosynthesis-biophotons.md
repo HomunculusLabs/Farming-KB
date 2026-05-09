@@ -1,7 +1,7 @@
 ---
 title: Photosynthesis and Biophotons
 created: 2026-04-26
-aliases: [biophotons, Kirlian photography, plant light responses, mitogenetic radiation]
+aliases: [biophotons, [[tompkins-kirlian-photography-plant-auras]], plant light responses, mitogenetic radiation]
 tags: [botany, biophysics, photosynthesis, light-biology]
 related: [tompkins-plant-electrical-signals, tompkins-plant-growth-regulators, tompkins-ancient-plant-knowledge]
 sources: Tompkins & Bird, The Secret Life of Plants (1973)
@@ -83,7 +83,7 @@ suggesting faster-than-light communication.
 
 Cleveland Clinic founder George Washington Crile published The
 Phenomena of Life: A Radio-Electrical Interpretation in 1936, arguing
-that living organisms are adapted to "the formation, storage, and use
+that [[savory-living-organisms-as-tools]] are adapted to "the formation, storage, and use
 of electrical energy." The genesis of this energy was "ultra-microscopic
 units or furnaces in protoplasm" which Crile called radiogens. He
 predicted that future radio-diagnosticians could detect disease before

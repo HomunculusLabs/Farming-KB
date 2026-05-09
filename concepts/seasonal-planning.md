@@ -31,7 +31,7 @@ sources:
 
 # Seasonal Planning — USDA Zone 7-8
 
-A comprehensive monthly calendar integrating annual vegetables, perennials, cannabis, animal husbandry, composting, and infrastructure tasks. Zone 7-8 last frost: ~April 5-15. First frost: ~October 25-November 5. Growing season: 180-210 days.
+A comprehensive monthly calendar integrating annual vegetables, perennials, cannabis, animal husbandry, composting, and infrastructure tasks. Zone 7-8 last frost: ~April 5-15. First frost: ~October 25-November 5. [[savory-growing-season-and-non-growing-season-management]]: 180-210 days.
 
 ## Monthly Task Calendar
 
@@ -46,13 +46,13 @@ A comprehensive monthly calendar integrating annual vegetables, perennials, cann
 - **Seeds**: Start onions, leeks, celery indoors (10-12 weeks before frost). Start peppers, eggplant indoors (8-10 weeks).
 - **Pruning**: Dormant prune fruit trees, berries, grapes. Apply dormant oil spray.
 - **Perennials**: Plant bare-root fruit trees, berries, asparagus crowns, rhubarb.
-- **Cannabis**: Start cannabis seeds indoors under lights. See [[cannabis-vegetative-stage]].
+- **Cannabis**: Start [[query-how-to-store-cannabis-seeds-for-long-term-viability]] indoors under lights. See [[cannabis-vegetative-stage]].
 - **Animals**: Begin spring pasture prep. Order spring chicks/ducklings.
 - **Compost**: [[vermicomposting]] bins — check worm activity, add bedding if needed.
 
 ### March
 - **Seeds**: Start tomatoes, brassicas indoors (6-8 weeks). Direct sow: peas, spinach, radishes, carrots, beets, turnips, potatoes (St. Patrick's Day tradition).
-- **[[cover-cropping-guide]]**: Crimson clover and Austrian winter pea planted in fall should be knee-high. Terminate (crimp or mow) 2-3 weeks before planting.
+- **[[cover-cropping-guide]]**: [[comparison-lupin-vs-crimson-clover-green-manure]] and Austrian winter pea planted in fall should be knee-high. Terminate (crimp or mow) 2-3 weeks before planting.
 - **Greenhouse**: Begin transplanting cold-hardy crops into tunnels. See [[greenhouse-design]].
 - **Animals**: Ducks — increase forage access as pasture greens up. Goats — reduce hay as browse becomes available. Watch for kidding season.
 - **Soil**: Take soil samples. Apply lime if needed (takes months to act). [[soil-fertility-management]] amendments.
@@ -61,7 +61,7 @@ A comprehensive monthly calendar integrating annual vegetables, perennials, cann
 - **Transplant**: Harden off and transplant tomatoes, peppers, eggplant after last frost (~April 10-15).
 - **Direct sow**: Beans, corn, cucumbers, squash, melons after soil temp reaches 60°F.
 - **Succession**: Second sowing of radishes, lettuce, spinach.
-- **Cannabis**: Move to vegetative stage. Begin training (LST, topping). See [[cannabis-vegetative-stage]].
+- **Cannabis**: Move to [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]. Begin training (LST, topping). See [[cannabis-vegetative-stage]].
 - **Animals**: Spring pasture rotation begins. Set up electro-net fencing. Ducklings integrate with flock.
 - **Compost**: First hot compost batch of spring — mix winter accumulation with fresh greens.
 
@@ -69,7 +69,7 @@ A comprehensive monthly calendar integrating annual vegetables, perennials, cann
 - **Planting**: Everything in ground. Transplant sweet potatoes (slips), successions of beans, corn.
 - **[[herbal-medicine]]**: Transplant calendula, chamomile, holy basil, ashwagandha seedlings.
 - **Pest management**: Install row covers on brassicas. Set up traps for cucumber beetles, squash bugs.
-- **Cannabis**: Full vegetative growth. Defoliate lower growth. Monitor for pests. See [[cannabis-pest-management]].
+- **Cannabis**: Full [[cannabis-vegetative-growth-stage]]. Defoliate lower growth. Monitor for pests. See [[cannabis-pest-management]].
 - **Animals**: Full pasture rotation. Watch for heat stress in ducks (shade, water). Goats — copper bolus if needed.
 - **Compost**: Turn piles every 2-3 weeks. Harvest finished compost for garden beds.
 
@@ -133,7 +133,7 @@ A comprehensive monthly calendar integrating annual vegetables, perennials, cann
 **Spring Wake-Up (Feb-Apr)** — Soil prep, early plantings, animal transitions. Energy builds.
 **Summer Peak (May-Aug)** — Maximum production, preservation, pest pressure. Labor-intensive.
 **Fall Transition (Sep-Nov)** — Harvest, storage, cover crops, winterizing. Abundance processing.
-**Winter Planning (Dec-Feb)** — Rest, learning, ordering, indoor growing. Slow season.
+**Winter Planning (Dec-Feb)** — Rest, learning, ordering, [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]]. Slow season.
 
 ## Succession Planting Quick Reference
 
@@ -144,44 +144,6 @@ A comprehensive monthly calendar integrating annual vegetables, perennials, cann
 | Beans (bush) | Every 3 weeks | May-Jul | Direct sow |
 | Cucumbers | Every 3 weeks | May-Jul | Direct sow/transplant |
 | Carrots | Every 3 weeks | Mar-Apr, Aug-Sep | Direct sow |
-| Brassicas | Every 4 weeks | Jun-Sep | Transplant |
-| Spinach | Every 3 weeks | Mar-Apr, Sep-Oct | Direct sow |
-
-## Fall/Winter Growing (Cold-Hardy Crops)
-
-With a simple low tunnel or cold frame, these crops survive to 15-20°F air temperature:
-- Spinach, kale, collards, mâche, claytonia, mizuna, tatsoi
-- Carrots, beets, parsnips, leeks, radishes (under heavy mulch)
-- Garlic, onions (overwintering)
-
-## Perennial Planning Timeline
-
-| Plant | Plant When | First Harvest | Notes |
-|-------|-----------|---------------|-------|
-| Asparagus | Spring (crowns) | Year 3 | 10+ year productivity |
-| Blueberries | Spring/Fall | Year 3 | Need acidic soil (pH 4.5-5.5) |
-| Fruit trees | Late winter/early spring | Year 3-5 | Bare-root cheapest |
-| Elderberry | Spring | Year 2 | See [[herbal-medicine]] |
-| Raspberry | Spring/Fall | Year 2 | Everbearing crop same year |
-| Strawberries | Spring (bareroot) | Year 1 (light) | Replace beds every 3-4 years |
-| Herbs (perennial) | Spring/Fall | Year 1 | Sage, thyme, rosemary, lavender, lemon balm |
-
-## Integrated Compost Turning Schedule
-
-- **Spring** (Mar-May): Turn every 2 weeks — high nitrogen from animal bedding and spring weeds. Hot compost for garden beds.
-- **Summer** (Jun-Aug): Turn every 1-2 weeks — rapid decomposition. Add grass clippings in thin layers.
-- **Fall** (Sep-Nov): Turn every 3-4 weeks — incorporate fallen leaves, garden residue. Build winter cover crop piles.
-- **Winter** (Dec-Feb): Turn monthly or let rest. Vermicompost bins active indoors/greenhouse. Bokashi ferments kitchen waste.
-
-## Seed Ordering Timeline
-
-- **December-January**: Order seeds from catalogs (Johnny's, High Mowing, Baker Creek, Territorial, Southern Exposure). Garlic and perennial seeds early.
-- **February**: Order potatoes, sweet potato slips, bare-root plants (berries, trees, asparagus). Cover crop seed.
-- **March-April**: Last-minute fill-ins. Succession crop seeds.
-- **August-September**: Order fall cover crop seed, garlic for fall planting, fall transplants.
-
-Cross-reference with [[seed-saving-techniques]] — grow open-pollinated varieties you intend to save seed from.
-
 ## Related
 
 - [[vegetable-garden-guide]]

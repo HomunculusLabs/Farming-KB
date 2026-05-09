@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Petersen, R.H. (1975). \"The Genus Craterellus in North America.\" Nova Hedwigia, Beihefte 51, 1–62."
+  - "Petersen, R.H. (1975). \"The Genus Craterellus in psilocybin-north-america-pacific-northwest.\" Nova Hedwigia, Beihefte 51, 1–62."
   - "Buyck, B. et al. (2016). \"The Taxonomy of Craterellus.\" Mycologia, 108(4), 677–689."
   - "Buyck, B. & Hofstetter, V. (2011). \"The Contribution of Turgescence to the Taxonomy of Craterellus.\" Cryptogamie Mycologie, 32(4), 339–350."
   - "Morse, E.E. et al. (2018). \"Molecular Phylogenetics of Cantharellaceae.\" Mycologia, 110(5), 944–960."
@@ -24,12 +24,12 @@ sources:
 
 Craterellus ignicolor, commonly called the flame chanterelle or flame
 trumpet, is an edible ectomycorrhizal fungus in the family
-Cantharellaceae. It is widely distributed across eastern North America,
+Cantharellaceae. It is widely distributed across [[polypore-fungi-eastern-north-america]] America,
 where it fruits in summer and autumn on the forest floor in association
 with hardwoods.
 
 The species is distinguished by its bright orange to yellow-orange
-funnel-shaped fruiting body, well-developed false gills (ridges) on
+funnel-shaped [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]], well-developed false gills (ridges) on
 the outer surface, and a smooth, often paler hymenium (spore-bearing
 surface) on the inner surface. It is closely related to *C. tubaeformis*
 (the yellowfoot) but differs in color, stature, and host specificity.
@@ -63,7 +63,7 @@ eccentric due to growth habit on the forest floor.
 **Flesh:** Thin (2–5 mm), firm and waxy, pale orange-yellow. Odor
 mildly fruity or apricot-like. Taste mild and pleasant.
 
-**Spore print:** Pale yellow to cream.
+**[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Pale yellow to cream.
 
 **Spores:** Ellipsoid, 8–11 × 5–7 µm, smooth, inamyloid, containing
 one to several guttules (oil droplets).
@@ -89,7 +89,7 @@ yellowfoots (*C. tubaeformis*).
 
 ## Edibility and Culinary Use
 
-C. ignicolor is an excellent edible mushroom with a mild, slightly
+C. ignicolor is an excellent [[bloomfield-boletus-satanus-edible-mushroom-hazards]] with a mild, slightly
 fruity flavor and a firm, waxy texture that holds up well to cooking.
 
 - **Preparation:** Brush clean or rinse briefly; the thin flesh dries
@@ -105,7 +105,7 @@ fruity flavor and a firm, waxy texture that holds up well to cooking.
 - **Nutritional notes:** Low in calories; good source of potassium,
   phosphorus, and B vitamins. Contains ergosterol (provitamin D2).
 
-⚠️ **Caution:** As with all wild mushrooms, positive identification is
+⚠️ **Caution:** As with all [[edible-wild-mushrooms-by-region]], positive identification is
 essential. C. ignicolor is not known to contain toxins, but confusion
 with *Omphalotus olearius* (jack-o'-lantern, which is bioluminescent
 and causes GI distress) should be avoided.

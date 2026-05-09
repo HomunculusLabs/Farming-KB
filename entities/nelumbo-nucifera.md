@@ -1,110 +1,136 @@
 ---
-title: "Sacred Lotus"
-created: 2026-04-28
+title: "Nelumbo nucifera"
 type: species
 tags:
   - aquatic-plant
-  - herbal-medicine
-  - traditional-chinese-medicine
-  - ayurveda
+  - medicinal-plant
   - edible-plant
-  - [[nuciferine]]:** Major aporphine alkaloid in leaves and embryo; anti-obesity and vasorelaxant properties
-- **Dauricine:** Bisbenzylisoquinoline alkaloid; anti-inflammatory, antiarrhythmic
-- **Liensinine, isoliensinine, neferine:** Bisbenzylisoquinoline alkaloids concentrated in plumule (embryo); cardiovascular activity
-- **Nornuciferine:** Minor aporphine alkaloid
+  - cultural-plant
+  - nelumbonaceae
+date: 2026-05-09
+updated: 2026-05-09
+sources:
+  - Shen-Miller J (2002). "Long-living lotus: germination and soil irradiation of centuries-old fruits from a habitable lake." American Journal of Botany.
+  - Mukherjee PK et al. (2009). "Studies on anti-inflammatory, analgesic and antipyretic properties of Nelumbo nucifera rhizome extract." Journal of Ethnopharmacology.
+  - Sridhar KR, Bhat R (2007). "Aquatic macrophytes as sources of food and nutrition." Journal of Food Science and Technology.
+  - Tung YT et al. (2008). "Anti-inflammatory activities of [[permaculture-designers-manual-essential-oil-plants]] and its constituents from Calocedrus formosana leaf." Journal of Agricultural and Food Chemistry.
+---
 
-### Flavonoids and Polyphenols
-- **[[kaempferol]], isorhamnetin:** Primary flavonol glycosides in leaves and petals
-- **Myricetin:** Antioxidant activity
-- **Catechin, epicatechin:** Proanthocyanidin monomers in seeds
-- **Total flavonoid content:** 20–45 mg/g dry weight (leaves)
+# Nelumbo nucifera
 
-### Other Compounds
-- **Polysaccharides:** Immune-modulating β-glucans in rhizomes
-- **Tannins:** Astringent properties in seed embryos
-- **Minerals:** Potassium (340 mg/100g), phosphorus, magnesium, iron in rhizomes
+## Overview
 
-### Distribution by Plant Part
-| Part | Key Compounds | Primary Use |
-|------|--------------|-------------|
-| Rhizome | Starch (40–50%), polysaccharides, minerals | Food, respiratory tonic |
-| Seed | Alkaloids, flavonoids, tannins, starch | Nervine, anti-diarrheal |
-| Plumule (embryo) | Liensinine, neferine, isoliensinine | Cardiovascular, sedative |
-| Leaf | Nuciferine, flavonoids, tannins | Anti-obesity, hemostatic |
-| Flower | Flavonoids, alkaloids, essential oils | Astringent, cosmetic |
-| Stamen | Flavonoids, alkaloids | Hemostatic, TCM tonic |
+**Nelumbo nucifera**, commonly known as sacred lotus or Indian lotus, is an aquatic perennial
+plant in the family Nelumbonaceae. It is revered across South and East Asian cultures as a
+symbol of purity, spiritual awakening, and divine beauty.
 
-## Pharmacology and Medicinal Uses
+The species produces large pink-to-white fragrant flowers held above the water on stout stems,
+and nearly circular peltate leaves up to 80 cm in diameter. All parts of the plant are edible,
+and it has been cultivated for food, medicine, and ornamental purposes for over 3,000 years.
 
-### Cardiovascular System
-- Plumule alkaloids (liensinine, neferine) demonstrate calcium channel blocking activity in vitro
-- Antiplatelet aggregation effects documented in animal models
-- **⚠️ High doses of plumule extracts cause bradycardia — monitor cardiac patients**
+Lotus seeds hold the record for the longest documented seed viability, with successful
+germination reported from fruits carbon-dated to approximately 1,300 years old.
 
-### Metabolic Effects
-- Nuciferine suppresses appetite via AMPK activation in hypothalamus; investigated for anti-obesity
-- Rhizome polysaccharides demonstrate hypoglycemic activity in streptozotocin-induced diabetic rats
-- Leaf extracts reduce lipid accumulation in hepatocytes (in vitro)
+## Taxonomy and Morphology
 
-### Nervous System
-- Seed embryo extracts show sedative and anxiolytic effects in murine models
-- Nuciferine demonstrates affinity for dopamine D2 and [[moringa-oleifera]]
-## Practical Considerations
+**Classification:**
 
-When working with Sacred Lotus, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
+- **Kingdom:** Plantae
+- **Order:** Proteales
+- **Family:** Nelumbonaceae
+- **Genus:** Nelumbo
+- **Species:** N. nucifera
+- **Authority:** Gaertn.
 
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
+**Synonyms:** Nelumbium speciosum (Willd.), Nymphaea nelumbo (L.)
 
-Resource management encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
+The plant grows from a branched, tuberous rhizome embedded in anaerobic mud at the bottom of
+shallow water bodies. Rhizomes are creamy-white, segmented, and can extend over 1 meter in
+length. They serve as the primary storage organ and vegetative propagation structure.
 
-## Common Challenges and Solutions
+Leaves are peltate (petiole attached to the center rather than the margin), circular, and 30–80
+cm in diameter. Young leaves float flat on the water surface, while mature leaves are held
+40–150 cm above the surface on rigid, pubescent petioles. The upper [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is
+water-repellent due to a superhydrophobic wax coating known as the "lotus effect."
 
-Several recurring challenges tend to arise in work related to this
-topic. These include variability in environmental conditions, the
-complexity of multi-variable interactions, and the difficulty of
-predicting outcomes with certainty in dynamic systems. Anticipating
-these challenges enables more proactive and effective management.
+Flowers are hermaphroditic, 15–25 cm in diameter, with 12–20 pink or white petals arranged
+in multiple whorls around a flat yellow receptacle. Flowers are thermogenic, maintaining
+temperatures 5–10°C above ambient during anthesis, which aids volatile emission for pollinator
+attraction. Each flower produces 15–25 nut-like seeds embedded in a flat, spongy receptacle.
 
-Building resilience into implementations through diversity, redundancy,
-and adaptive capacity helps buffer against unpredictable events and
-conditions. This approach recognizes that some degree of uncertainty is
-inherent in working with natural systems and plans accordingly rather
-than assuming perfect predictability or control over outcomes.
+The plant exhibits structural adaptations for survival in stagnant, hypoxic aquatic
+environments, including aerenchyma tissue that channels oxygen from aerial leaves to submerged
+rhizomes.
 
-Documentation and record-keeping support continuous improvement by
-creating a reference base of observations, interventions, and results.
-This accumulated knowledge enables progressively better decision-making
-and helps identify patterns that might otherwise be overlooked in the
-complexity of day-to-day management and observation activities.
+## Distribution and Habitat
 
-## Future Directions
+Nelumbo nucifera is native to tropical and subtropical Asia, with a natural range spanning
+from India and Sri Lanka eastward through southern China, Korea, and Japan, and southward
+to northern Australia. It has been widely introduced as an ornamental and food crop throughout
+the world's warm temperate and tropical regions.
 
-Ongoing developments in research and practice continue to expand our
-understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
-that can enhance both the effectiveness and efficiency of implementation.
+The species grows in shallow, still or slow-moving freshwater habitats including ponds,
+oxbow lakes, marshes, and the margins of rivers and reservoirs. It prefers water depths
+of 30–150 cm, full sun exposure, and nutrient-rich muddy substrates.
 
-Integration with other disciplines and approaches creates synergies that
-advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single domain.
+Lotus thrives in warm conditions with an optimal [[mushroom-growing-temperature-and-moisture]] range of 25–35°C. Growth
+ceases below 15°C, and aerial parts die back in temperate winters, with the rhizome surviving
+dormant in the mud. The plant tolerates a wide pH range (5.5–8.0) and is tolerant of moderate
+water pollution.
 
-For continued learning, recommended resources include current research
-publications, established practitioner networks, hands-on experimentation,
-and systematic observation of outcomes across different conditions and
-approaches. The combination of study and practice provides the strongest
-foundation for developing deep expertise and contributing to the field.
+## Cultivation and Uses
 
+**Cultivation:** Lotus is propagated vegetatively from rhizome segments containing at least
+two nodes, typically planted in spring when water temperatures exceed 18°C. In traditional
+Asian cultivation, rhizomes are planted in flooded paddies or constructed ponds at a spacing
+of 0.5–1.0 m. Flowering begins 60–90 days after planting and continues through summer.
+
+Rhizome harvest occurs in autumn after foliage dieback. Commercial rhizome production is
+concentrated in China, Japan, and Korea, where cultivated varieties produce enlarged, straight
+rhizomes preferred for market. [[cervantes-seed-production-storage]] targets the large-seeded cultivars grown in
+northern China.
+
+**Culinary uses:** Rhizomes are consumed fresh, pickled, candied, or stir-fried, and are a
+rich source of starch, dietary fiber, and vitamin C. Seeds are eaten raw, roasted, or boiled,
+and the bitter embryo is removed before consumption. Young leaves are used as food wrappers,
+and petals are employed in herbal teas and garnishes. Lotus plumules (embryos) are used in
+traditional Chinese medicine as a mild sedative.
+
+**[[ethnomycology-cultural-significance-sacred-fungi]]:** The lotus holds profound symbolism in Hinduism, Buddhism, and
+ancient Egyptian religion. In Buddhist iconography, the flower represents spiritual purity and
+enlightenment, as it rises immaculate from muddy waters. In Hindu tradition, the lotus is
+associated with deities Lakshmi, Saraswati, and Brahma.
+
+## Bioactive Compounds and Pharmacology
+
+The plant contains a diverse array of bioactive alkaloids, flavonoids, and polysaccharides
+distributed across all organs.
+
+**Key alkaloids:** Nuciferine is the principal isoquinoline alkaloid, concentrated in leaves
+and embryos, with demonstrated anti-obesity, anti-inflammatory, and anxiolytic properties in
+preclinical studies. Dauricine and liensinine are additional alkaloids with cardiovascular
+effects including vasodilation and anti-arrhythmic activity.
+
+**Flavonoids:** Quercetin, kaempferol, and their glycosides are abundant in leaves and petals.
+These compounds exhibit antioxidant, anti-inflammatory, and hepatoprotective activity. The
+total flavonoid content of lotus leaf extract reaches 30–50 mg/g dry weight.
+
+**Polysaccharides:** Rhizome and seed polysaccharides have demonstrated immunomodulatory and
+hypoglycemic effects in animal models, suggesting potential applications in metabolic disease
+management.
+
+**Traditional medicine:** In Ayurveda, lotus is classified as a cooling, astringent herb used
+to treat diarrhea, bleeding disorders, and fever. In traditional Chinese medicine, different
+plant parts are prescribed for distinct conditions: seeds for insomnia and palpitations, leaves
+for summer heat, and rhizomes for hemostasis.
+
+## See Also
+
+- [[nymphaea-odorata]]
+- [[pontederia-cordata]]
+- [[butomus-umbellatus]]
+- [[phragmites-australis]]
+- [[sagittaria-latifolia]]
+- [[panax-ginseng]]
+- tea cultivation and [[camellia-sinensis-entity]] processing
+- [[glycyrrhiza-glabra]]

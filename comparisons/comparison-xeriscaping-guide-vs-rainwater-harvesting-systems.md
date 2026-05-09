@@ -1,5 +1,5 @@
 ---
-title: "Xeriscaping vs Rainwater Harvesting"
+title: "Xeriscaping vs comparison xeriscaping guide vs rainwater harvesting systems"
 created: 2026-04-28
 tags: [comparison, water-management, landscaping, conservation]
 date: 2026-04-25
@@ -89,7 +89,7 @@ gardens that still require regular irrigation.
 The most water-resilient landscapes combine both strategies. Xeriscaping reduces
 baseline demand while rainwater harvesting provides supplemental supply for food
 gardens and high-water oasis zones within the xeriscape design. A typical setup
-uses captured rainwater to irrigate vegetable beds and fruit trees during
+uses captured rainwater to irrigate vegetable beds and [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] during
 establishment and dry periods, while the broader landscape relies on
 drought-adapted plantings and natural rainfall. Greywater systems can add a
 third water source for appropriate plantings, creating a multi-source water

@@ -80,7 +80,7 @@ The total sulfur compound content is comparable to or slightly higher than *A. s
 
 ## Pharmacology
 
-Antimicrobial activity has been demonstrated against Gram-positive bacteria (*Staphylococcus aureus*, *Bacillus subtilis*) and select fungi (*Candida albicans*). Allicin acts by inhibiting thiol-containing enzymes essential for microbial metabolism.
+Antimicrobial activity has been demonstrated against Gram-positive bacteria (*Staphylococcus aureus*, *Bacillus subtilis*) and select fungi (*[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*). Allicin acts by inhibiting thiol-containing enzymes essential for microbial metabolism.
 
 Cardiovascular benefits observed in animal models include mild antihypertensive effects, reduction in LDL cholesterol oxidation, and antiplatelet aggregation activity. These effects are attributed to the organosulfur compound profile.
 
@@ -90,7 +90,7 @@ Clinical evidence remains limited compared to the extensive data available for *
 
 ## Ecological Role
 
-*A. ursinum* is a keystone spring ephemeral in European deciduous forests. It captures a significant fraction of the growing season's available light before the canopy closes, storing resources in its bulb for the following year.
+*A. ursinum* is a keystone spring ephemeral in European deciduous forests. It captures a significant fraction of the [[savory-growing-season-and-non-growing-season-management]]'s available light before the canopy closes, storing resources in its bulb for the following year.
 
 The flowers provide early nectar and pollen for bees, hoverflies, and beetles. The seeds are dispersed by ants, which carry them to their nests, facilitating germination in nutrient-rich microsites.
 
@@ -100,11 +100,11 @@ The species forms dense monocultures that suppress competing ground flora throug
 
 In forest garden designs, *A. ursinum* occupies the **herb layer** beneath fruit trees and nitrogen-fixing shrubs. Its early spring emergence captures light before canopy closure, making it an efficient use of vertical space.
 
-The species functions as a pest deterrent in food forests — the sulfur compounds repel certain aphids and cabbage white butterflies when interplanted with susceptible crops. Companion planting with brassicas has shown reduced pest pressure in temperate trials.
+The species functions as a pest deterrent in food forests — the sulfur compounds repel certain aphids and cabbage white butterflies when interplanted with susceptible crops. [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] with brassicas has shown reduced pest pressure in temperate trials.
 
-It serves as a **dynamic accumulator** of potassium and trace minerals, cycling nutrients from deep soil layers to the surface through its annual leaf dieback. This nutrient cycling supports adjacent plant growth.
+It serves as a **[[nutrient-dynamic-accumulator-reference]]** of potassium and trace minerals, cycling nutrients from deep soil layers to the surface through its annual leaf dieback. This [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] supports adjacent plant growth.
 
-Propagation is primarily by bulb division in autumn or seed sowing in late summer. Seed germination requires a cold stratification period of 8–12 weeks. Once established, colonies spread slowly by bulb offsets and can persist indefinitely in undisturbed sites.
+Propagation is primarily by bulb division in autumn or seed sowing in late summer. [[cannabis-seed-germination-methods]] requires a cold stratification period of 8–12 weeks. Once established, colonies spread slowly by bulb offsets and can persist indefinitely in undisturbed sites.
 
 ## See Also
 

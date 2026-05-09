@@ -1,5 +1,5 @@
 ---
-title: "MDMC (EDMA; 3,4-ETHYLENEDIOXY-N-METHYLAMPHETAMINE) -- PIHKAL Entry #110"
+title: "MDMC (EDMA; 3,4-ETHYLENEDIOXY-N-METHYLAMPHETAMINE) -- 2c-b-pihkal-entry-20 #110"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # MDMC
 
-PIHKAL entry #110. EDMA; 3,4-ETHYLENEDIOXY-N-METHYLAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #110. EDMA; 3,4-ETHYLENEDIOXY-N-METHYLAMPHETAMINE.
 
 ## Chemical Name
 
@@ -66,7 +66,7 @@ alone, but eliminate the [[pihkal-introduction-and-methodology]]
 - [[mdbu-entity-pihkal]]
 ## Practical Considerations
 
-Successful implementation of MDMC (EDMA; 3,4-ETHYLENEDIOXY-N-METHYLAMPHETAMINE) -- PIHKAL Entry #110 requires attention to
+Successful implementation of MDMC (EDMA; 3,4-ETHYLENEDIOXY-N-METHYLAMPHETAMINE) -- [[2c-c-pihkal-entry-22]] #110 requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

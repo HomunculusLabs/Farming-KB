@@ -1,5 +1,5 @@
 ---
-title: Greenhouse vs Underground Walipini
+title: comparison greenhouse vs underground walipini Walipini
 created: 2026-04-28
 tags: [greenhouse, walipini, season-extension, growing, comparison]
 date: 2026-04-25
@@ -10,9 +10,9 @@ type: comparison
 # Greenhouse vs Underground Walipini
 ## Overview
 Both traditional above-ground greenhouses and underground walipinis extend the
-growing season and protect crops from harsh weather, but they achieve this
+[[savory-growing-season-and-non-growing-season-management]] and protect crops from harsh weather, but they achieve this
 through fundamentally different thermal strategies. A conventional greenhouse
-relies on glazing and active or passive solar capture to trap heat within an
+relies on glazing and active or [[comparison-passive-solar-vs-earth-sheltered]] capture to trap heat within an
 insulated envelope. A walipini digs into the earth, using geothermal insulation
 and massive thermal mass to maintain stable temperatures with minimal
 supplemental energy. Choosing between them depends on your climate, budget, site
@@ -38,12 +38,12 @@ most above-ground greenhouses in cold climates still require some supplemental
 heat through deep winter.
 The modular nature of greenhouses makes them easy to extend, retrofit, or
 relocate. They integrate naturally with rainwater catchment, seed-starting
-stations, vermicomposting bins, and cover cropping rotations.
+stations, vermicomposting bins, and [[fukuoka-clover-cover-cropping-soil-ecology]] rotations.
 ## Underground Walipini
 A walipini (from the Aymara word for "place of warmth") is an earth-sheltered
 greenhouse excavated 6-8 feet below grade with a south-facing glazed roof. The
 surrounding earth maintains a constant 50-60°F below the frost line, insulating
-the growing space on the floor and two long walls. A thick, uninsulated north
+the [[cotter-growing-space-design-fruiting-rooms]] on the floor and two long walls. A thick, uninsulated north
 wall built from rammed earth, stone, or concrete block serves as primary thermal
 mass, absorbing daytime solar gain and radiating it back at night.
 Temperature performance is impressive: winter daytime highs reach 60-80°F even
@@ -71,7 +71,7 @@ disease.
 | Construction cost | $2-30/sq ft | $5-15/sq ft plus heavy labor |
 | Construction effort | Low to moderate | High (dig, drainage, walls) |
 | Light exposure | Full, all directions | South-facing only; north opaque |
-| Humidity control | Manageable with ventilation | High humidity; condensation on glazing |
+| [[cervantes-humidity-control-dehumidification]] | Manageable with ventilation | High humidity; condensation on glazing |
 | Siting flexibility | High; many terrain options | Low; needs drainage, southern exposure |
 | Lifespan | 5-20+ years by material | 20+ years if drainage is maintained |
 | Expandability | Easy to extend or add bays | Difficult; size set at excavation |
@@ -120,6 +120,6 @@ Many homesteaders combine elements of both systems:
 ## See Also
 
 - [[greenhouse-design]]
-- [[earth-sheltered-structures-permaculture]]
+- earth-sheltered-structures-permaculture
 - [[comparison-walipini-vs-greenhouse]]
 - [[comparison-duckweed-vs-azolla]]

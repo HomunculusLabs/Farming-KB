@@ -7,7 +7,7 @@ This combination is necessary because DMT is not orally active on its own — it
 
 ### Risks and Contraindications
 
-- **MAOI interactions** — The harmala alkaloids in ayahuasca can interact dangerously with SSRI antidepressants, certain foods (tyramine-rich), and other medications.
+- **MAOI interactions** — The [[turner-harmala-alkaloids-preparation-and-dosage]] in ayahuasca can interact dangerously with SSRI antidepressants, certain foods (tyramine-rich), and other medications.
 - **Cardiovascular effects** — Ayahuasca can increase heart rate and blood pressure.
 - **Psychological risks** — Challenging experiences ("bad trips") can occur, particularly in uncontrolled settings.
 - **Purgative effects** — Nausea, vomiting, and diarrhea are common and culturally considered part of the cleansing process.
@@ -16,7 +16,7 @@ This combination is necessary because DMT is not orally active on its own — it
 
 - [[peyote-and-mescaline]]
 - [[datura-as-hallucinogen]]
-- sacred morning glories and ololiuqui
+- sacred [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] and ololiuqui
 ## Background and Context
 
 Ayahuasca And Banisteriopsis Caapi is an important subject that has garnered significant attention
@@ -145,4 +145,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

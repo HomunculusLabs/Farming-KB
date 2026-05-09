@@ -1,5 +1,5 @@
 ---
-title: Co-Action Analysis and Species Interaction in Guild Design
+title: Co-Action Analysis and Species mollison co action analysis and species interaction in guild design Design
 created: 2026-04-26
 tags:
   - permaculture
@@ -39,7 +39,7 @@ negative (-), or neutral (0).
 Mollison provides detailed [[allegro-death-and-resurrection-in-the-mushroom-cult]]
 case of some pine [[apple-tree-care]]: the walnut
 yields well, but juglones secreted by its roots kill or weaken the
-apple. Similarly, grasses act to weaken most deciduous fruit trees.
+apple. Similarly, grasses act to weaken most deciduous [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]].
 
 ### Commensalism (+o)
 

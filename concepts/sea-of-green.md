@@ -3,7 +3,7 @@ title: Sea of Green (SOG)
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [reference]
@@ -11,23 +11,23 @@ tags: [reference]
 
 # Sea of Green (SOG)
 
-Sea of Green (SOG) is a high-yield indoor cultivation method that maximizes production by growing many small, closely spaced plants harvested frequently rather than fewer large plants. The technique takes its name from the dense, uniform "sea of green" canopy that results when short plants are packed tightly together under grow lights. Cervantes defines SOG as "a method of growing tightly spaced cloned plantlets" that are "flowered almost immediately after rooting for a small yield per plant, but no wasted space."
+Sea of Green (SOG) is a high-yield [[cannabis-sativa-indoor-cultivation-techniques]] method that maximizes production by growing many small, closely spaced plants harvested frequently rather than fewer large plants. The technique takes its name from the dense, uniform "sea of green" canopy that results when short plants are packed tightly together under grow lights. Cervantes defines SOG as "a method of growing tightly spaced cloned plantlets" that are "flowered almost immediately after rooting for a small yield per plant, but no wasted space."
 
 ## Core Concept
 
-SOG exploits the principle that cannabis flower production correlates directly with light interception by the canopy. By keeping plants short and packing them closely, the entire light footprint is filled with bud-producing tops. Rather than growing a few large plants over several months, SOG growers flower dozens or hundreds of small clones, each producing a single main cola. The collective yield of many small plants under optimal lighting often exceeds that of fewer large plants in the same space.
+SOG exploits the principle that [[cervantes-cannabis-flower-anatomy]] production correlates directly with light interception by the canopy. By keeping plants short and packing them closely, the entire light footprint is filled with bud-producing tops. Rather than growing a few large plants over several months, SOG growers flower dozens or hundreds of small clones, each producing a single main cola. The collective yield of many small plants under optimal lighting often exceeds that of fewer large plants in the same space.
 
-The method was popularized by Dutch indoor growers who sought to maximize yield per square meter under HID lighting. In a well-managed SOG garden, Cervantes reports yields of 18.4 ounces per square meter (521 g/m2) using 600-watt lamps, compared to 11.1 ounces per square meter (316 g/m2) with traditional methods -- a 65 percent improvement in space efficiency.
+The method was popularized by Dutch indoor growers who sought to maximize yield per square meter under [[cannabis-hid-lighting-specifications]]. In a well-managed SOG garden, Cervantes reports yields of 18.4 ounces per square meter (521 g/m2) using 600-watt lamps, compared to 11.1 ounces per square meter (316 g/m2) with traditional methods -- a 65 percent improvement in space efficiency.
 
 ## How SOG Works
 
 1. Select uniform clones from a vigorous mother plant
 2. Root clones under 18/6 or 24/0 light in a vegetative/cloning room
-3. Move clones to the flowering room after 1-30 days of vegetative growth
+3. Move clones to the flowering room after 1-30 days of [[cannabis-vegetative-growth-stage]]
 4. Pack plants tightly at 4-6 inch (10-15 cm) centers in small containers
 5. Induce flowering immediately with a 12/12 photoperiod
 6. Harvest on a staggered rotation -- one tray or group every 1-2 weeks
-7. Replace harvested plants with newly rooted clones for perpetual harvest
+7. Replace harvested plants with newly rooted clones for [[cervantes-perpetual-harvest-cycle]]
 
 Cervantes notes that clones flowered at 6-8 inches (15-20 cm) tall will reach 2-3 feet (60-80 cm) by harvest. The entire plant grows flower tops with very few fan leaves when crowded tightly together.
 
@@ -106,7 +106,7 @@ SOG gardens benefit from intense, even lighting. Cervantes reports that a single
 
 ## Integration with Hydroponics
 
-SOG pairs naturally with hydroponic systems. Cervantes notes that in hydroponics, nutrient solution can be precisely controlled so plants grow less leafy foliage and more dense flower buds. The stepped-up nutrient control makes plants flower faster and be ready for harvest a few days earlier than soil-grown cannabis. Passive wick systems, flood and drain, and top-feed active systems all work well with SOG arrangements.
+SOG pairs naturally with hydroponic systems. Cervantes notes that in hydroponics, [[cannabis-nutrient-solution-preparation]] can be precisely controlled so plants grow less leafy foliage and more dense flower buds. The stepped-up nutrient control makes plants flower faster and be ready for harvest a few days earlier than soil-grown cannabis. Passive wick systems, flood and drain, and top-feed active systems all work well with SOG arrangements.
 
 ## See Also
 

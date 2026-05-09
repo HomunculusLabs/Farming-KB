@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and Pain Management"
+title: "Cannabis and cannabis-pain-management-protocols"
 created: 2026-04-28
 tags: [cannabis, pain, analgesic, neuropathic-pain, cb1, cb2, opiate-sparing]
 date: 2026-04-25
@@ -26,13 +26,13 @@ signal cannabinoid receptors to modulate the sensation of pain through
 two primary receptor types:
 
 CB1 receptors are located in the central nervous system (brain and
-spinal cord), controlling information received by the senses and
+[[blesching-cannabis-spinal-cord-injuries]]), controlling information received by the senses and
 enabling response reactions. They are found in brain regions regulating
 motor control, attention, emotion, thinking, habits, and memory.
 
 CB2 receptors cluster in the body's periphery, especially in tissue
 involved in immune responses. The spleen houses a high concentration of
-CB2 receptors, making CB2 engagement important for chronic pain
+CB2 receptors, making CB2 engagement important for [[cannabis-chronic-pain-management]]
 associated with autoimmune diseases.
 
 ## Safety Advantage Over Opiates
@@ -50,7 +50,7 @@ medical literature."
 Cannabinoids cannot replace opiates' strong analgesic properties,
 especially in cases of new trauma or injuries. However, in conjunction
 with a reduced amount of opiates, cannabinoids produce a synergy of
-effective pain control while reducing the risk of adverse effects and
+effective pain control while reducing the risk of [[blesching-cannabis-safety-adverse-effects-evidence]] and
 the habit-forming potential of opiates. Pre-clinical studies indicate
 that delta-9-THC and morphine can be useful in low-dose combination as
 an analgesic.
@@ -74,7 +74,7 @@ dependency in pain reduction. In a randomized, double-blind, placebo-
 controlled trial using capsaicin-induced pain, the medium dose produced
 significant pain reduction at 45 minutes, while the high dose
 significantly increased pain. This illustrates that more is not better:
-exceeding the subjective therapeutic window can actually increase pain.
+exceeding the [[cannabis-subjective-therapeutic-window-dosing]] window can actually increase pain.
 
 ## Inflammatory Pain and CB2
 
@@ -131,4 +131,4 @@ proven efficacy for their pain condition.
 
 The [[blesching-cannabis-inflammatory-diseases]] — cannabis for inflammatory pain conditions including arthritis
 - [[cannabis-health-methods-of-administration]] — dosing routes for pain management applications
-- [[cannabis-health-strains-sativa-indica]] — strain selection guidance for pain conditions
+- [[cannabis-health-strains-sativa-indica]] — [[blesching-cannabis-strain-selection-receptor-targeting]] guidance for pain conditions

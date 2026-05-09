@@ -1,5 +1,5 @@
 ---
-title: MDMA and the Drug Terror Decade of the 1980s
+title: MDMA and the mckenna mdma and drug terror of the 1980s Decade of the 1980s
 created: 2026-04-28
 tags: [mdma, ecstasy, crack-cocaine, drug-war, mckenna, prohibition, psychedelics, history]
 date: 2026-04-28
@@ -85,7 +85,7 @@ Throughout the 1970s and 1980s, the need to deny the impact of the
 sixties took on something of the flavor of a mass obsession. As the
 seventies progressed, the new management agenda became clear: while
 heroin had lost some of its glamour, now there was to be television for
-the poor and cocaine for the rich. This analysis frames drug policy not
+the poor and cocaine for the rich. This analysis frames [[mckenna-modest-proposal-drug-policy-reform]] not
 as public health but as a system of social control, with different
 intoxicants assigned to different socioeconomic strata.
 
@@ -93,15 +93,15 @@ intoxicants assigned to different socioeconomic strata.
 
 McKenna argues that public awareness of drug issues has been lacking
 and public opinion easily manipulated. A worldwide attitude of fear
-toward drugs is being fostered and manipulated by the dominator culture
+toward drugs is being fostered and manipulated by the [[mckenna-dominator-culture-and-suppression-of-ecstasy]]
 and its propaganda organs. Vast illicit fortunes continue to be made;
 government continues to wring its hands. This is but the most recent
 effort to profiteer from and frustrate our species' deeply instinctual
-need to make contact with the Gaian mind of the living planet.
+need to make contact with the [[powell-gaian-mind-and-entheogenic-flora]] of the living planet.
 
 There can be no "Saying No" to drugs; nothing so asinine or preposterous will
 do. Nor can society be led down the primrose path by feel-good
-philosophies that see unbridled hedonism as the Holy Grail of social
+philosophies that see unbridled hedonism as the [[amanita-muscaria-holy-grail-theory-detailed]] of social
 organization. The only reasonable course McKenna proposes is
 decriminalization of drugs, mass education, and shamanism as an
 interdisciplinary and professional approach to these realities.

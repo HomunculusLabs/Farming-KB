@@ -16,7 +16,7 @@ sources:
 
 # Lycoperdon mixtecorum
 
-**Lycoperdon mixtecorum** Heim is a small puffball fungus known only from Oaxaca, Mexico, where it is used by the Mixtec people for its psychoactive properties. It is one of the more obscure psychoactive fungi of Mesoamerica.
+**Lycoperdon mixtecorum** Heim is a small puffball fungus known only from Oaxaca, Mexico, where it is used by the Mixtec people for its psychoactive properties. It is one of the more obscure [[cattle-dispersal-psychoactive-fungi-australia]] of Mesoamerica.
 
 ## Taxonomy and Classification
 
@@ -25,7 +25,7 @@ sources:
 - **Species:** L. mixtecorum
 - **Authority:** Heim
 
-The species was described by the French mycologist Roger Heim, who conducted extensive research on psychoactive mushrooms of Mexico in the mid-20th century. Heim is best known for his work on Psilocybe species and his collaboration with R. Gordon Wasson in documenting the mushroom ceremonies of the Mazatec people.
+The species was described by the French mycologist Roger Heim, who conducted extensive research on psychoactive mushrooms of Mexico in the mid-20th century. Heim is best known for his work on Psilocybe species and his collaboration with R. Gordon Wasson in documenting the [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]] of the Mazatec people.
 
 The specific epithet "mixtecorum" honors the Mixtec people who use the fungus. Some modern taxonomic treatments place Lycoperdon within the family Agaricaceae. The relationship between L. mixtecorum and other Lycoperdon species remains a subject of mycological investigation.
 
@@ -50,7 +50,7 @@ The Mixteca region of Oaxaca is also home to other psychoactive fungi used by in
 ### Mixtec Use
 
 The Mixtec people of Oaxaca employ L. mixtecorum, along with the related [[lycoperdon-marginatum]] — the related puffball used in northern Mexico
-- [[psilocybe-mexicana-entity-the-mushroom-cultivator]] — the classic Mexican psychedelic mushroom
+- [[psilocybe-mexicana-entity-the-mushroom-cultivator]] — the classic Mexican [[archaeology-of-psychedelic-mushroom-use]]
 - [[lophophora-williamsii]] — Peyote, the most famous Mexican visionary plant
 - [[lycoperdon-perlatum]]
 ## Practical Considerations
@@ -69,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

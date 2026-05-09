@@ -1,5 +1,5 @@
 ---
-title: "Seaweed Extract vs Fish Hydrolysate — Organic Liquid Fertilizer Comparison"
+title: "comparison seaweed extract vs fish hydrolysate vs Fish Hydrolysate — Organic Liquid Fertilizer Comparison"
 created: 2026-04-28
 tags:
   - organic-fertilizer
@@ -14,7 +14,7 @@ sources:
   - Crouch, I.J., and van Staden, J. (1993). "Effect of seaweed concentrates on the establishment and yield of greenhouse tomato plants." *Journal of Applied Phycology*, 5(1): 9-14.
   - Khan, W. et al. (2009). "Seaweed extracts as biostimulants of plant growth and development." *Journal of Plant Growth Regulation*, 28(4): 386-399.
   - Eyras, M.C. et al. (2008). "Biological evaluation of seaweed composting." *Journal of Applied Phycology*, 20(3): 287-293.
-  - Schmid, R. (2014). "Fish Amino Acids as Organic Fertilizer." *ACIAR Proceedings*, 137: 132-138.
+  - Schmid, R. (2014). "Fish Amino Acids as [[complete-organic-fertilizer-cof-recipe-solomon]]." *ACIAR Proceedings*, 137: 132-138.
   - Zodape, S.T. et al. (2010). "Seaweed sap as biostimulant for rice." *Journal of Plant Nutrition*, 33(12): 1748-1757.
   - Muscolo, A. et al. (2013). "Vegetable-based protein hydrolysates as biostimulants." *Scientia Horticulturae*, 164: 442-450.
   - Welbaum, G.E. et al. (2018). "Biostimulants in horticulture." *Scientia Horticulturae*, 236: 1-2.
@@ -42,7 +42,7 @@ Both seaweed extract and fish hydrolysate are popular organic liquid fertilizers
 | **Trace minerals** | Rich in iodine, selenium, natural chelates | Rich in calcium, phospholipids |
 
 ### Key Differences
-Seaweed extracts are derived mainly from brown algae (*Ascophyllum nodosum*, *Ecklonia maxima*, *Sargassum* spp.) and contain a broad spectrum of trace elements absorbed from seawater. Their NPK numbers are low — they are not a replacement for macronutrient fertilizers. Fish hydrolysate, produced by enzymatic breakdown of fish frames and offal, delivers meaningful nitrogen along with a full complement of amino acids, making it a legitimate nitrogen source in organic programs.
+Seaweed extracts are derived mainly from brown algae (*Ascophyllum nodosum*, *Ecklonia maxima*, *[[sargassum]]* spp.) and contain a broad spectrum of trace elements absorbed from seawater. Their NPK numbers are low — they are not a replacement for macronutrient fertilizers. Fish hydrolysate, produced by enzymatic breakdown of fish frames and offal, delivers meaningful nitrogen along with a full complement of amino acids, making it a legitimate nitrogen source in organic programs.
 
 ## Phytohormones and Bioactive Compounds
 
@@ -52,10 +52,10 @@ Seaweed extract is valued above all for its natural plant hormones and bioactive
 
 - **Cytokinins** — promote cell division, delay leaf senescence, and improve fruit set
 - **Auxins** — stimulate root development and elongation (especially in *Ecklonia*-based products)
-- **Abscisic acid** — helps plants manage drought and temperature stress
-- **Betaines** — osmoprotectants that improve salt and drought tolerance
-- **Alginates and mannitol** — natural chelators that improve nutrient availability and soil structure
-- **Polyphenols and fucoidans** — antimicrobial properties that may suppress soil-borne pathogens
+- **Abscisic acid** — helps plants manage [[mycorrhizal-drought-and-temperature-tolerance]] stress
+- **Betaines** — osmoprotectants that improve salt and [[dighton-fungal-drought-tolerance-plant-water-relations]]
+- **Alginates and mannitol** — natural chelators that improve [[ph-and-nutrient-availability-garden-soils]] and soil structure
+- **Polyphenols and fucoidans** — [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] that may suppress soil-borne pathogens
 
 ### Fish Hydrolysate
 

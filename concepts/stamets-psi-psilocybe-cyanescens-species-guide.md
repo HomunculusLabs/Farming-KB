@@ -1,20 +1,14 @@
 ---
 title: psilocybe-cyanescens Species Guide
 created: 2026-04-28
-tags: [[mycology, psilocybe, species-guide, pacific-northwest]
+tags: [mycology, psilocybe, species-guide, pacific-northwest]
 date: 2026-04-25
 updated: 2026-04-25
-sources: ["raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"]
+sources: sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
-
-# Psilocybe cyanescens Species Guide
-
-## Overview
-
-Wakefield, commonly known as "cyans," "blue
-halos," or the "wavy-capped Psilocybe," is a moderately to highly
-potent [[andrew-weil]]
+# Psilocybe cyanescens Species Guide ## Overview Wakefield, commonly known as "cyans," "blue halos," or the "wavy-capped Psilocybe," is a moderately to highly potent [[andrew-weil]]
 (1975, 1977) brought this mushroom to the forefront of awareness after
 collecting it in Oregon.
 
@@ -56,7 +50,7 @@ an extended single or split neck.
 The original descriptions of P. cyanescens consistently note that
 pleurocystidia are absent, or if present only near the gill edge
 (Wakefield 1946; Singer and Smith 1958; Guzman 1983). However, Stamets
-notes that scanning electron microscope studies of Pacific Northwest
+notes that scanning [[bloomfield-ascospore-extreme-resilience-electron-microscope-survival]] studies of Pacific Northwest
 collections reveal abundant, capitate pleurocystidia. If the presence
 of pleurocystidia is accepted as taxonomically significant, the
 description of this species needs to be emended, or a new taxon
@@ -65,11 +59,11 @@ described.
 ## Habitat and Distribution
 
 P. cyanescens grows scattered to gregarious in humus enriched with
-woody debris, amongst leaves and twigs, in wood chips, sawdust, or in
-debris fields rich with rotting wood. Often found under mixed woods at
+[[fungal-succession-woody-debris-ecology]], amongst leaves and twigs, in [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]], sawdust, or in
+[[mushroom-debris-fields-and-ecological-succession]] rich with rotting wood. Often found under mixed woods at
 the edges of lawns, along paths, and in heavily mulched rhododendron
 and rose gardens. Found in the fall to early winter in the Pacific
-Northwest. Reported from western coastal regions between San Francisco,
+Northwest. Reported from western coastal regions between [[shipibo-san-francisco-ceremonial-center-ucayali]],
 California, to southern Alaska, and also widely spread throughout the
 United Kingdom and across much of temperate Europe (Italy, Germany,
 Spain, Sweden).
@@ -104,7 +98,7 @@ the lack of a distinct umbo. Other related species include,,,
 ## Ecological Significance
 
 P. cyanescens is an important decomposer of woody debris in temperate
-coastal ecosystems. Its preference for wood chip mulch means it has
+coastal ecosystems. Its preference for wood [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] means it has
 expanded its range considerably alongside human landscaping practices.
 The species forms extensive [[spore-print]]
 - Habitat in wood chips, sawdust, or woody garden debris
@@ -115,6 +109,9 @@ print and verify microscopic features before consuming any wild
 mushroom.
 
 ## See Also
+
+- [[psilocybe-natalensis-african-species]]
+- [[stamets-psi-psilocybe-stuntzii-blue-ringers]]
 
 - [[stamets-psi-psilocybe-cubensis-species-guide]]
 - [[stamets-psi-psilocybe-azurescens-species-guide]]

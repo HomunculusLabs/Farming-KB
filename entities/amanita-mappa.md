@@ -21,7 +21,7 @@ created: 2026-04-28
 
 ## Overview
 
-Amanita mappa is a basidiomycete fungus in the family Amanitaceae, commonly known as the false parasol or European false death cap.
+Amanita mappa is a basidiomycete fungus in the family Amanitaceae, commonly known as the false parasol or European false [[query-how-to-identify-and-avoid-the-death-cap-amanita-phalloides]].
 
 It is closely related to and frequently confused with *Amanita phalloides*, the death cap, which is responsible for the majority of fatal mushroom poisonings worldwide.
 
@@ -69,7 +69,7 @@ Basidia are clavate, four-spored, 35–45 × 10–14 μm. Cheilocystidia are abu
 
 Amanita mappa is found across temperate Europe, particularly in the Mediterranean region, France, Italy, and the Iberian Peninsula.
 
-It also occurs in parts of North Africa and has been reported from eastern North America, though records there may represent distinct taxa.
+It also occurs in parts of North Africa and has been reported from [[polypore-fungi-eastern-north-america]] America, though records there may represent distinct taxa.
 
 The species forms ectomycorrhizal associations with broadleaf trees, especially oaks (*Quercus* spp.), beech (*Fagus* spp.), and chestnut (*Castanea* spp.).
 
@@ -97,11 +97,11 @@ Amanita mappa is most easily confused with *A. phalloides*, from which it differ
 
 *Amanita citrina*, the false death cap, is non-lethal but shares the general amanita habit; it has a strong phenolic or raw potato odor that aids identification.
 
-*Amanita virosa*, the destroying angel, is another deadly amanita that can be distinguished by its entirely white cap and more elongated stipe.
+*[[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]*, the destroying angel, is another deadly amanita that can be distinguished by its entirely white cap and more elongated stipe.
 
 ## Ecology and Role
 
-As an ectomycorrhizal fungus, *Amanita mappa* plays a significant role in forest nutrient cycling by facilitating nutrient exchange between tree roots and soil.
+As an ectomycorrhizal fungus, *Amanita mappa* plays a significant role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between tree roots and soil.
 
 The species contributes to phosphorus and nitrogen uptake by host trees in exchange for photosynthetically derived carbohydrates.
 
@@ -111,7 +111,7 @@ The fruiting bodies are occasionally consumed by slugs and insect larvae, though
 
 ## Cultural and Historical Notes
 
-*Amanita mappa* was historically included in early European mycological texts as a poisonous species to be avoided during mushroom foraging.
+*Amanita mappa* was historically included in early European mycological texts as a poisonous species to be avoided during [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]].
 
 In regions where it co-occurs with *A. phalloides*, the two species are often discussed together in field guides and foraging manuals as a cautionary group.
 

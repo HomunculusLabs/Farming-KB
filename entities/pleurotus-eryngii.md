@@ -14,8 +14,8 @@ sources:
   - Zadrazil, F. (1978). "The ecology and industrial production of Pleurotus ostreatus." Mushroom Science X(1): 621-628.
   - Sánchez, C. (2010). "Cultivation of Pleurotus ostreatus and other edible mushrooms." Applied Microbiology and Biotechnology 85(5): 1321-1337.
   - Royse, D.J. et al. (2017). "Sixteen years of cultivation of Pleurotus spp. on tree leaves." Mushroom Science 15(1): 381-388.
-  - Stamets, P. (2000). Growing Gourmet and Medicinal Mushrooms. 3rd ed. Ten Speed Press.
-  - Oei, P. (2003). Mushroom Cultivation with Special Emphasis on Appropriate Techniques for Developing Countries. TOOL Publications.
+  - Stamets, P. (2000). Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]. 3rd ed. Ten Speed Press.
+  - Oei, P. (2003). [[accessible-mushroom-cultivation-for-disabilities]] with Special Emphasis on Appropriate Techniques for Developing Countries. TOOL Publications.
 ---
 
 ## Overview
@@ -74,7 +74,7 @@ King oyster mushrooms are cultivated commercially on supplemented straw, sawdust
 
 **Fruiting conditions:** 12–18°C, 85–95% humidity, 500–1000 lux light, fresh air exchange of 4–6 air changes per hour. CO₂ below 800 ppm promotes normal cap development; higher CO₂ produces elongated stipes (intentionally done in commercial production for premium appearance).
 
-**Yield:** Biological efficiency of 60–100% over 2–3 flushes. First flush typically accounts for 60–70% of total yield.
+**Yield:** [[stamets-biological-efficiency-yield]] of 60–100% over 2–3 flushes. First flush typically accounts for 60–70% of total yield.
 
 ## Bioactive Compounds
 
@@ -106,8 +106,8 @@ King oyster mushrooms integrate well into permaculture systems as both a food cr
 
 - **Straw bale cultivation:** Spent straw from grain production can be directly inoculated, turning agricultural waste into food and compost.
 - **Food forest integration:** Can be grown on chipped branch prunings from forest garden trees, particularly hardwoods.
-- **Companion planting synergy:** The spent substrate makes excellent mulch or soil amendment with residual fungal biomass and enzymes.
-- **Mycelial networks:** When grown in-ground on buried substrate, the mycelium connects with surrounding soil ecology, improving soil structure and nutrient cycling.
+- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] synergy:** The spent substrate makes excellent mulch or soil amendment with residual fungal biomass and enzymes.
+- **[[fungal-mycelial-networks-nutrient-translocation]]:** When grown in-ground on buried substrate, the mycelium connects with surrounding soil ecology, improving soil [[root-anatomy-structure-and-nutrient-uptake]] cycling.
 - **Stacked functions:** Produces food while simultaneously decomposing organic matter, making it a high-value element in zone 1–2 permaculture designs.
 
 ## See Also
@@ -115,5 +115,5 @@ King oyster mushrooms integrate well into permaculture systems as both a food cr
 - [[staycare-bjerkandera-and-pleurotus-in-pollutant-degradation]]
 - [[pleurotus-ostreatus]]
 - [[hericium-erinaceus]]
-- [[permaculture]]
+- permaculture
 - [[ergothioneine]]

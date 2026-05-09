@@ -1,17 +1,18 @@
 ---
-title: Giannozzo Pucci Italian Natural Farming Camp
+title: fukuoka giannozzo pucci italian natural farming camp Italian comparison-natural-farming-vs-permaculture Camp
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [regenerative, person]
-sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Giannozzo Pucci Italian Natural Farming Camp
 
 updated: 2026-04-18
 
-During his European travels, Masanobu Fukuoka spent a week at the
+During his [[fukuoka-european-travels-natural-farming]], Masanobu Fukuoka spent a week at the
 estate of Giannozzo Pucci, publisher of the Italian edition of The
 One-Straw Revolution, in a rural area between Florence and the hills
 of Tuscany.
@@ -43,7 +44,7 @@ Japan.
 
 ## Practical Instruction
 
-Along with practical instruction in the production of fruit trees and
+Along with practical instruction in the production of [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and
 vegetables, Fukuoka spoke about Christ, philosophy, and other topics.
 Communication was complex: Fukuoka spoke and drew his philosophical
 cartoons on large sheets of paper with a brush. A young Japanese woman
@@ -98,6 +99,8 @@ immediately offered to translate The Natural Way of Farming into
 Italian.
 
 ## See Also
+
+- [[fukuoka-legionnaire-shoes-italian-commune]]
 
 - [[fukuoka-dragonfly-as-messiah-natural-salvation]]
 

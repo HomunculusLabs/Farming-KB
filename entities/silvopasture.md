@@ -21,7 +21,7 @@ sources:
 
 # Silvopasture
 
-**Silvopasture** is an integrated agroforestry practice that deliberately combines trees, forages (pasture and/or hay), and livestock on the same land management unit. One of the five recognized agroforestry practices (alongside alley cropping, forest farming, riparian buffers, and windbreaks), silvopasture creates multi-strata production systems that generate tree crops, animal products, and forage simultaneously while providing ecosystem services that exceed those of conventional pasture or tree monocultures. Project Drawdown ranks silvopasture among the top climate change mitigation strategies, with estimated global mitigation potential of 26.5–42.3 gigatons CO₂ equivalent by 2050.
+**Silvopasture** is an integrated agroforestry practice that deliberately combines trees, forages (pasture and/or hay), and livestock on the same land management unit. One of the five recognized agroforestry practices (alongside [[comparison-alley-cropping-vs-silvopasture]], forest farming, riparian buffers, and windbreaks), silvopasture creates multi-strata production systems that generate tree crops, animal products, and forage simultaneously while providing [[biodiversity-of-fungi-ecosystem-services-agriculture]] that exceed those of conventional pasture or tree monocultures. Project Drawdown ranks silvopasture among the top [[dighton-fungi-climate-change-feedback]] mitigation strategies, with estimated global mitigation potential of 26.5–42.3 gigatons CO₂ equivalent by 2050.
 
 ## Definition and Scope
 
@@ -61,7 +61,7 @@ Silvopasture is among the oldest land-use practices, predating agriculture:
 ### Tree Layout and Spacing
 Optimal tree spacing balances timber/nut production with forage productivity:
 
-- **Wide spacing (15–20 m):** Minimal forage reduction; 50–100 trees/ha
+- **[[solomon-wide-spacing-versus-intensive-gardening-debate]] (15–20 m):** Minimal forage reduction; 50–100 trees/ha
 - **Moderate spacing (8–12 m):** Balanced production; 70–150 trees/ha
 - **Narrow spacing (4–8 m):** Maximum tree production; forage restricted to shade-tolerant species; 150–600 trees/ha
 - **Row arrangements:** Single rows, double rows, or scattered patterns depending on equipment access needs
@@ -79,7 +79,7 @@ Pasture species must tolerate reduced light (typically 50–70% of full sun):
 
 **Cattle:** Most common; compatible with most tree species; manage stocking density to prevent compaction.
 **Sheep/goats:** Effective understory control; goats browse woody regrowth (protect young trees).
-**Poultry:** Chickens/ducks provide insect control, manure distribution, and egg production; break parasite cycles for ruminants.
+**Poultry:** Chickens/ducks provide [[mushroom-pests-insect-control-stamets]], manure distribution, and egg production; break parasite cycles for ruminants.
 **Pigs:** Compatible with nut systems (chestnut, oak); manage rooting to prevent tree damage.
 
 ## Environmental Benefits
@@ -141,4 +141,4 @@ Multiple simultaneous revenue streams:
 - [[food-forest]] — agroforestry system focused on food production
 - [[robinia-pseudoacacia]] — nitrogen-fixing fodder tree for silvopasture
 - [[swale]] — water harvesting earthwork for silvopasture systems
-- [[three-sisters]] — companion planting model applicable to silvopasture understory
+- three-sisters — [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] model applicable to silvopasture understory

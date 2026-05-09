@@ -1,5 +1,5 @@
 ---
-title: Good Friday Experiment (Marsh Chapel)
+title: Good good friday experiment marsh chapel (Marsh Chapel)
 created: 2026-04-17
 updated: 2026-04-18
 type: concept
@@ -12,13 +12,13 @@ sources:
 
 The Good Friday Experiment, also known as the Marsh Chapel Miracle, stands as one of the most significant and controversial psychological studies ever conducted.
 
-It demonstrated that a naturally occurring compound could reliably induce genuine mystical experiences indistinguishable from those described in religious literature.
+It demonstrated that a naturally occurring compound could reliably induce genuine [[psilocybin-mystical-experiences-personality-change]] indistinguishable from those described in religious literature.
 
 ## Background and Origin
 
 The experiment was conducted on Good Friday, April 20, 1962, at Boston University's Marsh Chapel.
 
-It was designed by Walter Pahnke, a graduate student in psychology at Harvard University, working under the supervision of Timothy Leary and other members of the [[psilocybin-compound-profile]] could produce experiences meeting the criteria for genuine mystical experience as defined by the philosophy of William James and described in the writings of mystics across religious traditions.
+It was designed by Walter Pahnke, a graduate student in psychology at Harvard University, working under the supervision of Timothy Leary and other members of the [[psilocybin-compound-profile]] could produce experiences meeting the criteria for genuine mystical experience as defined by the philosophy of [[metzner-william-james-radical-empiricism-multiple-consciousness]] and described in the writings of mystics across religious traditions.
 
 The timing was deliberate: Good Friday is among the most solemn and spiritually charged days in the Christian calendar, providing a maximally receptive setting for participants who were all theology students.
 
@@ -68,7 +68,7 @@ The psilocybin group scored significantly higher on every dimension measured, in
 
 ## The 25-Year Follow-Up Study
 
-In the late 1980s, Rick Doblin, president of the Multidisciplinary Association for Psychedelic Studies (MAPS), conducted a follow-up study of nineteen of the twenty original participants.
+In the late 1980s, Rick Doblin, president of the [[maps-multidisciplinary-association-for-psychedelic-studies]] for Psychedelic Studies (MAPS), conducted a follow-up study of nineteen of the twenty original participants.
 
 By this time many of the subjects had become practicing ministers or reverends.
 
@@ -100,7 +100,7 @@ The Good Friday Experiment remains a landmark study for several reasons.
 
 It was among the first attempts to bring rigorous scientific methodology to the study of mystical and religious experience.
 
-It demonstrated that [[psilocybin-clinical-trials]] at institutions like Johns Hopkins, which have replicated and extended its findings with far more sophisticated measurement tools including brain imaging technology.
+It demonstrated that [[psilocybin-clinical-trials]] at institutions like Johns Hopkins, which have replicated and extended its findings with far more sophisticated measurement tools including [[neurochemical-probes-brain-imaging-pihkal]] technology.
 
 ## Relationship to Modern Research
 

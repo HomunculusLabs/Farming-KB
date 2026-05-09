@@ -14,11 +14,11 @@ John H. Halpern's 2004 review article in *Pharmacology & Therapeutics* provides 
 
 ## DMT-Containing Plants
 
-Several common US plants contain appreciable amounts of [[beta-carboline-chemistry]] combines DMT-containing plants with MAOI-rich Banisteriopsis caapi vine, comparable preparations can theoretically be made from US-sourced plants using Peganum harmala (Syrian rue, 2-4% MAOI by dry weight, introduced to the western US) or [[psilocybin-mushrooms-and-ecology]] (*Psilocybe cubensis* and other species) grow throughout much of the United States. They are coprophagous, found on cow and horse manure from Florida through the southern Gulf States to Texas, in grain fields, and along the Pacific Northwest coastline from California into Canada.
+Several common US plants contain appreciable amounts of [[beta-carboline-chemistry]] combines DMT-containing plants with MAOI-rich Banisteriopsis caapi vine, comparable preparations can theoretically be made from US-sourced plants using [[mckenna-food-gods-peganum-harmala-soma]] (Syrian rue, 2-4% MAOI by dry weight, introduced to the western US) or [[psilocybin-mushrooms-and-ecology]] (*[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* and other species) grow throughout much of the United States. They are coprophagous, found on cow and horse manure from Florida through the southern Gulf States to Texas, in grain fields, and along the Pacific Northwest coastline from California into Canada.
 
-The most common species, *Psilocybe cubensis*, typically contains 10-12 mg psilocybin per gram dried mushroom. Psilocybin is metabolized in the gut into [[peyote-ceremony-guide]] (NAC) has approximately 300,000 members and holds constitutionally protected sacramental peyote ceremonies.
+The most common species, *Psilocybe cubensis*, typically contains 10-12 mg psilocybin per gram dried mushroom. Psilocybin is metabolized in the gut into [[peyote-ceremony-guide]] (NAC) has approximately 300,000 members and holds constitutionally protected [[halpern-sacramental-peyote-and-native-american-church]] ceremonies.
 
-Two South American cacti widely grown as ornamentals in the US also contain mescaline: *Trichocereus pachanoi* (San Pedro, 0.33-2.375% mescaline) and *Trichocereus peruvianus* (Peruvian torch, 0-0.82%). These are readily available from garden shops and are typically boiled into a soup for ingestion.
+Two [[chiric-caspi-brunfelsia-south-american-hallucinogen]] cacti widely grown as ornamentals in the US also contain mescaline: *Trichocereus pachanoi* (San Pedro, 0.33-2.375% mescaline) and *Trichocereus peruvianus* (Peruvian torch, 0-0.82%). These are readily available from garden shops and are typically boiled into a soup for ingestion.
 
 ## Salvia divinorum
 
@@ -36,7 +36,7 @@ The UDV obtained a preliminary injunction barring DEA enforcement against their 
 
 ## Public Health Implications
 
-Halpern argues that drug education should expand to cover these botanical sources, many of which can be located by determined individuals growing wild or in gardens. While recreational abuse of most reviewed plants remains minimal compared to cocaine or opiates, the rise of [[mescaline-peyote-and-san-pedro-guide]]
+Halpern argues that drug education should expand to cover these [[dmt-botanical-sources-pharmacology]], many of which can be located by determined individuals growing wild or in gardens. While recreational abuse of most reviewed plants remains minimal compared to cocaine or opiates, the rise of [[mescaline-peyote-and-san-pedro-guide]]
 - [[datura-metel-old-world-ethnobotany]]
 - [[richard-evans-schultes-updated]]
 - [[hallucinogenic-mushrooms-european-trends]]
@@ -56,7 +56,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -98,4 +98,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -33,7 +33,7 @@ A professional soil test (such as Timberleaf, which specializes
 in organic/Biointensive fertility) provides the most complete
 evaluation of pH along with all major and trace minerals, and
 the soil's physical characteristics. Only a professional test
-can determine the soil's full mineral balance, which is essential
+can determine the soil's full [[holmgren-mineral-balance-soil-fertility]], which is essential
 before applying pH modifiers. The service can also provide
 follow-up review and advice based on your garden experience.
 
@@ -51,7 +51,7 @@ At different pH levels, different nutrients become more or less
 available to plants. In highly acidic or alkaline soils, essential
 nutrients may be locked in unavailable forms even when present in
 the soil. Additionally, pH affects microbial activity—soil
-organisms that decompose organic matter and make nutrients
+organisms that decompose [[hamilton-composting-and-organic-matter-management]] and make nutrients
 available function best within specific pH ranges. Extreme pH
 values can also damage soil structure.
 
@@ -77,12 +77,12 @@ is critical:
 - **Mined sulfur**: An excellent amendment to lower pH and a
   soil nutrient deficient in many soils. Sulfur is practical
   and effective for reducing alkalinity.
-- **Leaf mold, pine needles, and sawdust**: These produce
+- **[[comparison-leaf-mold-composting-vs-hot-composting-method]], pine needles, and sawdust**: These produce
   acidic compost that can lower pH over time when incorporated
-  into the compost pile and then applied to soil.
+  into the [[mushroom-cultivator-compost-pile-management]] and then applied to soil.
 - **Special leaf or pine needle compost**: Can be used to make
   soil less alkaline when applied as part of [[jeavons-compost-functions-soil-building]] is so
-important in the GROW BIOINTENSIVE system—it provides pH
+important in the [[jeavons-grow-biointensive-method-overview]] system—it provides pH
 buffering alongside its many other soil-building functions.
 Manures may be alkaline and raise pH, though they may lower pH
 one point in some cases. Compost itself can be either acidic or
@@ -118,7 +118,7 @@ For accurate pH management, you need to know:
 Apply pH modifiers only as indicated by soil test results. Over-
 application can be as damaging as deficiency. After application,
 retest periodically to monitor changes. The biogeologic cycle—
-where humic acid from compost and carbonic acid from roots
+where [[comparison-humic-acid-vs-fulvic-acid]] from compost and carbonic acid from roots
 gradually modify soil chemistry—works slowly but persistently,
 making patience essential in pH management.
 

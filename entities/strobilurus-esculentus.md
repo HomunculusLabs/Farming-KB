@@ -54,7 +54,7 @@ Cystidia on gill edges are cylindrical to clavate, sometimes with a mucronate ti
 
 ## Distribution and Habitat
 
-*S. esculentus* is widely distributed across temperate Europe and parts of North America.
+*S. esculentus* is widely distributed across temperate Europe and parts of [[psilocybin-north-america-pacific-northwest]].
 
 It fruits almost exclusively on fallen cones of Scots pine (*Pinus sylvestris*) and occasionally other *Pinus* species.
 
@@ -68,7 +68,7 @@ It is typically found in coniferous and mixed woodlands on acidic soils.
 
 The species is a primary saprotroph, decomposing the lignin and cellulose-rich tissues of pine cone scales.
 
-It plays a minor but specialized role in conifer litter decomposition cycles.
+It plays a minor but specialized role in conifer [[dighton-pine-needle-litter-decomposition-fungal-succession]] cycles.
 
 Pine cones decompose slowly compared to needles, and *Strobilurus* species accelerate this process by breaking down the tougher scale tissues.
 
@@ -88,7 +88,7 @@ Culinary use is limited to occasional inclusion in mixed mushroom dishes where f
 
 No cases of toxicity have been reported, and the species is not known to contain amatoxins or other dangerous compounds.
 
-As with all wild mushrooms, positive identification is essential before consumption.
+As with all [[edible-wild-mushrooms-by-region]], positive identification is essential before consumption.
 
 Similar-looking small mushrooms fruiting on woody debris should be ruled out, particularly toxic species of *Galerina*.
 
@@ -98,7 +98,7 @@ Similar-looking small mushrooms fruiting on woody debris should be ruled out, pa
 
 *S. stephanocystis* has conspicuous crystalline cystidia on its gill edges, a feature absent in *S. esculentus*.
 
-*S. trullisatus* is a North American species found on Douglas-fir cones, not known from Europe.
+*S. trullisatus* is a [[growing-gourmet-north-american-reishi-species]] species found on Douglas-fir cones, not known from Europe.
 
 The genus *Baeospora* contains species that also fruit on conifer cones, but these have distinctly different spore ornamentation under scanning electron microscopy.
 
@@ -106,9 +106,9 @@ The genus *Baeospora* contains species that also fruit on conifer cones, but the
 
 There is no established commercial cultivation protocol for *Strobilurus esculentus*.
 
-Its requirement for partially decomposed pine cones in natural forest conditions makes indoor cultivation impractical.
+Its requirement for partially decomposed pine cones in natural forest conditions makes [[cannabis-sativa-indoor-cultivation-techniques]] impractical.
 
-Hobby cultivators have reported limited success by inoculating sterilized pine cones with spore or tissue culture, but yields are negligible.
+Hobby cultivators have reported limited success by inoculating sterilized pine cones with spore or [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]], but yields are negligible.
 
 The species is primarily of interest to mycologists and ecological surveyors rather than commercial growers.
 

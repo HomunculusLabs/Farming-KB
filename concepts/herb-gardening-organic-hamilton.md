@@ -11,10 +11,10 @@ sources: [/Users/t3rpz/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gard
 
 Updated: 2026-04-18
 
-Herbs should always be included in the organic garden, for both practical and aesthetic reasons. They are generally not difficult to grow, most are extremely decorative, they help attract useful predators to the garden, and those insects -- such as bees -- needed for pollination in the [[organic-garden-soil-preparation]], or one of the alternatives. Since most herbs prefer a soil pH of 7.0 to 7.5, spent mushroom compost is ideal.
+Herbs should always be included in the organic garden, for both practical and aesthetic reasons. They are generally not difficult to grow, most are extremely decorative, they help attract useful predators to the garden, and those insects -- such as bees -- needed for pollination in the [[organic-garden-soil-preparation]], or one of the alternatives. Since most herbs prefer a soil pH of 7.0 to 7.5, [[staycare-spent-mushroom-compost-bioremediation]] compost is ideal.
 
 ### Raised Beds for Wet Soils
-The one thing most herbs cannot stand is bad drainage. If soil is wet and heavy and cannot be improved by deep digging or the inclusion of coarse sand and organic matter, build a [[query-what-is-fish-hydrolysate-and-how-do-i-use-it-as-fertilizer]] per square yard/meter about two weeks before planting. Use bone meal alone before fall and winter plantings.
+The one thing most herbs cannot stand is bad drainage. If soil is wet and heavy and cannot be improved by deep digging or the inclusion of coarse sand and [[hamilton-composting-and-organic-matter-management]], build a [[query-what-is-fish-hydrolysate-and-how-do-i-use-it-as-fertilizer]] per square yard/meter about two weeks before planting. Use bone meal alone before fall and winter plantings.
 
 ## Maintenance
 
@@ -34,7 +34,7 @@ Some herbs like lavender and thyme must be trimmed back after flowering to keep 
 Watch carefully for self-sown seedlings. Plants like borage, mint, and especially feverfew can completely take over if seedlings are allowed to grow unchecked.
 
 ### Propagation
-- **Perennial herbs**: Dig up and divide in fall and early winter, or early spring.
+- **Perennial herbs**: Dig up and divide in fall and early winter, or [[coleman-overwintered-onions-and-early-spring-crops]].
 - **Shrubby herbs** (rosemary, bay, lavender): Propagate from softwood cuttings in early summer.
 
 ## Essential Herb Collection
@@ -62,12 +62,12 @@ Watch carefully for self-sown seedlings. Plants like borage, mint, and especiall
 - **Herbal teas**: Many herbs make refreshing infusions
 - **Potpourri**: Dried herbs for fragrance
 - **Homemade cosmetics**: Herbal preparations for skin and body care
-- **Dyeing fabric**: Some herbs yield natural dyes
+- **Dyeing fabric**: Some herbs [[fukuoka-textdoc-ideal-rice-morphology-high-yield-natural-farming]] dyes
 - **Comfrey**: Especially useful as fast-growing mulching-techniques|mulching material and can be made into high-potash liquid manure
 
 ## Source
-- Hamilton, Geoff & Nick Hamilton. "Organic Gardening." The Herb Garden section, pp. 237-245.
-- [[gaias-garden-fruit-tree-selection]]
+- Hamilton, Geoff & Nick Hamilton. "[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]." The Herb Garden section, pp. 237-245.
+- gaias-garden-fruit-tree-selection
 - [[hamilton-garden-planning-and-site-assessment]]
 ## Practical Considerations
 
@@ -88,3 +88,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[herb-gardening-organic]]

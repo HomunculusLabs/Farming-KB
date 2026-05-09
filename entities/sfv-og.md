@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Greenhouse Seed Co. (2010). "The Green House Seed Co. Strain Guide." Green House Seeds.
-  - Leafly Staff (2023). "SFV OG Cannabis Strain Information." Leafly.com.
+  - Leafly Staff (2023). "SFV OG [[blesching-cannabis-strain-selection-receptor-targeting]] Information." Leafly.com.
   - AllBud (2023). "SFV OG Kush Strain Review." AllBud.com.
   - Soft Secrets (2019). "OG Kush Family Tree: Untangling the Lineage." Soft Secrets Magazine.
 ---
@@ -37,7 +37,7 @@ seeking relief from pain, insomnia, and anxiety.
 
 ## Lineage
 
-SFV OG is a phenotype selection from OG Kush, itself a complex hybrid of
+SFV OG is a [[vic-high-cannabis-phenotype-selection-criteria]] from OG Kush, itself a complex hybrid of
 debated origin. The most widely accepted lineage traces OG Kush to a Chemdawg
 cut crossed with a Lemon Thai x Hindu Kush hybrid, though alternative
 theories exist.
@@ -61,7 +61,7 @@ under magnification.
 
 Coloration ranges from bright to forest green with occasional yellowish-green
 leaves. Pistils are orange to copper-colored and relatively sparse compared
-to the dense glandular trichome coverage. The overall visual impression is of
+to the dense [[cannabis-glandular-trichome-types-resin-production-clarke]] coverage. The overall visual impression is of
 a classic OG Kush phenotype: compact, resinous, and heavy in the hand.
 
 The flowers produce a sticky, resinous coating that clings to surfaces and
@@ -115,7 +115,7 @@ calm and mildly euphoric without significant psychoactive intensity.
 **Duration:** 2–3 hours, with sedative aftereffects persisting for an
 additional 1–2 hours.
 
-**Medical applications:** Widely used for chronic pain management, insomnia,
+**Medical applications:** Widely used for [[cannabis-chronic-pain-management]] management, insomnia,
 muscle spasms, anxiety, and stress-related disorders. The strong body effects
 make it particularly effective for nighttime use and conditions requiring deep
 physical relaxation.
@@ -127,7 +127,7 @@ particularly in inexperienced users or those sensitive to THC.
 ## Cultivation
 
 **Difficulty:** Moderate. SFV OG is best suited to experienced growers
-comfortable with nutrient management and environmental control.
+comfortable with [[green-cannabis-grow-bible-nutrient-management-ppm]] and [[eclss-environmental-control-life-support]].
 
 **Flowering time:** 8–9 weeks indoors. Outdoor harvest in mid-October
 (Mediterranean climates).
@@ -139,8 +139,6 @@ the dense bud structure and the plant's sensitivity to environmental stress.
 nitrogen. It responds well to low-stress training (LST) and scrog methods.
 Temperature should be maintained below 27°C (80°F) during flowering to
 prevent terpene degradation. Plants develop strong, skunky odor during late
-flowering — carbon filtration is essential for discreet indoor cultivation.
-
 ## See Also
 
 - [[chemdawg]] — Ancestor contributing to the OG Kush genetic background

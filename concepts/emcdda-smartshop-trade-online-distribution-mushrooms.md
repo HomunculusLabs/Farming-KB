@@ -26,13 +26,13 @@ sources:
 The EMCDDA 2006 case study documents the emergence and rapid expansion of a
 commercial market for hallucinogenic mushrooms in Europe during the late 1990s
 and early 2000s, centered on Dutch smartshops and later expanding through
-online retail. This market existed in a legal grey area until successive
+[[emcdda-hallucinogenic-mushroom-online-retail-shops]]. This market existed in a legal grey area until successive
 national bans closed the loopholes.
 ## The Smartshop Model
 The Netherlands served as the primary hub for the legal trade in hallucinogenic
 mushrooms. An estimated 120 to 150 smartshops operated in the Netherlands,
 concentrated in Amsterdam, selling legal and predominantly natural products.
-According to the Dutch Risk Assessment Report, magic mushrooms constituted
+According to the Dutch Risk Assessment Report, [[guzman-magic-mushrooms-african-species]] constituted
 approximately 50 percent of smartshop turnover. These shops also operated
 alongside coffee shops, headshops selling drug paraphernalia, and grow shops
 catering to home marijuana cultivators.
@@ -45,7 +45,7 @@ available on demand. A 2001 study among representative Dutch young people aged
 12 and above found that 64 percent of those aged 18 and older who had used
 magic mushrooms in the past year purchased them in smartshops.
 ## Product Types and Pricing
-The European smartshop market offered multiple product formats with the
+The European [[eu-hallucinogenic-mushroom-smartshop-market-2006]] offered multiple product formats with the
 following price ranges (January 2006 data):
 - **Fresh [[copelandia-cyanescens]]**: 13 to 17.5 EUR per 10 grams
 - **Truffles/sclerotia**: [[psilocybe-azurescens]] mycelium on hardwood chips, 24 to 25
@@ -55,7 +55,7 @@ following price ranges (January 2006 data):
 - **Spore prints and syringes**: 9 to 28 EUR per print or syringe
 The "Free Spore Ring Europe" (FSRE) nonprofit distributed spore prints of
 various strains for approximately 1 EUR per print, making cultivation materials
-widely accessible. Instructions for growing mushrooms from spore prints and
+widely accessible. Instructions for [[falconer-growing-mushrooms-in-sheds]] from spore prints and
 substrate could be easily found on the internet.
 ## The UK Market Before the Ban
 Prior to July 2005, an estimated 300 shops and market stalls across the UK
@@ -67,7 +67,7 @@ percent bought them online. Camden Market in London was a notable retail
 location for fresh mushroom sales.
 ## The Online Retail Explosion
 A January 2006 snapshot survey using Google and AltaVista identified 39
-distinct online shops selling hallucinogenic mushroom products. Analysis
+distinct online shops selling hallucinogenic [[cotter-mushroom-products-and-value-added-applications]]. Analysis
 revealed that 82 percent were based in the Netherlands, with the remainder
 including four Austrian shops, two German sites, and one UK site linked to a
 Dutch operation. These shops offered international shipping with multilingual
@@ -80,6 +80,6 @@ enforcement was inconsistent. Online shops sold fresh mushrooms, mushroom
 prints, spawn bags, and grow kits.
 ## Market Responses to Legal Changes
 When the UK reclassified hallucinogenic mushrooms as Class A drugs in July
-2005, retailers pivoted rapidly to legal alternatives. Amanita muscaria (fly
+2005, retailers pivoted rapidly to legal alternatives. [[allegro-amanita-muscaria-properties-and-pharmacology]] (fly
 agaric) gained new market attention, as did [[amanita-muscaria-entity]]
-- [[argyreia-nervosa]]
+- argyreia-nervosa

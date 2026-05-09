@@ -5,7 +5,7 @@ updated: 2026-04-15
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
+  sources: []
 ---
 # Keyhole Bed Design
 
@@ -43,25 +43,25 @@ By pointing the central path toward the south and locating tall plants at the ba
 
 ### Undulating Paths
 
-A winding path flanked by keyhole beds can wrap around a house to create an attractive [[permaculture-designers-manual-rabbit-housing]] recognise as among nature's most efficient distribution networks.
+A winding path flanked by keyhole beds can wrap around a house to create an attractive permaculture-designers-manual-rabbit-housing recognise as among nature's most efficient distribution networks.
 
 ### Multiple Keyhole Beds
 
-Several keyhole beds can extend from a central walkway, like fingers from a hand. This layout is highly productive for a [[insectary-plants-for-pest-control]], [[comfrey-multifunctional-guild-plant]], or even a small fruit tree. The bed can also be expanded to fill the corners. Other options include crotolaria (a nitrogen-fixing mulch producer) and other [[urban-permaculture-edge-effect-and-design-principles]]:
+Several keyhole beds can extend from a central walkway, like fingers from a hand. This layout is highly productive for a [[insectary-plants-for-pest-control]], [[comfrey-multifunctional-guild-plant]], or even a small fruit tree. The bed can also be expanded to fill the corners. Other options include crotolaria (a nitrogen-fixing mulch producer) and other urban-permaculture-edge-effect-and-design-principles:
 
 - **Use small and slow solutions**: Intensive beds that maximize output from minimal space
-- **Obtain a yield**: High productivity per square foot
-- **Use edges and value the marginal**: The curved edge creates more edge -- more interface between path and planting -- than a straight bed
-- **Design from patterns to details**: The horseshoe pattern is derived from natural branching and spiral forms
+- **[[holmgren-obtain-a-yield-detailed]]**: High productivity per square foot
+- **Use [[permaculture-principle-use-edges-and-value-the-marginal]] the marginal**: The curved edge creates more edge -- more interface between path and planting -- than a straight bed
+- **[[permaculture-principle-design-from-patterns-to-details]] to details**: The horseshoe pattern is derived from [[fukuoka-phyllotaxy-natural-branching-law]] and spiral forms
 
 ## Companion Elements
 
-Keyhole beds pair naturally with other [[comparison-banana-circle-vs-herb-spiral]] at the centre of a mandala garden
+Keyhole beds pair naturally with other [[comparison-banana-circle-vs-herb-spiral]] at the centre of a [[comparison-mandala-garden-design-vs-keyhole-garden-design]]
 - [[permaculture-duck-pond-systems]] or water feature nearby for irrigation and habitat
 - [[sheet-mulching-lasagna-gardening]] -- the preferred construction method for keyhole beds
 - [[mandala-garden-design]] -- arranging multiple keyhole beds in a circular pattern
 - [[polyculture-design-hemenway]] -- keyhole beds are ideal for diverse polyculture plantings
-- [[permaculture-designers-manual-keyhole-garden]] -- additional keyhole garden layout ideas
+- permaculture-designers-manual-keyhole-garden -- additional [[comparison-keyhole-garden-vs-raised-bed]] layout ideas
 ## Practical Considerations
 
 Successful implementation of Keyhole Bed Design requires attention to
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

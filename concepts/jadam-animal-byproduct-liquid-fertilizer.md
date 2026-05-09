@@ -1,5 +1,5 @@
 ---
-title: Jadam Animal Byproduct Liquid Fertilizer
+title: Jadam jadam animal byproduct liquid fertilizer jadam-liquid-fertilizer-nutritional-perspective
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -23,7 +23,7 @@ JADAM emphasizes that the quality of nitrogen matters more than quantity:
 
 ## Recommended Usage Pattern
 
-- Use wild grass and fruit JLF as the main additional fertilizer
+- Use [[jadam-cover-crop-wild-grass-symbiosis]] and fruit JLF as the main additional fertilizer
 - Use fish JLF specifically to promote growth (early to mid-growth stages)
 - Fish JLF has 3 times the nitrogen of human manure JLF and 50 times that of wild grass and fruit JLF
 - When using in the early stage of growth, dilute over 1000 times to avoid burning
@@ -32,7 +32,7 @@ JADAM emphasizes that the quality of nitrogen matters more than quantity:
 
 The simplest fish-based JLF preparation:
 - Fill half the container with mackerel
-- Fill up with water and throw in a handful of leaf mold
+- Fill up with water and throw in a handful of [[comparison-leaf-mold-composting-vs-hot-composting-method]]
 - No need to stir
 - If too much mackerel, decomposition will be significantly slower; ensure enough water
 - To reduce smell, add phyllite powder
@@ -45,7 +45,7 @@ The simplest fish-based JLF preparation:
 ### Analysis (per 100 liters: mackerel + leaf mold)
 - pH: 6.8
 - EC (1:5): 135.15 ds/m
-- Organic matter: 128.20%
+- [[hamilton-composting-and-organic-matter-management]]: 128.20%
 - Total carbon: 74.36%
 - C/N ratio: 3.24%
 - P2O5: 0.332%, K2O: 0.729%

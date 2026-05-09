@@ -1,5 +1,5 @@
 ---
-title: Korean Natural Farming LAB and OHN Recipes
+title: Korean comparison-natural-farming-vs-permaculture LAB and OHN Recipes
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Korean Natural Farming LAB and OHN Recipes
 
-Lactic Acid Bacteria (LAB) and Oriental Herbal Nutrient (OHN) are two essential Korean Natural Farming inputs. LAB boosts soil and plant immunity while OHN provides trace minerals and natural growth stimulants from medicinal herbs.
+Lactic Acid Bacteria (LAB) and [[bionutrients-lab-oriental-herbal-nutrients-ohn]] Nutrient (OHN) are two essential Korean Natural Farming inputs. LAB boosts soil and plant immunity while OHN provides trace minerals and natural growth stimulants from [[permaculture-plants-medicinal-herbs-healing]].
 
 ## Lactic Acid Bacteria (LAB)
 
@@ -17,8 +17,8 @@ Lactic Acid Bacteria (LAB) and Oriental Herbal Nutrient (OHN) are two essential 
 - Suppresses disease-causing organisms (bacteria, fungi)
 - Boosts plant immune system
 - Improves soil health
-- Reduces odors (in compost, animal housing)
-- Enhances nutrient availability in soil
+- Reduces odors (in compost, [[permaculture-designers-manual-animal-housing-detailed]])
+- Enhances [[ph-and-nutrient-availability-garden-soils]] in soil
 
 ### Method (Rice Wash Water Technique)
 
@@ -46,7 +46,7 @@ Lactic Acid Bacteria (LAB) and Oriental Herbal Nutrient (OHN) are two essential 
 - Dilution: 1:500 to 1:1000 with water
 - Can be mixed with FPJ, FAA, or other KNF inputs
 - Apply as foliar spray or soil drench
-- Apply every 1-2 weeks for disease prevention
+- Apply every 1-2 weeks for [[cervantes-pest-disease-prevention-overview]]
 - Spray on compost to accelerate decomposition and reduce odor
 - Add to animal water (1:1000) for digestive health
 

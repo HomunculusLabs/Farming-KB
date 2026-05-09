@@ -62,7 +62,7 @@ Internally, the thallus is stratified:
 
 Mycorrhizal types vary in anatomy:
 
-- **Arbuscular Mycorrhiza (AM)**: Fungal hyphae penetrate root cortical cells, forming highly branched **arbuscules** (exchange organs) and **vesicles** (storage). No sheath; intracellular. Associated with ~80% of land plants.
+- **[[proteomics-early-arbuscular-mycorrhiza-symbiosis]] (AM)**: Fungal hyphae penetrate root cortical cells, forming highly branched **arbuscules** (exchange organs) and **vesicles** (storage). No sheath; intracellular. Associated with ~80% of land plants.
 - **Ectomycorrhiza (ECM)**: Fungus forms a dense **Hartig net** between root cortical cells and a surrounding **mantle** (sheath) of hyphae. Extracellular. Associated with ~2% of plants (mostly trees: Pinaceae, Fagaceae, Betulaceae, Dipterocarpaceae).
 - **Ericoid Mycorrhiza**: Hyphal coils within epidermal cells of Ericaceae roots.
 - **Orchid Mycorrhiza**: Hyphal coils (pelotons) in orchid protocorm and root cells; essential for seed germination.
@@ -79,7 +79,7 @@ Mycorrhizal types vary in anatomy:
 
 ### Mycorrhizal Carbon Flow
 
-- The host plant allocates up to 10–20% of its gross primary production (GPP) to the fungal partner as hexose sugars (glucose, sucrose)
+- The host plant allocates up to 10–20% of its gross [[lichens-primary-production-soil-formation-dighton]] (GPP) to the fungal partner as hexose sugars (glucose, sucrose)
 - The fungus converts plant sugars to trehalose, glycogen, and lipids for storage and energy
 - AM fungi are obligate biotrophs—they cannot complete their life cycle without a plant host and depend entirely on plant carbon
 - ECM fungi have greater saprotrophic capability and may supplement their carbon budget with organic matter decomposition
@@ -90,7 +90,7 @@ Mycorrhizal types vary in anatomy:
 ### Lichens
 
 - **Mineral nutrition**: The fungal partner absorbs mineral nutrients and water from atmospheric deposition, rainfall, and substrate leaching. Lichens have no roots and absorb nutrients over their entire surface.
-- **Nitrogen fixation**: Cyanobacteria-containing lichens (cyanolichens) fix atmospheric N₂ at rates of 1–20 kg N ha⁻¹ yr⁻¹, contributing significantly to nitrogen input in boreal forests, Arctic tundra, and other nutrient-poor ecosystems.
+- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]**: Cyanobacteria-containing lichens (cyanolichens) fix atmospheric N₂ at rates of 1–20 kg N ha⁻¹ yr⁻¹, contributing significantly to nitrogen input in boreal forests, Arctic tundra, and other nutrient-poor ecosystems.
 - **Trace elements**: Lichens accumulate heavy metals and are widely used as bioindicators of air quality.
 
 ### Mycorrhizae
@@ -107,16 +107,16 @@ Mycorrhizal types vary in anatomy:
 - **Pioneer organisms**: Colonize bare rock, initiating soil formation through physical and chemical weathering. Lichen acids (e.g., usnic acid, oxalic acid) dissolve rock minerals.
 - **Nitrogen input**: Cyanolichens fix atmospheric N₂ in boreal, Arctic, and subalpine ecosystems where N limits productivity.
 - **Carbon storage**: Lichens store significant carbon in boreal and tundra ecosystems.
-- **Bioindicators**: Extremely sensitive to air pollution, especially SO₂ and nitrogen deposition. Lichen diversity is a standard metric for air quality monitoring.
+- **Bioindicators**: Extremely sensitive to air pollution, especially SO₂ and [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]. Lichen diversity is a standard metric for air quality monitoring.
 - **Wildlife habitat**: Reindeer moss (*Cladonia* spp.) is a critical winter food for caribou and reindeer. Many birds, insects, and mammals use lichens for nesting material or food.
 - **Soil crusts**: In arid and semi-arid regions, soil-crust lichens stabilize soil surfaces, reduce erosion, and fix nitrogen and carbon.
 
 ### Mycorrhizae in Ecosystems
 
 - **Plant community structure**: Mycorrhizal associations influence plant species composition, diversity, and succession. AM and ECM plants often segregate along nutrient and successional gradients.
-- **Nutrient cycling**: Mycorrhizal fungi are central to phosphorus and nitrogen cycling in terrestrial ecosystems. They regulate decomposition through the "Gadgil effect"—ECM fungi suppress free-living decomposers, slowing litter decay.
+- **Nutrient cycling**: Mycorrhizal fungi are central to phosphorus and [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]] in terrestrial ecosystems. They regulate decomposition through the "Gadgil effect"—ECM fungi suppress free-living decomposers, slowing litter decay.
 - **Carbon cycling**: The mycorrhizal pathway contributes significantly to soil carbon storage through production of recalcitrant fungal compounds (glomalin from AM fungi, chitin, melanin).
-- **Plant-plant interactions**: Common mycorrhizal networks facilitate resource sharing, signaling, and seedling establishment.
+- **Plant-plant interactions**: Common mycorrhizal networks facilitate [[mycelial-network-resource-sharing-plants]], signaling, and seedling establishment.
 - **Ecosystem stability**: Mycorrhizal networks increase ecosystem resilience to disturbance, drought, and pathogen pressure.
 
 ## Ecological Succession
@@ -135,12 +135,14 @@ Lichens are classic primary succession organisms:
 ### Mycorrhizal Succession
 
 Mycorrhizal communities change predictably with ecosystem development:
-
-1. **Early succession**: AM fungi dominate in disturbed, nutrient-rich, and herbaceous communities. Rapid colonization and broad host range favor AM fungi.
-2. **Mid-succession**: Mixtures of AM and ECM fungi as woody species establish.
-3. **Late succession**: ECM fungi dominate in mature forests, especially coniferous and mixed hardwood forests on nutrient-poor soils. ECM fungi's ability to access organic nitrogen provides a competitive advantage.
-
 ## See Also
+
+- [[sorghum-vs-millet-comparison]]
+- [[comparison-tannins-vs-alkaloids-vs-glycosides]]
+- [[comparison-blackberry-vs-raspberry]]
+- [[comparison-fennel-vs-dill]]
+- [[comparison-erect-vs-trailing-vs-primocane-brambles]]
+- [[comparison-solarization-vs-occultation]]
 
 - [[query-what-is-the-wood-wide-web-and-how-do-mycorrhizal-networks-work|Mycorrhizal Networks and the Wood Wide Web]]
 - [[singh-mycelial-mats-and-biological-soil-crusts|Biological Soil Crusts]]

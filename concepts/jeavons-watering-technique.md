@@ -9,10 +9,10 @@ sources: [/Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.
 type: concept
 ---
 # Watering Technique in Biointensive Gardens
-Watering in the GROW BIOINTENSIVE method approximates natural rainfall
+Watering in the [[jeavons-grow-biointensive-method-overview]] method approximates natural rainfall
 as much as possible. The fine rain of water absorbs beneficial
 airborne nutrients as well as air, helping the growth process. This
-page covers the specific techniques, timing, and assessment methods
+page covers the specific techniques, timing, and [[fungal-biodiversity-assessment-methods]]
 for watering beds and flats in the biointensive garden.
 ## Tools for Gentle Watering
 ### For Flats and Seedlings
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

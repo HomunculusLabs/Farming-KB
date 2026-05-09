@@ -3,6 +3,7 @@ title: Lollipopping
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
@@ -38,7 +39,7 @@ The optimal timing for lollipopping depends on the grower's approach:
 - Pre-flower lollipopping (1-2 weeks before 12/12): allows the plant to recover before flowering begins, with minimal impact on bud production
 - Early flowering lollipopping (weeks 1-2 of flower): removes lower growth before it develops into popcorn buds, but causes some stress during the critical flowering transition
 
-Cervantes advises that pruning shortly before flowering delays peak maturation by a week or longer, as it takes a month or more for hormones to rebuild to pre-pruning concentrations. For this reason, lollipopping is best done as early as possible in the vegetative stage if the plant structure is already established.
+Cervantes advises that pruning shortly before flowering delays peak maturation by a week or longer, as it takes a month or more for hormones to rebuild to pre-pruning concentrations. For this reason, lollipopping is best done as early as possible in the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] if the plant structure is already established.
 
 ## What to Remove
 
@@ -61,8 +62,8 @@ Cervantes provides specific guidance that supports the lollipopping approach:
 
 - "Remove spindly branches and growth that is not collecting light energy"
 - "Pruning lower branches concentrates auxins in upper branches which forces growth upwards"
-- "Cut lower branches off cleanly at the stem so no stub is left to rot and attract pests and diseases"
-- "Pruning out spindly branches and growth inside plants opens up the interior and provides more and better air circulation"
+- "Cut lower branches off cleanly at the stem so no stub is left to rot and attract [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]"
+- "Pruning out spindly branches and growth inside plants opens up the interior and provides more and better [[stamets-growing-room-air-circulation-co2-management]]"
 - "It also allows light to reach deeper inside plants"
 
 He also notes that "removing a few lower branches will diminish the harvest the least" when harvesting prematurely, indicating that lower branches contribute the least to overall yield.
@@ -87,7 +88,7 @@ Lollipopping pairs well with other training methods:
 
 ### SCROG Lollipopping
 
-In [[low-stress-training]] is used, the plant's profile is lowered and more bud sites are exposed to light. The lollipop line shifts downward, potentially preserving more of the plant. Lollipopping in LST setups focuses on removing only the lowest, most shaded material.
+In  is used, the plant's profile is lowered and more bud sites are exposed to light. The lollipop line shifts downward, potentially preserving more of the plant. Lollipopping in LST setups focuses on removing only the lowest, most shaded material.
 
 ## Cervantes on Removing Healthy Leaves
 

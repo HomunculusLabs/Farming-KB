@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Response Under Salinity Stress
+title: singh mycorrhizal response under salinity stress Under Salinity Stress
 created: 2026-04-28
 tags:
   - salinity-stress
@@ -18,7 +18,7 @@ type: concept
 
 Soil salinity affects approximately one-third of irrigated agricultural land
 worldwide, causing billions of dollars in annual crop losses. Arbuscular
-mycorrhizal fungi (AMF) improve plant performance under saline conditions
+[[arbuscular-mycorrhizal-fungi-biology-symbiosis]] (AMF) improve plant performance under saline conditions
 through a combination of nutritional, physiological, and biochemical
 mechanisms that collectively enhance salt tolerance in host plants.
 
@@ -26,13 +26,13 @@ mechanisms that collectively enhance salt tolerance in host plants.
 
 Salinity stress imposes two primary challenges on plants: osmotic stress from
 reduced water potential, and ionic toxicity from excessive Na+ and Cl-
-accumulation. Mycorrhizal colonization addresses both challenges through
+accumulation. [[arbuscular-mycorrhizal-colonization-patterns]] addresses both challenges through
 multiple complementary mechanisms:
 
 - **Enhanced nutrient acquisition**: AMF improve phosphorus, potassium, calcium,
   and micronutrient uptake under saline conditions where these nutrients become
   less available. The improved K+/Na+ ratio in mycorrhizal plants is
-  particularly important, as potassium deficiency under salt stress contributes
+  particularly important, as [[knf-potassium-deficiency-and-excess]] under salt stress contributes
   to growth inhibition.
 - **Selective ion uptake**: AMF hyphae preferentially absorb K+ over Na+, and
   the fungal interface may partially exclude Na+ from the plant symplast. The
@@ -41,7 +41,7 @@ multiple complementary mechanisms:
 - **Compartmentalization**: Na+ absorbed by extraradical hyphae can be
   sequestered in fungal vacuoles or bound to cell wall components, preventing
   translocation to host plant tissues. This mechanism parallels metal
-  sequestration described in singh mycorrhizal metal translocation and   sequestration.
+  sequestration described in singh [[micro-pixe-analysis-mycorrhizal-metal-tolerant-plants]] translocation and   sequestration.
 
 ## Osmotic Adjustment
 
@@ -79,7 +79,7 @@ ratios under saline conditions. Mycorrhizal plants typically show:
 ## Antioxidant Defense Enhancement
 
 Salinity stress generates reactive oxygen species (ROS) including superoxide
-radicals, hydrogen peroxide, and hydroxyl radicals that damage lipids, proteins,
+radicals, [[cervantes-hydrogen-peroxide-sterilization]], and hydroxyl radicals that damage lipids, proteins,
 and nucleic acids. Mycorrhizal plants exhibit enhanced antioxidant defense
 systems:
 

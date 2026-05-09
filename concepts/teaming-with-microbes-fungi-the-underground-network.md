@@ -5,7 +5,7 @@ updated: 2026-04-23
 type: concept
 tags: [soil-biology, fungi, decomposition, mycorrhizae]
 sources:
-  - "raw/papers/teaming-with-microbes-lowenfels.md"
+  sources: []
 ---
 
 # Fungi — The Underground Network
@@ -30,7 +30,7 @@ Fungal hyphae travel through soil particles, binding them together into aggregat
 
 ## Glomalin and long-term carbon storage
 
-A specific contribution of arbuscular mycorrhizal fungi (AMF) to soil health is the production of glomalin, a glycoprotein secreted by hyphae that coats soil particles and binds them into stable aggregates. Glomalin is remarkably persistent in soil, with a turnover time estimated at 7 to 42 years, and contributes significantly to soil organic carbon pools. It improves water retention, reduces erosion, and protects soil carbon from microbial decomposition. This mechanism represents one of the most important pathways by which perennial agricultural systems sequester atmospheric carbon, making fungal conservation a key strategy in climate-adaptive farming.
+A specific contribution of [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi (AMF) to soil health is the production of glomalin, a glycoprotein secreted by hyphae that coats soil particles and binds them into stable aggregates. Glomalin is remarkably persistent in soil, with a turnover time estimated at 7 to 42 years, and contributes significantly to soil organic carbon pools. It improves water retention, reduces erosion, and protects soil carbon from microbial decomposition. This mechanism represents one of the most important pathways by which perennial agricultural systems sequester atmospheric carbon, making fungal conservation a key strategy in climate-adaptive farming.
 
 ## Gardening with fungi in mind
 
@@ -38,16 +38,15 @@ Practical steps to encourage beneficial soil fungi include:
 
 - **Minimize soil disturbance**: Tilling breaks hyphal networks. No-till or reduced-till methods preserve the fungal subway system described above.
 - **Apply woody mulch**: Wood chips, leaf litter, and straw provide the complex carbon substrates that fungi specialize in decomposing. A diverse mulch layer supports diverse fungal species.
-- **Maintain perennial plantings**: Perennials support mycorrhizal networks year-round, unlike annuals that die back and leave roots to decompose bacterially each season.
-- **Avoid excessive phosphorus fertilization**: High available phosphorus suppresses mycorrhizal colonization, as plants no longer need the fungal partnership for phosphorus uptake. This is a common unintended consequence of synthetic fertilizer use.
-- **Use compost teas and fungal inoculants**: Aerated compost teas can introduce beneficial fungal propagules to soil, and commercial mycorrhizal inoculants are available for transplanting and establishing new plantings.
+- **Maintain perennial plantings**: Perennials support [[dighton-mycorrhizal-networks-carbon-transfer]] year-round, unlike annuals that die back and leave roots to decompose bacterially each season.
+- **Avoid excessive phosphorus fertilization**: High available phosphorus suppresses [[arbuscular-mycorrhizal-colonization-patterns]], as plants no longer need the fungal partnership for phosphorus uptake. This is a common unintended consequence of synthetic fertilizer use.
+- **Use compost teas and fungal inoculants**: [[actively-aerated-compost-tea-aact-brewing]] teas can introduce beneficial fungal propagules to soil, and commercial [[pgpr-mycorrhizal-inoculants-microplant-establishment]] are available for transplanting and establishing new plantings.
 
 ## See also
 
 - [[teaming-with-microbes-humus-formation-and-glomalin]]
 - [[teaming-with-microbes-mycorrhizal-associations]]
 
-The role of fungi in agricultural and ecological systems extends far beyond what is covered in this overview. For practical applications, see [[teaming-with-microbes-humus-formation-and-glomalin]] for how fungal activity contributes to long-term soil carbon storage and aggregate stability. The interplay between fungal and bacterial communities — and how management practices shift the balance between them — is central to the [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]] literature.
 ## Practical Considerations
 
 When working with Fungi — The Underground Network, several practical factors should be
@@ -64,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +105,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

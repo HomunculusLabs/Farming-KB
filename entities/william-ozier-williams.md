@@ -11,22 +11,22 @@ sources:
 
 # William Ozier Williams
 
-Permaculture practitioner and contributor to the [[permaculture-design-methods]] body of knowledge, associated with the lineage of [[bill-mollison]]'s original Permaculture Design Certificate (PDC) framework. His contributions sit within the broader movement of ecological design education that includes [[david-holmgren]]'s principles work and [[toby-hemenway]]'s North American adaptations.
+Permaculture practitioner and contributor to the [[permaculture-design-methods]] body of knowledge, associated with the lineage of [[bill-mollison]]'s original Permaculture Design Certificate (PDC) framework. His contributions sit within the broader movement of ecological design education that includes [[david-holmgren]]'s principles work and [[toby-hemenway]]'s [[growing-gourmet-north-american-reishi-species]] adaptations.
 
 ## Overview
 
-William Ozier Williams contributed to PDC course materials as part of the network of practitioners who carried Mollison and Holmgren's design system forward. The PDC framework, developed by Mollison in the late 1970s and early 1980s, established a standardized 72-hour curriculum covering [[permaculture-principles]], zone and sector analysis, pattern understanding, and practical design methodologies. Contributors like Williams helped adapt and refine these materials for different bioregions and teaching contexts.
+William Ozier Williams contributed to PDC course materials as part of the network of practitioners who carried Mollison and Holmgren's design system forward. The PDC framework, developed by Mollison in the late 1970s and early 1980s, established a standardized 72-hour curriculum covering [[permaculture-principles]], zone and sector analysis, [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]], and practical design methodologies. Contributors like Williams helped adapt and refine these materials for different bioregions and teaching contexts.
 
 ## Connection to Permaculture History
 
-The permaculture movement grew from Mollison and Holmgren's foundational work in Tasmania in the 1970s. Their insight was that natural ecosystems already embody efficient design principles — closed-loop nutrient cycling, multiple functions per element, edge effects, and succession dynamics — and that human settlements could be designed to mimic these patterns. Key historical milestones include:
+The permaculture movement grew from Mollison and Holmgren's foundational work in Tasmania in the 1970s. Their insight was that natural ecosystems already embody efficient design principles — closed-loop [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], multiple functions per element, edge effects, and succession dynamics — and that human settlements could be designed to mimic these patterns. Key historical milestones include:
 
 - **1978**: *Permaculture One* published by Mollison and Holmgren
 - **1979**: First PDC taught by Mollison
 - **1988**: *Permaculture: A Designer's Manual* published (see [[bill-mollison]])
 - **1990s-2000s**: Global spread of PDC courses, adaptation to diverse climates
 
-Williams's contributions to PDC materials sit within this lineage of applied ecological design. The PDC has since become the primary entry point for permaculture education worldwide, with thousands of courses taught annually across diverse climates and cultures. Practitioners like [[graham-burnett]] have further simplified permaculture for beginners, while [[sepp-holzer]] demonstrated large-scale practical application in Austria.
+Williams's contributions to PDC materials sit within this lineage of applied ecological design. The PDC has since become the primary entry point for [[holmgren-permaculture-education-training-and-pdc]] worldwide, with thousands of courses taught annually across diverse climates and cultures. Practitioners like [[graham-burnett]] have further simplified permaculture for beginners, while [[sepp-holzer-entity]] demonstrated large-scale practical application in Austria.
 
 ## The PDC Framework
 
@@ -49,8 +49,8 @@ The standard PDC curriculum covers core topics that Williams helped teach and re
 - [[permaculture-principles]] — Core design principles
 - [[toby-hemenway]] — PDC educator, author of Gaia's Garden
 - [[graham-burnett]] — Permaculture beginner's guide author
-- [[sepp-holzer]] — Austrian permaculture practitioner
-- [[masanobu-fukuoka]] — Natural farming pioneer influencing permaculture
+- [[sepp-holzer-entity]] — Austrian permaculture practitioner
+- [[masanobu-fukuoka]] — [[comparison-natural-farming-vs-permaculture]] pioneer influencing permaculture
 ## Practical Considerations
 
 When working with William Ozier Williams, several practical factors should be
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

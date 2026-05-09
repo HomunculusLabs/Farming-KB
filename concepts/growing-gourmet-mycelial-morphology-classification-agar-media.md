@@ -1,5 +1,5 @@
 ---
-title: Mycelial Morphology Classification on Agar Media
+title: growing gourmet mycelial morphology classification agar media Classification on growing-gourmet-agar-media-formulas-preparation
 created: 2026-04-26
 tags:
   - mycology
@@ -22,13 +22,13 @@ Each mushroom species produces a recognizable type of mycelium whose
 variations fall within a range of expressions. Within a species,
 multitudes of strains can differ dramatically in their appearance. In
 culture, mushroom strains reveal much about the portion of the
-mushroom life cycle which is invisible to the mere forager. This
+[[pf-tek-mushroom-life-cycle-timeline]] cycle which is invisible to the mere forager. This
 range of characteristics -- changes in form and color, rate of
 growth, fragrance, even volunteer fruitings of mushrooms in miniature
--- defines the strain's "personality" and is critical for [[agar]]
+-- defines the strain's "personality" and is critical for agar
 
-- [[growing-gourmet-stock-culture-library]]
-- [[growing-gourmet-strain-evaluation-28-features]]
+- growing-gourmet-stock-culture-library
+- growing-gourmet-strain-evaluation-28-features
 - [[growing-gourmet-contamination-prevention]]
 - [[growing-gourmet-agar-media-formulas-preparation]]
 ## Practical Applications
@@ -109,3 +109,8 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- growing-gourmet-mycelial-morphology-classification
+- [[growing-gourmet-volunteer-primordia-agar-media]]
+- [[mushroom-life-cycle]]

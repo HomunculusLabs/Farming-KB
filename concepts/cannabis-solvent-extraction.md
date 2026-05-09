@@ -21,13 +21,13 @@ Solvent extraction uses chemical solvents to dissolve THC and other cannabinoids
 Volatile solvent extraction uses dangerous chemical solvents including:
 
 - Isopropyl alcohol (rubbing alcohol)
-- Ethyl alcohol
+- [[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]]
 - White gas
 - Ether
 - Acetate
 - Various other alcohols
 
-The general process involves soaking cannabis in the solvent, then removing the solvent by evaporation. The resulting residual is a sludge containing chlorophyll, plant waxes, other debris, and cannabinoids. Cervantes does not recommend this method due to the dangerous chemicals involved.
+The general process involves [[knf-seed-soaking-cannabis-germination]] in the solvent, then removing the solvent by evaporation. The resulting residual is a sludge containing chlorophyll, plant waxes, other debris, and cannabinoids. Cervantes does not recommend this method due to the dangerous chemicals involved.
 
 ### Isomerization
 
@@ -35,7 +35,7 @@ Isomerization is a chemical resin extraction process that was very popular in th
 
 ### Butane Extraction (BHO)
 
-Butane cannabis oil (BHO) is made by passing butane gas through chopped cannabis. The process works as follows:
+Butane [[cervantes-hash-cannabis-oil-production]] (BHO) is made by passing butane gas through chopped cannabis. The process works as follows:
 
 1. Butane gas is passed through a tube containing chopped cannabis
 2. Butane dissolves THC and transports it out a drain where it is collected

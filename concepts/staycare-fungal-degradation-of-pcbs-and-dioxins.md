@@ -1,5 +1,5 @@
 ---
-title: Fungal Degradation of PCBs and Dioxins
+title: Fungal fungal-degradation-of-pcbs-by-white-rot-fungi and Dioxins
 created: 2026-04-28
 tags: [pcb-degradation, dioxins, bioremediation, chlorinated-aromatics]
 date: 2026-04-25
@@ -20,7 +20,7 @@ effluents, combustion processes, and as contaminants of chlorophenol
 chemicals. [[phanerochaete-chrysosporium]]
 
 The extent of PCB degradation by basidiomycetes depends on the level of
-chlorination and the fungal strain employed. P. chrysosporium degrades
+chlorination and the [[fukuoka-textdoc-cross-breeding-fungal-strain-mutability]] employed. P. chrysosporium degrades
 PCBs in decreasing order with increasing chlorination: biphenyl (23%),
 2-chlorobiphenyl (16%), and 2,2-prime,4,4-prime-tetrachlorobiphenyl
 (10%). Degradation of 4,4-prime-dichlorobiphenyl reached 11% while
@@ -63,7 +63,7 @@ systems.
 ## Dioxin Degradation Mechanisms
 
 A multistep pathway for the degradation of 2,7-dichlorodibenzo-dioxin
-involving both lignin peroxidase (LiP) and manganese peroxidase (MnP)
+involving both [[fungal-lignin-peroxidase-veratryl-alcohol]] (LiP) and [[fungal-manganese-peroxidase-remediation]] (MnP)
 in P. chrysosporium has been proposed. In the first step, 2,7-dichloro-
 benzo-p-dioxin is oxidatively cleaved by LiP to yield 4-chloro-1,2-
 benzoquinone, 2-hydroxy-1,4-benzoquinone, and chloride. The pathway
@@ -71,7 +71,7 @@ proceeds through successive reductive dechlorinations, methylations, and
 oxidations. A key intermediate, 1,2,4-trihydroxybenzene, is ultimately
 converted to beta-ketoadipic acid after ring cleavage.
 
-Phanerochaete sordida achieved up to 60 percent degradation of 2,3,7,8-
+[[staycare-phanerochaete-sordida-in-bioremediation]] achieved up to 60 percent degradation of 2,3,7,8-
 tetrachlorodibenzo-p-dioxin (TCDD), the most toxic dioxin congener.
 This represents a significant finding given the extreme recalcitrance
 and toxicity of TCDD, which is resistant to most biological degradation
@@ -85,5 +85,5 @@ tetrachloro-1,4-benzoquinone, which undergoes successive dechlorinations
 to yield 1,2,4-trihydroxybenzene before ring cleavage. Trametes
 versicolor degrades PCP through laccase-mediated pathways, with enhanced
 laccase production in the presence of chlorophenols. [[staycare-lignin-peroxidase-and-pollutant-degradation]]
-- [[fungal-degradation-of-phenols-and-chlorophenols]]
-- [[fungal-degradation-of-dioxins-and-polychlorinated-biphenyls]]
+- fungal-degradation-of-phenols-and-chlorophenols
+- fungal-degradation-of-dioxins-and-polychlorinated-biphenyls

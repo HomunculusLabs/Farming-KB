@@ -1,10 +1,11 @@
 ---
-title: "How to Protect Plants from Frost and Extend the Growing Season"
+title: "How to Protect Plants from query how to protect plants from frost and extend the growing season the savory-growing-season-and-non-growing-season-management"
 created: 2026-04-28
 tags: [query, frost-protection, season-extension, greenhouse, cold-climate, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 type: query
 ---
@@ -12,10 +13,10 @@ type: query
 # How to Protect Plants from Frost and Extend the Growing Season
 
 ## Short Answer
-Frost protection and season extension use physical barriers, thermal mass,
+[[holzer-frost-protection-techniques]] and [[comparison-season-extension-techniques-vs-cold-frame-gardening]] use physical barriers, thermal mass,
 and microclimate design to shield plants from freezing temperatures and
 extend the productive growing window. Key strategies include cold frames,
-row covers, water walls, and strategic site selection that exploits thermal
+row covers, water walls, and strategic [[fukuoka-creating-natural-farm-site-selection-establishment]] that exploits thermal
 belts and avoids frost pockets. Combined approaches can add four to eight
 weeks to the growing season in most temperate climates.
 
@@ -51,7 +52,7 @@ Overhead sprinkling during a freeze event actually works because the
 freezing water releases latent heat that keeps plant tissue above the
 critical damage point. Sepp Holzer's
 [[extending-growing-season]] guide covers how
-to combine thermal mass with insulation and passive solar design for maximum
+to combine thermal mass with insulation and [[comparison-passive-solar-vs-earth-sheltered]] design for maximum
 effect with minimal energy input.
 
 ## Key Points
@@ -82,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

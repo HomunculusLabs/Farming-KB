@@ -20,7 +20,7 @@ Fungal beta-glucans are classified by their glycosidic linkage patterns:
 The most common form in mushrooms, consisting of a linear backbone of beta-1,3-linked D-glucose units. Examples include [[lentinula-edodes]], [[schizophyllum-commune]], and [[grifola-frondosa]].
 
 ### Beta-1,3/1,6-Glucans
-Beta-1,3-glucans with beta-1,6-linked side chains. The branching pattern, frequency, and side chain length significantly affect biological activity. Most biologically active mushroom glucans fall into this category.
+Beta-1,3-glucans with beta-1,6-linked side chains. The branching pattern, frequency, and side [[phenethylamine-chain-length-effects]] significantly affect biological activity. Most biologically active mushroom glucans fall into this category.
 
 ### Beta-1,4/1,3-Glucans
 Mixed-linkage glucans found in some fungal species. Polysaccharide-Krestin|PSK from [[lentinan]] and particulate [[lentinan]] | [[trametes-versicolor-entity]] | beta-1,4/1,3 | Approved (Japan) |
@@ -31,11 +31,11 @@ Mixed-linkage glucans found in some fungal species. Polysaccharide-Krestin|PSK f
 
 ## Cereal vs. Fungal Beta-Glucans
 
-Cereal beta-glucans (from oats, barley) are beta-1,3/1,4-linked mixed polymers with primarily cholesterol-lowering and metabolic effects. They have minimal immunomodulatory activity compared to fungal beta-1,3/1,6-glucans due to structural differences that affect receptor binding.
+Cereal beta-glucans (from oats, barley) are beta-1,3/1,4-linked mixed polymers with primarily cholesterol-lowering and metabolic effects. They have minimal immunomodulatory activity compared to fungal beta-1,3/1,6-glucans due to structural differences that affect [[tihkal-receptor-binding-serotonin]].
 
 ## Safety
 
-Fungal beta-glucans are generally recognized as safe. Oral administration is well tolerated. Intravenous administration of soluble beta-glucans may cause transient flu-like symptoms (fever, chills, myalgia) due to cytokine release. No significant drug interactions have been reported, though theoretical concerns exist regarding immunosuppressive therapy interference.
+Fungal beta-glucans are generally recognized as safe. Oral administration is well tolerated. Intravenous administration of soluble beta-glucans may cause transient flu-like symptoms (fever, chills, myalgia) due to cytokine release. No significant [[cannabis-drug-interactions-and-contraindications]] have been reported, though theoretical concerns exist regarding immunosuppressive therapy interference.
 
 ## Analytical Methods
 
@@ -55,9 +55,9 @@ A landmark discovery in immunology is that beta-glucans induce trained immunity,
 - Metabolic reprogramming (shift to aerobic glycolysis via HIF-1 alpha)
 - Histone modifications (H3K4me3, H3K27ac) at promoters of immune genes
 - Expansion of myeloid progenitor populations in bone marrow
-- Increased production of IL-1 beta and TNF-alpha upon secondary stimulation
+- [[fukuoka-textdoc-increased-production-not-increased-yields]] of IL-1 beta and TNF-alpha upon secondary stimulation
 
-This trained immunity effect has significant implications for vaccine adjuvant development and infectious disease prevention.
+This trained immunity effect has significant implications for vaccine adjuvant development and infectious [[cervantes-pest-disease-prevention-overview]].
 
 ## Dosing Considerations
 
@@ -69,6 +69,8 @@ Effective doses vary by route of administration and specific compound:
 Timing relative to meals affects absorption; empty stomach administration generally produces higher peak plasma levels. Chronic daily administration is more effective than intermittent dosing for maintaining trained immunity effects.
 
 ## See Also
+
+- [[chaga]]
 
 - medicinal-mushrooms
 - [[psk-polysaccharide-krestin]]
@@ -91,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

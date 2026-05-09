@@ -12,7 +12,7 @@ sources:
 
 **Updated:** 2026-04-18
 
-Fermented Plant Juice (FPJ) is one of the most widely used inputs in [[cho-han-kyu-life-and-philosophy]] provided detailed guidance on when to use FPJ, when to avoid it, and how to match specific plant sources to specific growth stages.
+[[bionutrients-lab-fermented-plant-juice-fpj]] (FPJ) is one of the most widely used inputs in [[cho-han-kyu-life-and-philosophy]] provided detailed guidance on when to use FPJ, when to avoid it, and how to match specific plant sources to specific growth stages.
 
 ## Growth Stage Timing
 
@@ -22,7 +22,7 @@ FPJ application must be timed to the plant's growth stage for maximum benefit:
 |-------------|----------|---------|
 | Germination | 1:1,000 | Promote sprouting and early root development |
 | Seedling establishment | 1:1,000 | Support transplant recovery |
-| Vegetative growth | 1:800 to 1:1,000 | Accelerate leaf and stem growth |
+| [[cannabis-vegetative-growth-stage]] | 1:800 to 1:1,000 | Accelerate leaf and stem growth |
 | Pre-flowering | 1:1,000 (reduce) | Support bud formation without overgrowth |
 | Flowering/fruiting | Stop or minimal | Avoid vegetative overgrowth at expense of flowers |
 | Fruit maturation | Stop | Allow natural ripening without interference |
@@ -70,15 +70,15 @@ Use FPJ made from winter-hardy plants:
 
 Cho Han-kyu identified several conditions under which FPJ should NOT be applied:
 
-1. **Overgrowth symptoms:** If plants are already showing excessive vegetative growth (large, dark green leaves, elongated stems), FPJ will worsen the condition. Apply [[water-soluble-calcium-wca]] instead to redirect energy toward reproductive growth.
+1. **Overgrowth symptoms:** If plants are already showing excessive vegetative growth (large, dark green leaves, elongated stems), FPJ will worsen the condition. Apply [[water-soluble-calcium-wca]] instead to redirect energy toward [[knf-reproductive-growth-stage]].
 
 2. **Same-crop FPJ:** Do NOT use FPJ made from the same species as the target crop. For example, do NOT use rice FPJ on rice, or tomato FPJ on tomatoes. This can cause hormonal confusion and excessive vegetative growth.
 
-3. **Acidic soil conditions:** FPJ should not be applied when soil pH is too low. Acidic conditions reduce microbial activity and nutrient availability, making FPJ ineffective. Correct soil pH first with [[knf-preparations]]:
+3. **Acidic soil conditions:** FPJ should not be applied when soil pH is too low. Acidic conditions reduce microbial activity and [[ph-and-nutrient-availability-garden-soils]], making FPJ ineffective. Correct soil pH first with [[knf-preparations]]:
 
 ### FPJ + WCA (Water-Soluble Calcium)
 - Use during mid-vegetative stage to strengthen cell walls
-- Calcium redirects energy from vegetative growth toward structural strength
+- Calcium redirects energy from vegetative growth toward [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]]
 - Apply when plants need to shift from leaf production to stem/branch development
 
 ### FPJ + FAA (Fish Amino Acid)
@@ -105,7 +105,7 @@ Cho Han-kyu identified several conditions under which FPJ should NOT be applied:
 
 A typical foliar spray schedule for field crops:
 
-1. **Early morning** (before 9 AM): Best time for foliar application -- stomata are open, humidity is high, evaporation is minimal
+1. **Early morning** (before 9 AM): Best time for [[ultra-low-cost-foliar-application-methods]] -- stomata are open, humidity is high, evaporation is minimal
 2. **Late afternoon** (after 4 PM): Second-best time -- temperatures are dropping, dew is forming
 3. **Avoid midday:** High temperatures cause rapid evaporation, reduced absorption, and potential leaf burn
 

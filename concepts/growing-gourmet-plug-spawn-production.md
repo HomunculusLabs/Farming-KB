@@ -1,5 +1,5 @@
 ---
-title: Plug Spawn Production for Log Cultivation
+title: Plug growing-gourmet-sawdust-spawn-production-use for Log Cultivation
 created: 2026-04-26
 tags:
   - mycology
@@ -20,16 +20,16 @@ inoculated with mushroom mycelium. These dowels are driven into
 holes drilled in logs or stumps, providing a direct method for
 establishing mushroom cultures in natural wood substrates. Plug
 spawn remains one of the most accessible entry points for outdoor
-mushroom cultivation.
+[[accessible-mushroom-cultivation-for-disabilities]].
 
 ## Purpose and Applications
 
 Plug spawn is designed for the inoculation of stumps and logs. It
 provides an effective bridge between laboratory-cultured mycelium
-and the natural wood environment where many gourmet mushrooms
+and the natural wood environment where many [[growing-gourmet-mushrooms-civilization-history]]
 evolved. When an oak stump is inoculated with plug spawn of
 several mushroom species, the stump becomes a platform for
-producing multiple species of gourmet and medicinal mushrooms over
+producing multiple species of gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] over
 several years. This method is especially useful for the outdoor
 cultivation of [[growing-gourmet-phoenix-oyster-pulmonarius-cultivation]],
 [[growing-gourmet-maitake-cultivation]].
@@ -51,7 +51,7 @@ is used, making the transition to wooden dowels more successful.
 
 ## Matching Spawn with the Substrate
 
-When trying to match a mushroom strain with an available substrate,
+When trying to match a [[dikaryon-formation-mushroom-strain-genetics]] with an available substrate,
 placing a small sample of the substrate into the agar media formula
 is recommended. Upon exposure, the mushroom mycelium generates
 enzymes and acids to break down the proposed food source. Once
@@ -112,7 +112,7 @@ less water and less maintenance than indoor methods.
 For the rapid, high-yield methods of growing Shiitake, Enokitake,
 Maitake, Kuritake and others indoors on sterilized substrates,
 the recommended path is going from grain spawn to sterilized
-sawdust to enriched sawdust, bypassing plug spawn entirely.
+sawdust to [[gourmet-mushroom-enriched-sawdust-cultivation]], bypassing plug spawn entirely.
 
 ## Storage of Plug Spawn
 
@@ -128,5 +128,5 @@ slowing its rate of decline.
 
 - growing gourmet plug spawn production
 - [[growing-gourmet-substrate-materials-wood-types]]
-- [[growing-gourmet-natural-culture-myco-landscaping]]
-- [[growing-gourmet-basidium-spore-production]]
+- growing-gourmet-natural-culture-myco-landscaping
+- growing-gourmet-basidium-spore-production

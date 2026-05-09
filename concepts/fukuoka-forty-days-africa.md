@@ -1,11 +1,12 @@
 ---
-title: Fukuoka — Forty Days in Africa
+title: Fukuoka — fukuoka forty days africa in Africa
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Forty Days in Africa
@@ -21,12 +22,12 @@ Fukuoka asks whether [[fukuoka-seed-ball-methods-advanced]] could potentially re
 
 ## What Will Grow in the Desert?
 
-Fukuoka addresses the practical question of desert revegetation:
+Fukuoka addresses the practical question of [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]]:
 
 - Natural succession principles suggest that certain pioneer species can establish in degraded conditions
 - The key is finding the right combination of local and adapted species
-- Green manure crops and deep-rooted plants can begin the process of soil restoration
-- The goal is to restart natural ecological succession, not to create instant farms
+- Green [[green-manure-crops-detailed]] and deep-rooted plants can begin the process of soil restoration
+- The goal is to restart natural [[holmgren-ecological-succession-and-pulsing]], not to create instant farms
 
 ## Organic Farming and Ecology Are Self-Defeating
 
@@ -68,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

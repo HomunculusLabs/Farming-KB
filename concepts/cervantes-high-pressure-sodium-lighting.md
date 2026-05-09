@@ -1,18 +1,19 @@
 ---
-title: High Pressure Sodium Lighting
+title: High cervantes high pressure sodium lighting Lighting
 created: 2026-04-28
 tags: [cannabis, lighting, hps, hid, indoor-growing]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # High Pressure Sodium Lighting
 
 High Pressure Sodium (HPS) lamps are the most efficient HID lamps
-available for indoor cannabis cultivation. They emit an orange-tinged
+available for indoor [[query-how-does-no-till-cannabis-cultivation-work]]. They emit an orange-tinged
 glow comparable to the harvest sun, making them ideal for the
 [[cervantes-metal-halide-lighting-systems]],
 [[cervantes-conversion-bulbs-hid-lighting]].
@@ -46,9 +47,9 @@ spectrum promoted flower production. However, with new PAR technology,
 scientists are rethinking old theories.
 
 Marijuana's light needs change when flowering; it no longer needs to
-produce as many vegetative cells. Vegetative growth slows and
+produce as many vegetative cells. [[cannabis-vegetative-growth-stage]] slows and
 eventually stops during blooming. All the plant's energy and attention
-is focused on flower production to complete its annual life cycle.
+is focused on flower production to complete its annual [[bloomfield-fungal-life-cycle-spiral-versus-circle]].
 Light from the red end of the spectrum stimulates floral hormones
 within the plant, promoting flower production.
 
@@ -83,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

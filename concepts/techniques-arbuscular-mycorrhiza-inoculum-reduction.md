@@ -1,5 +1,5 @@
 ---
-title: Techniques for Arbuscular Mycorrhiza Inoculum Reduction
+title: Techniques for proteomics-early-arbuscular-mycorrhiza-symbiosis mycorrhizal-inoculum-reduction-techniques-comparative
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-The ubiquitous presence of arbuscular mycorrhizal (AM) fungi in soil presents a major constraint on evaluating AM colonization effects. To obtain a true non-mycorrhizal control treatment, indigenous soil inoculum must be controlled (reduced or eliminated). This chapter presents techniques for achieving inoculum reduction and evaluates their advantages and disadvantages.
+The ubiquitous presence of [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] (AM) fungi in soil presents a major constraint on evaluating AM colonization effects. To obtain a true non-mycorrhizal control treatment, indigenous soil inoculum must be controlled (reduced or eliminated). This chapter presents techniques for achieving inoculum reduction and evaluates their advantages and disadvantages.
 
 ## Two Distinct Approaches
 
@@ -88,7 +88,7 @@ Soil fumigation with volatile chemicals to eliminate microbial life.
 
 ## Considerations for Method Selection
 
-1. **Experimental design requirements**: Complete sterilization vs. partial reduction
+1. **[[lightproof-cap-experimental-design-phototropism]] requirements**: Complete sterilization vs. partial reduction
 2. **Available facilities**: Autoclaves, irradiation sources, field conditions for solarization
 3. **Volume of soil**: Small lab samples vs. large field plots
 4. **Impact on soil properties**: Each method affects chemistry, physics, and biology differently
@@ -102,6 +102,6 @@ There is no such thing as a pure "fungal effect" or "plant effect" -- only an in
 ## Related Topics
 
 - [[pgpr-mycorrhizal-inoculants-microplant-establishment]] - Inoculant production
-- [[mycorrhizal-inoculant-production-methods]]
+- mycorrhizal-inoculant-production-methods
 - [[symbiotic-fungi-mycorrhizal-inoculum-production]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

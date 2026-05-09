@@ -59,7 +59,7 @@ the interconnectedness of historical epochs in a single apprehension.
 
 McKenna described the tryptamine state as transtemporal, an anticipation of the
 future. He invoked Plato's metaphor that "time is the moving image of eternity,"
-suggesting that the tryptamine ecstasy represents a stepping out of the moving image
+suggesting that the [[mckenna-tryptamine-ecstasy-and-platonic-eternity]] represents a stepping out of the moving image
 and into eternity itself, the "standing now" or nunc stans of Thomas Aquinas. In
 this state, all of human history is seen to lead toward a culminating moment.
 
@@ -80,7 +80,7 @@ human cerebral cortex, and the densest and richest experience in the universe is
 experience you are having right now."
 
 Everything should be constellated outward from the perceiving self, because the
-perceiving self is the primary datum. This recentralization does not imply crude
+perceiving self is the [[decentralizing-bender-perceiving-self-primary-datum-mckenna]]. This recentralization does not imply crude
 anthropocentrism. Rather, it acknowledges that consciousness, wherever it occurs,
 is the most complex and significant phenomenon known to exist. The tryptamine
 experience, by revealing dimensions of consciousness that dwarf ordinary awareness,
@@ -91,7 +91,7 @@ much more the observer can become.
 
 McKenna's ultimate eschatological vision involved what he called the "exteriorization
 of the soul and internalization of the body." He envisioned a future in which the
-exterior soul would exist as a "superconducting lens of translinguistic matter
+exterior soul would exist as a "superconducting lens of [[mckenna-translinguistic-matter-and-exteriorized-soul]]
 generated out of the body of each of us at a critical juncture." From that point
 onward, humans would exist eternally within the solid-state matrix of the
 translinguistic lens they had become. The body image would exist as a holographic
@@ -131,12 +131,12 @@ occurring." This places consciousness at the center of reality, not as an
 epiphenomenon of matter but as a fundamental creative force.
 
 The tryptamine compounds provide evidence for this view because of the quantum
-mechanical correlates to hallucinogenesis. If one atom on the molecular ring of an
+[[mckenna-quantum-mechanical-correlates-hallucinogenesis]] to hallucinogenesis. If one atom on the molecular ring of an
 inactive compound is moved, the compound becomes highly active. For McKenna, this
 was "a perfect proof of the dynamic linkage at the formative level between quantum
 ## See Also
 
-- [[mckenna-tryptamine-hallucinogens-and-consciousness]] -- tryptamine hallucinogens and consciousness
+- [[mckenna-tryptamine-hallucinogens-and-consciousness]] -- [[mckenna-tryptamine-hallucinogens-and-consciousness]] and consciousness
 - [[mckenna-exteriorization-soul-translinguistic-matter]] -- exteriorization of the soul concept
 - [[mckenna-dmt-experience-and-hyperspace]] -- DMT experience and hyperspace
-- [[mckenna-archaic-revival]] -- the archaic revival movement
+- [[mckenna-archaic-revival]] -- the [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]] movement

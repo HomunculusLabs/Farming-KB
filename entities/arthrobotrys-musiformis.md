@@ -15,7 +15,7 @@ sources:
 
 It belongs to the monophyletic clade of nematode-trapping fungi within the Orbiliomycetes.
 
-The species has been studied for its potential as a biological control agent against plant-parasitic and animal-parasitic nematodes.
+The species has been studied for its potential as a [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent against plant-parasitic and animal-parasitic nematodes.
 
 ## Taxonomy and Classification
 

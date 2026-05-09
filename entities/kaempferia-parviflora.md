@@ -43,13 +43,13 @@ The species was described by Wall. ex Baker in 1890. It is closely related to Ka
 
 **Morphology:**
 
-K. parviflora is a small herbaceous plant growing 15–30 cm tall. The leaves are elliptic to lanceolate, 10–20 cm long and 5–8 cm wide, arising in pairs from the underground rhizome. The upper leaf surface is dark green with a smooth texture, while the underside is lighter.
+K. parviflora is a small herbaceous plant growing 15–30 cm tall. The leaves are elliptic to lanceolate, 10–20 cm long and 5–8 cm wide, arising in pairs from the underground rhizome. The upper [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is dark green with a smooth texture, while the underside is lighter.
 
 The inflorescence is a short spike bearing 1–3 flowers with purple or violet petals. Flowering occurs during the rainy season (June–August in its native range). The rhizome is the most distinctive feature — roughly fusiform, 3–8 cm long, with a dark purple to almost black interior when cut.
 
 **Related species:**
 
-K. parviflora is one of approximately 40 species in the genus Kaempferia. The most closely related commercially important species is K. galanga, which shares overlapping distribution in Southeast Asia but has a lighter-colored rhizome.
+K. parviflora is one of approximately 40 species in the genus Kaempferia. The most closely related commercially important species is K. galanga, which shares overlapping distribution in [[psilocybe-southeast-asia-pacific]] but has a lighter-colored rhizome.
 
 K. rotunda (round zedoary) is another notable relative, used in traditional Indian medicine and as a starch source. The genus is part of the tribe Kaempferieae, which also includes Boesenbergia rotunda (fingerroot).
 
@@ -83,7 +83,7 @@ Vasodilatory effects have been documented in both in vitro and in vivo studies. 
 
 Animal studies have shown improved sperm quality and increased testosterone levels following oral administration of K. parviflora extract. Antimicrobial activity against Gram-positive bacteria and certain fungi has also been reported.
 
-The extract has demonstrated neuroprotective effects in animal models, including improvement of cognitive function and reduction of oxidative stress markers in brain tissue. These findings have expanded research interest beyond the traditional reproductive health applications.
+The extract has demonstrated neuroprotective effects in animal models, including improvement of cognitive function and reduction of [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] markers in brain tissue. These findings have expanded research interest beyond the traditional reproductive health applications.
 
 Antiallergic properties have also been documented, with the extract inhibiting histamine release and suppressing immunoglobulin E (IgE) production in vitro. These diverse pharmacological activities suggest potential for broader therapeutic applications.
 
@@ -91,7 +91,7 @@ Antiallergic properties have also been documented, with the extract inhibiting h
 
 K. parviflora is propagated primarily from rhizome pieces (sets) rather than seeds. Rhizome segments of 20–30 g with at least one bud are planted at a depth of 3–5 cm in prepared beds. Planting is typically done at the onset of the rainy season (May–June) in Thailand.
 
-Optimal growth occurs in sandy loam soils with pH 5.5–7.0 under 40–60% shade. The crop requires consistent moisture during the growing period but tolerates dry conditions during dormancy. Organic amendments, particularly composted manure, are commonly applied.
+Optimal growth occurs in sandy loam soils with pH 5.5–7.0 under 40–60% shade. The crop requires consistent moisture during the growing period but tolerates dry conditions during dormancy. [[cervantes-organic-amendments-chart]], particularly [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]], are commonly applied.
 
 Harvest occurs 8–10 months after planting, when aerial parts begin to senesce during the dry season. Yields of fresh rhizome average 8–15 tonnes per hectare under cultivated conditions. Post-harvest, rhizomes are washed, sliced, and either sun-dried or oven-dried at 50–60°C.
 
@@ -99,9 +99,11 @@ Thailand is the world's largest producer and consumer of K. parviflora products.
 
 Dried K. parviflora rhizome contains approximately 60–70% carbohydrate (primarily starch), 5–8% protein, 1–2% fat, and 8–12% total polymethoxyflavones on a dry weight basis. The mineral profile includes significant amounts of potassium, calcium, and magnesium.
 
-The species has been granted Thai Geographical Indication (GI) status in some provinces, reflecting its cultural and economic importance. Quality standards for commercial products have been established by the Thai FDA.
+The species has been granted Thai Geographical Indication (GI) status in some provinces, reflecting its cultural and economic importance. [[aact-compost-quality-standards-ingham]] for commercial products have been established by the Thai FDA.
 
 ## See Also
+
+- [[kaempferia-rotunda]]
 
 - [[zingiber-officinale]]
 - [[curcuma-longa]]

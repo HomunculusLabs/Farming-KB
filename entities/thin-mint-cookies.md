@@ -14,7 +14,7 @@ sources:
   - Leafly Staff (2023). "Thin Mint Cookies Strain Information." Leafly.com.
   - AllBud (2023). "Thin Mint Girl Scout Cookies." AllBud.com.
   - Zamnesia (2023). "Thin Mint Cookies: A GSC Phenotype." Zamnesia.com.
-  - Mudge, E. et al. (2022). "Cannabinoid and terpene profiles of Girl Scout Cookies varieties." Cannabis and Cannabinoid Research 7(3): 245-258.
+  - Mudge, E. et al. (2022). "Cannabinoid and [[cannabis-terpene-profiles-sativa]] of Girl Scout Cookies varieties." Cannabis and Cannabinoid Research 7(3): 245-258.
   - Smart, R. et al. (2022). "The phytochemical diversity of commercial Cannabis." Scientific Reports 12: 12597.
 created: 2026-04-28
 ---
@@ -29,7 +29,7 @@ Thin Mint consistently ranks among the highest-THC GSC phenotypes, with laborato
 
 It won the 2014 High Times Cannabis Cup in Amsterdam in the best U.S. strain category.
 
-The award cemented Thin Mint's reputation as the definitive GSC expression and propelled it into mainstream cannabis culture. It remains one of the most recognizable strain names in the modern market.
+The award cemented Thin Mint's reputation as the definitive GSC expression and propelled it into mainstream [[mckenna-cannabis-culture-history]]. It remains one of the most recognizable strain names in the modern market.
 
 ## Lineage
 
@@ -69,7 +69,7 @@ Caryophyllene adds peppery warmth and functions as a CB2 receptor agonist, contr
 
 **Cannabinoid profile:** THC typically ranges from 20–28%, with some tested samples reaching 30%. CBD is very low, usually below 0.1%. The strain produces significant THCV in some phenotypes (0.1–0.3%), which may contribute to the clear-headed aspects of its effects.
 
-Minor cannabinoids detected include CBG (0.1–0.3%) and CBC (trace amounts). The entourage effect of high THC with limonene and linalool is considered key to the strain's distinctive psychoactive character.
+Minor cannabinoids detected include CBG (0.1–0.3%) and CBC (trace amounts). The [[cannabis-terpene-entourage-effect-profiles]] of high THC with limonene and linalool is considered key to the strain's distinctive psychoactive character.
 
 ## Effects
 
@@ -89,11 +89,11 @@ The balanced onset allows patients to address mood symptoms while the later body
 
 Thin Mint is considered moderately difficult to cultivate, suited for growers with some experience.
 
-It can be grown indoors or outdoors, though indoor cultivation produces the highest quality and most consistent phenotype expression. The strain requires attention to humidity and nutrient management.
+It can be grown indoors or outdoors, though indoor cultivation produces the highest quality and most consistent phenotype expression. The strain requires attention to humidity and [[green-cannabis-grow-bible-nutrient-management-ppm]].
 
 Indoor flowering time is 9–10 weeks. Plants reach medium height (80–120 cm) with a bushy, lateral branching structure.
 
-SCROG (Screen of Green) training is recommended to maximize light exposure and yield. LST (low-stress training) in early vegetative stage promotes even canopy development.
+SCROG (Screen of Green) training is recommended to maximize light exposure and yield. LST (low-stress training) in early [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] promotes even canopy development.
 
 Expected yields are 350–450 g/m² indoors under optimal conditions.
 
@@ -105,12 +105,12 @@ It is moderately resistant to mold and pests but can be sensitive to high humidi
 
 Temperature reduction during the final 2–3 weeks of flowering (dropping to 15–18°C at night) enhances purple coloration and can boost terpene production.
 
-This cold-weather technique is commonly used to bring out the signature dark appearance. Harvest timing should be based on trichome maturity, with 70–80% cloudy/amber being optimal for maximum potency.
+This cold-weather technique is commonly used to bring out the signature dark appearance. [[cannabis-harvest-timing-visual-cues]] should be based on trichome maturity, with 70–80% cloudy/amber being optimal for maximum potency.
 
 ## See Also
 
 - [[og-kush]]
 - [[sunset-sherbet]]
-- [[wedding-cake-cannabis]]
+- [[wedding-cake]]
 - [[kush-mints]]
 - [[ak-47-cannabis]]

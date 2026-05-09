@@ -17,7 +17,7 @@ sources:
     genus Lycoperdon." Mycologia 101(6): 828-837.
   - Kreisel, H. (1967). "Taxonomic-pflanzengeographische Monographie der
     Gattung Lycoperdon." Nova Hedwigia 20: 1-250.
-  - Wasser, S.P. (2002). "Medicinal mushrooms as a source of antitumor
+  - Wasser, S.P. (2002). "[[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] as a source of antitumor
     and immunomodulating polysaccharides." Applied Microbiology and
     Biotechnology 60(3): 258-274.
   - Singer, R. (1986). "The Agaricales in Modern Taxonomy." 4th ed.
@@ -34,13 +34,13 @@ sources:
 studded puffball**, is a widespread saprophytic basidiomycete and one of
 the most frequently encountered puffball species in temperate forests
 worldwide. It is edible when young and immature, prized in European and
-North American foraging for its mild, earthy flavor and pleasant texture.
+[[growing-gourmet-north-american-reishi-species]] foraging for its mild, earthy flavor and pleasant texture.
 
 Beyond culinary value, L. perlatum produces bioactive polysaccharides with
 immunomodulatory and antitumor properties in vitro. The species also
 accumulates heavy metals, serving as a bioindicator of environmental
 contamination and a potential mycoremediation agent. Its role as a primary
-decomposer of woody debris supports forest nutrient cycling and permaculture
+decomposer of [[fungal-succession-woody-debris-ecology]] supports forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and permaculture
 systems.
 
 ## Taxonomy
@@ -70,7 +70,7 @@ it within a clade closely related to Calvatia and Handkea.
 - **Endoperidium:** Smooth, papery, olive-brown at maturity, thin and
   fragile
 - **Apical pore:** Small opening at apex developing at maturity for
-  spore dispersal
+  [[aquatic-fungi-spore-dispersal-ingold]]
 - **Gleba:** White and firm when immature (edible); yellow-olive then
   olive-brown powdery spore mass at maturity
 - **Subgleba:** Small sterile basal portion, chambered, extending as a
@@ -91,7 +91,7 @@ it within a clade closely related to Calvatia and Handkea.
 
 ## Nutritional Profile
 
-Young L. perlatum has a favorable nutritional composition:
+Young L. perlatum has a favorable [[dighton-fungal-nutritional-composition-animal-diets]]:
 
 - **Protein:** 15–25% dry weight (high for a mushroom)
 - **Carbohydrates:** 45–55% dry weight, including chitin and β-glucans
@@ -126,9 +126,6 @@ L. perlatum is excellent when young with white, firm gleba:
 - **Safety:** Always cut open to confirm uniform white flesh with no gill
   structure. Young Amanita "egg" stages look similar externally but
   contain gills inside — these are deadly poisonous
-
-## Ecological Role and Permaculture Applications
-
 ## Related Species
 
 - **Lycoperdon pyriforme:** Found on buried decaying wood; smoother
@@ -140,6 +137,8 @@ L. perlatum is excellent when young with white, firm gleba:
   cracking to reveal lead-colored inner skin
 
 ## See Also
+
+- [[parmotrema-perlatum]]
 
 - [[lycoperdon-pyriforme]]
 

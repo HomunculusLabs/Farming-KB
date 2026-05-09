@@ -13,7 +13,7 @@ sources:
 
 **Stropharia caerulea** is a saprotrophic basidiomycete and cord-forming fungus.
 
-It has served as an important model organism for studies of mycelial foraging behaviour, fractal geometry of fungal networks, and inter-specific interactions between fungal mycelial systems in soil.
+It has served as an important model organism for studies of [[fungal-mycelial-foraging-heterogeneous-environments]] behaviour, fractal geometry of fungal networks, and inter-specific interactions between fungal mycelial systems in soil.
 
 ## Taxonomy and Classification
 
@@ -32,7 +32,7 @@ The genus *Stropharia* includes species commonly found on nutrient-rich substrat
 
 S. caerulea produces surface fractal mycelia, characterized by diffuse, slowly extending search fronts.
 
-This contrasts with mass fractal species such as [[coprinus-picaceus]]*, and *Phallus impudicus*.
+This contrasts with mass fractal species such as [[coprinus-picaceus]]*, and *[[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]]*.
 
 Mass fractal species have open systems with well-defined, rapidly extending cords.
 
@@ -48,7 +48,7 @@ With mass fractal systems, DS equals DM, whereas with surface fractal systems li
 
 Stropharia species are commonly found on nutrient-rich sites such as compost heaps.
 
-S. caerulea colonizes *Urtica dioica* (stinging nettle) rhizomes and other small woody and non-woody litter.
+S. caerulea colonizes *Urtica dioica* ([[comparison-stinging-nettle-vs-horsetail]]) rhizomes and other small woody and non-woody litter.
 
 This preference for nutrient-enriched substrates is consistent with its short-range foraging strategy.
 
@@ -70,7 +70,7 @@ Radiotracer studies have demonstrated that nutrients are scavenged at foraging f
 
 ## Response to Environmental Factors
 
-Mycelial growth (extension, biomass, D) is affected by many environmental variables.
+[[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] (extension, biomass, D) is affected by many environmental variables.
 
 These include:
 
@@ -91,7 +91,7 @@ S. caerulea is responsive to changes in the environment and responds to elevated
 
 Studies have examined interactions between S. caerulea mycelium and that of other cord-forming saprotrophic basidiomycetes in trays of compressed soil.
 
-These interaction studies reveal how different fungal species with contrasting foraging strategies compete for and partition resources in soil environments.
+These interaction studies reveal how different fungal species with contrasting [[mycelial-foraging-strategies-nutrient-translocation]] compete for and partition resources in soil environments.
 
 The outcomes of interspecific mycelial interactions depend on:
 

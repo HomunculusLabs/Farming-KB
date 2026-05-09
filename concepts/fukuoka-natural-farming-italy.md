@@ -1,11 +1,12 @@
 ---
-title: Fukuoka — Natural Farming Takes Root in Italy
+title: Fukuoka — comparison-natural-farming-vs-permaculture Takes Root in Italy
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Natural Farming Takes Root in Italy
@@ -18,7 +19,7 @@ Fukuoka visited an Italian practitioner named Giannozzo who had established a wo
 
 - A "summer camp" was held at Giannozzo's farm where people practiced natural farming together
 - The farm served as a demonstration site for European audiences
-- People came to learn and experience natural farming methods firsthand
+- People came to learn and experience natural [[natural-farming-methods-comparison]] firsthand
 
 ## Milan Rice
 
@@ -61,14 +62,14 @@ See also: [[fukuoka-change-come-over-westerners]], [[fukuoka-natural-farming-tod
 The principles outlined on this page connect directly to hands-on work in gardens,
 farms, and homesteads. Integrating these concepts with complementary techniques from
 related disciplines can significantly improve outcomes. Start with small-scale
-implementation and scale up as understanding deepens through direct observation.
+implementation and scale up as understanding deepens through [[fukuoka-direct-observation-method]].
 
 ## Philosophical Context
 
 Fukuoka's work emerged from a deep disillusionment with the trajectory of modern
 civilization. His experiences as a plant pathologist, farmer, and philosopher
 converged into a worldview that questioned humanity's separation from nature.
-He argued that the more humans try to control natural systems, the further they
+He argued that the more humans try to [[fukuoka-straw-pest-control-natural-balance]] systems, the further they
 drift from genuine understanding. This perspective challenges both conventional
 agriculture and the assumptions underlying industrial progress.
 
@@ -122,11 +123,11 @@ When told that cypress trees, which appear often in Van Gogh's paintings, are us
 
 ## Desertification of the Italian Landscape
 
-While searching for the basic cause behind the stagnation of European agriculture, Fukuoka suspected soil depletion. While wondering what plants would be best for reviving lands approaching a desert state, he was invited to speak at the Agricultural Academy of Florence. There, the president was trying to introduce tropical plants. Fukuoka asked whether it wasn't far more important to dedicate efforts to preventing [[desertification]] by enhancing soil fertility and bringing back the plants native to Italy. The dean of agriculture was overjoyed and immediately offered to translate *The Natural Way of Farming* into Italian.
+While searching for the basic cause behind the stagnation of [[fukuoka-european-agriculture-observations]], Fukuoka suspected soil depletion. While wondering what plants would be best for reviving lands approaching a desert state, he was invited to speak at the Agricultural Academy of Florence. There, the president was trying to introduce tropical plants. Fukuoka asked whether it wasn't far more important to dedicate efforts to preventing [[desertification]] by enhancing soil fertility and bringing back the plants native to Italy. The dean of agriculture was overjoyed and immediately offered to translate *The Natural Way of Farming* into Italian.
 
 ## Milan Natural Rice
 
-After the camp near Florence, Fukuoka toured the rice-growing district near Milan. Rice sold under the Ivo Totti label is famous as natural rice not only in the local Milan region but in other European countries. The 300-acre farm was the location of the movie *Bitter Rice*, starring Sophia Loren. The owner had a deep interest in natural farming. Rice in the Milan region is grown by direct seeding in flooded fields rather than transplanted.
+After the camp near Florence, Fukuoka toured the rice-growing district near Milan. Rice sold under the Ivo Totti label is famous as natural rice not only in the local Milan region but in other European countries. The 300-acre farm was the location of the movie *Bitter Rice*, starring Sophia Loren. The owner had a deep interest in natural farming. Rice in the Milan region is grown by [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] in flooded fields rather than transplanted.
 
 ## Italy's Largest Farm
 

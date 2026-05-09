@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-Auto-flowering cannabis strains represent one of the most significant breeding innovations in modern cannabis cultivation. By incorporating Cannabis ruderalis genetics, breeders have created sativa-dominant varieties that flower automatically based on age rather than photoperiod, dramatically reducing the time from seed to harvest and enabling cultivation in conditions that would otherwise be unsuitable for sativa varieties.
+Auto-flowering cannabis strains represent one of the most significant breeding innovations in modern [[query-how-does-no-till-cannabis-cultivation-work]]. By incorporating [[cervantes-cannabis-ruderalis-autoflowering]] genetics, breeders have created sativa-dominant varieties that flower automatically based on age rather than photoperiod, dramatically reducing the time from seed to harvest and enabling cultivation in conditions that would otherwise be unsuitable for sativa varieties.
 
 ## The Ruderalis Contribution
 
@@ -30,11 +30,11 @@ The key traits that ruderalis contributes to auto-flowering hybrids:
 - **Compact size**: Ruderalis genetics keep plants small, typically 1-3 feet tall
 - **Rapid maturation**: From germination to harvest in 60-75 days
 - **Durability**: Ruderalis evolved in harsh climates, contributing hardiness
-- **Simplified light requirements**: No need for light cycle management during flowering
+- **Simplified [[growing-gourmet-light-requirements-mushroom-fruiting]]**: No need for light cycle management during flowering
 
 ## Case Study: Angelmatic (Little Angel)
 
-The Cannabis Sativa Vol 3 strain guide features Angelmatic (also known as Little Angel) from Holland's Ministry of Cannabis as an example of auto-flowering sativa breeding. Created by crossing a Little Devil plant with a Ruderalis variety, Angelmatic brings auto-flowering characteristics to a sativa-dominant genetic background.
+The Cannabis Sativa Vol 3 strain guide features Angelmatic (also known as Little Angel) from Holland's Ministry of Cannabis as an example of auto-flowering [[cannabis-sativa-breeding-evolution]]. Created by crossing a Little Devil plant with a Ruderalis variety, Angelmatic brings auto-flowering characteristics to a sativa-dominant genetic background.
 
 **Breeding goal**: Enable sativa-dominant hybrid cultivation even in very small grow spaces — "smaller than your average fridge."
 
@@ -49,7 +49,7 @@ The Cannabis Sativa Vol 3 strain guide features Angelmatic (also known as Little
 - Indoor yield: approximately 50 grams per plant
 - Outdoor yield: up to 100 grams per plant in temperate summer conditions
 
-**Target users**: Rookies, light medical marijuana users who don't need excessive amounts, and anyone with extremely limited growing space.
+**Target users**: Rookies, light [[cervantes-medical-marijuana-pharmacology]] users who don't need excessive amounts, and anyone with extremely limited growing space.
 
 **Sensory profile**: Medium-sized green cone buds smelling like fresh flowers and sour [[supercropping]]
 - **No cloning**: Auto-flowering plants cannot be effectively cloned because the flowering timer starts at germination; clones would flower immediately regardless of size
@@ -77,7 +77,7 @@ Auto-flowering sativas serve specific niches in medical cannabis:
 
 ## The Breeding Frontier
 
-The development of auto-flowering sativas represents an ongoing frontier in cannabis breeding. As ruderalis genetics are further refined and backcrossed with premium sativa lines, the gap between auto-flowering and photoperiod strains continues to narrow. Newer auto-flowering varieties are achieving potency levels and flavor profiles that approach those of their photoperiod counterparts, while maintaining the compact size and rapid lifecycle that make them so practical.
+The development of auto-flowering sativas represents an ongoing frontier in [[oner-cannabis-breeding-fundamentals]]. As ruderalis genetics are further refined and backcrossed with premium sativa lines, the gap between auto-flowering and photoperiod strains continues to narrow. Newer auto-flowering varieties are achieving potency levels and flavor profiles that approach those of their photoperiod counterparts, while maintaining the compact size and rapid lifecycle that make them so practical.
 
 ## Beyond Angelmatic: Auto-Flowering in the Market
 

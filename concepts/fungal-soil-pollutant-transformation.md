@@ -13,10 +13,10 @@ type: concept
 ## Overview
 
 Soil is the primary receptor for persistent organic pollutants (POPs)
-and represents the most common target for fungal bioremediation.
+and represents the most common target for [[staycare-composting-as-a-fungal-bioremediation-strategy]].
 Fungi offer unique advantages for soil remediation through their
 filamentous growth habit, which enables efficient colonization and
-exploration of solid substrates, and their extracellular enzyme
+exploration of solid substrates, and their [[dighton-fungal-extracellular-enzyme-systems-decomposition]]
 systems that can attack pollutants without requiring cellular uptake.
 However, the soil environment presents significant challenges including
 variable physicochemical conditions, competition from indigenous
@@ -30,7 +30,7 @@ Soil is not the natural habitat for many fungi used in bioremediation,
 most of which are wood-decay organisms. [[phanerochaete-chrysosporium]], which naturally colonize dead wood, may
 require soil conditions to be altered to encourage their growth. Soil
 physicochemical factors including pH, moisture content, temperature,
-and nutrient availability dramatically affect pollutant transformation
+and [[ph-and-nutrient-availability-garden-soils]] dramatically affect pollutant transformation
 rates. Different fungi have different soil preferences: Lentinula
 edodes was more effective at transforming pentachlorophenol at lower
 soil moisture contents, while P. chrysosporium performed better at
@@ -82,20 +82,20 @@ during storage and from adverse conditions after application.
 
 Bioavailability is a major factor controlling pollutant
 transformation in soil. POPs in aged contaminated soils may be
-strongly sorbed to soil organic matter and therefore less accessible
+strongly sorbed to soil [[hamilton-composting-and-organic-matter-management]] and therefore less accessible
 to fungal enzymes than freshly added compounds. Surfactants have
 shown positive effects on PAH transformation by fungi in both liquid
 culture and soil. Non-ionic surfactants such as Tween 80 produced
 two- to fivefold increases in degradation of anthracene, pyrene, and
 benzo[a]pyrene by Bjerkandera species. Wetting and drying cycles can
-also affect bioavailability of organic compounds sequestered in soil.
+also affect bioavailability of [[fungal-volatile-organic-compounds-communication]] sequestered in soil.
 Aged contamination generally shows lower biodegradation rates than
 freshly spiked soils.
 
 ## Manganese Addition
 
 Manganese stimulates fungal biotransformation of atrazine by increasing
-membrane permeability and stimulating manganese peroxidase activity.
+membrane permeability and stimulating [[fungal-manganese-peroxidase-remediation]] activity.
 Normal soil manganese ranges from 0.1 micromolar per litre in aerated
 alkaline soils to 400 micromolar per litre in submerged soils, while
 phenanthrene transformation by Pleurotus pulmonarius was stimulated by
@@ -139,9 +139,10 @@ reverse transcriptase PCR allows assessment of active fungal
 metabolism. Polymerase chain reaction (PCR) procedures can detect
 and quantify fungal biomass in soil, providing data on survival
 of inoculated strains. These monitoring approaches are essential
-for linking observed pollutant disappearance to specific fungal
-activity.
 ## See Also
 
-- [[mycoremediation-field-applications-case-studies]]
+- mycoremediation-field-applications-case-studies
 - [[fungal-bioremediation-formulation-delivery]]
+- [[indigenous-microorganisms]]
+- [[pleurotus-species]]
+- [[white-rot-fungi]]

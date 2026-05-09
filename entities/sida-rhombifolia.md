@@ -13,8 +13,8 @@ sources:
 
 Sida rhombifolia, commonly known as picao preto, Queensland hemp,
 arrowleaf sida, or broomweed, is an annual or perennial herb in
-the family Malvaceae with a pantropical distribution. Native to
-the Old World tropics, it has become naturalized throughout the
+the family Malvaceae with a [[copelandia-cyanescens-pantropical-distribution-and-ecology]]. Native to
+the [[datura-metel-old-world-ethnobotany]] tropics, it has become naturalized throughout the
 Americas, Africa, Asia, and the Pacific islands. The species has
 a long history of use in traditional medicine across multiple
 cultures and has attracted ethnobotanical interest for its mild
@@ -81,7 +81,7 @@ alkaloid profiles.
 
 S. rhombifolia is considered a weed in many agricultural systems,
 particularly in tropical pastures and row crops. Its prolific
-seed production and ability to persist in disturbed soils make it
+[[cervantes-seed-production-storage]] and ability to persist in disturbed soils make it
 a successful colonizer. Despite its weedy status, it is
 deliberately cultivated in some regions for its medicinal
 properties and as a source of fiber.
@@ -110,7 +110,7 @@ traditional use for respiratory conditions.
 - **India (Ayurveda):** Used as a febrifuge, diuretic, and anti-inflammatory; root preparations for nervous disorders
 - **West Africa:** Decoctions for malaria, diarrhea, and respiratory infections
 - **China:** Whole plant used as an anti-inflammatory and analgesic
-- **Southeast Asia:** Leaf paste applied to headaches and wounds
+- **[[psilocybe-southeast-asia-pacific]]:** Leaf paste applied to headaches and wounds
 
 ## Ethnobotanical and Psychoactive Notes
 
@@ -140,6 +140,8 @@ areas.
 - Widely available as a weed; sold in some herbal markets in Brazil, India, and Southeast Asia
 - Ephedrine content is minimal and does not trigger ephedrine-related regulations in most jurisdictions
 ## See Also
+
+- [[sida-cordifolia]]
 
 - [[leonurus-sibiricus]]
 - [[mimosa-tenuiflora]]

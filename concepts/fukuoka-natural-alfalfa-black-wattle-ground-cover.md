@@ -1,17 +1,18 @@
 ---
-title: Alfalfa, Black Wattle, and Ground Cover for Orchard Soil Building
+title: Alfalfa, fukuoka-black-wattle-fertilizer-tree-method, and fukuoka-citrus-orchard-ground-cover-cultivation for fukuoka-orchard-soil-building-without-fertilizers
 created: 2026-04-28
 tags: [fukuoka, natural-farming, ground-cover, legumes, soil-building]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
 # Alfalfa, Black Wattle, and Ground Cover for Orchard Soil Building
 
-Nothing surpasses ladino clover in dealing with weeds, but in warm regions
+Nothing surpasses [[fukuoka-textdoc-ladino-clover-alfalfa-bur-clover-orchard-ground-cover]] in dealing with weeds, but in warm regions
 where it tends to lose its vigor in the summer, and in cold, dry areas, mixed
 seeding with alfalfa is desirable. This works especially well on earthen
 levees, for example. This approach to [[fukuoka-four-principles-natural-farming|four principles of natural farming]].
@@ -25,7 +26,7 @@ cold conditions as well as to high temperatures. When mixed with clover,
 alfalfa helps to eliminate other herbs and grasses. The deep roots of
 legumes like alfalfa also support [[acacia]], serves as a fertilizer tree, it
 plays a role also in association with ground cover cultivation. Up to about
-ten of these trees should be planted per quarter-acre among the fruit trees. A
+ten of these trees should be planted per quarter-acre among the [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]. A
 member of the pea family, this tree is effective in several ways:
 
 1. **Rapid improvement of deep soil layers**: The root system penetrates
@@ -101,7 +102,7 @@ soil from surface to subsoil.
 
 ## Perennial Weeds as Natural Cover
 
-Fukuoka observed that attempting to replace natural weed growth entirely
+Fukuoka observed that attempting to replace [[fukuoka-natural-weed-management]] growth entirely
 with cultivated cover crops was both unnecessary and counterproductive.
 The weeds that appeared spontaneously in an orchard were those best
 suited to the local soil conditions and climate. Rather than fighting

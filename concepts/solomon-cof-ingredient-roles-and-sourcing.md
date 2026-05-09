@@ -1,5 +1,5 @@
 ---
-title: Complete Organic Fertilizer Ingredient Roles and Sourcing
+title: Complete complete-organic-fertilizer-cof-recipe-solomon solomon cof ingredient roles and sourcing and Sourcing
 created: 2026-04-28
 tags:
   - organic-fertilizer
@@ -31,11 +31,11 @@ Dolomitic lime contains both [[lowenfels-nutrients-potassium-calcium-magnesium]]
 
 ## Rock Phosphate or Bone Meal (Phosphorus)
 
-The COF formula calls for one part of a [[phosphorus-availability]] availability from rock phosphate is enhanced by the acidic conditions created as organic matter decomposes. The slow-release nature of rock phosphate means that annual applications build up a phosphorus reserve in the soil, reducing the need for heavy applications in subsequent years. The phosphorus content of rock phosphate has steadily decreased in commercially available sources over recent decades, making the less expensive options increasingly attractive relative to their nutrient content.
+The COF formula calls for one part of a  availability from rock phosphate is enhanced by the acidic conditions created as organic matter decomposes. The slow-release nature of rock phosphate means that annual applications build up a phosphorus reserve in the soil, reducing the need for heavy applications in subsequent years. The phosphorus content of rock phosphate has steadily decreased in commercially available sources over recent decades, making the less expensive options increasingly attractive relative to their nutrient content.
 
 ## Kelp Meal or Basalt Dust (Trace Minerals)
 
-One part of either kelp meal or basalt dust provides the broad spectrum of trace minerals that chemical fertilizers lack. Kelp meal is particularly rich in growth regulators, natural hormones, cytokinins, and micronutrients that enhance plant resistance to cold, frost, and other stresses. Solomon reports that his garden has never grown so well and that the food has never tasted so good since he began including kelp meal in his COF.
+One part of either kelp meal or basalt dust provides the broad spectrum of trace minerals that [[cervantes-chemical-fertilizers-guide]] lack. Kelp meal is particularly rich in [[ingham-natural-growth-regulators-soil-microbes]], natural hormones, cytokinins, and micronutrients that enhance plant resistance to cold, frost, and other stresses. Solomon reports that his garden has never grown so well and that the food has never tasted so good since he began including kelp meal in his COF.
 
 Kelp meal sourced from places like South Korea can be more economical than domestic sources, as the cost of labor and exchange rates favor import pricing. Basalt dust is a suitable substitute, offering a different but equally broad mineral profile derived from volcanic rock. The kelp meal option, while somewhat costly, "adds considerable fortitude to the plants and vegetables" and Solomon urges gardeners to go as far as their budget allows to include it.
 
@@ -43,7 +43,7 @@ Kelp meal sourced from places like South Korea can be more economical than domes
 
 Solomon strongly advocates buying ingredients in bulk from agricultural supply houses and grain dealers rather than from retail garden shops. The price difference is dramatic: a 50-pound sack of seed meal from a farm supply store may cost a fraction of the per-pound price of the same material repackaged for the garden market. This bulk purchasing approach is central to the economics of COF.
 
-For gardeners in urban areas without access to farm supply stores, Solomon acknowledges that the logistics are more challenging but still encourages finding cooperative buying arrangements or specialty suppliers. The investment in a year's supply of bulk ingredients pays for itself many times over compared to buying pre-mixed organic fertilizers.
+For gardeners in urban areas without access to farm supply stores, Solomon acknowledges that the logistics are more challenging but still encourages finding cooperative buying arrangements or specialty suppliers. The investment in a year's supply of bulk ingredients pays for itself many times over compared to buying pre-mixed [[hamilton-organic-fertilizers-and-plant-nutrition]].
 
 ## Application Rates and Timing
 
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

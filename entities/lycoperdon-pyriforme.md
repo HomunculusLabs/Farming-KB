@@ -38,7 +38,7 @@ The species is among the most commonly encountered puffballs in forests and wood
 
 When young and firm with white internal flesh, it is an edible species collected by foragers.
 
-As it matures, the fruiting body transforms into a mass of dry, olive-brown spore dust released through an apical pore.
+As it matures, the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] transforms into a mass of dry, olive-brown spore dust released through an apical pore.
 
 ## Taxonomy and Morphology
 
@@ -68,7 +68,7 @@ The base typically attaches to a rhizomorph that anchors the fruiting body to th
 
 ## Distribution and Habitat
 
-*L. pyriforme* has a nearly cosmopolitan distribution in temperate forests of Europe, North America, Asia, and parts of Australia.
+*L. pyriforme* has a nearly cosmopolitan distribution in temperate forests of Europe, [[psilocybin-north-america-pacific-northwest]], Asia, and parts of Australia.
 
 It is one of the few puffball species that grows almost exclusively on wood, particularly dead hardwood stumps, fallen logs, and buried roots.
 
@@ -80,7 +80,7 @@ The species often grows in dense clusters of 10 to 50 or more individuals on a s
 
 It is found in a wide range of forest types, from managed plantations to old-growth stands.
 
-The fungus also appears in urban and suburban settings on landscape tree stumps and wood chip mulch.
+The fungus also appears in urban and suburban settings on landscape tree stumps and [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] mulch.
 
 ## Edibility
 
@@ -102,11 +102,11 @@ The species should not be confused with the young fruiting bodies of *Amanita* s
 
 *L. pyriforme* is a primary decomposer of woody substrates, playing an important role in forest carbon cycling.
 
-Its ability to colonize freshly cut stumps and dead wood positions it as an early-successional decomposer.
+Its ability to colonize freshly cut stumps and [[fungal-dead-wood-diversity]] positions it as an early-successional decomposer.
 
-The species is sensitive to air pollution, particularly sulfur dioxide, and has been used as a bioindicator of air quality in European studies.
+The species is sensitive to air pollution, particularly sulfur dioxide, and has been used as a bioindicator of [[cervantes-air-quality-ventilation]] in European studies.
 
-Puffball spores have been investigated for their bioremediation potential, with capacity to bind heavy metals from contaminated substrates.
+Puffball spores have been investigated for their bioremediation potential, with capacity to bind [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] from contaminated substrates.
 
 Methanolic extracts show antimicrobial activity against some Gram-positive bacteria.
 
@@ -126,6 +126,6 @@ In traditional medicine, dried puffball spore powder has been applied as a stypt
 
 - [[lycoperdon-marginatum]]
 - [[calvatia-cyathiformis]]
-- [[coprinus-comatus-detailed]]
+- [[coprinus-comatus]]
 - [[pleurotus-ostreatus]]
 - [[hugelkultur]]

@@ -1,7 +1,7 @@
 ---
-title: Mycorrhizal Carbon Sequestration
+title: Mycorrhizal mycorrhizal-fungi-soil-carbon-sequestration-by-type
 source: Fungi in the Environment - Gadd, Watkinson, Dyer
-source_author: [[geoffrey-gadd]], Sarah C. Watkinson, Paul S. Dyer
+source_author: geoffrey-gadd, Sarah C. Watkinson, Paul S. Dyer
 tags: [mycorrhiza, carbon-cycle, carbon-sequestration, terrestrial-ecosystems, plant-fungal-symbiosis, soil-carbon]
 created: 2026-05-08
 ---
@@ -13,13 +13,13 @@ created: 2026-05-08
 [[mycelial-networks]] that permeate the soil volume.
 
 Understanding mycorrhizal contributions to carbon sequestration has become
-increasingly urgent as global climate change intensifies. Mycorrhizal fungi influence
+increasingly urgent as global [[dighton-fungi-climate-change-feedback]] intensifies. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] influence
 both the amount and the stability of carbon stored in soils, making them key players
 in terrestrial carbon accounting and climate mitigation strategies.
 
 ## Carbon Flow from Plants to Fungi
 
-Carbon transfer from host plants to mycorrhizal fungi occurs primarily as sugars,
+[[singh-mycorrhizal-network-carbon-transfer-plants]] from host plants to mycorrhizal fungi occurs primarily as sugars,
 predominantly glucose and fructose, across the fungal interface within root cortical
 cells. In arbuscular mycorrhizas, the arbuscule provides the exchange surface; in
 ectomycorrhizas, the Hartig net serves this function.
@@ -37,13 +37,13 @@ simultaneously depositing carbon into the soil matrix through turnover and exuda
 
 ## Carbon Stabilization in Soil
 
-Mycorrhizal fungi contribute to soil carbon stabilization through multiple pathways.
+Mycorrhizal [[query-how-do-fungi-contribute-to-carbon-sequestration]] to soil carbon stabilization through multiple pathways.
 Fungal necromass—the dead remains of hyphae and spores—is particularly resistant
 to decomposition due to its biochemical composition. Chitin, melanin, and fungal
 glucans have longer residence times in soil than most plant-derived organic matter.
 
 Extraradical hyphae produce extracellular polymeric substances, including glomalin-
-related soil prot [[mycorrhizal-networks]] networks in facilitating
+related soil prot  networks in facilitating
 inter-plant carbon transfer, the mechanisms controlling the molecular fate of
 mycorrhizal carbon in soil, and the potential to manipulate mycorrhizal associations
 to enhance carbon sequestration in agricultural and restored ecosystems.
@@ -63,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +105,7 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+## See Also
+- [[mycorrhizal-networks]]
+- [[mycelial-networks]]
+- [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]

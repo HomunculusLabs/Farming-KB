@@ -5,12 +5,13 @@ updated: 2026-04-12
 type: concept
 tags: [mycology, mycorrhizae, symbiosis, plants, ecology, networks]
 sources:
-  - raw/papers/mycelium-running-stamets.md
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # Mycorrhizal Networks
 
-The symbiotic partnerships between fungi and plant roots — arguably the most important mutualism on Earth. From *Mycelium Running* by [[paul-stamets]].
+The symbiotic partnerships between fungi and plant roots — arguably the most important mutualism on Earth. From *[[woodlovers-mycelium-running-pathway-technique]]* by [[paul-stamets]].
 
 ## What Are Mycorrhizae?
 
@@ -41,7 +42,7 @@ Mycorrhizae (literally "fungus-root") are symbiotic associations where fungal hy
 | Nitrogen (mineralized from organic matter) | |
 | Micronutrients (zinc, copper, iron) | |
 | Disease protection (physical barrier + antibiotics) | |
-| Drought tolerance (extended root zone) | |
+| [[dighton-fungal-drought-tolerance-plant-water-relations]] (extended root zone) | |
 | Heavy metal tolerance (sequestration) | |
 
 ## Network Architecture
@@ -61,20 +62,20 @@ Suzanne Simard's research (referenced by Stamets) demonstrated:
 - "Mother trees" (large, old trees) share carbon through mycorrhizal networks with neighboring seedlings
 - Mother trees preferentially feed their own offspring
 - When a tree is dying, it dumps its carbon into the network for neighbors
-- Chemical signals travel through the network, warning nearby trees of insect attacks
+- [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] travel through the network, warning nearby trees of insect attacks
 - Trees of different species can share resources through common networks
 - Forests behave more like cooperative superorganisms than collections of competing individuals
 
 ## Why Mycorrhizae Matter for Forestry
 
 ### Cortes Island Trial Results
-- Seedlings with mycorrhizal inoculation + wood chips: 5% height gain, 7% girth gain (10 months)
+- Seedlings with [[teaming-with-fungi-mycorrhizal-inoculation-techniques]] + wood chips: 5% height gain, 7% girth gain (10 months)
 - Seedlings without either: baseline growth
 - Wood chips alone provided benefit but less than mycorrhizae + wood chips combined
 
 ### Practical Applications
 - **Nursery inoculation**: Dip seedling roots in mycorrhizal slurry before planting
-- **Companion planting**: Plant mycorrhizal host species alongside target trees
+- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]**: Plant mycorrhizal host species alongside target trees
 - **Soil preservation**: Avoid practices that destroy mycorrhizal networks (tilling, compaction, clear-cutting)
 - **Wood chip mulching**: Provides food for saprophytic fungi that support the overall fungal ecosystem
 
@@ -82,7 +83,7 @@ Suzanne Simard's research (referenced by Stamets) demonstrated:
 
 - **Tillage**: Destroys hyphal networks
 - **Soil compaction** (from heavy equipment): Crushes mycelium
-- **Chemical fertilizers**: High phosphorus fertilizers reduce mycorrhizal dependence
+- **[[cervantes-chemical-fertilizers-guide]]**: High phosphorus fertilizers reduce mycorrhizal dependence
 - **Fungicides**: Kill beneficial fungi along with pathogens
 - **Clear-cutting**: Removes host trees, starving the network
 - **Burning**: Destroys surface mycelium

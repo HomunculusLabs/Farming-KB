@@ -29,7 +29,7 @@ The plant forms dense, low-growing clumps reaching 30–60 cm in height when in 
 
 Leaves are oblong-lanceolate, 5–10 cm long and 2–4 cm wide, covered in dense white tomentose hairs on both surfaces. The indumentum gives the foliage a distinctive silvery appearance and velvety texture.
 
-The leaf margins are entire or slightly crenate. The woolly coating is so dense that water droplets bead on the surface, giving the plant a degree of drought tolerance.
+The leaf margins are entire or slightly crenate. The woolly coating is so dense that water droplets bead on the surface, giving the plant a degree of [[dighton-fungal-drought-tolerance-plant-water-relations]].
 
 Flowering stems rise above the foliage in late spring to early summer. The inflorescence is a spike of whorled, small, pinkish-purple to white flowers.
 
@@ -47,23 +47,23 @@ The species is native to the mountains of Turkey, Armenia, northwestern Iran, an
 
 In its native range, S. byzantina experiences cold winters and hot, dry summers. This adaptation makes it well-suited to gardens with similar continental or Mediterranean climates.
 
-The plant has naturalized in parts of Europe, North America, and New Zealand. It is occasionally considered weedy in favorable conditions but rarely becomes invasive.
+The plant has naturalized in parts of Europe, [[psilocybin-north-america-pacific-northwest]], and New Zealand. It is occasionally considered weedy in favorable conditions but rarely becomes invasive.
 
 Naturalized populations are typically found in disturbed sites, along roadsides, and in abandoned gardens. The species does not pose a significant ecological threat in areas where it has escaped cultivation.
 
-Climate change may expand the suitable range for S. byzantina in temperate regions, as its drought tolerance becomes increasingly valuable in water-conscious landscaping.
+[[dighton-fungi-climate-change-feedback]] may expand the suitable range for S. byzantina in temperate regions, as its drought tolerance becomes increasingly valuable in water-conscious landscaping.
 
 ## Cultivation
 
 Lamb's ears are among the most popular foliage plants in temperate gardens worldwide. They are propagated by division, stem cuttings, or seed, though division is the most common method.
 
-Division is best performed in early spring or autumn. Each division should include a portion of the root system and several growing points for reliable establishment.
+Division is best performed in [[coleman-overwintered-onions-and-early-spring-crops]] or autumn. Each division should include a portion of the root system and several growing points for reliable establishment.
 
 Seeds require light for germination and should be surface-sown. Germination typically occurs within 2–3 weeks at temperatures of 18–22°C.
 
 The plant thrives in full sun to light shade with well-drained soil. It tolerates poor, sandy, or rocky soils and is highly drought-tolerant once established.
 
-Overly rich soils or excessive moisture promote rotting of the woolly leaf bases. Good air circulation around the crowns helps prevent fungal diseases.
+Overly rich soils or excessive moisture promote rotting of the woolly leaf bases. Good [[stamets-growing-room-air-circulation-co2-management]] around the crowns helps prevent fungal diseases.
 
 In hot, humid climates, the foliage may become ragged by midsummer. Cutting back the flowering stems before bloom prevents self-seeding and redirects energy to foliage.
 
@@ -87,7 +87,7 @@ The plant provides limited wildlife habitat value beyond pollinator support. The
 
 The woolly leaf coating reflects a significant portion of incident solar radiation, reducing leaf temperature and transpiration rates. This adaptation contributes to the species' exceptional drought tolerance.
 
-Root systems are relatively shallow but extensive, forming a dense mat that helps stabilize loose soils on slopes and banks. This makes lamb's ears useful in erosion control plantings.
+Root systems are relatively shallow but extensive, forming a dense mat that helps stabilize loose soils on slopes and banks. This makes lamb's ears useful in [[permplant-willows-salix-erosion-control-fodder]] plantings.
 
 ## Ethnobotanical and Practical Uses
 

@@ -1,7 +1,7 @@
 ---
-title: "Legal Status of Psilocybin Research"
+title: "ayahuasca-tourism-legal-status-by-country of early-paris-psilocybin-research-1960s"
 created: 2026-04-26
-sources: "The Psilocybin Solution — Simon G. Powell"
+sources: "The powell-psilocybin-solution-ecological-cognition-theory — Simon G. Powell"
 author: "Simon G. Powell"
 topics: ["drug-policy", "prohibition", "psychedelic-research", "legality", "MAPS", "regulation"]
 type: concept
@@ -15,7 +15,7 @@ Powell's *The Psilocybin Solution* provides a detailed historical account of how
 prohibition halted psilocybin research for nearly three decades, and documents the cautious
 resurgence of scientific investigation in the late 1980s and 1990s. His treatment reveals the
 interplay between politics, science, and consciousness that has shaped the legal landscape
-surrounding psychedelic research.
+surrounding [[mckenna-suppression-psychedelic-research-lsd-therapy]].
 
 ## The Prohibition Watershed
 
@@ -93,7 +93,7 @@ flow of informed, hysteria-free knowledge."
 
 Powell documents the resurgence of research through two American organisations:
 
-**The Multidisciplinary Association for Psychedelic Studies (MAPS)**, founded in 1986, "actively
+**The [[maps-multidisciplinary-association-for-psychedelic-studies]] for Psychedelic Studies (MAPS)**, founded in 1986, "actively
 funds psychedelic research (as well as medical cannabis research) and helps scientists draw up
 their research protocols, a tough job when you have to approach notoriously conservative
 governmental agencies for permission to do your study."
@@ -123,7 +123,7 @@ invariably mix."
 
 ## The Politics of Consciousness
 
-Throughout, Powell frames prohibition not merely as drug policy but as "the politics of
+Throughout, Powell frames prohibition not merely as [[mckenna-modest-proposal-drug-policy-reform]] but as "the politics of
 consciousness." They "threaten to subvert the collective human psyche and upset our most
 cherished assumptions about the nature of reality." He argues that the cessation of psilocybin
 research was "more of a comma" than a full stop — a temporary pause in humanity's investigation

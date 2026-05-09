@@ -12,11 +12,11 @@ sources:
 
 updated: 2026-04-18
 
-Korean Natural Farming (KNF), developed by Dr. Cho Han Kyu in the 1960s, has spread from its origins in South Korea to over fifteen countries across Asia and beyond. The global adoption of KNF represents one of the most significant grassroots agricultural movements in recent decades, driven by the system's simplicity, cost-effectiveness, and harmony with nature.
+Korean [[comparison-natural-farming-vs-permaculture]] (KNF), developed by Dr. Cho Han Kyu in the 1960s, has spread from its origins in South Korea to over fifteen countries across Asia and beyond. The global adoption of KNF represents one of the most significant grassroots agricultural movements in recent decades, driven by the system's simplicity, cost-effectiveness, and harmony with nature.
 
 ## Origins in South Korea
 
-KNF was founded by Dr. Cho Han Kyu at the Janong Natural Farming Institute in South Korea. It was originally intended to change the chemical-based and harmful farming methods that were being practiced in South Korea. Dr. Cho developed the system as a final-year graduate student of agriculture and veterinary technology in 1965, when he recognized the irrelevance of Green Revolution Technologies for the Asian region.
+KNF was founded by Dr. Cho Han Kyu at the Janong Natural Farming Institute in South Korea. It was originally intended to change the chemical-based and harmful [[natural-farming-methods-comparison]] that were being practiced in South Korea. Dr. Cho developed the system as a final-year graduate student of agriculture and veterinary technology in 1965, when he recognized the irrelevance of Green Revolution Technologies for the Asian region.
 
 Together with like-minded farmers, he converted his lifelong studies and his own experiences into an innovative farming system that promotes respect and care for the environment while producing more with less cost and labour. The system was initially met with fierce resistance from chemical industry interests and government authorities -- Dr. Cho was jailed several times and dubbed anti-national. But when the results became too transparent for everybody to see, truth prevailed, and the Korean government accepted the technology.
 
@@ -27,10 +27,10 @@ The book identifies the following countries where KNF has been adopted:
 **Asia:**
 - **South Korea** -- the birthplace and center of KNF, where the Janong Natural Farming Institute continues to train farmers and conduct research
 - **Japan** -- one of the earliest countries outside Korea to adopt KNF; Dr. Cho examined best practices from Japanese farming communities for three generations
-- **China** -- large-scale adoption, particularly in provinces with intensive agricultural production
+- **China** -- large-scale adoption, particularly in provinces with intensive [[fukuoka-agricultural-production-net-energy-deduction]]
 - **Thailand** -- significant KNF presence, with many farmers adopting the system for both crops and livestock
 - **Malaysia** -- active KNF community with training programs
-- **Vietnam** -- growing adoption, especially in rice production and aquaculture
+- **Vietnam** -- growing adoption, especially in [[fukuoka-energy-analysis-rice-production-natural-vs-mechanized]] and aquaculture
 - **Philippines** -- KNF adopted for rice farming, poultry, and piggery operations
 - **Mongolia** -- KNF applied in challenging continental climate conditions, demonstrating the system's adaptability
 - **India** -- SARRA (South Asia Rural Reconstruction Association), Bangalore, has been instrumental in introducing and spreading KNF since 2006, with a demonstration and training center at Pulicherla, near Tirupathi, Andhra Pradesh
@@ -73,7 +73,7 @@ Several factors explain KNF's successful global adoption:
 
 The global adoption of KNF has had several impacts:
 
-- **Poverty alleviation:** KNF provides a low-cost alternative to expensive chemical farming, making agriculture more viable for small and marginal farmers
+- **[[mushroom-poverty-alleviation-developing-countries]]:** KNF provides a low-cost alternative to expensive [[knf-vs-chemical-farming-comparison]], making agriculture more viable for small and marginal farmers
 - **Food security:** The system's ability to produce more with less supports household and community food security
 - **Environmental rehabilitation:** KNF enriches the land and reverses environmental degradation from chemical agriculture
 - **Health improvement:** Chemical-free food production addresses the epidemic of lifestyle diseases linked to agricultural chemicals

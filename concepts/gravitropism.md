@@ -45,7 +45,7 @@ According to this model, gravity perception leads to the asymmetric
 redistribution of the plant hormone auxin, with higher concentrations
 accumulating on the lower side of a horizontally placed organ.
 
-In roots, elevated auxin on the lower side inhibits cell elongation, causing
+In roots, elevated auxin on the lower side inhibits [[brassinosteroid-physiological-mechanisms-cell-elongation-division]], causing
 the root to bend downward. In shoots, elevated auxin on the lower side
 promotes cell elongation, causing the shoot to bend upward. This opposite
 effect of auxin on root versus shoot growth is central to the differential
@@ -69,7 +69,7 @@ role in regulating carrier trafficking.
 
 Recent research has identified potential gravity-sensing mechanisms that
 operate independently of statoliths. The weight of the entire protoplast may
-contribute to gravity sensing through its pressure on the cell wall and
+contribute to gravity sensing through its pressure on the [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] and
 plasma membrane. Additionally, tension-sensitive ion channels in the plasma
 membrane could detect the mechanical stresses associated with gravitational
 displacement.

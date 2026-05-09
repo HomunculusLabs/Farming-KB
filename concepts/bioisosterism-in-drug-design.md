@@ -39,7 +39,7 @@ The medicinal chemist must evaluate whether the original carbonyl oxygen, NH don
 
 ## Ring and Scaffold Replacements
 Aromatic rings are often replaced to tune lipophilicity, metabolic oxidation, and solubility.
-Phenyl-to-pyridyl exchange can introduce a hydrogen-bond acceptor and reduce logP, but it may also change basicity or metal binding.
+Phenyl-to-pyridyl exchange can introduce a hydrogen-bond acceptor and reduce logP, but it may also change basicity or [[chelation-and-metal-binding-in-plants]].
 Phenyl-to-thiophene exchange can preserve aromatic volume while changing polarizability and metabolic risk.
 Saturated bioisosteres such as bicyclopentanes, cubanes, or spirocycles can replace flat rings and increase three-dimensionality.
 Scaffold hopping is the broader version of bioisosterism, where the core framework changes while the pharmacophoric vectors remain similar.

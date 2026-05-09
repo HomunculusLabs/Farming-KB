@@ -56,7 +56,7 @@ All species of Brugmansia are biologically very complex and appear to have been 
 
 The Jivaro people of the upper Amazon used Brugmansia species extensively in shamanic practices. Recalcitrant children were given a drink of B. sanguinea with parched maize; when intoxicated, the children were lectured so that the spirits of the ancestors might admonish them.
 
-This practice served as a form of spiritual discipline within Jivaro culture, reflecting the Andean belief that altered states of consciousness provide access to ancestral wisdom and authority.
+This practice served as a form of spiritual discipline within Jivaro culture, reflecting the Andean belief that [[weil-the-natural-mind-altered-states-normalcy]] of consciousness provide access to ancestral wisdom and authority.
 
 ### Choco Region
 
@@ -111,6 +111,8 @@ All Brugmansia species contain dangerous tropane alkaloids. The difference betwe
 The plant should never be consumed without expert knowledge of preparation and dosage. Modern horticultural use of Brugmansia as ornamental plants has led to numerous accidental poisonings worldwide.
 
 ## See Also
+
+- [[genlisea-aurea]]
 
 - [[brugmansia-sanguinea]] — Blood-Red Angel's Trumpet
 

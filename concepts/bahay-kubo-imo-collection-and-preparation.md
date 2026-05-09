@@ -1,5 +1,5 @@
 ---
-title: Bahay Kubo — IMO Collection and Preparation
+title: Bahay Kubo — bahay kubo imo collection and preparation and Preparation
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
@@ -8,7 +8,7 @@ sources: ["raw/papers/bahay-kubo-indigenous-microorganisms_.md"]
 ---
 # Bahay Kubo — IMO Collection and Preparation
 
-Gil Carandang's guide to collecting and culturing Indigenous Microorganisms (IMO) from local environments draws on Dr. Han Kyu Cho's Korean Natural Farming methods and his own experience at Herbana Farms in the Philippines. The core philosophy is that farmers should culture their own beneficial microorganisms from local sources rather than purchasing imported commercial cultures. See [[bahay-kubo-fpj-and-ffj-fermentation]] for LAB culture)
+Gil Carandang's guide to collecting and culturing [[beneficial-indigenous-microorganisms-bim]] (IMO) from local environments draws on Dr. [[cho-han-kyu-life-and-philosophy]] Cho's Korean [[comparison-natural-farming-vs-permaculture]] methods and his own experience at Herbana Farms in the Philippines. The core philosophy is that farmers should culture their own beneficial microorganisms from local sources rather than purchasing imported commercial cultures. See [[bahay-kubo-fpj-and-ffj-fermentation]] for LAB culture)
 - The remaining 50% divided among forest, bamboo, and plant-specific microorganisms
 - Suggested ratio: 3 parts LAB + 1 part forest + 1 part bamboo + 1 part plant-specific
 - More diversified microbes produce better results
@@ -21,7 +21,7 @@ Gil Carandang's guide to collecting and culturing Indigenous Microorganisms (IMO
 - Always maintain 50-75% air gap in containers during collection and fermentation
 - Cover loosely — never vacuum-tight — allowing air to move into the container
 - Place containers in quiet areas with no direct sunlight
-- Temperature range of 20-25 degrees C is optimal for collection
+- [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] of 20-25 degrees C is optimal for collection
 - Dilution rate: 1 part serum to 20 parts water for basic application
 - Water used for dilution must not be chemically treated (chlorine kills live microorganisms)
 - Application rate: 2-4 tablespoons per gallon of water as basic spray
@@ -105,4 +105,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

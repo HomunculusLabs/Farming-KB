@@ -1,7 +1,7 @@
 ---
 title: "PF Tek Inoculation Technique and Syringe Management"
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
-topics: inoculation, spore syringe technique, spore distribution, needle management
+topics: inoculation, [[comparison-spore-print-collection-vs-spore-syringe-production]] technique, [[emcdda-free-spore-ring-europe-spore-distribution-network]], needle management
 created: 2026-05-08
 ---
 
@@ -11,9 +11,9 @@ created: 2026-05-08
 
 The PF Tek inoculation procedure is designed for simplicity and
 reliability, enabling first-time cultivators to successfully introduce
-spores into sterilised substrate jars. Psilocybe Fanaticus provided
+spores into sterilised substrate jars. [[pf-tek-psilocybe-fanaticus-cultivation-method]] provided
 detailed instructions covering every aspect of the inoculation process,
-from syringe preparation to the physical mechanics of spore delivery.
+from [[mushroom-spore-printing-syringe-preparation-pf-tek]] to the physical mechanics of spore delivery.
 
 ## Pre-Inoculation Checks
 
@@ -84,7 +84,7 @@ For cultivators using regular 8oz (250ml) tapered drinking glasses
 instead of canning jars with punched lids, Fanaticus provided an
 alternative technique. Key precautions:
 
-- The dry vermiculite barrier layer at the top of the substrate must
+- The [[pf-tek-dry-vermiculite-contaminant-barrier]] barrier layer at the top of the substrate must
   be disturbed as little as possible
 - Work quickly to minimise contamination exposure time
 - This technique should only be attempted after mastering the standard
@@ -95,7 +95,7 @@ alternative technique. Key precautions:
 ## The PF Tek Innovation: Mass Spore Inoculation
 
 A fundamental innovation of the PF Tek was the use of mass spore
-inoculation directly onto the fruiting substrate, rather than the
+inoculation directly onto the [[pf-tek-maximum-fruiting-substrate-formula]], rather than the
 traditional mycological approach of cloning mushroom tissue and growing
 from that clone. Fanaticus explained the advantage: mass spore
 inoculation preserves the complete genotype, eliminating senescence
@@ -119,6 +119,8 @@ Key sterility practices:
   primary contaminant barrier during incubation
 
 ## See Also
+
+- [[pf-tek-spraying-and-ventilation-procedure]]
 
 - [[pf-tek-mycelium-senescence-spore-mass-inoculation]]
 - [[pf-tek-contaminant-source-identification]]

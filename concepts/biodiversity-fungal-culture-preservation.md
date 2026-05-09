@@ -1,5 +1,5 @@
 ---
-title: Fungal Culture Preservation
+title: biodiversity fungal culture preservation Preservation
 created: 2026-04-28
 tags:
   - mycology
@@ -17,7 +17,7 @@ type: concept
 # Fungal Culture Preservation
 
 Maintaining and preserving fungal cultures is essential for systematics,
-fungal biodiversity, and the long-term
+[[biodiversity-fungal-biodiversity-estimation-methods]], and the long-term
 availability of genetic resources. Because fungi are enormously diverse, no
 single preservation method works for all taxa. Methods range from simple
 short-term maintenance to permanent cryopreservation.
@@ -56,7 +56,7 @@ considered permanent. Maximum storage is generally 10 years or less:
   preserves oomycetes, basidiomycetes, ascomycetes, hyphomycetes, and
   yeasts. Ascomycetes survived up to 10 years at 20 degrees Celsius.
 
-- **Organic Substrata:** Wood chips, cereal grains, straw, or filter paper
+- **Organic Substrata:** [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]], cereal grains, straw, or filter paper
   serve as preservation substrata. Wood chips preserve wood-inhabiting fungi
   for up to 10 years at 4 degrees Celsius. Cereal grains preserve
   *Sclerotinia*, *Magnaporthe*, and *Rhizoctonia* for up to 10 years.
@@ -65,10 +65,10 @@ considered permanent. Maximum storage is generally 10 years or less:
   propagules such as *Rhizoctonia* and *Septoria*. Bottles are stored at
   4 degrees Celsius.
 
-- **Silica Gel:** Preserves sporulating fungi when specialized facilities
+- **[[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]]:** Preserves sporulating fungi when specialized facilities
   are unavailable. Spores protected by skim milk remain viable for 4 to 5
   years; dictyostelid spores survived up to 11 years. Silica gel prevents
-  all fungal growth and metabolism. The Fungal Genetic Stock Center has
+  all [[brassinosteroid-fungal-growth-promotion]] and metabolism. The [[biodiversity-fungal-genetic-diversity]] Stock Center has
   used this technique since 1962.
 
 - **Sclerotization:** Fungi producing sclerotia or microsclerotia can be
@@ -105,7 +105,7 @@ Dried specimens serve as physical vouchers for biodiversity studies. Most
 fleshy fungi can be air-dried, desiccated using silica gel, or freeze-dried.
 Freeze-dried specimens maintain shape and color better. After 5 to 6 years,
 cells of freeze-dried specimens may still be viable. Specimens are stored
-in [[biodiversity-fungi-molecular-methods]]. DNA banking complements living collections by preserving
+in biodiversity-fungi-molecular-methods. DNA banking complements living collections by preserving
 genetic material from organisms that cannot be cultured, such as obligate
 biotrophs.
 
@@ -124,5 +124,8 @@ results recorded alongside preservation dates and replicate vial counts.
 ## See Also
 
 - [[fungal-biodiversity-herbarium-collections]]
-- [[biodiversity-fungi-conservation]]
+- biodiversity-fungi-conservation
 - [[strain-isolation-from-wild-specimens]]
+- [[fungal-biodiversity]]
+- [[growing-gourmet-culture-slant-preservation-cryogenic-storage]]
+- [[fungal-nematode-endoparasites-biodiversity]]

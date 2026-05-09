@@ -1,7 +1,7 @@
 ---
-title: What is the Bauhaus movement and why does it matter?
+title: What is the query what is the [[bauhaus-movement]] and why does it matter and why does it matter?
 created: 2026-04-28
-subtitle: A concise FAQ on the Bauhaus as a school, design method, and modernist legacy
+subtitle: A concise FAQ on the Bauhaus as a school, [[permaculture-guild-design-method]], and modernist legacy
 tags: [query, bauhaus, design-history, architecture, modernism, industrial-design]
 date: 2026-05-02
 updated: 2026-05-02
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

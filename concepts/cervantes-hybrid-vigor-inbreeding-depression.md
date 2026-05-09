@@ -1,5 +1,5 @@
 ---
-title: Hybrid Vigor and Inbreeding Depression in Cannabis
+title: cannabis-hybrid-vigor-and-phenotypes-clarke and Inbreeding Depression in Cannabis
 created: 2026-04-26
 tags:
   - cannabis
@@ -10,13 +10,14 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Hybrid Vigor and Inbreeding Depression in Cannabis
 
-Two of the most important concepts in cannabis breeding are hybrid
+Two of the most important concepts in [[oner-cannabis-breeding-fundamentals]] are hybrid
 vigor (heterosis) and inbreeding depression. These opposing forces
 govern much of the strategy behind breeding programs. Understanding
 them is essential for creating vigorous, productive cannabis varieties.
@@ -82,7 +83,7 @@ generations.
 ## Mechanism of Inbreeding Depression
 
 In cross-pollinated crops, deleterious genes remain hidden within
-populations, and the negative attributes of these recessive traits can
+populations, and the negative attributes of these [[cervantes-dominance-recessive-traits-alleles]] can
 be revealed or unmasked via continual inbreeding. Inbreeding depression
 can be apparent in populations after a single generation of self-
 fertilization.
@@ -102,7 +103,7 @@ population -- a genetic bottleneck. This variability is lost from the
 populations and unavailable to future generations.
 
 This narrow breeding approach is the preferred scheme used today by the
-majority of commercial seed banks. Many breeders do not realize that
+majority of commercial [[cannabis-seed-banks-and-genetics]]. Many breeders do not realize that
 cannabis is naturally an out-crossing species and fail to maintain
 sufficient genetic diversity.
 

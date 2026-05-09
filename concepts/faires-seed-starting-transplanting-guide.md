@@ -3,20 +3,20 @@ title: "Seed Starting and Transplanting Guide"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
-  - "Nicole Faires, The Ultimate Guide to Natural Farming and Sustainable Living"
+  - "Nicole Faires, The Ultimate Guide to comparison-natural-farming-vs-permaculture and natural-farming-sustainable-living-principles"
 type: concept
 tags: [plant-growth, plants]
 ---
 
 # Seed Starting and Transplanting Guide
 
-Understanding seed germination and transplanting techniques is essential for extending the growing season and maximizing food production in a permaculture system.
+Understanding seed germination and transplanting techniques is essential for extending the [[savory-growing-season-and-non-growing-season-management]] and maximizing food production in a permaculture system.
 
 ## Germination Requirements
 
 Seeds germinate when soil temperature reaches 50-70°F (15-20°C). What we are really waiting for in spring is the soil to warm to 50°F (10°C). Soil can be warmed with plastic sheeting to speed this process.
 
-**Light requirements**: Some seeds need light to germinate (carrots, lettuce, spinach, parsley, parsnips, beets). These can be scattered on the soil surface rather than pushed in, but birds may eat them. Soak them overnight and let them sit in light before planting. Larger seeds germinate in darkness; some (like parsley) actually need darkness.
+**[[growing-gourmet-light-requirements-mushroom-fruiting]]**: Some seeds need light to germinate (carrots, lettuce, spinach, parsley, parsnips, beets). These can be scattered on the soil surface rather than pushed in, but birds may eat them. Soak them overnight and let them sit in light before planting. Larger seeds germinate in darkness; some (like parsley) actually need darkness.
 
 **Planting depth**: Bury seed to a depth of four times the largest diameter. Deeper planting means darker and wetter conditions; shallower means more light but risk of drying out. Follow seed packet recommendations; sprouting indoors is more successful than direct sowing.
 
@@ -30,7 +30,7 @@ Indoor seed starting extends the season significantly. Set up a plant nursery be
 
 ## Transplanting
 
-Transplants are the simplest way to extend the growing season. Start cold-hardy brassicas (cabbage, broccoli) indoors about two weeks before the last frost. When transplanting, plants that have been started inside need to be hardened off gradually.
+Transplants are the simplest way to [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season. Start cold-hardy brassicas (cabbage, broccoli) indoors about two weeks before the last frost. When transplanting, plants that have been started inside need to be hardened off gradually.
 
 ## Succession Planting Schedule
 
@@ -69,7 +69,7 @@ Rice seed is sown in early fall, either broadcast and covered with straw, or mad
 
 ## Seed Selection Criteria
 
-Record species on index cards noting: successional stage, deciduous vs evergreen, height, root behavior, growth rate, shade density, disease resistance, climate suitability, spread tendency, pruning sensitivity, rarity, labor requirements, multiple products, self-storage ability, harvest timing, and specific uses (food type, animal feed, soil nutrients, dye production).
+Record species on index cards noting: successional stage, deciduous vs evergreen, height, root behavior, growth rate, shade density, disease resistance, climate suitability, spread tendency, pruning sensitivity, rarity, labor requirements, multiple products, self-storage ability, [[cannabis-harvest-timing-visual-cues]], and specific uses (food type, animal feed, soil nutrients, dye production).
 
 ## Soil Preparation
 
@@ -81,8 +81,11 @@ The atmosphere is rich with nitrogen, but plants cannot use most of it directly.
 
 ## See Also
 
-- [[faires-growing-and-season-extension]]
-- [[faires-composting-and-vermiculture]]
+- faires-growing-and-season-extension
+- faires-composting-and-vermiculture
 - [[gaias-garden-cover-crops-soil-building]]
-- [[faires-permaculture-soil-and-sheet-mulching]]
-- [[self-seeding-annuals-permaculture-two]]
+- faires-permaculture-soil-and-sheet-mulching
+- self-seeding-annuals-permaculture-two
+- [[seed-starting-indoors]]
+- [[nicole-faires]]
+- [[succession-planting]]

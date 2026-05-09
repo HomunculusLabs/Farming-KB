@@ -5,7 +5,8 @@ updated: 2026-04-21
 type: concept
 tags: [fukuoka, natural-farming]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
 ---
 
@@ -13,7 +14,7 @@ sources:
 
 Source: [[fukuoka-natural-farming-philosophy-of-mu]] represents the effort to reunify God, nature, and man -- to return to the original unity.
 
-This is perhaps the most ambitious philosophical claim in all of Fukuoka's work. He is not merely advocating a farming method or a dietary approach; he is proposing nothing less than the reunification of the fundamental categories of existence. Natural farming is the practical expression of a metaphysical vision in which the artificial separation between the human, the divine, and the natural is overcome.
+This is perhaps the most ambitious philosophical claim in all of Fukuoka's work. He is not merely advocating a farming method or a dietary approach; he is proposing nothing less than the reunification of the fundamental categories of existence. [[comparison-natural-farming-vs-permaculture]] is the practical expression of a metaphysical vision in which the artificial separation between the human, the divine, and the natural is overcome.
 
 ## Do Not Name the Nameless God
 
@@ -80,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

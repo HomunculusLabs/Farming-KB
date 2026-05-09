@@ -5,18 +5,19 @@ updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Cleansing Diet
 
-Masanobu Fukuoka advocated a cleansing diet based on brown rice and seasonal vegetables as a way to restore health and return the body to its natural state. This was not a temporary detox program but a permanent dietary philosophy rooted in traditional Japanese food wisdom and his [[fukuoka-natural-food-philosophy]]. White rice is a refined product that satisfies the appetite without nourishing the body. Brown rice is a whole food that provides genuine nourishment.
+Masanobu Fukuoka advocated a cleansing diet based on [[cho-brown-rice-vinegar-preparation]] and seasonal vegetables as a way to restore health and return the body to its natural state. This was not a temporary detox program but a permanent dietary philosophy rooted in traditional Japanese food wisdom and his [[fukuoka-natural-food-philosophy]]. White rice is a refined product that satisfies the appetite without nourishing the body. Brown rice is a whole food that provides genuine nourishment.
 
 ## Seasonal Vegetables
 
 Seasonal vegetables provided the variety and micronutrients that complemented the brown rice. Fukuoka emphasized eating vegetables that grew naturally in the local environment during each season. This ensured that the food was fresh, vital, and appropriate for the body's needs at that time of year.
 
-In the spring, tender green shoots and leaves. In the summer, a profusion of fruits and vegetables. In the fall, root vegetables and harvested grains. In the winter, stored root crops and preserved foods. Each season provided its own medicine.
+In the spring, tender green shoots and leaves. In the summer, a profusion of fruits and vegetables. In the fall, [[growing-root-vegetables-guide]] and harvested grains. In the winter, stored [[permaculture-plants-root-crops-and-tubers]] and preserved foods. Each season provided its own medicine.
 
 ## The Traditional Japanese Farm Meal
 
@@ -32,7 +33,7 @@ A cleansing diet, by removing the toxins and imbalances of processed food, clear
 
 ## The Diet of the Sick
 
-A natural diet appears irrelevant, primitive, and crude to people who practice an empty diet of self-indulgence in pursuit of flavor. But once they realize that they are in poor health, even they will begin to show an interest in natural diet.
+A [[fukuoka-natural-diet-as-foundation]] appears irrelevant, primitive, and crude to people who practice an empty diet of self-indulgence in pursuit of flavor. But once they realize that they are in poor health, even they will begin to show an interest in natural diet.
 
 Illness begins when man moves away from nature, and the severity with which he is afflicted is proportional to his estrangement. This is why if a sick person returns to nature he is cured. As mankind distances itself from nature, the number of sick people rises rapidly.
 
@@ -44,7 +45,7 @@ The cleansing diet was also not dogmatic. Fukuoka did not insist on rigid rules 
 
 ## The Broader Context
 
-The cleansing diet was, for Fukuoka, part of a larger return to nature. It was meaningless without the corresponding changes in farming practices. Food grown with chemicals in dead soil could not provide genuine cleansing, no matter how carefully it was prepared. The cleansing diet required food grown by [[fukuoka-living-soil]].
+The cleansing diet was, for Fukuoka, part of a larger [[emcdda-return-to-nature-megatrend-mushroom-appeal]]. It was meaningless without the corresponding changes in farming practices. Food grown with chemicals in dead soil could not provide genuine cleansing, no matter how carefully it was prepared. The cleansing diet required food grown by [[fukuoka-living-soil]].
 
 See also: [[fukuoka-five-tastes-health]], [[fukuoka-natural-diet-theory]], [[fukuoka-philosophy-eating]]
 ## Practical Considerations
@@ -63,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

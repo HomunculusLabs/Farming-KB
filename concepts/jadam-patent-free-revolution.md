@@ -15,7 +15,7 @@ JADAM's decision not to patent any of its agricultural knowledge represents a ra
 
 ## The Decision Not to Patent
 
-I have kept it my principle not to patent my knowledge. If I had patented JADAM sulfur or wetting agent and used the right solely to seek profit, I might have earned large money. I chose not to do so because it is my belief that agricultural knowledge is something of a public asset shared by humanity.
+I have kept it my principle not to patent my knowledge. If I had patented [[ultra-low-jadam-sulfur-js]] or [[jadam-nutrient-management-wetting-agent-and-calcium]] and used the right solely to seek profit, I might have earned large money. I chose not to do so because it is my belief that agricultural knowledge is something of a public asset shared by humanity.
 
 This decision was not made lightly. Youngsang Cho acknowledges that patenting JADAM's technologies could have generated significant personal wealth. Instead, he chose to share everything through books, websites, smartphones, and workshops.
 
@@ -31,7 +31,7 @@ The patent-free principle is rooted in several philosophical traditions that hav
 
 **Marxist critique**: Karl Marx's analysis of how capital exploits labor, including agricultural labor, resonated deeply. Cho sees agricultural knowledge monopolies as a form of exploitation.
 
-**Liberation theology**: The works of Gustavo Gutierrez and Leonardo Boff provided a clear vision. Boff's ecological theology was a turning point in Cho's life, leading to the decision to abandon university and start organic farming.
+**Liberation theology**: The works of Gustavo Gutierrez and Leonardo Boff provided a clear vision. Boff's ecological theology was a turning point in Cho's life, leading to the decision to abandon university and start [[coleman-deep-organic-farming-philosophy]].
 
 **Laozi's wisdom**: Laozi taught the softness of water -- that water does not conflict yet conquers. This inspired the principle that JADAM's system should be SESE (simple, easy, scientific, effective) and spread like water, seeping into farming practices.
 
@@ -43,7 +43,7 @@ This path of sharing was choosing to depart from wealth. Cho and his family live
 
 The patent-free approach has had tangible effects:
 
-- **JADAM Natural Pesticide Institute**: All products and methods developed are shared publicly through the website en.jadam.kr, running since 2003
+- **JADAM [[jadam-natural-pesticide-institute-and-research]] Institute**: All products and methods developed are shared publicly through the website en.jadam.kr, running since 2003
 - **60,000 members**: The network of farmers who have learned and adapted JADAM methods
 - **Global reach**: JADAM has been invited from many countries and its materials translated into multiple languages
 - **Farmer-driven innovation**: Member farmers with extensive experience help develop and refine the system
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

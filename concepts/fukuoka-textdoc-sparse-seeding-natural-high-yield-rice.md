@@ -1,5 +1,5 @@
 ---
-title: Sparse Seeding for Natural High-Yield Rice Cultivation
+title: fukuoka textdoc sparse seeding natural high yield rice for Natural High-Yield jadam-rice-cultivation-methods
 created: 2026-04-28
 tags:
   - fukuoka
@@ -25,7 +25,7 @@ Fukuoka's method of [[fukuoka-critique-modern-agriculture]]: that denser plantin
 
 However, Fukuoka observed that crowded rice plants compete with each other for light, air, [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-textdoc-natural-direct-seeding-versus-rice-transplanting]]
-- fukuoka textdoc sparse seeding natural high yield rice
+- fukuoka textdoc sparse seeding natural [[fukuoka-high-yield-rice-barley]]
 - [[fukuoka-textdoc-natural-direct-seeding-versus-rice-transplanting]]
 ## Practical Applications
 
@@ -104,4 +104,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

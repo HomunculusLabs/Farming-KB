@@ -1,5 +1,5 @@
 ---
-title: Fukuoka Somalia Refugee Gardens Desert Revegetation
+title: Fukuoka fukuoka somalia refugee gardens desert revegetation Gardens fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique
 tags: [somalia, africa, desert-greening, refugee, vegetable-garden, seed-scattering, fukuoka]
 date: 2026-04-28
 updated: 2026-04-28
@@ -22,10 +22,10 @@ in developing nations.
 
 The trip came through an invitation from a UNEP Action to Combat
 Desertification official who asked Fukuoka to come up with ideas for
-greening deserts. Fukuoka had been thinking about desertification
+[[fukuoka-textdoc-greening-deserts-plant-irrigation]]. Fukuoka had been thinking about desertification
 for seven years. The natural way of farming he had practiced for
 over forty years could serve as a means for stopping and revegetating
-deserts and as a low-cost method of farming arid lands.
+deserts and as a low-cost method of farming [[mollison-arid-lands-aquatic-species]].
 
 ## No Agricultural Guidance Infrastructure
 
@@ -61,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

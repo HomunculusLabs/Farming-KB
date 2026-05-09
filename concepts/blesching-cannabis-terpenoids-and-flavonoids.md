@@ -21,7 +21,7 @@ potential of cannabis extends far beyond THC and CBD, encompassing hundreds of
 
 Terpenoids (also called terpenes) are the aromatic compounds responsible for
 the distinctive fragrance and flavor profiles of cannabis and countless other
-plants. These volatile organic compounds serve the plant's [[cannabis-beta-caryophyllene-dietary-cannabinoid]] ((E)-BCP), a dietary cannabinoid that activates CB2 receptor
+plants. These volatile organic compounds serve the plant's [[beta-caryophyllene-dietary-cannabinoid]] ((E)-BCP), a dietary cannabinoid that activates CB2 receptor
 sites and initiates potent anti-inflammatory actions and protection from
 oxidative stress. The FDA has approved (E)-BCP as a dietary cannabinoid, making
 it a legally accessible form of cannabinoid therapy available through common

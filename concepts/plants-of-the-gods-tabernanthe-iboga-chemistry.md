@@ -1,5 +1,5 @@
 ---
-title: "Tabernanthe iboga: Chemistry and Pharmacology"
+title: "plants of the gods tabernanthe iboga chemistry: psilocybin-psilocin-chemistry-and-pharmacology-emcdda"
 created: 2026-04-28
 tags:
   - iboga
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

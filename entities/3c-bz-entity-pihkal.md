@@ -1,5 +1,5 @@
 ---
-title: "3C-BZ (4-Benzyloxy-3,5-dimethoxy-A) -- PIHKAL Entry #21"
+title: "3C-BZ (4-Benzyloxy-3,5-dimethoxy-A) -- 2c-b-pihkal-entry-20 #21"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 3C-BZ
 
-PIHKAL entry #21. 4-Benzyloxy-3,5-dimethoxy-A.
+[[2c-b-pihkal-entry-20]] #21. 4-Benzyloxy-3,5-dimethoxy-A.
 
 ## Dosage and Duration
 
@@ -75,7 +75,7 @@ the solids removed by filtration. The filtrate was stripped of
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 
@@ -83,7 +83,6 @@ This compound is a research chemical with limited human data. Shulgin's dosage r
 - [[2c-c-entity-pihkal]]
 
 - PIHKAL (the source book)
-- [[2c-c-entity-pihkal]] -- 2C-C (PIHKAL #22)
 
 ## See Also
 

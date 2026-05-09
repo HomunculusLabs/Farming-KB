@@ -1,8 +1,8 @@
 ---
-title: Powell Psilocybin Harm Reduction
+title: Powell Psilocybin adverse-effects-and-harm-reduction-psilocybin
 psilocybinilocybin Harm Reduction"
 created: 2026-04-26
-sources: "The Psilocybin Solution — Simon G. Powell"
+sources: "The powell-psilocybin-solution-ecological-cognition-theory — Simon G. Powell"
 author: "Simon G. Powell"
 topics: ["harm-reduction", "safety", "psilocybin", "bad-trip", "psychological-risk", "caution"]
 type: concept
@@ -20,7 +20,7 @@ in historical examples, psychological analysis, and indigenous wisdom.
 ## The Reality of Psychological Risk
 
 Powell acknowledges "the obvious dangers posed by the use of psychedelic substances — such as
-their capacity to induce intense psychical terror (the so-called 'bad trip')." He does not
+their capacity to induce intense psychical terror (the so-called '[[emcdda-bad-trip-phenomenology-psychiatric-intervention]]')." He does not
 minimise this risk but contextualises it: native cultures have managed to "tame" psychedelics
 "through a learned appreciation of their scope of effect" while simultaneously acquiring "a
 wealth of supra-mundane knowledge along the way."
@@ -69,7 +69,7 @@ responsible use:
 - **Aztec caution**: The mushroom was not taken "frivolously for excitement" but spoken of as
   "muy delicado" — perilous. It was referred to with awe and reverence, not as a casual
   intoxicant.
-- **Siberian cultural controls**: Taboos restricted fly agaric use to shamans within ritual
+- **Siberian cultural controls**: Taboos restricted [[amanita-muscaria-fly-agaric-history-and-pharmacology]] use to shamans within ritual
   contexts, preventing casual misuse. These taboos evolved as cultural mechanisms to protect
   both individuals and the sacred nature of the practice.
 - **Amazonian preparation**: Elaborate dietary restrictions and ceremonial structure provide
@@ -102,6 +102,6 @@ He argues that "any psychedelic substance with a powerful mystique seems to inst
 those who are unfamiliar with its effects and who are easily threatened by the unknown." This
 fear "often precedes persecution and the spreading of inaccurate information." Powell
 emphasises the importance of "an unconditional flow of informed, hysteria-free knowledge
-regarding the psychological action of visionary plants [[hallucinogenic-mushroom-health-risks-and-harm-reduction]]
+regarding the psychological action of visionary plants hallucinogenic-mushroom-health-risks-and-harm-reduction
 
 - [[powell-psilocybin-solution-psychedelics-and-problem-solving]]

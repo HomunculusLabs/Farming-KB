@@ -10,12 +10,12 @@ sources:
   - "Cornell University Cooperative Extension. Elderberry Production Guide, 2020."
   - "Dirr, M.A. (2009). Manual of Woody Landscape Plants. 6th ed. Stipes Publishing."
   - "USDA NRCS PLANTS Database. Amelanchier, Sambucus, Aronia fact sheets."
-  - "Toensmeier, E. (2016). Perennial Vegetables. Chelsea Green Publishing."
+  - "Toensmeier, E. (2016). [[perennial-vegetables]]. Chelsea Green Publishing."
 ---
 
 # Serviceberry vs. Elderberry vs. Aronia (Chokeberry)
 
-Serviceberry (*Amelanchier* spp.), elderberry (*Sambucus nigra/canadensis*), and aronia
+Serviceberry (*Amelanchier* spp.), elderberry (*[[sambucus-nigra]]/canadensis*), and aronia
 (*Aronia melanocarpa*) are three of the most versatile native fruiting plants for temperate
 permaculture systems. All produce dark, nutrient-dense berries, but they differ markedly in
 growth form, management needs, and best-use scenarios.
@@ -36,14 +36,14 @@ growth form, management needs, and best-use scenarios.
 | **Harvest season** | June–July | August–September | August–September |
 | **Culinary uses** | Fresh eating, pies, jams, drying | Wine, syrup, jelly, medicine | Juice, jelly, wine, drying, supplements |
 | **Nutritional standout** | High iron, calcium, vitamin C | Very high vitamin C, anthocyanins | Highest ORAC of any temperate fruit |
-| **Pest/disease pressure** | Low; cedar-quince rust, fire blight (minor) | Can get aphids, powdery mildew, borers | Very low; virtually pest-free |
+| **Pest/disease pressure** | Low; cedar-quince rust, fire blight (minor) | Can get aphids, [[cervantes-powdery-mildew-prevention-treatment]], borers | Very low; virtually pest-free |
 | **Pruning needs** | Light shaping; remove suckers | Annual removal of old canes (3+ yrs) | Minimal; renewal prune every 3–4 years |
 | **Propagation** | Seed (stratify), softwood cuttings, suckers | Hardwood cuttings, division, seed | Seed, softwood cuttings, suckers, tissue culture |
 | **Lifespan** | 25–50+ years | 15–30 years | 15–25 years |
 | **Wildlife value** | Excellent; 40+ bird species documented | High; birds, mammals, pollinators | Good; birds relish berries late-season |
 | **Pollinator value** | Excellent early-spring nectar source | Good; flat-topped flower clusters | Very good spring nectar/pollen source |
 | **Marketability** | Niche ornamental-fruit; emerging market | Strong; well-established medicinal/wine market | Growing fast; superfood supplement demand |
-| **Permaculture role** | Multi-purpose canopy/understory, windbreak, N-fixing associate | Understory production, riparian edge, quick yield | Ground-layer production, erosion control, hedge |
+| **Permaculture role** | Multi-purpose canopy/understory, windbreak, N-fixing associate | Understory production, riparian edge, quick yield | Ground-layer production, [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]], hedge |
 
 ## Key Differences Summarized
 
@@ -53,7 +53,7 @@ with vigorous, fast-growing canes. Aronia stays compact and low, ideal for hedge
 plantings. All three can share the same hedgerow when placed at appropriate spacing.
 
 **Ease of care:** Aronia wins hands-down for low maintenance. It tolerates poor soils, resists
-pests and diseases, and requires minimal pruning. Serviceberry is nearly as easy, with the main
+[[mushroom-pests-and-diseases]], and requires minimal pruning. Serviceberry is nearly as easy, with the main
 concern being rust in areas near junipers. Elderberry demands the most attention — consistent
 moisture, annual pruning, and pest monitoring — but rewards the effort with high yields.
 
@@ -68,7 +68,7 @@ it a nutritional powerhouse for processed products like juice and supplements.
 
 Aronia is remarkably pest- and disease-resistant, thriving with virtually no intervention. This
 makes it the best choice for low-input or hands-off systems. Serviceberry is similarly easy,
-though cedar-quince rust can disfigure fruit in areas with nearby junipers (*Juniperus virginiana*).
+though cedar-quince rust can disfigure fruit in areas with nearby junipers (*[[juniperus-virginiana]]*).
 Selecting rust-resistant cultivars like *Amelanchier laevis* helps. Elderberry requires the most
 vigilance — cane borers, Japanese beetles, and powdery mildew are common issues, particularly in
 humid regions. Spacing plants for good airflow and removing infected canes promptly reduces

@@ -1,10 +1,11 @@
 ---
-title: "What Are the Most Common Cannabis Nutrient Deficiencies"
+title: "What Are the Most Common Cannabis hamilton-nutrient-deficiencies-and-treatment"
 created: 2026-04-28
 tags: [query, cannabis, nutrients, deficiencies, troubleshooting]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -16,7 +17,7 @@ The most frequently encountered cannabis nutrient deficiencies are nitrogen (yel
 
 ## The Mobility Principle
 
-The key to diagnosing nutrient deficiencies is understanding nutrient mobility within the plant.
+The key to diagnosing nutrient deficiencies is understanding [[cervantes-nutrient-mobility-deficiency-diagnosis]] within the plant.
 
 Mobile nutrients can be relocated from older tissues to new growth, so deficiency symptoms appear on lower, older leaves first. Immobile nutrients cannot be moved once deposited, so deficiency symptoms appear on new growth at the top of the plant.
 
@@ -43,7 +44,7 @@ As documented in [[cannabis-calcium-nutrient]] documentation describes these sym
 - New leaves that fail to unfurl properly
 - Root tip dieback in severe cases
 
-In coco coir, calcium deficiency is often caused by using soil-formulated nutrients rather than coco-specific lines that include adequate cal-mag supplementation. Adding a calcium-magnesium supplement at 1 to 2 ml per gallon typically resolves the issue within a week.
+In [[comparison-coco-coir-cannabis-vs-peat-free-gardening]], [[knf-calcium-deficiency-symptoms]] is often caused by using soil-formulated nutrients rather than coco-specific lines that include adequate cal-mag supplementation. Adding a calcium-magnesium supplement at 1 to 2 ml per gallon typically resolves the issue within a week.
 
 ## Magnesium Deficiency
 
@@ -55,7 +56,7 @@ The classic symptom from [[cannabis-iron-nutrient]] documentation explains that 
 
 - Mobile nutrients (N, Mg, K) show deficiency on older leaves; immobile nutrients (Ca, Fe, Mn) appear on new growth
 - Nitrogen deficiency causes yellowing older leaves; common during flowering per [[cannabis-phosphorus]]
-- Calcium deficiency in coco coir requires cal-mag per [[cannabis-magnesium-nutrient]] affects old growth
+- Calcium deficiency in coco coir requires cal-mag per [[cannabis-magnesium-nutrient]] affects [[fungal-roles-in-old-growth-forests]]
 
 ## Related Questions
 
@@ -80,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

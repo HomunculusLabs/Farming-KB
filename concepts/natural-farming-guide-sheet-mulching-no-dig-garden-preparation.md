@@ -1,5 +1,5 @@
 ---
-title: Sheet Mulching No-Dig Garden Preparation
+title: comparison-sheet-mulching-vs-chop-and-drop-mulching No-Dig Garden Preparation
 created: 2026-04-28
 tags: [sheet-mulching, no-dig-gardening, lasagna-gardening, soil-preparation,
       weed-suppression, mulch-layers, permaculture, organic-matter, soil-building]
@@ -23,7 +23,7 @@ a [[natural-farming-guide-composting-methods-and-techniques]].
 
 4. Cover the whole thing with a layer of cardboard, newspaper, old drywall,
    non-synthetic carpet, felt underlay, or any material that is hefty but will
-   break down eventually. Don't allow even the smallest hole. If working around
+   [[query-can-fungi-break-down-plastic-pollution]] eventually. Don't allow even the smallest hole. If working around
    a tree, make sure it hugs the plant tightly. This layer should be 0.5 to 1
    inch (1.5 to 2.5 cm) tall, with any non-compostable materials like staples
    or plastic tape removed.
@@ -63,7 +63,7 @@ sheet-mulched areas.
 
 Sheet mulching preserves soil structure and the complex web of soil organisms
 that tilling destroys. It prevents erosion, retains moisture, suppresses weeds
-naturally, and builds organic matter from the top down, exactly as forests do.
+naturally, and builds [[hamilton-composting-and-organic-matter-management]] from the top down, exactly as forests do.
 Traditional tilling exposes soil to sun and rain, accelerates decomposition of
 organic matter, and disrupts fungal networks that plants depend on for nutrient
 exchange.
@@ -84,10 +84,10 @@ Different soil types benefit from sheet mulching in different ways:
 ## Materials Sourcing
 
 Finding enough organic material for sheet mulching can be a challenge. Sources
-include: arborist wood chip deliveries, coffee shop grounds, brewery spent
+include: arborist [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] deliveries, coffee shop grounds, brewery spent
 grains, stable cleanings, grass clippings from neighbors, seaweed from beaches,
 and shredded cardboard from businesses. Many of these materials are available
-free or at very low cost, making sheet mulching an economical choice for large
+free or at very [[jadam-ultra-low-cost-agriculture]], making sheet mulching an economical choice for large
 areas.
 
 ## Timing and Seasonal Planning

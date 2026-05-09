@@ -8,7 +8,7 @@ sources: []
 ---
 # TMA-4
 
-**PIHKAL Entry #160** -- 2,3,5-Trimethoxyamphetamine
+**[[2c-b-pihkal-entry-20]] #160** -- 2,3,5-Trimethoxyamphetamine
 
 ## Chemical Name
 
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

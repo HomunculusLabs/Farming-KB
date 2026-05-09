@@ -2,16 +2,14 @@
 title: Agaricus arvensis
 created: 2026-04-28
 type: species
-tags: [[mycology, identification, gourmet-mushrooms, agaricus]
+tags: [mycology, identification, gourmet-mushrooms, agaricus]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 ---
-# Agaricus arvensis
-
-Agaricus arvensis, commonly known as the Horse Mushroom, is a large and highly prized edible mushroom found in grasslands, pastures, and open areas throughout temperate regions of the world. Larger and more robust than the common Meadow Mushroom ([[agaricus-campestris]] for the more common meadow species and [[agaricus-campestris]] but typically in richer, more manured soils.
+# Agaricus arvensis Agaricus arvensis, commonly known as the Horse Mushroom, is a large and highly prized edible mushroom found in grasslands, pastures, and open areas throughout temperate regions of the world. Larger and more robust than the common Meadow Mushroom ([[agaricus-campestris]] for the more common meadow species and [[agaricus-campestris]] but typically in richer, more manured soils.
 - **Seasonality:** Late summer through autumn, often appearing in abundance after warm rains.
-- **Growth pattern:** Can form fairy rings or grow scattered in groups.
+- **Growth pattern:** Can form [[bloomfield-fairy-rings-armillaria-giant-fungi]] or grow scattered in groups.
 
 ## Identification Notes
 
@@ -37,7 +35,7 @@ A. arvensis is a secondary decomposer and could theoretically be cultivated usin
 
 ## Nutritional Value
 
-A. arvensis is a nutritious food source, comparable to the commercial button mushroom but with a more complex flavor profile:
+A. arvensis is a nutritious food source, comparable to the commercial [[growing-gourmet-button-mushroom-agaricus-cultivation]] but with a more complex flavor profile:
 
 - **Protein content:** Approximately 20-30% dry weight
 - **Vitamins:** Rich in B vitamins, particularly riboflavin (B2), niacin (B3), and folate
@@ -46,7 +44,7 @@ A. arvensis is a nutritious food source, comparable to the commercial button mus
 - **Antioxidants:** Contains ergothioneine, a unique antioxidant also found in [[agaricus-campestris]] — The common Meadow Mushroom
 - [[agaricus-bitorquis]] — Pavement Mushroom, tolerant of compacted soils
 - [[lepiota-procera]] — Parasol Mushroom, another large grassland species
-- the-mushroom-cultivator-stamets — Composting and cultivation methods reference
+- the-mushroom-cultivator-stamets — Composting and [[synthetic-log-cultivation-methods-guide]] reference
 - [[marasmius-oreades]] — Fairy Ring Mushroom, shares grassland habitat
 ## Practical Considerations
 
@@ -64,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,3 +105,8 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[agaricus-augustus]]
+- [[acinos-arvensis]]
+- [[agaricus-silvaticus]]

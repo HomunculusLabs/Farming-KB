@@ -9,7 +9,7 @@ sources:
 ---
 # Persephone Abduction and the Narkissos
 
-**Source:** The Road to Eleusis, Chapter III — Carl A. P. Ruck
+**Source:** The [[the-road-to-eleusis-wasson-hofmann-ruck]], Chapter III — Carl A. P. Ruck
 
 ## Overview
 
@@ -23,7 +23,7 @@ Nysa was not a fixed geographical location but "the name for wherever was enacte
 
 ### Physical Symptoms
 
-Ruck noted that the initiates at Eleusis experienced "fear and a trembling in the limbs, vertigo, nausea, and a cold sweat" before the vision — precisely the initial physical symptoms of psychedelic mushroom ingestion. The myth encodes these as the earth yawning open and Hades springing forth in his chariot.
+Ruck noted that the initiates at Eleusis experienced "fear and a trembling in the limbs, vertigo, nausea, and a cold sweat" before the vision — precisely the initial physical symptoms of [[archaeology-of-psychedelic-mushroom-use]] ingestion. The myth encodes these as the earth yawning open and Hades springing forth in his chariot.
 
 ### Drug-Induced Seizure
 
@@ -31,19 +31,19 @@ Ruck noted that the initiates at Eleusis experienced "fear and a trembling in th
 
 ## The Pomegranate Seed
 
-After Hades secretly gave Persephone a pomegranate seed to eat, she was bound to return to the underworld for one-third of each year. This detail mirrors the seasonal pattern of both fungal fruiting and grain cultivation — the period of death when the earth lies fallow.
+After Hades secretly gave Persephone a pomegranate seed to eat, she was bound to return to the underworld for one-third of each year. This detail mirrors the seasonal pattern of both fungal fruiting and [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] — the period of death when the earth lies fallow.
 
 ## Parallel with the Sacred Marriage
 
-Persephone's abduction was "prototypic of that first nuptial between the realms, the primal experience of death." The [[dionysus-vegetative-consort-and-mushroom-symbolism]], where the god's presence is associated with the sudden, miraculous appearance of psychoactive organisms.
+Persephone's abduction was "prototypic of that first nuptial between the realms, the primal experience of death." The dionysus-vegetative-consort-and-mushroom-symbolism, where the god's presence is associated with the sudden, miraculous appearance of psychoactive organisms.
 
 ## The Hecatonkephalos and Mushroom Morphology
 
-Ruck drew a direct visual parallel between the "hundred-headed" narkissos and the appearance of certain mushroom fruiting bodies. The descriptor hecatonkephalos — literally "hundred-headed" — could describe a cluster of mushroom caps emerging from a single mycelial base, a growth pattern characteristic of many [[hecatonkephalos-narkissos-narcotic-flower]] thus functions as a mythological encoding of mushroom morphology, preserving in symbolic form a precise botanical observation that would have been familiar to gatherers of wild fungi in the Greek countryside.
+Ruck drew a direct visual parallel between the "hundred-headed" narkissos and the appearance of certain [[ectomycorrhizal-mushroom-fruiting-ecology]] bodies. The descriptor hecatonkephalos — literally "hundred-headed" — could describe a cluster of mushroom caps emerging from a single mycelial base, a growth pattern characteristic of many [[hecatonkephalos-narkissos-narcotic-flower]] thus functions as a mythological encoding of mushroom morphology, preserving in symbolic form a precise botanical observation that would have been familiar to gatherers of wild fungi in the Greek countryside.
 
 ## Pharmacia and the Language of Drugs
 
-Plato's use of the name Pharmacia for the companion of the abducted maiden is not merely allegorical but reflects a deep linguistic connection between the Eleusinian Mysteries and the Greek pharmacological tradition. The word pharmakon in Greek carries a famous ambiguity — it means both "medicine" and "poison," reflecting the dual nature of psychoactive substances that can heal or harm depending on dose, preparation, and context.
+Plato's use of the name Pharmacia for the companion of the abducted maiden is not merely allegorical but reflects a deep linguistic connection between the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] and the Greek pharmacological tradition. The word pharmakon in Greek carries a famous ambiguity — it means both "medicine" and "poison," reflecting the dual nature of psychoactive substances that can heal or harm depending on dose, preparation, and context.
 
 This linguistic ambiguity mirrors the [[eleusinian-profanes-scandal-of-415-bce]].
 
@@ -51,7 +51,7 @@ This linguistic ambiguity mirrors the [[eleusinian-profanes-scandal-of-415-bce]]
 
 - [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]]
 
-- [[dionysus-vegetative-consort-and-mushroom-symbolism]]
+- dionysus-vegetative-consort-and-mushroom-symbolism
 
 - [[demeter-ergot-symbiosis-eleusinian-symbolism]]
 
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

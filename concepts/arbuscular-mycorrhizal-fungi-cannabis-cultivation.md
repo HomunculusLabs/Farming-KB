@@ -1,5 +1,5 @@
 # [[phosphorus-availability]], and growing conditions. Higher colonization is generally observed under low to moderate soil phosphorus levels
-- **Preferred AMF genera**: [[glomus-intraradices]] ice [[humus-formation-and-soil-organic-matter]] tter
+- **Preferred AMF genera**: [[glomus-intraradices]] ice  tter
 - **Ammonium transport**: AMF hyphae absorb ammonium (NH₄⁺) and transport it to the plant, though the contribution is generally smaller than for phosphorus
 - **Facilitation of nitrification**: By creating oxidized microsites around hyphae, AMF can indirectly promote nitrification, making nitrogen more available to cannabis roots
 
@@ -9,8 +9,8 @@ AMF enhance the uptake of several micronutrients critical for cannabis growth an
 
 - **Zinc (Zn)**: AMF hyphae access zinc from soil micropores beyond the root depletion zone
 - **Copper (Cu)**: Enhanced copper uptake is particularly important for cannabis, where copper functions as a cofactor in lignin synthesis and ethylene signaling
-- **Iron (Fe)**: AMF-associated siderophore production improves iron availability in calcareous soils
-- **Manganese (Mn)**: AMF-mediated manganese uptake supports the manganese-dependent enzyme superoxide dismutase (SOD), which protects cannabis from oxidative stress
+- **Iron (Fe)**: AMF-associated [[singh-fungal-siderophore-production-iron-acquisition]] improves iron availability in calcareous soils
+- **Manganese (Mn)**: AMF-mediated manganese uptake supports the manganese-dependent enzyme superoxide dismutase (SOD), which protects cannabis from [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]
 
 ## Water Relations and Drought Tolerance
 
@@ -21,7 +21,7 @@ AMF colonization enhances cannabis drought tolerance through several mechanisms:
 - **Stomatal regulation**: AMF-colonized cannabis plants maintain more favorable stomatal conductance during water stress, allowing continued photosynthesis while reducing transpirational water loss
 - **Osmotic adjustment**: AMF colonization is associated with accumulation of compatible solutes (proline, sugars) in cannabis tissues, improving cellular osmotic adjustment under drought
 
-These drought tolerance mechanisms are particularly relevant for outdoor cannabis cultivation in Mediterranean climates and water-restricted agricultural regions.
+These drought tolerance mechanisms are particularly relevant for outdoor [[query-how-does-no-till-cannabis-cultivation-work]] in Mediterranean climates and water-restricted agricultural regions.
 
 ## Pathogen Protection
 
@@ -29,7 +29,7 @@ AMF provide biological protection against several cannabis pathogens:
 
 - **Fusarium spp.**: AMF colonization reduces Fusarium wilt severity through direct competition for root colonization sites, induction of plant defense responses (ISR), and improved plant nutrition that strengthens structural defenses
 - **Pythium and Phytophthora**: AMF-colonized cannabis roots show reduced susceptibility to these oomycete pathogens, likely through ISR-mediated activation of pathogenesis-related (PR) proteins and phenylpropanoid pathway metabolites
-- **[[deep-water-culture]], NFT) are incompatible with AMF as the fungi require a solid substrate for hyphal growth. However, "living soil" and coco-based systems support AMF
+- **[[deep-water-culture]], NFT) are incompatible with AMF as the fungi require a solid substrate for [[bloomfields-orchard-hyphal-growth-and-invasive-biology]]. However, "living soil" and coco-based systems support AMF
 
 ### Fertilizer Compatibility
 
@@ -38,7 +38,7 @@ AMF provide biological protection against several cannabis pathogens:
 - **Nitrogen form**: Ammonium-based nitrogen sources are more AMF-compatible than nitrate sources, as ammonium stimulates AMF hyphal growth and colonization
 ## Practical Applications
 
-Arbuscular Mycorrhizal Fungi Cannabis Cultivation has a range of practical applications that make it relevant to
+[[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] Fungi Cannabis Cultivation has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -113,4 +113,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -1,5 +1,5 @@
 ---
-title: International Nature University and Paris Peace March
+title: fukuoka international nature university peace march University and Paris Peace March
 author: Masanobu Fukuoka
 source: The Road Back to Nature
 type: concept
@@ -24,7 +24,7 @@ related:
 
 Masanobu Fukuoka, in his book *The Road Back to Nature*, proposed the establishment of
 an **International Nature University** as a central pillar of his vision for spreading
-natural farming and ecological consciousness across the globe. This proposal was deeply
+[[comparison-natural-farming-vs-permaculture]] and ecological consciousness across the globe. This proposal was deeply
 connected to his participation in the **Paris Peace March** and his broader conviction
 that natural farming is not merely an agricultural technique but the essential path for
 humanity's survival.
@@ -32,7 +32,7 @@ humanity's survival.
 ## The International Nature University
 
 Fukuoka envisioned the International Nature University as a place where young people
-from around the world could come together to learn the methods and philosophy of natural
+from [[fungi-around-the-world-species-distribution]] could come together to learn the methods and philosophy of natural
 farming. The curriculum would extend far beyond agronomy to encompass the philosophy of
 **mu** (nothingness) and the principle of non-intervention with nature. Students would
 learn that the most productive approach to the land is to stop interfering with it
@@ -55,7 +55,7 @@ mud-walled huts nestled in the hilltop orchard overlooking the Inland Sea.
 Fukuoka called these young people **"quarter-acre farmers."** The name captured the
 modest scale at which he believed meaningful agricultural reform could begin. One did
 not need vast tracts of land or expensive technology. A quarter acre, tended with the
-principles of natural farming, was sufficient to sustain a human life while restoring
+[[four-principles-of-natural-farming]] farming, was sufficient to sustain a human life while restoring
 the soil and supporting local ecosystems.
 
 This informal community was the embryo of the International Nature University — proof
@@ -81,7 +81,7 @@ intervene destructively in natural systems.
 
 In a chapter titled **"Weapons for Defense?"**, Fukuoka drew a direct connection between
 militarism and the industrialization of agriculture. He warned that rice seed was being
-developed as a geopolitical tool — a form of **food as a strategic weapon**. Nations
+developed as a geopolitical tool — a form of **food as a [[fukuoka-food-strategic-weapon-critique]]**. Nations
 were investing in agricultural technology not to feed people but to secure power, turning
 the very basis of human sustenance into an instrument of coercion and control.
 
@@ -129,10 +129,8 @@ global recognition that small-scale, ecologically integrated farming is essentia
 food security and environmental restoration.
 
 Fukuoka's fusion of agricultural practice with peace philosophy remains one of the
-most original contributions to ecological thought in the twentieth century. He
+most original contributions to ecological thought in the [[coleman-louis-savier-twentieth-century-maraicher]]. He
 demonstrated that the path to a peaceful world does not begin with treaties or
-institutions but with a seed, a field, and the courage to let nature lead.
-
 ## See Also
 
 - **Natural Farming** — Fukuoka's core agricultural methodology

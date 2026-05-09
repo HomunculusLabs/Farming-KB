@@ -10,7 +10,7 @@ tags: [reference]
 
 # Greenhouse and Polytunnel Growing
 
-Growing under glass extends the gardening season significantly, allowing
+Growing under glass extends the [[winter-gardening-season-extension]] significantly, allowing
 you to start plants earlier, grow tender crops, and protect from frost.
 [[hamilton-greenhouse-management-organic]] using
 organic principles.
@@ -45,9 +45,9 @@ practical. Replace the polythene cover every 4-5 years.
 Cold frames are essential for acclimatizing plants. They provide a
 halfway house between the warm greenhouse and the open garden. Use them
 for hardening off seedlings before planting out, and for protecting
-tender plants in early spring.
+tender plants in [[coleman-overwintered-onions-and-early-spring-crops]].
 
-A simple comparison [[comparison-cold-frame-gardening-vs-greenhouse-growing]] growing can be made from a wooden box with a hinged glass
+A simple comparison  growing can be made from a wooden box with a hinged glass
 or plastic lid. Position it facing south for maximum light. Prop the
 lid open on warm days for ventilation and close it at night to retain
 heat.
@@ -58,11 +58,11 @@ Good ventilation is critical to prevent fungal diseases and control
 temperature. Open doors and vents on warm days. In summer, shading may
 be needed to prevent scorching. Use blinds, shade paint, or netting.
 
-"Damping down" -- wetting the greenhouse knf fmc floor and temperature control staging on hot
+"Damping down" -- wetting the greenhouse knf [[knf-fmc-floor-and-temperature-control]] and temperature control staging on hot
 days -- helps cool the structure through evaporation and increases
-humidity, which benefits most hemenway insectary mollison designers insectary [[hamilton-beneficial-insects-and-biological-pest-control]] pest control, and use biological controls
+humidity, which benefits most hemenway insectary mollison [[mollison-designers-insectary-plants-and-beneficial-insect-habitat]] [[hamilton-beneficial-insects-and-biological-pest-control]] [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], and use biological controls
 before resorting to sprays. Clean the greenhouse thoroughly each autumn
-to reduce overwintering pests and diseases. Remove all plant debris and
+to reduce overwintering [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. Remove all plant debris and
 ## See Also
 ## Practical Considerations
 
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

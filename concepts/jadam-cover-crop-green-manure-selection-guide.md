@@ -1,5 +1,5 @@
 ---
-title: JADAM Cover Crop and Green Manure Selection Guide
+title: JADAM Cover Crop and comparison-green-manure-guide-vs-mulch-types-and-effects Selection Guide
 created: 2026-04-28
 tags: [jadam, cover-crops, green-manure, soil-fertility]
 date: 2026-04-25
@@ -11,8 +11,8 @@ type: concept
 # JADAM Cover Crop and Green Manure Selection Guide
 
 Cover crops are central to JADAM's approach to self-sufficient organic
-farming. Rather than purchasing organic fertilizers from the market, JADAM
-teaches farmers to grow their own organic matter through carefully selected
+farming. Rather than purchasing [[hamilton-organic-fertilizers-and-plant-nutrition]] from the market, JADAM
+teaches farmers to grow their own [[hamilton-composting-and-organic-matter-management]] through carefully selected
 cover crops. Nature always grows vegetation that turns into organic
 fertilizer, and JADAM follows this pattern. Cover crops provide organic
 matter, soften compacted soil, reduce salinity, boost microbial activity,
@@ -21,10 +21,10 @@ suppress weeds, and can even fix atmospheric nitrogen.
 ## Hairy Vetch
 
 Hairy vetch is a leguminous cover crop that fixes nitrogen from the air,
-providing approximately 20 kg (44 lb) of nitrogen per 0.1 ha (quarter acre)
+providing approximately 20 kg (44 lb) of nitrogen per 0.1 ha ([[fukuoka-agriculture-tomorrow-quarter-acre-vision]])
 with a total biomass of about 17 tons (37,500 lb). Its low carbon-nitrogen
 (C/N) ratio of around 10 means it breaks down rapidly in soil. One of its
-valuable qualities is natural weed suppression.
+valuable qualities is [[fukuoka-natural-weed-management]] suppression.
 
 Sowing season for southern Korea is between early September and early
 October. Seeds must be sown by early October at the latest. The seeding rate
@@ -71,7 +71,7 @@ Some experts warn that rye's low nitrogen content causes nitrogen
 immobilization during decomposition, potentially damaging fruit tree growth.
 However, JADAM field experience consistently dismisses this concern. Orchard
 owners who have practiced tree-rye symbiosis for over 20 years report
-increased production every year. Rye seeds are broadcast before harvesting
+[[fukuoka-textdoc-increased-production-not-increased-yields]] every year. Rye seeds are broadcast before harvesting
 persimmons so they sprout between the fallen persimmon leaves, ensuring no
 nutrient is lost and everything is recycled.
 

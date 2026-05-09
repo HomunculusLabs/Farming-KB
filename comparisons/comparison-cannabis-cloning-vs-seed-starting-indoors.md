@@ -1,5 +1,5 @@
 ---
-title: "Cannabis Cloning vs Seed Starting Indoors"
+title: "comparison cannabis cloning vs seed starting indoors vs Seed seed-starting-indoors-solomon"
 created: 2026-04-28
 tags: [comparison, cannabis, propagation, growing]
 date: 2026-04-25
@@ -35,7 +35,7 @@ starting, the process emphasizes controlling germination conditions
 and managing the critical early growth period when seedlings are most
 vulnerable. For cannabis specifically, seed starting allows growers to
 access new genetics, create their own breeding programs, and avoid the
-pest and disease transmission risks associated with cloning.
+[[hamilton-pest-and-disease-control-organic]] transmission risks associated with cloning.
 
 The seed starting process for cannabis follows the general principles
 outlined for vegetable transplants: seeds are germinated in a warm,
@@ -69,7 +69,7 @@ cultivation.
 | Genetic Diversity | None (monoculture of single genotype) | High (sexual recombination) |
 | Pest/Disease Risk | Higher (transmitted from mother) | Lower (seeds are pathogen-free) |
 | Breeding Potential | None (sterile copies) | Full (sexual reproduction enables breeding) |
-| Phenotype Selection | Not applicable | Possible (select best from multiple seedlings) |
+| [[vic-high-cannabis-phenotype-selection-criteria]] | Not applicable | Possible (select best from multiple seedlings) |
 | Space Efficiency | Requires mother plant space | No mother plant needed |
 | Cost Per Plant | Low after initial setup | Moderate ($5 to $15+ per seed for quality genetics) |
 | Best For | Consistent production, known genetics, commercial grows | Breeding, genetic exploration, avoiding clone pests |
@@ -79,7 +79,7 @@ cultivation.
 Cloning is the right choice for growers who have identified a genotype
 that performs exceptionally well in their specific environment and want
 to reproduce that performance reliably across multiple harvests.
-Commercial growers and anyone running a perpetual harvest system rely on
+Commercial growers and anyone running a [[cervantes-perpetual-harvest-cycle]] system rely on
 cloning because it provides predictable, uniform crops that can be
 managed on a fixed schedule. Cloning also allows growers to skip the
 seedling phase entirely, reducing total crop time by two to three weeks
@@ -101,7 +101,7 @@ genetics, develop their own strains, or avoid the disease transmission
 risks inherent in cloning. Every pack of seeds represents a lottery of
 genetic possibilities, and the process of growing multiple seedlings,
 evaluating their performance, and selecting the best individuals is the
-foundation of cannabis breeding. Home growers who enjoy experimentation
+foundation of [[oner-cannabis-breeding-fundamentals]]. Home growers who enjoy experimentation
 and discovery will find seed starting far more engaging than the
 repetition of growing the same clone repeatedly.
 

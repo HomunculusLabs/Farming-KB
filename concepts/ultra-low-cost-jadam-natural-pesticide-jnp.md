@@ -1,5 +1,5 @@
 ---
-title: JADAM Natural Pesticide System
+title: JADAM jadam-natural-pesticide-institute-and-research System
 created: 2026-04-28
 tags:
   - pest-control
@@ -19,11 +19,11 @@ type: concept
 ## Overview
 
 The JADAM Natural Pesticide (JNP) system is the centrepiece of ultra-low-cost
-organic farming as described in *The Way to Ultra-Low Cost Agriculture*. JNP
+[[coleman-deep-organic-farming-philosophy]] as described in *The Way to Ultra-Low Cost Agriculture*. JNP
 is designed to replace both chemical and commercial organic pesticides at
 approximately one-fiftieth the cost, making effective pest control accessible
 to every farmer regardless of budget. The system consists of two key
-components: the JADAM Wetting Agent (JWA) and the JADAM Sulfur (JS).
+components: the JADAM [[jadam-nutrient-management-wetting-agent-and-calcium]] (JWA) and the JADAM Sulfur (JS).
 
 ## The Cost Problem with Conventional Pesticides
 
@@ -70,7 +70,7 @@ JWA functions as the key ingredient of pesticide by:
 
 For foliar application, JNP must always be mixed with JADAM wetting agent.
 JWA coats the target evenly and helps leave no marks. However, if too much
-JMS (Jadam Ultra Low Cost Microorganism Solution And Soil Foundation)
+JMS (Jadam Ultra Low Cost [[jadam-microorganism-solution-culturing]] And Soil Foundation)
 is mixed with JWA, the wetting agent becomes less effective because it is
 easily broken down by microorganisms.
 
@@ -79,7 +79,7 @@ easily broken down by microorganisms.
 JADAM sulfur is a germicide made from sulfur without heating. It takes
 only 20 minutes to prepare. JS is described as no less effective than
 chemical pesticides and does not damage plastic or steel pipes, unlike
-traditional lime-sulfur mixtures. It can be used for fungal disease control
+traditional lime-sulfur mixtures. It can be used for fungal [[hamilton-pest-and-disease-control-organic]]
 including powdery mildew and downy mildew.
 
 ## Integration with JADAM Microorganism Solution
@@ -115,7 +115,7 @@ for:
 ## Transition Strategy
 
 The guide recommends a gradual transition approach for conventional
-farmers. As a beginning, use JADAM pesticide for powdery mildew, downy
+farmers. As a beginning, use JADAM [[jadam-pesticide-for-powdery-mildew]] mildew, downy
 mildew, fungus, aphids, mites, and moths while continuing to use chemical
 pesticide for other pests. If JADAM pesticide is placed at the centre with
 occasional use of commercial pesticides, costs will drop to approximately

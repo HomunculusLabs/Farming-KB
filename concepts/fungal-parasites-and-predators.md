@@ -4,14 +4,15 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mycology, biology, ecology, pest-control, pest-management, agriculture, species-profiles, microbes, entomopathogenic]
-sources: []
+sources:
+  - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
 # Fungal Parasites and Predators
 
 ## Overview
 
-Not all fungi are decomposers or symbionts — many are active predators or parasites of other organisms, including other fungi, nematodes, insects, and even small animals. These predatory and parasitic fungi play crucial roles in ecosystem regulation and have significant applications in biological control of agricultural pests.
+Not all fungi are decomposers or symbionts — many are active predators or parasites of other organisms, including other fungi, nematodes, insects, and even small animals. These predatory and parasitic fungi play crucial roles in ecosystem regulation and have significant applications in [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] of agricultural pests.
 
 ## Nematophagous Fungi
 
@@ -42,7 +43,7 @@ These fungi produce spores (conidia or zoospores) that are ingested by or adhere
 
 ## Mycoparasites
 
-Mycoparasitic fungi attack and kill other fungi. They are important in natural disease suppression and are used as biocontrol agents against plant pathogenic fungi.
+Mycoparasitic fungi attack and kill other fungi. They are important in natural [[aact-disease-suppression-mechanisms-ingham]] and are used as biocontrol agents against plant pathogenic fungi.
 
 ### Trichoderma spp.
 
@@ -50,17 +51,17 @@ The most widely studied and commercially used mycoparasites. Trichoderma harzian
 
 Mechanisms of action:
 1. **Mycoparasitism**: Direct hyphal contact, coiling around host hyphae, penetration, and digestion
-2. **Antibiosis**: Production of secondary metabolites (trichothecenes, gliotoxin, peptaibols) that inhibit or kill other fungi
+2. **Antibiosis**: Production of [[antifungal-secondary-metabolites-coprophilous-fungi]] (trichothecenes, gliotoxin, peptaibols) that inhibit or kill other fungi
 3. **Competition**: Rapid colonization of resources, outcompeting pathogens for space and nutrients
 4. **Enzyme production**: Chitinases, glucanases, and proteases that degrade fungal cell walls
-5. **Induced systemic resistance**: Priming plant immune responses
+5. **[[endophytic-mycorrhizal-induced-systemic-resistance]] resistance**: Priming plant immune responses
 
 Trichoderma is used against Botrytis (gray mold), Rhizoctonia (damping off), Fusarium wilt, Pythium, and Sclerotinia. Available as seed treatments, soil drenches, and foliar sprays.
 
 ### Other Mycoparasites
 
 - **Gliocladium virens**: Related to Trichoderma, used against Pythium and Rhizoctonia
-- **Ampelomyces quisqualis**: Parasitizes powdery mildew fungi; used as a biocontrol agent in vineyards and greenhouses
+- **Ampelomyces quisqualis**: Parasitizes [[cervantes-powdery-mildew-prevention-treatment]] fungi; used as a biocontrol agent in vineyards and greenhouses
 - **Pythium oligandrum**: A mycoparasitic Pythium that attacks other Pythium species and some plant pathogenic fungi
 - **Sporidesmium sclerotivorum**: Parasitizes Sclerotinia sclerotioria, destroying its overwintering structures
 
@@ -91,7 +92,7 @@ Fungi that infect and kill insects. See [[fungal-symbiosis-types]] for contrast 
 
 ### Arthrobotrys and Related Genera
 
-In addition to nematode trapping, some species can capture small soil arthropods like tardigrades and collembola using adhesive networks.
+In addition to [[bloomfield-nematode-trapping-fungi-predatory-soil-fungi]], some species can capture small soil arthropods like tardigrades and collembola using adhesive networks.
 
 ### Zoopagales
 
@@ -113,6 +114,8 @@ Challenges:
 - Variable field performance
 
 ## See Also
+
+- [[fungal-rotifer-parasites-predators]]
 
 - [[fungal-symbiosis-types]] — Mutualistic fungal relationships
 - [[mycorrhizal-inoculation-guide]] — Beneficial fungal inoculation for crops

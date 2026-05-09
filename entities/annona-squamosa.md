@@ -18,11 +18,11 @@ sources:
 
 ## Overview
 
-**Annona squamosa**, commonly known as sugar apple, sweetsop, or custard apple, is a small deciduous tree in the Annonaceae family native to tropical Central America and the Caribbean. The species produces a sweet, creamy-textured aggregate fruit that is widely cultivated throughout the tropics.
+**Annona squamosa**, commonly known as sugar apple, sweetsop, or custard apple, is a small deciduous tree in the Annonaceae family native to tropical [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and the Caribbean. The species produces a sweet, creamy-textured aggregate fruit that is widely cultivated throughout the tropics.
 
 The fruit is among the most popular Annonaceae crops, valued for its aromatic, custard-like pulp and high sugar content. It is distinct from the cherimoya (*A. cherimola*) and the soursop (*A. muricata*), though all share the characteristic reticulate fruit surface.
 
-Sugar apple cultivation extends across South and Southeast Asia, where it was introduced by Spanish and Portuguese traders in the 16th and 17th centuries. India, Thailand, and Indonesia are among the largest producers.
+Sugar apple cultivation extends across South and [[psilocybe-southeast-asia-pacific]], where it was introduced by Spanish and Portuguese traders in the 16th and 17th centuries. India, Thailand, and Indonesia are among the largest producers.
 
 All parts of the plant — leaves, bark, seeds, and unripe fruit — contain bioactive acetogenins and alkaloids with documented insecticidal, antiparasitic, and cytotoxic properties.
 
@@ -66,17 +66,17 @@ Seeds contain approximately 25% fixed oil composed of linoleic, oleic, and palmi
 
 ## Bioactive Compounds and Pharmacology
 
-Annonaceous acetogenins, particularly squamocin (annonacin), squamotatin, and squamosten, are the principal bioactive constituents. These long-chain fatty acid derivatives exhibit potent cytotoxic activity against multiple human cancer cell lines in vitro.
+Annonaceous acetogenins, particularly squamocin (annonacin), squamotatin, and squamosten, are the principal bioactive constituents. These long-chain fatty acid derivatives exhibit potent cytotoxic activity against multiple human [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines in vitro.
 
 Squamocin inhibits mitochondrial complex I (NADH:ubiquinone oxidoreductase), inducing apoptosis in cancer cells. However, annonacin has been linked to atypical Parkinsonism in populations consuming large quantities of Annonaceae fruits and teas, raising safety concerns.
 
-Leaf extracts demonstrate broad-spectrum insecticidal activity against mosquito larvae (*Aedes aegypti*), agricultural pests (*Spodoptera litura*), and stored-grain insects. Seed extracts are used as traditional botanical insecticides in Indian agriculture.
+Leaf extracts demonstrate broad-spectrum insecticidal activity against mosquito larvae (*Aedes aegypti*), agricultural pests (*Spodoptera litura*), and stored-grain insects. Seed extracts are used as traditional botanical insecticides in [[fukuoka-indian-agriculture-observations]].
 
 Aqueous leaf extracts show antidiabetic activity in streptozotocin-induced diabetic rats, reducing blood glucose and improving lipid profiles. Bark extracts exhibit antimicrobial activity against *Staphylococcus aureus* and *Escherichia coli* in disc-diffusion assays.
 
 ## Ecology and Applications
 
-Sugar apple is adapted to seasonally dry tropical forests in its native range. The sweet pulp attracts frugivorous birds, bats, and primates, which disperse the large seeds. The tree is relatively fast-growing and can begin fruiting within 3 years from seed.
+Sugar apple is adapted to seasonally [[mollison-wet-dry-tropical-design-strategies]] forests in its native range. The sweet pulp attracts frugivorous birds, bats, and primates, which disperse the large seeds. The tree is relatively fast-growing and can begin fruiting within 3 years from seed.
 
 In agroforestry systems, sugar apple serves as a component of homegardens and mixed fruit orchards in tropical Asia and Latin America. Its relatively small stature allows interplanting with taller tree crops such as mango or jackfruit.
 
@@ -98,7 +98,7 @@ The custard apple (*Annona reticulata*) is less commercially significant than su
 
 Sugar apple is primarily a smallholder crop, with most production consumed domestically in producing countries. India is the world's largest producer, with significant plantings in Uttar Pradesh, Bihar, and Andhra Pradesh states.
 
-The fruit commands premium prices in local markets due to its short shelf life and delicate texture. Post-harvest losses are high (25–40%) because ripe fruit softens rapidly and is susceptible to bruising and fungal decay.
+The fruit commands premium prices in local markets due to its short [[psilocybin-shelf-life-stability]] and delicate texture. Post-harvest losses are high (25–40%) because ripe fruit softens rapidly and is susceptible to bruising and fungal decay.
 
 In traditional medicine systems across South and Southeast Asia, different plant parts serve distinct therapeutic roles. The root is used as a purgative, the crushed leaves are applied to boils and wounds, and seed paste treats head lice and intestinal parasites.
 
@@ -108,6 +108,6 @@ In traditional medicine systems across South and Southeast Asia, different plant
 - [[mangifera-indica]]
 - [[passiflora-edulis]]
 - [[artocarpus-heterophyllus]]
-- [[durio-zibethinus]]
+- durio-zibethinus
 - [[ficus-carica]]
 - [[solanum-tuberosum]]

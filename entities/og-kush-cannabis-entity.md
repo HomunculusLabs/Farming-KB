@@ -6,12 +6,12 @@ tags: [cannabis-strain, hybrid, indica-dominant, californian-genetics, terpene-p
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "General cannabis breeding and cultivation knowledge"
+  - "General oner-cannabis-breeding-fundamentals and cultivation knowledge"
 ---
 
 # OG Kush
 
-OG Kush is a legendary cannabis strain that originated in Southern California during the early 1990s and became the genetic backbone of modern West Coast cannabis culture. A predominantly indica hybrid with complex, debated lineage — most accounts trace it to a cross between a Chemdawg cutting and a Hindu Kush or Lemon Thai pollinator — OG Kush is renowned for its potent, sedating euphoria, distinctive fuel-citrus-pine aroma, and extraordinary influence on contemporary cannabis breeding. The "OG" designation is variously interpreted as "Ocean Grown" (a reference to its coastal California origins) or "Original Gangster" (a nod to its status as a foundational, elite cultivar). OG Kush has served as a parent or ancestor to hundreds of named cultivars including Girl Scout Cookies, Headband, Skywalker, and countless "OG" variants, making it arguably the most genetically influential cannabis strain of the 21st century.
+OG Kush is a legendary cannabis strain that originated in Southern California during the early 1990s and became the genetic backbone of modern West Coast [[mckenna-cannabis-culture-history]]. A predominantly indica hybrid with complex, debated lineage — most accounts trace it to a cross between a Chemdawg cutting and a [[hindu-kush]] or Lemon Thai pollinator — OG Kush is renowned for its potent, sedating euphoria, distinctive fuel-citrus-pine aroma, and extraordinary influence on contemporary cannabis breeding. The "OG" designation is variously interpreted as "Ocean Grown" (a reference to its coastal California origins) or "Original Gangster" (a nod to its status as a foundational, elite cultivar). OG Kush has served as a parent or ancestor to hundreds of named cultivars includ girl scout cookies kies, Headband, Skywalker, and countless "OG" variants, making it arguably the most genetically influential cannabis strain of the 21st century.
 
 ## Strain Classification
 
@@ -37,7 +37,7 @@ Buds are large, dense, and tightly packed, forming chunky, rounded calyx cluster
 ### Cultivation Notes
 - **Flowering time:** 8–9 weeks indoors
 - **Yield:** Moderate; 350–450 g/m² indoors
-- **Difficulty:** Moderate; susceptible to powdery mildew and botrytis in humid conditions
+- **Difficulty:** Moderate; susceptible to [[cervantes-powdery-mildew-prevention-treatment]] and botrytis in humid conditions
 - **Nutrient needs:** Heavy feeder during flowering; responds well to phosphorus and potassium supplementation
 - **Climate preference:** Warm, dry Mediterranean climate; sensitive to high humidity
 
@@ -72,8 +72,8 @@ The terpene composition is responsible for OG Kush's distinctive and widely imit
 - **Body effects:** Progressive physical relaxation, heaviness in the limbs, muscle tension release, potential couch-lock at higher doses
 - **Duration:** 2–3 hours when inhaled; 4–6 hours for oral ingestion
 - **Common therapeutic applications:** Stress relief, anxiety reduction (low-to-moderate doses), mild-to-moderate pain management, insomnia (evening use), appetite stimulation, nausea relief
-- **Adverse effects:** Dry mouth, dry eyes, anxiety/paranoia at high doses (particularly in inexperienced users), couch-lock with heavy consumption, dizziness, potential tachycardia in sensitive individuals
-- **Tolerance:** Moderate; regular users develop tolerance over 1–2 weeks of daily use; cannabinoid receptor downregulation follows typical cannabis tolerance patterns
+- **[[blesching-cannabis-safety-adverse-effects-evidence]]:** Dry mouth, dry eyes, anxiety/paranoia at high doses (particularly in inexperienced users), couch-lock with heavy consumption, dizziness, potential tachycardia in sensitive individuals
+- **Tolerance:** Moderate; regular users develop tolerance over 1–2 weeks of daily use; [[cannabis-cannabinoid-receptor-pharmacology]] downregulation follows typical [[cervantes-cannabis-tolerance-addiction-pharmacology]] patterns
 - **Subjective experience:** Widely described as providing a balanced "head high" that transitions into deep body relaxation; the headband-like pressure sensation around the temples is frequently noted (and lent its name to the Headband cross)
 - **Medicinal use:** Increasingly studied for PTSD, chronic pain, and anxiety disorders in legal medical cannabis programs; high THC content makes it popular for patients requiring potent symptom relief
 
@@ -81,15 +81,12 @@ The terpene composition is responsible for OG Kush's distinctive and widely imit
 
 OG Kush has been used as a breeding parent more extensively than almost any other modern cannabis strain:
 
-- **Girl Scout Cookies:** OG Kush × Durban Poison — one of the most commercially successful strains of the 2010s; Cookies genetics have spawned dozens of sub-crosses
-- **Headband:** OG Kush × Sour Diesel — named for the pressure sensation around the temples; known for potent, long-lasting effects
+- **Girl Scout Cookies:** OG Kus durban poison ison — one of the most commercially successful strains of the 2010s; Cookies genetics have spawned dozens of sub-crosses
+- **Headband:** OG Kus sour diesel esel — named for the pressure sensation around the temples; known for potent, long-lasting effects
 - **Skywalker:** Blueberry × OG Kush — indica-dominant with berry-kush flavors; popular in European markets
 - **Tahoe OG:** OG Kush phenotype selected for increased potency and shorter flowering time (7–8 weeks); favored by commercial growers
 - **Ghost OG:** Cut selected for dense resin production and potent sedation; popular in California medical cannabis community
-- **Larry OG:** OG Kush × unknown — selected for exceptional resin coverage and complex flavor profile
-- **Tropicana Cookies:** Girl Scout Cookies × Tangie — OG Kush lineage through GSC; known for vibrant orange-purple coloration
-- **Wedding Cake:** Girl Scout Cookies × Triangle Kush — multiple OG Kush lineages; one of the best-selling strains in US dispensaries (2018–2023)
-- **Gelato:** Sunset Sherbet × Thin Mint GSC — OG Kush through GSC lineage; extremely popular for dessert-like flavor and balanced effects
+- **Larry OG:** OG Kush × unknown — selected for exceptional resin coverage and complex flavor tropicana cookies cana Cookies:** Girl Scout Cookies × Tangie — OG Kush lineage through GSC; known for vibrant orange-purple colorat wedding cake ing Cake:** Girl Scou triangle kush riangle Kush — multiple OG Kush lineages; one of the best-selling strains in US dispensaries (2018– to:** Sunset Sherbet × Thin Mint GSC — OG Kush through GSC lineage; extremely popular for dessert-like flavor and balanced effects
 
 ## Cultural Significance
 

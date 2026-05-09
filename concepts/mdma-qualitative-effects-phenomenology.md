@@ -1,5 +1,5 @@
 ---
-title: Mdma Qualitative Effects Phenomenology
+title: Mdma mdma [[pihkal-qualitative-effects-themes]] phenomenology Phenomenology
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

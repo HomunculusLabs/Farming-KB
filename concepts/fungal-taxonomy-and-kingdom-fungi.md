@@ -8,8 +8,8 @@ monophyletic group more closely related to animals than to plants, comprising
 several major phyla. However, the traditional four-phylum classification does
 not fully represent the phylogenetic complexity revealed by molecular
 analyses, and several groups once considered fungi have been reassigned to
-separate kingdoms entirely. Understanding fungal phylogeny is essential for
-interpreting fungal diversity, ecology, and evolution.
+separate kingdoms entirely. Understanding [[biodiversity-of-fungi-fungal-phylogeny-kingdom-classification]] is essential for
+interpreting [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]], ecology, and evolution.
 
 ## The Tree of Life: Fungi and Their Allies
 
@@ -39,7 +39,7 @@ decomposers and pathogens. Oomycetes have cellulose-based cell walls (unlike
 the chitinous walls of true fungi) and diploid vegetative phases, reflecting
 their fundamentally different evolutionary origins.
 
-Slime molds (myxomycetes, dictyostelids, and plasmodiophorans) belong to
+[[bloomfield-slime-molds-myxomycetes-plasmodial-protists]] (myxomycetes, dictyostelids, and plasmodiophorans) belong to
 Kingdom Protista and are only distantly related to true fungi, though some
 groups (myxomycetes and dictyostelids) may form a monophyletic clade.
 Plasmodiophorans, which include important plant pathogens such as
@@ -72,7 +72,7 @@ Chytrids have gained widespread attention due to the discovery that
 *Batrachochytrium dendrobatidis* (Bd), a chytrid pathogen of amphibians, is a
 major driver of global amphibian population declines and extinctions. This
 finding has stimulated renewed interest in chytrid biodiversity, ecology, and
-pathogenicity, as well as in the broader question of how fungal pathogens
+pathogenicity, as well as in the broader question of how [[bloomfield-fungal-pathogens-and-parasites]]
 emerge and spread in response to environmental change.
 
 ## Phylum Zygomycota: The Pin Molds
@@ -89,7 +89,7 @@ structures called sporangia.
 
 Like the chytrids, the Zygomycota as traditionally defined is not
 monophyletic. Molecular analyses have shown that the Glomales (arbuscular
-mycorrhizal fungi, now placed in the phylum Glomeromycota) are more closely
+[[arbuscular-mycorrhizal-fungi-biology-symbiosis]], now placed in the phylum Glomeromycota) are more closely
 related to the Ascomycota-Basidiomycota clade than to other zygomycetes. The
 genus *Basidiobolus* may nest within the chytrid lineage in some analyses. The
 non-monophyly of traditional Zygomycota has complicated fungal classification,
@@ -102,7 +102,7 @@ described species — roughly half of all named fungal species. The defining
 feature is the ascus, a sac-like structure in which sexual spores (ascospores)
 are produced following meiosis, typically eight per ascus. Ascomycetes range
 from unicellular yeasts (including the model organism *Saccharomyces
-cerevisiae* and the pathogen *Candida albicans*) to complex cup fungi,
+cerevisiae* and the pathogen *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*) to complex cup fungi,
 truffles, morels, and the vast majority of described plant pathogenic fungi.
 The group also includes economically important genera such as *Penicillium*
 (source of penicillin), *Aspergillus* (used in industrial fermentation and soy
@@ -124,6 +124,8 @@ recalcitrant polymer that gives wood its structural rigidity and that few
 other organisms can break down.
 
 ## See Also
+
+- [[fungal-taxonomy-and-classification]]
 - [[fungal-inventory-and-survey-methods]]
 - [[chytrid-fungi-guide]]
 

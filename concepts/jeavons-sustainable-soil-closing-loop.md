@@ -9,7 +9,7 @@ updated: 2026-04-26
 
 # Sustainable Soil and Closing the Loop
 
-The concept of sustainability is central to the GROW BIOINTENSIVE method.
+The concept of sustainability is central to the [[jeavons-grow-biointensive-method-overview]] method.
 John Jeavons argues that within a garden or mini-farm, it is possible to
 maintain soils at a level close to complete sustainability rather than close
 to complete insustainability, as is the situation with most current
@@ -51,7 +51,7 @@ leaching.
 ### Nutrient Sustainability
 
 Because nutrients in human urine and manure are not currently returned to the
-mini-farm's soil, some organic fertilizers must be imported to maintain
+mini-farm's soil, some [[hamilton-organic-fertilizers-and-plant-nutrition]] must be imported to maintain
 nutrient levels and balance. For the future, Ecology Action is exploring ways
 to safely, effectively, and legally return these nutrients to the soil from
 which they came.
@@ -74,7 +74,7 @@ examples. Legumes like fava beans and bush beans must be interplanted with
 these crops to provide the nitrogen needed for good compost.
 
 **30%** in special root diet crops that produce large amounts of calories.
-Potatoes, sweet potatoes, and other root crops fill this role.
+Potatoes, sweet potatoes, and other [[permaculture-plants-root-crops-and-tubers]] fill this role.
 
 **10%** (maximum) in vegetable crops for additional vitamins and minerals.
 Up to one-quarter of this area may be planted in income crops if the missing
@@ -83,8 +83,8 @@ vitamins and minerals are provided by the remaining three-quarters.
 ## Compost and Sustainable Soil Fertility Goals
 
 Jeavons defines different levels of sustainable soil fertility through
-compost application rates, measured per 100 square feet per 4- to 6-month
-growing season:
+compost [[ingham-compost-tea-application-rates-and-timing]], measured per 100 square feet per 4- to 6-month
+[[savory-growing-season-and-non-growing-season-management]]:
 
 **Beginning sustainability:** 1.6 cubic feet of cured compost (4
 5-gallon buckets), covering the bed to 0.25 inches depth. This produces
@@ -110,7 +110,7 @@ The Biosphere II project demonstrated that the soil in a closed system can
 lose significant fertility. Their experience over two years highlighted the
 importance of maintaining soil nutrient cycles in any enclosed growing system.
 This reinforces the need for the GROW BIOINTENSIVE focus on growing compost
-crops and recycling all organic matter back into the soil.
+crops and recycling all [[hamilton-composting-and-organic-matter-management]] back into the soil.
 
 ## See Also
 

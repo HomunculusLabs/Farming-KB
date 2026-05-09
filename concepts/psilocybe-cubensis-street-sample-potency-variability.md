@@ -1,5 +1,5 @@
 ---
-title: Psilocybe cubensis Street Sample Potency Variability
+title: brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting Street Sample Potency Variability
 source: variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
 tags: [psilocybin, psilocybe-cubensis, potency, street-samples, hplc, variability]
 created: 2026-05-08
@@ -9,7 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-One of the most practically significant findings from the 1982 [[beug]] study was their analysis of five street samples of Psilocybe cubensis.
+One of the most practically significant findings from the 1982 beug study was their analysis of five street samples of Psilocybe cubensis.
 While their controlled cultivation experiments revealed a four-fold variation
 in potency, the street samples showed an even more dramatic ten-fold difference
 in [[psilocin]] (mg/g) |
@@ -52,10 +52,10 @@ flush of a high-potency strain.
 
 **Growing Conditions:** Despite all street samples reportedly being grown
 on rye grain, the specific cultivation conditions — temperature, humidity,
-light exposure, substrate preparation, contamination levels — were unknown
+light exposure, [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]], contamination levels — were unknown
 and likely varied between growers.
 
-**Drying and Storage:** While all samples were reportedly air-dried and
+**[[psilocybin-mushroom-drying-and-storage-methods]]:** While all samples were reportedly air-dried and
 frozen, the specific drying conditions (temperature, duration, light
 exposure) and storage duration can affect alkaloid stability. Psilocybin
 and psilocin are both susceptible to degradation from heat, light, and
@@ -88,8 +88,8 @@ alone. A person consuming 2 grams of Sample 2 would receive approximately
 12.4 mg of psilocybin, while the same weight of Sample 3 would deliver only
 1.4 mg — a nearly nine-fold difference in active compound intake.
 
-This variability compounds the well-known influence of set and setting on
-psychedelic experience. As Bigwood and Beug concluded: "It is clear that
+This variability compounds the well-known influence of [[lsd-set-and-setting-framework]] on
+[[leary-psychedelic-experience-bardo-mapping]]. As Bigwood and Beug concluded: "It is clear that
 entheogenic and recreational users of this species have no way of predicting
 the amount of psilocybin and psilocin they are ingesting with a given dry
 weight of the mushroom. It thus seems likely that variations in the subjective
@@ -110,7 +110,7 @@ predates the widespread adoption of modern cultivation techniques and the
 availability of known-origin genetics. Contemporary underground growers often
 work with named strains that have been selectively bred and cloned, which
 might be expected to reduce variability. However, the fundamental factors
-driving potency variation — genetics, flush number, growing conditions, and
+driving [[psilocybe-cubensis-potency-variation-by-flush]] — genetics, flush number, growing conditions, and
 post-harvest handling — remain operative regardless of improvements in
 cultivation technology.
 
@@ -121,3 +121,5 @@ the inherent limitations of weight-based dosing in non-laboratory settings.
 ## See Also
 
 - [[street-sample-potency-variability-in-psilocybe-cubensis]]
+- [[psilocybe-cubensis-street-sample-potency-variability-bigwood-beug-1982]]
+- [[psilocybe-cubensis]]

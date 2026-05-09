@@ -10,7 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Subcool's The Dank (2010). TGA Genetics strain catalog.
+  - Subcool's The Dank (2010). TGA mushroom-genetics-strain-selection catalog.
   - Leafly Staff (2023). "Jillybean Strain Information." Leafly.com.
   - AllBud (2024). "Jillybean Cannabis Strain." AllBud.com.
   - Happy Seeds Database (2024). "Jillybean Lineage and Grow Data." Seedsman.com.
@@ -39,7 +39,7 @@ patterns while retaining the sativa-leaning effect profile.
 profile, along with moderate THC production and a euphoric cerebral quality.
 
 **Space Queen**, itself a cross of Cinderella 99 and a Romulan-Jack Herer male,
-adds potency, resin production, and a subtle diesel-pine undertone to the aroma
+adds potency, [[cannabis-glandular-trichome-types-resin-production-clarke]], and a subtle diesel-pine undertone to the aroma
 complex.
 
 ## Appearance
@@ -53,7 +53,7 @@ appearance under magnification. The combination of orange pistils against pale
 green calyxes creates a visually striking contrast.
 
 Leaf structure is relatively narrow, and internodal spacing is moderate. Plants
-can stretch significantly during the flowering phase, particularly in the
+can stretch significantly during the [[green-cannabis-grow-bible-flowering-phase-and-harvest]], particularly in the
 sativa-leaning phenotypes.
 
 ## Aroma and Flavor
@@ -108,18 +108,18 @@ conditions. Outdoor plants can yield significantly more but require warm, dry
 autumn conditions to avoid bud rot.
 
 **Difficulty:** Moderate. Jillybean is not particularly finicky but benefits
-from training techniques (LST, SCROG) to manage its tendency to stretch during
+from [[cannabis-training-techniques-comparison]] (LST, SCROG) to manage its tendency to stretch during
 early flowering.
 
-The strain responds well to organic cultivation methods and develops more
-complex terpene profiles in living soil systems. Nutrient sensitivity is low
+The strain responds well to organic [[synthetic-log-cultivation-methods-guide]] and develops more
+complex [[cannabis-terpene-profiles-sativa]] in living soil systems. Nutrient sensitivity is low
 to moderate, with phosphorus and potassium demands increasing during mid-
 flowering.
 
 ## See Also
 
-- [[tangie]]
+- tangie
 - [[sour-diesel]]
 - [[jack-herer]]
 - [[ice-cream-cake-cannabis]]
-- [[gelato-cannabis]]
+- [[gelato]]

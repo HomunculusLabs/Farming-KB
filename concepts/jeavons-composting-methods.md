@@ -1,5 +1,5 @@
 ---
-title: Composting Methods and Compost Crops
+title: natural-farming-guide-composting-methods-and-techniques and Compost Crops
 created: 2026-04-26
 author: John Jeavons
 sources: How to Grow More Vegetables, 8th edition
@@ -16,10 +16,10 @@ Composting is an important way to recycle carbon, nitrogen, magnesium, sulfur, c
 ## Functions of Compost in the Soil
 
 1. **Improves soil structure** — Makes soil easier to work, with good aeration, water retention, and erosion resistance.
-2. **Provides nutrients** — Organic acids make nutrients in the soil more available to plants. Fewer nutrients leach out in soil with adequate organic matter.
+2. **Provides nutrients** — Organic acids make nutrients in the soil more available to plants. Fewer nutrients leach out in soil with adequate [[hamilton-composting-and-organic-matter-management]].
 3. **Feeds soil microbial life** — Organic matter is the energy source for billions of bacteria, fungi, actinomycetes, and algae per gram of soil.
 4. **Builds soil structure** — Microbial excretions ("soil glue" / polysaccharides) hold soil particles together.
-5. **Produces healthy plants** — A healthy soil produces healthy plants better able to resist insect and disease attacks. Most insects look for sick plants to eat.
+5. **Produces healthy plants** — A healthy soil produces healthy plants better able to resist [[vegetable-insect-and-disease-control]] attacks. Most insects look for sick plants to eat.
 6. **Maintains fertility sustainably** — Once soil is brought to satisfactory fertility, it can be maintained with compost, good crop rotation, and recycling of plant residues.
 
 ## Humus: The Key to Soil Health
@@ -50,7 +50,7 @@ This gives a carbon-nitrogen ratio of about 30:1, producing a hotter (thermophil
 ## Building the Pile
 
 1. **Loosen the ground** underneath to a depth of 12 inches for drainage.
-2. **Lay down roughage** (brush, corn stalks) 3 inches thick for air circulation.
+2. **Lay down roughage** (brush, corn stalks) 3 inches thick for [[stamets-growing-room-air-circulation-co2-management]].
 3. **Add materials in 1- to 2-inch layers:** dry vegetation on bottom, green vegetation and kitchen wastes second, soil third (4- to 1/2-inch layer).
 4. **Water each layer thoroughly** — pile should be evenly moist, like a wrung-out damp sponge.
 5. **Always cover kitchen waste** with soil to avoid flies and odors.
@@ -59,7 +59,7 @@ This gives a carbon-nitrogen ratio of about 30:1, producing a hotter (thermophil
 
 - Always use at least **3 different materials** of 3 different textures for good drainage, aeration, diverse nutrients, and microbial diversity.
 - Green vegetation is 95% more effective than dry as a "starter" due to higher nitrogen content.
-- All kitchen scraps may be added except meats and sizable amounts of oily salad scraps. Include bones, tea leaves, coffee grounds, eggshells, and citrus rinds.
+- All kitchen scraps may be added except meats and sizable amounts of oily salad scraps. Include bones, tea leaves, [[oyster-mushroom-coffee-grounds-cultivation]], eggshells, and citrus rinds.
 
 ## Size, Location, and Timing
 
@@ -74,7 +74,7 @@ Usually one turning at about the 3-week point, after temperature peaks and falls
 
 ## Application Rates
 
-- **Maximum maintenance dressing:** 1 inch of compost before each crop per 4-month growing season.
+- **Maximum maintenance dressing:** 1 inch of compost before each crop per 4-month [[savory-growing-season-and-non-growing-season-management]].
 - **General maintenance:** 1/4- to 1-inch layer (2 to 8 cubic feet per 100 square feet).
 
 ## Green Manures vs. Compost Crops

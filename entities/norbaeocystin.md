@@ -12,10 +12,10 @@ sources: [/Users/t3rpz/wiki/raw/papers/bigwood-beug-variation-of-psilocybin-and-
 
 Norbaeocystin (4-PO-T, O-phosphoryl-4-hydroxytryptamine) is a
 naturally occurring **tryptamine alkaloid** found in psilocybin-
-containing mushrooms. It is the **demethylated precursor** to both
+[[psilocybin-containing-mushrooms-in-us]]. It is the **demethylated precursor** to both
 baeocystin and psilocybin in the fungal biosynthetic pathway, and
 represents the simplest phosphorylated tryptamine alkaloid in the
-series. First identified as a minor constituent of psilocybin mushroom
+series. First identified as a minor constituent of [[emcdda-psilocybin-mushroom-dose-and-effects]]
 extracts, norbaeocystin plays a key role in understanding the
 biochemistry of psilocybin biosynthesis and the evolutionary origins of
 psychedelic compound production in fungi.
@@ -87,12 +87,12 @@ methylation by PsiM, which rapidly converts norbaeocystin to baeocystin
 and then psilocybin. Species or developmental stages with reduced PsiM
 expression might be expected to accumulate more norbaeocystin, but this
 has not been systematically studied. There may also be developmental
-regulation, with norbaeocystin levels peaking earlier in fruiting body
+regulation, with norbaeocystin levels peaking earlier in [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]
 development before downstream conversion to psilocybin is complete.
 
 Notable species in which norbaeocystin has been reported include:
 
-- *Psilocybe cubensis* — trace levels
+- *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* — trace levels
 - *[[gymnopilus-spectabilis-entity]]* — trace
 - *Inocybe* species — variable, often trace
 
@@ -105,7 +105,7 @@ The pharmacological activity of norbaeocystin and its dephosphorylated
 metabolite **4-hydroxytryptamine** is **largely unknown**. 4-
 hydroxytryptamine is a trace monoamine that occurs naturally in
 mammalian tissues, including the brain, gastrointestinal tract, and
-pineal gland, and has been detected in carcinoid tumors. It has been
+[[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]], and has been detected in carcinoid tumors. It has been
 shown to bind to serotonin receptors with varying affinity, but its
 psychoactive properties — if any — remain uncharacterized.
 
@@ -119,7 +119,7 @@ which may limit its biological activity. There is also evidence that
 and products of this metabolism have not been well characterized.
 
 There is no evidence that norbaeocystin contributes significantly to
-the psychoactive effects of psilocybin mushrooms when consumed, though
+the psychoactive effects of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] when consumed, though
 its role as part of the complete alkaloid profile cannot be ruled out.
 At the trace concentrations typically found in mushroom tissue, any
 individual pharmacological effect of norbaeocystin would likely be
@@ -142,4 +142,4 @@ Lack of commercial reference standards remains an obstacle, though
 
 - [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]]
 
-See also: [[tryptamine-chemistry-and-psychedelic-pharmacology]]
+See also: [[psilocybin-chemistry-and-pharmacology]]

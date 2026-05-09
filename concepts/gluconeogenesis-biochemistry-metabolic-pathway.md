@@ -55,7 +55,7 @@ Gluconeogenesis and glycolysis can operate simultaneously in hepatocytes, creati
 
 ### Liver
 
-The liver is the primary site of gluconeogenesis, contributing approximately 80-90% of endogenous glucose production in the postabsorptive state. Hepatocytes express all four GNG-specific enzymes and possess the full enzymatic machinery. The liver's large size, high metabolic activity, and direct portal blood supply (absorbing lactate and alanine from the intestine) make it ideally suited.
+The liver is the primary site of gluconeogenesis, contributing approximately 80-90% of endogenous glucose production in the postabsorptive state. Hepatocytes express all four GNG-specific enzymes and possess the full enzymatic machinery. The liver's large size, high [[arbuscule-isolation-metabolic-activity-assays]], and direct portal blood supply (absorbing lactate and alanine from the intestine) make it ideally suited.
 
 ### Kidney Cortex
 
@@ -82,7 +82,7 @@ The small intestine contributes to GNG, particularly in the postprandial period.
 
 ### Diabetes Mellitus
 
-In type 2 diabetes, hepatic gluconeogenesis is inappropriately elevated despite hyperinsulinemia and hyperglycemia. Hepatic insulin resistance at the transcriptional level fails to suppress PEPCK and G6Pase expression, while increased circulating glucagon and free fatty acids (providing acetyl-CoA and glycerol) further drive GNG. Metformin, the first-line oral antidiabetic, partially acts by inhibiting hepatic GNG through AMPK activation and mitochondrial complex I inhibition. The contribution of excessive GNG to fasting hyperglycemia in type 2 diabetes can exceed 60%.
+In type 2 diabetes, hepatic gluconeogenesis is inappropriately elevated despite hyperinsulinemia and hyperglycemia. Hepatic insulin resistance at the transcriptional level fails to suppress PEPCK and G6Pase expression, while increased circulating glucagon and free [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] (providing acetyl-CoA and glycerol) further drive GNG. Metformin, the first-line oral antidiabetic, partially acts by inhibiting hepatic GNG through AMPK activation and mitochondrial complex I inhibition. The contribution of excessive GNG to fasting hyperglycemia in type 2 diabetes can exceed 60%.
 
 ### Fasting and Starvation
 

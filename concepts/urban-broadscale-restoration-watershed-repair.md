@@ -38,7 +38,7 @@ placed on contour. The ditch catches water running down the slope and
 the berm prevents it from continuing downhill. Water fills the swale
 and slowly sinks into the soil.
 
-Fruit and nut trees are totally important parts of swale planting. The
+Fruit and [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]] are totally important parts of swale planting. The
 trees tap into the underground water stored by the swales and their
 roots hold the soil in place. Long after your swales and check dams
 have silted up, they will be visible as lines of trees along the
@@ -99,7 +99,7 @@ Stream interventions have been minimal, mainly consisting of planting
 native species, so the creek is largely on its own. In two years, the
 vegetation grew lush and insects, animals, and birds flourished; the
 water temperature dropped, improving habitat. We attract and feed
-beneficial insects with umbellifers and composites.
+[[comparison-beneficial-insects-guide-vs-integrated-pest-management]] with umbellifers and composites.
 
 ## The Role of Trees in Restoration
 
@@ -115,14 +115,14 @@ for birds and small animals. These trees represent a long-term
 investment in ecological restoration that will continue to function for
 decades without further human intervention.
 
-## Ecological Succession in Restoration
+## [[holmgren-ecological-succession-and-pulsing]] in Restoration
 
 We can build up the soil and substitute our own herb, pioneer, and
 climax species. Depending upon the type of soil you start with (eroded,
 salted, swampy, worn out, acid, alkaline, clayey, or sandy), it is
 possible to introduce plants that will easily survive and might be more
-useful than the existing vegetation. Cover crops of clover or alfalfa
-or peas or beans fix nitrogen in the soil, while buckwheat accumulates
+useful than the existing vegetation. [[cover-crops]] of clover or alfalfa
+or peas or beans [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] in the soil, while buckwheat accumulates
 phosphorus and winter rye suppresses weed growth.
 
 If we play our cards right, in 20 years we can end up with forests of
@@ -133,4 +133,4 @@ agriculture that restores degraded urban and peri-urban landscapes.
 
 - [[urban-permaculture-swales-raised-beds]]
 - [[contour-swale-irrigation-design]]
-- [[urban-permaculture-edge-effect-and-design-principles]]
+- urban-permaculture-edge-effect-and-design-principles

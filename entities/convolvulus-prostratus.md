@@ -46,7 +46,7 @@ Shankhpushpi holds a central place in classical Ayurvedic formulations, particul
 
 Magnoliopsida → Solanales → **Convolvulaceae → *Convolvulus → *C. prostratus***
 
-The taxonomy of Shankhpushpi has been contentious, with the name applied to multiple species across different regions of India. The most commonly accepted botanical sources include Convolvulus prostratus (syn. C. pluricaulis), Evolvulus alsinoides, and Clitoria ternatea.
+The taxonomy of Shankhpushpi has been contentious, with the name applied to multiple species across different regions of India. The most commonly accepted [[dmt-botanical-sources-pharmacology]] include Convolvulus prostratus (syn. C. pluricaulis), Evolvulus alsinoides, and Clitoria ternatea.
 
 The accepted name C. prostratus (Forssk.) Choisy reflects its prostrate growth habit. Some authorities maintain C. microphyllus and C. pluricaulis as separate species, while others treat them as synonyms within a morphologically variable complex.
 
@@ -82,7 +82,7 @@ Memory-enhancing properties are attributed to cholinergic modulation — extract
 
 Anti-inflammatory activity occurs through inhibition of COX-2 and TNF-α pathways. Antioxidant effects are mediated by flavonoid content, with significant DPPH and superoxide radical scavenging activity.
 
-The plant also demonstrates anticonvulsant, hepatoprotective, and hypolipidemic activities in preclinical studies. Clinical trials in humans have shown improvements in attention, memory, and anxiety scores with standardized extracts.
+The plant also demonstrates anticonvulsant, hepatoprotective, and hypolipidemic activities in preclinical studies. [[mushroom-cancer-clinical-trials-overview]] in humans have shown improvements in attention, memory, and anxiety scores with standardized extracts.
 
 ## Cultivation
 
@@ -103,6 +103,8 @@ C. prostratus contains the characteristic convoline/shankhpushpine alkaloids not
 Pharmacopoeial standards in India have designated C. prostratus as the authentic source, but market samples frequently contain mixtures or substitutes. DNA barcoding using ITS regions has been proposed as a quality control measure to verify botanical identity in commercial preparations.
 
 ## See Also
+
+- [[convolvulus-pluricaulis]]
 
 - [[bacopa-monnieri]]
 - [[centella-asiatica]]

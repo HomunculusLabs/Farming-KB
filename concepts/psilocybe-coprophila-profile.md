@@ -47,10 +47,10 @@ short-lived, reflecting the ephemeral nature of their substrate.
 
 ## Substrate Ecology
 
-The dung substrate provides a complex nutritional environment.
+The [[psilocybe-cubensis-cattle-dung-substrate-introduction-americas-guzman-1998]] provides a complex nutritional environment.
 Herbivore dung contains partially digested plant material, including
 cellulose, hemicellulose, and lignin, along with nitrogen-rich
-compounds and minerals. The microbial community within the dung is
+compounds and minerals. The [[edaphic-factors-microbial-community-structure]] within the dung is
 dynamic, with different fungal species colonizing at different
 stages of decomposition. Psilocybe coprophila is one of the earlier
 colonizers, fruiting while the dung still retains significant
@@ -64,18 +64,18 @@ particular species are limited in the published literature. The
 potency is generally considered to be low to moderate compared to
 other psilocybin-containing species. As with all psilocybin
 mushrooms, potency can vary considerably depending on growing
-conditions, specimen age, and genetic factors.
+conditions, [[guzman-allen-gartz-psilocybin-volatility-specimen-age-degradation]], and genetic factors.
 
 ## Identification Considerations
 
 When identifying P. coprophila, the combination of small size,
-dung habitat, dark purplish-brown spore print, and Psilocybe-like
+dung habitat, dark purplish-brown [[comparison-spore-print-collection-vs-spore-syringe-production]], and Psilocybe-like
 features are key diagnostic elements. However, many small
 coprophilous mushrooms grow on dung, and several genera can appear
 similar. Accurate identification requires attention to microscopic
 ## See Also
 
-- [[psilocybe-aztecorum-profile]]
+- psilocybe-aztecorum-profile
 ## Practical Considerations
 
 Successful implementation of Psilocybe coprophila Profile requires attention to
@@ -94,4 +94,6 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+- [[psilocybe-coprophila]]
+- [[decomposition]]
+- [[coprophilous-fungi]]

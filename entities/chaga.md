@@ -14,7 +14,7 @@ sources:
   - https://doi.org/10.3390/molecules25020287
   - https://link.springer.com/article/10.1007/s11046-005-0039-2
 aliases:
-  - Inonotus obliquus
+  - [[chaga-inonotus-obliquus-medicinal-profile]]
   - clinker polypore
   - sterile conk
   - cinder conk
@@ -23,7 +23,7 @@ created: 2026-05-07
 
 # Chaga
 
-Chaga (*[[medicinal-mushrooms]] globally, the visible chaga "conk" is not the fruiting body — it is a dense mass of mycelium and wood tissue formed as a pathogenic response to the fungus *I. obliquus* colonizing the living tree. The actual fruiting body, a shelf-like polypore, develops only after the host tree dies and is rarely encountered in commerce. Chaga is native to the circumboreal forests of the Northern Hemisphere, occurring across Siberia, Scandinavia, Canada, the northern United States, and parts of Central and Eastern Europe.
+Chaga (*[[medicinal-mushrooms]] globally, the visible chaga "conk" is not the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] — it is a dense mass of mycelium and wood tissue formed as a pathogenic response to the fungus *I. obliquus* colonizing the living tree. The actual fruiting body, a shelf-like polypore, develops only after the host tree dies and is rarely encountered in commerce. Chaga is native to the circumboreal forests of the Northern Hemisphere, occurring across Siberia, Scandinavia, Canada, the northern [[dmt-containing-plants-united-states-halpern]], and parts of Central and Eastern Europe.
 
 ## Taxonomy
 
@@ -34,7 +34,7 @@ Chaga (*[[medicinal-mushrooms]] globally, the visible chaga "conk" is not the fr
 - **Family**: Hymenochaetaceae
 - **Genus**: *Inonotus*
 
-*Inonotus obliquus* was first described by the Finnish mycologist Petter Adolf Karsten in 1871. The species epithet *obliquus* refers to the oblique pores of the rare fruiting body. Molecular phylogenetic studies place chaga within a clade of white-rot fungi capable of degrading lignin via lignin peroxidase and manganese peroxidase enzymes.
+*Inonotus obliquus* was first described by the Finnish mycologist Petter Adolf Karsten in 1871. The species epithet *obliquus* refers to the oblique pores of the rare fruiting body. Molecular phylogenetic studies place chaga within a clade of white-rot fungi capable of degrading lignin via [[fungal-lignin-peroxidase-veratryl-alcohol]] and [[fungal-manganese-peroxidase-remediation]] enzymes.
 
 ## Morphology
 
@@ -87,7 +87,7 @@ Chaga has been used for centuries across Siberia, Russia, and Northern Europe as
 - Tuberculosis (historical)
 - Cancer (historical adjunct therapy)
 - Cardiovascular conditions
-- Skin conditions (eczema, psoriasis)
+- [[cannabis-for-skin-conditions-detailed]] (eczema, psoriasis)
 - Fatigue and immune support
 
 The Khanty people of western Siberia consumed chaga as a tea and also used it as a soap substitute. In 16th-century Russia, chaga was officially listed in the Moscow Pharmacopoeia.

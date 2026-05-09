@@ -1,11 +1,11 @@
 ---
-title: Cannabis Edibles - Infusion Methods and Dosing
+title: oner cannabis edibles infusion dosing - Infusion Methods and Dosing
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
 tags: [cannabis, edibles, infusion, decarboxylation, dosing]
 sources:
-  - "S.T. Oner - Cannabis Sativa Volume 3: The Essential Guide"
+  - "S.T. Oner - comparison-cannabis-sativa-vs-cannabis-indica Volume 3: The Essential Guide"
 ---
 
 # Cannabis Edibles - Infusion Methods and Dosing
@@ -18,7 +18,7 @@ affect the edible experience.
 
 ## Strain Selection for Edibles
 
-The choice of cannabis strain significantly impacts edible quality and effects:
+The choice of [[blesching-cannabis-strain-selection-receptor-targeting]] significantly impacts edible quality and effects:
 
 ### High-CBD Strains for Medical Edibles
 
@@ -33,14 +33,14 @@ The amount of resin directly determines infusion potency:
 
 - Strains described as "absolutely caked in resin" or "dripping with resin" provide
   the most raw material for cannabinoid extraction into fats and oils
-- Jack 47 with its "phenomenal amount of resin production" would yield potent
+- Jack 47 with its "phenomenal amount of [[cannabis-glandular-trichome-types-resin-production-clarke]]" would yield potent
   infusions
 - Multiple strains noted for hash production suitability (CookieWreck, Psycho Killer
   Bubba Kush, Nepalese Temple) would also excel as edible starting material
 
 ### Terpene Considerations
 
-Terpene profiles carry through into edibles and affect both flavor and effect:
+[[cannabis-terpene-profiles-sativa]] carry through into edibles and affect both flavor and effect:
 
 - Fruity strains (Mango Haze, Bay 11, Hawaiian Wave) can mask the herbal cannabis
   taste in edibles
@@ -76,7 +76,7 @@ ineffective edibles.
 
 The most traditional edible infusion method:
 
-1. Decarboxylate cannabis flower
+1. Decarboxylate [[cervantes-cannabis-flower-anatomy]]
 2. Melt butter (clarified butter works best) in a saucepan
 3. Add decarboxylated cannabis and simmer on low heat (160-200°F) for 2-3 hours
 4. Strain through cheesecloth or fine mesh

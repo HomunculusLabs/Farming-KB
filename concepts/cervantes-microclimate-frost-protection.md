@@ -1,11 +1,12 @@
 ---
-title: Microclimate and Frost Protection for Outdoor Cannabis
+title: Microclimate and holzer-frost-protection-techniques for Outdoor Cannabis
 created: 2026-04-26
 tags: [cannabis, microclimate, frost, outdoor-growing, cervantes]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
 
@@ -15,7 +16,7 @@ Microclimates are mini climates that exist within
 larger climates. Understanding and exploiting
 microclimates is one [[allegro-colour-and-consistency-of-the-amanita-muscaria]] most detailed climate maps can be
 found in Sunset's Western Garden Book, which
-details 26 distinct climate zones in 13 Western
+details 26 distinct [[mollison-climate-zones-permaculture-strategies]] in 13 Western
 States and British Columbia and Alberta, Canada.
 
 Temperature, rainfall, and sunlight vary widely
@@ -31,7 +32,7 @@ Coastal climates like those found [[triptolemus-eumolpus-and-the-founding-famili
 are cool and rainy. Annual rainfall most often
 exceeds 40 inches and can be as high as 100
 inches. Winter blows in early, bringing chilling
-rain and low light levels. Growing outdoors here
+rain and [[darkness-low-light-facilitation-entheogenic-ceremonies]] levels. Growing outdoors here
 is challenging because the temperature seldom
 drops below freezing, contributing to larger
 insect populations [[allegro-names-of-the-gods-and-their-fertility-origins]]
@@ -45,8 +46,8 @@ virtually stop growth, and temperatures below
 
 Plants in high alpine climates tend to produce
 more resin and 10-20 percent more THC than those
-in lower gardens, partially as a stress response.
-Look for patches where pasture grass grows, and
+in lower gardens, partially as a [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]].
+Look for patches where [[mollison-designers-tropical-pasture-grass-species-and-establishment]] grows, and
 backfill planting holes with a mix of peat moss,
 soil, polymer crystals, and slow-acting organic
 fertilizer to help plants deal with mountain stress.
@@ -54,7 +55,7 @@ fertilizer to help plants deal with mountain stress.
 ## Taking Advantage of Microclimates
 
 The easiest and most cost-effective approach to
-extending the growing season is to locate and
+extending the [[savory-growing-season-and-non-growing-season-management]] is to locate and
 take advantage of microclimates such as areas
 that warm up faster or retain heat longer.
 Orientation to the sun, wind breaks, and walls

@@ -21,15 +21,15 @@ sources:
 
 **Pinguicula vulgaris**, the common butterwort, is a perennial carnivorous plant
 in the family Lentibulariaceae. It is native to circumboreal regions of the
-Northern Hemisphere, occurring across Europe, northern Asia, and North America.
+Northern Hemisphere, occurring across Europe, northern Asia, and [[psilocybin-north-america-pacific-northwest]].
 
 The species forms a basal rosette of sticky, glandular leaves that trap small
-insects. Digestive enzymes secreted by the leaf surface dissolve the prey,
+insects. Digestive enzymes secreted by the [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] dissolve the prey,
 supplementing the plant's nutrient intake in nitrogen-poor habitats.
 
 In European folk medicine, butterwort leaves were traditionally applied to
 soothe irritated skin and treat minor wounds. The species has been investigated
-for its enzyme and secondary metabolite profiles.
+for its enzyme and [[fungal-elicitors-enhanced-secondary-metabolite-production]] profiles.
 
 ## Taxonomy and Morphology
 
@@ -70,7 +70,7 @@ saturated but not permanently submerged.
 
 The trapping mechanism of *Pinguicula* is a passive flypaper system. The leaf
 surface produces viscid mucilage from stalked glands that immobilizes small
-arthropods, primarily springtails, fungus gnats, and small diptera.
+arthropods, primarily springtails, [[query-how-to-control-fungus-gnats-organically]], and small diptera.
 
 Prey capture triggers increased secretion of digestive enzymes from sessile
 glands. The digestive fluid contains at least six proteolytic enzymes, including
@@ -116,7 +116,7 @@ of distilled or rainwater at a depth of 1–2 cm.
 
 Temperate butterworts require a seasonal temperature cycle. Summer growing
 temperatures of 18–25°C are optimal, with winter dormancy at 2–8°C. Cold
-stratification of 8–12 weeks improves seed germination rates.
+stratification of 8–12 weeks improves [[cannabis-seed-germination-methods]] rates.
 
 Propagation is primarily from seed, which requires cold stratification. Gemmae
 (vegetative buds at leaf axils) can be separated and planted. Leaf cuttings

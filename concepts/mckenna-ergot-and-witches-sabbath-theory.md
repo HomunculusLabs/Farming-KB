@@ -11,7 +11,7 @@ tags: [reference]
 # McKenna on Ergot and the Witches' Sabbath Theory
 
 In [[psychedelic-mushroom-set-and-setting]]
-examines the dual role of ergot-fungus|ergot (Claviceps purpurea) in
+examines the dual role of ergot-fungus|ergot ([[bloomfield-ergot-claviceps-purpurea-ergotism]]) in
 Western history: as the likely visionary catalyst of the [[kykeon-composition-and-ergot-alkaloid-hypothesis]] was an ergotized beer brewed from barley infected with Claviceps
 purpurea. The argument draws on several lines of evidence: grain was central
 to the Eleusinian cult as a harvest festival celebrating the Great Mother
@@ -58,9 +58,9 @@ bold mycologists."
 ## Graves's Alternative: Psilocybin at Eleusis
 
 Should ergot prove unrelated to Eleusis, Robert Graves's theory that
-psilocybin mushrooms constituted the mystery deserves careful reconsideration.
+[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] constituted the mystery deserves careful reconsideration.
 Graves proposed that the Eleusinian priesthood had discovered an alternative
-hallucinogenic mushroom easier to handle than Amanita muscaria -- one that
+[[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]] easier to handle than [[allegro-amanita-muscaria-properties-and-pharmacology]] -- one that
 could be baked in sacrificial cakes shaped like pigs or phalloi without
 losing its hallucinogenic powers. Recipes in classical sources for the ritual
 Eleusinian beverage contained ingredients whose first letters could be
@@ -95,7 +95,7 @@ Christianity's triumph ended the glorification of nature and planet as
 supreme spiritual forces. The "triumph of the blade" of dominator social
 models of paternalism and patriarchy was everywhere complete. Only dim echoes
 continued in underground concerns such as alchemy, hermeticism, midwifery,
-and herbalism. With the eclipse of Minoan Crete, humankind crossed a
+and herbalism. With the eclipse of [[mckenna-food-gods-minoan-crete-mushroom-religion]], humankind crossed a
 historical watershed into the progressively more vacant, more ego-dominated
 world whose energies coalesced into monotheism, patriarchy, and male
 domination.

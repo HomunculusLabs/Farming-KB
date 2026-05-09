@@ -16,12 +16,12 @@ type: concept
 
 # Blessing the Ground Ritual
 
-The Blessing of the Ground is a foundational ritual from "Marijuana Magick: A
+The Blessing of the Ground is a foundational ritual from "[[marijuana-magick-ancient-ritual-use-cannabis]]: A
 Practitioners Guide" by Magus Sativus. It is described as one of the simplest
 cannabis-involved rituals and is recommended to be performed often. The ritual
 serves two primary purposes: attuning the ground to a higher spiritual level
 and expressing gratitude for the earth's bountiful glory. It can also be used
-to promote crop growth.
+to promote [[coleman-sunlight-and-winter-crop-growth-rates]].
 
 ## Overview and Purpose
 

@@ -1,5 +1,5 @@
 ---
-title: "Rampant Blackberry Control in Permaculture Systems"
+title: "mollison designers rampant blackberry control Control in Permaculture Systems"
 created: 2026-04-26
 tags:
   - permaculture
@@ -29,7 +29,7 @@ dangerous herbicides.
 
 Before considering control, it is worth recognising that
 blackberry has productive uses. In [[mollison-free-range-pig-systems]] and
-[[mollison-evolving-polyculture-systems-for-settlements]] replacing a monoculture weed.
+mollison-evolving-polyculture-systems-for-settlements replacing a monoculture weed.
 
 ## Confinement Strategies
 
@@ -48,8 +48,8 @@ strategies work:
 3. Blackberry edges have been reported as confined by comfrey,
    wormwood, Coprosma repens, pine, or cypress hedges. These
    barrier species can be incorporated into
-   [[mollison-designers-duck-pond-integrated-systems]], chickens, ducks, and
-[[mollison-designers-trap-crops-biological-pest-control]]
+   mollison-designers-duck-pond-integrated-systems, chickens, ducks, and
+mollison-designers-trap-crops-biological-pest-control
 ## Practical Considerations
 
 When working with Rampant Blackberry Control in Permaculture Systems, several practical factors should be
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +108,9 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+## See Also
+- [[rubus-fruticosus]]
+- [[mollison-designers-geese-and-duck-weed-control]]
+- [[mollison-designers-vetiver-grass-for-erosion-control]]
+- [[mollison-designers-earthworks-for-erosion-control]]
+- [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]]

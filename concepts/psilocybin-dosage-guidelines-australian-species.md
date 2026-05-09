@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Dosage Guidelines for Australian Mushroom Species
+title: Psilocybin blesching-cannabis-health-index-dosage-guidelines-medical for Australian Mushroom Species
 created: 2026-04-26
 tags:
   - pharmacology
@@ -32,7 +32,7 @@ species in southeastern Australia:
 - Dosage approximately 1 to 3 large specimens, 4 to 6 small specimens, or
   1 to 2 grams dried material
 
-- Bioassays suggest this species may be as potent as Psilocybe cyanescens,
+- Bioassays suggest this species may be as potent as [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]],
   one of the most potent species commonly found worldwide
 
 ## Psilocybe semilanceata
@@ -43,14 +43,14 @@ mushrooms over synthetic psychedelics.
 
 ## Potency Variables
 
-Multiple factors affect mushroom potency:
+Multiple factors affect [[pf-tek-mushroom-potency-and-age-relationship]]:
 
 1. Wild vs. cultivated specimens -- cultivated are generally more potent
 2. Flush number in cultivation -- potency varies between harvests
 3. Time between harvest and consumption -- chemical degradation occurs
 4. Substrate -- wood-chip species may be more potent than dung species
 5. Drying method -- some methods preserve alkaloids better than others
-6. Storage -- honey preservation reportedly maintains potency better than
+6. Storage -- [[mckenna-myth-of-glaukos-honey-preservation-mushroom]] reportedly maintains potency better than
    drying or freezing
 
 ## Lethality Data
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

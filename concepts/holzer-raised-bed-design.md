@@ -1,5 +1,5 @@
 ---
-title: Holzer Raised Bed Design
+title: Holzer comparison-chinampas-vs-raised-bed-gardening Design
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 
 # Holzer Raised Bed Design
 
-Raised beds are central to Sepp Holzer's permaculture system. They are built with bulky organic material at their core, which breaks down to provide long-term nutrient supply and moisture retention.
+[[comparison-raised-beds-vs-hugelkultur]] are central to [[comparison-sepp-holzer-vs-biodynamic]]'s permaculture system. They are built with bulky organic material at their core, which breaks down to provide long-term nutrient supply and moisture retention.
 
 ## Construction
 
@@ -33,7 +33,7 @@ With wet, heavy soils a drainage system (French drain) should be installed. With
 
 ## Windbreak Design
 
-Raised beds planted with fruit bushes and tall-growing plants like sunflowers, Jerusalem artichokes, or hemp make excellent windbreaks. They also serve as visual barriers and keep out noise and pollution. The middle beds are positioned to catch as much sunlight as possible. Herb spirals make an excellent addition.
+Raised beds planted with [[holzer-soft-fruit-bushes-and-berries]] and tall-growing plants like sunflowers, Jerusalem artichokes, or hemp make excellent windbreaks. They also serve as visual barriers and keep out noise and pollution. The middle beds are positioned to catch as much sunlight as possible. Herb spirals make an excellent addition.
 
 ## Management
 
@@ -41,7 +41,7 @@ Raised beds should be sown and planted as soon as they are created while the soi
 
 ## Nutrient Release Timeline
 
-Beds made of chipped wood break down quickly, releasing large amounts of nutrients in the first year — select demanding plants like pumpkins, courgettes, cucumbers, cabbages, tomatoes, sweetcorn, celery and potatoes. After three years, switch to less demanding plants like beans, peas and strawberries. Beds made with bulky material like whole tree trunks rot down slowly and provide steady nutrients for many years with little danger of overfertilising.
+Beds made of chipped wood [[query-can-fungi-break-down-plastic-pollution]] quickly, releasing large amounts of nutrients in the first year — select demanding plants like pumpkins, courgettes, cucumbers, cabbages, tomatoes, sweetcorn, celery and potatoes. After three years, switch to less demanding plants like beans, peas and strawberries. Beds made with bulky material like whole tree trunks rot down slowly and provide steady nutrients for many years with little danger of overfertilising.
 
 ## Related
 
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

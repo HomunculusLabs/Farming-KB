@@ -1,5 +1,5 @@
 ---
-title: Sustainability Philosophy of GROW BIOINTENSIVE
+title: jeavons sustainability philosophy gbiointensive of jeavons-grow-biointensive-method-overview
 created: 2026-04-28
 tags: [biointensive, sustainability, soil-fertility, philosophy, jeavons]
 date: 2026-04-28
@@ -13,7 +13,7 @@ type: concept
 
 Sustainability means living so there are enough resources to live
 well in an alive, diverse, thriving environment—indefinitely. The
-[[jeavons-composting-methods]] is added to soil, humic acid (produced
+[[jeavons-composting-methods]] is added to soil, [[comparison-humic-acid-vs-fulvic-acid]] (produced
 from decomposition) along with carbonic acid around plant roots
 can increase microbial activity, decompose larger minerals, and
 alter soil pH to make previously unavailable nutrients available.
@@ -48,7 +48,7 @@ Greek raised-bed techniques to reverse this pattern.
 
 Ecology Action's Common Ground Mini-Farm in Willits, California,
 began with infertile soil where carbonaceous crops grew poorly.
-Initially, straw and horse manure were imported, but this felt
+Initially, straw and [[falconer-horse-manure-varieties]] were imported, but this felt
 unsustainable because significant carbon was being brought from
 outside. They limited compost building to farm-produced materials,
 though initially insufficient. Over time they moved toward closed-
@@ -61,13 +61,13 @@ To sustain soil fertility, Jeavons recommends dividing growing
 areas as follows:
 - **60%** in carbon-and-calorie crops (grains, fava beans,
   sunflowers) for maximum carbon and satisfactory calories
-- **30%** in high-calorie root crops (potatoes, sweet potatoes,
+- **30%** in high-calorie [[permaculture-plants-root-crops-and-tubers]] (potatoes, sweet potatoes,
   garlic, parsnips, burdock) for maximum calories per area
 - **10%** in vegetable crops for additional vitamins and minerals
 
 This model produces enough compost material and calories while
 maintaining sustainable soil fertility. See [[jeavons-compost-functions-soil-building]]
-for compost's role in building this organic matter.
+for compost's role in building this [[hamilton-composting-and-organic-matter-management]].
 
 ## The Bigger Picture
 
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

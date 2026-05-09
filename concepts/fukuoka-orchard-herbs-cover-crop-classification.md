@@ -1,5 +1,5 @@
 ---
-title: Orchard Herbs Cover Crop Classification by Plant Family
+title: fukuoka orchard herbs cover crop classification Cover Crop Classification by Plant Family
 created: 2026-04-28
 tags:
   - fukuoka
@@ -22,7 +22,7 @@ type: concept
 
 ## Core Concept
 
-Fukuoka developed a comprehensive classification system for herbs used as orchard cover crops, organized by plant family, growing season, and specific use cases. This system was the result of planting seeds of thirty legumes, crucifers, and grasses throughout his orchard and observing their performance over years. The classification provides a practical guide for selecting the right cover crop for the right situation in fruit tree cultivation.
+Fukuoka developed a comprehensive classification system for herbs used as orchard cover crops, organized by plant family, [[savory-growing-season-and-non-growing-season-management]], and specific use cases. This system was the result of planting seeds of thirty legumes, crucifers, and grasses throughout his orchard and observing their performance over years. The classification provides a practical guide for selecting the right cover crop for the right situation in fruit tree cultivation.
 
 ## The Three Major Plant Families
 
@@ -36,7 +36,7 @@ Grasses serve primarily as deciduous fruit tree undergrowth and for controlling 
 - **Wild oats**: spring season, useful for controlling summer weeds
 - **Winter grains**: multi-purpose winter cover
 
-Grasses provide organic matter through their root systems and above-ground biomass, helping to maintain soil structure and prevent erosion on orchard slopes.
+Grasses provide [[hamilton-composting-and-organic-matter-management]] through their root systems and above-ground biomass, helping to maintain soil structure and prevent erosion on orchard slopes.
 
 ### Pea Family (Leguminosae / Fabaceae)
 
@@ -53,7 +53,7 @@ Legumes form the backbone of the orchard cover crop system because of their nitr
 - Ladino clover: the primary cover crop, provides year-round weed control for all fruit trees
 - Red and white clover: year-round weed control
 - Alfalfa: year-round, especially valuable in warm regions where clover loses summer vigor
-- Crimson clover, sweet clover, sub clover: year-round persistence
+- [[comparison-lupin-vs-crimson-clover-green-manure]], sweet clover, sub clover: year-round persistence
 
 **Spring and summer crops:**
 - Mung bean and cowpea: spring to summer, for large evergreen trees, controls summer weeds
@@ -83,7 +83,7 @@ The cover crop system is designed to work in combination rather than as single-s
 2. **Weed suppression timing**: Match cover crop emergence to the weed species you want to suppress
 3. **Tree type compatibility**: Some covers work better with evergreen trees, others with deciduous fruit trees
 4. **Soil conditioning function**: Include deep-rooted species (daikon, alfalfa, lupine) to work deeper soil strata
-5. **Nitrogen contribution**: Legumes provide biological nitrogen fixation; crucifers and grasses contribute organic matter
+5. **Nitrogen contribution**: Legumes provide [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation; crucifers and grasses contribute organic matter
 
 ## The Primary-Secondary Crop System
 
@@ -130,7 +130,7 @@ The herb cover crop system is designed to complement, not compete with, fruit tr
 - **Crucifers** break up compacted soil with their taproots and accumulate sulfur-containing compounds
 - **Grasses** add bulk organic matter and protect the soil surface from rain impact
 
-The key insight is that a diverse cover crop community performs functions that no single species can achieve alone. The plant families complement each other in root depth, nutrient contribution, growth season, and biomass production.
+The key insight is that a diverse cover crop community performs functions that no single species can achieve alone. The plant families complement each other in root depth, nutrient contribution, growth season, and [[dighton-fungal-biomass-production-aquatic-ecosystems]].
 
 ## Connection to Other Concepts
 

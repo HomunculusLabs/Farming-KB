@@ -29,8 +29,8 @@ sources:
 
 **Cymbopogon flexuosus**, commonly known as East Indian lemongrass, Malabar
 lemongrass, or Cochin lemongrass, is a perennial aromatic grass in the family
-Poaceae. Native to South and Southeast Asia, it is cultivated worldwide for its
-essential oil — one of the primary commercial sources of citral. The species is
+Poaceae. Native to South and [[psilocybe-southeast-asia-pacific]], it is cultivated worldwide for its
+[[permaculture-designers-manual-essential-oil-plants]] — one of the primary commercial sources of citral. The species is
 widely used in perfumery, food flavoring, traditional medicine, and permaculture
 systems for its pest-deterrent properties.
 
@@ -57,7 +57,7 @@ their oils have slightly different organoleptic profiles.
 - **Inflorescence:** Large, nodding, compound panicle, 30–60 cm long, with
   purplish racemes. Flowers rarely set viable seed in cultivation.
 - **Roots:** Dense fibrous root system extending 30–60 cm deep; effective at
-  soil stabilization and erosion control.
+  soil stabilization and [[permplant-willows-salix-erosion-control-fodder]].
 
 ## Distribution and Native Range
 
@@ -115,10 +115,10 @@ Propagated vegetatively by splitting clumps (slips/tillers), as seed set is poor
 in cultivated varieties. Planting is done at the onset of monsoon rains at 40–60 cm
 spacing. First harvest at 90–100 days after planting; subsequent harvests every
 50–60 days for 4–6 years before replanting. Fertilization with nitrogen (80–120
-kg/ha) significantly increases biomass and oil yield. Organic cultivation methods
+kg/ha) significantly increases biomass and oil yield. Organic [[synthetic-log-cultivation-methods-guide]]
 are common in India and Madagascar.
 
 ## See Also
 
 - [[tagetes-lucida]] — Mexican marigold, another aromatic pest-deterrent companion plant
-- [[ocimum-basilicum]] — basil, another aromatic companion plant for pest management
+- [[ocimum-basilicum]] — basil, another aromatic companion plant for [[cannabis-pest-management-guide]]

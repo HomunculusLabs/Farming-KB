@@ -1,5 +1,5 @@
 ---
-title: "How to Use Wood Chips in Your Garden"
+title: "How to Use fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment in Your Garden"
 created: 2026-04-28
 tags: [query, gardening, mulch, soil-health, permaculture]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: query
 # How to Use Wood Chips in Your Garden
 
 ## Short Answer
-Wood chips are one of the most effective mulching materials for building
+Wood chips are one of the most effective [[hamilton-mulching-materials-and-techniques]] for building
 long-term soil health. They suppress weeds, retain moisture, moderate soil
 temperature, and feed fungal networks as they decompose. Use them as a surface
 mulch two to four inches thick around established plants, avoiding direct
@@ -21,7 +21,7 @@ leaves for the best results.
 ## Detailed Explanation
 Wood chips have gained enormous popularity among gardeners and permaculturists
 thanks in large part to the work of Paul Gautschi, whose back-to-eden approach
-demonstrated that wood chip mulch can transform depleted soil into rich, dark,
+demonstrated that wood [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] can transform depleted soil into rich, dark,
 fertile ground over time. Unlike finer mulches like shredded bark or sawdust,
 arborist wood chips contain a mix of wood pieces, bark, twigs, and often leaves
 from tree trimming operations. This diversity in particle size and composition
@@ -59,6 +59,8 @@ of a broader soil-building strategy.
 
 ## Related
 
+- [[query-how-to-use-molasses-in-your-cannabis-garden]]
+
 - [[query-how-to-build-a-compost-pile-that-works]]
 - [[query-how-do-mushrooms-contribute-to-soil-health]]
 - [[query-how-to-build-healthy-garden-soil]]
@@ -80,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

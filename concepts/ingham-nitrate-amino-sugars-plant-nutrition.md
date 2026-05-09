@@ -11,7 +11,7 @@ created: 2026-04-28
 
 # Nitrate and Amino Sugars in Plant Nutrition and Compost Tea Application
 
-The forms in which nitrogen and carbon compounds are available to plants have profound implications for plant health, pest susceptibility, and reproductive success. Elaine Ingham's field guide correspondence addresses the critical distinction between nitrate and amino acid forms of nutrients, and how the soil foodweb determines which forms dominate in the root zone.
+The forms in which nitrogen and carbon compounds are available to plants have profound implications for plant health, pest susceptibility, and reproductive success. [[elaine-ingham]]'s field guide correspondence addresses the critical distinction between nitrate and amino acid forms of nutrients, and how the soil foodweb determines which forms dominate in the root zone.
 
 ## The Nitrate Problem During Flowering
 
@@ -27,9 +27,9 @@ The flowering transition is hormonally regulated. When nitrate and amino acid le
 
 One of the most important insights from Ingham's work is the relationship between amino acid forms in plant tissue and insect pest attraction:
 
-- **Free amino acids** in plant tissue serve as chemical signals that attract insect pests
+- **Free amino acids** in plant tissue serve as [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] that attract insect pests
 - **Amino acids incorporated into proteins** do not attract pests
-- The conversion of free amino acids to protein depends on adequate soil biology and nutrient cycling
+- The conversion of free amino acids to protein depends on adequate soil biology and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 
 When free amino acids accumulate in plant tissue because they are not being moved into protein synthesis, the plant becomes a magnet for insect pests. The insects are essentially reading the plant's chemical signals — high free amino acid content signals a stressed, vulnerable plant with incomplete protein synthesis.
 
@@ -52,25 +52,25 @@ Despite these limitations, brix remains a practical field tool. It is rapid, ine
 
 ## Nutrient Cycling: The Soil Foodweb's Central Role
 
-The soil foodweb determines what forms of nutrients are available to plants. This is one of the five core benefits Ingham identifies for aerobic compost tea:
+The soil foodweb determines what forms of nutrients are available to plants. This is one of the five core benefits Ingham identifies for [[ingham-anaerobic-vs-aerobic-compost-tea]] tea:
 
 1. **Bacteria and fungi** immobilize nutrients in their biomass, preventing leaching
 2. **Protozoa and nematodes** consume bacteria and fungi, releasing nutrients in plant-available forms
 3. **If no plants are present** to take up released nutrients, other bacteria and fungi consume them — creating a self-correcting loop
 4. **If plants remove nutrients**, bacteria and fungi slow their growth and search for new nutrient sources
 
-This nutrient cycling mechanism means that in a healthy soil foodweb, nutrients are held in biological storage and released gradually as plants need them. Nitrogen is not lost as ammonia, nitrous oxide, or other volatile forms. Sulfur is not lost as hydrogen sulfide gas. The system is self-regulating through predator-prey dynamics.
+This nutrient cycling mechanism means that in a healthy soil foodweb, nutrients are held in biological storage and released gradually as plants need them. Nitrogen is not lost as ammonia, [[nitrous-oxide]], or other volatile forms. Sulfur is not lost as hydrogen sulfide gas. The system is self-regulating through predator-prey dynamics.
 
 The efficiency of this biological nutrient delivery system is remarkable. In conventional systems where nutrients are applied as soluble salts, a significant fraction is lost to leaching, volatilization, or immobilization in unavailable forms. In a biologically active soil, the same total nutrient pool supports much higher plant uptake because the nutrients are held in living biomass and released on demand.
 
 ## Anaerobic Conditions Disrupt Nutrient Cycling
 
-Ingham contrasts aerobic and anaerobic systems sharply when evaluating nutrient cycling benefits:
+Ingham contrasts [[query-what-is-the-difference-between-aerobic-and-anaerobic-composting]] systems sharply when evaluating nutrient cycling benefits:
 
 - **Aerobic teas** contain the full complement of bacteria, fungi, protozoa, and nematodes needed for complete nutrient cycling
 - **Anaerobic brews** lack beneficial fungi, flagellates, amoebae, and nematodes, and therefore cannot cycle nutrients
 - In anaerobic conditions, nitrogen is lost as ammonia and nitrous oxide, sulfur as hydrogen sulfide
-- pH drops into the acidic range due to organic acids produced during anaerobic decomposition
+- pH drops into the acidic range due to organic acids produced during anaerobic [[decomposition]]
 - Nutrients become immobilized in bacterial biomass with no mechanism for plant release
 
 Thus, while anaerobic brews may show pathogen inhibition in plate culture tests, they actively destroy the nutrient cycling capacity that healthy soils depend on. Nutrients become locked in bacterial biomass with no protozoa or nematodes to release them. The system stops functioning as a nutrient delivery mechanism.
@@ -79,7 +79,7 @@ This is why Ingham is so emphatic about maintaining aerobic conditions throughou
 
 ## Fungi and the Bacteria-Then-Fungi Succession
 
-The bacteria-then-fungi succession is central to nutrient transformation and humus formation in soil:
+The bacteria-then-fungi succession is central to nutrient transformation and [[lowenfels-humus-formation-benefits]] in soil:
 
 - **Bacteria start decomposition** by using easy-to-use sugars and simple, rapid-growth food resources
 - **Fungi follow**, producing complex "waste products" — what we call humus or humic acid
@@ -111,7 +111,7 @@ Microbes play a central role in making nutrients available through chelation. An
 
 This chelation process is how microbes make minerals available to plants. The plant has enzymes that remove the protein or amino acid chelating agent once the mineral is inside, placing it where needed in cellular machinery. Synthetic chelators like EDTA are not normally present in soil — biological chelation requires living organisms and biological energy.
 
-The reliance on biological chelation explains why nutrient deficiencies can persist even when total soil nutrient levels appear adequate on standard soil tests. Without the living organisms to chelate and deliver minerals, the nutrients may be present but unavailable to plant roots.
+The reliance on biological chelation explains why [[hamilton-nutrient-deficiencies-and-treatment]] can persist even when total soil nutrient levels appear adequate on standard soil tests. Without the living organisms to chelate and deliver minerals, the nutrients may be present but unavailable to plant roots.
 
 ## See Also
 

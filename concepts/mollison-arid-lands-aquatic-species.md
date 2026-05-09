@@ -1,5 +1,5 @@
 ---
-title: Arid Lands Aquatic and Domestic Species
+title: mollison arid lands aquatic species Aquatic and Domestic Species
 created: 2026-04-23
 updated: 2026-04-23
 type: concept
@@ -14,11 +14,11 @@ sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md
 ---
 
-Bill Mollison's analysis of arid environments emphasizes the integration of exotic domestic species with native fauna and flora to create resilient food systems in dryland regions. The approach combines traditional Aboriginal knowledge with permaculture design to develop productive arid-zone polycultures.
+Bill Mollison's analysis of arid environments emphasizes the integration of exotic domestic species with native fauna and flora to create resilient food systems in dryland regions. The approach combines traditional Aboriginal knowledge with [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] to develop productive arid-zone polycultures.
 
 ## Exotic Domestic Species for Protein
 
-Ducks and hens, their eggs and surplus breeders, represent the main potential source of domestic protein in arid environments. In tree crop areas, they also provide opportunities for pest control of ants, termites, and snails, and serve a useful role as rakes in fire control. When housed in insulated shelters on the south side of glasshouses, they prevent night frosts in winter through emission of body heat.
+Ducks and hens, their eggs and surplus breeders, represent the main potential source of domestic protein in arid environments. In [[mollison-tree-crop-systems-permaculture]] areas, they also provide opportunities for [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] of ants, termites, and snails, and serve a useful role as rakes in fire control. When housed in insulated shelters on the south side of glasshouses, they prevent night frosts in winter through emission of body heat.
 
 Guinea fowl and pigeons should be considered as prime candidates for camp food resources. Pigeons are kept in traditional dovecotes, while guinea fowl are managed as herded flocks. Both supply eggs and meat. In mulga areas, a great deal of natural seed falls, and guinea fowl also utilize many insect foods and pests. On range, poultry may need elevated roosts and nest boxes on pipes to escape foxes and goannas. Pigeons in dovecotes are immune to fox predation.
 
@@ -32,9 +32,9 @@ Importantly, there is no risk of fish escapes via the desert and salt pans that 
 
 ## Beekeeping in Arid Lands
 
-Bees present an opportunity not only for honey but for pollen collection. Pollen traps are available and would supply high-protein flour additives for remote outstations. In arid environments where conventional protein sources are scarce, bee pollen represents a valuable nutritional supplement.
+Bees present an opportunity not only for honey but for [[cannabis-pollen-collection-storage-clarke]]. Pollen traps are available and would supply high-protein flour additives for remote outstations. In arid environments where conventional protein sources are scarce, bee pollen represents a valuable nutritional supplement.
 
-Bee forage in drylands depends heavily on native flowering species, particularly Acacia, which produce abundant nectar and pollen. The [[mollison-native-seed-forage-systems-and-arid-species-lists]]
+[[mollison-designers-bee-forage-tree-planting]] in drylands depends heavily on native flowering species, particularly Acacia, which produce abundant nectar and pollen. The mollison-native-seed-forage-systems-and-arid-species-lists
 - [[jadam-fruit-tree-winter-pest-control]]
 - [[tree-vine-crops-arid-tropical-mollison]]
 ## Practical Applications
@@ -114,4 +114,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

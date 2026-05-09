@@ -1,13 +1,6 @@
 ---
-title: "Psilocybin Mushrooms Beyond Psilocybe: Other Genera"
-created: 2026-04-28
-tags: [psilocybin, panaeolus, gymnopilus, pluteus, conocybe, inocybe, stamets]
-date: 2026-04-25
-updated: 2026-04-25
-sources: [~/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md]
-type: concept
----
 
+---
 # Psilocybin Mushrooms Beyond Psilocybe: Other Genera
 
 ## The Wider World of Psychoactive Fungi
@@ -39,106 +32,112 @@ recommends that foragers avoid the genera Conocybe and Inocybe until
 they become sufficiently skilled at identification. The danger of
 misidentification with these genera is significant enough to warrant
 extreme caution. Many species in these genera contain amatoxins or
-other deadly poisons unrelated to psilocybin.
-
-## Genus Panaeolus
-
-Panaeolus species are coprophilous (dung-inhabiting) mushrooms found
-worldwide in grasslands and pastures. The most notable psychoactive
-species include:
-
-- **Panaeolus cyanescens** (syn. Copelandia cyanescens): A potent
-  tropical and subtropical species found in dung-rich grasslands. This
-  mushroom is among the most powerful naturally occurring psilocybin
-  mushrooms, with bluing reactions upon bruising that indicate high
-  psilocybin content. It thrives in warm climates worldwide.
-
-- **Panaeolus subbalteatus**: A temperate species found in enriched
-  grasslands, compost heaps, and manured soils. Less potent than P.
-  cyanescens but more widely distributed in temperate regions. Often
-  found in the Pacific Northwest of North America and throughout Europe.
-
-Panaeolus mushrooms are generally small, fragile, and dark-spored,
-growing directly from dung or heavily manured soils. Their coprophilous
-habit makes them relatively easy to locate in appropriate habitats.
-
-## Genus Gymnopilus
-
-Gymnopilus species are wood-inhabiting mushrooms, typically growing on
-dead wood, wood chips, tree stumps, and logs. They are medium to large
-mushrooms with orange to rusty-brown spore prints. The most notable
-psychoactive species include:
-
-- **Gymnopilus spectabilis**: Known as the "Big Laughing Gym," this
-  species is one of the largest psychoactive mushrooms, found growing
-  on hardwood stumps and logs. It is widely distributed across North
-  America and parts of Asia.
-
-- **Gymnopilus purpuratus**: A South American species that has also
-  been found in Europe, known for its purplish tones and psychoactive
-  properties.
-
-Gymnopilus species can be difficult to identify with certainty, as many
-non-psychoactive species in the genus look similar. The bluing reaction
-is a helpful indicator but should not be relied upon as the sole
-identification feature.
-
-## Genus Pluteus
-
-Pluteus species are wood-inhabiting mushrooms found on dead wood, stumps,
-and wood debris in forests. They are distinguished by their free gills
-and pink spore print. The most notable psychoactive species include:
-
-- **Pluteus salicinus**: Found on dead hardwood, particularly willow
-  and alder, in temperate forests of North America and Europe. It is
-  a relatively rare species but can be identified by its bluing
-  reaction and habitat preference.
-
-Pluteus species are generally less well-known to foragers than Psilocybe
-or Panaeolus species, partly because they occur in woodland habitats
-rather than the more accessible grasslands and pastures.
-
-## Genus Conocybe
-
-Conocybe species are small, fragile mushrooms found in grasslands,
-compost, and enriched soils. They have rusty-brown spore prints and
-conical to bell-shaped caps. While a few species like Conocybe
-cyanopus are known to be psychoactive, many other Conocybe species
-contain dangerous toxins. The genus is not recommended for casual
-foraging due to the risk of fatal misidentification.
-
-## Genus Inocybe
-
-Inocybe species are mycorrhizal mushrooms found in association with
-trees in forests and woodlands. They have brown spore prints and
-typically feature fibrous caps. While some Inocybe species contain
-psilocybin, many others contain dangerous toxins including muscarine.
-The genus presents one of the highest risks for fatal misidentification
-among all mushroom genera.
-
-## The Evolutionary Significance of Psilocybin
-
-Stamets raises the question of whether the production of psilocybin is
-being selected as a beneficial evolutionary trait for Psilocybe species.
-The discovery of a strongly bluing species resembling P. pelliculosa
-above Telluride, Colorado, at 10,000-11,000 feet elevation, led to the
-observation that "from an evolutionary point of view, its psilocybin
-content directly guaranteed its survival." One must wonder if the
-production of psilocybin confers some adaptive advantage that has been
-selected for across diverse habitats and genera.
-
-## Biogeographical Patterns
-
-Mexico is the richest region in psilocybin mycoflora. In the Pacific
-Northwest, at least four thousand mushroom species have been identified,
-with more than a dozen containing psilocybin. In Europe, about three
-quarters as many have been reported. Stamets states he has yet to find
-a single temperate or tropical habitat with high annual rainfall that
-lacks psilocybin mushrooms, suggesting these fungi occupy virtually
-every suitable ecological niche worldwide.
-
 ## See Also
 
-- [[stamets-psilocybin-habitats-ecology]]
-- [[stamets-mushrooms-world-chemistry-potency]]
-- [[stamets-mushrooms-world-cubensis]]
+- stamets-psilocybin-habitats-ecology
+- stamets-mushrooms-world-chemistry-potency
+- stamets-mushrooms-world-cubensis
+- psilocybin-containing-genera-beyond-psilocybe
+- psilocybin-mushrooms
+- copelandia-cyanescens
+
+## Merged: Minor Psilocybin Genera - Conocybe and Gymnopilus
+
+  reported used for shamanic purposes by the Mazatecs of Oaxaca. No
+  analyses published since their discovery circa 1956.
+- **Conocybe kuehneriana**: A Finnish species reported active by
+  Ohenoja et al. (1987).
+
+Both documented species bruise bluish at the base of the stem. Both are
+very small and lack a ring. Given the existence of deadly Pholiotina
+filaris, Stamets strongly cautions amateurs experimenting with Conocybe.
+
+### Conocybe cyanopus (Atkins) Kuhner
+
+Cap 0.7-1.2 (2.5) cm, hemispheric to convex. Reddish cinnamon brown,
+moist when wet. Gills adnexed, close, dull rusty brown. Stem 20-40 mm
+by 1-1.4 mm, fragile. Base with whitish mycelium that bruises bluish.
+Spores rusty brown, 6.5-7.5 (8.5) by 4.5-5 um. No annulus.
+
+**Habitat**: Lawns and fields, summer and fall. **Distribution**:
+Washington, Colorado, Vancouver B.C., Norway, Finland, Germany.
+**Potency**: Moderately to highly active. 0.33-1.01% psilocybin,
+0.12-0.20% baeocystin. Widely distributed but unnoticed due to minute
+stature.
+
+### Conocybe smithii Watling
+
+Cap 0.3-1 (1.3) cm, obtusely conic with pronounced umbo. Ochraceous
+tawny to cinnamon brown, hygrophanous. Stem 10-60 mm by 0.75-1 mm.
+Spores rusty brown, (6.5) 7-9 by 4-4.5 (5) um. No annulus.
+
+**Habitat**: Moss in sphagnum bogs and damp wet places.
+**Distribution**: Washington, Oregon, Michigan. Not known from Europe.
+**Potency**: Probably active, up to 0.80% baeocystin. Geographical
+range likely more extensive than literature indicates.
+
+---
+
+## The Genus Gymnopilus
+
+Gymnopilus species give rusty orange to yellow-orange spore prints, are
+medium to large, prefer wood, and typically have dry caps and
+well-developed veils. Ten species confirmed psilocybin-active per Allen
+and Gartz (1992): G. aeruginosus, G. braendlei, G. intermedius,
+G. luteoviridis, G. liquiritiae, G. luteus, G. purpuratus, G. spectabilis,
+G. validipes, and G. viridans.
+
+### Critical Safety Warning
+
+All readers should familiarize themselves with Galerina before
+ingesting Gymnopilus. Both produce rusty spores and can have rings.
+A mistake between the two could be deadly. Those not skilled at
+identification should avoid experimenting with Gymnopilus species.
+
+### Gymnopilus aeruginosus (Peck) Singer
+
+"Magic blue gym." Cap 2-23 cm, dull bluish gray green to variegated
+green and yellow, hygrophanous, tawny scales. Gills adnexed to adnate,
+cream buff to pale orangish. Stem 30-120 mm by 4-40 mm. Spores rusty
+brown to rusty orange, ellipsoid, 6-9 by 3.5-4.5 um.
+
+**Habitat**: Gregarious to cespitose on [[fungal-succession-woody-debris-ecology]], [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]],
+sawdust, stumps. May-September. **Distribution**: Much of the US,
+central to northern Europe, Japan. **Potency**: Moderately active.
+Bitter taste, slight oily farinaceous odor with hints of anise.
+
+### [[gymnopilus-purpuratus]] (Cooke and Mass.) Singer
+
+Cap 1-5 cm, reddish purplish brown with tinges of yellow and green.
+Gills sinuate, waxy yellow to brownish cinnamon yellow. Stem 20-40 mm
+by 2-4 mm, stout. Spores bright rusty orange, 6.5-8 by 4.5-5.2 um.
+
+**Habitat**: Rotting wood; in Europe, pig dung with wood chips. Also
+south Australia. **Potency**: Weakly to moderately active. 0.23-0.25%
+psilocybin, 0.21-0.33% psilocin, 0.03-0.05% baeocystin.
+
+### [[gymnopilus-earlei]]
+
+- [[hypholoma-pluteus-inocybe-conocybe-genera]]
+- [[allen-gymnopilus-and-other-psychoactive-genera]]
+
+## Merged: Minor Psilocybin Genera - Inocybe and Pluteus
+
+## The Genus Pluteus
+
+Pluteus features primarily wood-decomposing members with caps convex to
+plane, gills pink and free at maturity, and a ringless stem. Most
+species are small to midsized with pinkish to flesh-colored spore
+deposits. Only one active species is detailed by Stamets: Pluteus
+salicinus. Three others have shown activity: P. villosus, P. cyanopus,
+and P. glaucus (from Brazil, with up to 0.28% psilocybin and 0.12%
+psilocin).
+
+### stamets psylo minor genera conocybe gymnopilus
+- [[hypholoma-pluteus-inocybe-conocybe-genera]]
+## See Also
+
+- [[stamets-psylo-good-tips-great-trips]]
+- stamets psylo minor genera conocybe gymnopilus
+- [[hypholoma-pluteus-inocybe-conocybe-genera]]
+- [[guzman-allen-gartz-gymnopilus-pluteus-neurotropic-genera]]

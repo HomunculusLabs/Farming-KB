@@ -3,15 +3,10 @@ title: Mushroom Pests, Diseases, and Fumigation Protocols (Duggar)
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [[mushroom-cultivation, contamination, troubleshooting, pest-management]
+tags: [mushroom-cultivation, contamination, troubleshooting, pest-management]
 sources: [raw/papers/benjamin-duggar-mushroom-culture.md]
 ---
-
-# Mushroom Pests, Diseases, and Fumigation Protocols (Duggar)
-
-Updated: 2026-04-18
-
-Source: Benjamin Minge Duggar, *Mushroom Growing* (1915), Chapter X: [[cotter-mushroom-pests-diseases]].
+# Mushroom Pests, Diseases, and Fumigation Protocols (Duggar) Updated: 2026-04-18 Source: Benjamin Minge Duggar, *Mushroom Growing* (1915), Chapter X: [[mushroom-pests-and-diseases]].
 
 ## Insect Pests
 
@@ -19,15 +14,15 @@ Source: Benjamin Minge Duggar, *Mushroom Growing* (1915), Chapter X: [[cotter-mu
 
 **Species**: Several species, not readily distinguished except by specialists. Referenced in Circular 155, Bureau of Entomology, U.S. Department of Agriculture.
 
-**Life cycle**: Adults deposit eggs at the base of mushroom stems. Larvae (maggots) pass up the stem and ultimately riddle the cap.
+**[[bloomfield-fungal-life-cycle-spiral-versus-circle]]**: Adults deposit eggs at the base of mushroom stems. Larvae (maggots) pass up the stem and ultimately riddle the cap.
 
 **Conditions favoring outbreaks**:
-- Temperature decline after bed preparation (when flies multiply rapidly)
+- Temperature decline after [[azurescens-outdoor-bed-preparation-woodchips]] (when flies multiply rapidly)
 - Late summer spawning for early autumn production
 - Any period when temperature is high enough for rapid reproduction
 
 **Control**:
-- Flies are practically inactive below 55°F — proper [[mushroom-spawn]]. In large numbers, they may entirely prevent mushroom production or even spawn growth. Considered "one of the undoubted sources of failure when conditions are unfavorable."
+- Flies are practically inactive below 55°F — proper mushroom-spawn. In large numbers, they may entirely prevent mushroom production or even spawn growth. Considered "one of the undoubted sources of failure when conditions are unfavorable."
 
 **Conditions favoring outbreaks**:
 - Much time consumed in compost and bed preparation
@@ -37,9 +32,9 @@ Source: Benjamin Minge Duggar, *Mushroom Growing* (1915), Chapter X: [[cotter-mu
 **Control challenges**:
 - Duggar tried many fumigation methods without finding any practical means of eradication
 - Even hydrocyanic acid gas at four times normal strength killed only the majority — sufficient survivors remained
-- Steam sterilization of manure would kill all insects and fungi but does not simplify the overall problem (see [[mushroom-contaminant-identification-key]].
+- [[pf-tek-steam-sterilization-pot-method-common-pottery]] of manure would kill all insects and fungi but does not simplify the overall problem (see [[mushroom-contaminant-identification-key]].
 
-**History**: Known in France for several generations. Extensively studied by Costantin and Dufour (France) and Veihmeyer (United States).
+**History**: Known in France for several generations. Extensively studied by Costantin and Dufour (France) and Veihmeyer ([[dmt-containing-plants-united-states-halpern]]).
 
 **Types of symptoms**:
 1. **Deformed type** — mushrooms somewhat deformed but maintain general form. Cap, stipe, and gills may show enlargements or tubercles. Gills show flaky surface and reduced depth. May be coated with mold-like growth (not always visible in mild form). Grades into the second type through increasingly deformed specimens.
@@ -93,3 +88,5 @@ Source: Benjamin Minge Duggar, *Mushroom Growing* (1915), Chapter X: [[cotter-mu
 - Open all windows, ventilators, and doors from outside
 - Let house air and dry out
 - WARNING: Keep lighted lamps away — liquid formalin is non-explosive but the gas in confined state is explosive
+## See Also
+- [[sterilization]]

@@ -1,10 +1,11 @@
 ---
-title: "Cannabis Sativa vs Cannabis Indica"
+title: "comparison cannabis sativa vs cannabis indica vs Cannabis Indica"
 created: 2026-04-28
 tags: [comparison, cannabis, botany, taxonomy]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -23,12 +24,12 @@ primary lens through which cannabis is discussed, bred, and marketed.
 
 ## Cannabis Sativa
 [[query-sog-vs-scrog-cannabis-training-methods]] like scrog
-([[cannabis-indica]]
+(
 Cannabis indica Lam. is distinguished from C. sativa by its compact,
 bushy growth habit, typically reaching heights under 4 to 5 feet. Indica
 plants display broader, shorter leaflets with darker green coloration,
 shorter internodes, and denser flower clusters. The variety originated
-in the Hindu Kush mountain region spanning Afghanistan, Pakistan, and
+in the [[cannabis-hindu-kush-strain-description-clarke]] mountain region spanning Afghanistan, Pakistan, and
 northern India, where it evolved to survive harsh continental climates
 with short growing seasons and cold autumns.
 
@@ -38,13 +39,13 @@ THC compared to sativa varieties, though this ratio varies enormously
 across modern hybrids. The effects of indica-dominant varieties are
 traditionally described as physically sedating, relaxing, and
 appetite-stimulating, commonly referred to as a "body high." Indica
-terpene profiles frequently emphasize myrcene, linalool, and
+[[cannabis-terpene-profiles-sativa]] frequently emphasize myrcene, linalool, and
 caryophyllene, producing earthy, sweet, and spicy aromas.
 
 From a cultivation perspective, indica varieties are generally more
 manageable than sativas, especially for indoor growers with limited
 height. Their compact structure, rapid flowering, and generous yields
-per square foot make them the preferred choice for commercial production
+per [[comparison-biointensive-vs-square-foot-gardening]] make them the preferred choice for commercial production
 and beginner growers. Indica genetics have been heavily selected and
 hybridized over decades, contributing the majority of genetics [[williams-pdc-permaculture-ethics-and-principles-in-practice]], though it remains the
 foundational framework for understanding cannabis diversity.
@@ -64,7 +65,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +107,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

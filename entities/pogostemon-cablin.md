@@ -12,12 +12,12 @@ updated: 2026-05-08
 sources:
   - Hu, C.Y. et al. (2016). "Pogostemon cablin: A review of phytochemistry, bioactivities, and uses." Journal of Ethnopharmacology, 194, 844–853.
   - SWHA (2017). "Patchouli oil (Pogostemon cablin)." In WHO Monographs on Medicinal Plants, Vol. 5, WHO, Geneva.
-  - Lawrence, B.M. (2003). "Patchouli: The raw material, its production and quality." In Essential Oils, Allured Publishing, 211–238.
+  - Lawrence, B.M. (2003). "Patchouli: The raw material, its [[cannabis-resin-production-and-quality-traits-clarke]]." In Essential Oils, Allured Publishing, 211–238.
 ---
 
 ## Overview
 
-**Pogostemon cablin**, commonly known as patchouli, is a perennial aromatic herb in the family Lamiaceae. Native to tropical Southeast Asia, it is cultivated worldwide for its essential oil, which is one of the most important and widely used natural fragrance materials in perfumery.
+**Pogostemon cablin**, commonly known as patchouli, is a perennial aromatic herb in the family Lamiaceae. Native to tropical [[psilocybe-southeast-asia-pacific]], it is cultivated worldwide for its essential oil, which is one of the most important and widely used natural fragrance materials in perfumery.
 
 Patchouli oil possesses a distinctive, earthy, and camphoraceous aroma that serves as a base note in countless perfumes, cosmetics, and personal care products. The oil is also valued in traditional medicine systems across Asia for its antimicrobial, anti-inflammatory, and insect-repellent properties.
 
@@ -47,13 +47,13 @@ The root system is fibrous but relatively shallow. The plant reproduces readily 
 
 ## Essential Oil Chemistry
 
-Patchouli essential oil is obtained by steam distillation of dried leaves and stems. Yield ranges from 2–3% on a dry weight basis, with highest oil content in fully mature, dried leaves that have undergone a brief fermentation period.
+Patchouli essential oil is obtained by [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] of dried leaves and stems. Yield ranges from 2–3% on a dry weight basis, with highest oil content in fully mature, dried leaves that have undergone a brief fermentation period.
 
 The oil is a complex mixture of over 140 identified constituents. The principal components include patchoulol (25–35%), α-bulnesene (15–25%), α-guaiene (10–15%), and seychellene (5–10%). Patchoulol, a tricyclic sesquiterpene alcohol, is the single most important odor-active compound.
 
 The characteristic patchouli aroma develops and improves with aging of the distilled oil. Fresh oil can be harsh and sharp, while properly aged oil (6–12 months) develops the smooth, deep, earthy character prized by perfumers. This aging process involves slow oxidative transformations of sesquiterpene hydrocarbons.
 
-Oil quality varies significantly with geographic origin, harvest timing, and post-harvest processing. Indonesian patchouli oil (particularly from Sulawesi) is generally considered the finest grade, followed by oils from China, India, and Vietnam.
+Oil quality varies significantly with geographic origin, [[cannabis-harvest-timing-visual-cues]], and post-harvest processing. Indonesian patchouli oil (particularly from Sulawesi) is generally considered the finest grade, followed by oils from China, India, and Vietnam.
 
 ## Cultivation and Harvest
 
@@ -71,7 +71,7 @@ Post-harvest handling significantly affects oil quality. Leaves are typically wi
 
 Patchouli oil is one of the most widely used essential oils in the fragrance industry. It serves as a base note and fixative in perfumes, soaps, detergents, cosmetics, and air fresheners. Its excellent fixative properties help stabilize more volatile top and middle notes in perfume compositions.
 
-In traditional medicine, patchouli preparations have been used to treat colds, headaches, fever, nausea, and digestive complaints across Chinese, Indian, and Malay healing traditions. The oil is applied topically for skin conditions including acne, eczema, and fungal infections.
+In traditional medicine, patchouli preparations have been used to treat colds, headaches, fever, nausea, and digestive complaints across Chinese, Indian, and Malay healing traditions. The oil is applied topically for skin conditions including acne, eczema, and [[blesching-cannabis-fungal-infections-candida]].
 
 Patchouli oil demonstrates broad-spectrum antimicrobial activity against Gram-positive bacteria, Gram-negative bacteria, and fungi in vitro. It has shown insect-repellent and insecticidal properties against mosquitoes, flies, and stored-product pests, supporting its traditional use as a moth repellent.
 
@@ -89,7 +89,7 @@ Patchouli oil and its major constituents exhibit diverse pharmacological activit
 
 α-Bulnesene and α-guaiene show cytotoxic activity against several human cancer cell lines in vitro, including breast, lung, and colon cancer cells. These sesquiterpenes induce apoptosis through mitochondrial-dependent pathways.
 
-The oil demonstrates significant antifungal activity against *Candida albicans*, *Aspergillus niger*, and dermatophyte species. Topical application of diluted patchouli oil has shown efficacy in animal models of contact dermatitis and skin inflammation.
+The oil demonstrates significant antifungal activity against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*, *Aspergillus niger*, and dermatophyte species. Topical application of diluted patchouli oil has shown efficacy in animal models of contact dermatitis and skin inflammation.
 
 In traditional Chinese medicine, patchouli (known as guang huo xiang) is classified as acrid, warm, and aromatic. It is used to resolve dampness, harmonize the middle jiao, and relieve summer-heat and dampness syndromes.
 

@@ -22,7 +22,7 @@ sources:
 
 # Cannabis Health Therapeutics
 
-Medical cannabis applications organized by condition, with cannabinoid/terpene profiles, delivery methods, evidence levels, and dosing considerations. Based on Blesching's Cannabis Health Index.
+Medical cannabis applications organized by condition, with cannabinoid/[[cannabis-terpene-profiles-sativa]], [[cannabis-delivery-methods-comparison]], evidence levels, and dosing considerations. Based on Blesching's [[blesching-cannabis-health-index-autoimmune-conditions]].
 
 Related: [[cannabis-plant-nutrition]], [[herbal-medicine]], [[cannabis-genetics-and-breeding]]
 
@@ -36,9 +36,9 @@ The endocannabinoid system (ECS) is a lipid-signaling system present in all vert
 - **Endogenous ligands**: Anandamide (AEA) -- binds primarily CB1, "bliss molecule," short half-life. 2-AG (2-arachidonoylglycerol) -- binds both CB1 and CB2, most abundant endocannabinoid.
 - **Enzymes**: FAAH (degrades AEA), MAGL (degrades 2-AG). Inhibiting these enzymes increases endocannabinoid tone -- target for pharmaceutical development.
 
-**ECS regulates**: Pain perception, inflammation, immune function, mood/stress response, appetite and digestion, sleep-wake cycles, memory and learning, reproductive function, neuroprotection, bone growth, cardiovascular function.
+**ECS regulates**: Pain perception, inflammation, immune function, mood/[[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]], appetite and digestion, sleep-wake cycles, [[plant-memory-and-learning-mechanisms]], reproductive function, neuroprotection, bone growth, cardiovascular function.
 
-**Entourage effect**: THC and CBD work synergistically with terpenes and minor cannabinoids. Full-spectrum preparations often outperform isolated compounds at equivalent doses. This is why strain selection and whole-plant preparations matter clinically.
+**[[cannabis-terpene-entourage-effect-profiles]]**: THC and CBD work synergistically with terpenes and minor cannabinoids. Full-spectrum preparations often outperform isolated compounds at equivalent doses. This is why strain selection and whole-plant preparations matter clinically.
 
 ## Cannabinoid Profiles
 
@@ -131,7 +131,6 @@ When selecting strains for specific therapeutic goals, consider the full cannabi
 - [[cannabis-genetics-and-breeding]] -- Selecting for therapeutic profiles
 - [[herbal-medicine]] -- Integration with other botanical medicines
 - [[cannabis-extraction-basics]] -- Making therapeutic preparations
-
 
 See also: [[uwe-blesching]] — evidence-based cannabis therapeutics research.
 

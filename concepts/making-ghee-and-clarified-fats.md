@@ -1,5 +1,5 @@
 ---
-title: Making Ghee and Clarified Fats
+title: Making making ghee and [[faires-salt-curing-and-clarified-fats]] Fats
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -12,11 +12,11 @@ sources:
 
 Updated: 2026-04-18
 
-Ghee (clarified butter) is butter that has been rendered to remove milk solids and water, leaving pure butterfat. Ghee has a much longer shelf life than fresh butter -- months at room temperature -- and a higher smoke point, making it superior for cooking. It is a traditional food preservation method in South Asian and Middle Eastern cuisines and an essential skill for [[lacto-fermentation-and-food-preservation-methods]]
+Ghee (clarified butter) is butter that has been rendered to remove milk solids and water, leaving pure butterfat. Ghee has a much longer [[psilocybin-shelf-life-stability]] than fresh butter -- months at room temperature -- and a higher smoke point, making it superior for cooking. It is a traditional food preservation method in South Asian and Middle Eastern cuisines and an essential skill for [[lacto-fermentation-and-food-preservation-methods]]
 - [[solar-and-electric-food-drying-methods]]
 - [[kitchen-composting-and-vermicomposting]]
 
-- [[faires-low-energy-cooking-and-food-preservation]]
+- faires-low-energy-cooking-and-food-preservation
 ## Background and Context
 
 Making Ghee and Clarified Fats is an important subject that has garnered significant attention
@@ -67,7 +67,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -145,4 +145,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

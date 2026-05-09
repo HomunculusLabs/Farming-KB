@@ -1,5 +1,5 @@
 ---
-title: "2C-T-9 -- 2,5-DIMETHOXY-4-(t)-BUTYLTHIOPHENETHYLAMINE -- PIHKAL Entry #45"
+title: "2C-T-9 -- 2,5-DIMETHOXY-4-(t)-BUTYLTHIOPHENETHYLAMINE -- 2c-b-pihkal-entry-20 #45"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -52,7 +52,7 @@ at 0.13 mm/Hg and which could be recrystallized from a 4:1 mixture of cyclohexan
 
 To a well-stirred ice-cold suspension of 2.8 g p-dimethoxybenzene and 3.2 mL N,N,N',N'-tetramethylethylenediamine in 100 mL petroleum ether under an inert atmosphere of He, there was added 13 mL of a 1.6 N solution of butyllithium in hexane. The suspended dimethoxybenzene became opaque and there was a pale yellow color generated. The reaction mixture was warmed to room temperature which converted it to light white solids. After an additional 0.5 h stirring, there was added, slowly, 3.6 g of di-(t)-butyldisulfide. The yellow color deepened, the solids dissolved and, after 1 h, the color was a clear deep brown. This solution was poured into 100 mL dilute HCl and the organic phase was separated. The aqueous fraction was extracted with 3x75 mL CH2Cl2. The combined organic phases were washed with dilute aqueous NaOH, with H2O, and then stripped of solvents under vacuum. The residue was distilled at 95-105 deg C at 0.5 mm/Hg to provide 3.7 g of 2,5-dimethoxyphenyl (t)-butyl sulfide as a white, mobile liquid. Anal. (C12H18O2S) C,H. A solid derivative was found in the nitration product, 2,5-dimethoxy-4-(t)-butylthio-1-nitrobenzene, which came from the addition of 0.11 mL of concentrated HNO3 to a solution of 0.23 g of the above sulfide in 5 mL ice cold acetic acid. Dilution with H2O provided yellow solids which, on recrystallization from MeOH, had a mp of 92-93 deg C. Anal. (C12H17NO4S) C,H. Attempts to make either the picrate salt or the sulfonamide derivative were not satisfactory.
 
-A mixture of 72 g POCl3 and 67 g N-methylform [[shulgin-safety-principles-self-experimentation]] osage data and safety profiles are based on limited shulgin safety principles. Exercise
+A mixture of 72 g POCl3 and 67 g N-methylform [[shulgin-safety-principles-self-experimentation]] osage data and safety profiles are based on limited shulgin [[shulgin-safety-principles-self-experimentation]]. Exercise
 extreme caution. This compound is not approved for human consumption.
 
 ## See Also
@@ -64,7 +64,7 @@ extreme caution. This compound is not approved for human consumption.
 - Related compounds in the 2C-T series
 ## Practical Considerations
 
-Successful implementation of 2C-T-9 -- 2,5-DIMETHOXY-4-(t)-BUTYLTHIOPHENETHYLAMINE -- PIHKAL Entry #45 requires attention to
+Successful implementation of 2C-T-9 -- 2,5-DIMETHOXY-4-(t)-BUTYLTHIOPHENETHYLAMINE -- [[2c-b-pihkal-entry-20]] #45 requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

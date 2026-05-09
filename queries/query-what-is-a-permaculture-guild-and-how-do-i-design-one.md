@@ -1,10 +1,11 @@
 ---
-title: "What Is a Permaculture Guild and How Do I Design One"
+title: "What Is a query what is a permaculture guild and how do i design one and How Do I Design One"
 created: 2026-04-28
 tags: [query, permaculture, guild-design, companion-planting, food-forest]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -13,7 +14,7 @@ type: query
 ## Short Answer
 A permaculture guild is a group of plants, animals, and fungi intentionally
 placed together so that each member supports the others through nutrient
-cycling, pest control, pollination, and microclimate creation. Guilds mimic
+cycling, [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], pollination, and [[mollison-designers-microclimate-creation-frost-protection]]. Guilds mimic
 natural plant communities and are the building blocks of productive food forests
 and sustainable gardens, reducing maintenance while increasing yields.
 
@@ -25,7 +26,7 @@ species that exploit the same resources in similar ways. In permaculture, as
 described in [[apple-centered-guild-design]], the apple tree is the
 anchor, and every other plant is chosen because it performs one or more
 functions that benefit the apple tree. The five primary functions that guild
-members provide are: nitrogen fixation, nutrient accumulation, pest deterrence,
+members provide are: [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], nutrient accumulation, [[foliar-pest-deterrence-aact-mechanisms]],
 pollinator attraction, and ground cover or mulch production. When all five
 functions are filled, the central plant thrives with minimal outside inputs.
 
@@ -46,7 +47,7 @@ plants like dill, fennel, and yarrow attract predatory insects such as
 ladybugs, lacewings, and parasitic wasps that keep pest populations in check.
 The [[backyard-food-forest-design]], different guilds are arranged so their ground
 covers merge into continuous living mulch layers across the entire food forest
-floor. Ground covers also provide habitat for ground beetles and other
+floor. [[permaculture-plants-food-forest-ground-covers-bamboos]] also provide habitat for ground beetles and other
 beneficial predatory insects that hunt pests at night.
 
 ### Design Process
@@ -87,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

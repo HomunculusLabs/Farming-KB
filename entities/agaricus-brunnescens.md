@@ -71,17 +71,17 @@ an important ecological role in decomposing organic material in grassland ecosys
 
 Wild specimens often appear in rings or arcs (fairy rings) as the mycelium expands
 outward from a central point over successive fruiting seasons. This growth pattern
-reflects the underground mycelial network's radial expansion through the soil substrate.
+reflects the underground [[gadd-mycelial-network-dynamics]]'s radial expansion through the soil substrate.
 
 ## Cultivation
 
 agaricus brunnescens is grown on composted substrates, traditionally based on horse
 manure but increasingly using synthetic composts formulated from straw, hay, poultry
-manure, gypsum, and various organic amendments. The composting process itself is carefully
+manure, gypsum, and various [[cervantes-organic-amendments-chart]]. The composting process itself is carefully
 managed over 7 to 21 days to create the specific chemical and biological conditions
 required by the species.
 
-The cultivation process involves several distinct phases: substrate preparation and
+The cultivation process involves several distinct phases: [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] and
 composting, pasteurization to eliminate competitors, spawn running, casing layer
 application, and carefully managed fruiting conditions. The casing layer, typically a
 mixture of peat moss and limestone, is essential for triggering fruitbody formation.
@@ -102,13 +102,13 @@ open cap).
 | Phase | Temperature | Humidity | Duration | Notes |
 |---|---|---|---|---|
 | Spawn Run | 75-80°F (24-27°C) | 90-95% RH | 14-21 days | Composted substrate |
-| Primordia Formation | 55-60°F (13-16°C) | 90-95% RH | 5-8 days | Casing layer required |
+| [[growing-gourmet-primordia-formation-pinning]] | 55-60°F (13-16°C) | 90-95% RH | 5-8 days | Casing layer required |
 | Fruitbody Development | 55-60°F (13-16°C) | 85-90% RH | 5-7 days | Harvest at button stage |
 
 ## Medicinal Properties
 
 While agaricus brunnescens is primarily valued as a food crop, research has
-identified several bioactive compounds in the species. It contains beta-glucans,
+identified several [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] in the species. It contains beta-glucans,
 ergothioneine, and various antioxidants that may contribute to general health benefits
 including immune system support and anti-inflammatory effects.
 
@@ -132,5 +132,5 @@ be cleaned gently and stored refrigerated for optimal freshness and shelf life.
 
 ## References
 
-1. Stamets, P. *Growing Gourmet and Medicinal Mushrooms*. 3rd edition.
+1. Stamets, P. *Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]*. 3rd edition.
 2. Source document: unknown-growing-gourmet-and-medicinal-mushrooms-s.md

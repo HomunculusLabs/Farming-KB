@@ -1,5 +1,5 @@
 ---
-title: "TOMSO (2-METHOXY-4-METHYL-5-METHYLSULFINYLAMPHETAMINE) -- PIHKAL Entry #173"
+title: "TOMSO (2-METHOXY-4-METHYL-5-METHYLSULFINYLAMPHETAMINE) -- 2c-b-pihkal-entry-20 #173"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -27,7 +27,7 @@ PIHKAL entry #173. 2-METHOXY-4-METHYL-5-METHYLSULFINYLAMPHETAMINE.
 > it was at the so-called surprise pot-luck birthday lunch for the
 > department chairman that I ate a little and had two glasses of
 > Zinfandel. I shot up to an immediate ++ and this lasted all
-> afternoon. I went to San Francisco by BART, and walked up Market
+> afternoon. I went to [[shipibo-san-francisco-ceremonial-center-ucayali]] by BART, and walked up Market
 > Street and saw all the completely bizarre faces. I was absolutely
 > unable to estimate the age of anybody who was female, at least by
 > looking at her face. All aspects, both child-like and old, seemed to
@@ -64,11 +64,11 @@ to me, so I made up a goodly supply of 4-tert-butyl thioanisole, which
 proved to be a gorgeous white crystalline solid. It seemed quite
 logical that this would be metabolized at the sulfur atom to produce
 either or both the sulfoxide and the sulfone. So I treated a methanol
-solution of this with a little hydrogen peroxide and distilled the
+solution of this with a little [[cervantes-hydrogen-peroxide-sterilization]] and distilled the
 neutral extracts at 100-115 deg C at 0.2 mm/Hg to give the sulfoxide as a
 solid that melted at 76-77 deg C from hexane: Anal. (C11H16OS) C,H. On
 the other hand, if a solution of the thioanisole in acetic acid
-containing hydrogen peroxide was heated on the steam bath for a few
+containing hydrogen peroxide was heated on the [[scythian-cannabis-steam-bath-ritual]] for a few
 hours and then worked up, a new solid was isolated that proved to be
 the sulfone (a negative Fries-Vogt test). This was obtained as white
 crystals with a mp of 94-95 deg C from aqueous methanol. Anal.
@@ -142,6 +142,8 @@ removed under vacuum, and the residue suspended in 250 mL H2O. This
 was extracted with 3x50 mL CH2Cl2, the extracts pooled, and the
 solvent removed under vacuum. The residue, 8.6 g of an oily solid,
 ## See Also
+
+- [[pihkal-mbdb]]
 - [[methyl-dob-entity-pihkal]]
 - [[methyl-k-entity-pihkal]]
 - [[methyl-ma-entity-pihkal]]

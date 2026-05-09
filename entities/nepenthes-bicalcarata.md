@@ -69,9 +69,9 @@ Ant workers also patrol the exterior surface of developing pitchers, removing fu
 
 The digestive fluid contains proteases including nepenthesin, chitinases, and esterases typical of Nepenthaceae. Enzyme concentrations are lower than in related species, possibly because ants assist with prey breakdown and fluid hygiene.
 
-An inquiline community thrives within the pitchers, including mosquito larvae of the genus *Tripteroides*, sarcophagid fly larvae, and various protozoans. The ants moderate this community, preventing overpopulation of certain inquilines.
+An inquiline community thrives within the pitchers, including mosquito larvae of the genus *Tripteroides*, sarcophagid [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]], and various protozoans. The ants moderate this community, preventing overpopulation of certain inquilines.
 
-Stable isotope studies indicate the plant derives approximately 50-70 percent of its foliar nitrogen from captured prey. Compared to non-myrmecophytic congeners, *N. bicalcarata* allocates more biomass to domatium construction and nectar production, offset by increased pitcher longevity from ant services.
+[[fungal-stable-isotope-ecology]] studies indicate the plant derives approximately 50-70 percent of its foliar nitrogen from captured prey. Compared to non-myrmecophytic congeners, *N. bicalcarata* allocates more biomass to domatium construction and nectar production, offset by increased pitcher longevity from ant services.
 
 ### Fanged Peristome Function
 
@@ -91,7 +91,7 @@ Ex situ conservation through botanical garden collections provides a safeguard, 
 
 The pitcher fluid of *N. bicalcarata* hosts a diverse inquiline community. Mosquito larvae of the genus *Tripteroides* develop within the fluid, along with sarcophagid fly larvae and various protozoans.
 
-These inquilines benefit from the nutrient-rich environment but compete with the plant for prey-derived nutrients. The resident ant colony moderates inquiline populations by removing excess organic matter and debris from the fluid.
+These inquilines benefit from the nutrient-rich environment but compete with the plant for prey-derived nutrients. The resident ant colony moderates inquiline populations by removing excess [[hamilton-composting-and-organic-matter-management]] and debris from the fluid.
 
 ### Prey Spectrum Dynamics
 
@@ -103,7 +103,7 @@ Compared to non-myrmecophytic *Nepenthes* species, *N. bicalcarata* produces few
 
 - [[nepenthes-ampullaria]]
 - [[nepenthes-mirabilis]]
-- [[darlingtonia-californica]]
+- darlingtonia californica
 - [[cephalotus-follicularis]]
 - [[utricularia-vulgaris]]
 - [[drosera-capensis]]

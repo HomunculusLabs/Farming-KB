@@ -28,11 +28,11 @@ Both species inhabit the driest and stoniest of desert regions, usually on calca
 
 The Indians cut off the crown and dry it for ingestion as a hallucinogen. This dry, disklike head is known as the Mescal Button or Peyote Button. The buttons are typically chewed or soaked in water to produce a bitter-tasting liquid that is consumed during all-night ceremonial sessions. Among the Huichol, the annual pilgrimage to collect Peyote in Wirikuta — their original paradisiacal home of the ancestors — is considered a holy journey of profound spiritual significance.
 
-Traditional preparation methods include drying fresh crowns in the sun or over low heat, grinding dried buttons into powder for capsules, or steeping buttons in water to produce a bitter infusion. The taste is intensely bitter and nauseating, which is partly why many ceremonies incorporate rituals around the difficult consumption process. For more on cactus alkaloid preparation, see [[cactus-alkaloids-reference]] provides a comprehensive listing of known cactus alkaloids and their properties. Mescaline belongs to the [[false-peyotes-mexican-cactus-ethnobotany]] for detailed coverage of these species.
+[[kava-traditional-preparation-ceremonial-context]] methods include drying fresh crowns in the sun or over low heat, grinding dried buttons into powder for capsules, or steeping buttons in water to produce a bitter infusion. The taste is intensely bitter and nauseating, which is partly why many ceremonies incorporate rituals around the difficult consumption process. For more on cactus alkaloid preparation, see [[cactus-alkaloids-reference]] provides a comprehensive listing of known cactus alkaloids and their properties. Mescaline belongs to the [[false-peyotes-mexican-cactus-ethnobotany]] for detailed coverage of these species.
 
 The chemical profiles of false peyotes vary widely. Some contain mescaline in small quantities, while others produce entirely different alkaloid profiles. Lophophora diffusa, the closest relative of true Peyote, contains primarily pellotine (a tetrahydroisoquinoline alkaloid with sedative properties) rather than mescaline, which may explain its different subjective effects. The diversity of psychoactive cactus species in Mexico reflects the long history of experimentation with cactus alkaloids by indigenous peoples, who developed sophisticated ethnopharmacological knowledge through centuries of careful observation and use. The [[mescaline-compound-profile]] provides a complete pharmacological overview.
 
-The typical ceremonial dose of mescaline is 200-500 mg, equivalent to approximately 5-15 dried Peyote buttons depending on alkaloid content. The onset of effects occurs within 30-90 minutes of ingestion, with peak effects at 2-4 hours and a total duration of 8-12 hours. Mescaline's relatively long duration compared to psilocybin (4-6 hours) contributes to the all-night ceremonial format characteristic of both Huichol and Native American Church practices. The [[cactus-cultivation-seed-cutting]] page provides cultivation guidelines for Peyote and related species. Several organizations in the United States and Mexico now cultivate Peyote specifically for Native American Church use, reducing pressure on wild populations.
+The typical ceremonial dose of mescaline is 200-500 mg, equivalent to approximately 5-15 dried Peyote buttons depending on alkaloid content. The onset of effects occurs within 30-90 minutes of ingestion, with peak effects at 2-4 hours and a total duration of 8-12 hours. Mescaline's relatively long duration compared to psilocybin (4-6 hours) contributes to the all-night ceremonial format characteristic of both Huichol and [[halpern-sacramental-peyote-and-native-american-church]] Church practices. The [[cactus-cultivation-seed-cutting]] page provides cultivation guidelines for Peyote and related species. Several organizations in the [[dmt-containing-plants-united-states-halpern]] and Mexico now cultivate Peyote specifically for Native American Church use, reducing pressure on wild populations.
 
 ## Ethnobotanical Context: Peyote Among the Cora and Tarahumara
 
@@ -45,7 +45,7 @@ The Wixárika (Huichol) Peyote pilgrimage to Wirikuta is among the most complex 
 - [[psychoactive-cacti-of-central-mexico]] — Survey of psychoactive cactus species
 - [[mescaline-biosynthesis-and-precursor-enhancement]] — Cactus alkaloid biosynthesis
 - [[mescaline-peyote-san-pedro-cactus]] — Andean mescaline-containing cactus
-- [[plants-gods-ololiuqui]] — Morning glory seeds in Aztec culture
+- [[plants-gods-ololiuqui]] — [[golden-guide-morning-glory-and-ololiuqui]] seeds in Aztec culture
 - [[plants-gods-ayahuasca]]
 ## Practical Considerations
 
@@ -63,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +105,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

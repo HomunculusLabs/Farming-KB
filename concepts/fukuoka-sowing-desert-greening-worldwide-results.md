@@ -1,5 +1,5 @@
 ---
-title: "Desert Greening Projects — Worldwide Results (Fukuoka)"
+title: "fukuoka-desert-greening-plant-irrigation Projects — Worldwide Results (Fukuoka)"
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Masanobu Fukuoka, Sowing Seeds in the Desert (Chelsea Green, 2012)"
@@ -10,8 +10,8 @@ tags: [fukuoka]
 
 # Desert Greening Projects — Worldwide Results
 
-*Documented results of Masanobu Fukuoka's desert revegetation efforts across
-Africa, India, the United States, Europe, and Asia, as described in "Sowing
+*Documented results of Masanobu Fukuoka's [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] efforts across
+Africa, India, the [[dmt-containing-plants-united-states-halpern]], Europe, and Asia, as described in "Sowing
 Seeds in the Desert."*
 
 ## California, United States
@@ -74,11 +74,11 @@ Fukuoka to pursue his dream of regreening India's deserts.
 
 **Bengal mangrove success:** At the mouth of the Ganges River, seedlings of
 twenty to thirty varieties of mangroves had sprouted on a sandbar from [[fukuoka-one-straw-revolution-impact]], did
-practical research for almost ten years, then set up her natural farm in four
+practical research for almost ten years, then set up her [[fukuoka-creating-natural-farm-site-selection-establishment]] in four
 years mainly by scattering seeds and planting trees. Despite the Philippines'
 poor soil and reckless desertification|deforestation, she created a true paradise with banana,
-papaya, guava, durian, coffee trees, and a thick ground cover of perennials and
-green manure. Orchids bloomed everywhere, birds flew about, and fish swam in the
+papaya, guava, durian, coffee trees, and a thick [[fukuoka-citrus-orchard-ground-cover-cultivation]] of perennials and
+[[comparison-green-manure-guide-vs-mulch-types-and-effects]]. Orchids bloomed everywhere, birds flew about, and fish swam in the
 ponds. Fukuoka identified the secret element as "the harmony that existed
 between Ms. Aveliw and nature."
 

@@ -1,5 +1,5 @@
 ---
-title: "Hallucinogenic Mushroom Online Retail Markets"
+title: "emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative Online Retail Markets"
 created: 2026-04-28
 tags: [psilocybin, mushrooms, online-markets, legislation, smartshop]
 date: 2026-04-25
@@ -10,13 +10,13 @@ type: concept
 
 # Hallucinogenic Mushroom Online Retail Markets
 
-The retail market for hallucinogenic mushrooms has undergone dramatic
+The retail market for [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] has undergone dramatic
 transformation since the late 1990s, evolving from a niche foraging
 activity into a commercial industry served by smartshops, market
 stalls, and online retailers across Europe and beyond. As documented
 in the EMCDDA's 2006 thematic paper on hallucinogenic mushrooms as
 an emerging trend, the internet has played a pivotal role in
-democratizing access to both mushroom products and cultivation
+democratizing access to both [[cotter-mushroom-products-and-value-added-applications]] and cultivation
 supplies, creating a borderless market that challenges national
 regulatory frameworks.
 
@@ -24,7 +24,7 @@ regulatory frameworks.
 
 The commercial market for hallucinogenic mushrooms emerged most
 prominently in the Netherlands, where smartshops specialized in
-psychoactive herbal substances began marketing mushrooms alongside
+psychoactive herbal substances began marketing [[query-how-can-i-grow-mushrooms-alongside-garden-vegetables]]
 other 'natural' products in the late 1990s. Smartshops are retail
 outlets found primarily in the Netherlands that specialize in
 psychoactive herbal substances legal under Dutch law, in addition to
@@ -65,16 +65,16 @@ European market.
 
 Online shops sell a wide variety of hallucinogenic mushroom products:
 
-- Fresh mushrooms: Psilocybe cubensis (Mexican) sold at 8.5-45.28
+- Fresh mushrooms: [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] (Mexican) sold at 8.5-45.28
   euros per 30 grams
 - Fresh mushrooms: Copelandia cyanescens at 13-17.5 euros per 10g
-- Truffles/sclerotia: Psilocybe mexicana (Philosopher's stones) at
+- Truffles/sclerotia: [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] (Philosopher's stones) at
   10-17.5 euros per 15g
 - Spawn bags: [[smartshop-and-online-mushroom-markets]]
 
-- [[oyster-mushroom-viral-diseases]]
+- oyster-mushroom-viral-diseases
 
-- [[eu-hallucinogenic-mushroom-legislation-timeline]]
+- eu-hallucinogenic-mushroom-legislation-timeline
 ## Practical Considerations
 
 Successful implementation of Hallucinogenic Mushroom Online Retail Markets requires attention to
@@ -93,4 +93,9 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[emcdda-hallucinogenic-mushroom-online-retail-shops]]
+- [[psilocybe-mexicana]]
+- [[copelandia-cyanescens]]
+- [[psilocybe-cubensis]]
+- [[emcdda-hallucinogenic-mushroom-markets]]

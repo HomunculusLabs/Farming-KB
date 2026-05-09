@@ -1,5 +1,5 @@
 ---
-title: Garden Myths About Weeds and Pest Management
+title: Garden Myths About Weeds and cannabis-pest-management-guide
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -25,11 +25,11 @@ Household vinegar (acetic acid) is frequently promoted as a natural, non-toxic a
   - It does not translocate to roots, so perennial weeds resprout
   - It can etch concrete and damage hardscape surfaces
 - **The "safe" label is misleading**: Concentrated acetic acid is a hazardous chemical that requires protective equipment for safe handling. Calling it "natural" or "safe" because it is derived from fermentation is like saying ethanol is safe because it comes from grain
-- **Comparison with synthetic herbicides**: For perennial weed control, horticultural vinegar is less effective than glyphosate (which translocates to roots) and more hazardous to handle
+- **Comparison with synthetic herbicides**: For perennial [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]], horticultural vinegar is less effective than glyphosate (which translocates to roots) and more hazardous to handle
 
 ### The Balanced View
 
-Vinegar has limited usefulness for killing very small annual weed seedlings in cracks and crevices where pulling is impractical. For meaningful weed management, other methods (mulching, hand pulling, targeted herbicide application, competitive planting) are more effective and often safer.
+Vinegar has limited usefulness for killing very small annual weed seedlings in cracks and crevices where pulling is impractical. For meaningful [[fukuoka-weed-management-and-green-manure]], other methods (mulching, hand pulling, targeted herbicide application, competitive planting) are more effective and often safer.
 
 ### See Also
 
@@ -67,11 +67,11 @@ The idea that certain plant combinations repel pests through aromatic or chemica
 - **Marigolds and nematodes**: Some marigold varieties (particularly French marigolds, Tagetes patula) produce compounds that are toxic to root-knot nematodes in laboratory conditions. However, field effectiveness is inconsistent and requires specific varieties, planting densities, and timing that most gardeners do not achieve
 - **Basil and tomato pests**: No reliable research supports the claim that basil repels tomato hornworms or other tomato pests. Basil may attract pollinators and has culinary value when interplanted with tomatoes, but pest repellency is not well-supported
 - **Garlic and roses**: The claim that garlic repels aphids from roses has not been substantiated in controlled studies
-- **What DOES work**: Planting a diversity of flowering plants to support a diverse community of beneficial insects (predatory wasps, ladybugs, lacewings, hover flies) is supported by research. This is not "repelling" pests but rather building a biological control community. The key is plant diversity and continuous bloom, not specific plant pairings
+- **What DOES work**: Planting a diversity of flowering plants to support a diverse community of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] (predatory wasps, ladybugs, lacewings, hover flies) is supported by research. This is not "repelling" pests but rather building a [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] community. The key is plant diversity and continuous bloom, not specific plant pairings
 
 ### The Balanced View
 
-Companion planting for pest control is largely unsupported by evidence as commonly practiced. However, interplanting diverse species, including flowering plants that support beneficial insects, is a sound ecological approach to pest management. The mechanism is supporting predators, not repelling pests through aromatic interference.
+Companion planting for [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] is largely unsupported by evidence as commonly practiced. However, interplanting diverse species, including flowering plants that support beneficial insects, is a sound ecological approach to pest management. The mechanism is supporting predators, not repelling pests through aromatic interference.
 
 ### See Also
 

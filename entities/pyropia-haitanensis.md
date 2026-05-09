@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Xie C. T. & C. Y. Wang (2013). "Pyropia haitanensis: A species with economic importance." Journal of Applied Phycology.
-  - Yan X. H. et al. (2005). "Molecular identification and genetic analysis of Porphyra haitanensis (Bangiales, Rhodophyta) from China." Journal of Applied Phycology.
+  - Yan X. H. et al. (2005). "[[biodiversity-fungal-molecular-identification-dna-barcoding]] and genetic analysis of Porphyra haitanensis (Bangiales, Rhodophyta) from China." Journal of Applied Phycology.
   - Sutherland J. E. et al. (2011). "A new look at an ancient order: generic revision of the Bangiales." Journal of Phycology.
   - "Pyropia haitanensis." AlgaeBase. https://www.algaebase.org/
 ---
@@ -34,7 +34,7 @@ The blade is tough and elastic when fresh, with a dark reddish-brown to purplish
 
 Margins are generally smooth, though irregular ruffling occurs in high-flow environments. The holdfast region is small and discoid, attaching firmly to the cultivation net.
 
-The species reproduces through a biphasic life cycle typical of Bangiales. Conchospores are released from shell-boring conchocelis during autumn, initiating the blade phase that is harvested through winter and early spring.
+The species reproduces through a biphasic life cycle typical of Bangiales. Conchospores are released from shell-boring conchocelis during autumn, initiating the blade phase that is harvested through winter and [[coleman-overwintered-onions-and-early-spring-crops]].
 
 ## Distribution and Habitat
 
@@ -66,7 +66,7 @@ The cultivation cycle begins in summer with conchocelis seeding in shell fragmen
 
 Harvest begins approximately 40–50 days after net deployment and continues through spring. Multiple harvests per season yield 30–60 kg dried product per 100 square meters of cultivation net.
 
-Strain improvement through selective breeding has produced cultivars with enhanced growth rates, disease resistance, and higher protein content. Cross-breeding between wild and cultivated strains is an active area of research.
+[[mushroom-strain-improvement-and-breeding-methods]] through selective breeding has produced cultivars with enhanced growth rates, disease resistance, and higher protein content. Cross-breeding between wild and cultivated strains is an active area of research.
 
 ## Economic Significance
 
@@ -74,7 +74,7 @@ China is the world's largest nori producer, and P. haitanensis is the dominant s
 
 The species supports thousands of coastal farming households in Fujian and Zhejiang provinces. Cultivation provides employment in net manufacturing, harvesting, processing, and distribution.
 
-Export markets are expanding, with Chinese nori increasingly competing with Japanese product in Southeast Asia, North America, and Europe. Lower production costs give Chinese P. haitanensis a price advantage in bulk markets.
+Export markets are expanding, with Chinese nori increasingly competing with Japanese product in [[psilocybe-southeast-asia-pacific]], [[psilocybin-north-america-pacific-northwest]], and Europe. Lower [[fukuoka-textdoc-production-costs-not-coming-down]] give Chinese P. haitanensis a price advantage in bulk markets.
 
 Research into P. haitanensis genomics and molecular breeding is supported by both government and industry funding. The species is considered a strategic aquaculture resource in China's marine development plans.
 

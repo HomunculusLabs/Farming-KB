@@ -38,18 +38,18 @@ chemotherapy.
   prescribed for patients who have not responded adequately to
   conventional anti-emetic therapies
 - **Off-label uses:** Investigated and used for various conditions
-  including chronic pain, fibromyalgia, multiple sclerosis spasticity,
+  including [[cannabis-chronic-pain-management]], fibromyalgia, multiple sclerosis spasticity,
   and PTSD
 
 ### Clinical Evidence
 - **Cancer-related pain and symptoms (William Osler Health Center,
   Toronto, 2006):** 82 cancer patients received nabilone for 53 days.
-  Patients showed improvement in pain management and other cancer-
+  Patients showed improvement in [[cannabis-pain-management-protocols]] and other cancer-
   related symptoms during the treatment period.
 - **Hepatitis C treatment (referenced in [[dronabinol]]
 - [[cannabidiol-cbd]]
 - rimonabant
-- [[endocannabinoid-system]] (ECS)
+- [[cannabis-health-endo-cannabinoid-system]] (ECS)
 ## Practical Considerations
 
 When working with Nabilone, several practical factors should be
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

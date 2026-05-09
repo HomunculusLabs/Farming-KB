@@ -1,11 +1,12 @@
 ---
-title: Fukuoka: Limits of the Scientific Method in Agriculture
+title: Fukuoka: Limits of the fukuoka limits scientific method agriculture in Agriculture
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
 tags: [fukuoka, natural-farming]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - raw/papers/masanobu-fukuoka-the-one-straw-revolution.md
 ---
 
@@ -19,7 +20,7 @@ This opening statement sets the tone for one of Fukuoka's most sustained critiqu
 
 Fukuoka's insistence that researchers should first become philosophers connects to his broader [[fukuoka-critique-of-scientific-agriculture]]. The scientific method depends on reproducibility -- the ability to isolate variables and produce consistent results. But nature is not reproducible. Every field is different, every year is different, every day is different. Research results obtained under controlled conditions cannot be reliably applied to the infinitely variable conditions of actual farming.
 
-The practical farmer knows this intuitively. The experienced farmer adjusts his practices constantly in response to changing conditions, using judgment and sensitivity that cannot be captured in a research protocol. Scientific agriculture, by contrast, produces standardized recommendations that ignore the uniqueness of each farm, each season, and each moment.
+The practical farmer knows this intuitively. The experienced farmer adjusts his practices constantly in response to changing conditions, using judgment and sensitivity that cannot be captured in a research protocol. [[fukuoka-critique-scientific-agriculture-civilization]], by contrast, produces standardized recommendations that ignore the uniqueness of each farm, each season, and each moment.
 
 ## The Fragmentation Fallacy
 
@@ -51,9 +52,9 @@ This philosophical stance connects to Fukuoka's [[fukuoka-four-principles-natura
 
 1. No cultivation: Research on no-till farming tends to show mixed results because it studies the technique in isolation. In Fukuoka's system, no-tillage works because it is part of an integrated whole that includes ground cover, natural fertilization, and pest balance.
 
-2. No chemical fertilizer: Research on biological nitrogen fixation tends to show lower yields than chemical fertilizers under controlled conditions. But in the field, over years and decades, the natural system builds soil fertility while the chemical system depletes it.
+2. No chemical fertilizer: Research on [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation tends to show lower yields than [[cervantes-chemical-fertilizers-guide]] under controlled conditions. But in the field, over years and decades, the natural system builds soil fertility while the chemical system depletes it.
 
-3. No pesticides: Research on biological pest control tends to show higher pest damage than chemical control. But over time, the natural system develops ecological resilience while the chemical system creates pest resistance and destroys beneficial organisms.
+3. No pesticides: Research on [[cervantes-biological-pest-control-predators]] control tends to show higher pest damage than chemical control. But over time, the natural system develops ecological resilience while the chemical system creates [[cannabis-disease-pest-resistance-breeding-clarke]] and destroys beneficial organisms.
 
 4. No weeding: Research on weed competition tends to show reduced yields when weeds are present. But in Fukuoka's system, the ground cover of clover replaces weeds, and the occasional weeds that appear contribute to soil health.
 
@@ -84,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

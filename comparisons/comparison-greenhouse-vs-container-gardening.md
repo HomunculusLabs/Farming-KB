@@ -1,5 +1,5 @@
 ---
-title: "Greenhouse Growing vs Container Gardening"
+title: "Greenhouse Growing vs comparison-cold-frame-gardening-vs-container-gardening-guide"
 created: 2026-04-28
 tags: [comparison, growing-methods, protected-cultivation, gardening,
 season-extension]
@@ -12,10 +12,10 @@ type: comparison
 # Greenhouse Growing vs Container Gardening
 
 ## Overview
-Greenhouse growing and container gardening both extend the growing season and
+Greenhouse growing and container gardening both [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season and
 enable cultivation in environments that would otherwise be unsuitable for food
 production, but they operate on entirely different scales and with different
-levels of environmental control. A greenhouse provides a controlled microclimate
+levels of [[eclss-environmental-control-life-support]]. A greenhouse provides a controlled microclimate
 with regulated temperature, humidity, and light for plants growing in ground
 beds or on benches. Container gardening uses individual portable vessels filled
 with soil mix to grow plants on patios, balconies, windowsills, and other
@@ -43,7 +43,7 @@ minimal using recycled containers and homemade soil mixes. The contained soil
 mix provides precise control over growing conditions, free from soil-borne
 diseases and existing weed seed banks. Container gardening also makes it easy to
 cater to individual plant needs: acid-loving plants like blueberries in
-ericaceous mixes, Mediterranean herbs in sandy free-draining mixes, and
+ericaceous mixes, [[query-best-mediterranean-herbs-for-beginner-herb-garden]] in sandy free-draining mixes, and
 moisture-loving plants in water-retentive blends.
 
 The main limitations are root restriction and rapid resource depletion.
@@ -66,7 +66,7 @@ nutrient-depleted.
 containers for sun/shade) |
 | Space required | Dedicated ground area | Any surface with adequate light |
 | Startup cost | High ($200 to $10,000+) | Low (free to $100) |
-| Season extension | Significant (year-round possible) | Moderate (move
+| [[comparison-season-extension-techniques-vs-cold-frame-gardening]] | Significant (year-round possible) | Moderate (move
 indoors for frost) |
 | Plant size capacity | Any size (ground beds or large beds) | Limited by
 container volume |
@@ -91,7 +91,7 @@ Greenhouses are also essential for overwintering half-hardy perennials,
 propagating cuttings and seedlings in bulk, and growing specialty crops like
 ginger, turmeric, and citrus that require warmth. In cold climates, a heated
 greenhouse makes the difference between a short growing season and continuous
-harvests. See greenhouse vs cold frame for comparing greenhouse scale
+harvests. See [[comparison-greenhouse-vs-cold-frame]] frame for comparing greenhouse scale
 options.
 
 ## When to Choose Container Gardening

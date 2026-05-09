@@ -17,7 +17,7 @@ type: concept
 # Community Garden Design and Urban Permaculture
 
 Bill Mollison's [[permaculture-principles]] -- observation, integration, multiple
-functions, edge effect, and biological resource management -- to the
+functions, edge effect, and biological [[savory-holistic-resource-management-animal-impact]] -- to the
 unique constraints and opportunities of cities and towns: limited
 space, contaminated soils, high population density, and the social
 dynamics of shared land.
@@ -32,7 +32,7 @@ productive, sustainable patterns. Key urban strategies include:
 - Converting vacant lots, rooftops, and marginal spaces to food
   production
 - Capturing and cycling urban waste streams (organic waste, greywater,
-  building materials) through [[mollison-designers-aquatic-edge-planted-wetland-design]] treatment systems
+  [[natural-building-materials-guide]]) through [[mollison-designers-aquatic-edge-planted-wetland-design]] treatment systems
 - Creating social structures that enable cooperative land management
 - Reducing dependence on distant food supply chains
 
@@ -48,14 +48,14 @@ Common areas serve all garden members and include:
   accept contributions from all plots and produce finished compost
   for redistribution. Large-scale composting is more efficient than
   individual plot composting.
-- **Water systems:** Rainwater harvesting from adjacent buildings,
-  shared irrigation infrastructure, and greywater treatment using
-  constructed wetlands.
+- **Water systems:** [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]] from adjacent buildings,
+  shared irrigation infrastructure, and [[mollison-designers-greywater-treatment-reedbeds]] using
+  [[comparison-constructed-wetlands-vs-bioswales]].
 - **Meeting and education space:** A sheltered area for workshops,
   seed swaps, harvest sharing, and community gatherings.
 - **Perennial plantings:** Shared fruit trees, berry bushes, and
   [[soil-food-web]] principles
-- Perennial borders between plots planted with beneficial insect
+- Perennial borders between plots planted with [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]
   habitat and windbreak species
 - Access paths wide enough for wheelbarrows (minimum 60cm)
 

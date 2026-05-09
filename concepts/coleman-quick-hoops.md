@@ -1,5 +1,5 @@
 ---
-title: "Quick Hoops — Low-Cost Season Extension Structures"
+title: "coleman-quick-hoops-construction — Low-Cost comparison-season-extension-techniques-vs-cold-frame-gardening Structures"
 type: concept
 tags:
   - season-extension
@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Eliot Coleman (2009). "The Winter Harvest Handbook." Chelsea Green.
+  - Eliot Coleman (2009). "The coleman-claytonia-winter-harvest-cultivation Handbook." Chelsea Green.
 ---
 
 # Quick Hoops — Low-Cost Season Extension Structures
@@ -19,7 +19,7 @@ Quick hoops are a minimalist season-extension system developed at Four Season
 Farm that provides many of the benefits of a full greenhouse at roughly five
 percent of the cost. Consisting of wire or plastic conduit hoops covered with
 row cover fabric and optionally with clear plastic, quick hoops allow northern
-growers to overwinter crops in the field and extend the growing season by weeks
+growers to overwinter crops in the field and [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season by weeks
 in both directions.
 
 ## Design and Construction
@@ -90,7 +90,7 @@ As spring arrives and sunny days warm the tunnels, ventilation becomes
 critical. A few sandbags are removed along the southern edge and notched
 props are inserted to hold up the edges of the plastic and fabric.
 
-This allows excess heat to escape while maintaining frost protection at
+This allows excess heat to escape while maintaining [[holzer-frost-protection-techniques]] at
 night. The farmer monitors conditions and adjusts ventilation to prevent
 overheating while protecting crops from late frosts.
 
@@ -112,7 +112,7 @@ agriculture with significant potential for extending the productive season.
 ## Replacing Wire Wickets
 
 Quick hoops completely replaced the curved wire wickets that Four Season
-Farm previously used to support fabric row covers over field crops. The
+Farm previously used to support fabric [[solomon-row-covers-and-season-extension]] over field crops. The
 hoops provided more headroom, better structural integrity, and easier
 installation and removal.
 
@@ -122,7 +122,9 @@ cost while improving results.
 
 ## See Also
 
-- [[coleman-mobile-greenhouse-crop-rotation-patterns]]
+- [[coleman-quick-hoops-construction]]
+
+- coleman-mobile-greenhouse-crop-rotation-patterns
 - [[coleman-winter-harvest-philosophy]]
 - [[winter-succession-planting]]
 - [[faires-season-extension-cold-frames]]

@@ -16,7 +16,7 @@ type: concept
 
 # Holzer Water Landscapes and Retention
 
-Sepp Holzer's concept of water landscapes is the foundational principle of his
+[[comparison-sepp-holzer-vs-biodynamic]]'s concept of water landscapes is the foundational principle of his
 approach to healing degraded land and restoring the hydrological-balance.
 A water landscape consists of interconnected, decentralised retention spaces
 built in cooperation with nature, designed to hold rainwater on the land and
@@ -33,7 +33,7 @@ water is drained away on a large scale, as has happened through centuries of
 land consolidation, road building, and river straightening, the subsoil suffers
 and the entire ecological system degrades.
 
-The natural body of the earth acts as a storage organ for water. A naturally
+The [[fukuoka-natural-body-and-health]] of the earth acts as a storage organ for water. A naturally
 built reservoir that allows water to seep into the ground has a balancing
 effect on the climate. It stores rainwater and allows it to penetrate the
 ground slowly. During the day the sun warms the water surface while deeper

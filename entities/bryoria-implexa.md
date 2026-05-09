@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of North America." Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Goward, T. (1999). "The Lichens of British Columbia: Illustrated Keys." Royal BC Museum.
   - Spribille, T., et al. (2014). "Molecular phylogeny of Bryoria (Parmeliaceae)." The Lichenologist, 46(3), 329–350.
   - McCune, B. & Geiser, L. (2009). "Macrolichens of the Pacific Northwest." Oregon State University Press.
@@ -20,7 +20,7 @@ sources:
 
 Bryoria implexa is a dark brown to blackish, fruticose (hair-like) lichen in the
 family Bryoriaceae. It forms intricate, net-like mats draping from the branches
-and twigs of coniferous trees in montane and boreal forests.
+and twigs of coniferous trees in montane and [[fungal-diversity-boreal-forests-taiga]].
 
 The species epithet *implexa* refers to its densely entangled, interwoven
 thallus. Unlike many Bryoria species that hang in distinct pendant strands,
@@ -32,7 +32,7 @@ southern Alaska through the Pacific Northwest into northern California. It
 occurs at elevations of 500 to 2,200 meters in cool, humid forest interiors.
 
 This species is considered an indicator of old-growth forest conditions and
-good air quality. It is sensitive to sulfur dioxide and nitrogen pollution,
+good [[cervantes-air-quality-ventilation]]. It is sensitive to sulfur dioxide and nitrogen pollution,
 declining rapidly in disturbed or urban-adjacent forests.
 
 ## Taxonomy and Morphology
@@ -78,7 +78,7 @@ Elevational range spans approximately 500 to 2,200 meters, with peak
 abundance between 800 and 1,500 meters in the Cascade and Coast ranges.
 
 Bryoria implexa is an obligate epiphyte, found almost exclusively on
-conifer bark. It is rare on dead wood or rock.
+conifer bark. It is rare on [[fungal-dead-wood-diversity]] or rock.
 
 ## Ecology and Symbiosis
 
@@ -97,7 +97,7 @@ trebouxioid green alga. This relationship allows the lichen to colonize
 exposed bark surfaces where free-living algae would desiccate.
 
 Bryoria implexa is moderately sensitive to air pollution, particularly
-sulfur dioxide and elevated nitrogen deposition. Its presence is
+sulfur dioxide and elevated [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]. Its presence is
 correlated with forest continuity and minimal disturbance, making it a
 useful bioindicator of ecological integrity.
 

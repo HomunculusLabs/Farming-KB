@@ -18,7 +18,7 @@ type: concept
 
 Species sequencing is a method of maximizing the productive potential
 of a substrate by growing multiple mushroom species on it in
-succession. Rather than discarding spent substrate after a single
+succession. Rather than discarding [[oyster-mushroom-spent-substrate-recycling]] after a single
 mushroom crop, the cultivator introduces a new species that exploits
 the remaining undecomposed wood fiber and the dead mycelium of the
 preceding mushroom. Each decomposer produces its own unique set of
@@ -26,12 +26,12 @@ enzymes which can only partially break down a wood-based substrate.
 Through sequential cultivation, the substrate is progressively
 decomposed until it is reduced to a soft loam ideal for garden
 compost. This approach represents one of the most resource-efficient
-strategies in mushroom cultivation.
+strategies in [[accessible-mushroom-cultivation-for-disabilities]].
 
 ## The Shiitake Sequencing Model
 
 The Shiitake model is the most well-developed and easiest to
-understand. After Shiitake mushrooms stop producing on supplemented
+understand. After [[query-how-to-grow-shiitake-mushrooms-on-logs]] stop producing on supplemented
 sawdust/chips blocks, the now-blackened blocks are broken apart until
 they resemble sawdust in texture. Calcium sulfate and/or calcium
 carbonate are added at approximately 1 cup per twenty blocks to
@@ -65,7 +65,7 @@ carbon dioxide, nitrogen, and ethylene.
 The mass balance works as follows. A typical 6-pound substrate block
 at 75% moisture yields at least 1.5 pounds of Shiitake mushrooms.
 Another 1.5 pounds is lost through carbon dioxide evolution and
-evaporation. At the end of the Shiitake fruiting cycles, approximately
+evaporation. At the end of the [[stamets-shiitake-fruiting-management]] cycles, approximately
 3 pounds of waste substrate remains at about 50% moisture. After the
 Oyster mushroom takes its turn, the substrate undergoes another 50%
 reduction in mass, from 3 pounds to approximately 1.5 pounds.
@@ -74,7 +74,7 @@ reduction in mass, from 3 pounds to approximately 1.5 pounds.
 
 At the 1.5-pound stage, the remaining material without supplementation
 supports vigorous growth of King Stropharia (Stropharia rugoso-
-annulata) or the Shaggy Mane (Coprinus comatus). Once colonized, the
+annulata) or the Shaggy Mane ([[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]]). Once colonized, the
 mycelium of these species is best used as spawn to inoculate outdoor
 substrates such as wood chip beds or garden pathways. At this final
 indoor stage, the nutritional base of the substrate is largely expired,
@@ -98,7 +98,7 @@ as a soil amendment.
 ## Mass Conversion and End Products
 
 In total, more than 20% of the substrate (dry weight to dry weight)
-is converted into edible mushrooms. At least an equal amount is
+is converted into [[palmer-edible-mushrooms-north-america]]. At least an equal amount is
 liberated as gases through metabolic processes. The remaining
 material can be added to garden composts as a nitrogen-rich
 supplement. The process of reduction and conversion is substantially
@@ -134,4 +134,7 @@ other life cycles.
 
 - [[agricultural-waste-substrates]] for alternative starting substrates
 - [[mushroom-casing-layers]] for King Stropharia fruiting requirements
-- [[mushroom-harvesting-storage-methods]] for post-harvest handling
+- mushroom-harvesting-storage-methods for post-harvest handling
+- [[decomposition]]
+- [[oyster-mushroom]]
+- [[paddy-straw-mushroom]]

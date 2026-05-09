@@ -1,5 +1,5 @@
 ---
-title: Bed Preparation and Minimal Tillage
+title: azurescens-outdoor-bed-preparation-woodchips and Minimal Tillage
 created: 2026-04-28
 tags:
   - tillage
@@ -94,7 +94,7 @@ When Coleman first set up his greenhouse soil, the goal was to create
 something approaching potting soil attached to the earth. He spread a
 2-inch layer of peat moss (with ground limestone to neutralize acidity)
 and tilled it to full depth. Peat moss provides slow-to-decompose fibrous
-organic matter that builds soil structure. Once this base was established,
+[[hamilton-composting-and-organic-matter-management]] that builds soil structure. Once this base was established,
 the ongoing shallow-tillage system maintains it. The living earth
 connection provides dependable moisture, earthworm access, increased
 rooting depth, and the biological benefits that isolated growing media
@@ -105,14 +105,16 @@ cannot match.
 For outdoor beds, Coleman employs a similar philosophy of intensive soil
 care but with different tools. A ten-horsepower walk-behind rotary tiller
 handles primary field preparation, while the broadfork and manual raking
-refine the seedbed surface. Close row spacing of 2.5 inches is used in
+refine the seedbed surface. Close [[wide-row-spacing-intensive-gardening-comparison]] of 2.5 inches is used in
 the field just as in the greenhouse, with twelve rows of baby-leaf salads
 or carrots or radishes on a 30-inch bed. This intensive spacing demands
 precise bed preparation to ensure uniform germination across all rows.
 
-## Related Concepts
+## Related
 
-- [[coleman-greenhouse-soil-management]] — greenhouse-specific soil
+- [[coleman-minor-tillage-bed-preparation]] Concepts
+
+- coleman-greenhouse-soil-management — greenhouse-specific soil
   strategies
 - [[coleman-small-farm-equipment-and-tools]] — the Tilther, broadfork,
   and other tools

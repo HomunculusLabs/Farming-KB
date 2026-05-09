@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-**Trichosanthes cucumerina** L., commonly known as snake gourd, snake tomato, or padwal, is a tropical climbing vine in the family Cucurbitaceae. It is widely cultivated across South and Southeast Asia for its edible immature fruits, which can reach 100–180 cm in length.
+**Trichosanthes cucumerina** L., commonly known as snake gourd, snake tomato, or padwal, is a tropical climbing vine in the family Cucurbitaceae. It is widely cultivated across South and [[psilocybe-southeast-asia-pacific]] for its edible immature fruits, which can reach 100–180 cm in length.
 
 The species is valued both as a culinary vegetable and in traditional medicine systems including Ayurveda and Siddha. Its fruits, leaves, and roots have documented anti-inflammatory, antidiabetic, and antioxidant properties.
 
@@ -55,7 +55,7 @@ Propagation is primarily by seed, which germinates within 7–14 days. Soaking s
 
 Plants flower 45–60 days after sowing. Fruits are harvested immature at 12–20 days after fruit set, when tender and green. Average yield ranges from 15–25 tonnes per hectare under good management.
 
-Common pests include fruit flies (*Bactrocera* spp.), red pumpkin beetle (*Aulacophora foveicollis*), and aphids. Downy mildew (*Pseudoperonospora cubensis*) and powdery mildew (*Podosphaera xanthii*) are the most significant fungal diseases.
+Common pests include fruit flies (*Bactrocera* spp.), red pumpkin beetle (*Aulacophora foveicollis*), and aphids. [[cervantes-downy-mildew-fungal-blight]] (*Pseudoperonospora cubensis*) and [[cervantes-powdery-mildew-prevention-treatment]] (*Podosphaera xanthii*) are the most significant fungal diseases.
 
 Several distinct landraces exist across South Asia, selected for fruit length, color, and texture. Indian cultivars include "Pusa Naubahar" and "CO-1" (long, tender, developed by Tamil Nadu Agricultural University).
 
@@ -69,11 +69,11 @@ Protein content is modest at approximately 0.8 g per 100 g fresh weight. The fib
 
 Vitamin C levels range from 10–18 mg per 100 g, contributing meaningfully to daily requirements. The combination of low calories and high micronutrient density positions snake gourd as a valuable food for weight management.
 
-Seeds are rich in protein (approximately 30% by dry weight) and contain unsaturated fatty acids including linoleic and oleic acid. They are a source of the amino acids tryptophan and methionine.
+Seeds are rich in protein (approximately 30% by dry weight) and contain unsaturated [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] including linoleic and oleic acid. They are a source of the amino acids tryptophan and methionine.
 
 ## Culinary and Medicinal Use
 
-In Indian cuisine, immature fruits are chopped and cooked in curries, sambar, and stir-fries. The tender shoots and young leaves are also consumed as leafy greens in regional preparations.
+In Indian cuisine, immature fruits are chopped and cooked in curries, sambar, and stir-fries. The tender shoots and young leaves are also consumed as [[solomon-leafy-greens-growing]] in regional preparations.
 
 In Thai cooking, snake gourd shoots and leaves are added to soups and spicy salads. The fruits are sometimes stuffed with minced pork or shrimp before steaming.
 
@@ -93,7 +93,7 @@ The fruits are sensitive to chilling injury below 7°C, which manifests as surfa
 
 ## Ecological Role
 
-As a climbing vine, *Trichosanthes cucumerina* provides structural habitat complexity in agricultural landscapes. Its dense foliage offers shade and refuge for beneficial insects including pollinators and predatory beetles.
+As a climbing vine, *Trichosanthes cucumerina* provides structural habitat complexity in agricultural landscapes. Its dense foliage offers shade and refuge for [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] including pollinators and predatory beetles.
 
 The nocturnal flowers are pollinated by hawkmoths (Sphingidae) and long-tongued bees, which are attracted to the sweet fragrance and white, fimbriate corolla.
 
@@ -104,6 +104,8 @@ This pollination ecology supports nocturnal insect diversity in tropical agroeco
 The species serves as a host plant for several Lepidoptera larvae, including cucumber moth (*Diaphania indica*). In intercropping systems, snake gourd is frequently grown with legumes or cereals, where the trellised growth habit minimizes competition for ground-level resources.
 
 ## See Also
+
+- [[trichosanthes-kirilowii]]
 
 - [[coccinia-grandis]]
 - [[sechium-edule]]

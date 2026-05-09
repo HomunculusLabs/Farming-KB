@@ -25,7 +25,7 @@ sources:
 **Kenaf** (*Hibiscus cannabinus*) is a fast-growing annual or biennial herbaceous
 plant in the family Malvaceae, cultivated primarily as a fiber crop but
 increasingly recognized for its potential in phytoremediation, bioenergy
-production, and sustainable building materials. Native to Africa, kenaf has been
+production, and sustainable [[natural-building-materials-guide]]. Native to Africa, kenaf has been
 cultivated for over 4,000 years and is now grown across tropical and subtropical
 regions worldwide.
 
@@ -52,7 +52,7 @@ reaching 2–5 m in height with diameters of 1–3 cm. The stem cross-section
 reveals distinct bast fiber bundles in the cortex surrounding a woody core.
 
 Leaves are alternate, palmately lobed with 3–7 lobes, 8–15 cm long, resembling
-cannabis leaves — the source of the specific epithet *cannabinus*. Leaf
+[[query-what-causes-cannabis-leaves-to-curl-and-how-to-fix-it]] — the source of the specific epithet *cannabinus*. Leaf
 morphology varies considerably among cultivars, with some forms producing deeply
 divided leaves and others nearly entire.
 
@@ -78,7 +78,7 @@ Kenaf is typically direct-seeded at rates of 10–20 kg/ha. Seed germination
 occurs within 3–5 days under warm, moist conditions. No herbicides are typically
 required once the crop is established, as rapid early growth suppresses weeds.
 
-Harvest timing depends on intended use. For fiber production, harvest at
+[[cannabis-harvest-timing-visual-cues]] depends on intended use. For fiber production, harvest at
 flowering (90–120 days) yields the highest bast fiber quality. For biomass
 production, delayed harvest increases total dry matter yield.
 
@@ -101,14 +101,14 @@ for restoration of industrial sites, mine tailings, and sewage-impacted lands.
 
 ### Bioenergy and Building Materials
 
-Kenaf core fiber serves as a renewable feedstock for biochar production, cellulosic
+Kenaf core fiber serves as a renewable feedstock for [[comparison-biochar-production-guide-vs-biochar-soil-amendment]], cellulosic
 ethanol, and pelletized fuel. The whole stalk can be processed into particleboard,
 insulation panels, and composite building materials that sequester carbon.
 
 ### Agroecological Functions
 
 As a fast-growing cover crop, kenaf provides rapid biomass accumulation for green
-manure, soil organic matter improvement, and erosion control. Deep taproots
+manure, soil [[hamilton-composting-and-organic-matter-management]] improvement, and [[permplant-willows-salix-erosion-control-fodder]]. Deep taproots
 improve soil structure and water infiltration.
 
 ## Medicinal and Nutritional Uses
@@ -129,7 +129,7 @@ biodiesel feedstock and edible oil source.
 
 ## See Also
 
-- [[crotalaria-juncea]]
+- crotalaria-juncea
 - [[vicia-villosa]]
 - [[mycoremediation]]
 - [[blesching-cannabis-sativa-indica-classification]]

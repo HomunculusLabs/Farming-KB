@@ -1,5 +1,5 @@
 ---
-title: Cannabis Harvesting Drying and Curing
+title: green-cannabis-harvesting-processing comparison-cannabis-drying-and-curing-vs-flushing-before-harvest
 created: 2026-04-28
 tags: [cannabis, harvest, drying, curing, trimming, THC, grow-bible]
 date: 2026-04-25
@@ -10,7 +10,7 @@ type: concept
 
 # Cannabis Harvesting, Drying, and Curing
 
-Harvesting is the act of reaping the rewards of a cannabis grow and is
+Harvesting is the act of reaping the rewards of a [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] and is
 without doubt the most anticipated stage for cultivators. [[cannabis-grow-room-setup]]
 - [[cannabis-growing-environment-setup]]
 - [[cannabis-harvest-and-curing]]
@@ -143,3 +143,6 @@ conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
 
+## See Also
+
+- [[green-cannabis-curing-drying-buds]]

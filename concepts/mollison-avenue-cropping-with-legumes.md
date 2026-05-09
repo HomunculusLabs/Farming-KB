@@ -1,5 +1,5 @@
 ---
-title: "Avenue Cropping with Legumes in Permaculture"
+title: "mollison avenue cropping with legumes with Legumes in Permaculture"
 created: 2026-04-26
 tags:
   - permaculture
@@ -47,14 +47,14 @@ from frost or open grass competition.
 
 Avenue cropping simultaneously provides:
 
-- Nitrogen fixation from the leguminous tree rows
+- [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] from the leguminous tree rows
 - Shade that reduces soil temperature and evaporation
 - Mulch material from lopped branches
 - Firewood as a by-product
-- Wind protection for inter-planted crops
+- [[cervantes-wind-protection-outdoor-cannabis]] for inter-planted crops
 - Soil improvement from leaf fall and root activity
 
-The system enables crops such as maize, sweet potato, ginger,
+The system enables crops such as maize, [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]], ginger,
 and pineapple to be grown between the legume rows, with crop
 wastes returned to the field as additional mulch.
 
@@ -74,7 +74,7 @@ throughout the orchard and garden as permanent nitrogen
 fixers. Alternatively, fast-growing and short-lived legumes
 can be allowed to grow and die naturally, or can be
 ring-barked or felled on a 2-5 year cycle. This approach
-mimics natural forest succession where pioneer legumes
+mimics natural [[mollison-designers-food-forest-succession-design]] where pioneer legumes
 enrich soils for climax species.
 
 ## Non-Legume Mulch Under Legume Canopy
@@ -82,7 +82,7 @@ enrich soils for climax species.
 With permanent high legume cover, mulch can be obtained all
 year from a variety of non-legume hedge and understory species.
 Nicotiana, Echium fastuosum, Lantana, cinnamon, clumps of
-daisies, wild ginger, lemongrass, Vetiver grass, Pennisetum,
+daisies, wild ginger, lemongrass, [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]], Pennisetum,
 and crop wastes from maize, Sesbania, soft ground legumes, or
 comfrey provide constant mulch under high legume cover. This
 reduces or eliminates the need for coppicing susceptible

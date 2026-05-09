@@ -9,7 +9,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
@@ -17,7 +18,7 @@ type: concept
 
 The global decline of vegetation and the advance of deserts represents
 one of the most critical ecological crises of the modern era. Fukuoka's
-approach to desert reclamation differs fundamentally from conventional
+approach to [[fukuoka-desert-reclamation-projects]] differs fundamentally from conventional
 methods, emphasizing natural revegetation over engineering projects and
 addressing root causes rather than symptoms.
 
@@ -33,7 +34,7 @@ were once dense forest have turned into bleak, barren land.
 The case of Brazil illustrates the pattern. Japanese trading companies
 began cutting down Amazonian rain forests to grow pasture, and forests
 have given way to desert. The dense forests of Thailand and other parts
-of Southeast Asia, regarded until recently as a treasury of wood, have
+of [[psilocybe-southeast-asia-pacific]], regarded until recently as a treasury of wood, have
 been razed, leaving behind barren land. The global decline in vegetation
 has advanced to a degree that tree-planting campaigns are clearly not
 enough.
@@ -63,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

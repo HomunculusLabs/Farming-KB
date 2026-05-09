@@ -1,5 +1,5 @@
 ---
-title: "How to Choose the Right Cover Crop"
+title: "How to query-how-do-i-choose-the-right-cannabis-strain-for-my-grow Cover Crop"
 created: 2026-04-28
 tags: [query, cover-crops, soil-health, organic-farming, green-manure]
 date: 2026-04-25
@@ -12,7 +12,7 @@ type: query
 
 ## Short Answer
 
-Choose cover crops based on your primary goal — nitrogen fixation, weed suppression,
+Choose cover crops based on your primary goal — [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], weed suppression,
 soil building, or pest disruption — your climate zone, and what cash crop will follow.
 Legumes fix nitrogen, grasses suppress weeds and build soil structure, and brassicas
 break up compacted soil with deep taproots. Matching species to your conditions and
@@ -36,7 +36,7 @@ choices and their characteristics:
 
 | Species | N Contribution (lb/acre) | Hardiness | Best Termination |
 |---------|------------------------|-----------|-----------------|
-| Crimson clover | 70–130 | Zone 6+ | 50% bloom |
+| [[comparison-lupin-vs-crimson-clover-green-manure]] | 70–130 | Zone 6+ | 50% bloom |
 | Hairy vetch | 90–200 | Zone 4+ | 50% bloom |
 | Field peas | 70–130 | Zone 5+ | Early pod |
 
@@ -60,7 +60,7 @@ produce large amounts of carbon-rich residue.
   nematodes through root exudates.
 
 The [[cover-cropping-systems]] guide recommends four to ten species per mix to
-maximize functional diversity and resilience. Research shows multi-species mixes
+maximize [[fungal-functional-diversity-decomposition]] and resilience. Research shows multi-species mixes
 often produce more total biomass than any single species alone, thanks to
 complementary resource use where shallow and deep-rooted species access different
 soil layers.
@@ -79,11 +79,11 @@ The [[query-how-to-build-healthy-garden-soil]].
 ## Key Points
 
 - Define your primary objective first: nitrogen fixation, weed suppression, soil
-  structure, erosion control, or pest management
+  structure, [[permplant-willows-salix-erosion-control-fodder]], or pest management
 - Legumes (crimson clover, hairy vetch, field peas) fix nitrogen; terminate at
   50% bloom for maximum contribution
 - Grasses (cereal rye, annual ryegrass, oats) excel at weed suppression, erosion
-  control, and rapid biomass production
+  control, and rapid [[dighton-fungal-biomass-production-aquatic-ecosystems]]
 - Brassicas (daikon radish, mustard) break compacted soil with deep taproots and
   provide biofumigation against soil pathogens
 - Multi-species mixes of four to ten species often outperform single-species

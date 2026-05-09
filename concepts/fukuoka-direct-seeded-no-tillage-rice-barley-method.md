@@ -1,18 +1,19 @@
 ---
-title: Fukuoka Direct-Seeded No-Tillage Rice and Barley Method
+title: Fukuoka Direct-Seeded No-Tillage fukuoka-rice-and-barley-natural-farming Method
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Direct-Seeded No-Tillage Rice-Barley Method
 
 updated: 2026-04-18
 
-Fukuoka's complete method of [[fukuoka-white-clover-cover-crop-system]] and winter grain (barley or wheat) seeds over the ripening heads of rice
+Fukuoka's complete method of [[fukuoka-white-clover-cover-crop-system]] and [[direct-seeded-no-tillage-rice-winter-grain-succession]] (barley or wheat) seeds over the ripening heads of rice
 - Harvest the rice while treading on the young shoots of winter grain
 
 ### After Harvest
@@ -103,3 +104,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[fukuoka-direct-seeded-no-tillage-rice-barley]]

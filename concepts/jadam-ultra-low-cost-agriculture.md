@@ -9,7 +9,7 @@ sources:
 ---
 # JADAM Ultra-Low-Cost Agriculture
 
-JADAM (Jayonul Damun Saramdul, meaning "people who are like nature") is a Korean organic farming system developed by Youngsang Cho. Its signature achievement: farming at approximately $100 per acre per year. Founded in 1991, JADAM has grown to nearly 60,000 members and is now being adopted worldwide.
+JADAM (Jayonul Damun Saramdul, meaning "people who are like nature") is a Korean [[coleman-deep-organic-farming-philosophy]] system developed by Youngsang Cho. Its signature achievement: farming at approximately $100 per acre per year. Founded in 1991, JADAM has grown to nearly 60,000 members and is now being adopted worldwide.
 
 ## Core Philosophy
 
@@ -58,8 +58,8 @@ Made by immersing leaf mold in water with rocks. Provides mineral nutrition.
 
 ### JADAM Liquid Fertilizer (JLF)
 Made without sugar or molasses (distinguishing it from Korean Natural Farming FPJ). Customizable formulations for specific nutrient needs including:
-- Natural nitrogen JLF
-- Natural calcium phosphate JLF
+- [[jadam-natural-nitrogen-fertilizer]] JLF
+- Natural [[bionutrients-lab-calcium-phosphate-calamansi]] JLF
 - Natural calcium JLF
 - Natural potassium JLF
 - Natural chitosan JLF
@@ -71,11 +71,11 @@ JADAM shares roots with Korean Natural Farming (developed by Hankyu Cho, Youngsa
 | Aspect | KNF (Cho Hankyu) | JADAM (Cho Youngsang) |
 |--------|------------------|----------------------|
 | Sugar/molasses | Key ingredient (FPJ, IMO) | Explicitly avoided in JLF |
-| Indigenous microorganisms | Complex collection process | Simplified leaf mold culture |
+| [[beneficial-indigenous-microorganisms-bim]] | Complex collection process | Simplified leaf mold culture |
 | Cost focus | Low cost | Ultra-low cost ($100/acre/yr) |
 | Wetting agent | Not a core invention | Central to pesticide system |
 | Sulfur use | Limited | JS is a flagship product |
-| Fertilizer | Fermented Plant Juice | JLF without sugar/molasses |
+| Fertilizer | [[bionutrients-lab-fermented-plant-juice-fpj]] | JLF without sugar/molasses |
 
 Hankyu Cho himself writes that "Youngsang Cho has gone far beyond" the original Natural Farming foundation, particularly through the JWA and JS inventions.
 
@@ -92,7 +92,7 @@ JADAM views farming as "a living, feeling thing that grows on the soil of religi
 
 1. **Do as nature does** -- observe and follow natural patterns
 2. **I and others are one** -- interconnectedness of all systems
-3. **The good and the bad are one** -- pests and diseases have their place
+3. **The good and the bad are one** -- [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] have their place
 4. **Co-existing with wild grass** -- not all "weeds" are enemies
 
 ## Practical Applications

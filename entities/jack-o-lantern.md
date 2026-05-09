@@ -14,7 +14,7 @@ sources:
 
 # Jack-o'-Lantern Mushroom (Omphalotus olearius)
 
-The jack-o'-lantern mushroom is a bioluminescent, toxic fungus found across temperate and subtropical regions worldwide. Named for its bright orange coloration and eerie green glow in darkness, it is one of the most significant poisonous mushroom lookalikes in mycology — commonly confused with the prized chanterelle (*Cantharellus cibarius*) by inexperienced foragers. Its ability to produce light through bioluminescence makes it one of approximately 110 known bioluminescent fungal species.
+The jack-o'-lantern mushroom is a bioluminescent, toxic fungus found across temperate and subtropical regions worldwide. Named for its bright orange coloration and eerie green glow in darkness, it is one of the most significant [[growing-gourmet-poisonous-mushroom-lookalikes]] lookalikes in mycology — commonly confused with the prized chanterelle (*Cantharellus cibarius*) by inexperienced foragers. Its ability to produce light through bioluminescence makes it one of approximately 110 known bioluminescent fungal species.
 
 ## Taxonomy and Identification
 
@@ -24,7 +24,7 @@ The jack-o'-lantern mushroom is a bioluminescent, toxic fungus found across temp
 - **Order:** Agaricales
 - **Family:** Omphalotaceae
 - **Genus:** Omphalotus
-- **Species complex:** O. olearius (Europe), O. illudens (eastern North America), O. olivascens (California), O. subilludens (Japan), O. mexicanus (Mexico)
+- **Species complex:** O. olearius (Europe), O. illudens ([[polypore-fungi-eastern-north-america]] America), O. olivascens (California), O. subilludens (Japan), O. mexicanus (Mexico)
 
 The genus Omphalotus has undergone significant taxonomic revision. What was once considered a single widespread species is now recognized as a complex of several species with overlapping morphologies but distinct geographic distributions and genetic profiles.
 
@@ -46,7 +46,7 @@ The genus Omphalotus has undergone significant taxonomic revision. What was once
 
 ## Bioluminescence
 
-Jack-o'-lantern mushrooms are among the most readily observable bioluminescent fungi:
+Jack-o'-lantern mushrooms are among the most readily observable [[bloomfield-bioluminescent-fungi-overview]]:
 
 ### Mechanism
 
@@ -79,7 +79,7 @@ Jack-o'-lanterns contain illudin S and illudin M — sesquiterpene compounds wit
 - **Illudin S:** A reactive sesquiterpene ester that alkylates DNA, causing strand breaks and cell death. It is the primary toxin responsible for gastrointestinal symptoms.
 - **Illudin M:** A related compound with similar but less potent activity.
 
-Interestingly, illudins have been investigated as potential chemotherapeutic agents. A derivative called irofulven (hydroxymethylacylfulvene) reached Phase II clinical trials for prostate, ovarian, and pancreatic cancers, exploiting the compound's ability to selectively damage rapidly dividing cells.
+Interestingly, illudins have been investigated as potential chemotherapeutic agents. A derivative called irofulven (hydroxymethylacylfulvene) reached Phase II [[mushroom-cancer-clinical-trials-overview]] for prostate, ovarian, and pancreatic cancers, exploiting the compound's ability to selectively damage rapidly dividing cells.
 
 ### Symptoms of Poisoning
 
@@ -109,7 +109,7 @@ Symptoms typically begin 30 minutes to 2 hours after ingestion:
 
 ### Ecological Role
 
-- **Saprotrophic:** Primary decomposer of dead hardwood. The mycelium breaks down cellulose and lignin in decaying wood and roots, playing an important role in forest nutrient cycling.
+- **Saprotrophic:** Primary decomposer of dead hardwood. The mycelium breaks down cellulose and lignin in decaying wood and roots, playing an important role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 - **Parasitic:** Can act as a weak parasite on living tree roots, particularly on stressed or wounded trees. The fungus can contribute to root rot and decline in ornamental and orchard trees.
 - **Fruiting:** Produces clusters (often 10–50+ mushrooms) of fruiting bodies in late summer to autumn, often after rain. Fruiting can recur from the same substrate for several years.
 
@@ -136,12 +136,13 @@ The bright orange color and funnel shape lead to frequent misidentification. Cri
 
 - The jack-o'-lantern mushroom is one of the few fungi widely known outside mycological circles, owing to its evocative common name and bioluminescence.
 - The name "jack-o'-lantern" predates the carved pumpkin tradition and originally referred to the mysterious ghostly lights (will-o'-the-wisps or ignis fatuus) seen over marshes and bogs. The mushroom's glow reminded observers of these folkloric lights.
-- In European folklore, ghostly lights in forests were sometimes attributed to fairy fires or wandering spirits; the mushroom's bioluminescence provided a biological explanation for some of these sightings.
-
 ## See Also
 
-- jack o lantern — detailed entry for the North American species
+- jack o lantern — detailed entry for the [[growing-gourmet-north-american-reishi-species]] species
 - [[pleurotus-ostreatus]] — edible wood-growing mushroom with similar clustered habit
 - [[hericium-erinaceus]] — distinctive, easily identified edible fungus
 
-See also: [[edible-wild-mushrooms-foraging-guide]]
+See also: edible-wild-mushroom-guide
+- [[bioluminescent-fungi]]
+- [[omphalotus-illudens]]
+- [[olea-europaea]]

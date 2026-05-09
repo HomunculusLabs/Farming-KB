@@ -22,7 +22,7 @@ A well-designed biointensive mini-farm of 2,800-4,000 sq ft can feed one person 
 
 - [[2c-d-pihkal-entry-23]]
 - [[root-vegetable-storage-guide]]
-- [[mushroom-harvesting-storage-methods]]
+- mushroom-harvesting-storage-methods
 
 ## Related
 
@@ -104,4 +104,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

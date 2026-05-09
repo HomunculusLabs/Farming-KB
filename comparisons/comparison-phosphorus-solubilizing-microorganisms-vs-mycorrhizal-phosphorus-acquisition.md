@@ -1,6 +1,6 @@
 ---
 title: Phosphorus-Solubilizing Microorganisms vs Mycorrhizal Phosphorus Acquisition
-tags: [phosphorus, biofertilizers, mycorrhiza, soil-microbiology, plant-nutrition, [[arbuscular-mycorrhizal-fungi]] fungi in plant nutrition and growth. Mycologia. 2012;104(1):1-13.
+tags: [phosphorus, biofertilizers, mycorrhiza, soil-microbiology, plant-nutrition, arbuscular-mycorrhizal-fungi fungi in plant nutrition and growth. Mycologia. 2012;104(1):1-13.
   - Bhattacharyya PN, Gupta A. Planta growth promoting rhizobacteria (PGPR): emergence in sustainable agriculture. Frontiers in Microbiology. 2012;3:124.
   - Goldstein AH. Recent progress in understanding the molecular genetics and biochemistry of calcium phosphate solubilization by Gram negative bacteria. Biological Agriculture & Horticulture. 1995;12(2):185-193.
   - Jansa J, Wischnewski A, Czechowski T, Bujon W. Lost in translation: developing molecular markers for mycorrhizal functioning. Trends in Plant Science. 2013;18(9):501-507.
@@ -13,7 +13,7 @@ created: 2026-04-28
 
 Phosphorus (P) is one of the three primary macronutrients limiting crop production globally, yet an estimated 60–90% of applied phosphorus fertilizer becomes immobilized in soil as insoluble complexes unavailable to plants. Two principal biological strategies address this bottleneck: phosphorus-solubilizing microorganisms (PSMs) that chemically liberate P from mineral and organic pools, and [[dynamic-accumulator-plants-phosphorus]], iron/aluminum phosphates, organic P (phytate, nucleic acids) | Soluble and weakly adsorbed P in soil solution; P desorbed from soil particle surfaces |
 | **Spatial reach** | Localized to rhizosphere (1–5 mm from root surface) | Hyphal network extends well beyond depletion zone, accessing bulk soil P |
-| **Key organisms** | *Pseudomonas fluorescens*, *Bacillus subtilis*, *Bacillus megaterium*, *Penicillium* spp., *Aspergillus niger* | *Rhizophagus irregularis*, *Funneliformis mosseae*, *Gigaspora margarita*, *Claroideoglomus* spp. |
+| **Key organisms** | *Pseudomonas fluorescens*, *[[bacillus-subtilis]]bacillus megaterium rium*, *Penicillium* spp., *aspergillus funneliformis mosseae rmis mosseae*, *Gigaspora margarita*, *Claroideoglomus* spp. |
 | **Host specificity** | None — free-living organisms act independently of plant species | Obligate symbionts with varying compatibility across plant families |
 
 ## How PSMs Solubilize Phosphorus
@@ -26,9 +26,7 @@ Phosphorus-solubilizing microorganisms employ three principal biochemical strate
 
 **Inorganic acid production** by nitrifying and sulfur-oxidizing bacteria (e.g., *Thiobacillus*, *Nitrosomonas*) generates nitric and sulfuric acids that solubilize phosphate minerals as a byproduct of their primary metabolism. This mechanism is slower but provides sustained P solubilization in amended soils.
 
-## How AMF Acquire Phosphorus
-
-Arbuscular mycorrhizal fungi form an obligate symbiosis with > 80% of terrestrial plant families. The [[amf-hyphal-anastomosis-self-recognition]] length.
+## How AMF arbuscular mycorrhizal fungi ar mycorrhizal fungi form an obligate symbiosis with > 80% of terrestrial plant families. The [[amf-hyphal-anastomosis-self-recognition]] length.
 
 **The phosphorus uptake pathway:**
 
@@ -82,7 +80,7 @@ AMF do not solubilize insoluble P compounds — they access P that is already in
 | **Rock phosphate** | Strongly synergistic — PSMs solubilize rock phosphate, making it plant-available | Mildly synergistic — AMF access some solubilized P |
 | **Fungicides** | Variable — copper and sulfur generally OK; systemic fungicides toxic | Most fungicides reduce AMF; copper moderately toxic |
 | **Tillage** | Conventional tillage redistributes inoculum; no-till favors buildup | No-till strongly preferred — preserves hyphal networks |
-| **[[cover-crop-multifunction-design]] roots support PSM populations | Highly synergistic — cover crops maintain AMF networks between cash crops |
+| **[[cover-crop-multifunction-design]] roots support PSM populations | Highly synergistic — [[cover-crops]] maintain AMF networks between cash crops |
 
 ## Limitations and Failure Modes
 

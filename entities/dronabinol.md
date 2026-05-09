@@ -44,7 +44,7 @@ cannabinoid receptors.
 - **PTSD:** Investigated and used for post-traumatic stress disorder
 
 ### Clinical Evidence
-Multiple clinical trials have demonstrated dronabinol's efficacy:
+Multiple [[mushroom-cancer-clinical-trials-overview]] have demonstrated dronabinol's efficacy:
 
 - **Appetite and weight gain (Saint Louis University, 2007):** Patients
   with HIV showed increased appetite and mood improvement with regular
@@ -64,7 +64,7 @@ Multiple clinical trials have demonstrated dronabinol's efficacy:
 ### Limitations Compared to Whole-Plant Cannabis
 Unlike Sativex (which is a plant-derived tincture containing multiple
 cannabinoids), dronabinol is a single isolated compound. This means it
-lacks the entourage effect provided by the full spectrum of cannabis
+lacks the [[cannabis-terpene-entourage-effect-profiles]] provided by the full spectrum of cannabis
 constituents (70+ cannabinoids, terpenes, flavonoids, etc.) that may
 contribute to therapeutic outcomes. Patients using dronabinol do not
 benefit from the modulating effects of CBD, CBG, CBC, CBN, and other
@@ -95,4 +95,4 @@ legalization, with FDA approval dating to the 1980s.
 - [[cannabinol-cbn]]
 - rimonabant
 
-See also: [[cannabis-as-medicine-clinical-reference]]
+See also: [[cannabis-evidence-based-medicine-chi-methodology]]

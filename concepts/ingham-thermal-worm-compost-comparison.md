@@ -1,5 +1,5 @@
 ---
-title: Thermal vs. Worm Compost Comparison
+title: Thermal vs. ingham thermal worm compost comparison Comparison
 created: 2026-04-26
 tags: [compost, vermicompost, thermal-compost, soil-biology, ingham]
 date: 2026-04-25
@@ -15,7 +15,7 @@ type: concept
 [[earthworm-ecology]] for details on
   worm biology and [[compost-biology-organisms]] reference.
 
-A mix of good aerobic thermal compost with aerobic worm castings
+A mix of good aerobic [[ingham-thermal-compost-versus-worm-compost]] with aerobic worm castings
 (about 50-50) is the recommended AACT starting material.
 
 ## Making Good Compost
@@ -32,7 +32,7 @@ starting materials is different. Key requirements for both methods:
 
 To make compost, you have to have the right starting materials
 and process correctly -- worm, thermal, or static. They can all
-make great fungal compost.
+make great [[bacterial-vs-fungal-compost-teas]].
 
 ## Compost Longevity
 
@@ -53,7 +53,9 @@ Both must meet chemistry and pathogen testing standards at city,
 county, state, and federal levels.
 ## Related
 
-- [[aact-compost-quality-standards-ingham]] for testing requirements and compost quality
+- [[ingham-thermal-compost-versus-worm-compost]]
+
+- [[aact-compost-quality-standards-ingham]] for testing requirements and [[aact-compost-quality-standards-ingham]]
 - [[actively-aerated-compost-tea]] for brewing from combined compost sources
 - [[teaming-with-microbes-compost-biology]] for compost microbiology fundamentals
 ## Practical Considerations
@@ -72,7 +74,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +116,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

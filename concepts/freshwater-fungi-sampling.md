@@ -3,14 +3,10 @@ title: Freshwater Fungi — Sampling, Isolation, and Diversity
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-# Freshwater Fungi — Sampling, Isolation, and Diversity
-
-## Overview
-
-Fungi are found in **ALL freshwater habitats** — rivers, streams, marshes, bogs, lakes, ponds, and wetlands. Freshwater fungal communities are taxonomically and functionally diverse, though with notable differences from terrestrial assemblages. Most conspicuously, **Basidiomycetes are mostly absent** from freshwater environments, a pattern that remains poorly explained. This page covers sampling approaches critical to [[aquatic-fungi-and-ingoldian-spores]] studies.
+# Freshwater Fungi — Sampling, Isolation, and Diversity ## Overview Fungi are found in **ALL freshwater habitats** — rivers, streams, marshes, bogs, lakes, ponds, and wetlands. Freshwater fungal communities are taxonomically and functionally diverse, though with notable differences from terrestrial assemblages. Most conspicuously, **Basidiomycetes are mostly absent** from freshwater environments, a pattern that remains poorly explained. This page covers sampling approaches critical to [[aquatic-fungi-and-ingoldian-spores]] studies.
 
 ## Diversity Estimates
 
@@ -30,7 +26,7 @@ These **zoosporic fungi** are among the most abundant and ecologically important
 
 - **Ecological roles**: Parasites of algae, decomposers of pollen and plant debris, bacterial consumers
 - **Collection**: Baiting techniques using cellophane, onion skin, chitin, or pollen to attract zoospores
-- **Culture medium**: PmTG (peptone, malt extract, tryptone, glucose) agar supports chytrid growth
+- **[[fukuoka-matsutake-culture-medium-appendix]]**: PmTG (peptone, malt extract, tryptone, glucose) agar supports chytrid growth
 - For more details, see [[freshwater-fungi-biodiversity]] for broader context
 
 ### 3. Freshwater Ascomycetes
@@ -58,6 +54,7 @@ Two ecologically distinct groups of asexual fungi dominate freshwater habitats:
 - Major contributors to leaf decomposition in streams
 - See [[fungal-sampling-methods]] protocols to capture the complete diversity of fungi in landscapes that include aquatic habitats, particularly in studies of [[fungal-indicators-soil-quality-ecosystem-health]]
 - [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]]
+
 ## Practical Considerations
 
 Successful implementation of Freshwater Fungi — Sampling, Isolation, and Diversity requires attention to
@@ -76,4 +73,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

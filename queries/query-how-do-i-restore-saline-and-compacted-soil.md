@@ -1,12 +1,12 @@
 ---
-title: "How Do I Restore Saline and Compacted Soil?"
+title: "How Do I query how do i restore saline and compacted soil and Compacted Soil?"
 created: 2026-04-28
 tags: [soil-restoration, saline-soil, soil-compaction, phytoremediation, gypsum, leaching, halophytes, cover-crops, drainage, soil-health]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - FAO. "Soil Salinity Management." Irrigation and Drainage Paper 71. Food and Agriculture Organization of the United Nations, Rome, 2020.
-  - USDA NRCS. "Soil Quality Indicators: Salinity and Sodicity." United States Department of Agriculture, Natural Resources Conservation Service, 2021.
+  - USDA NRCS. "Soil Quality Indicators: Salinity and Sodicity." [[dmt-containing-plants-united-states-halpern]] Department of Agriculture, Natural Resources Conservation Service, 2021.
   - Qadir, M., et al. "Economics of salt-induced land degradation and restoration." Natural Resources Forum, vol. 38, no. 4, 2014, pp. 282-295.
   - Brady, N.C., and R.R. Weil. The Nature and Properties of Soils. 15th ed., Pearson, 2016.
   - Shainberg, I., and M.E. Sumner. "Effects of gypsum on soil physical and chemical properties." Advances in Soil Science, vol. 12, 1989, pp. 1-41.
@@ -85,7 +85,7 @@ Species like *Salicornia*, *Atriplex* (saltbush), and *Suaeda* extract and accum
 Arbuscular [[soil-testing]], site evaluation | Baseline EC, SAR, ESP |
 | Physical + Chemical | Month 1–2 | Drainage, ripping, gypsum, compost | EC trending down |
 | Leaching | Month 2–4 | Ponded irrigation, drainage flow | EC < 6 dS/m in root zone |
-| Biological | Month 3–12 | Cover crops, halophytes, mulch | SAR < 13, structure improving |
+| Biological | Month 3–12 | [[gaias-garden-cover-crops-soil-building]], halophytes, mulch | SAR < 13, structure improving |
 | Stabilization | Year 1–3 | Rotational crops, monitoring | EC < 4 dS/m, SAR < 13 |
 
 Mild saline soils: 1–2 seasons. Sodic with severe compaction: 2–5 years. Severely degraded sites may need multi-year drainage investment.
@@ -95,9 +95,9 @@ Mild saline soils: 1–2 seasons. Sodic with severe compaction: 2–5 years. Sev
 - **Manage irrigation quality** — monitor EC; blend with fresh water if EC > 1.5 dS/m.
 - **Avoid over-irrigation** — excess water raises the water table and brings salts upward via capillary rise.
 - **Maintain 3–5% organic matter** — improves structure and resistance to salinity and compaction.
-- **Rotate crops** — include deep-rooted and salt-tolerant species.
+- **[[query-what-is-the-best-way-to-rotate-crops-in-a-vegetable-garden]]** — include deep-rooted and salt-tolerant species.
 - **Minimize tillage** — preserves structure and prevents re-compaction.
-- **Year-round soil cover** — mulch and cover crops reduce evaporation-driven salt accumulation.
+- **Year-round soil cover** — mulch and cover crops reduce evaporation-driven [[jadam-salt-accumulation-in-soil]].
 - **Control traffic** — designated equipment lanes prevent re-compacting restored areas.
 
 ## Summary

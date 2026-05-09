@@ -18,9 +18,9 @@ type: concept
 
 Smile is a sativa-dominant hybrid [[cannabis-strain-guide-reference]]
 - [[cannabis-sativa]] - Overview of sativa cannabis varieties
-- ak-47-strain - The legendary AK-47 cannabis strain
+- ak-47-strain - The legendary AK-47 [[blesching-cannabis-strain-selection-receptor-targeting]]
 - terpenes - Aromatic compounds including citrus terpenes
-- spanish-cannabis - Cannabis breeding in Spain
+- spanish-cannabis - [[oner-cannabis-breeding-fundamentals]] in Spain
 
 ## See Also
 
@@ -102,4 +102,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -9,7 +9,7 @@ sources: []
 
 # Microfungal Biodiversity — Ecology, Limitations, and Sampling on Wood and Debris
 
-Microfungi — the often-overlooked microscopic fungi — constitute the vast majority of fungal diversity. They colonize wood, leaf litter, soil, living plant surfaces, and virtually every other substratum. Their study presents unique challenges due to their small size, complex life cycles, and the paucity of ecological data.
+Microfungi — the often-overlooked microscopic fungi — constitute the vast majority of [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]. They colonize wood, [[dighton-fungal-decomposition-leaf-litter-dynamics]], soil, living plant surfaces, and virtually every other substratum. Their study presents unique challenges due to their small size, complex [[bloomfield-rust-fungi-life-cycles-barberry-wheat]], and the paucity of ecological data.
 
 ## Scale of Microfungal Diversity
 
@@ -60,7 +60,7 @@ Challenges:
 - Necrotrophs traditionally regarded as strongly host-specific; evidence increasingly contradicts this
 
 ### Succession
-Fungal succession varies at very fine scales:
+[[dighton-fungal-succession-disturbance]] varies at very fine scales:
 - Upper vs. lower internodes of grass stems (Hudson and Webster 1958)
 - Standing vs. uprooted culms (Webster and Dix 1960)
 - Upper vs. lower surfaces of individual fallen leaves (A. Rambelli, Sardinia)
@@ -91,9 +91,9 @@ Distinctive guilds in:
 - Place substratum in humid chamber
 - Induces fruiting of fungi present but not sporulating
 - Particularly useful for litter-inhabiting ascomycetes and small agarics
-- See [[microfungal-life-strategies-wood-plant-debris]]
+- See microfungal-life-strategies-wood-plant-debris
 
 - [[moist-chamber-technique-fungal-fruiting]]
-- [[fungal-culture-media-formulas-applications]]
+- fungal-culture-media-formulas-applications
 - [[tropical-vs-temperate-fungal-diversity]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

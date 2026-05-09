@@ -10,9 +10,9 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Sakai K, Nagamasu H, Ito T. (2000). "Curcuma of Borneo." Acta Phytotaxonomica et Geobotanica.
-  - Theilade I, Theilade S. (2013). "Zingiberaceae of Southeast Asia." Blumea.
+  - Theilade I, Theilade S. (2013). "Zingiberaceae of [[psilocybe-southeast-asia-pacific]]." Blumea.
   - Sirirugsa P. (1999). "Thai Zingiberaceae: Species Diversity and Their Uses." International Meeting on Zoology.
-  - Ong HC, Nordiana NA. (1999). "Use of Traditional Medicine Among the Local Communities in Pantai Acheh, Penang." Journal of Tropical Forest Science.
+  - Ong HC, Nordiana NA. (1999). "Use of Traditional Medicine Among the Local Communities in Pantai Acheh, Penang." Journal of [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] Science.
 ---
 
 # Curcuma mangga
@@ -24,8 +24,8 @@ commonly known as mango turmeric or Javanese turmeric. It is native to Southeast
 Asia, where it grows as a rhizomatous herb in tropical lowland forests.
 
 The species is valued in traditional Javanese and Malay folk medicine for treating
-digestive disorders, skin conditions, and inflammatory ailments. Its rhizomes
-produce an aromatic essential oil with a distinctive mango-like fragrance, which
+digestive disorders, [[cannabis-for-skin-conditions-detailed]], and inflammatory ailments. Its rhizomes
+produce an aromatic [[permaculture-designers-manual-essential-oil-plants]] with a distinctive mango-like fragrance, which
 gives the plant its common name.
 
 Despite its traditional importance, C. mangga remains less commercially cultivated
@@ -85,7 +85,7 @@ some rural areas of Java.
 
 ## Bioactive Compounds and Pharmacology
 
-The rhizomes of C. mangga contain essential oils rich in monoterpenes and
+The rhizomes of C. mangga contain [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] rich in monoterpenes and
 sesquiterpenes. Major volatile constituents include curzerene, germacrone,
 xanthorrhizol, and β-curcumene.
 
@@ -97,7 +97,7 @@ observed in laboratory assays.
 Pharmacological studies have demonstrated anti-inflammatory activity in animal
 models, attributed primarily to xanthorrhizol and germacrone. Antimicrobial
 activity has been reported against Staphylococcus aureus, Escherichia coli, and
-Candida albicans in vitro.
+[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]] in vitro.
 
 Cytotoxic activity against several human cancer cell lines has been observed in
 preliminary screening studies, though clinical evidence remains limited. Further

@@ -9,11 +9,11 @@ sources:
 ---
 # Edible Aquatic Plants for Permaculture
 
-Water plants provide direct food for humans, fish, and other aquatic animals, and oxygenate water. No aquatic system is complete without a diverse range of plants. They fall into four categories: submerged, floating-leaved, emergent, and margin plants. Aquatic systems align with [[hugelkultur-bed-construction-detailed]].
+Water plants provide direct food for humans, fish, and other [[fungi-aquatic-animals-pathogens-parasites]], and oxygenate water. No aquatic system is complete without a diverse range of plants. They fall into four categories: submerged, floating-leaved, emergent, and margin plants. Aquatic systems align with [[hugelkultur-bed-construction-detailed]].
 
 ## Submerged Plants
 
-Submerged plants are valuable in fish production. Only the flowers may rise above water; roots act only as anchors. Transfer of nutrients, CO2, and oxygen takes place over the entire plant surface. Oxygen released during photosynthesis goes directly into the water, benefiting fish and aerobic bacteria that break down organic matter.
+Submerged plants are valuable in fish production. Only the flowers may rise above water; roots act only as anchors. Transfer of nutrients, CO2, and oxygen takes place over the entire plant surface. Oxygen released during photosynthesis goes directly into the water, benefiting fish and aerobic bacteria that break down [[hamilton-composting-and-organic-matter-management]].
 
 ### Plankton (Algae, Bacteria, Flagellates, Diatoms)
 A reasonable balance of these organisms can be gained by introducing water from an established aquatic system such as a lake, creek, or large pond. They form the base of the aquatic food web.
@@ -60,9 +60,9 @@ Warning: do not grow for human consumption in polluted waters. Excessive or prol
 Family: NELUMBONACEAE. Herbaceous perennial to 2 m. Cultivated for seed, leaves (harvested spring), and roots/rhizomes (harvested autumn). Leaves to 1 m diameter. Native to northern Australia; some varieties suited to temperate sites. Every part useful -- one of the most culturally significant aquatic food plants across Asia.
 
 ### Taro (Colocasia esculenta)
-Family: ARACEAE. Possibly the earliest cultivated plant on Earth. Grown in paddy culture like rice or on dry land under irrigation. Requires 6-7 month frost-free period. Both corm and cormel eaten -- nutrition comparable to potato and sweet potato. Leaves and petioles cooked like spinach. Must be cooked. Some cultivars highly salt tolerant. Propagation from small tubers and crown of main tuber.
+Family: ARACEAE. Possibly the earliest cultivated plant on Earth. Grown in paddy culture like rice or on dry land under irrigation. Requires 6-7 month frost-free period. Both corm and cormel eaten -- nutrition comparable to potato and sweet potato. Leaves and petioles cooked like spinach. Must be cooked. Some cultivars highly [[halotolerant-halophilic-fungi-salt-tolerant-diversity]]. Propagation from small tubers and crown of main tuber.
 
-Nutritional composition of leaves per 100g: water 87.2%, energy 40 cal, carbohydrate 7.4 g, fat 0.8 g, protein 3.0 g, calcium 76 mg, iron 1.0 mg, vitamin C 31 mg.
+[[dighton-fungal-nutritional-composition-animal-diets]] of leaves per 100g: water 87.2%, energy 40 cal, carbohydrate 7.4 g, fat 0.8 g, protein 3.0 g, calcium 76 mg, iron 1.0 mg, vitamin C 31 mg.
 
 Nutritional composition of corms per 100g: water 73%, energy 98 cal, carbohydrate 23.7 g, fat 0.2 g, protein 1.9 g, calcium 28 mg, potassium 514 mg, phosphorous 61 mg.
 
@@ -74,7 +74,7 @@ Family: ALISMATACEAE. Several species with edible tubers:
 
 - **S. latifolia**: Occurs at water's edge to 0.5 m depth. Tubers eaten by American Indians ("wapatoo"), said to be as good as potatoes.
 - **S. sagittifolia**: Native of Europe, grows to ~1.5 m, spreads throughout ponds. Walnut-sized roots harvested in autumn.
-- **S. trifolia**: Native to tropical/subtropical Asia, produces 8+ underground stems each with a corm. High in protein (5-7%) for a root crop. Requires 6-7 month growing season.
+- **S. trifolia**: Native to tropical/subtropical Asia, produces 8+ underground stems each with a corm. High in protein (5-7%) for a root crop. Requires 6-7 month [[savory-growing-season-and-non-growing-season-management]].
 
 ### Cattail / Bullrush (Typha spp)
 Family: TYPHACEAE. Narrow linear leaves, tall growing (to 2 m). Occurs throughout the world. Edible parts include:
@@ -110,7 +110,7 @@ Margin plants do not grow in water but derive extra moisture from moist soils at
 ## System Design
 
 - Design ponds with graduated depths: shallow margins for emergents, deeper zones for floating-leaved species
-- Use Azolla as a living nitrogen source in rice paddies and aquaculture systems
+- Use Azolla as a [[comparison-rhizobia-vs-free-living-nitrogen-fixing-bacteria]] source in rice paddies and aquaculture systems
 - Duckweed removes excess nutrients and provides high-protein animal feed
 - Water plants support [[permaculture-plant-selection]] for complete species listings and [[permaculture-plant-selection]]
 - aquatic plants and pond ecosystems

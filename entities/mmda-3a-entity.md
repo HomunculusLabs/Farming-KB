@@ -9,7 +9,7 @@ sources:
 ---
 # MMDA-3a
 
-MMDA-3a (2-Methoxy-3,4-methylenedioxyamphetamine) is a psychedelic amphetamine and one of the "Essential Amphetamines."
+MMDA-3a (2-Methoxy-3,4-methylenedioxyamphetamine) is a psychedelic amphetamine and one of the "[[essential-amphetamines-and-natural-precursors]]."
 
 It is documented as entry #134 in PiHKAL by [[dmmda-2-entity]]|MMDA-2: the 2-methoxy-4,5-methylenedioxy isomer
 - [[phenethylamine-pharmacology]]: general pharmacology
@@ -67,7 +67,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -145,4 +145,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

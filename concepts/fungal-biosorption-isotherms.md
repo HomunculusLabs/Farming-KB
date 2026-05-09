@@ -1,5 +1,5 @@
 ---
-title: Fungal Biosorption Isotherms and Metal Binding
+title: dighton-fungal-biosorption-heavy-metal-remediation Isotherms and chelation-and-metal-binding-in-plants
 created: 2026-04-28
 tags: [biosorption, heavy-metals, fungi, bioremediation, metal-binding]
 date: 2026-04-25
@@ -13,13 +13,13 @@ type: concept
 ## Overview
 
 Biosorption is the non-metabolic binding of metal ions to microbial
-cell wall components. In filamentous fungi, biosorption levels
+[[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] components. In filamentous fungi, biosorption levels
 typically exceed metabolism-dependent bioaccumulation by a significant
 margin. Fungal biosorption has been studied since the 1980s, when
 Rhizopus arrhizus demonstrated uranium and thorium uptake exceeding
 commercial ion-exchange resins. Biosorption is quantified through
 isotherms that plot metal binding as a function of equilibrium metal
-concentration. Maximum uptake for cationic metals by fungal biomass
+concentration. Maximum uptake for cationic metals by [[bioremediation-fungal-biomass-biosorbent-material]]
 generally falls in the range of 0.1 to 1.0 mmol metal per gram dry
 weight, making fungal biomass a potentially valuable biosorbent
 material for treating metal-bearing effluents.
@@ -28,7 +28,7 @@ material for treating metal-bearing effluents.
 
 Biosorption refers strictly to non-active, non-metabolic binding of
 metals to cellular components. Bioaccumulation more accurately
-describes metabolism-dependent uptake involving active transport into
+describes metabolism-dependent uptake involving [[diffusion-osmosis-and-active-transport-in-plants]] into
 the cell interior. For most filamentous fungal species, metabolism-
 dependent uptake is negligible compared with biosorption values.
 Biosorption is largely independent of whether cells are living,
@@ -106,7 +106,7 @@ exist but none has achieved widespread commercial adoption. Challenges
 include inconsistent biomass quality between batches, limited
 regeneration and reuse cycles, competition from established
 technologies such as ion exchange and chemical precipitation, and the
-need for continuous-flow reactor designs. The use of waste fungal
+need for continuous-flow reactor designs. The use of [[cotter-pet-livestock-waste-fungal-remediation-systems]]
 mycelium from industrial fermentation processes could improve economic
 viability by utilizing an existing low-cost biomass source.
 
@@ -122,7 +122,6 @@ Immobilization of fungal biomass on porous carriers combines binding
 properties with the physical characteristics of the support material.
 ## See Also
 
-- [[mycoremediation]]
 - [[mycoremediation]]
 
 ## See Also

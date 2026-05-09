@@ -10,7 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Rao, B.R.R., Kaul, P.N., Syamasundar, K.V. & Ramesh, S. (2005). "Chemical profiles of primary and secondary essential oils of palmarosa (Cymbopogon martinii (Roxb.) Wats var. motia Burk.)." Industrial Crops and Products, 21, 121-127.
+  - Rao, B.R.R., Kaul, P.N., Syamasundar, K.V. & Ramesh, S. (2005). "Chemical profiles of primary and secondary comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap of palmarosa (Cymbopogon martinii (Roxb.) Wats var. motia Burk.)." Industrial Crops and Products, 21, 121-127.
   - Akhila, A. (2010). Essential Oil-Bearing Grasses: The Genus Cymbopogon. Boca Raton: CRC Press.
   - Garg, S.N. & Siddiqui, M.S. (1999). "Variation in essential oil composition of Cymbopogon martinii during plant ontogeny." Journal of Essential Oil Research, 11, 155-157.
   - Dubey, R.C., Dwivedi, D. & Pandey, A.K. (2014). "Antimicrobial activity of Cymbopogon martinii essential oil." Journal of Applied Natural Science, 6, 46-50.
@@ -38,7 +38,7 @@ Two botanical varieties are recognized: var. **motia** (high geraniol, primary c
 - **Species:** C. martinii (Roxb.) Wats.
 - **Synonyms:** Andropogon martinii Roxb., Cymbopogon martini (orthographic variant)
 
-An erect, tufted perennial grass growing 1.5–3.0 m tall with a short, stout rhizome.
+An erect, tufted [[savory-perennial-grass-and-desertification]] growing 1.5–3.0 m tall with a short, stout rhizome.
 
 Leaves are linear-lanceolate, 30–80 cm long and 1–1.5 cm wide, glaucous-green, with a strong aromatic scent when crushed.
 
@@ -105,13 +105,13 @@ The essential oil is applied to joints for rheumatic pain and used as a hair ton
 
 Palmarosa is an excellent multi-functional species for tropical permaculture designs:
 
-- Acts as a **living mulch** and erosion control grass on slopes and bunds
+- Acts as a **[[comparison-living-mulch-vs-cover-crops]]** and [[permplant-willows-salix-erosion-control-fodder]] grass on slopes and bunds
 - Its dense root mat stabilizes soil and reduces runoff
-- Intercropped successfully with food crops including legumes, cereals, and fruit trees
+- Intercropped successfully with food crops including legumes, cereals, and [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
 - Essential oil production provides high-value secondary income
 - Drought-tolerant once established; suitable for rain-fed systems
 - Repels certain insect pests through volatile oil emissions
-- Residue after distillation (grass biomass) returns organic matter to soil
+- Residue after distillation (grass biomass) returns [[hamilton-composting-and-organic-matter-management]] to soil
 
 Suitable for contour planting, [[cymbopogon-citratus]]
 - [[geraniol]]

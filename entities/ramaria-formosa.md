@@ -27,7 +27,7 @@ widely distributed across temperate forests of the Northern Hemisphere.
 
 Known as the **beautiful clavaria** or **pink-tipped coral**, it is among
 the largest and most visually striking Ramaria species found in Europe and
-North America.
+[[psilocybin-north-america-pacific-northwest]].
 
 Despite its attractive appearance, *R. formosa* is considered **toxic** and
 a frequent cause of gastrointestinal poisoning when confused with edible
@@ -110,19 +110,19 @@ taste. Edible species tend to be whiter and milder.
 ## Ecological Role
 
 As an ectomycorrhizal species, *R. formosa* plays an important role in
-forest nutrient cycling. The mycelial network connects with tree root
+forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. The [[gadd-mycelial-network-dynamics]] connects with tree root
 systems, facilitating exchange of soil minerals (phosphorus, nitrogen)
 for photosynthate carbon from host trees.
 
 Fruiting bodies provide a seasonal food source for invertebrates and small
-mammals. Slugs and snails are frequent consumers of Ramaria fruiting
+mammals. [[query-how-to-get-rid-of-slugs-and-snails-organically]] are frequent consumers of Ramaria fruiting
 bodies, while certain beetle species specialize in coral fungus substrates.
 
 The species is an indicator of mature forest ecosystems with intact
-ectomycorrhizal networks. Its presence suggests minimal soil disturbance
+[[symbiotic-fungi-ectomycorrhizal-networks-overview]]. Its presence suggests minimal soil disturbance
 and a healthy diversity of mycorrhizal host trees.
 
-Populations appear sensitive to heavy nitrogen deposition and soil
+Populations appear sensitive to heavy [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] and soil
 acidification, declining in areas with intensive agricultural runoff or
 air pollution.
 

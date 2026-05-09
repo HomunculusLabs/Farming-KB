@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Desjardin DE, Oliveira AG, Stevani CV. (2008). "Fungal bioluminescence: biochemistry and genetic bases." Applied Microbiology and Biotechnology, 81(6), 989-999.
-  - Arora D, Burk WR. (1982). "A preliminary account of the western North American Omphalotus species." Mycotaxon, 15, 309-316.
+  - Arora D, Burk WR. (1982). "A preliminary account of the western [[growing-gourmet-north-american-reishi-species]] Omphalotus species." Mycotaxon, 15, 309-316.
   - Methven AS, Banning JT, Alford RE. (2010). "Omphalotus olivascens." MycoBank, Fungal Nomenclator.
   - Kuo M. (2024). "Omphalotus olearius and allies." MushroomExpert.com.
 created: 2026-04-28
@@ -69,7 +69,7 @@ The fungal luciferin is a hispidin derivative, and the reaction requires molecul
 
 Light emission is continuous under favorable conditions but is not visible in daylight or under artificial lighting.
 
-The biological function of fungal bioluminescence remains debated. Hypotheses include spore dispersal attraction of nocturnal insects, detoxification of reactive oxygen species, and a byproduct of metabolic pathways.
+The biological function of fungal bioluminescence remains debated. Hypotheses include [[aquatic-fungi-spore-dispersal-ingold]] attraction of nocturnal insects, detoxification of reactive oxygen species, and a byproduct of metabolic pathways.
 
 Circadian regulation has been demonstrated in related Omphalotus species, with peak bioluminescence occurring at night.
 
@@ -79,11 +79,11 @@ Illudin S (C₁₅H₂₀O₄, MW 264.32) and illudin M (C₁₅H₂₀O₃, MW 
 
 These compounds are reactive alkylating agents that generate DNA adducts and have been investigated as leads for anticancer drug development.
 
-A semisynthetic derivative of illudin S, irofulven (6-hydroxymethylacylfulvene), reached Phase II clinical trials for treatment of ovarian and prostate cancers.
+A semisynthetic derivative of illudin S, irofulven (6-hydroxymethylacylfulvene), reached Phase II [[mushroom-cancer-clinical-trials-overview]] for treatment of ovarian and prostate cancers.
 
 The fungal luciferin structure was partially characterized in 2015 and fully elucidated in 2018 as 3-hydroxyhispidin.
 
-Additional secondary metabolites include illudalic acid and various sterols with moderate antimicrobial activity.
+Additional [[antifungal-secondary-metabolites-coprophilous-fungi]] include illudalic acid and various sterols with moderate antimicrobial activity.
 
 ## Toxicity
 

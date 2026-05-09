@@ -31,7 +31,7 @@ cubical rot in living hardwoods and conifers.
 
 The species is notable for its unusual morphology, combining poroid fertile surfaces
 with sterile spatulate margins that resemble the gills of agarics. This mixed morphology
-has historically caused taxonomic confusion.
+has historically caused [[neurotropic-fungi-taxonomic-confusion-and-identification]].
 
 It is found across temperate regions of the Northern Hemisphere, fruiting from late
 summer through autumn on standing timber, fallen logs, and occasionally buried roots.
@@ -44,7 +44,7 @@ Originally described as *Boletus biennis* by Bulliard in 1791, Rolf Singer trans
 to *Abortiporus* in 1944. The genus name derives from Latin *abortus* (imperfect) and
 *porus* (pore), referring to the poorly developed pore surface.
 
-**Cap and Fruiting Body:**
+**Cap and [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]:**
 
 Fruiting bodies are effuso-reflexed to pileate, forming rosette-like clusters up to 15 cm
 across. The upper surface is zonate with concentric ridges, ranging in color from pale
@@ -73,7 +73,7 @@ and 2–4 µm in diameter.
 
 ## Distribution and Habitat
 
-*A. biennis* has a broad distribution across temperate Europe, North America, and parts
+*A. biennis* has a broad distribution across temperate Europe, [[psilocybin-north-america-pacific-northwest]], and parts
 of Asia. In Europe it is recorded from Scandinavia to the Mediterranean and eastward
 into Russia. In North America it occurs across southern Canada and the northern United
 States.
@@ -97,15 +97,15 @@ largely intact. Infected wood becomes brittle and fractures into roughly cubic p
 characteristic of brown rot decay.
 
 Brown rot by *A. biennis* is relatively slow-progressing compared to more aggressive
-species like *Serpula lacrymans*. Complete colonization of a large log may take several
+species like *[[fungal-serpula-lacrymans-dry-rot-buildings]]*. Complete colonization of a large log may take several
 years, with the fungus persisting as a saprotroph after the host's death.
 
-*A. biennis* plays a role in forest nutrient cycling by converting woody biomass into
+*A. biennis* plays a role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by converting woody biomass into
 forms accessible to other organisms. The soft, fibrous fruiting bodies are consumed by
 various invertebrates and may serve as food for small mammals.
 
 The species is relatively uncommon throughout its range and is considered a species of
-conservation concern in several European countries. Habitat loss through forest management
+conservation concern in several European countries. Habitat loss through [[mollison-pdc-forest-management-products]]
 practices that remove coarse woody debris has contributed to its decline.
 
 ## Cultivation and Edibility

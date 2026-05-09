@@ -1,5 +1,5 @@
 ---
-title: "Natural Farming vs Permaculture"
+title: "comparison natural farming vs permaculture vs Permaculture"
 created: 2026-04-28
 tags: [comparison, farming-philosophy, natural-farming, permaculture]
 date: 2026-04-25
@@ -28,9 +28,9 @@ Permaculture takes the opposite approach to natural farming in terms of activity
 it is intensely design-oriented and proactive. Rather than stepping back, the
 permaculture designer actively maps zones, sectors, edges, and patterns to create
 systems where "the outputs of one element become the inputs of another." Permaculture
-embraces a wide toolkit including food forests, swales, [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] guilds, animal integration, and [[permaculture-design-process]] begins with a full year of site observation, followed
+embraces a wide toolkit including food forests, swales, [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] guilds, [[mollison-animal-integration-permaculture-design]], and [[permaculture-design-process]] begins with a full year of site observation, followed
 by base mapping, [[water-management]], animal integration,
-and energy systems. Permaculture's zone and sector framework provides clear guidance
+and energy systems. Permaculture's [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]] framework provides clear guidance
 for where to place elements for maximum efficiency and minimum maintenance. It suits
 those who want to actively design their environment and who value a phased, scalable
 approach that can start small and grow over time. The framework's structure helps
@@ -42,9 +42,9 @@ Many practitioners find a middle path between these two philosophies. Permacultu
 zone analysis can identify which areas benefit from natural farming's non-intervention
 (outer zones like Zone 4 and 5) and which need more active management (inner zones).
 Fukuoka's seed ball technique integrates easily into permaculture food forests and
-orchards for establishing ground covers without tilling. Natural farming's "do nothing"
+orchards for establishing [[permaculture-plants-food-forest-ground-covers-bamboos]] without tilling. Natural farming's "do nothing"
 philosophy can temper the tendency toward over-design in permaculture, reminding
-practitioners that observation is more valuable than intervention. Korean Natural
+practitioners that observation is more valuable than intervention. [[query-jadam-vs-korean-natural-farming]]
 Farming preparations can supplement permaculture systems without conflicting with
 either philosophy, adding biological inputs where natural processes need support during
 the transition period from degraded to healthy land.
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: Anaerobic Organisms and Their Role in Soil Systems
+title: ingham anaerobic organisms role soil and Their Role in Soil Systems
 created: 2026-04-28
 tags: [soil-foodweb, anaerobic, microbiology, compost-tea]
 date: 2026-04-28
@@ -29,7 +29,7 @@ organisms.
 
 Based on plant responses to tea, 5.5 to 6 mg oxygen per liter is a
 safe cutoff level. Below 5.5 to 6 mg/L we often see production of
-substances that can cause leaf curl, root death, and burning of the
+substances that can cause [[ingham-leaf-curl-taphrina-disease-control]], root death, and burning of the
 plants. The exact cutoff depends on which problematic organisms you
 have in your soil or compost. The more pathogens that were killed
 during the [[ingham-microscope-identification-soil-biology]] becomes self-sustaining.
@@ -48,15 +48,15 @@ conditions expand to dominate the soil profile.
 
 The presence of certain anaerobic organisms can serve as indicators
 of soil health problems. High populations of facultative anaerobes,
-organisms that can switch between aerobic and anaerobic metabolism,
+organisms that can switch between [[query-what-is-the-difference-between-aerobic-and-anaerobic-composting]] metabolism,
 suggest that the soil experiences frequent or prolonged periods of
 low oxygen. This is a warning sign that soil structure, drainage,
-or organic matter management needs attention. Regular monitoring of
+or [[hamilton-composting-and-organic-matter-management]] management needs attention. Regular monitoring of
 [[compost-tea-brewing]] prevents the development of
 anaerobic conditions and the associated problems. Maintaining
-dissolved oxygen above 6 mg per liter ensures that aerobic organisms
+[[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] above 6 mg per liter ensures that aerobic organisms
 remain dominant and that anaerobic metabolites are not produced.
-This is the fundamental distinction between actively aerated compost
+This is the fundamental distinction between actively [[actively-aerated-compost-tea-aact-brewing]]
 tea and passive methods that allow anaerobic conditions to develop.
 ## See Also
 
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

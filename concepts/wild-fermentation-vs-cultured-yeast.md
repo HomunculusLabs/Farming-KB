@@ -1,5 +1,5 @@
 ---
-title: Wild Fermentation vs Cultured Yeast
+title: Wild wild fermentation vs cultured yeast Yeast
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -29,7 +29,7 @@ Wild fermentation is the oldest form of fermentation. Every traditional fermente
 ### Examples of Wild Fermentation
 
 - Lambic beer: Cooled in open vessels overnight in the Senne Valley near Brussels, inoculated by wild microorganisms
-- Sourdough bread: Uses wild yeast and Lactobacillus from flour and the environment, maintained through regular feeding
+- [[query-how-to-make-sourdough-bread-at-home]]: Uses wild yeast and Lactobacillus from flour and the environment, maintained through regular feeding
 - Natural wine: Fermented with wild yeast from the vineyard and winery
 - Traditional sauerkraut: Lacto-fermented by wild Lactobacillus from cabbage leaves
 - Kvass: Traditional Slavic fermented bread beverage using wild fermentation
@@ -54,7 +54,7 @@ Cultured yeast fermentation uses specific strains of microorganisms that have be
 - Commercial bread baking with baker's yeast (S. cerevisiae)
 - Winemaking with selected wine yeast strains
 - Commercial yogurt and cheese production with defined starter cultures
-- Kombucha brewing with SCOBY cultures
+- [[query-how-does-kombucha-brewing-work]] with SCOBY cultures
 
 ## Advantages of Wild Fermentation
 
@@ -64,7 +64,7 @@ Wild fermentation offers several unique benefits:
 
 - Terroir: Wild fermentation captures the microbial signature of a specific place and time. A sourdough starter from San Francisco will produce different flavors than one from Paris, even with identical flour.
 
-- Resilience: Wild fermentations often involve multiple species that create a self-regulating ecosystem. If one organism produces too much acid, others may be inhibited, creating natural balance.
+- Resilience: Wild fermentations often involve multiple species that create a self-regulating ecosystem. If one organism produces too much acid, others may be inhibited, [[fukuoka-creating-natural-farm-site-selection-establishment]] balance.
 
 - Tradition: Wild fermentation connects the fermenter to thousands of years of human tradition. Many of the world's greatest fermented foods and beverages were developed through wild fermentation.
 
@@ -80,7 +80,7 @@ Wild fermentation also presents real challenges:
 
 - Longer timelines: Wild fermentations often take significantly longer than cultured fermentations. Lambic beer typically requires 1-3 years of aging. Sourdough breads often require long, slow fermentation.
 
-- Technical knowledge: Successful wild fermentation requires deeper understanding of microbial ecology and the ability to monitor and manage the fermentation process.
+- Technical knowledge: Successful wild fermentation requires deeper understanding of [[fukuoka-microbial-ecology-decomposition]] and the ability to monitor and manage the fermentation process.
 
 - Consistency: For commercial producers, inconsistency can be a serious problem.
 
@@ -109,7 +109,7 @@ Key principles for wild fermentation:
 ## See Also
 
 - [[yeast-biology]] for the science of fermentation microorganisms
-- [[knf-yeast-preparation-detailed]] for cultivating wild yeast using Korean Natural Farming methods
+- [[knf-yeast-preparation-detailed]] for cultivating wild yeast using Korean [[comparison-natural-farming-vs-permaculture]] methods
 - [[sourdough-bread-guide]] for maintaining a sourdough culture
 - [[food-fermentation-guide]] for lacto-fermentation with wild bacteria
 - kombucha brewing for a mixed-culture fermentation

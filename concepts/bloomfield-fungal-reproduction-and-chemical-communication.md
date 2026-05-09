@@ -14,7 +14,7 @@ sources:
 
 Fungi "sing" to one another in chemical pulses and answer with developmental changes. Their reproductive strategies range from simple asexual spore production to elaborate sexual cycles involving pheromone communication between mating partners. Chapter 7 of "Mr. Bloomfield's Orchard" explores the mechanisms of [[fruiting-body-development]] formation.
 
-## A[[cannabis-sinsemilla-life-cycle]] follows an endless progression: spore, mycelium, spore, mycelium
+## A follows an endless progression: spore, mycelium, spore, mycelium
 
 A single zygomycete clone from one spore might colonize a kitchen scrap for a house's entire lifetime. The moistened bread experiment (leave a slice on the counter, observe with a magnifying lens after a few days) reveals the complete lifecycle: airborne spore lands, germinates, hyphae colonize the bread, aerial branches produce sporangia, and new spores are released.
 
@@ -124,3 +124,9 @@ Armillaria gallica researchers in Massachusetts found that single mushrooms some
 The development of a mushroom fruiting body remains one of the great unsolved mysteries in biology:
 - A fly [[fungal-chemical-signaling]]
 - [[williams-pdc-non-violent-communication]]
+
+## See Also
+
+- [[bloomfield-fungal-sex-pheromones-mating-communication]]
+
+- [[bloomfield-siren-songs-fungal-chemical-communication-reproduction-chapter-7]]

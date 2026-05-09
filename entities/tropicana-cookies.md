@@ -1,5 +1,5 @@
 ---
-title: Tropicana Cookies (Cannabis Strain)
+title: Tropicana Cookies (blesching-cannabis-strain-selection-receptor-targeting)
 created: 2026-04-28
 type: strain
 tags:
@@ -43,7 +43,7 @@ and the widely popular Mimosa.
 ## Lineage and Genetics
 
 - **Female parent:** Girl Scout Cookies (GSC) — Thin Mint phenotype; contributes
-  cookie dough flavor, dense bud structure, and resin production
+  cookie dough flavor, dense bud structure, and [[cannabis-glandular-trichome-types-resin-production-clarke]]
 - **Male parent:** Tangie — California Orange × Unknown; contributes intense
   tangerine/citrus aroma, sativa-dominant effects, and energetic uplift
 - **Ratio:** Approximately 70% sativa / 30% indica
@@ -109,11 +109,11 @@ and the widely popular Mimosa.
 - **Yield:** Moderate to high; 350–450 g/m² indoors
 - **Height:** Medium to tall; exhibits moderate stretch during early flowering
 - **Plant structure:** Branching sativa growth pattern; responds well to
-  training techniques (LST, ScrOG, topping)
+  [[cannabis-training-techniques-comparison]] (LST, ScrOG, topping)
 - **Nutrient needs:** Moderate to heavy feeder; benefits from increased
   phosphorus and potassium during flowering for enhanced terpene production
 - **Climate preference:** Warm, Mediterranean-like conditions; thrives in
-  controlled indoor environments with good airflow to prevent bud rot
+  controlled indoor environments with good airflow to prevent [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]]
 - **Visual appeal:** Buds turn deep purple with orange pistils and frosty
   white trichomes as they mature; colors intensify with cooler night
   temperatures (below 18°C in late flowering)
@@ -130,6 +130,8 @@ and the widely popular Mimosa.
 
 ## See Also
 
+- [[tropicana-cherries]]
+
 - [[girl-scout-cookies]] — female parent; foundational hybrid
 - [[cannabis-blue-dream]] — complementary sativa-dominant daytime hybrid
-- [[gelato-cannabis]] — cookie-family relative with dessert flavor profile
+- [[gelato]] — cookie-family relative with dessert flavor profile

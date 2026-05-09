@@ -21,9 +21,9 @@ of the most promising developments in psychiatry in decades.
 
 ## Clinical Trial Evidence
 
-Modern clinical research on psilocybin therapy began in the early 2000s
+Modern [[hofmann-lsd-clinical-research-early-studies]] on psilocybin therapy began in the early 2000s
 at Johns Hopkins University and has since expanded to research centers
-around the world. Seminal studies at Johns Hopkins demonstrated that a
+[[fungi-around-the-world-species-distribution]]. Seminal studies at Johns Hopkins demonstrated that a
 single dose of psilocybin, administered in a supportive therapeutic
 setting, could produce mystical-type experiences rated among the most
 meaningful and spiritually significant events of participants' lives.
@@ -37,7 +37,7 @@ in depressive symptoms that are maintained for at least 6 to 12 months
 following treatment. In studies of cancer-related anxiety and depression,
 psilocybin therapy has produced large and sustained decreases in anxiety
 and depression, along with improvements in quality of life, spiritual
-well-being, and attitudes toward death. Research on substance use
+well-being, and [[weil-cultural-attitudes-toward-altered-states]] death. Research on substance use
 disorders has shown promise for reducing alcohol consumption and
 facilitating smoking cessation.
 
@@ -65,7 +65,7 @@ itself is only the beginning of the therapeutic process.
 
 The mechanisms by which psilocybin produces lasting therapeutic effects
 are not fully understood but likely involve both psychological and
-biological processes. The acute psychedelic experience can provide new
+biological processes. The acute [[leary-psychedelic-experience-bardo-mapping]] can provide new
 perspectives on personal problems, facilitate emotional release and
 processing of traumatic memories, and promote a sense of connection and
 meaning. Neurobiologically, psilocybin promotes neuroplasticity by
@@ -119,7 +119,7 @@ The rapid expansion of psilocybin therapy raises several ethical
 considerations. Ensuring equitable access to treatment, preventing the
 exploitation of indigenous knowledge and practices, maintaining rigorous
 safety standards as commercialization accelerates, and respecting patient
-autonomy in the context of altered states of consciousness are all
+autonomy in the context of [[weil-the-natural-mind-altered-states-normalcy]] of consciousness are all
 important challenges facing the field. The integration of psilocybin
 therapy into mainstream healthcare systems will require careful attention
 to training standards, informed consent procedures, and the protection
@@ -128,7 +128,7 @@ of vulnerable populations.
 ## See Also
 
 - [[psilocybin-mushrooms-biology]]
-- psychedelic assisted therapy protocol
+- psychedelic [[metzner-mdma-assisted-therapy-research]] protocol
 - [[psilocybin-depression-anxiety-treatment]]
 
 ## See Also

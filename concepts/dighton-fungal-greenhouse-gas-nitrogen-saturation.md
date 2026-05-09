@@ -17,13 +17,13 @@ type: concept
 # Fungal Greenhouse Gas Dynamics Under Nitrogen Saturation
 
 Nitrogen saturation of forest ecosystems, driven by chronic atmospheric
-nitrogen deposition, alters the microbial pathways of nitrogen
+[[dighton-nitrogen-deposition-mycorrhizal-community-shifts]], alters the microbial pathways of nitrogen
 transformation with consequences for greenhouse gas emissions. As
 ecosystems exceed their nitrogen assimilation capacity, excess nitrogen
 fuels enhanced denitrification and methanogenesis, increasing emissions
 of nitrous oxide (N2O) and methane (CH4). Fungi play indirect but
 significant roles in modulating these fluxes through their effects on
-nitrogen cycling, carbon availability, and soil microbial community
+[[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]], carbon availability, and soil [[edaphic-factors-microbial-community-structure]]
 dynamics.
 
 ## Nitrogen Saturation Threshold
@@ -78,7 +78,7 @@ production under N fertilization.
 ## Nitrogen Leaching and Downstream Effects
 
 Excess nitrate leaching from N-saturated forests affects downstream
-aquatic ecosystems. The transport of dissolved organic nitrogen from
+aquatic ecosystems. The transport of [[dighton-fungal-dissolved-organic-carbon-production]] nitrogen from
 fungal decomposition in terrestrial systems to streams and rivers can
 fuel eutrophication. In aquatic systems, fungal activity contributes
 to dissolved organic carbon and nitrogen budgets, with implications
@@ -91,7 +91,7 @@ The changes in greenhouse gas dynamics under N saturation feed back
 to affect fungal communities. Enhanced denitrification can create
 localized anaerobic microsites that favor different fungal groups.
 Changes in soil pH from nitrification-derived acidity affect
-ectomycorrhizal community composition. The interaction between N
+ectomycorrhizal [[core-endorhiza-bacterial-community-composition-cannabis]]. The interaction between N
 saturation, greenhouse gas production, and fungal community change
 represents a complex feedback loop that is not yet fully understood.
 
@@ -114,5 +114,5 @@ regulation of greenhouse gas fluxes.
 
 ## Sources
 
-- Dighton, J. (2003). Fungi in Ecosystem Processes. Marcel Dekker.
+- Dighton, J. (2003). Fungi in [[fungal-ecosystem-processes-overview]]. Marcel Dekker.
   Chapters 6 and 7.

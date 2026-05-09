@@ -5,13 +5,14 @@ updated: 2026-04-15
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Orchard Floor Management
 
 ## No Clearing, No Bulldozers
 
-Fukuoka's orchard method begins with a radical departure from conventional practice: "A natural farm should be developed without clearing the land." While modern orchards use bulldozers to flatten slopes and build wide roads for mechanization, the natural orchard needs none of this because the only major operation is picking ripened fruit. Vegetation is cut in lateral strips, with trunks, branches, and leaves arranged or buried in trenches along hill contours and left to decompose. Nothing is carried away.
+Fukuoka's orchard method begins with a radical departure from conventional practice: "A natural farm should be developed without clearing the land." While modern orchards use bulldozers to flatten slopes and build wide roads for mechanization, the [[fukuoka-natural-orchard-development]] needs none of this because the only major operation is picking ripened fruit. Vegetation is cut in lateral strips, with trunks, branches, and leaves arranged or buried in trenches along hill contours and left to decompose. Nothing is carried away.
 
 ## The Orchard Ecosystem
 
@@ -27,7 +28,7 @@ The natural orchard functions as a multi-layered ecosystem:
 
 ## Ground Cover Progression
 
-Fukuoka's citrus orchard evolved through three stages:
+Fukuoka's [[fukuoka-citrus-orchard-establishment-bare-hillside]] evolved through three stages:
 1. Cultivation under a cover of natural grasses
 2. Transition to deliberate green manure cultivation
 3. Final state: clover and vegetables with no weeding, tillage, or fertilizer
@@ -48,11 +49,11 @@ Starting goals: prevent weed emergence and mature the soil. First summer, grow b
 
 ## Chickens in the Orchard
 
-Chickens run free through the orchard, performing multiple functions: pest insect control, manure deposition, scratching the soil surface, and breaking down organic matter. Semi-wild vegetables grow in the clover among the trees. The orchard doubles as a vegetable and grain patch.
+Chickens run free through the orchard, performing multiple functions: pest [[mushroom-pests-insect-control-stamets]], manure deposition, scratching the soil surface, and breaking down organic matter. Semi-wild vegetables grow in the clover among the trees. The orchard doubles as a vegetable and grain patch.
 
 ## Against Orchard Weeding
 
-"From my experience, there is no question that weeding in orchards is not only useless, it is positively harmful." Weeding exposes soil to erosion, destroys the ground cover ecosystem, removes organic matter that would become humus, and eliminates habitat for beneficial insects. The natural approach replaces weeds with desired ground covers rather than eliminating all vegetation.
+"From my experience, there is no question that weeding in orchards is not only useless, it is positively harmful." Weeding exposes soil to erosion, destroys the ground cover ecosystem, removes organic matter that would become humus, and eliminates [[query-how-do-i-design-habitat-for-beneficial-insects]] insects. The natural approach replaces weeds with desired ground covers rather than eliminating all vegetation.
 
 ## Why a Ground Cover Matters
 
@@ -64,7 +65,7 @@ One of the most striking aspects of Fukuoka's orchard is that it produces abunda
 
 ## Nitrogen Cycling in the Orchard
 
-The leguminous ground cover plants -- clover, alfalfa, vetch, and soybean -- fix atmospheric nitrogen through their symbiotic relationship with rhizobia bacteria. When these plants are cut or naturally die back, the nitrogen becomes available to the fruit trees. Additionally, the green manure trees (Japanese alder, bay tree) contribute nitrogen from deeper soil layers through leaf litter and root exudates. This natural nitrogen cycling eliminates the need for synthetic nitrogen applications.
+The leguminous ground cover plants -- clover, alfalfa, vetch, and soybean -- fix atmospheric nitrogen through their symbiotic relationship with rhizobia bacteria. When these plants are cut or naturally die back, the nitrogen becomes available to the fruit trees. Additionally, the green manure trees (Japanese alder, bay tree) contribute nitrogen from deeper soil layers through leaf litter and root exudates. This [[jadam-natural-nitrogen-fertilizer]] cycling eliminates the need for synthetic nitrogen applications.
 
 ## The Role of Mulch
 
@@ -73,7 +74,7 @@ All organic material produced in the orchard stays in the orchard. Leaves, prune
 ## See Also
 
 - [[fukuoka-natural-fertility-cycle]] — how orchard floors build soil
-- [[fukuoka-rice-barley-dual-culture]] — Fukuoka's grain production method
+- [[fukuoka-rice-barley-dual-culture]] — Fukuoka's grain [[clay-seed-pellet-production-method-concrete-mixer]]
 - [[fukuoka-road-back-clover-barley-rice-method]]
 - [[fukuoka-citrus-orchard-ground-cover-cultivation]]
 ## Practical Considerations
@@ -94,4 +95,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

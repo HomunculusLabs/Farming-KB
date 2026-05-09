@@ -1,5 +1,5 @@
 ---
-title: "Willow vs Poplar for Coppice and Bioenergy"
+title: "comparison willow vs poplar for coppice and bioenergy for Coppice and Bioenergy"
 created: 2026-04-28
 tags: [willow, poplar, coppice, bioenergy, biomass, short-rotation-coppice, salix, populus, agroforestry]
 date: 2026-04-28
@@ -12,7 +12,7 @@ type: comparison
 
 ## Overview / Summary
 
-Willow (*Salix* spp.) and poplar (*Populus* spp.) are the two most widely planted genera for Short Rotation Coppice (SRC) biomass systems worldwide. Both are fast-growing, woody perennials capable of producing high yields of renewable coppice and pollard systems for woody biomass on relatively short rotations. Willow dominates in cooler, wetter climates (northern Europe, Scandinavia, UK) while poplar is favoured in continental climates with warmer summers and deeper, drier soils (central Europe, [[hamilton-organic-weed-control]], and adequate [[agroforestry]]
+Willow (*Salix* spp.) and poplar (*Populus* spp.) are the two most widely planted genera for Short Rotation Coppice (SRC) biomass systems worldwide. Both are fast-growing, woody perennials capable of producing high yields of renewable [[coppice-and-pollard-systems]] on relatively short rotations. Willow dominates in cooler, wetter climates (northern Europe, Scandinavia, UK) while poplar is favoured in continental climates with warmer summers and deeper, drier soils (central Europe, [[hamilton-organic-weed-control]], and adequate [[agroforestry]]
 - [[pollinator-habitat]]
 ## Background and Context
 
@@ -64,7 +64,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -142,4 +142,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

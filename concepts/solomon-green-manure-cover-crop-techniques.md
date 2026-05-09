@@ -4,14 +4,14 @@
 ## Overview
 
 [[cover-crops]] are interchangeable terms for growing plants whose
-sole purpose is enriching the soil. On a farm scale, cover crops are plowed in
+sole purpose is enriching the soil. On a farm scale, [[gaias-garden-cover-crops-soil-building]] are plowed in
 or knocked down and left to rot on the surface. In gardens, they may be mowed,
 with tops hauled to the compost heap and root systems dug in, or the entire plant
 yanked out by hand and composted. Solomon presents [[vegetable-garden-fertilization]], the situation is the opposite of a permanent pasture. When
 vegetables are growing their fastest, the gardener plants seedlings or sows seeds
 in widely spaced rows. The ground is bare between plants until the crop canopy
 closes, and considerable growth could happen between first frost and hard freezing,
-but the garden is bare then too. Cover cropping fills these gaps.
+but the garden is bare then too. [[fukuoka-clover-cover-cropping-soil-ecology]] fills these gaps.
 
 ## The Downsides — Risks for Gardeners
 
@@ -50,7 +50,7 @@ moisture so thoroughly that the following crop cannot establish.
 The safest approach for gardeners, especially those in cold winter climates:
 
 - **Autumn-sown, winter-killed crops**: Sow cover crops that will be killed by
-  winter frost. Their roots decompose in early spring, giving a much higher
+  winter frost. Their roots decompose in [[coleman-overwintered-onions-and-early-spring-crops]], giving a much higher
   chance of a fine, loose seedbed by spring planting time.
 
 - **Light soil advantage**: Light soils dry out quickly after rain, making spring
@@ -75,9 +75,9 @@ best sources for locally adapted cover crop seed and advice.
 
 ## See Also
 
-- humanure recycling and composting
-- soil organic matter and tilth
-- self sufficiency calorie production
+- [[solomon-humanure-recycling-and-composting]] and composting
+- soil [[hamilton-composting-and-organic-matter-management]] and tilth
+- [[fukuoka-textdoc-basic-agriculture-law-japan-food-self-sufficiency-crisis]] calorie production
 - [[winter-gardening-season-extension]]-and-season-planning
 
 ## References

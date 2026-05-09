@@ -1,5 +1,5 @@
 ---
-title: Pigeons Quail and Waterfowl Systems
+title: Pigeons faires pigeon quail and waterfowl systems Systems
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -10,11 +10,11 @@ sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and.md]
 
 Updated: 2026-04-18
 
-Source: Sheri Faires, The Ultimate Guide to Natural Farming and Sustainable Living
+Source: Sheri Faires, The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]]
 
 ## Pigeons and Quail
 
-Pigeons are kept in cages tall enough for you to walk around inside. Quail can be kept in much smaller cages and up to six can be raised in a square foot (0.09 meters), although for permaculture purposes you would want to give them more space than that. Quail can also live in the greenhouse because they don't eat the plants; pigeons eat seeds and grain, and quail eat insects. They provide eggs and meat and like rabbits can be legally grown in the city. For people who live in urban locations and are not able to raise chickens, pigeons and quail are sometimes allowed (although not necessarily in the quantities you will want to raise). Quail are considered wildlife, and in many places you may need to get a game bird license.
+Pigeons are kept in cages tall enough for you to walk around inside. Quail can be kept in much smaller cages and up to six can be raised in a [[comparison-biointensive-vs-square-foot-gardening]] (0.09 meters), although for [[permaculture]] purposes you would want to give them more space than that. Quail can also live in the greenhouse because they don't eat the plants; pigeons eat seeds and grain, and quail eat insects. They provide eggs and meat and like rabbits can be legally grown in the city. For people who live in urban locations and are not able to raise chickens, pigeons and quail are sometimes allowed (although not necessarily in the quantities you will want to raise). Quail are considered wildlife, and in many places you may need to get a game bird license.
 
 A breeding pair of pigeons can produce twelve squabs, or baby pigeons, per year. Squabs are considered a gourmet dish and are incredibly easy to raise. Quail lay about 200 eggs a year (almost every day), depending on how much light they have. If you add lighting during the winter, they can produce 300 or more. Unlike pigeons, quail aren't very good at brooding their own eggs, and like chickens, they need a little extra help. They are more often raised for the eggs than for their meat, because they are smaller than pigeons but lay more eggs.
 
@@ -38,9 +38,9 @@ The best system is an enclosed area just for ducks around a small pond with an i
 
 ### Duck Care
 
-If the ducks have adequate water, a grassy yard with new grass, and a forage garden with bugs in it, then you won't need much extra feed. Ducks need young grass to eat, and if their pasture is too small and unvaried, they will quickly destroy a grassy backyard. If you must give them additional food, wheat is the best grain for ducks and goes well with oats. Hard round fruits and vegetables need to be crushed for them first. Liquid milk and hard-boiled eggs are good sources of protein for laying birds, and all ducks need calcium from eggshells or seashells, and grit. Ducks, unlike other poultry, need a little more niacin in their diet, but lots of fresh greens or peas should be enough.
+If the ducks have adequate water, a grassy yard with new grass, and a forage garden with bugs in it, then you won't need much extra feed. Ducks need young grass to eat, and if their pasture is too small and unvaried, they will quickly destroy a grassy backyard. If you must give them additional food, wheat is the [[query-best-grain-legumes-for-a-small-homestead]] for ducks and goes well with oats. Hard round fruits and vegetables need to be crushed for them first. Liquid milk and hard-boiled eggs are good sources of protein for laying birds, and all ducks need calcium from eggshells or seashells, and grit. Ducks, unlike other poultry, need a little more niacin in their diet, but lots of fresh greens or peas should be enough.
 
-In turn, they will give you eggs, meat, feathers, pest control, and fertilizer.
+In turn, they will give you eggs, meat, feathers, [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], and fertilizer.
 
 ### Duck Housing
 
@@ -78,7 +78,8 @@ Goslings raised in a brooder need 1.5 square feet per bird until 7 weeks and the
 
 ## Related Concepts
 
-- [[faires-comprehensive-food-preservation-guide]]
-- [[faires-zone-and-sector-planning]]
+- faires-comprehensive-food-preservation-guide
+- faires-zone-and-sector-planning
 - [[jadam-fruit-tree-winter-pest-control]]
 - [[holzer-poultry-keeping-ducks-geese-and-chickens]]
+- [[natural-farming]]

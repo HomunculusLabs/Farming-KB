@@ -1,5 +1,5 @@
 ---
-title: Cannabis KNF FFJ Ripeness Progression Through Flowering
+title: Cannabis cannabis knf ffj ripeness progression Ripeness Progression Through Flowering
 created: 2026-04-28
 tags: [knf, cannabis, fermentation, flowering, organic-cultivation]
 date: 2026-04-28
@@ -10,10 +10,10 @@ type: concept
 
 # Cannabis KNF FFJ Ripeness Progression Through Flowering
 
-Fermented Fruit Juice (FFJ) is one of the most important inputs in
+[[bionutrients-lab-fermented-fruit-juice-ffj]] Juice (FFJ) is one of the most important inputs in
 [[master-cho]]'s KNF
 system involves progressively matching the ripeness stage of fruits used
-in FFJ to the corresponding stage of the cannabis flower cycle. This
+in FFJ to the corresponding stage of the [[cervantes-cannabis-flower-anatomy]] cycle. This
 ripeness progression strategy was documented by Geo Farms and Country
 Roots as part of their Modern [[knf-fermented-fruit-juice]] for general FFJ preparation methods
 - [[master-cho-knf-ffj-fermented-fruit-juice-guide]] for Master Cho's
@@ -95,4 +95,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

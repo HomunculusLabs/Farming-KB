@@ -96,7 +96,7 @@ It treats atrial fibrillation and ventricular arrhythmias, though newer agents h
 
 **Other effects:** Cinchona bark extracts exhibit bitter tonic properties (stimulating appetite and digestion), mild antipyretic activity, and in vitro antimicrobial effects.
 
-**⚠️ Safety:** Cinchona alkaloids have a narrow therapeutic index. Quinine toxicity (cinchonism) presents as tinnitus, headache, nausea, visual disturbances, and in severe cases, hypotension, cardiac arrhythmias, and thrombocytopenia.
+**⚠️ Safety:** Cinchona alkaloids have a narrow [[cannabis-therapeutic-index-overview]]. Quinine toxicity (cinchonism) presents as tinnitus, headache, nausea, visual disturbances, and in severe cases, hypotension, cardiac arrhythmias, and thrombocytopenia.
 
 Typical therapeutic dose: 500–600 mg quinine three times daily for malaria.
 
@@ -108,7 +108,7 @@ Quinine is also present in tonic water (~83 mg/L in US, ~20 mg/L in EU formulati
 
 Trees require partial shade during establishment, transitioning to full sun as canopy develops.
 
-**Soil:** Deep, well-drained, acidic to neutral soils (pH 5.0–6.5) rich in organic matter. Volcanic loams are ideal.
+**Soil:** Deep, well-drained, acidic to neutral soils (pH 5.0–6.5) rich in [[hamilton-composting-and-organic-matter-management]]. Volcanic loams are ideal.
 
 **Propagation:** Primarily from seed (germination 2–4 weeks). Vegetative propagation via cuttings and grafting preserves high-alkaloid clones.
 
@@ -116,9 +116,9 @@ Seedlings are transplanted at 6–12 months.
 
 **Bark harvest:** Trees are harvested at 6–12 years by stripping bark from trunk and branches. Bark regenerates over 3–5 years for sustainable cycles.
 
-**Permaculture applications:** Cinchona serves as a productive overstory tree in tropical agroforestry, providing shade for coffee, cacao, and medicinal herbs.
+**Permaculture applications:** Cinchona serves as a productive overstory tree in tropical agroforestry, providing shade for coffee, cacao, and [[permaculture-plants-medicinal-herbs-healing]].
 
-Its deep root system prevents soil erosion on Andean slopes, and leaf litter adds organic matter to forest soils.
+Its deep root system prevents soil erosion on Andean slopes, and [[dighton-fungal-decomposition-leaf-litter-dynamics]] adds organic matter to forest soils.
 
 In [[food-forest]] systems (USDA 10–12).
 
@@ -145,4 +145,4 @@ Synthetic antimalarials (chloroquine, 1934; artemisinin, 1972) have largely repl
 ## See Also
 
 - `[[camellia-sinensis-entity]]` — Tea, a common understory companion in Cinchona agroforestry
-- `[[piper-nigrum-entity]]` — Black pepper, another tropical spice tree in agroforestry systems
+- `[[piper-nigrum-entity]]` — [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], another tropical spice tree in agroforestry systems

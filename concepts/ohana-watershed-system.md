@@ -9,19 +9,19 @@ sources:
 ---
 # Ohana Watershed System
 
-The ancient Hawaiian land division known as the Ohana system is, in Mollison's view, one of the most sophisticated and complete examples of integrated [[permaculture-community-scale-design]] that sustained large populations for centuries before European contact.
+The ancient Hawaiian land division known as the Ohana system is, in Mollison's view, one of the most sophisticated and complete examples of integrated permaculture-community-scale-design that sustained large populations for centuries before European contact.
 
 ## The Ohana Division
 
 The Hawaiian Ohana divided each island into districts that followed the natural topographic boundaries -- the ridges between valleys. Each district ran from the mountain ridge to the surrounding reef, including the section of lagoon between the shoreline and the river, and extending over the reef itself. "These very logical districts imparted control of the entire watershed from its origins to its discharge into the sea and beyond."
 
-The Ohana is not just a land division but a social-ecological unit: "If you belonged to an Ohana, you belonged to a valley and a set of fields and a fish pond and a reef section. They guarded right out to the reef and over the reef by building underwater structures. Thus they created reef structures for additional fish shelter. The people were an integral part of this whole system. The Ohana is a totality."
+The Ohana is not just a land division but a social-ecological unit: "If you belonged to an Ohana, you belonged to a valley and a set of fields and a [[knf-fish-pond-integration]] and a reef section. They guarded right out to the reef and over the reef by building underwater structures. Thus they created reef structures for additional fish shelter. The people were an integral part of this whole system. The Ohana is a totality."
 
 Mollison emphasizes that the word Ohana means the people are an integral part of the division. It is not merely a land management technique but a complete social and ecological integration: "Its watershed, its people, its nutrient flow, its animals, everything, is a single, indivisible unit."
 
 ## Keyline Irrigation
 
-The Hawaiians independently invented what P.A. Yeomans would later formalize as the [[watershed-management]], where the loss of nutrients from agricultural land to waterways is one of the most significant pollution problems worldwide.
+The Hawaiians independently invented what P.A. Yeomans would later formalize as the [[watershed-management]], where the loss of nutrients from [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] to waterways is one of the most significant pollution problems worldwide.
 
 ## Forest Management
 
@@ -33,7 +33,7 @@ The [[permaculture-design]] eye to understand the water-harvesting and wind-mana
 
 ## Climate Games on High Islands
 
-High islands (over 1,000 feet) create their own microclimates. The windward side receives heavy orographic rainfall and supports rain forest. The leeward side is dry. "You can play all sorts of climate games downhill" -- descending from temperate species at elevation to ultra-tropical species at sea level. Mollison notes that "low light tolerance trees go up here, too, because they are almost always mists around the higher area."
+High islands (over 1,000 feet) create their own microclimates. The windward side receives heavy orographic rainfall and supports rain forest. The leeward side is dry. "You can play all sorts of climate games downhill" -- descending from temperate species at elevation to ultra-tropical species at sea level. Mollison notes that "[[darkness-low-light-facilitation-entheogenic-ceremonies]] tolerance trees go up here, too, because they are almost always mists around the higher area."
 
 Mist often "curiously reproduces the whole shape of the island in the air above it." The forest works its way down the hillside by means of soil storage of water, creating additional precipitation through condensation. "The forest always beats rainfall in terms of water storage." Fresh water often travels out beyond the island and bubbles up in the sea as visible springs -- known to divers and peoples who spend much time near the coast.
 
@@ -42,8 +42,8 @@ These principles of [[permaculture-principles]] of catching and storing energy, 
 ## See Also
 
 - [[water-harvesting-techniques-comparison]]
-- [[island-permaculture-design]]
-- [[forests-in-permaculture]]
+- island-permaculture-design
+- forests-in-permaculture
 - [[watershed-management]]
 ## Practical Considerations
 
@@ -61,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

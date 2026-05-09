@@ -8,7 +8,7 @@ sources: []
 ---
 # CPM
 
-**PIHKAL Entry #37** -- Cyclopropylmescaline;
+**[[2c-b-pihkal-entry-20]] #37** -- Cyclopropylmescaline;
 4-Cyclopropylmethoxy-3,5-dimethoxyphenethylamine
 
 ## Chemical Name
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

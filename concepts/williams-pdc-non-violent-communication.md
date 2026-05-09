@@ -1,18 +1,15 @@
 ---
-title: Williams Pdc Non Violent Communication
+title: Williams [[williams-pdc-appropriate-technology]] non violent communication Violent Communication
 created: 2026-04-28
-tags: [[permaculture, non-violent-communication, community, conflict,
-      governance]
+tags: [permaculture, non-violent-communication, community, conflict, governance]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  [/Users/t3rpz/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+sources: [/Users/t3rpz/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-
 # Non-Violent Communication in [[permaculture-principles]]
 
-NVC directly reflects several permaculture principles:
+NVC directly reflects several [[query-what-are-the-12-permaculture-principles]]:
 
 - **[[permaculture-design]] work.
 
@@ -31,7 +28,7 @@ help integrate diverse perspectives into stronger, more comprehensive
 design solutions rather than allowing conflict to undermine the
 collaborative process.
 
-See also: [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]]
+See also: [[legume-nitrogen-fixation-and-green-manure]]
 ## Practical Applications
 
 Williams Pdc Non Violent Communication has a range of practical applications that make it relevant to
@@ -49,7 +46,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -99,7 +96,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -109,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

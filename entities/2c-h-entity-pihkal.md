@@ -1,5 +1,5 @@
 ---
-title: "2C-H (2,5-Dimethoxy-PEA) -- PIHKAL Entry #32"
+title: "2C-H (2,5-Dimethoxy-PEA) -- 2c-b-pihkal-entry-20 #32"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -41,7 +41,7 @@ that can stem from a lithium atom.
 
 A solution of 50 g 2,5-dimethoxybenzaldehyde in 100 g
 nitromethane was treated with 5 g of anhydrous ammonium acetate, and
-heated on the steam bath for 4 h. The solution was decanted from a
+heated on the [[scythian-cannabis-steam-bath-ritual]] for 4 h. The solution was decanted from a
 little insoluble material, and the solvent removed under vacuum. The
 clear oily residue was dissolved in 100 mL boiling IPA which, after
 standing a moment, set up as dense crystals. After returning to room
@@ -64,7 +64,7 @@ complete conversion of the aluminum salts to a loose, white,
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

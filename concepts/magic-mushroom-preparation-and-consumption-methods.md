@@ -1,5 +1,5 @@
 ---
-title: "Magic Mushroom Preparation and Consumption Methods"
+title: "Magic magic mushroom preparation and consumption methods and Consumption Methods"
 created: 2026-04-26
 tags:
   - preparation
@@ -19,15 +19,15 @@ type: concept
 ## Traditional and Modern Methods of Preparing and Consuming Psilocybin
 ## Mushrooms
 
-The ways in which magic mushrooms have been prepared and consumed vary
+The ways in which [[guzman-magic-mushrooms-african-species]] have been prepared and consumed vary
 enormously across cultures, historical periods, and individual
-preferences. From ancient ritual preparations to modern culinary
+preferences. From [[marijuana-magick-ancient-ritual-use-cannabis]] preparations to modern culinary
 experiments, the methods of ingestion reflect both practical
 considerations and cultural meanings.
 
 ## Fresh Consumption
 
-Mushrooms of all kinds may be eaten fresh. Fresh Psilocybe cubensis
+Mushrooms of all kinds may be eaten fresh. Fresh [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 mushrooms have a pleasant peppery taste, making them relatively easy to
 consume raw. However, Liberty Caps have a greasy, rancid aftertaste,
 and when dried they acquire the texture of boot leather, which makes
@@ -43,7 +43,7 @@ typical stomach aches and gripes that accompany consumption. The practice
 of brewing mushroom tea has deep historical roots. Some scholars have
 suggested that participants at the ancient Greek rites of
 [[amanita-muscaria-chemistry-and-pharmacology]],
-drying converts ibotenic acid into the more desirable muscimol through
+drying converts [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] into the more desirable muscimol through
 decarboxylation, maximising the concentration of the more psychoactive
 compound. The Siberian practice of drying the mushroom before
 consumption turns out to have a sound biochemical basis.
@@ -75,7 +75,7 @@ safe and supportive environment) still holds true. The method of
 preparation is itself part of the set and setting: a carefully brewed
 cup of mushroom tea with ginger, consumed in a peaceful environment,
 produces a very different experience from eating raw dried mushrooms
-hurriedly. One British mushroom seller cautioned users not to operate any
+hurriedly. One [[robert-graves-british-mushroom-connection]] seller cautioned users not to operate any
 equipment more technically demanding than a kettle.
 
 ## Siberian Preparations

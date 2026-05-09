@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Cannabis Grow Bible, Greg Green (Ch. 2, 3, 7)
+Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, Greg Green (Ch. 2, 3, 7)
 
 Male cannabis plants are essential for breeding but are typically removed in sinsemilla (seedless) grows. Understanding male identification and management is critical for both scenarios.
 

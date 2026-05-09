@@ -1,5 +1,5 @@
 ---
-title: Psilocybe Genus Taxonomy and Chemistry
+title: Psilocybe psilocybe genus taxonomy and chemistry and Chemistry
 source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 topics: mycology, taxonomy, psilocybin, chemistry, classification
 ---
@@ -7,7 +7,7 @@ topics: mycology, taxonomy, psilocybin, chemistry, classification
 # Psilocybe Genus Taxonomy and Chemistry
 
 The genus Psilocybe is the largest and most taxonomically complex group
-of neurotropic fungi, containing 116 of the 216 species documented by
+of [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]], containing 116 of the 216 species documented by
 Guzmán, Allen, and Gartz. Understanding Psilocybe taxonomy requires
 navigating significant historical confusion, misidentifications,
 contradictory [[psilocybe-aztecorum-section-aztecorum-alpine-neurotropic-fungi-guzman-1998]] elong to the following sections:
@@ -20,7 +20,7 @@ brain, particularly the 5-HT2A receptor.
 ## Volatility and Degradation
 
 An important finding documented in the paper is that psilocybin and
-psilocin are volatile compounds that degrade over time. Repke et al.
+psilocin are [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] that degrade over time. Repke et al.
 (1977) showed variations in baeocystin content according to specimen
 age, with no trace of indoles detectable in specimens analyzed 20-60
 days after collection.
@@ -38,9 +38,7 @@ and the hallucinations stopped when he left the room for fresh air —
 suggesting volatile psilocybin-related compounds can be absorbed through
 inhalation.
 
-## Problems of Misidentification
-
-[[guzman-allen-gartz-panaeoloid-fungi-taxonomy-and-distribution]].
+## Problems of Mis.
 
 ## Doubtful Reports
 
@@ -53,7 +51,7 @@ fibula, Gymnopilus fulgens, G. spectabilis, and Hygrocybe psittacina.
 
 ## Taxonomic Synonymy Issues
 
-Significant taxonomic confusion exists around several species. P.
+Significant [[neurotropic-fungi-taxonomic-confusion-and-identification]] exists around several species. P.
 coprinifacies was considered doubtful by Guzmán (1983) but recognized by
 European authors. Krieglsteiner (1986) considered P. bohemica, P. maire,
 and P. serbica to be synonyms of P. cyanescens. Panaeolus antillarum is
@@ -82,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

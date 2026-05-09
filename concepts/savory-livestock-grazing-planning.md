@@ -1,7 +1,7 @@
 ---
 title: Planned Grazing and Livestock Management
 created: 2026-04-26
-aliases: [holistic planned grazing, grazing planning, stock density, recovery periods]
+aliases: [holistic planned grazing, grazing planning, [[savory-fencing-economics-and-stock-density-curve]], recovery periods]
 tags: [grazing, livestock, planned-grazing, animal-impact, stock-density]
 related: [savory-holistic-management-overview, savory-brittle-environments, savory-desertification-causes]
 type: concept
@@ -12,7 +12,7 @@ updated: 2026-04-26
 
 # Planned Grazing and Livestock Management
 
-Planned grazing is the centerpiece of Holistic Resource Management's practical application. It represents a fundamental departure from both continuous grazing and rigid rotational systems, instead using flexible planning that adapts to ever-changing conditions in nature.
+Planned grazing is the centerpiece of [[savory-holistic-resource-management-animal-impact]] Management's practical application. It represents a fundamental departure from both continuous grazing and rigid rotational systems, instead using flexible planning that adapts to ever-changing conditions in nature.
 
 ## The Time Dimension: The Fourth Missing Key
 
@@ -41,7 +41,7 @@ Stock density—the number of animals per unit area at any given moment—is dis
 - **Soil surface disturbance**: Breaking capped surfaces and chipping the soil
 - **Litter incorporation**: Trampling old plant material onto bare soil as mulch
 - **Seedbed preparation**: Creating conditions for new seedlings to establish
-- **Even grazing**: Preventing selective grazing by concentrating animals so they consume all available forage
+- **Even grazing**: Preventing [[dighton-selective-grazing-fungal-community-shifts]] by concentrating animals so they consume all available forage
 
 As paddocks are subdivided and stock density increases, the effect on the land changes dramatically. On the Barlite Ranch in Texas, land near watering points subjected to high animal impact showed dense, complex grassland growing right up to the water, while undisturbed land nearby showed widening bare spaces between plants.
 
@@ -80,11 +80,11 @@ Domesticated livestock, protected from predators, lose this natural behavioral p
 
 ## Monitoring Daily Growth Rate
 
-Where few paddocks exist, monitoring plant growth rates every few days during the growing season is essential. On bunch grass ranges, the most straightforward procedure involves finding and marking severely grazed plants alongside ungrazed plants of the same species as livestock leave each paddock. Periodically returning to these marked plants and comparing them to the ungrazed controls reveals recovery rates and indicates whether the grazing schedule needs adjustment.
+Where few paddocks exist, monitoring plant growth rates every few days during the [[savory-growing-season-and-non-growing-season-management]] is essential. On bunch grass ranges, the most straightforward procedure involves finding and marking severely grazed plants alongside ungrazed plants of the same species as livestock leave each paddock. Periodically returning to these marked plants and comparing them to the ungrazed controls reveals recovery rates and indicates whether the grazing schedule needs adjustment.
 
 ## Results and Evidence
 
-After eight years of planned grazing on the Barlite Ranch in Texas, dramatic improvements were documented: dense grassland replacing bare ground, active erosion healing, and disappearance of locoweed. Similar results have been achieved across thousands of ranches worldwide. Production per acre increases even as costs per acre decrease, because the health of the ecosystem foundation blocks—water cycle, mineral cycle, succession, and energy flow—is simultaneously improving.
+After eight years of planned grazing on the Barlite Ranch in Texas, dramatic improvements were documented: dense grassland replacing bare ground, active erosion healing, and disappearance of locoweed. Similar results have been achieved across thousands of ranches worldwide. Production per acre increases even as costs per acre decrease, because the health of the [[savory-ecosystem-foundation-blocks]] blocks—water cycle, [[savory-mineral-cycle-management]], succession, and energy flow—is simultaneously improving.
 
 ## Sources
 
@@ -93,6 +93,9 @@ After eight years of planned grazing on the Barlite Ranch in Texas, dramatic imp
 
 ## See Also
 
-- [[permaculture-designers-manual-grazing-management]]
+- permaculture-designers-manual-grazing-management
 - [[livestock-fencing-guide]]
 - [[homestead-financial-planning]]
+- [[seasonal-planning]]
+- [[desertification]]
+- [[savory-land-planning-and-grazing-cell-design]]

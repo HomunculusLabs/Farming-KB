@@ -1,5 +1,5 @@
 ---
-title: Arbuscular Mycorrhizal Proteomics Techniques
+title: comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi Proteomics Techniques
 created: 2026-04-28
 tags: [proteomics, mycorrhiza, AMF, protein-analysis, functional-genomics]
 date: 2026-04-25
@@ -14,10 +14,10 @@ culture with root-inducing transferred-DNA (Ri T-DNA) transformed
 roots. A split-plate system allows separate compartments for root
 colonization and extraradical [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]] Topics
 
-- symbiotic fungi arbuscular [[mycorrhizal-proteomics]] techniques
+- [[mycelium-running-symbiotic-fungi-relationships]] arbuscular [[mycorrhizal-proteomics]] techniques
 ## Background and Context
 
-Arbuscular Mycorrhizal Proteomics Techniques is an important subject that has garnered significant attention
+[[arbuscular-mycorrhizal-colonization-patterns]] Proteomics Techniques is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough
@@ -65,7 +65,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -144,3 +144,6 @@ conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
 
+## See Also
+
+- mycorrhizal-proteomics-techniques

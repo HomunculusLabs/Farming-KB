@@ -1,5 +1,5 @@
 ---
-title: "The Dharma Wheel, Civilization, and Collapse"
+title: "The fukuoka-dharma-wheel-theory-evolution, Civilization, and Collapse"
 created: 2026-04-28
 tags:
   - fukuoka
@@ -40,7 +40,7 @@ In the earliest age, humans lived in perfect harmony with nature. They
 did not cultivate the land but gathered what nature provided. They did
 not build permanent structures but moved with the seasons. They did not
 accumulate possessions but took only what they needed. Fukuoka describes
-this as a state of innocence, comparable to the Garden of Eden in Western
+this as a state of innocence, comparable to the [[allegro-garden-of-eden-and-delight]] in Western
 tradition or the Age of the Gods in Japanese mythology.
 
 With the invention of agriculture, the wheel began its downward turn.
@@ -68,7 +68,7 @@ understanding that the agricultural revolution represented a fall.
 This does not mean Fukuoka advocates returning to hunter-gatherer life.
 Rather, he argues that agriculture can be practiced in a way that
 approximates the harmony of the hunter-gatherer relationship with nature.
-Natural farming is agriculture without the fall — growing food that works
+[[comparison-natural-farming-vs-permaculture]] is agriculture without the fall — growing food that works
 with natural processes rather than against them.
 
 ## The Parallel Between East and West
@@ -139,6 +139,8 @@ approaches the land with humility rather than arrogance, with observation
 rather than intervention, with trust rather than control.
 
 ## See Also
+
+- [[fukuoka-dharma-wheel-theory-evolution]]
 
 - [[fukuoka-textdoc-errors-of-human-intellect]]
 - [[fukuoka-textdoc-okuninushi-sack-parable-nature-unknowable]]

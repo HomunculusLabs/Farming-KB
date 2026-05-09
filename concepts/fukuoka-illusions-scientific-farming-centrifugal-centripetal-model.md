@@ -1,5 +1,5 @@
 ---
-title: Fukuoka on the Illusions of Modern Scientific Farming and the Centrifugal-Centripetal Model
+title: Fukuoka on the Illusions of Modern fukuoka illusions scientific farming centrifugal centripetal model and the Centrifugal-Centripetal Model
 created: 2026-04-28
 tags: [fukuoka, natural-farming, scientific-farming, centrifugal, centripetal, modern-agriculture, do-nothing, green-philosophy, mechanization, energy-efficiency]
 date: 2026-04-28
@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-Masanobu Fukuoka's critique of modern scientific farming centers on the observation that scientific agriculture creates the very problems it then claims to solve. Through a geometric model of centrifugal expansion versus centripetal convergence, Fukuoka argued that scientific farming is inherently unsustainable because it requires ever-increasing inputs of energy, technology, and labor, while [[natural-farming]] is centripetal and convergent:
+Masanobu Fukuoka's [[fukuoka-road-critique-of-modern-science]] scientific farming centers on the observation that [[fukuoka-critique-scientific-agriculture-civilization]] creates the very problems it then claims to solve. Through a geometric model of centrifugal expansion versus centripetal convergence, Fukuoka argued that scientific farming is inherently unsustainable because it requires ever-increasing inputs of energy, technology, and labor, while [[natural-farming]] is centripetal and convergent:
 
 - Its objective is non-action and a return to nature
 - It eliminates unnecessary practices, expenditures, and labor
@@ -38,23 +38,25 @@ The plow serves as Fukuoka's primary example: "Flood a field with water, stir it
 
 Fukuoka provided quantitative evidence for the energy inefficiency of scientific farming:
 
-- [[natural-farming]] from what he called organic farming:
+- [[natural-farming]] from what he called [[coleman-deep-organic-farming-philosophy]]:
 
 > "Even organic farming, which everyone is making such a big fuss over lately, is just another type of scientific farming. A lot of trouble is taken to move organic materials first here then there, to process and treat. But any gains to be had from all this activity are local and temporal gains. In fact, when examined from a broader perspective, many such efforts to protect the natural ecology are actually destructive."
 
-The key distinction is that organic farming still intervenes (composting, tilling, crop rotation as deliberate practice), while natural farming relies on natural processes without human orchestration.
+The key distinction is that organic farming still intervenes (composting, tilling, crop rotation as deliberate practice), while [[comparison-natural-farming-vs-permaculture]] relies on natural processes without human orchestration.
 
 ## The Shrines as Evidence
 
 Fukuoka pointed to the tall trees surrounding Japanese village shrines as evidence that nature produces abundance without human management:
 
-- These trees were not grown with the aid of nutrition science
+- These trees were not grown with the aid of [[duggar-mushroom-nutrition-science-fermentation-biological-requirement]]
 - They were not protected by plant ecology
 - Saved from the axe and saw, they "grew into large trees of their own accord"
 
 This observation encapsulates his entire philosophy: left alone, nature achieves what scientific agriculture struggles to approximate through ever-increasing intervention.
 
 ## See Also
+
+- fukuoka-centrifugal-centripetal-farming-model-comparison
 
 - [[fukuoka-centrifugal-centripetal-farming-model]]
 
@@ -79,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

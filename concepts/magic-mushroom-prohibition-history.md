@@ -1,9 +1,9 @@
 ---
-title: Magic Mushroom Prohibition History
+title: Magic magic-mushroom-prohibition-and-uk-drug-policy History
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "Letcher - Shroom: A Cultural History of the Magic Mushroom"
+  - "Letcher - Shroom: A shroom-cultural-history-hippie-revolution-and-counterculture of the Magic Mushroom"
 type: concept
 tags: [history, mushroom-cultivation]
 ---
@@ -11,7 +11,7 @@ tags: [history, mushroom-cultivation]
 # Magic Mushroom Prohibition History
 
 The prohibition of [[psychedelic-prohibition-and-the-war-on-consciousness]]. Unlike cannabis, opium,
-or cocaine, magic mushrooms were largely unknown to Western legislators when they were criminalised. Their
+or cocaine, [[guzman-magic-mushrooms-african-species]] were largely unknown to Western legislators when they were criminalised. Their
 proscribed status resulted not from any demonstrated social harm but from structural similarity to
 [[psilocybin-isolation-and-early-scientific-research]] is typically listed alongside heroin
 as among the most dangerous of illicit drugs -- a classification that would strike most mycologists and
@@ -34,13 +34,13 @@ prevent indigenous [[history-psychedelics-ancient]] were integral to
   to the National Poisons Information Service at Guy's Hospital increased from 47 in 1979 to 142 in 1981. A
   survey in Scotland found that twenty per cent of school children in Tayside had at least heard of magic
   mushrooms, if not actually tried them.
-- **Dangerous identification**: The black market created genuine risks. In Australia, one death from renal
+- **Dangerous identification**: The [[hofmann-lsd-black-market-and-dangers]] created genuine risks. In Australia, one death from renal
   failure was almost certainly caused by picking the wrong mushroom. In America, [[magic-mushroom-prohibition-and-uk-drug-policy]]
 
 - [[1960s-counterculture-and-magic-mushrooms]]
 - [[psychedelic-mushroom-decriminalization]]
 - [[wasson-rediscovery-of-psilocybin]]
-- [[mexican-inquisition-against-mushroom-cults]]
+- mexican-inquisition-against-mushroom-cults
 ## Practical Considerations
 
 When working with Magic Mushroom Prohibition History, several practical factors should be
@@ -57,7 +57,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,4 +99,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

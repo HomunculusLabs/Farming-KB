@@ -21,7 +21,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Green, J.M. (2021). 'The Cannabis Grow Bible.' Green Candy Press."
+  - "Green, J.M. (2021). 'The green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible.' Green Candy Press."
   - "Rosenthal, E. (2018). 'Beyond Buds: Marijuana Extracts.' Quick American Archives."
   - "https://www.leafly.com/strains/blue-cheese"
   - "https://www.allbud.com/marijuana-strains/indica/blue-cheese"
@@ -32,7 +32,7 @@ sources:
 
 ## Overview
 
-**Blue Cheese** is an **indica-dominant hybrid** cannabis strain (~80% indica / 20% sativa)
+**Blue Cheese** is an **indica-dominant hybrid** [[blesching-cannabis-strain-selection-receptor-targeting]] (~80% indica / 20% sativa)
 created by crossing the legendary UK **Cheese** (a Skunk #1 phenotype) with **Blueberry**.
 Bred by **Big Buddha Seeds** in the early 2000s, it combines the pungent, funky aroma of
 Cheese with the sweet berry notes of Blueberry. The strain has won multiple Cannabis Cup
@@ -83,7 +83,7 @@ combination is polarizing — deeply appealing to some, off-putting to others.
 - **CBG:** ~0.1–0.3% (trace)
 
 Blue Cheese is a high-THC, low-CBD strain. Potency has increased modestly over years
-as breeders selected for higher resin production, but it remains moderately potent
+as breeders selected for higher [[cannabis-glandular-trichome-types-resin-production-clarke]], but it remains moderately potent
 by contemporary standards.
 
 ## Effects
@@ -93,12 +93,12 @@ This initial head high is brief and quickly transitions into a deep, full-body s
 with heavy physical relaxation, couch-lock, and a warm, melting sensation in the limbs.
 The body high is long-lasting (2–3 hours) and intensifies with continued use.
 
-Common effects: deep relaxation, euphoria, hunger stimulation, mild cerebral
+Common effects: [[blesching-cannabis-deep-relaxation-healing]], euphoria, hunger stimulation, mild cerebral
 stimulation (early), sleepiness (late), body heaviness, pain relief.
 
 ## Medical Applications
 
-- **Chronic pain:** High myrcene and full-body sedation effective for musculoskeletal
+- **[[cannabis-chronic-pain-management]]:** High myrcene and full-body sedation effective for musculoskeletal
   pain, neuropathic discomfort, and tension headaches.
 - **Insomnia:** Strong sedative properties at higher doses; common nighttime strain.
 - **Anxiety and stress:** Linalool and myrcene provide anxiolytic effects, though
@@ -113,7 +113,7 @@ stimulation (early), sleepiness (late), body heaviness, pain relief.
 - **Difficulty:** Easy to moderate — suitable for beginners
 - **Height:** 80–120 cm indoors; responds well to LST and ScrOG
 - **Climate:** Temperate to warm; finishes early October outdoors in Mediterranean zones
-- **Resistance:** Good mold and pest resistance; dense buds need airflow attention
+- **Resistance:** Good mold and [[cannabis-disease-pest-resistance-breeding-clarke]]; dense buds need airflow attention
   in humid conditions to prevent bud rot
 - **Nutrient needs:** Moderate feeder; benefits from calmag supplementation mid-flower
 

@@ -59,7 +59,7 @@ Nutrient-rich coastal waters with moderate to high nitrogen availability support
 
 - **Protein:** 15–35 g (among the highest of any seaweed)
 - **Carbohydrate:** 35–50 g (including floridean starch, a unique storage glucan)
-- **Lipid:** 1–3 g (rich in EPA and other omega-3 fatty acids)
+- **Lipid:** 1–3 g (rich in EPA and other omega-3 [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]])
 
 **Minerals (per 100 g dry weight):**
 
@@ -87,7 +87,7 @@ Dulse is also used in brewing as a flavoring agent in beer and as a nutrient sup
 
 *D. palmata* extracts have demonstrated antioxidant activity in multiple in vitro assays, primarily attributed to phenolic compounds and carotenoids including zeaxanthin and lutein.
 
-Anti-inflammatory effects have been documented, with dulse-derived polysaccharides reducing pro-inflammatory cytokine production in cellular models. The sulfated galactans in the cell wall are responsible for this activity.
+Anti-inflammatory effects have been documented, with dulse-derived polysaccharides reducing pro-inflammatory cytokine production in cellular models. The sulfated galactans in the [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] are responsible for this activity.
 
 Antimicrobial activity against several bacterial pathogens has been reported, including activity against *Listeria monocytogenes* and *Staphylococcus aureus*. This has prompted investigation of dulse extracts as natural food preservatives.
 
@@ -105,8 +105,10 @@ Integrated multi-trophic aquaculture (IMTA) systems have been proposed, where du
 
 ## See Also
 
+- [[thelephora-palmata]]
+
 - [[chondrus-crispus]] — Irish moss, co-occurring red alga with different industrial applications
 - [[ulva-lactuca]] — green alga sharing intertidal habitat with *P. palmata*
 - [[moringa-oleifera]] — terrestrial superfood with similarly high iron and mineral content
-- [[mycoremediation]] — fungal bioremediation complementary to algal nutrient extraction
+- [[mycoremediation]] — [[staycare-composting-as-a-fungal-bioremediation-strategy]] complementary to algal nutrient extraction
 - [[food-forest]] — marine kelp forests as analogs of terrestrial food forest systems

@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Phosphorylation via Tetrabenzylpyrophosphate
+title: Psilocybin psilocybin-phosphorylation-via-zwitterionic-intermediate Tetrabenzylpyrophosphate
 created: 2026-04-28
 tags:
   - synthesis
@@ -18,7 +18,7 @@ N,N-dimethyltryptamine) is the most challenging step in the synthesis of
 this controlled compound. Shirota, Hakamata, and Goda (2003) evaluated
 several phosphorylation methods before selecting the pyrophosphate method
 using tetrabenzylpyrophosphate as the optimal approach for large-scale
-production. This method produces the O,O-dibenzyl phosphate intermediate
+production. This method produces the O,O-dibenzyl [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]]
 (compound 7), which then undergoes an unexpected intramolecular
 rearrangement to form a zwitterionic N,O-dibenzyl phosphate derivative
 (compound 8).
@@ -58,7 +58,7 @@ framework.
 
 The pyrophosphate method using tetrabenzylpyrophosphate and n-butyllithium
 was found to be the most promising approach. This method was selected for
-large-scale psilocybin production for two practical reasons: easy
+large-scale [[gottlieb-psilocybin-production-extraction-methods]] for two practical reasons: easy
 handling of reagents and reagent stability. Tetrabenzylpyrophosphate can
 be prepared in nearly quantitative yield from dibenzyl phosphate using a
 literature procedure (Almeida et al., 1999) with minor modifications.
@@ -96,7 +96,7 @@ tetrabenzylpyrophosphate.
 ### Workup and Intermediate Isolation
 
 After confirming the production of compound 7 (the O,O-dibenzyl phosphate
-derivative), the reaction is quenched by adding aminopropyl silica gel
+derivative), the reaction is quenched by adding aminopropyl [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]]
 (ca. 20 g). The mixture is diluted with ethyl acetate and filtered
 through a Celite pad. The filtrate is concentrated, redissolved in
 dichloromethane, and stored overnight. During this standing period, the
@@ -134,9 +134,11 @@ Prior syntheses of psilocybin by Hofmann and colleagues at Sandoz in
 Frescas (1999) improved this to approximately 47% yield using the
 phosphoryl iodide method, but their procedure required anion-exchange
 resin purification. The Shirota route achieves greater than 72% isolated
-yield of psilocybin from psilocin on gram scale without any
+yield of psilocybin from psilocin on [[shirota-gram-scale-chromatography-free-psilocybin-synthesis]] without any
 chromatographic purification, representing a significant practical
 ## Related
+
+- [[shirota-tetrabenzylpyrophosphate-phosphorylation-n-butyllithium-conditions]]
 
 - [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]]
 - [[psilocin-synthesis-4-hydroxyindole-to-psilocin]]

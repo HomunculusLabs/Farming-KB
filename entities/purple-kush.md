@@ -11,7 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Clarke, R.C. & Merlin, M.D. (2013). "Cannabis: Evolution and Ethnobotany." University of California Press.
-  - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency Over the Last Two Decades." Biological Psychiatry 79(7): 613-619.
+  - ElSohly, M.A. et al. (2016). "Changes in [[green-cannabis-potency-maximizing]] Over the Last Two Decades." Biological Psychiatry 79(7): 613-619.
   - Small, E. (2017). "Cannabis: A Complete Guide." CRC Press.
   - Peace, M.R. et al. (2016). "Cannabinoid profile of popular strains." Journal of Forensic Sciences 61(2): 472-479.
   - Potter, D.J. et al. (2008). "Variation in cannabinoid content of herbal cannabis." Journal of Forensic Sciences 53(3): 615-621.
@@ -21,7 +21,7 @@ sources:
 ## Overview
 
 Purple Kush is a pure indica [[hindu-kush]] — two landrace indica
-lines from the Hindu Kush mountains — it won first place in the Indica
+lines from the [[cannabis-hindu-kush-strain-description-clarke]] mountains — it won first place in the Indica
 category at the 2010 High Times Cannabis Cup.
 
 ## Lineage
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

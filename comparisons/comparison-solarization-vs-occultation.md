@@ -7,7 +7,7 @@ tags:
   - weed-suppression
   - soil-pathogens
   - no-till
-  - [[cover-crops]]
+  - cover-crops
   - organic-farming
 date: 2026-04-28
 updated: 2026-04-28
@@ -19,7 +19,7 @@ type: comparison
 
 ## Overview
 
-Both soil solarization and occultation (tarping) are non-chemical methods for preparing garden beds by suppressing weeds, reducing soil-borne pathogens, and managing soil biology. They share the goal of creating a clean planting environment without herbicides or tillage, but they achieve it through fundamentally different mechanisms. Solarization uses the sun's heat; occultation uses light deprivation and the biological activity of germinating seeds under impermeable cover. Understanding the differences helps growers choose the right approach for their climate, timeline, and soil conditions.
+Both soil solarization and occultation (tarping) are non-chemical methods for preparing garden beds by suppressing weeds, reducing soil-borne pathogens, and managing soil biology. They share the goal of creating a clean planting environment without herbicides or tillage, but they achieve it through fundamentally different mechanisms. Solarization uses the sun's heat; occultation uses [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]] and the biological activity of germinating seeds under impermeable cover. Understanding the differences helps growers [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] approach for their climate, timeline, and soil conditions.
 
 ## Mechanism of Action
 
@@ -31,7 +31,7 @@ Peak soil temperatures under solarization typically reach 110–125°F (43–52�
 
 ### Occultation (Tarping)
 
-Occultation suppresses weeds by blocking light with an opaque tarp — typically black plastic, silage tarps, or heavy landscape fabric. Without light, most weed seeds that germinate cannot photosynthesize and exhaust their energy reserves. The tarp also maintains soil moisture, encouraging a flush of germination, and the seedlings die beneath the cover. Repeated cycles of tarping, germination, and die-off progressively deplete the weed seed bank.
+Occultation suppresses weeds by blocking light with an opaque tarp — typically black plastic, silage tarps, or heavy [[comparison-mulch-types-and-effects-vs-landscape-fabric-alternatives]]. Without light, most weed seeds that germinate cannot photosynthesize and exhaust their energy reserves. The tarp also maintains soil moisture, encouraging a flush of germination, and the seedlings die beneath the cover. Repeated cycles of tarping, germination, and die-off progressively deplete the weed [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]].
 
 Occultation does not kill weed seeds through heat — it kills seedlings by denying them light. It is less effective against deeply dormant seeds that don't germinate during the tarping period, but it works well against the readily germinable portion of the seed bank. It also does not kill soil pathogens through heat, though the anaerobic conditions that can develop under impermeable tarps may suppress some organisms.
 
@@ -41,7 +41,7 @@ Occultation does not kill weed seeds through heat — it kills seedlings by deny
 |--------|------------------|-----------------------|
 | **Primary mechanism** | Thermal killing of seeds, pathogens, nematodes | Light deprivation kills germinated seedlings |
 | **Tarp material** | Clear plastic (UV-stabilized, 1–4 mil) | Opaque plastic (black silage tarp, 5–6 mil) or landscape fabric |
-| **Best season** | Peak summer (June–August in N. temperate) | Any growing season; works in cool weather too |
+| **Best season** | Peak summer (June–August in N. temperate) | Any [[savory-growing-season-and-non-growing-season-management]]; works in cool weather too |
 | **Duration** | 4–8 weeks continuous | 3–6 weeks per cycle; can be repeated |
 | **Effective depth** | 2–6 inches for weed seeds; 2–4 inches for pathogens | Primarily surface to 1–2 inches |
 | **Pathogen control** | Strong — kills many soil-borne fungi and nematodes | Weak — no thermal effect on pathogens |

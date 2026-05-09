@@ -21,9 +21,9 @@ created: 2026-05-07
 
 ## Overview
 
-Kavain is the principal psychoactive kavalactone found in *Piper methysticum* (kava), a perennial shrub native to the Pacific Islands. It is the most abundant and pharmacologically significant of the six major kavalactones, typically comprising 15-20% of the total kavalactone content in kava root preparations.
+Kavain is the principal psychoactive kavalactone found in *[[plants-of-the-gods-piper-methysticum-kava]]* (kava), a perennial shrub native to the Pacific Islands. It is the most abundant and pharmacologically significant of the six major kavalactones, typically comprising 15-20% of the total kavalactone content in kava root preparations.
 
-Kavain is primarily responsible for kava's well-documented anxiolytic, sedative, and mild euphoric effects. Unlike benzodiazepines, kavain produces calm without significant cognitive impairment, making it a subject of ongoing clinical interest for anxiety and sleep disorders.
+Kavain is primarily responsible for kava's well-documented anxiolytic, sedative, and mild euphoric effects. Unlike benzodiazepines, kavain produces calm without significant cognitive impairment, making it a subject of ongoing clinical interest for anxiety and [[cannabis-sleep-disorders-and-insomnia]].
 
 The compound has been used for over 3,000 years in Pacific Island ceremonial and social contexts. Kava preparations standardized to kavain content remain widely available as dietary supplements in many countries, though regulatory status varies.
 
@@ -57,7 +57,7 @@ Onset typically occurs within 15-30 minutes when consumed as a traditional aqueo
 
 Standard kava preparations delivering 60-120 mg of total kavalactones (approximately 10-25 mg kavain) are effective for acute anxiety relief. Higher doses of 200-300 mg total kavalactones produce stronger sedation and are used for insomnia.
 
-Kavain has a favorable safety profile at typical doses. Adverse effects are generally mild and include gastrointestinal discomfort, headache, and transient dizziness. Heavy chronic use has been associated with rare hepatotoxicity, though causality has been debated and may relate to non-kavalactone constituents or poor-quality plant parts.
+Kavain has a favorable [[cannabis-safety-profile-and-overdose-risk]] at typical doses. [[blesching-cannabis-safety-adverse-effects-evidence]] are generally mild and include gastrointestinal discomfort, headache, and transient dizziness. Heavy chronic use has been associated with rare hepatotoxicity, though causality has been debated and may relate to non-kavalactone constituents or poor-quality plant parts.
 
 ## Traditional Use and Preparation
 
@@ -73,7 +73,7 @@ Modern commercial preparations include standardized extracts in capsule form, ti
 
 ## Legal Status
 
-Kavain's legal status varies significantly by jurisdiction. In the United States, kava dietary supplements containing kavain are legal and available as over-the-counter products regulated under FDA dietary supplement guidelines.
+Kavain's legal status varies significantly by jurisdiction. In the [[dmt-containing-plants-united-states-halpern]], kava dietary supplements containing kavain are legal and available as over-the-counter products regulated under FDA dietary supplement guidelines.
 
 The European Union has a complex regulatory landscape. Germany initially approved kava extracts as prescription anxiolytics but withdrew approval in 2002 following hepatotoxicity concerns. Several EU member states have since reinstated limited market access for quality-controlled products.
 
@@ -89,7 +89,7 @@ The plant thrives in tropical and subtropical climates with high humidity, well-
 
 Kavain concentration varies significantly by cultivar, plant age, and growing conditions. Plants harvested at 3-5 years typically yield the highest kavalactone content. Root-to-bole ratios and lateral root diameter are key quality indicators used by Pacific growers.
 
-Vanuatu is the world's largest kava producer, with over 80 registered noble cultivars. Fiji, Samoa, Tonga, and Pohnpei also maintain significant cultivation. International demand has expanded cultivation to Hawaii, Australia, and parts of Southeast Asia.
+Vanuatu is the world's largest kava producer, with over 80 registered noble cultivars. Fiji, Samoa, Tonga, and Pohnpei also maintain significant cultivation. International demand has expanded cultivation to Hawaii, Australia, and parts of [[psilocybe-southeast-asia-pacific]].
 
 ## Related Compounds
 
@@ -110,4 +110,4 @@ The kavain-to-DHK ratio is considered a key quality marker for noble kava cultiv
 - [[leonurus-cardiaca-entity]]
 - [[schisandra-chinensis]]
 - [[bacopa-monnieri]]
-- [[ocimum-sanctum]]
+- ocimum-sanctum

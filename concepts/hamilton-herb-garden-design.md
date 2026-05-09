@@ -46,8 +46,8 @@ plantings.
 ## Soil and Site Requirements
 
 Most herbs prefer well-drained, light soil. Heavy soils are acceptable
-if improved by double digging with plenty of organic matter incorporated.
-Avoid waterlogging, which will kill most Mediterranean herbs. For very
+if improved by [[comparison-double-digging-vs-no-till]] with plenty of [[hamilton-composting-and-organic-matter-management]] incorporated.
+Avoid waterlogging, which will kill most [[query-best-mediterranean-herbs-for-beginner-herb-garden]]. For very
 heavy clay, consider raised beds filled with a lighter soil mix.
 
 ## Specific Herbs and Their Cultivation
@@ -114,7 +114,7 @@ that can be moved under cover.
 lemon thyme. Attractive flowers attract bees and pollinating insects.
 Prefers well-drained soil and full sun.
 
-**French Tarragon**: One of the finest culinary herbs. Prefers rich,
+**French Tarragon**: One of the finest [[holzer-medicinal-and-culinary-herbs-compendium]]. Prefers rich,
 well-drained soil in a sunny position. Does not set viable seed; must
 be propagated by division or cuttings. Protect in cold winters.
 
@@ -125,8 +125,8 @@ Good in borders and as a culinary herb. Self-seeds readily.
 
 For drying, cut leaves before the plant flowers and only take young,
 healthy leaves. Tie stems in small bunches and hang in a dry, airy
-place. Do not bundle too tightly as this restricts air circulation.
-Handle leaves carefully to avoid losing essential oils. Crumble dried
+place. Do not bundle too tightly as this restricts [[stamets-growing-room-air-circulation-co2-management]].
+Handle leaves carefully to avoid losing [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]. Crumble dried
 leaves into airtight jars.
 
 For seed saving, harvest stems just as seeds ripen. Hang upside down

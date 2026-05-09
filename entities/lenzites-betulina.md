@@ -20,7 +20,7 @@ sources:
   - Ryvarden, L. & Gilbourn, C.L. (2004). "Polypore Taxonomy in the 21st Century." Mycotaxon 89: 77-88.
   - Kirk, P.M. et al. (2008). "Ainsworth & Bisby's Dictionary of the Fungi." 10th ed. CABI.
   - Núñez, M. & Ryvarden, L. (2001). "East Asian Polypores." Synopsis Fungorum 14: 170-171.
-  - Justo, A. et al. (2017). "A revised family-level classification of the Polyporales." Fungal Biology 121(9): 798-824.
+  - Justo, A. et al. (2017). "A revised family-level classification of the Polyporales." [[bloomfield-fungal-biology-and-hyphal-growth]] 121(9): 798-824.
   - Index Fungorum. "Lenzites betulina (L.) Fr." http://www.indexfungorum.org
 ---
 
@@ -64,8 +64,8 @@ has no distinctive odor and a mild, slightly astringent taste.
 
 ## Distribution and Habitat
 
-*Lenzites betulina* has a broad global distribution across temperate and
-subtropical regions of North America, Europe, Asia, and parts of Africa and South
+*Lenzites betulina* has a broad [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]] across temperate and
+subtropical regions of [[psilocybin-north-america-pacific-northwest]], Europe, Asia, and parts of Africa and South
 America.
 
 It is predominantly a saprotroph found on dead hardwood logs, stumps, and
@@ -78,7 +78,7 @@ late spring through autumn in temperate zones, with sporadic winter fruiting in
 milder climates.
 
 It is commonly found in deciduous and mixed forests, woodland margins, hedgerows,
-and urban parks where dead wood is present. It often grows in overlapping clusters
+and urban parks where [[fungal-dead-wood-diversity]] is present. It often grows in overlapping clusters
 on the same substrate.
 
 ## Bioactive Compounds and Pharmacology
@@ -88,9 +88,9 @@ research interest for their antimicrobial, antioxidant, and potential
 antineoplastic properties.
 
 Studies have identified phenolic compounds, terpenoids, and sesquiterpenes from
-the fruiting body and mycelial extracts. Betulinic acid derivatives, lenzitesins,
+the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] and mycelial extracts. Betulinic acid derivatives, lenzitesins,
 and various triterpenoids have been isolated and characterized.
 
 Antimicrobial assays have demonstrated moderate activity against *Staphylococcus
 aureus*, *Escherichia coli*, and *[[stereum-hirsutum]]* and *[[ganoderma-lucidum]]* or
-*Trametes versicolor*.
+*[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]*.

@@ -1,5 +1,5 @@
 ---
-title: Grain Spawn Generation
+title: Grain mushroom-spawn-generation-limits
 created: 2026-04-28
 tags:
   - mushroom-cultivation
@@ -16,13 +16,13 @@ type: concept
 
 # Grain Spawn Generation
 
-Grain spawn is the bridge between the laboratory and the growing room.
+Grain spawn is the bridge between the laboratory and the [[duggar-mushroom-growing-room-design]].
 It serves the purpose of boosting mycelium to a state of vigor, serving
 as the launching pad from which the mycelium is introduced into bulk
 substrates. The concept is simple: mushroom mycelium is grown on
 sterilized grain inside jars, bags, or bottles, and once fully
 colonized, this grain is used to inoculate a much larger mass of the
-final fruiting substrate. The grain provides an ideal medium because
+final [[pf-tek-maximum-fruiting-substrate-formula]]. The grain provides an ideal medium because
 each kernel becomes an individual inoculation point, allowing rapid
 and thorough colonization of the target substrate.
 
@@ -91,16 +91,16 @@ approximately 20-30% colonization and again at 70-80%. Full
 colonization is typically achieved within 10-21 days depending on the
 species, grain type, and incubation conditions. By day 14, well-
 colonized jars display grayish-white mycelium typical of Oyster,
-Shiitake, Enokitake, Reishi, and King Stropharia species.
+Shiitake, Enokitake, Reishi, and [[cotter-king-stropharia-cultivation]] species.
 
 ## Thermogenesis
 
 High spawn rates can cause thermogenesis, a phenomenon where the
-metabolic activity of the colonizing mycelium generates significant
+[[arbuscule-isolation-metabolic-activity-assays]] of the colonizing mycelium generates significant
 heat. Bags placed too close together during incubation can experience
 internal temperatures 5-10 degrees F above ambient. This heat must be
 accounted for, especially in warm environments where the combined
-ambient temperature plus thermogenic heat could exceed the optimal
+[[jadam-ambient-temperature-principle]] plus thermogenic heat could exceed the optimal
 range for the species being cultivated. Proper spacing of containers
 and adequate ventilation of the incubation area mitigate this risk.
 

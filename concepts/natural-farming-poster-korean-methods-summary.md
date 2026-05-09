@@ -1,5 +1,5 @@
 ---
-title: "Natural Farming Poster: Korean Natural Farming Methods Summary"
+title: "comparison-natural-farming-vs-permaculture Poster: query-jadam-vs-korean-natural-farming natural-farming-methods-comparison Summary"
 created: 2026-04-28
 tags: [farming, knf, korean-natural-farming, fermented-extracts, soil-health]
 date: 2026-04-28
@@ -9,11 +9,11 @@ type: concept
 ---
 
 # Natural Farming Poster: [[oss-oeric-growing-parameters-cubensis]] for fungal growing params
-- [[oss-oeric-terrarium-design-and-humidity]] for environmental control
+- [[oss-oeric-terrarium-design-and-humidity]] for [[eclss-environmental-control-life-support]]
 - [[plant-science-exploring-rich-history]] for plant science context
 ## Background and Context
 
-Natural Farming Poster: Korean Natural Farming Methods Summary is an important subject that has garnered significant attention
+Natural Farming Poster: [[korean-natural-farming]] Methods Summary is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough
@@ -61,7 +61,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -139,4 +139,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

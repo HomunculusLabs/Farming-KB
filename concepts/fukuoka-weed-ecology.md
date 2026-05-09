@@ -5,21 +5,22 @@ updated: 2026-04-15
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka Weed Ecology
 ## Overview
 [[fukuoka-orchard-management-detailed]], the weed layer
   is periodically cut (not pulled) and left in place as green manure. The roots
-  decompose in place, contributing organic matter deep in the soil profile.
-- **Nutrient cycling**: Deep-rooted weeds bring minerals from subsoil layers to
+  decompose in place, contributing [[hamilton-composting-and-organic-matter-management]] deep in the soil profile.
+- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]**: Deep-rooted weeds bring minerals from subsoil layers to
   the surface through their root systems. When these weeds die and decompose,
   these minerals become available to shallower-rooted crop plants. Plants like
   dandelion (Taraxacum), thistle (Cirsium), and dock (Rumex) are particularly
   effective mineral accumulators.
-- **Beneficial insect habitat**: Weeds provide food, shelter, and breeding sites
+- **[[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] habitat**: Weeds provide food, shelter, and breeding sites
   for predatory insects that control crop pests. Ladybugs, lacewings, ground
-  beetles, parasitic wasps, and predatory mites all require diverse plant
+  beetles, parasitic wasps, and [[comparison-predatory-mites-vs-ladybugs-biocontrol]] all require diverse plant
   communities to sustain their populations. A weed-free orchard is a
   pest-vulnerable orchard.
 - **Microclimate**: The weed layer creates a humid microclimate at the soil
@@ -30,7 +31,7 @@ Fukuoka used several techniques to manage weeds without eliminating them:
 ### Ground Cover Management
 Instead of eradicating weeds, Fukuoka managed them through competitive planting.
 He introduced cover crops (white clover, alfalfa, vetch) that could compete with
-undesirable weeds while providing additional benefits (nitrogen fixation, nectar
+undesirable weeds while providing additional benefits ([[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], nectar
 for pollinators). The goal was not a specific plant community but a living
 ground cover that prevented soil exposure and supported soil biology. Clover
 became the foundation of his orchard ground cover — nitrogen-fixing, low-growing,
@@ -68,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

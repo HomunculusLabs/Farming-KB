@@ -25,7 +25,7 @@ in three ways:
 1. Release of the body's own cannabinoids (e.g., anandamide)
 2. Introduction of plant-based cannabinoids such as cannabis
 3. Manufactured cannabinoids such as [[blesching-cannabinoid-pharmacology]] translates
-into specific therapeutic applications, see the [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]].
+into specific [[psilocybin-therapeutic-applications]], see the [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]].
 
 Evidence suggests the ECS may be involved in generating subtle but
 therapeutic shifts in the ways people perceive the world, relate to
@@ -46,7 +46,7 @@ cannabinoid prescriptions to maintain health and well-being.
 ## Therapeutic Potential
 
 Hundreds of medical and scientific organizations support the use of
-medical marijuana including Kaiser Permanente, the California Medical
+[[cervantes-medical-marijuana-pharmacology]] including Kaiser Permanente, the California Medical
 Association, and the American Nurses Association. Even the conservative
 American Medical Association now supports research on cannabis for
 medicinal use. This support reflects the level of frustration felt by a
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

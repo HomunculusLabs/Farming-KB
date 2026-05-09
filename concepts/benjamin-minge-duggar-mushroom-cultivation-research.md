@@ -1,5 +1,5 @@
 ---
-title: Benjamin Minge Duggar Mushroom Cultivation Research
+title: Benjamin benjamin minge duggar mushroom cultivation research accessible-mushroom-cultivation-for-disabilities Research
 created: 2026-04-28
 tags: mycology, mushroom-cultivation, history-of-science,
       agricultural-research, antibiotics]
@@ -28,7 +28,7 @@ Washington University in St. Louis before joining Lederle Laboratories where
 he conducted the antibiotic research that brought him his widest recognition.
 
 His early career focused heavily on fungal diseases of crop plants, which
-naturally led to deep study of fungal biology, life cycles, and environmental
+naturally led to deep study of [[bloomfield-fungal-biology-and-hyphal-growth]], life cycles, and environmental
 requirements. This foundational knowledge in mycology informed his later work
 on mushroom cultivation.
 
@@ -36,9 +36,9 @@ on mushroom cultivation.
 
 ### Fungal Physiology
 
-Duggar's research on fungal physiology addressed how environmental factors
+Duggar's research on fungal physiology addressed how [[duggar-mushroom-environmental-factors-temperature-moisture-light]]
 such as temperature, humidity, light, and substrate composition affect fungal
-growth and fruiting body formation. His systematic approach to studying these
+growth and fruiting [[suppressed-incomplete-fruit-body-formation-brassinosteroid-treatment]]. His systematic approach to studying these
 variables established methodological frameworks still used in mushroom
 cultivation research.
 
@@ -61,7 +61,7 @@ Duggar published extensively on fungal physiology throughout his career,
 with particular attention to the environmental triggers that initiate fruiting
 body formation in commercially important species. His experimental protocols
 for controlling temperature gradients and humidity cycling in growing chambers
-anticipated the environmental control systems used in modern commercial mushroom
+anticipated the [[eclss-environmental-control-life-support]] systems used in modern commercial mushroom
 farms. He also studied the nutritional requirements of [[mushroom-cultivation]]
 practice today.
 

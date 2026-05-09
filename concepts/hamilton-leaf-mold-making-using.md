@@ -1,5 +1,5 @@
 ---
-title: Leaf Mold — Making and Using It
+title: comparison-leaf-mold-composting-vs-hot-composting-method — Making and Using It
 created: 2026-04-28
 tags:
   - organic-gardening
@@ -54,7 +54,7 @@ it to its own devices.
 
 Be prepared to wait at least a year, and possibly two or three years,
 before the leaf mold is ready to use. Oak and beech leaves tend to take
-the longest, while thinner leaves such as birch and ash break down more
+the longest, while thinner leaves such as birch and ash [[query-can-fungi-break-down-plastic-pollution]] more
 quickly. When the leaves have fully decomposed into a dark, crumbly
 material with no recognisable leaf shapes remaining, the leaf mold is
 ready.
@@ -80,14 +80,14 @@ inches of soil will noticeably improve its workability and fertility
 over time.
 
 Leaf mold also serves as an excellent [[hamilton-vegetable-bed-preparation]]
-process to add organic matter without the relatively high nutrient load
+process to add [[hamilton-composting-and-organic-matter-management]] without the relatively high nutrient load
 of fully mature garden compost.
 
 ## Tips and Troubleshooting
 
 Avoid collecting leaves that show signs of serious disease, as fungal
 pathogens may survive the composting process and be returned to the
-garden. Leaves from diseased roses or fruit trees should be burned
+garden. Leaves from diseased roses or [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] should be burned
 rather than composted.
 
 If space is limited, leaf mold can be made in plastic bags. Fill
@@ -106,7 +106,7 @@ Leaf mold is a slow but supremely rewarding form of organic matter. It
 requires minimal effort — simply collect autumn leaves, pile them in a
 simple enclosure, and wait. The resulting material is among the finest
 soil conditioners available, providing excellent structure, moisture
-retention, and a perfect medium for potting and seed sowing. Combined
+retention, and a perfect medium for potting and [[hamilton-seed-sowing-techniques]]. Combined
 with [[hamilton-animal-manure-types-and-use]], leaf mold
 completes the organic gardener's toolkit for building and maintaining
 healthy, fertile soil.

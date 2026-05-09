@@ -1,10 +1,11 @@
 ---
-title: "Swale vs Contour Line Water Management"
+title: "Swale vs comparison swale vs contour line water management Water Management"
 created: 2026-04-28
 tags: [comparison, water-management, earthworks, permaculture, land-restoration]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 type: comparison
 ---
@@ -15,7 +16,7 @@ type: comparison
 Swales and contour line water management are both permaculture earthworking techniques that use
 the landscape's natural topography to capture, slow, and infiltrate water. Swales are specific
 structures — level ditches with downslope berms built on contour — while contour line water
-management (as developed by Sepp Holzer) is a broader observational approach to reading natural
+management (as developed by [[comparison-sepp-holzer-vs-biodynamic]]) is a broader observational approach to reading natural
 water patterns and placing retention spaces where the landscape indicates they belong. Both aim
 to rehydrate degraded land, but they differ in their precision, philosophy, and implementation.
 
@@ -26,7 +27,7 @@ is an observational approach that reads natural landscape patterns to identify w
 naturally wants to collect and move. Rather than imposing geometric swales at calculated
 intervals, the practitioner observes from above (aerial views, contour maps, on-site reading)
 and places watertight barriers along contour lines where natural topography, impermeable soil
-layers, and vegetation patterns indicate water retention potential. Retention spaces follow
+layers, and [[holmgren-vegetation-patterns-biomass-fertility]] indicate water retention potential. Retention spaces follow
 natural shapes rather than uniform dimensions.
 
 This approach produces water bodies that are self-purifying through contact with natural soil
@@ -35,7 +36,7 @@ preventing the stagnation common in conventional reservoirs. Because retention s
 natural topography, they require less excavation, integrate more seamlessly with existing
 landscape features, and create habitat that feels organic rather than engineered. The philosophy
 emphasizes working with natural forces rather than imposing a design upon them, and it extends
-beyond water retention to inform terrace construction, road placement, building siting, and
+beyond water retention to inform [[holzer-terrace-construction-guide]], road placement, building siting, and
 overall farm layout.
 
 The primary challenge of Holzer's approach is that it resists standardization. Every site is
@@ -88,11 +89,11 @@ water collection points are particularly effective.
 
 ## Hybrid Approaches
 Many permaculture designers use swales as the primary water management structure but incorporate
-Holzer's observational principles for siting ponds, dams, and wetlands. Keyline design can
+Holzer's observational principles for siting ponds, dams, and wetlands. [[query-how-does-keyline-design-work-in-permaculture]] can
 complement both approaches by adding a systematic pattern cultivation element that further
 improves water distribution across the landscape. The best results often come from using swale
 design as the starting framework and refining placement through careful on-site observation of
-natural water flow patterns. Both approaches benefit from integrating livestock grazing on
+natural water flow patterns. Both approaches benefit from integrating [[savory-livestock-grazing-planning]] on
 berms and retention edges, which accelerates soil building and vegetation establishment.
 
 ## See Also

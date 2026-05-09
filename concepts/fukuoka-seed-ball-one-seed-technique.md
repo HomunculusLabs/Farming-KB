@@ -1,18 +1,19 @@
 ---
-title: Fukuoka Seed Ball One Seed Technique
+title: Fukuoka clay-pellet-seed-ball-method-for-desert-revegetation One Seed Technique
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka Seed Ball One Seed Technique
 
 Updated: 2026-04-19
 
-Masanobu Fukuoka developed seed ball techniques that place one seed per clay pellet for precision in no-tillage natural farming. This is a refinement of his basic [[fukuoka-natural-rice-barley-cultivation]] and [[fukuoka-pest-balance-without-chemicals]] and [[fukuoka-natural-rice-barley-cultivation]] and [[natural-farming-desert-reclamation]].
+Masanobu Fukuoka developed seed ball techniques that place one seed per [[fukuoka-clay-pellet-aerial-seeding-method]] for precision in no-tillage [[comparison-natural-farming-vs-permaculture]]. This is a refinement of his basic [[fukuoka-natural-rice-barley-cultivation]] and [[fukuoka-pest-balance-without-chemicals]] and [[fukuoka-natural-rice-barley-cultivation]] and [[natural-farming-desert-reclamation]].
 
 ## Integration with the Rice-Barley System
 
@@ -25,7 +26,7 @@ In the [[fukuoka-seed-ball-technique]]
 Source: Masanobu Fukuoka, *The Natural Way of Farming*, Chapter 2
 
 ## Merged: Seed Saving and Natural Seed
-Masanobu Fukuoka placed great importance on seed saving as a practice of [[fukuoka-rice-barley-no-till-method]]. The clay pellet technique embodies the [[fukuoka-barley-clover-cultivation]] that Fukuoka practiced depended entirely on locally adapted seeds. Related: [[fukuoka-critique-agricultural-development]], [[no-till-rice-barley-succession]], [[natural-farming-seed-balls]] (also called clay pellets or earth balls) are one of Fukuoka's most distinctive and widely-adapted innovations. They are small balls of clay (roughly the size of a marble or a cherry tomato) containing seeds of various plants mixed into the clay matrix. The vegetables grow up through the [[fukuoka-green-gulch-zen-center-desert-reclamation]]. The [[fukuoka-four-principles-natural-farming]], [[fukuoka-do-nothing-farming-philosophy-and-practice]], [[fukuoka-do-nothing-health-philosophy]]
+Masanobu Fukuoka placed great importance on seed saving as a practice of [[fukuoka-rice-barley-no-till-method]]. The clay pellet technique embodies the [[fukuoka-barley-clover-cultivation]] that Fukuoka practiced depended entirely on locally adapted seeds. Related: [[fukuoka-critique-agricultural-development]], [[no-till-rice-barley-succession]], [[natural-farming-seed-balls]] (also called [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] or earth balls) are one of Fukuoka's most distinctive and widely-adapted innovations. They are small balls of clay (roughly the size of a marble or a cherry tomato) containing seeds of various plants mixed into the clay matrix. The vegetables grow up through the [[fukuoka-green-gulch-zen-center-desert-reclamation]]. The [[fukuoka-four-principles-natural-farming]], [[fukuoka-do-nothing-farming-philosophy-and-practice]], [[fukuoka-do-nothing-health-philosophy]]
 ## Practical Applications
 
 Fukuoka Seed Ball One Seed Technique has a range of practical applications that make it relevant to
@@ -103,4 +104,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

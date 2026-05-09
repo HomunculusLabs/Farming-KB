@@ -9,7 +9,7 @@ sources:
 ---
 # 2C-O-4 — 2,5-Dimethoxy-4-(i)-propoxyphenethylamine
 
-PIHKAL entry #35. 2C-O-4 is the oxygen-series analogue of 2C-T-4, replacing the isopropylthio group with an isopropoxy group at the 4-position. It represents an early exploration of the 2C-O series that ultimately proved disappointing.
+[[2c-b-pihkal-entry-20]] #35. 2C-O-4 is the oxygen-series analogue of 2C-T-4, replacing the isopropylthio group with an isopropoxy group at the 4-position. It represents an early exploration of the 2C-O series that ultimately proved disappointing.
 
 ## Chemical Identity
 
@@ -68,9 +68,9 @@ These are the exact analogues of 2C-T-2, 2C-T-7, and 2C-T-19, and the 2-carbon h
 
 ### Structure-Activity Relationship: Oxygen vs. Sulfur
 
-The dramatic loss of activity when replacing sulfur with oxygen at the 4-position is a key SAR finding. The sulfur atom in the 2C-T series is larger, more polarizable, and more lipophilic than oxygen. These properties likely contribute to better [[phenethylamine-chemistry-basics]]: The amphetamine series that inspired exploration of 4-alkoxy patterns
+The dramatic loss of activity when replacing sulfur with oxygen at the 4-position is a key SAR finding. The sulfur atom in the 2C-T series is larger, more polarizable, and more lipophilic than oxygen. These properties likely contribute to better [[phenethylamine-chemistry-basics]]: The [[pihkal-dob-doi-dom-amphetamine-series-comparison]] that inspired exploration of 4-alkoxy patterns
 - vs. [[2c-t-4-entity]] — the isopropylthio analogue, far more active
-- [[phenethylamine-chemistry-basics]] — general phenethylamine chemistry and SAR principles
+- [[phenethylamine-chemistry-basics]] — general phenethylamine [[2c-family-chemistry-and-sar-pihkal]] principles
 
 See also: [[2c-o-4-entity-pihkal]]
 ## Practical Considerations
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

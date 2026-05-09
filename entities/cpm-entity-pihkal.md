@@ -1,5 +1,5 @@
 ---
-title: "CPM (4-Cyclopropylmethoxy-3,5-dimethoxy-PEA) -- PIHKAL Entry #37"
+title: "CPM (4-Cyclopropylmethoxy-3,5-dimethoxy-PEA) -- 2c-b-pihkal-entry-20 #37"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -97,7 +97,7 @@ decyltriethylammonium iodide, there was added 3.0 g cyclopropylmethyl
 chloride and 5.0 g NaI. Stirring was continued during a color change
 from pale yellow to blue. There was then added 2.9 g of finely
 powdered anhydrous K2CO3, resulting in a beautiful turquoise color.
-The mixture was held at reflux on the steam bath for 3 h, which
+The mixture was held at reflux on the [[scythian-cannabis-steam-bath-ritual]] for 3 h, which
 discharged all color. The solvent was removed under vacuum, and the
 residues were added to 100 mL H2O. This solution was extracted with
 
@@ -116,7 +116,7 @@ to 0 deg C with stirring, and 0.85 mL of 100% H2SO4 was slowly added.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

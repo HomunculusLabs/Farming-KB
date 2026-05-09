@@ -1,6 +1,6 @@
 ---
-title: Cannabis Health Index — Evidence-Based Scoring for Medical Cannabis
-aliases: [CHI score, Cannabis Health Index scoring, CHI methodology, Medical cannabis evidence rating]
+title: blesching-cannabis-health-index-autoimmune-conditions — Evidence-Based Scoring for Medical Cannabis
+aliases: [CHI score, Cannabis Health [[cannabis-health-index-scoring-evidence-methodology]], CHI methodology, Medical cannabis evidence rating]
 tags: [cannabis, medical-cannabis, evidence-based-medicine, chi-score, cannabinoid-therapy, uwe-blesching]
 created: 2026-05-08
 source: uwe-blesching-the-cannabis-health-index.md
@@ -8,7 +8,7 @@ source: uwe-blesching-the-cannabis-health-index.md
 
 # Cannabis Health Index — Evidence-Based Scoring for Medical Cannabis
 
-The Cannabis Health Index (CHI) is an evidence-based evaluation framework developed by Uwe Blesching, PhD, that systematically scores the available scientific literature on medical cannabis for over 100 chronic symptoms and diseases. Published by North Atlantic Books in 2015, the CHI represents one of the most comprehensive attempts to organize the rapidly growing body of cannabis research into an accessible, actionable format for patients and healthcare providers.
+The Cannabis Health Index (CHI) is an evidence-based evaluation framework developed by [[uwe-blesching]], PhD, that systematically scores the available scientific literature on medical cannabis for over 100 chronic symptoms and diseases. Published by North Atlantic Books in 2015, the CHI represents one of the most comprehensive attempts to organize the rapidly growing body of cannabis research into an accessible, actionable format for patients and healthcare providers.
 
 ## Purpose and Motivation
 
@@ -38,7 +38,7 @@ The CHI scoring system weights studies according to their position in this hiera
 
 The Cannabis Health Index covers an extensive range of chronic symptoms and diseases organized alphabetically. The scope reflects the remarkable breadth of conditions for which cannabis has been investigated as a potential therapeutic agent.
 
-Major categories include aging and anti-aging, anorexia and cachexia, bacterial and viral infections (including MRSA, HIV/AIDS, hepatitis, and herpes), various forms of cancer (brain, breast, colon, lung, pancreatic, prostate, and others), cardiovascular disease (heart disease, hypertension, stroke), diabetes, eye diseases (glaucoma, macular degeneration), fibromyalgia, inflammatory diseases (arthritis, inflammatory bowel disease), insomnia, mental disorders (anxiety, depression, PTSD, ADHD), neurological diseases (Alzheimer's, ALS, epilepsy, multiple sclerosis, Parkinson's), pain conditions (chronic pain, migraine, neuropathy), skin diseases, and many others.
+Major categories include aging and anti-aging, anorexia and cachexia, bacterial and viral infections (including MRSA, HIV/AIDS, hepatitis, and herpes), various forms of cancer (brain, breast, colon, lung, pancreatic, prostate, and others), cardiovascular disease (heart disease, hypertension, stroke), diabetes, eye diseases (glaucoma, macular degeneration), fibromyalgia, inflammatory diseases (arthritis, [[blesching-cannabis-inflammatory-bowel-disease]] disease), insomnia, mental disorders (anxiety, depression, PTSD, ADHD), neurological diseases (Alzheimer's, ALS, epilepsy, multiple sclerosis, Parkinson's), pain conditions (chronic pain, migraine, neuropathy), skin diseases, and many others.
 
 The comprehensive A-to-Z organization makes the Index practical as a reference tool, allowing patients and practitioners to quickly locate the relevant evidence for their specific condition and understand both the strength of the evidence and the recommended approach to cannabis therapy.
 
@@ -46,7 +46,7 @@ The comprehensive A-to-Z organization makes the Index practical as a reference t
 
 The CHI system goes beyond simply rating whether cannabis works for a condition. It also provides guidance on evidence-based strain selection and form considerations, recognizing that different cannabis preparations may have different therapeutic profiles.
 
-The system distinguishes between Cannabis sativa and Cannabis indica varieties, which are generally associated with different subjective and therapeutic effects. Sativa-dominant strains tend to produce more cerebral, energizing effects, while indica-dominant strains tend to produce more sedating, body-focused effects. Hybrid strains combine characteristics of both.
+The system distinguishes betw cannabis sativa tiva cannabis indica dica varieties, which are generally associated with different subjective and therapeutic effects. Sativa-dominant strains tend to produce more cerebral, energizing effects, while indica-dominant strains tend to produce more sedating, body-focused effects. Hybrid strains combine characteristics of both.
 
 Different modes of administration — including inhalation (smoking, vaporization), oral ingestion (edibles, capsules, tinctures), sublingual administration, and topical application — are also considered, as the route of delivery significantly affects onset time, duration of effect, and bioavailability of cannabinoids.
 
@@ -66,11 +66,11 @@ Anandamide (AEA) is an endogenous cannabinoid (produced naturally by the human b
 
 ## Integration with Mind-Body Medicine
 
-A distinctive feature of the Cannabis Health Index is its integration of cannabis science with mind-body medicine principles. Blesching argues that the effectiveness of cannabis therapy is enhanced when combined with mindfulness techniques, emotional intelligence, and conscious intention-setting.
+A distinctive feature of the Cannabis Health Index is its integration of cannabis science with mind-body medicine principles. Blesching argues that the effectiveness of cannabis therapy is enhanced when combined with mindfulness techniques, [[blesching-cannabis-emotional-intelligence-healing-framework]], and conscious intention-setting.
 
 The Index includes guidance on the setting of cannabis use, the importance of intention in therapeutic outcomes, and the role of self-exploration in the healing process. It provides suggested affirmations, powerful questions for self-guided healing, and frameworks for identifying and releasing emotional patterns that may contribute to chronic illness.
 
-This integration reflects the scientific understanding that the endocannabinoid system — the body's own cannabinoid signaling network — is intimately connected to the neurobiology of emotions, stress response, and the mind-body interface. Cannabinoid receptors are found throughout the brain and body in regions that regulate mood, memory, pain perception, appetite, and immune function.
+This integration reflects the scientific understandi endocannabinoid system inoid system — the body's own cannabinoid signaling network — is intimately connected to the neurobiology of emotions, stress response, and the mind-body interface. Cannabinoid receptors are found throughout the brain and body in regions that regulate mood, memory, pain perception, appetite, and immune function.
 
 ## The CHI Scoring Methodology in Practice
 
@@ -88,7 +88,7 @@ The scoring system also accounts for negative findings — studies that fail to 
 
 The Cannabis Health Index recommends that users begin by locating their specific condition in the A-to-Z reference section and reviewing the associated CHI score and evidence summary. Higher scores indicate stronger evidence for therapeutic efficacy.
 
-Users should then consider the recommended cannabinoid profile, strain type, and mode of administration. The Index provides specific guidance on THC-to-CBD ratios, suggested starting doses, and the importance of finding an individual's subjective therapeutic window.
+Users should then consider the recommended cannabinoid profile, strain type, and mode of administration. The Index provides specific guidance on THC-to-CBD ratios, suggested starting doses, and the importance of finding an individual's [[cannabis-subjective-therapeutic-window-dosing]] window.
 
 The Index emphasizes the importance of the setting in which cannabis is consumed, the intention behind its use, and the process of self-exploration that accompanies therapeutic cannabis use. These mind-body medicine elements are presented not as optional supplements but as integral components of an effective therapeutic approach.
 
@@ -116,4 +116,4 @@ The broader question of contaminants in cannabis products — including pesticid
 
 ## References
 
-- Blesching, U. *The Cannabis Health Index: Combining the Science of Medical Marijuana with Mindfulness Techniques to Heal 100 Chronic Symptoms and Diseases*. North Atlantic Books, Berkeley, California, 2015.
+- Blesching, U. *The Cannabis Health Index: Combining the Science of [[cervantes-medical-marijuana-pharmacology]] with Mindfulness Techniques to Heal 100 Chronic Symptoms and Diseases*. North Atlantic Books, Berkeley, California, 2015.

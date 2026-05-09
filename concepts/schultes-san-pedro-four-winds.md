@@ -1,5 +1,5 @@
 ---
-title: San Pedro Cactus of the Four Winds
+title: San san-pedro-cactus-history of the Four Winds
 created: 2026-04-28
 tags:
   - ethnobotany
@@ -16,12 +16,12 @@ type: concept
 
 # San Pedro Cactus of the Four Winds
 
-The San Pedro cactus (*Echinopsis pachanoi*, syn. *[[schultes-peyote-tracks-little-deer]] for the North American mescaline
+The San Pedro cactus (*[[echinopsis-pachanoi]]*, syn. *[[schultes-peyote-tracks-little-deer]] for the [[growing-gourmet-north-american-reishi-species]] mescaline
   cactus with deep ceremonial significance
 - [[schultes-ayahuasca-magic-drink-amazon]] for the Amazonian visionary
   brew with related shamanic flight experiences
 - [[schultes-syrian-rue-seeds-civilization]] for beta-carboline chemistry
-  shared with ayahuasca preparations
+  shared with [[schultes-ayahuasca-preparations]]
 ## Practical Applications
 
 San Pedro Cactus of the Four Winds has a range of practical applications that make it relevant to
@@ -39,7 +39,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -89,7 +89,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -99,4 +99,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

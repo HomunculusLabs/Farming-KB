@@ -1,18 +1,18 @@
 ---
-title: Maitake (Grifola Frondosa) — Comprehensive Profile
+title: Maitake (maitake grifola frondosa comprehensive profile) — Comprehensive Profile
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
+  sources: []
 ---
 
-**Source:** Mycelium Running (Paul Stamets) | **Updated:** 2026-04-18
+**Source:** [[woodlovers-mycelium-running-pathway-technique]] (Paul Stamets) | **Updated:** 2026-04-18
 
 ## Overview
 
-Called maitake ("dancing mushroom"), hen-of-the-woods, or kumotake ("cloud mushroom"), this delicious soft-fleshed polypore has excellent nutritional and medicinal properties. One of the most promising medicinal mushrooms for cancer treatment, diabetes, and immune enhancement. See also [[maitake-cultivation-guide]], and [[maitake-mushroom-research]]
+Called maitake ("dancing mushroom"), hen-of-the-woods, or kumotake ("cloud mushroom"), this delicious soft-fleshed polypore has excellent nutritional and medicinal properties. One of the most promising [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] for cancer treatment, diabetes, and immune enhancement. See also [[maitake-cultivation-guide]], and [[maitake-mushroom-research]]
 - [[maitake-d-fraction-research]]
 - [[reishi-mushroom-medicinal-properties]]
 - [[medicinal-mushroom-extraction-preparation]]
@@ -21,7 +21,7 @@ Called maitake ("dancing mushroom"), hen-of-the-woods, or kumotake ("cloud mushr
 
 - [[maitake-grifola-frondosa]]
 
-- [[casing-layer-preparation]]
+- casing-layer-preparation
 ## Practical Applications
 
 Maitake (Grifola Frondosa) — Comprehensive Profile has a range of practical applications that make it relevant to
@@ -99,4 +99,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

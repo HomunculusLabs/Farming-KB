@@ -12,7 +12,7 @@ tags:
   - ornamental
   - southeastern-us
 sources:
-  - Lloyd, J.U., Lloyd, C.G. (1885). "Gelsemium." Drugs and Medicines of North America.
+  - Lloyd, J.U., Lloyd, C.G. (1885). "Gelsemium." Drugs and Medicines of psilocybin-north-america-pacific-northwest.
   - Spoerke, D.G., Smolinske, S.C. (1990). "Toxicity of Houseplants." CRC Press.
   - Wink, M., Van Wyk, B.E. (2008). "Mind-Altering and Poisonous Plants of the World." Timber Press.
   - USDA Natural Resources Conservation Service. "Gelsemium sempervirens" PLANTS Database.
@@ -21,7 +21,7 @@ sources:
 
 ## Overview
 
-**Gelsemium sempervirens** (L.) J.St.-Hil., commonly known as **Carolina jessamine**, yellow jessamine, evening trumpetflower, or woodbine, is a twining evergreen vine native to the southeastern United States and Central America. It is the state flower of South Carolina.
+**Gelsemium sempervirens** (L.) J.St.-Hil., commonly known as **Carolina jessamine**, yellow jessamine, evening trumpetflower, or woodbine, is a twining evergreen vine native to the southeastern United States and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. It is the state flower of South Carolina.
 
 Despite its ornamental beauty and sweet-scented flowers, all parts of the plant contain potent **indole alkaloids** — primarily gelsemine, gelseminine, and sempervirine — which act as competitive antagonists at glycine receptors. Ingestion causes progressive paralysis and has resulted in numerous human and livestock fatalities.
 
@@ -67,7 +67,7 @@ Onset of symptoms occurs within 30 minutes to several hours after ingestion. Chi
 
 ## Pharmacology and Ethnobotanical Use
 
-Despite its toxicity, *G. sempervirens* has a long history of medicinal use among Native American peoples and in 19th-century eclectic medicine.
+Despite its toxicity, *G. sempervirens* has a long history of medicinal use among [[halpern-sacramental-peyote-and-native-american-church]] peoples and in 19th-century eclectic medicine.
 
 The Cherokee used root preparations as an analgesic for neuralgia, headache, and toothache. The Creek applied poultices of the root to inflammations and swellings. Seminole healers used the root for fever and rheumatism, always at carefully controlled doses.
 
@@ -77,15 +77,15 @@ Modern herbalists and homeopaths continue to use *Gelsemium* preparations, parti
 
 ## Cultivation and Ornamental Use
 
-Carolina jessamine is widely cultivated as an ornamental vine for its showy, fragrant flowers and evergreen foliage. It is easily propagated from softwood cuttings taken in summer or from semi-hardwood cuttings in autumn. Seed propagation is also possible but slower.
+Carolina jessamine is widely cultivated as an ornamental vine for its showy, fragrant flowers and evergreen foliage. It is easily propagated from softwood cuttings taken in summer or from semi-hardwood cuttings in autumn. [[jeavons-seed-propagation-techniques]] is also possible but slower.
 
 The plant prefers moist, organically rich soil with good drainage. It tolerates partial shade but flowers most profusely in full sun. Established plants are moderately drought-tolerant. Pruning after flowering controls size and promotes dense, bushy growth.
 
-Popular cultivars include 'Pride of Augusta' (double flowers), 'Woodlander's Pale Yellow' (cream-colored flowers), and 'Margarita' (compact growth, cold-hardy to zone 7). The vine is relatively pest-free, though spider mites and scale insects may occur.
+Popular cultivars include 'Pride of Augusta' (double flowers), 'Woodlander's Pale Yellow' (cream-colored flowers), and 'Margarita' ([[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]], cold-hardy to zone 7). The vine is relatively pest-free, though spider mites and scale insects may occur.
 
 ## Related Species
 
-- **Gelsemium elegans** — heartbreak grass; extremely toxic species from Southeast Asia, implicated in suicides and folk medicines
+- **Gelsemium elegans** — heartbreak grass; extremely toxic species from [[psilocybe-southeast-asia-pacific]], implicated in suicides and folk medicines
 - **Gelsemium rankinii** — Rankin's jessamine; flowers in autumn, found in the Florida Panhandle
 - **Mostuea brunonis** — African relative in the same family, also containing gelsemine-type alkaloids
 

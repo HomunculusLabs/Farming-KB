@@ -1,5 +1,5 @@
 ---
-title: Specialist Tropical Crops and Non-Timber Forest Products
+title: mollison specialist tropical crops forest products Crops and Non-Timber Forest Products
 created: 2026-04-26
 tags: [tropical-crops, essential-oils, rubber, medicinal, permaculture]
 date: 2026-04-25
@@ -11,9 +11,9 @@ type: concept
 
 # Specialist Tropical Crops and Non-Timber Forest Products
 
-[[mollison-tropical-and-coastal-permaculture-design]]
+mollison-tropical-and-coastal-permaculture-design
 - [[mollison-tree-crop-systems-permaculture]]
-- [[mollison-local-currency-and-informal-economy]]
+- mollison-local-currency-and-informal-economy
 ## Background and Context
 
 Specialist Tropical Crops and Non-Timber Forest Products is an important subject that has garnered significant attention
@@ -64,7 +64,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -142,4 +142,7 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-
+## See Also
+- [[mollison-wet-tropical-forest-structure-and-polyculture]]
+- [[mollison-pdc-forest-management-products]]
+- [[tree-vine-crops-arid-tropical-mollison]]

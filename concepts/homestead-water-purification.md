@@ -9,7 +9,7 @@ sources: []
 
 # Homestead Water Purification
 
-Reliable water purification is essential for any [[off-grid-waste-management|off-grid]] or [[homesteading|rural]] [[homesteading|homestead]]. Whether your water comes from a well, spring, creek, or rainwater catchment, it may contain bacteria, viruses, parasites, chemicals, heavy metals, or sediment. A multi-barrier approach using complementary treatment methods ensures safe drinking water.
+Reliable water purification is essential for any [[off-grid-waste-management|off-grid]] or [[homesteading|rural]] [[homesteading|homestead]]. Whether your water comes from a well, spring, creek, or rainwater catchment, it may contain bacteria, viruses, parasites, chemicals, [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]], or sediment. A multi-barrier approach using complementary treatment methods ensures safe drinking water.
 
 ## Water Quality Testing
 
@@ -48,7 +48,7 @@ Before selecting a purification system, test your water:
 **How they work:** Water passes through microscopic pores in a ceramic candle that block bacteria and sediment. Many contain impregnated silver for antibacterial properties.
 
 **Popular systems:**
-- **Berkey (Big Berkey, Royal Berkey)**: Most popular gravity filter. Stainless steel housing, black Berkey elements filter bacteria, viruses (some models), cysts, chemicals, and heavy metals. Flow rate: 2.75 gallons/hour for Big Berkey with 2 elements.
+- **Berkey (Big Berkey, Royal Berkey)**: Most popular gravity filter. Stainless steel housing, black Berkey elements filter bacteria, viruses (some models), cysts, chemicals, and [[mycoremediation-of-heavy-metals]]. Flow rate: 2.75 gallons/hour for Big Berkey with 2 elements.
 - **Doulton/British Berkefeld**: Similar ceramic filter technology, widely used internationally.
 - **Katadyn Pocket**: Portable ceramic filter for backpacking — too small for household use but useful as backup.
 
@@ -142,61 +142,6 @@ Before selecting a purification system, test your water:
 - More stable than bleach for long-term storage
 - Mix a small amount with water to create a chlorine solution
 - Treat drinking water with the solution
-- Excellent for emergency preparedness and long-term off-grid use
-
-### Biosand Filters
-
-**How they work:** A container filled with sand and gravel supports a biological layer (schmutzdecke) that breaks down pathogens as water slowly percolates through.
-
-**Pros:**
-- No electricity, no chemicals
-- Can be built from local materials (concrete, sand, gravel)
-- Long-lasting with minimal maintenance
-- Proven technology (used in developing countries worldwide)
-
-**Cons:**
-- Slow flow rate (0.5-1 liter per minute)
-- Requires consistent use to maintain biological layer
-- Does not remove viruses effectively
-- Requires periodic cleaning
-
-## System Design: Multi-Barrier Approach
-
-No single method addresses all contaminants. A complete homestead water system layers multiple treatments:
-
-### Recommended System for Well Water
-
-1. **Sediment filter** (5-20 micron): Removes sand, silt, rust
-2. **Carbon filter**: Removes chlorine, VOCs, pesticides, bad taste
-3. **UV purifier**: Kills bacteria and viruses
-4. **Optional RO at kitchen tap**: For drinking/cooking water only
-
-### Recommended System for Surface Water (Creek/Spring)
-
-1. **Coarse screen**: Removes leaves, debris, large particles
-2. **Sediment filter** (5-20 micron): Removes fine particles
-3. **Ceramic filter or UV**: Kills/removes pathogens
-4. **Carbon filter**: Removes chemicals and improves taste
-5. **Boil or treat**: As backup before drinking
-
-### Rainwater Purification
-
-1. **First-flush diverter**: Discards the first rain that washes the roof
-2. **Mesh screen**: Filters debris from downspouts
-3. **Storage tank**: Dark, opaque tank to prevent algae growth
-4. **Ceramic filter + UV**: For drinking water point-of-use
-5. **Boil before drinking** as additional safety
-
-## Well Water Treatment
-
-### Common Well Problems and Solutions
-
-- **Bacteria**: Shock chlorinate the well (pour chlorine solution, let sit 12-24 hours, flush)
-- **Iron**: Oxidizing filter (greensand or birm) removes iron
-- **Hard water**: Water softener (ion exchange) or magnetic conditioner
-- **Low pH (acidic)**: Acid neutralizer (calcite or corosex media)
-- **Hydrogen sulfide (rotten egg smell)**: Carbon filter or aeration system
-- **Sediment**: Sediment filter cartridge (replaceable)
 ## Related
 
 ## See Also

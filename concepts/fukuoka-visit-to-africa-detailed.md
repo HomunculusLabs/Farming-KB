@@ -1,11 +1,12 @@
 ---
-title: Fukuoka Visit to Africa and the Bushman
+title: Fukuoka fukuoka visit to africa detailed and the Bushman
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # [[fukuoka-natural-farming-philosophy-of-mu]] man able to immerse himself in his own joy."
@@ -14,9 +15,9 @@ However, what troubles Fukuoka is not the Bushman himself but the environment: "
 
 ## Not Primitive but Degraded
 
-Fukuoka firmly rejects the idea that the Bushman's life represents natural farming's ideal: "If the Bushman really led a primitive life and were to practice natural farming, say, I'm certain that there would be a greater abundance of nature around." The Bushman's existence "is nothing of the sort. The nature in the background is just too poor."
+Fukuoka firmly rejects the idea that the Bushman's life represents [[comparison-natural-farming-vs-permaculture]]'s ideal: "If the Bushman really led a primitive life and were to practice natural farming, say, I'm certain that there would be a greater abundance of nature around." The Bushman's existence "is nothing of the sort. The nature in the background is just too poor."
 
-"The land of the Bushman is not a utopia. He lives a life of hardship and scarcity in the midst of an unnatural environment. This is really only an awkward, scrabbling existence... It is just an impoverished world."
+"The land of the Bushman is not a utopia. He lives a life of hardship and scarcity in the midst of an unnatural environment. This is really only an awkward, [[fukuoka-bushman-scrabbling-existence-not-natural]]... It is just an impoverished world."
 
 ## No True Ecological Balance
 
@@ -32,7 +33,7 @@ Unlike romantic primitivists, Fukuoka argues: "Perhaps those primitive people, t
 
 Fukuoka contrasts the degraded African environment with his vision of true nature:
 
-"Nature is fundamentally perfect. Here are to be found the most exalted truths, the highest good, and the greatest riches. Both spiritually and materially, nature is replete with the greatest possible wealth. Nature is a place where flowers bloom and birds sing, a place of verse and song. Here lies everything. It is a paradise where joy and contentment reign."
+"Nature is [[fukuoka-nature-fundamentally-perfect-self-enriching]]. Here are to be found the most exalted truths, the highest good, and the greatest riches. Both spiritually and materially, nature is replete with the greatest possible wealth. Nature is a place where flowers bloom and birds sing, a place of verse and song. Here lies everything. It is a paradise where joy and contentment reign."
 
 When human agriculture causes destruction, even abundant harvests mask the real loss: "Even if the rice harvest is plentiful, the soil at one's feet has wasted away; insects and frogs no longer inhabit the fields and dragonflies no longer fly overhead. When no poem remains, nature has died, leaving man to live in a land of spiritual destitution."
 
@@ -52,7 +53,7 @@ Connecting to his rice field observations, Fukuoka notes: "I myself was amazed t
 
 ## Touching the Great Spirit
 
-Fukuoka recounts a visit from a Native American woman during the "March for Survival" procession from Tokyo through Hokkaido. When she experienced his farm, she cried out "Great Spirit! Great Spirit!" -- a phrase he had never heard before.
+Fukuoka recounts a visit from a [[halpern-sacramental-peyote-and-native-american-church]] woman during the "March for Survival" procession from Tokyo through Hokkaido. When she experienced his farm, she cried out "Great Spirit! Great Spirit!" -- a phrase he had never heard before.
 
 "What I am talking about here definitely is not a return to the primitive. I suppose one could call it a return to the present."
 
@@ -60,7 +61,7 @@ Fukuoka recounts a visit from a Native American woman during the "March for Surv
 
 Fukuoka closes his Africa reflections with his vision for agriculture: if Japanese laws changed, "the 120 million Japanese would spread out over the 15 million acres of arable land the country has -- that's a quarter-acre for each of the 60 million households. Without using machinery, they could build a house on that plot of land and grow everything they need there -- vegetables, fruit, grains."
 
-By planting "a single black wattle seed or sapling each year, then in ten years time, even without a single drop of petroleum, everyone would have plenty of fuel for the winter."
+By planting "a single [[fukuoka-black-wattle-fertilizer-tree-method]] seed or sapling each year, then in ten years time, even without a single drop of petroleum, everyone would have plenty of fuel for the winter."
 
 "Ideally, this would take the form of small, self-sufficient communities. All matters would be taken care of right on the family farm."
 

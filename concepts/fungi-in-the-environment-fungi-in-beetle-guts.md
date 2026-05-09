@@ -1,5 +1,5 @@
 ---
-title: Fungi in Beetle Guts
+title: fungi in the environment fungi in beetle guts Guts
 tags:
   - mycology
   - insect-fungi-symbiosis
@@ -19,7 +19,7 @@ type: concept
 
 # Fungi in Beetle Guts
 
-The guts of beetles harbour a remarkable and largely unexplored diversity of fungi, predominantly yeasts. Insect-fungal symbioses are widespread in nature, but while bacterial endosymbionts of insects have been intensively studied for their roles in nutrition, reproduction, and speciation, fungal associates have received far less attention. Recent research on beetle gut yeasts has revealed an extraordinary hidden fungal diversity that significantly expands known yeast taxonomy.
+The guts of beetles harbour a remarkable and largely unexplored diversity of fungi, predominantly yeasts. Insect-fungal symbioses are widespread in nature, but while bacterial endosymbionts of insects have been intensively studied for their roles in nutrition, reproduction, and speciation, fungal associates have received far less attention. Recent research on beetle gut yeasts has revealed an extraordinary hidden [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] that significantly expands known yeast taxonomy.
 
 ## Context: Insect Endosymbionts
 
@@ -101,7 +101,7 @@ The beetle gut ecosystem has proven to be an extraordinarily rich source of nove
 - Current estimates of global yeast diversity are likely vast underestimates
 - Insect-fungal associations may be far more prevalent and specific than previously recognized
 - The functional roles of gut yeasts in insect nutrition, detoxification, and digestion are only beginning to be understood
-- Molecular methods (gene cloning, microscopy) reveal organisms missed by standard culture techniques
+- Molecular methods (gene cloning, microscopy) reveal organisms missed by standard [[agar-culture-techniques-detailed]]
 
 ## Comparison With Bacterial Gut Symbionts
 
@@ -111,13 +111,16 @@ One notable difference is that bacterial endosymbionts are often vertically tran
 
 ## Prospects for Discovery
 
-The beetle gut remains one of the most promising frontiers for fungal biodiversity discovery. With an estimated 350,000 to 400,000 described beetle species (and many more undescribed), and with the majority not yet examined for gut fungi, the potential for new yeast species is enormous. The discovery of the *Candida tanzawaensis* clade as a major insect-associated radiation suggests that many more such specialized clades await discovery. Advances in high-throughput sequencing and single-cell genomics will likely accelerate this discovery process in the coming years.
+The beetle gut remains one of the most promising frontiers for [[biodiversity-fungal-biodiversity-estimation-methods]] discovery. With an estimated 350,000 to 400,000 described beetle species (and many more undescribed), and with the majority not yet examined for gut fungi, the potential for new yeast species is enormous. The discovery of the *Candida tanzawaensis* clade as a major insect-associated radiation suggests that many more such specialized clades await discovery. Advances in high-throughput sequencing and single-cell genomics will likely accelerate this discovery process in the coming years.
 
 ## See Also
 
-- [[fungi-in-the-environment-decomposition-wood-decay]] for fungal decomposition of woody substrates
-- [[fungi-in-the-environment-soil-fungal-community-structure]] for fungal communities in soil habitats
+- [[fungi-in-the-environment-decomposition-wood-decay]] for [[dighton-fungal-decomposition-leaf-litter-dynamics]] of woody substrates
+- fungi-in-the-environment-soil-fungal-community-structure for [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] in soil habitats
 
 ## See Also
 
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
+- [[decomposition]]
+- [[fungal-decomposition]]
+- [[pichia-stipitis]]

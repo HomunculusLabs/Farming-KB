@@ -1,5 +1,5 @@
 ---
-title: JADAM Fungal Disease Management
+title: JADAM Fungal plant-disease-management-solomon
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -13,11 +13,11 @@ JADAM controls fungal diseases through a two-tier approach: [[ultra-low-jadam-su
 
 ## Prevention: JMS Microbial Occupation
 
-The core preventive strategy is regular JMS foliar application. JMS contains 0.1-1 billion microorganisms per milliliter at peak foam. Spraying JMS on leaves increases microbial diversity and prevents any single pathogen from gaining dominance.
+The core preventive strategy is regular JMS [[ultra-low-cost-foliar-application-methods]]. JMS contains 0.1-1 billion microorganisms per milliliter at peak foam. Spraying JMS on leaves increases microbial diversity and prevents any single pathogen from gaining dominance.
 
 **Preventive spray (per 500L):**
 - JMS: 20L (5.3 gal)
-- Jerusalem artichoke JHS: 5L (1.3 gal)
+- [[comparison-jerusalem-artichoke-vs-potato]] JHS: 5L (1.3 gal)
 - Gingko JHS: 5L (1.3 gal)
 - JWA: 3L (0.8 gal)
 
@@ -50,7 +50,7 @@ Controlled with the same Program 4 as powdery mildew. Downy mildew prefers cool,
 - JS: 2L (0.53 gal)
 - Apply every 2 days for 2-3 total applications
 
-Canker is analogous to athlete's foot in humans -- both are caused by a dominant pathogen that chemical treatments struggle to control. The JADAM approach of microbial diversity (via JMS and leaf mold) addresses the root cause.
+Canker is analogous to athlete's foot in humans -- both are caused by a dominant pathogen that chemical treatments struggle to control. The JADAM approach of microbial diversity (via JMS and [[comparison-leaf-mold-composting-vs-hot-composting-method]]) addresses the root cause.
 
 ## Black Spot (Citrus, Pear, Plum)
 
@@ -76,7 +76,7 @@ Canker is analogous to athlete's foot in humans -- both are caused by a dominant
 
 ## Grey Mold (Botrytis)
 
-Found on strawberries and other soft fruit. Controlled with Program 4 (JWA 3L + JS 1.2L).
+Found on strawberries and other [[growing-soft-fruit-organically]]. Controlled with Program 4 (JWA 3L + JS 1.2L).
 
 ## Green Mold (Citrus)
 
@@ -123,7 +123,7 @@ Prevent soil-borne and seed-borne fungal diseases at planting:
 ## See Also
 
 - [[jadam-pesticide-for-powdery-mildew]] -- focused powdery mildew program
-- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] -- understanding plant immune responses to fungal pathogens## Related
+- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] -- understanding plant immune responses to [[bloomfield-fungal-pathogens-and-parasites]]## Related
 
 - [[jadam-seed-treatment-leaf-mold]]
 - [[jadam-canker-leaf-spot-pesticide]]

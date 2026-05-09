@@ -21,7 +21,7 @@ type: concept
 Mushrooms have apparently been ceremonially employed in
 Mesoamerica for many centuries. Archaeological discoveries have
 revealed a rich material culture associated with the ritual use
-of psychoactive fungi, providing concrete evidence for the great
+of [[cattle-dispersal-psychoactive-fungi-australia]], providing concrete evidence for the great
 antiquity of mushroom worship in the region.
 
 ## The Mushroom Stones of Guatemala
@@ -37,7 +37,7 @@ significance.
 Although the majority of mushroom stones are Guatemalan, some
 have been unearthed in El Salvador and Honduras, and others as
 far north as Veracruz and Guerrero in Mexico. This wide
-geographic distribution indicates that the sacred mushroom cult
+geographic distribution indicates that [[allegro-the-sacred-mushroom-amanita-identification]] cult
 was widespread throughout Mesoamerica.
 
 It has been postulated that stone mushroom effigies buried with
@@ -72,8 +72,8 @@ have been identified as sacred, most of them inebriating, plants.
 
 The pedestal on which he sits is decorated with designs
 representing cross-sections of the caps of Psilocybe aztecorum,
-a hallucinogenic mushroom known only from this volcano. The glyphs
-depict: a mushroom cap; the tendril of Morning Glory; the flower
+a [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]] known only from this volcano. The glyphs
+depict: a mushroom cap; the tendril of [[golden-guide-morning-glory-and-ololiuqui]]; the flower
 of Tobacco; the flower of the sacred Morning Glory; the bud of
 Sinicuichi; and stylized caps of Psilocybe aztecorum.
 
@@ -85,7 +85,7 @@ including the mushrooms that, in Nahuatl poetry, were called
 ## The Magliabecchiano Codex
 
 A celebrant depicted in the sixteenth-century Magliabecchiano
-Codex is shown ingesting a pair of hallucinogenic mushrooms during
+Codex is shown ingesting a pair of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] during
 a sacred rite. Behind him is the Lord of the Underworld,
 Mictlantecuhtli. The three jade green mushrooms in front of the
 celebrant were painted in this color to indicate their great value
@@ -105,7 +105,7 @@ Traditions among contemporary Huichol Indians in Jalisco also
 suggest the former religious use of these fungi "in ancient times."
 These ceramic figurines, showing figures with mushroom-like
 protuberances, provide additional evidence of a widespread
-prehistoric mushroom complex in western Mexico.
+[[archaeology-of-ecstasy-prehistoric-mushroom-use]] complex in western Mexico.
 
 ## South American Evidence
 

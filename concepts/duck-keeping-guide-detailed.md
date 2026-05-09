@@ -1,10 +1,11 @@
 ---
-title: Duck Keeping Detailed Guide
+title: comparison-duck-keeping-vs-rabbit-husbandry Detailed Guide
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [reference]
 sources:
+  sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 
@@ -34,7 +35,7 @@ Ducks are the gentlest and most versatile poultry. They eat algae and weeds from
 
 - With adequate water, grassy yard, and forage garden: minimal extra feed needed
 - Ducks need young grass; will quickly destroy a small unvaried pasture
-- Best grain: wheat (goes well with oats)
+- [[query-best-grain-legumes-for-a-small-homestead]]: wheat (goes well with oats)
 - Hard round fruits and vegetables must be crushed first
 - Protein sources: liquid milk, hard-boiled eggs
 - Calcium: eggshells or seashells
@@ -90,13 +91,13 @@ Ancona, Appleyard, Buff, Magpie, Saxony. Saxony is probably the best for foragin
 
 ## Outputs
 
-Eggs, meat, feathers, pest control (slugs, snails, grubs), fertilizer, pond algae management.
+Eggs, meat, feathers, [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] (slugs, snails, grubs), fertilizer, pond algae management.
 
-See also: [[goose-keeping-detailed]], [[permaculture-retrofit-suburbia]], it is the non-consuming use of nature's services where we can experience a deeper harmony with nature. When we make use of the services of living nature (animals, plants, soil and self-purifying water systems) to provide for our needs, we reduce our demand for consuming both renewable and non-renewable resources.
+See also: [[goose-keeping-detailed]], permaculture-retrofit-suburbia, it is the non-consuming use of nature's services where we can experience a deeper harmony with nature. When we make use of the services of living nature (animals, plants, soil and self-purifying water systems) to provide for our needs, we reduce our demand for consuming both renewable and non-renewable resources.
 
 ## The Chook Tractor
 
-The classic Permaculture example: the natural scratching action of the fowl is used to cultivate the soil instead of a tractor or rotary hoe. The comparison of the fowl to the tractor reveals that the functions of a tractor are better understood than those of a fowl. At the same time as it cultivates, the fowl's foraging for insects replaces the use of toxic insecticides and its manure replaces use of energy-intensive fertilisers. See duck keeping guide detailed and [[permaculture-aquaculture-guide]] and [[holmgren-mineral-fertilizers-soil-building]].
+The classic Permaculture example: the natural scratching action of the fowl is used to cultivate the soil instead of a tractor or rotary hoe. The comparison of the fowl to the tractor reveals that the functions of a tractor are better understood than those of a fowl. At the same time as it cultivates, the fowl's foraging for insects replaces the use of toxic insecticides and its manure replaces use of energy-intensive fertilisers. See duck duck keeping guide detailed detailed and [[permaculture-aquaculture-guide]] and holmgren-mineral-fertilizers-soil-building.
 
 ## Pioneer Plants Building Soil
 
@@ -104,7 +105,7 @@ Pioneer plants that build soil fertility, with or without the help of soil micro
 
 ## Melliodora Examples
 
-Examples from Holmgren's own [[holmgren-design-patterns-details-detailed]] site include:
+Examples from Holmgren's own holmgren-design-patterns-details-detailed site include:
 
 - Design to reduce chance of fowls scratching newly planted vegetables by keeping a breed (Black Australorp) that can generally be contained by standard-height fences
 
@@ -120,7 +121,7 @@ Often a combination of technological and biological elements is complementary:
 
 ## The African Agroforestry Revolution
 
-In poorer countries there are huge opportunities to use biological services. During the 1990s the International Centre for Agroforestry (ICRAF) in Nairobi researched fast-growing leguminous shrubs and trees to allow the poorest farmers to rebuild soil fertility and provide fodder for dairy cows. These biological solutions produced more manure for soil fertility and milk for protein and cash.
+In poorer countries there are huge opportunities to use [[holmgren-biological-services-working-animals]]. During the 1990s the International Centre for Agroforestry (ICRAF) in Nairobi researched fast-growing leguminous shrubs and trees to allow the poorest farmers to rebuild soil fertility and provide fodder for dairy cows. These biological solutions produced more manure for soil fertility and milk for protein and cash.
 
 The dramatic local success of these systems led to adoption across Kenya and beyond. These classic Permaculture solutions, using plants as substitutes for unavailable conventional fertilisers, increased yields of corn up to tenfold. Some of the legumes used come from Mexico, the original home of corn brought to Africa centuries ago.
 

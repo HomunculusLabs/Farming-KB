@@ -1,5 +1,5 @@
 ---
-title: "Wastewater Treatment Wetlands"
+title: "mollison designers wastewater treatment wetlands Wetlands"
 created: 2026-04-28
 tags:
   - constructed-wetlands
@@ -36,7 +36,7 @@ Mollison draws a clear distinction between greywater and blackwater:
 - **Greywater**: Wastewater from baths, showers, bathroom sinks, and
   laundry. This constitutes 50 to 80 percent of total household wastewater
   volume and is relatively easy to treat because it contains low
-  concentrations of pathogens and organic matter.
+  concentrations of pathogens and [[hamilton-composting-and-organic-matter-management]].
 - **Blackwater**: Wastewater from toilets (and sometimes kitchen sinks)
   containing human faeces. This requires more intensive treatment due to
   high pathogen loads and nutrient concentration.
@@ -51,7 +51,7 @@ is maintained below the gravel surface, preventing mosquito breeding and
 human exposure. Subsurface systems provide more consistent treatment because
 water is in constant contact with the biofilm on gravel surfaces.
 
-Subsurface flow wetlands are generally preferred [[gaias-garden-polyculture-design-guidelines]] for subsurface flow reed
+Subsurface flow wetlands are generally preferred gaias-garden-polyculture-design-guidelines for subsurface flow reed
 beds:
 
 - **Sizing**: Allow approximately 2 to 5 square metres per person for
@@ -65,13 +65,13 @@ beds:
 - **Slope**: A gentle slope of 1 to 3 percent ensures water flows through
   the media without ponding.
 - **Plants**: Common reed (Phragmites australis) is the standard species
-  because of its vigorous root system, high nutrient uptake, and winter
+  because of its vigorous root system, high [[plant-nutrient-uptake-mechanisms]], and winter
   hardiness. Local equivalents should be used where Phragmites is
   invasive.
 
 ## Treatment Process and Nutrient Cycling
 
-Constructed wetlands purify water through a combination of physical,
+[[comparison-constructed-wetlands-vs-bioswales]] purify water through a combination of physical,
 chemical, and biological processes:
 
 1. **Physical filtration**: Particulate matter is trapped in the gravel
@@ -92,8 +92,8 @@ After treatment in a [[comparison-greywater-vs-constructed-wetland]], effluent c
 through a sand filter or UV treatment and reused for irrigation, toilet
 flushing, or aquifer recharge. Mollison emphasizes that treated effluent
 should be used to irrigate non-food crops or fruit trees (where contact
-between effluent and edible portion is minimal) rather than root vegetables
-or leafy greens eaten raw.
+between effluent and edible portion is minimal) rather than [[growing-root-vegetables-guide]]
+or [[solomon-leafy-greens-growing]] eaten raw.
 
 The biomass produced by wetland plants (reeds, cattails) can be harvested
 for mulch, compost, or biofuel, closing the nutrient loop and returning

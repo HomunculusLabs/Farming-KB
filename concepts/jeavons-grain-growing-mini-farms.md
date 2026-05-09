@@ -1,5 +1,5 @@
 ---
-title: "Grain Growing in Mini-Farms"
+title: "jeavons grain growing mini farms in Mini-Farms"
 created: 2026-04-28
 tags: [biointensive, grains, calorie-crops, wheat, mini-farming,
   self-sufficiency, protein-crops]
@@ -11,7 +11,7 @@ type: concept
 
 # Grain Growing in Mini-Farms
 
-Growing grains is a central component of the GROW BIOINTENSIVE
+Growing grains is a central component of the [[jeavons-grow-biointensive-method-overview]]
 mini-farm system. Grains serve as dual-purpose crops — providing both
 nutritious food and large amounts of carbonaceous material for the
 [[jeavons-tree-cane-crops]] like potatoes. Each
@@ -87,7 +87,7 @@ Mini-Series Booklet "Growing to Seed."
 
 ### Compost Crop Role
 
-Grain crops contribute significantly to the compost pile. The straw
+Grain crops contribute significantly to the [[mushroom-cultivator-compost-pile-management]]. The straw
 and stalks provide the carbonaceous material that, when combined with
 nitrogen-rich kitchen scraps and garden waste, creates balanced
 compost. This is the foundation of the [[jeavons-tree-cane-crops]] to increase soil

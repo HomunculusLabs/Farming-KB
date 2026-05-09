@@ -1,5 +1,5 @@
 ---
-title: "DMT Hyperspace and Smoked Tryptamines"
+title: "turner dmt hyperspace and smoked tryptamines and Smoked Tryptamines"
 created: 2026-04-28
 tags: [DMT, tryptamine, hyperspace, 5meo-dmt, smoking]
 date: 2026-04-25
@@ -13,10 +13,10 @@ type: concept
 ## Introduction
 
 N,N-Dimethyltryptamine (DMT) and 5-Methoxy-DMT (5-MeO-DMT) are
-naturally occurring psychedelics found in plants around the world,
+naturally occurring psychedelics found in plants [[fungi-around-the-world-species-distribution]],
 several native to the Amazon region. They are also found in the human
 brain as neurotransmitters, as well as in blood, urine, and spinal
-fluid. DMT is produced in the human pineal gland, correlated to the
+fluid. DMT is produced in the human [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]], correlated to the
 "third eye" or Ajna Chakra in the Indian spiritual system. Turner
 rated DMT at intensity 9 to 10 and titled it "Candy for the Mind."
 
@@ -103,4 +103,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

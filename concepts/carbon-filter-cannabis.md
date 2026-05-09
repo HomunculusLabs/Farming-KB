@@ -1,5 +1,5 @@
 ---
-title: Carbon Filter Cannabis
+title: cervantes-ventilation-fan-carbon-filter-setup Cannabis
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -10,12 +10,12 @@ tags: [cannabis]
 
 # Carbon Filter Cannabis
 
-Activated carbon (charcoal) filters are the primary tool for controlling cannabis odor
-in indoor grow operations. They work by absorbing odor molecules and other airborne
+Activated carbon (charcoal) filters are the primary tool for controlling [[query-how-to-manage-cannabis-odor-and-stay-discreet]]
+in [[cannabis-indoor-grow-lighting-systems]] operations. They work by absorbing odor molecules and other airborne
 pollutants as air passes through a bed of activated carbon. When properly set up, a
 carbon filter connected to an [[cannabis-indoor-ventilation-setup]] or
 in-line fan. Air is pulled through the filter by the fan, cleaned, and then exhausted
-out of the grow room. The filter should be mounted as high as possible in the room since
+out of the [[cannabis-grow-room-setup]]. The filter should be mounted as high as possible in the room since
 warm, odorous air rises. Ensure the filter hangs freely -- do not place it on the floor
 or against a wall where airflow is restricted. A carbon filter connected around week 6 of
 flowering helps prevent odors from escaping as buds become most fragrant.
@@ -112,4 +112,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

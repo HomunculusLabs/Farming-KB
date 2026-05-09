@@ -1,4 +1,3 @@
-
 # Year-Round Marketing Calendar
 
 [[community-supported-agriculture-csa]] Agriculture programs are particularly well-suited
@@ -8,19 +7,19 @@ off-season:
   from spring through winter, with the share composition shifting to
   reflect seasonal availability.
 - **Winter-only CSA:** A separate, shorter CSA program running from
-  November through March, focusing exclusively on winter crops.
+  November through March, focusing exclusively on [[coleman-semi-hibernating-winter-crops-harvest-extension]].
 - **Market-style winter shares:** Members receive a credit or
   selection card to use at winter farmers' markets or farm stands.
 
 Winter CSA shares typically consist of salad greens, cooking greens,
 [[coleman-mache-and-specialty-winter-greens]] should be priced higher
-  than summer equivalents to reflect increased production costs.
+  than summer equivalents to reflect [[fukuoka-textdoc-increased-production-not-increased-yields]] costs.
   Customers understand and accept this premium in exchange for
   freshness and local sourcing.
 - **Volume discounts for committed customers:** CSA members receive
   better per-unit pricing than occasional market buyers, rewarding
   commitment and providing stable cash flow.
-- **Restaurant pricing:** Chefs value winter greens highly and will
+- **Restaurant pricing:** Chefs value [[coleman-winter-greens-nutritional-quality-cold-sweetening]] highly and will
   pay premium prices for consistent supply and quality. Restaurant
   accounts provide stable, predictable demand.
 
@@ -58,10 +57,10 @@ program.
 
 ## Farmers' Market Presence
 
-Winter farmers' markets are growing rapidly across North America.
+Winter farmers' markets are growing rapidly across [[psilocybin-north-america-pacific-northwest]].
 Coleman was an early advocate for extending market seasons into the
 winter months. His presence at winter markets with fresh greens and
-root vegetables draws customers who would otherwise not attend.
+[[growing-root-vegetables-guide]] draws customers who would otherwise not attend.
 
 Display is critical at winter markets. Coleman's farm presents
 winter greens in attractive bunches and mixes, often with samples
@@ -71,10 +70,11 @@ and serves as its own marketing tool.
 
 ## Building Customer Loyalty Through Education
 
-Coleman educates customers about the winter harvest system through
+Coleman educates customers about the [[coleman-claytonia-winter-harvest-cultivation]] system through
 farm newsletters, website content, and direct conversation. When
 customers understand the technology and effort behind winter
 production — the high tunnels, [[square-foot-gardening]] due to premium pricing and reduced competition.
 This economic model makes [[small-scale-dairy-guide]] farming viable without
 off-farm income and supports investment in infrastructure like the
+
 ## See Also

@@ -1,5 +1,5 @@
 ---
-title: Natfarm Lacto Fermentation Preservation
+title: Natfarm comparison-lacto-fermentation-vs-canning Preservation
 created: 2026-04-28
 tags: [fermentation, food-preservation, probiotics, lacto-fermentation, self-sufficiency]
 date: 2026-04-25
@@ -12,7 +12,7 @@ type: concept
 
 Lacto-fermentation has become more popular again in recent years because it
 saves the [[lactobacillus]]
-species) convert sugars in food into lactic acid. This acid acts as a
+species) convert sugars in food into [[bionutrients-lab-lactic-acid-bacteria-serum]]. This acid acts as a
 natural preservative, creating an environment where harmful bacteria cannot
 survive. The process also produces enzymes and beneficial probiotics that
 aid digestion. Unlike canning, which destroys many nutrients through high
@@ -91,7 +91,7 @@ usually still safe.
 
 Lacto-fermented foods are rich in probiotics that support gut health and
 immunity. The fermentation process pre-digests some nutrients, making them
-more bioavailable. Fermented vegetables retain more vitamin C than canned
+more bioavailable. [[comparison-fermented-vegetables-vs-canning]] retain more vitamin C than canned
 vegetables. The beneficial bacteria also produce various B vitamins and
 vitamin K2 during fermentation. Regular consumption of fermented foods has
 been associated with improved digestion, stronger immune function, and

@@ -2,7 +2,7 @@
 title: Four Season Farm Methods and Philosophy
 created: 2026-04-26
 tags: [four-season-farm, organic-farming, small-farm, eliot-coleman, farm-philosophy]
-sources: The Winter Harvest Handbook, Eliot Coleman (2009)
+sources: The coleman-claytonia-winter-harvest-cultivation Handbook, eliot-coleman (2009)
 type: concept
 updated: 2026-04-26
 ---
@@ -11,7 +11,7 @@ updated: 2026-04-26
 
 ## Farm Overview
 
-Four Season Farm is located in Harborside, Maine (44.33°N, 68.58°W) on 40 acres of land originally part of Scott and Helen Nearing's farm. The Nearings' book *Living the Good Life* inspired Coleman's interest in organic farming, and they sold him the back portion of their farm in 1968 at the same price they had paid twenty years earlier. Of the 40 acres, 14 have been cleared; the larger portion is in pasture and 1.5 acres serve as intensive market garden.
+Four Season Farm is located in Harborside, Maine (44.33°N, 68.58°W) on 40 acres of land originally part of Scott and Helen Nearing's farm. The Nearings' book *Living the Good Life* inspired Coleman's interest in [[coleman-deep-organic-farming-philosophy]], and they sold him the back portion of their farm in 1968 at the same price they had paid twenty years earlier. Of the 40 acres, 14 have been cleared; the larger portion is in pasture and 1.5 acres serve as [[coleman-french-maraicher-parisian-intensive-market-gardening]] garden.
 
 ## Core Philosophy
 
@@ -29,14 +29,14 @@ Coleman believes the winter-harvest system has potential for growers anywhere co
 - Refreshingly uncomplicated in a world of complex technologies
 - Based on well-known components whose synergy is not widely understood
 - Continuously evolving — every season brings new ideas for crops and techniques
-- Capable of putting "hidden farm" areas into production through practices like late-fall seeding for early spring germination
+- Capable of putting "hidden farm" areas into production through practices like late-fall seeding for [[coleman-overwintered-onions-and-early-spring-crops]] germination
 
 He envisions a coming "small-farm revival" led by growers who will make great improvements on these systems.
 
 ## See Also
 
 - [[coleman-winter-harvest-philosophy]] — Three-component winter harvest system
-- [[coleman-planting-schedules]] — Seasonal timing and the Persephone period
+- coleman-planting-schedules — Seasonal timing and the Persephone period
 ## Practical Applications
 
 Four Season Farm Methods and Philosophy has a range of practical applications that make it relevant to
@@ -114,4 +114,4 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+- [[det]]

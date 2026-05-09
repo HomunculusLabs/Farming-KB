@@ -84,8 +84,8 @@ left physically and mentally handicapped.
 
 THC binds with CB1 and CB2 relatively equally. CBD and WIN55,212-2 have a
 higher affinity for CB2. Sativas or sativa-dominant strains tend to present
-with a higher THC:CBD ratio. Given that CB1 was implicated in fever
-regulation, strains with higher THC content may be more relevant for
+with a higher THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]]. Given that CB1 was implicated in fever
+regulation, strains with higher [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] may be more relevant for
 temperature regulation applications.
 
 ## Mind-Body Medicine
@@ -105,5 +105,5 @@ unprepared to release and transcend the tension constructively.
 ## See Also
 
 - [[cannabis-for-epilepsy-and-seizure-disorders]]
-- [[blesching-endocannabinoid-system-overview]]
+- [[endocannabinoid-system-overview]]
 - [[blesching-cannabis-neuroprotection]]

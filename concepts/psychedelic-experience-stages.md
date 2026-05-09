@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Experience Stages — Turner's Model
+title: leary-psychedelic-experience-bardo-mapping Stages — Turner's Model
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/the-essential-psychedelics-guide-by-dm-turner.md]
 
 ## The Stages of the Psychedelic Experience
 
-D.M. Turner's Essential Psychedelics Guide provides a practical phenomenological map of the psychedelic experience, breaking it into recognizable stages. Understanding these stages helps users navigate what can be otherwise overwhelming experiences.
+D.M. Turner's [[turner-essential-psychedelics-5-meo-dmt-void-experience]] Guide provides a practical phenomenological map of the psychedelic experience, breaking it into recognizable stages. Understanding these stages helps users navigate what can be otherwise overwhelming experiences.
 
 ### Stage 1 — Onset
 
@@ -39,7 +39,7 @@ The most intense phase. Duration and character depend heavily on the compound an
 
 - At lower doses: enhanced colors, pattern recognition, mood elevation, philosophical reverie
 - At moderate doses: complete visual transformation of the visual field with eyes closed, ego softening, emotional openness, enhanced music appreciation, synesthesia
-- At high doses: complete ego dissolution, mystical/peak experiences, encounters with apparently autonomous entities, profound insights or terror, complete loss of ordinary reality framework
+- At high doses: complete [[psilocybin-ego-dissolution-mechanisms]], mystical/peak experiences, encounters with apparently autonomous entities, profound insights or terror, complete loss of ordinary reality framework
 
 Turner distinguishes several peak-quality categories:
 - **Aesthetic**: primarily visual and sensory enhancement

@@ -1,5 +1,5 @@
 ---
-title: "Mushroom Products and Value-Added Applications"
+title: "cotter mushroom products and value added applications and Value-Added Applications"
 created: 2026-04-28
 tags: [mushroom-products, value-added, extracts, myco-materials, innovation]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: concept
 
 # Mushroom Products and Value-Added Applications
 
-Mushrooms can be transformed into a wide range of products beyond fresh
+Mushrooms can be transformed into a wide range of [[bee-products-beyond-honey]] fresh
 consumption, including edible powders, medicinal extracts, livestock feed
 supplements, paper and ink, antimicrobial surfaces, packaging materials,
 insulation, building composites, and biotextiles. These value-added applications
@@ -28,8 +28,8 @@ containers with a small bag of rice to minimize moisture. The powder keeps for
 years if kept dry and can be used to dust scallops or fish, mixed into pasta
 dough (replacing up to 25 percent of flour), or incorporated into breads.
 
-Mushroom powder honey combines the antimicrobial properties of honey with
-medicinal mushrooms. Mix 3 tablespoons of mushroom powder into 1 pint of raw
+Mushroom powder honey combines the [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] of honey with
+[[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]. Mix 3 tablespoons of mushroom powder into 1 pint of raw
 honey. Good candidates include turkey tail, shiitake, maitake, reishi, and
 almond portabella; combinations are more effective than any single species.
 Ancient Egyptians stored mushroom extracts in honey for over four thousand
@@ -39,7 +39,7 @@ and scrapes as an antibiotic alternative.
 
 ## Mushroom Extracts and Tinctures
 
-Alcohol extraction is preferred over hot water extraction alone because alcohol
+[[pf-tek-alcohol-extraction-method]] is preferred over hot water extraction alone because alcohol
 kills pathogenic bacteria that could pass through filters. For rapid extraction
 using 95 percent alcohol (Everclear), use 1 gram of dried mushroom per teaspoon
 of alcohol. Steep for fourteen days at 65 to 80 degrees Fahrenheit (18 to 27
@@ -63,7 +63,7 @@ Medicinal mushrooms delivered as colonized grains, powdered coatings, or feed
 additives show tremendous potential for pets and livestock. The equine industry
 first used powdered mushroom formulas to improve joint function and oxygen
 availability in racehorses. These formulas now extend to dogs and cats as
-anticancer therapies and health supplements. Spent oyster mushroom substrate
+anticancer therapies and health supplements. Spent oyster [[gourmet-medicinal-mushroom-substrate-preparation]]
 from primary decomposers provides immune stimulation and nutrition for ruminants
 like cattle, goats, and sheep, conserving 30 to 40 percent of the water held in
 the fungal colony.
@@ -125,6 +125,8 @@ year without dying.
   water
 
 ## See Also
+
+- [[cotter-mushroom-infused-beer-wine-and-spirits]]
 
 - [[cotter-oyster-mushroom-cultivation]]
 - [[mushroom-cultivation-troubleshooting]]

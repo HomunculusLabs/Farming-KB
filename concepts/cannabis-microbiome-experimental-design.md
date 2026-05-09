@@ -1,5 +1,5 @@
 ---
-title: Cannabis Microbiome Experimental Design
+title: Cannabis cannabis microbiome experimental design Design
 created: 2026-04-28
 tags: [microbiome, methods, cannabis, experimental-design]
 date: 2026-04-28
@@ -15,7 +15,7 @@ type: concept
 
 Winston et al. (2014) employed a two-experiment design to characterize the
 bacterial microbiome of Cannabis across the root-soil continuum. The first
-experiment explored broad variation across three cultivars in a single soil
+experiment explored broad [[psilocybin-psilocin-variation-across-flushes]] three cultivars in a single soil
 type, while the second focused on cultivar-specificity with greater edaphic
 variation using two cultivars across two soil types. This design provided
 both breadth (five total cultivars) and depth (controlled soil comparisons),
@@ -32,7 +32,7 @@ three Cannabis cultivars grown in the same soil environment.
 
 Three cultivars representing different chemotypes and genetic backgrounds:
 
-- **Sour Diesel**: Cannabis sativa, high THC to CBD ratio
+- **Sour Diesel**: [[comparison-cannabis-sativa-vs-cannabis-indica]], high THC to [[cannabis-thc-cbd-ratio-guide-for-conditions]]
 - **Bookoo Kush**: Sativa-dominant hybrid (sativa x indica), moderately
   high THC to CBD ratio
 - **Burmese**: Balanced hybrid (sativa x indica), moderate THC to CBD
@@ -85,9 +85,9 @@ Delta-9-Technologies, LLC (Santa Ana, CA).
 | Cannabinoid data| No                   | Yes                    |
 | Pseudoreplicates| No                   | Yes (different roots)  |
 
-The rarefaction depth difference means alpha diversity cannot be directly
+The rarefaction depth difference means [[microbial-alpha-diversity-soil-plant-gradient]] cannot be directly
 compared between experiments. Different sampling timings confound
-experiment with plant growth stage.
+experiment with plant [[cho-plant-growth-stage-treatment-protocols]].
 
 ## DNA Extraction
 

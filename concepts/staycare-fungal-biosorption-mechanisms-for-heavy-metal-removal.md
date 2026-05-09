@@ -1,5 +1,5 @@
 ---
-title: Fungal Biosorption Mechanisms for Heavy Metal Removal
+title: dighton-fungal-biosorption-heavy-metal-remediation Mechanisms for dighton-fungal-heavy-metal-accumulation-bioremediation Removal
 created: 2026-04-28
 tags: [biosorption, heavy-metals, fungi, bioaccumulation]
 date: 2026-04-25
@@ -22,7 +22,7 @@ within 30-120 minutes for most fungal-metal systems.
 
 ## Dead versus Living Biomass
 
-Both living and dead fungal biomass can function as effective biosorbents.
+Both living and dead [[bioremediation-fungal-biomass-biosorbent-material]] can function as effective biosorbents.
 Dead biomass offers several practical advantages: it does not require
 nutrient supply, is not affected by toxic metal concentrations, can be
 stored for extended periods, and can be regenerated and reused through
@@ -35,7 +35,7 @@ exposing additional binding sites or removing masking substances.
 
 ## Fungal Species Used as Biosorbents
 
-Numerous fungal species have been investigated for metal biosorption.
+Numerous fungal species have been investigated for [[fungal-metal-biosorption-comparative]].
 [[phanerochaete-chrysosporium]] and [[staycare-fungal-biosorption-of-heavy-metals]]
 
 - [[heavy-metal-bioremediation]]
@@ -55,7 +55,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -97,4 +97,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

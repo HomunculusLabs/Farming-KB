@@ -1,5 +1,5 @@
 ---
-title: Soil Testing and Interpretation
+title: Soil solomon-soil-testing-and-interpretation-low-input
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-Soil testing is the single most important step a gardener or farmer can take before applying any fertilizer. Without knowing what nutrients are present and what is missing, applications are guesswork -- wasteful at best and environmentally damaging at worst.
+[[soil-testing]] is the single most important step a gardener or farmer can take before applying any fertilizer. Without knowing what nutrients are present and what is missing, applications are guesswork -- wasteful at best and environmentally damaging at worst.
 
 ## The Von Liebig-Howard Regulation
 
@@ -44,13 +44,13 @@ A soil test is only as good as the samples. Follow these principles:
 
 Beyond the fourteen essential mineral nutrients, request these additional tests:
 
-**Cation Exchange Capacity (CEC):** Measures the soil's ability to hold positively charged nutrient ions. In theory, this gives you what many agricultural laboratories call the "soil savings account," the total ability of the soil to hold positive cations. [[mycorrhizal-fungi-basics-lowenfels]] populations and overall soil food web health is increasingly recognized as important, though it typically requires a specialized laboratory.
+**[[cation-exchange-capacity]] (CEC):** Measures the soil's ability to hold positively charged nutrient ions. In theory, this gives you what many agricultural laboratories call the "soil savings account," the total ability of the soil to hold positive cations. mycorrhizal-fungi-basics-lowenfels populations and overall soil food web health is increasingly recognized as important, though it typically requires a specialized laboratory.
 
-**Special Local Conditions:** Many laboratories cater to local conditions. In areas where flooding by salt water is frequent, a sodium test might be conducted as a matter of course -- this is also useful for soils affected by road salts. Areas of heavy rainfall have different nutrient deficiencies than areas that don't get much rain.
+**Special Local Conditions:** Many laboratories cater to local conditions. In areas where flooding by salt water is frequent, a sodium test might be conducted as a matter of course -- this is also useful for soils affected by road salts. Areas of heavy rainfall have different [[hamilton-nutrient-deficiencies-and-treatment]] than areas that don't get much rain.
 
 ## Follow Through and Frequency
 
-Most important, all good soil test reports come with specific suggestions for correcting any nutrient deficiencies or excesses. This is what makes the tests worth their minor cost. Make sure your laboratory knows the size of your garden, so recommendations are scaled appropriately. Also ensure the laboratory understands you are an organic gardener and will provide recommendations using organic fertilizers. Online organic fertilizer calculators (such as those from Oregon State University or Purdue University) can convert conventional recommendations.
+Most important, all good soil test reports come with specific suggestions for correcting any nutrient deficiencies or excesses. This is what makes the tests worth their minor cost. Make sure your laboratory knows the size of your garden, so recommendations are scaled appropriately. Also ensure the laboratory understands you are an organic gardener and will provide recommendations using [[hamilton-organic-fertilizers-and-plant-nutrition]]. Online organic fertilizer calculators (such as those from Oregon State University or Purdue University) can convert conventional recommendations.
 
 The first test establishes a baseline. A second test later in the first season or at the beginning of the next season allows you to see trends. For most home gardeners using organic practices, after the initial two tests, there is no reason to test very often if you have been implementing recommendations. Consider a third check-up for annual and vegetable garden soils 2 to 3 years after your last test. Lawns can go 5 to 7 years. Soil around trees, shrubs, and perennials needs testing only if problems develop.
 
@@ -70,7 +70,7 @@ Understanding what soil test numbers actually mean requires knowing the reportin
 
 ## The Phosphorus Problem
 
-Phosphorus is one of the most commonly over-applied nutrients in home gardens. Unlike nitrogen, which is mobile and leaches readily, phosphorus is relatively immobile in soil and accumulates with repeated applications. Many garden soils test high or very high in phosphorus because years of compost and fertilizer applications have built up excess levels. High phosphorus can actually harm mycorrhizal associations, because plants reduce their investment in fungal symbionts when phosphorus is readily available. This mycorrhizal suppression in turn reduces the plant's ability to access other nutrients and water. For soils testing high in phosphorus, the appropriate response is to reduce or eliminate phosphorus inputs rather than adding more, even if plants show symptoms that might be attributed to phosphorus deficiency.
+Phosphorus is one of the most commonly over-applied nutrients in home gardens. Unlike nitrogen, which is mobile and leaches readily, phosphorus is relatively immobile in soil and accumulates with repeated applications. Many garden soils test high or very high in phosphorus because years of compost and fertilizer applications have built up excess levels. High phosphorus can actually harm mycorrhizal associations, because plants reduce their investment in fungal symbionts when phosphorus is readily available. This mycorrhizal suppression in turn reduces the plant's ability to access other nutrients and water. For soils testing high in phosphorus, the appropriate response is to reduce or eliminate phosphorus inputs rather than adding more, even if plants show symptoms that might be attributed to [[query-how-to-fix-phosphorus-deficiency-in-cannabis]].
 
 ## Micronutrient Considerations
 
@@ -82,7 +82,7 @@ Beyond nutrient analysis, soil testing can detect contamination by heavy metals,
 
 ## Building a Soil Testing History
 
-The real value of soil testing emerges over time as results accumulate into a management history. Comparing results from year to year reveals trends that single tests cannot show. Rising organic matter levels confirm that management practices are building soil health. Declining potassium levels might indicate that harvest removals are exceeding inputs. Changes in pH can reveal the effects of acidifying fertilizers or alkaline irrigation water. A well-maintained soil testing record, combined with notes on management practices, crop performance, and weather conditions, becomes an increasingly valuable decision-support tool as the data accumulates. Many experienced gardeners maintain soil testing records spanning decades, providing an invaluable resource for understanding long-term soil dynamics.
+The real value of soil testing emerges over time as results accumulate into a management history. Comparing results from year to year reveals trends that single tests cannot show. Rising organic matter levels confirm that management practices are [[building-soil]] health. Declining potassium levels might indicate that harvest removals are exceeding inputs. Changes in pH can reveal the effects of acidifying fertilizers or alkaline irrigation water. A well-maintained soil testing record, combined with notes on management practices, crop performance, and weather conditions, becomes an increasingly valuable decision-support tool as the data accumulates. Many experienced gardeners maintain soil testing records spanning decades, providing an invaluable resource for understanding long-term soil dynamics.
 
 ## Soil Testing Frequency
 
@@ -90,7 +90,7 @@ The appropriate frequency of soil testing depends on the intensity of land use a
 
 ## Organic Matter Testing and Its Significance
 
-Soil organic matter (SOM) is one of the most important indicators of soil health, and most soil tests include an organic matter percentage. SOM influences virtually every soil property: nutrient availability, water holding capacity, aggregate stability, biological activity, and disease suppression. A typical agricultural soil has 2-5% organic matter, while a healthy garden soil should have 5-10% or higher. Building organic matter is a primary goal of organic gardening, but the process is slow -- increasing SOM by 1% typically requires adding several inches of compost or other organic material over several years. Monitoring SOM through regular soil testing provides a quantitative measure of whether management practices are actually building soil health.
+Soil organic matter (SOM) is one of the most important indicators of soil health, and most soil tests include an organic matter percentage. SOM influences virtually every soil property: [[ph-and-nutrient-availability-garden-soils]], water holding capacity, aggregate stability, biological activity, and [[aact-disease-suppression-mechanisms-ingham]]. A typical agricultural soil has 2-5% organic matter, while a healthy garden soil should have 5-10% or higher. Building organic matter is a primary goal of organic gardening, but the process is slow -- increasing SOM by 1% typically requires adding several inches of compost or other organic material over several years. Monitoring SOM through regular soil testing provides a quantitative measure of whether management practices are actually building soil health.
 
 ## Cation Exchange Capacity and Base Saturation
 

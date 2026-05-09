@@ -1,5 +1,5 @@
 ---
-title: "EMCDDA Smartshop and Retail Economics in Europe"
+title: "EMCDDA emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets Economics in Europe"
 source: carolina-mushrooms_08qxp.md (EMCDDA Thematic Paper, 2006)
 topics: smartshop economics, mushroom retail market, Netherlands, UK market
 created: 2026-05-08
@@ -10,7 +10,7 @@ created: 2026-05-08
 ## Overview
 
 The EMCDDA's 2006 case study provides detailed economic data on the
-retail market for hallucinogenic mushrooms in Europe, revealing a
+retail market for [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] in Europe, revealing a
 commercial ecosystem that expanded rapidly during the late 1990s and
 early 2000s before being curtailed by legislative changes in multiple
 EU member states.
@@ -40,7 +40,7 @@ The Dutch market employed multiple distribution channels:
 
 - **Smartshops**: Primary retail venues selling legal natural products
   including magic mushrooms
-- **Coffee shops**: A subset also sold mushrooms alongside cannabis
+- **Coffee shops**: A subset also sold [[query-how-can-i-grow-mushrooms-alongside-garden-vegetables]] cannabis
 - **"Paddo" cabs**: Home delivery services, indicating sophisticated
   market development
 
@@ -93,13 +93,13 @@ mushrooms had become less available than previously.
 
 ### Market Substitution
 
-The prohibition triggered immediate product substitution by retailers.
+The prohibition triggered immediate [[emcdda-herbal-highs-market-product-substitution-bans]] by retailers.
 UK online headshops like EveryOneDoesIt.com and AllSalvia.co.uk
 switched sales to:
 
-- **Amanita muscaria** (fly agaric) and closely related Amanita
+- **[[allegro-amanita-muscaria-properties-and-pharmacology]]** (fly agaric) and closely related Amanita
   pantherina (panther cap)
-- **Purple Ohms capsules** containing Argyreia nervosa (Hawaiian
+- **Purple Ohms capsules** containing [[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]] (Hawaiian
   Baby Woodrose) seeds with lysergic acid amide (LSA), marketed as
   having "similar effects to LSD"
 

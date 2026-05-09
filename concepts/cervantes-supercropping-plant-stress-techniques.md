@@ -9,9 +9,10 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 synonyms:
-  - super cropping
+  - [[cannabis-super-cropping-technique]]
   - FIM technique
   - branch pinching
   - plant stress training

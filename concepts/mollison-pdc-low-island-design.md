@@ -1,5 +1,5 @@
 ---
-title: Low Island Permaculture Design
+title: mollison pdc low island design bill-mollison-permaculture-a-designers-manual-permaculture-design-principles
 created: 2026-04-28
 tags:
   - permaculture
@@ -124,7 +124,7 @@ Coastline defense is critical on low islands:
 
 Low island design requires combining multiple strategies efficiently:
 
-- Grow-hole technology with drip irrigation for annual crops
+- Grow-hole technology with [[comparison-drip-irrigation-vs-passive-irrigation]] for annual crops
 - Tree establishment through platen breaking for perennials
 - Surface water storage using gley ponds and tanks
 - Coastal vegetation belts for erosion protection
@@ -136,13 +136,13 @@ Low island design requires combining multiple strategies efficiently:
 The PDC emphasizes that islands can be tropical paradises if population
 density is managed. Key settlement principles include governing surface
 use with respect for water storages, and the need for careful nutrient
-management since all phosphates on Earth derive from seabird
-accumulations. The entire system depends on the thin fresh water lens
-surviving between ocean salt below and evaporation above.
 ## See Also
 
 - [[mollison-pdc-solar-greenhouse-design]]
 
 ## See Also
 
-- [[mollison-permaculture-low-islands]]
+- mollison-permaculture-low-islands
+- [[permaculture-design]]
+- [[mollison-designers-high-island-and-tropical-valley-design]]
+- [[mollison-pdc-high-island-design]]

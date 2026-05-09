@@ -1,17 +1,11 @@
 ---
-title: "Comparison Biochar Remediation Vs Phytoremediation"
-created: 2026-05-02
-updated: 2026-05-02
-type: comparison
-tags: [amendments, soil-science]
-sources: []
 ---
----
-title: "[[biochar-soil-remediation]] vs Phytoremediation"
+title: "biochar-soil-remediation vs Phytoremediation"
 tags: [soil-remediation, biochar, phytoremediation, contamination, comparison]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 ---
 
 # [[biochar-soil-remediation]] (physical-chemical amendment) and
@@ -28,18 +22,18 @@ pathways.
 
 ### Biochar Strengths
 
-- Effective across a wide range of contaminant classes (heavy metals,
+- Effective across a wide range of contaminant classes ([[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]],
   PAHs, pesticides, petroleum hydrocarbons).
 - Provides simultaneous soil quality improvement: increased water
-  retention, cation exchange capacity, and nutrient cycling.
-- Delivers permanent carbon sequestration as a co-benefit.
+  retention, [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity, and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
+- Delivers permanent [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] as a co-benefit.
 - Works immediately upon incorporation into soil.
 - Can be applied to sites where vegetation establishment is difficult.
 
 ### Phytoremediation Strengths
 
 - Solar-driven with minimal external energy requirements.
-- Very low cost once established, suitable for large areas with
+- Very [[jadam-ultra-low-cost-agriculture]] once established, suitable for large areas with
   low-to-moderate contamination levels.
 - Minimal site disturbance during and after application.
 - Provides aesthetic and ecological benefits (green cover, habitat).

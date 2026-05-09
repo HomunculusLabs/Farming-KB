@@ -1,9 +1,9 @@
 ---
-title: Cannabis for Alzheimer's Disease and Dementia (Blesching, Cannabis Health Index)
+title: Cannabis for Alzheimer's Disease and Dementia (Blesching, [[blesching-cannabis-health-index-autoimmune-conditions]])
 created: 2026-04-26
 updated: 2026-04-25
-sources: "Uwe Blesching, The Cannabis Health Index (CHI)"
-wikilinks: "blesching-endocannabinoid-system-overview blesching-cannabinoid-pharmacology blesching-cannabis-neurodegenerative-diseases Blesching Cannabis Mental Health Applications"
+sources: "uwe-blesching, The blesching-cannabis-health-index-autoimmune-conditions (CHI)"
+wikilinks: "blesching-endocannabinoid-system-overview [[blesching-cannabinoid-pharmacology]] blesching-cannabis-neurodegenerative-diseases Blesching [[blesching-cannabis-mental-disorders]] Health Applications"
 type: concept
 tags: [cannabis]
 ---
@@ -59,7 +59,7 @@ reduce the risk of the disease.
 
 ## Cannabis and Alzheimer's Disease
 
-Recent experiments suggest the endocannabinoid system may play a significant
+Recent experiments suggest the [[cannabis-health-endo-cannabinoid-system]] may play a significant
 role in the development of AD. A study from Madrid, Spain (2005), discovered
 that "cannabinoid receptors are important in the pathology of AD and that
 cannabinoids succeed in preventing the neurodegenerative process occurring in
@@ -76,6 +76,6 @@ hyperactivity -- possibly the most important underlying cause of AD.
 Researchers from British Columbia, Canada (2008), tested a patient with
 Alzheimer's-related behavioral symptoms (agitation and aggression) who failed
 to respond to pharmaceuticals including neurontin, trazodone, quetiapine, and
-olanzapine. Scientists gave the patient 0.5 mg of [[blesching-endocannabinoid-system-overview]]
+olanzapine. Scientists gave the patient 0.5 mg of [[endocannabinoid-system-overview]]
 - [[blesching-cannabis-neurodegenerative-diseases]]
 - [[blesching-cannabis-health-index-mental-health-applications]]

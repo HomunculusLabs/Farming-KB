@@ -11,12 +11,12 @@ type: concept
 # Lignin Peroxidase and Pollutant Degradation
 
 Lignin peroxidase (LiP) is a water-soluble, glycosylated extracellular
-enzyme secreted by white rot fungi. Like manganese peroxidase (MnP), LiP
-is dependent on hydrogen peroxide for catalysis. LiP is unique among
+enzyme secreted by white rot fungi. Like [[fungal-manganese-peroxidase-remediation]] (MnP), LiP
+is dependent on [[cervantes-hydrogen-peroxide-sterilization]] for catalysis. LiP is unique among
 fungal peroxidases in its ability to produce radical cations from the
 one-electron oxidation of non-phenolic aromatic compounds, making it a
 powerful agent for the degradation of recalcitrant environmental pollutants
-including polycyclic aromatic hydrocarbons, chlorinated phenols, and
+including [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons, chlorinated phenols, and
 nitroaromatic compounds.
 
 ## Discovery and Significance
@@ -63,7 +63,7 @@ of the radical cations lead to lignin depolymerization. The primary
 oxidant (VA radical) is restored following oxidation of the secondary
 substrate, creating a catalytic redox shuttle.
 
-The LiP-VA redox mediator system has been documented for a broad range of
+The LiP-VA [[staycare-fungal-redox-mediator-chemistry-pollutant-degradation]] system has been documented for a broad range of
 pollutant compounds. These include benzo[a]pyrene oxidation, lignin
 depolymerization, and aromatic ring-opening and ring hydroxylation
 reactions. This mediator system effectively extends both the substrate
@@ -84,7 +84,7 @@ tetrachloro-1,4-benzoquinone.
 
 Biodegradation of herbicides such as 2,4,5-T by P. chrysosporium proceeds
 through chlorinated phenolic intermediates whose further transformation is
-catalyzed by LiP and other ligninolytic enzymes. Interestingly, 2,4-D
+catalyzed by LiP and other [[singh-ligninolytic-enzymes-fungal-bioremediation]]. Interestingly, 2,4-D
 degradation has been demonstrated under conditions that suppress LiP and
 MnP synthesis, and effective degradation by peroxidase-negative mutants
 has been observed, indicating that non-ligninolytic pathways also contribute
@@ -126,7 +126,7 @@ fungi deploy for pollutant degradation. While LiP is uniquely capable of
 oxidizing non-phenolic aromatics with high redox potentials, MnP extends
 degradation reach through diffusible Mn(III) chelates, and laccase handles
 phenolic substrates. Together they provide complementary pathways for
-attacking the diverse chemical structures found in environmental pollutants.
+attacking the diverse [[plants-of-the-gods-chemical-structures-hallucinogens]] found in environmental pollutants.
 The combined action of all three enzymes produces more complete
 mineralization than any single enzyme acting alone.
 

@@ -1,5 +1,5 @@
 ---
-title: Herd Composition and Culling Strategies
+title: savory herd composition and culling strategies and Culling Strategies
 created: 2026-04-28
 tags: [holistic-management, livestock, breeding, population, culling]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: concept
 # Herd Composition and Culling Strategies
 
 Herd composition and culling strategies are critical management decisions in
-holistic resource management that directly affect both ecological outcomes and
+[[savory-holistic-resource-management-animal-impact]] management that directly affect both ecological outcomes and
 financial viability. Savory emphasizes that decisions about which animals to
 keep, which to cull, and how to structure breeding herds must be evaluated
 holistically, considering their impact on the whole ecosystem, quality of
@@ -26,7 +26,7 @@ about the health of the community than the presence of key species. A
 photograph of a standard range site in New Mexico showed all the desired
 grass species present, yet every plant was old and senile after sixteen years
 of total rest. Despite millions of seeds produced, there was not one young
-plant. All four ecosystem foundation blocks were functioning at very low
+plant. All four [[savory-ecosystem-foundation-blocks]] blocks were functioning at very low
 levels.
 
 For livestock herds, age structure similarly reveals whether a herd is
@@ -55,7 +55,7 @@ and entrenched attitudes often force managers to make do with small herds.
 
 ## Culling for Ecological and Financial Goals
 
-Culling decisions in holistic management serve multiple purposes. Beyond the
+Culling decisions in [[savory-holistic-management-overview]] serve multiple purposes. Beyond the
 obvious goal of removing unproductive animals, culling can be used to shape
 herd behavior, improve mothering ability, and reduce predation losses.
 Biological planning to assure that calves come in protected areas, culling in
@@ -63,7 +63,7 @@ favor of good mothering instinct, and the use of guard animals can all reduce
 losses at little cost.
 
 Savory warns against culling based solely on production targets without
-considering the holistic goal. Ranchers commonly have an unstated goal of high
+considering the [[savory-holistic-goal-definition]]. Ranchers commonly have an unstated goal of high
 calving rates and large calves and then go broke because of no profit. Had
 the goal been profit and been kept clearly in mind, the high costs associated
 with producing the calving rate and calf weight would have been detected and

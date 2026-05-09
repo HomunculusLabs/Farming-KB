@@ -11,7 +11,7 @@ sources:
 
 # Glomus mosseae
 
-**Glomus mosseae** is an arbuscular mycorrhizal fungus in the phylum
+**Glomus mosseae** is an [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungus in the phylum
 Glomeromycota. As one of the most widely distributed and extensively
 studied AMF, it forms symbiotic associations with the majority of
 terrestrial plant species and plays a central role in plant nutrient
@@ -22,9 +22,9 @@ acquisition, ecosystem functioning, and plant defense against pathogens.
 Glomus mosseae belongs to the Glomeromycota, a distinct phylum of
 obligate symbionts that cannot be cultured independently of host plants.
 It forms characteristic arbuscules within root cortical cells for
-nutrient exchange and vesicles for storage. Azcon et al. (1976)
+[[arbuscule-isolation-and-nutrient-exchange-mechanisms]] and vesicles for storage. Azcon et al. (1976)
 identified isolate YV as G. mosseae in early studies of mycorrhizal
-helper bacteria interactions.
+[[mycorrhiza-helper-bacteria-fungal-interactions]] interactions.
 
 ## Ecosystem Distribution
 
@@ -79,7 +79,7 @@ root penetrability while enhancing plant phosphorus content (Roncadori,
 1997). Elsen et al. (2001) showed *Glomus intraradices* suppressed
 the burrowing nematode *Radopholus similis* on carrot tissue by
 almost 50%. Newsham et al. (1994) demonstrated a fine balance between
-mycorrhizal benefits and pathogenic effects in fungal communities
+mycorrhizal benefits and pathogenic effects in [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
 associated with the annual grass *Vulpia ciliata*.
 
 ## Interactions with Soil Fauna
@@ -92,7 +92,7 @@ exclusive AMF diet reduced fecundity to zero by the second generation.
 However, Klironomos and Ursic (1998) showed collembola still
 significantly reduced AM connections between root and soil in culture.
 Bakonyi et al. (2002) found low collembola densities (up to 0.2
-individuals/g soil) stimulated mycorrhizal colonization, while higher
+individuals/g soil) stimulated [[arbuscular-mycorrhizal-colonization-patterns]], while higher
 densities caused significant reductions.
 
 ### Soil Microarthropod Interactions
@@ -124,9 +124,11 @@ to restore a surface lignite mine.
 
 ## See Also
 
+- [[funneliformis-mosseae]]
+
 - [[mycorrhiza]]
 
-- [[hymenoscyphus-ericae]] - ericoid mycorrhizal fungus of heathlands
+- [[hymenoscyphus-ericae]] - [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] fungus of heathlands
 - [[hebeloma-crustuliniforme]] - ectomycorrhizal fungus with pathogen protection
 - [[cladosporium-cladosporioides]] - saprotrophic fungus in soil food webs
 - [[mycena-galopus]] - saprotroph preferred by collembola over AMF

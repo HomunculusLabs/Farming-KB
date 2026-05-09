@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Networks and Forest Communication
+title: dighton-mycorrhizal-networks-carbon-transfer and Forest Communication
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Common mycorrhizal networks (CMNs), sometimes called "wood wide webs," are underground fungal networks that connect individual plants and trees, enabling resource sharing, chemical signaling, and information transfer between forest organisms. Research has revealed that these networks facilitate cooperative behaviors between trees, including the support of seedlings by mature "mother trees."
+Common mycorrhizal networks (CMNs), sometimes called "wood wide webs," are underground fungal networks that connect individual plants and trees, enabling [[mycelial-network-resource-sharing-plants]], [[plant-hormones-and-chemical-signaling-systems]], and information transfer between forest organisms. Research has revealed that these networks facilitate cooperative behaviors between trees, including the support of seedlings by mature "mother trees."
 
 ## Types of Mycorrhizal Networks
 
@@ -54,9 +54,9 @@ Suzanne Simard's pioneering research at the University of British Columbia:
 ## Chemical Signaling
 
 ### Defense Signaling
-- Plants under insect or pathogen attack send chemical signals through CMNs
+- Plants under insect or pathogen attack send [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] through CMNs
 - Neighboring plants receive these signals and activate defense responses
-- Volatile organic compounds and systemic signals transmitted through fungal hyphae
+- [[fungal-volatile-organic-compounds-communication]] compounds and systemic signals transmitted through fungal hyphae
 - Documented in: tomato (defense against aphids), bean (defense against Botrytis), ponderosa pine (defense against bark beetles)
 - Primer effect: pre-exposed plants respond faster and stronger to subsequent attacks
 
@@ -103,7 +103,7 @@ Suzanne Simard's pioneering research at the University of British Columbia:
 - Seedling regeneration in logged areas benefits from network preservation
 
 ### Climate Change
-- Warming may shift fungal community composition
+- Warming may shift fungal [[core-endorhiza-bacterial-community-composition-cannabis]]
 - Drought reduces mycorrhizal connectivity
 - CO2 enrichment effects on networks are complex and context-dependent
 - See [[fungi-in-climate-change]] for detailed climate impacts
@@ -142,11 +142,6 @@ Suzanne Simard's pioneering research at the University of British Columbia:
 ## Controversies and Open Questions
 
 - The extent and ecological significance of resource transfer through CMNs is debated
-- Some researchers argue that resource movement is small relative to total plant budgets
-- Kin selection through CMNs is supported by some studies but not universally accepted
-- The signaling function of CMNs is well-documented but field significance is debated
-- Popular accounts (including Simand's "Finding the Mother Tree") have been criticized for over-stating the cooperation narrative
-
 ## See Also
 
 - [[fungi-in-climate-change]] -- climate impacts on mycorrhizal networks

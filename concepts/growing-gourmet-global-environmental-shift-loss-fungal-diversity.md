@@ -1,5 +1,5 @@
 ---
-title: "The Global Environmental Shift and Loss of Fungal Diversity"
+title: "The growing gourmet global environmental shift loss fungal diversity Shift and Loss of arbuscular-mycorrhizal-fungal-diversity-patterns-distribution"
 created: 2026-04-26
 tags:
   - mycology
@@ -20,8 +20,8 @@ Studies in Europe show a frightening loss of species diversity in
 forestlands, most evident with the mycorrhizal species. Many
 mycologists fear many mushroom varieties, and even species, will
 soon become extinct. This chapter from Growing Gourmet and
-Medicinal Mushrooms presents one of the earliest comprehensive
-warnings about fungal biodiversity loss and its implications.
+[[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] presents one of the earliest comprehensive
+warnings about [[biodiversity-fungal-biodiversity-estimation-methods]] loss and its implications.
 
 ## The Decline of Mycorrhizal Mushrooms
 
@@ -106,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

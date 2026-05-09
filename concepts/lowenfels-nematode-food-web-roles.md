@@ -19,9 +19,9 @@ type: concept
 Nematodes, or roundworms, are among the most abundant and ecologically
 important animals in soil. In "Teaming With Microbes," Lowenfels and Lewis
 describe nematodes as key indicators of soil health and critical players in
-nutrient cycling. Although only a small fraction are plant parasites, the
+[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. Although only a small fraction are plant parasites, the
 majority of soil nematodes are beneficial, feeding on bacteria, fungi, other
-nematodes, or organic matter. Their feeding activities regulate microbial
+nematodes, or [[hamilton-composting-and-organic-matter-management]]. Their feeding activities regulate microbial
 populations, mineralize nutrients, and structure the soil food web.
 
 ## Types of Soil Nematodes
@@ -38,9 +38,9 @@ nitrogen as ammonium when feeding on bacteria with a 5:1 ratio.
 
 **Fungal-Feeding Nematodes:** These nematodes feed on fungal hyphae,
 including both [[lowenfels-mycorrhizal-network-nutrient-sharing]]. They have a stylet, a
-hollow spear-like mouthpart, used to pierce fungal cell walls and extract
+hollow spear-like mouthpart, used to pierce [[gadd-fungal-cell-structure]] walls and extract
 contents. Fungal-feeding nematodes regulate fungal populations and contribute
-to nutrient mineralization from fungal biomass. Their presence in higher
+to nutrient mineralization from [[bioremediation-fungal-biomass-biosorbent-material]]. Their presence in higher
 numbers relative to bacterial-feeders is characteristic of more mature, fungal
 dominated soil systems as described in [[lowenfels-cover-crops-soil-biology]] maintain root systems that
 support bacterial-feeding nematodes. Minimizing tillage preserves the soil
@@ -65,7 +65,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +107,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

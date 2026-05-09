@@ -13,11 +13,11 @@ Monoamine oxidase inhibitors (MAOIs) are a critical safety consideration in [psy
 
 ## What Are MAO Inhibitors?
 
-MAO inhibitors prevent the enzyme monoamine oxidase from breaking down certain neurotransmitters. This means substances normally metabolised quickly remain active in the body much longer and at higher concentrations. In the psychedelic context, this is why [ayahuasca is orally active — the [harmala alkaloids (MAOIs) prevent the breakdown of DMT in the gut.
+MAO inhibitors prevent the enzyme monoamine oxidase from breaking down certain neurotransmitters. This means substances normally metabolised quickly remain active in the body much longer and at higher concentrations. In the psychedelic context, this is why [ayahuasca is orally active — the [[turner-harmala-alkaloids-preparation-and-dosage]] (MAOIs) prevent the breakdown of DMT in the gut.
 
 ## Mechanism of Action
 
-MAO (Mono-Amine-Oxidase) is an enzyme found in the digestive tract and liver that breaks down amines. When MAO is inhibited, normally inactive compounds (like DMT) can cross the blood-brain barrier. This is the pharmacological basis of [ayahuasca — Banisteriopsis caapi contains 0.2–1.3% mixed Harmala alkaloids that inhibit MAO, allowing oral DMT to become active. The most concentrated natural source is Peganum harmala (Syrian Rue) seed at 2–7% mixed Harmala alkaloids. See also [[harmala-alkaloids-and-ayahuasca-preparation]] for preparation details.
+MAO (Mono-Amine-Oxidase) is an enzyme found in the digestive tract and liver that breaks down amines. When MAO is inhibited, normally inactive compounds (like DMT) can cross the blood-brain barrier. This is the pharmacological basis of [ayahuasca — Banisteriopsis caapi contains 0.2–1.3% mixed Harmala alkaloids that inhibit MAO, allowing oral DMT to become active. The most concentrated natural source is [[mckenna-food-gods-peganum-harmala-soma]] ([[golden-guide-syrian-rue-and-maoi-plants]]) seed at 2–7% mixed Harmala alkaloids. See also [[harmala-alkaloids-and-ayahuasca-preparation]] for preparation details.
 
 ## Psychedelic MAO Inhibitors
 
@@ -43,7 +43,7 @@ MAO (Mono-Amine-Oxidase) is an enzyme found in the digestive tract and liver tha
 - Some anesthetics
 
 ### Potentially Dangerous
-- Beer, cocoa, yeast extract
+- Beer, cocoa, [[marmite-yeast-extract-straw-substrate]]
 - Sauerkraut, pickled herring, soy sauce
 - Cream, avocados (especially overripe)
 - Bananas (especially overripe)
@@ -60,13 +60,13 @@ MAO (Mono-Amine-Oxidase) is an enzyme found in the digestive tract and liver tha
 
 ## The Harmala-Alkaloid Mushroom Combination
 
-Harmala alkaloids combine beautifully with [psilocybin mushrooms to produce very mystical experiences. When harmaline was first discovered it was named "telepathine" due to its reputation for producing telepathic experiences, reportedly especially likely when combined with psilocybin. Turner personally found the combination quite enjoyable. Syrian Rue also potentiates [LSD, [mescaline, and [[harmala-alkaloids-and-ayahuasca-preparation]] for methods
+Harmala alkaloids combine beautifully with [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] to produce very [[psilocybin-mystical-experiences-personality-change]]. When harmaline was first discovered it was named "telepathine" due to its reputation for producing telepathic experiences, reportedly especially likely when combined with psilocybin. Turner personally found the combination quite enjoyable. Syrian Rue also potentiates [LSD, [mescaline, and [[harmala-alkaloids-and-ayahuasca-preparation]] for methods
 - Start with lower doses of any psychedelic when combining with an MAO inhibitor, as effects will be significantly amplified
 
 ## See Also
 
 - [[ayahuasca-preparation]] — traditional MAOI + DMT preparation
-- [[hallucinogenic-mushroom-health-risks-and-harm-reduction]] — mushroom-specific interactions
+- hallucinogenic-mushroom-health-risks-and-harm-reduction — mushroom-specific interactions
 - [[hallucinogens-and-shamanism-harner-anthology]]
 ## Practical Considerations
 
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

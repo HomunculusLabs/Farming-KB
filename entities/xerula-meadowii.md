@@ -10,7 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Redhead, S.A. (1987). "The Xerulina taxa of North America." Mycotaxon, 28, 425-438.
+  - Redhead, S.A. (1987). "The Xerulina taxa of psilocybin-north-america-pacific-northwest." Mycotaxon, 28, 425-438.
   - Petersen, R.H. (2010). "Studies in Xerula and related genera." Journal of the Elisha Mitchell Scientific Society, 118, 1-24.
   - Thorn, R.G. & Barron, G.L. (1990). "Carnivorous mushrooms." Mycologia, 82(1), 1-8.
   - Index Fungorum (2024). "Xerula meadowii." www.indexfungorum.org.
@@ -30,7 +30,7 @@ in this genus are characterized by their long, cartilaginous, root-like stipes t
 penetrate deeply into decaying wood or soil.
 
 *Xerula meadowii* is not considered edible due to its small size and rarity. It is
-primarily of mycological interest for its ecological role in wood decomposition and
+primarily of mycological interest for its ecological role in [[fungal-wood-decomposition-spatial-variation]] and
 its distinctive morphology within the agaricoid fungi.
 
 ## Taxonomy and Morphology
@@ -57,7 +57,7 @@ surface is smooth, often pruinose near the apex, and colored pale brown above da
 to the same tone as the cap below.
 
 Spores are ellipsoid to amygdaliform, 8–12 × 5–7 μm, inamyloid, thin-walled, and
-smooth. The spore print is white. Basidia are four-spored, clamped. Cystidia are
+smooth. The [[comparison-spore-print-collection-vs-spore-syringe-production]] is white. Basidia are four-spored, clamped. Cystidia are
 present on gill edges (cheilocystidia) as thin-walled, cylindrical to ventricose
 elements.
 
@@ -65,7 +65,7 @@ elements.
 
 *Xerula meadowii* has been documented in temperate grasslands and meadow-forest
 ecotones of North America and Europe. It fruits singly or in small scattered groups
-on well-decayed hardwood stumps, buried roots, and woody debris embedded in soil.
+on well-decayed hardwood stumps, buried roots, and [[fungal-succession-woody-debris-ecology]] embedded in soil.
 
 The species is strongly associated with buried wood rather than exposed deadwood.
 Fruiting typically occurs in late summer through autumn following periods of
@@ -88,7 +88,7 @@ and consuming nematodes as a supplementary nitrogen source. This predatory behav
 has been documented in several congeners including *X. furfuracea*, though it has
 not been confirmed specifically in *X. meadowii*.
 
-The underground mycelial network of *Xerula* species can persist for years on a
+The underground [[gadd-mycelial-network-dynamics]] of *Xerula* species can persist for years on a
 single piece of buried wood, producing fruiting bodies annually until the wood
 resource is fully decomposed. This long-term substrate fidelity distinguishes
 *Xerula* from many other grassland agarics that colonize fresh substrates each season.
@@ -119,6 +119,8 @@ habit but differ in having a viscid to glutinous pileus surface and larger spore
 with a distinctive dextrinoid reaction.
 
 ## See Also
+
+- [[xerula-furfuracea]]
 
 - [[agaricus-bisporus]]
 - [[mycelium]]

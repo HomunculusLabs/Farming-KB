@@ -1,5 +1,5 @@
 ---
-title: Eleusinian Hierophantic Families — Eumolpidae and Kerykes
+title: Eleusinian eleusinian hierophantic families eumolpidae kerykes — Eumolpidae and Kerykes
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -9,11 +9,11 @@ sources:
 ---
 # Eleusinian Hierophantic Families — Eumolpidae and Kerykes
 
-**Source:** The Road to Eleusis, Chapters I, III — Wasson, Ruck
+**Source:** The [[the-road-to-eleusis-wasson-hofmann-ruck]], Chapters I, III — Wasson, Ruck
 
 ## Overview
 
-The Eleusinian Mysteries were administered for over a thousand years by two hereditary families — the Eumolpidae and the Kerykes — who controlled access to the sacred knowledge, managed the sanctuary, and held the exclusive right to perform the rites. Their continuity and secrecy were fundamental to the Mysteries' survival across the rise and fall of empires.
+The [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] were administered for over a thousand years by two hereditary families — the Eumolpidae and the Kerykes — who controlled access to the sacred knowledge, managed the sanctuary, and held the exclusive right to perform the rites. Their continuity and secrecy were fundamental to the Mysteries' survival across the rise and fall of empires.
 
 ## The Eumolpidae
 
@@ -25,7 +25,7 @@ The Kerykes (Heralds) claimed descent from Keryx, son of Eumolpus. They served a
 
 ## Hereditary Transmission of Secret Knowledge
 
-The hereditary nature of the hierophantic offices was essential to maintaining secrecy across generations. The [[psychedelic-secrecy-comparative-eleusis-mesoamerica]], where sacred knowledge of psychoactive fungi was preserved within family lines. Maria Sabina's curanderismo practice, for example, was inherited through her family.
+The hereditary nature of the hierophantic offices was essential to maintaining secrecy across generations. The [[psychedelic-secrecy-comparative-eleusis-mesoamerica]], where sacred knowledge of [[cattle-dispersal-psychoactive-fungi-australia]] was preserved within family lines. [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]]'s curanderismo practice, for example, was inherited through her family.
 
 ## The Hierophant
 
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

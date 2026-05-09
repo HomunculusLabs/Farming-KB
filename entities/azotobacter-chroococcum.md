@@ -22,10 +22,10 @@ The organism forms thick-walled, desiccation-resistant cysts under conditions of
 
 The aerobic nitrogen fixation performed by *Azotobacter chroococcum* is biochemically remarkable. The nitrogenase enzyme complex, which catalyzes the reduction of atmospheric N₂ to ammonia, is extremely sensitive to oxygen and is irreversibly inactivated by even brief exposure to atmospheric oxygen levels. *A. chroococcum* protects its nitrogenase through two complementary mechanisms:
 
-1. **Respiratory protection**: The organism maintains an exceptionally high rate of aerobic respiration, which rapidly consumes oxygen within the cell and maintains a low intracellular oxygen concentration. This "respiratory sink" effect is facilitated by the organism's branched electron transport chain, which includes both cytochrome pathways and an alternative oxidase pathway.
+1. **Respiratory protection**: The organism maintains an exceptionally high rate of aerobic respiration, which rapidly consumes oxygen within the cell and maintains a low intracellular oxygen concentration. This "respiratory sink" effect is facilitated by the organism's branched electron [[electron-transport-chain-mitochondrial-respiration]], which includes both cytochrome pathways and an alternative oxidase pathway.
 2. **Conformational protection**: *Azotobacter* produces a Fe-S protein called Shethna protein II (or FeSII) that binds to the nitrogenase complex and stabilizes it against oxygen damage during transient oxygen stress.
 
-Through these mechanisms, *A. chroococcum* can fix atmospheric nitrogen at rates of 10–30 mg N per gram of carbohydrate consumed under optimal laboratory conditions. In natural soils, fixation rates are lower but still agronomically significant, typically contributing 5–20 kg N per hectare per growing season.
+Through these mechanisms, *A. chroococcum* can fix atmospheric nitrogen at rates of 10–30 mg N per gram of carbohydrate consumed under optimal laboratory conditions. In natural soils, fixation rates are lower but still agronomically significant, typically contributing 5–20 kg N per hectare per [[savory-growing-season-and-non-growing-season-management]].
 
 ## Role in Soil Fertility
 
@@ -39,9 +39,9 @@ Through these mechanisms, *A. chroococcum* can fix atmospheric nitrogen at rates
 
 ## Use in Natural Farming and IMO Systems
 
-In indigenous microorganism (IMO) systems and Korean natural farming, *A. chroococcum* is encouraged and cultivated as part of the beneficial soil microbiota. The organism thrives in the aerobic, organic-matter-rich environments created by composting and mulching practices. When IMO preparations containing diverse microbial communities are applied to soil, *Azotobacter* species naturally establish and multiply, contributing to the overall nitrogen economy of the farming system.
+In [[knf-indigenous-microorganism-culture]] (IMO) systems and [[query-how-to-make-korean-natural-farming-inputs]] farming, *A. chroococcum* is encouraged and cultivated as part of the beneficial soil microbiota. The organism thrives in the aerobic, organic-matter-rich environments created by composting and mulching practices. When IMO preparations containing diverse microbial communities are applied to soil, *Azotobacter* species naturally establish and multiply, contributing to the overall nitrogen economy of the farming system.
 
-In some IMO formulations, specific efforts are made to isolate and propagate *Azotobacter* by creating slightly alkaline, aerated conditions with available carbon sources (such as diluted molasses or rice water). The resulting culture can be mixed with compost or applied directly to soil as a biofertilizer supplement. These practices are particularly valued in organic and natural farming systems where synthetic nitrogen fertilizers are avoided.
+In some IMO formulations, specific efforts are made to isolate and propagate *Azotobacter* by creating slightly alkaline, aerated conditions with available carbon sources (such as diluted molasses or rice water). The resulting culture can be mixed with compost or applied directly to soil as a biofertilizer supplement. These practices are particularly valued in organic [[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]] systems where synthetic nitrogen fertilizers are avoided.
 
 ## Phosphorus Solubilization
 
@@ -64,7 +64,7 @@ most important locally.
 
 ## System Connections
 
-This topic often overlaps with nutrient cycling, habitat design, water
+This topic often overlaps with [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], habitat design, water
 management, and low-input production. In a farming knowledge base, those
 connections matter because a single intervention can affect pest
 pressure, soil biology, yields, and long-term resilience.

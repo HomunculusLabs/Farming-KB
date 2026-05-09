@@ -9,13 +9,13 @@ sources:
 ---
 # The Sacred Meal in Ancient Traditions
 
-The sacred meal, the ritual consumption of a specially prepared food or drink believed to confer divine knowledge, spiritual transformation, or communion with the divine, is one of the most universal features of human religious practice. James Arthur and other researchers in ethnomycology have proposed that the original substance of the sacred meal across diverse traditions was an entheogenic mushroom, particularly Amanita muscaria, and that this original has been systematically replaced by symbolic substitutes throughout history.
+The sacred meal, the ritual consumption of a specially prepared food or drink believed to confer divine knowledge, spiritual transformation, or communion with the divine, is one of the most universal features of human religious practice. James Arthur and other researchers in ethnomycology have proposed that the original substance of the sacred meal across diverse traditions was an entheogenic mushroom, particularly [[allegro-amanita-muscaria-properties-and-pharmacology]], and that this original has been systematically replaced by symbolic substitutes throughout history.
 
 This connects to [[jesus-name-etymology-mushroom-theories]].
 
 ## Universal Pattern of the Sacred Meal
 
-The sacred meal appears in virtually every major religious tradition: the Christian Eucharist, the Vedic Soma ceremony, the Zoroastrian Haoma ritual, the Greek Eleusinian Mysteries, the Egyptian ceremonies of the celestial food (tchefau), the Mesoamerican rituals of teonanacatl, and numerous shamanic traditions worldwide. Despite the enormous cultural and temporal distances between these traditions, they share a remarkably consistent core structure.
+The sacred meal appears in virtually every major religious tradition: the Christian Eucharist, the [[mckenna-vedic-soma-indo-european-mysteries]] ceremony, the Zoroastrian Haoma ritual, the Greek [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]], the Egyptian ceremonies of the celestial food (tchefau), the Mesoamerican rituals of teonanacatl, and numerous shamanic traditions worldwide. Despite the enormous cultural and temporal distances between these traditions, they share a remarkably consistent core structure.
 
 A divine or semi-divine being provides a special food or drink to humanity. This food is described as the "body" or "blood" of the god. Consumption produces knowledge of divine matters, spiritual transformation, or immortality. The food is associated with a tree (the Tree of Life, Tree of Knowledge, or World Tree). The food must be specially prepared or processed before consumption. Access to the food is controlled by a priestly or initiatory class. The food is described with numerous polymorphous names and symbols across cultures.
 
@@ -51,7 +51,7 @@ The Gospel of Jesus describes the "hidden Manna" (Revelation 2:17), promised to 
 
 ## The Fruit of the Tree
 
-The sacred meal is consistently associated with trees: the Tree of Life, the Tree of Knowledge, the World Tree, the Cedar of Lebanon, the Christmas tree, and numerous other sacred trees across cultures. This association is explained by the mycorrhizal relationship between mushrooms and trees.
+The sacred meal is consistently associated with trees: the Tree of Life, the Tree of Knowledge, the World Tree, the Cedar of Lebanon, the [[arthur-christmas-tree-amanita-muscaria]], and numerous other sacred trees across cultures. This association is explained by the mycorrhizal relationship between mushrooms and trees.
 
 The mushroom grows in a symbiotic relationship with tree roots, its underground mycelium directly attached to the tree. The mushroom is literally "the fruit of the tree." The tradition of finding the sacramental substance under or near a sacred tree thus encodes genuine botanical knowledge about where entheogenic mushrooms grow.
 
@@ -71,9 +71,9 @@ The symbolic forms preserved the outer structure of the ritual while removing it
 
 ## Source
 
-Primary source: James Arthur, "Mushrooms and Mankind: A Brief Introduction to Ethnomycology." See also [[sacred-sacrament-mushroom-rites]], and [[amanita-in-ancient-religion]]
+Primary source: James Arthur, "[[arthur-mushrooms-and-mankind-ethnomycology-and-religion]]: A Brief Introduction to Ethnomycology." See also [[sacred-sacrament-mushroom-rites]], and organized religion
 - [[amanita-muscaria-sacramental-wine-preparation]]
-- [[mesoamerican-mushroom-ceremonies-teonanacatl]]
+- mesoamerican-mushroom-ceremonies-teonanacatl
 ## Practical Considerations
 
 Successful implementation of The Sacred Meal in Ancient Traditions requires attention to
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: Fruiting Abnormalities and Malformations in Cultivated Mushrooms
+title: growing gourmet fruiting abnormalities malformations and Malformations in fungi-cultivated-mushrooms-pathogens-competitors
 created: 2026-04-26
 tags:
   - mushroom-cultivation
@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-Fruiting abnormalities are a common challenge in mushroom cultivation,
+Fruiting abnormalities are a common challenge in [[accessible-mushroom-cultivation-for-disabilities]],
 arising from suboptimal environmental conditions during the critical
 period of [[growing-gourmet-indoor-growing-environment]]. Understanding the
 causes enables cultivators to diagnose and correct problems quickly.
@@ -29,7 +29,7 @@ causes enables cultivators to diagnose and correct problems quickly.
 
 One of the most distinctive malformations is "coral" formation in
 Oyster mushrooms (Pleurotus ostreatus). When total light exposure
-during the critical 6-7 day primordia formation period fails to
+during the critical 6-7 day [[growing-gourmet-primordia-formation-pinning]] period fails to
 exceed 2400 lux-hours per day (equivalent to 100 lux of continuous
 lighting), P. ostreatus is triggered into producing abnormal, coral-
 like structures instead of normal mushrooms. This is caused by
@@ -54,7 +54,7 @@ underdeveloped caps occur from two primary causes:
    Mane all demonstrate strong photosensitivity.
 
 The cap-to-stem ratio of Oyster mushrooms serves as an accurate
-measurement of atmospheric CO2 levels in the growing room and is used
+measurement of atmospheric CO2 levels in the [[duggar-mushroom-growing-room-design]] and is used
 as a visual cue by experienced cultivators for increasing air
 exchange.
 

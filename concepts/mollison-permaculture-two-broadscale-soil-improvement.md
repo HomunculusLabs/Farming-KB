@@ -19,7 +19,7 @@ Rain penetrates and is absorbed; soil temperatures rise, roots grow and die to m
 
 When, after a few treatments, a black soil has redeveloped to 9 inches deep, trees and crops can be planted with assured success, and in the case of tree crops, the treatment gives permanent rehabilitation.
 
-The [[broadscale-permaculture-techniques-mollison]], integrating water management with soil care across entire properties.
+The broadscale-permaculture-techniques-mollison, integrating water management with soil care across entire properties.
 
 ## Results of Soil Rehabilitation
 
@@ -57,7 +57,7 @@ This small-scale approach aligns with [[permaculture-earthworks-and-water-harves
 
 ## Climate Considerations
 
-The techniques described here are applicable across a wide range of [[permaculture-designers-manual-tropical-climates]], soil rehabilitation is even more critical, as every drop of rain must be absorbed into the soil rather than lost to runoff. In humid climates, the focus shifts to ensuring adequate drainage while maintaining soil structure.
+The techniques described here are applicable across a wide range of permaculture-designers-manual-tropical-climates, soil rehabilitation is even more critical, as every drop of rain must be absorbed into the soil rather than lost to runoff. In humid climates, the focus shifts to ensuring adequate drainage while maintaining soil structure.
 
 ---
 
@@ -65,7 +65,7 @@ The techniques described here are applicable across a wide range of [[permacultu
 
 - [[keyline-design]]
 
-- [[broadscale-permaculture-techniques-mollison]]
+- broadscale-permaculture-techniques-mollison
 
 - [[permaculture-earthworks-and-water-harvesting]]
 
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

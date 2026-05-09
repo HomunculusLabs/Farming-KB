@@ -1,17 +1,8 @@
 ---
-title: Edge Effect and Microclimate Design
-created: 2026-04-18
-updated: 2026-04-21
-type: concept
-tags: [[permaculture, gardening, urban-agriculture]
-sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 ---
+# Edge Effect and Microclimate Design The herb-spiral-microclimate-design by manipulating:
 
-# Edge Effect and Microclimate Design
-
-The [[herb-spiral-microclimate-design]] by manipulating:
-
-- **Thermal mass** -- rocks, water bodies, and earth berms that absorb heat during the day and release it at night
+- **[[comparison-windbreak-vs-thermal-mass]]** -- rocks, water bodies, and earth berms that absorb heat during the day and release it at night
 - **Windbreaks** -- plants and structures that slow wind, reducing evaporation and mechanical damage
 - **Shade structures** -- deciduous trees that shade in summer but drop leaves to allow winter sun
 - **Frost pockets** -- low areas where cold air collects (avoid planting frost-sensitive species here)
@@ -24,15 +15,15 @@ Every element in the landscape affects microclimate. A large rock creates a diff
 
 ## Edge in Urban Settings
 
-Urban environments are rich with existing edges: walls, fences, curb strips, building foundations, and property boundaries. The curbside strip between sidewalk and street is a productive edge zone -- it catches runoff, reflects heat from the pavement, and is often neglected, making it available for guerrilla food plantings.
+[[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]] are rich with existing edges: walls, fences, curb strips, building foundations, and [[holzer-high-beds-property-boundaries]]. The curbside strip between sidewalk and street is a productive edge zone -- it catches runoff, reflects heat from the pavement, and is often neglected, making it available for guerrilla food plantings.
 
-Balconies and rooftops create edge zones between building interior and exterior. Even a windowsill herb garden exploits the edge between inside and outside. The permaculture designer looks at every boundary as an opportunity for increased production.
+Balconies and rooftops create edge zones between building interior and exterior. Even a windowsill herb garden exploits the edge between inside and outside. The permaculture designer looks at every boundary as an opportunity for [[fukuoka-textdoc-increased-production-not-increased-yields]].
 
 Specific urban edge opportunities:
 
 - **Foundation planting strips** -- the zone between building foundation and yard, often with reflected heat and unique moisture patterns
 - **Curb strips** -- public right-of-way areas that catch street runoff and are often underutilized
-- **Fence lines** -- vertical growing space along property boundaries
+- **Fence lines** -- [[coleman-greenhouse-tomato-vertical-growing]] space along property boundaries
 - **Driveway edges** -- compacted but sunny areas suitable for tough, drought-tolerant plants
 - **Roof edges** -- the transition from roof to wall, where water sheds and temperatures differ
 
@@ -46,16 +37,16 @@ The spiral, the keyhole, and the zigzag are not arbitrary shapes -- they are mat
 
 Edge also exists in time. The transition between seasons (spring, summer, autumn, winter) creates edges of temperature and daylight that trigger different biological activities. The transition between day and night creates temperature inversions that produce dew and fog. The transition between wet and dry seasons drives plant cycles in Mediterranean climates.
 
-Designing for temporal edge means planting species that perform at different times, ensuring that the landscape is always productive. A [[edge-effect-in-permaculture]]
-- [[zone-and-sector-analysis]]
-- [[urban-permaculture-edge-effect-and-design-principles]]
+Designing for temporal edge means planting species that perform at different times, ensuring that the landscape is always productive. A edge-effect-in-permaculture
+- zone-and-sector-analysis
+- urban-permaculture-edge-effect-and-design-principles
 
 ---
 Updated: 2026-04-18
 - [[urban-permaculture-food-forest-succession]]
 ## Practical Considerations
 
-When working with Edge Effect and Microclimate Design, several practical factors should be
+When working with [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]] and Microclimate Design, several practical factors should be
 carefully considered to achieve optimal results. These include
 the specific conditions of the implementation context, available
 resources, timing requirements, and the interactions between this
@@ -69,7 +60,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,9 +97,8 @@ advance the field as a whole. Cross-pollination of ideas from biology,
 ecology, data science, and traditional knowledge systems generates novel
 perspectives and solutions that may not emerge within any single domain.
 
-For continued learning, recommended resources include current research
+For continued learning, recommended resources include [[psychedelic-therapy-current-research]]
 publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

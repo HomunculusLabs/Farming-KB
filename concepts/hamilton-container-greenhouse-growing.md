@@ -9,7 +9,7 @@ sources:
 ---
 # Hamilton: Container and Greenhouse Growing
 
-**Source:** Geoff Hamilton, *Organic Gardening* (Nick Hamilton edition)
+**Source:** Geoff Hamilton, *[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]* (Nick Hamilton edition)
 
 **Updated:** 2026-04-21
 
@@ -23,13 +23,13 @@ Compressed coir discs that reconstitute in water to fill propagation pots. Stand
 
 ## Growing in the Greenhouse
 
-A greenhouse allows vegetables to be sown in midwinter and planted out under cloches in early spring, providing the first crops by late spring. It is easier to control the environment for optimal seed germination.
+A greenhouse allows vegetables to be sown in midwinter and planted out under cloches in early spring, providing the first crops by late spring. It is easier to control the environment for optimal [[cannabis-seed-germination-methods]].
 
 The [[cold-frame-construction]] is one of the most useful structures in the organic garden. It bridges the gap between the warm greenhouse and the exposed garden, allowing plants to adjust gradually to lower temperatures and greater air movement.
 
 ### Citrus in the Greenhouse
 
-In temperate climates, grow citrus in tubs with a minimum diameter of 18in (45cm). Use soil-based potting compost. Maintain minimum temperature of 45F (7C). Water well during the growing season; allow plants to dry between waterings in winter. Spray foliage with water every morning in summer (stop during flowering). Feed weekly with liquid kelp fertilizer. Prune only to remove dead, diseased, or crossing wood and fruited shoots after harvesting.
+In temperate climates, grow citrus in tubs with a minimum diameter of 18in (45cm). Use soil-based [[hamilton-potting-compost-recipes-and-growing-media]]. Maintain minimum temperature of 45F (7C). Water well during the [[savory-growing-season-and-non-growing-season-management]]; allow plants to dry between waterings in winter. Spray foliage with water every morning in summer (stop during flowering). Feed weekly with liquid kelp fertilizer. Prune only to remove dead, diseased, or crossing wood and fruited shoots after harvesting.
 
 ### Peaches and Nectarines Under Glass
 
@@ -43,13 +43,13 @@ Tomatoes and cucumbers are among the most popular greenhouse crops. [[hamilton-o
 
 ### Compost for Containers
 
-Use a blend of loam-based compost with added [[mollison-aquaculture-harvest-and-fish-nutrition]] per container provides a good start.
+Use a blend of loam-based compost with added mollison-aquaculture-harvest-and-fish-nutrition per container provides a good start.
 
 ## Protecting Plants
 
 ### Cloches
 
-Place cloches in position two weeks before sowing to warm the soil for early outdoor sowings. Remove once seedlings are established and weather permits.
+Place cloches in position two weeks before sowing to warm the soil for [[coleman-fall-bed-preparation-early-outdoor-planting]] sowings. Remove once seedlings are established and weather permits.
 
 ### Cold Frames
 
@@ -57,7 +57,7 @@ Essential for hardening off greenhouse-grown plants. A wood, metal, or brick fra
 
 ### Shading
 
-Use old onion nets or greenhouse shade netting for adjustable shading of cuttings and seedlings. Double shading on very sunny days, single on fair days, none on dull days. Too much sun causes wilting; too little prevents feeding through leaves.
+Use old onion nets or greenhouse [[jeavons-shade-netting-mini-greenhouses]] for adjustable shading of cuttings and seedlings. Double shading on very sunny days, single on fair days, none on dull days. Too much sun causes wilting; too little prevents feeding through leaves.
 
 ## Related
 
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

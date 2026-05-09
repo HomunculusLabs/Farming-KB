@@ -1,14 +1,14 @@
 ---
-title: Holmgren Third Wave Environmentalism
+title: Holmgren holmgren-third-wave-environmentalism-model Environmentalism
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+  sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: concept
 tags: [reference]
 ---
-# Holmgren Third Wave Environmentalism
-[[permaculture-design]] principles
+# Holmgren Third Wave E principles
 within a historical framework of environmental awareness he calls the "third wave
 of environmentalism." This framework helps explain why permaculture's systematic
 design approach is particularly relevant to the early 21st century and
@@ -67,7 +67,7 @@ second-wave assumptions:
 The second wave largely assumed that technological innovation could solve
 environmental problems without requiring fundamental changes in consumption
 patterns or economic structures. Holmgren challenges this by framing the
-environmental crisis within [[holmgren-household-economy-and-self-reliance]] over consumer
+environmental crisis within holmgren-household-economy-and-self-reliance over consumer
 choice. The focus shifts from buying green products to reducing dependence on
 the consumer economy altogether. Non-material well-being — enjoying a sunset,
 walking for health, playing with children — becomes central rather than
@@ -80,10 +80,10 @@ transformation. Sustainability as a concept has been appropriated by corporate
 interests; moving "beyond sustainability" means accepting that the task is
 adaptation to change, not preservation of current arrangements.
 ### Systems Thinking Over Single-Issue Campaigns
-The second wave often focused on specific environmental issues (climate change,
+The second wave often focused on specific environmental issues ([[dighton-fungi-climate-change-feedback]],
 biodiversity loss, pollution) as separate problems requiring separate solutions.
 The third wave, informed by
-[[permaculture-retrofit-suburbia]] movement, inspired
+permaculture-retrofit-suburbia movement, inspired
 by Holmgren's work, focuses on converting existing suburban properties into
 productive, low-energy households. Community-supported agriculture (CSA) models,
 food cooperatives, tool libraries, and time banks represent economic innovations
@@ -105,5 +105,7 @@ chains, and more localized economies — outcomes incompatible with the growth-
 dependent logic of corporate capitalism.
 ## See Also
 
+- [[holmgren-third-wave-environmentalism-model]]
+
 - [[holmgren-biological-services-working-animals]]
-[[permaculture-design]], [[holmgren-household-economy-and-self-reliance]], [[energy-descent-action-planning]], [[permaculture-retrofit-suburbia]],
+[[permaculture-design]], holmgren-household-economy-and-self-reliance, [[energy-descent-action-planning]], permaculture-retrofit-suburbia,

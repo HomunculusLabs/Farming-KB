@@ -1,11 +1,12 @@
 ---
-title: Microbial Ecology and Natural Decomposition
+title: fukuoka microbial ecology decomposition and fukuoka-microbes-scavengers-natural-decomposition-biosystem
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Microbial Ecology and Natural Decomposition
@@ -13,7 +14,7 @@ sources:
 In Chapter 5 of [[fukuoka-compost-unnecessary-philosophy]] for the full critique.
 
 ### Why Inoculation Failed
-Fukuoka's experience reflects a fundamental principle of microbial ecology: isolated microbial cultures perform poorly outside the complex community context of natural soil. When a single beneficial bacterium is introduced to sterile straw, it lacks the syntrophic partners, signaling molecules, and competitive community structure that enable efficient decomposition in nature. The handful of soil or chicken manure succeeded precisely because it introduced a complete microbial community -- bacteria, fungi, protozoa, nematodes, and their associated enzymes -- in the natural proportions that had co-evolved to function together. Modern microbiology has confirmed this principle: defined microbial consortia outperform single-strain inoculants for decomposition tasks, and the most diverse inocula consistently produce the most complete and rapid substrate breakdown.
+Fukuoka's experience reflects a fundamental principle of microbial ecology: isolated microbial cultures perform poorly outside the complex community context of natural soil. When a single beneficial bacterium is introduced to sterile straw, it lacks the syntrophic partners, signaling molecules, and competitive community structure that enable efficient decomposition in nature. The handful of soil or chicken manure succeeded precisely because it introduced a complete [[edaphic-factors-microbial-community-structure]] -- bacteria, fungi, protozoa, nematodes, and their associated enzymes -- in the natural proportions that had co-evolved to function together. Modern microbiology has confirmed this principle: defined microbial consortia outperform single-strain inoculants for decomposition tasks, and the most diverse inocula consistently produce the most complete and rapid substrate breakdown.
 
 ## Implications for [[fukuoka-straw-decomposition-microbial-succession]] Concepts
 
@@ -98,4 +99,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

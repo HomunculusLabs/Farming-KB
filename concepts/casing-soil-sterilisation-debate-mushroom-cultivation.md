@@ -1,5 +1,5 @@
 ---
-title: Casing Soil Sterilisation Debate in Mushroom Cultivation
+title: Casing Soil casing soil sterilisation debate mushroom cultivation in accessible-mushroom-cultivation-for-disabilities
 created: 2026-04-28
 tags:
   - mycology
@@ -24,16 +24,16 @@ source cultivation guide from the GUID Exotic series takes a clear position in f
 of full sterilisation, based on direct practical experience with untreated and
 pasteurised alternatives.
 This position contrasts with the recommendations of many established cultivation
-authors who argue for preserving beneficial microorganisms in the casing layer.
+authors who argue for preserving beneficial microorganisms in the [[gourmet-medicinal-mushroom-casing-layer-techniques]].
 
 ## The Conventional Wisdom Against Sterilisation
 
 Many established mushroom cultivation authors and commercial growers advise against
 sterilising casing soil. Their argument rests on the ecological role of the casing
-layer in mushroom fruiting. Casing soil is not primarily a nutritional substrate for
+layer in [[ectomycorrhizal-mushroom-fruiting-ecology]]. Casing soil is not primarily a nutritional substrate for
 the mycelium.
 Instead, it provides a moist microclimate at the substrate surface and introduces a
-community of beneficial microorganisms that interact with the fungal culture to
+community of beneficial microorganisms that interact with the [[biodiversity-fungal-culture-preservation]] to
 stimulate fruiting. Proponents of the non-sterile approach argue that sterilisation
 kills these beneficial organisms.
 Particularly important are certain bacteria that are believed to produce compounds
@@ -56,7 +56,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -98,4 +98,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

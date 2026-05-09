@@ -5,7 +5,7 @@ tags: [query, ground-cover, no-till, cover-crops, living-mulch]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  sources: []
 type: query
 ---
 
@@ -13,8 +13,8 @@ type: query
 
 ## Short Answer
 The best ground covers for no-till gardens combine soil protection with
-multiple functions like nitrogen fixation, nutrient accumulation, weed
-suppression, and pollinator support. White clover, crimson clover, and
+multiple functions like [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], nutrient accumulation, weed
+suppression, and pollinator support. White clover, [[comparison-lupin-vs-crimson-clover-green-manure]], and
 perennial peanut provide nitrogen fixation; comfrey mines deep minerals;
 daikon radish breaks compacted soil; and buckwheat attracts pollinators
 while smothering weeds. The right choice depends on your climate, goals,
@@ -22,8 +22,8 @@ and whether you need a living mulch between crops or a winter cover crop.
 
 ## Detailed Explanation
 In a no-till garden system, ground covers replace the functions that tilling
-traditionally performed: weed suppression, soil protection, organic matter
-addition, and nutrient cycling. Unlike bare soil that erodes, compacts, and
+traditionally performed: weed suppression, soil protection, [[hamilton-composting-and-organic-matter-management]]
+addition, and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. Unlike bare soil that erodes, compacts, and
 loses carbon, a covered soil surface stays cool, retains moisture, feeds
 soil biology, and builds fertility over time. Selecting the right ground
 cover species is one of the most impactful decisions a no-till gardener can
@@ -33,7 +33,7 @@ Living mulches are ground covers that grow simultaneously alongside crop
 plants, providing continuous soil coverage during the growing season. The
 [[white-clover-living-mulch]] is the gold standard for between-row coverage in vegetable gardens.
 It fixes nitrogen, tolerates foot traffic and mowing, stays low enough to
-avoid shading most crops, and attracts beneficial insects when allowed to
+avoid shading most crops, and attracts [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] when allowed to
 flower.
 
 The distinction between living mulches and cover crops is important but
@@ -44,7 +44,7 @@ species serve well in both roles. The [[fukuoka-white-clover-ground-cover]] demo
 living mulch in orchards and grain fields, reducing or eliminating the need
 for nitrogen fertilizer.
 
-Dynamic accumulator plants mine minerals from deep soil layers and bring them
+[[nutrient-dynamic-accumulator-reference]] plants mine minerals from deep soil layers and bring them
 to the surface where they become available to shallow-rooted crops. The
 [[comparison-sheet-mulching-vs-chop-and-drop]], where mature plants are
 cut at the base and left in place as a mulch layer. This returns organic
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

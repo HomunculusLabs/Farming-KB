@@ -1,5 +1,5 @@
 ---
-title: "Protists and Nematode Predators"
+title: "teaming with microbes protists and nematode predators Predators"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -62,7 +62,7 @@ check.
 ## Symbiotic Relationships
 
 Protozoa form symbiotic relationships, particularly with bacteria. Flagellates
-in termite guts digest wood fibers while working bacteria fix nitrogen from
+in termite guts digest wood fibers while working bacteria [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] from
 the atmosphere -- a rare triple symbiotic relationship. Some ciliates "farm"
 bacteria colonies in sand. Methane-generating bacteria inside ciliates
 contribute to the methane gas from anaerobic respiration.
@@ -89,7 +89,7 @@ Classification by feeding habit:
   nematodes -- preventing overgrazing of bacteria and fungi and keeping
   destructive herbivore nematodes in check.
 - **Omnivores:** Eat any and all of the above, down to the merest fungus
-  spore. Some directly decompose organic matter.
+  spore. Some directly decompose [[hamilton-composting-and-organic-matter-management]].
 
 ## Mineralization
 

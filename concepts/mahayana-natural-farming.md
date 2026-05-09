@@ -1,5 +1,5 @@
 ---
-title: "Mahayana Natural Farming"
+title: "Mahayana comparison-natural-farming-vs-permaculture"
 type: concept
 tags:
   - natural-farming
@@ -22,8 +22,8 @@ abandons all purposeful human intervention. The name derives from the
 Buddhist concept of the Mahayana ("Great Vehicle"), the path of universal
 compassion that transcends individual effort.
 
-Fukuoka distinguished Mahayana natural farming from both scientific farming
-and a lesser form he called Hinayana natural farming. Together, these three
+Fukuoka distinguished Mahayana natural farming from both [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]
+and a lesser form he called [[fukuoka-mahayana-and-hinayana-natural-farming]] farming. Together, these three
 approaches form a philosophical spectrum for understanding humanity's
 relationship to the natural world through agriculture.
 
@@ -41,7 +41,7 @@ world, subsisting on its bounty without purposeful effort.
 **Hinayana natural farming** occupies the "relative world" alongside
 scientific farming. The practitioner earnestly seeks the condition of
 Mahayana farming but has not yet attained it. This corresponds broadly to
-organic farming and other systems that reduce but do not eliminate human
+[[coleman-deep-organic-farming-philosophy]] and other systems that reduce but do not eliminate human
 intervention.
 
 **Scientific farming** also inhabits the relative world but moves in the
@@ -67,7 +67,7 @@ processes, not from human invention.
 
 Central to this approach is the Buddhist concept of "non-discriminating
 knowledge" — awareness that treats self and object as a unified whole.
-Scientific agriculture, by contrast, relies on "discriminating knowledge"
+[[fukuoka-critique-scientific-agriculture-civilization]], by contrast, relies on "[[non-discriminating-knowledge-and-critique-of-scientific-reductionism]]"
 that splits the world into subject and object, fragmenting a living whole
 into isolated facts.
 

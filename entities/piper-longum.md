@@ -34,9 +34,9 @@ created: 2026-04-28
 
 ## Overview
 
-**Piper longum**, commonly known as long pepper, is a flowering vine in the family Piperaceae, native to the Indian subcontinent and Southeast Asia.
+**Piper longum**, commonly known as long pepper, is a flowering vine in the family Piperaceae, native to the Indian subcontinent and [[psilocybe-southeast-asia-pacific]].
 
-It is one of the oldest known spices in human history, predating black pepper (*Piper nigrum*) in international trade.
+It is one of the oldest known spices in human history, predating [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]] (*Piper nigrum*) in international trade.
 
 The dried fruit spikes are used extensively in Ayurvedic medicine as a rasayana (rejuvenative) and in traditional culinary preparations across South and Southeast Asia.
 
@@ -68,7 +68,7 @@ P. longum is native to the Indo-Malayan region, occurring naturally in India, Ne
 
 It grows in tropical and subtropical moist deciduous forests at elevations from sea level to 1500 meters.
 
-The species prefers well-drained, loamy soils rich in organic matter, with partial shade and annual rainfall of 1500–2500 mm.
+The species prefers well-drained, loamy soils rich in [[hamilton-composting-and-organic-matter-management]], with partial shade and annual rainfall of 1500–2500 mm.
 
 Wild populations are increasingly rare due to overharvesting; most commercial supply comes from cultivated sources in India (especially the northeastern states and foothills of the Himalayas).
 
@@ -82,7 +82,7 @@ Piperine inhibits hepatic and intestinal drug-metabolizing enzymes (CYP3A4, P-gl
 
 The fruit also contains piperlongumine, a distinctive amide alkaloid with demonstrated anticancer activity through inhibition of the STAT3 signaling pathway.
 
-Piperlongumine selectively induces oxidative stress in cancer cells while sparing normal cells, showing activity against breast, colon, and pancreatic cancer lines.
+Piperlongumine selectively induces [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in cancer cells while sparing normal cells, showing activity against breast, colon, and pancreatic cancer lines.
 
 Additional compounds include piperettine, piperlonguminine, piperstachine, and volatile oils composed primarily of sesquiterpenes.
 
@@ -110,11 +110,11 @@ Plants require support structures (trellises or living standards like Sesbania) 
 
 Harvesting of fruit spikes begins 12–18 months after planting, with mature spikes collected from August to December.
 
-Yields average 2–3 kg of dried spikes per plant annually, with total crop lifespan of 5–8 years.
+Yields average 2–3 kg of dried spikes per plant annually, with total [[fukuoka-cover-crop-lifespan-clover-decline-weed-reemergence]] of 5–8 years.
 
 Post-harvest processing involves sun-drying spikes for 7–10 days until they reach a moisture content below 12%.
 
-Major cultivation challenges include susceptibility to Phytophthora root rot, mealybug infestations, and declining soil fertility under monoculture.
+Major cultivation challenges include susceptibility to [[amf-biocontrol-phytophthora-root-exudate-modification]] rot, mealybug infestations, and declining soil fertility under monoculture.
 
 ## See Also
 

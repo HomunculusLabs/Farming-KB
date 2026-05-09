@@ -41,7 +41,7 @@ The CLT model also protects permaculture investments in land improvement. When l
 
 Mollison integrates the CLT concept into his village development model. A village development trust acquires land, develops infrastructure and house sites, and establishes a community land trust to hold the common land and manage the community assets. Individual homes and businesses are sold or leased on CLT land, with resale restrictions maintaining affordability.
 
-The village CLT retains ownership of roads, common buildings, forests, water systems, agricultural land, and recreational areas. Residents have secure tenure through long-term leases while the community retains control over its shared resources and the overall character of the village.
+The village CLT retains ownership of roads, common buildings, forests, water systems, [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]], and recreational areas. Residents have secure tenure through long-term leases while the community retains control over its shared resources and the overall character of the village.
 
 ## Agricultural Land Trusts
 
@@ -57,7 +57,7 @@ Urban CLTs can also hold land for community gardens, urban farms, parks, and oth
 
 ## Conservation Land Trusts
 
-Conservation land trusts hold land primarily for ecological protection and restoration. These trusts acquire ecologically significant land through purchase, donation, or conservation easement, and manage it for biodiversity conservation, watershed protection, and ecosystem restoration. Conservation trusts work closely with permaculture designers to restore degraded land using sustainable design principles.
+Conservation land trusts hold land primarily for ecological protection and restoration. These trusts acquire ecologically significant land through purchase, donation, or conservation easement, and manage it for [[fungal-biodiversity-conservation-status]], watershed protection, and ecosystem restoration. Conservation trusts work closely with permaculture designers to restore degraded land using sustainable [[holmgren-permaculture-twelve-design-principles-framework]].
 
 ## Funding and Finance
 
@@ -67,7 +67,7 @@ Mollison's property trust model provides a framework for funding CLTs through et
 
 ## Legal Framework
 
-The legal framework for CLTs varies by jurisdiction. In the United States, CLTs are typically incorporated as non-profit corporations under state law. In the United Kingdom, CLTs can be registered as community benefit societies. In Australia, CLTs operate under various state and territory laws. The specific legal form should be adapted to local legal requirements and should provide for permanent land stewardship.
+The legal framework for CLTs varies by jurisdiction. In the [[dmt-containing-plants-united-states-halpern]], CLTs are typically incorporated as non-profit corporations under state law. In the United Kingdom, CLTs can be registered as community benefit societies. In Australia, CLTs operate under various state and territory laws. The specific legal form should be adapted to local legal requirements and should provide for permanent land stewardship.
 
 ## Challenges
 
@@ -75,10 +75,13 @@ CLTs face several challenges including the high cost of land acquisition in desi
 
 ## See Also
 
-[[permaculture-economics]]
+permaculture-economics
 
 [[permaculture-community-design]]
 
 [[permaculture-settlement-design]]
 
-[[permaculture-designers-manual-legal-and-social-structures]]
+permaculture-designers-manual-legal-and-social-structures
+- [[water-management]]
+- [[permaculture-design]]
+- [[bill-mollison]]

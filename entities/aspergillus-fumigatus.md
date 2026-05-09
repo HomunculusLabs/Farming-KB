@@ -1,5 +1,5 @@
 ---
-title: Aspergillus fumigatus
+title: gadd-aspergillus-fumigatus-glucan-virulence
 created: 2026-04-28
 type: species
 tags: [pathogen, ascomycete, human-fungal-infection, cell-wall, genomics]
@@ -33,7 +33,7 @@ significant Aspergillus species including A. nidulans, A. niger, and
 A. oryzae. The genus Aspergillus contains both human and plant
 pathogens, with species exhibiting diverse ecological roles ranging
 from saprotrophs to opportunistic pathogens. Taxonomic relationships
-within the genus have been refined through multilocus sequence typing.
+within the genus have been refined through [[fungi-multilocus-sequence-typing-molecular-epidemiology]] typing.
 
 ## Cell Wall Structure
 
@@ -58,7 +58,7 @@ has been established as a key immune evasion strategy.
 The synthesis of alpha(1,3)-glucan is mediated by AGS (alpha-glucan
 synthase) proteins. Phylogenetic analysis of the Ags synthase domain
 shows high amino acid sequence similarity between A. fumigatus,
-Cryptococcus neoformans, Histoplasma capsulatum, and
+[[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]], Histoplasma capsulatum, and
 Schizosaccharomyces pombe, indicating a conserved mechanism across
 diverse fungal pathogens.
 
@@ -90,12 +90,12 @@ genome fully sequenced, alongside A. oryzae. Its approximately
 29-megabase genome encodes approximately 9,000-10,000 protein-coding
 genes. The genome has been essential for comparative genomic analyses
 across the Aspergillus genus, identification of pathogenicity
-determinants including secondary metabolite gene clusters, and drug
+determinants including [[fungal-elicitors-enhanced-secondary-metabolite-production]] gene clusters, and drug
 target discovery.
 
 The availability of the genome sequence has enabled functional
 genomics approaches including microarray analysis, RNA-seq, and gene
-deletion studies to identify virulence factors and understand the
+deletion studies to identify [[fungal-virulence-factors-host-immune-evasion]] and understand the
 molecular basis of fungal pathogenicity.
 
 ## Pathogenicity
@@ -123,7 +123,7 @@ dispersal and inhalation.
 
 A. fumigatus is a cosmopolitan saprotroph found in soil, compost, and
 decaying vegetation worldwide. It plays important roles in carbon and
-nitrogen cycling through its ability to degrade complex organic
+[[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]] through its ability to degrade complex organic
 polymers. The species is thermotolerant, with a growth temperature
 range that extends well above that of most other environmental fungi.
 

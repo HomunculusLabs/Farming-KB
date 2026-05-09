@@ -19,26 +19,26 @@ Chop-and-drop (also called slash mulching) is the practice of cutting back plant
 Toby Hemenway describes using mulch-producing species such as comfrey and cardoon (a thick-leaved artichoke relative) planted in a hedge. He slashes their leaves periodically and leaves them on the ground to create a mulch layer that holds moisture in the soil. This approach:
 
 - Conserves water significantly (critical in areas with long dry seasons)
-- Builds soil organic matter in place
+- Builds soil [[hamilton-composting-and-organic-matter-management]] in place
 - Eliminates the need to transport material to and from a compost pile
 - Reduces labour compared to conventional composting
 
 ## Cover Crops as Chop-and-Drop
 
-Cover crops are explicitly designed for slash-in-place management. As Hemenway writes: "short-term green manures meant to be slashed in place or lightly tilled in after a season, such as annual ryegrass and common vetch." The dense planting crowds and shades out weeds, and when slashed, their leaves carpet the earth with nutritious, humus-building litter.
+[[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil]] explicitly designed for slash-in-place management. As Hemenway writes: "short-term [[jeavons-green-manures-cover-crops]] meant to be slashed in place or lightly tilled in after a season, such as annual ryegrass and common vetch." The dense planting crowds and shades out weeds, and when slashed, their leaves carpet the earth with nutritious, humus-building litter.
 
 ## Benefits
 
 - **Water conservation:** The mulch layer holds moisture in the soil
 - **Soil building:** Organic matter decomposes in place, feeding soil life
-- **Nutrient cycling:** Nutrients drawn from deep in the soil by accumulator plants are deposited on the surface at leaf fall
+- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]:** Nutrients drawn from deep in the soil by accumulator plants are deposited on the surface at leaf fall
 - **Weed suppression:** A thick mulch layer prevents weed seeds from germinating
 - **Labour reduction:** No need to move, turn, or spread compost
 
 ## Related
 
 - [[sheet-mulching]] -- layered mulch technique for creating garden beds
-- [[cover-crop-selection-guide]] -- choosing cover crops for chop-and-drop
+- [[cover-crop-selection-guide]] -- choosing [[query-best-cover-crops-for-sandy-soil]] chop-and-drop
 - [[hugelkultur-bed-construction-detailed]] -- woody biomass buried in beds
 ## Practical Considerations
 
@@ -56,7 +56,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -98,4 +98,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

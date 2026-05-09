@@ -1,5 +1,5 @@
 ---
-title: Smut Fungi Taxonomy and Diversity
+title: Smut copelandia-panaeoloideae-neurotropic-fungi-taxonomy-distribution and Diversity
 created: 2026-04-28
 tags:
   - mycology
@@ -24,7 +24,7 @@ and sedges. Modern treatments based on ultrastructural, biochemical,
 and nucleotide-sequence analyses have shown that Exobasidiales, a
 morphologically distinct order of phytopathogens, is closely related
 to Tilletia and allied taxa. Conversely, smutlike phytopathogens in
-the genus Microbotryum are more closely related to the rust fungi
+the genus Microbotryum are more closely related to the [[biodiversity-rust-fungi-urediniomycetes]]
 (Urediniomycetes) than to the Ustilaginomycetes.
 
 ## Morphology
@@ -44,13 +44,13 @@ About half of the smut fungi produce teliospores in aggregates called
 "spore balls." Spore balls consist of teliospores only or a combination
 of teliospores and sterile cells. Many species of smut fungi are
 capable of limited saprobic growth on nonliving substrata, but the
-predominate stage of the smut fungus life cycle is the mostly
+predominate stage of the smut [[bloomfield-rust-fungus-life-cycles-puccinia-haustoria-spermatia]] cycle is the mostly
 intercellular mycelium within the plant host.
 
 ## Sorus Types
 
 The taxonomy of smut fungi is based on the locations and types of sori
-and spores produced, together with the type of spore germination.
+and spores produced, together with the type of [[growing-gourmet-spore-germination-strain-isolation]].
 Fischer and Holton grouped the smut fungi into stem smuts, leaf smuts,
 inflorescence smuts, and gall-forming smuts. The sori of stem smuts
 are typically confined to the stems of the host. Leaf smuts form long,
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

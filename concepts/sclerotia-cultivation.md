@@ -21,14 +21,14 @@ sources:
 
 # Sclerotia Cultivation
 
-Sclerotia (singular: sclerotium) are dense, hardened masses of mycelium that serve as survival structures for certain fungi. In cultivation, sclerotia-producing species of *Psilocybe* can form these "truffles" directly in sealed jars without ever requiring fruiting conditions, making them one of the easiest methods for indoor cultivation. See [[psilocybin-mushroom-cultivation]] for fruiting body methods and [[mushroom-substrates]] for substrate details.
+Sclerotia (singular: sclerotium) are dense, hardened masses of mycelium that serve as survival structures for certain fungi. In cultivation, sclerotia-producing species of *Psilocybe* can form these "truffles" directly in sealed jars without ever requiring fruiting conditions, making them one of the easiest methods for [[cannabis-sativa-indoor-cultivation-techniques]]. See [[psilocybin-cultivation]] for fruiting body methods and [[mushroom-substrates]] for substrate details.
 
 ## Sclerotia-Producing Species
 
 | Species | Potency | Sclerotia Notes | Native Range |
 |---------|---------|----------------|--------------|
 | *P. tampanensis* | Low (0.16% psilocybin) | Best sclerotia producer; "philosopher's stones" | Florida (originally), now cultivated worldwide |
-| *P. mexicana* | Moderate | Produces both sclerotia and mushrooms; one big flush + small second | Mexico, Central America |
+| *P. mexicana* | Moderate | Produces both sclerotia and mushrooms; one big flush + small second | Mexico, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] |
 | *P. galindoi* | Moderate-High | Excellent sclerotia producer, higher potency than tampanensis | Mexico (high altitude grasslands) |
 
 ## Grass Seed Substrate
@@ -61,7 +61,7 @@ Grass seed (particularly rye grass, *Lolium perenne*) is the preferred substrate
 
 ## Inoculation and Colonization
 
-- Inoculate with spore syringe, mycelium syringe, or agar squares (see [[mushroom-sterile-technique-detailed]])
+- Inoculate with [[comparison-spore-print-collection-vs-spore-syringe-production]], mycelium syringe, or agar squares (see [[mushroom-sterile-technique-detailed]])
 - Work clean — even a cardboard box hood prevents drafts and contamination
 - Flame-sterilize needles and scalpels before use
 - After inoculation, close lids, shake jars, then **loosen lids again** for gas exchange
@@ -74,7 +74,7 @@ If jars are incubated too long or at too high a temperature, mycelium excretes y
 
 ## Sclerotia Formation
 
-Unlike fruiting body cultivation, sclerotia form **directly in the colonized jar** — no casing, no fruiting chamber, no light required.
+Unlike fruiting body cultivation, sclerotia form **directly in the colonized jar** — no casing, no [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]], no light required.
 
 - After full colonization, place jars in a clean, preferably dark location
 - Room temperature is adequate (18-24°C)
@@ -85,7 +85,7 @@ Unlike fruiting body cultivation, sclerotia form **directly in the colonized jar
 
 ## Casing and Fruiting (Optional)
 
-The same grass seed substrate can also be used to grow mushrooms by casing the colonized grain:
+The same grass seed substrate can also be used to [[query-how-can-i-grow-mushrooms-alongside-garden-vegetables]] by casing the colonized grain:
 
 ### Casing Soil Recipe
 
@@ -136,9 +136,9 @@ Mix ingredients dry, then add water while stirring until maximum moisture withou
 
 ## See Also
 
-- [[psilocybin-mushroom-cultivation]] — Fruiting body methods and species parameters
+- [[psilocybin-cultivation]] — Fruiting body methods and species parameters
 - [[mushroom-substrates]] — Detailed substrate science and formulations
 - [[mushroom-sterile-technique-detailed]] — Contamination prevention
 - [[psilocybin-mushroom-chemistry]] — Potency data for sclerotia-producing species
-- [[mushroom-spawn-making-detailed]] — Grain spawn preparation methods
+- [[mushroom-spawn-making-detailed]] — Grain [[azurescens-spawn-preparation-grain-to-wood]] methods
 - [[monotub-cultivation]] — Alternative indoor bulk method

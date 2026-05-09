@@ -21,7 +21,7 @@ Dobkin de Rios's identification of specific therapeutic mechanisms — doctrinal
 
 ## Modern Relevance
 
-Iquitos has since become a major center of ayahuasca tourism, with dozens of retreat centers catering to international visitors seeking healing and spiritual experience. The tensions between traditional healing practices and commercial exploitation that Dobkin de Rios observed in their early stages have only intensified, raising important ethical questions discussed in [[beta-carboline-chemistry]] provides the biochemical foundation, but the cultural framework documented by Dobkin de Rios is what translates that biochemistry into healing.
+Iquitos has since become a major center of [[stuart-r-ayahuasca-tourism-cautionary-ethnography]], with dozens of retreat centers catering to international visitors seeking healing and spiritual experience. The tensions between traditional healing practices and commercial exploitation that Dobkin de Rios observed in their early stages have only intensified, raising important ethical questions discussed in [[beta-carboline-chemistry]] provides the biochemical foundation, but the cultural framework documented by Dobkin de Rios is what translates that biochemistry into healing.
 
 ## References and Further Reading
 
@@ -47,7 +47,7 @@ From one perspective, the Transcendent Other is "nature correctly perceived to b
 
 Those who report contact with the Transcendent Other describe a range of experiences: entities that seem to possess agency and intention, machine-elf or jester-like beings that communicate through visual and auditory modalities, and landscapes of impossible complexity that respond to the observer's thoughts. The encounter is consistently described as more real than everyday reality — hyper-real, not unreal.
 
-McKenna argued that the consistency of these reports across cultures and historical periods suggests the phenomenon is not merely subjective hallucination but points to something genuinely transpersonal. The same basic encounter has been reported by Amazonian shamans, modern psychonauts, and participants in clinical research.
+McKenna argued that the consistency of these reports across cultures and historical periods suggests the phenomenon is not merely subjective hallucination but points to something genuinely transpersonal. The same basic encounter has been reported by Amazonian shamans, modern psychonauts, and participants in [[hofmann-lsd-clinical-research-early-studies]].
 
 ## Mechanism: Information Transfer Across Species
 
@@ -59,9 +59,9 @@ The Transcendent Other is thus both the content of the experience and the evolut
 
 ## Exopheromone Hypothesis
 
-McKenna proposes that psychoactive plant compounds may function as exopheromones — chemical messengers that act across species lines. Some exopheromones may "allow a small group of individuals to affect a community or an entire biome." This extends the concept of nature as "an organism whose interconnected components act upon and communicate with one another through the release of chemical signals."
+McKenna proposes that psychoactive plant compounds may function as exopheromones — chemical messengers that act across species lines. Some exopheromones may "allow a small group of individuals to affect a community or an entire biome." This extends the concept of nature as "an organism whose interconnected components act upon and communicate with one another through the release of [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]."
 
-This framing draws on chemical ecology suggesting that plant secondary metabolites may not be "secondary" at all but are in a "dynamic state, fluctuating in both concentration and in their rate of metabolic decay." The role of these compounds "makes it clear that they are essential to the life and the survival strategy of the organism."
+This framing draws on chemical ecology suggesting that plant [[antifungal-secondary-metabolites-coprophilous-fungi]] may not be "secondary" at all but are in a "dynamic state, fluctuating in both concentration and in their rate of metabolic decay." The role of these compounds "makes it clear that they are essential to the life and the survival strategy of the organism."
 
 ## Connection to Language and Consciousness
 ## Practical Considerations
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

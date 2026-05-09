@@ -1,13 +1,12 @@
 ---
 title: stump-inoculation-techniques for oyster-mushroom-cultivation-economics
 created: 2026-04-28
-tags: [[mycology, inoculation, sterile-technique, agar-transfer, Stamets]
+tags: [mycology, inoculation, sterile-technique, agar-transfer, Stamets]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["the-mushroom-cultivator-stamets.md"]
 type: concept
 ---
-
 # [[mushroom-cultivation]]
 
 ## Overview
@@ -47,7 +46,7 @@ spores during the transfer.
 Before conducting transfers, take precautions to ensure sterile quality:
 
 1. Clean the room thoroughly with disinfectant
-2. Mop floors and wash room air with 10% bleach spray
+2. Mop floors and wash [[stamets-growing-room-air-circulation-co2-management]] with 10% bleach spray
 3. Wait at least 15 minutes after spraying for particles to settle
 4. Wear newly laundered clothes and practice personal hygiene
 5. Do not bring contaminated materials into the sterile room
@@ -63,7 +62,7 @@ Stamets recommends a "double wedge" transfer for agar-to-grain inoculation:
 1. Select a vigorously growing culture (no more than 3/4 covered)
 2. Flame sterilize scalpel and cut a triangular wedge of mycelium
 3. Cut the wedge in half, spearing both pieces on the scalpel
-4. With quick, deliberate movements, transfer both pieces to a grain jar
+4. With quick, deliberate movements, transfer both pieces to a [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]]
 5. Expose the grain for minimal time during transfer
 6. Flame sterilize between each jar and inoculate 6-8 jars per plate
 
@@ -121,7 +120,7 @@ of picking, after which clones become increasingly difficult to establish.
 3. **Minimize container open time**: Expose media for the shortest
    duration possible
 4. **Work within the sterile air column**: Keep all work within the
-   filtered air stream when using a laminar flow hood
+   filtered air stream when using a [[comparison-laminar-flow-hood-vs-fruiting-chamber]] hood
 5. **Personal hygiene**: Clean clothes, washed hands, minimal movement
 6. **Regular cleaning**: A cleaning regimen must precede every set of
    inoculations

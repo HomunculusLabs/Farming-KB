@@ -20,7 +20,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Kuo, M. (2024). "Suillus americanus." MushroomExpert.com.
-  - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "North American Boletes."
+  - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "[[growing-gourmet-north-american-reishi-species]] Boletes."
     Syracuse University Press.
   - Smith, A.H. & Thiers, H.D. (1971). "The Boletes of Michigan."
     University of Michigan Press.
@@ -37,7 +37,7 @@ associate of five-needle pines across eastern and central North America.
 It produces medium-sized fruiting bodies with a viscid orange-yellow cap and a
 membranous partial veil ring on the stipe. Though edible, it is not widely
 collected due to soft, bland flesh. It serves as an indicator species for
-healthy pine forest ecosystems and has been studied for its role in fungal
+healthy [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] ecosystems and has been studied for its role in fungal
 succession after disturbance.
 
 ## Taxonomy
@@ -63,7 +63,7 @@ with Pinus subsection *Strobus*. Some older guides treated it as a variety of
 - **Flesh:** Pale yellow, soft and spongy; unchanging or slowly brown when
   cut; mild odor and taste.
 - **[[ectomycorrhizal-associations]] with five-needle pines, facilitating
-nutrient exchange between fungal mycelium and tree roots. The hyphal mantle
+[[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between fungal mycelium and tree roots. The hyphal mantle
 extends root absorptive surface area, improving phosphorus and nitrogen
 uptake for the host. In post-fire and post-logging succession studies, *S.
 americanus* is among the first Suillus species to colonize disturbed sites,
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

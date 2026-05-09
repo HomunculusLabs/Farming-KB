@@ -1,10 +1,10 @@
 ---
-title: "Catalytic Hydrogenolysis Debenzylation to Crystalline Psilocybin"
+title: "shirota-catalytic-hydrogenolysis-debenzylation-psilocybin Debenzylation to Crystalline Psilocybin"
 aliases: [palladium carbon hydrogenolysis psilocybin, debenzylation
-  zwitterion to psilocybin, final step psilocybin synthesis]
+  zwitterion to psilocybin, final step [[psilocin-psilocybin-synthesis-shirota]]
 tags: [shirota, psilocybin, hydrogenolysis, palladium, debenzylation,
   crystallization, organic-chemistry, synthesis]
-source: [[psilocybin-synthesis-shirota-concise-large-scale-method|concise large scale synthesis of psilocin and psilocybin shirota hakamata goda]]
+source: psilocybin-synthesis-shirota-concise-large-scale-method|[[psilocybin-synthesis-shirota-concise-large-scale-method]] synthesis of [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] shirota hakamata goda
 created: 2026-05-08
 ---
 
@@ -14,7 +14,7 @@ created: 2026-05-08
 
 The final step in the Shirota, Hakamata, and Goda (2003) synthesis of
 psilocybin is the catalytic hydrogenolysis of the zwitterionic N,O-
-dibenzyl phosphate intermediate (8) to produce psilocybin (2) as a
+dibenzyl [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]] (8) to produce psilocybin (2) as a
 crystalline product. This step removes both benzyl protecting groups
 through palladium-catalyzed hydrogenation and yields psilocybin without
 any chromatographic purification, completing the first gram-scale,
@@ -35,7 +35,7 @@ chromatography-free synthesis of psilocybin.
 ### Reaction Scheme
 
 The catalytic hydrogenolysis removes both benzyl groups from the
-zwitterionic intermediate (8):
+[[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]] (8):
 
 1. **O-benzyl removal**: Hydrogenolysis of the O-benzyl group
   regenerates the free phosphate, producing the O-phosphate of
@@ -142,6 +142,9 @@ synthesis is the key innovation of the Shirota route:
 
 ## See Also
 
+- [[shirota-psilocybin-crystal-form-spectral-data-and-analytical-characterization]]
+
+- [[shirota-catalytic-hydrogenolysis-debenzylation-psilocybin]]
+
 - [[shirota-gram-scale-chromatography-free-psilocybin-synthesis]]
 - [[psilocin-psilocybin-synthesis-shirota]]
-- [[psilocybin-synthesis]]

@@ -10,8 +10,8 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of North America: Volume 2, Hardwoods." USDA Forest Service Agriculture Handbook 654.
-  - Little, E.L. (1979). "Checklist of United States Trees (Native and Naturalized)." USDA Forest Service Agriculture Handbook 541.
+  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 2, Hardwoods." USDA Forest Service Agriculture Handbook 654.
+  - Little, E.L. (1979). "Checklist of [[dmt-containing-plants-united-states-halpern]] Trees (Native and Naturalized)." USDA Forest Service Agriculture Handbook 541.
   - Stein, J.D. et al. (2003). "Quercus rubra." In: Fire Effects Information System. USDA Forest Service.
   - Abrams, M.D. (1992). "Fire and the development of oak forests." BioScience, 42(5), 346-353.
 ---
@@ -60,7 +60,7 @@ Acorn production varies annually, with heavy mast crops occurring at irregular i
 
 The tree provides nesting habitat and cover for numerous cavity-nesting birds including woodpeckers, screech owls, and nuthatches. Mature oaks support the highest diversity of Lepidoptera species of any temperate hardwood genus.
 
-Oak wilt, caused by the fungal pathogen *Bretziella fagacearum*, is the most serious disease affecting red oak. Infected trees typically die within weeks to months of symptom onset.
+Oak wilt, caused by the [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] *Bretziella fagacearum*, is the most serious disease affecting red oak. Infected trees typically die within weeks to months of symptom onset.
 
 Gypsy moth (*Lymantria dispar*) defoliation can cause significant growth loss and mortality during severe outbreaks. Other pests include the oak leafroller, oak twig pruner, and two-lined chestnut borer.
 
@@ -82,19 +82,19 @@ Red oak sawdust and chips are used as smoking wood for barbecue and meat curing,
 
 ## Cultivation
 
-Northern red oak is widely planted as a shade tree and ornamental specimen in parks, large landscapes, and street plantings. Its symmetrical form, relatively fast growth, and reliable fall color make it a popular urban tree.
+Northern red oak is widely planted as a [[mollison-designers-legume-shade-tree-pasture-systems]] and ornamental specimen in parks, large landscapes, and street plantings. Its symmetrical form, relatively fast growth, and reliable fall color make it a popular urban tree.
 
 Transplant success is highest when trees are young, as mature red oaks develop a deep taproot that makes relocation difficult. Container-grown or balled-and-burlapped specimens under 5 cm caliper establish most readily.
 
 Optimal growth requires full sun to partial shade and consistent moisture during establishment. The species is moderately drought-tolerant once established but performs best with 75–125 cm of annual precipitation.
 
-Propagation is primarily from seed. Acorns should be stratified at 1–4°C for 30–90 days before spring sowing. Direct seeding is common in reforestation, with seedlings typically reaching 30–60 cm in the first growing season.
+Propagation is primarily from seed. Acorns should be stratified at 1–4°C for 30–90 days before spring sowing. [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] is common in reforestation, with seedlings typically reaching 30–60 cm in the first growing season.
 
 Growth rates in plantations average 30–60 cm per year in height during the first 20 years. Mean annual increment peaks between ages 30 and 50, with mature trees capable of producing 5–10 m³ per hectare per year on quality sites.
 
 ## Related Species
 
-Quercus rubra is part of section Lobatae, which includes approximately 100–150 species of red oaks distributed across North America, Central America, and Eurasia. The section is characterized by leaf lobes with bristle tips and acorns that mature in two years.
+Quercus rubra is part of section Lobatae, which includes approximately 100–150 species of red oaks distributed across North America, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], and Eurasia. The section is characterized by leaf lobes with bristle tips and acorns that mature in two years.
 
 The closest relatives of northern red oak include Quercus velutina (black oak), Quercus coccinea (scarlet oak), and Quercus palustris (pin oak). These species frequently co-occur and can hybridize where their ranges overlap.
 
@@ -103,6 +103,8 @@ Northern red oak is frequently confused with scarlet oak and black oak in the fi
 Compared to white oak (Q. alba), red oak has longer leaf lobes with bristle tips, darker and more furrowed bark, and acorns with hairy inner shells. White oak acorns mature in one season versus two for red oak.
 
 ## See Also
+
+- [[quercus-montana]]
 
 - [[quercus-robur]]
 - [[fagus-grandifolia]]

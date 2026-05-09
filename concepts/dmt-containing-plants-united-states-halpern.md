@@ -19,12 +19,12 @@ It acts primarily as a serotonin 5-HT2A receptor agonist,
 producing profound alterations in perception, mood, and cognition.
 When smoked or vaporized, DMT produces extremely rapid onset,
 with peak intoxication within 2-5 minutes resolving over 20-30 minutes.
-This short duration led to it being called the "businessman's trip" in the 1960s.
+This [[savory-short-duration-grazing-and-cell-systems]] led to it being called the "businessman's trip" in the 1960s.
 Effective smoked doses range from 40-50 mg, with reports from 20 to 100 mg.
 
 DMT is not orally active because monoamine oxidase (MAO) enzymes
 in the gut and liver rapidly break it down.
-For oral activity, DMT must be co-administered with a reversible MAO-A inhibitor,
+For [[tihkal-oral-activity-mao-inhibition]], DMT must be co-administered with a reversible MAO-A inhibitor,
 as in ayahuasca.
 The intravenous effective dosage range is 0.1-0.4 mg/kg;
 0.6 mg/kg was found excessive in Strassman's research.
@@ -53,7 +53,7 @@ from these common grasses.
 
 Desmanthus illinoensis is a prairie legume with wide distribution
 across the American Midwest and Great Plains.
-The root bark contains approximately 0.34% DMT by dry weight,
+The [[iboga-root-bark-preparation]] contains approximately 0.34% DMT by dry weight,
 making it a relatively concentrated natural source.
 It is a member of the Fabaceae (legume) family
 and is sometimes grown as a forage crop or ornamental plant.
@@ -111,7 +111,7 @@ are also reported to have mild sedative and hallucinogenic properties.
 ## Religious and Legal Context
 
 Several syncretic religions originating in Brazil use ayahuasca as a sacrament,
-notably the Santo Daime and the Uniao do Vegetal (UDV).
+notably the [[metzner-brazilian-ayahuasca-churches-structural-comparison-santo-daime-udv-barquinha]] and the Uniao do Vegetal (UDV).
 The UDV has been in federal litigation in the US seeking protection,
 achieving preliminary injunctions barring DEA enforcement.
 DMT is a Schedule I controlled substance, but the plants themselves
@@ -135,10 +135,12 @@ found no adverse health consequences from regular ayahuasca use.
 - [[psilocybin-mushrooms]]
 - [[peganum-harmala]]
 
+- [[halpern-internet-dissemination-psychoactive-plants-public-health]]
+
 ## Sources
 
 - Halpern, J.H. (2004). Hallucinogens and dissociative agents naturally growing in the US. Pharmacology & Therapeutics, 102, 131-138.
-- McKenna, D.J., Towers, G.H.N., & Abbott, F. (1984). Monoamine oxidase inhibitors in South American hallucinogenic plants.
+- McKenna, D.J., Towers, G.H.N., & Abbott, F. (1984). Monoamine oxidase inhibitors in [[chiric-caspi-brunfelsia-south-american-hallucinogen]] hallucinogenic plants.
 - Riba, J. et al. (2001). Increasing doses of ayahuasca. Psychopharmacology.
 - Strassman, R. (1996, 2001). DMT research studies. University of New Mexico.
 - Shulgin, A. & Shulgin, T. (1997). TiHKAL: The Continuation. Transform Press.

@@ -1,5 +1,5 @@
 ---
-title: "Soviet Plant Research at the Timiryazev Academy"
+title: "tompkins soviet plant research gunar academy at the Timiryazev Academy"
 created: 2026-04-28
 tags: [soviet-research, timiryazev-academy, plant-electrophysiology, gunar, biopotential, plant-sentience, cold-war-science]
 date: 2026-04-25
@@ -12,11 +12,11 @@ type: concept
 
 ## Overview
 
-In the Soviet Union, plant perception research received official
+In the Soviet Union, [[plant-perception]] research received official
 scientific attention through the work of Professor Ivan Isidorovich
 Gunar and his team at the Laboratory for Artificial Climate at the
 renowned Timiryazev Academy of Agricultural Sciences in Moscow. Their
-work, which ran parallel to and independent of Cleve Backster's
+work, which ran parallel to and independent of [[tompkins-cleve-backster-primary-perception]]'s
 experiments in America, was brought to international attention when
 the official Communist Party newspaper *Pravda* published a major
 article on plant sentience in October 1970.

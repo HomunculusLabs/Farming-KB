@@ -1,5 +1,5 @@
 ---
-title: "Shiitake (Lentinus edodes) and Lentinan Clinical Trials"
+title: "Shiitake (Lentinus edodes) and cancer medicinal mushrooms shiitake lentinan clinical trials Trials"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -37,7 +37,7 @@ achieves 325 mg yield from 100g fresh mushrooms in 5 days versus 4 mg in
 
 ## Lentinan Does Not Attack Cancer Cells Directly
 
-Lentinan produces its antitumour effect by activating host immune responses.
+Lentinan produces its antitumour effect by activating [[fungal-virulence-factors-host-immune-evasion]] responses.
 It is a T-cell-oriented immunopotentiator requiring functional T-cell
 compartments. Evidence: anti-tumour activity is abolished in neonatally
 thymectomised mice and decreased by anti-macrophage agents (carrageenan).
@@ -63,7 +63,7 @@ Lentinan activates a broad spectrum of immune responses:
 Lentinan has been approved as a drug in Japan and is considered an important
 adjuvant treatment for several cancers. Key clinical findings:
 
-  - Phase III randomised trial with tegafur chemotherapy in gastric cancer:
+  - Phase III randomised trial with tegafur chemotherapy in [[lentinan-gastric-cancer-combination-therapy]]:
     combined therapy significantly prolonged 50% survival across all
     prognostic factors (abdominal localisation, hepatic/peritoneal metastasis,
     distant metastasis, histological type)
@@ -90,7 +90,7 @@ status).
 ## LEM (Lentinus edodes Mycelium Extract)
 
 LEM is prepared from hot water extract of powdered mycelia harvested before
-fruiting body development. Major active constituent is a heteroglycan-protein
+[[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] development. Major active constituent is a heteroglycan-protein
 conjugate (24.6% protein, 44% sugars) plus nucleic acid derivatives, vitamins,
 and ergosterol. LEM and LAP (derived from culture media) both demonstrate
 strong antitumour activity. The water-soluble lignin EP3, isolated from LEM,
@@ -100,12 +100,12 @@ is also immunologically active. LEM shows antiviral effects against HIV.
 
 Shiitake extracts enhance beneficial intestinal flora (Lactobacillus brevis,
 Bifidobacteria breve) via the disaccharide trehalose, reducing harmful
-bacterial enzymes and potentially reducing colon cancer formation. The
+bacterial enzymes and potentially reducing [[cannabis-and-colon-cancer-research]] formation. The
 mushroom also reduces triglyceride levels.
 
 ## Key Source
 
-Smith, Rowan and Sullivan (2002). Medicinal Mushrooms: Their therapeutic
+Smith, Rowan and Sullivan (2002). [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]: Their therapeutic
 properties and current medical usage with special emphasis on cancer
 treatments. University of Strathclyde.
 - [[cancer-medicinal-mushrooms-immune-modulation-beta-glucans]]
@@ -114,5 +114,7 @@ treatments. University of Strathclyde.
 - [[cannabis-indoor-growing-basics]]
 
 ## See Also
+
+- [[lentinan-lem-lap-shiitake-compounds]]
 
 - [[cancer-medicinal-mushrooms-hericium-erinaceus]]

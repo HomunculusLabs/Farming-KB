@@ -15,7 +15,7 @@ Combining mushroom health benefits with the world's most consumed cold beverage
 creates mushroom-infused beer, an innovative delivery system for medicinal
 compounds. Fresh or dried mushrooms and prepared extracts can be introduced into
 beers, wines, and spirits at various stages of the brewing process. The
-international debut of medicinal mushroom beer at the 2012 Telluride Mushroom
+international debut of [[gourmet-medicinal-mushroom-casing-layer-techniques]] beer at the 2012 Telluride Mushroom
 Festival sold 240 gallons in under forty-eight hours, demonstrating strong
 consumer demand.
 
@@ -23,7 +23,7 @@ consumer demand.
 
 Mushrooms cannot produce the fermentable sugars needed for beer on their own;
 malted grains provide the classic flavors and alcohol content. However,
-mushrooms contribute unique flavor profiles, medicinal compounds, and visual
+[[query-how-do-mushrooms-contribute-to-soil-health]] unique flavor profiles, medicinal compounds, and visual
 appeal. The key decision is when to introduce mushroom material: during the
 brew, during fermentation, or at bottling. Each timing produces different
 results in flavor extraction, bioactive compound preservation, and visual
@@ -31,7 +31,7 @@ presentation.
 
 Fresh mushrooms can be added during the boil or steeping phase, while dried
 mushrooms or powders are better suited for secondary fermentation or bottling.
-Mushroom extracts prepared via alcohol extraction (see the mushroom products
+Mushroom extracts prepared via [[pf-tek-alcohol-extraction-method]] (see the [[cotter-mushroom-products-and-value-added-applications]]
 page) can be added at bottling for precise dosing of medicinal compounds. The
 brewing process itself, particularly the boil phase, can extract both
 water-soluble and alcohol-soluble constituents from mushrooms when they are
@@ -62,7 +62,7 @@ that has been successfully produced and sold at festivals. The reishi adds both
 color and medicinal properties to the lager base. Preparation involves brewing
 a standard red lager wort and introducing reishi material during the secondary
 fermentation or steeping phase. The reishi contributes beta-glucans, triterpenes,
-and other bioactive compounds alongside its distinctive bitter flavor profile.
+and other [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] alongside its distinctive bitter flavor profile.
 
 When preparing mushroom beer for market, consider that medicinal claims require
 careful labeling. Position mushroom beers as craft beverages with functional
@@ -108,7 +108,7 @@ feedback and adjust recipes accordingly.
 ## Key Points
 
 - 240 gallons of medicinal mushroom beer sold out in under 48 hours at the
-  2012 Telluride Mushroom Festival
+  2012 Telluride [[modern-mushroom-festival-culture]]
 - Mushrooms cannot replace malted grains but add unique flavors and medicinal
   compounds
 - Add mushrooms during boil for flavor extraction, or at bottling via extracts

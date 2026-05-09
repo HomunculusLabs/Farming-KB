@@ -1,5 +1,5 @@
 ---
-title: Sequestrate Fungi Evolution - From Mushroom to Truffle
+title: Sequestrate sequestrate fungi evolution mushroom to truffle - From Mushroom to Truffle
 created: 2026-04-26
 tags:
   - sequestrate-fungi
@@ -25,7 +25,7 @@ epigeous to sequestrate forms has occurred independently in
 multiple lineages, representing one of the most repeated
 evolutionary transitions in the fungal kingdom.
 ## Spore Dispersal Adaptations
-Loss of forcible spore discharge must be accompanied by mutations
+Loss of forcible [[bloomfield-fungal-spore-discharge-and-dispersal]] must be accompanied by mutations
 adapting sequestrate fungi to alternative dispersal tactics. In
 most cases, dispersal agents are animals, from arthropods and
 gastropods to mammals and birds.
@@ -49,7 +49,7 @@ spores to the air, fur, or soil.
 ## Desert Truffle Adaptations
 Most desert-dwelling sequestrate fungi are adapted for passive
 spore dispersal by wind. Species of Carbomyces, [[sequestrate-fungi-truffles-hypogeous-dispersal]]
-- [[fungal-spore-dispersal-animals-wind]]
+- fungal-spore-dispersal-animals-wind
 ## Practical Considerations
 
 When working with Sequestrate Fungi Evolution - From Mushroom to Truffle, several practical factors should be
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +108,9 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+## See Also
+- [[sequestrate-fungi]]
+- [[ectomycorrhiza]]
+- [[spore-dispersal]]
+- [[bloomfield-truffle-evolution-cup-fungi-hypogeous]]
+- [[sequestrate-fungi-ecology-evolution]]

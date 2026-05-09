@@ -1,5 +1,5 @@
 ---
-title: Cannabis and Liver Cancer (Hepatocellular Carcinoma)
+title: Cannabis and cannabis-and-liver-cancer-research (Hepatocellular Carcinoma)
 created: 2026-04-26
 tags:
   - cannabis
@@ -85,12 +85,12 @@ animal models.
 
 ## Strain-Specific Considerations
 
-The two experiments used THC and the synthetic cannabinoids WIN55,212-2 and
+The two experiments used THC and the [[blesching-cannabis-synthetic-cannabinoids]] WIN55,212-2 and
 JWH-015. Each displayed the ability to inhibit liver cancer cell lines or
 induce apoptosis. THC binds with both CB1 and CB2. WIN55,212-2 binds with
 higher affinity to CB2 than CB1. JWH-015 also has higher affinity for CB2
 than CB1. Sativa and indica strains bind to both CB1 and CB2, but indicas tend
-to have a lower THC:CBD ratio, which may favor CB2 activation.
+to have a lower THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]], which may favor CB2 activation.
 
 ## Key Mechanism: CB2 Receptor Pathway
 
@@ -112,7 +112,7 @@ and let go of my anger."
 
 ## Connection to Hepatitis
 
-Chronic hepatitis B and C are major risk factors for liver cancer. The
+Chronic hepatitis B and C are major risk factors [[cannabis-for-liver-cancer]]. The
 endocannabinoid system's anti-inflammatory and hepatoprotective properties
 suggest that cannabinoids may play a role in interrupting the
 hepatitis-cirrhosis-cancer progression. See [[blesching-cannabis-hepatitis]]

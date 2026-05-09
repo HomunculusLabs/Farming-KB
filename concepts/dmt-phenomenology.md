@@ -30,12 +30,12 @@ the incoming signal.
 
 ## Chemical Identity and Endogenous Presence
 
-DMT belongs to the tryptamine family of compounds, derived from the amino acid
-tryptophan. It is structurally related to the neurotransmitter [[ayahuasca]] based on their phenomenological profiles. DMT is the most intense
+DMT belongs to the tryptamine family of compounds, derived from the [[cho-fish-amino-acid-preparation]]
+tryptophan. It is structurally related to the n based on their phenomenological profiles. DMT is the most intense
 and brief, producing the most direct confrontation with the Logos. Psilocybin
 builds up over an hour and is sustained for several hours, producing similar
 content but with a gentler onset. Ayahuasca is a hybrid compound combining DMT
-with a monoamine oxidase inhibitor that enables oral activity.
+with a monoamine oxidase inhibitor that enables [[tihkal-oral-activity-mao-inhibition]].
 
 ## The Black Hole Effect
 
@@ -61,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -19,11 +19,11 @@ Fungal allergies represent a significant and often underdiagnosed category of al
 
 The fungi most commonly implicated in human allergic disease:
 
-- **Alternaria alternata**: One of the most important outdoor fungal allergens. A dematiaceous (darkly pigmented) mold found on plants, soil, and decaying organic matter. Spores are large (20-60 microns) and tend to settle quickly, causing higher exposure near the source
-- **Cladosporium cladosporioides and C. herbarum**: The most common airborne fungi worldwide. Found on dead plant material, soil, and food. Extremely abundant in temperate climates during summer months
-- **Aspergillus fumigatus**: Ubiquitous soil fungus; important both as an allergen and a pathogen. Spores are small (2-3 microns) and can reach deep into the lungs. See [[fungal-infections-human]] for pathogenic effects
-- **Penicillium species**: Common indoor molds. Found in water-damaged buildings, on food, and in soil. Penicillium chrysogenum and P. citrinum are the most commonly implicated in allergy
-- **Trichoderma viride**: Common in damp indoor environments; significant sensitization rates among occupants of water-damaged buildings
+- **[[alternaria-alternata]]**: One of the most important outdoor fungal allergens. A dematiaceous (darkly pigmented) mold found on plants, soil, and decaying organic matter. Spores are large (20-60 microns) and tend to settle quickly, causing higher exposure near the source
+- **[[cladosporium-cladosporioides]] and C. herbarum**: The most common airborne fungi worldwide. Found on dead plant material, soil, and food. Extremely abundant in temperate climates during summer months
+- **[[aspergillus-fumigatus]]**: Ubiquitous soil fungus; important both as an allergen and a pathogen. Spores are small (2-3 microns) and can reach deep into the lungs. See [[fungal-infections-human]] for pathogenic effects
+- **Penicillium species**: Common indoor molds. Found in water-damaged buildings, on food, and in soil. [[penicillium-chrysogenum]] and P. citrinum are the most commonly implicated in allergy
+- **[[trichoderma-viride]]**: Common in damp indoor environments; significant sensitization rates among occupants of water-damaged buildings
 - **Epicoccum nigrum**: Outdoor fungus common on decaying vegetation and grasses
 - **Curvularia lunata**: Common in tropical and subtropical regions; associated with allergic fungal sinusitis
 - **Stemphylium botryosum**: Plant pathogen and outdoor allergen
@@ -108,7 +108,7 @@ Hypersensitivity pneumonitis (HP), also called extrinsic allergic alveolitis, is
 - **Woodworker's lung**: Various fungi contaminating wood dust
 - **Maple bark stripper's lung**: Cryptostroma corticale (maple bark fungus)
 - **Cheese worker's lung**: Penicillium casei, P. roqueforti
-- **Mushroom worker's lung**: Spores from commercial mushroom cultivation
+- **Mushroom worker's lung**: Spores from commercial [[mushroom-cultivation]]
 - **Suberosis**: Cork dust contaminated with Penicillium frequentans
 
 ### Allergic Fungal Sinusitis
@@ -143,29 +143,7 @@ Hypersensitivity pneumonitis (HP), also called extrinsic allergic alveolitis, is
 - **Indoor air quality testing**: Surface sampling, air sampling, and bulk material sampling to identify and quantify indoor fungal contamination
 - **Visual inspection**: Identification of moisture problems and visible mold growth
 
-## Management
-
-### Avoidance
-
-- **Indoor moisture control**: Fix leaks, improve ventilation, maintain humidity below 50%, use dehumidifiers
-- **Mold remediation**: Professional remediation of water-damaged materials with visible mold growth. EPA guidelines recommend removal and replacement of contaminated porous materials (drywall, carpet, ceiling tiles)
-- **HEPA filtration**: High-efficiency particulate air (HEPA) filters reduce airborne spore concentrations
-- **Outdoor avoidance**: Monitor spore counts; limit outdoor activities during peak spore seasons; wear N95 masks during yard work or mold-disturbing activities
-- **HVAC maintenance**: Regular inspection and cleaning of heating and cooling systems
-
-### Pharmacotherapy
-
-- **Antihistamines**: Second-generation oral antihistamines (cetirizine, loratadine, fexofenadine) for rhinitis and conjunctivitis
-- **Intranasal corticosteroids**: First-line treatment for allergic rhinitis; effective for most symptoms
-- **Inhaled corticosteroids**: For fungal-related asthma; higher doses may be needed for SAFS
-- **Leukotriene receptor antagonists**: Montelukast may provide additional benefit
-- **Antifungal agents**: Azole antifungals (itraconazole, voriconazole) are used in ABPA and allergic fungal sinusitis as adjunctive therapy to reduce fungal burden
-- **Systemic corticosteroids**: For acute HP, ABPA exacerbations, and severe symptoms
-
-### Immunotherapy
-
-- **Subcutaneous immunotherapy (SCIT)**: Allergy shots for Alternaria and Cladosporium have demonstrated efficacy. Requires 3-5 years of treatment
-- **Sublingual immunotherapy (SLIT)**: Emerging evidence for efficacy with Alternaria extract
-- Limited availability of standardized fungal extracts compared to pollen extracts
-
-See [[fungal-toxins-reference]] for other health hazards from fungi and [[mycology-research-methods]] for techniques used in environmental fungal assessment.
+## See Also
+- [[fungal-infections-human]]
+- [[bloomfield-fungal-allergens-indoor-mold-respiratory-health-lycoperdonosis]]
+- [[fungi-in-the-environment-fungal-spore-dispersal]]

@@ -1,5 +1,5 @@
 ---
-title: "What Are the Stages of Mushroom Cultivation?"
+title: "What Are the Stages of accessible-mushroom-cultivation-for-disabilities?"
 created: 2026-04-28
 tags: [query, mycology, mushroom-cultivation, beginner]
 date: 2026-04-25
@@ -31,21 +31,21 @@ primary stages, each building on the previous one.
 The first stage is culture preparation and isolation. This typically begins
 with [[strain-isolation-from-wild-specimens]] by taking
 tissue samples from wild mushrooms and cleaning them on agar over several
-transfers. This stage requires the most stringent sterile technique, as any
+transfers. This stage requires the most stringent [[cultivator-sterile-technique-and-agar-culture]], as any
 contamination introduced here will propagate through every subsequent stage.
 A still air box or laminar flow hood is strongly recommended for all agar
 work.
 
-Once a clean culture is established, the next stage is spawn production. The
+Once a clean culture is established, the next stage is [[growing-gourmet-sawdust-spawn-production-use]]. The
 mycelium from agar is transferred to sterilized grain, typically rye, wheat,
 oats, or millet, in a process known as [[spawn-production-techniques]] that ensure reliable
 colonization.
 
-The third stage is substrate preparation and inoculation. While grain is
+The third stage is [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] and inoculation. While grain is
 nutrient-rich and ideal for mycelium expansion, most mushroom species will not
 fruit directly from grain alone. Instead, the grain spawn is mixed with a bulk
 substrate: a material that provides structure, moisture, and additional
-nutrition. Common bulk substrates include pasteurized straw, hardwood sawdust,
+nutrition. Common bulk substrates include [[oyster-mushroom-pasteurized-straw-cultivation]], hardwood sawdust,
 compost, or coco coir supplemented with bran. The process of
 [[pasteurization-vs-sterilization]] knowledge is critical.
 
@@ -62,7 +62,7 @@ performance of different strains, substrates, and techniques.
 The final stage is harvesting and storage. Mushrooms should be harvested at
 the right maturity for their intended use, generally just before or as the
 veil tears for most culinary and medicinal species. Proper post-harvest
-handling, including drying and storage, determines how long the crop retains
+handling, including [[psilocybin-mushroom-drying-and-storage-methods]], determines how long the crop retains
 its potency and quality.
 
 ## Key Points

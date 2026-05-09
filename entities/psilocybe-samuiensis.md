@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3erpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  sources: []
 ---
 
 # Psilocybe samuiensis
@@ -28,7 +28,7 @@ Additional species reported from the same general Southeast Asian region include
 
 ### Microscopic Features
 
-Microscopic examination is essential for definitive identification:
+[[fungal-microscopic-examination-mounting-media-techniques]] is essential for definitive identification:
 
 - **Spores:** Purplish brown in deposit, rhomboid to subrhomboid in face view,
   measuring 10 to 13 µm in length by 6.5 to 8 µm in width.

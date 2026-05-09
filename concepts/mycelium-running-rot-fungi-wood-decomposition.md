@@ -8,21 +8,21 @@ sources: [papers/mycelium-running-stamets.md]
 ---
 # Rot Fungi and Wood Decomposition
 
-Source: Mycelium Running by Paul Stamets (2005), Chapters 3, 6-7
+Source: [[woodlovers-mycelium-running-pathway-technique]] by Paul Stamets (2005), Chapters 3, 6-7
 
 updated: 2026-04-18
 
 ## Overview
 
-Fungi are the grand recyclers of the planet, the mycomagicians disassembling large organic molecules into simpler forms that nourish other members of the ecological community. Saprophytic mushrooms -- the decomposers -- steer the course for proliferating biological communities, shaping and forming the first menus in the food web from dead plants, insects, and other animals. Most gourmet and medicinal mushrooms are wood decomposers.
+Fungi are the grand recyclers of the planet, the mycomagicians disassembling large organic molecules into simpler forms that nourish other members of the ecological community. [[growing-gourmet-saprophytic-mushrooms-decomposers]] -- the decomposers -- steer the course for proliferating biological communities, shaping and forming the first menus in the food web from dead plants, insects, and other animals. Most gourmet and medicinal mushrooms are wood decomposers.
 
 ## Classification of Decomposers
 
 Saprophytic mushrooms can be separated into three groups based on their position in the decomposition sequence:
 
-**Primary Decomposers:** Typically the first to grow on fresh debris -- twigs, wood chips, logs, stumps, or dead insects. They are fast-growing, sending out rapidly extending strands of mycelium. Examples include oyster mushrooms (Pleurotus species), shiitake (Lentinula edodes), and maitake (Grifola frondosa). Different species employ different sets of enzymes to break down plant matter.
+**Primary Decomposers:** Typically the first to grow on fresh debris -- twigs, wood chips, logs, stumps, or dead insects. They are fast-growing, sending out rapidly extending strands of mycelium. Examples include oyster mushrooms (Pleurotus species), shiitake (Lentinula edodes), and maitake ([[maitake-grifola-frondosa-comprehensive-profile]]). Different species employ different sets of enzymes to break down plant matter.
 
-**Secondary Decomposers:** Rely on the activity of primary fungi that initially break down tissues. They work in concert with actinomycetes, other bacteria, and fungi in compost piles. The white button mushroom (Agaricus bisporus) is the classic example -- the most widely cultivated mushroom in the world. The garden giant (Stropharia rugoso-annulata) is an intermediary between primary and secondary decomposers.
+**Secondary Decomposers:** Rely on the activity of primary fungi that initially break down tissues. They work in concert with actinomycetes, other bacteria, and fungi in compost piles. The white button mushroom ([[genetic-improvement-agaricus-bisporus-molecular-approaches]]) is the classic example -- the most widely cultivated mushroom in the world. The garden giant (Stropharia rugoso-annulata) is an intermediary between primary and secondary decomposers.
 
 **Tertiary Decomposers:** Found toward the end of the decomposition process, thriving in habitats created by primary and secondary decomposers over years. They include species of Conocybe, Agrocybe, Mycena, Pluteus, and Agaricus. They rely upon highly complex microbial environments.
 
@@ -49,9 +49,9 @@ White rot fungi are more numerous than brown rotters. They produce enzymes that 
 White rot examples include:
 - Oyster mushroom (Pleurotus ostreatus)
 - Maitake (Grifola frondosa)
-- Turkey tail (Trametes versicolor)
+- Turkey tail ([[staycare-trametes-versicolor-bioremediation-applications]])
 - Artist conk (Ganoderma applanatum)
-- Reishi (Ganoderma lucidum)
+- Reishi ([[stamets-reishi-ganoderma-lucidum-cultivation]])
 - Shiitake (Lentinula edodes)
 
 ## Enzymatic Power
@@ -76,8 +76,8 @@ Some fungi initially act as parasites, killing their hosts, and then act like sa
 
 ## See Also
 
-- [[brown-rot-fungi-biodegradation]]
-- [[lignin-degradation-mechanisms-wood-rot-fungi]]
+- brown-rot-fungi-biodegradation
+- lignin-degradation-mechanisms-wood-rot-fungi
 - [[fungal-decomposition]]
 - [[fungal-decomposition-processes]]
 - [[gourmet-mushroom-species-guide]]

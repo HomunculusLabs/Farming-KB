@@ -1,7 +1,7 @@
 ---
 title: Overgrazing Versus Overrest in Grassland Management
 created: 2026-04-26
-aliases: [overgrazing, overrest, partial rest, time of exposure,
+aliases: [overgrazing, overrest, [[savory-partial-rest-and-algal-crusts]], time of exposure,
           grazing damage, plant recovery]
 tags: [grazing, overgrazing, overrest, plant-health, brittle-environments]
 related: [savory-livestock-grazing-planning, savory-brittle-environments,
@@ -18,7 +18,7 @@ type: concept
 One of the most revolutionary insights in Allan Savory's work is the
 recognition that overgrazing and overrest are two distinct and equally
 destructive forces that commonly occur simultaneously on the same land.
-Conventional range management has historically blamed all grassland
+Conventional [[mollison-pdc-range-management-wildlife]] has historically blamed all grassland
 deterioration on overgrazing, but Savory's observations revealed that
 overrest is often the more insidious and less recognized culprit,
 especially in brittle environments.
@@ -63,7 +63,7 @@ handfuls of dead grass can be pulled out by the roots with ease.
 The consequences of overrest are most visible on protected lands. At
 the Sevilleta Wildlife Refuge in New Mexico, grasslands rested for
 decades show wide bare spaces between vestigial perennial plants whose
-centers are dead. Despite years of seed production by surrounding
+centers are dead. Despite years of [[cervantes-seed-production-storage]] by surrounding
 plants, no seedlings have established on the bare, undisturbed surface.
 
 ## How Overgrazing and Overrest Compound
@@ -72,9 +72,9 @@ The standard practice of set-stocking low numbers of livestock scattered
 widely across large areas produces both overgrazing and overrest
 simultaneously. Cattle concentrate on palatable plants near water and
 shade, overgrazing those individuals, while the majority of the land
-sits in a state of partial rest with insufficient animal impact.
+sits in a state of partial rest with insufficient [[savory-animal-impact-and-herd-effect]].
 
-Savory observed this pattern across Africa, the Americas, and the
+Savory observed this [[psilocin-accumulation-pattern-across-flushes]] Africa, the Americas, and the
 Middle East. On inspection, lands labelled "overstocked" almost always
 contained both overgrazed and overrested plants, along with bare ground
 from partial rest. The blanket label "overgrazed" means nothing and
@@ -98,7 +98,7 @@ arbitrary schedules.
 Voisin's work proved this principle in nonbrittle environments, but
 applying it to brittle rangelands required additional understanding of
 brittle/nonbrittle differences, the role of herding behavior, and the
-need for adequate animal impact to disturb soil surfaces and break down
+need for adequate animal impact to disturb soil surfaces and [[query-can-fungi-break-down-plastic-pollution]]
 old material.
 
 ## Plant Defenses Against Overgrazing

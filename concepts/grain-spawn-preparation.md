@@ -1,15 +1,16 @@
 ---
-title: Grain Spawn Preparation
+title: Grain azurescens-spawn-preparation-grain-to-wood
 created: 2026-04-12
 updated: 2026-04-13
 type: concept
 tags: [mushrooms, fungi, cultivation, indoor, grain, preparation, workflow, recipe, inoculation]
-sources: []
+sources:
+  sources: []
 ---
 
 ## Overview
 
-Grain spawn is colonized grain that serves as the inoculant for bulk substrates. The mycelium grows through the grain kernels, using the stored carbohydrates and proteins as food. Once fully colonized, the grain is mixed with a bulk substrate like CVG (coconut coir, vermiculite, gypsum) where the mycelium continues to expand and eventually fruits. Proper grain preparation is critical — too dry and colonization stalls, too wet and the grain ferments or breeds bacteria.
+Grain spawn is colonized grain that serves as the inoculant for bulk substrates. The mycelium grows through the grain kernels, using the stored carbohydrates and proteins as food. Once fully colonized, the grain is mixed with a bulk substrate like CVG (coconut coir, vermiculite, gypsum) where the mycelium continues to expand and eventually fruits. Proper [[mushroom-spawn-grain-preparation-inoculation]] is critical — too dry and colonization stalls, too wet and the grain ferments or breeds bacteria.
 
 ## Grain Types
 
@@ -98,19 +99,19 @@ After jars have cooled completely to room temperature (overnight is safest), the
 Inoculation sources:
 - **Spore syringe**: 1-2 cc per quart jar. Slower colonization (2-4 weeks) because spores must germinate first. Genetic variability is high.
 - **Agar wedge**: Transfer a small piece of colonized agar into the jar. Faster and cleaner than spores.
-- **Liquid culture**: 5-10 cc per quart jar. Fastest colonization (7-14 days) because you are introducing living mycelium directly.
+- **[[comparison-liquid-culture-vs-grain-spawn]]**: 5-10 cc per quart jar. Fastest colonization (7-14 days) because you are introducing living mycelium directly.
 
 ## Colonization
 
 - Store jars at 70-78F (21-26C). Avoid temperatures above 80F, which promote bacterial growth.
 - Keep jars in the dark or ambient light — light is not harmful but not necessary during colonization.
-- Colonization time varies: spore inoculation takes 2-4 weeks, liquid culture 1-2 weeks, agar wedge 2-3 weeks.
+- Colonization time varies: [[mushroom-spore-inoculation-techniques]] takes 2-4 weeks, liquid culture 1-2 weeks, agar wedge 2-3 weeks.
 - Shake jars at 20-30% colonization to redistribute mycelium.
 - Fully colonized jars appear uniformly white with no uncolonized grain visible.
 
 ## Storage and Shelf Life
 
-Colonized grain spawn can be stored in the refrigerator (35-40F / 2-4C) for 2-4 months. Mycelial growth slows dramatically at cold temperatures but does not stop entirely. Longer storage results in reduced vigor and increased contamination risk. Use within 2 months for best results.
+Colonized grain spawn can be stored in the refrigerator (35-40F / 2-4C) for 2-4 months. [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] slows dramatically at cold temperatures but does not stop entirely. Longer storage results in reduced vigor and increased contamination risk. Use within 2 months for best results.
 
 ## Related Topics
 
@@ -121,7 +122,7 @@ Colonized grain spawn can be stored in the refrigerator (35-40F / 2-4C) for 2-4 
 - [[mushroom-spawn-making-detailed]]
 ## Spawn Grain × Substrate Interactions (Nwanze et al., 2005)
 
-Research on *Lentinus squarrosulus* demonstrated that the choice of spawn grain interacts significantly with the culture medium to affect fruitbody quality:
+Research on *Lentinus squarrosulus* demonstrated that the choice of spawn grain interacts significantly with the [[fukuoka-matsutake-culture-medium-appendix]] to affect fruitbody quality:
 
 ### Key Findings
 - **Millet spawn × animal bedding/rice medium** produced the widest stipe diameter
@@ -136,6 +137,5 @@ Research on *Lentinus squarrosulus* demonstrated that the choice of spawn grain 
 - These findings apply primarily to non-composted substrates and tropical species; results may differ for composted Agaricus cultivation
 
 Source: raw/papers/unknown-effect-of-spawn-grains-with-culture-medium-on-carpophore.md
-
 
 - raw/papers/unknown-effect-of-spawn-grains-with-culture-medium-on-carpophore.md

@@ -1,13 +1,14 @@
 ---
-title: Cannabis Terpene Profile
+title: oner-cannabis-terpene-profiles-effects Profile
 created: 2026-04-12
 updated: 2026-04-13
 type: concept
 tags: [cannabis, potency, indoor, flowering, biology, chemistry, plant-growth, medicine]
-sources: []
+sources:
+  sources: []
 ---
 # Cannabis Terpene Profile
-Terpenes are aromatic organic compounds found in many plants, including cannabis. They are responsible for the distinctive smells, flavors, and many of the nuanced effects associated with different cannabis strains. The entourage effect — the theory that cannabinoids and terpenes work synergistically — makes terpene knowledge essential for both cultivators and consumers.
+Terpenes are aromatic [[fungal-volatile-organic-compounds-communication]] found in many plants, including cannabis. They are responsible for the distinctive smells, flavors, and many of the nuanced effects associated with different cannabis strains. The [[cannabis-terpene-entourage-effect-profiles]] — the theory that cannabinoids and terpenes work synergistically — makes terpene knowledge essential for both cultivators and consumers.
 ## What Are Terpenes?
 
 Terpenes (or terpenoids when modified) are a large class of volatile aromatic hydrocarbons produced by plants. They serve various ecological functions:
@@ -105,7 +106,7 @@ A sweet, woody terpene with herbaceous notes.
 
 - Aroma: sweet, woody, herbal, slightly citrus
 - Effects: uplifting, decongestant, antiviral
-- Strain associations: sativa and hybrid varieties
+- Strain associations: sativa and [[cervantes-hybrid-varieties-types]]
 - Also found in: mint, basil, mango, orchids, pepper
 - Boiling point: 122°F (50°C) — very volatile, degrades easily
 
@@ -128,7 +129,7 @@ The genetic foundation determines which terpenes a plant can produce and in what
 
 ### Light Spectrum
 
-UV-B exposure can stimulate terpene production as a stress response. Full-spectrum light (especially the UV-A and UV-B ranges) tends to produce more complex terpene profiles than narrow-band LED. See [[cannabis-lighting-guide]] for details.
+UV-B exposure can stimulate terpene production as a [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]]. Full-spectrum light (especially the UV-A and UV-B ranges) tends to produce more complex [[cannabis-terpene-profiles-sativa]] than narrow-band LED. See [[cannabis-lighting-guide]] for details.
 
 ### Temperature
 
@@ -141,56 +142,6 @@ Terpenes degrade and evaporate as trichomes mature past their peak. Harvesting t
 ### Drying and Curing
 
 Slow drying at moderate temperatures (60-70°F / 15-21°C) with 55-65% humidity preserves terpenes. Fast, hot drying destroys terpene profiles. Proper curing (2-8+ weeks in glass jars) develops and preserves the full aromatic profile.
-
-### Growing Medium
-
-Living soil with diverse biology tends to produce more complex terpene profiles compared to synthetic hydroponic systems. The microbiome appears to influence terpene synthesis pathways.
-
-## The Entourage Effect
-
-The entourage effect describes the synergistic interaction between cannabinoids, terpenes, and other cannabis compounds. Key examples:
-
-- Myrcene increases THC blood-brain barrier permeability
-- Pinene counteracts THC-induced memory impairment
-- Linalool enhances the sedative effects of myrcene and certain cannabinoids
-- Beta-caryophyllene activates CB2 receptors, adding anti-inflammatory effects
-- Limonene enhances mood elevation and serotonin release
-
-This synergy is the primary argument for whole-plant medicine over isolated THC or CBD.
-
-## Terpene Testing
-
-Professional labs can provide detailed terpene profiles using gas chromatography (GC) or gas chromatography-mass spectrometry (GC-MS). For growers, the nose remains the primary tool — aroma complexity and intensity are reasonable proxies for terpene richness.
-
-## Cannabinoid and Terpene Biosynthesis: The Hexanoate Pathway
-
-Cannabinoid and terpene biosynthesis share a common precursor (**geranyl pyrophosphate, GPP**), but cannabinoids require an additional input: **hexanoyl-CoA**, derived from hexanoate (caproic acid). This explains why certain soil amendments may influence potency.
-
-### The Pathway
-
-1. **Hexanoate → Hexanoyl-CoA**: The enzyme CsAAE1 (an acyl-activating enzyme) activates hexanoate to hexanoyl-CoA in the cytoplasm of glandular trichomes. This enzyme was identified through trichome transcriptome analysis and is specific to cannabis trichome tissue (Stout et al.).
-
-2. **Hexanoyl-CoA + Malonyl-CoA → Olivetolic acid**: A polyketide synthase (PKS) enzyme uses hexanoyl-CoA as a primer to form olivetolic acid (OA), the foundational precursor for all cannabinoids.
-
-3. **Olivetolic acid + GPP → CBGA**: Olivetolic acid combines with geranyl pyrophosphate (the terpene precursor) to form cannabigerolic acid (CBGA), the "mother cannabinoid."
-
-4. **CBGA → THCA/CBDA/etc.**: Specific synthase enzymes convert CBGA into the major acidic cannabinoids.
-
-### The LAB Connection
-
-Homemade [[lactic-acid-bacteria-lab]] (LAB serum) fermented from ruminant milk contains hexanoic acid (caproic acid) as a natural component of milk triacylglycerols (1-2% of milk fat fatty acids). When applied to cannabis root zones or as a foliar spray, the hypothesis (The Modern Farm) is that exogenous hexanoate may:
-
-- Supply additional hexanoyl-CoA precursor, potentially increasing olivetolic acid production
-- Stimulate the plant's [[cannabis-plant-nutrition|JA/SA defense pathways]] via hexanoic acid's known priming effects, which in turn upregulate trichome production
-- Increase trichome-to-calyx ratio and overall terpene production (anecdotal but consistent observations)
-
-Hexanoic acid is also a documented **priming agent** for plant defense — it activates callose deposition and both salicylic acid and jasmonic acid pathways, creating broad-spectrum resistance. This defense priming may contribute to increased trichome density as a protective response.
-
-### Cultivation Implications
-
-- The hexanoate pathway suggests that the availability of short-chain fatty acids in the root zone could be a limiting factor in cannabinoid production
-- [[knf-lactic-acid-bacteria-serum]] and other fermented preparations containing milk-derived fatty acids may provide this precursor
-
 ## See Also
 
 - [[cannabis-trichome-guide]] for the structures that produce terpenes

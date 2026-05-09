@@ -1,11 +1,11 @@
 ---
-title: Cannabis Oil Vaporization Methods
+title: Cannabis cannabis oil vaporization methods Methods
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 # Cannabis Oil Vaporization Methods
 
@@ -35,7 +35,7 @@ A tube or funnel (often made from rolled foil, a pen tube, or a glass tube) is p
 
 ## Hot Knife Method
 
-A traditional method described in cannabis culture involves heating two knives on a stovetop until they are red-hot. A small amount of cannabis oil is pressed between the two hot knives, causing it to instantly vaporize. The vapor is captured by inverting a funnel or cut-off bottle over the knives and inhaling through the narrow end.
+A traditional method described in [[mckenna-cannabis-culture-history]] involves heating two knives on a stovetop until they are red-hot. A small amount of cannabis oil is pressed between the two hot knives, causing it to instantly vaporize. The vapor is captured by inverting a funnel or cut-off bottle over the knives and inhaling through the narrow end.
 
 This method is simple but requires practice to avoid burning the oil or inhaling excessive heat. It also poses risks from handling extremely hot metal objects. The hot knife method predates the availability of commercial vaporization devices but has largely been superseded by safer and more controllable options.
 
@@ -53,9 +53,9 @@ Different cannabinoids and terpenes vaporize at different temperatures, meaning 
 
 ## Efficiency Comparison
 
-Oil vaporization is significantly more efficient than smoking cannabis flower. In a bong or pipe, much of the THC is destroyed by combustion or lost in sidestream smoke between puffs. With direct oil vaporization, nearly all of the cannabinoids in the heated portion are delivered to the user. Estimates from cannabis alchemy literature suggest that water-pipe filtration combined with vaporization may be twice as efficient as smoking joints or regular pipes.
+Oil vaporization is significantly more efficient than smoking [[cervantes-cannabis-flower-anatomy]]. In a bong or pipe, much of the THC is destroyed by combustion or lost in sidestream smoke between puffs. With direct oil vaporization, nearly all of the cannabinoids in the heated portion are delivered to the user. Estimates from [[lemon-cannabis-alchemy-advanced-refinement-techniques]] literature suggest that water-pipe filtration combined with vaporization may be twice as efficient as smoking joints or regular pipes.
 
-The concentrated nature of extracted oil means that the user can achieve desired effects with much less material. This efficiency, combined with the absence of plant combustion byproducts, makes oil vaporization one of the healthiest and most economical methods of cannabis consumption.
+The concentrated nature of [[cannabis-hashish-from-extracted-oil-techniques]] means that the user can achieve desired effects with much less material. This efficiency, combined with the absence of plant combustion byproducts, makes oil vaporization one of the healthiest and most economical methods of cannabis consumption.
 
 ## Safety Considerations
 
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

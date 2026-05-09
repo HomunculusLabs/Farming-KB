@@ -1,5 +1,5 @@
 ---
-title: Medicinal Polysaccharides and Mushroom Compounds
+title: growing gourmet medicinal polysaccharides mushroom compounds and medicinal-mushroom-compounds-and-health-benefits
 created: 2026-04-26
 tags:
   - mycology
@@ -15,7 +15,7 @@ type: concept
 
 # Medicinal Polysaccharides and Mushroom Compounds
 
-Mushrooms produce a remarkable array of bioactive compounds with
+Mushrooms produce a remarkable array of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] with
 significant medicinal potential. Bound within the cell walls of
 mushrooms are chains of heavy molecular weight sugars known as
 polysaccharides. Research in Asia has demonstrated that these
@@ -36,16 +36,16 @@ Key medicinal polysaccharides identified include:
   (Flammulina velutipes)
 - Grifolin or grifolan: from [[growing-gourmet-phoenix-oyster-pulmonarius-cultivation]] species,
 [[growing-gourmet-reishi-cultivation]] are
-abundant producers of secondary metabolites, especially complex
+abundant producers of [[antifungal-secondary-metabolites-coprophilous-fungi]], especially complex
 acids and metabolites that forestall competition from other fungi
 and bacteria.
 
 ## The Polypore Mushrooms as Medicine
 
 The most well known of the medicinal polypores is Reishi or Ling
-Chi (Ganoderma lucidum), also called the Panacea Polypore. Claimed
+Chi ([[stamets-reishi-ganoderma-lucidum-cultivation]]), also called the Panacea Polypore. Claimed
 to address cancer, heart disease, diabetes, arthritis, high altitude
-sickness, sexual impotency, and even chronic fatigue syndrome, it
+sickness, sexual impotency, and even [[cannabis-chronic-fatigue-research]] syndrome, it
 has been heralded for centuries as "The Mushroom of Immortality."
 
 Two other polypores enjoying reputations as medicinal fungi are
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

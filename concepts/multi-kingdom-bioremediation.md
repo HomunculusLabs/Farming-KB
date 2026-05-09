@@ -5,18 +5,18 @@ updated: 2026-04-19
 type: concept
 tags: [remediation, environment]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources: []
 ---
 
 Updated: 2026-04-18
 
 ## Overview
 
-Multi-kingdom bioremediation is an approach developed by Paul Stamets that leverages the synergistic interactions between fungi, bacteria, plants, and animals to decontaminate polluted environments. Rather than relying on a single organism to clean up toxins, this method recognizes that biological communities work together in cascading sequences to restore damaged ecosystems.
+Multi-kingdom bioremediation is an approach developed by [[paul-stamets]] that leverages the synergistic interactions between fungi, bacteria, plants, and animals to decontaminate polluted environments. Rather than relying on a single organism to clean up toxins, this method recognizes that biological communities work together in cascading sequences to restore damaged ecosystems.
 
-Source: [[mycoremediation-stamets-approach]] — Stamets' overall remediation framework
+Source: mycoremediation-stamets-approach — Stamets' overall remediation framework
 - acclimated spawn mycoremediation — Detailed discussion of acclimated spawn
-- [[mycoremediation-oil-spills]] — Oil spill cleanup case studies
+- mycoremediation-oil-spills — Oil spill cleanup case studies
 - [[mycoremediation]] — Fungal vs. bacterial remediation comparison
 - [[teaming-with-microbes-photosynthesis-exudates-carbon-cycle]]
 ## Practical Applications
@@ -36,7 +36,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -86,7 +86,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -96,4 +96,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

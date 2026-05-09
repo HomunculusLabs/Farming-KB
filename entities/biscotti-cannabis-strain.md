@@ -44,7 +44,7 @@ Biscotti is a highly potent indica-dominant hybrid cannabis strain (approximatel
   - **Gelonade × Biscotti** crosses
   - **Biscotti Breath** (Biscotti × Mendo Breath)
   - **Jealousy** (Sherbet Bx1 × Gelato 41, with Biscotti in extended lineage)
-- **Genetic stability:** Relatively stable for F1 hybrids; expresses consistent terpene profiles and flower structure across phenotypes, though color variation is significant
+- **Genetic stability:** Relatively stable for F1 hybrids; expresses consistent [[cannabis-terpene-profiles-sativa]] and flower structure across phenotypes, though color variation is significant
 
 ## Aroma and Flavor Profile
 
@@ -104,7 +104,7 @@ Biscotti expresses moderate phenotypic variation, particularly in coloration:
 
 ### Growing Conditions
 
-- **Difficulty:** Moderate to advanced; requires attention to environmental control and nutrient management
+- **Difficulty:** Moderate to advanced; requires attention to [[eclss-environmental-control-life-support]] and [[green-cannabis-grow-bible-nutrient-management-ppm]]
 - **Indoor:** Best results indoors with controlled environment; flowering time 8–10 weeks; responds well to SCROG (screen of green) training to manage height and maximize light exposure
 - **Outdoor:** Suitable for warm, Mediterranean climates; harvest early to mid-October in the Northern Hemisphere; requires protection from excessive rain and humidity during late flowering
 - **Yield:** Moderate, approximately 300–400 g/m² indoors; 400–500 g/plant outdoors
@@ -112,10 +112,10 @@ Biscotti expresses moderate phenotypic variation, particularly in coloration:
 
 ### Environmental Preferences
 
-- Temperature: 20–28°C (68–82°F) during vegetative growth; 18–26°C (64–79°F) during flowering; cooler night temperatures (15–18°C / 59–64°F) during weeks 5–8 of flowering enhance purple coloration
-- Humidity: 50–60% vegetative, reducing to 40–45% during flowering to prevent bud rot and powdery mildew
+- Temperature: 20–28°C (68–82°F) during [[cannabis-vegetative-growth-stage]]; 18–26°C (64–79°F) during flowering; cooler night temperatures (15–18°C / 59–64°F) during weeks 5–8 of flowering enhance purple coloration
+- Humidity: 50–60% vegetative, reducing to 40–45% during flowering to prevent bud rot and [[cervantes-powdery-mildew-prevention-treatment]]
 - Light: High-intensity lighting recommended; responds well to LED systems at 600–1000 µmol/m²/s during flowering
-- Nutrients: Moderate-to-heavy feeder during vegetative stage; reduce nitrogen and increase phosphorus/potassium during weeks 4–8 of flowering; calcium and magnesium supplementation recommended
+- Nutrients: Moderate-to-heavy feeder during [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]; reduce nitrogen and increase phosphorus/potassium during weeks 4–8 of flowering; calcium and magnesium supplementation recommended
 
 ### Harvest and Processing
 
@@ -137,5 +137,5 @@ Biscotti is highly valued by extract artists due to exceptional resin production
 - [[biscotti-cannabis]]
 
 - [[girl-scout-cookies]] — foundational Cookies family strain
-- [[wedding-cake-cannabis]] — another popular Cookies-lineage dessert strain
+- [[wedding-cake]] — another popular Cookies-lineage dessert strain
 - [[super-lemon-haze]] — contrasting sativa-dominant strain for effect comparison

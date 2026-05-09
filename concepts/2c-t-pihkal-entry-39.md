@@ -1,5 +1,5 @@
 ---
-title: 2C-T (PIHKAL Entry #39)
+title: 2C-T (2c-b-pihkal-entry-20 #39)
 created: 2026-04-22
 updated: 2026-04-22
 type: concept
@@ -98,5 +98,5 @@ most consistently noted limitation.
 
 ## Source
 
-[[pihkal-introduction-and-methodology]] by Alexander and Ann Shulgin,
+[[pihkal-introduction-and-methodology]] by Alexander and [[ann-shulgin]],
 Entry #39

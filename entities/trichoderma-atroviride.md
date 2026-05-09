@@ -26,7 +26,7 @@ created: 2026-04-28
 
 It is one of the most extensively studied *Trichoderma* species, functioning as an aggressive mycoparasite, plant growth promoter, and inducer of systemic resistance in crops.
 
-The species is widely used in commercial biocontrol formulations and is a model organism for understanding fungal-fungal interactions and biocontrol mechanisms.
+The species is widely used in commercial biocontrol formulations and is a model organism for understanding fungal-fungal interactions and [[singh-trichoderma-biocontrol-mechanisms-applications]].
 
 ## Taxonomy and Morphology
 
@@ -53,7 +53,7 @@ Cosmopolitan distribution found in soils, decaying wood, leaf litter, and rhizos
 
 Particularly abundant in temperate forest soils and agricultural soils with high organic matter content.
 
-Isolated from diverse ecological niches including mushroom compost, rhizosphere of cereals and vegetables, forest floor litter, and woody debris.
+Isolated from diverse ecological niches including [[staycare-spent-mushroom-compost-bioremediation]], rhizosphere of cereals and vegetables, forest floor litter, and woody debris.
 
 Shows a preference for neutral to slightly alkaline soils (pH 6.0–7.5) and moderate temperatures (20–28°C optimal).
 
@@ -63,14 +63,14 @@ Shows a preference for neutral to slightly alkaline soils (pH 6.0–7.5) and mod
 
 *Trichoderma atroviride* directly attacks pathogenic fungi through a multi-step process:
 
-1. **Chemotropic growth** — hyphae grow toward pathogenic fungi, attracted by chemical signals
+1. **Chemotropic growth** — hyphae grow toward pathogenic fungi, attracted by [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]
 2. **Recognition and attachment** — lectins and hydrophobins mediate physical contact
 3. **Coiling** — Trichoderma hyphae coil around the host hyphae
 4. **Cell wall degradation** — secretion of chitinases, β-1,3-glucanases, and proteases that lyse the host
 
 ### Antibiosis
 
-Produces a suite of secondary metabolites with antifungal activity:
+Produces a suite of [[antifungal-secondary-metabolites-coprophilous-fungi]] with antifungal activity:
 
 - **6-Pentyl-α-pyrone (6-PP)** — volatile antifungal compound with characteristic coconut aroma
 - **Peptaibols** — linear non-ribosomal peptides (trichovirins, atroviridins) that form ion channels in target membranes
@@ -96,9 +96,9 @@ Enhances plant growth through multiple mechanisms:
 
 Commercial biocontrol products containing *T. atroviride* are registered in the EU, USA, and Asia for management of soilborne diseases including *Rhizoctonia solani*, *Fusarium* spp., *Pythium* spp., *Sclerotinia* spp., and *Botrytis cinerea*.
 
-In permaculture and organic farming systems, *T. atroviride* is applied as a soil drench, seed treatment, or compost tea additive.
+In permaculture and [[coleman-deep-organic-farming-philosophy]] systems, *T. atroviride* is applied as a soil drench, seed treatment, or compost tea additive.
 
-It integrates well with other biological control agents and does not persist excessively in the environment.
+It integrates well with other [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents and does not persist excessively in the environment.
 
 The species is compatible with mycorrhizal fungi and beneficial rhizobacteria, making it suitable for integrated biological management strategies.
 

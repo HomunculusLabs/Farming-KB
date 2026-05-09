@@ -13,7 +13,7 @@ For the first six years of their commercial winter-harvest production at Four Se
 coastal Maine, Eliot Coleman and Barbara Damrosch sold vegetables only from October 1 through
 May 31 — what they jokingly called "the other eight months." This period of winter-only
 growing represented a radical departure from conventional farming schedules and served as an
-intensive research phase during which many of the core concepts of the winter harvest system
+intensive research phase during which many of the core concepts of the [[coleman-claytonia-winter-harvest-cultivation]] system
 were developed and refined.
 
 ## The Original Vision
@@ -40,7 +40,7 @@ turnip greens, Swiss chard, watercress, parsley, and arugula.
 Storage crops supplemented the fresh harvest: onions, garlic, shallots, winter squash, celery
 root, parsley root, scorzonera, and storage beets. In spring, both the cold and cool houses
 provided early crops of arugula, carrots, baby beets, baby new potatoes, broccoli, fennel,
-kale, lettuce, turnips, and overwintered onions.
+kale, lettuce, turnips, and [[coleman-overwintered-onions-and-early-spring-crops]].
 
 The diversity was remarkable for a system operating through the coldest months of the year in
 USDA Zone 5, where winter temperatures can drop to -20°F (-29°C).
@@ -83,8 +83,8 @@ The six years of winter-only growing were not wasted time. They allowed Coleman 
 intensively on developing the new concepts of the winter harvest without the distraction of
 managing summer crops.
 
-During this period, the farm refined many unique greenhouse design features and cropping
-programs. The mobile greenhouse system was developed and tested. The transition from glass
+During this period, the farm refined many unique [[passive-solar-design]] features and cropping
+programs. The [[coleman-mobile-greenhouse-system]] system was developed and tested. The transition from glass
 cold frames to floating row covers as the inner layer of protection was made. Precise
 planting dates for each crop were determined through years of trial and error.
 
@@ -110,7 +110,7 @@ backwards farm years.
 
 The backwards farm experiment demonstrated several key lessons.
 
-First, winter vegetable production on a commercial scale is entirely feasible in cold
+First, winter [[dry-gardening-unirrigated-vegetable-production-solomon]] on a commercial scale is entirely feasible in cold
 climates using unheated or minimally heated greenhouses. The six years of successful
 production proved the concept beyond any doubt.
 
@@ -121,9 +121,11 @@ Third, concentrating exclusively on one season allows for faster learning and re
 than splitting attention between seasons.
 
 Fourth, green manures are an essential tool for maintaining soil fertility during fallow
-periods, and their benefits extend well beyond simple nitrogen fixation.
+periods, and their benefits extend well beyond simple [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
 
 ## See Also
+
+- [[coleman-backwards-farm-winter-only-summer-fallow]]
 
 - [[coleman-semi-hibernating-winter-crops-harvest-extension]]
 - [[coleman-double-cover-microclimate-protection]]

@@ -28,7 +28,7 @@ sources:
 
 ## Overview
 
-1V-LSD (1-valeroyl-lysergic acid diethylamide) is a novel psychedelic
+1V-LSD (1-valeroyl-lysergic [[lsd-lysergic-acid-diethylamide-experience-guide]]) is a novel psychedelic
 compound in the lysergamide class, first identified in European drug
 markets in 2021. It is an analogue of LSD in which the amide nitrogen
 is substituted with a valeroyl (pentanoyl) group — a modification that
@@ -48,10 +48,10 @@ essentially indistinguishable from LSD itself.
   =CC=C5
 - **CAS number:** Not formally registered as of 2025.
 - **Chemical class:** Ergoline / lysergamide
-- **Legal status:** Controlled in many jurisdictions under analogue
+- **[[ayahuasca-tourism-legal-status-by-country]]:** Controlled in many jurisdictions under analogue
   or blanket psychoactive substance acts; specifically scheduled in
   Germany (BtMG Anlage II since 2022), Austria, Switzerland, Japan,
-  and the UK under the Psychoactive Substances Act 2016.
+  and the UK under the Psychoactive [[controlled-substances-act-and-psychedelic-research]] 2016.
 
 ## Pharmacology
 
@@ -62,7 +62,7 @@ essentially indistinguishable from LSD itself.
   (likely by amidases in blood or liver) to yield LSD as the active
   metabolite. This parallels the established prodrug behavior of
   1P-LSD and 1cP-LSD.
-- **Affinity:** No published receptor binding data for 1V-LSD itself;
+- **Affinity:** No published [[tihkal-receptor-binding-serotonin]] data for 1V-LSD itself;
   assumed to parallel LSD following metabolic conversion.
 - **Onset:** 60–120 minutes, slightly delayed compared to LSD
   (30–90 minutes), consistent with the additional metabolic step.
@@ -81,7 +81,7 @@ essentially indistinguishable from LSD itself.
   thinking, enhanced music appreciation, and periods of deep
   introspection.
 - **Emotional:** Euphoria, emotional openness, and occasionally
-  challenging experiences (anxiety, ego dissolution) at higher doses.
+  challenging experiences (anxiety, [[psilocybin-ego-dissolution-mechanisms]]) at higher doses.
 - **Somatic:** Body lightness, tingling sensations, nausea on
   come-up (less common than with psilocybin), and pupil dilation.
 - **After-effects:** Mild residual stimulation and emotional
@@ -89,7 +89,7 @@ essentially indistinguishable from LSD itself.
 
 ## Harm Reduction
 
-- **Set and setting:** As with all psychedelics, mindset and
+- **[[lsd-set-and-setting-framework]]:** As with all psychedelics, mindset and
   environment critically influence the experience; preparation
   and a trusted sitter are recommended for higher doses.
 - **Substance testing:** Reagent testing (Ehrlich reagent turns

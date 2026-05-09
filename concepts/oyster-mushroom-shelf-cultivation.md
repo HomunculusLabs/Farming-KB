@@ -1,14 +1,12 @@
 ---
-title: Oyster Mushroom Shelf Cultivation
+title: cotter-oyster-mushroom-cultivation Shelf Cultivation
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [[mycology, cultivation, mushrooms]
+tags: [mycology, cultivation, mushrooms]
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
 ---
-# Oyster Mushroom Shelf Cultivation
-
-Shelf cultivation is a traditional and technology-intensive method of growing [[agaricus-bisporus-cultivation-biology]] cultivation methods, shelf cultivation differs from [[oyster-mushroom-ph-and-substrate-chemistry]] as the [[oyster-mushroom-spawn-production]] is inoculated and thoroughly mixed with the substrate
+# Oyster Mushroom Shelf Cultivation Shelf cultivation is a traditional and technology-intensive method of growing [[agaricus-bisporus-cultivation-biology]] cultivation methods, shelf cultivation differs from oyster-mushroom-ph-and-substrate-chemistry as the [[oyster-mushroom-spawn-production]] is inoculated and thoroughly mixed with the substrate
 - The substrate is spread evenly
 - The remaining 30-40% of spawn is sprinkled onto the surface
 - The shaped substrate is covered with perforated plastic sheeting for ventilation
@@ -23,12 +21,12 @@ Many Korean growers have adopted equipment to reduce labor costs:
 
 ## Incubation and Fruiting
 
-During incubation, the mycelium colonizes the fermented substrate. The growing house environment must be carefully controlled. See [[oyster-mushroom-bottle-cultivation]], with firmer texture and better shelf life.
+During incubation, the mycelium colonizes the fermented substrate. The [[low-cost-mushroom-growing-house-construction-developing-countries]] environment must be carefully controlled. See oyster-mushroom-bottle-cultivation, with firmer texture and better [[psilocybin-shelf-life-stability]].
 
 ## Advantages and Disadvantages
 
 Advantages:
-- Highest quality oyster mushrooms among all cultivation methods
+- Highest quality [[query-how-to-grow-oyster-mushrooms-at-home]] among all cultivation methods
 - Efficient use of growing house space through multi-tier shelving
 - Well-suited to mechanization at larger scales
 
@@ -41,7 +39,7 @@ Disadvantages:
 
 ## Comparison with Other Methods
 
-In Korea, many growers have converted from shelf cultivation to [[oyster-mushroom-bag-cultivation]]
+In Korea, many growers have converted from shelf cultivation to oyster-mushroom-bag-cultivation
 - [[oyster-mushroom-substrate-preparation]]
 - [[oyster-mushroom-growing-house-types]]
 - [[mushroom-pasteurization]]
@@ -61,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

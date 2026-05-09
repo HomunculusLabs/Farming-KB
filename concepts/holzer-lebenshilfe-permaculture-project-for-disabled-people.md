@@ -1,5 +1,5 @@
 ---
-title: Holzer Lebenshilfe Permaculture Project for Disabled People
+title: Holzer holzer lebenshilfe permaculture project for disabled people Project for Disabled People
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -17,7 +17,7 @@ This area brings disabled visitors closer to the medium of water with all its pl
 
 ## Sensory Garden
 
-The specially selected plants and building materials bring pleasure to visitors' senses:
+The specially selected plants and [[natural-building-materials-guide]] bring pleasure to visitors' senses:
 
 - **Smell and taste:** Heavily scented and aromatic flowers, herbs, delicious berries, and fruit
 - **Sight:** Brightly coloured flowers and eye-catchers leading through a labyrinth
@@ -27,21 +27,21 @@ The sensory garden is constructed with a view of the Mediterranean garden. The r
 
 ## Activity Garden
 
-In this area, visitors' mobility is stimulated. Balance, coordination, and fine motor function are taught in equal measure using natural aids -- different rock formations and wooden structures. This therapeutic application of natural elements mirrors the way that working with nature on the [[microclimate-creation-permaculture]] through heat-storing stone construction can extend the range of viable crops. This technique, proven at the Krameterhof's altitude of 1,100-1,500m, is applied here to grow warm-climate fruits in Styria.
+In this area, visitors' mobility is stimulated. Balance, coordination, and fine motor function are taught in equal measure using natural aids -- different rock formations and wooden structures. This therapeutic application of natural elements mirrors the way that working with nature on the microclimate-creation-permaculture through heat-storing stone construction can extend the range of viable crops. This technique, proven at the Krameterhof's altitude of 1,100-1,500m, is applied here to grow warm-climate fruits in Styria.
 
 ### Multi-Sensory Design
 The sensory garden applies permaculture's principle of multiple functions to the human experience: every plant serves ecological, productive, and therapeutic roles simultaneously.
 
 ## Project History and Development
 
-The Holzer Lebenshilfe project was conceived as a demonstration that [[microclimate-creation-permaculture]] techniques enable the cultivation of species far outside their normal range.
+The Holzer Lebenshilfe project was conceived as a demonstration that microclimate-creation-permaculture techniques enable the cultivation of species far outside their normal range.
 
-The project has evolved over two decades from an initial concept into a fully functioning therapeutic landscape that hosts regular visits from disabled participants across the region. It serves as a model for similar projects throughout Austria and Germany, demonstrating that permaculture principles can be applied to social care and therapeutic contexts with remarkable results. The project has received recognition from both disability advocacy organisations and the permaculture community for its innovative integration of ecological design with therapeutic practice.
+The project has evolved over two decades from an initial concept into a fully functioning therapeutic landscape that hosts regular visits from disabled participants across the region. It serves as a model for similar projects throughout Austria and Germany, demonstrating that permaculture principles can be applied to social care and therapeutic contexts with remarkable results. The project has received recognition from both disability advocacy organisations and the [[urban-permaculture-community-building-social-design]] for its innovative integration of [[williams-pdc-ecological-design-principles]] with therapeutic practice.
 
 ## Specific Activities for Disabled Participants
 
 ### Gardening and Horticulture
-Participants engage in planting, weeding, watering, and harvesting across the various garden zones. Tasks are adapted to individual ability levels -- raised beds at varying heights allow wheelchair users to participate in planting and harvesting. The sensory garden provides opportunities to handle herbs, smell flowers, and taste berries at accessible heights. Participants learn to identify vegetable varieties, understand seasonal cycles, and follow plants from seed to harvest.
+Participants engage in planting, weeding, watering, and harvesting across the various garden zones. Tasks are adapted to individual ability levels -- raised beds at varying heights allow wheelchair users to participate in planting and harvesting. The sensory garden provides opportunities to handle herbs, smell flowers, and taste berries at accessible heights. Participants learn to identify [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]], understand seasonal cycles, and follow plants from seed to harvest.
 
 ### Animal Care and Aquaculture
 The water garden provides opportunities for fish feeding and observation. Participants learn about aquatic ecosystems, fish behaviour, and the relationship between water quality and animal health. Caring for animals provides a sense of responsibility and routine that is therapeutically valuable for participants with developmental disabilities.
@@ -57,7 +57,7 @@ The sensory garden is designed for structured and unstructured sensory explorati
 
 ## Design Features for Accessibility
 
-The project incorporates universal design principles throughout:
+The project incorporates universal [[holmgren-permaculture-twelve-design-principles-framework]] throughout:
 - **Wheelchair-accessible paths**: All main paths are a minimum of 1.5m wide with firm, level surfaces and gentle gradients (maximum 1:20). Path surfaces use compacted gravel or stabilised stone that provides good traction in wet conditions.
 - **Raised beds at multiple heights**: Beds range from 40cm to 90cm in height, allowing access for wheelchair users, people who cannot bend, and those who prefer standing. Each bed has a firm lip for leaning and resting arms.
 - **Water garden ford**: The ford is designed with a gentle slope, non-slip surface, and handrails where needed. Water depth is carefully controlled (maximum 20cm at the deepest point) for safety. Aquatic plants are positioned within reach from the ford.
@@ -78,7 +78,7 @@ The therapeutic benefits observed through the project span multiple dimensions:
 
 Despite its primary therapeutic mission, the project produces significant quantities of food. The Mediterranean garden yields grapes, figs, kiwifruit, and various vegetables through Holzer's [[holzer-kitchen-garden-layout-and-traditional-gardening]]
 - [[holzer-thailand-permaculture-project]]
-- [[microclimate-creation-permaculture]]
+- microclimate-creation-permaculture
 
 ## Source
 

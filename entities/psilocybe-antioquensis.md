@@ -11,7 +11,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # Psilocybe antioquensis
@@ -45,11 +46,11 @@ Described by Guzmán from material collected in the department of Antioquia, Col
 
 ## Distribution and Habitat
 
-Known primarily from the Colombian Andes, specifically the department of Antioquia, at elevations between 1,500 and 2,500 meters above sea level. It grows in cloud forest and subtropical montane forest environments, typically on soil rich in mollison designers humus along trails, road cuts, and in disturbed forest clearings. The species appears restricted to the northern Andes and has not been confirmed outside of Colombia despite surveys in neighboring countries.
+Known primarily from the Colombian Andes, specifically the department of Antioquia, at elevations between 1,500 and 2,500 meters above sea level. It grows in cloud forest and subtropical montane forest environments, typically on soil rich in mollison [[mollison-designers-humus-building-and-soil-organic-matter]] along trails, road cuts, and in disturbed forest clearings. The species appears restricted to the northern Andes and has not been confirmed outside of Colombia despite surveys in neighboring countries.
 
 ## Chemistry and Pharmacology
 
-Chemical analysis confirms the presence of psilocybin and [[psilocybe-caerulescens]]*, which has a broader distribution across Mexico and Central America and shares the montane habitat preference and strong bluing. *P. antioquensis* differs in its more restricted Andean distribution, slightly different spore morphology, and the character of its annulus. *[[psilocybe-zapotecorum]]*, also found at higher elevations in the neotropics, tends to grow in more swampy or bog-like conditions and has a more robust stature with a distinct umbo.
+[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] confirms the presence of psilocybin and [[psilocybe-caerulescens]]*, which has a broader distribution across Mexico and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and shares the montane habitat preference and strong bluing. *P. antioquensis* differs in its more restricted Andean distribution, slightly different spore morphology, and the character of its annulus. *[[psilocybe-zapotecorum]]*, also found at higher elevations in the neotropics, tends to grow in more swampy or bog-like conditions and has a more robust stature with a distinct umbo.
 
 ## Conservation Status
 
@@ -70,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

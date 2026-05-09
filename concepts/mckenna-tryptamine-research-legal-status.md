@@ -1,5 +1,5 @@
 ---
-title: "Tryptamine Research and Legal Status - McKenna's Analysis"
+title: "mckenna-baconian-exploration-tryptamine-research-methodology and Legal Status - McKenna's Analysis"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -10,7 +10,7 @@ tags: [tryptamine]
 
 # Tryptamine Research and Legal Status
 
-McKenna addresses the scientific, cultural, and legal barriers to tryptamine research in "Tryptamine Hallucinogens and Consciousness" (Esalen lecture, December 1983; published in The Archaic Revival, 1992). His analysis situates the suppression of tryptamine research within a broader pattern of what he calls Western civilization's alienation from shamanic knowledge and non-ordinary states of consciousness. The essay was delivered at the Lilly/Goswami Conference on Consciousness and Quantum Physics at Esalen Institute, placing McKenna's critique of scientific orthodoxy alongside quantum mechanical discussions of consciousness.
+McKenna addresses the scientific, cultural, and legal barriers to tryptamine research in "[[mckenna-tryptamine-hallucinogens-and-consciousness]] and Consciousness" (Esalen lecture, December 1983; published in The [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]], 1992). His analysis situates the suppression of tryptamine research within a broader pattern of what he calls Western civilization's alienation from shamanic knowledge and non-ordinary states of consciousness. The essay was delivered at the Lilly/Goswami Conference on Consciousness and Quantum Physics at Esalen Institute, placing McKenna's [[fukuoka-critique-of-scientific-agriculture]] orthodoxy alongside [[mckenna-quantum-mechanical-correlates-hallucinogenesis]] discussions of consciousness.
 
 ## Legal Conflation of Distinct Compounds
 
@@ -19,7 +19,7 @@ McKenna observes that in the eyes of both the "uninformed public and the law," [
 - [[mckenna-tryptamine-hallucinogens-and-consciousness]] -- parent topic overview
 - mckenna-tryptamine-consciousness-dmt-spirit-molecule -- DMT phenomenology
 - [[mckenna-tryptamine-psilocybin-consciousness-evolution]] -- psilocybin's evolutionary claims
-- [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]] -- endogenous DMT hypothesis
+- [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]] -- [[mckenna-endogenous-dmt-brain-familiarity]] hypothesis
 ## Practical Applications
 
 Tryptamine Research and Legal Status - McKenna's Analysis has a range of practical applications that make it relevant to
@@ -98,3 +98,7 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[mckenna-baconian-exploration-tryptamine-research-methodology]]
+- [[powell-psilocybin-legal-status-research]]

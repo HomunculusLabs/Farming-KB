@@ -1,5 +1,5 @@
 ---
-title: Mescaline Peyote and San Pedro Guide
+title: turner-mescaline-peyote-san-pedro-experience and gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch Guide
 created: 2026-04-13
 updated: 2026-04-15
 type: concept
@@ -36,7 +36,7 @@ Cactus is most potent when harvested during hotter months. See [[san-pedro-cactu
 
 ## Sources and Availability
 
-In the U.S., Peyote is illegal for all but Native American Church members and is becoming scarce even for native populations. A typical 2" Peyote button requires 20 years to grow; it is harvested faster than it can regenerate.
+In the U.S., Peyote is illegal for all but [[halpern-sacramental-peyote-and-native-american-church]] Church members and is becoming scarce even for native populations. A typical 2" Peyote button requires 20 years to grow; it is harvested faster than it can regenerate.
 
 Synthetic mescaline is extremely rare — Turner only encountered it once in his life. Items sold on the street as "mescaline" are frequently LSD, DOB (a [[turner-mescaline-peyote-san-pedro-experience]]
 
@@ -61,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

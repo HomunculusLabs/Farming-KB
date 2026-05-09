@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [query, cannabis, nutrients, hydroponics, water-quality]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -13,7 +14,7 @@ type: query
 ## Short Answer
 EC (electrical conductivity) and TDS (total dissolved solids) are
 measurements that indicate the concentration of mineral nutrients in your
-water or nutrient solution. EC measures conductivity directly in millisiemens
+water or [[cannabis-nutrient-solution-preparation]]. EC measures conductivity directly in millisiemens
 per centimeter (mS/cm) while TDS estimates concentration in parts per
 million (ppm) using a conversion factor. Monitoring these values allows
 cannabis growers to dial in precise feeding schedules, prevent
@@ -22,7 +23,7 @@ damage plants.
 
 ## Detailed Explanation
 
-For cannabis growers using bottled nutrients, organic amendments, or any
+For cannabis growers using bottled nutrients, [[cervantes-organic-amendments-chart]], or any
 systematic feeding approach, understanding EC and TDS is essential for
 achieving consistent results across grows. These measurements remove the
 guesswork from feeding by quantifying exactly how much dissolved mineral
@@ -35,8 +36,8 @@ moderate concentration fluctuations.
 EC is the more scientifically precise and reliable measurement. It
 quantifies the ability of dissolved ions in water to conduct electricity,
 which is directly proportional to the concentration of mineral salts
-present. Pure water has an EC near zero, while a typical cannabis nutrient
-solution might range from 0.8 to 2.5 mS/cm depending on the growth stage
+present. Pure water has an EC near zero, while a typical [[green-cannabis-nutrient-schedules]]
+solution might range from 0.8 to 2.5 mS/cm depending on the [[cho-plant-growth-stage-treatment-protocols]]
 and feeding strategy. EC meters work by passing an electrical current
 between two electrodes and measuring the resistance; more dissolved ions
 means lower resistance and higher conductivity. This direct measurement
@@ -89,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

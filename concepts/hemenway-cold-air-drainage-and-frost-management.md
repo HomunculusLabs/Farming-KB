@@ -1,5 +1,5 @@
 ---
-title: Cold Air Drainage and Frost Pocket Management
+title: hemenway cold air drainage and frost management Drainage and mollison-designers-sun-trap-and-frost-pocket-design Management
 created: 2026-04-26
 tags: [microclimate, frost, orchard, design, wind]
 date: 2026-04-25
@@ -11,23 +11,23 @@ type: concept
 
 # Cold Air Drainage and Frost Pocket Management
 
-Toby Hemenway provides detailed guidance on understanding and
+[[toby-hemenway]] provides detailed guidance on understanding and
 managing cold air drainage, one of the most important yet often
-overlooked factors in [[gaias-garden-suntraps-and-microclimate-protection]] and
-  thermal mass walls to counteract cold air pooling.
+overlooked factors in gaias-garden-suntraps-and-microclimate-protection and
+  [[comparison-windbreak-vs-thermal-mass]] walls to counteract cold air pooling.
 - Deciduous trees on the south side cool a house in summer
   while letting in winter light. Evergreens on the windward
   side block winter winds.
 
 By understanding how cold air moves through the landscape,
-gardeners can extend the growing season by weeks, reduce frost
+gardeners can [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season by weeks, reduce frost
 damage, and place plants in locations where they will thrive
 with minimal intervention.
 
 ## See Also
 
-- [[gaias-garden-suntraps-and-microclimate-protection]]
-- [[gaias-garden-hedgerows-and-windbreaks]]
+- gaias-garden-suntraps-and-microclimate-protection
+- gaias-garden-hedgerows-and-windbreaks
 - [[ecological-garden-design]]
 ## Practical Applications
 
@@ -46,7 +46,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -96,7 +96,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -106,4 +106,4 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+- [[soil-health-management]]

@@ -40,7 +40,7 @@ At 100 mg alone, no effects were observed.
 
 After eating a small meal and consuming two glasses of Zinfandel wine, the subject "shot up to an immediate ++" lasting all afternoon.
 
-Walking through San Francisco, the subject was "absolutely unable to estimate the age of anybody who was female."
+Walking through [[shipibo-san-francisco-ceremonial-center-ucayali]], the subject was "absolutely unable to estimate the age of anybody who was female."
 
 All facial aspects seemed amalgamated: "child-like and old seemed to be amalgamated into each face, all at the same time."
 
@@ -82,7 +82,7 @@ The synthesis begins with 1-(2-methoxy-4-methyl-5-methylthiophenyl)-2-nitroprope
 
 The nitrostyrene is reduced with iron in acetic acid to give 2-methoxy-4-methyl-5-methylthiophenylacetone (mp 41-42 degrees C).
 
-The ketone is oxidized with hydrogen peroxide in methanol to introduce the sulfoxide group, yielding 2-methoxy-4-methyl-5-methylsulfinylphenylacetone (mp 89-89.5 degrees C).
+The ketone is oxidized with [[cervantes-hydrogen-peroxide-sterilization]] in methanol to introduce the sulfoxide group, yielding 2-methoxy-4-methyl-5-methylsulfinylphenylacetone (mp 89-89.5 degrees C).
 
 Reductive amination with ammonium acetate and sodium cyanoborohydride yields TOMSO as the free base.
 

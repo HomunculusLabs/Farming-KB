@@ -1,20 +1,12 @@
 ---
-title: Lichenized Fungi — Taxonomy, Ecology, and Sampling Methods
+title: biodiversity-lichenized-fungi-symbiosis — Taxonomy, Ecology, and Sampling Methods
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-# Lichenized Fungi — Taxonomy, Ecology, and Sampling Methods
-
-## Overview
-
-Lichenized fungi (lichens) are symbiotic associations between a fungus (the mycobiont) and a photosynthetic partner (the photobiont — either a green alga or a cyanobacterium). With over **13,500 described species**, lichens account for approximately **20% of all described fungal species**, making them one of the most conspicuous and well-documented groups within [[fungal-life-history-strategies]].
-
-## Taxonomic Distribution
-
-Lichen-forming fungi are distributed across the [[fungal-symbiosis-types]] and remain one of the best-studied groups within [[lichenized-fungi-biology-ecology-diversity]]
+# Lichenized Fungi — Taxonomy, Ecology, and Sampling Methods ## Overview Lichenized fungi (lichens) are symbiotic associations between a fungus (the mycobiont) and a photosynthetic partner (the photobiont — either a green alga or a cyanobacterium). With over **13,500 described species**, lichens account for approximately **20% of all described fungal species**, making them one of the most conspicuous and well-documented groups within fungal-life-history-strategies. ## Taxonomic Distribution Lichen-forming fungi are distributed across the [[fungal-symbiosis-types]] and remain one of the best-studied groups within [[lichenized-fungi-biology-ecology-diversity]]
 - [[endomycorrhizal-fungi-sampling]]
 - [[fungi-soil-food-webs]]
 - [[fungal-roles-in-old-growth-forests]]
@@ -95,4 +87,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

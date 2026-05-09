@@ -1,5 +1,5 @@
 ---
-title: Passive Solar and Biomass Energy
+title: Passive passive solar and biomass energy Energy
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -8,21 +8,21 @@ sources: ["raw/papers/bill-mollison-permaculture-a-designers-manual.md"]
 ---
 # Passive Solar and Biomass Energy
 
-Passive energy works in most places most of the time with two main types: solar and mass. Both are low-cost, no-energy solutions fundamental to [[holmgren-permaculture-change-principle]] of free foraging)
+Passive energy works in most places most of the time with two main types: solar and mass. Both are low-cost, no-energy solutions fundamental to holmgren-permaculture-change-principle of free foraging)
 - Removes nitrogen from gardens
 - Methane-oxygen mixtures are explosive
 - Better suited for urban/community scale than small homesteads
 
 ## See Also
 
-- [[micro-hydro-power]] — another renewable energy option
+- [[micro-hydro-power]] — another [[holmgren-wind-power-and-renewable-energy-debate]] option
 - photovoltaic systems guide — active solar electricity
-- [[permaculture-design]] — design for energy efficiency
+- [[permaculture-design]] — design for [[fukuoka-textdoc-energy-efficiency-agricultural-labor]]
 
 ## Related
 
-- [[permaculture-community-scale-design]]
-- [[mollison-thermal-mass-passive-building]]
+- permaculture-community-scale-design
+- mollison-thermal-mass-passive-building
 - [[permaculture-designers-manual-cold-climate-greenhouse]]
 ## Practical Applications
 
@@ -101,4 +101,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Fernald, M.L. (1950). "Gray's Manual of Botany." 8th ed. American Book Company.
-  - Foster, S. & Duke, J.A. (2014). "A Field Guide to Medicinal Plants and Herbs." Houghton Mifflin.
+  - Foster, S. & Duke, J.A. (2014). "A [[ghouled-field-guide-historical-context]] to Medicinal Plants and Herbs." Houghton Mifflin.
   - Mills, S. & Bone, K. (2005). "The Essential Guide to Herbal Safety." Elsevier.
   - U.S. Pharmacopeia (1820–1900). "Eupatorium perfoliatum." USP Dispensatory.
   - Abdelgaleil, S.A.M. (2010). "Antifeedant and growth inhibitory effects of Eupatorium extracts." Journal of Pest Science, 83(2), 117-124.
@@ -24,7 +24,7 @@ sources:
 
 **Eupatorium perfoliatum**, known as boneset or common boneset, is a perennial
 herbaceous plant in the aster family (Asteraceae). Native to eastern and
-central North America, it was one of the most widely used medicinal plants
+central [[psilocybin-north-america-pacific-northwest]], it was one of the most widely used medicinal plants
 in 19th-century American herbalism, particularly for treating fevers, colds,
 and influenza-like illnesses.
 
@@ -77,10 +77,12 @@ It grows naturally in:
 - roadside ditches and disturbed wet areas
 
 The plant prefers full sun to partial shade and moist to wet soils rich in
-organic matter. It tolerates seasonal flooding and clay soils, making it
+[[hamilton-composting-and-organic-matter-management]]. It tolerates seasonal flooding and clay soils, making it
 adaptable to riparian [[pollinator-habitat]] and [[companion-planting]]** — its bitter compounds may deter certain pest
   insects when interplanted with vegetables
 
 ## See Also
 
-- [[native-american-planting-methods-and-indigenous-agriculture]]
+- [[silphium-perfoliatum]]
+
+- [[natives-vs-exotics]]

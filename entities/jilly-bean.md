@@ -33,13 +33,13 @@ racing thoughts common to pure sativas.
 
 THC content typically ranges from 15–22%, with some phenotypes
 reaching 25%. CBD content is generally low (<1%). Jilly Bean is
-available in both regular and feminized seed forms.
+available in both regular and [[cervantes-feminized-seed-production]] forms.
 
 ## Lineage
 
 - **Female parent:** Space Queen — a Romulan × Cinderella 99 cross
   developed by Vic High of Brothers Grimm Seeds. Contributes
-  uplifting cerebral effects, resin production, and fruity terpene
+  uplifting cerebral effects, [[cannabis-glandular-trichome-types-resin-production-clarke]], and fruity terpene
   profile. Sativa-dominant (approximately 70/30 sativa/indica).
 
 - **Male parent:** Orange Velvet — an unknown indica-dominant
@@ -58,7 +58,7 @@ moderate density. Calyxes are chunky and well-formed, covered in
 a thick layer of trichomes that give the buds a frosty, sticky
 appearance. Pistils are orange to rust-colored, abundant and curly.
 
-**Color:** Bright to forest green with occasional purple and blue
+**Color:** Bright to [[trichoderma-forest-green-mold-guide]] with occasional purple and blue
 hues, especially when exposed to cooler nighttime temperatures
 during late flowering. The overall impression is colorful and
 vibrant, particularly the vivid orange pistils.
@@ -83,7 +83,7 @@ of the best-tasting strains in Subcool's catalog.
 - **Limonene** (~0.5–1.0%) — citrus, orange; primary contributor
   to the characteristic flavor; elevating and mood-enhancing
 - **Caryophyllene** (~0.3–0.6%) — peppery, spicy; anti-inflammatory
-  via CB2 receptor binding
+  via CB2 [[tihkal-receptor-binding-serotonin]]
 - **Linalool** (~0.2–0.4%) — floral, sweet; anxiolytic and calming
 - **Pinene** (trace) — pine; counteracts THC-induced memory
   impairment
@@ -113,7 +113,7 @@ and enhanced sensory perception.
 includes anxiety or paranoia.
 
 **Common applications:** Daytime stress relief, social gatherings,
-creative work, mild depression, fatigue. The balanced nature makes
+creative work, mild depression, fatigue. The balanced [[coleman-first-rule-nature-makes-sense]]
 it suitable for users who want functional stimulation without
 overwhelming intensity.
 
@@ -121,7 +121,7 @@ overwhelming intensity.
 
 **Difficulty:** Moderate. Jilly Bean is relatively forgiving but
 benefits from experience managing sativa-dominant stretch during
-vegetative growth.
+[[cannabis-vegetative-growth-stage]].
 
 **Flowering time:** 8–10 weeks indoors (9 weeks average).
 Outdoor harvest: early to mid-October (Northern Hemisphere).

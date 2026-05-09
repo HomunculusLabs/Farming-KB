@@ -1,18 +1,15 @@
 ---
-title: Williams Pdc Additional Permaculture Principles
+title: Williams williams pdc additional permaculture principles permaculture-principles
 created: 2026-04-28
-tags: [[permaculture, principles, stacking-functions, problem-solution,
-      ecology]
+tags: [permaculture, principles, stacking-functions, problem-solution, ecology]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  [/Users/t3rpz/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+sources: [/Users/t3rpz/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-
 # Additional [[david-holmgren]]'s 12 principles form the core of permaculture
 design philosophy, several additional principles are widely recognized
-and practiced throughout the permaculture community. These principles
+and practiced throughout the [[urban-permaculture-community-building-social-design]]. These principles
 expand upon Holmgren's framework and provide additional guidance for
 designers working to create sustainable systems.
 
@@ -20,7 +17,7 @@ designers working to create sustainable systems.
 
 While not one of Holmgren's original 12, the principle of Stacking
 of Functions is one of the most oft-recited permaculture principles.
-This principle ties in strongly with "obtain a yield" and expands upon
+This principle ties in strongly with "[[holmgren-obtain-a-yield-detailed]]" and expands upon
 it. Instead of producing just one yield, stacking of functions implies
 that you try to produce as many yields as possible from any one design
 element.
@@ -44,8 +41,8 @@ There are many ways to deal with problems. In permaculture, a "problem"
 means something that is decreasing ecological activity in your system.
 A problem may have been designed or may be pre-existing. Either way, a
 problem represents a significant amount of embodied energy in the
-system. The permaculture principles tell us to catch and store energy,
-produce no waste, and use the edges. A "problem" is only something
+system. The permaculture principles tell us to [[permaculture-principle-catch-and-store-energy]] energy,
+[[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]], and use the edges. A "problem" is only something
 that has been devalued and marginalized.
 
 This principle requires imagination and adaptability. The first instinct
@@ -66,7 +63,7 @@ be applied to your whole life:
 
 The point is not the specific suggestions but the representation of
 how this principle can be applied to all aspects of design and life.
-[[use-and-value-renewable-resources]]
+use-and-value-renewable-resources
 
 The key word is "use" as an imperative. Go out and use renewable
 resources; their value is in their usefulness. It is not ecologically
@@ -89,3 +86,5 @@ permaculture thinking to all systems. Together they form a complete
 toolkit for creating regenerative designs.
 
 See also: [[fukuoka-natural-farming-philosophy]]
+## See Also
+- [[williams-pdc-permaculture-ethics-and-holmgrens-principles]]

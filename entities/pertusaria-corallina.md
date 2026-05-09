@@ -13,7 +13,7 @@ sources:
   - Purvis, O.W. et al. (1992). "The Lichen Flora of Great Britain and Ireland." London: Natural History Museum.
   - Nimis, P.L. & Martellos, S. (2008). "ITALIC - The Information System on Italian Lichens." University of Trieste.
   - Orange, A. et al. (2010). "Microchemical Methods for the Identification of Lichens." British Lichen Society.
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). "Lichens of North America." Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). "Lichens of [[psilocybin-north-america-pacific-northwest]]." Yale University Press.
 ---
 
 ## Overview
@@ -22,7 +22,7 @@ Pertusaria corallina is a crustose lichen in the family Pertusariaceae, widespre
 
 It forms a distinctive white to pale grey thallus densely covered with wart-like protuberances called pseudopertusariae, which give the surface a rough, coral-like appearance.
 
-The species is moderately pollution-sensitive and serves as a useful bioindicator of air quality in forested landscapes.
+The species is moderately pollution-sensitive and serves as a useful bioindicator of [[cervantes-air-quality-ventilation]] in forested landscapes.
 
 It is one of the more conspicuous members of the genus Pertusaria due to its large, prominent apothecia and robust thallus.
 
@@ -52,7 +52,7 @@ Pertusaria corallina has a broadly circumpolar distribution across temperate and
 
 In Europe, it ranges from Scandinavia and the British Isles south through central Europe to the Mediterranean region.
 
-In North America, it occurs across Canada and the northern United States, extending into the Appalachian Mountains.
+In North America, it occurs across Canada and the northern [[dmt-containing-plants-united-states-halpern]], extending into the Appalachian Mountains.
 
 The species is epiphytic on the bark of mature deciduous and coniferous trees, particularly oak, beech, and spruce.
 
@@ -60,11 +60,11 @@ It is also found growing on siliceous rocks in sheltered, humid microhabitats su
 
 Optimal habitats are old-growth forests with high humidity, moderate shade, and relatively clean air.
 
-It is less common in heavily polluted or disturbed landscapes, reflecting its moderate sensitivity to sulphur dioxide and nitrogen deposition.
+It is less common in heavily polluted or disturbed landscapes, reflecting its moderate sensitivity to sulphur dioxide and [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]].
 
 ## Chemistry
 
-Pertusaria corallina produces a characteristic suite of lichen secondary metabolites detectable by thin-layer chromatography.
+Pertusaria corallina produces a characteristic suite of lichen [[antifungal-secondary-metabolites-coprophilous-fungi]] detectable by thin-layer chromatography.
 
 The principal compound is stictic acid, a depsidone that fluoresces blue-white under UV light.
 
@@ -84,7 +84,7 @@ As a crustose epiphyte, Pertusaria corallina contributes to the micro-epiphyte c
 
 It provides substrate and microhabitat for various invertebrates, including tardigrades and mites, which shelter in its irregular thallus surface.
 
-The species participates in nutrient cycling by intercepting atmospheric deposition and slowly releasing trapped minerals back to the forest floor through leaching and thallus fragmentation.
+The species participates in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by intercepting atmospheric deposition and slowly releasing trapped minerals back to the forest floor through leaching and thallus fragmentation.
 
 Pertusaria corallina is relatively slow-growing, with radial expansion rates estimated at 1–3 mm per year under optimal conditions.
 

@@ -45,11 +45,11 @@ Fruit is an ovoid capsule, 4–5 mm long, containing numerous minute seeds. Seed
 
 ## Distribution and Habitat
 
-*B. monnieri* has a pantropical distribution, found across southern Asia, Africa, Australia, and the Americas. It is particularly abundant in India, Sri Lanka, Nepal, China, and throughout Southeast Asia.
+*B. monnieri* has a [[copelandia-cyanescens-pantropical-distribution-and-ecology]], found across southern Asia, Africa, Australia, and the Americas. It is particularly abundant in India, Sri Lanka, Nepal, China, and throughout Southeast Asia.
 
 The species grows in wet, marshy, and submerged environments including pond margins, paddy fields, riverbanks, and damp ditches. It thrives in full sun to partial shade at elevations from sea level to approximately 1,500 meters. It tolerates brackish conditions in coastal regions and can survive brief periods of complete submersion.
 
-The plant is considered invasive in some subtropical regions outside its native range, particularly in Florida and parts of Central America, where it can form dense mats that impede water flow in drainage ditches and irrigation canals.
+The plant is considered invasive in some subtropical regions outside its native range, particularly in Florida and parts of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], where it can form dense mats that impede water flow in drainage ditches and irrigation canals.
 
 ## Bioactive Compounds
 
@@ -79,9 +79,9 @@ In Ayurveda, *Bacopa monnieri* is classified as a medhya rasayana, prescribed fo
 
 Traditional preparation methods include grinding fresh leaves into a paste with ghee or boiling dried herb in milk to produce a brahmi tonic. In Siddha medicine, the plant is also used topically for skin conditions and as a component of hair oils believed to prevent premature graying.
 
-Modern clinical research has validated several traditional applications. Meta-analyses of randomized controlled trials demonstrate significant improvements in memory, attention, and information processing, particularly with 12+ weeks of daily supplementation at doses of 300 mg/day or higher.
+Modern [[hofmann-lsd-clinical-research-early-studies]] has validated several traditional applications. Meta-analyses of randomized controlled trials demonstrate significant improvements in memory, attention, and information processing, particularly with 12+ weeks of daily supplementation at doses of 300 mg/day or higher.
 
-Standard dosing in clinical trials ranges from 300–600 mg/day of extract standardized to 50–55% bacosides, typically taken with a fat-containing meal to enhance absorption of the lipophilic constituents. Adverse effects are generally mild, with occasional gastrointestinal discomfort reported at higher doses.
+Standard dosing in clinical trials ranges from 300–600 mg/day of extract standardized to 50–55% bacosides, typically taken with a fat-containing meal to enhance absorption of the lipophilic constituents. [[blesching-cannabis-safety-adverse-effects-evidence]] are generally mild, with occasional gastrointestinal discomfort reported at higher doses.
 
 ## Cultivation
 
@@ -89,7 +89,7 @@ Standard dosing in clinical trials ranges from 300–600 mg/day of extract stand
 
 Optimal growth occurs in waterlogged or saturated soils with pH 5.5–7.0 and temperatures of 25–35°C. The plant requires consistent moisture and performs poorly under drought stress.
 
-Organic-rich loamy soils with partial shade produce the highest bacoside yields, with nitrogen-rich substrates increasing both biomass and secondary metabolite production.
+Organic-rich loamy soils with partial shade produce the highest bacoside yields, with nitrogen-rich substrates increasing both biomass and [[fungal-elicitors-enhanced-secondary-metabolite-production]] production.
 
 Aerial parts are harvested 90–120 days after planting, with regrowth allowing 3–4 harvests per year in tropical climates. Post-harvest, material is shade-dried to preserve bacoside content before extraction.
 
@@ -101,7 +101,7 @@ As a wetland indicator species, its presence signals healthy hydrological condit
 
 ## Permaculture Applications
 
-In permaculture design, *B. monnieri* is valued as a multi-functional wetland edge plant. It serves as a ground cover in water-retention landscapes, rain gardens, and constructed wetlands. Its tolerance of periodic inundation makes it suitable for bioswale edges and pond margins.
+In permaculture design, *B. monnieri* is valued as a multi-functional wetland edge plant. It serves as a ground cover in water-retention landscapes, rain gardens, and [[comparison-constructed-wetlands-vs-bioswales]]. Its tolerance of periodic inundation makes it suitable for bioswale edges and pond margins.
 
 The plant can be integrated into aquaponic systems where it serves as both a biofilter and a harvestable crop. In tropical food forests, brahmi grows well in the wet understory zones near water features. Its medicinal value adds a high-value yield to otherwise marginal wet areas of a permaculture site.
 
@@ -111,7 +111,7 @@ Companion planting with *B. monnieri* works well alongside other wetland medicin
 
 - bacopa monnieri
 
-- [[ocimum-sanctum]]
+- ocimum-sanctum
 - [[eleutherococcus-senticosus]]
 - [[rhodiola-rosea]]
 - [[zingiber-officinale]]

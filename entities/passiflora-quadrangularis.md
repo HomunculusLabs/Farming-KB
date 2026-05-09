@@ -47,7 +47,7 @@ The pulp is white to pale orange, sweet and aromatic, containing numerous black 
 
 The species is native to the Neotropics, with a natural range extending from Venezuela and Colombia through Ecuador, Peru, Bolivia, and Brazil to Paraguay.
 
-It is widely cultivated throughout the tropical Americas, the Caribbean, West Africa, Southeast Asia, and northern Australia. In Australia, it has naturalized in coastal Queensland and is considered an environmental weed in some areas.
+It is widely cultivated throughout the tropical Americas, the Caribbean, West Africa, [[psilocybe-southeast-asia-pacific]], and northern Australia. In Australia, it has naturalized in coastal Queensland and is considered an environmental weed in some areas.
 
 It grows at elevations from sea level to 1,200 m in humid tropical and subtropical forests. The species prefers well-drained, fertile soils with abundant moisture and partial to full sun exposure.
 
@@ -102,7 +102,7 @@ Traditional medicinal uses include treatment of anxiety, insomnia, asthma, and g
 - [[gynostemma-pentaphyllum]]
 - [[mangifera-indica]]
 - [[persea-americana]]
-- [[punica-granatum]]
+- punica-granatum
 - [[juglans-regia]]
 - [[musa-acuminata]]
 - [[solanum-tuberosum]]

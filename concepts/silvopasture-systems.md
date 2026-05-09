@@ -4,7 +4,8 @@ created: 2026-04-15
 updated: 2026-04-15
 type: concept
 tags: [reference]
-sources: []
+sources:
+  sources: []
 ---
 # Silvopasture Systems
 
@@ -12,7 +13,7 @@ Silvopasture is the intentional integration of trees, forage, and livestock on t
 
 ### Poultry
 - Chickens, turkeys, and guinea fowl thrive in silvopasture systems
-- Insect control from scratching and foraging
+- [[mushroom-pests-insect-control-stamets]] from scratching and foraging
 - Manure fertilizes trees and forage
 - Protection from aerial predators provided by tree canopy
 - See [[goat-keeping-guide]]** for goat-specific fencing needs
@@ -105,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

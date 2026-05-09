@@ -1,8 +1,8 @@
 ---
-title: The Catholic Church and Suppression of the Eleusinian Mysteries
+title: The Catholic Church and Suppression of the mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries
 created: 2026-04-26
 updated: 2026-04-24
-sources: The Road to Eleusis (Wasson, Hofmann, Ruck)
+sources: The the-road-to-eleusis-wasson-hofmann-ruck (Wasson, Hofmann, Ruck)
 type: concept
 tags: [reference]
 ---
@@ -62,7 +62,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -112,7 +112,7 @@ Building resilience into systems through diversity, redundancy, and
 adaptive capacity helps mitigate the impacts of these uncertainties.
 
 Knowledge gaps and the ongoing evolution of understanding mean that
-current best practices represent our current state of knowledge rather
+current [[knf-imo-diversity-and-best-practices]] represent our current state of knowledge rather
 than final answers. Practitioners should maintain intellectual humility
 and remain open to new information and approaches that may improve
 upon established methods. Continuous learning and observation are
@@ -140,4 +140,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

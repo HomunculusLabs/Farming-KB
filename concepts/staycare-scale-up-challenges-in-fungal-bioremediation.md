@@ -2,7 +2,7 @@
 title: Scale-Up Challenges in fungal-bioremediation
 created: 2026-04-26
 synonyms:
-  - commercial fungal bioremediation
+  - commercial [[staycare-composting-as-a-fungal-bioremediation-strategy]]
   - fungal bioremediation field trials
   - formulation of fungi for bioremediation
   - in situ mycoremediation challenges
@@ -29,11 +29,11 @@ Chapter 5 of the source (Bennett, Connick, Daigle, Wunch) specifically addresses
 - **Shelf life**: Formulated inoculum must maintain viability during storage and transport
 - **Delivery**: Methods for distributing inoculum throughout contaminated soil (uniform coverage vs. point inoculation)
 - **Moisture management**: Maintaining appropriate water activity in the field environment
-- **Oxygen supply**: Ligninolytic fungi are obligate aerobes; ensuring adequate oxygen in soil systems
+- **Oxygen supply**: [[biochemistry-of-ligninolytic-fungi-bioremediation]] are obligate aerobes; ensuring adequate oxygen in soil systems
 
 ### 3. Nutrient Management
 
-- **Nitrogen limitation paradox**: P. chrysosporium requires nitrogen limitation for ligninolytic enzyme production, but nitrogen-limited conditions may stress the fungus in field conditions. Other fungi do not share this requirement.
+- **Nitrogen limitation paradox**: P. chrysosporium requires nitrogen limitation for ligninolytic [[ligninolytic-enzyme-production-bioremediation]], but nitrogen-limited conditions may stress the fungus in field conditions. Other fungi do not share this requirement.
 - **Carbon source**: Adding carbon (glucose 5-10 g/L) is often necessary to fuel the production of H₂O₂ for peroxidase activity, but this adds cost and may feed competing organisms
 - **Buffer requirements**: Laboratory studies use buffers (dimethyl succinate, dimethyl glutarate) that are imlignin-degradation scale. Some (dimethyl succinate) are expensive; others (phosphate) add nutrients that cause eutrophication. Fungi may self-buffer, but pH control at field scale is difficult.
 - **Trace metals**: Mn²⁺, Cu²⁺, and Fe are required for enzyme function, but their optimal concentrations vary by organism and substrate
@@ -42,7 +42,7 @@ Chapter 5 of the source (Bennett, Connick, Daigle, Wunch) specifically addresses
 
 #### Oxygen Transfer
 
-Lignin degradation requires oxygen for H₂O₂ generation (for peroxidases) and directly for laccase activity. In large-scale systems:
+[[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]] requires oxygen for H₂O₂ generation (for peroxidases) and directly for laccase activity. In large-scale systems:
 
 - **Static cultures**: Poor oxygen transfer; gradient limitations in culture vessels
 - **Agitated cultures**: Can inactivate LiP through shear forces and air-liquid interface effects. Tween 80/20 addition helps but adds cost.
@@ -51,7 +51,7 @@ Lignin degradation requires oxygen for H₂O₂ generation (for peroxidases) and
 
 #### Temperature Control
 
-- **Metabolic heat**: Fungal metabolism generates heat; removal is problematic in solid-state systems and large soil volumes
+- **Metabolic heat**: [[singh-fungal-metabolism-pahs]] generates heat; removal is problematic in solid-state systems and large soil volumes
 - **Optimal temperatures**: Most [[staycare-composting-as-a-fungal-bioremediation-strategy]]
 
 - [[staycare-phanerochaete-chrysosporium-in-bioremediation]]
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,3 +114,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[bioremediation-scale-up]]

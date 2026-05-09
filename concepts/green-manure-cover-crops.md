@@ -9,7 +9,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 # Green Manure Cover Crops
 
-Green manure is a crop grown specifically to be dug back into the soil, adding organic matter and plant nutrients. Though perhaps of more value to the large-scale farmer than the small gardener, there are many situations in the home garden where a green manure crop is useful — particularly for maintaining soil health when ground would otherwise be bare.
+Green manure is a crop grown specifically to be dug back into the soil, adding [[hamilton-composting-and-organic-matter-management]] and plant nutrients. Though perhaps of more value to the large-scale farmer than the small gardener, there are many situations in the home garden where a green manure crop is useful — particularly for maintaining soil health when ground would otherwise be bare.
 
 ## Benefits of Green Manure
 
@@ -35,7 +35,7 @@ Leguminous plants like beans, clovers, lupins, and alfalfa have the ability to "
 
 ## Choosing a Green Manure
 
-Choose a plant that will mature in the time available and preferably one that is unlike either the crop you have just harvested or the one you intend to sow the following season. For example, it is unwise to sow another brassica such as mustard after cabbages, because of the risk of perpetuating associated pests and diseases.
+Choose a plant that will mature in the time available and preferably one that is unlike either the crop you have just harvested or the one you intend to sow the following season. For example, it is unwise to sow another brassica such as mustard after cabbages, because of the risk of perpetuating associated [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]].
 
 ## Types of Green Manure Crops
 
@@ -53,7 +53,7 @@ Choose a plant that will mature in the time available and preferably one that is
 
 | Crop | Scientific Name | Notes |
 |------|----------------|-------|
-| Buckwheat | Fagopyrum esculentum | Tall, extensive roots. Attracts hoverflies. Sow warm weather. Does not fix nitrogen. |
+| Buckwheat | Fagopyrum esculentum | Tall, extensive roots. Attracts hoverflies. Sow [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]]. Does not [[query-how-to-fix-nitrogen-toxicity-in-cannabis]]. |
 | Phacelia | Phacelia tanacetifolia | One of the best despite not fixing nitrogen. Fast growing. Dig in after 8 weeks. |
 | Mustard | Sinapsis alba | Quick, shallow-rooting. Good weed suppressor. Beware: member of cabbage family — may harbor clubroot. |
 | Rye | Secale cereale | Extensive root system. Sow perennial variety late summer/fall. Non-legume. |
@@ -75,7 +75,7 @@ Key points:
 - If the crop has become woody, apply liquid [[hamilton-animal-manure-types-and-use]] tea to assist decomposition
 - Dig in before flowering## Related
 
-- [[animal-manure-guide]] — animal manure as an alternative or supplement
-- [[garden-bed-preparation]] — incorporating green manure during bed preparation
+- [[animal-manure-guide]] — [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] as an alternative or supplement
+- [[garden-bed-preparation]] — incorporating green manure during [[azurescens-outdoor-bed-preparation-woodchips]]
 - [[nitrogen-fixing-trees-and-shrubs]]
 - [[gaias-garden-cover-crops-soil-building]]

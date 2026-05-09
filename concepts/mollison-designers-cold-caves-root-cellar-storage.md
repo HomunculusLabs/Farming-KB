@@ -1,5 +1,5 @@
 ---
-title: Cold Caves and Root Cellar Storage
+title: mollison designers cold caves root cellar storage and Root Cellar Storage
 created: 2026-04-26
 tags:
   - permaculture
@@ -28,13 +28,13 @@ Mollison distinguishes two fundamental types of earth-sheltered storage:
 produce. They rely on solar gain, compost heat, or animal body heat to
 maintain temperatures above ambient. In traditional Chinese agriculture, hot
 caves carved into loess hillsides served as grain silos for entire villages,
-maintaining stored grain at low humidity and stable warmth. Livestock shelters
+maintaining stored grain at [[pf-tek-low-humidity-symptoms-and-remediation]] and stable warmth. Livestock shelters
 built into earth banks across northern China and Mongolia similarly used
 thermal mass to reduce winter feed requirements.
 
 **Cold caves** store root crops, seeds, and perishables at cool, steady
 temperatures. Root cellars in temperate regions maintain 1-5 degrees C year-
-round with near-total humidity control. The key design principle is that
+round with near-total [[cervantes-humidity-control-dehumidification]]. The key design principle is that
 earth temperature at depth mirrors mean annual surface temperature, providing
 a natural refrigerator.
 
@@ -44,7 +44,7 @@ Mollison extends the cave concept to full human habitation. Earth-sheltered or
 earth-integrated houses cut heating and cooling costs dramatically. Design
 considerations include:
 
-- Orientation toward the winter sun for passive solar gain
+- Orientation toward the winter sun for [[comparison-passive-solar-vs-earth-sheltered]] gain
 - Drainage systems to prevent water ingress (critical -- most failures stem
   from poor drainage rather than structural problems)
 - Ventilation shafts with adjustable openings to control moisture and air
@@ -71,11 +71,11 @@ shelters, churches, and ventilation shafts spanning multiple levels.
 shelters for food storage, as well as colonial-era root cellars and cool
 rooms built into hillsides. He advocates reviving these techniques for
 modern Australian homesteads, particularly in arid and semi-arid zones where
-the diurnal temperature range is extreme.
+the diurnal [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] is extreme.
 
 ## Design Guidelines
 
-- Locate root cellars on north-facing slopes (southern hemisphere: south-
+- Locate root cellars on north-facing slopes ([[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]: south-
   facing) to minimise solar gain
 - Ensure drainage is downslope and away from the structure
 - Provide two ventilation pipes: one high (warm air exhaust) and one low
@@ -89,10 +89,13 @@ the diurnal temperature range is extreme.
 ## Integration with Permaculture Systems
 
 Caves and cellars connect directly to the [[mollison-designers-dam-construction-and-water-storage]],
-[[permaculture-designers-manual-earth-building-techniques]]
+permaculture-designers-manual-earth-building-techniques
 
 ## See Also
 
-- [[mollison-designers-fuelwood-forestry-coppice-pollard]]
-- [[mollison-designers-food-processing-preservation-storage]]
-- [[mollison-designers-geodesic-and-dome-structures]]
+- mollison-designers-fuelwood-forestry-coppice-pollard
+- mollison-designers-food-processing-preservation-storage
+- mollison-designers-geodesic-and-dome-structures
+- [[bill-mollison]]
+- [[mollison-designers-soil-water-storage-in-forest-systems]]
+- [[mollison-designers-soil-water-storage-and-field-capacity]]

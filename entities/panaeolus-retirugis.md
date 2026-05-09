@@ -7,7 +7,7 @@ tags: [fungi, basidiomycota, agaricales, panaeolaceae, panaeolus,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources: []
   - "/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
 ---
 # Panaeolus retirugis
@@ -18,7 +18,7 @@ compounds. It is a coprophilous (dung-inhabiting) species found
 primarily in tropical and subtropical regions. The species was
 originally described from African specimens and has since been
 reported across parts of Asia, Oceania, and the Americas. Though
-less well-known than Panaeolus cyanescens (Copelandia cyanescens),
+less well-known than [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]] (Copelandia cyanescens),
 P. retirugis occupies a similar ecological niche on herbivore dung
 and is recognized among psychotropic fungi surveys for its
 documented neurotropic chemistry. The species epithet "retirugis"
@@ -33,7 +33,7 @@ genus.
 - **Authority:** Originally described from tropical Africa
 - **Synonyms:** Historically placed in broader Panaeolus
   circumscriptions; some authors have considered it closely
-  allied to the Panaeolus subbalteatus complex
+  allied to the [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]] complex
 - **Type locality:** Tropical Africa
 - **Notes:** The genus Panaeolus is characterized by
   mottled gills (spotted with mature and immature spores
@@ -65,7 +65,7 @@ genus.
 ### Spores and Microscopy
 | Feature | Description |
 |---|---|
-| Spore print | Black |
+| [[comparison-spore-print-collection-vs-spore-syringe-production]] | Black |
 | Spore shape | Ellipsoid to lemon-shaped |
 | Spore size | 12–16 x 8–10 µm |
 | Spore wall | Smooth, thick-walled |
@@ -75,7 +75,7 @@ genus.
 | Pleurocystidia | Rare or absent |
 ## Distribution and Habitat
 - **Geographic range:** Tropical and subtropical Africa, parts
-  of Southeast Asia, and reported in Oceania; occasional
+  of [[psilocybe-southeast-asia-pacific]], and reported in Oceania; occasional
   reports from Central and South America
 - **Substrate:** Exclusively coprophilous, found on the dung
   of herbivorous mammals (cattle, horses, elephants)
@@ -88,7 +88,7 @@ genus.
   small groups rather than in large clusters
 ## Chemistry and Active Compounds
 Panaeolus retirugis is confirmed to contain psychoactive
-tryptamine alkaloids, placing it among the neurotropic fungi
+tryptamine alkaloids, placing it among the [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]
 surveyed by Guzmán, Allen, and Gartz. The principal active
 compounds detected include:
 - **Psilocybin:** The primary psychoactive compound;

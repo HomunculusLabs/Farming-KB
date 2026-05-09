@@ -8,7 +8,7 @@ tags: [fungi, basidiomycota, agaricales, strophariaceae,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources: []
   - "/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
   - "/Users/t3rpz/wiki/raw/papers/magic-mushrooms-around-the-world-gartz.md"
 ---
@@ -83,7 +83,7 @@ R. Gordon Wasson and Roger Heim in the 1950s.
 ### Spores and Microscopy
 | Feature | Description |
 |---|---|
-| Spore print | Black |
+| [[comparison-spore-print-collection-vs-spore-syringe-production]] | Black |
 | Spore shape | Ellipsoid to lemon-shaped |
 | Spore size | 11–15 x 7–9 µm |
 | Spore wall | Smooth, moderately thick |
@@ -95,7 +95,7 @@ R. Gordon Wasson and Roger Heim in the 1950s.
 | Pileipellis | Cutis of repent hyphae |
 ## Distribution and Habitat
 - **Geographic range:** Mexico (type locality); also
-  reported from Central America, parts of South America,
+  reported from [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], parts of South America,
   and possibly the Caribbean
 - **Substrate:** Strictly coprophilous, growing on the
   dung of herbivorous mammals, especially cattle and
@@ -124,7 +124,7 @@ alkaloid profile characteristic of the genus Copelandia:
 - **Urea and urea derivatives:** Some Copelandia species
   accumulate urea, which may serve a protective or
   osmotic function in the coprophilous habitat
-- **Bluing reaction:** The prominent blue bruising of C.
+- **[[field-guide-psilocybin-bluing-reaction-identification]]:** The prominent blue bruising of C.
   mexicana is caused by the oxidation of psilocin and
   related phenolic compounds when cells are damaged,
   providing a useful field indicator of psychoactive

@@ -1,11 +1,12 @@
 ---
-title: Psilocybe cyanescens Profile
+title: growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation Profile
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [species-profiles, species-identification, mycology, psilocybin, potency, distribution, temperate, wood-chips]
 sources:
-  - raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
   - raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md
 ---
 
@@ -13,7 +14,7 @@ sources:
 
 ## Overview
 
-Psilocybe cyanescens, the "wavy-cap," is a potent psilocybin mushroom of temperate regions, strongly associated with wood chips and ornamental plantings. It has been spread globally through the horticultural trade and is one of the most commonly encountered psychoactive mushrooms in urban and suburban settings.
+Psilocybe cyanescens, the "wavy-cap," is a potent [[emcdda-psilocybin-mushroom-dose-and-effects]] of temperate regions, strongly associated with wood chips and ornamental plantings. It has been spread globally through the horticultural trade and is one of the most commonly encountered psychoactive mushrooms in urban and suburban settings.
 
 ## Taxonomy
 
@@ -30,15 +31,15 @@ Psilocybe cyanescens, the "wavy-cap," is a potent psilocybin mushroom of tempera
 ## Potency
 
 - A highly potent species, though generally less so than [[psilocybe-azurescens-profile]].
-- Strong bluing reaction upon damage.
+- Strong [[field-guide-psilocybin-bluing-reaction-identification]] upon damage.
 
 ## Habitat and Distribution
 
 - **Habitat**: Cespitose to gregarious on wood chips, bark mulch, and lignin-rich substrates. Strongly associated with ornamental plantings -- rhododendrons, roses, and azaleas. Thrives in riparian habitats with sandy soils.
 - **Season**: Autumn (September through December in the Northern Hemisphere).
-- **Origin**: Likely native to the Pacific Northwest of North America.
-- **Global spread**: Imported to Europe and elsewhere in the soil around the bases of exotic trees and ornamental plants. Distribution across Europe and North Africa is documented in Krieglsteiner's maps.
-- **Urban ecology**: Commonly found in garden mulch, park wood chips, and landscaped areas -- making it one of the most accessible psychoactive species for urban foragers.
+- **Origin**: Likely native to the Pacific Northwest of [[psilocybin-north-america-pacific-northwest]].
+- **[[pf-tek-global-spread-and-cultural-impact]]**: Imported to Europe and elsewhere in the soil around the bases of exotic trees and ornamental plants. Distribution across Europe and North Africa is documented in Krieglsteiner's maps.
+- **Urban ecology**: Commonly found in [[cotter-outdoor-mushroom-garden-mulch-beds]], park wood chips, and landscaped areas -- making it one of the most accessible psychoactive species for urban foragers.
 
 ## Spread Through Horticulture
 
@@ -79,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

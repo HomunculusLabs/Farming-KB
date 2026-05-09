@@ -14,7 +14,8 @@ tags:
 - water
 
 sources:
-- raw/papers/bill-mollison-permaculture-design-course.md
+sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
 - raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md
@@ -44,7 +45,7 @@ David Holmgren articulated 12 design principles that serve as practical tools fo
 Take time to observe your site through all seasons before making changes. Watch where water flows, where frost settles, where sun hits. "Protracted and thoughtful observation rather than protracted and thoughtless action" (Mollison). On a homestead, observe animal behavior, weed patterns, and microclimates for at least one full year.
 
 ### 2. Catch and Store Energy
-Harvest energy when it is abundant for use in lean times. This applies to water (rainwater harvesting), solar energy, biomass (compost, wood), seeds, and food preservation. A [[water-management]] system is a direct application of this principle.
+Harvest energy when it is abundant for use in lean times. This applies to water ([[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]), solar energy, biomass (compost, wood), seeds, and food preservation. A [[water-management]] system is a direct application of this principle.
 
 ### 3. Obtain a Yield
 Every element in your system should produce something useful. A fruit tree yields fruit, shade, mulch, and habitat. Chickens yield eggs, meat, manure, and pest control. Design so every component has multiple functions.
@@ -53,13 +54,13 @@ Every element in your system should produce something useful. A fruit tree yield
 Pay attention to what works and what does not. If a technique is not producing results, adjust. Monitor soil health, plant growth, animal behavior, and energy use. Avoid over-reliance on any single element.
 
 ### 5. Use and Value Renewable Resources and Services
-Prioritize biological resources over fossil-fuel-dependent ones. Use nitrogen-fixing plants instead of synthetic fertilizer. Use draft animals or hand tools instead of machinery. Use passive solar design instead of electric heating.
+Prioritize biological resources over fossil-fuel-dependent ones. Use nitrogen-fixing plants instead of synthetic fertilizer. Use draft animals or hand tools instead of machinery. Use [[comparison-passive-solar-vs-earth-sheltered]] design instead of electric heating.
 
 ### 6. Produce No Waste
 Everything should have a use. Kitchen scraps become compost. Duck manure becomes fertilizer. Weeds become mulch. Greywater irrigates gardens. This principle connects directly to [[cannabis-living-soil-guide]] practices where waste is always a resource.
 
 ### 7. Design from Patterns to Details
-Start with the big picture -- the overall layout of the homestead, water flows, sun angles, wind patterns -- before getting into specific plant placements. "Complex systems that work tend to evolve from simple ones that work, so finding the appropriate pattern for that design is more important than understanding all the details of the elements in the system" (Holmgren). See [[permaculture-design]] for zone and sector analysis methods, [[patterns-in-nature]] for natural pattern types, and [[permaculture-design-methods]] for the complete design process.
+Start with the big picture -- the overall layout of the homestead, water flows, sun angles, wind patterns -- before getting into specific plant placements. "Complex systems that work tend to evolve from simple ones that work, so finding the appropriate pattern for that design is more important than understanding all the details of the elements in the system" (Holmgren). See [[permaculture-design]] for zone and [[mollison-designers-sector-analysis-wind-sun-fire]] methods, nature for natural pattern types, and [[permaculture-design-methods]] for the complete design process.
 
 ### 8. Integrate Rather Than Segregate
 Place elements so they support each other. Chickens near compost piles. Fruit trees with nitrogen-fixing understory. Ducks near the garden for slug control. The more connections between elements, the more resilient the system. See [[companion-planting-reference]] for plant integration strategies.
@@ -103,28 +104,11 @@ Industrial society is an energy pulse (fossil fuels), not a sustainable plateau.
 
 ### Key Principles for Energy Descent
 - **Top-down thinking, bottom-up action**: Use wholistic systemic understanding to inform personal and household-level changes. Permaculture is not primarily about lobbying government; it facilitates individuals, households, and local communities in increasing self-reliance
-- **"Loose systems last longer"**: Flexibility is more important than efficiency in changing conditions. The "just-in-time" manufacturing model maximises efficiency at the cost of self-reliance
-- **Drip-feed culture is ending**: Weekly wages and shopping are out of step with economic realities. Design for flexible income streams and seasonal abundance cycles
-- **Household as the fundamental unit**: Family and household persist as the fundamental units of society through energy descent; this is where design action matters most
-- **Socially motivated minority as leverage point**: A proportion of society is ready to substantially change behaviour if they think it possible and significant -- this is the most potent path to large-scale change
-
-### EMERGY Yield Ratios (Holmgren, from Odum)
-Comparing energy return of biomass fuel sources:
-| Source | Replacement Time | EMERGY Yield Ratio |
-|---|---|---|
-| Rainforest timber, Brazil | 300 yrs | 12.0 |
-| Spruce | 90 yrs | 4.1 |
-| Slash pine, Florida | 25 yrs | 2.4 |
-| Eucalypts, Brazil | 7 yrs | 2.2 |
-| Willow, Sweden | 6 yrs | 1.34 |
-
-Yield ratio > 4 = high-value source comparable to current economic resources. This data informs which tree crops to prioritise on a homestead for fuel and timber self-reliance.
-
 ## Related Pages
 - [[permaculture-design]]
 - [[permaculture-design-methods]] -- Comprehensive design process and tools
-- [[patterns-in-nature]] -- Natural pattern types and application
-- [[edge-effect-and-microclimate]] -- Edge theory and microclimate creation
+- nature -- Natural pattern types and application
+- [[edge-effect-and-microclimate]] -- Edge theory and [[mollison-designers-microclimate-creation-frost-protection]]
 - [[keyline-design]] -- Landscape water management
 - [[permaculture-plant-catalog]] -- Plants by function
 - [[natural-farming-fukuoka]]
@@ -133,7 +117,7 @@ Yield ratio > 4 = high-value source comparable to current economic resources. Th
 - [[water-management]]
 - [[permaculture-zones-in-practice]] — zones 0-5 with specific homestead examples
 - [[toby-hemenway]] — Author of "Gaia's Garden," home-scale permaculture pioneer
-- [[william-ozier-williams]] — PDC course contributor, permaculture education
+- [[william-ozier-williams]] — PDC course contributor, [[holmgren-permaculture-education-training-and-pdc]]
 
 ## Beginner's Perspective (Graham Burnett)
 
@@ -141,7 +125,7 @@ Graham Burnett's "Permaculture: A Beginner's Guide" adds practical framing for n
 
 ### Core Attitude Shifts
 - **"You haven't got an excess of slugs, you've got a duck deficiency"** (Mollison, via Burnett) — reframe problems as opportunities for new design elements
-- **Work with nature, not against it** — instead of chemical inputs to control pests, encourage predators like ladybirds and hoverflies; instead of fighting soil with plows, build [[no-till-gardening-method]] systems
+- **Work with nature, not against it** — instead of chemical inputs to [[query-how-to-control-pests-without-chemicals]], encourage predators like ladybirds and hoverflies; instead of fighting soil with plows, build [[no-till-gardening-method]] systems
 - **Yield is limited only by imagination** — yield isn't just kilograms of food; it includes information, skills learned, health benefits, community connections, and ecological restoration
 
 ### Key Design Heuristics (Burnett's "Ecological Truisms")

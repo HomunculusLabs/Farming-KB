@@ -20,7 +20,7 @@ type: concept
 
 Amyotrophic lateral sclerosis (ALS), also known as Lou Gehrig's disease, is a
 chronic degenerative neurological illness associated with the selective loss of
-motor neurons in the brain and spinal cord. The name derives from Greek:
+motor neurons in the brain and [[blesching-cannabis-spinal-cord-injuries]]. The name derives from Greek:
 "a-myo-trophic" (no muscle nourishment), "lateral" (referring to affected
 nerves on either side), and "sclerosis" (hardening). Without neuronal
 nourishment, muscles waste away along with the ability to initiate movement.

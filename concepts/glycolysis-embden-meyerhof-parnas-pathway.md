@@ -12,7 +12,7 @@ sources:
 
 Glycolysis (from Greek glykys, sweet, and lysis, splitting) is the universal
 metabolic pathway that converts one molecule of glucose (C6) into two molecules
-of pyruvate (C3) in the cytoplasm of virtually all living organisms. The pathway
+of pyruvate (C3) in the cytoplasm of virtually all [[savory-living-organisms-as-tools]]. The pathway
 consists of ten enzyme-catalyzed steps, requires no oxygen, [[electron-transport-chain-mitochondrial-respiration]] and 2 [[citric-acid-cycle-tca-krebs-cycle]] and ultimately
 oxidative phosphorylation for a total yield of approximately 30-32 ATP per
 glucose. Under anaerobic conditions, lactate dehydrogenase (LDH) converts
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

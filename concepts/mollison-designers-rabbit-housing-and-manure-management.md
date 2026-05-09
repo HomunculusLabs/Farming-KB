@@ -1,5 +1,5 @@
 ---
-title: "Rabbit Housing and Manure Management"
+title: "mollison designers rabbit housing and manure management and Manure Management"
 created: 2026-04-28
 tags:
   - permaculture
@@ -18,10 +18,10 @@ type: concept
 
 Bill Mollison's [[vermicomposting]] and garden
 fertilization, breed rapidly, and require minimal space compared to
-larger livestock. Their integration into permaculture design follows
+larger livestock. Their [[duck-keeping-guide-detailed]] design follows
 [[vermicomposting]] every 3-6 months.
 
-Deep litter systems produce compost directly in the rabbit housing,
+[[comparison-deep-litter-vs-hot-composting]] systems produce compost directly in the rabbit housing,
 reducing handling and transportation. The microbial activity in the
 litter generates warmth, which is valuable in cold climates. Mollison
 notes that deep-litter rabbit housing produces some of the richest
@@ -40,7 +40,7 @@ use. Mollison provides these characteristics:
 - **Cold-safe application:** Unlike fresh chicken or pig manure,
   rabbit manure can be applied directly to gardens without composting
   because it is relatively low in salts and pathogens and will not
-  burn plants. However, composting improves nutrient availability.
+  burn plants. However, composting improves [[ph-and-nutrient-availability-garden-soils]].
 
 - **Soil food web support:** Rabbit manure supports diverse
   [[zone-1-intensive-garden]]
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

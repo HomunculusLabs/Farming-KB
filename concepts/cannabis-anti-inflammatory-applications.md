@@ -3,7 +3,7 @@ title: Cannabis Anti-Inflammatory Applications
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "Blesching - The Cannabis Health Index"
+  - "Blesching - The blesching-cannabis-health-index-autoimmune-conditions"
 type: concept
 tags: [cannabis]
 ---
@@ -30,7 +30,7 @@ The ECS is centrally involved in the body's inflammatory response:
 CB2 receptors, found primarily on immune cells, are key mediators of the anti-inflammatory response. Activation of CB2 receptors:
 
 - Initiates potent anti-inflammatory actions
-- Provides protection from oxidative stress
+- Provides protection from [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]
 - Reduces inflammatory cytokine production, associated with slower healing
 - Involves reduction of NF-kappa-B and AP-1 inflammatory mediators
 
@@ -96,7 +96,7 @@ The Cannabis Health Index highlights the role of (E)-beta-caryophyllene-containi
 - Black and white Ashanti peppers (52-58% BCP content)
 - Indian bay-leaf (25% BCP content)
 - Alligator pepper / Grains of Paradise (22% BCP content)
-- Black pepper (7-19% BCP content)
+- [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]] (7-19% BCP content)
 - Basil, cinnamon, rosemary, caraway, Mexican oregano, and clove
 
 These spices activate CB2 receptors without psychoactive effects, providing a dietary approach to inflammation management.

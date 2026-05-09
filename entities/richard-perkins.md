@@ -26,7 +26,7 @@ sources:
 
 ## Overview
 
-**Richard Perkins** is a British-born regenerative agriculture educator, farmer, author, and consultant, best known as the founder of **Ridgedale Permaculture** — a pioneering small-scale regenerative farm and education center established in Sweden in 2014. Perkins is widely recognized for his practical, systems-based approach to profitable small-scale farming, which integrates permaculture design, no-till market gardening, holistic management, pasture-based livestock, and agroforestry into a cohesive whole-farm planning framework. His work is particularly influential among smallholders, aspiring farmers, and homesteaders seeking to create ecologically regenerative and economically viable farm enterprises on modest land areas (typically 2–20 hectares).
+**Richard Perkins** is a British-born regenerative agriculture educator, farmer, author, and consultant, best known as the founder of **Ridgedale Permaculture** — a pioneering small-scale regenerative farm and education center established in Sweden in 2014. Perkins is widely recognized for his practical, systems-based approach to profitable small-scale farming, which integrates permaculture design, no-till market gardening, [[savory-holistic-management-overview]], pasture-based livestock, and agroforestry into a cohesive whole-farm planning framework. His work is particularly influential among smallholders, aspiring farmers, and homesteaders seeking to create ecologically regenerative and economically viable farm enterprises on modest land areas (typically 2–20 hectares).
 
 Perkins' book *Making Small Farms Work* (2015) and his extensive online educational content — including detailed farm walk videos, design case studies, and farm planning courses — have made him one of the most accessible and followed voices in the European regenerative agriculture movement. His emphasis on farm profitability, financial planning, and enterprise stacking distinguishes his work from much of the permaculture literature, which has historically been criticized for neglecting economic viability.
 
@@ -42,8 +42,8 @@ In 2014, Perkins and his family relocated to Sweden to establish Ridgedale Perma
 
 Key features of the Ridgedale farm system included:
 
-- **No-till market garden:** A 0.5-hectare intensive vegetable production area using permanent beds, occultation (solarization with silage tarps), compost mulching, and minimal soil disturbance to grow high-value vegetables, salad greens, and herbs for direct sale to local customers
-- **Pastured poultry:** Egg-laying hens in mobile coops following a rotational grazing pattern through the market garden and pasture areas, contributing fertility through manure deposition and pest control through insect consumption
+- **No-till market garden:** A 0.5-hectare intensive [[dry-gardening-unirrigated-vegetable-production-solomon]] area using permanent beds, occultation (solarization with silage tarps), compost mulching, and minimal soil disturbance to grow high-value vegetables, salad greens, and herbs for direct sale to local customers
+- **Pastured poultry:** Egg-laying hens in mobile coops following a [[comparison-rotational-grazing-vs-continuous-grazing]] pattern through the market garden and pasture areas, contributing fertility through manure deposition and pest control through insect consumption
 - **Holistic grazing:** Cattle and/or sheep managed according to Holistic Management principles, with high-density, short-duration grazing rotations designed to stimulate grass growth, cycle nutrients, and build soil carbon
 - **Agroforestry:** Integrated tree systems including shelterbelts, silvopasture, and food forest elements providing multiple yields (timber, fruit, fodder, biodiversity habitat)
 - **Water management:** Keyline-influenced water retention systems, including swales, ponds, and strategic tree planting to slow, spread, and sink surface water across the property
@@ -71,8 +71,8 @@ Perkins' self-published book *Making Small Farms Work* (2015) is one of the most
 - Whole-farm design methodology adapted from permaculture and Keyline Design principles
 - Market garden planning and production using no-till permanent bed systems
 - Enterprise analysis and financial planning for small farm businesses
-- Livestock integration in small-scale systems
-- Case studies from the Ridgedale Permaculture project
+- [[faires-livestock-integration-permaculture]] in small-scale systems
+- Case studies from the Ridgedale [[holzer-lebenshilfe-permaculture-project-for-disabled-people]]
 - Appendices with crop planning templates, enterprise budgets, and design checklists
 
 The book is notable for its direct, no-nonsense tone and its emphasis on generating real farm income — a perspective that Perkins argues is essential for the long-term adoption and scalability of regenerative practices.
@@ -113,7 +113,7 @@ Perkins' approach to regenerative agriculture is characterized by several distin
 Some criticisms and limitations of Perkins' approach include:
 
 - **Scale ceiling:** While effective for smallholders, the systems and enterprises Perkins advocates may not translate directly to larger-scale farming operations (50+ hectares)
-- **Nordic climate specificity:** Some of his production techniques and enterprise combinations are optimized for Northern European conditions and require significant adaptation for other climate zones
+- **Nordic climate specificity:** Some of his production techniques and enterprise combinations are optimized for Northern European conditions and require significant adaptation for other [[mollison-climate-zones-permaculture-strategies]]
 - **Labor intensity:** No-till market gardening at the scale demonstrated at Ridgedale requires significant manual labor, which may not be sustainable or desirable for all farmers
 - **Self-published research:** The financial and production data from Ridgedale, while valuable, comes from a single site over a limited number of years and has not been subject to peer-reviewed scientific validation
 

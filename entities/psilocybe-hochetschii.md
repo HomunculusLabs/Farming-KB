@@ -5,7 +5,7 @@ type: species
 tags: [psilocybin, agaric, tropical, hallucinogenic, fungi]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md]
+sources: sources: []
 ---
 
 # Psilocybe hochetschii
@@ -23,7 +23,7 @@ The species was described from collections made in tropical or subtropical regio
 - **Cap:** Small, typically less than 2 cm in diameter. Hygrophanous, shifting from a darker color when moist to a lighter straw or tan color as it dries. Surface may be slightly viscid when fresh.
 - **Gills:** Adnate to adnexed, initially pale grayish, darkening to purplish brown with spore maturity. Gills display moderate spacing.
 - **Stipe:** Slender, fragile, equal to slightly enlarged at the base. Whitish to pale brown, sometimes with a transient fibrillose partial veil.
-- **Spore Print:** Dark purple-brown to nearly black.
+- **[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Dark purple-brown to nearly black.
 
 ### Microscopic Features
 
@@ -60,7 +60,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +102,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -9,7 +9,7 @@ topics: pihkal, DOM, STP, phenethylamines, amphetamines, 2C-D, psychedelic, hist
 
 ## Overview
 
-DOM (4-methyl-2,5-dimethoxyamphetamine), known by the street name STP, occupies a central position in understanding the structure-activity relationship between phenethylamines (the 2C series) and amphetamines (the DO series). As PiHKAL entry #68, DOM illustrates how the addition of a single alpha-methyl group to a phenethylamine backbone transforms the pharmacological profile — increasing potency, extending duration, and shifting the character of the experience. The DOM/STP story also represents one of the most significant episodes in psychedelic drug history.
+DOM (4-methyl-2,5-dimethoxyamphetamine), known by the street name STP, occupies a central position in understanding the structure-activity relationship between phenethylamines (the 2C series) and amphetamines (the DO series). As [[2c-b-pihkal-entry-20]] #68, DOM illustrates how the addition of a single alpha-methyl group to a phenethylamine backbone transforms the pharmacological profile — increasing potency, extending duration, and shifting the character of the experience. The DOM/STP story also represents one of the most significant episodes in psychedelic drug history.
 
 ## Chemical Identity
 
@@ -55,7 +55,7 @@ A notable finding from DOM isomer studies: the R-isomer is the more active form 
 
 ### Distribution in Haight-Ashbury
 
-DOM was distributed widely in San Francisco's Haight-Ashbury district in mid-1967 under the name STP. The name was taken from the initials of a motor oil additive (Scientifically Treated Petroleum) and had no chemical relationship to the psychedelic compound. One self-proclaimed drug expert even published a book claiming that STP the motor oil additive was the same as STP the psychedelic, with properties related to LSD, mescaline, and amphetamines.
+DOM was distributed widely in [[shipibo-san-francisco-ceremonial-center-ucayali]]'s Haight-Ashbury district in mid-1967 under the name STP. The name was taken from the initials of a motor oil additive (Scientifically Treated Petroleum) and had no chemical relationship to the psychedelic compound. One self-proclaimed drug expert even published a book claiming that STP the motor oil additive was the same as STP the psychedelic, with properties related to LSD, mescaline, and amphetamines.
 
 ### The Dosage Problem
 
@@ -101,7 +101,7 @@ Clinical studies documented rapid tolerance development. Five volunteers given 6
 
 ### Positional Isomers (F-310 and F-320)
 
-UCSF researchers synthesized DOM positional isomers, named after motor oil additives:
+UCSF researchers synthesized [[shulgin-gamma-dom-positional-isomerism]] isomers, named after motor oil additives:
 - **F-310 (5-DOM)**: 2,4-dimethoxy-5-methylamphetamine — reported inactive at 20 mg
 - **F-320 (2-DOM)**: 4,5-dimethoxy-2-methylamphetamine — unknown activity in humans
 - **gamma-DOM (Z-7)**: 2,6-dimethoxy-4-methylamphetamine — active at 15-25 mg, duration 6-8 hours, described as "an interpretive drug, not simply an ASC opening"

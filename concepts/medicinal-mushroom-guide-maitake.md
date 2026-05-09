@@ -1,17 +1,18 @@
 ---
-title: Maitake (Grifola frondosa) — Medicinal Mushroom Guide
+title: Maitake (maitake-grifola-frondosa-comprehensive-profile) — gourmet-medicinal-mushroom-casing-layer-techniques Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mushrooms, medicine, health, immunology, mycology, preparation, species-profiles, pharmacology]
-sources: []
+sources:
+  sources: []
 ---
 
 # Maitake (Grifola frondosa)
 
 ## Overview
 
-Maitake, meaning "dancing mushroom" in Japanese, is a large polypore mushroom that grows at the base of oak trees and other hardwoods in temperate forests of North America, Europe, and Japan. The name reportedly comes from people dancing with joy upon finding it, given its excellent culinary qualities and medicinal value.
+Maitake, meaning "dancing mushroom" in Japanese, is a large polypore mushroom that grows at the base of oak trees and other hardwoods in temperate forests of [[psilocybin-north-america-pacific-northwest]], Europe, and Japan. The name reportedly comes from people dancing with joy upon finding it, given its excellent culinary qualities and medicinal value.
 
 Also known as "hen of the woods" due to its resemblance to a fluffed hen's feathers, maitake forms large, overlapping clusters of brownish-gray, fan-shaped caps that can weigh up to 50 pounds. It is both a prized edible and a potent medicinal mushroom.
 
@@ -40,7 +41,7 @@ Maitake is considered one of the most potent immune-activating mushrooms, with p
 - The D-fraction has been the subject of significant research, particularly by Dr. Hiroaki Nanba in Japan.
 - Demonstrated anti-tumor activity in animal models across multiple cancer types.
 - Enhances effectiveness of chemotherapy while reducing side effects.
-- Shown to activate immune cells at lower doses than many other medicinal mushrooms.
+- Shown to activate immune cells at lower doses than many other [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]].
 
 ## Metabolic Health
 
@@ -107,7 +108,7 @@ Maitake is commercially cultivated but considered one of the more challenging me
 - **Colonization:** 30-45 days at 72-78°F (22-26°C), high CO2.
 - **Fruiting initiation:** Requires a cold shock (drop to 55-65°F / 13-18°C) and high humidity (90-95%).
 - **Fruiting time:** 2-3 weeks after induction.
-- **Yield:** Biological efficiency of 30-50%.
+- **Yield:** [[stamets-biological-efficiency-yield]] of 30-50%.
 - Fresh air exchange is critical for proper cluster formation.
 
 Can also be inoculated into outdoor oak stumps or buried logs, fruiting in fall.
@@ -117,7 +118,7 @@ Can also be inoculated into outdoor oak stumps or buried logs, fruiting in fall.
 - Very safe with long culinary history.
 - May lower blood sugar — monitor closely with diabetes medications to avoid hypoglycemia.
 - May lower blood pressure — caution with antihypertensive drugs.
-- Immune-stimulating effects — use caution with autoimmune conditions and immunosuppressants.
+- Immune-stimulating effects — use caution with [[cannabis-autoimmune-conditions-detailed]] and immunosuppressants.
 - Avoid during pregnancy and breastfeeding (insufficient data, though culinary amounts are likely safe).
 - Rare allergic reactions in sensitive individuals.
 

@@ -1,5 +1,5 @@
 ---
-title: "Mineral Balance and Soil Fertility in Permaculture"
+title: "holmgren mineral balance soil fertility and Soil Fertility in permaculture"
 created: 2026-04-26
 tags:
   - soil
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+  sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: concept
 ---
 
@@ -33,7 +34,7 @@ matter and litter to humus.
 Holmgren extends Albrecht's concept to suggest this represents a biological
 optimum soil in which all plants will thrive. Within the constraints of climate,
 this balanced soil will support the most productive biological system in terms of
-total energy capture and storage -- nature's integrated and self-reinforcing
+total [[fukuoka-three-dimensional-solar-energy-capture-rice-paddy]] and storage -- nature's integrated and self-reinforcing
 design solution for maximum power of terrestrial life.
 
 ## The Fertility Matrix
@@ -47,7 +48,7 @@ reflected in poor food quality and increased rates of fertility loss.
 
 In Australia and other geologically old regions, natural rebuilding of balance
 may be very slow and may never recover the balance of virgin soils. As a result
-of persistence and/or luck, some land managers achieve the Holy Grail of balanced
+of persistence and/or luck, some land managers achieve the [[amanita-muscaria-holy-grail-theory-detailed]] of balanced
 but high fertility.
 
 ## Key Mineral Balances
@@ -98,7 +99,7 @@ determining how lush or woody vegetation will be:
 
 ## Organic Matter Quality
 
-Organic matter and composts made in different ways and with different ingredients
+[[savory-soil-organic-matter-and-decomposition-dynamics]] composts made in different ways and with different ingredients
 vary greatly in their quality as sources of soil fertility. Organic materials
 produced from a balanced system will maintain that system in balance if carefully
 recycled. Recycling within an unbalanced system will be successful to varying
@@ -129,4 +130,8 @@ At Melliodora, [[biodynamic-preparations]]) is the
 current focus, given that the basic mineral balance is considered reasonable.
 
 See also: [[holmgren-soil-humus-carbon-storage-rebuilding]],
-[[holmgren-living-soil-ethic]]
+holmgren-living-soil-ethic
+
+## See Also
+
+- [[holmgren-vegetation-patterns-biomass-fertility]]

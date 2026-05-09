@@ -11,7 +11,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-There is increasing concern about the use of peat as a growing medium. Peat is a dwindling natural resource, and excavating peat bogs on an industrial scale not only destroys unique habitats but is damaging to the wider environment. The organic gardening movement has been at the forefront of promoting peat-free alternatives.
+There is increasing concern about the use of peat as a growing medium. Peat is a dwindling natural resource, and excavating peat bogs on an industrial scale not only destroys unique habitats but is damaging to the wider environment. The [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] movement has been at the forefront of promoting peat-free alternatives.
 
 ## The Problem with Peat
 
@@ -25,7 +25,7 @@ There is increasing concern about the use of peat as a growing medium. Peat is a
 Many alternatives are available that are either completely peat-free or have reduced peat content:
 
 ### Growing Media
-- **Coir** — the preferred choice for propagation (seed sowing and rooting cuttings)
+- **Coir** — the preferred choice for propagation ([[hamilton-seed-sowing-techniques]] and [[cannabis-cloning-rooting-cuttings-method-clarke]])
 - **Bark-based mixes** — more suited for growing on established plants
 - **Wood chip products** — made from various wood materials
 - **Municipal green compost** — composted waste from green recycling centers
@@ -33,11 +33,11 @@ Many alternatives are available that are either completely peat-free or have red
 
 ### Soil Conditioning
 Peat does not need to be used as a soil improver because plenty of substitutes exist (see [[soil-conditioners-guide]]):
-- Composted pine bark (as mulch, not dug in)
+- Composted [[fukuoka-pine-bark-weevil-ecology]] (as mulch, not dug in)
 - Green compost from recycling programs
 - Worm-worked compost
 - Kelp/seaweed
-- Spent mushroom compost
+- [[staycare-spent-mushroom-compost-bioremediation]] compost
 - Spent hops
 
 ## Peat-Free Composts for Containers
@@ -61,7 +61,7 @@ Soil-conditioning peat-free products can be dug into soil or used as a mulch on 
 
 - [[soil-conditioners-guide]] — detailed guide to alternative soil conditioners
 - [[composting-materials-alternative]] — sourcing compost materials sustainably
-- peat free gardening — the broader movement toward sustainable growing media
+- [[comparison-coco-coir-cannabis-vs-peat-free-gardening]] gardening — the broader movement toward sustainable growing media
 
 ## See Also
 
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

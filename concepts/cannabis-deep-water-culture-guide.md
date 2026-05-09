@@ -1,5 +1,5 @@
 ---
-title: Cannabis Deep Water Culture (DWC) Guide
+title: Cannabis cannabis deep water culture guide (DWC) Guide
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -10,9 +10,9 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Cannabis Grow Bible, Greg Green (Ch. 9)
+Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, Greg Green (Ch. 9)
 
-Deep Water Culture (DWC), often called "the bubbler" in Greg Green's terminology, is a simple yet highly effective hydroponic growing method where plant roots are suspended directly in an oxygenated nutrient solution.
+Deep Water Culture (DWC), often called "the bubbler" in Greg Green's terminology, is a simple yet highly effective [[cannabis-grow-hydroponic-growing-systems]] method where plant roots are suspended directly in an oxygenated [[cannabis-nutrient-solution-preparation]].
 
 ## How DWC Works
 
@@ -67,7 +67,7 @@ DWC requires careful attention to nutrients:
 - Start at half-strength for seedlings, gradually increase
 - Monitor EC (electrical conductivity) and pH daily
 - Target pH: 5.5–6.0 (lower than soil due to direct root exposure)
-- Change the full reservoir every 1–2 weeks to prevent salt buildup and nutrient imbalance
+- Change the full reservoir every 1–2 weeks to prevent [[cervantes-salt-buildup-leaching-management]] and nutrient imbalance
 - Top off with fresh water between changes to maintain volume
 
 See [[cannabis-nutrient-lockout-and-ph]] for troubleshooting.
@@ -83,7 +83,7 @@ See [[cannabis-nutrient-lockout-and-ph]] for troubleshooting.
 ### Vegetative
 - Roots should be well-developed and reaching into the solution
 - Increase nutrient strength gradually (EC ~1.0–1.5)
-- 18/6 or 24/0 light schedule
+- 18/6 or 24/0 [[query-best-light-schedule-for-cannabis]]
 - See [[cannabis-hydroponic-systems]] — overview of all hydroponic methods
 - [[cannabis-ph-management-and-soil-flushing]] — pH management in hydroponics
 - [[aeroponics-guide]] — related mist-based growing method

@@ -1,5 +1,5 @@
 ---
-title: Optical Isomers Psychedelic Phenethylamines
+title: Optical optical isomers psychedelic phenethylamines Phenethylamines
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -14,7 +14,7 @@ sources:
 
 ## Overview
 
-One of the most important pharmacological findings documented in PiHKAL concerns the activity of optical isomers (enantiomers) of psychedelic amphetamines. The pattern of stereoselectivity reveals fundamental information about receptor binding mechanisms and distinguishes different pharmacological classes.
+One of the most important pharmacological findings documented in PiHKAL concerns the activity of optical isomers (enantiomers) of psychedelic amphetamines. The pattern of stereoselectivity reveals fundamental information about [[tihkal-receptor-binding-serotonin]] mechanisms and distinguishes different pharmacological classes.
 
 ## The General Pattern: R > S for Psychedelics
 
@@ -102,4 +102,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

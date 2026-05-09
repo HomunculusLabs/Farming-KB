@@ -44,7 +44,7 @@ Root beet forms produce a swollen hypocotyl and taproot that can be globular, cy
 
 Sugar beet roots typically weigh 0.5–1.0 kg and contain 16–20% sucrose by weight when mature.
 
-The leaves are large, glossy, and petiolate with a distinct midrib, arranged in a basal rosette during the vegetative stage.
+The leaves are large, glossy, and petiolate with a distinct midrib, arranged in a basal rosette during the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]].
 
 Swiss chard cultivars are selected for large, thickened leaf midribs that range in color from white to yellow, orange, and red.
 
@@ -58,9 +58,9 @@ Wild sea beet grows along coastal areas from the Atlantic coasts of Britain and 
 
 It tolerates high salinity and is commonly found on shingle beaches, cliff faces, and salt marshes.
 
-Cultivated forms are grown worldwide in temperate regions, with major production areas in Europe, North America, and Asia.
+Cultivated forms are grown worldwide in temperate regions, with major production areas in Europe, [[psilocybin-north-america-pacific-northwest]], and Asia.
 
-Sugar beet cultivation extends from approximately 30°N to 60°N latitude, requiring a growing season of 140–180 days for optimal sugar accumulation.
+Sugar beet cultivation extends from approximately 30°N to 60°N latitude, requiring a [[savory-growing-season-and-non-growing-season-management]] of 140–180 days for optimal sugar accumulation.
 
 ## Cultivation
 
@@ -74,7 +74,7 @@ Modern sugar beet varieties are monogerm (single-seeded), selected to eliminate 
 
 Table beet cultivars reach maturity in 50–70 days and are commonly direct-seeded at 2–3 cm depth in rows 30–50 cm apart.
 
-Swiss chard is among the most heat-tolerant leafy greens, capable of productive growth through summer in temperate climates where lettuce and spinach fail.
+Swiss chard is among the most heat-tolerant [[solomon-leafy-greens-growing]], capable of productive growth through summer in temperate climates where lettuce and spinach fail.
 
 ## Nutritional Value
 
@@ -94,7 +94,7 @@ Beta vulgaris contains betalains, a class of nitrogen-containing pigments found 
 
 Betalains are categorized into betacyanins (red-violet) and betaxanthins (yellow-orange), with betanin being the most abundant betacyanin in beetroot.
 
-Dietary nitrate from beetroot juice is metabolized to nitrite and nitric oxide, producing vasodilatory effects that have been shown to lower systolic blood pressure in clinical trials.
+Dietary nitrate from beetroot juice is metabolized to nitrite and nitric oxide, producing vasodilatory effects that have been shown to lower systolic blood pressure in [[mushroom-cancer-clinical-trials-overview]].
 
 The inorganic nitrate content of beetroot ranges from 250–500 mg per 100 g fresh weight, depending on cultivar and growing conditions.
 
@@ -102,7 +102,7 @@ Betaine (trimethylglycine), also named for this species, is abundant in beetroot
 
 ## Ecology and Applications
 
-Wild sea beet is a primary genetic resource for sugar beet breeding programs, contributing genes for disease resistance, stress tolerance, and yield improvement.
+Wild sea beet is a primary genetic resource for sugar beet breeding programs, contributing genes for disease resistance, [[fungal-lichen-stress-tolerance-and-poikilohydry]], and yield improvement.
 
 The species is a host for several economically significant pests including the sugar beet nematode (*Heterodera schachtii*) and the beet leafhopper (*Circulifer tenellus*).
 

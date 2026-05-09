@@ -1,5 +1,5 @@
 ---
-title: Design for Children and Education Gardens
+title: mollison designers design for children education gardens and Education Gardens
 created: 2026-04-28
 tags:
   - permaculture
@@ -24,10 +24,10 @@ productive growing system and a rich learning environment.
 
 Children's gardens should prioritise hands-on interaction over observation.
 Every element should be accessible at child height and scale. Pathways must be
-wide enough for group movement and wheelchair access. Raised beds at 40 to 60
+wide enough for group movement and wheelchair access. [[comparison-raised-beds-vs-hugelkultur]] at 40 to 60
 centimetres allow young children to reach the centre without stepping into the
 bed. Plantings should be dense, tactile, and responsive to encourage repeated
-engagement throughout [[soil-testing]], plant life cycles, insect
+engagement throughout [[soil-testing]], plant [[bloomfield-rust-fungi-life-cycles-barberry-wheat]], insect
 observation, and weather monitoring. Language through garden journals,
 observation writing, and [[mollison-designers-design-for-disaster-resilience]]
 - [[mollison-designers-snow-ice-and-winter-design-strategies]]
@@ -108,4 +108,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

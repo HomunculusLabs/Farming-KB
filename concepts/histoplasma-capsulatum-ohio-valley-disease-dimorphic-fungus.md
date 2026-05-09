@@ -1,0 +1,150 @@
+---
+title: Histoplasma capsulatum and Ohio Valley Disease
+source: Mr. Bloomfield's Orchard (Money, 2002)
+tags: [mycology, pathogen, histoplasmosis, dimorphic-fungus, respiratory-infection, bird-droppings]
+created: 2026-05-09
+---
+
+# Histoplasma capsulatum and Ohio Valley Disease
+
+Histoplasma capsulatum is a dimorphic [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] that causes
+histoplasmosis, also known as Ohio Valley disease or cave disease. It
+is one of the most common fungal respiratory infections in the United
+States, particularly in the Mississippi and Ohio River valleys, where
+the majority of the population has been exposed to its spores. The
+organism represents a remarkable example of thermal dimorphism, growing
+as a mold in the environment and transforming into a pathogenic yeast
+within the warm tissues of a mammalian host.
+
+## Geographic Distribution
+
+Histoplasmosis is endemic to:
+
+- The Ohio and Mississippi River valleys of the United States, where
+  an estimated 60-90% of residents have been exposed.
+- The Caribbean basin, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], and parts of South America.
+- Parts of Africa and Asia where the fungus is also present in soil.
+
+The name "Ohio Valley disease" reflects the concentration of cases in
+the American Midwest, though the pathogen is far more widespread than
+this regional designation suggests. Its association with bird and bat
+droppings ties it to caves, barns, [[faires-chicken-coops-tractors-and-breeding-guide]], and old buildings
+where accumulated guano provides a nitrogen-rich substrate.
+
+## Dimorphic Life Cycle
+
+Histoplasma capsulatum exhibits one of the most dramatic life cycle
+transitions among [[bloomfield-fungal-pathogens-and-parasites]]:
+
+### Environmental Phase (Mold)
+In soil enriched with bird or bat droppings, Histoplasma grows as a
+filamentous mold, producing macroconidia (8-15 μm) and microconidia
+(2-5 μm). The microconidia are small enough to become airborne when
+soil is disturbed, and they can remain suspended in air currents for
+extended periods. These are the infectious particles that, when
+inhaled, initiate disease in humans and other mammals.
+
+### Tissue Phase (Yeast)
+When microconidia reach the warm environment of the lungs (37°C), they
+undergo a morphological transformation into budding yeast cells
+(2-4 μm). This yeast form is adapted for survival within macrophages,
+the very immune cells that should destroy it. The yeast cells are
+ingested by alveolar macrophages but resist killing, instead
+replicating inside the phagolysosome.
+
+### Sexual Stage: Ajellomyces
+The teleomorph (sexual stage) of Histoplasma capsulatum is
+Ajellomyces capsulatus, discovered by Kwon-Chung. This discovery was
+significant because it confirmed that the pathogen is an ascomycete
+and provided tools for genetic study of its [[fungal-virulence-factors-host-immune-evasion]]. The
+production of ascospores in the sexual cycle contributes to genetic
+diversity in natural populations.
+
+## Pathogenesis
+
+### Primary Pulmonary Infection
+Infection begins when airborne microconidia are inhaled and reach the
+alveoli of the lungs. Most infections are asymptomatic or produce a
+mild, self-limited respiratory illness that may be mistaken for a cold
+or flu. In healthy individuals, cell-mediated immunity (particularly
+T-cell responses) controls the infection within weeks.
+
+### Disseminated Histoplasmosis
+In immunocompromised patients, particularly those with AIDS, the
+organism can escape pulmonary containment and disseminate throughout
+the body. Disseminated histoplasmosis is a life-threatening condition
+affecting the reticuloendothelial system, with involvement of bone
+marrow, liver, spleen, adrenal glands, and mucous membranes. Without
+treatment, mortality approaches 100% in severely immunocompromised
+patients. Approximately 5% of AIDS patients in endemic areas develop
+disseminated disease.
+
+### Calcified Lung Nodules
+In most healthy individuals who encounter the fungus, the immune system
+encapsulates the organism in calcified granulomas. These small,
+calcified nodules are often discovered incidentally on chest X-rays,
+appearing as "old healed histoplasmosis." They represent the fossil
+record of past infections and are so common in endemic areas that they
+can complicate the radiographic diagnosis of lung cancer.
+
+## Ecological Associations
+
+### Bird Droppings
+Histoplasma thrives in soil enriched with bird excrement, particularly
+from starlings, blackbirds, chickens, and pigeons. The birds
+themselves do not carry the disease (their body temperature is too
+high), but their droppings create ideal growing conditions. Outbreaks
+of histoplasmosis have been associated with:
+
+- Cleaning chicken coops, exploring caves with bat colonies, and
+  demolishing old buildings with roosting birds
+
+### Bats
+Unlike birds, bats can be infected with Histoplasma and may serve as
+reservoir hosts. Bat caves are among the most hazardous environments
+for histoplasmosis exposure. Spelunkers, archaeologists, and
+construction workers are at particular risk.
+
+## Immune Response
+
+The critical defense against Histoplasma is cell-mediated immunity.
+Macrophages activated by T-helper lymphocytes produce cytokines
+(particularly interferon-gamma) that enhance their ability to kill the
+intracellular yeast. Patients with defects in T-cell function, whether
+from HIV infection, organ transplantation, or immunosuppressive
+therapy, are at highest risk for disseminated disease.
+
+Interestingly, the fungus has evolved sophisticated mechanisms for
+intracellular survival. It modulates the phagolysosomal pH, acquires
+iron and calcium from the host, and expresses virulence factors that
+interfere with macrophage signaling pathways.
+
+## Diagnosis and Treatment
+
+Diagnosis requires a high index of suspicion in patients from endemic
+areas. Methods include fungal culture (which may take weeks),
+histopathology showing intracellular yeast within macrophages, antigen
+detection in urine and serum, and serological antibody testing.
+
+Treatment ranges from observation in mild cases to prolonged antifungal
+therapy with itraconazole or amphotericin B for severe or disseminated
+disease. Unlike Pythium, Histoplasma contains ergosterol and is
+susceptible to conventional antifungal agents.
+
+## The Ubiquity of Exposure
+
+As Nicholas Money observed from his home in Ohio, starling flocks
+chattering in honeysuckle bushes and splattering snow with berry
+stains are a reminder that fungal spores pass into human lungs every
+## See Also
+
+- [[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]] Pathogenesis](cryptococcus-neoformans-pathogenesis.md)
+- [Bloomfield Cryptococcus Opportunistic Mycoses](bloomfield-cryptococcus-neoformans-opportunistic-mycoses-aids.md)
+- [Dermatophyte Fungi and Human Disease](dermatophyte-fungi-human-disease.md)
+- [Pythium insidiosum and Pythiosis](pythium-insidiosum-oomycete-human-infection-pythiosis.md)
+- [Fungal Pathogen Cell Walls](alpha-1-3-glucan-fungal-pathogen-cell-walls.md)
+
+## See Also
+- [[pythium-insidiosum-oomycete-human-infection-pythiosis]]
+- [[dermatophyte-fungi-human-disease]]
+- [[fungal-pathogens-human-disease]]

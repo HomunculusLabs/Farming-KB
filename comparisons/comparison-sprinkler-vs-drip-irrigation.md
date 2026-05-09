@@ -1,10 +1,11 @@
 ---
-title: "Sprinkler vs Drip Irrigation"
+title: "comparison sprinkler vs drip irrigation Irrigation"
 created: 2026-04-28
 tags: [comparison, irrigation, water-management, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -22,14 +23,14 @@ health, disease pressure, and long-term operating costs.
 ## Sprinkler Irrigation
 [[drip-irrigation-guide]]
 Drip irrigation delivers water slowly and precisely to the plant root zone
-through a network of tubes, tape, and emitters. Water application rates are
+through a network of tubes, tape, and emitters. Water [[ingham-compost-tea-application-rates-and-timing]] are
 typically measured in gallons per hour per emitter rather than gallons per
 minute for sprinklers, resulting in exceptional water efficiency with minimal
 waste from evaporation, runoff, or wind drift. Drip systems maintain optimal
 soil moisture levels in the root zone while keeping foliage dry, which
 dramatically reduces fungal disease pressure on susceptible crops.
 
-Drip irrigation is particularly effective for intensive vegetable production,
+Drip irrigation is particularly effective for intensive [[dry-gardening-unirrigated-vegetable-production-solomon]],
 row crops, orchards, and container gardens where water conservation is a
 priority. The system can be combined with fertigation, delivering dissolved
 nutrients directly to the root zone with each watering cycle. Drip tape is
@@ -52,7 +53,7 @@ is minimal.
 | Foliage wetting | Yes (disease risk) | No (stays dry) |
 | Installation cost | Low to moderate | Moderate to high |
 | Maintenance | Low | Moderate (clog prevention) |
-| Frost protection | Yes | No |
+| [[holzer-frost-protection-techniques]] | Yes | No |
 | Best for | Pastures, orchards, lawns | Vegetables, row crops, containers |
 | Wind sensitivity | High | None |
 | Fertigation compatible | Limited | Excellent |
@@ -62,7 +63,7 @@ Sprinkler systems are the practical choice for large-scale field crops,
 pastures, and orchard floor irrigation where the coverage area makes drip
 cost-prohibitive. They excel in situations where frost protection is needed,
 such as berry and fruit orchards during spring bloom periods when
-temperatures drop near freezing. Solomon's design principles make sprinklers
+temperatures drop near freezing. Solomon's [[holmgren-permaculture-twelve-design-principles-framework]] make sprinklers
 accessible for homestead-scale applications where simplicity, flexibility,
 and the ability to cover diverse crop areas with one system are valued over
 maximum water efficiency. They are also preferred for germinating direct-
@@ -85,7 +86,7 @@ intensive vegetable beds, greenhouses, and high-value crops, with sprinklers
 handling pasture, orchard floor, and cover crop irrigation. Subsurface drip
 combined with occasional overhead sprinkling for salt leaching in arid
 regions is another effective combination that leverages the strengths of each
-method. Some market growers use drip tape under plastic mulch for their
+method. Some market growers use drip tape under [[jadam-plastic-mulch-problems]] for their
 primary cash crops while maintaining portable sprinkler systems for
 germination and establishment of direct-seeded succession plantings.
 

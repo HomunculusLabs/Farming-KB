@@ -28,11 +28,11 @@ In temperate climates, coleus is typically grown as an annual, as it is sensitiv
 
 Reports of psychoactive activity in *Coleus blumei* are scattered and somewhat ambiguous. The plant has occasionally been mentioned in ethnobotanical and underground literature as producing mild hallucinogenic or sedative effects when the fresh leaves are chewed or consumed, particularly the more colorful varieties.
 
-The psychoactive constituents of coleus, if any, have not been definitively identified. Some researchers have suggested that diterpenoids or other secondary metabolites present in the leaves may be responsible for the reported effects. The Lamiaceae family includes several species with well-documented psychoactive properties, including *[[mazatec-people]] of Oaxaca, Mexico. The absence of a clear Indigenous use tradition for *Coleus blumei* has led some ethnobotanists to regard its psychoactive reputation with skepticism.
+The psychoactive constituents of coleus, if any, have not been definitively identified. Some researchers have suggested that diterpenoids or other [[antifungal-secondary-metabolites-coprophilous-fungi]] present in the leaves may be responsible for the reported effects. The Lamiaceae family includes several species with well-documented psychoactive properties, including *[[mazatec-people]] of Oaxaca, Mexico. The absence of a clear Indigenous use tradition for *Coleus blumei* has led some ethnobotanists to regard its psychoactive reputation with skepticism.
 
 ## Phytochemistry
 
-Chemical analysis of *Coleus blumei* has identified numerous secondary metabolites, including abietane-type diterpenoids, phenolic compounds, flavonoids, and essential oils. Some of the diterpenoids isolated from coleus have shown biological activity in laboratory studies, including antimicrobial and anti-inflammatory properties.
+[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of *Coleus blumei* has identified numerous secondary metabolites, including abietane-type diterpenoids, phenolic compounds, flavonoids, and essential oils. Some of the diterpenoids isolated from coleus have shown biological activity in laboratory studies, including antimicrobial and anti-inflammatory properties.
 
 The specific compounds responsible for any psychoactive effects have not been conclusively determined. The variability in reported effects may be related to differences in chemotype between cultivars, as the considerable variation in leaf color and morphology across cultivars likely reflects underlying biochemical diversity.
 
@@ -41,7 +41,7 @@ The specific compounds responsible for any psychoactive effects have not been co
 Coleus was first introduced to European horticulture from Java in the mid-19th
 century by Dutch botanist Karl Ludwig Blume, for whom the species is named. It
 rapidly became a popular Victorian parlor plant and bedding annual throughout
-Europe and North America. By the 1880s, dozens of cultivars were available in
+Europe and [[psilocybin-north-america-pacific-northwest]]. By the 1880s, dozens of cultivars were available in
 commercial nursery catalogs. Interest in coleus waxed and waned over the
 following century, with a major revival occurring in the 1990s when plant
 breeders at the University of Georgia and commercial nurseries developed
@@ -56,7 +56,7 @@ Related: [[psychoactive-cacti-of-central-mexico]]
 
 The Lamiaceae family contains several species of ethnobotanical interest:
 
-- ***Salvia divinorum***: Potent psychedelic containing salvinorin A
+- ***[[golden-guide-salvia-divinorum-and-diviner-sage]]***: Potent psychedelic containing salvinorin A
 - ***Coleus blumei***: Occasionally reported as mild psychoactive (this species)
 - ***Lavandula* species**: Mildly sedative essential oils
 - ***Melissa officinalis***: Lemon balm with mild anxiolytic properties
@@ -64,11 +64,11 @@ The Lamiaceae family contains several species of ethnobotanical interest:
 
 ## Status and Availability
 
-*Coleus blumei* is widely available as an ornamental plant through garden centers, nurseries, and online retailers. It is not scheduled or regulated in any jurisdiction as a controlled substance, owing to the ambiguous and poorly substantiated nature of its psychoactive claims. The plant's legal status reflects the general scientific consensus that it does not pose a significant risk of abuse.
+*Coleus blumei* is widely available as an ornamental plant through [[solomon-garden-centers-seedling-traps]], nurseries, and online retailers. It is not scheduled or regulated in any jurisdiction as a controlled substance, owing to the ambiguous and poorly substantiated nature of its psychoactive claims. The plant's legal status reflects the general scientific consensus that it does not pose a significant risk of abuse.
 
 ## Research Needs
 
-The psychoactive properties of *Coleus blumei* remain a subject of speculation rather than scientific certainty. Rigorous phytochemical screening, receptor binding assays, and controlled human studies would be needed to determine whether the plant possesses genuine psychoactive constituents and, if so, to identify and characterize them.
+The psychoactive properties of *Coleus blumei* remain a subject of speculation rather than scientific certainty. Rigorous phytochemical screening, [[tihkal-receptor-binding-serotonin]] assays, and controlled human studies would be needed to determine whether the plant possesses genuine psychoactive constituents and, if so, to identify and characterize them.
 
 ## See Also
 
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

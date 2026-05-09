@@ -21,7 +21,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Bigelow, H.E. & Barr, D.P.S. (1977). "The genus Lyophyllum in North America." Mycologia Memoir 6: 1–60.
+  - Bigelow, H.E. & Barr, D.P.S. (1977). "The genus Lyophyllum in psilocybin-north-america-pacific-northwest." Mycologia Memoir 6: 1–60.
   - Consiglio, G. & Contu, M. (2001). "The genus Lyophyllum in Sardinia." Bollettino del Gruppo Micologico G. Bresadola 44: 19–28.
   - Kalamees, K. (2004). "Lyophyllum (Tricholomataceae) in Estonia." Folia Cryptogamica Estonica 41: 43–56.
   - Hibbett, D.S. et al. (2014). "Agaricomycetes." In: The Mycota VII Part A, Springer.
@@ -71,7 +71,7 @@ Nutritional analysis shows high protein content (approximately 25–30% of dry w
 
 ## Cultivation
 
-Commercial cultivation of *L. decastes* has been developed primarily in Japan and Korea. The species can be grown on supplemented sawdust substrates using methods similar to those for shiitake and oyster mushroom production.
+Commercial cultivation of *L. decastes* has been developed primarily in Japan and Korea. The species can be grown on [[oyster-mushroom-supplemented-sawdust-blocks]] substrates using methods similar to those for [[query-difference-between-shiitake-and-oyster-mushrooms]] mushroom production.
 
 Optimal substrate formulations combine hardwood sawdust (oak or beech) with wheat bran (10–20% dry weight) and calcium carbonate for pH adjustment to 6.0–6.5. Spawn run occurs at 20–22°C over 30–45 days.
 
@@ -83,7 +83,7 @@ Yields of 100–150 g per kg of dry substrate have been reported, though commerc
 
 As a facultative saprotroph and ectomycorrhizal symbiont, *L. decastes* occupies an unusual dual niche among agarics. The mycorrhizal association benefits host trees through enhanced nutrient uptake, particularly phosphorus and nitrogen mobilization from organic matter.
 
-In its saprotrophic mode, the species contributes to leaf litter decomposition and nutrient cycling on the forest floor. The dense mycelial networks formed by clustered growth can significantly accelerate organic matter breakdown in localized patches.
+In its saprotrophic mode, the species contributes to leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]] and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] on the forest floor. The dense [[fungal-mycelial-networks-nutrient-translocation]] formed by clustered growth can significantly accelerate organic matter breakdown in localized patches.
 
 The fungus serves as a food source for various forest invertebrates and mammals. Slugs and insects feed on the fruiting bodies, while rodents and deer may consume caps during peak fruiting. Spore dispersal is primarily wind-driven, with the clustered growth habit creating local spore concentration.
 

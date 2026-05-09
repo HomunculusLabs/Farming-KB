@@ -1,5 +1,5 @@
 ---
-title: "TB (4-THIOBUSCALINE; 3,5-DIMETHOXY-4-(n)-BUTYLTHIOPHENETHYLAMINE) -- PIHKAL Entry #149"
+title: "TB (4-THIOBUSCALINE; 3,5-DIMETHOXY-4-(n)-BUTYLTHIOPHENETHYLAMINE) -- 2c-b-pihkal-entry-20 #149"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -128,7 +128,7 @@ To a stirred solution of 19.5 g of
 14.5 g elemental bromine dissolved in 75 mL CH2Cl2. The evolution of
 HBr was evident, but the reaction was not exothermic. The reaction
 was allowed to stir for 1 h and then heated briefly to a reflux on the
-steam bath. It was then washed with H2O containing sodium
+[[scythian-cannabis-steam-bath-ritual]]. It was then washed with H2O containing sodium
 hydrosulfite which discharged the residual color. After washing with
 saturated brine, the solvent was removed under vacuum leaving 26.0 g
 of a pale amber oil. This was distilled at 120-140 deg C at 0.4 mm/Hg
@@ -138,7 +138,7 @@ C,H.
 To a solution of 11.5 mL diisopropylamine in 50 mL hexane that was
 (Additional synthesis details available in source.)
 ## Safety Notes
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 ## See Also
 ## See Also
 - [[qualitative-comments-methodology-pihkal]]

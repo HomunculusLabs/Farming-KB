@@ -5,7 +5,8 @@ updated: 2026-04-12
 type: entity
 tags: [person, mycology, academia]
 sources:
-  - raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
   - raw/papers/mycelium-running-stamets.md
   - raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md
   - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
@@ -16,18 +17,17 @@ sources:
 
 # Gary Lincoff
 
-Gary H. Lincoff is a renowned American mycologist and author, best known for *The National Audubon Society Field Guide to North American Mushrooms* (1981) and *Simon & Schuster's Guide to Mushrooms* — two of the most widely used mushroom identification references in North America.
+Gary H. Lincoff is a renowned American mycologist and author, best known for *The National Audubon Society Field Guide to [[growing-gourmet-north-american-reishi-species]] Mushrooms* (1981) and *Simon & Schuster's Guide to Mushrooms* — two of the most widely used [[psilocybin-mushroom-identification-guide]] references in North America.
 
 ## Key Works
 
 - **Audubon Field Guide to Mushrooms** — The standard photographic field guide for North American mycology, covering hundreds of species with color plates and descriptive text. Foundational for amateur and professional mycologists alike.
-- **Toxic and Hallucinogenic Mushroom Poisoning** (with D.H. Mitchell, 1977, Van Nostrand Reinhold) — An important reference on mushroom toxicity covering diagnosis and treatment protocols, including emesis procedures (15-30cc ipecac syrup followed by 500cc oral liquids) and gastric lavage recommendations for psilocybin poisoning.
+- **Toxic and [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]] Poisoning** (with D.H. Mitchell, 1977, Van Nostrand Reinhold) — An important reference on mushroom toxicity covering diagnosis and treatment protocols, including emesis procedures (15-30cc ipecac syrup followed by 500cc oral liquids) and gastric lavage recommendations for psilocybin poisoning.
 - **Simon & Schuster's Guide to Mushrooms** — Comprehensive taxonomic guide with detailed species descriptions.
 
 ## Contributions to Psilocybin Mycology
 
-Lincoff contributed to the discovery of *Psilocybe tampanensis* alongside [[steven-pollock]] — the species was found during a mushroom hunt near Tampa, Florida during a taxonomic conference. His photographic and taxonomic contributions are credited by [[paul-stamets]] as essential to *Psilocybin Mushrooms of the World*.
-
+Lincoff contributed to the discovery of *[[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]]* alongside [[steven-pollock]] — the species was found during a mushroom hunt near Tampa, Florida during a taxonomic conference. His photographic and taxonomic contributions are credited by [[paul-stamets]] as essential to *[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World*.
 
 ### Field Observations and Contributions
 
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

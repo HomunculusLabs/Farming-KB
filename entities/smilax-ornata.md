@@ -35,7 +35,7 @@ sources:
 
 It is the primary botanical source of commercial sarsaparilla root, historically used as a flavoring agent in beverages and as a traditional remedy across Mesoamerica.
 
-The species is native to tropical and subtropical regions from southern Mexico through Central America to northern South America and the Caribbean.
+The species is native to tropical and subtropical regions from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to northern South America and the Caribbean.
 
 ## Taxonomy and Morphology
 
@@ -71,7 +71,7 @@ It thrives in well-drained, humus-rich soils with pH 5.5–7.0 and annual rainfa
 
 Sarsaparilla root has been used medicinally in the Americas for over 500 years, with documented use by Aztec, Maya, and other Indigenous peoples.
 
-Traditional applications include treatment of skin conditions (psoriasis, eczema, ringworm), joint pain and rheumatism, and as a general tonic and blood purifier.
+Traditional applications include treatment of [[cannabis-for-skin-conditions-detailed]] (psoriasis, eczema, ringworm), joint pain and rheumatism, and as a general tonic and blood purifier.
 
 In Mexican folk medicine, root decoctions are consumed for kidney and urinary tract disorders, and as a diaphoretic for fevers.
 
@@ -95,7 +95,7 @@ Historical claims that sarsaparilla contains testosterone or directly boosts tes
 
 However, sarsasapogenin has been investigated as a precursor in semisynthetic steroid drug manufacturing for corticosteroids and sex hormones.
 
-In vitro studies demonstrate antimicrobial activity against *Staphylococcus aureus*, *Candida albicans*, and *Mycobacterium tuberculosis*.
+In vitro studies demonstrate antimicrobial activity against *Staphylococcus aureus*, *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*, and *Mycobacterium tuberculosis*.
 
 ## Cultivation and Harvest
 
@@ -119,9 +119,11 @@ As a ground-covering vine in secondary forests, it contributes to soil stabiliza
 
 ## See Also
 
+- [[smilax-regelii]]
+
 - dioscorea villosa
 - [[glycyrrhiza-glabra]]
-- [[damiana]]
+- [[turnera-diffusa]]
 - aralia racemosa
 - [[silybum-marianum]]
 - [[curcuma-longa]]

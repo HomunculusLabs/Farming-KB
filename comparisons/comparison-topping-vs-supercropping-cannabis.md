@@ -1,5 +1,5 @@
 ---
-title: "Topping vs Supercropping for Cannabis"
+title: "comparison topping vs supercropping cannabis for Cannabis"
 created: 2026-04-28
 tags: [comparison, cannabis, plant-training, yield, cultivation]
 date: 2026-04-25
@@ -28,7 +28,7 @@ damaging the inner tissue of cannabis stems by firmly squeezing and bending
 them until the tissue softens and the branch bends over at a roughly 90-degree
 angle. The plant heals the damage by forming a thickened "knuckle" or callus
 at the bend point, which is significantly stronger than the original stem.
-This technique is described in detail in Greg Green's Cannabis Grow Bible.
+This technique is described in detail in Greg Green's [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible.
 The benefits of supercropping are substantial and unique. The knuckle joint
 becomes much stronger than the original stem, better supporting heavy buds
 during flowering. Bending tall branches down reduces overall plant height
@@ -38,7 +38,7 @@ light, increasing the number of branches that develop into quality colas.
 Unlike topping, no plant material is removed, so there is zero growth lost
 during the recovery period.
 Supercropping requires careful technique and timing. The plant should be well-
-hydrated and in active vegetative growth, typically 3-6 weeks old. Branches
+hydrated and in active [[cannabis-vegetative-growth-stage]], typically 3-6 weeks old. Branches
 should be at least pencil-thickness to handle the stress. The technique
 involves selecting a branch, finding the desired bend point, and firmly
 pinching the stem between thumb and index finger while gently rolling and

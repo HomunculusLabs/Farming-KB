@@ -33,7 +33,7 @@ Proper ventilation is the most critical and most overlooked aspect of barn desig
 - Ridge vent at the peak + eave vents at the bottom creates natural convection
 - The goal is air exchange without drafts at animal level
 - Minimum air exchange: 4 complete air changes per hour
-- In cold weather: prevent drafts but maintain air quality
+- In cold weather: prevent drafts but maintain [[cervantes-air-quality-ventilation]]
 
 ### Ventilation Types
 
@@ -59,7 +59,7 @@ Proper ventilation is the most critical and most overlooked aspect of barn desig
 | Asphalt shingles | 20-30 years | Medium | Good, requires solid decking |
 | Slate | 100+ years | Very high | Excellent, very heavy |
 | Thatch | 20-40 years | Low-Medium | Traditional, good insulation, fire risk |
-| Living roof (green roof) | Varies | High | Excellent insulation, requires waterproof membrane |
+| Living roof ([[comparison-green-roof-vs-earth-sheltered]]) | Varies | High | Excellent insulation, requires waterproof membrane |
 | Tarp/canvas | 1-5 years | Low | Temporary, for run-in sheds |
 
 ### Roof Pitch
@@ -73,7 +73,7 @@ Proper ventilation is the most critical and most overlooked aspect of barn desig
 ### Foundation
 
 - Concrete slab: most durable, best for milking areas
-- Pier and beam: traditional, allows air circulation underneath
+- Pier and beam: traditional, allows [[stamets-growing-room-air-circulation-co2-management]] underneath
 - Concrete block: good for walls, set on poured footer
 - Stone: traditional, beautiful, labor-intensive
 
@@ -82,15 +82,15 @@ Proper ventilation is the most critical and most overlooked aspect of barn desig
 | Material | Insulation | Cost | Notes |
 |----------|-----------|------|-------|
 | Wood frame | Good (with insulation) | Medium | Most common, versatile |
-| Timber frame | Good (with infill) | Medium-High | Traditional, strong, beautiful |
+| [[comparison-bamboo-construction-vs-timber-frame-basics]] | Good (with infill) | Medium-High | Traditional, strong, beautiful |
 | Concrete block | Good (with furring) | Medium | Durable, fireproof, rodent-proof |
 | Pole barn | Poor-Moderate | Low-Medium | Fastest construction, no foundation needed |
-| Straw bale | Excellent | Low | Insulated, sustainable, needs plaster |
+| [[comparison-cob-construction-vs-straw-bale-construction]] | Excellent | Low | Insulated, sustainable, needs plaster |
 | Cob | Excellent | Very low | Sustainable, thick walls, long-lasting |
 
 ### Windows
 
-- South-facing: largest windows for passive solar heating
+- South-facing: largest windows for [[comparison-passive-solar-vs-earth-sheltered]] heating
 - East/west: moderate windows for cross-ventilation and light
 - North-facing: small or no windows (heat loss, wind exposure)
 - Hardware cloth over openings to prevent predator entry
@@ -129,10 +129,6 @@ Proper ventilation is the most critical and most overlooked aspect of barn desig
 | 12x12 run-in shed | Pole barn, metal roof | $500-1,500 |
 | 24x36 multi-purpose | Pole barn, metal roof, concrete floor | $5,000-15,000 |
 | 30x40 full barn | Timber frame, metal roof, partial concrete | $10,000-30,000 |
-| 40x60 dairy barn | Concrete block, metal roof, full concrete | $25,000-60,000 |
-
-Costs vary enormously by materials, region, and whether you build yourself or hire a contractor.
-
 ## Related Pages
 
 - [[natural-building]] -- cob, straw bale, earthbag alternatives

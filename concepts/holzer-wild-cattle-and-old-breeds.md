@@ -1,16 +1,17 @@
 ---
-title: Holzer Wild Cattle and Old Breeds
+title: Holzer holzer wild cattle and old breeds and Old Breeds
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
+  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Wild Cattle and Old Domestic Cattle Breeds
 
-[[natural-farm-permaculture-ethics-principles]] that emphasise the integration of livestock into productive landscapes.
+natural-farm-permaculture-ethics-principles that emphasise the integration of livestock into productive landscapes.
 
 ## Breeds at the Krameterhof
 
@@ -52,7 +53,7 @@ The choice of old and rare breeds reflects [[polyculture-design-hemenway]] at th
 
 Holzer has made a remarkable observation about cattle self-medication through careful, lengthy observation:
 
-- Animals with diarrhoea caused by intestinal parasites seek out and eat poisonous plants including lupins, monkshood, male fern, buttercups, and poisonous mushrooms
+- Animals with diarrhoea caused by intestinal parasites seek out and eat poisonous plants including lupins, monkshood, male fern, buttercups, and [[palmer-poisonous-mushrooms-deadly-species]]
 
 - Animals with access to a lush, diverse flora including poisonous mushrooms and plants stay healthy and no longer need to be wormed
 
@@ -74,7 +75,7 @@ The water buffalo at the Krameterhof have a unique relationship with the farm's 
 
 - [[holzer-aquaculture-fish-farming]]
 
-- [[chicken-integration-permaculture-guide]]
+- chicken-integration-permaculture-guide
 
 - [[polyculture-design-hemenway]]
 

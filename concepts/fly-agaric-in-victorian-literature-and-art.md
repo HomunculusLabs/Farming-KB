@@ -1,16 +1,16 @@
 ---
-title: Fly-Agaric in Victorian Literature and Art
+title: Fly-Agaric in fly agaric in victorian literature and art and Art
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "Letcher - Shroom: A Cultural History of the Magic Mushroom"
+  - "Letcher - Shroom: A shroom-cultural-history-hippie-revolution-and-counterculture of the Magic Mushroom"
 type: concept
 tags: [agar]
 ---
 
 # Fly-Agaric in Victorian Literature and Art
 
-The [[siberian-fly-agaric-shamanism-urine-recycling]], and its genuinely bizarre psychoactive effects made it a potent catalyst for creative and speculative minds throughout the nineteenth century.
+The [[siberian-fly-agaric-shamanism-urine-recycling]], and its genuinely bizarre psychoactive effects made it a potent catalyst for creative and speculative minds throughout the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]].
 
 ## The Siberian Travelogues
 
@@ -50,7 +50,7 @@ By the end of the century, the Victorian love of fairies had dwindled, and with 
 
 The question of whether Lewis Carroll intended the mushroom scene in Alice's Adventures in Wonderland (1865) as a pharmacological reference has generated considerable scholarly debate. The scene in question — Chapter V, "Advice from a Caterpillar" — depicts Alice encountering a blue hookah-smoking caterpillar perched atop an enormous mushroom. The caterpillar instructs Alice that one side of the mushroom will make her grow taller and the other will make her grow shorter. After experimenting, Alice finds that eating from the right side shrinks her to nine inches and eating from the left restores her normal size.
 
-The pharmacological reading was most influentially advanced by the ethnomycologist R. Gordon Wasson in his landmark book Soma: Divine Mushroom of Immortality (1968). Wasson argued that the Amanita muscaria was the identity of the mysterious Vedic soma, and further suggested that Carroll's mushroom was a deliberate reference to the fly-agaric's well-documented effects on perceived body size — the macropsia and micropsia that Cooke had popularised. This interpretation gained further traction in the 1970s and 1980s as psychedelic culture became mainstream.
+The pharmacological reading was most influentially advanced by the ethnomycologist R. Gordon Wasson in his landmark book Soma: Divine Mushroom of Immortality (1968). Wasson argued that the [[allegro-amanita-muscaria-properties-and-pharmacology]] was the identity of the mysterious Vedic soma, and further suggested that Carroll's mushroom was a deliberate reference to the fly-agaric's well-documented effects on perceived body size — the macropsia and micropsia that Cooke had popularised. This interpretation gained further traction in the 1970s and 1980s as psychedelic culture became mainstream.
 
 However, several scholars have pushed back against this reading. As Andy Letcher notes in Shroom: A Cultural History of the Magic Mushroom, there is no direct evidence that Carroll ever consumed fly-agaric or any other psychedelic substance. Carroll's diaries and letters are exhaustive and reveal a man who was, by Victorian standards, notably temperate: he opposed tobacco smoking, drank wine only sparingly, and used laudanum (tincture of opium) only occasionally for migraines, as was common practice. The pharmacological interpretation also overlooks the fact that Carroll was a mathematician and logician, and the mushroom scene can be read as an allegory for the relative nature of scale — a theme that recurs throughout the book in its sustained parody of Victorian mathematics education.
 
@@ -86,9 +86,9 @@ As the Victorian era drew to a close, the fly-agaric underwent its final cultura
 
 The process began with the fairy paintings of the 1850s and 1860s, which were widely reproduced as prints and engravings for domestic display. As the appetite for fairy painting diminished among adult audiences, publishers discovered that the same imagery — gossamer-winged fairies, enchanted forests, and, inevitably, red-and-white mushrooms — appealed enormously to children. By the 1880s and 1890s, a flourishing industry of illustrated children's books had emerged, many of which drew heavily on the visual vocabulary established by the fairy painters.
 
-The German and Eastern European tradition of depicting fly-agarics on Christmas cards and New Year's postcards reinforced the mushroom's association with childhood wonder and festive magic. The connection between the fly-agaric and Santa Claus — which some scholars have linked to Siberian shamanic traditions involving the mushroom, though this interpretation remains controversial — ensured that the mushroom maintained its visibility in popular culture long after the Victorians themselves had lost interest in its pharmacological properties.
+The German and Eastern European tradition of depicting fly-agarics on Christmas cards and New Year's postcards reinforced the mushroom's association with childhood wonder and festive magic. The connection between the fly-agaric and Santa Claus — which some scholars have linked to [[fly-agaric-siberian-shamanic-practice]] traditions involving the mushroom, though this interpretation remains controversial — ensured that the mushroom maintained its visibility in popular culture long after the Victorians themselves had lost interest in its pharmacological properties.
 
-By the turn of the twentieth century, the fly-agaric had been thoroughly domesticated. It appeared in Beatrix Potter's illustrations, in the flower fairy books of Cicely Mary Barker, and in the enchanted forests of Disney animation. Its journey from Siberian shamanic tool to Victorian literary symbol to children's book illustration is a remarkable case study in the cultural life of an organism whose psychoactive properties remained largely unknown to the very people who surrounded themselves with its image.
+By the turn of the [[coleman-louis-savier-twentieth-century-maraicher]], the fly-agaric had been thoroughly domesticated. It appeared in Beatrix Potter's illustrations, in the flower fairy books of Cicely Mary Barker, and in the enchanted forests of Disney animation. Its journey from Siberian shamanic tool to Victorian literary symbol to children's book illustration is a remarkable case study in the cultural life of an organism whose psychoactive properties remained largely unknown to the very people who surrounded themselves with its image.
 
 ## The Fly-Agaric in Victorian Science and Popular Botany
 

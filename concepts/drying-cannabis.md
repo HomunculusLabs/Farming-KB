@@ -21,7 +21,7 @@ and produces buds that taste sweet and smoke smooth.
 When buds dry too quickly, chlorophyll and other pigments, starches, and nitrates become
 trapped within plant tissue. This makes the bud taste "green," burn unevenly, and taste
 bad. Slow drying over five to seven days or longer allows moisture to evaporate evenly,
-pigments to break down, and THC to convert properly.
+pigments to [[query-can-fungi-break-down-plastic-pollution]], and THC to convert properly.
 
 When dried relatively slowly, over five to seven days or longer, moisture evaporates
 evenly into the air, yielding uniformly dry buds with minimal THC decomposition. Slowly
@@ -75,11 +75,11 @@ glands that fall from buds. Buds dry slower in boxes because the air flow is red
 - **Temperature:** 65-75 degrees F (18-24 degrees C)
 - **Humidity:** 45-55 percent relative humidity
 - **Light:** Dark or very dim -- light degrades THC
-- **Airflow:** Gentle, constant air circulation; no direct fan on buds
+- **Airflow:** Gentle, constant [[stamets-growing-room-air-circulation-co2-management]]; no direct fan on buds
 - **Duration:** 5-7 days for average buds; 3-4 days longer for large, dense buds
 
 Circulation and ventilation fans will help control heat and humidity and keep them at
-proper levels. An air conditioner is ideal to "dial in" temperature and humidity in
+proper levels. An air conditioner is ideal to "dial in" [[greg-green-temperature-and-humidity-control]] in
 warm climates. Do not train fans directly on drying plants; it causes them to dry
 unevenly.
 
@@ -98,13 +98,13 @@ unevenly.
 - **High humidity:** Promotes mold growth
 - **Stagnant air:** Prevents even moisture evaporation
 
-Inspect drying buds daily for any signs of fungus, mold, and spider mites. Fungus and
+Inspect [[cervantes-drying-buds-methods]] daily for any signs of fungus, mold, and [[cervantes-spider-mites-identification-control]]. Fungus and
 spider mites can also migrate from dead plants to live ones -- do not dry plants in the
 same room where live plants grow.
 
 ## Fast Drying Methods (Not Recommended)
 
-Several fast-drying methods exist (oven, microwave, food dehydrator, silica gel) but all
+Several fast-drying methods exist (oven, microwave, food dehydrator, [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]]) but all
 produce inferior results. Buds that dry quickly burn hot; the smoke is harsh, and they
 taste "green" when smoked. These methods should only be used in emergencies.
 

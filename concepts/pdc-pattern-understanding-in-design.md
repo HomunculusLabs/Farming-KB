@@ -1,5 +1,5 @@
 ---
-title: Pattern Understanding in Design
+title: bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture in Design
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,7 +10,7 @@ tags: [design]
 
 # Pattern Understanding in Design
 
-As Permaculture Principle #4 says, design from patterns to details. Nature works on a vast array of simple patterns which result in highly complex systems. For example DNA is based on four nucleotides that combine in simple ways, which give rise to a double helix, which gives rise to life in all its complexity. Simple patterns are the stuff of nature.
+As Permaculture Principle #4 says, [[permaculture-principle-design-from-patterns-to-details]] to details. Nature works on a vast array of simple patterns which result in highly complex systems. For example DNA is based on four nucleotides that combine in simple ways, which give rise to a double helix, which gives rise to life in all its complexity. Simple patterns are the stuff of nature.
 
 ## Two Types of Patterns
 
@@ -23,7 +23,7 @@ When does rain fall, how does water flow down a hill, how do plants grow in shad
 
 ## Reading Patterns
 
-A Permaculture Designer must learn to read patterns. Permaculture Principle #6 calls for us to observe and interact -- both parts are necessary to properly read patterns. Observation allows you to see the pattern, and interaction allows you to understand how the pattern changes in response to external stimulus. If you do X to the existing patterns, what new patterns emerge on the site? What happens to the energy of the old patterns?
+A Permaculture Designer must learn to read patterns. Permaculture Principle #6 calls for us to [[holmgren-observe-and-interact-detailed]] -- both parts are necessary to properly read patterns. Observation allows you to see the pattern, and interaction allows you to understand how the pattern changes in response to external stimulus. If you do X to the existing patterns, what new patterns emerge on the site? What happens to the energy of the old patterns?
 
 Observation involves much more than just the eyes. You observe with all of your senses and all of your mind. How does it smell, how does it sound, what does it remind you of. Close your eyes and just listen to the site, take long slow inhales and learn what the site smells like.
 
@@ -33,7 +33,7 @@ But be careful -- observation is not the same as interpretation. This grass is b
 
 A designer not only learns to read patterns, a designer learns to create a pattern language to aid in the design process. By creating a pattern language a designer can make simple, small patterns that when combined can create a larger more complex design. The pattern language of a Permaculture Design is created in response to the Permaculture analysis.
 
-A pattern language becomes like building legos -- taking simple repeating patterns and connecting them together to create larger intricate structures. In Permaculture Design the legos will be ecological. A designer may determine that the average person requires a 6x6 garden space and a 500 sq ft structure facing south, then plug in the number of people to determine total requirements. The elements of this new pattern language must themselves mesh into the existing patterns of the site.
+A pattern language becomes like building legos -- taking simple repeating patterns and connecting them together to create larger intricate structures. [[mollison-rabbits-in-permaculture-design-and-soil-preparation]] the legos will be ecological. A designer may determine that the average person requires a 6x6 garden space and a 500 sq ft structure facing south, then plug in the number of people to determine total requirements. The elements of this new pattern language must themselves mesh into the existing patterns of the site.
 
 ## Patterns in Design Application
 
@@ -47,7 +47,7 @@ Observing the effects that designs have on existing patterns on the site may be 
 
 ## Invisible Structures and Patterns
 
-There is a strong correlation between the concepts of invisible structures and behavioral patterns. By reading patterns one can come to see the invisible structures which govern our world and shape our lives. Invisible structures include systems of governance, rules, cultural traditions, economic patterns, and community organization. These invisible structures often have more influence on whether a design succeeds than the physical elements themselves.
+There is a strong correlation between the concepts of invisible structures and behavioral patterns. By reading patterns one can come to see the invisible structures which govern our world and shape our lives. Invisible structures include systems of governance, rules, cultural traditions, economic patterns, and [[savory-community-organization-and-shared-grazing]]. These invisible structures often have more influence on whether a design succeeds than the physical elements themselves.
 
 Placing a physical structure in a design will create an invisible structure around it. The designer must be able to identify the micro-climates generated by physical structures and create a design that integrates those micro-climates into an ecologically harmonious whole system. Designing invisible structures entails understanding not only the patterns that govern nature such as seasons, behavior of animals, and micro-climates but also the types of patterns that govern human behavior.
 
@@ -77,7 +77,7 @@ from any point to the main channel while using the least total material.
 (phyllotaxis). The herb spiral is the classic permaculture application, condensing multiple
 microclimates into a small vertical space. Spiral patterns in water management can slow flow
 velocity and encourage sediment deposition.
-- **Net and web patterns**: Spider webs, mycelial networks, and neural connections demonstrate
+- **Net and web patterns**: Spider webs, [[fungal-mycelial-networks-nutrient-translocation]], and neural connections demonstrate
 how net patterns efficiently connect many points with minimal material. In design, net
 patterns inform the placement of swales, intercropping layouts, and social network design
 for community resilience.
@@ -85,8 +85,8 @@ for community resilience.
 waves, electromagnetic radiation). Scatter patterns describe how seeds, spores, and offspring
 distribute themselves for optimal colonization. Designers use scatter patterns when
 positioning trees, placing guilds, and planning seed ball distribution for
-[[pdc-pattern-understanding-and-design-application]]
-- [[pdc-invisible-structures-and-social-design]]
+pdc-pattern-understanding-and-design-application
+- pdc-invisible-structures-and-social-design
 - [[permaculture-farm-design-principles]]
 - [[permaculture-principle-design-from-patterns-to-details]]
 - [[permaculture-farm-design-principles]]

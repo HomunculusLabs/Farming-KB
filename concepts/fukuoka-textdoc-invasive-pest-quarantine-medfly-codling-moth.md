@@ -1,5 +1,5 @@
 ---
-title: Invasive Pest Quarantine and the Mediterranean Fruit Fly Threat
+title: [[fukuoka-textdoc-absence-no-fertilizer-tests]] invasive pest quarantine medfly codling moth Quarantine and the comparison-olive-vs-fig-vs-pomegranate-mediterranean-fruit-trees Fly Threat
 created: 2026-04-28
 tags: [fukuoka, natural-farming, pest-management, quarantine, invasive-species, medfly, codling-moth, food-security]
 date: 2026-04-28
@@ -11,19 +11,19 @@ type: concept
 
 # Invasive Pest Quarantine and the Mediterranean Fruit Fly Threat
 
-Masanobu Fukuoka warned decades ago that the liberalization of international fruit trade
+[[masanobu-fukuoka]] warned decades ago that the liberalization of international fruit trade
 would inevitably introduce catastrophic invasive pests into Japan, specifically the
 Mediterranean fruit fly (Ceratitis capitata) and the codling moth (Cydia pomonella).
 His analysis framed this threat within his broader critique of human agricultural systems
-that disrupt natural ecological balance through commercial pressures and technological
+that disrupt natural [[fukuoka-ecological-balance-principles]] through commercial pressures and technological
 interventions that ignore ecological consequences.
 
 ## The Two Pests of Concern
 
 ### Mediterranean Fruit Fly (Medfly)
 
-The medfly maggots attack an extraordinarily wide host range that extends far beyond
-citrus. Fukuoka documented that this pest targets Japanese citrus trees, pears, peaches,
+The medfly maggots attack an extraordinarily wide [[powdery-mildews-erysiphaceae-diversity-host-range]] that extends far beyond
+citrus. Fukuoka documented that this pest targets Japanese [[fukuoka-textdoc-search-natural-form-citrus-trees]], pears, peaches,
 apples, and melons. Beyond fruits, it also attacks vegetables including eggplants,
 tomatoes, and cucumbers. Essentially all major fruit and vegetable crops grown in
 Japan fall within its host range.
@@ -39,7 +39,7 @@ establishment an existential threat to diversified farming systems.
 
 The codling moth ravages apples, pears, and other fruit of the rose family (Rosaceae).
 While its host range is narrower than the medfly, its impact on the core temperate
-fruit crops makes it a severe threat to Japanese [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique|critique of biological control]]
+uncommon specialty [[uncommon-specialty-fruit-crops-for-permaculture]] permaculture makes it a severe threat to Japanese [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique|critique of biological control]]
 as another layer of technological dependency. The sterile insect technique, for instance, requires mass rearing
 facilities, quality control systems, and repeated releases, all of which represent
 ongoing costs and potential failure points.
@@ -51,7 +51,7 @@ quarantine or chemical control but growing healthy crops in balanced ecological
 systems grounded in the [[fukuoka-textdoc-no-pesticide-principle-insect-balance]] principle
 holds that disease and pest problems arise primarily from unhealthy growing
 conditions rather than from the mere presence of pest organisms. A farm operating
-within natural ecological balance would be more resilient to pest establishment
+within natural [[fukuoka-bushman-world-ecological-balance]] would be more resilient to pest establishment
 than a conventional farm, even when facing novel invasive species.
 
 ## The Broader Lesson on Ecological Interconnection

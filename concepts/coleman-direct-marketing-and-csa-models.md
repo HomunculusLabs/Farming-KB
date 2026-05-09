@@ -1,5 +1,5 @@
 ---
-title: Direct Marketing and CSA Models
+title: coleman direct marketing and csa models and CSA Models
 created: 2026-04-28
 tags:
   - direct-marketing
@@ -21,7 +21,7 @@ locally grown produce through direct channels that allow the customer to
 recognize and value the difference. As organic certification became
 industrialized and the word "organic" lost its distinctive meaning,
 Coleman shifted emphasis to the words "fresh" and "local" as the key
-marketing advantages for small family farms.
+marketing advantages for small [[fukuoka-lundberg-family-farms-natural-rice-transition]].
 
 ## The Fresh and Local Advantage
 
@@ -34,7 +34,7 @@ growers. The small-scale local grower produces a more finely crafted
 product through meticulous attention to soil care, superior compost, and
 variety selection than can the large-scale shipper.
 
-The winter harvest offers an additional marketing advantage: highly
+The [[coleman-claytonia-winter-harvest-cultivation]] offers an additional marketing advantage: highly
 colored foods grown under cool conditions have been shown to be much
 higher in anthocyanins, valuable antioxidants. This nutritional
 superiority provides a compelling marketing story alongside freshness.
@@ -48,7 +48,7 @@ enhancing the shopping experience. Restaurant customers love early baby
 leeks and other specialty items. Chefs immediately recognized the quality
 and marketing cachet of serving a "local" salad, further gratified by
 the freshness compared to week-old imported products with short remaining
-shelf life.
+[[psilocybin-shelf-life-stability]].
 
 Tomatoes bring in three times more dollar value than any other single
 crop at the farm stand, and their customer appeal justifies the effort
@@ -75,7 +75,7 @@ quality.
 
 ## The CSA Winter Opportunity
 
-Coleman identifies winter harvesting as a logical step for farms that
+Coleman identifies [[coleman-winter-harvesting-techniques]] as a logical step for farms that
 market through CSA or subscriber models. Instead of trying to increase
 the number of members served each year, farms could increase the number
 of months during which they supply food to their current customers. A

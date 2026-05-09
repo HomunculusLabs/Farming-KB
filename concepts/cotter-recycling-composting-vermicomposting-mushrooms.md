@@ -18,11 +18,11 @@ cultivation resource.
 
 ## Cultivating on Spent Coffee Grounds
 
-Cultivating oyster mushrooms on spent coffee grounds is among the simplest
+Cultivating [[query-how-to-grow-oyster-mushrooms-at-home]] on spent coffee grounds is among the simplest
 recycling projects. If home brewing does not supply enough, local coffee shops
 and roasters often welcome the opportunity to divert grounds from trash.
 Unused grounds should be frozen to prevent mold. While yields are lower than
-commercial wheat straw or cotton waste substrates, the near-zero production cost
+commercial wheat straw or cotton [[tropical-mushroom-cultivation-agricultural-waste-substrates-poverty-alleviation]], the near-zero production cost
 makes this method economically competitive.
 
 ### Step-by-Step Process
@@ -68,7 +68,7 @@ starter culture.
 ## Cultivating on Clothing
 
 Natural plant fiber materials including cotton, hemp, bamboo, sisal rope, old
-shirts, and bits of rugs can support oyster mushroom fruiting. This method has
+shirts, and bits of rugs can support oyster [[ectomycorrhizal-mushroom-fruiting-ecology]]. This method has
 potential value in disaster scenarios where debris is abundant but food is
 scarce. Soak clothing in fresh water (free of heavy metals), sprinkle spawn
 sparingly, roll tightly or stack in layers, and place in a container with a few
@@ -79,8 +79,8 @@ ventilation and misting once colonization is complete to induce fruiting.
 
 ### The Concept
 
-Mycovermicomposting combines mushroom cultivation with worm composting
-(vermicomposting) into an integrated system. Spent mushroom substrate, fully
+Mycovermicomposting combines [[accessible-mushroom-cultivation-for-disabilities]] with worm composting
+(vermicomposting) into an integrated system. Spent [[gourmet-medicinal-mushroom-substrate-preparation]], fully
 colonized with mycelium, is a preferred food source for red composting worms
 (*Eisenia fetida*). The sweet-smelling metabolites attract worms from a
 distance. Worm castings are, ounce for ounce, among the most effective natural
@@ -131,7 +131,7 @@ Spent mushroom substrate can be pressed into forms to create insulation or
 living paper products that need only water to begin composting. These products
 represent additional revenue streams that extend the utility of mushroom
 cultivation waste. The full cycle, from waste input to food harvest to soil
-regeneration, exemplifies circular economy principles applied at any scale.
+regeneration, exemplifies [[zeri-circular-economy-systems]] principles applied at any scale.
 
 ## See Also
 

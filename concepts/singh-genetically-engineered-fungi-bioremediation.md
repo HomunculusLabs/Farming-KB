@@ -1,5 +1,5 @@
 ---
-title: Genetically Engineered Fungi for Bioremediation
+title: singh genetically engineered fungi bioremediation Fungi for Bioremediation
 created: 2026-04-28
 tags:
   - mycoremediation
@@ -16,7 +16,7 @@ type: concept
 
 # Genetically Engineered Fungi for Bioremediation
 
-Genetic engineering of fungi for bioremediation encompasses modifying
+[[fukuoka-textdoc-genetic-engineering-critique-warning]] of fungi for bioremediation encompasses modifying
 fungal genomes to enhance degradation, transformation, or sequestration of
 environmental contaminants. Advances in fungal genetics and synthetic
 biology have created new possibilities for tailored fungal strains, while
@@ -47,7 +47,7 @@ Laboratory evolution under selective pressure generates improved variants
 through error-prone PCR, DNA shuffling of homologous enzymes, and display
 technologies for high-throughput screening. Directed evolution has
 produced [[singh-fungal-biosorbents-mycosorption-mechanisms]]; enhanced antioxidant defenses;
-extremophile traits from thermophilic or halophilic fungi; and trehalose
+extremophile traits from thermophilic or [[halotolerant-halophilic-fungi-saline-environments]]; and trehalose
 biosynthesis for desiccation resistance.
 
 ## Host Organisms and Transformation

@@ -1,5 +1,5 @@
 ---
-title: "Cannabis, Deep Relaxation, and the Healing Response"
+title: "Cannabis, blesching cannabis deep relaxation healing, and the Healing Response"
 created: 2026-04-28
 tags: [cannabis, relaxation-response, mind-body-medicine, stress-reduction, nitric-oxide, anandamide, cardiovascular, meditation]
 date: 2026-04-28
@@ -11,15 +11,15 @@ type: concept
 
 # Cannabis, Deep Relaxation, and the Healing Response
 
-The first section of Chapter V in The Cannabis Health Index explores the science and practice of deep relaxation as a healing modality, with particular attention to how the [[blesching-cannabis-cortisol-stress-endocannabinoid-system]]
+The first section of Chapter V in The [[blesching-cannabis-health-index-autoimmune-conditions]] explores the science and practice of deep relaxation as a healing modality, with particular attention to how the [[blesching-cannabis-cortisol-stress-endocannabinoid-system]]
 - Decreased heart rate and resting blood pressure
 - Lowered blood sugar levels
-- Increased production of nitric oxide, which dilates major blood vessels
+- [[fukuoka-textdoc-increased-production-not-increased-yields]] of nitric oxide, which dilates major blood vessels
 - Reduction in respiratory rate and oxygen consumption
 
 These changes are particularly important for patients with cardiovascular illnesses and those suffering from adult-onset [[anandamide-aea]], the endogenous cannabinoid produced by nerve cells, contributes to the relaxation response. Anandamide has been shown to induce the widening of coronary arteries (which supply the heart), thus reducing hypertension. This vasodilatory effect potentially benefits numerous patient populations with cardiovascular conditions.
 
-If these findings are confirmed in human trials, it would suggest that patients can learn to actively direct a relaxation response by engaging the [[endocannabinoid-system]] with plant cannabinoids may deepen the response
+If these findings are confirmed in human trials, it would suggest that patients can learn to actively direct a relaxation response by engaging the [[cannabis-health-endo-cannabinoid-system]] with plant cannabinoids may deepen the response
 
 ## Cannabis Strain Selection for Deep Relaxation
 
@@ -113,3 +113,7 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[blesching-cannabis-fractured-bones-cbd-healing]]
+- [[blesching-cannabis-asthma-bronchodilation-thc]]

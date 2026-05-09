@@ -58,7 +58,7 @@ As an endogenous psychotogen candidate, DMT does not produce tolerance upon repe
 
 DMT is extraordinarily widespread in nature:
 - **Piptadenia peregrina** and **P. macrocarpa**: Beans and pods (cohoba snuff)
-- **Mimosa hostilis**: Roots (jumera/vinho de jurema drink)
+- **[[entheogen-jurema-mimosa-hostilis-ethnobotany]]**: Roots (jumera/vinho de jurema drink)
 - **Phalaris** species (reed canarygrass): Pasture grasses
 - **Acacia** species: Africa and Australia
 - **Virola** species: Amazon basin snuffs (yakee, yato, parica, epena, nyakwana)
@@ -104,6 +104,8 @@ In a Hungarian study, administration of the serotonin antagonist **UML-491** (me
 Shulgin notes that DMT's extraordinary natural distribution has led to the observation that "DMT is everywhere." Beyond the well-known plant sources, DMT and related compounds have been found in marine sponges (*Smenospongia auria* and *S. echina*), in grasses of the genus *Phalaris* (reed canarygrass), and in the venom of the Sonoran Desert Toad (*Bufo alvarius*). Its presence as an endogenous human compound further blurs the line between "drug" and "natural neurotransmitter."
 
 ## See Also
+
+- [[tihkal-5meo-dmt-pharmacology]]
 
 - [[tihkal-introduction-and-methodology]]
 - [[tryptamine-family-overview]]

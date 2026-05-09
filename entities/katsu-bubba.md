@@ -13,7 +13,7 @@ sources:
   - Leafly Staff (2024). "Katsu Bubba Weed Strain Information." Leafly.com.
   - AllBud (2024). "Katsu Bubba Marijuana Strain." AllBud.com.
   - Mammen, T. et al. (2018). "Cannabis Chemotaxonomy: A Review." Cannabis and Cannabinoid Research 3(1): 52-64.
-  - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency Over the Last Two Decades." Biological Psychiatry 79(7): 613-619.
+  - ElSohly, M.A. et al. (2016). "Changes in [[green-cannabis-potency-maximizing]] Over the Last Two Decades." Biological Psychiatry 79(7): 613-619.
 created: 2026-05-07
 ---
 
@@ -33,7 +33,7 @@ OG Kush contributes its signature terpene profile of myrcene, limonene, and cary
 
 The strain is believed to be approximately 70 to 80 percent indica, though precise ratios vary depending on the specific cut or seed line. Some phenotypes lean more heavily toward the OG Kush sativa influence, producing slightly more balanced effects.
 
-The bubba lineage brings Afghani indica genetics that contribute to the strain's compact growth habit and resinous flower production. This genetic foundation makes Katsu Bubba well-adapted to both indoor grow operations and Mediterranean outdoor climates.
+The bubba lineage brings Afghani indica genetics that contribute to the strain's [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit and resinous flower production. This genetic foundation makes Katsu Bubba well-adapted to both indoor grow operations and Mediterranean outdoor climates.
 
 Multiple cut versions of Katsu Bubba have circulated in California medical cannabis circles since the early 2010s. Phenotypic variation between cuts can be significant, with some expressing more purple coloration and others emphasizing the OG Kush terpene profile.
 
@@ -43,7 +43,7 @@ Katsu Bubba produces medium to large, dense buds with a classic indica structure
 
 The coloration ranges from deep forest green to dark purple, particularly in cooler growing conditions that activate anthocyanin production. Bright orange pistils wind through the calyxes, creating strong visual contrast against the dark foliage.
 
-A thick coating of milky-white trichomes covers the flower surface, often extending onto the sugar leaves and small fan leaves adjacent to the bud. This heavy resin production gives the flowers a frosted, crystalline appearance and indicates high cannabinoid content.
+A thick coating of milky-white trichomes covers the flower surface, often extending onto the sugar leaves and small fan leaves adjacent to the bud. This heavy [[cannabis-glandular-trichome-types-resin-production-clarke]] gives the flowers a frosted, crystalline appearance and indicates high cannabinoid content.
 
 ## Aroma and Flavor
 
@@ -81,9 +81,9 @@ Medical applications include chronic pain management, insomnia, anxiety reductio
 
 Katsu Bubba can be cultivated both indoors and outdoors, though indoor cultivation allows for better control of environmental conditions and yields. The flowering period is approximately 8 to 9 weeks, consistent with its kush heritage.
 
-Indoor yields range from 300 to 400 grams per square meter under optimal conditions. The plants respond well to low-stress training techniques such as Sea of Green (ScrOG), which can improve light penetration and overall yield.
+Indoor yields range from 300 to 400 grams per square meter under optimal conditions. The plants respond well to low-stress [[cannabis-training-techniques-comparison]] such as Sea of Green (ScrOG), which can improve light penetration and overall yield.
 
-The strain is moderately resistant to common molds and pests but can be sensitive to over-fertilization, particularly nitrogen during the flowering phase. Proper nutrient management and adequate airflow are essential for maximizing resin production.
+The strain is moderately resistant to common molds and pests but can be sensitive to over-fertilization, particularly nitrogen during the [[green-cannabis-grow-bible-flowering-phase-and-harvest]]. Proper [[green-cannabis-grow-bible-nutrient-management-ppm]] and adequate airflow are essential for maximizing resin production.
 
 Temperature control during late flowering can enhance the purple coloration that some phenotypes express. Nighttime temperatures below 15°C during the final two weeks of flowering promote anthocyanin development, resulting in more visually striking buds.
 
@@ -99,6 +99,6 @@ In rare cases, the strain's potent sedative effects can produce anxiety or paran
 
 - [[granddaddy-purple]]
 - [[cannabis-blue-dream]]
-- [[wedding-cake-cannabis]]
+- [[wedding-cake]]
 - [[zookies-cannabis]]
 - [[runtz-entity]]

@@ -16,7 +16,7 @@ type: entity
 
 ## Overview
 Lentinan is a purified beta-glucan polysaccharide extracted from the
-fruit bodies of Lentinula edodes (Shiitake mushroom). It was one of
+fruit bodies of [[staycare-lentinula-edodes-in-bioremediation]] (Shiitake mushroom). It was one of
 the first mushroom-derived compounds to be approved as an anticancer
 drug, receiving pharmaceutical approval in Japan where it remains an
 important adjuvant treatment for several cancers. Lentinan is a T-cell
@@ -52,7 +52,7 @@ involves:
 - Demonstrated strong anti-tumour activity in wide range of xenograft
   models
 - Proven to prolong survival in patients with gastric and colorectal
-  cancers in human clinical trials
+  cancers in human [[mushroom-cancer-clinical-trials-overview]]
 - Effective by both intravenous and oral administration routes
 - No significant side effects reported across extensive clinical use
 - Used as an adjuvant to standard chemotherapy and radiotherapy
@@ -62,7 +62,7 @@ Has completed Phase I, II, and III clinical trials, primarily in
 Japan. Used extensively as an adjunct to standard radiotherapy and
 chemotherapy. Demonstrates the ability to significantly reduce side
 effects of conventional cancer treatments when co-administered.
-The safety profile has been exhaustively characterised through
+The [[cannabis-safety-profile-and-overdose-risk]] has been exhaustively characterised through
 acute, subacute, and chronic toxicity tests, mutagenicity assays,
 and haemolysis tests with no adverse findings.
 

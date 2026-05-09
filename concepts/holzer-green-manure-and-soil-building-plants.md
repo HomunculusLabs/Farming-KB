@@ -1,16 +1,16 @@
 ---
-title: Holzer Green Manure and Soil Building Plants
+title: Holzer comparison-green-manure-guide-vs-mulch-types-and-effects and Soil Building Plants
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - "raw/papers/sepp-holzer-practical-guide.md"
+  sources: []
 ---
 
 # Holzer Green Manure and Soil Building Plants
 
-Sepp Holzer places enormous importance on soil building through green manure crops, permanent plant cover, and minimal soil disturbance. His approach is detailed in [[holzer-kitchen-garden-layout-and-traditional-gardening]] and [[holzer-polycultures-catch-crop-combinations]] around fruit trees include nitrogen-fixing shrubs, aromatic herbs, and [[holzer-farming-philosophy]]. Healthy soil is the foundation of everything else: productive [[holzer-grafting-fruit-forest]], and effective [[holzer-green-manure-crop-compendium]]
+[[comparison-sepp-holzer-vs-biodynamic]] places enormous importance on soil building through green [[green-manure-crops-detailed]], permanent plant cover, and minimal soil disturbance. His approach is detailed in [[holzer-kitchen-garden-layout-and-traditional-gardening]] and [[holzer-polycultures-catch-crop-combinations]] around [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] include nitrogen-fixing shrubs, aromatic herbs, and [[holzer-farming-philosophy]]. Healthy soil is the foundation of everything else: productive [[holzer-grafting-fruit-forest]], and effective [[holzer-green-manure-crop-compendium]]
 - holzer green manure and soil building plants
 - [[holzer-vegetable-garden-polycultures]]
 - [[holzer-problem-plant-regulation]]
@@ -142,4 +142,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

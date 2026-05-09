@@ -11,7 +11,7 @@ type: concept
 # Palmer on Boleti Identification and Edibility
 
 The Boleti — pore-bearing fungi with sponge-like surfaces beneath their
-caps — were among Palmer's favorite edible mushrooms. He noted that with
+caps — were among Palmer's favorite [[palmer-edible-mushrooms-north-america]]. He noted that with
 mycophagists they were "great favorites" and that in Europe they formed
 "a prominent article of food," though in America they were at that time
 "rarely eaten" and poorly known by the general public.
@@ -47,7 +47,7 @@ should put him on his guard.
 ## Safety Record of the Boleti
 
 Palmer made the striking assertion that there was "no recorded case of
-death from toadstool poisoning that has been traced to a boletus." He
+death from [[palmer-toadstool-poisoning-cases]] that has been traced to a boletus." He
 acknowledged that some contained a bitter, acrid, or slimy principle
 that was hurtful, but these yielded to ordinary remedial agents
 suggested by the symptoms.
@@ -109,7 +109,7 @@ Palmer frequently discussed the Boleti alongside the [[amanita-genus-morphology]
 ## European vs American Usage
 
 Palmer noted the striking difference between European and American
-attitudes toward Boleti. In Italy, France, and Germany, Boleti were
+[[weil-cultural-attitudes-toward-altered-states]] Boleti. In Italy, France, and Germany, Boleti were
 regularly gathered for the table and were considered among the finest
 edible fungi. In America, despite their abundance in woods and
 pastures, they were almost entirely ignored. Palmer attributed this

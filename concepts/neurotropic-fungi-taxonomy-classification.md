@@ -1,4 +1,4 @@
-# [[ibotenic-acid-entity]] and its decarboxylation product muscimol, which act on GABA receptors rather
+# ibotenic-acid-entity and its decarboxylation product muscimol, which act on GABA receptors rather
 than serotonin receptors, producing sedative, dissociative, and ataxic effects distinct
 from the psilocybin-containing species. *[[claviceps-purpurea]]* (the classic ergot
 fungus) and related species (*C. nigricans*, *C. paspali*, *C. rolfesii*, *C. tripsicii*)
@@ -17,29 +17,29 @@ misidentification.
 
 The Panaeoloideae — dung-inhabiting mushrooms including *Panaeolus*, *Copelandia*, and
 *Panaeolina* — present particular classification challenges. Many species in this group
-are commonly found growing together in cattle dung, making field identification difficult.
+are commonly found growing together in [[psilocybe-cubensis-cattle-dung-substrate-introduction-americas-guzman-1998]], making field identification difficult.
 The authors noted that *Panaeolus antillarum*, a non-neurotropic edible species, is
 "frequently erroneously identified as *Copelandia* spp. by those people who use the
 fungi as a drug" because both present white fruit bodies and grow in the same substrate.
 
 The chemical status of many Panaeoloideous species remains uncertain. *Conocybe
-siligineoides*, reported as a sacred mushroom in Mexico by Heim and Wasson in 1958, has
+siligineoides*, reported as a [[allegro-the-sacred-mushroom-amanita-identification]] in Mexico by Heim and Wasson in 1958, has
 never been chemically analyzed despite being one of the original species identified in
-the Mexican mushroom ceremonies. It was collected only once, in 1955, and has not been
+the Mexican [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]]. It was collected only once, in 1955, and has not been
 found since despite extensive fieldwork.
 
 ## Significance of the Survey
 
 This taxonomic survey established a more rigorous foundation for the study of neurotropic
 fungi by distinguishing confirmed neurotropic species from erroneously reported ones,
-organizing species by chemical group, and documenting the geographic distribution patterns
+organizing species by chemical group, and documenting the geographic [[guzman-global-distribution-patterns-neurotropic-fungi]]
 that suggest centers of diversity in subtropical and tropical regions. The authors'
 identification of 116 *Psilocybe* species — 39% of the world's total found in Mexico
 alone — highlighted Mesoamerica as the primary center of diversity for these fungi and
 for the indigenous cultures that use them ceremonially.
 ## Practical Applications
 
-Neurotropic Fungi Taxonomy Classification has a range of practical applications that make it relevant to
+[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] [[palmer-mushroom-taxonomy-classification-system]] has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -114,4 +114,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

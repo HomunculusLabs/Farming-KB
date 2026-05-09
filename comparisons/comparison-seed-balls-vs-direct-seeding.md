@@ -1,10 +1,11 @@
 ---
-title: Seed Balls vs Direct Seeding
+title: Seed Balls vs comparison-seed-starting-indoors-vs-direct-seeding-techniques
 created: 2026-04-28
 date: 2026-04-25
 updated: 2026-04-25
 tags: [comparison, seeds, propagation, no-till, guerrilla-gardening]
 sources:
+  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: comparison
 ---
@@ -27,7 +28,7 @@ broad dispersal or precision and high germination rates.
 
 Seed balls are small spheres made from a mixture of clay, compost, and seeds in 
 approximately a 5:1:1 ratio by volume. The technique was developed and 
-popularized by Masanobu Fukuoka as part of his natural farming system. The clay 
+popularized by Masanobu Fukuoka as part of his [[comparison-natural-farming-vs-permaculture]] system. The clay 
 protects seeds from predation by birds, insects, and rodents while holding 
 moisture around the seed during germination. The compost provides initial 
 nutrients for the emerging seedling. Seed balls require no soil preparation 
@@ -88,7 +89,7 @@ native species and grains that can tolerate variable germination conditions.
 Seed balls are also an excellent educational tool for children and community 
 groups, as the hands-on process of making and scattering them is engaging and 
 accessible. In permaculture systems, seed balls are valuable for establishing 
-understory plants in food forests and spreading beneficial insect habitat 
+understory plants in food forests and spreading [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] habitat 
 plants throughout a property.
 
 ## When to Choose Direct Seeding
@@ -96,11 +97,11 @@ plants throughout a property.
 Direct seeding is the correct choice when maximum germination and optimal plant 
 performance are the priorities. It is essential for root crops like carrots, 
 parsnips, and radishes that cannot be transplanted without damaging the root. 
-Choose direct seeding for your main vegetable garden beds where soil 
+Choose direct seeding for your main [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] beds where soil 
 preparation is feasible and you want reliable, uniform stands. Market gardeners 
 and homesteaders depending on consistent harvests should use direct seeding for 
-their primary crops. It is also the best method for succession planting 
-throughout the growing season, where precise timing and spacing determine 
+their primary crops. It is also the best method for [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] 
+throughout the [[savory-growing-season-and-non-growing-season-management]], where precise timing and spacing determine 
 harvest continuity. Direct seeding gives you control over planting density, 
 allowing efficient use of limited garden space. Gardeners in areas with short 
 growing seasons benefit from the faster establishment that prepared beds and 

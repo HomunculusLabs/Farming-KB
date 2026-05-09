@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Purseglove, J.W. (1972). Tropical Crops: Monocotyledons. Longman Group.
+  - Purseglove, J.W. (1972). mollison-specialist-tropical-crops-forest-products: Monocotyledons. Longman Group.
   - Morton, J.F. (1987). "Arrowroot." In: Fruits of Warm Climates. Creative Resource Systems.
   - León, J. (1987). Botánica de los Cultivos Tropicales. IICA.
   - Bradbury, J.H. & Holloway, W.D. (1988). Chemistry of Tropical Root Crops. ACIAR Monograph No. 6.
@@ -25,7 +25,7 @@ The species is native to the Amazon basin and the Caribbean. Indigenous peoples 
 
 Arrowroot starch is valued for its neutral flavor, smooth texture, and high gel clarity. It is used as a thickening agent in sauces, gravies, desserts, and infant foods.
 
-Commercial production is concentrated in the Caribbean (St. Vincent and the Grenadines is the leading exporter), Brazil, and Southeast Asia. Global trade has declined since the mid-20th century due to competition from cornstarch and cassava starch.
+Commercial production is concentrated in the Caribbean (St. Vincent and the Grenadines is the leading exporter), Brazil, and [[psilocybe-southeast-asia-pacific]]. Global trade has declined since the mid-20th century due to competition from cornstarch and cassava starch.
 
 ## Taxonomy and Morphology
 
@@ -33,9 +33,9 @@ Commercial production is concentrated in the Caribbean (St. Vincent and the Gren
 
 The plant is an herbaceous perennial reaching 60–150 cm in height. It spreads via a branching rhizome system that forms the economically important underground organ.
 
-Leaves are broadly ovate to oblong, 15–30 cm long, with entire margins and a characteristic joint (pulvinus) at the base of the petiole. The upper leaf surface is dark green; the underside is pale green with fine pubescence.
+Leaves are broadly ovate to oblong, 15–30 cm long, with entire margins and a characteristic joint (pulvinus) at the base of the petiole. The upper [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is dark green; the underside is pale green with fine pubescence.
 
-The pulvinus enables nyctinastic leaf movement — leaves fold upward at night, a feature common to the Marantaceae. This movement is driven by turgor pressure changes in motor cells.
+The pulvinus enables nyctinastic leaf movement — leaves fold upward at night, a feature common to the Marantaceae. This movement is driven by [[bloomfield-turgor-pressure-and-hyphal-invasion]] changes in motor cells.
 
 Inflorescences are paired, slender panicles 5–10 cm long bearing small white to pale pink flowers. Flowering occurs sporadically throughout the year in tropical climates.
 
@@ -43,13 +43,13 @@ The rhizomes are cylindrical to fusiform, 5–25 cm long and 1–3 cm in diamete
 
 ## Distribution and Habitat
 
-The native range extends from northern South America through Central America to the Caribbean islands. Naturalized populations occur throughout tropical Africa, Southeast Asia, and the Pacific islands.
+The native range extends from northern South America through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to the Caribbean islands. Naturalized populations occur throughout tropical Africa, Southeast Asia, and the Pacific islands.
 
 The species thrives in warm, humid tropical environments with annual rainfall of 1200–2000 mm. It grows best at elevations below 500 m in partial shade to full sun.
 
 Natural stands often develop in forest clearings and along riverbanks. The plant's tolerance for partial shade allows it to be cultivated as an understory crop in agroforestry systems.
 
-Optimal soils are well-drained, loamy to sandy loam, with pH 5.0–6.5 and high organic matter content. The plant is intolerant of waterlogging and heavy clay soils.
+Optimal soils are well-drained, loamy to sandy loam, with pH 5.0–6.5 and high [[hamilton-composting-and-organic-matter-management]] content. The plant is intolerant of waterlogging and heavy clay soils.
 
 Temperature requirements include a mean annual minimum of 18°C and maximum of 30°C. Growth ceases below 15°C, and rhizomes are damaged by temperatures below 10°C.
 
@@ -111,5 +111,5 @@ The starch was used medicinally in European and American folk traditions as a re
 - [[dioscorea-alata]]
 - [[chenopodium-quinoa]]
 - [[portulaca-oleracea]]
-- [[typha-latifolia-entity]]
+- typha-latifolia-entity
 - [[zingiber-officinale]]

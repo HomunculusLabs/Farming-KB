@@ -1,5 +1,5 @@
 ---
-title: "Field Guide to Psilocybin Dosage, Extraction, and Cultivation"
+title: "ghouled-field-guide-historical-context to field guide psilocybin dosage extraction cultivation, Extraction, and Cultivation"
 created: 2026-04-28
 tags: [psilocybin, dosage, extraction, cultivation, mycology]
 date: 2026-04-28
@@ -10,8 +10,8 @@ type: concept
 
 # Field Guide to Psilocybin Dosage, Extraction, and Cultivation
 
-This page covers the practical aspects of psilocybin mushroom
-consumption, chemical extraction, and home cultivation as described
+This page covers the practical aspects of [[emcdda-psilocybin-mushroom-dose-and-effects]]
+consumption, chemical extraction, and [[mushroom-home-cultivation-history]] as described
 in F.C. Ghouled's 1972 field guide. The information reflects early
 1970s underground mycological practice and should be understood in
 its historical context.
@@ -27,13 +27,13 @@ compact since the straw aerates the mixture.
 
 ## Cultivation: Spawn Inoculation
 
-Prepare a spawn medium by composting horse manure enriched with
+Prepare a spawn medium by composting [[falconer-horse-manure-varieties]] enriched with
 malt-extract sugar. Shred, compost, and pack loosely into wide-mouth
 jars. Inoculate with pieces of a fresh cap of the desired strain.
 The mycelium will colonize the medium visibly. Once fully permeated,
 remove the colonized bulk from the jar and dry it to create **spawn**.
 Insert small chunks of spawn at regular intervals into the prepared
-compost bed, where they will grow to dominate the bed over several
+[[mushroom-compost-bed-systems-duggar]], where they will grow to dominate the bed over several
 weeks.
 
 ## Cultivation: Casing and Maintenance
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

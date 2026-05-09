@@ -1,5 +1,5 @@
 ---
-title: Water-Soluble Phosphoric Acid Preparation (Cho's Method)
+title: Water-Soluble cho water soluble phosphoric acid preparation Preparation (Cho's Method)
 created: 2026-04-28
 tags: [knf, input-preparation, mineral-nutrients]
 date: 2026-04-28
@@ -9,11 +9,11 @@ sources:
 type: concept
 ---
 
-Water-Soluble Phosphoric Acid (WS-PA) is a Natural Farming input
+Water-Soluble Phosphoric Acid (WS-PA) is a [[comparison-natural-farming-vs-permaculture]] input
 extracted from sesame stem charcoal. Phosphoric acid is a substance of
 the cell nucleus and a major element of the reproductive body of the
 plant. If the plant is deficient in phosphoric acid, cell division is
-hindered and reproductive growth suffers.
+hindered and [[knf-reproductive-growth-stage]] suffers.
 
 ## Importance of Phosphoric Acid
 
@@ -34,7 +34,7 @@ hindered and reproductive growth suffers.
 
 1. Charcoal from sesame stems
 2. Water
-3. Jar / Glass jar
+3. Jar / [[sterile-spore-print-collection-glass-jar-technique]]
 4. Porous paper (paper towel)
 5. Rubber band / thread
 

@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and Morning Sickness"
+title: "Cannabis and cho-morning-sickness-and-plant-cross-over-period"
 created: 2026-04-26
 tags:
   - cannabis

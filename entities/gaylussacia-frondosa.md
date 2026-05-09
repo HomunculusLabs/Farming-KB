@@ -38,7 +38,7 @@ The resinous dots on leaf surfaces are a distinctive feature of the genus *Gaylu
 
 When the resin dots are bruised, they release a faintly aromatic scent. Some observers describe the fragrance as reminiscent of apples or sweet resin. This characteristic can aid in field identification when combined with the leaf shape and habitat preferences.
 
-Vegetative propagation occurs primarily through rhizomes, which spread slowly outward from the parent plant. Individual clones can form patches several meters in diameter over many years. Sexual reproduction occurs through insect pollination, with bumblebees being the primary flower visitors.
+Vegetative propagation occurs primarily through rhizomes, which spread slowly outward from the parent plant. Individual clones can form patches several meters in diameter over many years. [[fungal-life-cycles-sexual-reproduction-metamorphosis]] occurs through insect pollination, with bumblebees being the primary flower visitors.
 
 ## Distribution and Habitat
 
@@ -62,7 +62,7 @@ The berries can be used in pies, jams, jellies, and other preparations similar t
 
 Some foragers consider the best approach to be pressing the berries through a food mill to separate the pulp from the hard seeds. The resulting puree can then be used in any recipe calling for blueberry filling or topping. This technique produces a smoother final product that retains the characteristic dangleberry flavor.
 
-Nutritional composition has not been extensively studied but is assumed to be similar to related Gaylussacia species. The berries likely contain moderate levels of vitamin C, dietary fiber, and phenolic compounds. Their primary limitation for culinary use is the hard seed coat, which persists even after cooking.
+[[dighton-fungal-nutritional-composition-animal-diets]] has not been extensively studied but is assumed to be similar to related Gaylussacia species. The berries likely contain moderate levels of vitamin C, dietary fiber, and phenolic compounds. Their primary limitation for culinary use is the hard seed coat, which persists even after cooking.
 
 The berries can also be used to make wine, vinegar, and fruit syrups. Some foragers report that the flavor improves after the first frost, similar to other wild berries. The relatively small berry size compared to cultivated blueberries limits commercial interest, but the species has potential for breeding programs aimed at combining hardiness with improved fruit quality.
 
@@ -76,7 +76,7 @@ The deciduous foliage provides browse for white-tailed deer, particularly in spr
 
 Eastern box turtles and other small reptiles may use dangleberry thickets for shelter and foraging habitat. The dense low growth provides protection from predators while allowing access to fallen fruit. The species contributes to the overall structural diversity of the forest understory.
 
-As an Ericaceae species, dangleberry forms ericoid mycorrhizal associations with soil fungi. These partnerships are essential for nutrient uptake in the acidic, nutrient-poor soils the species typically inhabits. The mycorrhizal connections also link dangleberry to the broader soil microbial community.
+As an Ericaceae species, dangleberry forms [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] associations with soil fungi. These partnerships are essential for nutrient uptake in the acidic, nutrient-poor soils the species typically inhabits. The mycorrhizal connections also link dangleberry to the broader soil [[edaphic-factors-microbial-community-structure]].
 
 Dangleberry contributes to the fuel load in fire-prone ecosystems such as pine flatwoods and pocosins. The deciduous foliage creates a flammable litter layer that can carry surface fires. Post-fire regeneration occurs readily from rhizomes, and the species often increases in cover after prescribed burning.
 
@@ -98,7 +98,7 @@ The genus *Gaylussacia* was historically more prominent in regional floras befor
 
 The species has ornamental value as a native landscape plant with attractive fall foliage color. Its tolerance of poor sandy soils and partial shade makes it suitable for naturalistic plantings and woodland gardens. A few native plant nurseries offer dangleberry for ecological restoration projects.
 
-Fall color ranges from yellow to orange to deep red, providing multi-season interest in cultivated settings. The relatively compact growth habit makes dangleberry suitable for smaller residential landscapes where larger shrubs would overwhelm the space. Companion planting with other native Ericaceae can create attractive and ecologically functional garden designs.
+Fall color ranges from yellow to orange to deep red, providing multi-season interest in cultivated settings. The relatively [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit makes dangleberry suitable for smaller residential landscapes where larger shrubs would overwhelm the space. [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] with other native Ericaceae can create attractive and ecologically functional garden designs.
 
 ## See Also
 
@@ -108,6 +108,6 @@ Fall color ranges from yellow to orange to deep red, providing multi-season inte
 - [[vaccinium-fuscatum]]
 - [[vaccinium-macrocarpon]]
 - [[vaccinium-myrtillus]]
-- [[arctostaphylos-uva-ursi]]
+- arctostaphylos-uva-ursi
 - [[vaccinium-ovatum]]
 - [[gaultheria-shallon]]

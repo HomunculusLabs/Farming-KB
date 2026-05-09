@@ -1,5 +1,5 @@
 ---
-title: ALEPH-6 (2,5-Dimethoxy-4-phenylthioamphetamine) - PIHKAL Entry #6
+title: ALEPH-6 (2,5-Dimethoxy-4-phenylthioamphetamine) - 2c-b-pihkal-entry-20 #6
 created: 2026-04-28
 tags: [pihkal, amphetamine, aleph-family, phenylthio-compound, psychedelic]
 date: 2026-04-28
@@ -80,7 +80,7 @@ C6H5 broad peak at 7.50 ppm, and CHO at 10.37 ppm.
 
 ### Step 3: Nitrostyrene
 Condensation with nitroethane (32 mL) and ammonium acetate
-(0.8 g) on steam bath for 21 h gave the nitrostyrene as
+(0.8 g) on [[scythian-cannabis-steam-bath-ritual]] for 21 h gave the nitrostyrene as
 gold-yellow crystals, mp 105-106 °C (5.3 g from recrystallization
 of 95% EtOH).
 
@@ -118,6 +118,9 @@ The two-carbon homologue, 2C-T-6
 synthesized or assayed.
 
 ## See Also
+
+- [[aleph-pihkal-entry-3]]
+- [[aleph-4-pihkal-entry-5]]
 
 - [[aleph-2-pihkal-entry-4]]
 - [[aleph-7-pihkal-entry-7]]

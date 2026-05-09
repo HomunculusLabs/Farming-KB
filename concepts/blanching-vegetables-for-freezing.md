@@ -17,7 +17,7 @@ Blanching is a critical step before freezing vegetables. It slows or stops the e
 
 ### Boiling
 1. Wash vegetables thoroughly and drain well
-2. Use 1 gallon (3.7 L) of water per pound (0.5 kg) of prepared vegetables, or 2 gallons per pound of leafy greens
+2. Use 1 gallon (3.7 L) of water per pound (0.5 kg) of prepared vegetables, or 2 gallons per pound of [[solomon-leafy-greens-growing]]
 3. Bring water to a rolling boil
 4. Lower food in with a wire basket, mesh bag, or metal strainer
 5. Water should return to boil in less than 1 minute -- if longer, too much food or too little water
@@ -101,5 +101,6 @@ Note: For corn, cooling time doubles after blanching.
 
 - [[root-cellaring-and-no-energy-food-storage]]
 - [[kitchen-composting-and-vermicomposting]]
-- [[faires-low-energy-cooking-and-food-preservation]]
-- [[mushroom-submerged-fermentation-pharmaceutical]]
+- faires-low-energy-cooking-and-food-preservation
+- mushroom-submerged-fermentation-pharmaceutical
+- [[vermicomposting]]

@@ -17,7 +17,7 @@ type: concept
 # Peroxisomes and the Ascomycete Lifestyle
 
 Peroxisomes are versatile organelles that have been exploited by
-Euascomycetes for the formation of Woronin bodies, specialised
+Euascomycetes for the formation of [[fungal-woronin-bodies-and-septal-pore-organization]], specialised
 organelles that function in septal-pore plugging. This represents a
 remarkable example of how fungi have co-opted a pre-existing organelle
 for a novel adaptive function central to multicellular hyphal
@@ -27,7 +27,7 @@ organisation.
 
 Peroxisomes are single-membrane-bound organelles found in virtually all
 eukaryotic cells. They carry out diverse metabolic functions including
-fatty acid beta-oxidation, hydrogen peroxide detoxification via catalase,
+fatty acid beta-oxidation, [[cervantes-hydrogen-peroxide-sterilization]] detoxification via catalase,
 and biosynthesis of plasmalogens and bile acids. Peroxisomal matrix
 proteins are imported post-translationally via peroxisome targeting
 signals (PTS-1 at the C-terminus and PTS-2 at the N-terminus). This
@@ -61,7 +61,7 @@ became convexo-concave and pores became blocked. Collinge and Markham
 (1985) established that Woronin bodies were responsible: in
 Penicillium chrysogenum, they rapidly plugged 90% of septal pores near
 damage sites versus only 5% in undamaged hyphae. The Woronin body
-resists intracellular turgor pressure to prevent protoplasmic bleeding
+resists intracellular [[bloomfield-turgor-pressure-and-hyphal-invasion]] to prevent protoplasmic bleeding
 through septal pores following cellular damage.
 
 ## HEX-1: the key structural protein
@@ -88,7 +88,7 @@ function, providing structural integrity to resist turgor pressure.
 
 ## Apical programming of Woronin body biogenesis
 
-Woronin body formation is programmed to occur in apical hyphal
+Woronin [[fungal-fruiting-body-formation-environmental-triggers]] is programmed to occur in apical hyphal
 compartments. Time-lapse confocal microscopy confirmed tip-cell
 localised formation. A fluorescent reporter from hex-1 regulatory
 sequences revealed a gradient maximal in apical cells, with endogenous
@@ -117,10 +117,10 @@ species with two isoforms produce smaller oval forms.
 ## Virulence and pathogenicity connections
 
 In Magnaporthe grisea, hex-1 mutants are defective in appressorium
-morphogenesis and invasive growth. The mutant displays hyphal death in
+morphogenesis and [[fungal-hyphae-invasive-growth-mechanisms]]. The mutant displays hyphal death in
 response to nitrogen starvation, and nitrogen starvation regulates
 HEX-1 splice variants. This suggests Woronin bodies provide an important
-defence system for fungal pathogens, potentially making them attractive
+defence system for [[bloomfield-fungal-pathogens-and-parasites]], potentially making them attractive
 targets for fungicide development.
 
 ## Evolutionary origins from eIF-5a
@@ -136,4 +136,7 @@ duplication drives evolutionary innovation.
 
 - [[gadd-fungal-cell-structure]]
 - [[gadd-aspergillus-fumigatus-glucan-virulence]]
-- [[fungal-environmental-sensing]]
+- fungal-environmental-sensing
+- [[neurospora-crassa]]
+- [[magnaporthe-grisea]]
+- [[penicillium-chrysogenum]]

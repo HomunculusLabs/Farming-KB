@@ -1,5 +1,5 @@
 ---
-title: "Yeast Diversity, Ecology, and Molecular Systematics"
+title: "biodiversity yeast diversity ecology, Ecology, and Molecular Systematics"
 created: 2026-04-28
 tags:
   - biodiversity-yeasts
@@ -46,7 +46,7 @@ colleagues (1990) and Vilgalys and Hester (1990).
 The 5S rRNA molecule (approximately 120 nucleotides) was widely used
 for broad phylogenetic estimates. Walker and Doolittle (1982) showed
 that 5S rRNA similarity among basidiomycetous yeasts correlated with
-septal pore type. Among ascomycetous yeasts, Schizosaccharomyces pombe
+[[fungal-woronin-bodies-and-septal-pore-organization]] type. Among ascomycetous yeasts, Schizosaccharomyces pombe
 was found to be phylogenetically distant from Saccharomyces cerevisiae.
 However, the informationally richer 18S and 26S rRNA molecules have
 now replaced 5S rRNA for most analyses. The 5.8S rRNA (about 160
@@ -91,7 +91,7 @@ distributed among six genera.
 
 Two morphologically distinct teleomorph states occur among
 basidiomycetous yeasts: one forming teliospores that germinate to
-produce a basidium with basidiospores (similar to rust and smut fungi),
+produce a basidium with basidiospores (similar to rust and [[biodiversity-smut-fungi-diversity]]),
 and another lacking teliospores with basidia developing directly on
 hyphae or yeast cells (similar to Tremellales). Phylogenetic analyses
 of 18S rDNA and D1/D2 of 26S rDNA place basidiomycetous yeasts in
@@ -132,11 +132,14 @@ Metschnikowia, previously thought to contain 10 species, actually
 includes 20 species illustrates how molecular methods reveal hidden
 diversity and eliminate perceived long-branch artifacts.
 
-## Related Topics
+## Related
+
+- [[biodiversity-mycetozoan-diversity]]
+- [[biodiversity-zygomycota-diversity]] Topics
 
 - [[biodiversity-fungal-genetic-diversity]] — genetic diversity
   patterns in fungal populations
 - [[biodiversity-basidiomycete-diversity-taxonomy]] — basidiomycete
   diversity including basidiomycetous yeasts
-- [[biodiversity-fungi-molecular-methods]] — general molecular
-  methods applied to fungal diversity studies
+- biodiversity-fungi-molecular-methods — general molecular
+  methods applied to [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] studies

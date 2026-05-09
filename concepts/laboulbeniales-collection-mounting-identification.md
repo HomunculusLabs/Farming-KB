@@ -21,7 +21,7 @@ The receptacle bears simple or branched appendages that may be sterile or fertil
 
 ## Collection Methods
 
-Field collection depends on collecting the hosts. Few thalli can be seen well in the field; success is judged only after microscopic examination of insects. Appropriate equipment includes:
+[[psilocybin-mushroom-field-collection-techniques]] depends on collecting the hosts. Few thalli can be seen well in the field; success is judged only after [[fungal-microscopic-examination-mounting-media-techniques]] of insects. Appropriate equipment includes:
 
 - Forceps with broad and fine points for handling living or dead insects
 - Knife, trowel, or strong tool for stripping bark, breaking logs, digging in soil
@@ -29,7 +29,7 @@ Field collection depends on collecting the hosts. Few thalli can be seen well in
 - Small funnel; hand lens; 70% alcohol for preservation
 - Aspirator for capturing small terrestrial insects (constructed from a plastic bottle with two holes drilled in lid, fitted with vinyl tubing and fine-mesh cloth barrier)
 - Sifter (hardware cloth with 8, 10, or 12 squares per inch) for separating insects from ground litter and detritus
-- Berlese funnel (10-12 inch diameter funnel with hardware cloth secured one-third down, suspended over 70% ethyl alcohol preservative) for extracting arthropods from field samples
+- Berlese funnel (10-12 inch diameter funnel with hardware cloth secured one-third down, suspended over 70% [[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]] preservative) for extracting arthropods from field samples
 - Deep, flat-bottomed insect nets for flies; small nets for aquatic insects
 - Light traps, flight-interception traps, and pitfall traps
 - Canopy fogging for specialized collecting
@@ -104,6 +104,6 @@ Parasitized insects stored in 70% alcohol with glycerol added to retard evaporat
 ## Related Topics
 
 - [[bark-beetle-fungi-ophiostomatales-collection-isolation]] — fungi associated with beetle hosts
-- [[fungal-molecular-identification]] — molecular approaches to identification
+- [[fungal-molecular-identification]] — [[staycare-molecular-approaches-fungal-bioremediation]] to identification
 - [[myxomycetes-slime-molds]] — fungal-like organisms sometimes dispersed by arthropods
 - [[microscope-identification-soil-organisms]]

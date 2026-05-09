@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's Theory of Civilizational Collapse and the Centrifugal-Centripetal Cycle
+title: Fukuoka's Theory of fukuoka textdoc civilizational collapse centrifugal centripetal cycle and the Centrifugal-Centripetal Cycle
 created: 2026-04-28
 tags:
   - fukuoka
@@ -56,11 +56,11 @@ Each of these developments represents a centrifugal movement away from the natur
 
 Fukuoka interprets environmental pollution not as a problem to be solved through better technology but as a symptom of the collapse phase. The fact that there are no non-polluting pesticides is not a failure of chemistry but a fundamental impossibility. Any substance that acts on one organism also acts, to a greater or lesser degree, on all others. Animal cells, plant cells, and microorganisms are basically all quite similar. When a pesticide that works on some insect is said to be harmless to plants and animals, this is merely a word game that plays on a very minor difference in resistance.
 
-The attitude of ready acceptance toward technologies that pose no immediate threat but may have greater repercussions complicates the problem and aggravates the dangers. People are satisfied if a substance poses no immediate threat and do not bother to consider the greater repercussions of its effects. This pattern repeats across all domains of scientific agriculture. The aerial spraying of mountain forests with herbicides, pesticides, and chemical fertilizers is considered a success if a given weed or insect pest is selectively killed, but this is a grave error that can prove most dangerous. Natural conservationists have already recognized such practices as polluting.
+The attitude of ready acceptance toward technologies that pose no immediate threat but may have greater repercussions complicates the problem and aggravates the dangers. People are satisfied if a substance poses no immediate threat and do not bother to consider the greater repercussions of its effects. This pattern repeats across all domains of [[fukuoka-critique-scientific-agriculture-civilization]]. The aerial spraying of mountain forests with herbicides, pesticides, and [[cervantes-chemical-fertilizers-guide]] is considered a success if a given weed or insect pest is selectively killed, but this is a grave error that can prove most dangerous. Natural conservationists have already recognized such practices as polluting.
 
 ## The Problem of Scale
 
-Fukuoka notes that scientific farming's achievements are always temporary because they operate on a limited spatial and temporal frame of reference. High-volume livestock farming appears efficient, but this is a nearsighted assessment. The pitiful sight of fowl, pigs, and cattle confined to cages and unable even to move bears witness to the loss of nature of these animals and points also to man's alienation from nature.
+Fukuoka notes that [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]'s achievements are always temporary because they operate on a limited spatial and temporal frame of reference. High-volume [[fukuoka-textdoc-natural-livestock-farming-open-grazing]] appears efficient, but this is a nearsighted assessment. The pitiful sight of fowl, pigs, and cattle confined to cages and unable even to move bears witness to the loss of nature of these animals and points also to man's alienation from nature.
 
 Both the farm worker engaged in raising livestock and the city dweller who consumes these products lose their health and humanity as they turn away from nature. Livestock production under factory-like conditions is generally thought to be efficient, but this is a nearsighted assessment based on a limited spatial and temporal frame of reference. Today's livestock, reduced to standardized machinery, no longer receives the strength and grace of nature.
 
@@ -84,7 +84,7 @@ One could fence off the entrance to one of those depopulated mountain villages t
 
 Fukuoka was careful to distinguish his vision from simple nostalgia or anti-technology sentiment. He was not advocating a return to primitive conditions or the rejection of all knowledge. Rather, he argued that the direction of civilization must shift from centrifugal expansion to centripetal contraction. This does not mean abandoning all technology but reorienting it toward harmony with nature.
 
-The key insight is that the same knowledge that enables centrifugal expansion, when applied with a different consciousness, can support centripetal contraction. Understanding soil ecology, for example, can be used either to exploit the soil more intensively or to restore its natural fertility. The difference lies not in the knowledge itself but in the intention and consciousness behind its application.
+The key insight is that the same knowledge that enables centrifugal expansion, when applied with a different consciousness, can support centripetal contraction. Understanding soil ecology, for example, can be used either to exploit the soil more intensively or to restore its [[fukuoka-natural-fertility-cycle]]. The difference lies not in the knowledge itself but in the intention and consciousness behind its application.
 
 ## The Decentralized Village Model
 

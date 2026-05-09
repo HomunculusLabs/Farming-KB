@@ -4,7 +4,7 @@ created: 2026-04-26
 updated: "2026-04-24"
 sources:
   - "Growing Gourmet and Medicinal Mushrooms (Paul Stamets, 1993)"
-  - "Oyster Mushroom Cultivation (MushWorld, 2004)"
+  - "Oyster [[accessible-mushroom-cultivation-for-disabilities]] (MushWorld, 2004)"
 type: concept
 tags: [cultivation, medicine, mushroom-cultivation, oyster-mushroom]
 ---
@@ -18,7 +18,7 @@ Oyster mushrooms (genus Pleurotus) are by far the easiest and least expensive go
 Oyster mushrooms can be cultivated using several methods, each suited to different scales, climates, and available resources:
 
 - **Straw-based cultivation**: Pasteurized straw in bags, columns, or trays. Most accessible for beginners.
-- **Supplemented sawdust blocks**: Sterilized sawdust/bran mix in bags or bottles. Higher yields, more equipment needed.
+- **[[oyster-mushroom-supplemented-sawdust-blocks]] blocks**: Sterilized sawdust/bran mix in bags or bottles. Higher yields, more equipment needed.
 - **Log cultivation**: Hardwood logs inoculated with spawn. Low-tech, long-term production.
 - **Shelf/bed cultivation**: Pasteurized substrate on shelving or in beds. Common in Asia.
 - **Outdoor bed cultivation**: Substrate in shaded outdoor beds. Seasonal production.
@@ -96,7 +96,7 @@ For indoor controlled-environment cultivation, supplemented sawdust provides hig
 
 Oyster mushrooms require specific environmental triggers to shift from vegetative growth to fruiting:
 
-| Parameter | Spawn Run | Primordia Formation | Fruitbody Development |
+| Parameter | Spawn Run | [[growing-gourmet-primordia-formation-pinning]] | Fruitbody Development |
 |-----------|-----------|-------------------|---------------------|
 | Temperature | 75-85 degrees F (24-29 degrees C) | Species-dependent | Species-dependent |
 | Humidity | 90-100% | 98-100% | 85-95% |
@@ -112,7 +112,7 @@ A sharp temperature drop is the most effective stimulus for fruiting induction. 
 
 - Low cost of entry and operation
 - Wide substrate adaptability (over 200 documented waste materials)
-- High biological efficiency (frequently exceeds 100%)
+- High [[stamets-biological-efficiency-yield]] (frequently exceeds 100%)
 - Fast cropping cycle (10-14 days between flushes for many species)
 - Suitable for small-scale and commercial operations
 - Spent substrate has value as animal feed, compost, and soil amendment
@@ -122,12 +122,12 @@ A sharp temperature drop is the most effective stimulus for fruiting induction. 
 
 - Short shelf life: mushrooms spoil within days, supporting local market arguments
 - Spore load can be a health hazard to workers; sporeless strains are highly sought
-- Attracts Sciarid and Phorid flies far more than other cultivated mushrooms
+- Attracts Sciarid and Phorid flies far more than other [[fungi-cultivated-mushrooms-pathogens-competitors]]
 - Protein content varies significantly with substrate, spawn media, and strain (15-35% dry weight)
 
 ## Nutritional Value
 
-Oyster mushrooms contain significant protein (15-35% dry weight), vitamin C (30-144 mg per 100g), niacin (109 mg per 100g), and various free amino acids. Nutritional composition varies with substrate type, spawning rate, and strain.
+Oyster mushrooms contain significant protein (15-35% dry weight), vitamin C (30-144 mg per 100g), niacin (109 mg per 100g), and various free amino acids. [[dighton-fungal-nutritional-composition-animal-diets]] varies with substrate type, spawning rate, and strain.
 
 ## By-Products of Cultivation
 
@@ -138,6 +138,10 @@ After the crop cycle, spent oyster mushroom substrate has multiple uses:
 - **Nematicide**: At least five Pleurotus species secrete metabolites toxic to root-knot nematodes
 - **Secondary cultivation**: Spent straw can support outdoor growth of Stropharia species
 - **Enzyme recovery**: The decomposition process secretes commercially valuable enzymes
-- [[oyster-mushroom-fruiting-abnormalities-environmental-causes]]
-- [[mushroom-sawdust-bran-spawn-preparation]]
+- oyster-mushroom-fruiting-abnormalities-environmental-causes
+- mushroom-sawdust-bran-spawn-preparation
+- [[oyster-mushroom-cultivation-methods]]
+## See Also
+- [[oyster-mushroom]]
+- [[mushroom-cultivation]]
 - [[oyster-mushroom-cultivation-methods]]

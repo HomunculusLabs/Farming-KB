@@ -1,5 +1,5 @@
 ---
-title: Fungal Pathogens of Plants
+title: bloomfield-fungal-pathogens-and-parasites of Plants
 created: 2026-04-28
 tags: [fungi, pathology, plant-disease, biodiversity, ecology]
 date: 2026-04-28
@@ -13,12 +13,12 @@ type: concept
 Fungal pathogens of plants represent one of the most
 economically and ecologically significant groups of fungi,
 causing diseases that affect crop yields, forest health, and
-natural ecosystem dynamics. Fungi are essential to crucial
-activities such as decomposition, nutrient cycling, and
-nutrient transport, but some species are important plant
+[[fukuoka-natural-ecosystem-food-chain-interconnection]] dynamics. Fungi are essential to crucial
+activities such as decomposition, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and
+[[mycelial-network-nutrient-transport-imaging-gadd]], but some species are important plant
 pathogens that cause diseases ranging from leaf spots and
 cankers to root rots and lethal wilts. The study of plant
-pathogenic fungi intersects with fungal biodiversity research
+pathogenic fungi intersects with [[biodiversity-fungal-biodiversity-estimation-methods]] research
 because understanding the diversity of pathogenic species is
 fundamental to managing disease and assessing ecosystem health.
 
@@ -63,7 +63,7 @@ weakly phytopathogenic fungi in healthy plant tissues
 emphasizes the heterogeneous ecology of endophyte
 associations and the evolutionary continuum between latent
 pathogens and symptomless endophytes. Fusarium species,
-many associated with wilt diseases covered in [[biodiversity-fungi-endophytes-tropical-plants]] for further
+many associated with wilt diseases covered in biodiversity-fungi-endophytes-tropical-plants for further
 discussion of the endophyte-pathogen continuum.
 
 ## Mycoparasites and Biocontrol
@@ -80,7 +80,7 @@ Methods for studying plant pathogenic fungi overlap
 significantly with those used in general fungal biodiversity
 surveys. The need to assay for difficult-to-isolate destructive
 plant pathogens has driven the development of baiting
-techniques and selective media. Specimen preparation for
+techniques and selective media. [[fungal-specimen-preparation-preservation-herbarium-storage]] for
 plant-pathogenic fungi on leaves or delicate stems involves
 drying as plant specimens, with host-plant tissue and
 associated fungi spread on drying paper. Populations of
@@ -104,9 +104,13 @@ diversity is expected but the least sampling has occurred.
 ## Ecological Consequences
 
 [[biodiversity-ascomycete-diversity-taxonomy]]
-- [[biodiversity-fungi-plant-mutualisms]]
-- [[biodiversity-fungi-soil-ecosystems]]
+- biodiversity-fungi-plant-mutualisms
+- biodiversity-fungi-soil-ecosystems
 - [[rust-fungi]]
 - [[trichoderma-virens]]
 - [[cervantes-fusarium-vascular-wilt-diseases]]
 - [[fungal-plant-diseases]]
+
+## See Also
+
+- [[snow-mold-fungi-cold-temperature-plant-pathogens]]

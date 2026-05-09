@@ -5,24 +5,25 @@ updated: 2026-04-14
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 ## Water as Central Element
 
-Water is the most important resource in Holzer permaculture. On the Krameterhof, a network of 60 ponds, water gardens, wetlands, and ditches spans the farm from 1,500m to 1,100m elevation. Most are connected, with water used for multiple purposes as it flows downhill through the cascade system.
+Water is the most important resource in [[holzer-rebel-farmer-philosophy]]. On the Krameterhof, a network of 60 ponds, water gardens, wetlands, and ditches spans the farm from 1,500m to 1,100m elevation. Most are connected, with water used for multiple purposes as it flows downhill through the cascade system.
 
 ## Functions of Waterscapes
 
 ### Ecological Functions
-- Provide habitat for amphibians (toads, frogs), snakes, and beneficial insects
+- Provide habitat for amphibians (toads, frogs), snakes, and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 - Toads are key predators of the dreaded Spanish slug (*Arion vulgaris*)
 - Balance temperature fluctuations on nearby hillsides by reflecting sunlight and releasing stored heat
 - Increase soil moisture levels through evaporation
 - Create beneficial microclimates for heat-loving plants on adjacent slopes
 
 ### Production Functions
-- Fish farming: brown trout, arctic char, carp, tench, pike, wels catfish, zander, koi carp, and forage fish
+- [[knf-fish-farming-integration]]: brown trout, arctic char, carp, tench, pike, wels catfish, zander, koi carp, and forage fish
 - Crayfish (*Astacus astacus*) and swan mussels (*Anodonta cygnea*)
 - Aquatic plants cultivated up to 1,500m: white water lily, yellow water lily, bulrushes, sweet flag, water soldier, mare's tail, arrowhead, yellow iris
 
@@ -34,7 +35,7 @@ Water is the most important resource in Holzer permaculture. On the Krameterhof,
 
 ## Building Ponds -- The Vibration Method
 
-Holzer's method is fundamentally different from conventional pond construction:
+Holzer's method is fundamentally different from conventional [[holzer-pond-construction-and-aquaculture]]:
 
 ### Site Assessment
 - Survey soil conditions, topography, and existing water

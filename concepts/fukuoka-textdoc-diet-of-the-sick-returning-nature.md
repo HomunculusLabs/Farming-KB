@@ -1,5 +1,5 @@
 ---
-title: Diet of the Sick and the Return to Nature
+title: Diet of the Sick and the emcdda-return-to-nature-megatrend-mushroom-appeal
 created: 2026-04-28
 tags:
   - fukuoka
@@ -39,7 +39,7 @@ It would probably take almost superhuman skills and judgment to live on a comple
 
 ## The Contradiction of Standardized Natural Diets
 
-To push upon people living in different environments and of different races and temperaments a rigid, standardized natural diet is an impossibility. Yet just look at the different natural diet movements being espoused around the world:
+To push upon people living in different environments and of different races and temperaments a rigid, standardized natural diet is an impossibility. Yet just look at the different natural diet movements being espoused [[fungi-around-the-world-species-distribution]]:
 
 - **Raw food movement**: Some claim man should eat only uncooked food; others say drink broth from raw leaves.
 - **Medical caution**: Physicians warn that following a raw diet without knowing fully what one is doing is dangerous.
@@ -75,7 +75,7 @@ The person who appears healthy by medical standards may in fact be the most deep
 
 Fukuoka's dietary philosophy cannot be separated from his agricultural philosophy. The reason people cannot eat a natural diet is fundamentally that farmers are no longer producing natural food. The food supply has been transformed by chemical agriculture, processing, transportation, and storage into something that barely resembles what nature provides.
 
-A natural diet requires natural farming — the two are inseparable aspects of a single way of living. When food is grown with synthetic fertilizers and pesticides, harvested before it is ripe, transported over long distances, and stored for extended periods, it loses the vitality and wholeness that characterize naturally grown food.
+A natural diet requires [[cho-loess-powder-in-natural-farming]] — the two are inseparable aspects of a single way of living. When food is grown with [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] and pesticides, harvested before it is ripe, transported over long distances, and stored for extended periods, it loses the vitality and wholeness that characterize naturally grown food.
 
 No amount of dietary sophistication can compensate for food that is fundamentally unnatural in its origins. This is why Fukuoka insisted that the path to health runs through the fields, not through the kitchen or the clinic.
 
@@ -109,13 +109,13 @@ For the person already ill and seeking to restore health through dietary change,
 
 1. **Begin by discarding empty, self-indulgent diets** that are the root of a thousand diseases.
 2. **Recognize the limits of a scientific diet** that does no more than sustain biological life.
-3. **Move toward a diet of principle** — eating foods that are whole, local, seasonal, and produced by natural methods.
+3. **Move toward a diet of principle** — eating foods that are whole, local, seasonal, and produced by [[fukuoka-textdoc-creating-rice-paddy-natural-methods]].
 4. **Ultimate health is not achieved through diet alone** but through transformation of the whole person — body, mind, and spirit.
 5. **Do not expect quick fixes**. The restoration of a natural body and natural relationship with food takes time and patience.
 
 ## The Ultimate Goal
 
-The greatest role of a natural diet is to return people to the bosom of nature. The path from sickness to health is not a path of increasing dietary sophistication but of decreasing artificiality. It is a journey of shedding — shedding false preferences, shedding discriminating knowledge, shedding the belief that health can be achieved through intellectual effort.
+The greatest role of a natural diet is to return people to the bosom of nature. The path from sickness to health is not a path of increasing dietary sophistication but of decreasing artificiality. It is a journey of shedding — shedding false preferences, shedding [[fukuoka-microbes-soil-health-discriminating-knowledge]], shedding the belief that health can be achieved through intellectual effort.
 
 When one reaches this state, the question of what to eat resolves itself. The body, restored to its natural sensitivity, selects what it needs from what is available. The destination is not a particular diet but a particular way of being: open, receptive, and at home in the natural world.
 

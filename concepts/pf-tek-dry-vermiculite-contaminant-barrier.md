@@ -1,5 +1,5 @@
 ---
-title: pf tek dry vermiculite contaminant barrier
+title: pf pf tek dry vermiculite contaminant barrier vermiculite contaminant barrier
 created: 2026-04-28
 tags: [pf-tek, vermiculite, contamination-prevention, mycology, cultivation]
 date: 2026-04-28
@@ -17,7 +17,7 @@ anyone with basic kitchen equipment.
 
 ## The Original Discovery
 
-The dry vermiculite barrier was explicitly described by Psilocybe Fanaticus as
+The dry vermiculite barrier was explicitly described by [[pf-tek-psilocybe-fanaticus-cultivation-method]] as
 "an original discovery." Prior to this innovation, home cultivators relied
 heavily on pressure canners to achieve truly sterile substrate conditions. The
 PF TEK's approach of using a non-nutritive dry layer at the jar opening provided
@@ -40,13 +40,13 @@ The dry vermiculite layer serves two primary functions:
    the [[spore-syringe]] itself was contaminated,
 or the dry vermiculite barrier was breached during the inoculation procedure.
 If jars remain clean when left uninoculated as a control test, the sterilization
-technique is confirmed sound, and the focus shifts to inoculation hygiene.
+technique is confirmed sound, and the focus shifts to [[mushroom-inoculation-hygiene-cotter]].
 
 ## Bacteria Detection Through the Barrier
 
 Bacterial contamination can sometimes be detected through the dry vermiculite
 layer itself. A sour, foul odor detectable within two days of inoculation,
-accompanied by no visible spore germination, indicates bacterial contamination.
+accompanied by no visible [[growing-gourmet-spore-germination-strain-isolation]], indicates bacterial contamination.
 This diagnostic capability of the dry layer provides an early warning system
 that allows cultivators to identify and isolate contaminated jars before they
 spread problems to healthy cultures.
@@ -54,7 +54,7 @@ spread problems to healthy cultures.
 ## Significance in Mycological History
 
 The dry vermiculite contaminant barrier was a foundational innovation that made
-the PF TEK the most widely copied home cultivation method in the world. It
+the PF TEK the most widely copied home [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] in the world. It
 demonstrated that elaborate sterile laboratory procedures were not strictly
 necessary for successful cultivation. By combining a simple passive filter with
 an airy, non-grain substrate, the technique achieved reliable results with
@@ -62,6 +62,8 @@ common kitchen equipment, opening the door for countless amateur mycologists
 worldwide.
 
 ## See Also
+
+- [[pf-tek-vermiculite-type-comparison-water-holding-capacity]]
 
 - [[pf-tek-alcohol-extraction-method]]
 ## Practical Considerations
@@ -82,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

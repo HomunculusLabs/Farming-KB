@@ -23,7 +23,7 @@ beet, wheat, and many vegetables. Although traditionally studied by
 mycologists and grouped with fungi, Pythium belongs to the
 Peronosporomycetes (Oomycota), a lineage within the Stramenopiles that
 is distinct from true Fungi. The source text extensively documents P.
-ultimum as a target for biological control by various mycoparasitic
+ultimum as a target for [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] by various mycoparasitic
 fungi, including Trichoderma virens, Geomyces pannorum, and
 Laetisaria arvalis.
 
@@ -57,7 +57,7 @@ Laetisaria arvalis.
 - Favored by wet, waterlogged soil conditions that facilitate
   zoospore motility
 - Optimal temperature for growth is 25 to 30 degrees Celsius
-- Populations build up in soils with high organic matter and
+- Populations build up in soils with high [[hamilton-composting-and-organic-matter-management]] and
   frequent irrigation
 - Survives as oospores in soil for extended periods (years)
 
@@ -109,8 +109,8 @@ Laetisaria arvalis.
 - Selective isolation using PARP medium (pimaricin, ampicillin,
   rifampicin, pentachloronitrobenzene)
 - Baiting techniques using susceptible seedlings
-- Soil dilution plating on selective media
-- Direct observation of zoospore behavior under microscopy
+- Soil [[particle-filtration-dilution-plating-microfungal-isolation]] on selective media
+- [[fukuoka-direct-observation-method]] of zoospore behavior under microscopy
 - Molecular detection via ITS rDNA sequencing
 
 ## Relevance
@@ -118,9 +118,9 @@ Pythium ultimum is one of the most important soil-borne plant pathogens
 in agriculture. The extensive documentation of biological control agents
 targeting this species in the source text, including Trichoderma,
 Geomyces, and Laetisaria species, reflects the importance of developing
-sustainable alternatives to chemical fungicides for managing damping-off
+sustainable alternatives to [[cervantes-chemical-fungicides-insecticides]] for managing damping-off
 diseases. The complex mycoparasitic interactions involving P. ultimum
-serve as model systems for studying fungal ecology and biological
+serve as model systems for studying fungal odonata dragonflies damselflies ecology and biological control
 control mechanisms.
 
 ## See Also

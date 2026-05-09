@@ -26,7 +26,7 @@ in the world, ranging from western Scotland to eastern Siberia.
 
 The species holds immense ecological and economic importance across its
 range. It is a keystone species in boreal and temperate forest ecosystems,
-supporting diverse mycorrhizal fungal communities.
+supporting diverse [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] communities.
 
 Scots pine timber has been used for millennia in construction, shipbuilding,
 and paper production. It remains one of the most commercially significant
@@ -91,7 +91,7 @@ root density is highest in the organic soil horizon where most mycorrhizal
 colonization occurs.
 
 The species supports significant fauna communities. Red squirrel, capercaillie,
-and crossbill are characteristic pine forest species dependent on *P. sylvestris*
+and crossbill are characteristic [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] species dependent on *P. sylvestris*
 for food and habitat.
 
 Dead pine provides substrate for saproxylic beetles and decomposer fungi
@@ -103,13 +103,13 @@ Scots pine is one of Europe's most important commercial softwoods. The timber
 is light, moderately strong, and easily worked. Heartwood is pale yellow-brown
 to reddish, with density of 470–570 kg/m³ at 12% moisture.
 
-Primary uses include structural timber, joinery, flooring, and furniture. It
+Primary uses include [[singh-wood-rot-fungi-structural-timber-decay]], joinery, flooring, and furniture. It
 is also a major pulpwood source for paper production. Pine resin has been
 harvested for turpentine and rosin for centuries.
 
 In Scandinavia, pine tar was historically critical for wooden ship preservation
 from the Viking era through the 20th century. The species also yields biomass
-for wood chips and pellet manufacturing.
+for [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]] and pellet manufacturing.
 
 ## Cultivation and Silviculture
 
@@ -123,8 +123,8 @@ standard, with final crop densities of 200–400 stems/ha at rotation ages
 of 60–120 years.
 
 The species is relatively resistant to browsing and tolerant of air pollution,
-making it popular for urban planting. Major pests include pine weevil and
-pine beauty moth. Root rot caused by *Heterobasidion annosum* is the most
+making it popular for urban planting. Major pests include [[fukuoka-pine-weevil-blight-non-causality]] and
+pine beauty moth. [[cannabis-root-rot-prevention-and-treatment]] caused by *Heterobasidion annosum* is the most
 significant disease in managed stands.
 
 ## See Also

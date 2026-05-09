@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-Despite its widespread use as an organic fertilizer, JADAM identifies rice bran as a fundamentally problematic input for farming. While rice bran may be suitable for growing rice in moderation, its overuse or application to non-rice crops disrupts soil nutrient balance, increases disease susceptibility, and ultimately degrades soil health. JADAM classifies rice bran as a "skin fertilizer" -- a byproduct lacking the comprehensive nutrients of whole plant material.
+Despite its widespread use as an [[complete-organic-fertilizer-cof-recipe-solomon]], JADAM identifies rice bran as a fundamentally problematic input for farming. While rice bran may be suitable for growing rice in moderation, its overuse or application to non-rice crops disrupts soil nutrient balance, increases disease susceptibility, and ultimately degrades soil health. JADAM classifies rice bran as a "skin fertilizer" -- a byproduct lacking the comprehensive nutrients of whole plant material.
 
 ## What Is Wrong With Rice Bran?
 
@@ -23,20 +23,20 @@ Fertilizer made from plant skin does not possess the comprehensive nutrients req
 
 ### Crop-Specific Bias
 
-If you put rice bran in the soil, the nutritional balance in the soil changes to a condition more favorable for growing rice. Would you grow tomatoes in that soil? The soil becomes adjusted to the nutritional profile of rice, potentially harming other crops.
+If you put rice bran in the soil, the [[jadam-nutritional-balance-fertilizer]] in the soil changes to a condition more favorable for growing rice. Would you [[query-how-do-i-grow-tomatoes-in-a-greenhouse]] in that soil? The soil becomes adjusted to the nutritional profile of rice, potentially harming other crops.
 
 The same applies to perilla pulp. It has higher nitrogen than rice bran, so farmers take it for granted that it is a better fertilizer. But if you use perilla pulp as base fertilizer repeatedly, you will ruin your strawberries because the soil becomes more adjusted to a nutritional balance that is good for growing perilla.
 
 ### Oil Cake Problems
 
-Most commercial oil cakes consist of 50 percent castor pomace. If you overuse oil cakes, your soil will be suitable for castor farming. Simply putting in organic matter instead of chemical fertilizer does not make you an organic farmer. You have to be extra careful; be aware that input of organic matter can seriously disrupt soil nutritional balance.
+Most commercial oil cakes consist of 50 percent castor pomace. If you overuse oil cakes, your soil will be suitable for castor farming. Simply putting in [[hamilton-composting-and-organic-matter-management]] instead of chemical fertilizer does not make you an organic farmer. You have to be extra careful; be aware that input of organic matter can seriously disrupt soil nutritional balance.
 
 ## The Escalating Spiral of Imbalance
 
 When rice bran is applied to soil, the nutritional balance shifts. This creates conditions that may:
 
 - Favor certain weeds or pathogens over crops
-- Produce excessive vegetative growth (water sprouts) at the expense of fruit
+- Produce excessive [[cannabis-vegetative-growth-stage]] (water sprouts) at the expense of fruit
 - Increase susceptibility to chilling and freezing damage
 - Cause early lowering of fruit quality
 - Reduce overall crop vigor despite abundant leaf growth
@@ -59,7 +59,7 @@ For inorganic nutrients, microorganisms work on rock below the leaf mold layer, 
 
 JADAM's answer to the fertilizer question is based on nutritional balance:
 
-1. **Base fertilizer**: Use cover crop and crop residue (the "whole" plant). Add manure from animals that ate a lot of grass.
+1. **Base fertilizer**: Use cover crop and [[jadam-crop-residue-fertilizer]] (the "whole" plant). Add manure from animals that ate a lot of grass.
 2. **Additional fertilizer**: When watering, add JMS + sea water + phyllite solution + diluted JLF
 3. **Skin fertilizers**: If you must use rice bran, perilla pulp, or oil cakes, use them in less than 1/10 of the total organic matter applied
 

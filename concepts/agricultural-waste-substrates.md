@@ -1,5 +1,5 @@
 ---
-title: Agricultural Waste Substrates for Mushroom Cultivation
+title: fungi-in-composting-and-agricultural-waste-conversion Substrates for accessible-mushroom-cultivation-for-disabilities
 created: 2026-04-28
 tags:
   - mushroom-cultivation
@@ -41,7 +41,7 @@ consists of the following components, mixed in dry form and wetted to
 - 100-140 lbs (45-64 kg) water or as required
 
 The calcium carbonate adjusts pH, offsetting inherent acidity of the
-substrate materials. When nitrogen supplements like rice bran are
+[[growing-gourmet-substrate-materials-wood-types]]. When nitrogen supplements like rice bran are
 added, simple pasteurization may not adequately treat the substrate,
 and full sterilization is called for. Without supplementation,
 pasteurization usually suffices. The mixture must be loaded into bags
@@ -55,10 +55,10 @@ to mid-size cultivators. It is readily available, inexpensive, and
 needs only a quick run through a shredder before use. Wheat, rye,
 oat, and sorghum straws are all suitable. Straw accepts a limited
 number of contaminants while selectively favoring mushroom mycelium,
-making it more forgiving than supplemented sawdust. Growing Oyster
+making it more forgiving than [[oyster-mushroom-supplemented-sawdust-blocks]]. Growing Oyster
 mushrooms on straw is far less expensive than growing on sterilized
-sawdust. Many cottage growers enter the gourmet mushroom industry by
-first cultivating Oyster mushrooms on straw.
+sawdust. Many cottage growers enter the [[growing-gourmet-mushroom-dehydration-methods-equipment]] industry by
+first cultivating [[query-how-to-grow-oyster-mushrooms-at-home]] on straw.
 
 Hay should generally be avoided as it contains abundant seed kernels
 that tend to contaminate. However, limited numbers of grain kernels

@@ -8,7 +8,7 @@ sources: []
 ---
 # Xylariaceous Endophytes
 
-The Xylariaceae (order Xylariales, class Sordariomycetes) represent one of the most important families of endophytic fungi. Species of Xylaria, Hypoxylon, and related genera are among the most commonly isolated endophytes from tropical and temperate plants, with significant ecological roles and biotechnological potential.
+The Xylariaceae (order Xylariales, class Sordariomycetes) represent one of the most important families of [[comparison-endophytic-fungi-vs-mycorrhizal-fungi]]. Species of Xylaria, Hypoxylon, and related genera are among the most commonly isolated endophytes from tropical and temperate plants, with significant ecological roles and biotechnological potential.
 
 ## Overview of Xylariaceae
 
@@ -55,14 +55,14 @@ This strategy is analogous to that of foliar endophytes that infect healthy tiss
 ## Ecological Roles
 
 ### Bioactive Metabolite Production
-Xylariaceous fungi are prolific producers of secondary metabolites with diverse biological activities:
+Xylariaceous fungi are prolific producers of [[antifungal-secondary-metabolites-coprophilous-fungi]] with diverse biological activities:
 - Antimicrobial compounds that may suppress competing microorganisms
 - Cytotoxic compounds with potential anticancer activity
 - Antifungal substances that may regulate endophyte communities within host tissues
 - Enzymes involved in lignocellulose degradation
 
 ### Nutrient Cycling
-As saprotrophs, xylariaceous fungi contribute to decomposition of woody debris and leaf litter, playing important roles in carbon and nutrient cycling in forest ecosystems.
+As saprotrophs, xylariaceous [[query-how-do-fungi-contribute-to-carbon-sequestration]] to decomposition of [[fungal-succession-woody-debris-ecology]] and [[dighton-fungal-decomposition-leaf-litter-dynamics]], playing important roles in carbon and nutrient cycling in forest ecosystems.
 
 ### Host Protection
 Some evidence suggests that xylariaceous endophytes may protect host plants against herbivores or pathogens through the production of deterrent or toxic compounds.

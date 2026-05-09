@@ -1,112 +1,122 @@
 ---
 title: "Theobromine"
-created: 2026-04-28
 type: chemical
 tags:
-  - alkaloid
   - xanthine
-  - methylxanthine
-  - psychoactive
-  - theobroma-cacao
+  - alkaloid
   - stimulant
   - vasodilator
-date: 2026-04-28
-updated: 2026-04-28
+  - methylxanthine
+date: 2026-05-09
+updated: 2026-05-09
 sources:
-  - Franco R et al. "A pharmacology perspective on the role of
-    [[theobroma-cacao]]* (cacao)
-at 1–4% of dry bean weight. It is the principal active compound in
-chocolate, responsible for its bitter taste and many mood-elevating
-effects.
+  - Franconi, R. et al. (2000). "Does chocolate have a role in the future of cardiovascular prevention?" Current Opinion in Lipidology, 11(1), 41-44.
+  - Smit, H.J. et al. (2004). "Mood effects of theobromine." Psychopharmacology, 176(3-4), 412-419.
+  - Ding, E.L. et al. (2006). "Chocolate and prevention of cardiovascular disease." Circulation, 114(7), e73-e74.
+  - Taubert, D. et al. (2007). "Impact of cocoa and theobromine consumption on blood pressure." Archives of Internal Medicine, 167(7), 626-634.
+---
 
-Structurally relatedcaffeineeine (1,3,7-trimethylxanthine), it shares
-properties as a mild stimulant, vasodilator, and bronchodilator, but
-with significantly lower CNS adenosine receptor potency. The name
-derives from Greek *theobroma* ("food of the gods").
+## Overview
+
+**Theobromine** (3,7-dimethylxanthine) is a bitter alkaloid of the xanthine family found primarily in cacao beans (*Theobroma cacao*). It is the principal methylxanthine in chocolate, present at concentrations of approximately 1–3% by weight in cocoa solids.
+
+Theobromine is structurally related to caffeine and theophylline, sharing the purine-derived xanthine core with differing patterns of methyl substitution.
+
+Unlike caffeine, theobromine has relatively mild central nervous system stimulant effects and is instead characterized by sustained smooth muscle relaxation, vasodilation, and mild diuretic properties.
+
+The compound's name derives from *Theobroma*, the genus name of the cacao tree, itself from the Greek *theos* (god) and *broma* (food) — literally "food of the gods."
+
+Theobromine is responsible for the bitter taste of raw cacao and contributes to the complex flavor profile of dark chocolate.
 
 ## Chemical Properties
 
-- **IUPAC Name:** 3,7-dihydro-3,7-dimethyl-1H-purine-2,6-dione
-- **Molecular Formula:** C₇H₈N₄O₂
-- **Molecular Weight:** 180.16 g/mol
-- **CAS Number:** 83-67-0
-- **Structure:** Dimethylxanthine; methyl groups at positions 3 and 7
-- **Solubility:** Slightly [[hot-water-and-hydrated-lime-substrate-treatment]] and ethanol
-- **Melting Point:** 357°C (decomposes)
+Theobromine has the molecular formula **C₇H₈N₄O₂** and a molar mass of 180.16 g/mol.
 
-A white crystalline powder with bitter taste. Differs from caffeine
-by a single methyl group at N1, resultibeta-glucan-receptor-bindinglly different
-pharmacokinetics and [[cola-acuminata]]*** (kola nut): Trace amounts alongside caffeine
-- ***[[camellia-sinensis-entity]]*** (tea): Trace amounts
-- ***[[medicinal-mushroom-antioxidant-anti-inflammatory]] effects.
+Its systematic IUPAC name is 3,7-dimethyl-3,7-dihydro-1H-purine-2,6-dione.
 
-**Pharmacokinetics:** Peak plasma at 2–3 hours. Half-life 6–10 hours
-(longer than caffeine's 3–5h). Metabolized by CYP1A2 and CYP2E1.
-Major metabolites: 7-methylxanthine and 3-methylxanthine. Minimal
-conversion to caffeine in humans.
+The compound consists of a xanthine core (a fused pyrimidine-imidazole ring system) with methyl groups at the N-3 and N-7 positions.
 
-## Effects
+It appears as a white, crystalline powder with a slightly bitter taste and a melting point of approximately 357 °C (decomposition).
 
-**Stimulant:** Mild central stimulation, less pronounced than caffeine.
-Produces gentle, sustained alertness without jittery anxiety or sleep
-disruption. The "feel-good" quality of chocolate is partly
-theobromine-mediated.
+Theobromine is sparingly soluble in water (approximately 0.33 g/L at 25 °C) and ethanol, but more soluble in hot water and alkaline solutions.
 
-**Cardiovascular:** Vasodilatory, reduces peripheral vascular
-resistance. May lower blood pressure modestly. Mild positive inotropic
-effect at high doses.
+The compound is stable under normal [[vegetable-storage-conditions-by-temperature-and-humidity]] and resistant to thermal degradation at typical food processing temperatures.
 
-**Respiratory:** Bronchodilation via PDE4 inhibition — historically
-used for asthma at 500–1000 mg doses.
+Structurally, theobromine differs from caffeine (1,3,7-trimethylxanthine) by the absence of a methyl group at the N-1 position, which accounts for its weaker CNS activity.
 
-**Mood:** Moderate mood elevation. Enhances calmness and contentment
-without significant anxiety, distinguishing it from caffeine.
+It is biosynthesized in the cacao plant from xanthosine through sequential demethylation and oxidation steps in the purine degradation pathway.
 
-**Diuretic:** Mild, less potent than caffeine.
+## Pharmacology
 
-**Duration:** 4–6 hours; onset within 30–60 minutes.
+Theobromine acts primarily as a non-selective phosphodiesterase (PDE) inhibitor, increasing intracellular cyclic AMP levels by preventing its enzymatic hydrolysis.
 
-## Therapeutic Applications
+This mechanism produces smooth muscle relaxation, particularly in bronchial, vascular, and gastrointestinal smooth muscle tissues.
 
-- **Cough suppression:** Suppresses vagus nerve activity, reducing
-  cough reflex. Effective at 1000 mg, comparable to codeine
-- **Cardiovascular:** Regular dietary intake associated with modest
-  blood pressure reductions and improved endothelial function
-- **Asthma:** Historical bronchodilator use; superseded by selective
-  PDE4 inhibitors
-- **Anti-inflammatory:** PDE4 inhibition reduces inflammatory
-  cytokines in vitro
+Theobromine also acts as a weak adenosine receptor antagonist, though with approximately 10-fold lower affinity than caffeine at A₁ and A₂A receptor subtypes.
 
-## Toxicology
+The reduced adenosine antagonism compared to caffeine explains theobromine's milder stimulant effects and lower propensity to cause anxiety and insomnia.
 
-Theobromine has a high therapeutic index (LD50 in rats: 965 mg/kg
-oral). Human toxicity requires ~1,000 mg/kg — difficult from dietary
-chocolate alone.
+Additional pharmacological actions include competitive inhibition of phosphodiesterase type 5 (PDE5), contributing to vasodilatory effects.
 
-**Dogs:** Well-documented veterinary emergency. Dogs metabolize
-theobromine slowly (half-life 17.5h vs. 2–3h humans), sensitive at
-20 mg/kg. Symptoms: vomiting, diarrhea, tachycardia, seizures,
-potential death. Dark chocolate poses greatest risk.
+The compound has demonstrated anti-inflammatory properties in vitro, including inhibition of NF-κB signaling and reduction of pro-inflammatory cytokine production.
 
-**Humans:** Side effects at >500 mg include headache, nausea, GI
-discomfort, insomnia. Chronic high intake may exacerbate [[cannabis-for-gerd-and-acid-reflux]].
+Renal effects include mild natriuresis and diuresis, mediated through increased renal blood flow and direct tubular effects.
+
+The pharmacokinetic profile features oral bioavailability of approximately 20–30%, with peak plasma concentrations reached at 2–3 hours and an elimination half-life of 6–10 hours.
+
+## Effects and Dosage
+
+Typical dietary intake of theobromine from chocolate consumption ranges from 50 to 500 mg per day, depending on the type and quantity of chocolate consumed.
+
+Dark chocolate (70–85% cocoa) contains approximately 500–800 mg of theobromine per 100 g, while milk chocolate contains significantly less at approximately 60–70 mg per 100 g.
+
+At dietary levels, theobromine produces mild mood elevation, increased alertness, and a subtle sense of well-being without the jitteriness associated with equivalent doses of caffeine.
+
+Vasodilatory effects include measurable reductions in blood pressure, documented in multiple [[mushroom-cancer-clinical-trials-overview]] showing systolic BP decreases of 2–5 mmHg with regular cocoa consumption.
+
+The compound acts as a bronchodilator at therapeutic doses, and has been investigated as an adjunct treatment for persistent cough.
+
+Clinical studies have demonstrated antitussive effects superior to codeine in some models, attributed to suppression of vagal nerve sensory nerve activity.
+
+Theobromine toxicity occurs primarily in dogs, which metabolize the compound very slowly due to limited demethylation capacity.
+
+The LD₅₀ in dogs is approximately 300 mg/kg, compared to approximately 1000 mg/kg in rats, making chocolate poisoning a significant veterinary concern.
+
+## Sources and Dietary Significance
+
+Cacao beans (*Theobroma cacao*) are the primary natural source of theobromine, containing 1.5–3.0% theobromine by dry weight.
+
+Minor dietary sources include tea leaves ([[camellia-sinensis-entity]]), kola nuts, and guarana berries, though these contain predominantly caffeine with only trace theobromine.
+
+Cocoa butter extracted from cacao beans contains negligible theobromine, as the alkaloid is water-soluble and partitions into the cocoa solids fraction during processing.
+
+The theobromine content of chocolate products is directly proportional to their cocoa solids content, making dark chocolate a significantly richer source than milk or white chocolate.
+
+Dutch-process (alkalized) cocoa powder typically contains 2.0–3.0% theobromine, similar to or slightly lower than natural cocoa powder.
+
+Epidemiological studies have associated regular consumption of theobromine-rich dark chocolate with reduced cardiovascular risk, though confounding factors complicate causal attribution.
 
 ## History
 
-First isolated from cacao in 1841 by Russian chemist Alexander
-Woskresensky. Structural relationship to caffeine established later
-in the 19th century. One of the first xanthine alkaloids characterized
-beyond caffeine.
+Theobromine was first isolated from cacao beans in 1841 by the Russian chemist Alexander Woskresensky, making it one of the earliest characterized xanthine alkaloids.
 
-Cacao has been consumed for 3,000+ years in Mesoamerican cultures.
-The Olmec, Maya, and Aztec civilizations valued cacao as a stimulant
-beverage and ceremonial substance.
+The compound was subsequently synthesized in 1882 by the German chemist Hermann Emil Fischer, who elucidated its structure and relationship to caffeine and xanthine.
 
-## Related Compounds
+For centuries prior to its chemical identification, theobromine was consumed by Mesoamerican civilizations as a component of cacao-based beverages prepared from *Theobroma cacao*.
 
-| Compound | Structure | Key Difference |
-|----------|-----------|----------------|
-| Caffeine | 1,3,7-trimethylxanthine | +N1 methyl, stronger CNS stimulant |
-| Theophylline | 1,3-dimethylxanthine | Methyls at 1,3 (not 3,7), stronger bronchodilator |
-| Paraxanthine | 1,7-dimethylxanthine | Primary caffeine metabolite |
-| 7-Methylxanthine | 7-methylxanthine | Primary theobromine metabolite |
+The Aztec and Maya civilizations valued cacao as both a food and a ceremonial substance, attributing stimulant and aphrodisiac properties to its consumption.
+
+The development of solid chocolate in the 19th century by Joseph Fry and later refinement by companies such as Cadbury and Lindt dramatically increased global theobromine consumption.
+
+Modern research interest in theobromine has focused on its cardiovascular benefits, antitussive properties, and potential as a safer alternative to caffeine for sustained mild stimulation.
+
+## See Also
+
+- [[caffeine]]
+- [[theobroma-cacao]]
+- [[nicotine]]
+- [[serotonin]]
+- [[2c-b]]
+- [[mescaline-entity]]
+- [[lsd]]
+- [[psilocybin]]

@@ -1,22 +1,23 @@
 ---
-title: "How do I prune fruit trees naturally?"
+title: "How do I fukuoka-no-prune-fruit-tree-method trees naturally?"
 created: 2026-04-28
 tags: [query, orchard, fruit-trees, pruning]
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: query
 ---
 
 # How do I prune fruit trees naturally?
 
 ## Short Answer
-Natural fruit tree pruning means cutting enough to guide structure, light, airflow, and harvest access while avoiding unnecessary annual correction.
+[[fukuoka-natural-fruit-tree-pest-control]] [[comparison-fruit-tree-pruning-vs-fruit-tree-grafting-guide]] means cutting enough to guide structure, light, airflow, and harvest access while avoiding unnecessary annual correction.
 The goal is a strong, fruitful tree that fits the site rather than a tree forced into a decorative shape.
 Use [[fukuoka-orchard-management-without-pruning]] when you want a lower-intervention orchard.
 Young trees usually need more structural choices than mature trees, while mature trees usually need selective thinning, renewal, and deadwood removal.
-A natural approach works best when pruning is paired with soil cover, pest balance, and the wider design ideas in [[orchard-management]] helps frame pruning as part of a whole orchard system rather than a stand-alone chore.
+A natural approach works best when pruning is paired with soil cover, [[fukuoka-pest-balance-without-chemicals]], and the wider design ideas in [[orchard-management]] helps frame pruning as part of a whole orchard system rather than a stand-alone chore.
 [[fruit-tree-pruning-training]] explains how scaffold branches, branch angles, and tree height are established early.
 [[pruning-techniques-organic]] is useful for understanding the difference between thinning, heading, sanitation, and renewal cuts.
 Repeated heading can create dense water sprout growth that blocks light and demands more future pruning.
@@ -49,7 +50,7 @@ Pruning works better when the soil, groundcover, and beneficial habitat also sup
 [[fruit-tree-pruning]] for basic pruning cuts and [[fukuoka-orchard-management-without-pruning]] before cutting heavily.
 - Favor thinning cuts over repeated heading cuts when you want natural form and less water sprout regrowth.
 - Match cuts to species because stone fruit tree care differs from apple and pear spur management.
-- Keep the orchard floor healthy with [[orchard-plant-guilds-mollison]].
+- Keep the [[fukuoka-orchard-floor-management]] healthy with [[orchard-plant-guilds-mollison]].
 - Prune less when trees are drought-stressed, diseased, frozen, or recovering from damage.
 - Treat pruning as part of [[query-how-to-start-a-backyard-orchard]]
 - [[query-how-do-i-graft-fruit-trees-in-a-home-orchard]]
@@ -69,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

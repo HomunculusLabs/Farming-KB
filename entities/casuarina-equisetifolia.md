@@ -21,7 +21,7 @@ typically growing as wide as it is tall with a characteristic bent
 stem. Native to coastal sandy environments across the Indo-Pacific, it
 is one of the world's most important coastal protection and
 sand-stabilization species. It forms a unique symbiosis with
-Frankia bacteria for atmospheric nitrogen fixation.
+Frankia bacteria for atmospheric [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
 
 ## Key Details
 
@@ -43,7 +43,7 @@ Frankia bacteria for atmospheric nitrogen fixation.
 ### Coastal Protection Value
 - **Windbreaks:** Capable of absorbing heavy winds with belts two or
   three trees deep
-- **Erosion control:** Planted along estuaries, river banks, waterways,
+- **[[permplant-willows-salix-erosion-control-fodder]]:** Planted along estuaries, river banks, waterways,
   and coastal areas
 - **Sand stabilization:** Primary species for dune fixation worldwide
 
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

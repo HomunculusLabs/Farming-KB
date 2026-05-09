@@ -1,5 +1,5 @@
 ---
-title: Adverse Effects And Harm Reduction Psilocybin
+title: blesching-cannabis-safety-adverse-effects-evidence And adverse effects and harm reduction psilocybin Psilocybin
 source: carolina-mushrooms_08qxp.md (EMCDDA Thematic Paper)
 mined: 2026-05-08
 tags: [harm-reduction, safety, adverse-effects, psilocybin, mushrooms, first-aid]
@@ -10,7 +10,7 @@ tags: [harm-reduction, safety, adverse-effects, psilocybin, mushrooms, first-aid
 ## Overview
 
 The EMCDDA thematic paper (2006) documents a comprehensive profile of adverse
-effects associated with hallucinogenic mushroom use, drawing from hospital data,
+effects associated with [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]] use, drawing from hospital data,
 emergency room presentations, national poison center records, and user surveys.
 While the physical toxicity of psilocybin is considered low, the psychological
 risks are significant and well-documented. Understanding these risks is essential
@@ -18,7 +18,7 @@ for both clinical management and individual harm reduction.
 
 ## Physical Adverse Effects
 
-Physiological effects of hallucinogenic mushrooms are generally mild and
+Physiological effects of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] are generally mild and
 self-limiting. The Dutch CAM risk assessment (2000) noted no evidence of chronic
 toxicity, mutagenicity, or irreversible organ damage attributable to psilocybin
 at recreational doses. Acute physical effects include dizziness, nausea, weakness,
@@ -26,7 +26,7 @@ muscle aching, shivering, abdominal pain, mydriasis (dilated pupils), mild
 tachycardia, and slight blood pressure elevation.
 
 The most common physical complaint is nausea and vomiting, which occurs in roughly
-25% of users according to Mixmag survey data. This is thought to result from
+25% of users according to [[emcdda-mixmag-survey-magic-mushroom-prevalence-trends-2000-2005]] data. This is thought to result from
 irritation of the digestive tract by chitin and other indigestible mushroom
 components, as well as direct serotonergic effects on gut receptors.
 
@@ -70,7 +70,7 @@ of mortality are far more common than direct toxicological causes.
 
 ## Misidentification Poisoning
 
-Foraging wild mushrooms carries the significant risk of misidentification. The
+Foraging [[edible-wild-mushrooms-by-region]] carries the significant risk of misidentification. The
 EMCDDA documents cases of severe poisoning and death resulting from consumption of
 mushrooms incorrectly identified as hallucinogenic species. In particular, the
 Galerina species contain the same amatoxins as the death cap (*Amanita

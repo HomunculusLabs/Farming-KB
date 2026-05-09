@@ -1,5 +1,5 @@
 ---
-title: Fukuoka No Fertilizer Principle and Natural Soil Fertility
+title: Fukuoka No fukuoka no fertilizer principle natural soil fertility and Natural Soil Fertility
 created: 2026-04-28
 tags:
   - farming
@@ -19,7 +19,7 @@ type: concept
 
 ## Overview
 
-The second of Fukuoka's four principles of natural farming is no fertilizer. Fukuoka challenged the universal assumption that crops require applied nutrients in the form of chemical fertilizers, compost, or manure. Through decades of experimentation with fruit trees, rice, and winter grains, he demonstrated that plants can achieve yields equal to those obtained with heavy fertilization when the inherent fertility of nature is fully engaged. His argument rests on a fundamental rethinking of what it means for a crop to depend on the soil.
+The second of Fukuoka's four [[four-principles-of-natural-farming]] farming is no fertilizer. Fukuoka challenged the universal assumption that crops require applied nutrients in the form of [[cervantes-chemical-fertilizers-guide]], compost, or manure. Through decades of experimentation with fruit trees, rice, and winter grains, he demonstrated that plants can achieve yields equal to those obtained with heavy fertilization when the inherent fertility of nature is fully engaged. His argument rests on a fundamental rethinking of what it means for a crop to depend on the soil.
 
 ## The Scientific Origin of Fertilizer Dependence
 
@@ -54,8 +54,8 @@ Fukuoka did apply rice straw to his fields, but he distinguished this from prepa
 Fukuoka described the mechanisms by which soil maintains and increases its fertility without human intervention:
 
 - **Green manure plants**: Clovers, legumes, and other ground cover plants fix atmospheric nitrogen through symbiotic bacteria in their root nodules. When these plants die back, the nitrogen and organic matter they contributed become available to subsequent crops.
-- **Microbial populations**: One gram of soil on Fukuoka's farm contained about 100 million nitrogen fixing bacteria and other soil enriching microbes. These populations maintain nutrient cycling without any input from the farmer.
-- **Natural succession**: As different plant species grow and die through the seasons, each contributes different organic compounds to the soil. This diversity of inputs maintains a balanced nutrient profile.
+- **Microbial populations**: One gram of soil on Fukuoka's farm contained about 100 million nitrogen fixing bacteria and other soil enriching microbes. These populations maintain [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] without any input from the farmer.
+- **Natural succession**: As different plant species grow and die through the seasons, each contributes different [[fungal-volatile-organic-compounds-communication]] to the soil. This diversity of inputs maintains a balanced nutrient profile.
 - **Animal activity**: Chickens, earthworms, moles, and other animals process organic matter and incorporate it into the soil through their digestive systems and burrowing activities.
 
 ## The Sawdust Experiment
@@ -79,7 +79,7 @@ Fukuoka made the provocative observation that chemical fertilizers are effective
 - Adding fertilizer to soil that already produces 7 to 8 bushels has very little effect.
 - Adding fertilizer to fields yielding 10 bushels may actually hurt productivity.
 
-Chemical fertilizer is thus a remedy for a condition that scientific farming itself has created. Green manure and natural soil processes were always the cheaper, safer, and more effective methods for increasing yields.
+Chemical fertilizer is thus a remedy for a condition that [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] itself has created. Green manure and natural soil processes were always the cheaper, safer, and more effective methods for increasing yields.
 
 ## The Fruit Tree Experiment
 

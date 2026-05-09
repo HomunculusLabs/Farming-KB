@@ -4,7 +4,7 @@
 
 Dr. Emery Myers Emmert (1900-1962) was a professor of horticulture at the
 University of Kentucky whose pioneering work in the 1950s laid the foundation
-for modern winter harvest systems. Emmert invented the plastic greenhouse,
+for modern winter harvest systems. Emmert invented the coleman emery emmert plastic greenhouse pioneer,
 pioneered the use of row covers, developed plastic mulch techniques, and was
 the first to demonstrate that cold-hardy vegetables could be grown through
 winter in unheated structures with an inner layer of protection. Despite
@@ -28,7 +28,7 @@ Emmert's plastic greenhouses were not just cheaper — they represented a
 fundamentally different philosophy of protected cultivation. Glass greenhouses
 were designed to be heated structures for growing warm-season crops in cold
 weather. Emmert's plastic structures were conceived as simple shelters that
-modified the growing environment modestly enough to extend the range of
+modified the [[cannabis-growing-environment-setup]] modestly enough to extend the range of
 cold-hardy crops into seasons where they would otherwise fail. This
 philosophical shift — from fighting the climate to modestly modifying it —
 is the foundation of all subsequent unheated winter growing systems.
@@ -50,7 +50,7 @@ Cold-hardy plants can survive freezing temperatures if they are not subjected
 to the drying effects of cold winter winds. The inner layer trapped humidity
 around the plants, preventing the tissue damage that occurs when cold dry air
 rapidly draws moisture from plant tissues. It also reduced the amplitude of
-daily temperature swings, allowing plants to maintain metabolic activity
+daily temperature swings, allowing plants to maintain [[arbuscule-isolation-metabolic-activity-assays]]
 during the short daylight hours of winter.
 
 Emmert published his findings in "Earth Helps Heat Greenhouse: Lettuce Grows
@@ -70,7 +70,7 @@ sheeting laid over soil could suppress weeds, warm the soil, conserve
 moisture, and improve crop yields. This technique, combined with his work on
 plastic greenhouses and row covers, established the three core technologies
 of what would later be called "plasticulture" — the use of plastic materials
-in commercial vegetable production.
+in commercial [[dry-gardening-unirrigated-vegetable-production-solomon]].
 
 Emmert's approach to plastic mulch was characteristically practical. He did
 not conduct elaborate theoretical studies of the physics of heat transfer
@@ -95,7 +95,7 @@ technology. Natural gas was cheap in the 1960s and 1970s, making heated
 greenhouse production economically attractive for tomatoes, cucumbers, and
 lettuce. The agricultural industry saw no reason to develop unheated systems
 when heated systems were profitable. It was only after the energy crises of
-the 1970s and growing environmental awareness in the 1980s and 1990s that
+the 1970s and [[mushroom-growing-environmental-control]] awareness in the 1980s and 1990s that
 the economics of unheated winter production became compelling.
 
 Finally, Emmert published primarily in state agricultural experiment station
@@ -127,15 +127,23 @@ Emmert's story illustrates a recurring pattern in agricultural innovation:
 promising techniques are often discovered, published, and then forgotten for
 decades because the prevailing agricultural paradigm has no place for them.
 The techniques of natural farming, cover cropping, integrated pest management,
-and rotational grazing have all followed similar trajectories — known to
+and [[comparison-rotational-grazing-vs-continuous-grazing]] have all followed similar trajectories — known to
 practitioners, documented in research, ignored by the mainstream, and then
 "rediscovered" when changing conditions make them relevant. The history of
 Emmert's work suggests that the sustainable agriculture movement should pay
 more attention to historical agricultural literature, where many solutions
 to current problems may already have been developed and tested.
-
 ## See Also
 
 - [[coleman-unheated-greenhouse-design]]
 - [[unheated-greenhouse-winter-harvest]]
 - [[coleman-protected-cultivation]]
+
+## Merged: Coleman Greenhouse Soil Solar Heating with Clear Plastic
+
+# Coleman Greenhouse Soil Solar Heating with Clear Plastic
+
+A passive soil-warming technique developed by Eliot Coleman in which a sheet of
+clear plastic is laid directly on prepared greenhouse soil to trap solar energy
+and raise soil temperatures before transplanting heat-loving crops such as
+tomatoes. This method can bring soil at a 4-inch depth to 65°F using only

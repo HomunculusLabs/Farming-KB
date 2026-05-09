@@ -1,5 +1,5 @@
 ---
-title: "2,4-DMA -- 2,4-DIMETHOXYAMPHETAMINE -- PIHKAL Entry #53"
+title: "2,4-DMA -- 2,4-DIMETHOXYAMPHETAMINE -- 2c-b-pihkal-entry-20 #53"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -50,7 +50,7 @@ There is something vaguely counterproductive, in my evaluation of things, when t
 
 ## Synthesis
 
-To a solution of 10 g 2,4-dimethoxybenzaldehyde in 50 mL nitroethane there was added 0.5 g anhydrous ammonium acetate, and the mixture was heated on the steam bath for 2 h. The excess solvent/reagent was removed under vacuum, and the residue oil dissolved in 25 mL boiling MeOH. On cooling, this deposited yellow crystals of 1-(2,4-dimethoxyphenyl)-2-nitropropene that, after filtering, MeOH washing, and air drying, weighed 10.2 g and had a mp of 78-79 deg C.
+To a solution of 10 g 2,4-dimethoxybenzaldehyde in 50 mL nitroethane there was added 0.5 g anhydrous ammonium acetate, and the mixture was heated on the [[scythian-cannabis-steam-bath-ritual]] for 2 h. The excess solvent/reagent was removed under vacuum, and the residue oil dissolved in 25 mL boiling MeOH. On cooling, this deposited yellow crystals of 1-(2,4-dimethoxyphenyl)-2-nitropropene that, after filtering, MeOH washing, and air drying, weighed 10.2 g and had a mp of 78-79 deg C.
 
 A magnetically stirred suspension of 6.0 g LAH in 300 mL anhydrous Et2O was brought up to a gentle reflux under a He atmosphere. A total of 8.5 g 1-(2,4-dimethoxyphenyl)-2-nitropropene was introduced into the reaction mixture by allowing the condensed Et2O to leach it from a modified Soxhlet condenser. After the addition was complete, the reaction was held at reflux for an additional 24 h. After cooling with an external ice bath, the excess hydride was destroyed by the cautious addition of H2O. When the exothermic reaction had subsided, there was added 500 mL H2O, 150 g potassium sodium tartrate, and sufficient base to bring the pH above 9. The phases were separated, the organic phase dried over anhydrous MgSO4, the drying agent removed by filtration, and the clear filtrate then saturated with anhydrous HCl gas to produce white crystals of 2,4-dimethoxyamphetamine hydrochloride (2,4-DMA) with a mp of 146-147 deg C.
 
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

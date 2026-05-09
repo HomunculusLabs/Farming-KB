@@ -1,6 +1,6 @@
 ---
-title: "The Four Principles of Natural Farming"
-source: "Masanobu Fukuoka - The One-Straw Revolution (1978)"
+title: "The four-principles-of-natural-farming"
+source: "[[masanobu-fukuoka]] - The One-Straw Revolution (1978)"
 tags:
   - natural-farming
   - fukuoka
@@ -10,7 +10,7 @@ tags:
   - sustainable-agriculture
   - soil-health
   - pest-management
-  - permaculture
+  - [[permaculture]]
 ---
 # The Four Principles of Natural Farming
 
@@ -18,13 +18,13 @@ The four principles of natural farming are the foundational precepts established
 
 ## Overview
 
-Fukuoka arrived at these principles not by adding techniques one upon another — the standard approach of modern agriculture — but by progressively eliminating unnecessary agricultural practices. He describes his method as aiming at "a pleasant, natural way of farming which results in making the work easier instead of harder." The approach stands in direct contrast to modern scientific agriculture, which he argued creates dependencies by first upsetting the natural balance and then requiring increasingly complex interventions to correct the resulting problems.
+Fukuoka arrived at these principles not by adding techniques one upon another — the standard approach of modern agriculture — but by progressively eliminating unnecessary agricultural practices. He describes his method as aiming at "a pleasant, natural way of farming which results in making the work easier instead of harder." The approach stands in direct contrast to modern [[fukuoka-critique-scientific-agriculture-civilization]], which he argued creates dependencies by first upsetting the natural balance and then requiring increasingly complex interventions to correct the resulting problems.
 
-The four principles are described by Fukuoka as complying "with the natural order and lead[ing] to the replenishment of nature's richness." He considered them "the heart of my method of growing vegetables, grain, and citrus."
+The four principles are described by Fukuoka as complying "with the natural order and lead[ing] to the replenishment of nature's richness." He considered them "the heart of my method of [[container-growing-vegetables-herbs]], grain, and citrus."
 
 ## Historical Development
 
-Fukuoka's journey toward these principles began in 1938 when he settled on a mountain farm in Ehime Prefecture, Japan, after resigning from his position as a plant pathologist at the Kochi Prefecture Testing Station. His initial attempt at "natural farming" involved simply abandoning his father's mandarin orange orchard without any intervention. The result was disastrous: branches became tangled, insects attacked the trees, and nearly two acres of trees withered and died. Fukuoka later acknowledged that this was "abandonment, not natural farming."
+Fukuoka's journey toward these principles began in 1938 when he settled on a mountain farm in Ehime Prefecture, Japan, after resigning from his position as a plant pathologist at the Kochi Prefecture [[fukuoka-straw-scattering-testing-station-resistance]]. His initial attempt at "natural farming" involved simply abandoning his father's mandarin orange orchard without any intervention. The result was disastrous: branches became tangled, insects attacked the trees, and nearly two acres of trees withered and died. Fukuoka later acknowledged that this was "abandonment, not natural farming."
 
 Over the following decades, through continuous experimentation — wiping out another 400 citrus trees in the process — he gradually refined his understanding. He ultimately reached the conclusion that "there was no need to plough, no need to apply fertilizer, no need to make compost, no need to use insecticide. When you get right down to it, there are few agricultural practices that are really necessary."
 
@@ -42,11 +42,11 @@ Historical context supports this principle. Fukuoka noted that a thousand years 
 
 ## Second Principle: No Chemical Fertilizer or Prepared Compost
 
-The second principle rejects both synthetic chemical fertilizers and the labor-intensive preparation of compost. Fukuoka demonstrated that soil fertility can be maintained entirely through returning all straw and organic residues to the field surface, supplemented by a thin layer of chicken manure or duck droppings.
+The second principle rejects both synthetic [[cervantes-chemical-fertilizers-guide]] and the labor-intensive preparation of compost. Fukuoka demonstrated that soil fertility can be maintained entirely through returning all straw and organic residues to the field surface, supplemented by a thin layer of chicken manure or duck droppings.
 
-Chemical fertilizer, according to Fukuoka, causes trees and crops to grow larger superficially but year-by-year depletes the soil of its vitality: "Chemical fertilizer drains the earth of its vitality. If it is used even for one generation, the soil suffers considerably." In his orchard, twenty years of no chemical fertilizer application transformed hard red clay into loose, dark soil rich with earthworms and organic matter.
+Chemical fertilizer, according to Fukuoka, causes trees and crops to grow larger superficially but year-by-year depletes the soil of its vitality: "Chemical fertilizer drains the earth of its vitality. If it is used even for one generation, the soil suffers considerably." In his orchard, twenty years of no chemical [[cervantes-fertilizer-application-strain-feeding]] transformed hard red clay into loose, dark soil rich with earthworms and organic matter.
 
-Regarding compost preparation, Fukuoka stated: "I will not say that you do not need compost — only that there is no need to work hard making it." If straw is scattered on the field surface and covered with a thin layer of manure, it decomposes completely within six months. This eliminates the traditional labor of chopping straw, adding water and lime, turning piles in the hot sun, and hauling compost to the field.
+Regarding [[cultivator-compost-preparation-phase-methods]], Fukuoka stated: "I will not say that you do not need compost — only that there is no need to work hard making it." If straw is scattered on the field surface and covered with a thin layer of manure, it decomposes completely within six months. This eliminates the traditional labor of chopping straw, adding water and lime, turning piles in the hot sun, and hauling compost to the field.
 
 Fukuoka advocated returning all straw and hulls remaining after threshing to the field surface. He criticized the practice of using only a portion of the straw while discarding the rest, arguing that if all farmers in Japan returned all straw to their fields, the result would be an enormous amount of compost returned to the earth.
 
@@ -76,7 +76,7 @@ He further warned against organic phosphorous pesticides, because these chemical
 ## Transitioning to the Four Principles
 
 Fukuoka acknowledged that making the transition to natural farming requires
-care. In the beginning, some weeding, composting, or pruning may be
+care. In the beginning, some weeding, [[composting]], or pruning may be
 necessary, but these measures should be gradually reduced each year. He
 emphasized that it is not the growing technique which is the most
 important factor, but rather the state of mind of the farmer.

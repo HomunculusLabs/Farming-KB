@@ -13,7 +13,7 @@ DOC (2,5-Dimethoxy-4-chloroamphetamine) is a potent, long-acting psychedelic amp
 
 It is the 4-chloro substituted analogue of the classic 2,5-dimethoxyamphetamine series, documented as entry #64 in PiHKAL by [[doet-entity]]|DOET (4-ethyl) is a separate compound with a different character, originally studied for its cognitive-enhancing properties at low doses.
 
-doef-entity|DOEF (4-2-fluoroethyl) extends the side chain and alters the pharmacological profile.
+[[doef-entity]]|DOEF (4-2-fluoroethyl) extends the side chain and alters the pharmacological profile.
 
 Shulgin noted that the differences between the three haloamphetamines (DOI, DOB, and DOC) are subtle, with all being "pretty much of the same potency" and "all of them very long lived."
 
@@ -29,7 +29,7 @@ Neither DOA nor DOAA has been bioassayed in humans as of the PiHKAL publication.
 
 ## Legal Status
 
-DOC is classified as a Schedule I controlled substance in the United States.
+DOC is classified as a Schedule I controlled substance in the [[dmt-containing-plants-united-states-halpern]].
 
 It is also controlled in many other jurisdictions due to its classification as a positional isomer of scheduled DOX compounds.
 
@@ -51,14 +51,15 @@ Individual sensitivity varies, and users are advised to start at the lower end o
 
 ## Index
 
-- dob-entity|DOB: the 4-bromo analogue
-- doi-entity|DOI: the 4-iodo analogue
+- [[dob-entity]]|DOB: the 4-bromo analogue
+- [[doi-entity]]|DOI: the 4-iodo analogue
 - doet-entity|DOET: the 4-ethyl analogue
 - doef-entity|DOEF: the 4-2-fluoroethyl analogue
 - dom-entity|DOM: the 4-methyl analogue (STP)
 - [[doc-entity-pihkal]]
 
 - [[meta-dob-entity]]
+
 ## Practical Considerations
 
 Successful implementation of DOC requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

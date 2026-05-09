@@ -61,7 +61,7 @@ Desert into central Mexico.
 ## Huichol Peyote Pilgrimage
 
 Among the Huichol, Peyote is identified with the deer (their
-sacred animal) and maize (their sacred vegetal staff of life).
+sacred animal) and maize (their sacred vegetal [[fukuoka-textdoc-staff-of-life-critique-western-dietetics]]).
 The first Peyote-collecting expedition was led by Tatewari, the
 original shaman, and subsequent annual trips to collect the plant
 are holy pilgrimages to Wirikuta, the original paradisiacal home
@@ -93,7 +93,7 @@ Mexico represents without a doubt the world's richest area in
 diversity and use of hallucinogens in aboriginal societies. The
 Peyote cactus is the most important sacred hallucinogen. The use
 of Peyote has spread from its original Mexican homeland to Texas
-in the United States, where it became the basis of the Native
+in the [[dmt-containing-plants-united-states-halpern]], where it became the basis of the Native
 American Church religion.
 
 The Tarahumara Indians also revere Peyote and use several
@@ -111,7 +111,7 @@ use among the Aztecs and their predecessors. Its main psychoactive
 alkaloid, mescaline, was first isolated in 1897 and subsequently
 utilized in psychiatric research.
 
-The Peyote ceremony, as practiced today by the Native American
+The Peyote ceremony, as practiced today by the [[halpern-sacramental-peyote-and-native-american-church]]
 Church, represents a synthesis of ancient Mesoamerican traditions
 with Christian elements. The ceremony typically involves an
 all-night vigil with prayer, singing, and the consumption of
@@ -120,7 +120,7 @@ Peyote buttons, conducted around a crescent-shaped altar.
 ## Related Topics
 
 - [[plants-of-the-gods-chemical-structures-hallucinogens]] —
-  chemical structures of mescaline and related compounds
+  [[plants-of-the-gods-chemical-structures-hallucinogens]] of mescaline and related compounds
 - [[plants-of-the-gods-amanita-muscaria]] — another major
   sacred hallucinogen with deep cultural roots
 - [[plants-of-the-gods-geography-hallucinogenic-plants]] —

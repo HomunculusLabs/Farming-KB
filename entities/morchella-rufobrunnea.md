@@ -15,7 +15,7 @@ sources:
   - "Richard, F., Gardes, M., & Moreau, P.A. (2015). \"Morchella rufobrunnea.\" Fungal Biology, 119(12), 1248-1257."
   - "O'Donnell, K. et al. (2011). \"Multilocus phylogenetic analysis of Morchella.\" Mycologia, 103(4), 770-780."
   - "Pilz, D. et al. (2007). Ecology and management of morels. USDA PNW-GTR-710."
-  - "Cao, Y. et al. (2023). \"Artificial cultivation of Morchella species.\" Frontiers in Microbiology, 14, 1156321."
+  - "Cao, Y. et al. (2023). \"[[fukuoka-matsutake-artificial-cultivation-attempt]] of Morchella species.\" Frontiers in Microbiology, 14, 1156321."
 ---
 
 # Morchella rufobrunnea
@@ -52,7 +52,7 @@ sources:
 
 ## Distribution and Habitat
 
-- **Geographic range:** Originally described from California; now known across western North America, the Mediterranean Basin, and parts of Asia
+- **Geographic range:** Originally described from California; now known across western [[psilocybin-north-america-pacific-northwest]], the Mediterranean Basin, and parts of Asia
 - **Ecosystem type:** Primarily disturbed or post-fire landscapes; frequently fruits in landscaped areas, woodchip mulch, burn sites, and riparian zones
 - **Ectomycorrhizal hosts:** Quercus spp., Pinus spp., Populus spp., and Alnus spp.
 - **Season:** Spring (March–May in Northern Hemisphere) after soil temperatures reach 10-12°C
@@ -60,14 +60,14 @@ sources:
 
 ## Cultivation
 
-*M. rufobrunnea* is one of the few morel species reliably cultivated commercially, representing a significant breakthrough in ascomycete mushroom farming. Thousands of tons are produced annually in China (Sichuan, Shaanxi, Gansu provinces) using supplemented wheat straw and sawdust substrates in polypropylene bags sterilized at 121°C for 2 hours. Grain spawn incubates 20-30 days at 18-22°C; fruiting is induced by cold shock (4-8°C for 72-96 hours) followed by light exposure and >90% RH. Optimal fruiting temperature is 10-18°C with biological efficiency of 10-30% and total cycle time of 60-90 days. Key challenges include Trichoderma and Mucor contamination, specific microclimate requirements for primordia formation, and genetic instability in commercial strains.
+*M. rufobrunnea* is one of the few morel species reliably cultivated commercially, representing a significant breakthrough in ascomycete mushroom farming. Thousands of tons are produced annually in China (Sichuan, Shaanxi, Gansu provinces) using supplemented wheat straw and sawdust substrates in polypropylene bags sterilized at 121°C for 2 hours. Grain spawn incubates 20-30 days at 18-22°C; fruiting is induced by cold shock (4-8°C for 72-96 hours) followed by light exposure and >90% RH. Optimal fruiting temperature is 10-18°C with [[stamets-biological-efficiency-yield]] of 10-30% and total cycle time of 60-90 days. Key challenges include Trichoderma and Mucor contamination, specific microclimate requirements for [[growing-gourmet-primordia-formation-pinning]], and genetic instability in commercial strains.
 
 ## Bioactive Compounds
 
 - **Polysaccharides:** β-glucan fractions with immunomodulatory activity, isolated via hot-water extraction
 - **Phenolic compounds:** Gallic acid, protocatechuic acid, and catechin derivatives with antioxidant capacity
 - **Ergosterol:** Predominant sterol; precursor to vitamin D2 upon UV exposure
-- **Volatile compounds:** C8 alcohols and ketones responsible for the characteristic morel aroma
+- **[[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]:** C8 alcohols and ketones responsible for the characteristic morel aroma
 
 ## Culinary and Nutritional Value
 
@@ -78,7 +78,7 @@ sources:
 
 ## Ecological Role
 
-Forms facultative ectomycorrhizal associations with a broad range of hardwood and conifer hosts. Also functions as a primary decomposer of woody substrates in disturbed environments. Fruits prolifically after forest fires, exploiting the nutrient pulse from burned organic matter. Contributes to nutrient cycling through decomposition of woody debris and leaf litter.
+Forms facultative ectomycorrhizal associations with a broad range of hardwood and conifer hosts. Also functions as a primary decomposer of woody substrates in disturbed environments. Fruits prolifically after forest fires, exploiting the nutrient pulse from burned organic matter. Contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] through decomposition of woody debris and leaf litter.
 
 ## Notable Cultivars and Commercial Strains
 

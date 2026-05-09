@@ -30,7 +30,7 @@ practitioner Paul Wheaton at the Wheaton Labs compound in Montana. The
 name is a coined term with no etymology beyond being Wheaton's creation.
 
 The design combines principles of earth-sheltered architecture, passive
-solar heating, and natural building materials to create structures that
+solar heating, and natural [[natural-building-materials-guide]] to create structures that
 require minimal energy for heating and cooling. Wofatis are intended to
 be low-cost, low-impact alternatives to conventional housing.
 
@@ -89,7 +89,7 @@ depth, and quality of the roof insulation layer.
 ## Thermal Performance
 
 The thermal strategy relies on three principles: earth berm insulation
-(minimizing heat loss on three sides), passive solar gain through the
+(minimizing heat loss on three sides), [[comparison-passive-solar-vs-earth-sheltered]] gain through the
 south glazing (providing winter heat), and thermal mass from the earth
 roof and berm walls (buffering temperature fluctuations).
 
@@ -117,7 +117,7 @@ landscape, and use of natural, non-toxic materials.
 Limitations include potential moisture problems if the roof membrane
 fails, limited natural light compared to above-ground structures,
 regulatory hurdles (earth-sheltered buildings often do not meet
-conventional building codes), and the need for careful site selection
+conventional building codes), and the need for careful [[fukuoka-creating-natural-farm-site-selection-establishment]]
 with proper drainage.
 
 maintenance consideration.
@@ -129,14 +129,14 @@ systems. The earth roof can support low-growing vegetation, and the
 disturbed soil from excavation is typically used for hugelkultur beds
 or earthworks elsewhere on the site.
 
-Wheaton Labs serves as the primary demonstration site, with multiple
+Wheaton Labs serves as the primary [[holmgren-melliodora-permaculture-demonstration-site-hepburn-springs]], with multiple
 wofati structures in varying stages of completion serving as living
 proof-of-concept experiments.
 
 ## See Also
 
 - [[cob-building]]
-- [[paul-wheaton]]
+- paul-wheaton
 - [[keyline-design]]
 - thermal mass
 - [[sheet-mulching]]

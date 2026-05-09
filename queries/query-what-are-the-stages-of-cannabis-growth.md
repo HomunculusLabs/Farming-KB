@@ -1,5 +1,5 @@
 ---
-title: "What Are the Stages of Cannabis Growth?"
+title: "What Are the query what are the stages of cannabis growth Growth?"
 created: 2026-04-28
 tags: [query, cannabis, growth-stages, plant-biology, cultivation]
 date: 2026-04-25
@@ -19,7 +19,7 @@ Photoperiod varieties progress through stages based on light cycle, while autofl
 
 ## Detailed Explanation
 Understanding the cannabis growth cycle is fundamental to successful cultivation regardless of growing method.
-Each stage of development requires different light intensity, nutrient ratios, humidity levels, and training techniques.
+Each stage of development requires different light intensity, nutrient ratios, humidity levels, and [[cannabis-training-techniques-comparison]].
 The [[cannabis-seedling-care-guide]], which also addresses common problems like damping off and shell-stuck seedlings.
 Seeds that fail to germinate within 10 days are likely non-viable and should be discarded to prevent mold in the growing medium.
 Using seeds from reputable breeders and storing them properly in a cool, dark place maximizes germination success rates.
@@ -32,9 +32,9 @@ The [[no-till-cannabis]] living soil system may not need any additional nutrient
 
 ### Vegetative Growth and Training
 
-The vegetative stage is when the plant does the majority of its structural growth, developing the branches, stems, and root mass that will support flower production later.
+The [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] is when the plant does the majority of its structural growth, developing the branches, stems, and root mass that will support flower production later.
 Photoperiod cannabis remains in vegetative growth under light schedules of 18 hours on and 6 hours off (or 24 hours continuous), while autoflowering varieties transition to flowering after a fixed period of 3 to 5 weeks regardless of light cycle.
-The [[cannabis-living-soil-guide]] systems often show more vigorous vegetative growth than those in inert media because the biological nutrient cycling provides a steady supply of all essential elements.
+The [[cannabis-living-soil-guide]] systems often show more vigorous vegetative growth than those in inert media because the biological [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] provides a steady supply of all essential elements.
 
 Training during the vegetative stage is one of the most impactful things a grower can do to increase yield.
 Topping (cutting the main stem above a node) encourages the plant to develop two main colas instead of one, effectively doubling the flowering sites at the top of the canopy.
@@ -47,7 +47,7 @@ Growers using [[cannabis-indoor-ventilation-setup]], creates an environment that
 
 ### Flowering, Harvest, and Curing
 
-The flowering stage itself is typically divided into early, mid, and late phases, each with distinct management priorities.
+The [[cannabis-flowering-stage-management]] itself is typically divided into early, mid, and late phases, each with distinct management priorities.
 Early flowering (weeks 1 to 3) is characterized by rapid stretching, the emergence of pistils (white hair-like structures), and the beginning of calyx development.
 Mid-flowering (weeks 4 to 6) is when buds begin to bulk up and develop their structure, trichome production becomes visible to the naked eye, and the plant's aroma intensifies significantly.
 Late flowering (weeks 7 to 12 depending on variety) is when resin production peaks, trichomes change from clear to cloudy to amber, and the plant approaches harvest readiness.
@@ -55,7 +55,7 @@ Indica-dominant varieties typically finish flowering faster (7 to 9 weeks) while
 During late flowering, many growers reduce or eliminate nitrogen entirely and may use finishing products like [[cannabis-harvesting-techniques]] cover methods for determining readiness including trichome observation with a jeweler's loupe, pistil coloration, and overall bud appearance.
 After harvest, proper drying and [[cannabis-seedling-care-guide]] covers the fragile early phase where overfeeding is the most common mistake
 - During the [[cannabis-flowering-stage]] requires a shift in nutrients and careful monitoring of bud development over 8 to 12 weeks
-- Proper harvest timing guided by [[cannabis-curing-jar-technique]] determines final quality
+- Proper [[cannabis-harvest-timing-visual-cues]] guided by [[cannabis-curing-jar-technique]] determines final quality
 - The [[green-cannabis-seedling-care]] covers optimal environmental conditions for the vulnerable early weeks
 - Autoflowers transition automatically while photoperiod varieties require a 12/12 light change to trigger flowering
 - Nutrient needs shift from nitrogen-dominant in vegetative growth to phosphorus and potassium-dominant in flowering
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

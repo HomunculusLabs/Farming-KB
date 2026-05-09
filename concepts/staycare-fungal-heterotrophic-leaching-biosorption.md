@@ -1,5 +1,5 @@
 ---
-title: Fungal Heterotrophic Leaching and Metal Biosorption
+title: staycare fungal heterotrophic leaching biosorption Leaching and fungal-heavy-metal-biosorption-and-detoxification
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -12,11 +12,11 @@ sources:
 
 ## Heterotrophic Leaching
 
-Heterotrophic leaching is the fungal dissolution of metals from ores, industrial wastes, and by-products through the production of organic acids and other metabolites. Unlike autotrophic (chemolithotrophic) bacterial leaching, which uses sulfur or iron oxidation, heterotrophic leaching relies on fungal metabolism of organic substrates.
+Heterotrophic leaching is the fungal dissolution of metals from ores, industrial wastes, and by-products through the production of organic acids and other metabolites. Unlike autotrophic (chemolithotrophic) bacterial leaching, which uses sulfur or iron oxidation, heterotrophic leaching relies on [[singh-fungal-metabolism-pahs]] of organic substrates.
 
 ### Mechanisms of Leaching
 
-The primary mechanism is organic acid production. Fungi secrete acids that:
+The primary mechanism is organic [[staycare-fungal-organic-acid-production-metal-leaching]]. Fungi secrete acids that:
 - Lower environmental pH, protonating metal compound anions and decreasing cation availability
 - Form soluble metal-organic acid complexes, increasing metal mobility and extraction
 - Key acids include citric, oxalic, gluconic, malic, and succinic acids
@@ -27,7 +27,7 @@ Citric acid is especially effective because metal-citrate complexes are highly m
 
 Key leaching fungi include:
 - [[staycare-fungal-metal-transformations-soil]]
-- [[mycoremediation-heavy-metals-detailed]]
+- [[mycoremediation-of-heavy-metals]]
 - [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]
 - [[fungal-treatment-of-textile-dyes-mechanisms]]
 ## Practical Applications
@@ -107,4 +107,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

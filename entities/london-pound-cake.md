@@ -11,7 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Leafly Staff (2021). "London Pound Cake Strain Information." Leafly.com.
-  - AllBud (2023). "London Pound Cake Cannabis Strain." AllBud.com.
+  - AllBud (2023). "London Pound Cake [[blesching-cannabis-strain-selection-receptor-targeting]]." AllBud.com.
   - Wikileaf (2023). "London Pound Cake: The UK's Most Decadent Export." Wikileaf.com.
   - Cookies Fam (2022). "London Pound Cake — Strain Library." cookiesfam.com.
   - cannabis-md (2022). "Terpene Profile Analysis of Popular Cake-Strain Varieties." Journal of Cannabis Research 4(2): 15-28.created: 2026-05-07
@@ -37,7 +37,7 @@ The strain is a cross between the legendary Sunset Sherbert and an unspecified o
 
 London Pound Cake produces medium-to-large, densely packed buds with a chunky, almost cubic structure. The calyxes are tightly wound and heavily coated in trichomes, giving the flowers a frosted, silvery-white appearance.
 
-Coloration shifts from deep forest green to muted purple undertones, especially in cooler growing conditions. Bright orange pistils weave through the resinous mass in moderate density. The overall visual impression is one of extreme density and frost — a hallmark of Cookies-bred genetics.
+Coloration shifts from deep [[trichoderma-forest-green-mold-guide]] to muted purple undertones, especially in cooler growing conditions. Bright orange pistils weave through the resinous mass in moderate density. The overall visual impression is one of extreme density and frost — a hallmark of Cookies-bred genetics.
 
 ## Aroma and Flavor
 
@@ -90,26 +90,28 @@ Lightheadedness and dizziness can occur during the initial onset, especially whe
 
 **Difficulty:** Moderate-to-difficult. The strain is sensitive to nutrient levels and prone to calcium and magnesium deficiencies. It requires careful pH management (5.8–6.2 in hydroponic systems).
 
-**Climate preference:** Warm, Mediterranean-style climate outdoors. The dense bud structure makes it susceptible to bud rot in humid conditions — adequate airflow and humidity control are essential.
+**Climate preference:** Warm, Mediterranean-style climate outdoors. The dense bud structure makes it susceptible to bud rot in humid conditions — adequate airflow and [[cervantes-humidity-control-dehumidification]] are essential.
 
-Indoor growers should maintain relative humidity below 55% during the flowering phase and ensure oscillating fans provide constant air movement through the canopy.
+Indoor growers should maintain relative humidity below 55% during the [[green-cannabis-grow-bible-flowering-phase-and-harvest]] and ensure oscillating fans provide constant air movement through the canopy.
 
-The strain responds well to low-stress training (LST) and scrog methods. Sea of green (SOG) is less effective due to the plant's naturally bushy structure. Defoliation during weeks 3–5 of flowering improves light penetration to lower bud sites.
+The strain responds well to low-stress training (LST) and scrog methods. [[comparison-sea-of-green-vs-screen-of-green]] (SOG) is less effective due to the plant's naturally bushy structure. Defoliation during weeks 3–5 of flowering improves light penetration to lower bud sites.
 
 ## Notable Crosses and Phenotypes
 
 London Pound Cake has become a foundational parent for numerous crosses in the Cookies ecosystem:
 
 - **London Pound Cake #75** — Selected phenotype with amplified grape notes.
-- **Ice Cream Cake** (LPC × Gelato #33) — One of the most popular dessert strains.
+- **Ice [[ice-cream-cake-cannabis]]** (LPC × Gelato #33) — One of the most popular dessert strains.
 - **London Jelly** (LPC × Jealousy) — A 2023 release with enhanced potency.
 - **Papaya Cake** (LPC × Papaya) — Tropical fruit notes layered on the cake base.
 - **LPC Mints** (LPC × Kush Mints) — Minty-fresh profile with added sedation.
 
 ## See Also
 
+- [[london-poundcake]]
+
 - [[girl-scout-cookies]]
-- [[wedding-cake-cannabis]]
+- [[wedding-cake]]
 - [[animal-cookies]]
 - [[sour-diesel]]
 - [[white-widow-entity]]

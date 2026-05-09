@@ -11,7 +11,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada. New York Botanical Garden.
+  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern dmt-containing-plants-united-states-halpern and Adjacent Canada. New York Botanical Garden.
   - Brand, M.H. (2001). "Viburnum." In: Encyclopedia of Plants and Flowers. DK Publishing.
   - Dirr, M.A. (2009). Manual of Woody Landscape Plants. Stipes Publishing.
   - USDA NRCS (2024). Plant Profile: Viburnum lentago. plants.usda.gov.
@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-**Viburnum lentago**, commonly known as nannyberry or sheepberry, is a deciduous shrub or small tree in the family Adoxaceae. It is native to northeastern North America, ranging from New Brunswick and Quebec south to Georgia and west to Minnesota and Colorado.
+**Viburnum lentago**, commonly known as nannyberry or sheepberry, is a deciduous shrub or small tree in the family Adoxaceae. It is native to northeastern [[psilocybin-north-america-pacific-northwest]], ranging from New Brunswick and Quebec south to Georgia and west to Minnesota and Colorado.
 
 The species is valued for its showy white flower clusters in spring, dark blue-black drupes in autumn, and vibrant red-purple fall foliage. Nannyberry is widely planted as an ornamental landscape shrub and provides excellent wildlife habitat.
 
@@ -70,7 +70,7 @@ Nutritional analysis shows nannyberry fruits are rich in vitamin C, antioxidants
 
 Some foragers note that underripe fruits are mildly cathartic and should be avoided until fully dark and soft.
 
-Modern interest in nannyberry as a niche food crop has grown with the native foods movement. Several small-scale producers in the Upper Midwest now harvest and process nannyberry fruits for value-added products including fruit leathers, syrups, and fermented beverages.
+Modern interest in nannyberry as a niche food crop has grown with the native [[fukuoka-natural-foods-movement-america]]. Several small-scale producers in the Upper Midwest now harvest and process nannyberry fruits for value-added products including fruit leathers, syrups, and fermented beverages.
 
 The sweet, dried fruits store exceptionally well and maintain flavor integrity for over a year under cool, dry conditions.
 
@@ -82,13 +82,13 @@ Mammalian browsers include white-tailed deer, cottontail rabbits, and moose, whi
 
 As a edge-tolerant species, nannyberry plays an important successional role in forest regeneration. It colonizes open areas and provides mid-level canopy structure that facilitates understory establishment.
 
-The flowers attract a diverse array of pollinators including native bees, honeybees, butterflies, and syrphid flies during the critical spring foraging period.
+The flowers attract a diverse array of pollinators including [[query-how-to-attract-native-bees-and-beneficial-insects]], honeybees, butterflies, and syrphid flies during the critical spring foraging period.
 
 Nannyberry is a host plant for the spring azure butterfly (*Celastrina ladon*) and several species of sphinx moths in the genus *Hemaris*.
 
 The species also contributes to soil stabilization on slopes and streambanks due to its extensive fibrous root system.
 
-Its ability to thrive in both upland and riparian positions makes it valuable for ecological restoration projects, particularly in reforestation of degraded agricultural land.
+Its ability to thrive in both upland and riparian positions makes it valuable for ecological restoration projects, particularly in reforestation of degraded [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]].
 
 ## Cultivation
 
@@ -96,7 +96,7 @@ Nannyberry is widely available in the nursery trade and recommended for native p
 
 Propagation is most commonly by seed, which requires 12–18 months of warm-cold stratification for reliable germination. Softwood cuttings taken in June–July root readily under mist with IBA treatment.
 
-Transplanting is successful with balled-and-burlapped or container-grown stock. Established plants are relatively low-maintenance and require minimal pruning beyond removal of dead wood.
+Transplanting is successful with balled-and-burlapped or container-grown stock. Established plants are relatively low-maintenance and require minimal pruning beyond removal of [[fungal-dead-wood-diversity]].
 
 The species has few serious pest or disease problems. Viburnum leaf beetle (*Pyrrhalta viburni*) can cause significant defoliation but nannyberry shows moderate resistance compared to other viburnum species.
 
@@ -105,10 +105,9 @@ Cultivars of note include 'Homebush' (compact form), 'Pink Beauty' (pink-flushed
 ## See Also
 
 - [[sambucus-nigra]]
-- [[sambucus-nigra]]
 - [[vaccinium-corymbosum-entity]]
 - [[myrica-gale]]
 - [[pinus-sylvestris]]
 - [[cedrus-libani]]
 - [[kalmia-latifolia]]
-- [[arctostaphylos-uva-ursi]]
+- arctostaphylos-uva-ursi

@@ -1,5 +1,5 @@
 ---
-title: Permaculture Ground Covers and Accumulators
+title: Permaculture permaculture-plants-food-forest-ground-covers-bamboos and Accumulators
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -12,10 +12,10 @@ tags: [culture, permaculture, plants]
 
 [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] with Ground Covers
 
-Key ground-level companions for fruit and nut trees:
+Key ground-level companions for fruit and [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]]:
 
 - **Lucerne** -- Companion to almond, apple, avocado, citrus, fig, jujube, lichee, mulberry, olive, peach, walnut
-- **Garlic** -- The most universally recommended companion herb for fruit trees
+- **Garlic** -- The most universally recommended companion herb for [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
 - **Chives** -- Companion to apple
 - **Nasturtiums** -- Companion to apple, cabbage family, cucumbers
 - **Borage** -- Companion to strawberries
@@ -28,7 +28,7 @@ Key ground-level companions for fruit and nut trees:
 - Fire-resistant ground covers are essential in fire-prone regions
 - Aquatic ground covers (duckweed, azolla) convert water nutrients into harvestable biomass
 - Fodder grasses provide drought reserve while protecting soil
-- Companion planting with herbs creates functional guilds around fruit trees
+- [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] with herbs creates functional guilds around fruit trees
 
 ## See Also
 
@@ -111,4 +111,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

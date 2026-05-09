@@ -21,7 +21,7 @@ sources:
 # Mycoforestry
 
 Mycoforestry is the use of fungi to sustain forest communities. Coined and
-popularized by **Paul Stamets** in *Mycelium Running* (2005), it is a newly
+popularized by **Paul Stamets** in *[[woodlovers-mycelium-running-pathway-technique]]* (2005), it is a newly
 emerging science — an offshoot of ecoforestry practices emphasizing the role of
 beneficial fungi in forest health, regeneration, and sustainability. The
 foundational principle is simple: **without fungi, there are no forests.**
@@ -29,10 +29,10 @@ foundational principle is simple: **without fungi, there are no forests.**
 ## Core Philosophy
 
 Mycoforestry recognizes that fungi are the primary architects of forest
-ecosystems. Mycelial networks permeate forest soils, connecting trees, recycling
+ecosystems. [[fungal-mycelial-networks-nutrient-translocation]] permeate forest soils, connecting trees, recycling
 nutrients, filtering water, and supporting the entire food web. The practice
 seeks to work with these fungal networks rather than against them, using them
-as active partners in forest management and restoration.
+as active partners in [[mollison-pdc-forest-management-products]] and restoration.
 
 Mycoforestry aims to accomplish the following goals:
 - Preservation of native forests
@@ -85,7 +85,7 @@ mycorrhizae — a deficiency addressable through inoculation.
 7. **Use spored oils** in chain saws and chippers so wood debris immediately
    contacts fungal spores, jump-starting decomposition
 8. **Retain wood debris on-site** around newly planted trees and roads
-9. **Only burn wood debris** as a last-ditch measure for disease control
+9. **Only burn wood debris** as a last-ditch measure for [[hamilton-pest-and-disease-control-organic]]
 10. **Use mycorrhizal spore inoculum** when replanting forestlands
 
 ## Practical Applications
@@ -108,8 +108,8 @@ confronting parasitic fungi with competitive saprophytes.
 
 ## Economic Considerations
 
-Secondary products from woodland ecosystems — edible and medicinal mushrooms,
-pharmaceutical compounds, ecosystem services like water filtration — provide
+Secondary products from woodland ecosystems — edible and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]],
+pharmaceutical compounds, [[biodiversity-of-fungi-ecosystem-services-agriculture]] like water filtration — provide
 strong economic incentives to leave forests intact. Forests affect climate and
 prevent desertification. The challenge lies in valuing assets that conventional
 models cannot quantify: biodiversity, unspoiled landscapes, and undiscovered

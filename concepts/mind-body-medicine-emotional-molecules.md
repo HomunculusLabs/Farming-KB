@@ -7,7 +7,7 @@ tags:
   - endocannabinoid-system
   - psychosomatic
   - emotional-intelligence
-  - [[cannabis-health-index]]." North Atlantic Books, 2015. Chapter II.
+  - cannabis-health-index." North Atlantic Books, 2015. Chapter II.
 type: concept
 ---
 
@@ -67,7 +67,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -117,7 +117,7 @@ Building resilience into systems through diversity, redundancy, and
 adaptive capacity helps mitigate the impacts of these uncertainties.
 
 Knowledge gaps and the ongoing evolution of understanding mean that
-current best practices represent our current state of knowledge rather
+current [[knf-imo-diversity-and-best-practices]] represent our current state of knowledge rather
 than final answers. Practitioners should maintain intellectual humility
 and remain open to new information and approaches that may improve
 upon established methods. Continuous learning and observation are
@@ -143,6 +143,7 @@ For those seeking to deepen their knowledge, recommended resources
 include primary research literature, established reference works,
 practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
-provides the most robust foundation for developing expertise in this
-area and contributing to its ongoing development and refinement.
-
+## See Also
+- [[cannabis-mind-body-medicine-integration]]
+- [[blesching-cannabis-mind-body-medicine]]
+- [[cannabis-mind-body-medicine-integration-framework-blesching]]

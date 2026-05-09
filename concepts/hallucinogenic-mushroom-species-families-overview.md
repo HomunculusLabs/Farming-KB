@@ -1,5 +1,5 @@
 ---
-title: Hallucinogenic Mushroom Species Families Overview
+title: Hallucinogenic hallucinogenic mushroom species families overview Overview
 created: 2026-05-06
 tags: [taxonomy, psilocybe, strophariaceae, bolbitiaceae, coprinaceae, cortinariaceae, neurotropic-fungi, species-distribution]
 date: 2026-04-28
@@ -26,7 +26,7 @@ The Strophariaceae family contains the most significant genus for recreational
 and ethnobotanical use: Psilocybe. This genus is predominant in terms of both
 species diversity and commercial market presence. Key species include:
 
-**Psilocybe cubensis** (also known as Stropharia cubensis) is the most
+**Psilocybe cubensis** (also known as [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]) is the most
 commonly cultivated and marketed species. Numerous named varieties exist,
 including Mexican, Thai, Colombian, and Amazonian strains, each reflecting the
 geographic origin of the original wild specimen or the selective breeding
@@ -64,7 +64,7 @@ have been the subject of ongoing mycological revision.
 ### Bolbitiaceae Family (Conocybe genus)
 
 The Bolbitiaceae family contains the genus Conocybe, which includes several
-psychoactive species such as Conocybe cyanopus. Conocybe mushrooms are
+psychoactive species such as [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]]. Conocybe mushrooms are
 generally small, fragile, and easily overlooked, which contributes to their
 relative rarity in recreational use despite the presence of psilocybin and
 psilocin in some species. Their small size and non-distinctive brown appearance
@@ -80,10 +80,10 @@ The Coprinaceae family contains two genera of psychoactive significance:
 cambodginiensis, are pantropical in distribution and noted for their potency.
 They are found in tropical and subtropical regions including Southeast Asia,
 Australia, Hawaii, and parts of the Americas. The genus is characterised by
-bluing reactions and relatively high concentrations of psilocin and psilocybin
+bluing reactions and relatively high concentrations of [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]]
 per unit dry weight.
 
-**Panaeolus** species, including Panaeolus subbalteatus and Panaeolus
+**Panaeolus** species, including [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]] and Panaeolus
 cyanescens, contain psychoactive tryptamines and have a broad cosmopolitan
 distribution. While generally less potent than Psilocybe species, Panaeolus
 mushrooms are widespread and can be found in temperate grasslands, pastures,
@@ -92,7 +92,7 @@ and dung-enriched soils worldwide.
 ### Cortinariaceae Family (Inocybe genus)
 
 The Cortinariaceae family contains the genus Inocybe, which includes some
-psychoactive species such as Inocybe aeruginascens. However, the Inocybe genus
+psychoactive species such as [[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]]. However, the Inocybe genus
 also contains species that produce dangerous toxins including muscarine. This
 toxic overlap makes identification particularly hazardous for amateur foragers.
 The neurotropic Inocybe species are among the least commonly sought for

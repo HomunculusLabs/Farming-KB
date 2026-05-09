@@ -19,10 +19,10 @@ type: concept
 
 Gasteromycetes are a diverse section of basidiospore-producing fungi defined
 by the enclosure of their spore-producing tissue (the hymenium) within the
-fruiting body, rather than exposing it on gills or other fertile surfaces as
+[[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]], rather than exposing it on gills or other fertile surfaces as
 in typical mushrooms. The name derives from Greek: *gaster* meaning "stomach"
 and *mycetes* meaning "fungi," literally "stomach fungi." This informal group
-includes stinkhorns, cage fungi, puffballs, earth-stars, earth-balls, bird's
+includes stinkhorns, [[stinkhorn-cage-fungi-reproductive-biology]], puffballs, earth-stars, earth-balls, bird's
 nest fungi, and false truffles.
 
 Gasteromycetes are regarded as a polyphyletic assemblage rather than a natural
@@ -58,11 +58,11 @@ spores embedded in foul-smelling slime (gleba) into the air. The receptacle
 can reach full size in just a few hours, extending the spore mass into an
 elevated position for insect access.
 
-The distinctive odor is produced by a cocktail of volatile compounds including
+The distinctive odor is produced by a cocktail of [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] including
 hydrogen sulfide, formaldehyde, methylmercaptan, and unique phallic acids.
 The smell mimics rotting flesh and attracts flies and slugs. These animals
 consume the spore slime and later defecate viable spores elsewhere, depositing
-them in nutrient-rich locations ideal for mycelial growth.
+them in nutrient-rich locations ideal for [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]].
 
 Species of Dictyophora add a lacy veil (indusium) beneath the spore mass.
 This net-like structure may serve as a ladder for wingless insects such as
@@ -94,7 +94,7 @@ Ileodictyon cibarium, the "intestinal net" of New Zealand and Australia, forms
 a detached cage that blows across grass after hatching from its egg. The Maori
 recognized nine varieties, barbecuing the eggs while denigrating the hatched
 forms as "feces of ghosts or of the stars." The cage architecture provides
-exceptional resistance to compression with minimal building material, analogous
+exceptional resistance to compression with minimal [[fungal-building-material-deterioration]], analogous
 to geodesic domes and carbon buckminsterfullerenes.
 
 Small changes in developmental enzyme activity can produce dramatic differences
@@ -115,7 +115,7 @@ elevating the spore sac above the ground to improve wind dispersal.
 Giant puffballs can reach basketball size and release an estimated 7 trillion
 spores, making them among the most fecund organisms on the planet. Their
 alluring appearance makes them tempting targets for kickers, whose vandalism
-merely assists spore dispersal. The temptation to kick mushrooms may have deep
+merely assists [[aquatic-fungi-spore-dispersal-ingold]]. The temptation to kick mushrooms may have deep
 evolutionary roots, reflecting an instinct to destroy what our ancestors
 learned to fear as poisonous.
 

@@ -52,7 +52,7 @@ At higher doses (18-20 mg), the experience becomes significantly more intense, w
 
 ## Cautionary Notes
 
-Shulgin explicitly warns about the intensity of 2C-E, particularly at higher doses. The compound has been associated with difficult experiences when the dose is underestimated or when set and setting are not optimal. See [[psychedelic-mushroom-set-and-setting]] and [[shulgin-dosage-guidelines]].
+Shulgin explicitly warns about the intensity of 2C-E, particularly at higher doses. The compound has been associated with difficult experiences when the dose is underestimated or when [[lsd-set-and-setting-framework]] are not optimal. See [[psychedelic-mushroom-set-and-setting]] and [[shulgin-dosage-guidelines]].
 
 See also: [[2c-family-compounds-overview]], [[2c-b-compound-profile]], [[2c-i-compound-profile]], [[phenethylamine-chemistry-basics]]
 ## Practical Considerations
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

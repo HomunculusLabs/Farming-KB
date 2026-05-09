@@ -3,27 +3,16 @@ title: Pyrethrum Daisy (Natural Insecticide)
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[permaculture, design]
+tags: [permaculture, design]
 sources: []
 ---
-
-Updated: 2026-04-18
-
-The Pyrethrum Daisy (Chrysanthemum cinerariifolium) is a valuable pest control plant whose dried flowers produce a natural, effective insecticide that is harmless to humans and mammals.
-
-## Detailed Description
-
-Pyrethrum daisy is a compact perennial herb growing 30–60 cm tall with finely divided, silvery-green foliage and white daisy-like flowers with yellow centers. It is native to the Balkan Peninsula and Dalmatian coast, growing wild on rocky limestone hillsides.
-
-The active insecticidal compounds, called pyrethrins, are concentrated in the flower heads. Six naturally occurring pyrethrin esters work together to rapidly paralyze insects by disrupting their nervous systems.
-
-As a [[salt-tolerant-plant-guide]] adjacent dryland gardens.
+Updated: 2026-04-18 The Pyrethrum Daisy (Chrysanthemum cinerariifolium) is a valuable [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] plant whose dried flowers produce a natural, effective insecticide that is harmless to humans and mammals. ## Detailed Description Pyrethrum daisy is a compact perennial [[medicinal-herb-growing]] 30–60 cm tall with finely divided, silvery-green foliage and white daisy-like flowers with yellow centers. It is native to the Balkan Peninsula and Dalmatian coast, growing wild on rocky limestone hillsides. The active insecticidal compounds, called pyrethrins, are concentrated in the flower heads. Six naturally occurring pyrethrin esters work together to rapidly paralyze insects by disrupting their nervous systems. As a [[salt-tolerant-plant-guide]] adjacent dryland gardens.
 
 The plant is hardy in USDA zones 4–9 and can survive cold winters with a layer of mulch. Good drainage is essential — waterlogged soils promote crown rot and fungal diseases.
 
 ## Companion Planting
 
-Pyrethrum daisy is an excellent companion plant for vegetable gardens and [[permaculture-beekeeping]] and integrated pest management zones.
+Pyrethrum daisy is an excellent companion plant for vegetable gardens and [[permaculture-beekeeping]] and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management zones.
 
 Plant pyrethrum daisies at the edges of garden beds or interspersed among crops. Avoid planting too close to ponds or water features, as pyrethrins are toxic to aquatic organisms.
 
@@ -35,7 +24,7 @@ Historically, the plant was used externally as a pediculicide (lice treatment) a
 
 ## Permaculture Design Role
 
-In [[permaculture-tree-crop-systems]] as an understory herb beneath fruit trees. Its shallow root system does not compete with tree roots, and the flowers contribute to overall garden biodiversity.
+In [[permaculture-tree-crop-systems]] as an understory herb beneath [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]. Its shallow root system does not compete with tree roots, and the flowers contribute to overall garden biodiversity.
 
 Harvested flower stems and spent plants can be added to the [[organic-pest-and-disease-management]] for treatment options.
 
@@ -70,6 +59,7 @@ The most commonly cultivated strain is the Dalmatian chrysanthemum (Chrysanthemu
 ## See Also
 
 - [[permaculture-plant-selection]]
+
 ## Practical Considerations
 
 Successful implementation of Pyrethrum Daisy (Natural Insecticide) requires attention to
@@ -88,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

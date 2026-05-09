@@ -9,7 +9,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly Staff (2021). "Miracle Alien Cookies (MAC) Cannabis Strain Information." Leafly.com.
+  - Leafly Staff (2021). "Miracle Alien Cookies (MAC) blesching-cannabis-strain-selection-receptor-targeting Information." Leafly.com.
   - AllBud (2023). "Miracle Alien Cookies Strain Review." AllBud.com.
   - Dungeness Seeds (2022). "Capulator's MAC — Miracle Alien Cookies." Breeder catalog.
   - "Cookies Family Lineage Guide." (2024). Growers Network Technical Series, 12(3).
@@ -29,7 +29,7 @@ MAC won First Place Hybrid at the 2016 LA Cannabis Cup and has since become one 
 ## Lineage
 
 - **Female parent:** Alien Cookies (Alien Technology × Girl Scout Cookies)
-- **Male parent:** Colombian landrace (sativa-dominant)
+- **Male parent:** [[oner-colombian-landrace-sativa-strains]] (sativa-dominant)
 - **Genetic ratio:** Approximately 50/50 indica-sativa, though phenotype-dependent
 - **Breeder:** Capulator (California)
 
@@ -39,7 +39,7 @@ The Colombian landrace male contributes increased stretch, flowering time, and a
 
 Buds are medium to large with a dense, rounded structure typical of the Cookies lineage.
 
-Coloration ranges from deep forest green to light lime, often displaying striking purple and violet hues particularly in cooler growing conditions.
+Coloration ranges from deep [[trichoderma-forest-green-mold-guide]] to light lime, often displaying striking purple and violet hues particularly in cooler growing conditions.
 
 Trichome coverage is exceptionally heavy, giving mature flowers a frosty, silvery-white appearance.
 
@@ -77,7 +77,7 @@ Body effects develop gradually, producing a relaxed physical sensation without h
 
 The experience is typically described as balanced and functional, suitable for daytime or early evening use.
 
-Commonly reported applications include stress relief, mild pain management, mood enhancement, and creative focus.
+Commonly reported applications include stress relief, mild [[cannabis-pain-management-protocols]], mood enhancement, and creative focus.
 
 ## Medical Applications
 
@@ -101,7 +101,7 @@ Dizziness and lethargy may occur with excessive consumption, though the strain i
 
 **MAC 1** is the most famous selected phenotype, stabilized by Capulator from a single exceptional mother plant.
 
-MAC 1 exhibits more refined aromatics, tighter bud structure, and increased resin production compared to the original MAC population.
+MAC 1 exhibits more refined aromatics, tighter bud structure, and increased [[cannabis-glandular-trichome-types-resin-production-clarke]] compared to the original MAC population.
 
 The strain has spawned numerous crosses including Miracle Mints (MAC × SinMint Cookies), MAC V2, and various Alien Cookies backcrosses.
 
@@ -112,13 +112,13 @@ The strain has spawned numerous crosses including Miracle Mints (MAC × SinMint 
 - **Difficulty:** Moderate — sensitive to overfeeding and temperature fluctuations
 - **Stretch:** Moderate to high during early flowering (Colombian influence)
 - **Recommended nutrients:** Moderate nitrogen during veg, reduced during flower
-- **Climate preference:** Warm, dry environments; susceptible to powdery mildew in high humidity
+- **Climate preference:** Warm, dry environments; susceptible to [[cervantes-powdery-mildew-prevention-treatment]] in high humidity
 
 MAC is considered a strong breeding parent and has been used extensively to create crosses including MAC 1 (selected phenotype), Miracle Mints, and Alien OG.
 
 ## See Also
 
-- [[gelato-cannabis]]
+- [[gelato]]
 - [[biscotti-cannabis]]
 - [[kush-mints]]
 - [[thin-mint-cookies]]

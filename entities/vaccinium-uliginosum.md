@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-**Vaccinium uliginosum**, commonly known as bog blueberry, bog bilberry, or northern blueberry, is a deciduous dwarf shrub in the family Ericaceae. It has a wide circumboreal distribution across northern North America, Europe, and Asia.
+**Vaccinium uliginosum**, commonly known as bog blueberry, bog bilberry, or northern blueberry, is a deciduous dwarf shrub in the family Ericaceae. It has a wide circumboreal distribution across northern [[psilocybin-north-america-pacific-northwest]], Europe, and Asia.
 
 The species is closely related to the commercially important bilberry (*V. myrtillus*) but is adapted to wetter, more open habitats. Its fruit is edible and gathered from wild stands across its range, though it has not been widely domesticated.
 
@@ -62,7 +62,7 @@ Bog blueberry is rarely cultivated commercially. Its primary economic value lies
 
 Limited cultivation trials have demonstrated that the species can be grown on peat-based substrates under acidic conditions similar to those used for cranberry production. However, yields are lower than for highbush or lowbush blueberry, and the species has not attracted significant breeding attention.
 
-Propagation is achieved through softwood cuttings taken in midsummer or by division of established plants. Seed germination requires cold stratification for 60–90 days. Genetic diversity within populations is high, reflecting the species' wide geographic range and outcrossing breeding system.
+Propagation is achieved through softwood cuttings taken in midsummer or by division of established plants. [[cannabis-seed-germination-methods]] requires cold stratification for 60–90 days. Genetic diversity within populations is high, reflecting the species' wide geographic range and outcrossing breeding system.
 
 Ornamental use is limited but increasing. The plant's compact habit, attractive pink flowers, autumn foliage color, and edible fruit make it suitable for bog gardens and acidic ornamental plantings.
 
@@ -70,7 +70,7 @@ Ornamental use is limited but increasing. The plant's compact habit, attractive 
 
 Bog blueberry fruit contains high levels of anthocyanins, with total concentrations ranging from 150–400 mg per 100 g fresh weight. The primary anthocyanins include delphinidin-3-galactoside, delphinidin-3-glucoside, cyanidin-3-galactoside, and malvidin-3-galactoside.
 
-The fruit is also rich in proanthocyanidins (condensed tannins), which contribute to its astringent flavor. Chlorogenic acid, quercetin, and myricetin are present in significant quantities. Total phenolic content is among the highest reported for wild berries.
+The fruit is also rich in proanthocyanidins (condensed tannins), which contribute to its astringent flavor. Chlorogenic acid, quercetin, and myricetin are present in significant quantities. Total phenolic content is among the highest reported for huckleberries and wild berries of north america.
 
 Vitamin C content ranges from 5–20 mg per 100 g fresh weight. The berries provide dietary fiber, manganese, and vitamin K. Total soluble solids (sugar content) average 8–14° Brix, varying with ripeness and growing conditions.
 
@@ -80,11 +80,11 @@ Studies have demonstrated that bog blueberry extracts exhibit significant antiox
 
 Bog blueberry is a significant food source for wildlife in boreal and subarctic ecosystems. The fruit is consumed by bears, moose, caribou, grouse, ptarmigan, thrushes, and numerous other birds and mammals. The timing of fruit ripening in late summer provides critical energy reserves for animals preparing for winter.
 
-The flowers are pollinated primarily by bumblebees and solitary bees. In high-latitude and high-elevation populations, the short growing season makes pollinator visitation rates a limiting factor for fruit set.
+The flowers are pollinated primarily by bumblebees and solitary bees. In high-latitude and high-elevation populations, the short [[savory-growing-season-and-non-growing-season-management]] makes pollinator visitation rates a limiting factor for fruit set.
 
-The species contributes to peatland ecosystem function by stabilizing sphagnum mats and contributing organic matter through leaf litter and root turnover. Its shallow root system is adapted to the anoxic conditions of waterlogged peat soils.
+The species contributes to peatland ecosystem function by stabilizing sphagnum mats and contributing [[hamilton-composting-and-organic-matter-management]] through leaf litter and root turnover. Its shallow root system is adapted to the anoxic conditions of waterlogged peat soils.
 
-Bog blueberry serves as an indicator species for intact wetland ecosystems. Its presence generally indicates undisturbed, acidic peatland conditions with low nutrient availability and minimal human impact.
+Bog blueberry serves as an indicator species for intact wetland ecosystems. Its presence generally indicates undisturbed, acidic peatland conditions with low [[ph-and-nutrient-availability-garden-soils]] and minimal human impact.
 
 ## Related Species
 
@@ -109,7 +109,7 @@ In Mongolia and northern China, bog blueberry is used in traditional medicine as
 - [[vaccinium-angustifolium]]
 - [[vaccinium-macrocarpon]]
 - [[vaccinium-ovatum]]
-- [[rubus-idaeus-entity]]
-- [[hippophae-rhamnoides]]
-- [[rosa-canina]]
+- rubus-idaeus-entity
+- hippophae-rhamnoides
+- rosa-canina
 - [[rubus-fruticosus]]

@@ -64,7 +64,7 @@ and axillary buds. Individual spikes are green, red, or purple.
 
 Flowers are small and unisexual, with the pistillate flowers bearing
 five tepals and a superior ovary. Flowering is indeterminate, with
-seed production continuing over several weeks.
+[[cervantes-seed-production-storage]] continuing over several weeks.
 
 Seeds are lens-shaped, approximately 1–1.5 mm in diameter, and range
 in color from white through cream, gold, red, to nearly black. The
@@ -78,7 +78,7 @@ meters. It was domesticated from the wild progenitor *Amaranthus quitensis*.
 
 The species is now cultivated in tropical and subtropical regions worldwide,
 including East Africa (Ethiopia, Kenya), South Asia (Nepal, India), and
-Central America. It is also grown as an ornamental in temperate gardens.
+[[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. It is also grown as an ornamental in temperate gardens.
 
 Optimal growth occurs at temperatures of 20–28°C with moderate rainfall
 (400–800 mm annually). The plant is drought-tolerant once established
@@ -109,12 +109,12 @@ flour unique gelatinization properties.
 
 ## Cultivation
 
-Direct seeding is the standard practice, with seed rates of 2–4 kg/ha.
+[[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] is the standard practice, with seed rates of 2–4 kg/ha.
 Seeds are sown at a depth of 1–2 cm in rows spaced 50–75 cm apart.
 Germination occurs within 3–7 days at soil temperatures above 15°C.
 
 The crop matures in 90–150 days depending on variety and growing
-conditions. Harvest timing is critical as the indeterminate flowering
+conditions. [[cannabis-harvest-timing-visual-cues]] is critical as the indeterminate flowering
 habit means seeds ripen progressively over several weeks.
 
 Grain yields average 1,000–3,000 kg/ha under traditional management,
@@ -127,7 +127,7 @@ seeds (like popcorn) is a common preparation method in the Andes.
 
 ## See Also
 
-- [[amaranthus-retroflexus]]
+- amaranthus-retroflexus
 - [[ipomoea-batatas]]
 - [[colocasia-esculenta]]
 - [[xanthosoma-sagittifolium]]

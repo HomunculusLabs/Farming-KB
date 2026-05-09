@@ -5,12 +5,13 @@ updated: 2026-04-18
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # The Nelissen Farm
 
-In *The Road Back to Nature*, [[fukuoka-natural-farming-philosophy-of-mu]] methods. The visit reveals both the possibilities and challenges of adapting natural farming to European conditions.
+In *The Road Back to Nature*, [[fukuoka-natural-farming-philosophy-of-mu]] methods. The visit reveals both the possibilities and challenges of adapting [[comparison-natural-farming-vs-permaculture]] to European conditions.
 
 ## The Old Man and the Windmill
 
@@ -23,7 +24,7 @@ The windmill becomes a powerful symbol in Fukuoka's narrative:
 - It represents working with natural forces rather than petroleum-powered machinery
 - It connects to pre-industrial European wisdom about sustainability
 - The old man tending the windmill embodies a way of life that modern Europe has largely abandoned
-- For Fukuoka, this represents the kind of [[fukuoka-european-travels-natural-farming]], [[fukuoka-machine-culture-doomed]], [[fukuoka-natural-diet-theory]], [[fukuoka-natural-farming-new-age]], [[fukuoka-do-nothing-farming-and-spiritual-life]], [[fukuoka-natural-farming-method]], [[fukuoka-european-travels-natural-farming]], [[fukuoka-critique-agricultural-development]] -- critique of the cooperative system - fukuoka farmers psychological barrier -- the fear obstacle - fukuoka agriculture tomorrow -- the quarter-acre vision - [[natural-farming-and-spirituality]] The surrounding context reveals his deep frustration with institutional agriculture and his vision for a fundamentally different food system.
+- For Fukuoka, this represents the kind of [[fukuoka-european-travels-natural-farming]], [[fukuoka-machine-culture-doomed]], [[fukuoka-natural-diet-theory]], [[fukuoka-natural-farming-new-age]], [[fukuoka-do-nothing-farming-and-spiritual-life]], [[fukuoka-natural-farming-method]], [[fukuoka-european-travels-natural-farming]], [[fukuoka-critique-agricultural-development]] -- critique of the cooperative system - fukuoka farmers psychological barrier -- the fear obstacle - fukuoka [[fukuoka-agriculture-tomorrow-quarter-acre-vision]] -- the quarter-acre vision - [[natural-farming-and-spirituality]] The surrounding context reveals his deep frustration with institutional agriculture and his vision for a fundamentally different food system.
 ## Practical Applications
 
 Fukuoka — The Nelissen Farm has a range of practical applications that make it relevant to
@@ -101,4 +102,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

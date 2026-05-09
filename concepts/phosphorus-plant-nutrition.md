@@ -31,12 +31,12 @@ Phosphorus (P) is the second most commonly limiting plant nutrient after nitroge
 
 ### Excess Phosphorus — A Hidden Problem
 Excess phosphorus is arguably a more widespread problem than deficiency:
-- Inhibits mycorrhizal colonization (shutting down the plant-fungal partnership)
+- Inhibits [[arbuscular-mycorrhizal-colonization-patterns]] (shutting down the plant-fungal partnership)
 - Can induce deficiencies of iron, zinc, and other micronutrients by precipitation
 - Contributes to [[mycorrhiza]]
 - [[biofertilizers-and-soil-inoculants]]
 - [[nutrient-cycling-in-soil]]
-- [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]
+- fungal-symbiosis-with-plants-beyond-mycorrhizae
 ## Practical Applications
 
 Phosphorus in Plant Nutrition — The Energy Nutrient has a range of practical applications that make it relevant to
@@ -115,3 +115,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[ingham-nitrate-amino-sugars-plant-nutrition]]

@@ -14,14 +14,14 @@ sources:
   - Franklin, J.F. & Dryness, C.T. (1973). Natural Vegetation of Oregon and Washington. USDA Forest Service General Technical Report PNW-8.
   - Krajina, V.J., Klinka, K. & Worrall, J. (1982). Distribution and Ecological Characteristics of Trees and Shrubs of British Columbia. UBC Press.
   - Farjon, A. (2017). A Handbook of the World's Conifers (2nd ed.). Brill.
-  - Hunt, R.S. & von Hagen, B. (2006). "Abies grandis." In: Burns, R.M. & Honkala, B.H. (eds.) Silvics of North America, Vol. 1. USDA Forest Service.
+  - Hunt, R.S. & von Hagen, B. (2006). "Abies grandis." In: Burns, R.M. & Honkala, B.H. (eds.) Silvics of [[psilocybin-north-america-pacific-northwest]], Vol. 1. USDA Forest Service.
 ---
 
 ## Overview
 
 **Abies grandis**, the grand fir, is a large evergreen conifer native to the Pacific Northwest and northern Rocky Mountains of North America. It is one of the tallest true firs, capable of exceeding 75 m in height in optimal coastal environments.
 
-The species is valued for its attractive, deep green foliage and is widely planted as a Christmas tree. Grand fir is also an important timber species, producing wood that is relatively soft, lightweight, and suited for general construction purposes.
+The species is valued for its attractive, deep green foliage and is widely planted as a [[arthur-christmas-tree-amanita-muscaria]]. Grand fir is also an important timber species, producing wood that is relatively soft, lightweight, and suited for general construction purposes.
 
 Grand fir occupies an intermediate successional position in Pacific Northwest forests, commonly growing alongside Douglas-fir and western hemlock. It is moderately shade-tolerant, persisting in mixed-species stands but eventually succeeded by more shade-tolerant species in the absence of disturbance.
 
@@ -51,7 +51,7 @@ The species prefers deep, rich, well-drained soils of volcanic or alluvial origi
 
 Annual precipitation requirements range from 60 to over 250 cm. The species is absent from the driest interior valleys and from coastal fog belt areas dominated by Sitka spruce and western hemlock.
 
-Coastal and interior populations show significant genetic differentiation in cold hardiness, growth rate, and phenology. Seed sources from coastal populations perform poorly when planted in interior continental climates, and vice versa. Provenance matching is critical for successful reforestation with this species.
+Coastal and interior populations show significant genetic differentiation in [[coleman-cold-hardiness-testing-ratings]], growth rate, and phenology. Seed sources from coastal populations perform poorly when planted in interior continental climates, and vice versa. Provenance matching is critical for successful reforestation with this species.
 
 ## Ecology and Silviculture
 
@@ -61,9 +61,9 @@ The species is an important component of riparian forest communities, where it c
 
 The species is moderately shade-tolerant and can regenerate beneath moderately dense canopies. Seedlings establish most successfully on exposed mineral soil, often colonizing disturbed sites following windthrow, fire, or timber harvest. Growth is rapid on productive sites, with mean annual increments of 10–20 m³/ha/year.
 
-**Ectomycorrhizal associations** with fungi including *Suillus*, *Lactarius*, *Cortinarius*, and *Leccinum* are critical for seedling establishment and nutrient uptake. Grand fir seedlings inoculated with appropriate mycorrhizal partners show significantly improved survival and growth rates in reforestation plantings.
+**Ectomycorrhizal associations** with fungi including *Suillus*, *Lactarius*, *Cortinarius*, and *Leccinum* are critical for seedling establishment and [[plant-nutrient-uptake-mechanisms]]. Grand fir seedlings inoculated with appropriate mycorrhizal partners show significantly improved survival and growth rates in reforestation plantings.
 
-The species is susceptible to several important pathogens. Annosus root disease (*Heterobasidion annosum*) causes significant mortality in managed stands, particularly on dry sites. Balsam gall midge (*Dasineura abietina*) damages current-year shoots, reducing growth and form.
+The species is susceptible to several important pathogens. Annosus [[ingham-root-disease-treatment]] (*Heterobasidion annosum*) causes significant mortality in managed stands, particularly on dry sites. Balsam gall midge (*Dasineura abietina*) damages current-year shoots, reducing growth and form.
 
 ## Timber and Economic Uses
 
@@ -75,7 +75,7 @@ The light color and fine grain make grand fir suitable for interior finish work,
 
 The species is one of the most popular Christmas tree species in the Pacific Northwest, prized for its symmetrical form, deep green color, strong branches, and exceptional needle retention. Over 2 million grand fir Christmas trees are harvested annually in the region, with significant additional production in commercial plantations.
 
-Grand fir foliage is commercially harvested for decorative greenery and essential oil production. The oil, rich in **β-pinene**, **α-pinene**, and **limonene**, is used in aromatherapy, cleaning products, and as a natural insect repellent.
+Grand fir foliage is commercially harvested for decorative greenery and [[permaculture-designers-manual-essential-oil-plants]] production. The oil, rich in **β-pinene**, **α-pinene**, and **limonene**, is used in aromatherapy, cleaning products, and as a natural insect repellent.
 
 ## Cultivation and Ethnobotany
 
@@ -91,6 +91,9 @@ The fragrant boughs were traditionally burned as incense in purification ceremon
 
 ## See Also
 
+- [[abies-lasiocarpa]]
+- [[abies-magnifica]]
+
 - [[pseudotsuga-menziesii]]
 - [[pinus-sylvestris]]
 - [[cedrus-libani]]
@@ -99,7 +102,7 @@ The fragrant boughs were traditionally burned as incense in purification ceremon
 - [[ganoderma-tsugae]]
 - [[trametes-versicolor-entity]]
 - [[betula-pendula]]
-- [[arctostaphylos-uva-ursi]]
+- arctostaphylos-uva-ursi
 - [[phragmites-australis]]
 - [[vaccinium-corymbosum-entity]]
 - [[nymphaea-alba]]

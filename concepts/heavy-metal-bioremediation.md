@@ -4,7 +4,8 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [remediation, environment]
-sources: []
+sources:
+  sources: []
 ---
 
 # Bioremediation of Heavy Metal Contaminated Soils
@@ -15,7 +16,7 @@ Unlike organic contaminants, metals cannot be degraded or destroyed but must be 
 
 Bioremediation of metal-contaminated soils encompasses a range of biological strategies including biosorption, bioaccumulation, precipitation, volatilization, and enzymatic transformation.
 
-This topic provides an overview of biological approaches to heavy metal remediation, complementing the fungal-specific discussions in [[fungal-metal-biosorption]], and [[fungal-biosorption-mechanisms]] describes the chemical and physical processes involved in metal binding to fungal biomass.
+This topic provides an overview of biological approaches to heavy [[heavy-metal-remediation-fungi]], complementing the fungal-specific discussions in fungal-metal-biosorption, and [[fungal-biosorption-mechanisms]] describes the chemical and physical processes involved in [[chelation-and-metal-binding-in-plants]] to [[bioremediation-fungal-biomass-biosorbent-material]].
 
 The cell walls of fungi contain functional groups including carboxyl, phosphate, amine, thiol, and hydroxyl groups that serve as binding sites for metal cations.
 
@@ -25,11 +26,11 @@ Chitin and chitosan, the structural polysaccharides of fungal cell walls, provid
 
 Non-living fungal biomass can be used as a biosorbent without the complications of maintaining viable cultures, and may show equal or greater metal uptake than living biomass because metabolic protons do not compete for binding sites.
 
-Biosorption isotherms, as described in [[fungal-biosorption-desorption-regeneration]] describes the recovery of metals from loaded biosorbents and the reuse of biosorbent materials through desorption cycles.
+[[singh-fungal-biosorption-isotherms-equilibrium-models]], as described in fungal-biosorption-desorption-regeneration describes the recovery of metals from loaded biosorbents and the reuse of biosorbent materials through desorption cycles.
 
 The competitive effects of multiple metals in solution on biosorption performance are important for treatment of real waste streams that typically contain metal mixtures.
 
-[[fungal-metal-transformations-biosorption]] describes fungal contributions to metal transformation processes including reduction, oxidation, and precipitation.
+[[fungal-metal-transformations-biosorption]] describes fungal contributions to [[dighton-fungal-metal-transformation-methylation]] processes including reduction, oxidation, and precipitation.
 
 ## Phytoremediation of Metal-Contaminated Soils
 
@@ -66,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,10 +1,11 @@
 ---
-title: "How Can Companion Plants Protect Cannabis from Pests?"
+title: "How Can Companion Plants query how can companion plants protect cannabis from pests from Pests?"
 created: 2026-04-28
 tags: [query, companion-planting, cannabis, IPM, pest-control]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: query
 ---
@@ -13,9 +14,9 @@ type: query
 
 ## Short Answer
 Companion plants protect cannabis by repelling pests with aromatic compounds,
-attracting predatory insects that eat cannabis pests, masking cannabis scent from
+attracting predatory insects that eat [[green-cannabis-pests-prevention]], masking cannabis scent from
 herbivores, and disrupting pest life cycles through trap cropping. A well-
-designed companion planting scheme can significantly reduce the need for organic
+designed [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] scheme can significantly reduce the need for organic
 sprays and intervention.
 
 ## Detailed Explanation
@@ -26,7 +27,7 @@ and alliums (garlic, onions, chives) as primary masking plants. Marigolds
 produce thiophenes and alpha-terthienyl, compounds that repel nematodes in the
 soil and whiteflies above ground. Garlic and chives release sulfur compounds
 that deter [[beneficial-insects-cannabis]] guide explains how maintaining a continuous bloom
-of umbelliferous flowers throughout the growing season sustains predator
+of umbelliferous flowers throughout the [[savory-growing-season-and-non-growing-season-management]] sustains predator
 populations so they are present and hunting when pest outbreaks occur. Without
 these nectar sources, predators disperse to other areas during periods when prey
 is scarce.
@@ -47,14 +48,14 @@ provide complementary approaches that work alongside companion plants. Regular
 monitoring with yellow sticky traps, maintaining proper airflow and canopy
 spacing, and using [[comparison-companion-planting-vs-polyculture]] page highlights that
 companion planting is often simpler to implement in a cannabis garden than full
-polyculture, since cannabis has specific spacing and light requirements. Focus on
+polyculture, since cannabis has specific spacing and [[growing-gourmet-light-requirements-mushroom-fruiting]]. Focus on
 a perimeter ring of aromatic plants, a few trap crops at corners and edges, and
 umbelliferous flowers scattered between plants for maximum benefit with minimal
 interference to light penetration and airflow around your cannabis canopy.
 
 ## Key Points
 - Aromatic companions like marigolds, garlic, basil, and nasturtiums mask
-  cannabis scent and chemically repel pests through volatile compounds
+  cannabis scent and chemically repel pests through [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]
 - Umbelliferous flowers (dill, fennel, yarrow, cilantro) attract predatory wasps,
   ladybugs, and lacewings that hunt cannabis pest species
 - Trap crops like nasturtiums draw aphids away from cannabis and can be removed
@@ -91,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

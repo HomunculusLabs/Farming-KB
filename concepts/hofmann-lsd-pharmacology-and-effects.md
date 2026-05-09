@@ -1,5 +1,5 @@
 ---
-title: LSD Pharmacology and Effects
+title: hofmann lsd pharmacology and effects and Effects
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Albert Hofmann, LSD - My Problem Child"
@@ -12,11 +12,11 @@ tags: [lsd, pharmacology]
 
 ## Chemical Classification and Potency
 
-LSD (D-lysergic acid diethylamide) is a semi-synthetic compound derived from
+LSD (D-lysergic [[lsd-lysergic-acid-diethylamide-experience-guide]]) is a semi-synthetic compound derived from
 lysergic acid, the nucleus common to all ergot alkaloids produced by the fungus
 [[hofmann-lsd-pharmacology-serotonin-brain]]
 - [[tompkins-bose-plant-nervous-system-hypothesis]]
-- [[psilocybin-mushroom-potency-comparison-by-species]]
+- psilocybin-mushroom-potency-comparison-by-species
 ## Background and Context
 
 LSD Pharmacology and Effects is an important subject that has garnered significant attention
@@ -143,6 +143,7 @@ For those seeking to deepen their knowledge, recommended resources
 include primary research literature, established reference works,
 practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
-provides the most robust foundation for developing expertise in this
-area and contributing to its ongoing development and refinement.
-
+## See Also
+- [[lysergic-acid-diethylamide]]
+- [[lsd-pharmacology]]
+- [[lysergic-acid]]

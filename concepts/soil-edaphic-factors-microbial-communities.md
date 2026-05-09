@@ -1,5 +1,5 @@
 ---
-title: Soil Edaphic Factors and Microbial Community Structure
+title: Soil soil edaphic factors microbial communities and edaphic-factors-microbial-community-structure Structure
 slug: soil-edaphic-factors-microbial-communities
 source: understanding-cultivar-specificity-cannabis-microbiome.md
 tags: [soil-science, edaphic-factors, microbiome, cannabis, agriculture]
@@ -11,15 +11,15 @@ created: 2026-05-08
 ## Overview
 
 Edaphic factors are the physical, chemical, and biological
-properties of soil that influence microbial community composition.
+properties of soil that influence microbial [[core-endorhiza-bacterial-community-composition-cannabis]].
 In the Cannabis microbiome (Winston et al., 2014), edaphic factors
 were the dominant determinant of microbial community structure
 across all root-associated compartments, outweighing both sample
-type and plant cultivar effects.
+type and plant [[cannabis-cultivar-effects-soil-microbiome]].
 
 ## Ranking of Edaphic Factors
 
-Analysis using weighted and unweighted UniFrac distance matrices
+Analysis using weighted and [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]] distance matrices
 revealed a consistent hierarchy. For weighted analysis:
 
 1. **Nitrogen** (r-stat: 0.465, p = 0.001)
@@ -81,7 +81,7 @@ Soil water affects microbial activity through:
 - Nutrient diffusion rates in soil solution
 - Oxygen availability (waterlogging creates anaerobic zones)
 - Microbial motility and substrate access
-- Root exudate distribution patterns
+- Root exudate [[guzman-global-distribution-patterns-neurotropic-fungi]]
 
 Values ranged from 0.101 to 0.371, with Orange County soil
 retaining substantially more moisture.

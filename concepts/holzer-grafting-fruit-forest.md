@@ -5,6 +5,7 @@ updated: 2026-04-21
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
+  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
@@ -50,7 +51,7 @@ Pits are dug and filled with a mixture of topsoil, compost, and sometimes rock d
 - Walk the land extensively during different seasons and weather conditions before beginning any earthworks or planting.
 - Construct raised beds using available materials — logs, branches, soil, and organic matter in layered mounds.
 - Install ponds and water features at high points to enable gravity-fed irrigation and create reflective microclimates.
-- Integrate livestock grazing patterns with crop rotation to naturally fertilize and manage vegetation.
+- Integrate [[savory-livestock-grazing-planning]] patterns with crop rotation to naturally fertilize and manage vegetation.
 - Plant fruit trees and berry bushes on mounds and slopes where water drainage is optimal.
 - Use stone walls and large rocks as thermal mass to create warm microclimates for heat-loving crops.
 - Establish polyculture strips with diverse root depths, growth habits, and maturity dates.
@@ -62,11 +63,11 @@ Related topics in this wiki include: [[sepp-holzer-method]], [[sepp-holzer-terra
 
 Sepp Holzer began farming on his family's steep mountain land in Austria as a teenager, learning through experimentation.
 The Krameterhof demonstrates that high-altitude farms can be more productive than conventional lowland operations.
-Holzer's fish ponds serve multiple functions: aquaculture, irrigation, fire protection, and microclimate creation.
-Terrace construction on slopes prevents erosion while creating level planting areas with improved water retention.
+Holzer's fish ponds serve multiple functions: aquaculture, irrigation, fire protection, and [[mollison-designers-microclimate-creation-frost-protection]].
+[[holzer-terrace-construction-guide]] on slopes prevents erosion while creating level planting areas with improved water retention.
 Mushroom cultivation on logs and in raised beds provides additional food production and aids decomposition.
 Holzer's pig paddock system uses animals to root and fertilize soil in controlled areas before planting.
-Ancient grain varieties selected for mountain conditions show superior resilience and nutritional quality.
+Ancient grain varieties selected for mountain conditions show superior resilience and [[coleman-winter-greens-nutritional-quality-cold-sweetening]].
 The method has been successfully adapted in projects across Europe, Africa, Asia, and the Americas.
 
 Sepp Holzer began farming on his family's steep mountain land in Austria as a teenager, learning through experimentation.
@@ -90,7 +91,7 @@ Ancient grain varieties selected for mountain conditions show superior resilienc
 
 # Holzer Berry Bushes and Soft Fruit
 
-Berry bushes and soft fruit play an essential role in Holzer's permaculture systems. They occupy the middle layers of the plant architecture -- between ground cover and fruit trees -- providing food for humans, forage for birds and livestock, habitat for beneficial insects, and soil stabilisation on slopes and terraces. On the Krameterhof at 1,100-1,500m altitude, berries represent one of the most reliable and productive crop categories, as many berry species are far less demanding than fruit trees regarding soil quality, heat accumulation, and shelter from wind.
+Berry bushes and soft fruit play an essential role in Holzer's permaculture systems. They occupy the middle layers of the plant architecture -- between ground cover and fruit trees -- providing food for humans, forage for birds and livestock, [[query-how-do-i-design-habitat-for-beneficial-insects]] insects, and soil stabilisation on slopes and terraces. On the Krameterhof at 1,100-1,500m altitude, berries represent one of the most reliable and productive crop categories, as many berry species are far less demanding than fruit trees regarding soil quality, heat accumulation, and shelter from wind.
 
 ## The Role of Berries in the Permaculture System
 
@@ -132,7 +133,7 @@ In the permaculture landscape, brambles serve as pioneer plants on disturbed gro
 
 Elderberry holds a special place in Holzer's system. It is one of the primary forage plants recommended for bird conservation, listed first among the good forage plants for local bird species. Elderberry bushes produce abundant clusters of dark berries that are highly nutritious and attractive to wildlife.
 
-For human use, elderberries are processed into juice, wine, syrup, and preserves. The flowers are also edible and can be used to make cordials, fritters, and tea. Elderberry is extremely undemanding -- it will grow in almost any soil, including poor and compacted soils, and tolerates both wet and dry conditions. It grows rapidly and can be coppiced heavily, making it useful for biomass production as well as fruit.
+For human use, elderberries are processed into juice, wine, syrup, and preserves. The flowers are also edible and can be used to make cordials, fritters, and tea. Elderberry is extremely undemanding -- it will grow in almost any soil, including poor and compacted soils, and tolerates both wet and dry conditions. It grows rapidly and can be coppiced heavily, making it useful for [[dighton-fungal-biomass-production-aquatic-ecosystems]] as well as fruit.
 
 Elderberry should be positioned with awareness of its vigorous growth habit. It can quickly dominate a small garden if not managed. However, in larger systems it serves as an excellent nurse plant, providing shade and wind protection for establishing fruit trees and other sensitive species.
 

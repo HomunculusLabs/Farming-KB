@@ -1,32 +1,17 @@
 ---
-title: "Sterile Technique and agar Culture in Mushroom Cultivation"
+title: "cultivator sterile technique and agar culture and agar Culture in mushroom-cultivation"
 created: 2026-04-28
-tags: [[mushroom-cultivation, sterile-technique, agar-media, mycology, contamination-control]
+tags: [mushroom-cultivation, sterile-technique, agar-media, mycology, contamination-control]
 date: 2026-04-25
 updated: 2026-04-25
-sources: [raw/papers/the-mushroom-cultivator-stamets.md]
+sources: sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
-
-# Sterile Technique and Agar Culture in Mushroom Cultivation
-
-## Overview
-
-Sterile technique is the foundational skill upon which all successful mushroom
-cultivation depends. The air we breathe contains vast populations of microscopic
-organisms including fungi, bacteria, viruses, and plant spores. These particles
-make sterile technique difficult unless proper precautions are taken.
-
-## Five Primary Sources of Contamination
-
-1. **The immediate external environment** -- airborne spores, dust, and microbial life
-2. **The culture medium** -- improperly sterilized substrates harbor latent organisms
-3. **The culturing equipment** -- tools, containers, and surfaces that contact media
-4. **The cultivator and their clothing** -- the human body carries bacteria, mites,
-   and [[mycelium]] itself** -- wild specimens carry associated
+# Sterile Technique and Agar Culture in Mushroom Cultivation ## Overview Sterile technique is the foundational skill upon which all successful mushroom cultivation depends. The air we breathe contains vast populations of microscopic organisms including fungi, bacteria, viruses, and plant spores. These particles make sterile technique difficult unless proper precautions are taken. ## Five Primary Sources of Contamination 1. **The immediate external environment** -- airborne spores, dust, and microbial life 2. **The culture medium** -- improperly sterilized substrates harbor latent organisms 3. **The culturing equipment** -- tools, containers, and surfaces that contact media 4. **The cultivator and their clothing** -- the human body carries bacteria, mites, and [[mycelium]] itself** -- wild specimens carry associated
    organisms that must be isolated away from
 
-Mushrooms and all living organisms compete for available nutrients. In creating a
+Mushrooms and all [[savory-living-organisms-as-tools]] compete for available nutrients. In creating a
 sterile environment, the cultivator seeks to give advantage to the mushroom over
 the myriad legions of other competitors.
 
@@ -57,7 +42,7 @@ inoculation chamber.
 
 The amount of cleaning needed depends on the external spore load. Winter brings
 drastically decreased spore counts while spring and summer cause remarkable increases.
-Cleaning protocol: disinfect surfaces, mop floors, wash room air with fine mist of
+Cleaning protocol: disinfect surfaces, mop floors, wash [[stamets-growing-room-air-circulation-co2-management]] with fine mist of
 10% bleach, wait 15 minutes for particles to settle, then begin work. Contamination
 is easier to prevent than to eliminate after it occurs.
 
@@ -95,7 +80,7 @@ sterile environment.
 - 20g light tan brewer's malt, 2g yeast, 20g agar
 
 ### MPG (Malt Peptone Grain) Agar
-- 20g light tan malt, 5g ground rye grain, 5g peptone, 2g yeast, 20g agar
+- 20g light tan malt, 5g ground [[bigwood-beug-miniculture-rye-grain-flush-variation-method]], 5g peptone, 2g yeast, 20g agar
 
 Adding ground rye grain to any media promotes growth of strandy (rhizomorphic)
 mycelium, which is preferred for its fast growth rate.
@@ -104,4 +89,6 @@ mycelium, which is preferred for its fast growth rate.
 
 Most mycelia grow well in the 5.5-7.5 pH range. Species of Psilocybe prefer
 6.0-7.0, while [[working-with-agar-pouring-plates-and-sterile-technique]]
-- [[stamets-spore-germination-and-tissue-culture]]
+- stamets-spore-germination-and-tissue-culture
+## See Also
+- [[cultivator-strain-selection-and-stock-culture]]

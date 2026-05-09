@@ -15,8 +15,8 @@ The way grazing animals distribute dung and urine across the landscape
 has profound implications for mineral [[soil-health-management]],
 and pasture productivity. Savory's observations, building on André
 Voisin's work, reveal that dung distribution is intimately connected
-with animal behavior, predator pressure, and stock density -- all
-manageable through livestock grazing planning.
+with animal behavior, predator pressure, and [[savory-fencing-economics-and-stock-density-curve]] -- all
+manageable through [[savory-livestock-grazing-planning]] planning.
 
 ## Animals Avoid Fouled Ground
 
@@ -36,12 +36,12 @@ In wild ecosystems, predators are critical to dung distribution. When
 bison, pronghorn, springbok, or buffalo sense danger, they herd
 closely together, concentrating dung wherever they graze. Dense
 bunching combined with constant movement creates ideal conditions for
-nutrient cycling.
+[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 When predators are removed, behavior changes dramatically: the herd
 remains spread for longer periods, dung is scattered so widely it no
 longer inhibits feeding, and animals remain on the same ground day
-after day. This behavioral shift explains much of the four missing  keys and why land deterioration occurred faster in North America
+after day. This behavioral shift explains much of the four missing  keys and why land deterioration occurred faster in [[psilocybin-north-america-pacific-northwest]]
 (where predators were destroyed) than in Africa.
 
 ## The Horse Pasture Example
@@ -75,7 +75,7 @@ incorporating nutrients into soil. In the US, dung beetles have not
 increased proportionally to cattle numbers, possibly because dietary
 changes affect the dung on which beetles depend. Diverse beetle
 populations help ensure some nutrient cycling continues even under
-adverse conditions and are an indicator of good mineral cycle health.
+adverse conditions and are an indicator of good [[savory-mineral-cycle-management]] health.
 
 ## Dung and Parasite Management
 
@@ -97,7 +97,7 @@ Some areas receive excessive nutrients (which may leach) while others
 receive too little. This creates a positive feedback loop: areas with
 good nutrient cycling produce better forage, attracting more animal use
 and more dung deposition, while neglected areas continue to
-deteriorate. The soil organic matter and decomposition dynamics
+deteriorate. The soil [[hamilton-composting-and-organic-matter-management]] and decomposition dynamics
 also suffer, as dung is a primary source of organic material inputs
 to the soil surface in grazing systems.
 

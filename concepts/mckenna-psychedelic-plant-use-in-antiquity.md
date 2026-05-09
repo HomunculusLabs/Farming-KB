@@ -28,7 +28,7 @@ hallucination structures. At Matalen-Amazar and Ti-n-Tazarift, the dancing
 shamans clearly have mushrooms in their hands.
 
 Similar imagery appears in pre-Columbian Peruvian textiles. At [[mckenna-ur-plant-hypothesis]] identifies
-Stropharia cubensis as the original psychedelic at the center of this
+[[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] as the original psychedelic at the center of this
 religion. McKenna argues this relationship between human beings, cattle, and
 mushrooms -- a quasi-symbiotic relationship no more than a million years old
 -- gave us the model for all religions to follow. When the knowledge of the
@@ -45,8 +45,8 @@ hallucinogens.
 ## The Eleusinian Mysteries
 
 The [[mckenna-ergot-and-witches-sabbath-theory]]. Later, Wasson, Hofmann, and Ruck proposed the [[mckenna-vedic-soma-indo-european-mysteries]]
-enigma, surveying candidates including the Wassons' Amanita muscaria theory,
-Peganum harmala as Soma, and ultimately favoring Stropharia cubensis or a
+enigma, surveying candidates including the Wassons' [[allegro-amanita-muscaria-properties-and-pharmacology]] theory,
+[[mckenna-food-gods-peganum-harmala-soma]] as Soma, and ultimately favoring Stropharia cubensis or a
 conspecific coprophilic mushroom. The Indo-European encounter with psychedelic
 mushrooms, he argues, gave rise to the entire Soma/Haoma complex of religious
 practice. When S. cubensis was first encountered by the Indo-Europeans upon
@@ -60,7 +60,7 @@ tragedy of Western civilization. Between roughly 5000 and 3000 B.C.,
 patriarchal invaders suppressed the partnership societies and their
 open-ended investigation of nature carried on by shamans. The Archaic
 tradition was replaced by dogma, priestcraft, patriarchy, and warfare.
-[[mckenna-amazon-shamanism-and-ayahuasca]] traditions and the Oaxacan mushroom cult (three millennia old)
+[[mckenna-amazon-shamanism-and-ayahuasca]] traditions and the Oaxacan [[african-mushroom-cult-history]] (three millennia old)
 represent unbroken lineages of Archaic psychedelic practice. As late as the
 Middle Ages, European witches still sat on the Hag -- the fence between
 As late as the Middle Ages, European witches still sat on the Hag -- the fence
@@ -72,8 +72,8 @@ Europe of hallucinogen-containing species.
 
 ## The Indole Hallucinogen Families
 
-McKenna identifies four families of indole hallucinogens central to this
-history: the LSD-type compounds (from morning glories and ergot), the
+McKenna identifies four [[four-families-of-indole-hallucinogens]] hallucinogens central to this
+history: the LSD-type compounds (from [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] and ergot), the
 tryptamine family (DMT and psilocybin), the beta-carboline group
 (harmine/harmaline), and the iboga-type compounds. The [[mckenna-abandonment-of-the-mystery]]
 - [[mckenna-nostalgia-for-paradise]]

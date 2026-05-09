@@ -1,5 +1,5 @@
 ---
-title: Substrate Supplementation for Mushroom Cultivation
+title: Substrate nitrogen-supplementation-for-mushroom-substrates Cultivation
 created: 2026-04-26
 tags:
   - mycology
@@ -15,7 +15,7 @@ type: concept
 
 # Substrate Supplementation for Mushroom Cultivation
 
-Supplementing mushroom substrates with nitrogen-rich additives is
+Supplementing [[query-what-are-the-best-mushroom-substrates-for-different-species]] with nitrogen-rich additives is
 one of the most effective ways to boost yields. However, it also
 introduces significant risk of contamination. Understanding how
 to properly supplement substrates is essential for commercial and
@@ -29,7 +29,7 @@ enhance the base substrate. Many of these are grains or their
 derivatives. Supplementing a substrate such as straw or sawdust
 changes the number and the type of organisms that can be supported.
 
-Most of the raw materials used for growing mushrooms listed in
+Most of the raw materials used for [[falconer-growing-mushrooms-in-sheds]] listed in
 Stamets' work favor mushroom mycelium and are nitrogen-poor.
 Semi-selectivity is lost after nitrogen supplements are added, but
 ultimately mushroom yields improve. Therefore, when supplements are
@@ -48,7 +48,7 @@ total dry mass of the bulk substrate to enhance yields:
 - Rice bran
 - Rye grain
 - Soybean meal and oil
-- Spent grains from beer fermentation (barley and wheat)
+- Spent grains from beer fermentation ([[ergot-of-barley-and-wheat-alkaloid-composition]])
 - Vegetable oils
 - Wheat grain, wheat bran
 - Nutritional yeast
@@ -59,7 +59,7 @@ and nitrogen contents. For instance, rice bran is approximately
 12.5% protein and 2% nitrogen. If soybean meal is substituted for
 rice bran, with its 44% protein and 7% nitrogen content, the
 cultivator should add roughly one quarter as much to the same
-supplemented sawdust formula.
+[[oyster-mushroom-supplemented-sawdust-blocks]] formula.
 
 ## Supplementation Rates and Risks
 
@@ -87,7 +87,7 @@ temperature plateau of 75-85 degrees F (24-29 degrees C) is ideal
 during the [[growing-gourmet-substrate-preparation]].
 
 Thermogenesis is reduced to a more manageable level when using
-sawdust spawn for inoculation into supplemented sawdust substrates
+[[growing-gourmet-sawdust-spawn-production-use]] for inoculation into supplemented sawdust substrates
 rather than grain spawn. Colonization is faster, more even, and
 one gets more "mycelial mileage" from grain spawn by generating
 intermediate sawdust spawn. The ultimate solution may be a hybrid
@@ -122,6 +122,6 @@ extraction and/or for flavorings.
 
 ## Related Topics
 
-- [[growing-gourmet-supplemented-sawdust-sterilization]]
-- [[growing-gourmet-grain-spawn-generation]]
+- growing-gourmet-supplemented-sawdust-sterilization
+- growing-gourmet-grain-spawn-generation
 - [[growing-gourmet-substrate-materials-wood-types]]

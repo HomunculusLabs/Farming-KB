@@ -1,5 +1,5 @@
 ---
-title: "Turbina corymbosa: The Ololiuqui Vine"
+title: "plants of the gods turbina corymbosa ololiuqui: The Ololiuqui Vine"
 created: 2026-04-28
 tags:
   - ololiuqui
@@ -19,7 +19,7 @@ type: concept
 ## Botanical Description
 
 *Turbina corymbosa* (L.) Raf. [= *Rivea corymbosa*] is a large woody
-vine belonging to the Convolvulaceae (Morning Glory family), native to
+vine belonging to the Convolvulaceae ([[golden-guide-morning-glory-and-ololiuqui]] family), native to
 the tropical zones of the Americas, most abundantly in Mexico and Cuba.
 The plant has heart-shaped leaves 2-3.5 in. (5-9 cm) long and 1-1.5 in.
 (2.5-4.5 cm) wide. The cymes are many-flowered, bearing bell-shaped
@@ -27,7 +27,7 @@ corollas 0.75-1.5 in. (2-4 cm) long, white with greenish stripes. The
 fruit is dry, indehiscent, and ellipsoidal with persistent enlarged
 sepals, bearing a single hard, roundish, brown, minutely hairy seed
 about 0.12 in. (3 mm) in diameter. The seeds contain the psychoactive
-ergoline alkaloids lysergic acid amide and lysergic acid
+ergoline alkaloids [[ergot-and-lysergic-acid-history]] amide and lysergic acid
 hydroxyethylamide, chemically analogous to LSD.
 
 ## History and Aztec Use

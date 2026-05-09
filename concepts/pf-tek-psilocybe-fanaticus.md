@@ -1,5 +1,5 @@
 ---
-title: PF Tek and pf tek psilocybe fanaticus (Robert McPherson)
+title: PF Tek and pf pf-tek-psilocybe-fanaticus-cultivation-method fanaticus (Robert McPherson)
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -28,7 +28,7 @@ Stephen Pollock's work -- was the likelihood of contamination when the rye was
 being inoculated, McPherson wondered whether it might not be possible to
 colonise spores directly onto the grain. He found that it was, provided that
 you injected a solution of spores down into the medium, and then covered the
-rye with a layer of dry vermiculite to protect it from contamination.
+rye with a layer of [[pf-tek-dry-vermiculite-contaminant-barrier]] to protect it from contamination.
 
 Vermiculite is an inert mineral substance, most commonly found as cat litter.
 It possesses an extraordinary ability to absorb water, and does not shrink on
@@ -41,7 +41,7 @@ the masterstroke that distinguished the PF Tek from all previous methods.
 ## Technical Details of the Method
 
 The PF Tek procedure involved several steps that could be performed with basic
-kitchen equipment. Brown rice flour was mixed with water and vermiculite to
+kitchen equipment. [[cho-brown-rice-vinegar-preparation]] flour was mixed with water and vermiculite to
 create a substrate, which was loaded into half-pint mason jars. The jars were
 covered with foil and sterilised by boiling in a large pot, rather than in a
 pressure cooker -- a significant simplification over previous methods that
@@ -59,7 +59,7 @@ The PF Tek proved a great success. Growing at home, every jar produced a high
 yield, and the method was so easy that McPherson claimed the mushrooms would
 grow themselves. It was also financially successful. McPherson distributed his
 method freely -- while he copyrighted the technique, he released it for free,
-ensuring that there was a huge demand for the spore syringes produced by his
+ensuring that there was a huge demand for the [[query-spore-syringes-vs-liquid-culture]] produced by his
 company. At one point he was earning $30,000 a month from spore syringe sales
 alone.
 
@@ -76,7 +76,7 @@ His infamy and the PF Tek live on, however. The method remains available in
 book form and on the Internet, feted amongst a tight-knit community of
 hobbyists, for whom PF is a folk hero. Putting a figure on the number of
 "Tekies" is hard, but Internet chat rooms and message boards groan under the
-weight of discussion about the merits of this or that mushroom strain,
+weight of discussion about the merits of this or that [[dikaryon-formation-mushroom-strain-genetics]],
 autoclave efficiency and the other finer points of the method.
 
 ## Context: Home Cultivation Evolution
@@ -98,7 +98,7 @@ quadrupled the yield.
 
 The McKenna book was followed by others, including a similar method put
 forward by Stephen Pollock in 1977, and then the exhaustive guide The
-Mushroom Cultivator by [[psilocybe-fanaticus]]
+Mushroom Cultivator by psilocybe-fanaticus
 
 - [[psilocybe-semilanceata-eight-indole-compounds]]
 - [[psychedelic-mushroom-set-and-setting]]

@@ -28,7 +28,7 @@ Many commercially important mushrooms are white rot fungi, including:
 - Shiitake (*Lentinula edodes*)
 - Oyster mushroom (*Pleurotus ostreatus*)
 - Enoki (*Flammulina velutipes*)
-- Reishi (*Ganoderma lucidum*)
+- Reishi (*[[stamets-reishi-ganoderma-lucidum-cultivation]]*)
 
 Trichoderma harzianum belongs to the Ascomycota phylum, within the Hypocreales order. Unlike white rot fungi, Trichoderma species are fast-growing, opportunistic saprotrophs that colonize soil and organic matter rapidly. The genus *Trichoderma* contains numerous species used in agriculture, with *T. harzianum* standing as the gold standard biological control agent.
 
@@ -43,10 +43,10 @@ White rot fungi are uniquely capable of degrading all major wood components: lig
 The three principal enzyme families are:
 
 - **Lignin peroxidase (LiP):** Oxidizes non-phenolic lignin structures, which constitute the majority of the lignin polymer. LiP has an unusually high redox potential, allowing it to attack the most recalcitrant carbon-carbon and ether bonds
-- **Manganese peroxidase (MnP):** Generates Mn(III) chelates that diffuse into the wood matrix, oxidizing phenolic compounds at sites distant from the fungal hyphae. This diffusible mediator system extends the effective range of decay
+- **[[fungal-manganese-peroxidase-remediation]] (MnP):** Generates Mn(III) chelates that diffuse into the wood matrix, oxidizing phenolic compounds at sites distant from the fungal hyphae. This diffusible mediator system extends the effective range of decay
 - **Laccase:** A multicopper oxidase that oxidizes phenolic and non-phenolic substrates, particularly effective when paired with low-molecular-weight mediator molecules that expand its substrate range
 
-These enzymes produce highly reactive free radicals that attack lignin non-specifically. This non-specificity is also why white rot fungi can degrade a wide range of xenobiotic pollutants that share structural features with lignin. The process requires hydrogen peroxide as a co-substrate and involves complex redox cycling.
+These enzymes produce highly reactive free radicals that attack lignin non-specifically. This non-specificity is also why white rot fungi can degrade a wide range of xenobiotic pollutants that share structural features with lignin. The process requires [[cervantes-hydrogen-peroxide-sterilization]] as a co-substrate and involves complex redox cycling.
 
 Not all white rot species produce the full complement of enzymes. Enzyme expression varies with substrate composition, nutrient availability, and environmental conditions such as temperature, moisture, and oxygen levels.
 
@@ -55,9 +55,9 @@ Not all white rot species produce the full complement of enzymes. Enzyme express
 Trichoderma harzianum employs four complementary mechanisms against plant pathogens:
 
 1. **Mycoparasitism:** Direct physical attack through hyphal coiling around pathogen hyphae, followed by penetration and cell wall degradation using a battery of hydrolytic enzymes
-2. **Antibiosis:** Production of cell-wall-degrading enzymes including chitinases, glucanases, and proteases that lyse pathogen cells, plus secondary metabolites such as peptaibols and 6-pentyl-alpha-pyrone
+2. **Antibiosis:** Production of cell-wall-degrading enzymes including chitinases, glucanases, and proteases that lyse pathogen cells, plus [[antifungal-secondary-metabolites-coprophilous-fungi]] such as peptaibols and 6-pentyl-alpha-pyrone
 3. **Competition:** Rapid colonization of available space and nutrient resources, outcompeting pathogens before they can establish infections on plant surfaces
-4. **Induced resistance:** Stimulation of systemic plant defense responses, including jasmonic acid and salicylic acid signaling pathways
+4. **[[mycorrhiza-induced-resistance-defense-priming]]:** Stimulation of systemic plant defense responses, including jasmonic acid and salicylic acid signaling pathways
 
 The mycoparasitic response in Trichoderma is triggered by recognition of pathogen-derived signals, including lectins and specific oligosaccharides from the target fungus cell wall. This recognition cascade activates expression of hydrolytic enzymes and sets the stage for direct contact and penetration of the host pathogen.
 
@@ -91,7 +91,7 @@ Trichoderma harzianum is more tolerant of variable conditions. It grows rapidly 
 ### Bioremediation
 
 White rot fungi excel in environmental cleanup. Their non-specific oxidative enzymes can degrade persistent organic pollutants including:
-- Polycyclic aromatic hydrocarbons (PAHs)
+- [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs)
 - Polychlorinated biphenyls (PCBs)
 - Trinitrotoluene (TNT)
 - Synthetic dyes and textile effluents
@@ -130,3 +130,9 @@ Trichoderma-based biocontrol products are marketed worldwide under various trade
 While these fungi serve different primary functions, their capabilities can be complementary in integrated systems. White rot fungi can precondition lignocellulosic crop residues, making nutrients more accessible to subsequent decomposers, while Trichoderma protects plant roots from pathogens in the same soil environment. In some agricultural waste management scenarios, white rot fungi initiate the breakdown of woody residues that Trichoderma subsequently completes as the substrate becomes less recalcitrant.
 
 However, direct competition can also occur between these groups. For more on this dynamic, see [[comparison-trichoderma-vs-bacillus-vs-pseudomonas-biocontrol]]
+
+## See Also
+
+- [[trichoderma-atroviride]]
+
+- [[comparison-trichoderma-vs-entomopathogenic-fungi]]

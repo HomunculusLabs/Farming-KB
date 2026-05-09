@@ -1,5 +1,5 @@
 ---
-title: Using Accumulators in Compost and Mulch
+title: Using using accumulators in compost and mulch and Mulch
 created: 2026-04-28
 tags:
   - composting
@@ -16,7 +16,7 @@ type: concept
 
 # Using Accumulators in Compost and Mulch
 
-The real value of dynamic accumulator plants is realized only when their
+The real value of [[nutrient-dynamic-accumulator-reference]] plants is realized only when their
 nutrient-rich biomass is effectively recycled back into the garden
 ecosystem. Growing accumulators is only the first step; the critical
 second step is harvesting and processing that biomass through composting,
@@ -58,7 +58,7 @@ nutrient needs.
 
 Most accumulator plants are harvested as green, leafy material, which
 means they are relatively high in nitrogen. This makes them excellent
-compost activators. However, a balanced compost pile requires both
+compost activators. However, a [[query-how-to-make-a-balanced-compost-recipe]] pile requires both
 carbon-rich (brown) and nitrogen-rich (green) materials. Mix accumulator
 greens with carbon sources such as straw, dried leaves, or shredded
 paper at approximately a 2:1 to 3:1 ratio of browns to greens by
@@ -88,16 +88,16 @@ make an excellent calcium-rich mulch.
 ## Cover Cropping with Accumulators
 
 Cover cropping is the practice of growing plants specifically to
-improve the soil rather than for harvest. Dynamic accumulators make
+improve the soil rather than for harvest. [[comparison-dynamic-accumulators-vs-cover-crops]] make
 excellent cover crops because they simultaneously build soil organic
 matter, cycle nutrients from deep soil layers, and protect the soil
 surface from erosion. Legume cover crops add the additional benefit of
-nitrogen fixation.
+[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
 
 ### Winter Cover Crops
 
 Many accumulator plants serve as effective winter cover crops. Winter
-rye, crimson clover, and hairy vetch can be planted in fall, providing
+rye, [[comparison-lupin-vs-crimson-clover-green-manure]], and hairy vetch can be planted in fall, providing
 soil protection through the winter months and producing significant
 biomass for incorporation in spring. The root systems of these plants
 improve soil structure during the winter, and the above-ground biomass

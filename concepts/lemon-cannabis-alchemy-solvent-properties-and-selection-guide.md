@@ -1,5 +1,5 @@
 ---
-title: Solvent Properties and Selection Guide
+title: lemon cannabis alchemy solvent properties and selection guide and Selection Guide
 created: 2026-04-28
 tags:
   - solvent-selection
@@ -59,6 +59,7 @@ is the best choice for long-term storage of THC solutions when kept
 cold and dark. See also
 [[lemon-cannabis-alchemy-thc-extraction-purification]]
 - [[lemon-cannabis-alchemy-reflux-apparatus-and-laboratory-setup]]
+
 ## Practical Considerations
 
 Successful implementation of Solvent Properties and Selection Guide requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

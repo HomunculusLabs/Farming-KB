@@ -1,5 +1,5 @@
 ---
-title: "Tryptamine Chemistry: Structure and Synthesis Overview"
+title: "psilocybin-tryptamine-chemistry-fungi: Structure and Synthesis Overview"
 created: 2026-04-26
 sources: "TIHKAL - Tryptamines I Have Known and Loved (Shulgin & Shulgin)"
 tags: [chemistry, tryptamine, synthesis, indole, pharmacology]
@@ -22,14 +22,14 @@ Tryptamine chemistry revolves around modification at several critical positions:
 - **The 4-position** (on the benzene ring): Important for activity. The 4-hydroxy substitution yields psilocin (4-HO-DMT), a major psychedelic found in mushrooms.
 - **The 5-position** (on the benzene ring): The most critical position for potency. A 5-methoxy group (5-MeO) dramatically increases potency (e.g., 5-MeO-DMT). The 5-hydroxy yields bufotenine (5-HO-DMT) and is the position where tryptamine is converted to serotonin.
 - **The 6-position**: Generally considered the "kiss of death" for psychedelic activity. Substitutions here tend to decrease potency.
-- **The alpha-carbon** (adjacent to the amine on the side chain): Alpha-methylation protects the molecule from monoamine oxidase (MAO) destruction, enabling oral activity.
+- **The alpha-carbon** (adjacent to the amine on the side chain): Alpha-methylation protects the molecule from monoamine oxidase (MAO) destruction, enabling [[tihkal-oral-activity-mao-inhibition]].
 - **The nitrogen (terminal amine)**: N,N-dimethylation (as in DMT) is common. N-substitution patterns (methyl, ethyl, isopropyl, etc.) profoundly affect potency, duration, and oral bioavailability.
 
 ## General Synthetic Approach
 
 The primary synthetic route to substituted tryptamines described in TIHKAL follows a consistent pattern:
 
-1. **Indole starting material** (substituted or unsubstituted) is reacted with **oxalyl chloride** in anhydrous diethyl ether to form the **indol-3-ylglyoxyl chloride** intermediate.
+1. **Indole starting material** (substituted or unsubstituted) is reacted with **[[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]]** in anhydrous diethyl ether to form the **indol-3-ylglyoxyl chloride** intermediate.
 
 2. This intermediate is treated with a **secondary amine** (dimethylamine, diethylamine, etc.) to form the corresponding **glyoxylamide**.
 

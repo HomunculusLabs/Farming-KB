@@ -1,5 +1,5 @@
 ---
-title: Cannabis Growing Environment Setup
+title: Cannabis cannabis growing environment setup Setup
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,11 +9,11 @@ sources:
 ---
 # Cannabis Growing Environment Setup
 
-Creating the right indoor environment is the foundation of successful cannabis cultivation. The grow room must provide optimal conditions for every stage of the plant's life cycle, from seedling through harvest.
+Creating the right indoor environment is the foundation of successful [[query-how-does-no-till-cannabis-cultivation-work]]. The [[cannabis-grow-room-setup]] must provide optimal conditions for every stage of the plant's [[bloomfield-fungal-life-cycle-spiral-versus-circle]], from seedling through harvest.
 
 ## Lighting
 
-Light is the single most important factor in indoor cannabis cultivation. Greg Green's Can
+Light is the single most important factor in [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]] cultivation. Greg Green's Can
 
 ## Practical Context
 Cannabis Growing Environment Setup is relevant to farming knowledge because it connects observation,
@@ -63,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +105,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

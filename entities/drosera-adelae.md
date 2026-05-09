@@ -36,7 +36,7 @@ Leaves are linear-lanceolate, 10–25 cm long and 0.5–1 cm wide. They arise fr
 
 The root system is relatively shallow and fibrous. In cultivation, the species frequently produces adventitious roots at nodes along creeping stems.
 
-The leaf surface is densely covered with two types of trichomes. Tentacles at the leaf margins are longer (3–5 mm) and more mobile, while those on the lamina are shorter and primarily glandular.
+The [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is densely covered with two types of trichomes. Tentacles at the leaf margins are longer (3–5 mm) and more mobile, while those on the lamina are shorter and primarily glandular.
 
 Coloration varies from bright green in low light to reddish-bronze under intense illumination. The glandular mucilage gives the leaves a glistening appearance that attracts prey.
 
@@ -48,7 +48,7 @@ Flowers are approximately 1 cm in diameter with five white to pink petals. Sepal
 
 *D. adelae* is restricted to a narrow coastal strip in northeastern Queensland, centered on the Rockingham Bay area near Tully and Innisfail. The species occurs from near sea level to approximately 300 meters elevation.
 
-Its natural habitat consists of perpetually moist, shaded sites along creek banks, waterfalls, and in rainforest understories. The substrate is typically sandy or gravelly alluvial soil overlain with a layer of organic matter.
+Its natural habitat consists of perpetually moist, shaded sites along creek banks, waterfalls, and in rainforest understories. The substrate is typically sandy or gravelly alluvial soil overlain with a layer of [[hamilton-composting-and-organic-matter-management]].
 
 The species requires high humidity and consistent moisture year-round. It is often found growing on steep embankments above flowing water, where humidity remains elevated.
 
@@ -76,17 +76,17 @@ Nutrient absorption studies show that *D. adelae* derives a significant portion 
 
 ## Cultivation
 
-*D. adelae* is widely regarded as one of the most adaptable sundews for indoor cultivation. It tolerates a broader range of conditions than many other species in the genus.
+*D. adelae* is widely regarded as one of the most adaptable sundews for [[cannabis-sativa-indoor-cultivation-techniques]]. It tolerates a broader range of conditions than many other species in the genus.
 
-The species prefers bright, indirect light but can adapt to lower light conditions. Under intense light, leaves develop reddish coloration and a more compact growth habit.
+The species prefers bright, indirect light but can adapt to lower light conditions. Under intense light, leaves develop reddish coloration and a more [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit.
 
 A soil mix of peat moss and silica sand (1:1 ratio) works well. The growing medium should be kept consistently moist to wet using distilled, rain, or reverse-osmosis water.
 
 Temperatures between 18–30 °C are suitable, with higher humidity preferred. The species does not require a dormancy period and grows year-round under favorable conditions.
 
-Propagation is primarily vegetative through stolons and plantlets that form at the leaf tips and from broken roots. A single plant can rapidly colonize a large area within a growing season.
+Propagation is primarily vegetative through stolons and plantlets that form at the leaf tips and from broken roots. A single plant can rapidly colonize a large area within a [[savory-growing-season-and-non-growing-season-management]].
 
-Seed propagation is possible but less commonly practiced. Seeds require light for germination and benefit from a period of warm, moist stratification.
+[[jeavons-seed-propagation-techniques]] is possible but less commonly practiced. Seeds require light for germination and benefit from a period of warm, moist stratification.
 
 In terrarium culture, the species can form dense mats covering the entire growing surface. Regular division helps maintain plant vigor and prevents overcrowding.
 

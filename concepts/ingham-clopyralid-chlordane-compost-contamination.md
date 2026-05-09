@@ -54,8 +54,8 @@ persistent herbicides.
 ## Chlordane in Soil and Compost
 
 Chlordane is an organochlorine insecticide that was widely used for
-termite control and agricultural pest management before being banned
-in the United States in 1988. Despite the ban, chlordane persists
+termite control and agricultural [[cannabis-pest-management-guide]] before being banned
+in the [[dmt-containing-plants-united-states-halpern]] in 1988. Despite the ban, chlordane persists
 in soil for decades because it degrades very slowly. Unlike
 clopyralid, there are bacteria and fungi that can decompose
 chlordane, but they are not always found in compost starting
@@ -85,8 +85,8 @@ persistent herbicides, as long as the system is not overwhelmed.
 The way to know there is a contamination problem is when temperature
 does not respond normally during composting. If temperatures stay
 low for too long after starting a windrow or pile, something is
-inhibiting the microbial community. In this case, add more nitrogen
-as fish hydrolysate (especially if you suspect de-wormer problems)
+inhibiting the [[edaphic-factors-microbial-community-structure]]. In this case, add more nitrogen
+as [[comparison-fish-hydrolysate-vs-fish-emulsion]] (especially if you suspect de-wormer problems)
 along with molasses. If temperature still stays down, add commercial
 compost starter inoculums containing bacteria that decompose these
 resistant materials.

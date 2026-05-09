@@ -1,10 +1,11 @@
 ---
-title: Desert Gardening
+title: comparison-desert-gardening-vs-drought-gardening
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [gardening, climate, water-management, cacti, plants, conservation, design]
-sources: []
+sources:
+  sources: []
 ---
 
 # Desert Gardening
@@ -28,7 +29,7 @@ Solar radiation in deserts is among the highest on Earth. UV intensity at elevat
 Desert soils are typically:
 
 - High pH (7.5-8.5 or higher)
-- Low in organic matter (often under 1%)
+- Low in [[hamilton-composting-and-organic-matter-management]] (often under 1%)
 - High in calcium carbonate (caliche layers common)
 - Saline due to low rainfall and high evaporation
 - Low in nitrogen, phosphorus, and micronutrients (especially iron and zinc)
@@ -86,10 +87,10 @@ Strategic use of shade, windbreaks, and thermal mass can create favorable microc
 ### Cacti and Succulents
 Naturally adapted to arid conditions through water storage tissues and reduced leaf surface area:
 
-- **Prickly pear (Opuntia spp.)**: Edible pads (nopales) and fruit (tunas); cold-hardy varieties survive to -20°F
+- **[[comparison-agave-vs-prickly-pear-cultivation]] (Opuntia spp.)**: Edible pads (nopales) and fruit (tunas); cold-hardy varieties survive to -20°F
 - **Saguaro**: Iconic Sonoran Desert cactus; protected species in many areas
 - **Agave**: Multi-use plant for food, fiber, and landscaping; many species cold-hardy to 10°F
-- **Aloe vera**: Medicinal succulent; requires frost protection in most deserts
+- **Aloe vera**: Medicinal succulent; requires [[holzer-frost-protection-techniques]] in most deserts
 - **Barrel cactus**: Water storage, ornamental value
 
 See [[psychoactive-cacti-guide|cacti]] for detailed species profiles.
@@ -120,7 +121,7 @@ Desert gardens excel with cool-season crops grown fall through spring:
 
 - Leafy greens: lettuce, spinach, chard, kale (September-March)
 - Root vegetables: carrots, beets, radishes, turnips
-- Cole crops: broccoli, cabbage, cauliflower (plant in September for winter harvest)
+- Cole crops: broccoli, cabbage, cauliflower (plant in September for [[coleman-claytonia-winter-harvest-cultivation]])
 - Peas: Plant in October for winter/spring harvest
 - Garlic and onions: Plant in October-November for summer harvest
 
@@ -137,52 +138,12 @@ Building soil organic matter in deserts is challenging but essential:
 ### Soil Amendments
 - **Sulfur**: Lowers pH in alkaline soils (apply 5-10 lbs per 100 sq ft; takes months)
 - **Gypsum**: Improves soil structure in sodic soils without changing pH
-- **Composted manure**: Adds organic matter and nutrients; use aged manure to avoid salt burn
+- **[[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]]**: Adds organic matter and nutrients; use aged manure to avoid salt burn
 - **Worm castings**: Gentle fertilizer with beneficial microbes; use as top-dressing
 - **Chelated iron**: Corrects iron chlorosis common in alkaline soils
 
 ### Caliche Management
 Caliche is a hardened calcium carbonate layer common in desert soils:
-
-- If within 12 inches of surface, break through with pickaxe or jackhammer
-- Create raised beds above the caliche layer
-- Plant in containers or raised beds where caliche is too deep to penetrate
-
-## Seasonal Calendar
-
-### Spring (March-May)
-- Plant warm-season vegetables after last frost (varies by elevation)
-- Increase irrigation as temperatures rise
-- Install shade cloth by mid-May in low desert
-- Harvest cool-season crops before they bolt
-
-### Summer (June-August)
-- Maintain consistent irrigation (deep, infrequent watering)
-- Provide afternoon shade for sensitive crops
-- Solarize empty beds to kill soil pathogens
-- Plan fall garden; order seeds for September planting
-
-### Fall (September-November)
-- Prime planting season in the low desert
-- Plant cool-season crops for winter harvest
-- Plant fruit trees and perennials (roots establish through mild winter)
-- Reduce irrigation frequency as temperatures cool
-
-### Winter (December-February)
-- Harvest winter vegetables
-- Protect frost-sensitive plants with frost cloth or blankets
-- Minimal irrigation needed (once every 2-4 weeks depending on rain)
-- Plan spring garden, start seeds indoors
-
-## Design Principles
-
-- Zone plantings by water need: high-water crops near the house, drought-tolerant species at the perimeter
-- Use [[permaculture-earthworks|earthworks]] to capture and direct water
-- Create windbreaks to reduce desiccation
-- Maximize [[mulching-guide|mulch]] to conserve soil moisture
-- Prioritize native and adapted species for low-maintenance areas
-- Incorporate [[permaculture-design|permaculture]] zone thinking to reduce maintenance and water use
-
 ## Related
 
 - [[coastal-gardening]]

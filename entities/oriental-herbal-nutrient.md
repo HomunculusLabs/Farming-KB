@@ -8,12 +8,12 @@ updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
 ---
 # Oriental Herbal Nutrient
-**[[herbal-medicine]] of the Cho Global Natural Farming system, OHN functions as a natural pesticide, plant disease preventive, growth stimulant, and immune booster for crops. The preparation draws on centuries of traditional East Asian herbal medicine, selecting five herbs with documented antimicrobial, antifungal, and plant-strengthening properties.
+**[[herbal-medicine]] of the Cho Global Natural Farming system, OHN functions as a [[jadam-natural-pesticide-institute-and-research]], plant disease preventive, growth stimulant, and immune booster for crops. The preparation draws on centuries of traditional East Asian herbal medicine, selecting five herbs with documented antimicrobial, antifungal, and plant-strengthening properties.
 ## The Five Herbs
 ### 1. Angelica gigas (Korean Angelica / Dang Gui / 당귀)
 * **Plant family:** Apiaceae
 * **Active constituents:** Decursin, decursinol angelate (pyranocoumarins), Z-ligustilide, ferulic acid, nodakenin
-* **Functions:** Strong antimicrobial and antifungal activity; promotes blood circulation in plants (analogous to its traditional use as a blood tonic in human medicine); enhances nutrient transport within plant tissues
+* **Functions:** Strong antimicrobial and antifungal activity; promotes blood circulation in plants (analogous to its traditional use as a blood tonic in human medicine); enhances [[mycelial-network-nutrient-transport-imaging-gadd]] within plant tissues
 * **Plant part used:** Dried roots
 ### 2. Cinnamon (Cinnamomum cassia / 계피)
 * **Plant family:** Lauraceae
@@ -66,7 +66,7 @@ For those making their own rice wine:
 ## Application Methods
 ### Foliar Spray
 * **Standard dilution:** 1:1000 (1 ml OHN per liter of water)
-* **Disease prevention:** Apply every 7–14 days during periods of disease pressure, especially in humid conditions
+* **[[cervantes-pest-disease-prevention-overview]]:** Apply every 7–14 days during periods of disease pressure, especially in humid conditions
 * **Growth stimulation:** Apply during key growth transitions (transplanting, flowering initiation, fruit set)
 * **Pest management:** Apply as a preventive spray before pest populations establish; less effective as a curative treatment for established infestations
 * **Timing:** Apply in the early morning or late afternoon. OHN can cause leaf burn if applied during hot midday conditions.
@@ -91,10 +91,10 @@ OHN is typically combined with other KNF inputs for synergistic effects:
 ### Plant Defense Induction
 OHN compounds trigger plant immune responses:
 * **Systemic Acquired Resistance (SAR):** Allicin and gingerol upregulate PR (pathogenesis-related) protein gene expression, including chitinases and β-1,3-glucanases that degrade fungal cell walls
-* **Induced Systemic Resistance (ISR):** OHN-treated plants show enhanced callose deposition at infection sites, strengthened cell walls, and increased production of phytoalexins
+* **[[endophytic-mycorrhizal-induced-systemic-resistance]] Resistance (ISR):** OHN-treated plants show enhanced callose deposition at infection sites, strengthened cell walls, and [[fukuoka-textdoc-increased-production-not-increased-yields]] of phytoalexins
 * **Antioxidant enzyme activation:** OHN application upregulates plant superoxide dismutase (SOD), catalase (CAT), and peroxidase (POD) activity, improving the plant's capacity to manage oxidative stress from pathogen attack
 ### Insect Deterrence
-* Volatile compounds (cinnamaldehyde, diallyl disulfide, gingerol) act as antifeedants and repellents
+* [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] (cinnamaldehyde, diallyl disulfide, gingerol) act as antifeedants and repellents
 * The spicy aromatic profile masks host plant cues that insects use for location
 * Direct contact toxicity to soft-bodied insects and mites at higher concentrations
 ## Limitations and Considerations

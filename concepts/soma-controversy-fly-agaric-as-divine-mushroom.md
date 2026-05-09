@@ -3,7 +3,7 @@ title: Soma Controversy and the Fly-Agaric as Divine Mushroom
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "Letcher - Shroom: A Cultural History of the Magic Mushroom"
+  - "Letcher - Shroom: A shroom-cultural-history-hippie-revolution-and-counterculture of the Magic Mushroom"
 type: concept
 tags: [agar, mushroom-cultivation]
 ---
@@ -28,9 +28,9 @@ immortal; we have gone to the light; we have found the gods."
 Throughout the nineteenth and early twentieth centuries, Indologists tussled with the identity of the
 god-plant. A body of texts later than the Rig Veda, the Brahmanas (composed around 800 BCE), gave
 descriptions of plants that could be substituted for Soma. Candidates included various climbing plants in the
-genera Ephedra, Periploca and Sarcostemma; the psychoactive Peganum harmala (Syrian rue); Cannabis sativa;
+genera Ephedra, Periploca and Sarcostemma; the psychoactive [[mckenna-food-gods-peganum-harmala-soma]] (Syrian rue); Cannabis sativa;
 fermented drinks of hops and barley; and the innocuous Rheum palmatum. Forty-three candidates were advanced
-in the nineteenth century alone, a figure that rose to over a hundred in the twentieth. No consensus was ever
+in the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] alone, a figure that rose to over a hundred in the twentieth. No consensus was ever
 reached, and the question was deemed insoluble.
 
 ## Wasson's Entry into the Debate
@@ -38,12 +38,12 @@ reached, and the question was deemed insoluble.
 Quite what inspired Wasson to wade into this quagmire is unclear, but it may have been a conversation with
 Aldous Huxley. Huxley had become the founding father of psychedelia through The Doors of
 Perception (1954), and was thoroughly familiar with the Rig Veda. In his dystopian novel Brave New World
-(1932), he had borrowed the name "Soma" for the perfect drug that kept his genetically engineered populace
+(1932), he had borrowed the name "Soma" for the perfect drug that kept his [[singh-genetically-engineered-fungi-bioremediation]] populace
 happy, placid, and willing.
 
 Wasson, like Huxley, suspected that Soma must have been a hallucinogen of some kind. Originally entertaining
 several candidates, he eventually broke with academic orthodoxy by concluding that Soma had been a mushroom
--- specifically the [fly-agaric, Amanita muscaria. He announced his revolutionary thesis
+-- specifically the [fly-agaric, [[allegro-amanita-muscaria-properties-and-pharmacology]]. He announced his revolutionary thesis
 in 1968 with the publication of SOMA: Divine Mushroom of Immortality.
 
 ## SOMA: Divine Mushroom of Immortality (1968)
@@ -110,7 +110,7 @@ was too simplistic, too static, and too monolithic.
 ## Legacy
 
 Regardless of its scholarly merits, the Soma-fly-agaric thesis became one of the foundational myths of the
-psychedelic movement, providing ancient religious legitimacy to the use of hallucinogenic mushrooms. It
+psychedelic movement, providing ancient religious legitimacy to the use of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]. It
 inspired a cascade of even more speculative theories about mushroom imagery in the Bible and other religious
 texts. Wasson's thesis stimulated the debate enormously, and before long a queue of eager pundits were ready
 to line up with their own theories. The debate it sparked simply spun round with extra impetus.
@@ -119,6 +119,6 @@ to line up with their own theories. The debate it sparked simply spun round with
 
 - [[amanita-muscaria-cultural-history]]
 - [[siberian-fly-agaric-orientalism]]
-- [[amanita-in-ancient-religion]]
+- organized religion
 - [[psychedelic-ancient-history]]
 - [[allegro-end-of-a-road-motivation]]

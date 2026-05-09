@@ -1,10 +1,11 @@
 ---
-title: Italian Agriculture Observations
+title: fukuoka italian agriculture observations Observations
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [regenerative]
-sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Italian Agriculture Observations
@@ -17,18 +18,18 @@ cultural practices, and the signs of both decline and hopeful renewal.
 
 ## The Milan Rice District
 
-After the natural farming camp near Florence, Fukuoka toured the
+After the [[comparison-natural-farming-vs-permaculture]] camp near Florence, Fukuoka toured the
 rice-growing district near Milan. Rice sold under the Ivo Totti label
-was famous as natural rice throughout European countries. The 300-acre
+was famous as [[fukuoka-lundberg-family-farms-natural-rice-transition]] throughout European countries. The 300-acre
 farm was the location of the movie Bitter Rice, starring Sophia Loren.
 
 The farm owner, though getting on in years, was in good health with a
 deep interest in natural farming. He was excited about sending a
-current through the world of European agriculture with the natural rice
+current through the world of [[fukuoka-european-agriculture-observations]] with the natural rice
 grown in his fields.
 
 Rice in the Milan region was no longer transplanted as in the past,
-but grown by direct seeding in flooded fields. Because the fields were
+but grown by [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] in flooded fields. Because the fields were
 constantly kept under a deep cover of water, Fukuoka suspected that
 root rot must be severe and harvesting quite difficult.
 
@@ -37,7 +38,7 @@ root rot must be severe and harvesting quite difficult.
 Fukuoka visited what may have been Italy's largest farm, consisting of
 some 50,000 acres of land, of which about 750 acres were farmed. His
 book The One-Straw Revolution had been read there, and part of the land
-was converted to the cultivation of summer wheat in a clover cover,
+was converted to the cultivation of summer wheat in a [[fukuoka-clover-cover-cropping-soil-ecology]],
 all with fairly good results.
 
 Seeing such a vast stretch of uncultivated land, Fukuoka suggested

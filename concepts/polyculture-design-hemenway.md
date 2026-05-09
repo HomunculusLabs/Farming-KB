@@ -16,12 +16,12 @@ Polyculture is the practice of growing multiple plant species together in the sa
 
 ## Definition and Rationale
 
-Traditional societies have long used polycultures, but most employ plants unfamiliar to North American gardeners. Polycultures work because diverse plant communities:
+Traditional societies have long used polycultures, but most employ plants unfamiliar to [[growing-gourmet-north-american-reishi-species]] gardeners. Polycultures work because diverse plant communities:
 - Fill ecological niches more completely than monocultures
 - Bolster each other with beneficial interactions
-- Shift their composition in ecological succession
+- Shift their composition in [[holmgren-ecological-succession-and-pulsing]]
 - Provide a lengthy and varied harvest from minimal area
-- Are more resistant to pests and diseases
+- Are more resistant to [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]
 - Build soil through continuous organic matter cycling
 - Reduce the need for external inputs (fertilizer, water, pest control)
 
@@ -62,7 +62,7 @@ Developed by the Jajarkot Permaculture Program in Nepal, adapted for North Ameri
 - Bush beans, favas, alliums: summer
 - Fall-heading brassicas: autumn
 
-**Yield:** Six to eight months of food per year in most climates; longer with season extension.
+**Yield:** Six to eight months of food per year in most climates; longer with [[comparison-season-extension-techniques-vs-cold-frame-gardening]].
 
 ## Ianto Evans's Design Guidelines
 
@@ -84,13 +84,13 @@ Developed by the Jajarkot Permaculture Program in Nepal, adapted for North Ameri
 - What is the mature size and shape of each variety?
 - What are the root patterns (deep, shallow, spreading)?
 - What nutrients does each species need vs. contribute?
-- Which species attract beneficial insects?
+- Which species attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]?
 - Which species deter pests?
 - What is the harvest timing for each species?
 
 ### Building Blocks
 - **Fast growers** (radishes, arugula, buckwheat, mustard greens) -- first harvest, soil protection
-- **Legumes** (beans, peas, favas, clover) -- nitrogen fixation
+- **Legumes** (beans, peas, favas, clover) -- [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
 - **Umbellifers** (dill, fennel, coriander, cilantro) -- beneficial insect attraction
 - **Alliums** (onions, garlic, chives, leeks) -- pest deterrence
 - **Brassicas** (cabbage, broccoli, cauliflower, kale) -- long-season crops
@@ -111,9 +111,12 @@ Northern gardeners can extend productivity with spun row cover or greenhouse pla
 ## See Also
 
 - polyculture design principles
-- [[permaculture-plant-guilds]]
-- [[permaculture-companion-planting]]
+- permaculture-plant-guilds
+- permaculture-companion-planting
 - [[permaculture-crop-rotation]]
-- [[hemenway-food-forest-design]]
+- hemenway-food-forest-design
 
-- [[hemenway-zone-and-sector-planning]]
+- hemenway-zone-and-sector-planning
+- [[permaculture-design]]
+- [[hemenway-apple-tree-guild-design]]
+- [[gaias-garden-meadow-polyculture-design]]

@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Secrecy — Comparative Eleusis and Mesoamerica
+title: Psychedelic Secrecy — psychedelic secrecy comparative eleusis mesoamerica and Mesoamerica
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Psychedelic Secrecy — Comparative Eleusis and Mesoamerica
 
-**Source:** The Road to Eleusis, Chapters I, III — Wasson, Ruck
+**Source:** The [[the-road-to-eleusis-wasson-hofmann-ruck]], Chapters I, III — Wasson, Ruck
 
 **Updated:** 2026-04-19
 
@@ -19,7 +19,7 @@ A striking parallel between the [[mazatec-mushroom-culture-and-velada]] traditio
 
 ## The Eleusinian Oath of Silence
 
-Initiates at Eleusis swore a solemn oath never to reveal what they had witnessed in the [[mazatec-mushroom-culture-and-velada]] tradition documented by Wasson, Maria Sabina and other curanderas maintained strict secrecy about the identity and effects of the "little saints" (psilocybin mushrooms). The velada ceremony was conducted at night, in private homes, with only trusted participants. The mushrooms were referred to by codenames, never by their true identity.
+Initiates at Eleusis swore a solemn oath never to reveal what they had witnessed in the [[mazatec-mushroom-culture-and-velada]] tradition documented by Wasson, Maria Sabina and other curanderas maintained strict secrecy about the identity and effects of the "little saints" ([[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]). The velada ceremony was conducted at night, in private homes, with only trusted participants. The mushrooms were referred to by codenames, never by their true identity.
 
 When Wasson's 1957 Life article broke this secrecy, the consequences were devastating: "the dissemination of Wasson's article in Life led to an invasion of the region by hippies and other drug users, which ultimately destroyed the sacred context of the ritual."
 
@@ -43,7 +43,7 @@ The Eleusinian and Mazatec models of secrecy have found an unexpected echo in th
 
 ## Philosophical Dimensions of Sacred Secrecy
 
-The phenomenology of the psychedelic experience itself may explain why secrecy serves a functional rather than merely cultural role. Research on [[lsd-set-and-setting-framework]] developed in modern psychedelic research confirms what the Eleusinian hierophants apparently understood through centuries of empirical practice: the quality of the experience depends critically on the initiate's mental state and physical environment, and prior knowledge of what to expect can disrupt the optimal psychological conditions for a transformative experience.
+The phenomenology of the [[leary-psychedelic-experience-bardo-mapping]] itself may explain why secrecy serves a functional rather than merely cultural role. Research on [[lsd-set-and-setting-framework]] developed in modern [[mckenna-suppression-psychedelic-research-lsd-therapy]] confirms what the Eleusinian hierophants apparently understood through centuries of empirical practice: the quality of the experience depends critically on the initiate's mental state and physical environment, and prior knowledge of what to expect can disrupt the optimal psychological conditions for a transformative experience.
 
 ## Comparative Secrecy in World Religions
 
@@ -51,7 +51,7 @@ The Eleusinian-Mesoamerican secrecy parallel extends to other religious traditio
 
 - **Vedic soma rituals**: The identity of soma was a closely guarded secret of the Brahmin priesthood, with severe penalties for unauthorized disclosure
 
-- **Amazonian ayahuasca traditions**: Specific plant combinations and preparation methods are often kept secret within particular lineages
+- **[[harner-amazonian-ayahuasca-preparation-methods]] traditions**: Specific plant combinations and preparation methods are often kept secret within particular lineages
 
 - **Native American peyote ceremonies**: The details of the ritual are restricted to tribal members and authorized participants
 
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

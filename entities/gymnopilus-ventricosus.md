@@ -6,7 +6,7 @@ tags: [fungi, gymnopilus, non-psilocybe, north-america, europe, cortinariaceae]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources: []
   - "/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
 ---
 
@@ -19,7 +19,7 @@ these two species has been a persistent problem in the mycological literature,
 leading to unreliable potency reports and misidentified collections. Many
 specimens historically reported as "active" G. spectabilis were likely
 G. ventricosus. Understanding this distinction is critical for accurate
-field identification and chemical analysis.
+field identification and [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]].
 
 ## Taxonomy and Naming
 
@@ -66,7 +66,7 @@ G. spectabilis).
 The key distinction from G. spectabilis is the absence of psilocybin and
 psilocin. Stijve and Kuyper (1988) reported no detectable psilocybin in
 Swiss, Dutch, and American collections of specimens identified as
-G. spectabilis, many of which Beug and [[armillaria-mellea-entity]] | Edible honey mushroom; white spore print, grows in clusters at tree bases |
+G. spectabilis, many of which Beug and [[armillaria-mellea-entity]] | Edible honey mushroom; white [[comparison-spore-print-collection-vs-spore-syringe-production]], grows in clusters at tree bases |
 
 The confusion between G. ventricosus and G. spectabilis is one of the most
 persistent identification problems in the psychoactive mycological literature.
@@ -77,9 +77,9 @@ likely describe mixed collections including both species.
 
 Gymnopilus ventricosus is a saprobic brown-rot fungus that decomposes
 cellulose and hemicellulose of dead hardwood, playing an important role
-in forest nutrient cycling. The genus Gymnopilus shows vast regional
+in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. The genus Gymnopilus shows vast regional
 variation in chemical content, with some species producing psilocybin and
-others producing different bioactive compounds (such as neurotoxic
+others producing different [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] (such as neurotoxic
 oligoisoprenoids identified in Japanese G. spectabilis by Tanaka et al.,
 1993).
 

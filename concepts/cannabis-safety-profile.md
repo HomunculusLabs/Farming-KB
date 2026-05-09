@@ -60,7 +60,7 @@ Less common effects, more frequent with ingestion or high doses:
 - Panic upon first-ever use
 
 Most adverse effects are dose-dependent and self-limiting. The key to
-minimizing adverse effects is staying within one's subjective therapeutic
+minimizing adverse effects is staying within one's [[cannabis-subjective-therapeutic-window-dosing]]
 window.
 
 ## Mental Health Considerations
@@ -125,25 +125,23 @@ organically grown, laboratory-tested cannabis reduces this risk.
 
 The largest population-based case-control study of cannabis-only smoking
 (2,252 subjects in Los Angeles) found that smoking only cannabis was
-mildly lung-protective and was not associated with increased lung cancer
+mildly lung-protective and was not associated with increased [[psk-breast-lung-cancer-clinical-trials]]
 risk. However, burning any plant material produces potentially harmful
-particles. Cannabis oil has shown therapeutic effects in COPD and asthma
+particles. [[cervantes-hash-cannabis-oil-production]] has shown therapeutic effects in COPD and asthma
 patients. To minimize pulmonary risk, many patients use vaporizers instead
 of smoking, or use oral preparations (tinctures, oils) to avoid inhalation
 entirely.
 
 ## Cardiovascular Effects
 
-THC can increase heart rate, but not to dangerous levels in healthy
-individuals. Endocannabinoid receptors are present in the heart and are
 ## See Also
 
-- [[cannabis-sativa-vs-indica-therapeutic-profiles]] — Strain selection
-- [[blesching-cannabis-modes-administration-pharmacokinetics]] — Delivery methods and risk
+- [[cannabis-sativa-vs-indica-therapeutic-profiles]] — [[blesching-cannabis-strain-selection-receptor-targeting]]
+- [[blesching-cannabis-modes-administration-pharmacokinetics]] — [[cannabis-delivery-methods-comparison]] and risk
 
 ## Sources
 
-- Blesching, U. (2015). *The Cannabis Health Index*. North Atlantic
+- Blesching, U. (2015). *The [[blesching-cannabis-health-index-autoimmune-conditions]]*. North Atlantic
   Books.
 
 ## See Also

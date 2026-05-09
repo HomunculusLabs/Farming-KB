@@ -17,7 +17,7 @@ sources:
 
 # Psilocybin Psychological Mechanisms
 
-The neuroscience of how psilocybin produces its psychological effects, including Default Mode Network suppression, serotonin receptor activity, and neuroplasticity.
+The neuroscience of how psilocybin produces its [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]], including [[psilocybin-default-mode-network-ego-dissolution]] Network suppression, serotonin receptor activity, and neuroplasticity.
 
 ## Overview
 
@@ -30,7 +30,7 @@ The primary mechanism of action is agonism (activation) of the **serotonin 5-HT2
 - Psilocin binds to 5-HT2A receptors with high affinity, mimicking serotonin's action but producing far more pronounced effects.
 - 5-HT2A receptors are densely concentrated in layer V of the prefrontal cortex, an area critical for executive function, self-awareness, and the integration of sensory information.
 - The receptor activation triggers a cascade of downstream effects including changes in gene expression, neuronal excitability, and the release of glutamate (the brain's primary excitatory neurotransmitter).
-- This receptor is the same target as LSD, DMT, and mescaline, which is why these substances produce qualitatively similar effects despite different chemical structures.
+- This receptor is the same target as LSD, DMT, and mescaline, which is why these substances produce qualitatively similar effects despite different [[plants-of-the-gods-chemical-structures-hallucinogens]].
 
 ## Default Mode Network Suppression
 
@@ -38,7 +38,7 @@ The most significant finding of modern psychedelic neuroscience is the effect of
 
 - The DMN is a network of interconnected brain regions (medial prefrontal cortex, posterior cingulate cortex, angular gyrus) that is most active during rest, self-referential thinking, mind-wandering, and the maintenance of one's sense of ego or self.
 - Under psilocybin, activity in the DMN is **dramatically decreased**, particularly in the medial prefrontal cortex and the anterior cingulate cortex.
-- This suppression correlates strongly with subjective experiences of ego dissolution, the sense of oneness with the universe, and the feeling that ordinary categories of thought have broken down.
+- This suppression correlates strongly with subjective experiences of [[psilocybin-ego-dissolution-mechanisms]], the sense of oneness with the universe, and the feeling that ordinary categories of thought have broken down.
 - The degree of DMN suppression predicts the intensity of the mystical-type experience and, in therapeutic settings, the degree of clinical improvement.
 - In depressed individuals, the DMN is often hyperactive and associated with excessive rumination (repetitive negative self-focus). Psilocybin's suppression of this network is thought to "reset" these rigid patterns.
 
@@ -80,6 +80,6 @@ See [[psilocybin-therapeutic-applications]] for specific clinical applications.
 ## Related Topics
 
 - [[psychedelic-mushroom-pharmacology]] for detailed pharmacokinetics
-- [[psilocybin-therapeutic-applications]] for clinical research
+- [[psilocybin-therapeutic-applications]] for [[hofmann-lsd-clinical-research-early-studies]]
 - [[psychedelic-mushroom-set-and-setting]] for the psychological framework
 - [[psychedelic-integration-practices]] for making use of the experience

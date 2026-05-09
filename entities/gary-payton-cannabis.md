@@ -15,7 +15,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly. "Gary Payton Cannabis Strain Information." https://leafly.com/strains/gary-payton
+  - Leafly. "Gary Payton blesching-cannabis-strain-selection-receptor-targeting Information." https://leafly.com/strains/gary-payton
   - AllBud. "Gary Payton Strain Review." https://www.allbud.com/marijuana-strains/hybrid/gary-payton
   - Cookies. "Gary Payton — Official Strain Page." https://www.cookies.co
   - Wikileaf. "Gary Payton Strain Information." https://www.wikileaf.com/strain/gary-payton
@@ -66,7 +66,7 @@ Gary Payton is renowned for its aggressive, pungent "gas" terpene profile that i
 The terpene profile is dominated by terpinolene and caryophyllene, with supporting contributions from limonene and myrcene.
 
 - **Terpinolene:** ~35–45% — contributes piney, floral, and slightly herbal notes; associated with the strain's uplifting cerebral effects.
-- **Caryophyllene:** ~20–30% — provides peppery spiciness and contributes to anti-inflammatory properties via CB2 receptor binding.
+- **Caryophyllene:** ~20–30% — provides peppery spiciness and contributes to anti-inflammatory properties via CB2 [[tihkal-receptor-binding-serotonin]].
 - **Limonene:** ~10–15% — adds citrus brightness and mood-elevating character.
 - **Myrcene:** ~5–10% — grounds the profile with earthy depth and contributes to sedative body effects.
 - **Humulene:** ~3–5% — woody, earthy notes with appetite-suppressant properties.
@@ -99,9 +99,9 @@ Gary Payton is considered a moderately difficult strain to cultivate, with some 
 - **Indoor yield:** 350–450 g/m² under optimal conditions.
 - **Outdoor yield:** 400–550 g per plant.
 - **Preferred climate:** Warm, Mediterranean climate; performs well in controlled indoor environments.
-- **Nutrient needs:** Moderate-to-heavy feeder during vegetative stage; reduce nitrogen in late flowering to prevent nutrient burn and preserve terpene expression.
+- **Nutrient needs:** Moderate-to-heavy feeder during [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]; reduce nitrogen in late flowering to prevent nutrient burn and preserve terpene expression.
 - **Training:** Responds well to LST (low-stress training), SCROG, and topping; the strain's natural stretch is moderate during early flowering.
-- **Pest resistance:** Moderate; watch for spider mites and powdery mildew in humid conditions.
+- **Pest resistance:** Moderate; watch for spider mites and [[cervantes-powdery-mildew-prevention-treatment]] in humid conditions.
 - **Difficulty:** Intermediate — not recommended for absolute beginners due to sensitivity to overfeeding.
 
 ## Medical Applications
@@ -109,7 +109,7 @@ Gary Payton is considered a moderately difficult strain to cultivate, with some 
 Gary Payton's balanced cannabinoid-terpene profile makes it suitable for several therapeutic applications.
 
 - **Stress and anxiety:** The uplifting cerebral onset combined with terpinolene's anxiolytic properties provides rapid mood elevation.
-- **Chronic pain:** Caryophyllene and myrcene contribute to anti-inflammatory and analgesic effects useful for mild-to-moderate pain.
+- **[[cannabis-chronic-pain-management]]:** Caryophyllene and myrcene contribute to anti-inflammatory and analgesic effects useful for mild-to-moderate pain.
 - **Fatigue and depression:** Euphoric and energizing qualities at low-to-moderate doses help combat lethargy and low mood.
 - **Appetite stimulation:** Reliable munchies effect from the GSC lineage.
 
@@ -127,7 +127,7 @@ Common side effects are typical of high-THC hybrid strains but may be more prono
 
 - [[cannabis-endocannabinoid-system]]
 
-- [[gelato-cannabis]] — closely related Cookies-family hybrid with similar terpene complexity
+- [[gelato]] — closely related Cookies-family hybrid with similar terpene complexity
 - [[ice-cream-cake-cannabis]] — indica-heavy Cookies descendant with dessert terpenes
 - [[jealousy]] — Cookies-family cross with gassy terpene profile
-- Forbidden Fruit — gassy, fruity hybrid sharing terpinolene dominance
+- [[tree-of-knowledge-and-forbidden-fruit-theory]] — gassy, fruity hybrid sharing terpinolene dominance

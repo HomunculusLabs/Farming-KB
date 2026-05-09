@@ -9,9 +9,9 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Vander Kloet, S. P. (1988). The Genus Vaccinium in North America. Agriculture Canada Publication.
+  - Vander Kloet, S. P. (1988). The Genus Vaccinium in psilocybin-north-america-pacific-northwest. Agriculture Canada Publication.
   - USDA NRCS. "Vaccinium fuscatum" PLANTS Database. https://plants.usda.gov/
-  - Camp, W. H. (1945). "The North American blueberries with notes on other groups of Vacciniaceae." Brittonia.
+  - Camp, W. H. (1945). "The [[growing-gourmet-north-american-reishi-species]] blueberries with notes on other groups of Vacciniaceae." Brittonia.
   - Ballington, J. R. (2001). "Collection of native Vaccinium in the southeastern United States." HortScience.
 ---
 
@@ -67,7 +67,7 @@ The species provides important cover and nesting structure for wildlife in wetla
 
 In fire-prone pocosin habitats, *V. fuscatum* resprouts from the root crown following prescribed burns. Fire return intervals of 3–10 years maintain open canopy conditions favorable for fruit production.
 
-Ericoid mycorrhizal associations enable nutrient acquisition from nutrient-poor wetland soils. These symbiotic fungi are essential for nitrogen and phosphorus uptake in the acidic, often waterlogged substrates where *V. fuscatum* grows.
+[[dighton-ericoid-mycorrhizal-nutrient-acquisition]] associations enable nutrient acquisition from nutrient-poor wetland soils. These [[mycelium-running-symbiotic-fungi-relationships]] are essential for nitrogen and phosphorus uptake in the acidic, often waterlogged substrates where *V. fuscatum* grows.
 
 ## Edibility and Uses
 
@@ -85,7 +85,7 @@ In native plant landscaping, *V. fuscatum* is used for rain gardens, bioswales, 
 
 ## Cultivation
 
-Propagation is achievable through softwood cuttings under mist (70–85% rooting success) or from seed following 90-day cold stratification. Tissue culture protocols have been developed for germplasm conservation.
+Propagation is achievable through softwood cuttings under mist (70–85% rooting success) or from seed following 90-day cold stratification. [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] protocols have been developed for germplasm conservation.
 
 Plants require consistently moist to wet acidic soils and perform poorly in well-drained upland sites. Full sun to partial shade is acceptable, with best fruit production in full sun.
 
@@ -97,7 +97,7 @@ Yield data from wild stands and experimental plantings suggest 1.5–3 kg per ma
 
 Pruning requirements are minimal, consisting primarily of removal of dead, damaged, or excessively dense canes. The species responds well to renewal pruning, producing vigorous new shoots from the crown.
 
-Pests and diseases are similar to those affecting cultivated blueberries, though *V. fuscatum* shows above-average resistance to root rot pathogens. Bird predation of fruit can be significant in unnetted plantings and is the primary challenge for small-scale cultivation.
+[[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] are similar to those affecting cultivated blueberries, though *V. fuscatum* shows above-average resistance to root rot pathogens. Bird predation of fruit can be significant in unnetted plantings and is the primary challenge for small-scale cultivation.
 
 ## See Also
 
@@ -106,6 +106,6 @@ Pests and diseases are similar to those affecting cultivated blueberries, though
 - [[vaccinium-arboreum]]
 - [[vaccinium-uliginosum]]
 - [[gaylussacia-baccata]]
-- [[gaultheria-procumbens]]
+- gaultheria-procumbens
 - [[oxydendrum-arboreum]]
 - [[vaccinium-vitis-idaea]]

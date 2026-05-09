@@ -15,7 +15,7 @@ type: concept
 
 Ground cover cultivation and straw mulching form the practical foundation of
 soil management in Masanobu Fukuoka's natural farming system. Rather than
-managing soil through chemical fertilizers, compost preparation, and clean
+managing soil through [[cervantes-chemical-fertilizers-guide]], [[cultivator-compost-preparation-phase-methods]], and clean
 cultivation, Fukuoka relied on living ground covers of clover and other green
 manure plants combined with the continuous application of uncut straw to build
 and maintain soil fertility without any external inputs.
@@ -36,7 +36,7 @@ rather than managing each in isolation.
 
 When Fukuoka set out to revive his father's citrus orchard after World War II,
 the topsoil had washed away entirely, leaving only red clay. Passive efforts to
-restore the trees through fertilizer application, root-grafting, and blossom
+restore the trees through [[cervantes-fertilizer-application-strain-feeding]], root-grafting, and blossom
 thinning would only have accelerated their decline. Planting new saplings in
 the depleted soil would have failed equally. The only viable path was to
 rebuild the soil through natural processes centered on ground cover.
@@ -47,7 +47,7 @@ White clover became the primary ground cover in Fukuoka's system. As a
 leguminous plant, clover fixes atmospheric nitrogen through symbiotic
 relationships with rhizobia bacteria in its root nodules, making this nitrogen
 available to companion crops. But clover's contribution extends far beyond
-nitrogen fixation.
+[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
 
 The dense clover mat suppresses weed growth through light competition rather
 than eradication. Weeds that do emerge within the clover tend to be beneficial
@@ -83,7 +83,7 @@ drainage and water retention, and gradually releases nutrients in forms that
 plants can absorb. The decomposition process also generates humic acids that
 improve soil structure and cation exchange capacity.
 
-Fourth, the straw provides habitat for beneficial insects. Spiders, ground
+Fourth, the straw provides [[query-how-do-i-design-habitat-for-beneficial-insects]] insects. Spiders, ground
 beetles, and other predators that control pest populations thrive in the straw
 mulch layer, establishing the biological pest control that eliminates the need
 for pesticides.
@@ -137,10 +137,8 @@ achieving this:
    aggregation and serve a chelating action that solubilizes insoluble
    nutrients.
 
-3. **Nutrient transport from upslope preserves**: A natural wood preserve on
+3. **[[mycelial-network-nutrient-transport-imaging-gadd]] from upslope preserves**: A natural wood preserve on
    the uphill side of the farm builds humus that washes downhill with
-   rainwater, continuously enriching the fields below.
-
 ## See Also
 
 - [[query-jadam-vs-korean-natural-farming]]

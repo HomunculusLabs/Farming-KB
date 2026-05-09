@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [comparison, dynamic-accumulators, herbs, soil-building]
 date: 2026-05-02
 updated: 2026-05-02
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -23,7 +24,7 @@ work.
 
 ## Comfrey
 
-[[permaculture-dandelion]]
+permaculture-dandelion
 
 Dandelion is a low, resilient perennial with a deep taproot, edible leaves,
 flowers, buds, and roots, and a long season of pollinator value. In many
@@ -34,7 +35,7 @@ across a wide range of soils. Rather than requiring propagation, irrigation,
 or
 fertilizer, it gives the designer a chance to convert an existing weed
 pressure
-into food, bee forage, compost material, and soil opening.
+into food, [[mollison-designers-bee-forage-tree-planting]], compost material, and soil opening.
 
 The dandelion taproot can penetrate compacted soil and bring calcium,
 magnesium,
@@ -42,7 +43,7 @@ iron, copper, and other minerals into leaves and roots. When those leaves are
 harvested, composted, or allowed to die back, some of that mineral cycling
 returns to the surface. Dandelion is also one of the earliest spring nectar
 and
-pollen sources for bees and other beneficial insects, making it valuable in
+pollen sources for bees and other [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], making it valuable in
 lawns, orchard understories, and low-maintenance pollinator strips where early
 flowers are scarce.
 
@@ -65,7 +66,7 @@ flowers are scarce.
 
 Choose comfrey when the design needs a dependable source of cut biomass. A
 fruit
-tree guild, berry row, poultry yard edge, composting area, or no-till garden
+[[fruit-tree-guild-roles]], berry row, poultry yard edge, composting area, or no-till garden
 can
 use comfrey as a permanent fertility station. It is especially useful where
 the
@@ -99,15 +100,15 @@ areas.
 ## Hybrid Approaches
 
 The strongest design often uses both plants in different layers of the same
-system. Comfrey can occupy fixed guild positions around fruit trees or along a
-compost fence, where it is cut for mulch and liquid fertilizer. Dandelion can
+system. Comfrey can occupy fixed guild positions around [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] or along a
+compost fence, where it is cut for mulch and [[jadam-liquid-fertilizer-nutritional-perspective]]. Dandelion can
 be
 allowed in paths, lawn edges, and orchard understories, where its early
 flowers
 feed insects and its leaves enter the compost stream during routine mowing or
 harvesting.
 
-Together they illustrate two complementary kinds of dynamic accumulator
+Together they illustrate two complementary kinds of [[nutrient-dynamic-accumulator-reference]]
 management. Comfrey is a planned accumulator: installed, harvested, and cycled
 on
 purpose. Dandelion is an opportunistic accumulator: tolerated, eaten,
@@ -119,3 +120,6 @@ perennial infrastructure and wild self-renewing fertility.
 
 - [[dynamic-accumulator-plants-calcium-and-magnesium]]
 - [[comparison-chamomile-vs-dandelion]]
+- [[comparison-comfrey-vs-yarrow]]
+- [[comparison-dandelion-vs-yarrow]]
+- [[comparison-moringa-vs-comfrey]]

@@ -33,7 +33,7 @@ It forms dense monospecific meadows that smother native seagrass beds, particula
 - **Genus:** *Caulerpa*
 - **Species:** *C. taxifolia* (M.Vahl) C.Agardh
 
-*Caulerpa taxifolia* is a coenocytic organism — a single giant cell with many nuclei. It lacks cross-walls (septa) in its vegetative thallus, which is unusual among green algae.
+*Caulerpa taxifolia* is a coenocytic organism — a single giant cell with many nuclei. It lacks cross-walls (septa) in its vegetative thallus, which is unusual among [[cervantes-green-algae-growing-medium]].
 
 The fronds are feather-like, reaching 5–65 cm in length. Each frond consists of a central stolon from which upright branches arise in a pinnate arrangement.
 
@@ -43,7 +43,7 @@ Frond width ranges from 0.5 to 8 mm. The invasive Mediterranean strain produces 
 
 ## Distribution and Habitat
 
-Native range extends across tropical and subtropical Indo-Pacific waters, from northern Australia through Southeast Asia to East Africa. Native populations are typically small and patchy.
+Native range extends across tropical and subtropical Indo-Pacific waters, from northern Australia through [[psilocybe-southeast-asia-pacific]] to East Africa. Native populations are typically small and patchy.
 
 The invasive Mediterranean strain was first detected beneath the Oceanographic Museum of Monaco in 1984. By 2000, it covered an estimated 13,000 hectares across six Mediterranean countries.
 
@@ -59,7 +59,7 @@ Biodiversity declines sharply within invaded areas. Fish and invertebrate specie
 
 The alga produces caulerpenyne, a toxic sesquiterpene that deters herbivory. This chemical defense gives it a competitive advantage over native algae that are subject to grazing pressure.
 
-Caulerpenyne also exhibits cytotoxic and antimicrobial properties. It has been investigated for potential pharmaceutical applications, including antitumor activity in laboratory studies.
+Caulerpenyne also exhibits cytotoxic and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. It has been investigated for potential pharmaceutical applications, including antitumor activity in laboratory studies.
 
 ## Invasive Spread and Management
 
@@ -73,9 +73,9 @@ Public awareness campaigns target aquarium hobbyists, emphasizing that releasing
 
 ## Cultivation and Research
 
-*Caulerpa taxifolia* is cultivated in marine laboratories for research on algal invasion biology, chemical ecology, and coenocytic cell biology. Its single-cell organization makes it a model organism for studying cell structure without septa.
+*Caulerpa taxifolia* is cultivated in marine laboratories for research on algal invasion biology, chemical ecology, and coenocytic cell biology. Its single-cell organization makes it a model organism for studying [[plant-cell-structure-and-organelles]] without septa.
 
-The species has been investigated as a source of bioactive secondary metabolites. Extracts show activity against bacteria, fungi, and cancer cell lines, though clinical applications remain unproven.
+The species has been investigated as a source of bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]]. Extracts show activity against bacteria, fungi, and [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines, though clinical applications remain unproven.
 
 Aquarium strains are occasionally maintained in controlled conditions for educational display, but strict containment protocols are required to prevent further escapes. Commercial trade is restricted or banned in several countries.
 

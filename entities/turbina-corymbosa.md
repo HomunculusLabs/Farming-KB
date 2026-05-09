@@ -1,5 +1,5 @@
 ---
-title: Turbina corymbosa (L.) Raf.
+title: plants-of-the-gods-turbina-corymbosa-ololiuqui (L.) Raf.
 created: 2026-04-28
 type: species
 tags:
@@ -19,7 +19,7 @@ sources:
 ## Common Names
 
 [[ipomoea-violacea]] (Tlililtzin) and
-Argyreia nervosa (Hawaiian Baby Woodrose). All contain ergoline
+[[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]] (Hawaiian Baby Woodrose). All contain ergoline
 alkaloids in their seeds. Turbina corymbosa is often confused or
 synonymized with Ipomoea violacea in the literature, though the two
 are morphologically and chemically distinct species.
@@ -70,17 +70,17 @@ and horticultural channels.
 ## Chemistry
 
 The seeds of Turbina corymbosa contain ergoline alkaloids, a class of
-compounds structurally related to lysergic acid. The principal active
+compounds structurally related to [[ergot-and-lysergic-acid-history]]. The principal active
 constituents include:
 
-- **Lysergic acid amide (LSA, also known as ergine)** — the dominant
+- **Lysergic [[lysergic-acid-amide-containing-plants-halpern]] (LSA, also known as ergine)** — the dominant
   psychoactive alkaloid, producing effects qualitatively similar to
   LSD though considerably less potent.
 - **Lysergic acid hydroxyethylamide (LSH)** — a related ergoline
   contributing to the overall psychoactive profile.
 - **Isoergine and other minor ergolines** — present in trace amounts.
 
-The active principles belong to the indole alkaloid class and are
+The active principles belong to the [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] class and are
 concentrated almost exclusively in the seeds. The ergoline alkaloids
 are water-soluble, which is consistent with the traditional method
 of preparation as an aqueous infusion.

@@ -1,5 +1,5 @@
 ---
-title: Fungal Production of Plant Growth Regulators
+title: Fungal Production of Plant ingham-natural-growth-regulators-soil-microbes
 created: 2026-04-28
 tags:
   - gibberellins
@@ -53,7 +53,7 @@ IAA production occurs through multiple biosynthetic pathways:
 
 - **Indole-3-acetamide (IAM) pathway**: Tryptophan is converted to IAM by
   tryptophan monooxygenase, then to IAA by IAM hydrolase. This pathway is
-  common in phytopathogenic and biocontrol fungi.
+  common in phytopathogenic and [[ingham-trichoderma-biocontrol-fungi-aact]].
 - **Indole-3-pyruvic acid (IPyA) pathway**: Tryptophan undergoes transamination
   to IPyA, followed by decarboxylation to indole-3-acetaldehyde (IAAld) and
   oxidation to IAA. This is the predominant pathway in most fungi.
@@ -70,8 +70,8 @@ amelioration.
 Fungal phytohormone production underpins the biostimulant activity of several
 commercial products:
 
-- **Mycorrhizal inoculants**: AMF and ectomycorrhizal preparations for
-  horticulture, forestry, and agriculture, where growth promotion results
+- **[[pgpr-mycorrhizal-inoculants-microplant-establishment]]**: AMF and ectomycorrhizal preparations for
+  horticulture, forestry, and agriculture, where [[brassinosteroid-growth-promotion-psilocybe-cubensis]] results
   from combined hormone production, nutrient acquisition, and stress
   mitigation.
 - **Trichoderma-based products**: Biofertilizers and biocontrol agents
@@ -82,3 +82,7 @@ commercial products:
   the mechanisms described in [[singh-endophytic-fungi-plant-protection-mechanisms]]
 - [[singh-trichoderma-biocontrol-mechanisms-applications]]
 - [[singh-mycorrhizal-response-under-salinity-stress]]
+
+## See Also
+
+- [[cervantes-plant-additives-growth-supplements]]

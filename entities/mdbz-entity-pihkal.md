@@ -1,5 +1,5 @@
 ---
-title: "MDBZ (N-BENZYL-MDA; 3,4-METHYLENEDIOXY-N-BENZYLAMPHETAMINE) -- PIHKAL Entry #103"
+title: "MDBZ (N-BENZYL-MDA; 3,4-METHYLENEDIOXY-N-BENZYLAMPHETAMINE) -- 2c-b-pihkal-entry-20 #103"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -49,7 +49,7 @@ potency.
 
 Here too, there appears to be little if any activity in the N-benzyl
 analogue of MDA. A number of other variations had been synthesized,
-and none of them ever put into clinical trial. With many of them
+and none of them ever put into [[psilocybin-clinical-trial-landscape-2020-2025]]. With many of them
 there was an ongoing problem in the separation of the starting amine
 from the product amine. Sometimes the difference in boiling points
 could serve, and sometimes their relative polarities could be
@@ -112,7 +112,7 @@ at 165 deg C. Anal. (C17H20ClNO2) N.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

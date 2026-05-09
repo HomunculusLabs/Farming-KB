@@ -1,5 +1,5 @@
 ---
-title: Aspergillus fumigatus Population Genetics and Speciation
+title: gadd-aspergillus-fumigatus-glucan-virulence Population Genetics and Speciation
 created: 2026-04-26
 tags: [fungal-pathogen, population-genetics, speciation, medical-mycology, epidemiology]
 date: 2026-04-25
@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-Aspergillus fumigatus is the most important airborne fungal pathogen,
+Aspergillus fumigatus is the most important airborne [[alpha-1-3-glucan-fungal-pathogen-cell-walls]],
 causing invasive aspergillosis primarily in immunocompromised patients.
 Despite being morphologically asexual for over a century since its
 original description, population genetic studies have revealed evidence
@@ -55,7 +55,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -97,4 +97,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

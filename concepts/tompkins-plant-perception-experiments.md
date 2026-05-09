@@ -13,7 +13,7 @@ updated: 2026-04-26
 
 ## The Backster Effect
 
-In 1966, Cleve Backster, America's foremost polygraph examiner, made a
+In 1966, [[tompkins-cleve-backster-primary-perception]], America's foremost polygraph examiner, made a
 discovery that opened what he called a "Pandora's box" for science.
 Working in his office near Times Square, Backster attached electrodes
 from a lie detector (galvanometer) to a Dracaena massangeana, a tropical
@@ -24,7 +24,7 @@ As the plant absorbed water, the galvanometer did not show the expected
 decrease in resistance. Instead, the pen traced an active pattern very
 similar to that produced by a human experiencing emotional stimulation.
 The dragon tree was giving him "a reaction very similar to that of a
-human being experiencing an emotional stimulus of short duration."
+human being experiencing an emotional stimulus of [[savory-short-duration-grazing-and-cell-systems]]."
 
 ## Threat Response Experiments
 
@@ -64,7 +64,7 @@ buildings away. Back from a fifteen-mile trip to New Jersey, his plants
 showed "definite and positive signs of response" at the very moment he
 decided to return.
 
-A seven-hundred-mile plane trip across the United States produced
+A seven-hundred-mile plane trip across the [[dmt-containing-plants-united-states-halpern]] produced
 definite plant reactions to the traveler's emotional stress at each
 landing. Backster proposed placing a plant with a galvanometer on Mars
 to test whether this communication operates faster than electromagnetic

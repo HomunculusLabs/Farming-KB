@@ -5,25 +5,25 @@ updated: 2026-04-25
 type: concept
 tags: [education, schooling, children, philosophy, fukuoka, learning]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
+  sources: []
 ---
 # Fukuoka on Education and Modern Schooling
 
-In [[natural-farming-fukuoka]] offers pointed observations about the failures of modern education and proposes alternatives rooted in direct experience of nature. His critique extends from conventional classrooms to universities and connects to his broader [[fukuoka-road-africa-greening-desert]], provide a striking example of children's natural curiosity. When he gave Somali refugee children seeds, they "shrugged their shoulders, saying 'Wangaranai' (I don't understand)." But when he gestured how to plant, they responded immediately. Two or three days later, twenty children came running: "Kai, kai" (Come, come), beckoning him to see the daikon, onion, and cucumber seedlings sprouting at the river's edge. He hadn't expected "such an easy success."
+In  offers pointed observations about the failures of modern education and proposes alternatives rooted in direct experience of nature. His critique extends from conventional classrooms to universities and connects to his broader [[fukuoka-road-africa-greening-desert]], provide a striking example of children's natural curiosity. When he gave Somali refugee children seeds, they "shrugged their shoulders, saying 'Wangaranai' (I don't understand)." But when he gestured how to plant, they responded immediately. Two or three days later, twenty children came running: "Kai, kai" (Come, come), beckoning him to see the daikon, onion, and cucumber seedlings sprouting at the river's edge. He hadn't expected "such an easy success."
 
 No classroom instruction was needed. The children learned by doing, guided by their own curiosity and the immediate feedback of the natural world. This stands in sharp contrast to what Fukuoka saw as the deadening effect of formal schooling, where children are "weighed down with petty, microcosmic scientific knowledge" and "lose the freedom to acquire with their own hands macrocosmic wisdom." When we "weigh the child down with petty, microcosmic scientific knowledge, he loses the freedom to acquire with his own hands macrocosmic wisdom."
 
 ## Japanese Schools "Decaying"
 
-During his American travels, Fukuoka met two Japanese sisters of junior high school age at a Korean Zen temple in New York. They were growing tomatoes using natural farming methods. When he talked with them, he learned "that their mother, who lives in Kobe, had sent them here, saying that Japanese high schools are decaying." Fukuoka was "astounded and impressed" — "the simple, rustic life that Japanese people have forgotten is still to be found in America's countryside."
+During his American travels, Fukuoka met two Japanese sisters of junior high school age at a Korean Zen temple in New York. They were growing tomatoes using [[comparison-natural-farming-vs-permaculture]] methods. When he talked with them, he learned "that their mother, who lives in Kobe, had sent them here, saying that Japanese high schools are decaying." Fukuoka was "astounded and impressed" — "the simple, rustic life that Japanese people have forgotten is still to be found in America's countryside."
 
-This anecdote reveals Fukuoka's view that the rot of modern education is not confined to any one country but is part of the broader civilizational disease he diagnoses throughout [[fukuoka-road-observation-natures-patterns]] approach: the most important knowledge is not analytical but participatory. Children who grow food, observe insects, and feel the soil develop an understanding that no amount of scientific instruction can replicate. Fukuoka's vision for the International Nature University was essentially this principle institutionalized — a place where students would learn farming by farming, learn ecology by living within an ecosystem, and learn philosophy by experiencing the wholeness of nature directly.
+This anecdote reveals Fukuoka's view that the rot of modern education is not confined to any one country but is part of the broader civilizational disease he diagnoses throughout [[fukuoka-road-observation-natures-patterns]] approach: the most important knowledge is not analytical but participatory. Children who grow food, observe insects, and feel the soil develop an understanding that no amount of scientific instruction can replicate. Fukuoka's vision for the [[fukuoka-international-nature-university-peace-march]] University was essentially this principle institutionalized — a place where students would learn farming by farming, learn ecology by living within an ecosystem, and learn philosophy by experiencing the wholeness of nature directly.
 
 ## Agricultural Research as Failed Education
 
 Fukuoka reserves particular scorn for agricultural universities and research stations. When he told researchers to scatter straw uncut on fields, "this was laughed off by the folks at the Ehime Prefecture facility as just too crude." It took nine years for them to accept the method. "Government research centers and universities don't do studies of this sort. They work only in the opposite direction."
 
-The failure of agricultural education is symptomatic of a deeper problem: institutions train specialists who can only see nature through the lens of their particular discipline. A plant pathologist sees pathogens; a fertilizer expert sees nutrient deficiencies; an entomologist sees pests. None sees the whole. This fragmented education produces fragmented knowledge, which leads to the "incoherent chaos" Fukuoka describes in his [[fukuoka-road-do-nothing-farming]], "all is unnecessary" when one sees from the standpoint of God. Education should cultivate this sight, not bury it under "petty, microcosmic scientific knowledge."
+The failure of agricultural education is symptomatic of a deeper problem: institutions train specialists who can only see nature through the lens of their particular discipline. A plant pathologist sees pathogens; a fertilizer expert sees [[hamilton-nutrient-deficiencies-and-treatment]]; an entomologist sees pests. None sees the whole. This fragmented education produces fragmented knowledge, which leads to the "incoherent chaos" Fukuoka describes in his [[fukuoka-road-do-nothing-farming]], "all is unnecessary" when one sees from the standpoint of God. Education should cultivate this sight, not bury it under "petty, microcosmic scientific knowledge."
 
 ## Computers Replacing Teachers
 
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

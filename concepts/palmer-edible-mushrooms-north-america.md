@@ -1,23 +1,16 @@
 ---
-title: Edible Mushroom Species of North America (Palmer, 1894)
+title: bloomfield-boletus-satanus-edible-mushroom-hazards Species of psilocybin-north-america-pacific-northwest (Palmer, 1894)
 created: 2026-04-26
 sources: About Mushrooms - Julius Auboineau Palmer (1894)
 author: Julius Auboineau Palmer
 year: 1894
-tags: [[mycology, edible-mushrooms, north-america, foraging, fungi]
+tags: [mycology, edible-mushrooms, north-america, foraging, fungi]
 related: [palmer-mushroom-hunting-field-identification, palmer-mushroom-cooking-culinary-uses]
 type: concept
 updated: 2026-04-26
 ---
-
-# Edible Mushroom Species of North America
-
-Palmer's *About Mushrooms* (1894) documents approximately fifty edible mushroom varieties found in New England, based on the author's personal testing over two decades. He estimated that "tons of rich, wholesome food rot yearly in our woods and pastures" due to public ignorance. Below are the principal edible species he described.
-
-## The Common or Pasture Mushroom
-
-- **[[agaricus-arvensis]]** (horse-mushroom)
-- The only cultivated fungus, propagated from horse manure via spawn
+# Edible Mushroom Species of North America Palmer's *About Mushrooms* (1894) documents approximately fifty edible mushroom varieties found in New England, based on the author's personal testing over two decades. He estimated that "tons of rich, wholesome food rot yearly in our woods and pastures" due to public ignorance. Below are the principal edible species he described. ## The Common or Pasture Mushroom - **[[agaricus-arvensis]]** (horse-mushroom)
+- The only cultivated fungus, propagated from [[falconer-horse-manure-varieties]] via spawn
 - Pink gills when young, darkening through purple to black
 - Has a ring around the stem (annulus), though older specimens may lose it
 - Palmer noted that "cooks and gardeners do not recognize any distinction" between the two varieties

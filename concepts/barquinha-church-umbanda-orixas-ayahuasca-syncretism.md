@@ -10,7 +10,7 @@ Among the three major [[ralph-metzner]] in his 1998 analysis, the Barquinha has 
 
 ### General Format
 
-Based on Metzner's description and the broader pattern of Brazilian ayahuasca churches:
+Based on Metzner's description and the broader pattern of [[metzner-brazilian-ayahuasca-churches-structural-comparison-santo-daime-udv-barquinha]] churches:
 
 - **Setting** — Temples specially built for the purpose, usually dimly lit
 - **Participants** — 20 to 40 people, seated or standing in a circle
@@ -23,7 +23,7 @@ Based on Metzner's description and the broader pattern of Brazilian ayahuasca ch
 
 Metzner notes that Barquinha ceremonies "involve both singing and dancing." This distinguishes Barquinha from the more sedentary UDV and places it closer to Santo Daime's dance traditions, but with the added dimension of Umbanda-inspired spirit movement. The dancing may serve multiple functions:
 
-- **Trance induction** — Rhythmic movement facilitates altered states of consciousness
+- **Trance induction** — Rhythmic movement facilitates [[weil-the-natural-mind-altered-states-normalcy]] of consciousness
 - **Spirit expression** — Specific movements may be associated with particular orixás or spirits
 - **Community bonding** — Shared movement creates group cohesion
 - **Energy circulation** — Movement may be understood as circulating spiritual energy through the body
@@ -34,13 +34,13 @@ Metzner notes that Barquinha ceremonies "involve both singing and dancing." This
 
 As with Santo Daime and UDV, Barquinha membership is associated with reduced incidence of alcoholism and drug addiction. Research by Charles Grob, [[syncretic-entheogenic-churches]]-brazil-bwiti
 - santo daime hymns and dancing in ceremony
-- amazonian ayahuasca ceremonies icaros and healing methods
-- orixas and afro brazilian spiritual traditions
+- [[harner-amazonian-ayahuasca-preparation-methods]] ceremonies icaros and healing methods
+- orixas and [[metzner-barquinha-umbanda-and-afro-brazilian-ayahuasca-syncretism]] spiritual traditions
 - umbanda spiritism and ayahuasca syncretism
 - [[plant-teachers-ayahuasca]]-and-entheogenic-wisdom
 ## Practical Considerations
 
-When working with Barquinha Church Umbanda Orixas Ayahuasca Syncretism, several practical factors should be
+When working with Barquinha barquinha church umbanda orixas ayahuasca syncretism Orixas Ayahuasca Syncretism, several practical factors should be
 carefully considered to achieve optimal results. These include
 the specific conditions of the implementation context, available
 resources, timing requirements, and the interactions between this
@@ -54,7 +54,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -96,4 +96,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

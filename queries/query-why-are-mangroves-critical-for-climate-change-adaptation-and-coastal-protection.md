@@ -1,5 +1,5 @@
 ---
-title: "Why Are Mangroves Critical for [[fukuoka-sowing-natural-farming-climate-change]] Adaptation and Coastal Protection?"
+title: "Why Are query why are mangroves critical for climate change adaptation and coastal protection for fukuoka-sowing-natural-farming-climate-change Adaptation and Coastal Protection?"
 created: 2026-04-28
 tags: [mangroves, climate-change, coastal-protection, blue-carbon, storm-surge, shoreline-erosion, faq]
 date: 2026-04-28
@@ -16,7 +16,7 @@ sources:
   - "Spalding, M.D. et al. (2022). Global mangrove extent change 1996–2020.
     Global Ecology and Biogeography, 31(9), 1530–1545."
   - "IPCC (2019). Special Report on the Ocean and Cryosphere in a Changing Climate.
-    Chapter 5: Changing Ocean, Marine Ecosystems, and Dependent Communities."
+    Chapter 5: Changing Ocean, [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]], and Dependent Communities."
   - "Narayan, S. et al. (2017). The effectiveness, costs, and coastal protection
     benefits of natural and nature-based defences. PLoS ONE, 12(5), e0174741."
 type: query
@@ -28,7 +28,7 @@ type: query
 
 Mangroves are among the most carbon-dense ecosystems on Earth. On average, mangroves store approximately **1,023 Mg C per hectare** in their biomass and soils combined (Donato et al., 2011). By comparison, most tropical terrestrial forests store between 150–250 Mg C/ha — meaning mangroves hold roughly **4–7× more carbon** per unit area.
 
-Mangrove soils alone can contain **496–1,024 Mg C/ha** in just the top meter, because waterlogged anaerobic conditions slow decomposition and allow [[gaias-garden-rock-terrace-climate-mitigation]].
+Mangrove soils alone can contain **496–1,024 Mg C/ha** in just the top meter, because waterlogged anaerobic conditions slow decomposition and allow gaias-garden-rock-terrace-climate-mitigation.
 
 They cover less than 1% of tropical forest area but store roughly **3–5× more carbon per unit area** than upland [[fukuoka-natural-farming-in-tropical-regions]].
 
@@ -75,10 +75,10 @@ The total economic value of mangrove ecosystem services has been estimated at **
 - **Coastal protection**: $7,300–$12,600/ha/yr (flood and storm damage avoidance)
 - **Fisheries nursery habitat**: $1,600–$4,700/ha/yr (commercial and subsistence)
 - **Carbon sequestration**: $1,400–$3,900/ha/yr (at voluntary market prices of $10–$25/t CO₂e)
-- **Water filtration and nutrient cycling**: $2,000–$6,000/ha/yr
+- **Water filtration and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]**: $2,000–$6,000/ha/yr
 - **Recreation and cultural value**: $1,000–$3,500/ha/yr
 
-The cost of mangrove restoration ranges from **$500–$20,000/ha** depending on method and site conditions, meaning benefit-cost ratios often exceed **10:1** over a 20-year horizon. This makes mangrove conservation and restoration one of the most cost-effective nature-based climate solutions available.
+The cost of [[comparison-mangrove-restoration-vs-constructed-wetlands]] ranges from **$500–$20,000/ha** depending on method and site conditions, meaning benefit-cost ratios often exceed **10:1** over a 20-year horizon. This makes mangrove conservation and restoration one of the most cost-effective nature-based climate solutions available.
 
 ## How fast are mangroves being lost and where?
 
@@ -86,7 +86,7 @@ Global mangrove extent declined by **3.6% (approximately 6,000 km²)** between 1
 
 - **Southeast Asia**: Indonesia, Myanmar, and Malaysia account for the majority of global mangrove loss. Indonesia alone lost ~40% of its mangroves since 1980.
 - **West Africa**: Nigeria, Senegal, and Guinea-Bissau face significant pressure from aquaculture and oil infrastructure.
-- **Central America**: Honduras, Guatemala, and El Salvador have lost substantial mangrove area to shrimp farming.
+- **[[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]**: Honduras, Guatemala, and El Salvador have lost substantial mangrove area to shrimp farming.
 
 Aquaculture — particularly shrimp farming — accounts for roughly **30–50% of historical mangrove loss**. However, several nations have recently achieved net mangrove gain through restoration and legal protections, including Bangladesh, Vietnam, and the Dominican Republic.
 
@@ -112,9 +112,11 @@ Mangroves underpin the livelihoods and safety of an estimated **120+ million peo
 - **Water quality**: Mangroves filter pollutants and trap sediments, protecting coral reefs and seagrass beds downstream.
 - **Cultural value**: Spiritual significance, tourism, and traditional knowledge systems tied to mangroves are increasingly recognized in conservation planning.
 
-As sea levels rise and storm intensity increases under climate change, mangroves serve as both a **first line of defense** and an **adapting buffer zone** — if given space to migrate inland. Protecting and expanding mangrove areas is therefore a central strategy for climate adaptation in tropical coastal regions. In permaculture and ecological design contexts, mangroves represent a prime example of a multi-functional keystone system that provides food, protection, and climate regulation simultaneously.
+As sea levels rise and storm intensity increases under climate change, mangroves serve as both a **first line of defense** and an **adapting buffer zone** — if given space to migrate inland. Protecting and expanding mangrove areas is therefore a central strategy for [[jeavons-climate-adaptation-growing-seasons]] in tropical coastal regions. In [[permaculture]] and ecological design contexts, mangroves represent a prime example of a multi-functional keystone system that provides food, protection, and climate regulation simultaneously.
 
 ## Further Reading
 
-- **mangrove ecosystems and coastal restoration** — See the main topic page for detailed coverage of mangrove ecology, restoration techniques, and permaculture-relevant design principles: `[[decomposition]]
-- [[permaculture]]
+[[dighton-fungi-mangrove-coastal-ecosystems]] tion** — See the main topic page for detailed coverage of mangrove ecology, restoration techniques, and permaculture-relevant design principles: `[[decomposition]]
+- permaculture
+## See Also
+- [[query-what-are-c3-c4-and-cam-photosynthesis-and-why-does-it-matter-for-growers]]

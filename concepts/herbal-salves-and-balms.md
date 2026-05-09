@@ -9,15 +9,15 @@ sources: []
 
 # Herbal Salves and Balms
 
-Herbal salves and balms are semi-solid topical preparations made by combining herb-infused oils with beeswax. They are foundational homestead medicine -- simple to make, shelf-stable, and effective for a range of skin conditions including wounds, burns, rashes, dry skin, insect bites, and muscle soreness.
+Herbal salves and balms are semi-solid topical preparations made by combining herb-infused oils with beeswax. They are foundational homestead medicine -- simple to make, shelf-stable, and effective for a range of [[cannabis-for-skin-conditions-detailed]] including wounds, burns, rashes, dry skin, insect bites, and muscle soreness.
 
 ## Infused Oils
 
-The foundation of any salve is a carrier oil that has been infused with medicinal herbs. The oil acts as a solvent, extracting the fat-soluble compounds (resins, volatile oils, fatty acids, some alkaloids) from the plant material.
+The foundation of any salve is a carrier oil that has been infused with [[permaculture-plants-medicinal-herbs-healing]]. The oil acts as a solvent, extracting the fat-soluble compounds (resins, volatile oils, fatty acids, some alkaloids) from the plant material.
 
 ### Common Carrier Oils
 
-- Olive oil: Inexpensive, long shelf life, good solvent properties
+- Olive oil: Inexpensive, long shelf life, good [[lemon-cannabis-alchemy-solvent-properties-and-selection-guide]]
 - Sweet almond oil: Light texture, good absorption
 - Coconut oil: Antimicrobial, solid at room temperature
 - Jojoba oil: Technically a liquid wax, excellent shelf stability
@@ -35,7 +35,7 @@ Solar infusion method:
 Stovetop method (faster):
 1. Combine herb and oil in a double boiler
 2. Gently heat at 100-120 F for 2-4 hours
-3. Do not boil -- high heat degrades volatile compounds
+3. Do not boil -- high heat degrades [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]
 4. Strain while warm through cheesecloth
 
 ### Key Herbs for Salves
@@ -43,7 +43,7 @@ Stovetop method (faster):
 - Calendula (Calendula officinalis): Anti-inflammatory, wound healing, skin repair. The most versatile salve herb. Infuse dried petals in olive oil.
 - Plantain (Plantago major): Drawing agent for splinters and stings, anti-itch, wound healing. Broadleaf plantain grows wild on most homesteads.
 - Comfrey (Symphytum officinale): Cell proliferation, bone and tissue healing. Use for bruises, sprains, broken skin. Contains pyrrolizidine alkaloids -- avoid on deep open wounds.
-- Lavender (Lavandula angustifolia): Antimicrobial, calming, burn relief. Infuse flowers in oil or add essential oil at the end.
+- Lavender (Lavandula angustifolia): Antimicrobial, calming, burn relief. Infuse flowers in oil or add [[permaculture-designers-manual-essential-oil-plants]] at the end.
 - Yarrow (Achillea millefolium): Astringent, hemostatic, anti-inflammatory. Good for wound salves.
 - St. John's Wort (Hypericum perforatum): Nerve pain, burns, mild antidepressant (topical). Infuse fresh flowers in oil for the characteristic red color.
 - Chamomile (Matricaria chamomilla): Anti-inflammatory, soothing, gentle for babies and sensitive skin.
@@ -73,7 +73,7 @@ Instructions:
 1. Combine infused oil and beeswax in a double boiler over low heat
 2. Stir until beeswax is completely melted
 3. Remove from heat
-4. Add essential oils if using (add at this stage to preserve volatile compounds)
+4. Add [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] if using (add at this stage to preserve volatile compounds)
 5. Pour into tins, jars, or tubes
 6. Allow to cool undisturbed until solid (1-2 hours)
 7. Cap and label with ingredients and date

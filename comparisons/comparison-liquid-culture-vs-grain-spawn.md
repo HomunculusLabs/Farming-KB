@@ -11,8 +11,8 @@ type: comparison
 # Liquid Culture vs Grain Spawn
 
 ## Overview
-Liquid culture and grain spawn are two essential inoculation methods in
-mushroom cultivation, each serving a different stage of the growing process.
+Liquid culture and grain spawn are two essential [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]] in
+[[accessible-mushroom-cultivation-for-disabilities]], each serving a different stage of the growing process.
 Rather than being competing approaches, they are complementary steps in a
 complete cultivation workflow. Liquid culture is a nutrient-rich liquid medium
 colonized by mycelium used for inoculating grain, while grain spawn is
@@ -30,7 +30,7 @@ vermiculite, gypsum) where the mycelium continues to expand and eventually
 fruits. Common grain choices include rye berries (the gold standard for
 consistent results), whole oats (the budget-friendly favorite), and wild bird
 seed (many small inoculation points per volume).
-Proper grain preparation is the most critical step in spawn production — too
+Proper [[mushroom-spawn-grain-preparation-inoculation]] is the most critical step in spawn production — too
 dry and colonization stalls or fails entirely, too wet and the grain ferments
 or breeds bacterial contaminants. Hydration methods include the boil-and-drain
 technique, the 24-hour soak method, and the simmer-and-drain approach, each
@@ -70,7 +70,7 @@ or tissue sample into enough inoculant for many grain jars, maximizing the
 value of prized genetics. Cultivators maintaining multiple species or strains
 benefit from an LC library — compact, easy to store, and quick to prepare
 compared to maintaining dozens of agar plates. LC is also the best choice for
-growers who want to bypass the slower spore germination step entirely and get
+growers who want to bypass the slower [[growing-gourmet-spore-germination-strain-isolation]] step entirely and get
 mycelium growing on grain as fast as possible.
 
 ## When to Choose Grain Spawn
@@ -79,7 +79,7 @@ cultivation workflow. Even cultivators who use liquid culture must produce
 grain spawn before they can move to bulk substrates for fruiting. The real
 decisions around grain spawn involve choosing the optimal grain type for your
 target species, selecting the most reliable hydration method, and deciding
-between direct LC inoculation, spore inoculation, or agar wedge transfer. Rye
+between direct LC inoculation, [[mushroom-spore-inoculation-techniques]], or agar [[agar-to-grain-wedge-transfer-technique]]. Rye
 berries offer the most consistent results for beginners, while whole oats
 provide the best value for larger operations.
 

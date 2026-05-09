@@ -21,11 +21,11 @@ sources:
 
 ## Overview
 
-**Laurus nobilis** L., commonly known as **bay laurel**, **sweet bay**, or **true laurel**, is an aromatic evergreen tree or large shrub in the family Lauraceae, native to the Mediterranean basin. It is one of the most ancient and culturally significant culinary herbs, with a recorded history of use spanning over 3,000 years.
+**Laurus nobilis** L., commonly known as **bay laurel**, **sweet bay**, or **true laurel**, is an aromatic evergreen tree or large shrub in the family Lauraceae, native to the Mediterranean basin. It is one of the most ancient and culturally significant [[holzer-medicinal-and-culinary-herbs-compendium]], with a recorded history of use spanning over 3,000 years.
 
 The dried leaves of *L. nobilis* are the **bay leaves** used worldwide in cooking, prized for their complex aroma of eucalyptol, cineole, and warm spice notes. Beyond culinary use, bay laurel has a rich history in classical mythology, medicine, and traditional perfumery.
 
-In modern permaculture and agroforestry, bay laurel is valued as a multi-functional evergreen that provides culinary material, medicinal compounds, insect-repellent properties, and habitat for beneficial organisms.
+In modern permaculture and agroforestry, bay laurel is valued as a multi-functional evergreen that provides culinary material, medicinal compounds, insect-repellent properties, and [[query-how-do-i-design-habitat-for-beneficial-insects]] organisms.
 
 ## Taxonomy and Morphology
 
@@ -55,7 +55,7 @@ In modern permaculture and agroforestry, bay laurel is valued as a multi-functio
 
 *Laurus nobilis* is native to the **Mediterranean basin**, where it grows in mixed evergreen and deciduous forests, maquis shrubland, and rocky slopes from sea level to approximately 1,000 m elevation.
 
-Its native range extends from the Iberian Peninsula across southern Europe to Turkey, Syria, and North Africa. The species has been widely planted and naturalized far beyond its native range, now growing in temperate regions worldwide, including parts of North America, South America, Australia, and East Asia.
+Its native range extends from the Iberian Peninsula across southern Europe to Turkey, Syria, and North Africa. The species has been widely planted and naturalized far beyond its native range, now growing in temperate regions worldwide, including parts of [[psilocybin-north-america-pacific-northwest]], South America, Australia, and East Asia.
 
 The species requires a **Mediterranean-type climate** with warm, dry summers and mild, wet winters. It is moderately frost-hardy, tolerating temperatures to approximately -10°C for short periods. Extended freezes below -12°C cause significant leaf burn and branch dieback.
 
@@ -63,7 +63,7 @@ Optimal soils are well-drained, moderately fertile loams with pH 5.5–7.5. The 
 
 ## Essential Oil Chemistry
 
-The essential oil of *L. nobilis* leaves is commercially significant, extracted primarily by steam distillation. Yield ranges from 0.5–2.5% of fresh leaf weight depending on provenance, harvest timing, and extraction method.
+The essential oil of *L. nobilis* leaves is commercially significant, extracted primarily by [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]]. Yield ranges from 0.5–2.5% of fresh leaf weight depending on provenance, harvest timing, and extraction method.
 
 **Major constituents (typical composition):**
 
@@ -76,7 +76,7 @@ The essential oil of *L. nobilis* leaves is commercially significant, extracted 
 - **Limonene:** 1–3%
 - **Methyl eugenol:** trace to 2% (variable)
 
-The essential oil exhibits documented **antimicrobial activity** against Gram-positive bacteria (*Staphylococcus aureus*, *Bacillus subtilis*), fungi (*Candida albicans*, *Aspergillus niger*), and some foodborne pathogens, supporting its traditional use as a food preservative.
+The essential oil exhibits documented **antimicrobial activity** against Gram-positive bacteria (*Staphylococcus aureus*, *Bacillus subtilis*), fungi (*[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*, *Aspergillus niger*), and some foodborne pathogens, supporting its traditional use as a food preservative.
 
 ## Culinary and Medicinal Use
 
@@ -104,7 +104,7 @@ Bay laurel was a principal herb in **classical Greco-Roman medicine**. Dioscorid
 - **Pollinator support:** Early spring flowers provide nectar for emerging bees and flies
 - **Bird habitat:** Dense evergreen foliage offers winter shelter and nesting sites
 - **Culinary hedge:** Slow growth makes it ideal for maintained hedges that also yield harvestable leaves
-- **Drought tolerance:** Deep taproot system allows survival through extended dry periods
+- **[[dighton-fungal-drought-tolerance-plant-water-relations]]:** Deep taproot system allows survival through extended dry periods
 - **Container cultivation:** Tolerates root restriction well, suitable for patio herb gardens
 
 ## Cultivation
@@ -124,6 +124,8 @@ Bay laurel is most commonly propagated from **semi-hardwood cuttings** taken in 
 **Pests:** Relatively pest-free. Scale insects and bay sucker (*Trioza alacris*) can affect plants in sheltered positions. Laurel wilt (*Raffaelea lauricola*) is a devastating vascular disease present in parts of North America but not yet widespread in the Mediterranean range.
 
 ## See Also
+
+- [[abies-nobilis]]
 
 - [[rosmarinus-officinalis-entity]] — rosemary, companion Mediterranean culinary herb
 - [[ocimum-basilicum]] — basil, annual culinary herb

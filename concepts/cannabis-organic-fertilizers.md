@@ -1,5 +1,5 @@
 ---
-title: Cannabis Organic Fertilizers
+title: Cannabis hamilton-organic-fertilizers-and-plant-nutrition
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -27,7 +27,7 @@ Organically grown cannabis has a sweeter taste, but implementing an organic indo
 
 ### Nitrogen Sources
 
-- **Seabird guano** -- High in nitrogen, collected from arid sea islands; South American guano is considered the world's best
+- **Seabird guano** -- High in nitrogen, collected from arid sea islands; [[chiric-caspi-brunfelsia-south-american-hallucinogen]] guano is considered the world's best
 - **Bat guano** -- Rich in soluble nitrogen, phosphorus, and trace elements; newer deposits are high in nitrogen (can burn if over-applied); older deposits are high in phosphorus
 - **Fish emulsion** -- Fast-acting soluble nitrogen source
 - **Blood meal** -- High-nitrogen organic fertilizer
@@ -58,7 +58,7 @@ Organically grown cannabis has a sweeter taste, but implementing an organic indo
 Compost teas contain soluble organic nutrients diluted in water plus beneficial microbes:
 
 - A quarter teaspoon of well-made compost tea holds more than a billion bacteria and at least 15 feet of fungi strands
-- Contains thousands of species of protozoa, nematodes, and mycorrhizal fungi
+- Contains thousands of species of protozoa, nematodes, and [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
 - Disease-causing organisms cannot compete with beneficial bacteria and fungi
 - Beneficial bacteria break down plant residues and toxic materials
 
@@ -73,7 +73,7 @@ Compost teas contain soluble organic nutrients diluted in water plus beneficial 
 
 ## Hydro-Organic Growing
 
-Hydro-organic growing uses an inert soilless medium with a soluble organic nutrient solution. Key considerations:
+Hydro-organic growing uses an inert soilless medium with a soluble organic [[cannabis-nutrient-solution-preparation]]. Key considerations:
 
 - Organic nutrients must be soluble and readily available for short cannabis crops
 - An exact balance requires constant experimentation
@@ -86,7 +86,7 @@ Hydro-organic growing uses an inert soilless medium with a soluble organic nutri
 ## Flushing Organic Gardens
 
 - Soluble organic fertilizers are fairly easy to flush from growing medium
-- Like chemical fertilizers, organic fertilizers build to toxic levels
+- Like [[cervantes-chemical-fertilizers-guide]], organic fertilizers build to toxic levels
 - Rinse medium with three gallons of water for every gallon of medium
 - Some growers flush with plain water the last two weeks of flowering
 
@@ -100,7 +100,7 @@ Most indoor organic gardens use potting soil high in:
 - Manure
 - Leaf mold
 - Compost
-- Fine dolomite lime
+- Fine [[cervantes-dolomite-lime-ph-buffering]]
 
 ## See Also
 

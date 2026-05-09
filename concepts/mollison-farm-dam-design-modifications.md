@@ -1,5 +1,5 @@
 ---
-title: Polyculture Modifications to Farm Dam Design
+title: Polyculture Modifications to mollison farm dam design modifications Design
 created: 2026-04-23
 updated: 2026-04-23
 type: concept
@@ -14,13 +14,13 @@ sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md
 ---
 
-Standard farm dams are typically designed for water storage and reticulation, often following Keyline principles outlined by P.A. Yeoman. However, Bill Mollison argues that several additional features can be incorporated into farm dams to transform them from simple water storages into productive polyculture systems that support fish, waterfowl, forage plants, and integrated farm design.
+Standard farm dams are typically designed for water storage and reticulation, often following Keyline principles outlined by P.A. Yeoman. However, Bill Mollison argues that several additional features can be incorporated into farm dams to transform them from simple water storages into productive polyculture systems that support fish, waterfowl, forage plants, and integrated [[permaculture-farm-design-principles]].
 
 ## Keyline-Permaculture Integration
 
 The combined application of Keyline and permaculture achieves what Mollison describes as a rare conscious integration of water and soil treatment plus integrated biological planning. Keyline dams provide the water storage and reticulation framework, while permaculture modifications add biological productivity. Such combinations give excellent results on small-holdings of 1-15 acres and would ensure stability for any country that applied them on a national scale.
 
-While [[aquaculture-in-permaculture]].
+While aquaculture-in-permaculture.
 
 ## Polyculture Modifications to Farm Dams
 
@@ -58,23 +58,23 @@ Water storages designed for growing fish and plants are very different structure
 
 Graded bottoms ranging from 75 cm to 2 m depth suit many fish species, while storage ponds designed purely for water supply need to be 3-6 m deep to be worthwhile on large acreages. The shallow graded bottoms of polyculture ponds create diverse habitat zones that support a wider range of aquatic life. Multiple depth zones allow fish to thermoregulate by moving between warmer surface waters and cooler depths, while shallow margins provide spawning areas and support emergent vegetation that harbors invertebrate food sources.
 
-This preference for small, numerous water bodies aligns with [[faires-pond-design-and-aquaculture]]. The biological productivity per unit area of well-designed small ponds far exceeds that of large, deep storages. Ecological research supports this: pond edge-to-area ratio determines the amount of littoral zone habitat available, and smaller ponds have proportionally more edge, supporting more diverse and productive biological communities per unit of water surface area.
+This preference for small, numerous water bodies aligns with faires-pond-design-and-aquaculture. The biological productivity per unit area of well-designed small ponds far exceeds that of large, deep storages. Ecological research supports this: pond edge-to-area ratio determines the amount of littoral zone habitat available, and smaller ponds have proportionally more edge, supporting more diverse and productive biological communities per unit of water surface area.
 
 ## Biological Importance of Small Structures
 
 Mollison draws attention to the ecological significance of small water bodies that designers and engineers frequently overlook. In deserts, even tiny rockholes may be critical for the survival of quail chicks and desert animals. At the other extreme, relatively vast grazing shallows are needed by swan flocks in estuaries. The key insight is that the ecological value of a water body cannot be measured by volume alone — a small, shallow, vegetated pond may support far more species and greater total biomass than a deep, barren reservoir of much larger volume.
 
-Small structures serve critical functions including filter channels, quail ponds, and solar ponds. Engineers seem little concerned with subsurface dams and shoreline or perched impoundments that are critical to the survival of fish populations. The consequence is vast and expensive lakes built for power generation that have very poor biological productivity. The ecological cost of large dams — fragmentation of river ecosystems, disruption of fish migration routes, loss of riparian habitat, and alteration of downstream sediment transport — further argues for the permaculture preference for small, numerous, well-integrated water bodies over single large impoundments. These principles connect directly to [[faires-swales-and-water-conservation]] guide provides detailed specifications for constructing steering banks, diversion swales, and spillway systems at various scales.
+Small structures serve critical functions including filter channels, quail ponds, and solar ponds. Engineers seem little concerned with subsurface dams and shoreline or perched impoundments that are critical to the survival of fish populations. The consequence is vast and expensive lakes built for power generation that have very poor biological productivity. The ecological cost of large dams — fragmentation of river ecosystems, disruption of fish migration routes, loss of riparian habitat, and alteration of downstream sediment transport — further argues for the permaculture preference for small, numerous, well-integrated water bodies over single large impoundments. These principles connect directly to faires-swales-and-water-conservation guide provides detailed specifications for constructing steering banks, diversion swales, and spillway systems at various scales.
 
 ## Design Implications
 
-The permaculture approach to [[faires-water-harvesting-and-swales]] strategies and connect naturally with [[mollison-designers-aquatic-edge-planting-zones]].
+The permaculture approach to [[faires-water-harvesting-and-swales]] strategies and connect naturally with mollison-designers-aquatic-edge-planting-zones.
 
 ## Earthworks and Construction Considerations
 
-The physical construction of polyculture dams requires careful attention to soil type, compaction, and site selection. Clay-rich soils (minimum 15-20% clay content) are essential for water retention; sandy or gravelly soils require imported clay or artificial liners. Mollison emphasizes that the dam wall itself should be compacted in 15-20 cm layers (lifts) at optimal moisture content, with each lift thoroughly rolled before the next is added. The core of the dam wall should contain the most impervious material available, with coarser material on the downstream face for drainage.
+The physical construction of polyculture dams requires careful attention to soil type, compaction, and [[fukuoka-creating-natural-farm-site-selection-establishment]]. Clay-rich soils (minimum 15-20% clay content) are essential for water retention; sandy or gravelly soils require imported clay or artificial liners. Mollison emphasizes that the dam wall itself should be compacted in 15-20 cm layers (lifts) at optimal moisture content, with each lift thoroughly rolled before the next is added. The core of the dam wall should contain the most impervious material available, with coarser material on the downstream face for drainage.
 
-Keyline principles inform the placement of dams in the landscape: dams should be sited at the highest practical point in the catchment to maximize gravitational water distribution, with the dam wall positioned on the contour. The spillway must be sized to handle peak flood flows without eroding the dam wall — Mollison recommends designing spillways for 1-in-50-year flood events minimum. The [[mollison-designers-small-dam-site-selection-design]] provide detailed specifications for site assessment, soil testing, and construction sequencing.
+Keyline principles inform the placement of dams in the landscape: dams should be sited at the highest practical point in the catchment to maximize gravitational water distribution, with the dam wall positioned on the contour. The spillway must be sized to handle peak flood flows without eroding the dam wall — Mollison recommends designing spillways for 1-in-50-year flood events minimum. The [[mollison-designers-small-dam-site-selection-design]] provide detailed specifications for [[mollison-designers-design-client-interview-and-site-assessment-process]], soil testing, and construction sequencing.
 
 ## Fish Species Selection for Polyculture Ponds
 

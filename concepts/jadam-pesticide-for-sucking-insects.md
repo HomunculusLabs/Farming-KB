@@ -1,6 +1,6 @@
 ---
 
-title: JADAM Pesticide for Sucking Insects
+title: JADAM jadam pesticide for sucking insects Insects
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -49,11 +49,11 @@ Stinkbugs, thrips, whiteflies, leafhoppers, planthoppers, and fruit flies requir
 
 ### Rice Comprehensive (planthopper + borer + armyworm + blast + sheath blight)
 
-- JWA: 5L + JS 2L + Jerusalem artichoke JHS 5L + KPFR JHS 5L
+- JWA: 5L + JS 2L + [[comparison-jerusalem-artichoke-vs-potato]] JHS 5L + KPFR JHS 5L
 
 ## Pests Controlled
 
-Bean bug (Riptortus clavatus), black stinkbug, silverleaf whitefly, greenhouse whitefly, tangerine thrips, pear psylla, winter cherry bug, fruit fly, flea beetle, onion fly, mosquito, grasshopper, citrus flatid planthopper, mulberry sucker, rice green leafhopper, brown planthopper, turnip moth
+Bean bug (Riptortus clavatus), black stinkbug, silverleaf whitefly, greenhouse whitefly, tangerine thrips, pear psylla, winter cherry bug, [[fukuoka-australia-fruit-fly-incident]], flea beetle, onion fly, mosquito, grasshopper, citrus flatid planthopper, mulberry sucker, rice green leafhopper, brown planthopper, turnip moth
 
 ## Preparation Steps
 
@@ -96,7 +96,7 @@ JADAM pesticides are primarily contact-action:
 
 ## Concentration Warning
 
-Adding 0.5kg fine red clay powder increases effectiveness but do NOT exceed JWA 10L for continuous use. High JWA can damage the white powdery coating of fruits and stun growth.
+Adding 0.5kg fine [[jadam-red-clay-powder-method]] powder increases effectiveness but do NOT exceed JWA 10L for continuous use. High JWA can damage the white powdery coating of fruits and stun growth.
 
 ## See Also
 

@@ -1,10 +1,11 @@
 ---
-title: "What Is the Difference Between Regular, Feminized, and Autoflower Seeds?"
+title: "What Is the query what is the difference between regular feminized and autoflower seeds, Feminized, and Autoflower Seeds?"
 created: 2026-04-28
 tags: [query, cannabis, genetics, seeds, breeding]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -14,14 +15,14 @@ type: query
 Regular seeds produce both male and female plants (approximately
 50/50) and are essential for breeding. Feminized seeds are bred
 to produce only female plants, eliminating the need to identify
-and remove males. Autoflower seeds contain Cannabis ruderalis
+and remove males. Autoflower seeds contain [[cervantes-cannabis-ruderalis-autoflowering]]
 genetics and flower automatically based on age rather than light
-cycle, completing their life cycle in roughly 8 to 12 weeks from
+cycle, completing their [[bloomfield-fungal-life-cycle-spiral-versus-circle]] in roughly 8 to 12 weeks from
 seed regardless of photoperiod.
 
 ## Detailed Explanation
 
-Understanding the three main types of cannabis seeds is
+Understanding the three main types of [[query-how-to-store-cannabis-seeds-for-long-term-viability]] is
 fundamental for any grower, whether you are a first-time
 cultivator or an experienced breeder. Each type has distinct
 advantages, disadvantages, and ideal use cases that make it
@@ -87,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,6 +1,6 @@
 # Pasteurization vs Sterilization
 
-Pasteurization and sterilization are two distinct processes used to
+[[query-difference-between-pasteurization-and-sterilization-mushroom-growing]] are two distinct processes used to
 reduce or eliminate microorganisms from materials. While often
 confused, they differ fundamentally in their intensity, mechanisms,
 and outcomes. Understanding the difference is essential in mycology,
@@ -30,7 +30,7 @@ where any microbial presence would be problematic.
   penetrating and killing microorganisms.
 
 - **Chemical sterilization**: Uses chemicals such as ethylene
-  oxide gas, hydrogen peroxide plasma, or glutaraldehyde to
+  oxide gas, [[cervantes-hydrogen-peroxide-sterilization]] plasma, or glutaraldehyde to
   kill all microorganisms. Often used for heat-sensitive
   instruments and materials.
 
@@ -42,8 +42,8 @@ where any microbial presence would be problematic.
   gases through membrane filters with pore sizes small enough
   to trap bacteria (typically 0.22 micrometers).
 
-- **Microwave sterilization**: Uses microwave energy with trace
-  water to achieve surface sterilization. Developed by NASA for
+- **[[nasa-microwave-sterilization-challenge-organisms-kill-kinetics]]**: Uses microwave energy with trace
+  water to achieve [[challenge-organisms-nasa-microwave-surface-sterilization-testing]]. Developed by NASA for
   spaceflight applications, this method offers advantages for
   thermally labile systems and complex surface geometries.
 
@@ -88,7 +88,7 @@ survive pasteurization.
 
 ## Application in Mycology
 
-In mushroom cultivation, the choice between sterilization and
+In [[accessible-mushroom-cultivation-for-disabilities]], the choice between sterilization and
 pasteurization depends on the substrate and application:
 
 **Sterilization is required for grain spawn**: Grain substrates
@@ -109,7 +109,7 @@ defend against subsequent contamination.
 preserve beneficial microorganisms, while others sterilize it for
 maximum contamination control. Empirical results with grass seed
 substrates favor sterilization, as pasteurized casing has been
-associated with higher contamination rates in indoor cultivation
+associated with higher contamination rates in [[cannabis-sativa-indoor-cultivation-techniques]]
 environments.
 
 ## See Also

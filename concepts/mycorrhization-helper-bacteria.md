@@ -4,7 +4,8 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [reference]
-sources: []
+sources:
+  sources: []
 ---
 # Mycorrhization Helper Bacteria
 
@@ -12,7 +13,7 @@ Mycorrhization helper bacteria (MHB) are a specific group of plant growth-promot
 
 ## Definition and Concept
 
-The term "mycorrhization helper bacteria" was coined to describe bacteria that specifically promote the mycorrhizal symbiosis rather than plant growth per se. These bacteria are distinct from PGPR in their mode of action, although there is overlap: many PGPR also function as MHB, and the boundary between the two categories is not sharp. The key distinction is that MHB activity is measured by its effect on mycorrhizal parameters (colonization rate, hyphal length, arbuscule frequency) rather than solely on plant growth.
+The term "mycorrhization helper bacteria" was coined to describe bacteria that specifically promote the [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] rather than plant growth per se. These bacteria are distinct from PGPR in their mode of action, although there is overlap: many PGPR also function as MHB, and the boundary between the two categories is not sharp. The key distinction is that MHB activity is measured by its effect on mycorrhizal parameters (colonization rate, hyphal length, arbuscule frequency) rather than solely on plant growth.
 
 ## Mechanisms of Action
 
@@ -28,7 +29,7 @@ MHB can promote the presymbiotic stages of mycorrhizal development:
 
 MHB influence the chemical composition of root exudates, making them more favorable for mycorrhizal establishment:
 
-- Increased production of strigolactones, the germination stimulants for AMF
+- [[fukuoka-textdoc-increased-production-not-increased-yields]] of strigolactones, the germination stimulants for AMF
 - Modified amino acid and sugar profiles that enhance fungal attraction to roots
 - Altered phenolic compound profiles that may facilitate fungal recognition
 
@@ -53,7 +54,7 @@ MHB can enhance the mycorrhizal-biocontrol|biocontrol properties of mycorrhizal 
 The discovery of MHB led to the expansion of the rhizosphere concept to include fungal structures:
 
 - **Rhizosphere**: The zone of soil influenced by plant roots
-- **Mycorrhizosphere**: The zone around mycorrhizal roots, including both bacterial and fungal communities
+- **Mycorrhizosphere**: The zone around mycorrhizal roots, including both [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] communities
 - **Hyphosphere**: The zone surrounding individual mycorrhizal hyphae
 
 AMF hyphae serve as conduits for plant-derived carbon into soil, fueling microbial activity in the mycorrhizosphere and hyphosphere. Between 10-20% of net photosynthate is allocated to mycorrhizal structures and eventually enters soil carbon pools, profoundly shaping the microbial communities in these zones.
@@ -75,7 +76,7 @@ Bacillus spp. contribute to mycorrhization through:
 
 - Spore-forming ability providing persistence in soil and inoculant formulations
 - Production of lipopeptide antibiotics (iturin, surfactin, fengycin)
-- Induced systemic resistance (ISR) in host plants
+- [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance (ISR) in host plants
 - Phosphate solubilization activity
 
 ### Other Groups
@@ -91,7 +92,7 @@ Bacillus spp. contribute to mycorrhization through:
 Micropropagated plants are produced in sterile conditions and lack any rhizosphere microbiome. Combined inoculation of AMF and PGPR during the weaning stage addresses multiple challenges:
 
 1. **AMF** provides improved nutrient and water uptake, soil aggregation, and some pathogen protection
-2. **PGPR** provides rapid biocontrol through antibiotic and siderophore production, ethylene reduction, and ISR
+2. **PGPR** provides rapid biocontrol through antibiotic and [[singh-fungal-siderophore-production-iron-acquisition]], ethylene reduction, and ISR
 3. **Combined** inoculation often produces additive or synergistic effects, as the two groups target different aspects of plant-microbe interaction
 
 The three functional categories for AMF are:
@@ -104,7 +105,7 @@ The three functional categories for AMF are:
 For commercial viability, biological inoculants should provide at least a 4-fold return on inoculum cost. Combined AMF-PGPR inoculants are most attractive for:
 
 - High-value horticultural crops
-- Organic farming systems
+- [[coleman-deep-organic-farming-philosophy]] systems
 - Restoration of degraded lands
 - Low-input tropical agriculture
 
@@ -130,4 +131,4 @@ The synergy between AMF and MHB arises from complementary mechanisms:
 
 - [[fungal-bacterial-partnerships-mycorrhizosphere]]
 - [[symbiotic-fungi-nitrogen-fixing-symbioses-agriculture]]
-- [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]
+- fungal-symbiosis-with-plants-beyond-mycorrhizae

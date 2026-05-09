@@ -3,6 +3,7 @@ title: Living Soil for Cannabis
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
@@ -11,7 +12,7 @@ tags: [cannabis, soil]
 
 # Living Soil for Cannabis
 
-Living soil is a biological approach to cannabis cultivation that focuses on building and maintaining a diverse ecosystem of beneficial microorganisms within the growing medium. Rather than feeding plants directly with soluble fertilizers, living soil systems rely on the soil food web to break down organic matter and make nutrients available to plant roots naturally.
+Living soil is a biological approach to [[query-how-does-no-till-cannabis-cultivation-work]] that focuses on building and maintaining a diverse ecosystem of beneficial microorganisms within the growing medium. Rather than feeding plants directly with soluble fertilizers, living soil systems rely on the soil food web to [[query-can-fungi-break-down-plastic-pollution]] [[hamilton-composting-and-organic-matter-management]] and make nutrients available to plant roots naturally.
 
 ## Principles of Living Soil
 
@@ -21,7 +22,7 @@ Key principles include:
 - **Feed the soil, not the plant**: Organic inputs are broken down by soil organisms into plant-available forms.
 - **Biological diversity**: A diverse microbial population creates resilient, self-regulating growing conditions.
 - **Minimal disturbance**: Soil structure and biology are preserved by avoiding excessive tilling or disruption.
-- **Organic inputs only**: Natural amendments and organic fertilizers maintain soil health.
+- **Organic inputs only**: Natural amendments and [[hamilton-organic-fertilizers-and-plant-nutrition]] maintain soil health.
 
 ## Building Living Soil
 
@@ -42,7 +43,7 @@ Quality living soil mixes include:
 
 ## Compost Tea
 
-[[cervantes-compost-tea-organic-brewing]], fresh compost, and organic amendments between grows builds the soil biology. Over multiple cycles, living soil can become largely self-sustaining, requiring fewer external inputs while producing increasingly high-quality cannabis.
+[[cervantes-compost-tea-organic-brewing]], fresh compost, and [[cervantes-organic-amendments-chart]] between grows builds the soil biology. Over multiple cycles, living soil can become largely self-sustaining, requiring fewer external inputs while producing increasingly high-quality cannabis.
 
 ## See Also
 
@@ -67,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

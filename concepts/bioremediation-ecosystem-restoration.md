@@ -15,13 +15,13 @@ While bioremediation focuses on reducing contaminant concentrations to levels th
 
 The integration of bioremediation with ecological restoration principles can produce outcomes that are more sustainable, cost-effective, and beneficial than either approach alone.
 
-This topic draws connections between the remediation-focused pages such as [[fungal-biodiversity-ecosystem-function]] describes the relationship between fungal diversity and ecosystem processes that underpin both remediation and restoration outcomes.
+This topic draws connections between the remediation-focused pages such as [[fungal-biodiversity-ecosystem-function]] describes the relationship between fungal diversity and [[fungal-ecosystem-processes-overview]] that underpin both remediation and restoration outcomes.
 
 ## Soil Ecosystem Recovery
 
 Soil is the foundation of terrestrial ecosystem function, and its recovery is often the primary objective of restoration at contaminated sites.
 
-Bioremediation activities affect soil ecosystem properties through multiple pathways, including changes in organic matter content, microbial community composition, nutrient availability, and soil structure.
+Bioremediation activities affect soil ecosystem properties through multiple pathways, including changes in organic matter content, microbial [[core-endorhiza-bacterial-community-composition-cannabis]], [[ph-and-nutrient-availability-garden-soils]], and soil structure.
 
 [[biostimulation-techniques]] that add nutrients and organic matter to support contaminant degradation simultaneously provide the organic matter and nutrient inputs needed for soil ecosystem recovery.
 
@@ -41,7 +41,7 @@ Native plant species are generally preferred for restoration because they suppor
 
 Phytoremediation species, as described in [[phytostabilization]] provides immediate soil stabilization and contaminant immobilization while the plant community develops and matures.
 
-The selection of plant species for restoration should consider their functional traits including nitrogen fixation, deep rooting, litter quality, and wildlife habitat value, in addition to their contaminant tolerance.
+The selection of plant species for restoration should consider their functional traits including [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], deep rooting, litter quality, and wildlife habitat value, in addition to their contaminant tolerance.
 
 Plant-microbe interactions, particularly mycorrhizal associations, are critical for plant community establishment on degraded and contaminated sites.
 
@@ -51,7 +51,7 @@ The integration of contaminant treatment functions with wildlife habitat creatio
 
 Riparian buffer restoration along contaminated waterways provides filtration of contaminated runoff, bank stabilization, temperature moderation, and habitat connectivity.
 
-Fungal communities in restored wetlands, including both saprotrophic and mycorrhizal species, contribute to organic matter processing, nutrient cycling, and plant community development.
+Fungal communities in restored wetlands, including both saprotrophic and mycorrhizal species, contribute to organic matter processing, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and plant community development.
 
 [[soil-food-web-nutrient-cycling]] describe fungal community ecology relevant to wetland and riparian restoration.
 
@@ -61,7 +61,7 @@ Monitoring ecological recovery at remediated sites requires a multi-disciplinary
 
 Biological indicators including species diversity, community composition, ecosystem productivity, and functional measures provide information about ecological condition that chemical data alone cannot provide.
 
-[[fungal-biosensors-environmental-monitoring]] describe approaches for assessing ecosystem condition through fungal indicators.
+fungal-biosensors-environmental-monitoring describe approaches for assessing ecosystem condition through fungal indicators.
 
 Soil biological parameters including microbial biomass, enzyme activities, and functional gene abundance provide sensitive indicators of soil ecosystem recovery.
 
@@ -71,7 +71,7 @@ Reference sites, representing the desired ecological condition, provide benchmar
 
 Ecological risk assessment at remediated sites evaluates whether residual contaminant concentrations pose unacceptable risks to ecological receptors, supporting decisions about the need for additional remediation or land use restrictions.
 
-The concept of ecosystem services provides a framework for quantifying the benefits of ecological recovery at remediated sites, including carbon sequestration, water purification, flood control, pollination, and recreation.
+The concept of [[biodiversity-of-fungi-ecosystem-services-agriculture]] provides a framework for quantifying the benefits of ecological recovery at remediated sites, including carbon sequestration, water purification, flood control, pollination, and recreation.
 
 ## Sustainable Remediation Principles
 

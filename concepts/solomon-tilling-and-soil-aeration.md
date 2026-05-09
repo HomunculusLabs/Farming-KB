@@ -110,7 +110,7 @@ well-aerated, crumbly, and easy for roots to penetrate. It retains
 moisture without waterlogging and drains excess water without erosion.
 
 Solomon achieves excellent tilth by combining deep initial digging with
-regular surface cultivation and annual top-dressing of organic matter.
+regular [[jeavons-surface-cultivation-technique]] and annual top-dressing of [[hamilton-composting-and-organic-matter-management]].
 Over several years, this approach transforms even difficult clay into
 productive garden soil. Earthworms and other soil organisms gradually
 improve the subsoil, but the initial deep preparation accelerates the
@@ -126,6 +126,8 @@ some initial soil disruption is necessary to create the conditions for
 future no-dig management.
 
 ## Related
+
+- [[coleman-tiller-broadfork-and-soil-aeration-tools]]
 
 - [[solomon-double-digging]]
 - [[solomon-raised-beds-and-bed-preparation]]

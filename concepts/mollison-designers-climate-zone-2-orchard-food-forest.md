@@ -21,12 +21,12 @@ Zone 2 in the [[food-forest-design]] and relates to
 
 ## Understory Planting Design
 
-The understory beneath fruit trees serves multiple functions:
+The understory beneath [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] serves multiple functions:
 - Pest confusion through aromatic herbs (tansy, wormwood, garlic chives)
 - Nutrient accumulation (comfrey, yarrow, dandelion, chicory)
 - Insect attraction (umbellifers like dill, fennel, coriander for
   predatory wasps)
-- Ground cover and weed suppression (clover, mint family, strawberry)
+- [[fukuoka-citrus-orchard-ground-cover-cultivation]] and weed suppression (clover, mint family, strawberry)
 - Soil protection and moisture retention (strawberry, sweet woodruff)
 
 Mollison calls these plant groupings "guilds" -- see [[keyline-design]] principles for broader water
@@ -38,7 +38,7 @@ Zone 2 pest management relies on biological diversity rather than chemical
 inputs. Mollison emphasizes habitat creation for predatory insects through
 umbelliferous flowers, native insectary plants, and undisturbed ground cover.
 Bird perches, bat boxes, and lizard habitat all contribute. Poultry ranging
-under trees provides significant pest control.
+under trees provides significant [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]].
 
 ## Harvest and Processing
 
@@ -63,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +105,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

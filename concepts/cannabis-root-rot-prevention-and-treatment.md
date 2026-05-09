@@ -1,5 +1,5 @@
 ---
-title: Cannabis Root Rot Prevention and Treatment
+title: alpha-beta-diversity-cannabis-root-microbiomes Rot Prevention and Treatment
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -18,10 +18,10 @@ Root rot is a destructive condition caused by fungal or bacterial pathogens that
 
 - **Overwatering**: The most common cause. Saturated soil deprives roots of oxygen.
 - **Poor drainage**: Containers without adequate drainage holes or compacted soil
-- **High water temperature**: Above 72°F (22°C) reduces dissolved oxygen and promotes pathogens
+- **High water temperature**: Above 72°F (22°C) reduces [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] and promotes pathogens
 - **Contaminated water or medium**: Pathogens introduced through unsterilized equipment or water
 - **Stale reservoir water** (hydroponics): Not changing the reservoir frequently enough
-- **Dead organic matter in reservoir**: Decomposing roots or plant material feeds pathogens
+- **Dead [[hamilton-composting-and-organic-matter-management]] in reservoir**: Decomposing roots or plant material feeds pathogens
 - **pH out of range**: Stressed roots are more susceptible to infection
 
 ## Symptoms
@@ -31,7 +31,7 @@ Root rot is a destructive condition caused by fungal or bacterial pathogens that
 - **Drooping that does not improve with watering**: Unlike normal underwatering wilt
 - **Yellowing leaves**: Starting with lower leaves and progressing upward
 - **Slow growth or growth halt**: Plant stops producing new growth
-- **Nutrient deficiency symptoms**: Roots cannot take up nutrients efficiently
+- **[[cannabis-grow-nutrient-deficiency-problem-solving]] symptoms**: Roots cannot take up nutrients efficiently
 - **Stems may feel soft**: Advanced cases
 
 ### Below Ground (Visible When Inspecting Roots)
@@ -70,10 +70,10 @@ Water mold related to Pythium:
 
 ### Hydroponic Systems
 
-1. **Maintain water temperature**: Keep nutrient solution at 62–68°F (17–20°C). Use a water chiller if necessary.
+1. **Maintain water temperature**: Keep [[cannabis-nutrient-solution-preparation]] at 62–68°F (17–20°C). Use a water chiller if necessary.
 2. **Aeration**: Ensure abundant dissolved oxygen — air stones, air pumps, venturi valves
 3. **Reservoir changes**: Change the nutrient solution every 1–2 weeks minimum. Do not top off indefinitely.
-4. **Clean system between grows**: Sterilize all hoses, buckets, pumps, and containers with hydrogen peroxide or bleach solution
+4. **Clean system between grows**: Sterilize all hoses, buckets, pumps, and containers with [[cervantes-hydrogen-peroxide-sterilization]] or bleach solution
 5. **Beneficial bacteria**: Use products like Hydroguard, Great White, or similar beneficial microbe supplements to outcompete pathogens
 6. **Light-proof reservoirs**: Light entering the reservoir promotes algae and pathogen growth
 7. **Avoid dead roots**: Remove dead root material from the system promptly

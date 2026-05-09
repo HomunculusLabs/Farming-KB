@@ -56,12 +56,12 @@ Some builders combine both methods to leverage each one's strengths:
 
 - **Earthbag walls with ferrocement roof:** The massive earthbag walls provide thermal mass while the ferrocement dome or vault offers a lightweight, waterproof, tensile-strong roof that earthbag alone cannot easily achieve on large spans.
 - **Ferrocement cistern inside [[comparison-drip-irrigation-vs-rainwater-harvesting]] system where earthbag walls shelter a ferrocement tank, combining the tank's water-tightness with the building's thermal protection.
-- **Earthbag dome with ferrocement skylight or entrance arch:** The main structure is earthbag for thermal mass and low cost, while the entrance and any openings use ferrocement for precise, clean edges and tensile strength around perforations.
+- **Earthbag dome with ferrocement skylight or entrance arch:** The main structure is earthbag for thermal mass and [[jadam-ultra-low-cost-agriculture]], while the entrance and any openings use ferrocement for precise, clean edges and tensile strength around perforations.
 - **Ferrocement waterproofing layer over earthbag cistern:** An earthbag tank lined internally with ferrocement for water-tightness, avoiding the cost of a full ferrocement structure while still achieving a sealed vessel.
 
 ## Building Codes and Permitting
 
-Neither ferrocement nor earthbag construction is recognized in most international building codes as a standard method, which can create permitting challenges in regulated jurisdictions. Earthbag has slightly more traction due to Cal-Earth's engineering reports and the growing body of seismic testing (particularly from Paks Engineering in Hungary). Some jurisdictions accept earthbag under "alternative materials" provisions with an engineer's stamp. Ferrocement has broader engineering acceptance in some countries (India, parts of Latin America) where it has been used in government housing programs, but is largely unknown to North American and European code officials. Both methods benefit from working with an engineer experienced in non-conventional construction.
+Neither ferrocement nor earthbag construction is recognized in most international building codes as a standard method, which can create permitting challenges in regulated jurisdictions. Earthbag has slightly more traction due to Cal-Earth's engineering reports and the growing body of seismic testing (particularly from Paks Engineering in Hungary). Some jurisdictions accept earthbag under "alternative materials" provisions with an engineer's stamp. Ferrocement has broader engineering acceptance in some countries (India, parts of Latin America) where it has been used in government housing programs, but is largely unknown to [[growing-gourmet-north-american-reishi-species]] and European code officials. Both methods benefit from working with an engineer experienced in non-conventional construction.
 
 ## Environmental Impact
 

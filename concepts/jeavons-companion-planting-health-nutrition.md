@@ -1,5 +1,5 @@
 ---
-title: "Companion Planting: Health and Nutrition Relationships"
+title: "comparison-companion-planting-reference-vs-jadam-monoculture-critique: Health and Nutrition Relationships"
 created: 2026-04-28
 tags: [biointensive, companion-planting, plant-relationships, soil-health,
   nutrition, herbs]
@@ -55,7 +55,7 @@ tea helps plants resist harmful diseases. The area under oak branches
 creates excellent soil, making it ideal for [[jeavons-crop-rotation-detail]]. The sequence follows:
 heavy feeders first, then heavy givers (nitrogen fixers), then light
 feeders. This agricultural recycling returns as much to the soil as
-was taken out. See the dedicated crop rotation page for details on
+was taken out. See the dedicated [[comparison-crop-rotation-vs-cover-cropping]] page for details on
 heavy feeders, heavy givers, and light feeders.
 
 ## Soil Life and Improvement
@@ -73,7 +73,7 @@ the soil annually, and red clover contributes 1,200 to 3,850 pounds.
 This continuous underground composting is essential to sustainable
 [[jeavons-biointensive-spacing]]
 with plant leaves barely touching allows good companions to be even
-better friends. The living mulch effect created by this spacing
+better friends. The [[comparison-living-mulch-vs-cover-crops]] effect created by this spacing
 enhances the beneficial interactions between companion plants.
 ## Practical Considerations
 
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

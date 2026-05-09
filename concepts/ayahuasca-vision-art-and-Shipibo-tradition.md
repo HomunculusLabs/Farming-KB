@@ -1,5 +1,5 @@
 ---
-title: Ayahuasca Vision Art and Shipibo Tradition
+title: Ayahuasca ayahuasca vision art and shipibo tradition and Shipibo Tradition
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Pablo Amaringo's "Ayahuasca Visions" is a landmark work of visionary art that documents the extraordinary visual experiences produced by the Amazonian ayahuasca brew. Amaringo, a former vegetalista (plant-healer) from the Ucayali region of Peru, painted hundreds of detailed visions depicting the spirit world encountered through ayahuasca, providing an unparalleled visual record of Amazonian shamanic cosmology.
+Pablo Amaringo's "[[amaringo-ayahuasca-visions-shipibo-iconography]]" is a landmark work of visionary art that documents the extraordinary visual experiences produced by the [[harner-amazonian-ayahuasca-preparation-methods]] brew. Amaringo, a former vegetalista (plant-healer) from the Ucayali region of Peru, painted hundreds of detailed visions depicting the spirit world encountered through ayahuasca, providing an unparalleled visual record of Amazonian shamanic cosmology.
 
 ## Pablo Amaringo
 
@@ -51,9 +51,11 @@ Amaringo describes three highest degrees in the traditional vegetalista medicine
 ## Related Concepts
 
 - [[hallucinogenic-plants-of-the-world]] -- overview of psychoactive plant families
-- [[psychedelic-mushroom-art-and-iconography]] -- mushroom art traditions
+- [[psychedelic-mushroom-art-and-iconography]] -- [[psychedelic-mushroom-art-and-iconography]] traditions
 
 ## See Also
+
+- [[ayahuasca-pharmacology-maoi-interactions]]
 
 - [[ayahuasca-visions]]
 ## Practical Considerations
@@ -72,7 +74,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +116,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

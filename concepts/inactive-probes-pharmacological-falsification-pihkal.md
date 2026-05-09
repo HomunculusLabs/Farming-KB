@@ -1,5 +1,5 @@
 ---
-title: Inactive Probes Pharmacological Falsification Pihkal
+title: Inactive inactive probes pharmacological falsification pihkal Falsification Pihkal
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -14,7 +14,7 @@ sources:
 
 ## Overview
 
-Throughout PiHKAL, Shulgin documented numerous compounds that proved inactive or minimally active in human trials. Far from being failures, these "negative results" served as critical pharmacological probes that helped define the boundaries of psychoactivity and, in several cases, revealed unexpected drug interactions.
+Throughout PiHKAL, Shulgin documented numerous compounds that proved inactive or minimally active in human trials. Far from being failures, these "negative results" served as critical pharmacological probes that helped define the boundaries of psychoactivity and, in several cases, revealed unexpected [[cannabis-drug-interactions-and-contraindications]].
 
 ## The Concept of the Inactive Probe
 
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: "metzner Leary's Bardo Thodol and Tao Te Ching Adaptation"
+title: "metzner Leary's metzner leary bardo thodol and tao te ching adaptation and Tao Te Ching Adaptation"
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -11,7 +11,7 @@ sources: [raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 
 Ralph Metzner's 1998 review documents Timothy Leary's pioneering work
 in adapting Eastern spiritual texts as practical guidebooks for
-psychedelic experience. These adaptations represented a fundamental
+[[leary-psychedelic-experience-bardo-mapping]]. These adaptations represented a fundamental
 shift in how the psychedelic experience was understood — from a
 psychological phenomenon to be studied to a spiritual journey to be
 navigated with the aid of ancient contemplative wisdom.
@@ -53,7 +53,7 @@ Leary recognized that the sequence of experiences described in the Bardo
 Thodol closely paralleled the stages of a psychedelic session. The text's
 instructions for maintaining awareness, avoiding attachment to visionary
 phenomena, and recognizing the clear light of reality could be directly
-applied as a navigational framework for the psychedelic journey. Each
+applied as a navigational framework for the [[ketamine-psychedelic-journey-guide]]. Each
 bardo became a model for a different phase of the psychedelic experience:
 
 - The **Chikhai Bardo** (clear light) mapped onto the initial ego
@@ -121,6 +121,9 @@ reverence, discipline, and systematic guidance rather than mere
 recreational curiosity.
 
 ## See Also
+
+- [[leary-third-bardo-re-entry]]
+- metzner-leary-evolutionary-remembering-and-bardo-tao-adaptation
 
 - [[metzner-five-fundamental-conclusions-psychedelic-psychotherapy]]
 - [[metzner-holotropic-breathwork-and-grof-perinatal-matrices]]

@@ -10,7 +10,7 @@ sources:
 
 # Cannabis and Menopause Symptom Management
 
-**Source:** The Cannabis Health Index (Uwe Blesching, 2017)
+**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]] (Uwe Blesching, 2017)
 
 **Last Updated:** 2026-04-18
 
@@ -30,7 +30,7 @@ While direct cannabis studies specifically for menopause are limited in the CHI 
 ## Supporting Evidence
 
 - **Osteoporosis and cannabinoids (2009, Tel Aviv):** CB1-deficient mice showed increased bone turnover and osteoporosis; CB2-deficient mice showed increased bone mass. The endocannabinoid system plays a key role in bone metabolism regulation.
-- **Pain and sleep:** Cannabis has well-documented efficacy for chronic pain and insomnia (CHI Values: pain 23, insomnia 22-26), both common menopausal symptoms.
+- **Pain and sleep:** Cannabis has well-documented efficacy for [[cannabis-chronic-pain-management]] and insomnia (CHI Values: pain 23, insomnia 22-26), both common menopausal symptoms.
 - **Anxiety and depression:** Cannabis studies show CHI Values of 23 for both conditions, frequently co-occurring with menopause.
 
 ## Pharmacological Mechanisms
@@ -39,7 +39,7 @@ The [[cannabis-endocannabinoid-system]] tone.
 
 CB2 receptors on osteoclasts and osteoblasts play a crucial role in bone remodeling. CB2 activation stimulates osteoblast formation and inhibits osteoclast activity, suggesting therapeutic potential for post-menopausal osteoporosis. CBD's anti-inflammatory properties may also address the chronic low-grade inflammation associated with menopausal metabolic changes.
 
-Terpenes such as myrcene (sedative) and linalool (anxiolytic) found in [[cannabis-delivery-methods-comparison]] tailored to specific symptoms. For hot flashes and night sweats, sublingual tinctures with a 1:1 THC:CBD ratio provide rapid onset (10-15 minutes) and can be used as needed.
+Terpenes such as myrcene (sedative) and linalool (anxiolytic) found in [[cannabis-delivery-methods-comparison]] tailored to specific symptoms. For hot flashes and night sweats, sublingual tinctures with a 1:1 THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]] provide rapid onset (10-15 minutes) and can be used as needed.
 
 For sleep disruption, indica-dominant strains or THC-forward preparations taken 30-60 minutes before bedtime may be effective. Edible formats (gummies, capsules) with longer duration (6-8 hours) can sustain sleep throughout the night. Microdosing CBD (10-25 mg) during the day may help with baseline anxiety and mood stabilization.
 
@@ -77,7 +77,7 @@ Combined with dietary modifications and exercise, cannabinoid therapy represents
 ## Integrative Botanical Approaches
 
 Several botanical medicines complement cannabinoid therapy for menopause symptom management.
-Black cohosh (Actaea racemosa) has the strongest evidence base among herbal alternatives to HRT, with multiple clinical trials demonstrating reduction in hot flash frequency comparable to low-dose estrogen.
+Black cohosh (Actaea racemosa) has the strongest evidence base among herbal alternatives to HRT, with multiple [[mushroom-cancer-clinical-trials-overview]] demonstrating reduction in hot flash frequency comparable to low-dose estrogen.
 Red clover (Trifolium pratense) contains isoflavones that weakly mimic estrogen at beta-estrogen receptors.
 Dong quai (Angelica sinensis) has been used in Traditional Chinese Medicine for centuries to address gynecological transitions.
 Maca root (Lepidium meyenii) has shown benefit for menopausal sexual dysfunction in controlled trials.

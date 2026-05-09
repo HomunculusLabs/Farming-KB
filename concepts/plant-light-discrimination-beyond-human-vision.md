@@ -1,5 +1,5 @@
 ---
-title: Plant Light Discrimination Beyond Human Vision
+title: Plant plant light discrimination beyond human vision Beyond Human Vision
 tags: [botany, photoreception, ultraviolet, far-red, plant-vision, light-perception, photobiology]
 date: 2026-04-28
 updated: 2026-04-28
@@ -31,7 +31,7 @@ trichromatic colour vision.
 The chemical basis for this discrimination lies in the different photopigments
 the cells contain. Rhodopsin in rods absorbs broadly across the visible
 spectrum. The three photopsins in cones each absorb a specific band: one
-responds most strongly to blue light (short wavelengths around 440 nm), one to
+responds most strongly to [[chamovitz-julius-von-sachs-blue-light-phototropism]] (short wavelengths around 440 nm), one to
 green light (medium wavelengths around 530 nm), and one to red light (long
 wavelengths around 560 nm). When light containing multiple wavelengths strikes
 the retina, the brain compares the relative activation of the three cone types
@@ -82,7 +82,7 @@ gene expression patterns to increase tolerance to UV stress.
 From an agricultural perspective, UV perception matters because greenhouse
 plastics and glass that filter UV-B can alter plant development. Plants grown
 under UV-filtering covers may produce fewer protective compounds, have different
-leaf morphologies, and exhibit altered patterns of secondary metabolite
+leaf morphologies, and exhibit altered patterns of [[fungal-elicitors-enhanced-secondary-metabolite-production]]
 production compared to those grown under full-spectrum sunlight.
 
 ## Far-Red Perception and the Phytochrome System
@@ -110,7 +110,7 @@ accelerates its growth rate in an attempt to capture more light.
 
 ## Dim Light Sensitivity
 
-Plants can detect extraordinarily low light levels that humans would perceive
+Plants can detect extraordinarily [[darkness-low-light-facilitation-entheogenic-ceremonies]] levels that humans would perceive
 as complete darkness. Darwin demonstrated this dramatically with canary grass
 seedlings that bent toward a gas lamp so dim that the experimenters could not
 see the seedlings themselves. This extreme sensitivity operates through
@@ -125,7 +125,7 @@ parameters triggers specific and distinct growth responses.
 
 ## The Broader Meaning of Plant Vision
 
-Daniel Chamovitz, in *What a Plant Knows*, argues that plant light perception
+[[daniel-chamovitz]], in *What a Plant Knows*, argues that plant [[plant-vision-and-light-perception-mechanisms]]
 deserves to be called vision. A person born totally blind who gained the ability
 to distinguish between light and shadow would clearly be described as having
 gained rudimentary sight. If that same person then gained the ability to
@@ -141,7 +141,6 @@ popular conception of plants as passive, insensitive organisms.
 ## See Also
 
 - [[human-photoreception-rods-cones-and-visual-pigments]]
-- [[what-a-plant-knows-plant-vision-and-light-perception]]
 - [[what-a-plant-knows-plant-vision-and-light-perception]]
 
 ## See Also

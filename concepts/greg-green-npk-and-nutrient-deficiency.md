@@ -1,5 +1,5 @@
 ---
-title: "NPK and Nutrient Deficiency Identification"
+title: "NPK and cannabis-grow-nutrient-deficiency-problem-solving Identification"
 created: 2026-04-28
 tags: [cannabis, nutrients, npk, deficiency, plant-health]
 date: 2026-04-25
@@ -9,7 +9,7 @@ type: concept
 ---
 
 Understanding NPK (Nitrogen, Phosphorus, and Potassium) and how to identify
-nutrient deficiencies is essential knowledge for any cannabis grower. Greg
+[[hamilton-nutrient-deficiencies-and-treatment]] is essential knowledge for any cannabis grower. Greg
 Green's Cannabis Grow Bible provides a systematic approach to diagnosing
 plant problems through visual symptoms, covering the primary macronutrients
 as well as secondary nutrients and micronutrients. See also
@@ -31,7 +31,7 @@ stated as a ratio such as 20:20:20, meaning 20% N, 20% P, 20% K. The
 remaining percentage consists of other elements and fillers.
 
 Cannabis plants like good levels of Nitrogen and normal levels of P and K
-during vegetative growth. Growers should pick a fertilizer that has all
+during [[cannabis-vegetative-growth-stage]]. Growers should pick a fertilizer that has all
 three nutrients, not just a ratio like 10:20:0. Suitable vegetative
 ratios include 12:12:12, 20:20:20, 12:6:6, and 18:4:5. The 12:12:12
 and 20:20:20 are considered the best all purpose options.
@@ -68,12 +68,12 @@ way, early detection is key to minimizing impact on plant health.
 
 If a plant is in flowering and does not look like it is dying but
 appears red or dark green with yellowing, it needs more phosphorus (P).
-Phosphorus deficiency often manifests as darkening or purpling of leaves
+[[query-how-to-fix-phosphorus-deficiency-in-cannabis]] often manifests as darkening or purpling of leaves
 along with slower bud development. Phosphorus is critical for flower
 formation and root development.
 
 If the tips of the leaves turn brown and curl slightly, the grower is
-looking at a potassium (K) problem. Potassium deficiency typically
+looking at a potassium (K) problem. [[knf-potassium-deficiency-and-excess]] typically
 starts at the leaf edges and tips, causing them to brown and curl. K is
 important for overall plant vigor, water regulation, and disease
 resistance. Potassium issues often appear during mid to late flowering
@@ -100,7 +100,7 @@ advises keeping Epsom salts and a small canister of micronutrients
 including iron, boron, chlorine, manganese, copper, zinc, and
 molybdenum on hand.
 
-Calcium deficiency can manifest as distorted new growth with brown spots
+[[knf-calcium-deficiency-symptoms]] can manifest as distorted new growth with brown spots
 on developing leaves. This is particularly common in hydroponic systems
 using RO or distilled water, where calcium is not naturally present. Cal
 mag supplements are the standard solution for addressing calcium and

@@ -1,5 +1,5 @@
 ---
-title: "Ericoid Mycorrhizal Fungi in Nutrient Acquisition"
+title: "dighton ericoid mycorrhizal nutrient acquisition Fungi in Nutrient Acquisition"
 created: 2026-04-26
 tags:
   - mycology
@@ -27,7 +27,7 @@ litter result in slow decomposition and the accumulation of organic
 matter. The ability of ericoid mycorrhizal fungi to produce protease
 and phosphatase enzymes allows their host plants to bypass the
 saprotrophic decomposition pathway and directly access nutrients bound
-in organic compounds.
+in [[fungal-volatile-organic-compounds-communication]].
 
 ## Structural Features
 
@@ -45,7 +45,7 @@ is readily decomposed and nutrients exist primarily in inorganic forms.
 
 ### The Direct Cycling Concept
 
-The concept of a direct cycling system, whereby the mycorrhizal fungal
+The concept of a direct cycling system, whereby the [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 community effects decomposition of recalcitrant organic components,
 mineralization of nutrients, and direct uptake of those mineralized
 nutrients into the host plant, was proposed by Went and Stark (1968).
@@ -60,7 +60,7 @@ Read and Kerley (1995) showed that ericoid mycorrhizal plants derive
 most of their nitrogen from organic sources in highly organic soils.
 In the soils supporting Calluna vulgaris, hydrolysable organic nitrogen
 constitutes approximately 70% of the nitrogen pool, while extractable
-ammonium nitrogen represents less than 1% and free amino acid nitrogen
+ammonium nitrogen represents less than 1% and free [[cho-fish-amino-acid-preparation]] nitrogen
 only 1 to 4%.
 
 Mitchell and Read (1981), Myers and Leake (1996), and Leake and Miles
@@ -94,7 +94,7 @@ Hymenoscyphus ericae (Shaw and Read, 1989).
 
 ## Detoxification Functions
 
-In low-pH soils characteristic of ericaceous habitats, heavy metals
+In low-pH soils characteristic of ericaceous habitats, [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]
 are often more available than in other soils. Ericoid mycorrhizal
 associations have been said to "detoxify" the ecosystem by assimilation
 of phenolic and aliphatic acids (Leake and Read, 1991) and complexing
@@ -104,4 +104,4 @@ and has implications for [[dighton-mycorrhizal-phosphatase-phosphorus-acquisitio
 
 - [[ectomycorrhizal-fungal-ecology]]
 - [[mycorrhizal-fungi-primary-production-dighton]]
-- [[fungal-enzyme-activity-nutrient-availability]]
+- fungal-enzyme-activity-nutrient-availability

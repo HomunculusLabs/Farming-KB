@@ -17,7 +17,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-around-the-world-gartz.md
 - **Order:** Agaricales
 - **Family:** Bolbitiaceae (or Panaeolaceae)
 - **Genus:** Panaeolus (sometimes Panaeolina)
-- **Synonyms:** Panaeolus retirugis, Panaeolina foenisecii (in part)
+- **Synonyms:** Panaeolus retirugis, [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]] (in part)
 
 The taxonomic boundaries between P. campanulatus and morphologically similar species such as [[copelandia-panaeolus-genera]] remain imperfectly defined. The debate over placing some species in a separate genus Panaeolina continues, with modern DNA sequencing beginning to clarify relationships but a fully resolved taxonomy not yet achieved.
 
@@ -68,7 +68,7 @@ The black spore print is a key identification feature distinguishing Panaeolus f
 
 ## Distribution and Habitat
 
-Panaeolus campanulatus is widely distributed across temperate and subtropical regions of Europe, North America, South America, Asia, and Africa. Its cosmopolitan distribution reflects the nature of coprophilous fungi, which spread rapidly through spore dispersal in animal dung.
+Panaeolus campanulatus is widely distributed across temperate and subtropical regions of Europe, [[psilocybin-north-america-pacific-northwest]], South America, Asia, and Africa. Its cosmopolitan distribution reflects the nature of coprophilous fungi, which spread rapidly through [[aquatic-fungi-spore-dispersal-ingold]] in animal dung.
 
 The species is primarily coprophilous:
 
@@ -89,7 +89,7 @@ The species has been reported to contain [[psilocin]], though typically at lower
 - Stage of development at harvest
 - Environmental conditions during growth
 
-Some analyses have detected only trace amounts, while others found more substantial concentrations. The bluing reaction may be variable — some collections show noticeable bluing while others show little or no reaction, potentially correlating with actual alkaloid content differences.
+Some analyses have detected only trace amounts, while others found more substantial concentrations. The [[field-guide-psilocybin-bluing-reaction-identification]] may be variable — some collections show noticeable bluing while others show little or no reaction, potentially correlating with actual alkaloid content differences.
 
 ## Similar Species
 
@@ -115,4 +115,4 @@ As a psilocybin-containing species, P. campanulatus is subject to legal restrict
 
 ## References
 
-- Gartz, J. *Magic Mushrooms Around the World*. 1996.
+- Gartz, J. *[[guzman-magic-mushrooms-african-species]] [[fungi-around-the-world-species-distribution]]*. 1996.

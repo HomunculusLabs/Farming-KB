@@ -74,7 +74,7 @@ rapid growth and spectacular pink flowering displays.
 ## Bioactive Compounds
 
 - **β-Lapachone:** Primary naphthoquinone; NQO1-activating
-  anticancer compound; induces apoptosis via oxidative stress;
+  anticancer compound; induces apoptosis via [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]];
   inhibits topoisomerase I
 - **Lapachone:** 2-hydroxy-3-(3-methyl-2-butenyl)-1,4-
   naphthoquinone; antimalarial, antibacterial, antifungal;
@@ -99,15 +99,15 @@ rapid growth and spectacular pink flowering displays.
 
 - **Shade tree:** Dappled shade in agroforestry; compatible
   with coffee, cacao, understory crops
-- **Windbreak:** Dense crown provides effective wind protection
-- **Bee forage:** Excellent nectar source; ipê honey produced
+- **Windbreak:** Dense crown provides effective [[cervantes-wind-protection-outdoor-cannabis]]
+- **[[mollison-designers-bee-forage-tree-planting]]:** Excellent nectar source; ipê honey produced
   commercially in Brazil
 - **Ornamental:** Spectacular flowering — widely planted as
   street tree in tropical cities
 - **Timber:** Heartwood extremely durable; density 0.85–1.05
   g/cm³; used for construction, fencing, furniture
-- **Soil building:** Leaf litter contributes organic matter
-  and nutrient cycling in agroforestry systems
+- **Soil building:** [[dighton-fungal-decomposition-leaf-litter-dynamics]] contributes [[hamilton-composting-and-organic-matter-management]]
+  and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in agroforestry systems
 
 ## Cultivation
 
@@ -123,5 +123,6 @@ rapid growth and spectacular pink flowering displays.
 ## See Also
 
 - [[azadirachta-indica]]
-- [[gliricidia-sepium]]
-- [[glycine-max-soybean-permaculture]]
+- gliricidia-sepium
+- [[glycine-max]]
+- [[tabebuia-avellanedae]]

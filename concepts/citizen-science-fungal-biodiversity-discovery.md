@@ -1,5 +1,5 @@
 ---
-title: Citizen Science and Fungal Biodiversity Discovery
+title: Citizen Science and biodiversity-fungal-biodiversity-estimation-methods Discovery
 created: 2026-04-28
 tags:
   - mycology
@@ -20,7 +20,7 @@ The vast majority of described fungal species have been documented by
 professional mycologists, yet the scale of [[fungal-biodiversity-herbarium-collections]] of
 national mycological societies have been progressively digitized and linked to
 citizen science observation networks, creating interoperable datasets spanning
-decades of field work. The Global Biodiversity Information Facility (GBIF)
+decades of field work. The [[psilocybe-global-biodiversity-hotspots]] Information Facility (GBIF)
 aggregates records from these platforms and makes them accessible for macroecological analyses.
 
 ## Foray Programs and Bioblitzes
@@ -28,7 +28,7 @@ aggregates records from these platforms and makes them accessible for macroecolo
 Organized fungal forays, led by mycological societies and naturalist
 organizations, remain among the most effective methods for documenting local
 fungal diversity. Annual forays in regions such as the Pacific Northwest of
-North America, the British Isles, and Scandinavia have produced comprehensive
+[[psilocybin-north-america-pacific-northwest]], the British Isles, and Scandinavia have produced comprehensive
 species lists that serve as baselines for monitoring fungal community change over
 time. Bioblitz events, which aim to record all species within a defined area
 during a limited period, have been particularly successful at engaging the
@@ -42,7 +42,7 @@ can verify identifications and mentor community participants. Many national
 mycological societies run training programs, workshops, and online forums that
 build identification skills among amateur mycologists. The development of
 illustrated field guides, digital keys, and online communities has lowered the
-barrier to accurate fungal identification. However, the [[biodiversity-fungi-ectomycorrhizal-diversity]] in forest ecosystems. Large-scale datasets from platforms like iNaturalist have revealed previously undocumented migration patterns, phenological shifts associated with climate change, and novel host associations. In some regions, citizen science records have doubled the known species lists for macrofungal communities, particularly in under-sampled areas such as tropical forests, grasslands, and urban environments.
+barrier to accurate [[pcr-methods-fungal-identification-monitoring]]. However, the [[biodiversity-fungi-ectomycorrhizal-diversity]] in forest ecosystems. Large-scale datasets from platforms like iNaturalist have revealed previously undocumented migration patterns, phenological shifts associated with [[dighton-fungi-climate-change-feedback]], and novel host associations. In some regions, citizen science records have doubled the known species lists for macrofungal communities, particularly in under-sampled areas such as tropical forests, grasslands, and urban environments.
 
 ## Limitations and Challenges
 
@@ -54,7 +54,7 @@ records concentrated in autumn in temperate regions. Data quality varies
 considerably, and misidentifications are common even with automated image
 recognition assistance. Despite these limitations, citizen science remains an
 indispensable component of the effort to document the [[fungal-species-estimates-biodiversity-overview]]
-- [[biodiversity-fungi-conservation]]
+- biodiversity-fungi-conservation
 - [[cryptic-fungal-species]]
 ## Practical Considerations
 
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

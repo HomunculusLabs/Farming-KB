@@ -1,5 +1,5 @@
 ---
-title: "Fungal Degradation of Synthetic Dyes and Textile Waste"
+title: "singh-fungal-degradation-endocrine-disrupting-compounds of Synthetic Dyes and Textile Waste"
 created: 2026-04-28
 tags: [textile-dyes, azo-dyes, laccase, decolorization, industrial-waste]
 date: 2026-04-25
@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-Textile industry effluents represent one of the most challenging
+[[staycare-fungal-treatment-of-textile-industry-wastewater]] effluents represent one of the most challenging
 wastewater streams due to the recalcitrant nature of synthetic dyes.
 Singh's coverage of [[phoenicoid-fungi-fire-associated-ascomycetes-basidiomycetes]] and certain [[singh-white-rot-fungi-lignin-modifying-enzymes-bioremediation]] originally evolved for lignin
 depolymerization.
@@ -66,8 +66,8 @@ through:
 
 | Fungus | Dye Classes | Key Enzymes | Decolorization (%) |
 |--------|------------|-------------|-------------------|
-| Phanerochaete chrysosporium | Azo, AQ | LiP, MnP | 70-95 |
-| Trametes versicolor | Azo, TPM, AQ | Laccase, MnP | 80-99 |
+| [[staycare-phanerochaete-chrysosporium-in-bioremediation]] | Azo, AQ | LiP, MnP | 70-95 |
+| [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] | Azo, TPM, AQ | Laccase, MnP | 80-99 |
 | Pleurotus ostreatus | Azo, AQ | Laccase | 60-90 |
 | Bjerkandera adusta | Azo, TPM | MnP, Laccase | 75-95 |
 | Aspergillus niger | Azo | Laccase | 50-85 |
@@ -79,9 +79,9 @@ treatment:
 
 - **Batch reactors**: Fungal biomass incubated with dye-containing
   effluent for defined periods
-- **Packed bed bioreactors**: Immobilized fungal biomass on support
+- **Packed bed bioreactors**: [[singh-immobilized-fungal-bioreactors-wastewater-treatment]] biomass on support
   materials (straw, polyurethane foam) with continuous effluent flow
-- **Trickling filters**: Wastewater trickles over fungal biofilms,
+- **Trickling filters**: Wastewater trickles over [[gadd-fungal-biofilms-quorum-sensing]],
   allowing simultaneous biosorption and enzymatic degradation
 - **Rotating biological contactors**: Fungal biofilms on rotating discs
   alternate between wastewater and atmospheric oxygen

@@ -1,5 +1,5 @@
 ---
-title: Home Vegetable Garden Planning
+title: Home fukuoka-dutch-priest-vegetable-garden-spiritual-renewal Planning
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -11,9 +11,9 @@ sources:
 # Home Vegetable Garden Planning
 
 Planning a home vegetable garden is the first and most important step in
-successful vegetable production. Whether a beginner or an experienced
+successful [[dry-gardening-unirrigated-vegetable-production-solomon]]. Whether a beginner or an experienced
 gardener, thoughtful planning saves time, ensures adequate supplies, and
-helps the garden satisfy household needs throughout the growing season.
+helps the garden satisfy household needs throughout the [[savory-growing-season-and-non-growing-season-management]].
 
 ## Garden Location and Site Selection
 
@@ -22,7 +22,7 @@ and well drained. Most vegetables require a minimum of six hours of direct
 sunlight daily. Avoid heavy clays, sandy soils, and shady spots.
 
 If soil quality is poor, mix in two to three inches of topsoil, peat moss,
-strawy manure, compost, or leaves plus fertilizer. The more organic matter
+strawy manure, compost, or leaves plus fertilizer. The more [[hamilton-composting-and-organic-matter-management]]
 added, the more the soil improves. See [[soil-building-permaculture]] for detailed approaches to building soil health.
 
 ## Site Hazards: Black Walnut Toxicity
@@ -32,7 +32,7 @@ vegetable plants, including tomatoes, potatoes, eggplants, and peppers.
 Juglone-sensitive plants may eventually wilt and die when grown near walnut
 trees. Because roots remain active even after the tree is cut, a distance of
 at least 50 feet is recommended between walnut trees and sensitive garden
-plants. See Black Walnut Juglone Plant Toxicity for a complete list of
+plants. See Black [[black-walnut-juglone-plant-toxicity]] Plant Toxicity for a complete list of
 sensitive and tolerant species.
 
 ## Garden Layout and Design
@@ -73,7 +73,7 @@ fertilizer containing nitrogen (N), phosphorus (P), and potassium (K). A
 fertilizer bag is labeled with numbers like 8-24-8 or 12-12-12, indicating
 the percentage of each nutrient by weight. The maintenance application needs
 only to be worked into the upper three to five inches of soil. See [[soil-ph-management]] for
-specific application rates and testing guidance.
+specific [[ingham-compost-tea-application-rates-and-timing]] and testing guidance.
 
 ## Maintaining Organic Matter
 

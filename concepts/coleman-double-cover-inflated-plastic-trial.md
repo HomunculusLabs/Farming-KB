@@ -1,5 +1,5 @@
 ---
-title: "Double Cover Plastic Inflation: Single-Layer vs Air-Inflated Greenhouse Comparison"
+title: "coleman-double-cover-air-inflated-trial-temperature-data Plastic Inflation: Single-Layer vs Air-Inflated Greenhouse Comparison"
 source: eliot-coleman-winter-harvest-handbook
 topics: greenhouse-design, winter-production, season-extension, protected-cultivation
 ---
@@ -16,7 +16,7 @@ was conducted on a 17-by-36-foot house without any supplemental heat.
 
 ### Two Systems Compared
 
-**Single-layer cold house**: Covered with one sheet of greenhouse
+**Single-layer [[coleman-cold-house-wind-protection-microclimate]]**: Covered with one sheet of greenhouse
 plastic. This approach maximizes light transmission (critical during
 short winter days) and minimizes both cost and complexity. No
 electric blower is needed.
@@ -39,7 +39,7 @@ matters for crop survival and growth.
 
 ### Specific Cold Night Comparison
 
-On a night when the outdoor low temperature reached **-8°F (-22°C)**:
+On a night when the [[oyster-mushroom-outdoor-low-tech-cultivation]] temperature reached **-8°F (-22°C)**:
 
 | Location | Temperature |
 |---|---|
@@ -89,7 +89,7 @@ Use the air-inflated double-layer system on houses where new crops
 will be sown between **December 15 and February 15**. During this
 period, the additional warmth significantly benefits germination
 and early seedling growth, and the 10 percent light reduction is
-less consequential because day length is already very short.
+less consequential because [[coleman-winter-day-length-and-persephone-months]] is already very short.
 
 ### When to Prefer Single-Layer
 
@@ -101,7 +101,7 @@ harvestable size.
 
 ## Light vs. Heat Trade-off
 
-The fundamental tension in greenhouse design for winter production
+The fundamental tension in [[passive-solar-design]] for winter production
 is between maximizing light transmission and maximizing thermal
 protection. Every additional layer of protection reduces light
 but increases warmth.
@@ -114,7 +114,7 @@ but increases warmth.
   depending on weight, additional thermal protection.
 
 During winter at northern latitudes, light is often the more
-limiting factor than temperature for crop growth. The single-layer
+limiting factor than temperature for [[coleman-sunlight-and-winter-crop-growth-rates]]. The single-layer
 approach recognizes this by prioritizing light capture. However,
 for germination and early seedling growth, the temperature advantage
 of the double-layer system can make a meaningful difference.
@@ -136,6 +136,8 @@ to roughly Zone 8.5 — helpful but not transformative for
 established crops.
 
 ### See Also
+
+- [[coleman-double-cover-air-inflated-trial-temperature-data]]
 
 - [[coleman-unheated-greenhouse-design]]
 - [[coleman-double-layer-protection-greenhouse-row-cover]]

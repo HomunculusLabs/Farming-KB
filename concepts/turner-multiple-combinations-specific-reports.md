@@ -1,5 +1,5 @@
 ---
-title: Turner Multiple Combinations Specific Experience Reports
+title: Turner turner-multiple-combinations-cosmic-synergism Specific Experience Reports
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -26,7 +26,7 @@ This optimization is one of Turner's most practical findings for combination psy
 
 This combination was described as "absolutely beautiful." The combination of Harmala + LSD + DMT (in either form) is the basis of the trip. The cannabis and nitrous are add-ons. The experience of combining these psychedelics as a group produced effects similar to the combinations of two substances described in the individual chapters. In comparison with a typical LSD trip, there was vastly more space or information to explore, and it felt infused with a spiritual quality.
 
-The inclusion of 5-MeO-DMT alongside DMT is notable. While DMT provides rich visual and narrative content, 5-MeO-DMT tends to produce a more formless, ineffable experience of unity or vastness. Layering these two tryptamines on top of LSD and harmala alkaloids creates what Turner experienced as an expanded informational space -- a hallmark of [[turner-lsd-nitrous-ludiomil-combinations]], including Turner's speculation about the pharmacological basis for the "membrane" effect.
+The inclusion of 5-MeO-DMT alongside DMT is notable. While DMT provides rich visual and narrative content, 5-MeO-DMT tends to produce a more formless, ineffable experience of unity or vastness. Layering these two tryptamines on top of LSD and [[turner-harmala-alkaloids-preparation-and-dosage]] creates what Turner experienced as an expanded informational space -- a hallmark of [[turner-lsd-nitrous-ludiomil-combinations]], including Turner's speculation about the pharmacological basis for the "membrane" effect.
 
 ### Ludiomil Timing Experiments
 
@@ -48,7 +48,7 @@ This experience took place while backpacking in Death Valley. Using psychedelics
 
 With 350 mcg of LSD (normally producing only peripheral visual phenomena for Turner), the natural environment amplified the experience significantly. Close observation of small lizards moving at amazing speed contributed to the altered perceptions that followed.
 
-Turner's repeated observations about environmental amplification align with the broader principle that turner psychedelic safety guidelines emphasizes: set and setting are not passive background factors but active participants in shaping psychedelic experiences. The desert's starkness, vast scale, and unusual life forms likely contributed unique informational content that merged with the LSD-altered perception.
+Turner's repeated observations about environmental amplification align with the broader principle that turner psychedelic [[psychedelic-safety-guidelines-turner]] emphasizes: [[lsd-set-and-setting-framework]] are not passive background factors but active participants in shaping psychedelic experiences. The desert's starkness, vast scale, and unusual life forms likely contributed unique informational content that merged with the LSD-altered perception.
 
 ## Cannabis as a Combination Component
 
@@ -68,10 +68,10 @@ Turner noted, however, that cannabis could also introduce confusion or mental fo
 
 ## Related Topics
 
-- [[turner-ketamine-combinations-and-cydelikspace-navigation]] - Ketamine combinations
+- [[turner-ketamine-combinations-and-cydelikspace-navigation]] - [[turner-ketamine-combinations-and-cydelikspace-navigation]]
 - [[turner-lsd-nitrous-ludiomil-combinations]] - LSD + nitrous and Ludiomil
 - [[turner-ketamine-lsd-dmt-interactions-recovery-effects]] - Ketamine-LSD-DMT interaction details
-- turner psychedelic safety guidelines - Safety principles
+- turner psychedelic safety guidelines - [[shulgin-safety-principles-self-experimentation]]
 - [[psychedelic-safety-guidelines-turner]]
 ## Practical Considerations
 
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

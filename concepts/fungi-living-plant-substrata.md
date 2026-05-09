@@ -5,7 +5,7 @@
 
 This topic covers fungi that produce thalli and reproductive structures
 on living plants and fruit, exclusive of roots, bark, and dead
-structures still attached to the plant. Generally, most fungi living
+structures still attached to the plant. Generally, most [[endophytic-fungi-living-inside-plants]]
 on plant substrata are microfungi, with representatives in all major
 fungal classes and most orders. Many are pathogenic (cause diseases),
 many have been well studied by both mycologists and plant pathologists,
@@ -28,7 +28,7 @@ identify the fungus. Rusts, smuts, and [[biodiversity-rust-fungi-urediniomycetes
 Fungi on living plants affect the genetic diversity of their hosts by
 selecting for disease resistance. They act as natural thinning and
 diversifying agents in dense clusters of seedlings and in stands of
-young plants. Seed and seedling pathogens can select for seed dispersal
+young plants. [[cho-seed-and-seedling-vitality-restoration]] pathogens can select for seed dispersal
 patterns. The survival of seeds of the tropical tree Platypodium
 elegans increased with distance from an adult tree, as distantly
 dispersed seeds encountered light gaps with lower disease risk.
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

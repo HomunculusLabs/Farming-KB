@@ -5,7 +5,8 @@ updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka Vegetable Growing Detailed
@@ -84,7 +85,7 @@ Pesticide use on the scale seen today is a very recent phenomenon. Before WWII, 
 
 ---
 
-Source: Masanobu Fukuoka, The Natural Way of Farming: The Theory and Practice of Green Philosophy
+Source: Masanobu Fukuoka, The Natural Way of Farming: The Theory and Practice of [[fukuoka-sowing-green-philosophy-one-grain-revolution]]
 
 ## See Also
 

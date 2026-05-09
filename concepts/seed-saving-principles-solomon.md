@@ -1,5 +1,5 @@
 ---
-title: Seed Saving Principles (Solomon)
+title: Seed seed saving principles solomon (Solomon)
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -78,7 +78,7 @@ Key to vigorous wet seed: let the fruit become completely ripe — nearly to the
 
 ## Hybrids: A Balanced View
 
-Solomon challenges the anti-hybrid rhetoric common in organic gardening circles, drawing on his experience running Territorial Seed Company:
+Solomon challenges the anti-hybrid rhetoric common in [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] circles, drawing on his experience running Territorial Seed Company:
 
 ### The Anti-Hybrid Claims and Reality
 The common claim that "you can't save seed from hybrids" is a half-truth:
@@ -91,7 +91,7 @@ The genuine concern with hybrids is economic:
 - For naturally outcrossing species (brassicas, corn, cucurbits), commercial growers prefer hybrids for uniformity and vigor
 - This has caused interest in OP varieties to virtually disappear within the commercial trade
 - Remaining OP varieties are often maintained only for the home garden market and may be poorly maintained
-- The gene pool of OP varieties has eroded because professional breeders focus on hybrids
+- The [[cannabis-gene-pool-preservation-acclimatization-clarke]] of OP varieties has eroded because professional breeders focus on hybrids
 
 ### Converting Hybrids to OP Varieties
 It IS possible to dehybridize a variety through selection:
@@ -107,7 +107,7 @@ It IS possible to dehybridize a variety through selection:
 
 ## Heirloom Nutrition
 
-Solomon presents an insight from Dr. Alan Kapuler: modern OP varieties (bred after ~1870) are not necessarily as nutritious or tasty as old-fashioned heirlooms. Historically, each family raised unique varieties selected over generations for their family's needs, tastes, and soil. The nutritional quality varied between varieties. Families with more nutritious crops had better child survival — a form of natural selection for nutritional quality that was lost when commercial seed production replaced family seed saving.
+Solomon presents an insight from Dr. Alan Kapuler: modern OP varieties (bred after ~1870) are not necessarily as nutritious or tasty as old-fashioned heirlooms. Historically, each family raised unique varieties selected over generations for their family's needs, tastes, and soil. The [[coleman-winter-greens-nutritional-quality-cold-sweetening]] varied between varieties. Families with more nutritious crops had better child survival — a form of natural selection for nutritional quality that was lost when commercial [[cervantes-seed-production-storage]] replaced family seed saving.
 
 See also: [[seed-saving-vegetables]], [[seed-selection-breeding-holzer]]
 - [[gaias-garden-cover-crops-soil-building]]

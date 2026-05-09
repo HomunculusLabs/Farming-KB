@@ -1,17 +1,18 @@
 ---
-title: Container Gardening and Pot Size for Cannabis
+title: comparison-cold-frame-gardening-vs-container-gardening-guide and query-how-to-choose-the-right-pot-size-for-cannabis for Cannabis
 created: 2026-04-26
 tags: [cannabis, containers, transplanting, root-management, indoor-growing]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Container Gardening and Pot Size for Cannabis
 
-Proper container selection and management are fundamental to healthy cannabis
+Proper container selection and management are fundamental to [[query-how-to-manage-ph-for-healthy-cannabis-plants]]
 growth. Jorge Cervantes emphasizes that root-bound, cramped root systems grow
 sickly, stunted plants with sparse branching. Understanding when and how to
 transplant, and choosing the right container size, directly impacts yield.
@@ -89,3 +90,6 @@ ensure firm contact. The cube integrates into the surrounding medium as roots
 grow through it, minimizing disturbance.
 
 See also: [[cervantes-growing-medium]], [[comparison-coco-coir-vs-peat]], [[comparison-greenhouse-vs-container-gardening]]
+
+## See Also
+- [[green-cannabis-transplanting-root-bound-management]]

@@ -39,13 +39,13 @@ to neurotransmitters, explaining their psychotropic potency.
 
 ## Species in the Mexican Mushroom Complex
 
-The known hallucinogenic mushrooms of Mexico include species across
-several genera: *Psilocybe mexicana*, *P. caerulescens*, *P. aztecorum*,
+The known [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] of Mexico include species across
+several genera: *[[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]*, *P. caerulescens*, *P. aztecorum*,
 *P. zapotecorum*, *P. semperviva*, *P. wassonii*, *P. yungensis*,
 *P. cubensis*, *Panaeolus sphinctrinus*, *P. cyanescens*, and
-*Conocybe siligineoides*. The Mazatec and Chinantec refer to these
+*[[guzman-conocybe-siligineoides-lost-sacred-mushroom-oaxaca-never-recollected]]*. The Mazatec and Chinantec refer to these
 mushrooms by various names including She-to ("pasture mushrooms") and
-To-shka ("intoxicating mushroom"). *Psilocybe cubensis* is named Hongo
+To-shka ("intoxicating mushroom"). *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* is named Hongo
 de San Isidro; in the Mazatec language it is called Di-shi-tjo-le-rra-ja
 ("divine mushroom of manure"). This taxonomic diversity across multiple
 genera highlights the sophistication of indigenous mycological knowledge.
@@ -73,10 +73,10 @@ hallucinogenic mushrooms in Mexico began to be understood.
 ## Ongoing Research Significance
 
 The genus *Conocybe* remains poorly studied compared to *Psilocybe* and
-*Panaeolus*. The rediscovery and chemical analysis of *C. siligineoides*
+*Panaeolus*. The rediscovery and [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of *C. siligineoides*
 would represent a significant contribution to ethnopharmacology. In
 1979, the largest and most potent mushroom in the *Psilocybe* genus was
-found in Astoria, Oregon -- *Psilocybe azurescens* -- demonstrating that
+found in Astoria, Oregon -- *[[stamets-psi-psilocybe-azurescens-species-guide]]* -- demonstrating that
 new discoveries in psychoactive mycology continue to emerge. The study
 of genera like *Conocybe* expands our understanding of the full
 spectrum of [[kwashi-and-galanga-minor-psychoactive-plants]]

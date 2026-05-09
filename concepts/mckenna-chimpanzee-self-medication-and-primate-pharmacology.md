@@ -33,7 +33,7 @@ method, bypassing normal mastication, preserved the leaf's structural
 integrity, allowing rough, fibrous material to pass through the digestive tract 
 and physically dislodge intestinal parasites.
 
-Chemical analysis of Aspilia leaves revealed the presence of thiarubrine A, a 
+[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of Aspilia leaves revealed the presence of thiarubrine A, a 
 potent antimicrobial and antiparasitic compound. The chimpanzees were not 
 randomly sampling novel vegetation; they were selecting a specific plant 
 containing a specific bioactive compound that addressed a specific health 
@@ -122,13 +122,13 @@ McKenna placed the chimpanzee self-medication findings within a broader
 ethnographic context. In the minds of preliterate people, "the lines between 
 drugs, foods, and spices are rarely clearly drawn." Eating a plant or an animal 
 is "a way of claiming its power, a way of assimilating its magic to one's 
-self." The shaman who gorges himself on chili peppers to raise inner heat is 
+self." The shaman who gorges himself on [[query-how-to-grow-chili-peppers-from-seed-to-harvest]] to raise inner heat is 
 hardly in a less altered state than the nitrous oxide enthusiast.
 
-This framing suggests that the chimpanzee Aspilia consumption is not merely 
+This framing suggests that the [[mckenna-food-gods-chimpanzee-aspilia-self-med]] consumption is not merely 
 medicinal in the Western pharmacological sense but participatory in a deeper 
 way. The chimps are engaging with the plant's power, assimilating its 
-antimicrobial properties through a ritualized form of consumption that 
+[[mycelium-running-mushroom-antimicrobial-properties-species-chart]] through a ritualized form of consumption that 
 preserves the leaf's structural integrity. The distinction between food and 
 medicine, so sharp in Western thought, may be a cultural artifact rather than a 
 natural boundary.
@@ -136,10 +136,8 @@ natural boundary.
 - [Indole Hallucinogens and Human 
 Evolution](indole-hallucinogens-and-human-evolution.md)
 - [McKenna Food of the Gods](mckenna-food-of-the-gods.md)
-- [Psilocybin Mushrooms in Prehistoric 
+- [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] in Prehistoric 
 Africa](psilocybin-mushrooms-in-prehistoric-africa.md)
-- [Stoned Ape Hypothesis](stoned-ape-hypothesis.md)
-- [Zoopharmacognosy](zoopharmacognosy.md)
 ## See Also
 
 - [[mckenna-psilocybin-coprophilous-ecology-and-bovine-symbiosis]]

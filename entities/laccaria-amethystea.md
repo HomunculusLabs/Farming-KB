@@ -17,7 +17,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Phillips, R. (2010). "Mushrooms: A Comprehensive Guide to Mushroom Identification." Macmillan.
+  - Phillips, R. (2010). "Mushrooms: A Comprehensive Guide to psilocybin-mushroom-identification-guide." Macmillan.
   - Arora, D. (1986). "Mushrooms Demystified." Ten Speed Press.
   - Kuo, M. (2024). "Laccaria amethystea." MushroomExpert.com. https://www.mushroomexpert.com/laccaria_amethystina.html
   - Mueller, G.M. et al. (2002). "Laccaria in North America." Mycotaxon 82: 15-32.
@@ -71,7 +71,7 @@ It fruits from late summer through autumn, typically August to November, often i
 
 ## Ecological Role
 
-As an ectomycorrhizal fungus, *L. amethystea* plays an important role in forest nutrient cycling. The mycelial network connects to tree root systems, facilitating the exchange of mineral nutrients (particularly phosphorus) extracted from soil organic matter for photosynthetic carbon from host trees.
+As an ectomycorrhizal fungus, *L. amethystea* plays an important role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. The [[gadd-mycelial-network-dynamics]] connects to tree root systems, facilitating the exchange of mineral nutrients (particularly phosphorus) extracted from soil organic matter for photosynthetic carbon from host trees.
 
 *Laccaria* species are among the most common ectomycorrhizal genera in disturbed and regenerating forests, making them pioneer mycorrhizal associates. They are often among the first fungi to colonize the root systems of young trees in reforestation sites.
 
@@ -94,9 +94,9 @@ There are no known toxic lookalikes in the *Laccaria* genus. The combination of 
 
 ## Cultivation and Mycological Research
 
-*Laccaria amethystea* has not been successfully cultivated commercially, though *Laccaria* species have been grown experimentally in symbiotic culture with tree seedlings. The genus is of particular interest to forest mycology researchers studying ectomycorrhizal networks.
+*Laccaria amethystea* has not been successfully cultivated commercially, though *Laccaria* species have been grown experimentally in symbiotic culture with tree seedlings. The genus is of particular interest to forest mycology researchers studying [[symbiotic-fungi-ectomycorrhizal-networks-overview]].
 
-Genomic studies of *Laccaria* species have revealed mechanisms of mycorrhizal symbiosis, including gene families involved in nutrient exchange and communication with host roots. These findings have broader implications for understanding forest ecosystem function.
+Genomic studies of *Laccaria* species have revealed mechanisms of [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]], including gene families involved in [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] and communication with host roots. These findings have broader implications for understanding forest ecosystem function.
 
 The species has been investigated as a bioindicator of forest health and soil quality, as its presence and abundance correlate with specific soil conditions and forest maturity levels.
 

@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Brandt, S.D. et al. (2019). \"Return of the lysergamides. Part IV: 1cP-LSD.\" Drug Testing and Analysis, 11(11), 1627-1632."
+  - "Brandt, S.D. et al. (2019). \"Return of the lysergamides. Part IV: 1cP-LSD.\" psychedelic-drug-testing-and-adulterant-screening and Analysis, 11(11), 1627-1632."
   - "Griffiths, R.R. et al. (2016). \"Psilocybin can occasion mystical-type experiences.\" J. Psychopharmacology, 30(12), 1181-1197."
   - "EMCDDA. (2024). \"1cP-LSD — New psychoactive substance profile.\" European Monitoring Centre for Drugs and Drug Addiction."
   - "Nichols, D.E. (2016). \"Psychedelics.\" Pharmacological Reviews, 68(2), 264-355."
@@ -50,7 +50,7 @@ sources:
 
 ### Subjective Experience
 
-Reported effects are virtually indistinguishable from LSD at equivalent doses. Visual enhancements include color saturation, geometric patterns, trailing, and synesthesia at higher doses. Cognitive effects include altered thought patterns, increased associative thinking, and ego dissolution at higher doses. Emotional effects range from enhanced empathy and mystical experiences to occasional anxiety or challenging psychological material. Somatic effects include physical lightness/heaviness, pupil dilation, and mild onset nausea.
+Reported effects are virtually indistinguishable from LSD at equivalent doses. Visual enhancements include color saturation, geometric patterns, trailing, and synesthesia at higher doses. Cognitive effects include altered thought patterns, increased associative thinking, and [[psilocybin-ego-dissolution-mechanisms]] at higher doses. Emotional effects range from enhanced empathy and [[psilocybin-mystical-experiences-personality-change]] to occasional anxiety or challenging psychological material. Somatic effects include physical lightness/heaviness, pupil dilation, and mild onset nausea.
 
 ### Dose Ranges
 
@@ -58,7 +58,7 @@ Reported effects are virtually indistinguishable from LSD at equivalent doses. V
 |-----------|-----------|----------------------|
 | 20-50 | Threshold | Subtle color enhancement, mood lift |
 | 50-100 | Light | Clear visual effects, altered thinking |
-| 100-150 | Moderate | Full psychedelic experience, open-eye visuals |
+| 100-150 | Moderate | Full [[leary-psychedelic-experience-bardo-mapping]], open-eye visuals |
 | 150-250 | Strong | Intense visuals, ego dissolution possible |
 | 250+ | Heavy | Complete ego dissolution, overwhelming for most |
 
@@ -84,7 +84,7 @@ Reported effects are virtually indistinguishable from LSD at equivalent doses. V
 - **2019:** First detected in European drug markets (Germany, Switzerland) by forensic laboratories
 - **2019-2020:** Rapidly proliferated as a replacement for 1P-LSD after the latter was scheduled in several jurisdictions
 - **2020-2024:** Established as one of the most widely available novel lysergamides globally; commonly sold alongside 1V-LSD
-- **Research context:** No formal clinical trials; data from analytical chemistry reports, user self-reports, and in vitro receptor binding studies
+- **Research context:** No formal [[mushroom-cancer-clinical-trials-overview]]; data from analytical chemistry reports, user self-reports, and in vitro [[tihkal-receptor-binding-serotonin]] studies
 - **Recreational use:** Used for recreation, self-exploration, and microdosing; some users prefer the slightly delayed onset
 
 ## Harm Reduction

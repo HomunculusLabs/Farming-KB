@@ -1,17 +1,12 @@
 ---
-title: The Hydro Cycle and Watershed Management
+title: The ozier-pdc-hydro-cycle-and-watershed-management [[ozier-pdc-hydro-cycle-and-watershed-management]]
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [[permaculture, design, water]
-sources: [raw/papers/bill-mollison-permaculture-design-course.md]
+tags: [permaculture, design, water]
+sources: sources: []
 ---
-
-# The Hydro Cycle and Watershed Management
-
-updated: 2026-04-18
-
-The hydrological cycle is one of three major cycles that support all ecology (alongside the atmospheric cycle and the nutrient cycle). Understanding how water moves across and through landscapes is essential for [[pdc-swales-and-earthworks-water-management]], and [[pdc-swales-and-earthworks-water-management]] that slow runoff and maximize infiltration
+# The Hydro Cycle and Watershed Management updated: 2026-04-18 The hydrological cycle is one of three major cycles that support all ecology (alongside the atmospheric cycle and the nutrient cycle). Understanding how water moves across and through landscapes is essential for [[pdc-swales-and-earthworks-water-management]], and [[pdc-swales-and-earthworks-water-management]] that slow runoff and maximize infiltration
 - Using plants and trees to manage water movement through evapotranspiration
 - Protecting and restoring natural watershed functions
 - Designing human water infrastructure that works with, rather than against, natural hydrological processes
@@ -37,7 +32,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -87,7 +82,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -97,4 +92,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

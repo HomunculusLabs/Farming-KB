@@ -1,5 +1,5 @@
 ---
-title: "Homemade Pest and Disease Sprays (Cervantes)"
+title: "Homemade hamilton-pest-and-disease-control-organic Sprays (Cervantes)"
 created: 2026-04-28
 tags:
   - cannabis
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -56,12 +57,12 @@ sprays:
   effect
 - Hot pepper: Dilute Tabasco or any store-bought concentrate
   in water
-- Hydrated lime: Saturate in water to form a fungicide
+- [[cervantes-hydrated-lime-quicklime-ph-adjustment]]: Saturate in water to form a fungicide
 - Mint oil: Drives insects away. Dilute several drops per pint
-- Vegetable oil: Comprised mainly of fatty acids and glycerides.
+- Vegetable oil: Comprised mainly of [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] and glycerides.
   Mix with rubbing alcohol to emulsify in water
 - Soap: Ivory or Castile soap works as an insecticide and
-  wetting agent. Mix with water for direct application
+  [[jadam-nutrient-management-wetting-agent-and-calcium]]. Mix with water for direct application
 
 ## Tobacco Spray
 
@@ -120,7 +121,7 @@ Place one teaspoon of hot pepper or Tabasco sauce and four
 cloves of garlic in a blender with a pint of water and liquefy.
 Strain through a nylon stocking or cheesecloth before using
 in the sprayer. This simple spray is effective against many
-common cannabis pests.
+common [[green-cannabis-pests-prevention]].
 
 ## Recipe 3: Hydrated Lime Spray
 
@@ -142,4 +143,4 @@ fosters fungal growth.
 - [[cervantes-pyrethrum-pyrethroid-insecticides]] - natural
   pyrethrum sprays
 - [[cervantes-biological-pest-control-predators]] - living
-  pest control agents
+  [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] agents

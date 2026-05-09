@@ -1,10 +1,12 @@
 ---
-title: "Rainwater Harvesting vs Greywater Systems"
+title: "comparison-xeriscaping-guide-vs-rainwater-harvesting-systems vs Greywater Systems"
 created: 2026-04-28
 tags: [comparison, water, permaculture, conservation]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: comparison
 ---
 
@@ -25,7 +27,7 @@ landscape plantings. While they serve overlapping goals, the two systems differ
 fundamentally in water quality, treatment requirements, legal considerations, and
 appropriate end uses.
 
-Together, these systems form the backbone of water-wise landscaping and permaculture design,
+Together, these systems form the backbone of water-wise landscaping and [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]],
 enabling homeowners and communities to dramatically reduce their water footprint. In many
 cases, the most effective approach is to implement both systems in tandem.
 
@@ -97,7 +99,7 @@ choice for anyone interested in indoor non-potable reuse such as toilet flushing
 Greywater systems excel in arid regions where rainfall is insufficient to justify rainwater
 storage. Because greywater is generated daily regardless of weather, it provides a reliable,
 consistent water source throughout the year. It is particularly effective for irrigating
-fruit trees, ornamental shrubs, and perennial plantings that benefit from the nutrient
+[[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], ornamental shrubs, and perennial plantings that benefit from the nutrient
 content. Greywater is also the most cost-effective way to reduce water consumption in
 existing homes.
 

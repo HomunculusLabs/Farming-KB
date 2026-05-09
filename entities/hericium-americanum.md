@@ -19,11 +19,11 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Ginns, J. (1985). "The genus Hericium in North America." Mycotaxon 23: 317-338.
+  - Ginns, J. (1985). "The genus Hericium in psilocybin-north-america-pacific-northwest." Mycotaxon 23: 317-338.
   - Harrison, K.A. (1973). "The genus Hericium in Ontario." Canadian Journal of Botany 51(6): 1201-1207.
   - Binder, M. et al. (2006). "A higher-level phylogenetic classification of the Fungi." Mycological Research 110(5): 463-475.
   - Wang, J. & Wang, H.Y. (2014). "The genus Hericium: a resource for novel bioactive metabolites." Journal of Traditional and Complementary Medicine 4(2): 118-124.
-  - Stamets, P. (2000). "Growing Gourmet and Medicinal Mushrooms." Ten Speed Press.
+  - Stamets, P. (2000). "Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]." Ten Speed Press.
 ---
 ## Overview
 
@@ -37,7 +37,7 @@ cascading clusters of soft, white-to-cream spines that hang from a branched
 
 ## Morphology
 
-- **Fruiting body**: Large, branched structure from a short stout base; 10–40 cm broad and 10–30 cm tall. Branches divide repeatedly, each bearing dense spine clusters.
+- **[[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]**: Large, branched structure from a short stout base; 10–40 cm broad and 10–30 cm tall. Branches divide repeatedly, each bearing dense spine clusters.
 - **Spines**: White to cream, soft and fleshy, 10–40 mm long and 1–2 mm thick, hanging in cascading groups. Unlike *H. erinaceus*, spines grow from multiple branching points rather than [[spore-print]]**: White. **Spores**: Globose to subglobose, 5–7 × 5–6.5 µm, smooth, hyaline, amyloid.
   **Flesh**: White, soft, watery when fresh; tough and brittle when dried. Mild odor and taste. Saprotrophic on dead or dying hardwoods, especially oa [[mushroom-cultivation]].
 
@@ -46,9 +46,9 @@ cascading clusters of soft, white-to-cream spines that hang from a branched
 - ***[[hericium-erinaceus]]***: Single unbranched mass of spines hanging from one
   attachment point (no branching). Spines typically shorter (5–25 mm).
 - ***Hericium coralloides***: European species; spines shorter (5–25 mm) and
-  branches more finely divided. Overlaps morphologically; microscopic examination
+  branches more finely divided. Overlaps morphologically; [[fungal-microscopic-examination-mounting-media-techniques]]
   of spore size and ITS sequencing needed for definitive identification.
-- ***Hericium abietis***: Western North American species found on conifers;
+- ***Hericium abietis***: Western [[growing-gourmet-north-american-reishi-species]] species found on conifers;
   generally smaller with more delicate branching.
 
 ## See Also
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

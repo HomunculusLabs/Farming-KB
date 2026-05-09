@@ -29,7 +29,7 @@ sources:
 
 ## Overview
 
-Vanilla planifolia is a tropical climbing orchid native to Mexico and Central America, producing the vanilla bean — the world's most commercially valuable spice after saffron.
+Vanilla planifolia is a tropical climbing orchid native to Mexico and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], producing the vanilla bean — the world's most commercially valuable spice after saffron.
 
 The species is the primary source of natural vanillin, the compound responsible for vanilla's characteristic flavor and aroma. It belongs to the Orchidaceae, the largest family of flowering plants, and is one of the few orchids cultivated for food production.
 
@@ -63,7 +63,7 @@ Native range extends from eastern Mexico through Central America to the Caribbea
 
 It grows in lowland tropical forests from sea level to 600 meters elevation. The plant prefers humid conditions with annual rainfall exceeding 2000 mm.
 
-V. planifolia is a shade-tolerant understory species that climbs into the canopy of supporting trees. It requires well-draining soils rich in organic matter.
+V. planifolia is a shade-tolerant understory species that climbs into the canopy of supporting trees. It requires well-draining soils rich in [[hamilton-composting-and-organic-matter-management]].
 
 Natural populations have been significantly reduced by habitat destruction and over-collection. Wild populations are now rare in many parts of their native range.
 
@@ -83,7 +83,7 @@ Each flower must be pollinated individually within its 24-hour window. A skilled
 
 Vanillin (4-hydroxy-3-methoxybenzaldehyde) is the primary flavor compound, comprising 1–2% of cured bean dry weight.
 
-Over 250 volatile compounds contribute to vanilla's complex aroma, including p-hydroxybenzaldehyde, p-hydroxybenzoic acid, vanillic acid, and acetaldehyde.
+Over 250 [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] contribute to vanilla's complex aroma, including p-hydroxybenzaldehyde, p-hydroxybenzoic acid, vanillic acid, and acetaldehyde.
 
 The curing process enzymatically converts glucosides (glucovanillin) into free vanillin. β-glucosidase activity during the sweating stage is critical for flavor development.
 
@@ -103,11 +103,11 @@ Modern research has investigated vanillin as an anti-sickling agent for sickle c
 
 In permaculture systems, vanilla serves as a valuable understory crop in agroforestry designs. It provides income diversification while requiring minimal ground space.
 
-The vine functions as a living mulch on support trees, reducing weed competition and moderating microclimate. Its root system helps stabilize soil on support tree trunks.
+The vine functions as a [[comparison-living-mulch-vs-cover-crops]] on support trees, reducing weed competition and moderating microclimate. Its root system helps stabilize soil on support tree trunks.
 
 Vanilla cultivation in multi-strata agroforestry systems has been shown to increase overall system biodiversity compared to monoculture.
 
-Suitable support trees include leguminous species that fix nitrogen (*Gliricidia sepium*, *Erythrina* spp.) and fruit trees (*Theobroma cacao*, *Persea americana*) that provide additional yields.
+Suitable support trees include leguminous species that [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] (*Gliricidia sepium*, *Erythrina* spp.) and [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] (*Theobroma cacao*, *Persea americana*) that provide additional yields.
 
 ## See Also
 

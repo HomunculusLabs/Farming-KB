@@ -16,14 +16,14 @@ The establishment of the Rhizobium-legume mutualism proceeds through a series of
 
 ### Chemical Signaling in the Rhizosphere
 
-The specificity of the Rhizobium-legume interaction begins with the exchange of molecular signals in the rhizosphere. Plant-derived [[ozier-pdc-composting-and-soil-building]] through various pathways. When legume residues decompose, fixed nitrogen becomes available to subsequent crops, a process fundamental to sustainable agriculture. This natural nitrogen input is a key component of [[actinorhizal-symbiosis-frankia]] between Frankia bacteria and actinorhizal plants, and [[mycorrhizal-fungi]]
+The specificity of the Rhizobium-legume interaction begins with the exchange of molecular signals in the rhizosphere. Plant-derived [[ozier-pdc-composting-and-soil-building]] through various pathways. When legume residues decompose, fixed nitrogen becomes available to subsequent crops, a process fundamental to sustainable agriculture. This [[jadam-natural-nitrogen-fertilizer]] input is a key component of [[actinorhizal-symbiosis-frankia]] between Frankia bacteria and actinorhizal plants, and [[mycorrhizal-fungi]]
 - [[nitrogen-fixing-trees-and-shrubs]]
 - [[root-exudates]]
 - [[piriformospora-indica]]
 
 ## References
 
-- Das A, Varma A (2009) Symbiosis: The Art of Living. In: Varma A, Kharkwal AC (eds) Symbiotic Fungi, Soil Biology 18. Springer.
+- Das A, Varma A (2009) Symbiosis: The Art of Living. In: Varma A, Kharkwal AC (eds) [[mycelium-running-symbiotic-fungi-relationships]], Soil Biology 18. Springer.
 - Gonzalez JE, et al. (2008) Rhizobial diversity. Curr Opin Microbiol.
 - Anyia AO, et al. (2004) Responsiveness of Canadian wheat cultivars to Azorhizobium caulinodans inoculation. Plant Soil.
 ## Practical Applications
@@ -103,4 +103,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

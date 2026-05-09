@@ -24,7 +24,7 @@ As Polyidos sails away, Glaukos spits into his teacher's mouth — and thereby "
 
 ## McKenna's Decoding: The Blue Staining Reaction
 
-The entry point into McKenna's interpretation is the name **Glaukos**, meaning "blue-gray." Among mycologists, the flesh of *Stropharia cubensis* and other psilocybin mushrooms has the property of staining a bluish color when bruised or broken. This blue staining is an enzymatic reaction and a fairly reliable indicator of the presence of psilocybin.
+The entry point into McKenna's interpretation is the name **Glaukos**, meaning "blue-gray." Among mycologists, the flesh of *[[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]* and other psilocybin mushrooms has the property of staining a bluish color when bruised or broken. This blue staining is an enzymatic reaction and a fairly reliable indicator of the presence of psilocybin.
 
 McKenna argues that Glaukos "seems symbolic of the mushroom itself" — the blue-gray child who dies (is dried or processed) but who can be restored to life (reconstituted through rehydration or preservation).
 
@@ -42,7 +42,7 @@ In Mexico, honey has long been used to preserve psilocybin-containing mushrooms.
 
 ### The Natufian Connection
 
-The connection between the Minoan pithos and the Natufian bucket-shaped graves is part of a larger argument McKenna builds throughout *Food of the Gods*. The Natufian culture of the Levant (circa 12,500–9,500 BCE) represents, in McKenna's framework, the earliest identifiable partnership society that practiced mushroom-using religion alongside cattle domestication. The continuity between Natufian burial practices and Minoan funerary customs — both involving the use of large vessels — suggests a cultural transmission that spans thousands of years and thousands of miles.
+The connection between the Minoan pithos and the Natufian bucket-shaped graves is part of a larger argument McKenna builds throughout *Food of the Gods*. The Natufian culture of the Levant (circa 12,500–9,500 BCE) represents, in McKenna's framework, the earliest identifiable [[mckenna-dominator-vs-partnership-society-model]] that practiced mushroom-using religion alongside cattle domestication. The continuity between Natufian burial practices and Minoan funerary customs — both involving the use of large vessels — suggests a cultural transmission that spans thousands of years and thousands of miles.
 
 ### The Pithos as Symbolic Vessel
 
@@ -67,7 +67,7 @@ This serpent motif appears across multiple mythological traditions:
 - **Gilgamesh**: The serpent steals the plant of immortality from the hero
 - **Minoan Glaukos myth**: The serpent brings the herb that can restore the dead
 - **Greek Asklepios**: The staff of Asklepios, god of medicine, is entwined by a serpent
-- **Mesoamerican Quetzalcoatl**: The feathered serpent deity is associated with sacred plants and knowledge
+- **Mesoamerican Quetzalcoatl**: The [[amanita-muscaria-feathered-serpent-phoenix]] deity is associated with sacred plants and knowledge
 
 In each case, the serpent is the mediator between the human world and the botanical knowledge that transcends ordinary consciousness. The consistency of this motif across cultures and millennia suggests, for McKenna, a shared experiential basis in the use of psychoactive plants in shamanic contexts.
 
@@ -83,7 +83,7 @@ This motif parallels the well-documented difficulty of integrating psychedelic e
 
 McKenna draws a direct parallel to Mesoamerican mushroom cults, where throughout their range, psychoactive mushrooms are thought of as small children — *los ninos*, "the dear sweet little ones." Maria Sabina, the mushroom shamaness of Huautla de Jimenez, used this terminology. McKenna identifies this as "an instance of the motif of the alchemical children, the elfin denizens of some nearby magical continuum, accessed through psilocybin."
 
-The identification of the mushroom as a child — preserved in honey, capable of death and resurrection, possessing secret knowledge — is a cross-cultural motif that connects Minoan Crete to Mesoamerican Mexico through the shared archetype of the mushroom as an innocent, small being who mediates between the human and the divine.
+The identification of the mushroom as a child — preserved in honey, capable of [[allegro-death-and-resurrection-in-the-mushroom-cult]], possessing secret knowledge — is a cross-cultural motif that connects Minoan Crete to Mesoamerican Mexico through the shared archetype of the mushroom as an innocent, small being who mediates between the human and the divine.
 
 ### Maria Sabina and "Los Ninos"
 
@@ -93,7 +93,7 @@ The Glaukos myth, with its blue-gray mushroom-child preserved in honey, appears 
 
 ## Context: Minoan Crete and the Mushroom Question
 
-The Glaukos myth must be understood in the broader context of Minoan civilization. Crete was the last major European civilization to maintain the partnership model — Goddess-worshipping, egalitarian, and ecologically sustainable — enduring for three millennia after the triumph of the dominator style was complete elsewhere. McKenna argues that Minoan civilization was "a living monument to the partnership ideal."
+The Glaukos myth must be understood in the broader context of Minoan civilization. Crete was the last major [[fukuoka-european-civilization-standstill]] to maintain the partnership model — Goddess-worshipping, egalitarian, and ecologically sustainable — enduring for three millennia after the triumph of the dominator style was complete elsewhere. McKenna argues that Minoan civilization was "a living monument to the partnership ideal."
 
 Whether mushroom use was an active and widespread cult on Crete, or merely a memory of long-forgotten times, remains unclear. Archaeological evidence is lacking. But the myth of Glaukos, with its precise mushroom-coded symbolism, suggests that the memory — and possibly the practice — persisted into the Minoan period.
 
@@ -103,13 +103,16 @@ The later Minoan period saw opium supplant whatever earlier psychedelic practice
 
 ### The Eleusinian Connection
 
-The Glaukos myth foreshadows the Eleusinian Mysteries that would later emerge on the Greek mainland from Minoan roots. Both narratives involve a descent into the underworld (the tomb, the nether world), a period of apparent death, and a resurrection made possible by esoteric botanical knowledge. Both involve a goddess figure (Pasiphae, Demeter/Persephone) and the transmission of secret knowledge that cannot be fully retained by ordinary consciousness. The Glaukos myth may represent an earlier, more overtly mushroom-coded version of the same archetypal pattern that was later refined and institutionalized at Eleusis.
+The Glaukos myth foreshadows the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] that would later emerge on the Greek mainland from Minoan roots. Both narratives involve a descent into the underworld (the tomb, the nether world), a period of apparent death, and a resurrection made possible by esoteric botanical knowledge. Both involve a goddess figure (Pasiphae, Demeter/Persephone) and the transmission of secret knowledge that cannot be fully retained by ordinary consciousness. The Glaukos myth may represent an earlier, more overtly mushroom-coded version of the same archetypal pattern that was later refined and institutionalized at Eleusis.
 
 ## See Also
+
+- [[plaincourault-fresco-mushroom-myth]]
+
+- [[mckenna-myth-of-glaukos-honey-death-resurrection-minoan-religion]]
 
 - [[mckenna-minoan-crete-mushroom-religion]]
 - [[mckenna-eleusinian-mysteries]]
 - [[mckenna-catal-huyuk-natufian-link]]
 - [[mckenna-abandonment-of-mystery-four-stages]]
 - [[mckenna-wasson-soma-contradictions-and-doubts]]
-- [[mckenna-catal-huyuk-natufian-link]]

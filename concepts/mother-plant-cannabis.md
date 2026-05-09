@@ -18,13 +18,13 @@ disease resistance.
 ## Selecting a Mother Plant
 
 Always start with the best mothers possible. A mother plant yields clones in her image.
-If the mother lacks potency, harvest weight, or pest and disease resistance, the clone
+If the mother lacks potency, harvest weight, or [[hamilton-pest-and-disease-control-organic]] resistance, the clone
 shares those drawbacks. Select mothers from seed by evaluating multiple candidates:
 
 1. **Grow several candidates** from seed of the desired strain
 2. **Evaluate performance:** growth rate, structure, vigor, and health
 3. **Test potency:** flower a test branch or clone to assess cannabinoid content
-4. **Check for pre-flowers:** confirm female sex around week 4 of vegetative growth
+4. **Check for pre-flowers:** confirm female sex around week 4 of [[cannabis-vegetative-growth-stage]]
 5. **Choose the best performer** as the mother and discard the rest
 
 These weaknesses are compounded when growing only one strain. An unchecked pest or
@@ -33,7 +33,7 @@ percent females, all exactly like the mother.
 
 ## Maintaining Mother Plants
 
-Mother plants are kept in the vegetative stage indefinitely under 18-24 hours of light
+Mother plants are kept in the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] indefinitely under 18-24 hours of light
 per day. They require ongoing care including regular watering, fertilization, pruning,
 and pest monitoring. Give mother plants about ten percent less nitrogen than actively
 growing plants, because slightly lower nitrogen promotes rooting in the clones taken
@@ -65,7 +65,7 @@ Mother plants must stay very healthy to produce many clones. Key health indicato
 Spider mites are a common problem on mother plants. Regular inspection and preventive
 treatment are essential because an infested mother will pass pests to every clone taken
 from her. Well-illuminated, strong clones grow fast and have less chance of being
-affected by pests and diseases. Fast-growing clones develop more quickly than spider
+affected by [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. Fast-growing clones develop more quickly than spider
 mites can reproduce.
 
 ## Pruning and Training
@@ -96,7 +96,7 @@ Many growers maintain a separate vegetative/cloning room about one-quarter the s
 the flowering room. This room houses mother plants, rooting clones, and young
 vegetative plants. A 250- or 400-watt metal halide could easily illuminate vegetative
 plants and clones that would fill a flowering room lit by three 600-watt HPS sodiums.
-Fluorescent and compact fluorescent lamps are more economical and work well to root
+Fluorescent and [[cervantes-compact-fluorescent-lighting]] lamps are more economical and work well to root
 clones.
 
 ## Advantages of Cloning from Mothers
@@ -105,7 +105,7 @@ clones.
 - **No males:** All clones are female, eliminating sexing work
 - **Consistent results:** Predictable growth rate, flowering time, and yield
 - **Unlimited supply:** A single mother can produce hundreds of clones over her lifetime
-- **Perpetual harvest:** Continuous cloning enables harvesting a ripe plant every few days
+- **[[cervantes-perpetual-harvest-cycle]]:** Continuous cloning enables harvesting a ripe plant every few days
 
 ## Risks
 

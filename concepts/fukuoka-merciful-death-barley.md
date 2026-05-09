@@ -1,9 +1,9 @@
 ---
-title: The Merciful Death for Barley — Japanese Agricultural Policy
+title: The fukuoka merciful death barley for Barley — fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse Policy
 created: 2026-05-08
 sources:
   - path: /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-fukuoka.md
-    title: The One-Straw Revolution - [[masanobu-fukuoka]]
+    title: The One-Straw Revolution - masanobu-fukuoka
     author: Masanobu Fukuoka
 updated: 2026-05-08
 type: concept
@@ -15,9 +15,9 @@ tags: [reference]
 ## The Wheat Experiment
 
 Forty years before Fukuoka wrote, increasing political hostility
-between the United States and Japan made importing wheat impossible.
+between the [[dmt-containing-plants-united-states-halpern]] and Japan made importing wheat impossible.
 A general movement encouraged domestic wheat production. The
-American wheat varieties being used required a long growing season
+American wheat varieties being used required a long [[savory-growing-season-and-non-growing-season-management]]
 and the grain finally matured in the middle of Japan's rainy season.
 Even after the farmer had taken great pains to grow the crop, it
 would often rot during harvest. These varieties proved unreliable
@@ -36,7 +36,7 @@ choked on it.
 After the war, American wheat was again imported in large quantities,
 causing the price of domestically grown wheat to fall. The government
 simultaneously encouraged farmers to stop growing the traditional
-winter crops of rye and barley because of the cheap imported wheat.
+[[coleman-semi-hibernating-winter-crops-harvest-extension]] of rye and barley because of the cheap imported wheat.
 The fields of Japan were left to lie fallow through the winter.
 
 The slogan "Give up wheat, give up wheat!" was propagated nationwide
@@ -125,3 +125,4 @@ represents a profound misunderstanding of what agriculture is for.
 
 - [[fukuoka-barley-winter-grain-method]]
 - [[fukuoka-breakdown-japanese-agriculture]]
+- [[fukuoka-winter-grain-rice-rotation]]

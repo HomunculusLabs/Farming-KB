@@ -1,5 +1,5 @@
 ---
-title: "Shulgin's Rating Scale for Psychedelic Substances"
+title: "Shulgin's [[shulgin-rating-scale]] for [[psychedelic-substances-comparison]]"
 created: 2026-04-26
 sources: "TIHKAL - Tryptamines I Have Known and Loved (Shulgin & Shulgin)"
 tags: [rating-scale, methodology, Shulgin, psychedelic, qualitative]
@@ -11,7 +11,7 @@ updated: 2026-04-26
 
 ## Overview
 
-Alexander Shulgin developed a qualitative rating system for describing the intensity of psychedelic experiences. This scale is used throughout both PIHKAL and TIHKAL to characterize the effects of psychedelic substances in standardized terms. While formally defined in PIHKAL, the system is extensively employed in TIHKAL across all 55 entries.
+[[alexander-shulgin]] developed a qualitative rating system for describing the intensity of psychedelic experiences. This scale is used throughout both PIHKAL and TIHKAL to characterize the effects of psychedelic substances in standardized terms. While formally defined in PIHKAL, the system is extensively employed in TIHKAL across all 55 entries.
 
 ## The Scale
 
@@ -21,7 +21,7 @@ Alexander Shulgin developed a qualitative rating system for describing the inten
 
 ### +
 
-**Level 1**. Slightly noticeable. Some awareness of effects, light-headedness, or subtle changes in sensory perception. The subject is aware that something is happening but remains fully functional and oriented.
+**Level 1**. Slightly noticeable. Some awareness of effects, light-headedness, or subtle changes in [[plant-sensory-perception]]. The subject is aware that something is happening but remains fully functional and oriented.
 
 ### ++
 
@@ -37,7 +37,7 @@ From TIHKAL: "I struggle to put a name to it, just +++ smashed" -- indicating th
 
 ### ++++
 
-**Level 4**. Overwhelming experience. Complete ego dissolution, transcendent states, contact with what is perceived as the divine or ultimate reality. The subject may lose all sense of self, body, and ordinary reality. This is the level of mystical or near-death experiences.
+**Level 4**. Overwhelming experience. Complete [[psilocybin-ego-dissolution-mechanisms]], transcendent states, contact with what is perceived as the divine or ultimate reality. The subject may lose all sense of self, body, and ordinary reality. This is the level of mystical or near-death experiences.
 
 From TIHKAL (5-MeO-DMT): "I beheld every thought that was going on everywhere in the universe and all possible realities... A definite ++++."
 
@@ -70,7 +70,7 @@ Shulgin himself acknowledged the limitations of this scale:
 
 Throughout TIHKAL, Shulgin supplements the numerical scale with qualitative descriptors:
 - **Quality labels**: "positive," "negative," "neutral," "mixed," "complex"
-- **Character descriptions**: "LSD-like," "erotic," "vertigo," "amnesia," "out-of-body," "cosmic consciousness"
+- **Character descriptions**: "LSD-like," "erotic," "vertigo," "amnesia," "out-of-body," "[[turner-essential-psychedelics-lsd-cosmic-consciousness]]"
 - **Duration markers**: Time of onset, peak, and return to baseline
 - **Route-specific notes**: Differences between oral, smoked, and intravenous experiences
 
@@ -89,7 +89,7 @@ DMT demonstrates how the scale differentiates routes of administration and dosag
 - **100 mg oral**: No effect -- DMT is inactive orally at any dose
 - **20 mg i.m.**: + to ++ -- Patterns on the wall, animal imagery, inner-eye visuals
 - **75 mg i.m.**: +++ -- Full hallucinations, eidetic phenomena, emotional elevation, compulsive movements
-- **100 mg smoked**: ++++ -- Complete ego dissolution, cosmic expansion, encounter with "the entire universe"
+- **100 mg smoked**: ++++ -- Complete [[default-mode-network-and-ego-dissolution]], cosmic expansion, encounter with "the entire universe"
 
 ### 5-MeO-DMT (Entry #38)
 

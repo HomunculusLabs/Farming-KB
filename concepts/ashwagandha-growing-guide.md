@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, ethnobotany, asia]
-sources: []
+sources:
+  sources: []
 ---
 
 # Ashwagandha Growing Guide (Withania somnifera)
@@ -26,7 +27,7 @@ shrub increasingly cultivated in temperate regions as a summer annual.
 - Hardiness: USDA zones 8-11 (grown as annual in cooler zones)
 - Lifecycle: Tender perennial, grown as annual in most climates
 - Height: 2-3 feet, spreading 2-3 feet
-- Growing season: 150-180 days for root maturity
+- [[savory-growing-season-and-non-growing-season-management]]: 150-180 days for root maturity
 
 Ashwagandha produces dull green, elliptical leaves, small green bell-shaped
 flowers, and orange-red berries enclosed in papery calyxes. The extensive
@@ -41,7 +42,7 @@ lactones), withaferin A, and alkaloids.
 
 Key medicinal applications:
 
-- Stress and anxiety: Multiple clinical trials show significant reductions
+- Stress and anxiety: Multiple [[mushroom-cancer-clinical-trials-overview]] show significant reductions
   in cortisol and subjective stress scores.
 - Sleep improvement: Improves onset, quality, and duration.
 - Thyroid support: May help normalize thyroid hormone levels.
@@ -61,7 +62,7 @@ Preparation methods:
 - Decoction: Simmer 1 teaspoon dried root in 8 oz water for 15 minutes.
 
 Safety notes: Generally safe for most adults. Avoid during pregnancy (may
-have abortifacient properties). Use cautiously in autoimmune conditions.
+have abortifacient properties). Use cautiously in [[cannabis-autoimmune-conditions-detailed]].
 May interact with thyroid medications, sedatives, and immunosuppressants.
 
 ## Subtropical Cultivation
@@ -71,7 +72,7 @@ Ashwagandha is adapted to hot, dry conditions and is relatively easy to grow
 in warm climates:
 - Temperature: 68-95 degrees F ideal; tolerates high heat
 - Frost sensitivity: Killed by frost; requires a long, warm growing season
-- Drought tolerance: Excellent once established; prefers dry conditions
+- [[dighton-fungal-drought-tolerance-plant-water-relations]]: Excellent once established; prefers dry conditions
   over wet ones
 - Day length: Short-day plant; flowers initiate as days shorten in fall
 - Growing season: 150-180 days for maximum root size and withanolide content
@@ -80,7 +81,7 @@ in warm climates:
 Ashwagandha thrives in sandy, well-drained soil with low to moderate
 fertility. It actually performs poorly in rich, heavy, or waterlogged soils.
 A sandy loam with a pH of 6.5-7.5 is ideal. Prepare beds by loosening soil
-to a depth of 12-18 inches and removing rocks. Minimal organic amendments
+to a depth of 12-18 inches and removing rocks. Minimal [[cervantes-organic-amendments-chart]]
 are needed -- a light application of compost is sufficient. Excessive
 nitrogen produces lush foliage at the expense of root development.
 
@@ -93,7 +94,7 @@ From seed (primary method):
 - Germination: 10-21 days at 70-80 degrees F
 - Keep soil consistently moist but not wet during germination
 - Transplant seedlings when 3-4 inches tall
-- Direct seeding is possible in warm zones (sow after soil has warmed to
+- [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] is possible in warm zones (sow after soil has warmed to
   70+ degrees F)
 
 From cuttings: Softwood cuttings root in warm, humid conditions but seed
@@ -137,43 +138,6 @@ Harvesting method:
 2. Dig a trench 12-18 inches deep around the plant, starting 8-10 inches
    from the crown
 3. Work under the root mass with a digging fork
-4. Lift the entire taproot carefully; the root can extend 2+ feet deep
-5. Avoid breaking the root; handle gently
-6. Shake off loose soil; do not wash until ready to process
-
-## Processing and Storage
-
-- Wash roots thoroughly, removing all soil
-- Cut larger roots into 1/4-1/2 inch pieces for faster drying
-- Dry on screens at 95-105 degrees F with good air circulation
-- Roots are fully dry when they snap with no flexible center (5-14 days
-  depending on thickness)
-- Powder dried roots in a blender or spice mill
-- Store powder or dried pieces in airtight containers in a cool, dark place
-- Potency lasts 1-2 years
-
-Traditional Ayurvedic preparation:
-- Mix 1/2 teaspoon ashwagandha powder in a cup of warm milk
-- Add 1/2 teaspoon ghee and honey to taste
-- Drink before bed for sleep and stress support
-
-## Pests and Diseases
-
-Ashwagandha is relatively pest-free due to its pungent compounds. Watch for:
-- Root rot: Caused by overwatering or poor drainage; prevent by ensuring
-  well-drained soil and moderate watering
-- Aphids: Occasionally on new growth; spray with water or insecticidal soap
-- Spider mites: In hot, dry conditions; increase humidity around plants
-- Fusarium wilt: Practice crop rotation; avoid planting in soil where other
-  Solanaceae family members have had disease issues
-
-## Yields
-
-Under good conditions, expect:
-- Fresh root weight: 0.5-1.5 lbs per plant
-- Dried root weight: 0.15-0.5 lbs per plant
-- Approximately 3-5 lbs of dried root per 10-foot row
-
 ## See Also
 
 - [[turmeric-growing-guide]] -- another subtropical medicinal root crop with

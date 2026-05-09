@@ -28,14 +28,14 @@ temperate zones, with species adapted to remarkably diverse ecological niches.
 ## Europe
 
 Europe possesses a flourishing psychotropic mycoflora similar to those found
-in other countries. Psilocybe semilanceata is the most important psilocybin-
+in other countries. [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] is the most important psilocybin-
 containing mushroom in Europe, growing abundantly across the Welsh
 countryside during fall season and found throughout much of the continent.
 It is also common in Norway, Germany, Austria, and the Alpine regions.
 
 Historical evidence suggests early European cultures possessed knowledge of
 psychoactive mushrooms that was lost or destroyed, probably several hundred
-years ago. The discovery that Amanita muscaria was used in Siberia led to
+years ago. The discovery that [[allegro-amanita-muscaria-properties-and-pharmacology]] was used in Siberia led to
 the assumption that it was also used in medieval Europe, but there is little
 evidence from the Middle Ages to support this. The potent hallucinogenic
 effects of specific Psilocybe species likely had a much more significant
@@ -49,7 +49,7 @@ northern Italy had unusually intense witch persecutions, yet field research
 shows that nightshade plants do not grow at those altitudes and Amanita
 muscaria is rarely found there. However, pastures in the area abound with
 Psilocybe semilanceata during fall, suggesting these mushrooms played a role
-in medieval European mushroom cults.
+in [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] mushroom cults.
 
 Written reports about psychotropic mushrooms date to the late Middle Ages.
 The physician Clusius (1525-1609) discovered "bolond gomba" (fool's
@@ -99,10 +99,10 @@ continent, from North African regions to sub-Saharan communities.
 The distribution of knowledge about psychoactive mushrooms across cultures
 is heavily influenced by the distinction between mycophilia (love of
 mushrooms) and mycophobia (fear of mushrooms). These terms, introduced by
-R.G. Wasson, describe the deep cultural attitudes that determine whether a
+R.G. Wasson, describe the deep [[weil-cultural-attitudes-toward-altered-states]] that determine whether a
 society explores or suppresses knowledge of psychoactive fungi.
 
-In Europe, symptoms of mushroom intoxication have always been compared to
+In Europe, symptoms of [[panaeolus-mushroom-intoxication-history]] have always been compared to
 mental illness. The label "fool's mushroom" first appeared during the 1930s,
 along with "Mexican mushroom of insanity." The current socio-political
 climate remains strongly biased against newly discovered hallucinogens,
@@ -112,7 +112,7 @@ for human subjects under controlled experimental conditions.
 
 ## Urban Adaptation
 
-A remarkable aspect of psilocybin mushroom distribution is their adaptation
+A remarkable aspect of psilocybin [[psilocybin-mushroom-distribution-worldwide]] is their adaptation
 to human-altered environments. The use of decorative wood chips for
 landscaping has created ideal habitats for many psilocybin species worldwide.
 As this landscaping practice spread from the Pacific Northwest to cities
@@ -123,5 +123,5 @@ successful fungi in colonizing urban environments.
 
 - [[psilocybin-mushroom-species-identification]]
 - [[teonanacatl-history]]
-- [[allen-magic-mushrooms-australia-newzealand-species-guide]]
-- [[sterile-technique-mushroom-cultivation]]
+- allen-magic-mushrooms-australia-newzealand-species-guide
+- [[mushroom-cultivation-sterile-technique]]

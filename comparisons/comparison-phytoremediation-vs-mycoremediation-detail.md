@@ -1,5 +1,5 @@
 ---
-title: "Phytoremediation vs Mycoremediation"
+title: "comparison phytoremediation vs mycoremediation detail"
 created: 2026-04-28
 tags: [comparison, bioremediation, phytoremediation, mycoremediation, ecology]
 date: 2026-04-25
@@ -20,8 +20,7 @@ alternatives to conventional excavation and chemical treatment, but they
 operate through different biological mechanisms and are suited to different
 types of contamination and site conditions.
 
-## Phytoremediation
-[[cotter-mycoremediation-overview]]
+## P
 Mycoremediation uses fungi, specifically mushrooms and their mycelial
 networks, to break down environmental pollutants. From Cotter's "Organic
 Mushroom Farming and Mycoremediation," the approach has proven effective
@@ -34,14 +33,14 @@ A unique advantage of mycoremediation is that fungi are extracellular chemical
 catalysts. Unlike bacteria, which must come into direct contact with
 contaminants, fungal enzymes begin metabolic work ahead of the advancing
 mycelium and can degrade compounds without the fungal body needing to be
-present. Mycelial networks can penetrate dense materials like wood, soil
-aggregates, and even some building materials, reaching contaminants that are
+present. [[fungal-mycelial-networks-nutrient-translocation]] can penetrate dense materials like wood, soil
+aggregates, and even some [[natural-building-materials-guide]], reaching contaminants that are
 physically inaccessible to plant roots. The mycelium "swims through its own
 fluids," dissolving materials for absorption through cell walls.
 Mycoremediation addresses two main pollution categories. For microbial
 contaminants (fecal coliforms, pathogens), fungi disrupt replication, erode
 cell membranes, enforce species exclusion by occupying territory, and alter
-chemical gradients like pH and nutrient availability. For chemical
+chemical gradients like pH and [[ph-and-nutrient-availability-garden-soils]]. For chemical
 contaminants (herbicides, pesticides, hydrocarbons, dyes), fungal enzymes
 cleave molecules into progressively smaller units degraded by successive
 organisms. Cotter emphasizes that mycoremediation should not be used as a
@@ -68,7 +67,7 @@ and prototyping.
 ## When to Choose Phytoremediation
 Phytoremediation is the better choice for sites contaminated primarily with
 heavy metals, where the uptake mechanisms of hyperaccumulator plants have no
-parallel in fungal remediation. It is ideal for large, shallow contamination
+parallel in [[cotter-pet-livestock-waste-fungal-remediation-systems]]. It is ideal for large, shallow contamination
 plumes where the visual monitoring of plant health provides easy progress
 assessment. Phytoremediation works well for riparian zones, constructed
 wetlands, and water treatment applications where aquatic plants can filter
@@ -90,7 +89,7 @@ sources.
 
 ## Combining Both Approaches
 The most effective remediation strategies often combine phytoremediation and
-mycoremediation in integrated treatment systems. Mycorrhizal fungi associated
+mycoremediation in integrated treatment systems. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] associated
 with plant roots can extend the effective treatment zone beyond the root zone
 alone, combining the extraction capacity of plants with the enzymatic power of
 fungi. Contaminated sites can be treated with fungal inoculation first to

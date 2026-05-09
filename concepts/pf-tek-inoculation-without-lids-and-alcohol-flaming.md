@@ -1,5 +1,5 @@
 ---
-title: PF Tek Inoculation Without Lids and Alcohol Flaming Technique
+title: PF pf-tek-inoculation-technique-and-syringe-management Without Lids and pf-tek-alcohol-flaming-sterilization-method Technique
 created: 2026-04-28
 tags:
   - pf-tek
@@ -21,7 +21,7 @@ type: concept
 
 ## Overview
 
-Two important yet often overlooked aspects of the PF Tek are the inoculation-without-lids technique (for use with drinking glasses) and the alcohol flaming sterilization method. Both were developed by Psylocybe Fanaticus as practical solutions to common home cultivation challenges, reducing the need for specialized equipment while maintaining sterility.
+Two important yet often overlooked aspects of the PF Tek are the inoculation-without-lids technique (for use with drinking glasses) and the alcohol flaming sterilization method. Both were developed by Psylocybe Fanaticus as practical solutions to common [[mushroom-home-cultivation-history]] challenges, reducing the need for specialized equipment while maintaining sterility.
 
 ## Inoculation Without Lids
 
@@ -29,7 +29,7 @@ Two important yet often overlooked aspects of the PF Tek are the inoculation-wit
 
 The standard PF Tek uses half-pint canning jars with modified lids (four holes punched through the rubberized sealing edge). However, suitable jars may not always be available, and standard 8-ounce (250 ml) tapered-sided drinking glasses work as substitutes. Since drinking glasses have no lids, an alternative inoculation method is needed.
 
-The dry vermiculite contaminant barrier at the top of the substrate is the key innovation that makes lidless inoculation possible.
+The [[pf-tek-dry-vermiculite-contaminant-barrier]] contaminant barrier at the top of the substrate is the key innovation that makes lidless inoculation possible.
 
 ### Prerequisites
 
@@ -41,7 +41,7 @@ The critical protection in lidless inoculation is the 1/2 to 3/4 inch layer of p
 
 1. **Contaminant barrier**: Protects the wet substrate from airborne contaminants during sterilization, cooling, and inoculation
 2. **Moisture regulation**: Absorbs and regulates moisture transpiration and condensation within the jar
-3. **Non-nutritive**: Contains no brown rice powder, so any contaminants that land on it cannot easily propagate
+3. **Non-nutritive**: Contains no [[cho-brown-rice-vinegar-preparation]] powder, so any contaminants that land on it cannot easily propagate
 
 ### Procedure
 
@@ -64,7 +64,7 @@ Sterilizing metal tools (especially syringe needles) between inoculations or aft
 ### Equipment
 
 - Tequila shot glass (inverted, to hold the fuel)
-- Denatured alcohol fuel (available at hardware stores)
+- Denatured [[permaculture-on-farm-alcohol-fuel-production]] (available at hardware stores)
 - An eyedropper for dispensing fuel
 - A match or lighter for ignition
 

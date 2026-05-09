@@ -1,27 +1,28 @@
 ---
-title: Mycorrhizal Inoculation Guide
+title: teaming-with-fungi-mycorrhizal-inoculation-techniques Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycorrhizae, inoculation, agriculture, cultivation, soil, biology, plants, organic, gardening, fertility]
-sources: []
+sources:
+  sources: []
 ---
 
 # Mycorrhizal Inoculation Guide
 
 ## Overview
 
-Mycorrhizal inoculation involves introducing beneficial mycorrhizal fungi to plant root zones to improve nutrient uptake, disease resistance, and overall plant health. This guide covers commercial products, application methods, effectiveness data, and crop specificity. See [[glomeromycota-arbuscular-mycorrhizae]] for the science behind arbuscular mycorrhizal fungi, and [[fungal-symbiosis-types]] for the broader context of fungal symbiosis.
+Mycorrhizal inoculation involves introducing beneficial mycorrhizal fungi to plant root zones to improve nutrient uptake, disease resistance, and overall plant health. This guide covers commercial products, application methods, effectiveness data, and crop specificity. See [[glomeromycota-arbuscular-mycorrhizae]] for the science behind [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi, and [[fungal-symbiosis-types]] for the broader context of fungal symbiosis.
 
 ## Why Inoculate?
 
-Benefits of mycorrhizal colonization:
+Benefits of [[arbuscular-mycorrhizal-colonization-patterns]]:
 - Increased phosphorus uptake (30-80% improvement in P acquisition)
 - Enhanced micronutrient uptake (zinc, copper, manganese)
-- Improved drought tolerance through extended hyphal networks
+- Improved [[dighton-fungal-drought-tolerance-plant-water-relations]] through extended hyphal networks
 - Protection against soil-borne pathogens
 - Improved soil structure through glomalin production
-- Enhanced nitrogen fixation when paired with rhizobia
+- Enhanced [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] when paired with rhizobia
 
 ## Types of Inoculant
 
@@ -35,7 +36,7 @@ Benefits of mycorrhizal colonization:
 
 - Used for tree seedlings, especially conifers, oaks, and other forest trees
 - Genera: Pisolithus (common in commercial products), Laccaria, Suillus, Rhizopogon
-- Applied primarily in forestry, reforestation, and orchard establishment
+- Applied primarily in forestry, reforestation, and [[fukuoka-citrus-orchard-establishment-bare-hillside]]
 
 ### Endomycorrhizal Products
 
@@ -139,27 +140,6 @@ Best for: bareroot transplants, tree seedlings
 
 - Brassica family (cabbage, broccoli, cauliflower, radish, kale)
 - Chenopodium family (spinach, beet, quinoa)
-- Polygonum (buckwheat)
-- Some sedges (Cyperaceae)
-
-### ECM-Dependent Crops
-
-- Pines, spruces, firs (conifers)
-- Oaks, beech, birch
-- Eucalyptus
-- Pecan, hazelnut
-- Truffle-producing trees (oak, hazel)
-
-## Best Practices
-
-1. Apply at planting time for best colonization
-2. Reduce or eliminate soluble phosphorus fertilizers
-3. Use diverse AMF products when possible
-4. Minimize soil disturbance after inoculation
-5. Maintain soil organic matter to support fungal survival
-6. Avoid broad-spectrum fungicides near inoculated plants
-7. Monitor colonization (root staining) to verify effectiveness
-
 ## See Also
 
 - [[glomeromycota-arbuscular-mycorrhizae]] — AMF biology and colonization process

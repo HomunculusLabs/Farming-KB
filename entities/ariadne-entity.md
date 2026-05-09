@@ -10,9 +10,9 @@ sources: []
 
 ARIADNE (4-Methyl-2,5-dimethoxymethamphetamine; DMMDMA) is a psychedelic amphetamine that is the N-methyl homologue of dom-entity|DOM.
 
-It is documented as entry #99 in PiHKAL by [[mdma]]|MDMA is an exception to this pattern, where the N-methyl compound actually has different (not necessarily reduced) activity.
+It is documented as entry #99 in PiHKAL by mdma|MDMA is an exception to this pattern, where the N-methyl compound actually has different (not necessarily reduced) activity.
 
-The general principle suggests that the primary amine is preferred at the serotonin receptor binding site responsible for psychedelic effects.
+The general principle suggests that the primary amine is preferred at the serotonin [[tihkal-receptor-binding-serotonin]] site responsible for psychedelic effects.
 
 ## Synthesis
 
@@ -48,7 +48,7 @@ ARIADNE's shorter duration is also an advantage for users seeking a more managea
 
 ARIADNE is likely controlled as an N-methyl homologue of dom-entity|DOM in most jurisdictions.
 
-In the United States, it would fall under analogue drug legislation or specific scheduling of DOM homologues.
+In the [[dmt-containing-plants-united-states-halpern]], it would fall under analogue drug legislation or specific scheduling of DOM homologues.
 
 The compound has never been widely available outside of research settings.
 
@@ -87,4 +87,5 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[ariadne-entity-pihkal]]

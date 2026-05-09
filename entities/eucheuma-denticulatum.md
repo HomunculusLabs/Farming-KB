@@ -32,7 +32,7 @@ Color ranges from greenish-brown to dark reddish-purple depending on light expos
 
 The internal anatomy shows a central medulla of large parenchymatous cells surrounded by a cortical layer of smaller, densely pigmented cells.
 
-Reproduction occurs primarily through vegetative fragmentation, which is the basis for commercial propagation methods.
+Reproduction occurs primarily through vegetative fragmentation, which is the basis for commercial [[vegetative-propagation-methods-mollison]].
 
 ## Distribution and Habitat
 
@@ -50,7 +50,7 @@ The standard method uses the off-bottom monoline technique, where vegetative fra
 
 Floating raft and basket methods are also employed in deeper or more exposed sites. Harvest cycles range from 45 to 60 days depending on local conditions.
 
-Disease outbreaks caused by "ice-ice" syndrome (a bacterial infection triggered by environmental stress) remain the primary production constraint. Annual global production exceeds 150,000 tonnes dry weight.
+Disease outbreaks caused by "ice-ice" syndrome (a bacterial infection triggered by environmental stress) remain the [[lichens-primary-production-soil-formation-dighton]] constraint. Annual global production exceeds 150,000 tonnes dry weight.
 
 ### Post-Harvest Processing
 
@@ -68,7 +68,7 @@ Iota-carrageenan from *E. denticulatum* typically constitutes 55–70% of the dr
 
 The gel properties of iota-carrageenan differ from kappa-carrageenan: iota gels are more flexible, less prone to syneresis, and thermo-reversible without potassium addition.
 
-Additional bioactive compounds include mycosporine-like amino acids (UV-absorbing), halogenated compounds with antimicrobial activity, and dietary fiber fractions with prebiotic potential.
+Additional [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include mycosporine-like amino acids (UV-absorbing), halogenated compounds with antimicrobial activity, and dietary fiber fractions with prebiotic potential.
 
 ## Economic Importance
 
@@ -78,7 +78,7 @@ The pharmaceutical industry uses iota-carrageenan in drug delivery systems, woun
 
 Seaweed farming of *E. denticulatum* provides critical livelihood support for coastal communities in the Philippines, Indonesia, Tanzania, and Madagascar.
 
-The species contributes to marine ecosystem services including carbon sequestration, nutrient cycling, and habitat provision for fish and invertebrates in farming areas.
+The species contributes to marine [[biodiversity-of-fungi-ecosystem-services-agriculture]] including carbon sequestration, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and habitat provision for fish and invertebrates in farming areas.
 
 Market prices for dried *E. denticulatum* fluctuate with global carrageenan demand, weather-related supply disruptions, and competition from synthetic hydrocolloid alternatives.
 
@@ -88,7 +88,7 @@ Market prices for dried *E. denticulatum* fluctuate with global carrageenan dema
 
 The species absorbs dissolved inorganic nitrogen and phosphorus from surrounding water, contributing to nutrient remediation in coastal zones affected by agricultural runoff or aquaculture waste.
 
-However, large-scale monoculture operations can alter benthic community composition through shading, reduced water flow, and organic enrichment beneath farm structures.
+However, large-scale monoculture operations can alter benthic [[core-endorhiza-bacterial-community-composition-cannabis]] through shading, reduced water flow, and organic enrichment beneath farm structures.
 
 Epiphytic colonization by filamentous algae and bryozoans is common and can reduce growth rates and carrageenan quality if not managed through appropriate stocking densities and harvest timing.
 
@@ -112,4 +112,4 @@ Vegetative propagation in commercial settings bypasses the sexual cycle entirely
 - [[undaria-pinnatifida]]
 - [[laminaria-digitata]]
 - [[ingham-seaweed-sea-minerals-compost-tea]]
-- [[agar]]
+- agar

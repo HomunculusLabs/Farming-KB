@@ -1,5 +1,5 @@
 ---
-title: Cuthill and 19th-Century Mushroom Cultivation History
+title: Cuthill and 19th-Century accessible-mushroom-cultivation-for-disabilities History
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -48,7 +48,7 @@ Cuthill himself claimed several innovations:
 - An early idea for the "orchard house" (glass-covered kitchen
   gardens), published in the Gardeners' Chronicle years before
   commercial orchard houses appeared.
-- A method of growing mushrooms through summer by covering beds with
+- A method of [[falconer-growing-mushrooms-in-sheds]] through summer by covering beds with
   straw and watering nightly to keep the surface cool, preventing
   maggot infestation.
 - A technique of spawning beds while heat was still at 100 degrees

@@ -1,5 +1,5 @@
 ---
-title: Disappearance of the Village Philosophy
+title: Disappearance of the [[fukuoka-textdoc-absence-no-fertilizer-tests]] village philosophy disappearance
 created: 2026-04-28
 tags: [japanese-agriculture, village-culture, modernization, philosophy, mu]
 date: 2026-04-28
@@ -11,7 +11,7 @@ type: concept
 
 # Disappearance of the Village Philosophy
 
-Masanobu Fukuoka documents the loss of traditional farming village culture in
+[[masanobu-fukuoka]] documents the loss of traditional farming village culture in
 Japan, describing how the mechanization and systematization of agriculture
 extinguished an ancient way of life rooted in [[fukuoka-breakdown-japanese-agriculture]] and the broader critique of
 [[fukuoka-breakdown-japanese-agriculture]]
@@ -67,7 +67,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -145,4 +145,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

@@ -1,22 +1,22 @@
 ---
-title: Cannabis Guerrilla Growing Guide
+title: Cannabis cannabis guerrilla growing guide Guide
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 
 # Cannabis Guerrilla Growing Guide
 
-Guerrilla growing is the practice of cultivating cannabis in remote, concealed outdoor locations away from the grower's home. This method allows growers in restrictive jurisdictions or those without suitable home growing space to produce crops outdoors. Success depends heavily on site selection, security, timing, and the ability to minimize visits to the grow site.
+Guerrilla growing is the practice of cultivating cannabis in remote, concealed outdoor locations away from the grower's home. This method allows growers in restrictive jurisdictions or those without suitable home [[cotter-growing-space-design-fruiting-rooms]] to produce crops outdoors. Success depends heavily on [[fukuoka-creating-natural-farm-site-selection-establishment]], security, timing, and the ability to minimize visits to the grow site.
 
 See [[cannabis-seed-germination-methods]] for starting plants, and [[cannabis-autoflower-guide]] begin flowering based on age rather than light cycle, which can simplify outdoor timing but typically produces smaller plants.
 
 ## Soil Preparation
 
-If the native soil is poor, it can be amended by digging holes and filling them with a prepared soil mix. A simple guerrilla soil mix combines bagged potting soil with perlite for drainage and a slow-release organic fertilizer. The amended soil should be prepared before the plants are transported to the site.
+If the native soil is poor, it can be amended by digging holes and filling them with a prepared soil mix. A simple guerrilla soil mix combines bagged potting soil with perlite for drainage and a slow-release [[complete-organic-fertilizer-cof-recipe-solomon]]. The amended soil should be prepared before the plants are transported to the site.
 
 Digging large holes and importing soil is labor-intensive and increases the number of trips to the site. Some growers prefer to start plants in large pots that can be placed directly into holes at the site, reducing the need for extensive soil work. The pots can be camouflaged with natural materials.
 
@@ -30,7 +30,7 @@ Water-absorbing polymers (hydrogel crystals) mixed into the soil at planting tim
 
 Guerrilla plants are particularly vulnerable to animal predators because they cannot be monitored daily. Wire mesh fences around individual plants protect against rabbits and woodchucks. Predator urine applied around the perimeter deters deer. Planting marigolds near the cannabis plants is a traditional deterrent for some animal pests.
 
-Slug and snail control can be achieved by creating circles of table salt around the base of plants, though this must be reapplied after rain. See cannabis pest management for comprehensive pest identification and control methods.
+[[hamilton-slug-and-snail-control]] control can be achieved by creating circles of table salt around the base of plants, though this must be reapplied after rain. See cannabis pest management for comprehensive pest identification and control methods.
 
 ## Strain Selection for Guerrilla Growing
 
@@ -62,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -104,4 +104,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

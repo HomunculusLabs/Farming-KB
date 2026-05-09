@@ -1,5 +1,5 @@
 ---
-title: Shamanic Healing Variants And Divination
+title: Shamanic shamanic healing variants and divination And Divination
 created: 2026-05-05
 updated: 2026-05-05
 type: concept
@@ -15,12 +15,12 @@ Shamanic healing practices with hallucinogenic plants across diverse indigenous
 cultures share common structural features while varying in specific methods,
 plant medicines, and ceremonial forms. [[set-and-setting]], and the potential for healing and
 transformation, but they operate within fundamentally different paradigms of
-what illness is and how healing occurs. William James, after his personal
+what illness is and how healing occurs. [[metzner-william-james-radical-empiricism-multiple-consciousness]], after his personal
 research with [[amazonian-plant-teachers-doctores]]
 - [[metzner-shamanic-healing-divination-worldview]] 156|
-- [Iboga and the Bwiti Cult Initiation](iboga-and-the-bwiti-cult-initiation.md)
+- [Iboga and the [[iboga-and-the-bwiti-cult-initiation]] Initiation](iboga-and-the-bwiti-cult-initiation.md)
 - [Metzner Shamanic Healing Divination Worldview](metzner-shamanic-healing-divination-worldview.md)
-- [Metzner Spirit Beings Multiple Realities Entheogens]([[metzner-spirit-beings-multiple-realities-entheogens]].md)
+- [Metzner [[metzner-spirit-beings-multiple-realities-entheogens]] Multiple Realities Entheogens]([[metzner-spirit-beings-multiple-realities-entheogens]].md)
 - [Plant Teachers Ayahuasca]([[plant-teachers-ayahuasca]].md)
 - [Amazonian Plant Teachers Doctores](amazonian-plant-teachers-doctores.md)
 ## Practical Applications
@@ -100,4 +100,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

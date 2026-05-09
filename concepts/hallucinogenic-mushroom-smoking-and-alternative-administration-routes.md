@@ -1,5 +1,5 @@
 ---
-title: Hallucinogenic Mushroom Smoking and Alternative Administration Routes
+title: emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative Smoking and Alternative Administration Routes
 created: 2026-05-06
 tags:
 type: concept
@@ -21,7 +21,7 @@ sources:
 
 ## Overview
 
-While oral ingestion (chewing raw or dried mushrooms, or brewing them into tea) is the predominant route of administration for hallucinogenic mushrooms, user reports documented on internet platforms describe alternative methods including smoking dried mushrooms and, in rare cases, intravenous injection of mushroom extracts. These alternative routes carry distinct pharmacological implications, risk profiles, and efficacy considerations that differ significantly from standard oral consumption. The existence of these alternative administration methods highlights the diversity of user practices and the importance of harm reduction messaging that addresses the full spectrum of consumption methods.
+While oral ingestion (chewing raw or dried mushrooms, or brewing them into tea) is the predominant route of administration for [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]], user reports documented on internet platforms describe alternative methods including smoking dried mushrooms and, in rare cases, intravenous injection of mushroom extracts. These alternative routes carry distinct pharmacological implications, risk profiles, and efficacy considerations that differ significantly from standard oral consumption. The existence of these alternative [[cannabis-administration-methods-comparison]] highlights the diversity of user practices and the importance of harm reduction messaging that addresses the full spectrum of consumption methods.
 
 ## Standard Oral Administration
 
@@ -55,7 +55,7 @@ The Shroomery report referencing this practice noted that it was described in th
 
 ## Mushroom Potency and Dose Variability
 
-Understanding the risks of alternative administration routes requires appreciation of the inherent variability in mushroom potency. Potency depends on the species or variety used, their origin, growing conditions, and age. The most potent species (such as Psilocybe semilanceata) could contain up to 1% psilocybin, with some specific species (such as Psilocybe azurescens and Psilocybe bohemica) reported to have even higher concentrations. In other species (Psilocybe cubensis), psilocybin and psilocin could be present in up to 0.6% concentration.
+Understanding the risks of alternative administration routes requires appreciation of the inherent variability in mushroom potency. Potency depends on the species or variety used, their origin, growing conditions, and age. The most potent species (such as [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]) could contain up to 1% psilocybin, with some specific species (such as Psilocybe azurescens and Psilocybe bohemica) reported to have even higher concentrations. In other species (Psilocybe cubensis), psilocybin and psilocin could be present in up to 0.6% concentration.
 
 This variability means that any given batch of mushrooms may contain substantially more or less active compound than expected. With oral administration, this variability is partially mitigated by the body's gradual absorption processes. With intravenous administration, however, the full dose is delivered essentially instantaneously, meaning that unexpectedly potent mushroom material could produce overwhelming psychoactive effects with no opportunity for dose adjustment or discontinuation.
 
@@ -77,7 +77,7 @@ The faster onset and higher peak plasma concentrations associated with smoking o
 
 In addition to the psychological risks, the physiological effects of hallucinogenic mushrooms include dizziness, nausea, weakness, muscle aching, shivering, abdominal pain, dilation of pupils (mydriasis), mild-to-moderate increase in heart rate and breathing (tachycardia, tachypnea), and elevation of blood pressure. Generally body temperature remains normal, but pronounced physical symptoms such as severe stomach pain, persistent vomiting, and diarrhoea have been recorded.
 
-The tendency for temporarily increased blood pressure may be a particular risk factor for users with cardiovascular conditions, especially untreated hypertension. This risk is documented in clinical research by Hasler et al (2004), who conducted a double-blind, placebo-controlled dose-effect study of psilocybin in healthy humans. The cardiovascular effects of psilocybin, combined with the rapid onset and potentially higher peak plasma concentrations associated with intravenous administration, create an elevated risk profile for individuals with pre-existing cardiovascular conditions.
+The tendency for temporarily increased blood pressure may be a particular risk factor for users with cardiovascular conditions, especially untreated hypertension. This risk is documented in [[hofmann-lsd-clinical-research-early-studies]] by Hasler et al (2004), who conducted a double-blind, placebo-controlled dose-effect study of psilocybin in healthy humans. The cardiovascular effects of psilocybin, combined with the rapid onset and potentially higher peak plasma concentrations associated with intravenous administration, create an elevated risk profile for individuals with pre-existing cardiovascular conditions.
 
 ## Risks of Alternative Administration Routes
 
@@ -86,7 +86,7 @@ The tendency for temporarily increased blood pressure may be a particular risk f
 Smoking dried mushroom material introduces several risk factors beyond those associated with oral consumption:
 
 - **Respiratory harm**: Inhaling combusted fungal material exposes the lungs to particulate matter and potentially harmful combustion byproducts that are not present in oral consumption
-- **Unreliable dosing**: The amount of active compound delivered through smoking is highly variable and essentially impossible to control, as it depends on smoking technique, temperature, and the physical properties of the dried material
+- **Unreliable dosing**: The amount of active compound delivered through smoking is highly variable and essentially impossible to control, as it depends on [[dmt-smoking-technique-and-preparation]], temperature, and the physical properties of the dried material
 - **Thermal destruction**: Heating may degrade active compounds while creating potentially toxic breakdown products that would not be produced through oral consumption
 - **Contaminant exposure**: Mushroom material may harbor mold spores, bacteria, or pesticide residues that become aerosolized during smoking and are delivered directly to lung tissue
 

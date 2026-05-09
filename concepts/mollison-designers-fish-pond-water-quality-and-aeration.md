@@ -1,5 +1,5 @@
 ---
-title: "Fish Pond Water Quality and Aeration Management"
+title: "knf-fish-pond-integration Water Quality and Aeration Management"
 created: 2026-04-26
 tags:
   - aquaculture
@@ -17,7 +17,7 @@ type: concept
 # Fish Pond Water Quality and Aeration Management
 
 Water quality is the single most critical factor determining
-the success of [[mollison-aquatic-polyculture-systems]]
+the success of mollison-aquatic-polyculture-systems
 or becomes a stagnant, fish-killing environment.
 
 ## Dissolved Oxygen: The Critical Parameter
@@ -88,7 +88,7 @@ for most fish are pH 3.7 (acid) and 10.5 (alkaline).
 Ponds in areas of peats, mangroves, cordgrass flats,
 samphires, and with water derived from heaths and
 granites or siliceous soils can be very acid (pH 4.0 or
-less). The acids include humic acids, tannins, and minor
+less). The acids include [[humic-acids-soil-biology-ingham]], tannins, and minor
 organic acids. Hydrogen sulphide may also be released by
 ponded peats or swamps to create sulphuric acid.
 
@@ -120,4 +120,7 @@ years of liming and management effort.
 Temperatures in rice pond water may reach 34 degrees C,
 ## See Also
 
-- [[mckenna-ambience-of-intoxication-and-fish-in-water]]
+- mckenna-ambience-of-intoxication-and-fish-in-water
+- [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]]
+- [[mollison-designers-rice-paddy-integrated-duck-fish]]
+- [[mollison-designers-soil-water-storage-in-forest-systems]]

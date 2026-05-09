@@ -40,7 +40,7 @@ The hyphal system is dimitic, with generative hyphae bearing clamp connections a
 
 ## Distribution and Habitat
 
-W. cocos is found across subtropical and temperate regions worldwide. Its distribution spans much of East Asia (China, Japan, Korea), southeastern North America, and parts of Central America. In China, the primary production areas are in Yunnan, Guizhou, Hubei, Anhui, and Zhejiang provinces.
+W. cocos is found across subtropical and temperate regions worldwide. Its distribution spans much of East Asia (China, Japan, Korea), southeastern North America, and parts of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. In China, the [[lichens-primary-production-soil-formation-dighton]] areas are in Yunnan, Guizhou, Hubei, Anhui, and Zhejiang provinces.
 
 The fungus is an obligate parasite and saprotroph on coniferous wood, showing strong preference for **Pinus massoniana** and **Pinus yunnanensis** in China, and various hard pines in the southeastern United States. It colonizes roots and extends into heartwood, causing a characteristic brown rot that leaves the remaining wood brittle and blocky.
 
@@ -84,7 +84,7 @@ Mineral analysis reveals significant potassium, magnesium, and calcium content. 
 
 W. cocos functions as a primary brown-rot decomposer in coniferous forest ecosystems. Its enzymatic system selectively degrades cellulose and hemicellulose while leaving lignin largely intact, producing the characteristic brown, cubical wood residue of brown rot.
 
-The fungus plays a role in forest nutrient cycling by mobilizing carbon and minerals from dead and dying pine roots. Its extensive underground mycelial network connects multiple host trees and can influence soil microbial community structure.
+The fungus plays a role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by mobilizing carbon and minerals from dead and dying pine roots. Its extensive underground [[gadd-mycelial-network-dynamics]] connects multiple host trees and can influence soil [[edaphic-factors-microbial-community-structure]] structure.
 
 In its native range, W. cocos is parasitic on living pines, contributing to root disease complexes. However, its economic and ecological impact as a pathogen is considered minor compared to other root rot fungi such as Armillaria mellea and Heterobasidion annosum.
 
@@ -102,9 +102,11 @@ The sclerotium holds cultural significance beyond medicine. In Chinese folklore,
 
 **Pachyma hoelen** Rumph. is a historical name referring to the sclerotium itself rather than the fungal species. This nomenclature persists in older pharmacopoeias and ethnobotanical literature.
 
-**Laetiporus sulphureus** and **Grifola frondosa** are ecologically distant polypores also used medicinally, sharing some immunomodulatory triterpenoid constituents but differing significantly in chemistry and clinical applications.
+**Laetiporus sulphureus** and **[[maitake-grifola-frondosa-comprehensive-profile]]** are ecologically distant polypores also used medicinally, sharing some immunomodulatory triterpenoid constituents but differing significantly in chemistry and clinical applications.
 
 ## See Also
+
+- [[cocos-nucifera]]
 
 - [[wolfiporia-extensa]]
 - [[trametes-versicolor-entity]]

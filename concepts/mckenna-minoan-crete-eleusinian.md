@@ -1,5 +1,5 @@
 ---
-title: Minoan Crete and the Eleusinian Mystery
+title: Minoan Crete and the mckenna-eleusinian-mystery-and-psychedelic-sacrament
 source: mckenna_t-food_of_the_gods.md
 author: Terence McKenna
 chapter: 8 - Twilight in Eden
@@ -11,15 +11,15 @@ tags: [mckenna, minoan, crete, eleusinian, kykeon, ergot, dionysus, psychedelic]
 In Chapter 8 of *Food of the Gods*, McKenna examines two of the
 most important examples of psychedelic plant use in ancient
 Mediterranean civilization: the Minoan culture of Crete and the
-Eleusinian Mysteries of ancient Greece. He argues that both
-represent remnants of the partnership society's plant-based
+[[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] of ancient Greece. He argues that both
+represent remnants of the [[mckenna-dominator-vs-partnership-society-model]]'s plant-based
 spirituality, gradually being suppressed by the rising dominator
 culture.
 
 ## Abandonment of the Mystery
 
 McKenna opens by noting the progressive abandonment of direct
-psychedelic experience as a source of religious authority in the
+[[leary-psychedelic-experience-bardo-mapping]] as a source of religious authority in the
 ancient world. The transition from partnership to dominator culture
 involved the systematic replacement of experiential religion with
 dogmatic religion — from direct encounter with the divine through
@@ -109,13 +109,13 @@ beverage consumed by initiates — contained a psychoactive ingredient.
 McKenna examines several theories:
 
 **The Ergotized Beer Theory:** The kykeon may have been prepared from
-barley infected with *Claviceps purpurea* (ergot), which contains
+barley infected with *[[bloomfield-ergot-claviceps-purpurea-ergotism]]* (ergot), which contains
 ergotamine — a precursor compound to LSD. Water-soluble ergot
 alkaloids could have been extracted into the kykeon through a simple
 brewing process, producing an LSD-like psychedelic experience.
 
 **Graves's Psilocybin Theory:** Robert Graves proposed that the
-kykeon contained psilocybin mushrooms. While the pharmacology is
+kykeon contained [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]. While the pharmacology is
 more consistent with the reported effects, the identification is
 more speculative since *Psilocybe* species are less reliably found
 in the Attic environment.
@@ -135,6 +135,8 @@ the direct experiential knowledge of the divine was replaced
 entirely by faith-based, authority-mediated Christianity.
 
 ## See Also
+
+- [[mckenna-minoan-crete-eleusinian-mysteries]]
 
 - [[eleusinian-mysteries-kykeon]] - The sacred beverage in detail
 - [[mckenna-habit-culture-religion]] - Partnership vs. dominator model

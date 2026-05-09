@@ -70,7 +70,7 @@ Cultivation of Tylosema esculentum remains experimental, with no established com
 
 Propagation is primarily from seed, though germination is slow and irregular.
 
-Seed dormancy can be broken through mechanical scarification or acid treatment.
+[[mollison-designers-seed-dormancy-and-germination-treatments]] can be broken through mechanical scarification or acid treatment.
 
 Plants require full sun and well-drained sandy soils, replicating their native habitat.
 
@@ -102,9 +102,9 @@ Tylosema esculentum is an ideal candidate for food forests and agroforestry in a
 
 Its deep root system stabilizes sandy soils and reduces wind erosion.
 
-The perennial vine habit provides ground cover, reducing soil surface temperatures.
+The perennial vine habit provides [[fukuoka-citrus-orchard-ground-cover-cultivation]], reducing soil surface temperatures.
 
-It can be intercropped with drought-tolerant fruit trees in desert permaculture designs.
+It can be intercropped with drought-tolerant [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] in desert permaculture designs.
 
 The species requires minimal irrigation once established, making it suited to water-scarce systems.
 

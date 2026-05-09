@@ -26,7 +26,7 @@ The guide distinguishes hallucinogens from other psychoactives: stimulants (caff
 
 Hallucinogenic plants contain active principles from many chemical classes. The guide emphasizes that all share one property: they are **biodynamic** -- affecting normal metabolism of the animal body. Major chemical classes include:
 
-- **Indole alkaloids**: Found in morning glories, ergot, and numerous New World plants (tryptamines, beta-carbolines, harmine, harmaline, DMT, psilocybin, ibogaine)
+- **Indole alkaloids**: Found in [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]], ergot, and numerous New World plants (tryptamines, beta-carbolines, harmine, harmaline, DMT, psilocybin, ibogaine)
 - **Isoquinoline alkaloids**: Present in cactus (mescaline)
 - **Tropane alkaloids**: Characteristic of the nightshade family -- hyoscyamine, scopolamine, atropine (Datura, Belladonna, Henbane, Mandrake)
 - **Dibenzopyran cannabinoids**: Unique to Cannabis
@@ -42,9 +42,9 @@ Schultes organizes the survey geographically, noting that hallucinogenic plants 
 - North America: Amanita muscaria, Datura stramonium, Acorus calamus
 
 **Old World**:
-- Asia: Cannabis, Amanita muscaria, Datura metel, Argyreia nervosa (Hawaiian wood rose), Peganum harmala (Syrian rue), Galbulimima belgraveana, Gymnocranthera
+- Asia: Cannabis, Amanita muscaria, Datura metel, [[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]] (Hawaiian wood rose), [[mckenna-food-gods-peganum-harmala-soma]] (Syrian rue), [[agara-galbulimima-belgraveana-new-guinea-tree]], Gymnocranthera
 - Africa: Tabernanthe iboga (ibogaine), Erythrina, Argyreia
-- Europe: Amanita muscaria, Atropa belladonna, Hyoscyamus niger (henbane), Mandragora officinarum (mandrake), Claviceps purpurea (ergot), Peganum harmala
+- Europe: Amanita muscaria, Atropa belladonna, Hyoscyamus niger (henbane), [[mandrake-mandragora-officinarum-in-european-folklore]] (mandrake), [[bloomfield-ergot-claviceps-purpurea-ergotism]] (ergot), Peganum harmala
 
 ## Historical Overview
 

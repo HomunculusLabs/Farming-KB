@@ -1,9 +1,9 @@
 ---
-title: Psilocybin and Neuroplasticity
+title: psilocybin and Neuroplasticity
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - The Psilocybin Solution by Simon G. Powell
+  - The powell-psilocybin-solution-ecological-cognition-theory by Simon G. Powell
 type: concept
 tags: [psilocybin]
 ---
@@ -28,7 +28,7 @@ The mind is therefore an information-based system constantly re-forming itself (
 
 When psilocybin enters the brain, it dramatically alters the patterns of neuronal firing that constitute normal consciousness. By depressing the inhibitory serotonergic neurons of the raphe system and binding to 5-HT2 receptors throughout the cortex and locus coeruleus, psilocybin releases neuronal systems from their normal homeostatic constraints.
 
-The result is the emergence of novel patterns of neuronal firing -- patterns that do not normally occur in the waking state. These novel patterns are experienced as visionary content, enhanced perception, and altered states of consciousness. But crucially, the exposure to these novel patterns may itself trigger lasting changes in the brain's connectivity.
+The result is the emergence of novel patterns of neuronal firing -- patterns that do not normally occur in the waking state. These novel patterns are experienced as visionary content, enhanced perception, and [[weil-the-natural-mind-altered-states-normalcy]] of consciousness. But crucially, the exposure to these novel patterns may itself trigger lasting changes in the brain's connectivity.
 
 ## The Novel Orchestration of Information
 
@@ -48,9 +48,9 @@ The informational model predicts that the sustained experience of novel neuronal
 
 ## The Evidence for Lasting Change
 
-The 25-year follow-up of the Good Friday experiment provides powerful evidence for lasting neuroplastic changes induced by a single psilocybin experience. The psilocybin group's characterisation of their mystical experiences had actually strengthened (or matured) over the decades. The subjects' personalities, spiritual orientations, and worldviews had been permanently altered by a single exposure to psilocybin-induced novel neuronal firing patterns.
+The 25-year follow-up of the Good Friday experiment provides powerful evidence for lasting neuroplastic changes induced by a single psilocybin experience. The psilocybin group's characterisation of their [[psilocybin-mystical-experiences-personality-change]] had actually strengthened (or matured) over the decades. The subjects' personalities, spiritual orientations, and worldviews had been permanently altered by a single exposure to psilocybin-induced novel neuronal firing patterns.
 
-This permanence is precisely what the informational model of neuroplasticity would predict. Just as a single intense learning experience can permanently alter the brain's connectivity, so too can a single intense psychedelic experience permanently reorganise the brain's informational architecture.
+This permanence is precisely what the informational model of neuroplasticity would predict. Just as a single intense learning experience can permanently alter the brain's connectivity, so too can a single intense [[leary-psychedelic-experience-bardo-mapping]] permanently reorganise the brain's informational architecture.
 
 ## The Waking Dream and Neural Reorganisation
 
@@ -68,11 +68,11 @@ Neuroplasticity is the process by which the informational patterns of the mind a
 
 The neuroplastic effects of psilocybin have profound implications for understanding the nature of consciousness itself. If a single chemical experience can permanently alter the informational architecture of the brain, then consciousness is revealed not as a fixed property but as a dynamic informational process -- one that is fundamentally mutable and responsive to environmental inputs.
 
-This mutability of consciousness, demonstrated so dramatically by psilocybin, suggests that the "normal" state of consciousness is merely one particular configuration of neuronal information among many possible configurations. The neuroplastic potential of the brain means that consciousness can be not merely temporarily altered but permanently transformed.
+This [[powell-mutability-of-consciousness-chemical-lens]], demonstrated so dramatically by psilocybin, suggests that the "normal" state of consciousness is merely one particular configuration of neuronal information among many possible configurations. The neuroplastic potential of the brain means that consciousness can be not merely temporarily altered but permanently transformed.
 
 ## Universal Symbols and Neuroplasticity
 
-The neuroplasticity model also sheds light on the phenomenon of universal visionary symbols. The fact that entheogenic visions are loaded with powerful and often universal symbology might reflect that there are pre-determined ways in which large amounts of neuronal information can be organised and brought together -- that is, integrated. These stable informational configurations may represent attractor states in the brain's dynamic system -- patterns toward which neuronal activity naturally tends under conditions of disinhibition.
+The neuroplasticity model also sheds light on the phenomenon of universal visionary symbols. The fact that entheogenic visions are loaded with powerful and often [[powell-universal-symbology-in-entheogenic-visions]] might reflect that there are pre-determined ways in which large amounts of neuronal information can be organised and brought together -- that is, integrated. These stable informational configurations may represent attractor states in the brain's dynamic system -- patterns toward which neuronal activity naturally tends under conditions of disinhibition.
 
 Such universality might be due to the fact that mythical symbols represent stable, organised concentrations of information produced by the most holistic/integrative type of information processing achieved by the human brain. The symbol embodies a whole set of relations or, to be more specific, it is the point where a huge web of psychological relations converge. The neuroplastic formation of these universal patterns may explain why the same archetypal images appear across cultures and throughout history in psychedelic visions, dreams, and religious experiences.
 

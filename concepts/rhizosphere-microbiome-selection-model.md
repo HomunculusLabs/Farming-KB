@@ -1,5 +1,5 @@
 ---
-title: Rhizosphere Microbiome Selection Model
+title: Rhizosphere rhizosphere microbiome selection model Model
 created: 2026-04-28
 tags: [microbiome, soil-science, plant-biology]
 date: 2026-04-28
@@ -15,7 +15,7 @@ type: concept
 
 The two-tier selection model (also called the two-step selection model) describes
 how plant root microbiomes are assembled through a hierarchical filtering process.
-The model posits that soil edaphic factors first determine the pool of available
+The model posits that soil [[soil-edaphic-factors-microbial-communities]] first determine the pool of available
 microbes in the rhizosphere, and then host plant genotype selects from that pool
 to shape the endorhiza community. This model was proposed based on studies in
 Arabidopsis, poplar, and other plant systems (Bulgarelli et al., 2013; Garbeva
@@ -26,12 +26,12 @@ et al. (2014).
 
 Under the first tier of the model, edaphic factors (soil chemistry and physics)
 determine the structure of the local soil microbiota. These soil microbes become
-the source community for the first bacterial community shift into the nutrient
+the source community for the first [[core-endorhiza-bacterial-community-composition-cannabis]] shift into the nutrient
 rich environment of the rhizosphere. Rhizodeposition, the release of carbon
 compounds from plant roots, enriches certain soil bacteria near the root surface.
 
 In the Winston et al. Cannabis study, soil type was the strongest determinant of
-microbial community composition across all samples. In the pooled analysis:
+[[edaphic-factors-microbial-community-structure]] composition across all samples. In the pooled analysis:
 
 - Soil type: ADONIS R2 = 0.196 (unweighted), R2 = 0.323 (weighted), p = 0.001
 - Sample type: ADONIS R2 = 0.086 (unweighted), R2 = 0.229 (weighted), p = 0.001
@@ -65,7 +65,7 @@ The two-tier model predicts several broad changes in phylum-level taxon
 abundance as microbes shift from bulk soil through rhizosphere to endorhiza:
 
 - **Acidobacteria**: Dramatic reduction within the endosphere. The most
-  significant OTU abundance difference between sample types was the decrease
+  significant [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] difference between sample types was the decrease
   in Acidobacteria from order iii1-15 in endorhiza samples (Bonferroni-
   corrected ANOVA: p = 1.12e-7).
 - **Proteobacteria**: Increase in abundance within the endorhiza. Of 17 OTUs

@@ -23,8 +23,8 @@ type: concept
 
 Ralph Metzner's 1998 comparative framework identifies the Bwiti cult among
 the Fang people of Gabon and Zaire as a significant example of entheogenic
-practice that spans both shamanic healing and syncretic religious ceremony.
-The Bwiti use the powerful hallucinogen iboga (*Tabernanthe iboga*), from
+practice that spans both [[metzner-shamanic-healing-and-divination-paradigm]] and syncretic religious ceremony.
+The Bwiti use the powerful hallucinogen iboga (*[[plants-of-the-gods-tabernanthe-iboga-chemistry]]*), from
 which ibogaine is derived, in temple ceremonies involving ancestor
 communication, death-rebirth experiences, and community celebration. Metzner
 also notes the pharmacological research suggesting ibogaine's potential as
@@ -64,7 +64,7 @@ experience connects it to the second paradigm of shamanic healing.
 
 ## The Death-Rebirth Initiation Experience
 
-Central to the Bwiti initiation is a powerful death-rebirth experience in
+Central to the [[mckenna-iboga-tabernanthe-ibogaine-fang-bwiti-initiation-cult]] is a powerful death-rebirth experience in
 which the initiate's "head is opened up." After this transformative
 ordeal, initiates gain the ability to converse with their ancestor spirits,
 who can guide them in their lives. This death-rebirth pattern is one of the
@@ -76,8 +76,8 @@ relationship with the ancestral and spirit worlds.
 
 The death-rebirth motif in Bwiti initiation parallels similar patterns
 found across entheogenic traditions globally. Stanislav Grof's perinatal
-matrices in psychedelic psychotherapy, the near-death experiences in
-Amazonian shamanic initiation, and the symbolic death and resurrection in
+matrices in [[metzner-psychedelic-psychotherapy-clinical-history]], the near-death experiences in
+Amazonian shamanic initiation, and the symbolic [[allegro-death-and-resurrection-in-the-mushroom-cult]] in
 the Native American Church peyote ceremony all reflect this universal
 pattern of ego-dissolution followed by reconstruction at a higher level
 of integration.
@@ -122,6 +122,6 @@ Metzner identifies as existing in practice.
 - [[iboga-and-the-bwiti-cult-initiation]]
 
 - Metzner Ibogaine and Addiction Treatment
-- Metzner Four Paradigms of Entheogenic Healing
+- Metzner Four Paradigms of [[shamanic-entheogenic-healing-rituals]]
 - [[metzner-syncretic-entheogenic-folk-ceremonies]]
 - Shamanic Healing and Divination

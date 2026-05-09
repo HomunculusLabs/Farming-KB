@@ -16,7 +16,7 @@ type: concept
 
 # cannabis healing ritual
 
-The Harnessing of the earth's Energy is a healing ritual from "Marijuana Magick:
+The Harnessing of the earth's Energy is a healing ritual from "[[marijuana-magick-ancient-ritual-use-cannabis]]:
 A Practitioners Guide" by Magus Sativus. It is designed for times when the
 practitioner is feeling physically ill, combining traditional pagan ritual
 tools with a cannabis-infused liquid preparation. The ceremony channels healing
@@ -90,7 +90,7 @@ While the cannabis takes effect, the practitioner repeats the incantation:
 "Ohm, ye, ohm, ye, kwan, ye, kwan, ye, verd, ye, verd, ye, gran, ye, gran,
 ye" for several minutes.
 
-During this time, the practitioner visualizes cannabis leaves as athames
+During this time, the practitioner visualizes [[query-what-causes-cannabis-leaves-to-curl-and-how-to-fix-it]] as athames
 pointing toward celestial space, acting as lightning rods attracting bolts of
 positive energy. Colors of energy are imagined soaking into the [[cannabis-spiritual-use]] for the philosophical context
 - [[blessing-ground-ritual]] for the earth-blessing ceremony

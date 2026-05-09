@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-The cultivation of mushrooms has a rich history spanning thousands of years, from ancient Chinese practices with [[medicinal-mushroom-guide|medicinal fungi]] to the sophisticated commercial operations of today. The development of mushroom cultivation represents one of humanity's oldest and most fascinating relationships with fungi.
+The [[companion-cultivation-of-mushrooms-with-garden-vegetables]] has a rich history spanning thousands of years, from ancient Chinese practices with [[medicinal-mushroom-guide|medicinal fungi]] to the sophisticated commercial operations of today. The development of mushroom cultivation represents one of humanity's oldest and most fascinating relationships with fungi.
 
 ## Ancient China (circa 600 AD and earlier)
 
@@ -26,9 +26,9 @@ The earliest documented mushroom cultivation originates in China, where several 
 
 - **Shiitake (Lentinula edodes):** Cultivation on hardwood logs was developed in China, with earliest records dating to approximately 600 AD. The technique involved cutting shiitake logs, soaking them in water to stimulate fruiting, and managing forest sites where logs were stacked. This log-based method remained essentially unchanged for over a millennium and is still practiced today.
 - **Wood ear (Auricularia auricula-judae):** Cultivated in China for culinary purposes, often on the same logs used for shiitake
-- **Reishi (Ganoderma lucidum):** Known as Lingzhi in Chinese medicine, cultivated for over 2,000 years primarily for medicinal purposes rather than food
+- **Reishi ([[stamets-reishi-ganoderma-lucidum-cultivation]]):** Known as Lingzhi in Chinese medicine, cultivated for over 2,000 years primarily for medicinal purposes rather than food
 
-These early cultivation methods were empirical -- growers understood that certain practices produced mushrooms, even though the biology of fungi was completely unknown. Spores or mycelial fragments from fruiting mushrooms were transferred to fresh substrate through practical experience rather than scientific understanding.
+These early [[synthetic-log-cultivation-methods-guide]] were empirical -- growers understood that certain practices produced mushrooms, even though the biology of fungi was completely unknown. Spores or mycelial fragments from fruiting mushrooms were transferred to fresh substrate through practical experience rather than scientific understanding.
 
 ## Ancient Rome
 
@@ -45,7 +45,7 @@ Mushrooms held a complex place in Roman culture. While wild foraging was common,
 The modern history of mushroom cultivation begins in France:
 
 - **Cave cultivation near Paris:** By the 1600s, mushroom growing had become established in the limestone caves and quarries around Paris. The constant temperature and high humidity of these underground spaces proved ideal for mushroom cultivation. Falconer's 1891 book provides detailed descriptions of the Paris cave system, which was still in active commercial operation at that time.
-- **Louis XIV's influence:** King Louis XIV is credited with popularizing cultivated mushrooms in French cuisine, and his patronage helped establish mushroom cultivation as a recognized agricultural pursuit.
+- **Louis XIV's influence:** King Louis XIV is credited with popularizing [[fungi-cultivated-mushrooms-pathogens-competitors]] in French cuisine, and his patronage helped establish mushroom cultivation as a recognized agricultural pursuit.
 
 ### Early Methods
 
@@ -79,14 +79,14 @@ The single most important advancement in modern mushroom cultivation was the dev
 
 ### Agaricus Industry Expansion (1940s-1970s)
 
-- The button mushroom (Agaricus bisporus) industry expanded dramatically, particularly in the United States, Netherlands, and United Kingdom
+- The button mushroom ([[genetic-improvement-agaricus-bisporus-molecular-approaches]]) industry expanded dramatically, particularly in the United States, Netherlands, and United Kingdom
 - Development of standardized composting methods (Phase I and Phase II composting) and [[mushroom-compost-substrates|compost substrate formulations]]
 - Mechanization of spawning, casing, and harvesting
 - The Mushroom Cultivator (Stamets, 1983) codified much of this knowledge, providing detailed technical parameters for commercial operations
 
 ### The Specialty Mushroom Revolution (1970s-Present)
 
-- **Shiitake cultivation:** Traditional log methods were supplemented with sawdust-based cultivation, dramatically expanding production
+- **[[gourmet-medicinal-mushroom-shiitake-cultivation-logs]]:** Traditional log methods were supplemented with sawdust-based cultivation, dramatically expanding production
 - **Oyster mushrooms:** [[oyster-mushroom-pleurotus-ostreatus|Pleurotus ostreatus]] cultivation on straw and sawdust became widespread, particularly in Asia
 - **Medicinal mushrooms:** Growing scientific interest in the [[medicinal-mushroom-guide|medicinal properties]] of reishi, maitake, lion's mane, and cordyceps drove new cultivation programs
 - **Stamets' contributions:** Paul Stamets' books, particularly Growing Gourmet and Medicinal Mushrooms (1993) and The Mushroom Cultivator (1983), democratized cultivation knowledge, making techniques for dozens of species accessible to home growers and small commercial operations

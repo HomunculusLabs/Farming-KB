@@ -30,7 +30,7 @@ hours of repetitive factory labor.
 
 The caffeine drugs spread alongside sugar, creating synergistic consumption
 patterns that reinforced the economic structures of colonial mercantilism and
-the social structures of dominator culture. The tea and coffee break remains
+the social structures of [[mckenna-dominator-culture-and-suppression-of-ecstasy]]. The tea and coffee break remains
 the only drug ritual that has never been criticized by those who profit from
 the modern industrial state.
 
@@ -52,7 +52,7 @@ roasting coffee beans begin in Syria.
 
 ## The Ideal Drug for Factory Work
 
-Though coffee was an Old World plant used long before tea, it was tea that
+Though coffee was an [[datura-metel-old-world-ethnobotany]] plant used long before tea, it was tea that
 cleared the way for coffee's popularity. The stimulant properties of caffeine
 in coffee and its close cousin theobromine in tea made them the ideal drugs for
 the Industrial Revolution. They provided an energy lift, enabling people to
@@ -109,7 +109,7 @@ sugar is also used to make the ingestion of a stimulating alkaloid more
 palatable.
 
 Sugar is culturally defined as a food, which denies its capacity to act as a
-highly addictive drug. Yet the evidence of sugar addiction is pervasive. Many
+highly addictive drug. Yet the evidence of [[mckenna-food-gods-sugar-addiction-slavery]] is pervasive. Many
 children and compulsive eaters live in motivational environments primarily
 ruled by mood swings from sugar cravings. After alcohol and tobacco, sugar is
 the most damaging addictive substance consumed by human beings.

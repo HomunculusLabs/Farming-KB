@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Elaine Ingham Ph.D., The Field Guide I for Actively Aerated Compost Tea (AACT), 2004"
+  - "Elaine Ingham Ph.D., The Field Guide I for Actively actively-aerated-compost-tea-aact-brewing Tea (AACT), 2004"
 type: concept
 ---
 
@@ -24,7 +24,7 @@ The terms humus, humic acid, and fulvic acid are frequently used interchangeably
 
 Humus is the broadest category, encompassing the entire living and dead organic matter system in soil. It includes:
 
-- **Living organisms**: Bacteria, fungi, protozoa, nematodes, microarthropods, earthworms, and plant roots
+- **[[savory-living-organisms-as-tools]]**: Bacteria, fungi, protozoa, nematodes, microarthropods, earthworms, and plant roots
 - **Simple organic matter**: Simple sugars, amino acids, proteins, simple carbohydrates, lipids, and thousands of other simple compounds
 - **Intermediate organic matter**: Polysaccharides (multiple simple sugars bound together in increasingly complex, branched forms), amino-sugars, hormones, fats, and lipopolysaccharides
 - **Fulvic acids**: Intermediate molecular weight fractions formed by the binding and branching of simpler compounds
@@ -36,7 +36,7 @@ Humus is therefore not a single substance but an entire ecosystem of organic mat
 
 Humic acid sits at the most complex end of the organic matter spectrum. Key characteristics:
 
-- Formed from the binding of simpler organic compounds into three-dimensional complexes
+- Formed from the binding of simpler [[fungal-volatile-organic-compounds-communication]] into three-dimensional complexes
 - Very high molecular weight
 - Difficult to analyze chemically due to structural complexity
 - Poorly soluble in water under acidic conditions
@@ -78,7 +78,7 @@ Organic matter decomposition follows a predictable succession:
 
 4. **Bacteria finish**: After fungi have done the heavy lifting, bacteria complete the job, further processing material into stable humus forms.
 
-The key insight is that fungi are the bottleneck in humus production. If fungal biomass is low, humus formation is slow regardless of how much organic matter is added. The practical implication is that favoring fungi from the start of composting (rather than the typical bacterial-dominant approach) can dramatically speed up humification.
+The key insight is that fungi are the bottleneck in humus production. If fungal biomass is low, [[lowenfels-humus-formation-benefits]] is slow regardless of how much organic matter is added. The practical implication is that favoring fungi from the start of composting (rather than the typical bacterial-dominant approach) can dramatically speed up humification.
 
 ## Compost Tea Extraction of Humics
 
@@ -96,7 +96,7 @@ The tea then increases populations of beneficial organisms by maintaining condit
 Humic acids serve an important dual role: they are both a product of fungal activity and a food source for fungi. When added to soil or compost tea:
 
 - They feed beneficial fungi directly
-- They support mycorrhizal colonization (VAM and ectomycorrhizal fungi)
+- They support [[arbuscular-mycorrhizal-colonization-patterns]] (VAM and ectomycorrhizal fungi)
 - They help build macroaggregates in soil structure
 - They contribute to nutrient retention and chelation
 
@@ -106,7 +106,7 @@ Liquid humic acid products are generally more effective than dry formulations be
 
 The ideal approach is for growers to produce their own humic acids through biological composting:
 
-- Fungi in thermal compost or worm compost naturally produce fulvic and humic materials
+- Fungi in [[ingham-thermal-compost-versus-worm-compost]] or worm compost naturally produce fulvic and humic materials
 - These can be extracted through compost tea brewing and applied to crops
 - The extracted tea contains both the humic substances and the organisms that produce them
 

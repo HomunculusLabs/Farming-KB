@@ -5,7 +5,8 @@ updated: 2026-04-21
 type: concept
 tags: [fukuoka, natural-farming]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
 ---
 
@@ -31,7 +32,7 @@ The stronger the conscious desire to know, the further man becomes distanced fro
 
 Thinking that he must climb a mountain to know it, the mountain climber climbs the mountain. But in fact, to know the true mountain, one must see it from a point of remove that transcends the mountain. Man can scale a mountain and stand on its summit, but he cannot climb above and beyond. Unable to grasp the mountain in its full aspect, he is content with having seen only one small portion and climbs back down.
 
-Mountain climbing, going to the beach, listening to birds singing -- all these seem to be ways of capturing a bit of nature. But no matter how many such recreations one gathers together, they do not add up to a true understanding of nature. The accumulation of discriminating knowledge only deepens confusion and draws man away from nature so that he no longer understands.
+Mountain climbing, going to the beach, listening to birds singing -- all these seem to be ways of capturing a bit of nature. But no matter how many such recreations one gathers together, they do not add up to a true understanding of nature. The accumulation of [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]] only deepens confusion and draws man away from nature so that he no longer understands.
 
 ## The Photographer and the Flower
 
@@ -47,7 +48,7 @@ Consciously or unconsciously, man cannot comprehend nature. Even if one were to 
 
 ## Philosophical Significance
 
-This idea -- that nature transcends all human intellectual frameworks -- is the cornerstone of [[fukuoka-critique-western-dietetics-nutritional-science]] for Fukuoka's extended treatment of this theme.
+This idea -- that fukuoka nature transcends human knowledge all human intellectual frameworks -- is the cornerstone of [[fukuoka-critique-western-dietetics-nutritional-science]] for Fukuoka's extended treatment of this theme.
 
 Fukuoka draws on a long tradition of Eastern non-dualist thought. The Zen idea of "beginner's mind" (shoshin) -- the mind that is open to everything and attached to nothing -- is closely related to his notion of the tabula rasa state. In [[fukuoka-four-principles-natural-farming]]: no cultivation, no chemical fertilizer, no weeding, no pesticides. Each of these prohibitions is an expression of humility before the incomprehensible intelligence of nature.
 
@@ -85,17 +86,17 @@ Flying to America for the first time, Fukuoka experienced a vision of the modern
 
 ## The Natural Order and Human Exceptionalism
 
-"But there is one who disrupts this natural order. It is man. Man is the sole heretic in the natural order. Only he acts as he pleases."
+"But there is one who disrupts this natural order. It is man. Man is the [[fukuoka-textdoc-man-sole-heretic-natural-order]] in the natural order. Only he acts as he pleases."
 
 Fukuoka used the contrast between cremation and natural burial as a metaphor for agricultural intervention. Man douses corpses with heavy fuel oil and cremates them, believing this is fast, convenient, and hygienic — but "if the fuel oil that is mined, transported, and burned in the crematorium furnace" and antipollution treatment of stack gases are taken into account, "cremation is neither fast nor clean."
 
-"Perhaps simple burial or open burial in which the corpse is left exposed to the elements may seem primitive and inefficient to the short-sighted, but these are the most sensible and complete ways to dispose of a corpse." The same principle applies to farming: nature's methods, however they may appear to human eyes, are always superior to human technological solutions. "Designs for the most advanced refuse processing plants are child's play compared with the infinitely elaborate methods of treating garbage used by nature."
+"Perhaps simple burial or open burial in which the corpse is left exposed to the elements may seem primitive and inefficient to the short-sighted, but these are the most sensible and complete ways to dispose of a corpse." The same principle applies to farming: nature's methods, however they may appear to human eyes, are always superior to human technological solutions. "Designs for the most advanced [[fukuoka-textdoc-natures-refuse-processing-microbial-self-governance]] plants are child's play compared with the infinitely elaborate methods of treating garbage used by nature."
 
 ## The Village as Philosopher's Society
 
-Traditional farming villages operated on intuitive wisdom without formal philosophy. The disappearance of the irori (sunken hearth) — the center of family life where food was cooked and stories shared — extinguished this village philosophy. "First there is nature and there is food, and in the midst of this lives man. That was the original state of the world."
+Traditional farming villages operated on intuitive wisdom without formal philosophy. The disappearance of the irori (sunken hearth) — the center of family life where food was cooked and stories shared — extinguished this [[fukuoka-textdoc-village-philosophy-disappearance]]. "First there is nature and there is food, and in the midst of this lives man. That was the original state of the world."
 
-The village people knew what was delicious but had not neglected "the subtle and curious flavors of nature." "A natural diet lies at our feet — a diet that obeys the laws of heaven and has been followed naturally and without want by the people of farming and fishing villages." Within a quiet life passed according to the cycles of nature "lies hidden all the grandeur of the human drama."
+The village people knew what was delicious but had not neglected "the subtle and curious flavors of nature." "A [[fukuoka-natural-diet-as-foundation]] lies at our feet — a diet that obeys the laws of heaven and has been followed naturally and without want by the people of farming and fishing villages." Within a quiet life passed according to the cycles of nature "lies hidden all the grandeur of the human drama."
 
 This connects to [[fukuoka-critique-modern-agriculture]] for the full analysis.
 

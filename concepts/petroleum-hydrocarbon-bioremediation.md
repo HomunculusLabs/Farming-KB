@@ -4,7 +4,8 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [remediation, environment]
-sources: []
+sources:
+  sources: []
 ---
 
 # Bioremediation of Petroleum Hydrocarbons
@@ -27,19 +28,19 @@ Aerobic degradation of BTEX compounds proceeds primarily through dioxygenase-cat
 
 Pseudomonas, Achromobacter, and Burkholderia species are among the most well-characterized BTEX-degrading bacteria.
 
-Under anaerobic conditions, BTEX compounds are degraded through fermentation, nitrate reduction, iron reduction, sulfate reduction, or methanogenic pathways, though these processes are generally much slower than aerobic degradation.
+Under anaerobic conditions, BTEX compounds are degraded through fermentation, nitrate reduction, [[bioremediation-fungal-iron-reduction-chelation-metal-solubilization]], sulfate reduction, or methanogenic pathways, though these processes are generally much slower than aerobic degradation.
 
-Polycyclic aromatic hydrocarbons (PAHs) are discussed in detail in [[fungal-pah-degradation-mechanisms]].
+[[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs) are discussed in detail in fungal-pah-degradation-mechanisms.
 
-Low molecular weight PAHs (two to three rings) are degraded through both bacterial and fungal pathways, while high molecular weight PAHs (four or more rings) are degraded primarily by fungi and actinomycetes.
+Low molecular weight PAHs (two to three rings) are degraded through both [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] pathways, while high molecular weight PAHs (four or more rings) are degraded primarily by fungi and actinomycetes.
 
 White-rot fungi play a particularly important role in PAH degradation through their ligninolytic enzyme system, as described in [[biostimulation-techniques]] applied to petroleum-contaminated sites include land farming, bioventing, and biosparging.
 
-Bioaugmentation involves the introduction of exogenous hydrocarbon-degrading microorganisms to supplement or enhance the indigenous microbial community.
+Bioaugmentation involves the introduction of exogenous hydrocarbon-degrading microorganisms to supplement or enhance the indigenous [[edaphic-factors-microbial-community-structure]].
 
 [[fungal-bioremediation-mechanisms]] play an important role in petroleum biodegradation by increasing the bioavailability of hydrophobic hydrocarbons through micelle formation and reduction of interfacial tension.
 
-Fungal-bacterial coculture systems, described in [[mycoremediation-of-petroleum-hydrocarbons]] and [[mycoremediation]] for petroleum contamination includes measurement of TPH reduction, BTEX disappearance, PAH degradation, and changes in microbial community composition.
+Fungal-bacterial coculture systems, described in mycoremediation-of-petroleum-hydrocarbons and [[mycoremediation]] for petroleum contamination includes measurement of TPH reduction, BTEX disappearance, PAH degradation, and changes in microbial [[core-endorhiza-bacterial-community-composition-cannabis]].
 
 The ratio of pristane to phytane and the distribution of n-alkane chain lengths serve as diagnostic indicators of petroleum biodegradation progress.
 
@@ -60,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

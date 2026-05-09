@@ -16,7 +16,7 @@ type: concept
 
 # Internet of Plants - Information Sharing Networks
 
-Bill Mollison's Permaculture: A Designers Manual envisions a global
+[[bill-mollison]]'s Permaculture: A [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] envisions a global
 network of plant information exchange that connects growers, breeders,
 and permaculture designers worldwide. While written before the modern
 internet era, Mollison's concept of an "internet of plants" -- a web
@@ -37,8 +37,8 @@ describes seed exchange networks as essential for:
   suppliers. Peer-to-peer exchange provides access to unusual
   perennials, nitrogen-fixing trees, medicinal plants, and
   underutilized crops
-- **Cost reduction:** Seed saving and exchange eliminates the need to
-  purchase seed annually, supporting [[village-development-in-permaculture]] economics
+- **Cost reduction:** [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]] and exchange eliminates the need to
+  purchase seed annually, supporting village-development-in-permaculture economics
 
 Mollison advocates establishing local and bioregional seed exchange
 circles, with each member specializing in a few species and sharing
@@ -48,14 +48,14 @@ surplus through organized swaps, seed libraries, and postal exchanges.
 
 Mollison emphasizes the importance of comprehensive plant information
 systems for [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] and guild associations
-- Yield data and harvest timing
-- Pest and disease susceptibility
+- Yield data and [[cannabis-harvest-timing-visual-cues]]
+- [[hamilton-pest-and-disease-control-organic]] susceptibility
 
 Such databases enable designers to select appropriate species for
 specific site conditions and functional niches. Mollison's own plant
 species lists in the Designers Manual serve as an early example of
 this systematic approach, cataloging hundreds of species by function
-and climate zone.
+and [[holzer-climate-zone-microclimate-creation]].
 
 ## Community Knowledge Systems
 
@@ -119,7 +119,7 @@ Mollison addresses ethical dimensions of plant information exchange:
   through multiple sources before widespread distribution to prevent
   the spread of misinformation
 
-## Plant Guild Information Exchange
+## [[plant-guild]] Information Exchange
 
 A particularly valuable form of plant information sharing involves
 documenting plant guilds -- associations of species that support each

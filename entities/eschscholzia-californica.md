@@ -80,15 +80,15 @@ Named by Adelbert von Chamisso in 1820 after Johann Friedrich von Eschscholtz, h
 
 ### Antimicrobial
 
-Extracts demonstrate broad-spectrum antimicrobial activity *in vitro*, primarily attributed to berberine: moderate activity against Gram-positive bacteria (*Staphylococcus aureus*, *Bacillus subtilis*), weaker activity against Gram-negatives, and antifungal effects against *Candida albicans* and dermatophytes.
+Extracts demonstrate broad-spectrum antimicrobial activity *in vitro*, primarily attributed to berberine: moderate activity against Gram-positive bacteria (*Staphylococcus aureus*, *Bacillus subtilis*), weaker activity against Gram-negatives, and antifungal effects against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and dermatophytes.
 
 ### Antioxidant
 
-Flavonoid constituents contribute to significant antioxidant activity: DPPH radical scavenging, inhibition of lipid peroxidation, and protective effects against oxidative stress in neuronal cell models. Total phenolic content correlates with antioxidant capacity.
+Flavonoid constituents contribute to significant antioxidant activity: DPPH radical scavenging, inhibition of lipid peroxidation, and protective effects against [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in neuronal cell models. Total phenolic content correlates with antioxidant capacity.
 
 ## Cultivation
 
-*E. californica* is among the easiest garden plants for Mediterranean and dry-climate gardens: full sun (minimum 6 hours), well-draining sandy or loamy soil (pH 6.0–7.5), drought-tolerant once established with minimal irrigation needed. Direct sow in fall or early spring; seeds germinate in 10–21 days at 15–20°C. Perennial in USDA zones 6–10; grown as annual in colder regions. Prolific self-seeder that can become aggressive groundcover. Generally pest-free; susceptible to aphids and powdery mildew. RHS Award of Garden Merit cultivars include 'Apricot Chiffon', 'Dali', and 'Rose Chiffon'. Commercial seeds are widely available, typically sold as mixtures that do not breed true on reseeding.
+*E. californica* is among the easiest garden plants for Mediterranean and dry-climate gardens: full sun (minimum 6 hours), well-draining sandy or loamy soil (pH 6.0–7.5), drought-tolerant once established with minimal irrigation needed. Direct sow in fall or [[coleman-overwintered-onions-and-early-spring-crops]]; seeds germinate in 10–21 days at 15–20°C. Perennial in USDA zones 6–10; grown as annual in colder regions. Prolific self-seeder that can become aggressive groundcover. Generally pest-free; susceptible to aphids and [[cervantes-powdery-mildew-prevention-treatment]]. RHS Award of Garden Merit cultivars include 'Apricot Chiffon', 'Dali', and 'Rose Chiffon'. Commercial seeds are widely available, typically sold as mixtures that do not breed true on reseeding.
 
 ## Safety and Toxicity
 

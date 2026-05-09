@@ -3,7 +3,7 @@ title: Root Rot - Cannabis Disease Guide
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -28,7 +28,7 @@ Above-ground symptoms include:
 - Wilting across the entire plant, even when soil or solution appears adequately moist
 - Slowed growth — foliage is very slow to grow when roots are rotten
 - Overall loss of plant vigor and reduced turgor pressure
-- Nutrient deficiency symptoms appearing despite adequate nutrient availability
+- Nutrient [[knf-calcium-deficiency-symptoms]] appearing despite adequate [[ph-and-nutrient-availability-garden-soils]]
 - Stems may become soft or discolored near the soil line in severe cases
 
 Inspect roots with a 10X magnifying glass for signs of pest damage that may have created entry points for the fungal infection. Healthy roots should be crisp, white, and abundant; rotted roots are brown, slimy, and may have a foul odor.
@@ -58,7 +58,7 @@ Root rot causes both direct and indirect damage to cannabis plants:
 - **Plant death**: In advanced cases, root rot is fatal as the plant cannot maintain basic metabolic functions
 - **Reduced yield**: Even plants that survive root rot often produce significantly reduced harvests due to the growth setback
 
-The connection between root damage and above-ground symptoms is often underestimated. Rotten roots have been soaking in stagnant nutrient solution, and foliage is very slow to grow when roots are rotten. Plants may appear to have nutrient deficiencies when the actual problem is that roots cannot take up available nutrients.
+The connection between root damage and above-ground symptoms is often underestimated. Rotten roots have been soaking in stagnant nutrient solution, and foliage is very slow to grow when roots are rotten. Plants may appear to have [[hamilton-nutrient-deficiencies-and-treatment]] when the actual problem is that roots cannot take up available nutrients.
 
 ## Prevention
 
@@ -88,7 +88,7 @@ Several commercial biological products are effective against root rot:
 ## Chemical Controls
 
 - **Sprays are NOT effective against root rot** — treatment must be applied directly to the root zone
-- **H2O2 (hydrogen peroxide)**: Can be added to nutrient solution to temporarily increase oxygen and kill some pathogens, but this is a temporary measure that does not address the underlying cause
+- **H2O2 ([[cervantes-hydrogen-peroxide-sterilization]])**: Can be added to nutrient solution to temporarily increase oxygen and kill some pathogens, but this is a temporary measure that does not address the underlying cause
 - **Systemic fungicides**: Some are available for root drench application, but many are not recommended for consumable crops
 - The best defense is prevention through proper cultural practices rather than chemical treatment
 - Used potting soil may harbor harmful root rot fungi that have developed immunity to sprays
@@ -97,11 +97,11 @@ Several commercial biological products are effective against root rot:
 
 ### Pythium Wilt/Rot
 
-Pythium is a common cause of damping-off and root rot in cannabis. It prevents newly sprouted seeds from emerging and attacks seedlings, causing them to rot at the soil line. It occasionally attacks rooting cuttings as well. Once initiated, damping-off is fatal. At the onset, the stem loses girth at the soil line, weakens, grows dark, and finally fluid circulation is cut, killing the seedling or cutting. It is caused by different fungal species, including Pythium, Botrytis, and Fusarium.
+Pythium is a common cause of damping-off and root rot in cannabis. It prevents newly sprouted seeds from emerging and attacks seedlings, causing them to rot at the soil line. It occasionally attacks [[cannabis-cloning-rooting-cuttings-method-clarke]] as well. Once initiated, damping-off is fatal. At the onset, the stem loses girth at the soil line, weakens, grows dark, and finally fluid circulation is cut, killing the seedling or cutting. It is caused by different fungal species, including Pythium, Botrytis, and Fusarium.
 
 ### Fusarium Wilt
 
-Fusarium causes the center of the stem to turn reddish-brown in color and can cause wilting and vascular discoloration. Fusarium wilt blocks the vascular system of the plant, preventing water and nutrient transport. It is particularly problematic because it persists in soil and growing media for long periods, making crop rotation essential in contaminated environments.
+Fusarium causes the center of the stem to turn reddish-brown in color and can cause wilting and vascular discoloration. Fusarium wilt blocks the vascular system of the plant, preventing water and nutrient transport. It is particularly problematic because it persists in soil and growing media for long periods, making crop rotation essential in [[singh-fungal-biofilms-in-contaminated-environments]].
 
 ## Resistant Varieties and Genetic Factors
 

@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Alkaloid Chemistry and Baeocystin
+title: Psilocybin ergot-alkaloid-chemistry-history and Baeocystin
 created: 2026-04-28
 tags:
   - mycology
@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-Jochen Gartz's *Magic Mushrooms Around the World* provides extensive
+Jochen Gartz's *[[guzman-magic-mushrooms-african-species]] [[fungi-around-the-world-species-distribution]]* provides extensive
 documentation of the alkaloid chemistry of psychoactive mushrooms,
 particularly the relationship between **psilocybin**, **psilocin**, and
 **baeocystin**. Understanding these compounds and their varying
@@ -39,7 +39,7 @@ researchers to hypothesise that the mushrooms contain additional
 substances contributing to the overall psychotropic effect.
 
 The hypothesis is supported by the fact that considerable amounts of
-baeocystin are consistently found in Psilocybe semilanceata samples. The
+baeocystin are consistently found in [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] samples. The
 presence of this additional psychoactive compound may explain the
 discrepancy between measured psilocybin content and experienced potency.
 
@@ -73,7 +73,7 @@ collections of the [[baeocystin]]
 
 - [[liberty-cap-psilocybe-semilanceata-history-biology]]
 - [[azurescens-cyanescens-and-woodlovers-comparison]]
-- [[gartz-mushroom-identification-dangers-and-tips]]
+- gartz-mushroom-identification-dangers-and-tips
 - [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
 ## Practical Considerations
 
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

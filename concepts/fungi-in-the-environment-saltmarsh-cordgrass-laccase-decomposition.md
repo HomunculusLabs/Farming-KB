@@ -1,5 +1,5 @@
 ---
-title: Saltmarsh Cordgrass Decomposition and Ascomycete Laccases
+title: fungi in the environment saltmarsh cordgrass laccase decomposition Decomposition and Ascomycete Laccases
 tags:
   - mycology
   - saltmarsh-ecology
@@ -19,7 +19,7 @@ type: concept
 
 # Saltmarsh Cordgrass Decomposition and Ascomycete Laccases
 
-The saltmarshes of the Georgia, USA Atlantic coast are expansive intertidal ecosystems 5-10 km wide extending from barrier islands to the mainland. The predominant macrophyte is smooth cordgrass (*Spartina alterniflora* Loisel.), which produces approximately 1.3 kg per square metre of marsh annually. The decomposition of this vast quantity of plant material is dominated by a specialized community of ascomycete fungi that employ laccase enzymes to break down lignocellulose, challenging the traditional view that only basidiomycetes can perform significant lignin degradation.
+The saltmarshes of the Georgia, USA Atlantic coast are expansive intertidal ecosystems 5-10 km wide extending from barrier islands to the mainland. The predominant macrophyte is smooth cordgrass (*Spartina alterniflora* Loisel.), which produces approximately 1.3 kg per square metre of marsh annually. The decomposition of this vast quantity of plant material is dominated by a specialized community of ascomycete fungi that employ [[singh-fungal-laccase-enzymes-bioremediation]] to break down lignocellulose, challenging the traditional view that only basidiomycetes can perform significant [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]].
 
 ## The Standing-Decay System
 
@@ -61,7 +61,7 @@ Standing-dead smooth cordgrass is composed largely of lignocellulose (70-75%), p
 
 ### Corrected Lignocellulose Degradation Rates
 
-Subsequent testing with static incubation and supplemental malt and yeast extract revealed:
+Subsequent testing with static incubation and supplemental malt and [[marmite-yeast-extract-straw-substrate]] revealed:
 - *P. spartinicola* alone mineralized lignocellulose at more than 0.8% per day
 - The three predominant species together achieved more than 20% lignocellulose mineralization after 6 weeks at approximately 23 degrees Celsius
 - The mineralization rate was not declining at the 6-week endpoint, suggesting continued capacity
@@ -76,7 +76,7 @@ Laccases are copper-containing enzymes capable of oxidizing phenolic molecules. 
 
 ### The Redox-Mediator Discovery
 
-Eggert and colleagues (1997) discovered that the basidiomycete *Pycnoporus cinnabarinus*, which possesses neither manganese nor lignin peroxidase, could carry out strong lignolysis because it manufactured its own redox-mediator molecule (3-hydroxyanthranilate, HAA) to work alongside laccase. This demonstrated that laccase alone, with an appropriate mediator, can serve as a sufficient lignin-oxidizing enzyme system.
+Eggert and colleagues (1997) discovered that the basidiomycete *Pycnoporus cinnabarinus*, which possesses neither manganese nor [[fungal-lignin-peroxidase-veratryl-alcohol]], could carry out strong lignolysis because it manufactured its own redox-mediator molecule (3-hydroxyanthranilate, HAA) to work alongside laccase. This demonstrated that laccase alone, with an appropriate mediator, can serve as a sufficient lignin-oxidizing enzyme system.
 
 Furthermore, interactions between cellobiose dehydrogenases and laccase-mediator molecules can allow cellulose lysis to proceed simultaneously with lignin oxidation during lignocellulose breakdown.
 
@@ -117,8 +117,11 @@ Several important questions remain about this system:
 ## See Also
 
 - [[fungal-pah-degradation-and-soil-bioremediation]] for fungal enzymatic capabilities
-- [[fungi-in-the-environment-soil-fungal-community-structure]] for fungal community composition
+- fungi-in-the-environment-soil-fungal-community-structure for fungal [[core-endorhiza-bacterial-community-composition-cannabis]]
 
 ## See Also
 
-- [[saltmarsh-ascomycete-laccase-genes-in-lignocellulose-decomposition]]
+- saltmarsh-ascomycete-laccase-genes-in-lignocellulose-decomposition
+- [[decomposition]]
+- [[lignin-degradation]]
+- [[fungal-enzymatic-capabilities]]

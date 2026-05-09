@@ -1,5 +1,5 @@
 ---
-title: Fungal Transformation of Pentachlorophenol in Soils
+title: singh-fungal-transformation-metals-metalloids of Pentachlorophenol in Soils
 created: 2026-04-26
 tags: [pentachlorophenol, pcp, soil-transformation, fungal-remediation, bound-residue]
 date: 2026-04-25
@@ -15,15 +15,15 @@ Pentachlorophenol (PCP) is a widely used wood preservative and
 biocide that has caused extensive soil contamination. Fungal
 transformation of PCP in soils has received increasing attention,
 with white-rot fungi demonstrating significant capabilities for PCP
-degradation, mineralization, and incorporation into soil organic matter
+degradation, mineralization, and incorporation into soil [[hamilton-composting-and-organic-matter-management]]
 as bound residues.
 
 ## Fungal Tolerance to Creosote and PCP
 
-Mycorrhizal fungi generally show less tolerance to creosote than
+[[arbuscular-mycorrhizal-fungi-biology-symbiosis]] generally show less tolerance to creosote than
 saprophytic fungi (Richter et al., 2003). Among saprophytic fungi,
 Irpex lacteus, Neolentinus lepideus, Ouedemansiella radicata,
-Phanerochaete chrysosporium, Postia placenta, and Trametes versicolor
+[[staycare-phanerochaete-chrysosporium-in-bioremediation]], Postia placenta, and [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]
 exhibit the greatest tolerance to creosote. Mycorrhizal fungi such as
 Cenococcum geophilum, Laccaria bicolor, L. laccata, and Suillus
 granulatus show the highest tolerance among mycorrhizal species.
@@ -34,7 +34,7 @@ Humic substances are amorphous, partly aromatic, dark-colored materials
 formed in soil by condensation of polyphenols and quinones. Covalent
 incorporation of chlorophenols into soil organic matter occurs via
 free radical-mediated copolymerization and/or degradation products with
-organic precursors of humic and fulvic acids. A significantly lower
+organic precursors of [[teaming-with-microbes-humic-and-fulvic-acids]] acids. A significantly lower
 amount of such incorporation occurs with Pleurotus ostreatus (Bogan et
 al., 1999). About 90% transformation of PCP to nonextractable residues
 is noted in some model soils.
@@ -111,5 +111,8 @@ of continuous PCP treatment.
 ## See Also
 
 - [[singh-ligninolytic-enzymes-fungal-bioremediation]]
-- [[fungal-biosorption-desorption-regeneration]]
+- fungal-biosorption-desorption-regeneration
 - [[singh-chlorpyrifos-organophosphate-fungal-degradation]]
+- [[composting-systems]]
+- [[pleurotus-eryngii]]
+- [[pleurotus-ostreatus]]

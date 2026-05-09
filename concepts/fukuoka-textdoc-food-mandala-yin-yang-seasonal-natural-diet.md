@@ -1,5 +1,5 @@
 ---
-title: "Food Mandala and Seasonal Natural Diet"
+title: "Food Mandala and fukuoka textdoc food mandala yin yang seasonal natural diet Diet"
 created: 2026-04-28
 tags: [fukuoka, natural-diet, yin-yang, seasonal-eating, food-philosophy, japanese-cuisine]
 date: 2026-04-28
@@ -13,11 +13,11 @@ type: concept
 
 ## Overview
 
-In *The Natural Way of Farming*, Masanobu Fukuoka presents a sophisticated food philosophy that integrates elements of Western nutritional science and Eastern yin-yang philosophy while transcending both. Central to this system are the food mandalas, systematic arrangements of foods by season, color, and energetic quality that illustrate how a complete natural diet arises of itself when one lives in accordance with the natural order.
+In *The Natural Way of Farming*, Masanobu Fukuoka presents a sophisticated food philosophy that integrates elements of Western nutritional science and Eastern yin-yang philosophy while transcending both. Central to this system are the food mandalas, systematic arrangements of foods by season, color, and energetic quality that illustrate how a complete natural diet arises of itself when one lives in accordance with the [[fukuoka-textdoc-natural-order-food-chain-unity]].
 
 ## The Foundation: What Is Diet?
 
-The very first step that must be taken in setting the proper course for agriculture is to reexamine what diet represents. Correcting man's eating habits by establishing a natural diet erects a foundation for natural farming. Has man been correct in developing systems of agriculture based on his eating habits or was this a major error?
+The very first step that must be taken in setting the proper course for agriculture is to reexamine what diet represents. Correcting man's eating habits by establishing a natural diet erects a foundation for [[comparison-natural-farming-vs-permaculture]]. Has man been correct in developing systems of agriculture based on his eating habits or was this a major error?
 
 Primitive man fed himself on whatever he could find about him: vegetation, fish and shellfish, fowl and animals; everything served a purpose, nothing was useless. Most natural products served either as food or as medicine. There was surely more than enough food to feed the entire human population of the earth.
 
@@ -33,7 +33,7 @@ Scientifically, we characterize foods as sweet, sour, bitter, hot, tasty, unsavo
 
 When we are full, the most delectable food is unpalatable, and when we are hungry, the most awful-tasting food is delicious. Nothing tastes good to a sick man and nothing is nutritious to one who is not healthy.
 
-Once man eats something sweet, food that he had felt until then to be sweet loses its appeal. Once he samples epicurean food, plainer fare becomes unacceptable and he goes off in search of even greater culinary extravagance. Unconcerned about whether this is good or bad for the body, he eats according to the dictates of his palate. The food that animals eat by instinct constitutes a complete diet, but man, with his reliance on discriminating knowledge, has lost sight of what a complete diet is.
+Once man eats something sweet, food that he had felt until then to be sweet loses its appeal. Once he samples epicurean food, plainer fare becomes unacceptable and he goes off in search of even greater culinary extravagance. Unconcerned about whether this is good or bad for the body, he eats according to the dictates of his palate. The food that animals eat by instinct constitutes a complete diet, but man, with his reliance on [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]], has lost sight of what a complete diet is.
 
 ## The Fallacy of Infinite Nutritional Analysis
 
@@ -63,13 +63,13 @@ Unfortunately, having alienated himself from nature, only man cannot partake dir
 
 The second mandala shows the foods available during each month of the year. This demonstrates that as long as man accepts and lives in accordance with the divine dispensation, a complete natural diet will arise of itself without his needing to know anything and without his having to ponder the principle of yin and yang. Of course, the foods consumed will vary with time and circumstances, and with the degree of health or malady.
 
-The third mandala illustrates how natural foods combine to create a complete diet, while the fourth mandala presents the ideal diet of one who has attained spiritual liberation. In this final state, the distinction between food and non-food dissolves entirely.
+The third mandala illustrates how [[fukuoka-natural-foods-movement-america]] combine to create a complete diet, while the fourth mandala presents the ideal diet of one who has attained spiritual liberation. In this final state, the distinction between food and non-food dissolves entirely.
 
 ## Eating with the Seasons
 
 The food that farmers and fishermen have taken locally for thousands of years is a splendid example of natural diet in accordance with the laws of nature. The seven herbs of spring: Japanese parsley, shepherd's purse, cudweed, chickweed, bee nettle, wild turnip, and wild radish emerge early in the new year from the slumbering brown earth.
 
-As he enjoys the flavors of these herbs, the farmer meditates joyfully on his having survived a harsh winter. To accompany the seven herbs, nature provides shellfish, a brown food. The savory taste of pond snails, fresh water clams, and sea clams in early spring is a special treat.
+As he enjoys the flavors of these herbs, the farmer meditates joyfully on his having survived a harsh winter. To accompany the seven herbs, nature provides shellfish, a brown food. The savory taste of pond snails, fresh water clams, and sea clams in [[coleman-overwintered-onions-and-early-spring-crops]] is a special treat.
 
 A little later, in addition to popular edible wild herbs like bracken and osmund, almost anything can be eaten, including young cherry, persimmon, peach, and Chinese yam leaves. Just as the first broad beans are ready for picking, edibles from the fields suddenly increase. Bamboo shoots are delicious with rockfish. Red sea bream and grunt can be caught in quantity and are excellent at the time of the barley harvest in late spring.
 
@@ -110,6 +110,8 @@ Processed foods are designed to appeal to the discriminating palate, not to nour
 The natural farmer sees processed food as a symptom of humanity's fundamental alienation from nature. When people eat food that has been divorced from the soil, the seasons, and the local ecosystem, they consume not just nutrition but the philosophy of separation that produced it.
 
 ## See Also
+
+- [[fukuoka-seasonal-food-mandala-local-diet]]
 
 - [[fukuoka-textdoc-seasonal-eating-japanese-food-calendar]]
 - [[fukuoka-textdoc-diet-of-the-sick-returning-nature]]

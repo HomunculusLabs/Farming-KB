@@ -2,7 +2,7 @@
 
 ## Overview
 
-The grass seed cultivation guide describes a minimalist fruiting chamber design that requires no humidifiers, cool-mist devices, or electronic climate control. The system relies on simple clear plastic storage bins with polyethylene sheeting covers and passive humidity management through evaporation from cased substrates. This approach is notably different from the more elaborate setups commonly recommended in modern cultivation literature.
+The grass seed cultivation guide describes a minimalist fruiting chamber design that requires no humidifiers, cool-mist devices, or electronic climate control. The system relies on simple clear plastic storage bins with polyethylene sheeting covers and simple plastic bin fruiting chamber passive humidity mushroom cultivation management through evaporation from cased substrates. This approach is notably different from the more elaborate setups commonly recommended in modern cultivation literature.
 
 ## The Chamber Design
 
@@ -43,7 +43,7 @@ This approach works because:
 
 The guide emphasizes daily misting of the casing surface to replenish evaporated moisture. After each flush is picked, watering is increased because maturing mushrooms pull significant moisture from the casing soil during development.
 
-The guide notes that it is very difficult to give explicit directions on a watering schedule and that cultivators must develop a feel for it through experience. Key principles include:
+The guide notes that it is very difficult to give explicit directions on a [[cannabis-watering-schedule-and-frequency]] and that cultivators must develop a feel for it through experience. Key principles include:
 
 - The casing surface should never be allowed to dry out completely
 - Directly after harvest, the casing needs extra water to replace what the mushrooms extracted
@@ -82,13 +82,13 @@ The passive approach works well for small to medium-scale cultivation (tens of t
 
 ### No CO₂ Monitoring
 
-Without active air exchange, CO₂ levels inside the bin depend entirely on the size and number of ventilation holes and the metabolic activity of the mycelium. Excessive CO₂ leads to elongated, spindly mushrooms with small caps. Cultivators must learn to recognize the visual signs of CO₂ stress and adjust ventilation accordingly.
+Without active air exchange, CO₂ levels inside the bin depend entirely on the size and number of ventilation holes and the [[arbuscule-isolation-metabolic-activity-assays]] of the mycelium. Excessive CO₂ leads to elongated, spindly mushrooms with small caps. Cultivators must learn to recognize the visual signs of CO₂ stress and adjust ventilation accordingly.
 
 ## Cold Shocking Integration
 
 The guide describes cold-shocking harder-to-fruit strains by placing them in a refrigerator overnight before transferring to the fruiting bins. This simple technique is easily integrated into the minimalist system — no special equipment is needed beyond access to a refrigerator.
 
-Notably, the guide specifies that easy-fruiting strains like Ecuador cubensis do not benefit from cold shocking, and that Psilocybe mexicana, P. tampanensis, and Panaeolus subbalteatus do not benefit either. Cold shocking is reserved specifically for strains that are reluctant to initiate pinning.
+Notably, the guide specifies that easy-fruiting strains like Ecuador cubensis do not benefit from cold shocking, and that [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]], P. tampanensis, and [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]] do not benefit either. Cold shocking is reserved specifically for strains that are reluctant to initiate pinning.
 
 ## Comparison to Modern Shotgun Chamber Designs
 
@@ -102,7 +102,7 @@ The guide provides specific notes on fruiting behavior that relate to how differ
 
 ### Psilocybe cubensis
 
-Cubensis strains vary considerably in their fruiting ease. Easy strains like Ecuador require no cold shock and pin readily 6–10 days after being placed in the bins. They can produce 5–6 flushes with proper watering. These are the most forgiving species for beginners using the passive system.
+[[cap-vs-stem-alkaloid-distribution-psilocybe-cubensis-strains-bigwood-beug]] vary considerably in their fruiting ease. Easy strains like Ecuador require no cold shock and pin readily 6–10 days after being placed in the bins. They can produce 5–6 flushes with proper watering. These are the most forgiving species for beginners using the passive system.
 
 ### Psilocybe mexicana
 
@@ -138,15 +138,12 @@ The guide specifically warns that dead pinheads left on the casing surface can l
 
 The casing recipe (10 parts peat, 5 parts vermiculite, 2 parts limestone) is specifically formulated to maximize water-holding capacity.
 
-The peat provides organic water retention, the vermiculite provides mineral-based moisture buffering and aeration, and the limestone adjusts pH while also contributing to the physical structure.
-
-When properly prepared to field capacity (squeezing produces a few drops of water), this casing mix can maintain adequate surface moisture for 12–24 hours between misting sessions under normal conditions.
-
-The sterilization of casing soil before application (a practice the guide endorses despite some authors recommending pasteurization) ensures that no competing organisms are introduced that could interfere with the passive humidity management system.
 ## See Also
+
+- [[passive-humidity-fruit-chamber-polyethylene-sheeting]]
+
+- [[passive-humidity-fruiting-chamber-stackable-plastic-bin-design]]
 - [[polyethylene-sheeting-fruiting-chamber-simple-stackable-design]]
 - [[fruiting-conditions-mushroom-cultivation]]
 
 ## See Also
-
-- [[mushroom-cultivation-fruiting-chambers]]

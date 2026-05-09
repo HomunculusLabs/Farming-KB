@@ -4,16 +4,17 @@ created: 2026-04-17
 updated: 2026-04-18
 type: concept
 tags: [reference]
-sources: []
+sources:
+  sources: []
 ---
 
 # Philip K. Dick, VALIS, and Psychedelic Mysticism
 
 Philip K. Dick (1928-1982) is best known through the films Blade Runner and Total Recall, which were based on his writings.
 
-Less well known is the fact that Dick spent the last decade of his life struggling to come to terms with a series of visionary mystical experiences that fundamentally transformed his understanding of reality.
+Less well known is the fact that Dick spent the last decade of his life struggling to come to terms with a series of visionary [[psilocybin-mystical-experiences-personality-change]] that fundamentally transformed his understanding of reality.
 
-These experiences, though not directly induced by psychedelic substances, share remarkable features with the [[psilocybin-compound-profile]], endogenous DMT, meditation, fasting, or spontaneous epileptic disturbances.
+These experiences, though not directly induced by psychedelic substances, share remarkable features with the [[psilocybin-compound-profile]], [[mckenna-endogenous-dmt-brain-familiarity]], meditation, fasting, or spontaneous epileptic disturbances.
 
 The phenomenological content of the experience, its meaning, coherence, and transformative power, cannot be reduced to the neurological conditions that made it possible, any more than the meaning of a book can be reduced to the chemistry of the ink and paper on which it is printed.
 
@@ -59,7 +60,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +102,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

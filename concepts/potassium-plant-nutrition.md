@@ -4,7 +4,8 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [reference]
-sources: []
+sources:
+  sources: []
 ---
 
 # Potassium in Plant Nutrition — The Quality Nutrient
@@ -16,8 +17,8 @@ Potassium (K) is the third major plant nutrient in the N-P-K trio. Unlike nitrog
 ### Roles in Plant Physiology
 - **Enzyme activation:** K activates more than 60 enzymes involved in photosynthesis, respiration, protein synthesis, and starch synthesis
 - **Stomatal regulation:** K ions drive the opening and closing of stomata, controlling water loss and CO2 uptake
-- **Osmoregulation:** Maintains cell turgor pressure; essential for cell expansion and growth
-- **Phloem transport:** Drives sugar loading into phloem for transport from leaves to roots, fruits, and growing points
+- **Osmoregulation:** Maintains cell [[bloomfield-turgor-pressure-and-hyphal-invasion]]; essential for cell expansion and growth
+- **[[xylem-and-phloem-transport-systems-in-plants]]:** Drives sugar loading into phloem for transport from leaves to roots, fruits, and growing points
 - **Protein synthesis:** Required for translation of mRNA on ribosomes
 - **Photosynthesis:** Maintains electrical neutrality across thylakoid membranes during electron transport
 - **Starch synthesis:** Activates starch synthase enzyme
@@ -41,14 +42,14 @@ Potassium (K) is the third major plant nutrient in the N-P-K trio. Unlike nitrog
 ### Forms
 1. **Mineral K:** Held in mica, feldspar, and clay minerals (90-98% of total soil K); very slowly available
 2. **Fixed K:** Trapped between clay layers; slowly available
-3. **Exchangeable K:** Held on cation exchange sites; readily available
+3. **Exchangeable K:** Held on [[mollison-designers-tropical-soils-and-cation-exchange-management]] sites; readily available
 4. **Solution K:** Dissolved in soil water; immediately available
 
 ### Availability Factors
 - **Soil texture:** Sandy soils have low K holding capacity; clay soils hold more
 - **CEC:** Higher [[ozier-pdc-composting-and-soil-building]] applications provide steady K
 2. Wood ash from hardwood fires is an excellent K source (use sparingly due to pH effect)
-3. Kelp meal provides K plus trace minerals and plant growth hormones
+3. [[comparison-kelp-meal-vs-rock-dust]] provides K plus trace minerals and plant growth hormones
 4. [[nitrogen-plant-nutrition]]
 - [[nutrient-cycling-in-soil]]
 - [[natural-fertilizer-sources-and-application]]
@@ -69,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

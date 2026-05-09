@@ -3,7 +3,7 @@ title: Permaculture Forest Garden
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [[permaculture-design]] process. When choosing a species, we have to ask:
+tags: bill-mollison-permaculture-a-designers-manual-permaculture-design-principles] process. When choosing a species, we have to ask:
 
 - What stage is this plant from?
 - Is it a pioneer plant, or a Stage 2 or 3 plant?
@@ -33,15 +33,15 @@ After reading about the forest garden strategy, you are probably wondering if yo
 
 You may also be wondering how a forest garden makes any sense. Regular monoculture farming has proven itself to be productive and efficient, allowing plants to grow without competition. They can grow as large as possible and produce the maximum amount of food per plant. Success is measured solely in pounds of food collected, and it can be impressive. However, monoculture is concerned with the individual plant and how to push each one to the greatest yield. Polyculture, and in particular a forest garden, is concerned with the whole. Pushing as many species as possible to work together actually yields more in total than one species grown alone. The plants aren't as big as possible and may not produce as much fruit, and there may be so-called "weeds," but when it is all collected in the end, the quantity of food will be greater, with the additional benefit of being self-reliant. This means more food for less work.
 
-A word of warning, however: Forest gardens are experimental and unique. They take at least a decade to establish and even longer to make profitable. There is also no strict formula that can be followed, and every climate and microclimate is different. Cash crops with this method are a challenge, but the goal is to have many eggs in many baskets, rather than one crop that can fail. Furthermore, forest gardens are intended to require very little labor, which is the limiting factor on most market farms. Running a successful organic market farm takes 80 hours per week or more by many individuals, while a forest garden should need only a few people working part time.
+A word of warning, however: [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] are experimental and unique. They take at least a decade to establish and even longer to make profitable. There is also no strict formula that can be followed, and every [[pdc-climate-and-microclimate-analysis]] is different. Cash crops with this method are a challenge, but the goal is to have many eggs in many baskets, rather than one crop that can fail. Furthermore, forest gardens are intended to require very little labor, which is the limiting factor on most market farms. Running a successful organic market farm takes 80 hours per week or more by many individuals, while a forest garden should need only a few people working part time.
 
 ---
 Updated: 2026-04-18
-Source: The Ultimate Guide to Natural Farming and Sustainable Living
+Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]]
 ## See Also
 
 - [[backyard-food-forest-design]]
-- [[natural-farm-permaculture-ethics-principles]]
+- natural-farm-permaculture-ethics-principles
 - [[permaculture-tree-crop-systems]]
 
 ## Merged: Permaculture Succession Planting
@@ -52,7 +52,7 @@ Source: The Ultimate Guide to Natural Farming and Sustainable Living
 
 Many people plant a garden, but once the seed or seedling is in the soil, they don't know what to do other than give it water and hope for the best. However, there's still more work to do. The next step for vegetables is to get the plant to flower, because without flowers there aren't any vegetables. The next step for herbs and lettuces is to prevent flowering, because otherwise they will stop producing leaves.
 
-As the season progresses, you will also need to replant. Eventually, no matter what you do, the lettuce will bolt and stop making more lettuce leaves for you. With careful planning, you can also extend your growing season far beyond what it otherwise would have been. In the following schedule, the seeds are planted together randomly so that all of the species are mixed together.
+As the season progresses, you will also need to replant. Eventually, no matter what you do, the lettuce will bolt and stop making more lettuce leaves for you. With careful planning, you can also extend your [[savory-growing-season-and-non-growing-season-management]] far beyond what it otherwise would have been. In the following schedule, the seeds are planted together randomly so that all of the species are mixed together.
 
 ## Seasonal Schedule
 
@@ -70,7 +70,7 @@ You will notice that there is a great deal of crowding going on. Rather than wai
 
 ## Replanting Annuals the Easy Way
 
-These techniques work well only in a mild climate, but it's possible you could use cold frames or the [[permaculture-greenhouse-design]] to try to do this as well. Certain plants can be made perennial:
+These techniques work well only in a mild climate, but it's possible you could use cold frames or the permaculture-greenhouse-design to try to do this as well. Certain plants can be made perennial:
 
 - **Leek**: Allow some leeks to go to seed. At the end of the season you can dig them up where you will find small secondary bulbs growing off the base of the stem. These can be planted just like onions. Alternatively, you can cut off the leek at the ground at harvest instead of pulling it out, and it will grow a second time.
 
@@ -83,3 +83,4 @@ These techniques work well only in a mild climate, but it's possible you could u
 - **Lettuce**: Allow lettuce to go to seed, and it will scatter seed and replant itself.
 
 - **Fruit and melon**: Tomatoes, pumpkins, and other melons can be left in the garden and covered with mulch at harvest time, where they will rot and spill their seeds. These will grow and effectively replant themselves.
+- [[permaculture]]

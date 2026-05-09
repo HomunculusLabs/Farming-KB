@@ -15,11 +15,11 @@ type: query
 Biochar is a porous, carbon-rich material produced by pyrolyzing
 biomass in a low-oxygen environment. To use it effectively in
 your garden, charge or inoculate the biochar with compost,
-compost tea, or liquid fertilizer before mixing it into soil at a
+[[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]], or [[jadam-liquid-fertilizer-nutritional-perspective]] before mixing it into soil at a
 rate of 5 to 10 percent by volume. Uncharged biochar can
 initially draw nutrients away from plants, so pre-treatment is
 essential. Once established, biochar improves soil structure,
-water retention, and long-term carbon storage for decades.
+water retention, and long-term [[holmgren-soil-humus-carbon-storage-rebuilding]] for decades.
 
 ## Detailed Explanation
 
@@ -28,7 +28,7 @@ research and permaculture practice as a soil amendment with
 remarkable longevity. Unlike compost or mulch that decompose
 within a season or two, biochar persists in soil for hundreds to
 thousands of years, making it a unique tool for long-term soil
-improvement and carbon sequestration. The
+improvement and [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]. The
 [[biochar-soil-amendment]] page describes several methods for
 pre-charging biochar, but the most common and effective approach
 is to mix it with finished compost and let it sit for at least
@@ -38,12 +38,12 @@ creating a nutrient-rich, microbially active amendment that
 benefits plants immediately upon incorporation.
 
 The easiest way to charge biochar is to blend it directly into
-your compost pile at a ratio of 10 to 15 percent biochar by
+your [[mushroom-cultivator-compost-pile-management]] at a ratio of 10 to 15 percent biochar by
 volume. As the compost breaks down, the nutrients and microbial
 life colonize the biochar's porous structure.
 [[cannabis-living-soil-guide]] systems, biochar is often mixed
 into the soil base at 5 to 10 percent where it provides long-term
-structure and nutrient buffering. The [[building-soil-fertility-long-term]] page shows improved plant
+[[root-anatomy-structure-and-nutrient-uptake]] buffering. The [[building-soil-fertility-long-term]] page shows improved plant
 vigor and microbial diversity.
 
 For gardeners interested in making their own biochar, the process
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

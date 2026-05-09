@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Inoculation
+title: teaming-with-fungi-mycorrhizal-inoculation-techniques
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -13,7 +13,7 @@ sources:
 
 ## Overview
 
-Mycorrhizal fungi form symbiotic associations with the roots of approximately 95% of all plant species. The fungi extend the effective root surface area by 700 to 1000 times, providing the plant with water, phosphorus, nitrogen, copper, zinc, molybdenum, and other nutrients in exchange for carbohydrates from root exudates. Inoculation introduces these fungi where they are absent or depleted.
+[[arbuscular-mycorrhizal-fungi-biology-symbiosis]] form symbiotic associations with the roots of approximately 95% of all plant species. The fungi extend the effective root surface area by 700 to 1000 times, providing the plant with water, phosphorus, nitrogen, copper, zinc, molybdenum, and other nutrients in exchange for carbohydrates from root exudates. Inoculation introduces these fungi where they are absent or depleted.
 
 ## Types of Mycorrhizae
 
@@ -45,7 +45,7 @@ Associated with plants in the heath family (rhododendrons, azaleas, blueberries)
 
 - Dramatically increased [[phosphorus-availability|phosphorus uptake]] from chemically locked-up sources
 - Extended root reach into soil pores too small for roots
-- Improved water uptake and drought tolerance
+- Improved water uptake and [[dighton-fungal-drought-tolerance-plant-water-relations]]
 - Access to nitrogen, copper, zinc, and molybdenum
 - Production of glomalin (sequesters metals, improves soil aggregation)
 - Protection against root pathogens through physical barriers and competition
@@ -72,7 +72,7 @@ More difficult to colonize established plants. Options include:
 
 ### Collecting Local Inoculum
 
-You can collect local mycorrhizal fungi by taking soil from root areas of thriving plants. While endomycorrhizal fungi are invisible without a microscope, ectomycorrhizal fungi may produce visible mushrooms that are great spore sources. Roll seeds or roots in collected soil to inoculate.
+You can collect local mycorrhizal fungi by taking soil from root areas of thriving plants. While endomycorrhizal fungi are invisible without a microscope, [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] may produce visible mushrooms that are great spore sources. Roll seeds or roots in collected soil to inoculate.
 
 ## When Inoculation Is Needed
 
@@ -88,8 +88,8 @@ Mycorrhizal fungi are ubiquitous in established natural systems and usually only
 
 - Get the right type of mycorrhizae for the plant (endo vs ecto)
 - Spores need direct root contact and moisture to germinate
-- Add fungal foods (humic acids, kelp, fish hydrolysate) to support establishment
-- Avoid tillage which destroys existing mycorrhizal networks
+- Add fungal foods (humic acids, kelp, [[comparison-fish-hydrolysate-vs-fish-emulsion]]) to support establishment
+- Avoid tillage which destroys existing [[dighton-mycorrhizal-networks-carbon-transfer]]
 - Mycorrhizal fungi are fragile -- compaction and anaerobic conditions kill them
 
 ## Related

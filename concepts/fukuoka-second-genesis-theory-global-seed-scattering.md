@@ -1,5 +1,5 @@
 ---
-title: Second Genesis Theory - Global Seed Scattering
+title: fukuoka second genesis theory global seed scattering Theory - Global Seed Scattering
 tags:
   - natural-farming
   - desert-revegetation
@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-The **Second Genesis** is Masanobu Fukuoka's most radical and controversial proposal for healing the planet's deserts and degraded landscapes. Rather than attempting to restore ecosystems to some prehuman baseline, Fukuoka advocated broadcasting the seeds of all plant species — trees, vegetables, grains, legumes, grasses, ferns, mosses, and lichens — along with fungi, bacteria, and other soil microorganisms, across vast desert areas simultaneously. By providing nature with a full palette of species and stepping back, nature would establish a new ecological balance suited to present conditions rather than past conditions.
+The **Second Genesis** is Masanobu Fukuoka's most radical and controversial proposal for healing the planet's deserts and degraded landscapes. Rather than attempting to restore ecosystems to some prehuman baseline, Fukuoka advocated broadcasting the seeds of all plant species — trees, vegetables, grains, legumes, grasses, ferns, mosses, and lichens — along with fungi, bacteria, and other soil microorganisms, across vast desert areas simultaneously. By providing nature with a full palette of species and stepping back, nature would establish a new [[fukuoka-ecological-balance-principles]] suited to present conditions rather than past conditions.
 
 ## The Problem with Restoration to Baseline
 
@@ -36,7 +36,7 @@ Even if we went to the trouble of putting back the plants that were native to a 
 
 Without questioning whether seeds were native or non-native, Fukuoka proposed mixing:
 
-- Seeds of **forest trees** and **fruit trees**
+- Seeds of **forest trees** and **[[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]**
 - **Perennials**, **vegetables**, **grasses**, and **legumes**
 - **Ferns**, **mosses**, and **lichens**
 - **Fungi**, **bacteria**, and other **soil microorganisms**
@@ -61,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

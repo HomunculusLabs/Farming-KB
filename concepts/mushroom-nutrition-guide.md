@@ -1,5 +1,5 @@
 ---
-title: Mushroom Nutrition Guide
+title: cotter-mushroom-nutrition-medicinal-compounds Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Mushrooms are nutritionally dense foods that occupy a unique position between vegetables and animal products. They provide protein, fiber, B vitamins, minerals, and bioactive compounds found in few other foods. As the only non-animal source of vitamin D (when UV-exposed) and a significant source of ergothioneine, selenium, and beta-glucans, mushrooms deserve a central place in a health-conscious diet. This page covers the macronutrient and micronutrient profile of common edible mushrooms and compares their nutritional value.
+Mushrooms are nutritionally dense foods that occupy a unique position between vegetables and animal products. They provide protein, fiber, B vitamins, minerals, and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] found in few other foods. As the only non-animal source of vitamin D (when UV-exposed) and a significant source of ergothioneine, selenium, and beta-glucans, mushrooms deserve a central place in a health-conscious diet. This page covers the macronutrient and micronutrient profile of common [[palmer-edible-mushrooms-north-america]] and compares their nutritional value.
 
 ## Macronutrient Profile
 
@@ -91,7 +91,7 @@ Note: B12 content in mushrooms is controversial. Some studies detect B12, but it
 | Copper | Iron metabolism, antioxidant enzymes | 0.3-0.5 mg/100 g (15-25% DV) |
 | Potassium | Fluid balance, nerve function | 300-500 mg/100 g (8-14% DV) |
 | Phosphorus | Bone health, energy metabolism | 80-120 mg/100 g (8-12% DV) |
-| Iron | Oxygen transport, energy | 0.5-1.5 mg/100 g (3-8% DV) |
+| Iron | [[hemoglobin-oxygen-transport-biochemistry]], energy | 0.5-1.5 mg/100 g (3-8% DV) |
 | Zinc | Immune function, wound healing | 0.5-1.0 mg/100 g (5-9% DV) |
 | Manganese | Bone formation, metabolism | 0.05-0.5 mg/100 g |
 
@@ -120,7 +120,7 @@ Mushrooms are particularly notable as a source of selenium, providing amounts co
 
 ### Lovastatin
 
-- Found naturally in oyster mushrooms and shiitake
+- Found naturally in [[query-how-to-grow-oyster-mushrooms-at-home]] and shiitake
 - Cholesterol-lowering compound (same as pharmaceutical statins)
 - Content varies by species and growing conditions
 
@@ -134,70 +134,13 @@ Mushrooms are particularly notable as a source of selenium, providing amounts co
 | Cremini/Brown | 23 | 2.5 | 0.8 | 0.3 | 4.3 | 9.3 | 0.4 | 3.8 | 0-440 |
 | Portobello | 22 | 2.5 | 1.2 | 0.3 | 3.9 | 9.3 | 0.3 | 3.6 | 0-440 |
 | Shiitake | 34 | 2.2 | 2.5 | 0.5 | 6.8 | 5.7 | 0.2 | 3.9 | 0-100 |
-| Oyster | 33 | 3.3 | 2.3 | 0.3 | 6.1 | 2.6 | 0.3 | 3.8 | 0-40 |
-| Maitake | 31 | 1.9 | 2.4 | 0.2 | 6.8 | 2.2 | 0.2 | 3.6 | 0-80 |
-| Enoki | 37 | 2.7 | 2.7 | 0.2 | 7.8 | 1.2 | 0.1 | 3.6 | 0-20 |
-| Porcini (fresh) | 26 | 3.7 | 1.5 | 0.5 | 3.3 | 12.0 | 0.3 | 3.6 | 100-2000 |
-| Chanterelle | 38 | 1.5 | 3.8 | 0.5 | 7.0 | 2.2 | 0.4 | 4.1 | 100-800 |
-| Morel | 31 | 3.1 | 2.8 | 0.6 | 5.1 | 5.5 | 0.2 | 3.4 | 100-500 |
-
-*Vitamin D content varies enormously based on UV exposure. Commercially grown mushrooms without UV exposure contain negligible vitamin D. Wild-harvested mushrooms contain variable but significant amounts.
-
-### Culinary Species Comparison (Dried, per 100 g)
-
-| Species | Calories | Protein (g) | Fiber (g) | Fat (g) | Beta-Glucans (g) |
-|---------|----------|-------------|-----------|---------|-------------------|
-| Shiitake (dried) | 296 | 9.6 | 11.0 | 0.9 | 5-8 |
-| Porcini (dried) | 262 | 21.0 | 8.0 | 3.8 | 3-6 |
-| Morel (dried) | 311 | 17.5 | 10.5 | 3.2 | 2-4 |
-| Oyster (dried) | 330 | 11.0 | 9.0 | 1.0 | 4-7 |
-| Maitake (dried) | 280 | 10.0 | 8.5 | 0.5 | 5-9 |
-| Wood Ear (dried) | 312 | 9.0 | 12.0 | 0.3 | 3-5 |
-
-## Cooking and Nutrition
-
-### Effects of Cooking
-
-Cooking improves digestibility by breaking down chitin cell walls, increases bioavailability of beta-glucans and ergothioneine, reduces agaritine (a mild toxin in raw button mushrooms), and enhances flavor through Maillard reactions. Boiling leaches water-soluble B vitamins (20-40% loss) — save the broth. Microwaving retains more nutrients than boiling. Frying adds calories but develops beneficial Maillard compounds.
-
-### Raw vs. Cooked
-
-Most culinary mushrooms should be cooked. Raw button mushrooms contain agaritine (reduced ~90% by cooking). Cooking also inactivates potential pathogens and improves protein digestibility. Exceptions: some dried mushrooms are reconstituted without further cooking for soups, though brief cooking is still recommended.
-## Dietary Considerations
-
-### For Vegans and Vegetarians
-
-- Mushrooms provide protein, B vitamins, and minerals often lacking in plant-based diets
-- Excellent umami flavor ("fifth taste") enhances meatless dishes
-- Can substitute for meat in many recipes (portobello as burger, shiitake as bacon substitute)
-- Note: Do not rely on mushrooms as a B12 source despite some marketing claims
-
-### For Low-Carb and Keto Diets
-
-- Very low in net carbs (total carbs minus fiber)
-- Button mushrooms: ~2.3 g net carbs per 100 g
-- Excellent for keto-friendly meals
-- High volume-to-calorie ratio aids satiety
-
-### For Immune Support
-
-- Regular consumption of beta-glucan-rich mushrooms supports immune function
-- Shiitake, maitake, oyster, and button mushrooms all contribute meaningful beta-glucans
-- Culinary doses (100-200 g fresh, 3-5 times per week) provide measurable immune benefits
-
-### Allergies and Sensitivities
-
-- Mushroom allergies are rare but do occur
-- Cross-reactivity with mold allergies is possible
-- Some individuals are sensitive to specific mushroom species
-- Introduce new mushroom varieties gradually if you have known sensitivities
-
 ## See Also
 
 - [[medicinal-mushroom-guide]] — bioactive compounds beyond basic nutrition
-- [[functional-mushroom-products]] — concentrated mushroom products for therapeutic use
+- [[functional-mushroom-products]] — concentrated [[cotter-mushroom-products-and-value-added-applications]] for therapeutic use
 - mushroom nutrition guide — this page
 
 ## See Also
 
-- [[edible-wild-mushrooms-foraging-guide]]
+- edible-wild-mushroom-guide
+- [[oyster-mushroom]]

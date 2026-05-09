@@ -1,22 +1,13 @@
 ---
-title: Forest Gardens and Food Forests
+title: bill mollison permaculture a designers manual forest gardens and food forests and Food Forests
 created: 2026-04-28
-tags: [[permaculture, agroforestry, food-forest, polyculture, layers]
+tags: [permaculture, agroforestry, food-forest, polyculture, layers]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["papers/bill-mollison-permaculture-a-designers-manual.md"]
 type: concept
 ---
-
-# Forest Gardens and Food Forests
-
-The forest garden, or food forest, is the crown jewel of permaculture design.
-Bill Mollison drew heavily on the work of Robert Hart and traditional tropical
-agroforestry systems to develop the concept of a multi-layered perennial food
-production system modeled on the structure and function of natural forests.
-Food forests produce food, fuel, fiber, medicine, and habitat while requiring
-minimal external inputs once established. They represent the fullest expression
-of [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]], [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]] to create self-sustaining food systems.
+# Forest Gardens and Food Forests The forest garden, or food forest, is the crown jewel of permaculture design. Bill Mollison drew heavily on the work of Robert Hart and traditional tropical agroforestry systems to develop the concept of a multi-layered perennial food production system modeled on the structure and function of natural forests. Food forests produce food, fuel, fiber, medicine, and habitat while requiring minimal external inputs once established. They represent the fullest expression of [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]], [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]] to create self-sustaining food systems.
 
 ## The Seven Layers of a Food Forest
 
@@ -30,7 +21,7 @@ The canopy layer consists of large mature trees that form the overstory. These
 include full-sized fruit and nut trees such as oak, chestnut, walnut, pecan,
 apple, and pear. In tropical systems, the canopy may include coconut, breadfruit,
 jackfruit, and durian. Canopy trees provide shade, wind protection, leaf litter
-for mulch, and deep nutrient cycling through taproots that access subsoil
+for mulch, and deep [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] through taproots that access subsoil
 minerals. The canopy moderates microclimate for all layers beneath it.
 
 ### Understory Layer
@@ -44,15 +35,15 @@ overstory and providing additional food production at a different height.
 ### Shrub Layer
 
 The shrub layer includes woody plants typically under three meters tall such
-as currants, gooseberries, blueberries, hazelnuts, and many medicinal herbs.
-Shrubs provide berries, nitrogen fixation through species like Siberian pea
+as currants, gooseberries, blueberries, hazelnuts, and many [[permaculture-plants-medicinal-herbs-healing]].
+Shrubs provide berries, [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] through species like Siberian pea
 shrub, wildlife habitat, and wind protection near ground level. Many shrubs
 also produce biomass for [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]].
 
 ### Root Layer
 
 The root or rhizosphere layer includes plants grown primarily for their edible
-roots and tubers. Potatoes, sweet potatoes, Jerusalem artichoke, yacon,
+roots and tubers. Potatoes, sweet potatoes, [[comparison-jerusalem-artichoke-vs-potato]], yacon,
 garlic, onions, and carrots occupy this zone. Root crops can be interplanted
 among trees and shrubs, accessing nutrients at different soil depths than the
 woody plants above them. Some root crops like daikon radish serve as biological
@@ -93,7 +84,20 @@ temperate climates, different species produce at different times, providing a
 continuous supply of fresh food. Tropical systems can produce year-round.
 Beyond food, food forests yield timber, fuelwood, basketry materials, medicines,
 dyes, and craft supplies. They also produce non-material yields including
-wildlife habitat, carbon sequestration, water purification, microclimate
+wildlife habitat, [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]], water purification, microclimate
 regulation, and aesthetic beauty. This multi-yield approach exemplifies the
 [[permaculture-design]] of multifunctionality and reflects the
 comprehensive productivity of natural forest ecosystems.
+
+## See Also
+
+- [[mollison-designers-mulch-pit-interplanting-technique]]
+- [[mollison-designers-termite-and-ant-mound-niche-gardening]]
+- [[mollison-guinea-pig-integration-in-permaculture-gardens]]
+- [[mollison-town-permaculture-urban-food-systems]]
+- [[mollison-wildfire-dynamics-and-firestorm-behavior]]
+- [[permaculture-designers-manual-education-strategies]]
+- [[permaculture-designers-manual-sacred-groves]]
+- [[permaculture-designers-manual-sea-vegetables]]
+- [[permaculture-designers-manual-seed-exchange]]
+- [[permaculture-designers-manual-sheep-grazing]]

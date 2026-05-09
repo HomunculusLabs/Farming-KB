@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Terror and Existential Authenticity in the Tryptamine Experience
+title: mckenna psychedelic terror and existential authenticity and Existential Authenticity in the Tryptamine Experience
 created: 2026-05-06
 tags:
 type: concept
@@ -19,7 +19,7 @@ sources:
 
 # Psychedelic Terror and Existential Authenticity in the Tryptamine Experience
 
-Terence McKenna argued that the presence of fear or terror in a psychedelic experience
+Terence McKenna argued that the presence of fear or terror in a [[leary-psychedelic-experience-bardo-mapping]]
 serves as a marker of existential authenticity. This stance directly challenges the
 predominant hedonistic framework through which psychedelics are often evaluated, and
 positions the tryptamine experience within a tradition of genuine encounter with the
@@ -56,8 +56,8 @@ by tryptamines are, he insisted, "profoundly strange and alien," and any adequat
 response to them must encompass the full emotional range of a being confronting the
 limits of its own understanding.
 
-This perspective stands in contrast to the "set and setting" paradigm that dominated
-clinical psychedelic research, which tended to treat negative experiences as failures of
+This perspective stands in contrast to the "[[lsd-set-and-setting-framework]]" paradigm that dominated
+clinical [[mckenna-suppression-psychedelic-research-lsd-therapy]], which tended to treat negative experiences as failures of
 preparation. McKenna's position suggests instead that some degree of existential
 confrontation is inherent to the tryptamine experience and should be expected rather
 than eliminated.
@@ -86,7 +86,7 @@ during the psychedelic encounter. He rejected the posture of "kneeling in genufl
 before a god," comparing it unfavorably to Dorothy's first encounter with Oz. "There
 is no dignity in the universe unless we meet these things on our feet." This means
 approaching the entities and dimensions encountered in the tryptamine state with an
-I/Thou relationship, asking "what can you show me?" rather than submitting
+I/[[i-thou-relationship-hyperspace-entities-tryptamine]], asking "what can you show me?" rather than submitting
 uncritically to claimed authority. Magicians and invokers, McKenna noted, have always
 understood that one must enter such encounters "with one's wits about oneself."
 
@@ -103,7 +103,7 @@ can become an obstacle to understanding represents a sophisticated phenomenologi
 observation — the affective response to the transcendent can be so overwhelming that
 it prevents the cognitive engagement necessary to integrate the experience.
 
-This dynamic has practical implications for psychedelic therapy and exploration. The
+This dynamic has practical implications for [[metzner-psycholytic-psychedelic-therapy-models]] and exploration. The
 cultivation of what might be called "sober astonishment" — the capacity to remain
 emotionally engaged without being cognitively disabled — appears to be a skill that
 develops with experience and intention.

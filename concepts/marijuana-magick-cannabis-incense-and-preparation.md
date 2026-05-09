@@ -1,5 +1,5 @@
 ---
-title: Cannabis Incense and Preparation Methods
+title: Cannabis Incense and amanita-muscaria-preparation-methods
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -12,7 +12,7 @@ tags: [cannabis]
 
 ## Overview
 
-"A Practitioner's Guide to Marijuana Magick" describes several methods for preparing cannabis for ritual use, including infusion into oils and liquids, burning as incense, vaporizing, and smoking through various implements. Each preparation method is tied to specific rituals and carries symbolic meaning within the practice. The guide treats preparation as itself a sacred act -- the transformation of raw plant material into a ritual vehicle is an act of devotion to the earth that produced it.
+"A Practitioner's Guide to [[marijuana-magick-cannabis-sacred-spatial-preparation]]" describes several methods for preparing cannabis for ritual use, including infusion into oils and liquids, burning as incense, vaporizing, and smoking through various implements. Each preparation method is tied to specific rituals and carries symbolic meaning within the practice. The guide treats preparation as itself a sacred act -- the transformation of raw plant material into a ritual vehicle is an act of devotion to the earth that produced it.
 
 ## Incense in Ritual
 
@@ -38,7 +38,7 @@ The Blessing of the Oil ritual centers on preparing and using cannabis-infused o
 
 ### Preparation Process
 
-1. **Selection**: Start with pure olive oil and cannabis flower. The text recommends "a few grams" of cannabis for a standard preparation, though the practitioner can use as much as they wish
+1. **Selection**: Start with pure olive oil and [[cervantes-cannabis-flower-anatomy]]. The text recommends "a few grams" of cannabis for a standard preparation, though the practitioner can use as much as they wish
 2. **Steeping**: Soak the cannabis in the olive oil and allow it to steep for "several days until the oil has been thoroughly infused." This slow extraction process treats time as an active ingredient -- the longer steeping is a period of transformation during which the herb's properties transfer to the oil
 3. **Ritual deployment**: Pour the infused oil into a chalice as the central ritual object, surrounded by the pentagram and candles
 
@@ -52,13 +52,13 @@ During the ritual, the practitioner:
 
 ### Symbolic Significance
 
-Olive oil carries its own ancient sacred associations. In Abrahamic traditions, anointing with oil marks individuals as chosen, consecrated, or healed. In ancient Greek and Roman religion, olive oil was sacred to Athena/Minerva and used in athletic, religious, and therapeutic contexts. Combining olive oil with cannabis creates a dual-purpose sacrament that draws on millennia of oil-based religious practice while adding the specific psychoactive and healing properties of cannabis.
+Olive oil carries its own ancient sacred associations. In Abrahamic traditions, anointing with oil marks individuals as chosen, consecrated, or healed. In [[ancient-greek-mystery-cults-comparison]] and Roman religion, olive oil was sacred to Athena/Minerva and used in athletic, religious, and therapeutic contexts. Combining olive oil with cannabis creates a dual-purpose sacrament that draws on millennia of oil-based religious practice while adding the specific psychoactive and healing properties of cannabis.
 
 The text states that through this anointing, cannabis aids in "opening the gateways of the body and the chakras," allowing the practitioner to achieve healing and self-improvement "in a more succinct manner than we might be able to do solely through yoga or meditation."
 
 ## Cannabis-Infused Liquid (Tincture)
 
-For the "Harnessing of the Earth's Energy" healing ritual, a cannabis tincture or infusion is prepared using a liquid medium:
+For the "Harnessing of the Earth's Energy" [[cannabis-healing-ritual]], a [[cannabis-tincture-preparation]] or infusion is prepared using a liquid medium:
 
 ### Preparation Process
 

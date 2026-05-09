@@ -1,16 +1,17 @@
 ---
-title: Permaculture Principle 8 — Integrate Rather Than Segregate
+title: Permaculture Principle 8 — permaculture principle integrate rather than segregate Than Segregate
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, principles, design, ecology, plant-systems, guilds]
 sources:
-  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+  sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 
 # Permaculture Principle 8 — Integrate Rather Than Segregate
 
-The eighth of David Holmgren's twelve permaculture design principles. By putting the right things in the right place, relationships develop between them, and they support each other. This principle emphasizes that the connections between elements are often more important than the elements themselves.
+The eighth of David Holmgren's twelve [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] principles. By putting the right things in the right place, relationships develop between them, and they support each other. This principle emphasizes that the connections between elements are often more important than the elements themselves.
 
 > "Many hands make light work: By valuing and working with the relationships between things, we reduce the need for labor and external inputs." — David Holmgren
 
@@ -30,17 +31,17 @@ Holmgren notes that diversity of elements and functions is one of the key charac
 
 Plant guilds are integrated communities of plants, animals, and microbes that support each other. Rather than growing a single crop in isolation, a guild combines species that:
 
-- Provide nutrients (nitrogen fixers, dynamic accumulators)
+- Provide nutrients (nitrogen fixers, [[comparison-dynamic-accumulators-vs-cover-crops]])
 - Provide pest control (insectary plants, habitat for predators)
-- Provide mulch and organic matter (chop-and-drop plants)
-- Provide structural support (trellising plants, wind protection)
+- Provide mulch and [[hamilton-composting-and-organic-matter-management]] (chop-and-drop plants)
+- Provide structural support (trellising plants, [[cervantes-wind-protection-outdoor-cannabis]])
 - Occupy different root zones and canopy layers to reduce competition
 
 See [[permaculture-guild-design]] and [[gaia-garden-plant-guilds]] for detailed guild examples.
 
 ## Functional Connections
 
-The key to integration is identifying functional connections — the ways that elements can serve each other. Holmgren provides the example of locating a chicken coop near a kitchen garden so that food scraps go to chickens, chicken manure goes to compost, and compost goes to garden beds, all with minimal transport.
+The key to integration is identifying functional connections — the ways that elements can serve each other. Holmgren provides the example of locating a chicken coop near a [[holzer-kitchen-garden-herbs-and-medicinal-plants]] so that food scraps go to chickens, chicken manure goes to compost, and compost goes to garden beds, all with minimal transport.
 
 Integration can occur at many scales:
 
@@ -79,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

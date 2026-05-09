@@ -5,7 +5,7 @@ updated: 2026-04-23
 type: concept
 tags: [mycorrhizae, fungi, symbiosis, plant-nutrition]
 sources:
-  - "raw/papers/teaming-with-microbes-lowenfels.md"
+  sources: []
 ---
 
 # Mycorrhizal Associations
@@ -34,7 +34,7 @@ Endomycorrhizal fungi actually penetrate and grow inside roots as well as extend
 
 Both types can extend the reach and surface area of plant roots dramatically. The effective surface area of a tree's roots can be increased 700 to 1000 times by mycorrhizal association. This massive extension allows plants to access water and nutrients far beyond the physical reach of their root systems.
 
-The longer a root is alive, the more extensive the mycorrhizal network becomes. This is why perennial plants and trees benefit so much more from mycorrhizae than short-lived annuals — the fungi have time to establish and branch extensively.
+The longer a root is alive, the more extensive the [[arbuscular-mycorrhizal-network-visualization-anastomosis]] becomes. This is why perennial plants and trees benefit so much more from mycorrhizae than short-lived annuals — the fungi have time to establish and branch extensively.
 
 ## Nutrient mining — especially phosphorus
 
@@ -48,10 +48,10 @@ When mycorrhizal populations are reduced by poor gardening practices, plants los
 
 All soil fungi are very fragile. Mycorrhizal fungi are damaged or destroyed by:
 
-- **Soil compaction** — fungal tubes are crushed and fungi killed; roots cannot move through compacted soil and lose their mycorrhizal nutrient delivery system
+- **Soil compaction** — fungal tubes are crushed and fungi killed; roots cannot move through compacted soil and lose their [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] delivery system
 - **Fungicides and pesticides** — chemicals suck the cytoplasm out of the fungal body, killing the organism
-- **Inorganic fertilizers** — high NPK numbers (all three above 10) kill fragile fungi (Rule #13); these are not just bad for mycorrhizae but for the entire soil food web
-- **Rototilling and double digging** — simply break up the hyphae (Rule #18); mycorrhizal networks that took months to establish are destroyed in an instant
+- **[[ingham-inorganic-fertilizers-soil-biology-damage]]** — high NPK numbers (all three above 10) kill fragile fungi (Rule #13); these are not just bad for mycorrhizae but for the entire soil food web
+- **Rototilling and [[comparison-double-digging-vs-no-till]]** — simply break up the hyphae (Rule #18); [[dighton-mycorrhizal-networks-carbon-transfer]] that took months to establish are destroyed in an instant
 - **Air pollution** — particularly nitrogenous substances, which decrease fruiting bodies of mycorrhizal fungi
 
 ## Nitrogen form and mycorrhizal preference
@@ -62,7 +62,7 @@ Vegetables, annuals, and grasses prefer nitrate nitrogen and do best in bacteria
 
 ## Plants that do not form mycorrhizae
 
-Notable non-mycorrhizal plants include many members of the Brassicaceae family (cabbages, mustards, and related vegetables). These plants have evolved alternative strategies for nutrient acquisition and do not benefit from mycorrhizal inoculation.
+Notable non-mycorrhizal plants include many members of the Brassicaceae family (cabbages, mustards, and related vegetables). These plants have evolved alternative strategies for nutrient acquisition and do not benefit from [[teaming-with-fungi-mycorrhizal-inoculation-techniques]].
 
 ## Supporting mycorrhizae in practice
 
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -3,7 +3,7 @@
 
 ## Overview
 
-Species accumulation curves (also called collector's curves) and rarefaction are fundamental quantitative tools in [[mycology]]: determining how many species are actually present at a site when sampling is inevitably incomplete. Because fungi fruit intermittently and many species are cryptic, achieving a complete inventory requires understanding the relationship between sampling effort and species discovery.
+Species accumulation curves (also called collector's curves) and rarefaction are fundamental quantitative tools in [[mycology]]: determining how many species are actually present at a site when sampling is inevitably incomplete. Because [[mycorrhizal-fungi-fruit-trees]] intermittently and many species are cryptic, achieving a complete inventory requires understanding the relationship between sampling effort and species discovery.
 
 ## The Species Accumulation Curve
 
@@ -75,16 +75,16 @@ Several indices attempt to estimate total richness independent of sample number:
 Both make specific assumptions about the relationship between species number (S) and total individuals (n) that may not hold for [[fungal-biodiversity-assessment-methods]]. Three scales of diversity are recognized:
 
 - **[[beta-diversity-root-soil-compartments-cannabis]]**: Species turnover between habitats or along environmental gradients
-- **Gamma diversity**: Total species richness across all habitats in a landscape
+- **[[alpha-beta-gamma-diversity-fungi]]**: Total species richness across all habitats in a landscape
 
-The relationship alpha/gamma provides an estimate of beta diversity (turnover rate). For lichens in Pacific Northwest forests, cyanolichens, alectorioid lichens, and green-alga foliose lichens respond differently to canopy position, forest age, tree density, and habitat heterogeneity, demonstrating the importance of partitioning data by functional or morphological groups.
+The relationship alpha/gamma provides an estimate of [[alpha-beta-diversity-cannabis-root-microbiomes]] (turnover rate). For lichens in Pacific Northwest forests, cyanolichens, alectorioid lichens, and green-alga foliose lichens respond differently to canopy position, forest age, tree density, and habitat heterogeneity, demonstrating the importance of partitioning data by functional or morphological groups.
 
 ## Recommendations for Fungal Surveys
 
 1. Always generate species accumulation curves to determine whether sampling effort has been sufficient
 2. Use rarefaction when comparing sites with unequal sample sizes
 3. Apply non-parametric richness estimators (Chao1, ACE, jackknife) to estimate total richness
-4. Report multiple diversity indices (at minimum Shannon and Simpson) alongside raw species counts
+4. Report multiple [[fungal-diversity-indices-community-analysis]] (at minimum Shannon and Simpson) alongside raw species counts
 5. Clearly define which measure of richness (numerical, density, or total) is being used
 6. Conduct long-term sampling (minimum 5 years, preferably 10+) for macrofungal inventories
 7. Use jackknifing to generate confidence intervals around diversity estimates

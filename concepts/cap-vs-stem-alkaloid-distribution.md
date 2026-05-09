@@ -1,11 +1,10 @@
 ---
-title: Cap vs Stem Alkaloid Distribution
-created: 2026-04-28
-tags: [alkaloid-distribution, psilocybin, psilocin, caps, stems, psilocybe-cubensis, fruiting-body, anatomy]
+title: Cap vs cap-and-stem-alkaloid-distribution-in-psilocybe-cubensis-strains Distribution in brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting
 date: 2026-04-28
 updated: 2026-04-28
+tags: [psilocybin, psilocin, alkaloids, mushroom-anatomy, cap, stem, psilocybe-cubensis]
 sources:
-  - Bigwood, J. and Beug, M.W. (1982). Variation of Psilocybin and Psilocin Levels with Repeated Flushes of Mature Sporocarps of Psilocybe cubensis. Journal of Ethnopharmacology, 5, 287-291.
+  - /Users/t3rpz/wiki/raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
 type: concept
 ---
 
@@ -13,83 +12,123 @@ type: concept
 
 ## Overview
 
-The distribution of [[psilocin]] between the cap (pileus) and stem (stipe) of [[psilocybe-cubensis]] consists of two main structural components:
+Bigwood and Beug (1982) provided the first controlled comparative data on
+the distribution of [[psilocybin]] and [[psilocin]] between the cap
+(pileus) and stem (stipe) of [[psilocybe-cubensis]]. Their analysis of
+three different strains revealed that alkaloid partitioning between these
+two mushroom structures is non-uniform and strain-dependent, with
+important implications for dosing accuracy and preparation methods.
 
-### Cap (Pileus)
+## Experimental Design
 
-The cap is the upper, umbrella-shaped portion of the mushroom. It contains several specialized tissue types:
+The cap-versus-stem analysis was performed on first-flush mushrooms from
+three distinct strains of Psilocybe cubensis, all cultivated on
+rye-grain substrate under controlled conditions. The three strains
+examined were:
 
-- **Hymenium**: The spore-bearing surface on the gill faces, composed of basidia (spore-producing cells) and sterile cells
-- **Trama**: The internal supportive tissue of the gills
-- **Pileipellis**: The outer skin or cuticle of the cap
-- **Context**: The flesy interior tissue between the pileipellis and the gills
+- **M.R. strain**: An unidentified commercial or collected strain
+- **Ecuadorian strain**: Originating from Ecuador
+- **Amazon strain**: Collected near Pucallpa, Peru in the Amazon basin
 
-The cap is the most metabolically active region of the fruiting body, housing the reproductive structures and the majority of the cellular machinery for spore production.
+Caps and stems were separated and analyzed independently by reversed-phase
+HPLC calibrated against NIDA standards. All measurements are reported in
+mg/g dry weight.
 
-### Stem (Stipe)
+## Cap Concentration Advantage for Psilocybin
 
-The stem is the cylindrical support structure beneath the cap. It consists of:
+Across all three strains examined, the caps contained higher psilocybin
+concentrations than the stems, though the magnitude of the difference
+varied by strain. In the M.R. and Ecuadorian strains, caps contained
+roughly 60% more psilocybin per gram dry weight than stems:
 
-- **Cortex**: The outer dense layer of longitudinal hyphae providing structural rigidity
-- **Medulla**: The central less dense core of loosely interwoven hyphae
-- **Partial veil remnant**: The annulus or ring, a remnant of the tissue that connected the cap margin to the stem in immature specimens
+- **M.R. strain**: caps 6.7 mg/g, stems 4.2 mg/g (cap-to-stem ratio 1.6:1)
+- **Ecuadorian strain**: caps 7.6 mg/g, stems 4.7 mg/g (ratio 1.6:1)
+- **Amazon strain**: caps 5.7 mg/g, stems 5.7 mg/g (ratio 1.0:1)
 
-The stem is primarily a structural organ, though it also serves as a conduit for water and nutrients moving between the substrate and the cap.
+The Amazon strain was unique in showing equal [[sandoz-psilocybin-distribution-program]]
+between cap and stem. This suggests strain-specific genetic variation in
+how the fungus allocates alkaloids between reproductive (cap) and
+structural (stem) tissues, rather than a universal biological rule.
 
-## Measured Psilocybin Distribution
+## Psilocin Localization: Strain-Dependent Reversal
 
-Across all three strains examined in the first flush, caps contained approximately twice as much psilocybin as stems on a dry weight basis:
+The distribution of psilocin between cap and stem showed an even more
+striking and unexpected strain-dependent pattern. In the M.R. and
+Ecuadorian strains, the small amount of psilocin detected in the first
+flush was found entirely or predominantly in the stems:
 
-| Strain | Caps (mg/g) | Stems (mg/g) | Cap-to-Stem Ratio |
-|--------|------------|-------------|-------------------|
-| M.R. strain | 6.7 | 4.2 | 1.6x |
-| Equadorian strain | 7.6 | 4.7 | 1.6x |
-| Amazon strain | 5.7 | 5.7 | 1.0x |
+- **M.R. strain**: caps 0 mg/g, stems 0.35 mg/g psilocin
+- **Ecuadorian strain**: caps 0 mg/g, stems 0.4 mg/g psilocin
 
-The M.R. and Equadorian strains showed a clear 1.6-fold concentration advantage in caps. The Amazon strain was unusual in showing equal psilocybin levels in both tissues, suggesting that this strain either transports psilocybin more efficiently into the stem or produces it at higher levels in stipe tissue.
+Conversely, the Amazon strain showed a trace of psilocin in the cap
+(0.1 mg/g) but none whatsoever in the stem (0 mg/g). This complete
+reversal of localization pattern between strains is remarkable and
+suggests fundamentally different enzymatic activity patterns in different
+genetic lineages.
 
-## Measured Psilocin Distribution
+## Biological Interpretation
 
-The pattern for [[psilocin]] in stems of the M.R. and Equadorian strains could indicate several processes:
+The preferential accumulation of psilocybin in caps is consistent with
+the hypothesis that defensive alkaloid compounds are concentrated in the
+most vulnerable and reproductively important tissue. The cap bears the
+spore-producing hymenium and represents the most exposed surface area of
+the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]], making it the primary target for herbivores, insects,
+and [[bloomfield-fungal-pathogens-and-parasites]]. Concentrating defensive compounds there would
+provide the greatest protective benefit per unit of metabolic investment.
 
-- **Active dephosphorylation**: Phosphatase enzymes in the stem tissue may convert psilocybin to psilocin during transport from cap to mycelial network
-- **Preferential accumulation**: Psilocin produced in the cap may be selectively transported to and accumulated in the stem
-- **Reduced degradation**: Stem tissue may lack the oxidative enzymes present in cap tissue that would degrade free psilocin, allowing it to accumulate
+The presence of psilocin in stems of the M.R. and Ecuadorian strains
+is harder to explain from an adaptive perspective. Since psilocin is
+more chemically reactive and less stable than its phosphorylated precursor
+psilocybin, its preferential localization in structural stem tissue may
+reflect differential activity of phosphatase enzymes in stem tissue rather
+than an intentional defensive distribution pattern.
 
-### Strain-Specific Enzyme Localization
+## Relationship to Flush Number
 
-The reversal of psilocin localization between strains suggests that the enzymes responsible for psilocybin dephosphorylation (likely phosphatases) are differentially expressed or localized depending on the genetic background. This represents a genuine genetic polymorphism affecting tissue-specific metabolism, analogous to the well-documented variation in enzyme expression patterns between cultivars of crop plants.
+These measurements were taken exclusively from first-flush mushrooms. Since
+[[psilocybin-psilocin-variation-across-flushes]] demonstrates that psilocin
+is typically absent or minimal in the first flush, the very low psilocin
+values reported here are expected and may not represent the full
+cap-versus-stem distribution pattern that would emerge in later flushes
+when overall psilocin levels are substantially higher.
 
-### Developmental Regulation
+## Implications for Taxonomic Studies
 
-The tissue-specific distribution may also change over the lifespan of the fruiting body. The first-flush data presented here captures only one developmental time point. The distribution pattern in mature, sporulating caps versus immature buttons may differ substantially, as enzymatic activity shifts during the transition from growth to reproduction.
+The strain-dependent variation in cap-versus-stem alkaloid distribution
+suggests that alkaloid profiling of separated cap and stem tissue could
+serve as a chemotaxonomic marker for distinguishing between genetic
+lineages within Psilocybe cubensis. However, this potential application
+would require much larger sample sizes and analysis across multiple
+flushes before the patterns could be considered reliable diagnostic
+characters.
 
-## Mass Balance Considerations
+## Relationship to Fruiting Biology
 
-When considering total alkaloid yield from a fruiting body, both concentration and tissue mass must be accounted for:
+The fact that caps consistently contain more psilocybin across multiple
+strains aligns with the known biology of mushroom development. The cap
+is the primary site of spore production and represents the reproductive
+investment of the organism. Allocating defensive alkaloids preferentially
+to the cap protects this reproductive structure from herbivory and
+pathogen attack, maximizing the probability of successful spore
+dispersal. The stem, as a primarily structural organ, requires less
+chemical protection.
 
-- Caps typically constitute 30 to 50 percent of the total dry weight of a [[tryptamine]] alkaloid quantification should include specifications for tissue sampling, preparation, and homogenization to ensure comparability between studies.
+## Dosing Implications
+
+The approximately 1.5-2x higher psilocybin concentration in caps of two
+out of three strains means that whole-mushroom preparations including
+caps will have different average potency than stem-only material. Users
+who separate caps from stems and consume them independently should be
+aware that caps deliver a disproportionately larger dose of the primary
+active compound. This anatomical difference compounds the already
+substantial variation in overall alkaloid content between flushes and
+strains documented in [[street-sample-alkaloid-variability]].
 
 ## See Also
 
-- [[psilocin-accumulation-pattern-across-flushes]]
-- [[hplc-analysis-of-tryptamine-alkaloids]]
-## Practical Considerations
-
-Successful implementation of Cap vs Stem Alkaloid Distribution requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-
+- [[psilocybin]]
+- [[psilocin]]
+- [[psilocybe-cubensis]]
+- [[psilocybin-psilocin-variation-across-flushes]]
+- [[street-sample-alkaloid-variability]]
+- [[miniculture-cultivation-method]]

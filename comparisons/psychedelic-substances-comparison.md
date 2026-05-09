@@ -4,7 +4,8 @@ created: 2026-04-13
 updated: 2026-04-13
 type: comparison
 tags: [psychedelics, comparison]
-sources: []
+sources:
+  sources: []
 ---
 # Psychedelic Substances Comparison
 
@@ -14,15 +15,15 @@ These substances vary enormously in duration (5 minutes to 16 hours), route of a
 
 ## Substance Comparison Table
 
-| Substance | Class | Typical Duration | Common Dose Range | Route | Legality (US, 2026) | Therapeutic Evidence | Safety Profile | Set/Setting Needs |
+| Substance | Class | Typical Duration | Common Dose Range | Route | Legality (US, 2026) | Therapeutic Evidence | [[cannabis-safety-profile-and-overdose-risk]] | Set/Setting Needs |
 |-----------|-------|-----------------|-------------------|-------|---------------------|---------------------|----------------|-------------------|
 | **LSD** | Tryptamine (ergoline) | 8-12 hours | 50-200 ug | Oral | Schedule I | Strong (depression, anxiety, addiction) | High physical safety; HPPD risk rare | Moderate — long duration demands prepared environment |
 | **Psilocybin** | Tryptamine | 4-6 hours | 1-5 g dried mushrooms | Oral | Schedule I (decriminalized in some jurisdictions) | Strong (depression, end-of-life anxiety, OCD) | High physical safety; nausea common | Low-moderate — shorter duration more forgiving |
 | **DMT** | Tryptamine | 5-30 minutes | 20-60 mg (vaped) | Vaporized, oral (with MAOI) | Schedule I | Emerging (depression, addiction) | High physical safety; intense psychological risk | High — rapid onset and intensity require experience |
-| **Mescaline** | Phenethylamine | 8-14 hours | 200-500 mg (pure) | Oral | Schedule I (peyote: religious exemption) | Limited clinical research | Moderate — significant nausea, cardiovascular load | Moderate — long duration; ceremony context traditional |
-| **MDMA** | Empathogen/phenethylamine | 3-6 hours | 75-125 mg | Oral | Schedule I (FDA breakthrough therapy designation) | Very strong (PTSD, social anxiety) | Moderate — neurotoxicity risk with frequent use, hydration concern | Moderate — therapeutic window narrow; emotional openness |
+| **Mescaline** | Phenethylamine | 8-14 hours | 200-500 mg (pure) | Oral | Schedule I (peyote: religious exemption) | Limited [[hofmann-lsd-clinical-research-early-studies]] | Moderate — significant nausea, cardiovascular load | Moderate — long duration; ceremony context traditional |
+| **MDMA** | Empathogen/phenethylamine | 3-6 hours | 75-125 mg | Oral | Schedule I (FDA breakthrough therapy designation) | Very strong (PTSD, social anxiety) | Moderate — neurotoxicity risk with frequent use, hydration concern | Moderate — [[blesching-cannabis-therapeutic-window-dosing]] narrow; emotional openness |
 | **Ketamine** | Dissociative (NMDA antagonist) | 30-90 minutes (IV), 1-2 hours (oral) | 0.5-1 mg/kg (IV) | IV, IM, oral, intranasal | Schedule III (FDA-approved for depression) | Very strong (treatment-resistant depression, suicidality) | Moderate — bladder toxicity with chronic abuse, addiction potential | Low-moderate — clinical setting standard; shorter duration |
-| **Salvia divinorum** | Dissociative (kappa-opioid) | 5-15 minutes | 200-500 ug (40x extract) | Sublingual, vaporized | Unscheduled in many US states (varies) | Minimal clinical research | Moderate — falls, confusion; low addiction potential | Very high — sudden ego dissolution requires sitter |
+| **[[golden-guide-salvia-divinorum-and-diviner-sage]]** | Dissociative (kappa-opioid) | 5-15 minutes | 200-500 ug (40x extract) | Sublingual, vaporized | Unscheduled in many US states (varies) | Minimal clinical research | Moderate — falls, confusion; low addiction potential | Very high — sudden [[psilocybin-ego-dissolution-mechanisms]] requires sitter |
 | **Ibogaine** | Tryptamine (oneirogenic) | 12-36 hours (acute), weeks (afterglow) | 10-20 mg/kg (HCl) | Oral | Schedule I in US; legal in some countries | Moderate (addiction interruption, though risky) | Low-moderate — cardiotoxicity risk (QT prolongation) can be fatal | Very high — medical screening essential; multi-day commitment |
 
 ## Duration and Onset Comparison
@@ -46,7 +47,7 @@ The clinical evidence base varies dramatically across substances. MDMA-assisted 
 
 All classic psychedelics (LSD, psilocybin, DMT, mescaline) share a favorable physiological safety profile — they are non-addictive with no known lethal overdose in humans. The primary risks are psychological: challenging experiences, trauma activation, and precipitation of psychotic states in predisposed individuals. MDMA carries additional risks of serotonergic neurotoxicity with heavy or frequent use, hyponatremia from excessive water intake, and dangerous drug interactions (especially with MAOIs). Ketamine has documented bladder toxicity and psychological dependence potential with chronic use. Ibogaine requires ECG screening due to risk of fatal cardiac arrhythmias. See [[salvia-divinorum]]
 - [[psychedelic-research-legal-history-united-states]]
-- [[hallucinogenic-mushroom-health-risks-and-harm-reduction]]
+- hallucinogenic-mushroom-health-risks-and-harm-reduction
 ## Practical Considerations
 
 When working with Psychedelic Substances Comparison, several practical factors should be
@@ -63,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

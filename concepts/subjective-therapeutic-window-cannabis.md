@@ -3,7 +3,7 @@
 The subjective therapeutic window is the optimal dose range at which
 cannabis produces desired therapeutic effects without adverse reactions.
 Establishing this personal window is essential for effective medical
-cannabis use, as the vast majority of adverse effects are directly related
+cannabis use, as the vast majority of [[blesching-cannabis-safety-adverse-effects-evidence]] are directly related
 to consuming cannabis in excess of this range. The concept applies the
 principle that more is not better—with cannabis, taking too little is
 sub-optimal while taking too much can actually increase the very symptoms
@@ -20,7 +20,7 @@ personal dosing critical.
 
 The therapeutic window is "subjective" because it varies from person to
 person based on individual endocannabinoid tone, body chemistry, tolerance,
-the specific cannabis strain and batch, and the mode of administration.
+the specific [[blesching-cannabis-strain-selection-receptor-targeting]] and batch, and the mode of administration.
 
 ## Factors That Determine the Therapeutic Window
 
@@ -31,7 +31,7 @@ cannabis will be experienced:
 
 - **CB1 deficiency**: Patients with neurological disorders or mental
   health challenges may be lacking CB1 activation and would benefit from
-  strains with a higher THC:CBD ratio
+  strains with a higher THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]]
 - **CB2 deficiency**: Patients who are immune-compromised or experience
   chronic inflammation may be CB2-deficient and would benefit from strains
   with a lower THC:CBD ratio (higher CBD content)
@@ -138,9 +138,6 @@ therapeutic window:
 The subjective therapeutic window is not fixed—it can shift over time
 with repeated use, changes in health status, and variations in the
 underlying condition being treated. Regular reassessment is appropriate,
-particularly when switching strains or products.
-
-The concept of the subjective therapeutic window transforms cannabis from
 ## See Also
 
 ## See Also

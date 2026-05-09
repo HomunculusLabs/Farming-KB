@@ -20,14 +20,14 @@ Puffballs are a group of fungi belonging to the order Lycoperdales within
 the class Basidiomycota. They produce spores internally within enclosed
 fruiting bodies, classifying them among the gasteromycetes. Unlike
 mushrooms with exposed gills, puffballs release their spores through a
-single opening or by disintegration of the fruiting body wall. The name
+single opening or by disintegration of the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] wall. The name
 refers to the visible clouds of spores ejected when mature specimens are
 disturbed by raindrops, falling debris, or animals.
 
 ## [[symbiotic-fungi-piriformospora-indica]]
-- [[endophytic-fungi-and-plant-health]]
+- endophytic-fungi-and-plant-health
 
-- [Phallus Impudicus (Stinkhorn)]([[fungal-spore-biology]](fungal-spore-biology.md)
+- [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]] (Stinkhorn)]([[fungal-spore-biology]](fungal-spore-biology.md)
 - [[mycelial-networks]](mycelium-network.md)
 
 ## References
@@ -113,4 +113,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

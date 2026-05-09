@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [philosophy, confession, god, natural-farming, autobiography]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
@@ -55,7 +56,7 @@ these decades, he had not lived even a single day at peace.
 ## Atonement and the Future of [[fukuoka-one-straw-revolution-impact]] may vanish as just
 one transient farming technique.
 
-He makes clear that natural farming is not limited to his
+He makes clear that [[comparison-natural-farming-vs-permaculture]] is not limited to his
 own humble experiences; it is not something that an
 individual can establish or that can be perfected by man. He
 sensed the will of God, but this task was beyond his powers.
@@ -74,7 +75,7 @@ must always be started and developed according to God's
 instructions. All man ever had to do was to listen humbly
 to the word of God and lend just a little bit of a hand.
 
-God in all ages appears as a discontinuous continuum.
+God in all ages appears as a [[fukuoka-death-discontinuous-continuum-philosophy]].
 Natural farming too, since antiquity, may have arisen and
 vanished, and risen again to flourish. It is one of the
 spiritual lights that must be kept burning throughout the

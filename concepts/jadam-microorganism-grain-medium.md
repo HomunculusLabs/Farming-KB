@@ -1,5 +1,5 @@
 ---
-title: JADAM Microorganism Grain Medium
+title: ultra-low-cost-jadam-microorganism-solution-and-soil-foundation Grain Medium
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 Grains serve as an excellent medium for culturing microorganisms in JADAM.
 The JMS method uses steamed rice or other grains placed in the field to capture
-local indigenous microorganisms. Grains provide ideal nutrition for microbial
+local [[beneficial-indigenous-microorganisms-bim]]. Grains provide ideal nutrition for microbial
 growth due to their starch and sugar content.
 
 ## Why Grains Work
@@ -19,7 +19,7 @@ growth due to their starch and sugar content.
 Grains are rich in carbohydrates (starch) which microorganisms readily consume.
 When steamed, the starch gelatinizes, making it even more accessible. The grain
 becomes a selective medium that favors beneficial microorganisms -- particularly
-lactic acid bacteria and yeasts -- over pathogens.
+lactic [[lactic-acid-bacteria-knf]] and yeasts -- over pathogens.
 
 ## Grains Suitable for JMS Culture
 
@@ -57,7 +57,7 @@ lactic acid bacteria and yeasts -- over pathogens.
 - Do not add salt or seasonings
 - Rice should be slightly undercooked (al dente) -- too soft and it
   becomes anaerobic, too hard and microbes cannot access starch
-- Let cool to ambient temperature before placing in field
+- Let cool to [[jadam-ambient-temperature-principle]] before placing in field
 
 ## Field Inoculation: Capturing Local Microbes
 
@@ -91,4 +91,4 @@ lactic acid bacteria and yeasts -- over pathogens.
 
 ## See Also
 
-- [[spawn-grain-medium-interaction-lentinus-squarrosulus]]
+- spawn-grain-medium-interaction-lentinus-squarrosulus

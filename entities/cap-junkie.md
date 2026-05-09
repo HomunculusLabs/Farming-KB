@@ -28,7 +28,7 @@ sources:
 
 ## Overview
 
-Cap Junkie is a highly potent hybrid cannabis strain bred by crossing
+Cap Junkie is a highly potent hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] bred by crossing
 Capulator's MAC (Miracle Alien Cookies) with Seed Junky Genetics' Kush
 Mints #11. Released in the early 2020s, it rapidly gained notoriety for
 its exceptionally high THC content, frequently testing above 30%, and its
@@ -61,7 +61,7 @@ cookie-dominant flavor profile and the gassy OG tradition.
 Cap Junkie buds are large, dense, and chunky, with a classic indica
 structure. Calyxes are tightly packed and swollen, giving the flowers a
 substantial hand weight. The coloration is a striking contrast of deep
-forest green and vivid purple, with occasional black undertones.
+[[trichoderma-forest-green-mold-guide]] and vivid purple, with occasional black undertones.
 
 Trichome coverage is exceptional, coating buds in a thick, frosty layer
 of translucent and amber glandular trichomes. Pistils are abundant, long,
@@ -69,7 +69,7 @@ and orange to rust-colored, weaving throughout the dense calyx structure.
 
 The visual presentation is consistently premium, with minimal leaf and
 high calyx-to-leaf ratio. Cured flowers often develop a slight sheen
-from the heavy resin production.
+from the heavy [[cannabis-glandular-trichome-types-resin-production-clarke]].
 
 ## Aroma and Flavor
 
@@ -107,7 +107,7 @@ The body effects deepen over 30–60 minutes, producing couch-lock
 sedation in higher doses. Pain relief, muscle relaxation, and appetite
 stimulation are pronounced. The comedown is smooth and sleep-promoting.
 
-Common applications include stress relief, chronic pain management,
+Common applications include stress relief, [[cannabis-chronic-pain-management]] management,
 insomnia, and appetite stimulation. Novice consumers should approach
 with caution due to the extreme potency.
 
@@ -116,12 +116,12 @@ with caution due to the extreme potency.
 Cap Junkie is considered moderately difficult to cultivate, requiring
 experienced grower attention to optimize its potential. It performs well
 in both indoor and outdoor environments but excels under controlled
-indoor conditions with optimized light and nutrient regimens.
+indoor conditions with optimized light and [[cannabis-nutrient-regimens-comparison]].
 
 Flowering time is 8–10 weeks indoors. Yields are above average at
 400–500 g/m² under optimal conditions. The plants develop significant
 branching and respond well to low-stress training and trellising.
-Pest resistance is moderate, with standard preventive measures recommended.
+[[cannabis-disease-pest-resistance-breeding-clarke]] is moderate, with standard preventive measures recommended.
 
 ## See Also
 
@@ -129,4 +129,4 @@ Pest resistance is moderate, with standard preventive measures recommended.
 - [[og-kush]]
 - [[runtz-entity]]
 - animal cookies
-- [[wedding-cake-cannabis]]
+- [[wedding-cake]]

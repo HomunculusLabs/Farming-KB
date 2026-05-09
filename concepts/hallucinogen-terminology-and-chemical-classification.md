@@ -1,5 +1,5 @@
 ---
-title: Hallucinogen Terminology and Chemical Classification
+title: Hallucinogen hallucinogen terminology and chemical classification Classification
 created: 2026-05-06
 tags: [hallucinogens, terminology, chemistry, tryptamines, phenethylamines, classification, pharmacology]
 date: 2026-04-28
@@ -11,7 +11,7 @@ type: concept
 
 # Hallucinogen Terminology and Chemical Classification
 
-The language used to describe hallucinogenic drugs has shifted repeatedly across
+The language used to describe [[metzner-hallucinogenic-drugs-psychotherapy-shamanism]] has shifted repeatedly across
 decades and disciplines, reflecting changing attitudes, scientific understanding,
 and cultural contexts. The terminology is not merely semantic; each label carries
 distinct connotations that influence both clinical perception and public policy.
@@ -90,7 +90,7 @@ metabolism, and blood-brain barrier penetration.
 The tryptamine group shares a common indole ring structure and represents the
 largest and most pharmacologically diverse class of classical hallucinogens:
 
-- **LSD** (lysergic acid diethylamide): The archetypal synthetic tryptamine,
+- **LSD** ([[ergot-and-lysergic-acid-history]] diethylamide): The archetypal synthetic tryptamine,
   first synthesised by Albert Hofmann in 1938 and recognised for its
   psychoactive properties in 1943. It remains the most potent known
   hallucinogen, active at microgram doses.
@@ -118,13 +118,13 @@ largest and most pharmacologically diverse class of classical hallucinogens:
 ### Phenylethylamines
 
 - **Mescaline**: The principal psychoactive alkaloid of the peyote cactus
-  (Lophophora williamsii) and several other cactus species including San Pedro
+  (Lophophora williamsii) and several other cactus species including [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]]
   (Echinopsis pachanoi). Mescaline produces visual hallucinations and altered
   thought patterns with a character distinct from the tryptamine experience.
 
 ### Cannabinoids
 
-- **THC** and related compounds from Cannabis sativa are sometimes classified
+- **THC** and related compounds from [[comparison-cannabis-sativa-vs-cannabis-indica]] are sometimes classified
   alongside hallucinogens, though their pharmacological profile and subjective
   effects differ substantially from both tryptamines and phenethylamines.
 

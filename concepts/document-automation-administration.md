@@ -21,7 +21,7 @@ workflows operate efficiently and securely.
 Document administrators are responsible for managing the document ecosystem
 within an organization. Their responsibilities span template design and maintenance, style guide enforcement, document lifecycle management, and integration with broader enterprise content management systems. In large
 organizations using [[microsoft-word-document-format]] for details on Word file formats
-- [[office-template-engineering]] for template design best practices
+- [[office-template-engineering]] for template design [[arbuscular-mycorrhizal-inoculum-production-best-practices]]
 
 See also: [[fukuoka-natural-farming-philosophy]]
 ## Practical Applications
@@ -91,7 +91,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -101,4 +101,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

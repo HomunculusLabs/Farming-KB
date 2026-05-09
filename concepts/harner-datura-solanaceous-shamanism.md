@@ -50,13 +50,13 @@ The tropane alkaloids share a common bicyclic structure and act primarily as **a
 - **Antimuscarinic peripheral effects**: Dry mouth, dilated pupils (mydriasis), blurred vision, elevated heart rate, urinary retention, elevated body temperature
 - **Central anticholinergic effects**: Confusion, agitation, visual and auditory hallucinations, amnesia, delirium
 - The ratio of central to peripheral effects varies among the different alkaloids and different Datura species
-- Atropine's ability to be absorbed through intact skin is pharmacologically unique among hallucinogenic compounds and enables the topical administration methods used in European witchcraft
+- Atropine's ability to be absorbed through intact skin is pharmacologically unique among hallucinogenic compounds and enables the topical [[cannabis-administration-methods-comparison]] used in [[harner-european-witchcraft-hallucinogens]]
 
 ## Comparison with Ayahuasca
 
 In contrast to ayahuasca (which is typically used in group settings and produces primarily visual hallucinations with relative mental clarity), Datura produces:
 - More **deliriant** effects with genuine confusion and inability to distinguish hallucination from reality
-- Greater **physical danger** due to narrow therapeutic index
+- Greater **physical danger** due to narrow [[cannabis-therapeutic-index-overview]]
 - More frequently **frightening** experiences involving transformation into animals and encounters with malevolent beings
 - Primarily **individual** use by specialists rather than communal ceremonies
 
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

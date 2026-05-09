@@ -1,5 +1,5 @@
 ---
-title: Doubtful and Disputed Neurotropic Species
+title: Doubtful and guzman allen gartz doubtful and disputed neurotropic species Species
 created: 2026-04-28
 tags:
   - taxonomy
@@ -16,8 +16,8 @@ type: concept
 
 # Doubtful and Disputed Neurotropic Species
 
-The study of neurotropic fungi is fraught with taxonomic confusion,
-misidentification, and contradictory chemical analyses. Guzmán, Allen and Gartz
+The study of [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] is fraught with [[neurotropic-fungi-taxonomic-confusion-and-identification]],
+misidentification, and contradictory [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]]. Guzmán, Allen and Gartz
 (1998/2000) identified numerous species whose reported psychoactive properties
 are doubtful, disputed, or based on erroneous studies. Understanding these
 controversies is essential for accurate classification and safe research.
@@ -34,7 +34,7 @@ Bresinsky and Besl (1990) considered studies on the hallucinogenic principles
 of several species to be doubtful. [[gerronema-fibula]], Gymnopilus fulgens,
 G. spectabilis, Hygrocybe psittacina, and H. psittacina var. californica.
 Stijve and Meijer (1993) similarly failed to detect psilocybin or other
-psilocybian compounds in Gymnopilus spp., Panaeolina foenisecii, and
+psilocybian compounds in Gymnopilus spp., [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]], and
 Rickenella straminea. These negative results directly contradict earlier
 positive reports for the same species, highlighting the severity of the
 replication crisis in this field.
@@ -76,14 +76,14 @@ C. siligineoides, when the study actually concerned C. cyanopus and C. smithii.
 
 ## Modern Molecular Techniques in Resolving Disputes
 
-DNA barcoding and phylogenetic analysis have begun to resolve many of the taxonomic disputes catalogued by Guzmán, Allen, and Gartz. [[neurotropic-fungi-world-checklist]]
+DNA barcoding and phylogenetic analysis have begun to resolve many of the taxonomic disputes catalogued by Guzmán, Allen, and Gartz. neurotropic-fungi-world-checklist
 must carefully distinguish between confirmed, probable, and doubtful species.
 Guzmán, Allen and Gartz organized their comprehensive list into four groups,
 reserving the most rigorous standards for species confirmed to contain
-psilocybin and related indoles, while acknowledging the cultural significance
+psilocybin and related indoles, while acknowledging the [[ethnomycology-cultural-significance-sacred-fungi]]
 of species used as sacred fungi without reliable chemical verification.
 
 ## See Also
 
-- [[neurotropic-fungi-world-checklist]] for the classification framework these disputes inform
+- neurotropic-fungi-world-checklist for the classification framework these disputes inform
 - [[psilocybin-chemistry-and-pharmacology]] for the chemical analysis methods underlying these debates

@@ -1,20 +1,21 @@
 ---
-title: Electricity Consumption and Cost Management
+title: cervantes electricity consumption cost management and Cost Management
 created: 2026-04-28
 tags: [cannabis, electricity, cost, security, energy-management]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Electricity Consumption and Cost Management
 
-Managing electricity consumption is a critical aspect of indoor cannabis
+Managing electricity consumption is a critical aspect of [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]]
 cultivation. It affects both the economics of the operation and
 personal security. This page covers cost calculation, consumption
-management strategies, and security considerations. See also
+[[weed-management-strategies]], and security considerations. See also
 [[cervantes-grow-room-security-law-enforcement]].
 
 ## Legal Considerations
@@ -87,7 +88,7 @@ The electric company might call to ask if you are aware of your
 increased electricity bill. This is nothing to worry about. Simply
 reply that you are aware of the electricity being used. If you like to
 make excuses, some appliances that draw a lot of electricity are:
-electric pottery kiln, arc welder, and hot tub.
+electric pottery kiln, arc welder, and [[wood-fired-hot-tub]].
 
 If the situation warrants discretion, take showers at a friend's house
 or at a gym, use a Laundromat, and never use any electrical appliances

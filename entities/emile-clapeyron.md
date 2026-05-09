@@ -91,7 +91,7 @@ updated: 2026-05-02
 
 ## Clausius-Clapeyron relation
 - Cl [[query-what-is-vapor-pressure-deficit-and-why-does-it-matter-for-cannabis]] hases.
-- The equation is central for vapor pressure, boiling, sublimation, and condensation.
+- The equation is central for [[cervantes-vapor-pressure-deficit-transpiration]], boiling, sublimation, and condensation.
 - It connects thermodynamics to meteorology, chemistry, materials science, and geophysics.
 
 ## Other scientific work

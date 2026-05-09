@@ -12,7 +12,7 @@ created: 2026-05-08
 
 The rhizosphere is the narrow zone of soil directly influenced by
 root secretions and associated microorganisms. In Cannabis spp.,
-the rhizosphere hosts a dynamic microbial community serving as the
+the rhizosphere hosts a dynamic [[edaphic-factors-microbial-community-structure]] serving as the
 critical transition between bulk soil ecology and the plant's
 internal root microbiome (endorhiza).
 
@@ -27,7 +27,7 @@ influence.
 
 The rhizosphere is distinct from bulk soil (no direct root
 influence) and endorhiza (bacteria colonizing root tissue).
-It represents a transitional environment where edaphic factors
+It represents a transitional environment where [[soil-edaphic-factors-microbial-communities]]
 and plant-driven selection begin to interact.
 
 ## Community Composition
@@ -44,7 +44,7 @@ soil bacterial phyla:
   Sphingobacteriales involved in organic matter decomposition.
 - **Firmicutes**: Including biocontrol Bacillus species.
 
-Rhizosphere bacteria also interact with fungal saprotrophs and
+[[lowenfels-rhizosphere-bacteria-plant-interaction]] also interact with fungal saprotrophs and
 mycorrhizal mutualists that are essential for nutrient cycling.
 
 ## Rhizosphere vs Bulk Soil
@@ -52,7 +52,7 @@ mycorrhizal mutualists that are essential for nutrient cycling.
 ### Community Differentiation
 
 In Experiment 1, rhizosphere samples did not cluster separately
-from other sample types (unweighted UniFrac ADONIS: R² = 0.07,
+from other sample types ([[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]] ADONIS: R² = 0.07,
 p = 0.07; weighted: R² = 0.09, p = 0.10). Experiment 2, with
 greater edaphic variation, showed significant differentiation
 (weighted: R² = 0.13, p = 0.001). The rhizosphere effect on
@@ -107,7 +107,7 @@ CO2/O2 gradients around roots.
 ## Functional Roles in Cultivation
 
 ### Nutrient Cycling
-Nitrogen fixation, phosphorus solubilization, and organic matter
+[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], phosphorus solubilization, and organic matter
 decomposition make nutrients bioavailable to cannabis roots.
 
 ### Plant Growth Promotion
@@ -117,7 +117,7 @@ regulating plant growth and metabolism.
 
 ### Disease Suppression
 Beneficial organisms suppress pathogens through competitive
-exclusion, antibiotic production, and induced systemic resistance.
+exclusion, antibiotic production, and [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance.
 
 ### Water Retention
 Microbial exopolysaccharides improve soil aggregation and water-

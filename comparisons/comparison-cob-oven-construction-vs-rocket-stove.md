@@ -1,5 +1,5 @@
 ---
-title: "Cob Oven Construction vs Rocket Stove"
+title: "comparison cob oven construction vs rocket stove Construction vs comparison-rocket-stove-vs-masonry-heater"
 created: 2026-04-28
 tags: [comparison, natural-building, cooking, wood-stoves, energy-efficiency]
 date: 2026-04-25
@@ -48,7 +48,7 @@ high temperatures that ensure complete combustion.
 
 Rocket stoves excel at rapid boiling and sustained high-heat cooking. One liter
 of water boils in three to five minutes using only a handful of small twigs.
-The design also extends to rocket mass heaters, which route exhaust gases
+The design also extends to [[query-what-is-a-rocket-mass-heater-and-how-does-it-work]] heaters, which route exhaust gases
 through a horizontal flue embedded in a cob bench, storing heat for twelve to
 twenty-four hours from a single short burn. This variant provides space heating
 alongside cooking capability with dramatically reduced wood consumption compared
@@ -74,7 +74,7 @@ unmatched in its cooking quality and versatility. The retained-heat capability
 makes it ideal for situations where you want to fire once and cook all day. A
 cob oven also serves as a beautiful, functional centerpiece for outdoor kitchen
 designs and pairs naturally with garden-party gatherings, farm-to-table events,
-and educational demonstrations of natural building techniques.
+and educational demonstrations of [[query-how-do-i-choose-a-natural-building-method-for-my-climate]] techniques.
 
 ## When to Choose Rocket Stove
 
@@ -101,6 +101,9 @@ and creates a comprehensive outdoor kitchen that handles every cooking task
 efficiently throughout the year.
 
 ## See Also
+
+- [[comparison-rocket-stove-vs-pellet-stove]]
+- [[comparison-solar-cooking-vs-rocket-stove]]
 
 - [[comparison-solar-cooking-vs-cob-oven]]
 

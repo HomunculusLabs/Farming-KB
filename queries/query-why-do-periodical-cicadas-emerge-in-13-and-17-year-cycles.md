@@ -1,5 +1,5 @@
 ---
-title: Why Do Periodical Cicadas Emerge in 13- and 17-Year Cycles?
+title: Why Do query why do periodical cicadas emerge in 13 and 17 year cycles Emerge in 13- and 17-Year Cycles?
 tags:
   - cicadas
   - magicicada
@@ -27,7 +27,7 @@ created: 2026-04-28
 
 ## Short Answer
 
-Periodical cicadas (*Magicicada*) of  le-mushrooms-north-america emerge in synchronized broods on cycles of exactly **13 or 17 years** — both prime numbers. The leading evolutionary explanation is that **prime-number cycles minimize overlap with predator population cycles** and **reduce hybridization between adjacent broods**. By emerging on prime-number intervals, cicadas avoid synchronizing with predators that cycle at regular (non-prime) intervals, and they reduce the chance that two different broods will emerge in the same year. This strategy, combined with **predator satiation** (emerging in such overwhelming numbers that predators cannot eat them all), has made periodical cicadas one of the most successful and abundant insect species in eastern [[bloomfield-rust-fungus-life-cycles-puccinia-haustoria-spermatia]] hers propose that the long life cycles originated as an adaptation to glacial-interglacial climate oscillations during the Pleistocene epoch. During glacial periods, cooler summers may have been unfavorable for adult cicada activity. By extending the nymphal period to 13 or 17 years, cicadas increased the probability that at least one emergence year would coincide with a warm summer favorable for reproduction. The prime-number cycles could then have been reinforced by the predator avoidance advantages described above.
+Periodical cicadas (*Magicicada*) of  le-mushrooms-north-america emerge in synchronized broods on cycles of exactly **13 or 17 years** — both prime numbers. The leading evolutionary explanation is that **prime-number cycles minimize overlap with predator population cycles** and **reduce hybridization between adjacent broods**. By emerging on prime-number intervals, cicadas avoid synchronizing with predators that cycle at regular (non-prime) intervals, and they reduce the chance that two different broods will emerge in the same year. This strategy, combined with **predator satiation** (emerging in such overwhelming numbers that predators cannot eat them all), has made periodical cicadas one of the most successful and abundant insect species in eastern [[bloomfield-rust-fungus-life-cycles-puccinia-haustoria-spermatia]] hers propose that the long [[bloomfield-rust-fungi-life-cycles-barberry-wheat]] originated as an adaptation to glacial-interglacial climate oscillations during the Pleistocene epoch. During glacial periods, cooler summers may have been unfavorable for adult cicada activity. By extending the nymphal period to 13 or 17 years, cicadas increased the probability that at least one emergence year would coincide with a warm summer favorable for reproduction. The prime-number cycles could then have been reinforced by the predator avoidance advantages described above.
 
 ### Nymphal Development Rate
 
@@ -40,25 +40,26 @@ The actual mechanism likely involves a combination of these factors. Importantly
 
 ## Are the Cycles Changing?
 
-Climate change may be disrupting the stability of periodical cicada cycles:
+[[dighton-fungi-climate-change-feedback]] may be disrupting the stability of periodical cicada cycles:
 
 - Some 17-year broods are producing **"straggler" emergences** 4 years early (i.e., emerging on a 13-year schedule). This has been documented in Brood X and other large broods.
 - The 13-year and 17-year lineages likely originated from a common ancestor and periodically exchange genes when they co-emerge, potentially allowing cycle-switching.
 - Warming soil temperatures may accelerate nymphal development, shorte [[guzman-allen-gartz-amanita-ibotenic-acid-fungi-cultural-significance]] Mid-Atlantic to Midwest |
 | 2032 | VI | 17-year | Appalachian, OH, PA |
 | 2034 | II | 17-year | CT, MD, NC, VA |
-| 2035 | XIV | 17-year | Ohio Valley, PA, WV |
+| 2035 | XIV | 17-year | [[histoplasma-capsulatum-ohio-valley-disease-dimorphic-fungus]], PA, WV |
 
 ## See Also
 
-- cicadas biology ecology and cultural significance
+- cicadas [[endophytic-fungi-biology-ecology-taxonomic-diversity]] and [[ethnomycology-cultural-significance-sacred-fungi]]
 - 
 - 
 - 
 
 ## See Also
-- [[holmgren-emergence-and-long-term-cycles]]
-- [[cotter-mushroom-life-cycle-mycelium-biology]]
+- holmgren-emergence-and-long-term-cycles
+- cotter-mushroom-life-cycle-mycelium-biology
+
 ## Practical Considerations
 
 Successful implementation of Why Do Periodical Cicadas Emerge in 13- and 17-Year Cycles? requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -47,7 +47,7 @@ Mediterranean cultivation began during the Roman era, though large-scale commerc
 
 Lemon trees thrive in subtropical and Mediterranean climates with moderate temperatures. Optimal growth occurs between 13–38°C, with some tolerance for brief freezes to −5°C.
 
-Trees require well-drained soil and consistent moisture. They perform best in sandy loam to loam soils with pH 5.5–7.0 and good organic matter content.
+Trees require well-drained soil and consistent moisture. They perform best in sandy loam to loam soils with pH 5.5–7.0 and good [[hamilton-composting-and-organic-matter-management]] content.
 
 Citrus trees are moderately salt-tolerant compared to other fruit species, making them suitable for coastal plantings. However, chloride accumulation in leaves above 0.3% dry weight causes marginal leaf burn and reduced growth.
 
@@ -59,7 +59,7 @@ The peel is rich in essential oils, primarily limonene (60–70%), β-pinene (10
 
 Flavonoid compounds in lemon include hesperidin, eriocitrin, and diosmin. These compounds exhibit documented antioxidant and anti-inflammatory properties in clinical studies.
 
-Naringenin, a flavanone derived from hesperidin metabolism, has shown hepatoprotective and lipid-modulating effects in animal models. Human clinical data remain limited but promising for metabolic syndrome applications.
+Naringenin, a flavanone derived from hesperidin metabolism, has shown hepatoprotective and lipid-modulating effects in animal models. Human clinical data remain limited but promising for [[cannabis-metabolic-syndrome-research]] applications.
 
 Lemon peel contains pectin, a soluble dietary fiber with demonstrated cholesterol-lowering effects. The white albedo layer beneath the peel is particularly rich in this polysaccharide.
 
@@ -71,7 +71,7 @@ Propagation is predominantly through budding onto rootstock. Common rootstocks i
 
 Irrigation is essential during flowering and fruit development. Drip irrigation with fertigation is standard practice in commercial groves to optimize water and nutrient delivery.
 
-Major pests include citrus red mite, cottony cushion scale, and Mediterranean fruit fly. Citrus canker (*Xanthomonas citri*) and huanglongbing (greening disease) are the most serious pathological threats.
+Major pests include citrus red mite, cottony cushion scale, and [[comparison-olive-vs-fig-vs-pomegranate-mediterranean-fruit-trees]] fly. Citrus canker (*Xanthomonas citri*) and huanglongbing (greening disease) are the most serious pathological threats.
 
 ## Culinary and Industrial Use
 
@@ -89,11 +89,11 @@ Citric acid derived from lemon juice was historically important as a food preser
 
 Lemon cultivation spread from South Asia to Persia, Iraq, and Egypt by the 10th century CE. Islamic agricultural treatises document sophisticated lemon cultivation and preservation techniques.
 
-The Spanish introduced lemons to the Americas during the Columbian exchange. St. Augustine, Florida, hosted the first continuous New World lemon planting by the 1560s.
+The Spanish introduced lemons to the Americas during the [[psilocybe-cubensis-biogeography-columbian-exchange-hypothesis]]. St. Augustine, Florida, hosted the first continuous New World lemon planting by the 1560s.
 
 British naval surgeon James Lind demonstrated in 1747 that citrus fruit prevented scurvy. This finding led to the mandatory inclusion of lemon or lime juice in Royal Navy rations, earning British sailors the nickname "limeys."
 
-Traditional medicine systems across Asia, the Middle East, and Europe have long employed lemon for digestive complaints, respiratory infections, and skin conditions. These uses are partly supported by modern pharmacological research.
+Traditional medicine systems across Asia, the Middle East, and Europe have long employed lemon for digestive complaints, respiratory infections, and [[cannabis-for-skin-conditions-detailed]]. These uses are partly supported by modern pharmacological research.
 
 ## Varieties
 
@@ -101,7 +101,7 @@ Major commercial varieties include 'Eureka', 'Lisbon', and 'Femminello'. Eureka 
 
 Lisbon is more cold-tolerant and vigorous, widely grown in Arizona and the Mediterranean. It produces a higher-quality juice but has a shorter harvest window than Eureka.
 
-Meyer lemon (*C. × meyeri*) is a separate hybrid species, likely a cross between lemon and mandarin orange. It is popular among home gardeners for its thin skin, sweeter flavor, and reduced acidity.
+Meyer lemon (*C. × meyeri*) is a separate hybrid species, likely a cross between lemon and [[fukuoka-mandarin-orange-citrus]]. It is popular among home gardeners for its thin skin, sweeter flavor, and reduced acidity.
 
 ## See Also
 
@@ -110,5 +110,5 @@ Meyer lemon (*C. × meyeri*) is a separate hybrid species, likely a cross betwee
 - [[curcuma-longa]]
 - [[pimenta-dioica]]
 - [[myristica-fragrans]]
-- [[punica-granatum]]
+- punica-granatum
 - [[cymbopogon-flexuosus]]

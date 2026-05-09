@@ -1,5 +1,5 @@
 ---
-title: "Wet-Dry Tropical Design Strategies in Permaculture"
+title: "Wet-Dry mollison wet dry tropical design strategies Strategies in permaculture"
 created: 2026-04-26
 tags:
   - permaculture
@@ -14,11 +14,11 @@ sources:
 type: concept
 ---
 
-# Wet-Dry Tropical [[permaculture]]
+# Wet-Dry Tropical permaculture
 
 The wet-dry tropics adjoin the wet tropics but are poleward of
 them, covering about 15% of earth's surface from latitudes 0
-to 25 degrees, unbalanced in favour of the southern hemisphere.
+to 25 degrees, unbalanced in favour of the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]].
 These regions include the Campos, Llanos, and Gran Chaco of
 [[acacia]] trees evolving to steppe
 grassland on plateaus, with baobabs and dry-deciduous trees.
@@ -40,7 +40,7 @@ Staples of the wet-dry tropics include corn, millet, wheat,
 beans, potatoes, cucurbits, and peanuts. Livestock includes
 cattle, goats, sheep, and game products. Plantation crops are
 sugar, cotton, peanuts, pineapple, and sisal. Exports include
-cattle and sheep products and hardwoods from gallery forests.
+cattle and sheep products and hardwoods from [[mollison-designers-gallery-forests-and-valley-bottomland-systems]].
 
 ## Design Essentials
 
@@ -54,10 +54,10 @@ Mollison specifies these critical design requirements:
 - Mulch use of grasses
 - Increased tree crop of high forage value
 - Decreased fire frequency
-- Tree stands for fuel and structural timber
+- Tree stands for fuel and [[singh-wood-rot-fungi-structural-timber-decay]]
 - No-tillage (cut and mulch) grain techniques
 - Low bunds for water retention
-- Chisel plough and sod-seeding techniques
+- [[comparison-chisel-plough-vs-no-tillage]] and sod-seeding techniques
 - Greater reliance on in-village tree crop near wells
 - Reclamation of eroded lands using pioneer species
 - Keyline techniques of flood control
@@ -83,7 +83,7 @@ groves, establishing a general tree canopy through garden and
 plantation, or a combination of these strategies. Oversize
 swales aid wet-season water run-off control and diversion to
 storage. Earth-sheltered houses based on Japanese typhoon-proof
-coastal housing, with bamboo groves providing flexible wind
+coastal housing, with [[fukuoka-textdoc-bamboo-groves-wood-preserves-soil-fertility]] providing flexible wind
 barriers, offer effective protection.
 
 ## Specialist Crop Opportunities
@@ -125,3 +125,4 @@ and return it via leaf mould. Dilute molasses or cane and
 ## See Also
 
 - [[mollison-designers-high-island-and-tropical-valley-design]]
+- [[mollison-wet-tropical-forest-structure-and-polyculture]]

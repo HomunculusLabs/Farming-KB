@@ -3,7 +3,9 @@ title: "What Are the Benefits of Straw Mulch in the Garden and How Do I Use It?"
 tags: [query, mulch, straw, soil-health, water-conservation]
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources:
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # What Are the Benefits of Straw Mulch in the Garden and How Do I Use It?
@@ -12,7 +14,7 @@ sources: []
 
 Straw mulch is a layer of dried cereal stalks spread over bare soil to suppress weeds, retain moisture, moderate soil temperature, and feed soil biology as it breaks down.
 
-It is one of the oldest and most accessible mulching materials, championed by Masanobu Fukuoka as the central technique of his natural farming method.
+It is one of the oldest and most accessible [[hamilton-mulching-materials-and-techniques]], championed by Masanobu Fukuoka as the central technique of his [[comparison-natural-farming-vs-permaculture]] method.
 
 When applied correctly at 5-10 cm depth, straw mulch can reduce weed pressure by up to 90% and cut irrigation needs by 50% or more.
 
@@ -54,7 +56,7 @@ This cooling effect reduces heat stress on shallow-rooted crops like lettuce, ra
 
 In winter, a thick straw layer protects perennial roots from freeze-thaw cycles that can heave plants out of the ground.
 
-The insulating effect also extends the growing season by keeping soil warm longer into autumn.
+The insulating effect also extends the [[savory-growing-season-and-non-growing-season-management]] by keeping soil warm longer into autumn.
 
 This temperature buffering is one reason straw mulch is the preferred winter cover for garlic beds and overwintering vegetables.
 
@@ -92,7 +94,7 @@ Straw is not the only mulch option, and comparing materials helps you choose the
 | Composted manure | Medium | Fast | Moderate | Hungry crops, soil building |
 | Grass clippings | Free | Fast | Good | Temporary weed suppression |
 
-The [[comparison-mulch-vs-cover-crops|mulch vs. cover crops comparison]] explains when a living mulch might be more appropriate than straw.
+The [[comparison-mulch-vs-cover-crops|mulch vs. cover crops comparison]] explains when a [[comparison-living-mulch-vs-cover-crops]] might be more appropriate than straw.
 
 ## Common Mistakes to Avoid
 
@@ -104,7 +106,7 @@ Straw is the hollow stalk left after grain is harvested, while hay is the whole 
 
 Another common error is applying mulch too early, before soil has warmed in spring.
 
-A thick straw layer in early spring can keep soil too cool for heat-loving crops like tomatoes and peppers.
+A thick straw layer in [[coleman-overwintered-onions-and-early-spring-crops]] can keep soil too cool for heat-loving crops like tomatoes and peppers.
 
 Wait until the soil has warmed to planting temperature before applying mulch around these crops.
 
@@ -113,8 +115,12 @@ Finally, avoid piling straw directly against tree trunks or woody stems, as this
 ## Key Points
 
 - Straw mulch reduces water evaporation by 50-70% compared to bare soil.
-- A 5-10 cm layer suppresses up to 90% of annual weed seed germination.
+- A 5-10 cm layer suppresses up to 90% of annual weed [[cannabis-seed-germination-methods]].
 - [[sheet-mulching|Sheet mulching]] uses straw as one layer in a larger soil-building system.
 - [[query-what-is-sheet-mulching-and-how-to-do-it]]
 - [[query-how-does-chop-and-drop-mulching-work]]
 - [[query-how-do-i-make-a-balanced-herbal-mulch-for-no-till-gardens]]
+
+## See Also
+
+- [[query-what-is-biochar-and-how-should-i-use-it-in-my-garden]]

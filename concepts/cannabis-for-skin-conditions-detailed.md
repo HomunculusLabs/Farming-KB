@@ -1,11 +1,11 @@
 ---
-title: Cannabis For Skin Conditions Detailed
+title: Cannabis For cannabis for skin conditions detailed Detailed
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 
 # Cannabis for Skin Conditions
@@ -56,7 +56,7 @@ Topical cannabinoid preparations have shown effectiveness for chronic itching as
 ### Hempseed Oil for Atopic Dermatitis
 **Callaway et al. (2005)**: "Efficacy of dietary hempseed oil in patients with atopic dermatitis." Journal of Dermatological Treatment 16(2):87-94.
 
-Dietary hempseed oil (rich in omega-3 and omega-6 fatty acids) improved atopic dermatitis in clinical patients, providing both essential fatty acids and trace cannabinoids.
+Dietary hempseed oil (rich in omega-3 and omega-6 [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]) improved atopic dermatitis in clinical patients, providing both essential fatty acids and trace cannabinoids.
 
 ## Psoriasis
 
@@ -67,7 +67,7 @@ Oral dronabinol reduced intractable itching in liver disease patients.
 ### Mechanism
 - CB1 receptors on nerve endings in the skin modulate itch signaling
 - CB2 receptors on skin immune cells reduce the inflammatory mediators that trigger itching
-- The anti-itch effect may be both peripheral (skin) and central (brain/spinal cord)
+- The anti-itch effect may be both peripheral (skin) and central (brain/[[blesching-cannabis-spinal-cord-injuries]])
 
 ## Seborrhea
 

@@ -28,11 +28,11 @@ The [[holzer-ancient-cereals-growing|ancient cereals]] demonstrate the [[holzer-
 
 ## Key Points
 
-1. Sepp Holzer's approach to Holzer Experiences Soil Test Areas demonstrates the power of working with natural landscape features rather than against them.
+1. Sepp Holzer's approach to Holzer holzer experiences soil test areas Areas demonstrates the power of working with natural landscape features rather than against them.
 2. Holzer's Krameterhof farm at 1,500m elevation in Austria proves that extreme climates can support abundant food production.
 3. The method relies on creating diverse microclimates through strategic use of water, earthworks, and plant placement.
 4. Raised beds and hugelkultur are central techniques that improve drainage, warmth, and soil fertility simultaneously.
-5. Animal integration — particularly pigs and poultry — plays a crucial role in soil preparation and pest management.
+5. [[mollison-animal-integration-permaculture-design]] — particularly pigs and poultry — plays a crucial role in soil preparation and pest management.
 6. Holzer emphasizes the importance of observing the land for at least a year before making major design decisions.
 7. Water retention landscapes including ponds and swales are key infrastructure elements in Holzer's approach.
 8. The method avoids synthetic inputs entirely, relying on natural cycles and biological diversity for fertility and pest control.
@@ -50,15 +50,16 @@ The [[holzer-ancient-cereals-growing|ancient cereals]] demonstrate the [[holzer-
 
 Sepp Holzer began farming on his family's steep mountain land in Austria as a teenager, learning through experimentation.
 The Krameterhof demonstrates that high-altitude farms can be more productive than conventional lowland operations.
-Holzer's fish ponds serve multiple functions: aquaculture, irrigation, fire protection, and microclimate creation.
+Holzer's fish ponds serve multiple functions: aquaculture, irrigation, fire protection, and [[mollison-designers-microclimate-creation-frost-protection]].
 Terrace construction on slopes prevents erosion while creating level planting areas with improved water retention.
-Mushroom cultivation on logs and in raised beds provides additional food production and aids decomposition.
+[[accessible-mushroom-cultivation-for-disabilities]] on logs and in raised beds provides additional food production and aids decomposition.
 Holzer's pig paddock system uses animals to root and fertilize soil in controlled areas before planting.
-Ancient grain varieties selected for mountain conditions show superior resilience and nutritional quality.
+[[permaculture-quinoa-growing-guide]] varieties selected for mountain conditions show superior resilience and [[coleman-winter-greens-nutritional-quality-cold-sweetening]].
 The method has been successfully adapted in projects across Europe, Africa, Asia, and the Americas.
 
 Sepp Holzer began farming on his family's steep mountain land in Austria as a teenager, learning through experimentation.
 The Krameterhof demonstrates that high-altitude farms can be more productive than conventional lowland operations.
+
 ## Practical Considerations
 
 Successful implementation of Holzer Experiences with Soil and Test Areas requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

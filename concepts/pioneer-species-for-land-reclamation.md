@@ -11,15 +11,15 @@ sources: []
 Pioneer species are the first wave of plants used to reclaim degraded, bare, or pastured land in [[nitrogen-fixing-trees-and-shrubs]].
 
 ### Miracle Plant (Lespedeza bicolor)
-Leguminous shrub to 3 m, native to Japan. Widely grown in Korea for soil reclamation. Long shallow roots with efficient nitrogen-fixing nodules. Planted as nurse crop to pine trees in Korea. High protein stock feed; good poultry feed from seeds; high quality firewood. Yields of 2.9 t firewood/ha in first year.
+Leguminous shrub to 3 m, native to Japan. Widely grown in Korea for soil reclamation. Long shallow roots with efficient nitrogen-fixing nodules. Planted as [[tagasaste-nurse-crop-fodder-systems]] to pine trees in Korea. High protein stock feed; good [[knf-poultry-feed-preparation]] from seeds; high quality firewood. Yields of 2.9 t firewood/ha in first year.
 
 ### Populus deltoides (Cottonwood)
-Native to North America, to 25-30 m. Pioneer species in company with willows on flooded soils. Suited to most fertile soils in cool districts with 650+ mm rainfall. Reaches full height in 20 years. See [[permaculture-difficult-sites-plant-guide]]
+Native to [[psilocybin-north-america-pacific-northwest]], to 25-30 m. Pioneer species in company with willows on flooded soils. Suited to most fertile soils in cool districts with 650+ mm rainfall. Reaches full height in 20 years. See [[permaculture-difficult-sites-plant-guide]]
 3. **Plant at high density**: Close spacing accelerates canopy closure and grass suppression
 4. **Introduce succession species** among pioneers from the start or after 2-3 years
 5. **Manage pioneers**: Regular cutting extends life and generates mulch; browsing by livestock sustains productivity
 6. **Allow natural transition**: As succession species mature, they shade out pioneers
-7. **Retain some pioneers**: Select specimens for continued nitrogen fixation and fodder
+7. **Retain some pioneers**: Select specimens for continued [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] and fodder
 
 ## Companion Strategies
 
@@ -29,6 +29,8 @@ Pioneer species work best when integrated with:
 - [[permaculture-plant-propagation-guide]] with boiling water. Many also propagate readily from cuttings, suckers, or division. Tagasaste grows easily from both seed and cuttings. Poplars and willows strike from cuttings at any size.
 
 ## See Also
+
+- [[pioneer-plants-for-land-restoration]]
 
 - [[pioneer-species-selection-for-permaculture-systems]]
 ## Practical Applications
@@ -108,4 +110,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

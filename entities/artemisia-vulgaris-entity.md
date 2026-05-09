@@ -11,7 +11,7 @@ sources:
 
 # Artemisia vulgaris
 
-Artemisia vulgaris (common mugwort) is a vigorous perennial herb in the family Asteraceae, native to Europe, Asia, and North Africa. One of the most widely distributed and culturally significant medicinal plants in the Northern Hemisphere, mugwort has been used for millennia in traditional medicine, culinary applications, spiritual practices, and textile dyeing. Its allelopathic properties, rapid growth, and ability to colonize disturbed ground make it both a valuable permaculture species for dynamic accumulation and, in some contexts, an aggressive weed. The species contains thujone, a bioactive ketone with stimulant and emmenagogue properties, and a complex essential oil profile that underpins its traditional uses.
+Artemisia vulgaris (common mugwort) is a vigorous perennial herb in the family Asteraceae, native to Europe, Asia, and North Africa. One of the most widely distributed and culturally significant medicinal plants in the Northern Hemisphere, mugwort has been used for millennia in traditional medicine, culinary applications, spiritual practices, and textile dyeing. Its allelopathic properties, rapid growth, and ability to colonize disturbed ground make it both a valuable permaculture species for dynamic accumulation and, in some contexts, an aggressive weed. The species contains thujone, a bioactive ketone with stimulant and emmenagogue properties, and a complex [[permaculture-designers-manual-essential-oil-plants]] profile that underpins its traditional uses.
 
 ## Taxonomy and Naming
 - **Order:** Asterales
@@ -27,7 +27,7 @@ Artemisia vulgaris (common mugwort) is a vigorous perennial herb in the family A
 ## Description
 
 ### Growth Habit and Morphology
-Robust rhizomatous perennial herb growing 0.5–2.5 m tall. Forms dense colonies through extensive creeping rhizomes that spread several meters from the parent plant. Stems are erect, angular, grooved, often with a distinct purplish tinge at the base. The vigorous growth habit allows quick colonization of disturbed ground, waste places, and garden margins. In permaculture systems, this growth is valued for dynamic nutrient-accumulating properties.
+Robust rhizomatous perennial [[medicinal-herb-growing]] 0.5–2.5 m tall. Forms dense colonies through extensive creeping rhizomes that spread several meters from the parent plant. Stems are erect, angular, grooved, often with a distinct purplish tinge at the base. The vigorous growth habit allows quick colonization of disturbed ground, waste places, and garden margins. In permaculture systems, this growth is valued for dynamic nutrient-accumulating properties.
 
 ### Leaves
 Leaves are alternate, deeply pinnately lobed (2–3 times pinnatisect), 5–20 cm long and 3–10 cm wide. The upper surface is dark green and glabrous; the lower surface is covered with dense white to gray tomentose hairs, giving a characteristic silvery-white underside. Leaf lobes are lanceolate to oblong with serrate margins. Basal leaves are long-petiolate and larger than upper stem leaves. When crushed, leaves emit a strong, aromatic, slightly bitter scent.
@@ -50,7 +50,7 @@ networks extending 3–5 m in all directions within 2–3 growing seasons.
 - **Habitat:** Grasslands, forest margins, riparian zones, waste ground, roadsides, arable field margins, urban vacant lots, coastal dunes.
 - **Soil tolerance:** Sandy, loamy, and clay soils from pH 4.8–8.0. Tolerates poor, compacted, and nutrient-deficient soils.
 - **Light:** Full sun to partial shade; most vigorous in open sites.
-- **Invasiveness:** Listed as invasive in parts of North America and New Zealand due to aggressive rhizomatous spread.
+- **Invasiveness:** Listed as invasive in parts of [[psilocybin-north-america-pacific-northwest]] and New Zealand due to aggressive rhizomatous spread.
 
 ## Chemistry and Active Compounds
 | Compound | Typical % Range | Notes |
@@ -84,9 +84,11 @@ Mugwort is among the most culturally important herbs in Eurasian tradition. In T
 | Anthelmintic | Traditional | Intestinal worm expulsion |
 
 ## Permaculture Functions
-- **Dynamic accumulator:** Deep roots mine potassium, calcium, phosphorus from subsoil, making them available to shallower-rooted plants when used as mulch or compost. Root systems can extend 1–2 m deep.
+- **[[nutrient-dynamic-accumulator-reference]]:** Deep roots mine potassium, calcium, phosphorus from subsoil, making them available to shallower-rooted plants when used as mulch or compost. Root systems can extend 1–2 m deep.
 - **Insect repellent:** Dried leaves repel moths, fleas, mosquitoes, and certain beetle species. Smoke from burning dried mugwort is an effective insect fumigant.
 - **[[artemisia-absinthium]]
 - achillea-millefolium
 - [[urtica-dioica]]
-- [[permaculture]]
+- permaculture
+## See Also
+- [[thymus-vulgaris-entity]]

@@ -1,5 +1,5 @@
 ---
-title: '[[turmeric]] vs Ginger: A Complete Comparison'
+title: 'turmeric vs Ginger: A Complete Comparison'
 created: 2026-04-28
 tags: [turmeric, ginger, rhizome-spices, tropical-crops, comparison, cultivation]
 date: 2026-05-03
@@ -7,10 +7,10 @@ updated: 2026-05-03
 sources:
   - 'Ravindran, P.N., et al. (2007). Turmeric: The Genus Curcuma. CRC Press.'
   - 'Ravindran, P.N. & Babu, K.N. (2005). Ginger: The Genus Zingiber. CRC Press.'
-  - 'USDA Natural Resources Conservation Service — Plant Profile: Curcuma longa, Zingiber officinale'
-  - 'Kumar, A., et al. (2017). "A review on chemical composition and medicinal properties of turmeric." Int. J. Pharm. Sci. Res., 8(8), 3149–3156.'
+  - 'USDA Natural Resources Conservation Service — Plant Profile: Curcuma longa, zingiber-officinale'
+  - 'Kumar, A., et al. (2017). "A review on chemical composition [[ginseng-cultivation-and-medicinal-properties]] of turmeric." Int. J. Pharm. Sci. Res., 8(8), 3149–3156.'
   - 'Mao, Q.Q., et al. (2019). "Ginger and its bioactive constituents: a review of their potential as chemopreventive and therapeutic agents." Phytotherapy Research, 33(8), 1967–1981.'
-  - 'FAO (2023). FAOSTAT — Crops and livestock products: ginger and turmeric production data.'
+  - 'FAO (2023). FAOSTAT — Crops and livestock products: ginger and turmeric [[psilocybe-cubensis-miniculture-production-data-and-flush-longevity]].'
 type: comparison
 ---
 
@@ -23,7 +23,7 @@ Turmeric (*Curcuma longa*) and ginger (*[[curcumin]] (2–5% of dry weight) | Gi
 - [[permaculture]]
 ## Practical Applications
 
-[[turmeric]] vs Ginger: A Complete Comparison has a range of practical applications that make it relevant to
+turmeric vs Ginger: A Complete Comparison has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -38,7 +38,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -63,7 +63,7 @@ enables more sustainable and successful long-term implementations.
 ## Common Challenges
 
 Practitioners commonly encounter several challenges when working with
-[[turmeric]] vs Ginger: A Complete Comparison. These include both technical difficulties and broader systemic
+turmeric vs Ginger: A Complete Comparison. These include both technical difficulties and broader systemic
 issues that require adaptive management and creative problem-solving.
 Awareness of these common challenges enables more proactive planning
 and faster resolution when issues do arise during implementation.
@@ -88,7 +88,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -98,4 +98,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

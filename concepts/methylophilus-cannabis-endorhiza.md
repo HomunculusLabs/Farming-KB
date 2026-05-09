@@ -1,5 +1,5 @@
 ---
-title: "Methylophilus Enrichment in the Cannabis Endorhiza"
+title: "Methylophilus Enrichment in the edaphic-factors-cannabis-endorhiza-microbiome-assembly"
 type: concept
 tags:
   - cannabis
@@ -11,14 +11,14 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Winston ME et al. (2014). "Understanding Cultivar-Specificity and Soil Determinants of the Cannabis Microbiome." PLoS ONE 9(6): e99641.
-  - Chistoserdova L (2011). "Methylotrophs in natural habitats: current insights through metagenomics." Microbial Ecology 61: 416-420.
+  - Winston ME et al. (2014). "Understanding Cultivar-Specificity and Soil Determinants of the cultivar-cannabis-microbiome-two-tier-selection-model." PLoS ONE 9(6): e99641.
+  - Chistoserdova L (2011). "Methylotrophs in natural habitats: current insights through metagenomics." [[fukuoka-microbial-ecology-decomposition]] 61: 416-420.
   - Madhaiyan M et al. (2009). "Methylobacterium phyllosphaerae sp. nov., a pink-pigmented, facultative methylotroph isolated from rice phyllosphere." International Journal of Systematic and Evolutionary Microbiology 59: 22-27.
 ---
 
 ## Overview
 
-Methylophilus emerged as a strikingly cultivar-specific bacterial genus in the Cannabis endorhiza microbiome. In the Winston et al. (2014) study, Methylophilus comprised 13% of the endorhiza microbial community in the Bookoo Kush cultivar but was nearly absent in Sour Diesel and represented only 0.13% in Burmese.
+Methylophilus emerged as a strikingly cultivar-specific bacterial genus in the Cannabis [[cannabinoid-concentration-endorhiza-microbiome-correlation-cannabis]]. In the Winston et al. (2014) study, Methylophilus comprised 13% of the endorhiza [[edaphic-factors-microbial-community-structure]] in the Bookoo Kush cultivar but was nearly absent in Sour Diesel and represented only 0.13% in Burmese.
 
 This extreme abundance disparity makes Methylophilus one of the most notable examples of cultivar-driven microbiome differentiation in Cannabis. The genus is a methylotrophic bacterium, meaning it can utilize single-carbon compounds such as methanol as a carbon and energy source.
 
@@ -72,7 +72,7 @@ The Methylophilus pattern provides some of the strongest evidence for host genot
 
 This finding supports the second tier of the two-tier selection model, where host genotype fine-tunes the endorhiza community after initial soil-driven assembly. The fact that a single genus can dominate 13% of the endorhiza community in one cultivar while being absent in another demonstrates the strength of this genotype effect.
 
-Future research could explore whether Methylophilus abundance correlates with specific root traits, growth rates, or cannabinoid profiles. If Methylophilus colonization benefits the host, selecting for cultivars that host this bacterium could be a novel approach to improving Cannabis cultivation.
+Future research could explore whether Methylophilus abundance correlates with specific root traits, growth rates, or cannabinoid profiles. If Methylophilus colonization benefits the host, selecting for cultivars that host this bacterium could be a novel approach to improving [[query-how-does-no-till-cannabis-cultivation-work]].
 
 ## Potential for Agricultural Application
 

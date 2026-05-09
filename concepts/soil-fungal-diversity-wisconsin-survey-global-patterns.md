@@ -1,15 +1,16 @@
 ---
-title: Soil Fungal Diversity — Wisconsin Survey and Global Patterns
+title: Soil arbuscular-mycorrhizal-fungal-diversity-patterns-distribution — Wisconsin Survey and Global Patterns
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [soil, agriculture]
-sources: []
+sources:
+  sources: []
 ---
 
 # Soil Fungal Diversity — Wisconsin Survey and Global Patterns
 
-Soil supports some of the most diverse fungal communities on Earth. The Wisconsin soil fungal survey program — spanning 20+ years across multiple vegetation types — remains the most comprehensive quantitative study of soil fungal community structure in relation to plant communities.
+Soil supports some of the most diverse [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] on Earth. The Wisconsin soil fungal survey program — spanning 20+ years across multiple vegetation types — remains the most comprehensive quantitative study of soil [[air-pollution-fungal-community-responses]] structure in relation to plant communities.
 
 ## The Wisconsin Survey Program
 
@@ -66,7 +67,7 @@ Soil fungi, like plants and animals, are responsive to the totality of their env
 | Sweden | Clear-cut forest | 3,891 | 96 |
 
 ### Key Pattern: Tropical ≠ More Diverse
-Recent evidence indicates that species diversity in tropical soils is **similar** to temperate soils. Fungal species richness in humid tropical soils is comparable to temperate forests. This contrasts with above-ground patterns where tropical diversity far exceeds temperate.
+Recent evidence indicates that species diversity in [[mollison-designers-tropical-soils-and-cation-exchange-management]] is **similar** to temperate soils. Fungal species richness in humid tropical soils is comparable to temperate forests. This contrasts with above-ground patterns where tropical diversity far exceeds temperate.
 
 ## Species-Isolate Curves
 
@@ -97,9 +98,9 @@ Fungal diversity in leaf litter is significantly greater than in soil beneath it
 ## Applications of Soil Fungal Survey Data
 
 1. **Indicator species:** Identify characteristic assemblages for vegetation/soil types
-2. **Monitoring:** Detect effects of disturbance, pollution, climate change
+2. **Monitoring:** Detect effects of disturbance, pollution, [[dighton-fungi-climate-change-feedback]]
 3. **Biocontrol:** Identify naturally occurring antagonists of plant pathogens
-4. **Food web analysis:** Understand fungal roles in decomposition and nutrient cycling
+4. **Food web analysis:** Understand fungal roles in decomposition and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 5. **Conservation:** Assess soil biodiversity for reserve design and management
 
 ## See Also

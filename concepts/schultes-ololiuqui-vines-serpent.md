@@ -1,5 +1,5 @@
 ---
-title: Ololiuqui Vines of the Serpent
+title: schultes ololiuqui vines serpent of the Serpent
 created: 2026-04-28
 tags:
   - ethnobotany
@@ -16,10 +16,10 @@ type: concept
 
 # Ololiuqui Vines of the Serpent
 
-Ololiuqui refers to the psychoactive seeds of two morning glory species:
-*Turbina corymbosa* (Rivea corymbosa) and *Ipomoea violacea*. These
+Ololiuqui refers to the psychoactive seeds of two [[golden-guide-morning-glory-and-ololiuqui]] species:
+*[[plants-of-the-gods-turbina-corymbosa-ololiuqui]]* (Rivea corymbosa) and *Ipomoea violacea*. These
 seeds, among the most sacred hallucinogens of Aztec civilization, contain
-lysergic acid amide and related ergoline alkaloids, placing them
+[[ergot-and-lysergic-acid-history]] amide and related ergoline alkaloids, placing them
 chemically in the same family as LSD and ergot. Their use has persisted
 from pre-Hispanic Mexico into the present day among indigenous communities
 of Oaxaca.
@@ -132,7 +132,7 @@ accepted until correct identification in 1939.
 
 ## See Also
 
-- [[schultes-psilocybe-little-flowers-gods]] for the sacred mushrooms
+- [[schultes-psilocybe-little-flowers-gods]] for the [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]]
   used in similar Mazatec ceremonial contexts
 - [[schultes-datura-holy-flower-north-star]] for the plant mistakenly
   identified as Ololiuqui for centuries

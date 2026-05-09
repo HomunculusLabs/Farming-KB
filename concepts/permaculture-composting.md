@@ -3,28 +3,28 @@ title: Permaculture Composting
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [[permaculture-food-forest-design-principles]]
+tags: urban-permaculture-food-forest-succession design principles]
 
-- [[permaculture-food-forest-design-principles]]
+- permaculture-food-forest-design-principles
 
-- [[permaculture-food-forest-design-principles]]
+- permaculture-food-forest-design-principles
 
-- [[permaculture-food-forest-design-principles]]
+- permaculture-food-forest-design-principles
 
-- [[permaculture-dogwood-cornus-capitata]]
+- permaculture-dogwood-cornus-capitata
 
-- [[permaculture-food-forest-design-principles]]
+- permaculture-food-forest-design-principles
 
-- [[mulch-types-and-effects]]
+- mulch-types-and-effects
 - permaculture composting
 
 ---
 Updated: 2026-04-18
-Source: The Ultimate Guide to Natural Farming and Sustainable Living
+Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]]
 
 ## Permaculture Composting Philosophy
 
-In permaculture, composting is not waste disposal — it is nutrient cycling. The goal is to keep all organic matter on-site, returning it to the soil to build soil health and close nutrient loops. "Waste" is simply a resource in the wrong place.
+In permaculture, composting is not waste disposal — it is [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. The goal is to keep all organic matter on-site, returning it to the soil to build soil health and close nutrient loops. "Waste" is simply a resource in the wrong place.
 
 Permaculture composting differs from conventional approaches by:
 - **Diversity of inputs** — combining materials from many sources creates more biologically active compost
@@ -34,7 +34,7 @@ Permaculture composting differs from conventional approaches by:
 
 ## Integrated Composting Systems
 
-A permaculture site typically employs several complementary composting methods:
+A permaculture site typically employs several complementary [[natural-farming-guide-composting-methods-and-techniques]]:
 
 ### Sheet Composting (Lasagna Gardening)
 [[comparison-bsf-composting-vs-hot-composting]] but does not reliably kill weed seeds or pathogens. Position in Zone 2 where materials accumulate and finished compost is accessible.
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

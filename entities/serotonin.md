@@ -10,13 +10,13 @@ sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-around-the-world-by-joche
 
 # Serotonin
 
-**Serotonin** (5-hydroxytryptamine, 5-HT) is a monoamine neurotransmitter found throughout the central nervous system, peripheral nervous system, and various non-neural tissues. Biochemically derived from [[psilocybin]], dimethyltryptamine|DMT, and [[indole]] derivative with a hydroxyl group at the 5-position of the indole ring — the same position where [[bufotenin-entity-tihkal]] carries its hydroxyl. This 5-substitution is critical for 5-HT receptor binding affinity.
+**Serotonin** (5-hydroxytryptamine, 5-HT) is a monoamine neurotransmitter found throughout the central nervous system, peripheral nervous system, and various non-neural tissues. Biochemically derived from [[psilocybin]], dimethyltryptamine|DMT, and [[indole]] derivative with a hydroxyl group at the 5-position of the indole ring — the same position where [[bufotenin-entity-tihkal]] carries its hydroxyl. This 5-substitution is critical for 5-HT [[tihkal-receptor-binding-serotonin]] affinity.
 
 ## Biosynthesis and Metabolism
 
 ### Biosynthesis Pathway
 
-Serotonin is synthesized in a two-step pathway from the essential amino acid [[tryptophan]] is converted to 5-hydroxytryptophan (5-HTP) by tryptophan hydroxylase (TPH), the rate-limiting enzyme. This reaction requires tetrahydrobiopterin (BH₄) as a cofactor and molecular oxygen.
+Serotonin is synthesized in a two-step pathway from the essential [[cho-fish-amino-acid-preparation]] [[tryptophan]] is converted to 5-hydroxytryptophan (5-HTP) by tryptophan hydroxylase (TPH), the rate-limiting enzyme. This reaction requires tetrahydrobiopterin (BH₄) as a cofactor and molecular oxygen.
 2. **Decarboxylation:** 5-HTP is decarboxylated by aromatic L-amino acid decarboxylase (AADC) to form serotonin (5-HT). Pyridoxal phosphate (vitamin B₆) serves as the cofactor.
 
 Approximately 90% of the body's serotonin is produced in enterochromaffin cells of the gastrointestinal tract, where it regulates gut motility and secretion. The remaining 10% is synthesized in serotonergic neurons of the central nervous system.
@@ -68,7 +68,7 @@ The structural homology between serotonin and psychedelic tryptamines is fundame
 
 - [[psilocin]] act as partial agonists at 5-HT₂A receptors
 - dimethyltryptamine|DMT is a potent 5-HT₂A agonist and also activates sigma-1 receptors
-- [[ayahuasca-vision-art-and-Shipibo-tradition]]) prevent serotonin metabolism, potentiating endogenous and exogenous tryptamines
+- [[ayahuasca-vision-art-and-shipibo-tradition]]) prevent serotonin metabolism, potentiating endogenous and exogenous tryptamines
 
 ## Historical Context
 
@@ -79,7 +79,7 @@ Serotonin was first isolated in 1948 by Maurice Rapport, Arda Green, and Irvine 
 - [[psilocybin]] and [[lsd-lysergic-acid-diethylamide-experience-guide]] is a potent 5-HT₂A agonist with additional high affinity for 5-HT₁A, 5-HT₂B, 5-HT₂C, and 5-HT₆/₇ receptors
 - [[5-meo-dmt-compound-profile]] is a potent 5-HT₁A agonist in addition to 5-HT₂A activity, producing a qualitatively different experience from DMT
 
-This receptor cross-activity explains why compounds with modest structural differences from serotonin can produce profoundly altered states of consciousness while maintaining selectivity for specific receptor subtypes.
+This receptor cross-activity explains why compounds with modest structural differences from serotonin can produce profoundly [[weil-the-natural-mind-altered-states-normalcy]] of consciousness while maintaining selectivity for specific receptor subtypes.
 
 ## Serotonin in Comparative Perspective
 

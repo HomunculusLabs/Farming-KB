@@ -9,7 +9,7 @@ sources: [raw/papers/a-selection-permaculture-plants.md]
 
 # Palm Tree Uses
 
-A comprehensive catalog of palms with utility to humans, from the family Arecaceae (Palmaeae). Most palms are fire tolerant and useful in bee forage systems. This list covers edible fruits, oils, saps for sugar and wine, building materials, thatch, fibres, and other products.
+A comprehensive catalog of palms with utility to humans, from the family Arecaceae (Palmaeae). Most palms are fire tolerant and useful in [[mollison-designers-bee-forage-tree-planting]] systems. This list covers edible fruits, oils, saps for sugar and wine, [[natural-building-materials-guide]], thatch, fibres, and other products.
 
 ## Major Food and Oil Palms
 
@@ -34,10 +34,10 @@ S. and SE Asia. Sap for sugar and wine (36 l/tree/day). Starch from trunk (75 kg
 S. and SE Asia. Sap for wine and sugar (20-27 l/tree/day) — excellent quality. Starch from trunk (100-150 kg/tree). Hardy to -3C. Monocarpic.
 
 ### Borassus flabellifer (Palmyra Palm)
-S. Asia. Sap for sugar and wine (21-20 l/tree/day) — very high yields. Nectar for honey. Alcohol fuel from nectar (40,000 l/acre). Spiny trunk — effective fence barrier. Fibre from leaf stalk. Edible fruit. Deep rooting. Dioecious.
+S. Asia. Sap for sugar and wine (21-20 l/tree/day) — very high yields. Nectar for honey. [[permaculture-on-farm-alcohol-fuel-production]] from nectar (40,000 l/acre). Spiny trunk — effective fence barrier. Fibre from leaf stalk. Edible fruit. Deep rooting. Dioecious.
 
 ### Jubaea spectabilis (Chilean Wine Palm)
-Chile. Cold hardy to -5C, grows at 43 degrees latitude. 250-800mm rainfall. Edible nut, useful forage. Trunks tapped for sap (400 l/year) for sugar and wine. Fast growing. Monoecious.
+Chile. [[coleman-cold-hardy-varieties]] to -5C, grows at 43 degrees latitude. 250-800mm rainfall. Edible nut, useful forage. Trunks tapped for sap (400 l/year) for sugar and wine. Fast growing. Monoecious.
 
 ### Phoenix sylvestris (Wild Date Palm)
 India. Wide range of soils, light frost tolerant. Sap for wine and sugar (40 kg sugar/tree/yr). Edible fruit — wildlife forage.
@@ -82,7 +82,7 @@ Palms from which the terminal growing bud (heart) is harvested as a vegetable:
 - **Hyphaene thebaica** (Doum Palm) — NE Africa, semi-desert, heavy crops of edible hard-shelled fruit, medicinal, sap for wine. Promising desert palm
 - **Mauritia flexuosa** (Buriti) — staple food: oil, fruit, heart-of-palm, wine. High in vitamins A and C. Fruit clusters to 45 kg. Leaf fibre for rope, sacking, hammocks. Trunk for balsa-like wood. Indicator plant for tropical rainforest swamp
 - **Salacca zalacca** (Salak Palm) — one of the finest palm fruits for eating raw, edible seeds
-- **Orbignya speciosa** (Babacu) — staple palm. Oil (40 kg/tree/yr) for margarine, soap, fatty acids. Kernels 72% oil. Seedcake 75% protein for animal feed. Thick shells for fuel
+- **Orbignya speciosa** (Babacu) — staple palm. Oil (40 kg/tree/yr) for margarine, soap, [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]. Kernels 72% oil. Seedcake 75% protein for animal feed. Thick shells for fuel
 
 ## Thatch and Building Material Palms
 
@@ -124,5 +124,5 @@ Several palms have spiny trunks and prickly foliage that make effective fence ba
 ## Related
 
 - [[alkaline-soil-plants]] — many palms tolerate alkaline soils (especially date palm)
-- [[permaculture-principle-catch-and-store-energy]] — palms as multi-functional elements in permaculture design
+- [[permaculture-principle-catch-and-store-energy]] — palms as multi-functional elements in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
 - [[sepp-holzer-method]] — broad permaculture approach to integrating useful trees

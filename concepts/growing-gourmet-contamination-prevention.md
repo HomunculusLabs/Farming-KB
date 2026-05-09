@@ -1,11 +1,11 @@
 ---
-title: Contamination Prevention (Growing Gourmet & Medicinal Mushrooms)
+title: [[cervantes-cannabis-contamination-prevention]] ([[growing-gourmet-abalone-oyster-cystidiosus-cultivation]] & medicinal-mushrooms)
 created: 2026-04-28
 mushroom-cultivationupdated: 2026-04-25
 type: concept
 tags: [mushrooms, cultivation, contamination, sterile-technique, HEPA, laboratory, hygiene]
 sources:
-  - label: "Growing Gourmet and Medicinal Mushrooms"
+  - label: "Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive"
     author: paul-stamets
     year: 1993
     path: wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
@@ -13,7 +13,7 @@ updated: 2026-05-06
 ---
 # Contamination Prevention
 
-Contamination is the single greatest threat to [[mycopesticides-stamets]] identifies [[growing-gourmet-six-vectors-of-contamination]] are:
+Contamination is the single greatest threat to [[mycopesticides-stamets]] identifies growing-gourmet-six-vectors-of-contamination are:
 1. The Cultivator
 2. The Air
 3. The Media
@@ -58,11 +58,11 @@ For those not installing micron filters, the "still-air" method uses aerosol spr
 - Lab doors should be electrically switched to UV lights so they turn off at entry
 
 ### CO2 and Air Exchange
-Without fresh [[gaias-garden-bringing-the-soil-to-life]]. The more contaminants at make-up, the more that survive the sterilization cycle.
+Without fresh [[gaias-garden-bringing-the-soil-to-life]]. The more contaminants at make-up, the more that survive the [[sterilization]] cycle.
 
 ## Vector 4: The Tools
 
-All tools of the trade are included -- from the scalpel to the pressure cooker to media vessels. Insufficient sterilization of tools is a direct vector since contact with media is immediate.
+All tools of the trade are included -- from the scalpel to the [[pressure-cooker-sterilisation-fungal-substrate]] to media vessels. Insufficient sterilization of tools is a direct vector since contact with media is immediate.
 
 **Prevention measures:**
 - Flame-sterilizing scalpels is the preferred method over topical disinfection with alcohol or bleach
@@ -72,7 +72,7 @@ All tools of the trade are included -- from the scalpel to the pressure cooker t
 
 ## Vector 5: The Inoculum
 
-The inoculum is the tissue being transferred -- whether from a living mushroom, mycelium from another petri dish, or spores. Bacteria and molds can infect [[allegro-canaanite-religion-and-the-mushroom]] tissue and be carried with it every time a transfer is made. Isolation of the inoculum from mushroom mycelium can be frustrating because many contaminant organisms grow faster than newly emerging mushroom mycelium.
+The inoculum is the tissue being transferred -- whether from a living mushroom, mycelium from another petri dish, or spores. Bacteria and molds can infect [[allegro-canaanite-religion-and-the-mushroom]] tissue and be carried with it every time a transfer is made. Isolation of the inoculum from [[growing-gourmet-iconic-types-mushroom-mycelium]] can be frustrating because many contaminant organisms grow faster than newly emerging mushroom mycelium.
 
 **Prevention measures:**
 - Cultivators must constantly "run" or transfer their mycelium away from rapidly developing competitors
@@ -110,7 +110,7 @@ When mite contamination exceeds 10%, the only solution is to totally shut down t
 A critical diagnostic tool is leaving containers of media uninoculated at every step of the cultivation process. These "blanks" give the cultivator valuable insights into which vector of contamination is operating.
 
 - Leave some culture dishes uninoculated and unopened
-- Leave a few samples from each sterilization cycle uninoculated (petri dishes, grain jars, sawdust/bran bags)
+- Leave a few samples from each sterilization cycle uninoculated (petri dishes, [[pressure-cooker-sterilization-of-grain-jars]], sawdust/bran bags)
 - Observe for a period of two weeks
 
 **Diagnostic interpretation:**

@@ -1,15 +1,16 @@
 ---
-title: Fukuoka Rice Barley No-Till Direct Seeding Method
+title: Fukuoka direct-seeded-no-tillage-rice-barley-clover-succession No-Till comparison-seed-starting-indoors-vs-direct-seeding-techniques Method
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka Rice Barley No-Till Direct Seeding Method
 
-Fukuoka's signature agricultural technique -- the direct-seeded, no-till rice/barley succession in a green manure cover -- represents the practical core of his [[fukuoka-road-back-clover-barley-rice-method]]
+Fukuoka's signature agricultural technique -- the direct-seeded, no-till rice/barley succession in a [[comparison-green-manure-guide-vs-mulch-types-and-effects]] cover -- represents the practical core of his [[fukuoka-road-back-clover-barley-rice-method]]
 
 - [[fukuoka-observation-based-farming]]
 - [[fukuoka-do-nothing-farming-philosophy]]
@@ -143,4 +144,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

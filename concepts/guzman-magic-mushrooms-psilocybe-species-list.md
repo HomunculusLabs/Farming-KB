@@ -1,19 +1,13 @@
 ---
 title: Psilocybe Species Taxonomy and World Checklist
 created: 2026-04-28
-tags: [[mycology, taxonomy, psilocybe, fungal-systematics, species-checklist]
+tags: [mycology, taxonomy, psilocybe, fungal-systematics, species-checklist]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
 type: concept
 ---
-
-# Psilocybe Species Taxonomy and World Checklist
-
-## Taxonomic Framework
-
-The genus Psilocybe (Fr.) P. Kumm. belongs to the family Strophariaceae
-and is the largest genus of [[psilocybin-potency-dosage-guide]] and related indole alkaloids. This
+# Psilocybe Species Taxonomy and World Checklist ## Taxonomic Framework The genus Psilocybe (Fr.) P. Kumm. belongs to the family Strophariaceae and is the largest genus of [[psilocybin-potency-dosage-guide]] and related indole alkaloids. This
 follows the taxonomic concept of Kuhner (1980), which treats Psilocybe,
 Hypholoma, and Stropharia within the same genus. Species placed in
 Psilocybe s. Noordeloos (1995) are not accepted.
@@ -33,10 +27,10 @@ Singer (1986).
 
 Within the neurotropic Psilocybe species, the following sections are
 recognized:
-- **Section Aztecorum**: P. aztecorum and allies
+- **[[psilocybe-aztecorum-section-aztecorum-alpine-neurotropic-fungi-guzman-1998]]**: P. aztecorum and allies
 - **Section Brunneocystidiatae**: Species with brown cystidia
 - **Section Cordisporae**: Species with heart-shaped spores
-- **Section Zapotecorum**: P. zapotecorum and allies (a large group of
+- **[[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]]**: P. zapotecorum and allies (a large group of
   subtropical species)
 - **Section Mexicanae**: P. mexicana and allies
 - **Section Semilanceatae**: P. semilanceata and temperate allies
@@ -131,5 +125,5 @@ Several Psilocybe species are endemic to restricted areas:
 
 ## See Also
 
-- [[guzman-magic-mushrooms-chemical-constituents]] for alkaloid chemistry
+- [[guzman-magic-mushrooms-chemical-constituents]] for [[ergot-alkaloid-chemistry-history]]
 - [[guzman-magic-mushrooms-habitat-ecology]] for ecological preferences

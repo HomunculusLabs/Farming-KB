@@ -65,7 +65,7 @@ As the water film heats above 100°C, localized steam generation occurs at the m
 contributes to microbial inactivation far more efficiently than dry heating at equivalent temperatures.
 
 ### Non-Thermal Effects
-The MSC-22484 researchers noted that microwave sterilization may involve non-thermal mechanisms beyond simple heating:
+The MSC-22484 researchers noted that [[nasa-microwave-sterilization-challenge-organisms-kill-kinetics]] may involve non-thermal mechanisms beyond simple heating:
 
 - **Electroporation**: Oscillating fields may create transient pores in microbial membranes
 - **Resonance effects**: Specific molecular bonds may absorb energy at particular frequencies
@@ -95,7 +95,7 @@ The NASA system used rectangular waveguides to conduct microwave energy from the
 Two antenna types were employed in the NASA system:
 
 1. **Rectangular waveguide antenna**: Provides a directed beam for illuminating specific surface areas
-2. **Dipole antennas**: Used with a coaxial power splitter to provide broader coverage from multiple angles
+2. **Dipole antennas**: Used with a coaxial [[coaxial-power-splitter-waveguide-microwave-sterilization]] to provide broader coverage from multiple angles
 
 ### Standing Wave Mitigation
 Reflective surfaces within the sterilization chamber can create standing wave patterns, resulting in hot spots (areas of intense heating) and cold spots (areas of insufficient exposure). Solutions include:
@@ -129,7 +129,7 @@ The 2.45 GHz water interaction principle extends beyond sterilization into numer
 
 ## References
 
-- NASA Tech Briefs MSC-22484: Microwave Surface Sterilization
+- NASA Tech Briefs MSC-22484: [[microwave-surface-sterilization]]
 - Metaxas, A.C. (1996). *Foundations of Electroheat: A Unified Approach*.
 - Von Hippel, A.R. (1954). *Dielectric Materials and Applications*.
 

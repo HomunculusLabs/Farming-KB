@@ -46,7 +46,7 @@ scheduling status of cannabis.
 
 ### Antioxidant Activity
 
-- Reactive oxygen species (ROS) and oxidative stress are central
+- Reactive oxygen species (ROS) and [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] are central
   mechanisms in neuronal damage across numerous conditions
 - Cannabinoids, particularly CBD, directly scavenge free radicals and
   reduce oxidative stress markers
@@ -125,7 +125,7 @@ Different cannabinoids offer distinct neuroprotective profiles:
 ## Future Directions
 
 The field of cannabinoid neuroprotection is rapidly evolving:
-- Large-scale clinical trials are needed to validate preclinical findings
+- Large-scale [[mushroom-cancer-clinical-trials-overview]] are needed to validate preclinical findings
 - Optimal dosing, timing, and cannabinoid selection remain to be
   established
 - Combination approaches pairing cannabinoids with conventional
@@ -135,6 +135,6 @@ The field of cannabinoid neuroprotection is rapidly evolving:
 
 ## Key References
 
-Blesching, U. (2017). *The Cannabis Health Index*. North Atlantic Books.
+Blesching, U. (2017). *The [[blesching-cannabis-health-index-autoimmune-conditions]]*. North Atlantic Books.
 U.S. Patent #6,630,507: "Cannabinoids as Antioxidants and Neuroprotectants."
 See Chapter on neurodegenerative conditions for full study citations.

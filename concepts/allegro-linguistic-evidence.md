@@ -10,10 +10,10 @@ sources:
 
 # Linguistic Evidence for Mushroom Encoded in Biblical Texts
 
-The heart of Allegro's argument in *The Sacred Mushroom and the Cross* is his
+The heart of Allegro's argument in *The [[allegro-the-sacred-mushroom-amanita-identification]] and the Cross* is his
 claim that the Bible -- both Old and New Testaments -- contains numerous names,
 epithets, and phrases that are actually disguised references to the
-[[allegro-jesus-name-as-mushroom-epithet]].
+allegro-jesus-name-as-mushroom-epithet.
 
 ### Peter (Cephas/Petros)
 The name Peter, Allegro argues, is a play on the Semitic *pitrā'* meaning
@@ -70,7 +70,7 @@ concepts appear independently across languages. Dionysus (*IA-U-NU-ShUSh*)
 is "Semen, seed that saves" -- almost identical to Jesus's name, with NU
 ("seed") added. The Greek *phoinix* (Phoenix) traces to the same Sumerian
 mushroom word as *Boanerges*. The Arabic *khashish* (Hashish) and Greek
-*kannabis* (Cannabis) both connect to mushroom names. Whether these
+*kannabis* (Cannabis) both connect to [[sacred-mushroom-names-cross-cultural-synonyms]]. Whether these
 connections are real or artifacts of Allegro's flexible methodology remains
 the central point of scholarly dispute.
 

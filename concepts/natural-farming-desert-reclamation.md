@@ -1,11 +1,12 @@
 ---
-title: Natural Farming and Desert Reclamation
+title: comparison-natural-farming-vs-permaculture and fukuoka-desert-reclamation-projects
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [agriculture, homesteading]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Natural Farming and Desert Reclamation
 
@@ -13,7 +14,7 @@ Masanobu Fukuoka extended his [[clay-seed-balls-tsuchi-dango]] containing seeds 
 
 ## The Problem with Conventional Approaches
 
-Fukuoka observed that conventional desert reclamation efforts — planting trees with irrigation, applying fertilizer, using machinery — treat symptoms rather than causes. They are expensive, require ongoing maintenance, and often fail when the artificial support is withdrawn. The fundamental problem is that deserts were not always deserts; they became deserts through human mismanagement of land. "If deserts first arose when man parted from the hand of God and began to till the Garden of Eden, then nature can be made to recover naturally by applying natural farming to the deserts."
+Fukuoka observed that conventional desert reclamation efforts — planting trees with irrigation, applying fertilizer, using machinery — treat symptoms rather than causes. They are expensive, require ongoing maintenance, and often fail when the artificial support is withdrawn. The fundamental problem is that deserts were not always deserts; they became deserts through human mismanagement of land. "If deserts first arose when man parted from the hand of God and began to till the [[allegro-garden-of-eden-and-delight]], then nature can be made to recover naturally by applying natural farming to the deserts."
 
 ## The Core Insight: Rain Comes From the Ground
 
@@ -22,12 +23,12 @@ Fukuoka observed that conventional desert reclamation efforts — planting trees
 ## The Seed Ball Method for Revegetation
 
 ### Concept
-Seeds of plants suited to the local climate are encased in clay pellets (half-inch diameter) and broadcast over the target area. The clay protects seeds from birds and rodents, retains moisture for germination, and provides a micro-environment for the seedling to establish.
+Seeds of plants suited to the local climate are encased in [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] (half-inch diameter) and broadcast over the target area. The clay protects seeds from birds and rodents, retains moisture for germination, and provides a micro-environment for the seedling to establish.
 
 ### Pellet Composition
 The pellets are prepared by mixing seeds of:
 - **Green manure trees** — black wattle and acacia species that grow in areas with less than 2 inches of annual rainfall
-- **Legumes** — clover, alfalfa, bur clover for nitrogen fixation
+- **Legumes** — clover, alfalfa, bur clover for [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
 - **Grains and vegetables** — adapted to local conditions
 
 The seed mixture is coated first with a layer of soil, then one of clay, to form "microbe-containing clay pellets." The soil layer carries beneficial microorganisms from fertile land; the clay layer provides protection.
@@ -55,7 +56,7 @@ Beyond seed balls, Fukuoka developed the "plant irrigation" method for establish
 
 ## The Cause-and-Effect Problem
 
-Fukuoka argued that science cannot solve desertification because it cannot trace the original cause. Even if we could learn "which plant had been the first to die off in a land turned to desert," we would still not know whether to begin by planting the first type of vegetation to disappear or the last to survive. "The reason is simple: in nature, there is no cause and effect." The specialist approach — botanists studying plants, microbiologists studying microorganisms — misses the whole system. "The only effective approach we can take to revegetating barren land is to leave things largely up to nature."
+Fukuoka argued that science cannot solve desertification because it cannot trace the original cause. Even if we could learn "which plant had been the first to die off in a land turned to desert," we would still not know whether to begin by planting the first type of vegetation to disappear or the last to survive. "The reason is simple: in nature, there is no [[fukuoka-textdoc-no-cause-and-effect-in-nature]]." The specialist approach — botanists studying plants, microbiologists studying microorganisms — misses the whole system. "The only effective approach we can take to revegetating barren land is to leave things largely up to nature."
 
 ## Happy Hill Rice
 
@@ -90,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

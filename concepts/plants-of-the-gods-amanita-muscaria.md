@@ -1,5 +1,5 @@
 ---
-title: Amanita Muscaria (Fly Agaric) in Plants of the Gods
+title: allegro-amanita-muscaria-properties-and-pharmacology (Fly Agaric) in Plants of the Gods
 created: 2026-04-28
 tags: [ethnobotany, amanita, hallucinogenic-mushrooms, shamanism]
 date: 2026-04-28
@@ -19,15 +19,15 @@ has been identified with Soma, the ancient Indian god-narcotic, and
 plays a central role in shamanic traditions across the Northern
 Hemisphere. In *Plants of the Gods*, Schultes, Hofmann, and Ratsch
 provide a comprehensive account of its botany, chemistry, and cultural
-significance spanning Siberia, Mesoamerica, and North America.
+significance spanning Siberia, Mesoamerica, and [[psilocybin-north-america-pacific-northwest]].
 
 ## Botanical Description
 
-Amanita muscaria is a beautiful mushroom growing in thin forests,
+Amanita muscaria is a beautiful [[duggar-mushroom-growing-history-and-methods]] in thin forests,
 usually under birches, firs, and young pines. It may attain a height of
 8-9 inches (20-23 cm). The somewhat viscid, ovate, hemispheric cap
 measures 3-8 inches (8-20 cm) when mature. Three varieties exist: one
-with a blood-red cap and white warts found in the Old World and
+with a blood-red cap and white warts found in the [[datura-metel-old-world-ethnobotany]] and
 northwestern North America; a yellow or orange type with yellowish warts
 common in eastern and central North America; and a white variety found
 in Idaho. The cylindrical stem has a bulbous base, is white, and bears a
@@ -75,7 +75,7 @@ fervor and deep sleep may occur.
 
 The active principle was once believed to be muscarine (isolated by
 Schmiedeberg and Koppe), but this has been proven erroneous. Eugster
-in Switzerland and Takemoto in Japan isolated ibotenic acid and the
+in Switzerland and Takemoto in Japan isolated [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] and the
 alkaloid muscimole as responsible for the psychotropic effects. The
 mushroom is usually taken dried; the drying process induces the chemical
 transformation of ibotenic acid to muscimole, the most active
@@ -120,5 +120,5 @@ mushroom's deep cultural penetration across Eurasia.
 
 - [[amanita-muscaria-chemistry-and-pharmacology]] - detailed chemistry
 - [[siberian-fly-agaric-shamanism-urine-recycling]] - urine recycling
-- [[amanita-muscaria-cultural-history]] - cultural history overview
+- [[amanita-muscaria-cultural-history]] - [[shroom-cultural-history-hippie-revolution-and-counterculture]] overview
 - [[hallucinogenic-plants-history-ethnobotany]] - general survey

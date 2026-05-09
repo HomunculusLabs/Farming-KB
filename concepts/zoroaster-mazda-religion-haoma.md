@@ -1,5 +1,5 @@
 ---
-title: Zoroaster Mazda Religion and Haoma
+title: Zoroaster zoroaster mazda religion haoma and Haoma
 created: 2026-04-19
 updated: 2026-04-18
 type: concept
@@ -9,8 +9,8 @@ tags: [reference]
 
 # Zoroaster, the Mazda Religion, and Haoma
 
-The Mazda religion (Zoroastrianism), founded by the prophet Zoroaster (Zarathushtra), represents one of the oldest continuously practiced religions in human history and may have profoundly influenced the development of Judaism, Christianity, Buddhism, and Islam. The Herb of Immortality source argues that the Mazda religion's central sacrament -- Haoma -- is the Iranian cognate of Vedic Soma and was originally prepared from [[amanita-muscaria-feathered-serpent-phoenix]] myth may encode knowledge of the mushroom's association with fire
-- The fire association may also connect to Amanita muscaria's tendency to fruit after forest fires
+The Mazda religion (Zoroastrianism), founded by the prophet Zoroaster (Zarathushtra), represents one of the oldest continuously practiced religions in human history and may have profoundly influenced the development of Judaism, Christianity, Buddhism, and Islam. The [[amanita-muscaria-herb-of-immortality-soma-hypothesis]] source argues that the Mazda religion's central sacrament -- Haoma -- is the Iranian cognate of [[mckenna-vedic-soma-indo-european-mysteries]] and was originally prepared from [[amanita-muscaria-feathered-serpent-phoenix]] myth may encode knowledge of the mushroom's association with fire
+- The fire association may also connect to [[amanita-muscaria]]'s tendency to fruit after forest fires
 
 ### Purity Laws
 
@@ -20,7 +20,7 @@ Zoroastrianism is notable for its elaborate purity laws:
 - Contamination must be avoided in all sacred practices
 - The preparation of Haoma requires purity of person, place, and materials
 - This emphasis on purity parallels the careful [[amanita-muscaria-ambrosia-preparation]] |
-| Mixing with pomegranate juice | [[mycophilia-mycophobia-european-mushroom-history]])
+| Mixing with pomegranate juice | mycophilia-mycophobia-european-mushroom-history)
 
 ## Influence on Later Religions
 
@@ -40,7 +40,7 @@ Christian theology may have absorbed Mazda concepts through Jewish intermediarie
 - **The devil** as a personal adversary (modeled on Ahriman)
 - **Heaven and hell** as eternal destinations
 - **The final judgment** as eschatological climax
-- **Sacramental wine** as the body/blood of God (paralleling Haoma as the divine drink)
+- **[[amanita-muscaria-sacramental-wine-preparation]]** as the body/blood of God (paralleling Haoma as the divine drink)
 ## Practical Considerations
 
 When working with Zoroaster Mazda Religion and Haoma, several practical factors should be
@@ -57,7 +57,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,4 +99,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

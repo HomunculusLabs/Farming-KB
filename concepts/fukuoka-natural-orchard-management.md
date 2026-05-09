@@ -1,11 +1,12 @@
 ---
-title: Fukuoka Natural Orchard Management
+title: masanobu-fukuoka-natural-farming-philosophy fukuoka-orchard-management-detailed
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka's Natural [[fukuoka-living-soil]]'s approach to fruit orchard management represents a complete departure from conventional pomology. Over 30 years, he transformed a degraded citrus orchard into a self-sustaining, three-dimensional ecosystem that produces fruit without pruning, fertilizers, pesticides, or weeding. His orchard includes not just fruit trees but vegetables, ground cover, manure trees, windbreaks, poultry, and livestock -- an integrated microcosm.
@@ -35,7 +36,7 @@ Fukuoka's orchard is not just a place for growing fruit but an organically integ
 
 - **Canopy layer:** Fruit trees (citrus, etc.)
 - **Understory:** Manure trees (acacia), windbreak trees, evergreens and deciduous trees in combination
-- **Ground level:** [[fukuoka-orchard-soil-building-without-fertilizers]]. Cruciferous winter vegetables, when sown just before weeds emerge, grow vigorously and overwhelm weeds. Their deep roots are highly effective in soil improvement. Leguminous green manures suppress summer weeds and enrich the soil.
+- **Ground level:** [[fukuoka-orchard-soil-building-without-fertilizers]]. Cruciferous winter vegetables, when sown just before weeds emerge, grow vigorously and overwhelm weeds. Their deep roots are highly effective in soil improvement. Leguminous [[jeavons-green-manures-cover-crops]] suppress summer weeds and enrich the soil.
 
 ## Soil Building Without Fertilizer
 
@@ -45,7 +46,7 @@ Fukuoka points to mountain forests as proof that trees do not need fertilizer:
 
 - Reforested cedars produce approximately 2 tons of new growth per year (4 tons including branches, leaves, and roots) without any fertilizer
 - This is "slash-and-burn agriculture" in the sense that all above-ground biomass is removed at harvest
-- Nature replenishes soil fertility through rock weathering, microbial activity, and organic cycling
+- Nature replenishes soil fertility through [[dighton-fungal-rock-weathering-mineral-dissolution]], microbial activity, and organic cycling
 - When black wattle is planted in depleted soil and succeeded years later by giant cedars, this demonstrates "the great productive powers of the soil"
 
 ### How Nature Builds Soil
@@ -59,7 +60,7 @@ The process of natural soil formation:
 
 ### The Farmer's Mistake
 
-Fukuoka describes the typical orchard establishment process and its destructive effects:
+Fukuoka describes the typical [[fukuoka-citrus-orchard-establishment-bare-hillside]] process and its destructive effects:
 
 1. Fell forest trees and carry off logs, branches, and leaves
 2. Dig deep, pulling up tree and grass roots; burn them
@@ -68,7 +69,7 @@ Fukuoka describes the typical orchard establishment process and its destructive 
 5. Plant fruit saplings in dead soil
 6. Apply fertilizer and attempt to grow fruit trees "entirely through human forces"
 
-"The poor farmer has taken the long way around." Nature provides all the fertilizers needed. The farmer destroys the natural fertility system and then tries to replace it with purchased inputs.
+"The poor farmer has taken the long way around." Nature provides all the fertilizers needed. The farmer destroys the [[fukuoka-natural-fertility-cycle]] system and then tries to replace it with purchased inputs.
 
 ## Disease and Pest Management in the Orchard
 
@@ -76,4 +77,5 @@ Serious disease and pest damage in fruit trees is triggered by:
 
 - Diminished tree vigor due to depleted soil fertility
 - Confused tree shape (from pruning)
+
 ## See Also

@@ -24,9 +24,9 @@ externally by temperature variations, slight electrical stimulation, parasites
 (lice, scabies), and contact with certain substances (natural or synthetic).
 Itching only occurs superficially on the outer layers of the skin.
 
-According to the Cannabis Health Index, the evidence for cannabis in treating
+According to the [[blesching-cannabis-health-index-autoimmune-conditions]], the evidence for cannabis in treating
 pruritis is based on 3 studies reviewed with a total CHI value of 10, yielding
-a CHI score of 3.33.
+a [[blesching-cannabis-chi-score-methodology]] of 3.33.
 
 See also: [[blesching-cannabis-skin-cancer-non-melanoma]],
 [[blesching-cannabis-herpes-hsv]],
@@ -80,7 +80,7 @@ contribute to it.
 
 Dermatologists are aware of the very limited and often ineffective allopathic
 options for treating chronic itching. Scientists from the University Hospital
-Munster used a cream containing N-palmitoyl ethanolamine, a fatty acid amide
+Munster used a cream containing N-palmitoyl ethanolamine, a fatty [[lysergic-acid-amide-containing-plants-halpern]]
 that enhances the action of anandamide, to treat patients with prurigo,
 lichen simplex, and pruritus.
 
@@ -110,7 +110,7 @@ intractable cholestatic pruritus."
 
 ### ECS in Skin Diseases (2009, Multi-institutional)
 
-A multi-institutional study with researchers from Germany, the United States,
+A multi-institutional study with researchers from Germany, the [[dmt-containing-plants-united-states-halpern]],
 England, and Hungary identified the endocannabinoid system in the skin for
 targeted treatment approaches. They found that targeted manipulation of the
 ECS might be beneficial in a multitude of human skin diseases including

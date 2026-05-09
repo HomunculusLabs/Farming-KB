@@ -1,5 +1,5 @@
 ---
-title: "Claviceps purpurea: Ergot Alkaloids and Phytochemistry"
+title: "bloomfield-ergot-claviceps-purpurea-ergotism: Ergot Alkaloids and Phytochemistry"
 created: 2026-04-28
 tags:
   - ergot
@@ -39,7 +39,7 @@ great importance of the fungus in European countries.
 ## Chemistry of Ergot
 
 The active ingredients in Ergot are **indole alkaloids**, all derived
-from the same basic compound, **lysergic acid**. The most important
+from the same basic compound, **[[ergot-and-lysergic-acid-history]]**. The most important
 alkaloids in Ergot of rye are **ergotamine** and **ergotoxine**, in
 which lysergic acid is connected with a peptide radical consisting of
 three amino acids. These alkaloids and their derivatives have various
@@ -51,13 +51,14 @@ simple **lysergic acid amides**: ergine (lysergic acid amide), and
 lysergic acid-hydroxyethylamide (found only in traces in Ergot of
 rye). These psychotropic alkaloids may have played a role in the
 convulsive form of ergotism. They occur as the main active principles
-in the Mexican Morning Glory [[plants-of-the-gods-turbina-corymbosa-ololiuqui]],
+in the [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] Glory [[plants-of-the-gods-turbina-corymbosa-ololiuqui]],
 [[plants-of-the-gods-tabernanthe-iboga]] and
 [[plants-of-the-gods-chemical-structures-hallucinogens]] for details on molecular relationships.
 
 ## See Also
 
 - [[plants-gods-ergot]]
+
 ## Practical Considerations
 
 Successful implementation of Claviceps purpurea: Ergot Alkaloids and Phytochemistry requires attention to
@@ -76,4 +77,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

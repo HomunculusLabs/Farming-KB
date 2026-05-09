@@ -15,7 +15,7 @@ sources:
   - "Leafly Staff. (2024). \"Slurricane cannabis-strain-chupacabra Information.\" Leafly.com."
   - "AllBud. (2024). \"Slurricane Strain Review.\" AllBud.com."
   - "Wikileaf. (2024). \"Slurricane Marijuana Strain.\" Wikileaf.com."
-  - "Cannabis Training University. (2023). \"Top Indica Strains for Sleep.\" CTU."
+  - "[[query-sog-vs-scrog-cannabis-training-methods]] University. (2023). \"Top Indica Strains for Sleep.\" CTU."
   - "Dyer, A. (2023). \"In the Grow: Do-Si-Dos and Purple Punch cross.\" High Times."
 ---
 
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

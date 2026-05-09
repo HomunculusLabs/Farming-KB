@@ -1,5 +1,5 @@
 ---
-title: Legionnaire Shoes and Soil Compaction in Italian Farming Communes
+title: fukuoka legionnaire shoes italian commune and Soil Compaction in Italian Farming Communes
 source: masanobu-fukuoka-the-road-back-to-nature.md
 author: Masanobu Fukuoka
 tags: [fukuoka, natural-farming, soil-compaction, footwear, italy, european-travels, soil-health]
@@ -23,7 +23,7 @@ work pants). He had deliberately chosen this attire as both a practical choice f
 as a philosophical statement about the relationship between clothing, culture, and nature.
 
 His European tour, documented extensively in *The Road Back to Nature*, was part lecture tour
-and part pilgrimage as he sought to introduce natural farming to the West.
+and part pilgrimage as he sought to introduce [[comparison-natural-farming-vs-permaculture]] to the West.
 
 When he arrived at the Italian commune, the farmers practicing natural farming there had
 eagerly awaited his arrival, hoping to hear that they were doing things right. They had read

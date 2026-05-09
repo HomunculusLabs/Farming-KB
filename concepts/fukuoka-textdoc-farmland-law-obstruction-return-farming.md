@@ -1,5 +1,5 @@
 ---
-title: Japanese Farmland Law and the Obstruction of Return to Farming
+title: Japanese fukuoka textdoc farmland law obstruction return farming and the Obstruction of Return to Farming
 created: 2026-04-28
 tags:
   - fukuoka
@@ -22,7 +22,7 @@ in Japan could be self-sufficient on a quarter-acre of land, collides with
 a dense web of agricultural and land-use laws that he argues were designed
 to serve the interests of the powerful rather than the people. In one of
 the most politically charged sections of "The Natural Way of Farming,"
-Fukuoka dissects the Japanese Agricultural Land Law, the City Planning
+Fukuoka dissects the [[fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse]] Land Law, the City Planning
 Law, and the National Land Use Law to show how legal structures that
 purport to protect farmland actually prevent ordinary citizens from
 acquiring land and returning to farming. This page examines his critique
@@ -35,7 +35,7 @@ Japan has about fifteen million acres of farming land, which works out to
 about a quarter-acre per adult. If Japan's land were divided evenly among
 twenty million households, this would give each household three quarters
 of an acre of farmland plus two and a half acres of mountain and meadow
-land. With total reliance on natural farming, all it takes to support a
+land. With total reliance on [[comparison-natural-farming-vs-permaculture]], all it takes to support a
 household of several people is a quarter-acre. On this amount of land, one
 could build a small house, grow grains and vegetables, raise a goat, and
 even keep several chickens and a hive of bees.
@@ -137,7 +137,7 @@ water and sewage lines would not be needed, and the problem of pollution
 
 - [[fukuoka-textdoc-road-back-to-farming-obstacles]]
 - Mu Economics and the Economics of Natural Farming
-- Creating True People on the Do-Nothing Road
+- [[fukuoka-textdoc-creating-true-people-do-nothing-road]] People on the Do-Nothing Road
 - Decentralized Self-Sufficient Communities
 
 ## See Also

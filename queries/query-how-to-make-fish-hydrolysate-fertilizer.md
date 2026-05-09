@@ -11,7 +11,7 @@ type: query
 # How to Make Fish Hydrolysate Fertilizer
 
 ## Short Answer
-Fish hydrolysate is a cold-processed liquid fertilizer made by enzymatically digesting
+Fish hydrolysate is a cold-processed [[jadam-liquid-fertilizer-nutritional-perspective]] made by enzymatically digesting
 fish waste into a nutrient-rich slurry. Unlike fish emulsion, which uses heat and removes
 oils, hydrolysate retains all the beneficial proteins, amino acids, oils, and
 micronutrients. It provides a fast-acting nitrogen source along with a full spectrum of
@@ -19,15 +19,15 @@ trace minerals that feed both plants and soil microbes.
 
 ## Detailed Explanation
 
-Fish hydrolysate is one of the most potent organic fertilizers available to home gardeners
+Fish hydrolysate is one of the most potent [[hamilton-organic-fertilizers-and-plant-nutrition]] available to home gardeners
 and farmers. The key distinction between hydrolysate and fish emulsion lies in the
-production method. Fish emulsion is cooked at high temperatures, which breaks down proteins
+[[clay-seed-pellet-production-method-concrete-mixer]]. Fish emulsion is cooked at high temperatures, which breaks down proteins
 but also destroys many beneficial compounds and strips out the oils. Hydrolysate, by
 contrast, uses a cold enzymatic process that preserves the full range of amino acids,
 enzymes, fatty acids, and vitamins naturally present in fish waste. This makes it a far
 superior product for building soil biology and delivering complete plant nutrition, as
 covered in the [[query-how-to-make-korean-natural-farming-inputs]]. In this approach, you blend fish
-waste with an equal volume of water, add a lactobacillus serum (such as homemade LAB
+waste with an equal volume of water, add a [[query-how-to-make-lactobacillus-serum-for-plants]] (such as homemade LAB
 serum from rice wash water), and optionally add brown sugar or molasses at about 5 to 10
 percent of the total volume to feed the microbes. Ferment for 2 to 4 weeks in a
 ventilated container, stirring daily to release gases. This method is more accessible for
@@ -47,7 +47,7 @@ described in [[teaming-with-nutrients-organic-fertilizer-types-and-sources]].
 ### Application in the Garden
 
 In the garden, fish hydrolysate can be applied as a soil drench every 1 to 2 weeks during
-the growing season. It works especially well when combined with compost tea applications,
+the [[savory-growing-season-and-non-growing-season-management]]. It works especially well when combined with compost tea applications,
 as the microbial activity in compost tea helps further break down and distribute the
 nutrients. See [[cannabis-organic-fertilizers]]. Taper off applications 2 to 3 weeks before
 the flip to flowering to allow plants to transition their nutrient demands, as excess
@@ -72,7 +72,7 @@ concentrations can vary depending on the fish species and processing method used
 - Dilute at 1 tablespoon per gallon for soil drenches and 1 teaspoon per gallon for
   foliar sprays; apply every 1 to 2 weeks during active growth
 - The amino acids and fatty acids in hydrolysate feed both plants and beneficial soil
-  microbes, supporting the fungal communities that are critical to
+  microbes, supporting the [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] that are critical to
   [[comparison-fish-hydrolysate-vs-fish-emulsion]] Questions
 - [[query-how-to-make-korean-natural-farming-inputs]]
 - [[query-how-to-build-a-compost-pile-that-works]]
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

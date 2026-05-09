@@ -1,5 +1,5 @@
 ---
-title: Straw Bale Building Techniques
+title: comparison-cob-construction-vs-straw-bale-construction Building Techniques
 created: 2026-04-28
 tags:
   - natural-building
@@ -16,8 +16,8 @@ type: concept
 
 # Straw Bale Building Techniques
 
-Straw bale construction is a natural building method featured in Bill
-Mollison's Permaculture: A Designers Manual as an accessible,
+Straw [[straw-bale-construction-vs-earthbag-construction]] is a [[query-how-do-i-choose-a-natural-building-method-for-my-climate]] method featured in Bill
+Mollison's Permaculture: A [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] as an accessible,
 low-energy approach to creating highly insulated structures. Straw
 bales -- typically wheat, rice, oat, or barley straw -- serve as both
 structural and insulative wall elements, transforming an agricultural
@@ -60,7 +60,7 @@ as permaculture-appropriate finishes:
 - **Earth plaster:** Clay, sand, and straw fiber mix applied in 2-3
   coats. Cheapest option; excellent breathability. Vulnerable to
   water erosion on exposed walls.
-- **Lime plaster:** Lime, sand, and fiber. More water-resistant than
+- **[[comparison-lime-plaster-vs-earthen-plaster]]:** Lime, sand, and fiber. More water-resistant than
   earth plaster. Takes longer to cure but develops a durable surface.
   Best for exterior exposure in wet climates.
 - **Cement stucco:** Most durable but least breathable. Can trap
@@ -107,7 +107,7 @@ Mollison highlights straw bale buildings as examples of [[passive-solar-design]]
 combination of high insulation and thermal mass (from plaster coatings)
 creates stable interior temperatures with minimal mechanical heating or
 cooling. In temperate climates, straw bale homes can remain comfortable
-year-round with [[earth-building-permaculture]] techniques, [[rainwater-harvesting-systems]] for fully integrated
+year-round with earth-building-permaculture techniques, [[rainwater-harvesting-systems]] for fully integrated
 permaculture dwellings. The thick walls also provide excellent sound
 insulation and a sense of solidity that contributes to psychological
 comfort.

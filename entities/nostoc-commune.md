@@ -24,7 +24,7 @@ The species forms conspicuous dark green to bluish-black gelatinous colonies tha
 
 *Nostoc commune* is a nitrogen-fixing organism that plays a critical role in soil fertility, particularly in arid, polar, and nutrient-poor environments where it forms biological soil crusts.
 
-The species has a long history of human use as food and medicine in East Asia, Southeast Asia, and parts of Africa. Dried colonies are sold commercially in Chinese markets as a culinary ingredient.
+The species has a long history of human use as food and medicine in East Asia, [[psilocybe-southeast-asia-pacific]], and parts of Africa. Dried colonies are sold commercially in Chinese markets as a culinary ingredient.
 
 ## Taxonomy and Morphology
 
@@ -60,7 +60,7 @@ The species colonizes a wide range of terrestrial habitats including bare soil, 
 
 Biological soil crusts (biocrusts) in arid and semi-arid regions frequently contain *N. commune* as a dominant component. These crusts stabilize soil surfaces, enhance water infiltration, and fix atmospheric nitrogen for surrounding plant communities.
 
-The organism exhibits extraordinary desiccation tolerance. Dry colonies can survive for years and rapidly rehydrate (within minutes) when exposed to moisture, resuming photosynthesis and nitrogen fixation almost immediately.
+The organism exhibits extraordinary desiccation tolerance. Dry colonies can survive for years and rapidly rehydrate (within minutes) when exposed to moisture, resuming photosynthesis and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] almost immediately.
 
 Optimal growth occurs at moderate temperatures (15–30°C) with adequate moisture. The species is phototolerant but grows best under moderate light conditions, avoiding full tropical sun.
 
@@ -72,7 +72,7 @@ The species produces several unique lipopeptides, including nostocyclopeptides w
 
 Phytochemical analysis has identified carotenoids (β-carotene, echinenone), chlorophyll *a*, phycobiliproteins (phycocyanin, allophycocyanin), and tocopherols. These pigments contribute to the organism's antioxidant capacity.
 
-Studies have demonstrated hepatoprotective effects in rodent models of chemical-induced liver injury. Aqueous extracts reduced serum transaminase levels and oxidative stress markers, suggesting potential pharmaceutical applications.
+Studies have demonstrated hepatoprotective effects in rodent models of chemical-induced liver injury. Aqueous extracts reduced serum transaminase levels and [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] markers, suggesting potential pharmaceutical applications.
 
 Anti-inflammatory activity has been documented through inhibition of cyclooxygenase-2 (COX-2) and nitric oxide production in macrophage cell lines. These findings align with traditional medicinal uses in Chinese and Southeast Asian folk medicine.
 
@@ -98,9 +98,9 @@ The gelatinous matrix improves soil structure by binding particles together, enh
 
 The organism also forms symbiotic associations with fungi, lichens, and higher plants. Some bryophytes and cycads host *Nostoc*-like cyanobacteria in specialized cavities, receiving fixed nitrogen in exchange for carbohydrates.
 
-In rice paddy ecosystems, *Nostoc commune* colonizes flooded soil surfaces and contributes to the nitrogen fertility of the paddy. Traditional rice-farming practices in parts of Southeast Asia have long recognized the soil-building benefits of maintaining cyanobacterial populations.
+In [[fukuoka-textdoc-creating-rice-paddy-natural-methods]] ecosystems, *Nostoc commune* colonizes flooded soil surfaces and contributes to the nitrogen fertility of the paddy. Traditional rice-farming practices in parts of Southeast Asia have long recognized the soil-building benefits of maintaining cyanobacterial populations.
 
-Climate change models predict expansion of biological soil crusts into higher latitudes as temperatures rise. *N. commune* is expected to play an increasing role in the carbon and nitrogen cycling of boreal and tundra ecosystems under future climate scenarios.
+[[dighton-fungi-climate-change-feedback]] models predict expansion of biological soil crusts into higher latitudes as temperatures rise. *N. commune* is expected to play an increasing role in the carbon and [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]] of boreal and tundra ecosystems under future climate scenarios.
 
 ## See Also
 

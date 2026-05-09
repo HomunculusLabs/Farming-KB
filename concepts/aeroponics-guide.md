@@ -4,12 +4,13 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, indoor, equipment, engineering, cultivation, methods, plant-growth, nutrients]
-sources: []
+sources:
+  sources: []
 ---
 
 # Aeroponics Guide
 
-Aeroponics is the most advanced form of soilless growing. Instead of submerging roots in water or growing medium, aeroponic systems suspend plant roots in an enclosed chamber where they are misted or sprayed with a nutrient solution. The roots grow in air, absorbing nutrients and oxygen directly from the mist. This approach can produce the fastest growth rates and highest yields of any cultivation method.
+Aeroponics is the most advanced form of soilless growing. Instead of submerging roots in water or growing medium, aeroponic systems suspend plant roots in an enclosed chamber where they are misted or sprayed with a [[cannabis-nutrient-solution-preparation]]. The roots grow in air, absorbing nutrients and oxygen directly from the mist. This approach can produce the fastest growth rates and highest yields of any cultivation method.
 
 ## How Aeroponics Works
 
@@ -63,7 +64,7 @@ Cons:
 Uses standard water pumps (20-60 PSI) with fogger nozzles or spray heads to deliver nutrient solution. Droplet sizes are larger (50-200 microns) than HPA.
 
 How it works:
-- A standard hydroponic pump delivers solution to spray nozzles or ultrasonic foggers
+- A standard hydroponic pump delivers solution to [[ingham-spray-nozzles-equipment-compost-tea]] or ultrasonic foggers
 - Spray heads create a coarse mist or spray that covers the root zone
 - Roots may be partially submerged in pooled solution between spray cycles
 - Simpler plumbing and no high-pressure components needed
@@ -92,7 +93,7 @@ Cons:
 
 ### Cloning and Propagation
 
-Aeroponics excels at cannabis cloning:
+Aeroponics excels at [[comparison-cannabis-cloning-vs-seed-starting-indoors]]:
 - Cuttings develop roots in 5-10 days (vs. 10-21 days in rockwool or soil)
 - Higher success rates than conventional methods
 - No transplant shock — roots emerge directly from the stem
@@ -133,55 +134,12 @@ Unhealthy root indicators:
 - Brown or discolored roots: root rot (Pythium), usually from warm water or contaminated solution
 - Slimy texture: bacterial biofilm, often from organic nutrients or poor sanitation
 - Curling or browning tips: nutrient burn, pH imbalance, or misting frequency issues
-- Sparse root growth: insufficient misting, poor oxygenation, or nutrient deficiency
+- Sparse root growth: insufficient misting, poor oxygenation, or [[cannabis-grow-nutrient-deficiency-problem-solving]]
 
 Prevention:
 - Maintain water temperature at 65-70°F (18-21°C) — use a water chiller if needed
-- Use RO water and clean, synthetic nutrients
-- Sanitize the system between grows with hydrogen peroxide or a commercial cleaner
-- Add beneficial bacteria (Bacillus subtilis strains) to prevent pathogen colonization
-- Replace misting nozzles regularly or clean them with vinegar or CLR
-- Keep the root chamber completely light-proof
-
-## Nutrient Solution for Aeroponics
-
-Aeroponics requires clean, well-filtered nutrient solutions:
-- Always use RO or distilled water
-- Filter nutrients through a 50-micron filter before adding to the reservoir
-- Use synthetic mineral nutrients — organic nutrients clog nozzles
-- Keep EC lower than in other hydro systems (roots absorb more efficiently)
-- Change reservoir weekly
-- Target pH 5.8-6.0 (narrower range than other hydro methods)
-
-Typical EC targets for cannabis:
-- Clones: 0.2-0.4
-- Early veg: 0.6-1.0
-- Late veg: 1.0-1.5
-- Early flower: 1.2-1.8
-- Mid flower: 1.5-2.0
-- Late flower: 1.2-1.6 (reducing nitrogen)
-
-## Power Failure Preparedness
-
-Aeroponics is the most vulnerable system to power outages:
-- Roots in open air dry out in 30-60 minutes without misting
-- Always have a backup power solution (battery backup UPS, generator)
-- Consider an automatic battery backup that switches on during outages
-- Keep a manual mister bottle as emergency backup
-- For critical grows, consider a dual-pump setup with automatic failover
-
-## Aeroponics vs Hydroponics Comparison
-
-| Feature | Aeroponics | DWC | NFT | Ebb/Flow |
-|---------|-----------|-----|-----|----------|
-| Growth rate | Fastest | Fast | Moderate | Moderate |
-| Oxygen at roots | Maximum | Good | Good | Good |
-| Water efficiency | Highest | High | High | Moderate |
-| Complexity | Highest | Low | Moderate | Moderate |
-| Cost | Highest | Low | Moderate | Moderate |
-| Failure risk | Critical | Moderate | High | Moderate |
-| Root monitoring | Excellent | Poor | Good | Poor |
-
+- Use RO water and clean, [[query-organic-vs-synthetic-nutrients-cannabis]]
+- Sanitize the system between grows with [[cervantes-hydrogen-peroxide-sterilization]] or a commercial cleaner
 ## See Also
 
 - [[hydroponic-growing-basics]] for simpler hydroponic alternatives

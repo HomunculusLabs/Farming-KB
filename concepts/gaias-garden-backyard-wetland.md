@@ -10,24 +10,24 @@ tags: [gardening]
 
 # Backyard Wetland Creation
 
-Wetlands are among the most productive ecosystems on the planet, teeming with more plants and animals than any farm. [[hemenway-ecological-garden-design]] as both a productive element and a [[gaias-garden-sheet-mulching]] and manure onto their land in their straining pickup truck. They also forked rich muck from the bog onto the shore, building soil with organic matter and nutrients.
+Wetlands are among the most productive ecosystems on the planet, teeming with more plants and animals than any farm. hemenway-ecological-garden-design as both a productive element and a gaias-garden-sheet-mulching and manure onto their land in their straining pickup truck. They also forked rich muck from the bog onto the shore, building soil with [[hamilton-composting-and-organic-matter-management]] and nutrients.
 
 Within a few years, this tremendous increase in fertility paid off multifold. Not only could the Bullocks grow more plant varieties than before, but opportunistic wild species could find homes in the enhanced habitat as well. The combination of water and fertile soil was irresistible.
 
 ## The Niche Cascade
 
-The restored wetland demonstrates the [[gaias-garden-water-harvesting-swales-and-greywater]], roof runoff, or [[hemenway-zone-and-sector-planning]], wetlands often fall in Zone 3 or 4 -- visited less frequently but providing essential ecosystem services to the entire property. The wetland should be positioned to receive water from the highest points of the property and to overflow safely toward the lowest points.
+The restored wetland demonstrates the [[gaias-garden-water-harvesting-swales-and-greywater]], roof runoff, or hemenway-zone-and-sector-planning, wetlands often fall in Zone 3 or 4 -- visited less frequently but providing essential [[biodiversity-of-fungi-ecosystem-services-agriculture]] to the entire property. The wetland should be positioned to receive water from the highest points of the property and to overflow safely toward the lowest points.
 
 ### Creating a Backyard Wetland
 
 1. **Choose the site**: A naturally low area where water already collects is ideal. Alternatively, choose a spot where you can direct water via swales, pipes, or surface drainage. Even a small depression, 10-20 feet across, can become a productive wetland feature.
 2. **Shape the basin**: Shallow edges (0-6 inches deep) are most productive, providing habitat for the greatest variety of plants and animals. A deeper center (12-24 inches) ensures some water remains through dry periods. Irregular shorelines with bays and peninsulas maximize the productive edge zone.
-3. **Direct water to the site**: Connect roof downspouts, [[gaias-garden-berry-bushes-guide]] like blueberries, elderberries, and cranberries thrive at wetland margins. Cattails, sedges, rushes, and irises colonize shallow water. Willows and dogwoods stabilize banks.
+3. **Direct water to the site**: Connect roof downspouts, gaias-garden-berry-bushes-guide like blueberries, elderberries, and cranberries thrive at wetland margins. Cattails, sedges, rushes, and irises colonize shallow water. Willows and dogwoods stabilize banks.
 5. **Add diversity**: Plant a range of species from different wetland zones -- upland margin plants, emergent species, floating aquatics, and submergent species. Include [[gaias-garden-net-and-pan-water-harvesting]] for adjacent plantings.
-- **Nutrient cycling**: Wetland plants accumulate nutrients from water and soil. When harvested for [[gaias-garden-water-harvesting-swales-and-greywater]] to create closed-loop water cycling in the backyard. Household wastewater from sinks, showers, and laundry passes through a constructed wetland where plants and their root-associated microbes purify the water before it recharges groundwater or irrigates the garden. This transforms a waste product into a resource, following the [[gaias-garden-water-harvesting-swales-and-greywater]] and channels link the wetland to other water harvesting elements, creating a connected hydrological system
+- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]**: Wetland plants accumulate nutrients from water and soil. When harvested for [[gaias-garden-water-harvesting-swales-and-greywater]] to create closed-loop water cycling in the backyard. Household wastewater from sinks, showers, and laundry passes through a [[comparison-constructed-wetland-vs-backyard-pond]] where plants and their root-associated microbes purify the water before it recharges groundwater or irrigates the garden. This transforms a waste product into a resource, following the [[gaias-garden-water-harvesting-swales-and-greywater]] and channels link the wetland to other water harvesting elements, creating a connected hydrological system
 - **Wildlife corridors**: The wetland becomes a node in a network of habitats that includes [[gaias-garden-living-plant-systems-insectary]], and hedgerows
-- **Plant communities**: Wetland-edge plantings merge naturally with upland [[hemenway-food-forest-design]] edges
-- **Nutrient cycling**: Muck harvested from the wetland becomes [[gaias-garden-compost-worm-methods]] or mulch to keep them in check while cycling nutrients to other garden areas.
+- **Plant communities**: Wetland-edge plantings merge naturally with upland hemenway-food-forest-design edges
+- **Nutrient cycling**: Muck harvested from the wetland becomes gaias-garden-compost-worm-methods or mulch to keep them in check while cycling nutrients to other garden areas.
 - **Harvest muck annually**: The nutrient-rich muck that accumulates at the bottom of the wetland is excellent garden fertilizer. Scoop it out periodically and spread it on garden beds.
 - **Observe and enjoy**: A wetland is a dynamic ecosystem that changes with the seasons. Regular observation reveals the cycles of plants, insects, amphibians, and birds that make the wetland their home.
 
@@ -41,9 +41,11 @@ Not every yard has space for a full wetland. Smaller alternatives provide many o
 
 ## Related
 
+- gaias-garden-backyard-livestock-integration
+
 - [[gaias-garden-water-harvesting-swales-and-greywater]] for water supply to wetlands
 - [[gaias-garden-cover-crops-soil-building]] for the fertility that wetlands create and distribute
-- [[gaias-garden-succession-planting]] for how wetlands develop and mature over time
+- gaias-garden-succession-planting for how wetlands develop and mature over time
 - [[gaias-garden-stacking-functions-detailed]] for the multiple benefits wetlands provide
 ## Practical Considerations
 
@@ -61,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +105,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: Scale Insect Biological Control Case Studies
+title: cervantes-mealybugs-scale-insect-control fukuoka-textdoc-biological-control-fallacy-pheromone-critique Case Studies
 created: 2026-04-28
 tags:
   - fukuoka
@@ -24,7 +24,7 @@ type: concept
 
 Scale insects have historically been among the most serious pests affecting citrus orchards in Japan.
 
-Three species — the arrowhead scale, the cottony-cushion scale, and the red wax scale — were once classified as the major citrus pests. Their management through chemical means proved increasingly problematic, while biological control provided elegant and lasting solutions that were disrupted by postwar enthusiasm for synthetic pesticides.
+Three species — the [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]], the cottony-cushion scale, and the red wax scale — were once classified as the major citrus pests. Their management through chemical means proved increasingly problematic, while biological control provided elegant and lasting solutions that were disrupted by postwar enthusiasm for synthetic pesticides.
 
 Fukuoka's [[query-jadam-vs-korean-natural-farming]].
 
@@ -49,7 +49,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -99,7 +99,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -109,4 +109,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

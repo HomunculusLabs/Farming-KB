@@ -1,16 +1,10 @@
 ---
-title: "Claviceps Purpurea"
+title: "bloomfield-ergot-claviceps-purpurea-ergotism"
 created: 2026-05-02
 updated: 2026-05-02
 type: entity
-tags: [[mycology, species]
-sources:
-  - "raw/papers/j-gartz-narrenschwamme.md"
----
----
-title: Claviceps purpurea
-type: species
-tags: [ergot, [[plants-of-the-gods-claviceps-ergot-alkaloids]], lysergic-acid, parasitic-fungi]
+tags: [mycology, species]
+sources: - "raw/papers/j-gartz-narrenschwamme.md" --- --- title: Claviceps purpurea type: species tags: [ergot, plants-of-the-gods-claviceps-ergot-alkaloids, lysergic-acid, parasitic-fungi]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
@@ -73,7 +67,7 @@ its vasoconstrictive effects on cranial blood vessels.
 - **Semisynthetic derivatives** include bromocriptine (for Parkinson's disease and
 hyperprolactinemia), cabergoline, pergolide, and lisuride.
 - The [[ergot-and-lysergic-acid-history]] obtained from ergot was used by Albert Hofmann at Sandoz
-Laboratories to synthesize LSD-25 (lysergic acid diethylamide) in 1938.
+Laboratories to synthesize LSD-25 ([[ergot-and-lysergic-acid-history]] diethylamide) in 1938.
 ## Related Topics
 ## Practical Considerations
 
@@ -93,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

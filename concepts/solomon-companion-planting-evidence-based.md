@@ -1,5 +1,5 @@
 ---
-title: Solomon Companion Planting Evidence-Based Assessment
+title: Solomon comparison-companion-planting-reference-vs-jadam-monoculture-critique Evidence-Based Assessment
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -19,12 +19,12 @@ happens in plant physiology and soil biology.
 Conventional wisdom holds that legumes enrich soil by fixing atmospheric
 nitrogen, making it available to nearby companion plants. This belief
 drives countless companion planting charts -- beans alongside corn, peas
-between cabbage rows, clover as living mulch between vegetable crops.
+between cabbage rows, clover as [[comparison-living-mulch-vs-cover-crops]] between vegetable crops.
 
 Solomon states bluntly: "Everybody thinks legumes enrich soil by making
 nitrates. Actually, all nitrates formed in the roots are immediately
 incorporated into above-ground parts -- leaves and then seeds." Legumes
-do not supply fertility to companion crops during the growing season.
+do not supply fertility to companion crops during the [[savory-growing-season-and-non-growing-season-management]].
 The nitrogen fixed by rhizobia bacteria in root nodules is rapidly
 transported upward into the plant's own stems, leaves, and ultimately
 its seeds. Very little, if any, leaks into surrounding soil.
@@ -35,8 +35,8 @@ Several specific conditions are required for nitrogen fixation to occur:
 
 - **Specialized microorganisms**: Nitrogen-fixing bacteria form visible
   nodules on legume roots. These organisms will not be present in soil
-  that is highly depleted of organic matter. Without the right bacterial
-  populations, legumes cannot fix nitrogen at all.
+  that is highly depleted of [[hamilton-composting-and-organic-matter-management]]. Without the right bacterial
+  populations, legumes cannot [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] at all.
 - **Mineral requirements**: Legumes need substantial calcium (lime) and
   phosphorus to support both their own growth and the nitrogen-fixing
   symbiosis. Without adequate minerals, rhizobia cannot function
@@ -78,7 +78,7 @@ neighbors through nitrogen sharing. Some companion planting effects may
 still be real: pest distraction, physical support (corn trellising
 beans), and canopy effects modifying microclimate. But the
 nitrogen-sharing claim is unsupported by evidence and should not drive
-garden planning.
+[[hamilton-garden-planning-and-site-assessment]].
 
 ## See Also
 

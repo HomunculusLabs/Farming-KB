@@ -5,7 +5,8 @@ updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka's Spiritual and Philosophical Foundation
@@ -33,14 +34,14 @@ Fukuoka's philosophy centers on the concept of Mu -- emptiness, nothingness, or 
 - Nature is an "absolute void" -- it cannot be grasped by human concepts
 - All human categories, classifications, and distinctions are artificial impositions on an indivisible reality
 - When we try to "understand" nature through science, we fragment and distort it
-- True understanding comes from letting go of discriminating knowledge
+- True understanding comes from letting go of [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]]
 - "Nothingness" does not mean nonexistence but the state beyond all categories and distinctions
 
 ### Applied to Farming
 
 The principle of Mu means that:
 - There is no need to "improve" nature through human knowledge
-- Crops grow by themselves; farmers do not "grow" crops
+- [[fukuoka-textdoc-crops-grow-own-accord-independence-fertilizer]] by themselves; farmers do not "grow" crops
 - The farmer's role is to remove obstacles to nature's own processes, not to direct them
 - The ideal farming practice is "no practice at all"
 
@@ -50,7 +51,7 @@ Fukuoka argued that the scientific method is inherently limited when applied to 
 
 ### Fragmentation
 
-"Scientists analyze rice and barley plants and identify the various nutrients. They then speculate that these nutrients promote the growth of rice and barley. Next they apply the nutrients as fertilizer, and observing that the plants grow as expected, they conclude that the fertilizer is what makes the crops grow."
+"Scientists analyze [[fukuoka-rice-and-barley-natural-farming]] plants and identify the various nutrients. They then speculate that these nutrients promote the growth of rice and barley. Next they apply the nutrients as fertilizer, and observing that the plants grow as expected, they conclude that the fertilizer is what makes the crops grow."
 
 This reasoning is circular: it analyzes what already exists and calls the analysis an explanation. It confuses correlation with causation.
 
@@ -78,12 +79,12 @@ Fukuoka challenges the modern belief in progress:
 - Modern civilization equates technological advancement with improvement
 - But "imperfection can never equal perfection"
 - Human knowledge "is but a tiny, closely circumscribed fraction of the infinitude of the natural world"
-- Scientific farming "must always yield a step" to natural farming
+- [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] "must always yield a step" to [[comparison-natural-farming-vs-permaculture]]
 - "Nature encompasses everything. No matter how desperately he struggles, man will never be more than a small, imperfect part of its totality"
 
 ### The Dharmic Law
 
-Fukuoka proposes a unifying principle: "The Dharmic Law That All Things Return to One":
+Fukuoka proposes a unifying principle: "The Dharmic Law That All [[fukuoka-dharmic-law-all-things-return-to-one]] to One":
 
 "All things fuse into a circle, which reverts to a point, and the point to nothing. To man, it appears as if something has occurred and something has vanished, yet nothing is ever created or destroyed."
 

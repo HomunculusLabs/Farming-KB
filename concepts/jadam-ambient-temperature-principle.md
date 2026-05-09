@@ -1,5 +1,5 @@
 ---
-title: JADAM Ambient Temperature Principle
+title: JADAM jadam ambient temperature principle Principle
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-JADAM's third principle of input making: always culture microorganisms and make liquid fertilizers at ambient temperature -- the same temperature as the crops' environment. This principle rejects the widely promoted practice of maintaining fixed temperatures (typically 32C/89.6F) using heaters and controlled environments.
+JADAM's third principle of input making: always culture microorganisms and make [[solomon-liquid-fertilizers-and-foliar-feeding]] at ambient temperature -- the same temperature as the crops' environment. This principle rejects the widely promoted practice of maintaining fixed temperatures (typically 32C/89.6F) using heaters and controlled environments.
 
 ## Why Fixed Temperature Is Wrong
 

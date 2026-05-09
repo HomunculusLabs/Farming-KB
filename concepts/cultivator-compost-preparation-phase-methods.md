@@ -1,17 +1,16 @@
 ---
-title: "Compost Preparation and Phase Methods for Mushroom Cultivation"
+title: "cultivator [[mushroom-compost-preparation-historical]] phase methods and Phase Methods for accessible-mushroom-cultivation-for-disabilities"
 created: 2026-04-28
-tags: [[mushroom-cultivation, composting, substrate, phase-composting, soil-science]
+tags: [mushroom-cultivation, composting, substrate, phase-composting, soil-science]
 date: 2026-04-25
 updated: 2026-04-25
-sources: [raw/papers/the-mushroom-cultivator-stamets.md]
+sources: sources: []
 type: concept
 ---
-
 # [[mycelium]] growth to the practical exclusion of competitor organisms. Specifically:
 
 1. Create a physically and chemically homogeneous substrate
-2. Create a selective substrate where mushroom mycelium thrives better than
+2. Create a selective substrate where [[growing-gourmet-iconic-types-mushroom-mycelium]] thrives better than
    competitor microorganisms
 3. Concentrate nutrients for mushroom use while exhausting nutrients favored
    by competitors
@@ -75,7 +74,7 @@ No composts are made exclusively of hay due to high cost and small fiber.
 ### Group VII: Minerals
 - **Gypsum (calcium sulfate):** Essential for all composts at 50-100 lbs/dry ton
   - Improves physical structure through aggregation of colloidal particles
-  - Increases water holding capacity while decreasing over-wetting danger
+  - Increases water [[pf-tek-vermiculite-type-comparison-water-holding-capacity]] while decreasing over-wetting danger
   - Counteracts high K, Mg, P, and Na concentrations
   - Supplies calcium necessary for mushroom metabolism
 - **Limestone flour (calcium carbonate):** Used to buffer acidic supplements
@@ -99,7 +98,7 @@ supplement highly desirable.
 
 Phase II rooms are specially designed for pasteurization and conditioning. The
 compost must reach and maintain specific temperature zones to kill pathogens
-and competitors while preserving beneficial microorganisms. Testing for ammonia
+and competitors while preserving [[forest-and-bamboo-beneficial-microorganisms]]. Testing for ammonia
 levels is critical, as residual ammonia is toxic to mushroom mycelium. The
 finished compost should have a specific texture, moisture content, and smell
 indicating it is ready for spawning. For detailed Phase II procedures, see compost preparation and phase methods.
@@ -107,7 +106,7 @@ indicating it is ready for spawning. For detailed Phase II procedures, see compo
 ## Alternative Composting Methods
 
 ### Sugar Cane Bagasse Compost
-An alternative base material available in tropical regions where cereal straw
+An alternative base material available [[fukuoka-natural-farming-in-tropical-regions]] where cereal straw
 is less common.
 
 ### Five-Day Express Composting Method
@@ -117,5 +116,5 @@ moisture levels.
 
 ## Key Principles
 
-- Mushroom growers have traditionally used waste products as they are cheap
+- [[enterprise-development-mushroom-growers]] have traditionally used waste products as they are cheap
 ## See Also

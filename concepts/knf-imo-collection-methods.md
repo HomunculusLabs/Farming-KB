@@ -1,5 +1,5 @@
 ---
-title: "KNF IMO Collection Methods"
+title: "KNF bahay-kubo-imo-collection-and-preparation Methods"
 created: 2026-04-28
 tags: [knf, natural-farming, imo, microorganisms, soil-health]
 date: 2026-04-25
@@ -10,8 +10,8 @@ type: concept
 
 # KNF IMO Collection Methods
 
-Indigenous Microorganisms (IMOs) can be collected using three distinct
-methods described in Cho's Global Natural Farming. Each method targets
+[[beneficial-indigenous-microorganisms-bim]] (IMOs) can be collected using three distinct
+methods described in Cho's Global [[comparison-natural-farming-vs-permaculture]]. Each method targets
 different microbial communities from specific environments, enabling
 farmers to build broad microbial diversity in their preparations.
 
@@ -46,7 +46,7 @@ field soil where microbial life is abundant and diverse.
 ### Procedure
 1. Fill the wooden box with steamed rice at moderate moisture. Do not
    stuff rice higher than 3 inches and do not press it, as adequate
-   air circulation is essential for aerobic microorganisms.
+   [[stamets-growing-room-air-circulation-co2-management]] is essential for aerobic microorganisms.
 2. Cover with white plain paper (avoid newspaper). Secure with rubber
    band or thread.
 3. Mark a 12-inch by 8-inch area in soil, excavate 2 inches, and
@@ -64,7 +64,7 @@ molds indicate the process has gone too far.
 
 ## Method 2: Collection from Bamboo Stump
 
-Bamboo groves harbor unique microbial communities due to the bamboo's
+[[fukuoka-textdoc-bamboo-groves-wood-preserves-soil-fertility]] harbor unique microbial communities due to the bamboo's
 natural juices and the shaded, humid microclimate they create.
 
 ### Materials Needed
@@ -125,7 +125,7 @@ trenches. Samples from high mountains or uncontaminated regions
 introduce particularly resilient microbes into the mixture. The
 principle of mixing microorganisms from various sources ensures a
 broad spectrum of beneficial organisms capable of thriving under
-diverse field conditions throughout the growing season.
+diverse field conditions throughout the [[savory-growing-season-and-non-growing-season-management]].
 
 ## See Also
 - [[growing-gourmet-global-environmental-shift-loss-fungal-diversity]]

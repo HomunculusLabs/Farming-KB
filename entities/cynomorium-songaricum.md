@@ -31,7 +31,7 @@ species of Nitraria (Nitrariaceae). It produces no chlorophyll and is visible
 above ground only during its flowering and fruiting period.
 
 C. songaricum occupies a unique ecological niche in arid and semi-arid
-environments of Central and East Asia, where it has been used medicinally for
+environments of Central and [[neurotropic-fungi-japan-east-asia-species-cultural-context]], where it has been used medicinally for
 over 1,200 years.
 
 ## Taxonomy
@@ -93,7 +93,7 @@ exceeding 40°C to winter lows below -30°C.
 
 ## Chemistry and Pharmacology
 
-The fleshy stems contain a diverse profile of bioactive compounds including
+The fleshy stems contain a diverse profile of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] including
 flavonoids, lignans, triterpenoid saponins, sterols, and polysaccharides.
 
 Major flavonoids include **catechin**, **epicatechin**, **proanthocyanidins**,
@@ -103,7 +103,7 @@ Triterpenoid saponins based on ursolic and oleanolic acid scaffolds contribute
 to adaptogenic and anti-fatigue effects observed in pharmacological studies.
 
 Polysaccharide fractions demonstrate significant antioxidant activity,
-protecting against oxidative stress in liver and brain tissue in animal models.
+protecting against [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in liver and brain tissue in animal models.
 
 Anti-osteoporotic effects include stimulation of osteoblast proliferation and
 bone mineral density enhancement in ovariectomized rat models.

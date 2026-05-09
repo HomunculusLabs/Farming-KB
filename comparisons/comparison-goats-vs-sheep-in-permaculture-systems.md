@@ -1,5 +1,5 @@
 ---
-title: "Goats vs Sheep in Permaculture Systems"
+title: "comparison goats vs sheep in permaculture systems in permaculture Systems"
 created: 2026-04-28
 tags: [goats, sheep, permaculture, livestock, homesteading, grazing, comparison]
 date: 2026-04-28
@@ -21,7 +21,7 @@ Both goats and sheep are small ruminants well-suited to permaculture and homeste
 | **Dietary preference** | Browsers (woody plants, shrubs, forbs) | Grazers (grasses, clovers, low forbs) |
 | **Forage height** | 2–5 ft preferred (will stand on hind legs) | Ground level to 6 inches |
 | **Fencing needs** | High — 48–60 in minimum; escape artists | Moderate — 32–40 in adequate |
-| **Shelter needs** | Must stay dry; pneumonia risk | More weather-tolerant; wool insulation |
+| **Shelter needs** | Must stay dry; pneumonia risk | More weather-tolerant; [[mollison-designers-wool-insulation-and-natural-textiles]] |
 | **Predator vulnerability** | High (no defensive flocking) | Moderate (strong flocking instinct) |
 | **Parasite susceptibility** | High — barber pole worm is primary threat | Moderate — similar parasites but more resistant |
 | **Reproductive rate** | 1–3 kids, 2× per year possible | 1–3 lambs, typically 1× per year |
@@ -65,14 +65,14 @@ This mineral incompatibility is the primary reason many experienced producers ke
 **Goats excel at:**
 - Clearing brush and invasive woody species (multiflora rose, autumn olive, kudzu, bittersweet)
 - Maintaining firebreaks and fuel breaks
-- Browsing under silvopasture trees without damaging roots
+- Browsing under [[silvopasture]] trees without damaging roots
 - Controlling vegetation on steep, rocky terrain where mowing is impossible
 
 **Sheep excel at:**
-- Rotational grazing to improve pasture quality
+- [[comparison-rotational-grazing-vs-continuous-grazing]] to improve pasture quality
 - Controlling grass-dominated vegetation
 - Cycling nutrients through productive cropland
-- Easier integration into market garden rotations
+- Easier integration into [[mollison-designers-market-garden-intensive-production-design]] rotations
 
 ### Climate Adaptability
 
@@ -87,7 +87,7 @@ Goats offer broader product diversity for a homesteader: milk (high volume, mult
 
 ## Complementary Grazing Strategies
 
-Running goats and sheep together (in separate mineral management) creates synergies:
+Running goats and sheep together (in separate [[knf-soil-and-mineral-management]]) creates synergies:
 
 1. **Sequential rotation**: Goats graze first, consuming browse and tall forbs. Sheep follow, grazing the grasses and clovers the goats left behind. Total forage utilization increases 20–40% compared to single-species grazing.
 2. **Parasite dilution**: Each species' parasites are host-specific. Grazing sheep after goats (or vice versa) "cleans" the pasture of the previous species' larvae, reducing reinfection rates for both.
@@ -126,9 +126,9 @@ Sheep have a lower barrier to entry, particularly in fencing costs. However, goa
 
 ## Summary
 
-Goats and sheep are complementary rather than competing species in permaculture design. Goats are the **engineers** — they reshape vegetation structure, control invasives, and access forage that no other livestock can reach. Sheep are the **maintainers** — they improve and sustain productive grasslands with minimal infrastructure. The ideal permaculture livestock plan often includes both, managed in complementary rotations with separate mineral feeding systems. Start with the species that best matches your most pressing land management need, then add the other as your system matures.
+Goats and sheep are complementary rather than competing species in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]. Goats are the **engineers** — they reshape vegetation structure, control invasives, and access forage that no other livestock can reach. Sheep are the **maintainers** — they improve and sustain productive grasslands with minimal infrastructure. The ideal permaculture livestock plan often includes both, managed in complementary rotations with separate mineral feeding systems. Start with the species that best matches your most pressing land management need, then add the other as your system matures.
 
 ## See Also
 
-- [[permaculture]]
+- permaculture
 - [[permaculture-design]]

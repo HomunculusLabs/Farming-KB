@@ -97,11 +97,11 @@ changes. The effects are significantly less intense than classical
 psychedelics like psilocybin or mescaline.
 
 Duration of effects is approximately 2–4 hours when taken orally.
-Onset occurs within 30–60 minutes. No serious adverse effects have been
+Onset occurs within 30–60 minutes. No serious [[blesching-cannabis-safety-adverse-effects-evidence]] have been
 documented at traditional doses.
 
 The compound does not appear to produce tolerance, dependence, or
-withdrawal. Its relatively benign safety profile and lack of pronounced
+withdrawal. Its relatively benign [[cannabis-safety-profile-and-overdose-risk]] and lack of pronounced
 psychedelic effects place it at the mild end of the psychoactive
 alkaloid spectrum.
 
@@ -112,7 +112,7 @@ natural source. All plant parts contain nuciferine, with the highest
 concentrations in the leaves and seed embryos.
 
 The lotus has been cultivated for at least 3,000 years across South and
-Southeast Asia and was known to the ancient Egyptians, who used lotus
+[[psilocybe-southeast-asia-pacific]] and was known to the ancient Egyptians, who used lotus
 preparations in religious and medicinal contexts. Nuciferine was first
 isolated from lotus leaves in the late 19th century.
 
@@ -128,7 +128,7 @@ significant sources.
 ## Legal Status
 
 Nuciferine is not specifically scheduled in most jurisdictions. In the
-United States, it is not listed on the DEA Controlled Substances Act
+[[dmt-containing-plants-united-states-halpern]], it is not listed on the DEA Controlled [[controlled-substances-act-and-psychedelic-research]]
 and exists in a legal gray area as a naturally occurring plant alkaloid.
 
 In the European Union, nuciferine is not regulated as a controlled

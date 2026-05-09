@@ -5,15 +5,16 @@ tags: [cannabis, temperature, climate-control, grow-room, environment]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Grow Room Temperature Management
 
 Temperature is one of the most critical environmental
-factors in cannabis cultivation. It directly affects
-growth rate, nutrient uptake, transpiration,
+factors in [[query-how-does-no-till-cannabis-cultivation-work]]. It directly affects
+growth rate, [[plant-nutrient-uptake-mechanisms]], transpiration,
 photosynthesis efficiency, and overall plant health.
 Cervantes emphasizes that maintaining proper
 temperature ranges throughout all growth stages is
@@ -39,13 +40,13 @@ narrower optimal ranges:
   benefit from warm conditions around 75 degrees F
   (24 degrees C) with gentle warmth on the root zone.
 
-- **Vegetative growth:** 72 to 82 degrees F (22 to
+- **[[cannabis-vegetative-growth-stage]]:** 72 to 82 degrees F (22 to
   28 degrees C) during the day. Plants in this range
   show vigorous leaf and stem development.
 
 - **Flowering:** 65 to 80 degrees F (18 to 27 degrees
   C). Cooler temperatures during flowering, especially
-  in the last two weeks, can enhance resin production
+  in the last two weeks, can enhance [[cannabis-glandular-trichome-types-resin-production-clarke]]
   and color development. Air temperature between 65
   and 75 degrees F (18 to 24 degrees C) is considered
   ideal for late flowering.
@@ -93,12 +94,12 @@ exceed 85 degrees F (29 degrees C). Symptoms include:
 - Leaf tips and margins turning brown and crispy
 - Reduced growth rate and stretching
 - Reduced flower density and resin production
-- Increased susceptibility to pests and diseases
+- Increased susceptibility to [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]
 - Nutrient uptake problems resembling deficiency
 
 Heat stress can be caused by powerful grow lights
 (especially HID systems), poor ventilation, or
-external environmental factors. Air conditioning is
+external [[duggar-mushroom-environmental-factors-temperature-moisture-light]]. Air conditioning is
 ideal to control temperature in warm climates. An air
 conditioner both lowers temperature and reduces
 humidity simultaneously.

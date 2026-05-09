@@ -22,7 +22,7 @@ sources:
 
 # Lepista nuda (Wood Blewit)
 
-**Lepista nuda**, commonly known as the **wood blewit** or **blue stalk mushroom**, is an edible species of agaric fungus in the family **Tricholomataceae** (sometimes placed in **Lyophyllaceae**). It is widely distributed across temperate regions of the Northern Hemisphere and is one of the most recognizable late-season edible mushrooms, appreciated for its distinctive bluish-violet coloration and pleasant aroma.
+**Lepista nuda**, commonly known as the **wood blewit** or **blue stalk mushroom**, is an edible species of agaric fungus in the family **Tricholomataceae** (sometimes placed in **Lyophyllaceae**). It is widely distributed across temperate regions of the Northern Hemisphere and is one of the most recognizable late-season [[palmer-edible-mushrooms-north-america]], appreciated for its distinctive bluish-violet coloration and pleasant aroma.
 
 ## Taxonomy and Nomenclature
 
@@ -78,7 +78,7 @@ Some authorities place this species in the genus **Clitocybe** as *Clitocybe nud
 - **Leaf litter piles**, compost heaps, and garden mulch in urban settings
 - **Grasslands** and hedgerows adjacent to wooded areas
 
-It is found across **Europe, North America, Asia, and parts of Australasia**. Fruiting occurs in **autumn through early winter** (September to January in the Northern Hemisphere), often persisting through light frosts. It is one of the few edible mushrooms that continues fruiting well into cold weather.
+It is found across **Europe, [[psilocybin-north-america-pacific-northwest]], Asia, and parts of Australasia**. Fruiting occurs in **autumn through early winter** (September to January in the Northern Hemisphere), often persisting through light frosts. It is one of the few edible mushrooms that continues fruiting well into cold weather.
 
 ## Culinary Value
 
@@ -107,9 +107,9 @@ The **pink spore print** is the most important diagnostic feature separating *L.
 
 ## Cultivation
 
-*Lepista nuda* can be cultivated but is less commonly grown commercially than species like *Pleurotus ostreatus* or *Agaricus bisporus*:
+*Lepista nuda* can be cultivated but is less commonly grown commercially than species like *Pleurotus ostreatus* or *[[genetic-improvement-agaricus-bisporus-molecular-approaches]]*:
 
-- **Substrate:** Composted straw, leaf litter, or enriched sawdust
+- **Substrate:** Composted straw, leaf litter, or [[gourmet-mushroom-enriched-sawdust-cultivation]]
 - **Temperature:** Prefers cool temperatures (12–18°C / 54–64°F)
 - **Fruiting:** Typically 2–4 months after inoculation
 - **Yield:** Moderate, but reliable once established
@@ -117,7 +117,7 @@ The **pink spore print** is the most important diagnostic feature separating *L.
 
 ## Chemical Constituents
 
-Research has identified several bioactive compounds in *L. nuda*:
+Research has identified several [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] in *L. nuda*:
 
 - **Lepista nuda lectins** — carbohydrate-binding proteins with demonstrated antimicrobial and antiproliferative properties
 - **β-glucans** — immunomodulatory polysaccharides
@@ -128,7 +128,7 @@ Research has identified several bioactive compounds in *L. nuda*:
 
 As a primary decomposer of leaf litter, *L. nuda* plays a significant role in:
 
-- **Nutrient cycling** in temperate forest ecosystems
+- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]** in temperate forest ecosystems
 - **Breaking down cellulose and lignin** in fallen leaves
 - **Supporting soil microbiome diversity** through competitive interactions
 - **Serving as a food source** for various invertebrates and small mammals
@@ -137,9 +137,6 @@ As a primary decomposer of leaf litter, *L. nuda* plays a significant role in:
 
 *Lepista nuda* is not currently considered threatened. It is common and widespread throughout its range. However, like many saprotrophic fungi, it may be sensitive to:
 
-- **Air pollution** and acid deposition affecting forest floor chemistry
-- **Removal of leaf litter** in managed woodlands and parks
-- **Pesticide and herbicide use** in forest-edge habitats
 ## See Also
 
 - [[agaricus-bisporus]]
@@ -147,4 +144,5 @@ As a primary decomposer of leaf litter, *L. nuda* plays a significant role in:
 
 ## See Also
 
-- [[edible-wild-mushrooms-foraging-guide]]
+- edible-wild-mushroom-guide
+- [[saprotrophic-fungi]]

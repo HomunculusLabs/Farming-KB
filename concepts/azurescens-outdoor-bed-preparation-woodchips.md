@@ -1,5 +1,5 @@
 ---
-title: Azurescens Outdoor Bed Preparation with Woodchips
+title: Azurescens azurescens outdoor bed preparation woodchips Preparation with Woodchips
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
@@ -10,7 +10,7 @@ sources:
 ---
 # Azurescens Outdoor Bed Preparation with Woodchips
 
-Outdoor bed preparation for Psilocybe azurescens centers on creating a buried wood chip substrate in a sheltered location, replicating the species' natural habitat of decomposing hardwood debris in half-shaded coastal environments.
+Outdoor bed preparation for [[stamets-psi-psilocybe-azurescens-species-guide]] centers on creating a buried wood chip substrate in a sheltered location, replicating the species' natural habitat of decomposing hardwood debris in half-shaded coastal environments.
 
 ## Wood Chip Species Selection
 
@@ -21,7 +21,7 @@ The choice of wood species directly affects colonization speed, yield, and long-
 - **Alder** (Alnus spp.): Native substrate for P. cyanescens in the Pacific Northwest, suitable for P. azurescens
 - **General hardwood**: Any fresh hardwood chips are acceptable; avoid conifers and treated lumber
 
-For spawn preparation, smaller chip sizes are used to maximize surface area for rapid colonization. For the outdoor bed itself, coarser (larger) chips provide better drainage, air exchange, and longer-term decomposition.
+For [[azurescens-spawn-preparation-grain-to-wood]], smaller chip sizes are used to maximize surface area for rapid colonization. For the outdoor bed itself, coarser (larger) chips provide better drainage, air exchange, and longer-term decomposition.
 
 ## Bed Construction
 
@@ -50,7 +50,7 @@ The azurescens guide's higher ratio (1:5) reflects the species' slower colonizat
 ## Chip Preparation
 
 ### For the Bed (Non-Sterile)
-1. Place coarse wood chips in bags
+1. Place coarse [[query-how-to-use-wood-chips-in-your-garden]] bags
 2. Fill bags with water and soak for **24 hours**
 3. Drain thoroughly before mixing with spawn
 
@@ -78,7 +78,7 @@ It is better to water lightly and repeat after a week than to overwater initiall
 | Planting Time | Expected Result |
 |---------------|-----------------|
 | Autumn (preceding year) | Excellent fruiting prospects |
-| Early spring | Very good; full colonization by autumn |
+| [[coleman-overwintered-onions-and-early-spring-crops]] | Very good; full colonization by autumn |
 | Late spring / early summer | Good, but use more spawn |
 | 3 months before harvest | Possible fruiting same year (documented) |
 | Frozen ground | Not possible |
@@ -103,6 +103,6 @@ This technique allows indefinite patch expansion without laboratory-grade spawn.
 
 ## See Also
 
-- [[outdoor-woodlover-bed-preparation]] — general woodlover bed preparation
+- [[outdoor-woodlover-bed-preparation]] — general [[outdoor-woodlover-bed-preparation]] preparation
 - [[outdoor-mushroom-bed-preparation]] — broader outdoor bed methods
 - [[psilocybe-azurescens-profile]] — species profile

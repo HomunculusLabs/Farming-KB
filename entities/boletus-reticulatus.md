@@ -65,7 +65,7 @@ and commercial contexts.
   pattern) that extends strongly down to the base.
 - **Flesh:** White, firm, unchanging when cut; thick and meaty in
   mature caps.
-- **Spore print:** Olive-brown to snuff-brown.
+- **[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Olive-brown to snuff-brown.
 - **Spores:** Fusiform to ellipsoidal, 14–18 × 4.5–6 µm, smooth,
   pale yellowish-brown in KOH.
 - **Taste and odor:** Mild, pleasant, nutty; odor fruity or faintly of
@@ -91,20 +91,20 @@ from June through September, often appearing after warm summer rains.
 ## Ecological Role
 
 As an ectomycorrhizal bolete, B. reticulatus forms extensive mycelial
-networks connecting to host tree root systems through Hartig net
+networks connecting to [[ectomycorrhizal-host-tree-partnerships]] root systems through [[dighton-ectomycorrhizal-hartig-net-structure-function]]
 structures.
 
 The fungus is particularly effective at phosphorus mobilization,
-solubilizing mineral phosphates through organic acid exudation and
+solubilizing mineral phosphates through [[fungal-organic-acid-metal-solubilization]] exudation and
 making phosphorus available to host trees.
 
 Its large, long-lived fruiting bodies provide a significant food source
 for forest fauna including deer, wild boar, rodents, and numerous insect
-species that complete their life cycles within decaying boletes.
+species that complete their [[bloomfield-rust-fungi-life-cycles-barberry-wheat]] within decaying boletes.
 
 ## Edibility and Culinary Use
 
-Boletus reticulatus is an excellent edible mushroom, considered by many
+Boletus reticulatus is an excellent [[bloomfield-boletus-satanus-edible-mushroom-hazards]], considered by many
 connoisseurs to be at least equal to B. edulis in culinary quality.
 
 The flesh is firmer and denser than B. edulis, with a slightly more

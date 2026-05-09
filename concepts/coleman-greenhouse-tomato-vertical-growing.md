@@ -1,5 +1,5 @@
 ---
-title: Greenhouse Tomato Vertical Growing
+title: coleman greenhouse tomato vertical growing Vertical Growing
 created: 2026-04-28
 tags:
   - tomatoes
@@ -22,7 +22,7 @@ In another greenhouse, the previous crop is cleared a month or more
 before tomatoes are needed. Wickets and row-cover inner layers are
 removed, soil is prepared, and a sheet of clear plastic is laid
 directly on the soil. This is the most effective way to trap incoming
-solar heat in the soil. It also stimulates weed seed germination,
+solar heat in the soil. It also stimulates weed [[cannabis-seed-germination-methods]],
 and the weed seedlings are flamed off before transplanting.
 
 Using clear plastic laid on the soil as an extra-warm inner layer,
@@ -38,7 +38,7 @@ harvest against the benefit of earlier soil warming for tomatoes. At
 the Four Season Farm, the income from spinach has consistently been
 judged worth the tradeoff of a slightly later tomato start.
 
-See also [[coleman-greenhouse-soil-management]], and
+See also coleman-greenhouse-soil-management, and
 [[coleman-moveable-greenhouse-system]].
 ## Practical Considerations
 
@@ -56,7 +56,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,3 +99,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[coleman-vertical-trellis-growing-greenhouse-tomatoes]]

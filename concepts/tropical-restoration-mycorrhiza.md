@@ -12,17 +12,17 @@ sources:
 The use of [[mushroom-poverty-alleviation-developing-countries]], 50 years of socioeconomic factors have driven significant land use change. The consequences include:
 
 - Increased carbon emissions from soil carbon release
-- Reduced carbon sequestration capacity
-- Loss of biodiversity and ecosystem services
+- Reduced [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] capacity
+- Loss of biodiversity and [[biodiversity-of-fungi-ecosystem-services-agriculture]]
 - Degradation of soil biological communities, including AMF
 
-Tropical rain forest soils store approximately 60% of ecosystem carbon and constitute 37% of net primary production, making their conservation and restoration globally significant.
+Tropical rain forest soils store approximately 60% of ecosystem carbon and constitute 37% of net [[lichens-primary-production-soil-formation-dighton]], making their conservation and restoration globally significant.
 
 ## AMF in Tropical Soil Biology
 
 ### Indigenous AMF Communities
 
-Native tropical soils harbor diverse AMF communities that are adapted to local conditions:
+Native [[mollison-designers-tropical-soils-and-cation-exchange-management]] harbor diverse AMF communities that are adapted to local conditions:
 
 - AMF diversity varies with successional stage, soil type, and vegetation composition
 - Early-successional and late-successional AMF species differ in their ecological strategies
@@ -52,7 +52,7 @@ Tropical rain forest fragmentation affects AMF-mediated restoration:
 
 - Small fragments have reduced AMF diversity and inoculum potential
 - Large fragments serve as AMF reservoirs for surrounding degraded areas
-- Edge effects create gradients in AMF community composition
+- Edge effects create gradients in AMF [[core-endorhiza-bacterial-community-composition-cannabis]]
 - Fragment connectivity influences the recolonization potential of AMF in restored areas
 
 ### Monitoring Requirements
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

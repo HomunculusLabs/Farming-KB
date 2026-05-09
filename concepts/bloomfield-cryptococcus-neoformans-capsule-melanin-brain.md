@@ -1,5 +1,5 @@
 ---
-title: Cryptococcus neoformans Capsule Melanin and Brain Colonization
+title: bloomfield cryptococcus neoformans capsule melanin brain Capsule Melanin and Brain Colonization
 created: 2026-04-28
 tags:
   - mycology
@@ -22,9 +22,9 @@ type: concept
 
 ## Overview
 
-Cryptococcus neoformans is a yeast fungus that causes cryptococcal meningitis, a life-threatening infection of the central nervous system. It is one of the most significant opportunistic fungal pathogens of humans, causing meningitis in approximately 10 percent of AIDS patients. The fungus is globally distributed and encountered frequently in the environment, but causes disease primarily in immunocompromised individuals.
+Cryptococcus neoformans is a yeast fungus that causes cryptococcal meningitis, a life-threatening infection of the central nervous system. It is one of the most significant opportunistic [[bloomfield-fungal-pathogens-and-parasites]] of humans, causing meningitis in approximately 10 percent of AIDS patients. The fungus is globally distributed and encountered frequently in the environment, but causes disease primarily in immunocompromised individuals.
 
-Two key virulence factors distinguish it: a polysaccharide capsule and the ability to synthesize melanin. The broad host range of the fungus argues for a lengthy evolutionary history that predates the emergence of modern humans. Medical mycologists classify Cryptococcus as an opportunist, but it possesses too many adaptations suited for life inside animal tissues to relegate it to the status of a reluctant intruder.
+Two key [[fungal-virulence-factors-host-immune-evasion]] distinguish it: a polysaccharide capsule and the ability to synthesize melanin. The broad host range of the fungus argues for a lengthy evolutionary history that predates the emergence of modern humans. Medical mycologists classify Cryptococcus as an opportunist, but it possesses too many adaptations suited for life inside animal tissues to relegate it to the status of a reluctant intruder.
 
 ## Disease Progression and Diagnosis
 
@@ -32,7 +32,7 @@ When yeast cells or spores of Cryptococcus are inhaled, they are usually removed
 
 In the brain it forms abscesses called cryptococcomas that lead to debilitating headaches, and eventually to blindness, dementia, and death.
 
-Diagnosis is performed by collecting cerebrospinal fluid via lumbar puncture. The clear fluid in the spinal column circulates through the ventricles of the brain, and if drops from an infected patient are spread on a culture plate, colonies of Cryptococcus will appear in a day or two. Swifter diagnosis can be achieved by direct microscopic examination of the cerebrospinal fluid or by immunological tests that detect the polysaccharides produced by the fungus.
+Diagnosis is performed by collecting cerebrospinal fluid via lumbar puncture. The clear fluid in the spinal column circulates through the ventricles of the brain, and if drops from an infected patient are spread on a culture plate, colonies of Cryptococcus will appear in a day or two. Swifter diagnosis can be achieved by direct [[fungal-microscopic-examination-mounting-media-techniques]] of the cerebrospinal fluid or by immunological tests that detect the polysaccharides produced by the fungus.
 
 In patients with advanced AIDS, the cerebrospinal fluid may be packed with so many yeast cells that it appears cloudy rather than clear, a dramatic sign of overwhelming infection. The speed and reliability of laboratory diagnosis have improved markedly since the introduction of antigen detection tests, but in resource-poor settings the disease is often recognized only in its terminal stages.
 
@@ -78,7 +78,7 @@ Much information on melanin's significance comes from comparing normal pigmented
 
 They are fine on agar, but shine ultraviolet light on them and they shrivel, change the temperature and they perish, or attack them with cell wall degrading enzymes and they explode. Research on the melanized fungus Wangiella dermatitidis, another human pathogen, has provided additional insights into the role of pigmentation in fungal survival.
 
-The consistency of results across multiple melanized species reinforces the conclusion that melanin is a critical factor in environmental resilience and pathogenicity. Albino mutants of Cryptococcus are more susceptible to oxidative damage by immune cells and show reduced survival at elevated temperatures, suggesting that melanin contributes to thermotolerance as well as radiation resistance.
+The consistency of results across multiple melanized species reinforces the conclusion that melanin is a critical factor in environmental resilience and pathogenicity. Albino mutants of Cryptococcus are more susceptible to oxidative damage by immune cells and show reduced survival at elevated temperatures, suggesting that melanin contributes to thermotolerance as well as [[bacillus-pumilus-radiation-resistance-surface-decontamination]].
 
 ## The Anamorph-Teleomorph Connection
 
@@ -126,6 +126,9 @@ The relationship between fungal decomposers and potential human infection raises
 
 ## See Also
 
-- [[bloomfield-mushroom-poisons-and-toxidromes]] for broader discussion of fungal poisons
-- [[bloomfield-fungal-secondary-metabolites]] for melanin and other fungal pigments
+- bloomfield-mushroom-poisons-and-toxidromes for broader discussion of fungal poisons
+- [[bloomfield-fungal-secondary-metabolites]] for melanin and other [[query-how-to-extract-and-use-fungal-pigments-for-natural-dyeing]]
 - [[bloomfield-yeast-saccharomyces-fungal-pathogens]] for yeast biology and dimorphism
+- [[cryptococcus-neoformans]]
+- [[decomposition]]
+- [[fungal-melanin]]

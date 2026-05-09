@@ -1,8 +1,8 @@
 ---
-title: Vegetable Varieties for Self-Sufficiency
+title: comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques for Self-Sufficiency
 created: 2026-04-26
 updated: 2026-04-24
-sources: "Steve Solomon, Gardening When It Counts"
+sources: "steve-solomon, Gardening When It Counts"
 wikilinks: "solomon-seed-saving-vegetable-breeding solomon-soil-mineral-depletion solomon-double-digging solomon-raised-beds solomon-fertilizer-selection-application solomon-compost-organic-matter solomon-irrigation-water-scarce solomon-pest-management-without-chemicals winter-gardening-season-extension solomon-root-cellaring-food-preservation solomon-garden-planning-calorie-production"
 type: concept
 tags: [vegetables]
@@ -14,7 +14,7 @@ tags: [vegetables]
 
 [[solomon-seed-saving-vegetable-breeding]] for techniques to maintain your own
 varieties - [[winter-gardening-season-extension]] for cold-hardy
-variety selection
+[[coleman-winter-greens-variety-selection]]
 
 ## See Also
 
@@ -36,7 +36,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -86,7 +86,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -96,4 +96,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -1,10 +1,11 @@
 ---
-title: Critique of Organic Farming and Ecology Movements
+title: Critique of coleman-deep-organic-farming-philosophy and Ecology Movements
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [regenerative, soil]
-sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Critique of Organic Farming and Ecology Movements
@@ -17,12 +18,12 @@ fundamentally self-defeating and incapable of restoring true nature.
 
 ## The Limits of Organic Farming
 
-Fukuoka acknowledged that the clamor over natural diet and the
-development of organic gardening had slowed the advance of scientific
+Fukuoka acknowledged that the clamor over [[fukuoka-natural-diet-as-foundation]] and the
+development of [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] had slowed the advance of scientific
 agriculture. But in his view, organic farming is very different from
-natural farming. In its practice, organic gardening is simply a return
-to animal-based agriculture -- replacing chemical fertilizers with
-animal manure, chemical pesticides with organic pesticides. It is still
+[[comparison-natural-farming-vs-permaculture]]. In its practice, organic gardening is simply a return
+to animal-based agriculture -- replacing [[cervantes-chemical-fertilizers-guide]] with
+[[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]], chemical pesticides with organic pesticides. It is still
 within the paradigm of human intervention and control.
 
 Organic farming appears to serve the cause of natural conservation, but
@@ -81,3 +82,7 @@ essence of the [[fukuoka-critique-organic-certification]]
 - [[fukuoka-do-nothing-farming-philosophy]]
 - [[fukuoka-do-nothing-farming-philosophy-and-practice]]
 - [[fukuoka-natural-vs-scientific-farming]]
+
+## See Also
+
+- [[fukuoka-organic-farming-destructive-compost-depletion-critique]]

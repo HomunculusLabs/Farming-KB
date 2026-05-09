@@ -1,5 +1,5 @@
 ---
-title: Fertilizer Acidification and Trace Element Deficiency in Crop Nutrition
+title: fukuoka textdoc fertilizer acidification trace element deficiency and Trace Element Deficiency in Crop Nutrition
 created: 2026-04-28
 tags:
   - fukuoka
@@ -21,7 +21,7 @@ type: concept
 
 ## The Living Soil Alternative
 
-One gram of ordinary topsoil contains about one hundred million bacteria, yeasts, molds, diatoms, and other microbes. These organisms exist for a purpose, struggling, cooperating, and carrying on the cycles of nature. Into this living system, chemical fertilizers introduce disruption rather than nourishment. The natural farming alternative is to feed the soil biology — through returning organic matter, maintaining living ground covers, and allowing natural biological processes — rather than trying to feed the plants directly with chemical inputs.
+One gram of ordinary topsoil contains about one hundred million bacteria, yeasts, molds, diatoms, and other microbes. These organisms exist for a purpose, struggling, cooperating, and carrying on the cycles of nature. Into this living system, [[cervantes-chemical-fertilizers-guide]] introduce disruption rather than nourishment. The [[comparison-natural-farming-vs-permaculture]] alternative is to feed the soil biology — through returning [[hamilton-composting-and-organic-matter-management]], maintaining living ground covers, and allowing natural biological processes — rather than trying to feed the plants directly with chemical inputs.
 
 Fukuoka demonstrated through decades of practice that by returning all rice and barley straw and hulls to the land, the soil enriches itself year in and year out without the farmer having to lift a finger. The soil lives of its own accord and plows itself.
 
@@ -43,7 +43,7 @@ disease — all of which require additional expensive inputs to address.
 
 ## Compost as Unnecessary Middle Ground
 
-Fukuoka addressed the organic farming alternative of compost preparation.
+Fukuoka addressed the [[coleman-deep-organic-farming-philosophy]] alternative of [[cultivator-compost-preparation-phase-methods]].
 When compost such as straw, grasses, trees, or seaweed is applied directly
 to a field, it takes a while for this to decompose and trigger a fertilizer
 response. This is because microbes help themselves to the available nitrogen

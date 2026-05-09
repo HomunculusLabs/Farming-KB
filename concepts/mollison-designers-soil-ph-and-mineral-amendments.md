@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 # Soil pH and Mineral Amendments
-Soil pH is one of the most critical factors governing nutrient availability,
+Soil pH is one of the most critical factors governing [[ph-and-nutrient-availability-garden-soils]],
 microbial activity, and plant health in any permaculture system. Bill Mollison
 treats pH not as an end in itself but as an indicator of the broader mineral
 and biological balance of soils. The goal is never to force soil to a textbook
@@ -26,22 +26,22 @@ neutral. Most agricultural soils fall between 4.5 and 8.5. Mollison emphasises
 that pH is a logarithmic measure: a change of one unit represents a tenfold
 change in hydrogen ion concentration. This means that small numerical shifts
 in pH represent large changes in soil chemistry.
-In the [[mollison-granitic-landscapes]]). NV approximately 108.
+In the mollison-granitic-landscapes). NV approximately 108.
 - **Quicklime (calcium oxide)**: Very reactive, NV 150-179. Burns organic
   matter and soil life. Rarely recommended in permaculture; used only for
   urgent pH correction where biological methods are insufficient.
-- **Hydrated lime (calcium hydroxide)**: Moderately reactive, NV 120-134.
+- **[[cervantes-hydrated-lime-quicklime-ph-adjustment]] (calcium hydroxide)**: Moderately reactive, NV 120-134.
   Useful for clay soil structural improvement as well as pH correction.
 - **Oyster shell flour**: A slow-release source of calcium with NV around 50.
   Preferred in organic systems due to its gradual action and trace mineral
-  content. Good for [[mollison-humus-and-organic-matter-in-soils]] buffer is central: well-humified organic matter acts as a
+  content. Good for [[mollison-humus-and-organic-matter-in-soils]] buffer is central: well-humified [[hamilton-composting-and-organic-matter-management]] acts as a
 pH buffer, resisting both acidification and alkalinisation. Soils with 5% or
 more organic matter are remarkably stable in pH.
 Key biological strategies include:
 - **Composting**: Well-made compost has a near-neutral pH regardless of input
   materials, and its humic acids buffer soil against pH swings. Regular
   compost application is the single most effective long-term pH management
-  strategy. See [[mollison-green-manure-soil-fertility]].
+  strategy. See mollison-green-manure-soil-fertility.
 - **Legume integration**: Nitrogen-fixing legumes generally prefer slightly
   acidic conditions and their [[mollison-avenue-cropping-with-legumes]] system exploits this relationship.
 - **Wood ash application**: A readily available source of potassium and
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

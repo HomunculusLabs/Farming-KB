@@ -2,8 +2,8 @@
 title: Brassinosteroids
 category: Phytohormones
 tags: [phytohormones, steroids, plant-growth, brassinolide, brassica]
-related: [[mycelial-growth-enhancement-with-phytohormones]]
-source: Gartz et al. (1990) - Growth-Promoting Effect of a Brassinosteroid in Mycelial Cultures of Psilocybe cubensis
+related: mycelial-growth-enhancement-with-phytohormones
+source: Gartz et al. (1990) - Growth-Promoting Effect of a Brassinosteroid in Mycelial Cultures of [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 ---
 # Brassinosteroids
 
@@ -17,14 +17,14 @@ partitioning, contributing to their yield-enhancing effects.
 
 Promising results include increased crop yields in rice, wheat, barley,
 [[comparison-cannabis-clone-rooting-and-transplanting-vs-seed-germination]]. Commercial formulations have been registered
-in several countries, particularly in East Asia for rice cultivation.
+in several countries, particularly in [[neurotropic-fungi-japan-east-asia-species-cultural-context]] for [[jadam-rice-cultivation-methods]].
 
 ## Occurrence and Activity in Fungi
 
 While considered exclusively plant compounds, research has demonstrated
 brassinosteroid biological activity in fungal systems. Studies on
 *Psilocybe cubensis* showed 22S,23S-homobrassinolide dramatically
-increased mycelial growth rate and fruiting body production, suggesting
+increased [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] rate and [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] production, suggesting
 a previously unrecognized biological role in higher fungi.
 
 The mechanisms remain unknown — it is unclear whether fungi possess
@@ -60,7 +60,7 @@ requiring sensitive analytical methods:
 
 - [[mycelial-growth-enhancement-with-phytohormones]] — Phytohormone
   application to fungal cultivation
-- [[psilocybe-cubensis-fruiting-optimization]] — Growth enhancement
+- psilocybe-cubensis-fruiting-optimization — [[mycelial-growth-enhancement-with-phytohormones]]
   outcomes in *P. cubensis*
 ## Practical Considerations
 
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: Cannabinoid-Terpene Entourage Effect
+title: Cannabinoid-Terpene cannabis-terpene-entourage-effect-profiles
 created: 2026-04-28
 tags:
   - cannabis
@@ -26,12 +26,12 @@ to crude cannabis extracts containing equivalent THC concentrations.
 
 The entourage effect posits that cannabinoids, terpenes, and flavonoids
 interact synergistically at receptor sites, through metabolic pathways, and
-via membrane transport mechanisms. Rather than acting independently, these
+via [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] mechanisms. Rather than acting independently, these
 compounds modulate each other's pharmacokinetic and pharmacodynamic profiles,
 creating emergent therapeutic properties absent in isolated preparations.
 
 This stands in contrast to the single-molecule pharmaceutical paradigm that
-has dominated Western medicine since the isolation of morphine from opium
+has dominated [[fukuoka-eastern-western-medicine-healing-world-crisis]] since the isolation of morphine from opium
 [[2c-t-7-compound-profile]] alone. THCV (tetrahydrocannabivarin) acts as a
 CB1 antagonist at low doses, potentially counteracting THC intoxication while
 augmenting its analgesic effects through CB2 modulation.
@@ -59,6 +59,7 @@ sensory profile.
 - [[terpene-profile-chemotaxonomy]]
 - [[cannabis-endocannabinoid-system]]
 - full spectrum vs isolate extracts
+
 ## Practical Considerations
 
 Successful implementation of Cannabinoid-Terpene Entourage Effect requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

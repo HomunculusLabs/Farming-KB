@@ -1,5 +1,5 @@
 ---
-title: "Fungal Succession During Resource Decomposition"
+title: "dighton-fungal-succession-disturbance During Resource Decomposition"
 created: 2026-04-26
 tags:
   - mycology
@@ -18,7 +18,7 @@ type: concept
 
 The decomposition of organic resources by fungi is not a static process
 but a dynamic succession of species adapted to different stages of
-resource quality. Different fungi have different enzymatic capabilities,
+[[fungal-decomposition-resource-quality-determinants]]. Different fungi have different enzymatic capabilities,
 and their appearance on a resource is governed by resource quality, rate
 of propagule arrival, and competitive interactions among fungal species.
 
@@ -31,8 +31,8 @@ and Lophodermella, species probably present on and in the leaf at
 abscission. These fungi cause browning and decomposition of relatively
 available resources. The second stage involves greater invasion by
 decomposing microfungi such as Verticicladium. The third stage brings
-basidiomycete fungi including Marasmius and Collybia. The fourth stage
-features entry of soil arthropods and invasion by mycorrhizal fungi.
+[[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] including Marasmius and Collybia. The fourth stage
+features entry of soil arthropods and invasion by [[arbuscular-mycorrhizal-fungi-biology-symbiosis]].
 
 The close association between mycorrhizal fungi and decomposing organic
 matter has also been shown for arbuscular mycorrhizae. Ponge's fine-
@@ -42,7 +42,7 @@ species are present and act as saprotrophs on freshly fallen leaf litter.
 
 ## Fern Litter Succession
 
-Frankland (1992, 1998) described fungal successions on bracken fern
+Frankland (1992, 1998) described fungal successions on [[dynamic-accumulator-bracken-fern-potash]]
 (Pteridium aquilinum) litter. Changes progressed from lesion-forming
 Rhizographus and Aureobasidium on standing dead litter, through
 colonization by basidiomycetes related to cellulose and lignin loss.
@@ -86,7 +86,7 @@ units.
 ## Wood Decomposition Succession
 
 In forested systems, standing deadwood in canopies hosts different
-fungal communities than wood on the forest floor. Boddy and Rayner
+[[biodiversity-of-fungi-soil-fungal-communities-agriculture]] than wood on the forest floor. Boddy and Rayner
 (1983) found 12 basidiomycete species dominated oak wood in canopies.
 Phellinus ferreus, Stereum gausapatum, and Vuilleminia comedens were
 pioneer species of partially living branches. Phlebia adiata and
@@ -113,6 +113,9 @@ composition throughout the decomposition process.
 
 ## See Also
 
-- [[fungal-succession-seral-vegetation]]
+- fungal-succession-seral-vegetation
 - [[fungal-leaf-litter-succession]]
-- [[fungal-community-ecology]]
+- fungal-community-ecology
+- [[dighton-pine-needle-litter-decomposition-fungal-succession]]
+- [[fungal-decomposition-succession-resource-quality]]
+- [[phellinus-ferreus]]

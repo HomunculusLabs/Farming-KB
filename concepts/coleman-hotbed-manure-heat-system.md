@@ -1,5 +1,5 @@
 ---
-title: "French Hotbed Manure-Heat System: Decomposing Horse Manure for Winter Growing"
+title: "French Hotbed Manure-Heat System: Decomposing falconer-horse-manure-varieties for Winter Growing"
 source: eliot-coleman-winter-harvest-handbook
 topics: season-extension, hotbeds, manure, compost-heat, french-agriculture, protected-cultivation
 ---
@@ -8,7 +8,7 @@ topics: season-extension, hotbeds, manure, compost-heat, french-agriculture, pro
 
 ## The Foundation of Winter Vegetable Production
 
-The French maraicher system of the nineteenth century was powered by
+The [[coleman-french-maraicher-manure-system-and-compost-quality]] system of the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] was powered by
 an extraordinary input of horse manure — at least 100 and sometimes
 up to **400 tons per acre** per year, depending on how many hotbeds
 were in use. This manure served a dual purpose: generating heat for
@@ -49,7 +49,7 @@ crumbly, dark compost, it was shoveled out and used as a soil
 amendment. This created a beautiful closed cycle: fresh manure
 provided heat, spent manure provided fertility. Nothing was wasted.
 
-[[cover-crops]], and other organic amendments — must be
+[[cover-crops]], and other [[cervantes-organic-amendments-chart]] — must be
 developed with this vulnerability in mind.
 
 ## Modern Adaptations
@@ -67,13 +67,13 @@ in most locations, its principles can be adapted:
    at all and can be used with any cold frame system.
 
 3. **Soil thermal mass**: The principle of using the earth's
-   residual heat, enhanced by organic matter, remains the
+   residual heat, enhanced by [[hamilton-composting-and-organic-matter-management]], remains the
    foundation of unheated winter growing systems.
 
 4. **Closed-loop fertility**: The concept of a system where
    waste products are converted into both heat and fertility
    remains an ideal that modern growers can approximate through
-   on-farm composting and cover cropping.
+   on-farm composting and [[fukuoka-clover-cover-cropping-soil-ecology]].
 
 ### See Also
 

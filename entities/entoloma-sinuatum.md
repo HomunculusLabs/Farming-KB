@@ -48,7 +48,7 @@ inrolled and often remains slightly wavy even at full expansion.
 
 Gills are adnate to sinuate (notched), moderately crowded, initially whitish
 but becoming pink to salmon-pink at maturity — the defining characteristic of
-the genus Entoloma, caused by pink basidiospores. This pink spore print is a
+the genus Entoloma, caused by pink basidiospores. This pink [[comparison-spore-print-collection-vs-spore-syringe-production]] is a
 critical diagnostic feature separating Entoloma from similar-looking edible
 Tricholoma and Cortinarius species.
 
@@ -61,7 +61,7 @@ are 8–11 × 7–9 μm, angular to polygonal in profile, pink in deposit.
 
 Entoloma sinuatum is widespread across temperate Europe, with significant
 populations in Scandinavia, the British Isles, France, Germany, Poland, and
-the Baltic states. It has also been reported from North America, though the
+the Baltic states. It has also been reported from [[psilocybin-north-america-pacific-northwest]], though the
 taxonomy of New World material is debated — some authors segregate American
 collections as E. abbreviatum or E. cremeum complex.
 
@@ -115,22 +115,22 @@ identification.
 ## Ecological Role
 
 As an ectomycorrhizal species, E. sinuatum contributes to forest nutrient
-cycling by facilitating mineral nutrient uptake for host trees in exchange
+cycling by facilitating mineral [[plant-nutrient-uptake-mechanisms]] for host trees in exchange
 for photosynthetic carbon. The species appears to be sensitive to
-atmospheric nitrogen deposition and may serve as an indicator of forest
+atmospheric [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] and may serve as an indicator of forest
 ecosystem health — declining populations have been correlated with
 eutrophication of forest soils across Central Europe.
 
 The species is not known to be consumed by vertebrate wildlife, suggesting
 its toxicity may serve an anti-herbivory function. Invertebrate mycophagists,
 particularly springtails (Collembola), are commonly found on decaying
-basidiocarps and may play a role in spore dispersal.
+basidiocarps and may play a role in [[aquatic-fungi-spore-dispersal-ingold]].
 
 ## See Also
 
 - [[amanita-phalloides]]
 - [[archaeology-of-psychedelic-mushroom-use]]
-- [[chlorophyllum-molybdites]]
+- chlorophyllum-molybdites
 - [[tricholoma-terreum]]
 - [[cicuta-maculata]]
 - [[aconitum-napellus]]

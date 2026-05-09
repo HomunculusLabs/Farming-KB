@@ -1,5 +1,5 @@
 ---
-title: Vegetable Bed Preparation Techniques
+title: Vegetable azurescens-outdoor-bed-preparation-woodchips Techniques
 created: 2026-04-28
 tags:
   - organic-gardening
@@ -18,18 +18,18 @@ type: concept
 
 The best way to ensure good-quality vegetables is to grow them in the
 best soil possible. While soil types vary widely, even poor soil can be
-substantially improved by working in plenty of mollison designers humus and
+substantially improved by working in plenty of mollison [[mollison-designers-humus-building-and-soil-organic-matter]] and
 following sound cultivation practices. Proper bed preparation is the
 foundation upon which successful [[hamilton-green-manure-crops-and-cover-cropping]] [[hamilton-deep-bed-system]]
 offers dramatic yield improvements and efficient use of space by
 creating deep, loose, organically enriched soil. Whichever method you
 choose, the principles remain the same: dig deeply, incorporate
-generous organic matter, maintain fertility through the season, and
+generous [[hamilton-composting-and-organic-matter-management]], maintain fertility through the season, and
 never compact the soil by walking on prepared beds.
 
 ## See Also
 
-- [[organic-vegetable-growing-and-market-gardening]]
+- [[organic-vegetable-growing-calendar]]
 ## Practical Applications
 
 Vegetable Bed Preparation Techniques has a range of practical applications that make it relevant to
@@ -107,4 +107,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

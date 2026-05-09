@@ -10,7 +10,7 @@ sources:
 
 # Cannabis and Periodontitis Research
 
-**Source:** Uwe Blesching, The Cannabis Health Index (2017)
+**Source:** Uwe Blesching, The [[blesching-cannabis-health-index-autoimmune-conditions]] (2017)
 
 ## Condition Overview
 
@@ -43,7 +43,7 @@ Periodontitis is inflammation of tissues supporting the teeth, caused by oral mi
 
 - CBD has greater affinity for CB2
 
-- Indica and indica-dominant strains tend to have lower THC:CBD ratio, resulting in relatively higher CB2 activation
+- Indica and indica-dominant strains tend to have lower THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]], resulting in relatively higher CB2 activation
 
 ## Pharmacological Mechanisms
 
@@ -73,7 +73,7 @@ The clinical evidence for cannabis in periodontitis is very limited but mechanis
 
 - **Stress-bone connection:** The CHI notes that chronic psychological stress (financial difficulties, grief, caregiving) is a significant risk factor for periodontitis. CBD's anxiolytic properties may address this root cause by reducing the stress-induced inflammatory cascade that exacerbates periodontal disease.
 
-- **Limitations:** Only one animal study exists. Human clinical trials are needed to confirm efficacy, optimal dosing, and delivery method for periodontal applications.
+- **Limitations:** Only one animal study exists. Human [[mushroom-cancer-clinical-trials-overview]] are needed to confirm efficacy, optimal dosing, and delivery method for periodontal applications.
 
 ## Dosing Considerations
 
@@ -83,7 +83,7 @@ The clinical evidence for cannabis in periodontitis is very limited but mechanis
 
 - **Adjunctive to dental care:** Cannabis therapy should complement -- never replace -- conventional periodontal treatment including professional scaling, root planing, and improved oral hygiene.
 
-- **Strain selection:** CBD-rich indica strains are most consistent with the evidence base. Whole-plant extracts containing myrcene (anti-inflammatory terpene) and beta-caryophyllene (CB2 agonist terpene) may provide enhanced bone-protective effects.
+- **[[blesching-cannabis-strain-selection-receptor-targeting]]:** CBD-rich indica strains are most consistent with the evidence base. Whole-plant extracts containing myrcene (anti-inflammatory terpene) and beta-caryophyllene (CB2 agonist terpene) may provide enhanced bone-protective effects.
 
 - **THC consideration:** THC may provide additional anti-inflammatory benefits through CB1 receptor activation in periodontal tissues, but the primary evidence supports CBD. A low-THC, high-CBD ratio (1:5 to 1:10) is recommended.
 
@@ -113,4 +113,4 @@ Anti-inflammatory tooth powder: equal parts xylitol + sodium bicarbonate, with c
 
 - [[cannabis-endocannabinoid-system]]
 - [[cannabis-anxiety-and-ptsd-treatment]]
-- [[cannabis-beta-caryophyllene-dietary-cannabinoid]]
+- [[beta-caryophyllene-dietary-cannabinoid]]

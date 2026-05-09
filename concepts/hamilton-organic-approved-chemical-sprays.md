@@ -1,5 +1,5 @@
 ---
-title: "Organic Approved Chemical Sprays"
+title: "hamilton organic approved chemical sprays Chemical Sprays"
 created: 2026-04-28
 tags: [organic-sprays, pesticides, fungicides, pest-control, disease-control]
 date: 2026-04-25
@@ -30,7 +30,7 @@ there is a short interval before harvest.
 ### Soft Soap
 
 A traditional remedy for all kinds of aphids and red spider mite. Soft
-soap can also be mixed with other sprays as a wetting agent, ensuring
+soap can also be mixed with other sprays as a [[jadam-nutrient-management-wetting-agent-and-calcium]], ensuring
 better spread and improved "stickability" of the insecticide on plant
 surfaces. Like insecticidal soap, it only kills insects it touches and
 breaks down within a day.
@@ -40,12 +40,12 @@ breaks down within a day.
 Derived from the pyrethrum daisy (Chrysanthemum coccineum), pyrethrum is
 effective against most insects, especially aphids. It is a non-persistent
 pesticide that acts quickly, so it is possible to spray only the pests
-while minimising harm to beneficial insects if applied carefully. Spray
+while minimising harm to [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] if applied carefully. Spray
 only on calm evenings when beneficial insects have settled for the night.
 
 ### Ferric Phosphate Slug Pellets
 
-These organic slug pellets are effective against both slugs and snails but
+These organic slug pellets are effective against both [[query-how-to-get-rid-of-slugs-and-snails-organically]] but
 are totally harmless to other wildlife, pets, and children. Once eaten,
 the slugs or snails stop feeding, return to the soil, and die. They can
 be used safely around both ornamental and edible plants.
@@ -82,14 +82,14 @@ It can be used on both ornamental and edible crops.
 ### Potassium Bicarbonate
 
 This fungicide acts as a cure rather than a preventative. Applied weekly,
-it can be effective against powdery mildew, black spot, and downy mildew
+it can be effective against [[cervantes-powdery-mildew-prevention-treatment]], black spot, and downy mildew
 on a range of plants including roses, zucchinis, cucumbers, and fruit.
 
 ### Skim Milk Spray
 
 A simple but effective spray for preventing black spot on roses. A 50:50
 mixture of skim milk and water covers the leaves. As the milk spoils, the
-lactic acid produced lowers the pH on the leaf surface, creating an
+lactic acid produced lowers the pH on the [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]], creating an
 environment unsuitable for black spot to thrive. Apply every week or two
 depending on the season. This treatment is surprisingly effective and
 completely harmless to beneficial insects and soil organisms.

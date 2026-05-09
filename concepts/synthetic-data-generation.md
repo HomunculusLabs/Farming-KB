@@ -35,8 +35,8 @@ complete answers to carefully designed prompts. This includes instruction-follow
 data, conversational turns, and factual QA pairs.
 
 **Reasoning traces** go further by capturing intermediate steps. A model solves
-a math problem step by step, and the full trace becomes a training example.
-This is the foundation of techniques like synthetic log cultivation, where
+a math problem [[fukuoka-rice-barley-step-by-step-method]], and the full trace becomes a training example.
+This is the foundation of techniques like synthetic [[comparison-mushroom-log-cultivation-vs-monotub-cultivation]], where
 entire reasoning logs are harvested and reused.
 
 **Preference data** is synthesized by generating multiple responses to the same
@@ -87,7 +87,7 @@ recognizable "synthetic style" that diverges from natural human communication.
 - [[staycare-fungal-degradation-of-synthetic-dyes]]
 
 - [[synthetic-log-cultivation]]
-- self improvement loops
+- [[fukuoka-soil-self-improvement-without-tillage]] loops
 - distillation
 - reinforcement learning from human feedback
 - data augmentation

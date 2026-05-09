@@ -1,5 +1,5 @@
 ---
-title: "Honey Locust Pod Fodder System"
+title: "permaculture honey locust pod fodder system Pod Fodder System"
 created: 2026-04-28
 tags:
   - permaculture
@@ -17,7 +17,7 @@ type: concept
 # Honey Locust Pod Fodder System
 
 The honey locust (Gleditsia triacanthos) is a moderately fast-growing,
-long-lived leguminous tree native to North America. It serves as a
+long-lived leguminous tree native to [[psilocybin-north-america-pacific-northwest]]. It serves as a
 dual-purpose permaculture element, providing both high-quality livestock
 fodder from its pods and valuable timber, making it an excellent
 addition to [[permaculture-food-forests-design-course]]
@@ -48,11 +48,11 @@ In a silvopastoral system, honey locust combines several functions:
    be declining
 2. **Summer shade**: Deciduous canopy provides cooling shade without
    blocking winter sun
-3. **Nitrogen fixation**: As a legume, it improves soil fertility for
+3. **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]**: As a legume, it improves soil fertility for
    pasture grasses beneath
 4. **Wildlife habitat**: Provides nesting and food for beneficial
    birds and insects
-5. **Wind protection**: Tall canopy offers shelter from wind for
+5. **[[cervantes-wind-protection-outdoor-cannabis]]**: Tall canopy offers shelter from wind for
    livestock
 
 ## Permaculture Design Applications
@@ -60,9 +60,9 @@ In a silvopastoral system, honey locust combines several functions:
 Honey locust fits naturally as an upper canopy element in
 [[permaculture-plants-ground-covers-living-mulches]],
 and pasture grasses, it creates a multi-strata fodder production
-system. Its salt tolerance also makes it suitable for [[permaculture-food-forests-design-course]]
+system. Its [[fungal-salt-tolerance-and-ion-homeostasis]] also makes it suitable for [[permaculture-food-forests-design-course]]
 - [[salt-tolerant-fodder-plants]]
-- [[carob]]
+- carob
 ## Practical Considerations
 
 Successful implementation of Honey Locust Pod Fodder System requires attention to
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

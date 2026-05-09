@@ -11,7 +11,7 @@ sources:
 
 # KNF Fish Amino Acid (FAA)
 
-Fish Amino Acid is a liquid fertilizer made from fish waste and brown sugar through osmotic pressure fermentation. It is rich in nitrogen and various amino acids, providing great value to both plants and microorganisms.
+Fish Amino Acid is a [[jadam-liquid-fertilizer-nutritional-perspective]] made from fish waste and brown sugar through osmotic pressure fermentation. It is rich in nitrogen and various amino acids, providing great value to both plants and microorganisms.
 
 ## Best Fish to Use
 
@@ -50,14 +50,14 @@ Use fresh waste only. Do NOT use salted fishes. Fish heads, bones, and intestine
 ## Dilution and Use
 
 - Basic dilution ratio: 1:1,000
-- Rich in nitrogen -- excellent for vegetative growth period
-- Good for both soil and foliar application
+- Rich in nitrogen -- excellent for [[cannabis-vegetative-growth-stage]] period
+- Good for both soil and [[ultra-low-cost-foliar-application-methods]]
 - For leafy vegetables: can use continuously to increase yield, taste, and fragrance
-- Can be added when making IMO or mixed compost to activate microorganisms
+- Can be added when making IMO or [[cho-fermented-mixed-compost-methods]] to activate microorganisms
 
 ## When NOT to Use
 
-- NOT recommended during reproductive growth period -- may induce overgrowth
+- NOT recommended during [[knf-reproductive-growth-stage]] period -- may induce overgrowth
 - Some FAA types have distinctive odors
 - Fish oil from fermentation can be used as insect repellent (army worm moths become helpless with slightest contact)
 
@@ -68,7 +68,7 @@ Use fresh waste only. Do NOT use salted fishes. Fish heads, bones, and intestine
 
 ## Recycling Bones
 
-Put leftover bones from FAA production into brown rice vinegar (BRV) at 10:1 ratio (BRV to bones). Bones will decompose and produce good quality [[knf-water-soluble-phosphoric-acid|water-soluble calcium phosphate]].
+Put leftover bones from FAA production into brown [[brown-rice-vinegar-brv]] (BRV) at 10:1 ratio (BRV to bones). Bones will decompose and produce good quality [[knf-water-soluble-phosphoric-acid|water-soluble calcium phosphate]].
 
 ## Storage
 

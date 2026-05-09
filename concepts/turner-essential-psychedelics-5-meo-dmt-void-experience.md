@@ -1,5 +1,5 @@
 ---
-title: 5-MeO-DMT Void Experience - Turner's Essential Psychedelics Guide
+title: 5-MeO-DMT Void Experience - Turner's turner essential psychedelics 5 meo dmt void experience Guide
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -27,7 +27,7 @@ alteration of consciousness, especially in the visual field.
 
 ## The Mind-Expanding Void
 
-The core 5-MeO-DMT experience is one of explosive consciousness expansion:
+The core 5-MeO-DMT experience is one of explosive [[mckenna-consciousness-expansion-and-drug-war]]:
 
 "On 5-MeO I can literally feel my mind exploding and expanding outward to
 encompass first the area near me, then the planet, and eventually the cosmos.
@@ -78,7 +78,7 @@ yogic exercise, or drumming.
 On 5-MeO-DMT the user returns to normal consciousness within about 20 minutes,
 compared to 30 minutes for N,N-DMT. The peak itself lasts only 2-3 minutes,
 though this can be extended to 10-20 minutes (total experience 40 minutes to
-two hours) when combined with Harmala alkaloids.
+two hours) when combined with [[turner-harmala-alkaloids-preparation-and-dosage]].
 
 ## Combination with Harmala Alkaloids
 

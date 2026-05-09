@@ -26,7 +26,7 @@ created: 2026-05-07
 
 Desmodium uncinatum, commonly known as silverleaf desmodium or Spanish clover, is
 a perennial tropical legume in the family Fabaceae. Native to Central and South
-America, it has been widely introduced across tropical Africa, Southeast Asia,
+America, it has been widely introduced across tropical Africa, [[psilocybe-southeast-asia-pacific]],
 and the Pacific as a forage, cover crop, and component of push-pull pest
 management systems.
 
@@ -47,7 +47,7 @@ in length. Stems are cylindrical, finely pubescent, and root at nodes upon
 contact with moist soil, forming dense mats.
 
 Leaves are trifoliolate with ovate to rhomboid leaflets 3–8 cm long. The upper
-leaf surface is green with a characteristic silvery-grey pubescence on the
+[[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is green with a characteristic silvery-grey pubescence on the
 underside, giving rise to the common name "silverleaf." Stipules are lanceolate
 and persistent.
 
@@ -58,14 +58,14 @@ approximately 2.5 mm long.
 
 ## Distribution and Habitat
 
-The native range extends from southern Mexico through Central America to
+The native range extends from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to
 northern Argentina and Brazil. It has been naturalized and widely cultivated
 throughout tropical and subtropical regions between 20°N and 25°S latitude.
 
 D. uncinatum grows at elevations from sea level to 2000 m in areas with annual
 rainfall of 900–2500 mm. It tolerates moderate drought once established but
 performs poorly in waterlogged soils. It prefers well-drained, fertile loams
-with pH 4.5–7.0 and moderate to high phosphorus availability.
+with pH 4.5–7.0 and moderate to high [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]].
 
 The species occurs naturally in forest margins, disturbed sites, and open
 grasslands. It establishes readily in pastures and along roadsides, and can
@@ -85,7 +85,7 @@ technology developed at ICIPE in Kenya for cereal pest management.
 
 The dense ground cover suppresses weed establishment and reduces soil erosion
 on sloping terrain. Its trailing growth habit provides effective mulch when
-used as a cover crop, contributing organic matter and recycling nutrients from
+used as a cover crop, contributing [[hamilton-composting-and-organic-matter-management]] and recycling nutrients from
 deeper soil layers.
 
 Flowers attract pollinators including bees and butterflies. The hooked pods
@@ -119,14 +119,18 @@ growth is slow, with full ground cover achieved 3–5 months after sowing. The
 stand persists 3–7 years under regular cutting or grazing management.
 
 Maintenance fertilizer requirements are modest, typically 20–40 kg P/ha/year.
-Overgrazing reduces persistence; rotational grazing with 4–6 week recovery
+Overgrazing reduces persistence; [[comparison-rotational-grazing-vs-continuous-grazing]] with 4–6 week recovery
 periods is recommended. Major pests include leaf-eating beetles and
 root-knot nematodes in sandy soils.
 
 ## See Also
 
+- [[desmodium-incanum]]
+- [[desmodium-gyrans]]
+- [[desmodium-canadense]]
+
 - [[mucuna-pruriens]]
 - [[cajanus-cajan]]
 - [[agroforestry]]
 - [[chop-and-drop]]
-- [[comfrey]]
+- comfrey

@@ -1,6 +1,6 @@
 ---
 
-title: Natural Farming vs Organic vs Conventional
+title: Natural comparison-biodynamic-farming-vs-organic-farming vs Conventional
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -19,7 +19,8 @@ tags:
 - ph
 
 sources:
-- raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 - raw/articles/nicole-faires-the-ultimate-guide-to-natural-farming-and.md
 - raw/papers/chos-global-natural-farming.md
 ---
@@ -30,16 +31,16 @@ Understanding the philosophical and practical differences between three major ap
 
 ## Comparison Table
 
-| Dimension | Natural Farming (Fukuoka/KNF) | Organic Farming | Conventional Farming |
+| Dimension | Natural Farming (Fukuoka/KNF) | [[coleman-deep-organic-farming-philosophy]] | Conventional Farming |
 |-----------|-------------------------------|-----------------|---------------------|
 | **Philosophy** | Observe and follow nature; eliminate unnecessary interventions; Mu (emptiness) | Substitute natural inputs for synthetic ones; still interventionist | Maximize yield through technology and chemical control |
 | **Core Question** | "Do I need to do this at all?" | "What natural thing can I use instead?" | "What product solves this problem?" |
 | **Tillage** | No tillage ever; roots and soil life aerate soil | Reduced or minimum tillage; some organic farms still plow | Intensive tillage; moldboard plowing standard |
 | **Fertilizer** | None or minimal: straw mulch, clover, green manure, animal manure; soil feeds itself | Allowed organic inputs: compost, bone meal, rock minerals, cover crops | Synthetic NPK, lime, micronutrient blends |
-| **Pest Management** | Ecosystem balance: diversity, ducks, beneficial insects; no sprays | Organic-approved sprays (neem, Bt, pyrethrin); some IPM | Broad-spectrum synthetic pesticides; prophylactic spraying |
+| **Pest Management** | Ecosystem balance: diversity, ducks, [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]; no sprays | Organic-approved sprays (neem, Bt, pyrethrin); some IPM | Broad-spectrum synthetic pesticides; prophylactic spraying |
 | **Weed Management** | Living mulch (clover), straw mulch; weeds as soil builders; selective tolerance | Mechanical cultivation, flame weeding, approved herbicides; weed-free ideal | Synthetic herbicides (glyphosate, 2,4-D); clean cultivation |
 | **Seed** | Open-pollinated; saved on-farm; [[seed-saving-techniques]] | Often organic-certified seed; some hybrids allowed | Hybrid and GMO seed; purchased annually |
-| **Soil Biology** | Central focus; feeds the soil food web; mycorrhizal networks preserved | Important but secondary; compost additions stimulate biology | Ignored or actively destroyed by chemicals and tillage |
+| **Soil Biology** | Central focus; feeds the soil food web; [[dighton-mycorrhizal-networks-carbon-transfer]] preserved | Important but secondary; compost additions stimulate biology | Ignored or actively destroyed by chemicals and tillage |
 | **Yield** | Equal to or better than conventional at scale; quarter-acre proven | Slightly lower than conventional (10-20% reduction typical) | Highest short-term yield; declining over time with soil degradation |
 | **Cost** | Near zero: no purchased inputs; labor is primary cost | Moderate: organic inputs cost more; certification fees | High: seed, chemicals, equipment, fuel, irrigation |
 | **Labor** | Low total but requires skill and observation; front-loaded learning | Moderate to high; organic pest/weed management is labor-intensive | Low human labor; high machine labor; specialized skills for equipment |
@@ -52,7 +53,7 @@ Understanding the philosophical and practical differences between three major ap
 
 ### Natural vs Organic (Fukuoka's View)
 
-Fukuoka was explicit: "Even organic farming, which everyone is making such a big fuss over lately, is just another type of scientific farming." Organic farming moves in the right direction but still follows an interventionist paradigm -- substituting approved inputs for prohibited ones. Natural farming asks whether *any* input is needed. The spectrum runs from scientific farming (centrifugal expansion toward complexity) through organic farming to natural farming (centripetal convergence toward nothingness/Mu).
+Fukuoka was explicit: "Even organic farming, which everyone is making such a big fuss over lately, is just another type of [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]." Organic farming moves in the right direction but still follows an interventionist paradigm -- substituting approved inputs for prohibited ones. Natural farming asks whether *any* input is needed. The spectrum runs from scientific farming (centrifugal expansion toward complexity) through organic farming to natural farming (centripetal convergence toward nothingness/Mu).
 
 ### KNF as a Bridge
 
@@ -60,7 +61,7 @@ Korean Natural Farming (Cho Han-Kyu) occupies a unique position: it creates spec
 
 ### Conventional's Hidden Costs
 
-Fukuoka calculated that scientific agriculture requires an energy expenditure per unit of food produced up to 50 times that of natural farming. When you factor in soil erosion (estimated at 5.6 tons/acre/year on US cropland), water pollution, health costs, and fossil fuel dependency, conventional farming's "efficiency" is an illusion maintained by externalizing costs.
+Fukuoka calculated that [[fukuoka-critique-scientific-agriculture-civilization]] requires an energy expenditure per unit of food produced up to 50 times that of natural farming. When you factor in soil erosion (estimated at 5.6 tons/acre/year on US cropland), water pollution, health costs, and fossil fuel dependency, conventional farming's "efficiency" is an illusion maintained by externalizing costs.
 
 ## Which Approach for Your Homestead?
 

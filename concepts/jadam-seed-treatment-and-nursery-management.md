@@ -1,5 +1,5 @@
 ---
-title: "JADAM Seed Treatment and Nursery Management"
+title: "JADAM jadam seed treatment and nursery management and Nursery Management"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
@@ -66,7 +66,7 @@ Apply mixed with water or undiluted before rain for open fields. For greenhouses
 
 **Recipe for 500 L (132 gal):**
 - JADAM sulfur (JS) -- 1.5 L (0.4 gal)
-- JADAM wetting agent (JWA) -- 3 L (0.8 gal)
+- JADAM [[jadam-nutrient-management-wetting-agent-and-calcium]] (JWA) -- 3 L (0.8 gal)
 - Add water to make 500 L
 - Spray on affected seedlings
 
@@ -76,15 +76,15 @@ Apply mixed with water or undiluted before rain for open fields. For greenhouses
 
 2. **Microbial diversity from day one:** Seeds and seedlings treated with JMS carry diverse microorganisms that protect against pathogens.
 
-3. **Soil application before planting:** Apply JMS + seawater + phyllite solution + JLF generously and often before sprouting or transplanting. This is the most important technique in JADAM organic farming.
+3. **Soil application before planting:** Apply JMS + seawater + phyllite solution + JLF generously and often before sprouting or transplanting. This is the most important technique in JADAM [[coleman-deep-organic-farming-philosophy]].
 
-4. **Foliar as secondary:** For greenhouse nursery plants, if using foliar application, reduce JMS + JLF inputs to below 30 L per 500 L total solution and add over 1.5 L of JWA to prevent marks on leaves.
+4. **Foliar as secondary:** For greenhouse nursery plants, if using [[ultra-low-cost-foliar-application-methods]], reduce JMS + JLF inputs to below 30 L per 500 L total solution and add over 1.5 L of JWA to prevent marks on leaves.
 
-5. **Temperature-matched microbes:** Culture JMS at ambient temperature matching the nursery environment. Microbes adapted to the same conditions as the seedlings are most beneficial.
+5. **Temperature-matched microbes:** Culture JMS at [[jadam-ambient-temperature-principle]] matching the nursery environment. Microbes adapted to the same conditions as the seedlings are most beneficial.
 
 ## References
 
-- Source: "JADAM Organic Farming" by Youngsang Cho, Chapters on Soil Foundation and Natural Pesticides
+- Source: "JADAM Organic Farming" by Youngsang Cho, Chapters on Soil Foundation and [[jadam-pest-control-with-natural-pesticides-jhs]]
 
 ## See Also
 

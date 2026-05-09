@@ -22,7 +22,7 @@ The method by which cannabis is prepared and consumed fundamentally determines
 how its active compounds are absorbed, distributed, metabolized, and
 eliminated by the body. Different preparations offer varying ratios of
 bioavailability, meaning the proportion of administered cannabinoid that
-reaches systemic circulation differs dramatically between delivery methods.
+reaches systemic circulation differs dramatically between [[cannabis-delivery-methods-comparison]].
 This has direct implications for dosing, onset of effects, duration of action,
 and overall therapeutic efficacy.
 
@@ -63,7 +63,7 @@ absorption, making them ideal for targeted relief.
 
 Smoking cannabis remains the most common method of consumption, though it
 introduces combustion byproducts including tar, carbon monoxide, and
-polycyclic aromatic hydrocarbons. Vaporization offers a harm-reduction
+[[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons. Vaporization offers a harm-reduction
 alternative by heating cannabis to a temperature that releases cannabinoids
 and terpenes as vapor without reaching the point of combustion. Vaporization
 typically occurs between 280 and 400 degrees Fahrenheit (138-204 degrees
@@ -101,7 +101,7 @@ recommendation for patients using edibles to start with very low doses and
 wait at least two hours before considering additional consumption.
 
 Sublingual tinctures provide an alternative oral delivery method that
-partially bypasses first-pass metabolism. When cannabis tinctures are held
+partially bypasses first-pass metabolism. When [[query-how-to-make-cannabis-tinctures-at-home]] are held
 under the tongue for 60-90 seconds before swallowing, a portion of the
 cannabinoids is absorbed directly through the mucous membranes into the
 bloodstream. This provides faster onset (15-45 minutes) than swallowed
@@ -111,7 +111,7 @@ edibles while maintaining a longer duration than inhaled preparations.
 
 Topical cannabis preparations include salves, balms, creams, oils, and
 patches applied directly to the skin. These preparations are particularly
-valuable for localized pain, inflammation, and skin conditions because
+valuable for localized pain, inflammation, and [[cannabis-for-skin-conditions-detailed]] because
 cannabinoids absorbed through the skin act primarily on local cannabinoid
 receptors without producing systemic psychoactive effects. This makes
 topicals an excellent option for patients who need targeted relief but

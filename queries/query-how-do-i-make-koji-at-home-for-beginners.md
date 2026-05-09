@@ -1,5 +1,5 @@
 ---
-title: "How Do I Make Koji at Home for Beginners?"
+title: "How Do I Make query how do i make koji at home for beginners for Beginners?"
 created: 2026-04-28
 tags: [fermentation, koji, beginner-guide, diy, japanese-cuisine, cultured-foods]
 date: 2026-04-28
@@ -19,7 +19,7 @@ gathering supplies to celebrating your first batch. You've got this!
 
 ## 1. What Is Koji and Why Should I Make It at Home?
 **Koji** is cooked grain (usually rice or barley) inoculated with *Aspergillus oryzae*,
-a beneficial mold that produces powerful enzymes. These enzymes break down starches into
+a beneficial mold that produces powerful enzymes. These enzymes [[query-can-fungi-break-down-plastic-pollution]] starches into
 sugars and proteins into amino acids — the foundation of umami in Japanese cuisine.
 Making koji at home gives you deeper flavor in miso, soy sauce, and amazake; cost savings
 versus buying pre-made; creative control over strain and grain; and a connection to over
@@ -46,7 +46,7 @@ condensation inside the packet.
 ## 4. What's the Best Grain to Start With?
 **Short-grain white rice (Japonica)** — sushi rice or Calrose — is the best first grain:
 predictable, easy to find, and forgiving. Avoid jasmine, basmatin, or long-grain varieties
-(they don't hold moisture well). Once comfortable, try pearl barley or brown rice for
+(they don't hold moisture well). Once comfortable, try pearl barley or [[cho-brown-rice-vinegar-preparation]] for
 different enzyme profiles. Start with 300–500 g of dry rice for your first batch.
 
 ## 5. How Do I Prepare and Steam the Rice?

@@ -8,13 +8,13 @@ William Falconer's 1891 manual *Mushrooms: How to [[mushroom-market-and-economic
 
 Falconer corresponded extensively with Mr. John F. Barter of Lancefield Street, London, one of the most successful mushroom growers and spawn makers in Great Britain. Barter confined himself entirely to the [[escovopsis-parasitic-fungi-attine-ant-gardens]]. The absence of mushroom smell indicated worthlessness.
 
-Mr. A.D. Cowan of New York, an expert judge, advised that healthy bricks were usually of dusty brown color and light weight, with a moldy surface appearance without showing threads. Too many threads indicated exhausted vitality from bricks being heaped together before sufficiently dried. Black-colored spawn was to be avoided as a sign of incomplete [[victorian-mushroom-cultivation]]-spawn-types|Victorian Mushroom Spawn Types
+Mr. A.D. Cowan of New York, an expert judge, advised that healthy bricks were usually of dusty brown color and light weight, with a moldy surface appearance without showing threads. Too many threads indicated exhausted vitality from bricks being heaped together before sufficiently dried. Black-colored spawn was to be avoided as a sign of incomplete [[victorian-mushroom-cultivation]]-spawn-types|Victorian [[falconer-mushroom-spawn-types-and-merits]]
 - [[mushroom-house-construction-duggar]] Design
 - Mr. Gardner's Cellar Method
-- [[mushroom-spawn-and-mycelium-biology]]-propagation|Spawn and Mycelium
+- mushroom-spawn-and-mycelium-biology-propagation|Spawn and Mycelium
 ## Background and Context
 
-Falconer Victorian Mushroom Spawn Making Brick Flake Production is an important subject that has garnered significant attention
+Falconer Victorian Mushroom Spawn Making falconer victorian mushroom spawn making brick flake production Production is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough
@@ -141,3 +141,6 @@ conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
 
+## See Also
+
+- falconer-brick-spawn-manufacturing-and-quality

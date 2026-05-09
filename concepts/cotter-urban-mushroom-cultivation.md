@@ -1,5 +1,5 @@
 ---
-title: "Urban Mushroom Cultivation"
+title: "Urban accessible-mushroom-cultivation-for-disabilities"
 created: 2026-04-28
 tags: [urban-farming, mushroom-cultivation, small-space, rooftop, community-gardens]
 date: 2026-04-25
@@ -14,8 +14,8 @@ type: concept
 Mushrooms can be cultivated in tight urban spaces with minimal infrastructure.
 From closets and spare bathrooms to rooftops, balconies, community gardens, and
 repurposed shipping containers, creative use of available space enables
-substantial production. Oyster mushrooms are the primary species for small-space
-cultivation due to their aggressive growth, low light requirements, and
+substantial production. [[query-how-to-grow-oyster-mushrooms-at-home]] are the primary species for small-space
+cultivation due to their aggressive growth, low [[growing-gourmet-light-requirements-mushroom-fruiting]], and
 adaptability to diverse substrates.
 
 ## Indoor Small-Space Cultivation
@@ -63,8 +63,8 @@ simple pole structure with shade cloth draped over the top and sides, with
 overlapping flaps serving as entry points.
 
 Mushrooms integrate into hybrid rooftop systems combining vegetables and fungi in
-a circular nutrient flow. Use dried plant matter as mushroom substrate, then
-cycle spent mushroom compost back into vegetable beds. Choose seasonal oyster
+a circular nutrient flow. Use dried plant matter as [[gourmet-medicinal-mushroom-substrate-preparation]], then
+cycle [[staycare-spent-mushroom-compost-bioremediation]] compost back into vegetable beds. Choose seasonal oyster
 strains matching your climate: phoenix, warm blue, golden, and pink oysters for
 warmer months; elm, brown, cold blue, and white for cooler months. Overproduce
 during the growing season and dry excess mushrooms for off-season use.
@@ -91,7 +91,7 @@ mushroom cultivation with simple shade structures.
 ## Urban Food Factories and Vertical Farming
 
 Repurposed buildings and abandoned factories offer opportunities for closed-loop
-urban food production combining mushrooms with aquaponics and vegetable farming.
+urban food production combining mushrooms with aquaponics and [[jadam-vegetable-farming-techniques]].
 Spent mushroom substrate fertilizes vegetable gardens, while mycelia function as
 biological filters in aquaponics systems. Carbon dioxide from mushroom
 cultivation can be circulated to rooftop greenhouses to benefit plants. Water

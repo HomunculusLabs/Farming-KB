@@ -31,11 +31,11 @@ sources:
 ## Overview
 
 *Mahonia aquifolium* (Pursh) Nutt., commonly known as Oregon grape, is an
-evergreen shrub in the family Berberidaceae native to western North America.
+evergreen shrub in the family Berberidaceae native to western [[psilocybin-north-america-pacific-northwest]].
 It is the state flower of Oregon and widely cultivated for its glossy
 holly-like leaves and bright yellow flowers.
 
-The species is valued medicinally for its root bark, which contains
+The species is valued medicinally for its [[iboga-root-bark-preparation]], which contains
 berberine — a potent isoquinoline alkaloid with broad-spectrum antimicrobial
 and anti-inflammatory properties. Root extracts are approved in Germany for
 topical treatment of psoriasis.
@@ -68,7 +68,7 @@ glossy, dark green, 4–8 × 2–4 cm, ovate to lanceolate with sharp spinose
 teeth; new leaves bronzy-red. Evergreen in most of its range.
 
 **Flowers:** Bright yellow, fragrant, borne in dense terminal racemes 3–8 cm
-long; each flower 6-parted, 6–9 mm across. Blooms early spring (March–May),
+long; each flower 6-parted, 6–9 mm across. Blooms [[coleman-overwintered-onions-and-early-spring-crops]] (March–May),
 a critical early nectar source for emerging pollinators.
 
 **Fruit:** Drupaceous berry, 8–12 mm, dark blue-purple with whitish bloom,
@@ -122,10 +122,10 @@ activation and LDL receptor upregulation.
 - **Hedge and barrier:** Dense spiny foliage creates windbreaks and
   livestock barriers.
 - **Pollinator support:** Early spring flowers provide critical nectar for
-  native bees and syrphid flies.
+  [[query-how-to-attract-native-bees-and-beneficial-insects]] and syrphid flies.
 - **Food production:** Tart berries processed into preserves and wine.
   Indigenous peoples used berries and roots for food, medicine, and dye.
-- **Ground cover:** Low-growing varieties provide erosion control in
+- **[[fukuoka-citrus-orchard-ground-cover-cultivation]]:** Low-growing varieties provide [[permplant-willows-salix-erosion-control-fodder]] in
   orchard understories.
 - **Tolerance:** Accepts shade, drought, and poor soils — useful for
   ecological restoration.
@@ -133,5 +133,6 @@ activation and LDL receptor upregulation.
 ## See Also
 
 - [[berberis-vulgaris]]
-- [[comfrey-permaculture]]
+- comfrey-permaculture
 - [[food-forest-permaculture]]
+- [[ilex-aquifolium]]

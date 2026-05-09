@@ -1,5 +1,5 @@
 ---
-title: outdoor-cannabis-growing - Greg Green's Cannabis Grow Bible
+title: Outdoor Cannabis Growing
 created: 2026-04-26
 tags:
   - outdoor-growing
@@ -8,95 +8,58 @@ tags:
   - soil-preparation
   - seasonal-growing
 date: 2026-04-25
-updated: 2026-04-25
+updated: 2026-05-09
 sources:
-  - raw/papers/greg-green-sinsemilla-and-pollination-the-cannabis-grow-bible.md
+  - greg-green-the-cannabis-grow-bible.md
 type: concept
 ---
 
 # Outdoor Cannabis Growing
 
-Chapter 10 of [[green-cannabis-grow-bible-pest-disease-prevention]]
-- [[green-cannabis-grow-bible-nutrient-management-ppm]]
+Many experienced smokers consider outdoor-grown cannabis to be the finest available. This speaks to the power of natural sunlight and the outdoor environment. If you live in a climate warm enough for tomatoes to grow outdoors, you have the climate to grow good cannabis. Outdoor growing takes two forms: backyard grows on your own property, and [[green-cannabis-grow-bible-vegetative-phase-management|guerrilla farming]] in remote woods or fields.
+
+## Site Selection and Plot Preparation
+
+Seeds planted in untreated ground will have a low germination rate. Timing matters — March and April are ideal for starting plants, so they mature and begin flowering around August to September when daylight hours start to decrease.
+
+When preparing your grow plot:
+
+- Remove as many [[comparison-soil-food-web-vs-bacterial-vs-fungal-soil|weeds]] as possible during preparation
+- Do not leave heaps of earth around that could attract attention — carry excess soil away in bags
+- Consider adding store-bought soil with an NPK value where nitrogen is higher than phosphorus and potassium
+- Sow seeds 1/2" to 1" deep — not too deep
+- Sprinkle water over newly sown seeds; no need to adjust pH or feed yet
+
+## Germination Strategies
+
+Some outdoor growers use clever transplant techniques: germinate seedlings indoors in small pots, cut away the pot base, hold it with cardboard and tape, then place the pot into a prepared hole outdoors. Removing the cardboard allows roots to grow down through the pot bottom into surrounding soil. The most advanced version of this technique involves [[green-cannabis-grow-bible-cloning-and-seed-propagation|cloning]] only females and growing them in pots before transplanting — guaranteeing all-female outdoor plants.
+
+## Caring for Outdoor Plants
+
+### Weeding
+
+Hand-weeding is the safest approach. Avoid chemical weed killers unless you have tested their compatibility with cannabis on a sacrificial clone first. Expect to weed weekly for the first 2–3 weeks, then monthly until the cannabis canopy outcompetes surrounding growth. Dense weed areas may benefit from a [[green-cannabis-grow-bible-soil-and-medium-preparation|ground cover]] — plastic sheeting or paper with holes cut for the plants — though this reduces stealth.
+
+### Watering
+
+Natural rainfall handles most watering needs. During droughts or extended warm spells, carry water to the site. Larger plants may require a minimum of a gallon per day. Natural loam soil retains moisture for 4–6 weeks. The best indicator of water stress is plant appearance — wilting leaves signal the need for water. To check subsurface moisture, dig a small hole about a foot deep to the side of the plant and feel the soil: cool and moist means adequate water is stored below.
+
+### Nutrients and Feeding
+
+Outdoor [[green-cannabis-grow-bible-nutrient-management-ppm|nutrient management]] follows the same principles as indoor growing, switching to a phosphorus-heavy feed during flowering weeks. See [[greg-green-npk-and-nutrient-deficiency]] for detailed deficiency and feeding guidance.
+
+### Pest Protection
+
+Outdoor plants are vulnerable to [[greg-green-spider-mites-and-common-pests|pests and predators]] including deer, rodents, and insects. Spraying the area with pesticide around the second week of vegetative growth is advisable. See [[green-cannabis-grow-bible-pest-disease-prevention]] for comprehensive pest management.
+
+## Harvest
+
+With good sunlight and adequate water, plants will progress through the full [[cannabis-photoperiod-flowering-cycle|flowering cycle]] and be ready for [[green-cannabis-grow-bible-flowering-phase-and-harvest|harvest]] at the end of the flowering season.
 
 ## See Also
 
 - [[query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growing]]
-## Practical Applications
-
-outdoor-cannabis-growing - Greg Green's Cannabis Grow Bible has a range of practical applications that make it relevant to
-both researchers and practitioners. Understanding these applications
-requires familiarity with the underlying principles and their
-manifestation in real-world contexts. The breadth of applications
-reflects the fundamental importance of this topic across disciplines.
-
-Implementation varies based on scale, available resources, and
-specific objectives. Small-scale applications may be relatively
-straightforward, while larger implementations require more careful
-planning and coordination. Adaptation to local conditions is always
-essential for achieving optimal results regardless of scale.
-
-Documented case studies provide valuable reference points, though
-each situation presents unique combinations of opportunities and
-constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
-creative adaptation to local conditions and emerging challenges.
-
-## Key Considerations
-
-Several important considerations should guide approach and decision-
-making when working with this topic. These include environmental
-factors, resource availability, timing, and the specific goals of the
-implementation. Careful attention to these factors improves outcomes
-and reduces the likelihood of common problems and setbacks.
-
-Environmental conditions play a particularly significant role in
-determining outcomes. Factors such as temperature, moisture, light
-exposure, and seasonal timing can substantially affect results.
-Monitoring these conditions and adapting practices accordingly is
-a hallmark of experienced and effective practice in this area.
-
-Resource considerations include not only material inputs but also
-knowledge, skills, time, and ongoing management capacity. Realistic
-assessment of available resources helps prevent overcommitment and
-enables more sustainable and successful long-term implementations.
-
-## Common Challenges
-
-Practitioners commonly encounter several challenges when working with
-outdoor-cannabis-growing - Greg Green's Cannabis Grow Bible. These include both technical difficulties and broader systemic
-issues that require adaptive management and creative problem-solving.
-Awareness of these common challenges enables more proactive planning
-and faster resolution when issues do arise during implementation.
-
-Technical challenges often relate to the complexity of interactions
-between multiple variables and the difficulty of predicting outcomes
-with certainty. Building in redundancy, monitoring key indicators, and
-maintaining flexibility in approach all help manage this inherent
-uncertainty and improve the resilience of implementations over time.
-
-Learning from both successes and failures is essential for continuous
-improvement. Maintaining records of observations, interventions, and
-outcomes creates a valuable knowledge base that supports progressively
-better results with each iteration of practice and experimentation.
-
-## Integration and Future Development
-
-The greatest value from this topic often comes through integration
-with other systems and approaches. Rather than treating it in isolation,
-considering how it connects with and enhances other elements creates
-more robust and productive overall systems. This integrative approach
-is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-
+- [[green-cannabis-grow-bible-indoor-grow-room-setup]] — indoor counterpart
+- [[green-cannabis-grow-bible-vegetative-phase-management]] — guerrilla growing details
+- [[green-cannabis-grow-bible-pest-disease-prevention]] — pest and disease management
+- [[green-cannabis-grow-bible-nutrient-management-ppm]] — nutrient feeding schedules

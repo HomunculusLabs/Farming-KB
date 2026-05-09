@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, construction, homestead-crafts, preservation, tools]
-sources: []
+sources:
+  sources: []
 ---
 
 # Preserving Wood and Timber Framing
@@ -60,7 +61,7 @@ Raw linseed oil is a natural drying oil extracted from flax seeds. "Boiled" lins
 - Penetrates 1-2 mm into the wood surface
 
 **Pros:** All-natural, easy to apply, enhances wood grain appearance, food-safe when cured
-**Cons:** Slow drying, attracts dust during curing, can support mold growth in damp environments if not cured properly, provides no insect resistance on its own
+**Cons:** Slow drying, attracts dust during curing, can support mold growth in damp environments if not cured properly, provides no [[fukuoka-vegetable-disease-insect-resistance]] on its own
 
 ### Borate Treatments
 
@@ -79,7 +80,7 @@ Borates (disodium octaborate tetrahydrate) are water-soluble salts that provide 
 - Best for interior timber framing, enclosed structures, or wood protected by a roof overhang
 - For ground-contact applications, borate must be sealed with a water-resistant topcoat
 - Non-toxic to humans and mammals at treatment concentrations
-- Effective against most wood-boring insects and decay fungi
+- Effective against most wood-boring insects and [[bloomfield-wood-decay-fungi-spalted-timber]]
 
 **Mixing:** Typical ratio is 1 pound of borate powder per gallon of warm water for a 10% solution. Apply at a rate of approximately 1 gallon per 50 square feet of wood surface.
 
@@ -117,10 +118,10 @@ Best timber framing species by region:
 - Northeast: Eastern white pine, white oak, hemlock, eastern spruce
 - Southeast: Southern yellow pine, cypress, white oak
 - Midwest: White oak, red oak, white pine, hickory
-- Pacific Northwest: Douglas fir, western red cedar, Sitka spruce
+- [[psilocybin-north-america-pacific-northwest]]: [[douglas-fir]], western red cedar, Sitka spruce
 
 ## Related Concepts
 
-- [[barn-construction-reference]] — General building and construction techniques for homestead infrastructure
+- [[barn-construction-reference]] — General building and [[pdc-earthen-construction-techniques]] for [[off-grid-energy-and-homestead-infrastructure]]
 - [[soap-making-guide]] — Woodworking and value-added homestead products
-- [[firewood-seasoning-and-storage]] — Related wood processing and storage principles
+- [[firewood-seasoning-and-storage]] — Related wood processing [[mollison-designers-water-purification-and-storage-principles]]

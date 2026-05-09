@@ -9,7 +9,7 @@ sources: []
 
 # Raised Bed Gardening Guide
 
-Raised beds elevate the growing surface above ground level, improving drainage, reducing soil compaction, extending the growing season, and providing better control over soil quality. They are the foundation of most home vegetable gardens.
+Raised beds elevate the growing surface above ground level, improving drainage, reducing soil compaction, extending the [[savory-growing-season-and-non-growing-season-management]], and providing better control over soil quality. They are the foundation of most home vegetable gardens.
 
 ## Benefits
 
@@ -17,7 +17,7 @@ Raised beds elevate the growing surface above ground level, improving drainage, 
 - **Reduced compaction** — you never walk on the soil; roots grow freely.
 - **Earlier planting** — raised soil warms faster in spring (2-4 weeks ahead of ground soil).
 - **Custom soil** — fill with optimal mix regardless of native soil quality.
-- **Higher yields** — intensive spacing in loose soil produces more per square foot.
+- **Higher yields** — intensive spacing in loose soil produces more per [[comparison-biointensive-vs-square-foot-gardening]].
 - **Easier access** — less bending, better for gardeners with mobility limitations.
 - **Fewer weeds** — dense planting shades out weeds; clean soil mix has fewer weed seeds.
 
@@ -35,7 +35,7 @@ Raised beds elevate the growing surface above ground level, improving drainage, 
 ### Height
 - 6-8 inches: minimum for most vegetables; good over decent native soil.
 - 10-12 inches: ideal for most crops, allows deep root growth.
-- 18-24 inches: best for root vegetables (carrots, parsnips, potatoes), accessible gardening, or building over poor soil/pavement.
+- 18-24 inches: best for [[growing-root-vegetables-guide]] (carrots, parsnips, potatoes), accessible gardening, or building over poor soil/pavement.
 - Deeper is NOT always better — filling very deep beds is expensive.
 
 ### Spacing Between Beds
@@ -68,7 +68,7 @@ If vermiculite is expensive or unavailable:
 - **Redwood** — excellent rot resistance, long-lasting. Very expensive.
 - **Pine (untreated)** — affordable, lasts 3-5 years. Replace when rotting.
 - **Douglas fir** — moderate rot resistance, 5-7 years.
-- **Black locust** — extremely durable, 20+ years. Hard to find and work.
+- **[[comparison-black-locust-vs-honey-locust]]** — extremely durable, 20+ years. Hard to find and work.
 
 ### Treated Lumber
 - Modern ACQ (alkaline copper quaternary) treated wood is considered safe for vegetable beds by most extension services.
@@ -83,7 +83,7 @@ If vermiculite is expensive or unavailable:
 
 ### Bed Liner
 - Optional but recommended over grass or weeds.
-- Use cardboard (over sod) or landscape fabric (porous, not plastic).
+- Use cardboard (over sod) or [[comparison-mulch-types-and-effects-vs-landscape-fabric-alternatives]] (porous, not plastic).
 - Avoid solid plastic sheeting — prevents drainage and soil biology.
 
 ## Irrigation
@@ -121,7 +121,7 @@ If vermiculite is expensive or unavailable:
 
 - **Spring**: Top-dress with 1-2 inches of compost. Refresh mulch. Plant cool-season crops first.
 - **Summer**: Maintain mulch layer. Monitor irrigation. Side-dress heavy feeders.
-- **Fall**: Plant cover crops or garlic. Add fallen leaves as mulch. Clean up diseased plant material.
+- **Fall**: Plant [[gaias-garden-cover-crops-soil-building]] or garlic. Add fallen leaves as mulch. Clean up diseased plant material.
 - **Winter**: Leave beds covered with mulch or cover crop. Avoid bare soil over winter.
 
 ## Related Concepts

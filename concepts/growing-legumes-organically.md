@@ -9,11 +9,11 @@ sources:
 ---
 # Growing Legumes Organically
 
-The pod and seed vegetables -- with the exception of okra and sweet corn -- are all members of the Leguminosae family and are an excellent source of protein and fiber. Their nitrogen-fixing qualities make them doubly valuable: they produce food and, when the plants are dug into the soil or added to the compost heap, they release that nitrogen for subsequent crops.
+The pod and [[hamilton-pod-seed-vegetables-organic]] -- with the exception of okra and sweet corn -- are all members of the Leguminosae family and are an excellent source of protein and fiber. Their nitrogen-fixing qualities make them doubly valuable: they produce food and, when the plants are dug into the soil or added to the compost heap, they release that nitrogen for subsequent crops.
 
 ## General Growing Principles
 
-All legumes make their own nitrogen through nitrogen-fixing bacteria in their root nodules, so they require little extra feeding. Too rich a soil leads to excessive foliage but a small crop of vegetables. All prefer a soil pH of about 6.5; add lime to attain this if necessary. In a three-year crop rotation, grow all legumes in Plot B (the plot that grew peas and beans the previous year, or the second year of rotation).
+All legumes make their own nitrogen through nitrogen-fixing bacteria in their root nodules, so they require little extra feeding. Too rich a soil leads to excessive foliage but a small crop of vegetables. All prefer a soil pH of about 6.5; add lime to attain this if necessary. In a three-year [[comparison-crop-rotation-vs-cover-cropping]], grow all legumes in Plot B (the plot that grew peas and beans the previous year, or the second year of rotation).
 
 ## Peas (Pisum sativum)
 
@@ -37,11 +37,11 @@ Peas taste best when eaten minutes after picking, before sugar changes to starch
 
 ## Broad Beans (Vicia faba)
 
-Wonderful value, producing early vegetables of unique flavor and just about the best green manure possible.
+Wonderful value, producing early vegetables of unique flavor and just about the best [[comparison-green-manure-guide-vs-mulch-types-and-effects]] possible.
 
 **Varieties:** Aquadulce Claudia (early sowing, late fall), Express (heavy-yielding maincrop), Imperial Green Longpod (excellent flavor).
 
-**Sowing:** Aquadulce Claudia in late fall or late winter, double rows 12in (30cm) apart, 2in (5cm) deep, 4in (10cm) between seeds. 3ft (1m) between double rows. Maincrop at same distances in early spring. For deep beds, stagger rows 6in apart.
+**Sowing:** Aquadulce Claudia in late fall or late winter, double rows 12in (30cm) apart, 2in (5cm) deep, 4in (10cm) between seeds. 3ft (1m) between double rows. Maincrop at same distances in [[coleman-overwintered-onions-and-early-spring-crops]]. For deep beds, stagger rows 6in apart.
 
 **Maintenance:** Support in exposed gardens with string between posts. Water if necessary, mulch between rows.
 
@@ -79,7 +79,7 @@ All require warm climates. Lima beans need soil temperature of 65F (18C) to germ
 
 ## Related
 
-- [[cover-cropping-guide]] for green manure crops
-- [[hamilton-organic-pest-control]] for pest management
+- [[cover-cropping-guide]] for green [[green-manure-crops-detailed]]
+- [[hamilton-organic-pest-control]] for [[cannabis-pest-management-guide]]
 - [[crop-rotation-benefits]]
 - [[organic-vegetable-garden-rotation-deep-beds]]

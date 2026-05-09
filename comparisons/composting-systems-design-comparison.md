@@ -27,7 +27,7 @@ sources:
 
 Composting systems range from simple open piles to enclosed bins, tumblers, and in-ground methods. The right system depends on your space, volume of organic waste, desired speed, and how much labor you want to invest. This comparison focuses on physical system designs (not biological methods — see [[hot-composting-vs-vermicompost-vs-bokashi]] for process comparisons).
 
-On a homestead with [[duck-keeping]] and [[goat-keeping]], manure management makes a reliable composting system essential. The ideal homestead runs multiple systems simultaneously: a hot compost pile for bulk manure and yard waste, a vermicompost bin for kitchen scraps, and bokashi for pre-processing all food waste.
+On a homestead with [[duck-keeping]] and [[goat-keeping]], manure management makes a reliable composting system essential. The ideal homestead runs multiple systems simultaneously: a hot [[mushroom-cultivator-compost-pile-management]] for bulk manure and yard waste, a vermicompost bin for kitchen scraps, and bokashi for pre-processing all food waste.
 
 ## System Design Comparison
 
@@ -39,14 +39,14 @@ On a homestead with [[duck-keeping]] and [[goat-keeping]], manure management mak
 | **Wire bin** (circular mesh) | Medium (3x3 ft diameter) | Moderate (3-6 months) | Moderate (turn with fork) | Poor (open mesh) | $5-20 (DIY) | Fall leaves, yard waste, budget option |
 | **Pallet bin** (3-4 pallets) | Medium (3-4x3-4 ft) | Moderate (3-6 months) | Moderate (turn with fork) | Moderate (pallet gaps) | Free-$10 | Homesteads with pallets, multi-bin setup |
 | **Pit composting** | Small (hole in ground) | Slow (6-12 months) | Low (fill and forget) | Good (underground) | Free | Remote areas, minimal infrastructure |
-| **Sheet composting** (lasagna) | As large as your garden bed | Slow (3-6 months to decompose) | Low (layer materials in place) | Good (no exposed food) | Free (using yard materials) | Building new garden beds, no-till |
+| **[[solomon-sheet-composting-mulch-gardening]]** (lasagna) | As large as your garden bed | Slow (3-6 months to decompose) | Low (layer materials in place) | Good (no exposed food) | Free (using yard materials) | Building new garden beds, no-till |
 | **Trench composting** | Linear (dig as needed) | Moderate (2-4 months in soil) | Low (dig, fill, cover) | Excellent (fully buried) | Free | Row-by-row garden integration, fall prep |
 
 ## Deep Comparison
 
 ### Speed and Volume
 
-The **open pile** (Berkeley hot composting method) is the fastest system for bulk material. A properly built 3x3x3 ft pile with 25-30:1 C:N ratio and 50-60% moisture will reach 130-150F within 48 hours. Turning every 2-3 days sustains thermophilic temperatures and produces finished compost in 14-28 days, plus 2-4 weeks curing. The downside is labor intensity — each turn requires forking the entire pile.
+The **open pile** (Berkeley [[comparison-bokashi-vs-hot-composting-method]] method) is the fastest system for bulk material. A properly built 3x3x3 ft pile with 25-30:1 C:N ratio and 50-60% moisture will reach 130-150F within 48 hours. Turning every 2-3 days sustains thermophilic temperatures and produces finished compost in 14-28 days, plus 2-4 weeks curing. The downside is labor intensity — each turn requires forking the entire pile.
 
 **Tumblers** offer the easiest turning but have limited volume (typically 50-80 gallons). They work well for a household generating kitchen scraps plus moderate yard waste. The enclosed design retains heat and moisture well, but can become too wet if not balanced with enough browns. Speed is decent (4-8 weeks) but can't match a well-managed hot pile.
 
@@ -78,7 +78,7 @@ For homesteaders who want the simplest possible approach, cold/slow composting r
 | Straw | 80-100:1 | Open pile, sheet composting | Good structure, slower breakdown |
 | Wood chips | 200-500:1 | Mulch paths, hugelkultur | Long-lasting; avoid in active compost |
 | Shredded paper/cardboard | 150-200:1 | Enclosed bin, trench | Avoid glossy/coated paper |
-| Sawdust | 300-500:1 | Sheet mulching (thin layers) | Mats easily; use sparingly |
+| Sawdust | 300-500:1 | [[comparison-sheet-mulching-vs-chop-and-drop-mulching]] (thin layers) | Mats easily; use sparingly |
 
 ## Choosing by Homestead Scale
 
@@ -91,7 +91,7 @@ For homesteaders who want the simplest possible approach, cold/slow composting r
 
 ## Verdict
 
-Don't use just one system — use the right tool for each waste stream. A **hot open pile or 3-bin pallet system** handles bulk manure and yard waste with pathogen kill. A **kitchen bokashi bin** pre-processes all food waste including meat and dairy. A **vermicompost bin** under the sink or in the garage produces castings for seed starting and [[cannabis-living-soil-guide]]. **Sheet composting** builds new garden beds from scratch. For maximum simplicity on a small property, a **tumbler** handles moderate volumes with minimal effort.
+Don't use just one system — use the right tool for each waste stream. A **hot open pile or 3-bin pallet system** handles bulk manure and yard waste with pathogen kill. A **kitchen bokashi bin** pre-processes all food waste including meat and dairy. A **vermicompost bin** under the sink or in the garage produces castings for [[comparison-cannabis-cloning-vs-seed-starting-indoors]] and [[cannabis-living-soil-guide]]. **Sheet composting** builds new garden beds from scratch. For maximum simplicity on a small property, a **tumbler** handles moderate volumes with minimal effort.
 
 ## Scaling Tips
 
@@ -103,7 +103,7 @@ Don't use just one system — use the right tool for each waste stream. A **hot 
 ## See Also
 
 - [[hot-composting-vs-vermicompost-vs-bokashi]] — Biological method comparison
-- [[composting-systems]] — Full composting methods and troubleshooting
+- [[composting-systems]] — Full [[natural-farming-guide-composting-methods-and-techniques]] and troubleshooting
 - [[vermicomposting]] — Worm bin setup and management
 - [[bokashi]] — Kitchen fermentation system
 - [[no-till-gardening-method]] — Composting as a no-till foundation

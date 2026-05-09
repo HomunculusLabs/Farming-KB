@@ -1,5 +1,5 @@
 ---
-title: Fungal Chlorinated Aromatic Compound Degradation
+title: Fungal fungal chlorinated aromatic degradation Compound Degradation
 created: 2026-04-28
 tags: [bioremediation, chlorinated-compounds, PCB, dioxins, mycoremediation]
 date: 2026-04-25
@@ -18,8 +18,8 @@ environmental pollutants. This class includes polychlorinated biphenyls
 pesticides such as DDT. Their chemical inertness, hydrophobicity, and
 resistance to microbial degradation make them priority targets for
 bioremediation. White rot fungi, particularly Phanerochaete
-chrysosporium and Trametes versicolor, have demonstrated significant
-ability to degrade chlorinated aromatics through their ligninolytic
+chrysosporium and [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]], have demonstrated significant
+ability to degrade [[fungal-biodegradation-chlorinated-aromatics-and-btex]] through their ligninolytic
 enzyme systems (LES), which employ non-specific free radical mechanisms
 capable of attacking diverse chlorinated structures.
 
@@ -32,7 +32,7 @@ chlorine atoms per biphenyl molecule (typically 3 to 6). Their stable
 molecular structure, hydrophobicity, and complex mixtures of congeners
 contribute to their persistence. The extent of PCB degradation by
 basidiomycetes depends on the level of chlorination and the fungal
-strain employed. Phanerochaete chrysosporium degrades biphenyl (23%),
+strain employed. [[staycare-phanerochaete-chrysosporium-in-bioremediation]] degrades biphenyl (23%),
 2-chlorobiphenyl (16%), and 2,2',4,4'-tetrachlorobiphenyl (10%).
 Yadav and colleagues demonstrated 82%, 31%, and 18% degradation of
 Aroclor 1242, 1254, and 1260 respectively, a landmark result as it
@@ -63,12 +63,12 @@ are released from paper mill effluents, combustion ash, and as
 contaminants of chlorophenols. They are chemically stable,
 lipophilic, and highly toxic. A multistep pathway for degradation
 of 2,7-dichlorodibenzo-dioxin by P. chrysosporium involves both
-lignin peroxidase (LiP) and manganese peroxidase (MnP). The pathway
+lignin peroxidase (LiP) and [[fungal-manganese-peroxidase-remediation]] (MnP). The pathway
 proceeds through oxidative cleavage to yield chlorinated quinones,
 followed by reduction, methylation, and further oxidation steps.
 The key intermediate 1,2,4-trihydroxybenzene is converted to
 beta-ketoadipic acid after reduction and ring cleavage.
-Phanerochaete sordida has achieved up to 60% degradation of
+[[staycare-phanerochaete-sordida-in-bioremediation]] has achieved up to 60% degradation of
 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD), the most toxic dioxin
 congener.
 
@@ -138,9 +138,11 @@ affects degradability, with lower chlorination levels generally
 corresponding to faster degradation rates. Bioavailability is a
 critical factor, as chlorinated compounds tend to be hydrophobic
 and may sorb strongly to soil organic matter.
-
 ## See Also
 
 - [[mycoremediation-pcbs-and-dioxins]]
-- [[mycoremediation-heavy-metals-detailed]]
-- [[mycoremediation-of-explosives]]
+- [[mycoremediation-of-heavy-metals]]
+- mycoremediation-of-explosives
+- [[indigenous-microorganisms]]
+- [[white-rot-fungi]]
+- [[pleurotus-ostreatus]]

@@ -1,15 +1,12 @@
 ---
-title: "Community Design in Permaculture"
+title: "[[holmgren-community-design-and-intentional-communities]] in [[permaculture]]"
 created: 2026-04-28
-tags: [[permaculture, community, intentional-community, stewardship,
-       organizational-structure, communication, governance]
+tags: [permaculture, community, intentional-community, stewardship, organizational-structure, communication, governance]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+sources: [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-
 # Community Design in [[permaculture-design]] is about creating architecture and
 infrastructure, community is one of the fundamental human needs that
 sustainability must address. Permaculture systems reach a much higher
@@ -57,11 +54,13 @@ Remember that in permaculture you should endeavor to use and value
 diversity and [[permaculture-guilds]] where community members
   coordinate seed swaps, work parties, and coordinated food
   strategies
+
 ## See Also
 - [[urban-permaculture-community-building-social-design]]
+
 ## Practical Considerations
 
-Successful implementation of Community Design in Permaculture requires attention to
+Successful implementation of Community [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]] requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -77,4 +76,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

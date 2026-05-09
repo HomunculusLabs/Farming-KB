@@ -16,7 +16,7 @@ sources:
 
 # Calcarisporium arbuscula
 
-Calcarisporium arbuscula is a common fungicolous hyphomycete that grows on the sporocarps of many agaric mushrooms and bracket fungi. It is one of the most frequently encountered mycoparasitic fungi on mushroom fruiting bodies in nature, known for its broad host range and its ability to act as both an endophyte and a destructive parasite of other fungi.
+Calcarisporium arbuscula is a common fungicolous hyphomycete that grows on the sporocarps of many agaric mushrooms and bracket fungi. It is one of the most frequently encountered mycoparasitic fungi on [[ectomycorrhizal-mushroom-fruiting-ecology]] bodies in nature, known for its broad host range and its ability to act as both an endophyte and a destructive parasite of other fungi.
 
 ## Taxonomy and Classification
 
@@ -32,7 +32,7 @@ The species is most commonly found on members of the Russulaceae, particularly s
 
 ### Cantharellaceae
 
-C. arbuscula colonizes the basidiomes of [[piptoporus-betulinus]]. On decaying polypore sporocarps, it forms part of a characteristic community alongside rhinotrichella-globulifera, [[mycogone-perniciosa-entity-the-mushroom-cultivator]], the cause of wet bubble disease in cultivated mushrooms (Gandy 1979). acremonium-strictum also parasitizes M. perniciosa and can inhibit its growth, representing a complex web of mycoparasitic interactions among mushroom pathogens and their parasites. This trophic cascade, where a mycoparasite is itself parasitized by another fungus, illustrates the complex food web relationships that exist among fungicolous organisms.
+C. arbuscula colonizes the basidiomes of [[piptoporus-betulinus]]. On decaying polypore sporocarps, it forms part of a characteristic community alongside rhinotrichella-globulifera, [[mycogone-perniciosa-entity-the-mushroom-cultivator]], the cause of wet bubble disease in [[fungi-cultivated-mushrooms-pathogens-competitors]] (Gandy 1979). acremonium-strictum also parasitizes M. perniciosa and can inhibit its growth, representing a complex web of mycoparasitic interactions among mushroom pathogens and their parasites. This trophic cascade, where a mycoparasite is itself parasitized by another fungus, illustrates the complex food web relationships that exist among fungicolous organisms.
 
 ## Association with Other Fungicolous Fungi
 
@@ -50,7 +50,7 @@ The genus Calcarisporium includes C. parasiticum, which was studied by Barnett a
 
 ## Distribution
 
-C. arbuscula has been recorded across temperate regions worldwide, with reports from Europe, North America, and other regions where its agaric and polypore hosts occur. Its distribution closely tracks that of its preferred host families, particularly the Russulaceae. The species is likely cosmopolitan in temperate forests where its hosts are present.
+C. arbuscula has been recorded across temperate regions worldwide, with reports from Europe, [[psilocybin-north-america-pacific-northwest]], and other regions where its agaric and polypore hosts occur. Its distribution closely tracks that of its preferred host families, particularly the Russulaceae. The species is likely cosmopolitan in temperate forests where its hosts are present.
 
 ## Morphological Features
 
@@ -66,7 +66,7 @@ The ability of C. arbuscula to colonize a wide range of fungal hosts suggests it
 
 ## Importance for Cultivation and Mycological Practice
 
-The fungus can be distinguished from host mycelium by its more rapid growth rate, distinctive conidiophore morphology, and tendency to sporulate quickly on standard mycological media. Careful selection of apparently healthy, young sporocarps for tissue culture can reduce the likelihood of C. arbuscula contamination, though the endophytic nature of the fungus means that even apparently clean tissue may harbor latent infections.
+The fungus can be distinguished from host mycelium by its more rapid growth rate, distinctive conidiophore morphology, and tendency to sporulate quickly on standard mycological media. Careful selection of apparently healthy, young sporocarps for [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] can reduce the likelihood of C. arbuscula contamination, though the endophytic nature of the fungus means that even apparently clean tissue may harbor latent infections.
 
 ## Role in Nutrient Cycling on Fungal Sporocarps
 
@@ -82,9 +82,9 @@ C. arbuscula can be compared with other common fungicolous hyphomycetes to illus
 
 ## Observational Methods
 
-Detection of C. arbuscula in field surveys typically involves careful examination of fungal sporocarps, particularly agarics and polypores, for the presence of white mycelial mats or sporulating structures on the host surface. Incubation of collected sporocarps in moist chambers can trigger sporulation of endophytic C. arbuscula that was not visible in the field, revealing the hidden extent of its colonization. This approach, recommended for systematic surveys of fungicolous fungi, significantly increases detection rates compared with field observation alone.
+Detection of C. arbuscula in field surveys typically involves careful examination of fungal sporocarps, particularly agarics and polypores, for the presence of white [[singh-mycelial-mats-and-biological-soil-crusts]] or sporulating structures on the host surface. Incubation of collected sporocarps in moist chambers can trigger sporulation of endophytic C. arbuscula that was not visible in the field, revealing the hidden extent of its colonization. This approach, recommended for systematic surveys of fungicolous fungi, significantly increases detection rates compared with field observation alone.
 
-Microscopic examination of suspect material reveals the characteristic branched conidiophores, confirming identification of C. arbuscula.
+[[fungal-microscopic-examination-mounting-media-techniques]] of suspect material reveals the characteristic branched conidiophores, confirming identification of C. arbuscula.
 
 ## See Also
 

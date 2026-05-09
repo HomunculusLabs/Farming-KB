@@ -1,24 +1,13 @@
 ---
 title: "Mycorrhiza Discovery History and A.B. Frank"
 created: 2026-04-28
-tags: [[mycology, mycorrhiza, history, frank, symbiosis, plant-fungal-interaction]
+tags: [mycology, mycorrhiza, history, frank, symbiosis, plant-fungal-interaction]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/symbiotic-fungi.md]
 type: concept
 ---
-
-The discovery and conceptualisation of mycorrhiza represents one of the
-most significant milestones in the history of plant-fungal biology. The
-story spans from the earliest microscopic observations in the 1840s to
-the revolutionary hypotheses of Albert Bernhard Frank in 1885, and
-continues through modern molecular validation of his ideas. The
-Symbiotic Fungi source (Das and Varma, Springer-Verlag 2009) provides
-a detailed account of this intellectual journey.
-
-## Ancient Origins: Fossil Evidence
-
-The [[ectomycorrhizae-forest-life]] were widespread on root systems of many woody
+The discovery and conceptualisation of mycorrhiza represents one of the most significant milestones in the history of plant-fungal biology. The story spans from the earliest microscopic observations in the 1840s to the revolutionary hypotheses of Albert Bernhard Frank in 1885, and continues through modern molecular validation of his ideas. The [[mycelium-running-symbiotic-fungi-relationships]] source (Das and Varma, Springer-Verlag 2009) provides a detailed account of this intellectual journey. ## Ancient Origins: Fossil Evidence The [[ectomycorrhizae-forest-life]] were widespread on root systems of many woody
 plant species in a great diversity of habitats and soils.
 
 Frank hypothesised that mycorrhizae represent an all-encompassing
@@ -40,10 +29,10 @@ isolated the organism again using the hanging drop technique of Magrou.
 
 Experiments to test whether inoculation with such isolates could produce
 typical arbuscular mycorrhizas were summarised by Hawker et al. (1957).
-Although these early attempts at fungal identification proved partially
+Although these early attempts at [[pcr-methods-fungal-identification-monitoring]] proved partially
 incorrect, they laid important groundwork for the eventual
 characterisation of Glomeromycota as the fungal phylum responsible for
-arbuscular mycorrhizal symbiosis.
+[[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] symbiosis.
 
 ## The Functional Significance of Mycorrhiza
 
@@ -65,7 +54,7 @@ available to the plants they colonise.
 The mechanisms of increased absorption are both physical and chemical.
 Mycorrhizal mycelia are much smaller in diameter than the smallest root,
 and can explore a greater volume of soil, providing a larger surface
-area for absorption. The cell membrane chemistry of fungi is different
+area for absorption. The [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] chemistry of fungi is different
 from that of plants. Mycorrhizae are especially beneficial for the plant
 partner in nutrient-poor soils and act as bioprotectants against
 pathogens and toxic stresses.

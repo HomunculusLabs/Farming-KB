@@ -37,7 +37,7 @@ Rhizomes are ellipsoidal to irregularly shaped, 3–8 cm in diameter, with a dar
 
 ## Bioactive Compounds and Pharmacology
 
-The rhizome yields 2–5% essential oil by steam distillation. Major volatile constituents include **germacrone** (15–30%), **curdione** (10–20%), **curcumol** (8–15%), **curzerene**, **furanodiene**, and **β-elemene**.
+The rhizome yields 2–5% essential oil by [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]]. Major volatile constituents include **germacrone** (15–30%), **curdione** (10–20%), **curcumol** (8–15%), **curzerene**, **furanodiene**, and **β-elemene**.
 
 Non-volatile diarylheptanoids and curcuminoids are present in lower concentrations than in *C. longa*, but contribute to the anti-inflammatory profile.
 
@@ -51,11 +51,11 @@ Curcumol, a sesquiterpenoid unique to *C. phaeocaulis* and close relatives, supp
 
 Extracts inhibit NF-κB and MAPK signaling cascades in macrophage models, reducing pro-inflammatory cytokine release (TNF-α, IL-1β, IL-6). The essential oil demonstrates hepatoprotective activity against CCl₄-induced liver injury in rats, restoring serum ALT and AST levels.
 
-Germacrone also modulates Nrf2/ARE antioxidant pathways, providing protection against oxidative stress in hepatic tissue.
+Germacrone also modulates Nrf2/ARE antioxidant pathways, providing protection against [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in hepatic tissue.
 
 ### Antimicrobial Properties
 
-The essential oil shows moderate activity against Gram-positive bacteria (*Staphylococcus aureus*, *Bacillus subtilis*) and select fungal pathogens (*Candida albicans*). MIC values range from 125–500 μg/mL depending on the organism.
+The essential oil shows moderate activity against Gram-positive bacteria (*Staphylococcus aureus*, *Bacillus subtilis*) and select [[bloomfield-fungal-pathogens-and-parasites]] (*[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*). MIC values range from 125–500 μg/mL depending on the organism.
 
 ## Traditional Medicine
 
@@ -67,7 +67,7 @@ The standard daily dose in decoction is 3–10 g of dried rhizome. Overdose may 
 
 ## Chemistry and Extraction
 
-The essential oil profile varies by geographic origin and harvest time. Germacrone content peaks during flowering (July–September), while curdione accumulates more steadily through the growing season.
+The essential oil profile varies by geographic origin and harvest time. Germacrone content peaks during flowering (July–September), while curdione accumulates more steadily through the [[savory-growing-season-and-non-growing-season-management]].
 
 Steam distillation is the standard extraction method for volatile constituents. Supercritical CO₂ extraction yields higher germacrone and curdione recovery with less thermal degradation of labile sesquiterpenoids.
 
@@ -97,7 +97,7 @@ Disease pressure includes rhizome rot caused by *Pythium* spp. and leaf spot fro
 
 Chinese Pharmacopoeia (2020 edition) specifies minimum quality criteria for *C. phaeocaulis* rhizome: curdione content ≥ 0.5% by HPLC, essential oil content ≥ 1.0% (mL/g), and moisture ≤ 15%. The drug is traded under the name **E Zhu** in Chinese herbal markets.
 
-Guangxi and Sichuan provinces are the primary production regions, with Guangxi supplying approximately 60% of the national market. Dried rhizome wholesales at ¥40–80/kg depending on grade and curdione content.
+Guangxi and Sichuan provinces are the [[lichens-primary-production-soil-formation-dighton]] regions, with Guangxi supplying approximately 60% of the national market. Dried rhizome wholesales at ¥40–80/kg depending on grade and curdione content.
 
 Adulteration with *C. kwangsiensis* or *C. wenyujin* rhizomes is common in commercial trade. DNA barcoding using ITS and matK regions is used for species authentication in quality control laboratories.
 

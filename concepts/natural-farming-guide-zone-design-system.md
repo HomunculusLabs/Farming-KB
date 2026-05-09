@@ -11,7 +11,7 @@ type: concept
 # Permaculture Zone Design System
 
 The zone design system is the foundational organizing principle of
-permaculture land planning. It divides land into five zones classified
+permaculture [[savory-land-planning-and-grazing-cell-design]]. It divides land into five zones classified
 by how much human intervention is needed to maintain them, placing each
 zone according to its distance from the center of human activity. This
 approach saves energy, increases productivity, and creates efficient
@@ -19,7 +19,7 @@ relationships between elements of a sustainable homestead.
 
 ## Understanding Zones
 
-The easiest way to start the design process is by dividing the land into
+The easiest way to start the [[hemenway-garden-design-process-observation-and-visioning]] is by dividing the land into
 zones. Zones are areas classified by how much human intervention is
 needed to maintain them and are placed according to their distance from
 the center of human activity. Things that you do very frequently need to
@@ -44,7 +44,7 @@ the main road with a short driveway, and on soil with good drainage.
 Zone 1 is the area immediately surrounding the house. This is where you
 will grow plants very intensively in a sheet-mulched garden. It may also
 have a small pond, various outbuildings that you use frequently such as
-a tool shed, small fruit trees, and a low windbreak. The trees here are
+a tool shed, small [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], and a low windbreak. The trees here are
 dwarf varieties, or perhaps you might have multiple varieties grafted
 onto one tree.
 
@@ -82,7 +82,7 @@ going to be sold for profit.
 
 ## Zone 4: Forestry and Foraging
 
-Zone 4 shows the benefit of having a large piece of rural land. This is
+Zone 4 shows the benefit of having a large piece of [[mollison-country-permaculture-rural-land-design]]. This is
 an area of long-term development through a woodlot, dam, and extensive
 tree planting. Windmills and large animal stock are placed here, along
 with large-scale water harvesting.
@@ -120,11 +120,11 @@ Put the garden where there will be the right amount of sunlight.
 ## Slope as a Design Factor
 
 Slope is the deciding factor for the placement of most elements. Water
-flow, passive solar heating, solar panels, weather exposure, erosion,
+flow, [[comparison-passive-solar-vs-earth-sheltered]] heating, solar panels, weather exposure, erosion,
 and the angle of sunshine are all determined by the slope. The top of a
 slope is best for catching and storing water. The middle is the most
 sheltered location for a house. The bottom is perfect for gardens and
-animals, though flat areas at the bottom can be prone to salt buildup
+animals, though flat areas at the bottom can be prone to [[cervantes-salt-buildup-leaching-management]]
 through evaporation.
 
 ## See Also

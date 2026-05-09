@@ -11,9 +11,9 @@ type: concept
 
 # Nickel and Zinc Biosorption by Fungi
 
-Nickel and zinc are common heavy metal contaminants in industrial
+Nickel and zinc are common [[dighton-fungal-biosorption-heavy-metal-remediation]] contaminants in industrial
 wastewaters from mining, electroplating, battery manufacturing, and
-metal finishing operations. Fungal biosorption provides an effective and
+metal finishing operations. [[singh-binary-ternary-fungal-biosorption-systems]] provides an effective and
 economical approach for removing these metals from solution. Singh's
 review documents numerous fungal species capable of nickel and zinc
 biosorption, the mechanisms involved, and the behavior of these metals
@@ -40,7 +40,7 @@ crystals on ZnO substrates. One-third of the isolates of soil fungi are
 able to solubilize at least one toxic metal compound including ZnO, and
 10% solubilize all three tested metal compounds (Sayer et al., 1995).
 This fungal leaching capability has implications for both metal recovery
-and soil bioremediation strategies.
+and soil [[comparison-bioremediation-strategies-vs-biostimulation-techniques]].
 
 ## Bioreactor Applications
 
@@ -51,7 +51,7 @@ Crossflow filtration can be used to remove heavy metal ions from water
 using yeast cells as carriers. In the presence of binary or ternary
 mixtures, rejection of individual metals is generally reduced, except
 for lead. The economic viability of nickel and zinc biosorption is
-enhanced by the availability of fungal biomass as a waste by-product of
+enhanced by the availability of [[bioremediation-fungal-biomass-biosorbent-material]] as a waste by-product of
 large-scale industrial fermentation processes.
 
 ## See Also
@@ -59,7 +59,7 @@ large-scale industrial fermentation processes.
 - [[singh-fungal-biosorption-lead-copper]]
 - [[singh-fungal-biosorption-heavy-metals]]
 - multimetal biosorption competitive systems
-- fungal bioreactors metal removal
+- [[singh-immobilized-fungal-bioreactors-wastewater-treatment]] metal removal
 ## Practical Considerations
 
 Successful implementation of Nickel and Zinc Biosorption by Fungi requires attention to
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

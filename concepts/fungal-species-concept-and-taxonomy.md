@@ -10,7 +10,7 @@ sources:
 
 ## Overview
 
-The fungal species concept is complicated by several biological realities unique to fungi: many species do not reproduce sexually, morphological plasticity is common, and a single species may produce multiple morphologically distinct spore stages (pleomorphism). These challenges have made fungal taxonomy one of the most contentious areas in systematic biology.
+The fungal species concept is complicated by several biological realities unique to fungi: many species do not reproduce sexually, morphological plasticity is common, and a single species may produce multiple morphologically distinct spore stages (pleomorphism). These challenges have made [[molecular-methods-fungal-taxonomy-and-diversity]] one of the most contentious areas in systematic biology.
 
 ## Morphological Species Concept
 
@@ -31,8 +31,8 @@ DNA-based methods have revolutionized fungal taxonomy:
 
 - **ITS barcoding**: The Internal Transcribed Spacer (ITS) region of ribosomal DNA has been adopted as the official fungal DNA barcode. It provides species-level resolution for many groups but fails for some early-diverging lineages and complexes of recently diverged species.
 - **Multilocus sequencing**: Combining multiple gene regions (e.g., LSU, SSU, RPB1, RPB2, TEF1) provides greater resolution, especially for deeper phylogenetic relationships.
-- **Phylogenetic species concept**: Species are defined as monophyletic clades with significant statistical support. This is increasingly the standard in modern mycological taxonomy.
-- **Environmental DNA (eDNA)**: Metabarcoding of soil, water, and air samples reveals fungal diversity that has never been cultured or observed morphologically, dramatically expanding known diversity.
+- **Phylogenetic species concept**: Species are defined as monophyletic clades with significant statistical support. This is increasingly the standard in [[telluride-mushroom-festival-modern-mycological-culture]] taxonomy.
+- **[[fungal-dark-taxa-environmental-dna-sequencing]] (eDNA)**: Metabarcoding of soil, water, and air samples reveals [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] that has never been cultured or observed morphologically, dramatically expanding known diversity.
 
 ## Species Richness Estimates
 
@@ -40,7 +40,7 @@ Hawksworth (1991) estimated approximately 1.5 million fungal species globally ba
 
 ## Challenges in Tropical Regions
 
-Tropical regions harbor the greatest proportion of undescribed fungal species. The combination of high plant diversity, year-round growing conditions, and limited sampling effort means tropical fungal diversity is especially poorly known. Many tropical fungi fruit erratically or only during brief wet seasons, making inventory work difficult.
+Tropical regions harbor the greatest proportion of undescribed fungal species. The combination of high plant diversity, year-round growing conditions, and limited sampling effort means [[biodiversity-fungi-tropical-fungal-diversity]] diversity is especially poorly known. Many tropical fungi fruit erratically or only during brief wet seasons, making inventory work difficult.
 
 ## Practical Implications for Biodiversity Assessment
 
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

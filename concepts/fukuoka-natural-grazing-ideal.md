@@ -1,17 +1,18 @@
 ---
-title: Natural Grazing as the Ideal Livestock System
+title: fukuoka-factory-livestock-critique-natural-grazing-philosophy as the Ideal Livestock System
 created: 2026-04-28
 tags: [fukuoka, natural-farming, livestock, grazing, animal-husbandry]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
 # Natural Grazing as the Ideal Livestock System
 
-Under the precepts of natural farming, livestock farming takes the form of
+Under the precepts of [[comparison-natural-farming-vs-permaculture]], [[fukuoka-textdoc-natural-livestock-farming-open-grazing]] takes the form of
 open grazing. Cattle, pigs, and chickens fattened while free to roam at will
 on the open land under the sun's rays are a precious, irreplaceable source of
 food for man. The problem lies elsewhere, in the prejudiced view that sees
@@ -105,7 +106,7 @@ like small tractors that dig up the soil. Just sow some clover and grain in
 the turned soil, and with the cow and pig droppings, you should get a fine
 growth of pasturage.
 
-Once this pasture grass begins to flourish, then you should be able to raise
+Once this [[mollison-designers-tropical-pasture-grass-species-and-establishment]] begins to flourish, then you should be able to raise
 chickens, goats, and rabbits in the same way. This multi-species approach
 mirrors the diversity found in natural ecosystems, where different animals
 occupy different niches and contribute to the overall health of the system.

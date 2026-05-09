@@ -1,5 +1,5 @@
 ---
-title: Radionic Agriculture and Pesticide Alternatives
+title: tompkins radionic agriculture pesticides and Pesticide Alternatives
 created: 2026-04-26
 tags: [agriculture, parapsychology, alternative-medicine, pest-control]
 date: 2026-04-25
@@ -14,14 +14,14 @@ type: concept
 Radionics is a controversial field that proposes that disease in plants,
 animals, and humans can be diagnosed and treated through the detection
 and manipulation of subtle radiations emitted by all matter. The
-technique was adapted for agricultural use as a means of pest control
+technique was adapted for agricultural use as a means of [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]
 without chemical insecticides, operating on the principle that the
 molecular structure of a photograph resonates at the same frequencies
 as the objects it depicts.
 
 ## Origins with Albert Abrams
 
-The story begins with Dr. Albert Abrams, a San Francisco physician who
+The story begins with Dr. Albert Abrams, a [[shipibo-san-francisco-ceremonial-center-ucayali]] physician who
 trained at the University of Heidelberg. Abrams noticed that when a
 nearby X-ray apparatus was switched on, it dulled the resonant note he
 obtained from percussing a patient's abdomen. He discovered that nerve

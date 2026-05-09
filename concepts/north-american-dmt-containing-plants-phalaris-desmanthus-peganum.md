@@ -1,13 +1,13 @@
 ---
-title: "North American DMT-Containing Plants: Phalaris, Desmanthus, Peganum, and Passiflora"
+title: "growing-gourmet-north-american-reishi-species DMT-Containing Plants: Phalaris, Desmanthus, Peganum, and Passiflora"
 source: "halpern-m-hallucinogens-dissociative-agents-growing-in-us.md"
 tags: [dmt, psychotropic-plants, phalaris, desmanthus, peganum, passiflora, ayahuasca-analogs, tryptamines]
 created: 2026-05-08
 ---
 
 # North American [[ayahuasca]], several plants
-containing DMT or the necessary MAOIs for oral activity grow commonly throughout
-the United States. Halpern (2004) documented these species as locally available
+containing DMT or the necessary MAOIs for [[tihkal-oral-activity-mao-inhibition]] grow commonly throughout
+the [[dmt-containing-plants-united-states-halpern]]. Halpern (2004) documented these species as locally available
 sources of a Schedule I compound, raising both ethnobotanical and regulatory
 interest. The existence of these widely distributed plants represents an
 ongoing regulatory challenge, as they are largely unregulated yet contain
@@ -26,7 +26,7 @@ before the DMT-containing preparation.
 
 Native to the southeastern and midwestern US. Common ornamental vine bearing
 edible passionfruit. Contains **less than 1% MAOI by dry weight** — much milder
-than Peganum harmala. Widely available as a dietary supplement and herbal tea.
+than [[mckenna-food-gods-peganum-harmala-soma]]. Widely available as a dietary supplement and herbal tea.
 Its dual use as both a mild MAOI source and a common herbal remedy illustrates
 the difficulty of regulating plants based on psychoactive constituents.
 
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

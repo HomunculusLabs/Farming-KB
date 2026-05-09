@@ -22,7 +22,7 @@ sources:
 
 It is the most widely produced grain crop globally, with annual production exceeding 1.2 billion tonnes.
 
-The species is remarkable for its extreme morphological diversity, with varieties adapted to nearly every climate zone from the tropics to temperate regions.
+The species is remarkable for its extreme morphological diversity, with varieties adapted to nearly every [[holzer-climate-zone-microclimate-creation]] from the tropics to temperate regions.
 
 Maize serves as human food, animal feed, industrial raw material, and increasingly as a biofuel feedstock.
 
@@ -65,9 +65,9 @@ The United States, China, Brazil, Argentina, and Ukraine are the world's largest
 
 Maize is cultivated from 50°N to 50°S latitude, from sea level to over 3,000 meters elevation.
 
-Optimal growth requires 500–1,200 mm of annual rainfall and temperatures of 25–33°C during the growing season.
+Optimal growth requires 500–1,200 mm of annual rainfall and temperatures of 25–33°C during the [[savory-growing-season-and-non-growing-season-management]].
 
-Modern hybrid varieties typically mature in 90–120 days from planting to harvest.
+Modern [[cervantes-hybrid-varieties-types]] typically mature in 90–120 days from planting to harvest.
 
 Average grain yields range from 1–2 tonnes per hectare in subsistence systems to 10–12 tonnes under intensive management.
 
@@ -97,11 +97,11 @@ Its rapid growth and tall stature make it an effective windbreak and shade crop 
 
 Maize-legume intercropping systems, such as maize with beans or cowpea, are widespread in tropical smallholder agriculture.
 
-The large volume of crop residue returned to soil contributes organic matter and improves soil structure.
+The large volume of [[jadam-crop-residue-fertilizer]] returned to soil contributes [[hamilton-composting-and-organic-matter-management]] and improves soil structure.
 
 However, intensive monoculture maize production has been associated with soil degradation, nitrogen leaching, and pesticide runoff.
 
-Conservation agriculture practices, including no-till and cover cropping, are increasingly adopted to mitigate these impacts.
+Conservation agriculture practices, including no-till and [[fukuoka-clover-cover-cropping-soil-ecology]], are increasingly adopted to mitigate these impacts.
 
 ## Industrial Uses
 

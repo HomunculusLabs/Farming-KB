@@ -1,5 +1,5 @@
 ---
-title: Plant Tissue Systems Meristematic Ground Vascular and Dermal
+title: Plant Tissue Systems plant tissue systems meristematic ground vascular and dermal Vascular and Dermal
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -17,7 +17,7 @@ Meristematic tissue is the source of all new cells. Meristematic cells are small
 
 ### Apical Meristems
 
-Located at the tips of stems (shoot apical meristem) and just above root tips (root apical meristem). These produce cells for primary growth (increasing height and root length). Growth mostly occurs through cell elongation rather than cell division.
+Located at the tips of stems (shoot apical meristem) and just above root tips (root apical meristem). These produce cells for primary growth (increasing height and root length). Growth mostly occurs through [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] rather than cell division.
 
 Hormones signal shoot meristem tissue to produce cells in one direction (upward), while root meristem tissue grows in two directions (downward and outward).
 

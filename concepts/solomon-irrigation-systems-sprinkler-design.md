@@ -31,7 +31,7 @@ pattern, a sprinkler puts nearly ten times as much water on the
 perimeter as the center. Every point between receives a different amount.
 
 - **Oscillating sprinklers**: Among the worst for uniformity. The cam
-  mechanism has loose fit, causing the arm to pause at turnarounds,
+  mechanism has [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]], causing the arm to pause at turnarounds,
   putting too much water at pattern ends and too little above the
   sprinkler.
 - **Impact sprinklers**: The rocker arm puts too much water close to the
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

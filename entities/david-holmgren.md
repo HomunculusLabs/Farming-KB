@@ -31,8 +31,8 @@ David Holmgren (born 1955) is an Australian ecologist, ecological design enginee
 ## Key Contributions
 
 - **Co-founded Permaculture (1978):** As Mollison's student at the University of Tasmania, Holmgren co-authored "Permaculture One" — the foundational text of the movement.
-- **12 Permaculture Design Principles:** Articulated the canonical 12 principles that serve as the thinking tools for permaculture design: observe and interact, catch and store energy, obtain a yield, apply self-regulation and accept feedback, use and value renewable resources, produce no waste, design from patterns to details, integrate rather than segregate, use small and slow solutions, use and value diversity, use edges and value the marginal, creatively use and respond to change.
-- **Energy Descent Action Planning (EDAP):** Developed frameworks for communities to plan proactively for energy scarcity and climate change.
+- **12 Permaculture Design Principles:** Articulated the canonical 12 principles that serve as the thinking tools for permaculture design: [[holmgren-observe-and-interact-detailed]], [[permaculture-principle-catch-and-store-energy]] energy, obtain a yield, apply self-regulation and accept feedback, use and value renewable resources, [[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]], [[permaculture-principle-design-from-patterns-to-details]] to details, [[permaculture-principle-integrate-rather-than-segregate]] than segregate, use small and slow solutions, use and value diversity, use edges and value the marginal, creatively use and respond to change.
+- **Energy [[energy-descent-action-planning]] Planning (EDAP):** Developed frameworks for communities to plan proactively for energy scarcity and climate change.
 - **RetroSuburbia:** Advocated for transforming existing suburban landscapes into productive, resilient food systems — making permaculture accessible to non-rural populations.
 
 ## Major Works
@@ -50,6 +50,9 @@ Holmgren sees permaculture not merely as a gardening technique but as a design s
 Holmgren's Melliodora property in Hepburn, Victoria serves as a living demonstration of permaculture design — a 1-hectare property producing food, timber, and water while building soil. His principles framework has become the standard curriculum in PDC courses worldwide.
 
 ## See Also
+
+- [[holmgren-long-rotation-forestry-slow-growth]]
+- [[holmgren-renewability-versus-durability-building]]
 
 - [[permaculture-principles]] — The 12 design principles in detail
 - [[permaculture-design]] — Design methodology
@@ -76,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

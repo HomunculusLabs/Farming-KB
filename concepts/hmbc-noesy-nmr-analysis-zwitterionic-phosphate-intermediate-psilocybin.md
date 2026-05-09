@@ -1,5 +1,5 @@
 ---
-title: HMBC and NOESY NMR Analysis of Zwitterionic Phosphate Intermediate
+title: HMBC and hmbc noesy nmr analysis zwitterionic phosphate intermediate psilocybin Analysis of intramolecular-benzyl-migration-zwitterionic-phosphate-psilocybin-synthesis Intermediate
 source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
 tags: [NMR, HMBC, NOESY, zwitterionic, phosphate-intermediate, psilocybin-synthesis, 2D-NMR, structural-elucidation, shirota, spectroscopy]
 created: 2026-05-08
@@ -9,7 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-A key discovery in Shirota, Hakamata, and Goda's 2003 synthesis of psilocybin was the identification of an unexpected zwitterionic N,O-dibenzyl phosphate derivative (compound 8) formed during the phosphorylation of psilocin. The structural elucidation of this compound relied on two-dimensional NMR techniques — specifically HMBC (Heteronuclear Multiple Bond Correlation) and NOESY (Nuclear Overhauser Effect Spectroscopy) — which revealed an intramolecular benzyl migration from oxygen to nitrogen that had not been previously characterized. This page examines the NMR methodology used and the structural insights it provided.
+A key discovery in Shirota, Hakamata, and Goda's 2003 synthesis of psilocybin was the identification of an unexpected zwitterionic N,O-dibenzyl phosphate derivative (compound 8) formed during the phosphorylation of psilocin. The structural elucidation of this compound relied on two-dimensional NMR techniques — specifically HMBC (Heteronuclear Multiple Bond Correlation) and NOESY (Nuclear Overhauser Effect Spectroscopy) — which revealed an [[shirota-zwitterion-discovery-intramolecular-benzyl-migration-phosphorylation]] migration from oxygen to nitrogen that had not been previously characterized. This page examines the NMR methodology used and the structural insights it provided.
 
 ## The Discovery
 
@@ -78,7 +78,7 @@ The conversion of the O,O-dibenzyl phosphate (7) to the zwitterionic N,O-dibenzy
 
 ### Why This Matters
 
-The zwitterionic intermediate was the key to the synthesis's success. Its insolubility in dichloromethane made it possible to isolate it by simple filtration on a large scale, avoiding the need for column chromatography:
+The [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]] was the key to the synthesis's success. Its insolubility in dichloromethane made it possible to isolate it by simple filtration on a large scale, avoiding the need for column chromatography:
 
 > "The zwitterionic nature of 8 made possible its large-scale isolation by filtration, in over 85% yield, since the excess remaining dibenzyl phosphate was removed by washing with CH₂Cl₂."
 
@@ -92,7 +92,7 @@ This is a rare example of a synthetic intermediate's zwitterionic character bein
 |---------|-------------|-------------|------------|
 | 7.56–7.45 | m | 5H | NCH₂C₆H₅ (aromatic) |
 | 7.31–7.20 | m | 5H | OCH₂C₆H₅ (aromatic) |
-| 7.12 | d (J=7.8 Hz) | 1H | H-7 (indole) |
+| 7.12 | d (J=7.8 Hz) | 1H | H-7 ([[indole]]) |
 | 7.10 | br s | 1H | H-2 (indole) |
 | 7.09 | d (J=7.8 Hz) | 1H | H-5 (indole) |
 | 7.01 | t (J=7.8 Hz) | 1H | H-6 (indole) |

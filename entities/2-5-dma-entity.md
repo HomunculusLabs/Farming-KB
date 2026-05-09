@@ -9,7 +9,7 @@ sources:
 ---
 # 2,5-DMA
 
-2,5-DMA (2,5-Dimethoxyamphetamine; DMA) is an amphetamine derivative that serves as a critical precursor to several potent psychedelic compounds.
+2,5-DMA (2,5-Dimethoxyamphetamine; DMA) is an amphetamine derivative that serves as a critical precursor to several potent [[psychedelic-compounds-reference]].
 
 It is documented as entry #54 in PiHKAL by [[doc-entity]]|DOC, and don-entity|DON.
 
@@ -49,7 +49,7 @@ Among all DMA isomers, only 2,5-DMA has achieved significant commercial producti
 
 ## Legal Status
 
-2,5-DMA is classified as a Schedule I controlled substance in the United States.
+2,5-DMA is classified as a Schedule I controlled substance in the [[dmt-containing-plants-united-states-halpern]].
 
 Its primary legal significance is as a listed precursor for the synthesis of more potent psychedelic amphetamines.
 
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

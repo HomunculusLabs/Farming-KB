@@ -9,7 +9,7 @@ updated: 2026-05-06
 
 # 5-MeO-DMT
 
-5-Methoxy-N,N-dimethyltryptamine (5-MeO-DMT) is a powerful naturally occurring psychedelic tryptamine compound found in a wide variety of plant species and in the venom of the Colorado River toad (Incilius alvarius). First synthesized in 1936 by Japanese chemists Toshio Hoshino and Kenya Shimodaira, it is one of the most potent serotonergic psychedelics known, with subjective effects that are qualitatively distinct from those of N,N-DMT and psilocybin. 5-MeO-DMT produces an overwhelming, short-duration experience typically described as a "whiteout" or "void" state characterized by complete ego dissolution, ineffable bliss, and a sense of merging with fundamental reality. Its extreme potency (active dose 5–15 mg vaporized) and rapid onset (seconds) have made it increasingly popular in underground psychedelic communities, while also raising significant safety concerns. The compound has shown preliminary clinical promise for treating depression, anxiety, and substance use disorders in emerging research.
+5-Methoxy-N,N-dimethyltryptamine (5-MeO-DMT) is a powerful naturally occurring psychedelic tryptamine compound found in a wide variety of plant species and in the venom of the Colorado River toad (Incilius alvarius). First synthesized in 1936 by Japanese chemists Toshio Hoshino and Kenya Shimodaira, it is one of the most potent serotonergic psychedelics known, with subjective effects that are qualitatively distinct from those of N,N-DMT and psilocybin. 5-MeO-DMT produces an overwhelming, short-duration experience typically described as a "whiteout" or "void" state characterized by complete [[psilocybin-ego-dissolution-mechanisms]], ineffable bliss, and a sense of merging with fundamental reality. Its extreme potency (active dose 5–15 mg vaporized) and rapid onset (seconds) have made it increasingly popular in underground psychedelic communities, while also raising significant safety concerns. The compound has shown preliminary clinical promise for treating depression, anxiety, and substance use disorders in emerging research.
 
 ## Chemical Identity
 
@@ -36,7 +36,7 @@ N-methyltransferase (TNMT).
 | Incilius alvarius (Colorado River toad) | Parotoid venom | 5–15% dried | Sonoran Desert |
 | Virola theiodora | Bark resin | 0.1–0.5% | Amazon Basin |
 | Virola surinamensis | Bark resin | 0.1–0.3% | N. South America |
-| Anadenanthera peregrina (yopo) | Seeds | 0.01–0.05% | Caribbean/S. America |
+| [[yopo-anadenanthera-peregrina-snuff]] (yopo) | Seeds | 0.01–0.05% | Caribbean/S. America |
 | Anadenanthera colubrina (vilca) | Seeds | 0.01–0.05% | South America |
 | Phalaris aquatica | Aerial parts | Trace | Worldwide |
 
@@ -115,7 +115,7 @@ to other psychedelics.
   derealization, prolonged dissociation. History of psychosis = extreme caution
 - **Toad venom sourcing:** Collection raises animal welfare concerns.
   Synthetic production is strongly preferred
-- **Harm reduction:** Vaporization temperature control critical (170–190 °C).
+- **[[adverse-effects-and-harm-reduction-psilocybin]]:** Vaporization temperature control critical (170–190 °C).
   Always have a sober sitter present
 
 ## Clinical Research
@@ -123,21 +123,24 @@ to other psychedelics.
 An observational study (Davis et al., 2019) of 362 participants using
 5-MeO-DMT in ceremonial group settings found significant reductions in
 depression and anxiety sustained at 4-week follow-up, with effect sizes
-comparable to psilocybin clinical trials. Preliminary evidence suggests
+comparable to psilocybin [[mushroom-cancer-clinical-trials-overview]]. Preliminary evidence suggests
 rapid reduction in PTSD symptoms and substance craving. Neuroimaging studies
-suggest rapid and sustained reductions in default mode network activity.
+suggest rapid and sustained reductions in [[psilocybin-default-mode-network-ego-dissolution]] network activity.
 
 ## Legal Status
 
 | Region | Status | Notes |
 |--------|--------|-------|
-| United States | Schedule I | Illegal to possess, manufacture, or distribute |
+| [[dmt-containing-plants-united-states-halpern]] | Schedule I | Illegal to possess, manufacture, or distribute |
 | Canada | Schedule III | Controlled substance |
 | United Kingdom | Class A | Misuse of Drugs Act |
 | Australia | Schedule 9 | Prohibited |
 | Mexico | Unregulated (2024) | Toad retreats in legal gray area |
 
 ## See Also
+
+- [[2c-p]]
+- [[ayahuasca-pharmacology-maoi-interactions]]
 
 - [[turner-essential-psychedelics-5-meo-dmt-void-experience]]
 - [[brain-neuroscience-and-psychedelic-mechanism]]

@@ -28,10 +28,10 @@ soils.
 Fungi play a critical and often underappreciated role in the global carbon
 cycle, serving as both decomposers that release carbon dioxide and as
 ecosystem engineers that lock carbon into soil for decades or centuries.
-Understanding how fungi sequester carbon is essential for climate change
+Understanding how fungi sequester carbon is essential for [[dighton-fungi-climate-change-feedback]]
 mitigation strategies, regenerative agriculture, and [[symbiotic-fungi-mycorrhizal-carbon-trading]].
 In exchange for nutrients and water, plants send sugars and lipids down into
-the soil through their roots, where [[glomalin-and-soil-carbon]], a glycoprotein exuded by arbuscular mycorrhizal
+the soil through their roots, where [[glomalin-and-soil-carbon]], a glycoprotein exuded by [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]]
 fungi. Glomalin acts as a biological glue that binds soil particles together
 into stable aggregates, simultaneously improving soil structure and protecting
 the carbon contained within those aggregates from microbial attack. Research
@@ -43,13 +43,13 @@ fungi, the fungal hyphae colonize the biochar's porous structure, creating a
 stable habitat that protects both the fungal carbon and the biochar carbon
 from degradation. This synergistic relationship enhances the long-term carbon
 storage capacity of biochar-amended soils while simultaneously improving plant
-nutrient availability through the fungal network.
+[[ph-and-nutrient-availability-garden-soils]] through the fungal network.
 
 Saprotrophic fungi also contribute to carbon sequestration, though in a more
 complex way. While decomposition by white-rot and brown-rot fungi releases
 carbon dioxide in the short term, it also converts a portion of the carbon
 into recalcitrant humic substances that resist further breakdown. The
-[[wood-wide-web]] of mycorrhizal connections
+ of mycorrhizal connections
 funnels enormous quantities of carbon from canopy trees into deep soil layers,
 where it becomes stabilized by mineral associations. Protecting and restoring
 these fungal networks through reduced tillage, cover cropping, and minimizing
@@ -65,17 +65,17 @@ of stable soil organic matter. Research comparing conventional tillage with
 no-till systems consistently shows significantly higher soil carbon stocks in
 no-till soils, with mycorrhizal fungi playing a central role in this
 difference. The integration of perennial crops and agroforestry systems further
-enhances fungal carbon sequestration by providing continuous root networks
+enhances fungal [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] providing continuous root networks
 that sustain mycorrhizal populations year-round.
 
-The role of fungi in the global nitrogen cycle also indirectly affects carbon
+The role of fungi in the global [[query-how-does-the-nitrogen-cycle-work-in-a-garden]] also indirectly affects carbon
 sequestration. Mycorrhizal fungi help plants access organic nitrogen sources
 that would otherwise remain unavailable, reducing the need for synthetic
 nitrogen fertilizers that stimulate microbial decomposition of existing soil
 carbon. When synthetic nitrogen is applied, it often accelerates the
 decomposition of stable soil organic matter through a priming effect, actually
 releasing more carbon than the plant biomass added. By facilitating more
-efficient nitrogen cycling through biological pathways, fungal networks help
+efficient [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]] through biological pathways, fungal networks help
 maintain the soil carbon that would otherwise be lost to stimulated
 decomposition.
 

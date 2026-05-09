@@ -16,7 +16,7 @@ sources:
 
 # Brugmansia versicolor
 
-**Brugmansia versicolor** Lagerh., commonly known as the angel's trumpet or the white angel's trumpet, is a large, woody shrub or small tree in the family Solanaceae. It is native to the coastal and Andean regions of Ecuador and is one of the most spectacular flowering plants in the genus *Brugmansia*. Like all *Brugmansia* species, it contains potent tropane alkaloids and has a significant history of use in traditional South American medicine and shamanic practice. The species is endangered in the wild but widely cultivated as an ornamental plant worldwide.
+**Brugmansia versicolor** Lagerh., commonly known as the angel's trumpet or the white angel's trumpet, is a large, woody shrub or small tree in the family Solanaceae. It is native to the coastal and Andean regions of Ecuador and is one of the most spectacular flowering plants in the genus *Brugmansia*. Like all *Brugmansia* species, it contains potent tropane alkaloids and has a significant history of use in traditional [[chiric-caspi-brunfelsia-south-american-hallucinogen]] medicine and shamanic practice. The species is endangered in the wild but widely cultivated as an ornamental plant worldwide.
 
 ## Taxonomy and Description
 
@@ -42,11 +42,11 @@ The natural habitat of *Brugmansia versicolor* has been severely reduced by defo
 
 ## Chemistry
 
-*Brugmansia versicolor* contains tropane alkaloids typical of the Solanaceae, with scopolamine (hyoscine) and hyoscyamine as the principal constituents. The alkaloid profile is generally similar to other *Brugmansia* species, though the relative proportions of scopolamine and hyoscyamine can vary between populations, individuals, and plant parts. Total tropane alkaloid content of the leaves typically ranges from 0.1% to 0.5% of dry weight, with some analyses reporting values up to 1.0% in seed material.
+*Brugmansia versicolor* contains tropane alkaloids typical of the Solanaceae, with [[scopolamine]] (hyoscine) and [[hyoscyamine]] as the principal constituents. The alkaloid profile is generally similar to other *Brugmansia* species, though the relative proportions of scopolamine and hyoscyamine can vary between populations, individuals, and plant parts. Total tropane alkaloid content of the leaves typically ranges from 0.1% to 0.5% of dry weight, with some analyses reporting values up to 1.0% in seed material.
 
 All plant parts — leaves, flowers, seeds, stems, and roots — contain tropane alkaloids. The seeds tend to have the highest concentrations, followed by the leaves and flowers. Minor alkaloids that have been reported from *Brugmansia* species include norhyoscyamine, aposcopolamine, meteloidine, 3-alpha-tigloyloxytropane, and 3-alpha,6-beta-ditigloyloxytropane. The alkaloid content varies seasonally, with concentrations generally highest during active growth and flowering.
 
-The pharmacological properties and toxicity profile of *Brugmansia versicolor* are identical to those of other tropane alkaloid-containing solanaceous plants. These compounds are competitive antagonists of muscarinic acetylcholine receptors. Anticholinergic effects include mydriasis (dilated pupils), cycloplegia, tachycardia, xerostomia (dry mouth), anhidrosis (dry skin), urinary retention, intestinal hypomotility, hyperthermia, and at hallucinogenic doses, delirium, visual and auditory hallucinations, amnesia, and potentially fatal respiratory or cardiac arrest. The plant is extremely dangerous and has been responsible for numerous cases of severe and fatal poisoning worldwide, including cases resulting from accidental ingestion of the flowers or leaves by children or from deliberate ingestion for recreational or self-medication purposes.
+The pharmacological properties and toxicity profile of *Brugmansia versicolor* are identical to those of other tropane alkaloid-containing solanaceous plants. These compounds are competitive antagonists of muscarinic acetylcholine receptors. Anticholinergic effects include mydriasis (dilated pupils), cycloplegia, tachycardia, xerostomia (dry mouth), anhidrosis (dry skin), urinary retention, intestinal hypomotility, hyperthermia, and at hallucinogenic doses, delirium, visual and auditory hallucinations, amnesia, and potentially fatal respiratory or cardiac arrest. The plant is extremely dangerous and has been responsible for numerous cases of severe and fatal poisoning worldwide, including cases resulting from [[psilocybin-accidental-ingestion-australia]] of the flowers or leaves by children or from deliberate ingestion for recreational or self-medication purposes.
 
 ## Ethnobotanical and Traditional Use
 
@@ -58,7 +58,7 @@ Internal use involves the preparation of decoctions or infusions of the leaves o
 
 In Andean shamanic practice, *Brugmansia* species are among the most important plants used in the preparation of cimora and other Andean psychoactive brews. *Brugmansia versicolor* may be combined with *Trichocereus pachanoi* (San Pedro cactus) and other plants to produce complex entheogenic preparations used in healing ceremonies (mesadas). The addition of *Brugmansia* to San Pedro preparations is believed by curanderos to potentiate the visionary effects of the mescaline-containing cactus, facilitate deeper trance states, and provide access to specific spiritual realms. However, the tropane alkaloids also significantly increase the risk of dangerous anticholinergic reactions including hyperthermia, tachycardia, and delirium.
 
-The use of *Brugmansia* in Andean shamanism is declining as younger generations adopt Western medicine and as legal restrictions on the plant increase. However, traditional healers in rural communities of Ecuador and Peru continue to maintain knowledge of its preparation and use.
+The use of *Brugmansia* in Andean [[shamanism]] is declining as younger generations adopt [[fukuoka-eastern-western-medicine-healing-world-crisis]] and as legal restrictions on the plant increase. However, traditional healers in rural communities of Ecuador and Peru continue to maintain knowledge of its preparation and use.
 
 ## Cultivation
 
@@ -80,7 +80,7 @@ All *Brugmansia* species contain tropane alkaloids and share similar toxicity pr
 
 In Andean shamanism, *Brugmansia* species play a crucial role as additive plants (aditivos) in the preparation of psychoactive brews, most notably in the cimora and san pedro traditions of northern Peru and southern Ecuador. In these traditions, *Trichocereus pachanoi* (San Pedro cactus) serves as the primary psychoactive ingredient, providing mescaline, while *Brugmansia* species are added in small quantities to modify, intensify, or direct the visionary experience.
 
-Curanderos in the Huancabamba region of northern Peru prepare cimora by boiling slices of San Pedro cactus together with leaves, flowers, or bark of *Brugmansia* species (typically *B. versicolor* or *B. suaveolens* in the lowlands, or *B. sanguinea* in the highlands), along with a variety of other plants that may include *Datura* species, *Nicotiana rustica*, *Iochroma* species, *Isotoma longiflora*, *Cestrum* species, and various aromatic herbs.
+Curanderos in the Huancabamba region of northern Peru prepare cimora by boiling slices of San Pedro cactus together with leaves, flowers, or bark of *Brugmansia* species (typically *B. versicolor* or *B. suaveolens* in the lowlands, or *B. sanguinea* in the highlands), along with a variety of other plants that may include *Datura nicotiana rustica iana rustica*, *Iochroma* species, *Isotoma longiflora*, *Cestrum* species, and various aromatic herbs.
 
 The rationale for adding *Brugmansia* to the San Pedro brew is complex and reflects an sophisticated understanding of pharmacological synergies. The tropane alkaloids in *Brugmansia* are believed by curanderos to "open the gates" to deeper levels of consciousness, facilitate the perception of spiritual entities, provide protection against malevolent forces (protección), and enhance the curandero's ability to diagnose and treat illness. The practice also carries significant risk, as the combination of mescaline and tropane alkaloids can produce unpredictable and potentially dangerous physiological effects.
 
@@ -96,15 +96,15 @@ In spring, the plant is pruned back (removing dead and leggy growth), repotted i
 
 ## Pests, Diseases, and Problems
 
-*Brugmansia versicolor* is susceptible to a number of pests and diseases in cultivation.
+*Brugmansia versicolor* is susceptible to a number of [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] in cultivation.
 
 Common insect pests include whiteflies, aphids, spider mites, mealybugs, and thrips, all of which can cause significant damage if left uncontrolled.
 
 The two-spotted spider mite (Tetranychus urticae) is particularly problematic, as infestations can develop rapidly in hot, dry conditions.
 
-Fungal diseases include root rot (caused by Phytophthora and Pythium species), powdery mildew, and botrytis blight, particularly in humid conditions or when plants are overwatered.
+Fungal diseases include root rot (caused by Phytophthora and Pythium species), [[cervantes-powdery-mildew-prevention-treatment]], and botrytis blight, particularly in humid conditions or when plants are overwatered.
 
-Viral diseases, particularly Brugmansia mosaic virus and tobacco mosaic virus, can cause leaf mottling, distortion, and stunting.
+[[cervantes-viral-diseases-cannabis]], particularly Brugmansia mosaic virus and tobacco mosaic virus, can cause leaf mottling, distortion, and stunting.
 
 Regular inspection, good air circulation, proper watering, and the use of biological or chemical controls as needed are the best approaches to maintaining plant health.
 
@@ -120,11 +120,10 @@ In Ecuador, the species can be observed in its native habitat in protected areas
 
 ## Legal Status
 
-*Brugmansia versicolor* is not specifically listed as a controlled substance in most countries. However, its tropane alkaloid constituents (scopolamine, atropine/hyoscyamine) are regulated as prescription drugs in many jurisdictions. In the United States, several states (including Louisiana and Florida) have enacted restrictions on the cultivation or sale of *Brugmansia* species. The plant is not listed under the UN Convention on Psychotropic Substances. In Australia, all *Brugmansia* species are classified as Schedule 1 (prohibited) plants in some states, requiring a permit for possession or cultivation.
+*Brugmansia versicolor* is not specifically listed as a controlled substance in most countries. However, its tropane alkaloid constituents (scopolamine, [[atropine]]/hyoscyamine) are regulated as prescription drugs in many jurisdictions. In the United States, several states (including Louisiana and Florida) have enacted restrictions on the cultivation or sale of *Brugmansia* species. The plant is not listed under the UN Convention on Psychotropic Substances. In Australia, all *Brugmansia* species are classified as Schedule 1 (prohibited) plants in some states, requiring a permit for possession or cultivation.
 
 ## See Also
 
-- [[brugmansia-aurea]]
 - [[brugmansia-aurea]]
 - [[datura-stramonium]]
 - [[trichocereus-pachanoi]]

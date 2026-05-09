@@ -1,5 +1,5 @@
 ---
-title: Solomon Soil Temperature and Nighttime Plant Growth
+title: Solomon Soil solomon soil temperature and nighttime plant growth Plant Growth
 created: 2026-04-28
 tags: [soil-temperature, plant-growth, steve-solomon, climate, season-extension, germination]
 date: 2026-04-28
@@ -38,7 +38,7 @@ Solomon recommends using a soil thermometer rather than relying on air temperatu
 Soil temperature is strongly influenced by nighttime air temperatures. Even when daytime temperatures are warm enough for plant growth, cold nights can:
 
 - **Slow root growth**: Root metabolism declines sharply below 50 degrees Fahrenheit (10 degrees Celsius)
-- **Reduce nutrient uptake**: Phosphorus uptake is especially sensitive to cold soil, leading to phosphorus deficiency symptoms (purpling of leaves) even when adequate phosphorus is present
+- **Reduce nutrient uptake**: Phosphorus uptake is especially sensitive to cold soil, leading to [[query-how-to-fix-phosphorus-deficiency-in-cannabis]] symptoms (purpling of leaves) even when adequate phosphorus is present
 - **Limit top growth**: Plants allocate energy to root repair rather than foliage and fruit production
 - **Delay maturity**: The accumulated growing degree days needed for fruiting take longer to accumulate
 
@@ -80,10 +80,10 @@ Solomon warns against applying organic mulch too early in spring. While mulch co
 
 Soil temperature directly affects the microbial activity that makes nutrients available to plants:
 
-- **Nitrogen mineralization**: The conversion of organic nitrogen to plant-available forms is temperature-dependent. Cold soil means slow nitrogen release, potentially starving plants even when soil organic matter is adequate
+- **[[fungal-nitrogen-mineralization-pathways]]**: The conversion of organic nitrogen to plant-available forms is temperature-dependent. Cold soil means slow nitrogen release, potentially starving plants even when soil organic matter is adequate
 - **Phosphorus solubility**: Phosphorus becomes less available in cold soil, explaining the purpling of leaves commonly observed on early-planted tomatoes and corn
 - **Mycorrhizal activity**: Beneficial mycorrhizal fungi that extend root nutrient-absorbing capacity are inactive in cold soil
-- **Nitrogen fixation**: Legume root nodules fix atmospheric nitrogen less efficiently in cold soil
+- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]**: Legume root nodules fix atmospheric nitrogen less efficiently in cold soil
 
 ## Climate Considerations
 
@@ -95,7 +95,7 @@ Solomon distinguishes between gardeners in different climate zones:
 
 ## The COF Connection
 
-Solomon's Complete Organic Fertilizer is partially designed to compensate for reduced nutrient availability in cool soils. By providing nutrients in immediately plant-available forms (seedmeals, bone meal, rock minerals), COF bypasses the microbial mineralization bottleneck that limits nutrient supply in cold soil. This is one reason Solomon advocates COF rather than relying solely on compost, which releases nutrients only as fast as soil microbes can process it.
+Solomon's Complete [[complete-organic-fertilizer-cof-recipe-solomon]] is partially designed to compensate for reduced nutrient availability in cool soils. By providing nutrients in immediately plant-available forms (seedmeals, bone meal, rock minerals), COF bypasses the microbial mineralization bottleneck that limits nutrient supply in cold soil. This is one reason Solomon advocates COF rather than relying solely on compost, which releases nutrients only as fast as soil microbes can process it.
 
 ## Thermal Mass and Microclimates
 
@@ -104,7 +104,7 @@ Solomon encourages gardeners to exploit thermal mass effects for soil warming:
 - **Stone walls** south of beds absorb heat during the day and radiate it at night, moderating temperature swings
 - **Water barrels** placed near beds absorb daytime heat and release it slowly overnight, protecting nearby plants from cold
 - **Dark-colored surfaces** absorb more solar radiation, warming the soil beneath them faster
-- **Windbreaks** reduce evaporative cooling and protect cold-sensitive plants from chilling winds
+- **Windbreaks** reduce [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]] and protect cold-sensitive plants from chilling winds
 
 Even small microclimate modifications can shift soil temperature by several degrees, making the difference between successful and failed crops at the margins of a plant's temperature tolerance.
 
@@ -119,6 +119,8 @@ Understanding soil temperature allows more strategic succession planting:
 Solomon recommends keeping simple records of soil temperature and planting dates each year to develop site-specific planting calendars more reliable than generic regional guides.
 
 ## See Also
+
+- [[soil-temperature-plant-growth-rate-doubling-rule]]
 
 - [[solomon-seed-quality-and-germination-testing|Seed Germination Temperature]]
 - [[query-how-to-fix-phosphorus-deficiency-in-cannabis|Phosphorus Deficiency in Cold Soil]]

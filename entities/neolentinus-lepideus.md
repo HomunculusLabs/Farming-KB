@@ -22,7 +22,7 @@ sources:
   - "Corner, E.J.H. (1950). 'A Monograph of Lentinus and Allied Genera.' Annals of Botany Memoirs."
   - "Pegler, D.N. (2005). 'The genus Lentinus — a world monograph.' Kew Publishing."
   - "Hibbett, D.S. et al. (1997). 'Phylogenetic relationships of Lentinus and Neolentinus.' Mycologia 89(1): 33-43."
-  - "Rayner, A.D.M. & Boddy, L. (1988). 'Fungal Decomposition of Wood.' John Wiley & Sons."
+  - "Rayner, A.D.M. & Boddy, L. (1988). '[[dighton-fungal-decomposition-leaf-litter-dynamics]] of Wood.' John Wiley & Sons."
   - "https://www.firstnature.com/fungi/neolentinus-lepideus.php"
 ---
 
@@ -59,7 +59,7 @@ Key synonyms: *Agaricus lepideus* Fr. (1821, basionym), *Lentinus lepideus* (Fr.
 ## Distribution and Habitat
 
 *N. lepideus* has a **circumboreal distribution** across temperate and boreal regions of
-North America, Europe, and Asia, particularly common in the Pacific Northwest. Almost
+[[psilocybin-north-america-pacific-northwest]], Europe, and Asia, particularly common in the Pacific Northwest. Almost
 exclusively **lignicolous**, fruiting from dead or dying coniferous wood — especially
 Douglas-fir (*Pseudotsuga menziesii*), pine (*Pinus* spp.), spruce (*Picea* spp.), and
 larch (*Larix* spp.). Also fruits from treated timber including creosote-impregnated
@@ -101,8 +101,8 @@ lepideus* is rarely collected for food.
 ## Cultivation
 
 Not commercially cultivated but achieved experimentally on conifer sawdust substrates.
-Relatively slow mycelial growth compared to species like *Pleurotus ostreatus* or
-*Lentinula edodes*. Optimal growth at 20–25°C with 60–70% moisture content. Fruiting
+Relatively slow [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] compared to species like *Pleurotus ostreatus* or
+*[[staycare-lentinula-edodes-in-bioremediation]]*. Optimal growth at 20–25°C with 60–70% moisture content. Fruiting
 requires a cold shock and fresh air exchange.
 
 ## Permaculture Applications
@@ -111,7 +111,7 @@ requires a cold shock and fresh air exchange.
   coarse woody debris in temperate coniferous forest gardens.
 - **Wood preservation bioassay:** Useful organism for evaluating natural wood
   treatments and preservatives.
-- **Enzyme production:** Mycelial cultures on waste conifer sawdust produce
+- **[[ligninolytic-enzyme-production-bioremediation]]:** Mycelial cultures on waste conifer sawdust produce
   cellulases for compost tea or soil amendment.
 
 ## Similar Species
@@ -124,9 +124,12 @@ requires a cold shock and fresh air exchange.
 
 ## See Also
 
-- [[piptoporus-betulinus]] — birch polypore with similar lignicolous ecology
+- [[piptoporus-betulinus]] — [[iceman-otzi-birch-polypore-prehistoric-mushroom-use]] with similar lignicolous ecology
 - [[lentinula-edodes]] — cultivated shiitake, related agaricales
 
 ## See Also
 
-- [[edible-wild-mushrooms-foraging-guide]]
+- edible-wild-mushroom-guide
+- [[decomposition]]
+- [[forest-gardens]]
+- [[fungal-decomposition]]

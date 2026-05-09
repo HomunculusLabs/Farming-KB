@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [grow-lights, hid, cmh, hps, comparison, cannabis-lighting]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -12,11 +13,11 @@ type: comparison
 
 ## Overview
 
-CMH (Ceramic Metal Halide, also sold as LEC by some manufacturers) and HPS (High Pressure Sodium) are the two dominant HID (High Intensity Discharge) lighting technologies used in cannabis cultivation. Both produce light by ionizing gases inside an arc tube, but they differ significantly in spectrum, efficiency, and grow-cycle flexibility. CMH offers a broader, more balanced spectrum suitable for full-cycle grows, while HPS remains the industry benchmark for flowering performance and bud density.
+CMH (Ceramic Metal Halide, also sold as LEC by some manufacturers) and HPS (High [[cervantes-high-pressure-sodium-lighting]]) are the two dominant HID (High Intensity Discharge) lighting technologies used in [[query-how-does-no-till-cannabis-cultivation-work]]. Both produce light by ionizing gases inside an arc tube, but they differ significantly in spectrum, efficiency, and grow-cycle flexibility. CMH offers a broader, more balanced spectrum suitable for full-cycle grows, while HPS remains the industry benchmark for flowering performance and bud density.
 
 Choosing between CMH and HPS depends on several factors including grow phase requirements, budget, space constraints, and whether the grower values spectrum quality over raw flowering power. CMH has gained popularity in recent years as a middle ground between the low cost of HPS and the advanced spectrum control of LED systems. HPS, despite being the older technology, continues to dominate large-scale commercial flowering operations due to its unmatched ability to drive dense bud formation.
 
-Both technologies share HID characteristics: they require ballasts, produce significant heat, and use replaceable bulbs with finite lifespans. Neither matches LED systems for energy efficiency or spectrum tunability, but both remain popular for their lower upfront costs and proven track records in cannabis cultivation.
+Both technologies share HID characteristics: they require ballasts, produce significant heat, and use replaceable bulbs with finite lifespans. Neither matches LED systems for [[fukuoka-textdoc-energy-efficiency-agricultural-labor]] or spectrum tunability, but both remain popular for their lower upfront costs and proven track records in cannabis cultivation.
 
 This comparison helps growers choose between these proven HID options based on their goals, budget, and setup constraints.
 
@@ -35,7 +36,7 @@ This comparison helps growers choose between these proven HID options based on t
 **Weaknesses:**
 
 - Narrow spectrum that performs poorly for vegetative growth
-- Requires a separate MH lamp for vegetative phase or a dual-fixture setup
+- Requires a separate MH lamp for [[green-cannabis-grow-bible-vegetative-phase-management]] or a dual-fixture setup
 - Significant heat output demanding robust ventilation
 - Bulb replacement needed every 6–12 months for peak performance
 - No UV output, missing potential trichome stimulation benefits
@@ -81,14 +82,16 @@ This comparison helps growers choose between these proven HID options based on t
 
 Many experienced growers combine both technologies for optimal results across the full grow cycle. A common hybrid setup uses CMH fixtures for the vegetative phase (leveraging the broader spectrum for vigorous growth) and then switches to HPS for the flowering phase (capitalizing on the proven bud-boosting spectrum). This approach maximizes the strengths of each technology while mitigating their individual weaknesses.
 
-Some growers also run a single CMH fixture alongside HPS in flowering to add UV and broader spectrum wavelengths that complement the HPS output. The CMH contribution can enhance terpene profiles and overall resin quality while the HPS drives the bulk of flower mass development. This mixed-light strategy has become increasingly popular among growers who want HPS-level yields with improved quality characteristics.
+Some growers also run a single CMH fixture alongside HPS in flowering to add UV and broader spectrum wavelengths that complement the HPS output. The CMH contribution can enhance [[cannabis-terpene-profiles-sativa]] and overall resin quality while the HPS drives the bulk of flower mass development. This mixed-light strategy has become increasingly popular among growers who want HPS-level yields with improved quality characteristics.
 
 When designing a hybrid system, consider that each technology requires its own ballast type. CMH uses electronic ballasts specifically designed for its operating characteristics, while HPS can use either magnetic or digital ballasts. Planning your electrical infrastructure for both types from the start simplifies the transition between phases.
 
 ## See Also
 
+- [[comparison-hps-vs-cmh]]
+
 - [[hps-grow-lights]] — Comprehensive overview of high pressure sodium grow lighting
-- [[cannabis-light-spectrum-and-color-bands]] — Understanding light spectrum for cannabis cultivation
+- [[cannabis-light-spectrum-and-color-bands]] — Understanding [[cannabis-light-spectrum-and-color-bands]] for cannabis cultivation
 - [[knf-vegetative-growth-stage]] — Vegetative phase lighting considerations
 - [[cannabis-flowering-stage-management]] — Flowering phase lighting optimization
 

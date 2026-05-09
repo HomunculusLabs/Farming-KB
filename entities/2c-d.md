@@ -27,9 +27,9 @@ It was first synthesized by Alexander Shulgin and is documented in entry #47 of 
 
 Shulgin himself reportedly considered 2C-D his favorite psychedelic for its controllable nature and lack of overwhelming sensory distortion.
 
-The compound is primarily used for recreational and spiritual purposes, though it has limited recognition in clinical research settings.
+The compound is primarily used for recreational and spiritual purposes, though it has limited recognition in [[hofmann-lsd-clinical-research-early-studies]] settings.
 
-Its legal status varies by jurisdiction, with scheduling in several countries including the US, UK, and Australia.
+Its [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction, with scheduling in several countries including the US, UK, and Australia.
 
 ## Chemical Properties
 
@@ -92,7 +92,7 @@ At higher doses, visual effects intensify and may include open-eye patterning, w
 
 2C-D was first synthesized by Alexander Shulgin during his systematic exploration of phenethylamine compounds in the 1970s–1980s.
 
-It is documented in PiHKAL entry #47, where Shulgin describes it as "pharmacologically uneventful" in its subtlety and controllability.
+It is documented in [[2c-b-pihkal-entry-20]] #47, where Shulgin describes it as "pharmacologically uneventful" in its subtlety and controllability.
 
 Shulgin's recommended dose range of 40–60 mg reflected the compound's relatively gentle character at the +2 level.
 
@@ -102,11 +102,11 @@ The compound remained obscure outside dedicated psychonaut communities until the
 
 Within the psychedelic community, it is sometimes called "2C-Delicious" for its pleasant and manageable subjective profile.
 
-The compound has not been the subject of formal clinical trials, though its pharmacological properties have been characterized in preclinical research.
+The compound has not been the subject of formal [[mushroom-cancer-clinical-trials-overview]], though its pharmacological properties have been characterized in preclinical research.
 
 ## Legal Status
 
-2C-D is classified as a Schedule I controlled substance in the United States under the Controlled Substances Act.
+2C-D is classified as a Schedule I controlled substance in the [[dmt-containing-plants-united-states-halpern]] under the Controlled [[controlled-substances-act-and-psychedelic-research]].
 
 In the United Kingdom, it is a Class A controlled drug under the Misuse of Drugs Act 1971 and the Psychoactive Substances Act 2016.
 

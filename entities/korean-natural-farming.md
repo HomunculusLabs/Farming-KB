@@ -1,5 +1,5 @@
 ---
-title: Korean Natural Farming (KNF)
+title: Korean comparison-natural-farming-vs-permaculture (KNF)
 type: species
 tags:
   - permaculture
@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Cho, H.K. (2009). Korean Natural Farming: Indigenous Microorganisms and Vital Power of Crops. Master Cho's Global Natural Farming.
+  - Cho, H.K. (2009). Korean Natural Farming: beneficial-indigenous-microorganisms-bim and Vital Power of Crops. Master Cho's Global Natural Farming.
   - Drake, M. & Drake, J. (2014). "Korean Natural Farming Handbook." Cho Global Natural Farming.
   - Patel, H. et al. (2019). "Korean Natural Farming: A sustainable approach to agriculture." Indian Journal of Agricultural Sciences, 89(4), 604-610.
   - Joshi, D. et al. (2020). "Indigenous Microorganisms (IMO) technology of Korean Natural Farming." Journal of Soil Science and Plant Nutrition, 20(2), 839-850.
@@ -24,7 +24,7 @@ created: 2026-04-28
 
 Korean Natural Farming (KNF) is a sustainable agricultural system developed by **Master Han Kyu Cho** (born 1935) in the 1960s in South Korea. The methodology is built on the principle of working with nature rather than against it — utilizing locally sourced, naturally occurring microorganisms, plant extracts, and minerals to build soil health, enhance crop nutrition, and manage pests and diseases without synthetic chemical inputs.
 
-KNF is part of a broader family of indigenous microorganism (IMO)-based farming systems found across East Asia, sharing philosophical and practical roots with Japanese natural farming (Masanobu Fukuoka), effective microorganisms (EM; Teruo Higa), and Chinese traditional ecological agriculture. However, KNF is distinguished by its specific preparation methods, codified input system, and emphasis on fermentation-based nutrient management.
+KNF is part of a broader family of indigenous microorganism (IMO)-based farming systems found across East Asia, sharing philosophical and practical roots with Japanese natural farming (Masanobu Fukuoka), [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]] (EM; Teruo Higa), and Chinese traditional ecological agriculture. However, KNF is distinguished by its specific preparation methods, codified input system, and emphasis on fermentation-based [[green-cannabis-grow-bible-nutrient-management-ppm]].
 
 ## Core Philosophy
 
@@ -39,7 +39,7 @@ KNF is guided by several foundational principles:
 
 ## The Input System
 
-KNF uses a structured system of fermented preparations called "inputs." The core inputs form the acronym **OHN** (Oriental Herbal Nutrient) and include several categories:
+KNF uses a structured system of fermented preparations called "inputs." The core inputs form the acronym **OHN** ([[bionutrients-lab-oriental-herbal-nutrients-ohn]] Nutrient) and include several categories:
 
 ### Indigenous Microorganisms (IMO)
 
@@ -73,7 +73,7 @@ Made from fish waste (heads, bones, viscera) fermented with brown sugar at 1:1 r
 
 ### Lactic Acid Bacteria Serum (LAB)
 
-Produced by fermenting rice wash water with milk. *Lactobacillus* spp. outcompete other microorganisms during fermentation. LAB strengthens plant immunity, enhances nutrient cycling, and suppresses pathogenic organisms.
+Produced by fermenting rice wash water with milk. *Lactobacillus* spp. outcompete other microorganisms during fermentation. LAB strengthens plant immunity, enhances [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and suppresses pathogenic organisms.
 
 ### Water-Soluble Calcium (WCA)
 
@@ -138,10 +138,11 @@ KNF principles have been adapted for:
 - **Reforestation:** IMO application to degraded land accelerates soil restoration
 - **Urban farming:** Container and rooftop gardens using simplified KNF input systems
 
-## Comparison with Other Systems
-
 ## See Also
 
 - [[effective-microorganisms-em]] — Teruo Higa's microbial inoculant system
 - [[regenerative-agriculture]] — Broader regenerative farming movement
-- [[permaculture]] — Holistic design system for sustainable human habitats
+- permaculture — Holistic design system for sustainable human habitats
+- [[natural-farming]]
+- [[lactobacillus]]
+- [[decomposition]]

@@ -1,5 +1,5 @@
 ---
-title: Panaeolus Subbalteatus Taxonomy and Intoxication History
+title: gartz panaeolus subbalteatus taxonomy and intoxication history Taxonomy and Intoxication History
 created: 2026-04-28
 tags: [Panaeolus-subbalteatus, taxonomy, dung-mushrooms, psilocybin, intoxication,
       alkaloid-content, spore-print, habitat, European-mushrooms, mycology]
@@ -11,7 +11,7 @@ type: concept
 
 # [[gartz-global-psilocybin-mushroom-distribution]] is the most important psychoactive European
 species among the genus, with a long and controversial history of
-identification and chemical analysis.
+identification and [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]].
 
 ## Historical Intoxication Cases
 
@@ -79,7 +79,7 @@ stains is very rare overall.
 
 Stijve concluded that dried fruiting bodies contain about 0.1% [[baeocystin]]. However, dried
 mushrooms from the Pacific Northwest have been reported to contain 0.16% to
-0.65% psilocybin. The first North American analyses (1959) led to isolation of
+0.65% psilocybin. The first [[growing-gourmet-north-american-reishi-species]] analyses (1959) led to isolation of
 a water-soluble indole compound now generally thought to be baeocystin.
 
 More recent studies of carefully identified European material did not document
@@ -100,11 +100,11 @@ found none.
 ## Ecological Role and Significance
 
 Panaeolus species are primarily dung-inhabiting mushrooms that play an
-important ecological role in nutrient cycling. They colonize herbivore dung and
+important ecological role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. They colonize herbivore dung and
 rapidly decompose it, returning nutrients to the soil. Their preference for
 nutrient-rich substrates explains their frequent appearance on compost heaps,
 fertilized fields, and cultivated mushroom beds. The genus belongs to the
-Coprinaceae family of dark-spored mushrooms, related to the ink caps.
+Coprinaceae family of dark-spored mushrooms, related to the [[bloomfield-coprinus-ink-caps-deliquescence-coprine]].
 
 ## Detection Challenges
 

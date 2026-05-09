@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [entheogen, safety, reference, community, culture, preparation, cultivation, beginner, methods, species]
-sources: []
+sources:
+  sources: []
 ---
 
 # Entheogen Vendors and Sources
@@ -62,7 +63,7 @@ Disclaimer: This page is for informational purposes only. Verify the legality of
 - Commonly found on eBay, Etsy, and specialty ethnobotanical shops
 - Cuttings are the most common propagation method (the plant rarely produces viable seeds)
 
-**Peganum harmala (Syrian Rue)**
+**[[mckenna-food-gods-peganum-harmala-soma]] (Syrian Rue)**
 - Seeds are widely available — sold as botanical specimens, dye material, and incense
 - Legal in the US and most countries
 - Available from herb shops, ethnobotanical suppliers, and online seed vendors
@@ -74,7 +75,7 @@ Disclaimer: This page is for informational purposes only. Verify the legality of
 - Sold as a dye material or botanical specimen
 - Availability fluctuates based on regulatory pressure
 
-**Amanita muscaria**
+**[[allegro-amanita-muscaria-properties-and-pharmacology]]**
 - Dried caps available from many online vendors
 - Legal in the US and most countries (not a controlled substance)
 - Also available as extracts and tinctures
@@ -87,7 +88,7 @@ Disclaimer: This page is for informational purposes only. Verify the legality of
 
 ## Mushroom Spore Vendors
 
-Psilocybin mushroom spores do not contain psilocybin or psilocin and are therefore legal to possess in most US states. They are sold for "microscopy research" or "educational purposes."
+[[emcdda-psilocybin-mushroom-dose-and-effects]] spores do not contain psilocybin or psilocin and are therefore legal to possess in most US states. They are sold for "microscopy research" or "educational purposes."
 
 ### Legal Status of Spores
 - **Legal**: Most US states (excluding California, Georgia, Idaho)
@@ -110,9 +111,9 @@ Psilocybin mushroom spores do not contain psilocybin or psilocin and are therefo
 
 ### Common Species Available
 - Psilocybe cubensis (dozens of named varieties: Golden Teacher, B+, Ecuador, Thai, etc.)
-- Psilocybe cyanescens (more specialized vendors)
-- Psilocybe semilanceata (rarely available commercially — mostly foraged)
-- Panaeolus cyanescens ("copelandia")
+- [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]] (more specialized vendors)
+- [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] (rarely available commercially — mostly foraged)
+- [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]] ("copelandia")
 - Gymnopilus species
 
 ## Extraction Chemical Suppliers
@@ -143,30 +144,6 @@ For those performing plant extractions (see [[dmt-extraction-guide]] and [[mesca
 - **Iboga**: Wild iboga harvesting is putting pressure on Gabonese forests. Seek sustainably cultivated sources
 - **Mimosa hostilis**: Brazilian harvesting has raised ecological concerns
 - **Salvia divinorum**: Wild populations in Oaxaca are limited — cultivate rather than wild-harvest
-
-### Cultural Respect
-- Many of these plants are sacred to indigenous communities
-- Commercial exploitation of traditional medicines raises ethical questions
-- Consider supporting indigenous communities and conservation efforts
-- Educate yourself on the cultural context before using these substances
-
-### Vendor Red Flags
-- Claims of "legal highs" or "designer drugs"
-- Products marketed for consumption that are sold as "not for human consumption"
-- No physical address or contact information
-- Poor reviews or no reviews
-- Prices significantly below or above market rate
-- Unsolicited advertising or aggressive marketing
-
-## Safety Considerations
-
-- Verify the identity of any plant material you receive
-- Start with low doses — potency varies enormously
-- Test substances with reagent tests when possible
-- Be aware of legal risks in your jurisdiction
-- Never consume unidentified plant material
-- See [[psychedelic-plants-legal-status]] for legal information by jurisdiction
-
 ## Related Topics
 
 - [[psychedelic-plants-legal-status]] — legal status of entheogens by jurisdiction

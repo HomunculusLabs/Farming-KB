@@ -44,13 +44,13 @@ Achenes are cylindrical, approximately 3–4 mm long, with a pappus of white bri
 
 ## Distribution and Habitat
 
-*Vernonia amygdalina* is native to tropical Africa, occurring from Senegal eastward to Ethiopia and southward to Angola, Mozambique, and South Africa. It has also been introduced to parts of Southeast Asia and the Caribbean.
+*Vernonia amygdalina* is native to tropical Africa, occurring from Senegal eastward to Ethiopia and southward to Angola, Mozambique, and South Africa. It has also been introduced to parts of [[psilocybe-southeast-asia-pacific]] and the Caribbean.
 
 The species thrives in a wide range of ecological zones, including Guinea savanna, Sudan savanna, and tropical rainforest margins. It is commonly found in disturbed habitats, forest clearings, and along roadsides.
 
 Elevation range extends from sea level to approximately 2,000 meters. The plant tolerates a variety of soil types but prefers well-drained, moderately fertile soils with pH 5.5–7.0.
 
-Annual rainfall requirements are 750–2,000 mm. It exhibits moderate drought tolerance once established, though growth is reduced under prolonged water stress.
+Annual rainfall requirements are 750–2,000 mm. It exhibits moderate [[dighton-fungal-drought-tolerance-plant-water-relations]] once established, though growth is reduced under prolonged water stress.
 
 ## Bioactive Compounds and Pharmacology
 
@@ -68,7 +68,7 @@ Hepatoprotective and antioxidant effects are attributed to the flavonoid fractio
 
 Anti-inflammatory activity has been confirmed through inhibition of cyclooxygenase-2 (COX-2) and nitric oxide production in macrophage cell models. These effects support the traditional use for arthritis and inflammatory conditions.
 
-Antimicrobial screening has shown activity against *Staphylococcus aureus*, *Escherichia coli*, *Candida albicans*, and *Aspergillus niger*. Methanolic leaf extracts generally demonstrate broader antimicrobial spectra than aqueous preparations.
+Antimicrobial screening has shown activity against *Staphylococcus aureus*, *Escherichia coli*, *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*, and *Aspergillus niger*. Methanolic leaf extracts generally demonstrate broader antimicrobial spectra than aqueous preparations.
 
 Immunomodulatory properties include enhancement of phagocytic activity and stimulation of lymphocyte proliferation. These effects may underpin the traditional use as a general tonic and immune booster.
 
@@ -86,15 +86,15 @@ Veterinary applications include use as a fodder supplement for ruminants. Despit
 
 ## Cultivation
 
-Propagation is primarily by stem cuttings of 15–25 cm length, planted directly into prepared beds at the onset of rains. Seed propagation is possible but less common due to variable germination rates.
+Propagation is primarily by stem cuttings of 15–25 cm length, planted directly into prepared beds at the onset of rains. [[jeavons-seed-propagation-techniques]] is possible but less common due to variable germination rates.
 
-Spacing of 50 cm × 50 cm to 1 m × 1 m is recommended depending on cultivation purpose. Closer spacing is used for leaf vegetable production, while wider spacing suits medicinal or seed production.
+Spacing of 50 cm × 50 cm to 1 m × 1 m is recommended depending on cultivation purpose. Closer spacing is used for leaf [[dry-gardening-unirrigated-vegetable-production-solomon]], while wider spacing suits medicinal or seed production.
 
 Leaf harvest begins 60–90 days after planting and continues for 3–5 years under managed conditions. Successive harvests at 4–6 week intervals are typical for vegetable production.
 
 Fertilizer requirements are modest. Application of 20–40 kg/ha nitrogen and 10–20 kg/ha phosphorus at planting improves yield without significantly altering the phytochemical profile.
 
-Major pests include leaf-mining flies and aphids, while fungal diseases such as powdery mildew can affect plants under humid conditions. Organic pest management with neem-based preparations is common.
+Major pests include leaf-mining flies and aphids, while fungal diseases such as [[cervantes-powdery-mildew-prevention-treatment]] can affect plants under humid conditions. Organic pest management with neem-based preparations is common.
 
 ## Nutritional Value
 

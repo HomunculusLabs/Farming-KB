@@ -16,7 +16,7 @@ sources: ["raw/papers/shulgin-a-pihkal.md"]
 
 ## Effects
 
-- Rich, integrative psychedelic experience described as combining qualities of MDMA-like warmth with mescaline-like visuals
+- Rich, integrative [[leary-psychedelic-experience-bardo-mapping]] described as combining qualities of MDMA-like warmth with mescaline-like visuals
 - "Wonderful God-space — similar to MDMA but more grounded"
 - Enhanced vocal freedom and musical expression
 - Deep emotional processing and self-reflection
@@ -39,7 +39,7 @@ This report highlights 2C-T-7's capacity for deep emotional processing combined 
 
 A striking endorsement from Shulgin, who had previously favored [[lsd-compound-profile]] flowing visuals, or into the warm earth world of Peyote, or I can stop them altogether. With closed eyes, there are Escher-like graphics with a lot of chiaroscuro, geometric patterns with oppositional play of sculptured light and dark values.
 
-The "adaptable" quality of the visuals at this dose level is unusual and suggests a uniquely flexible pharmacological profile. The ability to shift between the visual character of different classical psychedelics while retaining volitional control is a property not commonly reported with other compounds. For more on qualitative effects patterns see [[2c-family-compounds-overview]]. Specifically:
+The "adaptable" quality of the visuals at this dose level is unusual and suggests a uniquely flexible pharmacological profile. The ability to shift between the visual character of different classical psychedelics while retaining volitional control is a property not commonly reported with other compounds. For more on [[mdma-qualitative-effects-phenomenology]] patterns see [[2c-family-compounds-overview]]. Specifically:
 
 - **[[2c-t-2-compound-profile]]** — the compound 2C-T-7 was said to replace "in my heart"
 - **[[mescaline-compound-profile]]** — the original prototype phenethylamine psychedelic
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -5,7 +5,8 @@ tags: [query, duckweed, aquaculture, ponds]
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 type: query
 ---
 
@@ -16,7 +17,7 @@ type: query
 Duckweed can be used as a fast-growing aquatic plant that shades water, captures dissolved nutrients, and produces feed for animals or compost systems.
 In a permaculture pond, it works best as one managed layer inside a broader water system rather than as an uncontrolled surface blanket.
 The core page [[comparison-duckweed-vs-azolla]] helps distinguish it from another floating nitrogen-rich aquatic plant.
-Duckweed is most useful when you have a harvest plan, because its greatest strength is rapid biomass production.
+Duckweed is most useful when you have a harvest plan, because its greatest strength is rapid [[dighton-fungal-biomass-production-aquatic-ecosystems]].
 If you do not harvest it, the same rapid growth can reduce oxygen exchange and complicate pond ecology.
 
 ## Detailed Explanation
@@ -28,7 +29,7 @@ It absorbs nitrogen and phosphorus that might otherwise feed algae blooms.
 It shades the water column and can reduce light penetration to submerged algae.
 It creates a living interface between pond water, animal feed, compost, and garden fertility.
 The page [[backyard-pond-building]] gives general pond context that can help decide where a managed duckweed zone belongs.
-The page [[mollison-aquatic-polyculture-and-pond-culture]] is useful for thinking of ponds as layered polycultures.
+The page mollison-aquatic-polyculture-and-pond-culture is useful for thinking of ponds as layered polycultures.
 Duckweed should usually be part of a mosaic of open water, emergent plants, edge habitat, and harvestable biomass.
 A pond that is entirely covered with floating plants is rarely the most resilient design.
 
@@ -36,14 +37,14 @@ A pond that is entirely covered with floating plants is rarely the most resilien
 
 Ducks, chickens, some fish, and other livestock may eat duckweed when it is clean and fresh.
 It can be especially useful where poultry or fish systems are already integrated with water management.
-The page [[holzer-pond-shape-deep-shallow-zones]] are useful because pond shape affects water movement and edge function.
+The page [[holzer-pond-shape-deep-shallow-zones]] are useful because [[holzer-pond-shape-deep-shallow-zones]] affects water movement and edge function.
 A separate duckweed raceway or tub can be easier to manage than a whole-pond surface.
 If duckweed is repeatedly excessive, the pond is probably receiving more nutrients than the system can process.
 
 ### How does duckweed compare with azolla?
 
 Duckweed and azolla are both small floating plants that can produce abundant biomass.
-Azolla has a symbiosis with nitrogen-fixing cyanobacteria, while duckweed is mostly valued for nutrient uptake and feed production.
+Azolla has a symbiosis with nitrogen-fixing cyanobacteria, while duckweed is mostly valued for [[plant-nutrient-uptake-mechanisms]] and feed production.
 The comparison page [[comparison-green-manure-vs-cover-crops]] gives useful context for thinking about green biomass as fertility.
 The page [[comparison-rainwater-vs-greywater]] helps distinguish relatively clean water sources from reuse streams that need caution.
 Good design keeps drinking-water, wildlife, food-production, and waste-treatment functions from being confused.
@@ -87,3 +88,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[permaculture-duckweed]]

@@ -1,5 +1,5 @@
 ---
-title: Harmala Alkaloids and Ayahuasca Preparation
+title: Harmala harmala alkaloids and ayahuasca preparation Preparation
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -51,8 +51,8 @@ Intensity: 1-2 (mild). Not potent psychedelics when taken alone.
 ## Safety
 
 - **Harmala alkaloids are MAO inhibitors** — critical safety concerns with diet and medications. See [[mao-inhibitors-and-psychedelics]] — critical MAOI safety information
-- [[dmt-smoking-and-administration-methods]] — administration methods
-- [[psychedelic-safety-and-harm-reduction]] — harm reduction
+- [[dmt-smoking-and-administration-methods]] — [[cannabis-administration-methods-comparison]]
+- [[psychedelic-safety-and-harm-reduction]] — [[adverse-effects-and-harm-reduction-psilocybin]]
 - [[turner-psychedelic-combination-experience-reports]]
 - [[turner-harmala-psychedelic-potentiation-signature]]
 ## Practical Considerations
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,3 +114,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[ayahuasca-pharmacology-maoi-interactions]]

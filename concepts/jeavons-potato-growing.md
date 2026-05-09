@@ -1,5 +1,5 @@
 ---
-title: "Potato Growing: Irish and Sweet Potatoes"
+title: "hamilton-potato-growing-organic: Irish and Sweet Potatoes"
 created: 2026-04-28
 tags: [biointensive, potatoes, root-crops, seed-propagation, calorie-crops]
 date: 2026-04-28
@@ -30,14 +30,14 @@ to prevent rotting while encouraging root and shoot formation.
 
 When the seedlings are 7 to 9 inches tall, transplant them into the
 growing bed. A critical technique: plant them so at least 6 inches of
-the stem is beneath the soil surface. This deep planting encourages
+the stem is beneath the soil surface. This [[coleman-leek-deep-planting-technique]] encourages
 additional root formation along the buried stem, significantly
 increasing the harvest.
 
 ## Potatoes in the Crop Rotation
 
 In the [[jeavons-grain-growing-mini-farms]]
-like wheat ensures a balanced and sustainable calorie production
+like wheat ensures a balanced and sustainable [[solomon-self-sufficiency-calorie-production-economics]]
 system for any size mini-farm. Potatoes also provide significant
 vitamin C, potassium, and dietary fiber, making them nutritionally
 valuable beyond their caloric contribution.
@@ -47,7 +47,7 @@ valuable beyond their caloric contribution.
 Potatoes benefit from the [[jeavons-watering-technique]] ensures consistent moisture
 without waterlogging, which can cause rot and encourage disease. The
 [[jeavons-crop-rotation-detail]] principles is essential to prevent soil depletion and reduce
-pest and disease pressure in subsequent growing seasons. For planting
+[[hamilton-pest-and-disease-control-organic]] pressure in subsequent growing seasons. For planting
 spacing and yield expectations, consult the Master Charts in the
 source text.
 ## Practical Considerations
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

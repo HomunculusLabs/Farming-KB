@@ -10,7 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Brownstein, M.J. (1993). "A Brief History of Opiates, Opioid Peptides, and Opioid Receptors." PNAS 90(12): 5391-5393.
+  - Brownstein, M.J. (1993). "A turner-brief-history-psychedelics-ancient-to-modern of Opiates, Opioid Peptides, and Opioid Receptors." PNAS 90(12): 5391-5393.
   - Trescot, A.M. et al. (2008). "Opioid Pharmacology." Pain Physician 11(2S): S133-S153.
   - Lippincott, W. & Williams (2020). "Goodman & Gilman's The Pharmacological Basis of Therapeutics." 14th ed. McGraw-Hill.
   - United Nations Office on Drugs and Crime (2023). "World Drug Report." United Nations Publications.
@@ -27,7 +27,7 @@ The compound was first isolated in pure form by the German pharmacist Friedrich 
 
 Morphine remains the gold standard against which all other opioid analgesics are compared in clinical practice.
 
-It is classified as a Schedule II controlled substance in the United States under the Controlled Substances Act.
+It is classified as a Schedule II controlled substance in the [[dmt-containing-plants-united-states-halpern]] under the Controlled [[controlled-substances-act-and-psychedelic-research]].
 
 ## Chemical Properties
 
@@ -37,7 +37,7 @@ The IUPAC name is (4R,4aR,7S,7aR,12bS)-3-methyl-2,3,4,4a,7,7a-hexahydro-1H-4,12-
 
 The structure features a pentacyclic ring system consisting of a benzene ring fused to a partially hydrogenated isoquinoline with a bridged oxygen.
 
-Two hydroxyl groups at positions C-3 (phenolic) and C-6 (alcoholic) are critical for receptor binding and pharmacological activity.
+Two hydroxyl groups at positions C-3 (phenolic) and C-6 (alcoholic) are critical for [[tihkal-receptor-binding-serotonin]] and pharmacological activity.
 
 The phenolic C-3 hydroxyl is essential for μ-opioid receptor affinity, while modification of the C-6 hydroxyl alters pharmacokinetics.
 
@@ -51,7 +51,7 @@ Morphine acts primarily as a full agonist at μ-opioid receptors (MOR), with wea
 
 Activation of MOR in the central nervous system inhibits adenylyl cyclase, reduces calcium conductance, and increases potassium conductance.
 
-These actions hyperpolarize neurons in pain transmission pathways, particularly in the dorsal horn of the spinal cord and periaqueductal gray.
+These actions hyperpolarize neurons in pain transmission pathways, particularly in the dorsal horn of the [[blesching-cannabis-spinal-cord-injuries]] and periaqueductal gray.
 
 Morphine also activates MOR in the brainstem respiratory centers, producing dose-dependent respiratory depression that is the primary cause of fatal overdose.
 
@@ -71,7 +71,7 @@ Peak effect occurs at 45–90 minutes (oral) and 20–30 minutes (IV), with a pl
 
 Common side effects include constipation (nearly universal), nausea, vomiting, sedation, pruritus, and urinary retention.
 
-Respiratory depression is the most dangerous adverse effect, with a therapeutic index of approximately 70:1 for respiratory arrest.
+Respiratory depression is the most dangerous adverse effect, with a [[cannabis-therapeutic-index-overview]] of approximately 70:1 for respiratory arrest.
 
 Euphoria and dysphoria are both possible, with significant inter-individual variation based on genetic factors and prior opioid exposure.
 
@@ -113,6 +113,6 @@ Buprenorphine is a partial MOR agonist used in medication-assisted treatment for
 
 - [[mckenna-opium-history-demeter-poppy]]
 - [[ibogaine]]
-- [[mitragynine]]
+- mitragynine
 - [[psilocybin]]
 - [[5-meo-dmt-entity]]

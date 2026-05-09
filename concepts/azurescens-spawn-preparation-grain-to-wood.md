@@ -1,5 +1,5 @@
 ---
-title: Azurescens Spawn Preparation — Grain to Wood Transfer
+title: Azurescens azurescens spawn preparation grain to wood — Grain to Wood Transfer
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
@@ -10,7 +10,7 @@ sources:
 ---
 # Azurescens Spawn Preparation — Grain to Wood Transfer
 
-Producing reliable spawn for Psilocybe azurescens requires a multi-stage process: starting on agar, transferring to grain, and finally expanding onto sterilized wood chips. The wood chip stage is essential before outdoor inoculation — direct grain-to-outdoor-bed transfer is discouraged.
+Producing reliable spawn for [[stamets-psi-psilocybe-azurescens-species-guide]] requires a multi-stage process: starting on agar, transferring to grain, and finally expanding onto sterilized wood chips. The wood chip stage is essential before outdoor inoculation — direct grain-to-outdoor-bed transfer is discouraged.
 
 ## Why Wood Chip Spawn Over Direct Grain
 
@@ -18,7 +18,7 @@ Using colonized grain to directly inoculate outdoor beds is possible but not rec
 
 - **Pest attraction**: Grain attracts bugs and rodents, which consume the nutritious kernels
 - **Contamination risk**: Grain is more susceptible to contamination in outdoor environments than properly prepared wood chip spawn
-- **Substrate mismatch**: Wood chip spawn provides a more natural transition to the outdoor wood chip bed
+- **Substrate mismatch**: Wood chip spawn provides a more natural transition to the [[stamets-outdoor-wood-chip-bed-mycelium-transplantation]] chip bed
 - **Colonization advantage**: Mycelium already adapted to wood substrate colonizes outdoor beds faster
 
 ## Stage 1: Agar Culture
@@ -72,7 +72,7 @@ Two container options:
 - Fill autoclavable bags
 - Place rack in pressure cooker to prevent bags from blocking vent
 - Sterilize at 121C for **3 full hours** — do not cut corners
-- Cool in laminar flow cabinet
+- Cool in [[comparison-laminar-flow-hood-vs-fruiting-chamber]] cabinet
 
 ### Inoculation
 
@@ -103,7 +103,7 @@ Spawn is ready when:
 
 - **Never use contaminated cultures to inoculate new substrate**
 - A jar or bag with light contamination can be salvaged: place outdoors in a half-shaded location and check in autumn for mushrooms
-- Even discarded contaminated spawn (as little as 0.3 liters) near a compost pile has produced mushrooms
+- Even discarded contaminated spawn (as little as 0.3 liters) near a [[mushroom-cultivator-compost-pile-management]] has produced mushrooms
 - Bags carry higher contamination risk than jars; jars are preferred when possible
 
 ## Spawn Expansion Math
@@ -119,4 +119,4 @@ The system allows exponential expansion:
 - [[chen-maitake-strain-selection-spawn-preparation]]
 
 - [[azurescens-outdoor-bed-preparation-woodchips]] — using spawn to build outdoor beds
-- [[laminar-flow-hood-guide]] — sterile technique equipment
+- [[laminar-flow-hood-guide]] — [[cultivator-sterile-technique-and-agar-culture]] equipment

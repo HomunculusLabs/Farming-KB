@@ -1,5 +1,5 @@
 ---
-title: Mycelium Color and Fragrance Signatures
+title: growing gourmet mycelium color fragrance signatures and Fragrance Signatures
 created: 2026-04-26
 tags:
   - mycology
@@ -38,14 +38,14 @@ for distinguishing healthy growth from contamination.
 The color shared by the largest population of saprophytic
 mushrooms is white. Oyster (Pleurotus spp.), Shiitake
 ([[grifola-frondosa]]),
-King Stropharia (Stropharia rugoso-annulata), and most
+[[cotter-king-stropharia-cultivation]] (Stropharia rugoso-annulata), and most
 Psilocybe species all have whitish colored mycelium. However,
 some imperfect fungi like Monilia also produce whitish
 mycelium, requiring careful observation.
 
 ### Yellow, Orange, and Pink
 Nameko (Pholiota nameko) produces a white mycelial mat
-which soon yellows. Oyster mushrooms, particularly Pleurotus
+which soon yellows. [[query-how-to-grow-oyster-mushrooms-at-home]], particularly Pleurotus
 ostreatus, exude yellowish to orangish metabolites over time,
 sometimes seen as droplets on the surface or as excessive
 liquid collecting at the bottom of spawn containers.
@@ -85,7 +85,7 @@ rates of growth dictated by the passage of day to night.
 This sequence of color transformation defines the unique
 "personality" of each strain.
 
-The extraordinary Psilocybe mexicana, the sacramental
+The extraordinary [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]], the sacramental
 Teonanacatl of Mexico, produces what may be the most
 beautiful mycelium of all: initially white, then yellow,
 golden, brown, and sometimes streaked through with bluish
@@ -93,7 +93,7 @@ tones.
 
 ## The Universal Warning: Green
 
-Universally, the color green is bad in mushroom culture,
+Universally, the color green is bad in [[mazatec-mushroom-culture-and-velada]],
 usually indicating the presence of molds belonging to
 Penicillium, Aspergillus, or Trichoderma. Any green color
 on a culture plate warrants immediate investigation and
@@ -109,7 +109,7 @@ be known by a fragrance signature.
 ### Key Species Fragrances on Grain Spawn
   - Oyster mycelium: sweet, pleasant, slightly anise
   - Shiitake mycelium: reminiscent of fresh, crushed
-    Shiitake mushrooms
+    [[query-how-to-grow-shiitake-mushrooms-on-logs]]
   - Chicken-of-the-Woods: distinct scent of butterscotch
     combined with a hint of maple syrup
   - King Stropharia: musty, phenolic smell on grain but

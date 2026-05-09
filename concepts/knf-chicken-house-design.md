@@ -1,5 +1,5 @@
 ---
-title: KNF Chicken House Design
+title: KNF knf chicken house design Design
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-Korean Natural Farming (KNF) applies the same principles of microbial ecology and natural systems to poultry housing as it does to crop production. The NF chicken housing is designed so that there is no bad smell, no emission, no cleaning needed, and no disease. The houses are constructed to suit the habits, instincts, and behaviors of chickens, respecting them as living beings rather than mere production units.
+Korean [[comparison-natural-farming-vs-permaculture]] (KNF) applies the same principles of [[fukuoka-microbial-ecology-decomposition]] and natural systems to poultry housing as it does to crop production. The NF chicken housing is designed so that there is no bad smell, no emission, no cleaning needed, and no disease. The houses are constructed to suit the habits, instincts, and behaviors of chickens, respecting them as living beings rather than mere production units.
 
 ## Three Core Principles of NF Poultry Housing
 
@@ -20,7 +20,7 @@ Korean Natural Farming (KNF) applies the same principles of microbial ecology an
 
 2. **Temperature should not be artificially controlled.** Heat from fermenting compost will suffice, even for small chicks, eliminating the need for heating machines. Chicks develop short, dense hair and disease resistance when exposed more often to cold. Under artificial heating, they grow long hair and weak resistance.
 
-3. **Feed for hatchlings should consist of whole brown rice grains and bamboo leaves** to strengthen the intestines. Giving soft and over-nutritious feed prevents chicks from developing strong digestive organs.
+3. **Feed for hatchlings should consist of whole [[cho-brown-rice-vinegar-preparation]] grains and bamboo leaves** to strengthen the intestines. Giving soft and over-nutritious feed prevents chicks from developing strong digestive organs.
 
 ## Roof Design
 
@@ -45,7 +45,7 @@ Walls are made of steel wire mesh, which provides critical functions:
 The flooring is the heart of the KNF chicken house system:
 
 - Must be **soil-based**, not concrete
-- Carpeted with **rice straw chopped to 3 cm long**
+- Carpeted with **[[fukuoka-rice-straw-mulch-central-technique]] chopped to 3 cm long**
 - General flour (bedding) thickness is **7 cm**; for broilers, **3 cm** thickness
 - [[knf-poultry-natural-farming]]
 - [[knf-poultry-feed-preparation]]
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

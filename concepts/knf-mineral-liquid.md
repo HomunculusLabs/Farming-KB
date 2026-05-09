@@ -31,7 +31,7 @@ Mineral liquid is a KNF input derived from rocks, rich in Ca, Mg, Fe, and trace 
 - **Ionization**: Accelerates soil ionization, softens hardpan (20-30 cm deep)
 - **Water structure**: Makes water particles smaller (1000 to 800 Angstroms) — better absorption
 - **Root rot control**: Prevents and treats root rot disease
-- **Seed treatment**: Improves germination success
+- **[[jadam-seed-treatment-and-nursery-management]]**: Improves germination success
 - **Temperature tolerance**: Resistance to cold damage and high/low temperature disorders
 - **Soil softening**: Improves water penetration, aeration, water-holding, drainage
 - **Microflora**: When applied, general bacteria/fungi disappear but Actinobacteria, yeast, and LAB remain — soil recovers
@@ -42,7 +42,7 @@ Mineral liquid is a KNF input derived from rocks, rich in Ca, Mg, Fe, and trace 
 ## Five Types of Mineral Liquid
 
 ### Mineral Liquid A (M-A) — Foundation
-- **Purpose**: Soil treatment, seed/seedling treatment, disease control, abnormal weather
+- **Purpose**: Soil treatment, seed/seedling treatment, [[hamilton-pest-and-disease-control-organic]], abnormal weather
 - **Dilution**: 1:1000
 - **Soil treatment**: 1-2 tons M-A (x1:1000) per 100a before plowing; sow/transplant 1 week later
 - **Degraded soil**: 3-4 tons per 100a in two applications, 2 weeks before sowing
@@ -52,18 +52,18 @@ Mineral liquid is a KNF input derived from rocks, rich in Ca, Mg, Fe, and trace 
   - Average (cucumber, melon, squash): 4-5 hours
   - Slow (rice, barley, tomato): 7-8 hours
 - **Seedling treatment**: Soak 10 min before transplanting, water with same liquid after
-- **Disease response**: 1-2 tons per 100a with other KNF inputs
+- **Disease response**: 1-2 tons per 100a with other [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]]
 - **Emergency**: Use against low temperatures or abnormal weather at harvest
-- **Fruit trees**: 2 tons per 100a after harvest for soil foundation
+- **[[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]**: 2 tons per 100a after harvest for soil foundation
 
 ### Mineral Liquid B (M-B) — Root Crops
-- **Purpose**: Root vegetable growth (radish, carrot, potato, etc.)
+- **Purpose**: [[fukuoka-western-root-vegetable-deficiency]] growth (radish, carrot, potato, etc.)
 - **Dilution**: 1:1000
 - **Application**: Soil irrigation (1-2 tons per 100a) or leaf spray (200-300L per 100a)
 - **Timing**: After germination or 1 week after root establishment
 
 ### Mineral Liquid C (M-C) — General Crops
-- **Purpose**: Fruit trees, rice, flowering plants, leaf/fruit vegetables
+- **Purpose**: Fruit trees, rice, flowering plants, leaf/[[hamilton-fruit-vegetables-organic]]
 - **Dilution**: 1:1000
 - **Application**: Same as M-B — soil irrigation or leaf spray
 - **Deep-soil injection**: For fruit trees, inject 2 tons M-C deep into soil + leaf spray

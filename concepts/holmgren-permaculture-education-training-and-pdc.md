@@ -1,5 +1,5 @@
 ---
-title: "Permaculture Education, Training and the PDC"
+title: "holmgren permaculture education training and pdc, Training and the PDC"
 created: 2026-04-26
 tags:
   - education
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "~/wiki/raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
+  sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: concept
 ---
 
@@ -99,9 +100,9 @@ development.
 
 ## Experiential Learning and Observation
 
-Holmgren argues that grassroots approaches to energy descent must find
+Holmgren argues that grassroots approaches to [[holmgren-energy-descent-permaculture-flower]] must find
 more efficient ways for people to learn through observation and direct
-experience. The action learning loop -- observe, reflect, design,
+experience. The [[holmgren-action-learning-loop]] loop -- observe, reflect, design,
 implement, observe -- is central to Permaculture pedagogy.
 
 The contribution of amateur observers to scientific knowledge is
@@ -121,4 +122,11 @@ limitations of direct experience, but the current system often channels
 creativity toward narrowly defined, short-term goals.
 
 See also [[holmgren-wholistic-design-thinking]],
-[[holmgren-design-science-discipline]].
+holmgren-design-science-discipline.
+
+## See Also
+
+- permaculture-health-and-wholeness
+- permaculture-commonwork-and-livelihoods
+- pdc-adaptation-feedback-and-ecological-coherence
+- [[permaculture]]

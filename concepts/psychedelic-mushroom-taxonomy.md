@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycology, fungi, taxonomy, mushrooms, species, species-profiles, entheogen, ethnomycology]
-sources: []
+sources:
+  sources: []
 ---
 
 # Psychedelic Mushroom Taxonomy
@@ -22,7 +23,7 @@ As of 2026, over 180 species within Psilocybe are recognized as containing psilo
 ### Key Species Groups
 
 - **Psilocybe cubensis** — The most widely cultivated species, native to subtropical regions of the Americas. Large, robust fruiting bodies with moderate potency. Often found on bovine dung.
-- **Psilocybe semilanceata** — "Liberty cap," native to temperate grasslands of Europe and North America. Among the most potent species naturally. Found in association with grasses, particularly in autumn.
+- **[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]** — "Liberty cap," native to temperate grasslands of Europe and North America. Among the most potent species naturally. Found in association with grasses, particularly in autumn.
 - **Psilocybe cyanescens** — "Wavy caps," found on decaying wood chips in temperate coastal regions. Known for high potency and blueing reaction.
 - **Psilocybe azurescens** — Among the most potent known species, restricted to the Pacific Northwest coast of North America. Grows on dune grasses and decaying wood.
 - **Psilocybe mexicana** — The species used in traditional Mazatec ceremonies and the first psilocybin mushroom identified by Western science. Native to highland Mexico.
@@ -50,15 +51,15 @@ Gymnopilus is a genus of around 200 species in the family Hymenogastraceae. Seve
 
 ### Panaeolus
 
-Panaeolus species are small, dark-spored mushrooms found on dung and enriched soils. **Panaeolus cyanescens** ("blue meanies") is a potent psilocybin-containing species. **Panaeolus cinctulus** (formerly Panaeolus subbalteatus) is another active species. The genus Panaeolus is placed in the family Bolbitiaceae. Most Panaeolus species are not active, but none are known to be dangerously toxic.
+Panaeolus species are small, dark-spored mushrooms found on dung and enriched soils. **[[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]** ("blue meanies") is a potent psilocybin-containing species. **Panaeolus cinctulus** (formerly [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]) is another active species. The genus Panaeolus is placed in the family Bolbitiaceae. Most Panaeolus species are not active, but none are known to be dangerously toxic.
 
 ### Inocybe
 
-Inocybe is a large genus with over 1,400 described species. Most are mycorrhizal associates of trees. Several Inocybe species contain psilocybin, including **Inocybe corydalina** and **Inocybe aeruginascens**. However, many Inocybe species contain dangerous levels of **muscarine**, a toxin that causes sweating, salivation, lacrimation, urination, defecation, gastrointestinal distress, and in severe cases, respiratory failure. Inocybe species are notoriously difficult to identify and should be avoided by casual foragers.
+Inocybe is a large genus with over 1,400 described species. Most are mycorrhizal associates of trees. Several Inocybe species contain psilocybin, including **Inocybe corydalina** and **[[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]]**. However, many Inocybe species contain dangerous levels of **muscarine**, a toxin that causes sweating, salivation, lacrimation, urination, defecation, gastrointestinal distress, and in severe cases, respiratory failure. Inocybe species are notoriously difficult to identify and should be avoided by casual foragers.
 
 ### Galerina
 
-**Galerina marginata** (Deadly Galerina) is one of the most dangerous look-alikes. It contains the same amatoxins found in **Amanita phalloides** (Death Cap) and can be lethal. G. marginata grows in similar habitats to Psilocybe cyanescens — on decaying wood and wood chips — and has a similar brown cap appearance. Key distinguishing features include a brown spore print (Psilocybe has a purple-brown to dark purple-black print) and a persistent annulus. See [[fungal-toxins-reference]] for details on amatoxin poisoning.
+**Galerina marginata** (Deadly Galerina) is one of the most dangerous look-alikes. It contains the same amatoxins found in **Amanita phalloides** (Death Cap) and can be lethal. G. marginata grows in similar habitats to Psilocybe cyanescens — on decaying wood and wood chips — and has a similar brown cap appearance. Key distinguishing features include a brown spore print (Psilocybe has a purple-brown to dark purple-black print) and a persistent annulus. See [[fungal-toxins-reference]] for details on [[bloomfield-amatoxin-poisoning-mechanism]].
 
 ## Morphological Identification Features
 
@@ -77,7 +78,7 @@ The discovery of the psilocybin biosynthetic gene cluster has added a molecular 
 
 ## Distribution Patterns
 
-Psilocybin mushrooms show a largely pantropical to temperate distribution. The highest species diversity occurs in:
+Psilocybin mushrooms show a largely pantropical to [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]]. The highest species diversity occurs in:
 - Mesoamerica (Mexico, Guatemala, Colombia)
 - Southeast Asia (Thailand, Cambodia, Indonesia)
 - Subtropical regions of the Americas (Brazil, Colombia, Venezuela)

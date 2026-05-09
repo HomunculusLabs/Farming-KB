@@ -1,5 +1,5 @@
 ---
-title: Cannabis for Bacterial Infections and MRSA
+title: Cannabis for cannabis for bacterial infections and mrsa and MRSA
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -21,7 +21,7 @@ underlying mechanisms and their practical applications.
 
 ## Source
 
-Blesching, U. (2015). *The Cannabis Health Index*. Chapter IV: "Bacterial and Viral Infections." North Atlantic Books.
+Blesching, U. (2015). *The [[blesching-cannabis-health-index-autoimmune-conditions]]*. Chapter IV: "Bacterial and Viral Infections." North Atlantic Books.
 - [[ingham-disease-case-studies-bacterial]]
 ## Practical Applications
 
@@ -100,4 +100,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

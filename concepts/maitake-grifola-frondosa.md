@@ -1,5 +1,5 @@
 ---
-title: Maitake (Grifola frondosa)
+title: Maitake (maitake-grifola-frondosa-comprehensive-profile)
 created: 2026-04-28
 tags: [mushrooms, fungi, medicinal, cultivation, gourmet]
 date: 2026-04-28
@@ -44,7 +44,7 @@ knowledge through generations.
 ## Taxonomy and Related Species
 
 Grifola frondosa is synonymous with Polyporus frondosus Dicks.:Fr. It is
-closely allied to Polyporus umbellatus Fr. (also known as Grifola umbellata
+closely allied to [[growing-gourmet-polyporus-umbellatus-zhu-ling-cultivation]] Fr. (also known as Grifola umbellata
 or Zhu Ling), which produces fruitbodies with multiple caps arising from a
 common stem but has a lighter color, more fragile texture, and
 fundamentally different life cycle. G. umbellata produces underground
@@ -53,7 +53,7 @@ sclerotial stage and arises from a multiple forking base.
 
 ## Medicinal Properties
 
-Maitake has gained significant attention in the medicinal mushroom field,
+Maitake has gained significant attention in the [[gourmet-medicinal-mushroom-casing-layer-techniques]] field,
 particularly for its immune-enhancing polysaccharides. Key bioactive
 compounds include grifolan (a beta-glucan) and the D-fraction, a
 protein-bound polysaccharide isolated and patented by Japanese researchers.
@@ -82,14 +82,14 @@ Shiitake, Oyster, and Enokitake. Successful indoor cultivation requires:
 - Careful initiation with cool temperatures (55-65 F / 13-18 C) and high
   humidity (95%+)
 
-Biological efficiency on supplemented sawdust ranges from 50-100%. Outdoor
+[[stamets-biological-efficiency-yield]] on [[oyster-mushroom-supplemented-sawdust-blocks]] ranges from 50-100%. Outdoor
 cultivation is possible by inoculating oak stumps and logs, though
 fruitings may take 1-2 years to appear.
 
 ## Growth Parameters
 
 - **Spawn Run**: 72-78 F (22-26 C), 95-100% humidity, 30-60 days
-- **Primordia Formation**: 55-65 F (13-18 C), 95-100% humidity, 5-10 days
+- **[[growing-gourmet-primordia-formation-pinning]]**: 55-65 F (13-18 C), 95-100% humidity, 5-10 days
 - **Fruitbody Development**: 60-70 F (16-21 C), 85-95% humidity, 7-14 days
 
 ## Mycelial Characteristics
@@ -102,5 +102,8 @@ species causes a white rot in wood decomposition.
 ## See Also
 
 - [[reishi-ganoderma-lucidum]]
-- [[grain-spawn-production]]
+- grain-spawn-production
 - [[biochemistry-of-ligninolytic-fungi-bioremediation]]
+- [[grifola-frondosa]]
+- [[decomposition]]
+- [[maitake-cultivation]]

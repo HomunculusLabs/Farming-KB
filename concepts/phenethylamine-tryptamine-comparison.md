@@ -56,7 +56,7 @@ An indole ring (fused benzene-pyrrole) connected to an amine via a two-carbon ch
 ## Shared Features
 
 ### Receptor Pharmacology
-Both families act primarily as serotonin receptor agonists, with the 5-HT2A receptor being the principal target for psychedelic effects. See [[phenethylamine-receptor-pharmacology]].
+Both families act primarily as serotonin [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]], with the 5-HT2A receptor being the principal target for psychedelic effects. See [[phenethylamine-receptor-pharmacology]].
 
 ### SAR Principles
 Both families follow similar SAR logic:

@@ -1,5 +1,5 @@
 ---
-title: Jivaro Shamanism and Yage (Natem)
+title: harner jivaro shamanism yage and Yage (Natem)
 created: 2026-04-26
 sources: Harner (ed.), Hallucinogens and Shamanism (1973), Ch. 2 (Harner)
 related:
@@ -15,7 +15,7 @@ updated: 2026-04-26
 
 ## The Jivaro Worldview
 
-The Jivaro Indians of the Ecuadorian Amazon believe that **witchcraft is the cause of the vast majority of illnesses and non-violent deaths**. The normal waking life is simply a "lie" or illusion, while the true forces that determine daily events are supernatural and can only be seen and manipulated with the aid of hallucinogenic drugs.
+The Jivaro Indians of the Ecuadorian Amazon believe that **witchcraft is the cause of the vast majority of illnesses and non-violent deaths**. The normal waking life is simply a "lie" or illusion, while the true forces that determine daily events are supernatural and can only be seen and manipulated with the aid of [[metzner-hallucinogenic-drugs-psychotherapy-shamanism]].
 
 ## The Natem Drink
 
@@ -93,6 +93,8 @@ Among the Jivaro, approximately **one in four adult men** is a shaman -- a remar
 The Jivaro system of aggressive and defensive shamanism is one of the most elaborate in the Amazon. Unlike the Campa (whose ceremonies emphasize reverence and worship) or the Cashinahua (whose ayahuasca sessions focus on communal revelation), Jivaro shamanism is fundamentally concerned with the dynamics of **supernatural warfare** between individual practitioners. The Jivaro worldview is one in which every illness has a human cause -- an enemy shaman's attack -- and the curing shaman's task is essentially combat at the supernatural level.
 
 ## See Also
+
+- [[entheogen-jivaro-natem-shamanism]]
 
 - [[harner-cross-cultural-patterns-shamanic-plant-use]]
 - ethnomycology

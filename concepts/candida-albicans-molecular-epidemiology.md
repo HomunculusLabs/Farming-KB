@@ -1,5 +1,5 @@
 ---
-title: Candida albicans Molecular Epidemiology and MLST
+title: bloomfield-candida-albicans-yeast-hyphal-dimorphism Molecular Epidemiology and MLST
 created: 2026-04-26
 tags: [fungal-pathogen, medical-mycology, molecular-epidemiology, genomics, candidiasis]
 date: 2026-04-25
@@ -76,11 +76,11 @@ mimics key aspects of mammalian infection. Because the C. elegans genome
 is fully sequenced, transcripts expressed by the fungus and the host
 during infection can be separated and analysed, even when both are
 present in cDNA libraries. This system allows identification of both
-fungal virulence factors and host defence pathways activated during
+fungal [[fungal-virulence-factors-host-immune-evasion]] and host defence pathways activated during
 infection.
 
 The C. elegans model has been particularly valuable for studying
-Cryptococcus neoformans pathogenesis as well. The tractability of the
+[[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]] pathogenesis as well. The tractability of the
 worm system enables high-throughput screening of fungal mutants for
 virulence defects and testing of antifungal compounds.
 
@@ -91,7 +91,7 @@ clinical applications including:
 - Tracing sources of nosocomial outbreaks in hospital settings
 - Distinguishing relapse from reinfection in recurrent candidiasis
 - Monitoring the emergence of drug-resistant strains
-- Understanding the global distribution of pathogenic lineages
+- Understanding the [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]] of pathogenic lineages
 - Correlating genetic background with clinical outcomes
 
 ## See Also
@@ -102,7 +102,7 @@ clinical applications including:
 
 ## References
 
-- Bougnoux, M. E. et al. (2002). Multilocus sequence typing of
+- Bougnoux, M. E. et al. (2002). [[fungi-multilocus-sequence-typing-molecular-epidemiology]] typing of
   Candida albicans. J Clin Microbiol 40, 2670-4.
 - Tavanti, A. et al. (2003). Multilocus sequence typing for
   C. albicans. J Clin Microbiol 41, 5532-8.

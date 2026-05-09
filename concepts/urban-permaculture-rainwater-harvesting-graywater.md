@@ -1,15 +1,12 @@
 ---
-title: Rainwater Harvesting and Graywater Reuse
+title: Rainwater rainwater-harvesting-systems Reuse
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
-tags: [[permaculture, gardening, urban-agriculture]
+tags: [permaculture, gardening, urban-agriculture]
 sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 ---
-
-# Rainwater Harvesting and Graywater Reuse
-
-[Rainwater harvesting and graywater reuse are fundamental [[swale-design]] for larger-scale water capture.
+# Rainwater Harvesting and Graywater Reuse [Rainwater harvesting and graywater reuse are fundamental [[swale-design]] for larger-scale water capture.
 
 For urban gardeners, 55-gallon drums are the most accessible entry point into rainwater harvesting. They can be obtained cheaply from food processors, industrial suppliers, or salvage yards. Clean food-grade drums are ideal. Paint them dark to prevent algae growth, and screen the inlets to keep out mosquitoes and debris.
 
@@ -26,7 +23,7 @@ The cistern is strategically located along the fence line next to a neighbor's r
 
 The orange tree shades the cistern and drops leaves for mulch, creating a mutualistic relationship. Watering with rainwater combined with [[solar-water-heating]]
 
-The gas water heater was removed and replaced with a passive solar "bread box" water heater designed by Tobin Schneider and Bill Cunningham. The design:
+The gas water heater was removed and replaced with a [[comparison-passive-solar-vs-earth-sheltered]] "bread box" water heater designed by Tobin Schneider and Bill Cunningham. The design:
 
 - One-inch duct board insulation with heat tape to a double thickness of 2 inches forms the insulated box
 - Tempered double-glazed patio door glass set at 45 degrees (maximum solar gain in winter) seals the box
@@ -41,7 +38,7 @@ The passive solar heater provides hot water without gas or electricity, working 
 
 The house was retrofitted for passive solar heating and cooling:
 
-- Rotten, termite-ridden windows replaced with double-glazed units (old glass saved for solar ovens and cold frames)
+- Rotten, termite-ridden windows replaced with double-glazed units (old glass saved for solar ovens and [[hamilton-cold-frames-and-hardening-off]])
 - All west-facing glass removed except the kitchen window (shaded by a neighbor's house)
 - Extended roof overhang blocks summer sun but allows winter sun to penetrate south-facing glass
 - The south-facing Arizona room has an exposed concrete slab stained with ferrous sulfate for better thermal mass
@@ -52,7 +49,7 @@ The concrete floor was treated with a mix of two parts water to one part ferrous
 
 ## Living Fence and Buffer Zones
 
-A living fence of ocotillo canes and agave flower stalks borders the property. On either side, 8-10 foot wide buffer zones of native plants serve as noise, pollution, light, and privacy barriers while doubling as wildlife habitat. The native plants used have medicinal, food, habitat, bee forage, and nitrogen-fixing value. Saguaro, barrel, and cholla cacti were salvaged from areas slated for clearing.
+A living fence of ocotillo canes and agave flower stalks borders the property. On either side, 8-10 foot wide buffer zones of native plants serve as noise, pollution, light, and privacy barriers while doubling as wildlife habitat. The native plants used have medicinal, food, habitat, [[mollison-designers-bee-forage-tree-planting]], and nitrogen-fixing value. Saguaro, barrel, and cholla cacti were salvaged from areas slated for clearing.
 
 The chain-link fencing removed from the property was traded at the salvage yard for used 2x4s to extend the roof overhang, which further protects walls from rain and summer sun. The toxic asphalt roofing was replaced with corrugated steel for rainwater harvesting.
 
@@ -60,8 +57,9 @@ The chain-link fencing removed from the property was traded at the salvage yard 
 
 A low-flush toilet was installed to meet code, but Lancaster was also researching composting toilet designs to return humanure nutrients to the landscape. The principle is straightforward: what leaves the body as waste should cycle back to the soil that grows the food, closing the nutrient loop. [[rainwater-harvesting-systems]]
 - [[keyline-design]]
-- [[faires-city-desert-and-cold-climate-garden-strategies]]
+- faires-city-desert-and-cold-climate-garden-strategies
 - [[permaculture-farm-design-principles]]
+
 ## Practical Considerations
 
 Successful implementation of Rainwater Harvesting and Graywater Reuse requires attention to
@@ -80,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

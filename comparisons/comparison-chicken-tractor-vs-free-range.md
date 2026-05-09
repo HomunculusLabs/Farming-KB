@@ -1,10 +1,12 @@
 ---
-title: "Chicken Tractor vs Free Range"
+title: "comparison chicken tractor vs free range vs Free Range"
 created: 2026-04-28
 tags: [comparison, poultry, permaculture, livestock]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: comparison
 ---
 
@@ -14,7 +16,7 @@ A comparison of two poultry management strategies for homestead and garden integ
 
 ## Overview
 
-Chicken tractors are portable floorless enclosures that concentrate chickens on specific garden areas for soil conditioning, fertilizing, and pest control while producing eggs and meat. Free-range poultry forage systems, as described in Permaculture Two, design permanent forage landscapes with trees, shrubs, and ground covers to feed poultry year-round with minimal stored grain.
+[[mollison-designers-chicken-tractors-egg-production]] are portable floorless enclosures that concentrate chickens on specific garden areas for soil conditioning, fertilizing, and pest control while producing eggs and meat. Free-range [[free-range-poultry-forage-design-mollison]] systems, as described in Permaculture Two, design permanent forage landscapes with trees, shrubs, and ground covers to feed poultry year-round with minimal stored grain.
 
 Both approaches seek to integrate poultry into productive landscapes, but they differ fundamentally in scale, design philosophy, and labor requirements.
 
@@ -77,7 +79,7 @@ Choose a free-range forage system when your situation includes:
 
 1. Larger property, 1 acre or more of available land
 2. Long-term permaculture system goals with permanent plantings
-3. Integration with orchards, food forests, or livestock grazing
+3. Integration with orchards, food forests, or [[savory-livestock-grazing-planning]]
 4. Desire to reduce or eliminate stored grain dependency
 5. Willingness to invest 2 to 5 years in establishment
 6. Interest in multi-species forage design and plant selection
@@ -110,7 +112,7 @@ This hybrid strategy delivers immediate garden benefits from the tractor while b
 
 Chicken tractor drawbacks include daily labor to move the enclosure, limited bird capacity, predator vulnerability if not secured, and bare soil if rotation is too slow. In heavy rain, the tractor area can become a mud pit. Birds in tractors also lack behavioral enrichment.
 
-Free-range drawbacks include long establishment time, significant land requirements, initial planting costs, potential bird loss to predators, and the need for botanical knowledge. Feed savings may not materialize for several years.
+Free-range drawbacks include long establishment time, significant [[fukuoka-textdoc-land-requirements-per-diet-type-carrying-capacity]], initial planting costs, potential bird loss to predators, and the need for botanical knowledge. Feed savings may not materialize for several years.
 
 ## Bottom Line
 
@@ -118,5 +120,8 @@ Choose the chicken tractor for immediate, concentrated impact on a small scale. 
 
 ## See Also
 
-- [[chicken-integration-permaculture-guide]] for broader strategies
-- [[pasture-management]] for rotational grazing principles
+- chicken-integration-permaculture-guide for broader strategies
+- [[pasture-management]] for [[comparison-rotational-grazing-vs-continuous-grazing]] principles
+- [[composting-systems]]
+- [[jerusalem-artichoke]]
+- [[comparison-chicken-keeping-vs-quail-husbandry]]

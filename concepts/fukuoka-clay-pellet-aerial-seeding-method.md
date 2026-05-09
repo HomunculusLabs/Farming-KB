@@ -28,9 +28,9 @@ Fukuoka's desert revegetation pellets are multi-layered structures, each approxi
 
 ## Three-Layer Pellet Structure
 
-The production process creates three distinct layers within each pellet, each serving a specific function in seed protection and germination support:
+The [[directed-inoculum-production-process-for-amf]] creates three distinct layers within each pellet, each serving a specific function in seed protection and germination support:
 
-1. **Inner layer** — Seeds are first mixed with beneficial fungi and microorganisms. Fukuoka's natural culture medium includes mycorrhizal fungi, eumycetes, actinomycetes, and bacilli. These microorganisms form symbiotic relationships with plant roots after germination, dramatically improving nutrient uptake and drought resistance in the harsh desert environment.
+1. **Inner layer** — Seeds are first mixed with beneficial fungi and microorganisms. Fukuoka's [[fukuoka-matsutake-natural-culture-medium-microbiological-innovation]] medium includes mycorrhizal fungi, eumycetes, actinomycetes, and bacilli. These microorganisms form symbiotic relationships with plant roots after germination, dramatically improving nutrient uptake and drought resistance in the harsh desert environment.
 
 2. **Middle layer** — A shell of fine clay powder is built up around the seed-fungi core by alternately adding clay and misting with water while the mixer rotates. This layer provides the primary moisture-retaining barrier and protects the seed from mechanical damage.
 
@@ -51,7 +51,7 @@ For small-scale applications, pellets can be formed by hand, rolling the seed-fu
 
 The most dramatic application of clay pellet technology is aerial seeding from aircraft. Fukuoka envisioned converting military bombers into seed-broadcasting planes — instead of dropping bombs that destroy, they would drop seeds that create life. This vision was partially realized when the Indian government invited Fukuoka to assist with aerial revegetation projects.
 
-Key considerations for aerial seeding include pellet durability, seed diversity, timing relative to rainfall, and site assessment. Fukuoka recommended broadcasting pellets immediately before expected rains, as the moisture triggers pellet softening and seed germination. The pellets are designed to withstand the impact of falling from aircraft altitude, and their weight and aerodynamic properties allow reasonably even distribution patterns.
+Key considerations for aerial seeding include pellet durability, seed diversity, timing relative to rainfall, and site assessment. Fukuoka recommended broadcasting pellets immediately before expected rains, as the moisture triggers pellet softening and seed germination. The pellets are designed to withstand the impact of falling from aircraft altitude, and their weight and aerodynamic properties allow reasonably even [[guzman-global-distribution-patterns-neurotropic-fungi]].
 
 ## Field Results and Validation
 
@@ -83,13 +83,13 @@ Clay pellet seeding offers several critical advantages over conventional approac
 
 Despite its successes, the clay pellet method has important limitations. Germination rates, while higher than bare seed broadcasting, remain variable and depend heavily on rainfall timing and amount. In extremely arid regions with less than 100 mm annual rainfall, even clay pellets may not provide sufficient moisture for germination. The method also requires significant seed collection and pellet production capacity for large areas, and the labor of mixing one hundred or more seed species into each batch is substantial.
 
-Fukuoka himself acknowledged that the technique was not a magic solution and that each site required careful assessment of local conditions, including soil type, rainfall patterns, existing vegetation, and the specific causes of degradation. The best results came when clay pellet seeding was combined with broader landscape-level strategies such as erosion control, grazing management, and community involvement in long-term stewardship.
+Fukuoka himself acknowledged that the technique was not a magic solution and that each site required careful assessment of local conditions, including soil type, rainfall patterns, existing vegetation, and the specific causes of degradation. The best results came when clay pellet seeding was combined with broader landscape-level strategies such as [[permplant-willows-salix-erosion-control-fodder]], grazing management, and community involvement in long-term stewardship.
 
 ## The Natural Culture Medium for Pellets
 
 Fukuoka developed a specific microbial culture medium for inclusion in clay pellets, designed to support a wide range of beneficial soil organisms. The medium is produced by combining leaf mold from pine or mixed forests with rice bran, then enriching it with infusions derived from boiling three categories of plants:
 
-- **Convolvulaceae and Dioscoreaceae tubers** — Sweet potatoes, yams, and morning glory stems provide complex carbohydrates and growth hormones that stimulate fungal hyphae development.
+- **Convolvulaceae and Dioscoreaceae tubers** — Sweet potatoes, yams, and [[golden-guide-morning-glory-and-ololiuqui]] stems provide complex carbohydrates and growth hormones that stimulate fungal hyphae development.
 - **Cruciferous vegetables** — Daikon, mustard, and cabbage contribute sulfur compounds and vitamins that support diverse microbial communities.
 - **Liliaceous plants** — Onions, wild garlic, and ramps provide allicin and other antimicrobial compounds that selectively favor beneficial microorganisms while suppressing pathogens.
 
@@ -101,7 +101,7 @@ The inclusion of this culture medium in clay pellets is perhaps the most scienti
 
 Fukuoka's clay pellet technique has been widely adopted and adapted by restoration practitioners, permaculture designers, and community gardeners worldwide. Notable modern applications include:
 
-- **Guerrilla gardening** — Urban gardeners in cities around the world use simplified seed balls (clay + compost + seeds) to introduce vegetation to vacant lots, road margins, and other neglected urban spaces. The technique requires no land ownership or permission, making it a popular tool for direct environmental action.
+- **Guerrilla gardening** — Urban gardeners in cities [[fungi-around-the-world-species-distribution]] use simplified seed balls (clay + compost + seeds) to introduce vegetation to vacant lots, road margins, and other neglected urban spaces. The technique requires no land ownership or permission, making it a popular tool for direct environmental action.
 
 - **Large-scale rehabilitation projects** — Government agencies and NGOs in India, Kenya, and other countries have incorporated clay pellet seeding into official desertification control programs, often combining aerial broadcasting with community-based seed collection and pellet production activities.
 
@@ -109,7 +109,9 @@ Fukuoka's clay pellet technique has been widely adopted and adapted by restorati
 
 - **Post-fire and post-mining restoration** — Clay pellets have been used successfully to revegetate land after wildfires and surface mining, where the soil surface is exposed, erosion-prone, and largely devoid of the seed bank and microbial communities needed for natural recovery.
 
-## Related Topics
+## Related
+
+- [[clay-seed-pellet-composition-and-aerial-seeding-method]] Topics
 
 - [[fukuoka-natural-farming-philosophy]]
 - [[guerrilla-gardening-techniques]]

@@ -16,9 +16,9 @@ The pieces of an ecological garden -- water, soil, plants, and animals -- create
 
 ### Interplanting
 
-Vegetable gardeners have long mixed different varieties to save space and avoid monoculture. A classic combination pairs onions, carrots, and lettuce: the three have different leaf forms, light requirements, and rooting depths that minimize competition.
+Vegetable gardeners have long mixed different varieties to save space and avoid monoculture. A classic combination pairs onions, carrots, and lettuce: the three have different leaf forms, [[growing-gourmet-light-requirements-mushroom-fruiting]], and rooting depths that minimize competition.
 
-However, interplanting mostly avoids negative interactions rather than creating positive ones. It rarely capitalizes on mutual benefits like pest deterrence or nutrient transport.
+However, interplanting mostly avoids negative interactions rather than creating positive ones. It rarely capitalizes on mutual benefits like pest deterrence or [[mycelial-network-nutrient-transport-imaging-gadd]].
 
 ### Companion Planting
 
@@ -41,7 +41,7 @@ A seven-variety temperate polyculture developed by Welsh inventor Ianto Evans th
 
 **How they interact**:
 - Radishes sprout fast, casting shade to keep soil cool and protect slow germinators
-- Dill and calendula attract beneficial insects and confuse pests with scent
+- Dill and calendula attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] and confuse pests with scent
 - Lettuce provides early harvest, creating space for later crops
 - Cabbages grow through fall and winter, protecting soil from erosion
 - Beans add nitrogen to the soil
@@ -76,7 +76,7 @@ A guild is a harmoniously interwoven group of plants and animals, often centered
 
 ### The Three Sisters Guild
 
-The Native American combination of corn, beans, and squash illustrates guild principles:
+The [[halpern-sacramental-peyote-and-native-american-church]] combination of corn, beans, and squash illustrates guild principles:
 
 - **Corn** forms a trellis for beans and feeds nitrogen-fixing bacteria via root exudates
 - **Beans** draw nitrogen from the air and convert it to plant-available form, feeding all three plants
@@ -93,12 +93,12 @@ Guilds are fundamentally cooperative. In an ecosystem, microbes build soil, soil
 - **Nitrogen fixers** paired with heavy feeders
 - **Insectary plants** attracting pollinators and pest predators near food crops
 - **Mulch producers** (comfrey, cardoon) slashed periodically to build soil moisture
-- **Dynamic accumulators** (chicory, yarrow, daikon) mining minerals from deep soil
+- **[[comparison-dynamic-accumulators-vs-cover-crops]]** (chicory, yarrow, daikon) mining minerals from deep soil
 - **Habitat plants** providing shelter for birds that control insect pests
 
 ### Super-Guilds
 
-Multiple guilds can be connected into larger community networks. A fruit tree guild (centered on apple or pear) can be linked to a vegetable polyculture beneath it, which connects to a hedge guild providing wind protection and deer deterrence, which in turn connects to a poultry system that provides manure and insect control. These super-guilds approach the complexity and resilience of natural ecosystems.
+Multiple guilds can be connected into larger community networks. A fruit tree guild (centered on apple or pear) can be linked to a vegetable polyculture beneath it, which connects to a hedge guild providing wind protection and deer deterrence, which in turn connects to a poultry system that provides manure and [[mushroom-pests-insect-control-stamets]]. These super-guilds approach the complexity and resilience of natural ecosystems.
 
 ## The Ecological Imperative
 
@@ -107,9 +107,8 @@ If we ignore the material needs of humans in our urban and suburban landscapes, 
 ## See Also
 
 - [[gaias-garden-three-sisters-guild]]
-- [[hemenway-guild-design-roles-and-assembly]]
+- hemenway-guild-design-roles-and-assembly
 - [[jadam-fruit-tree-winter-pest-control]]
 - [[teaming-with-microbes-cover-crops-soil-health]]
 - [[fukuoka-natural-fruit-tree-pest-control]]
 - [[gaias-garden-living-plant-systems-insectary]]
-- [[gaias-garden-three-sisters-guild]]

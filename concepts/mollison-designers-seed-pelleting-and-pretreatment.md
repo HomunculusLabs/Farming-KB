@@ -1,5 +1,5 @@
 ---
-title: "Seed Pelleting and Pretreatment for Land Rehabilitation"
+title: "mollison designers seed pelleting and pretreatment and Pretreatment for Land Rehabilitation"
 created: 2026-04-26
 tags:
   - permaculture
@@ -21,7 +21,7 @@ the local deficiencies in soils can be overcome by seed pelleting.
 In *Permaculture: A Designers' Manual*, Bill Mollison describes this
 technique as a process of embedding seed in a capsule of substances
 that give it a good chance of establishment despite soil deficiencies
-in local sites or microsites. This practice supports [[mollison-soil-improvement-and-rehabilitation]].
+in local sites or microsites. This practice supports mollison-soil-improvement-and-rehabilitation.
 
 ## Seed Pretreatment
 
@@ -62,8 +62,8 @@ ingredients:
   the seed
 - A colloid-forming substance such as fine graphite
 - A bird repellent (green dye helps repel birds)
-- An insect repellent such as powdered neem tree leaf
-  (Azadirachta indica or Melia azedarach) or diatomaceous earth
+- An insect repellent such as powdered [[mollison-designers-neem-tree-as-natural-insecticide]] leaf
+  (Azadirachta indica or Melia azedarach) or [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]]
 - A swelling clay such as bentonite to improve water absorption
 
 ## Field Application
@@ -75,22 +75,22 @@ by the lime, clay, and mineral components. The root associates
 (inoculated rhizobia or mycorrhizal spores) also become active in
 nutrient transfer to the plant.
 
-This method is particularly valuable for direct seeding on
+This method is particularly valuable for [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] on
 rehabilitation sites, road embankments, mine spoils, and degraded
 grasslands where seedling establishment is otherwise difficult. It
 eliminates the need for [[permaculture-designers-manual-pioneer-species]] on degraded land
-- Large-scale [[mollison-green-manure-soil-fertility]] crops
-- [[mollison-seed-resources-and-sovereignty]] through
+- Large-scale mollison-green-manure-soil-fertility crops
+- mollison-seed-resources-and-sovereignty through
   local seed processing capacity
 
 ## See Also
 
 - [[stump-inoculation-techniques]] - inoculation of woody
   substrates with fungal partners
-- [[vegetable-seed-and-transplant-guide]] - seed selection and
+- [[vegetable-seed-and-transplant-guide]] - [[cannabis-seed-selection-and-strain-types]] and
   transplant timing guidance
 - [[teaming-with-fungi-mycorrhizal-inoculation-techniques]] complements
-the inoculation step described above. [[mollison-green-manure-soil-fertility]] for green manure
+the inoculation step described above. mollison-green-manure-soil-fertility for [[comparison-green-manure-guide-vs-mulch-types-and-effects]]
 crops that can be established via pelleted seed.
 [[mollison-plant-nursery-species-selection]] covers species that
 benefit from the pelleting approach described here.

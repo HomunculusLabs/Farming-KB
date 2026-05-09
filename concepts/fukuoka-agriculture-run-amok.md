@@ -5,13 +5,14 @@ updated: 2026-04-18
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # Agriculture Run Amok
 
 In *The Road Back to Nature*, [[fukuoka-deficit-farming]] because farmers cannot afford to change practices
-- The entire system is built on petroleum energy rather than natural fertility
+- The entire system is built on petroleum energy rather than [[fukuoka-natural-fertility-cycle]]
 
 ## Reversal of Expectations
 
@@ -21,7 +22,7 @@ See also: [[fukuoka-deficit-farming]], [[fukuoka-critique-modern-agriculture]]
 
 ## Key Points
 
-- Masanobu Fukuoka's natural farming emphasizes working with nature rather than against it
+- Masanobu Fukuoka's [[comparison-natural-farming-vs-permaculture]] emphasizes working with nature rather than against it
 - The one-straw revolution approach minimizes human intervention in agricultural systems
 - Seed balls and no-till methods are central to Fukuoka's philosophy
 - Observing natural ecosystems provides the blueprint for sustainable food production
@@ -36,14 +37,14 @@ See also: [[fukuoka-deficit-farming]], [[fukuoka-critique-modern-agriculture]]
 The principles outlined on this page connect directly to hands-on work in gardens,
 farms, and homesteads. Integrating these concepts with complementary techniques from
 related disciplines can significantly improve outcomes. Start with small-scale
-implementation and scale up as understanding deepens through direct observation.
+implementation and scale up as understanding deepens through [[fukuoka-direct-observation-method]].
 
 ## Philosophical Context
 
 Fukuoka's work emerged from a deep disillusionment with the trajectory of modern
 civilization. His experiences as a plant pathologist, farmer, and philosopher
 converged into a worldview that questioned humanity's separation from nature.
-He argued that the more humans try to control natural systems, the further they
+He argued that the more humans try to [[fukuoka-straw-pest-control-natural-balance]] systems, the further they
 drift from genuine understanding. This perspective challenges both conventional
 agriculture and the assumptions underlying industrial progress.
 
@@ -54,7 +55,7 @@ contemporary food systems. As soil degradation, water scarcity, and chemical
 dependency threaten global food security, his methods offer a viable alternative.
 Natural farming requires no external inputs, builds soil fertility over time,
 and produces food with minimal environmental impact. These approaches are
-increasingly relevant as climate change accelerates the need for resilient
+increasingly relevant as [[dighton-fungi-climate-change-feedback]] accelerates the need for resilient
 agricultural systems that work with rather than against natural processes.
 
 ## Connection to Permaculture
@@ -63,7 +64,7 @@ Fukuoka's natural farming directly influenced the development of permaculture.
 Bill Mollison and David Holmgren drew on his principles when formulating their
 design framework. The emphasis on observation, minimal intervention, and working
 with natural patterns runs through both philosophies. Understanding Fukuoka's
-original insights provides a deeper foundation for permaculture design practice
+original insights provides a deeper foundation for [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] practice
 and helps practitioners move beyond techniques to genuine ecological literacy.
 
 ## Lessons for Personal Practice

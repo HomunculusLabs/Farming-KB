@@ -1,33 +1,19 @@
 ---
-title: Magic Mushrooms of Australia and New Zealand
+title: guzman-magic-mushrooms-african-species of Australia and New Zealand
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [[mycology, mushrooms]
+tags: [mycology, mushrooms]
 sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md]
 ---
-# Magic Mushrooms of Australia and New Zealand
-
-Based on John W. Allen's field guide (1999), more than a dozen species of psilocybin-containing mushrooms occur in Australia and New Zealand. Four dung-inhabiting species are the most common and well-known.
-
-## Major Species
-
-### [Psilocybe cubensis ("Gold Tops" / "Gold Caps")
-- **Habitat:** Cow dung, rich pasture soils
-- **Locations:** Queensland (Springbrook, Brisbane, Beechmont); Tasmania (Hobart)
-- **Season:** After heavy rains, primarily in tropical/subtropical summer
-- **Not confirmed in New Zealand** despite unverified reports
-- **Dosage:** 1-2 gm dried (in vitro); much larger doses needed from wild specimens (lower potency)
-- **Note:** Wild Australian specimens show surprisingly low psilocybin/psilocin levels compared to cultivated material
-
-### [[panaeolus-subbalteatus]]
-- **Habitat:** Cattle dung; composting hay, haystacks, stable shavings; sometimes lawns
+# Magic Mushrooms of Australia and New Zealand Based on John W. Allen's field guide (1999), more than a dozen species of psilocybin-containing mushrooms occur in Australia and New Zealand. Four dung-inhabiting species are the most common and well-known. ## Major Species ### [Psilocybe cubensis ("Gold Tops" / "Gold Caps") - **Habitat:** Cow dung, rich pasture soils - **Locations:** Queensland (Springbrook, Brisbane, Beechmont); Tasmania (Hobart) - **Season:** After heavy rains, primarily in tropical/subtropical summer - **Not confirmed in New Zealand** despite unverified reports - **Dosage:** 1-2 gm dried (in vitro); much larger doses needed from wild specimens (lower potency) - **Note:** Wild Australian specimens show surprisingly low psilocybin/psilocin levels compared to cultivated material ### [[panaeolus-subbalteatus]]
+- **Habitat:** [[psilocybe-cubensis-cattle-dung-substrate-introduction-americas-guzman-1998]]; composting hay, haystacks, stable shavings; sometimes lawns
 - **Locations:** Throughout Australia
 - **Dosage:** At least 28 gm fresh (10-20+ mushrooms) or 2-5 gm dried
 
 ## Woodchip and Forest Species
 
-### [[psilocybe-australiana]]
+### psilocybe-australiana
 - **Habitat:** Soil with wood/leaf debris, Pinus radiata plantations, temperate rainforest tracks
 - **Locations:** NSW (Canberra, Blue Mountains, Mt. Wilson); NZ (near Auckland, Oratia)
 - **Season:** Fruits in April
@@ -45,7 +31,7 @@ Based on John W. Allen's field guide (1999), more than a dozen species of psiloc
 - [psilocybe australiana
 
 - [[ayahuasca-tourism-ethics]] -- ethics of seeking traditional plant medicines
-- [[psilocybe-cubensis-australia]]
+- psilocybe-cubensis-australia
 ## Practical Considerations
 
 When working with Magic Mushrooms of Australia and New Zealand, several practical factors should be
@@ -62,7 +48,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -104,4 +90,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

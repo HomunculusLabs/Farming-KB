@@ -5,6 +5,7 @@ tags: [query, no-till, soil-health, organic, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: query
 ---
@@ -13,10 +14,10 @@ type: query
 
 ## Short Answer
 No-till gardening preserves soil structure, protects beneficial fungal networks and
-soil microorganisms, increases organic matter over time, reduces weed pressure, and
+soil microorganisms, increases [[hamilton-composting-and-organic-matter-management]] over time, reduces weed pressure, and
 improves water retention. By eliminating mechanical soil disturbance, no-till methods
 maintain the complex soil food web that conventional tilling destroys, leading to
-healthier plants that are more resilient to pests and diseases with less input
+healthier plants that are more resilient to [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] with less input
 required from the gardener.
 
 ## Detailed Explanation
@@ -31,18 +32,18 @@ a single tilling event can destroy years of network development, and the
 how no-till soils develop better structure, higher water-holding capacity, and greater
 resilience to both drought and flooding compared to tilled soils.
 
-Weed management in no-till gardens relies on mulching rather than cultivation. A thick
+[[fukuoka-weed-management-and-green-manure]] in no-till gardens relies on mulching rather than cultivation. A thick
 layer of organic mulch (4 to 6 inches of straw, leaves, or wood chips) suppresses
-weed seed germination by blocking light, maintains soil moisture, moderates soil
+weed [[cannabis-seed-germination-methods]] by blocking light, maintains soil moisture, moderates soil
 temperature, and provides a slow-release source of organic matter as it decomposes.
 The [[comparison-no-till-vs-reduced-tillage]] page compares the full spectrum of tillage
 reduction strategies.
 
-Masanobu Fukuoka's natural farming philosophy is one of the most influential no-till
+Masanobu Fukuoka's natural [[fukuoka-do-nothing-farming-philosophy-and-practice]] is one of the most influential no-till
 traditions. His [[natural-farming-no-till-method]] page bridges Fukuoka's philosophy with
 practical garden-scale application.
 
-Carbon sequestration is an often-overlooked benefit of no-till gardening. Every time
+[[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] is an often-overlooked benefit of no-till gardening. Every time
 soil is tilled, it exposes organic matter to oxygen, accelerating decomposition and
 releasing carbon dioxide to the atmosphere. No-till practices allow organic matter to
 accumulate steadily, building soil carbon levels year over year. Over time, a well-
@@ -78,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

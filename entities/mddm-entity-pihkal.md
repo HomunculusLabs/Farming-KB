@@ -1,5 +1,5 @@
 ---
-title: "MDDM (N,N-DIMETHYL-MDA;) -- PIHKAL Entry #105"
+title: "MDDM (N,N-DIMETHYL-MDA;) -- 2c-b-pihkal-entry-20 #105"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # MDDM
 
-PIHKAL entry #105. N,N-DIMETHYL-MDA;.
+[[2c-b-pihkal-entry-20]] #105. N,N-DIMETHYL-MDA;.
 
 ## Chemical Name
 
@@ -123,7 +123,7 @@ under the N(CH3)2, 2.96, 8H; CH (m) 3.65; CH2O2 (s) 6.03 2H; ArH 6.93
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

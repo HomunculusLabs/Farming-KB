@@ -33,12 +33,12 @@ Reference table of plants organised by function. Sourced primarily from "Permacu
 | Alnus spp | Alder | Deciduous tree | 3-4 | Fast-growing, 100-200 kg N/ha/yr; good along waterways |
 | Robinia pseudoacacia | Black locust | Deciduous tree | 3-4 | Fence posts, fuel, bee forage (1600 kg N/ha/yr est.) |
 | Acacia melanoxylon | Blackwood | Evergreen tree | 3-4 | Timber, shelter, wildlife habitat |
-| Casuarina spp | Sheoak | Evergreen tree | 3-4 | Windbreak, firewood, salt tolerance |
+| Casuarina spp | Sheoak | Evergreen tree | 3-4 | Windbreak, firewood, [[fungal-salt-tolerance-and-ion-homeostasis]] |
 | Caragana arborescens | Siberian peashrub | Deciduous shrub | 2-3 | Extremely cold-hardy, windbreak, poultry fodder |
 | Chamaecytisus palmensis | Tagasaste | Evergreen shrub | 2-3 | Premier N-fixer for orchard understory; cut-and-carry fodder |
 | Cercis siliquastrum | Judas tree | Deciduous tree | 2-3 | Ornamental, bee forage |
-| Ceratonia siliqua | Carob | Evergreen tree | 3-4 | Stock feed, 500+ year lifespan, drought tolerant, pods edible |
-| Elaeagnus angustifolia | Russian olive | Deciduous tree | 3-4 | Windbreak, edible fruit, salt tolerant |
+| Ceratonia siliqua | Carob | Evergreen tree | 3-4 | Stock feed, 500+ year lifespan, [[permplant-carob-drought-tolerant-food-tree]], pods edible |
+| Elaeagnus angustifolia | Russian olive | Deciduous tree | 3-4 | Windbreak, edible fruit, [[halotolerant-halophilic-fungi-salt-tolerant-diversity]] |
 | Gleditsia triacanthos | Honey locust | Deciduous tree | 3-4 | Stock fodder pods, bee forage, windbreak |
 | Albizia julibrissin | Silk tree | Deciduous tree | 2-3 | Ornamental, N-fixer, bee forage |
 
@@ -86,7 +86,7 @@ Reference table of plants organised by function. Sourced primarily from "Permacu
 | Tagasaste | 2-3 | Cut-and-carry mulch, fodder; responds to coppicing |
 | Casuarina spp | 3-4 | Needle drop creates acid mulch |
 | Populus spp | 3-4 | Leaf mulch, fast growth |
-| Tithonia diversifolia | 1-2 | Extremely fast biomass production in tropics |
+| Tithonia diversifolia | 1-2 | Extremely fast [[dighton-fungal-biomass-production-aquatic-ecosystems]] in tropics |
 
 ## Bee Forage (by Season)
 
@@ -95,11 +95,11 @@ Reference table of plants organised by function. Sourced primarily from "Permacu
 | Winter-Spring | Acacia spp, Banksia spp, Eucalyptus melliodora, tagasaste, hakea |
 | Spring | Hawthorn, maple, citrus, Prunus spp, clovers, dandelion, borage |
 | Summer | Black locust, linden/basswood, Eucalyptus globulus, thyme, lavender |
-| Autumn | Banksia integrifolia, Eucalyptus calophylla, ivy, Japanese raisin tree |
+| Autumn | Banksia integrifolia, Eucalyptus calophylla, ivy, [[permaculture-japanese-raisin-tree-hovenia-dulcis]] tree |
 
 ## Low Fire Potential Trees
 
-Key species for fire-prone areas: carob, black locust, English oak, holm oak, cork oak, poplar, willow, elm, hazel, hawthorn, linden, sweet chestnut, Ginkgo biloba, Paulownia, olive, photinia, Zelkova. See full list in source (150+ species).
+Key species for fire-prone areas: carob, black locust, English oak, holm oak, cork oak, poplar, willow, elm, hazel, hawthorn, linden, [[holzer-sweet-chestnut-and-nut-trees]], Ginkgo biloba, Paulownia, olive, photinia, Zelkova. See full list in source (150+ species).
 
 ## Related Pages
 - [[dynamic-accumulators]] -- Detailed accumulator profiles by nutrient

@@ -1,11 +1,12 @@
 ---
-title: Organic Fruit Tree Care Calendar
+title: hamilton-organic-fruit-growing Tree Care Calendar
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 # Organic Fruit Tree Care Calendar
 
@@ -30,7 +31,7 @@ Month-by-month guide to organic fruit tree care in temperate climates. Covers ap
 
 ### Bud Break
 - **Pruning**: Finish winter pruning before buds swell. Prune blackcurrants (remove old wood)
-- **Feeding**: Apply general organic fertilizer around trees
+- **Feeding**: Apply general [[complete-organic-fertilizer-cof-recipe-solomon]] around trees
 - **Mulching**: Top up mulch to retain spring moisture
 - **Pest control**: Hang pheromone traps for codling moth. Install grease bands
 - **Soft fruit**: Cut out old canes of summer-fruiting raspberries (leave 6-8 strongest per plant)
@@ -39,7 +40,7 @@ Month-by-month guide to organic fruit tree care in temperate climates. Covers ap
 
 ### Blossom Time
 - **Pollination**: Don't spray during blossom — protect pollinators
-- **Frost protection**: Cover blossoms with fleece on frost nights (critical for stone fruits)
+- **[[holzer-frost-protection-techniques]]**: Cover blossoms with fleece on frost nights (critical for stone fruits)
 - **Pest control**: Start monitoring for aphids. Encourage ladybugs
 - **Weeding**: Keep area around trees clear of grass (grass competes for nutrients)
 - **Feeding**: Apply high-potash organic feed to fruit bushes (encourages fruiting)
@@ -59,7 +60,7 @@ Month-by-month guide to organic fruit tree care in temperate climates. Covers ap
 - **Thinning**: Final thinning of apples, peaches, plums
 - **Watering**: Water fruit trees in dry spells (critical when fruit is swelling)
 - **Soft fruit**: Pick summer-fruiting raspberries, strawberries, gooseberries
-- **Feeding**: Liquid feed fruit in containers weekly (seaweed or comfrey tea)
+- **Feeding**: Liquid feed fruit in containers weekly (seaweed or [[comparison-comfrey-tea-vs-compost-tea]])
 - **Pest control**: Monitor for codling moth, apply nematode sprays if needed
 
 ## July
@@ -100,7 +101,7 @@ Month-by-month guide to organic fruit tree care in temperate climates. Covers ap
 ## December
 
 - **Pruning**: Continue winter pruning
-- **Planning**: Review fruit varieties, plan new plantings
+- **Planning**: Review [[holzer-stone-fruit-varieties-and-growing]], plan new plantings
 - **Tool maintenance**: Clean, sharpen, oil pruning tools
 - **Spraying**: Winter wash if pest problems were significant
 
@@ -110,7 +111,7 @@ Month-by-month guide to organic fruit tree care in temperate climates. Covers ap
 |---|---|---|
 | Codling moth | Maggots in apples | Pheromone traps, nematode spray, encourage parasitic wasps |
 | Apple scab | Dark spots on leaves/fruit | Resistant varieties, copper spray at green tip, rake fallen leaves |
-| Brown rot | Brown, shriveled fruit | Remove infected fruit immediately, good air circulation |
+| Brown rot | Brown, shriveled fruit | Remove infected fruit immediately, good [[stamets-growing-room-air-circulation-co2-management]] |
 | Aphids | Curled leaves, sticky honeydew | Encourage ladybugs, insecticidal soap, neem oil |
 | Canker | Sunken bark lesions | Cut out with clean tools, paint wound, resistant varieties |
 | Sawfly | Defoliated gooseberries | Hand-pick larvae, encourage ground beetles |

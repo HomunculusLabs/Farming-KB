@@ -12,9 +12,9 @@ type: comparison
 
 ## Overview
 Deep bed cultivation and square foot gardening are both intensive, space-
-efficient growing methods that rely on permanent raised beds and close plant
+efficient [[mushroom-growing-methods-comparison]] that rely on permanent raised beds and close plant
 spacing. They share core principles including no compaction from foot traffic,
-block planting rather than rows, and high organic matter inputs, but they
+block planting rather than rows, and high [[hamilton-composting-and-organic-matter-management]] inputs, but they
 differ significantly in their approach to soil preparation, plant spacing
 systems, and ongoing management philosophy. Both methods aim to maximize food
 production from limited space while minimizing waste, weeding, and water use.
@@ -37,7 +37,7 @@ with freehand planting. Standard bed size is 4x4 feet, yielding 16 squares per
 bed. Vertical growing on the north side of beds (tomatoes, cucumbers, pole
 beans) saves ground space for additional squares.
 
-The succession planting system maximizes SFG productivity: when a square is
+The [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] system maximizes SFG productivity: when a square is
 harvested, compost is added and the square is immediately replanted. Cool-
 season crops like spinach and radishes can be double- or triple-cropped
 through spring, summer, and fall. A sample plan might move from peas in spring
@@ -54,7 +54,7 @@ quality.
 | Soil medium | Native soil improved with compost | Imported mix (compost, coir, vermiculite) |
 | Setup labor | High (double-digging is physically demanding) | Moderate (building frames, mixing soil) |
 | Ongoing labor | Top-dress compost annually | Replant squares immediately after harvest |
-| Ideal crops | Root vegetables, alliums, leafy greens | All vegetables, especially varied plantings |
+| Ideal crops | [[growing-root-vegetables-guide]], alliums, leafy greens | All vegetables, especially varied plantings |
 | Cost | Low (uses existing soil and compost) | Moderate (imported soil components) |
 | Vertical growing | Not specified | Integral part of the system |
 | Best For | Gardeners with decent native soil | Beginners, urban growers, poor soil sites |
@@ -89,7 +89,7 @@ space for both approaches.
 
 ## See Also
 
-- [[raised-bed-gardening]] — bed construction fundamentals shared by both methods
-- [[sheet-mulching-guide]] — no-dig alternative for bed preparation
+- [[raised-bed-gardening]] — [[hugelkultur-bed-construction-detailed]] fundamentals shared by both methods
+- [[sheet-mulching-guide]] — no-dig alternative for [[azurescens-outdoor-bed-preparation-woodchips]]
 - [[cover-crops]] — soil building between crops in deep bed systems
 - saffron cultivation and harvesting

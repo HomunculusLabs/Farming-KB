@@ -3,7 +3,7 @@
 
 ## The Central Question
 
-Fukuoka poses a deceptively simple question: if fertilizer is essential for [[how-do-i-choose-between-straw-bale-and-earthbag-construction]] mountain forests produce enormous volumes of timber year after year without any fertilizer application whatsoever?
+Fukuoka poses a deceptively simple question: if fertilizer is essential for [[how-do-i-choose-between-straw-bale-and-earthbag-construction]] mountain forests produce enormous volumes of timber year after year without any [[cervantes-fertilizer-application-strain-feeding]] whatsoever?
 
 Reforested cedars in favorable areas grow approximately 40 tons per quarter-acre over a 20-year period — about 2 tons of new growth annually from lumber alone. Counting branches, leaves, and roots, annual production approaches 4 tons per quarter-acre. This occurs on sites where the entire above-ground portion of the tree (trunk, branches, leaves) is periodically removed — effectively slash-and-burn agriculture on a rotation cycle.
 
@@ -69,11 +69,11 @@ At agricultural research centers, the same process is replicated in miniature: f
 
 Fukuoka characterizes this entire approach as "the poor farmer [taking] the long way around." The farmer:
 
-- Destroys the natural fertility system that was already working
+- Destroys the [[fukuoka-natural-fertility-cycle]] system that was already working
 - Creates the conditions of sterility that make fertilizer appear necessary
 - Then spends thirty to fifty percent of orchard operating costs purchasing the fertilizer needed to compensate for the fertility he himself destroyed
 
-The no-fertilizer principle does not say that fertilizers are totally worthless, but that "there is no need to apply chemical fertilizers." Nature provides all the fertilizers needed through the biological processes that operate continuously in living soil.
+The no-fertilizer principle does not say that fertilizers are totally worthless, but that "there is no need to apply [[cervantes-chemical-fertilizers-guide]]." Nature provides all the fertilizers needed through the biological processes that operate continuously in living soil.
 
 ## The Unknowable Complexity of Soil
 
@@ -91,9 +91,9 @@ Each year the topsoil becomes darker and richer in undisturbed natural systems. 
 
 One of the most significant consequences of fertilizer dependence that Fukuoka identifies is trace element deficiency. Chemical fertilizers supply only the "big three" — nitrogen, phosphorus, and potassium — in concentrated form. While these promote rapid above-ground growth, they do so at the expense of the dozens of micronutrients that plants require for complete health.
 
-The interactions between fertilizer components create cascading deficiencies. Too much potassium blocks iodine uptake and reduces boron absorption. Higher nitrogen and phosphate levels cause zinc and boron deficiency. When the soil turns acidic from concentrated sulfuric acid in fertilizers, deficiencies of zinc, manganese, boron, and iodine develop because these elements become less [[soil-microorganisms-natural-fertility]] decompose this material, releasing nutrients in forms that living plants can absorb. The cycle is continuous and self-sustaining.
+The interactions between fertilizer components create cascading deficiencies. Too much potassium blocks iodine uptake and reduces boron absorption. Higher nitrogen and phosphate levels cause zinc and [[query-how-to-fix-boron-deficiency-in-cannabis]]. When the soil turns acidic from concentrated sulfuric acid in fertilizers, deficiencies of zinc, manganese, boron, and iodine develop because these elements become less [[soil-microorganisms-natural-fertility]] decompose this material, releasing nutrients in forms that living plants can absorb. The cycle is continuous and self-sustaining.
 
 Fukuoka emphasizes that in living soil, "microorganisms do not exist without reason." This principle — that the no-till farming approach preserves rather than destroys — is central to his philosophy. Each microorganism "lives for a purpose, struggling, cooperating, and carrying on the cycles of nature." The soil is not a passive substrate for plant growth but an active biological community whose health determines the health of everything that grows in it.
 
-This is why no-fertilizer natural farming requires healthy soil as a precondition. Fields that have been degraded by years of chemical agriculture cannot immediately switch to no-input methods and expect good results. A transition period is needed during which the biological community is restored through [[fukuoka-natural-alfalfa-black-wattle-ground-cover]]-farming-philosophy|Fukuoka's natural farming philosophy and contrasted with other approaches in [[decomposition]]
+This is why no-fertilizer [[comparison-natural-farming-vs-permaculture]] requires healthy soil as a precondition. Fields that have been degraded by years of chemical agriculture cannot immediately switch to no-input methods and expect good results. A transition period is needed during which the biological community is restored through [[fukuoka-natural-alfalfa-black-wattle-ground-cover]]-farming-philosophy|Fukuoka's natural [[fukuoka-do-nothing-farming-philosophy-and-practice]] and contrasted with other approaches in [[decomposition]]
 - [[natural-farming]]

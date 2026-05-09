@@ -1,5 +1,5 @@
 ---
-title: Garden Tools Selection
+title: solomon-garden-tools-selection-and-maintenance Selection
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Garden Tools Selection
 
-Steve Solomon advocates that successful vegetable gardening requires only a few well-chosen hand tools, properly maintained. Garden centers and catalogs promote the idea that appealing merchandise is useful and essential — most of it is not.
+Steve Solomon advocates that successful [[home-vegetable-garden-planning]] requires only a few well-chosen [[garden-hand-tools-solomon]], properly maintained. [[solomon-garden-centers-seedling-traps]] and catalogs promote the idea that appealing merchandise is useful and essential — most of it is not.
 
 ## The Essential Few Tools
 
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

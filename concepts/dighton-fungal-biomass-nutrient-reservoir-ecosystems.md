@@ -1,5 +1,5 @@
 ---
-title: Fungal Biomass as Nutrient Reservoir in Ecosystems
+title: bioremediation-fungal-biomass-biosorbent-material as Nutrient Reservoir in Ecosystems
 created: 2026-04-26
 tags:
   - mycology
@@ -21,12 +21,12 @@ ecosystems, functioning as both a temporary sink and a slow-release source of
 essential elements. The magnitude of this nutrient reservoir varies among
 ecosystem types and depends on the dominant fungal groups, their growth forms,
 and the chemical composition of available substrates. Understanding the role
-of fungi as nutrient reservoirs is critical for predicting nutrient cycling
+of fungi as nutrient reservoirs is critical for predicting [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 rates and ecosystem responses to disturbance.
 
 ## Fungal Biomass in Forest Ecosystems
 
-Fogel and Hunt (1983) quantified the standing crop organic matter allocation
+Fogel and Hunt (1983) quantified the standing crop [[hamilton-composting-and-organic-matter-management]] allocation
 in a second-growth Douglas fir forest ecosystem. Fungal biomass represented
 approximately 2% of the total standing stock, compared to 78-79% in tree
 biomass, 17% in soil organic matter, and 4% in forest floor litter. Within
@@ -59,7 +59,7 @@ nature of fungal biomass.
 
 ## Fungal Biomass in Tropical Forest Soils
 
-Lodge (1993) showed that fungal biomass in wet tropical forest soils contains
+Lodge (1993) showed that fungal biomass in [[mollison-wet-tropical-forest-structure-and-polyculture]] forest soils contains
 a large reservoir of nutrients. The proportion of nutrient elements contained
 in fungal biomass relative to leaf litter and soil extractable pools was
 particularly striking for phosphorus: fungal biomass contained 22.2% of leaf
@@ -90,7 +90,7 @@ increasingly less available to plant growth.
 
 ## Fungal Biomass and Seasonal Dynamics
 
-Behera et al. (1991) found 36 species of fungi in tropical forest soils and
+Behera et al. (1991) found 36 species of [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] forest soils and
 showed that composition and biomass changed between seasons. Greatest biomass
 and species number occurred in January following the rainy season, showing
 positive correlation with both soil moisture and soil organic matter content.
@@ -119,7 +119,7 @@ floor material, providing localized spots of high rates of mineral nutrient
 release. In temperate zones, the spring and fall abundance of fruit body
 production may coincide with periods of high root growth and high nutrient
 demand by trees, creating a synchrony between nutrient supply and demand. The
-duration of nutrient immobilization into fungal hyphae before translocation to
+duration of [[dighton-fungal-nutrient-immobilization-turnover]] into fungal hyphae before translocation to
 the fruit body represents an important aspect of the temporal control fungi
 exert on rates and timing of nutrient pulses within forest ecosystems.
 

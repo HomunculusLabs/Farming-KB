@@ -1,5 +1,5 @@
 ---
-title: Cannabis Light Spectrum and Color Bands
+title: Cannabis cannabis light spectrum and color bands and Color Bands
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Cannabis Grow Bible, Greg Green (Ch. 5)
+Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, Greg Green (Ch. 5)
 
 Understanding light spectrum is essential for choosing the right lighting and maximizing cannabis growth. Greg Green explains how different wavelengths of light affect plant development.
 
@@ -19,11 +19,11 @@ Understanding light spectrum is essential for choosing the right lighting and ma
 The visible light spectrum ranges from approximately 380nm (violet) to 750nm (red). Different portions of this spectrum serve different functions in plant growth:
 
 ### Blue Light (400–500nm)
-- Promotes compact, bushy vegetative growth
+- Promotes compact, bushy [[cannabis-vegetative-growth-stage]]
 - Encourages strong stems and healthy leaf development
 - Short internode spacing
-- Ideal for the vegetative stage
-- Produced strongly by metal halide (MH) bulbs
+- Ideal for the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]
+- Produced strongly by [[cervantes-metal-halide-lighting-systems]] (MH) bulbs
 
 ### Green Light (500–600nm)
 - Least absorbed by chlorophyll — mostly reflected (which is why plants appear green)
@@ -34,7 +34,7 @@ The visible light spectrum ranges from approximately 380nm (violet) to 750nm (re
 - Promotes flowering, stretching, and bud development
 - Triggers and supports the flowering response
 - Longer internodes, taller growth
-- Ideal for the flowering stage
+- Ideal for the [[cannabis-flowering-stage-management]]
 - Produced strongly by high-pressure sodium (HPS) bulbs
 
 ### Far-Red / Infrared (700–750nm+)

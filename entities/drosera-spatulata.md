@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-**Drosera spatulata**, the spoon-leaved sundew, is a small carnivorous plant in the family Droseraceae. It is among the most widely distributed sundew species, native to Southeast Asia, Japan, Australia, and New Zealand.
+**Drosera spatulata**, the spoon-leaved sundew, is a small carnivorous plant in the family Droseraceae. It is among the most widely distributed sundew species, native to [[psilocybe-southeast-asia-pacific]], Japan, Australia, and New Zealand.
 
 The species forms compact rosettes typically 3–5 cm in diameter. Its spoon-shaped laminae covered in glandular trichomes give it both its common and scientific name.
 
@@ -54,7 +54,7 @@ The trapping mechanism follows the standard Drosera model of flypaper-type carni
 
 When an insect contacts the mucilage, it becomes stuck. Adjacent tentacles bend toward the prey within minutes through thigmonastic movement, bringing additional glands into contact.
 
-The leaf itself may slowly fold over larger prey items. Digestive enzymes including proteases and chitinases break down the prey over several hours to days.
+The leaf itself may slowly fold over larger prey items. Digestive enzymes including proteases and chitinases [[query-can-fungi-break-down-plastic-pollution]] the prey over several hours to days.
 
 Absorbed nutrients, primarily nitrogen and phosphorus, supplement the plant's intake from the impoverished substrate. This adaptation allows D. spatulata to thrive where most plants cannot compete.
 
@@ -74,9 +74,9 @@ D. spatulata is considered one of the easiest carnivorous plants to grow. It is 
 
 ## Related Species and Variation
 
-D. spatulata exhibits considerable morphological variation across its range, leading to historical taxonomic confusion. Several former varieties and subspecies have been described.
+D. spatulata exhibits considerable morphological [[psilocybin-psilocin-variation-across-flushes]] its range, leading to historical [[neurotropic-fungi-taxonomic-confusion-and-identification]]. Several former varieties and subspecies have been described.
 
-The Japanese form tends to produce broader laminae with more pronounced red coloration. Australian populations often display narrower petioles and a more compact growth habit.
+The Japanese form tends to produce broader laminae with more pronounced red coloration. Australian populations often display narrower petioles and a more [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit.
 
 Tropical Southeast Asian forms typically grow year-round without dormancy. Temperate populations from Japan and southern Australia may produce a winter resting bud (hibernaculum) in colder conditions.
 
@@ -90,7 +90,7 @@ The species serves as a food source for specialized herbivores in some regions. 
 
 Its presence is an indicator of nutrient-poor, waterlogged conditions. The plants often grow in association with other carnivorous species including Utricularia and other Drosera.
 
-D. spatulata plays a role in nutrient cycling within bog ecosystems. By capturing insect prey, it redistributes nitrogen and phosphorus from the animal kingdom into the plant-available nutrient pool.
+D. spatulata plays a role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within bog ecosystems. By capturing insect prey, it redistributes nitrogen and phosphorus from the animal kingdom into the plant-available nutrient pool.
 
 ## Conservation Status
 
@@ -103,6 +103,9 @@ Collection from the wild is generally not a significant threat due to the specie
 Several populations within protected areas and national parks receive indirect conservation benefit. The species' ability to colonize artificial wet habitats provides additional resilience.
 
 ## See Also
+
+- [[drosera-binata]]
+- [[drosera-burmannii]]
 
 - [[drosera-capensis]]
 - [[drosera-anglica]]

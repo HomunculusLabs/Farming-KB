@@ -1,5 +1,5 @@
 ---
-title: JADAM Sulfur Application
+title: ultra-low-jadam-sulfur-js Application
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -14,11 +14,11 @@ JADAM sulfur (JS), also called red clay-sulfur, is a powerful germicide develope
 
 ## Cost and Efficiency
 
-Making 1 L (0.26 gal) of JS (25% sulfur) costs only about $0.50. 100 L of JS can be used 60-100 times when diluted to make 500 L of pesticide spray.
+Making 1 L (0.26 gal) of JS (25% sulfur) costs only about $0.50. 100 L of JS can be used 60-100 times when diluted to make 500 L of [[jadam-pesticide-spray-timing-and-technique]].
 
 ## What It Controls
 
-Effective against: black spot, pear rust, powdery mildew, downy mildew, and most fungal diseases.
+Effective against: black spot, pear rust, [[cervantes-powdery-mildew-prevention-treatment]], [[cervantes-downy-mildew-fungal-blight]], and most fungal diseases.
 
 ## Ingredients (for 100 L batch)
 
@@ -26,8 +26,8 @@ Effective against: black spot, pear rust, powdery mildew, downy mildew, and most
 - Caustic soda (NaOH): 20 kg (98%)
 - Water: 82 L total (50 L first pour + 32 L second pour; in summer above 27C use 54 L + 28 L)
 - Phyllite powder: 0.5 kg
-- Red clay powder: 0.5 kg (can substitute very fine rock powder)
-- Sea salt: 1.5 kg
+- Red [[jadam-red-clay-powder-method]]: 0.5 kg (can substitute very fine rock powder)
+- [[jadam-sea-salt-and-mineral-solutions]]: 1.5 kg
 
 ## Equipment
 
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

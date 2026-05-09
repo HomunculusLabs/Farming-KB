@@ -1,5 +1,5 @@
 ---
-title: "Spent Oyster Mushroom Substrate Recycling"
+title: "Spent Oyster gourmet-medicinal-mushroom-substrate-preparation Recycling"
 created: 2026-04-28
 tags: [sustainability, recycling, compost, waste-management]
 date: 2026-04-28
@@ -22,21 +22,21 @@ percentages of the three primary fertilizer nutrients (N, P, K):
   manure)
 
 These values demonstrate that spent oyster mushroom substrate is a superior
-organic fertilizer compared to conventional animal manures. The substrate
+[[complete-organic-fertilizer-cof-recipe-solomon]] compared to conventional animal manures. The substrate
 also contains essential minerals including Mg, Ca, Na, K, Mn, and Zn.
 
 ## Handling Contaminated SMS
 
 SMS needs heat treatment before removal from the growing chamber to prevent
 re-contamination of new crops. Without proper treatment, contaminated SMS can
-spread green mold and other pathogens. Some growers steam the spent substrate
+spread green mold and other pathogens. Some growers steam the [[oyster-mushroom-spent-substrate-recycling]]
 before removal, while others apply fungicides such as diluted formalin
 solution, Benlate, or Panmashi. The spent substrate should be moved far from
 the farm to prevent infection of new crops.
 
 ## Animal Feed Applications
 
-SMS can serve as livestock feed after mushroom cultivation. The mushroom
+SMS can serve as livestock feed after [[accessible-mushroom-cultivation-for-disabilities]]. The mushroom
 mycelia remaining in the substrate are rich in protein (up to 38%), making
 the spent material a valuable feed supplement. Research has demonstrated
 successful use of spent substrate for feeding:
@@ -74,7 +74,7 @@ enzymes that can break down environmental pollutants:
 
 ## ZERI Project Applications
 
-The Zero Emissions Research and Initiatives (ZERI) Foundation has pioneered
+The Zero [[zero-emissions-research-and-initiatives]] and Initiatives (ZERI) Foundation has pioneered
 innovative SMS recycling programs:
 
 - **Colombia**: Spent coffee substrate used as cattle and pig feed. Pig
@@ -106,10 +106,10 @@ developed countries.
 
 ## See Also
 
-- [[spent-mushroom-substrate-recycling]]
+- spent-mushroom-substrate-recycling
 
 - Oyster Mushroom Sustainability
 - Oyster Mushroom Economic Development
 - [[oyster-straw-substrate-preparation]]
-- Oyster Mushroom Nutrition
+- Oyster [[cotter-mushroom-nutrition-medicinal-compounds]]
 - Oyster Post-Harvest Handling

@@ -1,5 +1,5 @@
 ---
-title: Gasteromycetes: Puffballs, Earthstars, and Bird's Nest Fungi
+title: Gasteromycetes: Puffballs, Earthstars, and Bird's bloomfield-birds-nest-fungi-peridiole-splash-herbivore-dispersal
 created: 2026-04-28
 tags: [gasteromycete, puffball, earthstar, birds-nest-fungus, spore-dispersal,
       stinkhorn, sphaerobolus, basidiomycete, fungus-evolution]
@@ -14,15 +14,15 @@ The gasteromycetes are a diverse group of fungi that have evolved
 enclosed fruiting bodies in which spores form internally rather than
 on exposed surfaces like gills. Their name derives from Greek: gaster
 (stomach) and mycetes (fungi), the stomach fungi. They represent
-some of the most inventive spore dispersal mechanisms in nature,
+some of the most inventive [[aquatic-fungi-spore-dispersal-ingold]] mechanisms in nature,
 ranging from passive wind release to explosive catapults and insect
 lures.
 
 ## Definition and Diversity
 
 Gasteromycetes are defined by the fact that their spores form inside
-the fruiting body rather than on exposed fertile surfaces. This group
-includes stinkhorns, cage fungi, puffballs, earth-balls, earth-stars,
+the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] rather than on exposed fertile surfaces. This group
+includes stinkhorns, [[stinkhorn-cage-fungi-reproductive-biology]], puffballs, earth-balls, earth-stars,
 and bird's nest fungi. They are not a natural evolutionary grouping
 but rather a collection of species that independently evolved enclosed
 fruiting bodies from different ancient mushroom-forming ancestors.
@@ -129,5 +129,7 @@ principles of physics and timing.
   for fungal reproductive strategies
 
 ## See Also
+
+- bloomfield-gasteromycetes-puffballs-earthstars-false-truffles-evolution
 
 - [[astraeus-hygrometricus]]

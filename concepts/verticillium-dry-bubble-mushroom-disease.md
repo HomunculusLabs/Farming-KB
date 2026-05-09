@@ -16,7 +16,7 @@ type: concept
 
 # Verticillium Dry Bubble Disease in Mushroom Crops
 
-Verticillium is the most common fungal disease parasitizing cultivated mushroom
+Verticillium is the most common [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] parasitizing cultivated mushroom
 crops and the bane of both small-scale and large commercial growers. Known by
 the common names dry bubble, brown spot, and Verticillium disease, it
 specifically targets the mushroom fruitbody and can cause devastating crop
@@ -36,11 +36,11 @@ identification, transmission, and control in *The Mushroom Cultivator*.
 ## Environmental Conditions Promoting Infection
 
 Verticillium is promoted during cropping under conditions of excessive
-humidity combined with inadequate air circulation. The fungus grows within a
-broad temperature range, preferring warmer temperatures of 62 degrees
+humidity combined with inadequate [[stamets-growing-room-air-circulation-co2-management]]. The fungus grows within a
+broad [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]], preferring warmer temperatures of 62 degrees
 Fahrenheit and above, with an optimum reported by Singer (1961) of 72
 degrees Fahrenheit. Verticillium abounds in most soils and is typically
-introduced into the growing environment via the casing layer materials.
+introduced into the [[cannabis-growing-environment-setup]] via the casing layer materials.
 
 ## Macroscopic Symptoms
 
@@ -60,7 +60,7 @@ relative to a fatter-than-normal stem. The overall texture is dry and leathery.
 ### On Psilocybe Cubensis
 
 Parasitized caps frequently become plane at an early stage. The stem becomes
-swollen and hollow, narrowing radically toward the apex. A downy mildew
+swollen and hollow, narrowing radically toward the apex. A [[cervantes-downy-mildew-fungal-blight]]
 develops over the cap and stem surface only in extremely humid environments.
 The characteristic "Verticillium spots" seen on white Agaricus mushrooms
 appear as "Verticillium streaks" on the brownish-capped P. cubensis.
@@ -129,9 +129,12 @@ concurrent contaminant problems.
 
 ## Species Resistance Differences
 
-Steane (1979) reported that [[mycoremediation-dye-textile-wastewater]] applications and biological
-pest control in agricultural settings.
+Steane (1979) reported that mycoremediation-dye-textile-wastewater applications and biological
+[[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] in agricultural settings.
 ## See Also
 
 - [[bulk-substrate-preparation]] for hygiene during substrate handling
 - [[garden-disease-identification]] for broader plant disease context
+- [[mycoremediation]]
+- [[psilocybe-cubensis]]
+- [[stamets-mushroom-disease-pathogens-contaminants]]

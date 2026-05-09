@@ -19,9 +19,9 @@ Cannabis has served as a sacred sacrament across numerous cultures and religious
 The text identifies cannabis as a medicine, a fiber, and a sacrament -- three roles it has fulfilled across cultures. The author draws explicit parallels between cannabis use in magickal practice and the use of sacramental substances in established religions:
 
 - **Christianity** uses bread and wine as sacred communion elements, drawing the faithful into direct contact with the divine through physical consumption
-- **Native American cultures** use peyote and ayahuasca to attain heightened states of consciousness enabling communication with the gods, representing a well-documented tradition of entheogenic spiritual practice
+- **[[halpern-sacramental-peyote-and-native-american-church]] cultures** use peyote and [[ayahuasca]] to attain heightened states of consciousness enabling communication with the gods, representing a well-documented tradition of entheogenic spiritual practice
 - **Rastafarianism** already holds cannabis as a formal religious sacrament, treating it as a holy herb given by Jah for meditation and spiritual connection
-- The **early Christian church** is suggested as having likely used cannabis in sacred contexts, though the text does not provide specific historical evidence for this claim
+- The **[[allegro-dead-sea-scrolls-and-early-christian-sects]] church** is suggested as having likely used cannabis in sacred contexts, though the text does not provide specific historical evidence for this claim
 
 These comparisons establish cannabis within a broad cross-cultural tradition of entheogenic spiritual practice, framing it as one expression of a universal human impulse to use plant substances as bridges to the divine. The guide's forward frames this as a natural relationship: cannabis "comes out of [the earth] naturally" and should be integrated into worship accordingly.
 
@@ -46,7 +46,7 @@ Ancient and recurring patterns in the text's rituals follow a four-direction, fo
 - **East / Fire**: Honoring the gift of fire, energy, warmth, and knowledge. The east references the ancient Greek myth of Prometheus, who stole fire from the gods and gave it to humanity. In this framework, fire represents knowledge itself -- a divine gift that humans have learned to sustain and harness
 - **West / Water**: Honoring water as the life-sustaining liquid enabling all flourishing, the oceans, lakes, and rivers that support terrestrial life
 
-Each direction is addressed with specific incantations, and the practitioner physically turns to face each cardinal point during the ritual sequence. This directional structure mirrors ceremonial magick traditions such as the Lesser Banishing Ritual of the Pentagram, suggesting continuity with older occult practices dating back centuries.
+Each direction is addressed with specific incantations, and the practitioner physically turns to face each cardinal point during the [[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]]. This directional structure mirrors ceremonial magick traditions such as the Lesser Banishing Ritual of the Pentagram, suggesting continuity with older occult practices dating back centuries.
 
 ## The Prometheus Myth and Sacred Fire
 
@@ -82,7 +82,7 @@ The "Smoke and Mirrors" ritual concludes with a formal banishing of the pentagra
 
 ### Vortex and Transformation Rituals
 
-The Vortex ritual is described as a practice of personal transformation and renewal, involving the symbolic death of the old self and rebirth into a new state. The practitioner declares "I am born anew in the light of the sacred earth in the dawn of this new beginning." Death-and-rebirth rituals are among the most ancient forms of human religious practice, appearing in the Eleusinian Mysteries of ancient Greece, the Osiris cult of Egypt, and in shamanic initiation ceremonies worldwide. The guide's adaptation uses cannabis as the catalyst for this transformative experience, with the sigil and vortex visualization serving as the technical mechanism for psychic restructuring.
+The Vortex ritual is described as a practice of personal transformation and renewal, involving the symbolic death of the old self and rebirth into a new state. The practitioner declares "I am born anew in the light of the sacred earth in the dawn of this new beginning." Death-and-rebirth rituals are among the most ancient forms of human religious practice, appearing in [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] ries of ancient Greece, the Osiris cult of Egypt, and in shamanic initiation ceremonies worldwide. The guide's adaptation uses cannabis as the catalyst for this transformative experience, with the sigil and vortex visualization serving as the technical mechanism for psychic restructuring.
 
 ## Attitudinal Principles Governing Ancient Use
 
@@ -116,7 +116,7 @@ The guide's treatment of cannabis parallels the way many religious traditions tr
 - **Soma** in Vedic Hinduism: A sacred plant-based drink used in religious ceremonies to induce visionary states, though the identity of the original Soma plant remains debated among scholars
 - **Haoma** in Zoroastrianism: Similar to Soma, a plant-based sacrament used in Yasna ceremonies for purification and communion
 - **Peyote** in Native American Church ceremonies: Used in structured all-night rituals involving prayer, singing, and contemplation -- a model of responsible, community-based entheogenic practice
-- **Ayahuasca** in Amazonian shamanism: A brewed herbal preparation used in ceremonial contexts for healing and divination, typically administered under the guidance of an experienced practitioner
+- **Ayahuasca** in [[mckenna-food-gods-amazonian-shamanism-ayahuasca]]: A brewed herbal preparation used in ceremonial contexts for [[metzner-shamanic-healing-and-divination-paradigm]], typically administered under the guidance of an experienced practitioner
 
 The guide's insistence on "proper motives and deference to the earth" places it within this tradition of structured, intentional, and reverent entheogenic use rather than casual recreational consumption.
 

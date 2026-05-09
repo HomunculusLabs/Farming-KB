@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-*Monostroma nitidum* is a species of edible green seaweed in the family Monostromataceae, widely harvested and cultivated in East Asia for human consumption. It is known by the Japanese name **aonori** (when dried and powdered) or **hitoe-gusa** (single-layered grass), and by the Chinese name **qingcai**.
+*Monostroma nitidum* is a species of edible green seaweed in the family Monostromataceae, widely harvested and cultivated in [[neurotropic-fungi-japan-east-asia-species-cultural-context]] for human consumption. It is known by the Japanese name **aonori** (when dried and powdered) or **hitoe-gusa** (single-layered grass), and by the Chinese name **qingcai**.
 
 The species is a pioneer colonizer of estuarine and intertidal environments, forming distinctive single-cell-layer-thick sheets that blanket rocks and mudflats. Its delicate texture and mild, sweet flavor make it a valued ingredient in Japanese and Chinese cuisine.
 
@@ -42,7 +42,7 @@ The thallus of *M. nitidum* is its most distinctive feature — a thin, membrano
 
 The thallus is broadly expanded, irregularly shaped, and 5–20 cm in diameter when mature. It attaches to substrates via a small basal holdfast and expands freely from a central point. Color is bright green to yellowish-green, with a smooth, glossy surface (hence *nitidum*, meaning "shining").
 
-Individual cells are polygonal in surface view, 8–20 μm in diameter, each containing a single parietal chloroplast with one to several pyrenoids. Reproductive cells are produced over the entire thallus surface in mature specimens, with the life cycle involving an alternation between macroscopic gametophyte and microscopic sporophyte phases.
+Individual cells are polygonal in surface view, 8–20 μm in diameter, each containing a single parietal chloroplast with one to several pyrenoids. Reproductive cells are produced over the entire thallus surface in mature specimens, with the [[bloomfield-fungal-life-cycle-spiral-versus-circle]] involving an alternation between macroscopic gametophyte and microscopic sporophyte phases.
 
 ## Distribution and Habitat
 
@@ -68,7 +68,7 @@ Mineral content is substantial, with calcium at 400–700 mg/100 g dry weight, i
 
 Notably, *M. nitidum* contains biologically active vitamin B12 (cobalamin) at 50–100 μg/100 g dry weight. While some seaweed B12 consists of inactive pseudovitamin B12, studies confirm that *Monostroma* species produce true cobalamin, making it a rare non-animal source of this essential vitamin.
 
-The fatty acid profile includes linoleic acid (omega-6) at 8–12% and alpha-linolenic acid (omega-3) at 5–8% of total fatty acids, providing a favorable omega-6:omega-3 ratio compared to terrestrial food sources.
+The fatty acid profile includes linoleic acid (omega-6) at 8–12% and alpha-linolenic acid (omega-3) at 5–8% of total [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]], providing a favorable omega-6:omega-3 ratio compared to terrestrial food sources.
 
 Pigment composition is dominated by chlorophyll a and b, with accessory pigments including lutein, violaxanthin, and neoxanthin. Total carotenoid content reaches 300–500 mg/kg dry weight, contributing both to the species' nutritional value and its antioxidant capacity. Lutein in particular has attracted attention for its role in eye health.
 
@@ -86,7 +86,7 @@ Fujian-style Monostroma soup is considered a regional delicacy and is served at 
 
 Commercial aonori powder is produced by washing, drying, and milling whole thalli. Premium grades retain a bright green color and strong aroma, while lower grades may include mixed species or material from later-season harvests with reduced quality. The global market for aonori is estimated at 500–800 tonnes dried weight annually.
 
-Quality standards in Japan differentiate between *M. nitidum*-based aonori (considered superior) and *Enteromorpha*-based products. Authentic aonori commands a price premium of 2–3 times over mixed-species green seaweed powders. DNA barcoding is increasingly used for species authentication in commercial supply chains.
+[[aact-compost-quality-standards-ingham]] in Japan differentiate between *M. nitidum*-based aonori (considered superior) and *Enteromorpha*-based products. Authentic aonori commands a price premium of 2–3 times over mixed-species green seaweed powders. DNA barcoding is increasingly used for species authentication in commercial supply chains.
 
 ## Cultivation and Harvesting
 
@@ -98,7 +98,7 @@ Japan produces approximately 2,000–3,000 tonnes fresh weight annually, with th
 
 Environmental concerns include nutrient pollution in cultivation areas, which can promote excessive epiphyte growth and reduce crop quality. Integrated cultivation with bivalve filter feeders (oysters, mussels) has been proposed to improve water quality while generating multiple products from the same water column.
 
-Climate change poses a significant long-term threat to *M. nitidum* production. Rising water temperatures in the Seto Inland Sea have already shortened the spring harvest window, and projections suggest further contraction of suitable habitat by mid-century. Breeding programs for heat-tolerant strains are underway at several Japanese research institutions.
+[[dighton-fungi-climate-change-feedback]] poses a significant long-term threat to *M. nitidum* production. Rising water temperatures in the Seto Inland Sea have already shortened the spring harvest window, and projections suggest further contraction of suitable habitat by mid-century. Breeding programs for heat-tolerant strains are underway at several Japanese research institutions.
 
 The economic value of cultivated *M. nitidum* exceeds that of most other green seaweeds due to its premium positioning as aonori. Farm-gate prices range from USD 8–20 per kg dried powder, with processed retail products commanding substantially higher margins. This premium economics supports small-scale coastal producers and preserves traditional aquaculture communities.
 

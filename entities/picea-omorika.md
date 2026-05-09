@@ -83,13 +83,15 @@ The primary economic value of Serbian spruce lies in its ornamental horticultura
 
 Serbian spruce is one of the most widely cultivated ornamental conifers in temperate horticulture. Its narrow, columnar habit, elegant two-ranked foliage, and silvery-blue undersides make it a popular specimen tree for parks, gardens, and streetscapes.
 
-The species is remarkably cold-hardy, tolerating temperatures to at least minus 30 degrees Celsius. It also demonstrates good tolerance of urban pollution and compacted soils, contributing to its popularity as a street and landscape tree in European and North American cities.
+The species is remarkably cold-hardy, tolerating temperatures to at least minus 30 degrees Celsius. It also demonstrates good tolerance of urban pollution and compacted soils, contributing to its popularity as a street and landscape tree in European and [[growing-gourmet-north-american-reishi-species]] cities.
 
 Several cultivars have been selected for horticultural use, including 'Nana', a slow-growing dwarf form, and 'Pendula', a weeping form with gracefully drooping branches. These selections expand the species' utility in designed landscapes and rock gardens.
 
 Serbian spruce holds particular cultural significance in Serbia, where it is considered a national botanical treasure. It appears on the emblem of the Tara National Park and is protected by Serbian law. The species is also featured in conservation education programs throughout the Balkan region.
 
 ## See Also
+
+- [[picea-rubens]]
 
 - [[picea-sitchensis]]
 - [[abies-alba]]

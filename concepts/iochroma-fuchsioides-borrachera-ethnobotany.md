@@ -36,7 +36,7 @@ The systematic placement of Iochroma within the Solanaceae places it within
 a tribe that includes several other genera with reported psychoactive
 properties. The evolutionary proximity to known hallucinogenic and toxic
 Solanaceous plants supports the possibility that Iochroma species may
-produce similar bioactive compounds, though this has not been confirmed
+produce similar [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]], though this has not been confirmed
 through chemical investigation.
 
 ## Use in the Sibundoy Valley
@@ -60,7 +60,7 @@ northwestern Amazon and adjacent Andean highlands.
 ## The Name Borrachera
 
 The application of the name borrachera to Iochroma fuchsioides places it
-within a broad category of South American Solanaceous intoxicants. The term
+within a broad category of [[chiric-caspi-brunfelsia-south-american-hallucinogen]] Solanaceous intoxicants. The term
 is used for numerous plants in the nightshade family that produce deliriant
 or narcotic effects, including tree daturas (Brugmansia), Brunfelsia
 species, and Methysticodendron amesianum. The shared nomenclature reflects
@@ -122,7 +122,7 @@ All of these plants belong to the Solanaceae and are used as intoxicants or
 hallucinogens by the Kamsa and Inga peoples. The co-occurrence of multiple
 Solanaceous psychoactive species in a single valley reflects both the
 botanical richness of the region and the indigenous tradition of
-experimenting with and cultivating plants that produce altered states of
+experimenting with and cultivating plants that produce [[weil-the-natural-mind-altered-states-normalcy]] of
 consciousness.
 
 ## See Also

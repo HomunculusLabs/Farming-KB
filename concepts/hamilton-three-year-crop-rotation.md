@@ -1,5 +1,5 @@
 ---
-title: Three-Year Crop Rotation Plan
+title: Three-Year comparison-crop-rotation-vs-cover-cropping Plan
 created: 2026-04-28
 tags: [crop-rotation, vegetables, organic-gardening, hamilton, soil-health]
 date: 2026-04-25
@@ -23,10 +23,10 @@ Divide your vegetable plot into three sections and group the crops you
 want to grow into three categories. Each year, prepare the plots as
 described and move each group to the next plot, so two years elapse
 before any crop returns to its original site. This period allows the
-mineral balance of the soil to be maintained, reduces the risk of
-disease, and makes best use of organic matter.
+[[holmgren-mineral-balance-soil-fertility]] of the soil to be maintained, reduces the risk of
+disease, and makes best use of [[hamilton-composting-and-organic-matter-management]].
 
-The idea that root vegetables will fork and split in manured soil is a
+The idea that [[growing-root-vegetables-guide]] will fork and split in manured soil is a
 myth. Provided you always use well-rotted manure, you will achieve far
 better results in soil that has been made water and nutrient-retentive.
 If using the [[hamilton-vegetable-planning-rotation]]
@@ -109,4 +109,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

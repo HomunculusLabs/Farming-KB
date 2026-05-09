@@ -4,7 +4,7 @@ title: "Dmt"
 
 # N,N-Dimethyltryptamine (DMT)
 
-**N,N-Dimethyltryptamine (DMT)** is a naturally occurring indolealkylamine tryptamine and one of the most potent psychedelic compounds known. Found across plants, animals, and potentially in the human brain, DMT produces profoundly altered states of consciousness — vivid hallucinations, ego dissolution, and mystical experiences — typically lasting 5–30 minutes when smoked or injected.
+**N,N-Dimethyltryptamine (DMT)** is a naturally occurring indolealkylamine tryptamine and one of the most potent psychedelic compounds known. Found across plants, animals, and potentially in the human brain, DMT produces profoundly [[weil-the-natural-mind-altered-states-normalcy]] of consciousness — vivid hallucinations, ego dissolution, and [[psilocybin-mystical-experiences-personality-change]] — typically lasting 5–30 minutes when smoked or injected.
 
 ## Chemical Identity
 
@@ -24,7 +24,7 @@ title: "Dmt"
 | *Mimosa tenuiflora* | Jurema | Root bark | 0.3–1.0 |
 | *Diplopterys cabrerana* | Chaliponga | Leaves | 0.2–0.8 |
 | *Acacia species* | Various wattle | Bark | 0.1–1.5 |
-| *Anadenanthera peregrina* | Yopo | Seeds | 0.04–0.6 |
+| *[[yopo-anadenanthera-peregrina-snuff]]* | Yopo | Seeds | 0.04–0.6 |
 
 ### Animal Sources
 Detected in mammalian brain tissue, human blood/urine/CSF, and amphibian skin secretions (note: *Bufo alvarius* contains 5-MeO-DMT, not DMT).
@@ -55,7 +55,7 @@ Detected in mammalian brain tissue, human blood/urine/CSF, and amphibian skin se
 - **Visual:** Geometric patterns, fractal landscapes, entities, synesthesia
 - **Ego dissolution:** Loss of self-boundary; merging with environment
 - **Mystical:** Unity, sacredness, time/space transcendence, ineffability
-- **Cognitive:** Altered thought patterns, novel perspectives, entity encounters
+- **Cognitive:** Altered thought patterns, novel perspectives, [[dmt-entity-encounters-and-the-logos]]
 
 ### Intensity Scale (Smoked)
 | Dose | Level |
@@ -67,7 +67,7 @@ Detected in mammalian brain tissue, human blood/urine/CSF, and amphibian skin se
 
 ## Traditional Use
 
-- **Ayahuasca:** Amazonian brew combining DMT plants with MAO-inhibiting *Banisteriopsis caapi*; used by 70+ indigenous groups for healing and divination; legally protected religious sacrament in Brazil and Peru
+- **Ayahuasca:** Amazonian brew combining DMT plants with MAO-inhibiting *Banisteriopsis caapi*; used by 70+ indigenous groups for [[metzner-shamanic-healing-and-divination-paradigm]]; legally protected religious sacrament in Brazil and Peru
 - **Yopo/Vilca:** Roasted seed snuff in South America ([[johns-hopkins-psychedelic-research]]:** First FDA-approved IV DMT trial for major depressive disorder (2021+)
 - **Imperial College London:** fMRI/EEG mapping of DMT's effects on brain connectivity
 - **Therapeutic targets:** Depression, anxiety, substance use disorders, PTSD, end-of-life anxiety
@@ -84,10 +84,12 @@ Detected in mammalian brain tissue, human blood/urine/CSF, and amphibian skin se
 
 - **Psychological:** Panic, traumatic experiences, latent psychiatric triggering (especially schizophrenia-spectrum)
 - **Physical:** Very low risk; transient BP/HR increase; nausea (oral preparations)
-- **Set and setting critical** — experienced sitter recommended
+- **[[lsd-set-and-setting-framework]] critical** — experienced sitter recommended
 - **Contraindications:** Psychotic disorders, cardiovascular disease, pregnancy, MAOIs/SSRIs (serotonin syndrome risk)
 
 ## See Also
+
+- [[harmane]]
 
 - 5 Methoxy DMT — Related tryptamine with distinct pharmacological profile
 - [[entheogen-ayahuasca-admixture-plants]] — Traditional Amazonian [[dmt-containing-plants-and-maoi-combination]] brew

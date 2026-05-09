@@ -1,5 +1,5 @@
 ---
-title: Arbuscular Mycorrhizal Network Visualization and Anastomosis
+title: comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi Network Visualization and Anastomosis
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -14,7 +14,7 @@ A key feature of these networks is anastomosis, the fusion of hyphae from compat
 
 ## Extraradical Mycelium Structure and Growth
 
-The extraradical mycelium of AM fungi is fundamental to nutrient uptake from soil and transfer to host plants. Two-dimensional experimental systems have shown that AM mycorrhizal networks spread from colonized roots at growth rates ranging from 738 to 1,067 mm per day, depending on the host plant species. The hyphal extent can reach 10-40 mm of mycelium per mm of root length. This extensive network effectively increases the absorptive surface area of the root system far beyond the physical root-soil interface.
+The extraradical mycelium of AM fungi is fundamental to [[plant-nutrient-uptake-mechanisms]] from soil and transfer to host plants. Two-dimensional experimental systems have shown that AM [[dighton-mycorrhizal-networks-carbon-transfer]] spread from colonized roots at growth rates ranging from 738 to 1,067 mm per day, depending on the host plant species. The hyphal extent can reach 10-40 mm of mycelium per mm of root length. This extensive network effectively increases the absorptive surface area of the root system far beyond the physical root-soil interface.
 
 Two-dimensional experimental systems have shown that AM mycorrhizal networks spread from colonized roots at growth rates ranging from 738 to 1,067 mm per day, depending on the host plant species.
 
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

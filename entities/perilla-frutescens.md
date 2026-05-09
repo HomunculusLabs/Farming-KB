@@ -22,7 +22,7 @@ sources:
 
 ## Overview
 
-Perilla frutescens, commonly known as shiso or perilla, is an annual herb in the mint family (Lamiaceae) cultivated extensively across East and Southeast Asia as a culinary herb, traditional medicine, and oilseed crop.
+Perilla frutescens, commonly known as shiso or perilla, is an annual herb in the mint family (Lamiaceae) cultivated extensively across East and [[psilocybe-southeast-asia-pacific]] as a culinary herb, traditional medicine, and oilseed crop.
 
 The species encompasses several distinct cultivar groups: green-leafed (shiso), red-leafed (akajiso), and oilseed varieties (egoma), each with divergent phytochemical profiles and traditional uses.
 
@@ -52,15 +52,15 @@ Perilla is native to the mountainous regions of India, China, and Southeast Asia
 
 It grows as a weed in disturbed areas, forest margins, and cultivated fields, preferring well-drained soils and partial shade.
 
-The species is naturalized in parts of the eastern United States, where it is considered invasive in some states.
+The species is naturalized in parts of the eastern [[dmt-containing-plants-united-states-halpern]], where it is considered invasive in some states.
 
-Cultivation occurs commercially in Japan, Korea, China, India, and increasingly in Europe and North America for specialty markets.
+Cultivation occurs commercially in Japan, Korea, China, India, and increasingly in Europe and [[psilocybin-north-america-pacific-northwest]] for specialty markets.
 
 ## Phytochemistry
 
 Perilla is remarkably rich in specialized metabolites, with distinct profiles between red and green varieties.
 
-**Perillaldehyde:** The primary aromatic compound in green-leafed shiso, responsible for the characteristic sweet, basil-like fragrance. Constitutes 50–70% of the essential oil in green varieties.
+**Perillaldehyde:** The primary aromatic compound in green-leafed shiso, responsible for the characteristic sweet, basil-like fragrance. Constitutes 50–70% of the [[permaculture-designers-manual-essential-oil-plants]] in green varieties.
 
 **Perilla ketone:** Abundant in wild-type and oilseed varieties; a potent lung toxin in livestock at high doses. Concentrations range from 0.1–0.6% of dry weight.
 
@@ -88,3 +88,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- sutherlandia-frutescens

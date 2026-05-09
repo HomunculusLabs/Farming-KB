@@ -11,15 +11,15 @@ sources: [raw/papers/julius-auboineau-palmer-about-mushrooms.md]
 
 Updated: 2026-04-18
 
-Source: Benjamin Minge Duggar, *Mushroom Growing* (1915), Chapter VIII: Spawn-Making.
+Source: Benjamin Minge Duggar, *[[duggar-mushroom-growing-history-and-methods]]* (1915), Chapter VIII: Spawn-Making.
 
 ## The Problem: Unreliable Commercial Spawn
 
 ### The American Spawn Crisis (1901-1904)
-When Duggar began his work at the Bureau of Plant Industry, U.S. Department of Agriculture, the American mushroom industry faced a critical problem: the majority of commercially available [[spawn-production]]. The key innovation was the **tissue culture technique**:
+When Duggar began his work at the Bureau of Plant Industry, U.S. Department of Agriculture, the [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]] industry faced a critical problem: the majority of commercially available [[spawn-production]]. The key innovation was the **tissue culture technique**:
 
 1. **Select a vigorous, disease-free mushroom specimen** — from fields, woods, or established beds
-2. **Remove a small piece of tissue from the interior of the mushroom cap** — using sterile technique to avoid contamination
+2. **Remove a small piece of tissue from the interior of the mushroom cap** — using [[cultivator-sterile-technique-and-agar-culture]] to avoid contamination
 3. **Place the tissue on a sterile culture medium** — typically nutrient [[mycelium]] to grow from the tissue** — the mushroom tissue itself serves as the inoculum
 6. **Subculture to fresh media** as needed to maintain vigorous growth
 7. **Use the pure culture to inoculate spawn substrate** — brick or flake compost
@@ -46,7 +46,7 @@ The pure culture method opened the possibility of selective mushroom breeding:
 Any individual difference indicating the possibility of a permanent desirable departure could be selected and propagated. Duggar believed this method could be "fully relied upon for further progress in selective mushroom growing."
 
 ### The "Running Out" Question
-Some growers feared that continuous tissue culture propagation might cause varieties to "run out" (lose vigor). Duggar tested this by:
+Some growers feared that continuous tissue [[stamets-cultivator-liquid-culture-propagation-methods]] might cause varieties to "run out" (lose vigor). Duggar tested this by:
 - Propagating one strain continuously for five years through successive tissue cultures
 - Consistently observed high yield and quality
 - Concluded that "running out" is likely due to improper care of pure cultures rather than inherent genetic degeneration
@@ -58,7 +58,7 @@ Some growers feared that continuous tissue culture propagation might cause varie
 Duggar found that a mixture of:
 - **Leaf mould** — provides organic matter and favorable physical structure
 - **Fermented manure** — provides nutrients
-- Produced faster mycelial growth than manure alone
+- Produced faster [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] than manure alone
 
 The ideal mixture combined the best properties of both materials.
 
@@ -87,7 +87,7 @@ Two methods: (1) Dry bricks slowly to slightly moist state, stack with 4-5 bits 
 - Some coarser thread-like elements are acceptable but an abundance of heavy threads alone indicates poor quality
 - Small mushrooms beginning to form on bricks is NOT favorable — this spawn will fruit directly without spreading through beds
 
-**Drying and storage**:
+**[[psilocybin-mushroom-drying-and-storage-methods]]**:
 - Dry gradually but considerably, to the point where no more growth can occur
 - Store cool and dry
 - A warm situation is more injurious to vitality than cool

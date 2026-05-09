@@ -8,7 +8,7 @@ sources: []
 ---
 # Monotropoid Mycorrhiza
 
-Monotropoid mycorrhiza is a specialized mycorrhizal association formed by non-photosynthetic (achlorophyllous) plants in the Monotropoideae subfamily (Ericaceae) with ectomycorrhizal fungi. Unlike other mycorrhizal types where both partners exchange resources, monotropoid mycorrhizae are fully mycoheterotrophic: the plant receives ALL of its carbon from the fungal partner, which in turn obtains carbon from a photosynthetic autotrophic host tree through a shared ectomycorrhizal network.
+Monotropoid mycorrhiza is a specialized mycorrhizal association formed by non-photosynthetic (achlorophyllous) plants in the Monotropoideae subfamily (Ericaceae) with [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]. Unlike other mycorrhizal types where both partners exchange resources, monotropoid mycorrhizae are fully mycoheterotrophic: the plant receives ALL of its carbon from the fungal partner, which in turn obtains carbon from a photosynthetic autotrophic host tree through a shared [[symbiotic-fungi-ectomycorrhizal-network-carbon-trading]].
 
 ## Host Plants
 
@@ -55,13 +55,13 @@ Monotropoid mycorrhizae share some features with ectomycorrhizae but have distin
 
 - A well-developed fungal mantle surrounds the root, similar to ectomycorrhizae
 - The mantle may be thick and conspicuous
-- Hyphal connections link the mantle to the external mycelial network
+- Hyphal connections link the mantle to the external [[gadd-mycelial-network-dynamics]]
 
 ### Hartig Net
 
 - A Hartig net is formed in the outer cortical cell layers
 - The Hartig net in monotropoid mycorrhizae may penetrate more deeply into the cortex than in typical ectomycorrhizae
-- This is the primary interface for carbon transfer from fungus to plant
+- This is the primary interface for [[singh-mycorrhizal-network-carbon-transfer-plants]] from fungus to plant
 
 ### Fungal Pegs
 
@@ -123,13 +123,13 @@ Monotropoid mycorrhizae represent an evolutionary extreme of mycorrhizal cheatin
 | Photosynthesis | Absent | Absent (seedling) | Reduced (some species) |
 | Carbon source | Fungus (via EM network) | Fungus (saprotrophic) | Fungus + photosynthesis |
 | Fungal type | Ectomycorrhizal | Rhizoctonia-like | Ascomycetes |
-| Nutrient exchange | Carbon from fungus only | Carbon from fungus only | Bidirectional exchange |
+| [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] | Carbon from fungus only | Carbon from fungus only | Bidirectional exchange |
 
 ## See Also
 
-- mycorrhiza — Overview of mycorrhizal symbiosis types
+- mycorrhiza — Overview of [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] types
 - ectomycorrhizal-ecology|ectomycorrhiza — The EM symbiosis that provides the carbon pathway
 - [[ericoid-and-orchid-mycorrhizae]] — Another mycoheterotrophic mycorrhizal type
 - [[nitrogen-transfer-through-common-mycorrhizal-networks]]
-- [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]
+- fungal-symbiosis-with-plants-beyond-mycorrhizae
 - [[nutrient-movement-through-soil-to-plant-roots]]

@@ -1,11 +1,12 @@
 ---
-title: Krameterhof - Sepp Holzer's Model Farm
+title: Krameterhof - comparison-sepp-holzer-vs-biodynamic's Model Farm
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [agriculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Krameterhof - Sepp Holzer's Model Farm
@@ -14,9 +15,9 @@ updated: 2026-04-18
 
 The Krameterhof is the 45-hectare (110-acre) family farm of [[sepp-holzer-terrace-systems-and-raised-beds]], [[holzer-tamera-water-landscape-project]], waterways, wetlands, tracks, shelterbelts, and mixed plantings. Every element serves multiple functions, and the connections between elements are as important as the elements themselves.
 
-The design follows natural contours and works with gravity to move water, nutrients, and heat across the landscape. Ponds at different elevations create a cascading water system that can generate power, breed fish and crayfish, grow aquatic plants, provide irrigation, and create microclimates. The water system was designed so that water flows from the upper boundary of the farm to the lowest point through a network of ponds, wetlands, and ditches.
+The design follows natural contours and works with gravity to move water, nutrients, and heat across the landscape. Ponds at different elevations create a cascading water system that can generate power, breed fish and crayfish, grow aquatic plants, provide irrigation, and [[query-how-do-i-create-microclimates-in-my-garden]]. The water system was designed so that water flows from the upper boundary of the farm to the lowest point through a network of ponds, wetlands, and ditches.
 
-Approximately 14,000 fruit trees of many different varieties are planted throughout the Krameterhof, integrated with other crops and livestock rather than segregated into orchards. Wild fruit trees are interspersed with cultivated varieties to provide pollination partners and genetic diversity.
+Approximately 14,000 [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] of many different varieties are planted throughout the Krameterhof, integrated with other crops and livestock rather than segregated into orchards. Wild fruit trees are interspersed with cultivated varieties to provide pollination partners and genetic diversity.
 
 ## Water Systems
 
@@ -24,7 +25,7 @@ Water management is central to the Krameterhof design. The farm contains numerou
 
 - **Aquaculture**: Breeding of fish species including trout, tench, pike, wels catfish, zander, koi carp, roach, rudd, and minnows, as well as European crayfish
 - **Aquatic plant cultivation**: Different pond zones support different plant communities
-- **Microclimate creation**: Open water moderates temperature extremes in surrounding areas
+- **[[mollison-designers-microclimate-creation-frost-protection]]**: Open water moderates temperature extremes in surrounding areas
 - **Irrigation**: Gravity-fed water distribution across the farm
 - **Power generation**: Water power is harnessed through elevation differences between ponds
 - **Recreation and aesthetics**: Ponds provide bathing areas and scenic beauty
@@ -55,7 +56,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -97,4 +98,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

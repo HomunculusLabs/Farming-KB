@@ -64,7 +64,7 @@ The subjective effects of DET are broadly similar to those of DMT but are genera
 
 Visual effects include geometric patterns, color intensification, and altered perception of surfaces and textures, typically developing over 15–30 minutes.
 
-Cognitive effects range from heightened introspection and philosophical thinking to mild ego dissolution at higher doses.
+Cognitive effects range from heightened introspection and philosophical thinking to mild [[psilocybin-ego-dissolution-mechanisms]] at higher doses.
 
 Users frequently report a greater sense of mental clarity and groundedness compared to DMT, which is sometimes described as more chaotic.
 
@@ -91,7 +91,7 @@ Tolerance develops rapidly, with near-complete tolerance observed after 2–3 co
 
 DET can be synthesized from tryptamine via reductive alkylation using diethyl sulfate or ethyl iodide in the presence of a reducing agent.
 
-The Speeter-Anthony method (1954) involves reaction of indole with oxalyl chloride followed by reduction and ethylation steps.
+The Speeter-Anthony method (1954) involves reaction of indole with [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] followed by reduction and ethylation steps.
 
 Shulgin documented a simplified route using tryptamine as starting material, alkylated with ethyl bromide or diethyl sulfate under basic conditions.
 
@@ -113,13 +113,11 @@ Its relative obscurity compared to DMT is attributed to the less dramatic nature
 
 DET is unscheduled in most countries but may fall under analogue acts in jurisdictions that control DMT or other substituted tryptamines.
 
-In the United States, the Federal Analog Act could potentially apply to DET as a positional isomer of DMT, though prosecution for simple possession is rare.
+In the [[dmt-containing-plants-united-states-halpern]], the Federal Analog Act could potentially apply to DET as a positional isomer of DMT, though prosecution for simple possession is rare.
 
-The compound is controlled in several European countries as part of broad tryptamine scheduling, including the UK under the Psychoactive Substances Act 2016.
+The compound is controlled in several European countries as part of broad tryptamine scheduling, including the UK under the Psychoactive [[controlled-substances-act-and-psychedelic-research]] 2016.
 
 ## See Also
-
-- [[pihkal-introduction-and-methodology]]
 
 - [[pihkal-introduction-and-methodology]]
 

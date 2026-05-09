@@ -1,5 +1,5 @@
 ---
-title: "Cannabis as an Antiemetic: Vomiting and Nausea Relief"
+title: "Cannabis as an Antiemetic: [[cannabis-for-vomiting-and-nausea]] Relief"
 created: 2026-04-26
 tags:
   - cannabis
@@ -17,15 +17,15 @@ type: concept
 # Cannabis as an Antiemetic: Vomiting and Nausea Relief
 
 The antiemetic (anti-vomiting) properties of cannabis represent some of the
-best-documented therapeutic applications of cannabinoids. According to Uwe
+best-documented [[psilocybin-therapeutic-applications]] of cannabinoids. According to Uwe
 Blesching's [[nabilone]] was more effective than prochlorperazine in reducing
 retching and vomiting in pediatric chemotherapy patients.
 
 ### Modern Research: Renal Protection
 
 More recent studies examined the ability of cannabinoids, especially
-cannabidiol, to markedly reduce anticipated oxidative stress, inflammation,
-and cell death in the kidneys, therefore improving renal function in cancer
+cannabidiol, to markedly reduce anticipated [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], inflammation,
+and [[blesching-cannabis-apoptosis-and-cancer-cell-death]] in the kidneys, therefore improving renal function in cancer
 pathologies. A 2009 study from Zhejiang University, China, demonstrated these
 protective effects of CBD in animal models.
 
@@ -48,7 +48,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -98,7 +98,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -108,4 +108,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -5,7 +5,8 @@ tags: [fukuoka, natural-farming, rice, plant-morphology, high-yield]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
@@ -71,9 +72,9 @@ The major characteristics of rice plants with an ideal form include:
 
 Both the plant height and length of the leaf blades are much smaller than in
 ordinary varieties. This is no accident. Large plants were found unnecessary
-in rice production, so effort was made to suppress rather than promote
+in [[fukuoka-energy-analysis-rice-production-natural-vs-mechanized]], so effort was made to suppress rather than promote
 vegetative growth. No irrigation was applied during the first half of the
-growing season, and fresh straw was applied to the field to check plant
+[[savory-growing-season-and-non-growing-season-management]], and fresh straw was applied to the field to check plant
 response to a basal application of fertilizer.
 
 In ideally shaped rice, the internode lengths each decrease by half from the
@@ -103,7 +104,7 @@ stand. This connects directly to the [[fukuoka-high-yield-rice-barley]] develope
 Although raising one high-yielding rice plant with good photosynthetic
 efficiency is easy, it was no simple matter to grow full stands of such rice.
 Healthy individual rice plants growing in nature have plenty of space to grow.
-The sparse seeding of individual seeds allows the rice to assume the natural
+The [[fukuoka-textdoc-sparse-seeding-natural-high-yield-rice]] of individual seeds allows the rice to assume the natural
 form that suits it best and to make full use of its powers. Rice grown in its
 natural form puts out leaves in a regular, phyllotaxic order. The leaves open
 up and spread in alternation, breaking crosswinds and ensuring the
@@ -111,7 +112,7 @@ penetration of sunlight throughout the life of the plant, each leaf
 maintaining a good light-receiving form.
 
 Knowing this, healthy rice farming requires sowing individual seeds sparsely.
-But because of initial problems of poor germination and weed control when
+But because of initial problems of poor germination and [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]] when
 beginning direct-seeded no-tillage cultivation, dense planting and seeding
 was initially necessary to ensure a stable crop. However, dense planting
 tended to result in thick growth and poor environment for individual plants.
@@ -126,7 +127,7 @@ grown rice were obtained.
 
 ## The Meaning and Limits of High Yields
 
-In natural farming, high yields rely on the absorption and storage of as
+In [[comparison-natural-farming-vs-permaculture]], high yields rely on the absorption and storage of as
 much of nature's energy as possible by the crop. For this, the crop must
 make the fullest possible use of its inherent powers. The proper role of the
 natural farmer is not to utilize the animals and plants of nature so much as
@@ -134,7 +135,7 @@ to help invigorate the ecosystem.
 
 Rather than plowing the fields and growing crops, man would be better
 occupied in protecting the vitality of all the organisms inhabiting the earth
-and in guarding the natural order. The guardian of a watermelon patch does
+and in guarding the [[fukuoka-textdoc-natural-order-food-chain-unity]]. The guardian of a watermelon patch does
 not watch the watermelons, he looks out for watermelon thieves. Nature
 protects itself and sees to the boundless growth of the organisms that
 inhabit it. The farmer must hold a vision that is in unity with nature and

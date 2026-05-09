@@ -1,19 +1,13 @@
 ---
 title: lignocellulose degradation by fungi
 created: 2026-04-28
-tags: [[mycology, biochemistry, enzymes, decomposition, lignocellulose]
+tags: [mycology, biochemistry, enzymes, decomposition, lignocellulose]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
 type: concept
 ---
-
-# lignocellulose degradation by fungi
-
-Lignocellulose is the primary structural component of plant cell walls and the
-most abundant organic polymer on Earth. It consists of three major fractions:
-cellulose (35-50%), hemicellulose (20-35%), and lignin (15-30%). White-rot
-fungi, including [[mushroom-cultivation]].
+# lignocellulose degradation by fungi Lignocellulose is the primary structural component of plant cell walls and the most abundant organic polymer on Earth. It consists of three major fractions: cellulose (35-50%), hemicellulose (20-35%), and lignin (15-30%). White-rot fungi, including [[mushroom-cultivation]].
 
 ## Lignocellulose Structure
 
@@ -42,9 +36,9 @@ range of lignocellulosic substrates.
 ### Brown-Rot Fungi
 Brown-rot fungi primarily degrade cellulose and hemicellulose while modifying
 but not fully mineralizing lignin. They use a non-enzymatic Fenton chemistry
-system (hydrogen peroxide + iron) to generate hydroxyl radicals that cleave
+system ([[cervantes-hydrogen-peroxide-sterilization]] + iron) to generate hydroxyl radicals that cleave
 cellulose chains. The remaining brown, lignin-rich residue gives this group its
-name. Brown-rot fungi include *Serpula lacrymans* (dry rot) and species of
+name. Brown-rot fungi include *[[fungal-serpula-lacrymans-dry-rot-buildings]]* (dry rot) and species of
 *Gloeophyllum* and *Postia*.
 
 ### Soft-Rot Fungi
@@ -60,7 +54,7 @@ wood decay under high-moisture conditions.
   non-phenolic lignin subunits via electron abstraction. It requires hydrogen
   peroxide as a co-substrate and veratryl alcohol as a redox mediator. LiP has
   high redox potential and can cleave the most recalcitrant bonds in lignin.
-- **Manganese peroxidase (MnP):** The most commonly produced ligninolytic
+- **[[fungal-manganese-peroxidase-remediation]] (MnP):** The most commonly produced ligninolytic
   enzyme in *Pleurotus* species. MnP oxidizes Mn(II) to Mn(III), which in
   turn oxidizes phenolic lignin compounds. MnP is particularly important for
   *P. ostreatus* and is often the dominant peroxidase in oyster mushroom
@@ -71,7 +65,7 @@ wood decay under high-moisture conditions.
   more stable and do not require hydrogen peroxide. *Pleurotus* species
   produce high levels of laccase, and it plays a major role in their
   lignocellulose degradation.
-- **Versatile peroxidase (VP):** A hybrid enzyme combining the catalytic
+- **[[singh-versatile-peroxidase-vp-multifunctional]] (VP):** A hybrid enzyme combining the catalytic
   properties of both LiP and MnP. Found in some white-rot species.
 
 ### Cellulose-Degrading Enzymes
@@ -102,13 +96,13 @@ substrate selection and preparation in cultivation:
   Hardwood sawdust (higher lignin) produces denser, higher-quality fruiting
   bodies than straw (lower lignin, faster degradation).
 - **Supplementation** with nitrogen (bran, meal) upregulates cellulase
-  production while potentially downregulating some ligninolytic enzymes,
+  production while potentially downregulating some [[singh-ligninolytic-enzymes-fungal-bioremediation]],
   explaining why supplemented substrates colonize faster but may have shorter
   productive lifespans.
 - **Incubation temperature** affects enzyme expression. Warmer temperatures
   favor cellulase activity; cooler temperatures favor ligninolytic enzyme
   production in some species.
-- **Biological efficiency** (fresh weight of mushrooms harvested per dry
+- **[[stamets-biological-efficiency-yield]]** (fresh weight of mushrooms harvested per dry
   weight of substrate) varies with substrate composition, reflecting the
   balance between available nutrition and digestibility. Typical values for
   *P. ostreatus* range from 50-150% depending on substrate.

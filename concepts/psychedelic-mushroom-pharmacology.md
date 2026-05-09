@@ -3,7 +3,7 @@ title: Psychedelic Mushroom Pharmacology
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [mycology, psychopharmacology, neuroscience, pharmacology, entheogen-research, psychedelics, health]
+tags: [mycology|mycology], psychopharmacology, neuroscience, pharmacology, entheogen-research, psychedelics, health]
 sources: []
 ---
 
@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-The pharmacology of psychedelic mushrooms is defined primarily by the action of psilocin — the active metabolite of psilocybin — on serotonergic neurotransmitter systems in the central nervous system. Understanding these mechanisms is essential for explaining both the therapeutic potential and the subjective effects of these compounds.
+The pharmacology of psychedelic mushrooms is defined primarily by the action of psilocin — the active metabolite of [[psilocybin|psilocybin]] — on serotonergic neurotransmitter systems in the central nervous system. Understanding these mechanisms is essential for explaining both the therapeutic potential and the subjective effects of these compounds.
 
 ## Primary Mechanism: 5-HT2A Receptor Agonism
 
@@ -141,12 +141,9 @@ Important pharmacological interactions:
 Psilocybin has a very high safety profile:
 
 - **LD50** (lethal dose 50%) in rodents: approximately 285 mg/kg IV — far exceeding any reasonable human dose
-- **No known lethal overdose** in humans from psilocybin mushrooms alone
-- The primary risks are psychological (acute anxiety, panic, psychosis in vulnerable individuals) and accidental (misidentification leading to toxic species ingestion)
-- Cardiovascular effects include mild, transient increases in heart rate and blood pressure
-
-See [[psychedelic-mushroom-effects-guide]] for subjective effect descriptions and [[psilocybin-clinical-trials]] for clinical pharmacology data.
-
+- **No known lethal overdose** in humans from [[psilocybin-mushroom|psilocybin mushroom]]s alone
 ## See Also
 
 - [[psychedelic-mushroom-set-and-setting]]
+- [[psilocybin-psilocin-chemistry-serotonin-5ht2a-mechanism-emcdda-2006]]
+- [[emcdda-psilocybin-mushroom-dose-and-effects]]

@@ -9,13 +9,13 @@ sources:
 ---
 # The Road to Eleusis: Wasson, Hofmann, and Ruck
 
-"The Road to Eleusis: Unveiling the Secret of the Mysteries" (1978) is a collaborative work by R. Gordon Wasson, Albert Hofmann, and Carl A. P. Ruck that proposes the entheogenic hypothesis of the Eleusinian Mysteries — the most revered religious initiation ceremony of ancient Greece, practiced continuously for nearly two thousand years until its suppression by Christian authorities in the fourth century A.D.
+"The Road to Eleusis: Unveiling the Secret of the Mysteries" (1978) is a collaborative work by R. Gordon Wasson, Albert Hofmann, and Carl A. P. Ruck that proposes the entheogenic hypothesis of the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] — the most revered religious initiation ceremony of ancient Greece, practiced continuously for nearly two thousand years until its suppression by Christian authorities in the fourth century A.D.
 
-The central thesis, developed across the book's four substantive chapters, is that the sacred potion (kykeon) consumed by initiates at Eleusis contained water-soluble hallucinogenic alkaloids derived from ergot (Claviceps purpurea), a fungal parasite of barley and other grains. This theory builds on the existing body of work documented in [[kykeon-composition-and-ergot-alkaloid-hypothesis]].
+The central thesis, developed across the book's four substantive chapters, is that the sacred potion (kykeon) consumed by initiates at Eleusis contained water-soluble hallucinogenic alkaloids derived from ergot ([[bloomfield-ergot-claviceps-purpurea-ergotism]]), a fungal parasite of barley and other grains. This theory builds on the existing body of work documented in [[kykeon-composition-and-ergot-alkaloid-hypothesis]].
 
 ## Chapter One: Wasson — The Divine Mushroom
 
-R. Gordon Wasson's opening chapter establishes the phenomenological parallel between the Mexican mushroom velada and the Eleusinian Mystery. Drawing on his pioneering fieldwork among the Mazatec, documented also in [[lsd-discovery-and-history]] and [[entheogen-culture]].
+R. Gordon Wasson's opening chapter establishes the phenomenological parallel between the [[gartz-wasson-mexican-mushroom-cult-rediscovery]] velada and the [[mckenna-eleusinian-mystery-and-psychedelic-sacrament]]. Drawing on his pioneering fieldwork among the Mazatec, documented also in [[lsd-discovery-and-history]] and [[entheogen-culture]].
 
 ## See Also
 
@@ -25,7 +25,7 @@ R. Gordon Wasson's opening chapter establishes the phenomenological parallel bet
 [[demeter-and-persephone-in-eleusinian-mythology]]
 [[mazatec-mushroom-culture-and-velada]]
 [[hallucinogens-and-shamanism-harner-anthology]]
-[[mazatec-mushrooms-of-language]]. His recognition of phenomenological parallels between the Mazatec mushroom velada and the ancient descriptions of Eleusis led him to assemble the interdisciplinary team that produced the book. Ruck, a classical scholar, provided the philological and mythological analysis, while Hofmann supplied the critical chemical evidence.
+[[mazatec-mushrooms-of-language]]. His recognition of phenomenological parallels between the [[maria-sabina-mazatec-mushroom-ceremony]] velada and the ancient descriptions of Eleusis led him to assemble the interdisciplinary team that produced the book. Ruck, a classical scholar, provided the philological and mythological analysis, while Hofmann supplied the critical chemical evidence.
 
 The book's publication in 1978 was controversial within classical studies, where the entheogenic hypothesis challenged established interpretations of ancient Greek religion. It preceded and informed the broader [[hofmann-lsd-psychiatric-research]].
 
@@ -54,7 +54,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -96,4 +96,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

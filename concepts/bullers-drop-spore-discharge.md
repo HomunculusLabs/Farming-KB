@@ -1,5 +1,5 @@
 ---
-title: Buller's Drop and Spore Discharge Mechanism
+title: Buller's Drop and bloomfield-fungal-spore-discharge-and-dispersal Mechanism
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -10,7 +10,7 @@ sources:
 # Buller's Drop and Spore Discharge Mechanism
 
 Buller's drop is the fluid droplet mechanism that powers spore discharge (ballistospore discharge)
-in basidiomycete fungi. Named after A.H. Reginald Buller, who pioneered research on the topic,
+in [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]]. Named after A.H. Reginald Buller, who pioneered research on the topic,
 the mechanism is one of the most remarkable feats of biomechanics in the biological world.
 
 ## The Mechanism
@@ -66,7 +66,7 @@ production and alternative dispersal strategies (insect vectors, wind puffing, r
 Source: Nicholas P. Money, "Mr. Bloomfield's Orchard" (Oxford University Press, 2002), Chapter 1;
 N.P. Money, Mycologia 90: 547-558 (1998).
 - [[fungi-around-the-world-species-distribution]]
-- [[fungal-spore-dispersal-animals-wind]]
+- fungal-spore-dispersal-animals-wind
 ## Practical Considerations
 
 Successful implementation of Buller's Drop and Spore Discharge Mechanism requires attention to
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

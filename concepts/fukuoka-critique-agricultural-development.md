@@ -5,7 +5,8 @@ updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Critique of Agricultural Development
@@ -14,7 +15,7 @@ Masanobu Fukuoka's [[fukuoka-critique-of-scientific-agriculture]] as an institut
 
 ## America's Self-Destruction
 
-Fukuoka observed American agriculture firsthand during his 1979 visit and came away deeply troubled. "I believe that one of the things that is beginning to arise in the dark shadows of civilization is America's food strategy," he wrote. "I have my doubts as to how long this strategy can be pursued. I believe that its low regard for the land will be America's downfall. If the land falls victim to American farming practices and continues to be ruined at the present rate, it won't hold out even fifty years more. It may last another twenty or thirty at the most."
+Fukuoka observed [[fukuoka-american-agriculture-fields-of-death]] firsthand during his 1979 visit and came away deeply troubled. "I believe that one of the things that is beginning to arise in the dark shadows of civilization is America's food strategy," he wrote. "I have my doubts as to how long this strategy can be pursued. I believe that its low regard for the land will be America's downfall. If the land falls victim to American farming practices and continues to be ruined at the present rate, it won't hold out even fifty years more. It may last another twenty or thirty at the most."
 
 He described the American Midwest: the soil near the surface was very seriously depleted from irrigating the fields and working the soil with twenty- or thirty-ton machines four or five times a year until it becomes hard as clay. The sun bakes and dries this, creating fist-sized cracks in the surface.
 
@@ -22,9 +23,9 @@ But the ground at the corners of the fields, over which the caterpillar tractors
 
 ## The Seed War
 
-Fukuoka was one of the first to identify what he called the "seed war" -- the corporate takeover of the world's seed supply. "Control over America's seeds today lies squarely in the hands of five oil companies," he warned. "Working hand in hand with political and economic interests, the oil companies have moved into bioindustry and begun to take control of agriculture."
+Fukuoka was one of the first to identify what he called the "seed war" -- the corporate takeover of the world's seed supply. "Control over America's seeds today lies squarely in the hands of five [[fukuoka-oil-companies-international-seed-war]]," he warned. "Working hand in hand with political and economic interests, the oil companies have moved into bioindustry and begun to take control of agriculture."
 
-The development of hybrid F1 rice was, in Fukuoka's view, not a humanitarian project but a strategic weapon. Because F1 seeds do not breed true in the second generation, farmers who adopt them become permanently dependent on the seed company. "Once the F1 seed-producing companies consolidate their control over the parent seed lines, farmers everywhere will have lost their independence."
+The development of hybrid F1 rice was, in Fukuoka's view, not a humanitarian project but a [[fukuoka-food-strategic-weapon-critique]]. Because F1 seeds do not breed true in the second generation, farmers who adopt them become permanently dependent on the seed company. "Once the F1 seed-producing companies consolidate their control over the parent seed lines, farmers everywhere will have lost their independence."
 
 This concern anticipated the modern debates over [[fukuoka-critique-modern-livestock]] and his broader [[fukuoka-natural-farming-transcends-time-space]] that goes beyond both chemical and organic approaches to work within the [[fukuoka-mu-nothingness-philosophy]] -- of nothingness and non-action -- suggests that the highest form of agriculture is one in which the farmer does nothing and nature does everything.
 
@@ -108,4 +109,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

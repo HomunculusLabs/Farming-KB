@@ -3,13 +3,13 @@ title: Mushroom Species Parameters Comparison
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[shiitake-cultivation-parameters]]
-- [[bulk-substrate-preparation]]
-- [[mushroom-yield-optimization]]
+tags: gourmet-medicinal-mushroom-shiitake-cultivation-logs parameters]
+- bulk-substrate-preparation
+- mushroom-yield-optimization
 
 ---
 
-Source: The Mushroom Cultivator (Stamets & Chilton, 1983), Chapters III-XII
+Source: The [[coprinus-atrementarius-entity-the-mushroom-cultivator]] (Stamets & Chilton, 1983), Chapters III-XII
 Updated: 2026-04-18
 - [[oyster-mushroom-species-fruiting-parameters]]
 ## Background and Context
@@ -62,7 +62,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -140,4 +140,8 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-
+## See Also
+- [[duggar-mushroom-environmental-factors-temperature-moisture-light]]
+- [[oyster-mushroom-species-fruiting-parameters]]
+- [[working-with-agar-grain-to-agar-transfer-techniques]]
+- [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]

@@ -3,14 +3,15 @@ title: Holmgren Beyond Sustainability
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+  sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: concept
 tags: [reference]
 ---
 
 # Holmgren Beyond Sustainability
 
-The central argument of Holmgren's "Permaculture: Principles and Pathways Beyond Sustainability" challenges the very concept of sustainability as commonly understood, arguing that accepting the reality of energy descent requires moving beyond naive notions of maintaining current civilisation. This reframing is Holmgren's primary contribution to the [[holmgren-ethical-philosophical-framework]]: beliefs and values that developed with a rising energy base are likely to be dysfunctional -- even destructive -- in a world of limited and declining energy. The concept of sustainability itself may be such a belief -- a product of the energy-rich era that will not serve us well in energy descent.
+The central argument of Holmgren's "Permaculture: Principles and Pathways Beyond Sustainability" challenges the very concept of sustainability as commonly understood, arguing that accepting the reality of energy descent requires moving beyond naive notions of maintaining current civilisation. This reframing is Holmgren's primary contribution to the holmgren-ethical-philosophical-framework: beliefs and values that developed with a rising energy base are likely to be dysfunctional -- even destructive -- in a world of limited and declining energy. The concept of sustainability itself may be such a belief -- a product of the energy-rich era that will not serve us well in energy descent.
 
 ## The Mountain Peak Metaphor
 
@@ -30,16 +31,16 @@ Permaculture is a whole-hearted adaptation to the ecological realities of declin
 
 Holmgren distinguishes permaculture from "green tech" optimists in several key respects:
 
-- Permaculture gives priority to using existing wealth to rebuild natural capital, especially trees and forests, as a proven storage of wealth to sustain humanity into a future with less fossil fuel.
+- Permaculture gives priority to using existing wealth to rebuild natural capital, especially [[pdc-trees-and-forests]], as a proven storage of wealth to sustain humanity into a future with less fossil fuel.
 - Permaculture emphasises bottom-up "redesign" processes, starting with the individual and household as the drivers for change at the market, community and cultural level.
-- Permaculture was predicated on the likelihood of some degree of collapse and breakdown in technology, economics and even society, which is not envisaged or designed for by the green tech optimists but is a current reality for many people around the world.
+- Permaculture was predicated on the likelihood of some degree of collapse and breakdown in technology, economics and even society, which is not envisaged or designed for by the green tech optimists but is a current reality for many people [[fungi-around-the-world-species-distribution]].
 - Permaculture sees pre-industrial sustainable societies as providing models that reflect the more general system design principles observable in nature, and relevant to post-industrial systems.
 
 ## The Fossil Fuel Pulse Framework
 
 The book's framework rests on the understanding that industrial culture is a temporary phenomenon powered by the one-time fossil fuel pulse. A graph of civilisational growth and predicted decline visualises the current cultural and economic dynamic of globalisation as one of chaotic climax and transition from growth in population and energy use to decline.
 
-Industrial culture and permaculture are stable only in their direction of energy use. The characterisation of high-energy industrial society as inherently unsustainable connects to [[holmgren-emergence-and-long-term-cycles]]. Once the reality of the energy peak is accepted, the question shifts from "how do we sustain this?" to "how do we adapt?"
+Industrial culture and permaculture are stable only in their direction of energy use. The characterisation of high-energy industrial society as inherently unsustainable connects to holmgren-emergence-and-long-term-cycles. Once the reality of the energy peak is accepted, the question shifts from "how do we sustain this?" to "how do we adapt?"
 
 ## Implications for Design
 
@@ -49,7 +50,7 @@ This reframing has profound implications for [[holmgren-action-learning-loop]] -
 
 The beyond-sustainability argument is not merely pessimistic. Holmgren consistently emphasises that decline can be creative, that the low-energy future may offer qualities of life absent from high-energy civilisation, and that the design principles provide positive pathways rather than simply warnings. The descent from the mountain peak offers its own rewards -- reconnection with place, community, and the rhythms of nature -- if we design our pathway well.
 
-The process of providing for people's needs within ecological limits requires a cultural revolution. Inevitably such a revolution is fraught with many confusions, false leads, risks and inefficiencies. We appear to have little time to achieve this revolution. In this historical context, the idea of a simple set of guiding principles which have wide, even universal application is attractive. Permaculture principles provide that set of guiding principles, not as a blueprint for the future but as a compass for navigating uncertainty.
+The process of providing for people's needs within ecological limits requires a cultural revolution. Inevitably such a revolution is fraught with many confusions, false leads, risks and inefficiencies. We appear to have little time to achieve this revolution. In this [[ghouled-field-guide-historical-context]], the idea of a simple set of guiding principles which have wide, even universal application is attractive. [[permaculture-principles]] provide that set of guiding principles, not as a blueprint for the future but as a compass for navigating uncertainty.
 
 ## From Vision to Pathway
 
@@ -72,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,7 +102,7 @@ complexity of day-to-day management and observation activities.
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
+and [[analytical-methods-psilocybin-psilocin-quantification]] offer opportunities for refinement and innovation
 that can enhance both the effectiveness and efficiency of implementation.
 
 Integration with other disciplines and approaches creates synergies that
@@ -109,9 +110,8 @@ advance the field as a whole. Cross-pollination of ideas from biology,
 ecology, data science, and traditional knowledge systems generates novel
 perspectives and solutions that may not emerge within any single domain.
 
-For continued learning, recommended resources include current research
+For continued learning, recommended resources include [[psychedelic-therapy-current-research]]
 publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

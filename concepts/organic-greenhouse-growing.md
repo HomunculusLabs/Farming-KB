@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-A greenhouse is a very useful addition to any garden. The major advantage of owning one is that it enables you to sow and harvest crops months earlier than would otherwise be possible in temperate or cold areas. The growing season is therefore considerably extended, making it possible to increase annual yields substantially. With careful planning, certain crops can be harvested continuously, and many frost-tender plants can be "overwintered" -- kept in the greenhouse during winter months to protect them from cold.
+A greenhouse is a very useful addition to any garden. The major advantage of owning one is that it enables you to sow and harvest crops months earlier than would otherwise be possible in temperate or cold areas. The [[savory-growing-season-and-non-growing-season-management]] is therefore considerably extended, making it possible to increase annual yields substantially. With careful planning, certain crops can be harvested continuously, and many frost-tender plants can be "overwintered" -- kept in the greenhouse during winter months to protect them from cold.
 
 ## Choosing a Greenhouse
 
@@ -24,7 +24,7 @@ Adequate ventilation is vital for temperature control. A 6 x 8ft (2 x 2.5m) gree
 
 ## Heating a Greenhouse
 
-The amount of heat you provide determines the range of plants you can grow. Even in an unheated greenhouse, yields will always be considerably earlier and heavier than from plants grown outside.
+The amount of heat you provide determines the range of plants you can grow. Even in an [[coleman-unheated-greenhouse-design]], yields will always be considerably earlier and heavier than from plants grown outside.
 
 ### Controlling Temperatures
 
@@ -42,7 +42,7 @@ The important statistics are the minimum temperature at night and the maximum du
 - Locate the greenhouse in a bright place to benefit from free solar heat
 - Provide shelter from strong winds
 - Insulate inside with insulated packaging (bubble-wrap material) -- can cut heat loss by 40-50 percent
-- Use a [[comparison-bsf-composting-vs-hot-composting]] (horse manure mixture) as a cheap organic way to heat the soil
+- Use a [[comparison-bsf-composting-vs-hot-composting]] ([[falconer-horse-manure-varieties]] mixture) as a cheap organic way to heat the soil
 
 ## Caring for Greenhouse Plants
 
@@ -50,7 +50,7 @@ Plants grown in the greenhouse need much more attention than those cultivated ou
 
 ### Potting Composts
 
-A number of organic potting or seed composts are commercially available. For a peat-free compost, mix green compost with coir and add Dolomite lime to balance acidity. Add pelleted chicken manure and kelp liquid feed. Alternatively, make a soil-based compost using loam from stacked turf mixed with coir and coarse sand, enriched with [[compost-container-types]] on the staging and trickle irrigation systems with narrow-gauge tubing fixed into each pot.
+A number of organic potting or seed composts are commercially available. For a peat-free compost, mix green compost with coir and add [[cervantes-dolomite-lime-ph-buffering]] to balance acidity. Add pelleted chicken manure and kelp liquid feed. Alternatively, make a soil-based compost using loam from stacked turf mixed with coir and coarse sand, enriched with [[compost-container-types]] on the staging and trickle irrigation systems with narrow-gauge tubing fixed into each pot.
 
 ### Growing in Greenhouse Borders
 
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

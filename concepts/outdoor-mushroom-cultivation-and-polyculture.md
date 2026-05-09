@@ -2,10 +2,10 @@
 
 ## Overview
 Outdoor mushroom cultivation offers an accessible, low-tech
-alternative to indoor laboratory-based growing methods. By working
+alternative to indoor laboratory-based [[mushroom-growing-methods-comparison]]. By working
 with natural environmental conditions rather than against them,
 outdoor cultivation can produce significant yields of gourmet and
-medicinal mushrooms with minimal investment in equipment, energy,
+[[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] with minimal investment in equipment, energy,
 and infrastructure. Paul Stamets describes several outdoor
 cultivation strategies that leverage the natural ecology of fungi,
 including wood chip bed cultivation, log inoculation, spore mass
@@ -41,7 +41,7 @@ crops with minimal ongoing maintenance.
 
 ## Log Cultivation: Shiitake and Beyond
 
-Hardwood log cultivation is the traditional method for growing
+Hardwood log cultivation is the traditional [[query-what-is-the-kratky-method-for-growing-cannabis]]
 shiitake and several other mushroom species, and it remains widely
 practiced by both commercial growers and hobbyists. Freshly cut
 hardwood logs (typically 3-8 inches in diameter and 3-4 feet long)
@@ -58,7 +58,7 @@ of mushroom primordia. Shocked logs typically begin producing
 mushrooms within 7-14 days and may yield multiple flushes per
 season. Properly managed shiitake logs can continue producing for
 3-6 years as the fungus gradually decomposes the wood. Oak is the
-preferred wood species for shiitake cultivation, but other hardwoods
+preferred wood species for [[gourmet-medicinal-mushroom-shiitake-cultivation-logs]], but other hardwoods
 including beech, maple, ironwood, and sweetgum can also be used
 successfully.
 
@@ -111,10 +111,10 @@ substrate mass to mushroom mass as remarkably efficient.
 
 Outdoor mushroom cultivation provides ecological benefits beyond
 food production. Wood chip beds inoculated with King Stropharia
-attract and support diverse invertebrate communities, which in turn
+[[query-how-to-attract-and-support-native-bee-pollinators]] diverse invertebrate communities, which in turn
 provide food for birds, amphibians, and other wildlife. Mycelial
 networks improve soil structure, increase water retention, and
-enhance nutrient cycling. Some cultivated species can suppress soil-
+enhance [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. Some cultivated species can suppress soil-
 borne plant pathogens through competitive exclusion or antibiosis.
 These ecological services make outdoor mushroom cultivation
 compatible with permaculture, agroforestry, and sustainable

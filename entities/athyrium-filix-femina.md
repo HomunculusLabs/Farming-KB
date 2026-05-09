@@ -22,7 +22,7 @@ sources:
 
 Athyrium filix-femina, the lady fern, is a large, graceful fern native to temperate regions throughout the Northern Hemisphere and extending into montane tropical areas. It is among the most abundant and widely recognized ferns in northern forests, valued both for its ornamental qualities and its edible fiddleheads.
 
-The species exhibits considerable morphological variation across its range, resulting in numerous named varieties and cultivars. Its delicate, finely divided fronds and tolerance of a wide range of growing conditions have made it a staple of shade gardens and naturalistic landscapes worldwide.
+The species exhibits considerable morphological [[psilocybin-psilocin-variation-across-flushes]] its range, resulting in numerous named varieties and cultivars. Its delicate, finely divided fronds and tolerance of a wide range of growing conditions have made it a staple of shade gardens and naturalistic landscapes worldwide.
 
 ## Taxonomy and Morphology
 
@@ -30,7 +30,7 @@ Athyrium filix-femina belongs to the family Athyriaceae within the order Polypod
 
 The species was described by Carl Linnaeus in 1753 as Polypodium filix-femina and transferred to Athyrium by Alphonse Pyramus de Candolle in 1805. The specific epithet filix-femina (lady fern) contrasts with Dryopteris filix-mas (male fern), reflecting a traditional pairing in European botany.
 
-The species complex includes several recognized subspecies and varieties. In Europe, subsp. filix-femina is the typical form, while subsp. angustum occurs in North America and subsp. cyclosorum ranges across Asia. Additional varieties are found in montane tropical regions.
+The species complex includes several recognized subspecies and varieties. In Europe, subsp. filix-femina is the typical form, while subsp. angustum occurs in [[psilocybin-north-america-pacific-northwest]] and subsp. cyclosorum ranges across Asia. Additional varieties are found in montane tropical regions.
 
 The rhizome is ascending to shortly creeping, producing a dense crown of fronds that forms an open, vase-shaped clump. The rhizome is covered with dark-brown, lanceolate scales and produces fibrous roots.
 
@@ -54,7 +54,7 @@ In Europe, the species occurs from the Mediterranean to northern Scandinavia and
 
 The lady fern is a generalist in terms of habitat, colonizing a wide range of moist, shaded environments. Common habitats include deciduous and coniferous woodlands, stream banks, swamp margins, meadows, avalanche tracks, and subalpine scrub.
 
-The species prefers moist to wet, well-drained soils rich in organic matter, with a pH range of 5.0–7.0. It tolerates full shade to partial sun but grows best in dappled shade with consistent soil moisture.
+The species prefers moist to wet, well-drained soils rich in [[hamilton-composting-and-organic-matter-management]], with a pH range of 5.0–7.0. It tolerates full shade to partial sun but grows best in dappled shade with consistent soil moisture.
 
 Elevation ranges from near sea level to approximately 3,500 meters in the Himalayas and Andes. At high elevations, the species often grows in association with other cold-tolerant ferns and alpine herbs.
 
@@ -92,7 +92,7 @@ In regions with hot summers, the lady fern may go partially dormant, with fronds
 
 ## Ecological Role
 
-Athyrium filix-femina is a significant component of the herbaceous understory in temperate and boreal forests, contributing to biodiversity and ecosystem function. Its fronds provide habitat structure for ground-dwelling invertebrates and amphibians.
+Athyrium filix-femina is a significant component of the herbaceous understory in temperate and [[fungal-diversity-boreal-forests-taiga]], contributing to biodiversity and ecosystem function. Its fronds provide habitat structure for ground-dwelling invertebrates and amphibians.
 
 The species serves as a food source for several specialist herbivorous insects, including larvae of the fern-borer moth (Pterophorus pentadactyla) and various sawfly species. These herbivores typically cause only minor damage to frond appearance.
 
@@ -102,7 +102,7 @@ In riparian corridors, the dense root systems of lady fern help stabilize stream
 
 The lady fern is an important component of forest regeneration dynamics, colonizing canopy gaps and disturbed areas before being gradually replaced by more shade-tolerant species as succession progresses. This role as an early- to mid-successional species contributes to forest structural diversity.
 
-Several species of mycorrhizal fungi have been documented in association with lady fern roots, though the fern is less dependent on mycorrhizae than many co-occurring understory plants. The relationship appears facultative, with mycorrhizal colonization enhancing phosphorus uptake in nutrient-poor soils.
+Several species of [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] have been documented in association with lady fern roots, though the fern is less dependent on mycorrhizae than many co-occurring understory plants. The relationship appears facultative, with [[arbuscular-mycorrhizal-colonization-patterns]] enhancing phosphorus uptake in nutrient-poor soils.
 
 ## See Also
 
@@ -114,3 +114,5 @@ Several species of mycorrhizal fungi have been documented in association with la
 - [[fagus-sylvatica]]
 - [[betula-pendula]]
 - [[vaccinium-macrocarpon]]
+
+- [[athyrium-niponicum]]

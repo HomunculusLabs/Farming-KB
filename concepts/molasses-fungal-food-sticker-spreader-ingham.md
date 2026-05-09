@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Elaine Ingham Ph.D., The Field Guide I for Actively Aerated Compost Tea (AACT), 2004"
+  - "Elaine Ingham Ph.D., The Field Guide I for Actively actively-aerated-compost-tea Tea (AACT), 2004"
 type: concept
 ---
 
@@ -52,7 +52,7 @@ Above 5%, the osmotic effect significantly restricts bacterial growth. Beneficia
 
 ### Excessive Concentrations (Above 15-20%)
 
-At approximately 15 to 20%, osmotic shock begins to exceed what any organisms can tolerate. Some beneficial organisms are lost along with the target species. This is the upper practical limit for molasses concentration in compost tea.
+At approximately 15 to 20%, [[ingham-antibiotics-osmotic-shock-compost-tea]] begins to exceed what any organisms can tolerate. Some beneficial organisms are lost along with the target species. This is the upper practical limit for molasses concentration in compost tea.
 
 ## Osmotic Shock Mechanism
 
@@ -95,7 +95,7 @@ If using dried products, additional fungal foods (humic acid, fish hydrolysate) 
 ## Cautions
 
 - Always verify the molasses is unsulfured; sulfur compounds will kill the fungi you are trying to grow
-- Monitor oxygen levels when using any concentration, as conditions vary with compost quality, temperature, and aeration capacity
+- Monitor oxygen levels when using any concentration, as conditions vary with [[aact-compost-quality-standards-ingham]], temperature, and aeration capacity
 - At high concentrations, test the tea to confirm that beneficial organisms have not been lost to osmotic shock
 - The worst concentrations for maintaining aerobic conditions are in the 0.5% to 3% range, not the highest concentrations as might be assumed
 - Ensure sprayer equipment can handle syrup at high concentrations without clogging nozzles or damaging pumps
@@ -115,14 +115,16 @@ Adding simple sugars to a wood-heavy compost pile alone does not improve fungal 
 
 Molasses is often combined with other amendments in compost tea recipes. Understanding interactions is important:
 
-- **Kelp**: Provides micronutrients and growth regulators; works synergistically with molasses as bacteria and fungi utilize kelp nutrients
-- **Fish hydrolysate**: Provides protein and nitrogen; combined with molasses, supports both bacterial and fungal growth
-- **Humic acid**: Both are fungal foods; combining them can accelerate fungal biomass development
+- **Kelp**: Provides micronutrients and [[ingham-natural-growth-regulators-soil-microbes]]; works synergistically with molasses as bacteria and fungi utilize kelp nutrients
+- **Fish hydrolysate**: Provides protein and nitrogen; combined with molasses, supports both [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] growth
+- **Humic acid**: Both are fungal foods; combining them can accelerate [[bioremediation-fungal-biomass-biosorbent-material]] development
 - **Alfalfa meal**: Contains proteins and growth factors; complements the sugar energy from molasses
 
 When combining ingredients, the total food load must stay within limits that the aeration system can handle. A typical upper limit for total amendments in a 5-gallon brew is approximately one pound, split among the different components.
 
 ## See Also
+
+- [[ingham-fungal-inoculum-sourcing]]
 
 - [[aact-fungal-dominant-tea]]
 - [[humic-acids-soil-biology-ingham]]

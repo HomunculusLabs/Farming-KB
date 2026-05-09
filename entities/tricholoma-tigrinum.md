@@ -52,11 +52,11 @@ The species is typically found in coniferous or mixed forests, often in associat
 
 ## Chemical Composition
 
-Chemical analysis of T. tigrinum has identified several bioactive constituents:
+[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of T. tigrinum has identified several bioactive constituents:
 
 - **Polysaccharides:** The most significant bioactive fraction consists of water-soluble heteropolysaccharides containing predominantly glucose with smaller amounts of galactose, mannose, and arabinose. The polysaccharides feature beta-(1→3) and beta-(1→6) glucosidic linkages characteristic of immunomodulatory mushroom beta-glucans.
 - **Proteins and glycoproteins:** Protein-bound polysaccharide complexes similar in nature to PSK from [[ganoderma-lucidum]].
-- **Ergosterol and ergosterol peroxide:** These sterol compounds, common in basidiomycete fungi, have demonstrated anti-inflammatory and mild cytotoxic activities in vitro.
+- **Ergosterol and ergosterol peroxide:** These sterol compounds, common in [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]], have demonstrated anti-inflammatory and mild cytotoxic activities in vitro.
 - **Phenolic compounds:** Various phenolic acids contribute to the mushroom's antioxidant capacity.
 - **Organic acids:** Malic, fumaric, and other organic acids are present in the fruiting body.
 
@@ -68,7 +68,7 @@ The polysaccharide fractions of T. tigrinum have been the primary focus of medic
 
 - Activation of macrophages and enhancement of phagocytic activity
 - Stimulation of T-lymphocyte proliferation and differentiation
-- Modulation of cytokine profiles, including increased production of IL-2, IL-6, IL-12, and TNF-α
+- Modulation of cytokine profiles, including [[fukuoka-textdoc-increased-production-not-increased-yields]] of IL-2, IL-6, IL-12, and TNF-α
 - Enhancement of NK cell-mediated cytotoxicity against target cells
 - Activation of the complement system
 
@@ -113,7 +113,7 @@ T. tigrinum has been used in traditional medicine in parts of China and Japan, w
 - A nutritional food with perceived medicinal benefits
 - An ingredient in traditional medicinal soups and decoctions
 
-The traditional applications are consistent with the modern understanding of its immunomodulatory properties, though the extent of traditional documentation is less comprehensive than for better-known medicinal mushrooms in the Chinese pharmacopoeia.
+The traditional applications are consistent with the modern understanding of its immunomodulatory properties, though the extent of traditional documentation is less comprehensive than for better-known [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] in the Chinese pharmacopoeia.
 
 ## Cultivation
 
@@ -121,7 +121,7 @@ Commercial cultivation of T. tigrinum is not widely established, though laborato
 
 - Substrate: hardwood sawdust supplemented with wheat bran or rice bran (optimal supplementation 10-20%)
 - Spawn: grain-based spawn (wheat, rye, or millet)
-- Mycelial growth temperature: 22-28°C
+- [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] temperature: 22-28°C
 - Fruiting temperature: 16-22°C with a temperature drop to initiate pinning
 - Humidity: 85-95% relative humidity during fruiting
 - Light: Indirect light sufficient for normal fruiting body development
@@ -131,7 +131,7 @@ The ectomycorrhizal nature of T. tigrinum may present challenges for axenic cult
 
 ## Safety Profile
 
-T. tigrinum is considered safe for consumption based on traditional use and preliminary toxicological data. Acute toxicity studies in animals have shown no significant adverse effects at therapeutic doses. However, caution is advised because the genus Tricholoma contains both edible and toxic species, and accurate identification by trained mycologists is essential before consumption.
+T. tigrinum is considered safe for consumption based on traditional use and preliminary toxicological data. Acute toxicity studies in animals have shown no significant [[blesching-cannabis-safety-adverse-effects-evidence]] at therapeutic doses. However, caution is advised because the genus Tricholoma contains both edible and toxic species, and accurate identification by trained mycologists is essential before consumption.
 
 ## See Also
 

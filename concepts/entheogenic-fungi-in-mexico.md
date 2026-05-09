@@ -11,7 +11,7 @@ type: concept
 # Entheogenic Fungi in Mexico
 
 Mexico is the global center of both diversity and traditional use of
-neurotropic fungi. With **76 documented species** of neurotropic fungi — 44
+[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]. With **76 documented species** of neurotropic fungi — 44
 of which are Psilocybe — Mexico accounts for roughly 35% of all known
 neurotropic species worldwide. This extraordinary concentration is matched
 by an equally rich ethnobotanical heritage: Mexico is home to the most
@@ -20,12 +20,12 @@ extensively documented indigenous mushroom cults on Earth.
 ## Indigenous Groups and Mushroom Use
 
 Multiple indigenous peoples of central and southern Mexico maintain
-traditional relationships with psychoactive fungi. The most well-documented
+traditional relationships with [[cattle-dispersal-psychoactive-fungi-australia]]. The most well-documented
 groups include:
 
 - **Mazatec** (Oaxaca) — Perhaps the most famous practitioners. The Mazatec
-  use several species in healing and divination ceremonies, particularly
-  [[psilocybe-caerulescens-profile]]. Maria Sabina, the Mazatec curandera who introduced
+  use several species in [[metzner-shamanic-healing-and-divination-paradigm]] ceremonies, particularly
+  psilocybe-caerulescens-profile. [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]], the Mazatec curandera who introduced
   Wasson to the velada ceremony, became iconic in the global psychedelic
   movement.
 
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

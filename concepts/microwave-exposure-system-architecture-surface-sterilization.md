@@ -1,5 +1,5 @@
 ---
-title: Microwave Exposure System Architecture for Surface Sterilization
+title: Microwave microwave exposure system architecture surface sterilization for challenge-organisms-nasa-microwave-surface-sterilization-testing
 created: 2026-04-28
 tags:
   - sterilization
@@ -20,14 +20,14 @@ type: concept
 # Microwave Exposure System Architecture for Surface Sterilization
 
 NASA Technical Brief MSC-22484 documents not only the biological efficacy of
-microwave surface sterilization but also the engineering architecture of the
+[[challenge-microorganisms-microwave-surface-sterilization]] sterilization but also the engineering architecture of the
 exposure system used to deliver microwave energy to contaminated surfaces. The
 system described consists of several integrated components: a power supply, a
 microwave source, waveguide or other conduit for conducting electromagnetic
 energy, one or more antennas, and a trace water introduction system. This
 architecture represents a purpose-built sterilization platform optimized for the
 specific requirements of surface decontamination, and understanding its
-component design provides insight into how microwave sterilization equipment can
+component design provides insight into how [[nasa-microwave-sterilization-challenge-organisms-kill-kinetics]] equipment can
 be configured for different applications in mycology, laboratory science, and
 industrial processing.
 
@@ -107,7 +107,7 @@ only against vegetative cells and not against bacterial spores.
 ## Adaptation for Cultivation and Laboratory Settings
 
 The NASA system architecture provides a template that can be adapted for
-mushroom cultivation and laboratory sterilization applications. A practical
+[[accessible-mushroom-cultivation-for-disabilities]] and laboratory sterilization applications. A practical
 cultivator-scale system might use a lower-power magnetron with a smaller
 waveguide feeding a single antenna or small array, sized to sterilize work
 surfaces or container openings rather than spacecraft access ports. The trace
@@ -124,7 +124,7 @@ coupling are not assured.
 ## See Also
 
 - [[microwave-surface-sterilization-technology]]
-- [[microwave-sterilizable-access-port]]
+- [[microwave-sterilizable-access-port-nasa-space-biology]]
 - [[microwave-surface-sterilization-microbial-kill-kinetics]]
 - [[microwave-penetration-elastomeric-materials]]
 - [[sterilization-techniques-mushroom-cultivation]]

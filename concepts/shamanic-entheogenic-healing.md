@@ -1,7 +1,7 @@
 # Shamanic Entheogenic Healing
 
 ## Overview
-Shamanic healing with entheogenic plants represents one of the oldest
+[[metzner-shamanic-healing-and-divination-paradigm]] with entheogenic plants represents one of the oldest
 continuous traditions of psychoactive substance use in human history,
 predating written records by millennia. [[michael-harner]] called "nonordinary reality" as a domain of genuine
 experience with its own ecology of beings, relationships, and knowledge
@@ -26,7 +26,7 @@ psychotherapy sessions:
 2. **Essential role of singing**: The shaman's singing with rapid rhythmic
    beat provides psychic support for moving through visions and prevents
    entrapment in frightening or seductive experiences.
-3. **Darkness or low light**: Facilitates emergence of visions, with the
+3. **Darkness or [[darkness-low-light-facilitation-entheogenic-ceremonies]]**: Facilitates emergence of visions, with the
    [[ayahuasca-churches-syncretic-ceremonies]]
 - [[hallucinogenic-drugs]] and Plants in Psychotherapy and
   Shamanism. *Journal of Psychoactive Drugs*, 30(4), 333–341.
@@ -110,3 +110,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[shamanic-entheogenic-healing-rituals]]

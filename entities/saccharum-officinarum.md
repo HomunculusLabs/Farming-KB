@@ -20,9 +20,9 @@ sources:
 
 ## Overview
 
-**Saccharum officinarum** (sugarcane) is a tall perennial grass of the family Poaceae, cultivated primarily for its high-sugar content stems. It is one of the world's most important industrial crops, with global production exceeding 1.9 billion tonnes annually.
+**Saccharum officinarum** (sugarcane) is a tall [[savory-perennial-grass-and-desertification]] of the family Poaceae, cultivated primarily for its high-sugar content stems. It is one of the world's most important industrial crops, with global production exceeding 1.9 billion tonnes annually.
 
-The species originated in Southeast Asia and New Guinea and has been cultivated for over 8,000 years. Modern commercial cultivars are complex interspecific hybrids involving S. officinarum, S. spontaneum, and other Saccharum species.
+The species originated in [[psilocybe-southeast-asia-pacific]] and New Guinea and has been cultivated for over 8,000 years. Modern commercial cultivars are complex interspecific hybrids involving S. officinarum, S. spontaneum, and other Saccharum species.
 
 Sugarcane accounts for roughly 80% of global sugar production, with the remainder derived from sugar beet. Brazil, India, and Thailand are the largest producers.
 
@@ -44,7 +44,7 @@ Sugarcane thrives in tropical and subtropical regions between approximately 35°
 
 Major production regions include Brazil (northeast and south-central), India (Uttar Pradesh, Maharashtra), Thailand, China, Pakistan, Mexico, Australia, and Indonesia. The crop requires well-drained, fertile soils with a pH of 5.0–8.5.
 
-Planting uses 30–50 cm stem segments (setts) laid in furrows at 1.0–1.5 m row spacing. The crop cycle spans 9–24 months depending on variety, climate, and management intensity.
+Planting uses 30–50 cm stem segments (setts) laid in furrows at 1.0–1.5 m [[wide-row-spacing-intensive-gardening-comparison]]. The crop cycle spans 9–24 months depending on variety, climate, and management intensity.
 
 Ratoon cropping (regrowth from stubble after harvest) yields 2–6 additional harvests before replanting is required. Each successive ratoon typically shows a 5–15% yield decline.
 
@@ -68,7 +68,7 @@ Bagasse is burned as boiler fuel in sugar mills, generating electricity surplus 
 
 Sugarcane ethanol is a major biofuel, particularly in Brazil where flex-fuel vehicles run on hydrous ethanol or gasoline-ethanol blends. Global bioethanol from sugarcane exceeds 30 billion liters annually.
 
-Emerging applications include bioplastics from bagasse-derived cellulose, enzyme production from molasses fermentation, and activated carbon from charred bagasse.
+Emerging applications include bioplastics from bagasse-derived cellulose, [[ligninolytic-enzyme-production-bioremediation]] from molasses fermentation, and activated carbon from charred bagasse.
 
 ## Ecological Role
 
@@ -78,7 +78,7 @@ Large-scale sugarcane cultivation raises concerns about water consumption, ferti
 
 Burning of sugarcane fields before harvest (a traditional practice to remove trash) releases particulate matter and greenhouse gases. Green harvesting (mechanical harvest without burning) is increasingly adopted as a cleaner alternative.
 
-The crop's deep root system provides some soil stabilization on sloping terrain. When managed with conservation practices, sugarcane can contribute to soil carbon sequestration in tropical agroecosystems.
+The crop's deep root system provides some soil stabilization on sloping terrain. When managed with conservation practices, sugarcane can contribute to soil [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] in tropical agroecosystems.
 
 ## Agricultural Importance
 
@@ -92,7 +92,7 @@ As a C4 plant, sugarcane is among the most photosynthetically efficient crops, w
 
 ## Related Species
 
-**Saccharum spontaneum** (wild sugarcane) is a hardy, widely distributed relative valued for disease resistance and stress tolerance in breeding programs. It contributes ratooning ability and disease resistance to modern hybrids.
+**Saccharum spontaneum** (wild sugarcane) is a hardy, widely distributed relative valued for disease resistance and [[fungal-lichen-stress-tolerance-and-poikilohydry]] in breeding programs. It contributes ratooning ability and disease resistance to modern hybrids.
 
 **Saccharum sinense** and **S. barberi** are traditional Indian and Chinese canes with lower sugar content but greater environmental resilience. These species were historically important before modern hybridization programs.
 
@@ -105,7 +105,7 @@ Modern commercial cultivars (called "noble canes" in breeding terminology) are t
 - [[manihot-esculenta]]
 - [[vigna-radiata]]
 - [[amaranthus-caudatus]]
-- [[crotalaria-juncea]]
+- crotalaria-juncea
 - [[prosopis-juliflora]]
 - [[dioscorea-alata]]
 - [[glycine-max]]

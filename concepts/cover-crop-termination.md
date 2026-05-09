@@ -18,10 +18,10 @@ Cover crop termination is the process of killing a cover crop at the right time 
 The ideal termination window depends on the cover crop species, intended benefits, and following crop:
 
 - **Nitrogen release timing**: Legume cover crops reach peak nitrogen content at flowering. Terminating at early flowering (50% bloom) maximizes N contribution to the following crop. Terminating too early sacrifices N; too late means the plant begins pulling N from leaves into seeds, reducing availability.
-- **Biomass accumulation**: Grass cover crops (rye, oats) produce maximum biomass at boot stage (just before seed head emergence). More biomass means more mulch and organic matter, but also more potential for nitrogen tie-up from the high C:N ratio.
-- **Allelopathic weed suppression**: Cereal rye produces allelopathic compounds that suppress weed seed germination. This effect peaks at flowering and persists for 2-4 weeks after termination.
+- **Biomass accumulation**: Grass cover crops (rye, oats) produce maximum biomass at boot stage (just before seed head emergence). More biomass means more mulch and [[hamilton-composting-and-organic-matter-management]], but also more potential for nitrogen tie-up from the high C:N ratio.
+- **Allelopathic weed suppression**: Cereal rye produces allelopathic compounds that suppress weed [[cannabis-seed-germination-methods]]. This effect peaks at flowering and persists for 2-4 weeks after termination.
 - **Soil moisture**: In dry climates, terminate early to preserve soil moisture for the following crop. Cover crops transpire significant water, especially in spring.
-- **Frost risk**: Some cover crops (crimson clover, winter peas) can survive light frost. In areas with late spring freezes, delay termination until frost risk passes.
+- **Frost risk**: Some cover crops ([[comparison-lupin-vs-crimson-clover-green-manure]], winter peas) can survive light frost. In areas with late spring freezes, delay termination until frost risk passes.
 
 ### Days Before Planting
 
@@ -44,10 +44,10 @@ The gold standard for no-till systems. A roller-crimper is a heavy steel cylinde
 - Creates a weed-suppressing mulch mat
 - Retains soil moisture
 - No fuel-intensive tillage
-- Preserves mycorrhizal networks
+- Preserves [[dighton-mycorrhizal-networks-carbon-transfer]]
 
 **Requirements**:
-- Cover crop must be at the correct growth stage (typically flowering for effective kill)
+- Cover crop must be at the correct [[cho-plant-growth-stage-treatment-protocols]] (typically flowering for effective kill)
 - Requires a roller-crimper implement (available commercially or DIY from plans)
 - Works best with tall, stiff-stemmed cover crops (cereal rye, hairy vetch)
 - May need a second pass or supplemental control for incomplete kill
@@ -143,52 +143,8 @@ Selecting cover crop species that will naturally die from freezing temperatures,
 Using synthetic herbicides (typically glyphosate) to kill cover crops. Mentioned for completeness but not recommended for organic, [[cannabis-living-soil-guide]], or regenerative systems.
 
 **Concerns**:
-- Harmful to soil biology including mycorrhizal fungi
+- Harmful to soil biology including [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
 - Glyphosate chelates micronutrients (Mn, Zn, Fe) reducing availability
 - Residue concerns for food crops
 - Development of herbicide-resistant weeds
 - Incompatible with organic certification
-
-## Nitrogen Dynamics After Termination
-
-### Legume Cover Crops
-
-When a legume cover crop is terminated at peak biomass:
-- Hairy vetch: 80-120 lbs N/acre available to following crop
-- Crimson clover: 50-80 lbs N/acre
-- Field peas: 40-60 lbs N/acre
-- Cowpeas: 60-100 lbs N/acre
-
-Nitrogen release follows a predictable curve: approximately 50% of N is released in the first 4 weeks after termination, with the remainder mineralizing over 8-12 weeks. Plant the following crop to match this release pattern.
-
-### Grass Cover Crops
-
-Non-legume cover crops have high C:N ratios (60:1 to 80:1 for mature cereal rye). When terminated, soil microbes use available soil nitrogen to decompose the residue, potentially creating temporary nitrogen deficiency (nitrogen tie-up) for the following crop.
-
-**Mitigation strategies**:
-- Terminate grass cover crops earlier (vegetative stage) when C:N ratio is lower (25:1 to 35:1)
-- Add a nitrogen source (compost, [[organic-fertilizer-recipes]], or legume interseeding) at termination
-- Allow 3-4 weeks between termination and planting of nitrogen-demanding crops
-- Use grass-legume mixtures to balance C:N ratio
-
-## Integration with No-Till Systems
-
-The combination of cover crops and roller-crimping is the foundation of modern no-till organic farming:
-
-1. **Fall**: Plant a cereal rye + hairy vetch mixture after cash crop harvest
-2. **Spring**: Allow cover crop to grow to flowering (late May in most zones)
-3. **Terminate**: Roll-crimp when rye is at anthesis (pollen shed) and vetch is flowering
-4. **Plant**: Transplant or drill cash crop seed directly into the mulch mat
-5. **Manage**: The mulch suppresses weeds, retains moisture, and slowly releases nutrients
-
-This system eliminates tillage entirely while building soil organic matter 0.3-0.5% per year. See [[no-tillage-grain-systems]] for large-scale applications.
-
-## Troubleshooting
-
-| Problem | Cause | Solution |
-|---|---|---|
-| Cover crop regrows after termination | Wrong growth stage; method not thorough enough | Wait until flowering; use roller-crimper; make a second pass |
-| Following crop is yellow and stunted | Nitrogen tie-up from high C:N residue | Add compost or organic N source; delay planting; terminate earlier next time |
-| Thick mat prevents seed-to-soil contact | Excessive biomass; inadequate crimping | Reduce planting rate of cover crop; use transplants instead of direct seed; use row cleaner |
-| Weed pressure through mulch gaps | Uneven cover crop stand; gaps in crimping | Improve cover crop seeding uniformity; overlap crimping passes; hand-pull or flame weed |
-| Slugs and pest increase | Residue provides habitat | Remove residue from planting zone; use beer traps; encourage predator habitat |

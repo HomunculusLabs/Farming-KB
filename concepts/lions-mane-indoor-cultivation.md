@@ -10,14 +10,14 @@ sources:
 
 # Lion's Mane Indoor Cultivation
 
-Lion's Mane (Hericium erinaceus) is one of the few mushrooms that, when cooked, imparts the flavor of lobster. Producing a mane of cascading white spines, this mushroom can be grown on sterilized sawdust/bran or via the traditional log method first established for Shiitake. Indoor cultivation offers the most rapid and productive results, though the species requires greater attention to the details of mycelial development than most other gourmet mushrooms.
+Lion's Mane (Hericium erinaceus) is one of the few mushrooms that, when cooked, imparts the flavor of lobster. Producing a mane of cascading white spines, this mushroom can be grown on sterilized sawdust/bran or via the traditional log method first established for Shiitake. Indoor cultivation offers the most rapid and productive results, though the species requires greater attention to the details of mycelial development than most other [[growing-gourmet-mushrooms-civilization-history]].
 
 ## Species Overview
 
 - Scientific name: Hericium erinaceus (Bulliard: Fries) Persoon
 - Other names: Monkey's Head, Bear's Head, Old Man's Beard, Hedgehog Mushroom, Satyr's Beard, PomPom, Yamabushi-take
 - Description: Composed of downward, cascading, non-forking spines, up to 40cm in diameter in the wild. Typically white until aged, then discoloring to brown or yellow brown, especially from the top
-- Distribution: North America, Europe, China and Japan; most abundant in the southern regions of the United States
+- Distribution: [[psilocybin-north-america-pacific-northwest]], Europe, China and Japan; most abundant in the southern regions of the United States
 - Natural habitat: On dying or dead oak, walnut, beech, maple, sycamore and other broad-leaf trees, found most frequently on logs or stumps
 
 ## Mycelial Characteristics
@@ -32,7 +32,7 @@ The mycelium is whitish, forming triangular zones of collected rhizomorphs radia
 - Duration: 10-14 days
 - CO2: >5000-40,000 ppm
 - Fresh Air Exchanges: 0-1 per hour
-- Light Requirements: none
+- [[growing-gourmet-light-requirements-mushroom-fruiting]]: none
 
 ### Primordia Formation
 - Initiation Temperature: 50-60°F (10-15.6°C)
@@ -63,7 +63,7 @@ The spawn jars must be used immediately for further expansion into either more s
 
 ## Substrate for Indoor Fruiting
 
-Sterilized sawdust supplemented with rice bran. Hardwood and Douglas fir logs and stumps are recommended for outdoor cultivation. The pH range for fruiting falls between 5.0-6.5. Each half-gallon (liter) of grain spawn can be transferred into four 5-lb bags of sterilized sawdust/bran. Since this species adapts well to submerged fermentation, commercial cultivators might find the direct inoculation of sterilized grain with liquid mycelium is the most efficient path of spawn generation.
+Sterilized sawdust supplemented with rice bran. Hardwood and Douglas fir logs and stumps are recommended for outdoor cultivation. The pH range for fruiting falls between 5.0-6.5. Each half-gallon (liter) of grain spawn can be transferred into four 5-lb bags of sterilized sawdust/bran. Since this species adapts well to [[cancer-medicinal-mushrooms-submerged-fermentation-production]], commercial cultivators might find the direct inoculation of sterilized grain with liquid mycelium is the most efficient path of spawn generation.
 
 ## Yields
 
@@ -75,11 +75,11 @@ Sterilized sawdust supplemented with rice bran. Hardwood and Douglas fir logs an
 
 Lion's Mane grows aggressively on hardwood sawdust enriched with bran. Incubation proceeds for two weeks, after which primordia occur spontaneously. Since fruitings off vertical faces of the plastic bags are more desirable than top fruitings, it is essential that holes be punched into the sides of the bags directly after colonization. If primordia form unabated within the confines of the sealed bag, the number and quality of spines are adversely affected. Under these conditions, the spines elongate, are loosely arranged, and when fully developed the mass of the harvested mushroom is greatly reduced.
 
-If inducing mushrooms to form through minute holes in plastic, the fruitbody snaps off with no need for further cleaning. Picking mushrooms in this fashion makes for some of the fastest harvesting in mushroom cultivation.
+If inducing mushrooms to form through minute holes in plastic, the fruitbody snaps off with no need for further cleaning. Picking mushrooms in this fashion makes for some of the fastest harvesting in [[accessible-mushroom-cultivation-for-disabilities]].
 
 ## Harvest and Handling
 
-The relative humidity in the growing room should be lowered to 80% for 4-8 hours prior to harvest to reduce surface moisture and prolong storageability. The mushroom must be picked with great care so as not to create a site for bacterial infestation, which can quickly spread. The high water content and white background makes bruising quite apparent, and damaged tissue becomes a site for bacterial blotch that quickly spreads to other mature parts. By reducing humidity several hours before harvest to the 60-70% range, the mushroom loses sufficient water and tends not to bruise so readily.
+The relative humidity in the growing room should be lowered to 80% for 4-8 hours prior to harvest to reduce surface moisture and prolong storageability. The mushroom must be picked with great care so as not to create a site for bacterial infestation, which can quickly spread. The high water content and white background makes bruising quite apparent, and damaged tissue becomes a site for [[growing-gourmet-bacterial-blotch-disease-management]] that quickly spreads to other mature parts. By reducing humidity several hours before harvest to the 60-70% range, the mushroom loses sufficient water and tends not to bruise so readily.
 
 ## Market Form
 
@@ -93,7 +93,7 @@ Chen (1992) reported that studies at the Third People's Hospital of Shanghai sho
 
 Cut the mushrooms transverse to the spines into dials and cook at high heat in canola oil until the moisture has been reduced and the dials are light golden brown. Garlic, onions, and almonds also go well with this mushroom. The addition of a small amount of butter near the end of the cooking cycle brings out the lobster flavor.
 
-See also: [[king-oyster-cultivation]], [[shiitake-cultivation-log-method]], [[mushroom-post-harvest-handling]], [[gourmet-mushroom-enriched-sawdust-cultivation]]
+See also: [[king-oyster-cultivation]], [[shiitake-cultivation-log-method]], mushroom-post-harvest-handling, [[gourmet-mushroom-enriched-sawdust-cultivation]]
 
 ## See Also
 

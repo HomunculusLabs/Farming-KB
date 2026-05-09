@@ -13,29 +13,29 @@ The canopy layer is the uppermost stratum of a [[permaculture-food-forest-design
 
 ## The Seven Layers of a Forest Garden
 
-A forest garden ranges in many layers: high canopy, low trees, shrubs, herbaceous plants, ground covers, root crops, and vines. The canopy is the highest layer, typically consisting of large nut and fruit trees that reach 10-15 meters or more.
+A forest garden ranges in many layers: high canopy, low trees, shrubs, herbaceous plants, [[permaculture-plants-food-forest-ground-covers-bamboos]], root crops, and vines. The canopy is the highest layer, typically consisting of large nut and fruit trees that reach 10-15 meters or more.
 
-In the standard suburban yard, the canopy layer may consist of just one or two large trees. In larger properties, the canopy can be a diverse mixture of species providing nuts, timber, wildlife habitat, and microclimate modification. The canopy layer connects to [[forests-in-permaculture]].
+In the standard suburban yard, the canopy layer may consist of just one or two large trees. In larger properties, the canopy can be a diverse mixture of species providing nuts, timber, wildlife habitat, and microclimate modification. The canopy layer connects to forests-in-permaculture.
 
 ## Canopy Functions
 
 The canopy serves multiple critical functions in a food forest system. It captures the maximum amount of sunlight and converts it to food, timber, and habitat. The canopy casts shade that moderates temperatures for understory plants, preventing scorching in summer.
 
-A well-designed canopy reduces wind speed through the garden, protecting understory crops from desiccation and physical damage. The canopy acts as a thermal mass, with the tree canopy holding warmth at night and preventing rapid heat loss from the ground beneath it. This heat retention is particularly valuable in [[permaculture-zone-planning]].
+A well-designed canopy reduces wind speed through the garden, protecting understory crops from desiccation and physical damage. The canopy acts as a thermal mass, with the tree canopy holding warmth at night and preventing rapid heat loss from the ground beneath it. This heat retention is particularly valuable in permaculture-zone-planning.
 
 ## Canopy Species Selection
 
-Canopy species in food forests typically include large nut trees (walnut, chestnut, pecan, oak), large fruit trees (standard apple, pear, plum), timber trees (oak, ash, maple), and nitrogen-fixing canopy trees (black locust, black walnut, honey locust).
+Canopy species in food forests typically include large nut trees (walnut, chestnut, pecan, oak), large fruit trees (standard apple, pear, plum), timber trees (oak, ash, maple), and nitrogen-fixing canopy trees ([[comparison-black-locust-vs-honey-locust]], black walnut, [[permaculture-honey-locust-pod-fodder-system]]).
 
 In [[walnut-hackberry-guild-design]].
 
-Hackberry (Celtis spp.) also secretes a competition-suppressing substance. Interestingly, the toxins from walnut and hackberry seem to complement each other, creating a specialised niche where certain plants can thrive despite the broad spectrum of toxicity. This allelopathic interaction is relevant to [[permaculture-wildlife-corridors]] and [[permaculture-thermal-belt-siting]] and [[edge-effect-in-permaculture]] principles. These edges are the most productive zones in a food forest, supporting the greatest diversity of plants and animals.
+Hackberry (Celtis spp.) also secretes a competition-suppressing substance. Interestingly, the toxins from walnut and hackberry seem to complement each other, creating a specialised niche where certain plants can thrive despite the broad spectrum of toxicity. This allelopathic interaction is relevant to [[permaculture-wildlife-corridors]] and [[permaculture-thermal-belt-siting]] and edge-effect-in-permaculture principles. These edges are the most productive zones in a food forest, supporting the greatest diversity of plants and animals.
 
 Strategic canopy gaps allow sunlight to reach specific understory areas for sun-loving crops. The edges where canopy meets open sky create conditions for fruit production in lower tree layers. Managing canopy density through pruning and species selection allows the designer to control where these productive edges occur.
 
 ## Succession and Canopy Evolution
 
-In a young food forest, the canopy may consist of fast-growing pioneer trees that are gradually replaced by longer-lived species. This natural succession is part of [[urban-permaculture-rainwater-harvesting-graywater]] and [[permaculture-food-forest-design-principles]] maintenance practices and ensures the canopy continues to serve its multiple functions of light management, wind protection, microclimate creation, and food production throughout the life of the food forest.
+In a young food forest, the canopy may consist of fast-growing pioneer trees that are gradually replaced by longer-lived species. This natural succession is part of [[urban-permaculture-rainwater-harvesting-graywater]] and [[permaculture-food-forest-design-principles]] maintenance practices and ensures the canopy continues to serve its multiple functions of light management, [[cervantes-wind-protection-outdoor-cannabis]], [[mollison-designers-microclimate-creation-frost-protection]], and food production throughout the life of the food forest.
 
 Source: Gaia's Garden by Toby Hemenway
 
@@ -58,7 +58,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -100,4 +100,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

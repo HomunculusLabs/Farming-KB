@@ -17,20 +17,20 @@ Root crops and tubers form an essential staple food layer in permaculture system
 The most extensively documented root crops in this source are those adapted to wetland and aquatic environments, which are particularly valuable in permaculture for their dual role in food production and water system management.
 
 ### Taro (Colocasia esculenta)
-Possibly the earliest cultivated plant. Grown in paddy culture like rice or on dry land under irrigation. Both the main corm and smaller cormels are eaten. Leaves and petioles cooked like spinach (must be cooked). Requires 6-7 month frost-free period. Nutrition comparable to potato and sweet potato. Some cultivars highly salt tolerant. Propagated from small tubers and crown of main tuber.
+Possibly the earliest cultivated plant. Grown in paddy culture like rice or on dry land under irrigation. Both the main corm and smaller cormels are eaten. Leaves and petioles cooked like spinach (must be cooked). Requires 6-7 month frost-free period. Nutrition comparable to potato and sweet potato. Some cultivars highly [[halotolerant-halophilic-fungi-salt-tolerant-diversity]]. Propagated from small tubers and crown of main tuber.
 
 ### Chinese Water Chestnut (Eleocharis dulcis)
 Perennial rush-like plant native to N. Australia, Malaysia, SE Asia, Madagascar, Fiji, and New Caledonia. Grows in 50-200 mm of water, usually in flooded fields in rotation with rice. Rhizomes are as nutritious as potato (carbohydrate 30%, protein 1.5%). Yields can exceed 7 tons/ha. Grows as companion to taro, lotus, and water lilies. Can be grazed by stock.
 
 ### Cumbungi / Cattail (Typha spp)
-One of the most productive and multi-functional root crops. Tubers cooked like potatoes with nutty flavour. Roots high in starch, dried and ground into sweet flour comparable nutritionally to rice and corn flour. One hectare yields 7,000 kg. American Indians crush and boil roots for syrup. Root flour successfully fermented to ethyl alcohol. Pollen used as flour additive at up to 1:1 ratio.
+One of the most productive and multi-functional root crops. Tubers cooked like potatoes with nutty flavour. Roots high in starch, dried and ground into sweet flour comparable nutritionally to rice and corn flour. One hectare yields 7,000 kg. American Indians crush and boil roots for syrup. Root flour successfully fermented to [[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]]. Pollen used as flour additive at up to 1:1 ratio.
 
 ### Arrowhead (Sagittaria spp)
 Plants occurring at water's edge to 0.5 m depth:
 
 - **S. latifolia / S. fasciculata** -- Tubers called "wapatoo" by American Indians, said to be as good as potatoes. Good water fowl plant.
 - **S. sagittifolia** -- Native of Europe, to 1.5 m. Walnut-sized roots are edible, harvested in autumn.
-- **S. trifolia** -- Native to tropical and subtropical Asia, produces 8+ underground stems each with a corm, boiled like potatoes. High in protein (5-7%) for a root crop. Requires 6-7 month growing season.
+- **S. trifolia** -- Native to tropical and subtropical Asia, produces 8+ underground stems each with a corm, boiled like potatoes. High in protein (5-7%) for a root crop. Requires 6-7 month [[savory-growing-season-and-non-growing-season-management]].
 
 ### Cocoyams (Xanthosoma spp)
 About 40 species native to the Americas, approximately 6 important as food. Central tuberous root (corm) surrounded by smaller tubers (cormels) about potato size. Corms used for animal feed and replanting; cormels are valued human food, used like potatoes with comparable nutrition. Grow in soil too damp for conventional root crops. Tender leaves and shoots used as spinach-like vegetable. Some varieties yield cormels in as little as 3 months. In dry areas, grown under irrigation.
@@ -51,7 +51,7 @@ Perennial climbing legume producing edible tubers the size of hazelnuts with a f
 
 ### Yam Bean (Pachyrhizus spp)
 Leguminous vine producing large edible tubers (up to 2 kg). Several species cultivated:
-- **P. erosus (jicama)** -- Most widely grown; crisp, sweet tubers eaten raw or cooked. All parts except root contain toxic rotenone (used as insecticide). Native to Mexico/Central America.
+- **P. erosus (jicama)** -- Most widely grown; crisp, sweet tubers eaten raw or cooked. All parts except root contain toxic rotenone (used as insecticide). Native to Mexico/[[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]].
 - **P. tuberosus (Amazon yam bean)** -- Larger tubers; native to Amazon basin. Tubers to 1 m long.
 - **P. ahipa (Andean yam bean)** -- Adapted to highland tropical conditions; smaller tubers.
 
@@ -81,7 +81,7 @@ While not technically root crops, several nut-producing trees serve the same cal
 
 ## Design Considerations
 
-- Wetland root crops can be integrated into dam edges, [[graywater-systems]], and constructed wetlands
+- Wetland root crops can be integrated into dam edges, [[graywater-systems]], and [[comparison-constructed-wetlands-vs-bioswales]]
 - Multiple root crop species at different water depths maximise pond edge productivity
 - Rotation systems (e.g., water chestnut with rice) improve soil and yield diversity
 - Root crops grown in waterlogged areas expand productive land beyond what conventional crops can use
@@ -94,7 +94,7 @@ While not technically root crops, several nut-producing trees serve the same cal
 |---------|----------------------|----------------|---------------|
 | Cassava | 10-40 | 6-24 months | Highest caloric yield per unit area |
 | Cumbungi | ~7 | Perennial | Also provides fibre and syrup |
-| Water chestnut | 7+ | Perennial | Rotation with rice; companion planting |
+| Water chestnut | 7+ | Perennial | Rotation with rice; [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] |
 | Arrowhead (S. trifolia) | Moderate | 6-7 months | High protein (5-7%) for a root crop |
 | Taro | Moderate | 6-7 months | Salt-tolerant cultivars available |
 | Sweet potato | 5-15 | 3-5 months | Also provides leaf greens |

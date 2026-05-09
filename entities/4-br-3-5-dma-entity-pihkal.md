@@ -1,5 +1,5 @@
 ---
-title: "4-Br-3,5-DMA (4-Bromo-3,5-dimethoxy-A) -- PIHKAL Entry #18"
+title: "4-Br-3,5-DMA (4-Bromo-3,5-dimethoxy-A) -- 2c-b-pihkal-entry-20 #18"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 4-Br-3,5-DMA
 
-PIHKAL entry #18. 4-Bromo-3,5-dimethoxy-A.
+[[2c-b-pihkal-entry-20]] #18. 4-Bromo-3,5-dimethoxy-A.
 
 ## Dosage and Duration
 
@@ -78,11 +78,10 @@ of 221-222 deg C. Anal. (C11H17BrClNO2) C,H,N.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 
 - [[2-br-4-5-mda-entity-pihkal]]
 - [[2c-c-entity-pihkal]]
 - [[bom-entity-pihkal]] -- BOM (PIHKAL #17)
-- [[2-br-4-5-mda-entity-pihkal]] -- 2-Br-4,5-MDA (PIHKAL #19)

@@ -76,7 +76,7 @@ A phased startup plan synthesizing the wiki's homesteading knowledge into action
 - [ ] Set up duck pond/kiddie pool and automatic waterer
 - [ ] Order ducklings (Welsh Harlequin or Khaki Campbell for eggs)
 - [ ] Stock niacin supplement for ducklings
-- [ ] Plan rotational grazing paddocks with electro-net fencing
+- [ ] Plan [[comparison-rotational-grazing-vs-continuous-grazing]] paddocks with electro-net fencing
 
 **Then add goats** (month 2-3):
 - [ ] Build 3-sided shelter, minimum 15-20 sq ft per goat \u2014 see [[goat-keeping]]
@@ -95,7 +95,7 @@ A phased startup plan synthesizing the wiki's homesteading knowledge into action
 - [ ] Start seeds indoors under lights (Feb-Mar: onions, peppers, tomatoes)
 - [ ] Direct sow cool crops after last frost (peas, spinach, radishes, potatoes)
 - [ ] Plant [[cover-cropping-guide]] between rows and on fallow beds
-- [ ] Set up [[greenhouse-design]] or cold frame for season extension
+- [ ] Set up [[greenhouse-design]] or cold frame for [[cervantes-season-extension-cloches-row-covers]]
 - [ ] Begin weekly compost tea applications (see [[compost-tea-aact]])
 
 ## Phase 4: Perennials & Food Forest \u2014 Months 3-12
@@ -116,7 +116,7 @@ A phased startup plan synthesizing the wiki's homesteading knowledge into action
 **Budget**: $200-600
 
 - [ ] Set up root cellar or cool storage area (see [[food-preservation-canning]])
-- [ ] Acquire pressure canner, water bath canner, dehydrator
+- [ ] Acquire [[pf-tek-pressure-canner-sterilization]], water bath canner, dehydrator
 - [ ] Start fermentation station (sauerkraut, kimchi, kombucha)
 - [ ] Build or buy drying racks for herbs and fruits
 - [ ] Process first harvest: can tomatoes, freeze beans, dry herbs
@@ -125,43 +125,15 @@ A phased startup plan synthesizing the wiki's homesteading knowledge into action
 ## Phase 6: Advanced Systems (Year 2+)
 
 - [ ] Expand [[greenhouse-design]] to 20x48 ft for year-round production
-- [ ] Start dairy processing (chevre, yogurt, hard cheese) \u2014 see [[goat-keeping]]
+- [ ] Start [[faires-dairy-processing-cheese-and-butter]] (chevre, yogurt, hard cheese) \u2014 see [[goat-keeping]]
 - [ ] Add beehives for pollination and honey
 - [ ] Establish [[food-forest-design]] guilds with understory planting
-- [ ] Build integrated mushroom cultivation on logs and spent substrate
-- [ ] Set up greywater system from house to garden
-- [ ] Explore solar panels, rocket stove, or other energy systems
-
-## First Year Calendar
-
-| Month | Focus | Key Actions |
-|-------|-------|-------------|
-| Jan | Plan | Soil test, seed orders, zone mapping, fencing |
-| Feb | Seeds | Start onions/peppers indoors, prune fruit trees, order animals |
-| Mar | Soil | Direct sow cool crops, build beds, start compost, get ducklings |
-| Apr | Plant | Transplant tomatoes/peppers, set up duck housing, first pasture rotation |
-| May | Grow | Everything in ground, start goat pasture rotation, compost tea weekly |
-| Jun | Maintain | Succession planting, pest management, flip cannabis to flower |
-| Jul | Peak | Harvest daily, preserve, mulch heavily, monitor animals |
-| Aug | Preserve | Can/freeze/dry peak harvest, start fall crops, cover crop empty beds |
-| Sep | Harvest | Peak harvest, cure cannabis, winterize animal housing |
-| Oct | Winterize | Plant garlic/cover crops, root cellaring, clean grow space |
-| Nov | Rest | Mulch perennials, greenhouse winter growing, evaluate year |
-| Dec | Plan | Tool repair, seed orders, review and adjust systems |
-
-## Key Principles
-
-1. **Start small, observe, expand** \u2014 don't build everything at once
-2. **Close the loops** \u2014 animal manure \u2192 compost \u2192 garden \u2192 food \u2192 scraps \u2192 compost
-3. **Water first** \u2014 nothing works without reliable water infrastructure
-4. **Soil is everything** \u2014 invest in compost, biology, and no-till before buying inputs
-5. **Animals integrate systems** \u2014 ducks eat pests, goats clear brush, manure feeds soil
-
+- [ ] Build integrated [[accessible-mushroom-cultivation-for-disabilities]] on logs and spent substrate
 ## See Also
 
 - [[homesteading-infrastructure]] \u2014 core systems design and layout
 - [[seasonal-planning]] \u2014 full monthly task calendar for Zone 7-8
-- [[permaculture-design]] \u2014 zone and sector analysis methodology
+- [[permaculture-design]] \u2014 zone and [[mollison-designers-sector-analysis-wind-sun-fire]] methodology
 - [[duck-keeping]] \u2014 breed selection, housing, feed, predator protection
 - [[goat-keeping]] \u2014 breeds, fencing, pasture, health, dairy
 - [[food-forest-design]] \u2014 seven layers, guilds, planting order

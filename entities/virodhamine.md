@@ -42,7 +42,7 @@ agonist profile of other endocannabinoids.
   antagonist at CB1 receptors, depending on the experimental
   conditions and tissue context. This dual activity is unique among
   endocannabinoids and suggests a modulatory role in the
-  endocannabinoid system
+  [[cannabis-health-endo-cannabinoid-system]]
 - **CB2 receptor:** Acts as a full agonist at CB2 receptors, meaning
   it fully activates immune-system cannabinoid receptors
 - **TRPV1 receptor:** Virodhamine can also activate the transient
@@ -56,7 +56,7 @@ agonist profile of other endocannabinoids.
   an endogenous vasodilator, contributing to blood pressure
   regulation. It is produced by vascular endothelium and can reduce
   blood pressure when administered
-- **Immune modulation:** Through CB2 receptor activation, virodhamine
+- **[[cancer-immune-modulation-mechanisms]]:** Through CB2 receptor activation, virodhamine
   participates in immune system regulation and inflammatory
   responses
 - **Pain signaling:** Via both cannabinoid and TRPV1 receptors,
@@ -87,5 +87,5 @@ exogenous cannabinoids.
 
 ## See Also
 - [[two-ag]]
-- [[n-arachidonoyl-dopamine-nada]]
+- dopamine
 - [[e-beta-caryophyllene-bcp]]

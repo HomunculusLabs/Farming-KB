@@ -14,7 +14,7 @@ wavelength-specific photoreceptive systems capable of colour discrimination.
 
 Von Sachs's discovery preceded and informed the famous phototropism
 experiments conducted by Charles Darwin and his son Francis, published in
-their 1880 book *The Power of Movement in Plants*. The Darwins built upon
+their 1880 book *The [[darwin-power-of-movement-in-plants]] in Plants*. The Darwins built upon
 Sachs's finding that blue light drives phototropic bending by investigating
 which part of the plant perceives the light signal. Their experiments with
 [[lightproof-cap-experimental-design-phototropism]], the plant went effectively blind and could not bend toward
@@ -33,7 +33,7 @@ elongation on the shaded versus illuminated sides of the stem. Cells on the
 shaded side elongate more than those on the illuminated side, causing the
 plant to bend toward the light source. This asymmetric growth response is
 mediated by the plant hormone auxin, which redistributes to the shaded side
-of the stem and promotes cell elongation there.
+of the stem and promotes [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] there.
 
 ## Distinction from Other Photoreceptor Systems
 
@@ -88,14 +88,14 @@ systems that govern their spatial orientation toward light.
 ## Blue Light in Modern Horticulture
 
 Understanding von Sachs's discovery has practical applications in
-controlled-environment agriculture and indoor growing. Growers use blue
+controlled-environment agriculture and [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]]. Growers use blue
 light LEDs to control plant architecture, promote compact vegetative
 growth, and prevent excessive stem elongation (etiolation). Blue light
-supplementation is standard in cannabis cultivation, microgreen production,
+supplementation is standard in [[query-how-does-no-till-cannabis-cultivation-work]], microgreen production,
 and seedling nurseries. The ratio of blue to red light is a critical
 parameter in horticultural lighting design, directly tracing back to the
 fundamental insight that plants perceive and respond to specific wavelengths
-of light in distinct ways. Modern LED grow lights are engineered to deliver
+of light in distinct ways. Modern [[comparison-cmh-vs-led-grow-lights]] lights are engineered to deliver
 precise blue-to-red spectral ratios optimized for different growth stages
 and crop species, all grounded in the photobiological principles first
 described by von Sachs and later refined through phytochrome and phototropin

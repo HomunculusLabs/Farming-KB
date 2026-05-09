@@ -28,12 +28,12 @@ development. Key ecological factors include:
   propagule numbers decrease with increasing soil depth
 - **Organic matter distribution**: Fungi follow organic matter
   distribution across soil horizons
-- **Mycelial networks**: Present in each soil horizon, fluctuating with
+- **[[fungal-mycelial-networks-nutrient-translocation]]**: Present in each soil horizon, fluctuating with
   seasonal growth patterns, decomposition rates, and time
-- **Nutrient availability**: Carbon material quality, nitrogen quantity,
+- **[[ph-and-nutrient-availability-garden-soils]]**: Carbon material quality, nitrogen quantity,
   and specific stimulators affect community development
 
-Environmental factors influencing fungal community development include
+[[duggar-mushroom-environmental-factors-temperature-moisture-light]] influencing fungal community development include
 temperature, hydrogen ion concentration, aeration, water availability,
 water potential, and interspecific competition.
 
@@ -60,7 +60,7 @@ Aquatic fungi are distributed across Mastigomycetes, Zygomycetes,
 Ascomycetes, Deuteromycetes, yeasts, and some Basidiomycetes. Their
 roles in mycoremediation of contaminated surface waters, groundwaters,
 and wastewaters remain largely unexplored despite their presence in
-freshwater and marine environments. Species of aquatic Hyphomycetes are
+freshwater and marine environments. Species of [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]] are
 well represented on substrates in freshwater systems.
 
 ## Ecological Challenges
@@ -80,12 +80,12 @@ to mycoremediation:
 
 ## Fungal Ecosystem Services
 
-Fungi provide a variety of ecosystem processes and services relevant to
+Fungi provide a variety of [[fungal-ecosystem-processes-overview]] and services relevant to
 remediation. They are among the major decomposers of plant polymers
 including cellulose, hemicellulose, and lignin. Their mycelial networks
 may cover several hectares of forest floor, facilitating energy exchange
 between aboveground and belowground systems. Fungi modify soil
-permeability and ion exchange capacity, detoxify contaminated soil, and
+permeability and ion [[query-what-is-cation-exchange-capacity-and-why-does-it-matter]], detoxify contaminated soil, and
 accumulate toxic materials.
 
 ## Thermophilic and Extremophilic Contributions
@@ -118,4 +118,7 @@ Future progress in the ecology of mycoremediation requires:
 
 - [[singh-fungal-consortia-synergistic-biodegradation]]
 - [[dighton-fungal-ecosystem-services-framework]]
-- [[biodiversity-fungi-soil-ecosystems]]
+- biodiversity-fungi-soil-ecosystems
+- [[decomposition]]
+- [[fungal-ecosystem-services]]
+- [[mycelial-networks]]

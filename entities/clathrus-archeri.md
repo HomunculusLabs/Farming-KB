@@ -28,7 +28,7 @@ octopus stinkhorn, is a striking saprotrophic basidiomycete in the
 family Clathraceae, order Phallales.
 
 Native to Australasia and southern Africa, it has become widely
-naturalized across Europe and North America. The mature fruiting body
+naturalized across Europe and [[psilocybin-north-america-pacific-northwest]]. The mature [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]
 erupts from a gelatinous egg into 4–8 bright red arms coated in dark
 olive-green gleba, producing a strong carrion odor that attracts
 flies for [[spore-print]] not obtainable by conventional
@@ -36,7 +36,7 @@ methods due to the deliquescent gleba.
 
 **Odor:** Strong putrid carrion-like smell at maturity, similar to
 rotting meat. Attracts Diptera (Sarcophagidae, Muscidae,
-Calliphoridae) as primary spore dispersal vectors.
+Calliphoridae) as primary [[aquatic-fungi-spore-dispersal-ingold]] vectors.
 
 ## Distribution and Habitat
 
@@ -54,8 +54,8 @@ Fruiting occurs August–November (Northern Hemisphere) at 15–22°C.
 
 ## Ecology and Dispersal
 
-Obligate saprotroph decomposing woody organic matter, contributing
-to nutrient cycling in forest and garden ecosystems.
+Obligate saprotroph decomposing woody [[hamilton-composting-and-organic-matter-management]], contributing
+to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest and garden ecosystems.
 
 Spore dispersal is entomochorous — the foul-smelling gleba attracts
 carrion-feeding flies. Flies land on the gleba, spores adhere to
@@ -67,7 +67,7 @@ native saprotrophs is a theoretical concern.
 
 ## Bioactive Compounds
 
-Limited research on secondary metabolites. Not considered poisonous.
+Limited research on [[antifungal-secondary-metabolites-coprophilous-fungi]]. Not considered poisonous.
 Red coloration from carotenoid pigments rather than anthocyanins.
 
 Carrion odor volatiles include dimethyl disulfide, dimethyl
@@ -86,7 +86,7 @@ fungi poses a risk.
 
 | Species | Distinguishing Features |
 |---------|------------------------|
-| *[[permaculture]] Relevance
+| *permaculture Relevance
 
 Indicator species for active [[decomposition]] of woody organic matter.
 Confirms that woodchip mulch is being broken down by fungal activity.
@@ -101,6 +101,8 @@ forests and garden systems. Frequently appears in commercial mulch.
 - clathrus ruber
 
 ## See Also
+
+- [[clathrus-ruber]]
 
 - decomposition
 - permaculture

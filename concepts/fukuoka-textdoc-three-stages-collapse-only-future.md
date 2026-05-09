@@ -12,7 +12,7 @@ type: concept
 # Three Stages of Civilization Collapse and the Only Future for Man
 
 Fukuoka's most sweeping philosophical argument in *The Natural Way of Farming* is his
-prediction that human civilization, driven by ever-expanding scientific agriculture and
+prediction that human civilization, driven by ever-expanding [[fukuoka-critique-scientific-agriculture-civilization]] and
 industrial energy consumption, is moving inexorably toward collapse. He frames this not
 as pessimism but as a description of natural law, likening the pattern to the Wheel of
 Dharma or a cyclone, expanding outward until it ruptures and reverses.
@@ -33,7 +33,7 @@ and synthesis, but this cannot continue forever.
 ## The First Stage: Breakdown of Human Knowledge
 
 The first stage of collapse is the breakdown of human knowledge itself. Fukuoka argues
-that all human knowledge is merely discriminating knowledge, having no way of knowing
+that all human knowledge is merely [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]], having no way of knowing
 that this knowledge is really unknowable. Man founders ever deeper into confusion through
 the collection and advancement of unknowable and mistaken knowledge. Unable to extricate
 himself from schizophrenic development, he ultimately brings upon himself spiritual
@@ -50,7 +50,7 @@ see that the disease is a symptom of a disrupted ecosystem.
 The second stage is the destruction of life and matter. The earth, an organic synthesis
 of these two elements, is being broken down and divided up by man. This gradually
 deprives the natural world on the earth's surface of its equilibrium. Destruction of the
-natural order and the natural ecosystem will rob matter and life of their proper
+[[fukuoka-textdoc-natural-order-food-chain-unity]] and the [[fukuoka-natural-ecosystem-food-chain-interconnection]] will rob matter and life of their proper
 functions.
 
 Fukuoka warns that man will either lose his adaptability to the natural environment and
@@ -100,13 +100,13 @@ for sustaining life.
 ## Connection to Natural Farming Practice
 
 This philosophical framework is not abstract. It directly supports Fukuoka's five
-principles of natural farming: no tillage, no fertilizer, no pesticides, no weeding,
+[[four-principles-of-natural-farming]] farming: no tillage, no fertilizer, no pesticides, no weeding,
 and no pruning. Each of these practices represents a step away from the energy-wasting
 cycle of scientific agriculture and a return to the centripetal convergence of natural
 processes.
 
 The clover revolution in rice and barley cropping, the direct-seeding no-tillage
-method, and the natural orchard are all practical manifestations of the principle that
+method, and the [[fukuoka-natural-orchard-development]] are all practical manifestations of the principle that
 man should relinquish deeds and plans. They demonstrate that yields equal to or
 exceeding scientific agriculture are possible when nature, not human effort, is allowed
 to do the work.

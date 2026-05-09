@@ -3,7 +3,7 @@
 
 ## Overview
 
-A common concern about compost tea is whether it could introduce human pathogens (particularly E. coli and other coliform bacteria) onto edible crops. Elaine Ingham addresses this concern with a detailed analysis of the differences between plant surfaces and food processing environments, the biology of different coliform categories, and why aerobic compost tea is fundamentally different from contaminated food products.
+A common concern about compost tea is whether it could introduce human pathogens (particularly E. coli and other coliform bacteria) onto edible crops. Elaine Ingham addresses this concern with a detailed analysis of the differences between plant surfaces and food processing environments, the biology of different coliform categories, and why [[ingham-anaerobic-vs-aerobic-compost-tea]] tea is fundamentally different from contaminated food products.
 
 ## The Fundamental Distinction: Plant Surfaces vs. Sterile Foods
 
@@ -11,7 +11,7 @@ Ingham's central argument is that vegetables exist in a fundamentally different 
 
 - **Milk and meat are sterile** (or should be) when inside the animal. If contaminated, microbes grow rapidly because there are no competing organisms and the food is nutrient-rich
 - **Cooked foods** (macaroni, for example) should be sterile after cooking. Contamination after cooking can cause rapid pathogen growth
-- **Vegetables start life with all kinds of microbes** on their surfaces. [[gaias-garden-food-forest-vision-and-benefits]] from microbial exposure from fresh produce
+- **Vegetables start life with all kinds of microbes** on their surfaces. gaias-garden-food-forest-vision-and-benefits from microbial exposure from fresh produce
 
 This distinction matters because the regulatory framework for food safety was developed for processed foods, not for raw vegetables growing in garden soil. Applying the same zero-tolerance standards for microbial presence on raw vegetables that are appropriate for pasteurized milk creates unnecessary alarm about compost tea.
 
@@ -43,15 +43,15 @@ The primary safety mechanism in properly made AACT is the aerobic environment it
 
 - Human pathogens are generally facultative or obligate anaerobes — they prefer or require low-oxygen conditions
 - The beneficial aerobic bacteria and fungi in compost tea outcompete any potential pathogens for food resources
-- Aerobic conditions produce oxidative environments (through hydrogen peroxide and other reactive oxygen species produced by aerobic organisms) that inhibit pathogen survival
-- Properly aerated compost tea has dissolved oxygen levels above 6 mg/L, which is hostile to anaerobic pathogens
+- Aerobic conditions produce oxidative environments (through [[cervantes-hydrogen-peroxide-sterilization]] and other reactive oxygen species produced by aerobic organisms) that inhibit pathogen survival
+- Properly [[actively-aerated-compost-tea-aact-brewing]] tea has dissolved oxygen levels above 6 mg/L, which is hostile to anaerobic pathogens
 
 ### Compost Source Quality Matters
 
 The compost used to brew tea must be properly made:
 
-- Thermophilic composting (tematures reaching 131-170°F / 55-77°C for 3+ days) kills human pathogens
-- Properly cured compost (4-6 weeks after the thermophilic phase) develops a mature aerobic microbial community that suppresses pathogen regrowth
+- Thermophilic [[composting]] (tematures reaching 131-170°F / 55-77°C for 3+ days) kills human pathogens
+- Properly cured compost (4-6 weeks after the thermophilic phase) develops a mature aerobic [[edaphic-factors-microbial-community-structure]] that suppresses pathogen regrowth
 - Compost made from manure should reach thermophilic temperatures throughout the pile to ensure pathogen kill
 - Vermicompost is generally safe because earthworm gut passage kills pathogens, but the feedstock should not include fresh manure from unknown sources
 
@@ -86,7 +86,7 @@ Food safety concerns should focus on preventing INTERNAL contamination of produc
 
 ## The Anaerobic Tea Warning
 
-Ingham draws a clear distinction between aerobic compost tea and anaerobic preparations:
+Ingham draws a clear distinction between aerobic [[teaming-with-microbes-compost-tea-and-inoculation]] anaerobic preparations:
 
 - Anaerobic tea (fermented without aeration) CAN contain human pathogens and should not be applied to edible crops
 - Anaerobic tea often smells foul (putrid, sour, sewer-like) — this is an indicator that it should not be used on food crops
@@ -114,7 +114,7 @@ For home gardeners using compost tea on edible crops, Ingham's guidance simplifi
 6. Wash vegetables before eating, as you would with any garden produce
 7. These simple precautions are sufficient for home-scale food safety
 
-The organisms in aerobic compost tea are the same beneficial bacteria and fungi that healthy plants naturally host. Properly made compost tea does not introduce novel risks beyond those inherent in growing vegetables in soil.
+The organisms in aerobic compost tea are the same beneficial bacteria and fungi that healthy plants naturally host. Properly made compost tea does not introduce novel risks beyond those inherent in [[container-growing-vegetables-herbs]] in soil.
 
 ## Related Topics
 

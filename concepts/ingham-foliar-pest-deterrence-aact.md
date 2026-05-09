@@ -9,7 +9,7 @@ sources:
 ---
 # Ingham — Foliar Pest Deterrence Through AACT
 
-Elaine Ingham identifies multiple mechanisms by which Actively Aerated Compost Tea (AACT) applied to leaf surfaces reduces insect pest pressure. These mechanisms operate through plant health and ecological interactions rather than toxic chemical effects.
+Elaine Ingham identifies multiple mechanisms by which Actively [[actively-aerated-compost-tea-aact-brewing]] Tea (AACT) applied to leaf surfaces reduces insect pest pressure. These mechanisms operate through plant health and [[king-stropharia-ecological-interactions-permaculture]] rather than toxic chemical effects.
 
 ## Four Mechanisms of Foliar Pest Deterrence
 
@@ -17,10 +17,10 @@ Elaine Ingham identifies multiple mechanisms by which Actively Aerated Compost T
 The biology applied to leaf surfaces may be directly repugnant to insect pests, causing them to avoid landing on treated leaves. The diverse community of bacteria, fungi, and their metabolites creates a surface environment that insects recognize as unfavorable.
 
 ### 2. Elevated CO2 Signal
-The applied microorganisms elevate CO2 levels in the leaf microenvironment. Many insect pests are attracted to plants under stress by detecting specific chemical signals (including CO2 ratios). When CO2 is elevated by microbial respiration, the signal changes to one that does not attract pests.
+The applied microorganisms elevate CO2 levels in the leaf microenvironment. Many insect pests are attracted to plants under stress by detecting specific [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] (including CO2 ratios). When CO2 is elevated by microbial respiration, the signal changes to one that does not attract pests.
 
 ### 3. Removal of Stress Signals
-Stressed plants emit alcohols and other volatile compounds that serve as attractants for insect pests. Tea organisms consume these alcohols, removing the chemical signal that attracts insects to stressed plants. The attractant is no longer present, so insects do not target the plant.
+Stressed plants emit alcohols and other [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] that serve as attractants for insect pests. Tea organisms consume these alcohols, removing the chemical signal that attracts insects to stressed plants. The attractant is no longer present, so insects do not target the plant.
 
 ### 4. Restored Plant Health
 Perhaps most importantly, tea organisms cause the plant to become less stressed and return to health. Healthy plants are inherently less susceptible to insect attack because:
@@ -65,7 +65,7 @@ These crops benefit most from bacterial-dominated teas applied at 7-14 day inter
 Woody perennials benefit from fungal-dominated teas that provide longer-lasting colonization of bark, buds, and leaf surfaces. Fungal hyphae can persist on woody surfaces for weeks, providing sustained competitive exclusion of pathogens. Apple scab, powdery mildew, and brown rot have all been reduced through regular applications of fungal-dominated AACT to fruit trees. Applications should target the canopy during bud break and continue through the growing season, with particular attention to periods of rapid new growth.
 
 ### Tomatoes and Solanaceous Crops
-Tomatoes are susceptible to both foliar diseases (early blight, late blight, septoria leaf spot) and insect pests (aphids, whiteflies, tomato hornworm). AACT applications combining both bacterial and fungal components — achieved by blending bacterial-dominant and fungal-dominant teas or by using a balanced compost source — provide broad-spectrum protection. Application should begin at transplanting and continue weekly through the growing season, with increased frequency during humid conditions that favor disease development.
+Tomatoes are susceptible to both foliar diseases (early blight, late blight, septoria leaf spot) and insect pests (aphids, whiteflies, tomato hornworm). AACT applications combining both [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] components — achieved by blending bacterial-dominant and fungal-dominant teas or by using a [[query-how-to-make-a-balanced-compost-recipe]] source — provide broad-spectrum protection. Application should begin at transplanting and continue weekly through the growing season, with increased frequency during humid conditions that favor disease development.
 
 ## Application Timing
 
@@ -93,9 +93,12 @@ AACT foliar applications are most effective when integrated into a broader pest 
 
 ## See Also
 
+- [[ingham-foliar-insect-pest-deterrence-mechanisms]]
+- [[foliar-pest-deterrence-aact-mechanisms]]
+
 - [[ingham-aact-disease-suppression]]
 - [[compost-tea-application-rates]]
 - [[ingham-nutrient-cycling-soil-food-web]]
-- [[mushroom-cultivation-pests-and-contamination]]
+- mushroom-cultivation-pests-and-contamination
 
 - [[foliar-feeding]]

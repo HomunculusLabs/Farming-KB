@@ -1,5 +1,5 @@
 ---
-title: JADAM Potassium Liquid Fertilizer
+title: JADAM Potassium jadam-liquid-fertilizer-nutritional-perspective
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -33,7 +33,7 @@ and sulfur simultaneously. It does not dissolve easily in water.
 
 ### Method
 1. Add potassium sulfate to water at 1:10 ratio
-2. Add leaf mold, close lid
+2. Add [[comparison-leaf-mold-composting-vs-hot-composting-method]], close lid
 3. Stir occasionally (dissolves more easily than Sul-Po-Mag)
 4. Time: **3+ months**
 
@@ -52,7 +52,7 @@ The simplest and most accessible potassium source.
 3. Soak for **15 days**
 4. Potassium and other minerals leach from ash into water
 5. Remove sack, use the liquid
-6. This is the traditional Korean farming method for potassium
+6. This is the traditional Korean [[what-natural-farming-method-should-i-use]] for potassium
 
 ## Application
 

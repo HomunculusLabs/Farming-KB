@@ -12,7 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-Motion sickness affects approximately 30% of the population under moderate motion conditions and up to 90% under extreme conditions. Research from The Cannabis Health Index documents the endocannabinoid system's role in the vestibular (balance) system and nausea pathways.
+Motion sickness affects approximately 30% of the population under moderate motion conditions and up to 90% under extreme conditions. Research from The [[blesching-cannabis-health-index-autoimmune-conditions]] documents the endocannabinoid system's role in the vestibular (balance) system and nausea pathways.
 
 ## Key Clinical Studies
 
@@ -22,7 +22,7 @@ Motion sickness affects approximately 30% of the population under moderate motio
 **Chouker et al. (2010)**: "Motion sickness, stress and the endocannabinoid system." PLoS ONE 5(5).
 
 This study directly linked motion sickness to the endocannabinoid system, finding that:
-- Motion sickness activates the stress response (HPA axis)
+- Motion sickness activates the [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] (HPA axis)
 - Endocannabinoid levels change during motion sickness
 - The endocannabinoid system modulates the vestibular system's response to conflicting motion signals
 - Stress and motion sickness share overlapping neurobiological pathways

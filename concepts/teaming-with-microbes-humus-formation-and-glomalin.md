@@ -1,5 +1,5 @@
 ---
-title: Humus Formation and Glomalin in Soil
+title: lowenfels-humus-formation-benefits and Glomalin in Soil
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -18,7 +18,7 @@ endpoint of the decomposition process described in
 Humus is not a single chemical compound but rather a complex mixture of
 partially decomposed organic materials and microbial synthesis products.
 It forms gradually as the most resistant plant compounds --
-[[fungal-cellulose-decomposition-fungal-enzymes]],
+fungal-cellulose-decomposition-fungal-enzymes,
 [[teaming-with-microbes-earthworm-ecology-and-vermicomposting]] and other
    organisms, increasing surface area
 2. Enzymatic breakdown by [[teaming-with-microbes-fungi]]
@@ -32,7 +32,7 @@ to centuries, providing a long-term reservoir of carbon and nutrients.
 
 ## Glomalin: The Fungal Super-Glue
 
-Glomalin is a sticky glycoprotein produced by arbuscular mycorrhizal
+Glomalin is a sticky glycoprotein produced by [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]]
 fungi in the order Glomales. Discovered relatively recently (1996),
 glomalin has revolutionized understanding of how
 [[teaming-with-microbes-earthworm-ecology-and-vermicomposting]]
@@ -40,7 +40,7 @@ glomalin has revolutionized understanding of how
 - The result is a hierarchical structure: particles within
   microaggregates within macroaggregates
 
-When chemical fertilizers or pesticides kill soil organisms, this
+When [[cervantes-chemical-fertilizers-guide]] or pesticides kill soil organisms, this
 entire aggregation system collapses. Fungi that bind soil aggregates
 die, bacteria that produce binding slime disappear, and soil loses
 its structure, its ability to hold air, and its capacity to retain
@@ -48,7 +48,7 @@ water.
 
 ## Humic and Fulvic Acids
 
-Humus contains two major classes of organic acids that play important
+Humus contains two [[ascomycota-phylogeny-major-classes-lineages]] of organic acids that play important
 roles in soil chemistry and plant nutrition:
 
 ### Humic Acids
@@ -56,7 +56,7 @@ roles in soil chemistry and plant nutrition:
 Humic acids are larger molecular weight compounds extracted from humus
 by alkaline solutions. They:
 - Improve soil structure by binding mineral particles
-- Increase cation exchange capacity (CEC)
+- Increase [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity (CEC)
 - Chelate micronutrients, keeping them available to plants
 - Stimulate root growth and seed germination
 - Serve as a fungal food source in compost tea and soil amendments
@@ -69,7 +69,7 @@ remain in solution at all pH levels. They:
 - Enhance nutrient uptake and transport within plants
 - Chelate both macro- and micronutrients
 - Improve microbial activity in soil
-- Are used as foliar sprays and soil drenches in organic gardening
+- Are used as foliar sprays and soil drenches in [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 
 ### Practical Use
 

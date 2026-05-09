@@ -65,7 +65,7 @@ The species is generally considered edible but is not widely collected for food 
 
 *Clavulina rugosa* has a broad distribution across the temperate Northern Hemisphere.
 
-It is commonly found in Europe, North America, and parts of Asia.
+It is commonly found in Europe, [[psilocybin-north-america-pacific-northwest]], and parts of Asia.
 
 The species fruits from mid-summer through autumn, typically July to October in temperate regions.
 
@@ -77,7 +77,7 @@ It grows on soil and in leaf litter, never directly on wood.
 
 The fungus is ectomycorrhizal and forms symbiotic associations with tree roots.
 
-It is most frequently encountered in older forests with established mycorrhizal networks.
+It is most frequently encountered in older forests with established [[dighton-mycorrhizal-networks-carbon-transfer]].
 
 It can also appear in grassy clearings and forest edges, particularly where tree roots extend into open areas.
 
@@ -99,19 +99,19 @@ Older specimens become excessively tough and are generally avoided.
 
 There are no reports of toxicity, but as with all wild mushrooms, positive identification is essential before consumption.
 
-The species is occasionally collected by foragers in Europe but is largely ignored in North American foraging traditions.
+The species is occasionally collected by foragers in Europe but is largely ignored in [[growing-gourmet-north-american-reishi-species]] foraging traditions.
 
 ## Ecological Role and Bioactive Compounds
 
 As an ectomycorrhizal fungus, *C. rugosa* forms mutualistic symbiotic relationships with the roots of forest trees.
 
-The fungal mycelium extends the effective root surface area of host trees, improving nutrient uptake, particularly phosphorus.
+The fungal mycelium extends the effective root surface area of host trees, improving [[plant-nutrient-uptake-mechanisms]], particularly phosphorus.
 
 In return, the host tree provides the fungus with carbohydrates derived from photosynthesis.
 
-This mycorrhizal relationship contributes to overall forest health, nutrient cycling, and tree resilience to environmental stress.
+This mycorrhizal relationship contributes to overall forest health, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and tree resilience to environmental stress.
 
-*Clavulina rugosa* is a member of the Cantharellales, an order that includes many ecologically important mycorrhizal fungi.
+*Clavulina rugosa* is a member of the Cantharellales, an order that includes many ecologically important [[arbuscular-mycorrhizal-fungi-biology-symbiosis]].
 
 The genus *Clavulina* is noted for producing clavaric acid derivatives, which have been investigated for potential anti-inflammatory and cytotoxic properties.
 

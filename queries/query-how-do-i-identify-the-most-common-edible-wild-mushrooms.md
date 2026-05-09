@@ -1,5 +1,5 @@
 ---
-title: "How Do I Identify the Most Common Edible Wild Mushrooms?"
+title: "How Do I Identify the Most Common Edible edible-wild-mushrooms-by-region?"
 created: 2026-04-28
 tags: [query, foraging, mushroom-identification, mycology]
 date: 2026-04-25
@@ -13,7 +13,7 @@ type: query
 ## Short Answer
 The most common edible wild mushrooms include chanterelles, morels, porcini,
 and chicken of the woods. Accurate identification requires careful attention to
-cap shape, gill structure, spore print color, habitat, and season. Always
+cap shape, gill structure, [[comparison-spore-print-collection-vs-spore-syringe-production]] color, habitat, and season. Always
 consult the [[mushroom-toxicity-identification-warnings]] before
 consuming any wild-harvested mushroom species.
 
@@ -29,10 +29,10 @@ stem at its base rather than hanging freely.
 Morels fruit almost exclusively in spring (March through May, depending on
 region) and are often found in areas disturbed by fire, near dead or dying
 elm trees, ash, tulip poplar, and old apple orchards. The most dangerous
-look-alike is the false morel (Gyromitra esculenta), which has a brain-like,
+look-alike is the [[bloomfield-false-morel-gyromitrin-volatile-toxin-cooking-risk]] (Gyromitra esculenta), which has a brain-like,
 wrinkled cap that is more irregular and less pitted than a true morel. Most
 critically, false morels are solid or chambered inside rather than hollow.
-The [[porcini-boletus-guide]] covers boletes, which are identified by their
+The  covers boletes, which are identified by their
 distinctive pored underside rather than gills. Instead of blade-like gills,
 boletes have a spongy surface of tiny tubes (pores) on the underside of the
 cap. Porcini (Boletus edulis) are the most prized members of this group,
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

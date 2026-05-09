@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Fungi cause more plant diseases than all other enemies combined — bacteria, viruses, nematodes, and insects. Since the beginning of agriculture, billions of livelihoods and lives have been lost to rusts, smuts, bunts, mildews, potato blight, and rice blast. Annual losses to agriculture are incalculably high, and chemical fungicides represent a tremendous investment by farmers and consumers. Chapter 9 of "Mr. Bloomfield's Orchard" explores the most devastating fungal pathogens of crops and trees. For the beneficial side of singh gadd [[fungal-plant-defense]] growth promoting mechanisms regulators regulators production production relationships, see bloomfield mycorrhizal [[fungal-ecology]].
+Fungi cause more plant diseases than all other enemies combined — bacteria, viruses, nematodes, and insects. Since the beginning of agriculture, billions of livelihoods and lives have been lost to rusts, smuts, bunts, mildews, potato blight, and rice blast. Annual losses to agriculture are incalculably high, and chemical fungicides represent a tremendous investment by farmers and consumers. Chapter 9 of "Mr. Bloomfield's Orchard" explores the most devastating fungal pathogens of crops and trees. For the beneficial side of singh gadd [[fungal-plant-defense]] [[singh-fungal-plant-growth-promoting-mechanisms]] regulators regulators production production relationships, see bloomfield mycorrhizal [[fungal-ecology]].
 
 ## Rust Fungi
 
@@ -50,7 +50,7 @@ One of the most complex life cycles in biology, involving two hosts and four spo
 - Exude sugary nectar and spermatia (function as sperm cells, cannot germinate)
 - Flies and insects transfer spermatia between spermagonia while feeding on nectar
 - Spermatial nucleus migrates down the receptive hair, creating a dikaryotic mycelium
-- Some rusts (Puccinia monoica) manipulate host plants to produce yellow spermagonia that mimic real flowers — deceiving insects and outcompeting actual flowers for pollinator attention
+- Some rusts ([[bloomfield-puccinia-monoica-pseudoflowers-rust-mimicry]]) manipulate host plants to produce yellow spermagonia that mimic real flowers — deceiving insects and outcompeting actual flowers for pollinator attention
 
 **Aeciospore production and return to wheat**:
 - Cup-shaped aecia on barberry leaf undersides produce aeciospores
@@ -66,16 +66,16 @@ One of the most complex life cycles in biology, involving two hosts and four spo
 - Chemical: sulfur mixtures to synthetic fungicides (e.g., triadimefon disrupts ergosterol biosynthesis)
 - Cultural: eradicating barberry from wheat regions removes the sexual reproduction site, retarding evolution of new rust races
 - Genetic: resistant wheat cultivars
-- Future: genetically engineered crops with built-in antifungal defenses
+- Future: [[singh-genetically-engineered-fungi-bioremediation]] crops with built-in antifungal defenses
 
 ### Coffee Rust (Hemileia vastatrix)
-- Causes devastating losses to coffee crops in South and Central America, Africa, and Asia
+- Causes devastating losses to coffee crops in South and [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], Africa, and Asia
 - Has an "edited" life cycle: produces uredospores, teliospores, and basidiospores, but lacks spermatium and aeciospore stages
 - No alternate host — thrives on coffee alone
 - Control limited to fungicide spraying and resistant varieties (no barberry-equivalent to eradicate)
 
 ### Hawthorn/Cedar Rust (Gymnosporangium globosum)
-- I[[magnaporthe-grisea]]fruit trees, and evergreens (cedars, junipers)
+- Ifruit trees, and evergreens (cedars, junipers)
 - Produces entirely different spore types on different hosts
 - Berries transformed into pale galls covered with spore-filled horns
 - Elongating towers of infectious cells continuously replace uppermost escaping spores
@@ -104,7 +104,7 @@ One of the most complex life cycles in biology, involving two hosts and four spo
 **Disease impact**:
 - Leaves look as if struck by a bomb
 - "Neck blast" attacks the panicle, bleaching and withering it — grain cannot ripen, severe crop loss
-- Most prevalent in intensive agriculture with nitrogen fertilizers; subsistence farmers relying on natural soil fertility are less affected
+- Most prevalent in intensive agriculture with nitrogen fertilizers; subsistence farmers relying on [[fukuoka-natural-soil-fertility]] are less affected
 - Genome: 7 chromosomes, 3x more DNA than yeast, 80x less than humans
 
 **Genomic research**: Sequencing targets distinctive Magnaporthe genes for host interaction — controlling conidium germination timing, melanin synthesis, epidermis penetration triggers, cytoplasmic feeding activation.
@@ -133,7 +133,7 @@ One of the most complex life cycles in biology, involving two hosts and four spo
 **Historical control**: A Belgian scientist discovered in 1845 that removing infected leaves/stems when blotches appear can save tubers (fungus doesn't usually spread directly from leaves to tubers). Nobody in Ireland knew this.
 
 **Origin and evolution**:
-- Current widespread strain is NOT the same one that caused the 1840s famine (determined by DNA extraction from herbarium specimens)
+- Current widespread strain is NOT the same one that caused the 1840s famine (determined by DNA extraction from [[herbarium-specimens-fungal-collections]])
 - Wild potatoes that co-evolved with Phytophthora likely have strong defenses
 - Greatest strain diversity found in Mexico's Toluca Valley — probable origin
 - Over 50 Phytophthora species recognized, infecting almost every broad-leaved plant
@@ -144,5 +144,6 @@ One of the most complex life cycles in biology, involving two hosts and four spo
 Fungi attack other fungi just as readily as they attack plants and animals:
 
 - **Asterophora**: Mycelium probes blackening tissues of old milk caps and russulas, budding powdery mushrooms at the surface
-- **Cordyceps species**: Some infect underground truffle fruiting bodies (most are insect pathogens)
 ## See Also
+
+- [[bloomfield-fungal-life-cycle-spiral-versus-circle]]

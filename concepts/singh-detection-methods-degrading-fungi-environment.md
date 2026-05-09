@@ -1,5 +1,5 @@
 ---
-title: Detection Methods for Degrading Fungi in the Environment
+title: singh detection methods degrading fungi environment for Degrading Fungi in the Environment
 created: 2026-04-26
 tags:
   - fungal-detection
@@ -31,13 +31,13 @@ bioremediation.
 Immunological assays have been used for the detection of fungi in culture
 and the detection of decay fungi in wood since the mid-1980s. These
 methods rely on the specificity of antigen-antibody interactions for
-fungal identification and quantification.
+[[pcr-methods-fungal-identification-monitoring]] and quantification.
 
 ### Monoclonal and Polyclonal Antibodies
 
 Monoclonal antibodies to Postia placenta using extracellular culture
 filtrates were first produced in 1986. Monoclonal antibodies have since
-been developed to detect fungal metabolites such as manganese peroxidase
+been developed to detect fungal metabolites such as [[fungal-manganese-peroxidase-remediation]]
 (MnP) in wood by [[serpula-lacrymans]] have been produced for brown-rot detection.
 
 ### Assay Techniques
@@ -54,7 +54,7 @@ decay and degradative fungi detection:
   polyclonal antibodies to the brown-rot fungus Lentinus lepideus.
   This assay serves as a preliminary test for detecting brown-rot decay.
 
-- **Western blot**: Used to differentiate isolates of Serpula lacrymans
+- **Western blot**: Used to differentiate isolates of [[fungal-serpula-lacrymans-dry-rot-buildings]]
   from other wood decay basidiomycete fungi.
 
 - **Agglutination assay**: Considered the most rapid immunodiagnostic
@@ -86,7 +86,7 @@ PCR is used to amplify rDNA sequences to determine total fungal diversity
 and taxonomy using universal primers. Specific primers can be designed to
 amplify and analyze fungal DNA from environmental samples. Fungal-
 specific primer pairs EF4f/EF3r and EF4f/Fung5r can amplify a wide range
-of fungi from the major taxonomic groups.
+of fungi from the major [[coprophilous-fungi-taxonomic-groups-distribution]].
 
 ### Community Analysis Methods
 
@@ -100,7 +100,7 @@ and quantification of fungal DNA from soil substrates.
 ### Species-Specific Detection
 
 New specific primers have been developed for amplifying rDNA from all
-major classes of fungi in soil. Detection and quantification of fungal
+[[ascomycota-phylogeny-major-classes-lineages]] of fungi in soil. Detection and quantification of fungal
 DNA involve specific primers targeting fragments from the SSU rRNA gene
 region of [[fusarium-solani]] translation
 elongation factor 1 alpha gene. Primers AR1 and AR2 are used to amplify
@@ -121,4 +121,4 @@ Restriction fragment length polymorphism (RFLP) analysis of PCR-amplified
 rDNA has been used to characterize tropical wood-decaying fungi and to
 distinguish isolates of [[harbhajan-singh]]
 
-- [[biodiversity-fungi-molecular-methods]]
+- biodiversity-fungi-molecular-methods

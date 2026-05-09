@@ -28,11 +28,11 @@ tags:
 
 ## Overview
 
-The microbial kill curve for microwave exposure describes the quantitative relationship between delivered microwave energy (measured in watt-hours) and the corresponding reduction in viable microbial populations on surfaces. This dose-response model, established in NASA MSC-22484, provides a framework for predicting sterilization efficacy based on controllable exposure parameters — duration and power density — enabling rational protocol design for spacecraft and critical-environment decontamination.
+The microbial kill curve for microwave exposure describes the quantitative relationship between delivered microwave energy (measured in watt-hours) and the corresponding reduction in viable microbial populations on surfaces. This dose-response model, established in NASA MSC-22484, provides a framework for predicting sterilization efficacy based on controllable exposure parameters — duration and power density — enabling rational [[macrofungal-sampling-protocol-design-plot-selection]] for spacecraft and critical-environment decontamination.
 
 ## Fundamental Principle: Energy as the Dose Metric
 
-Unlike conventional thermal sterilization where temperature and time are the independent variables, microwave sterilization quantifies dose as **watt-hours (W-hr)** — the product of exposure rate (W/cm²) and exposure duration. This energy-based metric accounts for the fact that identical total energies delivered at different rates may produce different biological outcomes due to thermal dissipation kinetics, making exposure rate an important independent parameter alongside total dose.
+Unlike conventional thermal sterilization where temperature and time are the independent variabl [[nasa-microwave-sterilization-challenge-organisms-kill-kinetics]] tion quantifies dose as **watt-hours (W-hr)** — the product of exposure rate (W/cm²) and exposure duration. This energy-based metric accounts for the fact that identical total energies delivered at different rates may produce different biological outcomes due to thermal dissipation kinetics, making exposure rate an important independent parameter alongside total dose.
 
 ## Experimental System (NASA MSC-22484)
 
@@ -45,11 +45,11 @@ The foundational study employed the following conditions to construct the microw
 | Initial surface population | ~2 × 10⁵ CFU (mixed population) |
 | Total exposure for complete kill | 13.1 W-hr |
 
-The challenge organisms represented a strategically chosen spectrum of resistance:
+The [[mixed-microbial-challenge-organisms-surface-sterilization-testing]] represented a strategically chosen spectrum of resistance:
 
 - ***Bacillus pumilus*** — bacterial spore former, highly resistant
 - ***Escherichia coli*** — Gram-negative vegetative cell, moderately resistant
-- ***Pseudomonas cepacia*** — Gram-negative vegetative cell, used in mixed population
+-pseudomonas onas cepacia*** — Gram-negative vegetative cell, used in mixed population
 
 This mixed-population approach captures the reality of environmental contamination, where protocols must account for the most resistant organism present.
 
@@ -65,7 +65,7 @@ The curve can be divided into three recognizable phases:
 
 ## Microwave D-Value
 
-The **D-value** (decimal reduction value), borrowed from thermal sterilization science, is adapted for microwave exposure as the energy dose (in W-hr) required to achieve a one-logarithm (90%) reduction in the microbial population under defined conditions. For microwave sterilization, the D-value is explicitly a function of:
+The **D-value** (decimal reduction value), borrowed from thermal [[pf-tek-steam-sterilization-science-and-heat-management]], is adapted for microwave exposure as the energy dose (in W-hr) required to achieve a one-logarithm (90%) reduction in the microbial population under defined conditions. For microwave sterilization, the D-value is explicitly a function of:
 
 - **Exposure rate** (W/cm²) — higher rates may reduce the D-value by minimizing thermal dissipation
 - **Frequency** (2.45 GHz in this system)
@@ -122,7 +122,7 @@ Protocol design must therefore specify both the total energy budget (W-hr) and t
 
 ## Practical Implications for Protocol Design
 
-The dose-response model established in MSC-22484 supports the following protocol design principles:
+The dose-response model established in MSC-22484 supports the following protocol [[holmgren-permaculture-twelve-design-principles-framework]]:
 
 1. **Dose validation**: Any microwave sterilization protocol must be validated against the most resistant organism expected on the surface — typically bacterial spores — not merely the average population.
 2. **Moisture control**: Protocols should either standardize surface moisture or explicitly account for its variation when setting exposure parameters.
@@ -133,13 +133,10 @@ The dose-response model established in MSC-22484 supports the following protocol
 ## Limitations and Considerations
 
 - The MSC-22484 data is specific to 2.45 GHz and 3.6 W/cm²; extrapolation to other frequencies or rates requires additional validation
-- Surface geometry, presence of shadows or occluded areas, and material thickness all affect dose uniformity
-- The interaction between thermal and non-thermal microwave effects on microbial cells remains an area of active research
-- Mixed-population curves represent worst-case composite behavior; monoculture dose-response may differ
 ## See Also
 
 - Thermal D-value and Z-value in sterilization science
-- UV-C dose-response for surface decontamination
+- UV-C dose-response for [[pseudomonas-cepacia-microwave-surface-decontamination-kinetics]]
 - *Bacillus* spore resistance mechanisms
 - Dielectric heating in biological systems
 

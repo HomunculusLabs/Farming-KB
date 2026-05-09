@@ -1,5 +1,5 @@
 ---
-title: Contour Farming and Strip Cropping on Slopes
+title: natural farming guide contour farming strip cropping and Strip Cropping on Slopes
 created: 2026-04-28
 tags:
   - erosion-control
@@ -21,7 +21,7 @@ type: concept
 Contour farming is a foundational practice in sustainable agriculture
 that involves orienting all planting, roads, structures, and earthworks
 along the natural contours of the land rather than in straight lines. The
-*Natural Farming and Sustainable Living Guide* emphasises that following
+*[[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]] Guide* emphasises that following
 contours is essential for water management, erosion prevention, and
 maximising the productive potential of sloped terrain.
 
@@ -45,11 +45,11 @@ principles.
 
 Houses in a community should be placed in the shelter of warmer sides of
 hills and follow the contour of the land. This positioning provides
-natural insulation, wind protection, and drainage.
+natural insulation, [[cervantes-wind-protection-outdoor-cannabis]], and drainage.
 
 ## Windbreaks and Shelterbelts on Contour
 
-Tree windbreaks and forests for animal forage should cover 20-30% of the
+Tree windbreaks and forests for [[permaculture-designers-manual-animal-forage-systems]] should cover 20-30% of the
 land and will increase production by providing shelter and microclimates
 for plants and animals. These should be planted to fit the contours of the
 land and allowed to mature enough that animals will not damage them, a
@@ -58,6 +58,7 @@ the grass is harvested for hay or whatever [[contour-swale-irrigation-design]]
 - [[cover-crops-green-manures]]
 - [[ozier-pdc-hydro-cycle-and-watershed-management]]
 - [[natural-farming-guide-sheet-mulching-no-dig-garden-preparation]]
+
 ## Practical Considerations
 
 Successful implementation of Contour Farming and Strip Cropping on Slopes requires attention to
@@ -76,4 +77,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

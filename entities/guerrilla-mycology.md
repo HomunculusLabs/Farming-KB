@@ -30,7 +30,7 @@ The term is closely associated with the **Radical Mycology** movement, founded b
 
 Fungi occupy a unique position in ecosystem function. As primary decomposers, mycorrhizal partners, and soil architects, they mediate nutrient cycling, build soil structure, and facilitate plant community dynamics. Guerrilla mycology leverages these inherent capacities:
 
-- **Wood decomposition:** White-rot fungi (*Pleurotus*, *Trametes*, *Ganoderma*) secrete ligninolytic enzymes (laccase, manganese peroxidase, lignin peroxidase) that break down lignin and cellulose in dead wood
+- **Wood decomposition:** White-rot fungi (*Pleurotus*, *Trametes*, *Ganoderma*) secrete [[singh-ligninolytic-enzymes-fungal-bioremediation]] (laccase, [[fungal-manganese-peroxidase-remediation]], lignin peroxidase) that break down lignin and cellulose in dead wood
 - **Soil aggregation:** Mycelial networks bind soil particles into stable aggregates, improving water retention and erosion resistance
 - **Mycorrhizal networking:** Arbuscular mycorrhizal fungi (AMF) connect plant root systems, facilitating nutrient exchange and chemical signaling between individuals
 - **Microbial community modulation:** Fungal hyphae create physical channels and chemical gradients that shape bacterial and archaeal community composition
@@ -42,7 +42,7 @@ Guerrilla mycology deliberately avoids expensive laboratory equipment and propri
 - **Spore slurries:** Mature mushroom caps blended with water and a surfactant (e.g., mild soap) to create a suspension for direct application
 - **Cardboard spawn:** Mycelium grown on wetted corrugated cardboard — an accessible, low-cost substrate that works for many saprotrophic species
 - **Wood chip inoculation:** Spawning fungi into piles of arborist wood chips to create inoculum for distribution
-- **Bokashi pre-composting:** Fermenting organic waste with effective microorganisms before fungal inoculation
+- **Bokashi pre-composting:** Fermenting organic waste with [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]] before fungal inoculation
 - **Toilet paper tube spawn:** Using cardboard tubes as a contained spawn medium for transport and planting
 
 ### 3. Anti-Authoritarian Ethos
@@ -62,8 +62,8 @@ Certain fungal species can bioaccumulate heavy metals from contaminated soils:
 
 | Metal | Effective Fungal Species | Mechanism |
 |-------|------------------------|-----------|
-| Lead (Pb) | *Pleurotus ostreatus*, *Ganoderma lucidum* | Biosorption onto cell walls |
-| Cadmium (Cd) | *Trametes versicolor*, *Pleurotus* spp. | Intracellular sequestration |
+| Lead (Pb) | *Pleurotus ostreatus*, *[[stamets-reishi-ganoderma-lucidum-cultivation]]* | Biosorption onto cell walls |
+| Cadmium (Cd) | *[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]*, *Pleurotus* spp. | Intracellular sequestration |
 | Arsenic (As) | *Suillus* spp. (mycorrhizal) | Chelation and compartmentalization |
 | Mercury (Hg) | *Coprinus* spp. | Volatilization to less toxic forms |
 
@@ -73,7 +73,7 @@ Certain fungal species can bioaccumulate heavy metals from contaminated soils:
 
 White-rot fungi are particularly effective at degrading petroleum products:
 
-- **PAHs (polycyclic aromatic hydrocarbons):** *Pleurotus ostreatus* and *Trametes versicolor* can degrade 60–90% of PAHs in contaminated soil over 8–12 weeks
+- **PAHs ([[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons):** *Pleurotus ostreatus* and *Trametes versicolor* can degrade 60–90% of PAHs in contaminated soil over 8–12 weeks
 - **BTEX (benzene, toluene, ethylbenzene, xylene):** Fungal enzyme systems oxidize these volatile compounds
 - **Motor oil and diesel:** Wood chip beds inoculated with *Pleurotus* species can filter and degrade oil-contaminated runoff
 

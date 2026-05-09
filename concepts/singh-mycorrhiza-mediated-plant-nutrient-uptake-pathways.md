@@ -24,7 +24,7 @@ partners may access complementary nitrogen pools.
 
 Zinc is an essential micronutrient whose availability in many soils is
 limited by high pH, calcium carbonate content, and phosphorus
-fertilization. Mycorrhizal fungi play a critical role in plant zinc
+fertilization. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] play a critical role in plant zinc
 nutrition:
 
 - AM fungal hyphae express zinc transporter genes (ZIP family homologs)
@@ -35,7 +35,7 @@ nutrition:
   shoots compared to non-mycorrhizal controls, particularly in alkaline
   and calcareous soils where zinc availability is naturally low
 - The mycorrhizal zinc uptake pathway is especially important for
-  cereals and legumes grown on high-pH soils, where zinc deficiency is
+  cereals and legumes grown on high-pH soils, where [[query-how-to-fix-zinc-deficiency-in-cannabis]] is
   a widespread yield-limiting factor
 - Zinc transfer at the arbuscular interface involves specific plant
   zinc transporters that are upregulated in mycorrhizal roots
@@ -48,9 +48,9 @@ at elevated concentrations:
 
 - AM fungi enhance copper uptake under deficient conditions through
   dedicated copper transporters (CTR family) on hyphal membranes
-- Under excess copper conditions, mycorrhizal fungi protect host plants
-  by sequestering copper in fungal biomass through binding to
-  metallothioneins, phytochelatins, and cell wall components
+- Under excess copper conditions, mycorrhizal [[query-how-do-endophytic-fungi-protect-plants-from-pests-and-disease]] host plants
+  by sequestering copper in [[bioremediation-fungal-biomass-biosorbent-material]] through binding to
+  metallothioneins, phytochelatins, and [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] components
 - Extraradical hyphae can tolerate higher soil copper concentrations
   than plant roots, acting as a biological filter that regulates copper
   delivery to the host
@@ -69,7 +69,7 @@ Mycorrhizal fungi influence plant uptake of additional micronutrients:
 - Manganese: mycorrhizal hyphae absorb manganese and regulate its
   transfer to prevent toxicity in acidic soils where manganese
   solubility is high
-- Boron: AM associations improve boron [[fungal-heavy-metal-uptake-and-translocation]],
+- Boron: AM associations improve boron fungal-heavy-metal-uptake-and-translocation,
   particularly under conditions of low boron availability in sandy
   or leached soils
 - Molybdenum: fungal hyphae access molybdate from soil solution and
@@ -78,7 +78,7 @@ Mycorrhizal fungi influence plant uptake of additional micronutrients:
 
 ## Carbon-Phosphorus and Carbon-Nitrogen Trading
 
-The mycorrhizal nutrient exchange operates as a biological market where
+The [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] exchange operates as a biological market where
 carbon from the plant is traded for nutrients from the fungus:
 
 - Plants allocate 10 to 20 percent of total photosynthetically fixed

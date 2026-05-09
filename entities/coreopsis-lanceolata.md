@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Smith, E.B. (2006). "Coreopsis." In Flora of North America North of Mexico, Vol. 21. Oxford University Press.
+  - Smith, E.B. (2006). "Coreopsis." In Flora of psilocybin-north-america-pacific-northwest North of Mexico, Vol. 21. Oxford University Press.
   - USDA NRCS (2024). "Coreopsis lanceolata L." PLANTS Database. https://plants.usda.gov
   - Radford, A.E. et al. (1968). *Manual of the Vascular Flora of the Carolinas*. University of North Carolina Press.
   - Cullina, W. (2000). *The New England Wild Flower Society Guide to Growing and Propagating Wildflowers*. Houghton Mifflin.
@@ -18,9 +18,9 @@ sources:
 
 ## Overview
 
-**Coreopsis lanceolata**, commonly known as lanceleaf tickseed, is a rhizomatous perennial herb in the family Asteraceae. It is native to the southeastern and central United States, where it inhabits open woodlands, prairies, and roadsides.
+**Coreopsis lanceolata**, commonly known as lanceleaf tickseed, is a rhizomatous perennial herb in the family Asteraceae. It is native to the southeastern and central [[dmt-containing-plants-united-states-halpern]], where it inhabits open woodlands, prairies, and roadsides.
 
-The species is recognized by its solitary, long-stemmed flower heads with bright yellow ray florets and a contrasting reddish-brown disk. It is among the most widely cultivated Coreopsis species, valued for its drought tolerance, long bloom period, and reliability in garden settings.
+The species is recognized by its solitary, long-stemmed flower heads with bright yellow ray florets and a contrasting reddish-brown disk. It is among the most widely cultivated Coreopsis species, valued for its [[dighton-fungal-drought-tolerance-plant-water-relations]], long bloom period, and reliability in garden settings.
 
 Lanceleaf tickseed is the state wildflower of Mississippi and has been introduced widely beyond its native range as an ornamental and roadside planting. It readily naturalizes in suitable habitats.
 
@@ -50,7 +50,7 @@ The basal leaf rosette is semi-evergreen in mild climates, providing winter inte
 
 Coreopsis lanceolata is native to the southeastern and south-central United States, from Virginia and Florida west to Texas and Oklahoma, and north to Missouri and Illinois.
 
-The species has been widely introduced outside its native range and is now naturalized in parts of the northeastern United States, the Pacific Northwest, Japan, Korea, China, and Europe. It is frequently planted along highways and in erosion control projects.
+The species has been widely introduced outside its native range and is now naturalized in parts of the northeastern United States, the Pacific Northwest, Japan, Korea, China, and Europe. It is frequently planted along highways and in [[permplant-willows-salix-erosion-control-fodder]] projects.
 
 Its native habitat includes dry, open woodlands, glades, prairies, and disturbed sites. It prefers well-drained, sandy or loamy soils in full sun and is highly tolerant of drought, heat, and poor soils.
 
@@ -68,7 +68,7 @@ Plants should be spaced 25 to 30 centimeters apart. Deadheading spent flowers ex
 
 Several cultivars are available, including 'Early Sunrise' (an All-America Selections winner with compact habit and semi-double flowers), 'Sterntaler' (with a distinctive brown ring surrounding the disk), and 'Baby Sun' (a dwarf selection for containers).
 
-The species is relatively free of serious pests and diseases, though crown rot may occur in poorly drained soils. Over-fertilization produces lush foliage at the expense of flowers.
+The species is relatively free of serious [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]], though crown rot may occur in poorly drained soils. Over-fertilization produces lush foliage at the expense of flowers.
 
 Plants typically bloom within 60 to 90 days from seed sowing, making them suitable for direct sowing in annual meadow plantings.
 
@@ -94,7 +94,7 @@ Its popularity in roadside wildflower plantings has led to extensive research on
 
 Limited ethnobotanical records exist for Coreopsis lanceolata compared to more widely used medicinal plants. The Cherokee reportedly used a decoction of the plant for diarrhea and as a general tonic.
 
-Early European settlers in the southeastern United States adopted some of these indigenous uses and also employed the plant as a folk remedy for wounds and skin conditions.
+Early European settlers in the southeastern United States adopted some of these indigenous uses and also employed the plant as a folk remedy for wounds and [[cannabis-for-skin-conditions-detailed]].
 
 The genus Coreopsis contains various sesquiterpene lactones and flavonoids, though the pharmacological properties of C. lanceolata specifically have not been extensively studied. Related species such as C. tinctoria have documented antioxidant and anti-inflammatory activity.
 

@@ -1,5 +1,5 @@
 ---
-title: Solomon on Growing Brassicas
+title: Solomon on solomon growing brassicas guide
 created: 2026-04-21
 updated: 2026-04-21
 type: "concept"
@@ -142,4 +142,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

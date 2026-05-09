@@ -21,7 +21,7 @@ systems. Bill Mollison discusses pig management in Permaculture: A
 Designers' Manual (Chapter 14: Strategies for an Alternative Nation,
 and throughout the animal systems sections) as an example of intensive
 animal-land integration. Pigs convert diverse feed sources into meat,
-manure, and land preparation services. Their natural rooting and
+manure, and land preparation services. Their [[mollison-designers-willow-water-and-natural-rooting-propagation]] and
 foraging behavior can be harnessed productively through mobile pig
 tractor systems and planned forage rotations.
 
@@ -48,10 +48,10 @@ feed, and intended system function. Suitable breeds include:
 
 A pig tractor is a mobile enclosure that confines pigs to a specific
 area while allowing them to root, forage, and deposit manure. Pig
-tractors are heavier and more robust than chicken tractors, reflecting
+tractors are heavier and more robust than [[mollison-designers-chicken-tractors-egg-production]], reflecting
 the size and strength of the animals. Design considerations:
 
-  - Structural strength: Pigs are strong and destructive; frames
+  - [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]]: Pigs are strong and destructive; frames
     must be steel or heavy timber with strong wire mesh (chain-link
     or heavy-gauge welded mesh). Lightweight structures will be
     destroyed quickly
@@ -76,9 +76,9 @@ Pigs are opportunistic omnivores that thrive on diverse forage.
 Mollison describes several forage-based pig systems:
 
   - Pasture rotation: Pigs graze mixed pastures of clover, lucerne,
-    chicory, plantain, and grasses. Rotational grazing prevents
+    chicory, plantain, and grasses. [[comparison-rotational-grazing-vs-continuous-grazing]] prevents
     overgrazing and allows pasture recovery
-  - Root crops: Dedicated plots of Jerusalem artichoke, sweet potato,
+  - Root crops: Dedicated plots of [[comparison-jerusalem-artichoke-vs-potato]], sweet potato,
     mangel wurzel, and turnips provide high-energy winter forage.
     Pigs harvest these crops by rooting, eliminating the need for
     mechanical harvesting
@@ -137,8 +137,10 @@ coconut, mango, and breadfruit plantings.
 
 ## See Also
 
-- mollison designers integrated animal systems
+- mollison [[mollison-designers-integrated-vermiculture-composting-systems]] animal systems
 - mollison designers silvopasture design
 - [[mollison-designers-poultry-forage-design-pastured-systems]]
-- [[mollison-designers-duck-pond-integrated-systems]]
+- mollison-designers-duck-pond-integrated-systems
 - [[mollison-designers-soil-water-storage-in-forest-systems]]
+- [[jerusalem-artichoke]]
+- [[bill-mollison]]

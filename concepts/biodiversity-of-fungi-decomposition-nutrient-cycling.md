@@ -1,5 +1,5 @@
 ---
-title: Fungal Decomposition of Organic Matter in Soil Systems
+title: dighton-fungal-decomposition-leaf-litter-dynamics of hamilton-composting-and-organic-matter-management in Soil Systems
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -17,17 +17,17 @@ Source: Biodiversity of Fungi (Hyde et al., eds.), Chapters 11 and 13
 
 Fungi function as primary, secondary, and tertiary decomposers in the complex process of organic matter degradation. Their unique ability to produce extracellular enzymes that break down the complex polymers found in plant cell walls -- cellulose, hemicellulose, lignin, pectin, cutin, and suberin -- makes them the principal agents of decomposition in most terrestrial ecosystems. In soils, fungi comprise an estimated 78-90% of total decomposer biomass in grasslands and approximately 89% of total living microbial biomass in deciduous forests.
 
-See also: [[fungal-enzymatic-diversity-decomposition]], [[fungal-hemicellulose-pectin-decomposition]], [[fungal-succession-in-decomposition]], [[fungal-lignin-degradation-enzymology]], [[fungal-wood-decay-types]]
+See also: [[fungal-enzymatic-diversity-decomposition]], [[fungal-hemicellulose-pectin-decomposition]], [[fungal-succession-in-decomposition]], fungal-lignin-degradation-enzymology, fungal-wood-decay-types
 
 ## Litter Decomposition Dynamics
 
 ### Successional Patterns
 
-Fungal communities on decomposing litter show distinct successional patterns. Early stages are dominated by fast-growing opportunistic species that capitalize on readily available nutrients. As decomposition progresses, community composition shifts toward slower-growing, more specialized species capable of degrading recalcitrant compounds. This succession proceeds from litter surface through the humus layer into mineral soil.
+[[biodiversity-of-fungi-soil-fungal-communities-agriculture]] on decomposing litter show distinct successional patterns. Early stages are dominated by fast-growing opportunistic species that capitalize on readily available nutrients. As decomposition progresses, [[core-endorhiza-bacterial-community-composition-cannabis]] shifts toward slower-growing, more specialized species capable of degrading recalcitrant compounds. This succession proceeds from litter surface through the humus layer into mineral soil.
 
-Fungi exhibit succession downward through the litter and to a lesser extent through soil horizons. Species composition and propagule density are affected by the sequence of changes through fragmentation, decomposition, and humidification of plant detritus. Stable organic compounds, such as waxes, lignins, and phenolics, may persist for hundreds of years and are incorporated into mineral soil horizons.
+Fungi exhibit succession downward through the litter and to a lesser extent through soil horizons. Species composition and propagule density are affected by the sequence of changes through fragmentation, decomposition, and humidification of plant detritus. Stable [[fungal-volatile-organic-compounds-communication]], such as waxes, lignins, and phenolics, may persist for hundreds of years and are incorporated into mineral soil horizons.
 
-See also: [[fungal-leaf-litter-diversity]], [[fungal-decomposition-resource-quality-determinants]], [[fungal-enzyme-systems-and-nutrient-cycling]], [[fungal-enzyme-activity-nutrient-availability]]
+See also: [[fungal-leaf-litter-diversity]], [[fungal-decomposition-resource-quality-determinants]], fungal-enzyme-systems-and-nutrient-cycling, fungal-enzyme-activity-nutrient-availability
 
 ## Decomposition and Nutrient Cycling
 
@@ -38,7 +38,7 @@ During decomposition, carbon flows through fungal biomass before being released 
 - Fungal necromass (dead hyphae) decomposes slowly, contributing to stable humus
 - Fungal metabolites include recalcitrant compounds like melanin and glomalin
 
-See also: [[fungal-carbon-storage-mycorrhizal-pathways]], [[fungal-nitrogen-mineralization-pathways]], [[fungal-role-in-phosphorus-cycling]], [[composting-science-solomon]], [[fungal-solid-state-fermentation-agricultural-waste]]
+See also: fungal-carbon-storage-mycorrhizal-pathways, [[fungal-nitrogen-mineralization-pathways]], [[fungal-role-in-phosphorus-cycling]], [[composting-science-solomon]], [[fungal-solid-state-fermentation-agricultural-waste]]
 
 ## Climate and Decomposition
 
@@ -61,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

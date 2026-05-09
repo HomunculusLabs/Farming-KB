@@ -1,5 +1,5 @@
 ---
-title: Holzer Seed Autonomy and Preserving Old Varieties
+title: Holzer holzer seed autonomy preserving old varieties and Preserving holzer-old-varieties-and-seed-saving
 created: 2026-04-26
 tags:
   - seed-saving
@@ -23,7 +23,7 @@ majority of human beings live off just 20 kinds of foods.
 ## The Scale of Diversity Loss
 
 The statistics on variety loss are staggering:
-- 97% fewer fruit and vegetable varieties today compared to 1900
+- 97% fewer fruit and [[solomon-vegetable-varieties-self-sufficiency]] today compared to 1900
 - India: from 30,000 rice varieties down to 12
 - Philippines: from several thousand rice varieties down to 2
 - China: from 8,000 rice varieties down to 50; from 10,000 wheat varieties
@@ -36,7 +36,7 @@ industrial system.
 
 ## Corporate Seed Monopolisation
 
-The worldwide monopolisation and privatisation of seed production is
+The worldwide monopolisation and privatisation of [[cervantes-seed-production-storage]] is
 responsible for the disappearance of diversity. The age-old right to
 produce and sell one's own seeds has been taken from farmers and given to
 multinational agricultural companies.
@@ -50,7 +50,7 @@ Monsanto, Pioneer, and Syngenta.
 ### Consequences for Farmers
 
 - Farmers become dependent on buying new seeds every year
-- Hybrid varieties only produce for one generation before degenerating
+- [[cervantes-hybrid-varieties-types]] only produce for one generation before degenerating
 - Increasing amounts of fertiliser and pesticides are required
 - Traditional regional varieties are strictly controlled
 - Farmers cannot sell uncertified seed or produce grown from it
@@ -95,9 +95,12 @@ The method for producing strong, regionally adapted seeds:
    has the best genetic material
 3. Resow collected seeds in new locations: good and poor soil, sunny and
    shady areas
-4. Plants from the [[holzer-seed-saving-and-variety-preservation]] - Holzer seed saving
+4. Plants from the [[holzer-seed-saving-and-variety-preservation]] - Holzer [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]]
 - [[holzer-old-varieties-and-seed-saving]] - Old varieties overview
 
 ## See Also
 
-- [[permaculture-designers-manual-seed-saving-varieties]]
+- permaculture-designers-manual-seed-saving-varieties
+- [[holzer-old-varieties-and-seed-saving]]
+- [[sepp-holzer-fruit-tree-varieties]]
+- [[seed-selection-breeding-holzer]]

@@ -3,7 +3,7 @@ title: Zwitterionic Intermediates in Tryptamine Phosphorylation
 created: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Shirota O, Hakamata W, Goda Y - Concise Large-Scale Synthesis of Psilocin and Psilocybin (J. Nat. Prod. 2003)"
+  - "Shirota O, Hakamata W, Goda Y - Concise Large-Scale Synthesis of tryptamine-chemistry-psilocin-and-psilocybin-synthesis (J. Nat. Prod. 2003)"
 type: concept
 tags: [zwitterion, phosphorylation, psilocybin, organic-chemistry, nmr, benzyl-migration]
 ---
@@ -18,7 +18,7 @@ The synthesis of psilocybin from psilocin requires phosphorylation of the
 technically challenging, with multiple phosphorylation methods failing to
 consume the starting material. The key breakthrough by Shirota, Hakamata, and
 Goda (2003) was the discovery and exploitation of a zwitterionic
-N,O-dibenzyl phosphate intermediate that enabled gram-scale synthesis without
+N,O-dibenzyl [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]] that enabled gram-scale synthesis without
 chromatographic purification.
 
 ## The Phosphorylation Challenge
@@ -116,10 +116,10 @@ clean for a reaction that previously gave complex mixtures.
 
 ## Final Hydrogenolysis
 
-Catalytic hydrogenolysis (H₂, Pd/C catalyst, methanol, room temperature)
+[[shirota-catalytic-hydrogenolysis-debenzylation-psilocybin]] (H₂, Pd/C catalyst, methanol, room temperature)
 cleaves both benzyl groups simultaneously from the zwitterion:
 - The N-benzyl group is removed, regenerating the tertiary amine
-- The O-benzyl group is removed, yielding the free phosphoric acid (psilocybin)
+- The O-benzyl group is removed, yielding the free [[cho-water-soluble-phosphoric-acid-preparation]] (psilocybin)
 
 The product crystallizes directly from the reaction mixture as white needles.
 Overall isolated yield from psilocin exceeds 72%.
@@ -128,7 +128,7 @@ Overall isolated yield from psilocin exceeds 72%.
 
 The Shirota zwitterion illustrates an important principle in phosphorylation
 chemistry: reactions involving benzyl-protected phosphates and tertiary amine
-substrates can undergo unexpected intramolecular benzyl migration from oxygen
+substrates can undergo unexpected intramolecular [[intramolecular-benzyl-migration-zwitterionic-phosphate-psilocybin-synthesis]] from oxygen
 to nitrogen during aqueous workup. This rearrangement, rather than being a
 complication to avoid, can be exploited as a purification strategy — the
 zwitterion's contrasting solubility properties enable isolation without

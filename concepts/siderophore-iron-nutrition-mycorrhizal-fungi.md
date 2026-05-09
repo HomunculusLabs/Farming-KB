@@ -1,5 +1,5 @@
 ---
-title: "Siderophore Iron Nutrition in Mycorrhizal Fungi"
+title: "Siderophore Iron Nutrition in arbuscular-mycorrhizal-fungi-biology-symbiosis"
 created: 2026-04-28
 tags:
   - siderophores
@@ -21,8 +21,8 @@ type: concept
 Mycorrhizal fungi produce specialized iron-chelating compounds called
 siderophores to acquire iron from soil environments where this essential
 nutrient is often poorly available. Research across the major mycorrhizal
-types has revealed distinct siderophore profiles: ericoid mycorrhizal
-fungi primarily produce ferricrocin and fusigen, ectomycorrhizal fungi
+types has revealed distinct siderophore profiles: [[dighton-ericoid-mycorrhizal-nutrient-acquisition]]
+fungi primarily produce ferricrocin and fusigen, [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]
 produce ferricrocin among other hydroxamates, and a novel siderophore
 called basidiochrome has been discovered in orchid mycorrhizal fungi.
 The iron acquisition strategies of mycorrhizal fungi have significant
@@ -45,9 +45,9 @@ cellular metabolism.
 Ericoid mycorrhizal fungi produce ferricrocin or fusigen as their main
 siderophores. These ascomycete fungi, which colonize plants in the
 Ericaceae family, operate in the acidic organic soils of heathlands and
-boreal forests where iron chemistry is particularly complex. The
+[[fungal-diversity-boreal-forests-taiga]] where iron chemistry is particularly complex. The
 production of ferricrocin and fusigen allows these fungi to access iron
-from organic matter and mineral sources in their characteristic
+from [[hamilton-composting-and-organic-matter-management]] and mineral sources in their characteristic
 habitats. The identification of these siderophores established that
 ericoid mycorrhizal fungi possess active iron acquisition mechanisms
 that may contribute to host plant iron nutrition.
@@ -87,7 +87,7 @@ fungi including Ceratobasidium and Rhizoctonia species. The discovery
 of basidiochrome was significant because it represented a previously
 unknown chemical structure and expanded the known diversity of fungal
 siderophores. Orchid mycorrhizal fungi occupy a unique position among
-mycorrhizal associations, and their siderophore production may be
+mycorrhizal associations, and their [[singh-fungal-siderophore-production-iron-acquisition]] may be
 particularly important during orchid seed germination and protocorm
 development when iron demand is high.
 

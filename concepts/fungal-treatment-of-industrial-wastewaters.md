@@ -1,17 +1,13 @@
 ---
-title: Fungal Treatment of Industrial Wastewaters
+title: Fungal fungal treatment of industrial wastewaters Wastewaters
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[mycology, fungi]
-sources: []
+tags: [mycology, fungi]
+sources:
+  sources: []
 ---
-
-# Fungal Treatment of Industrial Wastewaters
-
-Updated: 2026-04-18
-
-Fungal treatment of wastewaters dates back to the 1960s. Yeasts and fungi are used extensively to reduce the strength of a wide variety of food-processing wastewaters, with the added benefit of producing food or fodder yeast biomass as a valuable byproduct. The most commonly used yeast is Candida utilis, valued for its ability to utilize diverse carbon and nitrogen sources, rapid growth, high yields, and tolerance of low pH. The application of fungi in wastewater treatment represents an important intersection of [[mycoremediation-techniques]] for wastewater treatment.
+# Fungal Treatment of Industrial Wastewaters Updated: 2026-04-18 Fungal treatment of wastewaters dates back to the 1960s. Yeasts and fungi are used extensively to reduce the strength of a wide variety of food-processing wastewaters, with the added benefit of producing food or fodder yeast biomass as a valuable byproduct. The most commonly used yeast is Candida utilis, valued for its ability to utilize diverse carbon and nitrogen sources, rapid growth, high yields, and tolerance of low pH. The application of fungi in wastewater treatment represents an important intersection of [[mycoremediation-techniques]] for wastewater treatment.
 
 ## Starch-Processing Wastewater
 
@@ -25,19 +21,19 @@ Key treatments:
 
 The cheese industry produces 121 million tons of whey annually (based on 13.5 million tons cheese). Only 50% is utilized; the rest is discharged to water bodies. Whey has COD 50,000-80,000 mg/L and BOD 40,000-60,000 mg/L, with lactose responsible for 90% of oxygen demand. Lactose cannot be assimilated by many microorganisms, but 98 yeast species across 19 genera can utilize it.
 
-Kluyveromyces marxianus is the most commonly used yeast for whey treatment due to its high lactose assimilation rate, thermotolerance (growth at up to 45 degrees Celsius), and ability to produce ethanol as a co-product. Mixed yeast-fungal systems combining K. marxianus with filamentous fungi such as Trichoderma reesei have been explored for simultaneous lactose utilization and enzyme production. The treatment of whey by fungi is a practical example of [[ligninolytic-enzymes-bioremediation]] for dye decolorization
+Kluyveromyces marxianus is the most commonly used yeast for whey treatment due to its high lactose assimilation rate, thermotolerance (growth at up to 45 degrees Celsius), and ability to produce ethanol as a co-product. Mixed yeast-fungal systems combining K. marxianus with filamentous fungi such as Trichoderma reesei have been explored for simultaneous lactose utilization and [[ligninolytic-enzyme-production-bioremediation]]. The treatment of whey by fungi is a practical example of [[ligninolytic-enzymes-bioremediation]] for [[singh-textile-dye-decolorization-fungal]]
 
 These applications demonstrate the versatility of fungal treatment systems for recalcitrant pollutants that resist conventional biological treatment, consistent with the broader goals of [[fungal-secondary-metabolites-environment]] research.
 
 ## Bioreactor Considerations
 
-See [[fungal-immobilization-bioreactor-systems]] for reactor configurations. Key factors include pH, dissolved oxygen, hydraulic retention time, and nutrient supplementation. Pellet-forming fungi can be cultivated in fluidized beds or airlift reactors, but excessive pellet growth leads to hollow pellets with dead cores due to oxygen depletion.
+See [[fungal-immobilization-bioreactor-systems]] for reactor configurations. Key factors include pH, [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]], hydraulic retention time, and nutrient supplementation. Pellet-forming fungi can be cultivated in fluidized beds or airlift reactors, but excessive pellet growth leads to hollow pellets with dead cores due to oxygen depletion.
 
 ## See Also
 
 - [[fungal-immobilization-bioreactor-systems]]
 
-- [[mycoremediation-bioreactor-design]]
+- mycoremediation-bioreactor-design
 
 - [[mycoremediation-of-textile-dyes]]
 
@@ -58,7 +54,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -100,4 +96,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

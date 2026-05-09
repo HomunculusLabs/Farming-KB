@@ -1,5 +1,5 @@
 ---
-title: "Compost Tea vs Vermicompost Tea"
+title: "comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide vs Vermicompost Tea"
 created: 2026-04-28
 tags: [comparison, compost, vermicompost, soil-biology]
 date: 2026-05-02
@@ -12,12 +12,12 @@ type: comparison
 
 ## Overview
 Compost tea and vermicompost tea are both liquid biological extracts used to
-move living organisms, soluble nutrients, and plant-supporting compounds from
+move [[savory-living-organisms-as-tools]], soluble nutrients, and plant-supporting compounds from
 a solid compost material into water. The practical difference is the starting
 material: [[vermicompost-tea]] begins with worm castings produced by
 earthworms.
 
-Both teas can be useful as soil drenches or foliar sprays, but they reward
+Both teas can be useful as soil drenches or [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]], but they reward
 different levels of management. Compost tea is often treated as a tunable
 biological inoculant, especially in actively aerated systems. Vermicompost tea
 is usually simpler, more consistent for small growers, and valued for the
@@ -27,9 +27,9 @@ castings.
 ## Compost Tea
 [[vermicompost-tea]]
 Vermicompost tea is made from worm castings, also called vermicast. The
-castings are the end product of organic matter passing through the worm gut
+castings are the end product of [[hamilton-composting-and-organic-matter-management]] passing through the worm gut
 and bedding ecosystem, which tends to concentrate beneficial bacteria, fungi,
-actinomycetes, humic and fulvic acids, plant-available nitrate, and
+actinomycetes, [[teaming-with-microbes-humic-and-fulvic-acids]] acids, plant-available nitrate, and
 growth-regulating compounds such as auxins, cytokinins, and gibberellins.
 
 Because worm castings are already fine, microbially active, and usually mild,
@@ -48,7 +48,7 @@ suppression rather than the cheapest way to inoculate acres of soil.
 ## Key Differences
 | Aspect | Compost Tea | Vermicompost Tea |
 |--------|-------------|------------------|
-| Source material | Finished aerobic compost, often thermophilic | Worm castings from managed vermicompost systems |
+| Source material | Finished [[ingham-anaerobic-vs-aerobic-compost-tea]], often thermophilic | Worm castings from managed vermicompost systems |
 | Main strength | Tunable biology for soil-food-web inoculation | Consistent, gentle extract rich in castings biology |
 | Equipment need | Often needs a well-aerated brewer and cleaning routine | Can be passive or aerated with simple bucket equipment |
 | Nutrient profile | Variable; depends on compost and foods | Often higher in nitrate, humic substances, and hormones |
@@ -82,3 +82,7 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[comparison-comfrey-tea-vs-compost-tea]]
+- [[comparison-lab-serum-vs-compost-tea]]

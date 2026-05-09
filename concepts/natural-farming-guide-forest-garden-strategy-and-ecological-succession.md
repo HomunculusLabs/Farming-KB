@@ -1,5 +1,5 @@
 ---
-title: Forest Garden Strategy and ecological succession
+title: Forest Garden Strategy and holmgren-ecological-succession-and-pulsing
 created: 2026-04-28
 tags: [forest-garden, food-forest, ecological-succession, polyculture, guilds,
       companion-planting, permaculture-design, plant-communities, sustainable-yields]
@@ -11,7 +11,7 @@ type: concept
 
 # Forest Garden Strategy and Ecological Succession
 
-The forest ecosystem strategy mimics natural patterns where plants of different
+The [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] strategy mimics natural patterns where plants of different
 heights grow together. Big trees form a canopy over smaller trees, which cover
 shade-loving shrubs, which shade groundcover herbs. On the edges, edible plants
 that like the sun form a self-sufficient community that maintains itself with
@@ -21,7 +21,7 @@ less effort than conventional gardens.
 succession is a process by which cleared soil fixes itself through certain
 species of plants that grow one after the other over years or decades. Companion
 planting is a system of growing plants close to each other that have beneficial
-properties for each other over a single growing season.
+properties for each other over a single [[savory-growing-season-and-non-growing-season-management]].
 
 ## The Pioneer Process
 
@@ -80,8 +80,8 @@ work.
 
 Diversity gives more security. If you have a bad year for vegetables, you still
 have tree fruits, nuts, or other crops. When planting all kinds of different
-crops in one place mimicking a forest, [[faires-plant-communities-and-guilds]] (guilds) organize plants around a central element
-based on companion planting and growing tendencies. When choosing species,
+crops in one place mimicking a forest, faires-plant-communities-and-guilds (guilds) organize plants around a central element
+based on [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] and growing tendencies. When choosing species,
 consider: What stage is the plant? Is it deciduous or evergreen? How high does
 it grow? Do roots invade other plants' space? How quickly does it grow and die?
 Are leaves dense or do they allow light in? Is it disease resistant? Will it
@@ -99,7 +99,7 @@ with many communities that all interact in one mega-community.
 
 [[forest-gardens]] are experimental and unique. They take at least a decade to
 establish and even longer to become profitable. There is no strict formula, and
-every climate and microclimate is different. The goal is many eggs in many
+every [[pdc-climate-and-microclimate-analysis]] is different. The goal is many eggs in many
 baskets, rather than one crop that can fail. Forest gardens should need only a
 few people working part time, compared to 80 hours per week for a typical
 organic market farm.
@@ -110,7 +110,7 @@ Animals provide strategic benefits within the forest garden system:
 
 - **Foraging:** Pigs and birds clean up fallen fruit, simultaneously
   fertilizing as they go.
-- **Insect control:** Birds that eat larvae and eggs from tree bark can be
+- **[[mushroom-pests-insect-control-stamets]]:** Birds that eat larvae and eggs from tree bark can be
   attracted with flowers and herbs. Flowers attract insects, which attract birds.
 - **Slug and snail control:** Ducks allowed into the garden from fall to spring
   will control slug and snail populations. They stay in the marsh in summer.

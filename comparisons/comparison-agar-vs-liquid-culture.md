@@ -1,5 +1,5 @@
 ---
-title: Agar Culture vs Liquid Culture
+title: Agar Culture vs comparison-liquid-culture-vs-grain-spawn
 created: 2026-04-28
 tags:
   - mycology
@@ -17,7 +17,7 @@ type: comparison
 
 ## Overview
 
-Agar culture and liquid culture are the two primary methods for propagating mycelium in mushroom cultivation. While agar is the foundational technique used for isolation, strain selection, and long-term storage, liquid culture excels at rapid expansion and large-scale inoculation. Most experienced cultivators use both methods in complementary ways rather than treating them as mutually exclusive options.
+Agar culture and liquid culture are the two primary methods for propagating mycelium in [[accessible-mushroom-cultivation-for-disabilities]]. While agar is the foundational technique used for isolation, [[blesching-cannabis-strain-selection-receptor-targeting]], and long-term storage, liquid culture excels at rapid expansion and large-scale inoculation. Most experienced cultivators use both methods in complementary ways rather than treating them as mutually exclusive options.
 
 Both methods begin with sterile preparation using a pressure cooker at 15 psi (121°C) and rely on clean technique to prevent contamination. The choice between them depends on the cultivator's goals: precision and diagnostics favor agar, while speed and scale favor liquid culture.
 
@@ -25,7 +25,7 @@ Both methods begin with sterile preparation using a pressure cooker at 15 psi (1
 
 [[mushroom-liquid-culture]]
 
-Liquid culture (LC) consists of a nutrient-rich liquid solution in which mycelium grows freely throughout the volume, forming dense mycelial balls or pellets. It is primarily used as a high-efficiency inoculum for grain spawn.
+Liquid culture (LC) consists of a nutrient-rich liquid solution in which mycelium grows freely throughout the volume, forming dense mycelial balls or pellets. It is primarily used as a high-efficiency inoculum for [[comparison-grain-spawn-vs-grain-to-grain-transfer]].
 
 ### Standard Recipes
 
@@ -40,11 +40,11 @@ Liquid culture jars are sterilized at 15 psi for 20–30 minutes. After cooling,
 - **Speed:** Mycelium in liquid culture colonizes much faster than on agar due to three-dimensional nutrient access.
 - **Exponential expansion:** A small amount of LC can inoculate dozens of grain jars, each of which can then produce more LC — enabling rapid scaling.
 - **Convenience:** Finished LC can be drawn into syringes for easy storage, shipping, and inoculation of grain jars without opening lids.
-- **Faster grain colonization:** Grain jars inoculated with LC typically colonize days faster than those inoculated with agar wedges or spore syringes.
+- **Faster grain colonization:** Grain jars inoculated with LC typically colonize days faster than those inoculated with agar wedges or [[query-spore-syringes-vs-liquid-culture]].
 
 ### Limitations
 
-Liquid culture cannot be visually inspected for contamination as easily as agar. Bacteria can hide within the cloudy liquid or inside mycelial balls, leading to false confidence in a contaminated culture. This makes clean inoculation technique and trusted source material especially critical.
+Liquid culture cannot be visually inspected for contamination as easily as agar. Bacteria can hide within the cloudy liquid or inside mycelial balls, leading to false confidence in a contaminated culture. This makes clean [[pf-tek-inoculation-technique-and-syringe-management]] and trusted source material especially critical.
 
 ## Key Differences
 

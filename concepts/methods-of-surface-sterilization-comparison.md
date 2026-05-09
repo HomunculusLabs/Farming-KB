@@ -1,5 +1,5 @@
 ---
-title: Methods of Surface Sterilization Comparison
+title: Methods of challenge-organisms-nasa-microwave-surface-sterilization-testing Comparison
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -11,7 +11,7 @@ sources: [raw/papers/sterilizing-surfaces-by-irradiation-with-microwaves.md]
 
 ## Overview
 
-Surface sterilization is a critical requirement across aerospace, medical, pharmaceutical, food processing, and mycological applications. The NASA [[mushroom-cultivation]] substrate sterilization. Grain spawn is typically sterilized at 15 psi for 90–120 minutes to ensure complete penetration and spore kill. Bulk substrates may be pasteurized at lower temperatures (60–70°C) which kills most competitors but not *Bacillus* spores.
+Surface sterilization is a critical requirement across aerospace, medical, pharmaceutical, food processing, and mycological applications. The NASA [[mushroom-cultivation]] [[mushroom-substrate-sterilization-and-pasteurization]]. [[comparison-grain-spawn-vs-grain-to-grain-transfer]] is typically sterilized at 15 psi for 90–120 minutes to ensure complete penetration and spore kill. Bulk substrates may be pasteurized at lower temperatures (60–70°C) which kills most competitors but not *Bacillus* spores.
 
 ## Gamma Irradiation
 
@@ -54,7 +54,7 @@ UV-C light (254 nm) causes thymine dimers in microbial DNA, preventing replicati
 - Requires safety precautions to protect operators from eye and skin damage
 
 ### Mycology Application
-UV lights are commonly used in laminar flow hoods and clean rooms to maintain air sterility between uses. However, they cannot sterilize tools or surfaces that are shadowed from the light source.
+UV lights are commonly used in [[comparison-laminar-flow-hood-vs-fruiting-chamber]] hoods and clean rooms to maintain air sterility between uses. However, they cannot sterilize tools or surfaces that are shadowed from the light source.
 
 ## Chemical Disinfectants
 
@@ -100,7 +100,7 @@ Broad-spectrum antimicrobial effective against bacteria, fungi, viruses, and som
 | Grain spawn sterilization | Autoclave | Reliable, inexpensive, heat-stable jars |
 | Sealed pre-assembled devices | Gamma irradiation | Penetrates packaging |
 | Lab bench surfaces | Alcohol wipes | Fast, no residue |
-| Clean room air | UV-C | Continuous air treatment |
+| Clean [[stamets-growing-room-air-circulation-co2-management]] | UV-C | Continuous air treatment |
 | Complex assembled systems | Microwave | Targets internal surfaces without disassembly |
 | Whole-room decontamination | VHP | Reaches all surfaces, no residue |
 | Field emergency sterilization | Chemical (peroxide) | Portable, broad-spectrum |

@@ -15,13 +15,13 @@ matter is broken down into inorganic nutrients, releasing carbon dioxide
 and mineral elements back into the environment for reuse by living
 organisms. These cycles are driven primarily by fungi and bacteria, with
 fungi playing the dominant role in terrestrial decomposition of complex
-plant polymers. Decomposition is the engine of nutrient cycling, without
+plant polymers. Decomposition is the engine of [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], without
 which life would quickly exhaust available resources and cease to function.
 
 ## The Decomposition Cascade
 
 Decomposition proceeds through a cascade of increasingly recalcitrant
-compounds. Fresh organic matter (litterfall, root exudates, animal
+compounds. Fresh [[hamilton-composting-and-organic-matter-management]] (litterfall, [[mycorrhizal-root-exudates-pathogen-interactions]], animal
 remains) contains labile compounds that are rapidly mineralized: simple
 sugars, amino acids, and organic acids. These are consumed within days
 to weeks by opportunistic microorganisms. As decomposition progresses,
@@ -44,12 +44,12 @@ Lignin is the second most abundant organic polymer on Earth (after
 cellulose) and among the most resistant to biological degradation.
 It is a complex, irregular polymer of phenylpropanoid units linked
 by carbon-carbon and ether bonds that resist most enzymatic attack.
-Only certain groups of fungi, primarily white rot basidiomycetes, can
+Only certain groups of fungi, primarily [[comparison-brown-rot-vs-white-rot-bioremediation]] basidiomycetes, can
 efficiently mineralize lignin to carbon dioxide.
 
 [[fungal-ecology]]
 - [[mycelial-networks]]
-- [[mycorrhizal-symbiosis]]
+- mycorrhizal-symbiosis
 ## Practical Considerations
 
 When working with Decomposition Cycles, several practical factors should be
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +108,8 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+## See Also
+- [[root-exudates]]
+- [[decomposition]]
+- [[lignin-degradation]]
+- [[fungal-ecology-decomposition-cycles]]

@@ -1,39 +1,13 @@
 ---
 title: Asian Neurotropic Mushroom Species
 created: 2026-04-28
-tags: [[mycology, asian-fungi, psilocybin-mushrooms, japan, southeast-asia]
+tags: [mycology, asian-fungi, psilocybin-mushrooms, japan, southeast-asia]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
 type: concept
 ---
-
-# Asian Neurotropic Mushroom Species
-
-## Overview
-
-Asia presents a complex and diverse neurotropic mycoflora, ranging from
-subtropical Southeast Asian species to temperate Japanese species and
-Himalayan Amanita. The region includes some of the most important
-ethnobotanical traditions involving psychoactive fungi.
-
-## Japan
-
-Japan has one of the best-documented neurotropic fungal records in Asia:
-- **Psilocybe venenata**: First described as Stropharia caerulescens by
-  Imai (1932); causes hallucinations; one of the most significant
-  Japanese neurotropic species
-- **P. subcaerulipes**: Described by Hongo (1959); found in Japan
-- **P. argentipes**: Described by Yokoyama (1976); confirmed to contain
-  psilocybin by Koike et al. (1981)
-- **P. septentrionalis**: Found in Japan
-- **P. subaeruginascens**: Present in Japan and Java
-- **Agrocybe farinacea**: Unusual member of Bolbitiaceae containing
-  psilocybin; described by Hongo (1960)
-- **Amanita muscaria**: Well documented by Hongo (1959, 1960); found
-  throughout Japan
-- **A. pantherina**: Widely distributed in Japan
-- **[[inocybe-corydalina]]: Found in India
+# Asian Neurotropic Mushroom Species ## Overview Asia presents a complex and diverse neurotropic mycoflora, ranging from subtropical Southeast Asian species to temperate Japanese species and Himalayan Amanita. The region includes some of the most important ethnobotanical traditions involving psychoactive fungi. ## Japan Japan has one of the best-documented neurotropic fungal records in Asia: - **Psilocybe venenata**: First described as Stropharia caerulescens by Imai (1932); causes hallucinations; one of the most significant Japanese neurotropic species - **P. subcaerulipes**: Described by Hongo (1959); found in Japan - **P. argentipes**: Described by Yokoyama (1976); confirmed to contain psilocybin by Koike et al. (1981) - **P. septentrionalis**: Found in Japan - **P. subaeruginascens**: Present in Japan and Java - **Agrocybe farinacea**: Unusual member of Bolbitiaceae containing psilocybin; described by Hongo (1960) - **Amanita muscaria**: Well documented by Hongo (1959, 1960); found throughout Japan - **A. pantherina**: Widely distributed in Japan - **[[inocybe-corydalina]]: Found in India
 - Diverse Panaeolus species: P. africanus, P. ater, P. papilionaceus,
   P. sphinctrinus, P. subbalteatus, P. venezolanus
 
@@ -49,8 +23,8 @@ diversity:
   Koh Samui; a bluing species unique to Thailand; contains psilocybin
   and psilocin
 - **P. subcubensis**: Found in Thailand
-- **Copelandia cyanescens**: Common in Thailand
-- **Dictyophora indusiata**: Found in Thailand
+- **[[copelandia-cyanescens]]**: Common in Thailand
+- **[[dictyophora-indusiata]]**: Found in Thailand
 
 ### Indonesia (Java, Sumatra, Borneo)
 - **P. subaeruginascens**: Found in Java; originally described from
@@ -62,13 +36,13 @@ diversity:
 
 ### Cambodia
 - **P. cubensis**: First collected by Heim (1956a)
-- **Copelandia cambodginiensis**: Described from Cambodia; widespread in
+- **[[copelandia-cambodginiensis]]**: Described from Cambodia; widespread in
   Southeast Asia
 - **C. cyanescens** and **C. tropicalis**: Present in Cambodia
 
 ### Vietnam
 - **P. cubensis**: Reported from Vietnam
-- **Amanita pantherina**: Present in Vietnam
+- **[[amanita-pantherina]]**: Present in Vietnam
 
 ### Philippines
 - **P. cubensis**, **Copelandia cyanescens**, **C. tropicalis**: Present
@@ -83,8 +57,8 @@ diversity:
 ## New Guinea
 
 New Guinea is one of the most important regions for ethnobotanical use
-of neurotropic fungi:
-- **Psilocybe kumaenorum**: Described by Heim; associated with the
+of [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]:
+- **[[psilocybe-kumaenorum]]**: Described by Heim; associated with the
   "mushroom madness" of the Kuma people
 - **P. brunneocystidiata**, **P. inconspicua**, **P. papuana**:
   Found in New Guinea
@@ -100,4 +74,7 @@ of neurotropic fungi:
   pseudomaenadum, R. wahgiensis: Used by aboriginal peoples
 - **[[guzman-magic-mushrooms-pacific-australian-species]]
 
-See also: [[psychoactive-tryptamines-in-nature-distribution-ecology-and-evolutionary-origins]]
+See also: psilocybe-cubensis-distribution-and-ecology
+
+## See Also
+- [[guzman-magic-mushrooms-temperate-zone-species]]

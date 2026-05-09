@@ -52,7 +52,7 @@ The species occupies a variety of well-drained habitats including sandstone esca
 
 The Kakadu plum's most celebrated attribute is its extraordinary **ascorbic acid (vitamin C) content**. Reported concentrations range from 900 to 5,300 mg per 100 g fresh weight, representing 50–100 times the concentration found in oranges (Citrus sinensis).
 
-Vitamin C levels vary significantly with growing location, harvest timing, and post-harvest handling. Shade-dried fruit retains approximately 40–50% of fresh vitamin C content.
+Vitamin C levels vary significantly with growing location, [[cannabis-harvest-timing-visual-cues]], and post-harvest handling. Shade-dried fruit retains approximately 40–50% of fresh vitamin C content.
 
 Additional nutritional constituents include:
 
@@ -97,21 +97,21 @@ Key cultivation parameters include:
 
 - **Propagation**: Seed germination is erratic; scarification and heat treatment improve rates. Cutting propagation is possible but strike rates are modest.
 
-- **Climate**: Tropical monsoonal; annual rainfall 600–1,500 mm with a pronounced dry season. Temperature range 20–40°C.
+- **Climate**: Tropical monsoonal; annual rainfall 600–1,500 mm with a pronounced dry season. [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] 20–40°C.
 
 - **Soil**: Well-drained sandy loams to lateritic gravels; pH 5.5–7.0. The species tolerates low-nutrient substrates.
 
-- **Pests and diseases**: Relatively pest-free in native settings. Fruit fly (Bactrocera spp.) can affect commercial orchards.
+- **[[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]**: Relatively pest-free in native settings. Fruit fly (Bactrocera spp.) can affect commercial orchards.
 
 - **Yield**: Mature trees produce 5–30 kg of fruit per season. Harvesting is labor-intensive as fruit ripens asynchronously.
 
 ## Permaculture and Agroforestry Applications
 
-The Kakadu plum is well-suited to tropical food-forest systems in northern Australia. Its deep root system provides erosion control, and the leaf litter contributes to soil organic matter.
+The Kakadu plum is well-suited to tropical food-forest systems in northern Australia. Its deep root system provides [[permplant-willows-salix-erosion-control-fodder]], and the leaf litter contributes to soil [[hamilton-composting-and-organic-matter-management]].
 
 In agroforestry designs, T. ferdinandiana functions as a mid-canopy layer beneath taller emergent species such as Eucalyptus and Corymbia. Its semi-deciduous habit allows light penetration to understory crops during the dry season.
 
-The species is a candidate for **carbon farming** initiatives due to its woody growth habit and suitability for degraded tropical landscapes. Integration with native beekeeping provides additional pollination and honey production benefits.
+The species is a candidate for **carbon farming** initiatives due to its woody growth habit and suitability for degraded tropical landscapes. Integration with native beekeeping provides additional pollination and [[mollison-designers-beekeeping-honey-production-permaculture]] benefits.
 
 ## See Also
 

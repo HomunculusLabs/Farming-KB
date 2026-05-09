@@ -4,23 +4,25 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mushrooms, cultivation, indoor, fruiting, species, medicine, health]
-sources: []
+sources:
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # Reishi Cultivation Guide
 
-Reishi (Ganoderma lucidum) is one of the most revered mushrooms in traditional Chinese medicine, where it has been used for over 2,000 years as a tonic for longevity, vitality, and immune support. Known as "Lingzhi" in China and "Mannentake" in Japan, Reishi is now widely cultivated for both medicinal supplements and ornamental purposes.
+Reishi ([[stamets-reishi-ganoderma-lucidum-cultivation]]) is one of the most revered mushrooms in traditional Chinese medicine, where it has been used for over 2,000 years as a tonic for longevity, vitality, and immune support. Known as "Lingzhi" in China and "Mannentake" in Japan, Reishi is now widely cultivated for both medicinal supplements and ornamental purposes.
 
 ## Overview
 
-Reishi is a wood-decomposing polypore that produces large, kidney- or fan-shaped brackets with a distinctive lacquered, varnished appearance. Unlike most cultivated mushrooms, Reishi is primarily grown for its medicinal compounds rather than as food — it is extremely woody, bitter, and generally not considered palatable. It is, however, one of the most researched medicinal mushrooms in the world.
+Reishi is a wood-decomposing polypore that produces large, kidney- or fan-shaped brackets with a distinctive lacquered, varnished appearance. Unlike most [[fungi-cultivated-mushrooms-pathogens-competitors]], Reishi is primarily grown for its medicinal compounds rather than as food — it is extremely woody, bitter, and generally not considered palatable. It is, however, one of the most researched [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] in the world.
 
 ## Species and Varieties
 
 Several Ganoderma species are cultivated:
 
 - G. lucidum: the classic "red Reishi" of Asian medicine, most studied
-- G. tsugae: hemlock Reishi, native to eastern North America
+- G. tsugae: hemlock Reishi, native to [[polypore-fungi-eastern-north-america]] America
 - G. lingzhi: taxonomically separated from G. lucidum; the primary Lingzhi of Chinese commerce
 - G. oregonense: a large Pacific Northwest species used by some growers
 - G. sessile: a North American species increasingly cultivated for supplements
@@ -31,7 +33,7 @@ The red Reishi (G. lucidum and G. lingzhi) contains the highest concentrations o
 
 ### Triterpenes
 
-Triterpenes (ganoderic acids) are the primary bioactive compounds responsible for Reishi's bitter taste and many of its therapeutic effects:
+Triterpenes (ganoderic acids) are the primary [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] responsible for Reishi's bitter taste and many of its therapeutic effects:
 
 - Over 150 triterpenes identified
 - Anti-inflammatory, hepatoprotective, and anti-tumor properties
@@ -132,7 +134,7 @@ Spore collection: Reishi spores have a separate market. Some growers place paper
 ## Yield Expectations
 
 - Log cultivation: 50-100g dry weight per log per year; slower but higher quality
-- Bag cultivation: 100-200g fresh per bag; biological efficiency 40-70%
+- Bag cultivation: 100-200g fresh per bag; [[stamets-biological-efficiency-yield]] 40-70%
 - Bag cultivation is 2-3x faster but produces lower triterpene concentrations
 
 ## Common Problems
@@ -140,13 +142,9 @@ Spore collection: Reishi spores have a separate market. Some growers place paper
 - Green mold contamination: ensure thorough sterilization; Reishi is slow to colonize and can be outcompeted
 - Antlers only (no conks): CO2 too high, increase ventilation
 - Soft, watery growth: too humid; reduce humidity during conk stage
-- Cracking or splitting: rapid humidity fluctuations
-- No fruiting: temperature too low or insufficient light
-
 ## Related Topics
 
 - [[lions-mane-guide]] for another medicinal mushroom with neurological benefits
 - [[shiitake-cultivation-guide]] for log cultivation techniques
 - [[matsutake-mushroom]] for another mushroom valued in Asian traditional medicine markets
 - [[medicinal-mushroom-guide]]
-- [[mushroom-substrates]]

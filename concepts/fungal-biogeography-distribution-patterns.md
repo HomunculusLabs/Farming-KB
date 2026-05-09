@@ -1,5 +1,5 @@
 ---
-title: Fungal Biogeography and Distribution Patterns
+title: Fungal Biogeography and guzman-global-distribution-patterns-neurotropic-fungi
 created: 2026-04-26
 tags:
   - biogeography
@@ -18,9 +18,9 @@ type: concept
 
 Fungal biogeography examines the spatial distribution of fungal species
 across landscapes, continents, and ecosystems. Understanding these
-patterns is essential for biodiversity conservation, predicting the
-impacts of climate change, and interpreting how historical events such
-as glaciations and plate tectonics have shaped fungal communities. The
+patterns is essential for [[fungal-biodiversity-conservation-status]], predicting the
+impacts of [[dighton-fungi-climate-change-feedback]], and interpreting how historical events such
+as glaciations and plate tectonics have shaped [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]. The
 study of fungal biogeography remains one of the most challenging
 frontiers in mycology because fungal distributions are poorly
 documented compared to those of plants and animals.
@@ -38,8 +38,8 @@ high.
 
 ## Environmental Filtering and Habitat Preferences
 
-Fungal community composition is regulated strongly by climatic and
-edaphic factors. An experienced microfungal taxonomist reading a
+Fungal [[core-endorhiza-bacterial-community-composition-cannabis]] is regulated strongly by climatic and
+[[soil-edaphic-factors-microbial-communities]]. An experienced microfungal taxonomist reading a
 list of the most abundant fungi in a soil sample can often predict
 the prevailing vegetation and climate of the area of origin. Soil
 fungal similarity is an outstanding indicator of environmental

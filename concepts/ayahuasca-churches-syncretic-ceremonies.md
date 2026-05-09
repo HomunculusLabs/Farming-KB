@@ -1,8 +1,8 @@
 # Ayahuasca Churches and Syncretic Ceremonies
 
 ## Overview
-Syncretic folk religious ceremonies involving entheogenic plants represent
-a middle ground between purely shamanic healing rituals and Western
+[[metzner-syncretic-folk-religious-hallucinogenic-ceremonies]] religious ceremonies involving entheogenic plants represent
+a middle ground between purely [[metzner-shamanic-healing-and-divination-paradigm]] rituals and Western
 psychotherapy. These ceremonies, which typically involve larger groups than
 shamanic healing sessions (20–40 or even several hundred participants),
 emphasize community worship and celebration over individual healing and
@@ -10,7 +10,7 @@ divination. [[brazilian-ayahuasca-churches]]
 
 ### Three Major Traditions
 Brazil has at least three organized churches in which ayahuasca (called
-"hoasca" or "santo daime") is the main sacrament: Santo Daime, União do
+"hoasca" or "[[metzner-brazilian-ayahuasca-churches-structural-comparison-santo-daime-udv-barquinha]]") is the main sacrament: Santo Daime, União do
 Vegetal (UDV), and Barquinha. Each was founded by rubber tappers working in
 the Amazon region in the 1950s who came into contact with the hallucinogenic
 vine through mestizo or Indian ayahuasceros.
@@ -22,7 +22,7 @@ visionary founding parallels revelatory origins of many religious movements.
 
 ### Legal Recognition and Spread
 The churches are officially recognized and ayahuasca use is legal in Brazil
-within this framework. Two churches have satellite centers in North America
+within this framework. Two churches have satellite centers in [[psilocybin-north-america-pacific-northwest]]
 and Europe. This legal recognition represents a significant achievement in
 negotiating indigenous entheogenic practices with modern legal systems.
 
@@ -38,14 +38,14 @@ Amazonian shamanic practices.
 ## The Syncretic Pattern
 
 ### Catholic-Indigenous Fusion
-A consistent feature of syncretic entheogenic ceremonies is the fusion of
+A consistent feature of syncretic [[metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti]] is the fusion of
 indigenous plant medicine practices with elements of Catholic Christianity.
 This syncretism is not merely superficial overlay but represents genuine
 theological integration — Catholic saints, prayers, and liturgical structures
 are woven into ceremonies whose experiential core derives from pre-Columbian
 shamanic traditions.
 
-The Mazatec mushroom velada, for example, features a healer singing
+The [[maria-sabina-mazatec-mushroom-ceremony]] velada, for example, features a healer singing
 throughout the night, "weaving into his or her chants the names of Christian
 saints, spirit allies and the spirits of the Earth, the elements, animals
 and plants, the sky, the waters and the fire." This pattern of Catholic-

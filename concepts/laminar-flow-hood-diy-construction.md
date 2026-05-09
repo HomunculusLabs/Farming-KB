@@ -1,5 +1,5 @@
 ---
-title: DIY Laminar Flow Hood Construction
+title: DIY comparison-laminar-flow-hood-vs-fruiting-chamber Hood Construction
 created: 2026-04-13
 updated: 2026-04-15
 type: concept
@@ -8,20 +8,20 @@ sources: [/Users/t3rpz/wiki/raw/papers/laminar-flow-hood-construction-1.md]
 ---
 # DIY Laminar Flow Hood Construction
 
-A laminar flow hood is the single most important piece of [[sterile-technique-mushroom-cultivation]] in mushroom cultivation. It provides a continuous stream of HEPA-filtered air, creating a sterile workspace for inoculation, agar work, and spore handling.
+A laminar flow hood is the single most important piece of [[mushroom-cultivation-sterile-technique]] in [[accessible-mushroom-cultivation-for-disabilities]]. It provides a continuous stream of HEPA-filtered air, creating a sterile workspace for inoculation, agar work, and spore handling.
 
 ## How It Works
 
 Air is drawn through a three-stage filtration system:
 
-1. **Blower** draws room air into the unit
+1. **Blower** draws [[stamets-growing-room-air-circulation-co2-management]] into the unit
 2. **Filter pad** (prefilter) traps large dust particles
 3. **HEPA filter** (H14 class per EN 1822) removes 99.9% of airborne contamination including fungi, bacteria, and dust
 4. **Sterile laminar air** flows into the working area
 
 ## Critical Parameters
 
-- **HEPA filtration**: Must remove 99.9% of airborne material (filter class H14, EN 1822)
+- **[[growing-gourmet-hepa-filtration-laboratory-air-systems]]**: Must remove 99.9% of airborne material (filter class H14, EN 1822)
 - **Air speed in working area**: approximately **0.5 m/s** (100 fpm)
 - Airflow must be calculated based on HEPA filter dimensions
 
@@ -112,7 +112,7 @@ Before working in the flow hood:
 | Duration | Can work for hours | Limited by heat |
 | Cost | ~300 EUR | Minimal |
 | Space required | Needs dedicated area | Any kitchen |
-| Best for | High-volume, tissue culture | Occasional transfers |
+| Best for | High-volume, [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] | Occasional transfers |
 
 ## See Also
 

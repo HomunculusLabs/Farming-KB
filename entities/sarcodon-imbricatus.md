@@ -13,7 +13,7 @@ sources:
 
 ## Overview
 
-sarcodon imbricatus is an ectomycorrhizal basidiomycete fungus belonging to the family Bankeraceae in the order Thelephorales. It is a large, terrestrial mushroom found in association with coniferous trees in temperate and boreal forests of the Northern Hemisphere. The species is ecologically notable for its ability to accumulate and biotransform arsenic compounds, containing a mixture of inorganic arsenic and various organoarsenic species in its fruit bodies.
+sarcodon imbricatus is an ectomycorrhizal basidiomycete fungus belonging to the family Bankeraceae in the order Thelephorales. It is a large, terrestrial mushroom found in association with coniferous trees in temperate and [[fungal-diversity-boreal-forests-taiga]] of the Northern Hemisphere. The species is ecologically notable for its ability to accumulate and biotransform arsenic compounds, containing a mixture of inorganic arsenic and various organoarsenic species in its fruit bodies.
 
 ## Taxonomy
 
@@ -35,7 +35,7 @@ sarcodon imbricatus produces large, fleshy basidiocarps with the following chara
 - **Flesh:** Thick, firm, and white to pale buff. The flesh has a mild to slightly acrid taste and a mealy or somewhat unpleasant odor in some specimens.
 - **Hymenium:** The spore-bearing surface consists of decurrent teeth (spines) rather than gills or pores. The teeth are whitish to grayish-brown, becoming darker with age. Individuaspore-print 2 to 6 mm long and crowded.
 - **Stipe:** Central, thick, solid, and cylindrical, 3 to 10 cm long and 1 to 4 cm thick. The stipe surface is brown and typically scaly below the smooth zone near the apex. The flesh of the stipe is white to brownish.
-- **Spore print:** Brown to dark brown.
+- **[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Brown to dark brown.
 - **Spores:** Subglobose to broadly ellipsoidal, brownectomycorrhizal-fungiulate), measuring approximately 6 to 8 micrometers in diameter.
 - **Chemical reactions:** The flesh may show blue-green reactions with iron salts (FeSO4) or other chemical reagents.
 
@@ -45,7 +45,7 @@ sarcodon imbricatus is an obligate [[dighton-ericoid-mycorrhizal-nutrient-acquis
 
 ## Decomposer Organisms
 
-The ectomycorrhizal mycelium of sarcodon imbricatus interacts with soil bacteria and other fungi in the rhizosphere and mycorrhizosphere. These interactions may include competition for nutrients, synergistic relationships in organic matter decomposition, and the exchange of signaling molecules.
+The ectomycorrhizal mycelium of sarcodon imbricatus interacts with soil bacteria and other fungi in the rhizosphere and mycorrhizosphere. These interactions may include competition for nutrients, synergistic relationships in [[hamilton-composting-and-organic-matter-management]] decomposition, and the exchange of signaling molecules.
 
 ### Animal Interactions
 
@@ -55,7 +55,7 @@ The basidiocarps of sarcodon imbricatus are consumed by various forest animals, 
 
 ### Edibility
 
-sarcodon imbricatus is considered edible in some traditions but is not widely regarded as a choice edible mushroom. The flesh can be somewhat bitter or acrid, and some individuals report gastrointestinal upset after consumption. In some European countries, young specimens are collected and prepared for the table, often after parboiling to remove bitter compounds.
+sarcodon imbricatus is considered edible in some traditions but is not widely regarded as a choice [[bloomfield-boletus-satanus-edible-mushroom-hazards]]. The flesh can be somewhat bitter or acrid, and some individuals report gastrointestinal upset after consumption. In some European countries, young specimens are collected and prepared for the table, often after parboiling to remove bitter compounds.
 
 ### Bioremediation Potential
 
@@ -77,16 +77,18 @@ The accumulation of arsenic by sarcodon imbricatus and other higher fungi reflec
 
 ## Research Notes
 
-Dighton (2003) discusses sarcodon imbricatus in the context of metal accumulation and transformation by fungi, specifically its capacity to contain multiple arsenic species (inorganic arsenic, MA, DMA, and AB) within its fruit bodies. This research, conducted by Byrne et al. (1995) and Slejkovec et al. (1997), highlights the complexity of metal interactions in higher fungi and the important role that ectomycorrhizal species play in biogeochemical cycling of potentially toxic elements in forest ecosystems.
+Dighton (2003) discusses sarcodon imbricatus in the context of [[dighton-fungal-heavy-metal-accumulation-bioremediation]] and transformation by fungi, specifically its capacity to contain multiple arsenic species (inorganic arsenic, MA, DMA, and AB) within its fruit bodies. This research, conducted by Byrne et al. (1995) and Slejkovec et al. (1997), highlights the complexity of metal interactions in higher fungi and the important role that ectomycorrhizal species play in biogeochemical cycling of potentially toxic elements in forest ecosystems.
 
 ## See Also
+
+- [[sarcodon-scabrosus]]
 
 - [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]]
 
 - Sarcodon
 - Ectomycorrhiza
 - arsenic accumulation
-- heavy metal accumulation
+- [[dighton-fungal-biosorption-heavy-metal-remediation]] accumulation
 - Bankeraceae
 - Basidiomycota
 - [[sarcodon-scorodonium]]

@@ -1,16 +1,17 @@
 ---
-title: "Mycopesticides: Fungi as Natural Insect Control"
+title: "Mycopesticides: Fungi as Natural mushroom-pests-insect-control-stamets"
 created: 2026-04-26
 updated: "2025-04-23"
 sources:
-  - "raw/papers/mycelium-running-stamets.md"
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 tags: [fungi, mycelium]
 ---
 
 # Mycopesticides: Fungi as Natural Insect Control
 
-[[mycopesticides-entomopathogenic-fungi]] began
+mycopesticides-entomopathogenic-fungi began
 when his 1910 farmhouse, built in an old-growth forest clearing, was
 under attack by carpenter ants (Camponotus modoc). Wood-digesting fungi
 from an adjacent artist conk (Ganoderma applanatum) had softened the
@@ -37,7 +38,7 @@ fungal dimorphism, expressing themselves as either mold or mushroom.
 ## The Cordyceps-Zombie Ant Phenomenon
 
 Cordyceps lloydii, when infecting a carpenter ant, compels the insect
-to climb to a height optimal for spore dispersal before killing it --
+to climb to a height optimal for [[aquatic-fungi-spore-dispersal-ingold]] before killing it --
 a real-world example of behavioral manipulation. This zombie-ant
 phenomenon has evolved over millions of years as part of the predator-
 prey arms race between fungi and insects.
@@ -47,7 +48,7 @@ prey arms race between fungi and insects.
 Chemical pesticides, especially organophosphates, pose cascading
 health hazards:
 
-- Harm to nontargeted organisms including beneficial insects
+- Harm to nontargeted organisms including [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 - Water pollution from agricultural runoff
 - Bioaccumulation in human fatty tissues and bloodstream
 - Most citizens carry dozens of industrial toxins in their blood
@@ -99,7 +100,9 @@ The mycopesticide approach has vast potential for:
 
 ## See Also
 
-- mycelium running pest control with fungi -- existing page on pest control
+- [[woodlovers-mycelium-running-pathway-technique]] [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] with fungi -- existing page on pest control
 - [[cordyceps-and-entomopathogenic-fungi]] -- Cordyceps biology
 - [[medicinal-mushrooms]] -- medicinal properties
-- [[mycelium-running-symbiotic-fungi-relationships]] -- fungal ecology
+- [[mycelium-running-symbiotic-fungi-relationships]] -- [[gadd-fungal-ecology-endophytes]]
+
+- [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]]

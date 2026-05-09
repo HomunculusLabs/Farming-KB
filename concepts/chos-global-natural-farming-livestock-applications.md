@@ -1,5 +1,5 @@
 ---
-title: Cho's Global Natural Farming - Livestock Applications
+title: Cho's Global comparison-natural-farming-vs-permaculture - Livestock Applications
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,7 +10,7 @@ tags: [animal-husbandry, natural-farming]
 
 # Cho's Global Natural Farming - Livestock Applications
 
-Dr. Cho's Natural Farming extends beyond crop production to encompass a comprehensive system for raising livestock, particularly poultry. The livestock component of CGNF mirrors the same principles applied to crops: eliminate chemical inputs, leverage indigenous microorganisms, and design systems that work with natural biological processes rather than against them. The poultry management system described in Cho's Global Natural Farming is one of the most fully developed applications, providing a complete alternative to conventional factory farming.
+Dr. Cho's Natural Farming extends beyond crop production to encompass a comprehensive system for raising livestock, particularly poultry. The livestock component of CGNF mirrors the same principles applied to crops: eliminate chemical inputs, leverage [[beneficial-indigenous-microorganisms-bim]], and design systems that work with natural biological processes rather than against them. The poultry management system described in Cho's Global Natural Farming is one of the most fully developed applications, providing a complete alternative to conventional factory farming.
 
 ## Philosophy of NF Livestock Management
 
@@ -33,7 +33,7 @@ The system is built on three non-negotiable principles:
 
 ## Chicken Housing Design
 
-The NF chicken house is engineered to be self-maintaining -- no bad smell, no emissions, no cleaning needed, and no disease. Each structural element serves a specific purpose:
+The NF [[knf-chicken-house-design]] is engineered to be self-maintaining -- no bad smell, no emissions, no cleaning needed, and no disease. Each structural element serves a specific purpose:
 
 ### Roof
 
@@ -45,7 +45,7 @@ Made of steel wire mesh that disperses heat and allows continuous air convection
 
 ### Floor
 
-The flooring is soil-based and carpeted with rice straw chopped to 3 cm, layered approximately 7 cm thick (3 cm for broilers). FPJ, LAB, and IMO are added to the floor mixture to maintain a thriving microbial community that continuously breaks down chicken feces. This microbial activity eliminates odor entirely -- the feces do not need to be removed unless needed for compost. Chickens actually feed on the fermented products of their own feces, so removing all feces may negatively affect them. The floor serves simultaneously as feed producer, fertilizer factory, and waste treatment plant.
+The flooring is soil-based and carpeted with rice straw chopped to 3 cm, layered approximately 7 cm thick (3 cm for broilers). FPJ, LAB, and IMO are added to the floor mixture to maintain a thriving [[edaphic-factors-microbial-community-structure]] that continuously breaks down chicken feces. This microbial activity eliminates odor entirely -- the feces do not need to be removed unless needed for compost. Chickens actually feed on the fermented products of their own feces, so removing all feces may negatively affect them. The floor serves simultaneously as feed producer, fertilizer factory, and waste treatment plant.
 
 ### Water System
 
@@ -68,7 +68,7 @@ Newly hatched chicks receive unlimited whole brown rice grains. After three days
 
 ### Home-Made Feed Composition
 
-- Fresh green grass comprises approximately one-third of adult chicken feed
+- Fresh [[knf-green-grass-liquid-fertilizer]] comprises approximately one-third of adult chicken feed
 - Soil rich in microorganisms and fermented feces products can constitute 7-10% of total feed
 - Rice husks at 15-20% of feed (late February to mid-May) hold down the laying rate
 - Rice husks at up to 25% can maintain a 65-70% laying rate for three years
@@ -79,7 +79,7 @@ The book provides a detailed feed schedule showing the types and proportions of 
 
 NF poultry relies on preventive health through natural means rather than routine antibiotic and chemical treatments:
 
-- **Brown Rice Vinegar (BRV)** mixed with Water-Soluble Calcium is fed to chickens once every two days in summer to prevent feather loss
+- **Brown [[brown-rice-vinegar-brv]] (BRV)** mixed with Water-Soluble Calcium is fed to chickens once every two days in summer to prevent feather loss
 - **Seawater** diluted and used as drinking water (1:500 ratio) provides trace minerals
 - **LAB and FPJ** are sprayed in housing to maintain microbial health
 - **OHN** serves as a natural disease preventive

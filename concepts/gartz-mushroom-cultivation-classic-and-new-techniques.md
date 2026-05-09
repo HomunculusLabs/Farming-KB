@@ -1,5 +1,5 @@
 ---
-title: "Mushroom Cultivation: Classic and New Techniques"
+title: "accessible-mushroom-cultivation-for-disabilities: Classic and New Techniques"
 created: 2026-04-26
 updated: "2026-04-23"
 sources:
@@ -33,13 +33,13 @@ Mushroom propagation begins with basidiospores produced on the gills of
 fruiting bodies. When dispersed by wind and landing on favorable substrate
 with adequate nutrients, temperature, and moisture, spores germinate and
 produce monokaryotic mycelium (single nucleus per cell). When two compatible
-hyphae meet, they form dikaryotic mycelium ("mycelial network") with two
+hyphae meet, they form dikaryotic mycelium ("[[gadd-mycelial-network-dynamics]]") with two
 nuclei per cell. This dikaryotic mycelium eventually differentiates into
 spore-producing fruiting bodies, completing the life cycle.
 
 ## Fruiting Conditions
 
-The saprophytic species (all hallucinogenic mushrooms except the mycorrhizal
+The saprophytic species (all [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] except the mycorrhizal
 Inocybe species) fruit when four environmental conditions are met
 simultaneously:
 
@@ -57,10 +57,10 @@ given sufficient moisture and ideal temperatures.
 
 ## Two Methods of Strain Development
 
-Artificial cultivation imitates and optimizes these natural conditions. Two
+[[fukuoka-matsutake-artificial-cultivation-attempt]] imitates and optimizes these natural conditions. Two
 fundamental approaches exist for obtaining viable mycelial cultures:
 
-**Spore germination on agar.** With sterile procedures in place, a spore
+**[[growing-gourmet-spore-germination-strain-isolation]] on agar.** With sterile procedures in place, a spore
 solution is germinated on nutrient agar, commonly 3-6% malt extract with
 1.5% agar. Prior to germination, all substrates are autoclaved and
 sterilized with steam. The simultaneous germination of many spores produces
@@ -100,7 +100,7 @@ temperatures, only to begin growing anew when conditions improve.
 
 The dikaryotic mycelium spends most of its life in a purely vegetative
 state, spreading and utilizing nutritional resources without producing
-mushrooms. The transition from vegetative growth to fruiting requires the
+mushrooms. The transition from [[cannabis-vegetative-growth-stage]] to fruiting requires the
 precise environmental triggers listed above. For the majority of mushroom
 species, the specific conditions required to reach the fruiting phase have
 not yet been fully determined, which is why some species remain
@@ -114,6 +114,6 @@ Despite being the most widely used psychoactive mushroom in Europe,
 The challenges of cultivating temperate psychoactive species means that
 for many enthusiasts, wild foraging remains the primary means of obtaining
 these mushrooms -- a practice that carries its own risks, as discussed in
-the context of [[gartz-european-psychoactive-mushroom-species]]
+the context of gartz-european-psychoactive-mushroom-species
 - [[oyster-mushroom-species-fruiting-parameters]]
-- [[sterile-technique-mushroom-cultivation]]
+- [[mushroom-cultivation-sterile-technique]]

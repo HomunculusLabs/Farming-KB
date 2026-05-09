@@ -3,7 +3,7 @@
 ## Overview
 
 Masanobu Fukuoka's approach to fruit tree cultivation represented a radical
-departure from conventional orchard management. He argued that pruning — one
+departure from conventional [[fukuoka-orchard-management-detailed]]. He argued that pruning — one
 of the most basic and universally accepted practices in fruit production —
 was unnecessary and harmful. His "natural orchard" used a three-dimensional
 design that mimicked the structure of a natural forest, with fruit trees
@@ -63,14 +63,14 @@ directly competing with the fruit trees were left in place. This created a
 three-dimensional structure that resembled a natural forest edge rather
 than the two-dimensional rows of a conventional orchard.
 
-Fruit trees were established from seed rather than from grafted nursery
+Fruit trees were established from seed rather than from [[fukuoka-natural-seedlings-versus-grafted-nursery-stock]]
 stock. Fukuoka argued that grafted trees, with their artificially joined
 rootstock and scion, never developed the natural relationship between roots
 and canopy that characterized seed-grown trees. Seed-grown trees developed
 deeper root systems and more balanced canopies. They took longer to bear
 fruit — often seven to ten years compared to three to four years for grafted
 trees — but once they began bearing, they were more productive, longer-lived,
-and more resistant to pests and diseases.
+and more resistant to [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]].
 
 ## The Ground Cover System
 
@@ -79,7 +79,7 @@ clover, alfalfa, and other leguminous plants. This ground cover served
 multiple functions. It fixed nitrogen from the atmosphere, providing the
 fruit trees with a slow, continuous supply of nitrogen fertilizer. It
 suppressed weeds by competing for light and space. It maintained soil
-moisture by reducing evaporation. It provided habitat for beneficial
+moisture by reducing evaporation. It provided [[query-how-do-i-design-habitat-for-beneficial-insects]]
 insects that controlled pest populations. And it added organic matter to
 the soil as it grew and was periodically mowed.
 
@@ -98,7 +98,7 @@ plant community and healthy soil created conditions unfavorable to pest
 outbreaks. Fukuoka observed that pest problems in conventional orchards
 were largely caused by the orchard management practices themselves. Pruning
 created wounds that invited disease. Clean cultivation beneath the trees
-destroyed the habitat of predatory insects. Fertilizer application
+destroyed the habitat of predatory insects. [[cervantes-fertilizer-application-strain-feeding]]
 produced lush, soft growth that was attractive to pests. The monoculture
 of identical trees provided an ideal environment for pests to multiply
 without natural controls.
@@ -114,7 +114,7 @@ the absence of pruning wounds reduced entry points for pathogens.
 Fukuoka described specific cases of pest management in his orchard. Arrowhead
 scale insects were controlled by a combination of ladybug predators and the
 natural defense responses of healthy trees. Mite populations were kept in
-check by predatory mites that lived in the ground cover. Cottony-cushion
+check by [[comparison-predatory-mites-vs-ladybugs-biocontrol]] that lived in the ground cover. Cottony-cushion
 scale was managed by the vedalia beetle, a natural predator that was
 present in the orchard because of the diverse vegetation.
 

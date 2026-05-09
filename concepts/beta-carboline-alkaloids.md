@@ -19,8 +19,8 @@ sources:
 
 Beta-carboline alkaloids are a family of tricyclic compounds derived from the
 condensation of [[banisteriopsis-caapi]] (the primary
-vine component of aypeganum-harmalaum harmala (Syrian rue), and numerous
-other botanical sources. Beta-carbolines have diverse pharmacological
+vine component of aypeganum-harmalaum harmala ([[golden-guide-syrian-rue-and-maoi-plants]]), and numerous
+other [[dmt-botanical-sources-pharmacology]]. Beta-carbolines have diverse pharmacological
 activities including monoamine oxidase inhibition, serotonergic modulation,
 and interactions with benzodiazepine and imidazoline receptors.
 
@@ -107,15 +107,15 @@ The beta-carboline compound methyl-beta-carboline-3-carboxylate (FG-7142)
 was widely used in research as an anxiogenic probe to study the role of
 GABAergic neurotransmission in anxiety disorders. The discovery that
 beta-carbolines could produce effects opposite to benzodiazepines at the
-same receptor site was a landmark finding in psilocybin serotonin 5ht2a,
-demonstrating that a single receptor site could mediate opposing functional
+same receptor site was a landmark finding in [[powell-psilocybin-serotonin-pathways-environmental-chemistry]] 5ht2a,
+demonstrating that a [[phytochrome-discovery-butler-single-receptor-model]] site could mediate opposing functional
 effects.
 
 ## Cultural and Ethnobotanical Significance
 
 Beta-carboline-containing plants have been used across diverse cultures for
 medicinal and ceremonial purposes. Banisteriopsis caapi is revered in
-and amazonian shamanism as a sacred plant teacher, often referred to simply as
+and [[mckenna-food-gods-amazonian-shamanism-ayahuasca]] as a sacred plant teacher, often referred to simply as
 "la medicina" (the medicine). [[ayahuasca-preparation]], combining MAO-inhibiting beta-carbolines with and maoi combination plants, represents one of the most remarkable examples of
 indigenous pharmacological discovery. This knowledge was developed without
 any understanding of modern biochemistry and likely required extensive

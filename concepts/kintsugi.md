@@ -62,7 +62,7 @@ Others are bold, branching, and almost cartographic.
 The aesthetic power lies in the tension between fragility and renewed usefulness.
 
 ## History 
-Kintsugi is commonly associated with the Mukombucha-brewing-and-fermented-tea-cultur kombucha brewing and fermented tea culture e rise of tea culture.
+Kintsugi is commonly associated with the Mukombucha-brewing-and-fermented-tea-cultur [[query-how-does-kombucha-brewing-work]] and [[kombucha-and-fermented-teas-guide]] culture e rise of tea culture.
 One often repeated story concerns shogun Ashikaga Yoshimasa and a damaged Chinese tea bowl.
 According to the story, unsatisfactory metal staple repairs encouraged Japanese artisans to develop a more refined method.
 The historical details are difficult to verify, but the tale captures a real cultural shift.

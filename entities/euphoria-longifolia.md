@@ -20,7 +20,7 @@ created: 2026-04-28
 
 ## Overview
 
-**Euphoria longifolia** (syn. *Eurycoma longifolia* Jack) is a flowering plant in the family Simaroubaceae, native to Southeast Asia.
+**Euphoria longifolia** (syn. *Eurycoma longifolia* Jack) is a flowering plant in the family Simaroubaceae, native to [[psilocybe-southeast-asia-pacific]].
 
 It is widely known by its Malay name **tongkat ali** (literally "Ali's walking stick") and has a long history of use as a traditional aphrodisiac, energy tonic, and antimalarial remedy.
 
@@ -70,11 +70,11 @@ Root quality is standardized by eurycomanone content, with pharmacopoeial specif
 
 Animal studies demonstrate that eurycomanone and related quassinoids increase serum testosterone levels through stimulation of the hypothalamic-pituitary-gonadal axis and partial inhibition of sex hormone-binding globulin (SHBG).
 
-Human clinical trials have shown modest increases in free testosterone, improved sperm motility, and reduced cortisol levels in moderately stressed subjects.
+Human [[mushroom-cancer-clinical-trials-overview]] have shown modest increases in free testosterone, improved sperm motility, and reduced cortisol levels in moderately stressed subjects.
 
 Antimalarial activity has been documented against *Plasmodium yoelii* in rodent models, with quassinoids acting as antimalarial principles.
 
-Anti-cancer properties have been investigated in vitro, with eurycomanone demonstrating cytotoxicity against breast, lung, and prostate cancer cell lines via apoptosis induction.
+Anti-cancer properties have been investigated in vitro, with eurycomanone demonstrating cytotoxicity against breast, lung, and prostate [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines via apoptosis induction.
 
 Anti-inflammatory and anti-oxidant activities have been confirmed through NF-κB pathway modulation and free radical scavenging assays.
 
@@ -88,9 +88,9 @@ Root harvest typically begins at 4–5 years of age, with optimal bioactive comp
 
 The plant grows slowly in shade conditions (0.5–1 cm stem diameter per year) but responds to moderate light with accelerated growth.
 
-Current cultivation efforts in Malaysia use tissue culture micropropagation to supplement wild harvests.
+Current cultivation efforts in Malaysia use [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] micropropagation to supplement wild harvests.
 
-Plant spacing of 1 × 2 meters is recommended, with organic matter amendments and mulching to maintain soil moisture.
+Plant spacing of 1 × 2 meters is recommended, with [[hamilton-composting-and-organic-matter-management]] amendments and mulching to maintain soil moisture.
 
 ## Ethnobotany
 
@@ -115,6 +115,8 @@ Malaysia has implemented export regulations and sustainable harvesting guideline
 CITES Appendix II listing has been proposed but not yet enacted as of 2025.
 
 ## See Also
+
+- [[eurycoma-longifolia]]
 
 - [[piper-methysticum]]
 - [[salvia-officinalis]]

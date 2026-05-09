@@ -1,5 +1,5 @@
 ---
-title: Beneficial Insects and Pollinators in the Garden
+title: comparison-beneficial-insects-guide-vs-integrated-pest-management and Pollinators in the Garden
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -11,13 +11,13 @@ sources:
 
 **Updated:** 2026-04-18
 
-Attracting beneficial insects and pollinators is one of the most effective strategies for natural pest control and garden productivity. A garden that supports a diverse population of insects, birds, and other helpful animals requires far less intervention than one that relies on chemical controls. This approach is central to [[permaculture-insectary-plants]] and [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]] approach to garden design.
+Attracting beneficial insects and pollinators is one of the most effective strategies for [[cho-natural-pest-control-methods]] control and garden productivity. A garden that supports a diverse population of insects, birds, and other helpful animals requires far less intervention than one that relies on chemical controls. This approach is central to [[permaculture-insectary-plants]] and [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]] approach to [[comparison-mandala-garden-design-vs-keyhole-garden-design]].
 
 ## Designing for Beneficial Insects
 
 ### Provide Continuous Bloom
 Plant species that flower in succession:
-- **Early spring:** Crocus, snowdrops, hellebore, fruit tree blossoms, clover
+- **[[coleman-overwintered-onions-and-early-spring-crops]]:** Crocus, snowdrops, hellebore, fruit tree blossoms, clover
 - **Late spring:** Phacelia, clover, chives, catmint, yarrow
 - **Summer:** Dill, fennel, sunflowers, zinnias, coneflowers, basil, lavender
 - **Fall:** Asters, goldenrod, sedum, Japanese anemone, witch hazel
@@ -60,9 +60,9 @@ To attract birds:
 | Cabbage worm | Parasitic wasps | Dill, mint family plants |
 | Tomato hornworm | Braconid wasps | Small-flowered plants |
 | Slugs | Ground beetles, frogs | Ground cover, rock piles |
-| Spider mites | Ladybugs, lacewings | Drought-stressed plants attract them; avoid over-fertilizing |
+| [[cervantes-spider-mites-identification-control]] | Ladybugs, lacewings | Drought-stressed plants attract them; avoid over-fertilizing |
 | Whiteflies | Encarsia wasps | Marigolds, thyme |
-| Japanese beetle | Tiphia wasps, nematodes | White clover (attracts Tiphia) |
+| Japanese beetle | Tiphia wasps, nematodes | [[fukuoka-white-clover-cover-crop-system]] (attracts Tiphia) |
 
 ## See Also
 
@@ -71,7 +71,7 @@ To attract birds:
 
 - [[permaculture-insectary-plants]]
 - [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]]
-- [[chicken-integration-permaculture-guide]]
+- chicken-integration-permaculture-guide
 
 ## Source
 

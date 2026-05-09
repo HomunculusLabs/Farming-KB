@@ -1,5 +1,5 @@
 ---
-title: "Weed Management Without Chemicals"
+title: "fukuoka-weed-management-and-green-manure Without Chemicals"
 created: 2026-04-28
 tags: [weeds, organic-gardening, cultivation, garden-maintenance]
 date: 2026-04-28
@@ -11,14 +11,14 @@ type: concept
 
 # Weed Management Without Chemicals
 
-Steve Solomon advocates a systematic, non-chemical approach to weed control
+Steve Solomon advocates a systematic, non-chemical approach to [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
 that relies on timing, sharp tools, and understanding weed biology. The core
 principle is that no weed in creation can survive if its leaves are
 repetitively removed before they can manufacture food through photosynthesis.
 
 ## The Weekly Weeding Cycle
 
-If the garden is weeded once a week during the growing season, there will
+If the garden is weeded once a week during the [[savory-growing-season-and-non-growing-season-management]], there will
 never be large, resistant weeds to chop out. All of them will be killed
 rapidly and with little effort when they are small and tender. Solomon
 reports that he can weed 2,000 square feet (200 square meters) of growing
@@ -78,7 +78,7 @@ digging eliminates them before they can reproduce.
 One of Solomon's key arguments for wider plant spacing is that it makes
 weed control far easier. Because the rows are so far apart in his
 recommended extensive spacing system, hoeing weeds is simple. He grew
-his variety trials grounds using wide spacing and during the main growing
+his variety trials grounds using [[solomon-wide-spacing-versus-intensive-gardening-debate]] and during the main growing
 season, when weeds were growing their fastest, he kept a half acre
 weed-free with only one short morning's hoeing each week.
 
@@ -134,7 +134,7 @@ reserves. Consistent weekly attention will eventually exhaust even the
 most stubborn perennial.
 
 Solomon notes that once the garden has been established for a few years
-and the soil has been improved with organic matter and proper
+and the soil has been improved with [[hamilton-composting-and-organic-matter-management]] and proper
 fertilization, the vegetable crop itself becomes increasingly competitive
 against weeds, further reducing the ongoing weeding burden.
 

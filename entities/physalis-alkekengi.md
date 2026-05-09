@@ -21,7 +21,7 @@ sources:
 
 Physalis alkekengi, commonly known as Chinese lantern, bladder cherry, or Japanese lantern, is a perennial herbaceous plant in the family Solanaceae. It is widely recognized for its inflated, bright orange-red calyx that encloses the berry.
 
-The species is native to temperate Eurasia, ranging from Europe through Central Asia to Japan. It has been introduced widely as an ornamental and has naturalized in parts of North America.
+The species is native to temperate Eurasia, ranging from Europe through Central Asia to Japan. It has been introduced widely as an ornamental and has naturalized in parts of [[psilocybin-north-america-pacific-northwest]].
 
 The dried calyx (jin deng long in Chinese, chōsen-asagao in Japanese) is a traditional medicinal material used across East Asian and European herbal systems. The berry is edible when fully ripe but unripe fruit and calyx contain solanine-related alkaloids.
 
@@ -51,11 +51,11 @@ The species colonizes open woodlands, forest margins, grassy slopes, riverbanks,
 
 It is hardy to USDA Zone 3 (−40 °C), making it one of the most cold-tolerant Physalis species. In colder parts of its range, aerial growth dies back completely in winter and regenerates from the rhizome in spring.
 
-Naturalized populations occur in eastern North America, where the species was introduced as an ornamental. It is considered invasive in some areas due to aggressive rhizomatous spread.
+Naturalized populations occur in [[polypore-fungi-eastern-north-america]] America, where the species was introduced as an ornamental. It is considered invasive in some areas due to aggressive rhizomatous spread.
 
 ## Cultivation
 
-Propagation is primarily by rhizome division in early spring or by seed. Seeds require cold stratification (4 °C, 4–6 weeks) and germinate in 2–4 weeks at 20 °C.
+Propagation is primarily by rhizome division in [[coleman-overwintered-onions-and-early-spring-crops]] or by seed. Seeds require cold stratification (4 °C, 4–6 weeks) and germinate in 2–4 weeks at 20 °C.
 
 Plants prefer full sun to partial shade and are tolerant of poor soils. The species is drought-tolerant once established but produces larger fruit and calyces with regular watering.
 
@@ -63,7 +63,7 @@ The ornamental form is grown for its dried calyxes, which are harvested when ful
 
 Medicinal root harvest occurs in autumn of the third or fourth year. Roots are washed, sliced, and dried at temperatures below 50 °C to preserve labile withanolide compounds.
 
-The species is relatively pest-free but can be affected by aphids, flea beetles, and Verticillium wilt. Root rot in poorly drained soils is the most common cause of plant loss.
+The species is relatively pest-free but can be affected by aphids, flea beetles, and Verticillium wilt. [[cannabis-root-rot-prevention-and-treatment]] in poorly drained soils is the most common cause of plant loss.
 
 ## Chemistry and Pharmacology
 
@@ -73,7 +73,7 @@ Physalins demonstrate potent anti-inflammatory activity by inhibiting NF-κB and
 
 The species also contains withanolides, flavonoids (luteolin, quercetin, myricetin glycosides), and organic acids (citric, malic). Total withanolide content in dried calyx ranges from 0.5–2.0%.
 
-Antimicrobial activity has been documented against Staphylococcus aureus, Escherichia coli, and Candida albicans. The crude extract exhibits moderate immunosuppressive effects in murine models of autoimmune disease.
+Antimicrobial activity has been documented against Staphylococcus aureus, Escherichia coli, and [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]. The crude extract exhibits moderate immunosuppressive effects in murine models of autoimmune disease.
 
 Unripe fruit and fresh calyx contain physalins and solanaceous glycoalkaloids that cause gastrointestinal irritation. Ripe fruit is considered safe for consumption; calyx preparations require proper drying and processing.
 
@@ -101,7 +101,7 @@ Recent studies have investigated physalins as potential anticancer agents. Physa
 
 Physalin A shows immunosuppressive activity in models of rheumatoid arthritis, reducing joint swelling and inflammatory cytokine production at doses of 5–10 mg/kg in rats.
 
-Standardized extracts of P. alkekengi calyx are under development as phytomedicines for upper respiratory tract infections. A multi-center clinical trial in China reported efficacy comparable to standard antibiotics for acute pharyngitis.
+Standardized extracts of P. alkekengi calyx are under development as phytomedicines for upper respiratory tract infections. A multi-center [[psilocybin-clinical-trial-landscape-2020-2025]] in China reported efficacy comparable to standard antibiotics for acute pharyngitis.
 
 ## See Also
 

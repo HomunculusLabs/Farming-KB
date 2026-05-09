@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [psilocybe, weilii, species-profile, identification]
 date: 2026-04-25
 updated: 2026-04-25
-sources: [raw/papers/psilocybin-mushrooms-of-the-world-stamets.md]
+sources: sources: []
 type: concept
 ---
 
@@ -13,9 +13,9 @@ type: concept
 ## Overview
 
 Psilocybe weilii nom. prov. is a bluing, lignicolous Psilocybe species
-first reported from northern Georgia in the southeastern United States.
+first reported from northern Georgia in the southeastern [[dmt-containing-plants-united-states-halpern]].
 Discovered after Hurricane Opal swept through the region in 1995, this
-relatively rare species is notable for its strong bluing reaction, its
+relatively rare species is notable for its strong [[field-guide-psilocybin-bluing-reaction-identification]], its
 tendency to form clusters (cespitose growth), and its moderate to high
 potency. The name honors [[psilocybe-baeocystis]], Psilocybe
 aztecorum, and Psilocybe heliconia in terms of its morphological
@@ -112,7 +112,7 @@ the cap surface to confirm viscidity.
 
 - Psilocybe Aztecorum
 - [[psilocybe-caerulescens]]
-- [[bigwood-beug-psilocybin-psilocin-variation-analysis]]
+- bigwood-beug-psilocybin-psilocin-variation-analysis
 - lignicolous-psilocybe-species
 - southeastern us psilocybe
 - bluing reaction mechanism

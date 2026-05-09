@@ -1,11 +1,11 @@
 ---
-title: Grain Processing and Milling Guide
+title: Grain grain processing and milling guide Guide
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources: []
 ---
 
 # Grain Processing and Milling Guide
@@ -50,7 +50,7 @@ Separate chaff from grain:
 - Or toss with a pitchfork
 - Or use a winnowing tray (frame with screen)
 - For beans: pour back and forth between two tubs on a windy day
-- Save chaff for livestock feed
+- Save chaff for [[livestock-feed-formulation]]
 - Save straw or pile in field for animals
 
 ## Seed Saving
@@ -94,9 +94,9 @@ Three options for home milling:
 3. **Electric mill**: quickest and easiest; single pass
 
 ### Flour Yields
-- Coarsest electric mill setting: grits (for cereal and animal feed)
+- Coarsest electric mill setting: grits (for cereal and [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]])
 - Finest setting: cake flour
 - Generally, 1 cup of grain makes 1.5 cups of flour
 
-See also: [[grain-harvesting-and-storage]], [[faires-grain-harvesting-and-processing]], [[fukuoka-barley-winter-grain-method]]
+See also: [[grain-harvesting-and-storage]], faires-grain-harvesting-and-processing, [[fukuoka-barley-winter-grain-method]]
 - [[home-garden-seed-saving]]

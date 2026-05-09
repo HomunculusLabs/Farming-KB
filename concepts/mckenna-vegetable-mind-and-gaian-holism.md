@@ -1,5 +1,5 @@
 ---
-title: McKenna Vegetable Mind and Gaian Holism
+title: McKenna mckenna vegetable mind and gaian holism and Gaian Holism
 created: 2026-04-28
 tags: [philosophy, consciousness, gaian-theory, entheogens, mckenna]
 date: 2026-04-25
@@ -13,7 +13,7 @@ type: concept
 The concepts of the "vegetable mind" and "Gaian holism" represent
 [[eleusinian-mysteries]] by Christian authorities in
 approximately 268 CE. Before this, awareness of the "vegetable Logos"
-continued as an esoteric but diminished presence from Minoan Crete
+continued as an esoteric but diminished presence from [[mckenna-food-gods-minoan-crete-mushroom-religion]]
 through classical Greece. The consequence of this severed connection is,
 in McKenna's view, "the modern world, a planet dying under moral
 anesthesia." He bases this historical argument on observation of Amazon
@@ -54,7 +54,7 @@ with the plant kingdom.
 
 These concepts are inseparable from McKenna's broader partnership and
 dominator models. The vegetable mind represents the cognitive dimension
-of the partnership society, while its suppression enabled dominator
+of the [[mckenna-dominator-vs-partnership-society-model]], while its suppression enabled dominator
 culture to flourish. The return to Gaian holism is thus not merely a
 philosophical exercise but a concrete political and ecological program.
 McKenna links the recovery of the vegetable mind to practical outcomes
@@ -67,7 +67,7 @@ with the biosphere from which it originally emerged.
 A key element of McKenna's framework is the concept of "psychedelic
 exopheromones," compounds produced by plants that regulate the
 symbiotic relationship between humans and the plant kingdom. Just as
-insect pheromones mediate chemical communication between members of
+insect pheromones mediate [[bloomfield-siren-songs-fungal-chemical-communication-reproduction-chapter-7]] between members of
 a species, McKenna proposes that psilocybin and related tryptamines
 function as exopheromones mediating communication across species
 boundaries. Without awareness of these exopheromones and the
@@ -92,6 +92,8 @@ criticisms, the concepts remain influential in psychedelic studies,
 ecophilosophy, and the broader discourse on human-nature relationships.
 
 ## See Also
+
+- [[mckenna-jaynes-bicameral-mind-breakdown]]
 
 - [[mckenna-food-of-the-gods-dominance-culture-and-ego]]
 - [[mckenna-eleusinian-mysteries]] and kykeon

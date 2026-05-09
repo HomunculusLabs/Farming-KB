@@ -11,15 +11,14 @@ sources:
 
 # Cecil T. Ingold
 
-Cecil Terence Ingold (1905–2010) was a British mycologist who discovered the Ingoldian fungi — a major group of aquatic hyphomycetes with spectacularly shaped spores found in freshwater habitats worldwide. His 1938 discovery opened an entirely new field of mycological research and he lived to age 105, making him one of the longest-lived mycologists in history.
+Cecil Terence Ingold (1905–2010) was a British mycologist who discovered the Ingoldian fungi — a major group of [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]] with spectacularly shaped spores found in freshwater habitats worldwide. His 1938 discovery opened an entirely new field of mycological research and he lived to age 105, making him one of the longest-lived mycologists in history.
 
 ## Biography
 
 - Professor at University of Leicester when he made his landmark discovery in 1938
 - Found extraordinary spores in foam collecting in an alder-lined brook near his home
-- Author of *The Biology of Fungi* and numerous monographs on aquatic fungi
+- Author of *The Biology of Fungi* and numerous monographs on [[bloomfield-ingoldian-aquatic-fungi-spore-dispersal]]
 - His initial presentation to the British Mycological Society was dismissed by a Cambridge colleague who claimed they were merely plant hairs — a rejection later recognized as one of the great misjudgments in mycological history
-
 
 ## The Discovery
 
@@ -27,7 +26,7 @@ Ingold found that foam in fast-flowing creeks trapped and concentrated spores of
 
 ## Biology of Ingoldian Fungi
 
-Ingoldian spores reach concentrations of 20,000 per liter of water in late fall and early winter. As spores flow downstream, they colonize submerged leaves and spawn mycelia that soften and macerate plant tissues by secreting cellulose-degrading enzymes. Hyphae thoroughly insinuate themselves in decaying leaves, raising protein content as dead plant matter is transformed into living fungus. This microbial processing is a boon for tiny crustaceans that flourish on the resulting compost. Ingoldians exit by sprouting forests of hyphae at the leaf surface, forming a canopy of spores. The largest Ingoldian spore (*Actinospora*) spans 0.5mm in diameter — the largest spore formed by any fungus.
+Ingoldian spores reach concentrations of 20,000 per liter of water in late fall and early winter. As spores flow downstream, they colonize submerged leaves and spawn mycelia that soften and macerate plant tissues by secreting cellulose-degrading enzymes. Hyphae thoroughly insinuate themselves in decaying leaves, raising protein content as dead plant matter is transformed into living fungus. This microbial processing is a boon for tiny crustaceans that flourish on the resulting compost. Ingoldians exit by sprouting forests of hyphae at the [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]], forming a canopy of spores. The largest Ingoldian spore (*Actinospora*) spans 0.5mm in diameter — the largest spore formed by any fungus.
 
 ## Three-Point Landing Mechanism
 
@@ -68,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

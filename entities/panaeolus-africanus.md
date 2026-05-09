@@ -56,7 +56,7 @@ niche. The species has been found on elephant dung at the Seattle Zoo,
 demonstrating its ability to colonize exotic substrates far from its
 native range. The commercial distribution of "zoo-doo" as garden
 fertilizer provides a plausible mechanism for the species' spread to
-gardens and pastures in North America and elsewhere. Fruiting occurs
+gardens and pastures in [[psilocybin-north-america-pacific-northwest]] and elsewhere. Fruiting occurs
 primarily during spring and rainy seasons, when moisture conditions
 favor the rapid lifecycle of coprophilous fungi.
 
@@ -69,11 +69,13 @@ other continents. Its robust stature, viscid cap, and whitish
 coloration distinguish it visually. The variable psychoactive
 content suggests inconsistency in alkaloid production, potentially
 influenced by substrate composition. This species highlights the
-adaptability of Panaeolus mushrooms to new ecological niches and
-raises questions about the undocumented global spread of tropical
+adaptability of [[schultes-panaeolus-mushrooms-shamanic]] to new ecological niches and
+raises questions about the undocumented [[pf-tek-global-spread-and-cultural-impact]] of tropical
 coprophilous fungi through horticultural practices.
 
 ## See Also
+
+- [[panaeolus-venenosus]]
 - [[panaeolus-cyanescens-entity]]
 - [[panaeolus-subbalteatus]]
 - [[psilocybe-cubensis]]

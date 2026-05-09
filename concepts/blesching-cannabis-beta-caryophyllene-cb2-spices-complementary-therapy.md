@@ -4,7 +4,7 @@ tags: [beta-caryophyllene, CB2, spices, endocannabinoid-system, dietary-cannabin
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Uwe Blesching, "The Cannabis Health Index" (2017), pp. 760-839, 2990-3025created: 2026-05-07
+  - Uwe Blesching, "The blesching-cannabis-health-index-autoimmune-conditions" (2017), pp. 760-839, 2990-3025created: 2026-05-07
 type: concept
 
 created: 2026-05-07
@@ -14,11 +14,11 @@ created: 2026-05-07
 
 ## Overview
 
-(E)-beta-caryophyllene ((E)-BCP) is a fully FDA-approved dietary cannabinoid found in common kitchen spices that activates CB2 receptor sites in the endocannabinoid system. It initiates potent anti-inflammatory actions and provides protection from oxidative stress, both commonly associated factors in pathogen-based inflammations and chronic disease. The Cannabis Health Index (CHI) identifies (E)-BCP as a bridge between culinary tradition and cannabinoid therapeutics.
+(E)-beta-caryophyllene ((E)-BCP) is a fully FDA-approved dietary cannabinoid found in common kitchen spices that activates CB2 receptor sites in the endocannabinoid system. It initiates potent anti-inflammatory actions and provides protection from [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], both commonly associated factors in pathogen-based inflammations and chronic disease. The Cannabis Health Index (CHI) identifies (E)-BCP as a bridge between culinary tradition and cannabinoid therapeutics.
 
 ## What Is Beta-Caryophyllene?
 
-(E)-beta-caryophyllene is a sesquiterpene found in the essential oils of numerous spice plants and in Cannabis sativa itself. Unlike THC, which primarily activates CB1 receptors (producing psychoactive effects), (E)-BCP selectively targets CB2 receptors, which are concentrated in the immune system and peripheral tissues. This CB2 selectivity means it can deliver anti-inflammatory and immunomodulatory benefits without intoxication.
+(E)-beta-caryophyllene is a sesquiterpene found in the [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] of numerous spice plants and in [[comparison-cannabis-sativa-vs-cannabis-indica]] itself. Unlike THC, which primarily activates CB1 receptors (producing psychoactive effects), (E)-BCP selectively targets CB2 receptors, which are concentrated in the immune system and peripheral tissues. This CB2 selectivity means it can deliver anti-inflammatory and immunomodulatory benefits without intoxication.
 
 Research has shown that (E)-BCP protects against microbes, inflammation, oxidative stress, pain, and cancer. Because it is a food-based cannabinoid with full FDA approval, it represents an accessible form of endocannabinoid system support available to everyone.
 
@@ -60,7 +60,7 @@ At 25% (E)-BCP content, Indian bay-leaf is a prominent herb in Ayurvedic traditi
 
 ### Grains of Paradise (*Aframomum melegueta*)
 
-Measuring 22% (E)-BCP, Grains of Paradise (also called Alligator Pepper) offers a wide therapeutic profile. Supported by scientific studies, it promotes wound healing through cell membrane support, functions as an antioxidant, anti-inflammatory, analgesic, molluscicidal (destroys snails), anti-diarrheal agent, and antimicrobial agent. It may also enhance sexual interest and function.
+Measuring 22% (E)-BCP, Grains of Paradise (also called Alligator Pepper) offers a wide therapeutic profile. Supported by scientific studies, it promotes wound healing through [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] support, functions as an antioxidant, anti-inflammatory, analgesic, molluscicidal (destroys snails), anti-diarrheal agent, and antimicrobial agent. It may also enhance sexual interest and function.
 
 ### Black Pepper (*Piper nigrum*)
 
@@ -72,7 +72,7 @@ Ceylon cinnamon contains 7 to 11% (E)-BCP. Additional medicinal properties inclu
 
 ### African Basil (*Ocimum micranthum*)
 
-At 14% (E)-BCP, African basil also demonstrates antimicrobial properties against giardia, may assist in dyspepsia and high blood pressure (diuretic), is potentially effective against cholera-induced diarrhea, and has antiviral activity against herpes virus I and II, adenoviruses, hepatitis B virus, and RNA viruses including coxsackievirus B1 and enterovirus 71. It also shows antibacterial effects against middle-ear infections and anti-inflammatory properties.
+At 14% (E)-BCP, African basil also demonstrates [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] against giardia, may assist in dyspepsia and high blood pressure (diuretic), is potentially effective against cholera-induced diarrhea, and has antiviral activity against herpes virus I and II, adenoviruses, hepatitis B virus, and RNA viruses including coxsackievirus B1 and enterovirus 71. It also shows antibacterial effects against middle-ear infections and anti-inflammatory properties.
 
 ### Rosemary (*Rosmarinus officinalis*)
 
@@ -92,3 +92,7 @@ At approximately 4% (E)-BCP, clove offers a remarkably broad therapeutic profile
 
 - [[cannabis-indoor-growing-basics]] for curcumin as complementary therapy
 - [[blesching-cannabis-telomeres-telomerase-longevity]] for CB2 in anti-aging
+
+## See Also
+
+- [[blesching-cannabis-clove-medicinal-cb2-botanical]]

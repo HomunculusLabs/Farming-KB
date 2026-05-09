@@ -68,7 +68,7 @@ The related species *Cola acuminata* (Schott & Endl.) produces the bitter kola, 
 
 *C. nitida* is native to the **humid tropical lowland forests** of West Africa, from Sierra Leone eastward through Liberia, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, and into Cameroon.
 
-It is widely cultivated throughout its native range and has been introduced to tropical regions of the Americas, Southeast Asia, and the Indian Ocean islands.
+It is widely cultivated throughout its native range and has been introduced to tropical regions of the Americas, [[psilocybe-southeast-asia-pacific]], and the Indian Ocean islands.
 
 The species grows at low elevations (0–500 m) in areas with **annual rainfall of 1,200–2,500 mm** and mean temperatures of 25–30°C.
 
@@ -108,7 +108,7 @@ John Stith Pemberton included kola nut extract as a key ingredient in the origin
 
 As a shade-tolerant canopy tree, it provides **microclimate regulation** for understory crops, reducing temperature extremes and evapotranspiration.
 
-The species contributes to **soil conservation** through leaf litter decomposition and root systems that help prevent erosion on sloping terrain.
+The species contributes to **soil conservation** through leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]] and root systems that help prevent erosion on sloping terrain.
 
 Kola nut production is concentrated in Nigeria and Ghana, with Nigeria accounting for approximately **70% of global supply**. Annual production is estimated at 150,000–200,000 metric tons.
 

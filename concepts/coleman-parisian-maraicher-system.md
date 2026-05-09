@@ -1,5 +1,5 @@
 ---
-title: Parisian Maraicher System
+title: coleman parisian maraicher system System
 created: 2026-04-28
 tags:
   - history
@@ -17,14 +17,14 @@ type: concept
 # Parisian Maraicher System
 
 The Parisian maraicher system (la culture maraichere) represents one of
-the most impressive models of intensive vegetable production in
+the most impressive models of intensive [[dry-gardening-unirrigated-vegetable-production-solomon]] in
 [[nineteenth-century-mushroom-cultivation]], these market gardeners demonstrated that
 small-scale, space-efficient farming could feed a major city year-round
 with extraordinary productivity and quality.
 
 ## Origins and Development
 
-The earliest developments in season extension began in the royal
+The earliest developments in [[comparison-season-extension-techniques-vs-cold-frame-gardening]] began in the royal
 potager at Versailles under head gardener La Quintinie in the 1670s
 and 1680s. Those beginnings reached their impressive climax in the
 hands of the Parisian maraichers between 1850 and 1900. The cultivated
@@ -78,17 +78,17 @@ Decomposing manure provided heat under hotbeds and was also filled
 into walkways between glass-covered frames for extra warmth. Once the
 manure had lost its heat and broken down into crumbly compost, it was
 shoveled out and used as a soil amendment. The maraichers considered
-composted horse manure the only suitable manure for vegetable growing.
+composted horse manure the only suitable manure for [[fukuoka-semi-wild-vegetable-growing-natural-method]].
 
 As early as 1870, Vincent Gressent wrote in Le potager moderne that
-chemical fertilizers "stimulate the plant and produce quantity, but to
+[[cervantes-chemical-fertilizers-guide]] "stimulate the plant and produce quantity, but to
 the detriment of quality" and that "insect pests only attack weak,
 sickly plant specimens lacking proper nutrition."
 
 ## Hottes and Cloches
 
 Access paths through the gardens were only 10 inches wide, too narrow
-for wheelbarrows. Manure was delivered in willow basket backpacks
+for wheelbarrows. Manure was delivered in [[coleman-willow-basket-hotte-manure-transport]] backpacks
 called hottes, woven with an extension that arched up and over the
 worker's head so the load could be deposited by bending forward and
 letting it tumble out.

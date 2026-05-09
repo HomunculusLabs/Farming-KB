@@ -16,7 +16,7 @@ sources:
   - https://en.wikipedia.org/wiki/Hemp
   - https://www.cannabis.ca.gov/resources/types-of-cannabis/
   - Callaway, J.C. (2004). "Hempseed as a nutritional resource." European Journal of Lipid Science and Technology, 106(7), 476-488.
-  - Andre, C.M. et al. (2016). "Hemp (*Cannabis sativa* L.) and its specific compounds." European Journal of Agronomy, 76, 20-43.
+  - Andre, C.M. et al. (2016). "Hemp (*[[comparison-cannabis-sativa-vs-cannabis-indica]]* L.) and its specific compounds." European Journal of Agronomy, 76, 20-43.
   - European Industrial Hemp Association (EIHA) crop variety database
 ---
 # Carmagnola
@@ -70,7 +70,7 @@ The Piedmont region was one of the major hemp-producing areas in Europe from the
 - **Pistil [[cannabis-microbiome-soil-type-composition-strain-structure]]----|---------------|
 | Soil type | Loam to clay-loam; pH 6.0–7.5 |
 | Soil fertility | Medium-high; 80–120 kg/ha N |
-| Sowing density | 40–60[[mollison-designers-day-length-and-flowering-response]] | Day-neutral flowering response (moderate) |
+| Sowing density | 40–60 | Day-neutral flowering response (moderate) |
 | Harvest | August–September (Northern Hemisphere) |
 
 ### Yield Data
@@ -87,7 +87,7 @@ The Piedmont region was one of the major hemp-producing areas in Europe from the
 
 Carmagnola shows moderate to good resistance to common hemp pathogens:
 
-- **Botrytis cinerea** (gray mold): Moderate susceptibility during flowering in humid conditions
+- **Botrytis cinerea** ([[cervantes-gray-mold-botrytis-prevention]]): Moderate susceptibility during flowering in humid conditions
 - **Sclerotinia sclerotiorum**: Moderate resistance
 - **Fusarium spp.**: Good resistance
 - **Puccinia cannabis** (hemp rust): Moderate resistance
@@ -125,6 +125,6 @@ The terpene profile of Carmagnola is characteristic of European fiber hemp:
 Carmagnola seeds are nutritionally valuable:
 ## See Also
 
-- [[fungal-ligninolytic-enzymes-in-industrial-applications]] of hemp bast fiber
+- fungal-ligninolytic-enzymes-in-industrial-applications of hemp bast fiber
 - finola — Finnish dwarf hemp cultivar
-- hempcrete — carbon-negative building material
+- hempcrete — carbon-negative [[fungal-building-material-deterioration]]

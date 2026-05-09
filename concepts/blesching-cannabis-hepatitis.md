@@ -12,9 +12,9 @@ type: concept
 # Cannabis and Hepatitis
 
 Hepatitis, inflammation of the liver caused by viral infections (most
-commonly hepatitis B and C), autoimmune conditions, or toxic exposures,
+commonly hepatitis B and C), [[cannabis-autoimmune-conditions-detailed]], or toxic exposures,
 represents an area of emerging interest for cannabinoid therapeutics. In
-"The Cannabis Health Index," Uwe Blesching assigns this condition a
+"The [[blesching-cannabis-health-index-autoimmune-conditions]]," Uwe Blesching assigns this condition a
 Cannabis Health Index (CHI) rating of **8** based on **3 clinical studies**.
 While the evidence base is still developing, the findings suggest
 meaningful potential for cannabis in both direct antiviral effects and
@@ -40,7 +40,7 @@ This dual receptor involvement explains why the effects of cannabis on
 liver health are complex and dose-dependent, as explored in
 [[blesching-cannabis-ptsd-anxiety]].
 
-- **Nausea and appetite loss**: These side effects can lead to weight loss
+- **[[cannabis-for-nausea-and-appetite-stimulation]] loss**: These side effects can lead to weight loss
   and nutritional deficiency during treatment. Cannabis's well-established
   antiemetic and appetite-stimulating effects, covered in
   [[blesching-cannabis-anorexia-cachexia]], directly
@@ -60,7 +60,7 @@ heavy cannabis use has been associated with certain liver concerns:
   is contradictory
 - Patients with advanced liver disease may have altered cannabinoid
   metabolism due to impaired hepatic function
-- Drug interactions with antiviral medications must be carefully monitored
+- [[cannabis-drug-interactions-and-contraindications]] with antiviral medications must be carefully monitored
 
 ## Clinical Implications
 

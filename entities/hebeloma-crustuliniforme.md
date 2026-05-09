@@ -14,12 +14,12 @@ sources:
 **Hebeloma crustuliniforme** is an ectomycorrhizal basidiomycete fungus
 in the family Hymenogastraceae, commonly known as the poison pie or
 early fool. It is one of the most extensively studied ectomycorrhizal
-species for its role in organic nitrogen cycling and its ecological
+species for its role in organic [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]] and its ecological
 adaptations to cold environments.
 
 ## Taxonomy and Distribution
 
-Hebeloma crustuliniforme is found across temperate and boreal forests
+Hebeloma crustuliniforme is found across temperate and [[fungal-diversity-boreal-forests-taiga]]
 of the Northern Hemisphere. It associates with a wide range of host
 trees including pines (*Pinus* spp.), spruces (*Picea* spp.), birches
 (*Betula* spp.), and oaks (*Quercus* spp.). Sagara (1995) identified
@@ -38,7 +38,7 @@ mycorrhizal association with H. crustuliniforme incorporated up to 53%
 of the total nitrogen contained in proteins or peptides, while
 nonmycorrhizal seedlings could access none. This capacity is
 particularly important in forests where high C:N ratios of litter slow
-nitrogen mineralization. Yamanaka (1999) further showed that Hebeloma
+[[fungal-nitrogen-mineralization-pathways]]. Yamanaka (1999) further showed that Hebeloma
 spp. could use bovine serum albumin as a nitrogen source, though like
 other ectomycorrhizal fungi they could not utilize ethylenediamine or
 putrescine.
@@ -64,7 +64,7 @@ solubilization of calcium phytate and full solubilization of CaHPO4,
 suggesting some capacity for phosphate mobilization from moderately
 available sources.
 
-Despite limited mineral weathering, Hebeloma-dominated mycorrhizal
+Despite limited [[mycorrhizal-mineral-weathering-nutrient-acquisition]], Hebeloma-dominated mycorrhizal
 communities showed higher phosphorus influx into birch leaves than
 communities dominated by Laccaria or Lactarius spp. (Dighton et al.,
 1990), demonstrating effective phosphorus acquisition in the field.
@@ -83,7 +83,7 @@ development.
 Shaw (1988) found H. crustuliniforme was among the least preferred
 collembolan food sources, with only 1.7% of colony area consumed
 compared to 72.2% for *Marasmius androsaceus*. This low palatability
-may represent an evolved defense via secondary metabolites that
+may represent an evolved defense via [[antifungal-secondary-metabolites-coprophilous-fungi]] that
 protect mycorrhizal structures from grazing damage. In nematode
 studies, the related H. sacchariolens supported moderate but
 low-fecundity populations (Ruess and Dighton, 1996).
@@ -93,7 +93,7 @@ low-fecundity populations (Ruess and Dighton, 1996).
 Dighton et al. (1987) showed that the saprotroph *Mycena galopus*
 reduced the decomposition potential of H. crustuliniforme, supporting
 the Gadgil effect. Colpaert and van Tichelen (1996) further
-demonstrated that beech leaf litter decomposition and nitrogen
+demonstrated that beech leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]] and nitrogen
 mineralization were much less with ectomycorrhizal Scots pine seedlings
 than with the saprotroph *Lepista nuda*, confirming ECM fungi are
 inferior decomposers compared to specialist saprotrophs.

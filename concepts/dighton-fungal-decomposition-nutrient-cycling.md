@@ -1,7 +1,7 @@
 ---
-title: Fungal Decomposition and Nutrient Cycling
+title: Fungal Decomposition and comparison-nutrient-cycling-vs-nutrient-dense-gardening
 created: 2026-04-26
-sources: Dighton (2003) "Fungi in Ecosystem Processes" Ch. 2, 5
+sources: Dighton (2003) "Fungi in fungal-ecosystem-processes-overview" Ch. 2, 5
 tags: [fungi, decomposition, nutrient-cycling, saprotroph, lignin, cellulose, mineralization]
 related: [dighton-mycorrhizal-networks-carbon-transfer, dighton-fungal-succession-disturbance]
 type: concept
@@ -20,7 +20,7 @@ Fungi secrete a suite of extracellular enzymes that enable them to degrade compl
 
 - **Cellulases** break down cellulose into glucose units
 - **Ligninases** (laccases, peroxidases) degrade lignin -- a capacity largely restricted to basidiomycete white-rot fungi
-- **Phosphatases** release phosphate from organic compounds
+- **Phosphatases** release phosphate from [[fungal-volatile-organic-compounds-communication]]
 - **Proteases** liberate nitrogen from proteinaceous material
 
 Extracellular degradation is less efficient than gut ingestion by animals, but it results in thorough nutrient mineralization into the soil pool. The oxalic acids produced during decomposition also assist in calcareous bedrock weathering, contributing to soil formation.
@@ -33,7 +33,7 @@ Fungal colonization of leaf litter follows a predictable succession (Ponge, 1990
 2. **Rate of arrival** at the litter surface
 3. **Competitive ability** against other fungi and microorganisms
 
-Ponge described four stages of *Pinus sylvestris* needle decomposition, with fungal species composition shifting as the resource chemistry changes. Initial colonizers are replaced by species with enzymatic competence for cellulose and lignin degradation.
+Ponge described four stages of *Pinus sylvestris* needle decomposition, with fungal species composition shifting as the resource chemistry changes. Initial colonizers are replaced by species with enzymatic competence for cellulose and [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]].
 
 ## Nutrient Immobilization and C:N Dynamics
 
@@ -42,7 +42,7 @@ During decomposition, the carbon-to-nitrogen ratio of litter declines from appro
 Basidiomycetes have a greater capacity for nutrient accumulation than bacteria due to:
 - Longer lifespan
 - Larger individual biomass
-- Greater enzyme production capacity
+- Greater [[ligninolytic-enzyme-production-bioremediation]] capacity
 
 ## Tropical Forest Nutrient Cycling
 
@@ -60,7 +60,7 @@ Leaf litter phosphorus can increase up to 10-fold through fungal immobilization.
 Cord-forming basidiomycetes are capable of significant nutrient translocation over considerable distances:
 
 - *Phanerochaete velutina* translocates **75%** of added phosphorus
-- *Phallus impudicus* translocates **13%** of added phosphorus
+- *[[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]]* translocates **13%** of added phosphorus
 - Maximum P translocation rate: **7,225 nmol P/cm²/day**
 - Translocation possible over **75 cm** between resource patches (Wells and Boddy, 1990, 1995a)
 

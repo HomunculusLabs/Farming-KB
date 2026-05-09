@@ -1,5 +1,5 @@
 ---
-title: Cannabis Breeding Techniques Acclimatization and Trait Fixing (Clarke)
+title: Cannabis cannabis breeding techniques acclimatization trait fixing clarke Acclimatization and Trait Fixing (Clarke)
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -12,19 +12,19 @@ sources:
 
 ## Acclimatization
 
-Much of the breeding effort of North American cultivators is concerned with acclimatizing high-THC strains of equatorial origin to the climate of their growing area while preserving potency. Late-maturing, slow, and irregularly flowering strains like those of Thailand have difficulty maturing in many parts of North America. Even in a greenhouse, it may not be possible to mature plants to their full native potential.
+Much of the breeding effort of [[growing-gourmet-north-american-reishi-species]] cultivators is concerned with acclimatizing high-THC strains of equatorial origin to the climate of their growing area while preserving potency. Late-maturing, slow, and irregularly flowering strains like those of Thailand have difficulty maturing in many parts of North America. Even in a greenhouse, it may not be possible to mature plants to their full native potential.
 
 ### Acclimatization Strategy
 To develop an early-maturing and rapidly flowering strain while preserving unique imported genetics:
 1. Make a pure cross between two or more individuals of the same imported strain that most closely approach the ideal in blooming early
 2. Ignore many other traits initially and aim at breeding an earlier-maturing variety of a pure strain
 3. Make further crosses with several individuals satisfying other criteria such as high THC content
-4. Establish true-breeding lines, then make a dihybrid pure cross to produce an F1 generation containing early-maturing, high-THC genetics (an acclimatized drug strain)
+4. Establish true-breeding lines, then make a dihybrid pure cross to produce an F1 generation containing early-maturing, high-THC genetics (an acclimatized [[cannabis-fiber-vs-drug-strain-phenotypes-clarke]])
 
 ### Warnings
 - Crosses made without a clear goal in mind lead to strains that acclimatize while losing many favorable characteristics
 - A successful breeder is careful not to overlook a characteristic that may prove useful
-- It is imperative that original imported Cannabis genetics be preserved intact to protect the species from loss of genetic variety
+- It is imperative that original imported [[vic-high-cannabis-genetics-mendelian-inheritance]] be preserved intact to protect the species from loss of genetic variety
 - A currently unrecognized gene may be responsible for controlling resistance to a pest or disease
 - Back-crossing existing strains to original parental gene pools may be necessary to recover lost traits
 
@@ -72,7 +72,7 @@ To change a pistillate cutting to a staminate pollen parent:
 - Even if characteristics of original parents are unknown, fixed characteristics appear in subsequent generations
 - By selecting and crossing individuals approaching breeding goals, the variety can be continuously improved
 - Complementary traits are eventually combined into one line whose seeds reproduce favorable parental traits
-- Inbreeding strains allows weak recessive traits to express themselves; these must be diligently removed
+- Inbreeding strains allows weak [[cervantes-dominance-recessive-traits-alleles]] to express themselves; these must be diligently removed
 - After five or six generations, most traits will be fixed and offspring will breed true
 
 ## Mendelian Breeding System
@@ -86,7 +86,9 @@ To change a pistillate cutting to a staminate pollen parent:
 
 ## Related
 
-- [[cannabis-hybrid-vigor-and-phenotypes-clarke]] - Hybrid vigor and phenotypes
+- [[cannabis-gene-pool-preservation-acclimatization-clarke]]
+
+- [[cannabis-hybrid-vigor-and-phenotypes-clarke]] - [[cannabis-hybrid-vigor-and-phenotypes-clarke]] and phenotypes
 - [[cannabis-breeding-basics]] - Breeding fundamentals
 - [[cannabis-fiber-vs-drug-strain-phenotypes-clarke]]
 - [[cannabis-potency-enhancement-intact-flowers]]

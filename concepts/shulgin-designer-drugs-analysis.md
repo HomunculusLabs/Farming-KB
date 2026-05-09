@@ -1,6 +1,6 @@
 ---
 
-title: Shulgin Designer Drugs Analysis
+title: Shulgin shulgin designer drugs analysis Analysis
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -77,7 +77,7 @@ Shulgin documented structural contradictions in the 1972 BNDD schedules (P.L. 91
 - **The specificity trap**: Naming specific compounds allows pharmacologically identical analogs to escape control
 - **The overbreadth trap**: Sweeping class definitions encompass medically useful compounds that were never intended to be restricted
 - **Classification absurdities**:
-  - Lysergic acid listed as a "depressant" (Schedule III) purely as a precursor control measure, while LSD is Schedule I
+  - [[ergot-and-lysergic-acid-history]] listed as a "depressant" (Schedule III) purely as a precursor control measure, while LSD is Schedule I
   - Racemorphan (50% Schedule I dextrophan by weight) classified as Schedule II
   - Apomorphine (an emetic with no analgesic potential) scheduled as an opiate
   - Hydromorphinol and oxymorphone listed under different schedules despite being synonymous

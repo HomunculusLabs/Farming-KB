@@ -3,7 +3,7 @@ title: Bad trip
 created: 2026-05-06
 tags:
   - psychology
-  - adverse effects
+  - [[blesching-cannabis-safety-adverse-effects-evidence]]
   - psychedelic
   - mental health
   - pharmacology
@@ -17,7 +17,7 @@ type: concept
 
 # Bad Trip
 
-A bad trip is an acute adverse psychological reaction to the ingestion of [[psilocybin]] increase the probability of overwhelming psychological effects
+A bad trip is an acute adverse psychological reaction to the ingestion of [[psilocybin]] increase the probability of overwhelming [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]]
 - **Individual sensitivity**: Reactions vary greatly between individuals and between episodes in the same person
 - **Set and setting**: The user's mental state, expectations, and physical environment significantly influence the quality of the experience
 - **Combination with other substances**: Alcohol and stimulants appear to increase the risk of adverse outcomes
@@ -27,11 +27,11 @@ A bad trip is an acute adverse psychological reaction to the ingestion of [[psil
 
 ## Flashbacks
 
-Flashbacks can occur following psilocybin mushroom use, though they are reported less frequently than with LSD. These episodes generally involve perceptual alterations or pseudo-hallucinations rather than true hallucinations (defined as sensory perceptions in the complete absence of external stimuli). The frequency, duration, and severity of flashbacks following mushroom use are not well characterized in the clinical literature, and the phenomenon remains poorly understood.
+Flashbacks can occur following [[emcdda-psilocybin-mushroom-dose-and-effects]] use, though they are reported less frequently than with LSD. These episodes generally involve perceptual alterations or pseudo-hallucinations rather than true hallucinations (defined as sensory perceptions in the complete absence of external stimuli). The frequency, duration, and severity of flashbacks following mushroom use are not well characterized in the clinical literature, and the phenomenon remains poorly understood.
 
 ## Fatal Outcomes
 
-Fatal outcomes directly attributable to bad trips are rare but have been documented. A March 2004 case in Manchester, UK involved a 31-year-old man who died after leaping from a tower block window following consumption of Hawaiian psilocybin mushrooms in combination with alcohol. A coroner's inquest confirmed the contributory role of the mushrooms together with alcohol. A 2005 case in Dun Laoghaire, Ireland involved a 33-year-old man who died after falling from a fourth-floor building after consuming hallucinogenic mushrooms.
+Fatal outcomes directly attributable to bad trips are rare but have been documented. A March 2004 case in Manchester, UK involved a 31-year-old man who died after leaping from a tower block window following consumption of Hawaiian [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] in combination with alcohol. A coroner's inquest confirmed the contributory role of the mushrooms together with alcohol. A 2005 case in Dun Laoghaire, Ireland involved a 33-year-old man who died after falling from a fourth-floor building after consuming [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]].
 
 In France, one allegedly toxicologically confirmed death directly attributed to ingestion of a large amount of mushrooms has been reported. The Czech Republic reported one death case, a suicide in 2004, in which the presence of hallucinogenic mushrooms was detected and mentioned in the autopsy report.
 
@@ -57,7 +57,7 @@ Medical assistance data are sparse and vary considerably across countries due to
 - Sweden: 30 to 40 calls annually to the Poisons Information Centre (peak of 96 in 1998)
 - Belgium: 1% of all inquiries to Druglijn Flanders in 2003 and 2004
 
-According to the FESAT reports based on 26 drug telephone helplines in 16 European countries, there was no significant increase in calls regarding hallucinogenic mushrooms during 2004.
+According to the FESAT reports based on 26 drug [[hallucinogenic-mushroom-telephone-helplines-and-emergency-response]] in 16 European countries, there was no significant increase in calls regarding hallucinogenic mushrooms during 2004.
 
 ## Chronic Mental Health Risks
 
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

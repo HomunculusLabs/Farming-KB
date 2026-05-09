@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of North America." Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Goward, T. (1999). "Lichens of British Columbia." Royal BC Museum.
   - McCune, B. & Geiser, L. (2009). "Macrolichens of the Pacific Northwest." Oregon State University Press.
   - Nimis, P.L. (2016). "The Lichens of Italy: A Second Catalogue." Museo Regionale di Scienze Naturali.
@@ -38,7 +38,7 @@ The photobiont is a unicellular green alga, typically from the genus Trebouxia. 
 
 ## Distribution and Habitat
 
-Alectoria sarmentosa has a circumpolar boreal and temperate distribution. In North America, it ranges from Alaska southward through the Pacific Northwest to northern California, and across Canada to the Atlantic provinces.
+Alectoria sarmentosa has a circumpolar boreal and [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]]. In North America, it ranges from Alaska southward through the Pacific Northwest to northern California, and across Canada to the Atlantic provinces.
 
 In Europe, it occurs in Scandinavia, the British Isles, the Alps, and extending eastward through the Carpathians and into northern Asia. It is also found in mountainous regions of East Asia, including Japan and Korea.
 
@@ -46,7 +46,7 @@ The species is strongly associated with old-growth coniferous forests. Preferred
 
 It is most abundant in the lower to mid-canopy at elevations of 200–1200 meters. Highest biomass accumulates in forests with high humidity, frequent fog, and low light intensity in the understory.
 
-Alectoria sarmentosa is highly sensitive to air pollution, particularly sulfur dioxide and nitrogen deposition. It disappears rapidly from forests near industrial areas or in regions with significant agricultural ammonia inputs.
+Alectoria sarmentosa is highly sensitive to air pollution, particularly sulfur dioxide and [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]. It disappears rapidly from forests near industrial areas or in regions with significant agricultural ammonia inputs.
 
 ## Ecology and Symbiosis
 
@@ -54,7 +54,7 @@ As an epiphytic lichen, Alectoria sarmentosa plays a significant role in forest 
 
 The hanging thalli provide nesting material and forage substrate for birds and small mammals. The northern flying squirrel (Glaucomys sabrinus) and the red squirrel (Tamiasciurus hudsonicus) both incorporate Alectoria into their nests.
 
-Alectoria contributes to nutrient cycling by trapping atmospheric particulates and dissolved nutrients. When thalli fall to the forest floor, they release nitrogen and trace elements into the soil, supplementing the nutrient-poor forest floor of old-growth stands.
+Alectoria contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by trapping atmospheric particulates and dissolved nutrients. When thalli fall to the forest floor, they release nitrogen and trace elements into the soil, supplementing the nutrient-poor forest floor of old-growth stands.
 
 The species is a well-established bioindicator of ecological continuity. Its presence reliably indicates forests that have been undisturbed for 100+ years, making it a valuable survey tool for conservation assessments.
 
@@ -84,9 +84,9 @@ Alectoria sarmentosa is considered sensitive to forest management practices thro
 
 The species is red-listed or considered threatened in several European countries, particularly in regions with a history of industrial air pollution. Populations in Scandinavia and the British Isles have shown partial recovery following air quality improvements since the 1980s.
 
-Habitat loss through clear-cut logging is the primary threat to North American populations. Selective retention of large conifers during timber harvest can partially mitigate impacts, but full recovery requires decades of forest regrowth.
+Habitat loss through clear-cut logging is the primary threat to [[growing-gourmet-north-american-reishi-species]] populations. Selective retention of large conifers during timber harvest can partially mitigate impacts, but full recovery requires decades of forest regrowth.
 
-Climate change poses an emerging threat through altered precipitation patterns and increased frequency of drought events. Extended dry periods cause thallus desiccation and reduced growth rates in already moisture-limited populations.
+[[dighton-fungi-climate-change-feedback]] poses an emerging threat through altered precipitation patterns and increased frequency of drought events. Extended dry periods cause thallus desiccation and reduced growth rates in already moisture-limited populations.
 
 ## Similar Species
 

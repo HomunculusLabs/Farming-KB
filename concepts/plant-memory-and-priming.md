@@ -12,7 +12,7 @@ Complex 2 (PRC2).
 Once established, this epigenetic silencing is maintained through subsequent
 cell divisions even when temperatures warm in spring. The plant "remembers"
 that it experienced winter, and this memory is stable for the rest of the
-plant's life cycle. Remarkably, the FLC silencing is reset in the next
+plant's [[bloomfield-fungal-life-cycle-spiral-versus-circle]]. Remarkably, the FLC silencing is reset in the next
 generation: seeds produced by a vernalized plant have active FLC again,
 ensuring that each generation must experience its own winter before flowering.
 This reset mechanism prevents premature flowering in offspring.
@@ -79,7 +79,7 @@ DNA methylation is more stable and can persist through multiple cell divisions.
 In plants, DNA methylation occurs in three sequence contexts (CG, CHG, and
 CHH), each maintained by different enzymatic pathways. Stress-induced changes
 in DNA methylation patterns have been documented in response to drought, pathogen
-attack, heavy metals, and UV radiation, providing a mechanism for encoding
+attack, [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]], and UV radiation, providing a mechanism for encoding
 environmental information at the molecular level.
 
 ## See Also

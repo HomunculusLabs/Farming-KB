@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - Boland, D.J. et al. (2006). "Eucalyptus globulus." CSIRO Publishing, Melbourne.
   - Coppen, J.J.W. (2002). "Eucalyptus: The Genus Eucalyptus." Taylor & Francis.
-  - Li, Y. et al. (2021). "Chemical composition and biological activities of Eucalyptus globulus essential oil." Molecules, 26(14), 4182.
+  - Li, Y. et al. (2021). "Chemical composition and biological activities of Eucalyptus globulus [[permaculture-designers-manual-essential-oil-plants]]." Molecules, 26(14), 4182.
   - Duke, J.A. (2002). "CRC Handbook of Medicinal Spices." CRC Press.
 created: 2026-05-07
 ---
@@ -59,7 +59,7 @@ Flowers are borne in umbels of 1–3, with a prominent, hemispherical operculum.
 
 Fruits are woody, cup-shaped capsules approximately 1–2 cm in diameter.
 
-The tree develops a deep and extensive root system, contributing to its drought tolerance.
+The tree develops a deep and extensive root system, contributing to its [[dighton-fungal-drought-tolerance-plant-water-relations]].
 
 ## Distribution and Habitat
 
@@ -73,7 +73,7 @@ The species thrives in areas with 600–1400 mm annual rainfall and mild, frost-
 
 It has been widely introduced and naturalized in Mediterranean Europe, California, Chile, South Africa, and New Zealand.
 
-In some regions, it has become invasive due to its prolific seed production and competitive growth.
+In some regions, it has become invasive due to its prolific [[cervantes-seed-production-storage]] and competitive growth.
 
 The tree is highly adaptable, growing in a range of soil types from sandy loams to clay.
 
@@ -91,7 +91,7 @@ Other significant constituents include α-pinene (5–15%), limonene (5–10%), 
 
 β-Pinene, globulol, and eudesmol are present in minor amounts.
 
-1,8-Cineole is responsible for the species' expectorant, anti-inflammatory, and antimicrobial properties.
+1,8-Cineole is responsible for the species' expectorant, anti-inflammatory, and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
 
 The oil has demonstrated activity against respiratory pathogens including *Streptococcus pneumoniae* and *Haemophilus influenzae*.
 
@@ -115,7 +115,7 @@ Growth rates are exceptionally fast, with mean annual increments of 15–40 m³/
 
 Rotation lengths for pulp production are 8–12 years; timber rotations extend to 20–30 years.
 
-Essential oil is extracted by steam distillation of fresh or partially dried leaves.
+Essential oil is extracted by [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] of fresh or partially dried leaves.
 
 Yield of essential oil ranges from 1–3% of fresh leaf weight.
 
@@ -123,7 +123,7 @@ Oil yield and cineole content are highest in young leaves from actively growing 
 
 The species coppices readily, allowing multiple harvest cycles from a single planting.
 
-In agroforestry systems, *E. globulus* provides windbreaks, erosion control, and shade.
+In agroforestry systems, *E. globulus* provides windbreaks, [[permplant-willows-salix-erosion-control-fodder]], and shade.
 
 However, its allelopathic leaf litter can suppress understory vegetation and reduce biodiversity.
 
@@ -136,6 +136,8 @@ Leaves were crushed and inhaled to relieve congestion or applied as poultices to
 The species was introduced to Europe in the 1850s and quickly became a standard medicinal plant.
 
 ## See Also
+
+- [[eucalyptus-camaldulensis]]
 
 - [[cymbopogon-citratus]]
 - [[mentha-piperita]]

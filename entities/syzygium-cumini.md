@@ -20,7 +20,7 @@ sources:
 
 **Syzygium cumini** (L.) Skeels, commonly known as jambul, jamun, or java plum, is an evergreen tropical tree in the family Myrtaceae. It is native to the Indian subcontinent and Southeast Asia, where it has been cultivated for millennia for its edible purple fruits and traditional medicinal uses.
 
-The species is most widely recognized for its anti-diabetic properties in Ayurvedic and folk medicine. The fruit, seeds, bark, and leaves all contain bioactive compounds with documented hypoglycemic, anti-inflammatory, and antioxidant activities.
+The species is most widely recognized for its anti-diabetic properties in Ayurvedic and folk medicine. The fruit, seeds, bark, and leaves all contain [[cordyceps-cancer-bioactive-compounds]] with documented hypoglycemic, anti-inflammatory, and antioxidant activities.
 
 Jamun trees reach 15–30 meters in height and are valued as shade trees in tropical landscapes. The deep purple, oblong fruits ripen during the monsoon season across South Asia.
 
@@ -44,7 +44,7 @@ Fruits are ovoid or oblong berries, 1.5–3.5 cm long, ripening from green throu
 
 *S. cumini* is native to India, Bangladesh, Sri Lanka, Nepal, and the Andaman Islands. Its natural range extends through Myanmar, Thailand, Malaysia, and Indonesia.
 
-The species has been widely introduced across tropical and subtropical regions worldwide. It is naturalized in East Africa, the Caribbean, Central and South America, southern Florida, and northern Australia.
+The species has been widely introduced across tropical and subtropical regions worldwide. It is naturalized in East Africa, the Caribbean, Central and [[guzman-psilocybin-mushrooms-south-america]], southern Florida, and northern Australia.
 
 Jamun thrives in tropical monsoon climates with annual rainfall of 1,000–2,500 mm. It tolerates a wide range of soil types including lateritic, sandy loam, and clay, provided drainage is adequate.
 
@@ -84,7 +84,7 @@ Jamun provides food and habitat for numerous bird and bat species. The flowers a
 
 The deep root system helps prevent soil erosion on degraded lands. The species is recommended for reforestation programs across South and Southeast Asia due to its hardiness and rapid early growth.
 
-The canopy offers shade in agroforestry combinations with coffee, cardamom, and pepper. Fallen leaves contribute to soil organic matter and nutrient cycling.
+The canopy offers shade in agroforestry combinations with coffee, cardamom, and pepper. Fallen leaves contribute to soil [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] and [[biodiversity-of-fungi-decomposition-nutrient-cycling]].
 
 ## Traditional and Ethnobotanical Use
 
@@ -106,17 +106,17 @@ The wood is hard, durable, and resistant to water, making it suitable for furnit
 
 ## Notable Cultivars and Varieties
 
-Several named cultivars exist, particularly in India where the fruit has commercial importance. Selection criteria include fruit size, pulp-to-seed ratio, sweetness, and reduced astringency.
+Several named cultivars exist, particularly in India where the fruit has commercial importance. [[cannabis-breeding-traits-selection-criteria-clarke]] include fruit size, pulp-to-seed ratio, sweetness, and reduced astringency.
 
 'Ra Jaman' is a widely grown cultivar in northern India producing large fruits with relatively small seeds. 'CISH J-42' was developed at the Central Institute for Subtropical Horticulture for early bearing and high yield.
 
-'Impal' from the Indian Agricultural Research Institute produces regular-bearing trees with moderately sweet fruit. Seedless or near-seedless selections have been reported but are not widely available commercially.
+'Impal' from the Indian [[fukuoka-inductive-deductive-intuitive-reasoning-agricultural-research]] Institute produces regular-bearing trees with moderately sweet fruit. Seedless or near-seedless selections have been reported but are not widely available commercially.
 
 Most commercial cultivation relies on seedling trees from selected mother plants rather than grafted cultivars, which limits standardization of fruit quality.
 
 ## See Also
 
 - [[terminalia-chebula]]
-- [[ocimum-sanctum]]
+- ocimum-sanctum
 - [[azadirachta-indica]]
 - [[eugenol]]

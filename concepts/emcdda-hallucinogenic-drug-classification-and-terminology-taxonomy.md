@@ -9,7 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-The classification and naming of hallucinogenic drugs has been a source of
+The classification and naming of [[metzner-hallucinogenic-drugs-psychotherapy-shamanism]] has been a source of
 ongoing debate among psychiatrists, psychologists, psychopharmacologists,
 and drug users. The EMCDDA's 2006 thematic paper provides a thorough
 taxonomy of competing terms used to describe this chemically diverse
@@ -51,7 +51,7 @@ most widely adopted scientific term.
 A related but distinct term meaning "touching within," describing
 empathogenic effects of substances like MDMA that allow users to
 connect with their own and others' feelings. The EMCDDA notes that
-hallucinogenic mushrooms notably lack these positive entactogenic
+[[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] notably lack these positive entactogenic
 effects, limiting their appeal relative to ecstasy.
 
 ### Additional Terms
@@ -82,7 +82,7 @@ binding profiles from tryptamines.
 
 Cannabis-derived compounds sometimes grouped with hallucinogens but
 pharmacologically distinct, acting through CB1/CB2 receptors rather
-than serotonin pathways.
+than [[powell-psilocybin-serotonin-pathways-environmental-chemistry]].
 
 ## Pseudo-Hallucinogens
 
@@ -91,13 +91,13 @@ The framework distinguishes true hallucinogens from pseudo-hallucinogens
 visual disturbances. These include anticholinergic deliriants
 (scopolamine, atropine from Datura and Atropa) and dissociative
 anesthetics (ketamine, PCP), which produce confusion and delirium
-rather than the lucid altered states of classic hallucinogens.
+rather than the lucid [[weil-the-natural-mind-altered-states-normalcy]] of classic hallucinogens.
 
 ## Relevance to Mushroom Classification
 
 Psilocybin-containing mushrooms belong firmly in the indolealkylamine
-class, distinguishing them from Amanita muscaria (GABAergic muscimol
-and ibotenic acid) and synthetic "herbal highs" sold in smartshops.
+class, distinguishing them from [[allegro-amanita-muscaria-properties-and-pharmacology]] (GABAergic muscimol
+and [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]]) and synthetic "herbal highs" sold in smartshops.
 
 ## Historical Evolution of Terminology
 
@@ -121,6 +121,8 @@ This tension between clinical and user-driven terminology continues
 to shape drug policy debates across Europe.
 
 ## See Also
+
+- [[hallucinogen-terminology-and-chemical-classification]]
 
 - [[psilocybin-psilocin-chemistry-and-pharmacology-emcdda]]
 - [[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry]]

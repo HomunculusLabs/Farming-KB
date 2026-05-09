@@ -16,12 +16,12 @@ Tempeh is a traditional Indonesian fermented food made from cooked and inoculate
 Tempeh fermentation relies on Rhizopus oligosporus, a zygomycete fungus that:
 
 - Produces a strong white mycelium that binds the substrate into a solid cake
-- Produces enzymes that break down proteins, oils, and complex carbohydrates
+- Produces enzymes that [[query-can-fungi-break-down-plastic-pollution]] proteins, oils, and complex carbohydrates
 - Inhibits many harmful bacteria through antibiotic compounds
 - Grows optimally at 85-90F (30-32C)
 - Requires oxygen (unlike anaerobic ferments like miso or kimchi)
 
-The inoculant can be purchased as tempeh starter (spores mixed with rice flour) from specialty suppliers. Store starter in the refrigerator or freezer for long shelf life.
+The inoculant can be purchased as tempeh starter (spores mixed with [[brown-rice-flour-substrate]]) from specialty suppliers. Store starter in the refrigerator or freezer for long [[psilocybin-shelf-life-stability]].
 
 ## Soybean Tempeh (Traditional)
 
@@ -123,7 +123,7 @@ When using non-soy substrates:
 ## Troubleshooting
 
 - No mycelium growth — temperature too low, starter expired, or beans too wet
-- Patchy growth — uneven inoculation, poor air circulation, or beans too dry
+- Patchy growth — uneven inoculation, poor [[stamets-growing-room-air-circulation-co2-management]], or beans too dry
 - Black spots — sporulation; harvest immediately, still edible
 - Yellow, orange, or pink spots — possible contamination; if widespread or foul-smelling, discard
 - Ammonia smell — over-fermentation; the tempeh has gone too long

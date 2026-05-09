@@ -1,5 +1,5 @@
 ---
-title: Dominance, Recessive Traits, and Alleles in Cannabis
+title: Dominance, cervantes dominance recessive traits alleles, and Alleles in Cannabis
 created: 2026-04-26
 tags:
   - cannabis
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -104,7 +105,7 @@ outcomes for these traits far more complex than simple Mendelian ratios.
 ## Implications for Breeding
 
 Understanding dominance relationships is critical when planning a
-breeding program. Dominant traits are easier to select for because they
+[[cervantes-breeding-program-design-goal-setting]]. Dominant traits are easier to select for because they
 are visible in the F1 generation. Recessive traits require additional
 generations of inbreeding to become fixed in a population. Breeders must
 know whether a trait they wish to incorporate is dominant or recessive
@@ -114,6 +115,6 @@ When a breeder wants to incorporate a dominant trait, they can simply
 select for its presence in each generation. Recessive traits require
 more complex approaches such as selfing or test crosses to identify
 homozygous individuals. See
-[[cannabis-genetics-and-breeding]] - Overview of cannabis genetics
+[[cannabis-genetics-and-breeding]] - Overview of [[vic-high-cannabis-genetics-mendelian-inheritance]]
 - [[cervantes-seed-population-types-ibl-hybrid]] - Population types
 - [[cannabis-phenotype-selection]] - Selecting for desired traits

@@ -1,18 +1,10 @@
 ---
-title: "Blesching Cannabis Cancer Symptoms"
-created: 2026-05-02
-updated: 2026-05-02
-type: concept
-tags: [cannabis, cultivation]
-sources:
-  - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
----
 ---
 title: Cannabis for Cancer-Related Symptoms
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Uwe Blesching, The Cannabis Health Index (CHI)"
-wikilinks: "[[blesching-cannabinoid-pharmacology]] [[cannabis-for-nausea-and-appetite-stimulation]]"
+wikilinks: "blesching-cannabinoid-pharmacology cannabis-for-nausea-and-appetite-stimulation"
 type: concept
 tags: [cannabis]
 ---
@@ -35,9 +27,9 @@ but that normally the body's own proper immune defenses can cure these threats.
 
 As early as 1974, the U.S. government knew of cannabis's effectiveness against
 certain types of cancer. While the publication of this particular study became a
-victim of the war on drugs, an article about the study published by the
+victim of the [[cervantes-war-on-drugs-statistics]], an article about the study published by the
 Washington Post survived. The story reported that "the active chemical agent in
-marijuana curbs the growth of three kinds of cancer (lung cancer, breast cancer,
+marijuana curbs the growth of three kinds of cancer ([[psk-breast-lung-cancer-clinical-trials]], breast cancer,
 and viral-induced leukemia) in mice."
 
 Since then the scientific evidence of cannabinoids' ability to counteract
@@ -63,9 +55,10 @@ effectively used in treating night sweats. Cancer patients who suffered the
 ill-effects of interrupted sleep experienced an improved quality of life during
 Nabilone treatment. Further, the cannabinoid positively affected pains,
 anorexia, and nausea. For appetite-specific mechanisms, see [[blesching-cannabis-bone-cancer]]
+
 ## Practical Considerations
 
-Successful implementation of Blesching Cannabis Cancer Symptoms requires attention to
+Successful implementation of Blesching [[blesching-cannabis-cancer-night-sweats]] Symptoms requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -81,4 +74,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

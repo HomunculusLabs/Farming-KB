@@ -15,7 +15,7 @@ updated: 2026-04-28
 sources:
   - "Maas Geesteranus, R.A. (1971). \"Hydnaceae of Europe.\" Persoonia, 6, 387-441."
   - "Binder, M. & Hibbett, D.S. (2006). \"Molecular systematics of the Boletales.\" Mycologia, 98(6), 969-980."
-  - "Stamets, P. (2005). Mycelium Running: How Mushrooms Can Help Save the World. Ten Speed Press."
+  - "Stamets, P. (2005). [[woodlovers-mycelium-running-pathway-technique]]: How Mushrooms Can Help Save the World. Ten Speed Press."
   - "Nauta, M.M. (2004). \"Sarcodon in the Netherlands.\" Coolia, 47(2), 45-67."
 ---
 
@@ -25,7 +25,7 @@ sources:
 
 *Sarcodon scorodonium* is a species of tooth fungus in the family
 Bankeraceae, widely distributed across coniferous forests of Europe and
-North America. It is recognized by its brown, felty cap, pale stipe, and
+[[psilocybin-north-america-pacific-northwest]]. It is recognized by its brown, felty cap, pale stipe, and
 characteristic teeth-like spines on the hymenial surface that produce a
 distinctive garlic-like odor when bruised.
 
@@ -36,7 +36,7 @@ characteristic alliaceous fragrance of fresh basidiocarps.
 
 *S. scorodonium* is an ectomycorrhizal associate, forming mutualistic
 relationships with coniferous trees, particularly spruces and pines.
-It contributes to forest health through nutrient exchange with host
+It contributes to forest health through [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] with host
 trees and plays a role in soil ecology.
 
 ## Taxonomy and Morphology
@@ -112,7 +112,7 @@ characteristic and are unpalatable.
 
 *Sarcodon scorodonium* has been investigated for its bioactive
 metabolites, particularly its anti-inflammatory and antimicrobial
-properties. Several secondary metabolites have been isolated from the
+properties. Several [[antifungal-secondary-metabolites-coprophilous-fungi]] have been isolated from the
 basidiocarps.
 
 The species produces scodonin and related cyathane-type diterpenes,
@@ -122,8 +122,8 @@ to their ability to modulate inflammatory signaling pathways.
 
 Extracts have also shown antimicrobial activity against Gram-positive
 bacteria, including *Staphylococcus aureus* and *Bacillus subtilis*.
-The antimicrobial properties are attributed to a combination of
-terpenoid and phenolic compounds present in the fruiting body tissue.
+The [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] are attributed to a combination of
+terpenoid and phenolic compounds present in the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] tissue.
 
 ## Similar Species
 

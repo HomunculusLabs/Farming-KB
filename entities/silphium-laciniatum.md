@@ -22,12 +22,12 @@ sources:
 ## Overview
 
 *Silphium lacinatum*, the compass plant, is a tall perennial herb in the
-Asteraceae native to the tallgrass prairies of central North America.
+Asteraceae native to the tallgrass prairies of central [[psilocybin-north-america-pacific-northwest]].
 Named for its distinctive north-south oriented basal leaves that track
 the sun, it is a deep-rooted, long-lived species reaching heights of
-2–3.5 meters. The compass plant is valued in prairie restoration,
+2–3.5 meters. The compass plant is valued in [[comparison-prairie-restoration-vs-silvopasture]],
 permaculture design, and ethnobotanical traditions for its resinous
-medicinal gum, wildlife habitat, and exceptional drought tolerance.
+medicinal gum, wildlife habitat, and exceptional [[dighton-fungal-drought-tolerance-plant-water-relations]].
 
 ## Taxonomy
 
@@ -77,7 +77,7 @@ Full sun exposure required. Hardy to USDA zones 4–9.
 
 ## Ethnobotany and Medicinal Use
 
-Native American tribes (Lakota, Pawnee, Omaha) used the dried resinous
+[[halpern-sacramental-peyote-and-native-american-church]] tribes (Lakota, Pawnee, Omaha) used the dried resinous
 sap from the stem as a chewing gum, respiratory remedy, and wound
 treatment. The sap was collected by scoring the stem base in late
 summer.
@@ -93,11 +93,11 @@ anti-inflammatory and hepatoprotective activity.
 
 ## Permaculture Applications
 
-**Deep-rooted dynamic accumulator:** The extensive taproot mines
+**Deep-rooted [[nutrient-dynamic-accumulator-reference]]:** The extensive taproot mines
 minerals from deep soil horizons, bringing nutrients to the surface
 through leaf fall.
 
-**Erosion control:** Root system stabilizes steep slopes and prairie
+**[[permplant-willows-salix-erosion-control-fodder]]:** Root system stabilizes steep slopes and prairie
 margins. Useful in conservation plantings and riparian buffers.
 
 **Pollinator support:** Prolonged bloom period provides nectar and
@@ -122,6 +122,9 @@ with shallow-rooted neighbors for surface moisture.
 
 ## See Also
 
+- [[hericium-laciniatum]]
+
 - [[symphytum-officinale]] — Comfrey, another deep-rooted dynamic accumulator
 - [[echinacea-angustifolia]] — Narrow-leaved coneflower, prairie medicinal
-- [[solidago-virgaurea]] — Goldenrod, prairie pollinator species
+- solidago-virgaurea — Goldenrod, prairie pollinator species
+- [[permaculture-design]]

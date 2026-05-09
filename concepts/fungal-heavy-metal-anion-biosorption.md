@@ -1,27 +1,16 @@
 ---
-title: Fungal Heavy Metal Anion Biosorption
+title: Fungal dighton-fungal-biosorption-heavy-metal-remediation Anion Biosorption
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-
-# Fungal Heavy Metal and Anion Biosorption
-
-Fungal biosorption of heavy metals and anions is the process by which fungal biomass binds metal ions and oxyanions from solution through physicochemical mechanisms independent of cellular metabolism. This process is central to [[fungal-bioremediation]].
-
-## Principles of Fungal Biosorption
-
-Biosorption can be defined as the removal of metal or metalloid species, compounds, and particulates from solution by biological material. It is a property of both living and dead biomass and can be considered as a combination of passive (non-metabolic) and active (metabolism-dependent) processes.
-
-Fungal cell walls are the primary sites for metal biosorption, offering a variety of functional groups that can bind metal ions. The composition of fungal cell walls, including chitin, glucans, proteins, and melanin, determines the biosorption capacity and selectivity for different metals.
-
-The distinction between biosorption and [[heavy-metal-biosorption]] applications.
+# Fungal Heavy Metal and Anion Biosorption Fungal biosorption of heavy metals and anions is the process by which fungal biomass binds metal ions and oxyanions from solution through physicochemical mechanisms independent of cellular metabolism. This process is central to fungal-bioremediation. ## Principles of Fungal Biosorption Biosorption can be defined as the removal of metal or metalloid species, compounds, and particulates from solution by biological material. It is a property of both living and dead biomass and can be considered as a combination of passive (non-metabolic) and active (metabolism-dependent) processes. Fungal cell walls are the primary sites for metal biosorption, offering a variety of functional groups that can bind metal ions. The composition of fungal cell walls, including chitin, glucans, proteins, and melanin, determines the biosorption capacity and selectivity for different metals. The distinction between biosorption and [[heavy-metal-biosorption]] applications.
 
 ### Glucans
 
-Beta-glucans are major components of fungal cell walls. These polysaccharides contain hydroxyl groups that can participate in metal binding through hydrogen bonding and weak coordination interactions. While individual hydroxyl groups have relatively low affinity for metal ions, the high density of glucan in fungal cell walls provides significant collective binding capacity.
+Beta-glucans are major components of fungal cell walls. These polysaccharides contain hydroxyl groups that can participate in [[chelation-and-metal-binding-in-plants]] through hydrogen bonding and weak coordination interactions. While individual hydroxyl groups have relatively low affinity for metal ions, the high density of glucan in fungal cell walls provides significant collective binding capacity.
 
 ### Proteins and Glycoproteins
 
@@ -37,7 +26,7 @@ Multiple mechanisms contribute to metal biosorption by fungal biomass:
 
 Ion exchange is one of the most important mechanisms for metal biosorption. Metal ions in solution are exchanged for protons or other ions bound to functional groups on the fungal cell surface. This mechanism is particularly important for the binding of alkali and alkaline earth metals.
 
-The pH of the solution strongly influences ion exchange capacity. At low pH, protonation of cell wall functional groups reduces metal binding, while at higher pH, deprotonation increases the availability of negatively charged binding sites.
+The pH of the solution strongly influences ion [[query-what-is-cation-exchange-capacity-and-why-does-it-matter]]. At low pH, protonation of cell wall functional groups reduces metal binding, while at higher pH, deprotonation increases the availability of negatively charged binding sites.
 
 ### Complexation
 
@@ -81,13 +70,13 @@ The presence of competing ions in multi-metal systems can reduce the uptake of t
 
 ## Comparison with Conventional Methods
 
-Fungal biosorption offers several advantages over conventional metal removal methods such as chemical precipitation, ion exchange resins, and activated carbon adsorption. These advantages include low cost, high efficiency for dilute solutions, minimal chemical sludge production, potential for biomass regeneration and metal recovery, and the ability to treat complex waste streams.
+Fungal biosorption offers several advantages over conventional metal removal methods such as chemical precipitation, ion exchange resins, and activated carbon adsorption. These advantages include [[jadam-ultra-low-cost-agriculture]], high efficiency for dilute solutions, minimal chemical sludge production, potential for biomass regeneration and metal recovery, and the ability to treat complex waste streams.
 
 The main limitations include the finite capacity of biomass, potential interference from other solutes, the need for biomass harvesting and disposal or regeneration, and variability between biomass batches.
 
 ## See Also
 
-- [[fungal-bioremediation]]
+- fungal-bioremediation
 - [[fungal-bioaccumulation-vs-biosorption]]
 - fungal heavy metal anion biosorption
 - [[fungal-metal-redox-transformations-detailed]]

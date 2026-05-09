@@ -1,5 +1,5 @@
 ---
-title: Mexico as Northern-Southern Mycobiotic Convergence Zone
+title: Mexico as Northern-Southern mexico northern southern mycobiotic convergence zone guzman 1998 Zone
 created: 2026-05-06
 tags:
   - biogeography
@@ -47,13 +47,13 @@ Mexico's neurotropic mycoflora includes species that are primarily temperate
 and have their main distributions in North America or Eurasia. These represent
 the Nearctic or northern component:
 
-- Panaeolina foenisecii, a cosmopolitan species widespread in temperate
+- [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]], a cosmopolitan species widespread in temperate
   grasslands
-- Panaeolus subbalteatus, found across temperate North America and Europe
+- [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]], found across temperate North America and Europe
 - Gymnopilus species (G. spectabilis, G. sapineus), which are primarily
   temperate in distribution
 - Inocybe species, predominantly temperate forest fungi
-- Claviceps purpurea, a temperate grass parasite
+- [[bloomfield-ergot-claviceps-purpurea-ergotism]], a temperate grass parasite
 
 ## Southern Elements
 
@@ -69,7 +69,7 @@ includes species whose affinities lie with Central and South America:
 
 ## Endemic Mexican Elements
 
-Most remarkably, Mexico harbors numerous endemic neurotropic fungal species
+Most remarkably, Mexico harbors numerous [[guzman-allen-gartz-cosmopolitan-and-endemic-neurotropic-species]] fungal species
 that occur nowhere else. These are concentrated in several distinctive groups:
 
 ### Section Mexicanae
@@ -124,7 +124,7 @@ explains why Mexico simultaneously hosts species with northern affinities
 
 Mexico's position as a convergence zone is reflected in its unique
 ethnomycological traditions. The indigenous peoples of Mexico developed the
-most extensive and well-documented sacred mushroom ceremonies in the world,
+most extensive and well-documented sacred [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]] in the world,
 involving species from both temperate highlands (P. mexicana, P. aztecorum)
 and tropical lowlands (P. zapotecorum). The Mazatec, Mixtec, Zapotec, Nahua,
 and other indigenous groups each cultivated relationships with their local

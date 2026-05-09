@@ -61,7 +61,7 @@ trichomes that contribute to its aromatic properties.
 S. officinalis is native to much of Europe (from the British Isles to the
 Balkans and eastward to the Caucasus), western Asia (Turkey, Iran), and
 northwestern Africa (Morocco, Algeria). It has been naturalized in parts of
-North America and New Zealand.
+[[psilocybin-north-america-pacific-northwest]] and New Zealand.
 
 The species prefers dry to mesic conditions in grasslands, open woodlands,
 meadows, hedgerows, and rocky slopes. It thrives on well-drained, calcareous
@@ -82,7 +82,7 @@ metabolites with documented pharmacological activity.
   anxiolytic activities
 - **Diterpenoids** — stachysolone and similar labdane derivatives; antimicrobial
   properties
-- **Essential oil** — dominated by germacrene D, β-caryophyllene, and spathulenol;
+- **[[permaculture-designers-manual-essential-oil-plants]]** — dominated by germacrene D, β-caryophyllene, and spathulenol;
   contributes aromatic and antimicrobial qualities
 
 **Pharmacological evidence:**
@@ -96,7 +96,7 @@ metabolites with documented pharmacological activity.
 In European folk medicine, betony was used to treat headaches, neuralgia,
 anxiety, and digestive complaints. The dried herb was brewed as a tea and
 consumed as a nervine tonic. Anglo-Saxon herbalists listed it as one of the
-most important medicinal herbs, alongside mugwort and chamomile.
+most important [[permaculture-plants-medicinal-herbs-healing]], alongside mugwort and chamomile.
 
 In medieval medical texts, betony was prescribed for wounds, gout, and
 melancholy. The 16th-century herbalist John Gerard recommended it for "them
@@ -112,7 +112,7 @@ full sun to partial shade and well-drained soil. Spacing of 30–40 cm between
 plants is recommended.
 
 Harvesting of aerial parts occurs during flowering (July–August), when
-secondary metabolite concentrations peak. Drying should be done in a warm,
+[[fungal-elicitors-enhanced-secondary-metabolite-production]] concentrations peak. Drying should be done in a warm,
 well-ventilated area away from direct sunlight. The dried herb retains
 medicinal potency for up to 12 months when stored in airtight containers.
 
@@ -122,6 +122,8 @@ plantings. Its flowers attract bees and butterflies, making it valuable
 for pollinator-friendly plantings.
 
 ## See Also
+
+- [[stachys-affinis]]
 
 - [[leonurus-cardiaca-entity]]
 - [[prunella-vulgaris]]

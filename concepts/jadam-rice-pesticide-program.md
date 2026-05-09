@@ -1,5 +1,5 @@
 ---
-title: Comprehensive Rice Pesticide Program (JADAM Recipe #3)
+title: Comprehensive jadam rice pesticide program Program (JADAM Recipe #3)
 created: 2026-04-20
 updated: 2026-04-18
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-JADAM pesticide recipe #3 is a comprehensive rice pest and disease control solution effective against the major rice threats: brown planthopper, Asiatic rice borer, armyworm, rice leaf roller, rice blast, rice sheath blight, smut, and stinkbugs. This single recipe replaces multiple chemical pesticide applications throughout the rice growing season.
+JADAM pesticide recipe #3 is a comprehensive rice pest and [[hamilton-pest-and-disease-control-organic]] solution effective against the major rice threats: brown planthopper, Asiatic [[fukuoka-kochi-rice-borer-eradication-debacle]], armyworm, rice leaf roller, [[bloomfield-rice-blast-appressorium-mechanics]], rice sheath blight, smut, and stinkbugs. This single recipe replaces multiple chemical pesticide applications throughout the rice [[savory-growing-season-and-non-growing-season-management]].
 
 **Developed by:** Youngsang Cho
 
@@ -21,7 +21,7 @@ JADAM pesticide recipe #3 is a comprehensive rice pest and disease control solut
 For 500 L (132 gal) of spray solution:
 
 - [[jadam-sulfur-js]] 2 L (0.53 gal)
-- Jerusalem artichoke [[jadam-herb-solution-jhs]] 5 L (1.3 gal)
+- [[comparison-jerusalem-artichoke-vs-potato]] [[jadam-herb-solution-jhs]] 5 L (1.3 gal)
 
 ## Target Pests and Diseases
 
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

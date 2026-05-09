@@ -1,5 +1,5 @@
 ---
-title: Problem Plant Regulation with Livestock
+title: holzer problem plant regulation with livestock with Livestock
 created: 2026-04-26
 tags:
   - weed-management
@@ -15,7 +15,7 @@ type: concept
 
 # Problem Plant Regulation with Livestock
 
-Sepp Holzer has developed a distinctive approach to managing problem plants
+[[comparison-sepp-holzer-vs-biodynamic]] has developed a distinctive approach to managing problem plants
 that works with natural processes rather than fighting against them. Rather
 than relying on herbicides or intensive cultivation, he uses livestock,
 strategic planting, and ecological understanding to restore balance to
@@ -33,7 +33,7 @@ most of these problems ourselves.
 
 Broad-leaved dock (Rumex obtusifolius), stinging nettles (Urtica dioica),
 and orache (Atriplex patula) indicate a high level of nitrogen in the soil.
-Overfertilising or overly intensive pasture management usually causes this
+Overfertilising or overly intensive [[grassland-pasture-management-mollison]] usually causes this
 imbalance. To deal with this, the balance must be restored and the land
 managed differently. It makes no sense just to treat the symptoms.
 
@@ -64,7 +64,7 @@ dry out.
 ### Step Two: Absorbing Excess Nutrients
 After the pigs are moved on to the next paddock, Holzer introduces demanding
 plants, especially tubers like Jerusalem artichokes (Helianthus tuberosus),
-but also sunflowers (Helianthus annuus) and hemp (Cannabis sativa). They
+but also sunflowers (Helianthus annuus) and hemp ([[comparison-cannabis-sativa-vs-cannabis-indica]]). They
 absorb all of the excess nutrients and make the conditions worse for the
 "weeds". They also grow tall and quickly on the nutrient-rich soils, so they
 will overshadow and kill off any remaining problem plants.
@@ -126,10 +126,10 @@ that information?"
 
 Holzer illustrates the relationship between action and reaction in nature
 with the example of an overly tidy garden. Removing all weeds, keeping the
-lawn short, and keeping the ground under fruit trees "neat" creates a
+lawn short, and keeping the ground under [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] "neat" creates a
 situation where:
 
-- Vegetable patches and fruit trees dry out from lack of ground cover
+- Vegetable patches and fruit trees dry out from lack of [[fukuoka-citrus-orchard-ground-cover-cultivation]]
 - More watering is required, which flushes out nutrients
 - Chemical fertilisers damage soil life
 - Reduced humus production worsens soil quality

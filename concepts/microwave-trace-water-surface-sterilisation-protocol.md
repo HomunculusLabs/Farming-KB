@@ -10,14 +10,14 @@ type: concept
 
 # Microwave Sterilisation of Contaminated Surfaces Using Trace Water Enhancement
 
-Microwave irradiation at 2.45 GHz can sterilise surfaces contaminated with
+[[dry-microwave-irradiation-spore-resistance]] at 2.45 GHz can sterilise surfaces contaminated with
 bacteria, yeasts, and molds through a dual mechanism involving direct coupling
 with intracellular water in vegetative cells and trace-water-enhanced steam
 generation for more resistant organisms including spores. This technology was
 developed at NASA's Lyndon B. Johnson Space Center by James E. Atwater
 (Technical Director), Neil D. Streech (Project Engineer), and Frank C. Garmon
 (Microbiologist) for aseptic access to biologically sensitive closed systems
-such as spacecraft environmental control and life support systems (ECLSS).
+such as spacecraft [[eclss-environmental-control-life-support]] and life support systems (ECLSS).
 
 ## Motivation: The Aseptic Access Problem
 
@@ -31,15 +31,15 @@ had significant drawbacks for this application:
 - **Gamma irradiation**: Requires specialised facilities and poses
   operational safety concerns
 - **Chemical disinfection**: Introduces chemical contaminants
-  (ethylene oxide, alcohols, quaternary amines, hydrogen peroxide,
+  (ethylene oxide, alcohols, quaternary amines, [[cervantes-hydrogen-peroxide-sterilization]],
   elemental iodine) that are unacceptable in closed life support systems
 - **UV irradiation**: Cannot sterilise complex surface geometries
   or reach enclosed mating surfaces
 
-The proposed Microwave Sterilizable Access Port (MSAP) system was
+The proposed [[aseptic-specimen-transfer-space-environment-microwave-sterilizable-access-port]] Access Port (MSAP) system was
 designed to overcome all these limitations simultaneously. It consists
 of three subsystems: an in-line valve port assembly, a portable
-microwave sterilization chamber, and a specimen transfer assembly.
+[[nasa-microwave-sterilization-challenge-organisms-kill-kinetics]] chamber, and a specimen transfer assembly.
 
 ## Mechanism of Microwave Surface Sterilisation
 
@@ -129,7 +129,7 @@ with vegetative organisms succumbing more rapidly than spore-formers.
 ## Unique Capability: Enclosed System Sterilisation
 
 A distinctive feature is the demonstrated ability to penetrate
-elastomeric materials and sterilise fully enclosed systems. Mating
+[[microwave-penetration-through-elastomeric-materials-sterilization]] and sterilise fully enclosed systems. Mating
 surfaces inside sealed assemblies, O-rings, and other inaccessible
 interfaces can be sterilised without disassembly. This capability is
 particularly valuable for spacecraft ECLSS where maintaining aseptic
@@ -137,7 +137,13 @@ access is critical.
 
 ## Related
 
+- [[microwave-water-interaction-2.45-ghz]]
+
 - [[microwave-surface-sterilization-technology]]
 - [[bacterial-spore-microwave-resistance]]
 - [[microwave-penetration-elastomeric-materials]]
 - [[microwave-surface-sterilization-microbial-kill-kinetics]]
+
+## See Also
+
+- [[rectangular-waveguide-dipole-antenna-microwave-surface-sterilization]]

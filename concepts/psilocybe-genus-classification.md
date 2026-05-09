@@ -23,7 +23,7 @@ sources:
 
 # Psilocybe Genus Classification
 
-Taxonomic classification of the genus Psilocybe, including sections, species groups, and related psychoactive genera. Based on the work of [[gaston-guzman]] (2000 monograph), [[jochen-gartz]], and [[john-allen]]. See also [[psilocybin-mushroom-chemistry]] for geographical distribution and [[psilocybin-mushroom-chemistry]] for chemical profiles.
+Taxonomic classification of the genus Psilocybe, including sections, species groups, and related psychoactive genera. Based on the work of [[gaston-guzman]] (2000 monograph), [[jochen-gartz]], and [[john-w-allen]]. See also [[psilocybin-mushroom-chemistry]] for geographical distribution and [[psilocybin-mushroom-chemistry]] for chemical profiles.
 
 ## Genus Overview
 
@@ -33,13 +33,13 @@ Taxonomic classification of the genus Psilocybe, including sections, species gro
 - **Family:** Hymenogastraceae (reclassified from Strophariaceae/Coprinaceae in modern taxonomy)
 - **Genus:** Psilocybe (Fr.) P. Kumm. (1871)
 - **Etymology:** From Greek "psilos" (bare/naked) + "kube" (head), referring to the smooth, bare cap surface of the type species
-- **Type species:** Psilocybe semilanceata (Fr.) P. Kumm.
+- **Type species:** [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] (Fr.) P. Kumm.
 - **Number of species:** Approximately 180-200 described species (as of Gartz/Guzman/Allen's 1998 survey); many more have been described since
 
 ## Generic Characteristics
 
 All Psilocybe species share these features:
-- **Spore print:** Dark purple-brown to nearly black
+- **[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Dark purple-brown to nearly black
 - **Spore color:** Dark brown to purple-brown in microscopic view
 - **Spore shape:** Elliptical to rhomboid or lemon-shaped; with apical germ pore
 - **Gill attachment:** Adnate to adnexed (rarely sinuate or subdecurrent)
@@ -58,7 +58,7 @@ All Psilocybe species share these features:
 Species with chrysocystidia (large, refractive cells on gill edges that contain golden-yellow fluid when mounted in ammonia):
 
 - **Subsection Psilocybe:** Species with more or less hygrophanous caps (changing color as they dry), typically smaller
-  - P. semilanceata (Liberty Cap) — type species
+  - P. semilanceata ([[peter-mantle-liberty-cap-chromatographic-discovery-1969]]) — type species
   - P. pelliculosa
   - P. silvatica
   - P. montana
@@ -82,58 +82,6 @@ Species with chrysocystidia (large, refractive cells on gill edges that contain 
 Species WITHOUT chrysocystidia; typically have different spore characteristics:
 
 - P. cubensis
-- P. mexicana
-- P. zapotecorum
-- P. caerulescens
-- P. tampanensis
-- P. colimensis
-- P. muliercula
-
-## Species Groups by Habitat and Geography
-
-### Dung-Inhabiting Species (Coprophilous)
-
-The most widely distributed group; found wherever large herbivores are present:
-
-| Species | Distribution | Potency |
-|---|---|---|
-| P. cubensis | Pantropical | Moderate (0.5-1.0%) |
-| P. subcubensis | Central/South America | Low-moderate |
-| P. tampanensis | Florida, Central America | Low-moderate |
-| P. colimensis | Mexico | Moderate |
-
-### Wood-Inhabiting Species (Lignicolous)
-
-Found on decaying wood, wood chips, and woody debris:
-
-| Species | Distribution | Substrate | Potency |
-|---|---|---|---|
-| P. cyanescens | Pacific NW, Europe | Alder, Douglas fir chips | Very high |
-| P. azurescens | Oregon coast | Dune grasses, driftwood | Extremely high |
-| P. bohemica | Central Europe | Deciduous wood chips | High |
-| P. aucklandii | New Zealand | Dead wood | High |
-| P. weraroa | New Zealand | Fallen branches | Moderate |
-| P. allenii | Pacific NW | Wood chips | High |
-| P. cyanofibrillosa | Pacific NW | Alder debris | High |
-| P. subaeruginosa | Australia, NZ | Eucalyptus, wood | Very high |
-
-### Grassland/Soil Species (Terricolous)
-
-| Species | Distribution | Potency |
-|---|---|---|
-| P. semilanceata | Circumboreal temperate | High |
-| P. pelliculosa | Pacific NW, Japan | Moderate |
-| P. strictipes | Europe | Moderate |
-
-### Tropical Forest Species
-
-| Species | Distribution | Potency |
-|---|---|---|
-| P. zapotecorum | Mexico, S. America | Moderate |
-| P. caerulescens | Mexico, S. America | Moderate |
-| P. mexicana | Mexico | Moderate |
-| P. samuiensis | Thailand | Low-moderate |
-
 ## Related Psychoactive Genera
 
 Several other mushroom genera contain psilocybin and related tryptamines, with independent evolutionary origins:
@@ -146,14 +94,14 @@ Several other mushroom genera contain psilocybin and related tryptamines, with i
   - P. subbalteatus — moderate potency, widespread in temperate regions
   - P. tropicalis — tropical, high potency
   - P. bisporus — 2-spored species, Caribbean
-  - P. cambodginiensis — Southeast Asia
+  - P. cambodginiensis — [[psilocybe-southeast-asia-pacific]]
 - **Total psychoactive species:** ~15-20 described
 - **Key reference:** See [[psilocybin-mushroom-chemistry]] for distribution data
 
 ### Gymnopilus (Kühner) Singer
 
 - **Distinguishing features:** Rusty-brown spore print; scaly orange caps; grows on dead wood; contains bis-noryangonin (MAOI) alongside psilocybin
-- **Psychoactive species:** G. spectabilis (large, N. America/Asia), G. purpuratus (Southern Hemisphere), G. luteofolius (wood chips), G. junonius (East Asia)
+- **Psychoactive species:** G. spectabilis (large, N. America/Asia), G. purpuratus ([[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]), G. luteofolius (wood chips), G. junonius (East Asia)
 - **Total:** ~10-15 described (many not chemically verified)
 
 ### Inocybe (Fr.) Fr.
@@ -170,7 +118,7 @@ Several other mushroom genera contain psilocybin and related tryptamines, with i
 
 - **Distinguishing features:** Small, fragile LBMs (Little Brown Mushrooms); conical caps; pale brown spore print; grows on soil, dung, or grass
 - **Psychoactive species:**
-  - C. smithii — North America, contains psilocybin
+  - C. smithii — [[psilocybin-north-america-pacific-northwest]], contains psilocybin
   - C. kuehneriana — Europe, contains psilocybin
   - C. siligineoides — Mexico, traditionally used
   - C. cyanopus — Europe/North America, blue foot

@@ -35,16 +35,16 @@ temperate forest ecosystems.
 Suillus variegatus is an ectomycorrhizal fungus that forms
 symbiotic associations primarily with coniferous trees,
 particularly species of Pinus. As an ectomycorrhizal partner,
-it plays a significant role in nutrient cycling within forest
+it plays a significant role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within forest
 soils, facilitating the uptake of water and mineral nutrients
 by its host plants in exchange for photosynthetically derived
 carbon compounds. The species has attracted considerable
 research attention due to its notable tolerance to heavy
 metals and its capacity to accumulate these elements from
 contaminated soils. This characteristic makes it a subject of
-interest in studies of fungal ecology in polluted
+interest in studies of [[gadd-fungal-ecology-endophytes]] in polluted
 environments, phytoremediation research, and the broader
-understanding of how ectomycorrhizal fungi influence metal
+understanding of how [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] influence metal
 bioavailability in terrestrial ecosystems. The fruiting bodies
 of Suillus variegatus are typically found in coniferous
 woodlands during autumn and are recognized by their
@@ -69,7 +69,7 @@ the bioavailability of specific metals in its substrate.
 As an ectomycorrhizal fungus, Suillus variegatus contributes
 to the health and productivity of its host trees by extending
 the effective absorptive surface area of the root system
-through an extensive external mycelial network. This network
+through an extensive external [[gadd-mycelial-network-dynamics]]. This network
 facilitates the acquisition of poorly mobile nutrients such as
 phosphorus and micronutrients from soil beyond the depletion
 zone immediately surrounding plant roots. The species is

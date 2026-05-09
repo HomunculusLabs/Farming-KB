@@ -20,7 +20,7 @@ slowly to plants over weeks and months.
 
 ## The Soil Sponge
 
-Humus and organic matter act as a sponge, swelling to hold
+Humus and [[hamilton-composting-and-organic-matter-management]] act as a sponge, swelling to hold
 several times their weight in water. Research shows that soil
 with as little as 2 percent organic matter can reduce
 irrigation needs by 75 percent compared to poor soils with
@@ -57,8 +57,8 @@ water.
 To transform garden soil into a water reservoir, several
 techniques work together:
 
-- Add generous amounts of compost and organic matter
-- Use [[hemenway-cover-crops-guide]] and [[mulch-types-and-effects]] to reduce evaporation
+- Add generous amounts of [[coleman-compost-and-organic-fertility-management]] matter
+- Use hemenway-cover-crops-guide and [[mulch-types-and-effects]] to reduce evaporation
 - Avoid compacting soil by minimizing foot traffic
 
 [[soil-food-web]] organisms, including fungi and bacteria,
@@ -75,12 +75,12 @@ were contoured like shallow dishes, the center a few inches
 lower than the edges. These gentle depressions are invisible
 to the eye but the rain knows they are there.
 
-[[gaias-garden-rainwater-roof-harvesting]]
+gaias-garden-rainwater-roof-harvesting
    and [[ozier-pdc-composting-and-soil-building]], deep mulching, and
 composting all build the soil's ability to store water.
 
 ## See Also
 
-- [[gaias-garden-rainwater-roof-harvesting]]
+- gaias-garden-rainwater-roof-harvesting
 - [[sheet-mulching]]
 - [[gaias-garden-bringing-the-soil-to-life]]

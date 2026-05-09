@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Psychotherapy History
+title: metzner-psychedelic-psychotherapy-clinical-history History
 source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 tags: [psychedelics, psychotherapy, LSD, psychiatry, psycholytic, psychedelic]
 created: 2026-05-08
@@ -30,7 +30,7 @@ post-traumatic stress disorder and relationship difficulties.
 Despite theoretical and practical differences, Metzner identified five
 fundamental principles shared by both psycholytic and psychedelic approaches:
 
-1. **Expanded consciousness**: Psychedelic therapy invariably involves a
+1. **Expanded consciousness**: [[metzner-psycholytic-psychedelic-therapy-models]] invariably involves a
    profoundly expanded state of consciousness, in which individuals may
    transcend fundamental self-concepts and views of reality.
 
@@ -41,8 +41,8 @@ fundamental principles shared by both psycholytic and psychedelic approaches:
 
 - Metzner, R. (1998). "[[hallucinogenic-drugs]] and Plants in Psychotherapy and Shamanism." Journal of Psychoactive Drugs 30(4).
 - Grinspoon, L. & Bakalar, J. (1979/1997). Psychedelics Reconsidered. Basic Books.
-- Grof, S. (1980). LSD Psychotherapy. Hunter House.
-- Leary, T., Metzner, R. & Alpert, R. (1964). The Psychedelic Experience. University Press Books.
+- Grof, S. (1980). [[metzner-lsd-psychotherapy-approaches]]. Hunter House.
+- Leary, T., Metzner, R. & Alpert, R. (1964). The [[leary-psychedelic-experience-bardo-mapping]]. University Press Books.
 ## Practical Considerations
 
 When working with Psychedelic Psychotherapy History, several practical factors should be
@@ -59,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

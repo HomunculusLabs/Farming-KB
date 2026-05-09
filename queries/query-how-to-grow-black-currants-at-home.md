@@ -9,7 +9,8 @@ tags:
   - homesteading
 created: 2026-05-06
 updated: 2026-05-06
-sources: []
+sources:
+  sources: []
 ---
 
 # How to Grow Black Currants at Home
@@ -18,25 +19,25 @@ Black currants (Ribes nigrum) are among the most nutritious and productive berri
 
 ## Site Selection and Soil Requirements
 
-Black currants prefer full sun to partial shade, though they will produce a reasonable crop in dappled shade. They thrive in moisture-retentive, well-drained soil with a pH between 6.0 and 6.5. Unlike many fruit bushes, black currants tolerate heavier soils and partial shade better than red currants or gooseberries. See [[fruit-growing-guide-organic]] for general organic fruit growing practices.
+Black currants prefer full sun to partial shade, though they will produce a reasonable crop in dappled shade. They thrive in moisture-retentive, well-drained soil with a pH between 6.0 and 6.5. Unlike many fruit bushes, black currants tolerate heavier soils and partial shade better than red currants or gooseberries. See [[fruit-growing-guide-organic]] for general [[hamilton-organic-fruit-growing]] growing practices.
 
 ## Pruning Techniques
 
 Black currants fruit best on one- and two-year-old wood, so pruning focuses on encouraging new growth and removing old wood. In the first winter after planting, cut all stems back to 2-3 buds above ground level. This encourages a strong root system and multiple new shoots from the base.
 
-From the second year onward, prune in winter when the plant is dormant. Remove about a quarter of the oldest stems at ground level each year, keeping 6-8 strong young stems. This renewal pruning ensures a continuous supply of productive young wood. See [[permaculture-berry-crops]] for a broader discussion of berry selection for permaculture systems.
+From the second year onward, prune in winter when the plant is dormant. Remove about a quarter of the oldest stems at ground level each year, keeping 6-8 strong young stems. This renewal pruning ensures a continuous supply of productive young wood. See permaculture-berry-crops for a broader discussion of berry [[pioneer-species-selection-for-permaculture-systems]] systems.
 
 ## Pest and Disease Management
 
 The most significant regulatory consideration for black currants is white pine blister rust, a disease that affects both currants and white pines. In some regions, black currant cultivation is restricted or prohibited to protect commercial pine forests. Check local regulations before planting. See [[integrated-pest-management]] for an ecological approach to pest control.
 
-Common pests include aphids, currant borers, and birds. Netting is essential to protect ripening fruit from birds. Aphids can be controlled with insecticidal soap or by encouraging ladybird populations. Powdery mildew is the most common fungal disease — ensure good air circulation through proper pruning and avoid overhead watering.
+Common pests include aphids, currant borers, and birds. Netting is essential to protect ripening fruit from birds. Aphids can be controlled with insecticidal soap or by encouraging ladybird populations. [[cervantes-powdery-mildew-prevention-treatment]] is the most common [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] — ensure good [[stamets-growing-room-air-circulation-co2-management]] through proper pruning and avoid overhead watering.
 
 ## Harvesting and Using Black Currants
 
 Black currants typically begin bearing fruit 1-2 years after planting and reach full production by year 4-5. Harvest when the berries are fully black and slightly soft. Pick entire strigs (clusters) rather than individual berries for efficiency.
 
-Black currants are too tart for most people to eat fresh in quantity, but they make exceptional jam, jelly, juice, and wine. The berries freeze well for later use. See [[permaculture-berry-crops]]
+Black currants are too tart for most people to eat fresh in quantity, but they make exceptional jam, jelly, juice, and wine. The berries freeze well for later use. See permaculture-berry-crops
 - [[pruning-fruit-trees-and-bushes]]
 - [[holzer-soft-fruit-bushes-and-berries]]
 - [[garden-location-and-soil-preparation]]
@@ -57,7 +58,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,4 +100,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

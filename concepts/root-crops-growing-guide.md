@@ -1,10 +1,12 @@
 ---
-title: Root Crops Growing Guide
+title: Root root crops growing guide Guide
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [reference]
-sources: []
+sources:
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Root Crops Growing Guide
@@ -17,9 +19,9 @@ Most root vegetables are biennials; they store food in the swollen roots for use
 
 Carrots are not hard to grow on good soil and it is possible to get a succession throughout the year. They are an excellent source of vitamins and dietary fiber.
 
-**Varieties:** For multiple sowing, use round types like Parmex and Atlas. Early outdoor sowings: fast-maturing varieties like Adelaide or Nantes strains. For main crop: Autumn King or Chantenay Red Cored.
+**Varieties:** For multiple sowing, use round types like Parmex and Atlas. [[coleman-fall-bed-preparation-early-outdoor-planting]] sowings: fast-maturing varieties like Adelaide or Nantes strains. For main crop: Autumn King or Chantenay Red Cored.
 
-**Soil and Site:** Carrots do best on light soil with plenty of well-rotted organic matter. They will not fork provided the compost or manure is well-rotted. If soil is heavy, grow in raised deep beds. Add lime to bring the pH over 6.5.
+**Soil and Site:** Carrots do best on light soil with plenty of well-rotted [[hamilton-composting-and-organic-matter-management]]. They will not fork provided the compost or manure is well-rotted. If soil is heavy, grow in raised deep beds. Add lime to bring the pH over 6.5.
 
 **Sowing:** Earliest crops are multiple sowings planted outside under cloches in mid- to late winter. Sow outside under cloches in late winter — round varieties in wide bands and long ones in rows 9in (23cm) apart. Thin long varieties when big enough to eat. Sow every three weeks in rows 12in (30cm) apart, thinning to 3in (8cm) apart.
 
@@ -29,11 +31,11 @@ Carrots are not hard to grow on good soil and it is possible to get a succession
 
 **Harvesting:** Pull early and successional sowings when still young and crisp. In mid- or late fall, pull the final sowing and store in moist peat or vermiculite. Do not leave in the ground too long or some may split, attracting slugs.
 
-**Pests and Diseases:** Carrot fly and storage rot.
+**[[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]:** Carrot fly and storage rot.
 
 ## Potatoes (Solanum tuberosum)
 
-The potato justifies organic gardening methods. Early varieties are desirable for superior fresh flavor. Maincrops make a wonderful cleaning crop in new gardens.
+The potato justifies [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] methods. Early varieties are desirable for superior fresh flavor. Maincrops make a wonderful cleaning crop in new gardens.
 
 **Varieties:** Always buy certified disease-free seed potatoes; select small tubers with few sprouts to avoid undue competition. Early varieties: Yukon Gold (yellow-fleshed), Irish Cobbler (early, versatile), Adirondack Red (very early, flavorful). Main crop: Red Pontiac. US seed companies supply potato eyes rather than whole tubers — pot and grow in greenhouse until planting time.
 
@@ -41,7 +43,7 @@ The potato justifies organic gardening methods. Early varieties are desirable fo
 
 **Soil and Site:** Water-retentive soil with plenty of organic matter. Do not lime the potato plot — potatoes prefer an acid soil.
 
-**Planting:** Earliest crops come from tubers planted through black plastic sheeting under cloches in late winter. Alternatively, plant early varieties in rows 2ft (60cm) apart, setting tubers 12in (30cm) apart and about 6in (15cm) deep. Cover rows with woven polypropylene for frost protection. Main crop varieties: rows spaced 2ft 6in (75cm) apart, tubers about 15in (35cm) apart.
+**Planting:** Earliest crops come from tubers planted through black plastic sheeting under cloches in late winter. Alternatively, plant early varieties in rows 2ft (60cm) apart, setting tubers 12in (30cm) apart and about 6in (15cm) deep. Cover rows with woven polypropylene for [[holzer-frost-protection-techniques]]. Main crop varieties: rows spaced 2ft 6in (75cm) apart, tubers about 15in (35cm) apart.
 
 **Black Plastic Method:** Lay black plastic sheeting over the area and bury/secure edges. Cut slits every 12in (30cm) in staggered rows. Plant potatoes 6in (15cm) deep with sprouts uppermost. This restricts weeds and warms the soil for frost protection.
 
@@ -110,6 +112,5 @@ An excellent winter alternative to potatoes with all the flavor of globe articho
 
 - [[soil-building-permaculture]]
 - [[salad-crops-growing-guide]]
-- [[soil-building-permaculture]]
 - [[holzer-green-manure-and-soil-building-plants]]
 - [[gaias-garden-cover-crops-soil-building]]

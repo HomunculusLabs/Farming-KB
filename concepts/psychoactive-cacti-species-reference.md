@@ -1,5 +1,5 @@
 ---
-title: Psychoactive Cacti Species Reference
+title: gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch Species Reference
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -80,7 +80,7 @@ Comprehensive reference to psychoactive cacti species, their alkaloid profiles, 
 
 Key alkaloids found across psychoactive cacti:
 
-- Mescaline (3,4,5-trimethoxy-B-phenethylamine) -- main psychoactive component of peyote and San Pedro
+- Mescaline (3,4,5-trimethoxy-B-phenethylamine) -- main psychoactive component of [[mescaline-peyote-and-san-pedro-guide]] Pedro
 - Hordenine (N,N-dimethyltyramine) -- mild sympathomimetic, antiseptic properties
 - Tyramine -- mild sympathomimetic, some antiseptic activity
 - Pellotine (1,2-dimethyl-6,7-dimethoxy-8-hydroxy tetrahydroisoquinoline) -- tetrahydroisoquinoline alkaloid
@@ -102,9 +102,9 @@ Key alkaloids found across psychoactive cacti:
 ## Related
 
 - [[psychoactive-cacti-guide]] — Cultivation, grafting, and preparation methods
-- [[peyote-cultivation]] — Detailed peyote cultivation from seed and cutting
+- [[peyote-cultivation]] — Detailed [[gottlieb-peyote-cultivation-from-seed]] from seed and cutting
 - [[mescaline-reference]] — Mescaline pharmacology, dosage, effects (Turner)
-- [[hallucinogenic-plants-new-world]] — New World hallucinogenic species survey
+- [[hallucinogenic-plants-new-world]] — New [[old-world-hallucinogenic-plants-overview]] species survey
 - [[psychedelic-compounds-reference]] — Major psychoactive compounds comparison
 - [[entheogen-culture]] — Religious and ceremonial use of psychoactive plants
 - [[cactus-cultivation-seed-cutting]]

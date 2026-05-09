@@ -5,7 +5,8 @@ tags: [physics, electromagnetism, electrical-engineering, maxwell-equations, gen
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
-sources: []
+sources:
+  sources: []
 ---
 
 ## Core idea
@@ -34,7 +35,7 @@ sources: []
 
 - Lenz law gives the direction of induced emf: the induced current opposes the change in magnetic flux that produced it.
 - If flux through a loop increases upward, the induced current creates downward magnetic field; if the flux decreases, the induced field points upward.
-- This opposition is not an arbitrary sign convention but a consequence of energy conservation.
+- This opposition is not an arbitrary sign convention but a consequence of [[mollison-designers-home-energy-conservation-and-solar-heating]].
 - A generator requires mechanical torque because the induced current produces magnetic reaction forces that resist the motion doing the work.
 - An inductor resists rapid current change because the induced voltage opposes the attempted change in its stored magnetic energy.
 - Magnetic braking converts mechanical energy into Joule heat through induced currents in a conductor moving through a magnetic field.
@@ -46,7 +47,7 @@ sources: []
 - Transformer induction occurs when a changing magnetic field links a stationary secondary winding.
 - Alternating current in the primary winding creates alternating core flux, and the secondary voltage follows the rate of change of that flux.
 - Ideal transformer voltage ratio follows the turns ratio, but current ratio, losses, insulation limits, and leakage flux set real performance.
-- High-permeability cores improve coupling by guiding flux, while air gaps reduce coupling but can and store energy and prevent saturation.
+- High-permeability cores improve coupling by guiding flux, while air gaps reduce coupling but can [[permaculture-principle-catch-and-store-energy]] and prevent saturation.
 - Core saturation limits volt-seconds and can create high magnetizing current, waveform distortion, heating, and audible noise.
 - Laminated steel and ferrite cores reduce eddy-current losses that would otherwise heat conductive magnetic material.
 - Mutual induction also appears in current transformers, ignition coils, guitar pickups, and inductive communication links.
@@ -71,7 +72,7 @@ sources: []
 - Unlike electrostatic fields, induced electric fields can form closed loops and are not fully described by a scalar potential.
 - Together with Ampere Maxwell law, the equation explains electromagnetic waves propagating through space.
 - In finite element and finite difference simulations, this field form is the starting point for eddy-current and transient electromagnetic analysis.
-- The equation is part of [[faires-wind-power-systems]] rely on induction for voltage transformation, isolation, generation, metering, and fault-current sensing.
+- The equation is part of faires-wind-power-systems rely on induction for voltage transformation, isolation, generation, metering, and fault-current sensing.
 - Industrial induction motors use rotating magnetic fields to induce rotor currents and torque without brushes.
 - Automotive alternators, bicycle dynamos, and wind-turbine generators are practical flux-changing machines.
 - Wireless chargers use coupled coils, often tuned resonantly, to transfer energy across an air gap.

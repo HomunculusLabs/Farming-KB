@@ -9,13 +9,13 @@ sources: []
 
 # Earthbag Building
 
-Earthbag construction uses polypropylene sandbags filled with subsoil to build walls, domes, and vaults. Developed by architect Nader Khalili in the 1990s, this technique is extremely affordable, requires minimal tools, and produces structures that are resistant to earthquakes, floods, hurricanes, and fire. Earthbag building is one of the most accessible natural building methods for homesteaders.
+[[comparison-earthbag-construction-vs-cob-construction]] uses polypropylene sandbags filled with subsoil to build walls, domes, and vaults. Developed by architect Nader Khalili in the 1990s, this technique is extremely affordable, requires minimal tools, and produces structures that are resistant to earthquakes, floods, hurricanes, and fire. Earthbag building is one of the most accessible [[query-how-do-i-choose-a-natural-building-method-for-my-climate]] methods for homesteaders.
 
 ## Core Advantages
 
-- Extremely low cost: Bags cost $0.10-0.50 each; fill material is often free
+- Extremely [[jadam-ultra-low-cost-agriculture]]: Bags cost $0.10-0.50 each; fill material is often free
 - Simple tools: Only shovels, tampers, buckets, and a level needed
-- Disaster resistant: Flexible walls survive earthquakes; flood-resistant; fireproof
+- [[holzer-disaster-resistant-farming]]: Flexible walls survive earthquakes; flood-resistant; fireproof
 - Fast learning curve: Basic technique can be learned in a weekend workshop
 - Uses local materials: Subsoil from your site, bags, barbed wire
 - Thermal mass: Thick earth walls provide excellent temperature moderation
@@ -140,21 +140,6 @@ Earthbag walls must be plastered to protect the bags from UV degradation.
 - Lifespan: Properly plastered earthbag structures can last 100+ years
 
 ## Limitations
-
-- Labor intensive: Filling and placing bags is physically demanding
-- Building codes: Rarely accepted without engineering approval
-- Roof options: Flat roofs require beams; domes solve this but complicate code approval
-- Interior space: Thick walls reduce interior floor area
-- Moisture sensitivity: Earth walls must be protected from prolonged moisture exposure
-- Bag degradation: Polypropylene eventually degrades — plaster is essential for longevity
-
-## Cost Estimates
-
-- Bags: $0.10-0.50 each (200-400 bags for a small structure)
-- Barbed wire: $50-100 per structure
-- Fill: Free (on-site subsoil)
-- Plaster materials: $100-500
-- Total for a 200 sq ft structure: $500-2,000 in materials
 
 ## See Also
 

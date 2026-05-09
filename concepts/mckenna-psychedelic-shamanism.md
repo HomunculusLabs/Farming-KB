@@ -12,13 +12,13 @@ sources:
 
 ## The Shaman as Healer and Seer
 
-The shaman is the original healer, the first physician, the first priest, the first artist. The shaman's role in society is to maintain the balance between the human community and the larger world of spirits, ancestors, and natural forces. The shaman does this by entering into altered states of consciousness — primarily through the use of psychoactive plants — and bringing back knowledge, healing, and guidance from the spirit world.
+The shaman is the original healer, the first physician, the first priest, the first artist. The shaman's role in society is to maintain the balance between the human community and the larger world of spirits, ancestors, and natural forces. The shaman does this by entering into [[weil-the-natural-mind-altered-states-normalcy]] of consciousness — primarily through the use of psychoactive plants — and bringing back knowledge, healing, and guidance from the spirit world.
 
 Psychedelic shamanism is not a New Age invention but the oldest form of religious practice known to humanity. It predates all of the world's major religions by tens of thousands of years. It is the authentic root from which all subsequent religious traditions grew.
 
 ## Gordon Wasson and the Rediscovery
 
-The modern rediscovery of psychedelic shamanism began with Gordon Wasson, a vice president of J.P. Morgan, who became fascinated by the role of mushrooms in human culture. Wasson and his wife Valentina traveled to Mexico in the 1950s and became the first outsiders to participate in a Mazatec mushroom ceremony. Their account of this experience, published in Life magazine in 1957, introduced the sacred mushrooms to the Western world.
+The modern rediscovery of psychedelic shamanism began with Gordon Wasson, a vice president of J.P. Morgan, who became fascinated by the role of mushrooms in human culture. Wasson and his wife Valentina traveled to Mexico in the 1950s and became the first outsiders to participate in a [[maria-sabina-mazatec-mushroom-ceremony]] ceremony. Their account of this experience, published in Life magazine in 1957, introduced the [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]] to the Western world.
 
 Wasson's encounter with Maria Sabina, the Mazatec curandera who guided his velada, was a pivotal moment in the history of psychedelics. Maria Sabina was a traditional healer who had been using the sacred mushrooms — which the Mazatec call "the little things that spring forth" — for decades to diagnose and treat illness, to find lost objects, and to communicate with the spirit world.
 
@@ -26,7 +26,7 @@ Wasson's encounter with Maria Sabina, the Mazatec curandera who guided his velad
 
 The publication of Wasson's article had devastating consequences for Maria Sabina and her community. The influx of countercultural seekers from the United States and Europe disrupted the traditional context of the mushroom ceremonies, commercialized a sacred practice, and eventually led to persecution by Mexican authorities. Maria Sabina herself was ostracized by her community and died in poverty.
 
-This pattern — the destruction of indigenous shamanic traditions by well-meaning outsiders — has been repeated throughout the history of the relationship between the modern world and traditional cultures. It is a direct consequence of the dominator culture's inability to understand or respect the sacred dimension of plant-human relationships.
+This pattern — the destruction of indigenous shamanic traditions by well-meaning outsiders — has been repeated throughout the history of the relationship between the modern world and traditional cultures. It is a direct consequence of the [[mckenna-dominator-culture-and-suppression-of-ecstasy]]'s inability to understand or respect the sacred dimension of plant-human relationships.
 
 ## The Shamanic Universe
 
@@ -38,7 +38,7 @@ In this shamanic universe, illness is not merely a physical malfunction but a sp
 
 Despite centuries of suppression, shamanic traditions survive throughout the world — among the indigenous peoples of the Amazon, the Arctic, Siberia, southern Africa, Australia, and Mesoamerica. And in recent decades, a new form of shamanism has emerged — a syncretic practice that combines traditional shamanic techniques with modern psychological understanding and the use of a wide range of psychedelic substances.
 
-This contemporary shamanism represents the leading edge of the Archaic Revival. It is not an attempt to recreate the past but to integrate ancient wisdom with modern knowledge in the service of a more holistic, ecological, and spiritually grounded approach to human existence.
+This contemporary shamanism represents the leading edge of the [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]. It is not an attempt to recreate the past but to integrate ancient wisdom with modern knowledge in the service of a more holistic, ecological, and spiritually grounded approach to human existence.
 
 ## The Shamanic Path
 
@@ -58,14 +58,16 @@ See also:
 - McKenna's critique of dominator culture draws on both anthropological evidence and contemporary political analysis
 - The [[psychedelic-therapy-current-research]].
 
-## Related McKenna Topics
+## Related
+
+- [[mckenna-maya-tobacco-shamanism-enemas]] McKenna Topics
 
 McKenna's analysis fits within his broader framework of the [[mckenna-dissolution-of-the-dominator-culture]] and the [[mckenna-food-of-the-gods-thesis]]
 - [[psychedelic-mushroom-history]]
 - [[psychedelic-plants-and-civilization]]
 - [[mckenna-food-of-the-gods-thesis]], to construct a comprehensive narrative of humanity's relationship with psychoactive plants. His work draws on a wide range of sources, including anthropology, ethnobotany, linguistics, and personal experience, to argue that psychoactive substances have been a driving force in human cultural evolution.
 
-The [[psychedelic-therapy-mechanisms]], has demonstrated that substances like psilocybin can produce mystical-type experiences that have lasting positive effects on personality, well-being, and attitudes toward death. These findings lend some empirical support to McKenna's argument that psychoactive plants have played a significant role in shaping human consciousness and culture.
+The [[psychedelic-therapy-mechanisms]], has demonstrated that substances like psilocybin can produce mystical-type experiences that have lasting positive effects on personality, well-being, and [[weil-cultural-attitudes-toward-altered-states]] death. These findings lend some empirical support to McKenna's argument that psychoactive plants have played a significant role in shaping human consciousness and culture.
 ## Practical Considerations
 
 Successful implementation of McKenna on Psychedelic Shamanism requires attention to
@@ -84,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

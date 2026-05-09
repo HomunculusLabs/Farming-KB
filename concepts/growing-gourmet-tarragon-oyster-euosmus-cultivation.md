@@ -1,5 +1,5 @@
 ---
-title: Tarragon Oyster Mushroom (Pleurotus euosmus) Cultivation
+title: [[growing-gourmet-agar-media-formulas-preparation]] tarragon oyster euosmus cultivation Mushroom ([[pleurotus-euosmus]]) Cultivation
 created: 2026-04-26
 tags:
   - mycology
@@ -49,7 +49,7 @@ Limited to the British Isles, known from England and Scotland, but not
 yet reported from Ireland. Preferring Elms (Ulmus species) stumps and
 logs. Given its close affinity to P. ostreatus and that it is native to
 Elm stumps, this mushroom is likely to produce prodigiously using the
-Natural Culture techniques.
+Natural [[agar-culture-techniques-detailed]].
 
 ## Microscopic Features
 
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

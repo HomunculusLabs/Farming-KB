@@ -14,7 +14,7 @@ sources:
   - Leafly Staff (2024). "Kush Mints Cannabis Strain Information."
     Leafly.com.
   - AllBud (2024). "Kush Mints Weed Strain." AllBud.com.
-  - Cannabis Training University (2023). "Top Mint Cannabis Strains."
+  - [[query-sog-vs-scrog-cannabis-training-methods]] University (2023). "Top Mint Cannabis Strains."
     CannabisTrainingUniversity.com.
   - DGC Magazine (2023). "Kush Mints Strain Review." DGCmag.com.
 ---
@@ -33,7 +33,7 @@ body sedation with cerebral calm.
 
 Kush Mints has served as a foundational parent for numerous
 successful crosses, including Jet Fuel Gelato and Animal Mints,
-cementing its influence on contemporary West Coast cannabis breeding.
+cementing its influence on contemporary West Coast [[oner-cannabis-breeding-fundamentals]].
 
 ## Strain Classification
 
@@ -83,7 +83,7 @@ the strain's characteristic relaxed-yet-functional effect profile.
 **Medical applications:**
 
 - Chronic pain management (neuropathic and inflammatory)
-- Insomnia and sleep disorders
+- Insomnia and [[cannabis-sleep-disorders-and-insomnia]]
 - Anxiety and stress relief
 - Muscle spasms and tension
 - Appetite stimulation
@@ -129,11 +129,11 @@ in trichomes with vivid orange pistils.
 Kush Mints emerged from the Los Angeles cannabis breeding scene and
 rapidly gained a reputation as a "top-shelf" strain. It won multiple
 High Times Cannabis Cup accolades and has become a staple in licensed
-dispensaries across legal markets in North America.
+dispensaries across legal markets in [[psilocybin-north-america-pacific-northwest]].
 
 The strain exemplifies the modern trend toward complex, multi-layered
-terpene profiles in indica-dominant hybrids and represents the
-pinnacle of Seed Junky Genetics' breeding program.
+[[cannabis-terpene-profiles-sativa]] in indica-dominant hybrids and represents the
+pinnacle of Seed Junky Genetics' [[cervantes-breeding-program-design-goal-setting]].
 
 ## See Also
 

@@ -1,5 +1,5 @@
 ---
-title: Purdue Four-Step Garden Fertilization Program
+title: Purdue Four-Step purdue four step garden fertilization program Program
 created: 2026-04-28
 tags:
   - garden-fertilization
@@ -17,7 +17,7 @@ type: concept
 
 # Purdue Four-Step Garden Fertilization Program
 
-A systematic approach to home garden fertilization developed by Purdue University Cooperative Extension Service. The program consists of four sequential steps: establishing basic fertility, maintaining it annually, using starter fertilizer for transplants, and applying nitrogen side-dressings during the growing season.
+A systematic approach to [[cool-climate-home-garden-mollison]] fertilization developed by Purdue University Cooperative Extension Service. The program consists of four sequential steps: establishing basic fertility, maintaining it annually, using starter fertilizer for transplants, and applying nitrogen side-dressings during the [[savory-growing-season-and-non-growing-season-management]].
 
 ## Step 1: Establish Basic Fertility Level
 
@@ -56,9 +56,9 @@ This two-stage method distributes the fertilizer throughout the upper 7 inches o
 
 ### When Side-Dressing Is Needed
 
-- After plants have made considerable vegetative growth
+- After plants have made considerable [[cannabis-vegetative-growth-stage]]
 - After plants have begun to fruit
-- When demand exceeds what organic matter and maintenance fertilizer provide
+- When demand exceeds what [[hamilton-composting-and-organic-matter-management]] and maintenance fertilizer provide
 
 ### When Side-Dressing Is Not Needed
 

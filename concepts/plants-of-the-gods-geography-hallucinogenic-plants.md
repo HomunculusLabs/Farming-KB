@@ -17,7 +17,7 @@ type: concept
 comprehensive geographical survey of hallucinogenic plant use across
 the globe. The distribution is strikingly uneven, with the New World
 dominating in both number of species and depth of cultural
-integration, while the Old World has fewer species but includes some
+integration, while the [[datura-metel-old-world-ethnobotany]] has fewer species but includes some
 of the most ancient and widespread psychoactive plants.
 
 ## Africa
@@ -30,15 +30,15 @@ ergot-fungus|Ergot, a parasite on rye, frequently poisoned entire
 regions, causing hundreds to suffer hallucinations, permanent insanity,
 gangrene, or death in the plague known as St. Anthony's Fire. Ergot was
 never purposefully used as a hallucinogen in medieval Europe, but
-suggestions link it to the Eleusinian Mysteries of ancient Greece.
+suggestions link it to the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] of ancient Greece.
 
 ## North America
 
 North America (north of Mexico) is quite poor in hallucinogens. Various
 Datura species were employed rather widely, but most intensely in the
-Southwest. The Red Bean or Mescal Bean (Sophora secundiflora) was the
+Southwest. The Red Bean or Mescal Bean ([[mescal-bean-sophora-secundiflora-vision-dance]]) was the
 basis of a vision-seeking ceremony in Texas. In northern Canada,
-Indians chewed the roots of Sweet Flag (Acorus calamus) for
+Indians chewed the roots of Sweet Flag ([[sweet-flag-acorus-calamus-ethnobotany]]) for
 hallucinogenic effects.
 
 ## Mexico
@@ -48,17 +48,17 @@ and use of hallucinogens in aboriginal societies. The Peyote cactus
 is the most important sacred hallucinogen, though other cactus species
 serve as minor hallucinogens. Of almost equal importance are mushrooms,
 known to the Aztecs as Teonanacatl ("divine flesh"), with at least
-twenty-four species employed today. Ololiuqui (Morning Glory seeds)
+twenty-four species employed today. Ololiuqui ([[golden-guide-morning-glory-and-ololiuqui]] seeds)
 represents another hallucinogen of great Aztec importance. Secondary
 hallucinogens include Toloache (Datura), Mescal Bean, Pipiltzintzintli,
-diviner's sage (Salvia divinorum), Piule, Sinicuichi, and many others.
+diviner's sage ([[golden-guide-salvia-divinorum-and-diviner-sage]]), Piule, Sinicuichi, and many others.
 
 ## South America
 
 South America ranks second to Mexico in number and magico-religious
 significance of hallucinogens. The Andean cultures had half a dozen
 species of [[plants-of-the-gods-virola-epena-snuff]] are made from Anadenanthera and Virola
-trees. The [[gaian-psychotherapy-and-entheogenic-plants]] - worldwide overview
+trees. The  - worldwide overview
 - [[old-world-hallucinogenic-plants-overview]] - Old World plants
 - [[hallucinogenic-plant-chemistry]] - chemical perspective
 ## Practical Considerations
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -5,6 +5,7 @@ tags: [comparison, mushroom-cultivation, oyster, shiitake, fungi]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: comparison
 ---
@@ -13,16 +14,16 @@ type: comparison
 
 ## Overview
 
-Oyster and shiitake mushrooms represent two of the most popular cultivated fungi worldwide,
+Oyster and [[query-how-to-grow-shiitake-mushrooms-on-logs]] represent two of the most popular cultivated fungi worldwide,
 each suited to very different growing environments, timelines, and skill levels. Oyster
 mushrooms are fast-growing primary decomposers ideal for beginners, while shiitake demands
 more patience but rewards growers with higher market value, richer flavor, and well-studied
 medicinal compounds. Undcotter-oyster-mushroom-cultivationetween these two species is essential for
-anyone planning a mushroom cultivation project, whether for home use or commercial sale.
+anyone planning a [[accessible-mushroom-cultivation-for-disabilities]] project, whether for home use or commercial sale.
 
 ## Oyster Mushroom Cultivation
 
-[[stamets-shiitake-and-stropharia-cultivation]]
+stamets-shiitake-and-stropharia-cultivation
 
 Shiitake mushrooms (*Lentinus edodes*) are traditionally grown on hardwood logs — oak and
 alder being preferred species — using a spawn run that lasts 6–12 months as the mycelium
@@ -37,19 +38,19 @@ For growers unwilling to wait a year for their first harvest, sawdust block cult
 a faster alternative with 2–3 month production cycles. The trade-off is a much shorter
 productive lifespan per block — typically 2–4 flushes — compared to the years of output
 from a log. Sawdust blocks do allow more controlled indoor environments and higher yields
-per square foot in the short term, bridging some of the speed gap with oyster cultivation
+per square foot in the short term, bridging some of the speed gap with [[gourmet-medicinal-mushroom-oyster-cultivation-methods]]
 while still delivering shiitake's distinct flavor and texture. Blocks require full
 sterilization and careful inoculation in a clean environment, raising the barrier to entry
-compared to log inoculation.
+compared to [[growing-gourmet-outdoor-log-inoculation-techniques]].
 
-Shiitake holds significantly higher market value than oyster mushrooms, both fresh and
+Shiitake holds significantly higher market value than [[query-how-to-grow-oyster-mushrooms-at-home]], both fresh and
 dried, thanks to its culinary prestige and well-documented medicinal properties. The
 mushroom contains lentinan, a beta-glucan polysaccharide studied for immune-boosting and
 anti-tumor effects, which adds a premium dimension to its commercial appeal. Dried shiitake
 in particular commands excellent prices and stores for months without quality degradation,
 giving growers flexibility in timing their sales.
 
-The shiitake cultivation page also covers wine-cap mushrooms (*[[stamets-pleurotus-oyster-cultivation]]
+The shiitake cultivation page also covers wine-cap mushrooms (*stamets-pleurotus-oyster-cultivation
 - [[mushroom-cultivation-methods]]
 ## Practical Considerations
 
@@ -67,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +110,9 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+## See Also
+- [[comparison-shiitake-vs-oyster-cultivation]]
+- [[oyster-mushroom]]
+- [[oyster-mushrooms]]
+- [[mushroom-cultivation]]
+- [[sterilization]]

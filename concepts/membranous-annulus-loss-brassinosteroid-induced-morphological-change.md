@@ -1,5 +1,5 @@
 ---
-title: Membranous Annulus Loss Induced by Brassinosteroid Treatment in Psilocybe cubensis
+title: Membranous Annulus Loss Induced by Brassinosteroid Treatment in brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting
 source: growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md
 topic: mycology fungal morphology brassinosteroid effect
 created: 2026-05-08
@@ -38,7 +38,7 @@ This morphological change is notable for several reasons:
 
 1. **Specificity**: The annulus loss was a consistent feature of brassinosteroid-treated fruiting bodies, suggesting a targeted effect on the developmental pathway that controls partial veil formation
 2. **It is not a growth rate effect**: Simply growing faster does not cause annulus loss; the change implies a specific alteration in tissue differentiation
-3. **It parallels incomplete fruit body suppression**: The study also found that formation of incomplete fruit bodies was almost completely suppressed, suggesting brassinosteroids broadly influence morphogenetic pathways in this species
+3. **It parallels [[abort-suppression-brassinosteroid-incomplete-fruit-body-reduction]] body suppression**: The study also found that formation of incomplete fruit bodies was almost completely suppressed, suggesting brassinosteroids broadly influence morphogenetic pathways in this species
 
 ## Possible Mechanisms
 
@@ -78,7 +78,7 @@ Together, these effects suggest that brassinosteroids do not merely accelerate g
 
 ## Comparison to Other Morphological Modifiers
 
-Various environmental and chemical factors can alter mushroom morphology:
+Various environmental and chemical factors can alter [[pf-tek-mushroom-morphology-and-lifecycle-stages]]:
 
 - High CO2 levels cause elongated stems and small caps
 - Low light produces etiolated, pale specimens
@@ -100,17 +100,19 @@ The mechanism behind annulus suppression remains unexplored. Future studies coul
 
 ## Context Within the Gartz 1990 Study
 
-The annulus observation was made in the context of a broader investigation into brassinosteroid effects on fungal cultivation. The study was the first published report of brassinosteroid activity on fungi — all prior work had focused on higher plants. The morphological changes observed in P. cubensis were therefore entirely unexpected and added a new dimension to the findings beyond the primary growth-promoting results.
+The annulus observation was made in the context of a broader investigation into brassinosteroid [[brassinosteroid-effects-on-fungal-morphology]] cultivation. The study was the first published report of brassinosteroid [[phytohormone-activity-on-fungi-literature-gap-brassinosteroid]] — all prior work had focused on higher plants. The morphological changes observed in P. cubensis were therefore entirely unexpected and added a new dimension to the findings beyond the primary growth-promoting results.
 
 The study noted that "hitherto no studies on occurrence and activity of brassinosteroids on fungi have been published," making every observation — including the annulus loss — novel. The researchers concluded that the results "suggest that brassinosteroids could also play a physiological role in higher fungi," with the morphological effects supporting the hypothesis of a genuine biological interaction rather than a nonspecific chemical stimulation.
 
 ## Practical Relevance for Cultivators
 
-For mushroom cultivators, the annulus loss observation raises an interesting question: if brassinosteroids can suppress what is essentially a vestigial structure (the annulus has no known function in spore dispersal or fruiting body integrity), could the energy saved by not producing the partial veil be redirected to more productive growth? The concurrent increase in dry mass and reduction in incomplete fruit bodies supports this interpretation.
+For mushroom cultivators, the annulus loss observation raises an interesting question: if brassinosteroids can suppress what is essentially a vestigial structure (the annulus has no known function in [[aquatic-fungi-spore-dispersal-ingold]] or fruiting body integrity), could the energy saved by not producing the partial veil be redirected to more productive growth? The concurrent increase in dry mass and reduction in incomplete fruit bodies supports this interpretation.
 
 However, cultivators should note that the annulus is often used as a quality indicator and species confirmation marker in commercial contexts. Its absence could raise questions about specimen identity even though it results from a growth-promoting treatment rather than contamination or misidentification.
 
 ## See Also
+
+- [[annulus-loss-morphological-effect-brassinosteroid-treatment]]
 
 - [[brassinosteroid-effects-on-fungal-morphology]]
 - [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]

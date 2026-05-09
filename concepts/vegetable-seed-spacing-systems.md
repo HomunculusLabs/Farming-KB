@@ -38,7 +38,7 @@ This is the dominant system promoted in modern gardening literature, popularized
 - Plants compete intensely for light, water, and nutrients, producing smaller individual vegetables
 - Crowded vegetables deteriorate rapidly if not harvested promptly — there is no grace period
 - Time and effort required for intensive management often exceeds the modest yield increase over wider spacing
-- In hard times, when water, fertilizer, and organic matter are scarce, this system fails completely
+- In hard times, when water, fertilizer, and [[hamilton-composting-and-organic-matter-management]] are scarce, this system fails completely
 
 ### 2. Traditional Row Spacing
 
@@ -48,9 +48,9 @@ This is the historical standard: vegetables grown in single or double rows far e
 
 **Spacing examples**: Cabbage at 24-36 inches in the row, 36 inches between rows. Corn at 8-12 inches in the row, 36 inches between rows.
 
-**Advantages**: Simple to manage. Good air circulation reduces disease. Plants have room to develop full-sized root systems. Compatible with mechanized cultivation (wheel hoe, tiller). Graceful — vegetables hold well in the field if harvest is delayed.
+**Advantages**: Simple to manage. Good [[stamets-growing-room-air-circulation-co2-management]] reduces disease. Plants have room to develop full-sized root systems. Compatible with mechanized cultivation (wheel hoe, tiller). Graceful — vegetables hold well in the field if harvest is delayed.
 
-**Disadvantages**: Uses more total land area than intensive spacing. Paths between rows consume space that does not directly produce food. Can appear "wasteful" to gardeners accustomed to intensive methods.
+**Disadvantages**: Uses more total land area than intensive spacing. Paths between rows consume space that does not directly produce food. Can appear "wasteful" to gardeners accustomed to [[row-gardening-vs-intensive-methods-solomon]].
 
 ### 3. Wide Row Spacing
 
@@ -66,13 +66,13 @@ An intermediate system where rows are closer together than traditional spacing (
 
 ### 4. Dry Gardening Spacing (Very Wide)
 
-Solomon's preferred system for water-scarce conditions and for general resilience. Plants are spaced extremely far apart — often two to four times the distance recommended in standard gardening references. The wide spacing is the key mechanism that enables vegetable production without irrigation.
+Solomon's preferred system for water-scarce conditions and for general resilience. Plants are spaced extremely far apart — often two to four times the distance recommended in standard gardening references. The [[solomon-wide-spacing-versus-intensive-gardening-debate]] is the key mechanism that enables [[dry-gardening-unirrigated-vegetable-production-solomon]] without irrigation.
 
 **Key assumptions**: Water is scarce or irrigation is undesirable. The gardener has sufficient land. Soil has been prepared to a good depth (at least 12 inches, preferably more). [[capillary-action-in-soils|capillary action]] draws from below can keep pace with the reduced transpiration demand, eliminating or greatly reducing the need for irrigation.
 
 ## The Thinning Contract
 
-Solomon frames spacing as a contractual obligation between the gardener and the vegetable. When humans domesticated vegetables, an implicit agreement was formed: the plants agreed to become our food, and we agreed to protect them from competition. When seedlings are allowed to crowd each other — competing for light, water, and nutrients — the gardener has broken this contract. The vegetables cannot do their best under competitive stress.
+Solomon frames spacing as a contractual obligation between the gardener and the vegetable. When humans domesticated vegetables, an implicit agreement was formed: the plants agreed to become our food, and we agreed to protect them from competition. When seedlings are allowed to crowd each other — competing for light, water, and nutrients — the gardener has broken this contract. The vegetables cannot do their best under [[microfungal-life-strategies-ruderal-competitive-stress-tolerant]].
 
 ### Thinning Procedure
 Solomon recommends progressive thinning in three to five stages:

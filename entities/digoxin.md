@@ -26,7 +26,7 @@ sources:
 Digoxin is a cardiac glycoside derived from the foxglove plant (*Digitalis lanata*).
 It is one of the oldest cardiovascular drugs still in clinical use, prescribed
 primarily for rate control in atrial fibrillation and for symptom management in
-heart failure with reduced ejection fraction (HFrEF). Its therapeutic window is
+heart failure with reduced ejection fraction (HFrEF). Its [[blesching-cannabis-therapeutic-window-dosing]] is
 notoriously narrow, requiring serum level monitoring to avoid toxicity.
 
 Digoxin acts by inhibiting the sodium-potassium ATPase (Na+/K+-ATPase) on
@@ -72,7 +72,7 @@ have also been developed.
 - Half-life: 36–48 hours (prolonged in renal impairment)
 - Primarily renally eliminated; requires dose adjustment in CKD
 
-**Drug interactions (clinically significant):**
+**[[cannabis-drug-interactions-and-contraindications]] (clinically significant):**
 - Amiodarone, verapamil, quinidine: increase serum digoxin levels 50–100%
 - Clarithromycin, erythromycin: inhibit intestinal P-glycoprotein efflux
 - Spironolactone: may reduce mortality when combined with digoxin in HF
@@ -86,7 +86,7 @@ rather than first-line therapy.
 ## Toxicity
 
 Digoxin toxicity remains a significant clinical problem due to the narrow
-therapeutic index. Approximately 0.8–5% of hospitalized patients on digoxin
+[[cannabis-therapeutic-index-overview]]. Approximately 0.8–5% of hospitalized patients on digoxin
 develop toxicity.
 
 **Early symptoms:** Anorexia, nausea, vomiting, visual disturbances (classically

@@ -1,5 +1,5 @@
 ---
-title: Polyculture Design (Holzer Method)
+title: aquatic-polyculture-design-mollison (Holzer Method)
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -23,13 +23,13 @@ Holzer strongly advocates for using old, local plant varieties. These are signif
 
 ### Green Manure
 
-Green manure crops play a central role in Holzer's polyculture systems:
+Green [[green-manure-crops-detailed]] play a central role in Holzer's polyculture systems:
 - Improve soil fertility naturally
 - Prevent erosion
 - Suppress weeds
-- Fix nitrogen (leguminous plants)
-- Attract beneficial insects
-- Provide organic matter when incorporated into soil
+- [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] (leguminous plants)
+- Attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
+- Provide [[hamilton-composting-and-organic-matter-management]] when incorporated into soil
 
 Green manure is not a one-off measure — it must play a continuous role in cultivation because fertile and healthy soil is the key to success.
 
@@ -57,7 +57,7 @@ Mixed crops should be selected so as to avoid large areas being harvested all at
 
 ### Supporting Plants
 
-When establishing new plantings (e.g. fruit trees on new terraces), sow various supporting plants around them: sunflowers, Jerusalem artichokes, buckwheat, oilseed rape, scorpion weed, among others. These improve growing conditions as green manure and provide grazing opportunities.
+When establishing new plantings (e.g. fruit trees on new terraces), sow various supporting plants around them: sunflowers, Jerusalem artichokes, buckwheat, oilseed rape, scorpion weed, among others. These improve growing conditions as [[holzer-green-manure-and-soil-building-plants]] provide grazing opportunities.
 
 ### Distraction Planting
 

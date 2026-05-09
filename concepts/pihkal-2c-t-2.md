@@ -22,7 +22,7 @@ substituted 2C compounds.
 2C-T-2 features an ethylthio group at the 4-position, contributing to its
 distinctive effects: strong visual activity, moderate body load, and a
 duration between shorter 2C-B and longer 2C-E. The sulfur atom imparts unique
-receptor binding characteristics setting the 2C-T series apart.
+[[tihkal-receptor-binding-serotonin]] characteristics setting the 2C-T series apart.
 
 Shulgin explored the 2C-T series extensively, synthesizing multiple variants
 with different alkyl chain lengths. This systematic exploration of thio-
@@ -100,7 +100,7 @@ possible S-oxidation of the ethylthio group as an additional pathway.
 ## Safety and Harm Reduction
 
 Primary concerns are consistent with other 2C compounds: accurate dosing,
-cardiovascular risks, and challenging psychological experiences at higher
+[[emcdda-psilocybin-cardiovascular-risks-acute-physiological-effects]], and challenging psychological experiences at higher
 doses. Moderate body load can be uncomfortable during onset. Individuals
 with cardiovascular conditions should exercise caution. The compound should
 not be combined with other serotonergic substances or MAOIs. Harm reduction

@@ -7,7 +7,7 @@ tags:
   - alkaloid
   - quinazoline
   - bronchodilator
-  - herbal-medicine
+  - [[herbal-medicine]]
   - respiratory
 date: 2026-04-28
 updated: 2026-04-28
@@ -54,7 +54,7 @@ the (R)-enantiomer (vasicinine) has reduced bioactivity.
 
 Synthesized via the anthranilic acid pathway in plant tissues:
 - Anthranilic acid serves as the starting precursor
-- Condensation with an amino acid fragment forms the quinazoline ring
+- Condensation with an [[cho-fish-amino-acid-preparation]] fragment forms the quinazoline ring
 - Pictet-Spengler-type cyclization forms the piperidine ring
 - Accumulates primarily in leaves and young shoots of *Adhatoda vasica*
 - Concentration peaks during flowering season
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: "What Is the Difference Between Aerobic Compost Tea and Fermented Plant Extracts"
+title: "What Is the query-what-is-the-difference-between-aerobic-and-anaerobic-composting Compost Tea and query-how-do-i-use-fermented-plant-extracts-in-my-garden"
 created: 2026-04-28
 tags: [query, composting, biofertilizer, fermentation, soil-biology]
 date: 2026-04-25
@@ -26,22 +26,22 @@ life, and modes of action are fundamentally different.
 
 [[aact-brewing-ingredients-ingham|AACT brewing ingredients]] may include supplemental foods like molasses (for
 bacteria), kelp (for micronutrients), and humic acids (for fungi), each
-feeding different segments of the microbial community. The result is a
+feeding different segments of the [[edaphic-factors-microbial-community-structure]]. The result is a
 liquid teeming with living bacteria, fungi, protozoa, and nematodes that
 can number in the billions per milliliter. The
 [[comparison-fermented-plant-extract-vs-compost-tea|key differences between FPE and compost tea]] become clear when examining the fermentation
 process. [[teaming-with-microbes-compost-tea-brewing-guide|compost tea brewing perspective]], quality control is critical. If the tea goes
 anaerobic during brewing, it can produce alcohol, ammonia, and hydrogen
 sulfide that harm plants. The [[fermented-plant-juice-fpj|fermented plant juice (FPJ)]] from Korean
-Natural Farming is more forgiving because the fermentation is
+[[comparison-natural-farming-vs-permaculture]] is more forgiving because the fermentation is
 intentionally anaerobic and the end product is stabilized by its low pH.
 
 In terms of application, [[comparison-compost-tea-guide-vs-fermented-plant-extract-fpe| compost tea versus FPE comparison]] suggests that both tools are
 valuable in a complete biological farming program. Compost tea is
 superior for rapid inoculation of leaf surfaces or degraded soils with
 living biology. FPE is superior for providing concentrated plant
-nutrition and bioactive compounds in a stable, storable form. Many
-growers use both: compost tea during the growing season for biological
+nutrition and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] in a stable, storable form. Many
+growers use both: compost tea during the [[savory-growing-season-and-non-growing-season-management]] for biological
 inoculation and FPE as a year-round nutrient supplement.
 
 ## Key Points
@@ -59,6 +59,7 @@ inoculation and FPE as a year-round nutrient supplement.
 - [[query-how-to-make-fermented-plant-extracts-for-natural-fertilizer]]
 - [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]]
 - [[query-how-to-brew-a-fungal-dominant-compost-tea]]
+
 ## Practical Considerations
 
 Successful implementation of What Is the Difference Between Aerobic Compost Tea and Fermented Plant Extracts requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

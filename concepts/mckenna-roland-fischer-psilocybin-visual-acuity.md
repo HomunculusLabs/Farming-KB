@@ -1,5 +1,5 @@
 ---
-title: Roland Fischer Psilocybin Visual Acuity Experiments
+title: mckenna roland fischer psilocybin visual acuity Psilocybin Visual Acuity Experiments
 created: 2026-04-28
 tags:
   - psilocybin
@@ -52,7 +52,7 @@ summary of their implications: "You see what is conclusively proven here is that
 certain circumstances one is actually better informed concerning the real world if one has
 taken a drug than if one has not." McKenna describes Fischer's facetious remark as initially
 an academic anecdote but later as an effort to communicate something profound about the
-relationship between psychoactive substances and the accurate perception of reality.
+relationship between [[cultural-evolution-and-psychoactive-substances]] and the accurate perception of reality.
 
 This conclusion directly challenges the conventional assumption that psychoactive drugs
 necessarily impair perception and cognitive function. While it is well established that
@@ -116,13 +116,13 @@ psychoactive plants function not merely as agents of intoxication but as amplifi
 specific sensory and cognitive capacities that have direct adaptive value. At low doses,
 psilocybin enhances visual acuity. At moderate doses, it stimulates the central nervous
 system, triggering restlessness and sexual arousal, thereby promoting reproduction. At
-high doses, it produces full-blown shamanic ecstasy, granting access to what McKenna calls
+high doses, it produces full-blown [[shamanic-ecstasy-and-healing]], granting access to what McKenna calls
 the Transcendent Other.
 
 Each of these effects can be understood as conferring a specific adaptive advantage. The
 uniqueness of psilocybin, in McKenna's argument, lies in the fact that a single compound
 can produce this range of adaptive effects at different dosages, making it the ideal
-candidate for the role of the primary driver of human cognitive and cultural evolution.
+candidate for the role of the primary driver of human cognitive [[entheogens-and-cultural-evolution]].
 Fischer's visual acuity data provide the empirical anchor for the first and most
 fundamental of these three levels.
 

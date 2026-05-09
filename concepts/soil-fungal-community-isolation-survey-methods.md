@@ -1,5 +1,5 @@
 ---
-title: "Soil Fungal Community - Isolation and Survey Methods"
+title: "Soil air-pollution-fungal-community-responses - Isolation and mycetozoan-survey-methods-substratum-plating"
 created: 2026-04-26
 tags:
   - mycology
@@ -29,7 +29,7 @@ biomass in a British deciduous forest.
 
 ## Challenges in Soil Fungal Studies
 
-Direct observation of fungi in soil is possible, but usually only
+[[fukuoka-direct-observation-method]] of fungi in soil is possible, but usually only
 indistinct and featureless mycelia are visible. Soil fungi in situ
 generally cannot be identified without a heavy preinvestment in the
 development of species-specific probes based on nucleic acids or
@@ -49,7 +49,7 @@ perceptions of fungal activity.
 
 ### Suspension Plating
 
-Suspension plating (dilution plating) is one of the most widely used
+Suspension plating ([[particle-filtration-dilution-plating-microfungal-isolation]]) is one of the most widely used
 methods for isolating soil fungi. A soil sample is suspended in a
 diluent, serially diluted, and aliquots are spread on agar plates.
 This method selectively recovers rapidly growing fungi that produce
@@ -73,7 +73,7 @@ agar. Bills and Polishook (1994) used this approach for leaf litter
 studies, recording between 56 and 98 species of microfungi from
 individual leaf samples. This technique provides greater control over
 the amount of substratum plated per plate and can recover fungi from
-specific size fractions of soil organic matter.
+specific size fractions of soil [[hamilton-composting-and-organic-matter-management]].
 
 ### Baiting Techniques
 
@@ -112,7 +112,7 @@ specific groups while suppressing fast-growing opportunists:
 ## Characterization of Sampling Sites
 
 Documentation of sampling sites and soils is essential for
-interpreting fungal diversity patterns. Key parameters include:
+interpreting [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] patterns. Key parameters include:
 - Geographic location, elevation, and climate data
 - Vegetation type and land use history
 - Soil physical and chemical properties (texture, pH, organic matter,

@@ -1,5 +1,5 @@
 ---
-title: Rhubarb Growing - Organic Methods
+title: hamilton rhubarb growing organic - Organic Methods
 created: 2026-04-28
 tags:
   - rhubarb
@@ -56,13 +56,13 @@ after planting and mulch around the crowns to conserve moisture.
 
 ## Maintenance
 
-Weed and water as necessary during the growing season. It is not
-practical to dig in organic matter around established rhubarb
+Weed and water as necessary during the [[savory-growing-season-and-non-growing-season-management]]. It is not
+practical to dig in [[hamilton-composting-and-organic-matter-management]] around established rhubarb
 plants because of the risk of damaging the roots, so mulch each
 autumn instead with well-rotted compost or manure. This annual
 mulching provides all the nutrients the plants need. See
 [[hamilton-organic-pest-control]]
-for comprehensive pest and disease management strategies.
+for comprehensive pest and [[plant-disease-management-solomon]] strategies.
 
 ## Organic Liquid Feed
 
@@ -72,11 +72,11 @@ several weeks produces a potassium-rich feed ideal for promoting
 strong stem growth. Alternatively, liquid kelp or animal-manure
 fertilizer can be applied every two weeks during spring and early
 summer. See [[hamilton-concentrated-organic-fertilizer-products]]
-for prepared organic fertilizer options.
+for prepared [[complete-organic-fertilizer-cof-recipe-solomon]] options.
 
 ## Summary
 
-Rhubarb is one of the easiest and most reliable perennial vegetables
+Rhubarb is one of the easiest and most reliable [[comparison-perennial-vegetables-vs-cover-crops]]
 for the organic garden. Key success factors include planting at the
 correct depth in well-drained soil at pH 7.0, annual autumn mulching
 with compost or manure, leaving the first year for establishment,

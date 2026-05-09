@@ -11,7 +11,7 @@ entity_type: "compound"
 source: "TIHKAL"
 source_entry: "#29"
 classification: ["tryptamine"]
-synthesis_method: "from 5,6-methylenedioxyindole via oxalyl chloride and diisopropylamine"
+synthesis_method: "from 5,6-methylenedioxyindole via [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] and diisopropylamine"
 status: ["research chemical", "untested in humans"]
 legal_status: ["varies by jurisdiction"]
 created: 2026-04-15
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

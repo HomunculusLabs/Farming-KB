@@ -30,7 +30,7 @@ created: 2026-05-07
 
 ## Overview
 
-**Kalapuya** is a cannabis strain named after the **Kalapuya people**, the indigenous people of the Willamette Valley in present-day western Oregon. The strain is associated with Pacific Northwest cannabis culture and represents the region's heritage of outdoor-grown, craft cannabis cultivation.
+**Kalapuya** is a cannabis strain named after the **Kalapuya people**, the indigenous people of the Willamette Valley in present-day western Oregon. The strain is associated with Pacific Northwest [[mckenna-cannabis-culture-history]] and represents the region's heritage of outdoor-grown, craft [[query-how-does-no-till-cannabis-cultivation-work]].
 
 The cultivar is known for its sweet, fruity aroma dominated by strawberry notes, combined with balanced hybrid effects that deliver both cerebral stimulation and physical relaxation. It is considered a regional specialty, less widely available than mainstream commercial strains.
 
@@ -90,15 +90,17 @@ The strain's functional clarity makes it suitable for patients who need symptom 
 
 Kalapuya is well-adapted to the Pacific Northwest climate and performs best in outdoor environments with long growing seasons. Indoor cultivation is straightforward, with a flowering time of **8–9 weeks** and moderate yields of 350–450 g/m².
 
-The plants exhibit vigorous vegetative growth with moderate internode spacing. Training techniques including low-stress training (LST) and topping are effective for improving canopy structure. The strain is relatively resistant to common molds and pests, reflecting its adaptation to the humid Pacific Northwest environment.
+The plants exhibit vigorous [[cannabis-vegetative-growth-stage]] with moderate internode spacing. [[cannabis-training-techniques-comparison]] including low-stress training (LST) and topping are effective for improving canopy structure. The strain is relatively resistant to common molds and pests, reflecting its adaptation to the humid Pacific Northwest environment.
 
 Outdoor plants reach heights of 150–200 cm and are ready for harvest by early to mid-October in Oregon latitudes. The cooler autumn nights of the Willamette Valley enhance the purple coloration that some phenotypes express.
 
-Organic cultivation methods are particularly well-suited to Kalapuya. Living soil approaches with diverse microbial inoculants enhance the terpene profile, producing more pronounced strawberry and floral notes compared to synthetic nutrient regimens. The strain responds well to compost tea applications during mid-flowering.
+Organic [[synthetic-log-cultivation-methods-guide]] are particularly well-suited to Kalapuya. Living soil approaches with diverse microbial inoculants enhance the terpene profile, producing more pronounced strawberry and floral notes compared to synthetic [[cannabis-nutrient-regimens-comparison]]. The strain responds well to compost tea applications during mid-flowering.
 
 Seed availability is limited compared to mainstream commercial strains. Clones are more commonly found in Oregon medical and recreational markets. Breeders working with Kalapuya genetics have crossed it with various modern cultivars, though named offspring remain rare in the commercial market.
 
 ## See Also
+
+- [[kalapuya-brunnea]]
 
 - [[tahoe-og]]
 - [[sfv-og]]
@@ -109,5 +111,5 @@ Seed availability is limited compared to mainstream commercial strains. Clones a
 - [[georgia-pie]]
 - cake wreck
 - [[khalifa-kush]]
-- [[wedding-cake-cannabis]]
-- [[gelato-cannabis]]
+- [[wedding-cake]]
+- [[gelato]]

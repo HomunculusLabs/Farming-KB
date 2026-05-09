@@ -28,7 +28,7 @@ of stinging nettles (*Urtica dioica*), combined with the absence of stinging
 hairs. The species epithet *maculatum* refers to the characteristic silver
 markings on the leaves.
 
-Spotted dead-nettle is among the most popular shade-tolerant ground covers in
+Spotted dead-nettle is among the most popular shade-tolerant [[permaculture-plants-food-forest-ground-covers-bamboos]] in
 temperate horticulture. Numerous cultivars have been selected for leaf color,
 flower color, and growth habit, making it a staple of woodland gardens.
 
@@ -59,7 +59,7 @@ conditions. The calyx is 5-toothed, 6–8 mm long, with a campanulate tube.
 
 Spotted dead-nettle is native to much of Europe, from the British Isles and
 France eastward through central Europe to the Caucasus, northern Turkey, and
-western Iran. It has been widely introduced and naturalized in North America,
+western Iran. It has been widely introduced and naturalized in [[psilocybin-north-america-pacific-northwest]],
 New Zealand, and parts of eastern Asia.
 
 The species grows in a variety of shaded to semi-shaded habitats, including

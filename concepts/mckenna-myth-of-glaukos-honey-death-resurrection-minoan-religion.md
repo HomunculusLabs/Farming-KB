@@ -1,5 +1,5 @@
 ---
-title: The Myth of Glaukos - Honey, Death and Resurrection in Minoan Religion
+title: The mckenna myth of glaukos honey death resurrection minoan religion - Honey, allegro-death-and-resurrection-in-the-mushroom-cult in Minoan Religion
 tags:
   - mckenna
   - food-of-the-gods
@@ -20,8 +20,8 @@ type: concept
 created: 2026-05-07
 ---
 # The [[terence-mckenna]]'s argument for the psychoactive origins of Minoan religion. This
-curious and relatively neglected myth preserves what McKenna reads as a esacred-gasteromycetes-non-psychoactive-fungia sacred relationship between honey, psychoactive fungi, and the ritual of resurrection, a
-relationship allegro fertility philosophy of the ancient near eastects Minoan Crete to the broader partnership cultures of the ancient
+curious and relatively neglected myth preserves what McKenna reads as a esacred-gasteromycetes-non-psychoactive-fungia sacred relationship between honey, [[cattle-dispersal-psychoactive-fungi-australia]], and the ritual of resurrection, a
+relationship allegro [[allegro-fertility-philosophy-of-the-ancient-near-east]] of the ancient near eastects Minoan Crete to the broader partnership cultures of the ancient
 Mediterranean and Near East.,
 where the kykeon was prepared and consumed from sacred vessels.
 
@@ -44,7 +44,7 @@ handling Goddess, here serves as the teacher of the resurrection technique.
 The riddle of the three-colored cow that Minos must identify serves as an initiation test.
 McKenna connects this to the broader pattern of cattle symbolism in partnership cultures:
 the cow as sacred animal, the bull as the most common metaphor for Soma in Vedic literature,
-and the cattle reliefs that dominate the shrines of Catal Huyuk. The ability to perceive the
+and the cattle reliefs that dominate the shrines of [[mckenna-catal-huyuk-natufian-link]]. The ability to perceive the
 unity beneath apparent multiplicity, the three colors of one cow, parallels the psychedelic
 experience of recognizing patterns and connections invisible to ordinary perception.
 
@@ -64,7 +64,7 @@ resurrection through plant ecstasy was preserved only in myth and ritual form.
 ## Significance for the [[eleusinian-mysteries]]
 
 The Glaukos myth provides a mythological bridge between Minoan religion and the later
-Eleusinian Mysteries of mainland Greece. Both involve:
+[[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] of mainland Greece. Both involve:
 - A divine or semi-divine figure who dies and is resurrected
 - The consumption of a sacred preparation from a vessel
 - The mediation of a specialist priest figure
@@ -107,5 +107,7 @@ requiring priestly intermediaries. The Glaukos myth, in this reading, is a fossi
 that older, partnership-oriented worldview.
 
 ## See Also
+
+- minoan-mushroom-cult-and-myth-of-glaukos
 
 - [[mckenna-food-gods-minoan-crete-mushroom-religion]]

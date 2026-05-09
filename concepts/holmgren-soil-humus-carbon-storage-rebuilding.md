@@ -1,5 +1,5 @@
 ---
-title: "Soil Humus as Carbon Storage and Rebuilding Natural Capital"
+title: "Soil Humus as holmgren soil humus carbon storage rebuilding and Rebuilding Natural Capital"
 created: 2026-04-26
 tags:
   - soil
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+  sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: concept
 ---
 
@@ -26,13 +27,13 @@ human civilisation.
 
 Soil is the most important storage for nutrients in temperate climates. Humus
 increases the capacity of soils to store mineral nutrients, water, and carbon.
-The veneration of humus in the organic, biodynamic, and [[holmgren-catch-and-store-energy-detailed]]
+The veneration of humus in the organic, biodynamic, and holmgren-catch-and-store-energy-detailed
 framework. The key landscape storages of natural capital are grouped under four
 broad headings: water, living soil, trees, and seed. Each represents a strategy
 for catching and storing energy in forms that will be available to future
-generations during [[holmgren-mineral-fertilizers-soil-building]],
-[[holmgren-trees-nature-solar-power-plants]],
-[[holmgren-renewable-resources-detailed]]
+generations during holmgren-mineral-fertilizers-soil-building,
+holmgren-trees-nature-solar-power-plants,
+holmgren-renewable-resources-detailed
 ## Practical Applications
 
 Soil Humus as Carbon Storage and Rebuilding Natural Capital has a range of practical applications that make it relevant to
@@ -110,4 +111,9 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[david-holmgren]]
+- [[mollison-designers-soil-water-storage-in-forest-systems]]
+- [[fungal-glomalin-and-soil-carbon]]
+- [[gaias-garden-soil-food-web-and-humus]]
+- [[mollison-designers-soil-water-storage-and-field-capacity]]

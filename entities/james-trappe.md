@@ -19,13 +19,14 @@ tags:
 - species
 
 sources:
-- raw/papers/mycelium-running-stamets.md
+sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
 
 # James Trappe
 
-Prominent American mycologist and world authority on ectomycorrhizal fungi and truffle taxonomy. Affiliated with Oregon State University and the USDA Forest Service, Trappe's decades of research on the symbiotic relationships between fungi and forest trees provide foundational understanding of how [[mycorrhizal-networks]] function in forest ecosystems.
+Prominent American mycologist and world authority on [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] and truffle taxonomy. Affiliated with Oregon State University and the USDA Forest Service, Trappe's decades of research on the symbiotic relationships between fungi and forest trees provide foundational understanding of how [[mycorrhizal-networks]] function in forest ecosystems.
 
 ## Research Contributions
 
@@ -37,12 +38,12 @@ His work on fungal spore dispersal revealed that many forest mushrooms cannot be
 
 - Co-authored major references on truffle identification and mycorrhizal ecology used by forest mycologists worldwide
 - Extensive research on the fungal ecology of Pacific Northwest forests, particularly old-growth ecosystems
-- His name appears in the acknowledgments of [[paul-stamets]]'s "Growing Gourmet and Medicinal Mushrooms" alongside other major mycological figures including Alexander Smith, Daniel Stuntz, [[gaston-guzman]], and others
-- Referenced in *Mycelium Running* by [[paul-stamets]] for his pioneering work on animal-fungal spore dispersal networks
+- His name appears in the acknowledgments of [[paul-stamets]]'s "Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]" alongside other major mycological figures including Alexander Smith, Daniel Stuntz, [[gaston-guzman]], and others
+- Referenced in *[[woodlovers-mycelium-running-pathway-technique]]* by [[paul-stamets]] for his pioneering work on animal-fungal spore dispersal networks
 
 ## Significance for Cultivation and Restoration
 
-Trappe's research helps explain the practical limitations of [[mushroom-cultivation-basics]] for many desirable species. While saprotrophic mushrooms like shiitake and oyster mushrooms can be grown on dead organic matter, mycorrhizal species like chanterelles, porcini, and truffles require living plant hosts. This distinction is fundamental to understanding [[mycoforestry]] and [[fungal-ecosystem-roles]] — successful forest management must account for the fungal partners that trees depend on for nutrient uptake.
+Trappe's research helps explain the practical limitations of [[mushroom-cultivation-basics]] for many desirable species. While saprotrophic mushrooms like [[query-difference-between-shiitake-and-oyster-mushrooms]] mushrooms can be grown on dead organic matter, mycorrhizal species like chanterelles, porcini, and truffles require living plant hosts. This distinction is fundamental to understanding [[mycoforestry]] and [[fungal-ecosystem-roles]] — successful [[mollison-pdc-forest-management-products]] must account for the fungal partners that trees depend on for nutrient uptake.
 
 ## See Also
 
@@ -68,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

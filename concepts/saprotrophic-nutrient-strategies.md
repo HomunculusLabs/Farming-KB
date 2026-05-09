@@ -1,22 +1,20 @@
 ---
 title: saprotrophic nutrient strategies
 created: 2026-04-28
-tags: [[mycology, fungal-biology, nutrient-cycling, ecolodecompositiontion]
+tags: [mycology, fungal-biology, nutrient-cycling, ecolodecompositiontion]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/myceliummycelium-running.md]
 type: concept
 ---
-
-# Saprotrophic fungi obtain nutrients by decomposing dead organic matter,
-occupying a fundamentally different ecological niche from [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] strategies
+# Saprotrophic fungi obtain nutrients by decomposing dead organic matter, occupying a fundamentally different ecological niche from [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] strategies
 are shaped by the chemical complexity of their substrates, competitive
 interactions with other decomposers, and the stoichiometric constraints of
 fungal metabolism. Understanding these strategies is essential for predicting
 [[white-rot-fungi]] profiles
   these lignin-degrading specialists in detail.
-- **Fenton chemistry:** Brown-rot fungi generate hydroxyl radicals through
-  non-enzymatic iron reduction and hydrogen peroxide production, a
+- **[[bioremediation-fenton-chemistry-brown-rot-fungi]]:** Brown-rot fungi generate hydroxyl radicals through
+  non-enzymatic iron reduction and [[cervantes-hydrogen-peroxide-sterilization]] production, a
   chemically aggressive but energetically cheaper approach to cellulose
   depolymerization
 - **Oxalic acid secretion:** Many wood-decay fungi produce oxalic acid to
@@ -39,7 +37,7 @@ ratios often exceed 500:1). Saprotrophs have evolved multiple strategies:
 
 ### Phosphorus Acquisition
 
-Phosphorus is often locked in organic compounds or mineral complexes:
+Phosphorus is often locked in [[fungal-volatile-organic-compounds-communication]] or mineral complexes:
 
 - **Phosphatases:** Acid and alkaline phosphatases liberate orthophosphate
   from organic esters
@@ -66,7 +64,7 @@ Fungi compete intensely for access to freshly dead organic matter:
 
 ### Combat and Defense
 
-Fungal competition often involves direct antagonism:
+[[dighton-fungal-competition-resource-partitioning]] often involves direct antagonism:
 
 - **Antibiotic production:** Many saprotrophs produce antimicrobial compounds
   that inhibit competitors (many medical antibiotics were discovered from
@@ -96,10 +94,10 @@ Accurate representation of saprotrophic strategies is critical for predicting
 ecosystem responses to environmental change:
 
 - **Warming effects:** Temperature-driven decomposition increases may be
-  limited by [[fungal-enzyme-activity-nutrient-availability]] if warming increases metabolic demand
+  limited by fungal-enzyme-activity-nutrient-availability if warming increases metabolic demand
   faster than nutrient supply
-- **Nitrogen deposition:** Anthropogenic nitrogen may shift fungal communities
+- **[[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]:** Anthropogenic nitrogen may shift fungal communities
   from resource-efficient to resource-expensive strategies, reducing soil
-  carbon storage
+  [[holmgren-soil-humus-carbon-storage-rebuilding]]
 - **Carbon feedbacks:** The balance between fungal CUE and decomposition rate
   determines whether warming accelerates or decelerates soil carbon loss.

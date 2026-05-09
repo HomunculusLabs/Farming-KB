@@ -5,7 +5,7 @@ type: species
 tags: [psilocybin, mushroom, arctic-alpine, europe, entheogen]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md]
+sources: sources: []
 ---
 
 # Psilocybe montana
@@ -60,12 +60,12 @@ The epithet *montana* means "of the mountains," reflecting the alpine habitats w
 
 ## Distribution and Habitat
 
-*Psilocybe montana* has one of the most extensive circumpolar distributions among psilocybin mushrooms:
+*Psilocybe montana* has one of the most extensive circumpolar distributions among [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]:
 
 - **Europe:** Scandinavia (Norway, Sweden, Finland), Iceland, the Alps, Scotland, northern Russia
 - **North America:** Alaska, northern Canada, Rocky Mountains, Cascade Range, Greenland
 - **Asia:** Siberia, Kamchatka Peninsula, Himalayan alpine zones
-- **Southern Hemisphere:** Reports from Patagonia and New Zealand (possibly distinct taxa)
+- **[[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]:** Reports from Patagonia and New Zealand (possibly distinct taxa)
 
 It is an **alpine and arctic species** found in:
 
@@ -85,7 +85,7 @@ Elevation range: from sea level in arctic regions to over 3000 m in alpine zones
 | Psilocin | trace – 0.05 |
 | Baeocystin | trace |
 
-The potency of *P. montana* is relatively low compared to most psilocybin mushrooms, and its small size makes it impractical as a recreational species. However, indigenous peoples in arctic regions may have used it, though documentation is scarce. Chemical analysis is complicated by the difficulty of collecting sufficient material for testing.
+The potency of *P. montana* is relatively low compared to most psilocybin mushrooms, and its small size makes it impractical as a recreational species. However, indigenous peoples in arctic regions may have used it, though documentation is scarce. [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] is complicated by the difficulty of collecting sufficient material for testing.
 
 ## Ecological Role
 
@@ -95,7 +95,7 @@ The potency of *P. montana* is relatively low compared to most psilocybin mushro
 - Decaying root material in alpine meadows
 - Organic matter accumulated in snow-bed communities
 
-It may also have a weak **endophytic** association with mosses, as it is consistently found growing among and on moss mats. In arctic and alpine ecosystems, where decomposition rates are slow, fungi like *P. montana* play an important role in nutrient cycling.
+It may also have a weak **endophytic** association with mosses, as it is consistently found growing among and on moss mats. In arctic and alpine ecosystems, where decomposition rates are slow, fungi like *P. montana* play an important role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 ## Indigenous and Cultural Use
 
@@ -116,10 +116,10 @@ Documented use of *P. montana* by indigenous peoples is limited:
 
 ## Similar Species
 
-- **Psilocybe semilanceata:** Larger, with a pronounced papilla; found in grasslands, not typically alpine; more potent
+- **[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]:** Larger, with a pronounced papilla; found in grasslands, not typically alpine; more potent
 - **Psilocybe sierrae:** Nearly identical macroscopically; distinguished by microscopic features (spore size and shape)
 - **Psilocybe inquilina:** Found in moss, but lacks psilocybin; spores are larger
-- **Deconica species:** Many small brown moss mushrooms in the reclassified genus *Deconica* are visually identical but non-psychoactive; microscopic examination or chemical testing is required for definitive identification
+- **Deconica species:** Many small brown moss mushrooms in the reclassified genus *Deconica* are visually identical but non-psychoactive; [[fungal-microscopic-examination-mounting-media-techniques]] or chemical testing is required for definitive identification
 - **Psilocybe fishtarkia:** Very close relative; distinguished by geographic distribution and minor morphological differences
 
 ## Conservation Status

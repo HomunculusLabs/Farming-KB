@@ -14,7 +14,7 @@ sources:
 Eleutherococcus senticosus, commonly known as Siberian ginseng, is a woody
 shrub in the family Araliaceae native to northeastern Asia. Unlike true
 ginseng (Panax species), it does not contain ginsenosides but instead
-produces a distinct class of bioactive compounds called eleutherosides.
+produces a distinct class of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] called eleutherosides.
 It is one of the most extensively studied adaptogenic herbs, with a
 research history spanning over 60 years since Soviet-era investigations
 into its performance-enhancing properties.
@@ -71,7 +71,7 @@ October. Each fruit contains 2–5 seeds.
 ### Root System
 
 The root and rhizome are the primary harvested organs for medicinal use.
-Root bark is brownish-gray with a characteristic aromatic, slightly
+[[iboga-root-bark-preparation]] is brownish-gray with a characteristic aromatic, slightly
 bitter taste. The roots are typically harvested from plants 4–6 years
 old, with older roots considered more potent.
 
@@ -112,7 +112,7 @@ The adaptogenic classification requires that a substance demonstrate
 non-specific resistance enhancement, normalizing effect on physiology,
 and non-toxicity at normal doses. E. senticosus has been studied for:
 
-- **Stress response:** Modulates the hypothalamic-pituitary-adrenal
+- **[[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]]:** Modulates the hypothalamic-pituitary-adrenal
   (HPA) axis, reducing cortisol elevations during chronic stress
   without suppressing normal HPA function
 - **Immune function:** Enhances natural killer (NK) cell activity,
@@ -130,7 +130,7 @@ and non-toxicity at normal doses. E. senticosus has been studied for:
 ## Cultivation Notes
 
 E. senticosus is cultivated commercially in China, Korea, and to a
-lesser extent in Europe and North America. Propagation is primarily
+lesser extent in Europe and [[psilocybin-north-america-pacific-northwest]]. Propagation is primarily
 by seed, though root division and stem cuttings are also viable.
 Seeds require cold stratification (3–5 months at 2–5°C) for reliable
 germination. Optimal spacing is 0.5–1 m between plants. Root harvest

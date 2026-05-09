@@ -9,7 +9,7 @@ sources: []
 
 # LSA-Containing Plants Guide
 
-Lysergic acid amide (LSA), also known as ergine or d-lysergic acid amide, is a naturally occurring alkaloid found in several plant species. It is a close chemical relative of LSD (lysergic acid diethylamide), sharing the same lysergic acid core structure but with a simpler amide group rather than the diethylamide of LSD. LSA-containing plants have a long history of traditional use and remain legally accessible in many jurisdictions.
+[[ergot-and-lysergic-acid-history]] amide (LSA), also known as ergine or d-lysergic acid amide, is a naturally occurring alkaloid found in several plant species. It is a close chemical relative of LSD (lysergic acid diethylamide), sharing the same lysergic acid core structure but with a simpler amide group rather than the diethylamide of LSD. LSA-containing plants have a long history of traditional use and remain legally accessible in many jurisdictions.
 
 [[hallucinogenic-plant-chemistry]]
 
@@ -27,7 +27,7 @@ The experience from Argyreia nervosa seeds is consistently described as more sed
 
 ## Turbina Corymbosa (Ololiuqui)
 
-Turbina corymbosa is a perennial climbing vine native to Mexico and Central America, where it has been used ceremonially for centuries. The Nahuatl name ololiuqui means round thing, referring to the small, round seeds that are the psychoactive part of the plant.
+Turbina corymbosa is a perennial climbing vine native to Mexico and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], where it has been used ceremonially for centuries. The Nahuatl name ololiuqui means round thing, referring to the small, round seeds that are the psychoactive part of the plant.
 
 Ololiuqui holds a significant place in Mesoamerican ethnopharmacology. Spanish chroniclers documented its use by Aztec priests and healers for divination, diagnosis of illness, and communication with spirits. The seeds were considered sacred and their use was restricted to trained practitioners.
 
@@ -51,7 +51,7 @@ Direct consumption of crushed seeds is the simplest approach but produces the mo
 
 ## Legal Status
 
-LSA itself is a Schedule III controlled substance in the United States under the Controlled Substances Act. However, the plants that contain LSA are generally legal to grow, possess, and sell. The seeds of Argyreia nervosa and Ipomoea species are widely available from garden suppliers and online vendors.
+LSA itself is a Schedule III controlled substance in the [[dmt-containing-plants-united-states-halpern]] under the Controlled [[controlled-substances-act-and-psychedelic-research]]. However, the plants that contain LSA are generally legal to grow, possess, and sell. The seeds of Argyreia nervosa and Ipomoea species are widely available from garden suppliers and online vendors.
 
 This legal paradox, where a controlled substance occurs naturally in an uncontrolled plant, creates a gray area. The seeds themselves are not scheduled, but extracting the LSA would constitute manufacturing a controlled substance. Most users who prepare LSA-containing seeds are technically in violation of the law, though prosecution for personal use of commonly available garden seeds is essentially unknown.
 
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

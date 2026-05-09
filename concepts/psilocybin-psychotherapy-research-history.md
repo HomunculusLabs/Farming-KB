@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Psychotherapy Research History
+title: Psilocybin psilocybin psychotherapy research history History
 created: 2026-04-19
 updated: 2026-04-18
 type: concept
@@ -9,7 +9,7 @@ tags: [psilocybin, mushrooms]
 
 # [[psilocybin-psychotherapy]] Research History
 
-The use of [psilocybin and other hallucinogenic substances in psychotherapy represents one of the most promising yet politically suppressed areas of psychiatric research in the 20th century. Beginning in the 1950s and continuing until legislative restrictions halted most work in the late 1960s, researchers across Europe and North America demonstrated remarkable clinical success rates using psilocybin as an adjunct to psychotherapeutic treatment.
+The use of [psilocybin and other hallucinogenic substances in psychotherapy represents one of the most promising yet politically suppressed areas of psychiatric research in the 20th century. Beginning in the 1950s and continuing until legislative restrictions halted most work in the late 1960s, researchers across Europe and [[psilocybin-north-america-pacific-northwest]] demonstrated remarkable clinical success rates using psilocybin as an adjunct to psychotherapeutic treatment.
 
 ## Psycholytic Therapy
 
@@ -25,7 +25,7 @@ Patients under the influence of these substances confronted long-repressed traum
 
 Following its initial isolation and discovery of its chemical structure, psilocybin quickly joined the group of hallucinogens used in psychotherapy. Several factors established psilocybin as the preferred therapeutic agent:
 
-- **Extremely low toxicity** -- See [[psilocybin-toxicity-and-safety-profile]]
+- **Extremely [[fukuoka-low-toxicity-pesticide-deception]]** -- See [[psilocybin-toxicity-and-safety-profile]]
 - **Accurate dosing below 10 mg** -- Dosages below 10 mg can be measured with accuracy, and effects within this range can always be brought under control
 - **Therapeutically efficient range** -- Dosages up to 10 mg are known to be therapeutically efficient
 - **Manageable duration** -- States of consciousness induced by psilocybin last only five hours on average, compared to much longer periods with LSD
@@ -35,7 +35,7 @@ H. Leuner still considers psilocybin the most effective alkaloid for use as a ph
 
 ### Therapeutic Mechanism
 
-The psycholytic approach is based on the understanding that hallucinogenic substances are non-specific triggers causing a sequence of altered states of consciousness. According to S. Grof's analysis of 5,000 experimental protocols, it is the individual's personality along with the experimental setting that significantly shapes the nature of the experience.
+The psycholytic approach is based on the understanding that hallucinogenic substances are non-specific triggers causing a sequence of [[weil-the-natural-mind-altered-states-normalcy]] of consciousness. According to S. Grof's analysis of 5,000 experimental protocols, it is the individual's personality along with the experimental setting that significantly shapes the nature of the experience.
 
 Grof identified a developmental sequence of experiences:
 
@@ -103,7 +103,7 @@ In one exceptionally remarkable case, a participant under the influence of psilo
 The unbiased scientific evaluation of hallucinogenic substances remains an all but impossible task due to restrictive legislative measures. As a consequence of the political upheaval of the 1960s and the reaction against [[psilocybin-clinical-research-history]]
 - [[early-paris-psilocybin-research-1960s]]
 
-- [Psilocybin toxicity and safety profile -- Safety data supporting therapeutic use
+- [Psilocybin [[psilocybin-toxicity-and-safety-profile]] profile -- Safety data supporting therapeutic use
 - MDMA-assisted psychotherapy -- Modern successor to psycholytic therapy
 - LSD research history -- Related research program
 - [[psilocybin-isolation-and-early-scientific-research]]

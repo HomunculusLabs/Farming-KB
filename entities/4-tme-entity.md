@@ -1,5 +1,5 @@
 ---
-title: 4 Tme Entity
+title: 4 3-tme-entity-pihkal
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # 4-TME (3-Thiometaescaline; 4,5-Dimethoxy-3-ethylthiophenethylamine)
 
-4-TME is a sulfur-substituted phenethylamine and the ethylthio analogue of me (metaescaline). It replaces the 3-ethoxy group of metaescaline with a 3-ethylthio group, producing a compound with distinctive disinhibiting and creative effects. The compound is listed as PIHKAL entry #164.
+4-TME is a sulfur-substituted phenethylamine and the ethylthio analogue of me (metaescaline). It replaces the 3-ethoxy group of metaescaline with a 3-ethylthio group, producing a compound with distinctive disinhibiting and creative effects. The compound is listed as [[2c-b-pihkal-entry-20]] #164.
 
 ## Chemical Classification
 
@@ -59,7 +59,7 @@ The letter M precedes the name of the parent compound (ME for metaescaline).
 
 The number (3-, 4-, or 5-) indicates the position of the sulfur atom on the ring.
 
-The prefix "Thio" indicates sulfur substitution.
+The prefix "Thio" indicates [[pihkal-sulfur-substitution-potency-sar]].
 
 The thiometaescalines thus represent a systematic series exploring the effect of sulfur placement on the metaescaline scaffold.
 

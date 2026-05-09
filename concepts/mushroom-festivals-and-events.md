@@ -4,12 +4,13 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [community, fungi, mycology, mushrooms, education, culture, foraging, folklore]
-sources: []
+sources:
+  - "raw/papers/jarrold-indoor-mushroom-growing-technique-boil-a-bag.md"
 ---
 
 ## Overview
 
-Mushroom festivals, forays, and mycological events bring together amateur and professional mycologists for education, field collection, specimen identification, and community building. These events range from small local club forays to large international conferences and attract thousands of enthusiasts annually.
+Mushroom festivals, forays, and mycological events bring together amateur and professional mycologists for education, field collection, specimen identification, and [[urban-permaculture-community-building-social-design]]. These events range from small local club forays to large international conferences and attract thousands of enthusiasts annually.
 
 ## Major North American Events
 
@@ -19,7 +20,7 @@ Mushroom festivals, forays, and mycological events bring together amateur and pr
 - Features guided forays, cooking demonstrations, lectures, and workshops
 - Draws 1,000+ attendees from around the world
 - Known for eclectic programming including mycological art, music, and philosophy
-- Strong emphasis on psychedelic mushroom education and policy reform
+- Strong emphasis on [[archaeology-of-psychedelic-mushroom-use]] education and policy reform
 
 ### NAMA Annual Foray
 - North American Mycological Association (NAMA) hosts annual forays since 1960
@@ -31,7 +32,7 @@ Mushroom festivals, forays, and mycological events bring together amateur and pr
 ### Mendocino Mushroom Festival (California)
 - Week-long celebration of mushroom season on the Northern California coast
 - Guided mushroom walks through coastal redwood and mixed conifer forests
-- Wild mushroom cooking classes and chef demonstrations
+- Wild [[falconer-mushroom-cooking-selection-and-preparation]] classes and chef demonstrations
 - Mushroom wine pairing events
 - Typically held in November during peak mushroom season
 
@@ -64,7 +65,7 @@ Mushroom festivals, forays, and mycological events bring together amateur and pr
 ## Types of Events
 
 ### Guided Forays
-- Expert-led field walks in productive mushroom habitats
+- Expert-led field walks in productive [[psilocybin-mushroom-habitats-ecology]]
 - Focus on identification, ecology, and responsible foraging
 - Duration: half-day to multi-day
 - Difficulty levels from beginner to advanced
@@ -75,7 +76,7 @@ Mushroom festivals, forays, and mycological events bring together amateur and pr
 - Microscopic identification techniques
 - Spore print analysis
 - Key-based identification practice
-- Often paired with forays for fresh specimen collection
+- Often paired with forays for fresh [[fungal-specimen-collection-herbarium-management]]
 
 ### Scientific Conferences
 - Mycological Society of America (MSA) annual meeting
@@ -140,44 +141,7 @@ Mushroom festivals, forays, and mycological events bring together amateur and pr
 ### Cultural Traditions
 - Mushroom festivals connect people to seasonal rhythms
 - Many traditions tied to specific regional and cultural contexts
-- Eastern European mushroom foraging traditions maintained through community events
-- Asian mycological societies preserve traditional mushroom knowledge
-- Indigenous mushroom traditions shared at cultural events
-
-## Online and Virtual Events
-
-### Digital Forays and Webinars
-- Post-2020 expansion of virtual mycological programming
-- Online identification sessions via video conferencing
-- Virtual forays with pre-collected specimens shown on camera
-- Recorded lectures and workshops available online
-- Social media groups for mushroom identification (iNaturalist, Mushroom Observer)
-
-### Mushroom Observer and iNaturalist
-- Online platforms for documenting fungal observations
-- Community identification assistance
-- Geographic and seasonal databases built from user submissions
-- Contribute to scientific knowledge while foraging
-- Useful for tracking personal finds and learning local species
-
-## Planning Your Attendance
-
-### What to Bring to a Foray
-- Basket or mesh bags for collecting specimens
-- Field knife and small brush
-- Hand lens (10x minimum)
-- Field guide relevant to the region
-- Waterproof clothing and sturdy boots
-- Water, snacks, and first aid
-- Notebook and camera for documentation
-
-### Seasonal Timing
-- Spring (March-May): Morels, oysters, pheasant backs
-- Summer (June-August): Chanterelles, boletes, corals
-- Fall (September-November): Peak diversity; matsutake, porcini, hedgehogs
-- Winter (December-February): Limited; oysters, enoki in warmer regions
-- See [[edible-wild-mushrooms-by-region]] for regional seasonal calendars
-
+- Eastern European [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]] traditions maintained through community events
 ## See Also
 
 - [[mushroom-foraging-safety-guide]] -- ethical harvesting practices for forays

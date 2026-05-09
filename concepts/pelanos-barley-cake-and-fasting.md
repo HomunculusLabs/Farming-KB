@@ -9,7 +9,7 @@ sources:
 ---
 # Pelanos, Fasting, and the Eleusinian Preparation
 
-**Source:** The Road to Eleusis, Chapter I — R. Gordon Wasson
+**Source:** The [[the-road-to-eleusis-wasson-hofmann-ruck]], Chapter I — R. Gordon Wasson
 
 **Updated:** 2026-04-19
 
@@ -33,7 +33,7 @@ The prohibition on eggs is particularly noteworthy. Eggs were widely consumed in
 
 ## The Pelanos
 
-In the early centuries of the Christian era, as Eleusinian secrecy began to break down, references emerged to "a collation served to the initiates when a large cake called the pelanos, made of barley and wheat harvested in the adjacent sacred Rarian plain, was broken into pieces and the portions served to all."
+In the early centuries of the Christian era, as Eleusinian secrecy began to [[query-can-fungi-break-down-plastic-pollution]], references emerged to "a collation served to the initiates when a large cake called the pelanos, made of [[ergot-of-barley-and-wheat-alkaloid-composition]] harvested in the adjacent sacred Rarian plain, was broken into pieces and the portions served to all."
 
 The pelanos was consumed as part of the culminating night of the [[psychedelic-dosage-titration-methodology]] was thus integrated with nutritional preparation.
 
@@ -47,7 +47,7 @@ The specific prohibition on eggs at Eleusis is echoed in the Mazatec tradition, 
 
 ## Historical Context
 
-The pelanos tradition appears to have been an older element of the Mysteries that was eventually superseded or supplemented by the kykeon. Some scholars suggest that in the earliest phases of the Eleusinian cult, the pelanos may have been the primary ritual food, with the kykeon developing later as a more refined preparation. The barley cake's simplicity — grain and water, perhaps with honey — connects it to the most ancient forms of Greek religious offering. The transition from solid barley cake to liquid kykeon may reflect a technological refinement in [[psychedelic-experience-stages]] recommended by modern psychedelic therapists bear striking resemblance to the Eleusinian fasting protocols. Contemporary guidelines for psychedelic therapy sessions typically advise participants to fast for 4-8 hours beforehand, avoid alcohol and certain medications, and approach the experience with a clear and open mindset. The [[psychedelic-therapy-set-and-setting]] research that emerged from the mid-twentieth century onward has confirmed what the Eleusinian hierophants apparently understood through centuries of empirical practice: that the preparation period is not merely preliminary but integral to the quality of the psychedelic experience.
+The pelanos tradition appears to have been an older element of the Mysteries that was eventually superseded or supplemented by the kykeon. Some scholars suggest that in the earliest phases of the Eleusinian cult, the pelanos may have been the primary ritual food, with the kykeon developing later as a more refined preparation. The pelanos barley cake and fasting's simplicity — grain and water, perhaps with honey — connects it to the most ancient forms of Greek religious offering. The transition from solid barley cake to liquid kykeon may reflect a technological refinement in [[psychedelic-experience-stages]] recommended by modern psychedelic therapists bear striking resemblance to the Eleusinian fasting protocols. Contemporary guidelines for [[metzner-psycholytic-psychedelic-therapy-models]] sessions typically advise participants to fast for 4-8 hours beforehand, avoid alcohol and certain medications, and approach the experience with a clear and open mindset. The [[psychedelic-therapy-set-and-setting]] research that emerged from the mid-twentieth century onward has confirmed what the Eleusinian hierophants apparently understood through centuries of empirical practice: that the preparation period is not merely preliminary but integral to the quality of the [[leary-psychedelic-experience-bardo-mapping]].
 
 ## See Also
 
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -7,7 +7,7 @@ tags:
   - rice
   - barley
   - no-tillage
-  - [[masanobu-fukuoka]]
+  - masanobu-fukuoka
     title: "The Natural Way of Farming"
 type: concept
 ---
@@ -18,9 +18,9 @@ Plain in Ehime Prefecture, Japan, were never plowed or turned, yet
 they consistently produced close to 22 bushels (1,300 pounds) of
 winter grain and 22 bushels of rice per quarter-acre. His goal was
 to eventually harvest 33 bushels per quarter-acre. The system
-relies on the symbiosis of rice and barley in a living clover cover,
-eliminating the need for tillage, chemical fertilizers, pesticides,
-and compost preparation.
+relies on the symbiosis of [[fukuoka-rice-and-barley-natural-farming]] in a living clover cover,
+eliminating the need for tillage, [[cervantes-chemical-fertilizers-guide]], pesticides,
+and [[cultivator-compost-preparation-phase-methods]].
 ## The Annual Cycle
 The complete annual cycle begins in early autumn. In September or
 October, clover seed is broadcast over the standing rice crop. About
@@ -30,10 +30,10 @@ on the young barley shoots beneath.
 After the rice harvest, the grain is left to dry for three days, then
 threshed. All of the rice straw is scattered uncut over the entire
 field surface. If chicken droppings are available, these are scattered
-over the straw as a light fertilization. Next, clay pellets containing
+over the straw as a light fertilization. Next, [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] containing
 rice seed are prepared and scattered over the straw mulch before the
 New Year, typically by mid-November to mid-December. With the winter
-grain growing and the rice seed sown, there is nothing left to do
+[[jeavons-grain-growing-mini-farms]] and the rice seed sown, there is nothing left to do
 until the winter grain harvest.
 Through winter, the barley grows steadily beneath its blanket of rice
 straw. In spring, a thick stand of clover develops at the base of the
@@ -60,7 +60,7 @@ trying to emerge in spring. Fukuoka solved this through a brief
 flooding period. By flooding the field for four to seven days in
 early June, the clover is weakened enough to allow rice shoots to
 break through, but not killed outright. The clover recovers partially
-and continues to provide ground cover through the rice growing season,
+and continues to provide ground cover through the rice [[savory-growing-season-and-non-growing-season-management]],
 suppressing late-season weeds.
 The clover also serves as a nitrogen source. Rather than applying
 chemical nitrogen fertilizer, the clover's root nodules, populated
@@ -90,4 +90,9 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+## See Also
+- [[natural-farming]]
+- [[clay-pellet-seed-encapsulation]]
+- [[direct-seeded-no-tillage-rice-barley-succession-in-clover]]
 
+- [[no-tillage-rice-barley-succession]]

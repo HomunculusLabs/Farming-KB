@@ -1,5 +1,5 @@
 ---
-title: "Ayahuasca Tourism: Medical Risks and Dangerous Prescription Drug Interactions"
+title: "stuart-r-ayahuasca-tourism-cautionary-ethnography: ayahuasca tourism medical risks prescription interactions and Dangerous Prescription cannabis-drug-interactions-and-contraindications"
 tags:
   - ayahuasca
   - maoi
@@ -25,7 +25,7 @@ type: concept
 
 ## Overview
 
-R. Stuart's 2002 paper "Ayahuasca Tourism: A Cautionary Tale," published in the *MAPS Bulletin*, documents the medical risks faced by tourists who participate in ayahuasca ceremonies in South America. The paper focuses on the Amazonian cities of [[ayahuasca-botany-and-preparation|Banisteriopsis caapi]] (which contains the beta-carboline alkaloids **harmine** and **harmaline**) combined with [[ayahuasca-pharmacology|ayahuasca pharmacology]] and the [[ayahuasca-pharmacology-MAOI-interactions]]
+R. Stuart's 2002 paper "Ayahuasca Tourism: A Cautionary Tale," published in the *MAPS Bulletin*, documents the medical risks faced by tourists who participate in [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] in South America. The paper focuses on the Amazonian cities of [[ayahuasca-botany-and-preparation|Banisteriopsis caapi]] (which contains the beta-carboline alkaloids **harmine** and **harmaline**) combined with [[ayahuasca-pharmacology|ayahuasca pharmacology]] and the [[ayahuasca-pharmacology-maoi-interactions]]
 
 - [[ayahuasca-botany-and-preparation]]
 - [[alan-shoemaker-ayahuasca-legal-peru]]
@@ -106,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

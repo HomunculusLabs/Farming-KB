@@ -66,7 +66,7 @@ The fruit is a two-valved, ovoid capsule approximately 6–8 mm long, containing
 
 ## Chemistry and Active Compounds
 
-The primary medicinal compounds in Verbascum thapsus are concentrated in the leaves and flowers:
+The primary [[cotter-mushroom-nutrition-medicinal-compounds]] in Verbascum thapsus are concentrated in the leaves and flowers:
 
 - **Mucilage (polysaccharides):** 2–8% of leaf dry weight; forms a soothing, gel-like layer on mucous membranes when infused in water. This is the primary basis for mullein's respiratory applications.
 - **Saponins:** Present in leaves and flowers; contribute expectorant activity by irritating mucous membranes enough to stimulate mucus secretion, facilitating productive coughs.
@@ -92,16 +92,16 @@ The primary medicinal compounds in Verbascum thapsus are concentrated in the lea
 
 ### Respiratory Applications
 
-Mullein leaf tea is the most common traditional preparation for respiratory conditions. The mucilaginous infusion coats and soothes irritated mucous membranes of the throat and lungs. It is used for dry, hacking coughs, bronchitis, tracheitis, laryngitis, and asthma symptoms. The flowers, steeped in olive oil to create "mullein oil," are traditionally used as ear drops for earaches and middle ear inflammation (otitis media).
+Mullein leaf tea is the most common [[kava-traditional-preparation-ceremonial-context]] for [[cannabis-respiratory-conditions]]. The mucilaginous infusion coats and soothes irritated mucous membranes of the throat and lungs. It is used for dry, hacking coughs, bronchitis, tracheitis, laryngitis, and asthma symptoms. The flowers, steeped in olive oil to create "mullein oil," are traditionally used as ear drops for earaches and middle ear inflammation (otitis media).
 
 ### Topical and Wound Care
 
-Fresh mullein leaves have been applied topically as poultices for burns, wounds, hemorrhoids, and inflammatory skin conditions. The soft woolly surface of the leaves was historically used as a makeshift bandage or wound dressing by soldiers and travelers. The plant has mild antimicrobial properties attributable to its saponin and flavonoid content.
+Fresh mullein leaves have been applied topically as poultices for burns, wounds, hemorrhoids, and inflammatory skin conditions. The soft woolly surface of the leaves was historically used as a makeshift bandage or wound dressing by soldiers and travelers. The plant has mild [[medicinal-mushroom-antimicrobial-properties]] attributable to its saponin and flavonoid content.
 
 ### Other Traditional Uses
 
 - Diuretic tea preparations for urinary tract inflammation
-- Topical applications for joint pain and rheumatism
+- [[cannabis-topical-applications]] for joint pain and rheumatism
 - Root preparations (less common) as a urinary astringent
 - Historical use as a fish poison (saponins stun fish in still water)
 - Dried flowering stalks dipped in tallow were used as torches (hence "torch weed")
@@ -109,7 +109,7 @@ Fresh mullein leaves have been applied topically as poultices for burns, wounds,
 
 ## Cultivation Notes
 
-Mullein is easily grown from seed. It prefers well-drained, poor to average soils and full sun exposure. Seeds should be surface-sown in spring or autumn, as they require light for germination. The species is remarkably drought-tolerant once established. In a permaculture or medicinal herb garden, mullein serves as a dynamic accumulator, drawing minerals from deep subsoil layers with its long taproot (which can extend 1 meter or more). It is often found as a volunteer in disturbed areas and requires minimal maintenance.
+Mullein is easily grown from seed. It prefers well-drained, poor to average soils and full sun exposure. Seeds should be surface-sown in spring or autumn, as they require light for germination. The species is remarkably drought-tolerant once established. In a permaculture or medicinal herb garden, mullein serves as a [[comparison-hyperaccumulator-vs-dynamic-accumulator]], drawing minerals from deep subsoil layers with its long taproot (which can extend 1 meter or more). It is often found as a volunteer in disturbed areas and requires minimal maintenance.
 
 ## Safety and Contraindications
 

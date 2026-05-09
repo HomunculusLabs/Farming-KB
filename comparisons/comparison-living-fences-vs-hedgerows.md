@@ -38,7 +38,7 @@ comparison living fences vs hedgerows are closely related linear planting system
 | **Biodiversity value** | Moderate | High to very high |
 | **Production potential** | Moderate (fodder, fuel, mulch) | High (fruit, nuts, medicine, craft, fuel, fodder) |
 | **Wind reduction** | 40–60% within 5–10× height | 40–60% within 10–15× height |
-| **Cultural tradition** | Tropical farming, indigenous agriculture | European agriculture, temperate zones |
+| **Cultural tradition** | Tropical farming, indigenous agriculture | [[fukuoka-european-agriculture-observations]], temperate zones |
 
 ## Primary Purpose
 
@@ -58,7 +58,7 @@ comparison living fences vs hedgerows are closely related linear planting system
 ### Hedgerows
 - **Wide profile**: 3–10 m wide
 - **Multi-layered**: Canopy trees (10–15 m), shrub layer (2–5 m), and ground flora
-- **Diverse species mix**: Canopy trees at wide spacing with dense shrub understory
+- **Diverse species mix**: Canopy trees at [[solomon-wide-spacing-versus-intensive-gardening-debate]] with dense shrub understory
 - **Margins and edges**: Herbaceous borders, bramble margins, grassy buffers
 - **Dead wood habitat**: Standing dead wood retained for invertebrates
 
@@ -66,7 +66,7 @@ comparison living fences vs hedgerows are closely related linear planting system
 
 | Role | Living Fence Species | Hedgerow Species |
 |---|---|---|
-| **Barrier/thorn** | Hawthorn, blackthorn, osage orange, honey locust | Same, plus sea buckthorn, rugosa rose |
+| **Barrier/thorn** | Hawthorn, blackthorn, osage orange, honey locust | Same, plus [[comparison-sea-buckthorn-vs-aronia]], rugosa rose |
 | **Canopy tree** | Rare; occasional standards | Oak, ash, field maple, crabapple, pear, cherry |
 | **Shrub layer** | Primary barrier species | Hazel, dogwood, elder, viburnum, serviceberry, currant |
 | **Nitrogen fixer** | Black locust, caragana, gliricidia | Same, plus autumn olive, broom, seaberry |
@@ -74,9 +74,9 @@ comparison living fences vs hedgerows are closely related linear planting system
 
 ## Management Comparison
 
-**Living fences**: Annual hard pruning to maintain shape and density; hedge laying every 10–20 years; immediate gap filling; height control (1.5–3 m for livestock); weed control essential during establishment.
+**Living fences**: Annual hard pruning to maintain shape and density; hedge laying every 10–20 years; immediate gap filling; height control (1.5–3 m for livestock); [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]] essential during establishment.
 
-**Hedgerows**: Selective pruning of individual shrubs on rotation (coppicing on 8–15 year cycles); periodic hedge laying (10–25 years); individual canopy tree pruning; margin management on rotation (avoid cutting March–August for nesting birds); dead wood retention.
+**Hedgerows**: Selective pruning of individual shrubs on rotation (coppicing on 8–15 year cycles); periodic hedge laying (10–25 years); individual canopy [[comparison-fruit-tree-pruning-vs-fruit-tree-grafting-guide]]; margin management on rotation (avoid cutting March–August for nesting birds); dead wood retention.
 
 ## Biodiversity and Ecology
 
@@ -106,7 +106,7 @@ Hedgerows are biodiversity hotspots. A mature British hedgerow supports over 2,0
 ## When to Choose a Hedgerow
 
 - Wildlife habitat is a priority — maximizing biodiversity and creating corridors
-- Multiple functions needed — windbreak, production, beauty, habitat, erosion control
+- Multiple functions needed — windbreak, production, beauty, habitat, [[permplant-willows-salix-erosion-control-fodder]]
 - Sufficient land available — 3–10 m of width
 - Long-term landscape planning — designing for decades of maturation
 - Integration with food forest or agroforestry systems
@@ -116,5 +116,9 @@ Hedgerows are biodiversity hotspots. A mature British hedgerow supports over 2,0
 - **Living fence with productive hedgerow**: Dense barrier row backed by a wider multi-species strip
 - **Stockproof hedgerow**: Traditional British-style laid hedge serving as both fence and habitat
 - **Fedge (food hedge)**: A living fence composed primarily of edible species — fruiting shrubs and [[living-fences-vs-conventional-fencing]]
-- [[gaias-garden-food-forest-history-and-evolution]]
+- gaias-garden-food-forest-history-and-evolution
 - [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]]
+
+## See Also
+
+- [[living-fences-and-hedgerows]]

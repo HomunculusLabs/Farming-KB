@@ -1,5 +1,5 @@
 ---
-title: Gaian Psychotherapy and Entheogenic Plants
+title: Gaian gaian psychotherapy and entheogenic plants Plants
 created: 2026-04-28
 tags: [gaia-theory, psychotherapy, entheogens, ecology, consciousness]
 date: 2026-04-25
@@ -10,7 +10,7 @@ type: concept
 
 # Gaian Psychotherapy and Entheogenic Plants
 
-Simon G. Powell's "The Psilocybin Solution" presents the concept of
+Simon G. Powell's "The [[powell-psilocybin-solution-ecological-cognition-theory]]" presents the concept of
 "Gaian psychotherapy," a framework for understanding the relationship
 between psychedelic plants, human consciousness, and the broader
 ecological systems of Earth. Drawing on James Lovelock's Gaia theory,
@@ -35,7 +35,7 @@ entirely natural process. When the ecological system of shaman, tribe,
 and plant is considered as a whole, the practice can be seen as
 essentially homeostatic: one part of the environment acts upon another
 in order to restore harmony. Certain plants and fungi yield aid through
-their psychological effects, acting as mediators between human
+their [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]], acting as mediators between human
 consciousness and the broader web of life.
 
 ## Critique of Reductionist Science
@@ -59,10 +59,10 @@ while ignoring its meaning.
 ## Nature as Communicating Intelligence
 
 Central to Powell's thesis is the idea that nature communicates through
-chemical languages. Just as plants use volatile organic compounds to
+chemical languages. Just as plants use [[fungal-volatile-organic-compounds-communication]] compounds to
 signal distress or attract pollinators, more complex molecules like
 psilocybin may serve as chemical messengers that act across species
-lines. These cross-species chemical signals could
+lines. These cross-species [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] could
 represent a form of planetary communication that humans have only
 partially learned to decode.
 

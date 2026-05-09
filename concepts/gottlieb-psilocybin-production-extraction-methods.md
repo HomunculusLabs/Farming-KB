@@ -10,7 +10,7 @@ tags: [psilocybin]
 
 Gottlieb's Psilocybin Extraction Methods
 
-The book "Psilocybin Production" by Gottlieb (with a legal update by Richard Glen Boire) provides complete instructions for cultivating psilocybin-bearing mushroom mycelium and extracting the active alkaloids psilocybin and psilocin. The extraction method described uses methanol as the primary solvent and produces a crude alkaloid preparation of approximately 25-50% purity. The book also references PF's alcohol extraction technique using 200-proof ethanol.
+The book "gottlieb psilocybin production extraction methods" by Gottlieb (with a legal update by Richard Glen Boire) provides complete instructions for cultivating psilocybin-bearing mushroom mycelium and extracting the active alkaloids psilocybin and psilocin. The extraction method described uses methanol as the primary solvent and produces a crude alkaloid preparation of approximately 25-50% purity. The book also references PF's [[pf-tek-alcohol-extraction-method]] technique using 200-proof ethanol.
 
 The Methanol Extraction Method
 
@@ -40,7 +40,7 @@ The saccharimeter is used to follow the growth process. Maximum growth and highe
 
 Factors Affecting Yield
 
-Several variables affect alkaloidal content and extraction efficiency. Different psilocybin-bearing species contain different alkaloid levels; Psilocybe cubensis is described as the most potent and most easily cultivated. Cultivation temperature influences potency: higher temperatures (75 degrees F) cause faster growth but lesser psilocybin content than lower temperatures (70 degrees F). Strain variation and cultivation conditions also affect yield. Each batch of extracted material must be tested to determine proper dosing.
+Several variables affect alkaloidal content and extraction efficiency. Different psilocybin-bearing species contain different alkaloid levels; [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] is described as the most potent and most easily cultivated. Cultivation temperature influences potency: higher temperatures (75 degrees F) cause faster growth but lesser psilocybin content than lower temperatures (70 degrees F). Strain variation and cultivation conditions also affect yield. Each batch of extracted material must be tested to determine proper dosing.
 
 Dosage
 
@@ -54,23 +54,25 @@ Paper Chromatography Identification
 
 The book describes a relatively simple test for confirming the presence of psilocybin and psilocin in mushroom samples using paper chromatography. The dried, pulverized mushroom sample is extracted into unheated methanol by shaking for half an hour. The extract is spotted on paper and treated with water-saturated butanol for about 2 hours. After drying with a hair dryer, the outer zone is sprayed with p-dimethyl-aminobenzaldehyde in alcohol and then with 1 N hydrochloric acid. Psilocybin produces a reddish color; psilocin produces a blue-violet zone.
 
-Bluing Reaction Limitations
+[[field-guide-psilocybin-bluing-reaction-identification]] Limitations
 
 Gottlieb cautions against relying on the common bluing reaction (breaking the flesh and waiting for blue coloration) as a definitive test for psilocybin-bearing mushrooms. While most psilocybin-bearing species respond positively, other species may also blue, including the poisonous Eastwood Boletus. A Metol test (used in photo developers) accelerates bluing but also responds to any indolic substance, including tryptophan found in most living organisms, making it unreliable.
 
 PF's Alcohol Extraction Method
 
-The book also references an alcohol extraction technique attributed to PF (Psilocybe Fanaticus) using 200-proof ethyl alcohol. Dried mushrooms are pulverized, covered with alcohol to make a loose slurry, and soaked for 24 hours with periodic shaking. The alcohol is filtered off and the process repeated with fresh alcohol. The combined extracts are evaporated using a small fan to concentrate the solution. The resulting "psilo-liqueur" is stored in small bottles in the freezer. PF recommended 1 to 3 or more grams of dried mushroom material per ounce of final extract as a potent concentration.
+The book also references an alcohol extraction technique attributed to PF ([[pf-tek-psilocybe-fanaticus-cultivation-method]]) using 200-proof ethyl alcohol. Dried mushrooms are pulverized, covered with alcohol to make a loose slurry, and soaked for 24 hours with periodic shaking. The alcohol is filtered off and the process repeated with fresh alcohol. The combined extracts are evaporated using a small fan to concentrate the solution. The resulting "psilo-liqueur" is stored in small bottles in the freezer. PF recommended 1 to 3 or more grams of dried mushroom material per ounce of final extract as a potent concentration.
 
 Legal Considerations
 
-Gottlieb notes that psilocybin and psilocin are Schedule I controlled substances under Title 21 of the US Code. The legal update by Richard Glen Boire clarifies that no Psilocybe species are outlawed by name in federal law, but prosecutors have used the "mixture or preparation" provision to argue that mushrooms containing these compounds are illegal "containers" of controlled substances. Boire argues this is a preposterous interpretation that could theoretically outlaw morning glories (which contain lysergic acid amide) or even human brains (which produce DMT). The extraction process described is explicitly illegal in the United States. Spore prints are generally legal under federal law since spores do not contain psilocybin or psilocin, though California uniquely prohibits spore distribution for cultivation purposes.
+Gottlieb notes that psilocybin and psilocin are Schedule I controlled substances under Title 21 of the US Code. The legal update by Richard Glen Boire clarifies that no Psilocybe species are outlawed by name in federal law, but prosecutors have used the "mixture or preparation" provision to argue that mushrooms containing these compounds are illegal "containers" of controlled substances. Boire argues this is a preposterous interpretation that could theoretically outlaw [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] (which contain lysergic acid amide) or even human brains (which produce DMT). The extraction process described is explicitly illegal in the United States. Spore prints are generally legal under federal law since spores do not contain psilocybin or psilocin, though California uniquely prohibits spore distribution for cultivation purposes.
 
 Greater Purification
 
 Gottlieb notes that higher purification beyond the crude extraction is possible but would require additional solvents and chromatography equipment. He considers this "hardly necessary" for the purposes described, as the 25-50% crude preparation provides usable material with straightforward methodology.
 
 ## See Also
+
+- [[phosphorylation-methods-psilocybin-production-comparison]]
 - [[shulgin-future-drugs]]
 - gordon-wasson
 - [[pf-tek-psilocybe-fanaticus-cultivation-method]]

@@ -1,5 +1,5 @@
 ---
-title: "EMCDDA Hallucinogenic Mushroom Dose and Effects"
+title: "EMCDDA emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative Dose and Effects"
 created: 2026-04-28
 tags:
   - psilocybin
@@ -39,7 +39,7 @@ system as a 5-HT2A post-synaptic agonist or partial agonist.
 Beside psilocybin and psilocin, two further tryptamines, baeocystin and
 norbaeocystin, could also be present but are thought to be less active. The
 most commonly used species are [[psilocybe-semilanceata]] (liberty caps), and [[psilocybe-bohemica]]). In other
-species (Psilocybe cubensis), psilocybin and psilocin could be present in up
+species ([[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]), psilocybin and psilocin could be present in up
 to 0.6% concentration. These values, however, are used for initial orientation
 only.
 
@@ -56,19 +56,19 @@ ranges should be interpreted with caution, as it is difficult to transpose
 the maximum dose of the active substance into mushroom weight or number, as
 the concentration may vary. Furthermore, there is usually more than one active
 substance present. However, short-term tolerance may develop rapidly to both
-physical and psychological effects, and dosages may increase as a result.
+physical and [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]], and dosages may increase as a result.
 
 ## Route of Administration
 
 To achieve the desired effects, users ingest (chew up and hold in mouth or
 swallow) the mushrooms raw or dried, or brewed/stewed into tea. Because
-hallucinogenic mushrooms generally do not taste good, it is 'recommended' to
+[[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] generally do not taste good, it is 'recommended' to
 chop them into smaller pieces. Eating them mixed or cooked into food may cause
 nausea and vomiting. The mushrooms can also be dried for later use.
 
 Users' reports on the internet suggest that dried mushrooms are also being
 smoked, which is said to induce faster but milder effects. However, it is not
-clear whether smoking psilocybin and psilocin containing mushrooms can produce
+clear whether smoking psilocybin and psilocin [[psilocybin-containing-mushrooms-in-us]] can produce
 psychoactive effects. A report on the internet refers to literature reports
 about extract of mushrooms being intravenously injected, which results in more
 severe acute effects.
@@ -127,5 +127,7 @@ ecstasy. The Dutch risk assessment report notes that hallucinogenic mushrooms
 tend to be taken as an experimental drug and people generally discontinue use
 after a few times.
 ## See Also
+
+- [[psilocybin-pharmacology-5ht2a-receptor-mechanism]]
 
 - [[emcdda-psilocybin-mushroom-dose-and-effects]]

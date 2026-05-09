@@ -1,5 +1,5 @@
 ---
-title: Psilocybe stuntzii Profile
+title: stamets-psi-psilocybe-stuntzii-blue-ringers Profile
 created: 2026-04-19
 updated: 2026-04-18
 type: concept
@@ -9,13 +9,13 @@ tags: [reference]
 
 # Psilocybe stuntzii Profile
 
-psilocybe stuntzii profile Guzman & Ott is a strongly bluing psychoactive mushroom species native to the Pacific Northwest of North America. First identified in 1972 at the University of Washington in Seattle, it rapidly became one of the most significant species in terms of recreational usage in the region, second only to [[query-what-is-the-difference-between-psilocybin-and-psilocin]], a belief later confirmed through biochemical analysis. The sudden appearance of massive numbers of fruiting bodies inspired students to use the mushroom as a hallucinogen.
+psilocybe stuntzii profile Guzman & Ott is a strongly bluing psychoactive mushroom species native to the Pacific Northwest of [[psilocybin-north-america-pacific-northwest]]. First identified in 1972 at the University of Washington in Seattle, it rapidly became one of the most significant species in terms of recreational usage in the region, second only to [[query-what-is-the-difference-between-psilocybin-and-psilocin]], a belief later confirmed through biochemical analysis. The sudden appearance of massive numbers of fruiting bodies inspired students to use the mushroom as a hallucinogen.
 
 In 1976, the species was formally named Psilocybe stuntzii by Guzman and Ott, in honor of Daniel E. Stuntz, the mycologist who first collected the specimens.
 
 ### Origin Debate
 
-It remains uncertain whether the mushroom appeared spontaneously or whether it fruited on bark debris because the mulch had been previously mixed with spawn derived from fruiting bodies originating elsewhere. Gartz notes that either scenario is possible, but the sudden mass appearance at a specific location with imported mulch suggests introduction rather than natural occurrence.
+It remains uncertain whether the mushroom appeared spontaneously or whether it fruited on bark debris because the mulch had been previously mixed with spawn derived from fruiting bodies originating elsewhere. Gartz notes that either scenario is possible, but the sudden mass appearance at a specific location with imported mulch suggests introduction rather than [[brassinosteroid-natural-occurrence-plant-kingdoms]].
 
 ## Slang Names
 
@@ -26,7 +26,7 @@ It remains uncertain whether the mushroom appeared spontaneously or whether it f
 
 - **Cap:** Conic to convex with a distinct umbo; chestnut brown when moist, fading to yellowish-brown when dry; develops blue to blue-green stains when handled or injured
 - **Ring:** Distinct annular ring on the stem, a key identifying feature that distinguishes it from many other Pacific Northwest species
-- **Bluing reaction:** Strong and rapid blue staining, particularly at the base of the stem
+- **[[field-guide-psilocybin-bluing-reaction-identification]]:** Strong and rapid blue staining, particularly at the base of the stem
 - **Habitat:** Bark mulch, lawns in parks, golf courses, football fields, and gardens
 
 ## Distribution and Habitat
@@ -67,7 +67,7 @@ By the early 1980s, Psilocybe stuntzii had become the second most important psyc
 
 ### Ecological Spread
 
-The species' expansion across the Pacific Northwest represents a notable case study in the spread of psychoactive mushrooms through human activity. The bark mulch trade -- where wood chips are processed at central distribution points and spread across diverse locations -- served as an unwitting vector for dispersal of the species.
+The species' expansion across the Pacific Northwest represents a notable case study in the spread of psychoactive mushrooms through human activity. The bark mulch trade -- where [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]] are processed at central distribution points and spread across diverse locations -- served as an unwitting vector for dispersal of the species.
 
 ### Safety Record
 
@@ -79,7 +79,7 @@ Despite widespread usage in the Pacific Northwest, no fatalities or serious phys
 |---|---|---|---|---|
 | Ring | Distinct | None | None | None |
 | Bluing | Strong | Moderate | Very strong | Moderate |
-| Primary substrate | Bark mulch | Pasture grass | Wood chips/debris | Wood chips/sawdust |
+| Primary substrate | Bark mulch | [[mollison-designers-tropical-pasture-grass-species-and-establishment]] | Wood chips/debris | Wood chips/sawdust |
 | Fruiting season | Year-round | Fall | Fall | Fall |
 | Regional usage rank | 2nd | 1st | 3rd | Less common |
 

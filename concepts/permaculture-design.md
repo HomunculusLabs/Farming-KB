@@ -1,6 +1,6 @@
 ---
 
-title: Permaculture Design -- Zones, Sectors, and Site Analysis
+title: bill-mollison-permaculture-a-designers-manual-permaculture-design-principles -- Zones, Sectors, and mollison-climate-site-analysis-permaculture
 created: 2026-04-10
 updated: 2026-04-12
 type: concept
@@ -17,7 +17,7 @@ tags:
 - plant-systems
 
 sources:
-- raw/papers/bill-mollison-permaculture-design-course.md
+sources: []
 - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
 - raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and.md
@@ -33,7 +33,7 @@ Permaculture design is a methodology for organizing space, resources, and elemen
 Zones organize elements by how often you visit them. Zone 0 is the center of activity; Zone 5 is wilderness.
 
 ### Zone 0: The House / Indoor Space
-The home itself. Indoor growing areas (cannabis grow room, sprouting shelves), kitchen, living spaces. Energy-efficient design, passive solar heating, and greywater systems originate here. This is where you spend most time.
+The home itself. [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]] areas (cannabis grow room, sprouting shelves), kitchen, living spaces. Energy-efficient design, [[comparison-passive-solar-vs-earth-sheltered]] heating, and greywater systems originate here. This is where you spend most time.
 
 ### Zone 1: Intensive Garden
 Immediately outside the house. Visit multiple times daily. Elements include:
@@ -69,7 +69,7 @@ Visited weekly to monthly. Elements include:
 ### Zone 4: Forage and Woodlot
 Visited monthly to seasonally. Elements include:
 - Firewood and timber trees
-- Wild foraging areas
+- [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]] areas
 - Pasture rotation areas
 - Animal forage beyond managed pasture
 - [[permaculture-useful-plants-reference]] species that need minimal care
@@ -109,7 +109,7 @@ Cold air drains downhill and collects in low spots. Avoid placing frost-sensitiv
 6. **Map edges** -- forest/meadow, water/land, shade/sun transitions (see [[edge-effect-and-microclimate]])
 7. **Design element placement** to take advantage of positive flows and buffer negative ones
 8. **Connect elements** so outputs of one become inputs to another
-9. **Apply pattern understanding** to the whole assembly (see [[patterns-in-nature]] and [[permaculture-design-methods]])
+9. **Apply [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]]** to the whole assembly (see nature and [[permaculture-design-methods]])
 10. **Start small** -- implement Zone 1 and 2 first, expand outward
 
 ## Practical Tips for a Small Homestead
@@ -125,10 +125,19 @@ Cold air drains downhill and collects in low spots. Avoid placing frost-sensitiv
 
 ## Related
 
+- [[oudemansiella-radicata]]
+
+- [[permaculture-appropriate-technology-design]]
+- [[permaculture-built-environment-design]]
+- [[permaculture-cattail]]
+- [[permaculture-macadamia]]
+- [[salvage-permaculture-dumpster-diving]]
+- [[strawyard-throwover-pen-design]]
+
 - [[permaculture-community-design]] Pages
 - [[permaculture-principles]]
 - [[permaculture-design-methods]] -- Comprehensive design toolkit
-- [[patterns-in-nature]] -- Natural patterns for design
+- nature -- Natural patterns for design
 - [[edge-effect-and-microclimate]] -- Edge theory and microclimate
 - [[keyline-design]] -- Water storage and landscape patterning
 - [[permaculture-plant-catalog]] -- Plants by function
@@ -138,6 +147,4 @@ Cold air drains downhill and collects in low spots. Avoid placing frost-sensitiv
 - [[sepp-holzer-methods]]
 - [[permaculture-zones-in-practice]] — zones 0-5 with specific homestead examples
 - [[graham-burnett]]
-- [[chinampas]]
-- [[herb-spiral]]
-- [[hugelkultur]]
+- chinampas

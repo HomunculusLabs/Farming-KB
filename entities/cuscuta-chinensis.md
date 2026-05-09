@@ -29,9 +29,9 @@ Unlike most plants, C. chinensis lacks functional roots and chlorophyll,
 obtaining all nutrients and water from host plants through specialized
 haustoria that penetrate host vascular tissue.
 
-The species is widespread across East and Southeast Asia and parasitizes a
+The species is widespread across East and [[psilocybe-southeast-asia-pacific]] and parasitizes a
 broad range of host plants, including economically important crops and
-medicinal herbs.
+[[permaculture-plants-medicinal-herbs-healing]].
 
 ## Taxonomy
 
@@ -76,7 +76,7 @@ the Americas.
 
 The species occurs in lowland to mid-elevation habitats (up to 2,000 m) in
 fields, meadows, roadsides, and disturbed areas. It requires host plants to
-complete its life cycle.
+complete its [[bloomfield-fungal-life-cycle-spiral-versus-circle]].
 
 Common hosts include alfalfa ([[medicago-sativa]]
 - [[cistanche-tubulosa]]

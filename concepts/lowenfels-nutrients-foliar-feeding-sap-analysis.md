@@ -1,5 +1,5 @@
 ---
-title: "Foliar Feeding and Plant Sap Analysis"
+title: "comparison-foliar-feeding-vs-compost-tea-nutrients and Plant Sap Analysis"
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Jeff Lowenfels, Teaming with Nutrients"
@@ -13,8 +13,8 @@ tags: [nutrients]
 ## Overview
 
 Foliar feeding, the practice of spraying nutrient solutions onto plant leaves, is often promoted
-as a quick fix for nutrient deficiencies. However, understanding the limitations of foliar
-feeding requires knowledge of nutrient mobility within plants and the actual quantities plants
+as a quick fix for [[hamilton-nutrient-deficiencies-and-treatment]]. However, understanding the limitations of foliar
+feeding requires knowledge of [[cervantes-nutrient-mobility-deficiency-diagnosis]] within plants and the actual quantities plants
 need. Plant tissue testing and sap analysis are more reliable methods for diagnosing nutrient
 problems than visual observation alone.
 
@@ -75,14 +75,14 @@ from is to test the plant tissue.
 Visual diagnosis is unreliable because all sorts of chemical interdependencies can mask the real
 deficiency. For example, nitrogen deficiency causes yellowing of older leaves, but sulfur
 deficiency causes similar yellowing in younger leaves. Iron deficiency causes interveinal
-chlorosis in young leaves, while manganese deficiency causes a similar pattern. Only a test will
+chlorosis in young leaves, while [[query-how-to-fix-manganese-deficiency-in-cannabis]] causes a similar pattern. Only a test will
 tell what is going on.
 
 ## Soil Testing as the Foundation
 
 The only way to know what nutrients are missing from your soils is to have them tested. Getting
 soil tested should be a regular part of gardening. Because other soil factors affect the
-availability of nutrients, these should be tested as well. A soil's pH and its cation exchange
+availability of nutrients, these should be tested as well. A soil's pH and its [[mollison-designers-tropical-soils-and-cation-exchange-management]]
 capacity (CEC) tell a lot about the availability of nutrients. Many laboratories can also
 measure organic matter content, which is particularly important for organic gardeners.
 
@@ -92,7 +92,7 @@ The basic tests every gardener should request include:
 
 1. CEC measurement: determines how much calcium, magnesium, potassium, and ammonium nitrogen
    is available
-2. pH test: tells the pH of the soil solution; has strong influence on nutrient availability,
+2. pH test: tells the pH of the soil solution; has strong influence on [[ph-and-nutrient-availability-garden-soils]],
    particularly phosphorus
 3. Organic matter content: reported as a percentage; most garden soils have 4 to 8 percent
 4. Individual nutrient levels: both macronutrients and micronutrients

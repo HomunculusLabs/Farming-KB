@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Stephenson SL, Stempen H. "Myxomycetes: A Handbook of Slime Molds." Timber Press, 1994.
+  - Stephenson SL, Stempen H. "Myxomycetes: A Handbook of slime-molds." Timber Press, 1994.
   - Keller HW, Braun KL. "Myxomycetes of Ohio: Their Systematics, Biology, and Use in Teaching." Ohio Biological Survey, 1999.
   - Walker LM, Stephenson SL. "The Myxomycetes of Tennessee." University of Tennessee Press, 2022.
   - Cite: Hoppe T, Schwantes HO. "Biosystematics of the Didymiaceae." Mycologia Memoir, 1981.
@@ -60,7 +60,7 @@ When food becomes scarce or environmental conditions deteriorate, the plasmodium
 3. **Cortication**: The surface develops a tough, brittle outer crust (cortex) that protects the inner spore mass
 4. **Spore maturation**: The bright yellow color fades to brown, tan, or gray as the internal mass differentiates into:
    - **Spores**: Globular, 7–10 µm in diameter, dark brown to nearly black, with a reticulate (net-like) wall ornamentation
-   - **Capillitium**: Elongated, thread-like structures (calcareous capillitium containing lime deposits) that aid in spore dispersal by expanding and contracting with humidity changes
+   - **Capillitium**: Elongated, thread-like structures (calcareous capillitium containing lime deposits) that aid in [[spore-dispersal]] by expanding and contracting with humidity changes
    - **Hypothallus**: A thin, membranous base attaching the aethalium to the substrate
 
 ### Germination
@@ -69,7 +69,7 @@ Spores germinate under moist conditions, releasing biflagellate **swarm cells** 
 
 ## Distribution and Habitat
 
-*Fuligo septica* has a **cosmopolitan distribution**, occurring on every continent including Antarctica (where it grows on decaying plant matter near research stations). It is particularly abundant in temperate and subtropical regions.
+*Fuligo septica* has a **[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]**, occurring on every continent including Antarctica (where it grows on decaying plant matter near research stations). It is particularly abundant in temperate and subtropical regions.
 
 ### Preferred Habitats
 
@@ -93,7 +93,7 @@ Optimal conditions for plasmodial growth include:
 
 Despite its alarming appearance, *F. septica* is entirely beneficial in garden and forest ecosystems:
 
-- **Bacterial population regulation**: The plasmodium consumes large quantities of bacteria, helping to regulate microbial communities in the soil and decomposition layer
+- **Bacterial population regulation**: The plasmodium consumes large quantities of bacteria, helping to regulate [[soil-edaphic-factors-microbial-communities]] in the soil and decomposition layer
 - **Nutrient mineralization**: By feeding on bacteria that are decomposing organic matter, *F. septica* accelerates the release of plant-available nutrients (nitrogen, phosphorus, potassium) from decaying material
 - **Soil structure**: The movement of plasmodia through substrate helps to create microscopic channels that improve soil aeration and water infiltration
 - **Food web**: Spores and plasmodia serve as food for various invertebrates, including springtails (Collembola), mites, and certain beetles
@@ -110,7 +110,7 @@ A remarkable feature of *F. septica* is its documented capacity to harbor live *
 
 ## Cultural Significance and Folklore
 
-- **Folk medicine**: Historically used in European folk medicine as a remedy for various ailments. The aethalia were sometimes applied as poultices, and the species was believed to have wound-healing properties. Some Native American traditions used it in ceremonial contexts
+- **Folk medicine**: Historically used in European folk medicine as a remedy for various ailments. The aethalia were sometimes applied as poultices, and the species was believed to have wound-healing properties. Some [[halpern-sacramental-peyote-and-native-american-church]] traditions used it in ceremonial contexts
 - **"Flowers of tan"**: In traditional leather tanning, *Fuligo septica* commonly appeared on oak bark used in the tanning process, leading to the old English folk name
 - **Gardener's alarm**: The sudden overnight appearance of bright yellow plasmodia in garden mulch is one of the most common slime mold encounters for the general public, frequently prompting calls to agricultural extension offices
 
@@ -122,7 +122,7 @@ A remarkable feature of *F. septica* is its documented capacity to harbor live *
 2. Inoculate with plasmodial fragments or spores
 3. Maintain high humidity at room temperature (20–25°C)
 4. Feed with rolled oats or sterile bacterial cultures
-5. The plasmodium will spread across the substrate, allowing observation of cytoplasmic streaming and fruiting behavior
+5. The plasmodium will spread across the substrate, allowing observation of cytoplasmic streaming and [[species-specific-cold-shock-and-fruiting-behavior-psilocybe-guide]]
 
 The species is widely used in biology education to demonstrate plasmodial movement, chemotaxis, and the unique life cycle of myxomycetes.
 

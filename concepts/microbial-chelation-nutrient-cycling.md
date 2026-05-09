@@ -1,6 +1,6 @@
 ---
-title: Microbial Chelation and Nutrient Cycling
-source: The Field Guide for [[elaine-ingham]]
+title: Microbial Chelation and comparison-nutrient-cycling-vs-nutrient-dense-gardening
+source: The Field Guide for elaine-ingham
 source_author: Dr. Elaine R. Ingham
 tags: [chelation, nutrient-cycling, soil-microbes, mineral-availability, mycorrhizae, soil-chemistry]
 created: 2026-05-08
@@ -18,7 +18,7 @@ truly sustainable soil management practices.
 ## The Central Role of Microbes in Nutrient Availability
 
 Plants cannot absorb most nutrients directly from soil minerals or
-undecomposed organic matter. They require nutrients to be in specific
+undecomposed [[hamilton-composting-and-organic-matter-management]]. They require nutrients to be in specific
 ionic forms dissolved in the soil solution. Soil microorganisms bridge
 this gap by breaking down complex materials and releasing plant-
 available nutrients through their metabolic activities.
@@ -30,7 +30,7 @@ by predators at higher trophic levels. This biological cycling is
 far more efficient and sustainable than chemical fertilizer inputs.
 
 The nutrient cycling capacity of soil is directly proportional to
-its biological activity. Soils with high bacterial and fungal biomass
+its biological activity. Soils with high [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] biomass
 cycle nutrients rapidly and retain them effectively. Degraded soils
 with low biological activity cannot cycle nutrients efficiently,
 regardless of how much fertilizer is applied.
@@ -49,8 +49,8 @@ alkaline or calcareous soils through precipitation. Microbial chelators
 keep these minerals soluble and accessible to plant roots.
 
 [[fungal-hyphae]], all acting as nutrient reservoirs
-that hold nutrients in the root zone until plants require [[mycorrhizal-networks]] networks function as nutrient highways, moving resources
-from areas of abundance to areas of need. A single mycorrhizal fungal
+that hold nutrients in the root zone until plants require  networks function as nutrient highways, moving resources
+from areas of abundance to areas of need. A single [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 network can connect multiple plants simultaneously, allowing nutrient
 sharing across the entire plant community. This network is especially
 important for phosphorus.
@@ -65,12 +65,12 @@ plant demand signals.
 
 Plant roots exude specific chemical compounds to recruit beneficial
 organisms and signal their nutritional needs. A healthy soil foodweb
-responds to these signals by increasing metabolic activity around the
+responds to these signals by increasing [[arbuscule-isolation-metabolic-activity-assays]] around the
 root zone. This demand-driven system ensures nutrients are available
 precisely when plants can use them most effectively.
 
 Compost tea applications support this natural cycling process by adding
-both living organisms and the food resources they need to function.
+both [[savory-living-organisms-as-tools]] and the food resources they need to function.
 Regular tea applications maintain the biological workforce that
 processes organic matter and cycles nutrients through the foodweb.
 
@@ -88,3 +88,7 @@ improves. The biological community becomes more complex and resilient
 to environmental stress. This creates a positive feedback loop where
 improved biology leads to better growing conditions, which further
 supports biological activity and nutrient cycling capacity.
+## See Also
+- [[mycorrhizal-networks]]
+- [[fungal-hyphae]]
+- [[nutrient-movement-through-soil-to-plant-roots]]

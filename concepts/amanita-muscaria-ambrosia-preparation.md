@@ -1,5 +1,5 @@
 ---
-title: Amanita Muscaria Ambrosia Preparation
+title: Amanita amanita muscaria ambrosia preparation Preparation
 created: 2026-04-19
 updated: 2026-04-18
 type: concept
@@ -21,7 +21,7 @@ In ancient Greek mythology, ambrosia was the food or drink of the gods that conf
 
 ### Ingredients
 
-- Dried [[amanita-muscaria-ancient-wine-question]]), where ancient wine was always diluted with water in ratios of 2:1 to 20:1 -- impossible for alcoholic wine but consistent with a water-soluble psychoactive extract.
+- Dried [[amanita-muscaria-ancient-wine-question]]), where [[amanita-muscaria-ancient-wine-question]] was always diluted with water in ratios of 2:1 to 20:1 -- impossible for alcoholic wine but consistent with a water-soluble psychoactive extract.
 
 ### Slightly acidic grape juice
 
@@ -29,7 +29,7 @@ A slightly acidic grape juice seems to work best. The author speculates the acid
 
 ## Honey Drops
 
-Once the technique of producing herb flour has been mastered (see Eucharist wafer preparation), honey drops can be prepared by combining the herb flour with honey. This creates a sweet, portable sacrament that is easy to dose and share.
+Once the technique of producing herb flour has been mastered (see [[amanita-muscaria-eucharist-wafer-preparation]] preparation), honey drops can be prepared by combining the herb flour with honey. This creates a sweet, portable sacrament that is easy to dose and share.
 
 ## Magic Food (Culinary Use)
 
@@ -42,7 +42,7 @@ The simplest method of consumption described in Wasson's "Soma: Divine Mushroom 
 1. Powder some dried specimens and sift through a fine cloth
 2. Return pieces that did not pass through to be repowdered
 3. Place fine herb powder into a clean, dry, small sealable vial or bottle
-4. Slowly add just enough olive oil to cover the powder
+4. Slowly add just enough [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]] to cover the powder
 5. Using a piece of wire, gently stir the powder and olive oil together
 6. Add more oil as needed to create a thin paste
 7. Seal and let the herb soak in the oil for 1-2 hours
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -23,7 +23,7 @@ The scientific study of neurotropic fungi can be divided into five distinct hist
 
 The earliest period encompasses the use of neurotropic fungi by indigenous peoples in the Americas, Asia, and Africa, long before European contact. In Mexico, the Aztec, Mazatec, Mixtec, Zapotec, Chinantec, and other indigenous groups used sacred mushrooms known as "teonanácatl" (flesh of the gods) in divinatory and healing ceremonies. Fray Bernardino de Sahagún documented these practices in his "Historia de las cosas de Nueva España" (1569-1582), providing some of the earliest European records of psychoactive mushroom use.
 
-The Codex Vindobonensis, a Mixtec pre-Columbian manuscript, contains scenes depicting mushroom deities, confirming that mushroom worship was well-established in Mesoamerica before the Spanish conquest. In Asia, particularly Japan, Amanita muscaria was used for fly control and possibly in shamanic contexts. The use of Amanita muscaria in Siberia and the question of its identity as the Vedic Soma are also relevant to this early period, as explored by Wasson (1968).
+The Codex Vindobonensis, a Mixtec pre-Columbian manuscript, contains scenes depicting mushroom deities, confirming that mushroom worship was well-established in Mesoamerica before the Spanish conquest. In Asia, particularly Japan, [[allegro-amanita-muscaria-properties-and-pharmacology]] was used for fly control and possibly in shamanic contexts. The use of Amanita muscaria in Siberia and the question of its identity as the Vedic Soma are also relevant to this early period, as explored by Wasson (1968).
 
 In Africa, the use of certain Panaeolus species and the sacred status of puffballs among various ethnic groups represent parallel traditions of psychoactive mushroom use. The knowledge accumulated during this period was entirely empirical, passed down through oral traditions and ritual practice rather than through scientific investigation.
 
@@ -31,7 +31,7 @@ In Africa, the use of certain Panaeolus species and the sacred status of puffbal
 
 The modern era of neurotropic fungi study began with the expeditions of R. Gordon Wasson and his wife Valentina Wasson to Mexico in the 1950s. Their first trip in 1953, following clues from Sahagún's chronicles, led them to the Mazatec community of Huautla de Jiménez in Oaxaca, where they participated in a velada (night ceremony) guided by the curandera María Sabina.
 
-This period was dominated by the collaboration between Wasson, the French mycologist Roger Heim, and the Swiss chemist Albert Hofmann. Wasson provided the ethnographic and geographic foundation, Heim described and cultivated the species, and Hofmann isolated and synthesized psilocybin from Psilocybe mexicana in 1958. The discovery of psilocybin and psilocin as the active principles opened the door to chemical investigation of these fungi worldwide.
+This period was dominated by the collaboration between Wasson, the French mycologist Roger Heim, and the Swiss chemist Albert Hofmann. Wasson provided the ethnographic and geographic foundation, Heim described and cultivated the species, and Hofmann isolated and synthesized psilocybin from [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] in 1958. The discovery of psilocybin and psilocin as the active principles opened the door to chemical investigation of these fungi worldwide.
 
 Heim's extensive taxonomic work during this period included descriptions of many new species from Mexico, as well as his important monograph "Les champignons toxiques et hallucinogènes" (1958/1978). Singer and Smith (1958) published their taxonomic monograph of Psilocybe section Caerulescentes during this period, establishing the foundation for subsequent taxonomic work. The fundamental chemical, taxonomic, and ethnographic framework established during this second period guided all subsequent research.
 
@@ -43,9 +43,9 @@ This period saw the expansion of known neurotropic genera beyond Psilocybe to in
 
 ## Fourth Period: Worldwide Distribution Surveys (1970s-1980s)
 
-The fourth period focused on establishing the global geographical distribution of neurotropic fungi. Guzmán's 1983 monograph "The Genus Psilocybe" was the landmark publication of this era, synthesizing all known species with their distribution, chemistry, and taxonomy. This work documented approximately 144 species of Psilocybe worldwide, of which about 100 were known to be hallucinogenic.
+The fourth period focused on establishing the global geographical [[global-distribution-of-neurotropic-fungi]] fungi. Guzmán's 1983 monograph "The Genus Psilocybe" was the landmark publication of this era, synthesizing all known species with their distribution, chemistry, and taxonomy. This work documented approximately 144 species of Psilocybe worldwide, of which about 100 were known to be hallucinogenic.
 
-Regional surveys were conducted for Europe (Samorini, 1989), North America (Stamets, 1978), and other areas. The distribution patterns that emerged revealed Mexico as the global center of diversity for Psilocybe, with 76 species total and 44 Psilocybe species representing 39 percent of the world total. The biogeographic relationship between the mycofloras of Mexico and the southeastern United States, and the prevalence of neurotropic fungi in subtropical and tropical regions, became apparent during this period.
+Regional surveys were conducted for Europe (Samorini, 1989), North America (Stamets, 1978), and other areas. The [[guzman-global-distribution-patterns-neurotropic-fungi]] that emerged revealed Mexico as the global center of diversity for Psilocybe, with 76 species total and 44 Psilocybe species representing 39 percent of the world total. The biogeographic relationship between the mycofloras of Mexico and the southeastern United States, and the prevalence of neurotropic fungi in subtropical and tropical regions, became apparent during this period.
 
 ## Fifth Period: Molecular and Integrative Studies (1990s-Present)
 
@@ -59,7 +59,7 @@ The internet and global communication have facilitated the exchange of informati
 
 The boundaries between these five periods are not sharp; rather, they represent overlapping waves of activity. The transition from the second to the third period, for instance, was driven by Hofmann's chemical success: once psilocybin was characterized, chemists worldwide gained a specific target compound to screen for. Similarly, the shift from the fourth to the fifth period was catalyzed by the development of PCR-based molecular phylogenetics in the late 1980s and early 1990s, which fundamentally changed how species relationships could be assessed.
 
-A critical inflection point was the legal scheduling of psilocybin and psilocin under the United Nations Convention on Psychotropic Substances (1971) and the U.S. Controlled Substances Act (1970). These regulatory actions dramatically curtailed legitimate chemical and taxonomic research on neurotropic fungi for approximately two decades, creating a gap between the third and fourth periods during which underground cultivation and self-experimentation outpaced formal academic study. This regulatory chilling effect also contributed to the mycologist distribution bias, as researchers in countries with strict drug laws were discouraged from working with these organisms.
+A critical inflection point was the legal scheduling of psilocybin and psilocin under the United Nations Convention on Psychotropic Substances (1971) and the U.S. Controlled Substances Act (1970). These regulatory actions dramatically curtailed legitimate chemical and taxonomic research on neurotropic fungi for approximately two decades, creating a gap between the third and fourth periods during which underground cultivation and self-experimentation outpaced formal academic study. This regulatory chilling effect also contributed to the [[neurotropic-fungi-mycologist-distribution-bias]] bias, as researchers in countries with strict drug laws were discouraged from working with these organisms.
 
 ## Modern Molecular Phylogenetics and Taxonomic Revision
 
@@ -81,7 +81,7 @@ The collection and export of fungal specimens from indigenous territories withou
 
 ## Contemporary Research Directions
 
-Current research on neurotropic fungi extends well beyond taxonomy into clinical applications, neuroscience, and synthetic biology. The resumption of human clinical trials with psilocybin for treatment-resistant depression, end-of-life anxiety, and substance use disorders has renewed scientific interest in the chemistry and pharmacology of these fungi. The identification and characterization of the psilocybin biosynthetic gene cluster by Fricke, Dilger, and Hoffmeister (2017) opened new avenues for heterologous production and biosynthetic engineering.
+Current research on neurotropic fungi extends well beyond taxonomy into clinical applications, neuroscience, and synthetic biology. The resumption of human clinical trials with psilocybin for treatment-resistant depression, end-of-life anxiety, and substance use disorders has renewed scientific interest in the [[psilocybin-psilocin-chemistry-and-pharmacology-emcdda]] of these fungi. The identification and characterization of the psilocybin biosynthetic gene cluster by Fricke, Dilger, and Hoffmeister (2017) opened new avenues for heterologous production and biosynthetic engineering.
 
 Citizen science platforms such as iNaturalist and Mushroom Observer have democratized the documentation of neurotropic fungi distributions, partially addressing the mycologist distribution bias identified by Guzmán, Allen, and Gartz. These platforms have enabled the discovery of range extensions and potentially new species in regions previously considered well-explored, demonstrating that the mapping of global diversity remains an ongoing project.
 
@@ -92,4 +92,7 @@ Citizen science platforms such as iNaturalist and Mushroom Observer have democra
 
 ## See Also
 
-- [[five-historical-periods-neurotropic-fungi-discovery-guzman-2000]]
+- five-historical-periods-neurotropic-fungi-discovery-guzman-2000
+- [[distribution-of-neurotropic-fungi]]
+- [[psilocybe-mexicana]]
+- [[neurotropic-fungi]]

@@ -12,8 +12,8 @@ type: query
 
 ## Short Answer
 
-Use Korean Natural Farming inputs by matching each preparation to the crop stage, not by applying every bottle at once.
-The usual pattern is microbial foundation first, vegetative growth support next, reproductive support during flowering and fruiting, and mineral balancing only when plant cues call for it.
+Use Korean [[comparison-natural-farming-vs-permaculture]] inputs by matching each preparation to the crop stage, not by applying every bottle at once.
+The usual pattern is microbial foundation first, [[cannabis-vegetative-growth-stage]] support next, reproductive support during flowering and fruiting, and mineral balancing only when plant cues call for it.
 [[knf-fermented-plant-juice|Fermented Plant Juice]], [[knf-fermented-fruit-juice|Fermented Fruit Juice]], and [[knf-nutritive-cycle-theory|nutritive cycle]], not as a universal recipe.
 
 ## Detailed Explanation
@@ -23,13 +23,13 @@ The usual pattern is microbial foundation first, vegetative growth support next,
 KNF begins with the soil ecosystem because soluble inputs work better when microbes and roots can process them.
 The microbial foundation usually centers on [[knf-imo-four-stage-cultivation|IMO four-stage cultivation]].
 IMO preparations are intended to localize the biology of the farm rather than importing a generic inoculant.
-They can be used before planting, during bed preparation, or as part of a seasonal soil reset.
+They can be used before planting, during [[azurescens-outdoor-bed-preparation-woodchips]], or as part of a seasonal soil reset.
 For perennial systems, light repeated applications are usually safer than one heavy amendment event.
 For container gardens, the same principle applies, but rates should be reduced because the root zone is smaller.
 
 ### Seed and transplant stages need gentle support
 
-Seed treatment is about stimulating germination without burning tender roots.
+[[jadam-seed-treatment-and-nursery-management]] is about stimulating germination without burning tender roots.
 [[knf-seed-soaking-cannabis-germination|KNF seed soaking]] is especially relevant when growers want faster, more even cannabis emergence.
 At this stage, avoid heavy [[knf-lactic-acid-bacteria-serum|Lactic Acid Bacteria Serum]] may help stabilize microbial conditions if the medium is biologically active.
 Transplants should be watched for root recovery, leaf posture, and new growth before the feeding program intensifies.
@@ -44,7 +44,7 @@ The goal is not to starve the crop, but to stop telling it to stay vegetative.
 
 ### Calcium inputs should be timed carefully
 
-Calcium is one of the most powerful KNF tools because it affects cell walls, fruit quality, and stress tolerance.
+Calcium is one of the most powerful KNF tools because it affects cell walls, fruit quality, and [[fungal-lichen-stress-tolerance-and-poikilohydry]].
 [[water-soluble-calcium-wca|WSCA]] are often used around transition, flowering, and fruit set.
 Using calcium too early or too often can antagonize other nutrients and make the program feel confusing.
 [[knf-water-soluble-phosphoric-acid-wspa|Water-Soluble Phosphoric Acid]] is associated with flowering, rooting, and reproductive development.
@@ -54,7 +54,7 @@ Inputs should follow plant signals, soil history, and crop type rather than a fi
 
 ### Fermented plant and fruit juices are not interchangeable
 
-FPJ and FFJ sound similar, but they emphasize different plant phases.
+[[bahay-kubo-fpj-and-ffj-fermentation]] sound similar, but they emphasize different plant phases.
 [[knf-fpj-usage-timing-contraindications|FPJ usage timing]] warns against applying growth-promoting extracts at the wrong time.
 [[knf-oriental-herbal-nutrient|Oriental Herbal Nutrient]] is often treated as a tonic input in KNF systems.
 [[knf-input-application-timing|KNF input application timing]] is the page to consult before mixing a large tank.
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

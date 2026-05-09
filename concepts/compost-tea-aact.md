@@ -1,6 +1,6 @@
 ---
 
-title: Compost Tea (AACT) — Actively Aerated Compost Tea
+title: Compost Tea (AACT) — Actively actively-aerated-compost-tea Tea
 created: 2026-04-10
 updated: 2026-04-12
 type: concept
@@ -41,7 +41,7 @@ AACT is a liquid extract of compost, actively aerated to multiply beneficial mic
 - Air pump with air stones (must run continuously — minimum 0.05 CFM per gallon)
 - Dechlorinated water (let tap water sit 24 hrs or use well/rain water)
 - Unsulfured blackstrap molasses (1-4 tablespoons per 5 gal) — bacterial food
-- Optional: fish hydrolysate (1-2 Tbsp), kelp meal (1-2 Tbsp), humic acid (1 Tbsp)
+- Optional: [[comparison-fish-hydrolysate-vs-fish-emulsion]] (1-2 Tbsp), kelp meal (1-2 Tbsp), humic acid (1 Tbsp)
 
 ### Process
 1. Fill brewer with dechlorinated water
@@ -65,7 +65,7 @@ AACT is a liquid extract of compost, actively aerated to multiply beneficial mic
 - Shorter brew: 18-20 hours
 
 ### Fungal-Dominated (trees, shrubs, perennials, cannabis in flower)
-- Use forest humus or fungal compost (visible white hyphae)
+- Use forest humus or [[bacterial-vs-fungal-compost-teas]] (visible white hyphae)
 - Food: kelp meal (1-2 Tbsp), humic/fulvic acid (1 Tbsp), fish hydrolysate
 - Less molasses (favors bacteria)
 - Longer brew: 20-24 hours
@@ -81,7 +81,7 @@ AACT is a liquid extract of compost, actively aerated to multiply beneficial mic
 
 ### Foliar Spray
 - 5 gal per acre per 6 feet of canopy height
-- Apply every 10-14 days during growing season
+- Apply every 10-14 days during [[savory-growing-season-and-non-growing-season-management]]
 - Start 2 weeks before bud break
 - Spray at dusk or early morning — UV kills microbes
 - Drench foliage and stems thoroughly
@@ -105,7 +105,7 @@ The quality of your AACT depends entirely on the compost:
 
 - [[soil-food-web-nutrient-cycling]] — the organisms AACT delivers
 - [[vermicomposting]] — worm castings as AACT ingredient
-- [[mycorrhizal-fungi]] — add spores to AACT for mycorrhizal inoculation
+- [[mycorrhizal-fungi]] — add spores to AACT for [[teaming-with-fungi-mycorrhizal-inoculation-techniques]]
 - [[effective-microorganisms-em]] — EM as alternative inoculant
 - [[knf-preparations]] — KNF fermented inputs vs. AACT approach
-- [[cannabis-living-soil-guide]] — AACT in living soil cannabis
+- [[cannabis-living-soil-guide]] — AACT in [[comparison-living-soil-cannabis-vs-hydroponic-cannabis]]

@@ -11,7 +11,7 @@ type: entity
 # Tipuana tipu
 
 **Type:** Species
-**Category:** Nitrogen-fixing shade tree
+**Category:** Nitrogen-fixing [[mollison-designers-legume-shade-tree-pasture-systems]]
 **Also known as:** Rosewood, pride of Bolivia, tipu, tipa
 
 ## Overview
@@ -43,18 +43,18 @@ climates it is evergreen; in colder areas it becomes deciduous.
 - Closely resembles true rosewood (Dalbergia spp) in appearance
 
 ### Agricultural Uses
-- **Nurse crop:** Grown as shade for coffee and other crops needing
+- **[[tagasaste-nurse-crop-fodder-systems]]:** Grown as shade for coffee and other crops needing
   protection from severe heat
-- **Nitrogen fixation:** Improves soil fertility through biological
+- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]:** Improves soil fertility through biological
   nitrogen fixation
 - **Ornamental:** Widely planted as a street and shade tree in
   subtropical cities worldwide
-- **Erosion control:** Fast growth and extensive root system stabilize
+- **[[permplant-willows-salix-erosion-control-fodder]]:** Fast growth and extensive root system stabilize
   soil on slopes
 
 ### Ecological Functions
 - Provides canopy shade reducing evapotranspiration in understory
-- Leaf drop contributes organic matter and nitrogen to soil
+- Leaf drop contributes [[hamilton-composting-and-organic-matter-management]] and nitrogen to soil
 - Creates microclimate favorable for shade-loving crops
 - Flowers attract pollinators
 

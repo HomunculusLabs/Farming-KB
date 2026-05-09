@@ -1,21 +1,22 @@
 ---
-title: Perceiving Nature Without Relativism
+title: fukuoka natural perceiving nature without relativism Without Relativism
 created: 2026-04-28
 tags: [fukuoka, natural-farming, philosophy-of-nature, epistemology, mu]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
 # Perceiving Nature Without Relativism
 
-In natural farming, one always avoids seeing things in relative terms; should
+In [[comparison-natural-farming-vs-permaculture]], one always avoids seeing things in relative terms; should
 one catch sight of relative phenomena, one immediately tries to trace these
 back to a single source, to reunite the two broken halves. To farm naturally,
 one must question and reject scientific thinking, all of which is founded on
-a relative view of things: notions of good and poor crop growth, fast and
+a relative view of things: notions of good and poor [[coleman-sunlight-and-winter-crop-growth-rates]], fast and
 slow, life and death, health and disease, large and small yields, major and
 minor gains, profits and losses.
 
@@ -102,7 +103,7 @@ the open classrooms of nature.
 
 ## Freedom from Cravings
 
-The aim of scientific farming is to chase after the objects of man's desire,
+The aim of [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] is to chase after the objects of man's desire,
 but natural farming does not seek to satisfy or promote human cravings. Its
 mission is to provide the bread of human life. This is all it seeks, no more.
 It knows how much is enough. There is no need to become caught up in man's

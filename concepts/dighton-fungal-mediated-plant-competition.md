@@ -1,7 +1,7 @@
 ---
 title: Fungal-Mediated Plant Competition
 created: 2026-04-26
-sources: Dighton (2003) "Fungi in Ecosystem Processes" Ch. 3, 5
+sources: Dighton (2003) "Fungi in fungal-ecosystem-processes-overview" Ch. 3, 5
 tags: [plant-competition, mycorrhiza, interspecific, community-structure, feedback, allelopathy]
 related: [dighton-mycorrhizal-networks-carbon-transfer, dighton-fungal-communities-grassland-soils]
 type: concept
@@ -12,7 +12,7 @@ updated: 2026-04-26
 
 ## Overview
 
-Mycorrhizal fungi mediate plant-plant interactions and are key determinants of plant community structure. By differentially enhancing nutrient acquisition, altering competitive fitness, and modifying host plant physiology, mycorrhizae can shift the outcome of interspecific and intraspecific competition, ultimately shaping plant community composition.
+Mycorrhizal fungi mediate plant-plant interactions and are key determinants of plant community structure. By differentially enhancing nutrient acquisition, altering competitive fitness, and modifying host plant physiology, mycorrhizae can shift the outcome of interspecific and intraspecific competition, ultimately shaping plant [[core-endorhiza-bacterial-community-composition-cannabis]].
 
 ## The Mycorrhizal Response Continuum
 
@@ -50,7 +50,7 @@ Gange et al. (1993) applied fungicide to grassland communities:
 ### Holcus vs. Dactylis
 
 Watkinson and Freckleton (1997) modeled interactions between the grasses *Holcus lanatus* and *Dactylis glomerata* with and without mycorrhizal infection:
-- Mycorrhizal colonization slightly altered the competition/density response surface
+- [[arbuscular-mycorrhizal-colonization-patterns]] slightly altered the competition/density response surface
 - *Holcus* always dominated over *Dactylis* regardless of mycorrhizal status
 - Mycorrhizal benefit was compensated for by changes in both intra- and interspecific competition strengths
 
@@ -59,7 +59,7 @@ Watkinson and Freckleton (1997) modeled interactions between the grasses *Holcus
 Pedersen et al. (1999) examined competition between slash pine (*Pinus elliottii*, ECM-associated) and native grass (*Panicum chamaelonche*, AM-associated):
 - Pine inoculated with *Pisolithus arhizus* took up more P when competing with nonmycorrhizal grass than with another pine
 - **Pine is more competitive at higher nutrient concentrations; grass is more competitive at lower concentrations**
-- This suggests niche separation based on nutrient availability and mycorrhizal type
+- This suggests niche separation based on [[ph-and-nutrient-availability-garden-soils]] and mycorrhizal type
 
 ## Simpson's Paradox and Community-Level Responses
 
@@ -101,7 +101,7 @@ Benomyl also reduced root pathogenic fungi (*Fusarium oxysporum*, *Embellisia ch
 
 - **Walker et al. (1999)**: *Rhododendron maximum* severely reduces hardwood and coniferous seedling regeneration in the southern Appalachians
 - **Koide et al. (1998)**: Pine leaf litter polyphenols (catechin, epicatechin gallate) differentially affect ECM species
-- **Conn and Dighton (2000)**: Mixed oak-pine litter altered ECM community function and phosphatase activity compared to single-species litter
+- **Conn and Dighton (2000)**: Mixed oak-pine litter altered ECM community function and [[mycorrhizal-phosphatase-activity-elf97-detection]] compared to single-species litter
 - These litter-mediated effects can alter the competitive balance between mycorrhizal types and therefore between host plant species
 
 ## Key References
@@ -109,11 +109,14 @@ Benomyl also reduced root pathogenic fungi (*Fusarium oxysporum*, *Embellisia ch
 - Francis, R. and Read, D.J. (1995). Mycorrhizal dependence continuum. *Oecologia*.
 - van der Heijden, M.G.A. et al. (1998). AM fungal diversity and plant biodiversity. *Science*.
 - Bever, J.D. et al. (1997). Plant-soil feedback mechanisms. *Ecology*.
-- Allison, S.D. and Goldberg, D.E. (2002). Simpson's paradox and mycorrhizal community response. *Ecology*.
+- Allison, S.D. and Goldberg, D.E. (2002). Simpson's paradox and [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] response. *Ecology*.
 - Pedersen, E.A. et al. (1999). Pine-grass competition and mycorrhizal type. *For. Ecol. Manage.*
 
 ## See Also
 
 - [[arbuscular-mycorrhizal-networks]]
 - [[fungal-allelopathy-mechanisms-and-ecological-effects]]
-- [[fungal-competition-antagonism-soil]]
+- fungal-competition-antagonism-soil
+- [[pisolithus-arhizus]]
+- [[mycorrhizal-types]]
+- [[mycorrhizal-fungi]]

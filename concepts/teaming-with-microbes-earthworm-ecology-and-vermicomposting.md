@@ -10,7 +10,7 @@ sources:
 
 Earthworms are among the most recognizable and important animals in the
 [[fungal-contributions-soil-structure]]
-(cation exchange capacity), providing more charged surfaces for
+([[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity), providing more charged surfaces for
 nutrients to attach to.
 
 Worms can deposit 10 to 15 tons of castings per acre annually on the
@@ -18,7 +18,7 @@ soil surface.
 
 ## Shredding and Decomposition
 
-Earthworms are classified as shredders. They break down leaf litter,
+Earthworms are classified as shredders. They [[query-can-fungi-break-down-plastic-pollution]] [[dighton-fungal-decomposition-leaf-litter-dynamics]],
 greatly accelerating decomposition. By opening up leaves and organic
 matter, they give bacteria and fungi better access to [[fungal-decomposition-ecology]].
 Without worm shredding, leaves require one to two years to decay;
@@ -33,7 +33,7 @@ by:
 
 ## Burrowing and Soil Structure
 
-[[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]. It indicates that organic matter, bacteria,
+[[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]. It indicates that [[hamilton-composting-and-organic-matter-management]], bacteria,
 fungi, protozoa, and nematodes -- all necessary to support worms -- are
 present and functioning.
 
@@ -54,7 +54,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -96,4 +96,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

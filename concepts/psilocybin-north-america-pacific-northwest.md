@@ -9,7 +9,7 @@ tags: [psilocybin, mushrooms]
 
 # Psychoactive Mushrooms of the Pacific Northwest
 
-The Pacific Northwest of North America -- encompassing western Washington, British Columbia, and western Oregon -- is one of the world's richest regions for naturally occurring [[psilocybe-semilanceata]] is the most widely used species in the Pacific Northwest and has been since the late 1960s. Key facts:
+The Pacific Northwest of psilocybin north america pacific northwest -- encompassing western Washington, British Columbia, and western Oregon -- is one of the world's richest regions for naturally occurring [[psilocybe-semilanceata]] is the most widely used species in the Pacific Northwest and has been since the late 1960s. Key facts:
 
 - **Arrival:** Believed to have spread from Europe; was identified in Canada in 1966 and recognized as identical to European specimens
 - **Habitat:** Pasture grasses, particularly in areas west of the Cascade Mountains
@@ -39,7 +39,7 @@ The Pacific Northwest of North America -- encompassing western Washington, Briti
 
 ### Scale of Use
 
-In 1977, J. Ott estimated that several tens of thousands of applied dosages of psychotropic mushroom material were harvested and used each year in the Pacific Northwest. By the early 1980s, prominent experts estimated that the number of hallucinogenic mushroom users in the United States outnumbered LSD users for the first time. The total number of magic mushroom consumers across North America is likely close to one million, quite possibly higher.
+In 1977, J. Ott estimated that several tens of thousands of applied dosages of psychotropic mushroom material were harvested and used each year in the Pacific Northwest. By the early 1980s, prominent experts estimated that the number of [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]] users in the United States outnumbered LSD users for the first time. The total number of [[australian-magic-mushroom-common-names]] consumers across North America is likely close to one million, quite possibly higher.
 
 ### Safety Record
 
@@ -51,17 +51,17 @@ The city of Redmond, Washington illustrates the cultural shift. Formerly known a
 
 ### Literary Influence
 
-Tom Robbins's popular 1971 novel "Another Roadside Attraction" significantly contributed to the increasing popularity of Psilocybe semilanceata in the region from the late 1960s onward.
+Tom Robbins's popular 1971 novel "Another Roadside Attraction" significantly contributed to the increasing popularity of [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] in the region from the late 1960s onward.
 
 ## Hawaii
 
-Since the late 1960s, the usage of [[psilocybe-cubensis-potency-variation-by-flush]] are frequently referenced, but the species is not native to the Hawaiian Islands. It should grow there only under conditions of artificial cultivation, and any spawn used must have been isolated from fruiting bodies originating elsewhere.
+Since the late 1960s, the usage of [[psilocybe-cubensis-potency-variation-by-flush]] are frequently referenced, but the species is not native to the Hawaiian Islands. It should grow there only under conditions of [[fukuoka-matsutake-artificial-cultivation-attempt]], and any spawn used must have been isolated from fruiting bodies originating elsewhere.
 
 ### Importation Patterns
 
 Several cases demonstrate that psychoactive mushrooms arrived in Hawaii through imported materials:
 
-- **Menton, France (1965):** Panaeolus cyanescens appeared on compost of straw and decayed horse dung from a race track used by horses from tropical countries. The species was likely imported.
+- **Menton, France (1965):** [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]] appeared on compost of straw and decayed horse dung from a race track used by horses from tropical countries. The species was likely imported.
 - **Budapest Fairgrounds (early 1970s):** Panaeolus cyanescens was found next to pavilions from Thailand and Vietnam
 
 ## The Gulf States

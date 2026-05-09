@@ -12,7 +12,7 @@ updated: 2026-04-28
 sources:
   - Pawar, P. & Bhattacharya, S. (2019). "Terminalia bellirica (Gaertn.) Roxb.: A review on its ethnobotany, phytochemistry, and pharmacology." Phytomedicine, 55, 206-221.
   - Khandelwal, K.R. (2020). Practical Pharmacognosy. Pune: Nirali Prakashan.
-  - Duke, J.A. (2002). Handbook of Medicinal Herbs. 2nd ed. Boca Raton: CRC Press.
+  - Duke, J.A. (2002). Handbook of [[permaculture-plants-medicinal-herbs-healing]]. 2nd ed. Boca Raton: CRC Press.
   - Chopra, R.N., Nayar, S.L. & Chopra, I.C. (1956). Glossary of Indian Medicinal Plants. New Delhi: CSIR.
   - FRLHT (Foundation for Revitalisation of Local Health Traditions). "Bibhitaki." Digital Plant Database.
 created: 2026-04-28
@@ -26,7 +26,7 @@ created: 2026-04-28
 
 It is one of the three constituent fruits of the classical Ayurvedic formulation **Triphala** ("three fruits"), alongside *Terminalia chebula* (haritaki) and *Emblica officinalis* (amalaki).
 
-The species is widely distributed across the Indian subcontinent and Southeast Asia, where it has been used in traditional medicine for over 3,000 years.
+The species is widely distributed across the Indian subcontinent and [[psilocybe-southeast-asia-pacific]], where it has been used in traditional medicine for over 3,000 years.
 
 ## Taxonomy and Morphology
 
@@ -59,7 +59,7 @@ Commonly occurs in mixed deciduous forests, village groves, and along riverbanks
 
 ### Major Chemical Constituents
 
-The dried fruit rind contains a complex mixture of bioactive compounds:
+The dried fruit rind contains a complex mixture of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:
 
 - **Tannins (20–25%):** gallic acid, ellagic acid, chebulagic acid, chebulinic acid, corilagin, and bellericanin
 - **Triterpenoids:** arjungenin, arjunglucoside I, terminoic acid, belliric acid
@@ -73,7 +73,7 @@ The dried fruit rind contains a complex mixture of bioactive compounds:
 
 **Antioxidant:** Fruit extracts show significant DPPH and ABTS radical scavenging activity, attributed to gallic and ellagic acid content.
 
-**Antimicrobial:** Methanolic extracts demonstrate broad-spectrum activity against *Staphylococcus aureus*, *Escherichia coli*, *Pseudomonas aeruginosa*, and *Candida albicans*.
+**Antimicrobial:** Methanolic extracts demonstrate broad-spectrum activity against *Staphylococcus aureus*, *Escherichia coli*, *Pseudomonas aeruginosa*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*.
 
 **Anti-diabetic:** Aqueous extracts lower fasting blood glucose in streptozotocin-induced diabetic rat models, likely via α-glucosidase inhibition.
 
@@ -99,7 +99,7 @@ Modern nutraceutical use centers on Triphala standardised extracts for digestive
 
 - Provides medium-density shade suitable for shade-tolerant understory crops
 - Deep taproot system improves soil structure and brings nutrients from subsoil layers
-- Leaf litter contributes significant organic matter; decomposes relatively slowly
+- [[dighton-fungal-decomposition-leaf-litter-dynamics]] contributes significant [[hamilton-composting-and-organic-matter-management]]; decomposes relatively slowly
 - Drought-tolerant once established; suitable for dryland agroforestry
 - Timber is hard and durable, used for construction, tool handles, and boat building
 - Fruit harvest provides seasonal income in rural economies
@@ -126,10 +126,13 @@ The species responds well to organic manuring and tolerates moderately acidic to
 ## See Also
 
 - [[amazonian-medicinal-plants-reference]]
-- [[armillaria-gallica]]
-- [[armillaria-gallica]]
+- armillaria-gallica
+- armillaria-gallica
 - terminalia bellirica
 
 ## See Also
 
 - [[permaculture-plants-fruit-trees-subtropical]]
+- [[terminalia-arjuna]]
+- [[terminalia-chebula]]
+- [[terminalia-catappa]]

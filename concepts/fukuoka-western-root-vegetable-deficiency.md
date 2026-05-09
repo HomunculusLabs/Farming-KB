@@ -1,5 +1,5 @@
 ---
-title: Fukuoka on Western Root Vegetable Deficiency
+title: Fukuoka on fukuoka western root vegetable deficiency Vegetable Deficiency
 created: 2026-04-28
 tags: [fukuoka, diet, food-philosophy, vegetables, nutrition, cultural-comparison]
 date: 2026-04-25
@@ -13,7 +13,7 @@ type: concept
 During his travels through Europe and America, Masanobu Fukuoka was
 struck by the remarkably limited variety of vegetables grown and eaten
 in Western countries. He observed that Westerners eat leafy vegetables
-but almost no root vegetables, consuming only half of what they should
+but almost no [[growing-root-vegetables-guide]], consuming only half of what they should
 for proper nutrition and health.
 
 ## The Limited Western Vegetable Palette
@@ -32,7 +32,7 @@ of American ignorance when it comes to root vegetables.
 ## Missing Root Crops
 
 The same absence of root vegetables applies throughout Europe as well.
-They do grow potatoes and some other tubers, but these are very hard and
+They do [[query-how-to-grow-potatoes-organically]] and some other tubers, but these are very hard and
 not what Fukuoka would consider edible fare at all. He did occasionally
 see sweet potatoes, but they were quite different from the delicious,
 high-yielding sweet potatoes common to Japan. And no one eats taros, no
@@ -42,7 +42,7 @@ one eats burdock, no one eats lotus root or bamboo shoots.
 
 The fact that Westerners eat leafy vegetables but almost no root vegetables
 means that they are eating only half of what they should. Even in terms of
-nutritional balance, the deeper roots penetrate into the soil, the more
+[[jadam-nutritional-balance-fertilizer]], the deeper roots penetrate into the soil, the more
 primitive they are and the better for the body. The yams ought to be the
 best.
 
@@ -76,7 +76,7 @@ nutritious.
 Fukuoka concluded that there does not seem to be any other country with
 such a rich variety of foods for cooking as Japan. The food mandala of
 the four seasons, created by adding together the grains, vegetables,
-fruits, and edible wild herbs that can be gathered from the fields and
+fruits, and [[query-how-do-i-identify-the-most-common-edible-wild-mushrooms]] herbs that can be gathered from the fields and
 hills about his village, demonstrates an extraordinary diversity of
 naturally available foods.
 
@@ -98,7 +98,7 @@ eating also a lot of meat.
 Once wheat was ground into flour, processed, and made into bread, it was
 a convenient food. It spread first among nomadic peoples because it could
 be preserved and was convenient to carry. In the warm, humid subtropics
-however, upland rice was grown in hilly, elevated locations, and paddy
+however, [[fukuoka-natural-upland-rice-minor-grains]] was grown in hilly, elevated locations, and paddy
 rice on flat land.
 
 ## The Proper Question

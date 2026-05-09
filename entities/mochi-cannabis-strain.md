@@ -1,5 +1,5 @@
 ---
-title: "Mochi (Cannabis Strain)"
+title: "Mochi (blesching-cannabis-strain-selection-receptor-targeting)"
 created: 2026-04-28
 type: strain
 tags:
@@ -23,11 +23,11 @@ sources:
 
 # Mochi (Cannabis Strain)
 
-**Mochi**, also known as **Mochi Gelato**, is an indica-dominant hybrid cannabis strain celebrated for its exceptional flavor profile, potent effects, and visually striking appearance. Created through a cross between **Sunset Sherbet** and **Thin Mint Girl Scout Cookies** (GSC), Mochi inherits some of the most prized genetics from the legendary Cookie family lineage. It has become a staple of the modern craft cannabis movement, particularly on the West Coast of the United States.
+**Mochi**, also known as **Mochi Gelato**, is an indica-dominant hybrid cannabis strain celebrated for its exceptional flavor profile, potent effects, and visually striking appearance. Created through a cross between **Sunset Sherbet** and **Thin Mint Girl Scout Cookies** (GSC), Mochi inherits some of the most prized genetics from the legendary Cookie family lineage. It has become a staple of the modern craft cannabis movement, particularly on the West Coast of the [[dmt-containing-plants-united-states-halpern]].
 
 ## Genetic Lineage
 
-**Sunset Sherbet (♀)** — Indica-leaning hybrid (GSC × Pink Panties) by Sherbinski. Contributes tropical fruit sweetness and deep relaxation.
+**Sunset Sherbet (♀)** — Indica-leaning hybrid (GSC × Pink Panties) by Sherbinski. Contributes tropical fruit sweetness and [[blesching-cannabis-deep-relaxation-healing]].
 
 **Thin Mint GSC (♂)** — Original GSC phenotype (OG Kush × Durban Poison) by Cookie Family. Contributes signature cookie/mint terpenes and dense bud structure.
 
@@ -96,7 +96,7 @@ The unique combination of high limonene and linalool with a caryophyllene backbo
 
 ### Medical Applications
 - **Stress and anxiety relief** — calming without excessive mental fog
-- **Pain management** — chronic pain, migraines, muscle tension
+- **[[cannabis-pain-management-protocols]]** — [[cannabis-chronic-pain-management]], migraines, muscle tension
 - **Insomnia** — powerful sleep aid at higher doses
 - **Appetite stimulation** — significant munchies effect
 
@@ -122,7 +122,7 @@ The unique combination of high limonene and linalool with a caryophyllene backbo
 - **Nutrients:** Moderate to heavy feeder; benefits from calcium and magnesium
 
 ### Pests and Disease Resistance
-- Susceptible to powdery mildew and botrytis due to dense bud structure — requires adequate airflow
+- Susceptible to [[cervantes-powdery-mildew-prevention-treatment]] and botrytis due to dense bud structure — requires adequate airflow
 
 ## Cultivar Variants
 
@@ -134,8 +134,10 @@ Mochi remains a **high-demand craft strain** in legal cannabis markets, commandi
 
 ## See Also
 
-- [[gelato-cannabis]]
+- [[mochi-cannabis]]
+
+- [[gelato]]
 - [[girl-scout-cookies]]
-- [[wedding-cake-cannabis]]
+- [[wedding-cake]]
 - [[runtz-entity]]
 - [[golden-goat]]

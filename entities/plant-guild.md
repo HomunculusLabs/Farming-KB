@@ -2,30 +2,25 @@
 title: "Plant Guild"
 created: 2026-04-28
 type: species
-tags: [[permaculture, polyculture, companion-planting, food-forest, ecological-design, guild]
+tags: [permaculture, polyculture, companion-planting, food-forest, ecological-design, guild]
 date: 2026-04-28
 updated: 2026-04-28
 sources: ["https://en.wikipedia.org/wiki/Companion_planting", "https://permacultureprinciples.com/"]
 ---
-# Plant Guild
-## Overview / Summary
-A plant guild is a group of mutually beneficial organisms — typically plants, but also including animals, insects, and microorganisms — that function together as an integrated system within permaculture design.
-Guilds mimic natural ecosystem relationships to create self-sustaining, low-maintenance productive landscapes.
-Each member of the guild contributes at least one function that supports the others, reducing the need for external inputs such as fertilizers, pesticides, or irrigation.
-The concept is foundational to [[bill-mollison]] and [[comfrey]] ([[three-sisters]] for a dedicated treatment.
+# Plant Guild ## Overview / Summary A plant guild is a group of mutually beneficial organisms — typically plants, but also including animals, insects, and microorganisms — that function together as an integrated system within permaculture design. Guilds mimic natural ecosystem relationships to create self-sustaining, low-maintenance productive landscapes. Each member of the guild contributes at least one function that supports the others, reducing the need for external inputs such as fertilizers, pesticides, or irrigation. The concept is foundational to [[bill-mollison]] and comfrey (three-sisters for a dedicated treatment.
 ### Apple Tree Guild
 A common temperate-climate guild built around a central apple tree (Malus domestica) typically includes:
 - [[food-forest]] design.
 A food forest can be understood as a landscape-scale assembly of interconnected guilds organized into vertical canopy layers.
 Each tree or shrub in a food forest typically has its own associated guild, and these guilds overlap and interact across the landscape.
-[[bill-mollison]] and [[permaculture]] in the 1970s, drawing on ecological theory and traditional land management practices.
-Mollison's "Permaculture: A Designers' Manual" (1988) provides the foundational guild design methodology, including the concept of "guild analysis."
+[[bill-mollison]] and permaculture in the 1970s, drawing on ecological theory and traditional land management practices.
+Mollison's "Permaculture: A Designers' Manual" (1988) provides the foundational [[apple-guild-design-guide]] methodology, including the concept of "[[mollison-guild-analysis-and-species-interaction]]."
 [[toby-hemenway]] popularized guild design for home gardeners in "Gaia's Garden" (2001, 2nd ed. 2009), making the concept accessible to a broad audience with practical examples and step-by-step design guides.
-[[comfrey]] ([[three-sisters]]
-- [[comfrey]]
-- [[permaculture]]
+comfrey (three-sisters
+- comfrey
+- permaculture
 - [[david-holmgren]]
-- [[robert-hart]]
+- robert-hart
 - [[asclepias-syriaca]]
 ## Practical Applications
 
@@ -104,4 +99,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -1,5 +1,5 @@
 ---
-title: Mushroom Growing Environmental Control
+title: duggar-mushroom-growing-history-and-methods eclss-environmental-control-life-support
 created: 2026-04-28
 tags: mycology, environmental-control, indoor-farming, mushroom-cultivation]
 date: 2026-04-28
@@ -10,7 +10,7 @@ type: concept
 
 # Mushroom Growing Environmental Control
 
-Successful [[mushroom-lighting-and-environmental-requirements]] that must be met for
+Successful mushroom-lighting-and-environmental-requirements that must be met for
 healthy colonization and prolific fruiting.
 
 ## Temperature Management
@@ -18,7 +18,7 @@ healthy colonization and prolific fruiting.
 Temperature requirements vary by species and by growth stage. Mycelial
 colonization generally occurs best at 20 to 25 degrees Celsius for most
 gourmet species. Fruiting temperatures are often lower and more species-
-specific: oyster mushrooms fruit at 15 to 25 degrees, shiitake at 10 to 20
+specific: [[query-how-to-grow-oyster-mushrooms-at-home]] fruit at 15 to 25 degrees, shiitake at 10 to 20
 degrees, enoki at 5 to 15 degrees, and king oyster at 12 to 18 degrees. A
 cold shock (dropping temperature 5 to 10 degrees for 24 to 48 hours) can
 trigger fruiting initiation in some species, particularly shiitake. Heating
@@ -32,13 +32,13 @@ drying of developing mushroom pins and growing bodies. During colonization,
 humidity should be maintained at 70 to 85 percent. Humidification is typically
 achieved through ultrasonic foggers, evaporative pad systems, or misting nozzles
 controlled by humidistats. Excess surface moisture on mushrooms promotes
-bacterial blotch, so fine mist or fog is preferred over direct spraying. Air
+[[growing-gourmet-bacterial-blotch-disease-management]], so fine mist or fog is preferred over direct spraying. Air
 circulation must be balanced with humidity retention to avoid stagnant, wet
 conditions.
 
 ## Fresh Air Exchange (FAE)
 
-Fungal metabolism produces carbon dioxide, which accumulates in growing
+[[singh-fungal-metabolism-pahs]] produces carbon dioxide, which accumulates in growing
 environments. Elevated CO2 levels cause elongated stems, small caps, and
 abnormal morphology in most species. Oyster mushrooms in particular require
 high levels of fresh air and develop long, stringy stems in CO2-rich
@@ -50,15 +50,16 @@ air exchange timing.
 
 ## Light Requirements
 
-Contrary to common misconception, most gourmet mushrooms do require light for
+Contrary to common misconception, most [[growing-gourmet-mushrooms-civilization-history]] do require light for
 proper [[laminar-flow-hood-construction-hepa-filter]] or dedicated clean room
-with HEPA-filtered air. See also [[mushroom-substrate-formulation]] and [[fungal-biosensors-environmental-monitoring]] systems
+with HEPA-filtered air. See also [[mushroom-substrate-formulation]] and fungal-biosensors-environmental-monitoring systems
 with data logging capabilities. Sensors measuring temperature, humidity, and
 CO2 provide real-time data and historical trends. Automated systems can adjust
 fans, misters, heaters, and coolers based on sensor readings and programmed
 setpoints. Even small-scale growers benefit from inexpensive USB or WiFi
 sensor systems that log environmental data and send alerts when conditions
 drift outside acceptable ranges.
+
 ## Practical Considerations
 
 Successful implementation of Mushroom Growing Environmental Control requires attention to
@@ -77,4 +78,9 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[mushroom-growing-room-environmental-control]]
+- [[environmental-control-mushroom-growing]]
+- [[oyster-mushroom]]
+- [[fruiting-initiation]]
+- [[oyster-mushrooms]]

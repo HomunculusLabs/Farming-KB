@@ -63,7 +63,7 @@ The species was first described by G.W. Martin in 1953 based on collections from
 ## Distribution and Habitat
 
 - **Geographic range:** Endemic to New Zealand, found on both the North and South Islands
-- **Habitat:** Grows on decaying wood, woody debris, and sometimes directly from buried wood in native mixed broadleaf-podocarp forests; also reported from exotic pine plantations (*Pinus radiata*)
+- **Habitat:** Grows on decaying wood, woody debris, and sometimes directly from buried wood in native mixed broadleaf-podocarp forests; also reported from exotic pine plantations (*[[pinus-radiata]]*)
 - **Substrate:** Primarily lignicolous — fruits from decaying logs, branches, and stumps; occasionally found in association with dung-enriched soil
 - **Season:** Autumn to early winter (April–July in the Southern Hemisphere), coinciding with cooler temperatures and increased rainfall
 - **Elevation:** Lowland to montane forests, typically 0–800 m a.s.l.
@@ -73,7 +73,7 @@ The species was first described by G.W. Martin in 1953 based on collections from
 
 ### Active Compounds
 
-*Weraroa novae-zelandiae* has been confirmed to contain the classic psilocybin mushroom alkaloids:
+*Weraroa novae-zelandiae* has been confirmed to contain the classic [[psilocybin-mushroom]] alkaloids:
 
 | Compound | Concentration (% dry weight) |
 |----------|------------------------------|
@@ -81,7 +81,7 @@ The species was first described by G.W. Martin in 1953 based on collections from
 | Psilocin | Trace – 0.04% |
 | Baeocystin | Present (trace amounts) |
 
-The relatively modest psilocybin content compared to species like *Psilocybe azurescens* or *P. cyanescens* places it in the low-to-moderate potency range among psilocybin-containing fungi. However, the total effects can be significant due to the sometimes large size of individual fruitbodies and the tendency of foragers to collect multiple specimens.
+The relatively modest psilocybin content compared to species like *[[psilocybe-azurescens]]* or *P. cyanescens* places it in the low-to-moderate potency range among psilocybin-containing fungi. However, the total effects can be significant due to the sometimes large size of individual fruitbodies and the tendency of foragers to collect multiple specimens.
 
 ### Pharmacological Activity
 
@@ -99,8 +99,8 @@ Cultivation of *Weraroa novae-zelandiae* is rarely attempted and considered chal
 
 - **Substrate:** Hardwood sawdust (native beech — *Nothofagus* — or mixed hardwoods) supplemented with bran
 - **Inoculation:** Grain spawn (rye or millet) colonized with mycelium, mixed into bulk substrate
-- **Fruiting conditions:** Requires sustained high humidity (90–95%), cool temperatures (10–15°C), and extended periods of darkness or very low light; some cultivators report that a thin casing layer of native forest soil improves pinning
-- **Growth rate:** Slow to moderate; mycelial colonization of bulk substrate may take 4–8 weeks, with an additional 4–12 weeks before fruiting initiation
+- **[[fruiting-conditions]]:** Requires sustained high humidity (90–95%), cool temperatures (10–15°C), and extended periods of darkness or very low light; some cultivators report that a thin casing layer of native forest soil improves pinning
+- **Growth rate:** Slow to moderate; [[mycelial-colonization]] of bulk substrate may take 4–8 weeks, with an additional 4–12 weeks before [[fruiting-initiation]]
 - **Yield:** Generally low compared to cultivated *P. cubensis*, which limits its appeal to commercial or research cultivation programs
 
 ## Legal Status

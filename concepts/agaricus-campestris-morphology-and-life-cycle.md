@@ -1,5 +1,5 @@
 
-# Agaricus Campestris: Morphology and Life Cycle
+# [[agaricus-campestris]]: Morphology and Life Cycle
 
 ## Overview
 
@@ -11,7 +11,7 @@ species and the foundation of commercial [[spore-print]]
 
 Spores are minute, simple ovate cells — the reproductive bodies of all fungi.
 While often compared to seeds, they differ fundamentally in structure and
-development. Each spore is a single cell containing the genetic material needed
+development. Each spore is a [[fungal-single-cell-protein-production]] containing the genetic material needed
 to produce a new fungal organism.
 
 ### The Hymenium
@@ -20,20 +20,20 @@ The entire gill surface is the hymenium (spore-bearing layer), studded with
 erect cells in palisade arrangement. Each cell (basidium) bears 2 to 4 spores
 and is the site of meiosis, producing genetically diverse progeny.
 
-## Vegetative Phase: Mycelium and Spawn
+## Vegetative Phase: [[mycelium]] and Spawn
 
 Spores serve natural reproduction but cannot be used directly by growers. Each
-spore germinates under favorable conditions to produce a germ tube, which
+spore germinates under favorable conditions to produce a [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]], which
 develops into the filamentous growth called mycelium. The mycelium branches and
 ramifies through the substratum, forming an extensive network of thread-like
 hyphae — the vegetative body of the fungus, serving both absorptive and storage
 functions.
 
-When [[mushroom-spawn-and-mycelium-biology]]
+When mushroom-spawn-and-mycelium-biology
 - [[pure-culture-spawn-method-duggar-usda-1902]]-spawn-making
 ## Practical Applications
 
-Agaricus Campestris Morphology And Life Cycle has a range of practical applications that make it relevant to
+Agaricus agaricus campestris morphology and life cycle And Life Cycle has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -108,4 +108,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

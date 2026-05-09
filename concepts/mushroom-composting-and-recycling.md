@@ -1,6 +1,6 @@
 ---
 
-title: Mushroom Composting and Recycling
+title: singh-mushroom-composting-and-lignocellulose-degradation and Recycling
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -18,7 +18,7 @@ tags:
 - fungi
 
 sources:
-- raw/papers/the-mushroom-cultivator-stamets.md
+sources: []
 - raw/papers/unknown-oyster-mushroom-cultivation.md
 - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 - raw/papers/fungi-and-sustainability-fungi-magazine.md
@@ -26,7 +26,7 @@ sources:
 
 # Mushroom Composting and Recycling
 
-Spent mushroom substrate (SMS) is the material remaining after mushroom fruiting is complete. Far from being waste, SMS is a valuable resource for soil building, composting, vermicomposting, and even animal feed. Integrating mushroom cultivation into a [[regenerative-agriculture-history]] system closes the nutrient loop and maximizes the return on substrate inputs.
+Spent [[gourmet-medicinal-mushroom-substrate-preparation]] (SMS) is the material remaining after [[ectomycorrhizal-mushroom-fruiting-ecology]] is complete. Far from being waste, SMS is a valuable resource for soil building, composting, vermicomposting, and even animal feed. Integrating [[accessible-mushroom-cultivation-for-disabilities]] into a [[regenerative-agriculture-history]] system closes the nutrient loop and maximizes the return on substrate inputs.
 
 ## What Is Spent Mushroom Substrate?
 
@@ -61,7 +61,7 @@ SMS makes an excellent component of potting mixes. Its water-holding capacity, n
 
 ## Safety Considerations
 
-- **Aspergillus fumigatus risk:** Spent compost is the most frequent source of Aspergillus fumigatus, which can cause "Worker's Lung Disease" (Stamets). Wear a respirator when handling large quantities of dry SMS.
+- **[[gadd-aspergillus-fumigatus-glucan-virulence]] risk:** Spent compost is the most frequent source of Aspergillus fumigatus, which can cause "Worker's Lung Disease" (Stamets). Wear a respirator when handling large quantities of dry SMS.
 - **Disease vector:** Spent compost can harbor Trichoderma, Doratomyces, and other competitor molds. Always remove spent substrate from growing areas promptly and compost it away from cultivation spaces.
 - **Pasteurize before reuse:** If using SMS for another mushroom crop, pasteurize thoroughly to kill nematodes, mites, and competitor organisms.
 
@@ -71,7 +71,7 @@ Mushroom cultivation fits naturally into a closed-loop homestead:
 
 | Input | Output |
 |---|---|
-| Straw/hay from [[cover-cropping-guide]] or [[pasture-management]] | Substrate for mushroom cultivation |
+| Straw/hay from [[cover-cropping-guide]] or [[pasture-management]] | [[grass-seed-substrate-for-mushroom-cultivation]] cultivation |
 | Sawdust from homestead woodworking | Substrate supplement |
 | [[animal-byproducts]] (manure, bedding) | Compost ingredient for substrate |
 | Spent mushroom substrate | [[composting-systems]], [[vermicomposting]], soil amendment |
@@ -90,3 +90,7 @@ Spent oyster mushroom substrate contains significant nutrition compared to other
 - **Contains humic acids** from partial decomposition of lignin
 
 See [[soil-fertility-management]] for integrating SMS into a broader soil amendment strategy, and [[mycoremediation-basics]] for using fungi to clean contaminated substrates before composting.
+
+## See Also
+
+- [[singh-mushroom-composting-and-lignocellulose-degradation]]

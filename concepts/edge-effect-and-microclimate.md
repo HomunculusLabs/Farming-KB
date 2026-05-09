@@ -17,14 +17,15 @@ tags:
 - culture-media
 
 sources:
-- raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 - raw/papers/a-selection-permaculture-plants.md
 ---
 
 # Edge Effect and Microclimate
 
-Edges are the interfaces between two systems or media, and they are where the most diversity, productivity, and exchange occur. Holmgren's Principle 11 ("Use Edges and Value the Marginal") and Mollison's pattern understanding both emphasise edge as a primary design tool. See [[permaculture-design-methods]] for how edge analysis fits the design process.
+Edges are the interfaces between two systems or media, and they are where the most diversity, productivity, and exchange occur. Holmgren's Principle 11 ("Use [[permaculture-principle-use-edges-and-value-the-marginal]] the Marginal") and Mollison's [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]] both emphasise edge as a primary design tool. See [[permaculture-design-methods]] for how edge analysis fits the [[hemenway-garden-design-process-observation-and-visioning]].
 
 ## The Theory of Edge
 
@@ -71,7 +72,7 @@ Microclimates are local climate variations caused by topography, vegetation, wat
 ### Thermal Mass
 Stone walls, water bodies, and earth banks absorb heat by day and release it at night:
 
-- South-facing stone walls extend the growing season
+- South-facing stone walls [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season
 - Ponds moderate adjacent temperature by 2-5 degrees C
 - Earth-sheltered structures use ground temperature stability
 
@@ -94,13 +95,13 @@ Cold air drains downhill and collects in low points:
 Deciduous trees create seasonal microclimates:
 
 - Summer shade under canopy, winter sun through bare branches
-- Evergreen windbreaks on north (southern hemisphere: south) side, deciduous on east/west for seasonal light
+- Evergreen windbreaks on north ([[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]: south) side, deciduous on east/west for seasonal light
 - Sun traps formed by U-shaped plantings or walls facing the equator
 
 ## Designing for Maximum Edge
 
 1. **Winding paths** instead of straight lines increase path/garden edge
-2. **Crescent-shaped garden beds** or keyhole beds maximise perimeter-to-area ratio
+2. **Crescent-shaped garden beds** or [[gaias-garden-keyhole-beds-and-mandala-gardens]] maximise perimeter-to-area ratio
 3. **Pond design**: Irregular shorelines with bays, peninsulas, islands, and varying depth shelves
 4. **Hedgerow networks**: Connect Zone 5 wilderness to Zone 2-3 production areas
 5. **Intercropping**: Row mixes and polycultures create more species interfaces than monocultures
@@ -111,7 +112,7 @@ Holmgren cites old English farm landscapes as the archetypal edge-rich design: "
 
 ## Related Pages
 - [[food-forest-design]] -- Edge-maximizing forest layouts
-- [[patterns-in-nature]] -- Edge as a pattern phenomenon
+- nature -- Edge as a pattern phenomenon
 - [[permaculture-design-methods]] -- How edge analysis fits design process
 - [[permaculture-plant-catalog]] -- Low-fire-potential species for hedgerows
 - [[fungal-biodiversity]] -- (if exists) diversity principles

@@ -1,24 +1,25 @@
 ---
-title: "What Is Succession Planting and How Do I Plan a Succession Planting Schedule?"
+title: "What Is query what is succession planting and how do i plan a succession planting schedule and How Do I Plan a Succession Planting Schedule?"
 tags: [query, succession-planting, garden-planning, season-extension, intensive-gardening]
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources:
+  - "raw/papers/eliot-coleman-the-new-organic-grower.md"
 ---
 
 # What Is Succession Planting and How Do I Plan a Succession Planting Schedule?
 
 ## Short Answer
 
-Succession planting is the practice of staggering crop plantings at intervals throughout the growing season to ensure a continuous harvest.
+Succession planting is the practice of staggering crop plantings at intervals throughout the [[savory-growing-season-and-non-growing-season-management]] to ensure a continuous harvest.
 
 Instead of planting everything at once and facing a glut followed by nothing, you sow small batches of the same crop every two to four weeks.
 
 This technique maximizes garden productivity per square foot and extends your harvest window well beyond what a single planting would allow.
 
-It is a cornerstone of [[coleman-succession-planting]] popularized systematic succession scheduling for cold-climate vegetable production.
+It is a cornerstone of [[coleman-succession-planting]] popularized systematic succession scheduling for cold-climate [[dry-gardening-unirrigated-vegetable-production-solomon]].
 
-His [[coleman-winter-greens]] can be succession-sown in late summer for fall and winter harvests.
+His coleman-winter-greens can be succession-sown in late summer for fall and winter harvests.
 
 ### Season Extension and Succession Planting
 
@@ -44,18 +45,18 @@ Failing to keep records is also common, but a simple garden journal makes next y
 
 ### Integrating with Crop Rotation
 
-Succession planting should work within your broader [[coleman-cover-crop-rotation-and-soil-health]] describes how to work cover crops into succession gaps.
+Succession planting should work within your broader [[coleman-cover-crop-rotation-and-soil-health]] describes how to work [[gaias-garden-cover-crops-soil-building]] into succession gaps.
 
-In [[coleman-winter-harvest-planting-schedule]] includes exact dates for a four-season harvest system in the northeastern United States.
+In [[coleman-winter-harvest-planting-schedule]] includes exact dates for a four-season harvest system in the northeastern [[dmt-containing-plants-united-states-halpern]].
 
-Many seed companies offer region-specific succession planting charts as free downloads.
+Many seed companies offer region-specific succession [[mollison-designers-companion-planting-charts-and-principles]] as free downloads.
 
 For a comprehensive approach, [[companion-planting]] alongside succession planting can reduce pest pressure across successive plantings.
 
 ## Key Points
 
 - Succession planting staggers sowings for continuous harvests rather than a single glut.
-- [[coleman-planting-schedules]] offers exact interval recommendations by crop and region.
+- coleman-planting-schedules offers exact interval recommendations by crop and region.
 - Combine succession planting with [[crop-rotation-principles]] plan to avoid depleting soil in one bed.
 
 ## Related Questions
@@ -80,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

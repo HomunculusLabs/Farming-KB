@@ -45,7 +45,7 @@ White Clover, Dutch Clover, Ladino Clover, Honeysuckle Clover, Shamrock (erroneo
 - **Growth habit**: Stoloniferous perennial, prostrate to ascending, 5–20 cm tall
 - **Leaves**: Trifoliate (three leaflets), each leaflet 10–30 mm long, obovate to elliptical, finely serrate margins, often bearing a white V-shaped mark (chevron) near the base
 - **Stems**: Creeping stolons rooting at nodes, hairless to sparsely hairy
-- **Roots**: Shallow fibrous root system with rhizobial nodules on roots for nitrogen fixation
+- **Roots**: Shallow fibrous root system with rhizobial nodules on roots for [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
 - **Flowers**: White to pinkish-white, fragrant, arranged in globular heads 1.5–3 cm diameter, each head containing 20–100 individual florets; borne on long peduncles arising from leaf axils
 - **Fruit**: Small pod, 3–6 mm, containing 3–4 seeds
 - **Seeds**: Heart-shaped, yellow to brown, 1–1.5 mm
@@ -57,7 +57,7 @@ White Clover, Dutch Clover, Ladino Clover, Honeysuckle Clover, Shamrock (erroneo
 | *T. repens* var. *repens* (Dutch white clover) | Common wild type; small, spreading, persistent |
 | *T. repens* var. *giganteum* (Ladino clover) | Large-leaved, taller growth, higher yield, less persistent |
 | *T. repens* 'Patriot' | Popular pasture cultivar; improved disease resistance |
-| *T. repens* 'Durana' | Persistent grazing type; drought tolerant |
+| *T. repens* 'Durana' | Persistent grazing type; [[permplant-carob-drought-tolerant-food-tree]] |
 | *T. repens* 'Whitetown' | High-yielding forage variety |
 | *T. repens* 'Microclover' (var. *pipio*) | Dwarf variety; used as lawn alternative |
 | *T. repens* 'Huia' | New Zealand cultivar; excellent persistence |
@@ -66,11 +66,11 @@ White Clover, Dutch Clover, Ladino Clover, Honeysuckle Clover, Shamrock (erroneo
 
 ### Nitrogen Fixation
 
-White clover forms a symbiotic relationship with *Rhizobium trifolii* bacteria, which inhabit root nodules and fix atmospheric nitrogen (N₂) into ammonium (NH₄⁺) through the nitrogenase enzyme. This biological nitrogen fixation can contribute:
+White clover forms a symbiotic relationship with *Rhizobium trifolii* bacteria, which inhabit root nodules and fix atmospheric nitrogen (N₂) into ammonium (NH₄⁺) through the nitrogenase enzyme. This [[biological-nitrogen-fixation-agriculture]] fixation can contribute:
 - **100–200 kg N/ha/year** in productive pasture systems
 - **40–80 kg N/ha/year** in lawn and ground cover applications
 - Significant reduction or elimination of synthetic nitrogen fertilizer needs
-The fixed nitrogen is shared with neighboring plants through root exudation, decomposition of clover biomass, and mycorrhizal networks.
+The fixed nitrogen is shared with neighboring plants through root exudation, decomposition of clover biomass, and [[dighton-mycorrhizal-networks-carbon-transfer]].
 
 ### Pollinator Support
 
@@ -83,7 +83,7 @@ White clover is an exceptional nectar and pollen source:
 ### Soil Health Benefits
 
 - **Soil structure**: Deep, fibrous roots improve soil aggregation and porosity
-- **Erosion control**: Dense mat of stolons and roots stabilizes soil surfaces
+- **[[permplant-willows-salix-erosion-control-fodder]]**: Dense mat of stolons and roots stabilizes soil surfaces
 - **Organic matter**: Leaf litter and root turnover contribute to soil organic carbon
 - **Nutrient cycling**: Brings up nutrients from subsoil through root activity
 - **Microbial diversity**: Supports diverse soil microbial communities including mycorrhizal fungi
@@ -131,15 +131,18 @@ White clover has a long history of use in European folk medicine:
 
 ### Phytochemistry
 
-Key bioactive compounds include:
+Key [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include:
 - **Isoflavones**: Genistein, daidzein, formononetin, and biochanin A — phytoestrogens with selective estrogen receptor modulating activity
 - **Flavonoids**: Quercetin, kaempferol, and their glycosides — antioxidant and anti-inflammatory
 - **Coumarins**: Trace amounts; anticoagulant properties
 - **Saponins**: Immune-stimulating and cholesterol-lowering
 ## See Also
 
+- [[epigaea-repens]]
+
+- [[mitchella-repens]]
+
 - [[companion-planting]]
 - [[cover-crops]]
 - [[medicago-sativa]] — Alfalfa, another important forage legume
 - Nitrogen Fixation — Biological nitrogen fixation process
-- [[cover-crops]] — Cover cropping in permaculture and agriculture

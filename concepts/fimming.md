@@ -3,6 +3,7 @@ title: Fimming
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
@@ -11,11 +12,11 @@ tags: [reference]
 
 # Fimming
 
-Fimming is a cannabis pruning technique that involves removing approximately 75-90 percent of the main growing tip while leaving a small portion intact. The name is an acronym coined by an anonymous grower who accidentally performed the technique and exclaimed "Fuck, I Missed!" when he did not remove the entire bud. Cervantes documents the technique in detail, noting that it "has become legendary" in cannabis growing communities.
+Fimming is a [[comparison-lollipopping-vs-cannabis-pruning-and-defoliation]] technique that involves removing approximately 75-90 percent of the main growing tip while leaving a small portion intact. The name is an acronym coined by an anonymous grower who accidentally performed the technique and exclaimed "Fuck, I Missed!" when he did not remove the entire bud. Cervantes documents the technique in detail, noting that it "has become legendary" in [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]] communities.
 
 ## Origin of the Technique
 
-Cervantes provides the origin story:
+Cervantes provides the [[cannabis-chemdawg-origin-story-lineage]]:
 
 - The FIM Technique "was coined by an anonymous High Times reader from South Carolina in the July 2000 issue of the magazine"
 - "The technique has become legendary on www.overgrow.com"
@@ -33,7 +34,7 @@ Cervantes notes that "[[low-stress-training]]: after FIM creates multiple colas,
 - [[topping-cannabis]] -- traditional tip removal for predictable 2-cola results
 - [[main-lining]] -- systematic approach using topping and training
 - [[training-cannabis]] -- overview of all training methods
-- [[cannabis-vegetative-stage]] -- timing vegetative growth for FIM
+- [[cannabis-vegetative-stage]] -- timing [[cannabis-vegetative-growth-stage]] for FIM
 ## Practical Applications
 
 Fimming has a range of practical applications that make it relevant to
@@ -111,4 +112,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

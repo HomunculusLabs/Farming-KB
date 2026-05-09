@@ -1,5 +1,5 @@
 ---
-title: Mushroom Pasteurization and Sterilization Methods
+title: Mushroom query-difference-between-pasteurization-and-sterilization-mushroom-growing Methods
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
@@ -13,8 +13,8 @@ sources:
   - ~/wiki/raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 ---
 
-# [[mushroom-training-substrate-preparation]] and equipment.
-The FAO training manual describes three pasteurization methods for substrate bags (country
+# mushroom-training-substrate-preparation and equipment.
+The FAO [[mushroom-cultivation-disabilities-training-manual-overview]] describes three pasteurization methods for substrate bags (country
 style, commercial, and solar) as well as autoclave sterilization for PDA medium and spawn
 production. Each method is accessible to farmers with disabilities with appropriate
 adaptations.
@@ -100,6 +100,12 @@ higher temperature sterilization in an autoclave is required.
 
 The pasteurization chamber must be built lower than standard height for easy access by
 people in wheelchairs and those unable to stand. This is one of the key
-[[mushroom-training-adapted-cultivation]] recommended in the
+mushroom-training-adapted-cultivation recommended in the
 manual. Country-style pasteurization using drums can also be adapted with raised platforms
 or modified to reduce heavy lifting.
+## See Also
+- [[mushroom-pasteurization]]
+- [[sterilization]]
+- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
+- [[mushroom-substrate-sterilization-and-pasteurization]]
+- [[query-difference-between-pasteurization-and-sterilization-mushroom-growing]]

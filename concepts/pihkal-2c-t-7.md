@@ -20,7 +20,7 @@ the most safety-concerning compounds in Shulgin's catalog.
 
 The propylthio group at the 4-position distinguishes 2C-T-7 from 2C-T-2 and
 contributes to higher potency, longer duration, and more demanding effects.
-Within the 2C-T series, increasing alkyl chain length generally increases
+Within the 2C-T series, increasing alkyl [[phenethylamine-chain-length-effects]] generally increases
 potency and duration, and 2C-T-7 represents the point where this trend
 produces effects significantly more challenging and potentially dangerous.
 
@@ -35,7 +35,7 @@ cautious following among experienced psychonauts.
 amine. It features the characteristic 2,5-dimethoxyphenethylamine backbone
 with a propylthio group (S-CH2-CH2-CH3) at the 4-position. Compared to
 2C-T-2's ethylthio group, the additional carbon increases lipophilicity,
-affecting both receptor binding and pharmacokinetics.
+affecting both [[tihkal-receptor-binding-serotonin]] and pharmacokinetics.
 
 Within the 2C-T series, 2C-T-7 sits at a critical structure-activity
 relationship point. The progression from 2C-T (methylthio) through 2C-T-2
@@ -68,7 +68,7 @@ Time distortion is particularly pronounced, even more than many other
 psychedelics. Users report time appearing to slow dramatically or become
 almost meaningless during the peak. Cognitive effects include deep
 philosophical introspection, altered thought patterns, and potentially
-challenging ego dissolution. Physical effects include moderate to heavy body
+challenging [[psilocybin-ego-dissolution-mechanisms]]. Physical effects include moderate to heavy body
 load with muscle tension, nausea, pronounced pupil dilation, and significant
 cardiovascular stimulation.
 

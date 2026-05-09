@@ -4,14 +4,17 @@ created: 2026-05-02
 updated: 2026-05-02
 type: comparison
 tags: [cannabis, processing]
-sources: []
+sources:
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 ---
 title: "Phytoextraction vs Phytostabilization"
 tags: [comparison, phytoremediation, soil-remediation, heavy-metals]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # Phytoextraction vs Phytostabilization
@@ -27,21 +30,20 @@ Phytoextraction and phytostabilization are two phytoremediation
     and long-term land use goals.
 
 ## Phytoextraction
-[[phytostabilization]]
 
 Phytostabilization uses plants to immobilize contaminants through
     physical root binding that reduces erosion and improves soil aggregation,
-    chemical root exudates that modify pH, redox potential, and cation
+    chemical [[mycorrhizal-root-exudates-pathogen-interactions]] that modify pH, redox potential, and cation
     exchange capacity to promote precipitation of insoluble compounds,
     biological microbial processes that reduce contaminants like chromium VI
     to less toxic chromium III, and adsorption of metals to root cell walls
-    and soil organic matter. The approach is particularly effective for lead,
+    and soil [[hamilton-composting-and-organic-matter-management]]. The approach is particularly effective for lead,
     which forms insoluble phosphates (pyromorphite) when phosphate amendments
     are added.
 
 Critical soil amendments include lime for pH adjustment, compost and
-    biosolids for structure and nutrient supply, phosphate amendments for lead
-    stabilization, zeolites and clay for cation exchange capacity, biochar for
+    biosolids for [[root-anatomy-structure-and-nutrient-uptake]] supply, phosphate amendments for lead
+    stabilization, zeolites and clay for [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity, biochar for
     metals and organics, and iron and manganese oxides for arsenic and
     antimony adsorption. Phytostabilization integrates with ecological
     restoration by establishing pioneer vegetation that develops soil organic
@@ -91,7 +93,7 @@ Choose phytostabilization when contaminant removal is economically
     smelter-impacted soils, and lead-contaminated sites where the cost of
     excavation or chemical treatment is prohibitive. It is particularly
     well-suited to sites requiring ecological restoration alongside
-    containment, as the established vegetation provides ecosystem services
+    containment, as the established vegetation provides [[biodiversity-of-fungi-ecosystem-services-agriculture]]
     beyond remediation. Phytostabilization accepts that the land will remain
     under institutional controls but transforms degraded sites into
     functioning ecosystems.
@@ -108,6 +110,8 @@ The most effective remediation programs combine both strategies across
     while ensuring risk management across the entire site.
 
 ## See Also
+
+- [[comparison-rhizofiltration-vs-phytoextraction]]
 
 - [[comparison-phytoremediation-vs-mycoremediation-detail]]
 - [[rhizofiltration]]

@@ -17,7 +17,7 @@ type: concept
 # Legume Tree Inoculation and Nitrogen Distribution
 
 Leguminous trees are among the most important elements in
-permaculture design, providing nitrogen, mulch, forage, and shelter.
+[[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], providing nitrogen, mulch, forage, and shelter.
 In *Permaculture: A Designers' Manual*, Bill Mollison provides
 detailed guidance on the inoculation, management, and nitrogen
 dynamics of tree legumes, emphasising their role in tropical and
@@ -25,7 +25,7 @@ subtropical systems.
 
 ## The Importance of Root Associates
 
-Legume trees such as Leucaena, Acacia, Albizia, Gliricidia, and
+[[permaculture-plants-legume-trees-acacia-carob-locust]] such as Leucaena, Acacia, Albizia, Gliricidia, and
 Tephrosia may contain high nitrogen levels; one can actually smell
 the ammonia from the trees in rain or when the roots are crushed.
 Cut green material from such trees (green mulch), lightly turned
@@ -47,7 +47,7 @@ continues to benefit the system for years.
 
 Nitrogen, if supplied artificially, quickly leaches in warm rains.
 Legumes, with their slow nitrogen release, are of critical importance
-in any tropical crop situation. This connects to [[mollison-mulching-and-soil-health]].
+in any [[comparison-cacao-vs-black-pepper-tropical-crop-cultivation]] situation. This connects to mollison-mulching-and-soil-health.
 
 ## Nitrogen Yield Assessment
 
@@ -71,7 +71,7 @@ production, with a trimming height of 0.5-1.5 m recommended.
 ### Spacing for Shelter and Seed
 Trees can be more widely spaced at 2-20 m for root nitrogen, seed
 production for poultry and bees, and for in-crop shelter. Flowering
-and seed production is better at wider spacing depending on tree
+and [[cervantes-seed-production-storage]] is better at wider spacing depending on tree
 size. A full canopy may be needed to reduce or eliminate frost.
 
 ### Seasonal Timing
@@ -87,7 +87,7 @@ be necessary every 2-3 years.
 ## Integration with Coppicing Systems
 
 The nitrogen dynamics of legume trees make them central to
-[[mollison-avenue-cropping-with-legumes]]. In avenue cropping,
+[[mollison-avenue-cropping-with-legumes]]. In [[mollison-avenue-cropping-with-legumes]],
 legume rows are interplanted with crops, and the regular cutting
 cycle provides both mulch and a steady nitrogen supply. The
 interaction between coppice management and nitrogen availability
@@ -97,7 +97,7 @@ is a key design consideration.
 
 Mollison references the mycorrhizal associates of higher plants
 as a key example of mutualism or fair trade between a plant and
-its root associate. The [[mollison-designers-soil-water-storage-in-forest-systems]] through the humus storage mechanism.
+its root associate. The [[mollison-designers-soil-water-storage-in-forest-systems]] through the [[holzer-humus-storage-ditches]] mechanism.
 
 ## Design Implications
 
@@ -105,7 +105,7 @@ its root associate. The [[mollison-designers-soil-water-storage-in-forest-system
 - Use local soil from nodulating trees as a backup inoculation
   method
 - Plan for the 6-year nitrogen release cycle when removing trees
-- Integrate legume trees with [[mollison-forage-trees-in-livestock-systems]] for dual purpose
+- Integrate legume trees with mollison-forage-trees-in-livestock-systems for dual purpose
 - Use green mulch from legumes rather than artificial nitrogen
   fertiliser
 - Space trees according to intended function: close for mulch,

@@ -1,9 +1,9 @@
 ---
-title: Thrips - Cannabis Pest Guide
+title: Thrips - query-how-to-use-neem-oil-for-cannabis-pest-control Guide
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -11,7 +11,7 @@ tags: [cannabis]
 
 # Thrips on Cannabis
 
-Thrips are small, winged, fast-moving insects more common in greenhouses than in indoor grow rooms. They are difficult to see individually but not hard to spot in groups, making them a pest that can establish before growers notice the damage. Thrips can be very vexing to control once they get established, so early detection and rapid response are essential.
+Thrips are small, winged, fast-moving insects more common in greenhouses than in [[cannabis-indoor-grow-lighting-systems]] rooms. They are difficult to see individually but not hard to spot in groups, making them a pest that can establish before growers notice the damage. Thrips can be very vexing to control once they get established, so early detection and rapid response are essential.
 
 ## Identification
 
@@ -76,7 +76,7 @@ While no cannabis varieties are specifically bred for thrips resistance, some fa
 
 ## Monitoring
 
-- Install blue or pink sticky traps near plants to capture adults and monitor population trends
+- Install blue or pink [[cervantes-sticky-traps-pest-monitoring]] near plants to capture adults and monitor population trends
 - Shake plant parts over a white surface to check for thrip activity — the contrast makes tiny insects easier to see
 - Inspect undersides of leaves regularly, especially on new growth where thrips prefer to feed
 - Check flower buds for feeding damage and distortion — bud damage is often the first noticed symptom
@@ -87,5 +87,5 @@ While no cannabis varieties are specifically bred for thrips resistance, some fa
 ## See Also
 
 - [[leaf-miners-cannabis]] — another pest that damages leaf tissue internally
-- [[gaias-garden-host-plants-beneficial-insects]] — predator and parasite options
+- gaias-garden-host-plants-beneficial-insects — predator and parasite options
 - [[knf-pest-control-and-soap-water]]

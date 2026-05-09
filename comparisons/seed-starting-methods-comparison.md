@@ -1,15 +1,16 @@
 ---
-title: Seed Starting Methods Comparison
+title: Seed seed starting methods comparison Comparison
 created: 2026-04-13
 updated: 2026-04-13
 type: comparison
 tags: [seeds, gardening, comparison]
 sources:
+  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Seed Starting Methods Comparison
 
-The method used to start seeds affects transplant success, root health, cost, and the range of crops you can grow. This comparison covers six common seed starting approaches, from traditional indoor techniques to direct field sowing and season-extending strategies. For detailed seed starting procedures, see [[home-garden-seed-saving]] and broader propagation methods in [[solomon-seed-starting-transplanting]] for timing and technique details.
+The method used to start seeds affects transplant success, root health, cost, and the range of crops you can grow. This comparison covers six common seed starting approaches, from traditional indoor techniques to direct field sowing and season-extending strategies. For detailed seed starting procedures, see [[home-garden-seed-saving]] and broader [[vegetative-propagation-methods-mollison]] in [[solomon-seed-starting-transplanting]] for timing and technique details.
 
 ## Related
 
@@ -144,4 +145,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

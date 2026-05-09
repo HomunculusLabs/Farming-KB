@@ -1,5 +1,5 @@
 ---
-title: Voluntary Hallucinations from Psilocybin Vapor in Enclosed Spaces
+title: guzman voluntary hallucinations psilocybin vapor enclosed spaces from Psilocybin Vapor in Enclosed Spaces
 tags:
   - guzman
   - allen
@@ -39,7 +39,7 @@ or semifermented neurotropic Psilocybe specimens with the help of local indigeno
 The collection included a mixture of five species:
 
 - [[psilocybe-cordispora]]
-- psilocybe cubensis
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 - [[psilocybe-zapotecorum]]
 
 These mushrooms had been gathered for commercial purposes and were stored in sacks in a
@@ -53,13 +53,13 @@ to breathe fresh air, the hallucinations ceased immediately. Upon returning, the
 ## Implications for Psilocybin and Psilocin Volatility
 
 This incident provides direct evidence supporting the hypothesis that psilocybin and
-psilocin are volatile compounds that can become airborne under certain conditions. The
+psilocin are [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] that can become airborne under certain conditions. The
 authors state explicitly that "it seems that psilocybin and psilocin are volatiles," based
 on this observation combined with other chemical evidence.
 
 The semifermented state of the specimens may be significant. Fermentation could potentially
 increase the rate at which active compounds are released into the air, either through
-increased metabolic activity in the fungal tissue or through the breakdown of psilocybin
+increased [[arbuscule-isolation-metabolic-activity-assays]] in the fungal tissue or through the breakdown of psilocybin
 (the phosphate ester) into psilocin (the free hydroxyl compound), which may be more
 volatile.
 
@@ -77,13 +77,13 @@ dried specimens over time.
 
 ## Indigenous Knowledge of Specimen Freshness
 
-The observation corroborates indigenous Mexican knowledge about the proper handling of
+The observation corroborates [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]] knowledge about the proper handling of
 sacred mushrooms. As the authors note, "the Mexican Indians wisely say in relationship
 with the use of the sacred mushrooms, that the old dried specimens kept for more than one
 year are not good to use, and they throw them out."
 
 Guzman himself confirmed this through personal experimentation: normal doses of
-hallucinogenic fungi (Psilocybe mexicana in one case, and P. caerulescens in another)
+hallucinogenic fungi ([[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] in one case, and P. caerulescens in another)
 were "only slightly neurotropic or entirely inactive in the persons who ate them, because
 the fungi were kept dried for almost a year."
 

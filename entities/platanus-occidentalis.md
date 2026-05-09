@@ -9,7 +9,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Peattie, D.C. (1953). A Natural History of Trees of Eastern and Central North America. Houghton Mifflin.
+  - Peattie, D.C. (1953). A Natural History of Trees of Eastern and Central psilocybin-north-america-pacific-northwest. Houghton Mifflin.
   - Santamour, F.S. (1972). "Interspecific Hybridization in Platanus." Forest Science 18(3): 236-239.
   - Elias, T.S. (1980). The Complete Trees of North America. Van Nostrand Reinhold.
   - Little, E.L. (1979). Checklist of United States Trees. USDA Forest Service Agriculture Handbook 541.
@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-**Platanus occidentalis**, commonly known as American sycamore, sycamore, or buttonwood, is a large deciduous tree native to eastern and central North America. It is the largest hardwood tree by diameter in eastern North America, with exceptional specimens exceeding 3 meters in trunk diameter.
+**Platanus occidentalis**, commonly known as American sycamore, sycamore, or buttonwood, is a large deciduous tree native to eastern and central North America. It is the largest hardwood tree by diameter in [[polypore-fungi-eastern-north-america]] America, with exceptional specimens exceeding 3 meters in trunk diameter.
 
 The species is most recognizable for its distinctive exfoliating bark, which peels away in irregular plates to reveal creamy white inner bark. This mottled camouflage pattern makes sycamore one of the most visually striking trees in the winter landscape.
 
@@ -64,13 +64,13 @@ American sycamore provides habitat and food for numerous wildlife species. Large
 
 The seeds are consumed by a variety of birds, including goldfinches, chickadees, tufted titmice, and purple finches. Small mammals such as squirrels and mice also feed on the seeds during winter months.
 
-The leaves support caterpillars of the sycamore moth (*Halysidota harrisii*) and several species of leaf beetles. The abundant leaf litter contributes organic matter to riparian soils, supporting aquatic and terrestrial detritivore food webs.
+The leaves support caterpillars of the sycamore moth (*Halysidota harrisii*) and several species of leaf beetles. The abundant leaf litter contributes [[hamilton-composting-and-organic-matter-management]] to riparian soils, supporting aquatic and terrestrial detritivore food webs.
 
 Streamside sycamore canopies shade waterways, moderating water temperature and supporting coldwater fish populations. Root systems stabilize streambanks against erosion, reducing sedimentation in aquatic habitats.
 
 The species is an important component of the eastern riparian forest community, often growing alongside eastern cottonwood (*Populus deltoides*), silver maple (*Acer saccharinum*), and green ash (*Fraxinus pennsylvanica*). These bottomland hardwood associations provide critical wildlife corridors.
 
-Sycamore leaves decompose relatively quickly compared to other hardwood species, contributing to rapid nutrient cycling in floodplain ecosystems. This fast decomposition rate supports diverse aquatic invertebrate communities.
+Sycamore leaves decompose relatively quickly compared to other hardwood species, contributing to rapid [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in floodplain ecosystems. This fast decomposition rate supports diverse aquatic invertebrate communities.
 
 ## Cultivation and Uses
 
@@ -80,7 +80,7 @@ The London plane tree (*Platanus × acerifolia*), a hybrid of American sycamore 
 
 Sycamore wood is moderately hard, coarse-grained, and difficult to split but machines well. It is used for butcher blocks, crates, veneer, particleboard, and pulpwood. The interlocked grain makes it resistant to splitting under mechanical stress.
 
-Historically, hollow sycamore trunks were used by Native Americans and early settlers as dugout canoes. A famous sycamore canoe reportedly carried General George Washington across the Delaware River during the Revolutionary War.
+Historically, hollow sycamore trunks were used by Native Americans and early settlers as dugout canoes. A famous sycamore canoe reportedly carried General [[tompkins-george-washington-carver-plant-alchemy]] across the Delaware River during the Revolutionary War.
 
 The wood has limited commercial value compared to other hardwoods but finds specialty uses. Its interlocked grain and resistance to splitting make it preferred for butcher blocks, cutting boards, and textile machinery rollers.
 
@@ -90,7 +90,7 @@ The species is relatively short-lived for a hardwood, typically reaching 200–3
 
 ## Notable Features
 
-American sycamore produces some of the largest-diameter trunks of any North American tree. The current national champion, located in Jeromesville, Ohio, measures over 4.5 meters in diameter at breast height.
+American sycamore produces some of the largest-diameter trunks of any [[growing-gourmet-north-american-reishi-species]] tree. The current national champion, located in Jeromesville, Ohio, measures over 4.5 meters in diameter at breast height.
 
 The species is monoecious, with separate male and female flower clusters on the same tree. Wind pollination occurs in early spring, with the characteristic button-ball fruits maturing and persisting through winter.
 
@@ -101,6 +101,8 @@ Bacterial leaf scorch, caused by *Xylella fastidiosa*, can also affect sycamore,
 In landscaping, American sycamore is best suited to large properties with adequate space for its eventual size. The species produces copious amounts of leaves, twigs, and fruit that can create maintenance challenges near structures and paved surfaces.
 
 ## See Also
+
+- [[platanus-acerifolia]]
 
 - [[populus-deltoides]]
 - [[quercus-robur]]

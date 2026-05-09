@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [query, soil-science, soil-food-web, vermicomposting]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -13,7 +14,7 @@ type: query
 ## Short Answer
 Earthworms are ecosystem engineers that dramatically improve soil health through
 their burrowing activity, which creates channels for air and water movement, and
-by breaking down organic matter into nutrient-rich castings. They are one of the
+by breaking down [[hamilton-composting-and-organic-matter-management]] into nutrient-rich castings. They are one of the
 most visible and important members of the [[earthworm-ecology]] encompasses several critical functions that
 underpin healthy, productive soil. When earthworms tunnel through the ground,
 they create permanent burrow networks that serve as conduits for water
@@ -27,7 +28,7 @@ and feed primarily on decaying plant material on the soil surface. These are
 the worms most commonly used in [[nutrient-cycling-in-soil]], making locked-up minerals accessible
 to plant roots. The [[humus-formation-and-soil-organic-matter]]. Their digestive process partially stabilizes organic matter, producing
 humic substances that resist further decomposition and contribute to long-term
-soil carbon storage. The mucus they secrete helps bind soil particles into
+soil [[holmgren-soil-humus-carbon-storage-rebuilding]]. The mucus they secrete helps bind soil particles into
 stable aggregates, improving soil structure and tilth. Well-aggregated soil
 resists compaction, drains properly, and provides an ideal environment for
 root growth and microbial activity. The [[soil-health-indicators]]. Their presence and abundance tell you a
@@ -58,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -100,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

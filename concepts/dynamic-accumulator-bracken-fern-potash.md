@@ -1,5 +1,5 @@
 ---
-title: "Bracken Fern as a Historical Potash Source"
+title: "dynamic accumulator bracken fern potash as a Historical Potash Source"
 created: 2026-04-28
 tags:
   - dynamic-accumulators
@@ -24,13 +24,13 @@ amendment than ash alone.
 Gardeners can incorporate bracken fern into their soil-building
 program in several ways:
 
-- Spring collection and composting for root crops, following
+- Spring collection and composting for [[permaculture-plants-root-crops-and-tubers]], following
   Chadwick's method.
-- and drop mulching of fronds in areas where potassium is
+- and [[comparison-chop-and-drop-mulching-vs-mulching-guide]] of fronds in areas where potassium is
   needed.
-- Green manure incorporation by tilling young fronds into the
+- [[comparison-green-manure-guide-vs-mulch-types-and-effects]] incorporation by tilling young fronds into the
   soil before they become woody.
-- compost tea made from soaked bracken fronds as a liquid
+- [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]] made from soaked bracken fronds as a liquid
   potassium supplement.
 
 ## Cautions
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,3 +107,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[woodwardia-areolata]]

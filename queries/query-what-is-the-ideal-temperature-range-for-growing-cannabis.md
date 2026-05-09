@@ -5,7 +5,7 @@ tags: [query, cannabis, temperature, environment, indoor-growing]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 type: query
 ---
 
@@ -18,7 +18,7 @@ stage: seedlings prefer 22-25°C (72-77°F), vegetative plants do best at 22-28�
 cooler night temperatures to encourage resin production. Maintaining proper
 temperature alongside [[cannabis-vegetative-growth-stage]], plants benefit from
 warmer daytime temperatures in the range of 22-28°C (72-82°F). This warmth drives
-metabolic activity, accelerating photosynthesis, stem elongation, and leaf
+[[arbuscule-isolation-metabolic-activity-assays]], accelerating photosynthesis, stem elongation, and leaf
 production. A temperature differential of about 5-8°C between day and night mimics
 natural conditions and encourages robust structural growth. Night temperatures
 dropping to around 18-22°C (64-72°F) give plants a recovery period while reducing
@@ -41,11 +41,11 @@ remedy. A simple diagnostic test is to place your hand at canopy level: if it fe
 uncomfortably warm to the back of your hand after 30 seconds, the combination of
 heat and light intensity is likely too high.
 
-In soil grows, temperature affects the microbial community responsible for nutrient
+In soil grows, temperature affects the [[edaphic-factors-microbial-community-structure]] responsible for nutrient
 cycling and organic matter decomposition. Cooler soil temperatures slow microbial
 activity, reducing the availability of organic nutrients that depend on biological
-breakdown. In hydroponic systems, temperature directly affects dissolved oxygen
-levels in the nutrient solution: warmer water holds less oxygen, which can suffocate
+breakdown. In hydroponic systems, temperature directly affects [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]]
+levels in the [[cannabis-nutrient-solution-preparation]]: warmer water holds less oxygen, which can suffocate
 roots and promote anaerobic pathogens. A water chiller is often necessary in
 recirculating hydroponic systems to maintain root zone temperatures between 18-22°C
 (64-72°F).
@@ -53,11 +53,11 @@ recirculating hydroponic systems to maintain root zone temperatures between 18-2
 ## Key Points
 - Seedlings prefer 22-25°C (72-77°F) with minimal fluctuation to encourage strong
   root establishment
-- Vegetative stage thrives at 22-28°C (72-82°F) daytime with a 5-8°C nighttime
+- [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] thrives at 22-28°C (72-82°F) daytime with a 5-8°C nighttime
   drop for structure
 - Flowering stage benefits from 20-26°C (68-79°F) days and cooler nights below
   20°C for resin production
-- Temperatures above 30°C (86°F) cause heat stress, nutrient lockout, and
+- Temperatures above 30°C (86°F) cause heat stress, [[cannabis-nutrient-lockout-and-ph]], and
   significantly reduced yields
 - Monitoring
   [[query-what-is-the-role-of-trichoderma-in-organic-growing]] Questions
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

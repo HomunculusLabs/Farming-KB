@@ -1,16 +1,17 @@
 ---
-title: Holzer Problem Plant Regulation
+title: Holzer holzer-problem-plant-regulation-with-livestock
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Problem Plant Regulation
 
-Sepp Holzer's approach to managing problem plants (weeds) through ecological understanding rather than chemical warfare. From his Practical Guide to Small-Scale Integrative Farming and Gardening.
+Sepp Holzer's approach to managing problem plants (weeds) through ecological understanding rather than [[solomon-root-exudates-and-allelopathy]]. From his Practical Guide to Small-Scale Integrative Farming and Gardening.
 
 ## Core Philosophy
 
@@ -20,7 +21,7 @@ When we work a plot of land we change the natural balance. Cultivated plants are
 
 A gardener who removes all weeds, keeps the lawn short, and keeps ground under fruit trees "neat" achieves:
 
-- Drying out of vegetable patches and fruit trees (no ground cover)
+- Drying out of vegetable patches and fruit trees (no [[fukuoka-citrus-orchard-ground-cover-cultivation]])
 - More watering needed
 - Worse humus production on bare soil
 - Nutrients flushed out by frequent watering
@@ -33,7 +34,7 @@ A gardener who removes all weeds, keeps the lawn short, and keeps ground under f
 
 Problem plants indicate soil conditions:
 
-- **Broad-leaved dock (Rumex obtusifolius), stinging nettles (Urtica dioica), orache (Atriplex patula):** Indicate high nitrogen levels in soil, usually caused by overfertilising or overly intensive pasture management
+- **Broad-leaved dock (Rumex obtusifolius), stinging nettles (Urtica dioica), orache (Atriplex patula):** Indicate high nitrogen levels in soil, usually caused by overfertilising or overly intensive [[grassland-pasture-management-mollison]]
 - **Solution:** Restore the balance through different management, not by treating the symptom
 
 ## Livestock-Based Regulation
@@ -86,7 +87,7 @@ A single species can only become prevalent if there is an imbalance. The main pr
 
 ## See Also
 
-- [[holzer-green-manure-crops]] — green manure crops for soil building
-- [[holzer-livestock-integration]] — livestock integration overview
+- [[holzer-green-manure-crops]] — green [[green-manure-crops-detailed]] for soil building
+- [[holzer-livestock-integration]] — [[faires-livestock-integration-permaculture]] overview
 - [[weed-suppression-strategies]] — general weed suppression approaches
 - [[holzer-green-manure-and-soil-building-plants]]

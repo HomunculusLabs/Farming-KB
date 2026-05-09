@@ -1,6 +1,6 @@
 ---
 
-title: Mushroom Poisoning Guide
+title: european-mushroom-poisoning-history Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -23,8 +23,7 @@ sources:
 
 # Mushroom Poisoning Guide
 
-Understanding the major categories of mushroom poisoning is essential for safe foraging. This guide covers the most dangerous species, their toxins, mechanisms of action, and clinical consequences. For identification guidance, see [[mushroom-identification]] and [[mushroom-toxicity-identification-warnings]].
-
+Understanding the major categories of mushroom poisoning is essential for safe foraging. This guide covers the most dangerous species, their toxins, mechanisms of action, and clinical consequences. For identification guidance, see mushroom-identification and [[mushroom-toxicity-identification-warnings]].
 
 ## Historical Foraging Lore and Myths (Ramsbottom, 1945)
 
@@ -33,7 +32,7 @@ Understanding the major categories of mushroom poisoning is essential for safe f
 ### Myths That Will Kill You
 - **"Edible mushrooms peel"** — Both the Field Mushroom and the Death Cap peel. This myth caused deaths at Ipswich in 1944 (Ramsbottom).
 - **"Silver spoon turns black"** — Silver blackens from sulphides; no known fungus contains enough sulphur to cause this. Amanita phalloides will not blacken silver.
-- **"Poisonous mushrooms have bright colors"** — Color is irrelevant to toxicity; it merely helps distinguish species.
+- **"[[palmer-poisonous-mushrooms-deadly-species]] have bright colors"** — Color is irrelevant to toxicity; it merely helps distinguish species.
 - **"Animals won't eat poisonous mushrooms"** — Slugs thrive on Amanita phalloides. Rabbits are immune due to different stomach chemistry.
 - **"Poisonous fungi grow in woods, edible ones in fields"** — Both deadly and edible species grow in both habitats.
 - **"If the flesh changes color when cut, it's poisonous"** — Color change is a chemical reaction (chromogens + oxidizing enzymes) unrelated to toxicity. Many safe Boletus species turn vivid blue.
@@ -51,7 +50,7 @@ Some people are allergic to specific mushroom species or to fungi in general —
 
 ### Species Responsible
 - **Death cap** (*Amanita phalloides*) — responsible for most fatal poisonings in Europe and North America
-- **Destroying angel** (*Amanita virosa*, *A. bisporigera*, *A. verna*) — pure white fruiting bodies with volva and annulus
+- **[[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]** (*Amanita virosa*, *A. bisporigera*, *A. verna*) — pure white fruiting bodies with volva and annulus
 - **Deadly galerina** (*Galerina autumnalis*) — a small brown mushroom (LBM) growing on fallen logs; easily confused with edible *Pholiota* species
 
 ### Mechanism
@@ -69,7 +68,6 @@ Amatoxins are miniproteins (peptides) absorbed from the intestine that block pro
 - No antidote exists; treatment centers on fluid replacement and careful monitoring of serum chemistry
 - Liver transplantation may be required in severe cases
 
-
 ### Historical Note (Ramsbottom, 1945)
 Ramsbottom documented that Amanita phalloides is responsible for over 90% of recorded fatal mushroom poisonings, with fatality rates exceeding 50% (some sources say 90%). The 10-12 hour asymptomatic period is "almost diagnostic." The genus Amanita is defined by white spores, free gills, a ring on the stem, and a volva (wrapper) at the base — though the volva may be underground. The volva's structure determines whether remnants appear as a cup (A. phalloides group) or warts on the cap (A. muscaria group). Early treatment with glucose IV (20-25%) is reported effective in Germany, exploiting the hypoglycaemia caused by liver damage.
 ### Why the Delay?
@@ -77,7 +75,7 @@ The delayed action of amatoxins means they cannot function as effective deterren
 
 ## Coprine Poisoning (Antabuse Syndrome)
 
-**Species**: *Coprinus atramentarius* (common inkcap) — resembles edible *Coprinus comatus* (shaggy mane)
+**Species**: *Coprinus atramentarius* (common inkcap) — resembles edible *[[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]]* (shaggy mane)
 
 **Mechanism**: Coprine blocks the enzyme aldehyde dehydrogenase, preventing conversion of acetaldehyde to acetate. When alcohol is consumed with the mushroom, acetaldehyde accumulates.
 
@@ -111,7 +109,7 @@ Unlike mushroom toxins produced by fruiting bodies, aflatoxins are synthesized b
 - Among the most potent naturally occurring mutagens and carcinogens
 - Found in corn, peanuts, peanut butter, milk, eggs, and meat
 - DNA-binding compounds that cause genetic damage (adduct formation)
-- Discovered after "turkey X disease" killed 100,000 turkeys in England in 1960 from aflatoxin-contaminated peanut meal
+- Discovered after "[[aflatoxin-turkey-x-disease-1960-discovery-peanut-meal]]" killed 100,000 turkeys in England in 1960 from aflatoxin-contaminated peanut meal
 - Growth most prolific on insect-damaged or environmentally stressed crops
 
 ## Stachybotrys (Black Mold)
@@ -141,9 +139,9 @@ Caused by inhaling massive quantities of puffball (*Lycoperdon*) spores. In 1994
 2. The only safe method is learning to identify each species individually
 3. Never taste-test wild mushrooms without expert guidance
 4. LBMs (little brown mushrooms) on wood should always be treated with extreme suspicion — deadly galerinas grow in the same habitat as edible species
-5. Immigrants who forage based on species familiarity from their home country are at elevated risk — *Volvariella volvacea* (paddy straw mushroom) resembles deadly *Amanita* species
+5. Immigrants who forage based on species familiarity from their home country are at elevated risk — *[[paddy-straw-mushroom-volvariella-volvacea-cultivation]]* (paddy straw mushroom) resembles deadly *Amanita* species
 
-See also [[mushroom-identification]], [[mushroom-toxicity-identification-warnings]], [[mycotoxins-and-human-health]], [[amanita-muscaria-guide]], [[mushroom-identification-resources]]
+See also mushroom-identification, [[mushroom-toxicity-identification-warnings]], [[mycotoxins-and-human-health]], [[amanita-muscaria-guide]], mushroom-identification
 
 ## Related
 

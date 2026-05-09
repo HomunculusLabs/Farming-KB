@@ -1,7 +1,7 @@
 ---
-title: Earthbag Construction for Sustainable Homes
+title: comparison-earthbag-construction-vs-cob-construction for Sustainable Homes
 created: 2026-04-28
-tags: [earthbag, [[natural-building]], sustainable-housing, permaculture, low-cost]
+tags: [earthbag, natural-building, sustainable-housing, permaculture, low-cost]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md"]
@@ -10,11 +10,11 @@ type: concept
 
 # Earthbag Construction for Sustainable Homes
 
-An alternative to earth berm houses is the popular and extremely mushroom growing house
+An alternative to [[underground-house-and-earth-berm-construction]] houses is the popular and extremely [[duggar-mushroom-growing-history-and-methods]] house
 earthbag method. Rather than building traditional framing to hold up dirt,
 the house is built with stacked bags full of soil. This creates urban water catchment
 and is incredibly strong and long lasting. The bags can be covered with
-adobe or plaster. This building method is a practical expression of
+adobe or plaster. This [[query-how-do-i-choose-a-natural-building-method-for-my-climate]] is a practical expression of
 .
 
 ## Bag Selection
@@ -85,9 +85,9 @@ electrical components centrally placed so wiring does not have to go far.
 
 The walls must be built and covered fairly quickly. More than a month of
 intense desert sun will degrade the bags too much, and no more than three
-months in a temperate climate will produce the same effect. Once the walls
+months in a [[permaculture-designers-manual-temperate-climate-design]] will produce the same effect. Once the walls
 are built, cover them with a moisture barrier and then plaster. People have
-used |cob, cement stucco, and lime plaster. Cob is a
+used |cob, cement stucco, and [[comparison-lime-plaster-vs-earthen-plaster]]. Cob is a
 mixture of clay, sand, water, and straw in varying ratios. To make lime
 plaster, mix Portland cement, lime, and sand in a ratio of 2:1:9. To apply
 any plaster, first wrap the whole house in chicken wire and smear on a 1-inch

@@ -5,11 +5,11 @@ updated: 2026-04-13
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 # Cannabis Soil and Nutrient Requirements
 
-Cannabis is a heavy feeder with specific nutritional demands that change throughout its life cycle. Understanding soil composition, nutrient availability, and the soil food web is essential for maximizing growth and quality.
+Cannabis is a heavy feeder with specific nutritional demands that change throughout its life cycle. Understanding soil composition, [[ph-and-nutrient-availability-garden-soils]], and the soil food web is essential for maximizing growth and quality.
 
 ## Growing Mediums
 
@@ -27,7 +27,7 @@ Cannabis is a heavy feeder with specific nutritional demands that change through
 - Often buffered with calcium and magnesium.
 
 ### Hydroponics
-- Plants grow in inert media (clay pebbles, rockwool, perlite) or directly in nutrient solution.
+- Plants grow in inert media (clay pebbles, rockwool, perlite) or directly in [[cannabis-nutrient-solution-preparation]].
 - Fastest growth rates but least forgiving of mistakes.
 - Requires careful monitoring of pH (5.5-6.0), EC, and nutrient solution temperature.
 
@@ -57,7 +57,7 @@ Cannabis is a heavy feeder with specific nutritional demands that change through
 ## Secondary Nutrients
 
 ### Calcium (Ca)
-- **Role**: Cell wall structure, root development, nutrient transport.
+- **Role**: Cell wall structure, root development, [[mycelial-network-nutrient-transport-imaging-gadd]].
 - **Deficiency**: Deformed new growth, brown spots on leaves, root tip dieback.
 - **Sources**: Dolomite lime, gypsum, eggshells.
 
@@ -79,7 +79,7 @@ Required in trace amounts but essential for plant health:
 - **Zinc (Zn)**: Growth hormone production, enzyme function. Deficiency: small, distorted leaves.
 - **Boron (B)**: Cell wall formation, pollen viability. Deficiency: brittle, distorted growth.
 - **Copper (Cu)**: Photosynthesis, lignin synthesis. Rarely deficient.
-- **Molybdenum (Mo)**: Nitrogen fixation and enzyme function.
+- **Molybdenum (Mo)**: [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] and enzyme function.
 - **Chlorine (Cl)**: Osmosis and ion balance.
 - **Nickel (Ni)**: Urease enzyme function.
 
@@ -125,8 +125,8 @@ pH affects nutrient availability. In the wrong pH range, nutrients become "locke
 
 - **Nutrient lockout**: pH out of range; check and adjust pH before adding more nutrients.
 - **Nutrient burn**: Too high nutrient concentration; flush with plain water.
-- **Nitrogen toxicity**: Dark green, clawing leaves; reduce nitrogen.
-- **Calcium/Magnesium deficiency**: Add CalMag supplement.
+- **[[query-how-to-fix-nitrogen-toxicity-in-cannabis]]**: Dark green, clawing leaves; reduce nitrogen.
+- **Calcium/[[query-how-to-fix-magnesium-deficiency-in-cannabis]]**: Add CalMag supplement.
 - **Salt buildup**: White crust on soil surface; flush thoroughly.
 
 ## See Also

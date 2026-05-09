@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-Soil compaction and hardening -- the formation of an impenetrable layer (plow pan) approximately 15 cm below the soil surface -- is identified by JADAM as one of the most critical problems facing modern agriculture. This hardened layer traps chemicals, prevents root penetration, blocks water infiltration, and causes salt accumulation. JADAM provides both diagnosis and treatment methods for this widespread condition.
+Soil compaction and hardening -- the formation of an impenetrable layer ([[ultra-low-soil-compaction-and-plow-pan-solutions]]) approximately 15 cm below the soil surface -- is identified by JADAM as one of the most critical problems facing modern agriculture. This hardened layer traps chemicals, prevents root penetration, blocks water infiltration, and causes [[jadam-salt-accumulation-in-soil]]. JADAM provides both diagnosis and treatment methods for this widespread condition.
 
 ## Causes of Soil Hardening
 
@@ -35,11 +35,11 @@ The consequences of soil hardening cascade through the entire farming system:
 
 **Root restriction**: Crops cannot develop deep root systems. In the past, pepper plants extended roots 1.5 m into the soil and were so robust that farmers needed sickles to chop them down. Now, a small tug pulls the roots out immediately. The roots are coiled up in the nursery soil, desperate to stay.
 
-**Salt accumulation**: When rain falls, water is trapped by the compacted soil layer. It does not flow down but stagnates at a short depth below the surface, slowly evaporates, and leaves salt behind. Repeating this process leads to salinized soil.
+**Salt accumulation**: When [[fukuoka-rain-falls-from-ground-vegetation-rainfall-cycle]], water is trapped by the compacted soil layer. It does not flow down but stagnates at a short depth below the surface, slowly evaporates, and leaves salt behind. Repeating this process leads to salinized soil.
 
 **Water stagnation**: Both heaven and earth are blocked. The soil is not in contact with the sky. Material circulation cannot function properly.
 
-**Reduced microbial activity**: Compacted soil has reduced air and water penetration, limiting the microbial activity that is essential for nutrient cycling and disease prevention.
+**Reduced microbial activity**: Compacted soil has reduced air and water penetration, limiting the microbial activity that is essential for [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and [[cervantes-pest-disease-prevention-overview]].
 
 ## Diagnosis: Simple Root Inspection
 
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

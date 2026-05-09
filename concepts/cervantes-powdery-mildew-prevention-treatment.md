@@ -1,5 +1,5 @@
 ---
-title: "Powdery Mildew on Cannabis - Prevention and Treatment (Cervantes)"
+title: "cervantes powdery mildew prevention treatment on Cannabis - Prevention and Treatment (Cervantes)"
 created: 2026-04-28
 tags:
   - cannabis
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -18,7 +19,7 @@ type: concept
 
 ## Overview
 
-Powdery mildew is a common fungal disease that affects cannabis
+Powdery mildew is a common [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] that affects cannabis
 both indoors and outdoors. According to Cervantes, the first
 indication of infection is small spots on the tops of leaves.
 By the time these spots are visible, the disease has been inside
@@ -46,7 +47,7 @@ avoid:
 - Cool, damp, humid, dim grow room conditions
 - Fluctuating temperatures and humidity levels
 - Low light intensity and stale, stagnant air
-- Poor air circulation between plants
+- Poor [[stamets-growing-room-air-circulation-co2-management]] between plants
 - Excess nitrogen fertilization producing tender, susceptible
   growth
 
@@ -65,16 +66,16 @@ takes hold. Key preventive measures include:
 - Keep [[cervantes-gray-mold-botrytis-prevention]], which thrives in cool moist conditions and attacks
 dense buds, powdery mildew prefers the combination of dry roots
 with humid air around foliage. Both diseases share the same
-fundamental prevention strategy: cleanliness, low humidity,
+fundamental prevention strategy: cleanliness, [[pf-tek-low-humidity-symptoms-and-remediation]],
 good ventilation, and healthy plants.
 
 [[powdery-mildew-cannabis]] - general powdery mildew guide
-- [[cervantes-downy-mildew-fungal-blight]] - downy mildew
+- [[cervantes-downy-mildew-fungal-blight]] - [[cervantes-downy-mildew-fungal-blight]]
   identification
 - [[cervantes-ventilation-fan-carbon-filter-setup]] - air
   circulation setup
 - [[ultra-low-herbal-smoker-greenhouse-pest-control]] - greenhouse
-  pest and disease prevention strategies
+  pest and [[cervantes-pest-disease-prevention-overview]] strategies
 ## Practical Considerations
 
 Successful implementation of Powdery Mildew on Cannabis - Prevention and Treatment (Cervantes) requires attention to
@@ -93,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

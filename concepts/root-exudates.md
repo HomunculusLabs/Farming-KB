@@ -22,12 +22,12 @@ Root exudates are analogous to perspiration in humans. They include:
 - **Carbohydrates and sugars**: The primary food source for soil bacteria and fungi
 - **Proteins and amino acids**: Additional nutrients for microbial growth
 - **Organic acids**: Can chelate metals, making [[micronutrient-deficiency-symptoms|micronutrients]] more available, or lower soil pH around the root
-- **Enzymes**: Help break down organic matter in the rhizosphere
+- **Enzymes**: Help break down [[hamilton-composting-and-organic-matter-management]] in the rhizosphere
 - **Growth factors and signaling compounds**: Attract specific beneficial microbes
 
 ## The Rhizosphere
 
-All exudate secretion takes place in the rhizosphere -- a zone immediately around the roots, extending out about a tenth of an inch (a couple of millimeters). Under an electron microscope, the rhizosphere can look like a jelly or jam. It contains a constantly changing mix of soil organisms including bacteria, fungi, nematodes, protozoa, and even larger organisms, all competing for exudates, water, and mineral content.
+All exudate secretion takes place in the rhizosphere -- a zone immediately around the roots, extending out about a tenth of an inch (a couple of millimeters). Under an [[bloomfield-ascospore-extreme-resilience-electron-microscope-survival]], the rhizosphere can look like a jelly or jam. It contains a constantly changing mix of soil organisms including bacteria, fungi, nematodes, protozoa, and even larger organisms, all competing for exudates, water, and mineral content.
 
 ## How Exudates Control Soil Biology
 
@@ -36,7 +36,7 @@ Plants are in control of the soil food web. Studies indicate that individual pla
 - **The numbers** of fungi and bacteria attracted to the rhizosphere
 - **The types** of fungi and bacteria attracted (different exudate compositions select for different organisms)
 
-During different times of the growing season, populations of rhizosphere bacteria and fungi wax and wane depending on the plant's nutrient needs and the exudates it produces. This is why different plants growing side by side support completely different soil food webs.
+During different times of the [[savory-growing-season-and-non-growing-season-management]], populations of [[lowenfels-rhizosphere-bacteria-plant-interaction]] and fungi wax and wane depending on the plant's nutrient needs and the exudates it produces. This is why different plants growing side by side support completely different soil food webs.
 
 ## The Nutrient Cycling Cycle
 
@@ -58,13 +58,13 @@ This cycle has fueled plants since they evolved. Soil life provides the nutrient
 Plants can modify their root exudates to deal with specific nutrient challenges:
 
 - **Iron stress**: Plants increase exudates that boost populations of siderophore-producing bacteria, which [[chelated-nutrients|chelate]] iron and make it available
-- **Phosphorus deficiency**: Exudates include organic acids that can solubilize phosphorus compounds
+- **[[query-how-to-fix-phosphorus-deficiency-in-cannabis]]**: Exudates include organic acids that can solubilize phosphorus compounds
 - **Toxic elements**: Plants exude chelating agents that bind metals, gathering them up and preventing unwanted uptake
 - **pH management**: Plant roots export hydrogen ions to create acidic conditions that improve iron availability
 
 ## Exudates and Mycorrhizae
 
-[[mycorrhizal-inoculation|Mycorrhizal fungal]] spores only germinate when they receive root exudates. The plant essentially "calls" for fungal partners by sending chemical signals. The fungi then grow toward the root and form the symbiotic association. The plant provides carbohydrates through exudates, and the fungi provide phosphorus, nitrogen, copper, zinc, and other nutrients in return.
+[[mycorrhizal-inoculation|Mycorrhizal fungal]] spores only germinate when they receive root exudates. The plant essentially "calls" for fungal partners by sending [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]. The fungi then grow toward the root and form the symbiotic association. The plant provides carbohydrates through exudates, and the fungi provide phosphorus, nitrogen, copper, zinc, and other nutrients in return.
 
 ## Sloughed Root Cells
 

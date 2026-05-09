@@ -1,5 +1,5 @@
 ---
-title: Amazonian Graded Powers and the Seven Rays of Wisdom
+title: Amazonian amazonian graded powers and the seven rays of wisdom and the Seven Rays of Wisdom
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -15,9 +15,9 @@ Vision 49 of Pablo Amaringo's ayahuasca paintings reveals a cosmological framewo
 
 ### Ray 1: Humus (Light Green)
 
-The lowest ray represents the earth itself — humus, the organic matter of soil. Here are found animals (quadrupeds and birds), plants, and the basic powers available to beginning vegetalistas. This is the foundation: the material world and its living inhabitants that the shaman first learns to work with.
+The lowest ray represents the earth itself — humus, the [[hamilton-composting-and-organic-matter-management]] of soil. Here are found animals (quadrupeds and birds), plants, and the basic powers available to beginning vegetalistas. This is the foundation: the material world and its living inhabitants that the shaman first learns to work with.
 
-This foundational ray corresponds to the everyday world of [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]] of Amazonian shamanism, where different ranks of practitioners are associated with different types and levels of spiritual power. The colours of the pulsations correspond to visible spectrum phenomena, suggesting that the system maps altered states of consciousness onto a cosmological framework.
+This foundational ray corresponds to the everyday world of [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]] of [[mckenna-food-gods-amazonian-shamanism-ayahuasca]], where different ranks of practitioners are associated with different types and levels of spiritual power. The colours of the pulsations correspond to visible spectrum phenomena, suggesting that the system maps [[weil-the-natural-mind-altered-states-normalcy]] of consciousness onto a cosmological framework.
 
 ## The Three-Temple Initiation
 
@@ -111,4 +111,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

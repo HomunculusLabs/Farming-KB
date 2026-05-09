@@ -1,5 +1,5 @@
 ---
-title: "Onygenales - Keratinophilic and Systemic Pathogenic Fungi"
+title: "Onygenales - Keratinophilic and onygenales keratinophilic systemic [[cordyceps-insect-pathogenic-fungi]] Fungi"
 created: 2026-04-26
 tags:
   - ascomycota
@@ -39,7 +39,7 @@ ecological importance:
 - **Onygenaceae**: Includes Ajellomyces and its anamorphs
   Blastomyces, Histoplasma, and Paracoccidioides -- the agents
   of blastomycosis, histoplasmosis, and paracoccidioidomycosis.
-  Also includes Coccidioides immitis (valley fever) and
+  Also includes [[coccidioides-immitis]] (valley fever) and
   Onygena species.
 - **Gymnoascaceae**: Contains the genus Arachnomyces and
   related taxa, including Gymnoascus and related keratinophilic
@@ -75,17 +75,17 @@ most virulent fungi known. These fungi cause disease by converting
 from a filamentous mold form in the environment to a budding yeast
 form within host tissues at body temperature:
 
-- **Blastomyces dermatitidis**: Endemic to boreal eastern Canada
+- **[[blastomyces-dermatitidis]]**: Endemic to boreal eastern Canada
   and adjacent northern Wisconsin/Michigan, and a more southerly
   zone from Kentucky through Arkansas. Also found in southern
   Africa. It is specific to riparian and rodent-influenced
   habitats containing soil and plant debris.
-- **Histoplasma capsulatum**: Indigenous to the Mississippi
+- **[[histoplasma-capsulatum]]**: Indigenous to the Mississippi
   River valley, strongly associated with depositions of bird
-  or bat guano. Also occurs in Central and South America and
+  or bat guano. Also occurs in Central and [[guzman-psilocybin-mushrooms-south-america]] and
   Africa. An African/Eurasian variety causes epizootic disease
   in equines.
-- **Paracoccidioides brasiliensis**: Associated with moist soils
+- **[[paracoccidioides-brasiliensis]]**: Associated with moist soils
   in humid, forested areas from southern Mexico through South
   America. Seldom isolated except from infected humans.
 - **Coccidioides immitis**: Occurs primarily in desert soils of
@@ -104,7 +104,7 @@ or ascospores that may infect additional vertebrates.
 Beyond the pathogens, the Onygenales includes numerous
 keratinophilic (keratin-degrading) saprobes that play important
 roles in the decomposition of hair, feathers, nails, and other
-keratinous materials in soil. These fungi contribute to nutrient
+keratinous materials in soil. These [[query-how-do-fungi-contribute-to-carbon-sequestration]] to nutrient
 cycling, particularly in pastures and other environments where
 animal materials accumulate. Genera such as Amauroascus,
 Auxarthron, and Renispora are common keratinophilic Onygenales

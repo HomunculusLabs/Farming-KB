@@ -1,5 +1,5 @@
 ---
-title: Western Spiritual Tourism Chronology
+title: Western western spiritual tourism chronology Chronology
 created: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -15,7 +15,7 @@ tags:
 
 # Western Spiritual Tourism Chronology
 
-Western seekers have pursued alternative spiritual traditions
+[[ayahuasca-tourism-western-seekers-and-integration]] have pursued alternative spiritual traditions
 outside their Judeo-Christian heritage for decades, each
 generation gravitating toward a different imported tradition.
 This chronological pattern reveals persistent cultural
@@ -51,7 +51,7 @@ The 1960s saw the hippie generation pivot toward Hinduism.
 Gurus like Maharishi Mahesh Yogi, who briefly attracted
 the Beatles, and Meher Baba gained enormous followings
 among young Westerners. The combination of psychedelic
-exploration and Indian spiritual philosophy created a
+exploration and Indian [[fukuoka-spiritual-philosophy-farming]] created a
 potent cultural moment.
 
 Travel to India became a rite of passage for
@@ -112,13 +112,13 @@ practices. Core shamanism, a distilled version of
 indigenous practices adapted for Western use, spread
 through workshops and training programs.
 
-Ayahuasca tourism began in earnest during this period.
+[[stuart-r-ayahuasca-tourism-cautionary-ethnography]] began in earnest during this period.
 The combination of growing interest in shamanism and
 improving travel infrastructure in South America made
 it feasible for Westerners to seek out ayahuasca
 experiences in their countries of origin. Iquitos, Peru
 became an early hub for this emerging form of spiritual
-tourism, drawing visitors from North America and Europe.
+tourism, drawing visitors from [[psilocybin-north-america-pacific-northwest]] and Europe.
 
 ## Ayahuasca Tourism and the Contemporary Period
 
@@ -129,7 +129,7 @@ industry with established pricing tiers, tourist
 infrastructure, and recurring patterns of interaction
 between Western seekers and local practitioners.
 
-The Brazilian ayahuasca churches, particularly Santo
+The [[metzner-barquinha-umbanda-and-afro-brazilian-ayahuasca-syncretism]] churches, particularly Santo
 Daime, offered an alternative to Peruvian-style shamanic
 
 ## See also

@@ -34,11 +34,11 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 - Cylindrical, equal or slightly thicker at the base
 - Color: pale yellowish to brownish
 - Surface covered with fine whitish fibrils
-- Strong bluing reaction when handled or bruised, especially at the base
+- Strong [[field-guide-psilocybin-bluing-reaction-identification]] when handled or bruised, especially at the base
 - No annulus (ring) present
 
 ### Spores
-- Spore print: dark purplish-brown to nearly black
+- [[comparison-spore-print-collection-vs-spore-syringe-production]]: dark purplish-brown to nearly black
 - Spores: ellipsoid to slightly oblong
 - 12 to 15 × 7 to 9 µm
 - Thick-walled with a distinct apical germ pore
@@ -63,7 +63,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 - Elevation range: typically 500 to 1,500 meters above sea level
 
 ### Climate
-- Associated with Mediterranean climate zones characterized by warm, dry summers and cool, wet winters
+- Associated with Mediterranean [[mollison-climate-zones-permaculture-strategies]] characterized by warm, dry summers and cool, wet winters
 - Requires prolonged autumn rainfall to initiate fruiting
 
 ## Chemistry
@@ -83,7 +83,7 @@ Several European Psilocybe species could be confused with **P. graecia**:
 
 ## Identification Notes
 
-Definitive identification of **P. graecia** requires microscopic examination of spore size and shape, cystidia morphology, and preferably molecular analysis (ITS sequencing). Field identification based on macroscopic features alone is unreliable given the similarity to other bluing psilocybes.
+Definitive identification of **P. graecia** requires [[fungal-microscopic-examination-mounting-media-techniques]] of spore size and shape, cystidia morphology, and preferably molecular analysis (ITS sequencing). Field identification based on macroscopic features alone is unreliable given the similarity to other bluing psilocybes.
 
 Key diagnostic features include:
 - Mediterranean distribution
@@ -91,7 +91,7 @@ Key diagnostic features include:
 
 ## See Also
 
-- [[psilocybe-semilanceata]] — the most widespread European liberty cap
+- [[psilocybe-semilanceata]] — the most widespread European [[peter-mantle-liberty-cap-chromatographic-discovery-1969]]
 - [[psilocybin]] — primary psychoactive compound
 - gastón-guzmán — taxonomist who catalogued global psilocybian fungi
-- [[magic-mushroom-global-distribution]] — key reference for global distribution data
+- [[magic-mushroom-global-distribution]] — key reference for [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]] data

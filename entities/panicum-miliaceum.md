@@ -47,13 +47,13 @@ It grows on a wide range of soil types including sandy, loamy, and marginal soil
 
 ## Cultivation
 
-Proso millet is direct-seeded at rates of 10–20 kg/ha, with row spacing of 20–30 cm. Seed depth should not exceed 2–3 cm, as the small seeds lack energy for deep emergence.
+Proso millet is direct-seeded at rates of 10–20 kg/ha, with [[wide-row-spacing-intensive-gardening-comparison]] of 20–30 cm. Seed depth should not exceed 2–3 cm, as the small seeds lack energy for deep emergence.
 
-The crop has a short growing season of 60–90 days, allowing it to fit into double-cropping systems or serve as a catch crop after early-season crop failures. Late plantings can still produce grain when other cereals cannot mature.
+The crop has a short [[savory-growing-season-and-non-growing-season-management]] of 60–90 days, allowing it to fit into double-cropping systems or serve as a catch crop after early-season crop failures. Late plantings can still produce grain when other cereals cannot mature.
 
 Nitrogen requirements are moderate at 40–60 kg/ha. Excessive nitrogen application promotes lodging and delays maturity. Phosphorus and potassium needs are relatively low compared to other cereal crops.
 
-Weed competition is the primary production constraint during the first 3–4 weeks after emergence. The slow early growth rate makes proso millet susceptible to weed pressure until the crop canopy closes.
+Weed competition is the [[lichens-primary-production-soil-formation-dighton]] constraint during the first 3–4 weeks after emergence. The slow early growth rate makes proso millet susceptible to weed pressure until the crop canopy closes.
 
 Harvest occurs when grain moisture reaches 13–15%, typically 75–90 days after sowing. Combine harvesting is straightforward due to the uniform maturity and free-threshing nature of the grain.
 
@@ -75,7 +75,7 @@ The crop spread along trade routes to the Caucasus, eastern Europe, and eventual
 
 In East Asia, proso millet was one of the "five grains" of traditional Chinese agriculture, alongside rice, wheat, barley, and soybean. It was used for both food and fermented beverages.
 
-The introduction of maize and potatoes to Europe during the Columbian Exchange led to a decline in proso millet cultivation. By the 20th century, it had been reduced to a minor crop in most regions, grown primarily for birdseed.
+The introduction of maize and potatoes to Europe during the [[psilocybe-cubensis-biogeography-columbian-exchange-hypothesis]] led to a decline in proso millet cultivation. By the 20th century, it had been reduced to a minor crop in most regions, grown primarily for birdseed.
 
 Recent interest in proso millet has been driven by growing demand for gluten-free grains and recognition of its climate resilience. Research programs in China, India, and the United States are developing improved varieties with higher yields and better nutritional profiles.
 
@@ -85,7 +85,7 @@ The most significant insect pest of proso millet is the millet head miner (*Heli
 
 Fungal diseases include smut (*Sphacelotheca destruens*), which replaces grain heads with dark spore masses, and leaf spot caused by *Cercospora* species. Downy mildew (*Sclerospora graminicola*) can devastate seedlings under cool, wet conditions.
 
-Crop rotation and clean seed practices are the primary disease management strategies. Fungicidal seed treatments are effective against smut but are rarely economical for subsistence-scale production.
+Crop rotation and clean seed practices are the primary [[plant-disease-management-solomon]] strategies. Fungicidal seed treatments are effective against smut but are rarely economical for subsistence-scale production.
 
 ## Uses Beyond Food
 
@@ -101,7 +101,7 @@ Research into proso millet starch properties has revealed unique gelatinization 
 
 Proso millet is increasingly studied as a model organism for C4 photosynthesis research due to its compact genome and short life cycle. Its genetic resources have been expanding through international germplasm exchange programs.
 
-In organic farming systems, proso millet serves as an effective break crop between cereal rotations, disrupting weed and disease cycles. Its low input requirements align well with organic production standards.
+In [[coleman-deep-organic-farming-philosophy]] systems, proso millet serves as an effective break crop between cereal rotations, disrupting weed and disease cycles. Its low input requirements align well with organic production standards.
 
 ## See Also
 

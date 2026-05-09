@@ -32,17 +32,17 @@ Burying woody material locks carbon into the soil profile for years to decades. 
 Decomposing wood acts like a sponge, absorbing and holding water during rainfall or irrigation. In a mature hugel bed, the buried wood can hold **several hundred liters of water per cubic meter** of bed volume. This stored water is slowly released to plant roots through capillary action (wicking), significantly reducing irrigation needs — particularly valuable in arid climates or during drought conditions.
 
 ### 3. Thermal Mass and Microclimate
-The decomposition process generates heat, creating a **thermal buffer** that can extend the growing season by 2–4 weeks in spring and fall. The raised mound profile also improves drainage and air circulation around plants, reducing fungal disease risk.
+The decomposition process generates heat, creating a **thermal buffer** that can [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season by 2–4 weeks in spring and fall. The raised mound profile also improves drainage and air circulation around plants, reducing fungal disease risk.
 
 ### 4. Mycelial Networks and Soil Biology
 Woody material buried in the soil becomes a primary substrate for **saprotrophic fungi** (especially white-rot and brown-rot fungi), which form extensive mycelial networks. These networks:
 - Break down lignin and cellulose into plant-available forms
-- Connect plant roots in **mycorrhizal associations**, facilitating nutrient exchange
+- Connect plant roots in **mycorrhizal associations**, facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]
 - Create soil structure through glomalin production (a sticky glycoprotein that aggregates soil particles)
 - Support diverse bacterial, protozoan, and invertebrate communities
 
 ### 5. Sheet Composting In Situ
-Rather than composting organic material in a separate pile and transporting finished compost, hugelkultur composts directly in the growing bed. This eliminates the labor of turning compost piles, reduces nutrient losses from leaching and volatilization, and places the decomposition process exactly where plants need it.
+Rather than [[comparison-vermicomposting-vs-composting-organic-garden]] material in a separate pile and transporting finished compost, hugelkultur composts directly in the growing bed. This eliminates the labor of turning compost piles, reduces nutrient losses from leaching and volatilization, and places the decomposition process exactly where plants need it.
 
 ## Construction Methods
 
@@ -62,7 +62,7 @@ In windy, arid, or cold climates, a sunken version provides advantages:
 - Dig a trench 30–60 cm deep
 - Fill with the same woody layering sequence
 - Top with soil to ground level or slightly above
-- Benefits: Wind protection, reduced water evaporation, easier irrigation, frost protection
+- Benefits: Wind protection, reduced water evaporation, easier irrigation, [[holzer-frost-protection-techniques]]
 
 ### Contained Hugel Bed
 
@@ -105,7 +105,7 @@ For urban or space-limited settings:
 
 ### Planting Strategies
 
-**Year 1**: Initial decomposition draws nitrogen (immobilization). Best crops: legumes (beans, peas, clover), potatoes, squash. Top-dress with nitrogen-rich compost. **Year 2+**: Bed becomes increasingly fertile; suitable for nearly all vegetables, herbs, and berries. Perennials (asparagus, berry bushes, fruit trees) benefit from long-term fertility. Companion planting works well: nitrogen fixers near heavy feeders, deep-rooted plants (comfrey, daikon) for moisture access, ground covers to reduce evaporation.
+**Year 1**: Initial decomposition draws nitrogen (immobilization). Best crops: legumes (beans, peas, clover), potatoes, squash. Top-dress with nitrogen-rich compost. **Year 2+**: Bed becomes increasingly fertile; suitable for nearly all vegetables, herbs, and berries. Perennials (asparagus, berry bushes, fruit trees) benefit from long-term fertility. [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] works well: nitrogen fixers near heavy feeders, deep-rooted plants (comfrey, daikon) for moisture access, ground covers to reduce evaporation.
 
 ## Climate-Specific Adaptations
 
@@ -120,7 +120,7 @@ For urban or space-limited settings:
 - **Fertility**: Self-fertilizing for 5–20 years; minimal external inputs needed
 - **Soil building**: Creates deep, well-structured, biologically active soil
 - **Waste utilization**: Converts brush, fallen trees, and woody debris into productive growing space
-- **Erosion control**: Mounds intercept and slow water runoff on slopes
+- **[[permplant-willows-salix-erosion-control-fodder]]**: Mounds intercept and slow water runoff on slopes
 - **Season extension**: Thermal mass moderates soil temperature
 - **No-till**: Permanent bed system that avoids soil disturbance
 - **Carbon sequestration**: Buries carbon that would otherwise be burned or landfilled
@@ -138,10 +138,11 @@ For urban or space-limited settings:
 
 - **Keyhole garden**: Circular hugel bed with central compost basket (African permaculture)
 - **Swale + hugel**: Water-harvesting swales with hugel mounds on the berm
-- **Wofati**: Paul Wheaton's earth-bermed passive solar structure incorporating hugel principles
-- **Hugelbeet**: German permaculture variant with optimized coniferous/deciduous wood ratios
 ## See Also
 
 - [[sepp-holzer-entity]] — Austrian farmer who popularized hugelkultur in modern permaculture
 - [[sheet-mulching]] — Surface composting technique often used in combination with hugelkultur
-- [[gaias-garden-swales-and-berms-construction]] — Water-harvesting earthworks complementary to hugel beds
+- gaias-garden-swales-and-berms-construction — Water-harvesting earthworks complementary to hugel beds
+- [[saprotrophic-fungi]]
+- [[decomposition]]
+- [[juglans-nigra]]

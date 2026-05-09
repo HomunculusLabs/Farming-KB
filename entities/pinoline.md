@@ -24,7 +24,7 @@ created: 2026-05-07
 
 Pinoline, chemically known as 6-methoxy-1,2,3,4-tetrahydro-β-carboline (6-MeO-THBC), is an endogenously occurring β-carboline alkaloid found in the mammalian brain, with the highest concentrations in the pineal gland. It was first identified in human platelets by Shoemaker and colleagues in 1978 and has since been the subject of considerable neuropharmacological research.
 
-Pinoline acts as a reversible monoamine oxidase A inhibitor (RIMA) and binds to several monoamine receptors, including 5-HT1A, 5-HT2A/2C, and imidazoline receptors. Its endogenous presence, psychoactive potential, and structural relationship to harmala alkaloids have made it a compound of interest in consciousness research and sleep regulation studies.
+Pinoline acts as a reversible monoamine oxidase A inhibitor (RIMA) and binds to several monoamine receptors, including 5-HT1A, 5-HT2A/2C, and imidazoline receptors. Its endogenous presence, psychoactive potential, and [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to [[turner-harmala-alkaloids-preparation-and-dosage]] have made it a compound of interest in consciousness research and sleep regulation studies.
 
 ## Chemical Properties
 
@@ -42,7 +42,7 @@ Pinoline is formed endogenously through a Pictet-Spengler condensation between s
 
 **Monoamine oxidase inhibition:** Pinoline is a reversible inhibitor of MAO-A (RIMA), selectively inhibiting the A isoform over MAO-B. This selectivity profile is shared with pharmaceutical MAOIs like moclobemide. MAO-A inhibition increases synaptic levels of serotonin, norepinephrine, and dopamine.
 
-**Receptor binding profile:**
+**[[tihkal-receptor-binding-serotonin]] profile:**
 
 - **5-HT1A:** Moderate affinity (Ki ≈ 200–400 nM) — Anxiolytic effects, possible role in sleep regulation.
 - **5-HT2A:** Low-moderate affinity (Ki ≈ 1–5 µM) — Weak psychedelic potential at high concentrations.
@@ -82,7 +82,7 @@ Most researchers consider the endogenous pinoline contribution to ayahuasca phar
 
 ## Legal Status
 
-Pinoline is not specifically scheduled in most jurisdictions. As an endogenous compound, it occupies a legal gray area. In the United States, it is not listed on the DEA Controlled Substances Act.
+Pinoline is not specifically scheduled in most jurisdictions. As an endogenous compound, it occupies a legal gray area. In the United States, it is not listed on the DEA Controlled [[controlled-substances-act-and-psychedelic-research]].
 
 The Federal Analog Act could theoretically apply if pinoline were sold for human consumption as a psychoactive substance, though there are no documented cases of enforcement against pinoline specifically. It is available from some research chemical suppliers for laboratory use.
 
@@ -90,9 +90,9 @@ The Federal Analog Act could theoretically apply if pinoline were sold for human
 
 Research into pinoline's therapeutic potential has focused on several areas, though clinical data remains limited.
 
-**Sleep disorders:** The compound's endogenous role in pineal function and its MAO-A inhibitory profile have prompted interest in its application to insomnia and circadian rhythm disorders. The mild sedation observed in clinical studies supports this application, though no drug development programs have advanced to late-stage trials.
+**[[cannabis-sleep-disorders-and-insomnia]]:** The compound's endogenous role in pineal function and its MAO-A inhibitory profile have prompted interest in its application to insomnia and circadian rhythm disorders. The mild sedation observed in clinical studies supports this application, though no drug development programs have advanced to late-stage trials.
 
-**Neuroprotection:** Pinoline's affinity for imidazoline I₂ receptors and sigma-1 receptors suggests potential neuroprotective properties. In vitro studies have demonstrated protection against oxidative stress in neuronal cell cultures, possibly through MAO-A inhibition reducing reactive oxygen species generation.
+**Neuroprotection:** Pinoline's affinity for imidazoline I₂ receptors and sigma-1 receptors suggests potential neuroprotective properties. In vitro studies have demonstrated protection against [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in neuronal cell cultures, possibly through MAO-A inhibition reducing reactive oxygen species generation.
 
 **Depression and anxiety:** The combined MAO-A inhibition and 5-HT1A receptor agonism produce an anxiolytic and antidepressant-like profile in animal models. However, the relatively weak potency compared to established antidepressants limits its viability as a standalone therapeutic agent.
 

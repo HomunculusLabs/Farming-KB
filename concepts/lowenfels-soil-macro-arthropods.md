@@ -17,7 +17,7 @@ web, they occupy the third and higher trophic levels as consumers of fungi,
 bacteria, protozoa, nematodes, and each other. The soil arthropod community is
 divided into microarthropods (mites, springtails, and their kin) and
 macroarthropods (beetles, ants, millipedes, centipedes, spiders, and others).
-While often overlooked, they are essential for nutrient cycling, soil structure,
+While often overlooked, they are essential for [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], soil structure,
 and [[soil-food-web]] health.
 
 **Ants (Formicidae)** -- Ants are [[ozier-pdc-composting-and-soil-building]]. When macroarthropods chew
@@ -32,10 +32,10 @@ original material, making nitrogen more available.
 ## Disease Suppression
 
 Many soil arthropods are predators that help regulate potential pest
-populations. Ground beetles, centipedes, and predatory mites consume root-feeding
+populations. Ground beetles, centipedes, and [[comparison-predatory-mites-vs-ladybugs-biocontrol]] consume root-feeding
 nematodes, insect larvae, and other pests. Fungal-feeding mites can reduce
 pathogenic fungal populations by grazing hyphae. The presence of diverse
-arthropod communities is one of the best natural defenses against soil-borne
+arthropod communities is one of the [[query-what-are-the-best-natural-building-methods]] defenses against soil-borne
 diseases and pests.
 
 ## Sensitivity to Disturbance
@@ -46,7 +46,7 @@ soil structure they help create. Pesticides and [[ingham-field-guide-soil-food-w
 
 ## Arthropods as Bioindicators
 
-Soil arthropod communities serve as sensitive bioindicators of soil health and ecosystem function. The ratio of fungal-feeding to bacterial-feeding microarthropods can indicate whether the soil food web is fungal-dominated (typical of perennial systems, forests, and no-till agriculture) or bacterial-dominated (typical of disturbed soils and annual crop systems). Oribatid mite diversity in particular is a well-established index of soil quality and habitat stability — these slow-reproducing mites take 2-3 years to complete their life cycles and disappear rapidly from tilled or chemically treated soils. The QBS (Qualità Biologica del Suolo) index, developed in Italy, uses soil microarthropod group diversity and ecological adaptation levels as a quantitative measure of soil biological quality. In [[permaculture-design]], monitoring arthropod populations provides a practical, low-cost method for tracking the success of soil-building interventions over time.
+Soil arthropod communities serve as sensitive bioindicators of soil health and ecosystem function. The ratio of fungal-feeding to bacterial-feeding microarthropods can indicate whether the soil food web is fungal-dominated (typical of perennial systems, forests, and no-till agriculture) or bacterial-dominated (typical of disturbed soils and annual crop systems). Oribatid mite diversity in particular is a well-established index of soil quality and habitat stability — these slow-reproducing mites take 2-3 years to complete their [[bloomfield-rust-fungi-life-cycles-barberry-wheat]] and disappear rapidly from tilled or chemically treated soils. The QBS (Qualità Biologica del Suolo) index, developed in Italy, uses soil microarthropod group diversity and ecological adaptation levels as a quantitative measure of soil biological quality. In [[permaculture-design]], monitoring arthropod populations provides a practical, low-cost method for tracking the success of soil-building interventions over time.
 ## Practical Considerations
 
 When working with Soil Macro-Arthropods, several practical factors should be
@@ -63,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +105,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

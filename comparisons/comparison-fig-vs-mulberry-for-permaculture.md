@@ -1,22 +1,9 @@
 ---
-title: 'Fig vs Mulberry for Permaculture'
-created: 2026-04-28
-tags: [fig, mulberry, fruit-trees, permaculture, food-forest, comparison]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Hemenway, Toby. Gaia's Garden: A Guide to Home-Scale Permaculture, 2nd Ed. Chelsea Green, 2009."
-  - "Jacke, Dave, and Eric Toensmeier. Edible Forest Gardens, Vol. 1. Chelsea Green, 2005."
-  - "Creasy, Rosalind. Landscaping with Fruit. Storey Publishing, 2009."
-  - "Starnes, Blake. 'Morus spp.' USDA NRCS Plant Guide, 2020."
-  - "Morton, Julia F. Figs. New Crop Resource Online Program, Purdue University, 1987."
-  - "Cornell University College of Agriculture and Life Sciences. 'Mulberry Production Guide', 2022."
-type: comparison
----
 
+---
 # Fig vs Mulberry for Permaculture
 
-Figs (*Ficus carica*) and mulberries (*Morus spp.*) are two of the most productive and low-maintenance fruit trees available to the permaculture designer. Both produce abundant, delicious fruit with minimal care, support wildlife, and integrate well into food forest systems. This comparison covers their key differences to help you choose the right tree — or plant both.
+Figs (*Ficus carica*) and mulberries (*Morus spp.*) are two of the most productive and low-maintenance fruit trees available to the permaculture designer. Both produce abundant, delicious fruit with minimal care, support wildlife, and integrate well into food forest systems. This comparison covers their key differences to help you [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] tree — or plant both.
 
 ## Quick-Reference Comparison Table
 
@@ -30,7 +17,7 @@ Figs (*Ficus carica*) and mulberries (*Morus spp.*) are two of the most producti
 | **Time to first fruit** | 1–3 years | 3–5 years (from seed); 1–2 years from cuttings |
 | **Lifespan** | 30–50+ years (often longer in mild climates) | 50–100+ years |
 | **Soil pH** | 6.0–8.0 | 5.5–7.0 |
-| **Drought tolerance** | High once established | Moderate to high |
+| **[[dighton-fungal-drought-tolerance-plant-water-relations]]** | High once established | Moderate to high |
 | **Pest/disease resistance** | Very good; fig beetle can be an issue | Excellent; few serious pests |
 | **Propagation** | Easy from hardwood cuttings | Easy from softwood/hardwood cuttings |
 | **Container suitability** | Excellent | Fair to moderate |
@@ -44,7 +31,7 @@ Figs grow at a moderate to fast pace, typically reaching 3–6 m in cultivation 
 
 ## Climate Range and Cold Hardiness
 
-This is the most significant differentiator between the two. Mulberries — especially Russian mulberry (*[[food-forest-establishment]].
+This is the most significant differentiator between the two. Mulberries — especially Russian mulberry (*food-forest-establishment.
 
 ## Wildlife Value
 
@@ -76,7 +63,7 @@ Both trees fit the canopy or sub-canopy layer. Figs are ideal near south-facing 
 
 ## Complementary Functions in Polyculture
 
-Beyond fruit production, both trees serve multiple functions in a permaculture design. Figs drop leaf litter that builds soil organic matter quickly, and their broad leaves provide summer shade for understory plants. Mulberries, with their deep roots, mine minerals from subsoil layers and bring them to the surface via leaf fall. Both species produce mulch that decomposes rapidly, feeding soil microbes and supporting the fungal networks critical to food forest health.
+Beyond [[query-how-do-i-prune-brambles-for-maximum-fruit-production]], both trees serve multiple functions in a permaculture design. Figs drop leaf litter that builds [[humus-and-soil-organic-matter]] quickly, and their broad leaves provide summer shade for understory plants. Mulberries, with their deep roots, mine minerals from subsoil layers and bring them to the surface via leaf fall. Both species produce mulch that decomposes rapidly, feeding soil microbes and supporting the [[teaming-with-microbes-tilling-damage-to-fungal-networks]] critical to food forest health.
 
 ## Recommendations by Scenario
 
@@ -97,7 +84,7 @@ Beyond fruit production, both trees serve multiple functions in a permaculture d
 
 ---
 
-*Both figs and mulberries are among the most rewarding fruit trees a permaculturist can plant. The ideal approach in most temperate climates is to include both — letting mulberries dominate the canopy and figs fill warmer niches below. Together, they deliver months of fruit, minimal maintenance, and enormous ecological value.*
+*Both figs and mulberries are among the most rewarding [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] a permaculturist can plant. The ideal approach in most [[fukuoka-natural-farming-temperate-climates]] is to include both — letting mulberries dominate the canopy and figs fill warmer niches below. Together, they deliver months of fruit, minimal maintenance, and enormous ecological value.*
 
 ## See Also
 

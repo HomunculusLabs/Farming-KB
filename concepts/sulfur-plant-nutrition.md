@@ -4,17 +4,18 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [reference]
-sources: []
+sources:
+  sources: []
 ---
 
 # Sulfur and Other Secondary Nutrients in Plant Nutrition
 
-Sulfur (S) is often called the "fourth macronutrient" alongside N, P, and K. It plays essential roles in protein synthesis, enzyme function, and plant defense. Despite its importance, sulfur deficiency is increasingly common due to reduced industrial sulfur emissions.
+Sulfur (S) is often called the "fourth macronutrient" alongside N, P, and K. It plays essential roles in protein synthesis, enzyme function, and plant defense. Despite its importance, [[query-how-to-fix-sulfur-deficiency-in-cannabis]] is increasingly common due to reduced industrial sulfur emissions.
 
 ## Sulfur (S)
 
 ### Functions in Plants
-- **Amino acid synthesis:** Essential component of cysteine and methionine (two of the 20 amino acids)
+- **[[cho-fish-amino-acid-preparation]] synthesis:** Essential component of cysteine and methionine (two of the 20 amino acids)
 - **Protein structure:** Disulfide bonds between cysteine residues stabilize protein tertiary structure
 - **Coenzymes and vitamins:** Component of coenzyme A, biotin, thiamine, and glutathione
 - **Chlorophyll:** Required for chlorophyll formation
@@ -31,7 +32,7 @@ Sulfur (S) is often called the "fourth macronutrient" alongside N, P, and K. It 
 
 ### Sources
 - **Atmospheric deposition:** Historically important; declining due to pollution controls
-- **Organic matter:** Contains 0.5-1.0% S; released during decomposition
+- **[[hamilton-composting-and-organic-matter-management]]:** Contains 0.5-1.0% S; released during decomposition
 - **Compost:** Good source
 - **Elemental sulfur:** Slow-release; acidifying (used to lower soil pH)
 - **Gypsum (CaSO4):** Supplies S + Ca without affecting pH
@@ -47,7 +48,7 @@ Sulfur (S) is often called the "fourth macronutrient" alongside N, P, and K. It 
 
 ## The Growing Sulfur Deficiency Problem
 
-Historically, sulfur deficiency was rare because industrial SO2 emissions provided 20-80 kg S/ha/year through atmospheric deposition. Air quality regulations have dramatically reduced these emissions, revealing sulfur deficiency in many areas:
+Historically, sulfur deficiency was rare because industrial SO2 emissions provided 20-80 kg S/ha/year through atmospheric deposition. [[cervantes-air-quality-ventilation]] regulations have dramatically reduced these emissions, revealing sulfur deficiency in many areas:
 - Parts of the Great Plains and Pacific Northwest
 - Areas with high rainfall and sandy soils
 - Crops with high sulfur demand (brassicas, legumes, forages)
@@ -65,7 +66,7 @@ Historically, sulfur deficiency was rare because industrial SO2 emissions provid
 ### Iron (Fe) — Often Classified as a Micronutrient
 Despite being needed in relatively large amounts (50-200 ppm in plant tissue), iron is usually considered a micronutrient because deficiency is primarily about availability, not quantity. See [[ozier-pdc-composting-and-soil-building]] and [[soil-testing-methods-interpretation]] now routinely include sulfur analysis
 5. Watch for sulfur deficiency symptoms, especially in brassicas and legumes
-6. Epsom salt foliar sprays can provide quick S + Mg correction
+6. Epsom salt [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] can provide quick S + Mg correction
 
 ### Sulfur-Nitrogen Relationship
 S and N are closely linked because both are components of amino acids and proteins. Optimal N:S ratio in plant tissue is typically 10:1 to 15:1. High N fertilization without adequate S leads to:

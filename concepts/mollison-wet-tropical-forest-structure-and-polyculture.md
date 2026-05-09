@@ -1,5 +1,5 @@
 ---
-title: "Wet Tropical Forest Structure and Polyculture Design"
+title: "Wet arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration Structure and aquatic-polyculture-design-mollison"
 created: 2026-04-26
 tags:
   - permaculture
@@ -18,7 +18,7 @@ type: concept
 
 The wet tropics cover about 10% of the earth's surface and 5%
 of the human population, encompassing the Amazon and Congo
-basins, Central America, Sri Lanka, Malaya, Borneo coasts,
+basins, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], Sri Lanka, Malaya, Borneo coasts,
 and New Guinea. Understanding the structure of wet tropical
 forests is essential to designing productive polyculture
 systems that emulate natural forest architecture.
@@ -88,7 +88,7 @@ Mollison specifies these critical design requirements:
 
 - Hygienic faeces disposal
 - Clean water sources
-- Integrated and benign insect control techniques
+- Integrated and benign [[mushroom-pests-insect-control-stamets]] techniques
 - Gradual replacement of ground crops by trees
 - Preservation of natural stands of trees
 - Development of river versus road traffic
@@ -101,7 +101,7 @@ Mollison specifies these critical design requirements:
 
 There is a wide range of specialist crop potential, from
 rubber (Hevea), betel-nut, chalmougra oil, and chicle to
-essential oils and medicinals. Many are suited to primary
+[[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] and medicinals. Many are suited to primary
 processing in remote locations, or conversion to commercial
 quality end-products. The high value of processed product
 enables smallholders or cooperatives to pool research and
@@ -126,7 +126,7 @@ foraging and insect control services. The guinea-pig aids small
 tree establishment by chipping the base of young grasses. Small
 pigs of Taiwanese strains provide orchard and fruit garden
 scavenging duties. Waterfowl and aquatic species add yields
-to water storages and assist in grass control.
+to water storages and assist in [[mollison-geese-grass-control-and-integrated-poultry]].
 
 ## Structural and Craft Materials
 
@@ -140,5 +140,8 @@ habitat.
 ## See Also
 
 - [[mollison-tropical-mulch-systems-and-materials]]
-- [[permaculture-designers-manual-tropical-climates]]
+- permaculture-designers-manual-tropical-climates
 - [[pdc-food-forest-layers-and-succession]]
+- [[cocos-nucifera]]
+- [[mollison-tropical-earth-shaping-polyculture-economics]]
+- [[mollison-designers-macadamia-nut-in-tropical-polyculture]]

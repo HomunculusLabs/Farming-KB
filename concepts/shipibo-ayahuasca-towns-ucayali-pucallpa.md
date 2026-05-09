@@ -1,5 +1,5 @@
 ---
-title: Shipibo Ayahuasca Towns Ucayali and Pucallpa
+title: san-francisco-shipibo-ayahuasca-ceremonial-center Towns Ucayali and Pucallpa
 created: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -21,15 +21,15 @@ The Ucayali region of Peru's Amazon basin has been
 a center of ayahuasca practice and tourism for
 decades. R. Stuart's 2002 field observations
 documented the ayahuasca landscape around Pucallpa,
-Yarina, and the Shipibo town of San Francisco,
+Yarina, and the Shipibo town of [[shipibo-san-francisco-ceremonial-center-ucayali]],
 providing an early ground-level account of the
-infrastructure supporting ayahuasca tourism.
+infrastructure supporting [[stuart-r-ayahuasca-tourism-cautionary-ethnography]].
 
 ## The Ucayali Region
 
 The Ucayali Department lies in eastern Peru, part
 of the broader Amazon basin. The region is
-characterized by lowland tropical forest, river
+characterized by lowland [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]], river
 systems, and a mixed population of indigenous
 Shipibo-Conibo people and mestizo settlers. The
 city of Pucallpa serves as the regional capital
@@ -57,7 +57,7 @@ ayahuasca tourism.
 
 Iquitos offered hotels, restaurants, and tour
 operators catering specifically to foreign
-visitors seeking ayahuasca ceremonies. The
+visitors seeking [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]]. The
 city's relative accessibility by air from Lima
 and its established reputation as an ayahuasca
 destination created a self-reinforcing cycle

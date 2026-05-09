@@ -11,7 +11,7 @@ sources: []
 ## Overview
 
 Arnica (*Arnica montana*) and calendula (*Calendula officinalis*) are two of
-the most widely used topical medicinal herbs in Western herbalism. Both belong
+the most widely used topical [[permaculture-plants-medicinal-herbs-healing]] in Western herbalism. Both belong
 to the Asteraceae family and share overlapping anti-inflammatory properties,
 yet they serve distinctly different purposes. Arnica excels at treating
 bruises, muscle soreness, and trauma-induced swelling, while calendula
@@ -50,10 +50,10 @@ practical to purchase dried flowers or prepared extracts.
 
 ## Calendula
 
-[[calendula-cultivation-and-medicinal-uses]]
+[[calendula-officinalis]]
 
 Calendula officinalis, commonly called pot marigold, is an annual or
-short-lived perennial that is one of the easiest medicinal herbs to grow.
+short-lived perennial that is one of the easiest medicinal [[query-what-are-the-best-anxiolytic-herbs-to-grow-at-home]].
 It thrives across USDA Zones 2 through 11, tolerating a wide range of
 soil types and blooming prolifically from spring through fall. The vibrant
 orange and yellow flower petals are rich in triterpenoid saponins
@@ -64,14 +64,14 @@ Calendula's primary medicinal action is promoting wound healing through
 stimulation of fibroblast proliferation, collagen synthesis, and
 angiogenesis. It also exhibits anti-inflammatory activity by inhibiting
 COX-2 and iNOS pathways, along with broad-spectrum antimicrobial activity
-against Staphylococcus aureus, E. coli, and Candida albicans. Unlike
+against Staphylococcus aureus, E. coli, and [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]. Unlike
 arnica, calendula is safe for both topical and internal use. The petals are
 edible, commonly added to salads, soups, and teas, and calendula tea is
 used internally for digestive support and lymphatic stimulation.
 
 Beyond medicine, calendula serves as an excellent companion plant. Its
-root exudates have nematicidal properties, its flowers attract pollinators
-and beneficial insects, and it acts as a trap crop for aphids. This
+[[mycorrhizal-root-exudates-pathogen-interactions]] have nematicidal properties, its flowers attract pollinators
+and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], and it acts as a trap crop for aphids. This
 multi-functionality makes it one of the most valuable plants in a
 permaculture garden.
 
@@ -104,7 +104,7 @@ makes an excellent compress for acute injuries.
 ## When to Choose Calendula
 
 Calendula is the better choice for open wounds, burns, rashes, and
-ongoing skin conditions. Its wound-healing properties make it ideal for
+ongoing [[cannabis-for-skin-conditions-detailed]]. Its wound-healing properties make it ideal for
 cuts, scrapes, abrasions, minor burns, and post-surgical incision care.
 Calendula salve or cream soothes diaper rash, eczema, dermatitis, and
 radiation burns in cancer patients. Because it is antimicrobial, calendula
@@ -124,6 +124,8 @@ For those with suitable conditions, arnica propagated from seed or division
 rewarded with a renewable supply of this valuable medicinal flower.
 
 ## See Also
+
+- [[comparison-mullein-vs-calendula]]
 
 - [[comparison-calendula-vs-chamomile]]
 - [[comparison-elderberry-vs-echinacea]]

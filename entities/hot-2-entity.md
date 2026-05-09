@@ -41,9 +41,9 @@ Some blood pressure elevation was noted in the early part of the experience but 
 
 ## Synthesis
 
-HOT-2 is synthesized from 2,5-dimethoxy-4-ethylthio-beta-nitrostyrene, the nitrostyrene intermediate also used in the synthesis of [[hot-7-entity]] is the N-hydroxylated analogue of [[2c-t-2]] share nearly identical dosage ranges, suggesting that the N-hydroxyl group does not dramatically alter the pharmacological profile.
+HOT-2 is synthesized from 2,5-dimethoxy-4-ethylthio-beta-nitrostyrene, the nitrostyrene intermediate also used in the synthesis of [[hot-7-entity]] is the N-hydroxylated analogue of  share nearly identical dosage ranges, suggesting that the N-hydroxyl group does not dramatically alter the pharmacological profile.
 
-Both compounds produce sensory effects (visuals, perceptual changes) and insightful psychological effects.
+Both compounds produce sensory effects (visuals, perceptual changes) and insightful [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]].
 
 HOT-2 appears to be well-tolerated, similar to its parent compound.
 
@@ -61,7 +61,7 @@ The compound appears to be well-tolerated at the doses explored.
 
 Blood pressure elevation was noted in some subjects, particularly in the early phase of the experience.
 
-No serious adverse effects were reported in the documented trials.
+No serious [[blesching-cannabis-safety-adverse-effects-evidence]] were reported in the documented trials.
 
 As with all research chemicals, limited safety data is available.
 
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

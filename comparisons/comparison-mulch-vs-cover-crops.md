@@ -1,10 +1,11 @@
 ---
-title: "Mulch vs Cover Crops"
+title: "comparison mulch vs cover crops Crops"
 created: 2026-04-28
 tags: [comparison, soil-health, mulch, cover-crops, organic-matter]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -12,8 +13,8 @@ type: comparison
 
 ## Overview
 
-Mulch and cover crops are two of the most effective strategies for [[permaculture]]
-systems. While both add organic matter and protect soil, they operate through
+Mulch and cover crops are two of the most effective strategies for permaculture
+systems. While both add [[hamilton-composting-and-organic-matter-management]] and protect soil, they operate through
 fundamentally different mechanisms: mulch is applied material layered on the soil
 surface, while cover crops are living plants grown in place to feed the soil food
 web through [[teaming-with-microbes-mulch-and-soil-food-web]]
@@ -38,7 +39,7 @@ soil-mulch interface, though this rarely affects deeper-rooted plants.
 
 [[lowenfels-earthworms-soil-food-web]]. Without living roots, bacterial
 and fungal populations die back, protozoa and nematodes lose their food source,
-and nutrient cycling shuts down. Cover crops keep this entire biological system
+and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] shuts down. Cover crops keep this entire biological system
 active.
 
 Cover crops can be selected for specific soil needs. Legumes like clover, vetch,
@@ -46,7 +47,7 @@ and field peas fix atmospheric nitrogen through symbiotic Rhizobium bacteria in
 root nodules. Grasses like winter rye and annual ryegrass produce abundant root
 mass and exudates that build soil structure. Brassicas like daikon radish break
 compacted soil layers with deep taproots. Buckwheat mines phosphorus and attracts
-beneficial insects. The main trade-off is that cover crops occupy growing space
+[[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. The main trade-off is that cover crops occupy [[cotter-growing-space-design-fruiting-rooms]]
 and time: they must be seeded, managed, and terminated before the next cash crop.
 
 Termination methods include cutting at soil level (preferred for no-till since it
@@ -69,7 +70,7 @@ crops without requiring dedicated cover crop windows. It is also the fastest way
 to rehabilitate neglected soil: a thick layer of organic mulch can transform
 compacted, bare ground into biologically active soil within a single season. When
 precise control over the bacterial-to-fungal ratio is needed, mulch selection
-offers direct influence without the longer timelines of cover crop management.
+offers direct influence without the longer timelines of cover [[mushroom-crop-management-flush-harvesting]].
 
 ## When to Choose Cover Crops
 

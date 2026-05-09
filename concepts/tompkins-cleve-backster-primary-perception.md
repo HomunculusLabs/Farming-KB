@@ -1,5 +1,5 @@
 ---
-title: Tompkins Cleve Backster Primary Perception
+title: Tompkins tompkins [[cleve-backster]] primary perception Primary Perception
 created: 2026-04-28
 tags: [plant-perception, backster-effect, galvanometer, esp, polygraph,
       consciousness, plant-intelligence]
@@ -14,7 +14,7 @@ Cleve Backster was America's foremost lie-detector examiner whose chance
 experiment in 1966 opened a scientific Pandora's box. Working late in his
 polygraph school in Times Square, Backster attached electrodes from one of
 his lie detectors to the leaf of a Dracaena massangeana, a tropical plant
-similar to a palm tree known as the dragon tree. His initial curiosity was
+similar to a [[palm-tree-uses]] known as the dragon tree. His initial curiosity was
 simple: would watering the plant's roots produce any measurable electrical
 response?
 

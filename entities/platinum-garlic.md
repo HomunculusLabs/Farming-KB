@@ -21,13 +21,13 @@ created: 2026-04-28
 
 # Platinum Garlic
 
-**Platinum Garlic** is a modern indica-dominant hybrid cannabis strain (approximately **70% indica / 30% sativa**) renowned for its extraordinarily pungent garlic and onion aroma, heavy resin production, and potent, long-lasting effects. Developed by crossing **GMO** (also known as Garlic Cookies) with **Platinum Wreck** (a Platinum × Trainwreck cross), this strain exemplifies the contemporary trend toward bold, savory, and chemically complex terpene profiles that dominate the premium cannabis market. It is particularly popular on the U.S. West Coast and in Oklahoma's competitive commercial market.
+**Platinum Garlic** is a modern indica-dominant hybrid cannabis strain (approximately **70% indica / 30% sativa**) renowned for its extraordinarily pungent garlic and onion aroma, heavy resin production, and potent, long-lasting effects. Developed by crossing **GMO** (also known as Garlic Cookies) with **Platinum Wreck** (a Platinum × Trainwreck cross), this strain exemplifies the contemporary trend toward bold, savory, and chemically complex [[cannabis-terpene-profiles]] that dominate the premium cannabis market. It is particularly popular on the U.S. West Coast and in Oklahoma's competitive commercial market.
 
 ## Lineage and Genetics
 
 Platinum Garlic's genetic pedigree brings together two potent and aromatic parent lines:
 
-- **GMO (Garlic Cookies / GMO Cookies)**: A cross of **Girl Scout Cookies** (Durban Poison × OG Kush) and **Chemdawg**. GMO is itself one of the most pungent strains in existence, contributing its signature garlic, mushroom, and onion terpenes, along with extreme potency (often testing 25–30% THC). The "GMO" name stands for "Garlic, Mushroom, Onion."
+- **GMO (Garlic Cookies / [[gmo-cookies]])**: A cross of **Girl Scout Cookies** ([[durban-poison]] × OG Kush) and **Chemdawg**. GMO is itself one of the most pungent strains in existence, contributing its signature garlic, mushroom, and onion terpenes, along with extreme potency (often testing 25–30% THC). The "GMO" name stands for "Garlic, Mushroom, Onion."
 - **Platinum Wreck**: A cross of **Platinum** (a Platinum OG phenotype) and **Trainwreck**. This parent contributes structural vigor, increased trichome density (the "platinum" frostiness), and a stimulating sativa edge from the Trainwreck lineage.
 
 The resulting cross produces a strain that amplifies the garlic-chem aromas of GMO while adding structural improvements and a slightly more complex effect profile from the Platinum Wreck side.
@@ -53,9 +53,9 @@ Platinum Garlic is visually striking and lives up to the "platinum" portion of i
 Platinum Garlic's aroma is its defining characteristic and is among the most pungent in modern cannabis:
 
 - **Primary**: Intense garlic, onion, and musky allium notes that are immediately recognizable and detectable from across a room
-- **Secondary**: Diesel fuel, rubber, and skunky undertones inherited from the Chemdawg lineage
+- **Secondary**: Diesel fuel, rubber, and skunky undertones inherited from the [[chemdawg-lineage-and-legacy]]
 - **Tertiary**: Hints of earthy mushroom, damp soil, and a faint sweetness that emerges as the bud is broken apart
-- **Fresh-cut**: Crushing or grinding the buds releases a wave of sulfur-containing volatile compounds that fill a room — this strain is not discreet
+- **Fresh-cut**: Crushing or grinding the buds releases a wave of sulfur-containing [[mycovolatiles-fungal-volatile-compounds]] that fill a room — this strain is not discreet
 
 The intensity of the garlic aroma comes from elevated levels of **sulfur-containing terpenes and terpenoids** (notably diallyl disulfide, which is the same compound responsible for garlic's characteristic smell) — a terpene class that is relatively rare in cannabis but increasingly sought after.
 
@@ -79,7 +79,7 @@ Platinum Garlic is a **heavyweight** in terms of THC content, consistently testi
 
 ## Terpene Profile
 
-Platinum Garlic's terpene profile is distinctive for its high concentration of sulfur-containing compounds alongside traditional cannabis terpenes:
+Platinum Garlic's terpene profile is distinctive for its high concentration of sulfur-containing compounds alongside traditional [[cannabis-terpene-entourage-effect]]:
 
 | Terpene | Approximate % | Contribution |
 |---------|--------------|--------------|
@@ -139,7 +139,6 @@ Platinum Garlic is considered **moderately difficult**, best suited to growers w
 ## Market Availability
 
 Most commonly found in licensed dispensaries in **Oklahoma** (extremely popular in the medical market), **California**, **Oregon/Washington**, and increasingly in **Michigan and Illinois**. Less established internationally due to its recent development.
-
 ## See Also
 
 - [[girl-scout-cookies]] — The other grandparent line, providing structural and potency foundation

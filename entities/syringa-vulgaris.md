@@ -29,7 +29,7 @@ Over 2,000 named cultivars have been developed from S. vulgaris, making it one o
 
 Syringa vulgaris was described by Carl Linnaeus in 1753 in Species Plantarum. The genus name *Syringa* derives from the Greek *syrinx* (pipe), referring to the hollow stems historically used to make flutes. The species epithet *vulgaris* means "common."
 
-The authority is **Syringa vulgaris** L. No subspecies are currently recognized, though extensive natural variation in flower color and leaf morphology across the native range has contributed to the diversity of cultivated selections.
+The authority is **Syringa vulgaris** L. No subspecies are currently recognized, though extensive natural variation in flower color and [[cannabis-leaf-morphology-and-phyllotaxy]] across the native range has contributed to the diversity of cultivated selections.
 
 S. vulgaris is a large, multi-stemmed deciduous shrub reaching 3–7 meters in height with a similar spread. Mature specimens develop a dense, rounded crown with arching branches. The growth rate is moderate, averaging 30–60 cm per year.
 
@@ -51,17 +51,17 @@ The native range of Syringa vulgaris is centered on the Balkan Peninsula, encomp
 
 In its native habitat, S. vulgaria grows on rocky limestone slopes, forest margins, and open scrubland at elevations of 300–1,800 meters. It is a component of sub-Mediterranean and Balkan mixed forest communities, often associated with oak, hornbeam, and beech.
 
-The species has been widely naturalized beyond its native range across Europe, North America, and temperate Asia. Naturalized populations in North America occur from New England and southern Canada west to the Great Plains.
+The species has been widely naturalized beyond its native range across Europe, [[psilocybin-north-america-pacific-northwest]], and temperate Asia. Naturalized populations in North America occur from New England and southern Canada west to the Great Plains.
 
 Climate requirements include cold winters for proper dormancy and flowering, with chilling requirements estimated at 800–1,200 hours below 7 °C. The species is cold-hardy to approximately −35 °C, tolerating the harshest winters of the continental interior.
 
 ## Cultivation
 
-Common lilac performs best in full sun with well-drained, slightly alkaline soil (pH 6.5–7.5). It tolerates clay and sandy soils but develops chlorosis in strongly acidic conditions. Adequate air circulation reduces the incidence of powdery mildew and bacterial blight.
+Common lilac performs best in full sun with well-drained, slightly alkaline soil (pH 6.5–7.5). It tolerates clay and sandy soils but develops chlorosis in strongly acidic conditions. Adequate [[stamets-growing-room-air-circulation-co2-management]] reduces the incidence of [[cervantes-powdery-mildew-prevention-treatment]] and bacterial blight.
 
 Propagation is typically performed by softwood cuttings taken in early summer, hardwood cuttings in late autumn, or by grafting onto privet (*Ligustrum*) rootstock. Grafting accelerates flowering time but can lead to suckering from the rootstock if not managed.
 
-Layering of lower branches is a simple and effective propagation method, with rooted layers typically ready for separation after 12–18 months. Seed propagation produces highly variable offspring and is primarily used in breeding programs.
+Layering of lower branches is a simple and effective propagation method, with rooted layers typically ready for separation after 12–18 months. [[jeavons-seed-propagation-techniques]] produces highly variable offspring and is primarily used in breeding programs.
 
 Pruning should be performed immediately after flowering to avoid removing next year's flower buds, which form on the previous season's growth. Removal of spent flower panicles prevents seed formation and redirects energy into growth.
 
@@ -93,9 +93,11 @@ The International Lilac Society recognizes over 2,000 registered S. vulgaris cul
 
 'Katherine Havemeyer' (1922) produces large panicles of lavender-pink, double flowers with exceptional fragrance. It is considered one of the finest double-flowered lilacs and performs reliably across a wide climatic range.
 
-'Mme. Lemoine' (1890) is a pure white, double-flowered cultivar with a compact growth habit. It is the most widely planted white lilac and serves as a parent of numerous later hybrids.
+'Mme. Lemoine' (1890) is a pure white, double-flowered cultivar with a [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit. It is the most widely planted white lilac and serves as a parent of numerous later hybrids.
 
 ## See Also
+
+- [[syringa-oblata]]
 
 - [[jasminum-officinale]]
 - [[forsythia-suspensa]]

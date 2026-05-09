@@ -19,7 +19,7 @@ updated: 2026-04-28
 sources:
   - Zaitsu, K. et al. (2009). "Ring-substituted cathinones." Forensic Toxicology, 27(1), 7–16.
   - EMCDDA (2014). "Report on the risk assessment of methylone in the framework of the Council Decision on new psychoactive substances." European Monitoring Centre for Drugs and Drug Addiction.
-  - El Balkhi, S. et al. (2023). "Analytical characterization of pentylone and its metabolites." Drug Testing and Analysis, 15(2), 289–302.
+  - El Balkhi, S. et al. (2023). "Analytical characterization of pentylone and its metabolites." [[psychedelic-drug-testing-and-adulterant-screening]] and Analysis, 15(2), 289–302.
   - https://pubchem.ncbi.nlm.nih.gov/compound/Pentylone
 aliases:
   - β-K-MBDB
@@ -37,7 +37,7 @@ Pentylone (β-keto-MBDB) is a synthetic substituted cathinone and novel psychoac
 
 The compound first appeared on the recreational drug market around 2010 and has since been sold under various names including "NRG-1" variants and as an adulterant or substitute for MDMA and methylone.
 
-Pentylone is classified as a controlled substance in many jurisdictions and has been linked to serious adverse effects including hyperthermia, serotonin syndrome, and fatalities.
+Pentylone is classified as a controlled substance in many jurisdictions and has been linked to serious [[blesching-cannabis-safety-adverse-effects-evidence]] including hyperthermia, serotonin syndrome, and fatalities.
 
 ## Chemical Properties
 
@@ -90,7 +90,7 @@ Chronic use may lead to tolerance, dependence, and persistent mood disturbances 
 
 ## Legal Status
 
-Pentylone is controlled under Schedule I of the Controlled Substances Act in the United States as of 2021. It is scheduled in the EU, UK, China, Japan, Australia, and numerous other countries.
+Pentylone is controlled under Schedule I of the Controlled [[controlled-substances-act-and-psychedelic-research]] in the [[dmt-containing-plants-united-states-halpern]] as of 2021. It is scheduled in the EU, UK, China, Japan, Australia, and numerous other countries.
 
 Many jurisdictions control it through generic cathinone bans or analog acts. Its legal status continues to evolve as new synthetic cathinones emerge to circumvent existing controls.
 

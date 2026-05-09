@@ -1,5 +1,5 @@
 ---
-title: Salicornia Flats and Estuarine Aquaculture
+title: mollison salicornia flats and estuarine aquaculture and tidal-estuarine-aquaculture-mollison
 created: 2026-04-23
 updated: 2026-04-23
 type: concept
@@ -70,11 +70,11 @@ Manured sea-grass fields, wave-protected by low bunds, yielding seagrass and bro
 
 Sub-surface (permeable) walls to retard tide flow in scoured estuaries.
 
-Trials of substrate materials to catch new fry or algal forms.
+Trials of [[growing-gourmet-substrate-materials-wood-types]] to catch new fry or algal forms.
 
 ## Advantages of Tidal Pond Systems
 
-The same advantages of slope, sun reflection from still-ponds, and a mixed ecology of wildfowl, geese, fish, molluscs and algae apply to seawater or brackish ponds as they do to freshwater systems discussed in [[coastal-permaculture-design-mollison]].
+The same advantages of slope, sun reflection from still-ponds, and a mixed ecology of wildfowl, geese, fish, molluscs and algae apply to seawater or brackish ponds as they do to freshwater systems discussed in coastal-permaculture-design-mollison.
 
 ## Guano and Nutrient Cycling
 
@@ -94,7 +94,12 @@ Tagari has applied for a tidewater and Salicornia leasehold to test out some of 
 
 ## See Also
 
-- [[mollison-aquatic-polyculture-and-pond-culture]] for related polyculture approaches
-- [[permaculture-designers-manual-cover-crops-detailed]]
-- [[permaculture-designers-manual-fish-species-guide]]
-- [[permaculture-designers-manual-phosphate-cycling]]
+- [[salicornia-europaea]]
+
+- mollison-aquatic-polyculture-and-pond-culture for related polyculture approaches
+- permaculture-designers-manual-cover-crops-detailed
+- permaculture-designers-manual-fish-species-guide
+- permaculture-designers-manual-phosphate-cycling
+- [[tidal-estuarine-aquaculture-mollison]]
+- [[mollison-designers-trout-and-cool-water-aquaculture-species]]
+- [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]

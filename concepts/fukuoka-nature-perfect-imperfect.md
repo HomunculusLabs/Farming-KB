@@ -1,11 +1,12 @@
 ---
-title: Nature Perfect and Imperfect
+title: fukuoka-nature-perfect-imperfect-philosophical-perspective and Imperfect
 created: 2026-04-18
 updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Nature Perfect and Imperfect
@@ -14,7 +15,7 @@ A fundamental principle in Masanobu Fukuoka's [[fukuoka-what-is-nature]].
 
 ## Seeing Nature as Wholistic
 
-The central truth of natural farming, Fukuoka insisted, is that nothing need be done to grow crops. This conviction came not from theoretical speculation but from what he called "a total, intuitive understanding of the reality about self and nature wrested from the depths of doubt and skepticism in a deeply earnest struggle over the meaning of life."
+The central truth of [[comparison-natural-farming-vs-permaculture]], Fukuoka insisted, is that nothing need be done to grow crops. This conviction came not from theoretical speculation but from what he called "a total, intuitive understanding of the reality about self and nature wrested from the depths of doubt and skepticism in a deeply earnest struggle over the meaning of life."
 
 This is not the theoretical hypothesis of a scholar in his study or the wishful thinking of an idler with an aversion to work. It is based on raw personal experience of things grounded solidly in reality.
 
@@ -58,6 +59,7 @@ Natural farming begins with the conviction that barley seeds which fall to the e
 
 From the absolute perspective -- the standpoint of [[fukuoka-mu-nothingness-philosophy]], [[fukuoka-natures-self-organizing-principles]], [[fukuoka-what-is-nature]]
 - [[fukuoka-nature-transcends-human-knowledge]]
+
 ## Practical Considerations
 
 Successful implementation of Nature Perfect and Imperfect requires attention to
@@ -76,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

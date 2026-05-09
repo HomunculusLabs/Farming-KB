@@ -23,9 +23,9 @@ created: 2026-04-28
 
 **Prosopis glandulosa** Torr., commonly known as honey mesquite, is a deciduous shrub or small tree in the family Fabaceae, subfamily Caesalpinioideae.
 
-It is native to the southwestern United States, Mexico, and parts of Central America, where it is a keystone species in arid and semi-arid ecosystems.
+It is native to the southwestern United States, Mexico, and parts of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], where it is a keystone species in arid and semi-arid ecosystems.
 
-Honey mesquite is valued for its nitrogen-fixing ability, drought tolerance, edible pods, and quality hardwood, making it relevant to permaculture and ecological restoration.
+Honey mesquite is valued for its nitrogen-fixing ability, [[dighton-fungal-drought-tolerance-plant-water-relations]], edible pods, and quality hardwood, making it relevant to permaculture and ecological restoration.
 
 ## Taxonomy and Morphology
 
@@ -74,13 +74,13 @@ As a legume, *P. glandulosa* forms nodules on its roots containing rhizobial bac
 
 Rates of nitrogen fixation have been estimated at 20–40 kg N per hectare per year, significantly contributing to soil fertility in nitrogen-poor arid environments.
 
-Leaf litter and root turnover add organic matter and nutrients to the soil. The canopy creates a fertility island effect, with higher nutrient concentrations and microbial activity beneath mesquite canopies compared to surrounding open areas.
+Leaf litter and root turnover add [[hamilton-composting-and-organic-matter-management]] and nutrients to the soil. The canopy creates a fertility island effect, with higher nutrient concentrations and microbial activity beneath mesquite canopies compared to surrounding open areas.
 
 This island-of-fertility effect supports understory vegetation and makes mesquite a valuable component of agroforestry and silvopastoral systems.
 
 ## Permaculture and Agroforestry Applications
 
-In permaculture design, honey mesquite serves multiple functions: nitrogen fixation, windbreak, shade, forage, food, and fuelwood.
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], honey mesquite serves multiple functions: nitrogen fixation, windbreak, shade, forage, food, and fuelwood.
 
 It is an excellent pioneer species for restoring degraded arid lands. Its deep taproot can reach groundwater at depths of 15–50 meters, accessing moisture unavailable to shallow-rooted species.
 
@@ -88,7 +88,7 @@ The pods are edible and nutritious, containing 12–16% protein, 40–50% carboh
 
 Mesquite flour has a sweet, nutty flavor with a low glycemic index, making it popular in specialty food markets.
 
-The dense, hard wood is valued for smoking meats, charcoal production, and woodworking. It burns slowly with high heat output.
+The dense, hard wood is valued for smoking meats, [[mollison-designers-charcoal-production-biochar-soil-amendment]], and woodworking. It burns slowly with high heat output.
 
 ### Wildlife Value
 
@@ -104,14 +104,16 @@ Outside its native range, *P. glandulosa* can become aggressively invasive due t
 
 In Australia, mesquite infestations cover millions of hectares, reducing rangeland productivity and biodiversity.
 
-Management approaches include mechanical clearing, prescribed fire, biological control agents, and utilization programs that harvest pods and wood.
+Management approaches include mechanical clearing, prescribed fire, [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents, and utilization programs that harvest pods and wood.
 
 Within its native range, grazing management and fire regime restoration help maintain mesquite at ecologically appropriate densities.
 
 ## See Also
 
+- [[exidia-glandulosa]]
+
 - [[robinia-pseudoacacia]]
 - [[eleagnus-angustifolia]]
-- [[acacia-confusa]]
-- [[comfrey-permaculture]]
+- acacia-confusa
+- comfrey-permaculture
 - [[silvopasture]]

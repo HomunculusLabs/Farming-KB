@@ -1,5 +1,5 @@
 ---
-title: "Chaga (Inonotus obliquus)"
+title: "Chaga (chaga-inonotus-obliquus-medicinal-profile)"
 created: 2026-04-28
 updated: 2026-04-28
 type: species
@@ -14,17 +14,17 @@ tags:
   - traditional-medicine
 sources:
   - Peintner, U. et al. (2002). "The phylogeny of Hymenochaetaceae (Basidiomycetes) inferred from ITS and nLSU sequences." Mycological Research, 106(7), 785-791.
-  - Shashkina, M.Y. et al. (2006). "Antioxidant activity of the melanin-glucan complex from the medicinal mushroom Inonotus obliquus." Applied Biochemistry and Microbiology, 42(5), 492-497.
+  - Shashkina, M.Y. et al. (2006). "Antioxidant activity of the melanin-glucan complex from the [[gourmet-medicinal-mushroom-casing-layer-techniques]] Inonotus obliquus." Applied Biochemistry and Microbiology, 42(5), 492-497.
   - Park, Y.M. et al. (2005). "Extract of Inonotus obliquus inhibits oxidative stress and modulates the immune response in mice." Journal of Medicinal Food, 8(4), 472-478.
   - Géry, A. et al. (2018). "Isolation of new antioxidant compounds from the medicinal mushroom Inonotus obliquus." Phytochemistry, 153, 197-204.
-  - Stamets, P. (2000). Growing Gourmet & Medicinal Mushrooms. 3rd ed. Ten Speed Press.
+  - Stamets, P. (2000). Growing Gourmet & [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]. 3rd ed. Ten Speed Press.
 ---
 
 ## Overview
 
-Chaga (*Inonotus obliquus*) is a sterile conk (sclerotium) formed by a parasitic fungus in the Hymenochaetaceae family that primarily infects living birch trees (*Betula* spp.) across the circumpolar boreal forests of the Northern Hemisphere. Unlike most bracket fungi, the visible chaga mass is not the fruiting body but a dense, darkened sterile growth composed of compressed mycelium and wood tissue — the actual fruiting body erupts from the dead host tree after it falls.
+Chaga (*[[inonotus-obliquus]]*) is a sterile conk (sclerotium) formed by a parasitic fungus in the Hymenochaetaceae family that primarily infects living birch trees (*Betula* spp.) across the circumpolar boreal forests of the Northern Hemisphere. Unlike most bracket fungi, the visible chaga mass is not the fruiting body but a dense, darkened sterile growth composed of compressed mycelium and wood tissue — the actual fruiting body erupts from the dead host tree after it falls.
 
-Chaga has been used for centuries in traditional medicine across Siberia, Scandinavia, Russia, and among indigenous peoples of North America. It is one of the most commercially significant medicinal mushrooms in global markets, valued for its dense concentration of bioactive compounds including melanin, betulinic acid, and polysaccharides.
+Chaga has been used for centuries in traditional medicine across Siberia, Scandinavia, Russia, and among indigenous peoples of North America. It is one of the most commercially signific medicinal mushrooms ooms in global markets, valued for its dense concentration of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] including melanin, betulinic acid, and polysaccharides.
 
 ## Taxonomy and Identification
 
@@ -34,7 +34,7 @@ Chaga has been used for centuries in traditional medicine across Siberia, Scandi
 
 The visible chaga conk is a dark, cracked, charcoal-like mass protruding from the trunk or branches of birch trees, typically ranging from 10–40 cm in diameter but occasionally exceeding 50 cm. The exterior is black and deeply fissured, resembling burnt bark. Internally, the tissue ranges from rust-brown to golden-yellow, with a corky texture.
 
-The fertile fruiting body is rarely seen in commerce — it is a poroid shelf fungus that develops on the underside of fallen, chaga-killed birch trunks. This has led to significant taxonomic confusion historically, as the sterile conk and fertile body were often described as separate species.
+The fertile fruiting body is rarely seen in commerce — it is a poroid shelf fungus that develops on the underside of fallen, chaga-killed birch trunks. This has led to significant [[neurotropic-fungi-taxonomic-confusion-and-identification]] historically, as the sterile conk and fertile body were often described as separate species.
 
 Recent phylogenetic studies have confirmed that chaga comprises a species complex rather than a single species, with genetically distinct populations in North America, Europe, and Asia. Some researchers have proposed splitting the complex into multiple taxa, but the name *I. obliquus* remains in wide use for all populations.
 
@@ -47,9 +47,9 @@ Chaga is circumboreal, found across the temperate and boreal forests of:
 
 The fungus is an obligate parasite on living birch species, most commonly:
 
-- Paper birch (*Betula papyrifera*)
-- Yellow birch (*Betula alleghaniensis*)
-- European white birch (*Betula pendula*)
+- Paper birch (*[[betula-papyrifera]]*)
+- Yel betula alleghaniensis leghaniensis*)
+- European white birch (*[[betula-pendula]]*)
 - Downy birch (*Betula pubescens*)
 - Heart-leaved birch (*Betula ermanii*)
 
@@ -59,7 +59,7 @@ The ecological role of chaga extends beyond parasitism. The sterile conk provide
 
 ## Chemical Composition
 
-Chaga's therapeutic reputation derives from a uniquely concentrated profile of bioactive secondary metabolites:
+Chaga's therapeutic reputation derives from a uniquely concentrated profile of bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]]:
 
 **Melanin:** The black exterior crust is extraordinarily rich in melanin pigments (15–20% dry weight), giving chaga one of the highest melanin concentrations in the fungal kingdom. Chaga melanin has demonstrated potent free-radical scavenging activity, UV-protective properties, and heavy metal chelation capacity.
 
@@ -115,8 +115,8 @@ Standard dosage ranges from 1–2 grams of dried chaga powder per cup of tea, co
 ## See Also
 
 - [[hericium-erinaceus]] — lion's mane mushroom, noted for neuroprotective effects
-- [[pleurotus-ostreatus]] — oyster mushroom, easily cultivated and studied for biomedical applications
+- pleurotus-ostreatus]oyster-mushroom room, easily cultivated and studied for biomedical applications
 
 ## See Also
 
-- [[cancer-medicinal-mushrooms-chaga-and-birch-polypore]]
+- cancer-medicinal-mushrooms-chaga-and-birch-polypore

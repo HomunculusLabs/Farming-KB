@@ -9,23 +9,23 @@ type: comparison
 ---
 # Mushroom Log Cultivation vs Mushroom Indoor Cultivation
 ## Overview
-Growing mushrooms can follow two broadly different paths: outdoor log
+[[falconer-growing-mushrooms-in-sheds]] can follow two broadly different paths: outdoor log
 cultivation, which mimics natural fungal ecology using freshly cut hardwood, and
 indoor cultivation, which uses controlled environments and prepared substrates
 for year-round production. Log cultivation is low-tech, low-cost, and produces
 high-quality fruiting bodies but is limited by seasonal constraints and slower
-colonization times. Indoor cultivation offers environmental control, faster
-turnaround, and higher biological efficiency but requires more equipment,
-sterile technique, and ongoing management.
+colonization times. Indoor cultivation offers [[eclss-environmental-control-life-support]], faster
+turnaround, and higher [[stamets-biological-efficiency-yield]] but requires more equipment,
+[[cultivator-sterile-technique-and-agar-culture]], and ongoing management.
 ## Mushroom Log Cultivation
 [[mushroom-indoor-cultivation]]
-Indoor mushroom cultivation uses prepared substrates (sterilized grain spawn,
+Indoor [[accessible-mushroom-cultivation-for-disabilities]] uses prepared substrates (sterilized grain spawn,
 pasteurized straw or sawdust blocks) in controlled environments to grow
 mushrooms year-round regardless of outdoor conditions. The typical progression
 starts with agar culture to isolate and maintain specific strains, progresses to
 grain spawn production (inoculating sterilized grain jars with agar wedges or
 spores), then bulk substrate inoculation (mixing grain spawn into pasteurized
-straw or supplemented sawdust), followed by a colonization period, and finally
+straw or [[oyster-mushroom-supplemented-sawdust-blocks]]), followed by a colonization period, and finally
 fruiting in a controlled environment such as a monotub, Martha tent, or
 dedicated fruiting room.
 Common substrates include pasteurized straw for oyster mushrooms (the easiest
@@ -89,6 +89,8 @@ development.
 Many successful mushroom growers combine both methods for year-round production
 and species diversity. Use log cultivation for shiitake and reishi as a
 ## See Also
+
+- [[comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation]]
 - [[comparison-monotub-vs-pf-tek]]
 - [[comparison-lions-mane-vs-cordyceps-cultivation]]
 - [[comparison-grain-spawn-vs-sawdust-spawn]]

@@ -15,7 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Turker, A.U. & Gurel, E. (2005). 'Common mullein (Verbascum thapsus L.): Recent advances in research.' Phytotherapy Research, vol. 19, no. 9, pp. 733-739."
-  - "Foster, S. & Duke, J.A. (2014). 'A Field Guide to Medicinal Plants and Herbs of Eastern and Central North America.' 3rd ed. Houghton Mifflin Harcourt."
+  - "Foster, S. & Duke, J.A. (2014). 'A Field Guide to Medicinal Plants and Herbs of Eastern and Central [[psilocybin-north-america-pacific-northwest]].' 3rd ed. Houghton Mifflin Harcourt."
   - "Upton, R. (2013). 'Verbascum thapsus: Monograph.' American Herbal Pharmacopoeia."
   - "European Medicines Agency. 'Verbascum thapsus, folium et flos.' HMPC Monograph."
   - "PFAF. 'Verbascum thapsus — Plants For A Future.' https://pfaf.org/user/Plant.aspx?LatinName=Verbascum+thapsus"
@@ -25,7 +25,7 @@ sources:
 
 **Great Mullein** | **Common Mullein** | **Aaron's Rod** | **Flannel Plant** | **Cowboy Toilet Paper** | **Velvet Dock** | **Woolly Mullein**
 
-*Verbascum thapsus* is a tall, biennial herbaceous plant in the figwort family (Scrophulariaceae), native to Europe, Asia, and North Africa, and widely naturalized across North America and other temperate regions. Recognizable by its towering woolly flower spike and soft, felt-like basal leaves, mullein has been used for over 2,000 years in European folk medicine as a respiratory remedy, wound treatment, and anti-inflammatory agent. In modern herbalism, it remains one of the most valued plants for respiratory conditions, and in permaculture design it serves as a dynamic mineral accumulator, habitat plant, and pioneer species.
+*[[verbascum-thapsus]]* is a tall, biennial herbaceous plant in the figwort family (Scrophulariaceae), native to Europe, Asia, and North Africa, and widely naturalized across North America and other temperate regions. Recognizable by its towering woolly flower spike and soft, felt-like basal leaves, mullein has been used for over 2,000 years in European folk medicine as a respiratory remedy, wound treatment, and anti-inflammatory agent. In modern herbalism, it remains one of the most valued plants for respiratory conditions, and permaculture design sign it serves as a dynamic mineral accumulator, habitat plant, and pioneer species.
 
 ## Taxonomy
 
@@ -96,7 +96,7 @@ The genus *Verbascum* contains approximately 360 species distributed across Euro
 - **Respiratory conditions:** The primary and best-supported use — indicated for bronchitis, persistent cough, asthma, tracheitis, laryngitis, pneumonia, and general chest congestion. Mullein is a cornerstone herb in respiratory formulations.
 - **Ear infections:** Mullein flower oil (often combined with garlic oil *Allium sativum*) is a widely used traditional remedy for otitis media (middle ear infection), particularly in pediatric care. Clinical evidence is limited but the preparation is commonly recommended by herbalists and some integrative physicians.
 - **Sore throat:** Gargles or teas of mullein leaf soothe inflamed throat tissue
-- **Wounds and burns:** Fresh or dried leaves applied as poultices; traditional use supported by the vulnerary and antimicrobial properties
+- **Wounds and burns:** Fresh or dried leaves applied as poultices; traditional use supported by the vulnerary and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]
 - **Joint and muscle pain:** Topical applications and traditional use for arthritis and rheumatic complaints
 - **Urinary tract:** Mild diuretic and soothing effects on urinary mucosa; traditionally used for cystitis
 - **Hemorrhoids:** Sitz baths with mullein leaf decoctions; traditional folk remedy
@@ -114,12 +114,12 @@ The genus *Verbascum* contains approximately 360 species distributed across Euro
 Mullein is highly valued in permaculture and ecological restoration:
 
 - **Dynamic mineral accumulator:** Deep taproot mines calcium, potassium, magnesium from subsoil and deposits them in leaves. Chop-and-drop mulch plant.
-- **Pioneer species:** Colonizes disturbed, compacted soils, initiating ecological succession.
+- **Pioneer species:** Colonizes disturbed, compacted soils, ini  ccession.
 - **Soil breaker:** Thick taproot penetrates compacted layers, improving drainage and aeration.
-- **Biodiversity:** Flowers attract bees, butterflies, hoverflies; seeds feed finches; rosettes shelter beneficial insects.
-- **Companion planting:** Strategic placement in food forests as nutrient-cycling support; tall flower stalk provides wind protection.
-- **Erosion control:** Deep roots stabilize soil on slopes.
-- **Biomass production:** Large rosettes produce substantial leaf biomass for mulch and compost
+- **Biodiversity:** Flowers attract bees, butterflies, hoverflies; seeds feed finches; rosettes shelter [[comparison-beneficial-insects-guide-vs-integrated-pest-management]].
+[[companion-planting]] ting:** Strategic placement in food forests as nutrient-cycling support; tall flower stalk provides wind protection.
+- **[[permplant-willows-salix-erosion-control-fodder]]:** Deep roots stabilize soil on slopes.
+- **[[dighton-fungal-biomass-production-aquatic-ecosystems]]:** Large rosettes produce substantial leaf biomass for mulch and compost
 
 ## History of Use
 
@@ -128,7 +128,7 @@ Mullein has one of the longest documented histories of continuous human use amon
 - **Ancient Greece:** Dioscorides (c. 40–90 CE) recommended mullein for lung diseases and diarrhea in *De Materia Medica*. Theophrastus also documented its use.
 - **Roman Empire:** Pliny the Elder described using mullein stalks dipped in tallow as torches and prescribed the herb for respiratory ailments.
 - **Medieval Europe:** Standard component of monastery physic gardens; prescribed in the Anglo-Saxon *Leechdoms*. Hildegard of Bingen recommended it.
-- **Native American adoption:** After introduction to North America (likely 17th century), rapidly adopted by Cherokee, Navajo, Iroquois, and Hopi nations for respiratory treatments, wound care, and ceremony.
+- **[[halpern-sacramental-peyote-and-native-american-church]] adoption:** After introduction to North America (likely 17th century), rapidly adopted by Cherokee, Navajo, Iroquois, and Hopi nations for respiratory treatments, wound care, and ceremony.
 - **American folk medicine:** Household remedy for coughs, colds, and tuberculosis in Appalachian traditions through the 18th–19th centuries.
 - **Modern era:** Remains one of the most commonly recommended herbs in Western herbalism; widely available in teas, tinctures, and supplements.
 
@@ -138,8 +138,6 @@ Mullein is generally considered safe with low toxicity. However:
 
 - The fine hairs on leaves and flowers can be irritating to skin, eyes, and mucous membranes; always strain teas and infusions through a fine filter or coffee filter before consumption
 - No significant drug interactions have been documented, but the theoretical possibility exists for interactions with sedatives or antihypertensive medications
-- Safety during pregnancy and lactation has not been well-studied; consult a qualified practitioner
-- Mullein seeds are toxic to fish — historically used as a fish poison (piscicide) by Indigenous peoples of the Americas
 ## See Also
 
 - [[glycyrrhiza-glabra]] — Licorice root, synergistic respiratory demulcent

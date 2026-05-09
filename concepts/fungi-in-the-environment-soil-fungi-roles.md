@@ -3,29 +3,10 @@ title: Fungi in the Environment - Soil Fungi Roles
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: [/Users/t3rpz/wiki/raw/papers/fungi-and-sustainability-fungi-magazine.md]
 ---
-
-# Soil Fungi Roles in the Environment
-
-Fungi are of fundamental importance in terrestrial environments, and soil represents their primary domain.
-
-In soil, fungi can comprise the largest pool of biomass, exceeding that of other microorganisms and invertebrates combined. They play critical roles as decomposers, saprotrophic fungi, plant symbionts, and pathogens, while also contributing to fungal biogeochemistry and the maintenance of soil structure.
-
-## The Primacy of Fungi in Soil
-
-Fungi have been components of microbial communities of many terrestrial environments since the Ordovician period (480-460 MYBP).
-
-They are of fundamental importance in the terrestrial environment, with roles as decomposers, plant pathogens, and symbionts, and in elemental cycles. In soil, fungi can comprise the largest pool of biomass, exceeding other microorganisms and invertebrates. They also play a role in the maintenance of soil structure owing to their filamentous growth habit and exopolymer production.
-
-Despite their important roles in the biosphere, fungi are frequently neglected within broader environmental and microbiological spheres. The tendency to underestimate fungal importance stems partly from the difficulty of studying filamentous organisms in complex soil matrices.
-
-## Fungal Biomass and Dominance in Soil
-
-Soil fungal communities are very diverse, with mycorrhizal fungi being a particularly important group in the cycling of elements.
-
-The fungal filamentous growth habit gives them a high surface-area-to-mass ratio, together with the ability to translocate nutrients and form hydrated mucilaginous sheaths surrounding hyphae. This interconnected microenvironment within the fungal network ensures that fungal processes are an integral component of [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] to soil structure differ in scale and mechanism. While bacteria produce polysaccharides that bind microaggregates, fungal hyphae enmesh macroaggregates, providing structural stability that persists even when bacterial glues decompose.
+# Soil Fungi Roles in the Environment Fungi are of fundamental importance in terrestrial environments, and soil represents their primary domain. In soil, fungi can comprise the largest pool of biomass, exceeding that of other microorganisms and invertebrates combined. They play critical roles as decomposers, saprotrophic fungi, plant symbionts, and pathogens, while also contributing to fungal biogeochemistry and the maintenance of soil structure. ## The Primacy of Fungi in Soil Fungi have been components of microbial communities of many terrestrial environments since the Ordovician period (480-460 MYBP). They are of fundamental importance in the terrestrial environment, with roles as decomposers, plant pathogens, and symbionts, and in elemental cycles. In soil, fungi can comprise the largest pool of biomass, exceeding other microorganisms and invertebrates. They also play a role in the maintenance of soil structure owing to their filamentous growth habit and exopolymer production. Despite their important roles in the biosphere, fungi are frequently neglected within broader environmental and microbiological spheres. The tendency to underestimate fungal importance stems partly from the difficulty of studying filamentous organisms in complex soil matrices. ## Fungal Biomass and Dominance in Soil Soil fungal communities are very diverse, with mycorrhizal fungi being a particularly important group in the cycling of elements. The fungal filamentous growth habit gives them a high surface-area-to-mass ratio, together with the ability to translocate nutrients and form hydrated mucilaginous sheaths surrounding hyphae. This interconnected microenvironment within the fungal network ensures that fungal processes are an integral component of [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] to soil structure differ in scale and mechanism. While bacteria produce polysaccharides that bind microaggregates, fungal hyphae enmesh macroaggregates, providing structural stability that persists even when bacterial glues decompose.
 
 ## Biogeochemical Cycling
 
@@ -41,11 +22,11 @@ Key biogeochemical roles include:
 
 ## Mycorrhizal Contributions to Soil
 
-[[symbiotic-fungi-ectomycorrhizal-network-carbon-trading]] contribute to soil carbon pools and fluxes by directing up to 30% of net photosynthate in many forest ecosystems into their mycelial networks. Some EM fungi produce mycelium with highly thickened cell walls containing recalcitrant compounds like melanin, which decay very slowly and contribute to long-term carbon storage.
+[[symbiotic-fungi-ectomycorrhizal-network-carbon-trading]] contribute to soil carbon pools and fluxes by directing up to 30% of net photosynthate in many forest ecosystems into their [[fungal-mycelial-networks-nutrient-translocation]]. Some EM fungi produce mycelium with highly thickened cell walls containing recalcitrant compounds like melanin, which decay very slowly and contribute to long-term carbon storage.
 
 The [[mycelial-foraging-strategies-nutrient-translocation]] strategies of different species reflect adaptations to specific environmental conditions.
 
-Different species employ different foraging strategies:
+Different species employ different [[mycelial-foraging-strategies-nutrient-translocation]]:
 
 - **Mass fractal mycelia**: Open systems with well-defined cords, suited for long-range foraging and discovering large, sparsely distributed resources.
 
@@ -59,7 +40,7 @@ High-throughput molecular methods have revealed that culture-based approaches si
 
 [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]] enhance nutrient uptake, particularly phosphorus, while decomposition processes drive organic matter turnover and nutrient availability. Soil management practices that support fungal communities -- minimizing tillage, maintaining organic inputs, and avoiding excessive chemical inputs -- promote healthy soil ecosystems essential for crop productivity.
 
-The relationship between soil management and fungal health is reciprocal: practices that support diverse fungal communities (reduced tillage, diverse rotations, organic amendments) also benefit from the ecosystem services that fungi provide, including nutrient cycling, disease suppression, and soil structure maintenance. Agricultural intensification typically reduces fungal biomass and diversity, potentially compromising these essential functions.
+The relationship between soil management and fungal health is reciprocal: practices that support diverse fungal communities (reduced tillage, diverse rotations, organic amendments) also benefit from the [[biodiversity-of-fungi-ecosystem-services-agriculture]] that fungi provide, including nutrient cycling, disease suppression, and soil structure maintenance. Agricultural intensification typically reduces fungal biomass and diversity, potentially compromising these essential functions.
 
 ## Saprotrophic Communities in Soil
 
@@ -71,7 +52,7 @@ Both [[query-difference-between-white-rot-and-brown-rot-fungi]] play distinct ro
 
 ## Fungal Contributions to Soil Carbon
 
-Fungi contribute to soil carbon both directly, through production of recalcitrant cell wall compounds (chitin, melanin, glucans), and indirectly, through their influence on decomposition processes and soil aggregate formation.
+Fungi contribute to soil carbon both directly, through production of recalcitrant cell wall compounds (chitin, melanin, glucans), and indirectly, through their influence on decomposition processes and soil [[soil-aggregate-formation-fungal-contributions]].
 
 The fungal necromass pathway -- the incorporation of dead fungal biomass into soil organic matter -- represents a significant carbon stabilization mechanism that is distinct from plant-derived carbon inputs.
 
@@ -81,7 +62,7 @@ Soil fungi interact with diverse faunal groups that affect their distribution an
 
 - **Earthworms**: Transport fungal spores and hyphae through soil profiles, creating favorable conditions for fungal growth in casts.
 
-- **Collembola and mites**: Feed on fungal hyphae, regulating fungal biomass and community composition through selective grazing.
+- **Collembola and mites**: Feed on fungal hyphae, regulating fungal biomass and [[core-endorhiza-bacterial-community-composition-cannabis]] through [[dighton-selective-grazing-fungal-community-shifts]].
 
 - **Nematodes**: Include both fungal-feeding and fungal-parasitic species; [[ozier-pdc-composting-and-soil-building]] networks.
 
@@ -109,4 +90,4 @@ Fungal hyphae influence soil water relations through several mechanisms:
 
 - [[fungal-secondary-metabolites-environment]]
 
-- [[fungal-bioremediation]]
+- fungal-bioremediation

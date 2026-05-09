@@ -38,7 +38,7 @@ permaculture, and herbalism.
 pharmacopeias. It is closely related to white sweet clover (*M. albus*) and field melilot (*M. dentatus*). The plant
 grows 30–150 cm tall with an erect, branching stem. Leaves are trifoliate with serrated leaflets resembling those of
 alfalfa but more elongated. Flowers are borne in slender racemes 3–10 cm long, producing small yellow pea-like
-blossoms that are intensely fragrant. The taproot is deep (often exceeding 1.5 m), contributing to drought tolerance
+blossoms that are intensely fragrant. The taproot is deep (often exceeding 1.5 m), contributing to [[dighton-fungal-drought-tolerance-plant-water-relations]]
 and soil conditioning.
 
 ## Chemical Constituents
@@ -78,9 +78,9 @@ anticoagulant effects. German Commission E has approved *Melilotus* herb for top
 
 *Melilotus officinalis* is one of the most versatile cover crops available:
 
-- **Nitrogen fixation**: Forms symbiotic relationships with *Rhizobium meliloti*, fixing 100–170 kg N/ha over a
+- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]**: Forms symbiotic relationships with *Rhizobium meliloti*, fixing 100–170 kg N/ha over a
   full growing season, comparable to clover and vetch.
-- **Biomass production**: Produces abundant above-ground biomass (8–12 t/ha) suitable for mulch, green manure, or
+- **[[dighton-fungal-biomass-production-aquatic-ecosystems]]**: Produces abundant above-ground biomass (8–12 t/ha) suitable for mulch, green manure, or
   compost feedstock.
 - **Deep taproot**: Breaks compacted subsoil layers, bringing up nutrients from deep soil profiles; mines phosphorus
   and calcium from otherwise inaccessible horizons.
@@ -111,14 +111,14 @@ permaculture contexts, this trait can be managed through strategic placement and
 
 In permaculture systems, sweet clover serves multiple functions simultaneously:
 
-- **Dynamic accumulator**: The deep taproot mines calcium, phosphorus, potassium, and trace minerals from subsoil
+- **[[nutrient-dynamic-accumulator-reference]]**: The deep taproot mines calcium, phosphorus, potassium, and trace minerals from subsoil
   layers. When slashed and used as mulch, these minerals become available to shallow-rooted plants in the upper soil
   profile. This "nutrient pump" function makes it an excellent companion for fruit trees and berry bushes in food
   forest understories.
-- **Beneficial insect habitat**: The prolonged flowering period attracts pollinators (honeybees, bumblebees, native
+- **[[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] habitat**: The prolonged flowering period attracts pollinators (honeybees, bumblebees, native
   bees, butterflies) and predatory insects (syrphid flies, parasitic wasps) that provide pest control services to
   adjacent crops.
-- **Erosion control**: Quick establishment on slopes and disturbed sites makes sweet clover effective for erosion
+- **[[permplant-willows-salix-erosion-control-fodder]]**: Quick establishment on slopes and disturbed sites makes sweet clover effective for erosion
   control during the establishment phase of perennial plantings. The extensive root network stabilizes soil.
 - **Pest repellent**: The coumarin scent is reported to deter certain pest insects, though scientific evidence for
   this is limited.
@@ -128,4 +128,7 @@ In permaculture systems, sweet clover serves multiple functions simultaneously:
 - [[trifolium-repens]]
 - [[medicago-sativa]]
 - coumarin
-- [[comfrey]]
+- comfrey
+- [[permaculture-design]]
+- [[companion-planting]]
+- [[herbal-medicine]]

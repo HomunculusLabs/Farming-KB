@@ -1,5 +1,5 @@
 ---
-title: "4-TASB (4-THIOASYMBESCALINE;) -- PIHKAL Entry #147"
+title: "4-TASB (4-THIOASYMBESCALINE;) -- 2c-b-pihkal-entry-20 #147"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -77,7 +77,7 @@ bromination step below.
 To a stirred solution of 15.0 g of 3-ethoxy-2-(ethylthio)anisole in
 100 mL CH2Cl2 there was added 12 g elemental bromine dissolved in 25
 mL CH2Cl2. There was the copious evolution of HBr. After stirring at
-ambient temperature for 3 h, the dark solution was added to 300 mL H2O
+[[jadam-ambient-temperature-principle]] for 3 h, the dark solution was added to 300 mL H2O
 containing sodium dithionite. Shaking immediately discharged the
 residual bromine color, and the organic phase was separated, The
 aqueous phase was extracted once with 100 mL CH2Cl2, the pooled
@@ -101,7 +101,7 @@ THF. There was an immediate development of a dark red-brown color.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

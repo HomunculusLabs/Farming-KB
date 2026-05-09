@@ -10,13 +10,13 @@ type: concept
 
 # Physarum Computation
 
-Physarum computation uses the slime mold *[[unconventional-computing]] research. Its ability to solve
+Physarum computation uses the [[biological-slime-mold-computing]] *[[unconventional-computing]] research. Its ability to solve
 complex spatial problems through simple physical processes has attracted
 attention from mathematicians, computer scientists, and biologists alike.
 
 ## Biology of Physarum
 
-*Physarum polycephalum* exists in its vegetative phase as a large, single,
+*Physarum polycephalum* exists in its [[green-cannabis-grow-bible-vegetative-phase-management]] as a large, single,
 multinucleate cell called a plasmodium. It spans up to several square meters in
 the wild and consists of a branching network of vein-like tubes that shuttle
 cytoplasm back and forth via rhythmic contractions (peristalsis). Key biological

@@ -1,8 +1,8 @@
 ---
-title: Eleusinian Mysteries Overview
+title: mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries Overview
 created: 2026-04-26
 updated: 2026-04-24
-sources: The Road to Eleusis (Wasson, Hofmann, Ruck)
+sources: The the-road-to-eleusis-wasson-hofmann-ruck (Wasson, Hofmann, Ruck)
 type: concept
 tags: [reference]
 ---
@@ -27,7 +27,7 @@ inaccessible to rational cognition."
 
 The testimonies about that night of awe-inspiring experience are unanimous.
 Those who underwent the rite were said to be never the same afterward. Yet
-until the twentieth century, no one knew what justified utterances such as
+until the [[coleman-louis-savier-twentieth-century-maraicher]], no one knew what justified utterances such as
 these, and there are many like them scattered through classical literature.
 
 ## The Pilgrimage and Ritual Sequence
@@ -61,7 +61,7 @@ in the limbs, vertigo, nausea, and a cold sweat. Then came the vision, a
 sight amidst an aura of brilliant light that suddenly flickered through the
 darkened chamber. Eyes had never before seen the like, and the experience
 itself was incommunicable. Even a poet could only say that he had seen the
-beginning and the end of life and known that they were one, something given
+beginning and the [[powell-psilocybin-end-of-life-anxiety]] and known that they were one, something given
 by god. The division between earth and sky melted into a pillar of light.
 
 These are the symptomatic reactions not to a drama or ceremony, but to a
@@ -97,7 +97,7 @@ thousand years.
 
 The central claim of Wasson, Hofmann, and Ruck is that the secret of
 Eleusis lay in a potion containing water-soluble hallucinogenic alkaloids
-derived from ergot (Claviceps purpurea) growing on barley cultivated in the
+derived from ergot ([[bloomfield-ergot-claviceps-purpurea-ergotism]]) growing on barley cultivated in the
 adjacent Rarian plain. This thesis is elaborated in their book *The Road to
 Eleusis* (1978), which brought interdisciplinary collaboration between
 ethnomycology, chemistry, and classical scholarship to bear on the oldest

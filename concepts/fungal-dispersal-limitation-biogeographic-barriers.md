@@ -1,5 +1,5 @@
 ---
-title: Fungal Dispersal Limitation and Biogeographic Barriers
+title: Fungal fungal dispersal limitation biogeographic barriers and Biogeographic Barriers
 created: 2026-04-26
 tags:
   - fungal-biogeography
@@ -19,7 +19,7 @@ type: concept
 Dispersal limitation is a critical factor shaping [[coprophilous-fungi]] can travel vast distances via wind or
   animal vectors, potentially achieving cosmopolitan distributions
 - **Moderately dispersive taxa**: Many wood-inhabiting and leaf
-  litter fungi have spore dispersal mechanisms that allow regional
+  litter fungi have [[aquatic-fungi-spore-dispersal-ingold]] mechanisms that allow regional
   movement but may limit transoceanic dispersal
 - **Dispersal-limited taxa**: Sequestrate (truffle-like) fungi that
   depend on animals for spore dispersal face severe limitations on
@@ -46,7 +46,7 @@ structure in their communities.
 
 Endemism is common among sequestrate fungi, in part because of host
 specificity and dispersal limitation. The predominance of north-south
-oriented mountain ranges in North America and Australia permitted
+oriented mountain ranges in [[psilocybin-north-america-pacific-northwest]] and Australia permitted
 fungal and host-species migrations in response to climate changes
 during the Ice Ages. In Europe, the predominantly east-west
 orientation of major mountain ranges impeded species migrations, a
@@ -79,9 +79,9 @@ both challenges and opportunities for fungal conservation:
 - North-south mountain ranges facilitate altitudinal and latitudinal
   migration, while east-west ranges impede it
 - Historical climate changes (Pleistocene glaciation) have left
-  lasting imprints on fungal distribution patterns
+  lasting imprints on fungal [[guzman-global-distribution-patterns-neurotropic-fungi]]
 - Local extinctions caused by Pleistocene glaciation contributed to
-  reduced tree diversity and fungal diversity in Europe
+  reduced tree diversity and [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] in Europe
 - Contemporary climate change may create new dispersal corridors or
   barriers
 

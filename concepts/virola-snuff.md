@@ -1,5 +1,5 @@
 ---
-title: Virola Snuff
+title: entheogen-virola-snuff-ethnobotany-chemistry
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -69,7 +69,7 @@ practical purposes:
 
 Among the Yanomamo (Waika), the use of virola snuff is closely tied
 to the practice of shamanism and is considered essential for the
-shaman's ability to perform healing and divination. The snuff enables
+shaman's ability to perform [[metzner-shamanic-healing-and-divination-paradigm]]. The snuff enables
 the shaman to send his spirit on journeys to the spirit world, where
 he can negotiate with supernatural forces on behalf of patients and
 the community.
@@ -102,6 +102,6 @@ high DMT content and the efficiency of nasal absorption:
   use discharge
 - Rapid onset of visual hallucinations (within minutes)
 - Sensations of floating, flying, or bodily dissolution
-- Visions of spirit beings, animals, geometric patterns, and mythologi
+- Visions of [[metzner-spirit-beings-multiple-realities-entheogens]], animals, geometric patterns, and mythologi
   cal scenes
 - Altered perception of time and space

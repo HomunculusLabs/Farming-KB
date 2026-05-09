@@ -87,7 +87,7 @@ emotions with unusual clarity rather than escaping into altered reality.
 
 Shulgin was troubled by recreational abuse and criminalization, believing
 therapeutic potential was being squandered. He advocated for controlled
-clinical research throughout his life. He also expressed concern about street
+[[hofmann-lsd-clinical-research-early-studies]] throughout his life. He also expressed concern about street
 ecstasy adulteration, a recurring theme in his later public statements.
 
 ## Pharmacology
@@ -125,7 +125,7 @@ profound empathogen, though this oversimplifies its unique character.
 MDMA's journey from Shulgin's laboratory to global phenomenon is remarkable.
 After introduction to psychotherapists in the late 1970s, it was used by
 hundreds before DEA emergency scheduling in 1985. It became the defining
-drug of rave culture in the 1990s and 2000s. Recent MAPS clinical trials
+drug of [[acid-house-rave-culture-and-second-mushroom-boom]] in the 1990s and 2000s. Recent MAPS [[mushroom-cancer-clinical-trials-overview]]
 have demonstrated MDMA's efficacy in treating PTSD, leading to FDA review.
 It remains Schedule I but is at the forefront of the psychedelic renaissance
 in psychiatric medicine.

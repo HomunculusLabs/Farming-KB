@@ -26,13 +26,13 @@ frequently mistake it for harmless mushrooms.
 
 ## Identification and Appearance
 
-The death cap produces a fruiting body with a smooth, greenish-yellow
+The death cap produces a [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] with a smooth, greenish-yellow
 to olive cap that can reach 15 centimeters in diameter. The stem is
 white and bears a membranous ring (annulus) just below the cap, derived
 from the partial veil that covers the gills during development. At the
 base of the stem sits a cup-like volva, the remnant of the universal
 veil that enclosed the entire immature fruiting body. These features
-are shared with the destroying angel (*Amanita virosa*), a pure white
+are shared with the [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]] (*Amanita virosa*), a pure white
 species that is equally deadly.
 
 Death caps and destroying angels resemble the [[volvariella-volvacea]]*), widely cultivated in Asia. Vietnamese and
@@ -95,7 +95,7 @@ The autumn skullcap (*[[john-ramsbottom]] wrote
 in 1945, "there is only one practical way of distinguishing between
 edible and poisonous toadstools. This experimental method is sure, but
 the result may not profit a man." The safest approach is never to eat
-any wild mushroom without expert guidance.
+any [[emcdda-wild-mushroom-foraging-misidentification-hazards]] without expert guidance.
 
 ## See Also
 
@@ -103,9 +103,9 @@ any wild mushroom without expert guidance.
 - [[peter-mantle-liberty-cap-chromatographic-discovery-1969]]
 
 - [[mycotoxins]].md)
-- [Fungal Pathogens and Human Disease]([[fungal-pathogens-human-disease]].md)
+- [[bloomfield-fungal-pathogens-and-parasites]] and Human Disease]([[fungal-pathogens-human-disease]].md)
 - [Insect-Fungi Interactions]([[insect-fungi-interactions]].md)
-- [Phallus Impudicus (Stinkhorn)]([[phallus-impudicus-stinkhorn]].md)
+- [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]] (Stinkhorn)]([[phallus-impudicus-stinkhorn]].md)
 
 ## References
 
@@ -114,4 +114,4 @@ any wild mushroom without expert guidance.
   Chapter 8: Angels of Death, pp. 151-168.
 - Benjamin, D. R. (1995). *Mushrooms: Poisons and Panaceas*. W.H.
   Freeman.
-- Ramsbottom, J. (1945). *Poisonous Fungi*. Penguin Books.
+- Ramsbottom, J. (1945). *[[ramsbottom-poisonous-fungi-identification-guide]]*. Penguin Books.

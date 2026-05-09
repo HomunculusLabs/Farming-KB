@@ -53,7 +53,7 @@ More than half the lost calcium was replaced by rainfall; the rest was weathered
 from rocks by roots and soil organisms.
 
 This 98% efficiency far exceeds the 30% recycling rate of most municipal programs.
-On heavily fertilized agricultural land, calcium losses range from 25% to 60%
+On heavily fertilized [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]], calcium losses range from 25% to 60%
 annually. A truly sustainable society must recycle as well as nature does.
 
 ## The Journey of a Falling Leaf
@@ -80,7 +80,7 @@ dynamics:
 
 ## The Primary Decomposers
 
-The first organisms to dine on rotting organic matter are the primary decomposers:
+The first organisms to dine on rotting [[hamilton-composting-and-organic-matter-management]] are the primary decomposers:
 invertebrates, bacteria, algae, fungi, and actinomycetes. Each plays a distinct
 role:
 
@@ -101,17 +101,17 @@ soil. Key strategies include:
 - **Avoid tilling**: Preserves fungal networks, soil structure, and microbial
   communities
 - **Apply mulch**: Feeds soil organisms, moderates temperature, retains moisture
-- **Compost in place**: Sheet mulching builds soil without disturbing existing
+- **Compost in place**: [[comparison-sheet-mulching-vs-chop-and-drop-mulching]] builds soil without disturbing existing
   ecology
-- **Plant cover crops**: Living roots exude sugars that feed soil microbes
+- **Plant [[gaias-garden-cover-crops-soil-building]]**: Living roots exude sugars that feed soil microbes
 - **Minimize chemical inputs**: Pesticides and herbicides devastate soil life
-- **Diversify plantings**: Different root exudates support different microbial
+- **Diversify plantings**: Different [[mycorrhizal-root-exudates-pathogen-interactions]] support different microbial
   communities
 
 ## The Humus Molecule
 
 The end product of decomposition is humus—a complex, stable organic molecule that
-provides numerous soil benefits: improved water retention, cation exchange capacity,
+provides numerous soil benefits: improved water retention, [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity,
 soil structure, and slow-release nutrient storage. Humus is what distinguishes
 living soil from dead mineral substrate. Building humus is the long-term goal of
 all soil management practices.

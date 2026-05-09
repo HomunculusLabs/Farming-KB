@@ -1,5 +1,5 @@
 ---
-title: Ethnomycology and Cultural Significance of Sacred Fungi
+title: Ethnomycology and ethnomycology cultural significance sacred fungi of Sacred Fungi
 created: 2026-04-28
 tags:
   - ethnomycology
@@ -61,19 +61,19 @@ healing and guidance.
 
 ## Siberian Amanita Traditions
 
-The ethnomycology of Amanita muscaria in Siberia represents the
+The ethnomycology of [[allegro-amanita-muscaria-properties-and-pharmacology]] in Siberia represents the
 best-documented indigenous mushroom practice outside the Americas. The
 Koryak people of the Kamchatka Peninsula held A. muscaria in high
 esteem as both a religious sacrament and a social intoxicant. Their
 mythology includes stories about the wapaq (the fly agaric) as a gift
 from the creator god, and its use was governed by complex social rules.
 The practice of urine-drinking to recycle muscimol is one of the most
-distinctive features of Siberian ethnomycology and has been documented
+[[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] of Siberian ethnomycology and has been documented
 in multiple indigenous groups.
 
 ## Amazonian and Andean Ethnomycology
 
-South American ethnomycology is less well documented but includes
+[[chiric-caspi-brunfelsia-south-american-hallucinogen]] ethnomycology is less well documented but includes
 several important traditions. The use of Psilocybe zapotecorum and
 related species in Andean communities of Colombia, Ecuador, Peru, and
 Bolivia has been documented. In the Colombian Amazon, the use of
@@ -118,16 +118,18 @@ fungi alongside scientific documentation.
 
 ## Threats to Indigenous Mushroom Knowledge
 
-Indigenous mushroom traditions face multiple threats including
+Indigenous [[sacred-mushroom-traditions-in-mexico]] face multiple threats including
 urbanization, cultural assimilation, religious conversion, legal
 prohibition, and the commercialization of psychedelic experiences.
-The commodification of Mazatec mushroom ceremonies by Western
+The commodification of [[maria-sabina-mazatec-mushroom-ceremony]] ceremonies by Western
 tourists has created tensions within indigenous communities and
 raised important ethical questions about the appropriation of
 sacred practices. The documentation of these traditions in
 scientific literature serves an important preservation function.
 
 ## See Also
+
+- [[ethnomycology-psychoactive-fungi]]
 
 - [[mexico-center-neurotropic-fungal-diversity]]
 - amanita-muscaria-and-ibotenic-acid-fungi

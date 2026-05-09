@@ -1,31 +1,13 @@
 ---
-title: Oyster Mushroom Harvesting and Post-Harvest Handling
+title: Oyster oyster [[growing-gourmet-mushroom-harvesting-marketing-guide]] [[cannabis-curing-storage-post-harvest-clarke]] and Post-Harvest Handling
 created: 2026-04-28
-tags: [[mycology, harvesting, post-harvest, pleurotus, storage]
+tags: [mycology, harvesting, post-harvest, pleurotus, storage]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
 type: concept
 ---
-
-# Oyster Mushroom Harvesting and Post-Harvest Handling
-
-Proper harvesting technique and post-harvest
-handling are critical for maximizing oyster
-mushroom quality, shelf life, and market value in
-commercial and hobby cultivation. Mushrooms are
-highly perishable, with respiration rates
-comparable to leafy vegetables. Delays or improper
-handling between harvest and cold storage can
-significantly reduce quality, visual appeal, and
-marketability. Post-harvest losses in mushroom
-production can reach 20-40% without proper
-handling protocols and cold chain management.
-
-## Optimal Harvest Timing
-
-### Maturity Indicators
-[[oyster-mushroom-species]] grow in shelf-like
+# Oyster Mushroom Harvesting and Post-Harvest Handling Proper harvesting technique and post-harvest handling are critical for maximizing oyster mushroom quality, shelf life, and market value in commercial and hobby cultivation. Mushrooms are highly perishable, with respiration rates comparable to leafy vegetables. Delays or improper handling between harvest and cold storage can significantly reduce quality, visual appeal, and marketability. Post-harvest losses in mushroom production can reach 20-40% without proper handling protocols and cold chain management. ## Optimal Harvest Timing ### Maturity Indicators [[oyster-mushroom-species]] grow in shelf-like
 clusters (especially pearl, blue, pink, and golden
 oysters). The entire cluster should be harvested
 at once by cutting at the base with a sharp knife
@@ -39,6 +21,7 @@ reduce contamination risk at the wound site.
 ### King Oyster Method
 King oysters ([[mushroom-harvesting-and-post-harvest-handling]]
 - [[duggar-mushroom-harvest-and-post-harvest]]
+
 ## Practical Considerations
 
 When working with Oyster Mushroom Harvesting and Post-Harvest Handling, several practical factors should be
@@ -55,7 +38,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -92,9 +75,8 @@ advance the field as a whole. Cross-pollination of ideas from biology,
 ecology, data science, and traditional knowledge systems generates novel
 perspectives and solutions that may not emerge within any single domain.
 
-For continued learning, recommended resources include current research
+For continued learning, recommended resources include [[psychedelic-therapy-current-research]]
 publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

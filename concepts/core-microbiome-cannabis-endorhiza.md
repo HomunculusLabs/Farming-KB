@@ -33,7 +33,7 @@ The consistency of this core across five distinct cultivars suggests strong sele
 
 Pseudomonas species were among the most abundant and consistent members of the Cannabis endorhiza core. These bacteria are prolific plant colonizers known for producing growth-promoting hormones, siderophores, and antimicrobial compounds.
 
-Pseudomonas fluorescens and related species are common rhizosphere and endophytic associates of many crop plants. They contribute to plant health through direct growth stimulation, induced systemic resistance, and suppression of soil-borne pathogens.
+Pseudomonas fluorescens and related species are common rhizosphere and endophytic associates of many crop plants. They contribute to plant health through direct growth stimulation, [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance, and suppression of soil-borne pathogens.
 
 In the Cannabis system, Pseudomonas abundance in the endorhiza was significantly structured by cultivar identity. Different Cannabis strains hosted distinct relative abundances of Pseudomonas operational taxonomic units (OTUs), even when grown in identical soils.
 
@@ -55,9 +55,9 @@ Xanthomonadaceae members in the Cannabis endorhiza likely include Stenotrophomon
 
 ## Actinomycetales in Root Tissue
 
-Actinomycetales, particularly Streptomyces and related genera, formed part of the consistent endorhiza core. Actinomycetes are well-known for their production of bioactive secondary metabolites.
+Actinomycetales, particularly Streptomyces and related genera, formed part of the consistent endorhiza core. Actinomycetes are well-known for their production of bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]].
 
-In root environments, Actinomycetales contribute to plant defense by producing antibiotics that suppress pathogenic fungi and bacteria. Streptomyces species are among the most prolific antibiotic producers known in microbial ecology.
+In root environments, Actinomycetales contribute to plant defense by producing antibiotics that suppress pathogenic fungi and bacteria. Streptomyces species are among the most prolific antibiotic producers known in [[fukuoka-microbial-ecology-decomposition]].
 
 Their persistence in the Cannabis endorhiza across all cultivars suggests they provide a baseline defense function. The diverse secondary metabolite repertoire of Actinomycetales may help protect root tissue from opportunistic pathogens during colonization.
 
@@ -73,7 +73,7 @@ Their consistent presence in endorhiza tissue across cultivars is noteworthy. Wh
 
 While the core six groups were present in all cultivars, their relative abundances varied significantly between strains. This cultivar-specific modulation suggests host genetic factors influence the composition of even the most conserved microbiome members.
 
-For example, Methylophilus was highly abundant in the endorhiza of Bookoo Kush, comprising 13% of the microbial community. The same genus was nearly absent in Sour Diesel and comprised only 0.13% in Burmese.
+For example, Methylophilus was highly abundant in the endorhiza of Bookoo Kush, comprising 13% of the [[edaphic-factors-microbial-community-structure]]. The same genus was nearly absent in Sour Diesel and comprised only 0.13% in Burmese.
 
 Similarly, Sphingomonas wittichii showed cultivar-specific enrichment in Maui Wowie. This species can metabolize phenazine-1-carboxylic acid, suggesting potential links between secondary metabolite production and microbiome assembly.
 
@@ -103,13 +103,15 @@ PowerSoil DNA isolation kits were used with a modified heating step at 65°C for
 
 ## Edaphic Influence on Core Stability
 
-Despite the consistency of core taxa across cultivars, soil type had the strongest overall effect on community composition. Edaphic factors including nitrogen, salinity, carbon, water content, and pH all significantly correlated with community beta-diversity.
+Despite the consistency of core taxa across cultivars, soil type had the strongest overall effect on [[core-endorhiza-bacterial-community-composition-cannabis]]. [[soil-edaphic-factors-microbial-communities]] including nitrogen, salinity, carbon, water content, and pH all significantly correlated with community beta-diversity.
 
 The resilience of the core community across different soil types demonstrates strong host selection. While overall community structure shifts with soil chemistry, the six core groups persist regardless of growing conditions.
 
 Nitrogen content showed the strongest correlation with community structure, followed by salinity and carbon. These findings suggest that while soil determines the available microbial pool, the host plant selectively filters and enriches specific taxa during root colonization.
 
 ## See Also
+
+- [[core-endorhiza-microbiome-proteobacteria-enrichment-cannabis]]
 
 - [[cannabis-two-tier-microbiome-selection]]
 - [[endorhiza-bacterial-communities]]

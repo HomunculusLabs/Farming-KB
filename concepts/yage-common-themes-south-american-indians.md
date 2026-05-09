@@ -1,5 +1,5 @@
 ---
-title: Common Themes in South American Indian Yagé Experiences
+title: Common Themes in South harner-american-indian-peyote-rituals Yagé Experiences
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -54,7 +54,7 @@ The experience of soul flight is one of the most widely reported effects of yag�
 
 ## Theme 3: Hallucinations Interpreted as Demons and/or Deities
 
-Yagé visions are routinely interpreted through each culture's supernatural framework, with beings classified as either deities or demons depending on context. These encounters often mirror the shamanic battles described in [[beta-carboline-chemistry]] of Banisteriopsis alkaloids.
+Yagé visions are routinely interpreted through each culture's supernatural framework, with beings classified as either deities or demons depending on context. These encounters often mirror the [[amazonian-shamanic-battles-and-defensive-powers]] described in [[beta-carboline-chemistry]] of Banisteriopsis alkaloids.
 
 The independent invention of the word "trip" in both [[chelated-nutrients]]'s companion study — documented in [[european-witchcraft-hallucinogenic-plants]] and other cross-cultural psychedelic phenomena.
 
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

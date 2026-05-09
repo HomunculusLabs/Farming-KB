@@ -1,5 +1,5 @@
 ---
-title: Peroxidase-Catalyzed PAH Degradation by Fungi
+title: Peroxidase-Catalyzed PAH query-how-does-lignin-degradation-by-fungi-work
 created: 2026-04-26
 tags: [peroxidase, pah-degradation, lignin-peroxidase, manganese-peroxidase, fungal-enzymes]
 date: 2026-04-25
@@ -12,9 +12,9 @@ type: concept
 # Peroxidase-Catalyzed PAH Degradation by Fungi
 
 Enzyme treatment provides a powerful strategy for the removal of
-polycyclic aromatic hydrocarbons (PAHs) in wastewaters and soils.
+[[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs) in wastewaters and soils.
 White-rot Basidiomycetes produce a complex inventory of peroxidases,
-including lignin peroxidase (LiP) and manganese peroxidase (MnP), which
+including lignin peroxidase (LiP) and [[fungal-manganese-peroxidase-remediation]] (MnP), which
 play central roles in PAH oxidation through one-electron transfer
 mechanisms producing reactive cation radicals.
 
@@ -31,7 +31,7 @@ PAH degradation by mediating LiP to form cation radicals.
 
 ## Veratryl Alcohol Mediation
 
-Veratryl alcohol, a common secondary metabolite produced by white-rot
+Veratryl alcohol, a common [[fungal-elicitors-enhanced-secondary-metabolite-production]] produced by white-rot
 fungi along with LiP, serves as an ideal reducing substrate for
 compounds I and II of the LiP catalytic cycle. The oxidized VA cation
 may react with H2O2 to produce a highly reactive dioxygen anion, which
@@ -74,7 +74,7 @@ maintaining greater than 99% degradation.
 
 ## [[trametes-versicolor-entity]] MnP
 
-Trametes versicolor MnP degraded 75% of phenanthrene (10 mg/l) in 11
+[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] MnP degraded 75% of phenanthrene (10 mg/l) in 11
 days and 100% of fluorene in 7 days (Collins and Dobson, 1996).
 P. chrysosporium MnP achieved greater than 99% degradation of fluorene
 (20 uM) through MnP-based lipid peroxidation in 7 days (Bogan et al.,
@@ -87,7 +87,7 @@ Certain white-rot fungi produce MnP and laccase in the absence of LiP,
 including Ceriporiopsis subvermispora, Phlebia brevispora, Panus
 tigrinus, Rigidoporus lignosus, Stereum hirsutum, and Ganoderma
 valesiacum. Most species express peroxidases and laccases as several
-isoenzymes. The glycosylated nature of ligninolytic enzymes increases
+isoenzymes. The glycosylated nature of [[singh-ligninolytic-enzymes-fungal-bioremediation]] increases
 stability. One-electron oxidation produces cation radicals that undergo
 spontaneous C-C cleavage, hydroxylation, or other reactions forming
 more hydrophilic products.

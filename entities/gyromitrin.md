@@ -17,7 +17,7 @@ sources:
 # Gyromitrin
 
 **Gyromitrin** (acetaldehyde methylformylhydrazone) is a volatile, water-soluble organic
-compound and the primary toxic constituent of false morel mushrooms, principally
+compound and the primary toxic constituent of [[bloomfield-false-morel-gyromitrin-volatile-toxin-cooking-risk]] mushrooms, principally
 gyromitra esculenta. It is a hydrazine derivative that is both acutely toxic and a
 proven carcinogen, making it one of the most unusual and dangerous mushroom toxins known.
 
@@ -57,8 +57,8 @@ family Discinaceae in the order Pezizales:
   This species has a deeply wrinkled, brain-like cap that superficially resembles true morels
   (Morchella species), which contributes to accidental poisonings.
 
-- **gyromitra gigas** (snowbank false morel): A North American species that fruits in
-  early spring near melting snowbanks, with variable and generally lower toxin levels than
+- **gyromitra gigas** (snowbank false morel): A [[growing-gourmet-north-american-reishi-species]] species that fruits in
+  [[coleman-overwintered-onions-and-early-spring-crops]] near melting snowbanks, with variable and generally lower toxin levels than
   G. esculenta.
 
 - **gyromitra infula** (hooded false morel): Contains lower but still significant
@@ -70,8 +70,8 @@ family Discinaceae in the order Pezizales:
 - **gyromitra ambigua**: A European species containing gyromitrin.
 
 The toxin concentration varies significantly depending on geographic location, growing
-conditions (soil composition, temperature, humidity), the age of the fruiting body, and
-storage conditions. Some populations of gyromitra esculenta in Scandinavia and eastern
+conditions (soil composition, temperature, humidity), the age of the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]], and
+[[vegetable-storage-conditions-by-temperature-and-humidity]]. Some populations of gyromitra esculenta in Scandinavia and eastern
 Europe have been reported to contain particularly high levels.
 
 ## Mechanism of Toxicity
@@ -109,6 +109,8 @@ during cooking. The volatile gyromitrin released during heating of gyromitra esc
 can reach toxic concentrations in poorly ventilated kitchens, basements, or enclosed spaces.
 
 ## See Also
+
+- [[bloomfield-false-morel-gyromitrin-volatile-toxin-cooking-risk]]
 
 - [[amanita-species-ecology-identification-mycohhizal]]
 - [[agaritine]]

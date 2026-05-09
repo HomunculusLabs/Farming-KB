@@ -1,15 +1,15 @@
 ---
-title: Cannabis Reflux Extraction Apparatus
+title: Cannabis cannabis reflux extraction apparatus Apparatus
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 # Cannabis Reflux Extraction Apparatus
 
-Reflux extraction is the foundational technique in cannabis alchemy, providing a safe and efficient method for dissolving the essential oils of cannabis into a solvent. The reflux apparatus, as described in Ben Lemon's Cannabis Alchemy, is designed to be constructed from common household and hardware store items, making cannabis oil extraction accessible without specialized laboratory equipment. The design prioritizes safety while enabling the extraction of cannabinoids from large quantities of plant material.
+Reflux extraction is the foundational technique in [[lemon-cannabis-alchemy-advanced-refinement-techniques]], providing a safe and efficient method for dissolving the [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] of cannabis into a solvent. The reflux apparatus, as described in Ben Lemon's Cannabis Alchemy, is designed to be constructed from common household and hardware store items, making cannabis oil extraction accessible without specialized laboratory equipment. The design prioritizes safety while enabling the extraction of cannabinoids from large quantities of plant material.
 
 ## Principles of Reflux Extraction
 
@@ -19,7 +19,7 @@ The key safety advantage of reflux is that the solvent is contained within a clo
 
 ## Basic Apparatus Design
 
-The classical reflux apparatus for cannabis extraction consists of two nested vessels within a water bath. The inner vessel is a stainless-steel pot containing the cannabis material and solvent. The outer vessel is a large stew pot filled with boiling water that serves as an indirect heat source.
+The classical reflux apparatus for [[comparison-cannabis-extraction-basics-vs-extraction-methods]] consists of two nested vessels within a water bath. The inner vessel is a stainless-steel pot containing the cannabis material and solvent. The outer vessel is a large stew pot filled with boiling water that serves as an indirect heat source.
 
 The top of the stew pot is covered with a lid that has been modified to hold ice. As solvent fumes rise from the inner pot, they contact the ice-cooled lid, condense back to liquid, and drip down into the extraction pot. This simple but effective condensation system eliminates the need for laboratory-grade condensers.
 
@@ -29,7 +29,7 @@ A sheet of stainless-steel screen is placed in the inner pot to support the cann
 
 The inner pot should not be over two-thirds full when the cannabis material is covered with half again its volume of solvent. This headspace is necessary to accommodate boiling and prevent solvent from bubbling over into the water bath.
 
-The stew pot lid must fit snugly to contain the solvent fumes. Ice is placed on top of the lid, and the cold temperature causes rapid condensation of the solvent vapors. The ice must be replenished as it melts to maintain condensation efficiency.
+The stew pot lid must fit snugly to contain the solvent fumes. Ice is placed on top of the lid, and the [[snow-mold-fungi-cold-temperature-plant-pathogens]] causes rapid condensation of the solvent vapors. The ice must be replenished as it melts to maintain condensation efficiency.
 
 The stainless-steel pot containing the cannabis and solvent sits in the stew pot, elevated above the bottom by the screen. The boiling water in the outer pot heats the inner pot indirectly, preventing the solvent from reaching its flash point through direct contact with the heat source.
 
@@ -37,7 +37,7 @@ The stainless-steel pot containing the cannabis and solvent sits in the stew pot
 
 Several solvents are suitable for cannabis reflux extraction, each with different properties and tradeoffs.
 
-Methyl alcohol (methanol, wood alcohol, boiling point 64 degrees Celsius) is inexpensive and effective but highly toxic. Ingestion of even small amounts can cause permanent damage, and any traces remaining in the final product pose health risks. Methanol also extracts some non-psychoactive tars that require additional purification steps.
+[[psilocybin-methyl-alcohol-extraction-technique]] (methanol, wood alcohol, boiling point 64 degrees Celsius) is inexpensive and effective but highly toxic. Ingestion of even small amounts can cause permanent damage, and any traces remaining in the final product pose health risks. Methanol also extracts some non-psychoactive tars that require additional purification steps.
 
 Ethyl alcohol (ethanol, grain alcohol, boiling point 78 degrees Celsius) is the preferred solvent for safety. It is significantly less toxic than methanol and produces a cleaner initial extract. Denatured ethanol is commonly used for cost reasons, provided the denaturants can be removed during processing. Ethanol's higher boiling point means slower extraction but also reduces fire risk.
 

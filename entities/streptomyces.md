@@ -44,7 +44,7 @@ Members of the genus are best known for producing the earthy odor molecule geosm
 **Genus:** *Streptomyces*.
 The genus was formalized by Selman Waksman and Arthur Henrici in 1943 during revision of older actinomycete classifications.
 It includes many organisms once grouped loosely with *Actinomyces* because of their branching growth form.
-Unlike true fungi, streptomycetes are prokaryotes with bacterial cell structure and peptidoglycan-containing [[singh-fungal-interactions-with-heavy-metals-in-soil]] writing between bacteria and mycelial decomposers.
+Unlike true fungi, streptomycetes are prokaryotes with bacterial [[plant-cell-structure-and-organelles]] and peptidoglycan-containing [[singh-fungal-interactions-with-heavy-metals-in-soil]] writing between bacteria and mycelial decomposers.
 
 ## Morphology
 
@@ -53,7 +53,7 @@ Others act as mycorrhiza-helper bacteria by changing the microbial environment a
 Plant-beneficial strains may inhibit damping-off fungi, root pathogens, and nematode-associated microbes through antibiotics and enzymes.
 However, the genus also contains plant pathogens.
 Species such as *Streptomyces scabiei* cause common scab of potato by producing phytotoxins such as thaxtomin.
-Other pathogenic species are associated with scab or rot diseases of potato, sweet potato, beet, radish, and related crops.
+Other pathogenic species are associated with scab or rot diseases of potato, [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]], beet, radish, and related crops.
 For practical agriculture, the genus is therefore not simply beneficial or harmful; strain identity and crop context matter.
 
 ## Medical and pharmaceutical relevance
@@ -82,7 +82,7 @@ Industrial work must manage slow growth, morphological differentiation, and stra
 In compost or soil microscopy, actinomycetes are inferred from very fine branching filaments rather than identified to genus.
 On plates, *Streptomyces* colonies are often dry, tough, and powdery as spore chains mature.
 A strong earthy odor is suggestive but not diagnostic because geosmin is produced by several microbial groups.
-Genus-level confirmation generally requires culture traits plus molecular identification such as 16S rRNA sequencing or genome analysis.
+Genus-level confirmation generally requires culture traits plus [[biodiversity-fungal-molecular-identification-dna-barcoding]] such as 16S [[16s-rrna-sequencing-microbiome-analysis]] or genome analysis.
 Species-level identification is difficult because many taxa are closely related and chemically variable.
 
 ## Relevance to this wiki
@@ -96,11 +96,11 @@ The entity should not be treated as a single functional guild because decomposer
 
 ## Key takeaways
 
-*Streptomyces* is a bacterial genus, not a fungus, despite its mycelial growth habit.
+*Streptomyces* is a bacterial genus, not a fungus, despite its [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] habit.
 It is one of the dominant named actinomycete groups in aerated soil and mature compost.
 Its geosmin production explains much of the pleasant earthy odor associated with healthy soil.
 Its secondary metabolism has supplied many antibiotics, antifungals, antiparasitics, and anticancer agents.
-Its agricultural roles range from plant growth promotion and pathogen suppression to crop diseases such as potato scab.
+Its agricultural roles range from plant [[brassinosteroid-growth-promotion-psilocybe-cubensis]] and pathogen suppression to crop diseases such as potato scab.
 Its importance comes from strain-level diversity, so broad claims about the genus should be qualified by species, strain, and environment.
 
 ## See Also

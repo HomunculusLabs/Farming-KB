@@ -12,8 +12,8 @@ updated: 2026-05-08
 sources:
   - Kukkonen, I. (1990). "Schoenoplectus (Rchb.) Palla." In: Flora Europaea, Vol. 5, pp. 284-287. Cambridge University Press.
   - Haslam, S.M. (1978). River Plants. Cambridge University Press, pp. 164-182.
-  - Browning, J. & Gordon-Gray, K.D. (1999). "A contribution to the taxonomy of Schoenoplectus lacustris and S. tabernaemontani (Cyperaceae) in Africa." South African Journal of Botany, 65(3), 205-209.
-  - Vymazal, J. (2011). "Constructed wetlands for wastewater treatment: five decades of experience." Environmental Science & Technology, 45(1), 61-69.
+  - Browning, J. & Gordon-Gray, K.D. (1999). "A contribution to the taxonomy of Schoenoplectus lacustris and S. tabernaemontani (Cyperaceae) in Africa." [[kanna-sceletium-south-african-narcotic]] Journal of Botany, 65(3), 205-209.
+  - Vymazal, J. (2011). "[[comparison-constructed-wetlands-vs-bioswales]] for [[mollison-designers-wastewater-treatment-wetlands]]: five decades of experience." Environmental Science & Technology, 45(1), 61-69.
   - Rodewald-Rudescu, L. (1974). Das Schilfrohr (Phragmites communis Trin.). Die Binnengewässer, Band 27. Schweizerbart.
 ---
 
@@ -44,7 +44,7 @@ Two subspecies are generally recognized: subsp. *lacustris* (circumboreal, talle
 
 ## Distribution and Habitat
 
-*S. lacustris* has a circumboreal distribution, occurring across Europe, much of Asia, and North America. It is absent from tropical regions but extends into North Africa and the Middle East along major river systems.
+*S. lacustris* has a circumboreal distribution, occurring across Europe, much of Asia, and [[psilocybin-north-america-pacific-northwest]]. It is absent from tropical regions but extends into North Africa and the Middle East along major river systems.
 
 The species grows in standing or slow-moving fresh water, typically at depths of 0.3–1.5 m. It colonizes lake margins, backwaters, oxbow lakes, canals, and ditches. It prefers nutrient-rich substrates with organic mud but tolerates a wide range of conditions.
 
@@ -56,7 +56,7 @@ The species performs best in full sun but can persist in partial shade at the ed
 
 Club-rush stands provide important spawning habitat for fish species including pike, perch, and carp. The dense stem bases offer refuge for juvenile fish and invertebrates from predation. Waterfowl nest among the stems, with species such as moorhens, coots, and grebes commonly breeding in *Schoenoplectus* beds.
 
-Below the waterline, the stem bases and rhizomes create a complex three-dimensional structure that supports periphyton and epiphytic algae. This attached algal community contributes to primary production in the wetland and serves as food for grazing invertebrates such as snails and mayfly nymphs.
+Below the waterline, the stem bases and rhizomes create a complex three-dimensional structure that supports periphyton and epiphytic algae. This attached algal community contributes to [[lichens-primary-production-soil-formation-dighton]] in the wetland and serves as food for grazing invertebrates such as snails and mayfly nymphs.
 
 The extensive rhizome network binds substrate particles and reduces wave erosion along shorelines. Decomposing stem and rhizome material contributes significant organic matter to wetland sediments, fueling benthic detritivore communities.
 
@@ -88,7 +88,7 @@ Natural stands of *S. lacustris* have declined in parts of western Europe due to
 
 The species is listed as Least Concern by the IUCN but is protected under national legislation in several European countries. Conservation efforts focus on maintaining natural water level fluctuations and reducing nutrient inputs to remaining wetland habitats. Restoration projects have successfully re-established stands from rhizome transplants in former agricultural wetlands.
 
-Climate change poses a long-term threat through altered precipitation patterns and increased frequency of summer droughts in temperate regions. Reduced summer water levels may fragment existing stands and favor more drought-tolerant species.
+[[dighton-fungi-climate-change-feedback]] poses a long-term threat through altered precipitation patterns and increased frequency of summer droughts in temperate regions. Reduced summer water levels may fragment existing stands and favor more drought-tolerant species.
 
 ## Phytoremediation and Water Treatment
 
@@ -102,7 +102,7 @@ In horizontal subsurface-flow wetlands, *S. lacustris* shows excellent adaptabil
 
 ## See Also
 
-- [[typha-latifolia-entity]]
+- typha-latifolia-entity
 - [[acorus-calamus]]
 - [[nasturtium-officinale]]
 - [[nymphaea-alba]]

@@ -43,11 +43,11 @@ The fruit is a small, oblong utricle approximately 3 mm long, containing a singl
 
 ## Distribution and Habitat
 
-A. aspera has a pantropical distribution, occurring across South and Southeast Asia, sub-Saharan Africa, Central and South America, and the Caribbean. It is particularly abundant in India, where it grows throughout the country from sea level to 1,800 meters elevation.
+A. aspera has a [[copelandia-cyanescens-pantropical-distribution-and-ecology]], occurring across South and Southeast Asia, sub-Saharan Africa, Central and South America, and the Caribbean. It is particularly abundant in India, where it grows throughout the country from sea level to 1,800 meters elevation.
 
 The species colonizes a wide range of habitats including roadsides, wastelands, pastures, cultivated fields, and forest margins. It is tolerant of poor, compacted, and saline soils, contributing to its success as a weed species.
 
-It thrives in warm, humid conditions with annual rainfall of 500–2,000 mm. The plant displays considerable drought tolerance once established, owing to its deep taproot system that can extend over 1 meter into the soil profile.
+It thrives in warm, humid conditions with annual rainfall of 500–2,000 mm. The plant displays considerable [[dighton-fungal-drought-tolerance-plant-water-relations]] once established, owing to its deep taproot system that can extend over 1 meter into the soil profile.
 
 ## Cultivation
 
@@ -85,15 +85,15 @@ The sharp, hardened bracts of the inflorescence are an adaptation for epizoochor
 
 A. aspera serves as a host plant for several lepidopteran species, including the beet webworm (*Hymenia recurvalis*) and various Hesperiidae butterflies. The flowers attract small pollinators, particularly flies and small bees.
 
-The deep taproot system helps break compacted soils and can bring nutrients from deep soil layers to the surface through leaf litter decomposition. Despite its weedy status, the species contributes to soil ecosystem processes in degraded landscapes.
+The deep taproot system helps break compacted soils and can bring nutrients from deep soil layers to the surface through leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]]. Despite its weedy status, the species contributes to soil [[fungal-ecosystem-processes-overview]] in degraded landscapes.
 
 ## Weed Management
 
-A. aspera is classified as one of the most problematic weeds in Indian agriculture, particularly in cereal and legume crops. It competes aggressively for water, nutrients, and light, reducing crop yields by 15–30% in heavily infested fields.
+A. aspera is classified as one of the most problematic weeds in [[fukuoka-indian-agriculture-observations]], particularly in cereal and legume crops. It competes aggressively for water, nutrients, and light, reducing crop yields by 15–30% in heavily infested fields.
 
 Pre-emergence herbicides including atrazine and pendimethalin provide partial control, but the persistent seed bank requires integrated management strategies. Mechanical tillage before seed set is the most effective non-chemical control method.
 
-Biological control research has identified several fungal pathogens, including *Colletotrichum dematium* and *Puccinia achyranthis*, as potential biocontrol agents. However, no biological control program has been implemented due to the species' medicinal importance.
+[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] research has identified several fungal pathogens, including *Colletotrichum dematium* and *Puccinia achyranthis*, as potential biocontrol agents. However, no biological control program has been implemented due to the species' medicinal importance.
 
 ## Modern Pharmacological Research
 
@@ -105,7 +105,7 @@ Anti-cancer properties have been evaluated against several human cancer cell lin
 
 ## See Also
 
-- [[amaranthus-palmeri]]
+- amaranthus-palmeri
 - [[chenopodium-album]]
 - [[tropaeolum-majus]]
 - [[calendula-officinalis]]

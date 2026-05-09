@@ -10,7 +10,7 @@ updated: 2026-05-08
 sources:
   - "Green, P.S. (2004). A revision of Jasminum (Oleaceae) in Asia. Kew Bulletin, 59, 491–515."
   - "RHS (2023). Jasminum officinale. Royal Horticultural Society."
-  - "Khalil, A.K. et al. (2020). \"Volatile compounds and biological activities of Jasminum officinale.\" J. Essent. Oil Res., 32(3), 244–256."
+  - "Khalil, A.K. et al. (2020). \"[[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] and biological activities of Jasminum officinale.\" J. Essent. Oil Res., 32(3), 244–256."
 ---
 
 # Jasminum officinale (Common Jasmine)
@@ -85,7 +85,7 @@ The cultivar 'Grandiflorum' is particularly valued for its larger, more strongly
 
 ## Chemistry and Uses
 
-The essential oil of J. officinale contains benzyl acetate, linalool, indole, and farnesene.
+The [[permaculture-designers-manual-essential-oil-plants]] of J. officinale contains benzyl acetate, linalool, indole, and farnesene.
 
 Jasmine absolute is extracted through solvent extraction, yielding approximately 0.2% from fresh flowers.
 
@@ -128,4 +128,4 @@ In modern aromatherapy, jasmine absolute is classified as an aphrodisiac and moo
 - [[campsis-radicans]] — trumpet vine, a vigorous woody climber for large garden structures
 - [[wisteria-sinensis]] — Chinese wisteria, a flowering vine with a different fragrance profile
 - [[parthenocissus-tricuspidata]] — Boston ivy, a self-clinging vine for architectural coverage
-- [[asclepias-syriaca]] — common milkweed, a North American native with fragrant summer flowers
+- [[asclepias-syriaca]] — common milkweed, a [[growing-gourmet-north-american-reishi-species]] native with fragrant summer flowers

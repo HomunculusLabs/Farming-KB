@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -18,12 +19,12 @@ type: concept
 
 ## Overview
 
-Compost teas contain soluble organic nutrients diluted in water, but they
+[[bacterial-vs-fungal-compost-teas]] contain soluble [[organic-nutrients-vs-synthetic-nutrients]] diluted in water, but they
 also support a potent elixir loaded with beneficial microbes that fight
-off pests and diseases. A quarter teaspoon of a well-made compost tea
+off [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. A quarter teaspoon of a well-made compost tea
 holds more than a billion bacteria and at least 15 feet of fungi strands.
 A good compost tea also contains thousands of different species of
-protozoa, nematodes, and [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] for comprehensive organic techniques
+protozoa, nematodes, and [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] for comprehensive [[geoff-hamilton-organic-techniques]]
 - [[cervantes-organic-amendments-chart]] for organic nutrient sources
 ## Practical Applications
 
@@ -42,7 +43,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -92,7 +93,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -102,4 +103,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

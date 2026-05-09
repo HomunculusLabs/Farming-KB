@@ -8,7 +8,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 # Melatonin
 
-TIHKAL entry #35. The primary hormone produced by the pineal gland -- the only unpaired organ in the brain, long called the "third eye" by the new-age community. N-Acetyl-5-methoxytryptamine, derived biosynthetically from serotonin via N-acetylation followed by O-methylation. The body's "hormone of darkness," melatonin regulates circadian rhythms and has been implicated in anxiety, seasonal depression, and delayed sleep-phase syndrome.
+TIHKAL entry #35. The primary hormone produced by the [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]] -- the only unpaired organ in the brain, long called the "third eye" by the new-age community. N-Acetyl-5-methoxytryptamine, derived biosynthetically from serotonin via N-acetylation followed by O-methylation. The body's "hormone of darkness," melatonin regulates circadian rhythms and has been implicated in anxiety, seasonal depression, and delayed sleep-phase syndrome.
 
 ## Chemical Names
 
@@ -76,7 +76,7 @@ Serotonin is the immediate precursor to melatonin. It is the principal neurotran
 
 ## Synthesis
 
-From 5-methoxyindole via oxalyl chloride to the glyoxylamide (mp 245-247 C, 55% yield), LAH reduction to 5-methoxytryptamine (HCl salt mp 247.5-248.5 C), followed by acetylation with acetic anhydride in glacial acetic acid (1 min, 82% yield). Alternate routes through gramine or the aldehyde nitrostyrene are documented.
+From 5-methoxyindole via [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] to the glyoxylamide (mp 245-247 C, 55% yield), LAH reduction to 5-methoxytryptamine (HCl salt mp 247.5-248.5 C), followed by acetylation with acetic anhydride in glacial acetic acid (1 min, 82% yield). Alternate routes through gramine or the aldehyde nitrostyrene are documented.
 
 ## See Also
 

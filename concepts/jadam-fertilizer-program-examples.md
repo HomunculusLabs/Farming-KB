@@ -1,5 +1,5 @@
 ---
-title: JADAM Fertilizer Program Examples
+title: JADAM jadam-fertilizer-program-design Examples
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -14,7 +14,7 @@ sources:
 
 JADAM fertilizer programs combine [[jadam-phyllite-solution]], and [[jadam-wetting-agent-jwa]] to prevent marks
 - If using more than 20 L of JMS, JWA will be broken down (reduced wetting power)
-- 20 L of seawater can be replaced with 0.5 kg (1.1 lb) of sea salt
+- 20 L of seawater can be replaced with 0.5 kg (1.1 lb) of [[jadam-sea-salt-and-mineral-solutions]]
 - Seawater and sea salt reduce wetting power of JWA -- apply them to soil
 - Use seawater or sea salt 3-4 times per month
 
@@ -26,7 +26,7 @@ JADAM fertilizer programs combine [[jadam-phyllite-solution]], and [[jadam-wetti
 
 - [[jadam-phyllite-solution]] 60 L (16 gal)
 - GC-JLF ([[jadam-microorganism-solution-jms]] 100 L (26 gal)
-  - Can be replaced with 10 kg (22 lb) of leaf mold
+  - Can be replaced with 10 kg (22 lb) of [[comparison-leaf-mold-composting-vs-hot-composting-method]]
 - Add water to make 500 L (132 gal)
 
 **Application:** Leave seeds or seedlings in the solution for 2-3 minutes before planting.
@@ -44,7 +44,7 @@ JADAM fertilizer programs combine [[jadam-phyllite-solution]], and [[jadam-wetti
 
 ## Program 4: Body Growth Promoter
 
-**Purpose:** Boost vegetative growth during active growing period
+**Purpose:** Boost [[cannabis-vegetative-growth-stage]] during active growing period
 **Timing:** When additional growth boost is needed
 **Area:** 0.33 ha (0.8 ac)
 
@@ -60,7 +60,7 @@ JADAM fertilizer programs combine [[jadam-phyllite-solution]], and [[jadam-wetti
 
 - [[jadam-phyllite-solution]] 60 L (16 gal)
 - GC-JLF 30 L (8 gal)
-- Calcium phosphate JLF 60 L (16 gal)
+- [[bionutrients-lab-calcium-phosphate-calamansi]] JLF 60 L (16 gal)
 
 ## Program 6: Fruit Growth Promoter
 
@@ -84,7 +84,7 @@ For areas smaller than 0.1 ha (1/4 acre):
 
 ## See Also
 
-- [[jadam-microorganism-solution-jms]] - JMS production guide
+- [[jadam-microorganism-solution-jms]] - JMS [[comparison-biochar-production-guide-vs-biochar-soil-amendment]]
 - [[jadam-phyllite-solution]] - Phyllite solution preparation
 - [[jadam-soil-foundation-work]] - Detailed soil foundation method
 - [[jadam-leaf-mold-soil-method]]

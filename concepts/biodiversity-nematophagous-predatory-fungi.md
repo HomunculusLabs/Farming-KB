@@ -1,28 +1,13 @@
 ---
 title: "Nematophagous and Predatory Fungi"
 created: 2026-04-28
-tags: [[mycology, nematophagous-fungi, fungal-predators, soil-fungi, biodiversity]
+tags: [mycology, nematophagous-fungi, fungal-predators, soil-fungi, biodiversity]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 type: concept
 ---
-
-# Nematophagous and Predatory Fungi
-
-Nematophagous and predatory fungi constitute a diverse guild of fungal
-species that obtain part or all of their nutrition by attacking and
-consuming living microscopic invertebrates, primarily nematodes and
-rotifers. The existence of fungi using this nutritional mode was first
-revealed through the detailed studies of Charles Drechsler (1933,
-1941). More than 300 recognized species belonging to the Ascomycota,
-Basidiomycota, Chytridiomycota, Zygomycota, and the fungus-like
-Phylum Oomycota are now recognized as parasites or predators of
-microfauna.
-
-## Modes of Existence
-
-[[mycelial-networks]] in soil and capture
+# Nematophagous and Predatory Fungi Nematophagous and predatory fungi constitute a diverse guild of fungal species that obtain part or all of their nutrition by attacking and consuming living microscopic invertebrates, primarily nematodes and rotifers. The existence of fungi using this nutritional mode was first revealed through the detailed studies of Charles Drechsler (1933, 1941). More than 300 recognized species belonging to the Ascomycota, Basidiomycota, Chytridiomycota, Zygomycota, and the fungus-like Phylum Oomycota are now recognized as parasites or predators of microfauna. ## Modes of Existence [[mycelial-networks]] in soil and capture
 multiple animal prey per mycelial individual. They produce specialized
 capture organs including adhesive knobs, adhesive networks (three-
 dimensional nets), and constricting or nonconstricting rings. When a
@@ -87,19 +72,19 @@ media, typically nutrient agar seeded with bacteria (such as
 Escherichia coli or Pseudomonas species) that serve as food for
 bacteriophagous nematodes. The fungus-feeding nematode Aphelenchus
 avenae is commonly used as a test organism because it is easily
-cultured and widely available. Predatory and parasitic fungi can be
-recovered from soil by sprinkling soil particles on water agar plates
+cultured and widely available. Predatory and [[escovopsis-parasitic-fungi-attine-ant-gardens]] can be
+recovered from soil by sprinkling soil particles on water [[query-how-to-make-agar-plates-for-mushroom-cultivation]]
 seeded with nematodes and observing trapping or infection structures.
 
 ## Ecological Significance
 
 Nematophagous fungi play important roles in soil food webs and in the
 natural regulation of nematode populations. In agricultural systems,
-they serve as natural biological control agents against plant-parasitic
+they serve as natural [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents against plant-parasitic
 nematodes, which cause billions of dollars in crop losses annually.
 The activity of nematophagous fungi is influenced by soil moisture,
-temperature, organic matter content, and agricultural practices such
-as crop rotation and tillage.
+temperature, [[hamilton-composting-and-organic-matter-management]] content, and agricultural practices such
+as [[comparison-crop-rotation-vs-cover-cropping]] and tillage.
 
 Some nematophagous fungi also attack rotifers (bdelloid rotifers), which
 are abundant in terrestrial mosses, soil, and freshwater habitats.
@@ -117,4 +102,4 @@ new or rare parasites requires careful observation of trapping or
 infection structures, spore morphology, and host specificity.
 ## See Also
 
-See also: [[soil-nematodes-ecology-and-management]]
+See also: [[nematodes-in-soil-ecology]]

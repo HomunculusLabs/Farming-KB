@@ -11,7 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Leafly (2024). "Oreoz Strain Information." leafly.com.
-  - AllBud (2024). "Oreoz Cannabis Strain." allbud.com.
+  - AllBud (2024). "Oreoz [[blesching-cannabis-strain-selection-receptor-targeting]]." allbud.com.
   - Weedmaps (2024). "Oreoz Strain Review." weedmaps.com.
   - SeedFinder (2024). "Oreoz Genetic Lineage Database." seedfinder.eu.
 ---
@@ -40,7 +40,7 @@ Coloration is a striking mix of deep forest green and dark purple, often with vi
 
 A heavy coating of milky white trichomes covers the flowers, giving them a frosted appearance even before harvest.
 
-The resin production is abundant, making Oreoz a popular choice for extractors and hash makers.
+The [[cannabis-glandular-trichome-types-resin-production-clarke]] is abundant, making Oreoz a popular choice for extractors and hash makers.
 
 ## Aroma and Flavor
 
@@ -74,7 +74,7 @@ CBD content is typically below 0.1%, consistent with modern Cookies-family breed
 
 Minor cannabinoids including CBG and THCV may be present in trace amounts.
 
-The high THC content combined with the specific terpene blend produces pronounced entourage effects.
+The high THC content combined with the specific terpene blend produces pronounced [[beta-caryophyllene-entourage-effects-cannabis]].
 
 Testing data from licensed laboratories consistently places Oreoz in the high-potency tier.
 
@@ -90,7 +90,7 @@ Most users report functional relaxation suitable for late afternoon or evening u
 
 At higher doses, the indica influence becomes more pronounced, potentially leading to couch-lock and sleepiness.
 
-Common applications include stress relief, mild pain management, appetite stimulation, and mood elevation.
+Common applications include stress relief, mild [[cannabis-pain-management-protocols]], appetite stimulation, and mood elevation.
 
 ## Cultivation
 
@@ -104,11 +104,11 @@ The plants exhibit moderate stretch during early flowering and respond well to l
 
 Resistance to common pests and molds is average, requiring standard preventive measures.
 
-Oreoz performs best in controlled indoor environments where temperature and humidity can be tightly managed.
+Oreoz performs best in controlled indoor environments where [[greg-green-temperature-and-humidity-control]] can be tightly managed.
 
 ## Side Effects
 
-Dry mouth and dry eyes are the most commonly reported adverse effects.
+Dry mouth and dry eyes are the most commonly reported [[blesching-cannabis-safety-adverse-effects-evidence]].
 
 Inexperienced users or those consuming high doses may experience anxiety, paranoia, or dizziness.
 
@@ -119,6 +119,6 @@ As with all high-THC strains, individuals with low tolerance should approach wit
 ## See Also
 
 - [[girl-scout-cookies]]
-- [[wedding-cake-cannabis]]
+- [[wedding-cake]]
 - [[runtz-entity]]
 - [[zookies-cannabis]]

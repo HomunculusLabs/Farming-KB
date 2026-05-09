@@ -1,5 +1,5 @@
 ---
-title: Ectomycorrhizal Networks Overview
+title: symbiotic fungi ectomycorrhizal networks overview Overview
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
@@ -14,7 +14,7 @@ Source: Symbiotic Fungi (Varma and Kharkwal, eds.), Chapters 1, 5, 10
 ## Introduction
 
 Ectomycorrhizal (ECM) associations represent one of the most widespread and ecologically
-significant types of fungal symbiosis, particularly dominant in temperate and boreal forest
+significant types of [[gadd-beetle-gut-fungal-symbiosis-and-coevolution]], particularly dominant in temperate and boreal forest
 ecosystems. The term mycorrhiza (fungus-root) was first applied by German forest pathologist
 A.B. Frank in 1885. An estimated 95% of all plant species belong to genera that characteristically
 form mycorrhizae.
@@ -32,7 +32,7 @@ soil.
 
 Key structural characteristics:
 
-- Most ectomycorrhizal fungi are basidiomycetes, though ascomycetes are also involved
+- Most [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] are basidiomycetes, though ascomycetes are also involved
 - Host plant symbionts include both gymnosperms and angiosperms
 - Families commonly forming ECM: Salicaceae (willow), Betulaceae (birch), Fagaceae (beech),
   Pinaceae (pine)
@@ -47,9 +47,9 @@ move from the fungus to the plant.
 
 [[mycorrhizal-diversity-assessment]]
 
-Mycorrhizal diversity can be assessed through classical fungal processing (field notes,
+[[dighton-mycorrhizal-diversity-ecosystem-function]] can be assessed through classical fungal processing (field notes,
 specimen preservation, herbarium facilities), isolation from soils and sporophores, and
-modern molecular methods including PCR and DNA sequencing. Molecular identification has
+modern molecular methods including PCR and DNA sequencing. [[biodiversity-fungal-molecular-identification-dna-barcoding]] has
 revolutionized fungal systematics and ecology.
 
 Direct application of molecular methods to environmental material can detect many more,
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

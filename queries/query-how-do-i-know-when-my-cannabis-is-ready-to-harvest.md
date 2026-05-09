@@ -1,10 +1,11 @@
 ---
-title: "How Do I Know When My Cannabis Is Ready to Harvest?"
+title: "How Do I Know When My query how do i know when my cannabis is ready to harvest to Harvest?"
 created: 2026-04-28
 tags: [query, cannabis, harvest, trichomes, curing]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -13,7 +14,7 @@ type: query
 ## Short Answer
 Cannabis is ready to harvest when the trichomes on the buds shift
 from clear to cloudy (milky white) with some turning amber. This
-typically occurs 6 to 10 weeks into the flowering stage depending
+typically occurs 6 to 10 weeks into the [[cannabis-flowering-stage-management]] depending
 on the strain. Additional indicators include pistil color change
 from white to orange or brown, leaf yellowing, and bud density
 reaching its peak.
@@ -35,7 +36,7 @@ with the naked eye. The
 each stage for comparison. The
 [[cannabis-flowering-stage-management]] page
 covers how flowering timeline varies between indica, sativa, and
-hybrid varieties.
+[[cervantes-hybrid-varieties-types]].
 
 Before harvesting, many growers perform a
 [[cannabis-drying-and-curing]] process involves hanging trimmed
@@ -68,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: "Clay Pellet Seeding Technique"
+title: "Clay clay pellet seeding technique Technique"
 type: concept
 tags:
   - seed-balls
@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Fukuoka, Masanobu. *The Natural Way of Farming: The Theory and
-    Practice of Green Philosophy*. 1985.
+    Practice of [[fukuoka-sowing-green-philosophy-one-grain-revolution]]*. 1985.
   - Fukuoka, Masanobu. *The One-Straw Revolution*. Rodale Press, 1978.
 related_concepts:
   - natural-farming-principles
@@ -27,7 +27,7 @@ seeding method developed by Masanobu Fukuoka as part of his natural
 farming system. Seeds are encased in balls of clay and soil, which
 protect them from predation and desiccation until conditions are suitable
 for germination. The technique is primarily associated with Fukuoka's
-ambitious proposal for desert revegetation, though it has applications in
+ambitious proposal for [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]], though it has applications in
 agriculture, guerrilla gardening, and ecological restoration.
 
 ## Mechanism and Purpose
@@ -53,7 +53,7 @@ not form because there is no rain, but rather rain ceases to fall because
 vegetation has disappeared. Restoring plant cover would, in his view,
 bring back the rains by restoring the local water cycle.
 
-The proposed seed mixture included green manure trees such as black
+The proposed seed mixture included [[comparison-green-manure-guide-vs-mulch-types-and-effects]] trees such as black
 wattle (Acacia mearnsii) capable of growing in areas with annual rainfall
 under two inches, along with clover, alfalfa, bur clover, and other green
 manure plants mixed with grain and vegetable seeds. The mixture was
@@ -93,7 +93,7 @@ broadcasting rice seed into a field already covered with clover and
 winter grain straw. Direct seed-to-soil contact was impossible, but the
 clay pellets protected the rice seeds until they could establish through
 the mulch layer. The technique eliminated the need for transplanting
-rice seedlings, a labor-intensive step in conventional rice farming.
+rice seedlings, a labor-intensive step in conventional [[fukuoka-natural-rice-farming-steps]].
 
 ### Ecological Restoration
 
@@ -115,7 +115,7 @@ specialized equipment and can be performed by volunteers of all ages.
 The effectiveness of clay pellet seeding depends heavily on species
 selection and timing. Seeds that are not adapted to the target climate
 will fail regardless of the delivery method. The technique also provides
-no weed control during establishment, so competitive species may
+no [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]] during establishment, so competitive species may
 outcompete desired plants. In desert applications, the fundamental
 question of whether revegetation can restore rainfall patterns remains
 scientifically debated.

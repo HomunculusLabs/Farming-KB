@@ -1,5 +1,5 @@
 ---
-title: "Greywater Systems vs Constructed Wetlands"
+title: "Greywater Systems vs comparison-constructed-wetlands-vs-bioswales"
 created: 2026-04-28
 tags: [comparison, water, greywater, constructed-wetlands, ecological-design]
 date: 2026-04-28
@@ -20,7 +20,7 @@ between them depends on water volume, available space, treatment goals,
 and whether blackwater is included in the waste stream.
 ## Greywater Systems
 [[graywater-systems]] for Toby
-Hemenway's ecological design approach.
+Hemenway's [[williams-pdc-ecological-design-principles]] approach.
 ## Constructed Wetlands
 [[constructed-wetland-design]] for
 detailed engineering guidance.
@@ -39,7 +39,7 @@ detailed engineering guidance.
 | Effluent Quality | Suitable for subsurface irrigation | Suitable for irrigation or discharge |
 ## When to Choose Greywater Systems
 Greywater systems are ideal for homeowners who want a simple, low-cost
-way to irrigate ornamental plants and fruit trees with household
+way to irrigate ornamental plants and [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] with household
 wastewater. They work best on sites with adequate slope for gravity
 flow, on permeable soils, and where the primary goal is water
 conservation rather than high-quality effluent treatment. The branched
@@ -59,15 +59,15 @@ can meet discharge standards in regulated jurisdictions. Small-scale
 systems of 2 to 5 square meters per person can provide secondary
 treatment for an entire household.
 Constructed wetlands also serve larger applications such as community
-wastewater treatment, agricultural runoff management, industrial
-effluent polishing, and acid mine drainage remediation. Their ability
+[[mollison-designers-wastewater-treatment-wetlands]], agricultural runoff management, industrial
+effluent polishing, and acid [[acid-mine-drainage-treatment]] remediation. Their ability
 to remove nutrients, metals, and emerging contaminants through
 integrated biological and chemical processes makes them far more
 versatile than simple greywater distribution. Sites with poor
 infiltration soils, high water tables, or seasonal flooding benefit
 from the contained, lined design of constructed wetlands.
 ## Hybrid Approaches
-Many ecological wastewater systems combine both approaches in series.
+Many [[constructed-wetlands-wastewater-treatment]] systems combine both approaches in series.
 Greywater from sinks and showers flows first through a mulch basin
 for primary filtration and nutrient delivery to landscape plants, then
 excess water overflows into a small constructed wetland for additional
@@ -82,6 +82,8 @@ Toby Hemenway, keeps the nutrient-rich greywater in the garden
 ecosystem while still achieving high treatment standards for
 blackwater.
 ## See Also
+
+- [[comparison-rain-garden-vs-constructed-wetland]]
 - [[comparison-greywater-vs-rainwater-harvesting]]
 - [[constructed-wetland-design]]
 - [[greywater-systems-detailed]]

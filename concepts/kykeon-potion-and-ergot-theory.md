@@ -1,8 +1,8 @@
 ---
-title: The Kykeon Potion and Ergot Theory
+title: The Kykeon kykeon-potion-and-ergot-hypothesis-at-eleusis Theory
 created: 2026-04-26
 updated: 2026-04-24
-sources: The Road to Eleusis (Wasson, Hofmann, Ruck)
+sources: The the-road-to-eleusis-wasson-hofmann-ruck (Wasson, Hofmann, Ruck)
 type: concept
 tags: [reference]
 ---
@@ -12,15 +12,15 @@ tags: [reference]
 The kykeon was the sacred potion drunk by initiates of the [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]]: barley, water,
 and a fragrant mint called blechon. According to Wasson, Hofmann, and Ruck,
 the psychoactive ingredient in this potion was not the barley or the mint but
-ergot (Claviceps purpurea), a fungal parasite that infests grain crops
+ergot ([[bloomfield-ergot-claviceps-purpurea-ergotism]]), a fungal parasite that infests grain crops
 including barley.
 
 ## The Kykeon Formula
 
-In the Homeric Hymn, upon arriving at Eleusis, Demeter was offered a cup of
+In the [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]], upon arriving at Eleusis, Demeter was offered a cup of
 wine, which she refused. Instead she bade them mix meal and water with soft
 mint. This act of communion, the drinking of the potion, was one of the most
-important pieces of ritual in the Eleusinian Mysteries, as commemorating the
+important pieces of ritual in the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]], as commemorating the
 sorrows of the goddess. The initiates thereafter imitated her abstention from
 wine in deference to the superior symbolism of the potion of barley.
 
@@ -114,10 +114,12 @@ special cups for the initiates to drink their share.
 
 Then, seated on the tiers of steps lining the walls of the cavernous hall,
 in darkness they waited. From the potion they gradually entered into ecstasy.
-The kykeon, an hallucinogen, under the right set and setting, disturbs
+The kykeon, an hallucinogen, under the right [[lsd-set-and-setting-framework]], disturbs
 man's inner ear and trips astonishing ventriloquistic effects.
 
 ## See Also
+
+- [[kykeon-elixir]]
 
 - [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]
 - [[demeter-ergot-symbiosis-eleusinian-symbolism]]

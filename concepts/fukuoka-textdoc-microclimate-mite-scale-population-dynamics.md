@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-Fukuoka provides detailed observations on how microclimatic conditions, particularly sunlight, ventilation, temperature, and humidity, govern the population dynamics of mites and scale insects in fruit orchards. His analysis challenges the pesticide-based approach to pest control and demonstrates that managing the growing environment is more effective than applying chemicals.
+Fukuoka provides detailed observations on how microclimatic conditions, particularly sunlight, ventilation, temperature, and humidity, govern the population dynamics of mites and scale insects in fruit orchards. His analysis challenges the pesticide-based approach to [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] and demonstrates that managing the [[cannabis-growing-environment-setup]] is more effective than applying chemicals.
 
 ## The Mite Problem as a Human-Created Disaster
 
@@ -56,7 +56,7 @@ When black wattle trees are used as windbreaks or shade trees in an orchard, the
 Two mechanisms contribute to this effect:
 
 1. **Chemical repulsion**: The black wattle produces tannin and excretes a substance that repels insects. This provides some direct protection to nearby fruit trees.
-2. **Microclimate modification**: The most direct cause of rapid changes in pest populations is alteration of the microclimate. Changes in light penetration, air circulation, humidity, and temperature within the canopy create conditions unfavorable to pest reproduction.
+2. **Microclimate modification**: The most direct cause of rapid changes in pest populations is alteration of the microclimate. Changes in light penetration, [[stamets-growing-room-air-circulation-co2-management]], humidity, and temperature within the canopy create conditions unfavorable to pest reproduction.
 
 Fukuoka emphasizes that the microclimate effect is the more powerful and direct mechanism, with the chemical repellent being secondary.
 
@@ -75,7 +75,7 @@ Arrowhead scale infestation of citrus trees, including Satsuma orange, Iyo orang
 
 ### The Role of Natural Enemies
 
-In Fukuoka's natural orchard, parasitic wasps and four or five different types of ladybugs emerged to feed on arrowhead scales. In areas where these predators were abundant, he did not spray and the trees escaped serious damage.
+In Fukuoka's [[fukuoka-natural-orchard-development]], parasitic wasps and four or five different types of ladybugs emerged to feed on arrowhead scales. In areas where these predators were abundant, he did not spray and the trees escaped serious damage.
 
 ### The Role of Tree Form
 
@@ -104,7 +104,7 @@ After the war, farmers began using a potent fluorine pesticide against the scale
 
 ## The Fundamental Problem
 
-Fukuoka argues that the fundamental problem with pesticide-based pest management is that no studies have been conducted on the effects of sunlight, ventilation, temperature, and humidity on pest populations. Instead, potent pesticides are applied without understanding their effects on natural predators and beneficial fungi that feed on mites and scales.
+Fukuoka argues that the fundamental problem with pesticide-based [[cannabis-pest-management-guide]] is that no studies have been conducted on the effects of sunlight, ventilation, temperature, and humidity on pest populations. Instead, potent pesticides are applied without understanding their effects on natural predators and beneficial fungi that feed on mites and scales.
 
 The approach "puts the cart before the horse" by destroying the natural control mechanisms first, then attempting to replace them with chemicals. If man had left the mites alone, they would never have become a major pest. Fukuoka reports that in his own orchard, he either had no mite problems or the problems resolved themselves through natural balance.
 
@@ -120,7 +120,7 @@ The black wattle windbreak achieves this balance by filtering sunlight without c
 
 ## The Economic Argument Against Chemical Control
 
-Beyond the ecological arguments, Fukuoka makes a practical economic case against pesticide dependence. Each generation of pesticides requires new research, development, and purchase costs. As pests develop resistance, application rates must increase, further raising costs and environmental damage. Meanwhile, the natural enemies that could provide free, self-sustaining pest control are being destroyed.
+Beyond the ecological arguments, Fukuoka makes a practical economic case against pesticide dependence. Each generation of pesticides requires new research, development, and purchase costs. As pests develop resistance, [[ingham-compost-tea-application-rates-and-timing]] must increase, further raising costs and environmental damage. Meanwhile, the natural enemies that could provide free, self-sustaining pest control are being destroyed.
 
 The cottony-cushion scale case is particularly instructive: one introduction of a ladybug species provided decades of effective control at zero ongoing cost. The introduction of pesticides then destroyed this free service and created a costly chemical dependency that persists to this day.
 
@@ -129,3 +129,5 @@ The cottony-cushion scale case is particularly instructive: one introduction of 
 - [[fukuoka-black-wattle-fertilizer-tree-method]]
 - [[fukuoka-pest-management-without-chemicals]]
 - [[fukuoka-matsutake-artificial-cultivation-attempt]]
+
+- [[fukuoka-mite-scale-microclimate-control-citrus-orchard]]

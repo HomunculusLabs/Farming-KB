@@ -1,5 +1,5 @@
 ---
-title: Cannabinoid-Terpene Synergy (Blesching, Cannabis Health Index)
+title: Cannabinoid-Terpene Synergy (Blesching, blesching-cannabis-health-index-autoimmune-conditions)
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,7 +10,7 @@ tags: [cannabis]
 
 # Cannabinoid-Terpene Synergy
 
-How cannabinoids, terpenes, and spice-based compounds work together synergistically, from Blesching's "The Cannabis Health Index" (2015). Covers the entourage effect, (E)-beta-caryophyllene as a food-based cannabinoid, sativa vs indica profiles, and whole-plant medicine.
+How cannabinoids, terpenes, and spice-based compounds work together synergistically, from Blesching's "The Cannabis Health Index" (2015). Covers the [[cannabis-terpene-entourage-effect-profiles]], (E)-beta-caryophyllene as a food-based cannabinoid, [[cannabis-sativa-vs-indica-guide]] profiles, and whole-plant medicine.
 
 ## The Entourage Effect
 
@@ -38,14 +38,14 @@ Blesching emphasizes that cannabis is not a single-molecule medicine but a compl
 - Antipsychotic, anxiolytic, antidepressant, anti-inflammatory, anti-tumor
 - Protects against neurodegeneration; calms autonomic stress responses via serotonin receptors
 - Effective for pediatric epileptic seizures refractory to pharmaceuticals
-- Selectively produces oxidative stress in cancer cells (apoptosis) without impacting normal cells
+- Selectively produces [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in cancer cells (apoptosis) without impacting normal cells
 
 ### (E)-beta-Caryophyllene (E-BCP)
 - A food-based cannabinoid/terpene, fully FDA-approved as a dietary supplement
 - Selectively binds CB2 receptors (unlike THC which binds both CB1 and CB2)
 - Potent anti-inflammatory, analgesic, antimicrobial, anti-cancer properties
 - Protects against microbes, inflammation, oxidative stress, pain, and cancer
-- Found in concentrations of 12-35% in Cannabis sativa
+- Found in concentrations of 12-35% in [[comparison-cannabis-sativa-vs-cannabis-indica]]
 
 ## Spice Plants as CB2 Activators
 
@@ -96,8 +96,8 @@ Pharmaceuticals like Dronabinol (synthetic THC) and Nabilone contain single cann
 - endocannabinoid-system
 - sativa-vs-indica
 - entourage-effect
-- [[cannabis-beta-caryophyllene-dietary-cannabinoid]]
+- [[beta-caryophyllene-dietary-cannabinoid]]
 - [[blesching-cannabis-health-index-mental-health-applications]]
-- blesching cannabis health index cannabinoid terpene synergy
+- blesching cannabis health index [[blesching-cannabis-cannabinoid-terpene-entourage-effect]] synergy
 - [[blesching-cannabis-health-index-dosage-guidelines-medical]]
 - [[cannabis-for-cachexia-and-appetite-stimulation]]

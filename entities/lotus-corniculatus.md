@@ -17,7 +17,7 @@ sources:
     Science Publishers, Enfield, NH.
   - Acuña, C.A., et al. (2009). "Lotus species: taxonomy, genetics,
     and breeding." Crop Science, 49(2), 418–429.
-  - Wink, M. (2013). "Evolution of secondary metabolites in legumes."
+  - Wink, M. (2013). "Evolution of [[antifungal-secondary-metabolites-coprophilous-fungi]] in legumes."
     Journal of Plant Physiology, 170(12), 1038–1047.
   - Sprent, J.I. (2009). *Legume Nodulation: A Global Perspective*.
     Wiley-Blackwell, Oxford.
@@ -69,7 +69,7 @@ white clover as a forage.
 ## Distribution and Habitat
 
 Native to Europe, western Asia, and North Africa. Naturalized across
-North America, South America, Australia, and New Zealand. In North America,
+[[psilocybin-north-america-pacific-northwest]], South America, Australia, and New Zealand. In North America,
 it occurs in all contiguous US states and most Canadian provinces.
 
 Grows in a wide range of habitats: grasslands, meadows, roadsides,
@@ -97,7 +97,7 @@ pink due to leghemoglobin.
 
 Fixation rates: 50–200 kg N/ha/year depending on stand density, soil
 conditions, and climate. This makes the species valuable in low-input
-pasture systems and organic farming.
+pasture systems and [[coleman-deep-organic-farming-philosophy]].
 
 The deep taproot accesses subsoil nutrients and moisture, cycling them to
 the surface through leaf litter.
@@ -132,15 +132,14 @@ respiratory ailments, though clinical evidence is limited.
 - **Nitrogen fixation:** Permanent N input in food forests and pastures
   without annual reseeding
 - **Ground cover:** Dense mat suppresses weeds and protects soil from erosion
-- **Pollinator support:** Long bloom supports beneficial insects throughout
-  the growing season
+- **Pollinator support:** Long bloom supports [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] throughout
+  the [[savory-growing-season-and-non-growing-season-management]]
 - **Forage integration:** Requires no nitrogen fertilizer and prevents bloat
 - **Soil improvement:** Deep taproot breaks compacted subsoil; leaf litter
-  adds organic matter
+  adds [[hamilton-composting-and-organic-matter-management]]
 ## See Also
 
 [[trifolium-incarnatum]]
 [[biological-nitrogen-fixation-agriculture]]
 condensed tannin
-proanthocyanidin
-[[permaculture-plants-ground-covers-and-accumulators]]
+p

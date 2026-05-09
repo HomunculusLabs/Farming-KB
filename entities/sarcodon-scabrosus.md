@@ -65,22 +65,22 @@ The species was originally described as *Hydnum scabrosum* by Elias Fries in 182
 - **Northern Europe**: Scandinavia, British Isles, Germany, Poland, Russia
 - **Central and Southern Europe**: Alps, Carpathians, Balkans
 - **Asia**: Siberia, Japan, Korea, northern China
-- **North America**: Reported from the Pacific Northwest, though some of these collections may represent distinct species
+- **[[psilocybin-north-america-pacific-northwest]]**: Reported from the Pacific Northwest, though some of these collections may represent distinct species
 
 Fruiting occurs August through November, typically in old-growth or mature coniferous forests on acidic soils. The fungus is relatively common within suitable habitat but declining in areas with intensive forestry and habitat fragmentation. It is listed as **Near Threatened** in several European countries.
 
 ## Ecological Role
 
-As an ectomycorrhizal partner, *S. scabrosus* provides its host trees with enhanced nutrient uptake (particularly phosphorus and nitrogen) and water access through an extensive extramatrical mycelial network. In return, the fungus receives photosynthetically derived carbon compounds. The species contributes to forest soil ecology through:
+As an ectomycorrhizal partner, *S. scabrosus* provides its host trees with enhanced [[plant-nutrient-uptake-mechanisms]] (particularly phosphorus and nitrogen) and water access through an extensive extramatrical [[gadd-mycelial-network-dynamics]]. In return, the fungus receives photosynthetically derived carbon compounds. The species contributes to forest soil ecology through:
 
-- Decomposition of soil organic matter via its saprotrophic capabilities at the hyphal front
+- Decomposition of soil [[hamilton-composting-and-organic-matter-management]] via its saprotrophic capabilities at the hyphal front
 - Formation of nutrient-rich aggregation sites in the mycorrhizosphere
 - Supporting soil microbial communities through exudate production
 - Serving as a food substrate for soil microarthropods and nematodes
 
 ## Chemical Constituents
 
-Despite being inedible, *Sarcodon scabrosus* has been investigated for bioactive compounds:
+Despite being inedible, *Sarcodon scabrosus* has been investigated for [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:
 
 - **Sarcodonin**: A bitter-tasting cyathane-type diterpenoid with reported antibacterial and anti-inflammatory properties
 - **Scabronines**: Additional cyathane diterpenoids isolated from fruiting bodies; some show NGF (nerve growth factor) synthesis-enhancing activity in vitro
@@ -105,5 +105,5 @@ While not considered dangerously poisonous, *S. scabrosus* can cause:
 | *Bankera fuligineoalba* | Smaller, paler species in the same family; very rare |
 | [[sarcodon-imbricatus]] — Related hedgehog mushroom with slightly less bitter flesh
 - [[hydnum-repandum]] — Edible hedgehog mushroom, the most commonly foraged tooth fungus
-- [[soil-food-web-nutrient-cycling]] — Forest floor fungal ecology and decomposition cycles
+- [[soil-food-web-nutrient-cycling]] — Forest floor [[gadd-fungal-ecology-endophytes]] and decomposition cycles
 - [[boletus-edulis-entity]] — Fellow ectomycorrhizal associate of coniferous forests

@@ -13,7 +13,7 @@ updated: 2026-05-08
 sources:
   - Thulin, M. (1983). "A revision of the genus Cordeauxia." Kew Bulletin, 38(1), 1–8.
   - Lewis, G. et al. (2005). "Legumes of the World." Royal Botanic Gardens, Kew.
-  - Negri, M. (2015). "Cordeauxia edulis: A threatened multipurpose tree species." Genetic Resources and Crop Evolution, 62, 1025–1034.
+  - Negri, M. (2015). "Cordeauxia edulis: A threatened [[mollison-designers-chestnut-as-multipurpose-tree-crop]] species." Genetic Resources and Crop Evolution, 62, 1025–1034.
 ---
 
 ## Overview
@@ -59,13 +59,13 @@ Yeheb seeds are nutritionally dense, containing approximately 30–35% protein, 
 
 The protein is rich in essential amino acids, particularly lysine and methionine. The seeds also contain significant amounts of calcium, iron, zinc, and B vitamins, making them a nutritionally important food source for communities with limited dietary diversity.
 
-Seeds are typically roasted or boiled before consumption. Raw seeds are reportedly astringent and difficult to digest. Traditional preparation involves sun-drying followed by roasting over open fires, which develops the characteristic chestnut-like flavor.
+Seeds are typically roasted or boiled before consumption. Raw seeds are reportedly astringent and difficult to digest. [[kava-traditional-preparation-ceremonial-context]] involves sun-drying followed by roasting over open fires, which develops the characteristic chestnut-like flavor.
 
 ## Ecological Role
 
 *Cordeauxia edulis* is an important component of the arid-zone ecosystem in the Horn of Africa. It provides shade and microhabitat for understory plants and contributes to soil stabilization in fragile desert soils.
 
-The species fixes atmospheric nitrogen through root-associated rhizobial symbiosis, though nitrogen fixation rates have not been quantified under field conditions. Its deep root system likely contributes to nutrient cycling from deep soil horizons.
+The species fixes atmospheric nitrogen through root-associated rhizobial symbiosis, though [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] rates have not been quantified under field conditions. Its deep root system likely contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] from deep soil horizons.
 
 Yeheb provides browse for livestock, particularly camels and goats, during the dry season when other forage is scarce. However, excessive browsing by domestic animals has been identified as a major threat to natural regeneration and population sustainability.
 
@@ -75,7 +75,7 @@ The IUCN Red List classifies *C. edulis* as Endangered. The primary threats are 
 
 No significant ex situ conservation collections or domestication programs currently exist for yeheb. A few botanical gardens maintain living specimens, but comprehensive germplasm conservation is lacking. The species has been identified as a priority for conservation action by several international organizations.
 
-Research into cultivation methods has been limited but promising. Preliminary trials in Somalia and Ethiopia suggest that yeheb can be propagated from seed and established in managed plantations, though growth rates are slow and seed production may take several years.
+Research into [[synthetic-log-cultivation-methods-guide]] has been limited but promising. Preliminary trials in Somalia and Ethiopia suggest that yeheb can be propagated from seed and established in managed plantations, though growth rates are slow and seed production may take several years.
 
 ## Ethnobotanical Use
 
@@ -89,7 +89,7 @@ Leaves and young shoots are occasionally browsed by livestock, and the red pigme
 
 The most notable chemical constituent of *C. edulis* is cordeauxiaquinone, a red anthraquinone pigment found in the leaves, stems, and seed coats. This compound leaches from fallen foliage and accumulates on the soil surface, creating characteristic red staining beneath established plants.
 
-Seeds contain a lipid fraction rich in oleic acid (approximately 40% of total fatty acids) and linoleic acid (approximately 30%). The relatively high unsaturated fat content contributes both to nutritional quality and susceptibility to oxidative rancidity during storage.
+Seeds contain a lipid fraction rich in oleic acid (approximately 40% of total fatty acids) and linoleic acid (approximately 30%). The relatively high unsaturated fat content contributes both to [[coleman-winter-greens-nutritional-quality-cold-sweetening]] and susceptibility to oxidative rancidity during storage.
 
 Tannins and other polyphenolic compounds are present in the seed coat, contributing to the astringent taste of raw seeds. Traditional roasting effectively reduces these anti-nutritional factors while enhancing flavor development through Maillard reactions.
 

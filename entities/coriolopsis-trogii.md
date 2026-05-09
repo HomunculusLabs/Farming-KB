@@ -22,7 +22,7 @@ created: 2026-04-28
 
 **Coriolopsis trogii** (Berk.) Murrill is a white-rot basidiomycete fungus in the family Polyporaceae. It is a cosmopolitan wood-decay polypore found on dead hardwood throughout tropical and subtropical regions.
 
-The species has attracted significant research interest for its potent ligninolytic enzyme production and bioremediation capabilities. It produces laccase and manganese peroxidase at levels among the highest reported for white-rot fungi.
+The species has attracted significant research interest for its potent ligninolytic enzyme production and bioremediation capabilities. It produces laccase and [[fungal-manganese-peroxidase-remediation]] at levels among the highest reported for white-rot fungi.
 
 ## Taxonomy and Morphology
 
@@ -56,7 +56,7 @@ In Africa, the species is particularly abundant in miombo woodlands and tropical
 
 ## Bioactive Compounds
 
-C. trogii produces a diverse array of bioactive secondary metabolites. Phenolic compounds including hispolon and hispidin derivatives have been isolated from the fruiting body. Hispolon demonstrates antibacterial, antifungal, and anti-inflammatory activity in vitro.
+C. trogii produces a diverse array of bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]]. Phenolic compounds including hispolon and hispidin derivatives have been isolated from the fruiting body. Hispolon demonstrates antibacterial, antifungal, and anti-inflammatory activity in vitro.
 
 The species also produces triterpenoids and sterols, including ergosterol and ergosterol peroxide. Ergosterol peroxide exhibits cytotoxic activity against several human cancer cell lines in laboratory studies.
 
@@ -68,13 +68,13 @@ Preliminary immunomodulatory studies suggest that polysaccharide fractions from 
 
 C. trogii is one of the most efficient lignin-degrading fungi known. It produces laccase at yields exceeding 40,000 U/L under optimized conditions, making it a candidate for industrial enzyme production. Its laccase is active across a wide pH range (pH 3–8).
 
-The fungus has demonstrated capacity for degradation of synthetic dyes (azo, anthraquinone, and triphenylmethane dyes) and polycyclic aromatic hydrocarbons (PAHs). Decolorization rates of industrial dye effluents reach 80–95% within 5–10 days under laboratory conditions.
+The fungus has demonstrated capacity for [[staycare-fungal-degradation-of-synthetic-dyes]] dyes (azo, anthraquinone, and triphenylmethane dyes) and [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs). Decolorization rates of industrial dye effluents reach 80–95% within 5–10 days under laboratory conditions.
 
 C. trogii has also shown potential for degradation of pharmaceutical contaminants, including endocrine-disrupting compounds and antibiotics, in aqueous systems. This positions it as a promising organism for wastewater treatment applications.
 
 ## Cultivation
 
-C. trogii can be cultivated on a range of lignocellulosic substrates. Optimal growth occurs at 25–30°C on supplemented sawdust or straw. Malt extract agar and potato dextrose agar support robust mycelial growth with white, fluffy, marginally radiating colonies.
+C. trogii can be cultivated on a range of lignocellulosic substrates. Optimal growth occurs at 25–30°C on [[oyster-mushroom-supplemented-sawdust-blocks]] or straw. Malt extract agar and potato dextrose agar support robust mycelial growth with white, fluffy, marginally radiating colonies.
 
 Laccase production is strongly induced by copper ions (1–2 mM CuSO₄) and aromatic compounds such as veratryl alcohol and guaiacol. Submerged fermentation achieves higher enzyme titers than solid-state cultivation for industrial applications.
 
@@ -90,7 +90,7 @@ As a white-rot decomposer, C. trogii plays a significant role in carbon cycling 
 
 The fungus contributes to nutrient turnover in tropical and subtropical forests where hardwood decomposition rates are a key driver of ecosystem productivity. Its enzymatic system can break down complex phenolic polymers that resist degradation by most other organisms.
 
-C. trogii interacts with other wood-inhabiting microorganisms through competitive and facilitative relationships. It frequently co-occurs with Trametes versicolor and other white-rot species on the same substrate, forming successional communities.
+C. trogii interacts with other wood-inhabiting microorganisms through competitive and facilitative relationships. It frequently co-occurs with [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] and other white-rot species on the same substrate, forming successional communities.
 
 Sporocarp formation is influenced by seasonal humidity and temperature fluctuations. In subtropical regions, fruiting occurs primarily during warm, wet months, with basidiocarps persisting for several months in favorable conditions.
 

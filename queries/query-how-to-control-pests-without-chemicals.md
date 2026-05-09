@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [query, pest-control, organic-farming, ipm, natural-farming]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -12,7 +13,7 @@ type: query
 
 ## Short Answer
 
-Non-chemical pest control relies on building ecological resilience through biodiversity, habitat creation for beneficial insects, cultural practices like crop rotation and companion planting, and targeted biological and botanical sprays only when pest populations exceed acceptable thresholds. The most effective approach is Integrated Pest Management (IPM), a systematic strategy that combines multiple methods and only intervenes when pest damage reaches a threshold.
+Non-chemical pest control relies on [[soil-building-ecological-garden]] resilience through biodiversity, habitat creation for [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], cultural practices like crop rotation and [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]], and targeted biological and botanical sprays only when pest populations exceed acceptable thresholds. The most effective approach is Integrated Pest Management (IPM), a systematic strategy that combines multiple methods and only intervenes when pest damage reaches a threshold.
 
 ## The IPM Framework
 
@@ -39,9 +40,9 @@ Plant families that attract beneficials:
 
 The [[knf-pest-control-methods]] include several natural preparations:
 
-- **Fermented plant juice (FPJ)** from pest-repellent plants
+- **[[bionutrients-lab-fermented-plant-juice-fpj]] (FPJ)** from pest-repellent plants
 - **Neem-based sprays** for broad-spectrum insect deterrence
-- **Indigenous microorganism (IMO) solutions** to boost plant immunity
+- **[[knf-indigenous-microorganism-culture]] (IMO) solutions** to boost plant immunity
 - **Fish amino acid (FAA)** to strengthen plant cell walls
 
 KNF pest control focuses on creating unfavorable surface conditions on plants that deter feeding and egg-laying, rather than directly killing insects.
@@ -71,7 +72,7 @@ Living organisms provide targeted pest management:
 
 | Biocontrol | Target Pest | Application |
 |---|---|---|
-| Bacillus thuringiensis (Bt) | Caterpillars | Foliar spray, ingested by larvae |
+| [[cervantes-bacillus-thuringiensis-bt-control]] (Bt) | Caterpillars | Foliar spray, ingested by larvae |
 | Predatory mites (Phytoseiulus) | Spider mites | Release on affected plants |
 | Entomopathogenic nematodes | Soil-dwelling larvae (grubs) | Soil drench |
 | Trichoderma spp. | Soil-borne fungi | Soil inoculant |
@@ -83,3 +84,7 @@ These tools target specific pests while leaving beneficial organisms unharmed.
 
 - [[insectary-plants-for-pest-control]] and [[knf-pest-control-methods]] and [[what-natural-farming-method-should-i-use]]
 - [[query-how-to-control-fungus-gnats-organically]]
+
+## See Also
+
+- [[mushroom-pests-insect-control-stamets]]

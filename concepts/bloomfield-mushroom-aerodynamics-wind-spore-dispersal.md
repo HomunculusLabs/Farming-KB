@@ -1,5 +1,5 @@
 ---
-title: Mushroom Aerodynamics and Wind Dispersal of Spores
+title: [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]] aerodynamics wind [[aquatic-fungi-spore-dispersal-ingold]] and Wind Dispersal of Spores
 created: 2026-04-28
 tags:
   - mycology
@@ -15,14 +15,14 @@ sources:
 type: concept
 ---
 
-After mushroom [[coprinus-comatus-detailed]], the lawyer's wig
-or shaggy mane. Young specimens are white and stand taller
+After mushroom [[coprinus-comatus]], the lawyer's wig
+or [[growing-gourmet-shaggy-mane-coprinus-cultivation]]. Young specimens are white and stand taller
 than stinkhorns, recalling photographs of ballistic missiles
 streaking from their silos. As the mushroom ages, the gills
 begin to deliquesce from the bottom upward, and the elegant
 bell begins to resemble a ragged flag hanging from its pole.
 Species of Conocybe grow on lawns and have much smaller
-fruiting bodies with the same bell-shaped cap architecture.
+[[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] with the same bell-shaped cap architecture.
 
 The poet Percy Bysshe Shelley captured the evocative quality
 of deliquescent ink-caps in his poem "The Sensitive Plant,"
@@ -51,7 +51,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -101,7 +101,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -111,4 +111,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

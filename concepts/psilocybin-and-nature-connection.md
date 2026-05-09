@@ -13,7 +13,7 @@ sources:
 
 ## Overview
 
-One of the most consistently reported effects of psilocybin mushrooms is a profound sense of connection to the natural world. Simon G. Powell and other thinkers have argued that this "nature connectedness" is not merely a subjective feeling but reflects a genuine ecological insight -- that the psilocybin experience can reveal the interconnected nature of biological systems and humanity's place within them.
+One of the most consistently reported effects of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] is a profound sense of connection to the natural world. Simon G. Powell and other thinkers have argued that this "nature connectedness" is not merely a subjective feeling but reflects a genuine ecological insight -- that the psilocybin experience can reveal the interconnected nature of biological systems and humanity's place within them.
 
 ## The Ecological Argument
 
@@ -42,7 +42,7 @@ Contemporary research into the relationship between psychedelic use and pro-envi
 ## Related Concepts
 
 - [[psilocybin-and-consciousness-expansion]] -- the philosophical implications
-- [[global-psychedelic-mushroom-species-diversity]] -- ecological distribution patterns
+- [[global-psychedelic-mushroom-species-diversity]] -- ecological [[guzman-global-distribution-patterns-neurotropic-fungi]]
 
 ## See Also
 
@@ -63,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +105,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

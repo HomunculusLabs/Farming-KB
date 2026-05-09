@@ -27,7 +27,7 @@ sources:
 
 ## Chemical Identity
 
-PRO-LAD is 6-propyl-nor-lysergic acid diethylamide, also known as 6-propyl-N,N-diethylnorlysergamide. The full chemical name is 9,10-didehydro-6-propyl-N,N-diethylergoline-8b-carboxamide. It is a 6-substituted nor-LSD homologue in which the 6-position of the lysergamide skeleton carries a propyl group.
+PRO-LAD is 6-propyl-nor-lysergic [[lsd-lysergic-acid-diethylamide-experience-guide]], also known as 6-propyl-N,N-diethylnorlysergamide. The full chemical name is 9,10-didehydro-6-propyl-N,N-diethylergoline-8b-carboxamide. It is a 6-substituted nor-LSD homologue in which the 6-position of the lysergamide skeleton carries a propyl group.
 
 The compound is a member of the lysergamide family, closely related to [[al-lad-entity-tihkal]], and [[tihkal-introduction-and-methodology]] as entry #51, and is one of several 6-substituted nor-LSD compounds explored by the Shulgins.
 
@@ -47,7 +47,7 @@ The visual effects, when they emerge, tend to appear later in the experience (ar
 
 The emotional character is described as initially somewhat uncomfortable or paranoid, but gradually smoothing out over the course of the experience. The compound produces intellectual clarity without the cosmic or mystical overtones associated with LSD at comparable intensity levels.
 
-One of the most distinctive features is the compound's suitability for humor and social interaction. Subjects report that it is excellent for "fooling around" and "clear thinking," producing a comfortable and non-threatening psychedelic state that could be characterized as recreational rather than exploratory.
+One of the most [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] is the compound's suitability for humor and social interaction. Subjects report that it is excellent for "fooling around" and "clear thinking," producing a comfortable and non-threatening psychedelic state that could be characterized as recreational rather than exploratory.
 
 The overall quality has been memorably described as a "nice, comfortable, middle-American, July-Fourth-Picnic, apple-pie with ice cream sort of psychedelic" that is pleasant and enjoyable but lacks the profound depth that more experienced psychonauts might seek.
 
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

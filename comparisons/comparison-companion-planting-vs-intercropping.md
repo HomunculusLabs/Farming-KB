@@ -1,17 +1,18 @@
 ---
-title: "Companion Planting vs Intercropping"
+title: "comparison-companion-planting-reference-vs-jadam-monoculture-critique vs Intercropping"
 created: 2026-04-28
 tags: [comparison, polyculture, organic-growing, plant-interactions]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 # Companion Planting vs Intercropping
-Both companion planting and intercropping involve growing multiple species together for mutual benefit, but they differ significantly in scale, scientific rigor, and primary objectives. Understanding these distinctions helps growers choose the right approach for their context. This comparison covers definitions, mechanisms, advantages, limitations, and practical guidance for selecting between the two strategies.
+Both companion planting and intercropping involve growing multiple species together for mutual benefit, but they differ significantly in scale, scientific rigor, and primary objectives. Understanding these distinctions helps growers [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] approach for their context. This comparison covers definitions, mechanisms, advantages, limitations, and practical guidance for selecting between the two strategies.
 ## Companion Planting
 [[intercropping-systems]]
-Growing two or more crop species simultaneously in the same field or bed to increase total yield, reduce pests, and improve soil health through ecological interactions.
+Growing two or more crop species simultaneously in the same field or bed to increase total yield, reduce pests, and improve soil health through [[king-stropharia-ecological-interactions-permaculture]].
 **Five Main Types:**
 - **Strip intercropping:** wide alternating strips compatible with machinery
 - **Relay cropping:** second crop planted before first is harvested
@@ -57,13 +58,13 @@ The following table summarizes the most important distinctions between the two a
 | **Pest Strategy** | Deterrence via aromatic and trap plants | Habitat disruption, predator conservation |
 ## When to Choose Companion Planting
 - Home vegetable gardens and ornamental edible landscapes
-- Permaculture food forests and ecological design projects
+- Permaculture food forests and [[williams-pdc-ecological-design-principles]] projects
 - Small-scale diversified beds where aesthetics matter alongside yield
 - Growers prioritizing natural pest management and biodiversity
 - Learning ecological relationships and building gardening intuition
 - Situations where low-cost, low-input approaches are preferred
 - Educational settings demonstrating plant interactions
-- Urban and community garden spaces with limited square footage
+- Urban and [[mollison-designers-community-garden-design-urban-permaculture]] spaces with limited square footage
 - Beginning growers building foundational knowledge before scaling up
 ## When to Choose Intercropping
 - Smallholder farms seeking higher productivity on limited land
@@ -77,7 +78,7 @@ The following table summarizes the most important distinctions between the two a
 - Cooperative farming models distributing diverse harvests among members
 ## Hybrid Approach
 Companion planting principles directly inform intercropping design. Guild planting is essentially intercropping applied with companion planting logic, selecting species for functional roles rather than yield alone. Many successful intercrop systems begin as companion planting combinations scaled up with agronomic rigor. The most effective polycultures blend both: companion planting's ecological sensitivity with intercropping's quantitative optimization. Growers should feel free to move between approaches as their scale, knowledge, and goals evolve over time.
-**Quick Decision Rule:** If your primary concern is ecological balance and natural pest management in a garden setting, start with companion planting. If measurable yield improvement per unit area is the priority on a farm-scale operation, lean toward intercropping with documented LER data.
+**Quick Decision Rule:** If your primary concern is [[fukuoka-ecological-balance-principles]] and natural pest management in a garden setting, start with companion planting. If measurable yield improvement per unit area is the priority on a farm-scale operation, lean toward intercropping with documented LER data.
 ## See Also
 
 - [[companion-planting-reference]] — detailed plant pairing guide

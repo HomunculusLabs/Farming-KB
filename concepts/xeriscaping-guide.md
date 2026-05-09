@@ -1,10 +1,11 @@
 ---
-title: Xeriscaping Guide
+title: comparison-xeriscaping-guide-vs-rainwater-harvesting-systems
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, gardening, water-management, ecology, plants, design]
-sources: []
+sources:
+  sources: []
 ---
 
 # Xeriscaping Guide
@@ -17,9 +18,9 @@ Xeriscaping is a landscaping approach that minimizes or eliminates supplemental 
 2. **Improve the soil**: Add compost to increase water retention (but ensure good drainage)
 3. **Limit turf areas**: Replace lawn with drought-adapted ground covers, pathways, or native plantings
 4. **Select appropriate plants**: Choose species adapted to local rainfall patterns and soil
-5. **Irrigate efficiently**: Drip irrigation, soaker hoses, or no irrigation after establishment
+5. **Irrigate efficiently**: [[comparison-drip-irrigation-vs-passive-irrigation]], soaker hoses, or no irrigation after establishment
 6. **Mulch heavily**: 3-4 inches of organic or inorganic mulch to reduce evaporation
-7. **Maintain appropriately**: Minimal but consistent — weed control, pruning, occasional deep watering
+7. **Maintain appropriately**: Minimal but consistent — [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]], pruning, occasional deep watering
 
 ## Drought-Tolerant Landscaping
 
@@ -38,7 +39,7 @@ This approach reduces overall water use by concentrating irrigation where it mat
 - Incorporate 2-4 inches of compost into planting areas to improve soil structure
 - Compost acts as a sponge, holding several times its weight in water
 - Avoid excessive tilling, which destroys soil structure and accelerates moisture loss
-- In very sandy soils, add biochar (charged with compost tea) for improved water retention
+- In very sandy soils, add biochar (charged with [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]]) for improved water retention
 - In clay soils, add coarse sand or expanded shale to improve drainage and root penetration
 
 ## Rock Gardens
@@ -56,7 +57,7 @@ Rock gardens combine drought-tolerant plants with stone elements to create attra
 - **Alpine plants**: Cushion spurge, alpine forget-me-not, dwarf iris
 - **Native wildflowers**: Penstemon, blanket flower, prairie clover
 - **Ornamental grasses**: Blue fescue, little bluestem, maiden grass
-- **Herbs**: Lavender, thyme, rosemary, oregano (many Mediterranean herbs thrive in rock gardens)
+- **Herbs**: Lavender, thyme, rosemary, oregano (many [[query-best-mediterranean-herbs-for-beginner-herb-garden]] thrive in rock gardens)
 
 ### Construction Tips
 - Start with the largest stones and work down in size
@@ -100,7 +101,7 @@ Native plants adapted to dry conditions are the backbone of successful xeriscapi
 - **Drip irrigation**: Delivers water directly to root zones, 90% efficient vs 50% for sprinklers
 - **Soaker hoses**: Porous hoses that weep water along their length, simple and effective
 - **Olla irrigation**: Unglazed clay pots buried in soil, filled with water that seeps to roots
-- **Rainwater harvesting**: Collect roof runoff in barrels or cisterns for supplemental irrigation
+- **[[mollison-designers-rainwater-harvesting-swale-systems]]**: Collect roof runoff in barrels or cisterns for supplemental irrigation
 
 ### Water-Saving Practices
 - Water deeply and infrequently (once per week in summer, less in cooler months)

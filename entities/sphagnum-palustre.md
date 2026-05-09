@@ -11,7 +11,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Crum, H. (1984). Sphagnaceae of North America. University of Michigan Herbarium.
+  - Crum, H. (1984). Sphagnaceae of psilocybin-north-america-pacific-northwest. University of Michigan Herbarium.
   - Andrus, R.E. (1980). "Sphagnaceae." Flora of North America North of Mexico, Vol. 2.
   - Rydin, H. & Jeglum, J.K. (2006). The Biology of Peat Mosses. University of Helsinki Press.
   - Clymo, R.S. & Hayward, P.M. (1982). "The ecology of Sphagnum." Bryological Times 30: 1–21.
@@ -21,9 +21,9 @@ sources:
 
 **Sphagnum palustre**, commonly known as the **blunt-leaved bog moss** or **marsh sphagnum**, is a widespread moss species in the family **Sphagnaceae**. It is one of the most common and ecologically important peat mosses in the Northern Hemisphere.
 
-The species plays a central role in **peatland formation**, accumulating organic matter over centuries to build deep peat deposits that serve as major global **carbon sinks**. Sphagnum mosses store an estimated **30% of terrestrial soil carbon** despite covering only 3% of the Earth's land surface.
+The species plays a central role in **peatland formation**, accumulating [[hamilton-composting-and-organic-matter-management]] over centuries to build deep peat deposits that serve as major global **carbon sinks**. Sphagnum mosses store an estimated **30% of terrestrial soil carbon** despite covering only 3% of the Earth's land surface.
 
-*Sphagnum palustre* is commercially harvested as **peat moss** for horticultural substrates and has a long history of use in **wound dressings** due to its exceptional absorbent and antimicrobial properties.
+*Sphagnum palustre* is commercially harvested as **peat moss** for horticultural substrates and has a long history of use in **wound dressings** due to its exceptional absorbent and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
 
 ## Taxonomy and Morphology
 
@@ -59,9 +59,9 @@ The species is found in a variety of **wetland habitats** including bogs, fens, 
 
 It commonly grows in **ombrotrophic (rain-fed) bogs** where it forms extensive floating mats over open water. These mats gradually accumulate as peat, eventually filling in open water and creating raised bog surfaces that may rise above the surrounding water table.
 
-The species also colonizes **anthropogenic habitats** including drainage ditches, forestry trenches, and disturbed wet sites. It has been intentionally or accidentally introduced to several Southern Hemisphere countries including **New Zealand**, where it has become naturalized in peatlands.
+The species also colonizes **anthropogenic habitats** including drainage ditches, forestry trenches, and disturbed wet sites. It has been intentionally or accidentally introduced to several [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] countries including **New Zealand**, where it has become naturalized in peatlands.
 
-*Sphagnum palustre* is considered an **environmental bioindicator** of air quality and atmospheric nitrogen deposition. Elevated nitrogen inputs from agricultural runoff and atmospheric pollution shift Sphagnum-dominated communities toward faster-growing vascular plant species, reducing peatland biodiversity and carbon storage capacity.
+*Sphagnum palustre* is considered an **environmental bioindicator** of air quality and atmospheric [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]. Elevated nitrogen inputs from agricultural runoff and atmospheric pollution shift Sphagnum-dominated communities toward faster-growing vascular plant species, reducing peatland biodiversity and [[holmgren-soil-humus-carbon-storage-rebuilding]] capacity.
 
 ## Ecological Role
 
@@ -75,7 +75,7 @@ Peatlands dominated by Sphagnum are among the most effective **carbon sinks** on
 
 ## Horticultural and Commercial Uses
 
-*Sphagnum palustre* and related species are commercially harvested as **peat moss** for the horticultural industry. Peat moss is valued for its high water-holding capacity, low nutrient content, and acidic pH, making it an ideal substrate for acid-loving plants including **ericaceous species** such as [[arctostaphylos-uva-ursi]].
+*Sphagnum palustre* and related species are commercially harvested as **peat moss** for the horticultural industry. Peat moss is valued for its high water-holding capacity, low nutrient content, and acidic pH, making it an ideal substrate for acid-loving plants including **ericaceous species** such as arctostaphylos-uva-ursi.
 
 Live Sphagnum is used as a **growing medium** for orchids, carnivorous plants, and epiphytic species in the horticultural trade. Its antimicrobial properties help suppress root pathogens in container cultivation.
 
@@ -103,7 +103,7 @@ Traditional Scottish Highlanders used Sphagnum to insulate **stone cottages** an
 
 - [[pteridium-aquilinum]]
 - [[lycopodium-clavatum]]
-- [[arctostaphylos-uva-ursi]]
+- arctostaphylos-uva-ursi
 - [[drosera-rotundifolia]]
 - [[nymphaea-alba]]
 - [[lemna-minor]]

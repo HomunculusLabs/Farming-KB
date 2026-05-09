@@ -1,5 +1,5 @@
 ---
-title: Direct Seeding Techniques
+title: comparison-seed-starting-indoors-vs-direct-seeding-techniques Techniques
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -18,7 +18,7 @@ Solomon is deeply suspicious of garden center transplants. His reasons:
 - **No root shock**: Direct-seeded plants never suffer transplant setback
 - **Better root systems**: Roots develop naturally in their permanent position
 - **Lower cost**: Avoids the expense of purchased seedlings
-- **Greater reliability**: You control seed quality and variety selection
+- **Greater reliability**: You control [[solomon-seed-quality-and-germination-testing]] and variety selection
 - **Hardier plants**: Plants that survive thinning competition are the most vigorous
 
 Some species cannot be transplanted at all — beets, carrots, corn, and radishes usually fail to make useful roots after transplanting. Lettuce generally does better from direct seed.
@@ -54,7 +54,7 @@ The seed business has been degraded by "WalMartization." Picture-packet seeds fr
 
 ### Sowing Technique
 
-1. **Prepare the bed**: Dig in complete organic fertilizer or compost/manure. Let the soil settle a few days to restore capillary connections.
+1. **Prepare the bed**: Dig in complete [[complete-organic-fertilizer-cof-recipe-solomon]] or compost/manure. Let the soil settle a few days to restore capillary connections.
 
 2. **Sow at the right time**: The biggest single cause of pest trouble is sowing too early. In cold-damp conditions, seeds either rot or seedlings are weak and vulnerable.
 
@@ -92,7 +92,7 @@ Seed longevity depends on temperature and moisture:
 - For every 10°F increase combined with 1% moisture increase, seed life is cut in half
 - For every 10°F decrease combined with 1% moisture decrease, seed life doubles
 - Standard conditions: 70°F (21°C) at 13% seed moisture content
-- Store seeds in airtight containers with silica gel desiccant
+- Store seeds in airtight containers with [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] desiccant
 
 To save money, buy larger quantities (1000+ seeds) from mail-order companies rather than multiple mini-packets. Even using only half the seeds over 3 years is cheaper than buying small packets.
 
@@ -100,7 +100,7 @@ To save money, buy larger quantities (1000+ seeds) from mail-order companies rat
 
 Solomon acknowledges transplants make sense for:
 - **Tomatoes, peppers, eggplant**: In short-season areas, essential for getting ripe fruit before frost
-- **Heat-loving crops**: Where growing season is too short
+- **Heat-loving crops**: Where [[savory-growing-season-and-non-growing-season-management]] is too short
 - **Overwintered crops**: In mild winter maritime climates
 
 For everything else, direct seed and accept that crops may start yielding a few weeks later — but will be healthier and more self-sufficient.

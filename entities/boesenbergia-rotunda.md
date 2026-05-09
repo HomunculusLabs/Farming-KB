@@ -24,7 +24,7 @@ created: 2026-04-28
 
 ## Overview
 
-**Boesenbergia rotunda** (L.) Mansf. is a perennial herbaceous plant in the family Zingiberaceae, widely known as **Thai black ginger**, **kra chai**, **Chinese keys**, or **fingerroot**. The species is native to Southeast Asia and southern China, where it has been used for centuries in traditional medicine and regional cuisines.
+**Boesenbergia rotunda** (L.) Mansf. is a perennial herbaceous plant in the family Zingiberaceae, widely known as **Thai black ginger**, **kra chai**, **Chinese keys**, or **fingerroot**. The species is native to [[psilocybe-southeast-asia-pacific]] and southern China, where it has been used for centuries in traditional medicine and regional cuisines.
 
 The plant is most valued for its **rhizomes**, which are rich in bioactive flavonoids and volatile oils. B. rotunda has attracted significant pharmacological research interest for its anti-inflammatory, anti-cancer, and androgenic properties, particularly the compound **pinostrobin** and its chalcone derivatives.
 
@@ -50,7 +50,7 @@ The species grows in moist, shaded understories of lowland and montane forests, 
 
 ## Bioactive Compounds
 
-The rhizomes of B. rotunda contain a diverse array of secondary metabolites with documented pharmacological activity:
+The rhizomes of B. rotunda contain a diverse array of [[antifungal-secondary-metabolites-coprophilous-fungi]] with documented pharmacological activity:
 
 **Chalcones and flavonoids:**
 
@@ -72,7 +72,7 @@ Research on B. rotunda extracts has identified several pharmacologically signifi
 
 **Anti-inflammatory:** Ethanolic extracts suppress TNF-α, IL-1β, and IL-6 production in LPS-stimulated macrophages. Cardamonin and panduratin A are the primary anti-inflammatory constituents, acting through COX-2 inhibition and NF-κB modulation.
 
-**Anti-cancer:** Panduratin A and pinostrobin demonstrate cytotoxicity against multiple cancer cell lines including MCF-7 (breast), HT-29 (colon), and A549 (lung). Mechanisms include apoptosis induction via caspase activation and cell cycle arrest at G2/M phase.
+**Anti-cancer:** Panduratin A and pinostrobin demonstrate cytotoxicity against multiple [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines including MCF-7 (breast), HT-29 (colon), and A549 (lung). Mechanisms include apoptosis induction via caspase activation and cell cycle arrest at G2/M phase.
 
 **Anti-viral:** Panduratin A inhibits HIV-1 protease and replication. Extracts also show activity against dengue virus and herpes simplex virus in vitro.
 
@@ -100,7 +100,7 @@ B. rotunda is cultivated primarily by smallholder farmers in Thailand, Indonesia
 
 Key cultivation parameters:
 
-- **Planting:** Rhizome pieces are planted 5–8 cm deep at 20–30 cm spacing, in raised beds under partial shade (40–60% light exclusion).
+- **Planting:** Rhizome pieces are planted 5–8 cm deep at 20–30 cm spacing, in [[comparison-raised-beds-vs-hugelkultur]] under partial shade (40–60% light exclusion).
 - **Growth cycle:** 8–12 months from planting to harvest. Rhizomes reach marketable size 6–9 months after emergence.
 - **Yield:** 8–15 tonnes fresh rhizome per hectare under good management.
 - **Pests:** Relatively pest-tolerant. Rhizome rot (Pythium spp.) can occur in waterlogged conditions. Shoot borer (Hedylepta spp.) is an occasional pest.

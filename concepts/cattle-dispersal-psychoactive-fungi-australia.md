@@ -1,5 +1,5 @@
 ---
-title: Cattle as Dispersal Mechanism for Psychoactive Fungi in Australia
+title: Cattle as Dispersal Mechanism for cattle dispersal psychoactive fungi australia in Australia
 created: 2026-04-26
 tags:
   - mycology
@@ -36,7 +36,7 @@ included 2 bulls and 5 cows, along with other domesticated farm animals. By
 1803, the government owned approximately 1,800 cattle, most of which were
 imported from the Cape, Calcutta, and the west coast of America. It was during
 this early colonial period that the visionary mushrooms described in John W.
-Allen's field guide probably first appeared in Australia.
+Allen's [[ghouled-field-guide-historical-context]] probably first appeared in Australia.
 
 Cleland (1934) asserted that "fungi growing in cow or horse-dung and confined
 to such habitats, must in the case of Australia, all belong to introduced
@@ -46,10 +46,10 @@ Hemisphere.
 
 ## The Role of the Dung Beetle
 
-It is believed that the South African dung beetle may have played a critical
+It is believed that the [[kanna-sceletium-south-african-narcotic]] dung beetle may have played a critical
 role in the actual dispersal of psychoactive fungal spores across the
 Australian landscape. These beetles, which likely accompanied imported cattle,
-would have buried dung containing mushroom spores into the soil, creating the
+would have buried dung containing [[query-how-to-store-mushroom-spores-long-term]] into the soil, creating the
 ideal conditions for fungal colonization. English mycologist Roy Watling of the
 Royal Botanic Gardens in Glasgow, Scotland, cautioned that "it must be
 remembered that fungi can change substrate preferences and there are
@@ -63,7 +63,7 @@ introduced to Australia through the cattle dispersal mechanism:
 - [[panaeolus-cyanescens-bali-omelette]] (known locally as "blue meanies") -- found in the
   dung of cattle, water buffalo, and sometimes horses
 
-- Panaeolus subbalteatus -- common in the dung of cattle and also fruiting
+- [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]] -- common in the dung of cattle and also fruiting
   abundantly in composting hay and stable shavings
 
 - [[psychedelic-mushroom-set-and-setting]] was introduced into Australia
@@ -84,10 +84,10 @@ remarkable persistence in the Australian and New Zealand environments. The
 fact that these species have become naturalized across multiple Australian
 states and both islands of New Zealand indicates successful establishment of
 viable populations. The warm, moist conditions of the Australian subtropical
-coast, combined with the abundance of cattle dung in pastoral regions, created
+coast, combined with the abundance of [[psilocybe-cubensis-cattle-dung-substrate-introduction-americas-guzman-1998]] in pastoral regions, created
 ideal conditions for these fungi to thrive and spread.
 
 ## See Also
 
 - [[mushroom-folklore-and-culture]] -- cultural context of mushroom use
-- [[gordon-wasson-mushroom-discovery]] -- the original 1957 Life Magazine report
+- gordon-wasson-mushroom-discovery -- the original 1957 Life Magazine report

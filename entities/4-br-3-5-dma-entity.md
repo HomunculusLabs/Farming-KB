@@ -8,7 +8,7 @@ sources: []
 ---
 # 4-Br-3,5-DMA
 
-**PIHKAL Entry #18** -- 3,5-Dimethoxy-4-bromoamphetamine
+**[[2c-b-pihkal-entry-20]] #18** -- 3,5-Dimethoxy-4-bromoamphetamine
 
 ## Chemical Name
 
@@ -79,3 +79,7 @@ isomer of the more familiar 2,5-dimethoxy-4-bromo pattern found in
 - [[don-entity]] -- 2,5-dimethoxy-4-nitroamphetamine
 
 - [[phenethylamine-pharmacology]] -- general phenethylamine pharmacology
+
+## See Also
+
+- [[3-4-dma-entity]]

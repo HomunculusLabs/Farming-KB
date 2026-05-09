@@ -1,5 +1,5 @@
 ---
-title: Cannabis and Colon Cancer (Colorectal)
+title: Cannabis and cannabis and colon cancer research (Colorectal)
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Cannabis and Colon Cancer (Colorectal)
 
-**Source:** The Cannabis Health Index, Uwe Blesching, PhD (2017)
+**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]], Uwe Blesching, PhD (2017)
 **Updated:** 2026-04-19
 
 ## Evidence-Based Therapeutic Potential
@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-The large intestine (colon) absorbs water and salts from digested matter prior to elimination. Colon cancer develops in the epithelial lining cells and may be found from the junction between large and small intestine to the anus. Signs include abdominal pain, nausea, narrow stools, and unexplained changes in bowel movements. Risk factors include colon polyps, irritable bowel syndrome, ulcerative colitis, smoking, alcohol, age over 50, male gender, obesity, sedentary lifestyle, and radiation therapy. The U.S. had over 100,000 new colon cancer patients and 50,000+ fatalities from rectal and colon cancer combined in 2010.
+The large intestine (colon) absorbs water and salts from digested matter prior to elimination. Colon cancer develops in the epithelial lining cells and may be found from the junction between large and small intestine to the anus. Signs include abdominal pain, nausea, narrow stools, and unexplained changes in bowel movements. Risk factors include colon polyps, [[blesching-cannabis-irritable-bowel-syndrome]] syndrome, ulcerative colitis, smoking, alcohol, age over 50, male gender, obesity, sedentary lifestyle, and radiation therapy. The U.S. had over 100,000 new colon cancer patients and 50,000+ fatalities from rectal and colon cancer combined in 2010.
 
 Colorectal cancer is the third most commonly diagnosed cancer worldwide and the second leading cause of cancer death. The adenoma-carcinoma sequence describes the progression from normal epithelium to adenomatous polyps to invasive carcinoma, a process that typically takes 10–15 years. This long development window presents multiple opportunities for preventive intervention, including potential modulation of the endocannabinoid system.
 
@@ -49,7 +49,7 @@ The cannabinoid-colon cancer interaction involves multiple complementary pathway
 - Inflammatory and immune responses
 - Epithelial cell proliferation and apoptosis
 
-Dysregulation of the gut endocannabinoid system has been implicated in inflammatory bowel disease, irritable bowel syndrome, and colorectal cancer. This suggests that maintaining optimal endocannabinoid tone through diet, lifestyle, or supplementation may support colon health.
+Dysregulation of the gut endocannabinoid system has been implicated in [[blesching-cannabis-inflammatory-bowel-disease]] disease, irritable bowel syndrome, and colorectal cancer. This suggests that maintaining optimal endocannabinoid tone through diet, lifestyle, or supplementation may support colon health.
 
 ## Dosage and Administration
 
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

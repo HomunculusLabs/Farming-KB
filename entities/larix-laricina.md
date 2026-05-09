@@ -10,15 +10,15 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of North America: Larix laricina." USDA Forest Service Agriculture Handbook 654.
-  - Fowells, H.A. (1965). "Silvics of Forest Trees of the United States." USDA Agriculture Handbook 271.
+  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Larix laricina." USDA Forest Service Agriculture Handbook 654.
+  - Fowells, H.A. (1965). "Silvics of Forest Trees of the [[dmt-containing-plants-united-states-halpern]]." USDA Agriculture Handbook 271.
   - Farjon, A. (2017). "A Handbook of the World's Conifers." Brill.
   - Eckenwalder, J.E. (2009). "Conifers of the World." Timber Press.
 ---
 
 ## Overview
 
-**Larix laricina**, commonly known as tamarack or American larch, is a deciduous conifer native to the boreal forests and northern peatlands of North America. It is one of the northernmost tree species on the continent, extending beyond 65°N latitude.
+**Larix laricina**, commonly known as tamarack or American larch, is a deciduous conifer native to the [[fungal-diversity-boreal-forests-taiga]] and northern peatlands of North America. It is one of the northernmost tree species on the continent, extending beyond 65°N latitude.
 
 Tamarack is unusual among conifers in that it sheds its needles each autumn, producing brilliant golden foliage before winter dormancy. This trait distinguishes it from all evergreen conifers and makes it a striking component of northern wetland landscapes.
 
@@ -53,11 +53,11 @@ The bark on young trees is smooth and gray, becoming reddish-brown and scaly wit
 
 **Reproductive morphology:** Seed cones are small, measuring 1–2.5 cm long, and are borne upright on short stalks. They are reddish-purple at pollination, maturing to light brown with tightly closed scales.
 
-Pollination occurs in early spring before needle flush. Seeds are small (2–3 mm) with prominent wings, released as cones open gradually through autumn and winter.
+Pollination occurs in [[coleman-overwintered-onions-and-early-spring-crops]] before needle flush. Seeds are small (2–3 mm) with prominent wings, released as cones open gradually through autumn and winter.
 
 ## Distribution and Habitat
 
-Tamarack has the widest natural range of any North American *Larix* species, extending from the Atlantic coast of Newfoundland and Labrador westward across Canada to the interior of Alaska.
+Tamarack has the widest natural range of any [[growing-gourmet-north-american-reishi-species]] *Larix* species, extending from the Atlantic coast of Newfoundland and Labrador westward across Canada to the interior of Alaska.
 
 The southern limit of continuous distribution runs through the northern Great Lakes states (Minnesota, Wisconsin, Michigan), with disjunct populations extending southward along the Appalachian Mountains to West Virginia and Maryland.
 
@@ -73,7 +73,7 @@ Along its southern range margin, tamarack is largely restricted to bogs and cold
 
 Tamarack is a pioneer species on peatland surfaces, often establishing as the first arboreal colonist of floating bogs and sedge mats. Its success in these nutrient-poor, waterlogged environments reflects its distinctive physiology and mycorrhizal associations.
 
-The species forms ectomycorrhizal relationships with numerous fungal taxa, contributing to nutrient cycling in boreal wetlands where decomposition rates are extremely slow. These associations are critical for phosphorus uptake on organic soils.
+The species forms ectomycorrhizal relationships with numerous fungal taxa, contributing to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in boreal wetlands where decomposition rates are extremely slow. These associations are critical for phosphorus uptake on organic soils.
 
 Tamarack stands provide important habitat for boreal wildlife, including nesting sites for the great gray owl (*Strix nebulosa*) and foraging habitat for moose (*Alces alces*), which browse on twigs and foliage during winter.
 

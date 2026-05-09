@@ -1,5 +1,5 @@
 ---
-title: Mandragora officinarum
+title: mandrake-mandragora-officinarum-in-european-folklore
 created: 2026-04-28
 type: species
 tags: [solanaceae, tropane-alkaloids, hallucinogen, ethnobotany, folklore]
@@ -33,7 +33,7 @@ The flowering scape rises 5 to 15 cm from the center of the leaf rosette,
 bearing 2 to 5 bell-shaped flowers that are greenish-white to purplish-blue,
 approximately 2 to 5 cm long. The fruit is a fleshy, orange to yellowish
 berry, roughly 2 to 5 cm in diameter, resembling a small apple or tomato,
-which has contributed to the plant's association with forbidden fruit in
+which has contributed to the plant's association with [[tree-of-knowledge-and-forbidden-fruit-theory]] in
 various mythological interpretations. All parts of the plant contain active
 tropane alkaloids, with the root having the highest concentration.
 
@@ -80,7 +80,7 @@ sensations of floating or flying, feelings of bodily transformation, and
 profound dissociation from reality — experiences that formed the experiential
 basis of European witch-lore.
 
-The superstitious hold of mandrake in European culture persisted for
+The superstitious hold of mandrake in [[fukuoka-road-european-culture-of-food]] persisted for
 centuries. Small dried mandrake roots were carried as talismans, sold at
 enormous prices, and credited with powers ranging from curing infertility to
 revealing hidden treasure, conferring invulnerability in battle, and

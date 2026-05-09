@@ -1,10 +1,11 @@
 ---
-title: Gourmet Mushroom Species Guide
+title: growing-gourmet-mushroom-dehydration-methods-equipment Species Guide
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [gourmet-mushrooms, fungi, mycology, cultivation, shiitake, oyster, lions-mane, reishi, maitake, stropharia, species-guide]
-sources: [raw/papers/mycelium-running-stamets.md, raw/papers/the-mushroom-cultivator-stamets.md, raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # Gourmet Mushroom Species Guide
@@ -12,10 +13,10 @@ sources: [raw/papers/mycelium-running-stamets.md, raw/papers/the-mushroom-cultiv
 Mushrooms suitable for cultivation span a wide range of species with diverse substrate preferences, temperature requirements, and growth habits. Below is an overview of the most popular gourmet species.
 
 ## Shiitake (Lentinula edodes)
-The second most cultivated mushroom worldwide. Grows on hardwood logs (oak, maple, alder) or supplemented sawdust blocks. Prefers cooler temperatures (50-75 F for fruiting). Rich, umami flavor. Medicinal properties include immune system modulation and cholesterol reduction.
+The second most cultivated mushroom worldwide. Grows on hardwood logs (oak, maple, alder) or [[oyster-mushroom-supplemented-sawdust-blocks]] blocks. Prefers cooler temperatures (50-75 F for fruiting). Rich, umami flavor. Medicinal properties include immune system modulation and cholesterol reduction.
 
 ## Oyster Mushrooms (Pleurotus spp.)
-Multiple species: P. ostreatus (blue/gray oyster), P. pulmonarius (phoenix oyster), P. eryngii (king oyster), P. citrinopileatus (golden oyster), P. djamor (pink oyster). Extremely aggressive colonizers that grow on straw, sawdust, paper, coffee grounds, and many agricultural wastes. Wide temperature range. One of the easiest mushrooms to cultivate. Also valuable for [[mycoremediation-overview]].
+Multiple species: P. ostreatus (blue/gray oyster), P. pulmonarius (phoenix oyster), P. eryngii (king oyster), P. citrinopileatus (golden oyster), P. djamor (pink oyster). Extremely aggressive colonizers that grow on straw, sawdust, paper, [[oyster-mushroom-coffee-grounds-cultivation]], and many agricultural wastes. Wide temperature range. One of the easiest mushrooms to cultivate. Also valuable for [[cotter-mycoremediation-overview]].
 
 ## King Stropharia (Stropharia rugoso-annulata)
 Also called "wine cap" or "garden giant." Grows well in outdoor garden settings on wood chips and straw. Large, burgundy-capped mushrooms with a mild flavor. Excellent for permaculture gardens. Can fruit prolifically from outdoor beds. Stamets recommends it as a companion species in mycofiltration installations.
@@ -36,15 +37,15 @@ Long, thin white stems with small caps. Grown in sawdust/bran substrate in narro
 An amber-colored mushroom with a gelatinous cap coating. Popular in Japanese cuisine, especially in miso soup and nabemono. Grown on hardwood logs or supplemented sawdust blocks.
 
 ## Other Notable Species
-- **Agrocybe aegerita** (Pioppino): Dark-capped mushroom growing on hardwood
+- **Agrocybe aegerita** (Pioppino): Dark-capped [[duggar-mushroom-growing-history-and-methods]] on hardwood
 - **Hypsizygus ulmarius** (Elm oyster): Parasitic/saprophytic on elm and other hardwoods
-- **Coprinus comatus** (Shaggy mane): Ink cap that deliquesces after maturity
+- **[[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]]** (Shaggy mane): Ink cap that deliquesces after maturity
 - **Morchella spp.** (Morels): Highly prized but challenging to cultivate
 
 ## See Also
 
 - [[shiitake-cultivation-log-method]]
-- [[oyster-mushroom-cultivation]]
+- [[cotter-oyster-mushroom-cultivation]]
 - [[medicinal-mushroom-health-benefits]]
 - [[mushroom-cultivation-bulk-substrates]]
 ## Practical Considerations
@@ -63,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

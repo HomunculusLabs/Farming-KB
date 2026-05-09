@@ -1,5 +1,5 @@
 ---
-title: Amanita Muscaria Chemistry and Pharmacology
+title: allegro-amanita-muscaria-properties-and-pharmacology psilocybin-psilocin-chemistry-and-pharmacology-emcdda
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Amanita muscaria, the fly-agaric, contains a unique pharmacological profile distinct from the psilocybin-containing mushrooms. Its primary psychoactive compounds are ibotenic acid and muscimol, which act on the glutamate and GABA neurotransmitter systems respectively -- fundamentally different from the serotonergic mechanism of psilocybin.
+Amanita muscaria, the fly-agaric, contains a unique pharmacological profile distinct from the psilocybin-containing mushrooms. Its primary psychoactive compounds are [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] and muscimol, which act on the glutamate and GABA neurotransmitter systems respectively -- fundamentally different from the serotonergic mechanism of psilocybin.
 
 ## Primary Active Compounds
 
@@ -42,7 +42,7 @@ Amanita muscaria, the fly-agaric, contains a unique pharmacological profile dist
 
 ## Pharmacological Relationship
 
-Ibotenic acid and muscimol are respectively conformationally restricted derivatives of glutamic acid and GABA. This dual relationship to the brain's primary excitatory and inhibitory systems is unique among psychoactive mushrooms. The conversion of ibotenic acid to muscimol through dehydration (decarboxylation) is the basis for the traditional preparation methods that render the mushroom safely psychoactive.
+Ibotenic acid and muscimol are respectively conformationally restricted derivatives of glutamic acid and GABA. This dual relationship to the brain's primary excitatory and inhibitory systems is unique among psychoactive mushrooms. The conversion of ibotenic acid to muscimol through dehydration (decarboxylation) is the basis for the [[kava-traditional-preparation-ceremonial-context]] methods that render the mushroom safely psychoactive.
 
 According to Michelot and Melendez-Howell: "Ibotenic acid, and particularly muscimol, have to be regarded as the substances responsible for the psychotropic action of Amanita muscaria. The effects of both substances are similar but not identical to the effect of the fungus in toto."
 
@@ -52,7 +52,7 @@ The two major chemicals found in A. muscaria are closely related to known antibi
 
 ## Toxicity
 
-Amanita muscaria is commonly considered poisonous, yet reliable recorded fatalities are "extremely rare, even when consumed fresh in large quantities." The adverse effects of fresh consumption (nausea, disorientation, agitation) are primarily due to ibotenic acid content, which is substantially reduced through proper preparation.
+Amanita muscaria is commonly considered poisonous, yet reliable recorded fatalities are "extremely rare, even when consumed fresh in large quantities." The [[blesching-cannabis-safety-adverse-effects-evidence]] of fresh consumption (nausea, disorientation, agitation) are primarily due to ibotenic acid content, which is substantially reduced through proper preparation.
 
 ## Related Concepts
 
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

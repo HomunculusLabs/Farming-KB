@@ -45,11 +45,11 @@ Sigma-1 receptor activation has been consistently associated with
 neuroprotective effects in experimental models of neurodegenerative disease,
 ischemia, and excitotoxicity. The proposed mechanisms include modulation of
 calcium homeostasis to prevent cytotoxic calcium overload, reduction of
-oxidative stress through enhancement of antioxidant defenses, and promotion
+[[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] through enhancement of antioxidant defenses, and promotion
 of neuronal survival signaling through the Akt and ERK pathways.
 
-In models of amyotrophic lateral sclerosis (ALS), sigma-1 receptor agonists
-have shown protective effects that have led to clinical trials. The receptor's
+In models of amyotrophic lateral sclerosis (ALS), sigma-1 [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]]
+have shown protective effects that have led to [[mushroom-cancer-clinical-trials-overview]]. The receptor's
 role in maintaining MAM integrity may be particularly relevant, as MAM
 dysfunction has been implicated in multiple neurodegenerative conditions
 including Alzheimer's disease, Parkinson's disease, and ALS.

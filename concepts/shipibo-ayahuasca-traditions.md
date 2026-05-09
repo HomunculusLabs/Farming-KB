@@ -5,7 +5,7 @@ vital and widely recognized ayahuasca shamanic traditions in South America.
 Their practices center on the ceremonial use of ayahuasca (*ayahuasca* in
 Quechua, *oní* in Shipibo) as a tool for healing, divination, and spiritual
 exploration. The Shipibo tradition has become a significant draw for
-ayahuasca tourism, with the town of San Francisco near Pucallpa proclaiming
+[[stuart-r-ayahuasca-tourism-cautionary-ethnography]], with the town of [[shipibo-san-francisco-ceremonial-center-ucayali]] near Pucallpa proclaiming
 itself the "Centro Ceremonial del Ayahuasca."
 
 ## Shipibo-Conibo People
@@ -28,7 +28,7 @@ dual identity reflects the deep cultural roots of ayahuasca in Shipibo life.
 
 ### Preparation and Setting
 
-Traditional Shipibo ayahuasca ceremonies take place at night in a
+Traditional Shipibo [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] take place at night in a
 ceremonial hut or maloca. The shaman (onanya) prepares the ayahuasca brew
 from *Banisteriopsis caapi* vine and *Psychotria viridis* leaves, often
 following specific recipes passed down through generations. The ceremony

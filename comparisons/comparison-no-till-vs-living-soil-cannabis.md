@@ -1,10 +1,11 @@
 ---
-title: "No-Till vs Living Soil Cannabis"
+title: "No-Till vs comparison-living-soil-cannabis-vs-hydroponic-cannabis"
 created: 2026-04-28
 tags: [cannabis, soil, no-till, living-soil, organic, comparison]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -12,7 +13,7 @@ type: comparison
 
 No-till is primarily a *method*: leave the soil undisturbed between grows, preserving established microbial networks and soil structure. Living soil is primarily a *system*: build and maintain a biologically active soil ecosystem that cycles nutrients to plants through microbial activity. In practice, the two overlap heavily and are often combined into a single integrated approach.
 
-Both methods contrast with conventional cannabis cultivation (hydroponics, bottled nutrients, peat-based media replaced each cycle) by emphasizing long-term soil health, sustainability, and terpene-rich flower quality over rapid turnover and precise nutrient control.
+Both methods contrast with conventional [[query-how-does-no-till-cannabis-cultivation-work]] (hydroponics, bottled nutrients, peat-based media replaced each cycle) by emphasizing long-term soil health, sustainability, and terpene-rich flower quality over rapid turnover and precise nutrient control.
 
 ## No-Till Cannabis
 
@@ -20,8 +21,8 @@ Both methods contrast with conventional cannabis cultivation (hydroponics, bottl
 - Soil structure and fertility improve with each grow.
 - Reduced labor and input costs over time (no soil replacement).
 - Improved water retention from established humus and organic matter.
-- Disease suppression from diverse, competitive soil biology.
-- Enhanced terpene profiles linked to biological nutrient cycling.
+- [[aact-disease-suppression-mechanisms-ingham]] from diverse, competitive soil biology.
+- Enhanced [[cannabis-terpene-profiles-sativa]] linked to biological [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 - No soil disposal needed between runs — environmentally responsible.
 
 ### Trade-offs
@@ -71,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

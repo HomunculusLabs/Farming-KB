@@ -6,12 +6,12 @@ In *Food of the Gods*, [[shamanism]], goddess worship, egalitarian
 social organization, and the catalytic influence of [[eleusinian-mysteries]].
 
 **Hell**: The modern period of synthetic drugs, global drug cartels, government
-hypocrisy, and the "drug war" — which McKenna saw as the dominator culture's most
+hypocrisy, and the "[[mckenna-drug-war-and-human-freedom]]" — which McKenna saw as the [[mckenna-dominator-culture-and-suppression-of-ecstasy]]'s most
 extreme expression of its fear of altered consciousness. This section covers opium,
 tobacco, heroin, cocaine, and what McKenna provocatively called "the electronic drug"
 of television.
 
-**Paradise Regained?**: McKenna's speculative vision of a future in which humanity
+**[[mckenna-paradise-regained-dmt-hyperspace]]?**: McKenna's speculative vision of a future in which humanity
 recovers the Archaic relationship with nature and psychoactive plants. He advocated
 for the legalization of psychedelics, the recognition of their religious and spiritual
 significance, and the development of a culture that integrates rather than suppresses
@@ -26,10 +26,10 @@ challenging both the Christian assumption of the soul's inviolability and the mo
 idea of the ego's permanence and control. Psychoactive drugs therefore "throw into
 question the entire world view of the dominator culture."
 
-This analysis extends beyond drug policy to encompass the dominator culture's
+This analysis extends beyond [[mckenna-modest-proposal-drug-policy-reform]] to encompass the dominator culture's
 suppression of the feminine, the foreign, and all forms of transcendent experience.
 McKenna argued that "the terror the ego feels in contemplating the dissolution of
-boundaries between self and world not only lies behind the suppression of altered states
+boundaries between self and world not only lies behind the suppression of [[weil-the-natural-mind-altered-states-normalcy]]
 of consciousness but, more generally, explains the suppression of the feminine, the
 foreign and the exotic, and transcendental experiences."
 
@@ -69,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: "Psilocybe cyanescens"
+title: "growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation"
 created: 2026-04-28
 updated: 2026-04-28
 type: species
@@ -15,7 +15,7 @@ tags:
   - tryptamine
   - hallucinogenic
 sources:
-  - Stamets, P. (1996). Psilocybin Mushrooms of the World. Ten Speed Press.
+  - Stamets, P. (1996). forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World. Ten Speed Press.
   - Guzmán, G. et al. (2000). "A worldwide geographical distribution of the neurotropic fungi." Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Botánica, 71(1), 71-91.
   - Gartz, J. (1997). "Distribution and habitats of Psilocybe cyanescens." Mycological Research, 101(12), 1455-1458.
   - Stijve, T. & Kuyper, T.W. (1985). "Occurrence of psilocybin and psilocin in the genus Psilocybe." Pharmaceutisch Weekblad, 120(46), 1217-1222.
@@ -24,7 +24,7 @@ sources:
 
 ## Overview
 
-Psilocybe cyanescens, commonly known as the wavy caps mushroom or blue halos, is a potent psilocybin-containing mushroom in the family Hymenogastraceae. It is one of the most widely distributed and psychoactively powerful psilocybian mushrooms in the temperate world, noted for its distinctive wavy cap margin and intense blue bruising reaction upon handling. Originally described from Kew Gardens in England in 1910, P. cyanescens has since been documented across Europe, North America, and parts of the Southern Hemisphere, largely as a result of its association with human-modified landscapes.
+Psilocybe cyanescens, commonly known as the wavy caps mushroom or blue halos, is a potent psilocybin-containing mushroom in the family Hymenogastraceae. It is one of the most widely distributed and psychoactively powerful psilocybian mushrooms in the temperate world, noted for its distinctive wavy cap margin and intense blue bruising reaction upon handling. Originally described from Kew Gardens in England in 1910, P. cyanescens has since been documented across Europe, North America, and parts of the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], largely as a result of its association with human-modified landscapes.
 
 ## Taxonomy and Classification
 
@@ -40,19 +40,19 @@ The specific epithet "cyanescens" refers to the species' tendency to develop int
 
 ### Related Species
 
-- **Psilocybe allenii:** Described from the Pacific Northwest of North America, morphologically very similar; distinguished by slightly larger spores and a less pronounced wavy cap margin
-- **Psilocybe azurescens:** The most potent known psilocybian mushroom, native to the Pacific coast of the United States; larger and more robust than P. cyanescens
-- **Psilocybe subaeruginosa:** Australian species, similarly potent, found on woody debris in Eucalyptus forests
-- **Psilocybe serbica:** European species from the Balkans, part of the same species complex
+- **[[psilocybe-allenii]]:** Described from the Pacific Northwest of North America, morphologically very similar; distinguished by slightly larger spores and a less pronounced wavy cap margin
+- **[[stamets-psi-psilocybe-azurescens-species-guide]]:** The most potent known psilocybian mushroom, native to the Pacific coast of the United States; larger and more robust than P. cyanescens
+psilocybe subaeruginosa nosa:** Australian species, similarly potent, found on woody debris in Eucalyptus forests
+- **[[psilocybe-serbica]]:** European species from the Balkans, part of the same species complex
 
 ## Morphology
 
-Psilocybe cyanescens is a relatively small to medium-sized mushroom with distinctive features:
+Psilocybe cyanescens is a relatively small to medium-sized mushroom with [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]]:
 
 - **Cap (Pileus):** 15–50 mm diameter when expanded; convex to broadly convex when young, becoming broadly umbonate to plane with age; the margin is characteristically undulate (wavy) to strongly incurved at maturity — the species' most diagnostic field character; surface smooth, viscid when moist from a separable gelatinous pellicle, hygrophanous; color ranging from caramel-brown to dark chestnut-brown when moist, fading to pale ochre or buff when dried; bruises intensely blue where handled or damaged
 - **Gills (Lamellae):** Adnexed to adnate (slightly notched or broadly attached to the stem), close to subdistant; initially pale grayish, darkening to purplish-brown with spore maturity; edges whitish and fringed; bruise blue when damaged
 - **Stem (Stipe):** 40–100 mm long × 2–4 mm thick; cylindrical, slightly enlarged at the base; covered in fine white fibrils (fibrillose) that may form a subtle cortina-like veil in young specimens; white to yellowish, bruising intensely blue-green; solid but somewhat flexible; partial veil often leaving a faint annular zone on the upper stem
-- **Spore print:** Dark purplish-brown to nearly black
+- **[[spore-print]]:** Dark purplish-brown to nearly black
 - **Spores:** Ellipsoid to subrhomboidal in face view, slightly inequilateral in side view, 9–12 × 6–8 µm, thick-walled, with a distinct germ pore
 - **Odor:** Farinaceous (mealy or flour-like), sometimes described as slightly radish-like
 - **Taste:** Farinaceous, mild
@@ -129,18 +129,15 @@ The legal status of Psilocybe cyanescens varies by jurisdiction:
 
 Outdoor cultivation of P. cyanescens is relatively straightforward, while indoor cultivation is considered challenging due to the species' specific environmental requirements:
 
-- **Outdoor method:** Inoculation of hardwood chip beds in shaded, temperate locations; mycelium is vigorous and can colonize large areas; beds established in spring or early summer will fruit in autumn
-- **Substrate preparation:** Hardwood chips (alder, oak, beech) supplemented with straw or sawdust; pasteurization at 70–80°C for 1–2 hours
+- **Outdoor method:** Inoculation of hardwood chip beds in shaded, temperate locations; mycelium is vigorous and can colonize large areas; beds established in spring or early summer will fruit in [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] preparation:** Hardwood chips (alder, oak, beech) supplemented with straw or sawdust; pasteurization at 70–80°C for 1–2 hours
 - **Spawn:** Grain spawn (rye or millet) or direct inoculation with stem butts from wild-collected specimens
-- **Environmental requirements:** Cool temperatures (8–15°C) for fruiting initiation; high humidity (>90%); adequate rainfall or regular misting
+- **Environmental requirements:** Cool temperatures (fruiting initiation g initiation; high humidity (>90%); adequate rainfall or regular misting
 - **Indoor cultivation:** Challenging due to the species' preference for cool temperatures and long colonization times; requires temperature-controlled fruiting chambers
 
 ## Safety Considerations
 
-- **Physical toxicity:** Psilocybin mushrooms have very low physiological toxicity; the estimated lethal dose (LD50) in rats is 280 mg/kg for psilocybin — far exceeding any reasonable human dose
+- **Physi psilocybin mushrooms ocybin mushrooms have very low physiological toxicity; the estimated lethal dose (LD50) in rats is 280 mg/kg for psilocybin — far exceeding any reasonable human dose
 - **Psychological risks:** Include anxiety, paranoia, confusion ("bad trips"), and in rare cases, prolonged psychotic reactions in predisposed individuals
-- **Misidentification risk:** P. cyanescens can be confused with several toxic species, notably Galerina marginata (deadly galerina) and Inocybe species, which share similar habitat and general appearance; the blue bruising reaction is the key distinguishing feature
-- **Contraindications:** Personal or family history of psychotic disorders; use of serotonergic medications (SSRIs, MAOIs); cardiovascular conditions; pregnancy
 ## See Also
 
 - [[psilocybe-azurescens]] — The most potent known psilocybian species

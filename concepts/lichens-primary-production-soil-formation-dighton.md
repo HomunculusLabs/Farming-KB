@@ -1,5 +1,5 @@
 ---
-title: Lichens in Primary Production and Soil Formation (Dighton)
+title: Lichens in lichens primary production soil formation dighton and Soil Formation (Dighton)
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -11,7 +11,7 @@ sources: [raw/papers/john-dighton-fungi-in-ecosystem-processes.md]
 
 Updated: 2026-04-18
 
-Source: John Dighton, *Fungi in Ecosystem Processes*, Chapters 2 and 3.
+Source: John Dighton, *Fungi in [[fungal-ecosystem-processes-overview]]*, Chapters 2 and 3.
 
 ## Role in Soil Formation
 
@@ -32,14 +32,14 @@ Mottershead and Lucas (2000) demonstrated the role of lichens in inhibiting eros
 
 In arid and semi-arid ecosystems, lichen-dominated biological soil crusts are critical for ecosystem function:
 
-- **Erosion control** — crust communities stabilize soil surfaces against wind and water erosion
-- **Nitrogen fixation** — cyanobacterial partners fix atmospheric nitrogen (cyanolichens)
+- **[[permplant-willows-salix-erosion-control-fodder]]** — crust communities stabilize soil surfaces against wind and water erosion
+- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]** — cyanobacterial partners fix atmospheric nitrogen (cyanolichens)
 - **Carbon addition** — organic matter from lichen biomass enriches nutrient-poor soils
 - **Water modulation** — crusts influence infiltration rates and moisture retention
 
 Belnap (2002) showed that crust communities in Utah deserts fix between 1 and 13 kg N per hectare per year. Earlier estimates from other arid systems placed cyanobacterial N-fixation rates at approximately 20 kg/ha/year. These rates, while modest compared to agricultural legumes, are ecologically significant in nitrogen-limited desert ecosystems.
 
-States and Christensen (2001) described the broader fungal communities associated with biological soil crusts in desert grasslands of Utah and Wyoming, including dark septate fungi, melanized hyphomycetes, and yeast-like fungi. These non-lichen fungi contribute additional decomposition and nutrient cycling functions.
+States and Christensen (2001) described the broader fungal communities associated with biological soil crusts in desert grasslands of Utah and Wyoming, including dark septate fungi, melanized hyphomycetes, and yeast-like fungi. These non-lichen fungi contribute additional decomposition and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] functions.
 
 ## Carbon Fixation and Primary Production
 
@@ -73,7 +73,7 @@ Crittenden (1989) reported that these lichens depend heavily on intercepting nit
 
 ## Photoprotection
 
-The fungal partner provides critical photoprotection for the photosynthetic apparatus. Solhaug and Gauslaa (1996) extracted the compound parietin from *Xanthoria parietina* using acetone and demonstrated that extracted lichens showed reduced photosynthetic oxygen production at high light intensities. This provided direct evidence that the fungal-produced blue-light filtering chemical protects the algal partner from photoinhibition — a clear example of mutualism within the lichen symbiosis.
+The fungal partner provides critical photoprotection for the photosynthetic apparatus. Solhaug and Gauslaa (1996) extracted the compound parietin from *Xanthoria parietina* using acetone and demonstrated that extracted lichens showed reduced photosynthetic oxygen production at high light intensities. This provided direct evidence that the fungal-produced blue-light filtering chemical protects the algal partner from photoinhibition — a clear example of mutualism within the [[comparison-lichen-symbiosis-vs-mycorrhizal-symbiosis]].
 
 ## Desert Carbon Sequestration
 
@@ -91,7 +91,7 @@ Lichens demonstrate that the fungal kingdom plays a direct role in primary produ
 
 ## Related Pages
 
-- [[fungal-biodiversity-alpine-arctic]]
+- fungal-biodiversity-alpine-arctic
 - [[fungal-biodiversity-forest-ecosystems]]
 - [[fungal-decomposition-nutrient-cycling]]
 - [[fungi-in-ecosystem-processes-dighton]]

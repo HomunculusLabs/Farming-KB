@@ -1,5 +1,5 @@
 ---
-title: "Neoshamanic Medicine Circles — Hybrid Therapeutic Rituals"
+title: "metzner-neoshamanic-medicine-circles-structure-and-practice Circles — Hybrid hybrid-shamanic-therapeutic-rituals-metzner"
 type: concept
 tags:
   - shamanism
@@ -20,7 +20,7 @@ sources:
 ## Overview
 
 Neoshamanic medicine circles are contemporary ritual structures that blend
-elements of indigenous shamanic ceremony with Western psychotherapeutic
+elements of indigenous [[metzner-shamanic-ceremony-three-features-darkness-singing-silence]] with Western psychotherapeutic
 practice.
 
 Ralph Metzner, who observed and participated in over 100 such circles
@@ -52,7 +52,7 @@ Only the person holding the circulating staff may sing or speak, with no
 discussion, questioning, or interpretation of the kind found in
 conventional group psychotherapy. This format creates a container of
 respectful listening and prevents the analytical mind from colonizing the
-psychedelic experience with premature interpretation. Some sessions
+[[leary-psychedelic-experience-bardo-mapping]] with premature interpretation. Some sessions
 involve minimal or no interaction during the expanded state.
 
 ## Participant Profile
@@ -61,7 +61,7 @@ Metzner noted that most participants in neoshamanic medicine circles
 bring prior experience with one or more psychospiritual practices.
 
 These commonly include shamanic drum journeying, Buddhist vipassana
-meditation, tantra yoga, and holotropic breathwork.
+meditation, tantra yoga, and [[metzner-holotropic-breathwork-and-grof-perinatal-matrices]].
 
 Most participants have also engaged in various forms of psychotherapy and
 body-oriented therapy, including Reichian, bioenergetic, and somatic
@@ -126,7 +126,7 @@ for therapeutic purposes without appropriating specific indigenous
 practices.
 
 The format anticipates many features of modern clinical psychedelic
-therapy protocols, including the importance of set and setting, the role
+therapy protocols, including the importance of [[lsd-set-and-setting-framework]], the role
 of experienced guides, and the integration of preparatory and follow-up
 work.
 

@@ -12,18 +12,18 @@ sources:
 # Ocimum basilicum
 
 Ocimum basilicum, commonly known as sweet basil, is an aromatic annual herb
-in the mint family (Lamiaceae). Native to tropical South and Southeast Asia,
+in the mint family (Lamiaceae). Native to tropical South and [[psilocybe-southeast-asia-pacific]],
 it has been cultivated for over 5,000 years and is now one of the most widely
-grown culinary herbs worldwide. The species is central to Mediterranean,
+grown [[holzer-medicinal-and-culinary-herbs-compendium]] worldwide. The species is central to Mediterranean,
 Italian, Thai, Vietnamese, and Indian cuisines, and holds deep cultural
 significance in Hindu traditions.
-Basil is rich in volatile essential oils — primarily linalool, eugenol, and
+Basil is rich in volatile [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] — primarily linalool, eugenol, and
 methyl chavicol — that confer its characteristic aroma and many medicinal
 properties. It has a long history in Ayurveda, Unani, and European folk
 herbalism as a digestive aid, carminative, and anti-inflammatory agent.
 Modern research has validated antioxidant, antimicrobial, and anxiolytic
 properties. The genus contains over 60 species; basil is also valued in
-companion planting and permaculture systems for pest deterrence and
+[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] and permaculture systems for [[foliar-pest-deterrence-aact-mechanisms]] and
 pollinator attraction.
 
 ## Taxonomy and Naming
@@ -115,7 +115,7 @@ The essential oil varies significantly by chemotype and cultivar:
 - **Harvest:** Begin 60–90 days from sowing at 15–20 cm tall; cut 10 cm above
   ground for regrowth; final harvest before first frost
 - **Preservation:** Dried, frozen (in oil), or processed into pesto
-- **Pests:** Japanese beetles, aphids, Fusarium wilt, downy mildew
+- **Pests:** Japanese beetles, aphids, Fusarium wilt, [[cervantes-downy-mildew-fungal-blight]]
   (Peronospora belbahrii — major emerging disease)
 
 ## Cultivars and Varieties

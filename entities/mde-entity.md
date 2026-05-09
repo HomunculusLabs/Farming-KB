@@ -11,8 +11,8 @@ sources:
 
 **Chemical name:** 3,4-Methylenedioxy-N-ethylamphetamine
 
-**PiHKAL #106** | [[mda]]|MDA and a close relative of [[psychedelic-harm-reduction]] for general harm reduction guidelines
-- Legal status: Schedule I in the US and most countries
+**PiHKAL #106** | [[mda]]|MDA and a close relative of [[psychedelic-harm-reduction]] for general [[adverse-effects-and-harm-reduction-psilocybin]] guidelines
+- [[ayahuasca-tourism-legal-status-by-country]]: Schedule I in the US and most countries
 
 ## Related Compounds
 
@@ -97,4 +97,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

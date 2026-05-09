@@ -1,15 +1,16 @@
 ---
-title: Cannabis Oil Capsule Preparation
+title: cervantes-hash-cannabis-oil-production Capsule Preparation
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [cannabis, cultivation]
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 # Cannabis Oil Capsule Preparation
 
-Cannabis oil capsules, sometimes called pot pills, represent one of the most discreet and precisely dosable methods of consuming refined cannabis extracts. The preparation of oil capsules is a straightforward process that combines purified cannabis oil with a lipid carrier and an inert filler material, creating an oral dosage form that can be stored, transported, and consumed without drawing attention.
+Cannabis cannabis oil capsules preparation, sometimes called pot pills, represent one of the most discreet and precisely dosable methods of consuming refined cannabis extracts. The preparation of oil capsules is a straightforward process that combines purified cannabis oil with a lipid carrier and an inert filler material, creating an oral dosage form that can be stored, transported, and consumed without drawing attention.
 
 ## Rationale for Capsule Preparation
 
@@ -19,7 +20,7 @@ Capsules offer several advantages over other oral cannabis preparations. They pr
 
 ## The Butter Carrier System
 
-The formulation described in Ben Lemon's Cannabis Alchemy uses butter as the primary carrier for cannabis oil in capsules. The purified oil is mixed with an equal amount of butter. Butterfat serves as an effective carrier because cannabinoids are highly lipophilic and readily dissolve in animal fats. The lipid carrier facilitates absorption through the membranes of the stomach and intestine, significantly increasing bioavailability compared to consuming oil alone.
+The formulation described in Ben Lemon's [[lemon-cannabis-alchemy-advanced-refinement-techniques]] uses butter as the primary carrier for cannabis oil in capsules. The purified oil is mixed with an equal amount of butter. Butterfat serves as an effective carrier because cannabinoids are highly lipophilic and readily dissolve in animal fats. The lipid carrier facilitates absorption through the membranes of the stomach and intestine, significantly increasing bioavailability compared to consuming oil alone.
 
 The choice of butter over other lipids is based on both its effectiveness as a carrier and its availability. Other lipid carriers such as coconut oil, MCT oil, or various vegetable oils can substitute for butter. Coconut oil and MCT oil are popular alternatives because they remain liquid at room temperature, making the capsule-filling process easier and producing a more uniform product.
 
@@ -47,7 +48,7 @@ Vegetable-based capsules (hypromellose or HPMC) are available for individuals wh
 
 ## Dosage Considerations
 
-The potency of each capsule depends on the concentration of THC in the oil used, the ratio of oil to butter to filler, and the size of the capsule. With typical formulations using purified oil, each large capsule may contain the equivalent of 0.25 to 1.0 grams of high-quality cannabis flower.
+The potency of each capsule depends on the concentration of THC in the oil used, the ratio of oil to butter to filler, and the size of the capsule. With typical formulations using purified oil, each large capsule may contain the equivalent of 0.25 to 1.0 grams of high-quality [[cervantes-cannabis-flower-anatomy]].
 
 Accurate dosing requires that the oil be uniformly mixed with the butter and filler. Any unevenness in mixing will result in variable potency between capsules. Thorough mixing in a mortar with a pestle, or in a mechanical mixer, helps ensure uniformity.
 
@@ -61,7 +62,7 @@ Cannabinoids in capsule form degrade more slowly than in raw plant material beca
 
 ## Comparison to Other Oral Preparations
 
-Capsules differ from tinctures (described in [[cannabis-edibles-guide]]), capsules offer more precise dosing and avoid the variability introduced by uneven distribution of cannabis butter through a batter. They also avoid the calories and sugar associated with baked goods, making them more suitable for regular therapeutic use.
+Capsules differ from tinctures (described in [[cannabis-edibles-guide]]), capsules offer more precise dosing and avoid the variability introduced by uneven distribution of [[cervantes-cannabis-butter-cooking]] through a batter. They also avoid the calories and sugar associated with baked goods, making them more suitable for regular therapeutic use.
 
 ## Related Topics
 
@@ -88,6 +89,6 @@ Another approach to extended release involves coating standard gelatin capsules 
 
 ## Combination Formulations
 
-Capsules offer a convenient format for combining cannabis oil with other therapeutic compounds. Herbal supplements such as turmeric, black pepper extract (piperine), or ginger can be included in the filler mixture. Piperine has been shown to increase the bioavailability of various compounds through inhibition of metabolic enzymes, and it may similarly enhance cannabinoid absorption.
+Capsules offer a convenient format for combining cannabis oil with other therapeutic compounds. Herbal supplements such as turmeric, [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]] extract (piperine), or ginger can be included in the filler mixture. Piperine has been shown to increase the bioavailability of various compounds through inhibition of metabolic enzymes, and it may similarly enhance cannabinoid absorption.
 
 Some practitioners create capsules that combine THC-dominant oil with CBD-dominant oil to achieve specific THC-to-CBD ratios without the variability inherent in strain-specific preparations. This allows precise control over the ratio, which is important for therapeutic applications discussed in [[cannabis-reefers-and-tincture-preparation]]

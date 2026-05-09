@@ -8,7 +8,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 # Deep-Organic vs. Shallow-Organic Farming
 
 Eliot Coleman draws a critical distinction between two fundamentally
-different approaches to organic agriculture in "The Winter Harvest
+different approaches to organic agriculture in "The [[coleman-claytonia-winter-harvest-cultivation]]
 Handbook." This distinction — between "deep-organic" and "shallow-
 organic" farming — is not about certification standards or input lists
 but about underlying worldviews that produce radically different
@@ -18,7 +18,7 @@ between farmers and the agricultural industry.
 ## The Deep-Organic Approach
 
 Deep-organic farmers use freely available natural soil foods from
-deep-rooting legumes, green manures, and composts to correct the
+deep-rooting legumes, [[jeavons-green-manures-cover-crops]], and composts to correct the
 **causes** of an infertile soil by establishing a vigorous soil life.
 They acknowledge that the underlying cause of pest problems — insects
 and diseases — is plant stress.
@@ -26,7 +26,7 @@ and diseases — is plant stress.
 Deep-organic farmers know they can avoid pest problems by managing:
 - Soil tilth and structure
 - Nutrient balance
-- Organic matter content
+- [[hamilton-composting-and-organic-matter-management]] content
 - Water drainage
 - Air flow
 - Crop rotations
@@ -42,10 +42,10 @@ and to respect the primacy of a healthy planet.
 Shallow-organic farmers, after rejecting agricultural chemicals, look
 for quick-fix inputs. Trapped in a belief that the natural world is
 inadequate, they end up mimicking the patterns of chemical agriculture.
-They use bagged or bottled organic fertilizers to supply nutrients that
+They use bagged or bottled [[hamilton-organic-fertilizers-and-plant-nutrition]] to supply nutrients that
 temporarily treat the **symptoms** of an infertile soil.
 
-They treat the symptoms of plant stress — insect and disease problems —
+They treat the symptoms of plant stress — [[vegetable-insect-and-disease-control]] problems —
 by arming themselves with the latest natural organic weapons. In doing
 so, shallow-organic farmers continue to deliver themselves into the
 control of an industrial supply network that is only too happy to sell
@@ -83,7 +83,7 @@ shallow-organic agriculture alike.
 Shallow-organic farming, by contrast, is an acceptable variation of
 chemical agribusiness. It is an easy system for the industry to
 quantify, control, and profit from in the same ways it has done with
-chemical farming. Shallow-organic farming sustains the dependence of
+[[knf-vs-chemical-farming-comparison]]. Shallow-organic farming sustains the dependence of
 farmers on middlemen and fertilizer suppliers.
 
 This is why the agricultural industry has largely embraced organic

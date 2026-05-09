@@ -1,13 +1,13 @@
 ---
-title: "Arbuscular Mycorrhizal Fungi vs Endophytic Fungi"
+title: "comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi Fungi vs Endophytic Fungi"
 created: 2026-04-28
-tags: [[mycology, symbiosis, plant-microbe-interactions, soil-health, agriculture]
+tags: [mycology, symbiosis, plant-microbe-interactions, soil-health, agriculture]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
-
 # Arbuscular [[endophytic-fungi]]
 
 ## Overview
@@ -21,11 +21,11 @@ organism group, compare their characteristics, and provide guidance on selection
 ## Arbuscular Mycorrhizal Fungi
 
 [[symbiotic-fungi-endophytic-fungi-in-plants]] are fungi (and sometimes bacteria) living
-within plant tissues without causing harm. Their roles span growth promotion, induced
-disease resistance, abiotic stress tolerance, and bioactive secondary metabolite production.
+within plant tissues without causing harm. Their roles span [[brassinosteroid-growth-promotion-psilocybe-cubensis]], induced
+disease resistance, abiotic [[fungal-lichen-stress-tolerance-and-poikilohydry]], and bioactive [[fungal-elicitors-enhanced-secondary-metabolite-production]] production.
 
 Most endophytes colonize root cortex inter- and intracellularly. Benefits arise through
-antibiotic production, induced systemic resistance, phytohormone secretion (auxins,
+antibiotic production, [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance, phytohormone secretion (auxins,
 gibberellins), and enhanced stress tolerance. Documented effects include 22% more seeds in
 *Arabidopsis*, near-100% tissue-cultured plantlet survival during transplant, and systemic
 resistance to disease and salt stress.
@@ -35,6 +35,8 @@ A notable exception is *[[biochar]].
 - **Monitoring:** Regular colonization assessment helps optimize the symbiont balance.
 
 ## See Also
+
+- [[comparison-amf-vs-ericoid-mycorrhiza]]
 
 - [[arbuscular-mycorrhizal-fungi]]
 - [[symbiotic-fungi-endophytic-fungi-in-plants]]
@@ -54,7 +56,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -96,4 +98,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

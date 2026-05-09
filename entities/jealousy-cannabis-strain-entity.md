@@ -1,5 +1,5 @@
 ---
-title: Jealousy (Cannabis Strain)
+title: Jealousy (blesching-cannabis-strain-selection-receptor-targeting)
 created: 2026-04-28
 type: strain
 tags:
@@ -38,7 +38,7 @@ Jealousy is a modern indica-dominant hybrid cannabis strain bred by Seed Junky G
 - Gelato #41 is itself a cross of Sunset Sherbert × Thin Mint Cookies (Girl Scout Cookies phenotype)
 - Known for its creamy, dessert-like terpene profile and potent, balanced effects
 - One of the most influential modern cannabis cultivars, foundational to dozens of subsequent crosses
-- Contributes dense bud structure, high resin production, and the sweet lavender-citrus terpene expression
+- Contributes dense bud structure, high [[cannabis-glandular-trichome-types-resin-production-clarke]], and the sweet lavender-citrus terpene expression
 
 **Male Parent: Sunset Sherbet (select cut)**
 - A phenotype of Sherbert, itself derived from Girl Scout Cookies × Pink Panties
@@ -66,7 +66,7 @@ The inbreeding of Sunset Sherbet genetics (present in both Gelato #41 and direct
 Jealousy is visually striking and lives up to the "exotic" aesthetic expected of premium modern cannabis:
 
 - **Bud structure:** Dense, chunky, medium-to-large calyxes with a tight, indica-typical formation. Buds are remarkably heavy for their size due to dense trichome coverage.
-- **Coloration:** A dramatic interplay of deep forest green and vibrant purple. The purple expression is environmentally influenced — cooler night temperatures during late flowering (below 15°C/59°F) trigger anthocyanin production, deepening the violet hues. Bright orange pistils contrast sharply against the dark foliage.
+- **Coloration:** A dramatic interplay of deep [[trichoderma-forest-green-mold-guide]] and vibrant purple. The purple expression is environmentally influenced — cooler night temperatures during late flowering (below 15°C/59°F) trigger anthocyanin production, deepening the violet hues. Bright orange pistils contrast sharply against the dark foliage.
 - **Trichomes:** Exceptionally heavy resin production. Buds appear frosty or "dipped in sugar" with a thick layer of opaque, milky-white trichomes. Under magnification, a mix of bulbous and capitate-stalked glandular trichomes are visible, with amber-colored heads indicating peak maturity.
 - **Leaf:** Broad indica-dominant leaves with serrated edges, often displaying purple stems and petioles.
 

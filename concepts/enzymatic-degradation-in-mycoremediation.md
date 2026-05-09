@@ -9,7 +9,7 @@ sources:
 ---
 # Enzymatic Degradation in Mycoremediation
 
-The enzymatic machinery of fungi is central to their bioremediation capabilities. Three key extracellular enzymes produced by white-rot basidiomycetes -- lignin peroxidase (LiP), manganese peroxidase (MnP), and laccase -- form the core ligninolytic system that degrades a wide range of xenobiotic poll
+The enzymatic machinery of fungi is central to their bioremediation capabilities. Three key extracellular enzymes produced by white-rot basidiomycetes -- [[fungal-lignin-peroxidase-veratryl-alcohol]] (LiP), [[fungal-manganese-peroxidase-remediation]] (MnP), and laccase -- form the core ligninolytic system that degrades a wide range of xenobiotic poll
 
 ## Practical Context
 Enzymatic Degradation In Mycoremediation is relevant to farming knowledge because it connects observation,
@@ -32,7 +32,9 @@ be scaled to the site: small trials, careful monitoring, and comparison against
 an untreated area are usually more reliable than immediate whole-system
 changes.
 
-## Related Topics
+## Related
+
+- [[ceriporiopsis-subvermispora]] Topics
 - [[singh-white-rot-fungi-lignin-modifying-enzymes]]
 - [[lignin-degradation]]
 - [[soil-food-web]]
@@ -59,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

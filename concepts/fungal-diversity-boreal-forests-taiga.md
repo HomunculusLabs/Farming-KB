@@ -1,16 +1,12 @@
 ---
-title: Fungal Diversity in Boreal Forests and Taiga
+title: Fungal Diversity in fungal diversity boreal forests taiga and Taiga
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Diversity in Boreal Forests and Taiga
-
-Boreal forests and taiga represent vast but poorly sampled ecosystems for fungal diversity. Characterized by cold climates, permafrost, and conifer-dominated vegetation, these forests harbor distinctive fungal assemblages adapted to harsh conditions.
-
-[[saprobic-soil-fungi]] [[psychrophilic-fungi]] [[fungal-biomonitoring]]
+# Fungal Diversity in Boreal Forests and Taiga Boreal forests and taiga represent vast but poorly sampled ecosystems for fungal diversity. Characterized by cold climates, permafrost, and conifer-dominated vegetation, these forests harbor distinctive fungal assemblages adapted to harsh conditions. [[saprobic-soil-fungi]] [[psychrophilic-fungi]] [[fungal-biomonitoring]]
 
 ## Wisconsin Conifer Studies
 
@@ -34,7 +30,7 @@ This distinction has important implications for understanding fungal community r
 
 Conifer forests support distinctive fungal assemblages. Oidiodendron species are particularly characteristic of conifer forest soils and are often associated with ericaceous understory plants.
 
-The mycorrhizal partners of boreal conifers include diverse basidiomycetes and ascomycetes, many of which are restricted to cold climates. The fruiting phenology of boreal ectomycorrhizal fungi is compressed into a brief summer season, creating distinctive seasonal patterns.
+The mycorrhizal partners of boreal conifers include diverse basidiomycetes and ascomycetes, many of which are restricted to cold climates. The [[macrofungal-fruiting-phenology-climate-variability]] of boreal ectomycorrhizal fungi is compressed into a brief summer season, creating distinctive seasonal patterns.
 
 [[mycorrhizal-fungi]]
 
@@ -50,7 +46,7 @@ Sphagnum-dominated bogs create unique acidic conditions that select for acid-tol
 
 Endophytic fungi are known from plants growing in boreal forests, including conifers and ericaceous shrubs. Conifer needles, especially of evergreen species, harbor diverse endophyte assemblages that increase in species diversity and infection frequency with needle age.
 
-The cold climate of boreal forests may slow endophyte colonization rates but does not prevent the development of diverse endophyte communities.
+The cold climate of boreal forests may slow [[fungal-endophyte-colonization-patterns]] rates but does not prevent the development of diverse endophyte communities.
 
 [[fungal-endophytes-plant-fitness]]
 
@@ -58,7 +54,7 @@ The cold climate of boreal forests may slow endophyte colonization rates but doe
 
 Boreal fungal communities may be particularly vulnerable to climate change due to the narrow temperature tolerances of many species. Warming temperatures could shift competitive dynamics, allowing temperate species to expand northward while cold-adapted species contract.
 
-The permafrost thawing associated with warming could fundamentally alter the hydrology and chemistry of boreal soils, with cascading effects on fungal communities.
+The permafrost thawing associated with warming could fundamentally alter the hydrology and chemistry of boreal soils, with cascading [[brassinosteroid-effects-on-fungal-morphology]] communities.
 
 [[fungal-species-estimates-taxonomy]]
 
@@ -72,7 +68,7 @@ Despite their vast extent, boreal forests remain poorly sampled for fungal diver
 
 Ectomycorrhizal (ECM) fungi are among the most functionally important fungal
 groups in boreal forests, forming obligate symbiotic associations with the
-dominant tree species that drive nutrient cycling and ecosystem productivity.
+dominant tree species that drive [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and ecosystem productivity.
 
 ### Dominant ECM Genera
 - Boreal conifer forests are dominated by ECM associations with genera
@@ -124,7 +120,7 @@ dominant tree species that drive nutrient cycling and ecosystem productivity.
 
 Permafrost — permanently frozen soil that underlies much of the boreal and
 arctic landscape — harbors viable fungal communities preserved in a state of
-suspended metabolic activity for thousands to tens of thousands of years.
+suspended [[arbuscule-isolation-metabolic-activity-assays]] for thousands to tens of thousands of years.
 
 ### Survival Mechanisms
 - Fungi recovered from permafrost cores demonstrate remarkable longevity,

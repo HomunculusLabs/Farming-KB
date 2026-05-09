@@ -52,11 +52,11 @@ ingested without processing.
 Sapindaceae → **Hippocastanoideae → *Aesculus* → *A. hippocastanum***
 
 Described by Linnaeus in 1753. The genus *Aesculus* contains 13–19 species
-distributed across North America, Europe, and Asia. *A. hippocastanum* is
+distributed across [[psilocybin-north-america-pacific-northwest]], Europe, and Asia. *A. hippocastanum* is
 the type species of the genus. It was once placed in Hippocastanaceae but
 was reclassified into Sapindaceae following molecular phylogenetic analyses.
 No significant infraspecific taxa are recognized. The common name "horse
-chestnut" reflects the seed's resemblance to sweet chestnut (*Castanea
+chestnut" reflects the seed's resemblance to [[holzer-sweet-chestnut-and-nut-trees]] (*Castanea
 sativa*) and a historical (erroneous) belief that the seeds cured coughs
 in horses, or alternatively from the horseshoe-shaped scar on the hilum.
 
@@ -105,7 +105,7 @@ The seed is the primary medicinal organ. Key constituents include:
   under UV light and has been used historically as a diagnostic reagent.
 - **Tannins:** Condensed and hydrolyzable tannins at 2–4%; contribute
   astringent properties.
-- **Fatty acids:** Seeds contain ~5% oil rich in oleic, linoleic, and
+- **[[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]:** Seeds contain ~5% oil rich in oleic, linoleic, and
   stearic acids; not commercially extracted.
 
 ## Pharmacology and Clinical Use
@@ -132,17 +132,13 @@ safe while raw seeds are not.
 
 ## Permaculture and Ecological Applications
 
-- **Bee forage:** The nectar-rich flowers are an important spring food
+- **[[mollison-designers-bee-forage-tree-planting]]:** The nectar-rich flowers are an important spring food
   source for bees and other pollinators; honey from horse chestnut is
   dark and mildly flavored.
 - **Shade tree:** Large, fast-growing canopy provides excellent shade in
   parks, large gardens, and urban settings.
-- **Leaf litter:** Decomposing leaves add organic matter and moderate
+- **[[dighton-fungal-decomposition-leaf-litter-dynamics]]:** Decomposing leaves add [[hamilton-composting-and-organic-matter-management]] and moderate
   nutrients to soil.
-- **Limitations:** Seeds are allelopathic, inhibiting germination of
-  understory plants; the invasive leaf miner has reduced ornamental
-  value in Europe; large mature size limits use in small spaces. Not
-  recommended for food forests due to toxicity of all plant parts.
 ## See Also
 
 - [[quercus-robur]]

@@ -114,4 +114,7 @@ insect vectors and provide early warning of pest pressure.
 ## See Also
 - Mushroom Contamination And Biocontrol
 - [[mushroom-cultivation-in-kenya]]
-- [[grain-spawn-production]]
+- grain-spawn-production
+- [[bacillus-subtilis]]
+- [[spawn-production]]
+- [[mycopesticides]]

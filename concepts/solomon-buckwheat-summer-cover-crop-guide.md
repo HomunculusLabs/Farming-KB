@@ -1,5 +1,5 @@
 ---
-title: Buckwheat as a Summer Cover Crop
+title: Buckwheat as a Summer cover-crop
 tags:
   - buckwheat
   - cover-crop
@@ -18,13 +18,13 @@ created: 2026-05-07
 
 # Buckwheat as a Summer Cover Crop
 
-Among all summer cover crop options, Steve Solomon recommends buckwheat without hesitation as the only species that will work almost anywhere without getting a gardener into trouble. Its speed of growth, ease of incorporation, and the superb soil condition it leaves behind make it uniquely valuable for filling gaps in the vegetable garden rotation.
+Among all summer cover crop options, [[steve-solomon]] recommends buckwheat without hesitation as the only species that will work almost anywhere without getting a gardener into trouble. Its speed of growth, ease of incorporation, and the superb soil condition it leaves behind make it uniquely valuable for filling gaps in the vegetable garden rotation.
 
 ## Why Buckwheat Stands Alone
 
 Many cover crop species are suited to autumn or winter growing periods, but the summer niche is surprisingly thin. Most summer green manure options are either too slow-growing to be practical in the short windows between vegetable crops, or they present incorporation difficulties that overwhelm the home gardener. Buckwheat suffers from neither problem.
 
-Solomon considers a thriving patch of waist-high buckwheat in midsummer to be better evidence of gardening skill than an impressive broccoli head. Cover cropping is a more sophisticated practice than simply growing vegetables, and buckwheat is the entry point.
+Solomon considers a thriving patch of waist-high buckwheat in midsummer to be better evidence of gardening skill than an impressive broccoli head. Cover cropping is a more sophisticated practice than simply [[container-growing-vegetables-herbs]], and buckwheat is the entry point.
 
 ## Growth Rate and Timing
 
@@ -57,7 +57,7 @@ Buckwheat flowering is photoperiod-dependent, meaning it responds to day length.
 
 Solomon learned this lesson directly. Living at 44 degrees south latitude, he once purchased buckwheat seed from a health food shop that had been grown in semi-tropical Queensland at roughly 27 degrees south. The consequence was that the crop hardly finished growing in his Tasmanian garden before it went into full bloom and stopped growing. The plants never reached their full vegetative potential because the day length cues were wrong for the latitude.
 
-In North America, where the latitudinal range is enormous, this principle is especially important. Northern gardeners using southern-grown seed may see abbreviated growth. Using locally produced seed from a farm supplier is strongly recommended.
+In [[guzman-psilocybin-mushrooms-north-america]], where the latitudinal range is enormous, this principle is especially important. Northern gardeners using southern-grown seed may see abbreviated growth. Using locally produced seed from a farm supplier is strongly recommended.
 
 ## When to Use Buckwheat
 
@@ -83,13 +83,13 @@ Where buckwheat is unsuitable, Solomon identifies a few alternatives:
 
 ## Seed Saving Considerations
 
-Buckwheat produces seed readily, making it possible for gardeners to save their own seed from year to year. This is advantageous because locally saved seed is automatically adapted to the local photoperiod. Allow a small section of the buckwheat stand to mature fully for seed harvest before turning in the rest at the flowering stage.
+Buckwheat produces seed readily, making it possible for gardeners to save their own seed from year to year. This is advantageous because locally saved seed is automatically adapted to the local photoperiod. Allow a small section of the buckwheat stand to mature fully for seed harvest before turning in the rest at the [[cannabis-flowering-stage]].
 
 The seed is a triangular grain that ripens progressively, with the lower seeds maturing first. Harvesting can be done by cutting the mature seed heads and threshing by hand. Stored in cool, dry conditions, buckwheat seed remains viable for several years.
 
 ## Nutrient Scavenging
 
-Buckwheat is particularly effective at scavenging phosphorus from the soil and making it available to subsequent crops. Its root exudates help dissolve mineral phosphorus that would otherwise remain locked in soil particles. This phosphorus-mobilizing effect is an additional benefit beyond the soil structure improvement and organic matter contribution.
+Buckwheat is particularly effective at scavenging phosphorus from the soil and making it available to subsequent crops. Its [[root-exudates]] help dissolve mineral phosphorus that would otherwise remain locked in soil particles. This phosphorus-mobilizing effect is an additional benefit beyond the soil structure improvement and organic matter contribution.
 
 Buckwheat also accumulates calcium in its tissue, which is returned to the soil upon decomposition. This can be valuable in acidic soils where calcium is deficient.
 

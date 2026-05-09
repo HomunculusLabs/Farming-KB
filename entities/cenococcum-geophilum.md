@@ -18,8 +18,8 @@ type: entity
 Cenococcum geophilum is a cosmopolitan ectomycorrhizal fungus notable for
 being one of the few ascomycetes in a group dominated by basidiomycetes.
 It is one of the most widely distributed and abundant ectomycorrhizal
-fungi globally, found in diverse habitats from boreal forests to tropical
-ecosystems. It is particularly recognized for its stress tolerance and
+fungi globally, found in diverse habitats from [[fungal-diversity-boreal-forests-taiga]] to tropical
+ecosystems. It is particularly recognized for its [[fungal-lichen-stress-tolerance-and-poikilohydry]] and
 dark, melanized mycelium.
 
 ## Taxonomy and Classification
@@ -33,7 +33,7 @@ dark, melanized mycelium.
 ## Key Details
 
 ### Morphology
-- Does not produce a typical fruiting body; identified by its
+- Does not produce a typical [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]; identified by its
   distinctive mycorrhizal morphology and dark, black mycelium
 - Mycorrhizal root tips are black due to melanin pigmentation
 - Ectomycorrhizal mantle is dense and pseudoparenchymatous
@@ -45,7 +45,7 @@ dark, melanized mycelium.
   hardwoods across diverse ecosystems
 - Commonly found with pine, spruce, fir, oak, birch, and many other
   tree genera
-- One of the most universally encountered ectomycorrhizal fungi in
+- One of the most universally encountered [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] in
   global forest surveys
 
 ### Nutrient Solubilization
@@ -68,8 +68,8 @@ dark, melanized mycelium.
 
 ### Ecological Role
 - Functions as both an ectomycorrhizal partner and a soil saprotroph
-- Important for tree seedling establishment in stressful environments
-- Contributes to soil aggregation and carbon sequestration through
+- Important for tree seedling establishment in [[fungi-stressful-environments-thermophilic-xerophilic-halophilic]]
+- Contributes to soil aggregation and [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] through
   its dark, recalcitrant melanized hyphae
 - Persists in disturbed sites and is often a pioneer ectomycorrhizal
   colonizer

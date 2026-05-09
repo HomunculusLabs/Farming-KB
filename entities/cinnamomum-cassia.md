@@ -26,7 +26,7 @@ sources:
 
 ## Overview
 
-Cinnamomum cassia, known as Chinese cassia, Chinese cinnamon, or simply cassia, is an evergreen tree in the family Lauraceae. It is the source of the most widely consumed cinnamon product in the world — the thick, rough bark quills sold as "cinnamon" in most North American and European markets. Native to southern China and mainland [[commercially-important-pleurotus-species-cultivation-guide]] cinnamon species:
+Cinnamomum cassia, known as Chinese cassia, Chinese cinnamon, or simply cassia, is an evergreen tree in the family Lauraceae. It is the source of the most widely consumed cinnamon product in the world — the thick, rough bark quills sold as "cinnamon" in most [[growing-gourmet-north-american-reishi-species]] and European markets. Native to southern China and mainland [[commercially-important-pleurotus-species-cultivation-guide]] cinnamon species:
 
 - **Bark:** Cassia — thick (2–5 mm), hard, rough, single-layer quills; Ceylon — thin (0.5–1 mm), papery, multi-layered cigar-like quills.
 - **Flavor:** Cassia — bold, pungent, strongly sweet with harsh heat; Ceylon — delicate, warm, complex with citrus notes.
@@ -37,7 +37,7 @@ Cinnamomum cassia, known as Chinese cassia, Chinese cinnamon, or simply cassia, 
 
 ### Vegetative Description
 
-- **Growth habit:** Medium-sized evergreen tree, 10–15 m tall [[gartz-magic-mushrooms-species-south-america]] (Brazil, Ecuador), and Caribbean.
+- **Growth habit:** Medium-sized evergreen tree, 10–15 m tall gartz-magic-mushrooms-species-south-america (Brazil, Ecuador), and Caribbean.
 - **Elevation:** 100–500 m native; cultivated from sea level to 1,000 m.
 - **Climate:** Requires warm, humid tropical to subtropical conditions. Optimal temperature 20–30°C. Tolerates brief light frost but not sustained freezing. Annual rainfall requirement: 1,250–2,500 mm, with a distinct dry season preferred for bark harvesting.
 - **Soil:** Prefers deep, fertile, well-drained sandy loam to loam soils, slightly acidic (pH 5.5–6.5). Tolerates poor soils but bark quality suffers. Does not tolerate waterlogging.
@@ -47,7 +47,7 @@ Cinnamomum cassia, known as Chinese cassia, Chinese cinnamon, or simply cassia, 
 
 ### Bark Chemistry
 
-- **Essential oil:** 1.0–4.0% (v/w), primarily cinnamaldehyde (65–85%), with o-methoxycinnamaldehyde (2–10%), cinnamyl acetate (1–5%), benzaldehyde (0.5–2%), linalool (1–3%), and eugenol (0.1–1%).
+- **[[permaculture-designers-manual-essential-oil-plants]]:** 1.0–4.0% (v/w), primarily cinnamaldehyde (65–85%), with o-methoxycinnamaldehyde (2–10%), cinnamyl acetate (1–5%), benzaldehyde (0.5–2%), linalool (1–3%), and eugenol (0.1–1%).
 - **Coumarin:** 0.3–1.0% of dry bark weight — significant safety concern. Varies by cultivar, harvest time, and processing.
 - **Proanthocyanidins:** Oligomeric procyanidins (type-A and B), 5–10% of extract, contributing to antioxidant and antidiabetic activity.
 - **Phenolic compounds:** Epicatechin, catechin, gallocatechin, cinnamic acid, ferulic acid, and caffeic acid derivatives.
@@ -65,11 +65,11 @@ Cinnamomum cassia, known as Chinese cassia, Chinese cinnamon, or simply cassia, 
 
 ### Anti-diabetic Activity
 
-The most clinically significant modern application of C. cassia is its role in glycemic control, with growing evidence from clinical trials.
+The most clinically significant modern application of C. cassia is its role in glycemic control, with growing evidence from [[mushroom-cancer-clinical-trials-overview]].
 
 - **Mechanism:** Cinnamaldehyde and procyanidins enhance insulin receptor kinase activity, increase GLUT4-mediated glucose uptake, inhibit hepatic gluconeogenesis (AMPK activation), and improve β-cell function.
 - **Clinical evidence:** Meta-analysis of 18 RCTs (n=1,284) found cassia cinnamon (1–6 g/day) reduced fasting glucose (−11.2 mg/dL), HbA1c (−0.31%), and total cholesterol (−12.6 mg/dL).
-- **Dose response:** Optimal dose 2–4 g/day; benefits plateau above 6 g/day.
+- **[[microwave-sterilization-dose-response-microbial-kill-curves]]:** Optimal dose 2–4 g/day; benefits plateau above 6 g/day.
 
 ### Anti-inflammatory Activity
 
@@ -105,11 +105,11 @@ The most clinically significant modern application of C. cassia is its role in g
 ## Permaculture and Agroforestry Applications
 
 - **Canopy tree in food forests:** Mid-to-upper canopy tree providing shade for understory crops in tropical systems.
-- **Intercropping:** Successfully intercropped with tea, coffee, citrus, and medicinal herbs in southern China and Vietnam.
+- **Intercropping:** Successfully intercropped with tea, coffee, citrus, and [[permaculture-plants-medicinal-herbs-healing]] in southern China and Vietnam.
 - **Pollinator support:** Flowers provide dry-season nectar for bees; cassia honey is a valued product.
 - **Windbreak:** Dense, evergreen foliage effective for crop protection.
 - **Yield:** Bark harvested from year 3–4, every 2–3 years. 2–5 kg dried bark per harvest per tree. Trees productive for 40–60 years.
 ## See Also
 
-- [[eugenia-bone]] — Clove, sharing eugenol chemistry and antimicrobial properties
+- [[eugenia-bone]] — Clove, sharing eugenol chemistry and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]
 - [[zingiber-officinale]] — Ginger, companion spice in five-spice powder and chai

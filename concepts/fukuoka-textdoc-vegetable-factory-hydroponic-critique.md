@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Critique of Artificial Cultivation and Hydroponics"
+title: "Fukuoka's Critique of fukuoka-matsutake-artificial-cultivation-attempt and Hydroponics"
 type: concept
 tags:
   - hydroponics
@@ -10,12 +10,12 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Masanobu Fukuoka, "The Natural Way of Farming: The Theory and Practice of Green Philosophy" (1985)
+  - Masanobu Fukuoka, "The Natural Way of Farming: The Theory and Practice of fukuoka-sowing-green-philosophy-one-grain-revolution" (1985)
 ---
 
 # Fukuoka's Critique of Artificial Cultivation and Hydroponics
 
-Masanobu Fukuoka traced the degradation of agricultural food quality through a progression of increasingly artificial cultivation methods, from open-field hothouses to hydroponic systems to the ultimate vision of fully synthetic food factories.
+Masanobu Fukuoka traced the degradation of agricultural food quality through a progression of increasingly artificial [[synthetic-log-cultivation-methods-guide]], from open-field hothouses to hydroponic systems to the ultimate vision of fully synthetic food factories.
 
 He argued that each step away from natural conditions produces food that is visually appealing but nutritionally and spiritually inferior.
 
@@ -115,7 +115,7 @@ A farmer working with nature invests only labor and intelligence, both of which 
 
 A factory farmer depends on electricity, petroleum, chemicals, equipment manufacturers, and supply chains — none of which the farm produces.
 
-The resilience of natural farming lies in its independence from these external inputs.
+The resilience of [[comparison-natural-farming-vs-permaculture]] lies in its independence from these external inputs.
 
 The vulnerability of artificial cultivation lies in its total dependence on them.
 

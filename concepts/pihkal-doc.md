@@ -23,7 +23,7 @@ DOC has gained particular notoriety in the research chemical scene of the
 2000s and 2010s, where it was one of the more widely available DO compounds
 on the grey market. Its combination of manageable duration (relative to DOB
 and DOI), substantial potency, and a reputation for producing a "clean"
-psychedelic experience has made it one of the more frequently discussed
+[[leary-psychedelic-experience-bardo-mapping]] has made it one of the more frequently discussed
 members of the DO family among contemporary psychedelic enthusiasts.
 
 Despite its relative popularity compared to other DO compounds, DOC remains
@@ -61,7 +61,7 @@ Peak effects manifest at 4 to 8 hours, with the total experience lasting
 perceptual changes may persist for an additional 6 to 12 hours beyond the
 primary effects.
 
-The delayed onset is a significant harm reduction concern, as users may
+The delayed onset is a significant [[adverse-effects-and-harm-reduction-psilocybin]] concern, as users may
 mistakenly believe the initial dose was insufficient and take additional
 amounts before the first dose has fully taken effect.
 
@@ -103,7 +103,7 @@ experience overall.
 
 DOC acts as a potent agonist at 5-HT2A receptors, with affinity for 5-HT2B
 and 5-HT2C subtypes as well. The chlorine atom's electronegativity creates
-a specific receptor binding profile that distinguishes DOC from its heavier
+a specific [[tihkal-receptor-binding-serotonin]] profile that distinguishes DOC from its heavier
 halogen counterparts. The alpha-methyl group provides metabolic stability by
 resisting deamination by monoamine oxidase enzymes, resulting in a prolonged
 half-life. Metabolism occurs through aromatic hydroxylation and N-dealkylation

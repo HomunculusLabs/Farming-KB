@@ -89,7 +89,7 @@ and other creative means.
 
 ## Psychedelic Therapy: The American Method
 
-The second method, generally preferred in the United States, is called
+The second method, generally preferred in the [[dmt-containing-plants-united-states-halpern]], is called
 **psychedelic therapy**. After intensive psychological preparation
 appropriate to each individual, the patient is given a single very high
 dose of the hallucinogen. This approach is intended to produce a mystic,
@@ -118,9 +118,9 @@ greater understanding of the dynamics of the unconscious.
 
 ## Controversy and Risk Assessment
 
-[[schultes-ololiuqui-vines-serpent]] — source of lysergic acid
+[[schultes-ololiuqui-vines-serpent]] — source of [[ergot-and-lysergic-acid-history]]
   amide, chemical cousin of LSD
-- [[schultes-psilocybe-little-flowers-gods]] — psilocybin mushrooms
+- [[schultes-psilocybe-little-flowers-gods]] — [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]
 
 ## See Also
 

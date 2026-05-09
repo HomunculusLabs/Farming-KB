@@ -33,7 +33,7 @@ Toloache, Datura, Pricklyburr, Sacred Datura, Belladonna
 ## Synonyms
 
 - Datura meteloides DC. ex Dunal
-- Datura wrightii Regel
+- [[datura-wrightii]] Regel
 - Datura inoxia Mill. (orthographic variant)
 
 ## Description
@@ -64,7 +64,7 @@ kidney-shaped seeds.
 
 Datura innoxia is native to Mexico and the southwestern United
 States, extending its range through much of the arid and
-semi-arid regions of North America. The species has been widely
+semi-arid regions of [[psilocybin-north-america-pacific-northwest]]. The species has been widely
 naturalized in other parts of the world due to its cultivation
 and the dispersal of its seeds. It commonly grows along roadsides,
 in disturbed areas, washes, and sandy plains.
@@ -127,7 +127,7 @@ advanced lineage.
 
 ## Cultural Significance
 
-In some indigenous traditions, the Toloache plant is believed
+In some [[sacred-mushroom-use-mexico-teonanacatl-indigenous-traditions]], the Toloache plant is believed
 to be inhabited by a malevolent spirit, reflecting the dangerous
 and unpredictable nature of its effects. The line between
 medicine and poison is exceptionally thin with Datura species,

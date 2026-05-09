@@ -1,5 +1,5 @@
 ---
-title: Tompkins Jagadis Bose Plant Response Crescograph
+title: Tompkins tompkins jagadis bose plant response crescograph Plant Response Crescograph
 created: 2026-04-28
 tags: [jagadis-bose, crescograph, plant-response, radio-waves,
       electromotive-force, plant-physiology, india, history-of-science]
@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-Sir Jagadis Chandra Bose (1858-1937) was a Bengali scientist whose
+Sir Jagadis [[jagadis-chandra-bose-plant-research]] (1858-1937) was a Bengali scientist whose
 pioneering work united physics, physiology, and psychology, and who
 found out more about plants than anyone before and perhaps after him.
 The Encyclopaedia Britannica noted nearly half a century after his death
@@ -112,3 +112,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[tompkins-plant-animal-relationships]]

@@ -13,7 +13,7 @@ sources:
 
 ## Overview
 
-cladonia stellaris is a prominent [[ascomycota-phylogeny-major-classes-lineages]]. It is a mat-forming, fruticose lichen that dominates the ground layer of boreal and subarctic ecosystems across the Northern Hemisphere. As a primary component of lichen mats in these cold environments, it plays a critical role in nutrient interception, carbon fixation, and soil formation processes.
+cladonia stellaris is a prominent [[ascomycota-phylogeny-major-classes-lineages]]. It is a mat-forming, fruticose lichen that dominates the ground layer of boreal and subarctic ecosystems across the Northern Hemisphere. As a primary component of lichen mats in these cold environments, it plays a critical role in nutrient interception, [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]], and soil formation processes.
 
 ## Taxonomy
 
@@ -49,7 +49,7 @@ The dead portions of cladonia stellaris mats provide substrate for [[cladonia-gr
 - Lichen
 - stereocaulon paschale
 - [[biodiversity-fungi-temperate-boreal-forests]]
-- nutrient cycling
+- [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 - radionuclide accumulation
 - Ericaceae
 ## Practical Considerations
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,10 +1,11 @@
 ---
-title: "Biodynamic Preparations vs Biofertilizers"
+title: "comparison biodynamic preparations vs biofertilizers vs Biofertilizers"
 created: 2026-04-28
 tags: [comparison, biodynamics, biofertilizers, soil-amendments, soil-biology]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 type: comparison
 ---
@@ -31,7 +32,7 @@ quality, and disease resistance. BD 501 works from above (light) while
 BD 500 works from below (earth and roots).
 
 The five compost preparations (BD 502 through BD 507) use specific herbs
-including yarrow, chamomile, stinging nettle, oak bark, dandelion, and
+including yarrow, chamomile, [[comparison-stinging-nettle-vs-horsetail]], oak bark, dandelion, and
 valerian, each fermented within a different animal organ such as deer
 bladders or cattle skulls. They are added to compost piles in homeopathic
 quantities to guide the process toward a balanced, biologically rich
@@ -47,7 +48,7 @@ to root days, leaf days, flower days, and fruit days.
 The entire system reflects Steiner's anthroposophical worldview, which
 sees the farm as a self-sustaining organism influenced by cosmic and
 terrestrial forces. Proponents report improvements in soil structure,
-compost quality, crop flavor, and plant resilience, though these effects
+[[aact-compost-quality-standards-ingham]], crop flavor, and plant resilience, though these effects
 are difficult to isolate from broader biodynamic management practices.
 
 Scientific studies have produced mixed results, with some showing
@@ -71,8 +72,8 @@ grower adopts the full biodynamic system.
 
 ## When to Choose Biofertilizers
 Biofertilizers are the stronger choice for growers wanting targeted,
-measurable improvements in nutrient cycling, nitrogen fixation, or
-phosphorus availability. They work well in row crop agriculture, orchards,
+measurable improvements in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], or
+[[query-how-does-phosphorus-availability-change-across-soil-ph-levels]]. They work well in row crop agriculture, orchards,
 pastures, and any context where nutrient limitations are identified
 through soil testing.
 
@@ -82,5 +83,7 @@ parallel [[knf-vs-jadam-vs-em]] approach offers indigenous
 microorganism collection methods that parallel biofertilizer concepts
 while sharing biodynamic's emphasis on on-farm self-sufficiency.
 ## See Also
+
+- [[biodynamic-preparations-comparison]]
 
 - [[comparison-knf-vs-biodynamic]]

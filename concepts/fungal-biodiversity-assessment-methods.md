@@ -1,15 +1,14 @@
 ---
-title: Fungal Biodiversity Assessment Methods
+title: Fungal fungal biodiversity assessment methods Methods
 created: 2026-04-28
-tags: [[mycology, biodiversity, fungal-survey, species-identification, ecology]
+tags: [mycology, biodiversity, fungal-survey, species-identification, ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md, magic-mushrooms-around-the-world-by-jochen-gartz.md]
 type: concept
 ---
-
 # [[fungi-in-the-environment-symbiotic-relationships]], and ecosystem function. Understanding fungal
-community composition is essential for monitoring ecosystem health, guiding
+[[core-endorhiza-bacterial-community-composition-cannabis]] is essential for monitoring ecosystem health, guiding
 ethnomycology, and discovering novel species with potential
 biotechnological or pharmaceutical applications.
 
@@ -67,7 +66,7 @@ biodiversity in these groups.
 
 ### Microscopic Characterization
 
-Microscopic examination of spore morphology, hyphal structure, and
+[[fungal-microscopic-examination-mounting-media-techniques]] of spore morphology, hyphal structure, and
 tissue anatomy remains essential for fungal identification. Key
 microscopic characters include spore size, shape, color, and ornamentation;
 basidial structure; presence and type of cystidia; and hyphal septation
@@ -79,7 +78,7 @@ bodies.
 ### Longitudinal Monitoring and Distribution Mapping
 
 Systematic, repeated surveys at fixed locations over multiple years
-provide the most reliable data on fungal biodiversity patterns. Gartz
+provide the most reliable data on fungal [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]. Gartz
 (1996) describes three years of systematic collection at marshland
 locations in Germany, documenting species abundance, fruiting body
 morphology, and environmental conditions. Distribution maps compiled
@@ -114,8 +113,8 @@ temperate regions.
 ## References
 
 - Money, N. P. (2002). *Mr. Bloomfield's Orchard*. Oxford University
-  Press. On mycelial ecology, Armillaria genetics, and hyphal biology.
-- Gartz, J. (1996). *Magic Mushrooms Around the World*. MIT Press.
+  Press. On mycelial ecology, Armillaria genetics, and [[bloomfield-what-lies-beneath-mycelial-architecture-hyphal-biology-subterranean-fungus]].
+- Gartz, J. (1996). *Magic Mushrooms [[fungi-around-the-world-species-distribution]]*. MIT Press.
   On distribution mapping, chemical analysis for species verification,
   and Psilocybe biodiversity surveys.
 ## See Also

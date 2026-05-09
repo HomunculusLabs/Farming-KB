@@ -12,15 +12,15 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Clarke, R.C., Merlin, M.D. (2013). "Cannabis: Evolution and Ethnobotany." University of California Press.
-  - Green, J. (2017). "The Cannabis Grow Bible: The Definitive Guide to Growing Marijuana for Recreational and Medical Use." Green Candy Press.
+  - Green, J. (2017). "The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible: The Definitive Guide to Growing Marijuana for Recreational and Medical Use." Green Candy Press.
   - Black, T. (2011). "The Cannabible 3." Ten Speed Press.
-  - Emboden, W.A. (1972). "Ritual Use of Cannabis Sativa L.: A Historical-Ethnographic Survey." Economic Botany, 26(4), 393-401.
-  - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency Over the Last 2 Decades." Biological Psychiatry, 79(7), 613-619.
+  - Emboden, W.A. (1972). "Ritual Use of [[comparison-cannabis-sativa-vs-cannabis-indica]] L.: A Historical-Ethnographic Survey." Economic Botany, 26(4), 393-401.
+  - ElSohly, M.A. et al. (2016). "Changes in [[green-cannabis-potency-maximizing]] Over the Last 2 Decades." Biological Psychiatry, 79(7), 613-619.
 ---
 
 # Purple Urkle
 
-**Purple Urkle** (also written **Urkel**) is a legendary indica-dominant cannabis strain originating from Northern California's Emerald Triangle.
+**Purple Urkle** (also written **Urkel**) is a legendary indica-dominant [[blesching-cannabis-strain-selection-receptor-targeting]] originating from Northern California's Emerald Triangle.
 It is widely regarded as one of the foundational purple cannabis varieties that popularized the deep violet coloration now common in commercial cannabis.
 The strain is celebrated for its potent sedative effects, complex grape-and-berry aroma, and its role as a parent to numerous modern cultivars including [[bubblegum]].
 
@@ -52,11 +52,11 @@ The myrcene-dominant profile is characteristic of heavy indicas and a significan
 
 **Duration:** 2–4 hours, with sedative aftereffects lasting an additional 1–2 hours.
 
-**Common applications:** Insomnia relief, chronic pain management (muscle tension, neuropathic), stress and anxiety reduction, appetite stimulation for nausea or appetite loss.
+**Common applications:** Insomnia relief, [[cannabis-chronic-pain-management]] management (muscle tension, neuropathic), stress and anxiety reduction, appetite stimulation for nausea or appetite loss.
 
 ## Cultivation
 
-**Difficulty:** Moderate. Purple coloration is temperature-dependent and requires careful environmental control.
+**Difficulty:** Moderate. Purple coloration is temperature-dependent and requires careful [[eclss-environmental-control-life-support]].
 
 **Flowering time:** 8–9 weeks indoors; late September to mid-October outdoors.
 
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

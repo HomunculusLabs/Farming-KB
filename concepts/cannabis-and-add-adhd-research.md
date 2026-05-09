@@ -10,13 +10,13 @@ sources:
 
 # Cannabis and ADD/ADHD Research
 
-**Source:** Uwe Blesching, The Cannabis Health Index (2017)
+**Source:** Uwe Blesching, The [[blesching-cannabis-health-index-autoimmune-conditions]] (2017)
 
 ## Condition Overview
 
 ADHD is characterized by inattention, poor concentration, distractibility, hyperactivity, poor impulse control, and poor peer relationships. CDC estimates 1 in 10 US children (ages 3-17) diagnosed; boys 3x more likely than girls. 5% of US adults diagnosed with ADD.
 
-**Standard treatment:** psychoactive drugs increasing dopamine/norepinephrine (Adderall, Ritalin, Strattera, Desoxyn/methamphetamine). Adverse effects: appetite loss, insomnia, tics, psychotic episodes, cardiovascular problems.
+**Standard treatment:** psychoactive drugs increasing dopamine/norepinephrine (Adderall, Ritalin, Strattera, Desoxyn/methamphetamine). [[blesching-cannabis-safety-adverse-effects-evidence]]: appetite loss, insomnia, tics, psychotic episodes, cardiovascular problems.
 
 **Alternative hypothesis:** nutrition deficiency, junk food, environmental toxins (lead, organophosphates), epigenetics, social conditions.
 
@@ -45,7 +45,7 @@ ADHD is characterized by inattention, poor concentration, distractibility, hyper
 | CBD (3mg/kg) + clozapine | Animal (rats) | 2012 -- Monash U, Melbourne: Normalized social behavior, reduced hyperactivity | 2 |
 | CB1 cannabinoids | Animal (mice) | 2011 -- Rome: CB1 receptors as novel molecular players in ADHD | 2 |
 | FAAH inhibitor URB597 | Animal (mice) | 2009 -- Bordeaux: ECS influences impulse behavior and novelty-seeking | 2 |
-| Cannabis/Dronabinol | Human case study | 2008 -- Heidelberg U: Cannabis improved ADHD symptoms | 3 |
+| Cannabis/Dronabinol | Human case study | 2008 -- Heidelberg U: [[blesching-cannabis-improved-night-vision]] ADHD symptoms | 3 |
 | | | **Total CHI Value: 15** | |
 
 ## Strain-Specific Considerations
@@ -70,7 +70,7 @@ The endocannabinoid system modulates the same neurotransmitter systems implicate
 
 - **Circadian rhythm modulation:** Many ADHD patients experience sleep disturbance. The endocannabinoid system regulates circadian rhythms through CB1 receptors in the suprachiasmatic nucleus. Improved sleep from cannabis may indirectly improve daytime attention and cognitive function.
 
-- **Stress response normalization:** ADHD is associated with dysregulated stress responses. CBD modulates the HPA axis through 5-HT1A receptor activation, reducing cortisol reactivity and improving stress resilience.
+- **[[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] normalization:** ADHD is associated with dysregulated stress responses. CBD modulates the HPA axis through 5-HT1A receptor activation, reducing cortisol reactivity and improving stress resilience.
 
 ## Clinical Evidence
 
@@ -90,7 +90,7 @@ The clinical evidence for cannabis in ADHD is moderate and growing, with a CHI v
 
 ## Dosing Considerations
 
-- **Start low and titrate slowly:** ADHD patients are often sensitive to dose effects. Begin with CBD 5 mg and THC 1-2.5 mg, titrating upward every 3-5 days based on response.
+- **Start low and titrate slowly:** ADHD patients are often sensitive to [[hallucinogenic-mushroom-dose-effects-clinical]]. Begin with CBD 5 mg and THC 1-2.5 mg, titrating upward every 3-5 days based on response.
 
 - **CBD-dominant approach:** Given that CBD specifically addresses hyperactivity (2012 Melbourne study) without impairing attention, a CBD-dominant preparation (CBD:THC ratio of 5:1 to 10:1) may be optimal as a starting point.
 
@@ -126,7 +126,9 @@ The clinical evidence for cannabis in ADHD is moderate and growing, with a CHI v
 
 - Novelty-rich, stimulating environments improve outcomes
 
-## Related Pages
+## Related
+
+- [[cannabis-and-adhd]] Pages
 
 - [[cannabis-and-depression-research]]
 

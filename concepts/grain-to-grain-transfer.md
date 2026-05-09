@@ -68,7 +68,7 @@ Some species do not grow well on grain and are better suited to alternative spaw
 
 - [[agar-culture-techniques-detailed]]
 
-- [[mushroom-grain-spawn-preparation]]
+- mushroom-grain-spawn-preparation
 
 - [[contamination-identification-prevention]]
 

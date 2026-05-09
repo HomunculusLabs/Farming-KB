@@ -18,15 +18,15 @@ type: concept
 
 The grazing of fungal mycelia and fruiting structures by soil fauna generates
 both positive and negative feedbacks on decomposition processes and nutrient
-mineralization. In [[fungal-ecology]], these feedback
+mineralization. In , these feedback
 loops represent a critical but often overlooked regulatory mechanism in
-ecosystem nutrient cycling, operating alongside direct [[dighton-fungal-decomposition-leaf-litter-dynamics]] and nutrient availability.
+ecosystem [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], operating alongside direct [[dighton-fungal-decomposition-leaf-litter-dynamics]] and [[ph-and-nutrient-availability-garden-soils]].
 
 ## See Also
 
 - [[dighton-selective-grazing-fungal-community-shifts]]
 - [[dighton-fungal-trophic-interactions-soil-food-webs]]
-- [[fungal-fauna-grazing-decomposition-feedbacks]]
+- fungal-fauna-grazing-decomposition-feedbacks
 ## Practical Applications
 
 Faunal Grazing on Fungi and Decomposition Feedbacks has a range of practical applications that make it relevant to
@@ -104,4 +104,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

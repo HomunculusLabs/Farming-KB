@@ -3,12 +3,10 @@ title: Fungal Stress Responses
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Stress Responses
-
-Fungi have evolved sophisticated physiological and molecular mechanisms to survive environmental stress, including osmotic, temperature, oxidative, pH, nutrient, and radiation stress. These responses are mediated by conserved signal transduction pathways that link perception of environmental cues to adaptive cellular changes. Understanding these mechanisms is central to [[lichen-biology-guide]]. Fungi occupy a wider pH range than most organisms, with some species growing from pH 1 to pH 11, and their stress tolerance underpins their ecological success across virtually all terrestrial and aquatic habitats.
+# Fungal Stress Responses Fungi have evolved sophisticated physiological and molecular mechanisms to survive environmental stress, including osmotic, temperature, oxidative, pH, nutrient, and radiation stress. These responses are mediated by conserved signal transduction pathways that link perception of environmental cues to adaptive cellular changes. Understanding these mechanisms is central to [[lichen-biology-guide]]. Fungi occupy a wider pH range than most organisms, with some species growing from pH 1 to pH 11, and their stress tolerance underpins their ecological success across virtually all terrestrial and aquatic habitats.
 
 ## Core Signalling Pathways
 
@@ -36,13 +34,13 @@ The cAMP-dependent protein kinase A (PKA) pathway regulates morphogenesis, nutri
 
 ## Osmotic Stress
 
-Fungi accumulate compatible solutes to balance cellular osmotic pressure. S. cerevisiae accumulates glycerol via the HOG pathway, while M. grisea accumulates arabitol through a distinct, more specific pathway that evolved independently of the conserved eukaryotic HOG mechanism (Dixon et al., 1999). This independent pathway allows M. grisea to generate enormous turgor pressure in appressoria -- up to 8 MPa -- for mechanical penetration of plant cuticles. The Osm1 (HOG) pathway in M. grisea prevents inappropriate appressorium formation during hyperosmotic stress, ensuring developmental decisions are made based on appropriate environmental signals.
+Fungi accumulate compatible solutes to balance cellular osmotic pressure. S. cerevisiae accumulates glycerol via the HOG pathway, while M. grisea accumulates arabitol through a distinct, more specific pathway that evolved independently of the conserved eukaryotic HOG mechanism (Dixon et al., 1999). This independent pathway allows M. grisea to generate enormous [[bloomfield-turgor-pressure-and-hyphal-invasion]] in appressoria -- up to 8 MPa -- for mechanical penetration of plant cuticles. The Osm1 (HOG) pathway in M. grisea prevents inappropriate appressorium formation during hyperosmotic stress, ensuring developmental decisions are made based on appropriate environmental signals.
 
 ## Temperature and Desiccation Stress
 
 Lichens demonstrate remarkable poikilohydric stress tolerance. Desiccated thalli of Xanthoria parietina survived cryoimmobilization at approximately -200 degrees C, but hydrated thalli did not (Honegger, 1995, 1998). Most lichen-forming fungi are fully adapted to continuous wetting and drying cycles but die under continuously moist conditions at elevated temperatures. This poikilohydric strategy -- tolerating desiccation rather than maintaining hydration -- is one of the most successful fungal adaptations to terrestrial life and allows lichens to dominate in polar, alpine, and arid ecosystems.
 
-Mycobiont-derived protein-based ice nucleation activity at -5 degrees C or warmer was found in lichen-forming ascomycetes but not in cultured photobionts (Kieft, 1988; Kieft and Ahmadjian, 1989), suggesting that the mycobiont contributes to freezing tolerance of the symbiosis. In built environments, fungal stress responses are affected by temperature preferences: dry rot fungi (Serpula, Meruliporia) prefer cooler temperatures (approximately 23 degrees C) than many indoor moulds like Stachybotrys chartarum, explaining their different geographic prevalence and seasonal patterns. Understanding these temperature preferences is important for [[fungal-secondary-metabolites-environment]].
+Mycobiont-derived protein-based ice nucleation activity at -5 degrees C or warmer was found in lichen-forming ascomycetes but not in cultured photobionts (Kieft, 1988; Kieft and Ahmadjian, 1989), suggesting that the mycobiont contributes to freezing tolerance of the symbiosis. In [[fungal-biodiversity-built-environments-indoor-mycobiome]], fungal stress responses are affected by temperature preferences: dry rot fungi (Serpula, Meruliporia) prefer cooler temperatures (approximately 23 degrees C) than many indoor moulds like Stachybotrys chartarum, explaining their different geographic prevalence and seasonal patterns. Understanding these temperature preferences is important for [[fungal-secondary-metabolites-environment]].
 
 ## Cell Wall Remodeling
 
@@ -54,15 +52,15 @@ Stress responses have been co-opted during evolution for new functions. The HOG 
 
 ## Stress Responses in Bioremediation
 
-Fungal stress responses have practical implications for [[mycoremediation-heavy-metals-detailed]] and [[fungal-enzymatic-capabilities]].
+Fungal stress responses have practical implications for [[mycoremediation-of-heavy-metals]] and [[fungal-enzymatic-capabilities]].
 
 ## pH Stress and Acid Tolerance
 
-Fungi occupy a wider pH range than most organisms, with some species growing from pH 1 to pH 11. Acid-tolerant fungi are important in acid mine drainage environments, where they contribute to metal mobilization and precipitation. The mechanisms of pH tolerance include proton pumping, cytoplasmic buffering, and cell wall modifications. Many fungi can acidify their microenvironment through excretion of protons and organic acids, a process that is also central to [[fungal-bioremediation]] of acidic environments and understanding [[fungal-adaptations-environmental-gradients]] and for understanding how fungi survive fluctuating conditions in natural environments.
+Fungi occupy a wider pH range than most organisms, with some species growing from pH 1 to pH 11. Acid-tolerant fungi are important in acid [[acid-mine-drainage-treatment]] environments, where they contribute to metal mobilization and precipitation. The mechanisms of pH tolerance include proton pumping, cytoplasmic buffering, and cell wall modifications. Many fungi can acidify their microenvironment through excretion of protons and organic acids, a process that is also central to fungal-bioremediation of acidic environments and understanding [[fungal-adaptations-environmental-gradients]] and for understanding how fungi survive fluctuating conditions in natural environments.
 
 ## Nutrient Starvation Responses
 
-Fungi respond to nutrient limitation through autophagy, morphological changes, and altered gene expression. Under nitrogen or carbon starvation, fungi activate autophagic pathways that recycle cellular components to maintain essential metabolic functions. Starvation also triggers developmental transitions such as sporulation, sclerotia formation, and dimorphic switching in some species. The TOR (Target of Rapamycin) signalling pathway integrates nutrient status with growth and stress responses, serving as a central regulator of fungal metabolism. Understanding nutrient stress responses is important for [[gadd-fungal-metal-interactions]] and [[fungal-responses-climate-change]], [[fungal-enzyme-systems]], [[fungal-chromogens-and-color-change]]
+Fungi respond to nutrient limitation through autophagy, morphological changes, and altered gene expression. Under nitrogen or carbon starvation, fungi activate autophagic pathways that recycle cellular components to maintain essential metabolic functions. Starvation also triggers developmental transitions such as sporulation, [[growing-gourmet-sclerotia-formation-biology-mushrooms]], and dimorphic switching in some species. The TOR (Target of Rapamycin) signalling pathway integrates nutrient status with [[query-how-do-phytohormones-regulate-plant-growth-and-stress-responses]] responses, serving as a central regulator of [[singh-fungal-metabolism-pahs]]. Understanding nutrient stress responses is important for [[gadd-fungal-metal-interactions]] and [[fungal-responses-climate-change]], [[fungal-enzyme-systems]], fungal-chromogens-and-color-change
 - [[fungal-secondary-metabolites-environment]]
 - [[fungal-roles-aquatic-environments]]
 ## Practical Considerations
@@ -83,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

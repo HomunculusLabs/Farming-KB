@@ -24,8 +24,8 @@ of growing hyphae secrete a diverse arsenal of extracellular enzymes directly in
 polymers in situ and absorbing the breakdown products without needing to ingest the material.
 
 This external digestion strategy, called osmotrophy, allows fungi to decompose materials that would be physically
-impossible for most organisms to consume. A single fungal colony can extend its mycelial network across meters of
-substrate, simultaneously colonizing and decomposing multiple pieces of organic matter. The [[biodiversity-fungi-leaf-litter-decomposition]] studies show that fungal diversity itself influences decomposition
+impossible for most organisms to consume. A single fungal colony can extend its [[gadd-mycelial-network-dynamics]] across meters of
+substrate, simultaneously colonizing and decomposing multiple pieces of organic matter. The biodiversity-fungi-leaf-litter-decomposition studies show that fungal diversity itself influences decomposition
 rates and nutrient cycling. Diverse fungal communities decompose organic matter more completely and efficiently than
 simple communities because different species specialize on different substrates and degradation stages, creating a
 complementary decomposition cascade.
@@ -37,10 +37,10 @@ provides structural rigidity to plant cell walls and accounts for roughly 25 to 
 one of the most abundant organic compounds on Earth and one of the most resistant to biological decomposition.
 
 White rot fungi accomplish lignin degradation through a remarkable enzymatic system centered on lignin peroxidase,
-manganese peroxidase, and laccase enzymes. These oxidative enzymes generate highly reactive free radicals that attack
-the lignin polymer in a non-specific, extracellular process. The [[biobleaching-of-pulp-by-white-rot-fungi]] research has documented how white rot species like Phanerochaete
-chrysosporium, Trametes versicolor, and Pleurotus ostreatus can degrade not only natural lignin but also a wide range of
-synthetic pollutants including polycyclic aromatic hydrocarbons, polychlorinated biphenyls, and various industrial dyes
+[[fungal-manganese-peroxidase-remediation]], and [[singh-fungal-laccase-enzymes-bioremediation]]. These oxidative enzymes generate highly reactive free radicals that attack
+the lignin polymer in a non-specific, extracellular process. The biobleaching-of-pulp-by-white-rot-fungi research has documented how white rot species like Phanerochaete
+chrysosporium, [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]], and Pleurotus ostreatus can degrade not only natural lignin but also a wide range of
+synthetic pollutants including [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons, polychlorinated biphenyls, and various industrial dyes
 and explosives.
 
 White rot fungi derive relatively little metabolic energy from lignin decomposition itself. The primary purpose of
@@ -56,7 +56,7 @@ The result is wood that has been browned and cubically fractured but retains mos
 it the characteristic brown, crumbly appearance that defines brown rot.
 
 The [[mycoremediation]] research has revealed that brown rot Fenton chemistry also
-contributes to the degradation of some environmental contaminants. Brown rot fungi such as Serpula lacrymans,
+contributes to the degradation of some environmental contaminants. Brown rot fungi such as [[fungal-serpula-lacrymans-dry-rot-buildings]],
 Gloeophyllum trabeum, and Postia placenta are responsible for enormous economic losses as the primary agents of wood
 decay in buildings and structures worldwide.
 

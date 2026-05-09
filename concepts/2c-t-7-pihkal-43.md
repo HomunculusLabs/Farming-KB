@@ -18,10 +18,10 @@ tags: [phenethylamine, psychedelic, 2c-family, research-chemical]
 ## Chemical Identity
 
 - **Chemical name:** 2,5-Dimethoxy-4-(n)-propylthiophenethylamine
-- **PIHKAL entry:** #43
+- **[[2c-b-pihkal-entry-20]]:** #43
 - **Family:** 2C-T (thio-substituted 2C phenethylamines)
 - **Related compounds:** [[2c-b-compound-profile]], [[2c-e-compound-profile]]
-- **Legal status:** Schedule I (US, since 2003) / Controlled in most jurisdictions
+- **[[ayahuasca-tourism-legal-status-by-country]]:** Schedule I (US, since 2003) / Controlled in most jurisdictions
 
 ## Synthesis (Summary)
 
@@ -67,13 +67,13 @@ Shulgin noted that the lower end of the range (10 mg) was intentionally included
 
 ## Related Compounds
 
-The 2-ethoxy homologue (2CT7-2ETO) has been synthesized and tested at 20 mg. It produced modest but real eyes-closed visuals with very rapid onset and short duration (baseline at ~5 hours), followed by an uncomfortable headache the next day.
+The 2-ethoxy homologue (2CT7-2ETO) has been synthesized and tested at 20 mg. It produced modest but real eyes-closed visuals with very rapid onset and [[savory-short-duration-grazing-and-cell-systems]] (baseline at ~5 hours), followed by an uncomfortable headache the next day.
 
 ## References
 
-- [[hallucinogenic-mushroom-health-risks-and-harm-reduction]]
+- hallucinogenic-mushroom-health-risks-and-harm-reduction
 - [[controlled-substances-act-and-psychedelic-research]]
-- [[hallucinogenic-mushroom-health-risks-and-harm-reduction]]
+- hallucinogenic-mushroom-health-risks-and-harm-reduction
 - [[turner-ecstasy-mdma-heart-opening-psychedelic]]
 - [[emcdda-hallucinogenic-mushroom-health-risks]]
 ## Practical Considerations
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

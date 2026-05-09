@@ -1,17 +1,17 @@
 ---
-title: "Gourmet and Medicinal Mushroom Shiitake Cultivation on Logs"
+title: "Gourmet and gourmet-medicinal-mushroom-casing-layer-techniques Shiitake Cultivation on Logs"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
-  - "Growing Gourmet and Medicinal Mushrooms (Paul Stamets, 1993)"
-  - "Oyster Mushroom Cultivation (MushWorld, 2004)"
+  - "Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive (Paul Stamets, 1993)"
+  - "Oyster [[accessible-mushroom-cultivation-for-disabilities]] (MushWorld, 2004)"
 type: concept
 tags: [cultivation, medicine, mushroom-cultivation, shiitake]
 ---
 
 # Gourmet and Medicinal Mushroom Shiitake Cultivation on Logs
 
-Shiitake (Lentinula edodes) has been cultivated for over a thousand years, with records dating to the Sung Dynasty in China (960-1127 AD) when Wu Sang Kwuang first described growing methods. Dr. Shozaburo Mimura pioneered modern Shiitake cultivation techniques in 1904. Today, Shiitake is cultivated both outdoors on hardwood logs and indoors on supplemented sawdust blocks.
+Shiitake (Lentinula edodes) has been cultivated for over a thousand years, with records dating to the Sung Dynasty in China (960-1127 AD) when Wu Sang Kwuang first described growing methods. Dr. Shozaburo Mimura pioneered modern Shiitake cultivation techniques in 1904. Today, Shiitake is cultivated both outdoors on hardwood logs and indoors on [[oyster-mushroom-supplemented-sawdust-blocks]] blocks.
 
 ## Natural Method: Log Cultivation
 
@@ -70,7 +70,7 @@ The progression of Shiitake colonization on supplemented sawdust blocks:
 
 - **~20 days post-inoculation**: "Popcorning" occurs, where white mycelial masses become visible throughout the block
 - **~25 days**: Browning phenomenon begins; the surface of the block turns brown as the mycelium secretes enzymes that degrade the wood components
-- **Primordia formation**: Depends on strain, but generally 25-35 days under appropriate conditions
+- **[[growing-gourmet-primordia-formation-pinning]]**: Depends on strain, but generally 25-35 days under appropriate conditions
 
 ### Growth Parameters for Indoor Cultivation
 
@@ -99,7 +99,7 @@ The first flush is initiated by simply elevating humidity and watering. Subseque
 
 ### Harvest and Quality
 
-- Biological efficiency: 100-200% (1.5-3 lbs fresh mushrooms from 6 lbs sawdust/chip/bran block)
+- [[stamets-biological-efficiency-yield]]: 100-200% (1.5-3 lbs fresh mushrooms from 6 lbs sawdust/chip/bran block)
 - Humidity should be fluctuated during fruitbody development, then lowered to 60% relative humidity for 6-12 hours before harvest to toughen the cap's leathery outer skin, substantially extending shelf life
 - Best picked when cap margins are still inrolled, at mid-adolescent stage
 - Greater yields if fruitbodies are allowed to enlarge, but quality vs. yield must be carefully balanced
@@ -129,6 +129,12 @@ Research on the economics of Shiitake log cultivation has generally shown margin
 - Roberts (1988): Concluded log cultivation was not profitable.
 
 A standalone Shiitake log operation can only be profitable with substantial subsidies for materials and labor. However, Shiitake log cultivation remains attractive for those seeking minor supplemental income, enjoyment of home cultivation, or providing food for friends and family.
-- [[stamets-mushroom-growing-parameters-by-species]]
+- stamets-mushroom-growing-parameters-by-species
 - [[gourmet-medicinal-mushroom-substrate-preparation]]
 - [[gourmet-medicinal-mushroom-oyster-cultivation-methods]]
+## See Also
+- [[mushroom-cultivation]]
+- [[gourmet-medicinal-mushroom-oyster-cultivation-methods]]
+- [[pinus-radiata]]
+- [[oyster-mushroom]]
+- [[lentinula-edodes]]

@@ -1,5 +1,5 @@
 ---
-title: "2C-T (4-Methylthio-2,5-dimethoxy-PEA) -- PIHKAL Entry #39"
+title: "2C-T (4-Methylthio-2,5-dimethoxy-PEA) -- 2c-b-pihkal-entry-20 #39"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 2C-T
 
-PIHKAL entry #39. 4-Methylthio-2,5-dimethoxy-PEA.
+[[2c-b-pihkal-entry-20]] #39. 4-Methylthio-2,5-dimethoxy-PEA.
 
 ## Dosage and Duration
 
@@ -120,7 +120,7 @@ needles with a mp of 118-119 deg C.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

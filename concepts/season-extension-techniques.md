@@ -1,5 +1,5 @@
 ---
-title: Season Extension Techniques
+title: Season season-extension-techniques
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -9,14 +9,14 @@ sources: []
 
 # Season Extension Techniques
 
-Season extension refers to any technique that allows you to start growing earlier in spring, continue growing later into fall, or grow through winter. These methods modify the microclimate around plants to protect them from frost, wind, and cold temperatures, effectively extending your productive growing season by weeks or months. For homesteaders and self-sufficient gardeners, season extension is essential for maximizing food production.
+Season extension refers to any technique that allows you to start growing earlier in spring, continue growing later into fall, or grow through winter. These methods modify the microclimate around plants to protect them from frost, wind, and cold temperatures, effectively extending your productive [[savory-growing-season-and-non-growing-season-management]] by weeks or months. For homesteaders and self-sufficient gardeners, season extension is essential for maximizing food production.
 
 ## Why Extend the Season
 
 - **More harvests**: Start spring crops earlier and fall crops later, potentially adding 2-4 months to your growing season.
 - **Year-round production**: With sufficient protection, cold-hardy crops can be harvested through winter in most climates.
-- **Frost protection**: A single unexpected frost can destroy months of growth. Protection structures prevent this.
-- **Succession planting**: Extended seasons allow more successive plantings of quick-maturing crops.
+- **[[holzer-frost-protection-techniques]]**: A single unexpected frost can destroy months of growth. Protection structures prevent this.
+- **[[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]]**: Extended seasons allow more successive plantings of quick-maturing crops.
 - [[seasonal-planning]] covers the calendar approach to planning extended seasons.
 
 ## Cold Frames
@@ -82,7 +82,7 @@ Low tunnels are small hoop houses — metal or PVC hoops covered with polyethyle
 - Early spring planting of warm-season crops (tomatoes, peppers, melons)
 - Fall extension for warm-season crops
 - Winter growing of cold-hardy crops
-- Overwintering perennial vegetables and herbs
+- Overwintering [[comparison-perennial-vegetables-vs-cover-crops]] and herbs
 
 ### Temperature Management
 
@@ -92,7 +92,7 @@ Low tunnels are small hoop houses — metal or PVC hoops covered with polyethyle
 
 ## High Tunnels (Hoop Houses)
 
-High tunnels are large, walk-in hoop structures covered with polyethylene plastic. They are not heated (unlike greenhouses) but provide significant season extension through passive solar heating and wind protection.
+High tunnels are large, walk-in hoop structures covered with polyethylene plastic. They are not heated (unlike greenhouses) but provide significant season extension through [[comparison-passive-solar-vs-earth-sheltered]] heating and wind protection.
 
 ### Typical Specifications
 
@@ -133,35 +133,6 @@ Cloches are individual plant protectors — small covers placed over single plan
 - Protecting individual tomato or pepper transplants in early spring
 - Getting a head start on heat-loving crops
 - Emergency frost protection for sensitive plants
-
-## Succession Planting
-
-Succession planting is the practice of staggering plantings of the same crop at intervals to ensure continuous harvests rather than a single glut.
-
-### Methods
-
-- **Same crop, staggered dates**: Plant lettuce, beans, radishes, or carrots every 2-3 weeks.
-- **Same space, different crops**: Follow a spring crop (peas) with a summer crop (beans) and then a fall crop (garlic).
-- **Relay cropping**: Plant a second crop before the first is finished (intercropping with a time gap).
-- **Variety selection**: Plant early, mid, and late-season varieties of the same crop.
-
-### Planning
-
-- Know your first and last frost dates.
-- Know days-to-maturity for each crop.
-- Work backward from your expected first fall frost to determine the last planting date for fall crops.
-- Use [[seasonal-planning]] to build a year-round planting calendar.
-
-## Combined Strategies
-
-The most effective season extension combines multiple techniques:
-
-- Start seeds indoors under lights in late winter
-- Transplant into cold frames for hardening off in early spring
-- Move to low tunnels for early field planting
-- Use row covers for frost protection during shoulder seasons
-- Harvest from high tunnels into early winter
-- Use cold frames for winter greens production
 
 ## See Also
 

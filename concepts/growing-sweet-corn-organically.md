@@ -1,11 +1,12 @@
 ---
-title: Growing Sweet Corn Organically
+title: Growing growing sweet corn organically Organically
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Growing Sweet Corn Organically
 
@@ -13,7 +14,7 @@ Homegrown sweet corn has an especially sweet flavor because it can be eaten as s
 
 ## Soil and Site
 
-Sweet corn likes plenty of sun and a soil pH of about 6.5. It is a heavy feeder and benefits from soil prepared with plenty of organic matter. In a three-year crop rotation, grow sweet corn in Plot B (the legume plot).
+Sweet corn likes plenty of sun and a soil pH of about 6.5. It is a heavy feeder and benefits from soil prepared with plenty of [[hamilton-composting-and-organic-matter-management]]. In a three-year [[comparison-crop-rotation-vs-cover-cropping]], grow sweet corn in Plot B (the legume plot).
 
 ## Varieties
 
@@ -21,7 +22,7 @@ Modern, fast-maturing varieties are easy to grow in most climates. The sweetest 
 
 ## Sowing and Planting
 
-**Under glass:** Raise plants in a heated greenhouse or on a windowsill. Sow pairs of seeds in mid-spring in 3in (8cm) pots at 65F (18C), thinning to the strongest seedling if both germinate. Harden off in a cold frame in late spring.
+**Under glass:** Raise plants in a heated greenhouse or on a windowsill. Sow pairs of seeds in mid-spring in 3in (8cm) pots at 65F (18C), thinning to the strongest seedling if both germinate. Harden off in a [[comparison-cold-frame-gardening-vs-container-gardening-guide]] in late spring.
 
 **Direct sowing:** Sow outside in mid-spring in furrows 2ft (60cm) apart and 6-9in (15-22cm) deep. Sow groups of 2-3 seeds every 2ft (60cm) in the bottom of the furrows, cover with 1in (2.5cm) of soil, then cover with plastic sheeting to protect against frost. The ridges of soil support the sheeting.
 
@@ -55,10 +56,11 @@ Sweet corn is generally trouble-free. Watch for:
 
 ## Feeding and Nutrition
 
-Sweet corn is a heavy feeder. Work plenty of well-rotted compost or manure into the soil before planting. During the growing season, a liquid feed of comfrey tea or animal-manure fertilizer applied every two weeks supports vigorous growth. The [[composting-systems]] or leave them in place as winter mulch. The root systems improve soil structure through their deep penetration. In the [[vegetable-growing-guide]] for general vegetable cultivation
+Sweet corn is a heavy feeder. Work plenty of well-rotted compost or manure into the soil before planting. During the [[savory-growing-season-and-non-growing-season-management]], a liquid feed of [[comparison-comfrey-tea-vs-compost-tea]] or animal-manure fertilizer applied every two weeks supports vigorous growth. The [[composting-systems]] or leave them in place as winter mulch. The root systems improve soil structure through their deep penetration. In the [[vegetable-growing-guide]] for general vegetable cultivation
 - [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]]
 - [[fukuoka-white-clover-ground-cover]]
 - [[fukuoka-white-clover-cover-crop-system]]
+
 ## Practical Considerations
 
 Successful implementation of Growing Sweet Corn Organically requires attention to
@@ -77,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

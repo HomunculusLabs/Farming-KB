@@ -1,9 +1,10 @@
 ---
-title: Fukuoka Seed Balls and Direct Seeding
+title: Fukuoka Seed Balls and comparison-seed-starting-indoors-vs-direct-seeding-techniques
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
 type: concept
 tags: [fukuoka, plant-growth]
@@ -11,19 +12,19 @@ tags: [fukuoka, plant-growth]
 
 # Fukuoka Seed Balls and Direct Seeding
 
-Clay seed balls (sometimes called clay pellets or [[fukuoka-no-till-grain-production-method]] and his ambitious [[fukuoka-natural-farming]], which seeks to eliminate chemical inputs entirely. The ideal clay is one that persists through winter but softens reliably with spring rains.
+Clay seed balls (sometimes called [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] or [[fukuoka-no-till-grain-production-method]] and his ambitious [[fukuoka-natural-farming]], which seeks to eliminate chemical inputs entirely. The ideal clay is one that persists through winter but softens reliably with spring rains.
 
 ## Role in the Grain Production Cycle
 
 In Fukuoka's annual cycle, clay pellets play a specific role in the winter-over seeding of rice. After the rice harvest in autumn and the barley seeding, rice seeds enclosed in clay pellets are scattered over the field in mid-November or later. Through the winter, the pellets protect the dormant seeds. In spring, rainfall softens the clay and the rice seedlings emerge through the [[fukuoka-straw-mulch-philosophy]].
 
-This eliminates the entire nursery-bed phase of rice production. There is no need to prepare starter beds, tend seedlings, or perform the labor-intensive transplanting operation that dominates conventional rice farming. Fukuoka noted that in his system, winter weeds have not yet appeared at the time of autumn broadcasting, so the early seeding also helps with [[fukuoka-do-nothing-farming-philosophy]]. He wrote that "the seeds sown by nature are not so weak as to grow only in plowed fields. Plants have always grown by direct seeding, without tillage." By returning to direct seeding, the farmer eliminates the entire infrastructure of nursery beds, transplanting tools, and the backbreaking labor of moving seedlings from bed to paddy.
+This eliminates the entire nursery-bed phase of [[fukuoka-energy-analysis-rice-production-natural-vs-mechanized]]. There is no need to prepare starter beds, tend seedlings, or perform the labor-intensive transplanting operation that dominates conventional [[fukuoka-natural-rice-farming-steps]]. Fukuoka noted that in his system, winter weeds have not yet appeared at the time of autumn broadcasting, so the early seeding also helps with [[fukuoka-do-nothing-farming-philosophy]]. He wrote that "the seeds sown by nature are not so weak as to grow only in plowed fields. Plants have always grown by direct seeding, without tillage." By returning to direct seeding, the farmer eliminates the entire infrastructure of nursery beds, transplanting tools, and the backbreaking labor of moving seedlings from bed to paddy.
 
 Direct seeding also connects to Fukuoka's [[fukuoka-reviving-ancestral-strains]] work involved identifying and preserving older rice varieties that thrived under natural conditions.
 
 ## Broader Significance
 
-The seed ball technique has been adopted and adapted worldwide by [[fukuoka-natural-rice-barley-cultivation]], the [[fukuoka-natural-weed-management]], and above all the recognition that nature grows the crops, not the farmer.
+The seed [[fukuoka-seed-ball-technique-detailed]] has been adopted and adapted worldwide by [[fukuoka-natural-rice-barley-cultivation]], the [[fukuoka-natural-weed-management]], and above all the recognition that nature grows the crops, not the farmer.
 
 ## Seed Balls in the Broader Natural Farming Context
 
@@ -65,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

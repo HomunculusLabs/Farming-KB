@@ -17,7 +17,7 @@ The history of psychedelic mushroom use spans millennia, from indigenous ceremon
 
 ### Mesoamerican Mushroom Cultures
 
-Archaeological evidence suggests that psilocybin mushrooms have been used ceremonially in Mesoamerica for at least 3,000 years, possibly much longer. The cultural epicenter of mushroom use was the highlands of central and southern Mexico, particularly among:
+Archaeological evidence suggests that [[psilocybin-mushrooms]] have been used ceremonially in Mesoamerica for at least 3,000 years, possibly much longer. The cultural epicenter of mushroom use was the highlands of central and southern Mexico, particularly among:
 
 - **Mazatec** people of Oaxaca (the best-documented living tradition)
 - **Nahua** communities in the states of Mexico, Puebla, and Morelos
@@ -50,7 +50,7 @@ Robert Gordon Wasson (1898-1986), a vice president of J.P. Morgan, became fascin
 
 ### The 1955 Velada
 
-On June 29-30, 1955, Wasson participated in a **velada** (night ceremony) led by Mazatec curandera **Maria Sabina** (1888-1985) in Huautla de Jimenez, Oaxaca. This made Wasson and his photographer companion Allan Richardson the first known non-indigenous people to participate in a Mazatec mushroom ceremony.
+On June 29-30, 1955, Wasson participated in a **velada** (night ceremony) led by Mazatec curandera **[[maria-sabina]]** (1888-1985) in Huautla de Jimenez, Oaxaca. This made Wasson and his photographer companion Allan Richardson the first known non-indigenous people to participate in a Mazatec mushroom ceremony.
 
 ### Life Magazine Article (1957)
 
@@ -62,7 +62,7 @@ Maria Sabina became internationally famous following Wasson's publication, which
 
 ### Identification and Isolation (1957-1958)
 
-Following Wasson's report, Roger Heim (French mycologist) identified the mushrooms and sent specimens to Albert Hofmann at Sandoz Laboratories in Switzerland. Hofmann, already famous for synthesizing LSD in 1938, successfully isolated and identified **psilocybin** and **psilocin** in 1958, synthesizing both compounds in the laboratory.
+Following Wasson's report, Roger Heim (French mycologist) identified the mushrooms and sent specimens to [[albert-hofmann]] at Sandoz Laboratories in Switzerland. Hofmann, already famous for synthesizing LSD in 1938, successfully isolated and identified **psilocybin** and **psilocin** in 1958, synthesizing both compounds in the laboratory.
 
 ## The Harvard Psilocybin Project (1960-1962)
 
@@ -73,7 +73,7 @@ In 1960, Timothy Leary, a clinical psychologist at Harvard University, obtained 
 ### Key Experiments
 
 - **Concord Prison Experiment (1961-1963)**: Administered psilocybin to inmates at Concord State Prison in Massachusetts, aiming to reduce recidivism. Initial results appeared promising — follow-up studies found lower recidivism rates among participants, though methodological limitations were significant
-- **Marsh Chapel Experiment (1962, "Good Friday Experiment")**: Walter Pahnke administered psilocybin to theology students during a Good Friday service, measuring mystical experience. Results suggested that psilocybin could reliably induce genuine mystical experiences
+- **Marsh Chapel Experiment (1962, "Good Friday Experiment")**: [[walter-pahnke]] administered psilocybin to theology students during a Good Friday service, measuring [[mystical-experience]]. Results suggested that psilocybin could reliably induce genuine mystical experiences
 - **Self-experimentation**: Both Leary and Alpert conducted extensive self-experiments that profoundly shifted their personal philosophies
 
 ### Dismissal from Harvard
@@ -107,7 +107,7 @@ The scheduling of psilocybin, combined with increasing regulatory burden and pol
 
 The modern era of psychedelic research began with:
 
-- **Roland Griffiths (Johns Hopkins, 2000)**: Pioneered modern clinical research with a landmark 2006 study demonstrating that psilocybin could reliably induce mystical-type experiences with lasting positive effects
+- **[[roland-griffiths]] (Johns Hopkins, 2000)**: Pioneered modern clinical research with a landmark 2006 study demonstrating that psilocybin could reliably induce mystical-type experiences with lasting positive effects
 - **David Nutt (Imperial College London)**: Conducted influential brain imaging studies mapping the neural effects of psilocybin
 - **Charles Grob (UCLA)**: Studied psilocybin for end-of-life anxiety in cancer patients
 

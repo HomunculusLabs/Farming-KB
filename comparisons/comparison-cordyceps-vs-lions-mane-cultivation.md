@@ -16,7 +16,7 @@ type: comparison
 ## Overview
 
 Cordyceps and Lion's Mane are two of the most commercially valuable and
-scientifically studied medicinal mushrooms, but their cultivation requirements,
+scientifically studied [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]], but their cultivation requirements,
 market dynamics, and growing challenges differ dramatically. Cordyceps cultivation
 is technically demanding, often requires specialized substrates including insect
 protein, and centers on producing the bioactive compound cordycepin. Lion's Mane
@@ -35,7 +35,7 @@ commercial cultivation due to its distinctive appearance, excellent culinary qua
 (comparison to lobster or crab meat), and well-documented neuroprotective properties
 including stimulation of nerve growth factor (NGF) synthesis.
 
-Lion's Mane grows well on supplemented sawdust substrates. The primary substrate is
+Lion's Mane grows well on [[oyster-mushroom-supplemented-sawdust-blocks]] substrates. The primary substrate is
 hardwood sawdust (oak, maple, or beech; conifers avoided) supplemented with wheat
 bran at 10 to 20% by dry weight and hydrated to 60 to 65% moisture content. The
 common formula is 4 parts hardwood sawdust to 1 part wheat bran. Substrate is packed
@@ -45,7 +45,7 @@ Spawn running takes 14 to 21 days at 70 to 75 degrees F (21 to 24 degrees C). Li
 Mane mycelium colonizes aggressively in high-CO2 environments. Fruiting requires
 high humidity (85 to 95%), fresh air exchange, indirect ambient light, and
 temperatures of 60 to 75 degrees F. Alternative substrates include straw (less
-productive), hardwood log inoculation (oak, beech), paper/cardboard waste, and coffee
+productive), hardwood [[growing-gourmet-outdoor-log-inoculation-techniques]] (oak, beech), paper/cardboard waste, and coffee
 grounds mixed with sawdust. The mushroom can also be grown on [[mushroom-substrate-comparison]]
 - [[comparison-agar-vs-liquid-culture]]
 - [[comparison-grain-spawn-vs-sawdust-spawn]]
@@ -65,7 +65,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +107,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

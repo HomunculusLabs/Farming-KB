@@ -34,7 +34,7 @@ endophytes (Epichloe species) maintain vertical transmission.
 
 Fungal endophytes occupy intercellular spaces within leaves, stems, and roots,
 drawing carbohydrates from the host while providing protective services. This
-asymmetrical exchange represents a form of singh plant fungus co evolution  in mycorrhizal symbiosis distinct from mycorrhizal associations but sharing
+asymmetrical exchange represents a form of singh plant fungus co evolution  in [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] distinct from mycorrhizal associations but sharing
 similar evolutionary dynamics of mutual benefit.
 
 ## Anti-Herbivore Alkaloid Production
@@ -45,7 +45,7 @@ mammals. Epichloe and Neotyphodium endophytes infecting cool-season grasses
 produce four major classes of bioactive alkaloids:
 
 - **Ergot alkaloids** (ergovaline, lysergic acid amides): Cause vasoconstriction
-  and reduced blood flow, leading to fescue toxicosis in livestock grazing
+  and reduced blood flow, leading to fescue toxicosis in [[savory-livestock-grazing-planning]]
   infected tall fescue.
 - **Lolines** (loline, N-acetylloline): Pyrrolizidine alkaloids with potent
   insecticidal and antifungal activity, relatively non-toxic to mammals.
@@ -85,10 +85,10 @@ Endophytic fungi protect host plants against fungal, bacterial, and viral
 pathogens through several strategies:
 
 - **Antibiotic production**: Endophytes synthesize antimicrobial compounds
-  including volatile organic compounds (VOCs) such as 2,4-di-tert-butylphenol,
+  including [[fungal-volatile-organic-compounds-communication]] compounds (VOCs) such as 2,4-di-tert-butylphenol,
   and non-volatile antibiotics. These compounds directly inhibit pathogen
   growth.
-- **Induced systemic resistance (ISR)**: Endophyte colonization primes the
+- **[[endophytic-mycorrhizal-induced-systemic-resistance]] resistance (ISR)**: [[fungal-endophyte-colonization-patterns]] primes the
   plant immune system, leading to faster and stronger defense responses upon
   pathogen challenge. This involves jasmonic acid and ethylene signaling
   pathways.
@@ -96,7 +96,7 @@ pathogens through several strategies:
   tissues, competing with potential pathogens for space and nutrients.
 - **Mycoparasitism**: Some endophytes exhibit direct antagonism against plant
   pathogens through hyphal coiling, penetration, and enzymatic degradation of
-  pathogen cell walls, similar to Trichoderma biocontrol mechanisms described
+  pathogen cell walls, similar to [[ingham-trichoderma-biocontrol-fungi-aact]] mechanisms described
   in [[singh-phytoremediation-mycorrhizal-assisted-plant-uptake]] by enhancing plant growth on contaminated soils while directly
 degrading organic pollutants. Root endophytes from contaminated sites often
 show higher tolerance and degradation capacity for specific contaminants,

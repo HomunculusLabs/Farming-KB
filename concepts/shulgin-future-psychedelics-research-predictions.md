@@ -20,7 +20,7 @@ Major Drug Families Analyzed
 
 Opiates: Shulgin argued that heroin substitutes were economically inevitable as import restrictions increased. He documented thebaine-derived oripavine analogs with potencies 10,000 times morphine, morphinan phenethylamine derivatives 20-40 times morphine potency, and some 4,000 described meperidine analogs. He noted the paradox that clinical researchers sought to separate analgesia from euphoria, while the "unwanted side effects" they tried to eliminate were precisely what made drugs abusable.
 
-Stimulants: Beyond amphetamine and methamphetamine (then costing roughly 2 cents per dosage unit to produce), Shulgin identified metabolic precursors like fenethylline (Captagon), which cleaves in vivo to release theophylline and amphetamine, and Aponeuron (AN-1), which releases amphetamine after introduction. He warned that such "prodrugs" could masquerade as innocuous compounds while regenerating scheduled drugs metabolically.
+Stimulants: Beyond amphetamine and methamphetamine (then costing roughly 2 cents per dosage unit to produce), Shulgin identified [[primary-metabolic-precursors-to-the-shikimate-pathway]] like fenethylline (Captagon), which cleaves in vivo to release theophylline and amphetamine, and Aponeuron (AN-1), which releases amphetamine after introduction. He warned that such "prodrugs" could masquerade as innocuous compounds while regenerating scheduled drugs metabolically.
 
 Depressants: He highlighted glutethimide and methyprylon analogs that lay outside barbiturate scheduling, methaqualone derivatives, benzodiazepines, and phencyclidine analogs (N-ethyl homolog and thiophene analog) that were not yet scheduled despite similar pharmacology.
 
@@ -28,7 +28,7 @@ Hallucinogens: This was Shulgin's deepest area of expertise. He organized halluc
 
 Three Promising Hallucinogen Families
 
-1. Indoles (tryptamines and carbolines): Shulgin identified N,N-dimethyltryptamine (DMT) and harmaline as parent structures. He noted that extending alkyl groups decreased activity, but sterically blocked analogs showed oral activity. The 6-methoxy dihydroharman group, not found in nature, was more potent than natural 7-methoxy counterparts. Alpha-methyl analogs of 5-methoxytryptamines were flagged as unexplored areas of future research.
+1. Indoles (tryptamines and carbolines): Shulgin identified N,N-dimethyltryptamine (DMT) and harmaline as parent structures. He noted that extending alkyl groups decreased activity, but sterically blocked analogs showed [[tihkal-oral-activity-mao-inhibition]]. The 6-methoxy dihydroharman group, not found in nature, was more potent than natural 7-methoxy counterparts. Alpha-methyl analogs of 5-methoxytryptamines were flagged as unexplored areas of future research.
 
 2. Phenethylamines: Starting from mescaline as the parent, Shulgin observed that extending the alkyl chain to three carbons (phenylisopropylamines) with appropriate substitution changes could markedly amplify potency. He noted the para-position as particularly sensitive, citing DOM (STP) as a street-abused example and the 4-bromo analog as the most potent member yet studied. He stressed that position and substituent variables remained largely unexplored.
 
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

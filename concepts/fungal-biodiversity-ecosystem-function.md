@@ -1,93 +1,107 @@
 ---
 title: Fungal Biodiversity and Ecosystem Function
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-05-09
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi, biodiversity, ecosystem-function, ecology]
 sources: []
 ---
 # Fungal Biodiversity and Ecosystem Function
 
 ## Overview
 
-Fungal biodiversity -- encompassing species richness, functional diversity, and genetic diversity -- is increasingly recognized as a critical determinant of ecosystem functioning. The relationship between fungal diversity and ecosystem processes follows patterns of complementarity, redundancy, and facilitation that influence nutrient cycling, plant productivity, decomposition, and ecosystem stability.
+Fungal biodiversity — encompassing species richness, functional
+diversity, and genetic diversity — is increasingly recognized as a
+critical determinant of ecosystem functioning. The relationship between
+fungal diversity and [[fungal-ecosystem-processes-overview]] follows patterns of
+complementarity, redundancy, and facilitation that influence nutrient
+cycling, plant productivity, decomposition, and ecosystem stability.
 
 ## The Diversity-Function Relationship
 
 ### Functional Complementarity
 
 Different fungal species perform different ecological functions:
-- **Decomposers**: Saprotrophic basidiomycetes and ascomycetes break down distinct substrate types based on their enzymatic repertoires
-- **Mutualists**: Mycorrhizal fungi provide different nutritional benefits; some species enhance phosphorus uptake while others improve nitrogen acquisition or pathogen protection
-- **Pathogens**: Species-specific pathogens maintain plant diversity through density-dependent mortality
-- **Endophytes**: Diverse endophyte communities provide a portfolio of defensive compounds against different herbivores and pathogens
 
-Newsham et al. (1995) described "multi-functionality and biodiversity in arbuscular mycorrhizas," recognizing that different AM fungal species contribute differentially to various ecosystem functions.
+- **Decomposers**: Saprotrophic basidiomycetes and ascomycetes break
+  down distinct substrate types based on their enzymatic repertoires
+- **Mutualists**: Mycorrhizal fungi provide different nutritional
+  benefits; some enhance phosphorus uptake while others improve
+  [[fungal-bacterial-predators-nitrogen-acquisition-soil-ecology]] or pathogen protection
+- **Pathogens**: Species-specific pathogens maintain plant diversity
+  through density-dependent mortality
+- **Endophytes**: Diverse endophyte communities provide a portfolio of
+  defensive compounds against different herbivores and pathogens
 
 ### Redundancy
 
-Many fungal species perform overlapping functions, providing ecosystem resilience. If one species is lost, others can partially compensate. However, apparent redundancy may mask context-dependent specialization -- species that appear redundant under one set of conditions may be complementary under different conditions.
+Many fungal species perform overlapping functions, providing ecosystem
+resilience. If one species is lost, others can partially compensate.
+However, apparent redundancy may mask context-dependent specialization
+— species that appear redundant under one set of conditions may be
+complementary under different conditions.
 
 ### Facilitation
 
 Fungal species interact to enhance each other's activities:
-- Early-successional fungi modify substrates, making them accessible to later species
-- Mycorrhizal fungi and decomposer fungi interact in the "mycorrhizal decomposition pathway"
-- Mycorrhization helper bacteria facilitate mycorrhizal formation
 
-## Fungal Diversity Across Ecosystems
+- Early-successional fungi modify substrates, making them accessible
+  to later species
+- Mycorrhizal fungi and decomposer fungi interact through the
+  mycorrhizal decomposition pathway
+- [[streptomycete-mycorrhization-helper-bacteria]] bacteria facilitate [[arbuscular-mycorrhizal-colonization-patterns]]
 
-### Tropical Forests
+## Biodiversity and Decomposition
 
-Tropical forests harbor the highest fungal species diversity, driven by:
-- High plant diversity providing diverse substrate types and mycorrhizal hosts
-- Year-round warm, moist conditions supporting continuous fungal activity
-- Complex vertical stratification (canopy, understory, forest floor) creating niche diversity
-- Lodge (1993) showed that tropical wet forests have rapid fungal nutrient immobilization into surface litters (up to 86% of net nitrogen)
+Fungal diversity strongly influences decomposition rates and pathways.
+Different fungal species produce different suites of extracellular
+enzymes, including cellulases, lignin peroxidases, manganese
+peroxidases, and laccases. High-diversity fungal communities decompose
+litter more completely and rapidly because complementary enzymatic
+capabilities allow more thorough substrate utilization.
 
-### Temperate and Boreal Forests
+White-rot basidiomycetes degrade lignin, while brown-rot fungi
+primarily depolymerize cellulose. In mixed communities, the interaction
+between these functional groups determines the fate of lignin and
+cellulose components. Loss of key functional groups can shift
+decomposition pathways and alter carbon storage in soils.
 
-Temperate and boreal forests show distinct fungal community patterns:
-- Ectomycorrhizal fungi dominate in boreal coniferous forests
-- Ericoid mycorrhizae are critical in heathland and boreal understory
-- Seasonal fruiting patterns create temporal diversity
-- Cold-adapted fungi with specialized enzymatic capabilities decompose recalcitrant conifer litter
+## Mycorrhizal Diversity and Plant Productivity
 
-### Grasslands
+[[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] (AM) fungal diversity directly affects plant
+community productivity. Experimental studies show that plant biomass
+increases with AM fungal species richness, driven by complementarity
+in nutrient acquisition strategies. Different AM fungal species access
+different soil nutrient pools — some explore soil extensively while
+others exploit localized nutrient hotspots.
 
-Grassland fungal communities are characterized by:
-- Arbuscular mycorrhizal dominance
-- Below-ground organic matter processing predominating over above-ground litter decomposition
-- Endophyte-rich grass communities providing herbivore defense
+Ectomycorrhizal (EM) fungal diversity enhances host tree resilience
+to environmental stress. Diverse EM communities provide drought
+tolerance, pathogen protection, and improved nitrogen acquisition
+through a portfolio effect. Individual EM species contribute unequally
+to these functions, so maintaining species diversity preserves the
+full range of benefits.
 
-## Molecular Assessment of Fungal Diversity
+## Biodiversity Loss and Ecosystem Consequences
 
-Traditional culture-based methods underestimate fungal diversity because many species are difficult to culture. Molecular approaches (rDNA and rRNA analysis) have revolutionized understanding:
-- rDNA targets all organisms present (including dormant and dead), potentially overestimating active diversity
-- rRNA targets metabolically active organisms, providing a more functional assessment
-- rRNA-assayed communities are typically subsets of rDNA-assayed communities (Jumpponen, in Symbiotic Fungi)
-- PCR-based tools using fungal-specific primers targeting the SSU rRNA region enable detection of unculturable taxa
+Fungal biodiversity is declining due to habitat destruction, nitrogen
+deposition, [[dighton-fungi-climate-change-feedback]], and agricultural intensification. The loss
+of particular fungal functional groups has cascading ecosystem effects.
+Decline of EM fungi in nitrogen-polluted forests reduces tree
+nutrient uptake and alters carbon allocation patterns.
 
-## Biodiversity and Ecosystem Stability
-
-Higher fungal diversity contributes to ecosystem stability through:
-- **Insurance hypothesis**: Diverse communities maintain function despite species loss
-- **Portfolio effect**: Multiple species performing the same function reduce variability in process rates
-- **Cross-resilience**: Diversity in one trophic level buffers against perturbations at other levels
-
-## Threats to Fungal Biodiversity
-
-- Habitat destruction and fragmentation reduce substrate diversity and dispersal
-- Atmospheric pollution (N deposition, acid rain) alters fungal community composition
-- Climate change shifts species distributions and disrupts plant-fungal partnerships
-- Monoculture agriculture simplifies fungal communities
-- Soil contamination (heavy metals, radionuclides) selects for tolerant species, reducing diversity
-
-At Chernobyl, intense radiation led to simpler fungal community structure with dominance of melanin-containing species, demonstrating how contamination reduces fungal diversity and shifts community composition.
+Experimental removal of fungal species demonstrates nonlinear
+responses. Ecosystem function often declines sharply only after a
+threshold of diversity loss is crossed, consistent with a
+redundancy-based model where many species must be lost before
+critical functions are compromised. This threshold effect means that
+apparently healthy ecosystems may be vulnerable to sudden functional
+collapse.
 
 ## See Also
 
-- [[fungal-succession]] for diversity patterns through time
-- [[fungal-chromogens-and-color-change]]
-- [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
-- [[fungal-nitrogen-deposition-fungal-community-responses]]
+- [[fungal-biodiversity]]
+- [[decomposition]]
+- [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]
+- [[arbuscular-mycorrhizal-fungal-diversity]]
+- [[fungal-biomass-estimation-methods]]

@@ -1,33 +1,24 @@
 ---
-title: "Fungal Species Recognition"
+title: "fungi-in-the-environment-fungal-species-recognition-phylogenetics"
 created: 2026-04-28
-tags: [[mycology, taxonomy, phylogenetics, speciation, species-concept]
+tags: [mycology, taxonomy, phylogenetics, speciation, species-concept]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
 type: concept
 ---
-
-# Fungal Species Recognition
-
-Species recognition is a fundamental human endeavour essential to the study
-of evolutionary processes, ecology, and biodiversity. For fungi, this task
-has proven particularly challenging. Traditional morphological approaches
-often fail to capture the true genetic diversity of fungal populations, and
-the predominance of clonal reproduction in many species limits the
-applicability of biological species concepts. The advent of molecular
-phylogenetics has transformed fungal taxonomy, revealing cryptic species,
-redefining species boundaries, and providing new tools for understanding
-[[aspergillus-flavus]],
+# Fungal Species Recognition Species recognition is a fundamental human endeavour essential to the study of evolutionary processes, ecology, and biodiversity. For fungi, this task has proven particularly challenging. Traditional morphological approaches often fail to capture the true genetic diversity of fungal populations, and the predominance of clonal reproduction in many species limits the applicability of biological species concepts. The advent of molecular phylogenetics has transformed fungal taxonomy, revealing cryptic species, redefining species boundaries, and providing new tools for understanding [[aspergillus-flavus]],
 Fusarium, Botrytis, Sclerotinia, Magnaporthe, and numerous basidiomycetes.
 The deepest divergence in A. flavus gene genealogies corresponds to a
-Northern versus Southern Hemisphere split.
+Northern versus [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] split.
 
 However, endemism is not universal. [[fungal-biodiversity]] is substantially greater than
 morphological inventories suggest, with implications for conservation,
 biosecurity, and the interpretation of ecological studies.
 
 ## See Also
+
+- [[fungal-species-recognition-population-genetics]]
 
 - [[biodiversity-fungal-species-abundance-diversity]]
 ## Practical Applications
@@ -107,4 +98,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

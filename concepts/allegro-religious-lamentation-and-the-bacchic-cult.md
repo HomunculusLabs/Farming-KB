@@ -1,5 +1,5 @@
 ---
-title: Religious Lamentation and the Bacchic Cult (Allegro)
+title: allegro religious lamentation and the bacchic cult and the Bacchic Cult (Allegro)
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 # Religious Lamentation and the Bacchic Cult
 
-Allegro traces the widespread phenomenon of religious lamentation in the ancient Near East to the mushroom cult, showing that the weeping, wailing, and ecstatic frenzy associated with deities like Tammuz, Adonis, and Dionysus all derived from the ritual consumption of the sacred fungus.
+Allegro traces the widespread phenomenon of religious lamentation in the [[allegro-fertility-philosophy-of-the-ancient-near-east]] East to the mushroom cult, showing that the weeping, wailing, and ecstatic frenzy associated with deities like Tammuz, Adonis, and Dionysus all derived from the ritual consumption of the sacred fungus.
 
 ## The Root BALAG: Penis, Plague, and Lamentation
 
@@ -26,7 +26,7 @@ Having eaten the Bacchus or Dionysus, they took on his power and character, as t
 
 ## The Clinical Basis of the Bacchic Cycle
 
-The poisons contained in the cap of the Amanita muscaria promote periods of intense excitement, accompanied by delirium, hallucinations, and great animation, followed by periods of deep depression. One witness to Amanita muscaria intoxication reports: "The person intoxicated by Fly-Agaric sits quietly rocking from side to side... Suddenly his eyes dilate, he begins to gesticulate convulsively, converses with persons whom he imagines he sees, sings and dances. Then an interval of rest sets in again."
+The poisons contained in the cap of the [[allegro-amanita-muscaria-properties-and-pharmacology]] promote periods of intense excitement, accompanied by delirium, hallucinations, and great animation, followed by periods of deep depression. One witness to Amanita muscaria intoxication reports: "The person intoxicated by Fly-Agaric sits quietly rocking from side to side... Suddenly his eyes dilate, he begins to gesticulate convulsively, converses with persons whom he imagines he sees, sings and dances. Then an interval of rest sets in again."
 
 The Bacchanalian characteristic of uninhibited excitement succeeded by calm was not accidental. Eating the god induced and to some extent controlled violent and unnaturally prolonged sexual orgasms. As coitus is usually followed by sleep and a mildly depressive state, so every Bacchic frenzy was followed by a time of calm.
 
@@ -34,11 +34,11 @@ The Bacchanalian characteristic of uninhibited excitement succeeded by calm was 
 
 Outsiders were forbidden on pain of death from attending the secret rites. The sacred meal through which mystic union between god and worshipper was achieved — now known to have been the Amanita muscaria — was traditionally referred to as "fawns" or "little children," supposedly pulled asunder and eaten raw. One name of the mushroom was "fawn" or "gazelle," from the similarity between the large, round, shining eyes of these animals and the top of the mushroom.
 
-The biblical Song of Songs, now understood as a dramatic ode to the sacred mushroom, describes the Shulammite: "your two breasts are like two fawns, twins of a gazelle" (Song 4:5, 7:3). The panther, closely connected with Dionysus, was named for the dusky-red and white or yellowish spots of the Amanita muscaria (and even more the Amanita pantherina).
+The biblical Song of Songs, now understood as a dramatic ode to the [[allegro-the-sacred-mushroom-amanita-identification]], describes the Shulammite: "your two breasts are like two fawns, twins of a gazelle" (Song 4:5, 7:3). The panther, closely connected with Dionysus, was named for the dusky-red and white or yellowish spots of the Amanita muscaria (and even more the Amanita pantherina).
 
 ## The Molech "Child Sacrifice" Revealed
 
-The "little children" slain by Bacchantes belong to the same category as those "slain among the wadies" by Isaiah's "sons of witches" who poured out drink offerings (Isa 57:5-6). This connects to the Old Testament prohibition against "giving your seed to Molech" (Lev 18:21). The word "seed" means spermatozoa, not children. Molech is philologically related to Mallow, Moly, and the Greek Mukes ("mushroom"). The practice objected to involved dedicating human semen in a phallic rite connected with the sacred fungus.
+The "little children" slain by Bacchantes belong to the same category as those "slain among the wadies" by Isaiah's "sons of witches" who poured out drink offerings (Isa 57:5-6). This connects to the [[allegro-old-testament-figures-as-fertility-deities]] prohibition against "giving your seed to Molech" (Lev 18:21). The word "seed" means spermatozoa, not children. Molech is philologically related to Mallow, Moly, and the Greek Mukes ("mushroom"). The practice objected to involved dedicating human semen in a phallic rite connected with the sacred fungus.
 
 ## The Essene Silence
 
@@ -52,7 +52,7 @@ The Orphic hymns, like the biblical Psalms, contain numerous passages that Alleg
 
 ## Modern Parallels
 
-The pattern of ecstatic worship followed by contemplative silence can be observed in many religious traditions. The [[mckenna-eleusinian-mysteries]] documents comparable patterns in the Greek mystery traditions. These cross-cultural parallels lend some support to Allegro's argument that the Bacchic cycle reflects the pharmacology of a psychoactive substance rather than purely psychological or cultural dynamics.
+The pattern of ecstatic worship followed by contemplative silence can be observed in many religious traditions. The [[mckenna-eleusinian-mysteries]] documents comparable patterns in the [[ancient-greek-mystery-cults-comparison]] traditions. These cross-cultural parallels lend some support to Allegro's argument that the Bacchic cycle reflects the pharmacology of a psychoactive substance rather than purely psychological or cultural dynamics.
 
 ## Key Points
 
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

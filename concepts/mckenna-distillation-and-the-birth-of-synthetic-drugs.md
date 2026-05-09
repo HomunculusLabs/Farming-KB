@@ -1,5 +1,5 @@
 ---
-title: Distillation and the Birth of Synthetic Drugs in Food of the Gods
+title: Distillation and the mckenna distillation and the birth of [[mckenna-food-gods-natural-synthetic-drugs]] Drugs in Food of the Gods
 created: 2026-04-28
 tags: [food-of-the-gods, distillation, alcohol, alchemy, synthetic-drugs, raymond-lully, ko-hung, dominator-culture, mckenna]
 date: 2026-04-28
@@ -36,7 +36,7 @@ associations that early peoples attached to intoxicating
 substances. The alchemists who first produced distilled
 alcohol believed they were capturing the essential spirit
 or soul of the wine, a notion that reflects the older
-partnership society's understanding of plants as
+[[mckenna-dominator-vs-partnership-society-model]]'s understanding of plants as
 vehicles of divine presence.
 
 ## Ko Hung and the Chinese Origins
@@ -60,7 +60,7 @@ active principles of fermented substances. The
 convergence of these two traditions on the same technique
 suggests that distillation was a natural and perhaps
 inevitable development in the human relationship with
-fermented beverages.
+[[comparison-mead-vs-kvass-fermented-beverages]].
 
 ## Raymond Lully and the European Discovery
 
@@ -97,7 +97,7 @@ cocaine from coca in 1860 followed the same template: take
 a plant that has been used in traditional societies for
 centuries or millennia, identify and isolate its active
 alkaloid, concentrate it into a pure chemical form, and
-release it into a social context that has none of the
+release it into a [[emcdda-hallucinogenic-mushroom-polydrug-use-social-context]] that has none of the
 ritual safeguards, cultural expectations, or spiritual
 frameworks that originally governed the plant's use.
 The invention of heroin in 1873, created by acetylating
@@ -108,7 +108,7 @@ partnership with human culture. The progression from opium
 eating to morphine injection to heroin smoking is a
 progression from relative safety to absolute destructiveness,
 and each step was enabled by advances in chemical isolation
-and purification techniques that began with the distillation
+and [[cannabis-oil-purification-techniques]] that began with the distillation
 of alcohol.
 
 ## The Scourge of Distilled Spirits
@@ -125,7 +125,7 @@ slaves, sugar, and rum spread over the earth, subjugating
 other cultures.
 Sugar and the alcohol that could be made from it became a
 European obsession that severely distorted the demographics
-of tropical regions. In the Dutch East Indies, colonial
+of [[fukuoka-natural-farming-in-tropical-regions]]. In the Dutch East Indies, colonial
 policy paid women to produce as many children as possible in
 order to provide workers for the labor-intensive cultivation
 of sugar. The modern legacy of this policy is that Java is

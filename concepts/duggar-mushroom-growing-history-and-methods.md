@@ -1,5 +1,5 @@
 ---
-title: Duggar Mushroom Growing - History and Methods
+title: Duggar duggar mushroom growing history and methods - mushroom-spawn-history-and-methods-duggar
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -20,7 +20,7 @@ empirical craft.
 
 ## Origins of Cultivated Mushroom Culture
 
-Duggar traced mushroom cultivation to France, where it was practiced
+Duggar traced [[accessible-mushroom-cultivation-for-disabilities]] to France, where it was practiced
 during the reign of Louis XIV (1643-1715) and considered a luxury a
 century or two earlier. Tournefort left an important note in 1707
 describing the cultural operations of his period. Despite early success,
@@ -50,7 +50,7 @@ covered with boards, sheet iron, and straw rather than glass.
 
 ## Mushroom Growing in the United States
 
-Duggar documented the transformation of American mushroom growing from
+Duggar documented the transformation of [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]] growing from
 a small-scale, secretive practice to a significant commercial industry.
 Fifteen years before his book (circa 1900), one could almost count the
 important growers on one's fingers, and anyone planting 5,000 square
@@ -103,19 +103,19 @@ Duggar's unique contribution was bridging practical cultivation with
 mycological science. He showed that failure at high temperatures (above
 60 F) in beds is due not to direct thermal injury but to the
 stimulation of competing organisms -- pure cultures grew well up to 85
-F. His tissue culture method for spawn-making enabled strain selection
+F. His tissue culture method for spawn-making enabled [[blesching-cannabis-strain-selection-receptor-targeting]]
 and variety maintenance for the first time in centuries of cultivation.
 He also established that the mycelium of Agaricus campestris could grow
 on synthetic media prepared from known chemical substances, with all
 nitrogen supplied as inorganic salts if a suitable organic carbon
 source was furnished -- a significant finding for understanding
-mushroom nutrition.
+[[cotter-mushroom-nutrition-medicinal-compounds]].
 
 ## See Also
 
 - [[history-of-mushroom-cultivation]]
 - [[mushroom-cultivation-bulk-substrates]]
 
-- [[duggar-mushroom-house-construction-and-management]]
+- duggar-mushroom-house-construction-and-management
 - [[falconer-mushroom-cultivation-victorian-methods]]
 - [[falconer-mushroom-cultivation-history]]

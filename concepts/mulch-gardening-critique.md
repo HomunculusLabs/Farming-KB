@@ -1,5 +1,5 @@
 ---
-title: Mulch Gardening Critique
+title: Mulch intensive-gardening-critique-solomon
 tags:
   - soil-management
   - organic-gardening
@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-Mulch gardening — the practice of covering soil with a thick layer of organic material (straw, hay, leaves, grass clippings) and growing vegetables through or in this layer — has been widely promoted since Ruth Stout popularized it in her 1961 book "Gardening Without Work." Steve Solomon, however, provides a thorough and experience-based critique of permanent mulch gardening, arguing that it is less effective, more labor-intensive, and more problematic than its advocates claim. Solomon speaks from direct experience, having tried mulch gardening in two different mild climates before concluding it is fundamentally unsuited to serious vegetable production in most conditions.
+Mulch gardening — the practice of covering soil with a thick layer of organic material (straw, hay, leaves, grass clippings) and [[container-growing-vegetables-herbs]] through or in this layer — has been widely promoted since Ruth Stout popularized it in her 1961 book "Gardening Without Work." Steve Solomon, however, provides a thorough and experience-based critique of permanent mulch gardening, arguing that it is less effective, more labor-intensive, and more problematic than its advocates claim. Solomon speaks from direct experience, having tried mulch gardening in two different mild climates before concluding it is fundamentally unsuited to serious [[dry-gardening-unirrigated-vegetable-production-solomon]] in most conditions.
 
 This critique does not dismiss mulch entirely. Solomon acknowledges specific situations where mulching makes sense, while arguing that the method's limitations are substantial and frequently glossed over by its promoters.
 
@@ -33,7 +33,7 @@ The appeal is obvious: no digging, no weeding (supposedly), and natural soil bui
 Mulch advocates claim that a thick organic layer significantly reduces moisture loss from the garden. Solomon argues this is misleading.
 
 ### Why the Claim Is Overstated
-Most moisture loss from a vegetable garden occurs through **plant transpiration**, not through evaporation from the soil surface. Plants continuously draw water from the soil through their roots and release it through their leaves. A mulch layer on the soil surface does nothing to reduce transpiration. The sun shining on bare soil (or on mulch) is not the primary driver of moisture loss — the plants themselves are.
+Most moisture loss from a [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] occurs through **plant transpiration**, not through evaporation from the soil surface. Plants continuously draw water from the soil through their roots and release it through their leaves. A mulch layer on the soil surface does nothing to reduce transpiration. The sun shining on bare soil (or on mulch) is not the primary driver of moisture loss — the plants themselves are.
 
 Solomon estimates that the actual moisture savings from mulching are modest at best, and far less than mulch advocates suggest. The visual appearance of a moist, protected surface can be deceiving because the moisture is being lost from the root zone through plant uptake, not from the surface through evaporation.
 
@@ -48,7 +48,7 @@ In maritime climates with short, cool growing seasons, this delay can be the dif
 
 ## The Problem: Nutrient Imbalance
 
-With permanent mulching, large quantities of leaf and straw residue are continuously incorporated into the garden. Over time, this influx of carbon-rich material inevitably disrupts the soil's nutrient ratios. The ongoing decomposition of high-carbon mulch materials ties up soil nitrogen (as soil microorganisms use available nitrogen to break down the carbon), alters the calcium-magnesium balance, and can shift the phosphorus-potassium ratio unfavorably.
+With permanent mulching, large quantities of leaf and straw residue are continuously incorporated into the garden. Over time, this influx of carbon-rich material inevitably disrupts the soil's nutrient ratios. The ongoing decomposition of high-carbon [[mollison-mulch-materials-sources-and-tropical-application]] ties up soil nitrogen (as soil microorganisms use available nitrogen to break down the carbon), alters the calcium-magnesium balance, and can shift the phosphorus-potassium ratio unfavorably.
 
 Solomon observes that the nutritional content of vegetables grown in permanently mulched gardens tends to decline over time as these imbalances accumulate. The vegetables may look healthy and grow adequately, but they contain lower levels of protein, vitamins, minerals, and enzymes compared to vegetables grown in properly amended soil.
 
@@ -85,7 +85,7 @@ Solomon also challenges the central promise of mulch gardening — that it elimi
 - **Spreading mulch**: Moving and distributing hundreds of pounds of organic material across the garden is itself significant labor
 - **Weed patrol**: Hand-pulling weeds that grow through the mulch is slower than running a hoe through clean rows
 - **Material acquisition**: Obtaining sufficient bulk material requires trips to suppliers, negotiations with hay farmers, or maintaining a truck
-- **Pest management**: Dealing with the slug, snail, and rodent populations that mulch harbors adds ongoing work
+- **[[cannabis-pest-management-guide]]**: Dealing with the slug, snail, and rodent populations that mulch harbors adds ongoing work
 - **Seasonal renewal**: Mulch decomposes and must be replenished annually, typically in substantial quantities
 
 By contrast, heap composting plus clean cultivation requires less total bulk material handling and can be done more efficiently with standard garden tools. Solomon estimates that his recommended approach actually requires less total labor than permanent mulch gardening for gardens larger than a few hundred square feet.

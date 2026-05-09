@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-**Vaccinium angustifolium**, commonly known as the lowbush blueberry or wild blueberry, is a low-growing deciduous shrub in the family Ericaceae. It is native to northeastern North America, where it forms extensive natural stands across the Canadian Maritimes, Quebec, Maine, and the upper Great Lakes region.
+**Vaccinium angustifolium**, commonly known as the lowbush blueberry or wild blueberry, is a low-growing deciduous shrub in the family Ericaceae. It is native to northeastern [[psilocybin-north-america-pacific-northwest]], where it forms extensive natural stands across the Canadian Maritimes, Quebec, Maine, and the upper Great Lakes region.
 
 The species is commercially significant as the source of the majority of wild blueberries harvested worldwide. Maine alone produces roughly 100 million pounds annually, making it the largest single source of wild blueberries globally.
 
@@ -59,7 +59,7 @@ Wild blueberry fields in Maine and eastern Canada are typically managed on glaci
 
 Commercial wild blueberry production does not involve planting in the traditional sense. Instead, existing native stands are managed through a two-year cycle of pruning and harvesting.
 
-Fields are pruned by mowing or burning in alternate years to stimulate vigorous vegetative growth. Flowering and fruiting occur in the second year, after which the cycle repeats. This biennial management system has been practiced since the early 20th century.
+Fields are pruned by mowing or burning in alternate years to stimulate vigorous [[cannabis-vegetative-growth-stage]]. Flowering and fruiting occur in the second year, after which the cycle repeats. This biennial management system has been practiced since the early 20th century.
 
 Bee pollination is essential for adequate fruit set. Honeybees (*Apis mellifera*) and native bumblebees (*Bombus* spp.) are the primary pollinators. Growers typically place 2–4 honeybee hives per hectare to ensure pollination coverage.
 
@@ -79,11 +79,11 @@ Epidemiological studies have associated regular wild blueberry consumption with 
 
 ## Ecological Role
 
-Lowbush blueberry is a keystone species in northeastern North American barrens and heathland ecosystems. Its flowers provide critical early-season nectar for native bees, and its fruit is consumed by over 50 species of birds and mammals.
+Lowbush blueberry is a keystone species in northeastern [[growing-gourmet-north-american-reishi-species]] barrens and heathland ecosystems. Its flowers provide critical early-season nectar for native bees, and its fruit is consumed by over 50 species of birds and mammals.
 
 Key frugivores include American black bear (*Ursus americanus*), ruffed grouse (*Bonasa umbellus*), cedar waxwing (*Bombycilla cedrorum*), and various songbirds. These animals serve as seed dispersal agents, facilitating colonization of disturbed sites.
 
-The rhizomatous growth habit provides soil stabilization on sandy, nutrient-poor sites. Lowbush blueberry contributes to soil organic matter accumulation and participates in ericoid mycorrhizal associations that enhance nutrient uptake in acidic soils.
+The rhizomatous growth habit provides soil stabilization on sandy, nutrient-poor sites. Lowbush blueberry contributes to soil organic matter accumulation and participates in [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] associations that enhance nutrient uptake in acidic soils.
 
 Post-fire regeneration is a notable ecological characteristic. The rhizome system survives even intense ground fires and resprouts vigorously, often achieving higher berry production in recently burned areas compared to unburned controls.
 
@@ -93,7 +93,7 @@ Post-fire regeneration is a notable ecological characteristic. The rhizome syste
 
 The species is most closely related to *V. pallidum* (hillside blueberry) and *V. myrtilloides* within the section *Cyanococcus*. These three species form a closely allied complex of diploid and tetraploid taxa that share rhizomatous growth and preference for acidic soils.
 
-Compared to *V. corymbosum*, lowbush blueberry produces smaller fruit, has a more compact growth habit, and tolerates poorer soils and colder winter temperatures. *V. vitis-idaea* (lingonberry) occupies a similar ecological niche in boreal regions but differs in its evergreen foliage and creeping stems.
+Compared to *V. corymbosum*, lowbush blueberry produces smaller fruit, has a more [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit, and tolerates poorer soils and colder winter temperatures. *V. vitis-idaea* (lingonberry) occupies a similar ecological niche in boreal regions but differs in its evergreen foliage and creeping stems.
 
 ## History and Ethnobotany
 
@@ -105,11 +105,13 @@ Maine's wild blueberry industry was formalized in the 1870s with the establishme
 
 ## See Also
 
+- [[epilobium-angustifolium]]
+
 - [[vaccinium-myrtillus]]
 - [[vaccinium-macrocarpon]]
-- [[rubus-idaeus-entity]]
+- rubus-idaeus-entity
 - [[calluna-vulgaris]]
 - [[sambucus-nigra]]
 - [[prunus-spinosa]]
-- [[punica-granatum]]
-- camellia sinensis
+- punica-granatum
+- [[camellia-sinensis-entity]]

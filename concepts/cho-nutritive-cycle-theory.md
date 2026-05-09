@@ -1,6 +1,6 @@
 ---
-title: Cho's Nutritive Cycle Theory
-source: Dr. Cho Han Kyu's Korean Natural Farming System
+title: Cho's cho nutritive cycle theory Theory
+source: Dr. Cho Han Kyu's Korean [[comparison-natural-farming-vs-permaculture]] System
 topics:
   - natural-farming
   - nutritive-cycle
@@ -21,7 +21,7 @@ The theory is built on the observation that plants have different
 nutritional requirements at different stages of growth. Just as human
 nutritional needs change from infancy through adulthood, a plant's
 demand for specific nutrients shifts as it progresses from germination
-through vegetative growth, flowering, fruiting, and maturation. By
+through [[cannabis-vegetative-growth-stage]], flowering, fruiting, and maturation. By
 matching inputs to these changing needs, farmers can maximize both yield
 and quality while minimizing waste and potential harm to the plant.
 
@@ -40,7 +40,7 @@ seedlings susceptible to disease.
 
 ### Stage 2: Vegetative Growth
 
-The vegetative stage is characterized by rapid leaf and stem expansion.
+The [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] is characterized by rapid leaf and stem expansion.
 Nitrogen demand peaks during this period as the plant builds its
 photosynthetic machinery. Natural farming practitioners apply FPJ
 liberally during this phase, along with LAB ([[fish-amino-acid]] (FAA) may also be
@@ -60,9 +60,9 @@ critical for cell wall integrity in developing fruits. Natural farming
 inputs applied during this stage include Water-Soluble Calcium (WCA),
 Water-Soluble Phosphoric Acid, and [[chos-natural-farming-nutritive-cycle-theory]]
 
-- [Indigenous Microorganisms (IMO)](indigenous-microorganisms-imo.md)
+- [[beneficial-indigenous-microorganisms-bim]] (IMO)](indigenous-microorganisms-imo.md)
 - [Natural Farming Inputs](natural-farming-inputs-cho.md)
-- [Cho's Natural Farming Philosophy](cho-natural-farming-philosophy.md)
+- [Cho's Natural [[fukuoka-do-nothing-farming-philosophy-and-practice]](cho-natural-farming-philosophy.md)
 ## Practical Considerations
 
 Successful implementation of Cho's Nutritive Cycle Theory requires attention to
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

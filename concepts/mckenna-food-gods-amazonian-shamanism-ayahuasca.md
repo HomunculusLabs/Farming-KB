@@ -1,5 +1,5 @@
 ---
-title: "Amazonian Shamanism and Ayahuasca Traditions"
+title: "mckenna food gods amazonian shamanism ayahuasca and Ayahuasca Traditions"
 created: 2026-04-26
 aliases: [ayahuasca, Amazon shamanism, vine of the dead, Banisteria caapi, yage]
 tags: [mckenna, ayahuasca, Amazon, shamanism, DMT, harmala, ethnobotany]
@@ -14,7 +14,7 @@ Amazonian shamanism represents, in McKenna's view, the most direct surviving lin
 
 ## McKenna's Arrival in the Amazon
 
-McKenna's personal engagement with Amazonian shamanism began in 1970, when he traveled to the Upper Amazon (specifically the Rio Putumayo region of Colombia). He contrasted the shamanic traditions he encountered there with Indian religious practices, noting that while Indian religion emphasizes ascetic withdrawal from the world, Amazonian shamanism is an Upper Paleolithic tradition of healing and divination estimated to be 10,000 to 50,000 years old — far older than any literate religion.
+McKenna's personal engagement with Amazonian shamanism began in 1970, when he traveled to the Upper Amazon (specifically the Rio Putumayo region of Colombia). He contrasted the shamanic traditions he encountered there with Indian religious practices, noting that while Indian religion emphasizes ascetic withdrawal from the world, Amazonian shamanism is an Upper Paleolithic tradition of [[metzner-shamanic-healing-and-divination-paradigm]] estimated to be 10,000 to 50,000 years old — far older than any literate religion.
 
 ## The First Ayahuasca Experience
 
@@ -40,7 +40,7 @@ McKenna described Amazonian shamanism as a complete epistemological system based
 
 ## Shamanism vs Ordinary Religion
 
-McKenna drew a sharp distinction between shamanism and what he called "ordinary religion." Following Mircea Eliade's work on shamanism, he emphasized the ecstatic initiation that defines the true shaman — an experience of mystical death and resurrection, often involving visions of one's own skeleton and the acquisition of "helping spirits." Ordinary religion, by contrast, substitutes dogma, priesthood, and ritual for direct ecstatic experience. The suppression of shamanism and its replacement with hierarchical, text-based religions is, for McKenna, one of the central tragedies of human history.
+McKenna drew a sharp distinction between shamanism and what he called "ordinary religion." Following Mircea Eliade's work on shamanism, he emphasized the ecstatic initiation that defines the true shaman — an experience of mystical [[allegro-death-and-resurrection-in-the-mushroom-cult]], often involving visions of one's own skeleton and the acquisition of "helping spirits." Ordinary religion, by contrast, substitutes dogma, priesthood, and ritual for direct ecstatic experience. The suppression of shamanism and its replacement with hierarchical, text-based religions is, for McKenna, one of the central tragedies of human history.
 
 > "Shamanism is not a religion. It is a set of techniques and a body of knowledge. The techniques are the techniques of ecstasy. The knowledge is the knowledge of the Other."
 
@@ -49,8 +49,8 @@ McKenna drew a sharp distinction between shamanism and what he called "ordinary 
 Beyond ayahuasca, McKenna documented several other Amazonian visionary plants:
 
 - **Virola** tree resin — DMT-containing snuff used by tribes of the upper Orinoco and Rio Negro basins. The powdered resin is blown into the nostrils through hollow reeds by a friend, a method Amazonian shamans discovered independently achieves the most effective route of DMT administration (nasal mucosa absorption).
-- **Anadenanthera peregrina** (yopo/cohoba) — ground and toasted seeds of a huge leguminous tree, also used as a DMT-rich snuff. This was the same substance encountered by Columbus's expedition in the Caribbean.
-- **Nicotiana rustica** — a much more potent form of tobacco than commercial *N. tabacum*, used by Maya shamans and containing harmala alkaloids (beta-carbolines with hallucinogenic properties). Tobacco served as an ever-present adjunct to visionary plants throughout the Americas.
+- **[[yopo-anadenanthera-peregrina-snuff]]** (yopo/cohoba) — ground and toasted seeds of a huge leguminous tree, also used as a DMT-rich snuff. This was the same substance encountered by Columbus's expedition in the Caribbean.
+- **Nicotiana rustica** — a much more potent form of tobacco than commercial *N. tabacum*, used by Maya shamans and containing [[turner-harmala-alkaloids-preparation-and-dosage]] (beta-carbolines with hallucinogenic properties). Tobacco served as an ever-present adjunct to visionary plants throughout the Americas.
 
 ## The DMT Snuff Tradition
 
@@ -58,7 +58,7 @@ McKenna noted that Amazonian shamans independently arrived at a critical pharmac
 
 ## The Broader Significance
 
-For McKenna, Amazonian shamanism was not merely an ethnographic curiosity but living proof of his central thesis: that human beings have a deep, ancient, and necessary relationship with visionary plants, and that the suppression of this relationship has produced the alienation and destructiveness of modern civilization. The Amazonian tradition demonstrated that the psychedelic experience, properly contextualized within a shamanic framework, is not escapism but a technology for healing, knowledge, and cultural cohesion.
+For McKenna, Amazonian shamanism was not merely an ethnographic curiosity but living proof of his central thesis: that human beings have a deep, ancient, and necessary relationship with visionary plants, and that the suppression of this relationship has produced the alienation and destructiveness of modern civilization. The Amazonian tradition demonstrated that the [[leary-psychedelic-experience-bardo-mapping]], properly contextualized within a shamanic framework, is not escapism but a technology for healing, knowledge, and cultural cohesion.
 
 ## See Also
 ## The Nature of Shamanic Ecstasy

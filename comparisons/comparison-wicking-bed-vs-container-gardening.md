@@ -1,5 +1,5 @@
 ---
-title: "Wicking Bed vs Container Gardening"
+title: "comparison wicking bed vs container gardening vs comparison-cold-frame-gardening-vs-container-gardening-guide"
 tags: [comparison, water-management, gardening, containers, raised-beds]
 date: 2026-05-08
 updated: 2026-05-08
@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-Wicking beds and container gardens both bring growing space to areas where
+Wicking beds and container gardens both bring [[cotter-growing-space-design-fruiting-rooms]] to areas where
 in-ground gardening is impractical, but they take fundamentally different
 approaches to water management. A wicking bed is essentially a self-watering
 raised bed with a built-in reservoir that feeds moisture upward by capillary
@@ -68,10 +68,10 @@ drought conditions, municipal restrictions, or simply wanting to reduce
 garden maintenance. They are the better choice for gardeners who are away
 from home regularly, since a fully charged reservoir sustains plants for
 weeks. Wicking beds also produce more consistent results for moisture-loving
-crops like tomatoes, peppers, and leafy greens, because the root zone never
+crops like tomatoes, peppers, and [[solomon-leafy-greens-growing]], because the root zone never
 dries out completely. If you have a permanent garden space and want to
 maximize food production with minimal daily input, wicking beds are hard to
-beat. They also integrate well with rainwater harvesting systems — a single
+beat. They also integrate well with [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]] systems — a single
 rain barrel can fill multiple beds for weeks of autonomous growing.
 
 ## When to Choose Container Gardening
@@ -96,11 +96,13 @@ frequency to every 3-7 days while maintaining full portability. This makes
 them an excellent choice for balcony gardeners who want wicking-bed water
 efficiency at container scale. Another hybrid approach is to place individual
 containers inside a wicking bed frame — this is uncommon but allows seasonal
-crop rotation within the wicking infrastructure. For larger setups, a drip
+[[comparison-crop-rotation-vs-cover-cropping]] within the wicking infrastructure. For larger setups, a drip
 irrigation system on a timer can automate container watering, approximating
 the hands-off convenience of a wicking bed while retaining full portability.
 
 ## See Also
+
+- [[comparison-vertical-gardening-vs-container-gardening]]
 
 - [[comparison-cold-frame-gardening-vs-container-gardening-guide]]
 - [[vertical-gardening-guide]]

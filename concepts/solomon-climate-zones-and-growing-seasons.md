@@ -1,5 +1,5 @@
 ---
-title: "Climate Zones and Growing Seasons"
+title: "mollison-climate-zones-permaculture-strategies and Growing Seasons"
 created: 2026-04-28
 tags: [climate, growing-season, seasonal-planning, frost-dates]
 date: 2026-04-28
@@ -12,14 +12,14 @@ type: concept
 # Climate Zones and Growing Seasons
 
 Steve Solomon divides the English-speaking gardening world into four
-broad climatic zones, each with distinct implications for what can be
+broad [[permaculture-designers-manual-climatic-zones-tropical]], each with distinct implications for what can be
 grown, when to plant, and how long the harvest season lasts. Understanding
 your climatic zone is essential for choosing the right varieties and
-planning your garden calendar effectively.
+planning your [[cervantes-garden-calendar-checklist]] effectively.
 
 ## Short-Season Climates
 
-This area comprises the northern tier of states in the United States and
+This area comprises the northern tier of states in the [[dmt-containing-plants-united-states-halpern]] and
 that part of southern Canada within a few hundred miles of the U.S.
 border (the area of Canada in which over 90 percent of its citizens
 live). In these regions, the frost-free growing season may be as short
@@ -41,7 +41,7 @@ frost-free growing season is more than 120 days), and the winter is
 severe enough to actually freeze the soil solid at least 12 inches (30
 centimeters) deep.
 
-To roughly delineate this area in North America, draw east-west lines
+To roughly delineate this area in [[psilocybin-north-america-pacific-northwest]], draw east-west lines
 from about the northern border of Pennsylvania and the southern border
 of North Carolina extending to the Rockies. This zone offers a broad
 planting window and supports most vegetable species without extreme
@@ -52,7 +52,7 @@ measures, though summer heat and humidity create their own challenges.
 This includes the southern American states and Australia from Sydney
 north up to about Bundaberg. The soil rarely freezes solid; the summers
 are long and hot. The climate may be humid or semi-arid. Comparatively
-brief winters can occasionally be frosty but permit winter gardening
+brief winters can occasionally be frosty but permit [[solomon-winter-gardening-and-season-planning]]
 without requiring protection under cloches or cold frames.
 
 In this zone, gardeners can often produce food year-round with proper

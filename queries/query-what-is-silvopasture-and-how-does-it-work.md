@@ -5,6 +5,7 @@ tags: [query, silvopasture, livestock, agroforestry, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: query
 ---
@@ -37,7 +38,7 @@ Soil health improves dramatically in silvopasture systems.
 
 Tree roots penetrate deep soil layers, bringing nutrients to the surface through leaf litter.
 
-Livestock manure is distributed across the land, building topsoil organic matter.
+Livestock manure is distributed across the land, building topsoil [[hamilton-composting-and-organic-matter-management]].
 
 The combination of aboveground biomass and belowground root networks makes these systems highly resilient to drought and erosion.
 
@@ -45,9 +46,9 @@ Research shows silvopasture can sequester significantly more carbon than either 
 
 ### Design Considerations
 
-Bill Mollison's permaculture design manual includes guidance on integrating trees with livestock systems.
+Bill Mollison's [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] manual includes guidance on integrating trees with livestock systems.
 
-The [[permaculture-grazing-and-pasture]] covers the principles of rotational grazing that work well in wooded environments.
+The [[permaculture-grazing-and-pasture]] covers the principles of [[comparison-rotational-grazing-vs-continuous-grazing]] that work well in wooded environments.
 
 Cattle, sheep, and goats each have distinct browsing habits that affect tree regeneration and understory management.
 
@@ -63,7 +64,7 @@ Poultry can also thrive in silvopasture systems.
 
 Ducks cause less damage to tree seedlings than chickens, which scratch and disturb soil around the base of trees.
 
-Both species provide valuable insect control and manure distribution across the pasture.
+Both species provide valuable [[mushroom-pests-insect-control-stamets]] and manure distribution across the pasture.
 
 ### Getting Started
 
@@ -81,7 +82,7 @@ As trees mature and develop thick bark, they become more resistant to livestock 
 
 ### Economic Returns
 
-Silvopasture offers multiple income streams: livestock products, timber, fruit or nut crops, and ecosystem services.
+Silvopasture offers multiple income streams: livestock products, timber, fruit or nut crops, and [[biodiversity-of-fungi-ecosystem-services-agriculture]].
 
 While startup costs are higher than conventional pasture due to tree planting and infrastructure, the diversified revenue makes silvopasture financially competitive.
 
@@ -94,10 +95,15 @@ The long-term nature of tree crops means returns compound over decades.
 ## Key Points
 
 - Silvopasture integrates trees, forage, and livestock on the same land for increased total productivity
-- [[mollison-designers-silvopasture-integrated-tree-livestock]] provides species selection guidance for different climates
-- Poultry, especially ducks, integrate well into silvopasture for pest control and fertilization
+- mollison-designers-silvopasture-integrated-tree-livestock provides species selection guidance for different climates
+- Poultry, especially ducks, integrate well into silvopasture for [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] and fertilization
 
-## Related Questions
+## Related
+
+- [[query-what-is-a-chinampa-and-how-does-it-work]]
+- [[query-what-is-keyline-design-and-how-does-it-work]]
+- [[query-what-is-trap-cropping-and-how-does-it-work]]
+- query-how-do-coppice-and-pollard-systems-work Questions
 
 - [[query-how-to-start-a-food-forest]]
 - [[query-what-are-the-benefits-of-integrating-chickens-into-a-garden]]

@@ -1,5 +1,5 @@
 ---
-title: "BEATRICE (2,5-Dimethoxy-4,N-dimethyl-A) -- PIHKAL Entry #11"
+title: "BEATRICE (2,5-Dimethoxy-4,N-dimethyl-A) -- 2c-b-pihkal-entry-20 #11"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -71,7 +71,7 @@ been too exciting, as I never tasted the stuff.
 
 A fused sample of 5.0 g of white, crystalline free base
 2,5-dimethoxy-4-methylamphetamine, DOM, was treated with 10 mL ethyl
-formate, and held at reflux on the steam bath for several h. Removal
+formate, and held at reflux on the [[scythian-cannabis-steam-bath-ritual]] for several h. Removal
 of the solvent gave 5.5 g of a white solid, which could be
 recrystallized from 15 mL MeOH to give 3.8 g of fine white crystals of
 2,5-dimethoxy-N-formyl-4-methylamphetamine. An analytical sample from
@@ -94,7 +94,7 @@ sodium tartrate, the mixture was made basic with 25% NaOH. The clear
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

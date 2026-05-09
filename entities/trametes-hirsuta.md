@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
 
 # Trametes hirsuta
 
-*Trametes hirsuta*, commonly known as the hairy bracket or hairy trametes, is a species of wood-decay basidiomycete fungus in the family Polyporaceae. While less commercially prominent than its close relative *Trametes versicolor* (turkey tail), *T. hirsuta* has attracted significant research attention for its medicinal properties, including anticancer, immunomodulatory, antioxidant, and antimicrobial activities, as well as its capacity for bioremediation of environmental pollutants.
+*Trametes hirsuta*, commonly known as the hairy bracket or hairy trametes, is a species of wood-decay basidiomycete fungus in the family Polyporaceae. While less commercially prominent than its close relative *[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]* (turkey tail), *T. hirsuta* has attracted significant research attention for its medicinal properties, including anticancer, immunomodulatory, antioxidant, and antimicrobial activities, as well as its capacity for bioremediation of environmental pollutants.
 
 ## Taxonomy and Description
 
@@ -24,7 +24,7 @@ The spore print is white. Spores are cylindrical to slightly curved, smooth, and
 
 *Trametes hirsuta* has a cosmopolitan distribution and is found in temperate and tropical forests worldwide. It is one of the most common wood-decay fungi on hardwood trees, colonizing a wide range of hosts including oaks, beeches, birches, maples, and many other hardwood species.
 
-The fungus plays an ecologically important role as a white-rot decomposer, breaking down the lignin component of wood through the action of lignin-modifying enzymes including laccase, manganese peroxidase (MnP), and lignin peroxidase (LiP). This ligninolytic activity makes *T. hirsuta* one of the principal agents of wood decomposition in forest ecosystems and a valuable organism for biotechnological applications.
+The fungus plays an ecologically important role as a white-rot decomposer, breaking down the lignin component of wood through the action of lignin-modifying enzymes including laccase, [[fungal-manganese-peroxidase-remediation]] (MnP), and lignin peroxidase (LiP). This ligninolytic activity makes *T. hirsuta* one of the principal agents of wood decomposition in forest ecosystems and a valuable organism for biotechnological applications.
 
 ## Medicinal Properties
 
@@ -44,11 +44,11 @@ The immunomodulatory effects of *Trametes hirsuta* extend beyond anticancer appl
 
 ### Antioxidant Activity
 
-*Trametes hirsuta* exhibits significant antioxidant capacity, attributable to a combination of phenolic compounds, flavonoids, and other secondary metabolites. The mushroom's antioxidant enzymes, including superoxide dismutase (SOD) and catalase, also contribute to its ability to scavenge reactive oxygen species and reduce oxidative stress.
+*Trametes hirsuta* exhibits significant antioxidant capacity, attributable to a combination of phenolic compounds, flavonoids, and other [[antifungal-secondary-metabolites-coprophilous-fungi]]. The mushroom's antioxidant enzymes, including superoxide dismutase (SOD) and catalase, also contribute to its ability to scavenge reactive oxygen species and reduce oxidative stress.
 
 ### Antimicrobial Activity
 
-Extracts of *Trametes hirsuta* have demonstrated antimicrobial activity against a range of pathogenic microorganisms. Antibacterial activity has been observed against both Gram-positive and Gram-negative bacteria. Antifungal activity has been demonstrated against *Candida albicans* and *Aspergillus* species. Some evidence of antiviral activity exists, particularly against enveloped viruses.
+Extracts of *Trametes hirsuta* have demonstrated antimicrobial activity against a range of pathogenic microorganisms. Antibacterial activity has been observed against both Gram-positive and Gram-negative bacteria. Antifungal activity has been demonstrated against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and *Aspergillus* species. Some evidence of antiviral activity exists, particularly against enveloped viruses.
 
 The antimicrobial compounds identified from *T. hirsuta* include various terpenoids, phenolic acids, and sesquiterpenes.
 
@@ -58,7 +58,7 @@ The antimicrobial compounds identified from *T. hirsuta* include various terpeno
 
 ## Bioremediation Applications
 
-Beyond its medicinal properties, *Trametes hirsuta* is a valuable organism for [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] (PAHs), dyes and textile effluents, [[fungal-laccase-and-textile-dye-decolorization]], biosensor development, organic synthesis, and wastewater treatment.
+Beyond its medicinal properties, *Trametes hirsuta* is a valuable organism for [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] (PAHs), [[singh-fungal-degradation-of-synthetic-dyes-and-textile-waste]] effluents, [[fungal-laccase-and-textile-dye-decolorization]], biosensor development, organic synthesis, and [[mollison-designers-wastewater-treatment-wetlands]].
 
 ## Laccase Production
 
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

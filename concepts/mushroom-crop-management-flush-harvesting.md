@@ -1,28 +1,22 @@
 ---
-title: Mushroom Crop Management and Flush Harvesting
+title: Mushroom mushroom [[fukuoka-textdoc-soil-rehabilitation-timeline-orchard-cover-crop-management]] flush harvesting and Flush Harvesting
 created: 2026-04-28
-tags: [[mycology, mushroom-cultivation, agriculture, harvest-management,
-      commercial-farming]
+tags: [mycology, mushroom-cultivation, agriculture, harvest-management, commercial-farming]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
 type: concept
 ---
-
-# Mushroom Crop Management and Flush Harvesting
-
-## Overview
-
-After [[fruiting-initiation]], commercial mushroom crops
+# Mushroom Crop Management and Flush Harvesting ## Overview After [[fruiting-initiation]], commercial mushroom crops
 progress through a series of harvest cycles called flushes. Managing these
 flushes, including the timing, environmental conditions, and harvesting
 techniques, determines both yield and quality of the crop. Mushroom crop
 management requires continuous monitoring and rapid response to changing
-conditions within the growing environment.
+conditions within the [[cannabis-growing-environment-setup]].
 
 ## The Flush Pattern
 
-Most cultivated mushroom species produce fruiting bodies in distinct waves
+Most cultivated mushroom species produce [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] in distinct waves
 or flushes, separated by rest periods during which the mycelium replenishes
 nutrient reserves. [[fungal-fruiting-body-formation-environmental-triggers]]
 - [[mushroom-substrate-preparation-composting]]
@@ -43,7 +37,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -93,7 +87,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -103,4 +97,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

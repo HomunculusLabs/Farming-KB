@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  sources: []
 ---
 
 # Panaeolus cinctulus
@@ -30,10 +30,10 @@ species are strictly coprophilous (dung-inhabiting), P. cinctulus is a generalis
 
 - Horse and cow pastures (growing directly on dung or enriched soil)
 - Compost piles and municipal mulch
-- Garden beds and landscaped areas with rich organic matter
+- Garden beds and landscaped areas with rich [[hamilton-composting-and-organic-matter-management]]
 - Grass clippings and accumulated thatch
 - Occasionally on straw or other plant debris
-- Wood chip mulch in gardens and parks
+- [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] mulch in gardens and parks
 
 Fruiting occurs from late spring through autumn in temperate regions, with peak fruiting
 in early summer and again in autumn. In warmer climates, the species may fruit year-round
@@ -41,7 +41,7 @@ following rainfall.
 
 ## Chemistry
 
-Chemical analysis of Panaeolus cinctulus has confirmed the presence of [[psilocin]] as the primary psychoactive alkaloids. Reported psilocybin concentrations
+[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of Panaeolus cinctulus has confirmed the presence of [[psilocin]] as the primary psychoactive alkaloids. Reported psilocybin concentrations
 vary considerably between collections, ranging from approximately 0.1% to 0.8% of dry
 weight. The variability likely reflects differences in genetics, substrate, environmental
 conditions, and analytical methodology.
@@ -55,11 +55,11 @@ Other tryptamine compounds reported from P. cinctulus include:
 - deconica coprophila: Brown spores, lacks mottled gill pattern
 
 The key distinguishing features are the banded two-tone cap, mottled gills, black spore
-print, and bluing reaction on the stem base.
+print, and [[field-guide-psilocybin-bluing-reaction-identification]] on the stem base.
 
 ## Cultivation
 
-Panaeolus cinctulus has been cultivated successfully on composted horse manure, enriched
+Panaeolus cinctulus has been cultivated successfully on composted [[falconer-horse-manure-varieties]], enriched
 straw substrates, and pasteurized grass-based substrates. It is generally considered more
 demanding to cultivate than Psilocybe species due to its preference for specific
 nitrogen-rich substrates and susceptibility to contamination.
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,11 +1,12 @@
 ---
-title: Fukuoka Food as Strategic Weapon and the Seed War
+title: Fukuoka Food as fukuoka-food-strategic-weapon-critique and the Seed War
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka Food as Strategic Weapon and the Seed War
 
@@ -21,7 +22,7 @@ The core problem: American food is produced with oil. Transported elsewhere and 
 
 - The Carter administration pressured Japan to buy American oranges and wheat
 - When Japan offered to ship surplus rice to Vietnam, the U.S. State Department protested
-- The U.S. told Japan to cease sending rice to Southeast Asia because it would compete with American grain sales
+- The U.S. told Japan to cease sending rice to [[psilocybe-southeast-asia-pacific]] because it would compete with American grain sales
 - A stern warning from the U.S. government sent tremors of fear through the Japanese Ministry of Agriculture
 
 Fukuoka frames this starkly: "You brandish nuclear weapons in your right hand while with your left you ship food strategically throughout the world."
@@ -32,7 +33,7 @@ Fukuoka's analysis turns conventional assumptions upside down. Despite farming e
 
 - American farmers live more meagerly than Japanese farmers on 2-3 acres
 - The food they grow does not receive the blessings of nature
-- Crops are processed with petroleum energy, not natural fertility
+- Crops are processed with petroleum energy, not [[fukuoka-natural-fertility-cycle]]
 - Even water is often piped in from hundreds of miles away
 - Irrigation brings salt to the surface, gradually converting land to salt fields
 - The real reason American farmers export crops is because they are poor
@@ -41,11 +42,11 @@ He visited the United Nations and told officials: "America and its farmers are n
 
 ## Deficit Farming
 
-Fukuoka coined the term "deficit farming" to describe American agriculture:
+Fukuoka coined the term "deficit farming" to describe [[fukuoka-american-agriculture-fields-of-death]]:
 
-- Livestock farming exports all nutrients as feed, draining the land of fertility
+- [[fukuoka-textdoc-natural-livestock-farming-open-grazing]] exports all nutrients as feed, draining the land of fertility
 - Monoculture depletes soil fertility in a negative cycle
-- The yield ratio (energy yield to energy input) halves every ten years
+- The yield ratio ([[holmgren-biomass-fuels-and-energy-yield-ratios]] to energy input) halves every ten years
 - To harvest one calorie of food energy, farmers put two calories into the land
 - American agriculture is not raising productivity but curtailment of declines in production
 - One-third to one-half of fields are left fallow each year because soil lacks fertility
@@ -83,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

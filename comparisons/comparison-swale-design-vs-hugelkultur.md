@@ -5,6 +5,7 @@ date: 2026-04-25
 updated: 2026-04-25
 tags: [comparison, water-management, earthworks, permaculture, soil-building]
 sources:
+  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 type: comparison
 ---
@@ -39,7 +40,7 @@ wide range of climates from arid to humid, though their design parameters
 change significantly with annual rainfall and soil type. At broadacre scale, 
 swales represent major earthworks requiring machinery, design expertise, and 
 careful consideration of drainage patterns. They are described extensively in 
-the Permaculture Designers Manual and remain one of the most important tools in 
+the Permaculture [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] and remain one of the most important tools in 
 the permaculture water management toolkit.
 
 ## Hugelkultur
@@ -49,7 +50,7 @@ woody material such as logs, branches, and brush beneath a mound of soil and
 compost. As the wood decomposes over 15 to 20 years, it acts as an internal 
 sponge that absorbs and slowly releases water, significantly reducing 
 irrigation needs. The decomposition process also generates heat, providing 
-season extension through earlier spring warming and delayed autumn freezing. 
+[[comparison-season-extension-techniques-vs-cold-frame-gardening]] through earlier spring warming and delayed autumn freezing. 
 Hugelkultur beds recycle waste wood that would otherwise be burned or chipped, 
 turning a disposal problem into a growing resource. Beds can range from small 
 mounds a few feet long to massive structures dozens of feet in length. The 
@@ -90,7 +91,7 @@ objective. They are essential for properties with erosion problems, seasonal
 runoff, or the need to recharge groundwater supplies. Swales are the correct 
 tool for broadacre water harvesting in arid and semi-arid climates where every 
 drop of rainfall must be captured and retained. They work well as part of a 
-comprehensive keyline design system that manages water movement across large 
+comprehensive [[query-how-does-keyline-design-work-in-permaculture]] system that manages water movement across large 
 properties. Swales are also appropriate for reforestation projects, 
 agroforestry systems, and pasture improvement where distributed soil moisture 
 supports tree planting and perennial establishment. Properties with significant 
@@ -103,9 +104,9 @@ Choose hugelkultur when you want to create highly productive raised beds that
 recycle woody waste and reduce irrigation needs at the garden scale. It is the 
 best approach for properties with abundant wood debris from tree pruning, land 
 clearing, or storm damage. Hugelkultur beds excel in kitchen gardens and 
-intensive vegetable production areas where the season extension benefit from 
+intensive [[dry-gardening-unirrigated-vegetable-production-solomon]] areas where the season extension benefit from 
 decomposition heat allows earlier planting and later harvests. They are ideal 
-for permaculture demonstration sites because the concept is visually compelling 
+for [[holmgren-melliodora-permaculture-demonstration-site-hepburn-springs]] sites because the concept is visually compelling 
 and easy to understand. Small-scale homesteaders without access to earthmoving 
 equipment can build effective hugelkultur beds by hand, making the technique 
 accessible without machinery. The beds are particularly valuable in areas with 
@@ -125,7 +126,7 @@ function as micro-swales while also providing the benefits of buried wood
 decomposition. In large-scale food forests, swales establish the primary water 
 management framework while hugelkultur mounds create intensive growing zones at 
 key points along the swale berms. This combination is considered one of the 
-most powerful integrations in permaculture earthworks design.
+most powerful integrations in [[query-what-are-permaculture-earthworks-and-how-do-i-plan-them]] design.
 
 ## See Also
 

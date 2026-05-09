@@ -1,5 +1,5 @@
 ---
-title: Mycelial Nutrient Translocation Imaging
+title: Mycelial dighton-fungal-nutrient-translocation-element-redistribution Imaging
 tags:
   - mycology
   - nutrient-translocation
@@ -25,18 +25,18 @@ Basidiomycete mycelia form extensive networks that scavenge, sequester, and redi
 
 ## The Challenge of Scale
 
-Nutrient transport in fungal mycelia occurs across an enormous range of length scales: from uptake by individual transporter proteins in hyphal membranes, through translocation within septal compartments via the [[gadd-colony-morphogenesis-hyphal-growth|Phanerochaete velutina]]:
+[[mycelial-network-nutrient-transport-imaging-gadd]] in fungal mycelia occurs across an enormous range of length scales: from uptake by individual transporter proteins in hyphal membranes, through translocation within septal compartments via the [[gadd-colony-morphogenesis-hyphal-growth|Phanerochaete velutina]]:
 - **Distal compartments**: Large, discrete vacuoles connected by fine tubes
 - **Intermediate compartments**: Mix of vacuoles and tubular elements
 - **Tip compartments**: Dense tubular reticulum with small vesicles
 
 ### Modelling Diffusive Capacity
 
-By combining measured diffusion coefficients with distributions of vacuole size and separation, in silico models of entire septal compartments were constructed. Monte Carlo simulations yielded effective diffusion coefficients for each compartment type. Applying Fick's first law with estimates of nitrogen demand at the tip and vacuolar nitrogen concentration revealed that an unbranched hypha with a continuous tubular vacuole could sustain growth over 12 to 24 mm, while a maximally branched system would support transport over only a few millimetres. This poise suggests the vacuolar system coordinates tip growth and branching by regulating its translocation capacity in response to local nutrient conditions.
+By combining measured diffusion coefficients with distributions of vacuole size and separation, in silico models of entire septal compartments were constructed. Monte Carlo simulations yielded effective diffusion coefficients for each compartment type. Applying Fick's first law with estimates of nitrogen demand at the tip and vacuolar nitrogen concentration revealed that an unbranched hypha with a continuous tubular vacuole could sustain growth over 12 to 24 mm, while a maximally branched system would support transport over only a few millimetres. This poise suggests the vacuolar system coordinates [[gadd-hyphal-tip-growth-and-branching-mechanisms]] and branching by regulating its translocation capacity in response to local nutrient conditions.
 
 ## Photon-Counting Scintillation Imaging (PCSI)
 
-At the millimetre to centimetre scale, researchers developed a novel non-invasive technique to track radiolabelled 14C-amino-isobutyrate (14C-AIB) movement in mycelial networks growing over inert scintillation screens. PCSI provides continuous, real-time imaging of nitrogen distribution without destructive sampling.
+At the millimetre to centimetre scale, researchers developed a novel non-invasive technique to track radiolabelled 14C-amino-isobutyrate (14C-AIB) movement in [[fungal-mycelial-networks-nutrient-translocation]] growing over inert scintillation screens. PCSI provides continuous, real-time imaging of nitrogen distribution without destructive sampling.
 
 ### Colony Development Phases
 
@@ -44,7 +44,7 @@ Analysis of 14C-AIB distribution and colony growth revealed two developmental ph
 - **Phase 1**: Symmetrical growth with near-uniform nitrogen distribution
 - **Phase 2**: Transition to sparser, asymmetric growth with selective nutrient allocation
 
-The transition between phases depends on nutrient availability and colony age. Added cellulosic resources induce a rapid shift to focused nitrogen accumulation and asymmetric growth directed toward the new resource.
+The transition between phases depends on [[ph-and-nutrient-availability-garden-soils]] and colony age. Added cellulosic resources induce a rapid shift to focused nitrogen accumulation and asymmetric growth directed toward the new resource.
 
 ### Pulsatile Transport
 

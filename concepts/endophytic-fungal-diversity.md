@@ -1,5 +1,5 @@
 ---
-title: Endophytic Fungal Diversity
+title: Endophytic arbuscular-mycorrhizal-fungal-diversity-patterns-distribution
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
@@ -10,17 +10,17 @@ sources: []
 
 ## Overview
 
-Endophytic fungi (endophytes) are fungi that inhabit healthy plant tissues without causing apparent disease symptoms. They represent one of the most diverse yet poorly documented components of [[next-generation-sequencing-hidden-fungal-diversity]]
+[[comparison-endophytic-fungi-vs-mycorrhizal-fungi]] (endophytes) are fungi that inhabit healthy plant tissues without causing apparent disease symptoms. They represent one of the most diverse yet poorly documented components of [[next-generation-sequencing-hidden-fungal-diversity]]
 
 - [[endophytic-fungi-plant-interactions]] — host-endophyte interaction mechanisms
 - [[fungal-biodiversity]] — global fungal diversity context
-- [[fungal-kingdom-classification]] — taxonomic framework
+- fungal-kingdom-classification — taxonomic framework
 - [[fungal-diversity-estimation-methods]] — estimation approaches
 - [[fungal-endophytes-plant-fitness]]
 - [[marine-fungal-diversity]]
 - [[endophyte-isolation-techniques]]
-- [[fungal-freshwater-systems-diversity]]
-- [[fungal-biodiversity]] [[fungal-biogeography]] Elevation effects on fungal diversity are relevant but poorly documented. [[fungal-biodiversity-forest-ecosystems]] Elevational gradients typically traverse multiple vegetation zones, from tropical lowland forests through montane cloud forests to alpine tundra. [[fungal-conservation-endangered-species]] Alpine environments share many characteristics with arctic environments, including low temperatures, high UV radiation, and short growing seasons. Related: [[soil-food-web-nutrient-cycling]], [[fungal-sampling-methods]]
+- fungal-freshwater-systems-diversity
+- [[fungal-biodiversity]] [[fungal-biogeography]] Elevation [[brassinosteroid-effects-on-fungal-morphology]] diversity are relevant but poorly documented. [[fungal-biodiversity-forest-ecosystems]] Elevational gradients typically traverse multiple vegetation zones, from tropical lowland forests through montane cloud forests to alpine tundra. [[fungal-conservation-endangered-species]] Alpine environments share many characteristics with arctic environments, including low temperatures, high UV radiation, and short growing seasons. Related: [[soil-food-web-nutrient-cycling]], [[fungal-sampling-methods]]
 ## Practical Applications
 
 Endophytic Fungal Diversity has a range of practical applications that make it relevant to
@@ -98,4 +98,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

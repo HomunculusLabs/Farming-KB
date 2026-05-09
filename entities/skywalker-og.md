@@ -27,7 +27,7 @@ sources:
 
 ## Overview
 
-Skywalker OG is a potent indica-dominant hybrid cannabis strain created by
+Skywalker OG is a potent indica-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] created by
 crossing the legendary Skywalker with OG Kush. Known for its heavy body
 effects and pungent, diesel-forward aroma, it has become one of the most
 widely recognized strains in the OG Kush family tree. THC content
@@ -63,9 +63,9 @@ physical relaxation.
   transitioning within 10–15 minutes to full-body sedation.
 - **Primary effects:** Deep physical relaxation, euphoria, stress
   relief, and appetite stimulation.
-- **Common applications:** Chronic pain, insomnia, anxiety, PTSD,
+- **Common applications:** [[cannabis-chronic-pain-management]], insomnia, anxiety, PTSD,
   muscle spasms, and nausea.
-- **Adverse effects:** Dry mouth, dry eyes, dizziness at high doses,
+- **[[blesching-cannabis-safety-adverse-effects-evidence]]:** Dry mouth, dry eyes, dizziness at high doses,
   and in rare cases heightened anxiety or paranoia — primarily in
   low-tolerance consumers.
 - **Duration:** Effects typically last 2–3 hours, with the sedative
@@ -75,12 +75,12 @@ physical relaxation.
 
 - **Flowering time:** 8–9 weeks indoors.
 - **Yield:** Moderate to high (400–500 g/m² indoors).
-- **Difficulty:** Moderate; requires careful nutrient management to
+- **Difficulty:** Moderate; requires careful [[green-cannabis-grow-bible-nutrient-management-ppm]] to
   avoid nitrogen burn in late flowering.
 - **Climate:** Prefers warm, Mediterranean-like conditions with low
   humidity during late bloom to prevent bud rot.
 - **Pest resistance:** Moderate; the dense indica bud structure makes
-  it susceptible to powdery mildew and botrytis in humid environments.
+  it susceptible to [[cervantes-powdery-mildew-prevention-treatment]] and botrytis in humid environments.
 - **Training:** Responds well to low-stress training (LST) and
   ScrOG methods; heavy apical colas benefit from support nets.
 
@@ -93,7 +93,7 @@ physical relaxation.
   transitioning to a spicy, herbal exhale with faint citrus and
   berry notes on the finish.
 - Smoke is thick and expansive; the pungent aroma lingers on
-  surfaces, making odor control a consideration for indoor growers.
+  surfaces, making [[cannabis-odor-control-and-carbon-filters]] a consideration for indoor growers.
 
 ## Appearance
 

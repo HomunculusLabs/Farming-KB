@@ -1,5 +1,5 @@
 ---
-title: "European Witchcraft Hallucinogenic Plants"
+title: "harner-european-witchcraft-hallucinogens Hallucinogenic Plants"
 created: "2026-04-16"
 updated: "2026-04-16"
 type: concept
@@ -15,7 +15,7 @@ Michael J. Harner's chapter "Hallucinogens and European Witchcraft," published i
 
 One outstanding pharmacological feature of atropine is that it is absorbable even by the intact skin — a property long known in medicine through the observation of toxic effects from belladonna plasters. This potential of atropine-containing solanaceous plants has been known since ancient times and is of considerable significance for understanding both European witchcraft and New World shamanism.
 
-The European witches rubbed their bodies with a hallucinogenic ointment containing Atropa belladonna, Mandragora, and henbane, whose atropine content was absorbable through the skin. The witch then indeed took a "trip" — the witch on the broomstick is a representation of that imagined aerial journey to a rendezvous with spirits or demons, called a Sabbat.
+The European witches rubbed their bodies with a hallucinogenic ointment containing [[belladonna-atropa-belladonna-ethnobotany]], Mandragora, and henbane, whose atropine content was absorbable through the skin. The witch then indeed took a "trip" — the witch on the broomstick is a representation of that imagined aerial journey to a rendezvous with spirits or demons, called a Sabbat.
 
 The alleged aerial journey — "to fly through the air to distant, secret places for a rendezvous with one's fellow witches and the Devil himself" — is thus explained by the hallucinogenic properties of the solanaceous plants used in the ointment.
 
@@ -53,7 +53,7 @@ The Sabbat, the nocturnal rendezvous of witches with the Devil and each other, i
 
 ## Historical Antiquity
 
-The hallucinogenic use of solanaceous plants extends far back in European history. In the oracle at Delphi, the priestess of Apollo was believed to inhale intoxicating vapors from a cleft in the rock. It is possible that the cleft was a source of henbane fumes, given that the temple stood on a mountainside in Phocis where henbane grew. The Eleusinian Mysteries of ancient Greece, discussed in [[solanaceous-hallucinogens-pharmacology]]
+The hallucinogenic use of solanaceous plants extends far back in European history. In the oracle at Delphi, the priestess of Apollo was believed to inhale intoxicating vapors from a cleft in the rock. It is possible that the cleft was a source of henbane fumes, given that the temple stood on a mountainside in Phocis where henbane grew. The [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] of ancient Greece, discussed in [[solanaceous-hallucinogens-pharmacology]]
 [[harmala-alkaloids-and-ayahuasca-preparation]]
 [[hallucinogens-and-shamanism-harner-anthology]]
 [[fly-agaric-siberian-shamanic-practice]]
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

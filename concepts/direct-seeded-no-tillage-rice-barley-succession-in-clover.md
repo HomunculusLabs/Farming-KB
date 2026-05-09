@@ -25,7 +25,7 @@ The direct-seeded, no-tillage rice-barley succession in a clover cover is the co
 ### Summer (June to October)
 
 1. **Surface-drain** the field after the temporary flooding to grow hardy plants
-2. **Intermittent irrigation**: During the first half of the rice growing season, water may be passed briefly over the field once every week to ten days. A soil moisture level of approximately 80% is adequate
+2. **Intermittent irrigation**: During the first half of the rice [[savory-growing-season-and-non-growing-season-management]], water may be passed briefly over the field once every week to ten days. A soil moisture level of approximately 80% is adequate
 3. **Heading stage**: Continue intermittent irrigation during heading, but avoid holding water for more than five consecutive days
 4. **Post-heading**: Rice requires more water and can become dehydrated without careful attention
 5. **October**: Begin the cycle again by sowing clover over the ripening rice
@@ -34,18 +34,18 @@ The direct-seeded, no-tillage rice-barley succession in a clover cover is the co
 
 ### The Clover Ground Cover
 
-White clover (Trifolium repens) or ladino clover serves as the living mulch that makes the entire system function. The clover:
+White clover (Trifolium repens) or [[fukuoka-ladino-clover-ground-cover-management]] serves as the living mulch that makes the entire system function. The clover:
 
 - Fixes atmospheric nitrogen, eliminating the need for nitrogen fertilizer
 - Suppresses weed growth through competition
 - Protects the soil surface from erosion and desiccation
-- Provides habitat for beneficial insects including spiders, which control rice pests
-- Contributes organic matter as it dies back and decomposes
+- Provides [[query-how-do-i-design-habitat-for-beneficial-insects]] insects including spiders, which control rice pests
+- Contributes [[hamilton-composting-and-organic-matter-management]] as it dies back and decomposes
 - Is temporarily weakened by brief flooding without being killed, allowing rice to establish
 
 ### Straw Mulching
 
-Rice and barley straw is returned to the field uncut after each harvest. The straw serves multiple functions:
+[[fukuoka-rice-and-barley-natural-farming]] straw is returned to the field uncut after each harvest. The straw serves multiple functions:
 
 - Physical suppression of weed germination
 - Moisture conservation in the soil
@@ -58,7 +58,7 @@ Rice and barley straw is returned to the field uncut after each harvest. The str
 The field is never plowed or turned. Soil structure is maintained and improved through:
 
 - Root penetration by clover, barley, and rice roots
-- Decomposition of straw mulch into humus
+- Decomposition [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] into humus
 - Earthworm and microbial activity
 - The natural aggregation of soil particles undisturbed by mechanical disruption
 
@@ -88,3 +88,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[direct-seeded-no-tillage-rice-winter-grain-succession]]

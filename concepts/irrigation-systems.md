@@ -54,7 +54,7 @@ Comprehensive guide to irrigation methods for a regenerative homestead. Covers d
 | Drip emitter (button) | 1-4 GPH | Large containers, trees | 2-4 per tree |
 | Drip tape | 0.5-1.0 GPM/100 ft | Row crops, garden beds | 6-18" spacing built-in |
 | Dripperline (1/2") | 0.5-1.0 GPH/18" spacing | Permanent perennial beds | Every 12-18" |
-| Micro-sprinkler | 5-20 GPH | Ground cover areas, orchards | 4-8 ft radius |
+| Micro-sprinkler | 5-20 GPH | [[fukuoka-citrus-orchard-ground-cover-cultivation]] areas, orchards | 4-8 ft radius |
 | Bubbler | 5-20 GPH | Large trees, basins | 1 per tree |
 
 ### Layout Design
@@ -76,7 +76,7 @@ Comprehensive guide to irrigation methods for a regenerative homestead. Covers d
 | Type | Coverage | Efficiency | Best Use |
 |------|----------|-----------|----------|
 | Impact sprinkler | 20-80 ft radius | 50-70% | Pasture, large lawn areas, [[pasture-management]] |
-| Oscillating sprinkler | 10-30 ft x 15-45 ft | 60-75% | Garden beds, seed germination |
+| Oscillating sprinkler | 10-30 ft x 15-45 ft | 60-75% | Garden beds, [[cannabis-seed-germination-methods]] |
 | Rotary nozzle | 15-30 ft radius | 70-80% | Lawn, ground cover |
 | Micro-sprinkler | 4-8 ft radius | 80-90% | Food forest understory, berry bushes |
 
@@ -85,7 +85,7 @@ Sprinklers waste 30-50% to evaporation and wind compared to drip. Reserve for pa
 ## Flood/Furrow Irrigation
 - **Basin irrigation**: Build soil berms around fruit trees, flood basins weekly. Simplest method. Excellent for establishing young trees.
 - **Furrow irrigation**: Channels between crop rows. Works with gravity flow from rainwater tanks. Good for [[grain-and-staple-crops]] and [[cover-cropping-guide]].
-- **Swale irrigation**: Contour swales ([[water-management]]) fill during rain, slowly release to downslope plantings. Zero energy input.
+- **[[comparison-swale-design-vs-contour-swale-irrigation-design]]**: Contour swales ([[water-management]]) fill during rain, slowly release to downslope plantings. Zero energy input.
 
 ## Olla Pots
 - **How they work**: Unglazed clay pots buried in soil, filled with water. Water seeps through clay walls by capillary action directly to root zone.
@@ -94,7 +94,7 @@ Sprinklers waste 30-50% to evaporation and wind compared to drip. Reserve for pa
 - **Sizes**: 1-5 gallon. 2-gallon standard for raised beds.
 - **Refill**: Every 2-5 days depending on weather and plant demand.
 - **Cost**: $15-30 each (DIY with terracotta pots + silicone: $5-8).
-- **Best for**: Raised beds, containers, intensive garden zones ([[greenhouse-design]]).
+- **Best for**: Raised beds, containers, [[comparison-zone-1-intensive-garden-vs-zone-5-wilderness]] zones ([[greenhouse-design]]).
 
 ## Wicking Beds
 - **How they work**: Water reservoir (gravel/pipe) below soil, separated by geotextile. Soil wicks water upward by capillary action.
@@ -140,41 +140,10 @@ Recommendation: Automate Zone 1-2 (daily/weekly visits). Manual is fine for Zone
 | Uneven flow / dry spots | Clogged emitters | Flush lines, remove and clean emitters in vinegar soak |
 | Low pressure throughout | Filter clogged, line too long, insufficient source GPM | Clean/replace filter, shorten zone runs, check source flow rate |
 | Leaks at fittings | Loose connections, UV degradation, rodent damage | Push fittings fully, replace damaged sections, use mouse guards |
-| Blown emitters | Pressure too high | Verify pressure regulator (20-30 PSI), install if missing |
-| Green slime in lines | Algae growth (light exposure) | Bury lines, use opaque tubing, flush with hydrogen peroxide |
-| Mineral buildup | Hard water | Vinegar soak emitters monthly, consider acid injection system |
-| Roots in emitters | Emitters too deep, aggressive roots | Install emitters at soil surface, use root barrier discs |
-
-## Water Pressure Requirements
-
-| System | Min PSI | Ideal PSI | Max PSI |
-|--------|---------|-----------|---------|
-| Drip emitters | 10 | 20-30 | 40 |
-| Drip tape | 8 | 10-15 | 20 |
-| Micro-sprinklers | 20 | 25-40 | 50 |
-| Impact sprinkler | 30 | 40-60 | 80 |
-| Olla pots | 0 (gravity) | N/A | N/A |
-| Household supply | 30 | 50 | 80 |
-
-**Tip**: If your well or municipal supply exceeds 50 PSI, a pressure regulator is mandatory for drip systems. Most household supplies run 40-70 PSI.
-
-## Sizing for a Homestead
-
-| Zone | Area | System | Estimated GPM |
-|------|------|--------|---------------|
-| Zone 1 garden | 500-1000 sq ft | Drip tape or dripperline | 2-4 |
-| Greenhouse | 200-400 sq ft | Drip + olla pots | 1-2 |
-| Berry bushes | 500-1000 sq ft | Drip emitters | 2-4 |
-| Orchard/food forest | 0.5-2 acres | Drip + micro-sprinkler | 5-15 |
-| Pasture | 2-5 acres | Impact sprinkler or swale | 10-25 |
-| Pasture | 2-5 acres | Impact sprinkler or swale | 10-25 |
-
-Total homestead demand: 15-50 GPM. Match to well yield or design zones to run sequentially. See [[seasonal-planning]] for monthly water demand.
-
 ## Related Pages
 - [[homestead-water-systems]] — Water sourcing, pumps, filtration, treatment
-- [[water-management]] — Swales, keyline, rainwater harvesting, greywater
+- [[water-management]] — Swales, keyline, [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]], greywater
 - [[seasonal-planning]] — Monthly task calendar including irrigation schedule
 - [[greenhouse-design]] — Greenhouse irrigation and climate control
 - [[food-forest-design]] — Water needs for food forest establishment
-- [[pasture-management]] — Irrigation for rotational grazing systems
+- [[pasture-management]] — Irrigation for [[comparison-rotational-grazing-vs-continuous-grazing]] systems

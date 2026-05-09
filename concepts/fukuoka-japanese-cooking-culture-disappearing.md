@@ -1,16 +1,16 @@
 ---
-title: Fukuoka Japanese Cooking Culture Disappearing
+title: Fukuoka fukuoka japanese cooking culture disappearing Culture Disappearing
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [diet, culture, cooking, japan]
-sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+sources: sources: []
 ---
 
 # Fukuoka Japanese Cooking Culture Disappearing
 
 [[fukuoka-japanese-diet-worse]] and [[fukuoka-natural-foods-movement-america]] is stronger in America than in Japan
-- Japanese shops selling natural foods cannot compare with American operations
+- Japanese shops selling [[fukuoka-natural-foods-movement-america]] cannot compare with American operations
 
 See also: [[fukuoka-diet-blood-thought-civilization]], [[fukuoka-disappearance-natural-diet]], [[fukuoka-specter-food-scarcity]], [[fukuoka-natural-foods-movement-america]]
 ## Background and Context
@@ -141,4 +141,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

@@ -34,9 +34,9 @@ healthy plants are always used for hybrid crosses.
 Sports (plants or parts of plants carrying and expressing spontaneous
 mutations) most easily transmit mutant genes to the offspring if they
 are used as pollen parents. If the parents represent diverse gene pools,
-hybrid vigor results, because dominant genes tend to carry valuable
+[[cannabis-hybrid-vigor-and-phenotypes-clarke]] results, because dominant genes tend to carry valuable
 traits and the differing dominant genes inherited from each parent mask
-recessive traits inherited from the other.
+[[cervantes-dominance-recessive-traits-alleles]] inherited from the other.
 
 This gives rise to particularly large, healthy individuals. To increase
 hybrid vigor in offspring, parents of different geographic origins are
@@ -69,7 +69,7 @@ As a result of gene recombination, F1 hybrids are not true-breeding and
 must be reproduced from the original parental strains. When breeders
 create hybrids they try to produce enough seeds to last for several
 successive years of cultivation. After initial field tests, undesirable
-hybrid seeds are destroyed and desirable hybrid seeds stored for later
+[[heirloom-vs-hybrid-seeds-comparison]] are destroyed and desirable hybrid seeds stored for later
 use.
 
 If hybrids are to be reproduced, a clone is saved from each parental

@@ -11,7 +11,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of North America." Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Kärnefelt, I. & Thell, A. (1994). "Cetraria." In: Nordic Lichen Flora, Vol. 1.
   - Thomson, J.W. (1984). "American Arctic Lichens." Columbia University Press.
   - Wirth, V. (1995). "Die Flechten Baden-Württembergs." Eugen Ulmer Verlag.
@@ -21,9 +21,9 @@ sources:
 
 Cetraria aculeata, commonly known as the spiny Iceland lichen or hedgehog lichen, is a fruticose lichen in the family Cetrariaceae. It forms dense, intricately branched cushions with characteristic inward-curving branches that give the thallus a spiny or hedgehog-like appearance.
 
-The species is circumpolar in distribution, occurring across Arctic tundra, boreal forests, and alpine regions of the Northern Hemisphere. It is one of the most abundant terricolous (ground-dwelling) lichens in Arctic and subarctic ecosystems.
+The species is circumpolar in distribution, occurring across Arctic tundra, [[fungal-diversity-boreal-forests-taiga]], and alpine regions of the Northern Hemisphere. It is one of the most abundant terricolous (ground-dwelling) lichens in Arctic and subarctic ecosystems.
 
-Cetraria aculeata is closely related to the well-known Iceland moss (Cetraria islandica) but is distinguished by its more intricately branched, darker thallus and different chemistry. It plays important ecological roles in tundra nutrient cycling and provides winter forage for caribou and reindeer.
+Cetraria aculeata is closely related to the well-known Iceland moss (Cetraria islandica) but is distinguished by its more intricately branched, darker thallus and different chemistry. It plays important ecological roles in tundra [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and provides winter forage for caribou and reindeer.
 
 ## Taxonomy and Morphology
 
@@ -59,13 +59,13 @@ The species is an important winter food source for caribou (Rangifer tarandus) a
 
 As a terricolous lichen, C. aculeata influences soil development in tundra ecosystems. The thallus traps wind-blown organic particles and mineral dust, contributing to soil organic matter accumulation and surface stabilization.
 
-The species is sensitive to overgrazing by reindeer and caribou herds. Intensive grazing reduces lichen biomass and can shift community composition toward less palatable or faster-growing species. Recovery from overgrazing may take decades.
+The species is sensitive to overgrazing by reindeer and caribou herds. Intensive grazing reduces lichen biomass and can shift [[core-endorhiza-bacterial-community-composition-cannabis]] toward less palatable or faster-growing species. Recovery from overgrazing may take decades.
 
-Cetraria aculeata is a useful bioindicator of Arctic ecosystem health. Changes in its abundance and distribution reflect long-term shifts in climate, grazing pressure, and permafrost stability across tundra landscapes.
+Cetraria aculeata is a useful bioindicator of Arctic ecosystem health. Changes in its abundance and distribution reflect long-term shifts in climate, grazing pressure, and permafrost [[psilocybin-level-stability-across-flushes]] tundra landscapes.
 
 ## Chemistry and Traditional Uses
 
-Cetraria aculeata produces protolichesterinic acid and lichesterinic acid as its characteristic secondary metabolites. These fatty acid derivatives are detectable by thin-layer chromatography and give positive C+ (red) and K+ (yellow) spot test reactions.
+Cetraria aculeata produces protolichesterinic acid and lichesterinic acid as its characteristic [[antifungal-secondary-metabolites-coprophilous-fungi]]. These fatty acid derivatives are detectable by thin-layer chromatography and give positive C+ (red) and K+ (yellow) spot test reactions.
 
 Protolichesterinic acid has documented antimicrobial and anti-inflammatory properties in laboratory studies. It has been investigated for potential antitumor activity, with moderate cytotoxicity demonstrated against certain cancer cell lines.
 
@@ -106,6 +106,8 @@ Net photosynthesis in C. aculeata is optimized at moderate thallus water content
 The dark pigmentation of the thallus may serve a photoprotective function in the high-light Arctic environment. Melanin-like compounds in the cortex absorb excess radiation and protect the photobiont from photoinhibition during the continuous daylight of Arctic summers.
 
 ## See Also
+
+- [[desmarestia-aculeata]]
 
 - [[cetraria-islandica]]
 - [[cladonia-rangiferina]]

@@ -10,7 +10,7 @@ sources:
 
 # Cannabis and Huntington's Disease
 
-**Source:** The Cannabis Health Index (Uwe Blesching, 2017)
+**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]] (Uwe Blesching, 2017)
 
 **Last Updated:** 2026-04-18
 
@@ -26,7 +26,7 @@ Huntington's disease (HD) or Huntington's chorea is a degenerative genetic disea
 
 - **CBD (1986):** Three HD patients unresponsive to pharmaceuticals received oral CBD. After week one, 5-15% improvement; after week two, 20-40% improvement in objective and subjective tests. Mild transient hypotension was the only adverse effect.
 
-- **Sativex/THC+CBD (2011, Madrid):** Pre-clinical evidence that Sativex acts as a neuroprotective agent capable of delaying disease progression in HD. Researchers called for urgent clinical trials.
+- **Sativex/THC+CBD (2011, Madrid):** Pre-clinical evidence that Sativex acts as a neuroprotective agent capable of delaying disease progression in HD. Researchers called for urgent [[mushroom-cancer-clinical-trials-overview]].
 
 - **Endocannabinoid system review (2011, Madrid):** Activation of CB2 receptors leads to slower neurodegeneration in both Parkinson's and HD. Cannabinoids with antioxidant properties and CB2 activation capability are promising therapeutic agents.
 
@@ -62,7 +62,7 @@ THC may exacerbate psychiatric symptoms in HD patients, particularly depression,
 
 The progressive nature of HD means that dosing needs may change as the disease advances. Early-stage patients may benefit from neuroprotective strategies, while later-stage patients may prioritize symptom management (chorea reduction, sleep improvement, appetite stimulation). Caregiver involvement in dosing decisions is essential as cognitive decline progresses.
 
-CBD's safety profile is well-established in the epilepsy literature (Epidiolex trials), providing reassurance for long-term use. Common side effects include somnolence, fatigue, and gastrointestinal symptoms. See [[blesching-cannabis-huntingtons-disease]]
+CBD's [[cannabis-safety-profile-and-overdose-risk]] is well-established in the epilepsy literature (Epidiolex trials), providing reassurance for long-term use. Common side effects include somnolence, fatigue, and gastrointestinal symptoms. See [[blesching-cannabis-huntingtons-disease]]
 
 - [[cannabis-for-parkinsons-disease]]
 - [[cannabis-cbd-therapeutic-profile]]
@@ -99,13 +99,13 @@ A subsequent 1991 double-blind, randomized crossover trial from the University o
 
 In 2007, Spanish scientists examined the neuroprotective potential of CBD in the context of Huntington's disease. Results indicated that CBD provides neuroprotection against 3NP-induced striatal damage, which may be relevant for HD, a disorder characterized by preferential loss of striatal projection neurons. This neuroprotective capability appears to be based exclusively on the antioxidant properties of CBD.
 
-This antioxidant mechanism is significant because oxidative stress is believed to contribute to neuronal death in HD. CBD's ability to scavenge reactive oxygen species without psychoactive effects makes it an attractive candidate for neuroprotective treatment.
+This antioxidant mechanism is significant because [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] is believed to contribute to neuronal death in HD. CBD's ability to scavenge reactive oxygen species without psychoactive effects makes it an attractive candidate for neuroprotective treatment.
 
 ## Sativex Preclinical Evidence
 
 A 2011 study from Madrid, Spain, examined whether Sativex (THC/CBD combination) could protect animals from HD progression and development. The authors observed that the study provides pre-clinical evidence in support of a beneficial effect of the cannabis-based medicine Sativex as a neuroprotective agent capable of delaying disease progression in HD.
 
-The researchers noted that HD is currently poorly managed in the clinic, prompting an urgent need for clinical trials with agents showing positive results in pre-clinical studies. The combination of THC and CBD in Sativex may offer advantages over isolated CBD through the entourage effect.
+The researchers noted that HD is currently poorly managed in the clinic, prompting an urgent need for clinical trials with agents showing positive results in pre-clinical studies. The combination of THC and CBD in Sativex may offer advantages over isolated CBD through the [[cannabis-terpene-entourage-effect-profiles]].
 
 ## Proposed Mechanisms
 

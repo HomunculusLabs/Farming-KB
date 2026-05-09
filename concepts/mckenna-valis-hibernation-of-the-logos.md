@@ -72,7 +72,7 @@ experience as "part of a single continuum."
 
 The implication is that the Logos was never truly dormant but merely inaccessible
 through ordinary channels of perception. The Nag Hammadi texts preserved the
-theoretical framework; the psychedelic experience provides the experiential access.
+theoretical framework; the [[leary-psychedelic-experience-bardo-mapping]] provides the experiential access.
 Both are necessary. Information without experience is inert; experience without
 conceptual framework is unintelligible.
 
@@ -97,7 +97,7 @@ they come more and more to understand the true situation in which they are embed
 
 McKenna extended the Valis framework with a mythological elaboration. The Spanish
 conquest, having destroyed indigenous mushroom cults and driven them into the mountains
-of Oaxaca, unexpectedly encountered "the body of Osiris — the condensed body of Eros —
+of Oaxaca, unexpectedly encountered "the [[mckenna-dmt-alienated-soul-body-of-osiris-eschatology]] — the condensed body of Eros —
 in the mountains of Mexico where Eros has retreated at the coming of the Christus." The
 discovery of the mushroom by Wasson "unleashed" this condensed body, reactivating an
 erotic and ecstatic principle that orthodox Christianity had suppressed.
@@ -120,6 +120,8 @@ endosymbiosis — the incorporation of one organism into another with mutual
 transformation of both parties.
 
 ## See Also
+
+- [[mckenna-philo-judaeus-logos-hearing-to-beholding]]
 
 - [[mckenna-tryptamines-logos-consciousness]]
 - [[mckenna-sect-of-the-phoenix-and-archaic-secret-knowledge]]

@@ -3,14 +3,14 @@
 
 ## Overview
 
-Ralph Metzner identified darkness or low-light conditions as one of the three distinctive features that differentiate traditional [[psychedelic-psychotherapy]] sessions. The near-universal use of darkness in indigenous entheogenic rituals across cultures suggests that reduced visual stimulation plays a critical role in facilitating visionary experiences — a principle that connects shamanic practice to modern sensory deprivation research and the neuroscience of hallucinogenic states.
+Ralph Metzner identified darkness or low-light conditions as one of the three [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] that differentiate traditional [[psychedelic-psychotherapy]] sessions. The near-universal use of darkness in indigenous entheogenic rituals across cultures suggests that reduced visual stimulation plays a critical role in facilitating visionary experiences — a principle that connects shamanic practice to modern sensory deprivation research and the neuroscience of hallucinogenic states.
 
 ## The Three Distinctive Features
 
 Before examining darkness specifically, it is worth situating it within the three features Metzner identified as distinguishing shamanic ceremonies from psychotherapy sessions:
 
 1. **Minimal talking** — Traditional ceremonies involve very little verbal interaction among participants, except during preparation or post-experience clarification
-2. **Essential singing** — The shaman's singing, with rapid rhythmic beat, is invariably considered essential to healing and divination
+2. **Essential singing** — The shaman's singing, with rapid rhythmic beat, is invariably considered essential to [[metzner-shamanic-healing-and-divination-paradigm]]
 3. **Darkness or low light** — Ceremonies are almost always conducted in darkness or very dim light, which facilitates the emergence of visions
 
 The first two features (silence and singing) have received considerable attention in the literature on shamanic drumming and icaros. The third feature — darkness — has been less systematically analyzed, despite its ubiquity and apparent importance.
@@ -41,7 +41,7 @@ The mirror in the Bwiti ceremony serves a specific divinatory function — it is
 
 ### Sensory Gating and the Default Mode Network
 
-The use of darkness in entheogenic ceremonies aligns with what modern neuroscience has discovered about the brain's visual processing systems:
+The use of [[shamanic-singing-and-darkness-in-entheogenic-ceremonies]] ceremonies aligns with what modern neuroscience has discovered about the brain's visual processing systems:
 
 - **Reduced sensory input** lowers the threshold for internally generated imagery to reach conscious awareness
 - **The default mode network (DMN)** becomes more active when external stimuli are minimized, creating conditions favorable for the kind of introspective and visionary experiences associated with psychedelics
@@ -61,7 +61,7 @@ The Ganzfeld effect — a phenomenon of perceptual deprivation caused by exposur
 
 ### Eye Shades in Neo-Shamanic Circles
 
-Metzner notes that in modern [[stanislav-grof]]'s holotropic breathwork sessions routinely use eye shades, and the combination of accelerated breathing, evocative music, and darkness produces experiences remarkably similar to those reported in shamanic entheogenic ceremonies. This convergence supports the idea that darkness is not merely a traditional accretion but a functional component of the visionary experience.
+Metzner notes that in modern [[stanislav-grof]]'s [[metzner-holotropic-breathwork-and-grof-perinatal-matrices]] sessions routinely use eye shades, and the combination of accelerated breathing, evocative music, and darkness produces experiences remarkably similar to those reported in shamanic entheogenic ceremonies. This convergence supports the idea that darkness is not merely a traditional accretion but a functional component of the visionary experience.
 
 ### Psychedelic Research Settings
 
@@ -91,6 +91,6 @@ The consistent pattern is that visual input is minimized but not eliminated enti
 
 ## See Also
 
-- hallucinogens psychotherapy and shamanism
-- mazatec mushroom veladas darkness singing and christian syncretism
+- [[metzner-hallucinogens-psychotherapy-and-shamanism]] and shamanism
+- mazatec mushroom [[metzner-mazatec-mushroom-veladas-darkness-singing-and-christian-syncretism]] singing and christian syncretism
 - [[psychedelic-experience-preparation]]

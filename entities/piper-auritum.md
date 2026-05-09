@@ -13,12 +13,12 @@ sources:
   - Dyer, L.A. & Palmer, A.D. (2004). "Piper: A Model Genus for Studies of Phytochemistry, Ecology, and Evolution." Springer.
   - Gupta, M.P. (1995). "270 Plants of South America with Medicinal Properties." CYTED.
   - Ríos, J.L. et al. (2007). "Medicinal plants used in the traditional medicine of Mesoamerica." Journal of Ethnopharmacology, 110(3), 410-422.
-  - Marques, A.M. et al. (2010). "Chemical composition and antimicrobial activity of the essential oil of Piper auritum." Journal of Ethnopharmacology, 129(1), 149-156.
+  - Marques, A.M. et al. (2010). "Chemical composition and antimicrobial activity of the [[permaculture-designers-manual-essential-oil-plants]] of Piper auritum." Journal of Ethnopharmacology, 129(1), 149-156.
 ---
 
 ## Overview
 
-**Piper auritum**, commonly known as hoja santa or root beer plant, is a perennial herbaceous plant in the family Piperaceae. It is native to tropical and subtropical regions of the Americas, ranging from Mexico through Central America into northern South America.
+**Piper auritum**, commonly known as hoja santa or root beer plant, is a perennial herbaceous plant in the family Piperaceae. It is native to tropical and subtropical regions of the Americas, ranging from Mexico through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] into northern South America.
 
 The species is most widely recognized for its large, heart-shaped leaves that emit a distinctive anise-like aroma when crushed. This characteristic scent is primarily due to the presence of safrole in its essential oil.
 
@@ -50,9 +50,9 @@ The essential oil of *Piper auritum* is composed predominantly of safrole (70–
 
 Safrole is a phenylpropene compound recognized for its insecticidal, fungicidal, and bactericidal properties. Traditional use of hoja santa leaves as insect repellents in stored grain has been validated by laboratory studies.
 
-Extracts of *P. auritum* have demonstrated antimicrobial activity against *Staphylococcus aureus*, *Escherichia coli*, *Candida albicans*, and *Aspergillus niger* in in vitro assays. The methanolic leaf extract shows the broadest spectrum of inhibition.
+Extracts of *P. auritum* have demonstrated antimicrobial activity against *Staphylococcus aureus*, *Escherichia coli*, *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*, and *Aspergillus niger* in in vitro assays. The methanolic leaf extract shows the broadest spectrum of inhibition.
 
-Anti-inflammatory activity has been documented in rodent models, where aqueous leaf extracts reduced carrageenan-induced paw edema. This supports traditional use of leaf poultices for treating inflammatory skin conditions.
+Anti-inflammatory activity has been documented in rodent models, where aqueous leaf extracts reduced carrageenan-induced paw edema. This supports traditional use of leaf poultices for treating inflammatory [[cannabis-for-skin-conditions-detailed]].
 
 **⚠️ Note:** Safrole is classified by the FDA as a prohibited food additive due to its hepatocarcinogenic potential in rodent studies at high doses. Culinary use of hoja santa leaves in traditional preparations involves far lower concentrations and is generally considered safe.
 
@@ -90,9 +90,9 @@ The essential oil released from crushed leaves exhibits allelopathic properties,
 
 *Piper auritum* belongs to the *Macrostachys* clade of *Piper*, a group characterized by large, cordate leaves and erect inflorescences. Its closest relatives include *P. umbellatum* and *P. hispidum*, which share morphological and chemical similarities.
 
-The species can be distinguished from *P. sanctum* (a morphologically similar Mexican species) by its larger leaf size, more pronounced auriculate leaf base, and higher safrole content in the essential oil. *P. sanctum* contains more diverse terpenoid profiles.
+The species can be distinguished from *P. sanctum* (a morphologically similar Mexican species) by its larger leaf size, more pronounced auriculate leaf base, and higher safrole content in the essential oil. *P. sanctum* contains more diverse [[cannabis-terpenoid-profiles-detailed]].
 
-Other aromatic *Piper* species used similarly in traditional medicine include *P. marginatum* (wild pepper), *P. aduncum* (matico), and *P. hieronymi*. These species share the general piperaceous chemistry but differ in their specific secondary metabolite profiles.
+Other aromatic *Piper* species used similarly in traditional medicine include *P. marginatum* (wild pepper), *P. aduncum* (matico), and *P. hieronymi*. These species share the general piperaceous chemistry but differ in their specific [[fungal-elicitors-enhanced-secondary-metabolite-production]] profiles.
 
 ## See Also
 

@@ -1,5 +1,5 @@
 ---
-title: Gaia's Garden Meadow Garden Polyculture
+title: Gaia's gaias garden meadow garden polyculture Garden Polyculture
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 # Meadow Garden Polyculture
 
-Toby Hemenway's example of a self-sustaining polyculture garden that works like a meadow — providing its own fertilization, weed suppression, pest control, and moisture management. From the foreword of Gaia's Garden.
+Toby Hemenway's example of a self-sustaining polyculture garden that works like a meadow — providing its own fertilization, weed suppression, [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], and moisture management. From the foreword of Gaia's Garden.
 
 ## The Meadow Garden Concept
 
@@ -43,8 +43,8 @@ The meadow garden embodies the core insight from [[gaias-garden-ecology-for-gard
 ### Stacking Functions
 
 Every plant in the polyculture performs multiple functions — food production, insect attraction, soil building, weed suppression, moisture retention — embodying the [[gaias-garden-ecology-for-gardeners]] — ecological principles
-- [[gaias-garden-cover-crops-soil-building]] — cover crops
-- [[gaias-garden-design-process]] — the design process
+- [[gaias-garden-cover-crops-soil-building]] — [[gaias-garden-cover-crops-soil-building]]
+- [[gaias-garden-design-process]] — the [[hemenway-garden-design-process-observation-and-visioning]]
 - [[gaias-garden-soil-food-web-and-humus]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
 ## Practical Considerations
@@ -63,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +105,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

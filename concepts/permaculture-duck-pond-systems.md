@@ -13,7 +13,7 @@ Duck pond systems in permaculture integrate water management, animal husbandry, 
 
 ## Benefits of Ducks Over Chickens
 
-- Better pest control in wet areas (slugs, snails, aquatic insects)
+- Better [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] in wet areas (slugs, snails, aquatic insects)
 - Manure is higher in nitrogen and less likely to burn plants when diluted in water
 - Do not scratch up gardens or damage soil structure
 - More cold-hardy in many breeds
@@ -52,22 +52,22 @@ Aquatic plants are essential for maintaining water quality in duck ponds. They a
 
 ### Floating Plants
 - **Duckweed** (Lemna spp.) — extremely productive, high protein duck food, rapid nutrient absorption
-- **Water hyacinth** (where legal) — aggressive nutrient uptake, duck forage
+- **Water hyacinth** (where legal) — aggressive [[plant-nutrient-uptake-mechanisms]], duck forage
 - **Water lettuce** — ornamental and functional nutrient filter
 
 ### Marginal/Emergent Plants
 - **Cattails** (Typha spp.) — nutrient filter, edge stabilizer, multiple yields (food, thatch, fiber)
 - **Iris** — beautiful, filters nutrients, rhizomes stabilize banks
 - **Pickerelweed** — ornamental, wildlife habitat, nutrient uptake
-- **Watercress** — edible, high nutrient demand, excellent biofilter
-- **Sweet flag** (Acorus calamus) — bank stabilizer, traditional medicinal
+- **Watercress** — edible, high [[vegetable-nutrient-demand-levels]], excellent biofilter
+- **Sweet flag** ([[sweet-flag-acorus-calamus-ethnobotany]]) — bank stabilizer, traditional medicinal
 - **Rushes and sedges** — bank stabilization, wildlife habitat
 
 ### Multi-Cell Filtration
 For larger systems, create a chain of ponds or wetland cells:
 1. **Duck pond** — primary water body where ducks live
 2. **Settling pond** — slower water allows sediment to drop out
-3. **Constructed wetland** — densely planted cell that absorbs remaining nutrients
+3. **[[comparison-constructed-wetland-vs-backyard-pond]]** — densely planted cell that absorbs remaining nutrients
 4. **Clean water outlet** — to irrigation, stream, or recharge
 
 ## Duck Forage Systems
@@ -81,7 +81,7 @@ Ducks are excellent foragers and can obtain a significant portion of their diet 
 - Rice in paddies (ducks eat pests and weeds while fertilizing rice)
 
 ### Terrestrial Forage
-- Slugs and snails (ducks are voracious slug hunters — excellent for gardens)
+- [[query-how-to-get-rid-of-slugs-and-snails-organically]] (ducks are voracious slug hunters — excellent for gardens)
 - Grass and clover (short grass paddocks around the pond)
 - Insects in mulch and compost areas
 - Fallen fruit in orchards

@@ -2,7 +2,7 @@
 title: "Gram-Scale Chromatography-Free Synthesis of Psilocybin"
 source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
 topics: ["psilocybin", "psilocin", "synthesis", "gram-scale",
-  "chromatography-free", "zwitterionic phosphate", "Shirota",
+  "chromatography-free", "[[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]]", "Shirota",
   "Hakamata", "Goda", "4-hydroxyindole", "magic mushroom"]
 ---
 
@@ -12,7 +12,7 @@ topics: ["psilocybin", "psilocin", "synthesis", "gram-scale",
 
 In 2003, Osamu Shirota, Wataru Hakamata, and Yukihiro Goda at
 Japan's National Institute of Health Sciences published a concise
-large-scale synthesis of psilocin and psilocybin — the principal
+large-scale synthesis of [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] — the principal
 hallucinogenic constituents of "magic mushrooms" — achieved
 entirely **without chromatographic purification**. This was a
 significant practical achievement, as previous syntheses of
@@ -24,7 +24,7 @@ psilocybin's high polarity.
 The synthesis was motivated by regulatory needs: since June 6,
 2002, fungi containing psilocin and psilocybin had been regulated
 by Japan's Narcotics and Psychotropic Control Law. Chromatographic
-identification methods (TLC, GC, HPLC) required standard compounds,
+[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] (TLC, GC, HPLC) required standard compounds,
 which were difficult to obtain in pure form from natural sources.
 
 ## The Psilocin Synthesis Route
@@ -88,13 +88,13 @@ linked at the nitrogen of the N,N-dimethyl part, forming a
 quaternary ammonium ion. NOESY spectra supported these linkages.
 Compound 8 was identified as a **zwitterionic N,O-dibenzyl
 phosphate derivative** — a novel intermediate not previously
-fully characterized in psilocybin synthesis.
+fully characterized in [[psilocin-psilocybin-synthesis-shirota]].
 
 The conversion from the expected O,O-dibenzyl phosphate
 intermediate (compound 7) to the zwitterionic N,O-dibenzyl
 phosphate (compound 8) occurred simply by suspending the worked-up
 reaction mixture in CH2Cl2 overnight. This spontaneous
-intramolecular benzyl migration was the key discovery that made
+[[shirota-zwitterion-discovery-intramolecular-benzyl-migration-phosphorylation]] migration was the key discovery that made
 chromatography-free synthesis possible.
 
 ## Isolation Without Chromatography
@@ -106,7 +106,7 @@ soluble, simple filtration separated the product from impurities
 in over 85% yield. The excess dibenzyl phosphate was removed by
 washing with CH2Cl2.
 
-Catalytic hydrogenolysis of compound 8 then led to psilocybin
+[[shirota-catalytic-hydrogenolysis-debenzylation-psilocybin]] of compound 8 then led to psilocybin
 (compound 2) as a crystalline product without any chromatographic
 purification — unlike the Nichols and Frescas method which
 required anion-exchange resin. The isolated yield of psilocybin

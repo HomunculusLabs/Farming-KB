@@ -1,5 +1,5 @@
 ---
-title: "Cold Hardiness Testing and Ratings"
+title: "coleman cold hardiness testing ratings Testing and Ratings"
 created: 2026-04-28
 tags: [cold-hardiness, temperature, varieties, testing, winter-harvest]
 date: 2026-04-25
@@ -35,14 +35,14 @@ modification and the production of antifreeze proteins.
 Full acclimation typically requires 2 to 4 weeks of progressively
 colder temperatures. Plants that are actively growing in warm
 conditions cannot instantly switch to a cold-hardy state. This is
-why Coleman recommends that winter crops be established well before
+why Coleman recommends that [[coleman-semi-hibernating-winter-crops-harvest-extension]] be established well before
 the first hard freeze, allowing natural acclimation to occur.
 
 ## Killing Temperatures for Common Winter Crops
 
 Based on Coleman's observations and published research, the following
 approximate killing temperatures apply to fully acclimated plants
-grown in protected culture with row covers:
+grown in protected culture with [[solomon-row-covers-and-season-extension]]:
 
 **Extremely hardy (survive below 10 degrees Fahrenheit):**
 - Mache: 5 degrees F or lower
@@ -55,7 +55,7 @@ faster than ground-level soil.
 
 ## Interactions with Other Stress Factors
 
-Cold is rarely the only stress factor in winter. Low light, wind
+Cold is rarely the only stress factor in winter. [[darkness-low-light-facilitation-entheogenic-ceremonies]], wind
 desiccation, waterlogging, and pest pressure all interact with
 temperature stress. Plants that are cold-hardy may still fail if
 other stressors are severe. Coleman's integrated approach — combining
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

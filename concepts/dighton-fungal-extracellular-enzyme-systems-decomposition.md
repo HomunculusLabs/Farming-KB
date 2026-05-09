@@ -1,5 +1,5 @@
 ---
-title: "Fungal Extracellular Enzyme Systems in Decomposition"
+title: "Fungal fungal-extracellular-enzyme-production Systems in Decomposition"
 created: 2026-04-26
 tags:
   - mycology
@@ -31,9 +31,9 @@ fungi and their biochemical effects on organic resources in plant
 litters. The major enzyme systems correspond to the major plant
 polymers:
 
-**Lignin** is attacked by lignin peroxidase, manganese peroxidase,
+**Lignin** is attacked by [[fungal-lignin-peroxidase-veratryl-alcohol]], [[fungal-manganese-peroxidase-remediation]],
 glucose oxidase, cellobiose oxidase, arylalcohol oxidase,
-glyoxaloxidase, and laccases. These ligninolytic enzymes are produced
+glyoxaloxidase, and laccases. These [[singh-ligninolytic-enzymes-fungal-bioremediation]] are produced
 primarily by white rot basidiomycetes and are critical for breaking
 down the most recalcitrant plant polymer.
 
@@ -64,7 +64,7 @@ et al. (1993) developed a model containing both fungal (microbial) and
 soil nutrient controls over enzyme expression.
 
 In wood decomposition, production of lignocellulase enzyme did not
-differ between locations in a temperate forest ecosystem. However,
+differ between locations in a temperate [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]]. However,
 rates of nitrogen and phosphorus immobilization varied considerably.
 The spatial variability of lignocellulase was much less than for acid
 phosphatase and N-acetylglucosaminidase activity, suggesting a large
@@ -100,7 +100,7 @@ Recent studies using microscopic Fourier transform infrared (FT-IR)
 spectrometry have begun to reveal real-time microscale (100 by 100
 micrometer) multichanges in leaf surface carbohydrate chemistry caused
 by fungal colonization. Scaling these observations to ecosystem levels
-and relating them to nutrient cycling remains a challenge.
+and relating them to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] remains a challenge.
 
 ## Non-Fungal Contributors
 
@@ -115,4 +115,7 @@ organisms present at different stages of resource decay.
 
 - [[dighton-fungal-decomposition-nutrient-cycling]]
 - [[dighton-fungal-decomposition-leaf-litter-dynamics]]
-- [[fungal-enzyme-activity-nutrient-availability]]
+- fungal-enzyme-activity-nutrient-availability
+- [[saprotrophic-fungi]]
+- [[decomposition]]
+- [[ligninolytic-enzymes]]

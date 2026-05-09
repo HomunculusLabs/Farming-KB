@@ -1,5 +1,5 @@
 ---
-title: McKenna on Minoan Crete and Mushroom Religion
+title: McKenna on mckenna-food-gods-minoan-crete-mushroom-religion and Mushroom Religion
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -24,7 +24,7 @@ The ambience of Minoan-Mycenaean religion was one of realism, a sense of the vit
 
 The question naturally arises of the relationship of Minoan society to the Archaic source of power behind the partnership ideal, namely, mushroom psilocybin. Was the old mushroom religion of the African Eden preserved and absorbed into the life of Minoan culture?
 
-What are we to make of the worship of pillars that characterized Minoan religion, remembering that Soma was called "pillar of the World" in the Rig Veda? The palaces had rooms each with a single round column in the center, a column broadening toward the top — precisely the shape of a mushroom cap. Was the pillar somehow an esoteric reference to the mushroom mystery, or a last aniconic vestige of the mushroom image?
+What are we to make of the worship of pillars that characterized Minoan religion, remembering that Soma was called "pillar of the World" in the Rig Veda? The palaces had rooms each with a single round column in the center, a column broadening toward the top — precisely the shape of a mushroom cap. Was the pillar somehow an esoteric reference to the mushroom mystery, or a last aniconic vestige of the [[psilocybin-mushroom-image-guide-habitat-clues]]?
 
 ## The Myth of Glaukos
 
@@ -32,7 +32,7 @@ A curious and suggestive myth may shed light on the problem of psychoactive plan
 
 While Glaukos was still a small child, he died from falling into a jar (a pithos) filled with honey while pursuing a rat or fly. Polyidos, a seer, eventually found the body by divination. Shut up in a tomb with the dead body, Polyidos saw a snake approach the corpse, killed it, and then watched a second snake return with an herb that restored the first snake to life. Polyidos took the same herb and applied it to Glaukos, thereby raising him from the dead.
 
-McKenna sees Glaukos — whose name means "blue-gray," the very color of psilocybin mushrooms when bruised — as symbolic of the mushroom itself. The youth preserved in the jar of honey represents mushrooms preserved in honey, the very preservation method that may have led to the gradual substitution of mead for mushroom sacrament. Wasson mentions the frequent allusions to honey in connection with Soma in the Rig Veda.
+McKenna sees Glaukos — whose name means "blue-gray," the very color of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] when bruised — as symbolic of the mushroom itself. The youth preserved in the jar of honey represents mushrooms preserved in honey, the very preservation method that may have led to the gradual substitution of mead for mushroom sacrament. Wasson mentions the frequent allusions to honey in connection with Soma in the Rig Veda.
 
 ## Honey and Opium in Minoan Religion
 
@@ -44,7 +44,7 @@ A remarkable illustration shows the Goddess in association with a beehive and ho
 
 ## The Last Outpost of Partnership
 
-The great mystery cults that coexisted in the ancient Greek world of the fourth century B.C., which we call Dionysian and Eleusinian, were the last frail outposts in the west of a tradition of using psychoactive plants to dissolve personal boundaries and gain access to gnosis — true knowledge of the nature of things — that was many thousands of years old.
+The great [[ancient-greek-mystery-cults-comparison]] that coexisted in the ancient Greek world of the fourth century B.C., which we call Dionysian and Eleusinian, were the last frail outposts in the west of a tradition of using psychoactive plants to dissolve personal boundaries and gain access to gnosis — true knowledge of the nature of things — that was many thousands of years old.
 
 See also:
 - [[mckenna-catal-huyuk-natufian-link]]
@@ -54,7 +54,7 @@ See also:
 
 ## Significance in Psychedelic Thought
 
-McKenna's work represents one of the most ambitious attempts to construct a comprehensive theory of the role of psychoactive plants in human history and culture. While academic anthropologists have been skeptical of many specific claims, his ideas have been enormously influential in psychedelic culture and continue to inspire research into the relationship between psychoactive substances and human consciousness. The concept of an Archaic Revival — the recovery of ancient plant-based wisdom — has resonated with the growing interest in ethnobotany, ecological consciousness, and the therapeutic potential of psychedelic substances documented in [[mckenna-food-of-the-gods-thesis]], which traces the relationship between humans and psychoactive plants from prehistory to the present. The themes explored here connect directly to his discussions of [[mckenna-archaic-revival]] as counter-movements to the suppression of plant-based ecstatic religion.
+McKenna's work represents one of the most ambitious attempts to construct a comprehensive theory of the role of psychoactive plants in human history and culture. While academic anthropologists have been skeptical of many specific claims, his ideas have been enormously influential in psychedelic culture and continue to inspire research into the relationship between psychoactive substances and human consciousness. The concept of an [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]] — the recovery of ancient plant-based wisdom — has resonated with the growing interest in ethnobotany, ecological consciousness, and the therapeutic potential of psychedelic substances documented in [[mckenna-food-of-the-gods-thesis]], which traces the relationship between humans and psychoactive plants from prehistory to the present. The themes explored here connect directly to his discussions of [[mckenna-archaic-revival]] as counter-movements to the suppression of plant-based ecstatic religion.
 
 ## See Also
 
@@ -68,7 +68,7 @@ This analysis is part of McKenna's larger project, articulated most fully in [[p
 
 ## Contemporary Relevance
 
-McKenna's ideas about the relationship between psychoactive plants and human consciousness have found new relevance in the context of the modern psychedelic renaissance. Research into psychedelic-assisted therapy, documented in [[psychedelic-therapy-mechanisms]], has demonstrated that substances like psilocybin can produce mystical-type experiences that have lasting positive effects on personality, well-being, and attitudes toward death. These findings lend some empirical support to McKenna's argument that psychoactive plants have played a significant role in shaping human consciousness and culture.
+McKenna's ideas about the relationship between psychoactive plants and human consciousness have found new relevance in the context of the modern psychedelic renaissance. Research into psychedelic-assisted therapy, documented in [[psychedelic-therapy-mechanisms]], has demonstrated that substances like psilocybin can produce mystical-type experiences that have lasting positive effects on personality, well-being, and [[weil-cultural-attitudes-toward-altered-states]] death. These findings lend some empirical support to McKenna's argument that psychoactive plants have played a significant role in shaping human consciousness and culture.
 ## Practical Considerations
 
 Successful implementation of McKenna on Minoan Crete and Mushroom Religion requires attention to
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

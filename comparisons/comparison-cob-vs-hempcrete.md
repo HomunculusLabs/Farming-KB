@@ -12,7 +12,7 @@ type: comparison
 
 ## Overview
 
-Cob and hempcrete are two of the most popular natural building materials
+Cob and hempcrete are two of the most popular natural [[natural-building-materials-guide]]
 available to owner-builders and sustainable construction professionals.
 Both use earth- and plant-based ingredients, but they differ dramatically
 in their structural behavior, insulation properties, sourcing logistics,
@@ -106,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

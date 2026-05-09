@@ -15,7 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Nair PKR. "An Introduction to Agroforestry." Kluwer Academic Publishers, 1993.
-  - Jose S. "Agroforestry for Ecosystem Services and Environmental Benefits." Taylor & Francis, 2017.
+  - Jose S. "Agroforestry for [[biodiversity-of-fungi-ecosystem-services-agriculture]] and Environmental Benefits." Taylor & Francis, 2017.
   - FAO. "Agroforestry: A Decade of Development." Food and Agriculture Organization, 2019.
   - World Agroforestry Centre (ICRAF). "Trees for Food Security." Annual Report, 2023.
   - Garrett HE, Buck LE. "Agroforestry Practices." University of Missouri Center for Agroforestry, 2022.
@@ -23,7 +23,7 @@ sources:
 
 # Agroforestry
 
-**Agroforestry** is an integrated land-use management system in which **trees and shrubs are deliberately combined with agricultural crops and/or livestock** on the same parcel of land. Unlike conventional monoculture farming, agroforestry creates structurally complex, multi-strata systems that mimic natural ecosystems while simultaneously producing food, fiber, fuel, and timber. The practice is recognized as one of the most effective strategies for climate change mitigation, biodiversity conservation, and sustainable rural livelihoods.
+**Agroforestry** is an integrated land-use management system in which **trees and shrubs are deliberately combined with agricultural crops and/or livestock** on the same parcel of land. Unlike conventional monoculture farming, agroforestry creates structurally complex, multi-strata systems that mimic natural ecosystems while simultaneously producing food, fiber, fuel, and timber. The practice is recognized as one of the most effective strategies for climate change mitigation, [[fungal-biodiversity-conservation-status]], and sustainable rural livelihoods.
 
 Agroforestry occupies the conceptual and practical space between **forestry** and **agriculture**, drawing on ecological principles to design productive systems that are both economically viable and environmentally regenerative. It is a cornerstone practice within permaculture design and is promoted by the United Nations Food and Agriculture Organization (FAO) as a critical pathway toward the Sustainable Development Goals.
 
@@ -55,7 +55,7 @@ Rows of trees or shrubs are planted at regular intervals with agricultural crops
 
 - **Common tree species:** *Leucaena leucocephala*, *Gliricidia sepium*, *Robinia pseudoacacia*, *Tagasaste* (*Chamaecytisus palmensis*)
 - **Crops:** Maize, wheat, beans, vegetables, forages
-- **Benefits:** Nitrogen fixation (leguminous trees), biomass mulch, wind protection, microclimate improvement
+- **Benefits:** [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] (leguminous trees), biomass mulch, wind protection, microclimate improvement
 - **Spacing:** Typically 4–10 meters between tree rows, with crops in 2–8 meter alleys
 - **Management:** Periodic tree coppicing to control shade and produce mulch/green manure
 
@@ -101,7 +101,7 @@ Intensive, multi-strata systems around homesteads, particularly common in tropic
 
 - **Structure:** 3–5 vertical layers — emergent trees, canopy trees, understory trees/shrubs, herbaceous plants, ground covers
 - **Species diversity:** 100–600+ species per hectare in some traditional systems
-- **Productivity:** Among the most productive land-use systems per unit area, producing food, medicine, fuel, fiber, and building materials year-round
+- **Productivity:** Among the most productive land-use systems per unit area, producing food, medicine, fuel, fiber, and [[natural-building-materials-guide]] year-round
 - **Examples:** Javanese *pekarangan*, Kerala homegardens, Amazonian *chacras*
 
 ## Ecological Benefits
@@ -124,17 +124,20 @@ Agroforestry systems sequester **2–9 times more carbon** than equivalent conve
 
 ### Soil Health
 
-- **Erosion control:** Canopy interception and root systems reduce soil loss by 50–90% compared to bare soil
+- **[[permplant-willows-salix-erosion-control-fodder]]:** Canopy interception and root systems reduce soil loss by 50–90% compared to bare soil
 - **Nutrient cycling:** Deep-rooted trees cycle nutrients from subsoil layers to the surface through leaf litter decomposition
 - **Organic matter:** Continuous leaf litter and root turnover increase soil organic carbon
-- **Mycorrhizal networks:** Tree roots maintain extensive mycorrhizal networks that benefit associated crops
+- **[[dighton-mycorrhizal-networks-carbon-transfer]]:** Tree roots maintain extensive mycorrhizal networks that benefit associated crops
 - **Water infiltration:** Improved soil structure increases water infiltration by 2–10× compared to compacted agricultural soils
 ## See Also
+
+- [[jude-hobbs]]
+- [[picrasma-quassioides]]
 
 - [[food-forest]] — Edible perennial polyculture systems
 - [[plant-guild]] — Functional plant groupings in permaculture
 - [[mycorrhizae]] — Symbiotic fungi critical to agroforestry tree-crop interactions
-- [[epimedium-sagittatum]]
+- epimedium-sagittatum
 - [[rhizophagus-irregularis]]
 - [[macrocybe-gigantea]]
 - [[thuja-occidentalis]]

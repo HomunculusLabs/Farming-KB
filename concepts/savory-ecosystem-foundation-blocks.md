@@ -1,8 +1,8 @@
 ---
-title: The Four Ecosystem Foundation Blocks
+title: The Four savory ecosystem foundation blocks Blocks
 created: 2026-04-26
-aliases: [ecosystem foundation blocks, four ecosystem processes,
-          succession, water cycle, mineral cycle, energy flow]
+aliases: [ecosystem foundation blocks, four [[fungal-ecosystem-processes-overview]],
+          succession, water cycle, [[savory-mineral-cycle-management]], energy flow]
 tags: [ecosystem-processes, succession, water-cycle, mineral-cycle,
       energy-flow]
 related: [savory-holistic-management-overview, savory-water-cycle-management,
@@ -16,7 +16,7 @@ type: concept
 
 # The Four Ecosystem Foundation Blocks
 
-At the heart of the Holistic Resource Management model lie four
+At the heart of the [[savory-holistic-resource-management-animal-impact]] Management model lie four
 interdependent processes that together constitute the functioning
 ecosystem. These are succession (community dynamics), the water cycle,
 the mineral cycle, and energy flow. All goals for all land must be
@@ -87,7 +87,7 @@ Mineral nutrients must be brought to the surface by deep-rooted plants,
 returned to the soil surface as plant residues, broken down by
 biological activity, and carried underground by water and soil
 organisms. The key to maintaining this cycle is preventing leaching
-through adequate organic matter, which binds mineral elements and
+through adequate [[hamilton-composting-and-organic-matter-management]], which binds mineral elements and
 creates crumb structure that retains nutrients in the root zone.
 
 ## Energy Flow
@@ -102,7 +102,7 @@ into usable form. Animals at each subsequent level convert some of that
 energy while expending the rest in their own life processes. The broader
 the base of plant capture, the more energy is available at every level
 above. Management can widen this base by increasing standing crop
-volume, extending the growing season, and expanding leaf area.
+volume, extending the [[savory-growing-season-and-non-growing-season-management]], and expanding leaf area.
 
 ## Tools for Managing the Foundation Blocks
 

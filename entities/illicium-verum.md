@@ -24,7 +24,7 @@ Star anise is essential in the production of oseltamivir (Tamiflu), an antiviral
 
 ## Taxonomy and Morphology
 
-**Illicium verum** Hook.f., Bot. Mag. 76: tab. 4517 (1850). Family Schisandraceae (formerly Illiciaceae under older classifications). The genus Illicium contains approximately 40 species distributed across Asia, the Caribbean, and southeastern North America.
+**Illicium verum** Hook.f., Bot. Mag. 76: tab. 4517 (1850). Family Schisandraceae (formerly Illiciaceae under older classifications). The genus Illicium contains approximately 40 species distributed across Asia, the Caribbean, and southeastern [[psilocybin-north-america-pacific-northwest]].
 
 The tree is an evergreen reaching 5–10 m tall, occasionally up to 20 m under favorable conditions. The bark is grayish-brown and rough. Branches are spreading with a rounded to pyramidal crown.
 
@@ -42,7 +42,7 @@ Vietnam is the world's largest producer of star anise, accounting for approximat
 
 ## Chemistry and Pharmacology
 
-The fruit contains 5–8% essential oil, with trans-anethole (80–90%) as the dominant constituent. Other volatile compounds include estragole (methyl chavicol), limonene, α-pinene, and β-phellandrene. The distinctive licorice-like aroma and flavor come primarily from anethole.
+The fruit contains 5–8% [[permaculture-designers-manual-essential-oil-plants]], with trans-anethole (80–90%) as the dominant constituent. Other [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] include estragole (methyl chavicol), limonene, α-pinene, and β-phellandrene. The distinctive licorice-like aroma and flavor come primarily from anethole.
 
 Shikimic acid, a cyclitol intermediate in the shikimate pathway, occurs at 2–8% in dried fruits. It is the critical starting material for industrial synthesis of oseltamivir phosphate (Tamiflu). Star anise became strategically important during the 2005 H5N1 and 2009 H1N1 influenza pandemics.
 
@@ -78,9 +78,9 @@ Star anise is the world's primary botanical source of shikimic acid, a key precu
 
 Industrial extraction of shikimic acid from star anise fruits involves acid hydrolysis followed by purification through ion-exchange chromatography. One kilogram of oseltamivir requires approximately 10–13 kg of shikimic acid, which in turn requires 30–40 kg of dried star anise.
 
-The 2005 H5N1 avian influenza scare caused a dramatic spike in star anise demand, leading to supply shortages and price increases of 10-fold. Roche subsequently developed a fermentation-based production route using genetically engineered E. coli, reducing dependence on botanical supply.
+The 2005 H5N1 avian influenza scare caused a dramatic spike in star anise demand, leading to supply shortages and price increases of 10-fold. Roche subsequently developed a fermentation-based production route using [[singh-genetically-engineered-fungi-bioremediation]] E. coli, reducing dependence on botanical supply.
 
-Despite the availability of fermentation-derived shikimic acid, botanical extraction remains economically competitive. Vietnam and China maintain large star anise plantations specifically for shikimic acid production, and the botanical route continues to supply a significant share of global oseltamivir manufacturing.
+Despite the availability of fermentation-derived shikimic acid, botanical extraction remains economically competitive. Vietnam and China maintain large star anise plantations specifically for shikimic [[staycare-fungal-organic-acid-production-metal-leaching]], and the botanical route continues to supply a significant share of global oseltamivir manufacturing.
 
 ## Toxicity and Safety
 

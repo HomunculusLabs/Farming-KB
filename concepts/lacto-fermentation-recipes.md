@@ -15,7 +15,7 @@ sources:
 
 ## The Safety of Fermentation
 
-Lacto-fermentation has become more popular again in recent years because it saves the nutritional properties of the food preserved and has all kinds of friendly bacteria. Where other types of food preservation techniques try to kill all the bacteria, fermentation encourages it. It works because the fermentation process produces lactic acid, which kills botulism and other bacteria. For this reason, it can be much safer than canning or even eating raw vegetables, which can harbor E. coli.
+Lacto-fermentation has become more popular again in recent years because it saves the nutritional properties of the food preserved and has all kinds of friendly bacteria. Where other types of food preservation techniques try to kill all the bacteria, fermentation encourages it. It works because the fermentation process produces [[bionutrients-lab-lactic-acid-bacteria-serum]], which kills botulism and other bacteria. For this reason, it can be much safer than canning or even eating raw vegetables, which can harbor E. coli.
 
 ## Leaving Vegetables in the Ground
 
@@ -28,8 +28,8 @@ Some vegetables can be stored in the ground through winter:
 - **Cauliflower**: Leave in the garden until very cold.
 - **Chicory**: Cover well with dry straw and a sheet of plastic. Prevent rot by uncovering in mild weather.
 - **Curly kale**: Cover well with dry straw and a sheet of plastic.
-- **Endive**: Cut off the leaves, cover with 8 inches of dirt. Cover shoots with more dirt. Eat in early spring.
-- **Jerusalem artichoke**: Leave in the ground and cover with straw.
+- **Endive**: Cut off the leaves, cover with 8 inches of dirt. Cover shoots with more dirt. Eat in [[coleman-overwintered-onions-and-early-spring-crops]].
+- **[[jerusalem-artichoke]]**: Leave in the ground and cover with straw.
 - **Kohlrabi**: Leave in the garden.
 - **Leek**: Cover well with dry straw and a sheet of plastic.
 - **Lettuce**: Dig a 16 x 16 inch trench and lay the heads in not touching. Cover with straw.
@@ -47,7 +47,7 @@ It is highly recommended that you put the fermenting foods into jars with rubber
 One of the most popular foods in the world is fermented cabbage, also known as kimchi. Kimchi recipes vary, but they all have several ingredients in common:
 
 - 1 Napa cabbage cut up into 2-inch cubes or wedges
-- 1/4 cup sea salt
+- 1/4 cup [[jadam-sea-salt-and-mineral-solutions]]
 - garlic, 1/2 bulb per cabbage
 - 1 shredded radish
 - 1 onion
@@ -124,6 +124,6 @@ Alternatively, to use less energy, you can make sourdough in a crockpot by simpl
 - [[composting-materials-alternative]]
 
 ## Merged: Jam And Chutney Making
-> I pity them greatly, but I must be mum, for how could we do without sugar and rum? > ~ William Cowper Pectin can be bought from the store, but it is much better to use the natural pectin found in apples. - lacto fermentation recipes - [[soft-fruit-growing-organic]] - [[lacto-fermentation-and-food-preservation-methods]]
-- [[faires-low-energy-cooking-and-food-preservation]]
+> I pity them greatly, but I must be mum, for how could we do without sugar and rum? > ~ William Cowper Pectin can be bought from the store, but it is much better to use the natural pectin found in apples. - [[comparison-lacto-fermentation-vs-canning]] recipes - [[soft-fruit-growing-organic]] - [[lacto-fermentation-and-food-preservation-methods]]
+- faires-low-energy-cooking-and-food-preservation
 - [[wild-yeast-bread-baking]]

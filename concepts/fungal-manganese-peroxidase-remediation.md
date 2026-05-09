@@ -1,5 +1,5 @@
 ---
-title: Fungal Manganese Peroxidase in Bioremediation
+title: Fungal fungal manganese peroxidase remediation in Bioremediation
 created: 2026-04-28
 tags: [manganese-peroxidase, bioremediation, enzymes, white-rot-fungi, mycoremediation]
 date: 2026-04-25
@@ -14,13 +14,13 @@ type: concept
 
 Manganese peroxidase (MnP, EC 1.11.1.7) is an extracellular
 glycosylated heme enzyme secreted by white rot fungi that uses
-hydrogen peroxide to oxidize manganese(II) to manganese(III). The
+[[cervantes-hydrogen-peroxide-sterilization]] to oxidize manganese(II) to manganese(III). The
 generated manganese(III)-chelate acts as a freely diffusible,
 non-specific oxidant capable of degrading phenolic lignin subunits,
 aromatic pollutants, and, in the presence of co-substrates,
-non-phenolic compounds including polycyclic aromatic hydrocarbons.
+non-phenolic compounds including [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons.
 MnP is one of the three major families of lignin-modifying enzymes
-produced by white rot fungi, alongside lignin peroxidase and laccase,
+produced by white rot fungi, alongside [[fungal-lignin-peroxidase-veratryl-alcohol]] and laccase,
 and plays a central role in fungal bioremediation of organic
 pollutants.
 
@@ -55,13 +55,13 @@ peroxide concentrations are difficult to control in soil.
 
 Organic acids are essential for MnP function because they chelate
 and stabilize the manganese(III) product. Malonate, citrate,
-glyoxylate, and oxalate are common secondary metabolites of wood-
+glyoxylate, and oxalate are common [[antifungal-secondary-metabolites-coprophilous-fungi]] of wood-
 rotting basidiomycetes secreted alongside MnP. Oxalate shows unique
 effects in chelating and stabilizing manganese(III) and may bind
 closely to the heme during catalysis. Manganese(II) reacts with
 oxidized MnP as a monochelated complex but is released in its
 dichelated form. These organic acids are naturally produced by white
-rot fungi during lignin degradation, ensuring co-substrate
+rot fungi during [[query-how-does-lignin-degradation-by-fungi-work]], ensuring co-substrate
 availability in the fungal microenvironment.
 
 ## Oxidation of Phenolic Compounds
@@ -138,10 +138,11 @@ peroxide (toxic and difficult to supply at controlled rates), the
 risk of Compound III inactivation, and dependence on manganese(II)
 availability which varies with soil conditions. The co-substrate
 requirements (organic acids and, for non-phenolic degradation,
-lipids or thiols) add complexity but also provide flexibility in
-system design.
 ## See Also
 
 - [[mycoremediation-enzymology]]
 - [[fungal-laccase-redox-mediators]]
-- [[mycoremediation-of-pahs]]
+- mycoremediation-of-pahs
+- [[lignin-degradation]]
+- [[white-rot-fungi]]
+- [[mycoremediation]]

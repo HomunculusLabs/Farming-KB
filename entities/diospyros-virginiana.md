@@ -26,7 +26,7 @@ sources:
   - Crane EH, Reed C (2016). "Diospyros virginiana." In: Jankovics T,
     ed., Wild Crop Relatives: Genomic and Breeding Resources. Springer.
   - Peterson R (1977). A Field Guide to Edible Wild Plants of Eastern
-    and Central North America. Houghton Mifflin, Boston.
+    and Central [[psilocybin-north-america-pacific-northwest]]. Houghton Mifflin, Boston.
   - https://www.fs.usda.gov/wildflowers/plant-of-the-week/diospyros_virginiana.shtml
   - Fulbright TP (2004). "Persimmon (Diospyros virginiana) Ecology and
     Management." USDA Forest Service General Technical Report.
@@ -36,12 +36,12 @@ sources:
 ## Overview
 
 Diospyros virginiana, the American persimmon, is a deciduous tree native
-to the eastern United States. It produces small, sweet fruits that are
+to the eastern [[dmt-containing-plants-united-states-halpern]]. It produces small, sweet fruits that are
 highly valued when fully ripe but intensely astringent when unripe due to
 high soluble tannin content.
 
 The species is a versatile component of food forests and agroforestry
-systems, valued for its drought tolerance, minimal pest pressure, wildlife
+systems, valued for its [[dighton-fungal-drought-tolerance-plant-water-relations]], minimal pest pressure, wildlife
 attractant properties, and high-quality timber. Native Americans utilized
 the fruit extensively, and the species remains culturally significant
 across its range.
@@ -106,7 +106,7 @@ D. virginiana is increasingly recognized as a valuable food forest and
 agroforestry species. Key permaculture functions include late-season
 fruit production (September–November), wildlife habitat and forage, soil
 stabilization on eroded sites, and nitrogen contribution through leaf
-litter decomposition.
+[[dighton-pine-needle-litter-decomposition-fungal-succession]].
 
 Cultivars selected for fruit quality include 'Meader' (seedless, cold
 hardy), 'Early Golden' (early ripening), 'John Rick' (large fruit), and
@@ -115,7 +115,7 @@ grafting onto seedling rootstock.
 
 The tree requires minimal maintenance once established. Female trees
 require a male pollinator within 30–50 meters for fruit set, though
-parthenocarpic cultivars exist. Pest and disease pressure is very low,
+parthenocarpic cultivars exist. [[hamilton-pest-and-disease-control-organic]] pressure is very low,
 with persimmon psyllid being the primary insect concern.
 
 ## Timber and Ecological Value
@@ -132,7 +132,7 @@ several sphinx moth species.
 
 ## See Also
 
-- diospyros kaki
+- [[permplant-persimmon-diospyros-kaki-fruit-tree]]
 - [[agroforestry]]
 - [[pawpaw]]
 - [[robinia-pseudoacacia]]

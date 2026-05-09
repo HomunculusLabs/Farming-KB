@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Mutualistic associations between insects and fungi on which they feed or from which they acquire digestive enzymes are termed gardening symbioses (M.M. Martin 1987). Not all fungi in these associations are obligate members; rather, there is a continuum from fungi merely dispersed by insects to true gardening associations. Some provide systems for evolutionary studies; others are economically important as dispersers of fungal pathogens or sapstain fungi. Many fungi rely on insects for survival because they are poor competitors with saprobes in their habitats.
+Mutualistic associations between insects and fungi on which they feed or from which they acquire digestive enzymes are termed gardening symbioses (M.M. Martin 1987). Not all fungi in these associations are obligate members; rather, there is a continuum from fungi merely dispersed by insects to true gardening associations. Some provide systems for evolutionary studies; others are economically important as dispersers of [[bloomfield-fungal-pathogens-and-parasites]] or sapstain fungi. Many fungi rely on insects for survival because they are poor competitors with saprobes in their habitats.
 
 ## Taxonomic Diversity of Gardening Symbiont Fungi
 
@@ -68,7 +68,7 @@ Alternative method for established laboratories: trap inseminated queens (queens
 
 Fungi are saprobes growing well on PDA and MEA. For higher attines and Apterostigma species, cultures cannot withstand temperatures below 4 degrees C and no cryopreservation regimen has been developed. Cultures lose viability relatively quickly; subculture every 3 months. Lower attine fungi tolerate low-temperature storage better.
 
-Special handling required for Cyphomyrmex yeast pellets (1-4 mm diameter): develop short (1 mm) hyphal tips but stop growing within 48 hours. Must be broken into smaller pellets and strewn over isolation plate; after repeated subculturing, yeasts return to mycelial growth.
+Special handling required for Cyphomyrmex yeast pellets (1-4 mm diameter): develop short (1 mm) hyphal tips but stop growing within 48 hours. Must be broken into smaller pellets and strewn over isolation plate; after repeated subculturing, yeasts return to [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]].
 
 ### Identification
 
@@ -77,7 +77,7 @@ The only applicable binomial for higher attine fungi is Leucoagaricus gongylopho
 ### Associated Fungi
 
 Attine nests usually maintained under quasi-axenic conditions (mostly single basidiomycete strain). Two types of non-host fungi occur:
-1. **Endophytic fungi:** xylariaceous species, probably introduced with leaf substrata
+1. **[[comparison-endophytic-fungi-vs-mycorrhizal-fungi]]:** xylariaceous species, probably introduced with leaf substrata
 2. **Specialized parasites:** Escovopsis (rarely isolated; restricted to attine nests; Seifert et al. 1995)
 
 ### Culture Collections
@@ -106,7 +106,7 @@ Most Termitomyces species form basidiocarps annually at the onset of rainy seaso
 
 ### Cultivation
 
-Cultures established from basidiospores or from combs. Conidia from spherules generally do not germinate, but associated yeastlike cells do. Common media: oatmeal flakes, Sabouraud glucose, malt extract, and yeast extract agars.
+Cultures established from basidiospores or from combs. Conidia from spherules generally do not germinate, but associated yeastlike cells do. Common media: oatmeal flakes, Sabouraud glucose, malt extract, and [[marmite-yeast-extract-straw-substrate]] agars.
 
 Culture from older combs is difficult because combs become overgrown by saprobic fungi. Termite secretions and nest conditions (high CO2) apparently deter saprobe growth. When combs are removed from nests, Xylaria quickly overgrows Termitomyces (Batra and Batra 1979). Both can grow in same combs in intact nests even without termites, but the Xylaria-Termitomyces relationship remains undetermined.
 
@@ -119,6 +119,6 @@ Fungal symbionts produce yeastlike oidia in mycangia (hypopleural organs at end 
 ## Related Topics
 
 - [[laboulbeniales-collection-mounting-identification]] — parasitic ascomycetes on arthropods
-- [[termite-ant-fungus-gardens]] — termite and ant fungus cultivation
+- [[termite-ant-fungus-gardens]] — [[mollison-designers-termite-and-ant-mound-niche-gardening]] [[dighton-fungus-cultivation-ants-termites-bark-beetles]]
 - [[fungal-biodiversity-tropical-ecosystems]] — tropical fungal diversity
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity]]

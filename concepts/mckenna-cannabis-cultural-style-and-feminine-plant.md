@@ -1,5 +1,5 @@
 ---
-title: "Cannabis as a Cultural Style and the Feminine Plant"
+title: "Cannabis as a mckenna cannabis cultural style and feminine plant and the Feminine Plant"
 created: 2026-05-06
 tags:
   - cannabis
@@ -58,7 +58,7 @@ the unfertilized female plant. Male cannabis plants produce no usable drug, and
 if their pollen reaches the females, the females will set seed and cease resin
 production.
 
-This means that the entire enterprise of cannabis cultivation for psychoactive
+This means that the entire enterprise of [[query-how-does-no-till-cannabis-cultivation-work]] for psychoactive
 purposes revolves around the identification, care, and propagation of the
 female of the species. The grower must recognize male plants early and remove
 them before they can pollinate the females, a practice that literally involves
@@ -71,12 +71,12 @@ accentuate values oriented toward honoring and preserving the feminine.
 ## Partnership Values and Cannabis Use
 
 Of all the pandemic plant intoxicants on earth, McKenna ranked cannabis second
-only to psilocybin mushrooms in its promotion of the social values and sensory
+only to [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] in its promotion of the social values and sensory
 ratios that typified the original partnership societies. He offered this as an
 explanation for what he saw as the unrelenting persecution of cannabis use
 despite overwhelming evidence of its relative benignity.
 
-Cannabis is anathema to the dominator culture, McKenna argued, because it
+Cannabis is anathema to the [[mckenna-dominator-culture-and-suppression-of-ecstasy]], McKenna argued, because it
 deconditions or decouples users from accepted values. Its subliminally
 psychedelic effect places users in intuitive contact with less goal-oriented
 and less competitive behavior patterns. For these reasons, cannabis is
@@ -86,7 +86,7 @@ coffee, which reinforces industrial values, is both welcomed and encouraged.
 ## Hair Length and Cultural Panic
 
 McKenna pointed to the longer hair lengths adopted by men during the rise of
-marijuana use in the 1960s United States as a textbook case of feminine values
+marijuana use in the 1960s [[dmt-containing-plants-united-states-halpern]] as a textbook case of feminine values
 accompanying the use of a boundary-dissolving plant. The hysterical reaction
 to this adjustment in folkways revealed, in his view, the insecurity and sense
 of danger felt by the male ego in the presence of any factor that might restore
@@ -102,7 +102,7 @@ fear of genderless partnership thinking based on a diminished sense of self.
 The persistence of cannabis use despite decades of prohibition and
 criminalization is, for McKenna, one of the most persistent aspects of what he
 called the Archaic Revival. It indicates that the innate drive to restore the
-psychological balance typifying partnership society, once it finds a suitable
+psychological balance typifying [[mckenna-dominator-vs-partnership-society-model]], once it finds a suitable
 vehicle, is not easily deterred.
 
 Everything about cannabis that makes it inimical to bourgeois values endears it

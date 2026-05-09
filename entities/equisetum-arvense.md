@@ -16,7 +16,7 @@ Equisetum arvense is a perennial herbaceous plant belonging to the family Equise
 It is one of the oldest surviving vascular plant lineages on Earth, often described as a living fossil.
 The genus Equisetum is the single extant genus of the order Equisetales, which dominated landscapes during the Carboniferous period approximately 300 million years ago.
 Common horsetail is widely recognised for its hollow, jointed, silica-rich stems and its dual shoot system producing distinct fertile and sterile growth.
-It has a long history of use in traditional [[permaculture]] systems as a dynamic mineral accumulator.
+It has a long history of use in traditional permaculture systems as a dynamic mineral accumulator.
 Dried sterile stems contain 5–8% silica (silicon dioxide) by weight, making it one of the richest plant sources of this mineral.
 ## Taxonomy & Classification
 - **Kingdom:** Plantae
@@ -36,7 +36,7 @@ Equisetum arvense produces two distinct types of annual shoots from a perennial 
 - Each bears a spore-producing cone (strobilus) at the tip, 1–4 cm long.
 - The cone releases green elaters that aid in [[dynamic-accumulators]] in temperate permaculture systems.
 - Accumulates silica, potassium, calcium, magnesium, iron, and aluminium from deep subsoil layers via its extensive rhizome network.
-- Harvested sterile stems are used to make silica-rich compost tea, liquid fertiliser, or mulch for crops requiring silicon (e.g., tomatoes, cucumbers, grains).
+- Harvested sterile stems are used to make silica-rich [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]], liquid fertiliser, or mulch for crops requiring silicon (e.g., tomatoes, cucumbers, grains).
 - Compost tea made from horsetail is also applied as a foliar spray to strengthen plant cell walls and increase resistance to fungal diseases.
 - Functions as an indicator species for acidic, compacted, or waterlogged soils with high subsoil moisture.
 - Deep rhizome network stabilises soil on banks, slopes, and riparian zones, reducing erosion.
@@ -57,7 +57,7 @@ Equisetum arvense produces two distinct types of annual shoots from a perennial 
 - Use with caution in patients taking diuretics or antihypertensive medications due to additive effects.
 ## Cultivation & Propagation
 Equisetum arvense is rarely cultivated deliberately due to its invasive potential, but can be managed in dedicated permaculture beds.
-**Propagation methods:**
+**[[vegetative-propagation-methods-mollison]]:**
 - **Spores:** released from strobili in spring; germination requires moist, sterile conditions and indirect light. Spore-grown plants are slow to establish.
 - **Rhizome division:** the most practical method; sections of rhizome with at least one node and viable bud are planted 5–10 cm deep.
 - Rhizome fragments can regenerate from very small pieces, contributing to the plant's reputation as a persistent weed.
@@ -75,8 +75,12 @@ Horsetail has been utilised by humans for thousands of years across multiple cul
 - **Medicine:** ancient Roman and Greek physicians prescribed horsetail for kidney ailments, tuberculosis, and wound healing; the herb remained a staple in European phytotherapy through the medieval and early modern periods.
 - **Dye:** a yellow-green dye can be extracted from the stems for textile colouring.
 - **Construction:** prehistoric and medieval builders reportedly used horsetail in daub and wattle construction for its binding properties.
-- **Native American uses:** several Indigenous peoples of North America used horsetail as a urinary remedy, a styptic for bleeding, and a sanding material for woodworking.
+- **[[halpern-sacramental-peyote-and-native-american-church]] uses:** several Indigenous peoples of [[psilocybin-north-america-pacific-northwest]] used horsetail as a urinary remedy, a styptic for bleeding, and a sanding material for woodworking.
 ## See Also
 
-- [[urtica-dioica]] — Nettle; companion dynamic accumulator and medicinal herb with overlapping diuretic uses.
-- [[comfrey]] — Comfrey (Symphytum spp.); premier dynamic accumulator of potassium and other minerals for permaculture systems.
+- [[equisetum-variegatum]]
+
+- [[equisetum-palustre]]
+
+- [[urtica-dioica]] — Nettle; companion [[nutrient-dynamic-accumulator-reference]] and [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]] with overlapping diuretic uses.
+- comfrey — Comfrey (Symphytum spp.); premier dynamic accumulator of potassium and other minerals for permaculture systems.

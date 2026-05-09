@@ -1,5 +1,5 @@
 ---
-title: "Psilocybin Mushroom Dosage and Acute Effects"
+title: "emcdda-psilocybin-mushroom-dose-and-effects Dosage and Acute Effects"
 created: 2026-04-28
 tags: [psilocybin, dosage, effects, mushrooms, harm-reduction]
 date: 2026-04-25
@@ -14,7 +14,7 @@ Psilocybin-containing mushrooms have been used for thousands of years
 for religious, spiritual, and healing purposes across many cultures.
 With the resurgence of interest in these fungi, understanding dosage,
 routes of administration, onset, duration, and both psychological and
-physiological effects is essential for harm reduction and informed
+physiological effects is essential for [[adverse-effects-and-harm-reduction-psilocybin]] and informed
 use. This information is drawn from the EMCDDA's comprehensive 2006
 thematic paper on [[lsd]] and the broader [[serotonin]] (5-
 hydroxytryptamine or 5-HT). Psilocybin (4-phosphoryloxy-N,N-
@@ -49,7 +49,7 @@ Physiological effects are generally not significant but may include:
 - Body temperature generally remains normal
 
 Pronounced physical symptoms such as severe stomach pain, persistent
-vomiting, and diarrhea have also been recorded. A UK Mixmag survey
+vomiting, and diarrhea have also been recorded. A UK [[emcdda-mixmag-survey-magic-mushroom-prevalence-trends-2000-2005]]
 found that over a quarter of recent users had experienced nausea or
 vomiting. The tendency for temporarily increased blood pressure is a
 risk factor for users with cardiovascular conditions, especially
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

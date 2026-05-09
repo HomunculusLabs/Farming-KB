@@ -24,7 +24,7 @@ Before reaching for any pesticide, natural or synthetic, Steve Solomon asks gard
 
 Solomon and his wife Muriel apply a principle from their relationship to gardening: when something is irritating, the irritation is an opportunity to examine what within yourself might be contributing to the problem. Applied to pests, this means asking whether the struggling plant is simply not growing fast enough to overcome the problem. The question shifts from "how do I kill this pest?" to "what is making this plant vulnerable?"
 
-The most common answer is unfavorable conditions. Cold spring soil, sowing too early, nutrient deficiency, or a variety poorly adapted to the local climate can all slow growth enough that a plant cannot outpace insect damage. In many cases the best cure is not a killer but liquid organic fertilizer, either a foliar spray of combined fish emulsion and liquid kelp, or some spot fertigation to accelerate growth.
+The most common answer is unfavorable conditions. Cold spring soil, sowing too early, [[cannabis-grow-nutrient-deficiency-problem-solving]], or a variety poorly adapted to the local climate can all slow growth enough that a plant cannot outpace insect damage. In many cases the best cure is not a killer but liquid organic fertilizer, either a foliar spray of combined fish emulsion and liquid kelp, or some spot fertigation to accelerate growth.
 
 ## Planting Too Early: The Root Cause
 
@@ -40,7 +40,7 @@ This is not wasteful; it is insurance. Seeds cost only a few cents each. The cos
 
 ## Re-sowing as Insurance
 
-When conditions are unfavorable, the wise gardener immediately sows again. Starting many more plants than ultimately wanted means that when insects and diseases thin out the weaker seedlings, a benign final stand remains. The later sowing may even grow faster from the start because conditions have improved, and it may end up yielding sooner than the earlier, struggling crop.
+When conditions are unfavorable, the wise gardener immediately sows again. Starting many more plants than ultimately wanted means that when [[solomon-insects-and-diseases-integrated-approach]] thin out the weaker seedlings, a benign final stand remains. The later sowing may even grow faster from the start because conditions have improved, and it may end up yielding sooner than the earlier, struggling crop.
 
 In spring, when plants are tiny, only a small amount of any pesticide is needed. Nothing is blooming, so pollinating bees will not be harmed. Spring is the most defensible time to intervene, and re-sowing is the most resilient strategy.
 
@@ -82,7 +82,7 @@ The contrast between Solomon's experience in Oregon's Willamette Valley, where b
 
 ## The Role of Beneficial Insect Habitat
 
-Creating proper habitat for beneficial insects is one way backyard gardeners can fight back against the pest disadvantage of settled territory. Someone with a bit of acreage can do a great deal to provide permanent cover that assists beneficials. The specific plants to encourage vary by climate zone, and some plants that help beneficials may also aid pests. Rex Dufour's article "Farmscaping to Enhance Biological Control," available free from ATTRA, provides initial guidance.
+Creating proper [[query-how-do-i-design-habitat-for-beneficial-insects]] insects is one way backyard gardeners can fight back against the pest disadvantage of settled territory. Someone with a bit of acreage can do a great deal to provide permanent cover that assists beneficials. The specific plants to encourage vary by climate zone, and some plants that help beneficials may also aid pests. Rex Dufour's article "Farmscaping to Enhance [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]," available free from ATTRA, provides initial guidance.
 
 ## Spun-Fabric Row Covers as a First Line of Defense
 
@@ -92,9 +92,9 @@ The fabric is spread over a growing row or bed and loosely anchored with soil or
 
 ## The Five Percent Leaf Area Threshold
 
-For aphids specifically, Solomon identifies a useful quantitative threshold: when aphids cover about five percent of total leaf area, production and quality start to diminish. Below this level, intervention is unnecessary and the plant will continue growing normally. This five percent figure provides an objective basis for deciding when to act versus when to observe.
+For aphids specifically, Solomon identifies a useful quantitative threshold: when aphids cover about five percent of total leaf area, [[cannabis-resin-production-and-quality-traits-clarke]] start to diminish. Below this level, intervention is unnecessary and the plant will continue growing normally. This five percent figure provides an objective basis for deciding when to act versus when to observe.
 
-This principle applies more broadly. A few holes in leaves, minor cosmetic damage, and the presence of some insects are all normal and do not warrant intervention. The gardener who sprays at the first sign of any insect is wasting time, money, and beneficial insect populations.
+This principle applies more broadly. A few holes in leaves, minor cosmetic damage, and the presence of some insects are all normal and do not warrant intervention. The gardener who sprays at the first sign of any insect is wasting time, money, [[mollison-designers-insectary-plants-and-beneficial-insect-habitat]] populations.
 
 Aphids can multiply with amazing speed, exploding from nothing to a serious threat in days. But they can also persist at a low level without causing much trouble. The rapid population growth potential means vigilance is important, but the threshold principle means that vigilance does not equal immediate action. Watch and wait until the five percent mark before intervening.
 

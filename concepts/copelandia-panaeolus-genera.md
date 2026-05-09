@@ -36,7 +36,7 @@ Caribbean, Africa, Asia, and Oceania. Key species include:
 
 - **Copelandia cyanescens**: The most widespread species in the genus, found
   throughout the tropics worldwide. It is common on bovine dung in
-  pastures and is one of the most potent neurotropic fungi, with
+  pastures and is one of the most potent [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]], with
   significant psilocybin and psilocin concentrations. It occurs in
   Hawaii, the Caribbean, Central America, South America, Africa, Asia,
   and Australia.
@@ -65,10 +65,10 @@ Panaeolus sensu stricto (excluding Copelandia) contains 6 documented
 neurotropic species. These are generally less potent than Copelandia
 species but are widespread and commonly encountered. Key species include:
 
-- **Panaeolus subbalteatus** (P. cinctulus): One of the most widespread
+- **[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]** (P. cinctulus): One of the most widespread
   neurotropic fungi, found across temperate and subtropical regions
   worldwide. It occurs on horse and cow dung, compost, and enriched
-  soils. It has a broad distribution across North America, Europe,
+  soils. It has a broad distribution across [[psilocybin-north-america-pacific-northwest]], Europe,
   and parts of Asia. This is the most commonly encountered Panaeolus
   species in temperate regions.
 
@@ -98,7 +98,7 @@ species but are widespread and commonly encountered. Key species include:
 Both Copelandia and Panaeolus species are predominantly coprophilous
 (dung-inhabiting) fungi. They are most commonly found on the dung of
 herbivores, particularly cattle, horses, and other grazing animals. This
-ecological specialization explains their pantropical distribution, as they
+ecological specialization explains their [[copelandia-cyanescens-pantropical-distribution-and-ecology]], as they
 spread through the movement of grazing animals. The dung substrate provides
 a nutrient-rich environment for rapid colonization and fruiting, typically
 within days to weeks after deposition. Some species also occur on compost,
@@ -118,9 +118,9 @@ psilocin.
 ## Identification Challenges
 
 Copelandia and Panaeolus species can be confused with numerous
-non-neurotropic coprophilous fungi, including Panaeolina foenisecii
+non-neurotropic coprophilous fungi, including [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]
 (the haymaker's mushroom), various Bolbitius species, and
-Psathyrella species. Microscopic examination of spore size, shape,
+Psathyrella species. [[fungal-microscopic-examination-mounting-media-techniques]] of spore size, shape,
 and ornamentation, combined with cystidial morphology, is essential
 for accurate identification. The intense blueing reaction of
 Copelandia species provides a useful field indicator but is not

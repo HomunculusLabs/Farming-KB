@@ -5,7 +5,7 @@
 ## Sheet Mulching Overview
 
 Sheet mulching is a layered composting technique that builds soil directly in
-place, eliminating the need for a separate compost pile and the labor of hauling
+place, eliminating the need for a separate [[mushroom-cultivator-compost-pile-management]] and the labor of hauling
 finished compost to garden beds. Hemenway calls it the "ultimate, bomb-proof sheet
 mulch" and describes it as his staple soil-building tool after years of comparing
 methods. The technique transforms poor soil into rich, worm-filled tilth within
@@ -23,7 +23,7 @@ compacted soil with a fork (not a rototiller).
 
 ### 2. Soil Amendments (optional)
 
-Apply lime, rock dust, greensand, bone meal, or other mineral amendments directly
+Apply lime, [[basalt-rock-dust-agriculture]], greensand, bone meal, or other mineral amendments directly
 to the soil surface. These will be incorporated as the mulch breaks down.
 
 ### 3. Weed-Suppressing Barrier
@@ -36,13 +36,13 @@ light.
 ### 4. Nitrogen-Rich Layer
 
 Spread a thin layer (1/4 to 1 inch) of manure or other nitrogen-rich material.
-This feeds the decomposer organisms that will break down the carbon layers above.
-Fresh or composted manure, blood meal, or poultry litter all work.
+This feeds the decomposer organisms that will [[query-can-fungi-break-down-plastic-pollution]] the carbon layers above.
+Fresh or [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]], blood meal, or poultry litter all work.
 
 ### 5. Bulk Mulch Layer (8-12 inches)
 
 Apply 8 to 12 inches of hay, straw, stable bedding, leaves, or other bulk
-organic matter. Pay attention to the carbon:nitrogen ratio—high-carbon materials
+[[hamilton-composting-and-organic-matter-management]]. Pay attention to the carbon:nitrogen ratio—high-carbon materials
 like wood shavings should be diluted with nitrogen-rich material (clover hay,
 grass clippings, seaweed) at roughly 4:1 ratio. A mulch extremely low in nitrogen
 will decompose very slowly and may cause anemic plant growth.
@@ -133,6 +133,8 @@ activity erects pathways of decomposition and resurrection—all cocreated by
 simply piling on mulch.
 
 ## See Also
+
+- [[mollison-pdc-sheet-mulching-versus-composting]]
 
 - [[gaias-garden-soil-food-web-living-soil]]
 - [[ozier-pdc-composting-and-soil-building]]

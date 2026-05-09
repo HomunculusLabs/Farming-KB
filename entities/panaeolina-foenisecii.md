@@ -1,5 +1,5 @@
 ---
-title: Panaeolina foenisecii
+title: guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses
 created: 2026-04-28
 type: species
 tags: [panaeolina, psilocybin, grassland, saprotrophic, cosmopolitan]
@@ -12,7 +12,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 **Mower's Mushroom** | *Panaeolina foenisecii* (Pers.) Maire
 
-Panaeolina foenisecii, commonly known as the mower's mushroom, haymaker's mushroom, or brown mottlegill, is an extremely common and cosmopolitan grassland mushroom. It has a long and complicated history regarding its psychoactive status. Originally listed among the neurotropic fungi by several authors, modern chemical analyses have largely failed to confirm the presence of significant quantities of [[psilocin]], and it is now generally considered non-psychoactive. Nevertheless, it was included in Guzmán, Allen, and Gartz's worldwide survey of neurotropic fungi and continues to appear in older literature on hallucinogenic mushrooms.
+Panaeolina foenisecii, commonly known as the mower's mushroom, haymaker's mushroom, or brown mottlegill, is an extremely common and cosmopolitan grassland mushroom. It has a long and complicated history regarding its psychoactive status. Originally listed among the neurotropic fungi by several authors, modern [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] have largely failed to confirm the presence of significant quantities of [[psilocin]], and it is now generally considered non-psychoactive. Nevertheless, it was included in Guzmán, Allen, and Gartz's [[oyster-mushroom-substrate-materials-worldwide-survey-comparison]] of neurotropic fungi and continues to appear in older literature on [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]].
 
 ## Taxonomy and Classification
 
@@ -43,7 +43,7 @@ The flesh is thin, watery, and pale brownish. The odor is not distinctive or sli
 
 ## Distribution and Habitat
 
-Panaeolina foenisecii is one of the most widely distributed mushrooms in the world, found on every continent except Antarctica. It is particularly abundant in temperate regions of North America, Europe, and Australasia. Its cosmopolitan distribution is likely aided by its association with human-modified grassland habitats and the movement of soil and grass seed.
+Panaeolina foenisecii is one of the most widely distributed mushrooms in the world, found on every continent except Antarctica. It is particularly abundant in temperate regions of [[psilocybin-north-america-pacific-northwest]], Europe, and Australasia. Its cosmopolitan distribution is likely aided by its association with human-modified grassland habitats and the movement of soil and grass seed.
 
 The species is saprotrophic, growing on decaying grass, thatch, leaf litter, and enriched soil in lawns, pastures, meadows, parks, and gardens. It is frequently found in recently mowed grass, hence the common name "mower's mushroom." It often appears in large numbers after rain, sometimes forming extensive troops across lawns. Fruiting occurs from spring through autumn, with peak fruiting in late summer and early autumn in temperate zones.
 
@@ -62,7 +62,7 @@ The current scientific consensus is that Panaeolina foenisecii does not contain 
 
 Despite the controversy over its psychoactive status, Panaeolina foenisecii plays an important ecological role in grassland ecosystems:
 
-- **Decomposition:** As a saprotroph, it breaks down dead grass and organic matter in the thatch layer, contributing to nutrient cycling
+- **Decomposition:** As a saprotroph, it breaks down dead grass and organic matter in the thatch layer, contributing to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 - **Soil health:** Its mycelium helps bind soil particles and contributes to soil structure
 - **Indicator species:** The presence of P. foenisecii in lawns is often associated with rich organic matter and moderate moisture levels
 - **Food web:** It serves as food for various invertebrates and may be consumed by small mammals
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

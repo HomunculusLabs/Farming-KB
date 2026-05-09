@@ -1,5 +1,5 @@
 ---
-title: "AACT Disease Suppression Mechanisms"
+title: "AACT aact disease suppression mechanisms ingham Mechanisms"
 tags: [aact, compost-tea, disease-suppression, ingham, soil-food-web, biocontrol]
 date: 2026-04-28
 updated: 2026-04-28
@@ -11,15 +11,15 @@ type: concept
 
 # AACT Disease Suppression Mechanisms
 
-Actively Aerated Compost Tea (AACT) suppresses plant diseases through fundamentally different mechanisms than chemical pesticides. According to Elaine Ingham's *The Field Guide I for Actively Aerated Compost Tea*, AACT is a **preventative approach**, not a pesticide. No toxic chemicals are involved — instead, disease suppression arises from ecological competition mediated by a thriving [[soil-food-web]] functions as an active biological buffer.
+Actively [[actively-aerated-compost-tea]] Tea (AACT) suppresses plant diseases through fundamentally different mechanisms than chemical pesticides. According to Elaine Ingham's *The Field Guide I for Actively Aerated Compost Tea*, AACT is a **preventative approach**, not a pesticide. No toxic chemicals are involved — instead, disease suppression arises from ecological competition mediated by a thriving [[soil-food-web]] functions as an active biological buffer.
 
 Ingham emphasizes that food is the second major control point after site occupation. First, the beneficials take up all the space. Then, they eat all the food. Between these two mechanisms, the pathogen faces an environment where it can neither find a place to establish nor the energy to grow. This dual pressure is why well-maintained AACT programs are so effective.
 
 ## The Role of Plant Health
 
-The plant itself is a critical partner in this system. A healthy plant puts out root and leaf exudates — what Ingham calls "cakes and cookies" — that feed and sustain the beneficial microbial community. Without these exudates, even well-applied tea organisms may not persist. Plant health and microbial health are mutually reinforcing: the plant feeds the microbes, and the microbes protect the plant.
+The plant itself is a critical partner in this system. A healthy plant puts out root and leaf exudates — what Ingham calls "cakes and cookies" — that feed and sustain the beneficial [[edaphic-factors-microbial-community-structure]]. Without these exudates, even well-applied tea organisms may not persist. Plant health and microbial health are mutually reinforcing: the plant feeds the microbes, and the microbes protect the plant.
 
-This means that if a plant is stressed — from nutrient deficiency, compaction, poor drainage, or chemical damage — its exudate production declines, weakening the protective microbial community and opening the door to disease. AACT applications work best as part of a holistic system that addresses plant health broadly.
+This means that if a plant is stressed — from [[cannabis-grow-nutrient-deficiency-problem-solving]], compaction, poor drainage, or chemical damage — its exudate production declines, weakening the protective microbial community and opening the door to disease. AACT applications work best as part of a holistic system that addresses plant health broadly.
 
 The exudate connection also explains why different plants support different microbial communities. The specific mix of sugars, amino acids, organic acids, and other compounds a plant releases through its roots and leaf surfaces determines which beneficial organisms will thrive there. AACT provides a diverse inoculum; the plant's exudates then select and nourish the specific community it needs.
 
@@ -32,7 +32,7 @@ Once the [[mycorrhizal-fungi]] associations also play a protective role by stren
 ### Foliar Diseases
 
 - **Powdery mildew**: Leaf-surface beneficial organisms occupy the epidermal sites where powdery mildew spores germinate. Regular foliar AACT applications maintain this protective biofilm throughout the growing season.
-- **Anthracnose**: Suppressed by bacterial and fungal communities on fruit and leaf surfaces that consume nutrients anthracnose needs and physically block infection sites.
+- **Anthracnose**: Suppressed by [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] communities on fruit and leaf surfaces that consume nutrients anthracnose needs and physically block infection sites.
 - **Late blight** (*Phytophthora infestans*): Beneficial organisms on leaf surfaces compete for moisture and nutrients, creating conditions inhospitable to Phytophthora zoospore germination.
 - **Black spot**: The protective microbial layer on leaf surfaces prevents black spot spore germination and penetration through the cuticle.
 - **Brown rot**: Fruit-surface beneficials compete with Monilinia for the same resources, preventing fruit infection and sporulation.
@@ -75,7 +75,7 @@ Successful AACT disease suppression depends on several factors working together:
 
 - [[mycorrhizal-fungi]] — Root-zone protection and plant health support
 - [[compost-tea-application-rates]] — Coverage and timing strategies
-- [[fungal-soil-food-web]] — Leaf-surface microbial ecology
+- fungal-soil-food-web — Leaf-surface [[fukuoka-microbial-ecology-decomposition]]
 ## Practical Considerations
 
 Successful implementation of AACT Disease Suppression Mechanisms requires attention to
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

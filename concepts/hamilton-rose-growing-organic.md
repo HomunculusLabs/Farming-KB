@@ -22,7 +22,7 @@ Consider the following when selecting:
 - Color (plan for combinations with surrounding plants)
 - Scent (many modern hybrids have sacrificed scent for flower form)
 - Disease resistance (some varieties are more resistant to mildew and black spot)
-- Habit (bush, climbing, rambling, ground cover, standard)
+- Habit (bush, climbing, rambling, [[fukuoka-citrus-orchard-ground-cover-cultivation]], standard)
 
 ## Buying Roses
 
@@ -35,7 +35,7 @@ Unlike other shrubs, bush roses should be planted a little lower than they were 
 ### Planting Steps
 
 1. Dig a hole large enough for the roots or root ball
-2. Mix the dug-out soil with a bucketful of organic matter (well-rotted manure or compost)
+2. Mix the dug-out soil with a bucketful of [[hamilton-composting-and-organic-matter-management]] (well-rotted manure or compost)
 3. If container-grown, remove the plastic container carefully without damaging roots
 4. Water the plant well
 5. Place in the hole, ensuring the bud union is below soil level
@@ -47,15 +47,15 @@ Unlike other shrubs, bush roses should be planted a little lower than they were 
 
 ### Feeding
 
-Feed roses like other shrubs, mulching annually with well-rotted manure or compost. If no mulch is available, apply blood, fish, and bone meal in early spring and kelp meal every three years.
+Feed roses like other shrubs, mulching annually with well-rotted manure or compost. If no mulch is available, apply blood, fish, and bone meal in [[coleman-overwintered-onions-and-early-spring-crops]] and kelp meal every three years.
 
 ### Watering
 
-Water well in the first year after planting. In subsequent years ensure the roots do not dry out in warm weather. Deep soaking at the base is better than frequent light sprinkling.
+Water well in the first year after planting. In subsequent years ensure the roots do not dry out in [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]]. Deep soaking at the base is better than frequent light sprinkling.
 
 ### Pruning
 
-Pruning is carried out every year on hybrid bush roses in early spring, just before the bushes start into their growth stage, as you will be able to assess the amount of frost damage and cut it out.
+Pruning is carried out every year on hybrid bush roses in early spring, just before the bushes start into their [[cho-plant-growth-stage-treatment-protocols]], as you will be able to assess the amount of frost damage and cut it out.
 
 The principle of pruning is that the harder you cut back, the stronger the branch will grow. Get into the habit of always cutting back weak branches further than the stronger-growing ones to balance the bush. Weak branches should be pruned to leave one or two buds while stronger ones can have three or four.
 
@@ -76,7 +76,7 @@ To remove a sucker: scrape away a little soil where the sucker arises from the r
 ### Pests and Diseases
 
 Check all roses regularly for signs of pest or disease attack, particularly:
-- **Mildew**: White powdery coating on leaves and stems; improve air circulation and avoid overhead watering
+- **Mildew**: White powdery coating on leaves and stems; improve [[stamets-growing-room-air-circulation-co2-management]] and avoid overhead watering
 - **Black spot**: Black spots on leaves with yellowing; remove affected leaves and mulch well
 - **Greenfly (aphids)**: Colonies on new growth; encourage ladybirds and other predators; spray with insecticidal soap if severe
 

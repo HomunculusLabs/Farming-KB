@@ -1,5 +1,5 @@
 ---
-title: Landscape Rehabilitation of Degraded and Mined Land
+title: mollison designers landscape rehabilitation degraded mined land of Degraded and Mined Land
 created: 2026-04-28
 tags:
   - permaculture
@@ -25,7 +25,7 @@ systematic intervention at the appropriate scale and sequence.
 
 ## Assessment and Planning
 
-Before any rehabilitation work begins, a thorough site assessment is
+Before any rehabilitation work begins, a thorough [[mollison-designers-design-client-interview-and-site-assessment-process]] is
 necessary. This includes: mapping existing erosion patterns (sheet, rill, and
 gully erosion), analysing soil conditions (depth, texture, structure, pH,
 toxicity), identifying remaining vegetation and seed sources, assessing
@@ -46,15 +46,15 @@ with jute netting or pegged brush.
 
 ## Soil Rebuilding
 
-Degraded and mined soils typically lack organic matter, soil structure,
-microbial life, and often contain toxic levels of heavy metals or
+Degraded and mined soils typically lack [[hamilton-composting-and-organic-matter-management]], soil structure,
+microbial life, and often contain toxic levels of [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] or
 acidification. Soil rebuilding is a multi-stage process.
 
 **Physical amelioration:** Compacted mine soils and degraded subsoils require
 deep ripping or keyline ploughing to break hardpans and improve water
 penetration. On slopes, this work follows contour to prevent concentrated
 water flow. Rock dust and clay additions improve the water-holding capacity
-and cation exchange capacity of sandy or skeletal mine soils.
+and [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity of sandy or skeletal mine soils.
 
 **Organic matter addition:** Compost, manure, and [[mycorrhizal-inoculation]]:** [[mycorrhizal-networks]] is critical, as these serve as
 inoculation sources for adjacent areas.
@@ -63,13 +63,13 @@ inoculation sources for adjacent areas.
 
 Pioneer species are the first plants established on degraded land. They must
 tolerate exposed conditions, low fertility, and often drought, while
-beginning the process of soil building and microclimate creation.
+beginning the process of soil building and [[mollison-designers-microclimate-creation-frost-protection]].
 
 **Nitrogen-fixing trees:** Acacia, alder, black locust, [[mollison-designers-food-forest-succession-design]]. Pioneer
 nitrogen-fixing trees are thinned or retained as shelter, while fruit and nut
 trees, timber species, and pasture are established in improving conditions.
 
-See also [[succession-in-permaculture]], [[acid-mine-drainage-treatment]], and [[arbuscular-mycorrhizal-fungi]] for complementary rehabilitation techniques.
+See also succession-in-permaculture, [[acid-mine-drainage-treatment]], and [[arbuscular-mycorrhizal-fungi]] for complementary rehabilitation techniques.
 
 On mine sites, careful monitoring of soil and water quality is essential before
 ## Practical Considerations
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -20,7 +20,7 @@ As stormwater enters a bioswale, it passes through a sequence of treatment proce
 
 1. **Sedimentation**: Flow velocity drops as water enters the wide, shallow channel. Heavy particles (sand, silt, debris) settle to the bottom.
 2. **Filtration**: Water percolates through the engineered soil media (typically sand-compost mix) which physically traps fine particles and pollutants.
-3. **Adsorption**: Organic matter and clay particles in the soil media bind dissolved metals (lead, zinc, copper from roofing and vehicles), phosphorus, and hydrocarbons.
+3. **Adsorption**: [[hamilton-composting-and-organic-matter-management]] and clay particles in the soil media bind dissolved metals (lead, zinc, copper from roofing and vehicles), phosphorus, and hydrocarbons.
 4. **Biological uptake**: Plant roots absorb dissolved nitrogen, phosphorus, and some metals. Microbial communities in the root zone (rhizosphere) degrade organic pollutants including petroleum hydrocarbons and some pesticides.
 5. **Infiltration**: Treated water percolates into the subsoil, recharging groundwater. Excess water exits via an underdrain or surface outlet at the downstream end.
 
@@ -53,13 +53,13 @@ The media should have a infiltration rate of 2.5–15 cm/hour. High clay content
 
 ### Design Criteria for Bioswale Plants
 
-Plants must tolerate periodic inundation (wet feet for 24–48 hours after rain events), extended dry periods between storms, and potentially polluted runoff containing road salts, hydrocarbons, and heavy metals. Deep, fibrous root systems are preferred for soil stabilization and rhizosphere microbial support.
+Plants must tolerate periodic inundation (wet feet for 24–48 hours after rain events), extended dry periods between storms, and potentially polluted runoff containing road salts, hydrocarbons, and [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]. Deep, fibrous root systems are preferred for soil stabilization and rhizosphere microbial support.
 
 ### Native Grasses and Sedges (Primary Stabilization)
 
 - **Blue flag iris (Iris versicolor)**: Tolerates standing water; ornamental flowers; pollutant uptake
 - **Soft rush (Juncus effusus)**: Excellent water tolerance; dense root mass for filtration; winter interest
-- **Switchgrass (Panicum virgatum)**: Deep roots (2–3 m); erosion control; drought tolerance; wildlife habitat
+- **Switchgrass (Panicum virgatum)**: Deep roots (2–3 m); [[permplant-willows-salix-erosion-control-fodder]]; [[dighton-fungal-drought-tolerance-plant-water-relations]]; wildlife habitat
 - **Little bluestem (Schizachyrium scoparium)**: Drought-tolerant once established; ornamental fall color
 - **Bluejoint grass (Calamagrostis canadense)**: Cold-hardy; tolerates seasonal flooding; soil stabilization
 - **Pennsylvania sedge (Carex pensylvanica)**: Shade-tolerant; low maintenance; ground cover for swale sideslopes
@@ -107,7 +107,7 @@ Well-maintained agricultural bioswales remove 50–80% of total suspended solids
 ### Annual Maintenance
 
 - Mow vegetation to 10–15 cm height in late winter (before spring growth)
-- Remove accumulated sediment from forebays and check dam pool areas
+- Remove accumulated sediment from forebays [[mollison-sediment-management-and-check-dam-systems]] pool areas
 - Test soil media for pollutant accumulation — replace media if infiltrate rate drops below 2.5 cm/hour
 - Inspect underdrain for clogging — flush if necessary
 - Replant bare or thin areas with appropriate species
@@ -122,7 +122,7 @@ Bioswale soil media accumulates heavy metals and hydrocarbons over time, typical
 |--------|-----------------|------|-------------|
 | Bioswale | Conveyance + treatment | Linear channel | Moderate |
 | Rain garden | Infiltration + treatment | Depression | High |
-| Constructed wetland | Treatment | Shallow pool | Low |
+| [[comparison-constructed-wetland-vs-backyard-pond]] | Treatment | Shallow pool | Low |
 | Dry swale | Conveyance only | Linear channel | Low |
 | French drain | Infiltration | Subsurface trench | Very high |
 

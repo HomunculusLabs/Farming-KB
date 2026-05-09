@@ -18,11 +18,11 @@ cultivation. After carefully preparing substrate jars and inoculating them, the
 cultivator waits for the telltale white fuzzy spots of germinating spores, only to
 find nothing happening after the expected 3 to 5 day window at 70 degrees Fahrenheit.
 Understanding the common causes of non-germination allows cultivators to diagnose and
-prevent this issue in future attempts, saving both time and the cost of spore syringes.
+prevent this issue in future attempts, saving both time and the cost of [[query-spore-syringes-vs-liquid-culture]].
 
 ## Expected Germination Timeline
 
-Under proper conditions, spore germination should begin within 3 to 5 days when the
+Under proper conditions, [[growing-gourmet-spore-germination-strain-isolation]] should begin within 3 to 5 days when the
 temperature is maintained around 70 degrees Fahrenheit.
 Germinating spores appear as small white fuzzy spots that quickly grow and spread with
 cottony white growth and strandy rhizomorphs. The rhizomorphs are thread-like
@@ -40,7 +40,7 @@ technique using a clamping-type light with a reflector.
 ## Cause 1: Shallow Inoculation Depth
 
 The most common cause of non-germination is inoculation that fails to reach the
-nutritious substrate beneath the dry vermiculite barrier.
+nutritious substrate beneath the [[pf-tek-dry-vermiculite-contaminant-barrier]] barrier.
 The spore solution must flow down along the sides of the substrate cake below the
 non-nutritive upper vermiculite layer. If the solution is instead absorbed by the
 dry top vermiculite layer, the spores land on a medium that provides no nutrition
@@ -76,7 +76,7 @@ speed colonization, but fewer jars can be inoculated per syringe.
 
 ## Cause 2: Hot Jars Killing Spores
 
-Inoculating jars that have not fully cooled after steam sterilization will kill the
+Inoculating jars that have not fully cooled after [[pf-tek-steam-sterilization-pot-method-common-pottery]] will kill the
 spores on contact. The jars must be cool to the touch before any inoculation is
 attempted.
 After steam sterilization for an hour, the jars should be allowed to sit with the

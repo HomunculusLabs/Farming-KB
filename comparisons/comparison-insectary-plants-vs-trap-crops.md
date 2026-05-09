@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 # Insectary Plants vs Trap Crops
-Both insectary plants and trap crops are non-chemical strategies for managing pests, but they operate through fundamentally different mechanisms. Insectary plants recruit beneficial insects that suppress pests indirectly, while trap crops lure pests away from the main crop directly. Understanding when and how to deploy each strategy, or combine both, is key to effective integrated pest management.
+Both insectary plants and trap crops are non-chemical strategies for managing pests, but they operate through fundamentally different mechanisms. Insectary plants recruit [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] that suppress pests indirectly, while trap crops lure pests away from the main crop directly. Understanding when and how to deploy each strategy, or combine both, is key to effective integrated pest management.
 ### At a Glance
 - **Insectary plants** = grow flowers to attract *good bugs* that eat *bad bugs*
 - **Trap crops** = grow sacrificial plants that *bad bugs* prefer, drawing them away from your harvest
@@ -46,7 +46,7 @@ A refined approach that combines repellent plants near the main crop (push) with
 - Requires detailed knowledge of specific pest-crop preferences for effective pairing
 - Demands regular monitoring to catch infestations on trap crops before pest populations build up
 - Trap crop must be destroyed or treated before pests complete their life cycle and migrate to the main crop
-- Consumes growing space; effectiveness varies with pest pressure, season, and regional pest populations
+- Consumes [[cotter-growing-space-design-fruiting-rooms]]; effectiveness varies with pest pressure, season, and regional pest populations
 - If the trap crop fails or is not managed, pests may spill over onto the main crop in even higher numbers
 ## Key Differences
 | Aspect | Insectary Plants | Trap Crops |
@@ -55,7 +55,7 @@ A refined approach that combines repellent plants near the main crop (push) with
 | **Target Organism** | Beneficial predators, parasitoids, pollinators | Crop pests (insects, sometimes nematodes) |
 | **Duration of Effect** | Long-term, builds over multiple seasons | Short-term, active during specific pest windows |
 | **Active vs Passive** | Passive: builds a self-sustaining ecosystem | Active: requires monitoring and timely intervention |
-| **Pest Management Style** | Indirect biological control via trophic cascades | Direct physical diversion and concentration |
+| **Pest Management Style** | Indirect biological control via [[query-how-do-trophic-cascades-work]] | Direct physical diversion and concentration |
 | **Additional Benefits** | Pollination, soil health, biodiversity | Early pest detection, simplified scouting |
 | **Planning Complexity** | Moderate: design continuous bloom sequences | Low to moderate: match trap crop to known pest |
 | **Maintenance Requirements** | Low once established; manage weediness | High during pest season: monitor and destroy |
@@ -70,7 +70,7 @@ Insectary plantings are the better choice in these situations:
 - Building resilient beneficial insect populations across multiple growing seasons
 - When you want a set-and-forget approach that compounds in effectiveness year after year
 ## When to Choose Trap Crops
-Trap cropping is the better choice in these situations:
+[[comparison-trap-cropping-vs-beneficial-insects]] is the better choice in these situations:
 - Facing known, specific pest problems with well-documented host preferences
 - Vegetable gardens and market gardens with identifiable, recurring pest targets
 - Operating within structured IPM programs that include regular scouting schedules
@@ -78,12 +78,14 @@ Trap cropping is the better choice in these situations:
 - When the primary pest species is well-characterized and a proven trap crop pairing exists
 - When you need visible, measurable results within the current season
 ## Hybrid Approach
-The most effective pest management combines both strategies in an integrated system. Plant insectary species to sustain populations of predatory and parasitic insects, while also deploying trap crops to concentrate pests in manageable zones. Beneficial insects attracted by the insectary plants can then more efficiently find and control pests gathered on the trap crops, creating a self-reinforcing biological control loop.
+The most effective pest management combines both strategies in an integrated system. Plant insectary species to sustain populations of predatory and parasitic insects, while also deploying trap crops to concentrate pests in manageable zones. Beneficial insects attracted by the insectary plants can then more efficiently find and [[query-how-to-control-pests-without-chemicals]] gathered on the trap crops, creating a self-reinforcing biological control loop.
 This combination leverages the strengths of each approach: the long-term resilience of insectary plantings and the immediate, targeted action of trap crops. For example, a grower might plant a buckwheat insectary strip alongside a perimeter of Blue Hubbard squash trap crop; parasitic wasps from the buckwheat find and attack squash vine borer eggs concentrated on the Hubbard plants.
 ### Practical Hybrid Layout
 A simple field layout for combining both strategies: plant insectary hedgerows along field edges for permanent beneficial habitat, interplant insectary flowers every 50 ft as internal beneficial corridors, and dedicate a 5-10% perimeter strip to the appropriate trap crop for the primary pest of concern. Monitor the trap crop weekly and treat or remove it before pests complete their lifecycle.
 ## See Also
 
-- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]: broader guide to plant pairings for mutual benefit, including pest deterrence and growth enhancement
+- [[comparison-insectary-plants-vs-trap-cropping]]
+
+- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]: broader guide to plant pairings for mutual benefit, including pest deterrence and [[mycelial-growth-enhancement-with-phytohormones]]
 - [[beneficial-insect-habitat]]: creating year-round habitat features beyond flowering plants (ground cover, water, nesting sites)
 - [[integrated-pest-management]]: comprehensive framework combining biological, cultural, and mechanical controls with minimal chemical inputs

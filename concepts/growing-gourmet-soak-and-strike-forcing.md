@@ -1,5 +1,5 @@
 ---
-title: "Soak and Strike Forcing of Log-Grown Mushrooms"
+title: "growing gourmet soak and strike forcing Forcing of Log-Grown Mushrooms"
 created: 2026-04-26
 tags:
   - mushroom-cultivation
@@ -16,7 +16,7 @@ type: concept
 # Soak and Strike Forcing of Log-Grown Mushrooms
 
 The "soak and strike" method is the traditional Japanese
-technique for initiating mushroom formation on colonized
+technique for initiating [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] on colonized
 logs. Once logs have been inoculated with sawdust or plug
 spawn and stacked in ricks for 6-12 months, they are
 initiated by heavy watering or soaking. After soaking, the
@@ -30,7 +30,7 @@ serves several purposes:
 
 1. It rehydrates the wood to optimal moisture levels
 2. The temperature shock triggers the mycelium to shift
-   from vegetative growth to reproductive mode
+   from [[cannabis-vegetative-growth-stage]] to reproductive mode
 3. Physical shock from handling stimulates fruiting
 4. Competitor organisms may be temporarily suppressed
 
@@ -42,7 +42,7 @@ days after soaking.
 
 ## Indoor Block Soaking
 
-The same principle applies to indoor cultivation on
+The same principle applies to [[cannabis-sativa-indoor-cultivation-techniques]] on
 sterilized sawdust blocks. After each flush, the blocks
 sit dormant for 7-10 days, after which they are placed
 into a soaking tank and submerged in water for 24-36
@@ -63,12 +63,12 @@ See also: [[growing-gourmet-primordia-formation-pinning]]
 For Wood Ear mushrooms (Auricularia polytricha), the most
 common technique used in Asia has been to cut logs 3 feet
 or a meter in length, 5-12 inches in diameter, in the late
-fall to early spring. The logs are drilled with holes and
+fall to [[coleman-overwintered-onions-and-early-spring-crops]]. The logs are drilled with holes and
 spawn is packed tightly into the cavities. To initiate
 mushroom formation, the logs are submerged in water for
 24 hours.
 
-See also: [[growing-gourmet-biological-efficiency-yield]]
+See also: growing-gourmet-biological-efficiency-yield
 See also: [[shiitake-mushroom-cultivation]]
 ## Practical Considerations
 
@@ -88,4 +88,9 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[auricularia-polytricha]]
+- [[growing-gourmet-culture-slant-preservation-cryogenic-storage]]
+- [[growing-gourmet-strain-selection]]
+- [[growing-gourmet-outdoor-log-inoculation-techniques]]
+- [[growing-gourmet-nameko-pholiota-cultivation]]

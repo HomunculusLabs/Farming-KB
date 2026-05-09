@@ -1,5 +1,5 @@
 ---
-title: Psilocybe Cubensis Potency Variation by Flush
+title: brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting psilocybin-potency-variation-species-strain-growth-conditions by Flush
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -10,13 +10,15 @@ sources: [papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cube
 
 ## Related
 
-- [[turner-psilocybin-mushroom-experience-guide]]
+- [[psilocybin-potency-variation]]
+
+- turner-psilocybin-mushroom-experience-guide
 - stone fruit tree care
 - [[psilocybe-semilanceata]], which are naturally high in psilocybin and low in psilocin, are known for exceptionally long storage life.
 
 ## Food Dehydrator Method
 
-Electric food dehydrators are the most widely used and recommended method for mushroom dehydration. These devices use a heating element and fan to circulate warm air across stacked trays, providing consistent temperature and airflow. The optimal temperature setting for most mushrooms is 95-115°F (35-46°C). This temperature range is high enough to drive off moisture efficiently but low enough to avoid significant degradation of heat-sensitive compounds.
+Electric food dehydrators are the most widely used and recommended method for [[growing-gourmet-mushroom-dehydration-methods-equipment]]. These devices use a heating element and fan to circulate warm air across stacked trays, providing consistent temperature and airflow. The optimal temperature setting for most mushrooms is 95-115°F (35-46°C). This [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] is high enough to drive off moisture efficiently but low enough to avoid significant degradation of heat-sensitive compounds.
 
 Dehydration time varies with mushroom size, thickness, and water content. Small, thin specimens may dry completely in 6-12 hours. Large, dense specimens or whole caps may require 24-48 hours. Mushrooms should be arranged in a single layer on trays without overlapping to ensure even drying. The dehydrator should be placed in a well-ventilated area, and the trays should be rotated periodically if the unit has uneven airflow.
 
@@ -26,7 +28,7 @@ When choosing a dehydrator, prioritize models with adjustable temperature contro
 
 ## Air Drying Method
 
-Air drying is the simplest method and works well in warm, dry climates. Mushrooms are placed on a screen, paper towel, or rack in a location with good air circulation, low humidity, and warm temperatures. A fan directed across the mushrooms significantly accelerates drying. This method preserves color and shape well because the gentle drying conditions avoid the tissue shrinkage that can occur with heated drying.
+Air drying is the simplest method and works well in warm, dry climates. Mushrooms are placed on a screen, paper towel, or rack in a location with good [[stamets-growing-room-air-circulation-co2-management]], [[pf-tek-low-humidity-symptoms-and-remediation]], and warm temperatures. A fan directed across the mushrooms significantly accelerates drying. This method preserves color and shape well because the gentle drying conditions avoid the tissue shrinkage that can occur with heated drying.
 
 The primary limitation of air drying is its dependence on ambient conditions. In humid climates or during damp weather, air drying may be too slow, allowing mold or bacterial growth before drying is complete. In cool conditions, drying time extends considerably. Air drying is most practical for small quantities and as a supplementary method alongside mechanical dehydration.
 
@@ -114,4 +116,6 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+- [[psilocybe-cubensis]]
+- [[psilocybe-cubensis-flush-variation]]
+- [[brassinosteroid]]

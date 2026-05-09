@@ -1,5 +1,5 @@
 ---
-title: "Bokashi vs Hot Composting"
+title: "Bokashi vs comparison bokashi vs hot composting method"
 created: 2026-04-28
 tags: [comparison, composting, soil, waste-management]
 date: 2026-04-25
@@ -14,7 +14,7 @@ type: comparison
 
 Bokashi and hot composting represent two fundamentally different approaches to
 converting organic waste into soil-building amendments. Bokashi is an anaerobic
-fermentation process that "pickles" food scraps with effective microorganisms,
+fermentation process that "pickles" food scraps with [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]],
 while hot composting relies on thermophilic aerobic decomposition. The
 comparison matters because the choice affects what waste you can process, how
 much space and labor you need, and what kind of end product you get.
@@ -32,7 +32,7 @@ produces finished compost in four to six weeks — compared to six to twelve
 months for passive cold composting.
 
 The high temperatures achieve something bokashi cannot: they destroy weed seeds,
-pathogens, and many persistent organic compounds. A pile held above 131 degrees
+pathogens, and many persistent [[fungal-volatile-organic-compounds-communication]]. A pile held above 131 degrees
 Fahrenheit for three consecutive days meets USDA standards for pathogen
 reduction. This makes hot composting essential for operations dealing with
 manure, diseased plant material, or seed-bearing weeds. The 50 to 75 percent
@@ -51,13 +51,13 @@ active heating.
 
 | Aspect | Bokashi | Hot Composting |
 |--------|---------|----------------|
-| Process | Anaerobic fermentation | Aerobic thermophilic decomposition |
+| Process | [[jadam-anaerobic-fermentation-principles]] | Aerobic thermophilic decomposition |
 | Acceptable inputs | All food scraps including meat, dairy, bones | Plant materials only (no meat, dairy, bones) |
 | Speed to finished product | 6-8 weeks (including soil burial phase) | 4-6 weeks |
 | Pathogen and weed seed destruction | No (fermentation preserves, not destroys) | Yes (131°F+ for 3 days) |
 | Space requirement | Minimal (kitchen bucket system) | Large (1+ cubic meter minimum pile) |
 | Labor | Low (layer and compress, no turning) | High (regular turning, monitoring) |
-| Temperature range | Any (works in freezing conditions) | Requires warm conditions for thermophilic phase |
+| [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] | Any (works in freezing conditions) | Requires warm conditions for thermophilic phase |
 | End product | Pre-compost requiring soil burial | Finished, stable compost |
 | Cost | Ongoing (EM inoculant, bran) | Low (free if materials on-site) |
 
@@ -69,7 +69,7 @@ without room for a large compost pile benefit most from bokashi's compact
 footprint and indoor compatibility. Cold-climate homesteaders who want to
 continue processing food waste through freezing winters will find bokashi works
 when hot composting stalls. Bokashi is also an excellent pre-composting step for
-no-till and living soil growers who want to incorporate diverse organic matter
+no-till and living soil growers who want to incorporate diverse [[hamilton-composting-and-organic-matter-management]]
 into beds without disturbing the soil food web.
 
 ## When to Choose Hot Composting

@@ -1,5 +1,5 @@
 ---
-title: Wasson and the Rediscovery of the Mexican Mushroom Cult
+title: Wasson and the Rediscovery of the gartz wasson mexican mushroom cult rediscovery Cult
 created: 2026-04-28
 tags:
   - ethnobotany
@@ -19,13 +19,13 @@ type: concept
 ## Overview
 
 Jochen Gartz documents the pivotal role of R. Gordon Wasson in bringing
-the sacred mushroom traditions of Mexico to Western attention. Wasson's
-participation in a Mazatec mushroom ceremony on June 29, 1955, and his
+the sacred [[sacred-mushroom-traditions-in-mexico]] of Mexico to Western attention. Wasson's
+participation in a [[maria-sabina-mazatec-mushroom-ceremony]] ceremony on June 29, 1955, and his
 subsequent publication in *Life* magazine on June 10, 1957, represents
 one of the most significant events in the history of ethnobotany and
-psychedelic research. Gartz places this discovery within the broader
-context of [[gartz-magic-mushrooms-species-south-america]] and
-   [[gartz-magic-mushrooms-global-distribution-patterns]]
+[[mckenna-suppression-psychedelic-research-lsd-therapy]]. Gartz places this discovery within the broader
+context of gartz-magic-mushrooms-species-south-america and
+   gartz-magic-mushrooms-global-distribution-patterns
 - [[gartz-psilocybin-potency-and-alkaloid-variations]]
 - [[powell-mutability-of-consciousness-chemical-lens]]
 - [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
@@ -106,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -37,12 +37,12 @@ studied the influence of the springtail Folsomia candida
 leek (Allium porrum) and G. fasciculatus. Their research,
 published in the New Phytologist, demonstrated that
 collembolan activity can significantly affect mycorrhizal
-functioning, highlighting the complex trophic interactions
-that occur between [[mycorrhizal-symbiosis]] by
+functioning, highlighting the complex [[dighton-fungal-trophic-interactions-soil-food-webs]]
+that occur between mycorrhizal-symbiosis by
 diminishing the hyphal connections between soil and roots.
 However, the net effect of collembolan grazing on mycorrhizal
 function is complex and context-dependent, as moderate grazing
-may stimulate hyphal growth and turnover while heavy grazing
+may stimulate [[bloomfields-orchard-hyphal-growth-and-invasive-biology]] and turnover while heavy grazing
 can severely compromise nutrient delivery to the host plant.
 
 ## Agricultural Significance
@@ -70,7 +70,7 @@ healthy soil faunal communities may indirectly promote
 mycorrhizal function and crop productivity. Understanding
 these belowground interactions is essential for developing
 integrated soil management strategies that harness the
-beneficial functions of arbuscular mycorrhizal fungi in
+beneficial functions of [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi in
 sustainable agriculture.
 
 ## See Also

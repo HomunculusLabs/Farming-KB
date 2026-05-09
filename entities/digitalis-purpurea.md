@@ -80,8 +80,8 @@ and plant vigor across its range.
 
 Native to western, central, and southern Europe including the British Isles,
 France, Iberian Peninsula, and the Mediterranean. Naturalized widely in North
-America (especially Pacific Northwest and Appalachians), New Zealand, and
-parts of South America. Prefers acidic to neutral soils in partial shade,
+America (especially [[psilocybin-north-america-pacific-northwest]] and Appalachians), New Zealand, and
+parts of [[guzman-psilocybin-mushrooms-south-america]]. Prefers acidic to neutral soils in partial shade,
 commonly found in woodland clearings, hedgerows, rocky slopes, stream banks,
 and disturbed ground. Colonizes recently cleared forest areas readily.
 
@@ -93,7 +93,7 @@ The primary bioactive constituents are cardiac glycosides (cardenolides):
   ATPase on cardiac myocytes, increasing intracellular calcium and
   strengthening myocardial contraction (positive inotropy). Used to treat
   heart failure with reduced ejection fraction and rate control in atrial
-  fibrillation. Therapeutic window is narrow (serum concentration 0.8–2.0
+  fibrillation. [[blesching-cannabis-therapeutic-window-dosing]] is narrow (serum concentration 0.8–2.0
   ng/mL); toxicity occurs above ~2.5 ng/mL.
 - **Digitoxin:** Structurally similar to digoxin but with a longer
   half-life (7–9 days vs. 36 hours for digoxin); primarily eliminated

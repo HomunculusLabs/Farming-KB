@@ -18,7 +18,7 @@ type: concept
 
 Amazonian vegetalismo encompasses a sophisticated taxonomy of
 sorcery, with distinct methods of causing harm classified by the
-weapons and techniques employed. Pablo Amaringo's visions enumerate
+weapons and techniques employed. [[pablo-amaringo]]'s visions enumerate
 three primary types of sorcerers, each using different means of
 attack, along with numerous secondary methods. A
 [[mariri-phantom-sorcery]] (magical phlegm). When he wishes to
@@ -58,7 +58,7 @@ arrows and a cumaceba (Swartzia sp.) bow.
 ## Diagnostic Signs of Sorcery
 
 A curandero distinguishes sorcery types by the lights surrounding
-the patient during an ayahuasca vision:
+the patient during an [[ayahuasca-vision-art-and-shipibo-tradition]]:
 
 - **Zigzagging lights**: The patient has been hit by a chontero
   (chonta/virote sorcery)

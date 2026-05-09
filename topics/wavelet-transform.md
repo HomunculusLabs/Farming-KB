@@ -1,5 +1,5 @@
 ---
-title: wavelet transform
+title: [[kalman-filter-vs-wavelet-transform]]
 subtitle: A multiscale method for analyzing signals with localized waves
 tags: [signal-processing, mathematics, data-analysis, compression, time-frequency-analysis]
 date: 2026-05-02
@@ -19,7 +19,7 @@ It analyzes a signal by comparing it with short oscillatory functions known as w
 Each wavelet is shifted across the signal and stretched or compressed to examine different levels of detail.
 The resulting coefficients describe where particular patterns occur and at what scale they occur.
 This makes the wavelet transform especially useful for data whose behavior changes over time, space, or resolution.
-A wavelet transform can be understood as a localized alternative to global sinusoidal analysis.
+[[query-what-is-a-wavelet-transform-used-for]] can be understood as a localized alternative to global sinusoidal analysis.
 Where Fourier methods describe a signal as a sum of endless sine and cosine waves, wavelet methods use compact or rapidly decaying waveforms.
 The distinction matters whenever a signal contains bursts, edges, singularities, transients, or changing rhythms.
 Wavelet analysis is used in engineering, statistics, geophysics, image compression, biomedical signal processing, numerical analysis, and computer vision.
@@ -94,9 +94,9 @@ Finite signals require assumptions beyond their endpoints, such as zero padding,
 Poor boundary choices can create artificial coefficients near the edges of a signal.
 ## Historical Development
 The earliest recognizable wavelet basis was introduced by Alfred Haar in 1909.
-For much of the twentieth century, Fourier analysis remained the dominant language of signal representation.
+For much of the [[coleman-louis-savier-twentieth-century-maraicher]], Fourier analysis remained the dominant language of signal representation.
 Fourier methods were powerful for stationary and periodic phenomena but less natural for localized events.
-Geophysicist Jean Morlet developed wavelet-like methods for seismic exploration in the late twentieth century.
+Geophysicist Jean Morlet developed wavelet-like methods for seismic exploration in the late [[coleman-louis-savier-twentieth-century-maraicher]].
 Alex Grossmann helped provide a mathematical formulation of the continuous wavelet transform.
 Yves Meyer developed major theoretical foundations for wavelet bases.
 Ingrid Daubechies constructed compactly supported orthonormal wavelets that made many applications practical.

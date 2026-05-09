@@ -1,5 +1,5 @@
 ---
-title: Gottlieb Psilocybin Cultivation Bulk Substrate Preparation
+title: Gottlieb gottlieb psilocybin cultivation bulk substrate preparation Bulk cotter-compost-substrate-preparation-manure-mushroom-cultivation
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -12,8 +12,8 @@ tags: [bulk-substrate, cultivation, psilocybin]
 
 Gottlieb's "The Psilocybin Producer's Guide" (1976) is primarily oriented
 toward liquid broth mycelium cultivation rather than traditional bulk
-substrate fruiting. However, the guide contains several references to bulk
-substrate approaches for producing carpophores (mushroom fruiting bodies)
+[[brassinosteroid-dung-grain-substrate-fruiting-enhancement]]. However, the guide contains several references to bulk
+substrate approaches for producing carpophores ([[ectomycorrhizal-mushroom-fruiting-ecology]] bodies)
 of various psilocybin species, and describes the complete media formulations
 used in the liquid culture system.
 
@@ -109,7 +109,7 @@ extraction rather than grain-to-bulk fruiting methods.
 Gottlieb's guide deliberately focuses on extracting alkaloids from
 submerged mycelial culture rather than fruiting mushrooms. This approach:
 
-- Eliminates the need for casing layers, humidity control, and fruiting
+- Eliminates the need for casing layers, [[cervantes-humidity-control-dehumidification]], and fruiting
   chambers.
 - Reduces the cultivation cycle to 10-12 days versus weeks or months for
   fruiting.
@@ -122,7 +122,7 @@ submerged mycelial culture rather than fruiting mushrooms. This approach:
 For cultivators interested in fruiting carpophores, Gottlieb recommends
 Oss and Oeric's "Psilocybin: Magic Mushroom Growers Guide" (1976), which
 he describes as "excellent" and "nicely illustrated" for cultivating
-Stropharia cubensis fruiting bodies.
+[[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] fruiting bodies.
 
 ## See Also
 

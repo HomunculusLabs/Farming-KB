@@ -70,7 +70,7 @@ Solomon's signature contribution is a balanced, custom organic fertilizer recipe
 - Rock phosphate at 30% P2O5 is the standard slow-release source
 
 ### Potassium (K)
-- Essential for disease resistance, fruit quality, drought tolerance, cell wall strength
+- Essential for disease resistance, fruit quality, [[dighton-fungal-drought-tolerance-plant-water-relations]], cell wall strength
 - **Deficiency**: Weak stems, poor fruit quality, yellowing leaf edges
 - **Most soils have adequate K** — deficiency is less common than N or P
 - **Organic sources**: Wood ash, kelp meal, greensand, sulfate of potash (mined)
@@ -79,7 +79,7 @@ Solomon's signature contribution is a balanced, custom organic fertilizer recipe
 ## pH: The Master Variable
 
 ### Why pH Matters
-Soil pH (0-14 scale, 7 = neutral) determines nutrient availability. Most garden vegetables prefer slightly acid soil (pH 6.0-6.8). At the wrong pH, even abundant nutrients become "locked out" and unavailable to plants.
+Soil pH (0-14 scale, 7 = neutral) determines [[ph-and-nutrient-availability-garden-soils]]. Most garden vegetables prefer slightly acid soil (pH 6.0-6.8). At the wrong pH, even abundant nutrients become "locked out" and unavailable to plants.
 
 ### Key pH Relationships
 - **Below 5.5**: Aluminum and manganese become toxic; phosphorus, calcium, and magnesium become unavailable
@@ -89,8 +89,8 @@ Soil pH (0-14 scale, 7 = neutral) determines nutrient availability. Most garden 
 
 ### Testing and Adjusting pH
 - Test soil annually with a lab test (cheap and thorough) — home test kits are unreliable
-- **To raise pH** (make more alkaline): Add agricultural limestone. Fineness matters — the finer the lime, the faster it acts. Dolomite lime adds magnesium too (use only if Mg is also needed)
-- **To lower pH** (make more acidic): Add elemental sulfur, peat moss, or organic matter (compost naturally acidifies slightly as it decomposes)
+- **To raise pH** (make more alkaline): Add agricultural limestone. Fineness matters — the finer the lime, the faster it acts. [[cervantes-dolomite-lime-ph-buffering]] adds magnesium too (use only if Mg is also needed)
+- **To lower pH** (make more acidic): Add elemental sulfur, peat moss, or [[hamilton-composting-and-organic-matter-management]] (compost naturally acidifies slightly as it decomposes)
 - **Never add lime and sulfur at the same time** — they cancel each other
 
 ### Regional pH Patterns
@@ -107,7 +107,7 @@ Solomon cautions against relying on compost alone as a fertility source:
 - To supply adequate nitrogen from compost alone, you would need to apply impractical volumes (several inches per year)
 - **Best use of compost**: As a soil conditioner applied at 1/4-1/2 inch per year, plus the COF for actual nutrient supply
 - Compost from manure is more nutrient-dense than compost from yard waste only
-- See [[vermicomposting]] for worm-based composting methods
+- See [[vermicomposting]] for worm-based [[natural-farming-guide-composting-methods-and-techniques]]
 
 ## The Importance of Calcium
 
@@ -125,7 +125,7 @@ Calcium is arguably the most underappreciated nutrient in home gardening:
 ### The Role of Organic Matter
 - Improves water retention (holds 4-5x its weight in water)
 - Improves drainage in clay soils (binds particles into aggregates)
-- Provides cation exchange sites (holds nutrients in root zone)
+- Provides [[mollison-designers-tropical-soils-and-cation-exchange-management]] sites (holds nutrients in root zone)
 - Feeds [[soil-food-web-nutrient-cycling]] microorganisms
 - Buffers pH changes
 - Releases nutrients slowly through microbial decomposition
@@ -134,54 +134,6 @@ Calcium is arguably the most underappreciated nutrient in home gardening:
 - [[cover-cropping-guide]] with legumes adds both N and organic matter
 - Incorporating crop residues (not removing them)
 - Applying compost at 1/4-1/2 inch annually
-- Green manures (grown and tilled in before maturity)
-- Mulching with organic materials that decompose in place
-
-### Solomon's Practical Note
-- Don't try to build organic matter levels above 5-8% — this is plenty
-- Excessive organic matter can cause waterlogging, nutrient leaching, and weed problems
-- Focus on maintaining steady levels rather than dramatic increases
-
-## Mineral Deficiencies: Visual Diagnosis
-
-| Symptom | Likely Deficiency |
-|---------|-------------------|
-| Pale/yellowing older leaves first | Nitrogen |
-| Purplish tinge on leaves/stems | Phosphorus |
-| Yellowing leaf edges (margins) | Potassium |
-| Blossom end rot (tomatoes) | Calcium |
-| Interveinal chlorosis (yellow between veins) | Iron (if soil is alkaline) or Magnesium |
-| Stunted, bushy growth | Zinc |
-| Heart rot in beets, hollow stem in cauliflower | Boron |
-| Death of growing tip | Calcium or Boron |
-
-## Fertilizing by Crop Type
-
-### Heavy Feeders (need full COF rate)
-- Tomatoes, peppers, eggplant, corn, brassicas (cabbage, broccoli), onions, garlic, potatoes
-
-### Medium Feeders (moderate needs)
-- Beans, peas, lettuce, spinach, carrots, beets, Swiss chard
-
-### Light Feeders (minimal fertilization)
-- Herbs, radishes, turnips, most greens when intercropped with heavy feeders
-
-### Legume Exception
-- Beans and peas (when inoculated with Rhizobium bacteria) fix atmospheric nitrogen
-- They still need phosphorus and potassium — use COF but omit or reduce the seed meal portion
-- The nitrogen they fix becomes available to subsequent crops through root decomposition
-
-## Long-Term Fertility Strategy
-
-1. **Start with a soil test** — know your baseline pH, NPK, calcium, and organic matter percentage
-2. **Correct pH first** — if pH is wrong, plants can't access nutrients regardless of how much you add
-3. **Apply COF** at full rate for initial beds, side-dress heavy feeders during growth
-4. **Add compost** at 1/4-1/2 inch annually as a soil conditioner
-5. **Use cover crops** in fall/winter to prevent erosion and add organic matter
-6. **Rotate crop families** to prevent disease buildup and balance nutrient demands
-7. **Retest every 2-3 years** and adjust — soils change over time
-8. **Mulch** to retain moisture, suppress weeds, and add organic matter as it breaks down
-
 ## Related Pages
 - [[soil-food-web-nutrient-cycling]]
 - [[vermicomposting]]

@@ -1,5 +1,5 @@
 ---
-title: "MDBU (N-BUTYL-MDA; 3,4-METHYLENEDIOXY-N-BUTYLAMPHETAMINE) -- PIHKAL Entry #102"
+title: "MDBU (N-BUTYL-MDA; 3,4-METHYLENEDIOXY-N-BUTYLAMPHETAMINE) -- 2c-b-pihkal-entry-20 #102"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -81,7 +81,7 @@ white crystals with a mp of 200-200.5 deg C. Anal. (C14H22ClNO2) N.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

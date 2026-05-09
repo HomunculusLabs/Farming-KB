@@ -18,12 +18,12 @@ sources:
   - Movafegh, A. et al. (2008). "Preoperative oral Passiflora incarnata reduces anxiety in ambulatory surgery patients." Anesthesia & Analgesia, 106(6), 1728-1732.
   - Elsas, S.M. et al. (2014). "Passionflower in the treatment of opiate withdrawal: A case report." Journal of Alternative and Complementary Medicine, 20(2), 153-155.
   - Grundmann, O. et al. (2008). "Anxiolytic effects of a passion flower extract in the elevated plus maze." Phytomedicine, 15(9), 676-682.
-  - Appel, K. et al. (2011). "Comparative study of Passiflora incarnata and Piper methysticum (kava-kava)." Phytotherapy Research, 25(2), 257-262.
+  - Appel, K. et al. (2011). "Comparative study of Passiflora incarnata and [[plants-of-the-gods-piper-methysticum-kava]] (kava-kava)." Phytotherapy Research, 25(2), 257-262.
 ---
 
 ## Overview
 
-*Passiflora incarnata*, commonly known as passionflower, maypop, or wild passion vine, is a perennial climbing vine in the family Passifloraceae native to the southeastern United States, Central America, and parts of South America. It is one of the most extensively researched herbal anxiolytics, with a long history of use in both Native American traditional medicine and Western phytotherapy for the treatment of anxiety, insomnia, and restlessness.
+*Passiflora incarnata*, commonly known as passionflower, maypop, or wild passion vine, is a perennial climbing vine in the family Passifloraceae native to the southeastern United States, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], and parts of South America. It is one of the most extensively researched herbal anxiolytics, with a long history of use in both [[halpern-sacramental-peyote-and-native-american-church]] traditional medicine and Western phytotherapy for the treatment of anxiety, insomnia, and restlessness.
 
 The plant is named for its extraordinary flowers, which were interpreted by 16th-century Spanish missionaries as symbolic of the Passion of Christ — the ten petals and sepals representing the apostles, the corona filaments representing the crown of thorns, the five stamens the five wounds, and the three styles the three nails. This Christian symbolic interpretation is the origin of both the common name and the genus name.
 
@@ -45,7 +45,7 @@ The plant is a larval host for several butterfly species, most notably the Gulf 
 
 ## Phytochemistry
 
-The pharmacological activity of *P. incarnata* is attributed to a complex mixture of flavonoids, alkaloids, and other secondary metabolites:
+The pharmacological activity of *P. incarnata* is attributed to a complex mixture of flavonoids, alkaloids, and other [[antifungal-secondary-metabolites-coprophilous-fungi]]:
 
 **Flavonoids (primary active constituents):**
 - **Vitexin** (apigenin-8-C-glucoside) and **isovitexin** — the most abundant and pharmacologically significant compounds
@@ -77,7 +77,7 @@ The primary mechanism of action involves modulation of the GABAergic system:
 - Eastern tribes generally used the plant as a blood tonic and for treating insomnia.
 
 **Eclectic medicine (19th–early 20th century):**
-- The Eclectic physicians of North America widely prescribed passionflower for insomnia, nervousness, neuralgia, and "hysteria." It was included in the United States Pharmacopoeia (USP) from 1915 until 1936 and in the National Formulary until 1942.
+- The Eclectic physicians of [[psilocybin-north-america-pacific-northwest]] widely prescribed passionflower for insomnia, nervousness, neuralgia, and "hysteria." It was included in the United States Pharmacopoeia (USP) from 1915 until 1936 and in the National Formulary until 1942.
 - The Eclectic materia medica described the preparation as having "no narcotic properties" while producing "a calm, restful sleep."
 
 **European phytotherapy:**
@@ -101,7 +101,7 @@ The clinical evidence base for passionflower, while not as robust as for convent
 - **Food:** The edible fruit can be eaten fresh, made into jelly, jam, or beverages. The flavor is mildly tart and aromatic.
 - **Medicine:** Leaves and stems can be harvested throughout the growing season and dried for tea or tincture.
 - **Ecological:** The flowers are highly attractive to pollinators (bees, butterflies, hummingbirds). The vine serves as a larval host for multiple butterfly species.
-- **Ground cover and erosion control:** The vigorous ground-level growth helps suppress weeds and stabilize soil.
+- **Ground cover and [[permplant-willows-salix-erosion-control-fodder]]:** The vigorous ground-level growth helps suppress weeds and stabilize soil.
 - **Ornamental:** The extraordinary flowers make it a striking addition to fences, trellises, and garden structures.
 
 The plant is cold-hardy to approximately -15°C (USDA Zone 5b) and prefers well-drained soils in full sun to partial shade. It can become aggressive in garden settings and may require root barriers to prevent unwanted spread.
@@ -115,9 +115,13 @@ The plant is cold-hardy to approximately -15°C (USDA Zone 5b) and prefers well-
 
 ## See Also
 
+- [[petiveria-alliacea]]
+
 - [[stinging-nettle]] — another North American native plant with both medicinal and ecological permaculture applications
 - [[comfrey-symphytum-officinale]] — another vigorous perennial with permaculture and medicinal applications
 
 ## See Also
+
+- [[petiveria-alliacea]]
 
 - [[mckenna-richard-schultes-harvard-ethnobotany-psychoactive-plants]]

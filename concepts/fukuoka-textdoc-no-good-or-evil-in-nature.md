@@ -11,10 +11,10 @@ type: concept
 
 # No Good or Evil in Nature
 
-Fukuoka's non-dualistic approach to pest and disease management represents a
-fundamental departure from both conventional and organic agriculture. In
-natural farming, there is no good or evil in nature. There are no "insect
-pests" and no "beneficial insects." This perspective connects deeply to
+Fukuoka's non-dualistic approach to pest and [[plant-disease-management-solomon]] represents a
+fundamental departure from both [[jadam-conventional-and-organic-pesticide-integration]] agriculture. In
+[[comparison-natural-farming-vs-permaculture]], there is no good or evil in nature. There are no "insect
+pests" and no "[[comparison-beneficial-insects-guide-vs-integrated-pest-management]]." This perspective connects deeply to
 [[fukuoka-nature-perfect-imperfect]].
 
 ## The Root Cause of Pest Outbreaks
@@ -26,7 +26,7 @@ fungus that attacks pests was killed, upsetting nature's balance. Thus, in
 natural farming, one always solves the problem by reflecting on the mistake
 and returning as close to nature as possible.
 
-Those practicing scientific farming, on the other hand, habitually blame
+Those practicing [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]], on the other hand, habitually blame
 insect infestation on the weather or some other aspect of nature, then apply
 pesticides to exterminate the marauding pest and spray fungicides to cure
 diseases. The road diverges here, turning back to nature for those who
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

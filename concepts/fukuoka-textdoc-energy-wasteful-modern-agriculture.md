@@ -11,19 +11,19 @@ type: concept
 
 # Energy-Wasteful Modern Agriculture
 
-Fukuoka presents a detailed critique of the energy efficiency of modern
-agriculture, demonstrating that scientific farming's claimed high productivity
+Fukuoka presents a detailed critique of the [[fukuoka-textdoc-energy-efficiency-agricultural-labor]] of modern
+agriculture, demonstrating that [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]'s claimed high productivity
 is an illusion when energy inputs are properly accounted for. This analysis
 forms a cornerstone of his [[fukuoka-natural-farming-method]], farming with animals, and
 lightly, moderately, and heavily mechanized agriculture.
 
-Natural farming requires only one man-day of labor to recover 130 pounds of
+[[comparison-natural-farming-vs-permaculture]] requires only one man-day of labor to recover 130 pounds of
 rice, or 200,000 kilocalories of food energy, from a quarter-acre of land.
 The energy input needed is just 2,000 kilocalories, the amount required to
 feed one farmer for one day. Cultivation with horses or oxen requires five to
 ten times as much energy, and mechanized agriculture requires ten to fifty
 times as much. The efficiency of rice production is inversely proportional to
-energy input, making scientific agriculture up to fifty times less efficient
+energy input, making [[fukuoka-critique-scientific-agriculture-civilization]] up to fifty times less efficient
 than natural farming per unit of food produced.
 
 ## The Minimum Calorie Requirement
@@ -49,7 +49,7 @@ considered true "production."
 ## Mechanization Enslaves the Farmer
 
 Mechanized farming enslaves the farmer to his equipment. Machinery is the
-largest domestic animal of all, a great guzzler of oil and a consumer good
+largest [[mollison-designers-domestic-animal-integration-design]] of all, a great guzzler of oil and a consumer good
 rather than a capital good. At first glance it appears to increase
 productivity per worker and raise income, but the efficiency of land
 utilization and energy consumption reveals it to be extremely destructive.
@@ -65,7 +65,7 @@ factories making implements and fertilizer, which would not be needed under
 - [[fukuoka-critique-of-scientific-agriculture]]
 - [[fukuoka-natural-farming-method]]
 - [[fukuoka-japan-postwar-agriculture]]
-- fukuoka textdoc energy wasteful modern agriculture
+- fukuoka textdoc fukuoka textdoc energy wasteful modern agriculture modern agriculture
 ## Practical Considerations
 
 Successful implementation of Energy-Wasteful Modern Agriculture requires attention to
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

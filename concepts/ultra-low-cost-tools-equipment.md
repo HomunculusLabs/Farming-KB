@@ -12,7 +12,7 @@ sources:
 
 ## Eliminating Machinery Dependency
 
-A central tenet of JADAM ultra-low-cost farming is reducing dependency on expensive machinery and equipment. Heavy machinery — particularly tractors — is identified as a primary cause of soil degradation through the formation of compacted plow pans at approximately 15 cm depth. These compacted layers prevent root penetration, water infiltration, and nutrient cycling, leading to the very problems that machinery and chemical inputs are then marketed to solve.
+A central tenet of JADAM ultra-low-cost farming is reducing dependency on expensive machinery and equipment. Heavy machinery — particularly tractors — is identified as a primary cause of soil degradation through the formation of compacted plow pans at approximately 15 cm depth. These compacted layers prevent root penetration, water infiltration, and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], leading to the very problems that machinery and chemical inputs are then marketed to solve.
 
 JADAM urges farmers to "come down from the heavy machines." If machinery must be used, JADAM recommends:
 - Using light vehicles instead of heavy tractors
@@ -26,12 +26,12 @@ The most significant "tool" in JADAM farming is the farmer's own knowledge and c
 
 **Containers for fermentation:**
 - Plastic barrels or drums for liquid fertilizer production
-- Cloth sacks (gunnysacks) for the JADAM anaerobic fermentation method
+- Cloth sacks (gunnysacks) for the JADAM [[jadam-anaerobic-fermentation-principles]] method
 - Glass or plastic bottles for JMS storage
 - Cotton bags for straining liquid solutions
 
 **Application equipment:**
-- Backpack sprayers for foliar application of pesticides and liquid fertilizers
+- Backpack sprayers for [[ultra-low-cost-foliar-application-methods]] of pesticides and liquid fertilizers
 - Watering cans for small-scale operations
 - Simple hose connections for larger applications
 - Hand tools for spreading mulch and organic matter
@@ -76,9 +76,9 @@ JADAM farming naturally lends itself to using repurposed and found materials:
 
 ## Shelter and Infrastructure
 
-For livestock integration and mushroom cultivation, simple structures suffice:
+For [[faires-livestock-integration-permaculture]] and [[accessible-mushroom-cultivation-for-disabilities]], simple structures suffice:
 
-- **South-facing shelters**: Livestock shelters should face south for passive solar warming, with natural ventilation through side openings and roof vents
+- **South-facing shelters**: Livestock shelters should face south for [[comparison-passive-solar-vs-earth-sheltered]] warming, with natural ventilation through side openings and roof vents
 - **Mushroom houses**: Can be built from local materials — bamboo, thatch, used lumber — adapted for accessibility by people with disabilities
 - **Storage areas**: Simple covered areas for tools, inputs, and harvested materials
 - **Composting areas**: Designated outdoor spaces with basic containment for organic material processing
@@ -109,6 +109,8 @@ The JADAM approach to tools follows a clear economic logic: avoid tools that cre
 
 ## See Also
 
+- [[jeavons-tools-equipment-biointensive]]
+
 - [[ultra-low-cost-integrated-farming]]
-- [[mushroom-substrate-pasteurization-comparison]]
+- mushroom-substrate-pasteurization-comparison
 - [[accessible-mushroom-cultivation-for-disabilities]]

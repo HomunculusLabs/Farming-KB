@@ -1,6 +1,6 @@
 ---
 
-title: Berry Growing
+title: comparison-berry-growing-vs-fruit-tree-pruning
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -38,7 +38,7 @@ For detailed species profiles (planting, pruning, varieties, specific care), see
 
 **Frost pocket avoidance:** Low-lying areas collect cold air. Plant berries on slopes or elevated sites to reduce spring frost damage to blossoms.
 
-**Wind protection:** Shelter from strong winds improves pollination and reduces cane damage. Use hedgerows, buildings, or [[food-forest-design]] layers as windbreaks.
+**[[cervantes-wind-protection-outdoor-cannabis]]:** Shelter from strong winds improves pollination and reduces cane damage. Use hedgerows, buildings, or [[food-forest-design]] layers as windbreaks.
 
 **Spacing for integration:** Berries fit naturally between fruit trees in [[orchard-management]] rows, as understory in food forests, or along fence lines in [[pasture-management]] paddock borders.
 
@@ -47,7 +47,7 @@ For detailed species profiles (planting, pruning, varieties, specific care), see
 - Test soil pH and nutrients before planting — see [[soil-food-web-nutrient-cycling]] for biological approach
 - Incorporate 2-4 inches of compost (see [[composting-systems]]) into planting beds
 - For blueberries: incorporate peat moss, pine needles, or elemental sulfur to lower pH
-- Apply [[cover-cropping-guide]] with crimson clover or buckwheat the season before planting
+- Apply [[cover-cropping-guide]] with [[comparison-lupin-vs-crimson-clover-green-manure]] or buckwheat the season before planting
 - Mulch heavily after planting (3-6 inches of wood chips, straw, or pine needles)
 - Consider [[vermicomposting]] as a top-dressing amendment for established plants
 
@@ -59,7 +59,7 @@ For detailed species profiles (planting, pruning, varieties, specific care), see
 | Spotted Wing Drosophila (SWD) | All soft fruit | Traps (ACV), remove overripe fruit, netting, Spinosad |
 | Japanese Beetle | Raspberry, grape, blueberry | Handpick, neem oil, milky spore, Bt (grubs) |
 | Tarnished Plant Bug | Strawberry | Row covers during bloom, white sticky traps |
-| Spider Mites | Strawberry, raspberry | Predatory mites, horticultural oil, increase humidity |
+| Spider Mites | Strawberry, raspberry | [[comparison-predatory-mites-vs-ladybugs-biocontrol]], horticultural oil, increase humidity |
 | Cane Borers | Raspberry, blackberry | Remove infested canes, clean pruning cuts |
 | Birds | All berries | Netting (most effective), scare devices, reflective tape |
 | Deer | All | Fencing (8 ft), repellents, dogs |
@@ -67,8 +67,8 @@ For detailed species profiles (planting, pruning, varieties, specific care), see
 ### Major Diseases
 | Disease | Affects | Control |
 |---------|---------|---------|
-| Botrytis (Gray Mold) | Strawberry, grape, gooseberry | Air circulation, remove infected material, [[compost-tea-aact]] |
-| Powdery Mildew | Gooseberry, grape, raspberry | Sulfur spray, resistant varieties, proper spacing |
+| Botrytis (Gray Mold) | Strawberry, grape, gooseberry | [[stamets-growing-room-air-circulation-co2-management]], remove infected material, [[compost-tea-aact]] |
+| [[cervantes-powdery-mildew-prevention-treatment]] | Gooseberry, grape, raspberry | Sulfur spray, resistant varieties, proper spacing |
 | Anthracnose | Raspberry, blackberry | Remove infected canes, fungicide, resistant varieties |
 | Root Rot | All (wet soils) | Drainage, [[mycorrhizal-fungi]] inoculation, avoid overwatering |
 | Mummy Berry | Blueberry | Remove infected berries, mulch to bury mummies |

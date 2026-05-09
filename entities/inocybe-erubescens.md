@@ -45,7 +45,7 @@ Basidiomycota → Agaricomycetes → Agaricales → **Inocybaceae → *Inocybe* 
 - **Gills:** Adnexed to slightly sinuate, crowded, narrow; white when young, becoming greyish and eventually brownish with reddish tints; edges often fringed and uneven
 - **Stem:** 4–8 cm × 0.8–1.5 cm, cylindrical, solid; surface white to pale buff with a silky sheen, staining distinctly reddish-brown when bruised or cut — this is a critical diagnostic feature; no ring or volva
 - **Flesh:** White, firm; turns pinkish to reddish-brown slowly on exposure; odor mild to faintly spermatic (a characteristic Inocybe odor); taste mild or slightly mealy
-- **Spore print:** Dull brown to tobacco-brown
+- **[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Dull brown to tobacco-brown
 - **Spores:** Smooth, bean-shaped (amygdaliform), roughly 9–12 × 5–6.5 µm; without germ pore
 - **Cystidia:** Cheilocystidia numerous, thin-walled, clavate to ventricose, often with crystalline incrustations; pleurocystidia similar but less common
 
@@ -115,6 +115,6 @@ Fatalities have been documented, particularly in cases involving children, elder
 
 ## See Also
 
-- [[amanita-muscaria-entity]] — contains muscimol and ibotenic acid, often confused with muscarine-containing species
+- [[amanita-muscaria-entity]] — contains muscimol and [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]], often confused with muscarine-containing species
 - [[inocybe-calamistrata]] — related Inocybe species with distinctive morphology
 - [[clitopilus-prunulus]] — edible species with pink spore print, contrasting identification approach

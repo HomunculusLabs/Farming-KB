@@ -10,14 +10,15 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Neem Oil for Organic Cannabis Pest Control
 
 Neem oil is one of the most versatile and widely used organic pest
-control products in cannabis cultivation. Derived from the seeds of the
+control products in [[query-how-does-no-till-cannabis-cultivation-work]]. Derived from the seeds of the
 neem tree (Azadirachta indica), neem oil offers effective control
 against a broad spectrum of pests while maintaining a relatively low
 toxicity profile for humans and beneficial organisms.
@@ -44,8 +45,8 @@ Neem oil is effective against:
 - Thrips
 - Caterpillars and larvae
 
-It is also a fungistat against powdery mildew and rust, making it
-useful for both pest and disease management. Neem oil can be used as a
+It is also a fungistat against [[cervantes-powdery-mildew-prevention-treatment]] and rust, making it
+useful for both pest and [[plant-disease-management-solomon]]. Neem oil can be used as a
 foliar spray or as a soil drench to control soil-dwelling pests
 including nematodes and root maggots.
 
@@ -76,7 +77,7 @@ Spray on foliage, especially under leaves, where mites live. Apply
 every few days so hatching larvae will eat it immediately. Spray
 heavily so mites have little choice but to eat it. For persistent
 infestations, alternate neem oil applications with pyrethrum to
-prevent pest resistance from developing.
+prevent [[cannabis-disease-pest-resistance-breeding-clarke]] from developing.
 
 ## Persistence and Timing
 
@@ -111,7 +112,7 @@ exposed to it repeatedly over multiple generations.
 
 ## Neem in Different Growth Stages
 
-- **Vegetative Phase**: Neem oil can be applied freely during
+- **[[green-cannabis-grow-bible-vegetative-phase-management]]**: Neem oil can be applied freely during
   [[cervantes-harvest-timing-trichome-ripeness]] for pre-harvest guidelines.
 
 ## Integration with IPM
@@ -125,6 +126,6 @@ management guidance.
 
 - [[comparison-neem-oil-vs-diatomaceous-earth]] Concepts
 
-- [[cervantes-biological-pest-control-predators]] - beneficial insects
+- [[cervantes-biological-pest-control-predators]] - [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 - [[cervantes-bacillus-thuringiensis-bt-control]] - biological control
 - [[cervantes-companion-planting-pest-deterrent]] - preventive measures

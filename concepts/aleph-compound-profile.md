@@ -57,7 +57,7 @@ The disruption of mechanical and routine cognitive tasks at 10 mg is notable. Th
 
 ### Independent Assay at 10 mg
 
-A colleague independently assayed ALEPH at 10 mg and reported "only mild effects which he found relatively uninteresting." This inter-individual variability is common among psychedelic phenethylamines and underscores the importance of set and setting. See [[phenethylamine-receptor-pharmacology]] and [[2c-t-7-compound-profile]] and [[phenethylamine-chemistry-basics]]
+A colleague independently assayed ALEPH at 10 mg and reported "only mild effects which he found relatively uninteresting." This inter-individual variability is common among psychedelic phenethylamines and underscores the importance of [[lsd-set-and-setting-framework]]. See [[phenethylamine-receptor-pharmacology]] and [[2c-t-7-compound-profile]] and [[phenethylamine-chemistry-basics]]
 - [[2c-t-2-compound-profile]]
 - [[psilocybin-isolation-and-early-scientific-research]]
 ## Practical Considerations
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

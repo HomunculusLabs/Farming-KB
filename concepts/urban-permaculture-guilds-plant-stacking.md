@@ -3,13 +3,10 @@ title: Plant Guilds and Stacking in Urban Permaculture
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
-tags: [[permaculture, gardening, polyculture, urban-agriculture]
+tags: [permaculture, gardening, polyculture, urban-agriculture]
 sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 ---
-
-# Plant Guilds and Stacking
-
-Permaculture guilds are functional plant communities designed around a central element -- typically a fruit tree -- where each member contributes to the health and productivity of the whole. In natural forests, mature trees like firs support 26 or more species of flora and insects, all playing interconnected roles in growth, nutrient cycling, and pest management. This concept is foundational to [[permaculture-forest-garden-establishment]].
+# Plant Guilds and Stacking Permaculture guilds are functional plant communities designed around a central element -- typically a fruit tree -- where each member contributes to the health and productivity of the whole. In natural forests, mature trees like firs support 26 or more species of flora and insects, all playing interconnected roles in growth, nutrient cycling, and pest management. This concept is foundational to [[permaculture-forest-garden-establishment]].
 
 ## Fruit Tree Guilds
 
@@ -17,13 +14,13 @@ In a typical fruit tree guild, the central element is an apple or plum tree surr
 
 Key guild companion plants include:
 
-- **Yarrow** -- accumulates nutrients, attracts beneficial insects, and has deep taproots that mine minerals from subsoil
+- **Yarrow** -- accumulates nutrients, attracts [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], and has deep taproots that mine minerals from subsoil
 - **Clover** -- fixes atmospheric nitrogen in the soil, providing fertility to neighboring plants; acts as a living mulch that suppresses weeds
 - **Borage** -- attracts pollinators, repels certain pests, and traces minerals from deep soil layers
 - **Nettles** -- dynamic nutrient accumulator rich in nitrogen, iron, and other minerals; stimulates fermentation in compost and activates decomposition
 - **Comfrey** -- deep-rooted nutrient accumulator (especially potassium and phosphorus) whose leaves can be cut multiple times per season for mulch or [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]].
 
-The Three Sisters originated with indigenous peoples of the Americas and represents one of the oldest and most successful examples of companion planting. The synergy between the three crops produces higher total yields than any of them grown alone in monoculture.
+The Three Sisters originated with indigenous peoples of the Americas and represents one of the oldest and most successful examples of [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]. The synergy between the three crops produces higher total yields than any of them grown alone in monoculture.
 
 ## Stacking Principles
 
@@ -32,7 +29,7 @@ Plant stacking mimics forest structure by filling every vertical niche:
 1. **Canopy layer** -- tall trees (fruit, nut, nitrogen-fixing trees)
 2. **Understory layer** -- smaller trees and tall shrubs
 3. **Shrub layer** -- berry bushes and woody perennials
-4. **Herbaceous layer** -- herbs, vegetables, dynamic accumulators
+4. **Herbaceous layer** -- herbs, vegetables, [[comparison-dynamic-accumulators-vs-cover-crops]]
 5. **Ground cover layer** -- creeping plants, clovers, strawberries
 6. **Root layer** -- root crops, tubers
 7. **Vertical layer** -- climbers and vines
@@ -43,7 +40,7 @@ Time stacking extends the concept by planting species that produce at different 
 
 Each guild member serves at least one of these functions:
 
-- **Nitrogen fixation** -- leguminous plants convert atmospheric nitrogen into plant-available forms
+- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]** -- leguminous plants convert atmospheric nitrogen into plant-available forms
 - **Nutrient accumulation** -- deep-rooted plants mine subsoil minerals and bring them to the surface via leaf drop
 - **Pest suppression** -- aromatic herbs mask crop scents from pests; predatory insect plants attract beneficials
 - **Mulch production** -- plants that can be cut repeatedly for surface mulch
@@ -87,7 +84,7 @@ The power of guilds lies in the emergent properties that arise from the interact
 
 - **Nutrient cycling** -- one plant's waste becomes another's food
 - **Pest management** -- predatory insects attracted by flowering plants control pests on crop plants
-- **Disease suppression** -- diverse plantings prevent the buildup of any single pathogen
+- **[[aact-disease-suppression-mechanisms-ingham]]** -- diverse plantings prevent the buildup of any single pathogen
 - **Microclimate regulation** -- taller plants shade and shelter smaller ones
 - **Soil building** -- continuous root growth and leaf drop build organic matter
 
@@ -95,11 +92,11 @@ The power of guilds lies in the emergent properties that arise from the interact
 
 Urban guilds can be scaled down to a single fruit tree in a front yard with a ring of comfrey, clover, and borage beneath it. Even a small garden bed can incorporate stacking principles by growing tall crops on the north side, medium crops in the center, and low ground covers on the south edge.
 
-Container guilds are possible too: a tomato plant with basil and marigolds in a large pot. Balcony gardens can stack vertically with hanging baskets, railing planters, and floor pots creating multiple layers.
+Container guilds are possible too: a tomato plant with basil and marigolds in a large pot. Balcony gardens can stack vertically with [[hamilton-hanging-baskets-organic]], railing planters, and floor pots creating multiple layers.
 
 The goal is always the same: create interconnected communities where each element supports the others, reducing the need for external inputs and creating a self-regulating system. When guild design works well, the system produces its own fertility, manages its own pests, and requires minimal intervention from the gardener. See also [[permaculture-guilds]]
 
-- [[faires-permaculture-ethics-and-design-principles]]
+- faires-permaculture-ethics-and-design-principles
 - [[companion-planting-deterrents]]
 - [[gaias-garden-cover-crops-soil-building]]
 - [[urban-permaculture-trees-water-cycling]]

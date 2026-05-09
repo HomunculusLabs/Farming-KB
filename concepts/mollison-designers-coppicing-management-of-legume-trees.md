@@ -1,5 +1,5 @@
 ---
-title: "Coppicing Management of Legume Trees in Permaculture"
+title: "mollison designers coppicing management of legume trees of Legume multipurpose-trees-in-permaculture-design"
 created: 2026-04-26
 tags:
   - permaculture
@@ -19,7 +19,7 @@ type: concept
 Coppicing is the practice of cutting trees or shrubs to ground level
 to stimulate regrowth from the stump. In permaculture systems,
 coppicing legume trees is a central strategy for producing mulch,
-green manure, forage, and firewood. Bill Mollison provides detailed
+[[comparison-green-manure-guide-vs-mulch-types-and-effects]], forage, and firewood. Bill Mollison provides detailed
 guidance on coppicing management in *Permaculture: A Designers'
 Manual*, emphasising both the benefits and the limitations of this
 practice.
@@ -31,7 +31,7 @@ honey, fruit, nuts, bark, and plank timber as it evolves from a
 pioneer and young plantation to a well-spaced mature stand over
 15-50 years. Coppicing legumes such as Leucaena, Cassia, Acacia,
 and Glyricidia, cut annually, provide nitrogen and mulch for
-intercrops such as maize, sweet potato, ginger, and pineapple. Crop
+intercrops such as maize, [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]], ginger, and pineapple. Crop
 wastes are returned to the field, and firewood is a by-product.
 
 This system connects directly to [[mollison-designers-legume-tree-inoculation-and-nitrogen-distribution]].
@@ -45,7 +45,7 @@ trees:
 With shrubs and small trees, 0.5 m apart is best for foliage
 production, and a trimming height of 0.5-1.5 m is recommended.
 Wider spacing of 2-20 m is appropriate for root nitrogen supply,
-seed production (for poultry and bees), and in-crop shelter, as
+[[cervantes-seed-production-storage]] (for poultry and bees), and in-crop shelter, as
 flowering and seed production improve at wider intervals depending
 on tree size. A full canopy may be needed to reduce or eliminate
 frost.
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

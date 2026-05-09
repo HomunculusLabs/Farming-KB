@@ -1,5 +1,5 @@
 ---
-title: "chamovitz Phytochrome Mobile Signal from Leaf to Flowering"
+title: "chamovitz chamovitz phytochrome mobile signal leaf to flowering Signal from Leaf to Flowering"
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -21,7 +21,7 @@ This established a paradigm: the growing tip was the primary sensory organ
 of the plant.
 
 It was therefore natural to assume that photoperiodism — the plant's
-ability to measure day length and regulate flowering accordingly — would
+ability to measure [[coleman-winter-day-length-and-persephone-months]] and regulate flowering accordingly — would
 also be mediated by receptors at the shoot apex. This assumption proved
 to be incorrect.
 
@@ -43,7 +43,7 @@ plant.
 
 ## The Mobile Signal
 
-When phytochrome in a single leaf detects red light during the night,
+When phytochrome in a single leaf detects [[phytochrome-red-far-red-light-switch]] during the night,
 it triggers the production of a mobile signal — a chemical messenger that
 travels from the leaf through the vascular system to the rest of the
 plant. This signal induces the flowering response in the shoot apex,
@@ -58,7 +58,7 @@ to the shoot apex, where it activates the genetic program for flowering.
 ## The Red/Far-Red Switch
 
 The leaf-based phytochrome system operates through the red light/
-far red light switch discovered by Harry Borthwick and colleagues
+[[borthwick-far-red-reversal-photoperiodic-discovery]] light switch discovered by Harry Borthwick and colleagues
 in the early 1950s:
 
 - A flash of **red light** during the night turns flowering **on**
@@ -124,3 +124,5 @@ they demonstrate the remarkable sophistication of plant light sensing.
 
 - [[chamovitz-julius-von-sachs-blue-light-phototropism]]
 - [[chamovitz-photoreception-human-eye-analogy]]
+
+- [[phytochrome-photoperiodism-plant-flowering]]

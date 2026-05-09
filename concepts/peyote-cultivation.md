@@ -1,17 +1,18 @@
 ---
-title: Peyote Cultivation — Lophophora williamsii
+title: gottlieb-peyote-cultivation-from-seed — Lophophora williamsii
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [cacti, cultivation, ethnobotany, religion, culture, plants, ecology]
-sources: []
+sources:
+  sources: []
 ---
 
 # Peyote Cultivation
 
 ## Overview
 
-Lophophora williamsii (peyote) is a small, spineless cactus native to the Chihuahuan Desert of southern Texas and northern Mexico. It contains mescaline and over 60 other alkaloids. Peyote has been used sacramentally by Indigenous peoples for at least 5,000 years and is central to the **Native American Church** (NAC). Due to habitat destruction, illegal harvesting, and slow growth, wild peyote populations have declined dramatically, making cultivation an important conservation and cultural-preservation practice.
+Lophophora williamsii (peyote) is a small, spineless cactus native to the Chihuahuan Desert of southern Texas and northern Mexico. It contains mescaline and over 60 other alkaloids. Peyote has been used sacramentally by Indigenous peoples for at least 5,000 years and is central to the **[[halpern-sacramental-peyote-and-native-american-church]] Church** (NAC). Due to habitat destruction, illegal harvesting, and slow growth, wild peyote populations have declined dramatically, making cultivation an important conservation and cultural-preservation practice.
 
 ## Botany
 
@@ -47,7 +48,7 @@ Lophophora williamsii (peyote) is a small, spineless cactus native to the Chihua
 ### Soil and Water
 
 - Mineral-heavy, well-draining soil is essential: 50-70% mineral (sand, pumice, lava rock, limestone), 10-30% organic, rest perlite
-- Water thoroughly when soil is completely dry; in active growing season (spring-summer), this may be every 1-2 weeks
+- Water thoroughly when soil is completely dry; in active [[savory-growing-season-and-non-growing-season-management]] (spring-summer), this may be every 1-2 weeks
 - Winter dormancy: reduce or eliminate watering from late autumn to early spring
 - ph preference: slightly alkaline (7.0-8.0) — add limestone chips to substrate
 - Avoid overwatering; root rot is the most common cause of death in cultivated peyote
@@ -95,7 +96,7 @@ Grafted plants can be degrafted (removed from the rootstock and rooted on their 
 ### United States
 
 - Peyote is a Schedule I controlled substance under the Controlled Substances Act
-- **NAC exemption**: The American Indian Religious Freedom Act (1978) and subsequent amendments protect the use of peyote by enrolled members of the Native American Church for bona fide religious ceremonies
+- **NAC exemption**: The [[harner-american-indian-peyote-rituals]] Religious Freedom Act (1978) and subsequent amendments protect the use of peyote by enrolled members of the Native American Church for bona fide religious ceremonies
 - The exemption was strengthened by the Religious Freedom Restoration Act (1993) and confirmed in Employment Division v. Smith (1994) and subsequent legislation
 - Non-NAC cultivation is illegal under federal law regardless of state decriminalization of other psychedelics
 - Texas regulates peyote harvesting through licensed peyoteros who harvest on private land; this system has been the traditional supply chain for the NAC
@@ -119,7 +120,7 @@ Wild peyote populations have declined severely:
 
 ## NAC Ceremony Context
 
-The Native American Church is the primary religious context for peyote use in North America:
+The Native American Church is the primary religious context for peyote use in [[psilocybin-north-america-pacific-northwest]]:
 
 - Peyote is considered a medicine and a teacher, not a recreational drug
 - Ceremonies are typically all-night, conducted in a tipi with a fire, led by a Roadman
@@ -133,5 +134,5 @@ The Native American Church is the primary religious context for peyote use in No
 - [[mescaline-reference]] for detailed pharmacology of the primary active compound
 - [[psychoactive-cacti-guide]] for cultivation of related mescaline-containing species
 - [[psychedelic-mushroom-history]] for parallel history of another sacred psychedelic
-- [[mushroom-legislation-worldwide]] for comparison of psychedelic legal frameworks globally
+- [[mushroom-legislation-worldwide]] for comparison of [[sacramental-psychedelic-legal-protections]] frameworks globally
 - [[cactus-cultivation-seed-cutting]]

@@ -1,5 +1,5 @@
 ---
-title: "Three-Dimensional Natural Orchard Design"
+title: "Three-Dimensional fukuoka-natural-orchard-development Design"
 created: 2026-04-28
 tags: [orchard-design, polyculture, agroforestry, companion-planting, three-dimensional-farming, shelterbelt]
 date: 2026-04-25
@@ -12,16 +12,16 @@ To create a natural orchard, one must observe the principle of
 the right crop for the right land. Hillside land and valley land
 must be treated as such. The natural orchard makes full three-
 dimensional use of space, from the canopy to the soil surface,
-integrating fruit trees with companion species at every level.
+integrating [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] with companion species at every level.
 
 ## Avoiding Monoculture
 
 Avoid the monoculture of fruit trees. Plant deciduous fruit trees
 together with evergreen fruit trees and never forget to interplant
-green manure trees. These may include [[fukuoka-wood-preserve-shelterbelt-design]]
+[[comparison-green-manure-guide-vs-mulch-types-and-effects]] trees. These may include [[fukuoka-wood-preserve-shelterbelt-design]]
 
 - [[fukuoka-natural-orchard-development]]
-- [[faires-orchard-design-and-intercropping]]
+- faires-orchard-design-and-intercropping
 ## Practical Applications
 
 Three-Dimensional Natural Orchard Design has a range of practical applications that make it relevant to
@@ -99,4 +99,9 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[fukuoka-textdoc-natural-three-dimensional-orchard-design]]
+- [[fukuoka-natural-orchard-three-dimensional-design]]
+- [[fukuoka-three-dimensional-solar-energy-capture-rice-paddy]]
+- [[fukuoka-straw-mandala-orchard-design]]
+- [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]]

@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-A **cover crop** is a crop planted primarily to benefit the soil and cropping system rather than for direct harvest. Cover crops are a foundational practice in conservation agriculture, organic farming, and permaculture design, providing ecosystem services including soil protection, nutrient cycling, weed suppression, and biodiversity enhancement.
+A **cover crop** is a crop planted primarily to benefit the soil and cropping system rather than for direct harvest. Cover crops are a foundational practice in conservation agriculture, [[coleman-deep-organic-farming-philosophy]], and permaculture design, providing [[biodiversity-of-fungi-ecosystem-services-agriculture]] including soil protection, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], weed suppression, and biodiversity enhancement.
 
 The practice dates back thousands of years, with documented use in ancient Chinese, Greek, and Roman agriculture. Modern cover crop systems have been refined through decades of agronomic research.
 
@@ -40,7 +40,7 @@ Winter-hardy species maintain soil protection through periods when fields would 
 
 Leguminous cover crops fix atmospheric nitrogen through symbiotic association with *Rhizobium* bacteria.
 
-Biological nitrogen fixation rates range from 50–200 kg N/ha/year depending on species, climate, and growing conditions.
+[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation rates range from 50–200 kg N/ha/year depending on species, climate, and growing conditions.
 
 Non-legume cover crops scavenge residual soil nitrogen, preventing leaching into groundwater.
 
@@ -52,7 +52,7 @@ Root exudates feed soil microbial communities, increasing microbial biomass and 
 
 Cover crop roots create biopores that improve soil structure, water infiltration, and root penetration for subsequent crops.
 
-Increased soil organic matter from decomposing cover crop residues improves cation exchange capacity and water-holding capacity.
+Increased soil organic matter from decomposing cover crop residues improves [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity and water-holding capacity.
 
 Earthworm populations typically increase 30–100% under cover crop rotations compared to conventional tillage.
 
@@ -74,7 +74,7 @@ Cereal rye is particularly effective at suppressing weeds through both competiti
 
 **Hairy vetch** (*Vicia villosa*) is one of the highest nitrogen fixers, producing 90–200 kg N/ha with vigorous vine growth.
 
-**Winter peas** (*Pisum sativum*) offer good biomass production and nitrogen fixation in cooler climates.
+**Winter peas** (*Pisum sativum*) offer good [[dighton-fungal-biomass-production-aquatic-ecosystems]] and nitrogen fixation in cooler climates.
 
 **Cowpea** (*Vigna unguiculata*) excels in warm conditions and is drought-tolerant, making it ideal for summer cover cropping.
 
@@ -121,5 +121,4 @@ Winter-kill termination relies on species that naturally die back in cold temper
 - [[ozier-pdc-composting-and-soil-building]]
 - [[companion-planting]]
 - [[query-how-does-crop-rotation-improve-soil-health]]
-- [[permaculture]]
-- [[query-how-does-crop-rotation-improve-soil-health]]
+- permaculture

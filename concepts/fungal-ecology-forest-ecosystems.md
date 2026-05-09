@@ -1,5 +1,5 @@
 ---
-title: Fungal Ecology in Forest Ecosystems
+title: gadd-fungal-ecology-endophytes in Forest Ecosystems
 created: 2026-04-28
 tags: [fungal-ecology, forest-floor, decomposition, wood-decay, mycelial-networks]
 date: 2026-04-25
@@ -21,8 +21,8 @@ this through several mechanisms:
 - **Bacterial predation**: Mushroom-forming basidiomycetes secrete
   antibiotics to kill soil bacteria, then absorb nutrients from their
   leaking cells. Species that form ink-caps, puffballs, and bird's nests
-  are particularly adept bacterial predators.
-- **Nematode trapping**: Some fungi trap and kill nematode worms using
+  are particularly adept [[fungal-bacterial-predators-nitrogen-acquisition-soil-ecology]].
+- **[[bloomfield-nematode-trapping-fungi-predatory-soil-fungi]]**: Some fungi trap and kill nematode worms using
   adhesive branches, adhesive cages, or explosive ring traps. Chemical
   attractants lure nematodes to these snares, which grip the animals with
   pressures of up to 18 atmospheres before penetrating and dissolving
@@ -42,7 +42,7 @@ are sealed from the rest of the colony when septal pores are plugged.
 
 ### Interaction with Invertebrate Dispersers
 
-Many forest fungi depend on invertebrate animals for spore dispersal.
+Many forest fungi depend on invertebrate animals for [[aquatic-fungi-spore-dispersal-ingold]].
 Stinkhorns, for example, produce spore masses embedded in slime containing
 volatile chemicals including hydrogen sulfide, formaldehyde, and
 methylmercaptan that mimic the smell of rotting flesh. Flies swarm to the
@@ -55,9 +55,9 @@ forested landscapes.
 
 ### Forest Health Assessment
 
-The presence and abundance of specific fungal fruiting bodies serve as
+The presence and abundance of specific [[brassinosteroid-fungal-fruiting-body-morphology]] bodies serve as
 bioindicators of forest health and soil condition. Changes in fungal
-community composition can signal shifts in ecosystem function, making
+[[core-endorhiza-bacterial-community-composition-cannabis]] can signal shifts in ecosystem function, making
 fungal surveys valuable tools for forest monitoring and management.
 
 ### Sustainable Forestry
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

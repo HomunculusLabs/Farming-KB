@@ -1,5 +1,5 @@
 ---
-title: Fruiting Body Development
+title: comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms Development
 created: 2026-04-28
 tags:
   - mycology
@@ -16,7 +16,7 @@ type: concept
 
 # Fruiting Body Development
 
-The transition from vegetative [[mushroom-life-cycle-stamets]]. Called pinning, pin setting,
+The transition from vegetative mushroom-life-cycle-stamets. Called pinning, pin setting,
 pinhead initiation, or fructification, this process involves the formation of
 primordia, which are knots of mycelium that precede development into small
 mushrooms. Understanding the factors that regulate this change enables
@@ -24,7 +24,7 @@ cultivators to reliably trigger and control fruiting.
 
 ## Environmental Triggers for Fruiting
 
-In nature, primordia formation is primarily influenced by seasonal changes in
+In nature, [[growing-gourmet-primordia-formation-pinning]] is primarily influenced by seasonal changes in
 environmental conditions. In temperate climates, most mushrooms fruit during
 the cool, wet autumn, whereas in tropical and subtropical climates, fruiting
 occurs during the rainy season. The fruiting period ends when conditions
@@ -33,9 +33,9 @@ slowly, reactivated by warming temperatures, during which it expands its
 network, absorbs nutrients, and rebuilds energy reserves.
 
 Mushrooms fruit indoors in response to much the same conditions that trigger
-fruiting in the wild. Several environmental factors, working in combination,
-provide an ideal environment. Most cultivated mushrooms fruit at lower
-temperatures than the optimum for mycelial growth. A drop in temperature is
+fruiting in the wild. Several [[duggar-mushroom-environmental-factors-temperature-moisture-light]], working in combination,
+provide an ideal environment. Most [[fungi-cultivated-mushrooms-pathogens-competitors]] fruit at lower
+temperatures than the optimum for [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]. A drop in temperature is
 usually accompanied by increased humidity and fresh air exchange.
 
 ## Key Fruiting Parameters
@@ -52,7 +52,7 @@ process.
 The first step in pinhead initiation is to lower substrate and air
 temperature from the mycelial growth optimum to the fruiting range. This
 temperature shock is accomplished by ventilation with cool fresh air, thereby
-slowing vegetative growth and signaling to the mycelium that it is time to
+slowing [[cannabis-vegetative-growth-stage]] and signaling to the mycelium that it is time to
 fruit. Within 48 hours, substrate temperature should fall to fruiting
 temperatures. Research by Lambert (1938) showed that a pinhead of Agaricus
 brunnescens with a diameter of 2 millimeters fully develops into a mature
@@ -133,4 +133,7 @@ primordia formation are harmful to primordial growth.
 
 - [[mushroom-pinning-primordia-formation-strategies]]
 - [[mushroom-cultivation-overview]]
-- [[mushroom-environmental-parameters]]
+- mushroom-environmental-parameters
+- [[agaricus-brunnescens]]
+- [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]
+- [[maitake-fruiting-body-morphogenetic-stages]]

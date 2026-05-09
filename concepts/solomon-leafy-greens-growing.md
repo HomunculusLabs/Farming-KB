@@ -1,5 +1,5 @@
 ---
-title: "Leafy Greens: Growing Guide"
+title: "solomon leafy greens growing: comparison-bean-growing-guide-vs-pepper-growing-guide"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
@@ -18,7 +18,7 @@ Leafy greens provide essential vitamins, minerals, and protein. Dark green loose
 
 ## Cool-Season Greens: Spinach and Mustard
 
-Spinach and mustard have a demand difference depending on season: medium-demand for autumn/winter harvest, high-demand for spring harvest. Why? Spring crops must grow rapidly before bolting, requiring maximum nitrogen. Autumn crops grow through months before bolting, so high fertility is not as critical.
+Spinach and mustard have a demand difference depending on season: medium-demand for autumn/[[coleman-claytonia-winter-harvest-cultivation]], high-demand for spring harvest. Why? Spring crops must grow rapidly before bolting, requiring maximum nitrogen. Autumn crops grow through months before bolting, so high fertility is not as critical.
 
 ### Growing Details (Summer/Spring)
 
@@ -36,7 +36,7 @@ Cut or break off large outer leaves, leaving the plant to continue producing. On
 
 - Mustard: bee-pollinated outcrosser; maintain 12+ plants for genetic vigor
 - Spinach: wind-pollinated with separate male and female plants; need larger starting population since males produce no seed
-- Both can serve as autumn green manure crops; till under before seedstalks form
+- Both can serve as autumn green [[green-manure-crops-detailed]]; till under before seedstalks form
 
 ## Kale and Brussels Sprouts
 
@@ -72,7 +72,7 @@ To achieve best eating quality, lettuce must grow without moisture stress. When 
 - The most important practice: thin progressively, carefully, and thoroughly
 - Competition slows growth; never let it happen
 - Sow every 3 weeks for continuous harvest
-- In warm weather, a sowing remains in prime condition only a few days
+- In [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]], a sowing remains in prime condition only a few days
 - Plant several varieties of differing maturities at the same time for extended harvest
 
 ### Mesclun
@@ -107,7 +107,7 @@ All onions prefer open, well-drained loams. They will not grow fast in clay. On 
 
 Scallions (spring onions) can be harvested by thinning. Straight-shanked onions grow quite large with moderate fertility.
 
-Spacing: Solomon recommends 18 inches (45 cm) between rows for good air circulation (more than most sources suggest). Thinning should be early and thorough.
+Spacing: Solomon recommends 18 inches (45 cm) between rows for good [[stamets-growing-room-air-circulation-co2-management]] (more than most sources suggest). Thinning should be early and thorough.
 
 Pests: thrips reduce bulb size but are usually minor for home gardeners. Molds and mildews can be serious -- prevention through spacing, air circulation, cleanup of all onion debris after harvest. Leeks and garlic have far higher mold resistance than onions.
 

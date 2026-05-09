@@ -25,14 +25,14 @@ turns the fly into a platform for its own reproduction.
 
 ## The Pleomorphy Problem in Entomopathogenic Fungi
 
-The entomopathogenic fungi presented one of the greatest challenges in fungal
+The entomopathogenic fungi presented one of the greatest [[staycare-scale-up-challenges-in-fungal-bioremediation]]
 taxonomy because of pleomorphy -- the production of multiple distinct forms by
 the same organism. Many insect-killing fungi produce asexual spores (conidia)
 on the dead host, but their sexual (teleomorph) stages were discovered
 separately and classified in entirely different genera. This created enormous
 confusion:
 
-- **[[beauveria]] is now widely used as a biological control agent against
+- **[[beauveria]] is now widely used as a [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent against
   agricultural pests.
 
 - **[[metarhizium]] anisopliae** (asexual stage) is a green-spored fungus that
@@ -40,10 +40,10 @@ confusion:
   Its teleomorph is Metacordyceps. It has been investigated as a biological
   weapon against malaria-carrying mosquitoes and crop-damaging locusts.
 
-The Tulasne brothers' pioneering work on pleomorphy in the 1860s (published
+The [[bloomfield-fungal-pleomorphy-tulasne-brothers-anamorph-teleomorph]]' pioneering work on pleomorphy in the 1860s (published
 in Selecta Fungorum Carpologia) was partly inspired by these fungi, though
 their significance for insect pathology was not fully appreciated until the
-twentieth century.
+[[coleman-louis-savier-twentieth-century-maraicher]].
 
 ## Beauveria bassiana: Biological Warfare Agent
 
@@ -69,14 +69,14 @@ over infested areas.
 
 ## Massospora and the Cicada-Killing Fungus
 
-Massospora cicadina is a specialized pathogen of periodical cicadas (Magicicada
+Massospora cicadina is a specialized pathogen of [[query-why-do-periodical-cicadas-emerge-in-13-and-17-year-cycles]] (Magicicada
 species). Infected cicadas continue to fly and sing despite having lost the
 back portion of their abdomen, which has been replaced by a mass of fungal
 spores. The fungus essentially hollows out the insect, replacing its rear end
 with a chalky plug of spores that are dispersed during flight. Infected males
 may continue to call for mates, attracting healthy cicadas that then become
 infected upon contact -- a form of sexual transmission that is extraordinary
-even by the standards of parasitic fungi.
+even by the standards of [[escovopsis-parasitic-fungi-attine-ant-gardens]].
 
 ## Mechanisms of Behavioral Manipulation
 

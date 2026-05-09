@@ -1,5 +1,5 @@
 ---
-title: Fungal Imaging Techniques
+title: gadd fungal imaging techniques Techniques
 created: 2026-04-28
 tags:
   - microscopy
@@ -16,11 +16,11 @@ type: concept
 
 # Fungal Imaging Techniques
 
-Visualisation techniques are fundamental to understanding fungal biology.
+Visualisation techniques are fundamental to understanding [[bloomfield-fungal-biology-and-hyphal-growth]].
 From early light microscopy to modern fluorescent protein tagging and
 live-cell imaging, technological advances have driven discoveries about
 hyphal growth, organelle dynamics, septal pore function, and molecular
-transport within mycelial networks.
+transport within [[fungal-mycelial-networks-nutrient-translocation]].
 
 ## Light microscopy foundations
 
@@ -66,7 +66,7 @@ complexes within hyphal compartments.
 ## Applications to Woronin body dynamics
 
 FRAP studies of Woronin body dynamics in Neurospora crassa and
-Aspergillus species revealed that Woronin bodies are relatively
+Aspergillus species revealed that [[gadd-woronin-bodies-hyphal-septation]] are relatively
 immobile under normal conditions but become rapidly mobilised following
 septal damage. This mobility transition is essential for their function
 as septal-pore plugs. Fluorescent tagging of HEX-1 allowed tracking of
@@ -112,7 +112,7 @@ secondary antibodies localise specific proteins within fungal cells.
 Anti-HEX-1 antibodies decorated Woronin body matrices in multiple
 ascomycete species. Monoclonal antibodies against alpha-1,3-glucan
 (MOPC 104E, 401925) revealed surface localisation of this polysaccharide
-in Aspergillus fumigatus conidia and Histoplasma capsulatum yeast
+in [[gadd-aspergillus-fumigatus-glucan-virulence]] conidia and Histoplasma capsulatum yeast
 cells. Immunolocalisation bridges biochemical knowledge with cellular
 context.
 
@@ -131,7 +131,7 @@ Super-resolution microscopy techniques (STED, PALM, STORM) are
 breaking the diffraction limit of light microscopy, allowing
 visualisation of fungal structures at nanometre scales. Correlative
 light and electron microscopy (CLEM) combines fluorescent protein
-localisation with electron microscope ultrastructure. These advances
+localisation with [[bloomfield-ascospore-extreme-resilience-electron-microscope-survival]] ultrastructure. These advances
 will increasingly bridge the gap between molecular biology and
 cellular imaging in fungal research.
 

@@ -1,5 +1,5 @@
 ---
-title: Natural Farming Seed Saving
+title: comparison-natural-farming-vs-permaculture comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and.md]
 
 # Natural Farming Seed Saving
 
-Saving your own seeds preserves genetic diversity, adapts varieties to your local conditions, and eliminates dependence on commercial seed suppliers. After 3-5 years of selection, saved seeds become locally adapted to your climate and soil.
+Saving your own seeds preserves [[biodiversity-fungal-genetic-diversity]], adapts varieties to your local conditions, and eliminates dependence on commercial seed suppliers. After 3-5 years of selection, saved seeds become locally adapted to your climate and soil.
 
 ## Seed Types
 
@@ -71,7 +71,7 @@ Before planting saved seed, test viability:
 - [[vegetable-growing-guide]] — for crop-specific growing info
 ## Practical Considerations
 
-Successful implementation of Natural Farming Seed Saving requires attention to
+Successful implementation [[four-principles-of-natural-farming]] Seed Saving requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

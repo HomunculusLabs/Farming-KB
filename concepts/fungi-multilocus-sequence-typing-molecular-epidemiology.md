@@ -1,5 +1,5 @@
 ---
-title: Multilocus Sequence Typing and Molecular Epidemiology of Fungi
+title: fungi multilocus sequence typing molecular epidemiology Typing and Molecular Epidemiology of Fungi
 created: 2026-04-26
 tags: [fungal-genetics, molecular-epidemiology, population-genetics, mycology, genomics]
 date: 2026-04-25
@@ -54,7 +54,7 @@ databases for data sharing.
 
 ## MLST Applications in Fungi
 
-The first fungal MLST scheme was developed for Coccidioides immitis by
+The first [[gadd-fungal-mlst-population-genetics]] scheme was developed for Coccidioides immitis by
 sequencing five genes (CHS1, pyrG, tcrP, CTS2, and a serine
 proteinase), revealing 1.4% average nucleotide diversity between
 isolates and two strongly supported clades separated by 11-12.8 million
@@ -62,7 +62,7 @@ years of evolution. This led to naming a new sister species,
 C. posadasii. The scheme further showed that North and Central American
 populations were geographically separated, genetically recombining
 groups where geography covaried linearly with distance, indicating low
-long-distance spore dispersal.
+long-distance [[aquatic-fungi-spore-dispersal-ingold]].
 
 For [[gadd-fungal-multilocus-sequence-typing]]
 
@@ -80,5 +80,5 @@ For [[gadd-fungal-multilocus-sequence-typing]]
   Coccidioides immitis. PNAS 94, 5478-82.
 - Tavanti, A. et al. (2003). Multilocus sequence typing for
   C. albicans. J Clin Microbiol 41, 5532-8.
-- Fisher, M. C. et al. (2004). MLMT scheme for Penicillium marneffei.
+- Fisher, M. C. et al. (2004). MLMT scheme for [[gadd-penicillium-marneffei-population-genetics]].
   J Clin Microbiol 42, 4348-54.

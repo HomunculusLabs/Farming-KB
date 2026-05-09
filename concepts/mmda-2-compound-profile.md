@@ -16,7 +16,7 @@ sources:
 - **Class:** Substituted amphetamine (tetraoxygenated)
 - **HCl melting point:** 186-187 °C
 - **Molecular formula:** C11H15NO3
-- **Essential oil precursor:** Asaricin (from Carpano tree, Solomon Islands)
+- **[[permaculture-designers-manual-essential-oil-plants]] precursor:** Asaricin (from Carpano tree, Solomon Islands)
 
 ## Dosage and Duration
 
@@ -49,9 +49,9 @@ MMDA-2 is synthesized from sesamol (3,4-methylenedioxyphenol), a compound readil
 4. **Reduction:** The nitrostyrene is reduced with lithium aluminum hydride (LAH) in THF under inert atmosphere for 36 hours to yield the final amine. LAH reduction of nitroalkenes is a high-yielding but moisture-sensitive step requiring rigorously anhydrous conditions.
 5. **Salt formation:** The freebase is converted to the hydrochloride salt, 2-methoxy-4,5-methylenedioxyamphetamine HCl (mp 186-187 deg C), yielding 31.1 g from 25 g sesamol starting material.
 
-The overall yield from sesamol to MMDA-2 HCl is moderate, and each intermediate can be purified and characterized before proceeding to the next step. The synthetic route is representative of the classical phenethylamine synthesis methods described in [[tma-2-compound-profile]] and [[ayahuasca-preparation-and-ceremony]] was often made by subjects familiar with both. The structural resemblance is clear: the complete MDA molecule with the addition of a methoxy group. One property shared with MDA is the broad variety of opinions as to the quality of its action -- some like it much, and some like it not at all. This variability in subjective response is a hallmark of many substituted amphetamines and may reflect genetic differences in metabolic enzyme activity, individual variations in 5-HT2A receptor density or binding affinity, or differences in set and setting that amplify or attenuate specific aspects of the drug experience.
+The overall yield from sesamol to MMDA-2 HCl is moderate, and each intermediate can be purified and characterized before proceeding to the next step. The synthetic route is representative of the classical phenethylamine synthesis methods described in [[tma-2-compound-profile]] and [[ayahuasca-preparation-and-ceremony]] was often made by subjects familiar with both. The structural resemblance is clear: the complete MDA molecule with the addition of a methoxy group. One property shared with MDA is the broad variety of opinions as to the quality of its action -- some like it much, and some like it not at all. This variability in subjective response is a hallmark of many substituted amphetamines and may reflect genetic differences in metabolic enzyme activity, individual variations in 5-HT2A receptor density or binding affinity, or differences in [[lsd-set-and-setting-framework]] that amplify or attenuate specific aspects of the drug experience.
 
-The phenethylamine analog of MMDA-2 (2C-2, 2-methoxy-4,5-methylenedioxyphenethylamine HCl, mp 218-219 deg C) showed no effects at up to 2.6 milligrams, but no higher trials were made. This result is consistent with the general finding that the phenethylamine versions of active amphetamines tend to be significantly less potent or inactive, reflecting the importance of the alpha-methyl group for 5-HT2A receptor binding in this chemical series. The 4-carbon homologue (4C-2) was also synthesized but never tasted, leaving its pharmacological profile unexplored.
+The phenethylamine analog of MMDA-2 (2C-2, 2-methoxy-4,5-methylenedioxyphenethylamine HCl, mp 218-219 deg C) showed no effects at up to 2.6 milligrams, but no higher trials were made. This result is consistent with the general finding that the phenethylamine versions of active amphetamines tend to be significantly less potent or inactive, reflecting the importance of the alpha-methyl group for 5-HT2A [[tihkal-receptor-binding-serotonin]] in this chemical series. The 4-carbon homologue (4C-2) was also synthesized but never tasted, leaving its pharmacological profile unexplored.
 
 The Tweetio homologue EMDA-2 (2-ethoxy-4,5-methylenedioxyamphetamine, HCl mp 188-188.5 deg C) showed eyes-closed visual phenomena with intense colors at 135 milligrams, with sleep disturbance afterward. The approximately threefold increase in dose required compared to MMDA-2 reflects the general pattern that extending the 2-position alkoxy chain from methoxy to ethoxy reduces potency, as the larger ethoxy group introduces steric hindrance that reduces receptor binding efficiency.
 
@@ -70,7 +70,7 @@ The gastrointestinal effects reported at higher doses (abdominal cramping, flatu
 
 ## Legal Status
 
-MMDA-2 is controlled in many jurisdictions as a positional isomer of MMDA or as a substituted amphetamine under analogue scheduling provisions. In the United States, the Federal Analogue Act potentially covers MMDA-2 as an analogue of MDA, a Schedule I substance, though explicit scheduling varies by jurisdiction. The compound is included in many national controlled substance lists as a member of the broader methylenedioxyamphetamine class. Researchers should consult local regulations before attempting synthesis or possession, as the legal landscape for substituted amphetamines has become increasingly restrictive since the original PIHKAL research was conducted.
+MMDA-2 is controlled in many jurisdictions as a positional isomer of MMDA or as a substituted amphetamine under analogue scheduling provisions. In the [[dmt-containing-plants-united-states-halpern]], the Federal Analogue Act potentially covers MMDA-2 as an analogue of MDA, a Schedule I substance, though explicit scheduling varies by jurisdiction. The compound is included in many national controlled substance lists as a member of the broader methylenedioxyamphetamine class. Researchers should consult local regulations before attempting synthesis or possession, as the legal landscape for substituted amphetamines has become increasingly restrictive since the original PIHKAL research was conducted.
 
 ## Safety Considerations
 
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

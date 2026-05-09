@@ -2,7 +2,7 @@
 title: "Soil Minerals and Nutrients"
 created: 2026-04-26
 updated: 2026-04-25
-sources: "Jeff Lowenfels & Wayne Lewis, Teaming with Microbes"
+sources: "jeff-lowenfels & Wayne Lewis, teaming-with-microbes-actinomycetes"
 wikilinks: "lowenfels-soil-food-web-overview lowenfels-bacteria-role-soil lowenfels-fungi-role-soil lowenfels-nutrients-nitrogen-cycle lowenfels-mycorrhizal-networks lowenfels-compost-tea-brewing"
 type: concept
 tags: [minerals, nutrients, soil]
@@ -24,13 +24,13 @@ themselves directly -- the soil food web feeds them.
 
 **Nitrogen (N)** -- Required in largest quantities. Essential for amino acids,
 proteins, chlorophyll, and nucleic acids. In the soil food web, nitrogen cycles
-through organic matter (proteins, amino acids, nucleic acids) into inorganic
+through [[hamilton-composting-and-organic-matter-management]] (proteins, amino acids, nucleic acids) into inorganic
 forms (ammonium NH4+, nitrite NO2-, nitrate NO3-). Bacteria decompose organic
-matter and retain nitrogen in their bodies. Protozoa and nematodes eat bacteria
+matter and retain nitrogen in their bodies. [[teaming-with-microbes-protozoa-and-nematodes]] eat bacteria
 and release excess nitrogen as ammonium. Nitrifying bacteria convert ammonium to
 nitrate. Nitrogen-fixing bacteria (Rhizobium, Azotobacter) convert atmospheric
 N2 into ammonium. Plants absorb nitrogen as ammonium or nitrate depending on
-their type -- trees and shrubs prefer ammonium; vegetables and annuals prefer
+their type -- [[nitrogen-fixing-trees-and-shrubs]] prefer ammonium; vegetables and annuals prefer
 nitrate. See [[teaming-with-nutrients-ph-testing-and-soil-amendment]]
 - [[hamilton-soil-biology-and-microorganisms]]
 - [[knf-seed-treatment-and-soil-foundation]]
@@ -51,7 +51,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -101,7 +101,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -111,4 +111,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

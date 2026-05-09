@@ -1,5 +1,5 @@
 ---
-title: Energy-Efficient House Design
+title: Energy-Efficient mollison-designers-house-design-climate-zones
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
@@ -9,13 +9,13 @@ sources:
 ---
 # Energy-Efficient House Design
 
-The greatest cost in house maintenance in temperate cold areas is that of space and water heating; together, these may make up 80% of all domestic energy costs. In permaculture, both settlement design overall and house design in detail are critical conservation factors in human occupation of any climate zone.
+The greatest cost in house maintenance in temperate cold areas is that of space and water heating; together, these may make up 80% of all domestic energy costs. In permaculture, both [[cool-climate-settlement-design-mollison]] overall and house design in detail are critical conservation factors in human occupation of any [[holzer-climate-zone-microclimate-creation]].
 
 ## Site Selection and Settlement Design
 
-Settlement site choice, and the surrounding plantings in landscape, are probably so critical as to provide for 70% of the conservation of heat energy in cool climates; actual structural techniques cope with the rest. In creating a sustainable settlement, the following factors are important:
+Settlement site choice, and the surrounding plantings in landscape, are probably so critical as to provide for 70% of the conservation of heat energy in [[greenhouse-cool-climates-mollison]]; actual structural techniques cope with the rest. In creating a sustainable settlement, the following factors are important:
 
-- Village or streets aligned east-west at the mid-slope (thermal belt) of a sun-facing slope, preferably with forests and high water storages above the site
+- Village or streets aligned east-west at the mid-slope ([[mollison-frost-protection-and-thermal-belt-design]]) of a sun-facing slope, preferably with forests and high water storages above the site
 - Housing closely placed or conjoined at east and west walls, and preferably of two to four stories, to reduce insulation costs and create a compact site
 - Dense windbreak polewards or uphill of the settlement, and to the east and west (a "suntrap" structure)
 - Dense attached vines on all sound masonry walls, or out from wooden walls, to assist insulation
@@ -72,7 +72,7 @@ In the permaculture system, good house design includes integration with living c
 - Greywater recycling to garden systems
 - Compost systems for kitchen and garden waste
 
-In some climates, many of these structures are formed of the natural environment, and will in time return to it (bamboo and rattan, wattle and daub, thatch, and earth-covered or sheltered structures).
+In some climates, many of these structures are formed of the natural environment, and will in time return to it (bamboo and rattan, [[comparison-wattle-and-daub-vs-cob-construction]], thatch, and earth-covered or sheltered structures).
 
 ## Glasshouse Integration
 
@@ -105,11 +105,11 @@ House design should incorporate:
 - Space heating and cooling designed for the region
 - Power generation systems (solar, wind, micro-hydro)
 - Energy-conserving appliances
-- Appropriate technology for the specific region
+- [[appropriate-technology]] for the specific region
 
 ## See Also
 
 - [[zone-sector-analysis-guide]] - Placement of house in the landscape
 - [[natural-building-materials-guide]]
-- [[permaculture-cold-climate-strategies]]
-- [[permaculture-humid-landscape-strategies]]
+- permaculture-cold-climate-strategies
+- permaculture-humid-landscape-strategies

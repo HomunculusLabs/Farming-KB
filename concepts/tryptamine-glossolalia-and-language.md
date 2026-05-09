@@ -1,5 +1,5 @@
 ---
-title: Tryptamine Glossolalia and Language
+title: mckenna-tryptamine-glossolalia-and-primal-language and Language
 source: mckenna_t-tryptamines_consciousness.md
 tags: [psychedelics, dmt, language, glossolalia, consciousness, tryptamines]
 created: 2026-05-08
@@ -9,7 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-A distinctive and little-studied feature of the tryptamine psychedelic experience
+A distinctive and little-studied feature of the tryptamine [[leary-psychedelic-experience-bardo-mapping]]
 is the emergence of spontaneous vocal phenomena that [[tryptamine-hallucinogens]] is that they "invoke the
 Logos" — they work directly on the language centers of the brain. This means that
 "an important aspect of the experience is the interior dialogue." Unlike other
@@ -33,7 +33,7 @@ beheld," existing simultaneously as auditory and visual phenomena.
 The experience of these translinguistic objects produces intense cognitive
 dissonance because the human mind attempts to apply ordinary linguistic categories
 to phenomena that exceed them. "Being monkeys," McKenna wrote, "when we encounter
-a translinguistic object, a kind of cognitive dissonance is set up in our
+a translinguistic object, a kind of [[mckenna-cognitive-dissonance-translinguistic-object]] is set up in our
 hindbrain. We try to pour language over it and it sheds it like water off a duck's
 back."
 
@@ -50,7 +50,7 @@ The tryptamine-induced phenomenon is fundamentally different. McKenna described 
 as "simply a brain state that allows the expression of the assembly language that
 lies behind language" — a state in which one discovers the ability to generate the
 extra-dimensional objects encountered in the DMT vision through one's own voice.
-This is not random vocalization but what McKenna called a "primal language of the
+This is not random vocalization but what McKenna called a "[[mckenna-glossolalia-and-primal-language-tryptamine-states]] of the
 sort that Robert Graves discussed in The White Goddess, or a Kabbalistic language
 of the sort that is described in the Zohar."
 
@@ -66,7 +66,7 @@ multiple traditions:
 - **Robert Graves** in The White Goddess proposed a prehistoric poetic language
   underlying all subsequent human tongues.
 
-- **Philo Judaeus** described the Logos as a state of consciousness where language
+- **[[mckenna-philo-judaeus-logos-hearing-to-beholding]]** described the Logos as a state of consciousness where language
   transitions seamlessly from "things heard to things beheld."
 
 - **The Hermetic tradition** speaks of a language of nature that directly
@@ -126,7 +126,7 @@ may be inadequate to the phenomena it encounters under tryptamines.
 ## See Also
 
 - [[tryptamine-hyperdimensional-entities]]
-- [[tryptamine-hallucinogens-and-consciousness]]." The Archaic Revival. HarperSanFrancisco.
+- [[tryptamine-hallucinogens-and-consciousness]]." The [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]. HarperSanFrancisco.
 - Graves, R. (1948). The White Goddess. Faber and Faber.
 - Scholem, G. (1960). Major Trends in Jewish Mysticism. Schocken Books.
 - Benny, J. (1978). "Glossolalia." Language 54(2).

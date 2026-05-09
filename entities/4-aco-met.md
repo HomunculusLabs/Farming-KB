@@ -58,7 +58,7 @@ circulates primarily through online research chemical markets.
   may also have direct pharmacological activity before conversion
 - **5-HT₂A receptor agonism:** Primary mechanism of psychedelic action; partial
   agonist at the serotonin 5-HT₂A receptor, producing altered perception,
-  synesthesia, and ego dissolution at sufficient doses
+  synesthesia, and [[psilocybin-ego-dissolution-mechanisms]] at sufficient doses
 - **5-HT₁A receptor:** Possible weak agonist activity, contributing to anxiolytic
   and mood-elevating effects
 - **TAAR1 receptor:** Minimal activity expected at the trace amine-associated
@@ -95,7 +95,7 @@ circulates primarily through online research chemical markets.
   occasional emotional release; anxiety is less common than with 4-AcO-DMT
 - **Physical:** Mild physical lightness, tingling sensations, pupil dilation,
   increased body temperature awareness, mild nausea on come-up (less common
-  than with psilocybin mushrooms)
+  than with [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]])
 - **Auditory:** Sound enhancement, mild synesthesia, music appreciation
   significantly heightened
 
@@ -115,7 +115,7 @@ circulates primarily through online research chemical markets.
 
 ## Harm Reduction
 
-- **Set and setting:** Standard psychedelic harm reduction applies; comfortable
+- **[[lsd-set-and-setting-framework]]:** Standard psychedelic harm reduction applies; comfortable
   environment, trusted companions, and positive mindset significantly improve
   outcomes
 - **Substance testing:** Always test with reagents; 4-AcO-MET shows no color
@@ -131,6 +131,6 @@ circulates primarily through online research chemical markets.
 
 ## See Also
 
-- [[4-aco-dmt|4-AcO-DMT]] — N,N-dimethyl analogue with greater potency and depth
+- [[4-acetoxy-dmt|4-AcO-DMT]] — N,N-dimethyl analogue with greater potency and depth
 - [[4-ho-mipt|4-HO-MiPT]] — related synthetic tryptamine with distinct character
 - [[5-meo-mipt|5-MeO-MiPT]] — N,N-dimethylisopropyl tryptamine ("Moxy")

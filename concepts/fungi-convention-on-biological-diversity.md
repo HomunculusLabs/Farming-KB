@@ -1,5 +1,5 @@
 ---
-title: Fungi and the Convention on Biological Diversity
+title: Fungi and the fungi convention on biological diversity Diversity
 created: 2026-04-26
 tags:
   - biodiversity policy
@@ -23,7 +23,7 @@ conservation. The implications of this convention for [[gadd-fungal-species-reco
   are known
 - Fungi play pivotal roles in all ecosystems, including nutrient
   cycling, decomposition, plant mutualisms, and pathogenesis
-- Fungal genetic resources have enormous potential for biotechnology,
+- [[biodiversity-fungal-genetic-diversity]] resources have enormous potential for biotechnology,
   medicine, and industry
 - Fungi serve as indicators of ecosystem health and environmental
   change
@@ -54,7 +54,7 @@ herbaria and culture collections to house and maintain specimens. The
 implications for fungal systematics are particularly acute because:
 
 - Recent accelerated deforestation and general habitat destruction
-  have created urgency for documenting fungal diversity before
+  have created urgency for documenting [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] before
   habitats disappear
 - Many fungal groups have never been surveyed in most geographic
   regions
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

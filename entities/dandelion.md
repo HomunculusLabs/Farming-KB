@@ -24,7 +24,7 @@ created: 2026-05-07
 # Dandelion
 
 The dandelion (*[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] hairs forming a characteristic "clock" or "blowball"
-- **Seed production**: A single plant produces 2,000–5,000+ seeds per year; seeds remain viable for 5–8 years in soil
+- **[[cervantes-seed-production-storage]]**: A single plant produces 2,000–5,000+ seeds per year; seeds remain viable for 5–8 years in soil
 - **Dispersal**: Wind-dispersed; pappus enables long-distance travel (up to 100+ km under optimal conditions)
 - **Flowering**: Nearly year-round in temperate climates, with peak flowering in spring and autumn
 
@@ -61,7 +61,7 @@ All parts of the dandelion are edible and nutritionally dense:
 
 ### Medicinal Uses (Evidence-Based)
 
-- **Diuretic**: Dandelion leaf extract increases urinary output and frequency comparable to furosemide in clinical trials, with the advantage of potassium conservation (dandelion is potassium-rich, unlike pharmaceutical diuretics which cause potassium depletion)
+- **Diuretic**: Dandelion leaf extract increases urinary output and frequency comparable to furosemide in [[mushroom-cancer-clinical-trials-overview]], with the advantage of potassium conservation (dandelion is potassium-rich, unlike pharmaceutical diuretics which cause potassium depletion)
 - **Anti-inflammatory**: Taraxinic acid inhibits COX-2 and iNOS expression; reduces TNF-α and IL-6 production in LPS-stimulated macrophages
 - **Hepatoprotective**: Root extracts reduce hepatic lipid peroxidation and demonstrate protective effects against acetaminophen-induced liver damage in animal models
 - **Antidiabetic**: Inulin from dandelion root improves glycemic control and insulin sensitivity; chlorogenic acid from leaves inhibits α-glucosidase
@@ -73,7 +73,7 @@ All parts of the dandelion are edible and nutritionally dense:
 - **European folk medicine**: Spring dandelion greens consumed as a "blood cleanser" and digestive bitter after winter
 - **Traditional Chinese Medicine (TCM)**: *Pu Gong Ying* (蒲公英) — clears heat, reduces swelling, treats abscesses and mastitis
 - **Middle Eastern medicine**: Used as a liver tonic and for kidney stone prevention
-- **Native American medicine**: Various tribes used dandelion for digestive complaints, skin conditions, and as a general tonic
+- **[[halpern-sacramental-peyote-and-native-american-church]] medicine**: Various tribes used dandelion for digestive complaints, [[cannabis-for-skin-conditions-detailed]], and as a general tonic
 
 ## Ecological Value
 
@@ -89,8 +89,8 @@ Dandelions are among the most important early-season nectar and pollen sources f
 ### Soil Health
 
 - **Taproot**: Penetrates compacted subsoil, creating channels for water infiltration and root growth of subsequent plants
-- **Nutrient cycling**: Deep taproot mines calcium, potassium, and other minerals from subsoil layers, depositing them on the surface through leaf decomposition
-- **Erosion control**: Dense root systems stabilize soil on slopes and disturbed sites
+- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]**: Deep taproot mines calcium, potassium, and other minerals from subsoil layers, depositing them on the surface through leaf decomposition
+- **[[permplant-willows-salix-erosion-control-fodder]]**: Dense root systems stabilize soil on slopes and disturbed sites
 
 ### Food Web
 
@@ -105,4 +105,7 @@ In [[chop-and-drop]] mulch**: Leaves can be cut and left as surface mulch, rapid
 
 ## See Also
 
-- [[permaculture-dandelion]]
+- permaculture-dandelion
+- [[lactobacillus]]
+- [[decomposition]]
+- [[taraxacum-officinale]]

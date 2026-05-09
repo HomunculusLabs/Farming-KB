@@ -69,10 +69,10 @@ Domestication occurred in Mesoamerica, likely in the region of modern Mexico,
 where the earliest archaeological evidence of cultivated tomatoes dates to ~500 BCE.
 
 Spanish conquistadors introduced the tomato to Europe in the early 16th century,
-where it was initially grown as an ornamental curiosity due to unfounded toxicity concerns related to its Solanaceae relatives. Cultivation spread to the Mediterranean basin, Southeast Asia, and worldwide by the 18th century.
+where it was initially grown as an ornamental curiosity due to unfounded toxicity concerns related to its Solanaceae relatives. Cultivation spread to the Mediterranean basin, [[psilocybe-southeast-asia-pacific]], and worldwide by the 18th century.
 
 Today, tomatoes are cultivated in temperate, subtropical, and tropical regions
-on every inhabited continent, with China, India, Turkey, and the United States
+on every inhabited continent, with China, India, Turkey, and the [[dmt-containing-plants-united-states-halpern]]
 as the leading producers.
 
 ## Cultivation
@@ -81,7 +81,7 @@ Tomatoes require well-drained loam soils with pH 6.0–6.8 and warm temperatures
 of 20–30°C for optimal growth and fruit set.
 
 Temperatures above 35°C or below 10°C cause flower drop and poor fruit
-development, making greenhouse production essential in cool climates.
+development, making greenhouse production essential in [[greenhouse-cool-climates-mollison]].
 
 Seedlings are typically started indoors 6–8 weeks before the last frost date and
 transplanted after hardening off.
@@ -92,7 +92,7 @@ heavy fruit loads and reduce disease pressure from soil contact.
 Determinate bush types are well-suited to mechanized harvest for processing
 markets and require minimal support. Major diseases include *Fusarium oxysporum* f. sp.
 *lycopersici* (Fusarium wilt), *Verticillium dahliae* (Verticillium wilt),
-*Phytophthora infestans* (late blight), and *Cladosporium fulvum* (leaf mold).
+*Phytophthora infestans* (late blight), and *Cladosporium fulvum* ([[comparison-leaf-mold-composting-vs-hot-composting-method]]).
 
 Grafted rootstock using wild *Solanum* species confers resistance to soilborne
 pathogens and improves tolerance to abiotic stress.
@@ -115,7 +115,7 @@ carbohydrates, 0.9 g protein, and 14 mg vitamin C (16% DV).
 Tomatoes also contain significant amounts of potassium (237 mg), folate
 (15 μg), and vitamin K1 (7.9 μg).
 
-Other bioactive compounds include β-carotene, lutein, and the glycoalkaloid
+Other [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include β-carotene, lutein, and the glycoalkaloid
 tomatine, which exhibits antimicrobial and anti-inflammatory activity at
 low concentrations.
 
@@ -128,7 +128,7 @@ The glandular trichomes on leaves and stems produce volatile terpenes and
 acyl sugars that deter herbivorous arthropods including whiteflies and spider
 mites.
 
-Tomato is a moderate nitrogen consumer and benefits from crop rotation with
+Tomato is a moderate nitrogen consumer and benefits from [[comparison-crop-rotation-vs-cover-cropping]] with
 legumes to maintain soil fertility and break pathogen cycles.
 
 As a companion plant, tomatoes are reported to repel certain pests when

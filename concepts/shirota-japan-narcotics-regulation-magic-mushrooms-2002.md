@@ -1,5 +1,5 @@
 ---
-title: "Japan Narcotics Regulation of Magic Mushrooms Since 2002"
+title: "shirota-japan-narcotics-control-law-magic-mushroom-regulation Regulation of guzman-magic-mushrooms-african-species Since 2002"
 source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
 author: Shirota, Hakamata & Goda
 tags: [japan, regulation, narcotics, magic-mushrooms, psilocybin, law, legal, forensic]
@@ -11,14 +11,14 @@ created: 2026-05-08
 ## Overview
 
 On June 6, 2002, Japan became one of the first countries to specifically
-regulate fungi containing psilocin and psilocybin under its Narcotics and
+regulate fungi containing [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] under its Narcotics and
 Psychotropic Control Law. This regulatory action was the explicit motivation
 for Shirota, Hakamata, and Goda's 2003 paper on the concise large-scale
-synthesis of these compounds, as standard compounds were needed for the
+synthesis of these compounds, as [[shirota-forensic-standard-compounds-magic-mushroom-identification]] were needed for the
 chromatographic identification of regulated mushrooms.
 
 The Japanese case illustrates the practical challenges that arise when
-psychoactive fungi are criminalized: the need for reliable analytical standards,
+[[cattle-dispersal-psychoactive-fungi-australia]] are criminalized: the need for reliable analytical standards,
 the difficulty of identifying mushrooms morphologically, and the forensic
 infrastructure required for enforcement. Shirota et al.'s synthesis was
 specifically designed to address the first of these needs.
@@ -40,7 +40,7 @@ just the isolated compounds, creating broader enforcement scope.
 
 The Narcotics and Psychotropic Control Law under which the mushrooms were
 regulated is Japan's primary drug control statute, analogous to the Controlled
-Substances Act in the United States. The law establishes penalties for
+[[controlled-substances-act-and-psychedelic-research]] in the United States. The law establishes penalties for
 possession, cultivation, distribution, and consumption of listed substances,
 with severity generally increasing for substances deemed to have higher abuse
 potential or more serious health consequences.
@@ -131,4 +131,6 @@ Japan's 2002 regulation was part of a wave of international restrictions on
 
 ## See Also
 
-- [[magic-mushrooms-japan]]
+- [[shirota-japan-narcotics-control-law-magic-mushroom-regulation]]
+
+- magic-mushrooms-japan

@@ -2,7 +2,7 @@
 
 Inoculation is the process of introducing fungal spores or mycelium
 into a prepared substrate. It is one of the most critical steps in
-mushroom cultivation, as contamination at this stage can ruin the
+[[accessible-mushroom-cultivation-for-disabilities]], as contamination at this stage can ruin the
 entire batch. Proper technique, cleanliness, and patience are
 essential for success.
 
@@ -11,14 +11,14 @@ essential for success.
 Several types of inoculant can be used to start mushroom cultures
 on grass seed substrate:
 
-- **Spore syringe**: A suspension of mushroom spores in sterile
+- **Spore syringe**: A suspension of [[query-how-to-store-mushroom-spores-long-term]] in sterile
   water. Spores are the sexual reproductive cells of mushrooms
-  and will germinate to form mycelium. Spore syringes are widely
+  and will germinate to form mycelium. [[query-spore-syringes-vs-liquid-culture]] are widely
   available and easy to use, but germination is slower than
   mycelial inoculation and genetics are less predictable.
 
 - **Mycelium syringe**: A suspension of living mycelial fragments
-  in sterile water or nutrient solution. Mycelial syringes provide
+  in sterile water or [[cannabis-nutrient-solution-preparation]]. Mycelial syringes provide
   faster, more reliable colonization because the mycelium is
   already growing and does not need to germinate from spores.
 
@@ -27,7 +27,7 @@ on grass seed substrate:
   and genetically consistent inoculation but requires prior
   agar culture work.
 
-- **Liquid culture**: Mycelium grown in a nutrient broth, often
+- **[[comparison-liquid-culture-vs-grain-spawn]]**: Mycelium grown in a nutrient broth, often
   with a small stir bar for agitation. This can produce large
   volumes of inoculum very quickly and is ideal for scaling up.
 
@@ -110,7 +110,7 @@ inoculation include:
 
 - **Bacteria**: Often appear as slimy patches, sour smells, or
   cloudy liquid in the jar. Bacterial contamination frequently
-  results from insufficient substrate sterilization or
+  results from insufficient [[mushroom-substrate-sterilization-and-pasteurization]] or
   inoculation while jars are still too warm.
 
 - **Trichoderma (green mold)**: The most common fungal

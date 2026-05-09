@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Chomicki, G. & Renner, S.S. (2015). "Watermelon Origin Story: How This Fruit Was Domesticated." Proceedings of the National Academy of Sciences, 112(40), 12245-12246.
+  - Chomicki, G. & Renner, S.S. (2015). "Watermelon cannabis-chemdawg-origin-story-lineage: How This Fruit Was Domesticated." Proceedings of the National Academy of Sciences, 112(40), 12245-12246.
   - Levi, A. et al. (2001). "Genetic Analysis among Citrullus lanatus, C. colocynthis, and C. ecirrhosus." Theoretical and Applied Genetics, 103, 211-218.
   - USDA (2019). "Watermelon, Raw." FoodData Central, fdc.nal.usda.gov.
   - Wehner, T.C. (2008). "Watermelon." in Prohens, J. & Nuez, F. (eds.), Handbook of Plant Breeding: Vegetables II, 381-418.
@@ -89,13 +89,13 @@ colonial period, where it became widely naturalized and cultivated.
 
 ## Cultivation
 
-Watermelon requires warm climates with a growing season of 80–100 frost-free
+Watermelon requires warm climates with a [[savory-growing-season-and-non-growing-season-management]] of 80–100 frost-free
 days and optimal temperatures of 25–30°C.
 
 The crop performs best in sandy loam soils with pH 5.5–7.0 and good drainage,
 as waterlogged conditions promote root rot and Fusarium wilt.
 
-Direct seeding is standard, with 2–3 seeds planted per hill spaced 0.9–1.5 m
+[[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] is standard, with 2–3 seeds planted per hill spaced 0.9–1.5 m
 within rows 1.8–3.0 m apart.
 
 Transplanting is increasingly common for early production and hybrid seed
@@ -105,7 +105,7 @@ Water requirements are high (400–600 mm per season), with critical irrigation
 needs during flowering and fruit enlargement.
 
 Major diseases include Fusarium wilt (*Fusarium oxysporum* f. sp. *niveum*),
-anthracnose (*Colletotrichum orbiculare*), powdery mildew (*Podosphaera
+anthracnose (*Colletotrichum orbiculare*), [[cervantes-powdery-mildew-prevention-treatment]] (*Podosphaera
 xanthii*), and gummy stem blight (*Didymella bryoniae*).
 
 Average commercial yields range from 20–50 tonnes per hectare under irrigated
@@ -132,9 +132,9 @@ Watermelon serves as a ground cover crop in agroecosystems, with its dense
 vine canopy suppressing weed growth and reducing soil surface evaporation.
 
 The crop is pollinated primarily by bees, with honeybees (*Apis mellifera*)
-and native solitary bees serving as the principal pollinators.
+and [[comparison-honey-bees-vs-native-solitary-bees]] bees serving as the principal pollinators.
 
-Crop residues left after harvest contribute organic matter to soil and can be
+Crop residues left after harvest contribute [[hamilton-composting-and-organic-matter-management]] to soil and can be
 used as livestock fodder in mixed farming systems.
 
 ## See Also

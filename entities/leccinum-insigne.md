@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - "Smith, A.H. & Thiers, H.D. (1971). The Boletes of Michigan. University of Michigan Press."
   - "Kuo, M. (2024). Leccinum insigne. MushroomExpert.com."
-  - "Fischer, D. & Bessette, A.E. (2012). Mushrooms of the Northeastern United States and Eastern Canada. Timber Press."
+  - "Fischer, D. & Bessette, A.E. (2012). Mushrooms of the Northeastern [[dmt-containing-plants-united-states-halpern]] and Eastern Canada. Timber Press."
   - "Watling, R. (1970). \"Notes on British boletes: Leccinum and the genus Boletus.\" Notes from the Royal Botanic Garden Edinburgh, 30, 103-124."
 ---
 
@@ -80,7 +80,7 @@ No pleurocystidia or cheilocystidia observed.
 
 ## Distribution and Habitat
 
-Widely distributed across eastern North America, from Ontario and Quebec
+Widely distributed across [[polypore-fungi-eastern-north-america]] America, from Ontario and Quebec
 south to the Appalachian Mountains and west to the Great Plains.
 Also reported from Europe and Asia, though some of these records may
 represent distinct but morphologically similar species.
@@ -122,14 +122,14 @@ Mild to slightly nutty flavor; firm texture suitable for sautéing.
 | *Tylopilus felleus* | Pink pores at maturity; extremely bitter — inedible |
 
 The *L. insigne* species complex remains taxonomically unsettled. Molecular
-studies suggest that North American "L. insigne" may comprise multiple
+studies suggest that [[growing-gourmet-north-american-reishi-species]] "L. insigne" may comprise multiple
 cryptic species associated with different *Populus* hosts.
 
 ## Ecology
 
 As an ectomycorrhizal partner of *Populus* species, *L. insigne*
 facilitates nutrient and water exchange with its host trees.
-The mycorrhizal network extends the effective root zone of aspens,
+The [[arbuscular-mycorrhizal-network-visualization-anastomosis]] extends the effective root zone of aspens,
 particularly important in nutrient-poor sandy soils.
 
 Aspen forests with diverse *Leccinum* populations tend to show greater

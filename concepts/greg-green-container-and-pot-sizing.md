@@ -1,5 +1,5 @@
 ---
-title: "Container and Pot Sizing"
+title: "[[greg-green]] container and pot sizing Sizing"
 created: 2026-04-28
 tags: [cannabis, containers, pots, root-management, growing-medium]
 date: 2026-04-25
@@ -8,11 +8,13 @@ sources: [~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md]
 type: concept
 ---
 
-Container and pot selection directly impacts cannabis plant health, root
+Container and [[cannabis-pot-selection-and-container-sizing]] directly impacts cannabis plant health, root
 development, and final yield. [[green-cannabis-transplanting-root-bound-management]]
 and [[cannabis-pot-selection-and-container-sizing]]
 
 ## See Also
+
+- [[greg-green-thc-and-cannabinoid-science]]
 
 - [[greg-green-spider-mites-and-common-pests]]
 ## Background and Context
@@ -65,7 +67,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -143,4 +145,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

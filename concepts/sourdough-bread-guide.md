@@ -1,5 +1,5 @@
 ---
-title: Sourdough Bread Guide
+title: query-how-to-make-sourdough-bread-at-home Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Sourdough Bread Guide
 
-Sourdough bread is made using a wild yeast and lactic acid bacteria culture (a sourdough starter) rather than commercial baker's yeast. The result is a bread with complex flavor, a chewy crumb, a crisp crust, and improved digestibility due to the pre-fermentation of gluten and phytic acid breakdown.
+Sourdough bread is made using a [[comparison-sourdough-vs-wild-yeast-bread]] and lactic [[lactic-acid-bacteria-knf]] culture (a sourdough starter) rather than commercial baker's yeast. The result is a bread with complex flavor, a chewy crumb, a crisp crust, and improved digestibility due to the pre-fermentation of gluten and phytic acid breakdown.
 
 ## Creating a Sourdough Starter
 
@@ -19,7 +19,7 @@ A sourdough starter is a symbiotic culture of wild yeast (Saccharomyces exiguus 
 
 Use whole grain flour (rye or whole wheat) for the first few days -- wild yeast and LAB are more abundant on whole grain surfaces.
 
-Day 1: Combine 50g whole grain flour and 50g non-chlorinated water in a glass jar. Stir until no dry flour remains. Cover loosely with a cloth or lid set ajar.
+Day 1: Combine 50g whole grain flour and 50g non-chlorinated water in a [[sterile-spore-print-collection-glass-jar-technique]]. Stir until no dry flour remains. Cover loosely with a cloth or lid set ajar.
 
 Day 2: You may see a few bubbles. Discard half the starter. Add 50g flour and 50g water. Stir.
 
@@ -37,7 +37,7 @@ Once established, feed the starter at a 1:1:1 ratio (equal weights starter, flou
 - Whole wheat flour: Adds flavor, nutrients, and complexity. Use at 10-30% of total flour.
 - Rye flour: Adds flavor, moisture, and helps fermentation. Use at 5-20%.
 - All-purpose flour: Works but produces less open crumb than bread flour.
-- Spelt, einkorn, emmer: Heritage grains can be used in part but have weaker gluten.
+- Spelt, einkorn, emmer: [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]] can be used in part but have weaker gluten.
 
 A typical blend: 80% bread flour, 20% whole wheat. Or 75% bread flour, 15% whole wheat, 10% rye.
 
@@ -78,7 +78,7 @@ Dough:
 
 1. Turn dough out onto a lightly floured surface.
 2. Pre-shape into a loose round. Rest 20-30 minutes.
-3. Final shape: Use a bench scraper to pull dough toward you, creating surface tension. Rotate and repeat until the ball is tight and smooth.
+3. Final shape: Use a bench scraper to pull dough toward you, creating [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]]. Rotate and repeat until the ball is tight and smooth.
 4. Place seam-side up in a floured banneton (proofing basket) or bowl lined with a floured towel.
 
 ## Cold Retard (Optional but Recommended)

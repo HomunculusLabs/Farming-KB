@@ -12,15 +12,15 @@ type: concept
 # Hyperspace, the Law, and the Remarkable Overmind
 
 In the closing chapters of Food of the Gods, McKenna brings together several strands of his argument: the legal suppression of psychedelic compounds,
-the phenomenology of the DMT experience, the
-possibility of nonhuman intelligence accessible through tryptamine hallucinogens, and the question of what humanity must recover from its archaic past
+the phenomenology of the [[mckenna-dmt-experience-and-hyperspace]], the
+possibility of nonhuman intelligence accessible through [[mckenna-tryptamine-hallucinogens-and-consciousness]], and the question of what humanity must recover from its archaic past
 to survive the future. These themes converge on a
 single proposition: that the indole hallucinogens provide access to a dimension of reality that is both real and systematically denied by dominator
 culture.
 
 ## DMT and Schedule I
 
-DMT is currently a Schedule I compound in the United States, a classification reserved for drugs with no proven medical application whatsoever. Not
+DMT is currently a Schedule I compound in the [[dmt-containing-plants-united-states-halpern]], a classification reserved for drugs with no proven medical application whatsoever. Not
 even cocaine rates a Schedule I classification.
 [[shamanism]]. Alchemy, which Jung studied very
 carefully, was the inheritor of a long tradition of shamanistic and magical techniques, as well as more practical chemical procedures such as
@@ -37,7 +37,7 @@ Jung saw the cabiri as autonomous portions of the psyche that had temporarily es
 explanation is no explanation at all, that it is as if one
 were to describe an elf as a small nonphysical person of uncertain parentage. Such explanations only evade the need to confront the deeper nature of
 experience itself. The question of whether the
-entities encountered in altered states are objectively real or psychologically generated is, for McKenna, less important than the fact that the
+entities encountered in [[weil-the-natural-mind-altered-states-normalcy]] are objectively real or psychologically generated is, for McKenna, less important than the fact that the
 experience itself is systematically available and
 reproducible.
 
@@ -58,7 +58,7 @@ learning that God is not an idea but a lost continent in the human mind.
 
 That continent has been rediscovered in a time of great peril for humanity and the world. Whether this is coincidence, synchronicity, or a cruelly
 meaningless juxtaposition of hope and ruin remains an
-open question. What is clear is that the psychedelic experience, particularly the DMT experience, reveals dimensions of reality that the dominator
+open question. What is clear is that the [[leary-psychedelic-experience-bardo-mapping]], particularly the DMT experience, reveals dimensions of reality that the dominator
 culture has every institutional reason to deny and
 suppress.
 

@@ -1,10 +1,11 @@
 ---
-title: Xeriscaping vs Drought Gardening
+title: comparison xeriscaping vs drought gardening Gardening
 created: 2026-04-28
 tags: [water-conservation, landscaping, vegetable-gardening, drought-tolerance]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/steve-solomon-gardening-when-it-counts.md"
 type: comparison
 ---
 
@@ -12,7 +13,7 @@ type: comparison
 
 ## Overview
 
-Xeriscaping and drought gardening both address the challenge of gardening with limited water, but they approach the problem from fundamentally different angles. Xeriscaping is a **landscaping philosophy** that designs outdoor spaces around water conservation through plant selection, soil improvement, and efficient irrigation. Drought gardening, popularized by Steve Solomon, is a **food-production strategy** focused on growing vegetables with minimal or no irrigation by leveraging wide spacing and deep soil moisture.
+Xeriscaping and drought gardening both address the challenge of gardening with limited water, but they approach the problem from fundamentally different angles. Xeriscaping is a **landscaping philosophy** that designs outdoor spaces around water conservation through plant selection, soil improvement, and efficient irrigation. Drought gardening, popularized by Steve Solomon, is a **food-production strategy** focused on [[container-growing-vegetables-herbs]] with minimal or no irrigation by leveraging wide spacing and deep soil moisture.
 
 Where xeriscaping asks "how can I design a beautiful landscape that needs almost no water?" drought gardening asks "how can I grow food when water is scarce?" Both are valuable responses to increasing water scarcity, and both challenge the assumption that abundant irrigation is necessary for successful gardening.
 
@@ -30,7 +31,7 @@ The practice emphasizes **hydrozoning** — grouping plants by water requirement
 - **Transition zone**: Moderate water use for native ornamentals and fruit trees
 - **Dry zone** (outer areas and slopes): No irrigation after establishment
 
-This zoning strategy concentrates supplemental irrigation where it has the most impact while allowing outer areas to survive on natural rainfall alone. Xeriscaping favors drought-adapted native plants, ornamental grasses, succulents, and Mediterranean herbs such as lavender, rosemary, and thyme. Rock gardens and stone elements are common features, reducing evaporation while adding visual texture and interest.
+This zoning strategy concentrates supplemental irrigation where it has the most impact while allowing outer areas to survive on natural rainfall alone. Xeriscaping favors drought-adapted native plants, ornamental grasses, succulents, and [[query-best-mediterranean-herbs-for-beginner-herb-garden]] such as lavender, rosemary, and thyme. Rock gardens and stone elements are common features, reducing evaporation while adding visual texture and interest.
 
 Soil improvement is central to xeriscaping. Incorporating 2-4 inches of compost increases water retention, while biochar can further improve moisture-holding capacity in sandy soils. Mulching at 3-4 inches depth suppresses weeds and dramatically reduces evaporation. In clay soils, coarse sand or expanded shale improves drainage and root penetration.
 
@@ -54,9 +55,9 @@ The approach relies on understanding soil moisture thresholds — specifically t
 
 When irrigation is necessary, the method calls for deep, infrequent watering — replenishing to field capacity every 2-5 days depending on soil type. This avoids both nutrient leaching and shallow root development. The soil ball test (digging down 5-6 inches and squeezing) provides a practical way to assess moisture levels without instruments.
 
-For situations where even minimal irrigation is unavailable, drought gardening recommends **foliar feeding** — spraying diluted nutrient solutions (fish emulsion, kelp tea) directly onto leaves. Even a few gallons per week in a sprayer can sustain plants through dry periods by delivering nutrients without requiring soil moisture for uptake.
+For situations where even minimal irrigation is unavailable, drought gardening recommends **[[comparison-foliar-feeding-vs-compost-tea-nutrients]]** — spraying diluted nutrient solutions (fish emulsion, kelp tea) directly onto leaves. Even a few gallons per week in a sprayer can sustain plants through dry periods by delivering nutrients without requiring soil moisture for uptake.
 
-Traditional examples support the approach: Native American corn gardening used four-foot centers with the adage "one for the worm, one for the crow, one to rot, and one to grow." This wide spacing allowed each plant to draw from a large soil volume, reducing or eliminating the need for irrigation.
+Traditional examples support the approach: [[halpern-sacramental-peyote-and-native-american-church]] corn gardening used four-foot centers with the adage "one for the worm, one for the crow, one to rot, and one to grow." This wide spacing allowed each plant to draw from a large soil volume, reducing or eliminating the need for irrigation.
 
 Another practical tool is the **sparkle test** from John Jeavons: water with a fan nozzle until the bed surface sparkles, and when the shine lasts 1-10 seconds, enough water has been applied. Solomon also warns that consumer-grade sprinklers deliver 2-4 inches per hour — far more than most soils can absorb — making calibration with tin cans or gauges essential to avoid wasting water and leaching nutrients.
 
@@ -71,7 +72,7 @@ Drought gardening is unabashedly utilitarian: its purpose is producing calories 
 | **Key technique** | Plant selection and hydrozoning | Wide plant spacing |
 | **Plant types** | Natives, succulents, ornamentals, herbs | Vegetables and annual food crops |
 | **Soil strategy** | Compost and amendments for water retention | Accessing deep subsoil moisture via root growth |
-| **Irrigation** | Drip systems, rainwater harvesting, ollas | Deep, infrequent watering; ideally none at all |
+| **Irrigation** | Drip systems, [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]], ollas | Deep, infrequent watering; ideally none at all |
 | **Design focus** | Visual design, zones, hardscaping | Functional bed layout and spacing |
 | **Maintenance** | Pruning, mulch replenishment, weed control | Soil moisture monitoring, occasional foliar feeding |
 | **Origin** | Denver Water Department, 1980s | Steve Solomon, traditional farming practices |

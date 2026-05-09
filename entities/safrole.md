@@ -49,14 +49,14 @@ Major natural sources include:
 | Plant Species | Part | Safrole Content |
 |--------------|------|----------------|
 | Sassafras albidum | Root bark oil | 75-90% |
-| Ocotea pretiosa | Essential oil | 80-95% |
+| Ocotea pretiosa | [[permaculture-designers-manual-essential-oil-plants]] | 80-95% |
 | Cinnamomum camphora | Root bark oil | 80-90% |
 | Myristica fragrans | Nutmeg oil | 2-4% |
 | Piper betle | Leaf oil | 1-3% |
 | Dorema ammoniacum | Gum resin | Trace |
 | Illicium verum | Fruit oil | Trace |
 
-Sassafras albidum (North American sassafras) was historically the
+Sassafras albidum ([[growing-gourmet-north-american-reishi-species]] sassafras) was historically the
 primary commercial source of safrole, with root bark yields of
 6-9% essential oil by weight. Following regulation, Ocotea pretiosa
 from Brazil became the dominant source. Cinnamomum camphora
@@ -110,8 +110,8 @@ international regulation of safrole and safrole-rich oils.
 
 Sassafras root bark tea was a widely consumed beverage in North
 America from pre-Columbian times through the early 20th century.
-Indigenous peoples of eastern North America used sassafras for
-medicinal purposes including treatment of fevers, skin conditions,
+Indigenous peoples of [[polypore-fungi-eastern-north-america]] America used sassafras for
+medicinal purposes including treatment of fevers, [[cannabis-for-skin-conditions-detailed]],
 and digestive complaints. European settlers adopted sassafras tea
 as a general tonic and spring blood purifier. The FDA banned
 safrole as a food additive in 1960 based on the National Academy
@@ -124,10 +124,10 @@ contains only trace amounts of safrole.
 
 ## Legal Status
 
-Safrole and safrole-rich essential oils are internationally
+Safrole and safrole-rich [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] are internationally
 regulated as Category 1 precursor chemicals under the 1988
 United Nations Convention Against Illicit Traffic in Narcotic
-Drugs and Psychotropic Substances. In the United States, safrole
+Drugs and Psychotropic Substances. In the [[dmt-containing-plants-united-states-halpern]], safrole
 is listed as a List I chemical under the Controlled Substances
 Act, requiring registration, record-keeping, and reporting for
 all transactions. The European Union classifies it similarly under
@@ -138,5 +138,8 @@ the diversion of safrole into MDMA production.
 
 ## See Also
 - [[elemicin]]
-- [[mdma]]
+- mdma
 - [[piper-methysticum]]
+- [[cinnamomum-camphora]]
+- [[illicium-verum]]
+- [[myristica-fragrans]]

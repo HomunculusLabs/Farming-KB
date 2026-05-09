@@ -1,5 +1,5 @@
 ---
-title: Marcel Vogel and Plant-Human Communication
+title: tompkins [[marcel-vogel-plant-communication]] plant human communication and Plant-Human Communication
 created: 2026-04-28
 tags: [marcel-vogel, ibm, liquid-crystal, psychic-energy, galvanometer,
       plant-communication, consciousness, bioenergy]
@@ -14,7 +14,7 @@ Marcel Vogel was a research chemist at IBM in Los Gatos, California,
 whose rigorous scientific background and personal openness to
 unconventional phenomena led him to become one of the most credible
 investigators of plant-human communication. His work provided
-independent confirmation and significant extension of Cleve Backster's
+independent confirmation and significant extension of [[tompkins-cleve-backster-primary-perception]]'s
 controversial findings about plant perception.
 
 ## Background at IBM
@@ -22,7 +22,7 @@ controversial findings about plant perception.
 Vogel's scientific career began with boyhood curiosity about
 bioluminescence in fireflies and glowworms. By his twenties, he had
 co-authored a book on luminescence with Chicago University's Dr. Peter
-Pringsheim. He founded Vogel Luminescence in San Francisco, which became
+Pringsheim. He founded Vogel Luminescence in [[shipibo-san-francisco-ceremonial-center-ucayali]], which became
 a leader in the field, developing products including the red color for
 television screens, fluorescent crayons, and black light inspection kits.
 By the mid-1950s, Vogel sold his company to join IBM, where he worked
@@ -31,7 +31,7 @@ developing patents crucial to computer information storage.
 
 ## Discovery of Backster's Work
 
-The turning point came when Vogel was asked to teach a course on
+The [[fukuoka-textdoc-post-season-cultivation-kochi-turning-point]] came when Vogel was asked to teach a course on
 "creativity" for IBM engineers. A student handed him an Argosy magazine
 article about Backster's work titled "Do Plants Have Emotions?" Vogel
 initially dismissed it as charlatanism, but something about the idea
@@ -100,7 +100,7 @@ intent must produce some kind of tangible energy.
 
 ## Public Demonstrations
 
-Vogel made several public demonstrations, including a San Francisco TV
+Vogel made several public demonstrations, including a [[san-francisco-shipibo-ayahuasca-ceremonial-center]] TV
 program where a plant coupled to a pen recorder illustrated varying
 states of his mind, from irritation at interviewer questions to quiet
 tracings during harmonious communication. He also demonstrated on ABC's

@@ -16,7 +16,7 @@ experience and the rapid degradation of these compounds in dried specimens.
 
 ## Variability in Chemical Analysis
 
-The survey documented extensive discrepancies between different chemical analyses of the
+The survey documented extensive discrepancies between different [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] of the
 same species, reflecting genuine analytical challenges. *[[psilocybe-muliercula]]* (called
 "hombrecitos" and "mujercitas" — "little men" and "little women" — respectively).
 
@@ -28,7 +28,7 @@ fungi beyond their ceremonial use.
 
 Albert Hofmann (of LSD fame) found no indole compounds in specimens of *Cordyceps*
 that Wasson had purchased in a Mexican market, but these had been "preserved for a long
-time" — consistent with the degradation patterns observed in other neurotropic fungi
+time" — consistent with the degradation patterns observed in other [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]
 and with the indigenous practice of discarding old specimens. The taxonomic relationship
 between *Cordyceps* and *Claviceps* (ergot) — both are Ascomycete parasites that produce
 bioactive alkaloids — supports the plausibility of psychoactive properties in these
@@ -38,14 +38,14 @@ species when fresh.
 
 The instability of psilocybin has important implications for both scientific research
 and the conservation of indigenous knowledge. Chemical analyses should prioritize fresh
-specimens and document storage conditions carefully. The correlation between indigenous
+specimens and document [[vegetable-storage-conditions-by-temperature-and-humidity]] carefully. The correlation between indigenous
 knowledge and modern pharmacological findings suggests that traditional practices for
 selecting, preparing, and using neurotropic fungi encode sophisticated empirical
 knowledge about these compounds' stability and potency that deserves careful study
 rather than dismissal as superstition.
 ## Practical Considerations
 
-When working with Psilocybin Chemistry Stability Indigenous Knowledge, several practical factors should be
+When working with Psilocybin psilocybin chemistry stability indigenous knowledge Indigenous Knowledge, several practical factors should be
 carefully considered to achieve optimal results. These include
 the specific conditions of the implementation context, available
 resources, timing requirements, and the interactions between this
@@ -59,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: "Julian Jaynes Bicameral Mind Theory and Hallucination"
+title: "Julian mckenna jaynes bicameral mind breakdown Mind Theory and Hallucination"
 created: 2026-04-28
 tags: [consciousness, psychology, bicameral-mind, hallucination, evolution, jaynes, mckenna]
 date: 2026-04-28
@@ -17,7 +17,7 @@ Julian Jaynes's controversial 1976 book *The Origin of Consciousness in the Brea
 
 According to Jaynes, the people of Homeric Greece and earlier civilizations operated with a fundamentally different psychic organization in which an internal "voice of the gods" directed behavior during moments of stress or decision.
 
-Terence McKenna referenced Jaynes's theory in *Food of the Gods* as evidence that major shifts in human self-definition may have occurred even in historical times, while critiquing Jaynes for his nearly complete omission of psychoactive plants as a potential mechanism for such transformations.
+terence mckenna referenced Jaynes's theory in *Food of the Gods* as evidence that major shifts in human self-definition may have occurred even in historical times, while critiquing Jaynes for his nearly complete omission of psychoactive plants as a potential mechanism for such transformations.
 
 ## The Bicameral Hypothesis
 
@@ -105,7 +105,7 @@ McKenna contends that hallucinations can be reliably induced by plant compounds 
 
 Both agree that pre-modern cultures took hallucinatory experience far more seriously than modern societies.
 
-This shared emphasis on the cultural significance of hallucinatory experience places both thinkers in opposition to the mainstream Western tradition, which has pathologized non-ordinary states of consciousness and dismissed their potential epistemic value.
+This shared emphasis on the [[ethnomycology-cultural-significance-sacred-fungi]] of hallucinatory experience places both thinkers in opposition to the mainstream Western tradition, which has pathologized non-ordinary states of consciousness and dismissed their potential epistemic value.
 
 ## Historical and Archaeological Context
 
@@ -117,19 +117,19 @@ The **rise of individualistic religion** — including prophetic movements in Is
 
 The **suppression of oracle cults** and mystery religions in the classical period may reflect the cultural marginalization of bicameral-type experiences.
 
-The **Eleusinian Mysteries**, which persisted until 268 A.D., may represent a surviving institutional framework for controlled hallucinatory experience.
+Th [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] ries**, which persisted until 268 A.D., may represent a surviving institutional framework for controlled hallucinatory experience.
 
 ## Jaynes and the Evolution of the Ego
 
 Jaynes's theory has profound implications for understanding the nature of the ego.
 
-If the ego — the sense of being an autonomous, self-directed individual — is not a timeless feature of human psychology but a relatively recent historical construction, then many of the assumptions underlying Western philosophy, psychology, and political theory may need to be reexamined.
+If the ego — the sense of being an autonomous, self-directed individual — is not a timeless feature of human psychology but a relatively recent historical construction, then many of the assumptions underlying [[fukuoka-descartes-western-philosophy-nature]], psychology, and political theory may need to be reexamined.
 
-McKenna extended this insight by arguing that the ego is not merely a historical construction but is specifically a product of the **loss of regular contact with boundary-dissolving psychedelic experience**.
+McKenna extended this insight by arguing that the ego is not merely a historical construction but is specifically a product of the **loss of regular contact with boundary-dissolving [[leary-psychedelic-experience-bardo-mapping]]**.
 
 In his view, regular immersion in the Transcendent Other through plant hallucinogens prevented the ego from solidifying into a rigid, defensive structure.
 
-When this contact was lost — through migration, climate change, and the rise of agriculture — the ego crystallized into what McKenna called the "dominator" personality: hierarchical, possessive, fearful of boundary dissolution, and hostile to the feminine, the natural, and the transcendent.
+When this contact was lost — through migration, [[dighton-fungi-climate-change-feedback]], and the rise of agriculture — the ego crystallized into what McKenna called the "dominator" personality: hierarchical, possessive, fearful of boundary dissolution, and hostile to the feminine, the natural, and the transcendent.
 
 ## Modern Relevance
 

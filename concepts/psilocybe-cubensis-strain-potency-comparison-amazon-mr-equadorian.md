@@ -1,11 +1,11 @@
 ---
-title: "Psilocybe Cubensis Strain Potency Comparison Amazon Mr Equadorian"
+title: "brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting Strain Potency Comparison Amazon Mr Equadorian"
 created: 2026-05-07
 updated: 2026-05-07
 type: concept
 tags: []
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources: []
 ---
 
 --- title: Psilocybe Cubensis Strain Potency Comparison of Amazon, M.R., and Equadorian tags:
@@ -28,7 +28,7 @@ pattern observed in the M.R. and Equadorian strains.
 
 ## Two Distinct Distribution Phenotypes
 
-The data reveal two fundamentally different alkaloid distribution patterns:
+The data reveal two fundamentally different [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] patterns:
 
 1. **Cap-enriched psilocybin with stem-localized psilocin** (M.R. and Equadorian): Caps contain
 roughly 1.6 times the psilocybin concentration of stems. Minimal psilocin is present and is confined
@@ -61,9 +61,9 @@ cannot be reliably applied to another.
 
 The finding that psilocin localization between cap and stem is strain-dependent suggests that the
 enzymatic machinery for psilocybin dephosphorylation to psilocin is differentially expressed across
-fruiting body tissues in a strain-specific manner. The phosphatase enzyme responsible for converting
+[[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] tissues in a strain-specific manner. The phosphatase enzyme responsible for converting
 psilocybin to psilocin appears to be regulated differently in each strain. This has direct
-implications for understanding [[gartz-tryptamine-enrichment-psilocybin-biosynthesis|tryptamine enrichment]].
+implications for understanding tryptamine enrichment.
 
 ## Analytical Methodology
 
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

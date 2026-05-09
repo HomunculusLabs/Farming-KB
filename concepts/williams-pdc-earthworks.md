@@ -1,38 +1,13 @@
 ---
 title: "Earthworks"
 created: 2026-04-28
-tags: [[permaculture, earthworks, swales, berms, terracing, keyline]
+tags: [permaculture, earthworks, swales, berms, terracing, keyline]
 date: 2026-04-25
 updated: 2026-04-27
 sources: [william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-
-# Earthworks
-
-Earthworks are human-made modifications to the shape and
-contour of the land. Since so much of the ecology is
-affected by the shape of the land, earthworks are among the
-most powerful tools available to the permaculture designer.
-The shape of the ground affects the local hydro-cycle, it
-creates micro-climates, it determines what plants can grow
-where, and through these effects it shapes animal populations.
-
-## Why Earthworks Matter
-
-Just as soup is contained within a bowl, the ecology is
-contained within geological features such as hills, valleys,
-grottos, crevices, and soil composition. A permaculture
-designer cannot take the geo-morphology of the site for
-granted. Any permaculture design will probably require some
-extent of earthworks, some more than others.
-
-The point of permaculture earthworks is not simply moving
-earth around for the sake of moving it. You are not a painter
-and the earth your canvas. The goal is to create geo-
-morphological conditions that increase the ecological health
-of the site. This can be accomplished by a host of design
-strategies. For more detailed swale and keyline design, see [[keyline-design-water-management]].
+# Earthworks Earthworks are human-made modifications to the shape and contour of the land. Since so much of the ecology is affected by the shape of the land, earthworks are among the most powerful tools available to the permaculture designer. The shape of the ground affects the local hydro-cycle, it creates micro-climates, it determines what plants can grow where, and through these effects it shapes animal populations. ## Why Earthworks Matter Just as soup is contained within a bowl, the ecology is contained within geological features such as hills, valleys, grottos, crevices, and soil composition. A permaculture designer cannot take the geo-morphology of the site for granted. Any permaculture design will probably require some extent of earthworks, some more than others. The point of permaculture earthworks is not simply moving earth around for the sake of moving it. You are not a painter and the earth your canvas. The goal is to create geo- morphological conditions that increase the ecological health of the site. This can be accomplished by a host of design strategies. For more detailed swale and keyline design, see [[keyline-design-water-management]].
 
 ## Roles of Earthworks in Design
 
@@ -41,7 +16,7 @@ Perhaps the most important is using earthworks to slow
 erosion and to create the proper conditions for plants to
 grow. Earthworks for rain water harvesting include berms,
 swales, and keylining, but berms, swales, and keylines are
-hardly the whole story of permaculture earthworks. See also [[mollison-keyline-water-conservation]] for keyline systems.
+hardly the whole story of permaculture earthworks. See also mollison-keyline-water-conservation for keyline systems.
 
 ## Terracing
 
@@ -53,8 +28,8 @@ when you need to create garden space or otherwise need a
 large flat plane of ground for some reason.
 
 Terraces turn otherwise unusable sloped land into productive
-growing space. They are a time-tested technique used by
-cultures around the world, from the rice terraces of Southeast
+[[cotter-growing-space-design-fruiting-rooms]]. They are a time-tested technique used by
+cultures [[fungi-around-the-world-species-distribution]], from the rice terraces of Southeast
 Asia to the Andean agricultural terraces of South America.
 
 ## Bio-Swales
@@ -78,7 +53,7 @@ You then fill the swale with mulch. You can also put cut
 grasses, leaves, and even bunches of sticks and twigs in the
 swale, basically any woody or leafy thing that will break
 down into mulch. You can also plant a swale, typically with
-summer and winter perennial ground covers, and possibly some
+summer and winter perennial [[permaculture-plants-food-forest-ground-covers-bamboos]], and possibly some
 edibles as well.
 
 ## Leveling Swales
@@ -139,5 +114,8 @@ structures into a coherent whole design.
 
 ## See Also
 
-- [[permaculture-designers-manual-swale-design-detailed]] — detailed swale design
-- [[pdc-earthworks-and-earth-resources]] — PDC earthworks course material
+- permaculture-designers-manual-swale-design-detailed — detailed [[comparison-swale-design-vs-contour-swale-irrigation-design]]
+- pdc-earthworks-and-earth-resources — PDC earthworks course material
+- [[permaculture-design]]
+- [[permaculture-earthworks]]
+- [[keyline-design]]

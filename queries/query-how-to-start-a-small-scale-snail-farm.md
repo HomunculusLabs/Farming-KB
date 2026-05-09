@@ -5,8 +5,8 @@ tags:
   - snail-farming
   - beginner-guide
   - getting-started
-  - homesteading
-  - permaculture
+  - [[homesteading]]
+  - [[permaculture]]
   - livestock
   - small-scale-farming
 date: 2026-04-28
@@ -34,8 +34,8 @@ Snails need daytime hiding spots. Place these inside the pen:
 - Branches and bark pieces
 
 Plant or place forage directly in the pen:
-- Chicory, dandelion, plantain (deep-rooted, calcium-accumulating)
-- Clover or vetch ([[pf-tek-spore-syringe-boiling-water-sterilization]] for 3–5 minutes, or freeze at -20°C for 48 hours (considered more humane).
+- Chicory, [[dandelion]], plantain (deep-rooted, calcium-accumulating)
+- Clover or vetch (pf-tek-spore-syringe-boiling-water-sterilization for 3–5 minutes, or freeze at -20°C for 48 hours (considered more humane).
 3. **Shell**: Remove from shells with a small fork or pick.
 4. **Clean**: Remove the dark digestive gland (small dark sac near the shell opening). Rinse the foot thoroughly.
 5. **Cook or freeze**: Cook immediately in garlic butter and white wine, or vacuum-seal and freeze at -18°C for up to 12 months.
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

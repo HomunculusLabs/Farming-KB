@@ -15,7 +15,7 @@ sources:
   - Bhat, R., et al. (2012). "Senna alata: A review of its ethnomedicinal uses, phytochemistry, and pharmacology." Journal of Pharmacy Research 5(5): 2434–2438.
   - Jain, S.K. (1991). "Dictionary of Indian Folk Medicine and Ethnobotany." Deep Publications.
   - Lewis, W.H., & Elvin-Lewis, M.P.F. (1977). "Medical Botany: Plants Affecting Man's Health." Wiley.
-  - Duke, J.A. (2002). "Handbook of Medicinal Herbs." 2nd ed. CRC Press.created: 2026-05-07
+  - Duke, J.A. (2002). "Handbook of [[permaculture-plants-medicinal-herbs-healing]]." 2nd ed. CRC Press.created: 2026-05-07
 
 created: 2026-05-07
 ---
@@ -42,7 +42,7 @@ Roots form **nitrogen-fixing nodules** in association with rhizobial bacteria, a
 
 ## Distribution and Habitat
 
-*Senna alata* is native to Mexico, Central America, the Caribbean, and northern South America. Through centuries of human-mediated dispersal and naturalization, it has become established across tropical Africa, South and Southeast Asia, northern Australia, and Pacific islands.
+*Senna alata* is native to Mexico, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], the Caribbean, and northern South America. Through centuries of human-mediated dispersal and naturalization, it has become established across tropical Africa, South and Southeast Asia, northern Australia, and Pacific islands.
 
 The species thrives in **tropical lowland environments** from sea level to approximately 800 meters elevation. It prefers full sun and well-drained soils but tolerates a wide range of soil types including sandy, clay, and lateritic soils. It is notably tolerant of seasonal drought once established.
 
@@ -52,7 +52,7 @@ In its native range, *Senna alata* occurs in seasonally dry tropical forests, sa
 
 ## Chemistry and Pharmacology
 
-The primary bioactive constituents of *Senna alata* leaves are **anthraquinone glycosides**, including aloe-emodin, rhein, chrysophanol, and physcion. These compounds are responsible for both the laxative and antimicrobial properties of the plant.
+The primary bioactive constituents of *Senna alata* leaves are **anthraquinone glycosides**, including aloe-emodin, rhein, chrysophanol, and physcion. These compounds are responsible for both the laxative and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] of the plant.
 
 The antifungal activity of leaf extracts has been demonstrated against numerous dermatophytes, including *Trichophyton mentagrophytes*, *Microsporum gypseum*, and *Epidermophyton floccosum*. This activity is largely attributed to the free anthraquinone aglycones, particularly **aloe-emodin** and **rhein**.
 
@@ -70,7 +70,7 @@ In Indian Ayurvedic and Siddha medicine, the leaves are used for skin diseases, 
 
 In Southeast Asia, particularly Thailand and Malaysia, *Senna alata* leaf preparations are used for similar dermatological applications. In the Philippines, the plant is called *candlestick* and is used both medicinally and as an ornamental garden specimen.
 
-Traditional preparation methods typically involve pounding fresh leaves with a mortar and pestle, macerating in water or oil, or boiling to produce decoctions. The use of fresh leaves is generally preferred over dried material, as the anthraquinone glycoside content is higher in fresh tissue.
+[[kava-traditional-preparation-ceremonial-context]] methods typically involve pounding fresh leaves with a mortar and pestle, macerating in water or oil, or boiling to produce decoctions. The use of fresh leaves is generally preferred over dried material, as the anthraquinone glycoside content is higher in fresh tissue.
 
 ## Cultivation and Permaculture Applications
 
@@ -78,7 +78,7 @@ Traditional preparation methods typically involve pounding fresh leaves with a m
 
 The plant grows rapidly, often reaching flowering size within 6–8 months from seed. In permaculture designs, *Senna alata* serves multiple functions: as a **nitrogen-fixing support tree** in food forests, as a chop-and-drop mulch source, and as a nectar plant for butterflies and pollinators.
 
-The leaves produce a **high-quality green manure** when incorporated into soil, contributing both nitrogen (from fixation) and organic matter. In tropical agroforestry systems, the species is sometimes intercropped with food crops as a living fence or windbreak.
+The leaves produce a **high-quality green manure** when incorporated into soil, contributing both nitrogen (from fixation) and [[hamilton-composting-and-organic-matter-management]]. In tropical agroforestry systems, the species is sometimes intercropped with food crops as a living fence or windbreak.
 
 Its ornamental value makes it a popular choice for tropical landscaping, particularly in butterfly gardens where it serves as a host plant for sulfur butterfly (*Phoebis sennae*) caterpillars. The dramatic yellow flower spikes provide continuous color during the growing season.
 
@@ -88,7 +88,7 @@ Its ornamental value makes it a popular choice for tropical landscaping, particu
 
 The primary concern is displacement of native vegetation in tropical grasslands, open woodlands, and riparian corridors. Dense thickets can shade out native understory species and alter fire regimes by increasing fuel loads.
 
-Management strategies include manual removal of mature plants before seed set, herbicide application to cut stumps, and biological control investigation. Grazing animals generally avoid the foliage due to anthraquinone content, reducing natural browsing pressure.
+Management strategies include manual removal of mature plants before seed set, herbicide application to cut stumps, and [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] investigation. Grazing animals generally avoid the foliage due to anthraquinone content, reducing natural browsing pressure.
 
 In regions where the species is not yet established, **preventive measures** focus on limiting ornamental plantings and monitoring disturbed sites near existing populations. The species is included on several national weed alert lists.
 
@@ -107,7 +107,7 @@ Despite these cautions, *Senna alata* has a long history of safe use in traditio
 - [[aloe-vera]]
 - [[glycyrrhiza-glabra]]
 - [[kaempferol]]
-- [[forage-systems-animals-permaculture]]
+- forage-systems-animals-permaculture
 - [[companion-planting]]
 - [[robinia-pseudoacacia]]
 - [[chamaecrista-fasciculata]]

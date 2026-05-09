@@ -21,7 +21,7 @@ sources:
 
 # Cladonia rangiferina (Reindeer Lichen)
 
-**Cladonia rangiferina**, commonly called **reindeer lichen** (also known as grey reindeer lichen or Arctic moss), is a fruticose (bushy, branching) lichen species in the family Cladoniaceae. It is one of the most ecologically important lichens in circumpolar regions, serving as a primary winter food source for caribou and reindeer (*Rangifer tarandus*) across the Arctic tundra and boreal forests.
+**Cladonia rangiferina**, commonly called **reindeer lichen** (also known as grey reindeer lichen or Arctic moss), is a fruticose (bushy, branching) lichen species in the family Cladoniaceae. It is one of the most ecologically important lichens in circumpolar regions, serving as a primary winter food source for caribou and reindeer (*Rangifer tarandus*) across the Arctic tundra and [[fungal-diversity-boreal-forests-taiga]].
 
 ## Taxonomy and Biology
 
@@ -59,11 +59,11 @@ The "reindeer lichen" complex is often difficult to distinguish in the field and
 
 ### Geographic Range
 
-Circumpolar distribution across the Arctic tundra and boreal forests of North America, Europe, and Asia. In North America, it ranges from Alaska across Canada to the Atlantic provinces, extending southward in mountainous regions and the boreal forest belt. In Europe, it is found throughout Scandinavia, the British Isles, and northern Russia.
+Circumpolar distribution across the Arctic tundra and boreal forests of [[psilocybin-north-america-pacific-northwest]], Europe, and Asia. In North America, it ranges from Alaska across Canada to the Atlantic provinces, extending southward in mountainous regions and the boreal forest belt. In Europe, it is found throughout Scandinavia, the British Isles, and northern Russia.
 
 ### Habitat
 
-Grows on well-drained, acidic substrates including sandy soils, rocky outcrops, peatlands, and decaying wood. Common in open-canopy boreal forests, tundra heaths, and muskegs. Tolerates extreme cold, desiccation, and low nutrient availability.
+Grows on well-drained, acidic substrates including sandy soils, rocky outcrops, peatlands, and decaying wood. Common in open-canopy boreal forests, tundra heaths, and muskegs. Tolerates extreme cold, desiccation, and low [[ph-and-nutrient-availability-garden-soils]].
 
 ## Ecological Role
 
@@ -73,7 +73,7 @@ Reindeer lichen is a critical winter food source for caribou and reindeer across
 
 ### Nutrient Cycling
 
-As a primary succession organism, reindeer lichen contributes to soil formation on bare rock and disturbed sites. It traps atmospheric dust and organic particles, contributing organic matter as it slowly decomposes. Its role in nitrogen fixation is minimal (unlike some cyanolichens), but it facilitates colonization by other organisms.
+As a primary succession organism, reindeer lichen contributes to soil formation on bare rock and disturbed sites. It traps atmospheric dust and organic particles, contributing organic matter as it slowly decomposes. Its role in [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] is minimal (unlike some cyanolichens), but it facilitates colonization by other organisms.
 
 ### Biomonitoring
 
@@ -81,11 +81,11 @@ Reindeer lichen is widely used as a biomonitor for air quality, particularly for
 
 ## Chemical Constituents
 
-Reindeer lichen produces usnic acid, a secondary metabolite with antibiotic and UV-protective properties. Usnic acid gives the lichen its characteristic bitter taste and deters herbivory. Other constituents include atranorin and fumarprotocetraric acid.
+Reindeer lichen produces usnic acid, a [[fungal-elicitors-enhanced-secondary-metabolite-production]] with antibiotic and UV-protective properties. Usnic acid gives the lichen its characteristic bitter taste and deters herbivory. Other constituents include atranorin and fumarprotocetraric acid.
 
 ## Traditional Uses
 
-Indigenous peoples across the circumpolar North have used reindeer lichen for various purposes. It has been used as emergency food (after boiling to remove bitter acids), as a wound dressing (due to usnic acid's antimicrobial properties), and as a dye material. In Scandinavia, it was historically used in bread-making after extended leaching to remove bitterness.
+Indigenous peoples across the circumpolar North have used reindeer lichen for various purposes. It has been used as emergency food (after boiling to remove bitter acids), as a wound dressing (due to usnic acid's [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]), and as a dye material. In Scandinavia, it was historically used in bread-making after extended leaching to remove bitterness.
 
 ## Cultivation and Sustainability
 
@@ -93,9 +93,16 @@ Reindeer lichen grows extremely slowly, typically 3–5 mm per year. Recovery fr
 
 ## See Also
 
+- [[diploschistes-scruposus]]
+- [[solorina-crocea]]
+
 - [[lichen-symbiosis|lichen biology and ecology]]
 - [[cladonia-arbuscula]]
 
 ## See Also
 
-- [[lichen-air-quality-biomonitoring-sampling-protocols]]
+- [[diploschistes-scruposus]]
+- [[solorina-crocea]]
+
+- lichen-air-quality-biomonitoring-sampling-protocols
+- [[cladonia-stellaris]]

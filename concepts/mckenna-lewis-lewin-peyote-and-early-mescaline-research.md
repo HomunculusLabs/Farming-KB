@@ -1,5 +1,5 @@
 ---
-title: Lewis Lewin, Peyote, and the Birth of Psychopharmacology
+title: mckenna-food-gods-lewis-lewin-birth-psychopharmacology-peyote-mescaline, Peyote, and the Birth of Psychopharmacology
 created: 2026-05-06
 tags: [psychopharmacology, mescaline, peyote, lewis-lewin, havelock-ellis, beringer, history]
 date: 2026-04-28
@@ -27,13 +27,13 @@ scientific and literary communities of Europe and America began taking serious n
 
 Lewin's work was pioneering in its methodology. Rather than dismissing indigenous accounts of plant visions as superstition, he approached the subject
 with empirical rigor and personal courage,
-ingesting the substances himself to document their effects. This combination of chemical analysis and self-experimentation established a template that
+ingesting the substances himself to document their effects. This combination of [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] and self-experimentation established a template that
 would be followed by subsequent researchers in
 the field, from Arthur Heffter to gordon-wasson.
 
 The significance of Lewin's approach cannot be overstated. At a time when European science routinely dismissed indigenous knowledge as primitive
 superstition, Lewin demonstrated that the visionary
-experiences reported by Native American peoples were reproducible, chemically mediated phenomena worthy of serious scientific investigation. His work
+experiences reported by [[halpern-sacramental-peyote-and-native-american-church]] peoples were reproducible, chemically mediated phenomena worthy of serious scientific investigation. His work
 laid the groundwork for the entire field of
 ethnopharmacology.
 
@@ -83,3 +83,7 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[mckenna-beringer-mescaline-psychedelic-psychiatry]]
+- [[mckenna-shaman-centeredness-and-peripheral-social-role]]

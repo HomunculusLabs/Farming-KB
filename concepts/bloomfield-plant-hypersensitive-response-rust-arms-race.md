@@ -1,5 +1,5 @@
 ---
-title: Plant Hypersensitive Response and the Rust Arms Race
+title: Plant bloomfield plant hypersensitive response rust arms race and the Rust Arms Race
 created: 2026-04-28
 tags:
   - mycology
@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-The interaction between rust fungi and their host plants
+The interaction between [[biodiversity-rust-fungi-urediniomycetes]] and their host plants
 represents one of the most intensively studied examples of
 coevolutionary arms races in biology. As rust fungi evolve new
 strategies for infecting crop plants, the plants counter with
@@ -43,7 +43,7 @@ the plant that can detect corresponding avirulence genes in
 the pathogen. When a match occurs, the plant triggers a rapid
 localized cell death response. The cells surrounding the point
 of fungal penetration destroy themselves, forming a tiny fleck
-of dead tissue visible on the leaf surface as a small necrotic
+of dead tissue visible on the [[ingham-leaf-surface-biology-exudates]] as a small necrotic
 spot.
 
 ## How Cell Death Starves the Fungus
@@ -82,20 +82,20 @@ resistance genes that can detect the modified pathogen.
 This mutual evolution of pathogen and prey is aptly described as
 an arms race, analogous to the military competitions between
 nations. Each side invests in new weapons, and each advance by
-one side is eventually countered by the other. The rust fungus
+one side is eventually countered by the other. The [[bloomfield-rust-fungus-life-cycles-puccinia-haustoria-spermatia]]
 Puccinia graminis encompasses a number of special races called
 formae speciales that target particular crops. Within each
 forma specialis, there is further specialization: not all
 varieties of a crop species are equally susceptible to infection.
 
 The situation is complicated by the sexual recombination that
-occurs on the barberry alternate host. Sexual reproduction
+occurs on the barberry alternate host. [[fungal-life-cycles-sexual-reproduction-metamorphosis]]
 shuffles the fungal genes into novel combinations with each
 generation, producing new races that may overcome existing
 plant resistance. The eradication of barberry from wheat-growing
 regions was motivated in part by the desire to slow this
 evolutionary arms race by eliminating the sexual stage of the
-rust life cycle.
+rust [[bloomfield-fungal-life-cycle-spiral-versus-circle]].
 
 ## Plant Breeding for Rust Resistance
 

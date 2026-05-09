@@ -1,5 +1,5 @@
 ---
-title: Solomon Clay Soil Management and Remediation
+title: Solomon solomon clay soil management and remediation and Remediation
 created: 2026-04-28
 tags: [clay-soil, soil-management, steve-solomon, double-digging, organic-matter, drainage]
 date: 2026-04-28
@@ -11,7 +11,7 @@ type: concept
 
 # Solomon Clay Soil Management and Remediation
 
-Steve Solomon addresses clay soil management in *Gardening When It Counts* with pragmatic advice grounded in his experience growing vegetables in difficult soil conditions. Clay soils present specific challenges: poor drainage, compaction tendency, difficulty working, and slow warming in spring. However, clay also holds nutrients well and retains moisture during drought, making it potentially productive once properly managed.
+Steve Solomon addresses clay soil management in *Gardening When It Counts* with pragmatic advice grounded in his experience [[container-growing-vegetables-herbs]] in difficult soil conditions. Clay soils present specific challenges: poor drainage, compaction tendency, difficulty working, and slow warming in spring. However, clay also holds nutrients well and retains moisture during drought, making it potentially productive once properly managed.
 
 ## Understanding Clay Soil Problems
 
@@ -46,7 +46,7 @@ Organic matter is the single most important amendment for clay soils, but Solomo
 
 - **Composted materials preferred**: Fresh organic matter in clay soil creates nitrogen immobilization problems because the high clay content already supports large microbial populations that will multiply further when fresh carbon is added
 - **Quantity matters**: A 1-inch layer of finished compost worked into the top few inches annually is sufficient. Excessive organic matter unbalances soil minerals, particularly raising potassium to excessive levels relative to calcium
-- **Source diversity**: Mix different types of compost and organic matter rather than relying on a single source
+- **Source diversity**: Mix different types of [[coleman-compost-and-organic-fertility-management]] matter rather than relying on a single source
 
 ## The Gypsum Question
 
@@ -92,8 +92,8 @@ Despite its frustrations, clay soil has genuine advantages that Solomon acknowle
 
 - **Nutrient retention**: Clay's cation exchange capacity holds nutrients that would leach from sandy soils
 - **Drought resistance**: Once improved, clay soils hold moisture far longer than sandy soils during dry periods
-- **Reduced fertilization**: The nutrient-holding capacity means less frequent fertilizer application
-- **Foundation for COF**: Solomon's Complete Organic Fertilizer works well in clay because the clay prevents nutrient leaching
+- **Reduced fertilization**: The nutrient-holding capacity means less frequent [[cervantes-fertilizer-application-strain-feeding]]
+- **Foundation for COF**: Solomon's Complete [[complete-organic-fertilizer-cof-recipe-solomon]] works well in clay because the clay prevents nutrient leaching
 
 ## Mineral Balance in Clay
 
@@ -101,7 +101,7 @@ Clay soils often have mineral imbalances that Solomon's COF addresses:
 
 - **Excess magnesium**: Many clays are high in magnesium relative to calcium, creating tight structure. Agricultural limestone (calcium carbonate) helps restore balance
 - **Potassium accumulation**: Heavy clay with regular manure or compost applications tends to accumulate potassium, which can block calcium uptake
-- **Trace mineral availability**: Clay's high cation exchange capacity means trace minerals stay available longer, which is advantageous
+- **Trace [[chelation-microbial-mineral-availability-ingham]]**: Clay's high cation exchange capacity means trace minerals stay available longer, which is advantageous
 
 ## Cover Crops for Clay Improvement
 
@@ -123,6 +123,8 @@ Irrigation strategy must account for clay's water-holding characteristics:
 - **Monitor drainage** after heavy rain; standing water for more than 24 hours indicates a need for improved drainage infrastructure
 
 ## See Also
+
+- [[clay-soil-management-solomon]]
 
 - [[solomon-complete-organic-fertilizer-guide|Complete Organic Fertilizer Recipe]]
 - [[jeavons-double-digging-bed-preparation|Double Digging Bed Preparation]]

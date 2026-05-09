@@ -1,10 +1,11 @@
 ---
-title: "Zone 1 Intensive Garden vs Zone 5 Wilderness"
+title: "Zone 1 comparison zone 1 intensive garden vs zone 5 wilderness vs Zone 5 Wilderness"
 created: 2026-04-28
 tags: [comparison, permaculture, zone-design, land-management, ecology]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -17,21 +18,21 @@ human management spectrum. Zone 1 is the most intensively managed area immediate
 adjacent to the home, visited daily and optimized for high-yield food production.
 Zone 5 is the unmanaged wilderness area left entirely to natural processes, serving
 as a wildlife sanctuary and ecological reference point. Together they form the
-bookends of a permaculture design, with the intermediate zones (2, 3, and 4)
+bookends of a [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], with the intermediate zones (2, 3, and 4)
 creating a gradient of decreasing management intensity between them.
 
 ## Zone 1 Intensive Garden
 
-[[keyhole-beds]] (circular beds with central access
-maximizing growing space while minimizing paths), [[zone-5-wilderness]]
+keyhole-beds (circular beds with central access
+maximizing [[cotter-growing-space-design-fruiting-rooms]] while minimizing paths), [[zone-5-wilderness]]
 
-Zone 5 is the wildest, most natural area of a permaculture property, left
+Zone 5 is the wildest, most natural area of a [[query-how-do-i-start-designing-a-permaculture-property-from-scratch]], left
 intentionally untended as a sanctuary for wildlife, a source of clean water, and an
 ecological reference. It represents the instruction manual for the ecological garden,
 where observation and learning take priority over production. Even small Zone 5
 areas provide outsized benefits by serving as refugia for beneficial organisms.
 
-Zone 5 provides critical ecosystem services: wildlife habitat supporting pollinators,
+Zone 5 provides critical [[biodiversity-of-fungi-ecosystem-services-agriculture]]: wildlife habitat supporting pollinators,
 pest predators, and biodiversity; water catchment and aquifer recharge through intact
 soil profiles; seed banks of native plants; genetic diversity reservoirs; and a
 benchmark for understanding what the land wants to become without human interference.
@@ -73,7 +74,7 @@ are timely.
 
 Zone 5 is essential on any property large enough to accommodate it, as ecosystem
 services flow outward into all other zones. It is particularly important on degraded
-land, where an area of undisturbed natural growth serves as a seed source and
+land, where an area of undisturbed [[ingham-natural-growth-regulators-soil-microbes]] serves as a seed source and
 ecological reference for restoration. Zone 5 is valuable for education, wildlife
 photography, and mental health, providing a space where natural processes unfold
 without human direction. In small properties, dedicating even 5 to 10% of the area
@@ -82,5 +83,5 @@ to minimal management provides meaningful ecological benefits.
 ## Hybrid Approaches
 
 The zone system is a gradient, not hard boundaries. [[zone-and-sector-analysis]]
-- [[keyhole-beds]]
+- keyhole-beds
 - [[food-forest-design]]

@@ -36,7 +36,7 @@ dementia, behavioral difficulties, and eventually death. No curative treatment
 exists in orthodox medicine. Management involves physical and speech therapies,
 neuroleptics, and nutritional support.
 
-Leading causes of death in HD include pneumonia, heart disease, nutritional
+Leading causes of death in HD include pneumonia, [[blesching-cannabis-heart-disease]], nutritional
 deficiencies, and cerebrovascular disorders.
 
 ## Cannabis Health Index Assessment
@@ -92,7 +92,9 @@ Another dimension involves family burden and shared destiny, as consciousness
 retreats and is replaced by unconscious dance-like movement. Some patients
 find meaning in consciously embracing the emerging energy.
 
-## Related Topics
+## Related
+
+- [[cannabis-huntingtons-disease-research]] Topics
 
 - [[blesching-cannabinoid-pharmacology]]
 - [[blesching-cannabis-parkinsons-disease]]

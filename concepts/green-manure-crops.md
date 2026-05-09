@@ -9,7 +9,7 @@ sources: []
 
 # Green Manure Crops
 
-Green manure crops are plants grown specifically to be incorporated into the soil while still green, adding organic matter, nitrogen, and biological activity. Unlike cover crops that may be terminated on the surface, green manures are typically tilled or dug in. They are a cornerstone of organic fertility management.
+Green manure crops are plants grown specifically to be incorporated into the soil while still green, adding organic matter, nitrogen, and biological activity. Unlike cover crops that may be terminated on the surface, green manures are typically tilled or dug in. They are a cornerstone of [[coleman-compost-and-organic-fertility-management]] management.
 
 ## Nitrogen Fixers
 
@@ -37,7 +37,7 @@ Non-leguminous green manures add carbon and organic matter, feeding soil microbe
 
 ### Grass-Based Green Manures
 
-- **Cereal Rye (Secale cereale)**: Produces 4,000-8,000 lb dry matter/acre. Extremely vigorous root system. The gold standard for biomass production. C:N ratio of 30-40:1.
+- **Cereal Rye (Secale cereale)**: Produces 4,000-8,000 lb dry matter/acre. Extremely vigorous root system. The gold standard for [[dighton-fungal-biomass-production-aquatic-ecosystems]]. C:N ratio of 30-40:1.
 - **Oats (Avena sativa)**: Fast-growing, produces 2,000-4,000 lb DM/acre. Convenient because it winter-kills, eliminating termination work. C:N ratio of 25-30:1.
 - **Annual Ryegrass (Lolium multiflorum)**: Deep-rooted (up to 3 feet), excellent for breaking compaction. Produces good biomass but can become weedy. C:N ratio of 25-35:1.
 - **Sorghum-Sudangrass (Sorghum bicolor x S. sudanense)**: The biomass champion at 6,000-12,000 lb DM/acre. Warm-season. Allelopathic root exudates suppress soil pests. C:N ratio of 35-45:1.
@@ -66,7 +66,7 @@ Certain brassica species release glucosinolate compounds that break down into is
 
 ### Biofumigation Protocol
 
-1. Grow the brassica crop to full maturity (flowering stage) for maximum glucosinolate accumulation
+1. Grow the brassica crop to full maturity ([[cannabis-flowering-stage-management]]) for maximum glucosinolate accumulation
 2. Finely chop the above-ground biomass with a flail mower or weed whacker — more surface area = more gas release
 3. Incorporate immediately into the top 4-6 inches of soil using a rototiller or spading fork
 4. Compact the soil surface slightly (roll or tamp) to trap the volatile gases
@@ -77,7 +77,7 @@ Biofumigation is most effective against soil-borne diseases and nematodes when d
 
 ## Incorporation Timing
 
-When and how to incorporate green manures significantly impacts nutrient availability and soil biology.
+When and how to incorporate green manures significantly impacts [[ph-and-nutrient-availability-garden-soils]] and soil biology.
 
 ### Optimal Incorporation Stages
 
@@ -93,12 +93,12 @@ When and how to incorporate green manures significantly impacts nutrient availab
 - **Week 1-2**: Rapid microbial activity, visible residue breakdown begins
 - **Week 3-4**: Significant nutrient release, especially from legumes
 - **Week 5-8**: Most nitrogen from legume green manures is plant-available
-- **Month 2-4**: Grass residues break down, humus formation begins
+- **Month 2-4**: Grass residues break down, [[lowenfels-humus-formation-benefits]] begins
 - **Month 4-12**: Long-term humus stabilization, slow nutrient release
 
 ### Incorporation Methods
 
-- **Tillage**: Fastest decomposition. Rototilling incorporates residue uniformly. Tradeoff: disrupts soil structure and mycorrhizal networks. Best for biofumigant incorporation.
+- **Tillage**: Fastest decomposition. Rototilling incorporates residue uniformly. Tradeoff: disrupts soil structure and [[dighton-mycorrhizal-networks-carbon-transfer]]. Best for biofumigant incorporation.
 - **Solarization over incorporated residue**: Incorporate, cover with clear plastic for 4-8 weeks in summer. Accelerates decomposition and kills pathogens. Combines biofumigation with heat.
 - **Sheet mulching on top of mowed residue**: Mow green manure low, then layer cardboard/compost on top. Slower decomposition but preserves soil structure. Works in [[no-till-gardening-method]] systems.
 
@@ -140,6 +140,6 @@ Balanced green manure mixes combine nitrogen fixers with biomass builders:
 ## Related Topics
 
 - [[cover-cropping-guide]] for comprehensive cover crop families and regional guidance
-- [[biochar-in-agriculture|biochar]]] for soil amendment pairing with green manures
+- [[biochar-in-agriculture|biochar]] for soil amendment pairing with green manures
 - [[crop-rotation-principles]] for fitting green manures into rotations
 - [[companion-planting-reference]] for intercropping with cash crops

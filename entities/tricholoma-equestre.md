@@ -55,7 +55,7 @@ The name T. flavovirens is still commonly encountered in field guides and mycolo
 - **Stipe:** 4–10 cm long × 1–2.5 cm thick, cylindrical or slightly clavate; solid, firm; surface dry, finely fibrillose to sub-silky; white to pale yellow above the ring zone, yellowish below; basal mycelium often yellowish.
 - **Ring:** Membranous, superior, narrow, often evanescent or leaving a faint annular zone on the stipe. May be stained yellow by spore deposit.
 - **Flesh:** White to pale yellow, firm, thick in the cap; odor mild, pleasant, mealy or farinaceous; taste mild, sometimes slightly mealy.
-- **Spore print:** White.
+- **[[spore-print]]:** White.
 - **Chemical reactions:** KOH on cap surface — negative to faintly yellow. Melzer's on spores — inamyloid.
 
 ### Microscopic Features
@@ -68,7 +68,7 @@ The name T. flavovirens is still commonly encountered in field guides and mycolo
 ## Distribution and Habitat
 
 - **Geographic range:** Widely distributed across Europe, from Scandinavia to the Mediterranean. Also reported from North Africa, Asia (Japan, Korea), and temperate North America (taxon may differ).
-- **Habitat:** Ectomycorrhizal, forming associations with conifers and some hardwoods. Most commonly found under Scots pine (*Pinus sylvestris*) and maritime pine (*Pinus pinaster*), also under spruce (*Picea* spp.), birch (*Betula* spp.), and oak (*Quercus* spp.).
+- **Habitat:** Ectomycorrhizal, forming associations with conifers and some hardwoods. Most commonly found under Scots pine (*[[pinus-sylvestris]]*) and maritime pine (*Pinus pinaster*), also under spruce (*Picea* spp.), birch (*Betula* spp.), and oak (*Quercus* spp.).
 - **Substrate/soil:** Prefers sandy or acidic soils in coniferous and mixed forests, heathlands, and coastal pine woodlands.
 - **Seasonality:** Late summer to late autumn (August–November). Prefers cool, wet conditions.
 - **Frequency:** Can be locally abundant, forming large troops or fairy rings in favorable pine forests.
@@ -112,12 +112,12 @@ The reversal of its edibility status was controversial in mycological circles. S
 | *Tricholoma sulphureum* | Strong sulfurous odor; gills sulfur-yellow; more robust | Poisonous |
 | *Tricholoma lucidum* | Darker reddish-brown cap; bitter taste; on oak | Inedible (bitter) |
 | *Tricholoma scalpturatum* | Cap with silvery-fibrillose surface, grayish; smaller stature | Edible, mild |
-| *Hygrophoropsis aurantiaca* | True gills (not lamellae); bright orange; on conifer litter | Edible, good |
+| *[[hygrophoropsis-aurantiaca]]* | True gills (not lamellae); bright orange; on conifer litter | Edible, good |
 
 ## Ecological Role
 
-- **Ectomycorrhizal partner:** Forms obligate mycorrhizal associations, primarily with Pinaceae. The relationship provides the host tree with enhanced phosphorus and nitrogen uptake in exchange for photosynthate carbon.
-- **Forest ecosystem function:** Contributes to nutrient cycling through mycelial networks connecting trees. Plays a role in establishing pine seedlings in disturbed or sandy soils.
+- **Ectomycorrhizal partner:** Forms obligate [[plants-without-mycorrhizal-associations]], primarily with Pinaceae. The relationship provides the host tree with enhanced phosphorus and nitrogen uptake in exchange for photosynthate carbon.
+- **Forest [[dighton-mycorrhizal-diversity-ecosystem-function]]:** Contributes to nutrient cycling through [[mycelial-networks]] connecting trees. Plays a role in establishing pine seedlings in disturbed or sandy soils.
 - **Wildlife food source:** Despite human toxicity, the mushroom is consumed by slugs, insects, and small mammals without apparent ill effect, suggesting the toxin may not affect non-primate physiology or that detoxification mechanisms exist in other species.
 
 ## See Also

@@ -21,17 +21,17 @@ The medical applications of cannabis in ancient Egypt appear to have been extens
 
 ## Ancient Near Eastern Cannabis Use
 
-Hemp fabrics from the late 8th century B.C. have been found in Turkey, providing evidence of cannabis cultivation for fiber in Anatolia. The dual use of cannabis for both fiber and psychoactive purposes is well-documented across many ancient cultures, and the Anatolian finds suggest that this versatile exploitation of the plant was established in the Near East by the early Iron Age.
+Hemp fabrics from the late 8th century B.C. have been found in Turkey, providing evidence of [[query-how-does-no-till-cannabis-cultivation-work]] for fiber in Anatolia. The dual use of cannabis for both fiber and psychoactive purposes is well-documented across many ancient cultures, and the Anatolian finds suggest that this versatile exploitation of the plant was established in the Near East by the early Iron Age.
 
 The [[cannabis-health-methods-of-administration]], making the Indian tradition one of the oldest documented in the world. That the early Hindus appreciated its intoxicating properties is attested by such evocative names as "heavenly guide" (vijaya) and "soother of grief." These names reveal that cannabis was valued not merely as a medicine but as a psychoactive sacrament capable of altering consciousness in desirable ways.
 
-The Indian tradition developed a sophisticated taxonomy of cannabis preparations. Bhang consists of plants gathered green, dried, and made into a drink with water or milk or into a candy called majun with sugar and spices. Charas, normally smoked or eaten with spices, is pure resin collected from the living plant. Ganjah, usually smoked with tobacco, consists of resin-rich dried tops from the female plant. Many of these unusually potent preparations may be derived from Cannabis indica.
+The Indian tradition developed a sophisticated taxonomy of cannabis preparations. Bhang consists of plants gathered green, dried, and made into a drink with water or milk or into a candy called majun with sugar and spices. Charas, normally smoked or eaten with spices, is pure resin collected from the living plant. Ganjah, usually smoked with tobacco, consists of resin-rich dried tops from the female plant. Many of these unusually potent preparations may be derived from [[cannabis-indica]].
 
 ## Chinese Cannabis Use
 
 Chinese tradition places the use of cannabis back 4,800 years, making it potentially the oldest documented cannabis tradition in the world. The Chinese referred to cannabis as "liberator of sin" and "delight giver," names that clearly reference its psychoactive properties. The ancient Chinese character for cannabis (Ta Ma) combines the symbols for "tall" and "fiber plant," reflecting the dual importance of the species.
 
-In Chinese medicine, cannabis seeds (huo ma ren) were used as a laxative and treatment for various conditions. The psychoactive use of cannabis appears to have declined in China over the centuries, possibly supplanted by tea and other psychoactive substances, but the medical use of cannabis seeds continued in the Chinese pharmacopoeia well into the modern era.
+In Chinese medicine, [[query-how-to-store-cannabis-seeds-for-long-term-viability]] (huo ma ren) were used as a laxative and treatment for various conditions. The psychoactive use of cannabis appears to have declined in China over the centuries, possibly supplanted by tea and other psychoactive substances, but the medical use of cannabis seeds continued in the Chinese pharmacopoeia well into the modern era.
 
 ## Greek and Roman Knowledge of Cannabis
 
@@ -43,9 +43,9 @@ The preparation of cannabis resin (charas) for smoking or eating appears to have
 
 ## The Spread of Cannabis from Central Asia
 
-Cannabis is believed to have originated in Central Asia, from where it spread to virtually every inhabited continent. The ancient Near East served as a crucial crossroads in this diffusion, with trade routes connecting China, India, Central Asia, and the Mediterranean world all facilitating the movement of both cannabis products and knowledge about their preparation and use.
+Cannabis is believed to have originated in Central Asia, from where it spread to virtually every inhabited continent. [[allegro-fertility-philosophy-of-the-ancient-near-east]] East served as a crucial crossroads in this diffusion, with trade routes connecting China, India, Central Asia, and the Mediterranean world all facilitating the movement of both cannabis products and knowledge about their preparation and use.
 
-The global spread of cannabis represents perhaps the most successful diaspora of any psychoactive plant in human history. From its ancient origins in Central Asian medicine and Scythian ritual to its current worldwide presence, cannabis has maintained cultural significance across millennia and across radically different societies. The ancient Near Eastern tradition represents a critical link in this chain of transmission, connecting the Central Asian heartland of cannabis to the Mediterranean world and beyond.
+The [[pf-tek-global-spread-and-cultural-impact]] of cannabis represents perhaps the most successful diaspora of any psychoactive plant in human history. From its ancient origins in Central Asian medicine and Scythian ritual to its current worldwide presence, cannabis has maintained [[ethnomycology-cultural-significance-sacred-fungi]] across millennia and across radically different societies. The ancient Near Eastern tradition represents a critical link in this chain of transmission, connecting the Central Asian heartland of cannabis to the Mediterranean world and beyond.
 
 ## Modern Research on Ancient Cannabis
 
@@ -53,7 +53,7 @@ Modern archaeobotanical techniques, including pollen analysis, carbon dating, an
 
 The [[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]]
 - [[cannabis-male-plant-identification]]
-- [[mushroom-symbols-ancient-languages-rock-art]]
+- mushroom-symbols-ancient-languages-rock-art
 ## Practical Considerations
 
 When working with Ancient Cannabis Use in the Near East and Egypt, several practical factors should be
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

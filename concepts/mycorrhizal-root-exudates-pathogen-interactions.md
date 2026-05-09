@@ -18,13 +18,13 @@ type: concept
 
 ## Overview
 
-Mycorrhizal colonization significantly alters the composition of root
+[[arbuscular-mycorrhizal-colonization-patterns]] significantly alters the composition of root
 exudates, with implications for interactions with soil-borne pathogens.
 Changes in exudate chemistry affect the behavior of pathogen
-propagules, including zoospore chemotaxis, spore germination, and
+propagules, including zoospore chemotaxis, [[growing-gourmet-spore-germination-strain-isolation]], and
 hyphal growth. Research using in vitro bi-compartmental systems and
-PCR-DGGE community analysis has revealed complex relationships between
-mycorrhizal exudates, pathogen dynamics, and rhizosphere microbial
+PCR-DGGE [[rhizosphere-fungal-community-analysis-rrna-rdna]] has revealed complex relationships between
+[[singh-mycorrhizal-exudates-root-exudate-interactions]], pathogen dynamics, and rhizosphere microbial
 communities that do not always translate directly from simplified
 laboratory assays to more complex soil environments.
 
@@ -45,7 +45,7 @@ biocontrol induced by AMF.
 
 Several carotenoid-derived isoprenoids accumulate specifically within
 mycorrhizal roots. Blumenin, mycorradicin, and nicoblumin have been
-detected in barley and wheat roots colonized with G. intraradices.
+detected in [[ergot-of-barley-and-wheat-alkaloid-composition]] roots colonized with G. intraradices.
 Blumenin accumulation follows a temporal pattern, being low at 2 weeks,
 reaching maximum levels at 3-4 weeks, and declining to trace amounts
 after 5 weeks. Blumenin applied on barley split-root systems resulted
@@ -94,7 +94,7 @@ physical soil properties, modulate the effects of exudate compounds.
 ## Mycorrhizal Exudates and Rhizosphere Bacteria
 
 Mycorrhizal root exudates were tested for their ability to modify
-rhizosphere bacterial community structure. Using PCR-DGGE analysis of
+rhizosphere [[core-endorhiza-bacterial-community-composition-cannabis]] structure. Using PCR-DGGE analysis of
 the 16S ribosomal gene, researchers found that direct AMF root
 colonization significantly altered the bacterial community, but
 application of mycorrhizal root exudates to nonmycorrhizal plants did
@@ -127,6 +127,8 @@ symbiosis regulation may simultaneously influence interactions with
 soil-borne pathogens within the mycorrhizosphere.
 
 ## See Also
+
+- mycorrhizal-grasses-lawns
 
 - [[mycorrhizal-biocontrol-phytophthora-root-exudates]]
 - [[bacterial-associates-amf-structures-biocontrol]]

@@ -1,5 +1,5 @@
 ---
-title: Psilocybe cubensis Cap and Stem Alkaloid Distribution
+title: brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting Cap and cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms Distribution
 created: 2026-05-08
 source: "Bigwood & Beug (1982). Variation of psilocybin and psilocin levels. Journal of Ethnopharmacology, 5(3), 287–291."
 tags:
@@ -28,7 +28,7 @@ all else being equal.
 Unlike the relatively consistent cap-to-stem ratio observed for psilocybin, the
 distribution of psilocin between caps and stems showed **marked strain-to-strain
 variation**. Bigwood & Beug analyzed three strains and found distinctly
-different psilocin distribution patterns:
+different psilocin [[guzman-global-distribution-patterns-neurotropic-fungi]]:
 
 ### M.R. and Equadorian Strains
 
@@ -88,7 +88,7 @@ samples may have been partially degraded or adulterated.
 - Psilocin was **consistently low** across all street samples tested.
 
 The low psilocin levels in street samples are consistent with the known
-instability of psilocin during drying and storage. By the time mushrooms reach
+instability of psilocin during [[psilocybin-mushroom-drying-and-storage-methods]]. By the time mushrooms reach
 the consumer through informal distribution channels, psilocin has likely
 degraded significantly from its original levels. This means that street
 mushrooms may provide a primarily psilocybin-driven experience, with minimal
@@ -97,7 +97,7 @@ direct psilocin contribution.
 ## Analytical Methodology
 
 The cap-stem distribution study and street sample analysis used the same
-**HPLC with UV detection** methodology described for the flush variation study.
+**HPLC with UV detection** methodology described for the [[bigwood-beug-miniculture-rye-grain-flush-variation-method]] study.
 Key specifications included a detection limit of approximately 0.01 µg and
 identity confirmation by TLC with a butanol–acetic acid–water (12:3:5) solvent
 system. Caps and stems were separated by hand and analyzed independently.

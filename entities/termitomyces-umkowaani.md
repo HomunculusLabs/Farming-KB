@@ -15,7 +15,7 @@ sources:
   - Heim, R. (1977). Termites et Champignons. Boubée, Paris.
   - Aanen, D.K. et al. (2002). "The evolution of fungus-growing termites and their mutualistic fungal symbionts." Proceedings of the National Academy of Sciences, 99(23), 14887-14892.
   - De Fine Licht, H.H. et al. (2005). "The termite genus Macrotermes as a model for the co-evolution of fungus-growing termites and Termitomyces." Insectes Sociaux, 52(3), 268-275.
-  - Oei, P. (2005). Mushroom Cultivation in the Tropics: A Practical Guide. TOOL Publications, Amsterdam.
+  - Oei, P. (2005). [[accessible-mushroom-cultivation-for-disabilities]] in the Tropics: A Practical Guide. TOOL Publications, Amsterdam.
 ---
 
 ## Overview
@@ -23,7 +23,7 @@ sources:
 **Termitomyces umkowaani** is a species of agaric fungus in the family Lyophyllaceae,
 obligately associated with fungus-growing termites of the genus *Macrotermes*.
 
-It is one of the most prized wild edible mushrooms across southern and East Africa,
+It is one of the most prized wild [[palmer-edible-mushrooms-north-america]] across southern and East Africa,
 where it appears seasonally at the base of termite mounds following heavy rains.
 
 The species epithet "umkowaani" derives from indigenous naming conventions in the
@@ -110,12 +110,12 @@ extremely difficult, as the fungus has co-evolved with its host and requires
 specific conditions provided by the termite mound environment.
 
 Research at the University of Zimbabwe and other institutions has explored
-in vitro cultivation methods using sterilized plant substrates inoculated with
+in vitro [[synthetic-log-cultivation-methods-guide]] using sterilized plant substrates inoculated with
 spore prints or tissue cultures. Results have been modest, with poor
 fruiting consistency compared to wild harvests.
 
 The economic value of this species has prompted interest in semi-cultivated
-approaches, such as managing termite mounds on agricultural land to promote
+approaches, such as managing termite mounds on [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] to promote
 natural fruiting. This practice aligns with traditional low-input farming
 systems in the region.
 ## Related Species
@@ -128,13 +128,13 @@ West and Central Africa. Among the most commonly collected species in Nigeria
 and Ghana.
 
 *T. eurrhizus* — the Asian termite mushroom, cultivated commercially in China
-and Southeast Asia. Similar morphology but distinct geographic distribution and
+and [[psilocybe-southeast-asia-pacific]]. Similar morphology but distinct geographic distribution and
 genetic lineage.
 
 *T. titanicus* — the largest known agaric species, with caps reaching 1 meter
 diameter. Found in West and Central Africa.
 
-*T. shimperi* — East African species associated with *Macrotermes bellicosus*,
+*T. shimperi* — [[comparison-cavendish-vs-east-african-highland-bananas]] species associated with *Macrotermes bellicosus*,
 slightly smaller and more delicate than *T. umkowaani*.
 
 ## See Also

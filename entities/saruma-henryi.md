@@ -44,7 +44,7 @@ Stems are erect, branching, pubescent, and covered with cordate to ovate leaves.
 
 Leaves are alternate, cordate at the base, 5–12 cm long and 4–10 cm wide, with dentate margins.
 
-The leaf surface is pubescent on both sides, giving a soft, velvety texture.
+The [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is pubescent on both sides, giving a soft, velvety texture.
 
 Flowers are produced in the upper leaf axils from spring through early summer (April–June).
 
@@ -86,7 +86,7 @@ Propagation is primarily from seed, which requires a period of cold stratificati
 
 Seeds should be sown fresh or stored cool and moist, as they lose viability rapidly when dried.
 
-Division of established clumps can be performed in early spring or autumn.
+Division of established clumps can be performed in [[coleman-overwintered-onions-and-early-spring-crops]] or autumn.
 
 The plant is relatively pest-free in cultivation, though slugs may damage new growth in damp conditions.
 

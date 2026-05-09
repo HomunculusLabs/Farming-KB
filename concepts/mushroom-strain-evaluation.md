@@ -1,5 +1,5 @@
 ---
-title: Mushroom Strain Evaluation — Stamets 28-Feature Framework
+title: dikaryon-formation-mushroom-strain-genetics Evaluation — Stamets 28-Feature Framework
 created: 2026-04-22
 updated: 2026-04-22
 type: concept
@@ -19,15 +19,15 @@ Evaluating and selecting mushroom strains is the foundation of any successful mu
 
 When a mushroom is brought into culture from the wild, little is known about its performance until trials are conducted. Even within the same species, mushroom strains vary to surprising degrees in growth rate, yield, flavor, appearance, and environmental sensitivity. The cultivator develops an intimate, co-dependent relationship with every strain, learning to recognize its unique "personality" through daily observation of the culture's transformations.
 
-A [[mushroom-sectoring-strain-development]] and media improvement.
+A mushroom-sectoring-strain-development and media improvement.
 
 ### 2. Rate of Growth
 
-Strains differ substantially in their rate of growth at all stages. Once the mycelium achieves momentum, proper management can greatly shorten colonization and ultimately the production cycle. Morels are among the fastest colonizers of petri dishes. Strains taking more than 3 weeks to colonize nutrified agar, grain, or bulk mushroom-substrates|substrates are highly susceptible to [[cotter-oyster-mushroom-cultivation]], [[medicinal-mushroom-guide-lions-mane]]), and those requiring a sustained resting period (Woodlovers like Hypholoma). Understanding this timing is critical for [[agaricus-bisporus-cultivation-biology]], King Stropharia, and Zhu Ling (*Polyporus umbellatus*) benefit from microbially enriched [[cotter-oyster-mushroom-cultivation]] will malform — stems elongate while caps remain undeveloped. Shiitake, Reishi, and Oysters all demonstrate strong photosensitivity.
+Strains differ substantially in their rate of growth at all stages. Once the mycelium achieves momentum, proper management can greatly shorten colonization and ultimately the production cycle. Morels are among the fastest colonizers of petri dishes. Strains taking more than 3 weeks to colonize nutrified agar, grain, or bulk mushroom-substrates|substrates are highly susceptible to [[cotter-oyster-mushroom-cultivation]], [[medicinal-mushroom-guide-lions-mane]]), and those requiring a sustained resting period (Woodlovers like Hypholoma). Understanding this timing is critical for [[agaricus-bisporus-cultivation-biology]], [[cotter-king-stropharia-cultivation]], and Zhu Ling (*Polyporus umbellatus*) benefit from microbially enriched [[cotter-oyster-mushroom-cultivation]] will malform — stems elongate while caps remain undeveloped. Shiitake, Reishi, and Oysters all demonstrate strong photosensitivity.
 
 ### 8–9. Temperature Requirements
 
-Cold shock (below 60–65°F) is required for most temperate strains to initiate fruiting. Warm weather strains grow more quickly and fruit in half the time. Experienced cultivators cycle strains through their facility to match prevailing seasons, minimizing heating and cooling costs. Volvariella volvacea will not produce below 75°F and dies below 45°F.
+Cold shock (below 60–65°F) is required for most temperate strains to initiate fruiting. [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]] strains grow more quickly and fruit in half the time. Experienced cultivators cycle strains through their facility to match prevailing seasons, minimizing heating and cooling costs. [[paddy-straw-mushroom-volvariella-volvacea-cultivation]] will not produce below 75°F and dies below 45°F.
 
 ### 10–12. Primordia Characteristics
 
@@ -49,16 +49,16 @@ The ideal harvest stage is when the cap margin is midway between incurved and de
 
 ### 19. Necrosis Protection
 
-Some species like [[gourmet-mushroom-stock-culture-management]] cultures in cold storage limit cell division rates and protect against mutation.
+Some species like gourmet-mushroom-stock-culture-management cultures in cold storage limit cell division rates and protect against mutation.
 
 ### 21–23. Flavor, Texture, and Aroma
 
-Strains of the same species differ substantially in these qualities. Younger mushrooms are generally better-flavored. [[medicinal-mushroom-compounds-and-health-benefits]] like lentinan (Shiitake), FVP (Enokitake), and grifolan (Maitake). These cell wall polysaccharides enhance the human immune system and are more concentrated in the compact mushroom form than in loose mycelial networks.
+Strains of the same species differ substantially in these qualities. Younger mushrooms are generally better-flavored. [[medicinal-mushroom-compounds-and-health-benefits]] like lentinan (Shiitake), FVP (Enokitake), and grifolan (Maitake). These cell wall polysaccharides enhance the human immune system and are more concentrated in the compact mushroom form than in loose [[fungal-mycelial-networks-nutrient-translocation]].
 
 ## Strain Degeneration Pattern
 
-Healthy strains begin with rhizomorphic mycelium, then after months of transfers the culture sectors, forming diverging fans of linear, cottony, and appressed mycelium. Aerial tufts appear. The unstable center sends forth mutation-ridden chains of cells. The strain's ability to form volunteer [[mushroom-genetics-strain-selection]]
-- [[gourmet-mushroom-strain-selection]]
+Healthy strains begin with [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]], then after months of transfers the culture sectors, forming diverging fans of linear, cottony, and appressed mycelium. Aerial tufts appear. The unstable center sends forth mutation-ridden chains of cells. The strain's ability to form volunteer [[mushroom-genetics-strain-selection]]
+- gourmet-mushroom-strain-selection
 - [[mushroom-stock-culture-preservation]]
 - [[mushroom-yield-optimization]]
 ## Practical Considerations
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

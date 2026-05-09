@@ -1,10 +1,11 @@
 ---
-title: "How Does the Nitrogen Cycle Work in a Garden?"
+title: "How Does the query how does the nitrogen cycle work in a garden Work in a Garden?"
 created: 2026-04-28
 tags: [query, nitrogen-cycle, soil-biology, nutrients, organic-farming]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -13,7 +14,7 @@ type: query
 ## Short Answer
 The nitrogen cycle in a garden converts atmospheric nitrogen (N2) into
 plant-available forms through biological fixation by rhizobia bacteria on
-legume roots, mineralization of organic matter by decomposer organisms, and
+legume roots, mineralization of [[hamilton-composting-and-organic-matter-management]] by decomposer organisms, and
 fertilizer inputs. Plants absorb nitrogen primarily as ammonium (NH4+) or
 nitrate (NO3-). Excess nitrogen leaches away or volatilizes as gas, while
 nitrogen is returned to soil through plant residue decomposition, compost
@@ -29,10 +30,10 @@ residues release nitrogen for crop uptake. [[actinomycetes-soil-biology]] breaks
 molecules, releasing ammonium in a process called ammonification. The rate
 of mineralization depends on temperature, moisture, soil pH, and the
 carbon-to-nitrogen ratio of the organic material being decomposed. Materials
-with a low C:N ratio (like fresh green manures or [[cannabis-living-soil-guide|living soil]] systems, the
+with a low C:N ratio (like fresh [[jeavons-green-manures-cover-crops]] or [[cannabis-living-soil-guide|living soil]] systems, the
 steady release of nitrogen through biological mineralization and nitrification
 provides a consistent supply that naturally matches plant demand throughout
-the growing season.
+the [[savory-growing-season-and-non-growing-season-management]].
 
 Plants absorb nitrogen through their roots as either ammonium or nitrate.
 Ammonium is positively charged and binds to negatively charged soil particles,
@@ -72,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,3 +116,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]]

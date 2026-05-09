@@ -8,7 +8,7 @@ sources: []
 ---
 # 2C-G-3
 
-**PIHKAL Entry #28** -- 2,5-Dimethoxy-3,4-(trimethylene)phenethylamine;
+**[[2c-b-pihkal-entry-20]] #28** -- 2,5-Dimethoxy-3,4-(trimethylene)phenethylamine;
 5-(2-aminoethyl)-4,7-dimethoxyindane
 
 ## Chemical Name

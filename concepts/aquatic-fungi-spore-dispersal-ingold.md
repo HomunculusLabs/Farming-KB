@@ -17,7 +17,7 @@ type: concept
 # Aquatic Fungi and Spore Dispersal in Water
 
 Aquatic fungi inhabit freshwater and marine environments, playing essential
-roles in decomposition, nutrient cycling, and food web dynamics. These
+roles in decomposition, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and food web dynamics. These
 organisms have evolved remarkable adaptations for life in water, including
 specialized spore types optimized for dispersal and attachment in aquatic
 habitats. The study of aquatic fungi was revolutionized by the pioneering
@@ -41,7 +41,7 @@ leaves in the water, making them easy to collect and study.
 
 ## Ingoldian Spores
 
-Ingoldian spores are asexual conidia produced by aquatic hyphomycetes, fungi
+Ingoldian spores are asexual conidia produced by [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]], fungi
 that grow on decaying leaves and other organic matter in freshwater streams.
 These spores are typically multicellular, with various shapes including
 sigmoid (S-shaped), tetraradiate (four-armed), and star-shaped forms. The
@@ -81,7 +81,7 @@ The succession of fungal species on submerged leaves follows a predictable
 pattern. Early colonizers tend to be opportunistic species with rapid growth
 rates. As decomposition progresses and the leaf chemistry changes, these are
 gradually replaced by species adapted to more recalcitrant substrates. This
-fungal succession parallels the successional patterns observed in terrestrial
+[[dighton-fungal-succession-disturbance]] parallels the successional patterns observed in terrestrial
 decomposition.
 
 ## Freshwater Ascomycetes
@@ -105,9 +105,9 @@ Marine fungi inhabit ocean environments, from coastal mangroves to deep-sea
 hydrothermal vents. Many marine fungi are adapted to life in saline conditions
 and are found on driftwood, seaweed, shellfish, and other marine substrates.
 The abundance of woody debris in coastal waters, particularly in mangrove
-forests, provides extensive habitat for marine fungal communities.
+forests, provides extensive habitat for marine [[biodiversity-of-fungi-soil-fungal-communities-agriculture]].
 
-Marine fungi contribute to the decomposition of organic matter in ocean
+Marine [[query-how-do-fungi-contribute-to-carbon-sequestration]] to the decomposition of organic matter in ocean
 ecosystems and play roles in the health of coral reefs, seagrass beds, and
 other marine communities. Some marine fungi are pathogenic, causing diseases
 in commercially important shellfish and seaweeds.
@@ -117,7 +117,7 @@ in commercially important shellfish and seaweeds.
 Unlike terrestrial fungi, which rely primarily on wind for spore dispersal,
 aquatic fungi have evolved mechanisms for waterborne dispersal. Some release
 spores passively into the water column, relying on currents for transport.
-Others employ active discharge mechanisms, shooting spores into the water.
+Others employ active [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]], shooting spores into the water.
 
 The foam that accumulates on the surface of streams plays a crucial role in
 concentrating and dispersing aquatic fungal spores. Spores become trapped in

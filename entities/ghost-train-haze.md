@@ -18,7 +18,7 @@ created: 2026-05-07
 
 ## Overview
 
-**Ghost Train Haze** is a potent sativa-dominant hybrid cannabis strain created by crossing **Ghost OG** with **Neville's Wreck**.
+**Ghost Train Haze** is a potent sativa-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] created by crossing **Ghost OG** with **Neville's Wreck**.
 
 The combination of Ghost OG's potency with Neville's Wreck's energetic sativa effects produces a strain known for intense cerebral stimulation.
 
@@ -45,7 +45,7 @@ The name references the ghostly, hazy appearance of its densely trichome-covered
 - Medium to large, elongated buds with a loosely packed structure typical of sativa varieties.
 - Coloration is bright green with pale yellow-green undertones and occasional orange pistils.
 - The flowers are heavily coated in a thick layer of translucent white trichomes, giving them a frosty, spectral appearance.
-- Heavy resin production makes the buds sticky to the touch.
+- Heavy [[cannabis-glandular-trichome-types-resin-production-clarke]] makes the buds sticky to the touch.
 
 ## Aroma and Terpene Profile
 
@@ -90,7 +90,7 @@ This cannabinoid profile places Ghost Train Haze firmly in the high-THC, low-CBD
 - Energy and sociability in moderate doses.
 - Potential for introspection and contemplative states.
 
-**Adverse effects:**
+**[[blesching-cannabis-safety-adverse-effects-evidence]]:**
 
 - Dry mouth and dry eyes are common.
 - Anxiety and paranoia, particularly at higher doses or in inexperienced users.
@@ -99,7 +99,7 @@ This cannabinoid profile places Ghost Train Haze firmly in the high-THC, low-CBD
 
 ## Cultivation
 
-**Growing difficulty:** Moderate to difficult. Ghost Train Haze requires attention to training and environmental control.
+**Growing difficulty:** Moderate to difficult. Ghost Train Haze requires attention to training and [[eclss-environmental-control-life-support]].
 
 **Flowering time:** 9–11 weeks indoors.
 
@@ -110,10 +110,10 @@ This cannabinoid profile places Ghost Train Haze firmly in the high-THC, low-CBD
 **Key cultivation notes:**
 
 - Plants can stretch significantly during the vegetative and early flowering phases due to sativa dominance.
-- Topping, low-stress training (LST), and Screen of Green (ScrOG) methods are recommended to manage height.
+- Topping, low-stress training (LST), and [[cannabis-screen-of-green-scrog-guide]] (ScrOG) methods are recommended to manage height.
 - The strain is sensitive to nutrient burn, particularly during flowering.
 - Heavy trichome production makes it attractive for hash and concentrate extraction.
-- Pungent aroma during flowering requires adequate odor control for indoor grows.
+- Pungent aroma during flowering requires adequate [[cannabis-odor-control-and-carbon-filters]] for indoor grows.
 
 ## See Also
 

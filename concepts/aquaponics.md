@@ -4,12 +4,13 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [permaculture, design, water, ecology, biology, methods, plant-growth, troubleshooting]
-sources: []
+sources:
+  sources: []
 ---
 
 # Aquaponics
 
-Aquaponics is an integrated food production system that combines aquaculture (fish farming) with hydroponics (soilless plant growing) in a recirculating ecosystem. Fish waste provides nutrients for plants, and plants filter the water for fish. This creates a closed-loop system that uses approximately 90% less water than traditional agriculture while producing both protein and vegetables. Aquaponics fits naturally into [[permaculture-design]] as a Zone 1 intensive production system.
+Aquaponics is an integrated food production system that combines aquaculture (fish farming) with hydroponics (soilless plant growing) in a recirculating ecosystem. Fish waste provides nutrients for plants, and plants filter the water for fish. This creates a closed-loop system that uses approximately 90% less water than traditional agriculture while producing both protein and vegetables. Aquaponics fits naturally into [[permaculture-design]] as a Zone 1 [[mollison-designers-market-garden-intensive-production-design]] system.
 
 ## System Types
 
@@ -59,14 +60,14 @@ Stacked growing columns or towers that maximize production in limited space. Wat
 
 The workhorse of warm-water aquaponics. Fast-growing, hardy, tolerant of poor water quality, efficient feed converters.
 
-- **Temperature range**: 75-85F (will die below 55F)
+- **[[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]**: 75-85F (will die below 55F)
 - **Growth rate**: Harvestable in 6-9 months from fingerling
 - **Stocking density**: 1 fish per 5-10 gallons (with adequate filtration)
 - **Considerations**: Illegal to possess in some states without permits; require warm water year-round
 
 ### Bluegill and Sunfish
 
-Native North American fish suitable for cold-climate aquaponics.
+Native [[growing-gourmet-north-american-reishi-species]] fish suitable for cold-climate aquaponics.
 
 - **Temperature range**: 65-80F
 - **Growth rate**: Slower than tilapia; 12-18 months to harvest
@@ -78,7 +79,7 @@ Excellent for cold-water systems. High-quality food fish.
 
 - **Temperature range**: 55-65F (require cool water; die above 72F)
 - **Growth rate**: 12-18 months to harvest
-- **Considerations**: Require excellent water quality, cool water, and higher dissolved oxygen levels
+- **Considerations**: Require excellent water quality, cool water, and higher [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] levels
 
 ### Koi and Goldfish
 
@@ -106,8 +107,8 @@ Hardy bottom-feeders suitable for warm-water systems.
 
 ### Plants That Struggle
 
-- Root vegetables (carrots, potatoes, onions) need deeper media than most systems provide
-- Heavy-feeding brassicas (cabbage, broccoli) can cause nutrient deficiencies
+- [[growing-root-vegetables-guide]] (carrots, potatoes, onions) need deeper media than most systems provide
+- Heavy-feeding brassicas (cabbage, broccoli) can cause [[hamilton-nutrient-deficiencies-and-treatment]]
 - Acid-loving plants (blueberries) are difficult to accommodate
 - Large trees and shrubs are impractical in most systems
 
@@ -140,49 +141,7 @@ Cycling is the process of establishing the bacterial colonies that convert fish 
 
 ## Water Quality Parameters
 
-| Parameter | Ideal Range | Critical Level |
-|---|---|---|
-| Temperature | 65-80F (species-dependent) | >90F or <50F |
-| Dissolved Oxygen | 5-8 mg/L | <3 mg/L (fish stress) |
-| pH | 6.8-7.2 | <6.0 or >8.0 |
-| Ammonia (NH3) | 0 ppm | >0.25 ppm (toxic) |
-| Nitrite (NO2-) | 0 ppm | >0.25 ppm (toxic) |
-| Nitrate (NO3-) | 20-80 ppm | >150 ppm (stress) |
-| KH (Carbonate Hardness) | 70-140 ppm | <40 ppm (pH crash) |
-
-## Components
-
-- **Fish tank**: Minimum 100 gallons for a stable home system. Ratio: 1:1 to 1:2 fish tank to grow bed volume.
-- **Grow beds**: Media beds at 12-inch depth minimum. DWC channels at 8-12 inches deep.
-- **Biofilter**: Essential for nitrifying bacteria. Media beds serve this function; DWC and NFT systems need separate biofilters.
-- **Water pump**: Sized to turn over the total system volume every 1-2 hours. Energy-efficient, continuous-duty rated.
-- **Air pump and stones**: Provide supplemental dissolved oxygen. Critical for fish health.
-- **Plumbing**: Food-grade PVC or HDPE. Avoid copper (toxic to fish and invertebrates).
-- **Grow media**: Expanded clay (hydroton), gravel (washed), lava rock. Must be pH-neutral and inert.
-
-## Integration with Permaculture
-
-Aquaponics fits into permaculture systems as a Zone 1 intensive production element:
-
-- Fish waste can be composted or added to [[composting-systems]] when cleaning tanks
-- System water can be used to irrigate outdoor gardens (nutrient-rich)
-- Worms in media beds (vermiaquaponics) process solid waste into vermicompost
-- Solar-powered pumps integrate with [[homestead-energy-conservation]] systems
-- Greenhouse integration provides climate control and extends the growing season
-- Feed fish with [[duck-keeping]] or [[chicken-keeping]] scraps (black soldier fly larvae from compost are excellent fish feed)
-- Scale output by integrating with [[pond-and-aquaculture]] and [[rainwater-harvesting-systems]]
-
-## Troubleshooting
-
-| Problem | Likely Cause | Solution |
-|---|---|---|
-| Fish dying | Ammonia or nitrite spike; low oxygen; temperature extremes | Test water; 50% water change; check air pump; adjust temperature |
-| Plants yellowing | Iron deficiency (common in aquaponics); pH too high; insufficient light | Add chelated iron; adjust pH to 6.5; improve lighting |
-| Green water (algae) | Excess nutrients + light exposure | Cover fish tank; reduce fish feed; add floating plants |
-| pH keeps dropping | Nitrification produces acid; insufficient carbonate hardness | Add potassium carbonate or calcium carbonate (KH buffer) |
-| Root rot | Poor oxygenation in root zone; water too warm | Increase air stones; reduce water temperature; check pump flow |
-| Slow plant growth | Low nutrient density; insufficient light; wrong pH | Increase fish density or feeding; add supplemental lighting; adjust pH |
-
 ## Related
 
-- [[chinampas]]
+- chinampas
+- [[comparison-aquaponics-vs-aeroponics]]

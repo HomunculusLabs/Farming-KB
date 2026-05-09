@@ -1,47 +1,17 @@
 ---
-title: Mushroom Extraction Methods
+title: medicinal-mushroom-extraction-bioactive-compounds Methods
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [[mycology, mushrooms, cultivation]
-sources: []
+tags: [mycology, mushrooms, cultivation]
+sources:
+  sources: []
 ---
-# Mushroom Extraction Methods
-
-Extracting bioactive compounds from medicinal mushrooms is critical for producing therapeutically effective preparations. Different extraction methods yield different compounds with distinct biological activities. Understanding these methods is essential for both industrial production and home preparation.
-
-## Hot Water Extraction
-
-The traditional method used in Chinese medicine for thousands of years. Hot water extraction is effective for recovering water-soluble polysaccharides (β-glucans, heteropolysaccharides) and some water-soluble proteins.
-
-### Process
-1. Dried mushroom material ground to fine powder
-2. Suspended in water (typically 1:20 to 1:100 ratio)
-3. Heated to 80-100°C for 2-4 hours with stirring
-4. Filtered to remove insoluble material
-5. Filtrate concentrated by evaporation
-6. Polysaccharides precipitated by adding 3-4 volumes of ethanol
-7. Precipitate collected, washed, dried
-
-### Characteristics
-- Recovers the primary immunomodulatory polysaccharides
-- Mimics traditional decoction methods (consistent with historical use)
-- Relatively simple and inexpensive
-- Does NOT extract non-polar compounds (triterpenoids, sterols, some alkaloids)
-
-### Home-Scale Adaptation
-- Simmer dried mushrooms in water for 1-2 hours
-- Strain and drink the broth
-- Re-extraction of the same material 2-3 times increases yield
-- Typical ratio: 5-10g dried mushroom per litre of water
-
-## Ethanol Extraction
-
-Used to recover alcohol-soluble compounds not extracted by hot water:
-- Triterpenoids (from [[mushroom-polysaccharide-chemistry]] — chemistry of extracted compounds
+# Mushroom Extraction Methods Extracting bioactive compounds from medicinal mushrooms is critical for producing therapeutically effective preparations. Different extraction methods yield different compounds with distinct biological activities. Understanding these methods is essential for both industrial production and home preparation. ## Hot Water Extraction The traditional method used in Chinese medicine for thousands of years. Hot water extraction is effective for recovering water-soluble polysaccharides (β-glucans, heteropolysaccharides) and some water-soluble proteins. ### Process 1. Dried mushroom material ground to fine powder 2. Suspended in water (typically 1:20 to 1:100 ratio) 3. Heated to 80-100°C for 2-4 hours with stirring 4. Filtered to remove insoluble material 5. Filtrate concentrated by evaporation 6. Polysaccharides precipitated by adding 3-4 volumes of ethanol 7. Precipitate collected, washed, dried ### Characteristics - Recovers the primary immunomodulatory polysaccharides - Mimics traditional decoction methods (consistent with historical use) - Relatively simple and inexpensive - Does NOT extract non-polar compounds (triterpenoids, sterols, some alkaloids) ### Home-Scale Adaptation - Simmer dried mushrooms in water for 1-2 hours - Strain and drink the broth - Re-extraction of the same material 2-3 times increases yield - Typical ratio: 5-10g dried mushroom per litre of water ## Ethanol Extraction Used to recover alcohol-soluble compounds not extracted by hot water: - Triterpenoids (from [[mushroom-polysaccharide-chemistry]] — chemistry of extracted compounds
 - [[maitake-cultivation]] — cultivation of medicinal mushroom species
 - [[fungal-elicitors-enhanced-secondary-metabolite-production]]
 - [[medicinal-mushroom-compound-extraction]]
+
 ## Practical Considerations
 
 When working with Mushroom Extraction Methods, several practical factors should be
@@ -58,7 +28,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -100,4 +70,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

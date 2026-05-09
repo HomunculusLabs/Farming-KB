@@ -50,7 +50,7 @@ It is classified as an invasive weed in many agricultural systems, though its me
 
 **Leaves:** Alternate, simple, cordate (heart-shaped) at base, 2.5–7 cm long and 2–5 cm wide, serrate margins.
 
-The upper leaf surface is sparsely pubescent while the lower surface is densely covered with grey-white stellate hairs.
+The upper [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is sparsely pubescent while the lower surface is densely covered with grey-white stellate hairs.
 
 **Flowers:** Solitary or in small axillary clusters, pale yellow to orange-yellow, 1–1.5 cm diameter.
 
@@ -62,7 +62,7 @@ Petals are 5, slightly exceeding the calyx in length, with a prominent central c
 
 ## Distribution and Habitat
 
-Sida cordifolia is pantropical in distribution, occurring naturally across South and Southeast Asia, tropical Africa, and the Americas.
+Sida cordifolia is pantropical in distribution, occurring naturally across South and [[psilocybe-southeast-asia-pacific]], tropical Africa, and the Americas.
 
 In India, it is found throughout the country from sea level to 1,500 m elevation, particularly in wastelands and along roadsides.
 
@@ -70,7 +70,7 @@ The species thrives in a wide range of soil types including sandy, loamy, and la
 
 It grows as a common weed in agricultural fields, pastures, disturbed sites, and along fence lines and drainage ditches.
 
-The plant exhibits significant drought tolerance once established and can persist in degraded landscapes.
+The plant exhibits significant [[dighton-fungal-drought-tolerance-plant-water-relations]] once established and can persist in degraded landscapes.
 
 It is classified as a problematic agricultural weed in cotton, soybean, and sugarcane cropping systems in several countries.
 
@@ -84,9 +84,9 @@ The ephedrine content varies significantly with genotype, growing conditions, an
 
 **Flavonoids:** Quercetin, kaempferol, and their glycosides, which contribute to anti-inflammatory and antioxidant activity.
 
-**Other constituents:** Phytosterols (β-sitosterol), mucilage (up to 8% in roots), fatty acids (linoleic, palmitic, and oleic acids).
+**Other constituents:** Phytosterols (β-sitosterol), mucilage (up to 8% in roots), [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] (linoleic, palmitic, and oleic acids).
 
-The ephedrine alkaloids act as non-selective adrenergic receptor agonists, producing bronchodilation, vasoconstriction, and CNS stimulation.
+The ephedrine alkaloids act as non-selective adrenergic [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]], producing bronchodilation, vasoconstriction, and CNS stimulation.
 
 Animal studies have demonstrated anti-inflammatory, analgesic, and hepatoprotective activities for the whole-plant extract.
 
@@ -106,7 +106,7 @@ In African traditional medicine, the plant is used for wound healing, diarrhea, 
 
 In modern herbal medicine, Sida cordifolia supplements have been marketed for weight loss, energy enhancement, and athletic performance.
 
-Regulatory agencies in several countries have restricted or banned Sida cordifolia supplements due to ephedrine-related cardiovascular risks.
+Regulatory agencies in several countries have restricted or banned Sida cordifolia supplements due to ephedrine-related [[emcdda-psilocybin-cardiovascular-risks-acute-physiological-effects]].
 
 The FDA banned dietary supplements containing ephedrine alkaloids in 2004, effectively removing S. cordifolia products from the US market.
 
@@ -125,6 +125,8 @@ The crop requires minimal irrigation once established and is relatively pest-fre
 Post-harvest processing involves washing, slicing, and shade-drying the roots to preserve alkaloid content.
 
 ## See Also
+
+- [[tinospora-cordifolia]]
 
 - [[ephedrine]]
 - [[withania-somnifera]]

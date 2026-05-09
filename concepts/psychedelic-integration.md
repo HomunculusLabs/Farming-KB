@@ -11,9 +11,9 @@ sources: []
 
 ## Overview
 
-Psychedelic integration refers to the practices, therapies, and lifestyle changes undertaken after a psychedelic experience to process, understand, and implement the insights, emotions, and shifts in perspective that occurred during the session. Integration is increasingly recognized as a critical component of psychedelic-assisted therapy and responsible use — the psychedelic experience itself is considered only part of the therapeutic process.
+Psychedelic integration refers to the practices, therapies, and lifestyle changes undertaken after a [[leary-psychedelic-experience-bardo-mapping]] to process, understand, and implement the insights, emotions, and shifts in perspective that occurred during the session. Integration is increasingly recognized as a critical component of psychedelic-assisted therapy and responsible use — the psychedelic experience itself is considered only part of the therapeutic process.
 
-See [[psychedelic-therapy-current-research]] for the clinical context and [[harm-reduction-guide]] for safety principles.
+See [[psychedelic-therapy-current-research]] for the clinical context and [[harm-reduction-guide]] for [[shulgin-safety-principles-self-experimentation]].
 
 ## Why Integration Matters
 
@@ -59,7 +59,7 @@ Contemplative practices provide ongoing tools for working with the mind states a
 - **Vipassana/insight meditation**: Develops capacity to observe thoughts and sensations without reactivity — a skill directly transferable from psychedelic experience
 - **Loving-kindness (metta) meditation**: Cultivates compassion, which is often amplified during psychedelic experiences
 - **Body scan**: Maintains awareness of physical sensations and their emotional correlates
-- **Breathwork**: Holotropic Breathwork (developed by Stanislav Grof) is specifically designed as a non-drug method to access non-ordinary states similar to those produced by psychedelics
+- **Breathwork**: [[metzner-holotropic-breathwork-and-grof-perinatal-matrices]] (developed by Stanislav Grof) is specifically designed as a non-drug method to access non-ordinary states similar to those produced by psychedelics
 - Regular practice builds the "muscle" of present-moment awareness that psychedelics can reveal in a single session
 
 ### Community and Sharing
@@ -143,5 +143,5 @@ Integration practices themselves are generally safe, but certain cautions apply:
 
 - [[psychedelic-therapy-current-research]] for clinical frameworks and current research
 - [[harm-reduction-guide]] for safety principles and preparation guidelines
-- [[entheogen-culture]] for philosophical context on altered states
+- [[entheogen-culture]] for philosophical context on [[weil-the-natural-mind-altered-states-normalcy]]
 - [[psychedelic-compounds-reference]] for understanding what different substances offer

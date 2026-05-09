@@ -27,13 +27,13 @@ sources:
 ---
 # Bjerkandera adusta
 
-**Bjerkandera adusta**, the **smoky polypore**, is a cosmopolitan [[ligninolytic-enzyme-systems-white-rot-fungi]] families — [[lignin-peroxidase-mechanism]] (LiP), and [[query-what-are-the-best-mushroom-species-for-bioremediation]], biobleaching, and wastewater treatment.
+**Bjerkandera adusta**, the **smoky polypore**, is a cosmopolitan [[ligninolytic-enzyme-systems-white-rot-fungi]] families — [[lignin-peroxidase-mechanism]] (LiP), and [[query-what-are-the-best-mushroom-species-for-bioremediation]], biobleaching, and [[mollison-designers-wastewater-treatment-wetlands]].
 
 ## Taxonomy
 
 Originally described as *Boletus adustus* by Willdenow (1787) and transferred to
 *Bjerkandera* by Karsten (1879), the genus honors Swedish botanist Clas Bjerkander.
-The epithet *adusta* means "scorched," referring to the dark fruiting body. It is
+The epithet *adusta* means "scorched," referring to the dark [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]. It is
 sometimes confused with *B. fumosa*, which maintains a white pore surface that does
 not darken with bruising.
 
@@ -50,7 +50,7 @@ hyaline, inamyloid, producing a white [[phanerochaete-chrysosporium]]
 While *P. chrysosporium* is the better-characterized model with extensive genetic
 tools, *B. adusta* has a distinctive advantage: it produces strong laccase
 alongside MnP and LiP, whereas *P. chrysosporium* typically lacks laccase. This
-gives *B. adusta* superior performance in dye decolorization and phenol removal.
+gives *B. adusta* superior performance in [[singh-textile-dye-decolorization-fungal]] and phenol removal.
 It also demonstrates higher xenobiotic tolerance and more stable MnP isoforms.
 
 ## Genome
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

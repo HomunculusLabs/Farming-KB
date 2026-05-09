@@ -1,5 +1,5 @@
 ---
-title: Thermophilic and Thermotolerant Fungi - Ecology and Isolation
+title: Thermophilic and thermophilic thermotolerant fungi ecology isolation - Ecology and Isolation
 created: 2026-04-26
 tags:
   - mycology
@@ -19,7 +19,7 @@ type: concept
 Thermophilic and thermotolerant fungi represent a specialized
 ecological group capable of growth at elevated temperatures
 that inhibit or kill most fungal species. These organisms play
-critical roles in the decomposition of organic matter in
+critical roles in the decomposition of [[hamilton-composting-and-organic-matter-management]] in
 thermogenic habitats such as compost piles, mushroom beds, and
 self-heating organic waste deposits.
 
@@ -39,7 +39,7 @@ internal temperatures increase as a result of microbial
 respiration (thermogenesis). Examples of such sites include
 compost piles (Chang and Hudson 1967), mushroom beds (Fergus
 1964), municipal waste and compost deposits (Kane and Mullins
-1973), and home and industrial wood chip piles (Tansey 1971).
+1973), and home and industrial [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] piles (Tansey 1971).
 
 ## Natural Habitats
 
@@ -66,13 +66,13 @@ Thermophilism is strongly developed in the Phycomycetes,
 Ascomycetes, and mitosporic ascomycetes (hyphomycetes), but is
 absent from the [[fungal-responses-extreme-environments]] that includes
 [[halotolerant-halophilic-fungi]], and
-[[fungal-enzyme-systems-and-nutrient-cycling]],
+fungal-enzyme-systems-and-nutrient-cycling,
 and the limits of eukaryotic life.
 
 ## See Also
 
 - [[psychrotolerant-psychrophilic-fungi-ecology]]
-- [[fungal-enzyme-systems-and-nutrient-cycling]]
+- fungal-enzyme-systems-and-nutrient-cycling
 - [[soil-food-web-nutrient-cycling]]
 ## Practical Considerations
 
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

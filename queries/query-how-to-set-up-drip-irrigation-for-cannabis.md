@@ -1,10 +1,11 @@
 ---
-title: "How to Set Up Drip Irrigation for Cannabis?"
+title: "How to Set Up comparison-drip-irrigation-vs-passive-irrigation for Cannabis?"
 created: 2026-04-28
 tags: [query, cannabis, drip-irrigation, watering, automation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: query
 ---
@@ -23,7 +24,7 @@ drip emitters for each individual plant in your garden.
 ## Detailed Explanation
 
 Drip irrigation is one of the most efficient and popular watering methods
-available for cannabis cultivation at any scale. Unlike hand watering, which
+available for [[query-how-does-no-till-cannabis-cultivation-work]] at any scale. Unlike hand watering, which
 is subject to human error and inconsistency, a properly configured drip system
 delivers precise volumes of water to each plant on a reliable and repeatable
 schedule. The [[cervantes-drip-irrigation-systems]] provides
@@ -31,7 +32,7 @@ detailed sizing calculations for every component in the system.
 
 Every drip irrigation system starts with a water reservoir that serves as the
 central supply. The reservoir should hold at least two to three days worth of
-water and nutrient solution to provide a useful maintenance buffer. This buffer
+water and [[cannabis-nutrient-solution-preparation]] to provide a useful maintenance buffer. This buffer
 gives you time to adjust nutrients, perform maintenance, or address minor
 malfunctions without your plants going without water.
 
@@ -67,7 +68,7 @@ under each plant to catch and verify adequate runoff volume.
 
 Watering frequency depends on growing medium, container size, plant age, and
 environmental conditions. Soil typically needs watering every one to three
-days, while coco coir may require daily or even multiple daily waterings during
+days, while [[comparison-coco-coir-cannabis-vs-peat-free-gardening]] may require daily or even multiple daily waterings during
 peak growth. The [[cervantes-overwatering-underwatering]] warns
 that automated systems can mask overwatering problems, so monitor plants
 regularly and adjust schedules based on their actual condition and needs.
@@ -88,7 +89,7 @@ connections safely for water and electricity in close proximity.
 - Size your reservoir for at least two to three days of operation to provide a
   useful buffer for maintenance and nutrient adjustments
 - Monitor plants regularly to ensure your automated schedule matches their
-  actual water needs at each growth stage
+  actual water needs at each [[cho-plant-growth-stage-treatment-protocols]]
 - Maintain proper [[nutrient-lockout]] issues
 - Regular maintenance including emitter cleaning and reservoir changes prevents
   the most common drip irrigation problems

@@ -10,7 +10,7 @@ type: concept
 
 # Cannabis Gene Pool Preservation and Acclimatization
 
-All of the Cannabis grown in North America today originated in foreign
+All of the Cannabis grown in [[psilocybin-north-america-pacific-northwest]] today originated in foreign
 lands. The diligence of ancestors in their collection and sowing of seeds
 from superior plants, together with the forces of natural selection, have
 worked to create native strains with localized characteristics of
@@ -36,7 +36,7 @@ fine gene combinations of imported Cannabis have been lost.
 
 Changes in agricultural techniques brought on by technological pressure,
 greed, and full-scale eradication programs have altered the selective
-pressures influencing Cannabis genetics. Large shipments of inferior
+pressures influencing [[vic-high-cannabis-genetics-mendelian-inheritance]]. Large shipments of inferior
 Cannabis containing poorly selected seeds are appearing in North America
 and elsewhere, the result of attempts by growers and smugglers to supply
 an ever increasing market for marijuana.
@@ -81,8 +81,8 @@ action must be immediate:
    sample. Accurate records of every possible parameter of growth must
    be kept with carefully stored triplicate sets of seeds.
 
-3. Since Cannabis seeds do not remain viable forever, even under the
-   best storage conditions, seed samples should be replenished every
+3. Since [[query-how-to-store-cannabis-seeds-for-long-term-viability]] do not remain viable forever, even under the
+   best [[vegetable-storage-conditions-by-temperature-and-humidity]], seed samples should be replenished every
    third year. Collections should be planted in conditions as similar as
    possible to their original niche and allowed to reproduce freely to
    minimize natural and artificial selection of genes.
@@ -94,7 +94,7 @@ action must be immediate:
 
 ## The Acclimatization Problem
 
-Much of the breeding effort of North American cultivators is concerned
+Much of the breeding effort of [[growing-gourmet-north-american-reishi-species]] cultivators is concerned
 with acclimatizing high-THC strains of equatorial origin to the climate
 of their growing area while preserving potency. Late-maturing, slow, and
 irregularly flowering strains like those of Thailand have difficulty
@@ -133,7 +133,7 @@ the parent plant, unlike seeds which involve meiotic recombination.
 
 ## Future of Patenting
 
-It is possible that in the future, Cannabis cultivation may be legal but
+It is possible that in the future, [[query-how-does-no-till-cannabis-cultivation-work]] may be legal but
 only for approved, patented strains. Special caution would be needed to
 preserve variety in the gene pool should the patenting of Cannabis
 strains become a reality. With the legalization of cultivation, it is a

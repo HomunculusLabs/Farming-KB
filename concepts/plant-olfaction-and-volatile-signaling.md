@@ -1,5 +1,5 @@
 ---
-title: Plant Olfaction and Volatile Signaling
+title: Plant plant olfaction and volatile signaling Signaling
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -12,8 +12,8 @@ sources: [raw/papers/what-a-plant-knows-daniel-chamovitz.md]
 
 Plants possess a sophisticated chemical sense that functions analogously to
 animal olfaction. While they lack noses and neural olfactory bulbs, plants
-detect and respond to an extraordinary range of volatile organic compounds
-(VOCs) in their environment. In Daniel Chamovitz's "What a [[query-do-beans-and-peas-feed-nearby-plants-with-nitrogen]] sms, assess the health of nearby plants, detect ripening
+detect and respond to an extraordinary range of [[fungal-volatile-organic-compounds-communication]] compounds
+(VOCs) in their environment. In [[daniel-chamovitz]]'s "What a [[query-do-beans-and-peas-feed-nearby-plants-with-nitrogen]] sms, assess the health of nearby plants, detect ripening
 fruit, and mount targeted defensive responses -- all through airborne chemical
 communication.
 
@@ -37,7 +37,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -87,7 +87,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -97,4 +97,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

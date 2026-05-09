@@ -5,11 +5,12 @@ updated: 2026-04-14
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka Winter Grain/Rice Rotation
 
-The winter grain/rice rotation is Masanobu Fukuoka's signature agricultural system -- a "direct seeding non-cultivation winter-grain/rice succession" that produces rice and barley (or rye) from the same field each year without plowing, chemical fertilizer, or pesticides. Yields of approximately 22 bushels (1,300 pounds) per quarter acre for each crop match or exceed Japanese national averages.
+The winter grain/rice rotation is Masanobu Fukuoka's signature agricultural system -- a "[[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] non-cultivation winter-grain/rice succession" that produces rice and barley (or rye) from the same field each year without plowing, chemical fertilizer, or pesticides. Yields of approximately 22 bushels (1,300 pounds) per [[fukuoka-agriculture-tomorrow-quarter-acre-vision]] for each crop match or exceed Japanese national averages.
 
 ## The Annual Cycle
 
@@ -20,7 +21,7 @@ The winter grain/rice rotation is Masanobu Fukuoka's signature agricultural syst
 
 ### November through April
 - Winter grain (barley/rye) grows through the winter with clover as ground cover
-- Rice seeds lie dormant in their clay pellets, protected from birds and rot
+- Rice seeds lie dormant in their [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]], protected from birds and rot
 - No irrigation during this period; rainwater is sufficient
 
 ### May
@@ -57,17 +58,17 @@ The straw must be scattered randomly, "just as though the stalks had fallen natu
 Contrary to the universal belief that rice must be grown in flooded paddies, Fukuoka found rice grows best when soil moisture is between 60-80% of water-holding capacity. Flooding exists mainly to control weeds, and Fukuoka replaced it with straw mulch and temporary flooding. Plants develop stronger roots and greater disease resistance when not continuously flooded.
 
 ### Compact Plant Form
-Fukuoka deliberately keeps plants small and compact rather than tall with big leaves. Small plants produce grain equal to or heavier than their straw weight (2,000 lbs straw yields 2,000+ lbs rice). Tall, over-nourished plants expend too much energy on vegetative growth, yielding less grain proportionally.
+Fukuoka deliberately keeps plants small and compact rather than tall with big leaves. Small plants produce grain equal to or heavier than their straw weight (2,000 lbs straw yields 2,000+ lbs rice). Tall, over-nourished plants expend too much energy on [[cannabis-vegetative-growth-stage]], yielding less grain proportionally.
 
 ## Labor Efficiency
 
-The entire cycle for a quarter-acre field requires only one or two hours for seeding and spreading straw. With the exception of harvesting, winter grain can be grown single-handedly, and two or three people can handle all rice work using traditional Japanese tools. "There is probably no easier, simpler method for growing grain."
+The entire cycle for a quarter-acre field requires only one or two hours for seeding and spreading straw. With the exception of harvesting, winter grain can be grown single-handedly, and two or three people can handle all rice work using traditional Japanese tools. "There is probably no easier, simpler [[query-what-is-the-kratky-method-for-growing-cannabis]] grain."
 
 ## Related
 
 - [[four-principles-of-natural-farming]] -- the principles behind the rotation
 - [[white-clover-living-mulch]] -- the living mulch component
-- [[fukuoka-rice-barley-dual-culture]] and fukuoka winter grain rice rotation. Fukuoka demonstrated that this ancient practice could be maintained -- even improved -- through natural farming methods, without the heavy tillage and chemical inputs that conventional wisdom deemed necessary.
+- [[fukuoka-rice-barley-dual-culture]] and fukuoka winter grain rice rotation. Fukuoka demonstrated that this ancient practice could be maintained -- even improved -- through [[comparison-natural-farming-vs-permaculture]] methods, without the heavy tillage and chemical inputs that conventional wisdom deemed necessary.
 
 ## The Political Economy of Food Dependence
 
@@ -90,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

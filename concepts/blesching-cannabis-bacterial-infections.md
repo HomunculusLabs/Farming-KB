@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and Bacterial Infections (General Overview)"
+title: "Cannabis and cannabis-for-bacterial-infections-and-mrsa (General Overview)"
 created: 2026-04-26
 tags:
   - cannabis
@@ -18,13 +18,13 @@ type: concept
 
 ## Overview
 
-The Cannabis Health Index provides a comprehensive overview of bacterial
+The [[blesching-cannabis-health-index-autoimmune-conditions]] provides a comprehensive overview of bacterial
 infections as a category, with a combined CHI value of 31 from 15 viral
 and bacterial studies reviewed. Blesching documents both the established
 medical understanding and the emerging evidence for cannabis-based
 approaches to bacterial pathogens.
 
-The scientific method has determined that diseases caused by viruses
+The [[fukuoka-limits-scientific-method-agriculture]] has determined that diseases caused by viruses
 cannot be treated with antibiotics. Antibiotics may work to eliminate
 bacterial infections such as those catalogued below.
 
@@ -99,14 +99,14 @@ establishing causation between a microbe and a disease:
 
 ## Supporting Antibacterial Foods
 
-- **Coconut**: Medium-chain fatty acids (lauric acid and capric acid)
+- **Coconut**: Medium-chain [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] (lauric acid and capric acid)
   showed strong antibacterial abilities, killing all strains of Neisseria
   gonorrhea and inactivating chlamydia in laboratory studies.
 - **Garlic**: Allicin, a major antibacterial component of garlic, is
-  effective against MRSA. Garlic extract consisting of diallyl sulphide
+  effective against MRSA. [[ginger-garlic-extract-bionutrient]] consisting of diallyl sulphide
   and diallyl disulphide possessed multiple protective functions against
   MRSA infection.
-- **Essential Oils**: Grapefruit seed extract with geranium oil showed
+- **[[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]**: Grapefruit seed extract with geranium oil showed
   greatest antibacterial effects against MRSA. Tea tree oil, lavender,
   lemongrass, cinnamon, melissa, peppermint, spearmint, and mountain
   savory have all demonstrated antibacterial properties.
@@ -120,5 +120,5 @@ establishing causation between a microbe and a disease:
   immunocompromised patients
 - [[blesching-cannabinoid-pharmacology]] - Cannabinoid antibacterial
   mechanisms of action
-- [[blesching-endocannabinoid-system-overview]] - ECS role in bacterial
+- [[endocannabinoid-system-overview]] - ECS role in bacterial
   immune defense

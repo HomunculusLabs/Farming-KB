@@ -1,5 +1,5 @@
 ---
-title: "TMA-5 (2,3,6-TRIMETHOXYAMPHETAMINE) -- PIHKAL Entry #161"
+title: "TMA-5 (2,3,6-TRIMETHOXYAMPHETAMINE) -- 2c-b-pihkal-entry-20 #161"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -48,7 +48,7 @@ the quantitative question: how potent is it?
 The first question is addressed by taking a number of known
 psychedelic drugs, and searching for some animal responses that are
 common to all. Since there is little logic in the argument that
-animals can experience, let alone reveal, altered states of
+animals can experience, let alone reveal, [[weil-the-natural-mind-altered-states-normalcy]] of
 consciousness or fantasy fugues or colored imagery, the investigator
 must look for objective signs such as conditioned responses to
 stimuli, or unusual behavior. If one explores ten drugs that are
@@ -130,9 +130,12 @@ volatiles under vacuum, 1-(2,3,6-trimethoxyphenyl)propene. This was
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
+
+- [[tma-entity-pihkal]]
+- [[tma-3-entity-pihkal]]
 
 - [[tma-entity]]
 

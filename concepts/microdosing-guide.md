@@ -4,7 +4,9 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [psychopharmacology, psychedelics, health, safety, preparation, psychopharmacology, methods, consciousness]
-sources: []
+sources:
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # Microdosing Guide
@@ -15,7 +17,7 @@ Microdosing is the practice of consuming sub-perceptual doses of psychedelic sub
 
 ## Definition and Principles
 
-A microdose is defined as a dose below the threshold of perception — meaning the user does not experience overtly psychedelic effects (no visual distortions, no ego dissolution, no altered sense of time). The dose should be small enough that an uninformed observer could not tell the user had taken anything, but large enough to produce subtle shifts in cognition, mood, or energy.
+A microdose is defined as a dose below the threshold of perception — meaning the user does not experience overtly psychedelic effects (no visual distortions, no [[psilocybin-ego-dissolution-mechanisms]], no altered sense of time). The dose should be small enough that an uninformed observer could not tell the user had taken anything, but large enough to produce subtle shifts in cognition, mood, or energy.
 
 This distinction is critical: if effects are perceptible, the dose is too high and the practice is no longer microdosing.
 
@@ -25,9 +27,9 @@ This distinction is critical: if effects are perceptible, the dose is too high a
 
 The most commonly microdosed psychedelic:
 
-- Source: Dried Psilocybe cubensis mushrooms (most common)
+- Source: Dried [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] mushrooms (most common)
 - Typical microdose range: 0.05-0.25 g dried mushroom (approximately 0.5-2.5 mg psilocybin)
-- Mushroom potency varies enormously; same species can differ 3-5x in active compound content
+- [[pf-tek-mushroom-potency-and-age-relationship]] varies enormously; same species can differ 3-5x in active compound content
 - Variability makes consistent dosing with whole mushrooms challenging
 
 ### LSD
@@ -43,7 +45,7 @@ The most commonly microdosed psychedelic:
 Occasionally microdosed, less commonly:
 
 - Mescaline: 25-75 mg (from San Pedro or peyote)
-- DMT: 1-5 mg (uncommon; short duration may not suit microdosing schedules)
+- DMT: 1-5 mg (uncommon; [[savory-short-duration-grazing-and-cell-systems]] may not suit microdosing schedules)
 - Iboga: 50-100 mg of root bark (used in traditional contexts; cardiotoxicity risk even at low doses)
 - MDMA: 5-10 mg (concerns about serotonergic neurotoxicity with repeated dosing)
 
@@ -141,42 +143,8 @@ Balanced view of current evidence:
 
 ### Preparation
 
-- Grind dried mushrooms to a fine powder for even distribution
-- Use a milligram scale (0.001 g precision) for accurate dosing
-- For LSD, use volumetric dosing: dissolve a tab in 10 ml distilled water, measure 0.5-1 ml for microdose
-- Store preparations in a cool, dark place in an airtight container
-- Date all preparations
-
-### Tracking
-
-Essential variables to track:
-
-- Date, time, and dose
-- Substance and source
-- Mood (pre-dose and throughout day)
-- Energy level
-- Focus and productivity
-- Creative output
-- Social interactions
-- Sleep quality
-- Diet and exercise
-- Notable events or stressors
-
-### Signs to Stop or Adjust
-
-- Developing tolerance (diminishing effects at same dose)
-- Anxiety or irritability increasing
-- Sleep disruption
-- Obsessive focus on the practice
-- Difficulty functioning without microdosing
-- Any perceptual effects during "off" days
-
-## Legal Status
-
-Microdosing substances like psilocybin and LSD is illegal in most jurisdictions. However, enforcement is generally minimal for personal use quantities. In Oregon and Colorado, regulated psilocybin access programs exist but are designed for full-dose therapeutic use, not microdosing.
-
 ## See Also
 
-- [[harm-reduction-guide]] — general harm reduction principles
-- [[psychedelic-therapy-current-research]] — macrodose clinical research context
+- [[harm-reduction-guide]] — general [[adverse-effects-and-harm-reduction-psilocybin]] principles
+- [[psychedelic-therapy-current-research]] — macrodose [[hofmann-lsd-clinical-research-early-studies]] context
 - [[mushroom-nutrition-guide]] — nutritional context for whole mushroom use

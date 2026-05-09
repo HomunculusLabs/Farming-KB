@@ -1,5 +1,5 @@
 ---
-title: Snow Mold Fungi - Cold-Temperature Plant Pathogens
+title: Snow snow mold fungi cold temperature plant pathogens - Cold-Temperature Plant Pathogens
 created: 2026-04-26
 tags:
   - mycology
@@ -20,7 +20,7 @@ Snow molds are low-temperature-tolerant soil-borne fungi that
 damage and kill grasses, cereals, and other plants during cold
 seasons (Lebeau and Logsdon 1958; Nelson and Sturges 1982). The
 name derives from their ability to grow at the bases of
-snow-covered plants, producing extensive mycelial mats that
+snow-covered plants, producing extensive [[singh-mycelial-mats-and-biological-soil-crusts]] that
 become visible soon after snow melts. Snow molds represent a
 distinct ecological category within
 [[psychrotolerant-psychrophilic-fungi-ecology]]. While true
@@ -39,7 +39,7 @@ interactions.
 
 - [[psychrotolerant-psychrophilic-fungi-ecology]]
 - [[fungal-parasites-living-plants-estimating-diversity]]
-- [[fungal-competition-respiration-decomposition]]
+- fungal-competition-respiration-decomposition
 - [[fungi-grassland-agricultural-ecosystems-dighton]]
 ## Practical Considerations
 
@@ -57,7 +57,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,4 +99,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

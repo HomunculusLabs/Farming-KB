@@ -1,5 +1,5 @@
 ---
-title: 2C-T-2 (PIHKAL Entry #40)
+title: 2C-T-2 (2c-b-pihkal-entry-20 #40)
 created: 2026-04-22
 updated: 2026-04-22
 type: concept
@@ -20,7 +20,7 @@ sources: [raw/papers/shulgin-a-pihkal.md]
 2C-T-2 has occasionally been called, simply, T-2. This abbreviated nickname
 has also been used for T-2 Toxin, a mycotoxin of the Trichothecene group,
 formed mainly by Fusarium spp. This is the infamous "warfare agent" in
-Southeast Asia, which was finally identified as bee feces rather than a
+[[psilocybe-southeast-asia-pacific]], which was finally identified as bee feces rather than a
 Soviet military adventure. T-2 and 2C-T-2 are radically different compounds.
 
 ## Tweetio Homologues
@@ -50,7 +50,7 @@ All three Tweetio homologues of 2C-T-2 have been synthesized and evaluated:
 2,5-Dimethoxythiophenol, prepared from 2,5-dimethoxybenzenesulfonyl chloride
 via zinc dust reduction, is the key common precursor to all members of the
 2C-T family. This valuable intermediate is prepared by chlorosulfonation of
-1,4-dimethoxybenzene followed by zinc reduction in sulfuric acid.
+1,4-dimethoxybenzene followed by zinc reduction in [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]].
 
 ## Related Compounds
 
@@ -58,7 +58,7 @@ via zinc dust reduction, is the key common precursor to all members of the
   commonly used therapeutically due to fewer physical side effects
 - [[2c-d-pihkal-entry-23]]: The isopropylthio homologue; longer-acting
   (12-18 h)
-- [[pihkal-introduction-and-methodology]] by Alexander and Ann Shulgin,
+- [[pihkal-introduction-and-methodology]] by Alexander and [[ann-shulgin]],
 Entry #40
 ## Practical Considerations
 
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,18 +1,18 @@
 ---
-title: Cannabis for Cancer Symptom Management
+title: Cannabis for cannabis cancer symptom management Management
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources: []
 ---
 # Cannabis for Cancer Symptom Management
 
-The Cannabis Health Index reviewed 50 studies relevant to cannabinoids and the [[cannabis-chronic-pain-management]] for detailed pain management approaches.
+The [[blesching-cannabis-health-index-autoimmune-conditions]] reviewed 50 studies relevant to cannabinoids and the [[cannabis-chronic-pain-management]] for detailed [[cannabis-pain-management-protocols]] approaches.
 
 ### Appetite and Cachexia
-THC is an effective appetite stimulant through CB1 receptors in the hypothalamus. This is particularly valuable for cancer patients experiencing cachexia (wasting syndrome), appetite loss, and weight loss. Enhanced sensory perception of food (taste and smell) also contributes to appetite stimulation. The body's own endogenous cannabinoid, anandamide, also plays a role in appetite regulation -- CBD inhibits FAAH (the enzyme that breaks down anandamide), potentially supporting appetite through this indirect pathway.
+THC is an effective appetite stimulant through CB1 receptors in the hypothalamus. This is particularly valuable for cancer patients experiencing cachexia (wasting syndrome), appetite loss, and weight loss. Enhanced sensory perception of food (taste and smell) also contributes to appetite stimulation. The body's own endogenous cannabinoid, anandamide, also plays a role in [[blesching-cannabis-appetite-regulation-ghrelin-leptin]] -- CBD inhibits FAAH (the enzyme that breaks down anandamide), potentially supporting appetite through this indirect pathway.
 
 ### Night Sweats
 Nabilone has been successfully used for paraneoplastic night sweats. Maida (2008) reported four cases where nabilone effectively reduced cancer-induced night sweats, improving patient comfort and sleep quality.
@@ -100,4 +100,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -1,5 +1,5 @@
 ---
-title: "The French Maraicher System's Transport to Britain: Kropotkin, Fels, and the Intensive Gardening Movement"
+title: "The coleman-french-maraicher-manure-system-and-compost-quality System's Transport to Britain: Kropotkin, Fels, and the solomon-wide-spacing-versus-intensive-gardening-debate Movement"
 source: eliot-coleman-winter-harvest-handbook
 topics: history, intensive-gardening, french-agriculture, british-agriculture, kropotkin
 ---
@@ -9,7 +9,7 @@ topics: history, intensive-gardening, french-agriculture, british-agriculture, k
 ## William Robinson and the First English Reports
 
 In 1869, the British garden writer William Robinson became the first
-English-speaking outsider to describe the Parisian maraicher system
+English-speaking outsider to describe the [[coleman-parisian-maraicher-system]] system
 in print. His book *Parks and Gardens of Paris* celebrated both the
 quality of the produce and the extraordinary skill of the Parisian
 growers. Robinson chided his countrymen for failing to adopt these
@@ -37,7 +37,7 @@ plots of land could support their cultivators abundantly. He used
 the Parisian maraichers as evidence that decentralized, small-scale
 production could be highly productive — a key argument in his
 broader critique of industrial capitalism and his vision of anarchist
-communities. He referred to chemical fertilizers dismissingly as
+communities. He referred to [[cervantes-chemical-fertilizers-guide]] dismissingly as
 "pompously labeled and unworthy drugs."
 
 Kropotkin's endorsement carried weight because of his intellectual
@@ -60,7 +60,7 @@ Upon their return home, the delegation spoke in glowing terms about
 the French gardens. Their reports generated significant public
 interest, partly because there was widespread concern at the time
 about unemployment among factory workers and a desire to help them
-become self-supporting on the land. Intensive vegetable production
+become self-supporting on the land. Intensive [[dry-gardening-unirrigated-vegetable-production-solomon]]
 appeared to be the perfect solution.
 
 ## Joseph Fels and the Mayland Experiment
@@ -95,7 +95,7 @@ commentator claimed the system would never succeed in Britain
 because British growers would never work as hard as French peasants.
 
 Additionally, the world was changing rapidly at the start of the
-twentieth century. The early days of tractors and chemical
+[[coleman-louis-savier-twentieth-century-maraicher]]. The early days of tractors and chemical
 fertilizers were pushing agriculture toward a preference for
 large-scale, mechanized production. Automobiles were replacing
 horses, which meant that the supply of horse manure — the

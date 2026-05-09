@@ -9,8 +9,8 @@ created: 2026-05-08
 
 ## Overview
 
-Hybrid shamanic therapeutic rituals represent a contemporary fusion of Western
-psychotherapeutic approaches and traditional indigenous shamanic healing
+Hybrid [[hybrid-shamanic-therapeutic-rituals-metzner]] rituals represent a contemporary fusion of Western
+psychotherapeutic approaches and traditional indigenous [[metzner-shamanic-healing-and-divination-paradigm]]
 practices. Ralph Metzner, who participated in and observed over 100 such
 ceremonies in Europe and [[ayahuasca-tourism-western-seekers-and-integration]] have gained access to
 entheogenic plant medicines and recognized the limitations of purely Western
@@ -21,9 +21,9 @@ experience.
 
 Hybrid shamanic practices emerged from several converging streams: ethnobotanical
 discoveries revealing the richness of indigenous entheogenic traditions; the
-Western psychedelic psychotherapy movement's establishment of therapeutic value;
+Western [[metzner-psychedelic-psychotherapy-clinical-history]] movement's establishment of therapeutic value;
 the emergence of transpersonal psychology through Grof, Maslow, and others; and
-direct encounters between Western seekers and indigenous shamanic practitioners
+direct encounters between [[ayahuasca-tourism-western-seekers-and-integration]] and indigenous shamanic practitioners
 that created cross-fertilization of techniques and worldviews.
 
 ## Core Ceremonial Elements
@@ -38,7 +38,7 @@ traditional shamanic ceremonies:
   if outside or in a tipi) serves as a focal point and symbolic center.
 
 - **Experienced guide**: An elder or guide with extensive entheogenic
-  experience, sometimes assisted by one or more help [[talking-staff-and-council-practice-in-entheogenic-ceremonies]] how they plan to apply
+  experience, sometimes assisted by one or more help talking-staff-and-council-practice-in-entheogenic-ceremonies how they plan to apply
 insights in daily life. This distinguishes hybrid circles from recreational use.
 
 ## The Talking Staff
@@ -79,8 +79,8 @@ Western psychology and aligns more closely with the indigenous shamanic
 perspective that Metzner identified as the two most radical challenges to
 the Western paradigm: the existence of [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]] healing and Western psychotherapy,
 syncretic folk religious ceremonies represent a third model. These include
-the Brazilian ayahuasca churches (Santo Daime, Uniao de Vegetal, and
-Barquinia), the Native American Church, and the Bwiti cult in Gabon. These
+the [[metzner-barquinha-umbanda-and-afro-brazilian-ayahuasca-syncretism]] churches (Santo Daime, Uniao de Vegetal, and
+Barquinia), the [[halpern-sacramental-peyote-and-native-american-church]] Church, and the Bwiti cult in Gabon. These
 organized churches have made entheogenic experiences accessible to large
 numbers of people (hundreds per ceremony) within legally recognized
 frameworks, though with less emphasis on individual healing and more on

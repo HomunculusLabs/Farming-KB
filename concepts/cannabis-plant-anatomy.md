@@ -1,5 +1,5 @@
 ---
-title: Cannabis Plant Anatomy
+title: green-cannabis-plant-anatomy-calyx-pistil-bud-structure
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -13,7 +13,7 @@ Cannabis is an annual, dioecious (separate male and female plants) herbaceous pl
 
 ### Seed and Germination
 
-Cannabis seeds are approximately 2-5 mm, oval with a pointed tip, and mottled brown/tan. The shell is hard and smooth. Germination requires moisture, warmth (20-25°C), and darkness. The first structure to emerge is the radicle (embryonic root), followed by straightening of the hypocotyl (embryonic stem). Cotyledons (seed leaves) are slightly unequal in size and narrow toward the stem.
+[[query-how-to-store-cannabis-seeds-for-long-term-viability]] are approximately 2-5 mm, oval with a pointed tip, and mottled brown/tan. The shell is hard and smooth. Germination requires moisture, warmth (20-25°C), and darkness. The first structure to emerge is the radicle (embryonic root), followed by straightening of the hypocotyl (embryonic stem). Cotyledons (seed leaves) are slightly unequal in size and narrow toward the stem.
 
 ### Vegetative Structures
 
@@ -23,7 +23,7 @@ Cannabis seeds are approximately 2-5 mm, oval with a pointed tip, and mottled br
 
 **Branches**: If not crowded, limbs grow from small buds at the intersection of petioles along the main stem. Branching pattern is influenced by genetics and growing conditions.
 
-**Roots**: Fibrous taproot system. Root production is proportionate to above-ground growth. Extensive root networks support the rapid vegetative growth.
+**Roots**: Fibrous taproot system. Root production is proportionate to above-ground growth. Extensive root networks support the rapid [[cannabis-vegetative-growth-stage]].
 
 ### Flowering Structures
 
@@ -46,7 +46,7 @@ Cannabis is a short-day plant — flowering is triggered when daylength drops be
 
 ### Trichomes (Glandular Hairs)
 
-Trichomes are the primary sites of cannabinoid and terpene biosynthesis. Three major types:
+Trichomes are the primary sites of cannabinoid and [[clarke-marijuana-botany-terpene-biosynthesis-aromatic-profiles]]. Three major types:
 
 1. **Capitate-stalked trichomes**: Largest and most abundant on female flower parts. Consist of a stalk and a globular head (gland) where cannabinoids and terpenes are synthesized and stored. These are the primary source of the psychoactive resin.
 
@@ -61,6 +61,8 @@ The glandular head contains a secretory cavity where the cannabinoid precursor o
 Pollen germinates on the pistil stigma 15-20 minutes after contact. The pollen tube grows toward the ovule, with the generative cell dividing into two gametes. After fertilization (approximately 14-35 days), the seed matures within the calyx, which swells and often darkens. The seed coat hardens, and the mature seed eventually drops or is harvested.
 
 ## See Also
+
+- [[nehemiah-grew-plant-anatomy]]
 
 - [[cannabis-genetics-and-breeding]]
 - [[cannabis-extraction-methods]]
@@ -83,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

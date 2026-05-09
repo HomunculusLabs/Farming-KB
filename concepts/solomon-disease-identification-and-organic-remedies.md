@@ -1,5 +1,5 @@
 ---
-title: Solomon Disease Identification and Organic Remedies
+title: Solomon solomon disease identification and organic remedies and Organic Remedies
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -25,7 +25,7 @@ and the vigor to outgrow moderate pest pressure.
 ## Aphids
 
 Small, soft-bodied insects that cluster on leaves and suck sap. A few
-cause no significant damage; in large numbers they cause leaf curl and
+cause no significant damage; in large numbers they cause [[ingham-leaf-curl-taphrina-disease-control]] and
 stunting, multiplying with amazing speed.
 
 **Don't rush to fight them on sight.** To stop disease-carrying aphids
@@ -54,7 +54,7 @@ damage quickly, especially during early cabbage head formation.
 **Management**:
 
 - **Handpicking**: Sufficient in small gardens.
-- **Bacillus thuringiensis (Bt)**: Extremely effective, nontoxic,
+- **[[cervantes-bacillus-thuringiensis-bt-control]] (Bt)**: Extremely effective, nontoxic,
   lethal only to cabbageworms and close relatives. Can be sprayed the
   day of harvest. Marketed as Dipel.
 
@@ -65,7 +65,7 @@ after each new caterpillar wave.
 
 ## Colorado Potato Beetle
 
-Found almost everywhere in North America, can completely defoliate
+Found almost everywhere in [[psilocybin-north-america-pacific-northwest]], can completely defoliate
 potatoes. Also feeds on tomatoes, peppers, eggplants. Adults overwinter
 12-18 inches (30-45 cm) deep, emerging in late spring.
 
@@ -78,11 +78,11 @@ potatoes. Also feeds on tomatoes, peppers, eggplants. Adults overwinter
 
 - Plant health through proper nutrition is the first and best defense.
 - Bt is the most effective organic control for brassica caterpillars.
-- Colorado potato beetles respond best to new ground, straw mulch, and
+- Colorado potato beetles respond best to new ground, [[fukuoka-rice-straw-mulch-central-technique]], and
   handpicking.
 - Flea beetles are managed by delayed planting and avoiding excessive
   nitrogen.
-- Baking soda spray kills powdery mildew on contact but needs frequent
+- Baking soda spray kills [[cervantes-powdery-mildew-prevention-treatment]] on contact but needs frequent
   reapplication.
 
 ## See Also

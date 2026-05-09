@@ -1,5 +1,5 @@
 ---
-title: Candida albicans
+title: bloomfield-candida-albicans-yeast-hyphal-dimorphism
 created: 2026-04-28
 type: species
 tags: [pathogen, yeast, commensal, dimorphic, quorum-sensing]
@@ -13,7 +13,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dy
 Candida albicans is a dimorphic fungal species that exists as both a
 commensal organism and an opportunistic pathogen in humans. It is a
 member of the Hemiascomycetes and is one of the most common causes of
-fungal infections worldwide, capable of causing both superficial
+[[blesching-cannabis-fungal-infections-candida]] worldwide, capable of causing both superficial
 mucosal infections and life-threatening systemic disease.
 
 C. albicans normally colonizes the human gastrointestinal tract, oral
@@ -34,7 +34,7 @@ studied extensively in medical mycology.
 
 C. albicans is classified among the Hemiascomycetes alongside
 Saccharomyces cerevisiae and Ashbya gossypii. Unlike S. cerevisiae, C.
-albicans does not possess hex-1 homologues or Woronin bodies,
+albicans does not possess hex-1 homologues or [[fungal-woronin-bodies-and-septal-pore-organization]],
 consistent with the absence of these organelles outside the
 Euascomycetes.
 
@@ -60,7 +60,7 @@ morphology between yeast and true hyphae.
 Chlamydospores are large, thick-walled resting structures produced
 under certain environmental conditions. The yeast-to-hypha transition
 is a critical virulence factor triggered by temperature (37 degrees
-C), pH, serum, and nutrient availability. This morphological
+C), pH, serum, and [[ph-and-nutrient-availability-garden-soils]]. This morphological
 plasticity enables adaptation to diverse host niches during both
 commensal and pathogenic growth phases.
 
@@ -73,7 +73,7 @@ population of cells within the host.
 
 - **Tyrosol:** A quorum-sensing molecule accumulating at high cell density that promotes filamentous growth, acting as an autoinducer stimulating germ tube formation
 - **Farnesol:** An extracellular quorum-sensing molecule produced at high population densities that inhibits hyphal formation, maintaining the yeast form
-- **Chk1p:** A two-component signal transduction protein regulating quorum sensing in C. albicans
+- **Chk1p:** A two-component [[fungal-environmental-sensing-signal-transduction-read]] protein regulating quorum sensing in C. albicans
 
 The interplay between tyrosol and farnesol allows coordination of
 morphological state with population density, a key adaptation for the
@@ -85,7 +85,7 @@ stationary phase.
 
 The cell cycle dynamics and quorum sensing of C. albicans
 chlamydospores are distinct from those governing budding yeast growth
-and hyphal development. Chlamydospore formation is regulated
+and hyphal development. [[fungal-chlamydospore-formation-and-survival]] is regulated
 independently from the yeast-hypha transition, suggesting a separate
 developmental program activated under specific environmental
 conditions.

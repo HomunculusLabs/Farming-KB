@@ -11,7 +11,7 @@ sources: []
 
 Textile dye contamination of water resources is a major environmental concern, particularly in developing countries with significant textile manufacturing activity.
 
-The textile industry generates large volumes of colored wastewater containing synthetic dyes, many of which are toxic, mutagenic, or carcinogenic, and most of which are resistant to conventional biological wastewater treatment.
+The [[staycare-fungal-treatment-of-textile-industry-wastewater]] generates large volumes of colored wastewater containing synthetic dyes, many of which are toxic, mutagenic, or carcinogenic, and most of which are resistant to conventional biological [[mollison-designers-wastewater-treatment-wetlands]].
 
 Bioremediation offers promising approaches for dye decolorization and degradation, with fungi playing a particularly important role due to their non-specific enzyme systems.
 
@@ -31,15 +31,15 @@ The enzymatic degradation of azo dyes typically involves reductive cleavage of t
 
 These aromatic amine intermediates are often more toxic than the parent dye and require further aerobic degradation for complete detoxification.
 
-Oxidative degradation by fungal ligninolytic enzymes provides a more direct pathway to dye mineralization without the production of toxic aromatic amine intermediates.
+Oxidative degradation by fungal [[singh-ligninolytic-enzymes-fungal-bioremediation]] provides a more direct pathway to dye mineralization without the production of toxic aromatic amine intermediates.
 
-The ligninolytic enzymes laccase, manganese peroxidase, and lignin peroxidase can oxidize a wide range of synthetic dyes through radical-mediated mechanisms.
+The ligninolytic enzymes laccase, [[fungal-manganese-peroxidase-remediation]], and [[fungal-lignin-peroxidase-veratryl-alcohol]] can oxidize a wide range of synthetic dyes through radical-mediated mechanisms.
 
 Laccase is particularly effective for dye decolorization because of its broad substrate specificity, its use of molecular oxygen as a cosubstrate, and its stability under a range of environmental conditions.
 
 [[cotter-mycoremediation-overview]] describes the broader bioremediation capabilities of this commercially important mushroom species.
 
-[[fungal-sequential-dye-decolorization]] describes systems where multiple dyes are treated in sequence by fungal cultures.
+fungal-sequential-dye-decolorization describes systems where multiple dyes are treated in sequence by fungal cultures.
 
 ## Bacterial and Mixed-Culture Systems
 
@@ -53,13 +53,13 @@ Combined anaerobic-aerobic treatment systems are widely used for textile wastewa
 
 Microbial consortia that combine anaerobic and aerobic microorganisms can achieve complete dye mineralization in single-stage systems.
 
-Bacterial-fungal cocultures, as described in [[fungal-biofilm-bioremediation]] describes biofilm-based systems where bacteria and fungi coexist in structured communities that enhance dye degradation efficiency.
+Bacterial-fungal cocultures, as described in fungal-biofilm-bioremediation describes biofilm-based systems where bacteria and fungi coexist in structured communities that enhance dye degradation efficiency.
 
 ## Treatment Technologies
 
-Solid-state fermentation using fungal cultures on agricultural waste substrates provides a low-cost approach for producing dye-decolorizing enzyme preparations.
+Solid-state fermentation using fungal cultures on [[fungi-in-composting-and-agricultural-waste-conversion]] substrates provides a low-cost approach for producing dye-decolorizing enzyme preparations.
 
-[[fungal-bioreactor-types-for-pollutant-removal]] describe reactor configurations for continuous treatment of dye-containing wastewaters.
+fungal-bioreactor-types-for-pollutant-removal describe reactor configurations for continuous treatment of dye-containing wastewaters.
 
 Immobilized fungal bioreactors using fungal biomass entrapped in alginate, polyurethane, or other supports provide high cell density and enable reuse over multiple treatment cycles.
 
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

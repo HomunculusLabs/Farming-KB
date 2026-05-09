@@ -21,7 +21,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Leafly. "Cherry Pie Strain Information." leafly.com
-  - AllBud. "Cherry Pie Cannabis Strain." allbud.com
+  - AllBud. "Cherry Pie [[blesching-cannabis-strain-selection-receptor-targeting]]." allbud.com
   - Cannabis Now. "Cherry Pie: A Legendary Cross." cannabisnow.com
   - Erowid. "Cherry Pie Experience Reports." erowid.org
   - Wikileaf. "Cherry Pie Strain Review." wikileaf.com
@@ -35,8 +35,8 @@ Cherry Pie is a balanced indica-dominant hybrid cannabis strain renowned for
 its dessert-like cherry aroma and deeply relaxing body effects. A cross between
 [[durban-poison]], it inherits a complex terpene profile
 that balances sweet fruitiness with earthy, pungent undertones. Since emerging
-in the San Francisco Bay Area medical cannabis scene, Cherry Pie has become one
-of the most widely recognized strains in North American dispensaries.
+in the [[shipibo-san-francisco-ceremonial-center-ucayali]] Bay Area medical cannabis scene, Cherry Pie has become one
+of the most widely recognized strains in [[growing-gourmet-north-american-reishi-species]] dispensaries.
 
 The strain typically expresses a 70/30 indica-to-sativa ratio, delivering a
 calming cerebral onset that transitions into full-body relaxation. Its
@@ -45,7 +45,7 @@ distinctive flavor, has made it a market staple.
 
 ## Lineage
 
-Cherry Pie descends from two foundational cannabis genetics:
+Cherry Pie descends from two foundational [[vic-high-cannabis-genetics-mendelian-inheritance]]:
 
 - **Granddaddy Purple (female)** — Provides the dense purple bud structure,
   grape and berry terpene base, and heavy indica sedation. GDP descends from
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

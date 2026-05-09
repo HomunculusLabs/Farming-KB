@@ -8,7 +8,7 @@ created: 2026-04-28
   - mites
   - biological-control
   - citrus
-  - orchard-management
+  - [[orchard-management]]
 date: 2026-04-28 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
@@ -27,7 +27,7 @@ approach was minimal, inexpensive, and successful — a baseline that would late
 pesticides.
 
 This historical baseline establishes that the mite problem was not inherent to Japanese fruit cultivation. Mites existed in orchards
-before the war, but they were kept at manageable levels by a combination of the mild lime-sulfur treatment and the natural predator
+before the war, but they were kept at manageable levels by a combination of the mild lime-sulfur treatment and the [[fukuoka-natural-predator-protection]]
 populations that were not significantly affected by this relatively benign spray. The lime-sulfur mixture was itself a relatively gentle
 intervention that killed some mites directly but, more importantly, created conditions unfavorable to mite population growth without
 devastating predatory insects and mites that provided primary long-term control.
@@ -40,7 +40,7 @@ Growers were delighted by the apparent efficacy of these broad-spectrum killers.
 
 It was not long before farmers found that, no matter how often they sprayed, they were unable to prevent large outbreaks of mites from
 recurring. The very chemicals supposed to solve the pest problem had created a far worse one. Each new application seemed to trigger another
-outbreak, creating a vicious cycle of escalating chemical warfare. The more they sprayed, the worse the mite problem became. The irony was
+outbreak, creating a vicious cycle of escalating [[solomon-root-exudates-and-allelopathy]]. The more they sprayed, the worse the mite problem became. The irony was
 bitter: the most powerful pesticides ever devised had made the pest situation worse, not better.
 
 ## Competing Scientific Explanations
@@ -52,7 +52,7 @@ Researchers offered several explanations for recurring mite outbreaks, each lead
 - **Species shift**: A different, more resistant mite species had
   emerged to fill the vacated ecological niche.
 - **Natural enemy disappearance**: Powerful pesticides were killing
-  natural predators — predatory mites, ladybugs, and other beneficial   insects — that kept mite populations in check.
+  natural predators — [[comparison-predatory-mites-vs-ladybugs-biocontrol]], ladybugs, and other beneficial   insects — that kept mite populations in check.
 
 Rather than recognizing the fundamental problem, scientists pursued all three explanations simultaneously, developing new pesticides for each
 hypothesis. One new chemical was developed after another, but this only aggravated the problems of pest control and pesticide pollution —
@@ -66,7 +66,7 @@ became one has a clear answer rooted in human actions, not in the mites themselv
 Many types of mites exist, each emerging under different conditions. But cultivation in the total absence of mites throughout the year is
 just not possible. The realistic goal should be to hold damage to a minimum, not total extermination. The causes for recent infestations
 and extensive damage to fruit trees lie not in the mites themselves but in human actions — specifically, the introduction of broad-spectrum
-pesticides that destroyed the ecological balance that had naturally kept mite populations in check. The prewar stability was not an accident but
+pesticides that destroyed the [[fukuoka-ecological-balance-principles]] that had naturally kept mite populations in check. The prewar stability was not an accident but
 the product of an intact ecosystem functioning as designed.
 
 ## Mite Sensitivity to Microclimate
@@ -97,8 +97,8 @@ substitutes for free ecological services that had been eliminated.
 ## The Predictable Outcome
 
 Fukuoka did not expect this basic problem to be solved by scientists headed in an entirely different direction, pursuing plans such as
-developing new pesticides that destroy pests at minimal harm to beneficial insects. If man had left the mite alone, it would never have
-become a major pest. In Fukuoka's natural orchard, he never had any problem with mites in the citrus trees, or if he did, the problem
+developing new pesticides that destroy pests at minimal harm to [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. If man had left the mite alone, it would never have
+become a major pest. In Fukuoka's [[fukuoka-natural-orchard-development]], he never had any problem with mites in the citrus trees, or if he did, the problem
 solved itself through the natural balance of predators and prey in the unsprayed environment.
 
 ## Broader Implications for Natural Farming

@@ -25,7 +25,7 @@ The name Ayahuasca derives from the Kechwa language, meaning "tendril of the sou
 
 ## Botanical Description
 
-The primary species used in Ayahuasca preparation belong to the genus Banisteriopsis (C.B. Robinson et Small), a group of 20 to 30 species of woody lianas in the Malpighiaceae (Malpighia Family). The two most important species are:
+The primary species used in [[harner-amazonian-ayahuasca-preparation-methods]] belong to the genus Banisteriopsis (C.B. Robinson et Small), a group of 20 to 30 species of woody lianas in the Malpighiaceae (Malpighia Family). The two most important species are:
 
 - **Banisteriopsis caapi** (Spruce ex Griseb.) Morton — the most widely used species, distributed throughout tropical zones of northern South America and the West Indies.
 - **Banisteriopsis inebrians** Morton — similar in distribution and use, differing from B. caapi in its thicker, ovate, more attenuate leaves.
@@ -39,12 +39,12 @@ The bark of Banisteriopsis caapi and B. inebrians is prepared in cold water or a
 - **Diplopterys cabrerana** (Cuatr.) B. Gates — known as Oco-Yaje, this plant contributes additional tryptamine alkaloids.
 - **Psychotria viridis** Ruiz et Pavon — known as Chacruna or Chacruna Bush, used for ages in the Amazon region as a significant ingredient of Ayahuasca. It contributes N,N-dimethyltryptamine (DMT) to the brew.
 - **Tabernaemontana sananho** R. et P. — known as Sanango, considered a "memory plant" that enhances Ayahuasca so that visions can be better recalled.
-- **Tetrapteris methystica** R.E. Schul. and T. mucronata Cav. — known as Caapi-Pinima, used by the nomadic Maku Indians of the Rio Tikie in the northwestern Amazon of Brazil. They call it Caapi, the same as Banisteriopsis, suggesting the concept of "more than one kind" of Caapi.
+- **[[entheogen-tetrapteris-methystica-alternative-caapi]]** R.E. Schul. and T. mucronata Cav. — known as Caapi-Pinima, used by the nomadic Maku Indians of the Rio Tikie in the northwestern Amazon of Brazil. They call it Caapi, the same as Banisteriopsis, suggesting the concept of "more than one kind" of Caapi.
 - **Brunfelsia** species — members of the Nightshade family, known as Chiricaspi, which serve as Ayahuasca additives or substitutes.
 
 ## Cultural Significance
 
-Ayahuasca occupies a central position in the spiritual and medicinal life of dozens of Amazonian indigenous groups. Among the Tukanoan peoples of Colombia, Ayahuasca is used in the Yurupari ceremony, an adolescent initiation ritual for boys. The Jivaro believe that Ayahuasca makes possible communication with the spirit world and permits them to see the causal forces behind illness and misfortune.
+Ayahuasca occupies a central position in the spiritual and medicinal life of dozens of Amazonian indigenous groups. Among the Tukanoan peoples of Colombia, Ayahuasca is used in the Yurupari ceremony, an adolescent [[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]] for boys. The Jivaro believe that Ayahuasca makes possible communication with the spirit world and permits them to see the causal forces behind illness and misfortune.
 
 In the broader cultural context, the drink serves multiple functions: divination, healing, social cohesion, religious revelation, and the maintenance of cosmic order. Ayahuasca reveals what the indigenous peoples consider "the real world," while daily living is regarded as an illusion. The experience is fundamentally one of cosmological insight — the drinker perceives the underlying structure of reality and the relationships between humans, animals, spirits, and the natural world.
 
@@ -66,11 +66,11 @@ Throughout the Amazon, the preparation of Ayahuasca varies enormously. Different
 
 ## Historical Documentation
 
-Ayahuasca was first documented by Western scientists in the mid-nineteenth century. The English botanist Richard Spruce, who explored the Amazon basin extensively in the 1850s, was among the first to describe the plant and its preparation. Spruce collected specimens of Banisteriopsis caapi and sent them to European herbaria. Later, the chemists of the twentieth century identified the beta-carboline alkaloids responsible for the MAOI activity, and eventually the role of DMT-containing additives was understood, revealing the sophisticated pharmacological knowledge encoded in indigenous Ayahuasca recipes.
+Ayahuasca was first documented by Western scientists in the mid-nineteenth century. The English botanist Richard Spruce, who explored the Amazon basin extensively in the 1850s, was among the first to describe the plant and its preparation. Spruce collected specimens of Banisteriopsis caapi and sent them to European herbaria. Later, the chemists of the [[coleman-louis-savier-twentieth-century-maraicher]] identified the beta-carboline alkaloids responsible for the MAOI activity, and eventually the role of DMT-containing additives was understood, revealing the sophisticated pharmacological knowledge encoded in indigenous Ayahuasca recipes.
 
 ## Ayahuasca Analogs
 
-The concept of Ayahuasca has expanded to include numerous "Ayahuasca analogs" — combinations of different MAOI-containing plants with different DMT-containing plants that replicate the pharmacological synergy of the traditional Amazonian brew. For example, seeds of Peganum harmala (Syrian Rue) contain harmine and harmaline and can substitute for the Banisteriopsis bark, while roots of Phalaris grasses or Mimosa species can provide DMT. Indigenous peoples across the Amazon basin have independently discovered many such combinations, demonstrating a deep empirical understanding of plant chemistry that predates modern science by centuries or millennia.
+The concept of Ayahuasca has expanded to include numerous "Ayahuasca analogs" — combinations of different MAOI-containing plants with different DMT-containing plants that replicate the pharmacological synergy of the traditional Amazonian brew. For example, seeds of [[mckenna-food-gods-peganum-harmala-soma]] (Syrian Rue) contain harmine and harmaline and can substitute for the Banisteriopsis bark, while roots of Phalaris grasses or Mimosa species can provide DMT. Indigenous peoples across the Amazon basin have independently discovered many such combinations, demonstrating a deep empirical understanding of plant chemistry that predates modern science by centuries or millennia.
 
 ## See Also
 
@@ -79,7 +79,7 @@ The concept of Ayahuasca has expanded to include numerous "Ayahuasca analogs" �
 - [[iboga-plant]] — African hallucinogenic plant with overlapping alkaloids
 - Monoamine Oxidase Inhibitor — Pharmacological mechanism enabling oral DMT activity
 - ethnopharmacology — Study of indigenous plant use in medicine and ritual
-- icaros — Sacred songs sung during Ayahuasca ceremonies by shamans
+- icaros — Sacred songs sung during [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] by shamans
 - [[peganum-harmala]] — Syrian Rue, source of harmine alkaloids used in Ayahuasca analogs
 - *Mimosa tenuiflora* — DMT-containing plant used in some analog preparations
 - [[plants-gods-peyote]]

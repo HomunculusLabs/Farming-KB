@@ -1,5 +1,5 @@
 ---
-title: Holistic Management Decision Framework
+title: savory-holistic-management-overview Decision Framework
 created: 2026-04-28
 tags:
   - holistic-management
@@ -36,7 +36,7 @@ another.
 
 ### 1. Whole Ecosystem
 This first testing guideline requires considering how any tool affects all
-elements and ecosystem processes in the whole being managed, not just the
+elements and [[fungal-ecosystem-processes-overview]] in the whole being managed, not just the
 element of greatest interest. If you manage for the health of the whole,
 species tend to take care of themselves and thrive. When managing for a
 particular species with little regard for the whole, the object of effort
@@ -44,7 +44,7 @@ often dwindles.
 
 The guideline asks: "Will the tool under consideration move the whole
 toward the goal?" Every proposed tool must be evaluated against its effects
-on all four ecosystem foundation blocks: [[holmgren-mineral-balance-soil-fertility]], [[savory-energy-flow-and-solar-capture]].
+on all four [[savory-ecosystem-foundation-blocks]] blocks: [[holmgren-mineral-balance-soil-fertility]], [[savory-energy-flow-and-solar-capture]].
 
 ### 2. Weak Link
 A chain stretched to breaking fails at its weakest link, and at any moment
@@ -54,7 +54,7 @@ link. The guideline compels constant checking for the weak link impeding
 progress toward goals, divided into three resource categories:
 
 **Biological**: Every organism has a point of greatest vulnerability in its
-life cycle. Recognize this and you can efficiently increase or decrease a
+[[bloomfield-fungal-life-cycle-spiral-versus-circle]]. Recognize this and you can efficiently increase or decrease a
 species' ability to recruit new members. Plants are generally most
 vulnerable during initial establishment.
 
@@ -99,7 +99,7 @@ involved. This test acknowledges that management operates within human
 communities with beliefs, customs, and social structures that can support
 or undermine any plan. In some cultures, for example, not using [[savory-energy-flow-and-solar-capture]].
 
-**Stock Density and Herd Effect**: These interrelate with [[savory-fire-as-management-tool]],
+**[[savory-fencing-economics-and-stock-density-curve]] and Herd Effect**: These interrelate with [[savory-fire-as-management-tool]],
 requiring extreme caution because fire exposes soil surfaces key to all
 four ecosystem processes.
 

@@ -9,12 +9,12 @@ sources:
 ---
 
 # The [[wasson-rediscovery-of-psilocybin]] -- Wasson and the rediscovery
-- [[shroom-counterculture]] -- Magic mushrooms in the 1960s
+- [[shroom-counterculture]] -- [[guzman-magic-mushrooms-african-species]] in the 1960s
   counterculture
 
 ## Source
 
-Letcher, Andy. Shroom: A Cultural History of the Magic Mushroom.
+Letcher, Andy. Shroom: A [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the Magic Mushroom.
 HarperCollins, 2006. Lines 3977-5033.
 
 ## See Also
@@ -97,4 +97,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

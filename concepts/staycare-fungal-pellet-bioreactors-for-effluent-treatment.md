@@ -11,7 +11,7 @@ type: concept
 # Fungal Pellet Bioreactors for Effluent Treatment
 
 Fungal pellet bioreactors represent an important technology for applying
-white rot fungi to the treatment of industrial effluents. Mycelial pellets,
+white rot fungi to the [[fungal-treatment-of-industrial-wastewaters]] effluents. Mycelial pellets,
 formed naturally or through immobilization in matrices such as alginate or
 polyurethane, offer practical advantages over free mycelium including
 improved mass transfer, ease of handling, mechanical stability, and the
@@ -34,7 +34,7 @@ aeration without mechanical agitation.
 Fungal mycelia can be grown as pellets that are subsequently used in
 bioreactor systems. [[trametes-versicolor-entity]]
 have been grown on pelleted substrates for effluent treatment. Alginate
-hydrogels containing fungal biomass provide a convenient immobilization
+hydrogels containing [[bioremediation-fungal-biomass-biosorbent-material]] provide a convenient immobilization
 matrix. Temperature affects pellet performance, with non-pelleted P.
 chrysosporium giving higher FDA (fluorescein diacetate) activity at 24
 degrees C while pelleted spawn showed highest activity at 39 degrees C.
@@ -55,7 +55,7 @@ viability or affect the mechanical strength of the pellets. When introduced
 into unsterile soil microcosms spiked with pentachlorophenol (PCP),
 mycelium-coated pellets of Irpex lacteus, Bjerkandera adusta, and T.
 versicolor removed over 80% of the contaminant within 4 weeks. Coated
-pellets without established mycelial growth showed significantly less
+pellets without established [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] showed significantly less
 removal, confirming the importance of active mycelium for pollutant
 transformation.
 
@@ -119,15 +119,18 @@ components remain a key area of active research.
 
 Nutrient composition significantly affects fungal pellet performance in
 bioreactors. Nitrogen-limited conditions typically induce ligninolytic
-enzyme production in white rot fungi, which is essential for the
+[[ligninolytic-enzyme-production-bioremediation]] in white rot fungi, which is essential for the
 degradation of recalcitrant organic pollutants. Carbon source selection
-also influences metabolic activity. Simple sugars may be consumed too
+also influences [[arbuscule-isolation-metabolic-activity-assays]]. Simple sugars may be consumed too
 rapidly, while complex substrates like corn cob grits provide sustained
-nutrient release. Optimizing the balance between enzyme induction and
+nutrient release. Optimizing the balance between [[fungal-enzyme-induction-and-regulation]] and
 biomass growth is crucial for maintaining effective pollutant removal over
 extended bioreactor operation periods.
 
 ## See Also
 
 - [[staycare-trametes-versicolor-bioremediation-applications]]
-- [[fungal-biofilm-bioremediation]]
+- fungal-biofilm-bioremediation
+- [[white-rot-fungi]]
+- [[bjerkandera-adusta]]
+- [[irpex-lacteus]]

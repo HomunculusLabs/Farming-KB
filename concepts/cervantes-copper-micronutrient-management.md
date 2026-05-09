@@ -1,11 +1,12 @@
 ---
-title: Copper Micronutrient for Cannabis
+title: cervantes copper micronutrient management for Cannabis
 created: 2026-04-26
 tags: [cannabis, nutrients, copper, micronutrients, cervantes]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -47,7 +48,7 @@ Apply a copper-based fungicide such as copper
 sulfate. Do not apply if the temperature is above
 75F (24C) to avoid burning the foliage. Apply a
 complete hydroponic nutrient that contains copper.
-Cannabis plants seldom develop a copper deficiency
+Cannabis plants seldom develop a [[query-how-to-fix-copper-deficiency-in-cannabis]]
 when fed a balanced nutrient program.
 
 ## Toxicity
@@ -73,7 +74,7 @@ and toxicity risk.
 ## Copper as Fungicide
 
 Copper sulfate is a widely used fungicide and
-bactericide in cannabis cultivation. It is
+bactericide in [[query-how-does-no-till-cannabis-cultivation-work]]. It is
 available in dry wettable powder (WP) and liquid
 (D) formulations. Copper sulfate is often combined
 with lime to create Bordeaux mixture, which reduces
@@ -91,7 +92,7 @@ symptoms through nutrient antagonism.
 ## Copper Sulfate in Pest Control
 
 Copper sulfate solutions have additional uses
-beyond fungal disease control. They can be used
+beyond fungal [[hamilton-pest-and-disease-control-organic]]. They can be used
 in ant control programs when mixed with borax and
 powdered sugar. Ants eat the sweet mix, and the
 borax and copper sulfate work together to eliminate

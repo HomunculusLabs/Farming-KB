@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-The legal cannabis industry represents one of the fastest-growing economic sectors in the United States, with annual revenues exceeding $30 billion nationally as of 2026. However, starting and operating a cannabis business involves unique challenges including federal prohibition, complex state regulations, limited access to banking, and intense competition. This guide covers the fundamentals of entering the legal cannabis market.
+The legal cannabis industry represents one of the fastest-growing economic sectors in the [[dmt-containing-plants-united-states-halpern]], with annual revenues exceeding $30 billion nationally as of 2026. However, starting and operating a cannabis business involves unique challenges including federal prohibition, complex state regulations, limited access to banking, and intense competition. This guide covers the fundamentals of entering the legal cannabis market.
 
 ## Business Models
 
@@ -20,7 +20,7 @@ The legal cannabis industry represents one of the fastest-growing economic secto
 Growing cannabis for wholesale distribution to processors, manufacturers, and retailers.
 
 **Types:**
-- Indoor cultivation: Highest quality, highest costs, controlled environment
+- [[cannabis-sativa-indoor-cultivation-techniques]]: Highest quality, highest costs, controlled environment
 - Greenhouse cultivation: Balance of quality and cost, uses natural light supplemented with artificial
 - Outdoor cultivation: Lowest cost per pound, seasonal, weather-dependent
 - Mixed-light/greenhouse: Increasingly popular for balancing quality and economics
@@ -143,43 +143,6 @@ Most states require seed-to-sale tracking systems that monitor cannabis from cul
 - No advertising to minors, no unverified medical claims
 - Restrictions near schools, churches, and playgrounds
 - Social media platforms often prohibit cannabis content
-
-## Startup Costs
-
-| Business Type | Typical Total |
-|---------------|---------------|
-| Dispensary | $500K - $2M+ |
-| Indoor Cultivation (5K sq ft) | $1M - $4M+ |
-| Manufacturing | $500K - $2M+ |
-
-Includes buildout, equipment, licensing, inventory, and working capital.
-
-## Banking Challenges
-
-Federal prohibition means most banks won't serve cannabis businesses:
-
-- Difficulty opening accounts, limited access to credit
-- Cash-heavy operations create security risks
-- Solutions: state-chartered credit unions, FinTech payment processors, armored car services
-- SAFE Banking Act (pending as of 2026) would protect banks serving the industry
-
-## Tax Considerations
-
-- **Section 280E:** Prevents standard business deductions (rent, wages, marketing). Only COGS is deductible, inflating effective tax rates to 40-50%+.
-- **State taxes:** Excise taxes (10-37%) plus sales tax and local taxes in many jurisdictions.
-
-## Hiring and Workforce
-
-Common roles: budtenders, cultivation technicians, trimmers, extraction technicians, compliance managers, security personnel. Industry challenges include high turnover, limited talent pool, and background check requirements.
-
-## Market Trends (2026)
-
-- Consolidation and price compression as supply increases
-- Premiumization: craft cannabis and living soil products commanding premium prices
-- Minor cannabinoid expansion (CBG, CBN, THCV)
-- Beverage market growth, delivery service expansion
-- International markets opening (Germany, Thailand)
-- Quality ([[cannabis-testing-and-quality|testing results]], terpene profiles) increasingly matters more than raw THC percentage
 
 ## See Also
 

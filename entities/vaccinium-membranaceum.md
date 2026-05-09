@@ -11,9 +11,9 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Vander Kloet, S.P. (1988). "The Genus Vaccinium in North America." Research Branch, Agriculture Canada Publication 1828.
+  - Vander Kloet, S.P. (1988). "The Genus Vaccinium in psilocybin-north-america-pacific-northwest." Research Branch, Agriculture Canada Publication 1828.
   - Minore, D. (1972). "The Wild Huckleberries of Oregon and Washington: A Field Guide." USDA Forest Service Research Paper PNW-143.
-  - Martin, W.H. et al. (1951). "Electron microscope and taxonomic studies of blueberry and huckleberry species." North American Blueberry Research Council.
+  - Martin, W.H. et al. (1951). "[[bloomfield-ascospore-extreme-resilience-electron-microscope-survival]] and taxonomic studies of blueberry and huckleberry species." [[growing-gourmet-north-american-reishi-species]] Blueberry Research Council.
   - Höerdemann, M.L. (2018). "Huckleberries of the Pacific Northwest." Mountaineers Books.
 ---
 
@@ -25,7 +25,7 @@ The species produces large, sweet, dark purple to black berries that are widely 
 
 Mountain huckleberry is distinguished from blueberries by its pronounced flavor intensity, darker berry color, and the presence of ten prominent seed chambers visible on the berry surface. These seed chambers give the berries a distinctive "pitted" appearance.
 
-The species is the state fruit of Idaho and holds particular cultural significance for the Nez Perce, Salish, Kootenai, and other Indigenous peoples of the Interior Northwest. Traditional huckleberry gathering grounds remain important cultural landscapes.
+The species is the state fruit of Idaho and holds particular [[ethnomycology-cultural-significance-sacred-fungi]] for the Nez Perce, Salish, Kootenai, and other Indigenous peoples of the Interior Northwest. Traditional huckleberry gathering grounds remain important cultural landscapes.
 
 ## Taxonomy and Morphology
 
@@ -49,7 +49,7 @@ The species occupies coniferous and mixed forests, subalpine meadows, and open s
 
 Fire ecology plays an important role in V. membranaceum population dynamics. The species resprouts vigorously from rhizomes after fire, and berry production typically increases for 10–20 years post-fire as canopy opening increases light availability.
 
-Soil preferences include well-drained, acidic loams derived from volcanic or granitic parent material. The species is strongly mycorrhizal, forming associations with ericoid mycorrhizal fungi essential for nutrient uptake.
+Soil preferences include well-drained, acidic loams derived from volcanic or granitic parent material. The species is strongly mycorrhizal, forming associations with [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] fungi essential for nutrient uptake.
 
 The species is sensitive to competition from conifer regeneration, particularly after fire suppression reduces disturbance frequency. Long-term fire exclusion has led to declining huckleberry productivity in many forested landscapes.
 
@@ -75,7 +75,7 @@ Grizzly bears in the Greater Yellowstone Ecosystem depend heavily on V. membrana
 
 The shrub provides cover and nesting habitat for ground-nesting birds and small mammals. In burned areas, dense huckleberry thickets created by post-fire resprouting provide important structural habitat.
 
-Ericaceous shrubs including V. membranaceum contribute to soil acidification through litter decomposition, influencing understory plant community composition over successional time scales.
+Ericaceous shrubs including V. membranaceum contribute to soil acidification through litter decomposition, influencing understory plant [[core-endorhiza-bacterial-community-composition-cannabis]] over successional time scales.
 
 The root system is shallow and extensively rhizomatous, forming dense networks that stabilize montane soils. This root architecture makes the species effective at preventing erosion on steep slopes after disturbance events.
 
@@ -92,6 +92,8 @@ Domestication efforts have focused on developing hybrid crosses between V. membr
 Wild harvest management through controlled burning and timber harvest practices has proven more practical than cultivation. Forest managers use prescribed fire to maintain productive huckleberry stands on public lands.
 
 ## See Also
+
+- [[vaccinium-parvifolium]]
 
 - [[vaccinium-macrocarpon]]
 - [[vaccinium-myrtillus]]

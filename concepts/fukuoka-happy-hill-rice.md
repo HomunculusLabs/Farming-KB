@@ -15,16 +15,16 @@ sources:
 
 # Happy Hill Rice — Fukuoka's High-Yielding Natural Variety
 
-Masanobu Fukuoka developed a rice variety he called "Happy Hill" through a
+Masanobu Fukuoka developed a [[fukuoka-old-rice-variety-testing]] he called "Happy Hill" through a
 process that inverted the principles of modern plant breeding. Rather than
 deliberately crossing parent lines in a laboratory, he allowed insects and
 natural selection in his fields to shape the genetics of the strain over
-decades of natural farming cultivation.
+decades of [[comparison-natural-farming-vs-permaculture]] cultivation.
 
 ## Origins of the Strain
 
 Happy Hill emerged from Fukuoka's natural rice-barley succession system. In
-this system, rice and barley were grown in alternating cycles on the same
+this system, [[fukuoka-rice-and-barley-natural-farming]] were grown in alternating cycles on the same
 paddy without tillage, fertilization, or pesticide application.
 
 Over many years, the rice plants that survived and thrived under these
@@ -38,7 +38,7 @@ varieties typically lacked.
 
 ## Yield Performance
 
-Despite being developed without any formal breeding program, Happy Hill was
+Despite being developed without any formal [[cervantes-breeding-program-design-goal-setting]], Happy Hill was
 one of the highest-yielding rice strains in the world. This achievement
 directly challenged the assumption that high yields required intensive
 scientific intervention.
@@ -63,7 +63,7 @@ world-class high-yielding crop, then the entire edifice of agricultural
 science was built on a false premise.
 
 Modern breeding programs focused on narrow traits like yield, disease
-resistance, and uniformity. They sacrificed flavor, nutritional quality,
+resistance, and uniformity. They sacrificed flavor, [[coleman-winter-greens-nutritional-quality-cold-sweetening]],
 and — most importantly — the plant's ability to thrive without human
 intervention.
 
@@ -78,7 +78,7 @@ could within a few years provide seed for the entire nation.
 
 This vision of seed independence stood in stark contrast to the reality of
 modern agriculture, where farmers depended on commercial seed companies for
-each planting season. Hybrid varieties could not be saved from year to year,
+each planting season. [[cervantes-hybrid-varieties-types]] could not be saved from year to year,
 tying farmers to corporate supply chains.
 
 Happy Hill was an open-pollinated variety. Farmers could save their own seed,

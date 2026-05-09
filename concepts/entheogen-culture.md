@@ -41,10 +41,10 @@ sources:
 ## Historical Traditions
 
 ### Eleusinian Mysteries (Greece, ~1500 BCE - 392 CE)
-Annual initiation at Eleusis near Athens, running for nearly 2,000 years. Initiates reported life-changing visionary experiences. [[r-gordon-wasson]], [[albert-hofmann]], and Carl Ruck proposed in entheogen culture (1978) that the kykeon potion contained Claviceps purpurea (ergot), which contains ergotamine -- a precursor to LSD. Sophocles wrote: "Thrice happy are those who have seen these rites; to them alone is granted a true life in death."
+Annual initiation at Eleusis near Athens, running for nearly 2,000 years. Initiates reported life-changing visionary experiences. [[r-gordon-wasson]], [[albert-hofmann]], and Carl Ruck proposed in entheogen culture (1978) that the kykeon potion contained [[bloomfield-ergot-claviceps-purpurea-ergotism]] (ergot), which contains ergotamine -- a precursor to LSD. Sophocles wrote: "Thrice happy are those who have seen these rites; to them alone is granted a true life in death."
 
 ### Soma / Haoma (Vedic India / Zoroastrian Persia)
-Central sacrament of Vedic religion, praised in 120+ hymns of the Rig Veda. Soma was "pressed" from a plant, consumed in ritual, and produced divine visions. [[r-gordon-wasson]] proposed Amanita muscaria as Soma (1968). [[terence-mckenna]] and others have proposed Stropharia cubensis or Peganum harmala as alternatives. See [[amanita-muscaria-guide]].
+Central sacrament of Vedic religion, praised in 120+ hymns of the Rig Veda. Soma was "pressed" from a plant, consumed in ritual, and produced divine visions. [[r-gordon-wasson]] proposed Amanita muscaria as Soma (1968). [[terence-mckenna]] and others have proposed Stropharia cubensis or [[mckenna-food-gods-peganum-harmala-soma]] as alternatives. See [[amanita-muscaria-guide]].
 
 ### Mesoamerican Mushroom Cults (Mexico, pre-Columbian)
 Aztec "Teonanacatl" (flesh of the gods), Mazatec velada ceremonies. Documented by 16th-century Spanish friars who called them diabolical. Rediscovered by [[r-gordon-wasson]] in 1955 when he participated in a ceremony led by Maria Sabina. This discovery triggered the modern psychedelic era. See [[psychedelic-mushroom-history]].
@@ -58,62 +58,14 @@ The preparation follows strict protocols documented by [[pablo-amaringo]]: three
 Lophophora williamsii used in ceremonies of the Native American Church (formally incorporated 1918). Mescaline-containing cactus (~1.5% dry weight), used for healing, prayer, and communal bonding. Protected as religious practice under the American Indian Religious Freedom Act (1978, amended 1994). The NAC has approximately 300,000 members, making it the largest Native American faith. Ceremonies are led by a "Road Man" in a tipi with all-night singing of peyote songs around a central fire. See [[psychoactive-cacti-guide]].
 
 ### San Pedro / Peruvian Torch (South America)
-Echinopsis pachanoi and E. peruvianus, mescaline-containing columnar cacti used traditionally by Andean curanderos as "cimora" for healing and divination. Common ornamental plants, widely sold in garden shops. See [[psychoactive-cacti-guide]].
+Echinopsis pachanoi and E. peruvianus, mescaline-containing columnar cacti used traditionally by Andean curanderos as "cimora" for [[metzner-shamanic-healing-and-divination-paradigm]]. Common ornamental plants, widely sold in garden shops. See [[psychoactive-cacti-guide]].
 
 ### Bwiti Iboga (Central Africa)
 Tabernanthe iboga root used in initiation rites of the Bwiti religion in Gabon. Ibogaine produces extended oneiric states and has anti-addictive properties. Bwiti practitioners undergo multi-day initiation involving high doses.
 
-### Christian Eucharist / Near Eastern Fertility Cults
-[[john-allegro]] argued in "The Sacred Mushroom and the Cross" (1970) that Judaism and Christianity emerged from ancient Near Eastern fertility cults using Amanita muscaria as sacrament. [[james-arthur]] extended this thesis in "Mushrooms and Mankind," tracing mushroom symbolism through Christmas traditions, the Holy Grail, the Eucharist, and world mythology. While Allegro's specific claims are contested, the broader question of psychoactive plants in early religion remains open. See [[mushrooms-and-mankind]].
-
-### Amazonian Ayahuasca Tourism
-
-Ayahuasca tourism has become a significant industry in the Amazon, particularly in Peru's Ucayali region. Westerners seeking spiritual alternatives to Judeo-Christian traditions have created a growing market for guided ayahuasca ceremonies.
-
-**The tourism landscape** (Stuart 2002, Ucayali Peru):
-- Almost every shaman claims to be the only person in Amazonia who knows how to properly brew ayahuasca — making it extremely difficult for tourists to identify authentic practitioners
-- Operations range from indigenous community lodges to commercial retreat centers charging thousands of dollars per week
-- Peruvians regard ayahuasca as an herbal tonic rather than an illegal drug, though the American ayahuasquero Alan Shoemaker was briefly imprisoned in Peru for distribution
-- The drug war in Peru creates a paradox: cocaine traffickers regularly close roads while ayahuasca is openly consumed
-
-**Religious dynamics**: Pentecostal, Adventist, and Catholic missionaries have gained many converts in indigenous communities. While they publicly disavow shamanism, some converts privately continue ayahuasca consumption and native religious practices. Ayahuasca has also become popular among mestizos.
-
-**Safety and ethical concerns**:
-- Inadequate screening for contraindicated medications (SSRIs, MAOIs) — potentially fatal serotonin syndrome
-- The physical demands of purging (vomiting, diarrhea) in tropical conditions
-- Psychological intensity can trigger latent mental health conditions
-- Cultural appropriation: some centers work respectfully with indigenous traditions, others cater to Western spiritual seekers with minimal connection to authentic practice
-- Every shaman claims exclusive authenticity, making it nearly impossible for visitors to distinguish genuine practitioners from opportunists
-- [[richard-evans-schultes-updated]] documented the original indigenous practices; the modern tourism industry has created a syncretic form blending indigenous, Christian, and New Age elements
-
-**Historical context**: Western spiritual seekers have cycled through traditions decade by decade — Zen (1950s), Hindu swamis (1960s), cult leaders (1970s), Tibetan lamas (1980s), shamanism (1990s) — with ayahuasca tourism being the current manifestation. See [[ayahuasca-visions]] for the indigenous tradition and [[ayahuasca-preparation]] for the traditional brewing method.
-
-## Modern Entheogenic Movement
-
-- **Religious exemptions:** Native American Church (peyote), União do Vegetal and Santo Daime (ayahuasca) have won legal religious-use protections in the US and other countries.
-- **Psychedelic therapy renaissance:** Clinical trials at Johns Hopkins, Imperial College, UBC, and elsewhere are demonstrating therapeutic efficacy for depression, PTSD, addiction, and end-of-life anxiety.
-- **Integration practices:** Growing movement of psychedelic integration therapists, guides, and community circles helping people process entheogenic experiences.
-- **Microdosing:** Regular sub-perceptual doses of psilocybin or LSD, claimed to enhance creativity, mood, and focus. Research ongoing.
-
-## Key Principles
-
-- **Set and Setting:** [[timothy-leary]] formalized that mindset (set) and environment (setting) determine outcomes more than dose or substance.
-- **Intention and preparation:** Traditional entheogenic use always involves ceremonial preparation, fasting, purification, and clear intention -- not casual recreation.
-- **Integration:** The real value of entheogenic experience comes from how it is integrated into daily life afterward.
-
-
-## Shamanism as Phenomenological Technique (McKenna, 1983)
-
-McKenna's Esalen lecture provides a distinctive view of shamanism:
-- **Shamanism is techniques, not ritual:** A set of methods refined over millennia for exploring consciousness — not primarily a religious or ceremonial practice
-- **Recognition of shamans:** In archaic societies, signs include epilepsy, surviving near-death experiences, being struck by lightning, or unusual hypersensitivity to trance states
-- **Intellectual sophistication:** Despite being called "primitive," shamans are "the true phenomenologists of this world" — they know plant chemistry and ecology, using "spirit" as a technical gloss comparable to "charm" in quantum physics
-- **Social position:** Shamans sit at the headman's side in councils but return to huts at the village edge; they have no political power because they are sacred. Called upon for illness, psychological difficulty, weather prediction, marital quarrels, theft
-- **The "black hole effect" of DMT:** Like a black hole curving space so no information can escape, the DMT experience creates a communication barrier — the more one articulates it, the less others understand. McKenna suggests this explains why enlightened figures are traditionally silent
-- **Borges reference:** "The Sect of the Phoenix" describes a secret rite that is "trivial, momentary, requires no description" yet is sacred, transmitted across all human cultures. McKenna connects this to the tryptamine ecstasy experience
-- **Modern context:** "The tragedy of our cultural situation is that we have no shamanic tradition" — Western societies lack the institutional framework to train and support consciousness explorers
-
 ## See Also
+
+- [[capoeira]]
 
 - [[psychedelic-mushroom-history]] for the historical timeline
 - [[psychedelic-compounds-reference]] for substance details
@@ -123,14 +75,13 @@ McKenna's Esalen lecture provides a distinctive view of shamanism:
 - [[ralph-metzner]] for the scholarly bridge between Eastern and Western consciousness traditions
 - [[richard-evans-schultes-updated]] for the father of ethnobotany
 
-
 See also: [[jonathan-ott]] — ethnobotanist who co-coined 'entheogen' and authored Pharmacotheon.
 
 ## Related
 
 - [[andy-letcher]]
 - [[cannabis-spiritual-ritual-use]]
-- [[maria-sabina-and-mazatec-mushroom-ceremony]]
+- [[maria-sabina-mazatec-mushroom-ceremony]]
 - [[ayahuasca-preparation]]
 - [[iboga-tabernanthe]]
 - [[dm-turner]]
@@ -150,7 +101,7 @@ The most common class. All share the indole nucleus — a structural similarity 
 - **Ibogaine alkaloids:** Ibogaine (Tabernanthe iboga)
 
 ### Phenylethylamines
-- **Mescaline** (peyote, San Pedro cactus) — shares a structural relationship with the neurohormone norepinephrine
+- **Mescaline** (peyote, San Pedro cactus) — shares a [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] with the neurohormone norepinephrine
 
 ### Tropane Alkaloids
 - **Scopolamine, hyoscyamine, atropine** (Datura species, Belladonna, Henbane, Mandrake) — anticholinergic; cause visual hallucinations, dry mouth, dilated pupils. Scopolamine is also used medically as an antispasmodic and antisecretory agent. The nightshade family (Solanaceae) is the primary source.
@@ -176,7 +127,7 @@ A striking asymmetry exists: the New World (Americas) has 90+ species used as ha
 - **Peganum harmala (Syrian Rue)** — Mediterranean to northern India; harmine/harmaline
 - **Atropa belladonna** — Europe; witches' brews; name means "beautiful lady" (pupil-dilating cosmetic use)
 - **Hyoscyamus niger (Henbane)** — Europe; medieval witches' brews; sedative and anodyne
-- **Mandragora officinarum (Mandrake)** — Mediterranean to Himalayas; Doctrine of Signatures (man-shaped root); panacea in medieval European folklore
+- **[[mandrake-mandragora-officinarum-in-european-folklore]] (Mandrake)** — Mediterranean to Himalayas; Doctrine of Signatures (man-shaped root); panacea in medieval European folklore
 - **Datura metel** — India; Oracle of Delphi possibly attributed to this species; mixed with cannabis and smoked across Asia
 - **Tabernanthe iboga** — Gabon/Congo; Bwiti cult initiation; ibogaine
 - **Lagochilus inebrians (Turkestan Mint)** — Central Asian steppes; lagochiline diterpene
@@ -186,7 +137,7 @@ A striking asymmetry exists: the New World (Americas) has 90+ species used as ha
 - **Lycoperdon mixtecorum / L. marginotum (Puffballs)** — Mixtec Indians of Oaxaca; auditory hallucinogens; "fungus of the first/second quality"
 - **Acorus calamus (Sweet Flag)** — Northern Canada; visual hallucinations from excessive doses; α/β-asarone
 - **Virola species** — NW Amazon; bark resin snuff (yakee/epena) with up to 8% tryptamines (mainly 5-MeO-DMT); also used as arrow poison
-- **Anadenanthera peregrina (Yopo/Cohoba)** — Orinoco basin; snuff of roasted seed pods containing DMT, 5-MeO-DMT, and bufotenine
+- **[[yopo-anadenanthera-peregrina-snuff]] (Yopo/Cohoba)** — Orinoco basin; snuff of roasted seed pods containing DMT, 5-MeO-DMT, and bufotenine
 - **Heimia salicifolia (Sinicuichi)** — Central Mexico; auditory hallucinogen; "voices from a distance"; cryogenine/vertine
 - **Trichocereus pachanoi (San Pedro)** — Andes of Peru/Ecuador/Bolivia; mescaline-containing cactus; cimora drink; connected to moon mythology
 - **Methysticodendron amesianum (Culebra Borrachero)** — Sibundoy, Colombia; tree known only from cultivation; 80% scopolamine; "most narcotic conscious area of the New World"
@@ -197,4 +148,3 @@ A striking asymmetry exists: the New World (Americas) has 90+ species used as ha
 Shultes documents that hallucinogens permeated nearly every aspect of life in primitive societies:
 - **Medical:** "Medicine that can transport man to the spirit world is considered better than one with purely physical effects"
 - **Initiation:** Algonquin wysoccan (Datura) caused 20 days of violent derangement and memory loss as a boy-to-manhood transition; Bwiti cult iboga initiation in Gabon
-- **Divination/prophecy:** Ayahuasca for foreseeing future, settling disputes, deciphering enemy plans; Mazatec mushroom veladas for diagnosis and curing

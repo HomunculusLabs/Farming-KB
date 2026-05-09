@@ -1,5 +1,5 @@
 ---
-title: "Compost Tea vs Fermented Plant Extract"
+title: "Compost Tea vs comparison-fermented-plant-extract-vs-compost-tea"
 created: 2026-04-28
 tags: [comparison, liquid-fertility, soil-biology, organic-growing]
 date: 2026-04-25
@@ -14,7 +14,7 @@ type: comparison
 ## Overview
 
 Compost tea and fermented plant extract (FPE) are two popular liquid biological
-amendments in organic and natural farming systems, but they originate from
+amendments in organic and [[comparison-natural-farming-vs-permaculture]] systems, but they originate from
 different traditions, deliver different benefits, and require different
 production methods. Compost tea — specifically Actively Aerated Compost Tea
 (AACT) — extracts and multiplies the [[korean-natural-farming]]) uses sugar fermentation to
@@ -28,10 +28,10 @@ building soil and plant health through biological means.
 
 Fermented Plant Extract (FPE) is a core Korean Natural Farming (KNF) input made
 by fermenting fresh plant material with brown sugar at a 1:1 weight ratio. Two
-main types exist: Fermented Plant Juice (FPJ) made from growing tips of
+main types exist: [[bionutrients-lab-fermented-plant-juice-fpj]] (FPJ) made from growing tips of
 vigorous plants, and Fermented Fruit Juice (FFJ) made from ripe fruits. The
 sugar draws moisture from the plant material through osmotic pressure,
-extracting nutrients, enzymes, plant hormones, and bioactive compounds into a
+extracting nutrients, enzymes, plant hormones, and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] into a
 liquid that ferments over seven to fourteen days. The finished extract stores
 for six to twelve months and is applied diluted as a foliar spray or soil
 drench.
@@ -52,7 +52,7 @@ selection, harvest timing (plants must be harvested at dawn for peak sugar
 content), and fermentation conditions. Not all plants produce useful extracts —
 high-sugar fruits and some medicinal plants like ginseng and strawberry produce
 poor-quality FPJ. Plant material must not be washed before fermentation because
-indigenous microorganisms on the leaf surface drive the fermentation process,
+[[beneficial-indigenous-microorganisms-bim]] on the leaf surface drive the fermentation process,
 which conflicts with food safety intuitions. The approach is primarily empirical
 — it works in practice but the mechanisms are not fully characterized.
 
@@ -66,7 +66,7 @@ which conflicts with food safety intuitions. The approach is primarily empirical
 | Shelf life | 4-6 hours (use immediately) | 6-12 months |
 | Equipment | Air pump, brewing vessel, DO meter | Container, sugar, plant material |
 | Microbial diversity | Full soil food web (bacteria, fungi, protozoa, nematodes) | Indigenous plant surface microbes |
-| Customization | Bacterial vs fungal dominance | Plant-specific properties, growth stage matching |
+| Customization | [[comparison-soil-food-web-vs-bacterial-vs-fungal-soil]] dominance | Plant-specific properties, growth stage matching |
 | Scientific validation | Extensive research base | Primarily empirical |
 | Application timing | Any time during growing season | Growth stage-specific (FPJ vegetative, FFJ reproductive) |
 | Cost per application | Moderate (compost, amendments, energy for aeration) | Very low (free plant material, sugar) |

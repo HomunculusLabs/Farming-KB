@@ -1,5 +1,5 @@
 ---
-title: "Non-Ligninolytic Fungi in PAH Biodegradation"
+title: "Non-Ligninolytic Fungi in singh-pah-biodegradation-fungi-soils-bioreactors"
 created: 2026-04-28
 tags: [bioremediation, pah, fungal-metabolism, cytochrome-p450, environmental-microbiology]
 date: 2026-04-25
@@ -14,7 +14,7 @@ type: concept
 
 The vast majority of fungi grow on substrates other than wood and do not
 produce extracellular lignin peroxidases. However, many of these non-
-ligninolytic fungi have been found to metabolize polycyclic aromatic
+ligninolytic fungi have been found to metabolize [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]]
 hydrocarbons (PAHs). Most non-ligninolytic fungi are unable to use PAHs
 as sources of carbon or energy, but they may co-metabolize them while
 growing on other substrates. Although this process does not enhance fungal
@@ -64,14 +64,14 @@ substrates, and they can co-metabolize PAHs without requiring the
 complex nutrient conditions needed by white rot fungi. However, since
 most non-ligninolytic fungi do not cleave aromatic rings of PAHs, their
 primary role is biotransformation rather than mineralization. The
-resulting conjugates may bind to soil organic matter, effectively
-sequestering PAH metabolites.
+resulting conjugates may bind to soil [[hamilton-composting-and-organic-matter-management]], effectively
+sequestering [[singh-fungal-pah-metabolites-mutagenicity]].
 
 ## Interactions with Other Organisms
 
-Ectomycorrhizal fungi including strains of Amanita, Leccinum, and
+[[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] including strains of Amanita, Leccinum, and
 Suillus are able to degrade phenanthrene, pyrene, chrysene, and
-benzo[a]pyrene. The arbuscular mycorrhizal fungus [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]]
+benzo[a]pyrene. The [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungus [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]]
 - [[staycare-bjerkandera-and-pleurotus-in-pollutant-degradation]]
 - [[staycare-laccase-enzymes-in-bioremediation]]
 ## Practical Considerations
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

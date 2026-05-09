@@ -1,20 +1,21 @@
 ---
-title: Medicinal Mushroom Health Benefits
+title: gourmet-medicinal-mushroom-casing-layer-techniques Health Benefits
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [medicinal-mushrooms, fungi, mycology, health, immunology, beta-glucans, reishi, turkey-tail, maitake, chaga, lions-mane]
-sources: [raw/papers/mycelium-running-stamets.md, raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # Medicinal Mushroom Health Benefits
 
-Medicinal mushrooms have been used for thousands of years in Traditional Chinese Medicine and are now the subject of intensive biomedical research. Their health benefits derive primarily from polysaccharides (especially beta-glucans), triterpenes, and other bioactive compounds.
+[[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] have been used for thousands of years in Traditional Chinese Medicine and are now the subject of intensive biomedical research. Their health benefits derive primarily from polysaccharides (especially beta-glucans), triterpenes, and other [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]].
 
 ## Key Medicinal Compounds
 
 ### Beta-Glucans
-Long-chain polysaccharides found in mushroom cell walls that modulate the immune system. They activate macrophages, natural killer cells, and T-cells, enhancing the body's ability to fight infections and cancer. Beta-glucans are the most studied medicinal mushroom compounds and are the basis for many pharmaceutical preparations.
+Long-chain polysaccharides found in mushroom cell walls that modulate the immune system. They activate macrophages, natural killer cells, and T-cells, enhancing the body's ability to fight infections and cancer. Beta-glucans are the most studied medicinal [[medicinal-mushroom-compounds-and-health-benefits]] and are the basis for many pharmaceutical preparations.
 
 ### Triterpenes
 Found primarily in Ganoderma (reishi) species. These compounds have anti-inflammatory, antihistamine, and liver-protective properties. They contribute to reishi's bitter taste.
@@ -42,7 +43,7 @@ An extremely rare old-growth forest polypore documented in the historical medica
 ## Preparation Methods
 
 - **Hot water extraction**: Best for extracting beta-glucans and polysaccharides
-- **Alcohol extraction**: Best for extracting triterpenes and other non-water-soluble compounds
+- **[[pf-tek-alcohol-extraction-method]]**: Best for extracting triterpenes and other non-water-soluble compounds
 - **Dual extraction**: Combines both methods for full-spectrum extracts
 - **Decoction (tea)**: Traditional method; simmer sliced or powdered mushroom in water
 - **Tinctures**: Alcohol-based liquid extracts
@@ -68,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

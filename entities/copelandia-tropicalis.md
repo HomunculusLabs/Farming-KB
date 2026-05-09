@@ -6,7 +6,8 @@ tags: [fungi, copelandia, panaeolus, psychedelic, tropical, pantropical, coproph
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
   - "/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-&-gartz.md"
 ---
 # Copelandia tropicalis [[panaeolus-tropicalis-cultivation-differences]]) is a small, potently
@@ -30,16 +31,16 @@ to Copelandia by Singer and Weeks, it is pantropical: guzman-allen-gartz-neurotr
 | Pleurocystidia | 45-58 (160) × 10-13 (14) µm |
 
 The internally granulated spores are the key diagnostic feature Ola'h
-(1969) used to delimit this species from Panaeolus cyanescens.
+(1969) used to delimit this species from [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]].
 
 ## Distribution and Habitat
 
-Copelandia tropicalis has a wide pantropical distribution:
+Copelandia tropicalis has a wide [[copelandia-cyanescens-pantropical-distribution-and-ecology]]:
 - **Hawaii:** Oláh (1968, 1970), Stamets (1978, 1996), Weeks et al. (1979),
   Merlin & Allen (1993), Allen (1998)
-- **Southeast Asia:** Cambodia, China, Japan, Singapore, Malaysia, Bonin
+- **[[psilocybe-southeast-asia-pacific]]:** Cambodia, China, Japan, Singapore, Malaysia, Bonin
   Islands
-- **Africa:** Central Africa, Tanzania, Za [[panaeolus-subbalteatus]] | Larger, non-bluing (or weakly bluing); temperate species; different spore characteristics |
+- **Africa:** Central Africa, Tanzania, Za  | Larger, non-bluing (or weakly bluing); temperate species; different spore characteristics |
 | Panaeolus cinctulus | Temperate to subtropical; larger, with a distinct annular zone; less potent |
 | Panaeolus fimicola | Small, non-bluing, temperate; not psychoactive |
 
@@ -55,7 +56,7 @@ Panaeolus species.
 
 Copelandia tropicalis can be cultivated on pasteurized horse or cow manure,
 similar to other dung-inhabiting Psilocybe and Panaeolus species. Requires
-warm, humid tropical conditions (25-30°C, 85-95% RH). Small fruiting body
+warm, humid tropical conditions (25-30°C, 85-95% RH). Small [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]
 size means yields per flush are lower than larger species like P. cubensis.
 
 ## Conservation Status

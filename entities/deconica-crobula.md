@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  sources: []
 ---
 
 # Deconica crobula
@@ -45,7 +45,7 @@ The taste and odor are mild and undistinguished, sometimes described as slightly
 
 ## Distribution and Habitat
 
-deconica crobula has a widespread distribution across temperate regions of the Northern Hemisphere. It has been reported from Europe, North America, and parts of Asia. The species is coprophilous or lignicolous, typically growing on herbivore dung, enriched soil, or decaying plant material in pastures, meadows, and grasslands.
+deconica crobula has a widespread distribution across temperate regions of the Northern Hemisphere. It has been reported from Europe, [[psilocybin-north-america-pacific-northwest]], and parts of Asia. The species is coprophilous or lignicolous, typically growing on herbivore dung, enriched soil, or decaying plant material in pastures, meadows, and grasslands.
 
 Fruiting occurs from late spring through autumn, typically after periods of rainfall. It is often found in the same habitats as [[psilocybe-merdaria]], both of which are also non-bluing species now placed in Deconica or related genera.
 
@@ -58,11 +58,19 @@ Unlike species retained in the genus Psilocybe, *D. crobula* does not produce [[
 - [[psilocybe-merdaria]] — coprophilous, small, non-bluing
 - [[psilocybe-fimetaria]] — coprophilous, but bruises blue and is psychoactive
 
-The key distinguishing feature is the complete absence of blue bruising on all parts of the mushroom, combined with microscopic examination of spore and cystidia characteristics.
+The key distinguishing feature is the complete absence of blue bruising on all parts of the mushroom, combined with [[fungal-microscopic-examination-mounting-media-techniques]] of spore and cystidia characteristics.
 
 ## Importance in Taxonomy
 
-*Deconica crobula* is an important species for understanding the evolution of psilocybin production in mushrooms. Its placement in Deconica rather than Psilocybe demonstrates that the morphological features once used to unite these species — dark spore prints, hygrophanous caps, and small stature — are not reliable indicators of psychoactive chemistry. The species serves as a reminder that molecular phylogenetics has fundamentally reshaped our understanding of fungal classification.
+*Deconica crobula* is an important species for understanding the evolution of [[gottlieb-psilocybin-production-extraction-methods]] in mushrooms. Its placement in Deconica rather than Psilocybe demonstrates that the morphological features once used to unite these species — dark spore prints, hygrophanous caps, and small stature — are not reliable indicators of psychoactive chemistry. The species serves as a reminder that molecular phylogenetics has fundamentally reshaped our understanding of fungal classification.
+
+## Ecological Role
+
+As a coprophilous species, Deconica crobula plays an important role in
+nutrient cycling by decomposing herbivore dung in pasture ecosystems,
+breaking down complex organic compounds and releasing nutrients for
+grasses and other plants. It is an early colonizer of fresh dung,
+competing with other coprophilous fungi for substrate access.
 
 ## Seasonality
 
@@ -70,10 +78,18 @@ The key distinguishing feature is the complete absence of blue bruising on all p
 
 ## Legal Status
 
-Not controlled, as it does not contain scheduled substances.
+Not controlled in any jurisdiction, as it does not contain psilocybin,
+psilocin, or any other scheduled psychoactive substances. The species
+can be collected, possessed, and studied without legal restriction.
+
+## Conservation Status
+
+Deconica crobula has not been formally evaluated for conservation
+status. It appears to be widespread and common across its range,
+with no known threats to its populations.
 
 ## See Also
 
 - Deconica
 - [[psilocybe-merdaria]]
-- [[psilocybin-mushrooms-of-the-world-genus-overview]]
+- psilocybin-mushrooms-of-the-world-genus-overview

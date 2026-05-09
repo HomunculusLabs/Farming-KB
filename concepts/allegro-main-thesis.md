@@ -1,5 +1,5 @@
 ---
-title: Allegro's Main Thesis - Christianity and Amanita muscaria
+title: Allegro's Main Thesis - Christianity and allegro-amanita-muscaria-properties-and-pharmacology
 created: 2026-04-26
 updated: 2026-04-24
 type: concept
@@ -17,11 +17,11 @@ witnessed by cuneiform texts dating from the fourth millennium BC. He proposed
 that Sumerian provides a philological bridge between the Indo-European languages
 (Greek, Latin) and the Semitic group (Hebrew, Aramaic), making it possible to
 decipher the names of gods, mythological characters, and plant names across the
-entire ancient Near East.
+entire [[allegro-fertility-philosophy-of-the-ancient-near-east]] East.
 
-The fungus recognized today as the [[allegro-fertility-philosophy-of-the-ancient-near-east]]: since rain makes crops grow, the ancients reasoned it must
+The fungus recognized today as the [[allegro-fertility-philosophy-of-the-ancient-near-east]]: since rain makes [[fukuoka-textdoc-crops-grow-own-accord-independence-fertilizer]], the ancients reasoned it must
 contain the seed of life -- spermatozoa. Rain was thus heavenly semen, the
-all-powerful creator God. The sacred mushroom was the most concentrated form of
+all-powerful creator God. The [[allegro-the-sacred-mushroom-amanita-identification]] was the most concentrated form of
 this divine substance on earth.
 
 ## Christianity as Cryptogram
@@ -34,8 +34,8 @@ identified three levels of meaning:
 1. **Surface level**: Greek words in their plain meaning, presenting the story
    of Jesus and his adventures.
 2. **Semitic level**: Word-plays on Aramaic words underlying the Greek text,
-   revealing secret mushroom names.
-3. **Cultic level**: The fundamental conceptions of the mushroom cult, the
+   revealing secret [[sacred-mushroom-names-cross-cultural-synonyms]].
+3. **Cultic level**: The fundamental conceptions of the [[african-mushroom-cult-history]], the
    real philosophy behind the mystery religion.
 
 The names of Jesus himself, Peter, John, James, and other New Testament
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

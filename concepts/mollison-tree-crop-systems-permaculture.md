@@ -23,11 +23,11 @@ grains for human food, just as tree crops can largely supplant grains
 for animal forage. The energy savings of both strategies are obvious
 and necessary. Trees provide multiple yields simultaneously: food,
 fodder, fuel, timber, soil protection, water regulation, microclimate
-modification, and habitat for beneficial species.
+modification, and [[query-how-do-i-design-habitat-for-beneficial-insects]] species.
 
 St. Barbe-Baker asserts that where 22% of land is planted to
 productive trees, yields double on the remaining 78% of land surface,
-so that no yields are lost by farm forestry and the gains depend on
+so that no yields are lost by [[mollison-farm-forestry-and-woodlot-design]] and the gains depend on
 design planning. If such systems were evolved on a broad scale, the
 extremes of drought and flood would also be modified by the forests.
 
@@ -42,7 +42,7 @@ drought) and midwinter (due to cold and slow growth).
 Tree-crop infills can level out forage production to approximate
 stock needs year-round:
 
-- **Midsummer feed:** Carob and honey locust pods, foliage of
+- **Midsummer feed:** Carob and [[permaculture-honey-locust-pod-fodder-system]] pods, foliage of
   Coprosma, pampas grass, and Chaetocystis
 - **Autumn/winter feed:** The same foliage plants plus oaks,
   chestnut, and black walnut
@@ -82,7 +82,7 @@ For large properties (20 hectares or more), marginal areas -- steep,
 stony, eroded, or awkward corners -- can be fenced out with minimal
 productivity loss for the development of a rolling permaculture. The
 first narrow or nuclear plantings should contain many species in
-almost random assembly, fairly thickly planted so that thinnings are
+almost [[hemenway-random-assembly-design-technique]], fairly thickly planted so that thinnings are
 available for pole timbers.
 
 The rolling permaculture provides: a sheltered nesting, lambing, or
@@ -112,7 +112,7 @@ chestnut, black walnut, kurrajong, willow, poplar
 lobatum), banana passionfruit (frost-resistant, trellised on eucalypt)
 
 **Forage roots:** Nut-grass (Eleocharis), sour-grass (Oxalis), oca,
-Jerusalem artichoke (under oak forest or poor soil)
+[[comparison-jerusalem-artichoke-vs-potato]] (under oak forest or poor soil)
 
 **Forage herb layer:** Clovers, medics, lucerne, chicory, asparagus,
 plantain, fennel
@@ -123,7 +123,7 @@ wheat, rye, barley, oats, teffi, chenopodium
 **Pulses for tree crop understory:** Chick pea, lentils, field peas,
 lab-lab, centrosema
 
-**Special poultry forage trees:** Pokeweed (for pigeons), wood
+**Special [[free-range-poultry-forage-design-mollison]] trees:** Pokeweed (for pigeons), wood
 millet, lupin, partridge berry (under pine or acid soil), Celtis
 spp., wild rye (moderate salinity)
 
@@ -138,8 +138,10 @@ disturbance are the factors that preserve the diversity-stability
 ## See Also
 
 - [[permaculture-tree-crop-systems]]
-- [[mollison-aquatic-polyculture-systems]]
+- mollison-aquatic-polyculture-systems
 - [[mollison-animal-integration-permaculture-design]]
 
 - [tree-crops](tree-crops.md)
 - [agroforestry](agroforestry.md)
+- [[jerusalem-artichoke]]
+- [[bill-mollison]]

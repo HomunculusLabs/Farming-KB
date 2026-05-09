@@ -1,7 +1,7 @@
 ---
-title: Kava vs Kratom — Cultivation, Chemistry, and Uses
+title: comparison kava vs kratom cultivation chemistry and uses — Cultivation, Chemistry, and Uses
 tags:
-  - kava-kava-chemistry|kava]]
+  - kava-kava-chemistry|kava
   - kratom
   - piper-methysticum
   - mitragyna-speciosa
@@ -34,7 +34,7 @@ sources:
 
 **Kava**: The primary concern is rare hepatotoxicity, linked to non-noble varieties, aerial parts, or poor-quality extracts. Noble kava root prepared by traditional water extraction has a strong safety record spanning millennia. Kava dermopathy (scaly skin) occurs with chronic heavy use.
 
-**Kratom**: The primary concern is opioid-like dependence and addiction potential. High-dose regular use can produce withdrawal symptoms comparable to mild opioid withdrawal. Additional concerns include rare seizures at very high doses, drug interactions (especially with CYP450-metabolized drugs), and contamination of commercial products with salmonella and synthetic adulterants.
+**Kratom**: The primary concern is opioid-like dependence and addiction potential. High-dose regular use can produce withdrawal symptoms comparable to mild opioid withdrawal. Additional concerns include rare seizures at very high doses, [[cannabis-drug-interactions-and-contraindications]] (especially with CYP450-metabolized drugs), and contamination of commercial products with salmonella and synthetic adulterants.
 
 ## Traditional and Modern Uses
 
@@ -42,13 +42,13 @@ sources:
 
 Kava is deeply embedded in Pacific Island social and ceremonial life. It serves as a social lubricant, ceremonial sacrament, conflict resolution medium, and diplomatic gift. Its use is communal, ritualized, and governed by strict protocols varying by culture.
 
-Kratom has a more utilitarian traditional profile in Southeast Asia — Thai laborers and Malaysian workers chewed fresh leaves for stamina and pain relief during long workdays. It was also used for diarrhea, cough, and as an opium substitute during periods of restriction. Kratom lacks the elaborate ceremonial framework of kava.
+Kratom has a more utilitarian traditional profile in [[psilocybe-southeast-asia-pacific]] — Thai laborers and Malaysian workers chewed fresh leaves for stamina and pain relief during long workdays. It was also used for diarrhea, cough, and as an opium substitute during periods of restriction. Kratom lacks the elaborate ceremonial framework of kava.
 
 ### Modern Applications
 
 | Use | Kava | Kratom |
 |-----|------|--------|
-| **Anxiety relief** | Excellent; well-studied; FDA-cleared clinical trials | Moderate; indirect effect at low doses |
+| **Anxiety relief** | Excellent; well-studied; FDA-cleared [[mushroom-cancer-clinical-trials-overview]] | Moderate; indirect effect at low doses |
 | **Sleep aid** | Good; promotes relaxation without heavy sedation | Good at higher doses; sedating |
 | **Pain management** | Mild; muscle relaxant properties | Strong; opioid receptor-mediated analgesia |
 | **Social relaxation** | Primary traditional and modern use | Limited; more suited to solitary use |
@@ -69,8 +69,8 @@ Kava and kratom face very different regulatory environments:
 | Scenario | Recommendation |
 |----------|---------------|
 | Social anxiety and relaxation | **Kava** — purpose-built for this; communal, safe, non-addictive |
-| Chronic pain management | **Kratom** — significantly stronger analgesic via opioid receptors |
-| Opioid harm reduction / withdrawal | **Kratom** — partial mu-agonist with demonstrated utility (use medically supervised) |
+| [[cannabis-chronic-pain-management]] management | **Kratom** — significantly stronger analgesic via opioid receptors |
+| Opioid [[adverse-effects-and-harm-reduction-psilocybin]] / withdrawal | **Kratom** — partial mu-agonist with demonstrated utility (use medically supervised) |
 | Sleep improvement | Both effective; **kava** for mild relaxation, **kratom** for stronger sedation |
 | Daytime focus and energy | **Kratom** (low dose); kava is not stimulating |
 | Long-term daily use | **Kava** — minimal tolerance and no dependence risk |

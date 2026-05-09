@@ -1,5 +1,5 @@
 ---
-title: Vermicompost and Worm Castings in Compost Tea
+title: Vermicompost and Worm Castings in comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide
 created: 2026-04-26
 tags: [vermicompost, worm-castings, compost-tea, soil-biology, ingham]
 date: 2026-04-25
@@ -11,9 +11,9 @@ type: concept
 
 # Vermicompost and Worm Castings in Compost Tea
 
-Vermicompost (worm compost) and worm castings are among the most
-valuable starting materials for [[compost-tea-aact]] for brewing methods
-- [[hot-composting-method]] for thermal compost production
+Vermicompost ([[ingham-thermal-worm-compost-comparison]]) and worm castings are among the most
+valuable starting materials for [[compost-tea-aact]] for [[compost-tea-brewing-methods-aact]]
+- [[hot-composting-method]] for [[ingham-thermal-compost-versus-worm-compost]] production
 - [[ingham-beneficial-nematodes-soil-food-web]] for nematode roles
 ## Background and Context
 
@@ -144,3 +144,6 @@ conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
 
+## See Also
+
+- [[ingham-vineyard-success-story]]

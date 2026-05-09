@@ -1,6 +1,6 @@
 ---
 
-title: Fukuoka Soil Building Method
+title: Fukuoka Soil query-how-do-i-choose-a-natural-building-method-for-my-climate
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -20,14 +20,15 @@ tags:
 - agriculture
 
 sources:
-- raw/papers/one-straw-revolution-masanobu-fukuoka.md
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 - raw/papers/masanobu-fukuoka-fukuoka.md
 - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 ---
 
 # Fukuoka Soil Building Method
 
-Masanobu Fukuoka's approach to soil fertility is radically simple: **return all organic matter to the field, grow green manure crops, and let living organisms build soil**. Over 25-40 years on his farm, he transformed hard, barren red clay into rich, dark, humus-filled earth without plowing, chemical fertilizers, or prepared compost.
+Masanobu Fukuoka's approach to soil fertility is radically simple: **return all organic matter to the field, grow green manure crops, and let [[savory-living-organisms-as-tools]] build soil**. Over 25-40 years on his farm, he transformed hard, barren red clay into rich, dark, humus-filled earth without plowing, [[cervantes-chemical-fertilizers-guide]], or prepared compost.
 
 ## The Starting Point: Barren Red Clay
 
@@ -70,7 +71,7 @@ Fukuoka's system addresses soil at three depths simultaneously:
 - White clover fixes nitrogen, suppresses weeds, retains moisture
 - Result: "The surface layer, rich in humus, has become enriched to a depth of more than four inches during these years"
 
-**Why uncut straw matters**: Agricultural scientists insisted straw must be burned (disease prevention) or chopped and plowed under. Fukuoka broadcast it whole:
+**Why uncut straw matters**: Agricultural scientists insisted straw must be burned ([[cervantes-pest-disease-prevention-overview]]) or chopped and plowed under. Fukuoka broadcast it whole:
 - "Rice straw works well as a mulch for winter grain, and the straw of winter grain works best for the rice"
 - Cross-species mulching prevents disease transmission (rice diseases don't infect barley)
 - "This is only possible with strong, healthy grain" — another reason to avoid chemical-dependent varieties
@@ -110,7 +111,7 @@ Fukuoka's system addresses soil at three depths simultaneously:
 | Year 20-25 | Surface soil transformed: "loose, dark coloured, and rich with earthworms and organic matter" |
 | Year 25+ | Soil continues improving; yields increase; "The quality of the soil improves with each season" |
 
-"Soil improvement by natural farming takes a long time." Five to ten years to build six inches of topsoil through cover crops alone. "To current economic perceptions, one disadvantage of natural farming methods is that they take too long."
+"Soil improvement by [[comparison-natural-farming-vs-permaculture]] takes a long time." Five to ten years to build six inches of topsoil through cover crops alone. "To current economic perceptions, one disadvantage of natural [[natural-farming-methods-comparison]] is that they take too long."
 
 ## The Weed Succession Principle
 
@@ -136,50 +137,6 @@ Fukuoka's innovation: "By sowing vegetable seeds of the same family as the weeds
 - **Spring**: Solanaceous vegetables
 - **Early summer**: Leguminous vegetables
 - Result: "In addition to being an effective means of controlling weeds, sowing vegetable seed among the weeds is also a powerful soil improvement technique"
-
-## Soil Quality: Natural vs. Scientific Farming
-
-Fukuoka compares 30 years of natural farming with conventional methods:
-
-| Criterion | Natural Farming | Scientific Farming |
-|-----------|----------------|-------------------|
-| Organic matter | Increasing annually | Requires constant addition |
-| Micronutrients | No deficiencies observed | Requires testing and correction |
-| Soil acidity | Self-regulating | Requires lime application |
-| Physical structure | Improving, porous | Depends on tillage |
-| Tree lifespan | 2-3x longer | Declining |
-| Labor intensity | Decreasing over time | Increasing |
-| Cost | Near zero (after setup) | Increasing |
-
-"I did not apply lime or any type of micronutrient, and yet noted no deficiencies. At no time did this ever become a problem. The constant change in the conditions of the cover crop within the orchard showed only that the soil changes constantly and that the fruit trees growing within that soil adapt constantly to such changes."
-
-## Rice Paddy Soil: The Straw Revolution
-
-For rice/barley fields, the soil building is even more direct:
-
-1. **Rice straw → barley field** (November): Rice straw decomposes over winter, feeds barley
-2. **Barley straw → rice field** (May): Barley straw decomposes over summer, feeds rice
-3. **Clover** fixes nitrogen throughout the year
-4. **Chicken manure** (200-900 lbs/quarter-acre): Applied twice per year with straw
-5. **No plowing**: "My fields may be the only ones in Japan which have not been ploughed for over twenty years, and the quality of the soil improves with each season"
-
-### Why Agricultural Science Got It Wrong
-
-Japanese agricultural scientists promoted burning rice straw to prevent rice blast disease. Fukuoka's counter-argument:
-
-1. Fresh rice straw is safe for *winter grains* (not other rice) — disease doesn't cross species
-2. By the time rice sprouts the following spring, the rice straw has completely decomposed
-3. Burning destroys irreplaceable organic matter and soil carbon
-4. "The agricultural technician has always regarded rice straw as nothing but a source of rice diseases and pests"
-5. "Whether or not we spread straw over our fields may decide the fate of our national lands"
-
-## The Philosophy Behind the Method
-
-"Soil improvement by natural farming makes use of the forces of living organisms to physically and chemically improve the soil, a process that goes hand-in-hand with the overall process of fruit growing."
-
-"Land that grows fertile over time without plowing, weeding, or chemical fertilizers represents not only an accumulation of labor and capital, but an increase in intangibles as well."
-
-"Natural farming makes use of the forces of living organisms" — the earthworms, microorganisms, fungi, and plant roots that build soil structure, cycle nutrients, and create humus. The farmer's role is to create conditions (mulch, cover crops, no disturbance) where these organisms can thrive.
 
 ## See Also
 

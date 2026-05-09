@@ -1,5 +1,5 @@
 ---
-title: 2C-D - PIHKAL Entry #23 Compound Profile
+title: 2C-D - 2c-b-pihkal-entry-20 #23 Compound Profile
 created: 2026-04-26
 updated: 2026-04-22
 sources: PIHKAL Entry #23

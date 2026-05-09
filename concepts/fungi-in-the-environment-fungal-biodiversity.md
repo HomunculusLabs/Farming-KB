@@ -1,15 +1,12 @@
 ---
-title: Fungi in the Environment - Fungal Biodiversity
+title: Fungi in the Environment - biodiversity-fungal-biodiversity-estimation-methods
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
 ---
-
-# Fungal Biodiversity
-
-Fungi exhibit remarkable developmental diversity and ecological ubiquity, yet their full biodiversity remains poorly characterized. The estimated 1.5 million fungal species (Hawksworth, 2001) represents one of the largest gaps in our cataloguing of Earth's biodiversity. [[taxonomic-impediment-fungal-species-description]] compounds the challenge. Morphological species recognition often underestimates true diversity because many genetically distinct lineages are morphologically similar or identical. Phylogenetic species recognition (PSR) using multilocus gene sequencing has revealed that morphological species typically harbour two or more cryptic species.
+# Fungal Biodiversity Fungi exhibit remarkable developmental diversity and ecological ubiquity, yet their full biodiversity remains poorly characterized. The estimated 1.5 million fungal species (Hawksworth, 2001) represents one of the largest gaps in our cataloguing of Earth's biodiversity. [[taxonomic-impediment-fungal-species-description]] compounds the challenge. Morphological species recognition often underestimates true diversity because many genetically distinct lineages are morphologically similar or identical. Phylogenetic species recognition (PSR) using multilocus gene sequencing has revealed that morphological species typically harbour two or more cryptic species.
 
 ## Soil Fungal Diversity
 
@@ -25,11 +22,11 @@ The development of high-throughput automated methods to fingerprint soil fungal 
 
 ### Multilocus Sequence Typing (MLST)
 
-Web-based [[dighton-mycorrhizal-diversity-ecosystem-function]], ecosystem variability and productivity. Higher mycorrhizal diversity is associated with greater plant productivity and ecosystem stability. This relationship has important implications for land management practices that affect mycorrhizal communities.
+Web-based [[dighton-mycorrhizal-diversity-ecosystem-function]], ecosystem variability and productivity. Higher [[dighton-mycorrhizal-diversity-ecosystem-function]] is associated with greater plant productivity and ecosystem stability. This relationship has important implications for land management practices that affect mycorrhizal communities.
 
 ### Functional Diversity
 
-[[fungal-biodiversity-in-extreme-environments]] exhibit unique diversity patterns:
+[[fungal-biodiversity-in-extreme-environments]] exhibit unique [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]:
 - **Cryptoendolithic communities**: In Antarctic rocks, fungi form part of complex microbial communities
 - **Metal-contaminated soils**: Metal-tolerant fungal species are selected for, often showing reduced diversity
 - **Salt marshes**: Specialized ascomycete communities adapted to intertidal conditions
@@ -42,8 +39,8 @@ Defining microbial communities to ascertain their diversity is complicated by th
 ## Farming Relevance
 
 Fungal biodiversity is directly relevant to agricultural productivity:
-- [[fungal-competition-antagonism-soil]] can suppress soil-borne pathogens through competitive interactions
-- Agricultural intensification tends to reduce fungal biodiversity, potentially compromising ecosystem services
+- fungal-competition-antagonism-soil can suppress soil-borne pathogens through competitive interactions
+- Agricultural intensification tends to reduce fungal biodiversity, potentially compromising [[biodiversity-of-fungi-ecosystem-services-agriculture]]
 - Conservation of fungal diversity in agricultural landscapes supports resilience to environmental change
 - Understanding local fungal diversity guides selection of effective bioinoculants
 
@@ -56,10 +53,10 @@ The recognition of cryptic species -- morphologically identical but genetically 
 Fungal biodiversity operates at multiple spatial scales:
 
 - **Alpha diversity**: Local species richness within a habitat, influenced by resource heterogeneity and microclimate
-- **Beta diversity**: Species turnover between habitats, driven by environmental gradients and dispersal limitation
+- **Beta diversity**: Species turnover between habitats, driven by environmental gradients and [[fungal-dispersal-limitation-biogeographic-barriers]]
 - **Gamma diversity**: Regional species pools, shaped by historical factors and geographic barriers
 
-Understanding these patterns is essential for predicting how fungal communities will respond to land use change, climate change, and other anthropogenic disturbances.
+Understanding these patterns is essential for predicting how fungal communities will respond to land use change, [[dighton-fungi-climate-change-feedback]], and other anthropogenic disturbances.
 
 ## See Also
 
@@ -85,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

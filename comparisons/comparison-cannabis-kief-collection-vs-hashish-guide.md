@@ -1,5 +1,5 @@
 ---
-title: "Kief Collection vs Hashish Guide"
+title: "comparison cannabis kief collection vs hashish guide vs Hashish Guide"
 created: 2026-04-28
 tags: [comparison, kief, hashish, concentrates, extraction]
 date: 2026-04-25
@@ -16,8 +16,8 @@ Kief collection and the broader hashish guide represent different levels of dept
 art of cannabis resin concentration. Kief collection is the simplest and oldest method of
 concentrating cannabis resin, relying on mechanical dry sieving to detach trichome heads
 from plant material. The hashish guide encompasses this technique and all others used to
-produce hashish, from dry sift and ice water extraction to hand-rubbed charas and various
-pressing methods. Undcannabis-kief-collectionoducers choose the right approach based on
+produce hashish, from [[green-cannabis-dry-sift-water-extraction]] and [[comparison-cannabis-ice-water-extraction-vs-hashish-guide]] to hand-rubbed charas and various
+pressing methods. Undcannabis-kief-collectionoducers [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] approach based on
 their goals, equipment, and desired final product quality.
 
 ## Kief Collection
@@ -25,7 +25,7 @@ their goals, equipment, and desired final product quality.
 comparison [[cannabis-hashish-guide]]
 
 The hashish guide is a comprehensive reference covering all aspects of hashish production,
-from trichome biology through final pressing and storage. Where kief collection focuses on
+from trichome biology through final [[hashish-binding-pressing-and-storage-techniques]]. Where kief collection focuses on
 a single mechanical technique, the hashish guide covers every major method of separating
 and processing cannabis resin: dry sift, ice water extraction, hand-rubbed charas, and
 various pressing approaches, each with distinct equipment needs, quality characteristics,

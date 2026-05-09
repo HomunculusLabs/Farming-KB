@@ -11,7 +11,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dy
 # Blumeria graminis
 
 Blumeria graminis is an obligate biotrophic ascomycete fungus that
-causes powdery mildew disease on cereal crops and grasses. It is one
+causes [[cervantes-powdery-mildew-prevention-treatment]] disease on cereal crops and grasses. It is one
 of the most significant foliar pathogens of temperate cereals
 worldwide, causing substantial yield losses in wheat, barley, and
 other grasses.
@@ -42,7 +42,7 @@ non-host cereals, reflecting co-evolutionary arms races.
 B. graminis infects through a series of developmental stages: conidial
 germination on leaf surfaces, appressorium formation (a specialized
 infection structure with adhesive layer), host penetration through
-combined turgor pressure and enzymatic activity, haustorium formation
+combined [[bloomfield-turgor-pressure-and-hyphal-invasion]] and enzymatic activity, haustorium formation
 inside host cells for nutrient absorption, and colony development
 producing chains of conidia.
 
@@ -74,7 +74,7 @@ Metallothioneins are stress-responsive metal-binding proteins that may
 protect fungal cells from reactive oxygen species produced by host
 defense responses. The conservation of these expression patterns
 across ecologically diverse fungi suggests fundamental requirements
-for stress tolerance during host penetration.
+for [[fungal-lichen-stress-tolerance-and-poikilohydry]] during host penetration.
 
 ## Transcriptomics
 
@@ -97,19 +97,19 @@ Comparative gene expression studies between B. graminis, Magnaporthe grisea, and
 
 The obligate biotrophic nature of B. graminis means it cannot be grown in pure culture, complicating genetic manipulation and functional studies. However, the availability of host-induced gene expression data and partial genome sequences has enabled significant progress in understanding its molecular biology despite this limitation.
 
-Powdery mildew management relies heavily on fungicide applications, though resistance to commonly used fungicides has emerged in many populations. The development of durable resistant cultivars through conventional breeding and molecular approaches remains a major goal of cereal improvement programs worldwide.
+Powdery mildew management relies heavily on fungicide applications, though resistance to commonly used fungicides has emerged in many populations. The development of durable resistant cultivars through conventional breeding and [[staycare-molecular-approaches-fungal-bioremediation]] remains a major goal of cereal improvement programs worldwide.
 
 The haustoria of B. graminis are specialized feeding structures that develop inside living host cells without killing them. Each haustorium is enveloped by the host extrahaustorial membrane, a modified plant plasma membrane that mediates nutrient transfer from host to pathogen. The biotrophic interface established by haustoria is essential for fungal nutrition during the extended period of surface colony growth.
 
 The white powdery appearance of B. graminis colonies on leaf surfaces is caused by the prolific production of conidial chains. These conidia are easily dislodged and dispersed by wind, enabling rapid epidemic development across fields and regions. A single colony can produce thousands of conidia per day under favorable environmental conditions of moderate temperature and high humidity.
 
-Molecular studies have identified numerous effector proteins secreted by B. graminis during host colonization. These effectors suppress plant immune responses including the hypersensitive response and pathogen-associated molecular pattern-triggered immunity, allowing the fungus to maintain its biotrophic relationship with living host cells.
+Molecular studies have identified numerous effector proteins secreted by B. graminis during host colonization. These effectors suppress plant immune responses including the [[bloomfield-plant-hypersensitive-response-rust-arms-race]] and pathogen-associated molecular pattern-triggered immunity, allowing the fungus to maintain its biotrophic relationship with living host cells.
 
 Genome sequencing of B. graminis f. sp. hordei has revealed a compact genome with approximately 6,500 protein-coding genes, many of which encode candidate effector proteins. Comparative genomics between different forma speciales has identified genes underlying host specialization and the molecular basis of the non-host resistance that prevents cross-infection between cereal species.
 
 The economic impact of powdery mildew extends beyond direct yield losses. Fungicide applications against B. graminis represent a significant proportion of cereal production costs in many temperate regions. The development of fungicide-resistant populations has necessitated rotation of fungicide modes of action and increased interest in durable genetic resistance.
 
-The study of B. graminis has contributed significantly to plant pathology and our understanding of obligate biotrophic plant-pathogen interactions. As a model for cereal-pathogen interactions, it continues to be a focus of research aimed at developing sustainable disease management strategies for global food security.
+The study of B. graminis has contributed significantly to plant pathology and our understanding of obligate biotrophic plant-pathogen interactions. As a model for cereal-pathogen interactions, it continues to be a focus of research aimed at developing sustainable [[plant-disease-management-solomon]] strategies for global food security.
 
 The haustorium-mediated nutrient uptake strategy of B. graminis represents a sophisticated evolutionary adaptation to the biotrophic lifestyle, enabling sustained extraction of nutrients from living host cells without triggering cell death responses that would terminate the infection.
 

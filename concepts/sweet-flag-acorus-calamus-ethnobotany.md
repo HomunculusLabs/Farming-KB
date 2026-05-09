@@ -1,5 +1,5 @@
 ---
-title: Sweet Flag (Acorus calamus) Ethnobotany
+title: Sweet Flag (sweet flag acorus calamus ethnobotany) Ethnobotany
 created: 2026-04-28
 tags: [ethnobotany, hallucinogenic-plants, medicinal-plants, araceae, ethnopharmacology]
 date: 2026-04-25
@@ -53,7 +53,7 @@ digestive complaints. In traditional Chinese medicine, the dried rhizome
 European herbalists valued sweet flag as a strengthening tonic and digestive
 aid. The plant was commonly grown in monastery gardens during the Middle Ages
 and was one of the most important medicinal herbs in the European herbal
-tradition. Native American tribes used it variously as a tonic, stimulant, and
+tradition. [[halpern-sacramental-peyote-and-native-american-church]] tribes used it variously as a tonic, stimulant, and
 ceremonial plant, with different tribes employing different parts and
 preparations.
 
@@ -62,7 +62,7 @@ preparations.
 The intoxicating properties of sweet flag are believed to be primarily due to
 two related compounds: alpha-asarone and beta-asarone. These phenylpropanoid
 compounds are found in the essential oil of the rhizome. However, the
-chemistry and pharmacology of the plant remain poorly understood, and the
+[[psilocybin-psilocin-chemistry-and-pharmacology-emcdda]] of the plant remain poorly understood, and the
 relationship between specific constituents and psychoactive effects has not
 been fully elucidated.
 
@@ -70,13 +70,13 @@ The asarone content varies significantly depending on the botanical variety
 and geographic origin of the plant. Asian varieties of Acorus calamus
 typically contain higher levels of beta-asarone, which has raised safety
 concerns because beta-asarone has shown carcinogenic potential in animal
-studies. North American varieties (sometimes classified as Acorus americanus)
+studies. [[growing-gourmet-north-american-reishi-species]] varieties (sometimes classified as Acorus americanus)
 are generally tetraploid and contain little or no beta-asarone, relying
 instead on alpha-asarone and other essential oil constituents.
 
 The essential oil of sweet flag contains numerous additional compounds
 including eugenol, methyl eugenol, camphor, and various sesquiterpenes. The
-complex chemistry of the plant may contribute to entourage effects similar to
+complex chemistry of the plant may contribute to [[beta-caryophyllene-entourage-effects-cannabis]] similar to
 those observed in other psychoactive plants where multiple compounds act
 synergistically.
 
@@ -95,5 +95,5 @@ essential.
 - [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]]
 
 [[anticholinergic-hallucinogenic-plants]] describes plants with similarly ambiguous boundaries between medicinal and psychoactive use.
-[[tree-daturas-brugmansia-south-american-ethnobotany]] explores South American ethnobotanical traditions parallel to the Northern Hemisphere sweet flag usage.
+[[tree-daturas-brugmansia-south-american-ethnobotany]] explores [[chiric-caspi-brunfelsia-south-american-hallucinogen]] ethnobotanical traditions parallel to the Northern Hemisphere sweet flag usage.
 [[tryptamine-hallucinogens-and-consciousness]] provides pharmacological context for understanding mild psychoactive plant effects like those of sweet flag.

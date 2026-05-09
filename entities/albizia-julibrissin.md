@@ -14,7 +14,7 @@ sources:
   - Duke, J.A. & Ayensu, E.S. (1985). "Medicinal Plants of China." Reference Publications.
   - Li, J.X. et al. (2013). "A Review of the Phytochemistry and Pharmacology of Albizia Species." Journal of Ethnopharmacology 149(3): 815–828.
   - Zheng, Q. et al. (2013). "Albizia julibrissin: Phytochemistry, Pharmacology, and Traditional Uses." Evidence-Based Complementary and Alternative Medicine 2013: 1–10.
-  - USDA Forest Service. "Silvics of North America: Albizia julibrissin." (1990).
+  - USDA Forest Service. "Silvics of [[psilocybin-north-america-pacific-northwest]]: Albizia julibrissin." (1990).
 ---
 
 ## Overview
@@ -23,7 +23,7 @@ Albizia julibrissin, commonly known as the Persian silk tree, pink silk tree, or
 
 In traditional Chinese medicine (TCM), the dried bark (Albiziae Cortex, he huan pi) and flowers (Albiziae Flos, he huan hua) have been used for centuries as sedatives, anxiolytics, and antidepressants. Modern pharmacological research has partially validated these traditional uses through the identification of saponin, flavonoid, and alkaloid constituents.
 
-The tree has become naturalized in many temperate and subtropical regions worldwide, including the southeastern United States, where it is both appreciated as an ornamental and regarded as an invasive species in some contexts. Its rapid growth, nitrogen-fixing capability, and drought tolerance make it a candidate for permaculture and agroforestry applications.
+The tree has become naturalized in many temperate and subtropical regions worldwide, including the southeastern United States, where it is both appreciated as an ornamental and regarded as an invasive species in some contexts. Its rapid growth, nitrogen-fixing capability, and [[dighton-fungal-drought-tolerance-plant-water-relations]] make it a candidate for permaculture and agroforestry applications.
 
 The genus name honors Filippo degli Albizzi, an 18th-century Italian nobleman who introduced the species to European horticulture. The specific epithet *julibrissin* is a corruption of the Persian *gul-i-abrisham*, meaning "silk flower."
 
@@ -57,13 +57,13 @@ The species has been widely planted as an ornamental across temperate and subtro
 
 It thrives in full sun to partial shade on a wide range of well-drained soils, including sandy, loamy, and clay substrates. The tree is drought-tolerant once established and tolerates urban conditions including air pollution and compacted soils, contributing to its popularity as a street and garden tree.
 
-In the southeastern United States, A. julibrissin is listed as invasive in several states due to its prolific seed production, rapid growth, and ability to form dense thickets that displace native vegetation. It readily colonizes disturbed sites, roadsides, and forest edges.
+In the southeastern United States, A. julibrissin is listed as invasive in several states due to its prolific [[cervantes-seed-production-storage]], rapid growth, and ability to form dense thickets that displace native vegetation. It readily colonizes disturbed sites, roadsides, and forest edges.
 
 Cold tolerance is moderate, with hardiness rated to USDA Zone 6b in sheltered locations. However, young trees are susceptible to winter dieback in zones below 7, and the species performs best in regions with warm summers and mild winters.
 
 ## Bioactive Compounds
 
-The bark and flowers of A. julibrissin contain a diverse array of secondary metabolites. The primary bioactive classes include triterpenoid saponins, flavonoids, alkaloids, and phenolic acids, each contributing to the species' broad pharmacological profile.
+The bark and flowers of A. julibrissin contain a diverse array of [[antifungal-secondary-metabolites-coprophilous-fungi]]. The primary bioactive classes include triterpenoid saponins, flavonoids, alkaloids, and phenolic acids, each contributing to the species' broad pharmacological profile.
 
 Major triterpenoid saponins include julibroside J1, J2, and related compounds, which are glycosides of echinocystic acid. These saponins have demonstrated antidepressant and neuroprotective effects in animal models, supporting the traditional use of the bark as a mood elevator.
 
@@ -97,9 +97,9 @@ Its rapid growth rate — up to 1–1.5 m per year in favorable conditions — m
 
 The flowers are an excellent nectar source for bees and butterflies, supporting pollinator populations in designed ecosystems. The tree's ornamental value also adds aesthetic diversity to permaculture landscapes and food forests.
 
-The wood is soft and not commercially valuable for timber, but it can be used for light construction, tool handles, and fuelwood. Leaf litter decomposes readily, contributing organic matter and nitrogen to the soil surface.
+The wood is soft and not commercially valuable for timber, but it can be used for light construction, tool handles, and fuelwood. Leaf litter decomposes readily, contributing [[hamilton-composting-and-organic-matter-management]] and nitrogen to the soil surface.
 
-Invasive potential must be carefully managed in warm climates. Regular seed pod removal, sterile cultivar selection, and avoiding planting near natural areas can mitigate escape risk while still utilizing the tree's nitrogen-fixing and ornamental benefits.
+Invasive potential must be carefully managed in warm climates. [[vic-high-selfing-and-regular-seed-production]] pod removal, sterile cultivar selection, and avoiding planting near natural areas can mitigate escape risk while still utilizing the tree's nitrogen-fixing and ornamental benefits.
 
 The tree coppices readily, allowing for managed harvest of leaf biomass for mulch or green manure. In silvopastoral systems, the light shade can improve livestock comfort during hot summers while maintaining sufficient light penetration for understory forage production.
 
@@ -108,8 +108,8 @@ The tree coppices readily, allowing for managed harvest of leaf biomass for mulc
 - [[robinia-pseudoacacia]]
 - [[glycyrrhiza-glabra]]
 - [[astragalus-membranaceus]]
-- [[tithonia-diversifolia]]
-- [[sesbania-grandiflora]]
+- tithonia-diversifolia
+- sesbania-grandiflora
 - [[valeriana-officinalis]]
 - [[bacopa-monnieri]]
 - [[schisandra-chinensis]]

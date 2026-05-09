@@ -1,5 +1,5 @@
 ---
-title: Odorless Piggery -- Natural Farming Pig House Design
+title: Odorless Piggery -- comparison-natural-farming-vs-permaculture Pig mollison-designers-house-design-climate-zones
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 **Updated:** 2026-04-18
 
-The odorless piggery is one of the most remarkable innovations of [[knf-preparations]] system. Through a combination of deep litter management using [[knf-indigenous-microorganism-culture]] is added to pig feed:
+The odorless piggery is one of the most remarkable innovations of [[knf-preparations]] system. Through a combination of [[comparison-deep-litter-vs-hot-composting]] management using [[knf-indigenous-microorganism-culture]] is added to pig feed:
 
 - Improves digestion and nutrient absorption
 - Reduces manure odor further by supporting gut microbiology
@@ -102,4 +102,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -4,7 +4,8 @@ created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [mycofiltration, mycorestoration, water-treatment, fungi, mycology, ecology, environment, biology, remediation]
-sources: [raw/papers/mycelium-running-stamets.md]
+sources: sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # Mycofiltration and Water Treatment
@@ -15,14 +16,14 @@ Mycofiltration is the use of mycelial mats and networks to filter water, removin
 
 Mycelium can intercept and decompose organisms as complex as nematodes, bacteria, and protozoa. When water passes through a mycelial mat, several processes occur simultaneously:
 
-- **Physical filtration**: The dense mycelial network physically traps particulate matter, sediment, and microorganisms
-- **Enzymatic degradation**: Secreted enzymes break down organic compounds
+- **Physical filtration**: The dense [[gadd-mycelial-network-dynamics]] physically traps particulate matter, sediment, and microorganisms
+- **Enzymatic degradation**: Secreted enzymes break down [[fungal-volatile-organic-compounds-communication]]
 - **Antimicrobial activity**: Many fungi produce natural antibacterial and antifungal compounds
 - **Bioaccumulation**: Mycelium can absorb dissolved metals and chemicals
 
 ## E. coli and Pathogen Control
 
-Oyster mushroom (Pleurotus ostreatus) mycelium has demonstrated the ability to reduce E. coli and other coliform bacteria from water. The antimicrobial properties of mycelium make it particularly effective against waterborne pathogens. As water percolates through a mycelial mat, bacteria and other organisms are trapped and consumed by the fungal network.
+Oyster mushroom (Pleurotus ostreatus) mycelium has demonstrated the ability to reduce E. coli and other coliform bacteria from water. The [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] of mycelium make it particularly effective against waterborne pathogens. As water percolates through a mycelial mat, bacteria and other organisms are trapped and consumed by the fungal network.
 
 ## Practical Installation
 
@@ -31,7 +32,7 @@ A mycofiltration installation demonstrated by Stamets along a contaminated road 
 1. Wood chips are placed along the contour of a slope or drainage area
 2. Wood chips are inoculated with oyster mushroom mycelium
 3. Straw is spread over the inoculated wood chips
-4. Grass seed mixed with mycorrhizal inoculum is broadcast over the surface
+4. Grass seed mixed with [[arbuscular-mycorrhizal-inoculum-production-best-practices]] is broadcast over the surface
 5. Mycelium colonizes the wood chips, forming a contiguous mat
 6. Contaminated water flowing through the site is filtered by the mycelial network
 
@@ -47,11 +48,11 @@ After 3 years, the treated road showed a mantle of nearly contiguous mycelium at
 
 ## Ecological Recovery
 
-Once a mycofiltration habitat is constructed, ecological recovery unfolds and nature guides the course. Spores are released as mushrooms grow to maturity, giving rise to more mycelium. The new mushrooms attract native insects, and rotting mushrooms become breeding grounds for fly larvae and grubs, subsequently attracting animals from lizards to birds. As the mycelium infiltrates the wood chips, more moisture is retained, creating a self-reinforcing cycle of ecological restoration.
+Once a mycofiltration habitat is constructed, ecological recovery unfolds and nature guides the course. Spores are released as mushrooms grow to maturity, giving rise to more mycelium. The new mushrooms [[query-how-to-attract-native-bees-and-beneficial-insects]] insects, and rotting mushrooms become breeding grounds for fly larvae and grubs, subsequently attracting animals from lizards to birds. As the mycelium infiltrates the wood chips, more moisture is retained, creating a self-reinforcing cycle of ecological restoration.
 
 ## See Also
 
-- [[mycoremediation-overview]]
+- [[cotter-mycoremediation-overview]]
 - [[mycoforestry-forest-restoration]]
 - [[fungal-enzyme-systems-bioremediation]]
 - [[paul-stamets]]
@@ -71,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

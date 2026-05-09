@@ -10,10 +10,10 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Little, E.L. (1979). "Checklist of United States Trees." USDA Forest Service Agriculture Handbook 541.
+  - Little, E.L. (1979). "Checklist of dmt-containing-plants-united-states-halpern Trees." USDA Forest Service Agriculture Handbook 541.
   - USDA NRCS (2024). "Oxydendrum arboreum (L.) DC. — Sourwood." PLANTS Database.
   - Cappiello, P., Shadow, D.E. (2005). "Dogwoods, Cornus, and Their Relatives." Timber Press.
-  - Ayers, G.S. (2015). "Bee Forage of North America." A.I. Root Co.
+  - Ayers, G.S. (2015). "[[mollison-designers-bee-forage-tree-planting]] of [[psilocybin-north-america-pacific-northwest]]." A.I. Root Co.
 ---
 
 ## Overview
@@ -128,7 +128,7 @@ Propagation from seed requires cold stratification for 60–90 days; germination
 
 Softwood cuttings under mist have moderate success rates, though rooting can be challenging.
 
-The tree is relatively pest-free, with occasional issues from fall webworm, twig dieback, and leaf spot diseases.
+The tree is relatively pest-free, with occasional issues from fall webworm, twig dieback, and [[jadam-canker-leaf-spot-pesticide]] diseases.
 
 It is best used as a specimen tree in residential landscapes, naturalistic plantings, and native gardens.
 
@@ -136,7 +136,7 @@ Its moderate size and attractive multi-season interest make it suitable for smal
 
 ## See Also
 
-- [[gaultheria-procumbens]]
+- gaultheria-procumbens
 - [[vaccinium-angustifolium]]
 - [[vaccinium-vitis-idaea]]
 - [[vaccinium-uliginosum]]

@@ -1,5 +1,5 @@
 ---
-title: Mushroom Spore Print Collection Technique
+title: emcdda-hallucinogenic-mushroom-spore-distribution-home-cultivation spore-print-collection-spore-mass-inoculation Technique
 slug: mushroom-spore-print-technique
 source: jarrold-indoor-mushroom-growing-technique-boil-a-bag.md
 tags: [mushroom-cultivation, spore-prints, mycology, sterile-technique, inoculation]
@@ -14,7 +14,7 @@ Spore print collection is the process of capturing mushroom
 spores for cultivation of future crops. In the boil-a-bag
 method (Jarrold), spore prints are taken from mature mushroom
 caps and stored in sterile glass jars for later use in preparing
-spore syringes. This completes the cultivation cycle, making the
+[[query-spore-syringes-vs-liquid-culture]]. This completes the cultivation cycle, making the
 method self-sustaining.
 
 ## Timing
@@ -22,7 +22,7 @@ method self-sustaining.
 Spore prints should be taken from mature mushrooms when the
 cap has fully opened and the gills are exposed. The cap should
 be at or near the point of natural spore release. Mushrooms are
-ready for picking (and spore printing) when the veil between
+ready for picking (and [[mushroom-spore-printing-and-storage]]) when the veil between
 cap and stem has torn and the cap has expanded to nearly flat.
 
 ## Jar Sterilization
@@ -44,7 +44,7 @@ evaporate during the spore printing process.
 - Sterilized glass jars with metal screw lids
 - Metal tweezers (flame-sterilized)
 - Metal scissors (flame-sterilized)
-- Methylated spirits burner for flame sterilization
+- Methylated spirits burner for [[flammability-hazard-alcohol-lysol-flame-sterilization-mycology]]
 - Protective breathing mask (to prevent breath contamination)
 
 ## Spore Print Procedure
@@ -52,7 +52,7 @@ evaporate during the spore printing process.
 ### Step 1: Preparation
 Wear a protective breathing mask covering nose and mouth.
 This prevents the cultivator's breath from contaminating the
-spore print. Take all equipment to the humidity chamber where
+spore print. Take all equipment to the [[mushroom-humidity-chamber-design-operation]] where
 the mushrooms are growing.
 
 ### Step 2: Cap Removal
@@ -129,4 +129,7 @@ with new genetic material is recommended.
 
 ## See Also
 
-- [[psilocybin-mushroom-spore-print-identification]]
+- psilocybin-mushroom-spore-print-identification
+- [[spore-print-collection]]
+- [[spore-syringe]]
+- [[sterilization]]

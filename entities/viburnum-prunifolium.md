@@ -13,9 +13,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Felter, H.W. & Lloyd, J.U. (1898). King's American Dispensatory. Ohio Valley Co."
+  - "Felter, H.W. & Lloyd, J.U. (1898). King's American Dispensatory. histoplasma-capsulatum-ohio-valley-disease-dimorphic-fungus Co."
   - "Millspaugh, C.F. (1974). American Medicinal Plants. Dover Publications."
-  - "Moerman, D. (1998). Native American Ethnobotany. Timber Press."
+  - "Moerman, D. (1998). [[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany. Timber Press."
   - "Wichtl, M. (2004). Herbal Drugs and Phytopharmaceuticals. Medpharm Scientific Publishers."
   - "Upton, R. (2001). \"Viburnum prunifolium.\" American Herbal Pharmacopoeia."
 ---
@@ -25,7 +25,7 @@ sources:
 ## Overview
 
 *Viburnum prunifolium*, known as blackhaw or sweet haw, is a deciduous
-shrub or small tree native to eastern and central North America. It is one
+shrub or small tree native to eastern and central [[psilocybin-north-america-pacific-northwest]]. It is one
 of the most important traditional uterine tonics and antispasmodics in
 both Native American and Western [[amazonian-medicinal-plants-in-amaringos-visions]]
 - [[viburnum-opulus]]
@@ -36,7 +36,7 @@ both Native American and Western [[amazonian-medicinal-plants-in-amaringos-visio
 
 ## See Also
 
-- [[native-american-planting-methods-and-indigenous-agriculture]]
+- [[natives-vs-exotics]]
 ## Practical Applications
 
 Viburnum prunifolium has a range of practical applications that make it relevant to
@@ -114,4 +114,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

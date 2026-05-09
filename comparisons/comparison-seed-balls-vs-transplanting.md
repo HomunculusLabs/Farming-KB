@@ -5,6 +5,7 @@ tags: [comparison, seed-starting, propagation, fukuoka]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: comparison
 ---
@@ -15,7 +16,7 @@ type: comparison
 Seed balls and transplanting represent two fundamentally different
 philosophies
 of establishing plants in the garden and broader landscape. Seed balls,
-popularized by Masanobu Fukuoka in his natural farming system, embody a
+popularized by Masanobu Fukuoka in his [[comparison-natural-farming-vs-permaculture]] system, embody a
 minimal-intervention approach where clay-encased seeds are scattered directly
 onto the landscape with no soil preparation. Transplanting, documented
 extensively by Steve Solomon and generations of gardeners, involves starting
@@ -34,11 +35,11 @@ for earlier harvests by starting plants indoors before the last frost, and
 enables the grower to select the strongest seedlings while discarding the
 weak ones. Hardening off, the process of gradually exposing indoor-started
 seedlings to outdoor conditions over several days, is a critical step Solomon
-details to prevent transplant shock and ensure vigorous establishment.
+details to [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]] shock and ensure vigorous establishment.
 
 Transplanting is especially valuable for heat-loving crops like tomatoes,
-peppers, and eggplants in cooler climates where the outdoor growing season is
-too short for direct seeding. It also allows for succession planting, as new
+peppers, and eggplants in cooler climates where the outdoor [[savory-growing-season-and-non-growing-season-management]] is
+too short for [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]]. It also allows for [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]], as new
 flats can be started while existing crops mature in the garden. Solomon notes
 that transplanted vegetables often outperform direct-seeded ones because the
 controlled start gives them a head start on weeds and pests, and the
@@ -64,7 +65,7 @@ disturbance entirely and should always be direct-seeded.
 | Skill required | Low | Moderate (hardening off technique) |
 
 ## When to Choose Seed Balls
-Seed balls excel in large-scale land rehabilitation, cover cropping, and any
+Seed balls excel in large-scale land rehabilitation, [[fukuoka-clover-cover-cropping-soil-ecology]], and any
 situation where labor is limited but acreage is significant. They are the tool
 of choice for revegetating roadsides, abandoned lots, eroded hillsides, and
 overgrazed pastures. Fukuoka demonstrated that seed balls could establish

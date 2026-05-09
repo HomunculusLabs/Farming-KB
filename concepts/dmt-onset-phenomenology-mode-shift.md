@@ -1,5 +1,5 @@
 ---
-title: "DMT Onset Phenomenology and Mode Shift"
+title: "DMT dmt-onset-phenomenology-merry-go-raum and Mode Shift"
 source: "mckenna_t-tryptamines_consciousness.md"
 tags: [mckenna, dmt, phenomenology, onset, mode-shift, consciousness]
 created: 2026-05-08
@@ -17,13 +17,15 @@ This consistency is difficult to explain if the experiences are merely idiosyncr
 
 The repeatability of the phenomenology suggests that DMT is reliably accessing something real, whether that something is internal or external, psychological or ontological.
 
-McKenna cites this consistency as one of the strongest arguments for taking the DMT experience seriously as a source of knowledge about the nature of consciousness and reality.
+McKenna cites this consistency as one of the strongest arguments for taking the [[mckenna-dmt-experience-and-hyperspace]] seriously as a source of knowledge about the nature of consciousness and reality.
 
 ## See Also
 
+- [[mckenna-dmt-onset-phenomenology-and-mode-shift-experience]]
+
 - [[tryptamine-hypercontinuum]]
 
-- dmt entity encounter phenomenology
+- dmt [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]] phenomenology
 
 - [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]]
 ## Practical Applications
@@ -103,4 +105,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

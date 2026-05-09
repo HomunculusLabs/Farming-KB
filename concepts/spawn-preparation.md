@@ -1,19 +1,15 @@
 ---
-title: Spawn Preparation
+title: azurescens-spawn-preparation-grain-to-wood
 created: 2026-04-28
-tags: [[mycology, cultivation, spawn, grain]
+tags: [mycology, cultivation, spawn, grain]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 type: concept
 ---
-
-# Spawn Preparation
-
-Spawn is the living fungal mycelium propagated on a nutritious substrate,
-serving as the "seed" for [[sterilization]]. Over-hydrated grains clump together, reducing air exchange
+# Spawn Preparation Spawn is the living fungal mycelium propagated on a nutritious substrate, serving as the "seed" for [[sterilization]]. Over-hydrated grains clump together, reducing air exchange
 and promoting anaerobic bacterial growth. Under-hydrated grains slow
-mycelial growth because the fungus cannot access dissolved nutrients
+[[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] because the fungus cannot access dissolved nutrients
 efficiently.
 
 Common hydration methods include:
@@ -41,7 +37,7 @@ takes time.
 Autoclaves provide the most reliable sterilization for commercial
 operations. They cycle faster than pressure cookers, maintain more
 consistent pressure, and can process many bags simultaneously. For
-hobbyists, a standard 23-quart pressure canner can process seven quart
+hobbyists, a standard 23-quart [[pf-tek-pressure-canner-sterilization]] can process seven quart
 jars per run.
 
 ## Inoculation
@@ -50,7 +46,7 @@ Inoculation is performed in a still-air box or under a laminar flow hood.
 The goal is to introduce clean mycelium into the sterile grain without
 allowing airborne contaminants to enter. Flame-sterilized scalpels or
 inoculation loops are used to transfer mycelium from agar plates or
-living mushroom tissue into the grain jar. Liquid culture syringes offer
+living mushroom tissue into the grain jar. [[comparison-liquid-culture-vs-grain-spawn]] syringes offer
 a faster, lower-risk alternative since the jar lid is only briefly
 opened.
 
@@ -75,7 +71,7 @@ rhizomorphic strands. Common contaminants include:
   grain surface.
 
 Contaminated jars should be discarded or sterilized before opening to
-prevent releasing spores into the growing environment.
+prevent releasing spores into the [[cannabis-growing-environment-setup]].
 
 ## Storage
 
@@ -91,7 +87,7 @@ While grain spawn is the most common, several other spawn types exist:
 - **Wood plug spawn**: Wooden dowels colonized with mycelium, used for
   outdoor log inoculation. Each plug is inserted into a drilled hole
   and sealed with wax. Slow to colonize logs but very low-tech.
-- **Sawdust spawn**: Sterilized sawdust inoculated with mycelium, used
+- **[[growing-gourmet-sawdust-spawn-production-use]]**: Sterilized sawdust inoculated with mycelium, used
   both for making grain spawn and for direct log inoculation through
   specialized tools.
 - **Liquid culture**: Mycelium grown in a nutrient broth, often with

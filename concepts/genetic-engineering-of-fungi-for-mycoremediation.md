@@ -1,5 +1,5 @@
 ---
-title: Genetic Engineering of Fungi for Mycoremediation
+title: fukuoka-textdoc-genetic-engineering-critique-warning of Fungi for Mycoremediation
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 updated: 2026-04-18
 
-Genetic engineering approaches offer powerful tools for enhancing the [bioremediation capabilities of fungi through metabolic pathway optimization, enzyme overproduction, and novel trait introduction. Advances in molecular biology, biotechnology, and enzymology are driving the development of improved fungal strain
+Genetic engineering approaches offer powerful tools for enhancing the [bioremediation capabilities of fungi through metabolic pathway optimization, enzyme overproduction, and novel trait introduction. Advances in molecular biology, biotechnology, and enzymology are driving the development of improved [[fukuoka-textdoc-cross-breeding-fungal-strain-mutability]]
 
 ## Practical Context
 Genetic Engineering Of Fungi For Mycoremediation is relevant to farming knowledge because it connects observation,
@@ -39,7 +39,7 @@ changes.
 - [[soil-food-web]]
 - [[mycoremediation]]
 - [[mycoremediation-techniques|Mycoremediation Techniques]]
-- [[fungal-genetic-engineering-bioremediation|Fungal Genetic Engineering Bioremediation]]
+- [[biodiversity-fungal-genetic-diversity]] Engineering Bioremediation
 
 ## Notes for Further Development
 - Add local observations when available.
@@ -60,7 +60,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +102,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -33,12 +33,12 @@ photocopy of the parent — and can infect another wheat plant within hours
 under warm, humid conditions. This clonal reproduction allows explosive
 population growth: a single pustule can release millions of uredospores, and
 successive cycles of infection can devastate entire wheat fields in a matter
-of weeks during the growing season.
+of weeks during the [[savory-growing-season-and-non-growing-season-management]].
 
 ## Stomatal Recognition and Host Invasion
 
 The process by which uredospores locate and invade wheat leaves is
-remarkably precise. When a uredospore germinates on a leaf surface, the
+remarkably precise. When a uredospore germinates on a [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]], the
 germ tube grows across the epidermis until it encounters a stomatal pore.
 Harvey Hoch demonstrated through elegant experiments using plastic replicas
 of leaf surfaces that the germ tube senses topographical cues — specifically
@@ -114,7 +114,7 @@ the fungus's own reproductive needs.
 
 ## Hypersensitive Defense and Control Measures
 
-Plants have evolved a defense mechanism called the hypersensitive response,
+Plants have evolved a defense mechanism called the [[bloomfield-plant-hypersensitive-response-rust-arms-race]],
 in which cells surrounding an infection site undergo rapid programmed death,
 starving the biotrophic fungus of living tissue. Breeders have exploited
 this and other resistance mechanisms to develop wheat cultivars that resist
@@ -125,12 +125,17 @@ control efforts, as resistance to one form may not protect against another.
 Historically, barberry eradication campaigns were the primary method of rust
 control, eliminating the alternate host and thereby breaking the sexual
 cycle. These programs were conducted on massive scales in the United States
-and Europe during the early twentieth century. Today, resistance breeding
+and Europe during the early [[coleman-louis-savier-twentieth-century-maraicher]]. Today, [[cannabis-disease-pest-resistance-breeding-clarke]]
 and fungicide application supplement barberry management in integrated
-rust control strategies.
+rust [[jadam-weed-control-strategies-natural]].
 
 ## See Also
 
+- [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]]
+
 - [[bloomfield-curtis-gates-lloyd-pharmacist-mycologist]]
-- [[bloomfield-ascobolus-ascomycete-fruiting-body-evolution]]
+- bloomfield-ascobolus-ascomycete-fruiting-body-evolution
 - [[bloomfield-wood-decay-fungi-spalted-timber]]
+- [[bloomfield-rust-fungus-life-cycles-puccinia-haustoria-spermatia]]
+- [[rust-fungi-biodiversity-life-cycles]]
+- [[rust-fungi-life-cycle]]

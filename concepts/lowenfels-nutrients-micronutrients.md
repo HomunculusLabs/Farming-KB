@@ -27,7 +27,7 @@ Iron (Fe) atoms serve as carriers of electrons, and electrons can be easily pass
 between them. As such, iron is useful for respiration and oxidation-reduction reactions, where
 electrons are taken from one molecule and given to another. Iron is used to make chlorophyll
 (although it is not part of the molecule) and helps it function properly. Iron is critical to
-nitrogen fixation, as the conversion of atmospheric nitrogen and nitrate relies on iron. It is a
+[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], as the conversion of atmospheric nitrogen and nitrate relies on iron. It is a
 component of important enzymes and proteins.
 
 Iron is so important to plants that they have developed a system to release ions into the soil to
@@ -68,7 +68,7 @@ potassium ions across the cell membrane, helping to regulate the opening and clo
 stomata.
 
 Boron is usually taken up as boric acid (B[OH]3) and uses three different transport mechanisms
-to cross cellular membranes: diffusion, facilitative transport, and active transport.
+to cross cellular membranes: diffusion, facilitative transport, and [[diffusion-osmosis-and-active-transport-in-plants]].
 
 ### Unique Properties
 
@@ -78,7 +78,7 @@ mobility of boron is dependent on carrier molecules to which it binds.
 
 ### Deficiency Symptoms
 
-Symptoms of boron deficiency include damage at the growing tips and problems with flower and
+Symptoms of [[query-how-to-fix-boron-deficiency-in-cannabis]] include damage at the growing tips and problems with flower and
 fruit formation. Boron deficiency shows up on newer parts of the plant, as boron is very
 immobile. Borax (Na2B4O7) is the ore of boron.
 
@@ -100,8 +100,8 @@ has intermediate mobility.
 
 ### Availability
 
-Zinc is relatively immobile in soils. In addition to pH, the amount of organic matter in the soil
-affects zinc availability. Mycorrhizal fungi may deliver as much as 25 percent of a plant's zinc.
+Zinc is relatively immobile in soils. In addition to pH, the amount of [[hamilton-composting-and-organic-matter-management]] in the soil
+affects zinc availability. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] may deliver as much as 25 percent of a plant's zinc.
 
 ## Manganese
 
@@ -134,7 +134,7 @@ Molybdenum (Mo) is necessary for the synthesis of organic phosphorus compounds o
 enters the plant. It is also needed for Rhizobia and Frankia bacteria to fix nitrogen in root
 nodules. Molybdenum is mobile, and chlorosis develops in older leaves as this limiting nutrient
 is moved to new growing tissues. One symptom of too little molybdenum is a buildup of nitrate,
-causing some leaves to curl (whiptail). Molybdenum is more available when pH is slightly alkaline.
+causing some [[query-what-causes-cannabis-leaves-to-curl-and-how-to-fix-it]] (whiptail). Molybdenum is more available when pH is slightly alkaline.
 
 ### Nickel
 

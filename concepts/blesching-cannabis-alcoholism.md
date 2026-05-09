@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and Alcohol Dependence"
+title: "Cannabis and [[cannabis-for-alcohol-dependence]]"
 created: 2026-04-26
 tags: [cannabis, alcoholism, addiction, substitution, harm-reduction]
 date: 2026-04-25
@@ -92,7 +92,7 @@ Blesching frames cannabis in the context of a harm reduction approach:
 
 - [[blesching-cannabis-anxiety]] - anxiety in withdrawal
 - [[blesching-cannabis-neuroprotection]] - neuroprotective effects
-- blesching cannabis liver disease - potential hepatoprotective effects
+- blesching [[blesching-cannabis-liver-cancer]] disease - potential hepatoprotective effects
 
 ## See Also
 

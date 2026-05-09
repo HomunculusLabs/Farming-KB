@@ -1,5 +1,5 @@
 ---
-title: Cover Crops and Soil Biology
+title: gaias-garden-cover-crops-soil-building and Soil Biology
 created: 2026-04-28
 tags:
   - cover-crops
@@ -43,17 +43,17 @@ continuous feeding has cascading benefits:
 - Bacterial populations remain robust and diverse
 - [[lowenfels-nematode-food-web-roles]] have prey populations to sustain
   complex food webs
-- [[lowenfels-soil-fungi-decomposition]] break down plant material,
+- [[lowenfels-soil-fungi-decomposition]] [[query-can-fungi-break-down-plastic-pollution]] plant material,
 protozoa and nematodes consume the microbes and mineralize nutrients, and
-arthropods fragment coarse material. The carbon from green manure feeds
+arthropods fragment coarse material. The carbon from [[comparison-green-manure-guide-vs-mulch-types-and-effects]] feeds
 microbial growth, and the nitrogen and other nutrients are gradually released
 for crop uptake.
 
 Green manure quality affects decomposition rate. Young, succulent green
-manure with low carbon to nitrogen ratios decomposes quickly through bacterial
+manure with low carbon to [[ingham-carbon-nitrogen-ratios-compost-tea]] decomposes quickly through bacterial
 pathways, providing a rapid nitrogen release. More mature green manure with
 higher carbon to nitrogen ratios decomposes more slowly through fungal
-pathways, building soil organic matter over a longer period. This difference
+pathways, building soil [[hamilton-composting-and-organic-matter-management]] over a longer period. This difference
 can be managed by timing termination: terminating cover crops during active
 growth produces lower carbon to nitrogen ratio material, while allowing
 maturity produces higher ratio material.
@@ -61,7 +61,7 @@ maturity produces higher ratio material.
 ## Multi-Species Cover Crop Mixtures
 
 Mixtures of cover crop species provide benefits beyond any single species.
-Grass-legume combinations fix nitrogen while producing abundant biomass.
+Grass-legume combinations [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] while producing abundant biomass.
 Adding brassicas provides biofumigation and deep rooting. Multi-species
 mixtures produce more diverse root exudate profiles, supporting more diverse
 soil biology. They also provide functional redundancy: if one species fails

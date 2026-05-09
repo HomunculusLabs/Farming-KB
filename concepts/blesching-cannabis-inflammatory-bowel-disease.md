@@ -1,8 +1,8 @@
 ---
-title: Cannabis for Inflammatory Bowel Disease
+title: Cannabis for blesching cannabis inflammatory bowel disease Disease
 created: 2026-04-26
 updated: 2026-04-24
-sources: "Uwe Blesching, The Cannabis Health Index (CHI)"
+sources: "Uwe Blesching, The blesching-cannabis-health-index-autoimmune-conditions (CHI)"
 wikilinks: "blesching-endocannabinoid-system-overview blesching-cannabinoid-pharmacology cannabis-autoimmune-conditions-detailed cannabis-chronic-pain-management"
 type: concept
 tags: [cannabis]
@@ -38,7 +38,7 @@ Other frequently observed symptoms may include:
 
 ### Orthodox Treatment
 
-Physicians manage the disease with dietary modifications, pharmaceutical medications, and referrals to psychotherapy. Canadian researchers conducted a meta-analysis of all randomized controlled trials and reported that fiber, antispasmodics, and peppermint oil exhibited greater effectiveness than a placebo in the treatment of blesching cannabis irritable.
+Physicians manage the disease with dietary modifications, pharmaceutical medications, and referrals to psychotherapy. Canadian researchers conducted a meta-analysis of all randomized controlled trials and reported that fiber, antispasmodics, and peppermint oil exhibited greater effectiveness than a placebo in the treatment of blesching [[blesching-cannabis-irritable-bowel-syndrome]].
 
 ## Cannabis and IBD/IBS: Evidence Base (CHI Value 8, 3 Studies Reviewed)
 
@@ -68,7 +68,7 @@ An experiment indicated that CBD could reduce hypermotility in mice. Based on th
 
 While research has discovered both CB1 and CB2 in parts of the gastrointestinal tract, patients with Crohn's disease reported that indica strains worked especially well for them in reducing pain, nausea, vomiting, depression, in permaculture, and lack of sleep. This observation may be supported, in part, by the pre-clinical trial from Naples, which showed that CBD could reduce hypermotility (abnormally high activity) in the guts of mice.
 
-Indicas or indica-heavy strains tend to have a lower THC:CBD ratio when compared to sativas, resulting in a relative increase in CB2 activation.
+Indicas or indica-heavy strains tend to have a lower THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]] when compared to sativas, resulting in a relative increase in CB2 activation.
 
 ## Mind-Body Medicine and IBD/IBS
 
@@ -80,7 +80,7 @@ Consider: "Constipation occurs when an individual was grimly determined to carry
 
 ### IBS-D (Diarrhea-Predominant)
 
-Consider: "Diarrhea occurred when an individual wanted to be done with a situation or to have it over with, or to get rid of something or somebody."
+Consider: "Diarrhea occurred when an individual wanted to be done with a situation or to have it over with, or to [[query-how-to-get-rid-of-slugs-and-snails-organically]] of something or somebody."
 
 ### Nausea and Vomiting
 
@@ -94,6 +94,6 @@ Consider engaging: antidepressive measures, anti-anxiety measures; working to de
 
 ## Adjunctive Therapies
 
-**Turmeric**: In a meta-study, scientists gave an overview of decades of scientific studies on turmeric. Turmeric showed promise as a treatment for adenomatous polyposis (multiple polyps in the large intestine -- precursor to colon cancer), inflammatory bowel disease, and ulcerative colitis.
+**Turmeric**: In a meta-study, scientists gave an overview of decades of scientific studies on turmeric. Turmeric showed promise as a treatment for adenomatous polyposis (multiple polyps in the large intestine -- precursor to [[cannabis-and-colon-cancer-research]]), inflammatory bowel disease, and ulcerative colitis.
 
 **Acacia**: Research suggests that acacia improves stool consistency and reduces the occurrence of fecal incontinence in adults. Alternative practitioners have begun to use the highly soluble fiber to ease symptoms of irritable bowel syndrome. See [[blesching-cannabis-gi-disorders-ibs-crohns]] for broader GI coverage, and [[blesching-cannabis-dosing-strategies]] for dosing guidance.

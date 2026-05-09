@@ -13,10 +13,10 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Triplett, J.K., et al. (2006). "Systematics of the native North American bamboos." SIDA, 22(1), 67–107.
+  - Triplett, J.K., et al. (2006). "Systematics of the native growing-gourmet-north-american-reishi-species bamboos." SIDA, 22(1), 67–107.
   - Judziewicz, E.J., et al. (1999). Manual of the Grasses of the United States. Smithsonian Institution Press.
   - Platt, W.J. (1999). "Southeastern pine savannas and canebrakes." In: Savannas, Barrens, and Rock Outcrop Plant Communities of North America. Cambridge University Press.
-  - Gagnon, P.R., et al. (2010). "Forest structure and composition along a chronosequence of pine savanna restoration." Restoration Ecology, 18(4), 468–479.
+  - Gagnon, P.R., et al. (2010). "[[mollison-wet-tropical-forest-structure-and-polyculture]] and composition along a chronosequence of pine savanna restoration." Restoration Ecology, 18(4), 468–479.
   - Noss, R.F. (2013). "Forgotten grasslands of the South." Springer Science.
 ---
 
@@ -28,7 +28,7 @@ It forms dense thickets known as "canebrakes" that were once a dominant feature 
 
 Canebrakes were largely destroyed by agriculture, logging, and fire suppression during the 18th and 19th centuries, making extant stands critically rare.
 
-The species is valued in permaculture and ecological restoration for its rapid growth, erosion control capabilities, and wildlife habitat provision.
+The species is valued in permaculture and ecological restoration for its rapid growth, [[permplant-willows-salix-erosion-control-fodder]] capabilities, and wildlife habitat provision.
 
 ## Taxonomy
 
@@ -91,17 +91,17 @@ The Cherokee, Choctaw, Creek, and Seminole peoples developed sophisticated split
 
 Cane splits were also used to construct matting, shelters, and ceremonial objects, making the plant one of the most culturally significant native species.
 
-Early European settlers used cane for fishing poles, livestock forage, and as a source of thatch for roofing.
+Early European settlers used cane for fishing poles, [[permaculture-livestock-forage-systems]], and as a source of thatch for roofing.
 
 The loss of canebrakes represents one of the most dramatic vegetative transformations in [[mollison-permaculture-two-zone-planning-and-site-layout]] ced in Zone 3 or 4 of permaculture zone planning, where its low-maintenance, perennial growth habit provides yields without intensive management.
 
 Young shoots are edible when [[dighton-pine-needle-litter-decomposition-fungal-succession]].
 
-When integrated with poultry systems, canebrakes provide shade, wind protection, and supplemental forage for free-range birds.
+When integrated with poultry systems, canebrakes provide shade, [[cervantes-wind-protection-outdoor-cannabis]], and supplemental forage for free-range birds.
 
 ## Cultivation
 
-Propagation is achieved through rhizome division in early spring, as seed production is rare and unpredictable due to the long flowering cycle.
+Propagation is achieved through rhizome division in early spring, as seed production is rare and unpredictable due to the long [[cannabis-sativa-flowering-cycle-management]].
 
 Rhizome divisions should include 2–3 nodes with viable buds and be planted at a depth of 10–15 cm in well-prepared soil.
 
@@ -123,6 +123,6 @@ Prescribed fire stimulates new shoot production and suppresses woody competitors
 - [black-locust-entity](black-locust-entity.md)
 - [elaeagnus-umbellata](elaeagnus-umbellata.md)
 - [tagasaste](tagasaste.md)
-- [[permaculture](permaculture.md)
+- [[permaculture](permaculture.md)]]
 - [sambucus-nigra](sambucus-nigra.md)
 - [morus-alba](morus-alba.md)

@@ -1,5 +1,5 @@
 ---
-title: "C3, C4, and CAM Photosynthesis — Plant Carbon Fixation Pathways"
+title: "C3, C4, and comparison-c3-c4-and-cam-photosynthesis-pathways — Plant Carbon Fixation Pathways"
 created: 2026-04-28
 updated: 2026-05-06
 aliases: [photosynthesis pathways, carbon fixation, C4 photosynthesis, CAM photosynthesis, Hatch-Slack pathway, crassulacean acid metabolism, Kranz anatomy]
@@ -8,7 +8,7 @@ type: concept
 sources: []
 ---
 
-Photosynthetic carbon fixation in plants occurs through three principal pathways: C3 (Calvin-Benson-Bassham cycle), C4 (Hatch-Slack pathway), and CAM (crassulacean acid metabolism). These pathways differ fundamentally in how they acquire, concentrate, and fix atmospheric CO₂, resulting in distinct trade-offs between water use efficiency, energy cost, temperature tolerance, and growth rate. Understanding these pathways is central to crop science, plant breeding, and predicting agricultural responses to climate change.
+Photosynthetic carbon fixation in plants occurs through three principal pathways: C3 (Calvin-Benson-Bassham cycle), C4 (Hatch-Slack pathway), and CAM (crassulacean acid metabolism). These pathways differ fundamentally in how they acquire, concentrate, and fix atmospheric CO₂, resulting in distinct trade-offs between water use efficiency, energy cost, temperature tolerance, and growth rate. Understanding these pathways is central to crop science, plant breeding, and predicting agricultural responses to [[dighton-fungi-climate-change-feedback]].
 
 ## C3 Photosynthesis: The Calvin-Benson-Bassham Cycle
 
@@ -30,7 +30,7 @@ C4 plants are characterized by **Kranz anatomy** (German "wreath"), first descri
 
 ## CAM Photosynthesis: Crassulacean Acid Metabolism
 
-CAM photosynthesis, named for the Crassulaceae family where it was first studied, is a temporal carbon concentrating mechanism found in ~6–7% of plant species (~16,000–20,000 species). It represents the most water-efficient photosynthetic pathway. Major CAM crops include pineapple (*Ananas comosus*), agave (*Agave spp.*), and prickly pear cactus (*Opuntia spp.*).
+CAM photosynthesis, named for the Crassulaceae family where it was first studied, is a temporal carbon concentrating mechanism found in ~6–7% of plant species (~16,000–20,000 species). It represents the most water-efficient photosynthetic pathway. Major CAM crops include pineapple (*Ananas comosus*), agave (*Agave spp.*), and [[comparison-agave-vs-prickly-pear-cultivation]] cactus (*Opuntia spp.*).
 
 Unlike C3 and C4, CAM separates the initial CO₂ fixation (via PEPC) and the Calvin cycle in **time** rather than space. At night, stomata open and PEPC fixes CO₂ into oxaloacetate, which is reduced to malate and stored as malic acid in large vacuoles (up to 90% of cell volume). During the day, stomata close, malic acid is decarboxylated by NAD-ME, NADP-ME, or PCK (depending on species), and the released CO₂ is refixed by Rubisco in the Calvin cycle. This four-phase cycle was characterized by Osmond (1978): Phase I (nocturnal CO₂ fixation), Phase II (pre-dawn transition), Phase III (daytime deacidification with closed stomata), and Phase IV (late afternoon direct uptake).
 
@@ -82,12 +82,16 @@ Progress includes successful introduction of C4 enzyme genes (PEPC, PPDK, NADP-M
 
 The latitudinal gradient in C3:C4 grass abundance is one of the strongest biogeographic patterns in terrestrial ecology. The ratio shifts from ~100:0 at 60°N to ~50:50 at 30°N to ~20:80 near the equator. The crossover latitude occurs at approximately 30–35° in both hemispheres, driven primarily by growing-season temperature and secondarily by aridity. Within ecosystems, tropical savannas feature C4 grass understories beneath C3 tree overstories. Temperate grasslands show seasonal turnover: C3 cool-season grasses dominate spring and autumn, while C4 warm-season grasses peak in midsummer.
 
-Altitude effects are pronounced: C4 plants decline above ~2,500–3,000 m because lower temperatures reduce photorespiration, eliminating the C4 advantage. CAM plants dominate epiphytic communities in tropical forest canopies — orchids and bromeliads represent ~50% of epiphyte species in some neotropical forests. C4 grasslands cover approximately 20–30% of Earth's land surface. CAM diversity centers include Mexico (Agavaceae, Cactaceae), South Africa (Crassulaceae), Madagascar (Didiereaceae), and the Andes (Bromeliaceae).
+Altitude effects are pronounced: C4 plants decline above ~2,500–3,000 m because lower temperatures reduce photorespiration, eliminating the C4 advantage. CAM plants dominate epiphytic communities in [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] canopies — orchids and bromeliads represent ~50% of epiphyte species in some neotropical forests. C4 grasslands cover approximately 20–30% of Earth's land surface. CAM diversity centers include Mexico (Agavaceae, Cactaceae), South Africa (Crassulaceae), Madagascar (Didiereaceae), and the Andes (Bromeliaceae).
 
 ## Climate Change Implications
 
 Rising atmospheric CO₂ concentrations (projected 550–700 ppm by 2100) directly favor C3 plants through CO₂ fertilization. FACE (Free-Air CO₂ Enrichment) experiments demonstrate an average ~15% biomass increase in C3 plants at doubled CO₂. At 700 ppm and 30°C, photorespiration in C3 drops from ~35% to ~15% of gross fixation. However, rising temperatures partially offset this benefit — each 1°C increase raises C3 photorespiration by approximately 5–8%.
 
-C4 plants benefit less from elevated CO₂ since their CCM already saturates Rubisco with CO₂, but maintain superior performance as temperatures rise. C3 crops at elevated CO₂ show decreased protein content (~5–15% reduction in grain protein) and mineral content, raising concerns for global nutrition. CAM plants may expand in arid regions where both temperature and water stress increase. The net effect varies by region: temperate zones likely favor C3 crops, while tropical and subtropical regions maintain C4 advantages. Global productivity models suggest terrestrial productivity will increase primarily through CO₂ fertilization of C3[[photosynthesis-carbon-cycle-plants]]
+C4 plants benefit less from elevated CO₂ since their CCM already saturates Rubisco with CO₂, but maintain superior performance as temperatures rise. C3 crops at elevated CO₂ show decreased protein content (~5–15% reduction in grain protein) and mineral content, raising concerns for global nutrition. CAM plants may expand in arid regions where both temperature and water stress increase. The net effect varies by region: temperate zones likely favor C3 crops, while tropical and subtropical regions maintain C4 advantages. Global productivity models suggest terrestrial productivity will increase primarily through CO₂ fertilization of C3
 - [[stomata-transpiration-and-plant-water-regulation]]
 - [[water-use-efficiency-plants]]
+
+## See Also
+
+- [[comparison-c3-c4-and-cam-photosynthesis-pathways]]

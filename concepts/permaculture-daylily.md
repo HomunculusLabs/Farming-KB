@@ -3,13 +3,11 @@ title: Daylily
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[permaculture, design]
-sources: []
+tags: [permaculture, design]
+sources:
+  sources: []
 ---
-
-Updated: 2026-04-18
-
-Daylilies (Hemerocallis spp.) are edible perennial plants whose flowers, buds, and roots are all edible. They require little care and work well in outer zones of a permaculture design. They serve as both ornamental and functional plants in [[mulch-producing-plants]] from spent foliage
+Updated: 2026-04-18 Daylilies (Hemerocallis spp.) are [[perennial-vegetables]] plants whose flowers, buds, and roots are all edible. They require little care and work well in outer zones of a [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]. They serve as both ornamental and functional plants in [[mulch-producing-plants]] from spent foliage
 
 ## Growing Conditions
 
@@ -23,13 +21,13 @@ Daylilies (Hemerocallis spp.) are edible perennial plants whose flowers, buds, a
 
 - Tolerates a wide range of soil types including heavy clay
 
-- Drought tolerant once established
+- [[permplant-carob-drought-tolerant-food-tree]] once established
 
 - Prefers soil pH 6.0-7.0
 
 ## Propagation
 
-Daylilies are easily propagated by division in early spring or autumn. Dig up a clump, separate the fans with roots attached, and replant immediately. Space divisions 18-24 inches (45-60 cm) apart. Plants grown from seed will take 2-3 years to flower and may not breed true to the parent.
+Daylilies are easily propagated by division in [[coleman-overwintered-onions-and-early-spring-crops]] or autumn. Dig up a clump, separate the fans with roots attached, and replant immediately. Space divisions 18-24 inches (45-60 cm) apart. Plants grown from seed will take 2-3 years to flower and may not breed true to the parent.
 
 ## Edible Parts
 
@@ -55,10 +53,11 @@ Only cultivated varieties of daylily are edible. Other types are toxic. Always v
 
 ## Landscape Design
 
-In [[permaculture-zone-planning]]
+In permaculture-zone-planning
 
 - [[permaculture-multi-purpose-plants]]
 - [[soil-erosion-control]]
+
 ## Practical Considerations
 
 Successful implementation of Daylily requires attention to
@@ -77,4 +76,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

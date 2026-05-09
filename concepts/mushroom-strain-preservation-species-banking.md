@@ -1,33 +1,13 @@
 ---
-title: Mushroom Strain Preservation and Species Banking
+title: Mushroom mushroom-strain-preservation-senescence and Species Banking
 created: 2026-04-26
-tags: [[mycology, mushroom-cultivation, strain-preservation, stamets, storage]
+tags: [mycology, mushroom-cultivation, strain-preservation, stamets, storage]
 date: 2026-04-25
 updated: 2026-04-25
-sources: [raw/papers/the-mushroom-cultivator-stamets.md]
+sources: sources: []
 type: concept
 ---
-
-# Mushroom Strain Preservation and Species Banking
-
-Preserving mushroom strains through stock cultures is essential for any
-cultivator who invests effort in [[stamets-spore-germination-and-tissue-culture]], or breeding. Paul Stamets details multiple
-methods for maintaining viable cultures over periods ranging from months
-to decades.
-
-## The Species Bank Concept
-
-Once a pure strain has been created and isolated via [[stamets-agar-media-preparation]]
-    formulas (PDY, MEA, or MPG are recommended).
-2.  Fill test tubes one-third full, plug with cotton and cover with
-    aluminum foil, or screw on the cap.
-3.  [[stamets-agar-media-preparation]]. Once
-colonized two-thirds across, select for strandy growth (rhizomorphism)
-and reinoculate fresh slants.
-
-Growing out mini-cultures is also a good way to verify a stored strain's
-vitality and [[stamets-compost-preparation]].
-3.  **Sawdust/bran media** — for wood decomposers, using the [[mushroom-spore-printing-and-storage]] under refrigerated conditions.
+# Mushroom Strain Preservation and Species Banking Preserving mushroom strains through stock cultures is essential for any cultivator who invests effort in stamets-spore-germination-and-tissue-culture, or breeding. Paul Stamets details multiple methods for maintaining viable cultures over periods ranging from months to decades. ## The Species Bank Concept Once a pure strain has been created and isolated via stamets-agar-media-preparation formulas (PDY, MEA, or MPG are recommended). 2. Fill test tubes one-third full, plug with cotton and cover with aluminum foil, or screw on the cap. 3. stamets-agar-media-preparation. Once colonized two-thirds across, select for strandy growth (rhizomorphism) and reinoculate fresh slants. Growing out mini-cultures is also a good way to verify a stored strain's vitality and stamets-compost-preparation. 3. **Sawdust/bran media** — for wood decomposers, using the [[mushroom-spore-printing-and-storage]] under refrigerated conditions.
 
 ## Strain Degeneration
 
@@ -39,11 +19,11 @@ potential or form after five years.
 
 ## See Also
 
--   [[mushroom-cultivator-strain-selection]] — strain development
+-   [[mushroom-cultivator-strain-selection]] — [[vic-high-true-breeding-strain-development-stabilization]]
     strategies
 -   [[mushroom-spore-printing-and-storage]] — spore collection and
     storage
--   [[mushroom-sterilization-methods]] — sterilization equipment and
+-   mushroom-sterilization-methods — sterilization equipment and
     techniques
 ## Practical Considerations
 
@@ -61,7 +41,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +83,4 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+- [[sterilization]]

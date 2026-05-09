@@ -1,5 +1,5 @@
 ---
-title: Legume and Fruit Vegetable Harvest
+title: Legume and Fruit purdue-vegetable-harvest-and-storage-guide
 created: 2026-04-28
 date: 2026-04-28
 updated: 2026-04-28
@@ -10,15 +10,15 @@ sources:
 ---
 # Legume and Fruit Vegetable Harvest
 
-Detailed harvest timing and storage instructions for legumes and
-fruit vegetables, based on Purdue Extension guidelines. Covers beans,
+Detailed [[cannabis-harvest-timing-visual-cues]] and storage instructions for legumes and
+[[hamilton-fruit-vegetables-organic]], based on Purdue Extension guidelines. Covers beans,
 peas, okra, peppers, tomatoes, cucumbers, and eggplant.
 
 Related: [[vegetable-garden-guide]],
-[[vegetable-garden-harvest]] — Comprehensive harvest and storage
+[[vegetable-garden-harvest]] — Comprehensive [[vegetable-harvest-and-storage-guide]]
   for all vegetables
-- [[cole-crop-harvest-and-storage]] — Cole crop harvest
-- [[vegetable-garden-guide]] — Comprehensive vegetable gardening
+- [[cole-crop-harvest-and-storage]] — Cole [[cole-crop-harvest-and-storage]]
+- [[vegetable-garden-guide]] — Comprehensive [[home-vegetable-garden-planning]]
   reference
 ## Practical Applications
 
@@ -97,4 +97,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

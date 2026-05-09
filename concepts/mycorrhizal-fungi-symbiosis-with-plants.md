@@ -33,15 +33,15 @@ pines, and beeches. Endomycorrhizae (arbuscular mycorrhizae) actually enter
 root cells, forming branching structures called arbuscules inside the plant
 tissue. This type is associated with most agricultural crops and grasses.
 
-The boletes and other basidiomycete fungi commonly seen fruiting in forests
+The boletes and other [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] commonly seen fruiting in forests
 are the reproductive structures of ectomycorrhizal mycelia connected to tree
 roots. When you see a bolete beneath an oak or pine, you are looking at the
 tip of an iceberg: the main body of the fungus extends through the soil as
-a vast mycelial network linked to the tree's root system.
+a vast [[gadd-mycelial-network-dynamics]] linked to the tree's root system.
 
 ## Nutrient Exchange
 
-The fundamental exchange in mycorrhizal symbiosis involves mineral nutrients
+The fundamental exchange in [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] involves mineral nutrients
 flowing from fungus to plant and carbohydrates flowing from plant to fungus.
 Plants fix carbon dioxide into sugars through photosynthesis but often cannot
 obtain sufficient phosphorus, nitrogen, magnesium, calcium, and other minerals
@@ -99,8 +99,8 @@ evolution from exposed cup fungi to buried, animal-dispersed fruiting bodies.
 
 ## Ecological Networks
 
-Mycorrhizal networks create underground connections between individual plants,
-potentially allowing resource sharing and chemical signaling between trees.
+[[dighton-mycorrhizal-networks-carbon-transfer]] create underground connections between individual plants,
+potentially allowing [[mycelial-network-resource-sharing-plants]] and [[plant-hormones-and-chemical-signaling-systems]] between trees.
 These "wood wide webs" mean that a single mycelium can connect multiple trees
 of different ages and species, facilitating the transfer of carbon, nitrogen,
 and defensive compounds through the ecosystem.
@@ -116,7 +116,7 @@ ecosystem management.
 
 ## See Also
 
-- [[symbiosis-in-fungi]]
+- symbiosis-in-fungi
 
 - [[fungal-hyphae-invasive-growth-mechanisms]]
 - [[lichen-symbiosis-fungi-algae-partnership]]

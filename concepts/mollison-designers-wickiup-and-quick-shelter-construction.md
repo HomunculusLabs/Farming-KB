@@ -1,5 +1,5 @@
 ---
-title: Wickiup and Quick Shelter Construction
+title: Wickiup and mollison designers wickiup and quick shelter construction Construction
 created: 2026-04-28
 tags:
   - natural-building
@@ -17,7 +17,7 @@ type: concept
 # Wickiup and Quick Shelter Construction
 
 Quick shelters built from locally available natural materials are an essential
-component of [[permaculture-designers-manual-bamboo]], [[permaculture-earthworks]] and construction phases, demonstration of low-cost building
+component of permaculture-designers-manual-bamboo, [[permaculture-earthworks]] and construction phases, demonstration of low-cost building
 techniques, and long-term culturally appropriate housing in many climates.
 
 The key criteria for quick shelter are: minimal tool requirements, rapid
@@ -28,7 +28,7 @@ materials found on or near the site.
 ## Wickiup Construction
 
 The wickiup is a domed or conical shelter traditional to many Indigenous
-peoples of North America, particularly in arid and semi-arid regions. It is
+peoples of [[psilocybin-north-america-pacific-northwest]], particularly in arid and semi-arid regions. It is
 one of the simplest permanent shelters to construct:
 
 1. **Frame:** Three or more long saplings are set into the ground at an
@@ -81,10 +81,10 @@ beyond what can be improvised. It consists of:
    ground, which is the primary source of heat loss.
 
 The debris hut relies on the insulating properties of dead air space within
-deep leaf litter. It can maintain survivable internal temperatures even in
+deep [[dighton-fungal-decomposition-leaf-litter-dynamics]]. It can maintain survivable internal temperatures even in
 sub-zero conditions, and requires no cordage, tools, or fire. It is
 discussed in Mollison's treatment of emergency and survival skills
-within the broader permaculture design framework.
+within the broader [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] framework.
 
 ## Bender Construction
 
@@ -128,9 +128,12 @@ conditions. Common natural materials include:
 
 ## Integration with Permaculture Design
 
-Quick shelters fit naturally into [[permaculture-zone-planning]] as temporary structures
+Quick shelters fit naturally into permaculture-zone-planning as temporary structures
 in zones one through three during site establishment. They demonstrate the
 permaculture principle of starting with simple, functional solutions before
 investing in permanent infrastructure. Natural shelters also connect
 inhabitants directly to local ecology and seasonal cycles, fostering
 ## See Also
+- [[permaculture-design]]
+- [[mollison-designers-herb-spiral-design-construction]]
+- [[mollison-designers-bamboo-structure-construction-joinery]]

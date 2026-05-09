@@ -1,5 +1,5 @@
 ---
-title: Colony Morphogenesis and Hyphal Growth in Filamentous Fungi
+title: gadd colony morphogenesis hyphal growth and Hyphal Growth in Filamentous Fungi
 created: 2026-04-28
 tags:
   - hyphal-growth
@@ -90,7 +90,7 @@ Filamentous fungi respond to four types of environmental signals:
 (a) abiotic and global (light intensity, wavelength, periodicity,
     temperature, humidity);
 (b) abiotic and local (nutrient gradients, oxygen, carbon dioxide, pH,
-    chemical signals, mechanical stimuli, osmotic shock);
+    [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]], mechanical stimuli, osmotic shock);
 (c) biotic signals from other organisms (chemicals promoting or
     inhibiting growth, compounds modulating secondary metabolism,
     physical and chemical cues from hosts);
@@ -106,7 +106,7 @@ six in S. cerevisiae. Two-component signalling systems with hybrid
 proteins containing histidine kinase and response regulator domains are
 used extensively. Multiple Ras-like GTPases, cAMP signalling through
 adenylate cyclase and protein kinase A, and calcium signalling pathways
-all contribute to environmental sensing and developmental regulation.
+all contribute to [[fungal-environmental-sensing-signal-transduction-read]] and developmental regulation.
 
 ## G-protein signalling and MAP kinase cascades
 
@@ -121,9 +121,9 @@ yeasts.
 ## Quorum sensing and density-dependent regulation
 
 Some autoregulatory signals function as quorum or cell density sensors,
-playing roles in yeast-hyphal dimorphism, chlamydospore formation, and
+playing roles in yeast-hyphal dimorphism, [[fungal-chlamydospore-formation-and-survival]], and
 conidial fusion. Fungus-derived signals also regulate asexual and
-sexual reproduction, including sex pheromones such as trisporic acid
+[[fungal-life-cycles-sexual-reproduction-metamorphosis]], including sex pheromones such as trisporic acid
 in Mucorales and peptide pheromones in ascomycetes and basidiomycetes.
 
 ## Adaptation to heterogeneous environments
@@ -131,7 +131,7 @@ in Mucorales and peptide pheromones in ascomycetes and basidiomycetes.
 Fungi have evolved excellent digestive capabilities with diverse
 extracellular enzymes efficiently secreted into the environment.
 Soluble nutrients are absorbed through hyphae with high surface-area-
-to-volume ratios and efficient membrane transport processes. Hyphal
+to-volume ratios and efficient [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] processes. Hyphal
 growth allows efficient exploration of natural habitats and rapid
 capture of heterogeneously distributed nutrients and water.
 

@@ -13,9 +13,9 @@ tags:
   - rubiaceae
   - ground-cover
 sources:
-  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern United States and Adjacent Canada." 2nd ed. New York Botanical Garden.
+  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern dmt-containing-plants-united-states-halpern and Adjacent Canada." 2nd ed. New York Botanical Garden.
   - Fernald, M.L. (1950). "Gray's Manual of Botany." 8th ed. American Book Company.
-  - Moerman, D.E. (1998). "Native American Ethnobotany." Timber Press.
+  - Moerman, D.E. (1998). "[[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany." Timber Press.
   - Foster, S. & Duke, J.A. (2014). "A Field Guide to Medicinal Plants and Herbs." 2nd ed. Houghton Mifflin.
 ---
 
@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-Mitchella repens, commonly known as partridgeberry, squaw vine, or twinberry, is a low-growing evergreen perennial herb in the family Rubiaceae native to forests of North America. It is one of the most recognizable woodland ground covers in eastern North American forests, known for its paired white flowers and distinctive bright red berries.
+Mitchella repens, commonly known as partridgeberry, squaw vine, or twinberry, is a low-growing evergreen perennial herb in the family Rubiaceae native to forests of [[psilocybin-north-america-pacific-northwest]]. It is one of the most recognizable woodland [[permaculture-plants-food-forest-ground-covers-bamboos]] in [[polypore-fungi-eastern-north-america]] American forests, known for its paired white flowers and distinctive bright red berries.
 
 The species is the only member of its genus found in North America and is notable for its unique floral biology: each "flower" is actually a pair of fused flowers that produce a single berry, resulting in the characteristic double-blossom scar (two dimples) visible on the ripe fruit.
 
@@ -94,7 +94,7 @@ As a native understory plant, it requires minimal maintenance once established a
 
 Key permaculture functions include:
 
-- **Erosion control:** The dense mat of roots and stems stabilizes soil on slopes and banks.
+- **[[permplant-willows-salix-erosion-control-fodder]]:** The dense mat of roots and stems stabilizes soil on slopes and banks.
 - **Wildlife habitat:** The berries provide food for birds and small mammals, while the evergreen foliage offers winter cover.
 - **Pollinator support:** Spring flowers provide nectar for early-season bumblebees.
 - **Aesthetic value:** The combination of glossy evergreen leaves, white flowers, and red berries makes it an attractive ornamental ground cover.
@@ -108,7 +108,7 @@ Key permaculture functions include:
 ## See Also
 
 - [[vaccinium-myrtillus]]
-- [[arctostaphylos-uva-ursi]]
+- arctostaphylos-uva-ursi
 - [[sambucus-nigra]]
-- [[crataegus-monogyna]]
+- crataegus-monogyna
 - [[food-forest-permaculture]]

@@ -3,14 +3,14 @@ title: Mycophobia in Western Culture
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "Letcher - Shroom: A Cultural History of the Magic Mushroom"
+  - "Letcher - Shroom: A shroom-cultural-history-hippie-revolution-and-counterculture of the Magic Mushroom"
 type: concept
 tags: [culture, mycology]
 ---
 
 # Mycophobia in Western Culture
 
-The concept of [[gordon-wasson-mushroom-discovery]] and his wife Valentina to explain the
+The concept of gordon-wasson-mushroom-discovery and his wife Valentina to explain the
 striking cultural differences in attitudes towards fungi between nations. Wasson argued that mycophobia and
 its opposite, mycophilia, were "residual and half-forgotten cultural memories" of ancient religious
 prohibitions placed upon the eating of mushrooms. Andy Letcher subjects this influential theory to rigorous
@@ -25,7 +25,7 @@ the world along a mycophobic-mycophilic axis, placing Russia (and much of Easter
 camp and Britain firmly in the mycophobic camp.
 
 Wasson's more radical claim was that these attitudes represented the last surviving cultural traces of an
-ancient mushroom-worshipping religion. He proposed that European ancestors had consumed magic mushrooms --
+ancient mushroom-worshipping religion. He proposed that European ancestors had consumed [[guzman-magic-mushrooms-african-species]] --
 probably the [[mckenna-psychedelic-shamanism]]. As this loosened and gradually became institutionalised, mushroom consumption
 was restricted to a powerful priesthood that placed a terrible taboo upon its profane usage. The cult spread
 widely but eventually gave way to what would become the world's major religions. Nevertheless, the taboo
@@ -42,7 +42,7 @@ that myths, however fantastical, have their origins in actual historical events.
 
 This intellectual framework -- known as cultural evolution -- had reached its peak in the early twentieth
 century. Thinkers such as Edward Burnett Tylor, Herbert Spencer, and Auguste Comte proposed that human
-societies evolved through fixed stages from savagery to civilisation. Frazer's comparative method -- amassing
+societies evolved through fixed stages from savagery to civilisation. Frazer's [[gordon-wasson-comparative-method-ethnomycology]] -- amassing
 evidence from as many different sources as possible -- was perfectly suited to Wasson's purposes. Frazer's
 work, despite being rejected within anthropology, proved titillating to the general public and exerted a
 lasting influence upon popular imagination.
@@ -80,12 +80,12 @@ requiring hospital treatment. Fatalities were so rare as to be all but non-exist
 Polish province of Poznan (nominally mycophilic, with a similar population but a long-standing folk tradition
 of mushroom-picking), approximately fifty incidents per year required treatment, of which around ten per cent
 proved fatal. The risk of being killed by mushrooms was substantially higher in the mycophilic culture. This
-runs counter to Wasson's thesis and suggests that folk wisdom regarding mushroom identification is
+runs counter to Wasson's thesis and suggests that folk wisdom regarding [[psilocybin-mushroom-identification-guide]] is
 worryingly unreliable.
 
-**Mycophagy patterns are not fixed.** During the nineteenth century, wild mushrooms were commonly sold at
+**Mycophagy patterns are not fixed.** During the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], wild mushrooms were commonly sold at
 British markets, but fear of poisoning meant this had died out by the twentieth. During the Second World War,
-the British government encouraged people to learn to identify edible mushrooms safely. Wild mushroom
+the British government encouraged people to learn to identify [[palmer-edible-mushrooms-north-america]] safely. Wild mushroom
 consumption duly increased until after the war, when commercial mushroom production made foraging unnecessary.
 This is a far more complex situation than can ever be encompassed by Wasson's blanket designation of Britain
 as a mycophobic nation.

@@ -51,7 +51,7 @@ Purple-fleshed varieties are particularly valued for their high anthocyanin cont
 
 ## Distribution and Cultivation
 
-*D. alata* is believed to have originated in Southeast Asia, though its exact center of domestication remains debated.
+*D. alata* is believed to have originated in [[psilocybe-southeast-asia-pacific]], though its exact center of domestication remains debated.
 
 It is now cultivated throughout the tropics, with major production in West Africa (Nigeria, Ghana, Côte d'Ivoire), Southeast Asia, the Pacific Islands, and the Caribbean.
 
@@ -77,13 +77,13 @@ Winged yam is an excellent permaculture crop due to its climbing habit, high pro
 
 It integrates well with food forest designs where the vine can climb established trees while producing tubers in the understory.
 
-The species is effective at suppressing weeds through its dense canopy and can serve as a living mulch when intercropped with shorter crops.
+The species is effective at suppressing weeds through its dense canopy and can serve as a [[comparison-living-mulch-vs-cover-crops]] when intercropped with shorter crops.
 
-In agroforestry systems, it is often grown with leguminous trees that provide both nitrogen fixation and trellis support.
+In agroforestry systems, it is often grown with leguminous trees that provide both [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] and trellis support.
 
-The plant tolerates partial shade, making it suitable for the middle layer of a food forest between canopy trees and ground covers.
+The plant tolerates partial shade, making it suitable for the middle layer of a food forest between canopy trees and [[permaculture-plants-food-forest-ground-covers-bamboos]].
 
-Fallen leaves contribute to soil organic matter, and tuber harvest aerates the soil, reducing compaction.
+Fallen leaves contribute to soil [[hamilton-composting-and-organic-matter-management]], and tuber harvest aerates the soil, reducing compaction.
 
 ### Challenges
 
@@ -105,12 +105,14 @@ The tubers must be cooked before consumption, as raw yam contains oxalate crysta
 
 Storage of fresh tubers is challenging due to post-harvest sprouting and rot. Traditional storage methods include barns, pits, and chipping followed by sun-drying.
 
-Processed yam products include yam flour, dehydrated yam chips, and instant yam flakes, which extend shelf life and market reach.
+Processed yam products include yam flour, dehydrated yam chips, and instant yam flakes, which extend [[psilocybin-shelf-life-stability]] and market reach.
 
 ## See Also
 
 - [[pachyrhizus-erosus]]
-- [[mollison-designers-cassava-tropical-root-crops]]
+- mollison-designers-cassava-tropical-root-crops
 - [[food-forest-permaculture]]
 - [[dynamic-accumulators]]
 - [[hippophae-rhamnoides-permaculture]]
+
+- [[dioscorea-trifida]]

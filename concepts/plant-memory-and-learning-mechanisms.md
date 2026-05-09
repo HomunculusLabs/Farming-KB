@@ -1,5 +1,5 @@
 ---
-title: [[daniel-chamovitz]])
+title: daniel-chamovitz)
 mined: 2026-05-08
 tags: [botany, plant-memory, epigenetics, priming, tropisms, learning]
 ---
@@ -10,7 +10,7 @@ type of memory typically involves reversible biochemical changes such as
 protein phosphorylation and calcium signaling.
 
 **Medium-term memory**: Lasting days to weeks. Photoperiodic memory — the
-ability to measure and accumulate information about day length — is a
+ability to measure and accumulate information about [[coleman-winter-day-length-and-persephone-months]] — is a
 classic example. Plants must "remember" the duration of each dark period
 across multiple consecutive days to determine the correct time for
 flowering. This involves the gradual accumulation of specific proteins.
@@ -31,7 +31,7 @@ long-term memory. Key epigenetic mechanisms include:
 **DNA methylation**: The addition of methyl groups to cytosine bases in
 DNA. Methylation typically silences gene expression. In plants, methylation
 patterns can be maintained through cell divisions and sometimes through
-sexual reproduction, providing a stable form of information storage.
+[[fungal-life-cycles-sexual-reproduction-metamorphosis]], providing a stable form of information storage.
 Vernalization in Arabidopsis involves methylation-mediated silencing of
 FLOWERING LOCUS C (FLC), a repressor of flowering.
 
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

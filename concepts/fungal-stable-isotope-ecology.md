@@ -1,5 +1,5 @@
 ---
-title: "Fungal Stable Isotope Ecology"
+title: "Fungal fungal stable isotope ecology Ecology"
 created: 2026-04-26
 tags:
   - mycology
@@ -28,7 +28,7 @@ A consistent finding across multiple studies is the clear separation between
 saprotrophic and ectomycorrhizal (ECM) fungi in isotope space. This 'saprotrophic-
 mycorrhizal divide' has been demonstrated in forests across Europe:
 
-- [[trametes-versicolor-entity]] (a white rot fungus) showed
+- [[trametes-versicolor-entity]] (a [[comparison-brown-rot-vs-white-rot-bioremediation]] fungus) showed
 that the mycelium was consistently enriched in 13C compared with the wood
 (enrichment factor of 3.5 per mil), even with 70% wood mass loss over 181
 days. The delta-13C of respired CO2 was similar to that of the wood,
@@ -63,13 +63,13 @@ fungivores.
 ## Environmental Influences
 
 The influence of site cannot be ignored, particularly for 15N values. On
-sites subject to elevated levels of nitrogen deposition, the 15N content of
+sites subject to elevated levels of [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]], the 15N content of
 the deposition may significantly impact average delta-15N values across
 ecosystem compartments, including fungi. When nitrogen deposition is high, the
 range of potential delta-15N values will be narrower than on unaffected sites.
 
 ## Implications for [[gadd-fungal-ecology-saprotrophs]]
-- [[fungal-stoichiometry-ecology]]
+- fungal-stoichiometry-ecology
 - [[fungal-nutrient-cycling-mineral-transformations]]
 ## Practical Considerations
 
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

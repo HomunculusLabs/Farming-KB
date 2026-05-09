@@ -1,10 +1,11 @@
 ---
-title: "How Do Endophytic Fungi Protect Plants from Pests and Disease"
+title: "How Do comparison-endophytic-fungi-vs-mycorrhizal-fungi Protect Plants from Pests and Disease"
 created: 2026-04-28
 tags: [query, mycology, plant-health, biocontrol, endophytes]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -15,7 +16,7 @@ type: query
 produce ergot alkaloids, lolines, and peramine compounds that make the
 grass toxic to livestock and insect pests. This chemical defense has been
 widely exploited in agriculture, where endophyte-infected tall fescue and
-ryegrass varieties provide built-in pest resistance. The chemistry of
+ryegrass varieties provide built-in [[cannabis-disease-pest-resistance-breeding-clarke]]. The chemistry of
 these compounds is distinct from plant-produced defenses and often more
 effective because insects have not evolved resistance to fungal
 metabolites.
@@ -24,7 +25,7 @@ Beyond direct chemical production, endophytes provide protection through
 immune priming. When a plant hosts endophytic fungi, its immune system
 operates at a heightened state of readiness without expending the energy
 cost of full activation. This
-[[endophytic-fungi-and-plant-health|endophytic fungi and plant health]]
+endophytic fungi and plant health
 have shown that endophyte-colonized plants accumulate higher levels of
 defensive enzymes like peroxidases and chitinases, and activate
 pathogenesis-related (PR) genes more rapidly upon infection.
@@ -32,7 +33,7 @@ pathogenesis-related (PR) genes more rapidly upon infection.
 Competitive exclusion is another important mechanism. Endophytes occupy
 space and consume nutrients within plant tissues, making it harder for
 pathogenic fungi and bacteria to establish infections. This is
-particularly effective against vascular wilt pathogens and foliar
+particularly effective against [[cervantes-fusarium-vascular-wilt-diseases]] pathogens and foliar
 diseases. The
 [[endophytic-fungi-biology-ecology-taxonomic-diversity|diversity of endophytic fungi]] means that different species provide different types and levels
 of protection. [[endophytic-fungi-in-agriculture|using endophytes in agriculture]] is an
@@ -46,7 +47,7 @@ protection.
 ## Key Points
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity|Endophyte diversity]]
   provides layered defense against multiple threats simultaneously
-- [[endophytic-fungi-plants-hidden-symbionts]]
+- endophytic-fungi-plants-hidden-symbionts
 
 - [[query-what-are-entomopathogenic-fungi-and-how-do-they-control-pests]]
 - [[query-how-do-i-use-trichoderma-for-plant-disease-prevention]]
@@ -67,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

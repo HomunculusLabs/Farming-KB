@@ -1,5 +1,5 @@
 ---
-title: Tropical Pasture Grass Species and Establishment
+title: mollison designers tropical pasture grass species and establishment Grass Species and Establishment
 created: 2026-04-26
 tags:
   - pasture-grasses
@@ -18,7 +18,7 @@ type: concept
 
 The selection and establishment of tropical pasture grasses is a
 critical design factor for livestock systems in humid, sub-humid, and
-dry tropics. Managed rotational grazing combined with appropriate
+dry tropics. Managed [[comparison-rotational-grazing-vs-continuous-grazing]] combined with appropriate
 species selection can dramatically improve pasture productivity, with
 benefits including doubled production on half the irrigation water.
 
@@ -39,11 +39,11 @@ to establish. A first choice for sub-tropic and tropic pastures.
 
 Cold tolerant and grown from cool to tropical areas. Valuable for
 cooler uplands, thinner soils, and for good autumn growth if
-nitrogen-fixing trees (Acacia, Leucaena, Prosopis, Albizia) are
+nitrogen-fixing trees ([[acacia]], Leucaena, Prosopis, Albizia) are
 established. Prefers light soils, red loams, and can be sown as
-runners or seed. Excellent for water spillways and erosion control.
+runners or seed. Excellent for water spillways and [[permplant-willows-salix-erosion-control-fodder]].
 Few legumes tolerate the tight sward, so that trees for nitrogen are
-essential. Desmodium, Glycine, and white clover sod-drilled in
+essential. Desmodium, Glycine, and [[fukuoka-white-clover-cover-crop-system]] sod-drilled in
 autumn-cut areas can be tried.
 
 ### Makarikari Grass (Panicum coloratum)
@@ -81,13 +81,13 @@ Sorghums (Sorghum almum), silk sorghum, and Sudan grass (S. halapense)
 are annual, biennial, or persistent from seed, and are of most use as
 broadcast-sown pioneers in slashed mulch at 50-90 cm rainfall. They
 can be used as pioneers with the perennials, as mulch in orchard
-strips, as emergency dry-season fodder, and as a garden mulch source.
+strips, as emergency dry-season fodder, and as a [[cotter-outdoor-mushroom-garden-mulch-beds]] source.
 Easily grazed out, the sorghums provide birdseed, forage, and help
 control weeds. They are of particular use in early establishment.
 
 ## Establishment Procedure
 
-Establishing perennial grass swards on weedy or eroded areas is a one
+Establishing [[savory-perennial-grass-and-desertification]] swards on weedy or eroded areas is a one
 to three year process:
 
 1. Choose a land-forming system such as swaling, interception banks,
@@ -124,8 +124,13 @@ use.
 
 ## Related
 
-- [[mollison-pasture-legumes-and-forage-legumes-of-the-tropics]]
+- mollison-designers-succession-and-system-establishment
+
+- mollison-pasture-legumes-and-forage-legumes-of-the-tropics
   - Legume species for tropical pastures
-- [[mollison-forage-trees-in-livestock-systems]] - Tree fodder systems
-- [[mollison-mixed-livestock-rotation-systems]] - Rotational grazing
+- mollison-forage-trees-in-livestock-systems - Tree fodder systems
+- mollison-mixed-livestock-rotation-systems - Rotational grazing
   systems
+- [[mollison-designers-pioneer-species-for-exhausted-tropical-soils]]
+- [[mollison-designers-high-island-and-tropical-valley-design]]
+- [[mollison-designers-trout-and-cool-water-aquaculture-species]]

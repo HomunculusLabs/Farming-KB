@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Cannabis Grow Bible, Greg Green (Ch. 7)
+Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, Greg Green (Ch. 7)
 
 Identifying plant sex before full flowering is essential for sinsemilla production. Male plants must be removed to prevent pollination of females.
 
@@ -18,10 +18,10 @@ Identifying plant sex before full flowering is essential for sinsemilla producti
 
 1. **Germination** (12 hours to 3 weeks)
 2. **Seedling Stage** (1–3 weeks)
-3. **Vegetative Growth** (1–5 months)
+3. **[[cannabis-vegetative-growth-stage]]** (1–5 months)
 4. **Pre-flowering** (1 day to 2 weeks)
 5. **Flowering** (4–16 weeks)
-6. **Seed Production** (if pollinated, 2–16 weeks)
+6. **[[cervantes-seed-production-storage]]** (if pollinated, 2–16 weeks)
 
 ## Pre-Flowering Stage
 
@@ -49,7 +49,7 @@ Key female indicators:
 
 ## The 12/12 Light Cycle for Sexing
 
-The standard method to trigger pre-flowering and sex expression is switching to a 12 hours light / 12 hours dark photoperiod:
+The standard method to trigger pre-flowering and [[cannabis-sex-expression-hermaphrodite-breeding-clarke]] is switching to a 12 hours light / 12 hours dark photoperiod:
 
 - The dark period must be completely uninterrupted — even brief light exposure can cause problems
 - Most plants show sex within 7–14 days of the 12/12 switch
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

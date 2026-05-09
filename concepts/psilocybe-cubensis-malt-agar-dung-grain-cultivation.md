@@ -1,5 +1,5 @@
 ---
-title: "Psilocybe Cubensis Cultivation on Malt Agar and Dung Grain Substrate"
+title: "Psilocybe psilocybe-cubensis-cultivation-miniculture on Malt Agar and Dung Grain Substrate"
 created: 2026-04-28
 tags: [cultivation, psilocybe-cubensis, malt-agar, dung-grain-substrate, mycelial-growth, substrate]
 date: 2026-04-28
@@ -14,7 +14,7 @@ The Gartz, Adam, and Vorbrodt (1990) study employed two distinct cultivation
 systems for Psilocybe cubensis: 6% malt agar for mycelial growth assessment
 and a horse dung/rice grain substrate for fruiting body production. Both
 systems included 5 g of KH2PO4 per liter, providing a standardized
-phosphorus source. These cultivation methods represent established approaches
+phosphorus source. These [[synthetic-log-cultivation-methods-guide]] represent established approaches
 in experimental mycology and provide a useful framework for comparing
 brassinosteroid treatment effects.
 
@@ -42,7 +42,7 @@ treatment condition provided adequate statistical power to detect the
 ## Role of KH2PO4
 
 The addition of 5 g of monopotassium phosphate (KH2PO4) per liter to both
-cultivation systems served to standardize phosphorus availability. Phosphorus
+cultivation systems served to standardize [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]]. Phosphorus
 is an essential macronutrient for fungal growth, required for ATP synthesis,
 nucleic acid production, and phospholipid membrane formation.
 
@@ -107,7 +107,7 @@ effects.
 
 While the dung/grain substrate used in the Gartz study remains effective,
 modern Psilocybe cubensis cultivation has largely shifted toward grain spawn
-(rye, wheat, or millet) for inoculum production, followed by bulk
+(rye, wheat, or millet) for [[arbuscular-mycorrhizal-inoculum-production-best-practices]], followed by bulk
 substrates based on coco coir, vermiculite, and manure or compost. These
 modern substrates offer more consistent performance and easier preparation
 than traditional dung/grain mixtures.
@@ -116,13 +116,19 @@ The brassinosteroid effects demonstrated in the original study would likely
 translate to modern substrate systems, as the compound appears to act on
 the fungus directly rather than through substrate-mediated mechanisms.
 However, the optimal concentration and timing of application might differ
-between substrate types due to differences in nutrient availability,
-water retention, and microbial ecology.
+between substrate types due to differences in [[ph-and-nutrient-availability-garden-soils]],
+water retention, and [[fukuoka-microbial-ecology-decomposition]].
 
 ## Related
+
+- [[malt-agar-vs-dung-grain-comparative-cultivation-psilocybe-cubensis]]
 
 - [[brassinosteroid-dung-grain-substrate-fruiting-enhancement]] Topics
 
 - [[oss-oeric-growing-parameters-cubensis]]
 - [[psychedelic-mushroom-set-and-setting]]
 - [[brassinosteroid-mushroom-yield-dry-mass]]
+
+## See Also
+
+- [[brassinosteroid-substrate-comparison-agar-vs-dung-grain-psilocybe-cubensis]]

@@ -1,18 +1,19 @@
 ---
-title: Fukuoka on Natural Livestock Farming
+title: Fukuoka on fukuoka natural livestock farming Farming
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka on Natural Livestock Farming
 
 **Updated:** 2026-04-18
 
-Masanobu Fukuoka extended his critique of scientific agriculture to livestock farming, arguing that modern animal husbandry produces inferior products, wastes resources, and causes unnecessary suffering. His vision of natural livestock farming is based on allowing animals to live according to their nature -- grazing freely, eating natural foods, and expressing their instinctive behaviors.
+Masanobu Fukuoka extended his [[fukuoka-critique-of-scientific-agriculture]] agriculture to livestock farming, arguing that modern animal husbandry produces inferior products, wastes resources, and causes unnecessary suffering. His vision of natural livestock farming is based on allowing animals to live according to their nature -- grazing freely, eating natural foods, and expressing their instinctive behaviors.
 
 ## Critique of Factory Farming
 
@@ -22,7 +23,7 @@ Fukuoka was scathing in his criticism of modern livestock production:
 
 - "Beef is no longer beef and eggs are no longer truly eggs"
 - Factory-farmed meat, eggs, and dairy are produced with antibiotics, hormones, and residual pesticides
-- The nutritional quality of factory-farmed animal products is inferior to naturally raised equivalents
+- The [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of factory-farmed animal products is inferior to naturally raised equivalents
 - Animals raised in confinement develop health problems that are then treated with more chemicals
 
 ### Resource Waste
@@ -81,7 +82,7 @@ In contrast, natural grazing uses only solar energy captured by pasture plants, 
 
 ### Pollution
 
-- Factory livestock operations produce enormous quantities of manure that cannot be absorbed by the surrounding land
+- [[fukuoka-factory-livestock-critique-natural-grazing-philosophy]] operations produce enormous quantities of manure that cannot be absorbed by the surrounding land
 - Manure runoff contaminates waterways with nitrogen, phosphorus, and pathogens
 - The ammonia and hydrogen sulfide from manure lagoons pollute the air
 - Antibiotics in manure contribute to the development of antibiotic-resistant bacteria
@@ -95,13 +96,13 @@ In contrast, natural grazing uses only solar energy captured by pasture plants, 
 
 ## Comparison with KNF Livestock Methods
 
-Fukuoka's natural livestock philosophy shares much with [[knf-indigenous-microorganism-culture]]-inoculated deep litter systems that allow confined raising without odor, while Fukuoka strongly prefers open grazing
+Fukuoka's natural [[holzer-livestock-philosophy-paddock-system]] shares much with [[knf-indigenous-microorganism-culture]]-inoculated deep litter systems that allow confined raising without odor, while Fukuoka strongly prefers open grazing
 - KNF provides specific techniques for odorless confined production, while Fukuoka's approach is more philosophical
 - KNF is more practically oriented with specific recipes and methods; Fukuoka's approach is more philosophical with fewer specific techniques
 
 ## The Broader Context
 
-Fukuoka placed livestock farming within his larger critique of modern civilization:
+Fukuoka placed livestock farming within his larger [[fukuoka-road-critique-of-modern-science]] civilization:
 
 - The shift from natural to industrial livestock parallels the shift from natural to scientific crop farming
 - Both represent movement away from nature toward human-controlled systems

@@ -1,5 +1,5 @@
 ---
-title: "Fungal Roles in Soil Erosion Prevention"
+title: "dighton-fungal-roles-in-nutrient-cycling in Soil Erosion Prevention"
 created: 2026-04-26
 tags:
   - mycology
@@ -22,8 +22,8 @@ Fungi play critical roles in preventing soil erosion through multiple
 mechanisms including physical binding of soil particles, formation of
 soil aggregates, creation of water-resistant surface crusts, and
 stabilization of plant litter on sloping terrain. These functions
-represent important ecosystem services provided by diverse fungal
-groups including saprotrophs, mycorrhizal fungi, and lichen-forming
+represent important [[biodiversity-of-fungi-ecosystem-services-agriculture]] provided by diverse fungal
+groups including saprotrophs, [[arbuscular-mycorrhizal-fungi-biology-symbiosis]], and lichen-forming
 fungi. The erosion-preventing functions of fungi are particularly
 important in environments where soils are vulnerable to displacement
 by water or wind, including agricultural lands, steep forested slopes,
@@ -60,14 +60,14 @@ Understanding fungal contributions to erosion prevention has
 significant implications for land management practices. Activities that
 disrupt fungal networks, such as intensive tillage, vegetation removal,
 or pollution, can compromise soil stability and increase erosion risk.
-Conversely, management practices that support fungal communities,
+Conversely, management practices that support [[biodiversity-of-fungi-soil-fungal-communities-agriculture]],
 including reduced tillage, maintenance of vegetation cover, and
 minimization of chemical inputs, can enhance the natural
 erosion-preventing functions of fungi.
 
 ## See Also
 
-- [[fungal-soil-aggregation]]
+- fungal-soil-aggregation
 - [[dighton-fungi-desert-arid-ecosystems]]
 - [[dighton-fungi-tropical-forest-ecosystems]]
 ## Practical Considerations
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

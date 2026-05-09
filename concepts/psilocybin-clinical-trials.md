@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Clinical Trials
+title: Psilocybin mushroom-cancer-clinical-trials-overview
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -82,7 +82,7 @@ Emerging evidence suggests psilocybin may be effective for eating disorders:
 
 ### Study Design Challenges
 
-Clinical psilocybin research faces unique methodological challenges:
+Clinical [[early-paris-psilocybin-research-1960s]] faces unique methodological challenges:
 
 - **Blinding**: Difficult to maintain due to conspicuous subjective effects. Active placebos (niacin, diphenhydramine, low-dose psilocybin) are used but imperfect
 - **Expectancy effects**: Patients often have strong expectations about psilocybin, which can confound results
@@ -106,7 +106,7 @@ Across all published trials, psilocybin has demonstrated an excellent safety pro
 
 - No serious adverse events attributed to psilocybin
 - Transient anxiety, confusion, or nausea during sessions — manageable with therapeutic support
-- No cases of persistent psychosis or HPPD in clinical trial populations
+- No cases of [[emcdda-psilocybin-flashbacks-and-persistent-psychosis-risk]] or HPPD in clinical trial populations
 - Cardiovascular effects are mild and transient
 - No evidence of dependence or abuse potential
 
@@ -120,5 +120,7 @@ Across all published trials, psilocybin has demonstrated an excellent safety pro
 See [[psychedelic-assisted-therapy-protocol]] for the therapeutic framework and [[psychedelic-mushroom-pharmacology]] for the pharmacological basis of clinical effects.
 
 ## See Also
+
+- [[psilocybin-clinical-trial-landscape-2020-2025]]
 
 - [[psp-phase-clinical-trials]]

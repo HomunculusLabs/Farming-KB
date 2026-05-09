@@ -1,8 +1,8 @@
 ---
-title: Plant Succession and Community Dynamics
+title: Plant savory plant succession and community dynamics Dynamics
 created: 2026-04-26
 aliases: [plant succession, successional process, community dynamics,
-          ecological succession, successional advance, stability]
+          [[holmgren-ecological-succession-and-pulsing]], successional advance, stability]
 tags: [succession, ecology, community-dynamics, biodiversity,
       ecosystem-health]
 related: [savory-ecosystem-foundation-blocks, savory-brittle-environments,
@@ -16,8 +16,8 @@ type: concept
 
 # Plant Succession and Community Dynamics
 
-Succession is one of the four ecosystem foundation blocks in Holistic
-Resource Management. It describes the continuous, orderly process by
+Succession is one of the four [[savory-ecosystem-foundation-blocks]] blocks in Holistic
+[[savory-holistic-resource-management-animal-impact]]. It describes the continuous, orderly process by
 which living communities advance from simplicity to complexity. All
 management of land by definition affects succession, yet its full
 ramifications in any given case remain so complex as to lie beyond the
@@ -50,7 +50,7 @@ very simple community establishes.
 
 Without soil, only algae, lichens, and minute organisms establish.
 The moment they do, the microenvironment changes. Life holds moisture
-longer, reduces daily temperature range, and retained moisture begins
+longer, reduces daily [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]], and retained moisture begins
 dissolving rock. When dust catches on algae and lichens, moss and
 other organisms invade and simple soil creation begins.
 
@@ -120,7 +120,7 @@ community. The two are inseparable parts of the same whole.
 ## Microenvironments and Dynamic Change
 
 The fundamental importance of dynamic change is easily overlooked. In
-range management, areas were once considered good if they contained the
+[[mollison-pdc-range-management-wildlife]], areas were once considered good if they contained the
 right high successional plants. Many such areas, however, belonged at
 the other end of the scale. The microenvironment at the soil surface
 had deteriorated to the extent that higher species could only reproduce

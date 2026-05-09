@@ -1,10 +1,10 @@
 ---
-title: Beta-Glucan Pharmacology from Medicinal Mushrooms
+title: Beta-Glucan Pharmacology from comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive
 created: 2026-04-26
 updated: 2026-04-24
 sources:
   - Smith, Rowan and Sullivan (2002). Medicinal Mushrooms: Their therapeutic properties and current medical usage with special emphasis on cancer treatments. University of Strathclyde.
-  - Bohn, J.A. and BeMiller, J.N. (1995). (1-3)-beta-D-glucans as biological response modifiers. Carbohydrate Polymers 28, 3-14.
+  - Bohn, J.A. and BeMiller, J.N. (1995). (1-3)-beta-D-glucans as [[medicinal-mushrooms-biological-response-modifiers]] modifiers. Carbohydrate Polymers 28, 3-14.
   - Sasaki, T. and Takasuka, N. (1976). Further study of the structure of lentinan. Carbohydrate Research 47, 99-104.
   - Ohno, N. et al. (1988). Structural characterization and antitumour activity of beta-glucans.
 type: concept
@@ -44,9 +44,9 @@ The antitumour activity of (1-3)-beta-glucans is critically dependent on three-d
 ### Homoglucans (Pure Beta-Glucans)
 Water-soluble beta-D-glucans found across mushroom species:
 - Auricularia auricula-judae: (1-3)-beta-glucan
-- Ganoderma lucidum: Fl-1a (beta-glucan), FIII-2b (hetero-beta-glucan), acidic beta-glucan
-- Grifola frondosa: Grifolan (beta-glucan), Fa-1a-beta (acidic beta-glucan), FIII-2c (hetero-beta-glucan)
-- Trametes versicolor: Beta-glucan, Coriolan, PSK/Krestin (beta-glucan-protein)
+- [[stamets-reishi-ganoderma-lucidum-cultivation]]: Fl-1a (beta-glucan), FIII-2b (hetero-beta-glucan), acidic beta-glucan
+- [[maitake-grifola-frondosa-comprehensive-profile]]: Grifolan (beta-glucan), Fa-1a-beta (acidic beta-glucan), FIII-2c (hetero-beta-glucan)
+- [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]: Beta-glucan, Coriolan, PSK/Krestin (beta-glucan-protein)
 - Agaricus blazei: FI1-a-beta (beta-glucan), FIII2-beta (beta-glucan)
 
 ### Heteropolysaccharides
@@ -63,7 +63,7 @@ Polypeptide chains or small proteins to which polysaccharide chains are stably a
 ## Stability and Degradation
 
 ### Post-Harvest Degradation
-Beta-glucan concentration and activity are affected by fruitbody development stage and storage conditions:
+Beta-glucan concentration and activity are affected by fruitbody development stage and [[vegetable-storage-conditions-by-temperature-and-humidity]]:
 - Immunomodulating activity of L. edodes extracts decreased rapidly at 20 degrees C over 7 days
 - No decrease occurred at low temperature storage (1 and 5 degrees C)
 - Activity decrease was related to Lentinan degradation by internal beta-glucanase activity
@@ -106,6 +106,12 @@ The safety criteria for mushroom-derived beta-glucans have been exhaustively stu
 
 ## See Also
 
-- [[beta-glucan-receptor-binding]]
+- [[beta-carboline-chemistry]]
+
+- [[blesching-cannabis-cancer-night-sweats]]
+
+- [[blesching-cannabis-brain-cancer-glioblastoma]]
+
+- kappa opioid receptor
 - [[cancer-shiitake-lentinan-therapy]]
 - [[mushroom-polysaccharide-extraction-chemistry]]

@@ -1,5 +1,5 @@
 ---
-title: Mushroom Sterile Technique
+title: Mushroom cultivator-sterile-technique-and-agar-culture
 created: 2026-04-28
 tags:
   - mushroom-cultivation
@@ -16,7 +16,7 @@ type: concept
 
 # Mushroom Sterile Technique
 
-Sterile tissue culture has revolutionized the biological sciences. For
+Sterile [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] has revolutionized the biological sciences. For
 the first time in human history, select organisms can be isolated from
 nature, propagated under sterile conditions in the laboratory, and
 released back into the environment in mass quantities. Since a
@@ -77,7 +77,7 @@ petri dishes of mushroom mycelium can result in 500,000 to 1,000,000
 pounds of mushrooms in as short as 12 weeks. If contaminants exist
 in the early stages, they will likewise be expanded in enormous
 quantities. Hence, the utmost care must be taken, especially in the
-early stages of spawn production.
+early stages of [[growing-gourmet-sawdust-spawn-production-use]].
 
 ### Stage I: Culturing on Nutrified Agar Media
 
@@ -93,11 +93,11 @@ quarts of sterilized grain. This expansion is described in detail in
 ### Stage III: Sawdust Spawn Production
 
 Sawdust spawn is inoculated with grain spawn and is best used to
-inoculate fruiting substrates such as logs or supplemented sawdust
+inoculate fruiting substrates such as logs or [[oyster-mushroom-supplemented-sawdust-blocks]]
 formulas. One 5-pound bag of sawdust spawn can effectively inoculate
 5-20 times its mass. No more than two generations of sawdust-to-
 sawdust transfer are recommended in production to avoid senescence.
-Some Oyster cultivators mix fully colonized pasteurized straw into ten
+Some Oyster cultivators mix fully colonized [[oyster-mushroom-pasteurized-straw-cultivation]] into ten
 times more pasteurized straw, but this requires the utmost purity.
 
 ### Stage IV: Formulating the Fruiting Substrate
@@ -120,10 +120,11 @@ with alcohol before and after every session. At every stage, the
 cultivator should leave uninoculated controls (blank petri dishes,
 uninoculated jars) to help diagnose the source of any contamination
 that appears, distinguishing between media preparation problems and
-inoculation technique failures.
+[[pf-tek-inoculation-technique-and-syringe-management]] failures.
 
 ## See Also
 
 - [[grain-spawn-generation]] for Stage II methods
 - [[enriched-sawdust-cultivation]] for Stage IV substrate formulation
-- [[mushroom-cultivation-sterile-laboratory-design]] for facility design specifications
+- mushroom-cultivation-sterile-laboratory-design for facility design specifications
+- [[spawn-production]]

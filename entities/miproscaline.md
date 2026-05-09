@@ -22,7 +22,7 @@ Miproscaline (3,5-dimethoxy-4-methylthiophenethylamine) is a synthetic psychedel
 
 The compound was first synthesized and bioassayed by Shulgin and his research group. It is structurally related to mescaline, with the key difference being substitution of a methylthio group at the 4-position in place of mescaline's 4-hydroxy group.
 
-Miproscaline is classified as a Schedule I controlled substance in the United States under the Federal Analog Act, as a positional isomer of mescaline.
+Miproscaline is classified as a Schedule I controlled substance in the [[dmt-containing-plants-united-states-halpern]] under the Federal Analog Act, as a positional isomer of mescaline.
 
 ## Chemical Properties
 
@@ -58,7 +58,7 @@ According to PIHKAL, the effective dose range for miproscaline is 30–60 mg whe
 
 The duration of effects is approximately 8–12 hours, similar to mescaline. The onset occurs within 45–90 minutes after oral ingestion, with peak effects at 2–4 hours.
 
-Shulgin notes considerable individual variation in sensitivity. As with all serotonergic psychedelics, set and setting significantly influence the quality of the experience.
+Shulgin notes considerable individual variation in sensitivity. As with all serotonergic psychedelics, [[lsd-set-and-setting-framework]] significantly influence the quality of the experience.
 
 ## Synthesis
 
@@ -72,9 +72,9 @@ The synthesis requires standard organic laboratory equipment and reagents. As a 
 
 Miproscaline is unscheduled in many countries but may fall under analogue acts that prohibit substances substantially similar to controlled mescaline.
 
-In the United States, the Federal Analog Act makes miproscaline a de facto Schedule I substance due to its structural relationship to mescaline. Possession, sale, and manufacture carry the same penalties as scheduled drugs.
+In the United States, the Federal Analog Act makes miproscaline a de facto Schedule I substance due to its [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to mescaline. Possession, sale, and manufacture carry the same penalties as scheduled drugs.
 
-In the United Kingdom, the Psychoactive Substances Act 2016 may cover miproscaline as a substance with psychoactive effects. In the EU, individual member state laws vary regarding phenethylamine analogue scheduling.
+In the United Kingdom, the Psychoactive [[controlled-substances-act-and-psychedelic-research]] 2016 may cover miproscaline as a substance with psychoactive effects. In the EU, individual member state laws vary regarding phenethylamine analogue scheduling.
 
 ## History
 
@@ -82,7 +82,7 @@ Miproscaline was first synthesized and characterized by Alexander Shulgin during
 
 Shulgin's interest in the compound was part of a broader research program investigating how substituent changes on the phenethylamine scaffold affect psychedelic potency, duration, and character. The methylthio series represented a relatively underexplored area.
 
-The compound has not been widely studied outside of Shulgin's original work. No formal clinical trials have been conducted, and pharmacological data remains limited to anecdotal reports and the original PIHKAL bioassay.
+The compound has not been widely studied outside of Shulgin's original work. No formal [[mushroom-cancer-clinical-trials-overview]] have been conducted, and pharmacological data remains limited to anecdotal reports and the original PIHKAL bioassay.
 
 ## Related Compounds
 

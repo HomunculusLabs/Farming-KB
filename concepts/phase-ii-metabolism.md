@@ -5,12 +5,13 @@ tags: [pharmacology, toxicology, biochemistry, drug-metabolism, xenobiotics]
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
-sources: []
+sources:
+  sources: []
 ---
 
 ## Overview
 
-Phase II metabolism is the family of biochemical conjugation reactions that attach polar endogenous groups to drugs, natural
+Phase II metabolism is the family of biochemical [[phase-ii-conjugation-reactions-drug-metabolism]] that attach polar endogenous groups to drugs, natural
 products, environmental chemicals, and endogenous metabolites. These reactions usually increase water solubility and promote
 excretion in bile or urine.
 
@@ -63,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

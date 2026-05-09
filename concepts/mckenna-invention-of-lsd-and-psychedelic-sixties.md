@@ -1,5 +1,5 @@
 ---
-title: The Invention of LSD and the Psychedelic Sixties
+title: The mckenna invention of lsd and psychedelic sixties and the Psychedelic Sixties
 created: 2026-04-28
 tags: [lsd, hofmann, psychedelic, history, 1960s, psychopharmacology, huxley, cia, mckenna]
 date: 2026-04-28
@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 # The Invention [[indole]]
-hallucinogens but were nevertheless capable of inducing intense altered states.
+hallucinogens but were nevertheless capable of inducing intense [[weil-the-natural-mind-altered-states-normalcy]].
 As late as the Middle Ages the witch was still the ha-gazussa, a being that sat
 on the Hag, the fence, which passed behind the gardens and separated the village
 from the wilderness. She was a being who participated in both worlds.
@@ -111,5 +111,7 @@ after the CIA initiated a series of covert operations designed to disrupt, discr
 and neutralize the New Left. Was this merely a historical coincidence, or did the
 Agency actually take steps to promote the illicit acid trade? CIA spokesmen dismissed
 ## See Also
+
+- [[mckenna-psychedelic-terror-and-existential-authenticity]]
 
 - [[mckenna-eleusinian-mystery-and-psychedelic-sacrament]]

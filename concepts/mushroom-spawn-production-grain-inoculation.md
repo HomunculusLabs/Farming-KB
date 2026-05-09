@@ -9,9 +9,9 @@ sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# [[mushroom-spawn]] is the living fungal inoculum used to introduce mycelium into a
-prepared substrate. Spawn production is a specialized process that requires
-rigorous sterile technique, quality control, and careful strain selection. The
+# mushroom-spawn is the living fungal inoculum used to introduce mycelium into a
+prepared substrate. [[growing-gourmet-sawdust-spawn-production-use]] is a specialized process that requires
+rigorous [[cultivator-sterile-technique-and-agar-culture]], quality control, and careful [[blesching-cannabis-strain-selection-receptor-targeting]]. The
 quality of spawn directly determines the success of the entire cultivation
 cycle, making spawn production one of the most technically demanding aspects of
 commercial mushroom farming.
@@ -45,7 +45,7 @@ niche and heirloom cultivation contexts.
 
 Cultivated mushroom strains are maintained through serial subculture on agar
 media. Strain selection considers growth rate, yield potential, fruiting
-temperature range, disease resistance, and mushroom quality characteristics
+[[query-what-is-the-ideal-temperature-range-for-growing-cannabis]], disease resistance, and mushroom quality characteristics
 (size, color, shelf life). Commercial spawn laboratories maintain extensive
 strain libraries and conduct regular performance testing.
 
@@ -77,12 +77,12 @@ or off-odors from bacterial growth.
 Certified spawn producers in many countries operate under regulatory
 frameworks that mandate regular testing for specific contaminants and
 pathogens. Poor-quality spawn is the most common cause of crop failure in
-commercial mushroom cultivation.
+commercial [[accessible-mushroom-cultivation-for-disabilities]].
 
 ## Spawn Rates
 
 The proportion of spawn to substrate (spawn rate) affects colonization speed
-and crop economics. Typical spawn rates for Agaricus bisporus are 1–3% of
+and crop economics. Typical spawn rates for [[genetic-improvement-agaricus-bisporus-molecular-approaches]] are 1–3% of
 substrate dry weight. Higher spawn rates give faster colonization and better
 contamination resistance but increase input costs.
 
@@ -90,3 +90,6 @@ contamination resistance but increase input costs.
 
 - [[agaricus-bisporus-cultivation-biology]]
 - [[fungal-fruiting-body-formation-environmental-triggers]]
+- [[spawn-production]]
+- [[mushroom-spawn-grain-preparation-inoculation]]
+- [[singh-mushroom-spawn-production-grain-spawn]]

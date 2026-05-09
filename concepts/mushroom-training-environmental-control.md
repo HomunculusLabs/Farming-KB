@@ -1,5 +1,5 @@
 ---
-title: Mushroom Cultivation Environmental Control
+title: accessible-mushroom-cultivation-for-disabilities eclss-environmental-control-life-support
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
@@ -15,7 +15,7 @@ sources:
 
 # Mushroom Cultivation Environmental Control
 
-Successful mushroom cultivation depends on precise management of four environmental factors:
+Successful mushroom cultivation depends on precise management of four [[duggar-mushroom-environmental-factors-temperature-moisture-light]]:
 humidity, temperature, ventilation, and light. The FAO training manual provides practical
 guidance on controlling these factors in simple mushroom houses, emphasizing observation and
 basic management over expensive equipment.
@@ -34,12 +34,12 @@ Humidity must be maintained between 75 and 90 percent. Key practices:
 |---------|----------------------|--------|
 | Oyster (Pleurotus ostreatus) | 24 to 35 | Rainy and cold |
 | Ear (Auricularia polytricha) | 26 to 36 | Late summer, rainy |
-| Straw (Volvariella volvacea) | 28 to 38 | Summer, rainy |
-| Button (Agaricus bisporus) | 20 to 30 | Winter |
+| Straw ([[paddy-straw-mushroom-volvariella-volvacea-cultivation]]) | 28 to 38 | Summer, rainy |
+| Button ([[genetic-improvement-agaricus-bisporus-molecular-approaches]]) | 20 to 30 | Winter |
 | Shiitake (Lentinula edodes) | 20 to 30 | Mid-rainy, winter |
 | Enoki (Flammulina velutipes) | 8 to 20 | Winter |
 | Lion's mane (Hericium erinaceus) | 23 to 31 | Mid-rainy, winter |
-| Reishi (Ganoderma lucidum) | 24 to 37 | Summer, rainy |
+| Reishi ([[stamets-reishi-ganoderma-lucidum-cultivation]]) | 24 to 37 | Summer, rainy |
 
 Temperature management: open or close doors and windows. If too hot, leave doors open at
 night. Beware of wide-range changes between seasons.
@@ -110,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

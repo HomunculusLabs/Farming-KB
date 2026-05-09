@@ -1,11 +1,11 @@
 ---
-title: Jarrold Boil-a-Bag Mushroom Cultivation Method
+title: Jarrold Boil-a-Bag accessible-mushroom-cultivation-for-disabilities Method
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
 tags: [cultivation, mycology, technique]
 sources:
-  - "Indoor Mushroom Growing Technique for the Boil-A-Bag by D H Jarrold"
+  - "Indoor duggar-mushroom-growing-history-and-methods Technique for the Boil-A-Bag by D H Jarrold"
 ---
 # Jarrold Boil-a-Bag [[mushroom-cultivation]] method developed by D.H. Jarrold. It uses heat-resistant plastic bags as both the [[spore-print]] to harvest.
 
@@ -16,7 +16,7 @@ sources:
 - **Pressure cooker**: For substrate sterilisation at 15 psi
 - **Syringe and needle**: Standard syringe; a long needle can be fabricated from stainless steel tubing inserted into the needle holder
 - **Spore print**: In a glass jar with metal screw lid
-- **Propyl alcohol**: For surface sterilisation
+- **Propyl alcohol**: For [[microwave-trace-water-surface-sterilisation-protocol]]
 - **Spirit burner**: With methylated spirits for flame sterilisation
 - **Pyrex glass container**: For sterile water preparation
 - **Cotton wool buds**: For alcohol swabbing
@@ -44,7 +44,7 @@ The filter can sits inside the open top of each bag, creating a sterile breathin
 2. Place straw in a large watertight container
 
 ### Marmite Solution
-3. Dissolve one heaped tablespoon of Marmite (yeast extract) in boiling water
+3. Dissolve one heaped tablespoon of Marmite ([[marmite-yeast-extract-straw-substrate]]) in boiling water
 4. Add to a bucket with approximately 6 litres of additional boiling water
 5. Pour the Marmite solution over the straw and weigh the straw down
 6. Soak for 1-2 hours, checking water level and adding more boiling water if needed
@@ -108,7 +108,7 @@ Two inoculation approaches are described:
 1. Place inoculated bags in a cardboard box in a warm location
 2. Mycelium growth should be visible within a few days
 3. Once the mycelium has fully colonised the bag, remove the filter can
-4. Transfer bags to a humidity chamber (e.g., a 4ft x 2ft fish tank)
+4. Transfer bags to a [[mushroom-humidity-chamber-design-operation]] (e.g., a 4ft x 2ft fish tank)
 5. Add a layer of soaked hydro pellets to the tank bottom for humidity
 6. Cover the tank with plastic sheeting to seal in humidity and exclude flies
 7. Fan fresh air into the tank twice daily
@@ -132,7 +132,7 @@ Two inoculation approaches are described:
 Built from hardware and car accessory shop materials. Uses an air stone, tubing, and small aquarium air pump with a small hole near the top feeding pipe to a water container. Inner angled drip lids from 2 mm plastic sheet provide continuous humidity without manual misting.
 
 ### Warm Humid Air Delivery System
-Designed for cold climates. A container with water, lid, and input fan; multiple small ducts as outlets, one large duct as main input. Water heater with timer controls temperature and humidity. Growing chambers are plumbed in once calibrated.
+Designed for cold climates. A container with water, lid, and input fan; multiple small ducts as outlets, one large duct as main input. Water heater with timer controls [[greg-green-temperature-and-humidity-control]]. Growing chambers are plumbed in once calibrated.
 
 ## Key Advantages
 
@@ -140,6 +140,8 @@ Designed for cold climates. A container with water, lid, and input fan; multiple
 - **Self-contained**: Each bag is an independent growing unit, reducing cross-contamination risk
 ## See Also
 
-- [[straw-substrate-boil-a-bag-cultivation-method]]
+- [[pf-tek-mushroom-cultivation-method]]
 
-- [[oyster-mushroom-bag-cultivation]]
+- straw-substrate-boil-a-bag-cultivation-method
+
+- oyster-mushroom-bag-cultivation

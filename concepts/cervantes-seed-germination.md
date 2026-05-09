@@ -1,10 +1,11 @@
 ---
-title: "cannabis-seed-germination and Seedling Care"
+title: "cannabis-seed-germination and cannabis-seedling-care-guide"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
 tags: [cannabis, plant-growth]
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
@@ -23,7 +24,7 @@ A seed contains all the genetic characteristics of a plant — genes from both m
 
 ## Germination Requirements
 
-cannabis seeds need only three things to germinate:
+[[query-how-to-store-cannabis-seeds-for-long-term-viability]] need only three things to germinate:
 1. **Water** — moisture penetrates the protective seed shell, activates dormant hormones
 2. **Temperature** — best at 78°F (25°C); range 70-90°F (21-32°C)
 3. **Air (oxygen)** — moist, soggy mediums cut off oxygen and seeds drown
@@ -36,7 +37,7 @@ cannabis seeds need only three things to germinate:
 | 10-14 days | First roots become visible |
 | 21-30 days | At least half of seeds rooted; unrooted seeds by day 30 will likely grow slowly |
 
-Once rooted, cell growth accelerates — stem, foliage, and roots develop quickly. Seedlings develop into full vegetative growth within 4-6 weeks.
+Once rooted, cell growth accelerates — stem, foliage, and roots develop quickly. Seedlings develop into full [[cannabis-vegetative-growth-stage]] within 4-6 weeks.
 
 ## Planting Depth
 
@@ -76,12 +77,12 @@ Of ten quality seeds, some will be male, some weak, and two or three will grow i
 
 ## Related Topics
 - [[cervantes-growing-medium]] — Growing medium selection
-- [[cervantes-nutrient-management]] — Nutrient management for seedlings
+- [[cervantes-nutrient-management]] — [[green-cannabis-grow-bible-nutrient-management-ppm]] for seedlings
 
 ## Additional Context
 
-Further research on cervantes comparison cannabis clone continues to advance our understanding of this field. Contemporary studies build upon the foundational work described above, incorporating modern molecular techniques, genomic analyses, and ecological modeling approaches.
+Further research on cervantes comparison [[comparison-cannabis-clone-rooting-and-transplanting-vs-seed-germination]] continues to advance our understanding of this field. Contemporary studies build upon the foundational work described above, incorporating modern molecular techniques, genomic analyses, and ecological modeling approaches.
 
-The interplay between environmental factors and biological responses in cervantes seed germination represents an active area of investigation, with implications for both theoretical ecology and practical applications in agriculture, medicine, and conservation.
+The interplay between [[duggar-mushroom-environmental-factors-temperature-moisture-light]] and biological responses in cervantes seed germination represents an active area of investigation, with implications for both theoretical ecology and practical applications in agriculture, medicine, and conservation.
 
 Key areas of ongoing research include optimization of cultivation parameters, understanding genetic regulation of relevant pathways, and development of improved methodologies for assessment and implementation.

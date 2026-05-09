@@ -1,5 +1,5 @@
 ---
-title: Polycarbonate vs Glass Greenhouse Glazing
+title: Polycarbonate vs comparison polycarbonate vs glass greenhouse glazing Glazing
 created: 2026-04-28
 tags: [greenhouse, glazing, polycarbonate, glass, construction, season-extension, horticulture, permaculture]
 date: 2026-04-28
@@ -10,7 +10,7 @@ type: comparison
 
 # Polycarbonate vs Glass Greenhouse Glazing
 
-Choosing the right glazing is one of the most important decisions in greenhouse construction. Polycarbonate and glass are the two most common options, each with distinct tradeoffs in light quality, insulation, durability, and cost. This comparison helps growers select the best material for their season extension goals, climate, and budget.
+Choosing the right glazing is one of the most important decisions in greenhouse construction. Polycarbonate and glass are the two most common options, each with distinct tradeoffs in light quality, insulation, durability, and cost. This comparison helps growers select the best material for their [[comparison-season-extension-techniques-vs-cold-frame-gardening]] goals, climate, and budget.
 
 ## Comparison Table
 
@@ -74,7 +74,7 @@ Choosing the right glazing is one of the most important decisions in greenhouse 
 
 ## Twin-Wall and Triple-Wall Polycarbonate
 
-Multi-wall panels are the most popular choice for hobby and mid-scale [[permaculture]] and homestead-scale operations, the cost premium is hard to justify.
+Multi-wall panels are the most popular choice for hobby and mid-scale permaculture and homestead-scale operations, the cost premium is hard to justify.
 
 ## Climate Considerations
 
@@ -109,7 +109,7 @@ Polycarbonate is the clear winner on raw 20-year cost. Glass closes the gap in m
 
 ### Polycarbonate Is Best For
 
-- Cold frame and hoop-house upgrades
+- [[comparison-cold-frame-gardening-vs-container-gardening-guide]] and hoop-house upgrades
 - Homestead and backyard greenhouses in cold climates
 - High-altitude or exposed growing sites
 - Propagation houses where diffuse light is beneficial

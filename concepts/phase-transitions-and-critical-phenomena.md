@@ -1,5 +1,5 @@
 ---
-title: "Phase Transitions and Critical Phenomena"
+title: "Phase phase transitions and critical phenomena Phenomena"
 created: 2026-04-28
 updated: 2026-05-06
 aliases: [phase transitions, critical phenomena, critical exponents, universality, renormalization group]
@@ -7,14 +7,14 @@ tags: [physics, thermodynamics, statistical-mechanics, condensed-matter, materia
 related: [laws-of-thermodynamics, heat-transfer-mechanisms, navier-stokes-equations]
 type: concept
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources: []
 ---
 
 ## Overview
 
 A phase transition is a transformation of a thermodynamic system from one phase to another, characterized by non-analytic behavior in thermodynamic
 quantities such as the free energy, entropy, or specific heat. Phase transitions are ubiquitous in nature — from the boiling of water to the onset of
-superconductivity — and their study connects thermodynamics, [[statistical-mechanics]], and condensed matter physics. The behavior of systems near
+[[superconductivity]] — and their study connects thermodynamics, [[statistical-mechanics]], and condensed matter physics. The behavior of systems near
 critical points, where the distinction between phases vanishes, reveals remarkable universal properties that are independent of microscopic details,
 described by renormalization group theory and characterized by critical exponents and universality classes.
 
@@ -84,8 +84,8 @@ methods.
 
 The renormalization group (RG) provides the deep theoretical framework for understanding critical phenomena and universality. Leo Kadanoff introduced
 the block spin concept in 1966: near T_c the correlation length diverges, so the system is scale-invariant. Dividing the lattice into blocks and
-replacing each block's spins with a single effective spin defines an RG transformation that maps coupling constants to new values. Kenneth Wilson made
-RG quantitative in 1971 (Nobel Prize 1982) by integrating out short-wavelength fluctuations step by step via momentum-shell RG.
+replacing each block's spins with a single effective spin defines an RG transformation that [[maps]] coupling constants to new values. Kenneth Wilson made
+RG quantitative in 1971 (Nobel Prize 1982) by integrating out short-wavelength fluctuations [[fukuoka-rice-barley-step-by-step-method]] via momentum-shell RG.
 
 Under successive RG transformations, coupling constants flow through parameter space. Fixed points of this flow correspond to scale-invariant critical
 points. Relevant perturbations (growing under RG) drive the system away from criticality and determine critical exponents; irrelevant perturbations

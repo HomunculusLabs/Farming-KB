@@ -9,7 +9,7 @@ sources:
 ---
 # Cannabis Neurological Conditions
 
-The endocannabinoid system is intimately involved in neurological function, making cannabis a promising therapeutic option for a range of neurological conditions. The Cannabis Health Index (CHI) covers neurological diseases in general, with specific sections on epilepsy, multiple sclerosis, Parkinson's disease, ALS, and neuropathies. CBD in particular has emerged as a very promising agent for neurological disorders.
+The endocannabinoid system is intimately involved in neurological function, making cannabis a promising therapeutic option for a range of neurological conditions. The [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI) covers neurological diseases in general, with specific sections on epilepsy, multiple sclerosis, Parkinson's disease, ALS, and neuropathies. CBD in particular has emerged as a very promising agent for neurological disorders.
 
 ## The Endocannabinoid System and the Nervous System
 
@@ -70,7 +70,7 @@ CBD's anticonvulsant effects are mediated through multiple pathways:
 
 - Cannabis is particularly effective for neuropathic pain (pain from nerve damage)
 - Both THC and CBD contribute to pain relief through different receptor pathways
-- Whole-plant preparations may outperform isolated cannabinoids due to the entourage effect
+- Whole-plant preparations may outperform isolated cannabinoids due to the [[cannabis-terpene-entourage-effect-profiles]]
 - Useful as an opioid-sparing adjunct, reducing opioid dose requirements
 - Effective for neuropathies associated with diabetes, HIV, chemotherapy, and other conditions
 
@@ -78,7 +78,7 @@ CBD's anticonvulsant effects are mediated through multiple pathways:
 
 CBD is considered a very promising agent with the highest prospect for therapeutic use in the treatment of neurodegenerative illness. Key neuroprotective mechanisms include:
 - Reduction of neuroinflammation through CB2 receptor activation
-- Antioxidant properties that reduce oxidative stress in neurons
+- Antioxidant properties that reduce [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in neurons
 - Modulation of glutamate excitotoxicity
 - Promotion of neuronal survival and repair
 - CBD may also be useful in preventing nerve damage associated with alcohol poisoning
@@ -97,7 +97,7 @@ The Cannabis Health Index notes that CBD affects diseases of both the mind and t
 ## Safety Considerations
 - High THC doses may impair cognitive function, which is particularly relevant for patients with pre-existing cognitive impairment
 - CBD is generally well-tolerated with minimal side effects
-- Drug interactions with antiepileptic medications should be monitored
+- [[cannabis-drug-interactions-and-contraindications]] with antiepileptic medications should be monitored
 - Always consult with a neurologist before adding cannabis to a treatment regimen
 - Adolescents with a family history of psychosis should exercise particular caution with THC
 

@@ -10,7 +10,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Westberg, M. (2007). "Candelariella." Nordic Lichen Flora, Vol. 4. Museum of Evolution, Uppsala University.
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens of North America. Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens of [[psilocybin-north-america-pacific-northwest]]. Yale University Press.
   - Purvis, O.W. et al. (1992). The Lichen Flora of Great Britain and Ireland. Natural History Museum Publications.
   - Wirth, V., Hauck, M., Schulz, M. (2013). Die Flechten Deutschlands. Eugen Ulmer KG.
 ---
@@ -21,7 +21,7 @@ sources:
 
 The species is readily recognized by its vivid egg-yolk yellow thallus and its granular to minutely squamulose surface texture. It is one of the most common yellow crustose lichens on both natural and artificial substrates in urban and rural environments.
 
-Candelariella vitellina contains calycin and pulvic acid as its primary secondary metabolites. These pulvinic acid derivatives are responsible for the characteristic bright yellow pigmentation.
+Candelariella vitellina contains calycin and pulvic acid as its primary [[antifungal-secondary-metabolites-coprophilous-fungi]]. These pulvinic acid derivatives are responsible for the characteristic bright yellow pigmentation.
 
 ## Taxonomy and Morphology
 
@@ -53,7 +53,7 @@ On bark, it occurs on a broad range of tree species including both deciduous and
 
 The species is tolerant of a wide range of environmental conditions, including full sun exposure and moderate atmospheric pollution. It is frequently one of the first lichens to colonize newly exposed stone and concrete surfaces.
 
-It occurs from sea level to subalpine elevations and is common in both rural and urban environments. The species reaches its greatest abundance in areas with moderate rainfall and good air quality.
+It occurs from sea level to subalpine elevations and is common in both rural and urban environments. The species reaches its greatest abundance in areas with moderate rainfall and good [[cervantes-air-quality-ventilation]].
 
 In Mediterranean climates, C. vitellina is common on exposed rock outcrops and stone walls that experience strong seasonal drying. It is one of the dominant crustose lichens on coastal limestone and granite in western Ireland and Scotland.
 
@@ -65,7 +65,7 @@ Candelariella vitellina contains calycin as the major secondary metabolite, with
 
 Calycin has demonstrated moderate antimicrobial and antifungal activity in laboratory studies. It shows particular activity against Gram-positive bacteria and certain plant pathogenic fungi.
 
-The antimicrobial mechanism involves disruption of bacterial cell membrane integrity. Minimum inhibitory concentrations for calycin against Staphylococcus aureus have been reported in the range of 32 to 64 μg/mL.
+The antimicrobial mechanism involves disruption of bacterial [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] integrity. Minimum inhibitory concentrations for calycin against Staphylococcus aureus have been reported in the range of 32 to 64 μg/mL.
 
 Pulvic acid derivatives from Candelariella species have attracted interest as potential natural dyes and pigments. The intense yellow colour and reasonable lightfastness make them candidates for textile and artistic applications.
 
@@ -75,7 +75,7 @@ The KC+ pink reaction is a reliable diagnostic character distinguishing C. vitel
 
 ## Ecological Role
 
-Candelariella vitellina is an early colonizer of exposed stone and concrete surfaces in both natural and built environments. It plays a significant role in the initial stages of lithophytic succession on building materials and stone monuments.
+Candelariella vitellina is an early colonizer of exposed stone and concrete surfaces in both natural and [[fungal-biodiversity-built-environments-indoor-mycobiome]]. It plays a significant role in the initial stages of lithophytic succession on [[natural-building-materials-guide]] and stone monuments.
 
 The species contributes to the biodeterioration of stone cultural heritage through subtle chemical and physical weathering processes. Conservation scientists study C. vitellina as part of efforts to manage biological colonization of historic buildings and monuments.
 

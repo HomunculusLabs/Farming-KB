@@ -1,5 +1,5 @@
 ---
-title: Pf Tek Jar Preparation Steam Sterilization
+title: Pf pf tek jar preparation steam sterilization Preparation pf-tek-steam-sterilization-pot-method-common-pottery
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 author: Robert "Psylocybe Fanaticus" McPherson
 tags: [pf-tek, sterilization, steam, jar, inoculation, canning, cultivation]
@@ -8,7 +8,7 @@ tags: [pf-tek, sterilization, steam, jar, inoculation, canning, cultivation]
 # PF Tek Jar Preparation and Steam Sterilization
 
 The PF TEK jar preparation and steam sterilization process is the
-foundation of reliable home cultivation. This page covers the
+foundation of reliable [[mushroom-home-cultivation-history]]. This page covers the
 complete workflow from jar selection through sterile inoculation.
 
 ## Jar Selection and Preparation
@@ -41,7 +41,7 @@ Each jar lid requires modification for gas exchange:
 5. Clean lids with alcohol before use
 
 The holes serve as inoculation points and gas exchange ports. They
-are small enough that the dry vermiculite barrier prevents most
+are small enough that the [[pf-tek-dry-vermiculite-contaminant-barrier]] barrier prevents most
 contamination while allowing the [[spore-syringe]] vigorously to distribute spores evenly
 3. Flame-sterilize the syringe needle with a lighter until it
    glows red. Allow it to cool for 15-30 seconds
@@ -67,8 +67,10 @@ contamination while allowing the [[spore-syringe]] vigorously to distribute spor
 
 ## See Also
 
+- [[pf-tek-control-jar-sterility-verification]]
+
 - [[mushroom-desiccant-drying-methods]] - Post-harvest drying
-- [[mushroom-potency-harvest-age]] - Harvest timing and potency
+- [[mushroom-potency-harvest-age]] - [[cannabis-harvest-timing-visual-cues]] and potency
 ## Practical Considerations
 
 Successful implementation of Pf Tek Jar Preparation Steam Sterilization requires attention to
@@ -87,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

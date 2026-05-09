@@ -1,5 +1,5 @@
 ---
-title: Holzer Thailand Permaculture Project
+title: Holzer holzer thailand permaculture project Project
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -13,7 +13,7 @@ A [[sepp-holzer-entity]] was undertaken at an orphanage in Thailand, designed to
 
 ## Site Conditions
 
-The roughly 50-hectare plot of land directly borders intensively farmed paddy fields. Water was available in large amounts but was heavily polluted from intensive farming. High quality clay was available in inexhaustible amounts on site, making it an ideal building material. Storage rooms and even houses could be built simply and very inexpensively using local clay.
+The roughly 50-hectare plot of land directly borders intensively farmed paddy fields. Water was available in large amounts but was heavily polluted from intensive farming. High quality clay was available in inexhaustible amounts on site, making it an ideal [[fungal-building-material-deterioration]]. Storage rooms and even houses could be built simply and very inexpensively using local clay.
 
 ## LOVE ~ PEACE Water Landscape
 
@@ -22,13 +22,13 @@ The central design feature involves shaping approximately 50 hectares of land in
 ### Pond Design Principles
 Within the individual ponds, deep and shallow areas accommodate the different requirements of various types of fish, crayfish, crabs, and mussels (see [[holzer-raised-bed-design-principles]] in Austria.
 
-The result is a water garden with many uses, enclosed by a raised bed — a design approach detailed in [[microclimate-creation-permaculture]] such as dry areas and "mini rainforests" — a precursor to the [[holzer-fruit-tree-planting-method]] and also used extensively at the Krameterhof. This technique involves planting trees in excavated trenches that collect water and organic matter, giving the young trees the best possible start.
+The result is a water garden with many uses, enclosed by a [[comparison-chinampas-vs-raised-bed-gardening]] — a design approach detailed in microclimate-creation-permaculture such as dry areas and "mini rainforests" — a precursor to the holzer-fruit-tree-planting-method and also used extensively at the Krameterhof. This technique involves planting trees in excavated trenches that collect water and [[hamilton-composting-and-organic-matter-management]], giving the young trees the best possible start.
 
 ## Clay Building
 
-Using an excavator, buildings of clay construction could be erected very quickly. The concept proposed using locally available clay and loam for storage rooms and houses, following principles of [[permaculture-climatic-zones-design]] principles applied in a tropical context:
+Using an excavator, buildings of clay construction could be erected very quickly. The concept proposed using locally available clay and loam for storage rooms and houses, following principles of permaculture-climatic-zones-design principles applied in a tropical context:
 
-1. **Multiple functions** -- Water bodies serve for fish production, flood control, microclimate creation, recreation, and wildlife habitat simultaneously
+1. **Multiple functions** -- Water bodies serve for fish production, flood control, [[mollison-designers-microclimate-creation-frost-protection]], recreation, and wildlife habitat simultaneously
 2. **Working with natural materials** -- Local clay used for building, reed beds for water purification
 3. **Microclimate creation** -- Shaping land to create diverse growing conditions from dry areas to mini rainforests
 4. **Integration of education and production** -- The landscape serves as both a teaching garden for orphans and a productive food system
@@ -37,7 +37,7 @@ Using an excavator, buildings of clay construction could be erected very quickly
 ## Related Concepts
 
 - [[holzer-kitchen-garden-layout-and-traditional-gardening]]
-- [[microclimate-creation-permaculture]]
+- microclimate-creation-permaculture
 - [[permaculture-water-harvesting]]
 - [[keyline-design]]
 - [[swale-design]]
@@ -47,9 +47,9 @@ Using an excavator, buildings of clay construction could be erected very quickly
 [[biointensive-gardening-overview]]
 
 [[krameterhof-holzer-model-farm]] -- Projects chapter, Thailand permaculture project section.
-- [[permaculture]]
-- [[aquaculture-in-permaculture]]
-- [[permaculture-climatic-zones-design]]
+- permaculture
+- aquaculture-in-permaculture
+- permaculture-climatic-zones-design
 ## Practical Considerations
 
 When working with Holzer Thailand Permaculture Project, several practical factors should be
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

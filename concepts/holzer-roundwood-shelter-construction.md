@@ -1,16 +1,17 @@
 ---
-title: Holzer Roundwood Shelter and Earth Cellar Construction
+title: Holzer holzer [[roundwood-shelter-building]] construction and [[earth-cellar-construction]]
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Roundwood Shelter and Earth Cellar Construction
 
-Earth is the cheapest and best insulation. The temperature of the soil balances out fluctuations and provides a steady room temperature, which benefits both livestock and crop storage. These structures can be built anywhere in the world using local materials.
+Earth is the cheapest and best insulation. The temperature of the soil balances out fluctuations and provides a steady room temperature, which benefits both livestock [[root-cellaring-and-crop-storage]]. These structures can be built anywhere in the world using local materials.
 
 ## Earth Shelter Pigsties (Simplest Design)
 
@@ -39,7 +40,7 @@ Earth is the cheapest and best insulation. The temperature of the soil balances 
 ### Wall Construction
 1. Choose timber with large dimensions (thicker = longer lasting)
 2. Best wood types: larch and robinia (longest lasting)
-3. Timber quality (knots, bark beetles) is minor importance -- low-quality timber works fine
+3. Timber quality (knots, [[dighton-fungus-cultivation-ants-termites-bark-beetles]]) is minor importance -- low-quality timber works fine
 4. Can use timber from windbreak plantings
 5. Lean logs against inside of slope during construction
 6. Place all logs for each wall and fill around them in one go (for evenness)
@@ -81,14 +82,14 @@ Earth is the cheapest and best insulation. The temperature of the soil balances 
 5. For permanent storage: install a door
 
 ### Storage Conditions
-- Earth cellars maintain 80-90% humidity (ideal for crops)
+- [[sepp-holzer-earth-cellars-and-philosophy]] maintain 80-90% humidity (ideal for crops)
 - Steady temperature between 8-10C using only soil warmth
 - Modern heated cellars with concrete floors are disastrous for crop storage (too dry -- apples wither and wrinkle)
 - High humidity + steady temperature = ideal for the majority of crops
 
 ### Stone Cellars (Permanent Storage)
 
-Additional details for permanent stone cellar construction:
+Additional details for permanent [[holzer-stone-cellar-construction]]:
 - Gravel floor for drainage
 - Ventilation pipes must be large enough for required oxygen
 - Air inlet pipe: at least 10 meters long, reaching about 1 meter deep
@@ -100,6 +101,6 @@ Additional details for permanent stone cellar construction:
 - Air outlet pipe: placed at highest point in the room (prevents condensation)
 - Check roundwood shelters and storage rooms regularly like any building
 
-See also: [[sepp-holzer-terrace-systems-and-raised-beds]], [[faires-underground-and-earth-berm-homes]]
+See also: [[sepp-holzer-terrace-systems-and-raised-beds]], faires-underground-and-earth-berm-homes
 - [[gaias-garden-cover-crops-soil-building]]
 - [[underground-house-and-earth-berm-construction]]

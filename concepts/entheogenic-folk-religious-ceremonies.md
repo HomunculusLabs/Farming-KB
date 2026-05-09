@@ -14,8 +14,8 @@ tags: [peyote, ayahuasca-churches, native-american-church, bwiti, iboga, syncret
 
 Entheogenic folk religious ceremonies represent organized, communal uses of
 psychoactive plants within formally recognized church structures. Ralph Metzner
-(1998) distinguished these from both traditional shamanic healing rituals (which
-emphasize healing and divination in small groups) and from Western psychedelic
+(1998) distinguished these from both traditional [[metzner-shamanic-healing-and-divination-paradigm]] rituals (which
+emphasize healing and divination in small groups) and from [[shamanic-vs-western-psychedelic-healing]]
 psychotherapy (which operates within a clinical framework). Folk religious
 ceremonies typically involve larger groups (20 to several hundred participants)
 and focus on community bonding, celebratory worship, and spiritual practice
@@ -44,10 +44,10 @@ psychopathologies.
 ## Native American Church (Peyote)
 
 The Native American Church (NAC) is the most legally established entheogenic
-religion in North America. Key features:
+religion in [[psilocybin-north-america-pacific-northwest]]. Key features:
 
 - **Sacrament**: Peyote cactus (*Lophophora williamsii*)
-- **Ceremony structure**: All-night ceremony in a tipi with central fire
+- **[[ayahuasca-ceremony-structure-and-practice]]**: All-night ceremony in a tipi with central fire
 - **Leadership**: Roadman presides, assisted by drummer, firekeeper, and
   cedar-man (for purification)
 - **Music**: Staff and rattle passed around; near-constant singing of
@@ -97,7 +97,7 @@ is legal in Brazil within this framework.
 ## Bwiti Cult (Iboga)
 
 The Bwiti cult among the Fang people of Gabon and Zaire uses the powerful
-hallucinogen iboga (from *Tabernanthe iboga*), source of ibogaine:
+hallucinogen iboga (from *[[plants-of-the-gods-tabernanthe-iboga-chemistry]]*), source of ibogaine:
 
 - **Origins**: Fang say they learned iboga use from Pygmies (deep forest
   dwellers)
@@ -112,7 +112,7 @@ hallucinogen iboga (from *Tabernanthe iboga*), source of ibogaine:
 
 ## Protective Function Against Cultural Erosion
 
-Anthropologists have noted that entheogenic churches serve as protective
+Anthropologists have noted that [[metzner-syncretic-entheogenic-churches-brazil-bwiti]] serve as protective
 shields against two external pressures:
 1. **Christian missionaries**: Traditional lore provides a counterweight to
    conversion pressures

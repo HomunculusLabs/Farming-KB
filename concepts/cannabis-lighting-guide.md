@@ -1,15 +1,16 @@
 ---
-title: Cannabis Lighting Guide
+title: green-cannabis-lighting-guide Guide
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [cannabis, indoor, lighting, equipment, plant-growth]
-sources: []
+sources:
+  sources: []
 ---
 
 # Cannabis Lighting Guide
 
-Light is the single most important factor in indoor cannabis cultivation. It drives photosynthesis, regulates the plant's life cycle through photoperiod, and directly influences yield, potency, and morphology. This guide covers the science of grow lighting, fixture types, and practical setup guidance.
+Light is the single most important factor in indoor [[query-how-does-no-till-cannabis-cultivation-work]]. It drives photosynthesis, regulates the plant's life cycle through photoperiod, and directly influences yield, potency, and morphology. This guide covers the science of grow lighting, fixture types, and practical setup guidance.
 
 ## Light Science Fundamentals
 
@@ -33,7 +34,7 @@ Different wavelengths serve different functions:
 
 - **Blue light (400-500nm)**: Promotes compact, leafy vegetative growth. Essential for strong stems and healthy leaf development.
 - **Green light (500-600nm)**: Less efficiently absorbed but penetrates deeper into the canopy.
-- **Red light (600-700nm)**: Drives flowering, stem elongation, and biomass production. Most efficient for photosynthesis.
+- **Red light (600-700nm)**: Drives flowering, stem elongation, and [[dighton-fungal-biomass-production-aquatic-ecosystems]]. Most efficient for photosynthesis.
 - **Far-red light (700-750nm)**: Influences the phytochrome system, affecting flowering triggers and plant stretching. Some growers use far-red at the end of the light period to accelerate flowering onset (Emerson effect).
 
 ## Light Fixture Types
@@ -42,7 +43,7 @@ Different wavelengths serve different functions:
 LED technology has become the standard for modern cannabis cultivation due to efficiency, spectrum control, and longevity.
 
 **Advantages**:
-- Energy efficiency: 2-5 μmol/J (significantly better than HPS)
+- [[fukuoka-textdoc-energy-efficiency-agricultural-labor]]: 2-5 μmol/J (significantly better than HPS)
 - Full-spectrum or tunable spectrum options
 - Low heat output — can be placed closer to canopy
 - Long lifespan (50,000+ hours)
@@ -137,32 +138,12 @@ Proper distance between the light source and the canopy is critical:
 |-------------|--------------------|--------------------|
 | LED (quality, 200-300W) | 18-24 inches | 12-18 inches |
 | HPS 600W | 24-36 inches | 18-24 inches |
-| CMH 315W | 24-30 inches | 18-24 inches |
-| T5 fluorescent | 2-4 inches | N/A (not for flower) |
-
-Use a PAR meter if available to measure PPFD at the canopy level. If you don't have one, observe your plants: leaves reaching upward and praying (flat, wide) indicate good intensity. Leaves curling down or bleaching means too close.
-
-## Canopy Management and Light Distribution
-
-- **Even coverage**: Position lights so PPFD varies by no more than 30% across the canopy.
-- **Reflective walls**: Use mylar (95% reflectivity) or flat white paint to maximize light utilization.
-- **Light movers**: Rail systems that move lights back and forth can improve coverage in larger areas.
-- **Defoliation and training**: See [[cannabis-topping-training]] for techniques to create an even canopy that maximizes light absorption.
-
-## Electricity and Safety
-
-- Calculate your power needs: total wattage of lights + 20% buffer for ballasts and cooling.
-- Use dedicated circuits for grow lighting — don't share with other equipment.
-- Install GFCI (ground fault circuit interrupter) outlets in grow spaces.
-- Ensure proper ventilation for any lights that generate significant heat.
-- Keep all electrical connections away from water sources.
-
 ## See Also
 
-- [[cannabis-topping-training]] — Training techniques to optimize light absorption
+- [[cannabis-topping-training]] — [[cannabis-training-techniques-comparison]] to optimize light absorption
 - [[cannabis-vegetative-stage]] — Lighting requirements during veg
 - [[cannabis-living-soil-guide]] — Integrating lighting with a living soil grow
-- [[cannabis-flowering-stage]] — Lighting adjustments for the flowering phase
+- [[cannabis-flowering-stage]] — Lighting adjustments for the [[green-cannabis-grow-bible-flowering-phase-and-harvest]]
 
 ## Related
 

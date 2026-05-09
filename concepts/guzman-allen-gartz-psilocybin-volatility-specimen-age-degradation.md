@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Volatility, Specimen Age, and Degradation
+title: guzman allen gartz psilocybin volatility specimen age degradation, Specimen Age, and Degradation
 created: 2026-04-28
 tags: [psilocybin, psilocin, degradation, volatility, specimen-age, herbarium, repke, ohenoja, guzman, hofmann, cordyceps, misidentification, panaeolina-foenisecii, baeocystin, chemical-analysis]
 date: 2026-04-28
@@ -13,7 +13,7 @@ type: concept
 
 ## The Critical Variable of Specimen Age
 
-In the chemical studies on fungi, the age of the studied specimens is an important variable which needs to be taken into consideration. Active compounds in psilocybian mushrooms are not stable over time, and their concentration decreases significantly as specimens age. This fact has profound implications for both the ethnographic study of indigenous mushroom use and the reliability of published chemical analyses.
+In the chemical studies on fungi, the age of the studied specimens is an important variable which needs to be taken into consideration. Active compounds in psilocybian mushrooms are not stable over time, and their concentration decreases significantly as specimens age. This fact has profound implications for both the ethnographic study of indigenous mushroom use and the reliability of published [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]].
 
 ### Why Age Matters in Chemical Studies
 
@@ -21,11 +21,11 @@ Researchers who fail to account for specimen age may report falsely low concentr
 
 ## Repke et al. and the Baeocystin Age Study
 
-Repke et al. (1977a) demonstrated variations in the presence of baeocystin according to the age of the studied materials. In Psilocybe baeocystis and Psilocybe cyanescens, they found no trace of indoles in specimens analyzed 20 to 60 days after collection. This striking result showed that even relatively fresh specimens can lose their active constituents within a matter of weeks when stored improperly.
+Repke et al. (1977a) demonstrated variations in the presence of baeocystin according to the age of the studied materials. In [[stamets-psi-psilocybe-baeocystis-knobby-tops]] and [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]], they found no trace of indoles in specimens analyzed 20 to 60 days after collection. This striking result showed that even relatively fresh specimens can lose their active constituents within a matter of weeks when stored improperly.
 
 ### The Implications for Laboratory Research
 
-The Repke study established that the window for accurate chemical analysis of freshly collected specimens is surprisingly narrow. Researchers working with field-collected material must either analyze specimens immediately or employ preservation methods that arrest degradation. The loss of baeocystin, a compound closely related to psilocybin, served as a marker for the broader instability of tryptamine alkaloids in fungal tissue.
+The Repke study established that the window for accurate [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of freshly collected specimens is surprisingly narrow. Researchers working with field-collected material must either analyze specimens immediately or employ preservation methods that arrest degradation. The loss of baeocystin, a compound closely related to psilocybin, served as a marker for the broader instability of tryptamine alkaloids in fungal tissue.
 
 ## Ohenoja's Herbarium Specimen Decline Data
 
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,3 +111,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[neurotropic-fungi-specimen-age-potency-degradation]]

@@ -16,11 +16,11 @@ Hemicellulases are enzymes that hydrolyze hemicellulose, a heterogeneous group o
 
 ## Xylanases
 
-Xylanases hydrolyze the beta-1,4-glycosidic bonds in the xylan backbone, which is the most abundant hemicellulose. Fungal species colonizing hardwoods produce xylanases as their primary hemicellulase. Like [[biobleaching-of-pulp-by-white-rot-fungi]].
+Xylanases hydrolyze the beta-1,4-glycosidic bonds in the xylan backbone, which is the most abundant hemicellulose. Fungal species colonizing hardwoods produce xylanases as their primary hemicellulase. Like biobleaching-of-pulp-by-white-rot-fungi.
 
 ## Mannanases
 
-Mannanases hydrolyze beta-1,4-mannosidic linkages in mannans and glucomannans. They are particularly important for fungal degradation of softwoods and certain food-processing wastes (e.g., palm kernel cake, copra meal, and locust bean gum). Fungal mannanases are produced by species of Aspergillus, Trichoderma, and Penicillium.
+Mannanases hydrolyze beta-1,4-mannosidic linkages in mannans and glucomannans. They are particularly important for [[singh-fungal-degradation-endocrine-disrupting-compounds]] of softwoods and certain food-processing wastes (e.g., palm kernel cake, copra meal, and locust bean gum). Fungal mannanases are produced by species of Aspergillus, Trichoderma, and Penicillium.
 
 Endo-beta-mannanases cleave internal mannosidic bonds in the mannan backbone, while beta-mannosidases remove terminal mannose residues. Alpha-galactosidases remove galactose side chains from galactomannans such as guar gum and locust bean gum. The complete hydrolysis of glucomannans requires the coordinated action of endomannanases, beta-mannosidases, beta-glucosidases, and alpha-galactosidases. Mannanases have commercial applications in the coffee processing industry (reducing viscosity of coffee extracts), animal feed improvement, and oil drilling (reducing viscosity of guar-based drilling fluids).
 
@@ -28,7 +28,7 @@ Endo-beta-mannanases cleave internal mannosidic bonds in the mannan backbone, wh
 
 Other hemicellulases include alpha- and beta-galactosidases (removing galactose side chains from galactomannans) and various glucosidases that target specific glycosidic bonds in hemicellulose structures. These accessory enzymes work in concert with xylanases and mannanases for complete hemicellulose hydrolysis.
 
-Alpha-L-arabinofuranosidases remove arabinose side chains from arabinoxylans, which are particularly abundant in cereal grains and grasses. Acetyl xylan esterases remove acetyl groups from acetylated xylans in hardwoods, improving the accessibility of the xylan backbone to endoxylanases. Ferulic acid esterases release ferulic acid from feruloylated arabinoxylans, which can cross-link hemicellulose chains through diferulate bridges. The removal of these cross-links is a prerequisite for efficient xylan depolymerization and is relevant to [[cellulase-enzyme-systems-in-fungi]].
+Alpha-L-arabinofuranosidases remove arabinose side chains from arabinoxylans, which are particularly abundant in cereal grains and grasses. Acetyl xylan esterases remove acetyl groups from acetylated xylans in hardwoods, improving the accessibility of the xylan backbone to endoxylanases. Ferulic acid esterases release ferulic acid from feruloylated arabinoxylans, which can cross-link hemicellulose chains through diferulate bridges. The removal of these cross-links is a prerequisite for efficient xylan depolymerization and is relevant to cellulase-enzyme-systems-in-fungi.
 
 ## Regulation of Hemicellulase Production
 
@@ -60,13 +60,13 @@ Fungal hemicellulases have numerous industrial applications:
 
 - **Animal feed** -- hemicellulases improve nutrient digestibility of poultry and swine feeds
 
-- **Juice clarification** -- hemicellulases reduce viscosity and improve yield in fruit juice processing
+- **Juice clarification** -- hemicellulases reduce viscosity and improve yield in [[bionutrients-lab-fermented-fruit-juice-ffj]] processing
 
 - **Biofuel production** -- hemicellulase supplementation improves sugar yields from lignocellulosic biomass pretreatment
 
 ## See Also
 
-- [[lignin-degradation-mechanisms-wood-rot-fungi]]
+- lignin-degradation-mechanisms-wood-rot-fungi
 
 - [[enzymatic-degradation-in-mycoremediation]]
 
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

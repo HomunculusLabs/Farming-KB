@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - https://en.wikipedia.org/wiki/Pleurotus_ostreatus
   - https://www.first-nature.com/fungi/pleurotus-ostreatus.php
-  - Stamets, P. (2000). Growing Gourmet & Medicinal Mushrooms. Ten Speed Press.
+  - Stamets, P. (2000). Growing Gourmet & [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]. Ten Speed Press.
   - Chang, S.T. & Miles, P.G. (2004). Mushrooms: Cultivation, Nutritional Value, Medicinal Effect, and Environmental Impact. CRC Press.
 ---
 # [[oyster-mushroom]], is a widely cultivated edible basidiomycete fungus belonging to the family Pleurcommercially-important-pleurotus-species-cultivation-guidethe most commercially important mushroom species worldwide, turkey tail mushroom cultivation and medicinal propertiesary versatility, nutritional profile, and emerging medicinal properties.:** White to pale lilac-grey.
@@ -60,7 +60,7 @@ The species fruits in autumn through early winter in temperate regions, though c
 
 ### Biological Efficiency
 
-*P. ostreatus* typically achieves 50–100% biological efficiency (fresh weight of mushrooms per dry weight of substrate), making it one of the most efficient cultivated mushrooms. Supplemented substrates and optimized conditions can push this to 150% or higher.
+*P. ostreatus* typically achieves 50–100% biological efficiency (fresh weight of mushrooms per dry weight of substrate), making it one of the most efficient [[fungi-cultivated-mushrooms-pathogens-competitors]]. Supplemented substrates and optimized conditions can push this to 150% or higher.
 
 ## Nutritional Profile
 
@@ -89,14 +89,14 @@ Oyster mushrooms are nutritionally dense:
 - **Immunomodulation:** β-glucan extracts (marketed as Pleuran/Imunoglukan) have shown efficacy in reducing upper respiratory infections in clinical trials
 - **Cholesterol reduction:** Daily consumption of 10–30g dried oyster mushrooms significantly reduced LDL cholesterol in multiple human studies
 - **Antitumor activity:** Polysaccharide extracts demonstrated tumor growth inhibition in vitro and in animal models
-- **Antimicrobial properties:** Extracts active against *Staphylococcus aureus*, *Escherichia coli*, and *Candida albicans*
+- **[[mycelium-running-mushroom-antimicrobial-properties-species-chart]]:** Extracts active against *Staphylococcus aureus*, *Escherichia coli*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*
 - **Neuroprotective:** Preliminary research suggests potential benefits for neurodegenerative conditions
 
 ## Mycoremediation
 
 *P. ostreatus* is a premier species for mycoremediation — the use of fungi to decontaminate environments:
 
-- **Petroleum hydrocarbon degradation:** Can break down polycyclic aromatic hydrocarbons (PAHs) in contaminated soil
+- **[[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] degradation:** Can break down [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs) in contaminated soil
 - **Heavy metal bioaccumulation:** Uptake of cadmium, lead, and mercury from substrates (note: fruiting bodies should not be consumed from contaminated sites)
 - **Pesticide degradation:** Degrades organochlorine pesticides including DDT and lindane
 - **E. coli and coliform reduction:** Competitive exclusion of pathogens in composting systems
@@ -122,3 +122,6 @@ Oyster mushrooms have a mild, savory flavor with a slight anise note and a tende
 - *Pleurotus cornucopiae* (Branching oyster) — multi-branched form
 
 ## See Also
+
+- [[dichomitus-squalens]]
+- [[parasola-plicatilis]]

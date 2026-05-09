@@ -1,5 +1,5 @@
 ---
-title: Fungal Biodiversity in Forest Ecosystems
+title: biodiversity-fungal-biodiversity-estimation-methods in Forest Ecosystems
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -18,9 +18,9 @@ Forests harbor the greatest diversity of fungi of any terrestrial ecosystem. A s
 Fungal diversity in forests is distributed across multiple microhabitats:
 
 - **Canopy and epiphytes**: Lichenized fungi, foliar endophytes, and saprotrophs on bark and dead twigs. The canopy is one of the most under-sampled forest compartments for fungi.
-- **Forest floor and leaf litter**: Decomposer basidiomycetes and ascomycetes break down shed leaves, needles, and fine woody debris. Leaf litter supports distinct fungal communities that shift with decomposition stage.
+- **Forest floor and leaf litter**: Decomposer basidiomycetes and ascomycetes break down shed leaves, needles, and fine woody debris. Leaf litter supports distinct [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] that shift with decomposition stage.
 - **Woody debris and standing dead wood**: Coarse woody debris is a critical substrate. Polypores, corticioid fungi, and xylariaceous ascomycetes specialize in different wood conditions (sound vs decayed, bark-on vs bark-off, different host tree species).
-- **Soil and roots**: Mycorrhizal fungi associate with tree roots while free-living saprotrophs decompose organic matter. Soil fungal communities are highly stratified by depth and organic horizon.
+- **Soil and roots**: [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] associate with tree roots while free-living saprotrophs decompose organic matter. Soil fungal communities are highly stratified by depth and organic horizon.
 - **Dung and carrion**: Coprophilous fungi on herbivore dung, and fungi associated with dead insects and small animals, form specialized but diverse guilds.
 
 ## Species Richness Estimates
@@ -38,7 +38,7 @@ Fungal fruiting in temperate forests is strongly seasonal, with peak basidiomyce
 Forest fungi perform essential ecosystem functions:
 
 - **Decomposition**: Breaking down lignin, cellulose, and hemicellulose (see [[fungal-nutrient-cycling-mineral-transformations]])
-- **Mycorrhizal symbiosis**: Ectomycorrhizal and arbuscular mycorrhizal fungi connect the majority of forest trees to soil nutrient pools (see , [[mycorrhizal-fungi]])
+- **[[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]**: Ectomycorrhizal and [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi connect the majority of forest trees to soil nutrient pools (see , [[mycorrhizal-fungi]])
 - **Endophytism**: Fungi living asymptomatically within plant tissues (see [[endophytic-fungi]])
 - **Pathogenicity**: Fungal pathogens regulate tree populations and create canopy gaps
 - **Food webs**: Fungal fruit bodies support invertebrates and small mammals; mycelium is consumed by soil microfauna
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

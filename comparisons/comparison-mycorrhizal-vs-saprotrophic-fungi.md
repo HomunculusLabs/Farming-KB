@@ -16,8 +16,8 @@ ecological strategies in soil ecosystems. Mycorrhizae form intimate symbiotic
 partnerships with living plant roots, exchanging nutrients for carbohydrates,
 while saprotrophs decompose dead organic matter and release mineralized
 nutrients back into the soil food web. Together they form the biological
-foundation of terrestrial nutrient cycling, and understanding both is essential
-for managing soil biology in agriculture, forestry, mushroom cultivation, and
+foundation of terrestrial [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and understanding both is essential
+for managing soil biology in agriculture, forestry, [[accessible-mushroom-cultivation-for-disabilities]], and
 land restoration.
 
 ## Mycorrhizal Fungi
@@ -36,7 +36,7 @@ Saprotrophs follow predictable successional patterns on dead wood. Primary
 colonizers, often Ascomycetes like Trichoderma and Hypoxylon, arrive within
 weeks and modify substrate chemistry for secondary decomposers. White rot
 basidiomycetes then degrade lignin and cellulose simultaneously using lignin
-peroxidase, manganese peroxidase, and laccase enzymes. Brown rot fungi employ
+peroxidase, [[fungal-manganese-peroxidase-remediation]], and [[singh-fungal-laccase-enzymes-bioremediation]]. Brown rot fungi employ
 Fenton chemistry, generating hydroxyl radicals to depolymerize cellulose while
 leaving lignin largely intact as a brown residue. Late-stage decomposers work on
 recalcitrant residues and humus formation.
@@ -51,7 +51,7 @@ in turn mineralizes nutrients more completely and supports a healthier soil food
 web.
 
 The saprotrophic strategy, while seemingly wasteful because nutrients leak
-from the mycelial network into surrounding soil, is precisely what makes these
+from the [[gadd-mycelial-network-dynamics]] into surrounding soil, is precisely what makes these
 fungi indispensable to all other soil life. That leaked nutrient fraction feeds
 plants, bacteria, and other organisms. Without saprotrophic decomposition, dead
 organic matter would accumulate indefinitely and nutrients would remain locked
@@ -86,7 +86,7 @@ Mycorrhizal management is most critical when establishing perennial systems
 like orchards, food forests, pastures, and no-till gardens where root-fungal
 partnerships can develop undisturbed over years. Inoculation with commercial AMF
 products is worthwhile for transplanted crops in disturbed soils, and for
-cannabis cultivation where phosphorus uptake and drought resilience directly
+[[query-how-does-no-till-cannabis-cultivation-work]] where phosphorus uptake and drought resilience directly
 affect yield. Any system using minimal tillage and avoiding high-phosphorus
 synthetic fertilizers will benefit from protecting and encouraging native
 mycorrhizal populations. See [[ozier-pdc-composting-and-soil-building]] for practices that protect mycorrhizal

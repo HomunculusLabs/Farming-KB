@@ -31,7 +31,7 @@ sources:
 
 Suillellus luridus (formerly Boletus luridus), commonly known as the lurid
 bolete, is a basidiomycete fungus in the family Boletaceae. It is a widely
-distributed ectomycorrhizal mushroom found across Europe, North America, and
+distributed ectomycorrhizal mushroom found across Europe, [[psilocybin-north-america-pacific-northwest]], and
 parts of Asia. The species is notable for its striking red-to-orange pore
 surface and reticulate stipe, but requires careful preparation — it is mildly
 toxic when raw and can cause gastrointestinal distress if consumed undercooked
@@ -67,7 +67,7 @@ is a valued culinary mushroom.
   a fine red reticulum (net pattern) over a yellow ground color; solid, firm.
 - **Flesh:** Pale yellow, turning vivid blue when cut or bruised; red just
   beneath the pileipellis (cap skin).
-- **Spore print:** Olive-brown to olive-green.
+- **[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Olive-brown to olive-green.
 - **Spores:** 11–15 × 5–6 µm, fusiform to ellipsoid, smooth.
 - **Odor:** Mild, pleasant, not distinctive.
 - **Taste:** Mild, slightly acidic.
@@ -75,7 +75,7 @@ is a valued culinary mushroom.
 ## Distribution and Habitat
 
 - Widely distributed across temperate Europe from Scandinavia to the
-  Mediterranean; also recorded in eastern North America (rare) and parts of
+  Mediterranean; also recorded in [[polypore-fungi-eastern-north-america]] America (rare) and parts of
   Asia (China, Korea, Japan).
 - Ectomycorrhizal, forming associations primarily with broadleaf trees: oak
   (*Quercus*), beech (*Fagus*), hornbeam (*Carpinus*), birch (*Betula*), and
@@ -121,14 +121,14 @@ is a valued culinary mushroom.
 
 ## Ecological Role
 
-- As an ectomycorrhizal species, *S. luridus* facilitates nutrient exchange
+- As an ectomycorrhizal species, *S. luridus* facilitates [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]
   between trees and soil, improving phosphorus and nitrogen uptake for host
   trees.
 - Fruit bodies are consumed by slugs, insects, and small mammals; deer have
   been observed browsing young fruit bodies.
 - The species is sensitive to air pollution and soil acidification, declining
-  in areas with high nitrogen deposition.
-- Mycelial networks may contribute to soil aggregation and carbon cycling in
+  in areas with high [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]].
+- [[fungal-mycelial-networks-nutrient-translocation]] may contribute to soil aggregation and carbon cycling in
   forest ecosystems.
 
 ## See Also
@@ -139,4 +139,7 @@ is a valued culinary mushroom.
 
 ## See Also
 
-- [[edible-wild-mushrooms-foraging-guide]]
+- edible-wild-mushroom-guide
+- [[ectomycorrhiza]]
+- [[neoboletus-erythropus]]
+- [[mycelial-networks]]

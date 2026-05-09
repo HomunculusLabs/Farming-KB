@@ -1,14 +1,13 @@
 ---
-title: Medicinal Mushroom Antimicrobial Properties
+title: Medicinal medicinal-mushroom-antimicrobial-antiviral-research Properties
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [[mycology, medicine, mushrooms]
-sources: []
+tags: [mycology, medicine, mushrooms]
+sources:
+  sources: []
 ---
-# Medicinal Mushroom Antimicrobial Properties
-
-Medicinal mushroom extracts demonstrate broad-spectrum antimicrobial activity through two complementary mechanisms: direct antibiotic action of specific secondary metabolites, and indirect immune-mediated antimicrobial effects through [[lentinan-pre-clinical-antitumour-models]]** — when used with AZT, suppressed surface expression of HIV on T-cells more effectively than AZT alone. Both lentinan and sulfated lentinan exhibited potent anti-HIV activity, inhibiting viral replication and cell fusion
+# Medicinal Mushroom Antimicrobial Properties Medicinal mushroom extracts demonstrate broad-spectrum antimicrobial activity through two complementary mechanisms: direct antibiotic action of specific secondary metabolites, and indirect immune-mediated antimicrobial effects through [[lentinan-pre-clinical-antitumour-models]]** — when used with AZT, suppressed surface expression of HIV on T-cells more effectively than AZT alone. Both lentinan and sulfated lentinan exhibited potent anti-HIV activity, inhibiting viral replication and cell fusion
 - **Sulfated schizophyllan** — displayed strong anti-HIV activity (though antitumour effect was reduced or lost by sulfation)
 - **Sulfated [[medicinal-mushroom-guide-cordyceps]] D-fraction with DMSO** — showed success in treating AIDS-associated Kaposi sarcoma
 - **AHCC arabinoxylane derivative** — increased human NK activity 5-fold over 2 months (Ghoneum, 1998)
@@ -38,7 +37,7 @@ Medicinal mushroom extracts demonstrate broad-spectrum antimicrobial activity th
 
 Mushroom polysaccharides mobilize humoral immunity to fight infections:
 - [[lentinan-pre-clinical-antitumour-models]] stimulated non-specific resistance against respiratory viral infections
-- PGG-glucan clinical trials in surgical patients showed 39% reduction in serious postoperative infections
+- PGG-glucan [[mushroom-cancer-clinical-trials-overview]] in surgical patients showed 39% reduction in serious postoperative infections
 
 ## Probiotic Effects
 
@@ -46,7 +45,7 @@ Water extract of [[medicinal-mushroom-properties]]
 
 - [[medicinal-mushroom-guide-shiitake]]
 - [[reishi-mushroom-medicinal-research]]
-- [[medicinal-mushroom-cardiovascular-metabolic-effects]]
+- medicinal-mushroom-cardiovascular-metabolic-effects
 - [[reishi-mushroom-medicinal-properties]]
 - [[medicinal-mushroom-antimicrobial-antiviral-research]]
 ## Practical Considerations
@@ -65,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

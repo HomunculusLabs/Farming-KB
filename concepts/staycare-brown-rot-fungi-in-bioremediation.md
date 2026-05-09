@@ -15,8 +15,8 @@ primarily degrade cellulose and hemicellulose while modifying lignin
 through demethylation rather than depolymerization. Although traditionally
 studied for their role in wood decay, brown rot fungi have demonstrated
 significant potential for the bioremediation of environmental pollutants
-including chlorophenols, polycyclic aromatic hydrocarbons, nitroaromatics,
-and chlorinated aromatic compounds.
+including chlorophenols, [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons, nitroaromatics,
+and [[fungal-chlorinated-aromatic-degradation]] compounds.
 
 ## Distinction from White Rot Fungi
 
@@ -33,7 +33,7 @@ important implications for pollutant degradation strategies.
 
 Brown rot fungi probably coevolved with the conifers that dominate boreal
 forests. [[coniophora-puteana]] has been shown
-to generate hydroxyl radicals through iron reduction. This non-enzymatic
+to generate hydroxyl radicals through [[bioremediation-fungal-iron-reduction-chelation-metal-solubilization]]. This non-enzymatic
 radical-based mechanism distinguishes brown rot from the enzymatic
 approach of white rot fungi.
 
@@ -66,7 +66,7 @@ moderate activity.
 ## Advantages of Brown Rot Fungi for Bioremediation
 
 Brown rot fungi offer several potential advantages for bioremediation.
-Their non-ligninolytic degradation mechanisms mean they are not subject to
+Their non-ligninolytic [[staycare-azo-dye-degradation-mechanisms-ligninolytic-fungi]] mean they are not subject to
 the enzyme inhibition problems that plague white rot fungi when degrading
 certain pollutants. Their ability to degrade pollutants without added
 co-substrates could reduce treatment costs. Their tolerance to high
@@ -80,7 +80,7 @@ The Fenton-type chemistry employed by brown rot fungi for wood decay
 generates highly reactive hydroxyl radicals that can non-specifically
 attack a wide range of organic pollutants. This non-enzymatic mechanism
 may be particularly effective for pollutant classes that are poor
-substrates for ligninolytic enzymes, including some heavily chlorinated
+substrates for [[singh-ligninolytic-enzymes-fungal-bioremediation]], including some heavily chlorinated
 compounds and high-molecular-weight PAHs. The iron-reducing metabolites
 produced by brown rot fungi could potentially be harnessed for in situ
 chemical oxidation of contaminated soils.
@@ -90,7 +90,7 @@ chemical oxidation of contaminated soils.
 The complementary enzyme profiles of brown rot and white rot fungi suggest
 potential for synergistic applications in bioremediation. Brown rot fungi
 could be used for initial pollutant transformation and tolerance at high
-concentrations, followed by white rot fungi for more complete
+concentrations, followed [[fungal-degradation-of-pcbs-by-white-rot-fungi]] fungi for more complete
 mineralization through ligninolytic enzyme systems. Such sequential or
 co-culture approaches may overcome limitations of using either group alone.
 
@@ -106,6 +106,8 @@ fungi would provide valuable data on the practical applicability of brown
 rot fungi for environmental remediation at commercial scales.
 
 ## See Also
+
+- [[bioremediation-fenton-chemistry-brown-rot-fungi]]
 
 - [[brown-rot-and-white-rot-fungi-in-mycoremediation]]
 - [[staycare-fungal-pesticide-pop-degradation]]

@@ -30,7 +30,7 @@ sources:
 ## Overview
 Chemdawg (also spelled Chemdog) is a legendary cannabis hybrid strain that has served as a genetic cornerstone for dozens of modern cannabis varieties.
 Known for its intensely pungent diesel-fuel aroma and potent psychoactive effects, Chemdawg originated in the early 1990s American underground cannabis scene.
-It has since become one of the most influential breeding lines in cannabis genetics.
+It has since become one of the most influential breeding lines in [[vic-high-cannabis-genetics-mendelian-inheritance]].
 Its descendants include Sour Diesel, OG Kush, and Girl Scout Cookies, making it arguably the most impactful strain in modern cannabis history.
 Chemdawg is typically classified as a balanced hybrid, though individual phenotypes range from slightly sativa-dominant to indica-dominant.
 The strain consistently ranks among the most sought-after genetics in both recreational and medical markets.
@@ -45,7 +45,7 @@ A breeder known online as Chemdog (also called "Chemdog the breeder") germinated
 - **Chemdawg B:** Another phenotype with intermediate characteristics between A and D.
 - **Chemdawg C:** A rarer cut with unique terpene expression, occasionally referenced in breeding circles.
 The precise genetic parentage of the original seeds remains unknown, though analysis suggests contributions from Nepalese and Thai landrace genetics.
-Genetic fingerprinting studies have confirmed the relatedness of Chemdawg-derived varieties, establishing it as a distinct genetic cluster within cannabis taxonomy.
+Genetic fingerprinting studies have confirmed the relatedness of Chemdawg-derived varieties, establishing it as a distinct genetic cluster within [[clarke-marijuana-botany-cannabis-taxonomy-and-genetics]].
 
 ## Genetic Influence and Descendant Strains
 Chemdawg's impact on modern cannabis genetics is arguably unparalleled among any single strain.
@@ -81,7 +81,7 @@ Chemdawg delivers potent cerebral and physical effects consistent with a balance
 - **Peak:** 30–60 minutes post-consumption, marked by a shift from cerebral stimulation to deep physical relaxation.
 - **Duration:** Effects typically last 2–3 hours, with a gradual comedown that can extend to 4 hours.
 - **Common reported effects:** Euphoria, creativity, talkativeness, relaxation, hunger stimulation, sensory enhancement.
-- **Adverse effects:** Dry mouth, dry eyes, anxiety at higher doses, paranoia in susceptible users, couch-lock at high doses.
+- **[[blesching-cannabis-safety-adverse-effects-evidence]]:** Dry mouth, dry eyes, anxiety at higher doses, paranoia in susceptible users, couch-lock at high doses.
 - **Tolerance:** Regular users may develop significant tolerance due to the high THC content, requiring periodic breaks.
 
 ## Cultivation
@@ -109,15 +109,15 @@ Chemdawg has been used in medical cannabis programs for a variety of conditions:
 
 ## Terroir and Phenotypic Variation
 Chemdawg exhibits notable phenotypic variation depending on growing conditions and specific cut.
-Indoor cultivation under high-intensity lighting produces compact buds with intensified terpene profiles and higher THC concentrations.
+Indoor cultivation under high-intensity lighting produces compact buds with intensified [[cannabis-terpene-profiles-sativa]] and higher THC concentrations.
 Outdoor cultivation in warm climates produces larger, more loosely structured flowers with nuanced flavor development.
-The strain responds strongly to training techniques including topping, low-stress training (LST), and defoliation.
+The strain responds strongly to [[cannabis-training-techniques-comparison]] including topping, low-stress training (LST), and defoliation.
 Temperature variation during late flowering can enhance purple hues in some phenotypes.
 Soil-grown Chemdawg tends to express more complex flavor profiles compared to hydroponic cultivation.
 The Chemdawg D cut is particularly known for its consistency and is favored by commercial growers.
 
 ## Cultural Significance
-Chemdawg occupies a unique position in cannabis culture as both a legendary strain and the genetic foundation of modern cannabis.
+Chemdawg occupies a unique position in [[mckenna-cannabis-culture-history]] as both a legendary strain and the genetic foundation of modern cannabis.
 The Grateful Dead concert origin story has become part of cannabis lore, symbolizing the deep connection between underground music culture and cannabis genetics.
 The strain was among the first to achieve legendary status through internet forums in the late 1990s and early 2000s.
 Chemdawg's genetics have been preserved through clone-only cuts passed between growers for decades.

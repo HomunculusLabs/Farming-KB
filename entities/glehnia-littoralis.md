@@ -42,9 +42,9 @@ In Traditional Chinese Medicine (TCM), the dried root (Bei Sha Shen, 北沙参, 
 
 The genus was named in honor of Johann August Carl Glehn (1815–1888), a German botanist and plant collector who worked extensively in East Asia.
 
-**Morphology:** G. littoralis is a perennial herb growing 20–60 cm tall. The plant produces a thick, fleshy, cylindrical taproot 10–30 cm long and 1–3 cm in diameter, with a characteristic aromatic odor.
+**Morphology:** G. littoralis is a perennial [[medicinal-herb-growing]] 20–60 cm tall. The plant produces a thick, fleshy, cylindrical taproot 10–30 cm long and 1–3 cm in diameter, with a characteristic aromatic odor.
 
-Leaves are 2–3 ternate or bipinnate, with thick, leathery, ovate to rhombic leaflets 2–6 cm long. The leaf surface is glabrous and dark green, with a waxy cuticle that reduces water loss in the exposed coastal environment.
+Leaves are 2–3 ternate or bipinnate, with thick, leathery, ovate to rhombic leaflets 2–6 cm long. The [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is glabrous and dark green, with a waxy cuticle that reduces water loss in the exposed coastal environment.
 
 Inflorescences are compound umbels, 5–15 cm across, with 8–20 unequal rays. Flowers are small and white, with petals approximately 1 mm long. Flowering occurs from June to August.
 
@@ -54,11 +54,11 @@ The corky pericarp enables the fruit to float in seawater for extended periods, 
 
 ## Chemistry and Pharmacology
 
-The root contains a diverse array of secondary metabolites. The principal bioactive compound classes are **coumarins**, **polyacetylenes**, **polysaccharides**, and **essential oil components**.
+The root contains a diverse array of [[antifungal-secondary-metabolites-coprophilous-fungi]]. The principal bioactive compound classes are **coumarins**, **polyacetylenes**, **polysaccharides**, and **[[permaculture-designers-manual-essential-oil-plants]] components**.
 
 **Coumarins** are the most extensively studied constituents. Key compounds include imperatorin, bergapten, xanthotoxin, psoralen, isoimperatorin, and osthol. Total coumarin content in dried root ranges from 0.3–1.2%.
 
-**Polyacetylenes** include falcarindiol, falcarinol, and panaxynol. Falcarindiol has demonstrated significant cytotoxic activity against several human cancer cell lines in vitro, with IC50 values in the low micromolar range.
+**Polyacetylenes** include falcarindiol, falcarinol, and panaxynol. Falcarindiol has demonstrated significant cytotoxic activity against several human [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines in vitro, with IC50 values in the low micromolar range.
 
 **Polysaccharides** extracted from the root (GLPs) are water-soluble heteroglycans with immunomodulatory properties. They enhance macrophage phagocytic activity and stimulate lymphocyte proliferation at doses of 50–200 μg/mL.
 
@@ -72,7 +72,7 @@ The root contains a diverse array of secondary metabolites. The principal bioact
 
 - **Immunomodulatory:** Root polysaccharides enhanced both cell-mediated and humoral immune responses in mice, increasing splenocyte proliferation and NK cell activity.
 
-- **Anticancer preliminary data:** Falcarindiol and imperatorin have shown pro-apoptotic effects in lung, liver, and colon cancer cell lines. In vivo validation is limited.
+- **Anticancer preliminary data:** Falcarindiol and imperatorin have shown pro-apoptotic effects in lung, liver, and [[cannabis-and-colon-cancer-research]] cell lines. In vivo validation is limited.
 
 ## Traditional Medicine
 

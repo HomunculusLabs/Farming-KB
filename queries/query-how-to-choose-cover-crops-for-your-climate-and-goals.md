@@ -1,5 +1,5 @@
 ---
-title: "How to Choose Cover Crops for Your Climate and Goals"
+title: "How to query how to choose cover crops for your climate and goals Crops for Your Climate and Goals"
 created: 2026-04-28
 tags: cover-crops, soil-health, nitrogen-fixation, weed-suppression, erosion-control, permaculture, farming
 date: 2026-04-28
@@ -23,8 +23,8 @@ Start with the one thing you need most. You can layer benefits, but your primary
 
 ### Nitrogen Fixation (Legumes)
 
-- **Crimson clover**, **hairy vetch**, **field peas**, **cowpeas**, **red clover**, **alfalfa**
-- Legumes fix 40–200 lb N/acre depending on species, stand density, and growing season length
+- **[[comparison-lupin-vs-crimson-clover-green-manure]]**, **hairy vetch**, **field peas**, **cowpeas**, **red clover**, **alfalfa**
+- [[query-which-legumes-fix-the-most-nitrogen-for-gardens-and-farms]] 40–200 lb N/acre depending on species, stand density, and [[savory-growing-season-and-non-growing-season-management]] length
 - Inoculate with the correct Rhizobium strain at planting — skip this and fixation drops dramatically
 - Best as a component in a multi-species mix rather than a pure stand
 
@@ -97,7 +97,7 @@ Start with the one thing you need most. You can layer benefits, but your primary
 | Weed suppression | Cereal rye, annual ryegrass | Sorghum-sudangrass, buckwheat | Fall / Late spring |
 | Erosion control | Cereal rye, oats, winter wheat | Pearl millet, cowpeas | Early fall / Early summer |
 | Biomass | Cereal rye, oats | Sorghum-sudangrass, sunn hemp | Fall / After last frost |
-| Biofumigation | Mustard, radish | Brown mustard, rapeseed | Early spring or late summer |
+| Biofumigation | Mustard, radish | Brown mustard, rapeseed | [[coleman-overwintered-onions-and-early-spring-crops]] or late summer |
 | Soil loosening | Daikon radish, sweetclover | Daikon radish, sorghum-sudan | Late summer / Early summer |
 
 ## Common Cover Crop Cocktails (Multi-Species Mixes)
@@ -126,7 +126,7 @@ Multi-species mixes outperform monocultures in most situations. A good mix inclu
 - **Using a single species when a mix is better:** monocultures are more vulnerable to pest/disease pressure and provide fewer soil benefits
 - **Ignoring herbicide carryover:** many residual herbicides (especially Group 2 and Group 14) can kill or stunt cover crop seedlings — check plant-back restrictions
 - **Not adjusting planting depth:** small-seeded species (clover, buckwheat) should be planted shallow (¼–½ inch); large seeds (peas, radish) can go deeper (1–2 inches)
-- **Terminating too early:** maximum root exudates and biomass accumulation happen near flowering — be patient unless you need an early planting window
+- **Terminating too early:** maximum [[mycorrhizal-root-exudates-pathogen-interactions]] and biomass accumulation happen near flowering — be patient unless you need an early planting window
 
 ## Getting Started
 
@@ -134,7 +134,10 @@ If you're new to cover crops, start simple: **cereal rye + crimson clover** in t
 
 ## See Also
 
+- [[query-how-do-cover-crops-suppress-weeds]]
+- [[query-how-do-i-choose-between-a-cold-frame-row-cover-and-low-tunnel]]
+
 - [[query-how-do-i-choose-a-natural-building-method-for-my-climate]]
 
-- [[permaculture]]
+- permaculture
 - [[root-exudates]]

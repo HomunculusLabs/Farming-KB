@@ -30,18 +30,18 @@ The species epithet *gallaeciae* refers to Gallaecia, the ancient Roman name for
 
 **Psilocybe gallaeciae** is most easily confused with the following species:
 
-- **[[psilocybe-hispanica]]** — another Iberian bluing species; differs in microscopic features and distribution.
+- **psilocybe-hispanica** — another Iberian bluing species; differs in microscopic features and distribution.
 - **[[psilocybe-semilanceata]] include:
 - Smaller overall size
 - Slightly different spore dimensions and Q values
 - Preference for the acidic Atlantic soils of Galicia
 - Less pronounced umbo on the cap
 
-Microscopic examination is typically required for definitive identification. DNA barcoding using the ITS region has proven useful for distinguishing members of the Semilanceatae section.
+[[fungal-microscopic-examination-mounting-media-techniques]] is typically required for definitive identification. DNA barcoding using the ITS region has proven useful for distinguishing members of the Semilanceatae section.
 
 ## Cultural and Ethnobotanical Significance
 
-**P. gallaeciae** has no well-documented history of traditional use. Its psychoactive properties were discovered through modern chemical analysis rather than indigenous knowledge. The species is of primarily academic interest to mycologists studying the [[psilocybe-semilanceata]] in northwestern Spain.
+**P. gallaeciae** has no well-documented history of traditional use. Its psychoactive properties were discovered through modern [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] rather than indigenous knowledge. The species is of primarily academic interest to mycologists studying the [[psilocybe-semilanceata]] in northwestern Spain.
 
 ## Conservation Status
 
@@ -51,7 +51,7 @@ The species has not been formally evaluated for the IUCN Red List. Its limited k
 
 Like all [[psilocybe-semilanceata]] — the most widespread and well-known European bluing psilocybe
 - [[psilocybin]] — primary psychoactive compound
-- [[baeocystin]] — minor psychoactive alkaloid
+- [[baeocystin]] — [[kwashi-and-galanga-minor-psychoactive-plants]] alkaloid
 - gastón-guzmán — prominent taxonomist who studied psilocybian fungi globally
 ## Practical Considerations
 
@@ -69,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

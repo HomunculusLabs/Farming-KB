@@ -1,5 +1,5 @@
 ---
-title: "Filter Can Construction for Mushroom Cultivation"
+title: "Filter Can Construction for mushroom-cultivation"
 type: concept
 tags:
   - mushroom-cultivation
@@ -13,8 +13,8 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Jarrold S. "Indoor Mushroom Growing Technique: Boil a Bag." Mushroom cultivation guide.
-  - Stamets P (1993). Growing Gourmet and Medicinal Mushrooms. Ten Speed Press, Berkeley, CA.
+  - Jarrold S. "Indoor Mushroom Growing Technique: Boil a Bag." accessible-mushroom-cultivation-for-disabilities guide.
+  - Stamets P (1993). Growing Gourmet and [[medicinal-mushrooms]]. Ten Speed Press, Berkeley, CA.
   - Rushforth M (2007). "Mushroom cultivation using grain spawn." Mycological Research 111(2): 129-137.
 ---
 
@@ -26,13 +26,13 @@ The "boil-a-bag" method described by Jarrold employs filter cans in conjunction 
 
 ## Function and Importance
 
-Mushroom mycelium is an obligate aerobe that requires continuous gas exchange during growth. It consumes oxygen and produces carbon dioxide, and the ratio of these gases significantly influences mycelial growth rate, morphology, and the timing of fruiting initiation.
+Mushroom mycelium is an obligate aerobe that requires continuous gas exchange during growth. It consumes oxygen and produces carbon dioxide, and the ratio of these gases significantly influences mycelial growth rate, morphology, and the timing of [[fruiting-initiation]].
 
 Without adequate gas exchange, carbon dioxide accumulates to levels that inhibit mycelial growth and can promote the growth of anaerobic contaminants. However, opening containers to provide ventilation exposes the substrate to contamination. Filter cans solve this problem by allowing passive gas diffusion through a microporous filter that excludes particles larger than approximately 0.3 micrometers, which captures most bacterial cells and fungal spores.
 
 The rate of gas exchange through a filter can is determined by the surface area and pore size of the filter material, the differential pressure across the filter, and the concentration gradient of gases. Properly designed filter cans maintain gas exchange rates sufficient for healthy mycelial growth while providing reliable contamination exclusion.
 
-Temperature also affects gas exchange rates. Warmer temperatures increase metabolic activity and CO2 production, requiring higher ventilation rates. During sterilization, the extreme heat can damage or melt some filter materials, so filter cans are typically attached after the sterilization cycle in the boil-a-bag method.
+Temperature also affects gas exchange rates. Warmer temperatures increase [[arbuscule-isolation-metabolic-activity-assays]] and CO2 production, requiring higher ventilation rates. During sterilization, the extreme heat can damage or melt some filter materials, so filter cans are typically attached after the sterilization cycle in the boil-a-bag method.
 
 ## Construction Materials
 
@@ -62,7 +62,7 @@ The cost-effectiveness of different filter materials varies significantly. Polyf
 
 ## Gas Exchange Rates and Mycelial Growth
 
-Different mushroom species have different gas exchange requirements during colonization. Species that colonize aggressively, such as oyster mushrooms (Pleurotus spp.), generate more CO2 and benefit from higher gas exchange rates. Slower species may grow better with more restricted exchange that maintains higher CO2 levels.
+Different mushroom species have different gas exchange requirements during colonization. Species that colonize aggressively, such as [[oyster-mushrooms]] (Pleurotus spp.), generate more CO2 and benefit from higher gas exchange rates. Slower species may grow better with more restricted exchange that maintains higher CO2 levels.
 
 During the colonization phase, elevated CO2 levels (1-5%) actually stimulate mycelial growth in many species. However, during the fruiting phase, lower CO2 levels (below 0.1%) are typically required to trigger pin formation and normal fruit body development. This means that filter cans designed for colonization may need to be modified or opened during the transition to fruiting.
 
@@ -74,11 +74,11 @@ The transition from colonization to fruiting ventilation is a critical managemen
 
 Besides filter cans, mushroom cultivators use several other methods to provide filtered gas exchange. Tyvek covers, originally used as housewrap material, provide good filtration and are sometimes used as jar lids or bag covers. Microporous surgical tape applied over holes in lids or bags is another popular option.
 
-For fruiting chambers, passive ventilation through filter patches is often supplemented with active air exchange using fans, air pumps, or automated environmental control systems. The combination of passive and active ventilation provides more precise control over CO2 levels during the fruiting phase.
+For fruiting chambers, passive ventilation through filter patches is often supplemented with active air exchange using fans, air pumps, or automated [[eclss-environmental-control-life-support]] systems. The combination of passive and active ventilation provides more precise control over CO2 levels during the fruiting phase.
 
 ## Contamination Prevention Strategy
 
-Filter cans are one component of a comprehensive contamination prevention strategy that includes substrate sterilization, clean inoculation technique, and environmental control. Even a perfectly constructed filter can cannot compensate for poor sterile technique during inoculation.
+Filter cans are one component of a comprehensive contamination prevention strategy that includes [[mushroom-substrate-sterilization-and-pasteurization]], clean [[pf-tek-inoculation-technique-and-syringe-management]], and environmental control. Even a perfectly constructed filter can cannot compensate for poor [[cultivator-sterile-technique-and-agar-culture]] during inoculation.
 
 Common contamination vectors include contaminated inoculum, unsterilized tools, airborne spores introduced during inoculation, and contaminated work surfaces. The filter can protects against ongoing contamination after inoculation but does not address contamination introduced at the time of inoculation.
 
@@ -103,9 +103,6 @@ Failing to seal the filter can adequately to the container is perhaps the most c
 ## See Also
 
 - [[mushroom-substrate-preparation|substrate sterilization methods]]
-- [[mushroom-substrate-preparation|polyfill filter jars]]
 - [[boil-a-bag-mushroom-cultivation-technique|boil a bag pressure sterilization technique]]
 - [[mushroom-inoculation-hygiene-cotter|inoculation clean technique]]
-- [[mushroom-inoculation-hygiene-cotter]]
 - [[mycelial-networks]]
-- [[mushroom-substrate-preparation]]

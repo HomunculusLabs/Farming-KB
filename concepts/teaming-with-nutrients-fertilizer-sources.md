@@ -1,5 +1,5 @@
 ---
-title: Organic Fertilizer Sources by Nutrient
+title: Organic natural-fertilizer-sources-and-application by Nutrient
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -19,7 +19,7 @@ Natural fertilizers are derived from plant and animal by-products as well as roc
 
 **Animal bone meal (3-15-0):** Steam-processed ground bones. Readily available; lasts 1-4 months. Works best below pH 7. May attract animals.
 
-**Bat guano, phosphorus type (3-10-1):** For phosphorus needs. Lasts 1-4 months. mycorrhiza|Mycorrhizal fungi are the best releasers — but excess phosphorus limits mycorrhizal presence, so apply sparingly.
+**Bat guano, phosphorus type (3-10-1):** For phosphorus needs. Lasts 1-4 months. mycorrhiza|[[arbuscular-mycorrhizal-fungi-biology-symbiosis]] are the best releasers — but excess phosphorus limits mycorrhizal presence, so apply sparingly.
 
 **Colloidal rock phosphate (0-2.5-0):** Clay particles surrounded by phosphate. Extremely long lasting (3-5 years); some gardeners report better results in second and third years. Placement where roots will intercept is key.
 
@@ -37,7 +37,7 @@ Natural fertilizers are derived from plant and animal by-products as well as roc
 
 **Shrimp shell meal (5-8-15):** Ground shrimp heads/shells. Contains calcium, chitin, and broad trace elements. Slow release; lasts 3-6 months.
 
-**Kelp meal (0-0-0 to 1-0-4):** Seaweed containing up to 60 elements including all trace minerals. Contains natural plant growth hormones. Available ~1-2 months after application; decays over 4-5 months. Ensure sustainable harvesting.
+**[[comparison-kelp-meal-vs-rock-dust]] (0-0-0 to 1-0-4):** Seaweed containing up to 60 elements including all trace minerals. Contains natural plant growth hormones. Available ~1-2 months after application; decays over 4-5 months. Ensure sustainable harvesting.
 
 **Liquid kelp:** Enzymatically digested kelp preserving growth hormones. Instantly available; lasts 1-3 weeks.
 
@@ -51,7 +51,7 @@ Natural fertilizers are derived from plant and animal by-products as well as roc
 
 **Gypsum (CaSO4):** Calcium sulfate. Provides calcium and sulfur without affecting pH — useful when calcium is needed but soil pH is already adequate. Also improves soil structure in clay soils by promoting flocculation.
 
-**Epsom salt (MgSO4):** Magnesium sulfate. Fast-acting source of both magnesium and sulfur. Effective as a foliar spray for quick correction of magnesium deficiency.
+**Epsom salt (MgSO4):** Magnesium sulfate. Fast-acting source of both magnesium and sulfur. Effective as a foliar spray for quick correction of [[query-how-to-fix-magnesium-deficiency-in-cannabis]].
 
 **Elemental sulfur:** Used to lower soil pH in alkaline soils. Oxidized by soil bacteria to sulfate over weeks to months. The bacterial conversion rate depends on soil temperature and moisture.
 
@@ -59,10 +59,10 @@ Natural fertilizers are derived from plant and animal by-products as well as roc
 
 The choice among organic fertilizer sources depends on several factors:
 
-- **Speed of need:** Liquid kelp and fish emulsion for immediate results; rock minerals and bone meal for slow, sustained release
+- **Speed of need:** Liquid kelp and [[solomon-foliar-feeding-fish-emulsion-and-kelp]] for immediate results; rock minerals and bone meal for slow, sustained release
 - **Soil biology health:** Biologically active soils can access slow-release forms more effectively; depleted soils may need faster sources initially
 - **Existing nutrient levels:** Soil test results should guide which nutrients are actually needed rather than applying broad-spectrum amendments indiscriminately
-- **Budget and availability:** Many effective organic fertilizers (compost, [[fertilizer-npk-decoded]]
+- **Budget and availability:** Many effective [[hamilton-organic-fertilizers-and-plant-nutrition]] (compost, [[fertilizer-npk-decoded]]
 ## Practical Considerations
 
 Successful implementation of Organic Fertilizer Sources by Nutrient requires attention to
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

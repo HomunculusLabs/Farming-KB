@@ -24,7 +24,7 @@ Pachyrhizus erosus, commonly known as jícama (Spanish: /ˈxikama/), is a climbi
 vine in the bean family Fabaceae, widely cultivated in tropical and subtropical regions
 for its large, crisp, and sweet edible tuberous root. Also called the Mexican yam bean
 or Mexican turnip, jícama produces a single prominent tuber prized for its refreshing,
-apple-like crunch and mildly sweet flavor. Native to Central America and southern Mexico,
+apple-like crunch and mildly sweet flavor. Native to [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and southern Mexico,
 it has been cultivated for thousands of years, with domestication dating back to
 pre-Columbian Mesoamerican civilizations. The root stores well, retaining its crisp
 texture for extended periods when kept cool and dry, and its low caloric content and
@@ -101,7 +101,7 @@ management and blood sugar regulation.
 ### Food Safety Warning
 **Critical:** The skin and all above-ground parts contain rotenone, a natural
 isoflavonoid that is toxic to humans and animals. Rotenone is a mitochondrial toxin
-that inhibits complex I of the electron transport chain. Ingestion causes nausea,
+that inhibits complex I of the electron [[electron-transport-chain-mitochondrial-respiration]]. Ingestion causes nausea,
 vomiting, tremors, and in severe cases, respiratory paralysis and death. Only the
 peeled white interior root flesh is safe for consumption.
 
@@ -111,7 +111,7 @@ symbiotic associations with Rhizobium bacteria, fixing atmospheric nitrogen into
 bioavailable forms that enrich surrounding soil and benefit companion plants, reducing
 external nitrogen inputs. Its climbing habit suits vertical growth on trellises
 alongside shorter crops, and it can be intercropped with maize, squash, and beans in
-guild-type plantings that mimic natural ecosystem patterns. The deep taproot breaks up
+guild-type plantings that mimic [[fukuoka-natural-ecosystem-food-chain-interconnection]] patterns. The deep taproot breaks up
 compacted soil layers, improving aeration and water infiltration. Harvested tuber
 cavities create channels enhancing soil structure, and leaf litter contributes organic
 matter. Once established, the tuber acts as a water reservoir, enabling survival
@@ -125,8 +125,8 @@ to manage blood sugar levels. The high inulin content slows glucose absorption a
 modulates insulin response, providing scientific support for this traditional use.
 Traditional healers also recommend jícama for digestive complaints: high dietary fiber
 promotes regular bowel movements and prevents constipation, while prebiotic inulin
-supports a healthy gut microbiome. Additionally, bioactive compounds in jícama root
-extracts demonstrate antimicrobial activity against certain bacterial and fungal
+supports a healthy gut microbiome. Additionally, [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] in jícama root
+extracts demonstrate antimicrobial activity against certain [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]]
 pathogens, providing a rationale for its folk medicine use in treating minor infections
 and gastrointestinal disturbances.
 
@@ -137,7 +137,7 @@ Severe infestations reduce tuber size and yield; management includes crop rotati
 non-host species and resistant rootstocks. Various Curculionidae weevil species attack
 tubers in the field and storage, with larvae boring into flesh and promoting secondary
 fungal infections. Additional pests include aphids (infesting young shoots and flowers,
-potentially transmitting viral diseases), whiteflies (causing honeydew and sooty mold),
+potentially transmitting [[cervantes-viral-diseases-cannabis]]), whiteflies (causing honeydew and sooty mold),
 ## See Also
 
 - [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]]

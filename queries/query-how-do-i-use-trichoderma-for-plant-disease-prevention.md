@@ -1,5 +1,5 @@
 ---
-title: "How Do I Use Trichoderma for Plant Disease Prevention?"
+title: "How Do I Use Trichoderma for Plant cervantes-pest-disease-prevention-overview?"
 created: 2026-04-28
 tags: [query, trichoderma, biocontrol, disease-prevention, beneficial-fungi]
 date: 2026-04-25
@@ -15,7 +15,7 @@ type: query
 ## Short Answer
 Trichoderma is a genus of beneficial fungi that protects plants by parasitizing
 pathogenic fungi, outcompeting them for resources and root space, and triggering
-plant immune responses. It is applied as a soil drench, seed treatment, or
+plant immune responses. It is applied as a soil drench, [[jadam-seed-treatment-and-nursery-management]], or
 compost tea additive to prevent root diseases like damping-off, Pythium,
 Fusarium, and Rhizoctonia.
 
@@ -34,14 +34,14 @@ outside in. The [[aact-disease-suppression-recipes]] include Trichoderma-rich co
 designed to deliver high concentrations of these fungi directly to the
 rhizosphere where they form a living biological shield around plant roots.
 
-The third mechanism is induced systemic resistance (ISR). When Trichoderma
-colonizes roots, it triggers the plant's jasmonic acid and salicylic acid
+The third mechanism is [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance (ISR). When Trichoderma
+colonizes roots, it triggers the plant's jasmonic acid and [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]]
 defense pathways, priming the entire plant to respond more quickly and strongly
 to pathogen attack. This is analogous to a vaccine: the plant does not expend
 energy on defense until a genuine threat is detected, but when one arrives, the
 response is faster and more effective than in non-colonized plants. ISR
 triggered by Trichoderma has been shown to protect not just roots but also
-foliar tissues from pathogens like Botrytis and powdery mildew.
+foliar tissues from pathogens like Botrytis and [[cervantes-powdery-mildew-prevention-treatment]].
 
 For cannabis growers, Trichoderma is especially valuable during seedling and
 clone stages when young plants are most vulnerable to damping-off caused by
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -116,3 +116,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]]

@@ -1,5 +1,5 @@
 ---
-title: Pine Weevil Blight and the Philosophy of Non-Causality
+title: fukuoka pine weevil blight non causality Blight and the Philosophy of Non-Causality
 tags:
   - farming
   - ecology
@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-Fukuoka used the outbreak of pine bark weevils devastating Japanese red pine forests as a case study in the futility of treating symptoms rather than understanding root causes, and in the fundamental unknowability of causal chains in nature. This incident illustrates his philosophy of non-causality — the idea that cause and effect as understood by human science are an illusion imposed on a reality that is fundamentally indivisible.
+Fukuoka used the outbreak of [[fukuoka-pine-bark-weevil-ecology]] weevils devastating Japanese red pine forests as a case study in the futility of treating symptoms rather than understanding root causes, and in the fundamental unknowability of causal chains in nature. This incident illustrates his philosophy of non-causality — the idea that [[fukuoka-textdoc-no-cause-and-effect-in-nature]] as understood by human science are an illusion imposed on a reality that is fundamentally indivisible.
 
 ## The Weevil Blight
 
@@ -43,7 +43,7 @@ This infinite regress of causes and effects leads nowhere. Each answer raises ne
 
 ## The Danger of Unknowing Intervention
 
-Fukuoka's warning was stark: "People cannot know what the true cause of the pine blight is, nor can they know the ultimate consequences of their 'remedy.' If the situation is meddled with unknowingly, that only sows the seeds for the next great catastrophe."
+Fukuoka's warning was stark: "People cannot know what the true cause of the [[fukuoka-pine-blight-matsutake-portent]] is, nor can they know the ultimate consequences of their 'remedy.' If the situation is meddled with unknowingly, that only sows the seeds for the next great catastrophe."
 
 The logic is clear:
 
@@ -55,11 +55,11 @@ The logic is clear:
 
 Using agricultural chemicals is, in Fukuoka's view, "the most inept way to deal with problems such as these, and will only lead to greater problems in the future."
 
-## Connection to Natural Farming Philosophy
+## Connection to [[natural-farming-philosophy]]
 
 The pine weevil case is not an isolated example but a manifestation of a fundamental principle:
 
-- In natural farming, the farmer does not try to understand or control individual causal chains
+- In [[comparison-natural-farming-vs-permaculture]], the farmer does not try to understand or control individual causal chains
 - Instead, the farmer creates conditions where the ecosystem as a whole maintains its own balance
 - The four principles (no cultivation, no chemical fertilizer, no weeding by tillage or herbicides, no dependence on chemicals) are not techniques but expressions of this philosophical stance
 - By not interfering, the farmer allows nature's own intelligence — which is infinitely more complex than human understanding — to operate
@@ -97,7 +97,7 @@ The foresters using helicopters could point to dead weevils and claim success. B
 
 ## Application to Rice Blast Disease
 
-Fukuoka observed the same pattern of non-causality in rice blast disease, a major fungal disease of rice. When he applied too much chicken manure to one field in an experiment, the rice plants came up too thickly and were attacked by blast disease. The conventional farmer would see blast disease and apply a fungicide. But the real "cause" was not the fungus — it was the excess nitrogen from the manure, which created conditions where the fungus could thrive.
+Fukuoka observed the same pattern of non-causality in rice blast disease, a major [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] of rice. When he applied too much chicken manure to one field in an experiment, the rice plants came up too thickly and were attacked by blast disease. The conventional farmer would see blast disease and apply a fungicide. But the real "cause" was not the fungus — it was the excess nitrogen from the manure, which created conditions where the fungus could thrive.
 
 But even saying "excess nitrogen caused the blast disease" is an oversimplification. The nitrogen interacted with soil moisture, temperature, plant density, microbial communities, and dozens of other factors. The causal chain is infinitely complex and ultimately unknowable in its totality.
 

@@ -1,5 +1,5 @@
 ---
-title: Animal Days and Forage Measurement
+title: savory animal days and forage measurement and Forage Measurement
 created: 2026-04-28
 tags: [grazing-planning, measurement, forage]
 date: 2026-04-25
@@ -59,7 +59,7 @@ paddocks of varying size and to plan future operations with precision.
 
 ## Applications of ADA
 
-The grazing aspects of holistic management require a thorough understanding
+The grazing aspects of [[savory-holistic-management-overview]] require a thorough understanding
 of ADA and how to use them. Since Andre Voisin first developed the concept
 in his pasture work, Savory and others have found ways to apply it in many
 contexts:
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

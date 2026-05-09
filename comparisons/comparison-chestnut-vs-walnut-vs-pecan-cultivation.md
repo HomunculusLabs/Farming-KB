@@ -1,5 +1,5 @@
 ---
-title: Chestnut vs Walnut vs Pecan — Nut Tree Cultivation Comparison
+title: comparison chestnut vs walnut vs pecan cultivation vs Pecan — Nut holzer-sweet-chestnut-and-nut-trees Comparison
 created: 2026-04-28
 tags: [chestnut, walnut, pecan, nut-trees, orchard, permaculture, food-forest, tree-crops, homesteading]
 date: 2026-05-03
@@ -8,7 +8,7 @@ sources:
   - USDA NRCS Plant Guides: Castanea spp., Juglans spp., Carya illinoinensis
   - Lee Reich, "Landscaping with Fruit" (2009)
   - Martin Crawford, "Creating a Forest Garden" (2010)
-  - North American Nut Growers Association proceedings
+  - [[growing-gourmet-north-american-reishi-species]] Nut Growers Association proceedings
   - Cornell University Cooperative Extension nut production guides
 type: comparison
 ---
@@ -19,7 +19,7 @@ type: comparison
 
 | Attribute | **Chestnut** (*Castanea spp.*) | **Walnut** (*Juglans spp.*) | **Pecan** (*Carya illinoinensis*) |
 |-----------|-------------------------------|------------------------------|-----------------------------------|
-| **USDA Zones** | 4–9 (varies [[comparison-fruit-tree-guilds-vs-companion-planting]]** | Excellent (no allelopathy) | **Limited** (juglone kills many plants) | Good |
+| **USDA Zones** | 4–9 (varies comparison-fruit-tree-guilds-vs-companion-planting** | Excellent (no allelopathy) | **Limited** (juglone kills many plants) | Good |
 
 ## Detailed Comparison
 
@@ -67,7 +67,7 @@ This is the most fundamental difference between the three genera and drives most
 - **Chestnut blight** (*Cryphonectria parasitica*): Devastated American chestnut. Chinese and hybrid chestnuts are resistant. Plant only blight-resistant cultivars.
 - **Chestnut weevil**: Larvae bore into nuts. Management includes orchard sanitation (collecting fallen nuts) and approved insecticides.
 - **Oriental chestnut gall wasp**: Emerging pest. Causes galls on leaves and shoots. Some cultivars show resistance.
-- **Phytophthora root rot**: Major problem on poorly drained soils. Prevention through site selection — chestnuts must have excellent drainage.
+- **[[amf-biocontrol-phytophthora-root-exudate-modification]] rot**: Major problem on poorly drained soils. Prevention through [[fukuoka-creating-natural-farm-site-selection-establishment]] — chestnuts must have excellent drainage.
 
 **Walnut**:
 - **Thousand cankers disease**: Geosmithia fungus vectored by walnut twig beetle. Primarily affects black walnut. Devastating in some regions. No reliable cure — avoid planting black walnut in affected areas.
@@ -79,7 +79,7 @@ This is the most fundamental difference between the three genera and drives most
 - **Pecan scab** (*Fusicladium effusum*): The most significant pecan disease. Fungal infection of leaves and nuts. Causes black lesions, nut drop, and reduced quality. Requires fungicide sprays in humid regions. Scab-resistant varieties are essential east of the Mississippi: 'Elliott', 'Kanza', 'Lakota', 'Pawnee'.
 - **Pecan weevil**: Adults emerge from soil in late summer, lay eggs in developing nuts. Cultural controls (orchard sanitation, soil cultivation) and approved insecticides.
 - **Pecan casebearer**: Larvae tunnel into developing nuts in spring. Pheromone traps for monitoring; targeted sprays when threshold reached.
-- **Aphids and hickory shuckworm**: Secondary pests. Beneficial insects usually provide adequate control.
+- **Aphids and hickory shuckworm**: Secondary pests. [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] usually provide adequate control.
 
 ### Economic Yield and Commercial Potential
 
@@ -118,6 +118,8 @@ This is the most fundamental difference between the three genera and drives most
 - 'Serr' — adapted to warmer inland climates. Zone 7–9.
 
 ## See Also
+
+- comparison-hickory-vs-pecan-vs-black-walnut-cultivation
 
 - [[comparison-macadamia-vs-pecan-vs-pistachio-cultivation]]
 

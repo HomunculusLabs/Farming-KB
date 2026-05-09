@@ -1,5 +1,5 @@
 ---
-title: Garden Planning and Mini-Farm Design
+title: hamilton-garden-planning-and-site-assessment and Mini-Farm Design
 created: 2026-04-28
 tags: [biointensive, garden-planning, mini-farm, design, jeavons]
 date: 2026-04-28
@@ -28,7 +28,7 @@ county agricultural agents, or local nurseries. Key questions:
 
 ## The Garden Year Cycle
 
-The GROW BIOINTENSIVE garden follows a seasonal rhythm:
+The [[jeavons-grow-biointensive-method-overview]] garden follows a seasonal rhythm:
 
 **Winter**: Plan the garden; order open-pollinated, untreated
 seeds (allow 2 months for mail delivery); make flats, trellises,
@@ -56,7 +56,7 @@ pollination; in small plantings, consider hand-pollination.
 
 To improve soil fertility and increase garden sustainability,
 additionally grow 200-300 square feet of [[jeavons-sustainability-philosophy-gbiointensive]]: 60% carbon-and-calorie
-crops, 30% high-calorie root crops, 10% vegetable crops for
+crops, 30% high-calorie [[permaculture-plants-root-crops-and-tubers]], 10% vegetable crops for
 vitamins and minerals.
 
 ## Crop Rotation in Planning

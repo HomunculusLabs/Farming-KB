@@ -1,11 +1,11 @@
 ---
-title: Cannabis Odor Control And Carbon Filters
+title: Cannabis cannabis odor control and carbon filters And Carbon Filters
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 
 # Cannabis Odor Control and Carbon Filters
@@ -28,7 +28,7 @@ Carbon filters have a limited lifespan. As the carbon pores become saturated wit
 
 ## Ozone Generators
 
-Ozone generators produce ozone (O3) gas, which destroys odor molecules through oxidation. Ozone is an effective odor neutralizer that breaks down volatile organic compounds including cannabis terpenes.
+Ozone generators produce ozone (O3) gas, which destroys odor molecules through oxidation. Ozone is an effective odor neutralizer that breaks down [[fungal-volatile-organic-compounds-communication]] compounds including [[query-what-are-cannabis-terpenes-and-why-do-they-matter]].
 
 Ozone generators are sometimes used as a supplement to carbon filtration, particularly in larger commercial operations. They can be placed in the exhaust duct to treat air after it leaves the grow room or in the grow room itself to neutralize odors at the source.
 
@@ -52,13 +52,14 @@ For tent growers, quality grow tents typically have sealed seams and zippered op
 
 Some cultivation choices can reduce the inherent odor production of the grow.
 
-Strain selection matters. Some cannabis strains produce significantly less odor than others. Northern Lights, for example, is known for relatively mild aroma compared to intensely fragrant strains like Cheese or Skunk. Choosing lower-odor strains is a practical strategy for growers with limited odor control resources.
+[[blesching-cannabis-strain-selection-receptor-targeting]] matters. Some cannabis strains produce significantly less odor than others. Northern Lights, for example, is known for relatively mild aroma compared to intensely fragrant strains like Cheese or Skunk. Choosing lower-odor strains is a practical strategy for growers with limited odor control resources.
 
-Harvest timing can affect odor intensity. Harvesting slightly earlier, when trichomes are mostly cloudy but before the full amber stage, may produce buds with somewhat lower terpene content and therefore less intense odor. However, this comes at the cost of potentially reduced complexity and slightly altered effects.
+[[cannabis-harvest-timing-visual-cues]] can affect odor intensity. Harvesting slightly earlier, when trichomes are mostly cloudy but before the full amber stage, may produce buds with somewhat lower terpene content and therefore less intense odor. However, this comes at the cost of potentially reduced complexity and slightly altered effects.
 
-Proper drying and curing in sealed, ventilated spaces prevents the massive odor release that occurs when harvested material is dried in open or poorly ventilated areas.
+Proper [[comparison-cannabis-drying-and-curing-vs-flushing-before-harvest]] in sealed, ventilated spaces prevents the massive odor release that occurs when harvested material is dried in open or poorly ventilated areas.
 
 [[cannabis-resin-production-and-quality-traits-clarke]]
+
 ## Practical Considerations
 
 Successful implementation of Cannabis Odor Control And Carbon Filters requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

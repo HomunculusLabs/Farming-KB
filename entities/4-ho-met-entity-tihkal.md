@@ -34,7 +34,7 @@ is widely available in the mycological arena, making it the simplest option.
 4-HO-MET is a member of the 4-hydroxytryptamine family, which represents the
 pharmacological core of the psychedelic effects found in Psilocybe mushrooms.
 The systematic exploration of N-alkyl substitution in this series has been
-one of the most productive areas of tryptamine research.
+one of the most productive areas of [[mckenna-baconian-exploration-tryptamine-research-methodology]].
 
 The 4-hydroxytryptamine family demonstrates a remarkable pharmacological
 consistency: regardless of the specific N-alkyl groups (within the constraint
@@ -61,7 +61,7 @@ and by cytochrome P450 enzymes, particularly CYP2D6. The N-ethyl group may
 alter metabolic stability relative to psilocin, potentially contributing to
 slight differences in duration and character.
 
-In vitro receptor binding profiles of 4-hydroxytryptamine analogues show that
+In vitro [[tihkal-receptor-binding-serotonin]] profiles of 4-hydroxytryptamine analogues show that
 N-alkyl substitution has relatively minor effects on 5-HT2A affinity, with
 most members showing Ki values in the 5-50 nM range. The primary effect of
 different N-alkyl groups appears to be on functional efficacy and on interactions
@@ -83,13 +83,13 @@ reported between compounds.
 - 4-HO-DPT: N,N-dipropyl, insufficient data, estimated 15-25 mg
 
 The practical similarity of all these compounds supports Shulgin's observation
-that they would be difficult to distinguish in blind clinical trials, though
+that they would be difficult to distinguish in blind [[mushroom-cancer-clinical-trials-overview]], though
 subtle qualitative differences in color emphasis, emotional tone, and body
 feel are consistently reported by experienced users.
 
 ## Harm Reduction and Safety Considerations
 
-- Standard tryptamine harm reduction applies: start low, go slow, pay attention to set and setting
+- Standard tryptamine harm reduction applies: start low, go slow, pay attention to [[lsd-set-and-setting-framework]]
 
 - The wave-like nature of the experience means effects may intensify after initial mild onset
 
@@ -105,7 +105,7 @@ feel are consistently reported by experienced users.
 
 ## Legal Status
 
-4-HO-MET is not specifically scheduled in most jurisdictions. As a 4-hydroxy-N-alkyltryptamine, it could potentially fall under analogue legislation related to psilocin or [[psilocybin]] in countries with broad controlled substance analogue provisions. In the US, the Federal Analogue Act could apply. Some countries have enacted specific bans on 4-HO-MET and related compounds. The UK's Psychoactive Substances Act (2016) covers it as a psychoactive substance.
+4-HO-MET is not specifically scheduled in most jurisdictions. As a 4-hydroxy-N-alkyltryptamine, it could potentially fall under analogue legislation related to psilocin or [[psilocybin]] in countries with broad controlled substance analogue provisions. In the US, the Federal Analogue Act could apply. Some countries have enacted specific bans on 4-HO-MET and related compounds. The UK's Psychoactive [[controlled-substances-act-and-psychedelic-research]] (2016) covers it as a psychoactive substance.
 
 ## Cultural and Historical Significance
 

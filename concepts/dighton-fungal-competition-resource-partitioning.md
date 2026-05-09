@@ -1,5 +1,5 @@
 ---
-title: Fungal Competition and Resource Partitioning in Soil
+title: Fungal Competition and fungal-resource-partitioning-decomposition-sequences in Soil
 created: 2026-04-26
 tags:
   - mycology
@@ -18,8 +18,8 @@ type: concept
 
 Fungal species compete for available resources including food, space, and
 nutrients. The outcome of competitive interactions determines which species
-colonize decomposing organic matter, shape fungal community composition, and
-ultimately influence decomposition rates and nutrient cycling processes. Fungal
+colonize decomposing organic matter, shape fungal [[core-endorhiza-bacterial-community-composition-cannabis]], and
+ultimately influence decomposition rates and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] processes. Fungal
 competition operates through both exploitation (resource capture) and
 interference (antagonistic chemical interactions) mechanisms.
 
@@ -28,7 +28,7 @@ interference (antagonistic chemical interactions) mechanisms.
 Cook and Rayner (1984) and Lockwood (1992) described exploitation competition
 among fungi as the ability to capture and utilize resources more efficiently
 than competitors. The colonization of resources by fungi is a function of
-resource quality, rate of arrival of fungal propagules (spores or hyphal
+[[fungal-decomposition-resource-quality-determinants]], rate of arrival of fungal propagules (spores or hyphal
 fragments), and competitive interactions among fungal species on the resource.
 
 Different fungi possess different enzymatic capabilities that determine which
@@ -40,7 +40,7 @@ resource partitioning among species.
 ## Interference Competition
 
 In addition to direct competition for resources, fungi engage in interference
-competition through the production of antibiotic secondary metabolites
+competition through the production of antibiotic [[antifungal-secondary-metabolites-coprophilous-fungi]]
 (Wicklow, 1992). These chemical weapons can suppress or kill competing
 species, allowing the producing fungus to dominate a resource. In aquatic
 ecosystems, Bergbauer et al. (1992) found that decomposition rates were
@@ -111,13 +111,15 @@ greater enzymatic competence.
 Litter chemistry can exert significant control over competitive outcomes.
 Koide et al. (1998) showed that polyphenols catechin and epicatechin gallate
 stimulated the growth of Suillus intermedius but reduced the growth of
-Amanita rubescens. Volatile compounds such as alpha- and beta-pinene from pine
+Amanita rubescens. [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] such as alpha- and beta-pinene from pine
 litter had differential effects on a range of ectomycorrhizal fungi,
 demonstrating that the phenolic content and composition of leaf litter can
 significantly influence which fungal species dominate in the vicinity of
 litter deposits.
 
 ## See Also
+
+- [[fungal-resource-partitioning-decomposition-sequences]]
 
 - [[dighton-fungal-trophic-interactions-soil-food-webs]]
 - [[dighton-fungal-succession-resource-decomposition]]

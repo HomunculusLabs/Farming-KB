@@ -19,7 +19,7 @@ sources:
 
 **Coccinia grandis** (L.) Voigt, commonly known as **ivy gourd**, is a perennial climbing vine in the family **Cucurbitaceae** widely grown across tropical Asia and Africa for its edible immature fruits and tender leaves.
 
-The species is valued as a productive vegetable crop in home gardens and smallholder farming systems throughout South and Southeast Asia.
+The species is valued as a productive vegetable crop in home gardens and smallholder farming systems throughout South and [[psilocybe-southeast-asia-pacific]].
 
 Ivy gourd is also recognized as an aggressive invasive species in several Pacific islands, Hawaii, and parts of Australia where it has escaped cultivation.
 
@@ -31,7 +31,7 @@ Its rapid growth, high fruit production, and nutritional value have made it both
 
 The authority citation (L.) Voigt reflects this reclassification within the cucumber family Cucurbitaceae, tribe Cucurbiteae.
 
-It is a vigorous, dioecious climber with tendrils, capable of covering large areas of vegetation and structures within a single growing season.
+It is a vigorous, dioecious climber with tendrils, capable of covering large areas of vegetation and structures within a single [[savory-growing-season-and-non-growing-season-management]].
 
 Stems are slender, angular, and ribbed, reaching 10–30 m in length when supported, with rough-haired younger growth becoming glabrescent with age.
 
@@ -45,7 +45,7 @@ Fruits are ellipsoid to ovoid berries 3–6 cm long, green when immature and rip
 
 *Coccinia grandis* is native to tropical Africa and Asia, with its primary center of diversity in East Africa, the Indian subcontinent, and Indochina.
 
-It has been widely introduced throughout the tropics for cultivation and has become naturalized in the Pacific Islands, Caribbean, Central America, and northern Australia.
+It has been widely introduced throughout the tropics for cultivation and has become naturalized in the Pacific Islands, Caribbean, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], and northern Australia.
 
 The species occupies a wide ecological range, growing from sea level to approximately 1500 m elevation in areas with annual rainfall of 800–2500 mm.
 
@@ -89,7 +89,7 @@ In Ayurvedic and Siddha medicine, ivy gourd is prescribed for diabetes managemen
 
 The vine serves as a living fence and ground cover in tropical agroforestry systems, though its aggressive growth requires regular management to prevent it from overtopping companion crops.
 
-As an invasive species, ivy gourd poses significant ecological threats by smothering native vegetation and altering forest structure — biological control programs using fungal pathogens and insect herbivores have been implemented in Hawaii and other affected regions.
+As an invasive species, ivy gourd poses significant ecological threats by smothering native vegetation and altering [[mollison-wet-tropical-forest-structure-and-polyculture]] — [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] programs using [[bloomfield-fungal-pathogens-and-parasites]] and insect herbivores have been implemented in Hawaii and other affected regions.
 
 ## Invasive Biology and Management
 

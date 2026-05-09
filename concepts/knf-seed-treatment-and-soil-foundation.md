@@ -77,7 +77,7 @@ For transplanted seedlings:
 
 - **Uniform germination:** Seeds treated with M-A emerge at roughly the same time, creating an even stand
 - **Vigorous root generation:** Treated seeds develop stronger, more extensive root systems
-- **Good establishment:** Seedlings establish more quickly and with less transplant shock
+- **Good establishment:** Seedlings establish more quickly and with less [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]]
 - **Even growth:** Plants grow more uniformly throughout the season, making management easier
 
 ## Disease Control Application
@@ -90,19 +90,19 @@ M-A can also be used as a disease intervention during [[cho-loess-powder-in-natu
 
 M-A serves as an emergency response plan for abnormal weather conditions:
 
-- **Low temperature protection:** Apply M-A when unexpected cold threatens crops. The microbial activity generates slight warmth in the root zone and helps plants maintain metabolic activity during cold stress.
+- **Low temperature protection:** Apply M-A when unexpected cold threatens crops. The microbial activity generates slight warmth in the root zone and helps plants maintain [[arbuscule-isolation-metabolic-activity-assays]] during cold stress.
 - **Abnormal weather during harvest:** Apply M-A when unusual weather patterns threaten the harvest. The microbial support helps plants maintain vigor and complete their reproductive cycle.
 
 ## Specific Crop Disease Control
 
 M-A has demonstrated effectiveness against specific diseases:
 
-- **Apple tree canker:** Apply 2 tons of M-A (1:1000) per 100a as a soil drench around affected trees
+- **[[comparison-apple-tree-care-vs-apple-guild-design]] canker:** Apply 2 tons of M-A (1:1000) per 100a as a soil drench around affected trees
 - **Fusarium wilt of melon and watermelon:** Apply M-A as a soil treatment before planting and as a foliar/soil drench if symptoms appear
 
 ## Fruit Tree Application
 
-For fruit trees, M-A provides both soil foundation and disease protection:
+For [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], M-A provides both soil foundation and disease protection:
 
 - Apply 2 tons of M-A (1:1000) per 100a immediately after harvest (post-harvest application)
 - This timing allows the microbial populations to establish during the dormant season

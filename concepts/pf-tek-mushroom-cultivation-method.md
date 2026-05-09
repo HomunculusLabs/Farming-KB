@@ -1,5 +1,5 @@
 ---
-title: Pf Tek Mushroom Cultivation Method
+title: Pf Tek accessible-mushroom-cultivation-for-disabilities Method
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 mined: 2026-05-08
 tags: [cultivation, pf-tek, psilocybe, cubensis, mycology, mushroom-growing]
@@ -13,8 +13,8 @@ The PF Tek ([[psilocybe-cubensis]]*, the
 most common and forgiving species for home cultivation. Its core innovation is
 the use of small, half-pint canning jars as both the colonization vessel and the
 [[spore-syringe]] containing *P. cubensis* spores suspended in
-sterile water. A lighter or alcohol burner for flame sterilization of the
-needle. Rubbing alcohol for surface sterilization.
+sterile water. A lighter or alcohol burner for [[flammability-hazard-alcohol-lysol-flame-sterilization-mycology]] of the
+needle. Rubbing alcohol for [[challenge-organisms-nasa-microwave-surface-sterilization-testing]].
 
 **Fruiting environment**: A clear plastic container (terrarium or "shotgun FC")
 with holes for air exchange, perlite for humidity, and a light source (indirect
@@ -46,7 +46,7 @@ The substrate preparation follows a precise procedure:
 
 ## Sterilization
 
-Sterilization is the most critical step. The PF Tek uses steam sterilization:
+Sterilization is the most critical step. The PF Tek uses [[pf-tek-steam-sterilization-pot-method-common-pottery]]:
 
 1. Place the filled jars in the cooking pot. Elevate them off the bottom using
    a jar lid ring, washcloth, or trivet to prevent direct contact with the heat
@@ -87,7 +87,7 @@ Inoculation must be performed in the cleanest possible environment:
 
 ## Colonization Phase
 
-After inoculation, place jars in a warm, dark location. Ideal temperature is
+After inoculation, place jars in a warm, dark location. [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] is
 75-80°F (24-27°C). Lower temperatures slow colonization significantly; higher
 temperatures promote contamination. A standard room temperature of approximately
 75°F works well.
@@ -107,7 +107,7 @@ Once jars are fully colonized (completely white throughout), proceed to fruiting
 2. Rinse each cake briefly under cold running water to remove loose vermiculite.
 
 3. Roll each cake in dry vermiculite to create a protective moisture-retaining
-   coating. Place on a piece of aluminum foil in the fruiting chamber.
+   coating. Place on a piece of aluminum foil in the [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]].
 
 ## See Also
 

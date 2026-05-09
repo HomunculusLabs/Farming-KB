@@ -6,7 +6,7 @@ tags: [beneficial-bacteria, casing-layer, primordia-formation, mushroom-cultivat
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/the-mushroom-cultivator-stamets.md
+  sources: []
 ---
 
 # Pseudomonas putida
@@ -37,7 +37,7 @@ bacteria like Bacillus species. The organism can be cultured on malt [[agaricus-
 nor do all strains of mushrooms respond similarly. Some strains have no effect
 whatsoever, while others are most stimulative when grown on acetone-based media.
 
-The mechanism by which Pseudomonas putida stimulates primordia formation remains
+The mechanism by which Pseudomonas putida stimulates [[growing-gourmet-primordia-formation-pinning]] remains
 unanswered. Some believe its effect is indirect, removing chelating compounds that
 inhibit mushroom initiation. Others (Fritsche, 1981; Visscher, 1981) suspect its
 influence is more direct and biologically oriented. Eger (1972) first suggested a
@@ -46,8 +46,8 @@ casing soil with acetone for several days apart from mushroom cultures. If aceto
 a stimulative effect on the microflora that induces fructification, soil treated with
 acetone should allow earlier pinhead formation than control samples.
 
-The role of Pseudomonas putida exemplifies the complex microbial ecology of the casing
-layer. The casing layer functions not only to protect the colonized substrate from
+The role of Pseudomonas putida exemplifies the complex [[fukuoka-microbial-ecology-decomposition]] of the casing
+layer. The [[gourmet-medicinal-mushroom-casing-layer-techniques]] functions not only to protect the colonized substrate from
 drying and to provide a humid microclimate for primordia formation, but also to support
 the growth of fructification-enhancing microorganisms. The interplay between mushroom
 mycelium and its associated bacterial flora represents an area of ongoing research with
@@ -55,11 +55,13 @@ significant commercial implications.
 
 From the perspective of the cultivator, maintaining conditions favorable to beneficial
 Pseudomonas putida populations while suppressing pathogenic species like Pseudomonas
-tolaasii represents a key challenge in crop management. Proper casing preparation,
+tolaasii represents a key challenge in [[mushroom-crop-management-flush-harvesting]]. Proper casing preparation,
 moisture management, and hygiene practices all influence the balance of microbial
-populations in the growing environment.
+populations in the [[cannabis-growing-environment-setup]].
 
 ## See Also
+
+- [[sphaerotheca-fuliginea]]
 
 - [[pseudomonas-tolaasii-entity-the-mushroom-cultivator]]
 - [[mycogone-perniciosa-entity-the-mushroom-cultivator]]
@@ -82,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

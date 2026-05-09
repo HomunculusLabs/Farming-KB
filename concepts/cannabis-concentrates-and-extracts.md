@@ -25,7 +25,7 @@ The simplest form of concentrate. Kief consists of the trichome heads that have 
 Hash is made by separating trichomes from plant material and compressing them into a solid mass. Traditional methods include:
 - **Dry-sifting**: Passing dried cannabis through screens of progressively finer mesh to collect trichomes
 - **Hand-rubbing (charas)**: Gently rubbing living cannabis plants to collect the resin on the hands
-- **Ice water extraction (bubble hash)**: Using cold water and agitation to separate trichomes, then filtering through micron bags
+- **[[comparison-cannabis-ice-water-extraction-vs-hashish-guide]] (bubble hash)**: Using cold water and agitation to separate trichomes, then filtering through micron bags
 
 In Oner's guide, "finger hash" -- the resin that accumulates on fingers during trimming -- is frequently mentioned as an early treat after harvest. Many strains are specifically noted as good choices for "hash production" due to their heavy trichome production.
 
@@ -39,19 +39,19 @@ Butane hash oil is made by passing liquid butane through packed cannabis materia
 
 ### Live Resin
 
-Live resin is a type of BHO made from fresh, flash-frozen cannabis plants rather than dried and cured material. The freezing process preserves a higher proportion of the volatile terpenes that would otherwise be lost during drying and curing. Live resin is typically more aromatic and flavorful than other extracts and commands premium prices.
+Live resin is a type of BHO made from fresh, flash-frozen cannabis plants rather than dried and cured material. The freezing process preserves a higher proportion of the volatile terpenes that would otherwise be lost during [[comparison-cannabis-drying-and-curing-vs-flushing-before-harvest]]. Live resin is typically more aromatic and flavorful than other extracts and commands premium prices.
 
 ### Distillate
 
-Cannabis distillate is a highly refined product that has been purified through short-path or fractional distillation. The result is a clear, odorless, and flavorless liquid that is typically 90-99% pure THC or CBD. While extremely potent, distillate lacks the terpene profile that contributes to the entourage effect. Terpenes can be reintroduced after distillation to create flavored products.
+Cannabis distillate is a highly refined product that has been purified through short-path or [[cannabis-fractional-distillation-cannabinoids]]. The result is a clear, odorless, and flavorless liquid that is typically 90-99% pure THC or CBD. While extremely potent, distillate lacks the terpene profile that contributes to the [[cannabis-terpene-entourage-effect-profiles]]. Terpenes can be reintroduced after distillation to create flavored products.
 
 ### Tinctures
 
-Cannabis tinctures are liquid extracts made by steeping cannabis in alcohol (typically food-grade ethanol). They are administered sublingually (under the tongue) using a dropper. Tinctures were among the earliest pharmaceutical cannabis preparations, sold as patent medicines in the 19th and early 20th centuries.
+[[query-how-to-make-cannabis-tinctures-at-home]] are liquid extracts made by steeping cannabis in alcohol (typically food-grade ethanol). They are administered sublingually (under the tongue) using a dropper. Tinctures were among the earliest pharmaceutical cannabis preparations, sold as patent medicines in the 19th and early 20th centuries.
 
 ## Strain Selection for Concentrates
 
-Oner's guide repeatedly identifies strains suitable for concentrate production based on trichome density and resin production. Strains noted for hash-making potential include those with "heavy trichome production," "resinous" buds, and "sugary crystals." The quality of the starting material is the primary determinant of concentrate quality.
+Oner's guide repeatedly identifies strains suitable for concentrate production based on trichome density and [[cannabis-glandular-trichome-types-resin-production-clarke]]. Strains noted for hash-making potential include those with "heavy trichome production," "resinous" buds, and "sugary crystals." The quality of the starting material is the primary determinant of concentrate quality.
 
 ## Related Concepts
 
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

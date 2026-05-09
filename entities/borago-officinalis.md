@@ -23,7 +23,7 @@ sources:
   - U.S. Department of Agriculture. (2024). "Borago officinalis." Natural Resources Conservation Service PLANTS Database.
   - Leung, A.Y. & Foster, S. (1996). "Encyclopedia of Common Natural Ingredients Used in Food, Drugs, and Cosmetics." Wiley.
   - Mills, S. & Bone, K. (2000). "The Essential Guide to Herbal Safety." Elsevier.
-  - Duke, J.A. (2002). "Handbook of Medicinal Herbs." CRC Press.
+  - Duke, J.A. (2002). "Handbook of [[permaculture-plants-medicinal-herbs-healing]]." CRC Press.
 created: 2026-04-28
 ---
 
@@ -49,7 +49,7 @@ The fruit consists of four nutlets (achenes), each approximately 5–6 mm long, 
 
 ## Distribution and Habitat
 
-Borage is native to the Mediterranean basin, including southern Europe, North Africa, and western Asia. It has been widely naturalized across temperate regions of Europe, North America, South America, and Australia.
+Borage is native to the Mediterranean basin, including southern Europe, North Africa, and western Asia. It has been widely naturalized across temperate regions of Europe, [[psilocybin-north-america-pacific-northwest]], South America, and Australia.
 
 The species thrives in well-drained soils with full sun to partial shade. It is highly adaptable, growing in loamy, sandy, or clay soils with pH ranging from slightly acidic to alkaline (5.5–8.0).
 
@@ -59,7 +59,7 @@ The plant is frost-tolerant at the seedling stage and can be grown as a cool-sea
 
 ## Bioactive Compounds
 
-The primary bioactive constituents of borage are found in the seeds, which contain **gamma-linolenic acid (GLA)** at concentrations of 18–26% of total fatty acids. GLA is a delta-6-desaturated derivative of linoleic acid and a precursor to dihomo-γ-linolenic acid (DGLA).
+The primary bioactive constituents of borage are found in the seeds, which contain **gamma-linolenic acid (GLA)** at concentrations of 18–26% of total [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]. GLA is a delta-6-desaturated derivative of linoleic acid and a precursor to dihomo-γ-linolenic acid (DGLA).
 
 Additional seed constituents include linoleic acid (35–40%), oleic acid (15–20%), palmitic acid (10%), and stearic acid (3–5%). Minor compounds include tocopherols (vitamin E) and phytosterols.
 
@@ -93,3 +93,8 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[carum-carvi]]
+- [[glehnia-littoralis]]
+- [[sium-sisarum]]

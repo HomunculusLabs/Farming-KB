@@ -1,5 +1,5 @@
 ---
-title: Calcium Accumulators and Oak Leaves
+title: Calcium calcium accumulators and oak leaves Leaves
 created: 2026-04-28
 tags:
   - calcium
@@ -27,7 +27,7 @@ overlooked resource for soil building.
 
 ## Oak Leaves as Dynamic Calcium Accumulators
 
-Oak leaves (Quercus species) are recognized as dynamic accumulators of
+Oak leaves (Quercus species) are recognized as [[comparison-dynamic-accumulators-vs-cover-crops]] of
 calcium. What makes this particularly noteworthy is that oak leaves can
 contain high levels of calcium even when the underlying soil has barely
 detectable or very low levels of available calcium. This suggests that
@@ -44,7 +44,7 @@ significant source of calcium for surface soil improvement.
 ## Alan Chadwick's Methods
 
 Alan Chadwick, widely regarded as the father of biodynamic French
-intensive gardening in North America, appreciated the value of oak
+[[solomon-wide-spacing-versus-intensive-gardening-debate]] in North America, appreciated the value of oak
 leaves as a calcium source. He taught his students to line the bottom
 of seed flats with oak leaves and broken eggshells, creating a
 calcium-rich foundation for seedling development. This technique
@@ -115,11 +115,11 @@ directly into the soil.
 
 ## Calcium's Role in Plant Health
 
-Calcium deficiency in plants manifests as stunted growth, distorted
+[[knf-calcium-deficiency-symptoms]] in plants manifests as stunted growth, distorted
 new growth, blossom end rot in tomatoes and peppers, and bitter pit in
 apples. While adding calcium to the soil is important, calcium
 availability also depends on soil pH, adequate moisture, and proper
-cation exchange capacity. Compost made from calcium-rich materials like
+[[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity. Compost made from calcium-rich materials like
 oak leaves addresses multiple aspects of calcium availability
 simultaneously by improving soil structure, increasing organic matter,
 and buffering pH.
@@ -131,7 +131,7 @@ collecting and composting oak leaves is a simple and effective strategy.
 The process requires no special equipment or purchased inputs beyond a
 nitrogen source for the compost pile. Oak leaves are abundant in many
 landscapes, and their collection serves the dual purpose of autumn
-lawn maintenance and soil fertility building. The resulting compost
+lawn maintenance and soil [[soil-fertility-building-gradient-solomon]]. The resulting compost
 provides a slow-release source of calcium along with a full spectrum of
 ## See Also
 

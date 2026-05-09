@@ -1,5 +1,5 @@
 ---
-title: "How Do I Prevent and Manage Plant Diseases Organically?"
+title: "How Do I query how do i prevent and manage plant diseases organically Plant Diseases Organically?"
 tags: [query, plant-disease, organic-farming, ipm, biocontrol]
 date: 2026-04-28
 updated: 2026-04-28
@@ -12,7 +12,7 @@ type: query
 
 ## Short Answer
 
-Organic plant disease management starts with prevention through
+Organic plant [[plant-disease-management-solomon]] starts with prevention through
 cultural practices: selecting resistant varieties, maintaining proper
 spacing and airflow, rotating crops, and building healthy soil biology.
 When diseases appear, organic growers rely on biological controls like
@@ -25,7 +25,7 @@ damage thresholds while supporting the overall ecosystem.
 ### Building Disease-Resistant Soil
 
 Healthy soil is the foundation of organic disease management.
-Soil rich in organic matter supports a diverse microbial community that
+Soil rich in organic matter supports a diverse [[edaphic-factors-microbial-community-structure]] that
 competes with and suppresses plant pathogens. Beneficial fungi like
 [[coleman-cover-crop-rotation-and-soil-health]] breaks disease cycles by
 removing host plants from the area for one to three years, starving
@@ -35,7 +35,7 @@ surviving in residue.
 
 ### Biological Controls
 
-Biological disease control uses living organisms to suppress pathogens.
+Biological [[hamilton-pest-and-disease-control-organic]] uses living organisms to suppress pathogens.
 [[neem]] oil contains azadirachtin, which disrupts pathogen development
 and strengthens plant cell walls. It has broad-spectrum activity against
 fungal diseases like powdery mildew and rust, plus insecticidal
@@ -49,8 +49,8 @@ environment for many fungal pathogens.
 ### Physical Barriers and Sanitation
 
 Row covers and netting physically exclude insect vectors that spread
-viral and bacterial diseases. Copper tape around raised beds deters
-slugs and snails that create entry wounds for fungal pathogens.
+[[bacterial-plant-diseases]] diseases. Copper tape around raised beds deters
+[[query-how-to-get-rid-of-slugs-and-snails-organically]] that create entry wounds for fungal pathogens.
 Sterilizing pruning tools between cuts with rubbing alcohol or hydrogen
 peroxide prevents mechanical transmission of viruses and bacteria.
 Removing weeds that serve as alternate hosts for pathogens reduces the
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -20,7 +20,7 @@ Ericoid mycorrhizae are endomycorrhizae in that the fungal symbiont penetrates
 and establishes within the cortical cells of the host root. The key
 morphological features
 include:
-- **"Hair roots"**: Ericaceous plants produce very fine roots with minimal cortical tissue. These hair roots are the primary sites of mycorrhizal colonization.
+- **"Hair roots"**: Ericaceous plants produce very fine roots with minimal cortical tissue. These hair roots are the primary sites of [[arbuscular-mycorrhizal-colonization-patterns]].
 
 - **Intracellular hyphal coils**: Within each colonized epidermal cell, the fungus forms dense hyphal coils that fill the cell volume almost entirely. Each cell is individually infected from the outer cortical wall -- lateral spread from cell to cell does not occur.
 
@@ -36,7 +36,7 @@ acquisition capabilities that are essential for survival in heathland
 soils:
 - **Nitrogen mobilization**: Ericoid mycorrhizal fungi possess the ability to access organic nitrogen sources that are unavailable to most plants. They produce proteases and peptidases that break down complex nitrogen compounds in soil organic matter, and can take up amino acids directly.
 
-- **Siderophore production**: Ericoid mycorrhizal fungi produce ferricrocin or fusigen as their main siderophores (Haselwandter et al. 1992), enabling iron acquisition in the highly acidic, iron-poor conditions typical of heathland soils.
+- **[[singh-fungal-siderophore-production-iron-acquisition]]**: Ericoid mycorrhizal fungi produce ferricrocin or fusigen as their main siderophores (Haselwandter et al. 1992), enabling iron acquisition in the highly acidic, iron-poor conditions typical of heathland soils.
 
 - **Phosphorus acquisition**: The fungal hyphae extending from colonized roots explore the soil and solubilize phosphorus from organic and mineral sources.
 
@@ -48,7 +48,7 @@ Ericoid mycorrhizae are keystone components of heathland ecosystems:
 
 - **Nutrient cycling**: In nutrient-poor heathland soils, decomposition is slow and nutrients are predominantly locked in organic forms. Ericoid mycorrhizal fungi serve as the primary pathway for nitrogen and phosphorus mobilization from organic matter, making these nutrients available to the plant community.
 
-- **Plant community composition**: The mycorrhizal dependency of Ericaceae gives them a competitive advantage in acidic, nutrient-poor soils where other plant families struggle. This helps maintain the characteristic species composition of heathlands.
+- **Plant [[core-endorhiza-bacterial-community-composition-cannabis]]**: The mycorrhizal dependency of Ericaceae gives them a competitive advantage in acidic, nutrient-poor soils where other plant families struggle. This helps maintain the characteristic species composition of heathlands.
 
 - **Carbon cycling**: Ericaceous plants allocate a substantial proportion of their photosynthate to their mycorrhizal fungal partners, creating a significant carbon flow from atmosphere through plants to soil via the fungal pathway.
 
@@ -73,15 +73,15 @@ Heathland ecosystems are considered particularly vulnerable to climate change.
 Changes in temperature and precipitation patterns could alter the balance
 between ericaceous plants and their mycorrhizal partners. Increased nitrogen
 deposition from atmospheric pollution may reduce the dependency of Ericaceae
-on their fungal partners for nitrogen acquisition, potentially shifting the
+on their fungal partners for [[fungal-bacterial-predators-nitrogen-acquisition-soil-ecology]], potentially shifting the
 competitive balance in favor of non-ericaceous species. Drought stress may
-either strengthen the mycorrhizal symbiosis (by increasing the value of fungal
+either strengthen the [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] (by increasing the value of fungal
 water acquisition) or weaken it (by reducing carbon allocation to
 fungi).
 ## Conservation Considerations
 
 Heathland habitats are declining across much of their range due to
-agricultural conversion, afforestation, nitrogen deposition, and climate
+agricultural conversion, afforestation, [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]], and climate
 change. Because the ericoid mycorrhizal symbiosis is essential for heathland
 function, conservation of these ecosystems must also consider the preservation
 of the associated fungal communities. The

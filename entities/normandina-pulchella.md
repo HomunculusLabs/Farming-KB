@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Smith, C.W., Aptroot, A., Coppins, B.J. et al. (2009). "The Lichens of Great Britain and Ireland." British Lichen Society.
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of North America." Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of [[psilocybin-north-america-pacific-northwest]]." Yale University Press.
   - Purvis, O.W. et al. (1992). "The Lichen Flora of Great Britain and Ireland." Natural History Museum Publications.
   - Nimis, P.L. (2016). "The Lichens of Italy: A Second Catalogue." EUT Edizioni Università di Trieste.
 ---
@@ -58,7 +58,7 @@ In Europe it occurs from Scandinavia and the British Isles south to the Mediterr
 
 It is found throughout much of North America, particularly in the eastern and Pacific coastal states.
 
-The species also occurs in temperate regions of East Asia, including Japan and Korea.
+The species also occurs in temperate regions of [[neurotropic-fungi-japan-east-asia-species-cultural-context]], including Japan and Korea.
 
 It is primarily an epiphyte, growing on the bark of trees in humid forests and woodlands.
 
@@ -80,7 +80,7 @@ The cortex contains atranorin, which gives the upper surface its grayish colorat
 
 Spot tests typically yield K+ yellow (cortex) and C– and KC– (medulla), with P– reactions.
 
-Thin-layer chromatography confirms zeorin as the diagnostic secondary metabolite.
+Thin-layer chromatography confirms zeorin as the diagnostic [[fungal-elicitors-enhanced-secondary-metabolite-production]].
 
 The species does not produce usnic acid, distinguishing it from many superficially similar Parmeliaceae members.
 
@@ -100,7 +100,7 @@ It serves as a microhabitat for various microarthropods, including tardigrades a
 
 The coarse soredia facilitate colonization of new substrates within relatively short distances.
 
-Its sensitivity to air pollution makes it a useful bioindicator of forest air quality in Europe.
+Its sensitivity to air pollution makes it a useful bioindicator of forest [[cervantes-air-quality-ventilation]] in Europe.
 
 Declining populations in urban and industrial areas have been documented in several European countries.
 

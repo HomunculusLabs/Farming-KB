@@ -10,15 +10,15 @@ type: concept
 
 # Mushroom Hygiene and Contamination
 
-Contamination is the most common challenge in mushroom cultivation. Contaminants
+Contamination is the most common challenge in [[accessible-mushroom-cultivation-for-disabilities]]. Contaminants
 are competing microorganisms — bacteria, molds, and yeasts — that colonize
 cultivation substrates and media, outcompeting or directly killing mushroom
 [[bacillus-subtilis]] is the most frequently implicated species. Its
-  endospores survive standard boiling and require pressure sterilization at
+  endospores survive standard boiling and require [[boil-a-bag-pressure-sterilization-technique]] at
   121°C to eliminate. Wet spot spreads rapidly through grain jars and can
   ruin an entire batch.
 
-- **Pseudomonas species**: Cause bacterial blotch on mushroom caps, appearing
+- **Pseudomonas species**: Cause [[growing-gourmet-bacterial-blotch-disease-management]] on mushroom caps, appearing
   as dark, sunken lesions on the fruiting body surface. Pseudomonas
   tolaasii is the primary species responsible. It thrives in conditions of
   high humidity and poor air circulation.
@@ -57,7 +57,7 @@ Molds are fungi that compete with mushroom mycelium for nutrients and space:
 
 ### Yeast Contamination
 
-Yeasts are less common but can cause problems, particularly in liquid culture
+Yeasts are less common but can cause problems, particularly in [[comparison-liquid-culture-vs-grain-spawn]]
 and grain spawn. They appear as slimy, often bubbly growth and produce a
 fermentative odor. Yeast contamination in liquid culture is usually
 irreversible and requires disposal of the culture.
@@ -66,11 +66,11 @@ irreversible and requires disposal of the culture.
 
 Understanding where contaminants originate helps in prevention:
 
-1. **Grain and substrate materials**: Raw grains carry natural loads of mold
+1. **Grain and [[growing-gourmet-substrate-materials-wood-types]]**: Raw grains carry natural loads of mold
    spores and bacterial endospores. This is why thorough sterilization is
    essential.
 
-2. **Inoculant**: Spore syringes, liquid culture, or [[mushroom-grain-sterilization]]
+2. **Inoculant**: [[query-spore-syringes-vs-liquid-culture]], liquid culture, or [[mushroom-grain-sterilization]]
 - [[growing-gourmet-trichoderma-green-mold-management]]
 ## Practical Considerations
 
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

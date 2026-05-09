@@ -1,5 +1,5 @@
 ---
-title: Ayahuasca Ceremony Pharmacology and Safety
+title: Ayahuasca [[ayahuasca-ceremony-practices]] pharmacology safety and Safety
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -11,7 +11,7 @@ sources: [raw/papers/stuart-r-ayahuasca-tourism.md]
 
 ## Overview
 
-Ayahuasca is a psychoactive brew traditionally used in Amazonian shamanic
+Ayahuasca is a psychoactive brew traditionally used in [[amazonian-shamanic-battles-and-defensive-powers]]
 practice. Its pharmacology involves a synergistic combination of
 monoamine oxidase inhibitors (MAOIs) and N,N-dimethyltryptamine (DMT),
 which has important safety implications that every prospective participant
@@ -25,7 +25,7 @@ harmine, harmaline, and tetrahydroharmine. These compounds act as
 reversible monoamine oxidase inhibitors (MAOIs), which prevent the
 breakdown of DMT in the digestive tract.
 
-Psychotria viridis (chacruna) or Diplopterys cabrerana (chaliponga)
+[[chacruna-psychotria-viridis]] (chacruna) or [[diplopterys-cabrerana]] (chaliponga)
 provides DMT, a powerful psychedelic compound that is normally inactive
 when taken orally because monoamine oxidase enzymes in the gut rapidly
 degrade it. The MAOIs from B. caapi inhibit these enzymes, allowing DMT
@@ -85,7 +85,7 @@ Most traditional ayahuasqueros are unfamiliar with Western pharmaceuticals
 and their interactions with the brew. This places the burden of safety
 research squarely on the tourist. Prospective participants should consult
 with a knowledgeable physician about potential interactions before
-traveling to South America for ceremony.
+traveling to [[guzman-psilocybin-mushrooms-south-america]] for ceremony.
 
 The following steps are recommended for anyone considering ayahuasca:
 Research all potential drug interactions with MAOIs and DMT. Consult a
@@ -105,7 +105,7 @@ hours, with residual effects possible for several more hours.
 ## Set and Setting
 
 As with all psychedelics, the set (mental state, expectations, intentions)
-and setting (physical environment, social context) significantly influence
+and setting (physical environment, [[emcdda-hallucinogenic-mushroom-polydrug-use-social-context]]) significantly influence
 the quality and safety of the experience. The ceremonial context with a
 shaman, icaros, and community provides a structured setting that differs
 markedly from recreational psychedelic use and generally supports safer,
@@ -113,9 +113,13 @@ more integrative experiences.
 
 ## See Also
 
+- [[ayahuasca-pharmacology-maoi-interactions]]
+
 - [[ayahuasca-tourism-in-peru]]
 - [[ayahuasqueros-shamanic-practice|Ayahuasqueros and Shamanic Practice]]
 
 ## See Also
+
+- [[ayahuasca-pharmacology-maoi-interactions]]
 
 - [[ayahuasca-ceremony-structure-and-practice]]

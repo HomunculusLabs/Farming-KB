@@ -1,10 +1,11 @@
 ---
-title: "How to Attract Native Bees and Beneficial Insects to Your Garden"
+title: "How to query how to attract native bees and beneficial insects Bees and comparison-beneficial-insects-guide-vs-integrated-pest-management to Your Garden"
 created: 2026-04-28
 tags: [query, pollinators, beneficial-insects, ecology, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: query
 ---
@@ -16,7 +17,7 @@ Attracting native bees and beneficial insects requires providing continuous
 food sources through diverse flowering plants, creating nesting habitat like
 bare soil and hollow stems, and eliminating pesticide use. Unlike honeybees,
 most native bees are solitary and need undisturbed ground or dead plant
-material to reproduce, making thoughtful garden design essential for their
+material to reproduce, making thoughtful [[comparison-mandala-garden-design-vs-keyhole-garden-design]] essential for their
 survival.
 
 ## Detailed Explanation
@@ -25,7 +26,7 @@ gardeners to create habitats that support not just honeybees, but the
 thousands of native bee species and predatory insects that keep ecosystems
 balanced. While managed beekeeping-basics|beekeeping focuses primarily
 on the European honeybee, the vast majority of pollination services in home
-gardens are performed by native solitary bees, bumblebees, hoverflies, and
+gardens are performed by [[comparison-honey-bees-vs-native-solitary-bees]] bees, bumblebees, hoverflies, and
 wasps. Understanding their needs is the first step to building a thriving
 insect community.
 
@@ -40,7 +41,7 @@ nectar and pollen calendar, which is especially important for sustaining
 populations through lean times.
 
 Beyond just planting flowers, creating dedicated
-[[gaias-garden-bees-and-pollinators]] emphasizes integrating these insects into the broader garden ecosystem through guild planting, where each plant supports multiple functions including pest management, nutrient accumulation, and pollination.
+gaias-garden-bees-and-pollinators emphasizes integrating these insects into the broader garden ecosystem through guild planting, where each plant supports multiple functions including [[cannabis-pest-management-guide]], nutrient accumulation, and pollination.
 
 Plant selection matters enormously. Native plants generally support more
 insect species than ornamentals, and many native bees have evolved to
@@ -53,7 +54,7 @@ foraging insects. The [[permaculture-plants-insectary-bee-forage]] that include 
 - Eliminate or minimize pesticide use, as even organic sprays can harm
   beneficial insects and disrupt food webs
 - Create dedicated [[holzer-bee-collapse-natural-beekeeping]] methods if
-  keeping honeybees, prioritizing colony health over honey production
+  keeping honeybees, prioritizing colony health over [[mollison-designers-beekeeping-honey-production-permaculture]]
 
 Creating corridors and connected habitat is increasingly recognized as
 important for pollinator health. Rather than isolated garden plots, a
@@ -86,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

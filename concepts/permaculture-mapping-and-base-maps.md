@@ -103,7 +103,7 @@ Make multiple copies for different analytical layers:
 2. Surface water flow and soil types
 3. Vegetation and existing plant communities
 4. Microclimates
-5. Access and circulation
+5. [[permaculture-access-and-circulation-design]]
 6. Buildings and infrastructure
 
 ## Mapping Techniques
@@ -135,37 +135,14 @@ After mapping contours, chart surface water flow:
 ## Scale Considerations
 
 Choose a scale appropriate to your property size and the level of detail needed:
+## Related
 
-- Too small a scale (too zoomed out) and you cannot show design details
-- Too large a scale (too zoomed in) and the map becomes unwieldy with multiple sheets
-- The scale should allow you to show the smallest detail you need to design while fitting the entire property on one sheet
-
-## Digital Mapping Tools
-
-Modern permaculture designers increasingly use digital tools:
-
-- **Google Earth/Google Maps**: Free imagery, measurement tools, and export capabilities
-- **GIS software (QGIS)**: Professional-grade mapping with multiple data layers
-- **CAD software**: Precise drafting for detailed designs
-- **Drawing apps**: SketchUp, Illustrator, or similar for attractive presentation maps
-- **Dedicated permaculture software**: Specialized tools for zone/sector analysis
-
-## The Design Process Using Maps
-
-1. Obtain or create the base map
-2. Add analytical layers (sectors, zones, water flow, soils, vegetation)
-3. Synthesize analysis to identify opportunities and constraints
-4. Create design overlays showing proposed elements
-5. Present the design with clear before-and-after comparisons
-
-Williams recommends showing the original base map, the analytical overlays, and the new design with zones and elements as part of any design presentation.
-
-## Related Concepts
+- [[crispr-base-editing]] Concepts
 
 - [[permaculture-site-analysis]]
 - [[permaculture-site-assessment-checklist]]
 - [[permaculture-design-methods]]
-- [[permaculture-zone-and-sector-analysis]]
+- [[zone-sector-analysis-guide]]
 - [[permaculture-slope-analysis-and-reading]]
 - [[permaculture-sector-analysis]]
 - [[permaculture-access-and-circulation-design]]

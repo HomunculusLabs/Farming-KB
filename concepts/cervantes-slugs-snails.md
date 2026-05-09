@@ -1,11 +1,11 @@
 ---
-title: "Cervantes - Slugs and Snails on Cannabis"
+title: "Cervantes - query-how-to-get-rid-of-slugs-and-snails-organically on Cannabis"
 created: 2026-04-26
 tags: [cannabis, pest-control, slugs, snails, outdoor-pests]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources: []
 type: concept
 ---
 
@@ -50,11 +50,11 @@ and kill seedlings.
 ## Cultural and Physical Control
 
 Several non-chemical methods are effective for managing
-slug and snail populations:
+[[hamilton-slug-and-snail-control]] populations:
 
 ### Barriers
 
-A thin layer of lime, diatomaceous earth, or salty beach
+A thin layer of lime, [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]], or salty beach
 sand two to six inches (6 to 15 cm) wide around
 individual plants, beds, or the entire garden creates an
 impassable barrier. The lime layer is not thick enough
@@ -133,7 +133,7 @@ less hospitable:
 - **Maintain a dry perimeter** around garden beds
 - **Eliminate standing water** and damp areas near
   the garden
-- **Use raised beds** that are more difficult for
+- **Use [[comparison-raised-beds-vs-hugelkultur]]** that are more difficult for
   slugs to access
 - **Inspect new plants** for hitchhiking snails
   before introducing them to the garden

@@ -1,5 +1,5 @@
 ---
-title: Cytochrome P450 Enzyme Systems in Fungal Bioremediation
+title: Cytochrome P450 Enzyme Systems in staycare-composting-as-a-fungal-bioremediation-strategy
 created: 2026-04-26
 tags: [cytochrome-p450, fungal-enzymes, bioremediation, monoxygenase, hydrocarbon-metabolism]
 date: 2026-04-25
@@ -16,19 +16,19 @@ environmental pollutants. During the past several decades, the involvement
 of cytochrome P450 systems in complex fungal bioconversions has been
 well established (van den Brink et al., 1998). These enzymes mediate
 critical oxidative transformations of long-chain alkanes, polycyclic
-aromatic hydrocarbons (PAHs), and other recalcitrant organic compounds.
+aromatic hydrocarbons (PAHs), and other recalcitrant [[fungal-volatile-organic-compounds-communication]].
 
 ## Role in Alkane Assimilation
 
 A well-characterized example of P450-mediated bioremediation involves
 alkane assimilation by species of Candida, including C. apicola, C.
 maltosa, and C. tropicalis. These bioconversions encompass terminal
-hydroxylation of n-alkanes and omega-hydroxylation of fatty acids. The
+hydroxylation of n-alkanes and omega-hydroxylation of [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]. The
 monoxygenase system required for these reactions comprises several
 cytochrome P450 isoforms induced by alkanes (Seghezzi et al., 1991;
 Scheller et al., 1996). Comparable bioconversion reactions have also been
 examined in [[singh-ligninolytic-enzymes-fungal-bioremediation]]
-- [[singh-fungal-petroleum-hydrocarbon-metabolism]]
+- singh-fungal-petroleum-hydrocarbon-metabolism
 - [[genetic-engineering-fungal-bioremediation]]
 ## Practical Applications
 
@@ -107,4 +107,9 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[cytochrome-p450-enzyme-system]]
+- [[mycoremediation]]
+- [[singh-cost-analysis-fungal-bioremediation]]
+- [[fungal-cytochrome-p450-biodegradation]]
+- [[singh-omics-approaches-fungal-bioremediation]]

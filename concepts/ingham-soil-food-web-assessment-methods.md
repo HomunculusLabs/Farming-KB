@@ -21,7 +21,7 @@ Assessing the soil food web means determining which organisms are present, in wh
 - Misses approximately 99.99% of bacteria and fungi present in soil
 - Cannot differentiate between beneficial and disease-causing organisms
 - Higher plate counts merely mean higher numbers, with no indication of whether they are pathogens or beneficials
-- No demonstrated correlation between plate count numbers and plant growth or disease suppression
+- No demonstrated correlation between plate count numbers and plant growth or [[aact-disease-suppression-mechanisms-ingham]]
 - Dr. Eric Nelson at Cornell has shown no relationship between plate count assays and pathogen inhibition
 - Commits type II errors: misses the real diversity that exists
 
@@ -31,16 +31,16 @@ Assessing the soil food web means determining which organisms are present, in wh
 - Employs activity stains to distinguish living, functioning organisms from total organisms with correct morphology
 - Extracts active nematodes and identifies them by morphology
 - Identifies protozoa based on morphology
-- Determines mycorrhizal colonization of roots, differentiating VAM from ericoid or ectomycorrhizal colonization
+- Determines [[arbuscular-mycorrhizal-colonization-patterns]] of roots, differentiating VAM from ericoid or ectomycorrhizal colonization
 - Can identify disease fungi in roots and warn about unknown fungi or necrotic conditions
 - Has published data showing how active and total organisms change with soil type, season, and plant communities
 - More useful despite underestimating species diversity
 
 ## Molecular Methods (Emerging)
 
-SFI uses molecular methods for nitrogen-fixation assessment and beneficial organism identification. These can identify whether beneficial bacterial and fungal species are present and direct users to inocula sources.
+SFI uses molecular methods for nitrogen-fixation assessment and beneficial organism identification. These can identify whether beneficial [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] species are present and direct users to inocula sources.
 
-The technology is becoming economically feasible but the equipment currently costs approximately $190,000. PCR isolation and probe development with specificity testing are required. Most pathogenic bacteria have multiple names depending on which plant they infect, making molecular identification essential for accurate disease diagnosis.
+The technology is becoming economically feasible but the equipment currently costs approximately $190,000. PCR isolation and probe development with specificity testing are required. Most pathogenic bacteria have multiple names depending on which plant they infect, making [[biodiversity-fungal-molecular-identification-dna-barcoding]] essential for accurate disease diagnosis.
 
 Pleomorphism is a consideration: some microorganisms can assume different forms throughout their life cycles. Killing and fixing organisms for observation destroys this dynamic.
 
@@ -86,7 +86,7 @@ For vermicompost: worm count per unit volume, temperature, and oxygen data. At l
 ## Tea Organism Minimums
 
 - Bacteria: above 300 micrograms per ml for good leaf surface coverage
-- Fungi: minimum 2 micrograms for reliable disease prevention
+- Fungi: minimum 2 micrograms for reliable [[cervantes-pest-disease-prevention-overview]]
 - Fungi at 800 micrograms: can dilute to 2 gallons per acre
 - Baseline troubleshooting: run tea with just molasses and kelp to test machine performance
 
@@ -108,9 +108,11 @@ Tea goes anaerobic between 14-20 hours of brewing. Monitor temperature: use a ta
 
 ## Root-Feeding Nematode Assessment
 
-If root-feeding nematodes are detected, use non-host cover crops (species the nematodes don't feed on) to reduce populations. Beneficial nematodes can drop root-feeder populations from ~100/g to undetectable in 6 months with proper tea applications and non-host crop rotation.
+If root-feeding nematodes are detected, use non-host cover crops (species the nematodes don't feed on) to reduce populations. [[ingham-beneficial-nematodes-soil-food-web]] can drop root-feeder populations from ~100/g to undetectable in 6 months with proper tea applications and non-host crop rotation.
 
 ## See Also
+
+- [[ingham-soil-food-web-diversity-assessment-dna-molecular-methods]]
 
 - [[ingham-field-guide-soil-food-web-assessment]]
 

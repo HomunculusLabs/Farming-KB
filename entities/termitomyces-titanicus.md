@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Pegler, D.N. & Vanhaecke, M. (1994). "Termitomyces of Southeast Asia." Kew Bulletin.
+  - Pegler, D.N. & Vanhaecke, M. (1994). "Termitomyces of psilocybe-southeast-asia-pacific." Kew Bulletin.
   - Fischer, E. &被子植物志 (2017). "The Termitomyces genus: taxonomy and ecology." Mycological Progress.
   - Aanen, D.K. et al. (2002). "The evolution of fungus-growing termites and their mutualistic fungal symbionts." PNAS.
   - de Fine Licht, H.H. et al. (2005). "The competitive balance of sexual and asexual reproduction in Termitomyces." Molecular Ecology.
@@ -60,7 +60,7 @@ Fruiting occurs at the onset of rainy seasons, triggered by heavy rainfall and h
 
 True cultivation of T. titanicus outside its termite symbiosis has proven extremely difficult. The fungus depends on the termite gut passage for initial inoculation and continuous comb management for sustained growth.
 
-Attempts at axenic culture have achieved mycelial growth on artificial media, but fruiting has not been reliably induced without termite workers. The specific chemical and physical conditions of the comb — pH, microbial community, and volatile organic compounds — appear essential.
+Attempts at axenic culture have achieved [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] on artificial media, but fruiting has not been reliably induced without termite workers. The specific chemical and physical conditions of the comb — pH, [[edaphic-factors-microbial-community-structure]], and [[fungal-volatile-organic-compounds-communication]] compounds — appear essential.
 
 Some research groups have developed partial in-vitro systems using sterilized comb material as substrate, achieving limited fruiting. Commercial cultivation remains unfeasible as of 2026.
 
@@ -74,7 +74,7 @@ The genetic monoculture maintained within each colony (single Termitomyces strai
 
 ## Nutritional and Culinary Use
 
-T. titanicus is widely harvested as a premium edible mushroom across its range. It is typically sliced and sun-dried for preservation, though fresh specimens are consumed when available.
+T. titanicus is widely harvested as a premium [[bloomfield-boletus-satanus-edible-mushroom-hazards]] across its range. It is typically sliced and sun-dried for preservation, though fresh specimens are consumed when available.
 
 Nutritional analysis of related Termitomyces species shows high protein content (25–35% dry weight), significant mineral content (especially potassium, phosphorus, and zinc), and favorable amino acid profiles including all essential amino acids.
 
@@ -85,7 +85,7 @@ In traditional medicine across West Africa, Termitomyces species are used to tre
 - **Termitomyces clypeatus** — Similar size, Asian distribution, associated with Odontotermes termites
 - **Termitomyces eurhizus** — Smaller but widespread across tropical Africa and Asia
 - **Termitomyces microcarpus** — Much smaller species, common across sub-Saharan Africa
-- **Termitomyces schimperi** — East African species, associated with Macrotermes michaelseni
+- **Termitomyces schimperi** — [[comparison-cavendish-vs-east-african-highland-bananas]] species, associated with Macrotermes michaelseni
 
 ## Bioactive Compounds
 

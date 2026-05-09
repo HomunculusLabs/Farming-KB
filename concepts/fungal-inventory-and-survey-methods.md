@@ -1,7 +1,7 @@
 # Fungal Inventory and Survey Methods
 
 ## Overview
-Inventoring fungal biodiversity is fundamentally more challenging than
+Inventoring [[biodiversity-fungal-biodiversity-estimation-methods]] is fundamentally more challenging than
 surveying plants or animals. Fungi cannot be trapped, fogged, or netted in the
 way insects can; they do not leave tracks like mammals; and they are not
 permanently visible like trees. Their fruiting bodies may appear for only a
@@ -9,7 +9,7 @@ few hours and then disappear, their mycelia are hidden underground or within
 other organisms, and many species can be detected only by culturing or
 molecular methods. Despite these challenges, standardized survey protocols are
 essential for documenting fungal diversity, monitoring ecosystem health, and
-detecting the impacts of environmental change on fungal communities.
+detecting the impacts of environmental change on [[biodiversity-of-fungi-soil-fungal-communities-agriculture]].
 
 ## The Challenge of Quantitative Fungal Surveys
 
@@ -53,9 +53,9 @@ species at a site.
 Standardized protocols for fruiting body surveys have been developed,
 including guidelines for plot size, transect length, sampling frequency, and
 data recording. Permanent plots, revisited over many years, provide the most
-reliable data on species composition, fruiting phenology, and long-term
+reliable data on species composition, [[macrofungal-fruiting-phenology-climate-variability]], and long-term
 changes in fungal communities. Such long-term datasets are invaluable for
-detecting the effects of climate change, air pollution, forest management
+detecting the effects of [[dighton-fungi-climate-change-feedback]], air pollution, [[mollison-pdc-forest-management-products]]
 practices, and other environmental perturbations on fungal biodiversity.
 
 ## Culturing and Isolation Methods
@@ -69,7 +69,7 @@ with antibiotics to suppress bacterial growth. Selective media can be
 formulated to favor specific groups (e.g., selective media for oomycetes or
 for dermatophytic fungi).
 
-Dilution plating of soil or substrate samples provides a semi-quantitative
+[[particle-filtration-dilution-plating-microfungal-isolation]] of soil or substrate samples provides a semi-quantitative
 measure of the abundance of culturable fungi, expressed as colony-forming
 units (CFU) per gram of material. However, CFU counts are biased toward fast-
 growing, opportunistic species and underestimate slow-growing or unculturable
@@ -112,6 +112,9 @@ any single method alone. This complementarity argues strongly for multi-method
 approaches in any serious biodiversity inventory.
 
 ## See Also
+
+- [[fungal-survey-inventory-methodology]]
+- [[am-fungal-survey-methods]]
 - [[fungal-taxonomy-and-kingdom-fungi]]
 - [[environmental-dna-metabarcoding-fungi]]
 

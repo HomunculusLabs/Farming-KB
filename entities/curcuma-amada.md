@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Sasikumar, B. (2005). "Genetic resources of Curcuma in India." NBPGR, New Delhi.
   - Singh, G. et al. (2010). "Curcuma amada: phytochemistry, pharmacology, and applications." Pharmacognosy Reviews 4(8): 170-177.
-  - Joshi, R.K. et al. (2014). "Chemical composition and antimicrobial activity of Curcuma amada rhizome essential oil." Natural Product Communications 9(4): 501-504.
+  - Joshi, R.K. et al. (2014). "Chemical composition and antimicrobial activity of Curcuma amada rhizome [[permaculture-designers-manual-essential-oil-plants]]." Natural Product Communications 9(4): 501-504.
   - Gupta, S.C. et al. (2013). "Curcuminoids from Curcuma species." Herbal Medicine: Biomolecular and Clinical Aspects. 2nd ed.
   - Pandey, M.M. et al. (2013). "Curcuma species: a chemical and pharmacological review." Phytotherapy Research 27(9): 1321-1332.
 created: 2026-05-07
@@ -26,7 +26,7 @@ created: 2026-05-07
 Curcuma amada, commonly known as mango ginger, is a rhizomatous herbaceous
 perennial in the family Zingiberaceae. Despite belonging to the turmeric genus,
 its raw rhizome possesses a distinct mango aroma and flavor that has earned it
-widespread culinary use across South and Southeast Asia.
+widespread culinary use across South and [[psilocybe-southeast-asia-pacific]].
 
 The species is native to the Indian subcontinent and has been used in Ayurvedic
 medicine for centuries, primarily for digestive and inflammatory conditions. It
@@ -91,7 +91,7 @@ conditions and wounds.
 
 ## Culinary and Nutritional Use
 
-Fresh mango ginger rhizome is widely used as a raw vegetable and condiment in
+Fresh mango [[turmeric-growing-guide]] is widely used as a raw vegetable and condiment in
 Indian cuisine. It is pickled in vinegar or brine, consumed raw in salads, and
 grated into chutneys. The mango flavor is most pronounced in fresh material and
 diminishes significantly upon drying.
@@ -116,8 +116,8 @@ weeks after foliar senescence. Average yields range from 10–15 tonnes/ha under
 managed conditions. Organic mulching with dried leaves improves moisture
 retention and yield.
 
-Major pests include rhizome rot (Pythium spp.), leaf spot (Colletotrichum
-gloeosporioides), and shoot borer infestations. Crop rotation and rhizome
+Major pests include rhizome rot (Pythium spp.), [[jadam-canker-leaf-spot-pesticide]] (Colletotrichum
+gloeosporioides), and shoot borer infestations. [[comparison-crop-rotation-vs-cover-cropping]] and rhizome
 treatment with Trichoderma-based biocontrol agents are recommended management
 practices.
 

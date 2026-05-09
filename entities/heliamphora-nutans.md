@@ -33,7 +33,7 @@ The species produces elegant, funnel-shaped pitchers with a distinctive nectar s
 
 **Authority:** Benth. (1840). The epithet *nutans* (nodding) refers to the slightly inclined pitcher orientation.
 
-*Heliamphora* is placed in Sarraceniaceae alongside *Sarracenia* (North American pitcher plants) and *Darlingtonia* (cobra lily).
+*Heliamphora* is placed in Sarraceniaceae alongside *Sarracenia* ([[growing-gourmet-north-american-reishi-species]] pitcher plants) and *Darlingtonia* (cobra lily).
 
 The plant forms a rhizomatous rosette of tubular pitchers 15–40 cm tall. Multiple rosettes may be connected by creeping rhizomes, forming loose colonies.
 
@@ -59,7 +59,7 @@ Habitats include open, windswept tepui summits with herbaceous vegetation, stunt
 
 The climate is consistently cool and wet. Mean annual temperatures range from 4–15°C, with frequent fog, persistent cloud cover, and annual precipitation often exceeding 4,000 mm.
 
-Substrates are typically sandstone-derived, acidic, and extremely nutrient-poor. Organic matter accumulates slowly in the form of peaty mats and moss cushions.
+Substrates are typically sandstone-derived, acidic, and extremely nutrient-poor. [[hamilton-composting-and-organic-matter-management]] accumulates slowly in the form of peaty mats and moss cushions.
 
 The species often grows in association with *Brocchinia* bromeliads, orchids, and other carnivorous plants including *Drosera* and *Genlisea* species.
 
@@ -69,9 +69,9 @@ Like other *Heliamphora* species, *H. nutans* relies on a combination of passive
 
 The waxy inner pitcher surface and steep-sided walls prevent escape of insects attracted to the nectar spoon. Prey includes ants, flies, beetles, and small moths.
 
-Digestive fluid is produced by glandular cells at the pitcher base. Enzyme production is relatively modest, and bacterial communities play a significant role in decomposition.
+Digestive fluid is produced by glandular cells at the pitcher base. [[ligninolytic-enzyme-production-bioremediation]] is relatively modest, and [[cultivar-endorhiza-bacterial-communities-cannabis]] play a significant role in decomposition.
 
-The water-filled pitchers support diverse inquiline communities, including dipteran larvae, nematodes, and protozoa that contribute to nutrient cycling.
+The water-filled pitchers support diverse inquiline communities, including dipteran larvae, nematodes, and protozoa that contribute to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 Ants are the most frequently captured prey group, likely because the nectar spoon is positioned at a height and angle optimal for foraging ants on adjacent vegetation.
 
@@ -87,7 +87,7 @@ The species requires pure, mineral-free water. A top-watering approach works wel
 
 Substrate should mimic the sandy, well-drained conditions of tepui summits. A mix of pumice, lava rock, perlite, and a small proportion of sphagnum peat works well.
 
-Bright, diffused light produces the best pitcher development and coloration. High-intensity LED or fluorescent lighting is suitable for indoor cultivation.
+Bright, diffused light produces the best pitcher development and coloration. High-intensity LED or fluorescent lighting is suitable for [[cannabis-sativa-indoor-cultivation-techniques]].
 
 Propagation from seed is possible but slow, requiring cold stratification and consistent moisture. Division of established rhizome clumps is the most reliable vegetative method.
 

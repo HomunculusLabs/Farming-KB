@@ -19,7 +19,7 @@ sources: []
 ## Short Answer
 Vermicomposting uses earthworms, primarily red wigglers (Eisenia fetida), to
 break down organic waste into nutrient-rich castings. Worms consume decaying
-organic matter and microorganisms, and their digestive process transforms this
+[[hamilton-composting-and-organic-matter-management]] and microorganisms, and their digestive process transforms this
 material into a biologically active soil amendment teeming with beneficial
 microbes.
 
@@ -34,18 +34,18 @@ Castings typically contain 5 to 11 times more nitrogen, phosphorus, and
 potassium than surrounding soil, along with significant amounts of calcium,
 magnesium, and micronutrients.
 
-The microbial community within a vermicomposting system is extraordinarily
+The [[edaphic-factors-microbial-community-structure]] within a vermicomposting system is extraordinarily
 diverse. As documented in [[vermicompost-tea]] brewed from worm castings is
-widely used as a foliar spray and soil drench in organic gardening.
+widely used as a foliar spray and soil drench in [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]].
 
 Choosing the right system is important for successful vermicomposting. The
 [[soil-food-web]] benefits enormously from vermicomposting. Worm castings
 improve soil structure by increasing aggregate stability, enhancing water
 retention, and creating channels for root growth and air movement. The humic
-acids and plant growth regulators present in castings can stimulate seed
+acids and plant [[ingham-natural-growth-regulators-soil-microbes]] present in castings can stimulate seed
 germination and root development. When integrated into a [[vermicomposting]] system can process the
 kitchen scraps of a typical household while producing a steady supply of
-premium organic fertilizer.
+premium [[complete-organic-fertilizer-cof-recipe-solomon]].
 
 The nutritional profile of worm castings makes them distinct from conventional
 compost. Castings contain not only the macronutrients nitrogen, phosphorus, and
@@ -61,7 +61,7 @@ Vermicomposting also produces a liquid byproduct called leachate or worm tea,
 though it should be distinguished from properly brewed compost tea. Raw
 leachate draining from a worm bin can contain anaerobic pathogens and should
 not be applied directly to plants without proper aeration and brewing. When
-processed correctly through aerobic brewing methods, the resulting solution
+processed correctly through aerobic [[compost-tea-brewing-methods-aact]], the resulting solution
 becomes a potent inoculant that introduces beneficial microorganisms to both
 foliage and soil. Many organic growers incorporate regular applications of
 properly brewed worm tea into their plant management programs for disease

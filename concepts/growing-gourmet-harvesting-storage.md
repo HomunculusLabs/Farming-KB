@@ -1,18 +1,18 @@
 ---
-title: Harvesting and Storage (Growing Gourmet & Medicinal Mushrooms)
+title: [[grain-harvesting-and-storage]] ([[growing-gourmet-abalone-oyster-cystidiosus-cultivation]] & comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive)
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
 tags: [mushrooms, cultivation, harvesting, storage, drying, packaging, shelf-life, refrigeration]
 sources:
-  - label: "Growing Gourmet and Medicinal Mushrooms"
-    author: Paul Stamets
+  - label: "Growing Gourmet and cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides"
+    author: [[paul-stamets]]
     year: 1993
     path: wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
 # Harvesting and Storage
 
-Harvesting, storing, and packaging mushrooms properly is essential for maximizing marketability and minimizing spoilage. [[agaricus-brunnescens]]) or the Black Poplar Mushroom ([[growing-gourmet-fruiting-parameters]]
+Harvesting, storing, and packaging mushrooms properly is essential for maximizing marketability and minimizing spoilage. [[agaricus-brunnescens]]) or the [[growing-gourmet-black-poplar-agrocybe-cultivation]] Mushroom ([[growing-gourmet-fruiting-parameters]]
 - [[growing-gourmet-indoor-growing-environment]]
 ## Background and Context
 
@@ -64,7 +64,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -142,4 +142,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

@@ -1,5 +1,5 @@
 ---
-title: DMT Onset Phenomenology and the Ripping Cellophane Experience
+title: DMT dmt-onset-phenomenology-merry-go-raum and the Ripping Cellophane Experience
 created: 2026-05-06
 tags:
 type: concept
@@ -44,7 +44,7 @@ occurring in real time over roughly thirty seconds.
 
 At the culmination of the onset sequence, the experiencer arrives in a space that McKenna
 describes as defying ordinary description. It has "a feeling of being underground, or somehow
-insulated and domed." He draws on James Joyce's Finnegans Wake, where such a space is called
+insulated and domed." He draws on James Joyce's [[dmt-finnegans-wake-and-the-merry-go-raum]], where such a space is called
 the "merry go raum," from the German word Raum meaning "space." The room itself seems to be
 in motion, rotating or going around. Within this space, the experiencer feels "like a child,
 though one has come out somewhere in eternity."
@@ -65,7 +65,7 @@ experiences typically remain representational rather than participatory.
 
 The Heraclitean reference is carefully chosen. Heraclitus's cosmology emphasized perpetual
 flux and the play of opposites, concepts that map onto the constantly transforming visual
-and cognitive landscape of the DMT experience. The notion that ultimate reality is
+and cognitive landscape of the [[mckenna-dmt-experience-and-hyperspace]]. The notion that ultimate reality is
 characterized by play rather than solemnity subverts both scientific and religious
 expectations about the nature of transcendent experience.
 
@@ -94,7 +94,7 @@ more gradually and diffusely.
 The auditory component of DMT onset deserves particular attention. The "ripping
 cellophane" sound and ascending tone are not merely incidental sensory artifacts but
 appear to be integral features of the transition into the tryptamine state. McKenna's
-friend's interpretation of this sound as "our radio entelechy ripping out of the
+friend's interpretation of this sound as "our [[mckenna-radio-entelechy-organic-matrix-ripping]] ripping out of the
 organic matrix" points to a deeper significance: the auditory phenomena may represent
 the subjective experience of consciousness disengaging from its ordinary sensory
 processing routines. The sound of cellophane being torn is the sound of a boundary
@@ -109,7 +109,7 @@ a common neurophysiological mechanism underlying the transition state.
 ## The Ego-Intact Quality
 
 A notable feature of the DMT onset as described by McKenna is that the ego remains intact
-throughout the transition. Unlike descriptions of ego dissolution on high-dose LSD or
+throughout the transition. Unlike descriptions of [[psilocybin-ego-dissolution-mechanisms]] on high-dose LSD or
 psilocybin, McKenna emphasizes that during the DMT experience "one's ego is intact. One's
 fear reflexes are intact. One is not 'fuzzed out' at all." This preservation of the
 observing self creates what he calls "profound astonishment that persists and persists" —
@@ -118,10 +118,17 @@ its content exceeds all prior categories of understanding.
 
 ## See Also
 
+- [[dmt-vs-lsd-pharmacological-comparison-onset-duration-receptor]]
+
 - [[dmt-self-transforming-machine-elves-mckenna]]
-- mckenna dmt phenomenology and cognitive dissonance of wonder
+- mckenna dmt phenomenology and [[mckenna-cognitive-dissonance-translinguistic-object]] of wonder
 - [[tryptamine-receptor-pharmacology]]
 
 ## See Also
 
-- [[mckenna-endogenous-dmt-rapid-onset-versus-lsd-body-retention]]
+- [[dmt-vs-lsd-pharmacological-comparison-onset-duration-receptor]]
+
+- mckenna-endogenous-dmt-rapid-onset-versus-lsd-body-retention
+- [[dmt-phenomenology]]
+- [[tryptamine-hypercontinuum]]
+- [[dimethyltryptamine]]

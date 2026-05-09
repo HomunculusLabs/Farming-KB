@@ -1,11 +1,12 @@
 ---
-title: Permaculture Integrated Animal Systems
+title: Permaculture permaculture integrated animal systems Systems
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: permaculture, design]
 sources:
-  - "raw/papers/sepp-holzer-practical-guide.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # permaculture integrated animal systems
 In [[decomposition]]
@@ -17,17 +18,17 @@ In [[decomposition]]
 - Snail and slug control (superior to chickens for this)
 - Pond fertilization (manure feeds aquatic plants and fish)
 - Mosquito control (eat larvae from water surface)
-- Weed control in wet areas
+- [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]] in wet areas
 ### Integration Patterns
 - **Duck pond**: Ducks in a pond system — manure feeds plants, plants filter water
 - **Rice paddies**: Traditional Asian integration (ducks in rice fields eat pests and weeds)
-- **Orchard floor**: Control slugs and snails better than chickens
+- **[[fukuoka-orchard-floor-management]]**: Control [[query-how-to-get-rid-of-slugs-and-snails-organically]] better than chickens
 - **With fish**: Duck manure feeds fish, fish waste feeds plants
 ## Pigs
 ### Functions
 - Meat production
 - Land clearing (pigs root up brush, small trees, and sod)
-- Tilling (natural plow — root through soil, incorporate organic matter)
+- Tilling (natural plow — root through soil, incorporate [[hamilton-composting-and-organic-matter-management]])
 - Compost turning (root through piles)
 - Manure (hot, nitrogen-rich)
 ### Integration Patterns
@@ -51,7 +52,7 @@ In [[decomposition]]
 - Small space requirements (suitable for urban/backyard)
 ### Integration
 - Deep litter system under rabbit hutches (creates compost directly)
-- Rabbit manure tea as liquid fertilizer
+- Rabbit manure tea as [[jadam-liquid-fertilizer-nutritional-perspective]]
 - Can be fed garden waste and forage
 ## Designing Multi-Species Systems
 ### Sequential Integration
@@ -83,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

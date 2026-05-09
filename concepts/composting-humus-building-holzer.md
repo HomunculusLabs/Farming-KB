@@ -1,10 +1,11 @@
 ---
-title: Holzer Composting and Humus Building
+title: sepp-holzer-composting-and-humus-building and composting humus building holzer
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [composting, soil]
 sources:
+  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 ## Soil Fertility Philosophy
@@ -42,7 +43,7 @@ Legumes (peas, beans, clover, lupins) are the most important green manure crops:
 1. Leave green manure crops standing through autumn
 2. First heavy snow pushes plants down; decomposition begins
 3. Mixed-culture plants vary in height and structure, so biomass packs loosely rather than compacting
-4. Good air circulation promotes optimal [[soil-food-web-structure]]
+4. Good [[stamets-growing-room-air-circulation-co2-management]] promotes optimal [[soil-food-web-structure]]
 - [[sepp-holzer-terrace-systems-and-raised-beds]]
 - [[holzer-mushroom-cultivation]]
 - [[biodiversity-of-fungi-biomass-carbon-soil-structure]]
@@ -65,7 +66,7 @@ The wide selection of medicinal herbs turned kitchen gardens into an indispensab
 
 ### Medicinal Herbs for Common Ailments
 
-**Marsh mallow (Althaea officinale):** Soothing effect on sore throats, hoarseness, and dry coughs. Used as tea with mint and lemon balm.
+**Marsh mallow (Althaea officinale):** Soothing effect on sore throats, hoarseness, and dry coughs. Used as tea with mint and [[comparison-lemon-balm-vs-passionflower]].
 
 **Calendula:** Alleviates every kind of injury by encouraging wounds to heal and bringing down inflammation. Made into a tea and used to clean wounds. Farmers used calendula cream to treat udder inflammation in livestock. Additionally, calendula plants secrete substances from their roots which discourage nematodes -- sown preferably on deep, wet soil, with curled seeds collected in autumn for the following year.
 

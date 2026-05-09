@@ -1,5 +1,5 @@
 ---
-title: Richard Schultes and the Harvard Ethnobotany of Psychoactive Plants
+title: mckenna richard schultes harvard ethnobotany psychoactive plants and the Harvard Ethnobotany of Psychoactive Plants
 created: 2026-04-28
 tags: [ethnobotany, schultes, harvard, psychoactive-plants, dmt, mckenna, amazon, shamanism]
 date: 2026-04-28
@@ -50,7 +50,7 @@ He correctly recognized that aboriginal people who had painstakingly
 composed an armamentarium of healing and medicinal plants were likely to
 most clearly understand their mental effects. After his early work on
 peyote and mushrooms, Schultes turned his attention to the several
-species of vision-inducing morning glories used in Oaxaca.
+species of vision-inducing [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] used in Oaxaca.
 
 In 1954 he published on the snuffs of the Amazon, thus announcing to
 the world the existence of traditional shamanic usage of plant-produced
@@ -71,7 +71,7 @@ core of the database currently in global use.
 The birth of ethnopsychopharmacology took place at Harvard under
 Schultes's watchful eye, much of it during the turbulent years when
 Timothy Leary was also at Harvard and attracting a very different sort
-of reputation through his own effort to place the psychedelic experience
+of reputation through his own effort to place the [[leary-psychedelic-experience-bardo-mapping]]
 on the social agenda.
 
 ## Schultes Versus Leary
@@ -111,15 +111,15 @@ the indigenous names, uses, preparation methods, and ritual contexts
 for each psychoactive plant. This holistic methodology meant that each
 plant entry in the Harvard database came with not just its botanical
 identification but its complete cultural context, making the data far
-more valuable for subsequent pharmacological and clinical research.
+more valuable for subsequent pharmacological and [[hofmann-lsd-clinical-research-early-studies]].
 
 ## Plants and Peoples Schultes Documented
 
 Schultes's work spanned an enormous range of psychoactive species:
 peyote (Lophophora williamsii) and its ceremonial use among the Huichol
-and Tarahumara; psilocybin mushrooms of the Mazatec region; the Virola
+and Tarahumara; [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the Mazatec region; the Virola
 tree resins used as DMT snuffs throughout the Amazon; morning glory
-species (Turbina corymbosa and Ipomoea violacea) used in Oaxaca; and
+species ([[plants-of-the-gods-turbina-corymbosa-ololiuqui]] and Ipomoea violacea) used in Oaxaca; and
 numerous other species including Banisteriopsis caapi (ayahuasca),
 Erythroxylum coca, and Tabernanthe iboga. Each documentation
 represented not just a botanical record but a cultural artifact,

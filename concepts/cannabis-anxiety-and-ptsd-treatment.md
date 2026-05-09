@@ -1,5 +1,5 @@
 ---
-title: Cannabis Anxiety and PTSD Treatment
+title: Cannabis cannabis anxiety and ptsd treatment Treatment
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -100,4 +100,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

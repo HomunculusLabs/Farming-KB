@@ -1,5 +1,5 @@
 ---
-title: "Carbon Isotope Labelling in Mycorrhizal Fatty Acid Research"
+title: "Carbon carbon isotope labelling mycorrhizal fatty acids in Mycorrhizal Fatty Acid Research"
 created: 2026-04-26
 tags: [mycorrhiza, carbon-cycling, isotopes, fatty-acids, methods]
 date: 2026-04-25
@@ -15,7 +15,7 @@ type: concept
 
 Stable carbon isotope (13C) labelling of signature fatty acids provides a
 powerful method for tracking carbon flow from host plants to arbuscular
-mycorrhizal fungal (AMF) symbionts. This technique enables quantification of
+[[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] (AMF) symbionts. This technique enables quantification of
 [[fungal-bacterial-partnerships-mycorrhizosphere]].
 
 ## Applications
@@ -28,8 +28,8 @@ The method enables researchers to:
   - Test hypotheses about relative carbon allocation under different
     environmental conditions
   - Estimate how much different plant species allocate to the AM symbiosis
-  - Investigate carbon fixation by AMF in field ecosystems
-  - Understand the contribution of AMF to the global carbon cycle
+  - Investigate [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]] by AMF in field ecosystems
+  - Understand the contribution of AMF to the [[dighton-fungi-elevated-co2-global-carbon-cycling]] cycle
 
 ## Ecological Significance
 
@@ -39,7 +39,7 @@ across diverse grassland types and successional stages. The retention of
 carbon in AMF mycelium represents an important pathway for carbon
 sequestration in soil, linking [[stable-carbon-isotope-labelling-mycorrhizal-fatty-acids]]
 - [[mycorrhizal-carbon-allocation]]
-- [[mycorrhizal-carbon-cycling-soil-sequestration]]
+- mycorrhizal-carbon-cycling-soil-sequestration
 ## Practical Considerations
 
 When working with Carbon Isotope Labelling in Mycorrhizal Fatty Acid Research, several practical factors should be
@@ -56,7 +56,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -98,4 +98,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

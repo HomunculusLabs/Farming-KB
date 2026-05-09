@@ -1,6 +1,6 @@
 ---
-title: Ayahuasca Plant Spirits and Spirit Mothers
-source: [[ayahuasca-visions]]
+title: Ayahuasca Plant Spirits and [[spirit-mothers-of-plants]]
+source: ayahuasca-visions
 topics:
   - plant-spirits
   - spirit-mothers
@@ -17,7 +17,7 @@ topics:
 
 ## Overview
 
-Central to Pablo Amaringo's visionary universe is the concept that every
+Central to [[pablo-amaringo]]'s visionary universe is the concept that every
 plant possesses a conscious spirit — a sentient intelligence that
 communicates with humans through dreams, visions, and ceremonial
 experiences. These spirits, known as *madres* (mothers) or *dueños*
@@ -77,12 +77,14 @@ In Amaringo's paintings, the spirit world is a structured landscape
 with distinct regions, cities, rivers, mountains, and forests — all
 existing in supernatural dimensions interpenetrating the physical
 Amazon. Plant spirits inhabit specific locations, and the vegetalista
-travels through these regions during ayahuasca visions, visiting the
+travels through these regions during [[amaringo-ayahuasca-visions-shipibo-iconography]], visiting the
 homes of different spirit mothers and receiving teachings in their
 supernatural environments. The richness of Amaringo's visionary
 cartography suggests the spirit world is at least as complex and
 geographically diverse as the physical forest it parallels.
 ## See Also
 
-- [[ayahuasca-preparation-brew]]
-- [[ayahuasca-preparation-brew]]
+- ayahuasca-preparation-brew
+- ayahuasca-preparation-brew
+- [[plant-mothers-spirits]]
+- [[ayahuasca-preparation]]

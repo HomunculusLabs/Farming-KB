@@ -16,7 +16,7 @@ Cannabinoids, particularly CBD and CBD-acid, show inhibitory effects on thyroid 
 
 ## Source
 
-Blesching, U. (2015). *The Cannabis Health Index*. Chapter IV: "Thyroid Cancer." North Atlantic Books.
+Blesching, U. (2015). *The [[blesching-cannabis-health-index-autoimmune-conditions]]*. Chapter IV: "Thyroid Cancer." North Atlantic Books.
 - [[cannabis-seed-selection-and-strain-types]]
 ## Practical Applications
 
@@ -95,4 +95,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

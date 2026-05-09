@@ -15,14 +15,14 @@ updated: 2026-04-28
 sources:
   - Guzmán, G. (1983). The Genus Psilocybe. J. Cramer, Vaduz
   - Guzmán, G. et al. (2004). "A new bluing Psilocybe from Mexico." Mycotaxon 89: 269-274
-  - Stamets, P. (1996). Psilocybin Mushrooms of the World. Ten Speed Press
+  - Stamets, P. (1996). [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World. Ten Speed Press
   - Metzner, R. (1999). Teonanácatl: The Sacred Mushroom of Visions. Four Trees Press
   - Wasson, R.G. (1963). "The Mushroom Seeker." Life Magazine, June 14
 ---
 
 # Psilocybe huautla
 
-**Psilocybe huautla** is a psychedelic mushroom species in the family Hymenogastraceae, first described by Gastón Guzmán, Florencia Ramírez-Guillén, and John W. Allen in 2004. Named after the town of Huautla de Jiménez in the Sierra Mazateca of Oaxaca, Mexico — the epicenter of Mazatec mushroom use — this species is deeply intertwined with the cultural history of [[maria-sabina]] first introduced psilocybin mushrooms to the wider world through ceremonies attended by R. Gordon Wasson in 1955. The Mazatec name for these mushrooms is *nti xí tho* ("the little ones that spring forth"), though they are more broadly known under the Nahuatl-derived term *teonanácatl* ("flesh of the gods").
+**Psilocybe huautla** is a [[archaeology-of-psychedelic-mushroom-use]] species in the family Hymenogastraceae, first described by Gastón Guzmán, Florencia Ramírez-Guillén, and John W. Allen in 2004. Named after the town of Huautla de Jiménez in the Sierra Mazateca of Oaxaca, Mexico — the epicenter of [[maria-sabina-mazatec-mushroom-ceremony]] use — this species is deeply intertwined with the [[shroom-cultural-history-hippie-revolution-and-counterculture]] of [[maria-sabina]] first introduced psilocybin mushrooms to the wider world through ceremonies attended by R. Gordon Wasson in 1955. The Mazatec name for these mushrooms is *nti xí tho* ("the little ones that spring forth"), though they are more broadly known under the Nahuatl-derived term *teonanácatl* ("flesh of the gods").
 
 Phylogenetic analysis places *P. huautla* within the *Psilocybe caerulescens* complex of section *Mexicanae*, closely related to *P. caerulescens*, *P. mexicana*, and *P. ochraceocentrata*. It was distinguished from similar species through careful morphological comparison and ITS rDNA sequencing.
 
@@ -37,7 +37,7 @@ Phylogenetic analysis places *P. huautla* within the *Psilocybe caerulescens* co
 **Flesh:** Thin, watery. Color whitish in the cap, cream in the stipe. Stains vividly and rapidly blue-green to indigo when cut or bruised, particularly in the stipe base. The bluing reaction is caused by oxidation of psilocin, a dephosphorylated metabolite of [[psilocybin]] | 0.3–0.8% | Primary psychoactive; 4-PO-DMT |
 | [[psilocybe-azurescens]] or [[maria-sabina]] Magdalena García (1894–1985), a Mazatec curandera whose ceremonies with Wasson in 1955 brought psilocybin mushrooms to Western scientific attention. Sabina's ritual use involved consuming pairs of mushrooms (referred to as "little children") in darkness, accompanied by chanting (*cánticos*) and rhythmic invocation. She described the mushroom experience as a journey to a spiritual realm where truth and healing could be accessed.
 
-The influx of Western seekers following Wasson's publications disrupted the traditional practice and drew unwanted attention from Mexican authorities. María Sabina later expressed regret about this exposure, as the commodification and recreational use of the mushrooms violated their sacred context. Despite this, the Mazatec mushroom tradition persists in Oaxaca to this day, guarded by practitioners who maintain the ceremonial framework.
+The influx of [[ayahuasca-tourism-western-seekers-and-integration]] following Wasson's publications disrupted the traditional practice and drew unwanted attention from Mexican authorities. María Sabina later expressed regret about this exposure, as the commodification and recreational use of the mushrooms violated their sacred context. Despite this, the Mazatec mushroom tradition persists in Oaxaca to this day, guarded by practitioners who maintain the ceremonial framework.
 
 ## Legal Status
 
@@ -55,7 +55,7 @@ While *Psilocybe huautla* has not been formally assessed by the IUCN, its restri
 
 ## See Also
 
-- [[stamets-psylo-psilocybe-cyanescens]]
+- stamets-psylo-psilocybe-cyanescens
 ## Practical Considerations
 
 When working with Psilocybe huautla, several practical factors should be
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

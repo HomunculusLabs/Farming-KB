@@ -1,11 +1,12 @@
 ---
-title: Fukuoka Mandarin Orange and Citrus Orchard
+title: Fukuoka fukuoka mandarin orange citrus and Citrus Orchard
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka Mandarin Orange and Citrus Orchard
 
@@ -39,24 +40,24 @@ His unpruned mandarin oranges developed a dense, compact form quite different fr
 
 ## No Spraying
 
-Insects and disease are not problems in the natural orchard because:
+Insects and disease are not problems in the [[fukuoka-natural-orchard-development]] because:
 
-- A balanced ecosystem supports natural predators (spiders, predatory mites, parasitic wasps)
+- A balanced ecosystem supports natural predators (spiders, [[comparison-predatory-mites-vs-ladybugs-biocontrol]], parasitic wasps)
 - Healthy trees on healthy soil have natural resistance
 - The diversity of plants in the orchard breaks up pest cycles
-- Weeds and ground cover provide habitat for beneficial organisms
+- Weeds and ground cover provide [[query-how-do-i-design-habitat-for-beneficial-insects]] organisms
 
 Fukuoka notes that when a pest does appear, it is usually a sign that the ecosystem is out of balance -- often caused by human intervention. "If a tree is attacked by insects, it is because something is wrong with the tree. The insects are merely the messengers."
 
 ## No Fertilizer
 
-Fukuoka applied no chemical or organic fertilizer to his orchard after the initial years. The fertility cycle is maintained by:
+Fukuoka applied no chemical or [[complete-organic-fertilizer-cof-recipe-solomon]] to his orchard after the initial years. The fertility cycle is maintained by:
 
 - **Leguminous ground cover** fixing nitrogen
 - **Decomposing plant material** from cut seedling trees, fallen leaves, and weeds
 - **Natural leaf fall** returning nutrients to the soil surface
 - **Deep root systems** accessing mineral nutrients from subsoil layers
-- **Mycorrhizal networks** connecting tree roots and transporting nutrients
+- **[[dighton-mycorrhizal-networks-carbon-transfer]]** connecting tree roots and transporting nutrients
 
 The result: "After a few years of not spraying, the trees were stronger and less susceptible to disease and insect damage." The fruit, while smaller than chemically-grown mandarins, was sweeter, richer in flavor, and free of pesticide residues.
 

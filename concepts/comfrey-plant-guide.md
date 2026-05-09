@@ -1,5 +1,5 @@
 ---
-title: Comfrey Growing Guide
+title: Comfrey comparison-bean-growing-guide-vs-pepper-growing-guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -48,7 +48,7 @@ Leaves can be cut several times per season and used as:
 
 - Compost activator -- layered into compost piles to speed decomposition
 - Mulch -- fresh or wilted leaves placed around garden plants
-- Liquid fertilizer (comfrey tea) -- leaves steeped in water for 2-4 weeks
+- [[jadam-liquid-fertilizer-nutritional-perspective]] ([[comparison-comfrey-tea-vs-compost-tea]]) -- leaves steeped in water for 2-4 weeks
 - Nutrient layer in no-till beds -- decomposed comfrey feeds soil biology
 
 ## Comfrey Tea (Fertilizer)
@@ -97,7 +97,7 @@ Comfrey is most commonly propagated by root cuttings or crown divisions:
 
 - Root cuttings: Cut pieces of root 2-4 inches long. Plant horizontally
   2-3 inches deep in spring. Each piece will generate a new plant.
-- Crown divisions: Divide established plants in early spring or fall, ensuring
+- Crown divisions: Divide established plants in [[coleman-overwintered-onions-and-early-spring-crops]] or fall, ensuring
   each division has at least one growing bud.
 - Direct planting of pre-purchased bare-root crowns is the easiest method for
   beginners.
@@ -112,7 +112,7 @@ or in fall for establishment before winter.
 
 ### Maintenance
 Comfrey requires virtually no maintenance once established. It is generally
-pest and disease free. The main task is cutting: plants can be harvested
+[[hamilton-pest-and-disease-control-organic]] free. The main task is cutting: plants can be harvested
 3-5 times per season, cutting to about 2 inches above ground. Allow the first
 cut of the year to flower before cutting to support early pollinators.
 
@@ -141,6 +141,6 @@ sunlight. Store dried leaves in airtight containers away from light.
 ## See Also
 
 - [[cannabis-living-soil-guide]] -- comfrey biomass feeds soil biology in no-till systems
-- [[knf-preparations]] -- Korean Natural Farming fermented plant juices can be made from
+- [[knf-preparations]] -- Korean [[comparison-natural-farming-vs-permaculture]] fermented plant juices can be made from
   comfrey leaves
 - [[cover-cropping-guide]] -- comfrey functions as a living mulch and green manure

@@ -3,6 +3,7 @@ title: Topping (Cannabis)
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
@@ -11,7 +12,7 @@ tags: [cannabis]
 
 # Topping (Cannabis)
 
-Topping is a fundamental cannabis pruning technique that involves removing the apical meristem -- the main growing tip at the top of the plant -- to force the plant to develop two or more main colas instead of a single central one. Cervantes describes the technique in his pruning guidance: "Pinching back or pruning tops (branch tips) causes the two growing shoots just below the cut to grow stronger and bigger. This increases the number of top or main buds."
+Topping is a fundamental [[comparison-lollipopping-vs-cannabis-pruning-and-defoliation]] technique that involves removing the apical meristem -- the main growing tip at the top of the plant -- to force the plant to develop two or more main colas instead of a single central one. Cervantes describes the technique in his pruning guidance: "Pinching back or pruning tops (branch tips) causes the two growing shoots just below the cut to grow stronger and bigger. This increases the number of top or main buds."
 
 ## Core Concept
 
@@ -93,11 +94,11 @@ Cervantes' broader pruning guidance applies to topping as well: "Pruning all the
 
 ### SOG Topping
 
-In [[screen-of-green]] setups, topping is commonly used to create more branch points that can be trained through the screen. A single top at the right time provides 2-4 branches per plant instead of 1, filling the screen more quickly.
+In  setups, topping is commonly used to create more branch points that can be trained through the screen. A single top at the right time provides 2-4 branches per plant instead of 1, filling the screen more quickly.
 
 ### Bush Training
 
-Cervantes describes a bush training method where plants are progressively pruned to create wide, bushy specimens. Combined with topping, this approach maximizes lateral branching while controlling height. The method involves pruning half the branches during week 3 of vegetative growth, then pruning the remaining half during weeks 4-5.
+Cervantes describes a bush training method where plants are progressively pruned to create wide, bushy specimens. Combined with topping, this approach maximizes lateral branching while controlling height. The method involves pruning half the branches during week 3 of [[cannabis-vegetative-growth-stage]], then pruning the remaining half during weeks 4-5.
 
 ## Topping Tools
 
@@ -108,7 +109,7 @@ Cervantes recommends several tools for topping:
 - Sharp pruners: fast and efficient for multiple plants
 - Scissors: adequate for small seedlings
 
-All tools should be sterilized with rubbing alcohol between cuts and between plants. "Use indoor pruners only in the indoor garden. Pruners used outdoors have everything from spider mites to fungus spores on them."
+All tools should be sterilized with rubbing alcohol between cuts and between plants. "Use indoor pruners only in the indoor garden. Pruners used outdoors have everything from [[cervantes-spider-mites-identification-control]] to fungus spores on them."
 
 ## After Topping Care
 

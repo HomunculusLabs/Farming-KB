@@ -5,7 +5,8 @@ updated: 2026-04-16
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka's Critique of Soil Cultivation
 
@@ -45,9 +46,9 @@ activity, is what gives soil its water-holding capacity and aeration.
 disrupted
 or killed by the physical action of plowshares and rotary tillers. These
 organisms
-are essential to nutrient cycling and soil health.
+are essential to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and soil health.
 
-- **Accelerates organic matter decomposition:** Turning soil exposes buried
+- **Accelerates [[hamilton-composting-and-organic-matter-management]] decomposition:** Turning soil exposes buried
 organic
 matter to oxygen, causing rapid oxidation and CO2 release. Fukuoka compares
 this
@@ -57,7 +58,7 @@ rebuilt.
 
 - **Promotes erosion:** Exposed, loosened soil is vulnerable to wind and
 water erosion.
-The natural protective layer of undisturbed soil surface is destroyed.
+The [[fukuoka-natural-protective-forests-appendix]] layer of undisturbed soil surface is destroyed.
 
 ## The Nutrient Fallacy
 
@@ -112,7 +113,7 @@ cultivation is the first step toward genuine [[teaming-with-microbes-no-till-gar
 
 updated: 2026-04-18
 
-Fukuoka's understanding of [[teaming-with-microbes-soil-food-web-overview]] rests on a deep awareness of soil microbiology. He argued that chemical fertilizers destroy the living soil ecosystem, creating the very problems they claim to solve.
+Fukuoka's understanding of [[teaming-with-microbes-soil-food-web-overview]] rests on a deep awareness of soil microbiology. He argued that [[cervantes-chemical-fertilizers-guide]] destroy the living soil ecosystem, creating the very problems they claim to solve.
 
 ## The Living Soil
 
@@ -129,7 +130,11 @@ Very little research has been done on the relationship between fertilizers and s
 ## Five Types of Fertilizer Damage
 
 ### 1. Temporary Acceleration, Permanent Weakening
-Fertilizers speed up crop growth, but this is only a temporary and local effect that does not offset the inevitable weakening of the crops. This is similar to rapid acceleration of plant growth by hormones.
+Fertilizers speed up [[coleman-sunlight-and-winter-crop-growth-rates]], but this is only a temporary and local effect that does not offset the inevitable weakening of the crops. This is similar to rapid acceleration of plant growth by hormones.
 
 ### 2. Lowered Disease Resistance
 Plants weakened by fertilizers have lowered resistance to diseases and pests, and are less able to overcome obstacles to growth and development. This is why pesticides only work on unhealthy plants.
+
+## See Also
+
+- [[fukuoka-puddling-summer-flooding-soil-death-rice-cultivation]]

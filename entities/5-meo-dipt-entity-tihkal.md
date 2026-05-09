@@ -8,7 +8,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 # 5-MeO-DIPT (Foxy Methoxy)
 
-TIHKAL entry #37. An orally active psychedelic tryptamine with pronounced erotic enhancement properties. Known colloquially as "Foxy" or "Foxy Methoxy." Notable for producing a fast-acting, relatively short psychedelic experience with minimal visual effects but strong sensory and sexual enhancement. Originally co-published with Michael Carter in 1981.
+TIHKAL entry #37. An orally active psychedelic tryptamine with pronounced erotic enhancement properties. Known colloquially as "Foxy" or "Foxy Methoxy." Notable for producing a fast-acting, relatively short [[leary-psychedelic-experience-bardo-mapping]] with minimal visual effects but strong sensory and sexual enhancement. Originally co-published with Michael Carter in 1981.
 
 ## Chemical Names
 
@@ -46,7 +46,7 @@ Musical sound distortions are noted with 5-MeO-DIPT, reminiscent of its analogue
 
 ## Dose-Response Characteristics
 
-The dose-response curve shows a relatively narrow window between the sensual low-dose experience (6-7 mg) and the potentially uncomfortable high-dose experience (12+ mg). At the lower end, effects are described as warm, sensual, and social. At the higher end, "body load and discomfort" can dominate, including increased peristalsis, muscle spasms, and hypertension. This narrow therapeutic window may contribute to the mixed reputation of the compound.
+The dose-response curve shows a relatively narrow window between the sensual low-dose experience (6-7 mg) and the potentially uncomfortable high-dose experience (12+ mg). At the lower end, effects are described as warm, sensual, and social. At the higher end, "body load and discomfort" can dominate, including increased peristalsis, muscle spasms, and hypertension. This narrow [[blesching-cannabis-therapeutic-window-dosing]] may contribute to the mixed reputation of the compound.
 
 ## Scheduling and Legal History
 
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,54 +1,17 @@
 ---
-title: Fungi Ecosystem Health Indicators
+title: biodiversity-of-fungi-ecosystem-services-agriculture Health Indicators
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[mycology, fungi]
-sources: []
+tags: [mycology, fungi]
+sources:
+  sources: []
 ---
-
-# Fungi Ecosystem Health Indicators
-
-Updated: 2026-04-18
-
-Fungi serve as ecosystem-level health indicators that integrate multiple environmental factors into observable biological signals. Their use extends beyond individual soil or habitat assessments to provide landscape-scale measures of ecological integrity.
-
-## The Indicator Concept
-
-Ecosystem health indicators must satisfy several criteria:
-
-- **Sensitivity** — respond measurably to environmental change
-- **Specificity** — responses can be linked to particular stressors
-- **Predictive value** — indicate future ecosystem trajectory
-- **Integrative** — reflect multiple ecosystem components
-- **Practicality** — measurable with available methods
-
-Fungi satisfy these criteria through their central ecological roles and their sensitivity to environmental change.
-
-## Ecosystem Functions Assessed by Fungal Indicators
-
-### Nutrient Cycling Capacity
-Fungal diversity and activity indicate the ecosystem's ability to cycle carbon, nitrogen, phosphorus, and other nutrients. Reduced fungal diversity often precedes measurable changes in nutrient availability, providing early warning of ecosystem dysfunction.
-
-### Decomposition Rate
-The rate and completeness of organic matter decomposition — driven primarily by fungi — indicates ecosystem productivity and nutrient turnover. Changes in decomposition fungal communities signal shifts in ecosystem function.
-
-### Plant Community Support
-Mycorrhizal fungal diversity and colonization intensity indicate the ecosystem's capacity to support plant communities. Reduced mycorrhizal function can trigger plant community decline, creating positive feedback loops of ecosystem degradation.
-
-### Food Web Complexity
-The diversity of fungal feeding strategies (saprotrophic, predatory, parasitic, mutualistic) indicates food web complexity. Simplified fungal communities suggest simplified ecosystem structure and reduced resilience.
-
-## Landscape-Scale Indicators
-
-### Fungal Diversity as Ecosystem Integrity Measure
-
-Areas with high fungal diversity often coincide with areas of high overall biodiversity. Fungal diversity surveys can serve as rapid assessments of ecosystem integrity, especially when combined with [[fungi-ecosystem-engineers]]
-
-- [[fungal-ecosystem-indicator-species]]
+# Fungi Ecosystem Health Indicators Updated: 2026-04-18 Fungi serve as ecosystem-level health indicators that integrate multiple environmental factors into observable biological signals. Their use extends beyond individual soil or habitat assessments to provide landscape-scale measures of ecological integrity. ## The Indicator Concept Ecosystem health indicators must satisfy several criteria: - **Sensitivity** — respond measurably to environmental change - **Specificity** — responses can be linked to particular stressors - **Predictive value** — indicate future ecosystem trajectory - **Integrative** — reflect multiple ecosystem components - **Practicality** — measurable with available methods Fungi satisfy these criteria through their central ecological roles and their sensitivity to environmental change. ## Ecosystem Functions Assessed by Fungal Indicators ### Nutrient Cycling Capacity Fungal diversity and activity indicate the ecosystem's ability to cycle carbon, nitrogen, phosphorus, and other nutrients. Reduced fungal diversity often precedes measurable changes in nutrient availability, providing early warning of ecosystem dysfunction. ### Decomposition Rate The rate and completeness of organic matter decomposition — driven primarily by fungi — indicates ecosystem productivity and nutrient turnover. Changes in decomposition fungal communities signal shifts in ecosystem function. ### Plant Community Support Mycorrhizal fungal diversity and colonization intensity indicate the ecosystem's capacity to support plant communities. Reduced mycorrhizal function can trigger plant community decline, creating positive feedback loops of ecosystem degradation. ### Food Web Complexity The diversity of fungal feeding strategies (saprotrophic, predatory, parasitic, mutualistic) indicates food web complexity. Simplified fungal communities suggest simplified ecosystem structure and reduced resilience. ## Landscape-Scale Indicators ### Fungal Diversity as Ecosystem Integrity Measure Areas with high fungal diversity often coincide with areas of high overall biodiversity. Fungal diversity surveys can serve as rapid assessments of ecosystem integrity, especially when combined with fungi-ecosystem-engineers - [[fungal-ecosystem-indicator-species]]
 - [[fungal-conservation-biology]]
 - [[dighton-mycorrhizal-diversity-ecosystem-function]]
 - [[biodiversity-of-fungi-biomass-carbon-soil-structure]]
+
 ## Practical Considerations
 
 When working with Fungi Ecosystem Health Indicators, several practical factors should be
@@ -65,7 +28,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +70,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

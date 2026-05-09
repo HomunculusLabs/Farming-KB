@@ -19,11 +19,11 @@ sources:
 
 ## Overview
 
-**Vallisneria americana** Michx., commonly known as American eelgrass, wild celery, or tape grass, is a submersed perennial aquatic plant in the family Hydrocharitaceae. It is one of the most widely distributed native freshwater macrophytes in North America.
+**Vallisneria americana** Michx., commonly known as American eelgrass, wild celery, or tape grass, is a submersed perennial aquatic plant in the family Hydrocharitaceae. It is one of the most widely distributed native freshwater macrophytes in [[psilocybin-north-america-pacific-northwest]].
 
 The species is a foundational species in many freshwater ecosystems, providing critical habitat for fish, invertebrates, and waterfowl. Wild celery is particularly important as a food source for migratory waterfowl, especially canvasback ducks, which rely heavily on its winter buds and turions.
 
-American eelgrass occurs from southern Canada through the eastern and central United States, extending into Central America. It has also been introduced to parts of Europe, Asia, and Australia, where it is generally less invasive than many other non-native aquatic plants.
+American eelgrass occurs from southern Canada through the eastern and central United States, extending into [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. It has also been introduced to parts of Europe, Asia, and Australia, where it is generally less invasive than many other non-native aquatic plants.
 
 ## Taxonomy and Morphology
 
@@ -59,7 +59,7 @@ Fish utilize eelgrass beds for spawning substrate, nursery habitat, and foraging
 
 Restoration programs targeting *V. americana* have been implemented in the Chesapeake Bay watershed, the Upper Mississippi River, and numerous inland lakes. Transplanting techniques include plug planting, weighted cuttings, and seed-based establishment, with varying degrees of success.
 
-Environmental factors that limit restoration success include excessive turbidity, herbivory from resident waterfowl and invasive snails, and competition from invasive macrophytes such as *Hydrilla verticillata* and *Myriophyllum spicatum*.
+[[duggar-mushroom-environmental-factors-temperature-moisture-light]] that limit restoration success include excessive turbidity, herbivory from resident waterfowl and invasive snails, and competition from invasive macrophytes such as *Hydrilla verticillata* and *Myriophyllum spicatum*.
 
 ## Physiological Adaptations
 
@@ -67,7 +67,7 @@ Environmental factors that limit restoration success include excessive turbidity
 
 The species utilizes both dissolved CO₂ and bicarbonate for photosynthesis, though it is less efficient at bicarbonate use than *Hydrilla* or *Elodea*. This physiological constraint limits its competitive ability in hard, alkaline waters where dissolved CO₂ is naturally low.
 
-Root oxygen release is an important ecological function of *V. americana*. Oxygen transported from aerial leaves through lacunae diffuses into the rhizosphere, creating micro-oxic zones around roots that influence nutrient cycling and sediment chemistry.
+Root oxygen release is an important ecological function of *V. americana*. Oxygen transported from aerial leaves through lacunae diffuses into the rhizosphere, creating micro-oxic zones around roots that influence [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and sediment chemistry.
 
 ## Seasonal Growth Dynamics
 
@@ -87,7 +87,7 @@ Herbivory from both native and non-native species can impact populations. The in
 
 ## Research Significance
 
-*V. americana* has been extensively studied as a model organism for aquatic plant ecology, particularly in the context of submerged aquatic vegetation (SAV) restoration. Research on this species has informed understanding of light requirements, sediment interactions, and grazing dynamics.
+*V. americana* has been extensively studied as a model organism for aquatic plant ecology, particularly in the context of submerged aquatic vegetation (SAV) restoration. Research on this species has informed understanding of [[growing-gourmet-light-requirements-mushroom-fruiting]], sediment interactions, and grazing dynamics.
 
 The species serves as a bioindicator of freshwater ecosystem health. Its presence, abundance, and condition are used in monitoring programs to assess water quality trends and the effectiveness of nutrient reduction strategies in watersheds like the Chesapeake Bay.
 
@@ -101,7 +101,7 @@ Above-ground biomass can contain nitrogen concentrations of 2–4% and phosphoru
 
 ## Aquaculture and Phytoremediation
 
-*V. americana* has been investigated for use in constructed wetlands and aquaculture systems for water quality improvement. The species effectively removes nutrients, heavy metals, and organic contaminants from wastewater through uptake and sediment stabilization.
+*V. americana* has been investigated for use in [[comparison-constructed-wetlands-vs-bioswales]] and aquaculture systems for water quality improvement. The species effectively removes nutrients, heavy metals, and organic contaminants from wastewater through uptake and sediment stabilization.
 
 In integrated multi-trophic aquaculture systems, wild celery beds provide shelter and foraging habitat for commercially important fish and crustacean species while simultaneously improving water quality. This dual function makes it a candidate for sustainable aquaculture design.
 

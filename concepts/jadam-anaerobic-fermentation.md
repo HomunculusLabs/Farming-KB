@@ -1,5 +1,5 @@
 ---
-title: JADAM Anaerobic Fermentation
+title: JADAM jadam-anaerobic-fermentation-principles
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -11,11 +11,11 @@ sources:
 
 ## Overview
 
-Anaerobic fermentation (cutting off oxygen) is the cornerstone principle of JADAM's input-making philosophy. Youngsang Cho argues that the modern organic farming movement made a fundamental error by adopting aerobic fermentation (using air pumps) as the standard, when anaerobic processes actually preserve nutrients far better and require no machinery.
+Anaerobic fermentation (cutting off oxygen) is the cornerstone principle of JADAM's input-making philosophy. Youngsang Cho argues that the modern [[coleman-deep-organic-farming-philosophy]] movement made a fundamental error by adopting aerobic fermentation (using air pumps) as the standard, when anaerobic processes actually preserve nutrients far better and require no machinery.
 
 ## The Nutritional Perspective
 
-JADAM's key insight: farm inputs should be evaluated primarily from a nutritional perspective. Just as a mother prepares food for her child, farming inputs are food prepared for crops. The most important question is: how rich is the input in nutrients, and in what balance?
+JADAM's key insight: farm inputs should be evaluated primarily from a nutritional perspective. Just as a mother prepares food for her child, [[cho-natural-farming-inputs-overview]] are food prepared for crops. The most important question is: how rich is the input in nutrients, and in what balance?
 
 From nutritional science, the three biggest destroyers of nutrients are:
 1. Sunlight
@@ -51,8 +51,8 @@ JADAM's practical approach for solid fertilizer:
 3. Add food waste, livestock manure, fish waste, etc.
 4. Pile gunnysacks in about six layers on the pallet
 5. Apply generous [[jadam-making-organic-farming-inputs]] -- the broader input-making philosophy
-- [[jadam-liquid-fertilizer]] -- the nutrient solution
-- rejection of sugar and molasses -- why JADAM rejects common fermentation additives
+- [[jadam-liquid-fertilizer]] -- the [[cannabis-nutrient-solution-preparation]]
+- [[jadam-rejection-of-sugar-molasses]] and molasses -- why JADAM rejects common fermentation additives
 - [[jadam-leaf-mold-soil-method]]
 - [[jadam-wild-grass-liquid-fertilizer]]
 - [[jadam-cover-crop-wild-grass-symbiosis]]
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

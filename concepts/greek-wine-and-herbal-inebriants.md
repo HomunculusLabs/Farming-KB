@@ -1,5 +1,5 @@
 ---
-title: Greek Wine and Herbal Inebriants
+title: Greek greek wine and herbal inebriants Inebriants
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -9,13 +9,13 @@ sources:
 ---
 # Greek Wine and Herbal Inebriants
 
-**Source:** The Road to Eleusis, Chapter III — Carl A. P. Ruck
+**Source:** The [[the-road-to-eleusis-wasson-hofmann-ruck]], Chapter III — Carl A. P. Ruck
 
 **Updated:** 2026-04-19
 
 ## Overview
 
-Classical Greek wine was fundamentally different from modern alcoholic beverages. Rather than containing alcohol as its sole inebriant, ancient wine was "ordinarily a variable infusion of herbal toxins in a vinous liquid." This understanding is essential to comprehending [[lesser-and-greater-eleusinian-mysteries]], and Greek religious practice generally.
+Classical Greek wine was fundamentally different from modern alcoholic beverages. Rather than containing alcohol as its sole inebriant, [[amanita-muscaria-ancient-wine-question]] was "ordinarily a variable infusion of herbal toxins in a vinous liquid." This understanding is essential to comprehending [[lesser-and-greater-eleusinian-mysteries]], and Greek religious practice generally.
 
 ## The Alcohol Paradox
 
@@ -41,11 +41,11 @@ Homer's Odyssey describes Helen preparing a special wine by adding the euphoric 
 
 ## Known Herbal Additives in Greek Wine
 
-Classical sources mention a variety of psychoactive and medicinal herbs that were added to wine:
+Classical sources mention a variety of psychoactive and [[permaculture-plants-medicinal-herbs-healing]] that were added to wine:
 
 - **Nepenthes (νηπενθές)**: The legendary "sorrow-dispelling" drug that Helen added to wine in the Odyssey. Its identity remains debated, but candidates include opium poppy (Papaver somniferum), Datura stramonium, and various solanaceous plants with anticholinergic properties.
 
-- **Hellebore (ἑλλέβορος)**: Used medicinally and possibly as a wine additive, hellebore was a powerful purgative that could induce altered states at high doses.
+- **Hellebore (ἑλλέβορος)**: Used medicinally and possibly as a wine additive, hellebore was a powerful purgative that could induce [[weil-the-natural-mind-altered-states-normalcy]] at high doses.
 
 - **Ivy (κισσός)**: Sacred to Dionysus and "reputed to be a psychotropic plant," ivy was one of the most commonly mentioned additives in Dionysian wine preparations.
 
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

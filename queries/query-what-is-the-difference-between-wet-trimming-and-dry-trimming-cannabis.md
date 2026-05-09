@@ -1,10 +1,11 @@
 ---
-title: "What Is the Difference Between Wet Trimming and Dry Trimming Cannabis?"
+title: "What Is the Difference Between query what is the difference between wet trimming and dry trimming cannabis and Dry Trimming Cannabis?"
 created: 2026-04-28
 tags: [query, cannabis, harvest, trimming, post-harvest]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -16,7 +17,7 @@ the plant is still fresh and turgid, resulting in a tighter appearance and
 faster drying time. Dry trimming means hanging the whole plant to dry for
 several days before removing leaves, which preserves [[cervantes-gray-mold-botrytis-prevention]] and other mold
 issues, it can also lead to a harsher smoke if the drying happens too
-quickly and the chlorophyll does not break down properly before the
+quickly and the chlorophyll does not [[query-can-fungi-break-down-plastic-pollution]] properly before the
 [[cannabis-environment-control]] to maintain proper
 humidity levels throughout the drying period. If the drying space is too
 humid, the extended leaf coverage increases mold risk substantially. If it
@@ -60,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

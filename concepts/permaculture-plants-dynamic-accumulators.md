@@ -16,7 +16,7 @@ Beyond its nitrogen-fixing capacity, tagasaste's deep root system accesses miner
 ## Nitrogen-Fixing Accumulators
 
 ### Leucaena (Leucaena leucocephala)
-In alley cropping systems, leucaena rows are kept pruned to avoid robbing crops of light. The leaf drop from pruned leucaena provides a good humus source rich in nitrogen. This represents one of the most productive nitrogen-cycling systems in tropical permaculture.
+In [[comparison-alley-cropping-vs-silvopasture]] systems, leucaena rows are kept pruned to avoid robbing crops of light. The leaf drop from pruned leucaena provides a good humus source rich in nitrogen. This represents one of the most productive nitrogen-cycling systems in tropical permaculture.
 
 ### Black Locust (Robinia pseudoacacia)
 Fast-growing to 25 m with extensive root systems. As a nitrogen-fixing legume, it accumulates atmospheric nitrogen and cycles it through leaf litter. The foliage is readily eaten by livestock, creating a rapid nutrient cycle.
@@ -25,18 +25,18 @@ Fast-growing to 25 m with extensive root systems. As a nitrogen-fixing legume, i
 With deep roots making it capable of withstanding drought, the honey locust brings minerals from deep soil layers. Deciduous habit means annual leaf drop returns these minerals to the surface.
 
 ### Casuarinas (Casuarina spp)
-About 80 species forming symbiosis with Frankia spp (bacteria-like organism) that enables atmospheric nitrogen fixation. Generally good firewood, easy to propagate from seed and vegetatively, capable of tolerating very saline conditions.
+About 80 species forming symbiosis with Frankia spp (bacteria-like organism) that enables atmospheric [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. Generally good firewood, easy to propagate from seed and vegetatively, capable of tolerating very saline conditions.
 
 ### Wattles (Acacia spp)
-Extensive root systems of various Acacia species mine nutrients from deep soil profiles. Leaf litter from wattles contributes significantly to soil organic matter and mineral cycling.
+Extensive root systems of various Acacia species mine nutrients from deep soil profiles. Leaf litter from wattles contributes significantly to soil [[hamilton-composting-and-organic-matter-management]] and mineral cycling.
 
 ## Aquatic Nutrient Accumulators
 
 ### Duckweed (Lemna, Wolffia, Spirodela spp)
-Tiny floating aquatic plants that multiply rapidly, doubling biomass in 2-3 days under ideal conditions. High protein content (up to 40% dry weight). Absorbs nutrients from water, making it excellent for nutrient cycling from pond systems. Can be harvested and used as mulch, compost, or poultry feed.
+Tiny floating aquatic plants that multiply rapidly, doubling biomass in 2-3 days under ideal conditions. High protein content (up to 40% dry weight). Absorbs nutrients from water, making it excellent for [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] from pond systems. Can be harvested and used as mulch, compost, or poultry feed.
 
 ### Azolla spp
-A tiny free-floating aquatic fern that fixes atmospheric nitrogen through symbiosis with Anabaena azollae (a blue-green alga). Can double in weight every 3-5 days under optimal conditions. Contains 4-5% nitrogen on a dry weight basis. Used extensively in rice paddies as a biofertiliser and in pond systems for nutrient management.
+A tiny free-floating aquatic fern that fixes atmospheric nitrogen through symbiosis with Anabaena azollae (a blue-green alga). Can double in weight every 3-5 days under optimal conditions. Contains 4-5% nitrogen on a dry weight basis. Used extensively in rice paddies as a biofertiliser and in pond systems for [[green-cannabis-grow-bible-nutrient-management-ppm]].
 
 ## Mineral Accumulation Through Chop-and-Drop
 
@@ -57,13 +57,22 @@ The high ash (mineral) content of tagasaste (4-10%) compared to wheat grain (2%)
 
 ## Design Notes
 
-- **Integrate accumulators**: Place dynamic accumulators upslope of productive plants so mineral-rich leaf litter and mulch flow downhill
+- **Integrate accumulators**: Place [[comparison-dynamic-accumulators-vs-cover-crops]] upslope of productive plants so mineral-rich leaf litter and mulch flow downhill
 - **Chop-and-drop cycles**: Regular cutting of accumulator plants stimulates growth and distributes nutrients
 - **Alley cropping**: Use nitrogen-fixing accumulators in alleys between crop rows (leucaena model)
 - **Aquatic integration**: Duckweed and azolla ponds can process nutrient-rich water from animal systems and produce fertiliser
 - **Species stacking**: Combine deep-rooted mineral miners with nitrogen fixers for complete nutrient cycling
 
 ## See Also
+
+- [[permaculture-daylily]]
+- [[permaculture-gooseberry]]
+- [[permaculture-paulownia]]
+- permaculture-hardy-kiwifruit
+- [[permaculture-chicory]]
+- [[permaculture-buckwheat]]
+- [[biological-transmutation-in-plants]]
+- permaculture-tamarillo
 
 - [[comparison-stevia-vs-monk-fruit-sweetener-cultivation]]
 - [[permaculture-plants-ground-covers-and-accumulators]] - nutrient-accumulating ground covers
@@ -87,4 +96,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

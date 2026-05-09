@@ -16,11 +16,11 @@ sources:
 
 # Inocybe geophylla
 
-**Inocybe geophylla** is a common and widely distributed species of mushroom in the family Cortinariaceae. It is one of the most frequently encountered members of the large genus Inocybe and is well known for its toxicity, containing dangerous levels of muscarine|muscarine. Despite its small size and delicate appearance, it is responsible for numerous cases of mushroom poisoning each year, particularly in Europe and North America where it is among the most common woodland mushrooms.
+**Inocybe geophylla** is a common and widely distributed species of mushroom in the family Cortinariaceae. It is one of the most frequently encountered members of the large genus Inocybe and is well known for its toxicity, containing dangerous levels of muscarine|muscarine. Despite its small size and delicate appearance, it is responsible for numerous cases of [[european-mushroom-poisoning-history]] each year, particularly in Europe and [[psilocybin-north-america-pacific-northwest]] where it is among the most common woodland mushrooms.
 
 ## Taxonomy and Etymology
 
-The species was originally described by the Swedish mycologist Elias Magnus Fries in 1821 in his landmark work *Systema Mycologicum*, one of the foundational texts of modern fungal taxonomy. Fries placed it in the genus Inocybe, which he himself had established. The specific epithet *geophylla* derives from the Greek words *geo* (earth or ground) and *phyllon* (leaf), referring to its earthy, leaf-like appearance and its terrestrial growth habit on forest floors among fallen leaves and humus.
+The species was originally described by the Swedish mycologist Elias Magnus Fries in 1821 in his landmark work *Systema Mycologicum*, one of the foundational texts of modern [[fungal-taxonomy]]. Fries placed it in the genus Inocybe, which he himself had established. The specific epithet *geophylla* derives from the Greek words *geo* (earth or ground) and *phyllon* (leaf), referring to its earthy, leaf-like appearance and its terrestrial growth habit on forest floors among fallen leaves and humus.
 
 It belongs to section Inocybe within the genus, characterized by smooth, non-nodulose spores and the absence of a conspicuous persistent partial veil. The species has been relatively stable taxonomically since its original description, with few changes to its classification. However, the relationship between the white and lilac color forms has been debated over the years, with some authorities treating the consistently white form as a separate species, Inocybe alba, while most modern treatments consider it merely a color variant of I. geophylla.
 
@@ -40,9 +40,18 @@ Spores are smooth, bean-shaped (phaseoliform) to broadly elliptical, measuring a
 
 ## Distribution and Habitat
 
-Inocybe geophylla has a broad distribution across temperate regions of the Northern Hemisphere, including virtually all of Europe (from Scandinavia to the Mediterranean), North America (from coast to coast and from boreal forests to temperate woodlands), and parts of Asia including Japan. It has also been reported from parts of South America, Australia, and New Zealand, though it is less common in the Southern Hemisphere.
+Inocybe geophylla has a broad distribution across temperate regions of the Northern Hemisphere, including virtually all of Europe (from Scandinavia to the Mediterranean), North America (from coast to coast and from [[fungal-diversity-boreal-forests-taiga]] to temperate woodlands), and parts of Asia including Japan. It has also been reported from parts of South America, Australia, and New Zealand, though it is less common in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]].
 
 The species is a mycorrhiza|mycorrhizal associate, forming obligate symbiotic relationships with the roots of forest trees. It is found primarily under deciduous and coniferous trees in a wide range of forest types. It frequently grows on forest floors among leaf litter, moss, and humus-rich soils. It is particularly common under oaks, birches, beeches, [[muscarine]], a toxic quaternary ammonium alkaloid that acts as a direct parasympathomimetic agent, stimulating muscarinic acetylcholine receptors in the autonomic nervous system.
+
+## Seasonality
+
+Inocybe geophylla fruits from late spring through autumn, typically from
+June to October across most of its temperate range. In milder western and
+southern European climates, fruiting may extend into November during warm,
+wet autumns. The species often produces multiple flushes following periods
+of sustained rainfall and is among the more consistently fruiting Inocybe
+species found in temperate woodlands throughout the [[savory-growing-season-and-non-growing-season-management]].
 
 ### Symptoms of Poisoning
 Symptoms of muscarine|muscarine poisoning typically begin within 30 minutes to 2 hours after ingestion and include:
@@ -63,17 +72,22 @@ The symptoms closely resemble those of organophosphate poisoning, as both muscar
 Atropine is the specific and highly effective antidote for muscarine poisoning. Atropine acts as a competitive antagonist at muscarinic acetylcholine receptors, effectively blocking the excessive parasympathetic stimulation caused by muscarine. Treatment typically involves intravenous or intramuscular administration of atropine until the muscarinic symptoms are controlled. Supportive care includes intravenous fluids for dehydration, antiemetics for nausea and vomiting, and cardiac monitoring for bradycardia. Most patients recover fully within 24 hours with appropriate treatment, and fatalities are extremely rare when medical care is sought promptly.
 
 ### Confusion Risk
-The pale lilac coloration of I. geophylla can sometimes lead to confusion with edible species, particularly for inexperienced foragers who may not recognize the characteristic features of the genus Inocybe. It may be mistaken for certain Tricholoma species, Clitopilus species, or other small woodland mushrooms that share its general size and habitat. However, the combination of its silvery-lilac cap, brown spore print, silky-fibrillose cap surface, and habitat on forest floors among specific tree species should help distinguish it. All Inocybe species should be treated as potentially toxic and avoided for consumption without exception.
+The pale lilac coloration of I. geophylla can sometimes lead to confusion with edible species, particularly for inexperienced foragers who may not recognize the characteristic features of the genus Inocybe. It may be mistaken for certain Tricholoma species, Clitopilus species, or other small woodland mushrooms that share its general size and habitat. However, the combination of its silvery-lilac cap, brown [[spore-print]], silky-fibrillose cap surface, and habitat on forest floors among specific tree species should help distinguish it. All Inocybe species should be treated as potentially toxic and avoided for consumption without exception.
 
 ## Similar Species
 
 - **Inocybe lilacina** — Now generally considered a synonym or color variant of I. geophylla; it was separated based on its more consistently lilac coloration and some minor microscopic differences that are not considered taxonomically significant by most modern authorities using molecular phylogenetics.
-- **Inocybe patouillardi** — A related toxic species with a more robust stature and reddish-brown tones to the cap; also contains muscarine and has been frequently implicated in poisoning cases in Europe.
-- **Inocybe calamistrata** — Distinguished by its prominently scaly cap surface, darker brown coloration, and generally larger overall size and more robust stature.
-- **Clitopilus prunulus** — An edible species with a similar cap shape and pinkish tones, but possessing a distinctive pink spore print and very different gill structure (decurrent gills that are not fimbriate, and a mealy odor).
-- **Inocybe coelestium** — A European species that may contain low levels of psilocybin|psilocybin in addition to muscarine, with a similar overall morphology and lilac coloration.
+- **Inocybe patouillardi** — A related toxic species with a more robust stature and reddish-brown tones to the cap; also contains muscarine and has been frequently implicated in poisoning cases in Euro  mistrata** — Distinguished by its prominently scaly cap surface, darker brown coloration, and generally larger overall size and more robust statu  prunulus** — An edible species with a similar cap shape and pinkish tones, but possessing a distinctive pink spore print and very different gill structure (decurrent gills that are not fimbriate, and a mealy odo  elestium** — A European species that may contain low levels of psilocybin|psilocybin in addition to muscarine, with a similar overall morphology and lilac coloration.
 - **[[muscarine]] as the primary and dominant toxic principle. Unlike some other Inocybe species that may contain trace amounts of psilocybin|psilocybin or psilocin|psilocin (such as [[inocybe-aeruginascens-profile]], [[inocybe-haemacta]], and I. coelestium), I. geophylla is not known to contain any psychoactive compounds. Its toxicity profile is dominated by muscarine alone, which makes it consistently and predictably dangerous rather than unpredictably variable in its effects.
 
 ## Notes
 
-This species serves as an important and sobering reminder of the risks associated with foraging for wild mushrooms without expert identification skills. Within the genus Inocybe, which contains several hundred described species worldwide, the vast majority are either unpalatable or actively toxic. Some species contain muscarine, others contain psilocybin|psilocybin, and a few may contain both classes of bioactive compounds. No Inocybe species should be consumed without definitive identification by an experienced mycologist. The genus name Inocybe itself derives from the Greek *inos* (fiber) and *kybe* (head), referring to the typically fibrous cap surface that characterizes many species in this large, diverse, and ecologically important genus of mycorrhizal mushrooms.
+This species serves as an important and sobering reminder of the risks associated with foraging for wild mushrooms without expert identification skills. Within the genus Inocybe, which contains several hundred described species worldwide, the vast majority are either unpalatable or actively toxic. Some species contain muscarine, others contain psilocybin|psilocybin, and a few may contain both classes of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]. No Inocybe species should be consumed without definitive identification by an experienced mycologist. The genus name Inocybe itself derives from the Greek *inos* (fiber) and *kybe* (head), referring to the typically fibrous cap surface that characterizes many species in this large, diverse, and ecologically important genus of mycorrhizal mushrooms.
+
+## Conservation Status
+
+Inocybe geophylla has not been formally evaluated by the IUCN and is not
+considered threatened. It is common and widespread throughout its range,
+with no significant conservation concerns reported. As a mycorrhizal
+species dependent on forest tree hosts, its abundance is indirectly tied
+to the health and preservation of temperate forest ecosystems.

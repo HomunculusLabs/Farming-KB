@@ -52,7 +52,7 @@ The synthesis follows the standard 2C pathway: starting from 2,5-dimethoxybenzal
 
 ## Legal Status
 
-2C-I was emergency-scheduled in the United States in 2002 and placed into Schedule I of the Controlled Substances Act. It is also controlled in many other jurisdictions worldwide.
+2C-I was emergency-scheduled in the [[dmt-containing-plants-united-states-halpern]] in 2002 and placed into Schedule I of the Controlled [[controlled-substances-act-and-psychedelic-research]]. It is also controlled in many other jurisdictions worldwide.
 
 See also: [[2c-family-compounds-overview]], [[2c-b-compound-profile]], [[2c-e-compound-profile]], [[2c-t-2-compound-profile]], [[phenethylamine-chemistry-basics]]
 ## Practical Considerations
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

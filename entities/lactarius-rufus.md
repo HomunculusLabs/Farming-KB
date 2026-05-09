@@ -38,7 +38,7 @@ Lactarius rufus is a highly valued food resource for fungivorous nematodes. Rues
 - Agrocybe gibberosa: 349 nematodes with 95% A. saprophilus (saprotrophic)
 - Mucor heimalis: 24 nematodes with 13% A. saprophilus (saprotrophic)
 
-The capacity of Lactarius rufus to support nematode populations nearly ten times larger than Laccaria laccata and over four thousand times larger than Paxillus involutus highlights its exceptional nutritional quality as a fungal food resource. The near-exclusive dominance of A. saprophilus in the population indicates that Lactarius rufus provides specific nutritional conditions that favor this nematode species.
+The capacity of Lactarius rufus to support nematode populations nearly ten times larger than Laccaria laccata and over four thousand times larger than Paxillus involutus highlights its exceptional [[coleman-winter-greens-nutritional-quality-cold-sweetening]] as a fungal food resource. The near-exclusive dominance of A. saprophilus in the population indicates that Lactarius rufus provides specific nutritional conditions that favor this nematode species.
 
 ### Pure Culture Nematode Support
 
@@ -48,7 +48,7 @@ In pure culture studies, Lactarius rufus supported nematode populations of 1.4 t
 - Hymenoscyphus ericae: 2.0 population, 6.8% females
 - Lactarius rufus: 1.4 population, 7.8% females
 - Hebeloma sacchariolens: 0.8 population, 2.8% females
-- Amanita muscaria: 0.7 population, 2.0% females
+- [[allegro-amanita-muscaria-properties-and-pharmacology]]: 0.7 population, 2.0% females
 - Amanita rubescens: 0.6 population, 1.3% females
 - Paxillus involutus: 0.8 population, 5.8% females
 
@@ -82,12 +82,12 @@ Shaw (1988) studied the feeding preferences of the collembolan Onychiurus armatu
 Dighton et al. studied the response of ectomycorrhizal fungal communities to
 nitrogen enrichment in peat soils under Pinus contorta. Lactarius rufus showed
 increased abundance with added nitrogen, consistent with the broader pattern
-that nitrogen deposition favors certain ectomycorrhizal species while suppressing
-others. Overall, species richness and diversity of ectomycorrhizal fungal
+that [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] favors certain ectomycorrhizal species while suppressing
+others. Overall, species [[fungal-species-richness-and-diversity-indices]] of ectomycorrhizal fungal
 communities typically decline with nitrogen addition, but specific species like
 Lactarius rufus benefit from the enhanced nitrogen availability.
 
-This response has significant implications for understanding how atmospheric nitrogen deposition may alter ectomycorrhizal community composition and function in boreal forests. As nitrogen-sensitive species decline and nitrogen-responsive species like Lactarius rufus increase, the functional characteristics of the mycorrhizal community may shift, potentially affecting host tree nutrition, decomposition processes, and soil carbon storage.
+This response has significant implications for understanding how atmospheric nitrogen deposition may alter ectomycorrhizal [[core-endorhiza-bacterial-community-composition-cannabis]] and function in boreal forests. As nitrogen-sensitive species decline and nitrogen-responsive species like Lactarius rufus increase, the functional characteristics of the mycorrhizal community may shift, potentially affecting host tree nutrition, decomposition processes, and soil carbon storage.
 
 ## Peatland Occurrence
 
@@ -102,7 +102,7 @@ into the soil microfaunal food web. The conversion of mycorrhizal fungal biomass
 into nematode biomass, and subsequently into higher trophic levels, represents
 an important pathway for nutrient cycling in forest soils.
 
-The species responds positively to nitrogen enrichment, which may lead to shifts in belowground community composition as atmospheric nitrogen deposition continues to increase in many boreal forest regions. These shifts could alter the flow of carbon and nutrients through soil food webs, with cascading effects on ecosystem processes. The dual role of Lactarius rufus as both a mycorrhizal mutualist and a keystone food web resource makes it a species of particular interest for understanding how anthropogenic nitrogen deposition may restructure boreal forest soil ecosystems.
+The species responds positively to nitrogen enrichment, which may lead to shifts in belowground community composition as atmospheric nitrogen deposition continues to increase in many boreal forest regions. These shifts could alter the flow of carbon and nutrients through soil food webs, with cascading effects on [[fungal-ecosystem-processes-overview]]. The dual role of Lactarius rufus as both a mycorrhizal mutualist and a keystone food web resource makes it a species of particular interest for understanding how anthropogenic nitrogen deposition may restructure boreal forest soil ecosystems.
 
 ## Key Studies
 

@@ -9,10 +9,10 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Bartholomew, D.P. et al. (2003). "The pineapple." In Pests and Diseases of Pineapple, 1–63.
+  - Bartholomew, D.P. et al. (2003). "The pineapple." In query-how-to-manage-pests-and-diseases-in-mushroom-cultivation of Pineapple, 1–63.
   - Botella, J.R. & Smith, M.K. (2008). "Pineapple." In Encyclopedia of Fruit and Nuts, 329–336.
   - Lobo, M.G. & Paull, R.E. (2017). "Pineapple." In Postharvest Biology and Technology of Tropical and Subtropical Fruits, 149–177.
-  - Xuan, T.D. et al. (2008). "Medicinal properties of pineapple." In Essential Oils and Wound Healing, 201–216.
+  - Xuan, T.D. et al. (2008). "Medicinal properties of pineapple." In [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] and Wound Healing, 201–216.
   - FAO. "FAOSTAT: Pineapple production data." Food and Agriculture Organization.
 ---
 
@@ -50,7 +50,7 @@ Natural flowering is induced by cool temperatures and short daylengths, but comm
 
 The crop cycle from planting to harvest is 18–24 months for crown planting and 12–16 months for sucker planting. A single planting typically produces two ratoon crops before replanting.
 
-Yields vary widely by cultivar and management system, ranging from 40 to 80 tonnes per hectare under commercial conditions. The MD-2 cultivar typically achieves higher yields than Smooth Cayenne in intensive production systems.
+Yields vary widely by cultivar and management system, ranging from 40 to 80 tonnes per hectare under commercial conditions. The MD-2 cultivar typically achieves higher yields than Smooth Cayenne in [[mollison-designers-market-garden-intensive-production-design]] systems.
 
 Major pests include the pineapple mealybug (*Dysmicoccus brevipes*), which transmits pineapple wilt disease (mealybug wilt-associated virus). Nematodes (*Meloidogyne* spp.) and heart rot caused by *Phytophthora* spp. are also significant constraints.
 
@@ -72,7 +72,7 @@ In vitro studies show bromelain inhibits platelet aggregation and exhibits fibri
 
 Phenolic compounds in pineapple include gallic acid, caffeic acid, ferulic acid, and various flavonoid glycosides. These contribute antioxidant capacity measured by ORAC assays, though in vivo significance remains less established.
 
-Pineapple core and stem extracts show antimicrobial activity against *Escherichia coli*, *Staphylococcus aureus*, and *Candida albicans* in laboratory studies. Traditional medicine uses pineapple juice for digestive complaints, wound cleansing, and throat inflammation.
+Pineapple core and stem extracts show antimicrobial activity against *Escherichia coli*, *Staphylococcus aureus*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* in laboratory studies. Traditional medicine uses pineapple juice for digestive complaints, wound cleansing, and throat inflammation.
 
 ## Ecology and Applications
 
@@ -84,7 +84,7 @@ Pineapple cultivation provides livelihoods for millions of smallholder farmers i
 
 Post-harvest processing generates substantial waste — the rind, core, and crown represent 40–60% of total fruit weight. This waste is increasingly valorized for bromelain extraction, dietary fiber production, animal feed, and bioethanol fermentation.
 
-The long fibrous leaves yield a strong, fine textile fiber historically used in Philippine piña cloth. This traditional craft produces lightweight, sheer fabric used in formal garments such as the Barong Tagalog.
+The long fibrous leaves yield a strong, fine [[natural-dye-plants]] historically used in Philippine piña cloth. This traditional craft produces lightweight, sheer fabric used in formal garments such as the Barong Tagalog.
 
 ### Major Cultivar Groups
 
@@ -98,7 +98,7 @@ The Queen cultivar is favored in South Africa and Australia for fresh market sal
 
 Pineapple is one of the top five tropical fruits traded globally by volume. The international canned pineapple market alone exceeds $2.5 billion annually, with Thailand and the Philippines as the leading exporters.
 
-Costa Rica has become the world's largest fresh pineapple exporter since the mid-2000s, primarily supplying the MD-2 cultivar to North American and European markets. The industry has faced criticism regarding pesticide use and labor conditions.
+Costa Rica has become the world's largest fresh pineapple exporter since the mid-2000s, primarily supplying the MD-2 cultivar to [[growing-gourmet-north-american-reishi-species]] and European markets. The industry has faced criticism regarding pesticide use and labor conditions.
 
 Dole, Del Monte, and Fresh Del Monte control approximately 60% of global pineapple trade. Smallholder production remains significant in countries like Kenya, Ghana, and India, where the crop provides important cash income for rural communities.
 

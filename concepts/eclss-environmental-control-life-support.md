@@ -12,7 +12,7 @@ An Environmental Control and Life Support System (ECLSS) is a critical subsystem
 - **Nitrogen management**: Maintaining total cabin pressure at approximately 14.7 psi ([[vegetable-storage-conditions-by-temperature-and-humidity]] Control
 - **Cabin temperature**: Maintained at 18–27°C (64–80°F), nominally 22°C
 - **Relative humidity**: Controlled to 30–70%, nominally 40–60%
-- **Heat rejection**: Collecting and rejecting waste heat from crew, equipment, and solar radiation to the space environment via radiators
+- **Heat rejection**: Collecting and rejecting waste heat from crew, equipment, and solar radiation to the [[aseptic-specimen-transfer-space-environment-microwave-sterilizable-access-port]] via radiators
 - **Condensate management**: Collecting and processing water condensed from humid cabin air
 
 ### Water Recovery and Management
@@ -28,7 +28,7 @@ An Environmental Control and Life Support System (ECLSS) is a critical subsystem
 
 ## Sterilization Challenges in ECLSS
 
-The need for reliable surface sterilization within ECLSS systems was a primary motivation for NASA's development of the Microwave Sterilizable Access Po [[pf-tek-low-humidity-symptoms-and-remediation]]
+The need for reliable [[challenge-organisms-nasa-microwave-surface-sterilization-testing]] within ECLSS systems was a primary motivation for NASA's development of the [[msap-subsystem-architecture-microwave-sterilizable-access-port]] Access Po [[pf-tek-low-humidity-symptoms-and-remediation]]
 
 ### Flight Experiment Access
 - Biological experiments aboard spacecraft require sterile handling
@@ -49,7 +49,7 @@ The ISS ECLSS is the most sophisticated life support system ever operated in spa
 ### Space Shuttle
 - Less sophisticated than ISS ECLSS
 - Used lithium hydroxide canisters for CO₂ removal (consumable, not regenerative)
-- Fuel cells provided both electrical power and drinking water as a byproduct
+- [[microbial-fuel-cells-remediation]] provided both electrical power and drinking water as a byproduct
 - Limited water recycling capability
 
 ### Future Systems (Artemis, Mars Transit)
@@ -75,12 +75,12 @@ The closed environment of a spacecraft creates a unique microbial ecology:
 
 Spacecraft drinking water must meet stringent standards equivalent to or exceeding Earth-based potable water regulations:
 
-- **Total organic carbon (TOC)**: < 500 μg/L
+- **Total [[dighton-fungal-dissolved-organic-carbon-production]] (TOC)**: < 500 μg/L
 - **Conductivity**: < 50 μS/cm
 - **pH**: 4.5–8.0
 - **Microbial count**: < 50 CFU/mL (total heterotrophic bacteria)
 - **Coliform bacteria**: Must be non-detectable
-- **Heavy metals**: Below WHO drinking water guideline levels
+- **[[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]**: Below WHO drinking water guideline levels
 
 Water quality is monitored continuously using onboard sensors, with periodic laboratory analysis of returned samples. The water recovery systems on the ISS consistently produce water that meets or exceeds these standards, though taste complaints from crew members are common (the water is described as "medicinal" or "iodine-tasting" due to residual biocides).
 

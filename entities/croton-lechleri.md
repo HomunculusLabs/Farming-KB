@@ -23,7 +23,7 @@ updated: 2026-04-28
 sources:
   - Cai, Y. et al. (1991). "Polyphenolic compounds from Croton lechleri."
     Phytochemistry 30(3): 953-955.
-  - Perdue, G.P. et al. (1979). "South American plants II: taspine, a
+  - Perdue, G.P. et al. (1979). "[[chiric-caspi-brunfelsia-south-american-hallucinogen]] plants II: taspine, a
     novel cicatrizant agent." Journal of Natural Products 42(5): 567-568.
   - Chen, Z.L. et al. (1994). "Croton lechleri sap — a source of
     proanthocyanidins." Journal of Natural Products 57(1): 54-59.
@@ -78,7 +78,7 @@ and Ecuadorian Amazon.
 
 ## Phytochemistry
 
-The dark red latex of *C. lechleri* is a complex mixture of bioactive compounds:
+The dark red latex of *C. lechleri* is a complex mixture of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:
 
 - **Proanthocyanidins (OPCs):** 90%+ of the dry latex weight consists of
   oligomeric proanthocyanidins, primarily as dimers and trimers of catechin
@@ -93,7 +93,7 @@ The dark red latex of *C. lechleri* is a complex mixture of bioactive compounds:
 - **Diterpenes:** Including hardwickiic acid and crotonadiol, contributing
   anti-inflammatory activity via NF-κB pathway modulation.
 - **Lignans and phenolic compounds:** Nor-β-lapachone and other quinones with
-  reported cytotoxic activity against cancer cell lines.
+  reported cytotoxic activity against [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines.
 
 ## Traditional and Modern Medicine
 
@@ -103,12 +103,12 @@ the latex directly to cuts, burns, insect bites, and fungal skin infections.
 Internally, diluted latex is consumed for gastrointestinal ulcers, diarrhea,
 and as a general anti-inflammatory tonic.
 
-Modern clinical research has validated several traditional uses:
+Modern [[hofmann-lsd-clinical-research-early-studies]] has validated several traditional uses:
 - Topical application accelerates wound closure in controlled studies
 - SP-303 demonstrated efficacy against traveler's diarrhea in Phase II trials
 - Anti-inflammatory effects confirmed in murine models at standardized doses
 - Antimicrobial activity demonstrated against *Staphylococcus aureus*,
-  *Escherichia coli*, and *Candida albicans*
+  *Escherichia coli*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*
 
 ## Harvesting and Sustainability
 

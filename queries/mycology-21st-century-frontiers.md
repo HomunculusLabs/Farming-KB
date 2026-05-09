@@ -24,9 +24,9 @@ Modern mycology from genomics to conservation, covering the scientific advances,
   See [[fungal-spore-biology]].
 
 - **2005 — Paul Stamets:**
-  Published Mycelium Running, articulating the mycorestoration framework
+  Published [[woodlovers-mycelium-running-pathway-technique]], articulating the mycorestoration framework
   (mycoremediation, mycofiltration, mycoforestry, mycopesticides).
-  Links mushroom cultivation to ecological restoration.
+  Links [[accessible-mushroom-cultivation-for-disabilities]] to ecological restoration.
   See [[mycorestoration-overview]].
 
 ## Mycorrhizal Networks and Soil Biology
@@ -34,7 +34,7 @@ Modern mycology from genomics to conservation, covering the scientific advances,
 - **~2010s — Suzanne Simard:**
   "Wood wide web" research at the University of British Columbia
   demonstrates that mycorrhizal networks connect trees in forests,
-  enabling nutrient sharing, chemical signaling, and communication.
+  enabling nutrient sharing, [[plant-hormones-and-chemical-signaling-systems]], and communication.
   Mother trees preferentially feed their offspring through common mycorrhizal networks.
   See [[mycorrhizal-networks]].
 
@@ -48,16 +48,16 @@ Modern mycology from genomics to conservation, covering the scientific advances,
 - **2010s — DNA phylogenetics and genome sequencing:**
   Reveal metabolic diversity,
   correct long-standing taxonomic errors, and elucidate biosynthetic pathways
-  including psilocybin production.
+  including [[gottlieb-psilocybin-production-extraction-methods]].
   Molecular phylogeny establishes that fungi diverged from animals
   ~1.0-1.5 billion years ago.
   See [[fungal-genetics]] and [[fungal-evolution]].
 
 ## Applied Mycology and Industry
 
-- **2010s — Mycelium materials industry:**
+- **2010s — [[comparison-mycelium-materials-vs-bioplastics-pla-pha]] industry:**
   Companies (Ecovative, Bolt Threads, Mylo) grow mycelium as packaging,
-  leather substitutes, and building materials — a new sector of the bioeconomy.
+  leather substitutes, and [[natural-building-materials-guide]] — a new sector of the bioeconomy.
 
 - **2010s — Mycoremediation deployment:**
   Fungi deployed for oil spill cleanup,

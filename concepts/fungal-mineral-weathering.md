@@ -1,5 +1,5 @@
 ---
-title: Fungal Mineral Weathering
+title: Fungal mycorrhizal-mineral-weathering-nutrient-acquisition
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -20,11 +20,11 @@ Fungi are among the most significant biological agents of mineral weathering —
 - Physical disruption of mineral grains along hyphal interfaces
 
 ### Chemical Weathering
-- **Organic acid exudation**: Oxalic, citric, gluconic acids dissolve minerals
+- **[[fungal-organic-acid-metal-solubilization]] exudation**: Oxalic, citric, gluconic acids dissolve minerals
   - Oxalic acid is the most important — complexes with Ca, Fe, Al
-  - Forms metal-oxalate crystals (calcium oxalate, iron oxalate) visible on fungal hyphae
+  - Forms metal-oxalate crystals ([[fungal-calcium-oxalate-crystals]], iron oxalate) visible on fungal hyphae
 - **Proton extrusion**: Fungi pump H+ ions into their environment, lowering pH and dissolving minerals
-- **Siderophore production**: Low-molecular-weight chelators that bind and solubilize iron from minerals
+- **[[singh-fungal-siderophore-production-iron-acquisition]]**: Low-molecular-weight chelators that bind and solubilize iron from minerals
 - **CO2 respiration**: Fungal respiration produces carbonic acid (H2CO3) in soil solution
 - **Extracellular enzymes**: Oxidoreductases (laccases, peroxidases) that attack mineral structures
 
@@ -44,7 +44,7 @@ Fungi are among the most significant biological agents of mineral weathering —
 ### Phosphate Minerals
 - Apatite: phosphorus release (critical for plant nutrition)
 - Rock phosphate: fungal weathering makes P bioavailable
-- Mycorrhizal fungi are particularly important for P solubilization
+- [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] are particularly important for P solubilization
 
 ### Metal-Bearing Minerals
 - Iron oxides: siderophore-mediated dissolution
@@ -56,7 +56,7 @@ Fungi are among the most significant biological agents of mineral weathering —
 ### Soil Formation
 - Fungi are primary agents of soil formation from rock
 - In early succession (lichens, then free-living fungi), fungal weathering creates the first soil
-- Without fungal weathering, soil formation rates would be 10-100x slower
+- Without fungal weathering, soil [[mollison-soil-formation-rates-and-erosion-costs]] would be 10-100x slower
 
 ### Plant Nutrition
 - Mycorrhizal fungi weather minerals to access phosphorus, potassium, calcium
@@ -74,10 +74,13 @@ Fungi are among the most significant biological agents of mineral weathering —
 - Fungal siderophores and oxalates mediate metal mobility
 
 ## Applications
-- [[mycoremediation-overview]] — fungal weathering for bioremediation
+- [[cotter-mycoremediation-overview]] — fungal weathering for bioremediation
 - [[fungal-role-in-phosphorus-cycling]] — P release from minerals
 -  — fungi in pedogenesis
 
 ## See Also
 
-- [[fungal-symbioses-in-mineral-weathering-and-biogeochemistry]]
+- fungal-symbioses-in-mineral-weathering-and-biogeochemistry
+- [[fungal-hyphae]]
+- [[mycorrhizal-fungi]]
+- [[mycoremediation]]

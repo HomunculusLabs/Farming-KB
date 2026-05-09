@@ -27,7 +27,7 @@ It was first synthesized and characterized by Alexander Shulgin, who described i
 
 The compound belongs to the 2,5-dimethoxy-4-substituted phenethylamine series, which includes several of the most potent oral psychedelics known. The 4-ethyl substitution distinguishes it structurally from the more widely known 2C-B (4-bromo) and 2C-I (4-iodo) analogues.
 
-2C-E is classified as a Schedule I controlled substance in several jurisdictions, including the United States, where it was placed under the Controlled Substances Analogue Enforcement Act. It is also controlled under the UN Convention on Psychotropic Substances in some signatory nations.
+2C-E is classified as a Schedule I controlled substance in several jurisdictions, including the [[dmt-containing-plants-united-states-halpern]], where it was placed under the Controlled Substances Analogue Enforcement Act. It is also controlled under the UN Convention on Psychotropic Substances in some signatory nations.
 
 ## Chemical Properties
 
@@ -90,9 +90,9 @@ The extended duration and intensity of 2C-E mean that adequate preparation and a
 
 2C-E is classified as a Schedule I controlled substance in the United States under the Federal Analogue Act, making it illegal to manufacture, distribute, or possess.
 
-In the European Union, 2C-E is controlled in most member states, though specific scheduling varies. It is listed as a controlled substance in the United Kingdom under the Psychoactive Substances Act 2016 and in Australia as a Schedule 9 prohibited substance.
+In the European Union, 2C-E is controlled in most member states, though specific scheduling varies. It is listed as a controlled substance in the United Kingdom under the Psychoactive [[controlled-substances-act-and-psychedelic-research]] 2016 and in Australia as a Schedule 9 prohibited substance.
 
-The compound is also controlled in Canada (Schedule III), New Zealand (Class C), Japan, and several other countries. Despite legal restrictions, 2C-E has been identified in forensic drug seizures across Europe and North America.
+The compound is also controlled in Canada (Schedule III), New Zealand (Class C), Japan, and several other countries. Despite legal restrictions, 2C-E has been identified in forensic drug seizures across Europe and [[psilocybin-north-america-pacific-northwest]].
 
 International controls vary. The EMCDDA has monitored 2C-E as a new psychoactive substance (NPS) since the early 2000s, with periodic risk assessments issued.
 
@@ -104,7 +104,7 @@ Shulgin documented his experience with 2C-E at a dose of 2 mg in *PiHKAL*, Entry
 
 The compound remained relatively obscure until the early 2000s, when the emergence of online research chemical vendors made 2C compounds widely available. 2C-E gained popularity in the psychedelic community for its visual intensity and extended duration.
 
-Reports of adverse effects, including hospitalizations and at least one death associated with high-dose 2C-E use, contributed to increased regulatory scrutiny. These incidents prompted scheduling actions in multiple jurisdictions between 2011 and 2015.
+Reports of [[blesching-cannabis-safety-adverse-effects-evidence]], including hospitalizations and at least one death associated with high-dose 2C-E use, contributed to increased regulatory scrutiny. These incidents prompted scheduling actions in multiple jurisdictions between 2011 and 2015.
 
 ## Related Compounds
 
@@ -120,8 +120,6 @@ The 2C family includes numerous structural analogues with varying pharmacologica
 
 - [[2c-i]]
 - [[pihkal-introduction-and-methodology]]
-- [[pihkal-introduction-and-methodology]]
 - [[psychedelic-fungi-taxonomy]]
 - [[psilocybin]]
-- [[pihkal-introduction-and-methodology]]
 - nps

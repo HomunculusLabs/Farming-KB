@@ -1,5 +1,5 @@
 ---
-title: "Day Length and Flowering Response in Permaculture"
+title: "coleman-winter-day-length-and-persephone-months and Flowering Response in Permaculture"
 created: 2026-04-26
 tags:
   - permaculture
@@ -20,7 +20,7 @@ Day length (in fact, night length) varies over latitudes, and
 flowering plants are adapted to bloom and set seed in response to
 specific day lengths and the change of seasons. In *Permaculture: A
 Designers' Manual*, Bill Mollison explains how photoperiodism
-affects crop selection, variety choice, and the practical
+affects [[cover-crop-selection-guide]], variety choice, and the practical
 management of food production systems across different climates.
 
 ## Photoperiod Categories
@@ -60,7 +60,7 @@ foundation of all design work, connecting to [[mollison-designers-pattern-unders
 
 ## See Also
 
-- oner sativa indoor challenges and flowering time problems
+- oner [[cannabis-sativa-indoor-challenges-and-solutions]] challenges and flowering time problems
 ## Practical Considerations
 
 Successful implementation of Day Length and Flowering Response in Permaculture requires attention to
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

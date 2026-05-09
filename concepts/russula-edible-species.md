@@ -14,9 +14,9 @@ Russula is one of the largest genera of basidiomycete mushrooms, containing appr
 
 Russula mushrooms are found in forests worldwide and are among the most common and conspicuous forest mushrooms. They are characterized by brittle flesh that breaks cleanly like chalk, bright colors (particularly red, purple, yellow, and green), white spore prints, and gills that are typically attached to the stem or slightly decurrent.
 
-All Russula species are ectomycorrhizal, forming associations with trees in forests across the globe. They partner with a wide range of host trees including oaks, pines, spruces, birches, beeches, and many others. The genus is particularly diverse and abundant in temperate and boreal forests of the Northern Hemisphere, though many species also occur in tropical regions.
+All Russula species are ectomycorrhizal, forming associations with trees in forests across the globe. They partner with a wide range of host trees including oaks, pines, spruces, birches, beeches, and many others. The genus is particularly diverse and abundant in temperate and [[fungal-diversity-boreal-forests-taiga]] of the Northern Hemisphere, though many species also occur in tropical regions.
 
-Russula identification is notoriously difficult due to the large number of species, frequent morphological overlap, and the need for microscopic examination and chemical tests for definitive identification. Despite this challenge, several Russula species are well-known and widely collected edible mushrooms.
+Russula identification is notoriously difficult due to the large number of species, frequent morphological overlap, and the need for [[fungal-microscopic-examination-mounting-media-techniques]] and chemical tests for definitive identification. Despite this challenge, several Russula species are well-known and widely collected [[palmer-edible-mushrooms-north-america]].
 
 ## Key Identification Principles
 
@@ -28,7 +28,7 @@ Russula flesh should be brittle and break cleanly and crisply. Species with toug
 
 A spore print should be taken when possible. All Russula species have white to cream-colored spore prints. Any mushroom with a colored spore print is not a Russula.
 
-Despite these guidelines, Russula identification remains challenging, and inexperienced foragers should exercise caution and consult local experts. See [[mushroom-hunting-and-identification]] for safe foraging practices.
+Despite these guidelines, Russula identification remains challenging, and inexperienced foragers should exercise caution and consult local experts. See mushroom-hunting-and-identification for safe foraging practices.
 
 ## Major Edible Species
 
@@ -36,7 +36,7 @@ Despite these guidelines, Russula identification remains challenging, and inexpe
 
 Russula vesca is one of the best edible Russula species. It has a pinkish-red to salmon cap that often develops a paler center with age, white flesh, and mild taste. The cap cuticle peels easily from the center, revealing white flesh underneath. The gills are white and the stem is solid and white.
 
-Found in deciduous and mixed forests across Europe and North America, it is particularly associated with oaks and beeches. The flesh is mild, nutty, and crisp, making it suitable for raw consumption in salads as well as cooking. It is widely consumed in Eastern and Central Europe.
+Found in deciduous and mixed forests across Europe and [[psilocybin-north-america-pacific-northwest]], it is particularly associated with oaks and beeches. The flesh is mild, nutty, and crisp, making it suitable for raw consumption in salads as well as cooking. It is widely consumed in Eastern and Central Europe.
 
 ### Russula cyanoxantha (The Charcoal Burner)
 
@@ -60,7 +60,7 @@ This is a relatively uncommon species found in deciduous forests, particularly u
 
 Russula virescens has a distinctive green cap with a pattern of cracks or patches on the surface, creating a quilted or tessellated appearance. The flesh is white, firm, and mild. The gills are white and the stem is white and solid.
 
-Found in deciduous forests of Europe and eastern North America, associated with oaks, it is one of the most sought-after edible mushrooms in Italy and France. In Italy, it is called "coppolino" and commands high prices in local markets. The firm flesh holds up well to cooking and has a delicate, nutty flavor.
+Found in deciduous forests of Europe and [[polypore-fungi-eastern-north-america]] America, associated with oaks, it is one of the most sought-after edible mushrooms in Italy and France. In Italy, it is called "coppolino" and commands high prices in local markets. The firm flesh holds up well to cooking and has a delicate, nutty flavor.
 
 ### Russula alutacea (Purple-stemmed Russula)
 
@@ -86,9 +86,15 @@ Russula mushrooms do not have the intense umami flavor of porcini or the complex
 
 ## See Also
 
+- [[russula-olivacea]]
+- [[russula-integra]]
+- [[russula-ochroleuca]]
+
+- [[suillus-edible-species]]
+
 - [[bolete-mushrooms-ecology-edibility]]
 
-- [[edible-wild-mushroom-guide]]
+- edible-wild-mushroom-guide
 
 ## Related
 
@@ -97,4 +103,4 @@ Russula mushrooms do not have the intense umami flavor of porcini or the complex
 - [[fungal-poisons-and-toxicology]]
 
 ## Merged: Mushroom Fruiting Seasons Guide
-The seasonal timing of mushroom fruiting is governed primarily by temperature, rainfall, and humidity patterns. Different mushroom species have evolved to fruit at specific times of year when environmental conditions are most favorable for spore production and dispersal. See [[oyster-mushroom-species-variety]] include several that fruit during cooler spring weather. See [[edible-wild-mushroom-guide]], [[chanterelle-guide]], [[amanita-genus-morphology]] species from other genera. White spore prints are found in [[growing-gourmet-tree-species-guide-mushroom-cultivation]], Russula, [[mushroom-spore-printing-and-storage]] and Volvariella. Related: [[mushroom-contaminant-identification-key]], [[psilocybe-cubensis-potency-variation-by-flush]], [[agaricus-species-guide]]
+The seasonal timing of mushroom fruiting is governed primarily by temperature, rainfall, and humidity patterns. Different mushroom species have evolved to fruit at specific times of year when environmental conditions are most favorable for spore production and dispersal. See [[oyster-mushroom-species-variety]] include several that fruit during cooler spring weather. See edible-wild-mushroom-guide, [[chanterelle-guide]], [[amanita-genus-morphology]] species from other genera. White spore prints are found in [[growing-gourmet-tree-species-guide-mushroom-cultivation]], Russula, [[mushroom-spore-printing-and-storage]] and Volvariella. Related: [[mushroom-contaminant-identification-key]], [[psilocybe-cubensis-potency-variation-by-flush]], [[agaricus-species-guide]]

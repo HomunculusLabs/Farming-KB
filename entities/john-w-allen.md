@@ -25,14 +25,14 @@ status: complete
 
 ## Overview
 
-John W. Allen is an American mushroom researcher, photographer, author, and ethnomycological field documentarian.
-He is best known in this wiki for work on psychoactive fungi in Southeast Asia, Australia, New Zealand, and the Pacific region.
-His name appears frequently in concept pages dealing with psilocybin mushroom identification and cultural use.
+John W. Allen is an [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]] researcher, photographer, author, and ethnomycological field documentarian.
+He is best known in this wiki for work on [[cattle-dispersal-psychoactive-fungi-australia]] in Southeast Asia, Australia, New Zealand, and the Pacific region.
+His name appears frequently in concept pages dealing with psilocybin [[psilocybin-mushroom-identification-guide]] and cultural use.
 He co-authored the formal description of *Psilocybe samuiensis*.
-The taxonomic authority for that species is Guzmán, Bandala & J.W. Allen, 1993.
+The [[bloomfield-taxonomic-authority-debate-lloyd-underwood-atkinson]] for that species is Guzmán, Bandala & J.W. Allen, 1993.
 Allen also published the field guide *Magic Mushrooms of Australia & New Zealand* in 1999.
 Erowid's psilocybin mushroom vault lists several of his identification and history articles.
-Those include material on Australia and New Zealand, safe mushroom identification, and mushroom history.
+Those include material on Australia and New Zealand, safe mushroom identification, and [[duggar-mushroom-history-and-overview]].
 Within the wiki, Allen functions as a key person-entity for psilocybian mushroom documentation.
 His role is especially important where field observation, photography, and local ethnomycology overlap.
 
@@ -107,12 +107,12 @@ The combination explains why concept pages cite him in both species and cultural
 
 ## Wiki relevance
 
-John W. Allen should be linked from pages on Australian and New Zealand psilocybin mushrooms.
+John W. Allen should be linked from pages on Australian and New Zealand [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]].
 He should also be linked from pages on *Psilocybe samuiensis*, Koh Samui field records, and *Copelandia* documentation.
 His entity page helps separate the person from the many species pages he appears in.
 It also helps distinguish field documentation from the biological entities being documented.
 For this wiki, Allen is a high-value entity because his name appears repeatedly in source-based concept pages.
 He connects [[copelandia-genus-species-guide]], and [[gaston-guzman]]
-- [[allen-magic-mushrooms-australia-newzealand-species-guide]]
+- allen-magic-mushrooms-australia-newzealand-species-guide
 - [[copelandia-genus-species-guide]]
 - [[psilocybin-mushroom-cultural-artifacts]]

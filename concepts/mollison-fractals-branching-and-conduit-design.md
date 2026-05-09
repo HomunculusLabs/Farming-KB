@@ -48,7 +48,7 @@ Looking down on a bare winter-deciduous tree, we see a typical
 fractal, which we can also find in the fulgurites (sand fused by
 lightning) in sand dunes, and in the shatter zones of explosions.
 Tree roots are, in fact, a slow shatter or explosion underground.
-One way to plant an apple tree in very hard ground is to detonate a
+One way to plant an [[comparison-apple-tree-care-vs-apple-guild-design]] in very hard ground is to detonate a
 small plug of gelignite a foot or two below the surface; the roots
 will follow the shatter pattern, and further elaborate it.
 
@@ -57,7 +57,7 @@ will follow the shatter pattern, and further elaborate it.
 Fractal theory may give us a way to measure, compute, and design for
 branched or scattered phenomena, but we also need to understand the
 physical advantages of developing ever smaller conduits. Large
-conduits are of use in mass transport, but both the laminar flow
+conduits are of use in mass transport, but both the [[comparison-laminar-flow-hood-vs-fruiting-chamber]]
 patterns within them and the fact that they have a small surface area
 relative to their volume makes them inefficient for the diffusion of
 materials or the conduction of heat across their walls.
@@ -117,7 +117,7 @@ to create spirals in fluids or gases by bending or spiralling the
 conduits themselves.
 
 This principle of redundancy through branching is directly applicable
-to permaculture design: multiple access routes, multiple water
+to [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]: multiple access routes, multiple water
 distribution paths, multiple species performing similar functions, and
 multiple yields from a single element all contribute to system
 resilience.

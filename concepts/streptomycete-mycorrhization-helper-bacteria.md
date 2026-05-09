@@ -1,5 +1,5 @@
 ---
-title: "Streptomycete Mycorrhization Helper Bacteria"
+title: "Streptomycete streptomycete mycorrhization helper bacteria Bacteria"
 created: 2026-04-28
 tags: [mycorrhiza, helper-bacteria, actinomycetes, biocontrol, tripartite-symbiosis]
 date: 2026-04-25
@@ -16,7 +16,7 @@ that promote the establishment and functioning of mycorrhizal symbioses. Among
 the most intensively studied MHB are actinomycetes of the genus Streptomyces,
 Gram-positive filamentous bacteria isolated from the rhizosphere and
 mycorrhizosphere of forest trees. These organisms have emerged as key players
-in tripartite interactions between bacteria, mycorrhizal fungi, and host
+in tripartite interactions between bacteria, [[arbuscular-mycorrhizal-fungi-biology-symbiosis]], and host
 plants, with significant implications for forest ecology, plant health, and
 the development of microbial inoculants for sustainable forestry and
 agriculture.
@@ -28,11 +28,11 @@ The concept of mycorrhization helper bacteria was formalized by Garbaye in
 without being strictly required for the symbiosis. Streptomycete MHB were
 identified from the rhizosphere of a Norway spruce (Picea abies) stand,
 where one isolate designated Streptomyces sp. AcH 505 was shown to
-significantly promote both the mycelial growth and mycorrhization rate of
+significantly promote both the [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] and mycorrhization rate of
 the ectomycorrhizal fungus [[mycorrhization-helper-bacteria]] for broader MHB coverage
-- [[fungal-bacterial-coculture-bioremediation]] for bacterial-fungal
+- fungal-bacterial-coculture-bioremediation for bacterial-fungal
   partnerships
-- [[mycorrhizal-pathogen-resistance]] for plant defense modulation
+- mycorrhizal-pathogen-resistance for plant defense modulation
 ## Practical Applications
 
 Streptomycete Mycorrhization Helper Bacteria has a range of practical applications that make it relevant to
@@ -110,4 +110,9 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[mycorrhization-helper-bacteria]]
+- [[ectomycorrhiza]]
+- [[mycorrhizal-fungi]]
+- [[mycorrhiza-helper-bacteria-fungal-interactions]]
+- [[mycorrhizal-helper-bacteria]]

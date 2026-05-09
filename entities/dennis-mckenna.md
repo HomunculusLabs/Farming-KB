@@ -30,17 +30,16 @@ Dennis McKenna (born 1950) is an American ethnobotanist, pharmacognosist, and au
 ## Key Contributions
 
 - **"The Invisible Landscape" (1975):** Co-authored with Terence, presenting their experiences at La Chorrera (Amazon, 1971) and the "experiment at La Chorrera" involving tryptamines and hyper-carbon media theory.
-- **"Psilocybin: Magic Mushroom Grower's Guide" (1976):** Published under pseudonyms Oss and Oeric with Terence. This was one of the first practical guides to [[psilocybin-mushroom-cultivation]], introducing techniques that preceded PF TEK.
+- **"Psilocybin: [[australian-magic-mushroom-common-names]] Grower's Guide" (1976):** Published under pseudonyms Oss and Oeric with Terence. This was one of the first practical guides to [[psilocybin-cultivation]], introducing techniques that preceded PF TEK.
 - **Plant chemistry research:** Specialist in the pharmacology and chemistry of ayahuasca, psilocybin, and other ethnobotanicals. Research on beta-carboline alkaloids, DMT metabolism, and MAO inhibition.
-- **"Tryptamine Hallucinogens and Consciousness" (1990s):** Academic paper on the neuropharmacology of tryptamines, serotonin receptors, and the relationship between these compounds and consciousness states.
+- **"[[mckenna-tryptamine-hallucinogens-and-consciousness]] and Consciousness" (1990s):** Academic paper on the neuropharmacology of tryptamines, serotonin receptors, and the relationship between these compounds and consciousness states.
 - **Ethnopharmacology advocacy:** Has served on the board of the Heffter Research Institute and lectured extensively on the science of psychedelics.
-
 
 ## "Tryptamine Hallucinogens and Consciousness" (1992)
 
 Co-presented with Terence at the Lilly/Goswami Conference on Consciousness and Quantum Physics at Esalen (December 1983). Key scientific arguments:
-- Quantum mechanical correlates to hallucinogenesis exist — moving one atom on a molecular ring can convert an inactive compound to a highly active one, demonstrating "dynamic linkage at the formative level between quantum mechanically described matter and mind"
-- Tryptamine hallucinogens are unique in their intensity and concentration in the visual cortex — "immense vividness to these interior landscapes, as if information were being presented three-dimensionally and deployed fourth-dimensionally, coded as light and as evolving surfaces"
+- [[mckenna-quantum-mechanical-correlates-hallucinogenesis]] correlates to hallucinogenesis exist — moving one atom on a molecular ring can convert an inactive compound to a highly active one, demonstrating "dynamic linkage at the formative level between quantum mechanically described matter and mind"
+- Tryptamine hallucinogens are unique in their intensity and concentration in the [[mckenna-dmt-visual-cortex-intensity-fourth-dimensional-light-deployment]] — "immense vividness to these interior landscapes, as if information were being presented three-dimensionally and deployed fourth-dimensionally, coded as light and as evolving surfaces"
 - Dreams and hallucinations are "the major quantum mechanical phenomena that we all experience" — they occur when sensory radiation is restricted, revealing "interior images and interior processes that are psycho-physical"
 
 ## Biography
@@ -69,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

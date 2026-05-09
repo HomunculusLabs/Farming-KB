@@ -1,5 +1,5 @@
 ---
-title: Volunteer Primordia Formation on Agar Media
+title: growing gourmet volunteer primordia agar media Formation on Agar Media
 created: 2026-04-26
 tags:
   - mycology
@@ -30,7 +30,7 @@ spontaneously on the surface of agar culture media, without
 any deliberate environmental triggering by the cultivator.
 Their formation indicates that the mycelium has reached a
 state of developmental maturity sufficient to initiate
-the [[growing-gourmet-mushroom-life-cycle]]
+the growing-gourmet-mushroom-life-cycle
 is the mycelial path leading to primordia formation. To this
 end, the mushroom and the cultivator share common goals.
 
@@ -44,10 +44,10 @@ include:
 
   - Agrocybe aegerita (Black Poplar Mushroom)
   - Flammulina velutipes (Enokitake)
-  - Ganoderma lucidum (Reishi)
-  - Pleurotus cystidiosus (Abalone Oyster)
-  - Coprinus comatus (Shaggy Mane)
-  - Hypholoma capnoides (Clustered Woodlover)
+  - [[stamets-reishi-ganoderma-lucidum-cultivation]] (Reishi)
+  - Pleurotus cystidiosus ([[growing-gourmet-abalone-oyster-cystidiosus-cultivation]])
+  - [[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]] (Shaggy Mane)
+  - [[growing-gourmet-hypholoma-capnoides-cultivation]] (Clustered Woodlover)
   - Hypholoma sublateritium (Kuritake)
   - [[growing-gourmet-primordia-formation-pinning]],
 result in a quantum leap in the vigor of growth and in the
@@ -56,7 +56,7 @@ however, the damaged primordia revert to vegetative growth.
 
 Species that benefit from the timely disturbance of
 developing primordia are excellent candidates for
-[[growing-gourmet-nutrified-agar-media]],
+growing-gourmet-nutrified-agar-media,
 once characteristic of a strain, can serve as a benchmark
 for [[growing-gourmet-strain-senescence-degeneration]].
 Speed of growth decelerates. If not entirely dying out, the
@@ -64,7 +64,7 @@ strain is reduced to an anemic state of slow growth,
 eventually incapable of fruiting.
 
 For [[growing-gourmet-button-mushroom-agaricus-cultivation]]
-(Agaricus bisporus) is the classic example, requiring
+([[genetic-improvement-agaricus-bisporus-molecular-approaches]]) is the classic example, requiring
 specific bacterial partners in the casing layer to trigger
 primordia formation. This is an important consideration
 when evaluating candidate strains for cultivation potential
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

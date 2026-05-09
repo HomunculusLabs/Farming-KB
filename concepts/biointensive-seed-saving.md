@@ -1,5 +1,5 @@
 ---
-title: Biointensive Seed Saving
+title: Biointensive comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Biointensive Seed Saving
 
-Seed saving is integral to the [[biointensive-carbon-farming]] support: Ensures availability of calorie crop seeds, which are often harder to source than common vegetable seeds
+Seed saving is integral to the [[biointensive-carbon-farming]] support: Ensures availability of [[jeavons-carbon-and-calorie-crop-integration]] seeds, which are often harder to source than common vegetable seeds
 5. **Cost reduction**: Seeds are a recurring expense; saving eliminates this cost permanently
 
 ## Open-Pollinated vs. Hybrid
@@ -17,7 +17,7 @@ Seed saving is integral to the [[biointensive-carbon-farming]] support: Ensures 
 GB exclusively uses open-pollinated (OP) varieties because:
 
 - OP varieties breed true from seed (offspring resemble parents)
-- Hybrid seeds do not breed true (F2 generation shows unpredictable variation)
+- [[heirloom-vs-hybrid-seeds-comparison]] do not breed true (F2 generation shows unpredictable variation)
 - OP varieties can be improved over time through selection
 - Genetic diversity within OP varieties provides resilience
 
@@ -45,11 +45,11 @@ GB seed saving emphasizes selecting for:
 
 - **Vigor**: Strong, healthy plants with good growth
 - **Disease resistance**: Plants that resist local pest/disease pressures
-- **Climate adaptation**: Plants that thrive in local temperature/moisture conditions
+- **[[jeavons-climate-adaptation-growing-seasons]]**: Plants that thrive in local temperature/moisture conditions
 - **Yield**: Highest producers of calories or biomass
 - **Taste and nutrition**: Flavor quality and nutrient density
 - **Early maturity**: Shorter season varieties are more reliable
-- **Seed production**: Plants that set good seed in your conditions
+- **[[cervantes-seed-production-storage]]**: Plants that set good seed in your conditions
 
 ## Seed Saving by Crop Type
 
@@ -66,7 +66,7 @@ Carrots, beets, onions, brassicas: Must overwinter (vernalization) and flower in
 
 Seeds must be stored:
 
-- **Dry**: Below 8% moisture (use silica gel packets)
+- **Dry**: Below 8% moisture (use [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] packets)
 - **Cool**: Ideally 32-50 deg F; refrigerator for longest storage
 - **Dark**: Light degrades some seeds
 - **Labeled**: Variety name, year, source, selection notes

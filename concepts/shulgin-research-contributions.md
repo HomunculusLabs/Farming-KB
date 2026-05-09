@@ -27,7 +27,7 @@ Shulgin's approach combined rigorous organic chemistry with systematic human pha
 1. **Rational design**: Based on SAR principles, predicting which structural modifications would produce psychoactive compounds
 2. **Synthesis**: Detailed, reproducible synthetic procedures with analytical verification (NMR, melting point, microanalysis)
 3. **Human evaluation**: Graduated dose testing with written experience reports from a research group
-4. **Documentation**: Comprehensive recording of synthesis, dosage, duration, qualitative effects, and SAR analysis
+4. **Documentation**: Comprehensive recording of synthesis, dosage, duration, [[mdma-qualitative-effects-phenomenology]], and SAR analysis
 5. **Publication**: Open sharing of results through both peer-reviewed literature and popular books
 
 ## Key Chemical Discoveries
@@ -77,7 +77,7 @@ Many of Shulgin's discoveries were scheduled as controlled substances, often thr
 
 ### Cultural Legacy
 - PIHKAL and TIHKAL remain definitive references in psychedelic chemistry
-- The "Shulgin rating scale" (his dosage and effect documentation system) is widely used
+- The "[[tihkal-shulgin-rating-scale]] scale" (his dosage and effect documentation system) is widely used
 - His advocacy for therapeutic use of psychedelics contributed to the current psychedelic renaissance
 - The transparency of his work — publishing full synthesis procedures — has been both praised (for openness) and criticized (for enabling illicit synthesis)
 

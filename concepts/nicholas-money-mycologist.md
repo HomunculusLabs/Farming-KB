@@ -34,10 +34,10 @@ beauty. The village experienced population growth in the 1960s as new
 homes consumed surrounding wheat fields and dairy farms. An untended
 apple orchard belonging to a village milkman named Mr. Bloomfield
 bordered his home, its dying trees consumed by bitter rot, black rot,
-blossom end rot, canker, rust, powdery mildew, and scab.
+blossom end rot, canker, rust, [[cervantes-powdery-mildew-prevention-treatment]], and scab.
 
-As an undergraduate, Money studied [[spore-dispersal]], chemical signaling, and the
-history of mycology. Each chapter profiles notable figures in the field,
+As an undergraduate, Money studied [[spore-dispersal]], [[plant-hormones-and-chemical-signaling-systems]], and the
+[[bloomfield-history-of-mycology-pioneers]]. Each chapter profiles notable figures in the field,
 including A. H. R. Buller, Curtis Gates Lloyd, Cecil Terence Ingold,
 and John Webster.
 
@@ -51,7 +51,7 @@ accounts of groundbreaking discoveries by earlier mycologists.
 
 The nine chapters progress from the dramatic biology of stinkhorns and
 puffballs, through the insidious world of pathogenic fungi and the
-hidden networksmyceliumlium, to the chemistry of fungal signaling, the
+hidden networksmyceliumlium, to the chemistry of [[plant-fungal-signaling-mycorrhiza]], the
 lethal beauty of toxic mushrooms, and finally to the human stories of
 the mycologists who dedicated their lives to understanding fungi.
 
@@ -63,11 +63,11 @@ hyphal extension, the physics of spore discharge, and the relationship
 between fungal form and function. His experimental work on water mold
 cell walls demonstrated correlations between enzyme secretion and wall
 plasticity that supported models of hormone-induced morphogenesis in
-fungal reproduction.
+[[bloomfield-fungal-reproduction-and-chemical-communication]].
 
 He has also contributed to understanding the role of water in fungal
 biology, documenting how water acts as an internal skeleton in mycelia
-and mushrooms, powers invasive growth, and is indispensable for
+and mushrooms, powers [[fungal-hyphae-invasive-growth-mechanisms]], and is indispensable for
 drop-driven catapults and other spore-launching mechanisms. His research
 approach combines biophysical measurement with ecological and
 evolutionary interpretation.
@@ -99,7 +99,7 @@ and the aerodynamics of spore liberation.
 - [[ingold-cecil-t]]
 - [[terence-ingold-mycologist]]
 
-- [Terence Ingold (Mycologist)](terence-ingold-mycologistfungal-spore-biology Biology](fungal-spore-biofungal-chemical-signalingal Signaling](fungal-chemical-smycelium-networkMycelium Network]([[mycelium-network]].md)
+- [Terence Ingold (Mycologist)](terence-ingold-mycologistfungal-spore-biology Biology](fungal-spore-biofungal-chemical-signalingal Signaling](fungal-chemical-smycelium-networkMycelium Network](mycelium-network.md)
 
 ## References
 

@@ -1,5 +1,5 @@
 ---
-title: Cordyceps: Insect Pathogens and Behavioral Manipulation
+title: Cordyceps: bloomfield cordyceps insect pathogens behavior and Behavioral Manipulation
 created: 2026-04-28
 tags: [cordyceps, entomopathogenic-fungi, insect-pathogen, behavioral-control,
       summit-disease, ascomycete, zombie-fungus, biological-control]
@@ -10,9 +10,9 @@ sources:
 type: concept
 ---
 
-Cordyceps is a genus of entomopathogenic fungi that parasitize insects
+Cordyceps is a genus of [[singh-entomopathogenic-fungi-biocontrol-agents]] that parasitize insects
 and other arthropods, producing some of the most extraordinary and
-macabre life cycles in the fungal kingdom. Their ability to manipulate
+macabre [[bloomfield-rust-fungi-life-cycles-barberry-wheat]] in the fungal kingdom. Their ability to manipulate
 the behavior of their hosts has made them icons of biological
 complexity and subjects of intense scientific investigation.
 
@@ -53,7 +53,7 @@ called "brainjacking" by some researchers.
 produces toxins that cause blood vessels to constrict so powerfully
 that extremities become gangrenous. The vasoconstricting poison
 ergotamine survives baking, and most poisoning cases resulted from
-contaminated rye bread. The fungus also synthesizes lysergic acid
+contaminated rye bread. The fungus also synthesizes [[ergot-and-lysergic-acid-history]]
 amide (isoergine), a less potent relative of LSD, causing terrifying
 hallucinations alongside the gangrene.
 
@@ -72,7 +72,7 @@ fungus's inability to thrive in dry conditions.
 
 - [[bloomfield-fungal-pathogens-and-parasites]] for fungal
   pathogens of animals including humans
-- [[bloomfield-mushroom-poisons-and-toxidromes]] for other
+- bloomfield-mushroom-poisons-and-toxidromes for other
   fungal toxins and their effects
 ## Practical Considerations
 
@@ -92,4 +92,6 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+- [[lysergic-acid]]
+- [[entomopathogenic-fungal-diversity-cordyceps-insect-pathogens]]
+- [[cordyceps-insect-pathogenic-fungi]]

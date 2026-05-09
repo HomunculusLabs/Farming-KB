@@ -1,5 +1,5 @@
 ---
-title: Bioreactor Design for Fungal Bioremediation
+title: mycoremediation-bioreactor-design-considerations for staycare-composting-as-a-fungal-bioremediation-strategy
 created: 2026-04-28
 tags:
   - bioreactors
@@ -15,7 +15,7 @@ type: concept
 ---
 
 # Bioreactor Design for [[singh-white-rot-fungi-lignin-modifying-enzymes]]) requires oxygen. Packed beds are often aerated by concurrent or
-  countercurrent air flow, with dissolved oxygen maintained above critical
+  countercurrent air flow, with [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] maintained above critical
   thresholds (typically >2 mg/L).
 - **Pressure drop**: Biofilm growth and gas evolution increase bed resistance
   over time, requiring monitoring and backwashing or bed replacement cycles.
@@ -38,8 +38,8 @@ of filamentous fungi and is particularly relevant for:
   temperature.
 - **Spent substrate treatment**: Composting and fungal treatment of organic
   waste materials contaminated with pesticides or other organics.
-- **Enzyme production**: SSF often yields higher titers of ligninolytic
-  enzymes than submerged fermentation, as the low water activity environment
+- **[[ligninolytic-enzyme-production-bioremediation]]**: SSF often yields higher titers of ligninolytic
+  enzymes than [[cancer-medicinal-mushrooms-submerged-fermentation-production]], as the low water activity environment
   more closely induces natural ligninolytic physiology.
 
 SSF reactor designs include tray reactors, rotating drums, packed bed reactors
@@ -69,7 +69,7 @@ Effective bioreactor operation requires monitoring of:
 ## Scale-Up Considerations
 
 Scaling fungal bioremediation from laboratory to field scale requires attention
-to mass transfer limitations, heat dissipation, inoculum production (see
+to mass transfer limitations, heat dissipation, [[arbuscular-mycorrhizal-inoculum-production-best-practices]] (see
 [[singh-white-rot-fungi-lignin-modifying-enzymes]]
 - [[singh-mushroom-spawn-production-grain-spawn]]
 - [[singh-composted-fungal-biomass-heavy-metal-immobilization]]
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

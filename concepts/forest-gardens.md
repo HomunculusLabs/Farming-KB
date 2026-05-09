@@ -2,9 +2,9 @@
 
 ## Overview
 
-A forest garden (also called a [[permaculture-design]] at the garden scale, combining guilds, polycultures, and ecological succession into a unified whole.
+A forest garden (also called a [[permaculture-design]] at the garden scale, combining guilds, polycultures, and [[holmgren-ecological-succession-and-pulsing]] into a unified whole.
 
-The concept draws from millennia of traditional agroforestry practices, particularly the tropical home gardens of Southeast Asia, West Africa, and Latin America, where indigenous peoples have maintained highly productive multistoried food systems beneath forest canopies. Temperate-climate forest gardening is a newer field, with only a few mature examples existing in North America and Europe.
+The concept draws from millennia of traditional agroforestry practices, particularly the tropical home gardens of Southeast Asia, West Africa, and Latin America, where indigenous peoples have maintained highly productive multistoried food systems beneath forest canopies. Temperate-climate forest gardening is a newer field, with only a few mature examples existing in [[psilocybin-north-america-pacific-northwest]] and Europe.
 
 ## Why Forest Gardens
 
@@ -17,8 +17,8 @@ The rationale is compelling:
 - **Low maintenance once established**: Thick vegetation cover reduces water needs, smothers weeds, and renews soil through self-mulching and natural soil building. Mostly perennial plants mean no tilling and minimal seasonal replanting.
 - **Maximum wildlife habitat**: The layered structure provides nesting, foraging, and shelter opportunities for birds, insects, amphibians, and small mammals.
 - **Soil building**: Trees produce leaf litter that builds humus. Deep roots break up compacted soil and bring minerals to the surface. The fungal networks of forest soils cycle nutrients efficiently.
-- **Climate moderation**: Tree canopies reduce temperature extremes, slow wind, and create microclimates favorable to a wider range of species.
-- **Erosion control**: Tree roots and perennial ground covers hold soil on slopes and in waterways far more effectively than annual crops.
+- **Climate moderation**: Tree canopies reduce temperature extremes, slow wind, and [[query-how-do-i-create-microclimates-in-my-garden]] favorable to a wider range of species.
+- **[[permplant-willows-salix-erosion-control-fodder]]**: Tree roots and perennial ground covers hold soil on slopes and in waterways far more effectively than annual crops.
 
 ## The Seven Layers of a Forest Garden
 
@@ -34,7 +34,7 @@ Smaller trees reaching 3–9 meters — dwarf and semi-dwarf fruit trees (plum, 
 Woody plants from 1–3 meters — berry bushes (blueberry, currant, gooseberry, raspberry, blackberry), flowering shrubs that attract pollinators (butterfly bush, ceanothus), and fruiting shrubs (elderberry, seaberry, goumi). The shrub layer is often the most productive layer per unit area in terms of food yield.
 
 ### 4. Herbaceous Layer
-Non-woody perennials — culinary herbs (thyme, oregano, mint, sage), medicinal herbs (comfrey, echinacea, yarrow), [[jerusalem-artichoke]], daikon radish, oca, mashua, and yacon. Deep-rooted species like comfrey and dandelion also occupy this layer, mining minerals from deep soil.
+Non-woody perennials — [[holzer-medicinal-and-culinary-herbs-compendium]] (thyme, oregano, mint, sage), medicinal herbs (comfrey, echinacea, yarrow), [[jerusalem-artichoke]], daikon radish, oca, mashua, and yacon. Deep-rooted species like comfrey and dandelion also occupy this layer, mining minerals from deep soil.
 
 ### 7. Vine Layer
 Climbing plants that use trees and shrubs as support — hardy kiwi, grapes, passionflower, hops, climbing beans, honeysuckle, and trumpet vine. Vines exploit the vertical space between ground and canopy, producing food and flowers without requiring additional ground area.
@@ -58,7 +58,7 @@ Key design considerations:
 
 ### Species Selection
 
-Every plant should serve multiple functions. A nitrogen-fixing shrub might also provide berries, attract pollinators, and produce mulch. An herbaceous perennial might be edible, medicinal, and insectary. Multifunctional species are the hallmark of ecological design — nature's principle that nothing does just one thing.
+Every plant should serve multiple functions. A nitrogen-fixing shrub might also provide berries, attract pollinators, and produce mulch. An herbaceous perennial might be edible, medicinal, and insectary. Multifunctional species are the hallmark of [[williams-pdc-ecological-design-principles]] — nature's principle that nothing does just one thing.
 
 ### Climate Adaptation
 
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

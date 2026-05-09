@@ -25,7 +25,7 @@ introduces carbon compounds from burned paper into the lungs. The
 largest population-based case-controlled study ever conducted on
 cannabis-only use (2,252 people in Los Angeles) found that smoking
 only cannabis was mildly lung-protective and not associated with
-increased lung cancer risk. However, to minimize any potential risk of
+increased [[psk-breast-lung-cancer-clinical-trials]] risk. However, to minimize any potential risk of
 negative consequences, many patients prefer alternative methods.
 
 ## Vaporization
@@ -43,7 +43,7 @@ administration.
 
 Cannabis can be cooked into foods such as cookies, brownies, or savory
 dishes. Cannabis is usually added to recipes in the form of herbed
-butter, infused oils, or tinctures. When eaten, it may take 45 minutes
+butter, [[query-how-to-make-herbal-infused-oils-at-home]], or tinctures. When eaten, it may take 45 minutes
 to an hour and a half for cannabis to be absorbed through the
 gastrointestinal tract. The effects of consumed cannabis tend to be
 delayed, last much longer, and are noticeably different compared to the
@@ -51,7 +51,7 @@ effects of inhalation.
 
 Important dosing note: Many patients have made the mistake of eating
 cannabis and thinking "I'm not feeling anything," then continuing to
-eat until adverse effects occur. If too much is ingested, effects may
+eat until [[blesching-cannabis-safety-adverse-effects-evidence]] occur. If too much is ingested, effects may
 last many hours and can be intense and very unpleasant. Always start
 with a small measured amount and wait at least one hour (two hours on a
 full stomach) before increasing the dose.
@@ -64,7 +64,7 @@ hour to feel the effect, then slowly increase by a couple of drops
 until the desired therapeutic effect is achieved. Many patients start
 with 3 or 4 drops and work from there. Oil or tinctures can easily be
 made at home or bought at most dispensaries. Since most products are
-not standardized, the therapeutic window may need to be re-established
+not standardized, the [[blesching-cannabis-therapeutic-window-dosing]] may need to be re-established
 with each new bottle.
 
 Alcohol or glycerin may be used as a medium to dissolve plant material
@@ -140,8 +140,8 @@ The choice of administration method depends on several factors:
 
 ## See Also
 
-- [[cannabis-health-pain-management]] — how different administration methods affect pain treatment outcomes
-- [[cannabis-health-strains-sativa-indica]] — how strain selection relates to preferred administration routes
+- [[cannabis-health-pain-management]] — how different [[cannabis-administration-methods-comparison]] affect pain treatment outcomes
+- [[cannabis-health-strains-sativa-indica]] — how [[blesching-cannabis-strain-selection-receptor-targeting]] relates to preferred administration routes
 
 ## See Also
 

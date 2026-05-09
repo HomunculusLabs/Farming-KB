@@ -58,7 +58,7 @@ Flowers are small (2–3 mm), with 5 tepals. Female flowers produce a dehiscent 
 
 ## Distribution and History
 
-*Amaranthus tricolor* is believed to have originated in tropical Asia, likely in India or Southeast Asia. It has been cultivated for centuries across South and Southeast Asia.
+*Amaranthus tricolor* is believed to have originated in tropical Asia, likely in India or [[psilocybe-southeast-asia-pacific]]. It has been cultivated for centuries across South and Southeast Asia.
 
 The species spread to Africa through trade routes and is now established as a traditional vegetable throughout West, East, and Southern Africa. It was introduced to the Americas and Caribbean more recently.
 
@@ -68,7 +68,7 @@ The ornamental varieties were extensively developed in Victorian-era European ho
 
 ## Nutritional Value
 
-*Amaranthus tricolor* is among the most nutritious leafy vegetables, with exceptionally high concentrations of vitamins, minerals, and bioactive compounds.
+*Amaranthus tricolor* is among the most nutritious leafy vegetables, with exceptionally high concentrations of vitamins, minerals, and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]].
 
 Protein content of fresh leaves ranges from 3–5%, with dried leaves reaching 25–35%. The protein quality is high, with a favorable amino acid profile including substantial lysine (5–6% of protein).
 
@@ -84,15 +84,15 @@ The leaves contain significant amounts of phenolic compounds, including betalain
 
 *Amaranthus tricolor* is adapted to warm climates and grows best at 25–35°C. It is intolerant of frost and performs poorly below 15°C.
 
-The crop tolerates a wide range of soil types but prefers well-drained, fertile loams with pH 5.5–7.0. It has moderate drought tolerance once established but produces best with regular moisture.
+The crop tolerates a wide range of soil types but prefers well-drained, fertile loams with pH 5.5–7.0. It has moderate [[dighton-fungal-drought-tolerance-plant-water-relations]] once established but produces best with regular moisture.
 
-Direct seeding is the standard practice, with seed rate of 2–5 kg/ha. Seeds are sown shallowly (0.5–1 cm depth) in rows 30–50 cm apart. Germination occurs within 3–7 days.
+[[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] is the standard practice, with seed rate of 2–5 kg/ha. Seeds are sown shallowly (0.5–1 cm depth) in rows 30–50 cm apart. Germination occurs within 3–7 days.
 
 Leaf harvest begins 20–30 days after sowing, with successive cuttings every 10–15 days for 2–4 months. The whole-plant harvest method (cutting at ground level) allows regrowth for multiple harvests.
 
 Yields of fresh leaves range from 10–30 tonnes/ha depending on variety, management, and harvest frequency. Ornamental cultivars are grown for 60–90 days before full color development.
 
-Pest and disease pressure includes leaf-chewing insects (caterpillars, beetles), aphids, and fungal leaf spots. The crop is relatively disease-resistant compared to many leafy vegetables.
+[[hamilton-pest-and-disease-control-organic]] pressure includes leaf-chewing insects (caterpillars, beetles), aphids, and fungal leaf spots. The crop is relatively disease-resistant compared to many leafy vegetables.
 
 ## Uses and Varieties
 
@@ -104,7 +104,7 @@ In West Africa, particularly Nigeria and Benin, *A. tricolor* is an important tr
 
 Ornamental varieties include 'Illumination', 'Early Splendor', 'Joseph's Coat', and 'Molten Fire'. These are selected for their vivid, multi-colored foliage and are widely used in summer bedding displays.
 
-The seeds are edible and nutritionally similar to other amaranth grains, but *A. tricolor* is primarily harvested for leaves rather than grain. Grain production requires longer season length.
+The seeds are edible and nutritionally similar to other amaranth grains, but *A. tricolor* is primarily harvested for leaves rather than grain. [[fukuoka-no-till-grain-production-method]] requires longer season length.
 
 ## See Also
 

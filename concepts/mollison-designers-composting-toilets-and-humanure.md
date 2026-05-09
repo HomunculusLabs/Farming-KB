@@ -1,5 +1,5 @@
 ---
-title: Composting Toilets and Humanure in Permaculture
+title: Composting composting-toilet-systems in Permaculture
 created: 2026-04-28
 tags:
   - permaculture
@@ -16,8 +16,8 @@ type: concept
 # Composting Toilets and Humanure in Permaculture
 
 The cycling of human waste back into productive systems is one of the most
-important yet most contentious aspects of permaculture design. In the
-Permaculture Designers Manual, Mollison argues that the conventional
+important yet most contentious aspects of [[mollison-permaculture-design-course-curriculum]]. In the
+Permaculture [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]], Mollison argues that the conventional
 approach of mixing human excreta with clean water and discharging it into
 waterways represents a catastrophic waste of both water and nutrients. He
 presents composting toilets and managed humanure cycling as essential
@@ -41,19 +41,19 @@ process more efficient.
 ## Integration with Permaculture Systems
 
 Composting toilets integrate naturally into broader permaculture design.
-The finished compost feeds mollison designers fruit tree care and pruning, [[mollison-designers-humus-building-and-soil-organic-matter]] programmes.
+The finished compost feeds mollison designers [[comparison-berry-growing-vs-fruit-tree-pruning]] care and pruning, [[mollison-designers-humus-building-and-soil-organic-matter]] programmes.
 The carbon-rich bulking materials used in composting toilets can come
 from on-site sources such as sawdust from timber milling, straw from
 cereal crops, or shredded newspaper. The water saved by not flushing
-conventional toilets reduces demand on [[mollison-designers-settlement-village-design]] systems.
+conventional toilets reduces demand on mollison-designers-settlement-village-design systems.
 Mollison envisioned integrated village systems where sanitation, food
-production, and nutrient cycling form a closed loop with no waste streams.
+production, and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] form a closed loop with no waste streams.
 
 ## Cross-References
 
 - [[mollison-designers-rainwater-harvesting-swale-systems]]: Water conservation
 - [[mollison-designers-mixed-orchard-design-species-selection]]: Tree fertilisation
-- [[mollison-designers-settlement-village-design]]: Community sanitation
+- mollison-designers-settlement-village-design: Community sanitation
 ## Practical Considerations
 
 When working with Composting Toilets and Humanure in Permaculture, several practical factors should be
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,3 +113,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[solomon-humanure-recycling-and-composting]]

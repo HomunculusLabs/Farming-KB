@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Ryvarden, L. & Gilbertson, R.L. (1993). "European Polypores. Part 1." Synopsis Fungorum 6: 1-387.
   - Pegler, D.N. & Spencer, D.M. (2001). "The British Basidiomycota." Royal Botanic Gardens, Kew.
-  - Wasser, S.P. (2002). "Medicinal mushrooms as a source of antitumor and immunomodulating polysaccharides." Applied Microbiology and Biotechnology 60(3): 258-274.
+  - Wasser, S.P. (2002). "[[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] as a source of antitumor and immunomodulating polysaccharides." Applied Microbiology and Biotechnology 60(3): 258-274.
   - Dai, Y.C. et al. (2006). "Wood-inhabiting fungi in southern China." Sylloge Fungorum 23: 1-338.
 ---
 
@@ -65,7 +65,7 @@ Spores are cylindrical to ellipsoid, hyaline, smooth, measuring 5–7 × 2–3 �
 
 ## Distribution and Habitat
 
-*I. resinosum* has a wide distribution across temperate regions of the Northern Hemisphere, found throughout Europe, Asia, and North America.
+*I. resinosum* has a wide distribution across temperate regions of the Northern Hemisphere, found throughout Europe, Asia, and [[psilocybin-north-america-pacific-northwest]].
 
 It is a saprotrophic brown-rot fungus that primarily colonizes dead or weakened standing hardwood trunks, stumps, and fallen logs.
 
@@ -81,17 +81,17 @@ In urban and suburban environments, *I. resinosum* occasionally appears on lands
 
 *I. resinosum* is a brown-rot decomposer, meaning it primarily degrades cellulose and hemicellulose while largely leaving lignin intact as a brown, crumbly residue.
 
-This contrasts with white-rot fungi (such as *Trametes versicolor*) that decompose lignin along with cellulose.
+This contrasts with white-rot fungi (such as *[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]*) that decompose lignin along with cellulose.
 
-Brown-rot fungi like *I. resinosum* employ a Fenton chemistry mechanism, generating hydroxyl radicals through iron reduction that depolymerize cellulose extracellularly.
+Brown-rot fungi like *I. resinosum* employ a [[bioremediation-fenton-chemistry-brown-rot-fungi]] mechanism, generating hydroxyl radicals through iron reduction that depolymerize cellulose extracellularly.
 
 The brown-rot decay pattern is ecologically significant because it releases cellulose-derived carbon while leaving lignin as a persistent soil organic matter component.
 
-In forest ecosystems, brown-rot fungi contribute to carbon cycling by accelerating the decomposition of coarse woody debris that would otherwise persist for decades.
+In forest ecosystems, brown-rot [[query-how-do-fungi-contribute-to-carbon-sequestration]] to carbon cycling by accelerating the decomposition of coarse woody debris that would otherwise persist for decades.
 
 ## Bioactive and Medicinal Properties
 
-Research into the medicinal potential of *I. resinosum* has identified several bioactive compounds, primarily polysaccharides and triterpenoids.
+Research into the medicinal potential of *I. resinosum* has identified several [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]], primarily polysaccharides and triterpenoids.
 
 Water-soluble polysaccharides extracted from the fruiting body have demonstrated immunomodulatory activity, stimulating macrophage activation and enhancing natural killer cell cytotoxicity in vitro.
 

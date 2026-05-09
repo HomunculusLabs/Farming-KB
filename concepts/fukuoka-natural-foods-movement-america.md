@@ -1,11 +1,12 @@
 ---
-title: Fukuoka — Natural Foods Movement in America
+title: Fukuoka — fukuoka natural foods movement america Movement in America
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # The Natural Foods Movement in America
@@ -22,13 +23,13 @@ The modern macrobiotic movement was founded in Japan by George Ohsawa. Today, hi
 
 ## The Erewhon Story
 
-Kushi's company, Erewhon, popularized organically grown grains, beans, vegetables, fruits, seaweeds, tofu, and tempeh throughout North America. Fukuoka was astonished to see natural foods like miso, soy sauce, and brown rice being exported from large plants and warehouses to the entire world.
+Kushi's company, Erewhon, popularized organically grown grains, beans, vegetables, fruits, seaweeds, tofu, and tempeh throughout [[psilocybin-north-america-pacific-northwest]]. Fukuoka was astonished to see natural foods like miso, soy sauce, and brown rice being exported from large plants and warehouses to the entire world.
 
 Kushi and his family went through times of hardship. His wife Aveline described their early struggles: "Fifteen years ago, I and three of the children were packing miso into bags for sale in a tiny room."
 
-By 1981, after natural foods spread around the world, the Kushis shifted from food production to education. Claiming that conventional schools are inadequate, Kushi began working to establish an international college based on principles of natural order. He established institutes in several countries teaching macrobiotic cooking, philosophy, and medicine, as well as spiritual development and the reconstruction of society in a more peaceful direction.
+By 1981, after natural foods spread [[fungi-around-the-world-species-distribution]], the Kushis shifted from food production to education. Claiming that conventional schools are inadequate, Kushi began working to establish an international college based on [[four-principles-of-natural-farming]] order. He established institutes in several countries teaching macrobiotic cooking, philosophy, and medicine, as well as spiritual development and the reconstruction of society in a more peaceful direction.
 
-Kushi also offered Fukuoka 550 acres in Ashburnham, Massachusetts, asking him to do as he pleased with the land, which was covered with mixed woods — an opportunity Fukuoka saw for natural farming and [[fukuoka-agricultural-pollution-and-consumer-culpability]]
+Kushi also offered Fukuoka 550 acres in Ashburnham, Massachusetts, asking him to do as he pleased with the land, which was covered with mixed woods — an opportunity Fukuoka saw for [[comparison-natural-farming-vs-permaculture]] and [[fukuoka-agricultural-pollution-and-consumer-culpability]]
 - Although natural foods are enjoying a boom in Japan, this "can't begin to compare with the scope of the movement in America"
 
 ## The Irony of Re-Import
@@ -68,7 +69,7 @@ Having noticed the danger to civilization and the disruption of their own body a
 
 ## The Fukuoka Difference: Farming, Not Just Food
 
-Fukuoka distinguished his own approach from the macrobiotic movement in an important way. While Kushi and Aihara focused on diet and food distribution, Fukuoka's concern extended to how food was grown. He told the people at Erewhon that if they worked with the mixed woods on Kushi's 550 acres in Massachusetts — growing shiitake mushrooms on sugar maple wood, for example — they "could become even richer than the Kushis." They broke out in laughter, which Fukuoka took as evidence that Americans had not yet grasped the potential of working with nature rather than against it.
+Fukuoka distinguished his own approach from the macrobiotic movement in an important way. While Kushi and Aihara focused on diet and food distribution, Fukuoka's concern extended to how food was grown. He told the people at Erewhon that if they worked with the mixed woods on Kushi's 550 acres in Massachusetts — growing [[query-how-to-grow-shiitake-mushrooms-on-logs]] on sugar maple wood, for example — they "could become even richer than the Kushis." They broke out in laughter, which Fukuoka took as evidence that Americans had not yet grasped the potential of working with nature rather than against it.
 
 This distinction reflects Fukuoka's broader teaching that [[fukuoka-change-come-over-westerners]].
 
@@ -93,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

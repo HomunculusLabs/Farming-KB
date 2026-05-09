@@ -1,5 +1,5 @@
 ---
-title: Lesser and Greater Eleusinian Mysteries
+title: Lesser and Greater mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Lesser and Greater Eleusinian Mysteries
 
-**Source:** The Road to Eleusis, Chapters I, III-IV — Wasson, Ruck
+**Source:** The [[the-road-to-eleusis-wasson-hofmann-ruck]], Chapters I, III-IV — Wasson, Ruck
 
 ## Overview
 
@@ -43,7 +43,7 @@ The Greater Mysteries involved an elaborate multi-day sequence:
 
 2. Assembly in Athens
 
-3. The [[wasson-hofmann-ruck-collaboration]] ceremony
+3. The  ceremony
 
 10. The vision in the telesterion
 
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

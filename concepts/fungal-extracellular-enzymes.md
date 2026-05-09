@@ -1,5 +1,5 @@
 ---
-title: Fungal Extracellular Enzymes
+title: dighton-fungal-extracellular-enzyme-systems-decomposition Enzymes
 created: 2026-04-28
 tags: mycology, biochemistry, enzymology, decomposition]
 date: 2026-04-28
@@ -16,7 +16,7 @@ organic polymers outside their cells. Unlike animals, which ingest and digest
 internally, fungi secrete enzymes into their surrounding environment, breaking
 down lignin, cellulose, chitin, and other recalcitrant compounds into
 absorbable monomers. This external digestion strategy underpins their critical
-role in global carbon cycling and enables their use in bioremediation.
+role in [[dighton-fungi-elevated-co2-global-carbon-cycling]] cycling and enables their use in bioremediation.
 
 ## Lignin-Degrading Enzyme Systems
 
@@ -29,7 +29,7 @@ is considered the more versatile lignin-degrading enzyme.
 Laccase (EC 1.10.3.2) is a multicopper oxidase that reduces molecular oxygen
 to water while oxidizing phenolic and some non-phenolic substrates. With
 appropriate mediator molecules, laccase can extend its substrate range to
-include non-phenolic lignin units, synthetic dyes, and environmental
+include non-phenolic lignin units, [[singh-fungal-degradation-of-synthetic-dyes-and-textile-waste]], and environmental
 pollutants. Laccases are also produced by many non-ligninolytic fungi and
 bacteria, reflecting their broad functional versatility.
 
@@ -44,8 +44,8 @@ cellobiose units from chain ends. Beta-glucosidases (EC 3.2.1.21) hydrolyze
 cellobiose to glucose, relieving end-product inhibition of the other enzymes.
 
 Brown-rot fungi employ a distinct cellulose-degrading strategy involving
-Fenton chemistry. They generate hydroxyl radicals through the reaction of
-hydrogen peroxide with Fe(II) at the hyphal surface. These radicals
+[[bioremediation-fenton-chemistry-brown-rot-fungi]]. They generate hydroxyl radicals through the reaction of
+[[cervantes-hydrogen-peroxide-sterilization]] with Fe(II) at the hyphal surface. These radicals
 non-enzymatically depolymerize cellulose, creating accessible oligosaccharides
 that are then metabolized by conventional cellulases. This approach bypasses
 the need for large enzyme complexes to penetrate crystalline cellulose.
@@ -54,7 +54,7 @@ the need for large enzyme complexes to penetrate crystalline cellulose.
 
 Chitinases (EC 3.2.1.14) hydrolyze beta-1,4-glycosidic bonds in chitin, the
 structural polysaccharide of fungal cell walls and insect exoskeletons. Fungi
-produce chitinases for self-cell wall remodeling during growth and branching,
+produce chitinases for self-cell wall remodeling during [[gadd-hyphal-tip-growth-and-branching-mechanisms]],
 for parasitizing other fungi (mycoparasitism), and for extracting nutrients
 from insect remains. Trichoderma species are prolific chitinase producers and
 use them as mycoparasitic weapons against plant pathogenic fungi.
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,6 +1,6 @@
 ---
-title: Blesching Cannabis Therapeutic Window Dosing
-source: Uwe Blesching - The [[cannabis-health-index]] (2015)
+title: Blesching blesching cannabis therapeutic window dosing Window Dosing
+source: Uwe Blesching - The cannabis-health-index (2015)
 source_id: uwe-blesching-the-cannabis-health-index
 tags: [cannabis, dosing, therapeutic-window, titration, tolerance, individualized-medicine, patient-guided-dosing]
 created: 2026-05-08
@@ -8,9 +8,9 @@ created: 2026-05-08
 
 # Cannabis Therapeutic Window and Individualized Dosing
 
-The therapeutic window of cannabis — the range between the minimum effective dose and the dose at which adverse effects outweigh benefits — is exceptionally wide and highly individual. Unlike most pharmaceuticals, where therapeutic windows are defined by [[cannabis-dosing-guidelines]] is complicated by the plant's chemical complexity, varied [[query-how-to-choose-the-right-pot-size-for-cannabis]]
+The therapeutic window of cannabis — the range between the minimum effective dose and the dose at which [[blesching-cannabis-safety-adverse-effects-evidence]] outweigh benefits — is exceptionally wide and highly individual. Unlike most pharmaceuticals, where therapeutic windows are defined by [[cannabis-dosing-guidelines]] is complicated by the plant's chemical complexity, varied [[query-how-to-choose-the-right-pot-size-for-cannabis]]
 
-In conventional pharmacology, the therapeutic index (TI) is the ratio between the toxic dose and the therapeutic dose. Cannabis has an extraordinarily high therapeutic index — the estimated lethal dose of THC is approximately 30mg/kg (roughly 1,500 THC cigarettes consumed simultaneously), while therapeutic doses typically range from 2.5mg to 50mg depending on the condition and administration route. However, this wide margin between lethality and efficacy does not mean that dosing is simple or without risk of adverse effects.
+In conventional pharmacology, the [[cannabis-therapeutic-index-overview]] (TI) is the ratio between the toxic dose and the therapeutic dose. Cannabis has an extraordinarily high therapeutic index — the estimated lethal dose of THC is approximately 30mg/kg (roughly 1,500 THC cigarettes consumed simultaneously), while therapeutic doses typically range from 2.5mg to 50mg depending on the condition and administration route. However, this wide margin between lethality and efficacy does not mean that dosing is simple or without risk of adverse effects.
 
 The practical therapeutic window for cannabis is better understood as the range between the minimum dose that produces noticeable therapeutic benefit and the dose at which unwanted side effects (anxiety, cognitive impairment, tachycardia, sedation) become intolerable. This window varies enormously between individuals due to differences in:
 
@@ -22,7 +22,7 @@ The practical therapeutic window for cannabis is better understood as the range 
 
 ## Patient-Guided Titration: The Self-Titration Method
 
-The standard approach to cannabis dosing relies on patient self-titration — the patient systematically adjusts their dose based on subjective experience. This approach is necessitated by the lack of standardized products and the wide inter-individual variation in response. The self-titration protocol follows these principles:
+The standard approach to [[blesching-cannabis-dosing-strategies]] relies on patient self-titration — the patient systematically adjusts their dose based on subjective experience. This approach is necessitated by the lack of standardized products and the wide inter-individual variation in response. The self-titration protocol follows these principles:
 
 1. **Start with the lowest possible dose**: For inhaled cannabis, this may be a single puff. For edibles, 2.5mg of THC. For tinctures, 1-2 drops.
 
@@ -42,7 +42,7 @@ Regular cannabis use leads to pharmacodynamic tolerance through CB1 receptor dow
 Periodic abstinence (typically 48 hours to 2 weeks) allows CB1 receptors to upregulate and restore sensitivity. Most patients report that tolerance begins to decrease within 3-7 days of abstinence, with significant restoration after 2-4 weeks. Planning tolerance breaks around treatment schedules can help maintain long-term efficacy.
 
 ### Cannabinoid Rotation
-Switching between products with different cannabinoid profiles can delay tolerance development. For example, alternating between a THC-dominant product and a CBD-dominant product, or rotating strains with different terpene profiles, may engage different receptor pathways and reduce the rate of tolerance accumulation.
+Switching between products with different cannabinoid profiles can delay tolerance development. For example, alternating between a THC-dominant product and a CBD-dominant product, or rotating strains with different [[cannabis-terpene-profiles-sativa]], may engage different receptor pathways and reduce the rate of tolerance accumulation.
 
 ### Microdosing
 Consuming sub-perceptual doses of cannabis — amounts too small to produce noticeable psychoactive effects — may provide therapeutic benefits while slowing tolerance development. While clinical evidence for microdosing is limited, the approach is supported by the known dose-response characteristics of cannabinoid receptors, where low-level activation can produce biological effects without triggering receptor desensitization.
@@ -70,7 +70,7 @@ Different conditions respond to different cannabinoid profiles and dosing strate
 - **Acute pain**: Rapid-onset routes (inhalation, sublingual) with THC-dominant products for immediate relief, complemented by CBD for anti-inflammatory effects
 - **Chronic pain**: Extended-duration routes (oral) with balanced THC:CBD ratios, often with scheduled dosing rather than as-needed
 - **Spasticity**: Regular dosing of THC-dominant products, with tolerance management through scheduled breaks
-- **Sleep disorders**: Oral administration 1-2 hours before bedtime, with indica-dominant or high-myrcene strains preferred
+- **[[cannabis-sleep-disorders-and-insomnia]]**: Oral administration 1-2 hours before bedtime, with indica-dominant or high-myrcene strains preferred
 - **Anxiety**: Low doses of THC combined with higher CBD ratios; excessive THC can paradoxically increase anxiety
 
 ## The Role of [[blesching-cannabis-modes-administration-pharmacokinetics]]
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

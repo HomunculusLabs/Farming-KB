@@ -20,7 +20,7 @@ created: 2026-05-07
 
 Gymnopus peronatus, commonly known as the wood woolly-foot, is a widespread saprotrophic basidiomycete mushroom in the family Omphalotaceae.
 
-It is found across temperate Europe and North America, fruiting on decaying hardwood litter, twigs, and woody debris from summer through autumn.
+It is found across temperate Europe and [[psilocybin-north-america-pacific-northwest]], fruiting on decaying hardwood litter, twigs, and woody debris from summer through autumn.
 
 The species was originally described as Agaricus peronatus by Jean-Baptiste François Pierre Bulliard in 1791 and has undergone several taxonomic revisions before its current placement in Gymnopus.
 
@@ -42,7 +42,7 @@ Spore print is white. Basidiospores are 6.5–9 × 3.5–5 μm, ellipsoid, smoot
 
 Gymnopus peronatus is found across temperate and boreal regions of Europe, from the British Isles and Scandinavia south to the Mediterranean.
 
-In North America it occurs primarily in the northeastern United States and southeastern Canada, with scattered reports from the Pacific Northwest.
+In North America it occurs primarily in the northeastern [[dmt-containing-plants-united-states-halpern]] and southeastern Canada, with scattered reports from the Pacific Northwest.
 
 It fruits gregariously on leaf litter, twigs, and small branches of hardwood trees, particularly oak, beech, and birch.
 
@@ -54,7 +54,7 @@ It is occasionally found on coniferous debris but strongly prefers hardwood subs
 
 Gymnopus peronatus is generally considered edible but is not widely collected for the table due to its small size and tough, fibrous texture.
 
-Its culinary value is low compared to more popular edible mushrooms, and it is often described as bland or insipid in flavor.
+Its culinary value is low compared to more popular [[palmer-edible-mushrooms-north-america]], and it is often described as bland or insipid in flavor.
 
 Some foraging guides list it as conditionally edible after thorough cooking, noting that the stipe should be discarded due to its chewy consistency.
 
@@ -62,13 +62,13 @@ Caution is advised in identification, as several toxic Collybia/Gymnopus species
 
 ## Ecological Role
 
-As a primary decomposer of hardwood leaf litter and fine woody debris, G. peronatus plays a significant role in nutrient cycling in temperate forest ecosystems.
+As a primary decomposer of hardwood leaf litter and fine woody debris, G. peronatus plays a significant role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in temperate forest ecosystems.
 
-Its mycelium colonizes fallen twigs and leaf material, breaking down cellulose and hemicellulose and contributing to humus formation.
+Its mycelium colonizes fallen twigs and leaf material, breaking down cellulose and hemicellulose and contributing to [[lowenfels-humus-formation-benefits]].
 
 The species is a common component of the "leaf-litter agarics" guild, fruiting prolifically in years with warm, wet autumn conditions.
 
-It may form associations with soil invertebrates that facilitate spore dispersal through the forest floor.
+It may form associations with soil invertebrates that facilitate [[aquatic-fungi-spore-dispersal-ingold]] through the forest floor.
 
 ## Similar Species
 
@@ -81,6 +81,9 @@ Gymnopus dryophilus is a close relative with a darker cap that grows in tighter 
 Marasmius rotula has a more distinctly umbilicate cap and much longer, more widely spaced gills with a well-developed collarium.
 
 ## See Also
+
+- [[gymnopus-liquidambaris]]
+- [[gymnopus-junonius]]
 
 - [[agaricus-xanthodermus]]
 - [[laccaria-laccata]]

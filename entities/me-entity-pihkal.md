@@ -1,5 +1,5 @@
 ---
-title: "ME (METAESCALINE; 3,4-DIMETHOXY-5-ETHOXYPHENETHYLAMINE) -- PIHKAL Entry #119"
+title: "ME (METAESCALINE; 3,4-DIMETHOXY-5-ETHOXYPHENETHYLAMINE) -- 2c-b-pihkal-entry-20 #119"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # ME
 
-PIHKAL entry #119. METAESCALINE; 3,4-DIMETHOXY-5-ETHOXYPHENETHYLAMINE.
+[[2c-b-pihkal-entry-20]] #119. METAESCALINE; 3,4-DIMETHOXY-5-ETHOXYPHENETHYLAMINE.
 
 ## Chemical Name
 
@@ -67,7 +67,7 @@ METAESCALINE; 3,4-DIMETHOXY-5-ETHOXYPHENETHYLAMINE
 > alcohol. It is explained in the recipe for TOMSO.] During the
 > experience heights, and in fact before it reached its height, talking
 > was easy and unimpeded. The transference feelings so characteristic
-> of MDMA were basically not there. But for purposes of psychotherapy,
+> of [[mdma]] were basically not there. But for purposes of psychotherapy,
 > there were some advantages: fluent associations, undefended positions,
 > and general bonaise.
 >

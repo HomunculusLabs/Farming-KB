@@ -1,5 +1,5 @@
 ---
-title: "Enzyme Production for Industrial Bioremediation"
+title: "ligninolytic-enzyme-production-bioremediation for Industrial Bioremediation"
 created: 2026-04-28
 tags: [laccase, manganese-peroxidase, lignin-peroxidase, fermentation, bioreactor]
 date: 2026-04-25
@@ -14,7 +14,7 @@ type: concept
 ## Overview
 
 Industrial application of fungal enzymes for [[mycoremediation-pahs]] emphasizes that [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]],
-  synthetic dyes, [[turkey-tail-trametes-versicolor]], [[stamets-reishi-ganoderma-lucidum-cultivation]]
+  [[singh-fungal-degradation-of-synthetic-dyes-and-textile-waste]], [[turkey-tail-trametes-versicolor]], [[stamets-reishi-ganoderma-lucidum-cultivation]]
 
 ### Manganese Peroxidase (MnP, EC 1.11.1.13)
 
@@ -22,9 +22,9 @@ MnP oxidizes Mn(II) to Mn(III), generating a powerful diffusible oxidant:
 
 - **Mechanism**: H2O2-dependent oxidation; Mn(III) chelated by organic
   acids diffuses to oxidize phenolic substrates
-- **Applications**: Degradation of [[fungal-degradation-of-dioxins-and-polychlorinated-biphenyls]], synthetic dyes, chlorinated phenols
+- **Applications**: Degradation of fungal-degradation-of-dioxins-and-polychlorinated-biphenyls, synthetic dyes, chlorinated phenols
 - **Key producers**: phanaerochaete chrysosporium, [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]],
-  [[fungal-degradation-of-dioxins-and-polychlorinated-biphenyls]]
+  fungal-degradation-of-dioxins-and-polychlorinated-biphenyls
 - **Key producer**: [[charcoal-production-for-cooking]]
 
 - [[laccase-mediator-system-dye]] -- principal fungal oxidase for bioremediation
@@ -105,4 +105,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

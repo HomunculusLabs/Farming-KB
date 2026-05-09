@@ -25,7 +25,7 @@ The Black Morels are a naturally definable cluster including
 Morchella angusticeps, M. conica, and M. elata. In culture, they
 behave similarly. A new, totally Black Morel covered with a fine
 fuzzy coat is called Morchella atrotomentosa, which was uncommon
-in North America until the year after the Yellowstone fires.
+in [[psilocybin-north-america-pacific-northwest]] until the year after the Yellowstone fires.
 
 The Yellow or White Morels include M. esculenta, M. deliciosa, and
 M. crassipes. The Half-free Morel, M. semilibera, stands apart
@@ -41,7 +41,7 @@ they encounter a physical boundary, a non-nutritional zone, or
 competitors, the mycelium stops expanding.
 
 ### [[conocybe-cyanopus]], Hypholoma tuberosum,
-[[psilocybe-mexicana]], Psilocybe tampanensis,
+[[psilocybe-mexicana]], [[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]],
 and dozens of others.
 
 Mushrooms which form sclerotia tend to be soil-dwellers. The
@@ -49,7 +49,7 @@ sclerotia represent a nutrient storage and resting stage, allowing
 the mushroom species to survive inclement weather. They can be
 dried to the point of flammability, and upon rehydration, as the
 cells swell with moisture, the sclerotium springs to life and
-transforms into either a mushroom or into a new mycelial network.
+transforms into either a mushroom or into a new [[gadd-mycelial-network-dynamics]].
 
 ## Differences Between Black and Yellow Morel Sclerotia
 
@@ -78,12 +78,12 @@ cycle, although Ron Ower (1986) was the first to note that Morels
 arise from sclerotia. Not fully illustrated in the life cycle is
 the asexual phase wherein sterile cells are borne on short hyphal
 branches, similar to oidia. An abundance of these asexual spores
-forms a powdery mildew, called Costantinella cristata.
+forms a [[cervantes-powdery-mildew-prevention-treatment]], called Costantinella cristata.
 
 The life cycle proceeds through:
 1. Spore germination
-2. Mycelial growth
-3. Sclerotia formation (environmental shock triggers collapse)
+2. [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
+3. [[growing-gourmet-sclerotia-formation-biology-mushrooms]] (environmental shock triggers collapse)
 4. Dormancy period
 5. Rehydration of sclerotia
 6. Carpogetic germination (sclerotia directly producing fruitbodies)

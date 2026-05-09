@@ -14,7 +14,7 @@ updated: 2026-04-26
 Coleman's winter-harvest system at Four Season Farm is built on the insight that fresh vegetables can be produced year-round in cold climates without supplemental heating. The system has three interlocking components:
 
 1. **Cold-hardy vegetables** — crops that tolerate cold temperatures and often have lower light requirements than warm-season crops
-2. **Succession planting** — sowing vegetables multiple times from late summer through late fall to provide continual harvest
+2. **[[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]]** — sowing vegetables multiple times from late summer through late fall to provide continual harvest
 3. **Protected cultivation** — vegetables grown under cover (unheated greenhouses with inner row-cover layers)
 
 The synergy of these three well-known components creates a system greater than the sum of its parts. Coleman emphasizes that the eating quality of cold-hardy vegetables is unrivaled during fall, winter, and spring — they reach higher perfection without the heat stress of summer.
@@ -74,7 +74,7 @@ The winter-harvest system was designed to solve a real economic problem: extendi
 
 ## Wind Protection and Microclimate
 
-Coleman emphasizes that wind is a greater enemy of winter crops than cold temperatures alone. Cold winter winds strip moisture from plant tissues and increase evaporative cooling, effectively lowering the temperature experienced by the crop. The double-layer system (greenhouse plus row cover) provides excellent wind protection, but siting the greenhouse to take advantage of natural windbreaks — hedgerows, buildings, or topographic features — further reduces heat loss. On Four Season Farm, Coleman positioned his greenhouses with careful attention to prevailing wind directions, using the landscape itself as a first line of defense against heat loss.
+Coleman emphasizes that wind is a greater enemy of winter crops than cold temperatures alone. Cold winter winds strip moisture from plant tissues and increase [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]], effectively lowering the temperature experienced by the crop. The double-layer system (greenhouse plus row cover) provides excellent wind protection, but siting the greenhouse to take advantage of natural windbreaks — hedgerows, buildings, or topographic features — further reduces heat loss. On Four Season Farm, Coleman positioned his greenhouses with careful attention to prevailing wind directions, using the landscape itself as a first line of defense against heat loss.
 
 ## Managing Snow Load on Winter Greenhouses
 
@@ -90,7 +90,7 @@ Coleman's system creates a continuous production calendar. August through Septem
 
 ## The Role of Soil Biology in Winter Growing
 
-Coleman's system depends critically on healthy soil biology. The soil food web — bacteria, fungi, protozoa, nematodes, and other microorganisms — drives nutrient cycling and makes nutrients available to plants even in cold soil. Coleman uses extensive composting to build and maintain soil biological activity. He emphasizes that chemical fertilizers are counterproductive in winter growing because cold soil temperatures slow the microbial activity needed to process synthetic nutrients into plant-available forms. Compost and compost tea, by contrast, provide both nutrients and the microbial populations needed to cycle them. The dark, moist conditions inside a double-covered greenhouse create an ideal environment for continued microbial activity even when outdoor temperatures are well below freezing. Winter crops grown in biologically active soil show significantly better vigor, disease resistance, and nutrient density than those grown in chemically fertilized soil.
+Coleman's system depends critically on healthy soil biology. The soil food web — bacteria, fungi, protozoa, nematodes, and other microorganisms — drives nutrient cycling and makes nutrients available to plants even in cold soil. Coleman uses extensive composting to build and maintain soil biological activity. He emphasizes that [[cervantes-chemical-fertilizers-guide]] are counterproductive in winter growing because cold soil temperatures slow the microbial activity needed to process [[query-organic-vs-synthetic-nutrients-cannabis]] into plant-available forms. Compost and compost tea, by contrast, provide both nutrients and the microbial populations needed to cycle them. The dark, moist conditions inside a double-covered greenhouse create an ideal environment for continued microbial activity even when outdoor temperatures are well below freezing. Winter crops grown in biologically active soil show significantly better vigor, disease resistance, and nutrient density than those grown in chemically fertilized soil.
 
 ## Economics of Winter Harvest
 
@@ -98,7 +98,7 @@ The economic case for winter harvest systems rests on the premium prices that fr
 
 ## Pest and Disease Management in Winter Growing
 
-Winter greenhouse production faces distinct pest and disease pressures compared to open-field summer growing. The humid, still air inside a double-covered greenhouse creates favorable conditions for fungal diseases such as gray mold (*Botrytis cinerea*) and downy mildew, which thrive in cool, moist environments. Coleman's approach to disease management emphasizes prevention through environmental control rather than chemical intervention: maintaining adequate spacing between plants for air circulation, avoiding overhead watering that wets foliage, and ventilating greenhouses on warm days to reduce humidity. Aphids can persist in winter greenhouses where temperatures remain above freezing, and their populations may build up during warm spells. Slugs are a significant pest in winter growing because the moist conditions inside the greenhouse provide ideal habitat. Coleman manages slug populations through hand-picking, beer traps, and encouraging predatory ground beetles through habitat creation. The reduced growth rate of both crops and pests during winter means that pest outbreaks typically progress more slowly than in summer, giving the observant grower more time to respond.
+Winter greenhouse production faces distinct pest and disease pressures compared to open-field summer growing. The humid, still air inside a double-covered greenhouse creates favorable conditions for fungal diseases such as gray mold (*Botrytis cinerea*) and downy mildew, which thrive in cool, moist environments. Coleman's approach to disease management emphasizes prevention through [[eclss-environmental-control-life-support]] rather than chemical intervention: maintaining adequate spacing between plants for air circulation, avoiding overhead watering that wets foliage, and ventilating greenhouses on warm days to reduce humidity. Aphids can persist in winter greenhouses where temperatures remain above freezing, and their populations may build up during warm spells. Slugs are a significant pest in winter growing because the moist conditions inside the greenhouse provide ideal habitat. Coleman manages slug populations through hand-picking, beer traps, and encouraging predatory ground beetles through habitat creation. The reduced growth rate of both crops and pests during winter means that pest outbreaks typically progress more slowly than in summer, giving the observant grower more time to respond.
 
 ## Post-Harvest Handling of Winter Greens
 
@@ -106,7 +106,7 @@ Winter-harvested greens require careful post-harvest handling to maintain qualit
 
 ## Seed Selection for Winter Growing
 
-Successful winter harvest requires specific variety selection distinct from summer growing. Coleman has spent decades trialing vegetable varieties for winter hardiness, identifying those that survive freezing temperatures while maintaining eating quality. Key traits for winter varieties include tolerance of repeated freeze-thaw cycles without tissue damage, ability to continue slow growth under short daylength conditions, and maintenance of tenderness and flavor in cold weather. Many modern vegetable varieties bred for rapid summer growth perform poorly in winter conditions, becoming bitter or bolting prematurely. Coleman's preferred winter greens include specific cultivars of spinach ('Winter Bloomsdale', 'Giant Winter'), kale ('Vates', 'Winterbor'), mâche ('Valerianella locusta'), and claytonia ('Minutina'). The process of variety selection is ongoing, as climatic conditions and seed availability change over time, and new varieties continually need evaluation against the established standards.
+Successful winter harvest requires specific variety selection distinct from summer growing. Coleman has spent decades trialing [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]] for winter hardiness, identifying those that survive freezing temperatures while maintaining eating quality. Key traits for winter varieties include tolerance of repeated freeze-thaw cycles without tissue damage, ability to continue slow growth under short daylength conditions, and maintenance of tenderness and flavor in cold weather. Many modern vegetable varieties bred for rapid summer growth perform poorly in winter conditions, becoming bitter or bolting prematurely. Coleman's preferred winter greens include specific cultivars of spinach ('Winter Bloomsdale', 'Giant Winter'), kale ('Vates', 'Winterbor'), mâche ('Valerianella locusta'), and claytonia ('Minutina'). The process of variety selection is ongoing, as climatic conditions and seed availability change over time, and new varieties continually need evaluation against the established standards.
 
 ## See Also
 
@@ -115,6 +115,6 @@ Successful winter harvest requires specific variety selection distinct from summ
 - [[unheated-greenhouse-winter-harvest]]
 
 - [[coleman-protected-cultivation]] — Row covers and double-layer systems
-- [[coleman-planting-schedules]] — Seasonal timing for cold climates
-- [[coleman-winter-greens]] — Greens production in winter
+- coleman-planting-schedules — Seasonal timing for cold climates
+- coleman-winter-greens — Greens production in winter
 - [[coleman-summer-crops]]

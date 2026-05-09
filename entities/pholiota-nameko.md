@@ -17,9 +17,9 @@ type: entity
 ## Overview
 
 Pholiota nameko, commonly known as Nameko (Japanese for "Slimy
-Mushroom"), is a popular edible mushroom native to the cool temperate
+Mushroom"), is a popular [[bloomfield-boletus-satanus-edible-mushroom-hazards]] native to the cool temperate
 highlands of northern Japan, China, and Taiwan. It ranks among the most
-widely cultivated mushrooms in Japan, trailing only Shiitake and
+widely [[fungi-cultivated-mushrooms-pathogens-competitors]] in Japan, trailing only Shiitake and
 Enokitake. Despite its unappealing slimy appearance when raw, it
 develops a distinctive, appealing flavor when cooked, with crunchy and
 nutty characteristics that make it a staple in miso soups and stir fries.
@@ -111,3 +111,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[pholiota-aurivella]]

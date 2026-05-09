@@ -64,7 +64,7 @@ memorizing exact wording:
    limits. Without accepting feedback there can be no self-regulation, and
    without self-regulation there can be no ecological coherence.
 
-2. **Catch and store energy**: The ecology is filled with enormous potential
+2. **[[permaculture-principle-catch-and-store-energy]] energy**: The ecology is filled with enormous potential
    energy beyond solar, wind, and hydro. In permaculture, "energy" is a
    statement of functionality: using any event, phenomenon, or change to
    accomplish a goal. Chickens provide food energy but also pest control,
@@ -74,20 +74,20 @@ memorizing exact wording:
    than resisting it, permaculture designers work with natural processes
    and direct them productively.
 
-4. **Design from patterns to details**: Begin with broad patterns (water
+4. **[[permaculture-principle-design-from-patterns-to-details]] to details**: Begin with broad patterns (water
    flow, sun angles, wind patterns) before working on specific elements.
    The overall structure determines success more than individual components.
 
-5. **Integrate rather than segregate**: Place elements so they support each
+5. **[[permaculture-principle-integrate-rather-than-segregate]] than segregate**: Place elements so they support each
   . The more connections between elements, the more resilient the system.
 
-6. **Observe and interact**: Careful observation over time reveals patterns
+6. **[[holmgren-observe-and-interact-detailed]]**: Careful observation over time reveals patterns
    and relationships that inform better design decisions.
 
 7. **Obtain a yield**: Every element should produce something useful. A
    system that does not yield is not sustainable.
 
-8. **Produce no waste**: Waste is simply an unused resource. In nature,
+8. **[[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]]**: Waste is simply an unused resource. In nature,
    one organism's waste is another's food.
 
 9. **Use and value diversity**: Diversity provides resilience, stability,
@@ -105,7 +105,7 @@ memorizing exact wording:
 ## Design Process
 
 The PDC teaches a structured approach to design. The first step in any
-permaculture project is thorough observation and analysis of the site.
+[[holzer-lebenshilfe-permaculture-project-for-disabled-people]] is thorough observation and analysis of the site.
 Designers learn to read the landscape for water flow, sun exposure, soil
 types, existing vegetation, microclimates, and human patterns of use.
 
@@ -134,6 +134,6 @@ habits in harmony with natural cycles of the Earth.
 
 - [[zone-and-sector-analysis]]
 - [[urban-guerrilla-gardening]]
-- [[succession-in-permaculture]]
+- succession-in-permaculture
 - pattern language permaculture
 - [[bioregional-organization]]

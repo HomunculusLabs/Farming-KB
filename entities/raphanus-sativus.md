@@ -26,7 +26,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Wang, H. et al. (2014). "Raphanus sativus L.: phytochemical and pharmacological profile." Journal of Ethnopharmacology, 153(2), 261–273.
-  - Björkman, T. et al. (2008). "Integrating winter annual cover crops into vegetable production systems." Renewable Agriculture and Food Systems, 23(4), 284–293.
+  - Björkman, T. et al. (2008). "Integrating winter annual cover crops into [[dry-gardening-unirrigated-vegetable-production-solomon]] systems." Renewable Agriculture and Food Systems, 23(4), 284–293.
   - Weil, R. & Kremen, A. (2007). "Thinking across and beyond the no-till and organic paradigms." Journal of Sustainable Agriculture, 30(1), 53–65.
   - Duke, J.A. (2011). "Handbook of Alternative Cash Crops." CRC Press.
 created: 2026-05-07
@@ -34,7 +34,7 @@ created: 2026-05-07
 
 ## Overview
 
-**Raphanus sativus**, commonly known as radish or daikon, is an annual or biennial root vegetable in the family Brassicaceae.
+**Raphanus sativus**, commonly known as radish or daikon, is an annual or biennial [[fukuoka-western-root-vegetable-deficiency]] in the family Brassicaceae.
 
 The species encompasses a remarkable diversity of cultivated forms, ranging from small, pungent garden radishes harvested in 3–4 weeks to large, mild-flavored Asian daikons that grow over 60 days.
 
@@ -64,7 +64,7 @@ Today, the species is cultivated worldwide in temperate and subtropical regions,
 
 Daikon radish is the most-consumed vegetable in Japan by weight, and features prominently in Chinese, Korean, Indian, and Southeast Asian cuisines in pickled, stir-fried, and soup preparations.
 
-The tillage radish (also called "bio-driller" or "forage radish") was developed specifically as a cover crop and has become widely adopted in no-till and reduced-tillage farming systems across North America and Europe.
+The tillage radish (also called "bio-driller" or "forage radish") was developed specifically as a cover crop and has become widely adopted in no-till and reduced-tillage farming systems across [[psilocybin-north-america-pacific-northwest]] and Europe.
 
 ## Cultivation
 
@@ -100,13 +100,15 @@ This soil-penetrating action creates vertical channels that improve drainage, in
 
 The species is an effective nutrient scavenger, pulling nitrogen, phosphorus, and other minerals from deep soil horizons and making them available to surface crops after the root decomposes.
 
-In chop-and-drop mulch systems, the large above-ground biomass provides substantial organic matter when cut and left to decompose as surface mulch.
+In chop-and-drop mulch systems, the large above-ground biomass provides substantial [[hamilton-composting-and-organic-matter-management]] when cut and left to decompose as surface mulch.
 
 Daikon roots also serve as a trap crop for certain nematode species, reducing soil populations of root-knot nematodes (*Meloidogyne* spp.) when used as a rotation or intercrop.
 
-The rapid growth and broad leaf canopy provide effective weed suppression during the fall growing season, reducing the need for mechanical or chemical weed control.
+The rapid growth and broad leaf canopy provide effective weed suppression during the fall [[savory-growing-season-and-non-growing-season-management]], reducing the need for mechanical or chemical [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]].
 
 ## See Also
+
+- [[lathyrus-sativus]]
 
 - [[biochar]]
 - no till

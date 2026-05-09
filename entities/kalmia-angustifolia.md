@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada. 2nd ed. New York Botanical Garden.
+  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern dmt-containing-plants-united-states-halpern and Adjacent Canada. 2nd ed. New York Botanical Garden.
   - USDA NRCS. (2024). "Kalmia angustifolia." PLANTS Database.
   - Mulligan, G.A. & Munro, D.B. (1981). "Toxic plants of Canada." Agriculture Canada Publication.
   - Kingsbury, J.M. (1964). Poisonous Plants of the United States and Canada. Prentice-Hall.
@@ -21,7 +21,7 @@ sources:
 
 **Kalmia angustifolia**, commonly known as sheep laurel, lambkill, or narrow-leaved laurel, is an evergreen shrub in the family Ericaceae.
 
-It is native to eastern North America, ranging from eastern Canada south to the Appalachian Mountains.
+It is native to [[polypore-fungi-eastern-north-america]] America, ranging from eastern Canada south to the Appalachian Mountains.
 
 The species is noted for its attractive pink flowers and significant toxicity to livestock and humans.
 
@@ -71,7 +71,7 @@ It tolerates poor, nutrient-deficient soils typical of boreal and sub-boreal wet
 
 ## Ecology
 
-Sheep laurel provides important nectar sources for native bees, particularly bumblebees (*Bombus* spp.).
+Sheep laurel provides important nectar sources for [[query-how-to-attract-native-bees-and-beneficial-insects]], particularly bumblebees (*Bombus* spp.).
 
 Ruby-throated hummingbirds occasionally visit the flowers during their breeding season.
 
@@ -123,5 +123,5 @@ Cultivars are not widely available; most nursery stock consists of straight spec
 
 - [[vaccinium-angustifolium]]
 - [[vaccinium-myrtillus]]
-- [[arctostaphylos-uva-ursi]]
+- arctostaphylos-uva-ursi
 - [[oxydendrum-arboreum]]

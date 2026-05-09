@@ -24,14 +24,14 @@ sources:
 
 # Fukuoka Rice-Barley Annual Calendar
 
-Masanobu Fukuoka's direct-seeded, no-tillage rice/barley succession produces ~22 bushels (1,300 lbs) of rice and 22 bushels of barley per quarter-acre -- matching conventional Japanese yields at a fraction of the labor. The entire year's planting for one field is finished by New Year's Day. See [[natural-farming-fukuoka]] for the full method overview and [[fukuoka-philosophy-in-practice]] for the philosophical context.
+Masanobu Fukuoka's direct-seeded, no-tillage rice/[[direct-seeded-no-tillage-rice-barley-succession-in-clover]] produces ~22 bushels (1,300 lbs) of rice and 22 bushels of barley per quarter-acre -- matching conventional Japanese yields at a fraction of the labor. The entire year's planting for one field is finished by New Year's Day. See [[natural-farming-fukuoka]] for the full method overview and [[fukuoka-philosophy-in-practice]] for the philosophical context.
 
 ## Annual Cycle
 
 ### Early October
-- **Broadcast white clover** among standing rice (~1 lb/quarter-acre)
+- **Broadcast [[fukuoka-white-clover-cover-crop-system]]** among standing rice (~1 lb/quarter-acre)
 - **Broadcast barley/rye seed** (~6.5-13 lbs/quarter-acre; more for hard/poor soil or beginners)
-- Clover and winter grain sprout 1-2 inches before rice harvest
+- Clover and [[direct-seeded-no-tillage-rice-winter-grain-succession]] sprout 1-2 inches before rice harvest
 - Seed rates can be reduced over years as soil improves and farmer gains experience
 
 ### Late October / Early November
@@ -39,7 +39,7 @@ Masanobu Fukuoka's direct-seeded, no-tillage rice/barley succession produces ~22
 - **Thresh rice** on site
 - **Scatter ALL rice straw uncut** over the field -- do NOT chop or arrange neatly
 - **Add chicken manure** (650-900 lbs/quarter-acre) to help decompose straw
-- **Form clay pellets** containing rice seed (4.5-9 lbs/quarter-acre); see [[natural-farming-seed-balls]]
+- **Form [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]]** containing rice seed (4.5-9 lbs/quarter-acre); see [[natural-farming-seed-balls]]
 
 ### Mid-November to Mid-December
 - **Broadcast rice seed balls** among the young barley/rye plants
@@ -71,7 +71,7 @@ Masanobu Fukuoka's direct-seeded, no-tillage rice/barley succession produces ~22
 - Drain as soon as possible after the week
 
 ### June-July
-- **No irrigation needed** -- even in dry years, soil stays moist under straw and green manure mulch
+- **No irrigation needed** -- even in dry years, soil stays moist under straw and [[comparison-green-manure-guide-vs-mulch-types-and-effects]] mulch
 - Rainfall alone is sufficient
 - If extremely dry, light irrigation is acceptable
 - Rice plants develop strong roots in unflooded soil
@@ -138,22 +138,10 @@ Yields continue to increase and soil becomes richer every year under this system
 
 For fields currently under conventional cultivation:
 1. **Year 1**: Some weeding, composting, or pruning may still be necessary
-2. **Gradually reduce** each intervention year by year
-3. **For leaky paddies**: Start with light 2-inch tilling, transition to full no-till after 1-2 years
-4. **Use more seed initially** (up to 22 lbs/quarter-acre for winter grain) -- reduce as soil improves
-5. The most important factor is "the state of mind of the farmer" -- patience and observation over intervention
-
-## Adapting to Other Climates
-
-Fukuoka noted this method could be adapted:
-- Where water is scarce: upland rice, buckwheat, sorghum, millet
-- Instead of white clover: other clover varieties, alfalfa, vetch, or lupine
-- "Natural farming takes a distinctive form in accordance with the unique conditions of the area in which it is applied"
-
 ## See Also
 
 - [[natural-farming-fukuoka]] -- Full method overview
-- [[fukuoka-philosophy-in-practice]] -- Philosophy and orchard management
+- [[fukuoka-philosophy-in-practice]] -- Philosophy and [[fukuoka-orchard-management-detailed]]
 - [[fukuoka-soil-building-method]] -- Soil restoration method
 - [[natural-farming-seed-balls]] -- Clay pellet technique
 - [[natural-farming-vs-organic-vs-conventional]] -- Three-way comparison

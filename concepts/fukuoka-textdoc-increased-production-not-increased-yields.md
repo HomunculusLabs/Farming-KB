@@ -1,5 +1,5 @@
 ---
-title: "Increased Production Has Not Brought Increased Yields"
+title: "fukuoka textdoc increased production not increased yields Has Not Brought Increased Yields"
 created: 2026-04-28
 tags: [yields, high-yield-farming, chemical-fertilizers, pesticides, productivity-paradox]
 date: 2026-04-28
@@ -13,11 +13,11 @@ type: concept
 
 ## Overview
 
-Fukuoka reveals the central paradox of scientific agriculture: despite decades
+Fukuoka reveals the central paradox of [[fukuoka-critique-scientific-agriculture-civilization]]: despite decades
 of research into high-yield techniques, larger harvests have not brought
 greater profits for farmers. In many cases, they have resulted in losses. The
 very practices thought vital to increasing yields, such as heavy application of
-chemical fertilizers and pesticides, and indiscriminate mechanization, actually
+[[cervantes-chemical-fertilizers-guide]] and pesticides, and indiscriminate mechanization, actually
 hurt productivity when examined from a broader perspective.
 
 ## The Three Pillars of False Productivity
@@ -51,7 +51,7 @@ animal manure were cheaper and safer methods of increasing yields.
 What sense can there be in producing unhealthy rice plants and applying
 powerful pesticides up to ten times a year? Before investigating how well
 pesticides kill harmful insects and prevent crop losses, scientists should have
-studied how the natural ecosystem is destroyed by these pesticides and why
+studied how the [[fukuoka-natural-ecosystem-food-chain-interconnection]] is destroyed by these pesticides and why
 crop plants have weakened. They should have investigated the causes underlying
 the disruption in the harmony of nature and the outbreak of pests.
 
@@ -72,7 +72,7 @@ effective only at the price of the destruction of nature.
 
 After man has maimed and disfigured nature, science appears to give striking
 results, when all it is doing is repairing the most extreme damage. Productivity
-of the land can be improved through scientific farming methods only when its
+of the land can be improved through [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] methods only when its
 natural productivity is in decline. These are regarded as high-yielding
 practices only because they are useful in stemming crop losses.
 
@@ -110,7 +110,7 @@ and progressively deeper into dependency on manufactured inputs.
 ## Larger Farms, Greater Insecurity
 
 Larger and larger agricultural operations have not given farmers the stability
-they seek. Farms in Europe are ten times larger, and in the United States one
+they seek. Farms in Europe are ten times larger, and in the [[dmt-containing-plants-united-states-halpern]] one
 hundred times larger, than the 6- to 7-acre farms common to Japan. Yet
 farmers in Europe and the U.S. are, if anything, even more insecure than
 Japanese farmers. The scale of operation does not determine prosperity; the

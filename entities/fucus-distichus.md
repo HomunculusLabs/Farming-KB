@@ -64,7 +64,7 @@ Fucoidan, a sulfated polysaccharide extracted from F. distichus, has demonstrate
 
 Phlorotannins, polyphenolic compounds unique to brown algae, contribute antioxidant and antibacterial activity. F. distichus contains several phlorotannin derivatives including fucols, fucophlorethols, and eckols.
 
-The species also produces fucoxanthin, a carotenoid pigment with demonstrated anti-obesity and anti-diabetic effects in animal studies. Alginate from the cell wall has applications as a thickening, gelling, and stabilizing agent in food and pharmaceuticals.
+The species also produces fucoxanthin, a carotenoid pigment with demonstrated anti-obesity and anti-diabetic effects in animal studies. Alginate from the [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] has applications as a thickening, gelling, and stabilizing agent in food and pharmaceuticals.
 
 ## Ecological Role
 
@@ -88,13 +88,13 @@ Molecular phylogenetic studies using ITS and rbcL markers have supported the rec
 
 The related species *Fucus gardneri* has been variously treated as a separate species or synonym of F. distichus. Current molecular evidence suggests F. gardneri warrants species status, though some morphological overlap persists.
 
-Pacific populations from Alaska to California show considerable variation in vesicle presence, thallus width, and branching pattern. Environmental factors, particularly wave exposure, strongly influence morphology and contribute to taxonomic confusion.
+Pacific populations from Alaska to California show considerable variation in vesicle presence, thallus width, and branching pattern. [[duggar-mushroom-environmental-factors-temperature-moisture-light]], particularly wave exposure, strongly influence morphology and contribute to [[neurotropic-fungi-taxonomic-confusion-and-identification]].
 
 ## Traditional and Ethnobotanical Use
 
 Indigenous peoples of the Pacific Northwest have long harvested rockweed as a food source and for medicinal purposes. The seaweed was eaten fresh, dried for winter storage, or boiled into broth.
 
-Coastal First Nations communities used Fucus species as a topical treatment for skin conditions, wounds, and joint pain. The seaweed was applied as a poultice or mixed with other medicinal plants.
+Coastal First Nations communities used Fucus species as a topical treatment for [[cannabis-for-skin-conditions-detailed]], wounds, and joint pain. The seaweed was applied as a poultice or mixed with other medicinal plants.
 
 In traditional Chinese medicine, related Fucus species are prescribed for goiter, edema, and as a diuretic. The iodine content of the algae supports thyroid function, and the fucoidan fraction is believed to have immune-modulating effects.
 

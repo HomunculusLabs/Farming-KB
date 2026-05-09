@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-JADAM natural pesticides (JNP) are homemade, ultra-low-cost alternatives to commercial pesticides. The system is built around four core ingredients: **JADAM Wetting Agent (JWA)**, **JADAM Sulfur (JS)**, **JADAM Herb Solution (JHS)**, and **JADAM Microorganism Solution (JMS)**. All can be made by the farmer for pennies per liter. JADAM has "solved the pest issue that pestered organic farmers all over the world."
+[[ultra-low-cost-jadam-natural-pesticide-jnp]] pesticides (JNP) are homemade, ultra-low-cost alternatives to commercial pesticides. The system is built around four core ingredients: **JADAM [[jadam-nutrient-management-wetting-agent-and-calcium]] (JWA)**, **JADAM Sulfur (JS)**, **JADAM Herb Solution (JHS)**, and **JADAM [[jadam-microorganism-solution-culturing]] (JMS)**. All can be made by the farmer for pennies per liter. JADAM has "solved the pest issue that pestered organic farmers all over the world."
 
 ## JADAM Herb Solution (JHS) -- Preparation
 
@@ -28,8 +28,8 @@ JHS is made by boiling plants with insect-repelling properties in water. It cont
 
 | Plant | Parts Used | Notes |
 |-------|-----------|-------|
-| Jerusalem artichoke | Whole plant (leaves, branches, roots) | Easily grown, available worldwide; controls aphids, mites, most moths |
-| Gingko | Fresh leaves, fallen leaves, fruits | "Perfect defense mechanism against pests and diseases" |
+| [[comparison-jerusalem-artichoke-vs-potato]] | Whole plant (leaves, branches, roots) | Easily grown, available worldwide; controls aphids, mites, most moths |
+| Gingko | Fresh leaves, fallen leaves, fruits | "Perfect defense mechanism against [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]" |
 | Korean pasque flower root | Root | Strongest pesticide effect; collect seeds mid-May |
 | Red spider lily | Roots | Used in oriental medicine; repels moles and snakes |
 | Pokeweed | Above-ground | Strong insect-repelling effect |
@@ -47,7 +47,7 @@ JHS is made by boiling plants with insect-repelling properties in water. It cont
 ## JADAM Sulfur (JS) -- Preparation
 
 ### What It Is
-JS is a germicide made by reacting sulfur with sodium hydroxide (NaOH). It is extremely effective against powdery mildew, downy mildew, fungus, black spot, and canker. Cost: ~50 cents per liter.
+JS is a germicide made by reacting sulfur with sodium hydroxide (NaOH). It is extremely effective against [[cervantes-powdery-mildew-prevention-treatment]], downy mildew, fungus, black spot, and canker. Cost: ~50 cents per liter.
 
 ### Recipe for 100 L (26.4 gal)
 - Sulfur -- 25 kg (55 lb)

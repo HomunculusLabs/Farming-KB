@@ -22,12 +22,12 @@ substances used in religious, shamanic, or spiritual contexts.
 
 Modern scholarship on entheogens and culture begins with R. Gordon Wasson,
 a vice president of J.P. Morgan, who in 1955 became the first outsider to
-participate in a Mazatec mushroom ceremony in Oaxaca, Mexico. His 1957
+participate in a [[maria-sabina-mazatec-mushroom-ceremony]] ceremony in Oaxaca, Mexico. His 1957
 *Life* magazine article "Seeking the Magic Mushroom" introduced
 psychoactive fungi to a global audience and inaugurated the modern field
 of ethnomycology. Wasson later argued, in *Soma: Divine Mushroom of
 Immortality* (1968), that the Vedic sacrament *soma* was the fly-agaric
-mushroom (*Amanita muscaria*), a controversial identification that remains
+mushroom (*[[allegro-amanita-muscaria-properties-and-pharmacology]]*), a controversial identification that remains
 debated.
 
 Wasson's work established the foundational question: to what extent have
@@ -37,7 +37,7 @@ intellectual development of human civilizations?
 ## Shamanism and Ecstatic Religion
 
 Mircea Eliade's *Shamanism: Archaic Techniques of Ecstasy* (1951) provided
-a cross-cultural framework for understanding the role of altered states of
+a cross-cultural framework for understanding the role of [[weil-the-natural-mind-altered-states-normalcy]] of
 consciousness in indigenous religious traditions. While Eliade himself
 was ambivalent about the role of psychoactive substances, later
 researchers including Michael Harner, Peter Furst, and Weston La Barre
@@ -46,10 +46,10 @@ vast regions of the Americas, Asia, and Africa.
 
 The "ecstatic hypothesis" proposes that many of the world's religious
 traditions originated in or were profoundly influenced by experiences
-induced by psychoactive plants. This includes the Eleusinian Mysteries
+induced by psychoactive plants. This includes the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]]
 of ancient Greece (possibly involving ergot alkaloids), the Vedic soma
-cult, the use of *Ayahuasca* in Amazonian shamanism, the peyote
-traditions of Mesoamerica, and the iboga ceremonies of Central Africa.
+cult, the use of *Ayahuasca* in [[mckenna-food-gods-amazonian-shamanism-ayahuasca]], the peyote
+traditions of Mesoamerica, and the [[metzner-bwiti-iboga-ceremonies-ancestor-communication-and-addiction]] of Central Africa.
 
 ## McKenna's Cultural Pharmacology
 
@@ -103,7 +103,7 @@ anthropology, neuroscience, and the humanities.
 
 - [[stoned-ape-hypothesis]]
 
-- [[gaias-garden-lawn-ecology-and-cultural-critique]]
+- gaias-garden-lawn-ecology-and-cultural-critique
 - [[terence-mckenna]]
 - [[psychedelic-therapy-mechanisms]]
 - [[munn-mazatec-mushroom-oracular-cure]]

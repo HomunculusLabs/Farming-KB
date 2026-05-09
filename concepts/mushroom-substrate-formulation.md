@@ -1,5 +1,5 @@
 ---
-title: Mushroom Substrate Formulation
+title: gourmet-medicinal-mushroom-substrate-preparation Formulation
 created: 2026-04-28
 tags: mycology, substrate, mushroom-cultivation, composting]
 date: 2026-04-28
@@ -28,13 +28,13 @@ little nitrogen slows growth, while too much encourages contamination.
 Species like shiitake, lion's mane, maitake, and reishi grow on woody
 substrates. Hardwood sawdust (oak, beech, alder, maple) is the standard base.
 Softwoods are generally avoided because their resins and phenolic compounds
-inhibit fungal growth. Wood chips, straw, and corncobs can serve as
+inhibit [[brassinosteroid-fungal-growth-promotion]]. Wood chips, straw, and corncobs can serve as
 alternatives or supplements to sawdust.
 
 ### Straw-Decaying Species
 
-Oyster mushrooms (*Pleurotus* spp.) and some other species readily colonize
-agricultural residues. Wheat straw, rice straw, and oat straw are common
+[[query-how-to-grow-oyster-mushrooms-at-home]] (*Pleurotus* spp.) and some other species readily colonize
+agricultural residues. [[non-sterilized-wheat-straw-oyster-cultivation]], rice straw, and oat straw are common
 choices. Straw is inexpensive, widely available, and can be pasteurized rather
 than fully sterilized, reducing equipment requirements.
 
@@ -42,7 +42,7 @@ than fully sterilized, reducing equipment requirements.
 
 Button mushrooms (*[[mycelium]] is a fast
 colonizer. Sterilization (121 degrees Celsius at 15 PSI for 90 to 120
-minutes) eliminates all living organisms and is required for supplemented
+minutes) eliminates all [[savory-living-organisms-as-tools]] and is required for supplemented
 sawdust blocks where the nutrient-rich supplement would otherwise be rapidly
 colonized by contaminants.
 
@@ -53,7 +53,7 @@ hundreds of bags per batch. Substrate is mixed, hydrated, bagged, and
 sterilized in a continuous workflow. Clean room protocols for inoculation and
 incubation are essential at commercial scales where a single contamination
 event can destroy thousands of dollars of product. For practical substrate
-preparation steps, see [[mushroom-spawn-production]].
+preparation steps, see mushroom-spawn-production.
 ## Practical Considerations
 
 When working with Mushroom Substrate Formulation, several practical factors should be
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,9 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+## See Also
+- [[substrate-formulation]]
+- [[oyster-mushroom]]
+- [[bulk-substrate-preparation]]
+- [[substrate-preparation]]
+- [[oyster-mushrooms]]

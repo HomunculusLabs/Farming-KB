@@ -19,9 +19,11 @@ Boosting potassium beyond COF levels increases bulk yield but decreases
 nutritional content by a similar proportion. Higher potassium triggers
 starch and fiber production, not protein, vitamins, enzymes, and minerals
 that humans need. Most commercial growers push potassium for profit.
-Solomon prioritizes nutritional quality over maximum bulk yield.
+Solomon prioritizes [[coleman-winter-greens-nutritional-quality-cold-sweetening]] over maximum bulk yield.
 
 ## See Also
+
+- [[solomon-manure-nutrient-variability-cof]]
 
 - [[row-gardening-vs-intensive-methods-solomon]]
 - [[dry-gardening-unirrigated-vegetable-production-solomon]]
@@ -32,7 +34,7 @@ Solomon prioritizes nutritional quality over maximum bulk yield.
   New Society Publishers, 2005. Chapters 2-3.
 ## Practical Applications
 
-Complete Organic Fertilizer Cof Recipe Solomon has a range of practical applications that make it relevant to
+Complete Organic complete organic fertilizer cof recipe solomon Recipe Solomon has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -107,4 +109,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -1,5 +1,5 @@
 ---
-title: Poultry Forage Systems in Permaculture Design
+title: free-range-poultry-forage-design-mollison Systems in bill-mollison-permaculture-a-designers-manual-permaculture-design-principles
 created: 2026-04-28
 tags:
   - permaculture
@@ -23,7 +23,7 @@ continue eating fallen seed long after fruit is gone. Key points:
   the following year
 - Two or three varieties extend the harvest season considerably
 - Mulberry can completely fill a forage area in one year from cuttings
-- The United States has some of the world's best black mulberries
+- The [[dmt-containing-plants-united-states-halpern]] has some of the world's best black mulberries
 
 ## Seasonal Forage Strategies
 
@@ -35,7 +35,7 @@ comfrey, cleavers, and chard. Some gardeners grow more chard for their
 chickens than for themselves. "Throw-over" plants and weeds supplement
 the system.
 
-**Jerusalem artichoke** is recommended as poultry forage, providing
+**[[comparison-jerusalem-artichoke-vs-potato]]** is recommended as poultry forage, providing
 tubers that chickens root up. On a half-acre, Mollison calculates
 5,000 pounds of chicken forage at higher protein value than wheat,
 keeping 40 chickens for a year. Chickens husk and thresh sheaves hung
@@ -111,7 +111,7 @@ from predators like raccoons. Key protection strategies:
 ## Native Forage and Forest Establishment
 
 Mollison advocates studying early explorer accounts to identify native
-forage species. North America once had vast wildfowl populations
+forage species. [[psilocybin-north-america-pacific-northwest]] once had vast wildfowl populations
 including turkey, pigeon, and duck ranges. Pioneer plants that step
 into grasslands without intensive care can serve as poultry forage and
 prepare sites for succession into larger tree crop systems.
@@ -125,7 +125,7 @@ soil-building effects of integrated poultry systems.
 
 Mollison references several traditional forage associations:
 
-- Siberian peasants fed poultry sunflower seed in mud balls
+- Siberian peasants fed poultry [[oyster-mushroom-sunflower-seed-hull-substrate]] in mud balls
 - Canary Island tree lucerne ([[permaculture-tagasaste]]) was the number one chicken
   seed forage among old settlers in Western Australia
 - Old Tasmanian pig sties are identifiable by oak trees the British

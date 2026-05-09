@@ -1,5 +1,5 @@
 ---
-title: Synthetic Log Mushroom Cultivation
+title: Synthetic Log accessible-mushroom-cultivation-for-disabilities
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,11 +9,11 @@ sources: [raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md]
 
 ## Synthetic Log Cultivation of Medicinal Mushrooms
 
-Synthetic log cultivation is a well-tested indoor method for growing medicinal mushrooms on supplemented sawdust substrates inside polypropylene bags. It replaces natural logs with formulated substrates that offer faster colonization, higher yields, and greater control over environmental parameters. This guide draws primarily from Chen (1999) on Grifola frondosa (maitake) cultivation.
+Synthetic log cultivation is a well-tested indoor method for growing medicinal mushrooms on [[oyster-mushroom-supplemented-sawdust-blocks]] substrates inside polypropylene bags. It replaces natural logs with formulated substrates that offer faster colonization, higher yields, and greater control over environmental parameters. This guide draws primarily from Chen (1999) on [[maitake-grifola-frondosa-comprehensive-profile]] (maitake) cultivation.
 
 ### Why Synthetic Logs
 
-Traditional log cultivation involves inoculating freshly cut hardwood logs and waiting 1-3 years for fruiting. Synthetic log methods compress this timeline to weeks for colonization and months for fruiting, with significantly higher biological efficiency.
+Traditional log cultivation involves inoculating freshly cut hardwood logs and waiting 1-3 years for fruiting. Synthetic log methods compress this timeline to weeks for colonization and months for fruiting, with significantly higher [[stamets-biological-efficiency-yield]].
 
 ### Process Overview
 
@@ -22,7 +22,7 @@ Traditional log cultivation involves inoculating freshly cut hardwood logs and w
 **2. Spawn Types**:
 - **Grain spawn**: millet, rye, wheat, sorghum, or milo. Most commonly used for general mushroom cultivation.
 - **Sawdust spawn**: supplemented sawdust-bran substrates. Often preferred for wood-decomposing species.
-- **Liquid spawn**: labor-saving through mechanized inoculation; produced by submerged fermentation.
+- **Liquid spawn**: labor-saving through mechanized inoculation; produced by [[cancer-medicinal-mushrooms-submerged-fermentation-production]].
 - **Wooden stick (skewer) spawn**: easy to handle and inoculate.
 
 **3. Substrate Formulation**: Synthetic logs typically use a base of hardwood sawdust (oak, maple, beech) supplemented with bran (wheat bran, rice bran) at 10-20% by dry weight for additional nitrogen. Water content is adjusted to 60-65%. Gypsum (calcium sulfate) may be added at 1-2% for pH buffering and calcium.
@@ -33,7 +33,7 @@ Traditional log cultivation involves inoculating freshly cut hardwood logs and w
 
 **6. Fruiting Initiation**: Three key morphogenetic transitions for maitake:
 - **Mycelial coat formation**: mycelium consolidates on the substrate surface, forming a dense white mat
-- **Primordia initiation**: triggered by temperature drop, increased fresh air exchange, and light introduction
+- **[[chen-maitake-primordia-initiation-fruiting]]**: triggered by temperature drop, increased fresh air exchange, and light introduction
 - **Fruiting body development**: requires careful management of temperature, humidity, light, and ventilation
 
 ### Environmental Parameters for Maitake (G. frondosa)
@@ -62,13 +62,13 @@ With proper technique, synthetic log cultivation of maitake can produce fruiting
 - [[maitake-cultivation-guide]]
 - [[medicinal-mushroom-guide-maitake]]
 - [[psilocybin-mushroom-cultivation-basics]]
-- [[psilocybin-mushroom-cultivation]]
+- [[psilocybin-cultivation]]
 
 ## Related
 
 - [[mushroom-substrates]]
 - [[shiitake-cultivation-guide]]
-- [[oyster-mushroom-cultivation]]
+- [[cotter-oyster-mushroom-cultivation]]
 ## Practical Considerations
 
 Successful implementation of Synthetic Log Mushroom Cultivation requires attention to
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

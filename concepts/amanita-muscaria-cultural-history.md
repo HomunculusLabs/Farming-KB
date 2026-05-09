@@ -1,11 +1,4 @@
 ---
-title: Amanita Muscaria: Cultural History and Pharmacology
-created: 2026-04-19
-updated: 2026-04-19
-type: concept
-tags: [amanita-muscaria, mycology]
-sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Amanita Muscaria: Cultural History and Pharmacology
 
@@ -24,7 +17,7 @@ It has acquired many names reflecting its cultural significance:
 
 ## Toxicity Reality vs. Perception
 
-Despite its fearsome reputation and close relationship to the deadly Death Cap ([[mushroom-poisoning-and-lookalikes]]), the fly-agaric is far less dangerous than commonly believed. In its long history, only a few deaths have been attributed to it, and in all cases the victims were already in poor health. It can cause vomiting, headaches, and unconsciousness, and is dangerous if taken in excess, but it is psychoactive in its own right.
+Despite its fearsome reputation and close relationship to the deadly Death Cap (mushroom-poisoning-and-lookalikes), the fly-agaric is far less dangerous than commonly believed. In its long history, only a few deaths have been attributed to it, and in all cases the victims were already in poor health. It can cause vomiting, headaches, and unconsciousness, and is dangerous if taken in excess, but it is psychoactive in its own right.
 
 ## Active Compounds
 
@@ -43,7 +36,7 @@ The urine-drinking practice also has a biochemical basis: muscimol is excreted l
 ## Cultural Uses Worldwide
 
 ### Siberia (documented since 1736)
-The only region of consistent intentional use. Used by Khanty, Koryak, Chukchi, and related peoples for shamanic practice, epic recitation, physical endurance, and recreational intoxication. See [[gordon-wasson-mushroom-discovery]]. While not definitively disproven, the identification remains speculative and contested among scholars.
+The only region of consistent intentional use. Used by Khanty, Koryak, Chukchi, and related peoples for shamanic practice, epic recitation, physical endurance, and recreational intoxication. See gordon-wasson-mushroom-discovery. While not definitively disproven, the identification remains speculative and contested among scholars.
 
 ## Insecticidal Properties
 
@@ -55,19 +48,21 @@ The fly-agaric has become the iconic, archetypal mushroom — the default symbol
 
 ## See Also
 
-- [[amanita-muscaria-guide]]
-- [[mushroom-poisoning-and-lookalikes]]
-- [[amanita-muscaria-guide]]
+- [[amanita-polymorphous-symbolic-names]]
+
+- amanita-muscaria-guide
+- mushroom-poisoning-and-lookalikes
 
 ---
 
-Source: Shroom: A Cultural History of the Magic Mushroom (Letcher, 2006), Chapter 6; The Mushroom Cultivator (Stamets & Chilton, 1983)
+Source: Shroom: A [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the [[australian-magic-mushroom-common-names]] (Letcher, 2006), Chapter 6; The Mushroom Cultivator (Stamets & Chilton, 1983)
 Updated: 2026-04-18
 - [[rig-veda-soma-hymns-amanita-muscaria]]
 - [[siberian-fly-agaric-shamanism-urine-recycling]]
+
 ## Practical Considerations
 
-Successful implementation of Amanita Muscaria: Cultural History and Pharmacology requires attention to
+Successful implementation of [[allegro-amanita-muscaria-properties-and-pharmacology]]: Cultural History and Pharmacology requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -83,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

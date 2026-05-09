@@ -61,7 +61,7 @@ Saving seed from your own best plants is the ultimate form of self-sufficiency. 
 - [[seasonal-gardening-calendar]]
 
 ## Source
-- Hamilton, Geoff & Nick Hamilton. "Organic Gardening." Propagation Techniques section, pp. 269-275.
+- Hamilton, Geoff & Nick Hamilton. "[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]." Propagation Techniques section, pp. 269-275.
 - [[propagation-methods-organic]]
 ## Practical Considerations
 
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

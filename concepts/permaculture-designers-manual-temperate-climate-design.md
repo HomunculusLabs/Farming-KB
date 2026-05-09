@@ -1,5 +1,5 @@
 ---
-title: Temperate Climate Design Strategies
+title: permaculture designers manual temperate climate design Design Strategies
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -20,7 +20,7 @@ A principle to observe: avoid introducing temperate (European) techniques and sp
 ## Zone and Sector Planning
 
 ### Key Design Choice
-Choose house sites for the maximisation of solar radiation in subtropical to cool climates. Houses should be elongated east-west, no more than two rooms (10 m) deep on the north/south axis, so that winter sun penetrates windows to poleward room walls.
+Choose house sites for the maximisation of solar radiation in subtropical to [[greenhouse-cool-climates-mollison]]. Houses should be elongated east-west, no more than two rooms (10 m) deep on the north/south axis, so that winter sun penetrates windows to poleward room walls.
 
 ### Gangamma's Mandala (Adapted for Temperate)
 The intensive small garden model from Taiwan and the Philippines can be adapted to temperate regions using suitable species. The overall pattern can be altered to fit almost every site form. Key elements adapted for temperate use:
@@ -34,7 +34,7 @@ The intensive small garden model from Taiwan and the Philippines can be adapted 
 
 ### Seasonal Planning
 Two main planting periods:
-- **First months of spring**: salad vegetables and all summer crops
+- **First months of spring**: [[hamilton-salad-vegetables-organic]] and all summer crops
 - **Last month of summer / first of autumn**: all over-winter crops and root crops
 
 In milder areas, green manure (oats, tares, fava beans) sown before winter and slashed/dug-in in spring.
@@ -74,7 +74,7 @@ The cool temperate climates are where greenhouses are most commonly used:
 - Bramble and cane thickets protect and nourish young fruit trees
 - Oak, chestnut, plum, apple, and birch thrive in berry thicket succession
 - As trees age and brambles are shaded out, hoofed animals eat fallen fruit
-- Cage walls support trellis of bramble fruits (youngberry, boysenberry)
+- Cage walls [[cervantes-plant-support-trellis-stakes-cages]] of bramble fruits (youngberry, boysenberry)
 
 ### Nut Trees
 - Chestnut, walnut, hazelnut, oak (acorns) are primary temperate nut crops
@@ -87,15 +87,17 @@ The cool temperate climates are where greenhouses are most commonly used:
 Primary tall windbreak of Araucaria, Cupressus, Casuarina, Pinus, hardy Phoenix palms in front-line locations, followed by quickset species. Windbreaks spread at no more than 20 times the hedgerow height in severe wind.
 
 ### Erosion Control
-Contours at 10 m on medium slopes (2-7 degrees) and at 5 m on steep slopes, planted with Canna, Vetiver grass, lemongrass, or pampas grass at 0.3-0.6 m spacing.
+Contours at 10 m on medium slopes (2-7 degrees) and at 5 m on steep slopes, planted with Canna, [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]], lemongrass, or pampas grass at 0.3-0.6 m spacing.
 
 ### Grassland Rehabilitation
 Sod seeding with clover (0.7 kg/ha), trace elements, and water-retaining gels. Coastal pasture establishment without ploughing to prevent Juncus/rush spread.
 
-## Related Topics
+## Related
 
-- permaculture designers manual temperate climate design - Temperate climate overview
-- [[permaculture-designers-manual-greenhouse-design]] - Greenhouse systems
+- [[permaculture-designers-manual-island-climate]] Topics
+
+- permaculture [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] temperate climate design - Temperate climate overview
+- permaculture-designers-manual-greenhouse-design - Greenhouse systems
 - [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]] - Guild design
 - [[permaculture-designers-manual-cold-climate-greenhouse]]
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]

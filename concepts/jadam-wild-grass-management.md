@@ -1,5 +1,5 @@
 ---
-title: "JADAM Wild Grass Management — Co-existing with Weeds Instead of Eliminating Them"
+title: "JADAM jadam-cover-crop-wild-grass-symbiosis Management — Co-existing with Weeds Instead of Eliminating Them"
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # JADAM Wild Grass Management
 
-It is high time to seek a symbiosis with wild grass, or weeds. If we do not succeed in transforming our relationship with wild grass into a symbiotic one, farming will be forever a pain. This is a core principle of [[weed-management-strategies]]
+It is high time to seek a symbiosis [[jadam-coexisting-with-wild-grass]], or weeds. If we do not succeed in transforming our relationship with wild grass into a symbiotic one, farming will be forever a pain. This is a core principle of [[weed-management-strategies]]
 - [[query-what-is-the-soil-food-web-and-why-does-it-matter]]
 - [[jadam-cover-crop-soil-temperature-management]]
 - [[jadam-leaf-mold-soil-method]]
@@ -63,7 +63,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -141,4 +141,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

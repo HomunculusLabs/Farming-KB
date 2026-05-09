@@ -1,5 +1,5 @@
 ---
-title: "What Is the Difference Between Indica, Sativa, and Hybrid Cannabis?"
+title: "What Is the query what is the difference between indica sativa and hybrid cannabis, Sativa, and Hybrid Cannabis?"
 created: 2026-04-28
 tags: [query, cannabis, cannabis-genetics, cannabis-strains]
 date: 2026-04-25
@@ -12,7 +12,7 @@ type: query
 
 ## Short Answer
 The traditional [[cannabis-chemotype-classification]] shows that effects are determined by
-cannabinoid and terpene profiles rather than plant morphology, making the
+cannabinoid and [[cannabis-terpene-profiles-sativa]] rather than plant morphology, making the
 indica/sativa binary scientifically inaccurate for predicting effects.
 
 ## Traditional Indica and Sativa Classification
@@ -27,14 +27,14 @@ creativity and energy. Indica plants were characterized as shorter and bushier
 body-heavy, sedating effects often described as a "couch lock" sensation.
 
 This classification system became the foundation of recreational and medical
-cannabis culture worldwide. Dispensaries organize their menus by indica, sativa,
+[[mckenna-cannabis-culture-history]] worldwide. Dispensaries organize their menus by indica, sativa,
 and hybrid categories, and consumers have been trained to select strains based
 on these labels. However, this system has significant scientific limitations.
 The original taxonomic distinction was based on plant morphology and geography,
 not on the psychoactive or therapeutic effects that modern consumers associate
 with these categories. [[cannabis-breeding-basics]] has been practiced informally for centuries
 and intensively since the 1960s and 1970s, when growers began crossing
-landrace strains from different regions to combine desirable traits. Modern
+[[sativa-landrace-strains-and-geographic-origins]] from different regions to combine desirable traits. Modern
 hybrids are typically classified as indica-dominant, sativa-dominant, or
 balanced (50/50), but the genetic reality is far more complex than these simple
 ratios suggest when analyzed through modern genomic testing.
@@ -48,7 +48,7 @@ in how we understand cannabis effects. Research has demonstrated that the
 subjective effects of cannabis are primarily determined by three factors: the
 ratio and absolute concentrations of cannabinoids (THC, CBD, CBG, CBC, etc.),
 the terpene profile (myrcene, limonene, pinene, linalool, caryophyllene, etc.),
-and the entourage effect, where cannabinoids and terpenes interact synergistically
+and the [[cannabis-terpene-entourage-effect-profiles]], where cannabinoids and terpenes interact synergistically
 to produce effects greater than the sum of their individual contributions.
 
 For example, a plant that looks morphologically like a "sativa" (tall, narrow
@@ -78,3 +78,8 @@ anti-inflammatory benefits without psychoactivity.
 - [[cannabis-landrace-strains]] represent the original gene pools from which
   all modern hybrids descend, with [[cannabis-chemotype-classification]]
 - [[cannabis-breeding-basics]]
+
+## See Also
+
+- [[query-what-is-the-difference-between-topping-and-fimming-cannabis]]
+- [[query-what-is-the-difference-between-indica-sativa-and-ruderalis-cannabis]]

@@ -1,7 +1,7 @@
 ---
 source: mckenna_t-food_of_the_gods.md
-source_author: Terence McKenna
-title: De Quincey and the Birth of Drug Literature
+source_author: [[terence-mckenna]]
+title: De Quincey and the mckenna de quincey birth of drug literature Literature
 topic: psychedelics
 created: 2026-05-08
 ---
@@ -11,7 +11,7 @@ created: 2026-05-08
 Thomas De Quincey's "Confessions of an English Opium-Eater" (1821) represents
 a watershed moment in intellectual history: the first serious literary
 exploration of drug experience from the inside. De Quincey invented not merely a
-genre but an entire framework for understanding psychoactive substances as
+genre but an entire framework for understanding [[cultural-evolution-and-psychoactive-substances]] as
 objects of sustained personal and philosophical inquiry.
 
 ## The Confessions
@@ -39,7 +39,7 @@ human experience. These were not hallucinations in the clinical sense but
 the inexorable logic of dreams.
 
 McKenna noted that De Quincey's opium dreams anticipated the visual vocabulary
-of psychedelic experience by more than a century. The vast spaces, the
+of [[leary-psychedelic-experience-bardo-mapping]] by more than a century. The vast spaces, the
 geometric complexity, the sense of accessing realms larger and more organized
 than ordinary consciousness — all these would become familiar descriptors in
 the psychedelic literature of the 1950s and 1960s.
@@ -58,7 +58,7 @@ nightmares, physical deterioration, and psychological torment that
 accompanied habitual use.
 
 This dialectic had enormous influence on how drug experience was understood
-in Western culture. It embedded the assumption that drug use inevitably
+[[mycophobia-in-western-culture]]. It embedded the assumption that drug use inevitably
 follows a trajectory from pleasure to pain, from enlightenment to
 enslavement — an assumption that McKenna challenged when applied to
 psychedelics.
@@ -91,4 +91,4 @@ De Quincey's influence on subsequent drug literature is immense:
   De Quincey's Romantic sensibility.
 - **[[mckenna-opium-history-demeter-poppy]]
 - [[mckenna-heroin-cocaine-and-synthetic-drugs]]
-- mckenna shamanic tobacco [[nicotiana-rustica]]
+- [[mckenna-shamanic-identification-signs-and-training-methods]] tobacco [[nicotiana-rustica]]

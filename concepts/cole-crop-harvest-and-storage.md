@@ -1,5 +1,5 @@
 ---
-title: Cole Crop Harvest and Storage
+title: Cole Crop purdue-vegetable-harvest-and-storage-guide
 created: 2026-04-28
 date: 2026-04-28
 updated: 2026-04-28
@@ -10,15 +10,15 @@ sources:
 ---
 # Cole Crop Harvest and Storage
 
-Detailed harvest timing and storage instructions for cole crops
-(brassicas) in the home garden, based on Purdue Extension guidelines.
+Detailed [[cannabis-harvest-timing-visual-cues]] and storage instructions for cole crops
+(brassicas) in the [[cool-climate-home-garden-mollison]], based on Purdue Extension guidelines.
 Cole crops store best under cold, moist conditions (32 to 40 degrees
 F, 90 to 95 percent relative humidity).
 
 Related: [[vegetable-garden-guide]],
 [[vegetable-garden-harvest]] — Comprehensive harvest and storage
 - [[legume-and-fruit-vegetable-harvest]] — Legume and fruit harvest
-- [[vegetable-garden-guide]] — Comprehensive vegetable gardening
+- [[vegetable-garden-guide]] — Comprehensive [[home-vegetable-garden-planning]]
   reference
 ## Practical Applications
 
@@ -97,4 +97,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

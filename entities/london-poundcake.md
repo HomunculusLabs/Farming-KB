@@ -11,10 +11,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly Staff (2020). "London Poundcake Cannabis Strain Information." Leafly.
+  - Leafly Staff (2020). "London Poundcake blesching-cannabis-strain-selection-receptor-targeting Information." Leafly.
   - AllBud (2021). "London Poundcake Strain Review." AllBud.com.
   - Weedmaps (2022). "London Poundcake: Strain Info, Lineage, and More." Weedmaps.
-  - Cannabis Training University (2023). "Top Exotic Cannabis Strains of 2023." CTU.
+  - [[query-sog-vs-scrog-cannabis-training-methods]] University (2023). "Top Exotic Cannabis Strains of 2023." CTU.
   - MJBizDaily (2023). "The Rise of Dessert and Pastry-Flavored Cannabis Strains." MJBizDaily.
 created: 2026-04-28
 ---
@@ -40,7 +40,7 @@ London Poundcake has been commercially available since approximately 2019, gaini
 
 Buds are medium to large, densely packed, and exhibit a classic indica structure. The calyxes are tightly coiled with a chunky, rounded appearance. Colors range from deep forest green to purple, with bright orange pistils woven throughout.
 
-Trichome coverage is exceptionally heavy, giving the flowers a frosted, almost white appearance. The resin production is among the highest of modern dessert strains, contributing to both potency and bag appeal. Leaves may display dark purple hues when exposed to cooler temperatures during late flowering.
+Trichome coverage is exceptionally heavy, giving the flowers a frosted, almost white appearance. The [[cannabis-glandular-trichome-types-resin-production-clarke]] is among the highest of modern dessert strains, contributing to both potency and bag appeal. Leaves may display dark purple hues when exposed to cooler temperatures during late flowering.
 
 ## Aroma and Flavor
 
@@ -71,7 +71,7 @@ London Poundcake is among the highest-potency strains commercially available. It
 
 The onset is relatively fast, beginning with a cerebral euphoria that transitions into deep physical relaxation within 30–60 minutes. Users report an initial uplifted mood and creative spark that gradually gives way to couch-lock sedation.
 
-At moderate doses, the strain is effective for stress relief, anxiety reduction, and mild pain management. At higher doses, it becomes profoundly sedating, making it best suited for evening or nighttime use. Many users find it helpful for insomnia.
+At moderate doses, the strain is effective for stress relief, anxiety reduction, and mild [[cannabis-pain-management-protocols]]. At higher doses, it becomes profoundly sedating, making it best suited for evening or nighttime use. Many users find it helpful for insomnia.
 
 ## Cultivation
 
@@ -79,7 +79,7 @@ London Poundcake has a flowering time of 8–9 weeks indoors. Outdoor harvest oc
 
 The strain is considered moderately difficult to cultivate. It is sensitive to nutrient levels and can be prone to calcium and magnesium deficiencies. Maintaining proper pH (6.0–6.8 in soil) and providing adequate calcium supplementation is essential for optimal results.
 
-Temperature control during the final two weeks of flowering enhances purple coloration. The strain is resistant to most common molds and pests but benefits from adequate air circulation due to its dense bud structure.
+Temperature control during the final two weeks of flowering enhances purple coloration. The strain is resistant to most common molds and pests but benefits from adequate [[stamets-growing-room-air-circulation-co2-management]] due to its dense bud structure.
 
 ## Side Effects
 
@@ -89,7 +89,7 @@ The heavy sedative effects can be disorienting if consumed during the day or in 
 
 ## Medical Applications
 
-London Poundcake is popular among medical cannabis patients for managing chronic pain, particularly neuropathic pain and musculoskeletal discomfort. Its sedating properties make it effective for insomnia when consumed before bed.
+London Poundcake is popular among medical cannabis patients for managing [[cannabis-chronic-pain-management]], particularly neuropathic pain and musculoskeletal discomfort. Its sedating properties make it effective for insomnia when consumed before bed.
 
 The anxiolytic effects of caryophyllene and myrcene provide relief for generalized anxiety and stress-related disorders. Some patients report benefit for appetite stimulation and nausea reduction, though clinical evidence is limited.
 
@@ -106,7 +106,7 @@ London Poundcake has been used extensively as a parent in modern breeding progra
 
 - [[sunset-sherbet]]
 - [[gary-payton-cannabis]]
-- [[wedding-cake-cannabis]]
+- [[wedding-cake]]
 - [[ice-cream-cake-cannabis]]
 - [[gmo-cannabis]]
 - [[banana-kush]]

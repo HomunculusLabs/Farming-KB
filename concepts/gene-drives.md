@@ -2,7 +2,8 @@
 title: "Gene Drives"
 created: 2026-04-28
 updated: 2026-05-06
-sources: []
+sources:
+  sources: []
 type: concept
 tags: [reference]
 ---
@@ -17,12 +18,12 @@ Instead of following ordinary Mendelian transmission, a drive can make more than
 
 This gives the element the potential to spread through a population even when it reduces individual fitness.
 
-The concept is important because it links molecular biology, population genetics, ecology, public health, and governance.
+The concept is important because it links molecular biology, [[aspergillus-fumigatus-population-genetics]], ecology, public health, and governance.
 
 Modern gene drives are often discussed in connection with [[holmgren-genetic-engineering-and-evolution]]
 - [[singh-genetically-engineered-fungi-bioremediation]]
 
-See also: [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]]
+See also: [[legume-nitrogen-fixation-and-green-manure]]
 ## Practical Applications
 
 Gene Drives has a range of practical applications that make it relevant to
@@ -40,7 +41,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -90,7 +91,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -100,4 +101,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

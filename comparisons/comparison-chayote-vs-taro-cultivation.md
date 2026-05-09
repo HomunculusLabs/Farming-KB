@@ -1,5 +1,5 @@
 ---
-title: "Chayote vs Taro Cultivation"
+title: "comparison chayote vs taro cultivation Cultivation"
 tags: [chayote, taro, tropical-crops, root-crops, perennial-vegetables, comparison]
 date: 2026-04-28
 updated: 2026-04-28
@@ -21,7 +21,7 @@ A comprehensive comparison of two important perennial starchy crops grown across
 | Attribute | Chayote (*Sechium edule*) | Taro (*Colocasia esculenta*) |
 |-----------|--------------------------|-------------------------------|
 | Family | Cucurbitaceae (gourd family) | Araceae (arum family) |
-| Origin | Mesoamerica (Mexico/Guatemala) | Southeast Asia / India |
+| Origin | Mesoamerica (Mexico/Guatemala) | [[psilocybe-southeast-asia-pacific]] / India |
 | Edible part | Fruit, tuberous roots, young shoots | Corm (main underground stem), leaves |
 | Lifespan | Perennial vine (5-10 years productive) | Perennial herb (6-12 months per crop cycle) |
 
@@ -37,11 +37,11 @@ Chayote belongs to the same family as cucumbers and squash, while taro is an aro
 
 **Chayote** tolerates a wide range of soils but performs best in deep, well-drained loams with a pH of 6.0-7.5. It will grow in poorer soils than taro but produces larger yields with good fertility. Sandy or gravelly soils are acceptable as long as drainage is adequate.
 
-**Taro** prefers deep, fertile, moisture-retentive loams or clay loams with a pH of 5.5-6.5 (slightly acidic). It is commonly grown in flooded or waterlogged conditions (paddy cultivation), which few other food crops tolerate. Soil organic matter should be high for best corm size.
+**Taro** prefers deep, fertile, moisture-retentive loams or clay loams with a pH of 5.5-6.5 (slightly acidic). It is commonly grown in flooded or waterlogged conditions (paddy cultivation), which few other food crops tolerate. Soil [[hamilton-composting-and-organic-matter-management]] should be high for best corm size.
 
 ## Planting and Propagation
 
-**Chayote** is propagated by planting the whole fruit. A mature fruit is placed on its side in a shallow trench or mound, with the narrow (stem) end slightly elevated. Sprouting occurs in 2-4 weeks. Entire fruits can also be started in containers and transplanted. There is no true seed propagation in common practice.
+**Chayote** is propagated by planting the whole fruit. A mature fruit is placed on its side in a shallow trench or mound, with the narrow (stem) end slightly elevated. Sprouting occurs in 2-4 weeks. Entire fruits can also be started in containers and transplanted. There is no true [[jeavons-seed-propagation-techniques]] in common practice.
 
 **Taro** is propagated from small cormels (side corms) or from the top portion (huli) of the main corm, typically weighing 100-300 g each. These are planted 5-10 cm deep in prepared beds or paddies. One huli can produce 5-15 cormels at harvest. [[ground-cover-plants]]. Allow 2-3 m² per plant on a trellis system.
 
@@ -51,7 +51,7 @@ Chayote belongs to the same family as cucumbers and squash, while taro is an aro
 
 **Chayote** has moderate water requirements once established. Deep, infrequent irrigation suits it better than constant saturation. Overwatering in poorly drained soils leads to root rot. It is somewhat [[powdery-mildew-cannabis]]. Fruit flies may attack ripening fruits in some regions. Nematodes can damage roots in sandy soils.
 
-**Taro** faces more serious pest and disease pressure. Major threats include taro leaf blight (*Phytophthora colocasiae*), which devastated Pacific Island crops in the 1990s, taro beetle (*Papuana* spp.), root-knot nematodes, and aphid-vectored viruses (dasheen mosaic virus). Taro leaf blight remains the single greatest production constraint globally.
+**Taro** faces more serious [[hamilton-pest-and-disease-control-organic]] pressure. Major threats include taro leaf blight (*Phytophthora colocasiae*), which devastated Pacific Island crops in the 1990s, taro beetle (*Papuana* spp.), root-knot nematodes, and aphid-vectored viruses (dasheen mosaic virus). Taro leaf blight remains the single greatest production constraint globally.
 
 ## Storage and Preservation
 
@@ -79,6 +79,6 @@ Chayote belongs to the same family as cucumbers and squash, while taro is an aro
 | **Nutritional density** | Moderate (low calorie) | High (calorie-dense) |
 | **Pest/disease resistance** | Good | Poor (leaf blight risk) |
 | **Storage life** | Good (fruits 3-6 weeks) | Fair (1-3 months) |
-| **Permaculture fit** | Excellent climber | Good ground cover |
+| **Permaculture fit** | Excellent climber | Good [[fukuoka-citrus-orchard-ground-cover-cultivation]] |
 | **Culinary versatility** | High (fruit, shoots, tuber) | High (corm, leaves, poi) |
 | **Beginner friendly** | Yes | Needs experience |

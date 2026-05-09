@@ -16,7 +16,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 
 ## Overview
 Verticillium biguttatum is a soil-dwelling ascomycete
-mycoparasite and the most important known biological control
+mycoparasite and the most important known [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]
 agent against Rhizoctonia solani in agricultural soils. Unlike
 most Verticillium species, which are plant pathogens, V.
 biguttatum has evolved a specialized mycoparasitic lifestyle
@@ -49,7 +49,7 @@ co-evolutionary relationship between parasite and host.
 
 V. biguttatum belongs to the same genus as the destructive plant
 pathogens Verticillium dahliae and V. albo-atrum, which cause
-vascular wilt diseases in hundreds of crop species. Under modern
+[[cervantes-fusarium-vascular-wilt-diseases]] diseases in hundreds of crop species. Under modern
 classification, some Verticillium species have been transferred
 to the genus Lecanicillium based on molecular phylogenetic data.
 V. biguttatum produces conidia in whorls (verticils) on
@@ -89,7 +89,7 @@ containing benomyl, sodium propionate, rose bengal, antibacterial
 antibiotics, and PCNB (pentachloronitrobenzene) (Jager and Velvis
 1985). PCNB is selective for Rhizoctonia and related genera,
 while the other components suppress bacterial and competing
-fungal growth. This formulation allows sensitive detection of V.
+[[brassinosteroid-fungal-growth-promotion]]. This formulation allows sensitive detection of V.
 biguttatum populations in field soil.
 
 ### Ecology and Distribution
@@ -99,7 +99,7 @@ The parasite's distribution is closely linked to that of its
 host, as V. biguttatum depends on R. solani for nutrition and
 reproduction. In soils where R. solani is absent, V. biguttatum
 populations decline, though the fungus can persist
-saprotrophically on organic matter for limited periods.
+saprotrophically on [[hamilton-composting-and-organic-matter-management]] for limited periods.
 
 ### Relationship to Other Verticillium Species
 The contrast between V. biguttatum (mycoparasite) and V. dahliae
@@ -113,11 +113,11 @@ plants and V. dahliae causing disease.
 ## Relevance
 V. biguttatum is the premier biocontrol agent against R. solani,
 one of the most challenging soil-borne plant pathogens in
-agriculture. Its natural occurrence in agricultural soils and co-
+agriculture. Its [[brassinosteroid-natural-occurrence-plant-kingdoms]] in agricultural soils and co-
 evolutionary relationship with its host make it a well-adapted
 biological control agent. The species demonstrates that even
 within predominantly pathogenic genera, beneficial mycoparasites
-can evolve and provide significant disease suppression in crop
+can evolve and provide significant [[aact-disease-suppression-mechanisms-ingham]] in crop
 production systems.
 
 ## See Also

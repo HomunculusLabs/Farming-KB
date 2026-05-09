@@ -1,5 +1,5 @@
 ---
-title: "Fungal Biodegradation of Coal"
+title: "gadd-fungal-biodegradation-bioremediation of Coal"
 created: 2026-04-28
 tags: [mycoremediation, coal-biodegradation, ligninolytic-fungi, bioconversion]
 date: 2026-04-25
@@ -20,7 +20,7 @@ environmental remediation of coal-contaminated sites.
 
 ## Mechanisms of Coal Transformation
 
-Two primary mechanisms govern fungal interactions with coal:
+Two primary mechanisms govern [[singh-fungal-interactions-with-heavy-metals-in-soil]] with coal:
 
 ### Solubilization
 Typical for molds, yeasts, actinomycetes, and pseudomonad bacteria.
@@ -59,11 +59,11 @@ to modify the physicochemical properties of hard coal (Hofrichter, 1998):
 ## Role of Ligninolytic Enzymes
 
 Ligninolytic Basidiomycetes produce three key enzymes involved in coal
-depolymerization: lignin peroxidase (LiP), manganese peroxidase (MnP),
+depolymerization: [[fungal-lignin-peroxidase-veratryl-alcohol]] (LiP), [[fungal-manganese-peroxidase-remediation]] (MnP),
 and laccase. These enzymes attack the aromatic and phenolic structures
 in coal macromolecules:
 
-- **Phanerochaete chrysosporium**: Depolymerizes and decolorizes
+- **[[staycare-phanerochaete-chrysosporium-in-bioremediation]]**: Depolymerizes and decolorizes
   alkali-soluble acid-precipitate LRC macromolecules. Nitrogen-limited
   media with hyperbaric oxygen enhance transformation through MnP and
   LiP activity
@@ -118,10 +118,13 @@ required for complete coal transformation. The precise role of individual
 ligninolytic enzymes in coal depolymerization remains unclear, and more
 research is needed to optimize conditions for practical applications.
 Scale-up from laboratory to industrial settings presents challenges in
-maintaining fungal activity and enzyme production over extended periods.
+maintaining fungal activity and [[ligninolytic-enzyme-production-bioremediation]] over extended periods.
 
 ## See Also
 
 - [[singh-white-rot-fungi-lignin-modifying-enzymes]]
-- [[rock-eating-fungi-and-mineral-weathering]]
+- rock-eating-fungi-and-mineral-weathering
 - [[singh-fungal-biodegradation-biodeterioration-materials]]
+- [[fungal-coal-biodegradation]]
+- [[trichoderma-atroviride]]
+- [[ligninolytic-enzymes]]

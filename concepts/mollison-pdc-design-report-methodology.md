@@ -1,5 +1,5 @@
 ---
-title: Mollison Pdc Design Report Methodology
+title: Mollison mollison pdc design report methodology Report Methodology
 created: 2026-04-28
 tags:
   - permaculture
@@ -22,7 +22,7 @@ The PDC establishes a six-step methodology for [[maps]], local regulations
 2. **Analyze the client's problems:** Identify constraints and
    opportunities
 3. **Recognize applicable [[cannabis-advanced-refinement-fractional-distillation]])
-- Salable seed, medicinal herbs and mushrooms, insect resources
+- Salable seed, [[permaculture-plants-medicinal-herbs-healing]] and mushrooms, insect resources
 - Hydroelectric potential, wind sites, usable wood, solar exposure
 
 ### Social Resources
@@ -56,7 +56,7 @@ commercial crop strategies.
 
 ### Area-by-Area Detail
 Starting with area #1 (nearly always the house site and intensive
-garden), work through each numbered area. Define house design
+garden), work through each numbered area. Define [[mollison-designers-house-design-climate-zones]]
 principles, garden placement, roof water collection, and specific
 planting and management systems.
 
@@ -109,3 +109,5 @@ Mollison catalogs ten critical design errors:
 "Make it clear that you do not guarantee anything in this report since
 many conditions can change." Assure the client you will answer further
 ## See Also
+
+- [[mollison-pdc-small-pond-frog-habitat-design]]

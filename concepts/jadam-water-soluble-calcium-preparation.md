@@ -4,7 +4,7 @@ created: 2026-04-26
 updated: 2026-04-23
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
-  - JADAM Organic Farming: The Way to Ultra-Low-Cost Agriculture (Youngsang Cho, 2016)
+  - JADAM [[coleman-deep-organic-farming-philosophy]]: The Way to Ultra-Low-Cost Agriculture (Youngsang Cho, 2016)
 type: concept
 tags: [jadam, water]
 ---
@@ -19,9 +19,9 @@ to purchase commercial calcium supplements.
 
 ## Why Calcium Matters
 
-Calcium deficiency manifests in multiple crop problems. In rice, calcium
+[[knf-calcium-deficiency-symptoms]] manifests in multiple crop problems. In rice, calcium
 shortage contributes to lodging (falling over), disease susceptibility,
-and poor grain quality. In fruit crops, calcium deficiency causes bitter
+and poor grain quality. In uncommon specialty fruit crops for permaculture, calcium deficiency causes bitter
 pit, blossom end rot, and cracking. Adequate calcium strengthens cell
 walls, making plants more resistant to fungal penetration and physical
 damage.
@@ -42,7 +42,7 @@ food processing facilities at no cost.
 ### Preparation Method
 
 1. **Collection and cleaning**: Collect eggshells and remove residual
-   membrane and organic matter. Rinse thoroughly with water.
+   membrane and [[hamilton-composting-and-organic-matter-management]]. Rinse thoroughly with water.
 
 2. **Drying**: Spread cleaned eggshells in a thin layer and dry
    completely in sunlight or a warm, well-ventilated area. Complete
@@ -65,7 +65,7 @@ food processing facilities at no cost.
 ### Application
 
 Dissolved eggshell calcium is applied as a foliar spray or soil drench.
-For foliar application, the solution must be finely filtered to prevent
+For [[ultra-low-cost-foliar-application-methods]], the solution must be finely filtered to prevent
 sprayer clogging. Apply during active growth periods when calcium demand
 is highest.
 
@@ -99,7 +99,7 @@ JMW is made by boiling mineral-rich rocks or sea materials in water to
 extract trace minerals into plant-available form.
 
 A related approach uses [[jadam-natural-pest-control-methods]]. Adding water-soluble calcium to the pesticide
-spray barrel provides simultaneous pest control and calcium
+spray barrel provides simultaneous [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] and calcium
 supplementation. This reduces the number of spray applications needed,
 saving labor and time.
 

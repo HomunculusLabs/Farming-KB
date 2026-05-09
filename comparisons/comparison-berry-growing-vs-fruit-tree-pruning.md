@@ -1,19 +1,11 @@
 ---
-title: "Comparison Berry Growing Vs Fruit Tree Pruning"
-created: 2026-05-02
-updated: 2026-05-02
-type: comparison
-tags: [gardening, homesteading, permaculture]
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
----
-title: "[[fruit-tree-pruning]]"
+title: "fruit-tree-pruning"
 tags: [comparison, fruit, orcharding, pruning, perennial]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
+  sources: []
 ---
 
 # Berry Growing vs Fruit Tree Pruning
@@ -33,7 +25,7 @@ trees for decades.
 Fruit tree pruning is the single most important skill for managing orchard
 productivity and tree health. Proper pruning determines tree shape, fruit
 quality, disease resistance, and long-term productivity. The three main training
-systems are central leader (a dominant vertical trunk with scaffold branches at
+systems are [[comparison-central-leader-vs-open-center-fruit-tree-training]] (a dominant vertical trunk with scaffold branches at
 intervals, standard for apples and pears producing a conical shape), open center
 or vase (no central leader, 3-5 main scaffold branches radiating outward,
 preferred for peaches, plums, and cherries in areas with less risk of sunscald),
@@ -49,14 +41,14 @@ production capacity over time.
 
 ## Hybrid Approaches
 
-The most productive homestead integrates both berries and fruit trees in a
+The most productive homestead integrates both berries and [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] in a
 layered [[comparison-food-forest-design-vs-backyard-orchard-design]]. Plant fruit trees as the upper canopy and
 berries as the understory. Brambles can be trained along the perimeter of
 orchard rows, using the fence or a simple wire trellis as support. Strawberries
-serve as a living mulch under young fruit trees, producing fruit while
+serve as a [[comparison-living-mulch-vs-cover-crops]] under young fruit trees, producing fruit while
 suppressing weeds and retaining soil moisture. Blueberries and currants fill the
 partial-shade edges of the orchard where fruit trees cast afternoon shadows.
-This layered approach maximizes food production per square foot and creates a
+This layered approach maximizes food production per [[comparison-biointensive-vs-square-foot-gardening]] and creates a
 ## Practical Considerations
 
 When working with Comparison Berry Growing Vs Fruit Tree Pruning, several practical factors should be
@@ -73,7 +65,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +107,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

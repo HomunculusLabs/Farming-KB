@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-N,N-Dimethyltryptamine (DMT) is a naturally occurring tryptamine compound found in many plants, animals, and fungi. It is a potent serotonergic psychedelic and one of the most widely distributed psychoactive compounds in nature. DMT has been used for centuries in indigenous South American ayahuasca ceremonies and has become the subject of intensive clinical research for its potential therapeutic applications. This page covers chemistry, natural sources, pharmacology, effects, dosage, and safety.
+N,N-Dimethyltryptamine (DMT) is a naturally occurring tryptamine compound found in many plants, animals, and fungi. It is a potent serotonergic psychedelic and one of the most widely distributed psychoactive compounds in nature. DMT has been used for centuries in indigenous [[chiric-caspi-brunfelsia-south-american-hallucinogen]] [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] and has become the subject of intensive [[hofmann-lsd-clinical-research-early-studies]] for its potential therapeutic applications. This page covers chemistry, natural sources, pharmacology, effects, dosage, and safety.
 
 ## Chemistry
 
@@ -46,7 +46,7 @@ N,N-Dimethyltryptamine (DMT) is a naturally occurring tryptamine compound found 
 - **Diplopterys cabrerana** (chaliponga): Up to 1% DMT
 - **Mimosa tenuiflora** (M. hostilis / jurema): Root bark contains 0.57-1.0% DMT
 - **Acacia species**: A. confusa, A. obtusifolia, A. maidenii — bark contains DMT
-- **Anadenanthera peregrina** (yopo) and A. colubrina (vilca): Seeds contain DMT, 5-MeO-DMT, bufotenin
+- **[[yopo-anadenanthera-peregrina-snuff]]** (yopo) and A. colubrina (vilca): Seeds contain DMT, 5-MeO-DMT, bufotenin
 - **Virola species**: V. theiodora, V. sebifera — bark resin used as snuff
 
 ### Animals
@@ -121,7 +121,7 @@ DMT is primarily a serotonin (5-HT) receptor agonist:
 
 - Intense visual hallucinations (geometric patterns, colors, entities, landscapes)
 - Altered sense of time and space
-- Ego dissolution or "ego death" at high doses
+- [[psilocybin-ego-dissolution-mechanisms]] or "ego death" at high doses
 - Mystical or spiritual experiences
 - Emotional catharsis
 - Synesthesia
@@ -142,40 +142,8 @@ DMT is primarily a serotonin (5-HT) receptor agonist:
 **Smoked/Vaporized (Freebase)**: Threshold 2-5 mg, Light 10-20 mg, Moderate 20-40 mg, Strong 40-60 mg, Breakthrough 60-100+ mg.
 
 **Oral (Ayahuasca)**: Typical ceremonial dose 50-100 mg DMT with 50-150 mg harmine/harmaline. Effects depend heavily on MAOI dose and individual MAO activity.
-
-## Safety
-
-### Physical Safety
-
-- DMT has very low toxicity; no known lethal dose in humans
-- Primary risks are psychological, not physiological
-- Avoid with cardiovascular conditions (transient BP/HR increase)
-- Avoid with personal/family history of psychosis
-- Serotonin syndrome risk with SSRIs or other serotonergic drugs
-
-### Psychological Safety
-
-- Set and setting are critical for safe experiences
-- Integration support recommended after intense experiences
-- Contraindicated for schizophrenia, bipolar, or psychotic disorders
-- "Bad trips" can occur — preparation and a trusted guide reduce risk
-
-### Legal Status
-
-- Schedule I in the United States (illegal to possess, manufacture, or distribute)
-- Controlled substance in most countries worldwide
-- Ayahuasca legally protected for religious use in some jurisdictions (Brazil, Peru, certain US exemptions)
-- DMT-containing plants have varying legal status depending on preparation and intent
-
-## Clinical Research
-
-- Ongoing research at institutions including Johns Hopkins, Imperial College London, and Usona Institute
-- Investigating DMT for treatment-resistant depression, anxiety related to life-threatening illness, and substance use disorders
-- Ayahuasca research for depression, PTSD, and addiction
-- Neuroscience studies of brain mechanisms (default mode network disruption, increased global connectivity)
-
 ## See Also
 
 - [[bioluminescent-fungi]] — Fungal chemistry and ecology
 - [[fungal-symbiosis-types]] — Natural compounds in fungal relationships
-- [[mushroom-taxonomy-history]] — Classification of psychoactive fungi
+- [[mushroom-taxonomy-history]] — Classification of [[cattle-dispersal-psychoactive-fungi-australia]]

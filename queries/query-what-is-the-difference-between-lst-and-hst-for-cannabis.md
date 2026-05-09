@@ -1,10 +1,11 @@
 ---
-title: "What Is the Difference Between LST and HST for Cannabis"
+title: "What Is the query what is the difference between lst and hst for cannabis and HST for Cannabis"
 created: 2026-04-28
 tags: [query, cannabis, training, plant-care, growing]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -19,7 +20,7 @@ with autoflowers, while HST produces more dramatic structural changes but
 requires more recovery time.
 
 ## Detailed Explanation
-Plant training techniques are methods used to manipulate the growth pattern and
+Plant [[cannabis-training-techniques-comparison]] are methods used to manipulate the growth pattern and
 structure of cannabis plants to increase yield, improve light distribution, and
 control plant height. All training methods fall into two broad categories based
 on how much stress they place on the plant. Understanding the distinction
@@ -33,7 +34,7 @@ cleaners, or garden wire to create a more horizontal canopy. By bending the
 tallest growth tips downward, growers expose lower branch sites to more light,
 encouraging them to develop into colas rather than remain as small,
 underdeveloped lower buds. This technique can begin as soon as the plant has
-developed three to four nodes and can continue throughout the vegetative stage.
+developed three to four nodes and can continue throughout the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]].
 The [[cervantes-supercropping-plant-stress-techniques]] crushes the
 inner tissue of a stem without breaking the outer skin, creating a knuckle that
 supports a horizontal branch position. All HST methods work on the same
@@ -83,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

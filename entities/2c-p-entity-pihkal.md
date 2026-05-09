@@ -1,5 +1,5 @@
 ---
-title: "2C-P (4-Propyl-2,5-dimethoxy-PEA) -- PIHKAL Entry #36"
+title: "2C-P (4-Propyl-2,5-dimethoxy-PEA) -- 2c-b-pihkal-entry-20 #36"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -47,7 +47,7 @@ PIHKAL entry #36. 4-Propyl-2,5-dimethoxy-PEA.
 > this material worked for a good week after the experience, with
 > internal processes taking place, many insights, and energy running.
 > At times the energy was a little uncom-fortable, but could always be
-> quelled by taking a moment for deep relaxation or looking directly at
+> quelled by taking a moment for [[blesching-cannabis-deep-relaxation-healing]] or looking directly at
 > the internal process. I feel that much good internal work has been
 > done, a lot of it unconscious.
 >
@@ -115,7 +115,7 @@ oil boiling at 130-137 deg C at 4 mm/Hg.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

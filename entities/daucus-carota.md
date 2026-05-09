@@ -12,17 +12,17 @@ tags:
   - permaculture
 sources:
   - Rubatzky, V.E., Quiros, C.F., Simon, P.W. (1999). "Carrots and Related Vegetable Umbelliferae." CABI Publishing.
-  - Small, E. (2006). "Culinary Herbs." NRC Research Press.
+  - Small, E. (2006). "[[holzer-medicinal-and-culinary-herbs-compendium]]." NRC Research Press.
   - Ilnyckyj, J. (2010). "Edible Wild Plants of the Prairie." University of Alberta Press.
   - USDA Natural Resources Conservation Service. "Daucus carota L." PLANTS Database.
-  - Duke, J.A. (2002). "Handbook of Medicinal Herbs." CRC Press, 2nd edition.
+  - Duke, J.A. (2002). "Handbook of [[permaculture-plants-medicinal-herbs-healing]]." CRC Press, 2nd edition.
 ---
 
 ## Overview
 
 **Daucus carota** L. is a biennial herbaceous plant in the family Apiaceae, native to temperate regions of Europe and Southwest Asia. The wild form, commonly known as **Queen Anne's lace** or wild carrot, is the progenitor of the domesticated carrot (*D. carota* subsp. *sativus*), one of the world's most important root vegetable crops.
 
-The species exhibits a broad white taproot in its wild form, which was selectively bred over centuries into the orange, purple, yellow, and white cultivars known today. Wild populations are widespread across North America, Europe, and temperate Asia, often colonizing disturbed soils, meadows, and roadsides.
+The species exhibits a broad white taproot in its wild form, which was selectively bred over centuries into the orange, purple, yellow, and white cultivars known today. Wild populations are widespread across [[psilocybin-north-america-pacific-northwest]], Europe, and temperate Asia, often colonizing disturbed soils, meadows, and roadsides.
 
 ## Taxonomy and Morphology
 
@@ -67,13 +67,13 @@ Wild carrot is a valuable nectar source for a wide range of pollinators. The sha
 
 In companion planting, carrots are classically paired with **onions and alliums** — the onion's volatile sulfur compounds repel carrot rust fly, while carrot aroma deters onion maggot. Carrots also benefit from intercropping with rosemary, sage, and legumes.
 
-In permaculture systems, wild carrot serves as a dynamic accumulator of nutrients. Its deep taproot mines minerals from subsoil layers. The plant's drought tolerance and self-seeding habit make it a low-maintenance ground cover in food forests and polyculture beds.
+In permaculture systems, wild carrot serves as a [[nutrient-dynamic-accumulator-reference]] of nutrients. Its deep taproot mines minerals from subsoil layers. The plant's [[dighton-fungal-drought-tolerance-plant-water-relations]] and self-seeding habit make it a low-maintenance ground cover in food forests and polyculture beds.
 
 ## Permaculture Applications
 
 Carrots fit into multiple permaculture niches. As a root crop, they occupy the below-ground layer in guild plantings. Their relative shade tolerance allows cultivation under fruit tree canopies in forest garden designs.
 
-The species performs well in no-till systems when sown into loosened surface soil. Succession planting every 2–3 weeks extends harvest windows. Carrot tops (leaf material) are a useful green manure or compost input, returning nutrients to the soil surface.
+The species performs well in no-till systems when sown into loosened surface soil. [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] every 2–3 weeks extends harvest windows. Carrot tops (leaf material) are a useful green manure or compost input, returning nutrients to the soil surface.
 
 **Seed saving** is straightforward: wild and open-pollinated varieties cross readily within the species. Isolation distances of 500+ meters prevent unwanted cross-pollination. The biennial lifecycle requires overwintering for seed production, which suits permaculture's emphasis on perennial and self-seeding systems.
 
@@ -111,7 +111,12 @@ The species spread to the Mediterranean by the 12th century, to China by the 14t
 
 ## See Also
 
-- [[ferula-assafoetida]]
+- [[coniine]]
+
+- ferula-assafoetida
 - [[anethum-graveolens]]
 - [[carthamus-tinctorius]]
 - apiaceae
+- [[companion-planting]]
+- [[guild-planting]]
+- [[succession-planting]]

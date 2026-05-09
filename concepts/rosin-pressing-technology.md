@@ -19,7 +19,7 @@ simplicity, safety, and the quality of the final product.
 
 ## Principles of Rosin Extraction
 
-Rosin pressing exploits the thermoplastic properties of cannabis trichomes.
+Rosin pressing exploits the thermoplastic properties of [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]].
 When heated, the resinous material inside trichome heads becomes less viscous
 and flows under pressure. By applying controlled heat and pressure to cannabis
 material between two heated plates, the melted resin is forced out of the plant
@@ -78,7 +78,7 @@ grades of source material are commonly used:
 - **Bubble hash rosin** (hash rosin): Pressed from ice water extracted
   hashish. This combination is considered the pinnacle of solventless
   extraction, producing extremely clean, flavorful, and potent rosin.
-- **Dry sift rosin**: Pressed from dry-sifted kief or hash. Similar to hash
+- **[[green-cannabis-dry-sift-water-extraction]] rosin**: Pressed from dry-sifted kief or hash. Similar to hash
   rosin but with potentially more plant contamination depending on the
   quality of the sift.
 
@@ -109,7 +109,7 @@ Key features that distinguish quality rosin presses include:
 
 ## See Also
 
-- [[pdc-energy-systems-and-appropriate-technology]]
+- pdc-energy-systems-and-appropriate-technology
 - [[cannabis-alchemy-overview]]
 - [[cannabis-extraction-solvents]]
 - [[cannabis-chromatography-cannabinoid-purification]]

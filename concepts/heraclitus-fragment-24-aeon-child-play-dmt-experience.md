@@ -4,7 +4,7 @@
 ## Overview
 
 [[ancient-greek-mystery-cults-comparison]] culture, play was associated with freedom and divine activity. The gods play; mortals work. The DMT state restores the experiencer to a divine mode of being
-2. **Non-utility** — Play is activity pursued for its own sake, not for instrumental purposes. The DMT entities engage in aesthetic or creative activity without obvious practical function
+2. **Non-utility** — Play is activity pursued for its own sake, not for instrumental purposes. The [[mckenna-dmt-entities-borges-and-archaic-secret]] engage in aesthetic or creative activity without obvious practical function
 3. **Creativity** — The self-transforming objects of the DMT vision are engaged in continuous creative activity, generating novel forms and patterns
 4. **Risk** — True play involves uncertainty and risk, paralleling the terror and astonishment of the DMT experience
 
@@ -15,7 +15,7 @@ The "colored balls" or "counters" of the fragment resonate with multiple aspects
 
 ## The Merry Go Raum
 
-McKenna extended the Heraclitean image with a reference from James Joyce's Finnegans Wake:
+McKenna extended the Heraclitean image with a reference from James Joyce's [[dmt-finnegans-wake-and-the-merry-go-raum]]:
 
 > "In Finnegans Wake such a place is called the 'merry go raum,' from the German word raum, for 'space.' The room is actually going around, and in that space one feels like a child, though one has come out somewhere in eternity."
 
@@ -29,7 +29,7 @@ Heraclitus's concept of the Logos — the word, reason, or organizing principle 
 
 > "Psilocybin and DMT invoke the Logos, although DMT is more intense and more brief in its action. This means that they work directly on the language centers."
 
-The Heraclitean Logos is not merely linguistic; it is the underlying pattern of reality itself. The DMT experience gives direct access to this underlying pattern — not through language but through the translinguistic matter that underlies language.
+The Heraclitean Logos is not merely linguistic; it is the underlying pattern of reality itself. The DMT experience gives direct access to this underlying pattern — not through language but through the [[mckenna-translinguistic-matter-and-exteriorized-soul]] that underlies language.
 
 ### Eternal Recurrence and the Nunc Stans
 
@@ -64,9 +64,9 @@ The parallel to the DMT experience is striking: the experience points toward som
 
 McKenna tied the Heraclitus fragment to his theory of historical acceleration. The Aeon at play is not static; the play intensifies toward an [[tryptamine-hallucinogens-and-consciousness]]
 - heraclitus and pre socratic philosophy
-- translinguistic matter and exteriorized soul
-- eschatology and acceleration of history
-- nunc stans and eternity in psychedelic experience
+- translinguistic matter and [[mckenna-exteriorized-soul-and-psychedelic-bar-mitzvah]]
+- [[mckenna-eschatology-and-acceleration-of-history]] of history
+- nunc stans and eternity in [[leary-psychedelic-experience-bardo-mapping]]
 - [[self-transforming-machine-elves]]
 - logos tryptamine language centers
 ## Practical Considerations
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

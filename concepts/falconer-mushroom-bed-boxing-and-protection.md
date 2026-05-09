@@ -1,5 +1,5 @@
 ---
-title: Falconer Mushroom Bed Boxing and Protection
+title: Falconer [[falconer-mushroom-cellar-management]] bed boxing and protection Boxing and Protection
 created: 2026-04-28
 tags:
   [
@@ -32,7 +32,7 @@ cloth hung curtain-fashion over the beds.
 
 The objection to mushroom beds on greenhouse benches is
 their liability to frequent and marked changes of atmospheric
-temperature and moisture, and to drying out. Boxing or
+[[mushroom-growing-temperature-and-moisture]], and to drying out. Boxing or
 curtain-covering mitigates these problems.
 
 ## Mulching with Straw and Hay
@@ -49,7 +49,7 @@ protection is required during freezing weather:
   top of the boxing
 
 The beds should be made deeper in a cool shed than in a
-cellar or warm mushroom house, so that they may retain
+cellar or warm [[mushroom-house-construction-duggar]], so that they may retain
 their heat for a long time. This is essential because the
 fermenting manure provides the primary heat source, and
 without adequate depth and insulation, cold will penetrate
@@ -57,7 +57,7 @@ and stagnate the crop.
 
 ## Covering Against Condensation Drip
 
-One of the chief troubles with flat-roofed mushroom cellars
+One of the chief troubles with flat-roofed [[nineteenth-century-mushroom-cellars]]
 is the drip from the condensed moisture rising from the
 beds, and this is more apparent in unheated than in heated
 cellars. The wet gathers upon the ceiling and, having no
@@ -66,7 +66,7 @@ slope to run off, drips down again.
 Oiled paper or calico strung along wise above the upper beds
 protects them perfectly; whatever falls upon the
 passage-ways upon the floor does no harm. This simple
-protection prevents damage to the mushroom crop from
+protection prevents damage to the [[sustaining-mushroom-crop-flushing-harvesting]] from
 cold drips that can chill and check the growth of the
 mushrooms.
 

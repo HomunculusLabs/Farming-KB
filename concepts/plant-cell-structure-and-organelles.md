@@ -1,5 +1,5 @@
 ---
-title: Plant Cell Structure and Organelles
+title: Plant plant cell structure and organelles and Organelles
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Plant Cell Structure and Organelles
 
-The plant cell is the fundamental unit of plant life and the stage upon which all nutrient uptake and utilization occurs. Understanding cell structure is essential to understanding how plants eat.
+The plant cell is the fundamental unit of plant life and the stage upon which all [[plant-nutrient-uptake-mechanisms]] and utilization occurs. Understanding cell structure is essential to understanding how plants eat.
 
 ## Cell Theory
 
@@ -25,7 +25,7 @@ Additional components include hemicelluloses and pectins that bind cellulose tog
 
 ### The Casparian Strip
 
-In roots, a special set of endodermis cells have walls with a strip of suberin and waxes forming the Casparian strip. This prevents water from flowing freely through cell walls and forces it through the cell membrane, regulating what enters the plant's vascular system.
+In roots, a special set of endodermis cells have walls with a strip of suberin and waxes forming the Casparian strip. This prevents water from flowing freely through cell walls and forces it through the [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]], regulating what enters the plant's vascular system.
 
 ### The Apoplastic Pathway
 
@@ -37,7 +37,7 @@ The plasmalemma is a semi-permeable, semi-fluid membrane made of two sheets of p
 
 ### Plasmodesmata
 
-Tiny tunnels (50nm diameter, up to 100nm long) connecting every cell to its neighbors, forming the symplastic pathway. A single cell can have 1,000 to 100,000 plasmodesmata, with protein sphincters regulating passage.
+Tiny tunnels (50nm diameter, up to 100nm long) connecting every cell to its neighbors, forming the symplastic pathway. A [[fungal-single-cell-protein-production]] can have 1,000 to 100,000 plasmodesmata, with protein sphincters regulating passage.
 
 ### Aquaporins
 
@@ -89,7 +89,7 @@ The command center holding DNA and RNA, surrounded by a double nuclear envelope 
 
 ## Related Topics
 
-- [[nutrient-cycling-in-soil]] -- soil chemistry affecting nutrient availability
+- [[nutrient-cycling-in-soil]] -- soil chemistry affecting [[ph-and-nutrient-availability-garden-soils]]
 - [[plant-macronutrient-functions]] -- primary nutrients for plant growth
 - [[fungal-single-cell-protein-production]]
 - [[nutrient-movement-through-soil-to-plant-roots]]

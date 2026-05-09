@@ -21,8 +21,8 @@ tightly. Place under sun for 3 days, then in shade for 2 weeks.
 
 ### Fermented Mushrooms in Banana Leaf
 
-Ingredients: 2 kg trimmed oyster mushrooms, 200g sticky rice, 150g
-garlic, 30g salt, optional noodles and chili peppers. Clean, steam, and
+Ingredients: 2 kg trimmed [[query-how-to-grow-oyster-mushrooms-at-home]], 200g sticky rice, 150g
+garlic, 30g salt, optional noodles and [[query-how-to-grow-chili-peppers-from-seed-to-harvest]]. Clean, steam, and
 press water out. Mix with pounded garlic, sticky rice, and salt. Press
 into balls, wrap in banana leaves or plastic. Leave at room temperature
 for 3 days until sour. Can be eaten as-is or fried with eggs.
@@ -45,7 +45,7 @@ steam to remove air, and tightly close lids.
 ## Seasonal Business Considerations
 
 During rice harvesting season and the rainy season, demand for cultivated
-mushrooms drops as wild mushrooms become available. Many farmers stop
+mushrooms drops as [[edible-wild-mushrooms-by-region]] become available. Many farmers stop
 production during this period, but certain mushroom types still have
 market demand. Processing can be profitable during the rainy season.
 For continuous year-round income, stagger production so bags are always
@@ -54,7 +54,7 @@ at different stages of the cultivation cycle.
 ## Related Concepts
 
 - [[enterprise-development-mushroom-growers]]
-- [[mushroom-cultivation-overview-disability-empowerment]]
+- mushroom-cultivation-overview-disability-empowerment
 ## Practical Considerations
 
 When working with Post-Harvest Handling and Marketing of Mushrooms, several practical factors should be
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,6 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+- [[oyster-mushroom]]
+- [[oyster-mushrooms]]
+- [[mushroom-harvesting-and-post-harvest-handling]]

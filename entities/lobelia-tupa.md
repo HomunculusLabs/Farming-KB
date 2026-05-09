@@ -1,5 +1,5 @@
 ---
-title: Lobelia tupa
+title: tupa-lobelia-tupa-devils-tobacco-ethnobotany
 created: 2026-04-28
 type: species
 tags:
@@ -16,7 +16,7 @@ sources:
 
 # Lobelia tupa
 
-**Lobelia tupa** L., commonly known as **Tabaco del Diablo** ("Devil's Tobacco"), is a large herbaceous plant in the family Campanulaceae native to South America. Despite its recognized toxicity, the Mapuche Indians of Chile value its leaves for their intoxicating properties.
+**Lobelia tupa** L., commonly known as **Tabaco del Diablo** ("Devil's Tobacco"), is a large herbaceous plant in the family Campanulaceae native to [[guzman-psilocybin-mushrooms-south-america]]. Despite its recognized toxicity, the Mapuche Indians of Chile value its leaves for their intoxicating properties.
 
 ## Taxonomy and Classification
 
@@ -46,7 +46,7 @@ The species occurs in tropical and warm zones of South America, particularly in 
 
 Recognizing L. tupa as toxic, the Mapuche Indians of Chile nevertheless value the leaves for their intoxicating properties. The plant's common name "Tabaco del Diablo" (Devil's Tobacco) reflects both its use and the danger associated with it. The Mapuche reportedly smoke the dried leaves or prepare them as an infusion to produce psychoactive effects.
 
-The name "Devil's Tobacco" is particularly apt, as the plant's effects when smoked are described as tobacco-like but considerably more intense and potentially hallucinogenic. The Mapuche have developed specific knowledge of dosing [[palmer-about-mushrooms-poisonous-species-to-avoid]] systemic absorption.
+The name "Devil's Tobacco" is particularly apt, as the plant's effects when smoked are described as tobacco-like but considerably more intense and potentially hallucinogenic. The Mapuche have developed specific knowledge of dosing palmer-about-mushrooms-poisonous-species-to-avoid systemic absorption.
 
 ## Chemistry
 
@@ -58,7 +58,7 @@ The genus Lobelia is well-known for containing piperidine alkaloids, and L. tupa
 - **Isolobeline** — an isomer of lobeline
 - Related piperidine alkaloids
 
-Lobeline acts as a nicotinic receptor partial agonist and has been investigated for various medical applications. The psychoactive and toxic effects of L. tupa are attributed to these piperidine alkaloids. Lobeline was once used in commercial smoking cessation preparations before being largely replaced by nicotine replacement therapies.
+Lobeline acts as a nicotinic receptor partial agonist and has been investigated for various [[oner-sativa-medical-applications]]. The psychoactive and toxic effects of L. tupa are attributed to these piperidine alkaloids. Lobeline was once used in commercial smoking cessation preparations before being largely replaced by nicotine replacement therapies.
 
 ## Pharmacology
 
@@ -78,6 +78,6 @@ Lobelia tupa was first described by Linnaeus in the 18th century. Its use by the
 
 ## Ornamental and Horticultural Use
 
-Despite its toxicity, Lobelia tupa has become popular in horticulture as an ornamental plant. Its tall, dramatic flower spikes and attractive foliage make it a striking addition to gardens. The plant is hardy in temperate climates and has been successfully cultivated [[latua-pubiflora]] — Latue, another Chilean hallucinogenic plant used by Mapuche
+Despite its toxicity, Lobelia tupa has become popular in horticulture as an ornamental plant. Its tall, dramatic flower spikes and attractive foliage make it a striking addition to gardens. The plant is hardy [[query-how-to-grow-and-use-oca-in-temperate-climates]] and has been successfully cultivated [[latua-pubiflora]] — Latue, another Chilean hallucinogenic plant used by Mapuche
 - [[nicotiana-rustica]] — another tobacco-like psychoactive plant
 - nicotiana-tabacum — commercial tobacco, for comparison of alkaloid profiles

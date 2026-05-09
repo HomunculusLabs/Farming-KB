@@ -26,7 +26,7 @@ military facilities. Many nitroaromatics are highly toxic, carcinogenic,
 or mutagenic. [[fungal-enzyme-systems]] have shown potential for degrading chemical
 warfare agents. Nerve agents VX and Russian VX (RVX), along with
 the insecticide analog diisopropylamiton, contain phosphothiolate
-bonds. [[fungal-bioremediation]] beyond conventional
+bonds. fungal-bioremediation beyond conventional
 explosive contaminants to include military chemical agents, suggesting
 potential applications for demilitarization and cleanup of chemical
 warfare agent disposal sites.
@@ -34,13 +34,13 @@ warfare agent disposal sites.
 ## Fungal Species for Nitroaromatic Degradation
 
 While P. chrysosporium remains the most extensively studied organism,
-other white rot fungi have shown significant nitroaromatic degradation
-capability. Bjerkandera adusta, Trametes versicolor, and Pleurotus
-species have all demonstrated explosive compound transformation.
+other [[white-rot-fungi]] have shown significant nitroaromatic degradation
+capability. [[bjerkandera-adusta]], [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]], and Pleurotus
+species have all demonstrated fungal explosive compound degradation transformation.
 Screening programs have identified additional species from diverse
-ecological niches, including tropical forest fungi, that may possess
+ecological niches, including [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] fungi, that may possess
 superior degradation capabilities. The ecological diversity of
-ligninolytic fungi suggests that many more species with useful
+[[biochemistry-of-ligninolytic-fungi-bioremediation]] suggests that many more species with useful
 degradative properties await discovery, particularly from
 underexplored environments.
 
@@ -51,19 +51,19 @@ remediation strategies for enhanced effectiveness. Sequential
 treatment, where fungi first transform recalcitrant intermediates
 and bacteria subsequently mineralize products, has been advocated.
 Soil amendments including straw, corn cobs, and compost improve
-fungal growth and enzyme production in contaminated matrices.
+fungal growth and [[ligninolytic-enzyme-production-bioremediation]] in contaminated matrices.
 Surfactant addition may increase bioavailability of hydrophobic
-nitroaromatic compounds. Composting of explosive-contaminated soil
+nitroaromatic compounds. [[composting]] of explosive-contaminated soil
 with fungal inoculation has shown success on a laboratory scale,
 creating conditions favorable for sustained ligninolytic activity.
 
 ## Monitoring and Assessment
 
-Monitoring fungal degradation of nitroaromatics requires tracking
+Monitoring [[singh-fungal-degradation-endocrine-disrupting-compounds]] of nitroaromatics requires tracking
 both parent compound disappearance and transformation product
 formation. Techniques include radiolabelled substrate studies,
 HPLC analysis of nitroaromatics and their metabolites, and
-enzyme activity assays for LiP, MnP, and laccase. In situ monitoring
+enzyme activity assays for LiP, MnP, and [[laccase]]. In situ monitoring
 ## See Also
 - [[indigenous-microorganisms]]
 ## Practical Considerations
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

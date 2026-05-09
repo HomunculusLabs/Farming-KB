@@ -8,7 +8,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 # MBT (N-Butyl-N-Methyltryptamine)
 
-TIHKAL entry #27. N-butyl-N-methyltryptamine is a synthetic tryptamine featuring an asymmetric mixed alkyl substitution on the terminal nitrogen: one butyl and one methyl group. It was explored by Shulgin as part of a systematic investigation into how chain length on the tryptamine nitrogen affects pharmacological activity.
+TIHKAL entry #27. N-butyl-N-methyltryptamine is a synthetic tryptamine featuring an asymmetric mixed alkyl substitution on the terminal nitrogen: one butyl and one methyl group. It was explored by Shulgin as part of a systematic investigation into how [[phenethylamine-chain-length-effects]] on the tryptamine nitrogen affects pharmacological activity.
 
 ## Chemical Names
 
@@ -36,13 +36,13 @@ TIHKAL entry #27. N-butyl-N-methyltryptamine is a synthetic tryptamine featuring
 
 ## Synthesis
 
-The synthesis uses an oxalyl chloride route. Indole in TBME (tert-butyl methyl ether) is treated with oxalyl chloride in dichloromethane to form the indoleglyoxyl chloride, which is then reacted with N-methylbutylamine. After workup, the resulting N-butyl-N-methyl-indoleglyoxylamide is recrystallized from ethyl acetate (mp 128-130 degrees C). Reduction is accomplished with Red-Al (sodium bis(2-methoxyethoxy)aluminumhydride) in toluene under nitrogen. The free amine is isolated as the fumarate salt after careful workup, yielding light yellow crystals with mp 148-150 degrees C. The overall yield after recrystallization is 69 percent.
+The synthesis uses an [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] route. Indole in TBME (tert-butyl methyl ether) is treated with oxalyl chloride in dichloromethane to form the indoleglyoxyl chloride, which is then reacted with N-methylbutylamine. After workup, the resulting N-butyl-N-methyl-indoleglyoxylamide is recrystallized from ethyl acetate (mp 128-130 degrees C). Reduction is accomplished with Red-Al (sodium bis(2-methoxyethoxy)aluminumhydride) in toluene under nitrogen. The free amine is isolated as the fumarate salt after careful workup, yielding light yellow crystals with mp 148-150 degrees C. The overall yield after recrystallization is 69 percent.
 
 ## Extensions and Commentary
 
 MBT represents a systematic exploration of the dialkyl tryptamine series. The compound carries five straight-chain aliphatic carbon atoms on the basic nitrogen, positioning it between [[4-ho-dpt-entity-tihkal]] (six carbons) in the series.
 
-All three of these compounds show oral activity in the 300 milligram range, consistent with the general trend that dialkyl tryptamines with chains longer than dimethyl are orally active due to reduced susceptibility to monoamine oxidase metabolism. However, [[harmaline-entity-tihkal]] from Peganum harmala.
+All three of these compounds show [[tihkal-oral-activity-mao-inhibition]] in the 300 milligram range, consistent with the general trend that dialkyl tryptamines with chains longer than dimethyl are orally active due to reduced susceptibility to monoamine oxidase metabolism. However, [[harmaline-entity-tihkal]] from [[mckenna-food-gods-peganum-harmala-soma]].
 
 Shulgin described MBT as "a pretty heavy body trip for a modest mental return." The pronounced physical intoxication (motor impairment, dehydration, overheating) relative to the minimal visual and cognitive effects suggests that the compound's pharmacological profile is weighted heavily toward peripheral effects rather than central psychedelic action.
 

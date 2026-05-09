@@ -1,5 +1,5 @@
 ---
-title: "TP (THIOPROSCALINE; 3,5-DIMETHOXY-4-(n)-PROPYLTHIOPHENETHYLAMINE) -- PIHKAL Entry #174"
+title: "TP (THIOPROSCALINE; 3,5-DIMETHOXY-4-(n)-PROPYLTHIOPHENETHYLAMINE) -- 2c-b-pihkal-entry-20 #174"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # TP
 
-PIHKAL entry #174. THIOPROSCALINE; 3,5-DIMETHOXY-4-(n)-PROPYLTHIOPHENETHYLAMINE.
+[[2c-b-pihkal-entry-20]] #174. THIOPROSCALINE; 3,5-DIMETHOXY-4-(n)-PROPYLTHIOPHENETHYLAMINE.
 
 ## Chemical Name
 
@@ -103,7 +103,7 @@ in 20 mL THF. The bromo compound was added dropwise over the course
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

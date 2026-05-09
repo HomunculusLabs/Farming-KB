@@ -1,5 +1,5 @@
 ---
-title: "Neurotropic Fungi of Australia and New Zealand: Biogeography and Endemism"
+title: "challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification of Australia and New Zealand: Biogeography and Endemism"
 created: 2026-04-28
 tags:
   - mycology
@@ -18,7 +18,7 @@ type: concept
 ---
 
 # [[psilocybe-subaeruginosa]]** — perhaps the most iconic Australian neurotropic fungus; first reported by Picker and Richards (1970), subsequently documented by Hall (1973), Southcott (1974), Cleland (1976), Chilton (1978), Margot and Watling (1981), Guzmán (1983), Chang and Mills (1992), and Johnston and Buchanan (1995). This species is closely related to the European P. cyanescens but is a distinct taxon. It grows on wood chips, mulch, and in gardens, and is particularly abundant in the Melbourne area during autumn.
-- **[[psilocybe-semilanceata]]** — the "liberty cap," also found in Australia; documented by Margot and Watling (1981), Dickinson and Lucas (1983), Redhead (1989), Allen et al. (1991), Guzmán (1995), and Stamets (1996). Its presence in the Southern Hemisphere, far from its European center of distribution, is biogeographically significant.
+- **[[psilocybe-semilanceata]]** — the "[[peter-mantle-liberty-cap-chromatographic-discovery-1969]]," also found in Australia; documented by Margot and Watling (1981), Dickinson and Lucas (1983), Redhead (1989), Allen et al. (1991), Guzmán (1995), and Stamets (1996). Its presence in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], far from its European center of distribution, is biogeographically significant.
 - **[[amanita-muscaria-entity]]
 - [[claviceps-purpurea]]
 ## Practical Applications
@@ -98,4 +98,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

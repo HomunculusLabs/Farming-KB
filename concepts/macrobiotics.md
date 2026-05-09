@@ -5,7 +5,8 @@ updated: 2026-04-15
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Macrobiotics
 
@@ -14,14 +15,14 @@ Macrobiotics is a dietary and lifestyle philosophy originating from Japan, devel
 ## Core Principles
 
 - **Yin and yang balance**: Foods classified on a spectrum from expansive (yin) to contractive (yang)
-- **Whole foods**: Emphasis on unprocessed, natural foods
-- **Seasonal eating**: Consuming foods appropriate to the local climate and season
+- **Whole foods**: Emphasis on unprocessed, [[fukuoka-natural-foods-movement-america]]
+- **[[fukuoka-seasonal-eating-natural-food-calendar]]**: Consuming foods appropriate to the local climate and season
 - **Local food**: Preference for regionally grown ingredients
 - **Minimal processing**: Whole grains, vegetables, beans as foundation
 
 ## George Ohsawa and Origins
 
-George Ohsawa (1893-1966), born Yukikazu Sakurazawa, developed macrobiotics from his study of traditional Japanese medicine and the writings of Sagen Ishizuka (1850-1909), a Japanese military doctor who argued that the traditional Japanese diet of brown rice and vegetables was superior to the increasingly Westernized diet of refined white rice and meat. Ohsawa expanded these ideas into a comprehensive philosophical system that encompassed diet, medicine, and worldview.
+George Ohsawa (1893-1966), born Yukikazu Sakurazawa, developed macrobiotics from his study of traditional Japanese medicine and the writings of Sagen Ishizuka (1850-1909), a Japanese military doctor who argued that the traditional [[fukuoka-japanese-diet-worse]] of brown rice and vegetables was superior to the increasingly Westernized diet of refined white rice and meat. Ohsawa expanded these ideas into a comprehensive philosophical system that encompassed diet, medicine, and worldview.
 
 Ohsawa's teachings emphasized that health is the natural condition of humanity and that disease arises from dietary imbalance. He proposed a system of 10 diets ranging from the most balanced (number 7, consisting of brown rice and water) to progressively more inclusive. While the most restrictive levels were intended only for short-term healing, critics seized upon them to dismiss the entire system.
 
@@ -32,7 +33,7 @@ Foundation (40-60% of diet):
 - Other whole grains: millet, barley, oats, wheat, rye, buckwheat, corn
 
 Secondary (25-30%):
-- Vegetables: leafy greens, round vegetables, root vegetables
+- Vegetables: leafy greens, round vegetables, [[growing-root-vegetables-guide]]
 - Prepared by steaming, boiling, sauteing, pickling
 
 Supplementary (5-10%):
@@ -86,11 +87,11 @@ Macrobiotics shares several principles with [[permaculture-food-forest-design-pr
 
 ## Macrobiotics and Cancer
 
-Macrobiotics gained significant public attention in the 1970s and 1980s when Anthony Sattilaro, MD, president of Methodist Hospital in Philadelphia, publicly attributed his recovery from prostate cancer to macrobiotic dietary practices. While individual anecdotes cannot substitute for controlled clinical trials, the macrobiotic diet's emphasis on whole grains, vegetables, and legumes aligns with evidence-based dietary recommendations for cancer prevention.
+Macrobiotics gained significant public attention in the 1970s and 1980s when Anthony Sattilaro, MD, president of Methodist Hospital in Philadelphia, publicly attributed his recovery from prostate cancer to macrobiotic dietary practices. While individual anecdotes cannot substitute for controlled [[mushroom-cancer-clinical-trials-overview]], the macrobiotic diet's emphasis on whole grains, vegetables, and legumes aligns with evidence-based dietary recommendations for cancer prevention.
 
 ## Criticism and Considerations
 
-- Can be overly restrictive, potentially leading to nutrient deficiencies (particularly B12, vitamin D, iron, and calcium)
+- Can be overly restrictive, potentially leading to [[hamilton-nutrient-deficiencies-and-treatment]] (particularly B12, vitamin D, iron, and calcium)
 - The yin/yang classification system lacks scientific basis and is inconsistent across different macrobiotic teachers
 - May not be appropriate for all climates, body types, or conditions
 - The emphasis on brown rice as universal staple is culturally specific

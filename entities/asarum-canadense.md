@@ -14,20 +14,20 @@ updated: 2026-05-08
 sources:
   - Leopold, D.J. (2005). "Native Plants of the Northeast." Timber Press.
   - Cullina, W. (2002). "Native Trees, Shrubs, and Vines." New England Wild Flower Society.
-  - Moerman, D.E. (1998). "Native American Ethnobotany." Timber Press.
+  - Moerman, D.E. (1998). "[[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany." Timber Press.
   - USDA NRCS (2024). "Asarum canadense Plant Guide." USDA Natural Resources Conservation Service.
   - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern United States and Adjacent Canada." NY Botanical Garden.
 ---
 
 ## Overview
 
-**Asarum canadense** is a low-growing perennial herb in the family Aristolochiaceae, native to deciduous forests of eastern North America. It is commonly known as Canadian wild ginger, a name reflecting both its geographic range and the ginger-like aroma of its rhizomes.
+**Asarum canadense** is a low-growing perennial herb in the family Aristolochiaceae, native to deciduous forests of [[polypore-fungi-eastern-north-america]] America. It is commonly known as Canadian wild ginger, a name reflecting both its geographic range and the ginger-like aroma of its rhizomes.
 
 The species forms dense colonies through creeping rhizomes, creating an attractive ground cover in shaded woodland gardens. Its heart-shaped leaves and unusual brownish-purple flowers make it a distinctive component of the forest floor flora.
 
 Canadian wild ginger has a long history of use by Native American peoples as a seasoning, medicinal plant, and ceremonial herb. The rhizomes contain aristolochic acid, which limits modern culinary use due to safety concerns.
 
-Despite the toxicity concern, *A. canadense* remains a popular native shade garden plant valued for its glossy foliage, drought tolerance, and ability to suppress weeds in low-light conditions.
+Despite the toxicity concern, *A. canadense* remains a popular native shade garden plant valued for its glossy foliage, [[dighton-fungal-drought-tolerance-plant-water-relations]], and ability to suppress weeds in low-light conditions.
 
 ## Taxonomy and Morphology
 
@@ -51,9 +51,9 @@ Root anatomy is distinctive: the fleshy rhizomes are cream-white internally with
 
 *Asarum canadense* ranges from southeastern Canada (Manitoba to Nova Scotia) south through the Great Lakes region to North Carolina and Tennessee, and west to Minnesota and Iowa. It is most abundant in the Ohio River Valley and the central Appalachian region.
 
-The species occurs in rich, moist deciduous forests, often on north-facing slopes, stream terraces, and ravine bottoms. It prefers deep, loamy soils high in organic matter with consistent moisture.
+The species occurs in rich, moist deciduous forests, often on north-facing slopes, stream terraces, and ravine bottoms. It prefers deep, loamy soils high in [[hamilton-composting-and-organic-matter-management]] with consistent moisture.
 
-While tolerant of brief dry periods, Canadian wild ginger performs best in soils that retain moisture throughout the growing season. It is intolerant of waterlogged conditions and compacted soils.
+While tolerant of brief dry periods, Canadian wild ginger performs best in soils that retain moisture throughout the [[savory-growing-season-and-non-growing-season-management]]. It is intolerant of waterlogged conditions and compacted soils.
 
 The plant is strictly a shade species, rarely found in sites receiving more than a few hours of direct sun. It is a reliable indicator of mature, closed-canopy forest conditions.
 
@@ -63,7 +63,7 @@ In the southern portions of its range, *A. canadense* is restricted to higher el
 
 Propagation is most commonly by division of rhizomes in early spring or fall. Each division should include several growth buds and a segment of healthy rhizome. Division every 3–4 years maintains vigor in garden settings.
 
-Seed propagation is slow and irregular; seeds require warm stratification followed by cold stratification for reliable germination. Fresh seed sown immediately after collection gives the best results.
+[[jeavons-seed-propagation-techniques]] is slow and irregular; seeds require warm stratification followed by cold stratification for reliable germination. Fresh seed sown immediately after collection gives the best results.
 
 Canadian wild ginger is an excellent shade garden plant, forming a dense, weed-suppressing ground cover under trees and shrubs. It is compatible with other woodland species like ferns, trilliums, and hostas.
 
@@ -101,6 +101,8 @@ Canadian wild ginger is moderately deer-resistant due to its aromatic foliage, m
 
 ## See Also
 
+- [[asarum-sieboldii]]
+
 - [[saururus-cernuus]]
 
 - [[piper-nigrum-entity]]
@@ -108,7 +110,7 @@ Canadian wild ginger is moderately deer-resistant due to its aromatic foliage, m
 - [[zingiber-officinale]]
 - [[eugenia-caryophyllata]]
 - [[mentha-piperita]]
-- [[gaultheria-procumbens]]
+- gaultheria-procumbens
 - [[piper-longum]]
 - [[cinnamomum-camphora]]
 - [[citrus-limon]]

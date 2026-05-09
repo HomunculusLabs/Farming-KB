@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, off-grid, sustainability, microbes, composting, energy, ecology]
-sources: []
+sources:
+  sources: []
 ---
 
 ## Overview
@@ -32,11 +33,11 @@ Four stages of microbial decomposition occur in sequence:
 
 ### 1. Hydrolysis
 
-Complex organic molecules (cellulose, proteins, fats) are broken down into simpler soluble compounds by hydrolytic bacteria. This is often the rate-limiting step, especially for fibrous feedstocks. Temperature range: psychrophilic (55-68F), mesophilic (85-105F), or thermophilic (120-140F).
+Complex organic molecules (cellulose, proteins, fats) are broken down into simpler soluble compounds by hydrolytic bacteria. This is often the rate-limiting step, especially for fibrous feedstocks. [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]: psychrophilic (55-68F), mesophilic (85-105F), or thermophilic (120-140F).
 
 ### 2. Acidogenesis
 
-Acidogenic bacteria convert the products of hydrolysis into short-chain volatile fatty acids (acetic, propionic, butyric acid), alcohols, hydrogen, and carbon dioxide. The pH drops during this stage as acids accumulate.
+Acidogenic bacteria convert the products of hydrolysis into short-chain volatile [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] (acetic, propionic, butyric acid), alcohols, hydrogen, and carbon dioxide. The pH drops during this stage as acids accumulate.
 
 ### 3. Acetogenesis
 
@@ -77,7 +78,7 @@ Methanogenic archaea (strict anaerobes) convert acetic acid and hydrogen/carbon 
 - Long plastic tube (polyethylene or PVC) laid horizontally in a trench
 - Inlet and outlet pipes at each end
 - Gas is collected from the top of the bag
-- Extremely low cost ($100-300 for materials)
+- Extremely [[jadam-ultra-low-cost-agriculture]] ($100-300 for materials)
 - Shorter lifespan (3-5 years for plastic)
 - Easy to build, no special skills required
 
@@ -104,7 +105,7 @@ Methanogenic archaea (strict anaerobes) convert acetic acid and hydrogen/carbon 
 
 ### Feedstock Mixing
 
-Successful digestion requires balancing carbon and nitrogen. Ideal C:N ratio: 20:1 to 30:1. Mix high-nitrogen feedstocks (manure, food waste) with high-carbon feedstocks (straw, leaves). Avoid: antibiotics, heavy metals, high oil concentrations, large bones, citrus in large quantities.
+Successful digestion requires balancing carbon and nitrogen. Ideal C:N ratio: 20:1 to 30:1. Mix high-nitrogen feedstocks (manure, food waste) with high-carbon feedstocks (straw, leaves). Avoid: antibiotics, [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]], high oil concentrations, large bones, citrus in large quantities.
 
 ### Operating Parameters
 
@@ -131,10 +132,10 @@ The liquid effluent from a biogas digester is an excellent fertilizer:
 - Nitrogen content: 2-5% (mostly ammonium, readily available to plants)
 - Phosphorus: 1-3%
 - Potassium: 1-4%
-- Organic matter: partially stabilized, beneficial for soil
+- [[hamilton-composting-and-organic-matter-management]]: partially stabilized, beneficial for soil
 - Pathogen reduction: mesophilic digestion reduces pathogens by 90-99%
 
-Application rate: dilute 1:3 to 1:5 with water and apply to garden beds, fruit trees, or pasture. Avoid applying to crops intended for raw consumption within 30 days of harvest.
+Application rate: dilute 1:3 to 1:5 with water and apply to garden beds, [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], or pasture. Avoid applying to crops intended for raw consumption within 30 days of harvest.
 
 ## Gas Storage and Use
 
@@ -143,26 +144,6 @@ Application rate: dilute 1:3 to 1:5 with water and apply to garden beds, fruit t
 - Low-pressure storage in a flexible gas bag (heavy-duty PVC or rubber)
 - Alternatively, the digester itself acts as the storage vessel (fixed-dome or floating-drum designs)
 - 1 cubic meter of biogas = roughly 2 hours of cooking on a single-burner stove
-
-### Use Options
-
-- Cooking (primary use, modified LPG stove), lighting (mantle lamps), space/water heating, and small-scale electricity generation (requires H2S removal)
-
-### Hydrogen Sulfide Removal
-
-H2S corrodes metal appliances and engines. Removal methods:
-
-- **Iron filings** — Pass gas through a container of iron filings or steel wool. H2S reacts to form iron sulfide. Replace when saturated.
-- **Activated carbon** — Commercial H2S filters available
-- **Water scrubbing** — Bubble gas through water (removes some H2S and CO2)
-
-## Troubleshooting
-
-- No gas production: Temperature too low — insulate or heat digester
-- Gas won't burn: Too much CO2 — system not mature; wait or add seed material
-- Low gas production: Check temperature, increase feedstock
-- Sour smell: pH too low — stop feeding, add crushed limestone, wait for recovery
-- Scum layer: Reduce straw/woody feedstock, stir if possible
 
 ## Related Topics
 

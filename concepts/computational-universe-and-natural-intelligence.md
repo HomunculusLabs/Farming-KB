@@ -1,5 +1,5 @@
 ---
-title: Computational Universe and Natural Intelligence
+title: Computational computational universe and natural intelligence Intelligence
 created: 2026-04-17
 updated: 2026-04-18
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 # Computational Universe and [[entheogen-culture]] provides what Powell considers the most compelling evidence for the fantastic hypothesis.
 
-The consistent features of the psychedelic experience, including the sense of encountering an intelligent Other, the apprehension of profound meaning and purpose, and the lasting positive transformation of worldview, suggest that consciousness has access to dimensions of reality that are ordinarily hidden from waking awareness.
+The consistent features of the [[leary-psychedelic-experience-bardo-mapping]], including the sense of encountering an intelligent Other, the apprehension of profound meaning and purpose, and the lasting positive transformation of worldview, suggest that consciousness has access to dimensions of reality that are ordinarily hidden from waking awareness.
 
 The [[psilocybin-compound-profile]] is not merely a subjective alteration of brain state but appears to provide genuine insight into the intelligent, intentional nature of the reality process.
 
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

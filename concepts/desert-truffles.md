@@ -31,7 +31,7 @@ Terfezia leonis is found in East Africa and the Arabian Peninsula, associated wi
 
 ### Tirmania
 
-Tirmania nivea ("white desert truffle" or "zubaidi") is highly prized and commands premium prices in Middle Eastern markets. The fruiting body is white to cream-colored with a smooth surface, and the flesh is soft and delicately flavored. It is considered the finest of all desert truffles by many connoisseurs.
+Tirmania nivea ("white desert truffle" or "zubaidi") is highly prized and commands premium prices in Middle Eastern markets. The [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] is white to cream-colored with a smooth surface, and the flesh is soft and delicately flavored. It is considered the finest of all desert truffles by many connoisseurs.
 
 Tirmania pinoyi is less common and produces smaller fruiting bodies with a darker coloration.
 
@@ -47,9 +47,9 @@ Picoa carthusiana and Picoa juniperi are smaller desert truffles found in Medite
 
 ## Ecology and Mycorrhizal Biology
 
-Desert truffles are adapted to some of the harshest fungal habitats on Earth. Their mycorrhizal biology is key to understanding their distribution and ecology.
+Desert truffles are adapted to some of the harshest [[freshwater-fungal-habitats-conservation-urgency]] on Earth. Their mycorrhizal biology is key to understanding their distribution and ecology.
 
-Unlike most ectomycorrhizal fungi that associate with forest trees, desert truffles typically partner with small desert shrubs in the Cistaceae (Helianthemum) and Fabaceae (Acacia) families. The fungal hyphae colonize the root cortex and extend into the surrounding sandy soil, forming an extensive network that helps the host plant access water and nutrients from the nutrient-poor desert soils.
+Unlike most [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] that associate with forest trees, desert truffles typically partner with small desert shrubs in the Cistaceae (Helianthemum) and Fabaceae (Acacia) families. The fungal hyphae colonize the root cortex and extend into the surrounding sandy soil, forming an extensive network that helps the host plant access water and nutrients from the nutrient-poor desert soils.
 
 Fruiting is triggered by specific rainfall patterns. Desert truffles typically require heavy autumn or winter rains followed by warm temperatures to initiate fruiting. The fruiting bodies develop underground at depths of 5-20 cm and can take 2-4 months to mature. In good years, desert truffles can be remarkably abundant, with collectors reporting yields of 10-50 kg per hectare.
 
@@ -59,7 +59,7 @@ The distribution of desert truffles is closely tied to the distribution of their
 
 Cultivation of desert truffles is an active area of research, particularly in the Middle East and North Africa where declining wild harvests have stimulated interest in domestication. Inoculation of Helianthemum seedlings with Terfezia spores has been achieved under controlled conditions, and experimental plantations have been established in several countries.
 
-Challenges for desert truffle cultivation include the long time to production (typically 3-5 years from planting), the need for arid conditions that are difficult to maintain in irrigated cultivation, and the variable quality and yield of cultivated truffles compared with wild harvests.
+Challenges for desert [[comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation]] include the long time to production (typically 3-5 years from planting), the need for arid conditions that are difficult to maintain in irrigated cultivation, and the variable quality and yield of cultivated truffles compared with wild harvests.
 
 Iranian researchers have reported the most progress with Terfezia claveryi cultivation, achieving fruiting on inoculated Helianthemum plants under semi-controlled field conditions. See [[truffle-guide]]
 
@@ -69,7 +69,7 @@ Iranian researchers have reported the most progress with Terfezia claveryi culti
 
 - [[mycorrhizal-fungi]]
 
-- [[mushroom-hunting-and-identification]]
+- mushroom-hunting-and-identification
 - [[african-truffle-species]]
 ## Practical Considerations
 
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

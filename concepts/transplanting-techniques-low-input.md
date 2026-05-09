@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Steve Solomon takes a nuanced position on transplanting. While he generally favors direct-seeding for its simplicity and resilience, he recognizes that certain crops benefit from transplanting and provides detailed techniques for minimizing transplant shock in a low-input garden context.
+Steve Solomon takes a nuanced position on transplanting. While he generally favors direct-seeding for its simplicity and resilience, he recognizes that certain crops benefit from transplanting and provides detailed techniques for minimizing [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]] in a low-input garden context.
 
 ## Direct-Seeding vs. Transplanting
 
@@ -66,12 +66,12 @@ This approach avoids the "lush and succulent" problem of greenhouse-grown seedli
 
 ## Timing of Transplanting
 
-The timing of transplanting is critical and interacts with the broader gardening calendar:
+The timing of transplanting is critical and interacts with the broader [[seasonal-gardening-calendar-hamilton]]:
 
 - Transplant brassicas when they have 3-4 true leaves.
 - Transplant celery after about 10 weeks in the nursery bed.
 - Time the celery transplant for when the earliest apple trees are blooming -- before it gets too hot.
-- In hot-summer climates, celery is an autumn/winter crop; sow seeds after summer heat breaks.
+- In hot-summer climates, celery is an autumn/[[coleman-sunlight-and-winter-crop-growth-rates]]; sow seeds after summer heat breaks.
 
 ## Succession Planting Strategy
 
@@ -87,7 +87,7 @@ Rather than raising all transplants at once, stagger your sowings:
 1. Celery and celeriac (slow germination and growth)
 2. Tomatoes in short-season climates
 3. Peppers and eggplants in maritime climates
-4. Brassicas for early spring planting
+4. Brassicas for [[coleman-overwintered-onions-and-early-spring-crops]] planting
 5. Onions from seed in cold climates
 
 ## Related Concepts

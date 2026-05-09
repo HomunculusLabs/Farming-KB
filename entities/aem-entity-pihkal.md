@@ -1,5 +1,5 @@
 ---
-title: "AEM (alpha-Ethyl-3,4,5-trimethoxy-PEA) -- PIHKAL Entry #1"
+title: "AEM (alpha-Ethyl-3,4,5-trimethoxy-PEA) -- 2c-b-pihkal-entry-20 #1"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # AEM
 
-PIHKAL entry #1. alpha-Ethyl-3,4,5-trimethoxy-PEA.
+[[2c-b-pihkal-entry-20]] #1. alpha-Ethyl-3,4,5-trimethoxy-PEA.
 
 ## Dosage and Duration
 
@@ -45,7 +45,7 @@ had already been pushed out quite aways. The machinery of making the
 appropriate nitroalkane was straightforward, by reaction of the alkyl
 halide with nitrous acid, and separating the unwanted nitrite ester
 
-from the wanted nitroalkane by fractional distillation. The
+from the wanted nitroalkane by [[cannabis-fractional-distillation-cannabinoids]]. The
 nitrostyrenes all formed reasonably although often in terrible yields,
 and reduced reasonably, and all formed crystalline picrates for
 isolation and crystalline hydrochloride salts for pharmacological
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

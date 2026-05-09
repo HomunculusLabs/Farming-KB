@@ -1,96 +1,131 @@
 ---
-title: Psilocybin and Psilocin Chemistry
-created: 2026-05-08
-source: "Bigwood & Beug (1982). Variation of psilocybin and psilocin levels. Journal of Ethnopharmacology, 5(3), 287–291."
-tags:
-  - psilocybin
-  - psilocin
-  - chemistry
-  - pharmacology
-  - serotonin
-  - tryptamine
-  - alkaloids
+title: Psilocybin and psilocybin-psilocin-chemistry-and-pharmacology-emcdda
+source: raw/papers/carolina-mushrooms_08qxp.md
+tags: [chemistry, pharmacology, tryptamines, mycology, hallucinogens]
+created: 2026-05-09
 ---
 
-# [[tryptamine]] derivative distinguished by a phosphate ester group attached at the
-4-position of the indole ring. This phosphorylation is the defining structural
-feature that separates it from its dephosphorylated counterpart.
+# Psilocybin and Psilocin Chemistry
 
-**Psilocin** (4-hydroxy-N,N-dimethyltryptamine, C₁₁H₁₆N₂O) is chemically
-identical to psilocybin except that it lacks the phosphate group. Instead, it
-carries a simple hydroxyl group at the 4-position. This difference, while
-seemingly minor, has profound implications for stability, bioavailability, and
-pharmacokinetics.
+Psilocybin and psilocin are the primary psychoactive compounds found in
+[[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] of the genera [[psilocybe-cubensis]], [[conocybe-cyanopus-profile]],
+[[stamets-panaeolus-cyanescens-copelandia-identification-ecology]], [[panaeolus-tropicalis-cultivation-differences]], and [[inocybe-aeruginascens-and-neurotropic-inocybe-species]]. These indolealkylamine
+tryptamines are structurally related to serotonin (5-HT) and are
+responsible for the perceptual distortions, altered mood, and thought
+changes produced by these fungi.
 
-Both compounds belong to the broader class of **substituted tryptamines**, which
-are structurally related to the neurotransmitter serotonin (5-hydroxytryptamine)
-and share its indole ethylamine backbone. The N,N-dimethyl substitution on the
-terminal amine is shared with DMT (N,N-dimethyltryptamine).
+## Chemical Classification
 
-## Psilocybin as a Prodrug
+Hallucinogens group by chemical structure into three major categories:
 
-Psilocybin functions as a **prodrug** for psilocin. After ingestion, the
-phosphate ester group is cleaved by endogenous alkaline phosphatase enzymes,
-primarily in the liver and intestinal mucosa, converting psilocybin into
-psilocin. This dephosphorylation occurs rapidly, making psilocin the actual
-pharmacologically active species at receptor sites in the central nervous
-system.
+1. **Indolealkylamines (tryptamines)**: LSD, psilocin, psilocybin, DMT
+2. **Phenylethylamines**: mescaline
+3. **Cannabinoids**: THC and related compounds
 
-The prodrug nature of psilocybin confers several important properties:
+Psilocybin and psilocin belong to the tryptamine group, sharing the same
+broad chemical family as LSD. Their structural similarity to serotonin is
+central to their pharmacological mechanism.
 
-- **Increased stability**: The phosphate group makes psilocybin significantly
-  more stable than psilocin during storage and handling. Psilocin is prone to
-  oxidation and degradation, especially when exposed to air, light, or heat.
-- **Improved bioavailability**: The phosphorylated form is more water-soluble,
-  facilitating absorption and transport through biological membranes before
-  conversion.
-- **Delayed onset**: Because enzymatic conversion is required, the onset of
-  effects from psilocybin is slightly delayed compared to what might be expected
-  from direct psilocin administration, though the difference is modest in
-  practice.
+## Molecular Structures
 
-## Pharmacological Activity at 5-HT2A Receptors
+### Psilocybin
+- **IUPAC**: 4-phosphoryloxy-N,N-dimethyltryptamine (4-PO-DMT)
+- **Molecular weight**: 284.25 g/mol
+- The phosphate ester of psilocin; more stable in air; water soluble
 
-Both psilocybin (via conversion to psilocin) and psilocin itself exert their
-psychoactive effects primarily through agonism at **serotonin 5-HT₂A
-receptors**. These G-protein-coupled receptors are densely expressed in the
-cerebral cortex, particularly in layer V pyramidal neurons, and are critical
-mediators of the hallucinogenic experience.
+### Psilocin
+- **IUPAC**: 4-hydroxy-N,N-dimethyltryptamine (4-HO-DMT)
+- **Molecular weight**: 204.27 g/mol
+- The pharmacologically active compound; less stable than psilocybin
 
-The receptor binding profile includes:
+### Minor Tryptamines
+- **Baeocystin** (4-phosphoryloxy-N-methyltryptamine) — less active
+- **Norbaeocystin** (4-phosphoryloxytryptamine) — less active
 
-- **5-HT₂A agonism** (primary mechanism): Direct activation of cortical
-  5-HT₂A receptors is considered the principal pathway for producing altered
-  perception, synesthesia, and changes in thought patterns.
-- **5-HT₁A partial agonism**: May contribute to the anxiolytic and
-  mood-modulating effects sometimes reported.
-- **5-HT₂C receptor interaction**: May influence appetite suppression and
-  anxiety responses.
+## Pharmacological Mechanism
 
-Psilocin is a **partial agonist** at the 5-HT₂A receptor, meaning it activates
-the receptor but to a lesser maximum extent than the endogenous ligand serotonin.
-This partial agonism is thought to be key to the therapeutic potential of these
-compounds, producing meaningful perceptual and cognitive shifts without the
-complete receptor saturation that could lead to more disruptive effects.
+Psilocybin is a prodrug. After ingestion, alkaline phosphatase enzymes
+dephosphorylate it to psilocin, the active form. Psilocin acts as a
+**5-HT2A post-synaptic receptor agonist or partial agonist**, producing:
 
-## Relationship Between Psilocybin and Psilocin Levels
+- Visual and sensory distortions
+- Altered perception of time and space
+- Changes in mood and thought patterns
+- Ego dissolution at higher doses
 
-In dried fungal tissue, psilocybin is consistently found at levels **at least
-2× higher** than psilocin, and often considerably more so. Data from Bigwood &
-Beug (1982) illustrate this clearly:
+## Biotransformation and Metabolism
 
-- In cultivated **[[psilocybe-mexicana]]** specimens collected in Mexico. Since then,
-psilocybin has become one of the most studied classical psychedelics, with
-modern clinical trials investigating its potential for treating depression,
-anxiety, substance use disorders, and end-of-life distress.
+1. **First pass**: Psilocybin → Psilocin (dephosphorylation)
+2. **Phase I**: Oxidative deamination by MAO → 4-hydroxyindole-3-acetaldehyde
+3. **Phase II**: Glucuronidation → psilocin-O-glucuronide (primary urinary
+   metabolite)
+4. **Elimination**: Primarily renal; terminal half-life ~2-5 hours
 
-The distinction between psilocybin and psilocin remains relevant for
-standardization of therapeutic preparations, forensic analysis of seized
-material, quality control in cultivation, and understanding pharmacokinetics
-in clinical dosing protocols.
+## Species Variation in Potency
+
+Potency varies significantly by species, growing conditions, and age:
+
+| Species | Approximate Psilocybin Content (dry) |
+|---------|--------------------------------------|
+| [[stamets-psi-psilocybe-azurescens-species-guide]] | Up to 1.78% |
+| [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] | Up to ~1% |
+| [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]] | 0.3-1.0% |
+| Psilocybe cubensis | 0.1-0.6% |
+| [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]] | 0.5-1.0% |
+
+P. cubensis, the most commonly cultivated species, is relatively low in
+potency compared to wild species like P. semilanceata and P. azurescens.
+
+## Blueing Reaction
+
+The blue bruising that occurs when psilocybin-containing mushroom flesh
+is handled results from oxidation of psilocin and related phenolic
+compounds. While used as a field identification aid, blueing is not
+exclusive to psychoactive species and should not be the sole criterion.
+
+## Stability and Storage
+
+- Psilocybin is stable when dried and stored cool, dark, and airtight
+- Fresh mushrooms degrade rapidly; drying is essential for preservation
+- Desiccant-based drying (silica gel) is effective for long-term storage
+- Frozen storage can extend potency for extended periods
+
+## Historical Context
+
+Psilocybin was first isolated by Albert Hofmann in 1958 at Sandoz
+Laboratories, following R. Gordon Wasson's identification of
+Psilocybe mexicana. The name derives from Greek "psilos" (bare) and
+"kubē" (head), referencing the characteristic bare cap.
+
+## Analytical Detection
+
+Psilocybin and psilocin are detected via:
+- **HPLC** with UV or fluorescence detection
+- **LC-MS/MS** for high-sensitivity quantification
+- Urinary psilocin-O-glucuronide serves as the primary biomarker
+- Detection window: typically 1-3 days post-ingestion
+
+## Tolerance
+
+Short-term tolerance develops rapidly to both physical and psychological
+effects of psilocybin, meaning dosages may need to increase for repeated
+use within a short period. Tolerance typically resets within 3-7 days of
+abstinence. There is no evidence of psychological or physical dependence,
+and no withdrawal symptoms occur.
 
 ## See Also
 
-- [[psilocybe-cubensis-cultivation-miniculture]] — Cultivation methodology
-- [[psilocybe-cubensis-cap-stem-alkaloid-distribution]] — Cap vs. stem
-  distribution of alkaloids
+- [[psilocybin-psilocin-chemistry-serotonin-5ht2a-mechanism-emcdda-2006]]
+
+- [[psilocybin-chemistry-stability-indigenous-knowledge]]
+
+- [[hallucinogenic-mushroom-dosage-effects]] — dosing and acute effects
+- [[amanita-muscaria-vs-psilocybe]] — comparison with Amanita species
+
+## References
+
+- Hillebrand J, Olszewski D, Sedefov R. Hallucinogenic mushrooms:
+  an emerging trend case study. EMCDDA, 2006.
+- Hofmann A et al. Psilocybin, ein psychotroper Wirkstoff. Experientia, 1958.
+- Hasler F et al. Acute psychological and physiological effects of
+  psilocybin. Pharmacopsychiatry, 2004.

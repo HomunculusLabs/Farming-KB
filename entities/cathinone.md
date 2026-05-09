@@ -52,7 +52,7 @@ It acts primarily through reversal of monoamine transporter function at DAT, NET
 
 Compared to amphetamine, cathinone shows approximately 50% lower potency at DAT but higher serotonergic activity, contributing to a more pronounced empathogenic component in its subjective effects profile.
 
-**Receptor binding profile:**
+**[[tihkal-receptor-binding-serotonin]] profile:**
 
 - DAT: Releasing agent (moderate potency)
 - NET: Releasing agent (moderate potency)
@@ -66,7 +66,7 @@ Onset occurs within 15–30 minutes when consumed orally (chewed khat leaves). I
 
 **Desired effects include** euphoria, increased alertness, enhanced sociability, mild empathogenic feelings, elevated mood, and increased energy. Effects last 1.5–3 hours, shorter than amphetamine due to faster metabolism.
 
-**Adverse effects** include tachycardia, hypertension, insomnia, anxiety, anorexia, hyperthermia, and in severe cases, paranoid psychosis with prolonged heavy use.
+**[[blesching-cannabis-safety-adverse-effects-evidence]]** include tachycardia, hypertension, insomnia, anxiety, anorexia, hyperthermia, and in severe cases, paranoid psychosis with prolonged heavy use.
 
 Chronic khat use is associated with periodontal disease, gastrointestinal disorders, cardiovascular complications, and psychiatric disturbances including depression upon cessation.
 
@@ -84,7 +84,7 @@ The synthetic cathinone class emerged in the 2000s as "designer stimulants" desi
 
 Cathinone is listed in Schedule I of the United Nations Convention on Psychotropic Substances (1971), placing it under international control.
 
-In the United States, cathinone is a Schedule I controlled substance. The Federal Analogue Act also covers many synthetic cathinone derivatives.
+In the [[dmt-containing-plants-united-states-halpern]], cathinone is a Schedule I controlled substance. The Federal Analogue Act also covers many synthetic cathinone derivatives.
 
 Legal status of khat itself varies by country: it is legal in the UK (reclassified as Class C in 2014, previously uncontrolled), illegal in the US, Canada, and most EU member states, but remains legal and culturally accepted in Yemen, Ethiopia, Kenya, and Djibouti.
 
@@ -96,7 +96,7 @@ Peak plasma concentrations are reached within 1–2 hours of chewing. The compou
 
 The elimination half-life is approximately 1.5–3 hours, significantly shorter than amphetamine (10–12 hours). This rapid clearance contributes to the practice of prolonged khat chewing sessions lasting several hours to maintain effects.
 
-Detection windows in urine are 24–48 hours for cathinone itself and up to 5–7 days for its cathine metabolite, which is used as the primary urinary biomarker in forensic drug testing.
+Detection windows in urine are 24–48 hours for cathinone itself and up to 5–7 days for its cathine metabolite, which is used as the primary urinary biomarker in forensic [[psychedelic-drug-testing-and-adulterant-screening]].
 
 ## Related Compounds
 

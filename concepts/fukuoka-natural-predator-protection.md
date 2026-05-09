@@ -1,10 +1,11 @@
 ---
-title: Fukuoka's Natural Predator Protection in the Orchard
+title: Fukuoka's fukuoka natural predator protection Protection in the Orchard
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
 tags: [regenerative, living-soil, permaculture]
-sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka's Natural Predator Protection in the Orchard
@@ -99,4 +100,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

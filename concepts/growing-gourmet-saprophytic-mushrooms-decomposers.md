@@ -1,5 +1,5 @@
 ---
-title: "Saprophytic Mushrooms: The Decomposers"
+title: "growing gourmet saprophytic mushrooms decomposers: The Decomposers"
 created: 2026-04-26
 tags:
   - mycology
@@ -16,9 +16,9 @@ type: concept
 
 # Saprophytic Mushrooms: The Decomposers
 
-Most gourmet mushrooms are saprophytic, wood-decomposing fungi.
+Most [[growing-gourmet-mushrooms-civilization-history]] are saprophytic, wood-decomposing fungi.
 These saprophytic fungi are the premier recyclers on the planet.
-The filamentous mycelial network is designed to weave between and
+The filamentous [[gadd-mycelial-network-dynamics]] is designed to weave between and
 through the cell walls of plants. The enzymes and acids they
 secrete degrade large molecular complexes into simpler compounds.
 All ecosystems depend upon fungi's ability to decompose organic
@@ -59,7 +59,7 @@ other mushrooms.
 
 Classic examples include:
 - Aleuria aurantia, the Orange Peel Mushroom
-- Panaeolus subbalteatus, which grows prolifically in discarded
+- [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]], which grows prolifically in discarded
   compost from Button mushroom farms
 - Species of Conocybe, Agrocybe, and some Agaricus species
 
@@ -87,12 +87,12 @@ for cultivation. To select the best species, several variables
 must be carefully matched. Climate, available raw materials, and
 the mushroom strains all must interplay for cultivation to
 succeed. Native species are the best choices for designing
-outdoor mushroom landscapes.
+[[cotter-outdoor-mushroom-garden-mulch-beds]] landscapes.
 
 Temperature-tolerant varieties are more forgiving and easier to
 grow than those which thrive within finite temperature limits. In
 warmer climates, moisture is typically more rapidly lost, narrowing
-the opportunity for mushroom growth. Growing mushrooms outdoors in
+the opportunity for mushroom growth. Growing [[query-how-to-grow-mushrooms-outdoors-in-a-garden]] in
 a desert climate is more difficult than in moist environments where
 they naturally abound.
 
@@ -109,8 +109,8 @@ prolonged exposure to direct sunlight.
 Understanding whether a mushroom is a primary, secondary, or
 tertiary decomposer is fundamental to selecting appropriate
 substrates. See
-[[saprophytic-mushrooms]]
+saprophytic-mushrooms
 
 - [[growing-gourmet-mycorrhizal-gourmet-mushrooms]]
 - [[growing-gourmet-selecting-candidate-cultivation]]
-- [[growing-gourmet-species-sequencing-substrate-recycling]]
+- growing-gourmet-species-sequencing-substrate-recycling

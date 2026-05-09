@@ -1,5 +1,5 @@
 ---
-title: Microwave Surface Sterilization Technology
+title: challenge-microorganisms-microwave-surface-sterilization Sterilization Technology
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -10,7 +10,7 @@ sources: [raw/papers/sterilizing-surfaces-by-irradiation-with-microwaves.md]
 
 ## Overview
 
-Microwave irradiation for surface sterilization is a technique developed at NASA's Lyndon B. Johnson Space Center (MSC-22484) as an alternative to traditional sterilization methods. The technology uses 2.45 GHz microwave energy applied to damp surfaces to destroy bacteria, yeasts, and molds. It was specifically developed to address the need for aseptic access to biologically sensitive systems such as [[microwave-exposure-system-architecture-surface-sterilization]]**: 13.1 W-hr
+[[dry-microwave-irradiation-spore-resistance]] for surface sterilization is a technique developed at NASA's Lyndon B. Johnson Space Center (MSC-22484) as an alternative to traditional [[surface-sterilization-methods-comparison]]. The technology uses 2.45 GHz microwave energy applied to damp surfaces to destroy bacteria, yeasts, and molds. It was specifically developed to address the need for [[eclss-water-system-aseptic-access-space-biology]] to biologically sensitive systems such as [[microwave-exposure-system-architecture-surface-sterilization]]**: 13.1 W-hr
 - **Exposure rate**: 3.6 W/cm² of surface area
 - **Water requirement**: approximately 9 μL per cm² of surface
 - The water traces are essential — dry surface sterilization is not achieved
@@ -21,7 +21,7 @@ The sterilization effect relies on the interaction between microwave energy and 
 
 The presence of trace water is critical — surfaces must be damp for sterilization to occur. Microwave-induced steam may also contribute to the microbial kill. The efficiency depends on:
 
-1. **Duration** and **intensity** of microwave exposure
+1. **Duration** and **intensity** of [[microbial-kill-curve-microwave-exposure-dose-response]]
 2. **Amount of water present** on the surface
 3. **Kind and number** of microorganisms present
 
@@ -40,7 +40,7 @@ At an exposure rate of 3.6 W/cm², microbial kill curves demonstrated progressiv
 ### Autoclaving
 Autoclaving uses high-pressure saturated steam (121°C, 15 psi) and is highly effective but has excessive thermal impact on heat-sensitive systems and complex assemblies. [[substrate-preparation]]**: Microwave energy can be used to sterilize grain substrates and bulk substrates as an alternative to pressure cooking or autoclaving, particularly for small-scale or home cultivation setups
 - **Culture vessel decontamination**: The ability to sterilize complex geometries without chemical residues makes microwave approaches attractive for maintaining sterile culture conditions in laboratory settings
-- **Work surface sanitization**: Microwave-compatible laminar flow hood components and work surfaces could potentially be sterilized between uses, reducing downtime compared to chemical fogging methods
+- **Work surface sanitization**: Microwave-compatible [[comparison-laminar-flow-hood-vs-fruiting-chamber]] hood components and work surfaces could potentially be sterilized between uses, reducing downtime compared to chemical fogging methods
 - **[[spore-print]] decontamination**: Brief microwave exposure of damp collection surfaces could reduce bacterial contamination of wild spore prints without damaging the spores themselves
 
 ## Practical Considerations for Microwave Sterilization
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -55,7 +55,7 @@ notably [[nymphaea-caerulea]] | Blue flowers, toothed leaf margins |
   dopamine D1/D2 receptor modulators with weak 5-HT2A interaction.
   Nuciferine shows biased agonism at dopamine receptors.
 - **Duration:** 2–4 hours when consumed as tea or smoked.
-- **Toxicity:** Low toxicity profile. No deaths attributed to N. ampla.
+- **Toxicity:** [[fukuoka-low-toxicity-pesticide-deception]] profile. No deaths attributed to N. ampla.
   High doses may cause nausea and dizziness.
 
 ## Cultivation
@@ -75,7 +75,7 @@ ornamental aquatic plant and dried botanical specimen.
 ## See Also
 
 - [[salvia-divinorum]]
-- [[salvia-divinorum]]
+
 ## Practical Considerations
 
 Successful implementation of Nymphaea ampla requires attention to
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

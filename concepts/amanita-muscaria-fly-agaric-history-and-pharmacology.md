@@ -1,5 +1,5 @@
 ---
-title: Amanita Muscaria -- Fly Agaric History and Pharmacology
+title: allegro-amanita-muscaria-properties-and-pharmacology -- amanita muscaria fly agaric history and pharmacology History and Pharmacology
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -26,14 +26,14 @@ Among the Koryak tribes of northeast Siberia, the fungus is eaten to produce a s
 
 According to Scandinavian tradition, the Vikings ate Amanita muscaria to go berserk. This connection between the fly agaric and the legendary berserker rage has been debated by historians but remains a persistent element of the mushroom's folklore.
 
-The visual hallucinations induced by the mushroom are thought to be due to muscimol and ibotenic acid, compounds which respectively excite and sedate the nervous system by binding to certain brain receptors. The frequently disoriented world described in Lewis Carroll's Alice in Wonderland (1865) probably owes much to contemporary accounts of fly agaric inebriation by the mycologist [[mushroom-foraging-safety-guide]] classified Amanita muscaria among poisonous fungi but noted the absence of fatal outcomes in healthy adults. The treatments recommended in the mid-twentieth century included emetics, purgatives, and the administration of atropine or morphine to control symptoms.
+The visual hallucinations induced by the mushroom are thought to be due to muscimol and [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]], compounds which respectively excite and sedate the nervous system by binding to certain brain receptors. The frequently disoriented world described in Lewis Carroll's Alice in Wonderland (1865) probably owes much to contemporary accounts of fly agaric inebriation by the mycologist [[mushroom-foraging-safety-guide]] classified Amanita muscaria among [[ramsbottom-poisonous-fungi-identification-guide]] but noted the absence of fatal outcomes in healthy adults. The treatments recommended in the mid-twentieth century included emetics, purgatives, and the administration of atropine or morphine to control symptoms.
 
 The variation in toxin concentration between specimens and populations makes dose-response relationships difficult to establish. This variability is one of the factors that makes the fly agaric both less dangerous than popularly believed and less predictable than careful users would wish.
 
 ## Ecological Role
 
 Like other Amanita species, the fly agaric forms mycorrhizal associations with trees, growing mostly under birches but also occurring under pines. Its bright coloration serves as a warning to potential predators, though as with [[hallucinogenic-plants-united-states]]
-- [[classical-medieval-mushroom-knowledge]]
+- classical-medieval-mushroom-knowledge
 - [[european-mushroom-poisoning-history]].
 
 ## Lepiota Species
@@ -55,7 +55,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -97,4 +97,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

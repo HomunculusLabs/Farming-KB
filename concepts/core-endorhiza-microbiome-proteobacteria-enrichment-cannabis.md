@@ -1,5 +1,5 @@
 ---
-title: Core Endorhiza Microbiome and Proteobacteria Enrichment in Cannabis
+title: Core cannabinoid-concentration-endorhiza-microbiome-correlation-cannabis and Proteobacteria Enrichment in Cannabis
 created: 2026-04-28
 tags:
   - microbiome
@@ -19,17 +19,17 @@ type: concept
 
 # Core Endorhiza Microbiome and Proteobacteria Enrichment in Cannabis
 
-The root-associated bacterial communities of Cannabis, particularly the
+The root-associated [[cultivar-endorhiza-bacterial-communities-cannabis]] of Cannabis, particularly the
 endorhiza (bacteria colonizing root tissue), are characterized by a
 dramatic shift in phylum-level composition compared to surrounding soil,
 with Proteobacteria strongly enriched at the expense of
 Acidobacteria. This shift follows patterns governed by the two-tier
-selection model and reveals a conserved core endorhiza community shared
+[[two-tier-selection-model-plant-microbiome]] and reveals a conserved core endorhiza community shared
 across Cannabis cultivars.
 
 ## The Two-Tier Selection Model in Cannabis
 
-The two-tier selection model predicts that community composition across
+The two-tier selection model predicts that [[core-endorhiza-bacterial-community-composition-cannabis]] across
 sample types is determined primarily by soil type (first tier), while
 community structure within the endorhiza is determined primarily by host
 cultivar (second tier). Winston et al. (2014) tested this model using
@@ -43,7 +43,7 @@ bacteria.
 
 ## Phylum-Level Shifts from Soil to Root
 
-The transition from bulk soil through rhizosphere to Cannabis endorhiza
+The transition from bulk soil through rhizosphere to [[methylophilus-cannabis-endorhiza-strain-specificity]]
 involves dramatic restructuring at the phylum level. The most prominent
 change is a sharp decline in Acidobacteria and corresponding increase
 in Proteobacteria and Actinobacteria. The most significant OTU
@@ -87,3 +87,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[core-microbiome-cannabis-endorhiza]]

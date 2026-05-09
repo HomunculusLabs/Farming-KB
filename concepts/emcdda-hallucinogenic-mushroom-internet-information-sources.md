@@ -1,5 +1,5 @@
 ---
-title: "EMCDDA Hallucinogenic Mushroom Internet Information Sources"
+title: "EMCDDA emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative Internet Information Sources"
 created: 2026-04-28
 tags:
   - emcdda
@@ -19,7 +19,7 @@ type: concept
 ## Overview
 
 Since the late 1990s, extensive internet repositories of information on
-hallucinogenic mushrooms have emerged, contributing significantly to the
+[[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] have emerged, contributing significantly to the
 accessibility of information on mushroom description, use, effects, and the
 exchange of experiences among users. The EMCDDA 2006 thematic paper identified
 this online ecosystem as a key factor facilitating the diffusion of
@@ -40,7 +40,7 @@ on hallucinogenic mushrooms and other psychoactive substances:
 - **Mycotopia**: An online community focused on mycology and the cultivation
   and use of psychoactive mushrooms.
 - **Lycaeum**: An online library of psychoactive substance information.
-- **MushroomJohn**: A resource for mushroom identification and information.
+- **MushroomJohn**: A resource for [[psilocybin-mushroom-identification-guide]] and information.
 - **The Entheogen Review**: A publication and resource covering entheogenic
   substances including hallucinogenic mushrooms.
 
@@ -65,7 +65,7 @@ across Europe. The EMCDDA identified the following national sites:
 | Czech Republic| Kouzelné houbičky        | Czech mushroom information         |
 | Norway        | Norshroom                | Norwegian mushroom resources       |
 | Spain         | Planetahongo             | Spanish mushroom community         |
-| UK            | Shroommap                | UK mushroom hunting maps           |
+| UK            | Shroommap                | UK [[emcdda-magic-mushroom-hunting-europe]] maps           |
 | Sweden        | Svampinfo                | Swedish mushroom information       |
 | Finland       | Taikasieniforum          | Finnish magic mushroom forum       |
 
@@ -84,7 +84,7 @@ users, or lobby groups. They commonly provide:
   collective knowledge about effects and risks.
 - **Identification guides**: Photographic and descriptive guides for
   identifying hallucinogenic mushroom species in the wild.
-- **Cultivation advice**: Instructions on growing mushrooms at home using
+- **Cultivation advice**: Instructions on [[falconer-growing-mushrooms-in-sheds]] at home using
   spore prints, growkits, or other methods.
 - **Location sharing**: Some sites allow users to share information about
   known locations where hallucinogenic mushrooms grow wild.
@@ -116,7 +116,7 @@ websites is variable. Key concerns include:
 - Cultivation instructions may facilitate illegal activity in jurisdictions
   where mushrooms are controlled.
 
-Despite these concerns, these internet resources have played a significant
+Despite these concerns, these [[emcdda-internet-resources-magic-mushroom-websites]] have played a significant
 role in democratizing access to information about hallucinogenic mushrooms,
 filling a gap where formal drug education and prevention programmes have
 been slow to address this emerging trend.

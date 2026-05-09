@@ -1,5 +1,5 @@
 ---
-title: Sacred Mushroom Ceremonies
+title: Sacred stamets-psi-mazatec-mushroom-ceremonies-ethnobotany
 created: 2026-04-28
 tags:
   - shamanism
@@ -22,8 +22,8 @@ guidance on respectful ceremonial practice.
 
 In northeast Asia, the home of what anthropologists term
 "classic" shamanism, a close relationship exists between the
-psychoactive mushroom [[agar]]ic) and the
-shamanistic act. Amanita muscaria contains muscarine and
+psychoactive mushroom agaric) and the
+shamanistic act. [[allegro-amanita-muscaria-properties-and-pharmacology]] contains muscarine and
 muscimol, both with demonstrated hallucinogenic properties. In
 Siberia, it was used by the Koryak, Chukchi, Yukagir, Yakut,
 Ostyak, Samoyed, and Kamchadal tribes.
@@ -50,8 +50,8 @@ share common elements: the collection of mushrooms during
 specific lunar phases, the role of a specialized practitioner,
 the use of music (chanting, drumming, icaros), the presence of
 a supportive community, and the interpretation of visions for
-healing and divination. These cross-cultural parallels suggest
-that the ceremonial use of psychoactive fungi addresses
+[[metzner-shamanic-healing-and-divination-paradigm]]. These cross-cultural parallels suggest
+that the ceremonial use of [[cattle-dispersal-psychoactive-fungi-australia]] addresses
 fundamental human needs for spiritual experience and community
 healing that transcend individual cultural traditions.
 
@@ -61,11 +61,11 @@ The New World is overwhelmingly emphasized as a region of
 research in hallucinogen studies. As Schultes has pointed out,
 the Americas are unusually rich in hallucinogenic plants, a
 factor which undoubtedly facilitated their use by North,
-Middle, and South American Indians. For reasons not entirely
+Middle, and [[chiric-caspi-brunfelsia-south-american-hallucinogen]] Indians. For reasons not entirely
 clear, American Indian cultures have preserved an emphasis on
 shamanism, perhaps because the majority were untrammeled by a
 state religion. Today similar circumstances are usually found
-only in the most remote parts of the Old World.
+only in the most remote parts of the [[datura-metel-old-world-ethnobotany]].
 ## Practical Considerations
 
 Successful implementation of Sacred Mushroom Ceremonies requires attention to
@@ -84,4 +84,9 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[amanita-muscaria]]
+- [[allegro-the-sacred-mushroom-amanita-identification]]
+- [[sacred-mushroom-traditions-in-mexico]]
+- [[andrija-puharich-sacred-mushroom-1959]]
+- [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]]

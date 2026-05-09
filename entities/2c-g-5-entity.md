@@ -9,7 +9,7 @@ sources:
 ---
 # 2C-G-5
 
-**PIHKAL Entry #30** -- 3,6-Dimethoxy-4-(2-aminoethyl)benzonorbornane
+**[[2c-b-pihkal-entry-20]] #30** -- 3,6-Dimethoxy-4-(2-aminoethyl)benzonorbornane
 
 ## Chemical Name
 
@@ -25,7 +25,7 @@ sources:
 
 2C-G-5 is remarkably potent and extraordinarily long-lasting:
 
-- At 14 mg: fully aware of effects at two hours, totally unwilling to drive. Reminded continuously of [[2c-b]] with its erotic push and benign interplay of colors and visual effects, but "so much longer lived." Full +++, very stoned, with no believable sign of dropping for several hours. Good appetite. Sleep possible for a few hours, but still spacey the next day. Not baseline until two full days later, with "micro doze-offs" throughout
+- At 14 mg: fully aware of effects at two hours, totally unwilling to drive. Reminded continuously of  with its erotic push and benign interplay of colors and visual effects, but "so much longer lived." Full +++, very stoned, with no believable sign of dropping for several hours. Good appetite. Sleep possible for a few hours, but still spacey the next day. Not baseline until two full days later, with "micro doze-offs" throughout
 
 - At 16 mg: first effects within one hour, full effects between 2.5 and 3 hours. "Tremendous clarity of thought, cosmic but grounded." Not like LSD, mellower than the 2C-T family. Delightful and fun, safe and good-humored. The first 16 hours were great, the second 16 hours "a bit of a drag"
 
@@ -45,7 +45,7 @@ The benzonorbornane ring system represents a rigid, bulky hydrocarbon framework 
 
 2C-G-5 is the most elaborate member of the 2C-G series, which explores the effects of increasingly bulky substituents at the 3 and 4 positions of the 2,5-dimethoxyphenethylamine scaffold. The series progression demonstrates a remarkable trend: as steric bulk increases at these positions, both potency and duration tend to increase, reaching their apex in 2C-G-5.
 
-The benzonorbornane ring system is a bicyclic structure consisting of a benzene ring fused to a norbornane (bicyclo[2.2.1]heptane) framework. This creates a rigid, three-dimensional substituent that projects into space around the aromatic ring, likely affecting receptor binding kinetics and metabolic stability.
+The benzonorbornane ring system is a bicyclic structure consisting of a benzene ring fused to a norbornane (bicyclo[2.2.1]heptane) framework. This creates a rigid, three-dimensional substituent that projects into space around the aromatic ring, likely affecting [[tihkal-receptor-binding-serotonin]] kinetics and metabolic stability.
 
 The 2C-G series includes:
 
@@ -65,7 +65,7 @@ The extraordinary potency and duration of 2C-G-5 likely result from two convergi
 
 The receptor binding profile of 2C-G-5 has not been formally characterized, but based on its subjective effects and structural similarity to other 2C compounds, it is presumed to act primarily as a 5-HT2A agonist with possible contributions from 5-HT2C and alpha-adrenergic receptor interactions.
 
-The "area under the curve" concept that Shulgin emphasizes is particularly relevant here. 2C-G-5 delivers more total psychedelic experience per milligram than almost any other phenethylamine, but this comes at the cost of commitment -- users must be prepared for a two-day experience.
+The "area under the curve" concept that Shulgin emphasizes is particularly relevant here. 2C-G-5 delivers more total [[leary-psychedelic-experience-bardo-mapping]] per milligram than almost any other phenethylamine, but this comes at the cost of commitment -- users must be prepared for a two-day experience.
 
 ## Comparison to Related Compounds
 

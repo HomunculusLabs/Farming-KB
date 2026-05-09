@@ -1,15 +1,16 @@
 ---
-title: Holzer Permaculture Landscape Design
+title: Holzer holzer permaculture landscape design Design
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 # The Permaculture Landscape
 
-From "Sepp Holzer's Permaculture" by Sepp Holzer.
+From "[[comparison-sepp-holzer-vs-biodynamic]]'s Permaculture" by Sepp Holzer.
 
 ## General Principles
 
@@ -21,7 +22,7 @@ It is important that the resources are used in a way that is appropriate to the 
 
 To make proper use of the available natural resources we have to work with nature and not against it.
 
-The principle of working with nature rather than against it is the foundational axiom of all permaculture design, but Holzer gives it a distinctly practical emphasis.
+The principle of working with nature rather than against it is the foundational axiom of all [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], but Holzer gives it a distinctly practical emphasis.
 
 For him, it means starting from what the land already offers -- its slopes, water sources, microclimates, and existing vegetation -- and designing around these features rather than imposing a plan that ignores or contradicts them.
 
@@ -33,7 +34,7 @@ The difference is not merely philosophical; it produces dramatically different o
 
 Water is life and must therefore be treated with great care. This is why I try to keep water (whether it is rain water, spring water or surface runoff) on my land for as long as possible.
 
-Where there is wet soil, I would make a pond, water garden or wetland and plant orchids. In dry places I grow herbs that prefer semi-arid conditions like thyme, creeping thyme, marjoram and sage.
+Where there is wet soil, I would make a pond, water garden or wetland and plant orchids. In dry places I [[query-how-to-use-aquaponics-to-grow-herbs-and-vegetables]] that prefer semi-arid conditions like thyme, creeping thyme, marjoram and sage.
 
 The principle of retaining water on the landscape connects Holzer's work to the broader practice of alexander shulgin and [[sepp-holzer-terrace-systems-and-raised-beds]]. His ponds are not uniform, engineered structures but varied, organic shapes that follow the contours of the land and create a diversity of aquatic conditions -- deep water, shallow margins, marshy edges -- each supporting different communities of plants and animals.
 
@@ -57,13 +58,13 @@ According to Holzer permaculture principles, mechanical diggers only need to be 
 
 The beneficial effects of this technique are long lasting and the area will not need to be dug over every year.
 
-The one-time use of heavy machinery for earthworks is a pragmatic compromise that distinguishes Holzer's approach from more purist forms of natural farming. Fukuoka would reject the use of excavators entirely; Holzer embraces them as tools for accelerating the initial establishment of a permaculture system, after which biological processes take over.
+The one-time use of heavy machinery for earthworks is a pragmatic compromise that distinguishes Holzer's approach from more purist forms of [[comparison-natural-farming-vs-permaculture]]. Fukuoka would reject the use of excavators entirely; Holzer embraces them as tools for accelerating the initial establishment of a permaculture system, after which biological processes take over.
 
 The introduction of biomass during the earthworks phase -- burying logs, branches, and green material deep in the soil -- creates what modern permaculturists call "hugelkultur" beds.
 
 As the buried wood decomposes slowly over years and decades, it releases nutrients, retains moisture, and creates a sponge-like soil structure that supports plant growth with minimal irrigation.
 
-The [[holzer-terrace-systems]] | [[microclimate-creation-permaculture]] | [[sepp-holzer-method]]
+The [[holzer-terrace-systems]] | microclimate-creation-permaculture | [[sepp-holzer-method]]
 
 See also: [[sepp-holzer-method]]
 ## Practical Considerations
@@ -84,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

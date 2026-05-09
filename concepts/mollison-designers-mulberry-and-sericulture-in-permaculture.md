@@ -1,5 +1,5 @@
 ---
-title: Mulberry and Sericulture in Permaculture
+title: mollison designers mulberry and sericulture in permaculture in Permaculture
 created: 2026-04-26
 tags:
   - permaculture
@@ -35,7 +35,7 @@ product.
 
 The mulberry tree supports a complex of organisms: silkworms that produce
 silk, birds that eat the fruit, leaf-feeding insects that feed insectivores,
-and soil organisms that process the leaf litter. This web of interactions
+and soil organisms that process the [[dighton-fungal-decomposition-leaf-litter-dynamics]]. This web of interactions
 is the essence of permaculture design thinking.
 
 ## Guild Analysis and Companion Planting
@@ -67,7 +67,7 @@ permaculture thinking long before the term was coined. In this system:
 - Silkworms fed on mulberry leaves produce silk
 - Silkworm waste and mulberry leaf fall feed the pond
 - Fish in the pond produce manure that fertilises the mulberries
-- Ducks feed on pond organisms and control pests
+- Ducks feed on pond organisms and [[query-how-to-control-pests-without-chemicals]]
 
 This closed-loop system exemplifies the principle of every element
 performing multiple functions.
@@ -83,7 +83,7 @@ mulberry would be a valuable browse species.
 Mulberry fruit is sweet, nutritious, and produced abundantly. The berries
 are eaten fresh, dried, or made into preserves and wine. For poultry
 keepers, mulberries provide summer feed that reduces grain costs. The
-fruit also attracts birds that contribute to insect control in the wider
+fruit also attracts birds that contribute to [[mushroom-pests-insect-control-stamets]] in the wider
 system.
 
 ## Species Selection
@@ -92,12 +92,14 @@ The Manual lists Morus spp. (mulberry) in the species appendix. Key
 species include:
 - Morus alba (white mulberry) -- preferred for silkworm production
 - Morus nigra (black mulberry) -- excellent fruit quality
-- Morus rubra (red mulberry) -- native to North America
+- Morus rubra (red mulberry) -- native to [[psilocybin-north-america-pacific-northwest]]
 
 White mulberry is the traditional food for silkworms, while black
 mulberry produces the finest fruit for human consumption.
 
-## Related Concepts
+## Related
+
+- [[permaculture-mulberry]] Concepts
 
 - [[mollison-co-action-analysis-and-species-interaction-in-guild-design]]
 - [[mollison-earthworks-planning-and-post-earthworks-planting]]

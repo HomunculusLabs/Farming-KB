@@ -28,7 +28,7 @@ created: 2026-04-28
 ## Overview
 
 *Sanghuangporus sanghuang* is a perennial polypore fungus in the
-family Hymenochaetaceae, native to East Asia. It is the type species
+family Hymenochaetaceae, native to [[neurotropic-fungi-japan-east-asia-species-cultural-context]]. It is the type species
 of the genus *Sanghuangporus*, segregated from *Phellinus* in 2016
 based on molecular phylogenetic evidence.
 
@@ -82,7 +82,7 @@ trunks and large fallen logs. Sanghuang is slow-growing, requiring
 
 Overharvesting and habitat loss have caused significant population
 decline. Wild Sanghuang is now considered a threatened resource in
-several Chinese provinces, driving interest in artificial cultivation.
+several Chinese provinces, driving interest in [[fukuoka-matsutake-artificial-cultivation-attempt]].
 
 ## Bioactive Compounds
 
@@ -94,7 +94,7 @@ range from 10–500 kDa depending on extraction method.
 Over 50 triterpenoid compounds have been isolated, including inotodiol,
 trametenolic acid, and sanghuang-specific sanghuangic acids A and B.
 These demonstrate anti-inflammatory activity through NF-κB inhibition
-and cytotoxicity against HepG2, MCF-7, and A549 cancer cell lines.
+and cytotoxicity against HepG2, MCF-7, and A549 [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines.
 
 Additional constituents include hispidin derivatives (antioxidant,
 anti-diabetic), styrylpyrones (antimicrobial), and phenolic acids.
@@ -125,7 +125,7 @@ adjunctive cancer therapy, liver protection, and immune support.
 ## Cultivation
 
 Wild harvest remains the primary source, but artificial cultivation
-is being developed. Submerged fermentation produces polysaccharide-rich
+is being developed. [[cancer-medicinal-mushrooms-submerged-fermentation-production]] produces polysaccharide-rich
 mycelial biomass suitable for supplements.
 
 Solid-state cultivation on mulberry sawdust with bran or soy meal

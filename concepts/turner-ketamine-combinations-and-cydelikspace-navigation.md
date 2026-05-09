@@ -1,5 +1,5 @@
 ---
-title: Turner Ketamine Combinations and CydelikSpace Navigation
+title: Turner turner ketamine combinations and cydelikspace navigation and CydelikSpace Navigation
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -97,7 +97,7 @@ Turner's advanced techniques for navigating CydelikSpace using Ketamine combinat
 
 - Turner rejects the Eastern view of abandoning ego entirely
 - "While the ego certainly needs to be transcended to enter CydelikSpace, it is only by continually rebuilding our identity that our lives continue"
-- Uses psychedelic experience to "break down limitations, then rebuild and develop a wiser, healthier, happier ego"
+- Uses [[leary-psychedelic-experience-bardo-mapping]] to "[[query-can-fungi-break-down-plastic-pollution]] limitations, then rebuild and develop a wiser, healthier, happier ego"
 - Huxley's "reducing valve" theory: brain filters Mind at Large; psychedelics provide temporary by-passes
 
 ## See Also

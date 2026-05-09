@@ -16,7 +16,7 @@ type: concept
 
 # Goldstar
 
-Goldstar is a sativa-dominant hybrid cannabis strain from Bodhi Seeds, a
+Goldstar is a sativa-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] from Bodhi Seeds, a
 respected American seed company known for working with rare and exotic
 genetics. Part of Bodhi's Gold Star Genetics collection, this strain combines
 the mostly-indica Sensi Star with the mostly-sativa Malawi Gold, creating a
@@ -32,7 +32,7 @@ effects and sweet, pungent aroma. The particular phenotype used in Goldstar's
 creation exhibited distinctive turpentine-like terpene notes that add
 complexity to the final strain.
 
-Malawi Gold is a landrace sativa from southeastern Africa, specifically the
+Malawi Gold is a [[african-landrace-sativa-modern-hybrids]] from southeastern Africa, specifically the
 Malawi region. African landrace sativas are prized by breeders for their
 vigorous growth, long flowering times, and powerful psychedelic effects. The
 Malawi Gold parent contributes these traits to Goldstar, along with its
@@ -44,11 +44,11 @@ and create a reliable seed line.
 
 Bodhi Seeds is an American seed company that has earned a strong reputation
 in the cannabis community for sourcing and working with exceptional genetics
-from around the world. The company is known for creating strains that blend
+from [[fungi-around-the-world-species-distribution]]. The company is known for creating strains that blend
 rare landrace genetics with established modern varieties. Their Gold Star
 Genetics collection represents some of their most sought-after work, and
 Goldstar stands as a notable example of their ability to bridge the gap
-between old world hallucinogenic sativas and contemporary breeding.
+between old [[old-world-hallucinogenic-plants-overview]] sativas and contemporary breeding.
 
 ## Growing Characteristics
 
@@ -90,7 +90,7 @@ The balanced nature of Goldstar's effects makes it potentially useful for
 medical cannabis patients seeking relief from conditions that respond to both
 mental stimulation and physical relaxation. The trippy cerebral effects may
 benefit patients dealing with treatment-resistant depression or creative blocks,
-while the body component could help with mild pain management.
+while the body component could help with mild [[cannabis-pain-management-protocols]].
 
 ## Classification
 
@@ -107,5 +107,5 @@ experience.
 - [[banana-kush]]
 - [[bruce-banner]]
 - [[chemdog]]
-- [[cinex]]
+- cinex
 - [[tangerine-dream]]

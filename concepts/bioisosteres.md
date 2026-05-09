@@ -5,14 +5,15 @@ tags: [medicinal-chemistry, pharmacology, drug-discovery, organic-chemistry, ADM
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
-sources: []
+sources:
+  sources: []
 ---
 
 ## Overview
 
-Bioisosteres are atoms, functional groups, rings, or fragments that can replace one another while preserving or improving a molecule's biological behavior. The replacement is not merely decorative; it is a deliberate structure activity relationship medicinal chemistry strategy for changing potency, selectivity, solubility, permeability, metabolism, or toxicity.
+Bioisosteres are atoms, functional groups, rings, or fragments that can replace one another while preserving or improving a molecule's biological behavior. The replacement is not merely decorative; it is a deliberate [[md-family-structure-activity]] relationship medicinal chemistry strategy for changing potency, selectivity, solubility, permeability, metabolism, or toxicity.
 
-A successful bioisosteric substitution keeps the interactions needed for target recognition while altering liabilities that prevent a lead compound from becoming a useful drug. Bioisosterism sits at the boundary of [[mollison-soil-elements-periodic-table]] rule.
+A successful bioisosteric substitution keeps the interactions needed for target recognition while altering liabilities that prevent a lead compound from becoming a useful drug. Bioisosterism sits at the boundary of mollison-soil-elements-periodic-table rule.
 
 A group is a bioisostere only relative to a particular molecule, target, assay, and optimization goal.
 
@@ -98,7 +99,7 @@ It can also worsen clearance, increase lipophilicity, create poor solubility, or
 
 A practical bioisostere campaign begins by identifying the liability that must be fixed. The liability may be poor potency, low selectivity, rapid microsomal clearance, low solubility, high efflux, chemical instability, reactive metabolite risk, or weak oral exposure.
 
-The chemist then maps which functional group contributes to that liability and which interactions must be preserved. Candidate replacements are chosen from precedent, matched molecular pair analysis, structural models, property calculations, and synthetic feasibility.
+The chemist then [[maps]] which functional group contributes to that liability and which interactions must be preserved. Candidate replacements are chosen from precedent, matched molecular pair analysis, structural models, property calculations, and synthetic feasibility.
 
 Small focused analog sets are usually more informative than a large unsystematic library. Each analog should be tested for potency, selectivity, solubility, permeability, microsomal stability, plasma stability, protein binding, and safety flags when relevant.
 
@@ -118,7 +119,7 @@ The discipline is to treat every bioisostere as a hypothesis about molecular rec
 
 Bioisosteres connect directly to structure-activity relationships, pharmacophores, lead optimization, prodrug design, and [[glucuronidation]], [[reactive-metabolites-and-bioactivation-toxicology]], and transporter-mediated pharmacokinetics.
 
-In organic chemistry, the topic draws on heterocycle design, conformational analysis, stereoelectronic effects, and functional group interconversion. In pharmacology, the value of a bioisostere is judged by the full response profile, not by chemical resemblance alone.
+In , the topic draws on heterocycle design, conformational analysis, stereoelectronic effects, and functional group interconversion. In pharmacology, the value of a bioisostere is judged by the full response profile, not by chemical resemblance alone.
 
 ## References
 

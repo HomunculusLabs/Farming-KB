@@ -29,7 +29,7 @@ Multiple species valued for cane in furniture making, basketry, and cordage:
 ### Other Basketry Species
 - **Phragmites australis** (common reed): Used for bags, baskets, matting, sandals, thatching, arrows, spears, and paper
 - **Quercus michauxii** (swamp chestnut oak, basket oak): Named for its traditional use in basket making
-- **Broussonetia papyrifera** (paper mulberry): Australian Aborigines made string from bark fibres; bark yields fibre suitable for the textile industry
+- **Broussonetia papyrifera** (paper mulberry): Australian Aborigines made string from bark fibres; bark yields fibre suitable for the [[staycare-fungal-treatment-of-textile-industry-wastewater]]
 - **Yucca spp**: Various desert species yield fibre from leaves, used for cordage and textiles
 
 ## Paper and Pulp Plants
@@ -44,7 +44,7 @@ Poplar wood is soft, suitable for wood pulp and paper. Also used for plywood, fi
 Timber used to make top quality cricket bats -- a unique industry. Trees require good soil by stream sides for rapid, upright growth, ready for cutting at 12-15 years. This timber also shows potential in the craft industry.
 
 ### Castor (Ricinus communis)
-Stems are good for paper making. The plant also yields castor oil from seeds (35-55% oil content), used in industry, pharmaceuticals, leather dressing, soap, candles, cosmetics, and textiles.
+Stems are good for paper making. The plant also yields [[permaculture-castor-oil-plant]] from seeds (35-55% oil content), used in industry, pharmaceuticals, leather dressing, soap, candles, cosmetics, and textiles.
 
 ### Other Paper Species
 - **Morus spp** (mulberry): Bark used in China and Europe for making paper

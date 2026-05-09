@@ -1,10 +1,11 @@
 ---
-title: "Neem Oil vs Diatomaceous Earth"
+title: "Neem Oil vs query-how-to-use-diatomaceous-earth-in-the-garden"
 created: 2026-04-28
 tags: [comparison, pest-control, cannabis, organic]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -13,7 +14,7 @@ type: comparison
 ## Overview
 
 Neem oil and diatomaceous earth are two of the most widely used organic pest
-control products in cannabis cultivation.
+control products in [[query-how-does-no-till-cannabis-cultivation-work]].
 
 Both are derived from natural sources and are approved for use in organic
 growing systems, but they work through fundamentally different mechanisms.
@@ -23,7 +24,7 @@ damages pest exoskeletons through abrasive contact with sharp silica particles.
 
 Understanding these differences is critical for choosing the right tool for
 specific pest problems and for building an effective [[azadirachta-indica]]), a
-fast-growing evergreen native to the Indian subcontinent and Southeast Asia.
+fast-growing evergreen native to the Indian subcontinent and [[psilocybe-southeast-asia-pacific]].
 
 The primary active compound in cold-pressed neem oil is azadirachtin, a complex
 limonoid tetranortriterpenoid that disrupts insect hormone systems.
@@ -41,13 +42,13 @@ while the azadirachtin disrupts their endocrine system, providing a dual mode
 of action against susceptible pests.
 
 Neem also possesses fungistatic properties and is effective at suppressing
-powdery mildew when applied early in an infection cycle, though it is not a
+[[cervantes-powdery-mildew-prevention-treatment]] when applied early in an infection cycle, though it is not a
 true fungicide and cannot cure established powdery mildew infections.
 
 Neem oil can be applied as a soil drench for systemic protection. When roots
 absorb the active compounds, they are distributed throughout the plant vascular
 system, providing internal protection against chewing and sucking insects.
-This systemic action is particularly valuable during the vegetative stage when
+This systemic action is particularly valuable during the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] when
 plants actively translocate nutrients to new growth tips and developing foliage.
 
 Important considerations for neem oil use include avoiding application during
@@ -122,7 +123,7 @@ application and when powdery mildew suppression is also needed.
 Choose diatomaceous earth when targeting soil-dwelling and crawling pests,
 particularly fungus gnats at the larval stage and during adult emergence.
 
-DE is ideal for dry environments and grow rooms with low humidity where the
+DE is ideal for dry environments and grow rooms with [[pf-tek-low-humidity-symptoms-and-remediation]] where the
 powder will remain effective between waterings without reapplication.
 
 ## Hybrid Approaches
@@ -135,5 +136,7 @@ insects and provide mildew suppression simultaneously.
 Rotating between neem oil and other organic sprays like insecticidal soap or
 potassium bicarbonate prevents pest resistance from developing over time.
 ## See Also
+
+- [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]]
 
 - [[comparison-white-rot-vs-brown-rot-bioremediation]]

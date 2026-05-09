@@ -10,7 +10,7 @@ sources:
 
 # Cannabis and TBI Research
 
-**Source:** The Cannabis Health Index (Uwe Blesching, 2017)
+**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]] (Uwe Blesching, 2017)
 
 ## Overview
 
@@ -62,7 +62,7 @@ TBI triggers a complex cascade of secondary injury processes that begin minutes 
 
 - **Cerebral edema reduction:** Brain swelling (edema) is a leading cause of death after TBI. CBD has been shown to reduce blood-brain barrier permeability and decrease cerebral edema in animal models through 5-HT1A receptor activation and inhibition of inflammatory mediators.
 
-- **Oxidative stress mitigation:** TBI generates massive reactive oxygen species (ROS) that damage cellular membranes, proteins, and DNA. Both THC and CBD are potent antioxidants, with CBD demonstrating superior free-radical scavenging compared to classical antioxidants.
+- **[[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] mitigation:** TBI generates massive reactive oxygen species (ROS) that damage cellular membranes, proteins, and DNA. Both THC and CBD are potent antioxidants, with CBD demonstrating superior free-radical scavenging compared to classical antioxidants.
 
 - **Neurogenesis promotion:** Chronic cannabinoid treatment stimulates hippocampal neurogenesis, which may help replace neurons lost to TBI-related cell death. This is particularly relevant for the memory and cognitive deficits that characterize post-concussion syndrome.
 
@@ -76,11 +76,11 @@ The clinical evidence for cannabis in TBI is emerging but promising, drawing fro
 
 - **Improved neurological function (2011, Israel):** CBD administration following experimental TBI in mice produced significant improvements in neurological performance scores and reduced brain edema compared to controls. Importantly, CBD was effective even when administered after injury onset.
 
-- **Pain management:** Post-TBI chronic headache affects 40-80% of patients. Cannabis has a CHI value of 23 for chronic pain, making it one of the best-supported applications for managing this common TBI sequela.
+- **Pain management:** Post-TBI chronic headache affects 40-80% of patients. Cannabis has a CHI value of 23 [[cannabis-for-chronic-pain-comprehensive]], making it one of the best-supported applications for managing this common TBI sequela.
 
 - **Psychiatric symptom management:** Depression, anxiety, and sleep disturbance affect 30-50% of TBI survivors. Cannabis shows CHI values of 23 for anxiety/depression and 22-26 for sleep, offering a single therapeutic agent that addresses multiple post-TBI symptoms simultaneously.
 
-- **Concussion in sports:** Professional athletes in contact sports are increasingly using CBD both preventively and after concussions, though formal clinical trials are still pending.
+- **Concussion in sports:** Professional athletes in contact sports are increasingly using CBD both preventively and after concussions, though formal [[mushroom-cancer-clinical-trials-overview]] are still pending.
 
 ## Dosing Considerations
 
@@ -92,11 +92,11 @@ The clinical evidence for cannabis in TBI is emerging but promising, drawing fro
 
 - **Raw cannabis juice:** Following Dr. Courtney's protocol for neuroprotection, consuming raw THCA and CBDA through juicing may provide daily neuroprotective benefits without psychoactive effects, suitable for long-term use.
 
-- **Timing:** The earlier cannabinoid therapy is initiated after TBI, the greater the potential benefit. The endocannabinoid system's natural protective response peaks within hours of injury and then declines.
+- **Timing:** The earlier cannabinoid therapy is initiated after TBI, the greater the potential benefit. The endocannabinoid system's [[fukuoka-natural-protective-forests-appendix]] response peaks within hours of injury and then declines.
 
 ## Safety and Interactions
 
-- **Drug interactions with anticonvulsants:** Many TBI patients are prescribed anticonvulsants (valproate, levetiracetam, phenytoin). CBD can inhibit CYP450 enzymes and alter anticonvulsant blood levels, requiring close monitoring.
+- **[[cannabis-drug-interactions-and-contraindications]] with anticonvulsants:** Many TBI patients are prescribed anticonvulsants (valproate, levetiracetam, phenytoin). CBD can inhibit CYP450 enzymes and alter anticonvulsant blood levels, requiring close monitoring.
 
 - **Bleeding risk:** TBI patients may be on anticoagulants. CBD can increase INR levels in patients taking warfarin. Monitor coagulation parameters closely.
 

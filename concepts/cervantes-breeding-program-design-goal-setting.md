@@ -1,5 +1,5 @@
 ---
-title: Breeding Program Design and Goal Setting
+title: cervantes breeding [[jadam-fertilizer-program-design]] goal setting Design and Goal Setting
 created: 2026-04-26
 tags:
   - cannabis
@@ -10,14 +10,15 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Breeding Program Design and Goal Setting
 
 A well-designed breeding program is essential for achieving meaningful
-genetic improvement in cannabis. Cervantes outlines five primary
+[[genetic-improvement-agaricus-bisporus-molecular-approaches]] in cannabis. Cervantes outlines five primary
 components that form the foundation of any successful breeding effort,
 from developing a clear vision through to potential commercialization.
 
@@ -28,7 +29,7 @@ are you trying to make seed? What are you trying to accomplish by mating
 these sets of parents? The breeding goal serves as the final
 destination; the breeding process is the roadmap to get there.
 
-Goals might include creating a seed population that represents the
+Goals might include creating a [[cervantes-seed-population-types-ibl-hybrid]] that represents the
 traits of an ideal plant, adding new traits to an existing mostly ideal
 variety, or simply producing seeds for next year's crop. Without a
 clear goal, breeding efforts lack direction and are unlikely to produce
@@ -88,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

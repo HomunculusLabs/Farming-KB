@@ -3,12 +3,10 @@ title: Mushroom Tropisms: Phototropism and Geotropism
 created: 2026-04-13
 updated: 2026-04-15
 type: concept
-tags: [[mycology, mushrooms, cultivation]
+tags: [mycology, mushrooms, cultivation]
 sources: [papers/tropisms-in-the-mushroom-psilocybe-cubensis.md]
 ---
-# Mushroom Tropisms: Phototropism and Geotropism
-
-Mushroom fruitbody development involves directed growth responses (tropisms) to environmental stimuli. Badham (1982) studied these tropisms in [[light-basidiocarp-initiation-psilocybe-cubensis-research]] and spore formation
+# Mushroom Tropisms: Phototropism and Geotropism Mushroom fruitbody development involves directed growth responses (tropisms) to environmental stimuli. Badham (1982) studied these tropisms in [[light-basidiocarp-initiation-psilocybe-cubensis-research]] and spore formation
 
 ## Hormonal Basis
 
@@ -20,7 +18,7 @@ Several researchers have postulated mushroom hormones involved in tropisms:
 
 ## Adaptive Significance
 
-- **Anemotropism** places caps in favourable positions for spore dispersal by orienting toward airflow
+- **Anemotropism** places caps in favourable positions for [[aquatic-fungi-spore-dispersal-ingold]] by orienting toward airflow
 - **Directed growth toward evaporative demand** increases spacing between stipes of cespitose (clustered) fruitbodies
 - **Negative geotropism** ensures a horizontal pileus for effective spore release, critical for coprophilous species in unstable habitats
 
@@ -32,11 +30,11 @@ The tropic responses of [[mushroom-cultivation-in-kenya]]:
 2. **Uneven lighting** can cause curved or distorted fruitbodies during Stages 1-2
 3. **Rotating containers** during early fruiting can promote upright growth
 4. **Phase 2 geotropism** ensures self-correction of cap orientation as mushrooms approach maturity, even if early growth was misdirected
-5. **Sporeless mutants** will not self-correct at maturity -- useful consideration for [[mushroom-tropisms]]
+5. **Sporeless mutants** will not self-correct at maturity -- useful consideration for mushroom-tropisms
 
-- [[mushroom-lighting-and-environmental-requirements]] — practical environmental control
+- mushroom-lighting-and-environmental-requirements — practical [[eclss-environmental-control-life-support]]
 - [[psychedelic-mushroom-set-and-setting]] — species profile
-- [[mushroom-strain-selection-genetics]]
+- mushroom-strain-selection-genetics
 ## Practical Applications
 
 Mushroom Tropisms: Phototropism and Geotropism has a range of practical applications that make it relevant to
@@ -115,3 +113,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[mushroom-tropisms]]

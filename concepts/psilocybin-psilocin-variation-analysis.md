@@ -1,5 +1,5 @@
 ---
-title: Psilocybin and Psilocin Variation Analysis in Psilocybe cubensis
+title: Psilocybin and psilocybin-psilocin-variation-across-flushes Analysis in brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting
 tags: [psilocybin, psilocin, alkaloid variation, psilocybe cubensis, hplc, mycology]
 date: 2026-04-28
 updated: 2026-04-28
@@ -43,7 +43,7 @@ freeze-dried immediately upon harvest and stored at -5 °C until analysis.
 
 The primary study focused on one Amazonian strain of *Psilocybe cubensis*
 (Earle) Singer, cultivated across three replicate minicultures. Two additional
-strains were also analyzed for cap-versus-stem alkaloid distribution:
+strains were also analyzed for cap-versus-stem [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]]:
 
 - **Amazon strain** (primary, Peru): studied across 5 to 6 flushes
 - **M.R. strain**: first flush only, cap and stem analyzed separately
@@ -52,7 +52,7 @@ strains were also analyzed for cap-versus-stem alkaloid distribution:
 
 Additionally, the authors reference prior work (Beug and Bigwood, 1982)
 analyzing psilocybin and psilocin levels in twenty species from seven genera
-of wild mushrooms in the Pacific Northwest, USA, which motivated the present
+of [[edible-wild-mushrooms-by-region]] in the Pacific Northwest, USA, which motivated the present
 controlled study after observing large inter-collection variability.
 
 ## Flush-by-Flush Variation Patterns
@@ -69,7 +69,7 @@ variation observed in street samples (0.7 to 6.2 mg/g).
 
 ### Psilocin
 
-Psilocin exhibited a clear temporal pattern across flushes. It was generally
+Psilocin exhibited a clear temporal [[psilocin-accumulation-pattern-across-flushes]] flushes. It was generally
 absent (zero) in the first flush, sometimes also in the second, then rose to a
 maximum by the fourth flush, after which it appeared to begin declining. Across
 the three minicultures, maximum psilocin levels reached 1.7 to 2.9 mg/g at the
@@ -123,5 +123,6 @@ experience likely stems not only from [[tryptamine]] load changes meaningfully w
 
 ## See Also
 
-- [[psilocybe-cubensis]]
+- [[exergy-analysis]]
+
 - [[psilocybe-cubensis]]

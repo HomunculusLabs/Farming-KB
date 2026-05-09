@@ -16,7 +16,7 @@ model reveals that the amount of energy flowing through an ecosystem, and thus
 available at every trophic level, can be increased not only by raising the
 volume of standing crop per unit of ground but also by lengthening the time
 during which that crop can grow and by expanding the leaf area of individual
-plants to capture more solar energy.
+plants to capture more [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]].
 
 ## Overview
 
@@ -54,7 +54,7 @@ throughout the entire system.
 The energy converted by plants when green and growing must support all life
 both above and below ground throughout the year. The longer the time when
 plants are growing, the more productive the ecosystem as a whole. Time can be
-increased by lengthening the growing season or by using the available growing
+increased by lengthening the [[savory-growing-season-and-non-growing-season-management]] or by using the available growing
 time within the season more efficiently.
 
 Producing a better mineral cycle, water cycle, and higher successional
@@ -81,7 +81,7 @@ biological communities, which in turn support the mineral and water cycles
 that sustain plant growth.
 
 The underground dimension of the energy tetrahedron is particularly important.
-Below-ground energy flow, driven by root exudates and decomposing organic
+Below-ground energy flow, driven by [[mycorrhizal-root-exudates-pathogen-interactions]] and decomposing organic
 matter, fuels the microbial communities that make minerals available to
 plants and create soil structure that holds water. When above-ground
 management damages these underground communities, the effects ripple through
@@ -90,11 +90,11 @@ as important as the volume of above-ground leaf and stem material.
 
 ## Area of Leaf
 
-The area of leaf surface determines how much solar energy plants can capture.
+The area of [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] determines how much solar energy plants can capture.
 Management practices that increase leaf area per plant, such as preventing the
 accumulation of old growth that blocks sunlight from reaching growing points,
 directly increase energy capture. In brittle environments, the removal of
-old oxidizing material through grazing or animal impact can dramatically
+old oxidizing material through grazing or [[savory-animal-impact-and-herd-effect]] can dramatically
 increase leaf area and thus energy flow.
 
 Each additional square inch of green leaf area represents more solar energy
@@ -115,7 +115,7 @@ repaid from the narrow surplus of captured solar energy. In many cases, the
 debt is never fully repaid, leading to declining soil health and productivity
 over time.
 
-Holistic management seeks to broaden the base of the energy tetrahedron
+[[savory-holistic-management-overview]] seeks to broaden the base of the energy tetrahedron
 through biological tools that operate on energy captured from sunlight rather
 than on purchased inputs. By extending time, increasing volume, and
 maximizing leaf area through properly planned grazing and animal impact, the

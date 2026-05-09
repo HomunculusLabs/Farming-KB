@@ -11,12 +11,12 @@ type: entity
 # Flammulina velutipes
 
 **Type:** Species
-**Category:** Edible and medicinal mushroom (Physalacriaceae)
+**Category:** Edible and [[gourmet-medicinal-mushroom-casing-layer-techniques]] (Physalacriaceae)
 **Also known as:** Enokitake (Japanese), Winter Mushroom, Velvet
 Foot, Golden Needle Mushroom
 
 ## Overview
-Flammulina velutipes is one of the most popular edible mushrooms in
+Flammulina velutipes is one of the most popular [[palmer-edible-mushrooms-north-america]] in
 China and Japan, known as Enokitake in Japanese cuisine. It grows
 naturally on stumps and decayed hardwood in cold weather, hence
 "Winter Mushroom." Its significance in medicinal mycology was
@@ -31,16 +31,16 @@ rates among its cultivators.
 - **Order:** Agaricales
 - **Family:** Physalacriaceae (formerly Tricholomataceae)
 - **Habitat:** Saprophytic on stumps and decayed hardwood trees;
-  fruits in cold weather (late autumn to early spring)
+  fruits in cold weather (late autumn to [[coleman-overwintered-onions-and-early-spring-crops]])
 - **Distribution:** Widely distributed in temperate regions
   worldwide
-- **Cultivation history:** Known since 800 AD in China
+- **[[cuthill-mushroom-cultivation-history-19th-century]]:** Known since 800 AD in China
 
 ### Morphology
 - Wild form: golden-brown cap, dark velvety stipe, robust
 - Cultivated form (Enokitake): elongated white stipes (10 to 15 cm)
   with tiny caps, produced by growing in jars with plastic collars
-  that restrict light and air circulation
+  that restrict light and [[stamets-growing-room-air-circulation-co2-management]]
 - Caps are 1 to 5 cm diameter in the wild
 - Spore print white
 
@@ -64,7 +64,7 @@ rates among its cultivators.
 
 ### Cultivation
 - Major commercial species, especially in China and Japan
-- Artificial cultivation from jars of sawdust mix
+- [[fukuoka-matsutake-artificial-cultivation-attempt]] from jars of sawdust mix
 - Special technique: plastic collar placed around jar neck creates
   elongated stipes with tiny mushroom heads
 - Can be eaten raw in salads or cooked in various ways

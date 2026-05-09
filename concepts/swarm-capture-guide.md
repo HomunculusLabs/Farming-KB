@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, animal-husbandry, beginner, pollinators]
-sources: []
+sources:
+  sources: []
 ---
 
 # Swarm Capture Guide
@@ -89,7 +90,7 @@ hive can catch swarms without any effort during swarm season.
 - Entrance: 1.5 square inches, facing south or southeast
 - Height: 10-15 feet off the ground (simulates a tree cavity)
 - Shade: partial shade is preferred
-- Scent: 5-10 drops of lemongrass essential oil on a cotton ball inside
+- Scent: 5-10 drops of lemongrass [[permaculture-designers-manual-essential-oil-plants]] on a cotton ball inside
 - Comb: one frame of old dark drawn comb is highly attractive
 
 ### Placement Strategy
@@ -123,6 +124,6 @@ hive can catch swarms without any effort during swarm season.
 ## Swarm Prevention in Your Own Colonies
 
 While catching swarms is rewarding, preventing your own colonies from
-swarming preserves honey production. See [[beekeeping-problems-and-solutions]]
+swarming preserves [[mollison-designers-beekeeping-honey-production-permaculture]]. See [[beekeeping-problems-and-solutions]]
 for prevention strategies, and [[beekeeping-seasonal-calendar]] for timing
 of management actions.

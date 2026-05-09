@@ -5,7 +5,8 @@ updated: 2026-04-18
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Mushroom Logs, Mycorrhizae and Fungi Cultivation
@@ -30,7 +31,7 @@ Holzer draws on both European folk medicine and Asian traditions:
 
 - Honey fungus ([[lentinula-edodes]]) -- lowers cholesterol, effective against colds, strengthens immune system, positive effect in cancer treatment. Grows on sycamore logs at the Krameterhof up to 1,500m altitude
 - Judas' ear (Auricularia auricula-judae) -- treats nausea, lowers blood pressure
-- Lingzhi / reishi (Ganoderma lucidum) -- treats sleeping disorders, strengthens immune system
+- Lingzhi / reishi ([[stamets-reishi-ganoderma-lucidum-cultivation]]) -- treats sleeping disorders, strengthens immune system
 - Mushrooms generally: high fibre, low calorie, rich in vitamins and minerals. Best fresh but retain flavour and nutrients when dried. Mushroom tea is used for illness prevention and detoxification
 
 ## Growing Mushrooms on Wood
@@ -39,7 +40,7 @@ Holzer draws on both European folk medicine and Asian traditions:
 
 All of the following grow on hardwood at the Krameterhof. Fruiting begins at 10C minimum for most species (2C for enoki, 15C for black poplar mushroom):
 
-- Shiitake (Lentinula edodes) -- premier culinary and medicinal mushroom, can be grown on narrow logs or branches, can be eaten raw or as tea
+- Shiitake ([[staycare-lentinula-edodes-in-bioremediation]]) -- premier culinary and [[gourmet-medicinal-mushroom-casing-layer-techniques]], can be grown on narrow logs or branches, can be eaten raw or as tea
 - Oyster mushroom (Pleurotus ostreatus) -- excellent culinary mushroom, not particular about wood type but grows especially well on beech, maple, and elm
 - King oyster mushroom (Pleurotus eryngii) -- thick fleshy stems, excellent flavour
 - Golden oyster mushroom (Pleurotus citrinopileatus) -- large yellow clusters, excellent culinary mushroom
@@ -52,7 +53,7 @@ All of the following grow on hardwood at the Krameterhof. Fruiting begins at 10C
 ### Substrate Selection
 
 - Only fresh, uncontaminated hardwood should be used
-- Stone fruit wood is least suitable for mushroom cultivation
+- Stone fruit wood is least suitable for [[accessible-mushroom-cultivation-for-disabilities]]
 - Softwood (poplar, willow, alder, birch) is colonised faster (6-12 months) but decomposes sooner
 - Hardwood (beech, oak) takes twice as long to colonise but yields last substantially longer (over 10 years at 1,500m)
 - Logs stored more than half a year are probably no longer suitable
@@ -86,7 +87,7 @@ All of the following grow on hardwood at the Krameterhof. Fruiting begins at 10C
 
 ### Substrate Preparation
 
-- Use only organic straw (conventional straw may contain herbicides, fungicides, and growth regulators)
+- Use only organic straw (conventional straw may contain herbicides, fungicides, and [[ingham-natural-growth-regulators-soil-microbes]])
 - Straw should be golden yellow, no mould spots or dark areas, no musty smell
 - Small compressed bales are easiest to handle when wet
 - Soak bales fully in water for several days -- this also begins slight fermentation, aiding mycelial colonisation
@@ -140,7 +141,10 @@ Spore distribution method:
 
 ## Pest Protection
 
-Slugs and snails (especially the non-indigenous Spanish slug, Arion vulgaris) are the main pest of mushroom cultures. Holzer's integrated approach:
+[[query-how-to-get-rid-of-slugs-and-snails-organically]] (especially the non-indigenous Spanish slug, Arion vulgaris) are the main pest of mushroom cultures. Holzer's integrated approach:
 - Pigs, ducks, and toads naturally reduce slug populations
 - Protective ring barrier: mixture of wood ash, sawdust, and slaked lime, kept dry
 - Wet grass clipping trap: attracts slugs to lay eggs, then turn over to expose eggs to sun and UV light
+## See Also
+
+- [[pleurotoid-mushroom-morphology-gilled-fungi]]

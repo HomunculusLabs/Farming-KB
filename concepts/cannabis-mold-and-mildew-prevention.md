@@ -1,5 +1,5 @@
 ---
-title: Cannabis Mold and Mildew Prevention
+title: Cannabis Mold and cervantes-powdery-mildew-prevention-treatment
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -12,7 +12,7 @@ Updated: 2026-04-18
 
 Source: The Cannabis Grow Bible, Greg Green (Ch. 6, 15)
 
-Mold and mildew are among the most destructive problems in cannabis cultivation, especially during flowering when dense buds create humid microclimates. Prevention is critical because mold on buds is generally not salvageable.
+Mold and mildew are among the most destructive problems in [[query-how-does-no-till-cannabis-cultivation-work]], especially during flowering when dense buds create humid microclimates. Prevention is critical because mold on buds is generally not salvageable.
 
 ## Types of Mold and Mildew
 
@@ -33,9 +33,9 @@ Mold and mildew are among the most destructive problems in cannabis cultivation,
 - **Remove affected leaves**: Cut off and destroy any leaves with PM immediately
 - **Improve air circulation**: Add oscillating fans, thin the canopy
 - **Reduce humidity**: Dehumidifier, better exhaust
-- **Neem oil**: Preventative foliar spray (apply during vegetative stage only)
+- **Neem oil**: Preventative foliar spray (apply during [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] only)
 - **Potassium bicarbonate**: Foliar spray effective against PM
-- **Hydrogen peroxide**: Diluted 3% H2O2 as a foliar spray (1:10 ratio)
+- **[[cervantes-hydrogen-peroxide-sterilization]]**: Diluted 3% H2O2 as a foliar spray (1:10 ratio)
 - **Milk spray**: 1:10 milk-to-water ratio — some growers report success as a preventative
 - **Sulfur burner**: Effective in larger spaces, but cannot be used during flowering (affects taste)
 
@@ -84,7 +84,7 @@ Mold and mildew are among the most destructive problems in cannabis cultivation,
 
 ### Environmental Control
 
-1. **Humidity management**: 
+1. **[[stamets-cultivator-humidity-management-fogging-systems]]**: 
    - Vegetative: 50–70%
    - Flowering: 40–50% (lower is better for mold prevention)
    - Use a dehumidifier and monitor with a hygrometer
@@ -100,7 +100,7 @@ Mold and mildew are among the most destructive problems in cannabis cultivation,
 3. **Defoliation**: Remove dead, dying, and shaded lower leaves that trap moisture
 4. **Sanitation**: Clean and sanitize your grow space between crops. Remove all plant debris
 5. **Quarantine**: Isolate new plants before adding them to your grow
-6. **Strain selection**: Some strains are more resistant to mold. Looser, less dense buds are less susceptible.
+6. **[[blesching-cannabis-strain-selection-receptor-targeting]]**: Some strains are more resistant to mold. Looser, less dense buds are less susceptible.
 
 ### Monitoring
 

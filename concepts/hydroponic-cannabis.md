@@ -1,9 +1,9 @@
 ---
-title: Hydroponic Cannabis Cultivation
+title: Hydroponic query-how-does-no-till-cannabis-cultivation-work
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -11,11 +11,11 @@ tags: [cannabis]
 
 # Hydroponic Cannabis Cultivation
 
-Hydroponics is the science of growing plants without soil, most often in a soilless mix. In cannabis cultivation, hydroponic growing has become one of the most productive and popular methods for both indoor and greenhouse production. Even growing mature plants in soilless Sunshine Mix or Terra-Lite, when watered by hand, is considered hydroponic gardening.
+Hydroponics is the science of growing plants without soil, most often in a soilless mix. In cannabis cultivation, [[cannabis-grow-hydroponic-growing-systems]] has become one of the most productive and popular methods for both indoor and greenhouse production. Even growing mature plants in soilless Sunshine Mix or Terra-Lite, when watered by hand, is considered hydroponic gardening.
 
 ## Overview
 
-In hydroponics, the inert soilless growing medium contains essentially no nutrients. All nutrition is supplied via a nutrient solution of fertilizer diluted in water. This solution passes over or floods around roots at regular intervals, then drains off. The extra oxygen trapped in the soilless medium and around the roots speeds nutrient uptake by tiny root hairs. Cannabis grows fast hydroponically because it is able to take in food as fast as it can be used.
+In hydroponics, the inert soilless growing medium contains essentially no nutrients. All nutrition is supplied via a [[cannabis-nutrient-solution-preparation]] of fertilizer diluted in water. This solution passes over or floods around roots at regular intervals, then drains off. The extra oxygen trapped in the soilless medium and around the roots speeds nutrient uptake by tiny root hairs. Cannabis grows fast hydroponically because it is able to take in food as fast as it can be used.
 
 In soil, as in hydroponics, roots absorb nutrients and water. However, even the best soil rarely has as much oxygen in it as a soilless hydroponic medium, which is one reason hydroponic growth rates exceed soil-based cultivation.
 
@@ -25,13 +25,13 @@ Hydroponic systems are distinguished by how the nutrient solution is delivered:
 
 ### Passive Systems
 
-Passive systems rely on capillary action to transfer nutrient solution from the reservoir to the growing medium. Examples include [wick systems. Nutrient solution is passively absorbed by a wick or growing medium and transported to roots. Absorbent growing mediums such as [[ebb-and-flow]] (flood and drain)
+Passive systems rely on capillary action to transfer nutrient solution from the reservoir to the growing medium. Examples include [wick systems. Nutrient solution is passively absorbed by a wick or growing medium and transported to roots. Absorbent [[cervantes-growing-mediums-comparison]] such as [[ebb-and-flow]] (flood and drain)
 - [Top-feed/drip systems
 - [[deep-water-culture]] (DWC)
 - [[rockwool-cannabis]]
 - [[perlite-cannabis]]
 
-See Cannabis Growing Mediums and [[ebb-and-flow]] or [[wick-system-cannabis]] systems for their first hydroponic experience.
+See [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]] Mediums and [[ebb-and-flow]] or [[wick-system-cannabis]] systems for their first hydroponic experience.
 
 ## pH Management
 
@@ -59,7 +59,7 @@ Fibrous mediums with irregular surfaces such as [[ebb-and-flow]] or [[deep-water
 
 ## Nutrient Disorders in Hydroponics
 
-When the hydroponic garden is on a regular maintenance schedule and the grower knows the crop well, nutrient problems are usually averted. If [nutrient deficiency or excess affects more than a few plants:
+When the hydroponic garden is on a regular maintenance schedule and the grower knows the crop well, nutrient problems are usually averted. If [[cannabis-grow-nutrient-deficiency-problem-solving]] or excess affects more than a few plants:
 1. Check irrigation fittings to ensure all plants receive a full dose of nutrient solution.
 2. Check the substrate around affected plants to ensure solution is penetrating the entire medium.
 3. Check the root zone to ensure roots have not plugged drainage conduits.
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

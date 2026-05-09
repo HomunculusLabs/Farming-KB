@@ -1,5 +1,5 @@
 ---
-title: Wool Insulation and Natural Textiles
+title: mollison designers wool insulation and natural textiles and Natural Textiles
 created: 2026-04-28
 tags:
   - wool-insulation
@@ -43,15 +43,15 @@ Mollison contrasts wool with common synthetic alternatives:
 
 Wool's unique advantage in permaculture building is its combination of
 thermal performance with moisture buffering and breathability, which
-complements natural wall systems such as cob, rammed earth, straw bale,
-and timber frame.
+complements natural wall systems such as cob, rammed earth, [[comparison-cob-construction-vs-straw-bale-construction]],
+and [[comparison-bamboo-construction-vs-timber-frame-basics]].
 
 ## Natural Textile Production
 
 Mollison extends the discussion to broader textile production for
 clothing, bedding, and household use within permaculture settlements:
 
-- Wool processing: After scouring and carding, wool is spun into yarn
+- [[mollison-designers-wool-processing-natural-dyeing]]: After scouring and carding, wool is spun into yarn
   using drop spindles or spinning wheels. Hand spinning is slow but
   produces high-quality yarn with minimal equipment. Yarn is then woven
   on looms or knitted into garments. Natural dyes from plants (indigo,
@@ -64,7 +64,7 @@ clothing, bedding, and household use within permaculture settlements:
 - Hemp and flax (linen): Mollison favours these bast fibres as more
   sustainable alternatives to cotton. Hemp in particular grows well on
   marginal land, requires minimal inputs, produces strong and durable
-  fibre, and has multiple other uses (seed oil, building material,
+  fibre, and has multiple other uses (seed oil, [[fungal-building-material-deterioration]],
   biomass). Processing involves retting (controlled decomposition of the
   pectin binding fibres), breaking, scutching, and hackling before
   spinning.
@@ -85,3 +85,7 @@ permaculture zonation system:
 
 Textile production connects [[mollison-designers-lime-and-cement-natural-building]]
 and [[mollison-designers-wool-processing-natural-dyeing]]
+
+## See Also
+
+- mollison-natural-swimming-pools

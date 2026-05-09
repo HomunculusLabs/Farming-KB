@@ -47,7 +47,7 @@ and reproducible anatomical reference point for all observations.
 
 Before each experiment, Darwin and his son grew canary grass seedlings in total
 darkness for several days. This dark-adaptation period was essential to the
-experimental design: it ensured that the plants had not been previously exposed to
+[[lightproof-cap-experimental-design-phototropism]]: it ensured that the plants had not been previously exposed to
 directional light, which could have primed or desensitised their phototropic
 response mechanism. Only after the seedlings had been sufficiently dark-adapted
 were they exposed to the experimental light source.
@@ -82,7 +82,7 @@ response for all subsequent comparisons.
 off with a sharp blade. Despite being exposed to the same light, it did not bend
 at all. This demonstrated that the tip was essential for the phototropic response,
 though this result alone was ambiguous because removing the tip could have damaged
-the plant in ways unrelated to light perception.
+the plant in ways unrelated to [[plant-vision-and-light-perception-mechanisms]].
 
 **Condition 3: Tip covered with a lightproof cap.** The third seedling had a
 small cap that blocked all light placed over its tip. This seedling also failed
@@ -110,7 +110,7 @@ did not need direct light exposure, but the tip absolutely required it. Darwin
 concluded that the coleoptile tip was the "eye" of the plant, perceiving the
 direction of the light source and transmitting this information downward to the
 bending region, which executed the directional growth response through differential
-cell elongation on the shaded versus illuminated sides.
+[[brassinosteroid-physiological-mechanisms-cell-elongation-division]] on the shaded versus illuminated sides.
 
 This separation of perception and response was a revolutionary insight. It implied
 the existence of a mobile signalling mechanism, a substance produced at the tip in
@@ -130,7 +130,7 @@ disproved this hypothesis.
 
 The choice of canary grass as a model organism proved so productive that later
 researchers continued to use grass coleoptiles for phototropism studies well into
-the twentieth century. Frits Went's famous auxin-collection experiments of the
+the [[coleman-louis-savier-twentieth-century-maraicher]]. Frits Went's famous auxin-collection experiments of the
 1920s, in which he placed agar blocks on decapitated coleoptile tips to absorb the
 diffusible growth substance, were performed primarily with oat (*Avena sativa*)
 coleoptiles, which share the same basic architecture as canary grass.
@@ -140,6 +140,8 @@ coleoptiles, which share the same basic architecture as canary grass.
 While contemporary plant science has largely adopted *Arabidopsis thaliana* as
 its primary genetic model organism, the coleoptile-based phototropism assay
 ## See Also
+
+- [[chamovitz-darwin-phototropism-experiment-canary-grass]]
 
 - [[julius-von-sachs-blue-light-phototropism-discovery]]
 - [[plant-vision-and-phototropism]]

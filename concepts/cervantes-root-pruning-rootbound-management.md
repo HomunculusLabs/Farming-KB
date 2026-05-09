@@ -1,5 +1,5 @@
 ---
-title: Root Pruning and Rootbound Management
+title: cervantes root pruning rootbound management and Rootbound Management
 created: 2026-04-28
 tags:
   - cannabis
@@ -10,15 +10,16 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Root Pruning and Rootbound Management
 
 Root pruning and managing rootbound plants are essential skills for
-maintaining healthy cannabis in containers, especially for long-term
-outdoor and greenhouse grows. [[cervantes-container-gardening-pot-size]] for container selection
+maintaining [[query-how-to-manage-ph-for-healthy-cannabis-plants]] in containers, especially for long-term
+[[query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growing]] grows. [[cervantes-container-gardening-pot-size]] for container selection
 guidelines.
 
 ## Chemical Root Pruning
@@ -66,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

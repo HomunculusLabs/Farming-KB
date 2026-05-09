@@ -1,19 +1,19 @@
 ---
-title: French Flake Spawn Versus English Brick Spawn
+title: French french flake spawn vs brick spawn Versus English Brick Spawn
 slug: french-flake-spawn-vs-brick-spawn
-source: William Falconer, Mushrooms: How to Grow Them (1891)
+source: william-falconer, Mushrooms: How to Grow Them (1891)
 tags: [mushroom-spawn, brick-spawn, flake-spawn, french-spawn, english-spawn, spawn-making, historical-mycology]
 ---
 
 # French Flake Spawn Versus English Brick Spawn
 
-## Two Traditions of [[mushroom-spawn]] was produced and traded in two fundamentally different forms.
+## Two Traditions of mushroom-spawn was produced and traded in two fundamentally different forms.
 
 The English tradition manufactured spawn in the form of hard, dry, solid bricks of compressed manure.
 
 The French tradition produced spawn as loose flakes of half-rotted strawy manure.
 
-Both forms were completely permeated with mushroom mycelium, the vegetative body of the fungus.
+Both forms were completely permeated with mushroom [[mycelium]], the vegetative body of the fungus.
 
 These two traditions represented not merely different packaging methods but genuinely different approaches to the propagation and preservation of mushroom mycelium.
 
@@ -25,7 +25,7 @@ Falconer's 1891 treatise discussed both types in considerable detail, reflecting
 
 Brick spawn was commonly known as English spawn.
 
-What was imported into the United States was made in England, mostly around London.
+What was imported into the [[dmt-containing-plants-united-states-halpern]] was made in England, mostly around London.
 
 The bricks made by different manufacturers varied somewhat in size and weight.
 
@@ -47,7 +47,7 @@ The mycelium within the bricks appeared as a network of fine white threads or a 
 
 ## Mill-Track Spawn — The Original Natural Spawn
 
-Mill-track mushroom spawn was advertised by some American seedsmen.
+Mill-track [[cuthill-mushroom-spawn-preparation-historical]] was advertised by some American seedsmen.
 
 But what they sold under this name was only ordinary English brick spawn.
 
@@ -95,7 +95,7 @@ Virgin spawn was the term for natural or wild spawn.
 
 This was the spawn that occurred naturally in fields, in manure piles, or elsewhere, without any artificial aid.
 
-It was supposed to be produced directly from mushroom spores.
+It was supposed to be produced directly from [[query-how-to-store-mushroom-spores-long-term]].
 
 It was not a new growth of surviving parts of old spawn that had lived over in the ground.
 

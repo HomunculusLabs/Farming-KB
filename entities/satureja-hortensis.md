@@ -19,7 +19,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Sáez, L. & Stahl-Biskup, E. (2002). "Satureja." In: K. E. Kubitzki (ed.), "The Families and Genera of Vascular Plants," Vol. VII, Springer.
-  - Hazzit, M. et al. (2006). "Essential oil composition and antimicrobial activity of Satureja hortensis." Chemistry of Natural Compounds, 42(5), 605–608.
+  - Hazzit, M. et al. (2006). "[[permaculture-designers-manual-essential-oil-plants]] composition and antimicrobial activity of Satureja hortensis." Chemistry of Natural Compounds, 42(5), 605–608.
   - Gulluce, M. et al. (2003). "Antimicrobial and antioxidant properties of Satureja hortensis." Journal of Agricultural and Food Chemistry, 51(4), 1160–1165.
   - Hajhashemi, V. et al. (2000). "Antinociceptive and anti-inflammatory effects of Satureja hortensis." Journal of Ethnopharmacology, 69(3), 281–286.
 ---
@@ -47,7 +47,7 @@ The genus *Satureja* comprises approximately 30 species of aromatic herbs
 and subshrubs. Summer savory (*S. hortensis*) is the annual species most
 widely used in cooking, while winter savory (*S. montana*) is a perennial
 with a stronger, more pungent flavor. The two are sometimes confused but
-are readily distinguished by growth habit and leaf morphology.
+are readily distinguished by growth habit and [[cannabis-leaf-morphology-and-phyllotaxy]].
 
 ## Morphology
 
@@ -68,7 +68,7 @@ flowers are attractive to bees and other pollinators.
 enclosed within the persistent calyx.
 
 **Roots:** Shallow fibrous root system. As an annual, the plant completes
-its entire life cycle within one growing season.
+its entire life cycle within one [[savory-growing-season-and-non-growing-season-management]].
 
 ## Distribution and Habitat
 
@@ -111,7 +111,7 @@ the traditional French herb blend *herbes de Provence* and is used in:
 - **Egg dishes, vegetable preparations, and salads.**
 
 The herb is best used fresh but dries well with minimal flavor loss,
-unlike many other culinary herbs.
+unlike many other [[holzer-medicinal-and-culinary-herbs-compendium]].
 
 ## Medicinal and Traditional Uses
 
@@ -125,7 +125,7 @@ Modern pharmacological studies have confirmed:
 - **Anti-inflammatory and analgesic effects** in animal models.
 - **Antioxidant activity** — the essential oil shows significant
   free-radical scavenging capacity.
-- **Antimicrobial properties** — effective against foodborne pathogens
+- **[[mycelium-running-mushroom-antimicrobial-properties-species-chart]]** — effective against foodborne pathogens
   including *E. coli*, *Salmonella*, and *Listeria monocytogenes*.
 
 ## Cultivation
@@ -134,7 +134,7 @@ Summer savory is easily grown from seed sown directly after the last frost.
 Seeds germinate in 1–3 weeks at 20°C. Plants prefer full sun, moderate
 watering, and well-drained soil. Pinching back the stems encourages
 bushier growth. The entire above-ground plant is harvested just before or
-during flowering for maximum essential oil content. In companion planting,
+during flowering for maximum essential oil content. In [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]],
 savory is traditionally grown alongside beans and onions. It is sometimes
 intercropped as a pest deterrent, though scientific evidence for this is
 limited.

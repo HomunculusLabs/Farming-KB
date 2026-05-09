@@ -1,5 +1,5 @@
 ---
-title: "Honey Bees vs Native/Solitary Bees — A Comprehensive Comparison"
+title: "comparison honey bees vs native solitary bees vs Native/Solitary Bees — A Comprehensive Comparison"
 created: 2026-04-28
 tags:
   - bees
@@ -15,10 +15,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Xerces Society for Invertebrate Conservation — Native Bee Conservation Guides (xerces.org)"
+  - "Xerces Society for Invertebrate Conservation — comparison-native-bee-pollinators-vs-honeybees Conservation Guides (xerces.org)"
   - "USDA NRCS — Pollinator-Friendly Best Management Practices (nrcs.usda.gov)"
   - "Danforth, B.N. et al. (2019). The Solitary Bees: Biology, Evolution, Conservation. Princeton University Press."
-  - "Winfree, R. et al. (2007). Native bees provide insurance against ongoing honey bee losses. Ecology Letters, 10(11), 1105–1113."
+  - "Winfree, R. et al. (2007). [[query-how-to-attract-native-bees-and-beneficial-insects]] provide insurance against ongoing honey bee losses. Ecology Letters, 10(11), 1105–1113."
   - "Mader, E. et al. (2011). Attracting Native Pollinators. Xerces Society / Storey Publishing."
   - "USDA-ARS — Bee Research Laboratory: Honey Bee Health and Colony Collapse Disorder (ars.usda.gov)"
   - "Roulston, T.H. & Goodell, K. (2011). The role of resources and risks in regulating wild bee populations. Annual Review of Entomology, 56, 293–312."
@@ -27,7 +27,7 @@ type: comparison
 
 # Honey Bees vs Native/Solitary Bees
 
-Understanding the differences between honey bees (*Apis mellifera*) and native solitary bees is essential for gardeners, farmers, and conservationists. Honey bees dominate agricultural pollination, but North America's ~4,000 native bee species — most of them solitary — are often more efficient pollinators, require virtually no maintenance, and face serious conservation threats. Choosing between (or integrating) these groups has real consequences for crop yields, ecosystem health, and biodiversity.
+Understanding the differences between honey bees (*Apis mellifera*) and native solitary bees is essential for gardeners, farmers, and conservationists. Honey bees dominate agricultural pollination, but [[psilocybin-north-america-pacific-northwest]]'s ~4,000 native bee species — most of them solitary — are often more efficient pollinators, require virtually no maintenance, and face serious conservation threats. Choosing between (or integrating) these groups has real consequences for crop yields, ecosystem health, and biodiversity.
 
 ## Quick-Reference Comparison Table
 
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

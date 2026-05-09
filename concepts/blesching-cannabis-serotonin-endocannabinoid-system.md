@@ -12,7 +12,7 @@ type: concept
 # Serotonin and the Endocannabinoid System
 
 Serotonin is a neurotransmitter especially abundant in the
-gastrointestinal tract (assisting appetite regulation and bowel
+gastrointestinal tract (assisting [[blesching-cannabis-appetite-regulation-ghrelin-leptin]] and bowel
 movement). To a lesser degree it is found in the central nervous system
 (affecting mood, sleep, memory) and in blood cells called platelets that
 are responsible for clotting; thus serotonin is involved in wound
@@ -25,7 +25,7 @@ positive, flexible, and easy-going. Research has shown a direct
 correlation between mood and serotonin levels: positive mood equals
 increased serotonin while negative mood equals reduced serotonin.
 
-Positronic brain imaging has confirmed that healthy people who underwent
+Positronic [[neurochemical-probes-brain-imaging-pihkal]] has confirmed that healthy people who underwent
 positive or negative mood induction produced more serotonin when happy
 and less when sad.
 
@@ -39,7 +39,7 @@ released, and utilized in the body.
 
 This connection helps explain why cannabis has demonstrated therapeutic
 potential for mood disorders, gastrointestinal conditions, and pain
-management, all of which involve serotonin pathways.
+management, all of which involve [[powell-psilocybin-serotonin-pathways-environmental-chemistry]].
 
 ## Serotonin Deficiency
 
@@ -87,7 +87,7 @@ The serotonin-endocannabinoid connection is particularly relevant for:
 
 ## See Also
 
-- [[blesching-endocannabinoid-system-overview]]
+- [[endocannabinoid-system-overview]]
 - [[blesching-cannabis-ptsd-anxiety]]
 - [[blesching-cannabis-sleep-disorders]]
 - [[blesching-cannabis-inflammation]]

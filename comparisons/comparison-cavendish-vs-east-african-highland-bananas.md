@@ -1,5 +1,5 @@
 ---
-title: Cavendish vs. East African Highland Bananas
+title: Cavendish vs. comparison cavendish vs east african highland bananas Highland Bananas
 tags:
   - banana
   - cavendish
@@ -34,7 +34,7 @@ Cavendish (AAA) and East African Highland (AAA-EAH) bananas represent two of the
 |---------|----------------|-------------------------------|
 | **Genome** | Triploid *M. acuminata* (AAA) | Triploid *M. acuminata* (AAA), distinct subgroup |
 | **Primary use** | Fresh dessert fruit (export and local) | Staple cooking food (steamed, mashed, boiled) |
-| **Origin** | Southeast Asia / South China | East Africa (introduced centuries ago, locally diversified) |
+| **Origin** | [[psilocybe-southeast-asia-pacific]] / South China | East Africa (introduced centuries ago, locally diversified) |
 | **Elevation range** | Sea level to ~1,200 m | 1,000–2,000 m (highland-adapted) |
 | **Optimal temperature** | 27–30°C | 20–25°C (cooler-adapted) |
 | **Global production area** | ~5 million hectares | ~2.5 million hectares (concentrated in Uganda, Rwanda, Burundi, DRC, Tanzania, Kenya) |
@@ -85,7 +85,7 @@ Cavendish (AAA) and East African Highland (AAA-EAH) bananas represent two of the
 - Tolerates temperatures down to ~13°C with minimal stress
 - Continues productive growth at 1,400–2,000 m where Cavendish would fail
 - More tolerant of cloud cover and reduced light intensity
-- Sensitive to high temperatures above 30°C (reduced growth, heat stress)
+- Sensitive to high temperatures above 30°C (reduced growth, [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]])
 - The bimodal rainfall pattern of the East African highlands (two rainy seasons per year) provides two production cycles
 
 ### Soil Requirements
@@ -94,7 +94,7 @@ Cavendish (AAA) and East African Highland (AAA-EAH) bananas represent two of the
 |-----------|-----------|----------------------|
 | **pH** | 5.5–6.5 | 5.0–6.5 (more tolerant of acidity) |
 | **Drainage** | Excellent drainage essential | Good drainage needed but more tolerant of heavy soils |
-| **Organic matter** | High requirement | Very high requirement — thrives in rich volcanic soils |
+| **[[hamilton-composting-and-organic-matter-management]]** | High requirement | Very high requirement — thrives in rich volcanic soils |
 | **Fertility** | Heavy feeder (NPK) | Heavy feeder, especially potassium; volcanic soils often provide naturally |
 | **Soil depth** | >60 cm preferred | >50 cm; volcanic soils of the East African Rift are naturally deep |
 
@@ -116,4 +116,4 @@ Cavendish is grown in large-scale monoculture plantations:
 
 ## See Also
 
-- [[banana-and-plantain-cultivation-and-variety-guide]]
+- [[permaculture-designers-manual-banana-circles]]

@@ -59,7 +59,7 @@ In native Australian forests, it associates with *Eucalyptus*, *Corymbia*, and *
 
 It is particularly common in disturbed habitats: road verges, mine tailings, degraded pastures, and recently burned forest sites.
 
-The species tolerates acidic soils (pH 3.5–6.0), low nutrient availability, high aluminum concentrations, and drought — making it a pioneer ectomycorrhizal colonizer of harsh sites.
+The species tolerates acidic soils (pH 3.5–6.0), low [[ph-and-nutrient-availability-garden-soils]], high aluminum concentrations, and drought — making it a pioneer ectomycorrhizal colonizer of harsh sites.
 
 ## Mycorrhizal Symbiosis
 
@@ -73,7 +73,7 @@ The species tolerates acidic soils (pH 3.5–6.0), low nutrient availability, hi
 
 The Hartig net formed by *P. albus* is typical of ectomycorrhizae, with a dense hyphal mantle surrounding the root tip.
 
-Key benefits to the host plant include enhanced phosphorus uptake, protection against root pathogens, improved drought tolerance, and access to organic nitrogen sources.
+Key benefits to the host plant include enhanced phosphorus uptake, protection against root pathogens, improved [[dighton-fungal-drought-tolerance-plant-water-relations]], and access to organic nitrogen sources.
 
 Inoculation with *P. albus* significantly improves seedling survival and growth on degraded sites, with growth responses of 30–200% compared to non-mycorrhizal controls reported in eucalypt and acacia trials.
 
@@ -84,7 +84,7 @@ Inoculation with *P. albus* significantly improves seedling survival and growth 
 - **Mine-site rehabilitation:** Essential for establishing eucalypt and acacia plantings on heavy-metal-contaminated and nutrient-poor mine tailings
 - **Commercial forestry:** Applied as a soil amendment or nursery inoculant in eucalypt plantations across Brazil, China, India, and Southeast Asia
 - **Agroforestry:** Promotes tree growth in intercropped systems with leguminous trees
-- **Carbon sequestration:** Enhances tree establishment in reforestation programs designed for carbon credits
+- **[[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]:** Enhances tree establishment in reforestation programs designed for carbon credits
 
 Spore inoculum is produced commercially by collecting mature basidiocarps and preparing spore slurries or peat-based inoculum for nursery application.
 
@@ -94,14 +94,14 @@ The species has shown particular value in rehabilitation of bauxite and gold min
 
 In permaculture design, *P. albus* is relevant as a **pioneer soil-builder** in degraded landscapes:
 
-- Establishes mycorrhizal networks that persist even after the host tree is removed
+- Establishes [[dighton-mycorrhizal-networks-carbon-transfer]] that persist even after the host tree is removed
 - Improves soil aggregation and water-holding capacity through glomalin production
-- Creates favorable conditions for succession by other ectomycorrhizal and arbuscular mycorrhizal fungi
+- Creates favorable conditions for succession by other ectomycorrhizal and [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi
 - Edible basidiocarps (when young, before spore maturation) — used as a food source by Aboriginal Australians
 
 ## Related Species
 
-- **Pisolithus tinctorius** — North American and European counterpart; historically confused with *P. albus*
+- **Pisolithus tinctorius** — [[growing-gourmet-north-american-reishi-species]] and European counterpart; historically confused with *P. albus*
 - **Pisolithus arhizus** — Mediterranean species; used as a dye fungus (hence "tinctorius")
 - **Pisolithus microcarpus** — small-fruited Australian species associated with *Allocasuarina*
 - **Scleroderma citrinum** — similar habit; powdery gleba without peridioles; poison risk

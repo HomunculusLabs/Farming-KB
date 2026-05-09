@@ -11,7 +11,7 @@ updated: 2026-05-08
 sources:
   - Laundon, J.R. (1984). "The typification of Lecanora chlorotera." Lichenologist, 16: 65–67.
   - Purvis, O.W. et al. (1992). The Lichen Flora of Great Britain and Ireland. Natural History Museum Publications.
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens of North America. Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens of [[psilocybin-north-america-pacific-northwest]]. Yale University Press.
   - Wirth, V., Hauck, M., Schulz, M. (2013). Die Flechten Deutschlands. Eugen Ulmer KG.
 ---
 
@@ -45,7 +45,7 @@ Chemical spot tests on the thallus show K+ yellow to orange (atrnaorin), C−, K
 
 ## Distribution and Habitat
 
-Lecanora chlorotera is widespread across Europe from the Mediterranean to southern Scandinavia and the British Isles. It is also found in eastern North America, with records from the Appalachian region and the Great Lakes area.
+Lecanora chlorotera is widespread across Europe from the Mediterranean to southern Scandinavia and the British Isles. It is also found in [[polypore-fungi-eastern-north-america]] America, with records from the Appalachian region and the Great Lakes area.
 
 The species is strictly corticolous, growing on the bark of a wide range of deciduous and coniferous trees. It shows a strong preference for nutrient-enriched bark, particularly on trees growing in open situations or along forest edges.
 
@@ -61,7 +61,7 @@ It occurs from lowland elevations to approximately 800 meters in more mountainou
 
 ## Chemistry and Bioactive Compounds
 
-The thallus of Lecanora chlorotera contains atranorin as the major cortical secondary metabolite. The soredia contain both atranorin and usnic acid, the latter responsible for the bright UV+ fluorescence.
+The thallus of Lecanora chlorotera contains atranorin as the major cortical [[fungal-elicitors-enhanced-secondary-metabolite-production]]. The soredia contain both atranorin and usnic acid, the latter responsible for the bright UV+ fluorescence.
 
 The presence of usnic acid in the soredia but not in the thallus cortex is a characteristic feature. This differential chemistry has taxonomic significance and helps distinguish L. chlorotera from similar species in the L. subfusca group.
 
@@ -71,19 +71,19 @@ The dual-chemistry system of L. chlorotera is unusual among Lecanora species. Mo
 
 Extracts of L. chlorotera have shown moderate antimicrobial activity in screening programs. However, the concentrations of bioactive compounds are relatively low compared to usnic acid-rich species such as Cladonia or Usnea.
 
-Research has investigated the potential of Lecanora extracts as natural preservatives. The antimicrobial properties of atranorin and usnic acid suggest possible applications in food packaging and cosmetic products.
+Research has investigated the potential of Lecanora extracts as natural preservatives. The [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] of atranorin and usnic acid suggest possible applications in food packaging and cosmetic products.
 
 ## Ecological Role
 
 Lecanora chlorotera is an early to intermediate successional species in epiphytic lichen communities. It commonly colonizes young bark surfaces and persists as part of the developing lichen flora as the substrate matures.
 
-The species is a reliable indicator of eutrophication and elevated atmospheric nitrogen levels. Its presence and abundance increase in areas with agricultural runoff, vehicle emissions, or other sources of reactive nitrogen deposition.
+The species is a reliable indicator of eutrophication and elevated atmospheric nitrogen levels. Its presence and abundance increase in areas with agricultural runoff, vehicle emissions, or other sources of reactive [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]].
 
 As a sorediate species, L. chlorotera contributes to lichen dispersal and colonization of new substrates. Soredia are readily dispersed by wind and can establish new colonies considerable distances from parent thalli.
 
 Establishment success of soredia is highest on nutrient-rich, relatively smooth bark with moderate moisture availability. The species colonizes both young and mature bark surfaces but is most abundant on intermediate-aged substrates.
 
-The species provides microhabitat for various lichenicolous fungi, including species of Arthonia and Marchandiomyces. These parasitic fungi are often found on thalli of L. chlorotera in mature lichen communities.
+The species provides microhabitat for various lichenicolous fungi, including species of Arthonia and Marchandiomyces. These [[escovopsis-parasitic-fungi-attine-ant-gardens]] are often found on thalli of L. chlorotera in mature lichen communities.
 
 The bright yellow soralia of L. chlorotera make it one of the most visually conspicuous crustose lichens on bark. This conspicuousness has made it a popular introductory species in lichen identification workshops and field courses.
 

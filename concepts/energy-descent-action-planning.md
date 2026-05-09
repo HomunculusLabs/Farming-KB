@@ -1,10 +1,11 @@
 ---
-title: Energy Descent Action Planning
+title: Energy energy descent action planning Planning
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [reference]
 sources:
+  sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 # Energy Descent Action Planning
@@ -25,19 +26,19 @@ The descent will be more hazardous than the climb, and we may have to camp on a 
 
 ## Ethics for Energy Descent
 
-The [[natural-farm-permaculture-ethics-principles]] framework provides the moral foundation for energy descent planning, ensuring that the transition serves both ecological and human needs.
+The natural-farm-permaculture-ethics-principles framework provides the moral foundation for energy descent planning, ensuring that the transition serves both ecological and human needs.
 
 ## Permaculture Strategies for Descent
 
 One key strategy is encouraging household and local economic self-reliance. This rebuilds traditional forms of energy storage in food, fuel, and other resources.
 
-[[permaculture-disaster-resilience]] approach recognizes that building self-reliance reduces vulnerability to both gradual energy decline and sudden disruptions.
+permaculture-disaster-resilience approach recognizes that building self-reliance reduces vulnerability to both gradual energy decline and sudden disruptions.
 
 Energy descent planning also involves creative retrofitting of existing buildings and infrastructure rather than assuming new construction.
 
 ## The Built Environment in Descent
 
-The ways in which permaculturalists deliberately pursue catching and storing natural site energies extend to the development of energy-efficient buildings and appropriate technology.
+The ways in which permaculturalists deliberately pursue catching and storing natural site energies extend to the development of energy-efficient buildings and [[mollison-designers-appropriate-technology-small-scale-tools]].
 
 Design criteria for the built environment during energy descent include: modest scale, well-designed for long life, simple to maintain, multi-purpose, and easy to adapt to other uses.
 
@@ -47,9 +48,9 @@ Maintenance engineering has a bright future, but solutions will not be easy beca
 
 ## Energy Sources for Descent
 
-Important sources of energy currently poorly used but commonly available include: solar energy (drying, passive design, water heaters, photovoltaics), wind energy (pumping and power generation), biomass (sustainable forest management for fuel and materials), and runoff water (irrigation, aquaculture, power generation).
+Important sources of energy currently poorly used but commonly available include: [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] (drying, passive design, water heaters, photovoltaics), wind energy (pumping and power generation), biomass (sustainable [[mollison-pdc-forest-management-products]] for fuel and materials), and runoff water (irrigation, aquaculture, power generation).
 
-Wastes from agriculture, forestry, and industry, particularly organic matter, can be used for soil improvement, fuel, animal feed, and building materials.
+Wastes from agriculture, forestry, and industry, particularly [[hamilton-composting-and-organic-matter-management]], can be used for soil improvement, fuel, animal feed, and [[natural-building-materials-guide]].
 
 At Melliodora, Holmgren has made use of all five energy sources to establish and maintain the system. The particular mix is unique to the site and situation.
 
@@ -87,4 +88,9 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[appropriate-technology]]
+- [[david-holmgren]]
+- [[holmgren-energy-descent-planning]]
+- [[permaculture-energy-descent-planning]]
+- [[holmgren-energy-descent-permaculture-flower]]

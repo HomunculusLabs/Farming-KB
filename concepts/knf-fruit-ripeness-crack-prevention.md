@@ -14,7 +14,7 @@ type: concept
 
 ## Ripeness and Enhanced Sweetness Promotion
 
-One of the most valued outcomes of Natural Farming is the production
+One of the most valued outcomes of [[comparison-natural-farming-vs-permaculture]] is the production
 of sweet, flavorful fruits without chemical inputs. The source
 provides a specific treatment formula for promoting sweetness and
 maturity in fruits:
@@ -42,7 +42,7 @@ that exceeds the elasticity of the fruit skin, resulting in cracks.
 This pattern is particularly problematic in regions with distinct wet
 and dry seasons, where extended drought periods are followed by heavy
 rainfall. The cracking not only reduces marketability but also
-creates entry points for fungal and bacterial infections that can
+creates entry points for fungal and [[cannabis-for-bacterial-infections-and-mrsa]] that can
 destroy the fruit.
 
 ## Crack Prevention Treatment
@@ -54,7 +54,7 @@ eventually arrives:
 Inputs mixed at specified dilutions:
 - OHN: 1 ml
 - BRV (brown rice vinegar): 2 ml
-- FPJ (fermented plant juice): 2 ml
+- FPJ ([[bionutrients-lab-fermented-plant-juice-fpj]]): 2 ml
 - LAB (lactic acid bacteria): 1 ml
 - SW (seawater): 30 ml
 
@@ -97,7 +97,7 @@ The source emphasizes precise timing for fruit treatments:
   evening or late afternoon to avoid UV damage to microorganisms
   and ensure maximum absorption.
 - The basic dilution ratio across all treatments is 1:1000, ensuring
-  consistent and safe application rates.
+  consistent and safe [[ingham-compost-tea-application-rates-and-timing]].
 
 ## Key Principles
 
@@ -105,6 +105,6 @@ The source emphasizes precise timing for fruit treatments:
 
 - [[knf-input-application-timing]] — detailed timing guidance for all NF inputs
 - [[knf-water-soluble-calcium]] — WCA preparation for fruit firmness
-- [[knf-fermented-seawater-preparation]] — fermented seawater preparation methods
-- [[knf-vegetative-growth-stage]] — vegetative stage input schedules
+- [[knf-fermented-seawater-preparation]] — [[knf-fermented-seawater-preparation]] preparation methods
+- [[knf-vegetative-growth-stage]] — [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] input schedules
 - [[knf-soap-water-and-hot-pepper]] — additional pest control inputs

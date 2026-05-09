@@ -22,11 +22,11 @@ type: concept
 
 ## Overview
 
-One of the most consistent and significant findings in Cannabis microbiome research is the dramatic reduction of Acidobacteria as microbial communities transition from bulk soil through the rhizosphere and into the endorhiza. This pattern supports the two-tier selection model of root colonization and has been observed across multiple plant systems, though the Cannabis microbiome study by Winston et al. (2014) provided particularly strong quantitative evidence through both controlled experiments and comprehensive sequencing analysis.
+One of the most consistent and significant findings in [[cultivar-cannabis-microbiome-two-tier-selection-model]] research is the dramatic reduction of Acidobacteria as microbial communities transition from bulk soil through the rhizosphere and into the endorhiza. This pattern supports the two-tier [[two-tier-selection-model-plant-microbiome]] of root colonization and has been observed across multiple plant systems, though the Cannabis microbiome study by Winston et al. (2014) provided particularly strong quantitative evidence through both controlled experiments and comprehensive sequencing analysis.
 
 ## The Acidobacteria Phylum
 
-Acidobacteria is a widespread and abundant bacterial phylum in soils worldwide. They are typically oligotrophic, meaning they thrive in low-nutrient environments where competition from fast-growing organisms is reduced. In most soils, Acidobacteria represent one of the most dominant phyla, often comprising 20-30% or more of the total bacterial community in bulk soil samples.
+Acidobacteria is a widespread and abundant bacterial phylum in soils worldwide. They are typically oligotrophic, meaning they thrive in low-nutrient environments where competition from fast-growing organisms is reduced. In most soils, Acidobacteria represent one of the most dominant phyla, often comprising 20-30% or more of the total [[core-endorhiza-bacterial-community-composition-cannabis]] in bulk soil samples.
 
 Their ecological strategy favors nutrient-poor, stable environments where they can slowly metabolize complex organic matter such as decomposing plant material and humic substances. This makes bulk soil an ideal habitat, where carbon and nitrogen availability is relatively low and conditions change slowly over time. Acidobacteria are particularly adapted to acidic soils, which explains their name, though they are found across a wide range of soil pH values.
 
@@ -34,7 +34,7 @@ Their ecological strategy favors nutrient-poor, stable environments where they c
 
 ### Bulk Soil
 
-In bulk soil samples from the Cannabis microbiome studies, Acidobacteria were abundant and diverse. The order iii1-15 was particularly prevalent across all soil types tested. These organisms represent the baseline soil community, shaped primarily by edaphic factors including pH, nitrogen content, carbon levels, salinity, and water content.
+In bulk soil samples from the Cannabis microbiome studies, Acidobacteria were abundant and diverse. The order iii1-15 was particularly prevalent across all soil types tested. These organisms represent the baseline soil community, shaped primarily by [[soil-edaphic-factors-microbial-communities]] including pH, nitrogen content, carbon levels, salinity, and water content.
 
 In the BEST analysis of the second experiment, the variance in community data was optimally explained by three edaphic factors: nitrogen, carbon, and water content (rho = 0.632). These same factors that structure the overall soil community also maintain the high relative abundance of Acidobacteria in bulk soil.
 
@@ -52,7 +52,7 @@ The correlation between rhizosphere and endorhiza communities dropped substantia
 
 ## Proteobacteria Replace Acidobacteria
 
-As Acidobacteria decline, Proteobacteria increase in relative abundance. The 17 OTUs that increased within the Cannabis endorhiza relative to the rhizosphere were predominantly Proteobacteria, including several from the Rhizobiales order. Significant OTU abundance differences between strains were also composed mostly of Proteobacteria, notably from Pseudomonadales, Burkholderiales, Sphingomonadales, and Rhizobiales.
+As Acidobacteria decline, Proteobacteria increase in relative abundance. The 17 OTUs that increased within the [[edaphic-factors-cannabis-endorhiza-microbiome-assembly]] relative to the rhizosphere were predominantly Proteobacteria, including several from the Rhizobiales order. Significant OTU abundance differences between strains were also composed mostly of Proteobacteria, notably from Pseudomonadales, Burkholderiales, Sphingomonadales, and Rhizobiales.
 
 Other groups that increased included Actinobacteria and members of the Bacteroidetes phylum, particularly Sphingobacteriales and Flavobacteriales. This shift from oligotrophic to copiotrophic strategies reflects the fundamentally different nutritional environment inside plant roots compared to bulk soil.
 
@@ -112,7 +112,7 @@ The finding that nitrogen is the strongest structuring factor is ecologically si
 
 The Acidobacteria decline from bulk soil to endorhiza is not unique to Cannabis. Similar patterns have been observed in Populus deltoides (poplar), Arabidopsis thaliana, and potato. The Bulgarelli et al. (2012) study on Arabidopsis root microbiota also supported the two-tier selection model, finding that soil type was the primary determinant of rhizosphere composition while host genotype shaped the endosphere.
 
-What makes the Cannabis study particularly informative is the inclusion of multiple cultivars across different soil types, allowing the relative contributions of edaphic factors and host genotype to be disentangled. The finding that soil type had the strongest overall effect (690 significant OTUs by weighted analysis) but that cultivar effects were restricted to endorhiza abundance patterns (71 significant OTUs) provides a nuanced picture of how Acidobacteria and other taxa are filtered through the two-tier selection process.
+What makes the Cannabis study particularly informative is the inclusion of multiple cultivars across different soil types, allowing the relative contributions of edaphic factors and host genotype to be disentangled. The finding that soil type had the strongest overall effect (690 significant OTUs by weighted analysis) but that [[cannabis-cultivar-effects-soil-microbiome]] were restricted to endorhiza abundance patterns (71 significant OTUs) provides a nuanced picture of how Acidobacteria and other taxa are filtered through the two-tier selection process.
 
 ## See Also
 

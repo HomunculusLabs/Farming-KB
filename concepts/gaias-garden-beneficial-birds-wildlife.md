@@ -1,5 +1,5 @@
 ---
-title: Beneficial Birds and Wildlife in the Garden
+title: gaias garden beneficial birds wildlife and Wildlife in the Garden
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -35,10 +35,10 @@ Food and water offer little enticement for birds unless accompanied by shelter f
 To attract and nurture numerous birds from many species, a yard should furnish many food sources that stretch yields over the whole year, diverse places for shelter and protection, and plenty of private spots at varying heights for nest sites. Seven overlapping plant categories provide year-round support:
 
 - **Evergreens**: Pine, fir, cedar, spruce, yew, hemlock, juniper, holly, arbutus, bayberry -- winter shelter, summer nesting, escape cover, some provide buds, seeds, and sap
-- **Grasses and forbs**: Tall grasses, annual and perennial flowers, herbs -- cover for ground feeders, seeds, nectar, insect hosts
-- **Nectar plants**: Red tubular flowers (Penstemon, trumpet vine, columbine) for hummingbirds; larger nectar producers (maple, Elaeagnus, honeysuckle, black locust) for orioles
+- **Grasses and forbs**: Tall grasses, annual and [[hamilton-perennial-flowers-organic]], herbs -- cover for ground feeders, seeds, nectar, insect hosts
+- **Nectar plants**: Red tubular flowers (Penstemon, trumpet vine, columbine) for hummingbirds; larger nectar producers (maple, Elaeagnus, honeysuckle, [[comparison-black-locust-vs-honey-locust]]) for orioles
 - **Summer-fruiting plants**: Blackberry, blueberry, cherry, chokecherry, honeysuckle, raspberry, serviceberry, mulberry, elderberry -- mainstays from May through August
-- **Fall-fruiting plants**: Dogwood, mountain ash, snowberry, sea buckthorn, buffaloberry, cotoneaster -- for migrating birds building fat reserves and nonmigratory birds surviving winter
+- **Fall-fruiting plants**: Dogwood, mountain ash, snowberry, [[comparison-sea-buckthorn-vs-aronia]], buffaloberry, cotoneaster -- for migrating birds building fat reserves and nonmigratory birds surviving winter
 - **Winter-fruiting plants**: Black chokecherry, snowberry, sumac, highbush cranberry, crabapple, barberry, hawthorn, Virginia creeper, hardy kiwi, medlar -- fruits that cling into winter
 - **Nut and acorn plants**: Oaks, hickories, butternuts, walnuts, buckeyes, chestnuts, pinyon pine, hazels -- food and nesting habitat
 
@@ -48,7 +48,7 @@ The edge between two habitat types -- such as lawn and shrub border, or shrub an
 
 ## Wildlife and the Ecological Garden
 
-Gardens for wildlife are immensely valuable, but they are only a partial answer to habitat loss. As [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]] and the other tools described in Gaia's Garden, help our developed land to blossom into nourishing places for both humans and wildlife. This integrated approach -- providing for people and wildlife simultaneously through [[gaias-garden-backyard-wetland-design]] may not fit every property, even a small pond dramatically increases wildlife habitat. A pond provides drinking water for birds and mammals, breeding habitat for frogs and dragonflies, and a focal point for garden design. The gaias garden edge effect around a pond is especially productive -- the transition from water to land creates multiple microhabitats in a small area.
+Gardens for wildlife are immensely valuable, but they are only a partial answer to habitat loss. As [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]] and the other tools described in Gaia's Garden, help our developed land to blossom into nourishing places for both humans and wildlife. This integrated approach -- providing for people and wildlife simultaneously through gaias-garden-backyard-wetland-design may not fit every property, even a small pond dramatically increases wildlife habitat. A pond provides drinking water for birds and mammals, breeding habitat for frogs and dragonflies, and a focal point for [[comparison-mandala-garden-design-vs-keyhole-garden-design]]. The gaias garden edge effect around a pond is especially productive -- the transition from water to land creates multiple microhabitats in a small area.
 
 Key design elements for a wildlife pond:
 
@@ -66,14 +66,14 @@ Beyond birds, other animals contribute to the ecological garden:
 - **Frogs and toads** are voracious insect predators, consuming slugs, beetles, and caterpillars. A small pond or damp area provides essential breeding habitat.
 - **Bats** consume enormous quantities of mosquitoes and night-flying insects. A bat house mounted on a tree or building can attract a colony.
 - **Snakes** (non-venomous species) control rodent populations and are harmless to humans. Rock piles and brush piles provide hibernation habitat.
-- **[[gaias-garden-duck-integration]] provide pest control, soil fertility, and food production when integrated into the garden system.
+- **gaias-garden-duck-integration provide [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], soil fertility, and food production when integrated into the garden system.
 
 ## Related Concepts
 
 - [[pollinator-gardening]] for supporting pollinators specifically
-- [[gaias-garden-duck-integration]] for waterfowl benefits including pest control
+- gaias-garden-duck-integration for waterfowl benefits including pest control
 - gaias garden edge effect for maximizing habitat diversity
-- [[gaias-garden-berry-bushes-guide]] for dual-purpose wildlife food and human food plants
+- gaias-garden-berry-bushes-guide for dual-purpose wildlife food and human food plants
 - Bird-friendly plants for specific species recommendations
 ## Practical Considerations
 
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

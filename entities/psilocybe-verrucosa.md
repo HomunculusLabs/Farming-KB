@@ -10,11 +10,11 @@ sources: [/Users/t3erpz/wiki/raw/papers/cultivation-of-panaeolus-cyanescens-and-
 
 # Psilocybe verrucosa
 
-**Psilocybe verrucosa** is a psilocybin mushroom in the family Hymenogastraceae, described from subtropical forests of Mexico. The species epithet *verrucosa* (warty) refers to the distinctive roughened or warty ornamentation of the pileus surface, a character that helps distinguish it from other members of Psilocybe section Mexicanae with which it shares its habitat and general morphology.
+**Psilocybe verrucosa** is a [[emcdda-psilocybin-mushroom-dose-and-effects]] in the family Hymenogastraceae, described from subtropical forests of Mexico. The species epithet *verrucosa* (warty) refers to the distinctive roughened or warty ornamentation of the pileus surface, a character that helps distinguish it from other members of [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]] Mexicanae with which it shares its habitat and general morphology.
 
 ## Taxonomy
 
-psilocybe verrucosa was described by mycologists working with the Mexican psilocybin flora, with the species placed in Psilocybe section Mexicanae based on its microscopic features, habitat preferences, and molecular phylogenetic placement. The section is characterized by small to medium-sized mushrooms that fruit on dung or enriched soils in tropical and subtropical regions. Within the section, psilocybe verrucosa is distinguished by the unusual verrucose (warty) texture of the cap surface, a trait uncommon among otherwise smooth-capped Mexican Psilocybe species. Molecular phylogenetic analyses have confirmed its placement as a distinct lineage within section Mexicanae, most closely related to [[psilocybin]] and [[psilocybe-mexicana]]. Baeocystin and norbaeocystin have been detected in minor amounts. The moderate bluing reaction in fresh specimens is consistent with the measured alkaloid concentrations, suggesting significant but not exceptional levels of [[psilocybe-caerulescens]] and [[psilocybe-mexicana]], including pasteurized straw, composted dung, or enriched grain substrates. The species may also have sclerotia-producing potential, as this trait is shared by many section Mexicanae members. However, the relative rarity of the species in nature, combined with the availability of more easily cultivated and more potent alternatives, has limited interest in developing dedicated cultivation techniques for this taxon.
+psilocybe verrucosa was described by mycologists working with the Mexican psilocybin flora, with the species placed in Psilocybe section Mexicanae based on its microscopic features, habitat preferences, and molecular phylogenetic placement. The section is characterized by small to medium-sized mushrooms that fruit on dung or enriched soils in tropical and subtropical regions. Within the section, psilocybe verrucosa is distinguished by the unusual verrucose (warty) texture of the cap surface, a trait uncommon among otherwise smooth-capped Mexican Psilocybe species. Molecular phylogenetic analyses have confirmed its placement as a distinct lineage within section Mexicanae, most closely related to [[psilocybin]] and [[psilocybe-mexicana]]. Baeocystin and norbaeocystin have been detected in minor amounts. The moderate [[field-guide-psilocybin-bluing-reaction-identification]] in fresh specimens is consistent with the measured alkaloid concentrations, suggesting significant but not exceptional levels of [[psilocybe-caerulescens]] and [[psilocybe-mexicana]], including pasteurized straw, composted dung, or enriched grain substrates. The species may also have sclerotia-producing potential, as this trait is shared by many section Mexicanae members. However, the relative rarity of the species in nature, combined with the availability of more easily cultivated and more potent alternatives, has limited interest in developing dedicated cultivation techniques for this taxon.
 
 ## Molecular Phylogeny
 
@@ -32,11 +32,11 @@ The distinctive verrucose (warty) cap surface is the most reliable field charact
 The warty texture is most pronounced in fresh, moist specimens and may become less conspicuous as the cap dries. In older specimens, the warts can wear down or become obscured by debris, making identification more challenging. The slow and pale bluing reaction means that patience is required when assessing this character — the blue coloration may take several minutes to develop and is never as intense as in strongly bluing species like [[psilocybe-mexicana]]:
 - **Substrate**: Pasteurized horse or cow manure, composted dung/straw mixtures, or enriched grain spawn
 - **Temperature**: Fruiting likely occurs at 20–28°C, consistent with its subtropical habitat
-- **Humidity**: High relative humidity (90–95%) required for primordia formation and fruiting body development
+- **Humidity**: High relative humidity (90–95%) required for [[growing-gourmet-primordia-formation-pinning]] and fruiting body development
 - **Light**: Ambient indirect light sufficient for normal fruiting
 - **Sclerotia**: The species may produce sclerotia on grain substrates after extended colonization (8–12 weeks), a trait shared by many section Mexicanae members
 
-The species' preference for dung substrates in nature suggests that composted or pasteurized manure would be the most effective fruiting substrate, though sterile cultivation on supplemented grain followed by casing with dung-enriched soil may also be productive.
+The species' preference for dung substrates in nature suggests that composted or pasteurized manure would be the most effective [[pf-tek-maximum-fruiting-substrate-formula]], though sterile cultivation on supplemented grain followed by casing with dung-enriched soil may also be productive.
 ## See Also
 
 - [[psilocybe-caerulescens]] — larger, more potent species of southern Mexico
@@ -60,7 +60,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +102,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

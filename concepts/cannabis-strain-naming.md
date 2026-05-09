@@ -1,5 +1,5 @@
 ---
-title: Cannabis Strain Naming
+title: blesching-cannabis-strain-selection-receptor-targeting Naming
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -30,7 +30,7 @@ characteristics.
 Very often, commercially sold seeds are nothing more than hybrids of
 hybrids with names, and there are no defining characteristics of the
 so-called "strain." Cervantes suggests that "family" or "group" may be
-more appropriate terms for most commercially available cannabis seeds.
+more appropriate terms for most commercially available [[query-how-to-store-cannabis-seeds-for-long-term-viability]].
 
 ## Variety and Cultivar
 
@@ -80,7 +80,7 @@ several examples of naming patterns:
 ### Sequential Numbering
 
 Some breeders use sequential numbering to denote selection generations
-or specific phenotypes within a breeding program, such as 'Northern
+or specific phenotypes within a [[cervantes-breeding-program-design-goal-setting]], such as 'Northern
 Lights #5' indicating the fifth selected individual or generation.
 
 ### Geographic References
@@ -115,7 +115,7 @@ Several issues plague cannabis strain naming:
 Cervantes documents the evolution of seed company marketing from early
 catalogs like the 1987 Seed Bank catalogue to the modern era of
 hundreds of companies. Early catalogs showed actual plant photos and
-strain descriptions, while modern companies often rely on creative
+[[cannabis-african-indian-strain-descriptions-clarke]], while modern companies often rely on creative
 names and marketing claims. The explosive growth of seed breeders and
 legal seed sales in the Netherlands, UK, Canada, France, Switzerland,
 and Spain has given rise to more named strains than ever before.
@@ -124,8 +124,8 @@ and Spain has given rise to more named strains than ever before.
 
 Breeders and growers should focus on documented parentage, described
 characteristics, and proven performance rather than relying on strain
-names alone. True breeding programs should maintain detailed records
-of crosses, selection criteria, and generation numbers to ensure
+names alone. [[cannabis-true-breeding-ibl-strains]] programs should maintain detailed records
+of crosses, [[cannabis-breeding-traits-selection-criteria-clarke]], and generation numbers to ensure
 genetic integrity regardless of the name attached.
 ## See Also
 

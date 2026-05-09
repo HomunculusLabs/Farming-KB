@@ -16,7 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Leafly Staff (2023). "Tropicana Cherries Strain Information." Leafly.com.
-  - AllBud (2023). "Tropicana Cherries Cannabis Strain." AllBud.com.
+  - AllBud (2023). "Tropicana Cherries [[blesching-cannabis-strain-selection-receptor-targeting]]." AllBud.com.
   - Weedmaps Staff (2023). "Tropicana Cherries: Strain Review." Weedmaps.com.
 aliases:
   - Tropicana Cherry
@@ -38,17 +38,17 @@ With THC content typically ranging from 18–24%, Tropicana Cherries delivers a 
 - **Parent 1:** Tropicana Cookies (Girl Scout Cookies × Tangie)
 - **Parent 2:** Cherry Cookies (Girl Scout Cookies × Granddaddy Purple)
 
-The double Girl Scout Cookies lineage contributes dense bud structure and resin production. Tangie provides the dominant citrus terpene profile, while Granddaddy Purple contributes coloration potential and berry undertones.
+The double Girl Scout Cookies lineage contributes dense bud structure and [[cannabis-glandular-trichome-types-resin-production-clarke]]. Tangie provides the dominant citrus terpene profile, while Granddaddy Purple contributes coloration potential and berry undertones.
 
 The genetic ratio is approximately 50% indica / 50% sativa, though phenotypic expression varies depending on growing conditions.
 
 ## Appearance
 
-Buds are medium to large in size, with a dense, tightly packed structure characteristic of Cookies-family genetics. Colors range from deep forest green to vivid purple, with occasional black tones.
+Buds are medium to large in size, with a dense, tightly packed structure characteristic of Cookies-family genetics. Colors range from deep [[trichoderma-forest-green-mold-guide]] to vivid purple, with occasional black tones.
 
 Orange pistils are abundant and tightly coiled throughout the flowers. A heavy layer of milky-white trichomes with occasional amber caps gives the buds a frosted, crystalline appearance.
 
-The purple coloration intensifies with cooler nighttime temperatures during the late flowering stage.
+The purple coloration intensifies with cooler nighttime temperatures during the late [[cannabis-flowering-stage-management]].
 
 ## Aroma and Flavor
 
@@ -78,7 +78,7 @@ Onset is relatively quick, beginning with a cerebral rush characterized by eupho
 
 As the high progresses, a gentle body relaxation emerges without heavy sedation, making it suitable for daytime or early evening use. The balanced nature of the effects reflects its 50/50 genetic profile.
 
-Common applications include stress relief, mild pain management, and social enhancement. Higher doses may produce more pronounced physical relaxation.
+Common applications include stress relief, mild [[cannabis-pain-management-protocols]], and social enhancement. Higher doses may produce more pronounced physical relaxation.
 
 ## Cultivation
 
@@ -86,7 +86,7 @@ Tropicana Cherries has a flowering time of 8–10 weeks when grown indoors. Outd
 
 Indoor yields average 300–400 g/m² under optimal conditions. The strain responds well to topping, low-stress training, and trellising to manage lateral branching.
 
-It is considered moderately difficult to cultivate, requiring attention to humidity levels to prevent bud rot in dense colas. Cool nighttime temperatures (below 15°C) during weeks 6–8 of flowering enhance purple coloration.
+It is considered moderately difficult to cultivate, requiring attention to humidity levels to prevent [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]] in dense colas. Cool nighttime temperatures (below 15°C) during weeks 6–8 of flowering enhance purple coloration.
 
 The strain is available as regular and feminized seeds from select breeders.
 
@@ -107,7 +107,7 @@ Some breeders have used Tropicana Cherries as a parent in further crosses, combi
 ## See Also
 
 - [[zkittlez]]
-- [[gelato-cannabis]]
+- [[gelato]]
 - [[lemon-haze]]
 - [[granddaddy-purple]]
 - orange

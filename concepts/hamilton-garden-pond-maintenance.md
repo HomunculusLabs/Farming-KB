@@ -1,5 +1,5 @@
 ---
-title: Garden Pond Maintenance Throughout the Year
+title: fukuoka-heart-shaped-garden-pond-technique Maintenance Throughout the Year
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 updated: 2026-04-18
 
-The organic garden will be more attractive to wildlife if it contains a pond, because it provides drinking water for birds and small mammals, and a home for many aquatic animals. Some, like frogs and toads, should be encouraged because they eat large quantities of slugs and snails. A pond will also enable you to grow a much wider range of plants in your garden.
+The organic garden will be more attractive to wildlife if it contains a pond, because it provides drinking water for birds and small mammals, and a home for many [[fungi-aquatic-animals-pathogens-parasites]]. Some, like frogs and toads, should be encouraged because they eat large quantities of [[query-how-to-get-rid-of-slugs-and-snails-organically]]. A pond will also enable you to grow a much wider range of plants in your garden.
 
 ## Siting the Pond
 
@@ -44,7 +44,7 @@ Line the hole with a thick layer of soft material (old carpet, sand, or newspape
 
 ### Planting Containers
 
-Use heavy garden soil or rotted turf for aquatic plants. Do not use soil rich in organic matter -- it will putrefy as it rots down. A thin layer of gravel on top of the soil prevents it from floating to the surface and stops curious fish from disturbing it.
+Use heavy garden soil or rotted turf for aquatic plants. Do not use soil rich in [[hamilton-composting-and-organic-matter-management]] -- it will putrefy as it rots down. A thin layer of gravel on top of the soil prevents it from floating to the surface and stops curious fish from disturbing it.
 
 ## Aquatic Plant Groups
 
@@ -58,7 +58,7 @@ Float freely on the surface, further reducing light for algae. Water hyacinth (E
 Not decorative but essential for pond health. They aerate the water and absorb dissolved minerals. Spiked water milfoil (Myriophyllum spicatum), Canadian pondweed (Elodea canadensis), and curly pondweed (Potamogeton crispus). Plant one bunch per 2 square yards/meters in spring. Simply throw the weighted bunches into the pond.
 
 ### Marginal Plants
-Grow in shallow water or boggy soil around the edges. Sweet-scented rush (Acorus calamus), flowering rush (Butomus umbellatus), bog arum (Calla palustris), marsh marigold (Caltha palustris), iris, arrowhead (Saggitaria japonica), water forget-me-not (Myosotis palustris), and primula (Primula sp.).
+Grow in shallow water or boggy soil around the edges. Sweet-scented rush ([[sweet-flag-acorus-calamus-ethnobotany]]), flowering rush (Butomus umbellatus), bog arum (Calla palustris), marsh marigold (Caltha palustris), iris, arrowhead (Saggitaria japonica), water forget-me-not (Myosotis palustris), and primula (Primula sp.).
 
 ## Maintenance Through the Year
 
@@ -84,7 +84,10 @@ If you keep ornamental fish, include a very shallow area (no more than 2 inches/
 
 ## Related Concepts
 
-- [[pdc-aquaculture-basics]]
-- [[faires-pond-design-and-aquaculture]]
+- pdc-aquaculture-basics
+- faires-pond-design-and-aquaculture
 - [[gaias-garden-cover-crops-soil-building]]
 - [[hamilton-shade-garden-plants]]
+- [[eichhornia-crassipes]]
+- [[myriophyllum-spicatum]]
+- [[potamogeton-crispus]]

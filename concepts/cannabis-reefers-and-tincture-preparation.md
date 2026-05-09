@@ -1,11 +1,11 @@
 ---
-title: Cannabis Reefers and Tincture Preparation
+title: Cannabis cannabis reefers and tincture preparation Preparation
 created: 2026-04-14
 updated: 2026-04-27
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 # Cannabis Reefers and Tincture Preparation
 
@@ -14,7 +14,7 @@ A "reefer" is a marijuana cigarette that has been impregnated with cannabis extr
 ## Methods of Preparation
 
 ### Method 1: Working Oil Into Material
-Work the cannabis oil directly into the marijuana or tobacco to be rolled. This is the simplest method and distributes the extract throughout the material.
+Work the [[cervantes-hash-cannabis-oil-production]] directly into the marijuana or tobacco to be rolled. This is the simplest method and distributes the extract throughout the material.
 
 ### Method 2: Painting the Paper
 Paint the rolling paper with cannabis oil before rolling. This concentrates the extract on the outside of the joint, creating an intense initial experience.
@@ -27,7 +27,7 @@ Inject the rolled joint with cannabis tincture using a syringe and let it dry. T
 
 ## Historical Background of Cannabis Tinctures
 
-Cannabis tinctures have a long pharmacological history stretching back to the 19th century. Before prohibition, cannabis tinctures were a standard item in Western pharmacopeias. The Irish physician William O'Shaughnessy introduced cannabis to Western medicine in the 1830s after observing its use in India. By the 1850s, cannabis tinctures were widely prescribed for conditions including pain, muscle spasms, and insomnia. The U.S. Pharmacopeia listed cannabis tinctures from 1851 until 1942, when they were removed during the early years of prohibition.
+Cannabis tinctures have a long pharmacological history stretching back to the 19th century. Before prohibition, cannabis tinctures were a standard item in Western pharmacopeias. The Irish physician William O'Shaughnessy introduced cannabis to [[fukuoka-eastern-western-medicine-healing-world-crisis]] in the 1830s after observing its use in India. By the 1850s, cannabis tinctures were widely prescribed for conditions including pain, muscle spasms, and insomnia. The U.S. Pharmacopeia listed cannabis tinctures from 1851 until 1942, when they were removed during the early years of prohibition.
 
 Early pharmaceutical tinctures were typically prepared using high-proof ethanol as a solvent, extracting both the lipophilic cannabinoids and some of the water-soluble compounds. The standard pharmaceutical preparation used approximately 10 grams of cannabis tops per 100 mL of alcohol, though formulations varied between manufacturers.
 
@@ -55,7 +55,7 @@ The "Green Dragon" is a colloquial term for cannabis tincture. Several preparati
 The choice of solvent significantly affects the final tincture's properties:
 
 - **Ethanol extraction:** The most efficient and traditional solvent. Ethanol dissolves a broad range of cannabinoids, terpenes, and other cannabis compounds. High-proof grain alcohol (190 proof / 95% ABV) is preferred because water-soluble impurities like chlorophyll are less soluble in pure ethanol. Ethanol tinctures are potent, fast-acting, and shelf-stable for years. The primary drawback is the alcohol content, which some users find unpleasant for sublingual administration. The alcohol can be evaporated partially after extraction to concentrate the tincture.
-- **Glycerin extraction:** Vegetable glycerin produces a sweet-tasting, alcohol-free tincture that is easier on the tongue for sublingual use. However, glycerin is a much less efficient solvent — it extracts approximately 30-50% of the cannabinoids that ethanol would recover from the same material. Glycerin tinctures also have a shorter shelf life (6-12 months compared to years for ethanol). The extraction process is slower and often requires gentle heat (60-70°C) to improve solvent penetration. Glycerin tinctures are preferred for medicinal users who cannot consume alcohol, pediatric patients, and those who find ethanol too harsh.
+- **Glycerin extraction:** Vegetable glycerin produces a sweet-tasting, alcohol-free tincture that is easier on the tongue for sublingual use. However, glycerin is a much less efficient solvent — it extracts approximately 30-50% of the cannabinoids that ethanol would recover from the same material. Glycerin tinctures also have a shorter [[psilocybin-shelf-life-stability]] (6-12 months compared to years for ethanol). The extraction process is slower and often requires gentle heat (60-70°C) to improve solvent penetration. Glycerin tinctures are preferred for medicinal users who cannot consume alcohol, pediatric patients, and those who find ethanol too harsh.
 - **MCT oil extraction:** Medium-chain triglyceride coconut oil is increasingly popular as a tincture base. MCT oil efficiently dissolves cannabinoids and terpenes, has a neutral taste, and is shelf-stable. It does not extract water-soluble compounds, producing a cleaner product. MCT oil is well-absorbed sublingually and can also be used for [[cannabis-for-inflammatory-conditions]], arthritis, and neuropathic pain.
 
 ## Modern Applications
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

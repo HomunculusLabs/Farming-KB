@@ -28,7 +28,7 @@ climates. The guild is designed around the apple (Malus domestica) as the
 canopy species, with supporting species arranged in vertical layers below:
 - **Canopy**: Apple (scion on dwarfing or semi-dwarfing rootstock)
 - **Understorey tree**: Comfrey as a dedicated accumulator beneath the drip
-  line. See [[mollison-component-analysis-the-chicken-as-design-model]], reveals the multiple yields and needs of each guild member:
+  line. See mollison-component-analysis-the-chicken-as-design-model, reveals the multiple yields and needs of each guild member:
 ### Nutrient Accumulators
 Deep-rooted plants mine minerals from subsoil and bring them to the surface
 through leaf fall. Comfrey (potassium, calcium, silica), chicory (phosphorus,
@@ -50,15 +50,15 @@ available forms. In the apple guild, these include:
 Species that attract predatory insects or mask the scent of the host tree
 from pests:
 - **Yarrow (Achillea millefolium)**: Attracts ladybirds, parasitic wasps,
-  and lacewings. Deep-rooted accumulator. Medicinal herb.
+  and lacewings. Deep-rooted accumulator. [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]].
 - **Chives and garlic (Allium spp.)**: Repel apple blossom weevil and codling
-  moth through sulphur compounds in their root exudates and foliage.
+  moth through sulphur compounds in their [[mycorrhizal-root-exudates-pathogen-interactions]] and foliage.
 - **Nasturtium (Tropaeolum majus)**: Acts as a trap crop for aphids; attracts
   predatory insects. Edible flowers and leaves.
 - **Dill and fennel**: Attract parasitic wasps that control codling moth and
   other apple pests. Their umbel flowers are among the best insectary plants.
 - **Tansy (Tanacetum vulgare)**: Repels codling moth and apple maggot; attracts
-  beneficial insects. Use with caution as it can become invasive.
+  [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. Use with caution as it can become invasive.
 ### Mulch Producers
 Species that generate abundant biomass for surface mulching:
 - **Comfrey**: Cut 4-6 times per season, yielding 2-5 kg of fresh material
@@ -68,21 +68,27 @@ Species that generate abundant biomass for surface mulching:
 - **Rhubarb**: Large leaves provide summer mulch; edible stalks; shade-
   tolerant understorey crop.
 ## Guild Assembly for Other Cool-Climate Fruits
-Mollison extends guild design principles beyond apples to other temperate
+Mollison extends guild [[holmgren-permaculture-twelve-design-principles-framework]] beyond apples to other temperate
 fruit species, modifying the supporting cast to suit each central element:
 ### Pear Guild (Pyrus communis)
 Similar to the apple guild but with adjustments: pears are more tolerant of
 poor drainage and heavier soils. Replace some understorey with medlar
 (Mespilus germanica) or quince (Cydonia oblonga). Pear is more susceptible
 to fire blight, so include comfrey and yarrow for their reported antiseptic
-properties. [[mollison-berry-production-cool-climates]].
+properties. mollison-berry-production-cool-climates.
 - **Comfrey and chicory**: Deep-rooted accumulators for the nutrient-demanding
   cherry tree.
-- **Clover ground cover**: Nitrogen fixation; cherry roots are relatively
+- **Clover ground cover**: [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]; cherry roots are relatively
   shallow and benefit from surface nitrogen availability.
 - **Nettles (Urtica dioica)**: Planted at the guild edge as a liquid manure
   source and host plant for butterfly larvae. High iron and nitrogen content.
 ## Spatial Arrangement and Time Sequencing
 Mollison emphasises that guilds are three-dimensional and temporal designs,
-not flat companion planting charts. The spatial arrangement follows principles
-from [[mollison-designers-guilds-in-nature]]
+not flat [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] charts. The spatial arrangement follows principles
+from mollison-designers-guilds-in-nature
+## See Also
+- [[mollison-designers-cool-humid-climate-design-overview]]
+- [[root-exudates]]
+- [[urtica-dioica]]
+- [[tropaeolum-majus]]
+- [[cydonia-oblonga]]

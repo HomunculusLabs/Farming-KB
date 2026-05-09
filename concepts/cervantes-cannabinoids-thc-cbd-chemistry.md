@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -49,7 +50,7 @@ tends to postpone the beginning of the high, but it can make the
 experience last twice as long. Whether CBD increases or decreases the
 force of the high is subjective and must be discerned by each smoker.
 
-Clinical trials have shown that CBD reduces the anxiety provoked by
+[[mushroom-cancer-clinical-trials-overview]] have shown that CBD reduces the anxiety provoked by
 THC, and CBD demonstrates antipsychotic effects. CBD is gaining
 recognition for its therapeutic potential in treating epilepsy, pain,
 inflammation, and anxiety disorders.
@@ -80,7 +81,7 @@ Cannabichromene (CBC) may make up to 20 percent of the cannabinoid
 profile in a plant. Little study has been done on this cannabinoid.
 Researchers believe it may interact with THC to make the high more
 intense. CBC is non-psychoactive on its own and may contribute to the
-entourage effect when combined with other cannabinoids.
+[[cannabis-terpene-entourage-effect-profiles]] when combined with other cannabinoids.
 
 ## The Endocannabinoid System
 
@@ -101,7 +102,7 @@ restore us to complete health.
 ## Cannabinoid Potency Factors
 
 The potency and cannabinoid profile of cannabis is influenced by
-genetics, growing conditions, harvest timing, and post-harvest
+genetics, growing conditions, [[cannabis-harvest-timing-visual-cues]], and post-harvest
 handling. See [[cervantes-strain-selection]] guide covers genetic factors affecting
 cannabinoid ratios. For information on how cannabinoids interact with
 terpenoids in the entourage effect, see [[cervantes-drying-buds-methods]] and [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] - resin glands that

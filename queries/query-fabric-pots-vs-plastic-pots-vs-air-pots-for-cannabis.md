@@ -5,6 +5,7 @@ tags: [query, cannabis, containers, growing-medium, root-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: query
 ---
@@ -22,7 +23,7 @@ offer the most aggressive air pruning with their sidewall perforations but are
 more
 expensive. The [[cervantes-root-pruning-rootbound-management]] page explains the 
 science
-behind air pruning and its measurable benefits for cannabis root development and
+behind air pruning and its measurable benefits for [[alpha-beta-diversity-cannabis-root-microbiomes]] development and
  nutrient
 uptake efficiency.
 
@@ -30,9 +31,9 @@ The enhanced oxygen exchange through fabric walls is particularly beneficial for
  soil and
 coco coir grows. Roots require oxygen for cellular respiration, and the constant
  airflow
-through fabric pots dramatically increases dissolved oxygen at the root zone 
+through fabric pots dramatically increases [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] at the root zone 
 compared to
-plastic. This improved aeration accelerates nutrient uptake and supports 
+plastic. This improved aeration accelerates [[plant-nutrient-uptake-mechanisms]] and supports 
 beneficial microbial
 activity in living soil systems. The [[perlite-cannabis]] pages
 explain how container breathability interacts with different growing media and 
@@ -59,7 +60,7 @@ rapid drying is a concern. However, cannabis roots in smooth plastic containers
 quickly
 reach the walls and begin circling, eventually becoming rootbound. A rootbound 
 plant shows
-symptoms including nutrient deficiency, stunted growth, and frequent wilting 
+symptoms including [[cannabis-grow-nutrient-deficiency-problem-solving]], stunted growth, and frequent wilting 
 despite
 adequate watering. The [[cervantes-container-gardening-pot-size]] page compares air pots with other 
 container
@@ -71,7 +72,7 @@ limit yield, while oversized containers waste medium and make moisture
 management difficult.
 A common guideline is approximately 2 gallons of container volume per month of 
 expected
-vegetative growth. For a standard 8-week vegetative phase, a 10 to 15 gallon 
+[[cannabis-vegetative-growth-stage]]. For a standard 8-week [[green-cannabis-grow-bible-vegetative-phase-management]], a 10 to 15 gallon 
 container is
 typical. The [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]
 pages explain staged up-potting strategies that start small and gradually 

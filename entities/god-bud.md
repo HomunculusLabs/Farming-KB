@@ -9,7 +9,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Green, J. (2017). "The Cannabis Grow Bible." Green Candy Press.
+  - Green, J. (2017). "The green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible." Green Candy Press.
   - Rosenthal, E. (2018). "Beyond Buds: Next Generation." Quick American Archives.
   - Leafly Staff (2024). "God Bud Strain Information." Leafly.com.
   - Cannabis Wikipedia contributors (2025). "List of cannabis strains." Wikipedia.
@@ -19,13 +19,13 @@ sources:
 
 **God Bud** is a potent indica-dominant cannabis strain renowned for its deeply relaxing effects and pungent, complex aroma. Originally bred in Canada during the late 1990s by **BC Bud Depot** in British Columbia, it has become one of the most iconic Canadian cannabis exports.
 
-The strain consistently produces high THC levels ranging from 18–25%, with some phenotypes reportedly reaching 27%. It is widely regarded as a heavy nighttime strain, favored for stress relief, pain management, and insomnia.
+The strain consistently produces high THC levels ranging from 18–25%, with some phenotypes reportedly reaching 27%. It is widely regarded as a heavy nighttime strain, favored for stress relief, [[cannabis-pain-management-protocols]], and insomnia.
 
 ## Lineage
 
 God Bud's exact genetic heritage varies between sources, but the most commonly cited parentage is a cross between **Purple Skunk** and **Hawaii**. Some accounts include additional genetic contributions from **Blueberry** or an unnamed Afghan indica.
 
-The Purple Skunk parent contributes dense bud structure, purple coloration potential, and a skunky aroma base. The Hawaiian parent adds tropical fruit notes, elevated resin production, and a cerebral uplift that balances the heavy body effects.
+The Purple Skunk parent contributes dense bud structure, purple coloration potential, and a skunky aroma base. The Hawaiian parent adds tropical fruit notes, elevated [[cannabis-glandular-trichome-types-resin-production-clarke]], and a cerebral uplift that balances the heavy body effects.
 
 BC Bud Depot selectively bred God Bud over multiple generations to stabilize its distinctive traits, including its massive resin production and deeply sedating finish.
 
@@ -68,7 +68,7 @@ The onset is relatively fast, beginning with a mild cerebral euphoria and a warm
 
 Users commonly report heavy body sedation, couch-lock, and an eventual pull toward sleep. The cerebral component is present but subdued — a gentle mood lift rather than intense psychoactivity.
 
-Medical patients frequently use God Bud for chronic pain, muscle spasms, insomnia, anxiety, and stress. The strain's sedative properties make it most suitable for evening or nighttime use.
+Medical patients frequently use God Bud for [[cannabis-chronic-pain-management]], muscle spasms, insomnia, anxiety, and stress. The strain's sedative properties make it most suitable for evening or nighttime use.
 
 Common side effects include dry mouth, dry eyes, and dizziness. In higher doses, paranoia and anxiety can occur, particularly in users sensitive to THC-heavy indicas.
 
@@ -83,7 +83,7 @@ God Bud is considered a moderately difficult strain to grow, requiring some expe
 
 The strain responds well to techniques like low-stress training and scrogging. It develops significant purple coloration when exposed to cooler nighttime temperatures during late flowering.
 
-Nutrient requirements are moderate, with slightly elevated phosphorus and potassium demands during flowering. God Bud is not particularly sensitive to nutrient burn but benefits from careful pH management in hydroponic setups.
+Nutrient requirements are moderate, with slightly elevated phosphorus and potassium demands during flowering. God Bud is not particularly sensitive to [[cannabis-nutrient-burn-and-toxicity]] but benefits from careful pH management in hydroponic setups.
 
 ## Notable Phenotypes
 
@@ -99,7 +99,7 @@ God Bud emerged from British Columbia's thriving underground cannabis scene in t
 
 The strain gained wider recognition in the early 2000s through online cannabis forums and seed bank distribution. It won the **High Times Cannabis Cup** in 2004, solidifying its reputation on the international stage.
 
-God Bud became one of the flagship strains representing Canadian cannabis genetics globally, alongside other BC classics. Its legacy persists in the modern legal market, where it remains available from licensed producers in Canada.
+God Bud became one of the flagship strains representing Canadian [[vic-high-cannabis-genetics-mendelian-inheritance]] globally, alongside other BC classics. Its legacy persists in the modern legal market, where it remains available from licensed producers in Canada.
 
 ## See Also
 

@@ -11,15 +11,15 @@ sources:
 
 Conventional farming cannot solve the problem of soil compaction. You might be frustrated by this fact, but nothing can be clearer: continuing conventional agriculture and bringing back life to soil are not compatible. This is the starting premise of [[jadam-microorganism-solution-jms]], and use tiller to break them down.
 
-Nature always grows vegetation which turn into organic fertilizer. It is always 100% self-sufficient. Nature makes it a rule to apply fertilizer: in autumn, on the surface, and in raw form. After autumn, winter and spring pass, compost will be fully prepared. Another merit of autumn application is that it can prevent larvae damage in spring because there is no food for them.
+Nature always grows vegetation which turn into [[complete-organic-fertilizer-cof-recipe-solomon]]. It is always 100% self-sufficient. [[coleman-first-rule-nature-makes-sense]] it a rule to apply fertilizer: in autumn, on the surface, and in raw form. After autumn, winter and spring pass, compost will be fully prepared. Another merit of autumn application is that it can prevent larvae damage in spring because there is no food for them.
 
-Some say compost has to reach 75°C (167°F) to kill harmful microbes and that beneficial microbes survive. This claim is not backed by science. All organic matter has decomposed at ambient temperature for billions of years. Is nature full of only harmful bacteria? Temperature claim is just another trap set up to scam farmers.
+Some say compost has to reach 75°C (167°F) to kill harmful microbes and that beneficial microbes survive. This claim is not backed by science. All [[hamilton-composting-and-organic-matter-management]] has decomposed at [[jadam-ambient-temperature-principle]] for billions of years. Is nature full of only harmful bacteria? Temperature claim is just another trap set up to scam farmers.
 
 ## The Soil Foundation Method
 
-The most important technology of JADAM is "soil foundation work" — applying [[jadam-liquid-fertilizer]] before the transplanting of crop plants and the sprouting or flowering of fruit trees on a regular basis through irrigation.
+The most important technology of JADAM is "soil foundation work" — applying [[jadam-liquid-fertilizer]] before the transplanting of crop plants and the sprouting or flowering of [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] on a regular basis through irrigation.
 
-Use a motored sprayer, sprinkler or drip irrigation to apply a mixture of:
+Use a motored sprayer, sprinkler or [[comparison-drip-irrigation-vs-passive-irrigation]] to apply a mixture of:
 - JMS (500 L per 1/4 acre to 8 acres)
 - Sea salt (500 g per 1/4 acre)
 - Phyllite solution (500 g per 1/4 acre)
@@ -112,4 +112,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

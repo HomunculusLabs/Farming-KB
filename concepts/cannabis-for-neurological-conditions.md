@@ -17,7 +17,7 @@ Neurology is one of the most promising areas for medical cannabis research. The 
 - Mechanism: CBD modulates GABA and glutamate signaling, reduces neuronal excitability
 - Does not produce psychoactive effects
 - Dosage: 10-25mg/kg/day CBD (pharmaceutical grade)
-- Whole-plant CBD extracts show additional benefits beyond isolated CBD (entourage effect)
+- Whole-plant CBD extracts show additional benefits beyond isolated CBD ([[cannabis-terpene-entourage-effect-profiles]])
 
 ### Multiple Sclerosis
 - **Evidence level: Strong** for spasticity (Sativex approved in many countries)
@@ -57,6 +57,8 @@ Neurology is one of the most promising areas for medical cannabis research. The 
 - THC:CBD combinations most studied
 
 ## Related
+
+- [[cannabis-and-neurological-conditions]]
 - [[cannabis-endocannabinoid-system]] — for mechanism
 - [[cannabis-cbd-therapeutic-profile]] — for CBD-specific applications
 - [[cannabis-for-chronic-pain]] — for neuropathic pain overlap
@@ -79,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

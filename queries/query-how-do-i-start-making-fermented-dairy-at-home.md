@@ -1,5 +1,5 @@
 ---
-title: How Do I Start Making Fermented Dairy at Home?
+title: How Do I Start Making query how do i start making fermented dairy at home at Home?
 created: 2026-04-28
 tags: [fermentation, dairy, getting-started, homesteading, yogurt, kefir, cultured-milk, beginners]
 date: 2026-04-28
@@ -111,7 +111,7 @@ Once you've mastered the basics, explore these directions:
 
 ### Kefir Progression
 - **Make kefir cheese:** Strain finished kefir through cheesecloth for 12–24 hours. Spread on toast or use as a sour cream substitute.
-- **Second fermentation:** After straining the grains, add fruit, fruit juice, or herbs to the kefir liquid. Seal loosely and leave at room temperature for another 6–12 hours for natural carbonation.
+- **Second fermentation:** After straining the grains, add fruit, [[bionutrients-lab-fermented-fruit-juice-ffj]], or herbs to the kefir liquid. Seal loosely and leave at room temperature for another 6–12 hours for natural carbonation.
 - **Share your grains:** Healthy kefir grains multiply by ~10–20% per batch. Within a month, you'll likely have enough to share.
 - **Freeze for backup:** Rinse grains, pat dry, roll in milk powder, and freeze in a sealed bag for up to 6 months as an emergency backup.
 

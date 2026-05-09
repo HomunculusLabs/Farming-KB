@@ -1,5 +1,5 @@
 ---
-title: "Sinicuichi (Heimia salicifolia): Auditory Hallucinogen of Mexico"
+title: "Sinicuichi (sinicuichi heimia salicifolia auditory hallucinogen): Auditory Hallucinogen of Mexico"
 created: "2026-04-17"
 updated: "2026-04-17"
 type: concept
@@ -35,7 +35,7 @@ However, the hallucinogenic effects following ingestion of the total plant have 
 
 Sinicuichi has a long history of use in Mexican folk medicine and as an intoxicant. The Aztecs may have known and used the plant, though documentary evidence for pre-Columbian use is less abundant than for better-known Mexican hallucinogens like peyote and ololiuqui. The plant continues to be used in rural areas of central Mexico, where it occupies a modest but persistent place in the local ethnopharmacopoeia.
 
-The relative obscurity of sinicuichi compared to other Mexican hallucinogens may reflect its milder effects and more limited geographical distribution. While peyote and morning glories are associated with elaborate ceremonial traditions and have attracted intense ethnobotanical interest, sinicuichi has remained a local specialty known primarily to the communities that use it.
+The relative obscurity of sinicuichi compared to other Mexican hallucinogens may reflect its milder effects and more limited geographical distribution. While peyote and [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] are associated with elaborate ceremonial traditions and have attracted intense ethnobotanical interest, sinicuichi has remained a local specialty known primarily to the communities that use it.
 
 ## Folk Medicine Applications
 
@@ -60,9 +60,9 @@ As ethnopharmacological research continues to expand, sinicuichi represents a re
 
 Sinicuichi has one of the deepest historical pedigrees of any psychoactive plant in the Americas. Archaeological evidence suggests its use may date back over 3,000 years, making it contemporaneous with the earliest known use of peyote and teonanacatl in Mesoamerica. The Aztecs knew the plant by the Nahuatl name "sinicuichih," meaning "the opener of heaven" or "the yellow shrub from which the dizzying liquid is extracted," reflecting its primary use as a fermented beverage.
 
-Spanish colonial chroniclers, including Francisco Hernandez in the sixteenth century, documented the preparation and effects of sinicuichi beverages among indigenous populations. The traditional preparation involved bruising the fresh leaves and allowing them to ferment in water in the sun for several days, producing an amber-colored liquid with distinctive auditory-altering properties.
+Spanish colonial chroniclers, including Francisco Hernandez in the sixteenth century, documented the preparation and effects of sinicuichi beverages among indigenous populations. The [[kava-traditional-preparation-ceremonial-context]] involved bruising the fresh leaves and allowing them to ferment in water in the sun for several days, producing an amber-colored liquid with distinctive auditory-altering properties.
 
-Despite this long history of use and early colonial documentation, sinicuichi received far less attention from Western researchers than other Mesoamerican psychoactive plants. This neglect likely reflects the auditory nature of its effects — Western psychedelic research has been overwhelmingly focused on visual phenomena, leading to a systematic bias against substances whose primary effects are non-visual.
+Despite this long history of use and early colonial documentation, sinicuichi received far less attention from Western researchers than other Mesoamerican psychoactive plants. This neglect likely reflects the auditory nature of its effects — Western [[mckenna-suppression-psychedelic-research-lsd-therapy]] has been overwhelmingly focused on visual phenomena, leading to a systematic bias against substances whose primary effects are non-visual.
 
 ## Modern Significance
 
@@ -96,7 +96,7 @@ Calea zacatechichi is a Mexican plant employed by the Chontal Indians of Oaxaca 
 
 ## Botanical Profile
 
-Calea zacatechichi is a shrub native to the Mexican state of Oaxaca, where it grows in the tropical and subtropical highlands. The plant belongs to the composite family, Asteraceae (Compositae), which includes daisies, sunflowers, and many other familiar plants. The genus Calea comprises approximately 125 species of herbs and shrubs found mainly in Mexico and Central America.
+Calea zacatechichi is a shrub native to the Mexican state of Oaxaca, where it grows in the tropical and subtropical highlands. The plant belongs to the composite family, Asteraceae (Compositae), which includes daisies, sunflowers, and many other familiar plants. The genus Calea comprises approximately 125 species of herbs and shrubs found mainly in Mexico and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]].
 
 The plant has been found to contain a number of sesquiterpene lactones, the compounds that give the Compositae family many of its bitter and medicinal properties. However, the specific constituents responsible for the dream-enhancing effects have not been definitively identified. The complexity of the plant's chemistry may contribute to the difficulty in pinpointing the active principles.
 
@@ -128,7 +128,7 @@ The bitterness of calea tea is consistent with the presence of sesquiterpene lac
 
 ## Cultural Significance
 
-Calea zacatechichi holds a unique place in the ethnopharmacology of Oaxaca, a region renowned for its rich tradition of psychoactive plant use. The state is home to the Mazatec use of psilocybin mushrooms, the Chatino and Zapotec use of morning glory seeds, and various other indigenous psychoactive plant traditions. Calea represents the Chontal contribution to this remarkable pharmacopoeia.
+Calea zacatechichi holds a unique place in the ethnopharmacology of Oaxaca, a region renowned for its rich tradition of psychoactive plant use. The state is home to the Mazatec use of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]], the Chatino and Zapotec use of morning glory seeds, and various other indigenous psychoactive plant traditions. Calea represents the Chontal contribution to this remarkable pharmacopoeia.
 
 The Chontal Indians are a relatively small and isolated indigenous group, and their knowledge of calea's dream-enhancing properties represents a valuable but potentially endangered body of traditional knowledge. The documentation and scientific study of such traditions is increasingly important as indigenous communities face cultural assimilation and loss of traditional ecological knowledge.
 

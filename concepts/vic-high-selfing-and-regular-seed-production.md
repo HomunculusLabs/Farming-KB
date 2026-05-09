@@ -24,7 +24,7 @@ Vic High describes three possible approaches when a breeder finds a unique indiv
 
 3. **Backcrossing (cubing)**: The special individual is crossed with an unrelated male, and successive generations are crossed back to the original parent to progressively increase its genetic contribution to the gene pool.
 
-Each approach has different trade-offs in speed, genetic diversity retained, and path to true breeding status.
+Each approach has different trade-offs in speed, [[biodiversity-fungal-genetic-diversity]] retained, and path to true breeding status.
 
 ## Selfing Within the Inbreeding Framework
 
@@ -61,13 +61,13 @@ Selfing is particularly valuable for revealing hidden genetic information. When 
 
 Selfing doubles the probability of homozygous recessive combinations compared to an outcross because both gene copies come from the same parent. This makes it an efficient tool for:
 
-- Identifying which recessive traits a plant carries in hidden form.
+- Identifying which [[cervantes-dominance-recessive-traits-alleles]] a plant carries in hidden form.
 - Finding homozygous recessive individuals that express valuable hidden traits.
 - Quickly creating a population from which true breeding individuals can be selected.
 
 ## Regular Seed Production Context
 
-Regular seeds (as opposed to feminized seeds) are produced through natural sexual reproduction between male and female plants. Vic High's entire breeding framework operates within the context of regular seed production.
+Regular seeds (as opposed to [[cannabis-feminized-seeds]]) are produced through natural [[fungal-life-cycles-sexual-reproduction-metamorphosis]] between male and female plants. Vic High's entire breeding framework operates within the context of regular seed production.
 
 Key aspects of regular seed production in Vic High's framework:
 
@@ -84,8 +84,8 @@ This limitation forces breeders into half-sib breeding where males contribute ge
 
 ### Strategies for Addressing Male Selection Limitations
 
-- **Direct observation**: Selecting males for traits visible in both sexes (growth habit, leaf morphology, pest resistance).
-- **Progeny testing**: Growing out test crosses from candidate males to determine which males pass on the most desirable genes. Vic High describes this as the most reliable method but notes it requires additional time and resources.
+- **[[fukuoka-direct-observation-method]]**: Selecting males for traits visible in both sexes (growth habit, leaf morphology, pest resistance).
+- **[[cervantes-progeny-testing-combining-ability]]**: Growing out test crosses from candidate males to determine which males pass on the most desirable genes. Vic High describes this as the most reliable method but notes it requires additional time and resources.
 - **Large male numbers**: Using many males per cross to increase the probability that the pollen pool includes the desired alleles.
 
 ## The Value of Progeny Testing

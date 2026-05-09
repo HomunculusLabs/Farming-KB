@@ -1,5 +1,5 @@
 ---
-title: Essential Amphetamines And Natural Precursors
+title: Essential essential amphetamines and natural precursors Precursors
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -14,7 +14,7 @@ sources:
 
 ## Overview
 
-PiHKAL documents a concept Shulgin called the "Ten Essential Amphetamines" -- a set of amphetamine compounds that can theoretically be synthesized from the ten essential oils of the spice and herb trade. This concept bridges natural product chemistry with psychedelic pharmacology, revealing how common botanical sources can yield psychoactive compounds.
+PiHKAL documents a concept Shulgin called the "Ten Essential Amphetamines" -- a set of amphetamine compounds that can theoretically be synthesized from the ten [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] of the spice and herb trade. This concept bridges natural product chemistry with psychedelic pharmacology, revealing how common [[dmt-botanical-sources-pharmacology]] can yield psychoactive compounds.
 
 ## The Ten Essential Oils
 
@@ -51,7 +51,7 @@ Shulgin identified MMDA as "a material that might be a contributing factor to th
 ## Synthetic Routes from Essential Oils
 
 The general pathway from essential oils to amphetamines involves:
-1. Isolation of the allylbenzene or propenylbenzene from the essential oil (often by careful fractional distillation)
+1. Isolation of the allylbenzene or propenylbenzene from the essential oil (often by careful [[cannabis-fractional-distillation-cannabinoids]])
 2. Isomerization from allyl to propenyl form (if needed) via base-catalyzed rearrangement
 3. Oxidation to the corresponding aldehyde (myristicinaldehyde, piperonal, etc.)
 4. Condensation with nitroethane to form the nitrostyrene intermediate
@@ -61,11 +61,11 @@ The nitrostyrene-to-aldehyde conversion also provides access to the correspondin
 
 ## Natural vs Synthetic
 
-The "Essential Amphetamine" concept highlights the artificial boundary between "natural" and "synthetic" psychoactive compounds. MDA, one of the most important psychedelic amphetamines, can be derived directly from safrole in sassafras root bark. MMDA derives from nutmeg's myristicin. This challenges the common assumption that naturally occurring psychoactive substances are fundamentally different from their synthetic counterparts.
+The "Essential Amphetamine" concept highlights the artificial boundary between "natural" and "synthetic" psychoactive compounds. MDA, one of the most important psychedelic amphetamines, can be derived directly from safrole in sassafras [[iboga-root-bark-preparation]]. MMDA derives from nutmeg's myristicin. This challenges the common assumption that naturally occurring psychoactive substances are fundamentally different from their synthetic counterparts.
 
 ## Historical Context
 
-MDA was "humorously referred to as one of the Ten Essential Amphetamines" because safrole is one of the ten essential oils. The concept also underscores why many of these compounds became widely available before legal controls -- their precursors were common commercial chemicals derived from the spice trade.
+MDA was "humorously referred to as one of the Ten Essential Amphetamines" because safrole is one of the ten essential oils. The concept also underscores why many of these compounds became widely available before legal controls -- their precursors were common commercial chemicals derived from the [[mckenna-spice-trade-and-medieval-drug-scarcity]].
 
 ## Related Topics
 
@@ -92,3 +92,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[codeine]]

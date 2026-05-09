@@ -32,7 +32,7 @@ ability to temporarily suppress sweet taste perception.
 
 Native to tropical and subtropical regions of India, Africa, and
 Australia, it has been used for over 2,000 years in Ayurvedic medicine
-for diabetes, metabolic syndrome, and digestive disorders.
+for diabetes, [[cannabis-metabolic-syndrome-research]], and digestive disorders.
 
 Its principal bioactive constituents, gymnemic acids, are structurally
 similar to glucose and competitively inhibit sugar absorption while
@@ -52,7 +52,7 @@ management properties, making it a well-studied botanical hypoglycemic.
 - **Species:** *G. sylvestre* (Retz.) R. Br. ex Sm.
 
 The genus *Gymnema* comprises approximately 50 species distributed
-across tropical and subtropical regions of the Old World.
+across tropical and subtropical regions of the [[datura-metel-old-world-ethnobotany]].
 
 ## Morphology
 
@@ -76,7 +76,7 @@ seeds bearing silky coma.
 ## Distribution and Habitat
 
 *G. sylvestre* is native to tropical forests of India, Sri Lanka,
-southern China, Southeast Asia, tropical Africa, and northern Australia.
+southern China, [[psilocybe-southeast-asia-pacific]], tropical Africa, and northern Australia.
 
 In India, it occurs in dry deciduous forests up to 600 meters in
 Madhya Pradesh, Maharashtra, Karnataka, Kerala, and Tamil Nadu.
@@ -107,7 +107,7 @@ remain unaffected.
 **Anti-diabetic:** Most extensively studied use. Gymnemic acids
 enhance insulin secretion from pancreatic β-cells, increase
 peripheral glucose utilization, and inhibit intestinal glucose
-absorption. Clinical trials show fasting blood glucose reductions
+absorption. [[mushroom-cancer-clinical-trials-overview]] show fasting blood glucose reductions
 of 10–25 mg/dL and HbA1c reductions of 0.4–1.0% over 60–90 days.
 
 **Anti-sweet activity:** Chewing leaves abolishes sweet taste for
@@ -139,7 +139,6 @@ yield 2–3 leaf crops per year from year two onward, producing
 
 Standardized leaf extract (25% gymnemic acids): 200–400 mg
 twice daily with meals. Leaf powder: 2–4 g/day divided doses.
-Gurmarin extracts for sweet suppression: 500 mg before meals.
 ## See Also
 
 - [[dom]]

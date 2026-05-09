@@ -37,12 +37,12 @@ primarily for
 its role as a root pathogen of a wide range of agricultural
 crops.
 Beyond its pathogenic activities, the species occupies important
-positions in soil food webs, participating in organic matter
+positions in soil food webs, participating in [[hamilton-composting-and-organic-matter-management]]
 decomposition and engaging in complex fungal-fungal interactions
 with
 both saprotrophic and [[john-dighton]]'s
 treatment
-of fungi in ecosystem processes, F. solani is highlighted as a
+of fungi in [[fungal-ecosystem-processes-overview]], F. solani is highlighted as a
 significant root pathogenic fungus whose interactions with
 arbuscular
 mycorrhizal (AM) fungi have important implications for plant
@@ -78,7 +78,7 @@ cucurbits, solanaceous crops, and various tree species. Its
 pathogenicity mechanisms include production of cell-wall-
 degrading
 enzymes such as pectinases, cellulases, and proteases, as well as
-phytotoxic secondary metabolites. In Dighton's textbook, F.
+phytotoxic [[antifungal-secondary-metabolites-coprophilous-fungi]]. In Dighton's textbook, F.
 solani is
 presented within Table 3.23, which summarizes interactions
 between
@@ -91,7 +91,7 @@ The ability of F. solani to persist in soil through durable
 chlamydospores ensures its continued presence across seasons and
 disturbance events. These survival structures contribute to the
 soil
-microbial seed bank. The balance between its saprotrophic and
+microbial [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]]. The balance between its saprotrophic and
 pathogenic lifestyles makes F. solani a key species in
 understanding
 the continuum between decomposition and parasitism in soil fungal

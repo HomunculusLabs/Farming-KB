@@ -13,7 +13,7 @@ sources:
   - Leafly Staff (2023). "Super Glue Cannabis Strain Information." Leafly.com.
   - AllBud (2024). "Super Glue Weed Strain." AllBud.com.
   - Pearce, D.T. et al. (2020). "Cannabis chemovar identification using terpene and cannabinoid profiles." Cannabis and Cannabinoid Research 5(3): 213-224.
-  - ElSohly, M.A. et al. (2016). "Changes in cannabis potency over the last two decades." Biological Psychiatry 79(7): 613-619.
+  - ElSohly, M.A. et al. (2016). "Changes in [[green-cannabis-potency-maximizing]] over the last two decades." Biological Psychiatry 79(7): 613-619.
 created: 2026-04-28
 ---
 
@@ -71,11 +71,11 @@ The dominant terpenes are myrcene (0.8 to 1.5 percent), caryophyllene (0.4 to 0.
 
 THC content ranges from 25 to 31 percent, placing it among the highest-potency strains commercially available. CBD content is typically below 0.1 percent. Minor cannabinoids present include CBC and CBG in trace amounts.
 
-The terpene-to-cannabinoid ratio in Super Glue is notably higher than the modern commercial average, reflecting its Afghani landrace heritage. Landrace strains from the Hindu Kush region typically produce elevated terpene levels as an adaptive response to the arid, high-UV environment of their native habitat.
+The terpene-to-cannabinoid ratio in Super Glue is notably higher than the modern commercial average, reflecting its Afghani landrace heritage. [[sativa-landrace-strains-and-geographic-origins]] from the Hindu Kush region typically produce elevated terpene levels as an adaptive response to the arid, high-UV environment of their native habitat.
 
 The high myrcene-to-caryophyllene ratio is responsible for the strain's pronounced sedative and analgesic properties. Caryophyllene also contributes anti-inflammatory activity through CB2 receptor agonism, complementing the central effects of THC. Total terpene content typically ranges from 1.5 to 2.8 percent, which is considered high for modern commercial strains.
 
-The myrcene-dominant profile classifies Super Glue within the "type II" chemotype in the cannabis terpene classification system. This terpene profile is associated with enhanced THC bioavailability at the blood-brain barrier, partially explaining the strain's disproportionately potent subjective effects relative to its measured THC percentage.
+The myrcene-dominant profile classifies Super Glue within the "type II" chemotype in the [[oner-cannabis-terpene-profiles-effects]] classification system. This terpene profile is associated with enhanced THC bioavailability at the blood-brain barrier, partially explaining the strain's disproportionately potent subjective effects relative to its measured THC percentage.
 
 ## Effects
 
@@ -95,13 +95,13 @@ Duration of effects is notably long, with the sedative body high persisting for 
 
 ## Cultivation
 
-Super Glue is considered moderately difficult to cultivate, requiring attention to environmental parameters and nutrient management. The strain performs well in both indoor and outdoor settings, though indoor cultivation allows better control over the dense bud development that defines this variety.
+Super Glue is considered moderately difficult to cultivate, requiring attention to environmental parameters and [[green-cannabis-grow-bible-nutrient-management-ppm]]. The strain performs well in both indoor and outdoor settings, though indoor cultivation allows better control over the dense bud development that defines this variety.
 
 The strain is particularly well-suited to growers seeking high-potency resin production for hash or rosin extraction. The large, readily-ablated trichome heads produce excellent yields when processed through ice water extraction or mechanical pressing, making Super Glue a favorite among concentrate artists.
 
-Indoor flowering time is 8 to 9 weeks, with yields of 14 to 18 ounces per square meter under optimal conditions. The plants respond well to SCROG (Screen of Green) and low-stress training techniques. Outdoor harvest occurs in early to mid-October, with yields of 18 to 22 ounces per plant in Mediterranean climates.
+Indoor flowering time is 8 to 9 weeks, with yields of 14 to 18 ounces per square meter under optimal conditions. The plants respond well to SCROG (Screen of Green) and low-stress [[cannabis-training-techniques-comparison]]. Outdoor harvest occurs in early to mid-October, with yields of 18 to 22 ounces per plant in Mediterranean climates.
 
-The strain is moderately resistant to mold and pests but requires careful humidity management during late flowering due to the extremely dense bud structure. Ideal relative humidity during flowering is 40 to 50 percent. Nutrient requirements are moderate to heavy, particularly for phosphorus and potassium during the bloom phase. CalMag supplementation is recommended due to the strain's heavy feeding tendencies, which can cause calcium and magnesium deficiencies in coco coir or hydroponic media.
+The strain is moderately resistant to mold and pests but requires careful [[stamets-cultivator-humidity-management-fogging-systems]] during late flowering due to the extremely dense bud structure. Ideal relative humidity during flowering is 40 to 50 percent. Nutrient requirements are moderate to heavy, particularly for phosphorus and potassium during the bloom phase. CalMag supplementation is recommended due to the strain's heavy feeding tendencies, which can cause calcium and magnesium deficiencies in coco coir or hydroponic media.
 
 The plants exhibit moderate stretch during the first two weeks of flowering, typically increasing height by 30 to 50 percent. Final plant height indoors is 80 to 120 cm.
 
@@ -111,7 +111,7 @@ The strain produces strong lateral branching when trained, making it suitable fo
 
 - [[animal-cookies]]
 - [[gmo-garlic-cookies]]
-- [[gelato-cannabis]]
+- [[gelato]]
 - [[kush-mints]]
 - [[og-kush]]
 - [[purple-punch]]

@@ -8,10 +8,10 @@ tags:
   - stress-relief
   - home-garden
   - cultivation
-  - [[chamomile-growing-guide|chamomile]]
+  - chamomile-growing-guide|chamomile
   - lemon-balm
   - lavender
-  - [[ashwagandha-growing-guide|ashwagandha]]
+  - ashwagandha-growing-guide|ashwagandha
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -29,14 +29,14 @@ sources:
 | Herb | Hardiness Zone | Difficulty | Time to Harvest | Anxiolytic Strength |
 |------|---------------|------------|-----------------|-------------------|
 | **Chamomile** (*Matricaria recutita*) | 2–9 | Easy | 6–8 weeks from seed | Mild–moderate |
-| **Lemon balm** (*Melissa officinalis*) | 4–9 | Easy | 4–6 weeks from transplant | Mild–moderate |
-| **Lavender** (*Lavandula angustifolia*) | 5–9 | Easy–moderate | Year 2 for full yield | Moderate |
-| **Passionflower** (*Passiflora incarnata*) | 6–10 | Moderate | Year 2 for full yield | Moderate–strong |
-| **Ashwagandha** (*Withania somnifera*) | 8–11 (annual elsewhere) | Moderate | 120–180 days | Moderate–strong |
+| **Lemon balm** (*[[melissa-officinalis]]*) | 4–9 | Easy | 4–6 weeks from transplant | Mild–moderate |
+| **Lavender** (*[[lavandula-angustifolia]]*) | 5–9 | Easy–moderate | Year 2 for full yield | Moderate |
+| **Passionflower** (*[[passiflora-incarnata]]*) | 6–10 | Moderate | Year 2 for full yield | Moderate–strong |
+| **Ashwagandha** (*[[withania-somnifera]]*) | 8–11 (annual elsewhere) | Moderate | 120–180 days | Moderate–strong |
 | **Kava** (*Piper methysticum*) | 11+ only | Difficult | 3–5 years | Strong |
 | **Holy basil / Tulsi** (*Ocimum tenuiflorum*) | 10–11 (annual elsewhere) | Easy | 6–8 weeks | Mild–moderate |
-| **Valerian** (*Valeriana officinalis*) | 4–9 | Easy | Year 2 for roots | Moderate–strong (sedative) |
-| **California poppy** (*Eschscholzia californica*) | 6–10 | Easy | 8–12 weeks from seed | Moderate |
+| **Valerian** (*[[valeriana-officinalis]]*) | 4–9 | Easy | Year 2 for roots | Moderate–strong (sedative) |
+| **California poppy** (*[[eschscholzia-californica]]*) | 6–10 | Easy | 8–12 weeks from seed | Moderate |
 
 ## Tier 1: Easy-to-Grow, Gentle Anxiolytics
 
@@ -144,3 +144,4 @@ sources:
 - **Ashwagandha** may affect thyroid function — monitor if you have thyroid conditions
 ## See Also
 - [[query-what-are-the-best-ways-to-increase-soil-organic-matter-quickly]]
+- [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]

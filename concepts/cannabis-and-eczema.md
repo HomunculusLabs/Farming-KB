@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-**Source:** The Cannabis Health Index (Uwe Blesching) | **CHI:** 3 | **Studies:** 1 | **Updated:** 2026-04-18
+**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]] (Uwe Blesching) | **CHI:** 3 | **Studies:** 1 | **Updated:** 2026-04-18
 
 ## Overview
 
@@ -25,7 +25,7 @@ One study supports cannabis for eczema, with additional preclinical evidence fro
 **Endocannabinoid System of the Skin (Biro et al., 2009)**
 - The skin has a fully functional endocannabinoid system with CB1 and CB2 receptors
 - This system regulates cutaneous inflammation, allergic responses, and cell proliferation
-- Dysregulation of the skin ECS may contribute to inflammatory skin conditions including eczema
+- Dysregulation of the skin ECS may contribute to inflammatory [[cannabis-for-skin-conditions-detailed]] including eczema
 - Anandamide (endogenous cannabinoid) modulates inflammatory responses in skin cells
 
 **Anti-inflammatory Mechanisms**
@@ -72,7 +72,7 @@ One study supports cannabis for eczema, with additional preclinical evidence fro
 ## Endocannabinoid Tone and Skin Health
 
 The concept of endocannabinoid tone — the baseline activity level of the ECS — is particularly relevant to chronic skin conditions like eczema. Research suggests that individuals with atopic dermatitis may have deficient cutaneous endocannabinoid signaling, which contributes to the chronic inflammation cycle.
-FAAH (fatty acid amide hydrolase), the enzyme responsible for breaking down anandamide, is overexpressed in eczematous skin, leading to faster degradation of the body's natural anti-inflammatory cannabinoids.
+FAAH (fatty [[lysergic-acid-amide-containing-plants-halpern]] hydrolase), the enzyme responsible for breaking down anandamide, is overexpressed in eczematous skin, leading to faster degradation of the body's natural anti-inflammatory cannabinoids.
 Topical FAAH inhibitors are being investigated as a complementary strategy to restore endocannabinoid tone in affected skin.
 See [[cannabis-terpene-profile]] for a comprehensive guide to terpene properties.
 
@@ -80,8 +80,8 @@ See [[cannabis-terpene-profile]] for a comprehensive guide to terpene properties
 
 A 2019 study published in the journal Molecules examined the effects of a topical CBD formulation on patients with eczema and psoriasis, finding significant improvements in skin parameters including hydration, elasticity, and reduced transepidermal water loss.
 The formulation contained CBD in a lipid-based carrier system designed to penetrate the stratum corneum effectively.
-Another 2021 clinical trial investigated a topical preparation combining CBD with palmitoylethanolamide (PEA), an endocannabinoid-like fatty acid amide that enhances anandamide signaling by inhibiting its reuptake and degradation.
-The CBD-PEA combination showed synergistic anti-inflammatory effects, consistent with the "entourage effect" described in cannabinoid pharmacology research.
+Another 2021 [[psilocybin-clinical-trial-landscape-2020-2025]] investigated a topical preparation combining CBD with palmitoylethanolamide (PEA), an endocannabinoid-like fatty acid amide that enhances anandamide signaling by inhibiting its reuptake and degradation.
+The CBD-PEA combination showed synergistic anti-inflammatory effects, consistent with the "[[cannabis-terpene-entourage-effect-profiles]]" described in cannabinoid pharmacology research.
 
 ## Comparison with Conventional Treatments
 
@@ -89,7 +89,7 @@ Conventional eczema treatments include topical corticosteroids, calcineurin inhi
 While effective, these treatments carry significant risks with long-term use: corticosteroids cause skin thinning, telangiectasia, and hypothalamic-pituitary-adrenal axis suppression.
 Calcineurin inhibitors carry FDA black box warnings regarding theoretical lymphoma risk.
 Cannabis-based topicals may offer a safer long-term maintenance option, particularly for patients who experience steroid withdrawal or require frequent application.
-However, head-to-head clinical trials comparing cannabinoid preparations to standard therapies are still needed.
+However, head-to-head [[mushroom-cancer-clinical-trials-overview]] comparing cannabinoid preparations to standard therapies are still needed.
 See [[blesching-cannabis-skin-diseases]]
 - [[cannabis-for-dermatological-conditions]]
 - [[cannabis-autoimmune-conditions]]

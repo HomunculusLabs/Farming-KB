@@ -41,14 +41,14 @@ The human body produces at least five distinct endocannabinoids:
 
 2-AG is distinguished from anandamide by its higher tissue
 concentrations, full agonist activity (anandamide is a partial agonist),
-and different enzymatic degradation pathways.
+and different enzymatic [[staycare-chlorophenol-degradation-pathways-white-rot-fungi]].
 
 ### Biological Function
 2-AG is produced on-demand from membrane lipid precursors and serves as
 a retrograde signaling molecule in synaptic transmission. Key functions
 include:
 - Retrograde neurotransmitter signaling at CB1 receptors
-- Immune modulation via CB2 receptor activation
+- [[cancer-immune-modulation-mechanisms]] via CB2 receptor activation
 - Inflammatory response regulation
 - Neuroprotection following injury
 - Bone metabolism and osteoclast regulation
@@ -90,4 +90,4 @@ therapeutics that boost endogenous 2-AG signaling.
 - [[tetrahydrocannabinol-thc]]
 - [[cannabidiol-cbd]]
 - endocannabinoid system (ECS)
-- fatty acid amide hydrolase (FAAH)
+- fatty [[lysergic-acid-amide-containing-plants-halpern]] hydrolase (FAAH)

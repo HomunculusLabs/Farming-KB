@@ -13,7 +13,7 @@ tags: [plants]
 Chacruna ([[ayahuasca-preparation]]. Without the addition of chacruna or a
 similar DMT source, the ayahuasca brew made solely from
 [[harmala-alkaloids]]. It is the combination of chacruna's DMT
-with the MAO-inhibiting harmala alkaloids of B. caapi that produces
+with the MAO-inhibiting [[turner-harmala-alkaloids-preparation-and-dosage]] of B. caapi that produces
 the full visionary experience for which ayahuasca is renowned.
 
 ## Botanical Description
@@ -37,7 +37,7 @@ maintain plants in their gardens.
 
 The leaves of Psychotria viridis contain the powerful psychedelic
 compound N,N-dimethyltryptamine (DMT), one of the most potent
-naturally occurring hallucinogens. Chemical analyses have found:
+naturally occurring hallucinogens. [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] have found:
 
 - **DMT content**: 0.1-0.61% in dried leaves, with most leaves contain
   ing around 0.3%
@@ -117,7 +117,7 @@ to ayahuasca to provide DMT:
 
 - **Diplopterys cabrerana**: Another important DMT-containing leaf add
   itive, used particularly in Ecuadorian and Colombian preparations
-- **Mimosa hostilis**: The root bark of this plant contains DMT and wa
+- **[[entheogen-jurema-mimosa-hostilis-ethnobotany]]**: The [[iboga-root-bark-preparation]] of this plant contains DMT and wa
   s used in ceremonies in northeastern Brazil to prepare a "miraculous
    drink" known as Ajuca or Vinho de Jurema
 - **Various Psychotria species**: Other species in the same genus may 

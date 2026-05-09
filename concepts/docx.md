@@ -83,7 +83,7 @@ documents before distribution.
 The OOXML structure makes DOCX files amenable to programmatic generation and
 manipulation. Libraries like python-docx (Python), Apache POI (Java), and
 OpenXML SDK (C#) provide high-level APIs for creating, reading, and modifying
-DOCX files without running Microsoft Word. This has enabled automated document
+DOCX files without running [[microsoft-word-document-format-history]]. This has enabled automated document
 generation pipelines, template-based reporting systems, and document conversion
 services.
 

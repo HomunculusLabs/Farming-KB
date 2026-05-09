@@ -1,6 +1,6 @@
 ---
-title: "Fukuoka on Soil Microbes and Discriminating Knowledge"
-aliases: [soil microorganisms natural farming, child vs scientist soil knowledge]
+title: "Fukuoka on Soil Microbes and non-discriminating-knowledge-and-critique-of-scientific-reductionism"
+aliases: [soil [[soil-microorganisms-natural-fertility]] farming, child vs scientist soil knowledge]
 tags: [natural-farming, soil-microbiology, philosophy-of-science, fukuoka]
 source: masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
 ---
@@ -66,7 +66,7 @@ what truly natural soil is in their ingenuous way.
 
 Fukuoka extends the metaphor: the mother (science) who parades her
 partial knowledge implants in the child (modern man) a false image of
-nature. This is the central tragedy of scientific agriculture — not
+nature. This is the central tragedy of [[fukuoka-critique-scientific-agriculture-civilization]] — not
 that it fails to produce food, but that it systematically replaces
 accurate intuitive understanding with inaccurate analytical
 knowledge.
@@ -98,7 +98,7 @@ create the conditions that make purchased inputs appear necessary.
 
 Fukuoka extends the soil microbe principle to his desert revegetation
 proposal. He suggests that soil containing seeds and microorganisms
-could be the spark that restores deserts. Clay pellets containing
+could be the spark that restores deserts. [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] containing
 seeds and soil rich with microbes, scattered over barren land, would
 allow natural biological processes to begin the work of restoration.
 

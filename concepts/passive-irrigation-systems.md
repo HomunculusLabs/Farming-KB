@@ -27,7 +27,7 @@ Ollas are unglazed terracotta pots buried in the ground with their necks exposed
 
 -  **Small ollas** (1-2 liters): Irradiate a 30-45 cm radius. Best for individual plants or small clusters.
 -  **Medium ollas** (3-5 liters): Irradiate a 45-60 cm radius. Suitable for larger plants like tomatoes, peppers, squash.
--  **Large ollas** (5-10 liters): Irradiate a 60-90 cm radius. Good for raised beds and larger garden areas.
+-  **Large ollas** (5-10 liters): Irradiate a 60-90 cm radius. Good for [[comparison-raised-beds-vs-hugelkultur]] and larger garden areas.
 
 Spacing: Place ollas 45-90 cm apart in a grid pattern for full bed coverage. Closer spacing for thirsty crops, wider for drought-tolerant plants.
 
@@ -53,7 +53,7 @@ Wicking beds are self-watering garden beds with a built-in water reservoir below
 
 ### Construction
 
-1.  **Container** — A raised bed frame with a watertight liner (pond liner or food-grade plastic)
+1.  **Container** — [[query-how-to-build-a-raised-bed-garden]] frame with a watertight liner (pond liner or food-grade plastic)
 2.  **Reservoir** — 15-25 cm deep water-filled space at the bottom
 3.  **Wicking medium** — 10-15 cm layer of coarse gravel, scoria, or sand above the reservoir
 4.  **Geotextile barrier** — Separates wicking medium from growing soil, prevents soil washing into reservoir
@@ -74,10 +74,10 @@ Fill the reservoir through a vertical PVC pipe that extends from above the soil 
 
 ### Limitations
 
-- Not suitable for root vegetables that need deeper, drier soil to develop properly
+- Not suitable for [[growing-root-vegetables-guide]] that need deeper, drier soil to develop properly
 - Requires watertight container — leaks negate the system
 - Soil depth is limited to 25-35 cm above the wicking zone
-- Salt accumulation in reservoir over time — flush periodically
+- [[jadam-salt-accumulation-in-soil]] in reservoir over time — flush periodically
 
 ## Swale Irrigation
 
@@ -93,7 +93,7 @@ Swales are shallow, level trenches dug along the contour of a slope. They captur
 
 ### Planting
 
-Plant the berm with deep-rooted perennials (fruit trees, berry bushes, comfrey) and the swale bottom with moisture-loving plants (willow, elderberry, rushes). The berm acts as a sponge that releases water slowly to plant roots downslope.
+Plant the berm with deep-rooted perennials ([[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], berry bushes, comfrey) and the swale bottom with moisture-loving plants (willow, elderberry, rushes). The berm acts as a sponge that releases water slowly to plant roots downslope.
 
 ### Benefits
 
@@ -136,4 +136,4 @@ Deep pipes deliver water directly to the root zone of established trees and shru
 
 ## Integration Notes
 
-Passive irrigation systems work best in combination. Use swales for landscape-scale water management, wicking beds for intensive vegetable production, and ollas for targeted plant watering. Connect all systems to [[rainwater-harvesting-systems]] for a gravity-fed, self-sustaining water supply. For more controlled delivery, [[drip-irrigation-guide]] can supplement passive systems during peak demand periods.
+Passive irrigation systems work best in combination. Use swales for landscape-scale water management, wicking beds for intensive [[dry-gardening-unirrigated-vegetable-production-solomon]], and ollas for targeted plant watering. Connect all systems to [[rainwater-harvesting-systems]] for a gravity-fed, self-sustaining water supply. For more controlled delivery, [[drip-irrigation-guide]] can supplement passive systems during peak demand periods.

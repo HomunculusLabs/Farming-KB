@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Urbatsch, L.E. & Cox, P.B. (2006). "Rudbeckia." In: Flora of North America, Vol. 21, Oxford University Press.
+  - Urbatsch, L.E. & Cox, P.B. (2006). "Rudbeckia." In: Flora of psilocybin-north-america-pacific-northwest, Vol. 21, Oxford University Press.
   - Armitage, A.M. (2008). "Herbaceous Perennial Plants: A Treatise on Their Identification, Culture, and Garden Attributes." 3rd ed., Timber Press.
   - Perdue, R.E. (1959). "A monograph of the genus Rudbeckia." Castanea, 24(3), 91–113.
   - Ernst, W.H.O. (1998). "The origin of the cultivar 'Goldsturm'." HortScience, 33(1), 142–143.
@@ -19,9 +19,9 @@ sources:
 
 ## Overview
 
-**Rudbeckia fulgida** Aiton, commonly known as the orange coneflower or black-eyed Susan, is a herbaceous perennial in the family Asteraceae. It is native to eastern North America, where it grows in moist meadows, prairies, and open woodlands.
+**Rudbeckia fulgida** Aiton, commonly known as the orange coneflower or black-eyed Susan, is a herbaceous perennial in the family Asteraceae. It is native to [[polypore-fungi-eastern-north-america]] America, where it grows in moist meadows, prairies, and open woodlands.
 
-The species is one of the most widely cultivated native North American perennials, prized for its long-lasting, golden-yellow ray flowers with dark central cones. The cultivar 'Goldsturm' is among the most popular garden perennials worldwide.
+The species is one of the most widely cultivated native [[growing-gourmet-north-american-reishi-species]] perennials, prized for its long-lasting, golden-yellow ray flowers with dark central cones. The cultivar 'Goldsturm' is among the most popular garden perennials worldwide.
 
 Unlike the annual *R. hirta*, *R. fulgida* is a long-lived perennial that forms substantial clumps and blooms prolifically from mid-summer through autumn.
 
@@ -63,7 +63,7 @@ Plants prefer full sun and moderately fertile, well-drained soil. Once establish
 
 Propagation is by seed (stratification improves germination), division in spring or autumn, or basal stem cuttings in early summer. Division every 3–4 years maintains vigour in mature clumps.
 
-The species is largely pest-free and deer-resistant due to its hairy, slightly bitter foliage. Powdery mildew can occur in humid conditions but is rarely severe enough to warrant treatment.
+The species is largely pest-free and deer-resistant due to its hairy, slightly bitter foliage. [[cervantes-powdery-mildew-prevention-treatment]] can occur in humid conditions but is rarely severe enough to warrant treatment.
 
 Deadheading extends the bloom period, though leaving spent flowers provides winter interest and seeds for birds. The seed heads persist attractively through winter.
 
@@ -83,7 +83,7 @@ In agricultural landscapes, *R. fulgida* plantings support beneficial insect pop
 
 ## Medicinal and Edible Uses
 
-Native American tribes used *Rudbeckia* species for various medicinal purposes, though records rarely distinguish between species. Preparations from the roots were used as poultices for snakebites, earaches, and wounds.
+[[halpern-sacramental-peyote-and-native-american-church]] tribes used *Rudbeckia* species for various medicinal purposes, though records rarely distinguish between species. Preparations from the roots were used as poultices for snakebites, earaches, and wounds.
 
 The Cherokee used a root infusion for colds and as a wash for sores. The Iroquois applied mashed roots to snakebite wounds, though these uses are not supported by modern pharmacological evidence.
 
@@ -93,7 +93,7 @@ The species has no significant modern medicinal applications and is not widely u
 
 Phytochemical analysis of *Rudbeckia* species has identified sesquiterpene lactones, polyacetylenes, and flavonoid glycosides. Some of these compounds exhibit moderate antimicrobial and cytotoxic activity in laboratory studies.
 
-The roots contain small quantities of essential oil. However, the genus has not been subjected to systematic pharmacological investigation, and no clinical trials have evaluated *R. fulgida* specifically.
+The roots contain small quantities of essential oil. However, the genus has not been subjected to systematic pharmacological investigation, and no [[mushroom-cancer-clinical-trials-overview]] have evaluated *R. fulgida* specifically.
 
 ## See Also
 
@@ -102,7 +102,7 @@ The roots contain small quantities of essential oil. However, the genus has not 
 - [[coreopsis-lanceolata]]
 - [[monarda-fistulosa]]
 - [[gaillardia-pulchella]]
-- [[solidago-virgaurea]]
+- solidago-virgaurea
 - [[coreopsis-tinctoria]]
 - [[helianthus-tuberosus]]
 - [[echinacea-pallida]]

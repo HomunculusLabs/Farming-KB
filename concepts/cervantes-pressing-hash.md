@@ -5,7 +5,8 @@ created: 2026-04-25
 type: concept
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 tags: [cannabis, hash, pressing, processing, storage]
 ---
 
@@ -96,7 +97,7 @@ jack.
 ## Hammering (Moroccan Method)
 
 Hammering hash is popular in Morocco but uncommon in
-Australia, New Zealand, Europe, and North America. Hammering
+Australia, New Zealand, Europe, and [[psilocybin-north-america-pacific-northwest]]. Hammering
 bursts and blends resin glands together into a cohesive mass.
 Often resin glands are hammered before being hydraulically
 pressed into plaques.
@@ -115,7 +116,7 @@ pressed into plaques.
 ## Important Considerations
 
 Pre-press water-extracted hash in a piece of cellophane to
-contain it and help get rid of water. The cellophane gives
+contain it and help [[query-how-to-get-rid-of-slugs-and-snails-organically]] of water. The cellophane gives
 pressed hash a shiny skin.
 
 Make sure hash is totally dry before pressing to avoid mold.

@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cultivation, gardening, vegetables, harvesting, storage, plant-growth]
-sources: []
+sources:
+  sources: []
 ---
 
 # Winter Squash Guide
@@ -71,24 +72,24 @@ Winter squash (Cucurbita species) are warm-season vining crops harvested at matu
 - Can start indoors 2-3 weeks before last frost (sensitive to root disturbance — use peat pots or soil blocks).
 - Plant seeds 1 inch deep.
 - **Spacing**: Bush types 2-3 feet apart; vining types 4-6 feet apart (rows 6-8 feet apart).
-- In square foot gardens: 1 plant per 2 square feet (bush) or 1 per 4 square feet (vining with trellis).
+- In [[comparison-biointensive-vs-square-foot-gardening]] gardens: 1 plant per 2 square feet (bush) or 1 per 4 square feet (vining with trellis).
 
 ### Sun and Heat
 - Full sun (8+ hours daily).
 - Warm-season crop — thrives in 75-90°F.
 - Does not tolerate frost.
-- Black plastic mulch can warm soil 2-3 weeks earlier.
+- Black [[jadam-plastic-mulch-problems]] can warm soil 2-3 weeks earlier.
 
 ## Care During Growth
 
 ### Watering
 - 1-2 inches per week.
 - Critical during flowering and fruit development.
-- Drip irrigation ideal; avoid wetting foliage (powdery mildew).
+- [[comparison-drip-irrigation-vs-passive-irrigation]] ideal; avoid wetting foliage ([[cervantes-powdery-mildew-prevention-treatment]]).
 - Mulch heavily to conserve moisture.
 
 ### Fertilizing
-- Heavy feeder: side-dress with compost or balanced organic fertilizer when vines begin to run.
+- Heavy feeder: side-dress with compost or balanced [[complete-organic-fertilizer-cof-recipe-solomon]] when vines begin to run.
 - Additional side-dress when fruits begin to set.
 - Too much nitrogen = lush vines, few fruits.
 
@@ -98,7 +99,7 @@ Winter squash (Cucurbita species) are warm-season vining crops harvested at matu
 |------|--------|---------|
 | Squash bugs | Suck sap, wilt and kill plants | Hand-pick eggs (bronze clusters under leaves), neem oil, row covers early |
 | Squash vine borer | Larvae bore into stem, wilt plant | Row covers until flowering, slit stem and remove larva, Bt, wrap stem bases with foil |
-| Cucumber beetles | Strip leaves, spread bacterial wilt | Row covers, kaolin clay, beneficial insects |
+| Cucumber beetles | Strip leaves, spread bacterial wilt | Row covers, kaolin clay, [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] |
 | Powdery mildew | White coating on leaves, reduces yield | Good airflow, neem oil, potassium bicarbonate spray, resistant varieties |
 
 ### Pollination
@@ -141,22 +142,6 @@ Curing thickens the skin and heals minor cuts, dramatically improving storage li
 - Check weekly — remove any squash with soft spots or mold immediately.
 
 ### Storage Life by Variety
-
-| Squash Type | Storage Duration |
-|-------------|-----------------|
-| Butternut | 3-6 months |
-| Kabocha | 4-6 months |
-| Hubbard | 5-6 months |
-| Spaghetti | 2-3 months |
-| Delicata | 2-3 months |
-| Acorn | 1-2 months |
-
-### Storage Tips
-- Do NOT refrigerate — cold damage causes chilling injury (watery spots, decay).
-- Do NOT store near apples, pears, or bananas — ethylene gas shortens storage.
-- Eat the shortest-storing varieties first (acorn, delicata).
-- Save longest-storing varieties (butternut, hubbard) for deep winter.
-
 ## Related Concepts
 
 - [[companion-planting-reference]] — corn, beans, and nasturtiums as squash companions (Three Sisters)

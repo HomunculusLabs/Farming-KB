@@ -16,7 +16,7 @@ Drought-tolerant planting design reduces or eliminates irrigation needs by selec
 Xeriscaping (not "zero-scaping") is a landscaping approach that minimizes water use through seven core principles:
 
 1. **Planning and design** -- assess site conditions, sun exposure, soil type, slope
-2. **Soil improvement** -- add organic matter to increase water retention
+2. **Soil improvement** -- add [[hamilton-composting-and-organic-matter-management]] to increase water retention
 3. **Practical turf areas** -- limit lawn to functional areas; replace with drought-adapted plants
 4. **Appropriate plant selection** -- choose species matched to local rainfall and soil
 5. **Efficient irrigation** -- drip systems or hand watering only when needed
@@ -29,7 +29,7 @@ Hydrozoning groups plants by water need into distinct zones:
 
 - **Oasis zone** (near house or water source): high-water plants -- vegetables, herbs, fruit trees. Small area, easy to irrigate.
 - **Transition zone**: moderate-water plants -- some perennials, selected ornamentals, berry bushes. Occasional supplemental water.
-- **Dry zone** (outer areas): drought-tolerant natives, Mediterranean herbs, succulents. No irrigation after establishment.
+- **Dry zone** (outer areas): drought-tolerant natives, [[query-best-mediterranean-herbs-for-beginner-herb-garden]], succulents. No irrigation after establishment.
 
 This approach ensures water is concentrated where it produces the most food value. See [[permaculture-earthworks-and-water-harvesting]].
 
@@ -40,7 +40,7 @@ Small-scale water harvesting directly around individual plants:
 - **Basins**: shallow depressions around tree bases to capture rain
 - **Boomerang berms**: crescent-shaped berms on the downhill side of plantings
 - **Rock mulch circles**: stones around plant bases create condensation and reduce evaporation
-- **Net and pan systems**: for trees on slopes -- a small earth dam catches runoff
+- **[[gaias-garden-net-and-pan-water-harvesting]] systems**: for trees on slopes -- a small earth dam catches runoff
 
 ## Mulch Strategies for Water Conservation
 
@@ -50,7 +50,7 @@ Mulch is the single most effective tool for drought-tolerant gardens:
 - **Organic mulch**: straw, wood chips, leaf mold -- adds organic matter as it decomposes
 - **Stone mulch**: for dry zones around Mediterranean plants -- stores heat, reduces evaporation
 - **Living mulch**: low-growing clover or thyme between plants -- shades soil, reduces competition
-- **Sheet mulching**: cardboard + organic matter for new garden areas -- suppresses weeds, retains moisture
+- **[[comparison-sheet-mulching-vs-chop-and-drop-mulching]]**: cardboard + organic matter for new garden areas -- suppresses weeds, retains moisture
 
 Avoid mulching directly against plant stems (crown rot risk). Reapply organic mulch annually as it decomposes.
 
@@ -59,9 +59,9 @@ Avoid mulching directly against plant stems (crown rot risk). Reapply organic mu
 Improve soil's ability to retain water available to plants:
 
 - Increase organic matter content to 5%+ (each 1% increase holds ~20,000 gallons more water per acre)
-- Add biochar for long-term water retention (pre-charge with compost tea)
+- Add biochar for long-term water retention (pre-charge with [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]])
 - Avoid compaction -- use permanent beds and minimize foot traffic
-- Mycorrhizal inoculation extends the effective root zone for water uptake
+- [[teaming-with-fungi-mycorrhizal-inoculation-techniques]] extends the effective root zone for water uptake
 - Deep-rooted cover crops (daikon, tillage radish) create channels for water infiltration
 
 ## Drought-Adapted Tree Crops
@@ -73,7 +73,7 @@ Tree crops are the backbone of drought-tolerant food systems because deep root s
 - **Carob** (*Ceratonia siliqua*): Mediterranean evergreen producing edible pods; drought-deciduous in extreme conditions; see [[permplant-carob-drought-tolerant-food-tree]]
 
 - [[gaias-garden-cover-crops-soil-building]]
-- [[gaias-garden-fruit-tree-selection]]
+- gaias-garden-fruit-tree-selection
 - [[permaculture-nitrogen-fixing-trees-guide]]
 ## Practical Considerations
 
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

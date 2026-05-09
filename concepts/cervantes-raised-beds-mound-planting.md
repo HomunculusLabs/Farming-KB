@@ -1,18 +1,19 @@
 ---
-title: Raised Beds and Mound Planting for Cannabis
+title: comparison-raised-beds-vs-hugelkultur and Mound Planting for Cannabis
 created: 2026-04-26
 tags: [cannabis, soil, outdoor-growing, raised-beds, cervantes]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Raised Beds and Mound Planting for Cannabis
 
 Raised beds and mound planting are essential
-techniques for outdoor cannabis growers dealing
+techniques for [[cervantes-wind-protection-outdoor-cannabis]] growers dealing
 with poor native soil, inadequate drainage, or
 challenging terrain. These methods allow growers
 to create optimal growing conditions even in
@@ -20,14 +21,14 @@ clay-heavy, compacted, or waterlogged ground.
 
 ## Why Use Raised Beds
 
-Raised beds solve several common outdoor growing
+Raised beds solve several common [[cannabis-outdoor-growing]]
 problems. They improve drainage in heavy clay
 soils, prevent waterlogging around roots, allow
 soil to warm faster in spring, reduce soil
 compaction from foot traffic, and give growers
 total control over the soil mix. In areas where
 native soil is poor, raised beds let you import
-the perfect growing medium without excavating
+the perfect [[cervantes-green-algae-growing-medium]] without excavating
 large areas.
 
 ## Raised Beds for Clay Soil
@@ -36,7 +37,7 @@ Raised beds are an excellent option for clay soil.
 Till the clay when it is damp and workable, and
 add manure and compost in heaps; plant directly
 in the mounds. The elevated position improves
-drainage immediately, while the organic amendments
+drainage immediately, while the [[cervantes-organic-amendments-chart]]
 lighten the soil structure and promote root growth.
 
 Pile subsoil in a ring around the plant, making a
@@ -66,7 +67,7 @@ month or longer before planting if possible.
 
 ## Containers as Portable Raised Beds
 
-Container growing is essentially raised bed
+[[container-growing-vegetables-herbs]] is essentially raised bed
 cultivation on a small scale. Using large containers
 or grow bags lets you control the soil mix
 completely and move plants if necessary. Ensure
@@ -79,8 +80,8 @@ for detailed mulching guidance.
 Backfill raised beds and planting mounds with a
 rich mix of native soil, compost, aged manure, and
 organic amendments. For mountain and alpine
-gardens, use a mix of peat moss, soil, polymer
-crystals, and slow-release organic fertilizer to
+gardens, use a mix of [[query-what-is-the-difference-between-coco-coir-and-peat-moss]], soil, polymer
+crystals, and slow-release [[complete-organic-fertilizer-cof-recipe-solomon]] to
 help plants deal with stress from cold, wind, and
 poor native soil fertility.
 

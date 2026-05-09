@@ -1,5 +1,5 @@
 ---
-title: PSK Immunotherapy for Gastric Cancer
+title: PSK Immunotherapy for lentinan-gastric-cancer-combination-therapy
 created: 2026-04-26
 tags: [cancer-research, gastric-cancer, immunotherapy, clinical-trials]
 date: 2026-04-25
@@ -11,13 +11,13 @@ type: concept
 
 # PSK Immunotherapy for Gastric Cancer
 
-PSK (Polysaccharide-K, Krestin) from Trametes versicolor has been used
+PSK (Polysaccharide-K, Krestin) from [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] has been used
 as immunotherapy for more gastric cancer patients than any other cancer
 type. By 1987, PSK accounted for more than 25% of total national
 expenditure for anti-cancer agents in Japan, underscoring its clinical
 importance. The extensive clinical evidence spanning several decades
 has made gastric cancer the best-studied application of PSK
-immunotherapy. Almost exclusively, clinical trials have been carried
+immunotherapy. Almost exclusively, [[mushroom-cancer-clinical-trials-overview]] have been carried
 out in Japan.
 
 ## Early Clinical Trials (1970s-1980s)
@@ -101,7 +101,7 @@ personalised immunotherapy approaches.
 After a quarter century of trials indicating PSK can improve cancer
 survival, the cumulative human findings amount to a recommendation for
 its inclusion in standard anticancer protocols. With the risk for
-adverse effects virtually nonexistent, PSK's contribution to the
+[[blesching-cannabis-safety-adverse-effects-evidence]] virtually nonexistent, PSK's contribution to the
 benefit-risk profiles of gastric cancer treatment protocols can only be
 positive (Kidd, 2000). PSK can improve immune status secondary to the
 side effects associated with traditional therapies.

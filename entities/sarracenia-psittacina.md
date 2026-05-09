@@ -9,16 +9,16 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Schnell, D.E. (2002). "Carnivorous Plants of the United States and Canada." Timber Press.
+  - Schnell, D.E. (2002). "Carnivorous Plants of the dmt-containing-plants-united-states-halpern and Canada." Timber Press.
   - McPherson, S.R. (2007). "Pitcher Plants of the Americas." Redfern Natural History Productions.
-  - Mellichamp, T.L. & Case, F.W. (2009). "Sarracenia." In: Flora of North America.
+  - Mellichamp, T.L. & Case, F.W. (2009). "Sarracenia." In: Flora of [[psilocybin-north-america-pacific-northwest]].
   - D'Amato, P. (2013). "The Savage Garden." Timber Press.
   - Slack, A. (1979). "Carnivorous Plants." MIT Press.
 ---
 
 ## Overview
 
-Sarracenia psittacina, commonly known as the parrot pitcher plant, is a species of North American pitcher plant native to the southeastern United States. It is distinguished by its reclining, hooded pitchers with a distinctive balloon-like shape.
+Sarracenia psittacina, commonly known as the parrot pitcher plant, is a species of [[growing-gourmet-north-american-reishi-species]] pitcher plant native to the southeastern United States. It is distinguished by its reclining, hooded pitchers with a distinctive balloon-like shape.
 
 The species name "psittacina" derives from the Latin for parrot (*Psittacus*), referring to the resemblance of its hooded pitchers to a parrot's beak. This unique morphology sets it apart from all other Sarracenia species.
 
@@ -94,7 +94,7 @@ Hybrids with S. leucophylla and S. flava have also been documented in the wild. 
 
 In cultivation, S. psittacina is frequently used in hybridization programs. Its compact size and unusual pitcher form make it a valuable parent for producing novel horticultural forms.
 
-The species contributes genes for warm tolerance, compact growth, and reclining pitcher form to its hybrids. Several named cultivars feature S. psittacina in their parentage.
+The species contributes genes for warm tolerance, [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]], and reclining pitcher form to its hybrids. Several named cultivars feature S. psittacina in their parentage.
 
 ## Conservation
 
@@ -104,13 +104,13 @@ Fire suppression has degraded many natural habitats by allowing woody vegetation
 
 The species is listed as vulnerable or imperiled in several states within its range. The Okefenokee Swamp population represents one of the largest remaining concentrations.
 
-Illegal collection from wild populations has been documented. However, the species is widely available through tissue culture and seed propagation, which helps reduce demand for wild-collected plants.
+Illegal collection from wild populations has been documented. However, the species is widely available through [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] and [[jeavons-seed-propagation-techniques]], which helps reduce demand for wild-collected plants.
 
 ## See Also
 
 - [[sarracenia-flava]]
 - [[sarracenia-oreophila]]
-- [[darlingtonia-californica]]
+- darlingtonia californica
 - [[heliamphora-minor]]
 - [[drosera-rotundifolia]]
 - [[pinguicula-vulgaris]]

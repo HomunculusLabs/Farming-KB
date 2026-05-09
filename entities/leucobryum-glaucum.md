@@ -25,7 +25,7 @@ It forms conspicuous pale bluish-white cushions that can reach 10–15 cm in dia
 
 The characteristic white coloration results from specialized leucocysts — large, empty, water-filled cells that reflect light and aid in water retention.
 
-This species is widespread across temperate and boreal regions of the Northern Hemisphere, where it plays an important role in humus formation and forest floor ecology.
+This species is widespread across temperate and boreal regions of the Northern Hemisphere, where it plays an important role in [[lowenfels-humus-formation-benefits]] and forest floor ecology.
 
 ## Taxonomy and Morphology
 
@@ -49,7 +49,7 @@ The calyptra is large, cucullate, and covers most of the capsule. Spores are 12�
 
 ## Distribution and Habitat
 
-*Leucobryum glaucum* is distributed across Europe, Asia, and North America, with scattered populations in montane tropical regions.
+*Leucobryum glaucum* is distributed across Europe, Asia, and [[psilocybin-north-america-pacific-northwest]], with scattered populations in montane tropical regions.
 
 It occurs throughout the British Isles, Scandinavia, Central Europe, the Pacific Northwest of North America, and eastern Asia.
 
@@ -61,7 +61,7 @@ Preferred habitats include pine forests, spruce woods, and oak-beech woodlands w
 
 Elevation ranges from sea level to approximately 2,000 m in mountainous regions.
 
-It is absent from highly calcareous or alkaline substrates and declines in areas with significant atmospheric nitrogen deposition.
+It is absent from highly calcareous or alkaline substrates and declines in areas with significant atmospheric [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]].
 
 ## Ecology and Interactions
 
@@ -73,7 +73,7 @@ Many invertebrate species, including springtails (Collembola) and mites (Acari),
 
 The leucocyst-based water storage system allows the moss to serve as a moisture buffer for the surrounding forest floor community.
 
-*Leucobryum* cushions acidify the underlying substrate through slow decomposition and organic acid exudation.
+*Leucobryum* cushions acidify the underlying substrate through slow decomposition and [[fungal-organic-acid-metal-solubilization]] exudation.
 
 This acidification favors other acidophilic species, contributing to the characteristic understory flora of boreal coniferous forests.
 
@@ -95,7 +95,7 @@ The species is commercially harvested in small quantities for the florist and te
 
 Horticulturists use it as a decorative ground cover in shaded acidic gardens, bonsai arrangements, and woodland plantings.
 
-It has been studied for its ability to accumulate atmospheric pollutants, serving as a passive biomonitor for heavy metal deposition.
+It has been studied for its ability to accumulate atmospheric pollutants, serving as a passive biomonitor for [[dighton-fungal-biosorption-heavy-metal-remediation]] deposition.
 
 The leucocyst structure has attracted research interest in biomimetics for water-harvesting and insulation materials.
 
@@ -103,7 +103,7 @@ The leucocyst structure has attracted research interest in biomimetics for water
 
 *Leucobryum glaucum* can be cultivated in shaded, acidic conditions but grows very slowly, typically less than 5 mm per year.
 
-Propagation is primarily through division of existing cushions, as spore germination and protonemal development are slow and unpredictable.
+Propagation is primarily through division of existing cushions, as [[growing-gourmet-spore-germination-strain-isolation]] and protonemal development are slow and unpredictable.
 
 Optimal cultivation conditions include acidic substrate (pH 4.0–5.5), high humidity, indirect light, and temperatures of 10–20 °C.
 

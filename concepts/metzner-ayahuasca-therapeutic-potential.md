@@ -1,5 +1,5 @@
 ---
-title: Ayahuasca Therapeutic Potential
+title: metzner ayahuasca therapeutic potential Potential
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
@@ -8,10 +8,10 @@ sources: [raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 ---
 # Ayahuasca Therapeutic Potential
 Ayahuasca, the Amazonian psychoactive brew, has demonstrated significant therapeutic
-potential across multiple contexts -- from traditional indigenous shamanic healing to
+potential across multiple contexts -- from traditional indigenous [[metzner-shamanic-healing-and-divination-paradigm]] to
 syncretic Brazilian church ceremonies [[mushroom-cultivation-for-food-and-medicine]].
 ### Three Distinctive Features of Traditional Ceremonies
-Traditional ayahuasca ceremonies share three features with other shamanic entheogenic
+Traditional [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] share three features with other [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]]
 rituals that distinguish them from Western psychotherapy:
 1. **Minimal verbal interaction**: Very little or no talking among participants,
    except perhaps during preparatory phase or after the experience to clarify
@@ -51,7 +51,7 @@ effects -- and indeed with a reduction of addictions and other psychopathologies
 finding is particularly significant given that ayahuasca church members come from all
 walks of life and both urban and rural environments. The churches are officially
 recognized and the use of ayahuasca is legal in Brazil within this framework. Two of
-the churches have established significant satellite centers in North America and
+the churches have established significant satellite centers in [[psilocybin-north-america-pacific-northwest]] and
 Europe.
 ## Hybrid Shamanic-Therapeutic Rituals
 In the modern Western world, hybrid therapeutic-shamanic circle rituals incorporating
@@ -67,7 +67,7 @@ psychotherapeutic approaches. These typically include:
 - Cultivation of a respectful, spiritual attitude
 Participants in these hybrid rituals are typically experienced in psychospiritual
 practices including shamanic drum journeying, Buddhist vipassana meditation, tantra
-yoga, and holotropic breathwork. Most have experienced and/or practiced various forms
+yoga, and [[metzner-holotropic-breathwork-and-grof-perinatal-matrices]]. Most have experienced and/or practiced various forms
 of psychotherapy and body-oriented therapy. The insights from these practices are
 woven into work with the entheogenic medicines, which participants confirm function to
 ## See Also
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

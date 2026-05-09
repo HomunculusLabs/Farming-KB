@@ -5,7 +5,8 @@ tags: [copelandia, panaeolus, mycology, mushroom-profile, tropical]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "~/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
 # Copelandia cambodginiensis Profile
@@ -31,7 +32,7 @@ upper regions of the stem are irregular with horizontal fissures.
 Young primordia sometimes show a fragile annular zone, though this
 is not persistent. The stem is whitish to cream in color, brown
 near the base, and rapidly bruises bluish when injured, a hallmark
-of the [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]. The strong bluing reaction is consistent
+of the [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]. The strong [[field-guide-psilocybin-bluing-reaction-identification]] is consistent
 with the relatively high psilocin content. The golden color of the
 cap, especially towards the disc, is noted by Ola'h (1969) as a
 distinguishing feature from close relatives.
@@ -40,7 +41,7 @@ distinguishing feature from close relatives.
 
 According to Ola'h (1969), P. cambodginiensis is larger in stature
 than its close relative Panaeolus tropicalis and generally smaller
-than [[tropisms-psilocybe-cubensis-gravitropism]] and [[copelandia-cambodginiensis]]
+than tropisms-psilocybe-cubensis-gravitropism and [[copelandia-cambodginiensis]]
 ## Practical Considerations
 
 When working with Copelandia cambodginiensis Profile, several practical factors should be
@@ -57,7 +58,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,4 +100,5 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+## See Also
+- [[panaeolus-tropicalis]]

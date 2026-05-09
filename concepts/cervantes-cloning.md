@@ -1,10 +1,11 @@
 ---
-title: "Cannabis Cloning and Mother Plant Management"
+title: "Cannabis cannabis-cloning-and-mother-plants Plant Management"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
 tags: [cannabis]
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
@@ -19,7 +20,7 @@ Rooting hormones significantly improve clone success rates by stimulating root i
 - **IBA (indole-3-butyric acid)**: Most widely used synthetic rooting hormone. Available in powder, liquid, and gel formulations. Powder forms are convenient and less likely to transmit disease between clones. Liquid and gel formulations provide more uniform coverage.
 - **NAA (naphthaleneacetic acid)**: Sometimes combined with IBA for synergistic effect. Effective for harder-to-root strains.
 - **Clonex and similar gels**: Popular gel-based products that cling to the cut stem and seal the wound against air and pathogens. They combine rooting hormone with vitamins and antimicrobial agents.
-- **Willow water**: A natural alternative made by steeping willow branches in water. Willow contains natural salicylic acid and auxins that promote rooting.
+- **Willow water**: A natural alternative made by steeping willow branches in water. Willow contains natural [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]] and auxins that promote rooting.
 
 Application method matters: dip the cut end 1-2 inches into the rooting hormone, tap off excess (for powders), and insert immediately into the rooting medium. Avoid contaminating the hormone container by never dipping cut stems directly into the main supply.
 
@@ -27,7 +28,7 @@ Application method matters: dip the cut end 1-2 inches into the rooting hormone,
 
 Several recurring issues can reduce clone success rates:
 - **Wilting after cutting**: Caused by insufficient humidity or excessive transpiration through untrimmed leaves. Increase dome humidity and ensure fan leaves are trimmed by at least half.
-- **Slowed rooting from flowering mothers**: Clones taken from plants in week 3+ of flower carry hormonal signals that delay vegetative reversion. Expect 2-4 weeks for re-vegging after rooting, and monitor for abnormal leaf morphology (single-finger or "rabbit ear" leaves) during the transition.
+- **Slowed rooting from flowering mothers**: Clones taken from plants in week 3+ of flower carry hormonal signals that delay vegetative reversion. Expect 2-4 weeks for re-vegging after rooting, and monitor for abnormal [[cannabis-leaf-morphology-and-phyllotaxy]] (single-finger or "rabbit ear" leaves) during the transition.
 - **Stem rot at the cut site**: Usually caused by contaminated rooting medium or dipping too many cuttings into the same hormone solution. Sterilize tools between each cut and use fresh medium.
 - **Algae on rockwool cubes**: Indicates excessive light exposure at the root zone. Cover cubes with opaque material or reduce light intensity during the rooting window.
 ## Practical Applications
@@ -107,4 +108,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

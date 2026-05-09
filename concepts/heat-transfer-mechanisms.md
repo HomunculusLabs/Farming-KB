@@ -4,13 +4,14 @@ created: 2026-04-28
 tags: [physics, thermodynamics, engineering, heat-transfer]
 date: 2026-05-02
 updated: 2026-05-02
-sources: []
+sources:
+  sources: []
 type: concept
 ---
 
 ## Overview
 
-Heat transfer is the transport of thermal energy from regions of
+Heat transfer is the transport of [[phase-change-materials-thermal-energy-storage]] from regions of
 higher temperature to regions of lower temperature, driven by
 temperature gradients. It is governed by three fundamental
 mechanisms: conduction, convection, and radiation. Understanding
@@ -55,7 +56,7 @@ configurations.
 
 Thermal radiation is electromagnetic energy emission by matter at
 finite temperature. Unlike conduction and convection, it requires
-no medium and propagates through vacuum, enabling solar energy to
+no medium and propagates through vacuum, enabling [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] to
 reach Earth. All bodies above absolute zero emit radiation. The
 Stefan-Boltzmann law gives the maximum emissive power of an ideal
 blackbody: q equals sigma times T to the fourth power, where

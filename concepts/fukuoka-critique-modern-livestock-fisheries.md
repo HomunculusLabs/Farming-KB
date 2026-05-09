@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka Critique of Modern Livestock and Fisheries"
+title: "Fukuoka fukuoka-road-critique-of-modern-science Livestock and Fisheries"
 tags: [fukuoka, natural-farming, livestock, fisheries, sustainability, land-use]
 date: 2026-04-28
 updated: 2026-04-28
@@ -38,7 +38,7 @@ diets and the [[natural-diet]] for animals as much as
 for humans:
 
 - **[[query-how-do-parasitoid-wasps-control-pest-populations]] cts and seeds without commercial feed. They supplement
-  their own diet, control pest populations, and deposit fertility wherever
+  their own diet, [[query-how-do-parasitoid-wasps-control-pest-populations]] populations, and deposit fertility wherever
   they roam.
 
 - **Rabbits** living in thickets and brush, reproducing naturally and harvested
@@ -46,7 +46,7 @@ for humans:
   veterinary intervention.
 
 - **Ducks** integrated into rice paddies, eating pests and weeds while
-  fertilizing the water — a form of [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]] des that further degrade marine ecosystems. The
+  fertilizing the water — a form of [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]] des that further degrade [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]]. The
 ocean, like the soil, is being destroyed by the same pattern of intervention
 a [[fukuoka-natural-farming-philosophy]] insists on minimal
 intervention. Every action taken to "improve" nature carries the risk of
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

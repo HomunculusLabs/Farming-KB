@@ -1,5 +1,5 @@
 ---
-title: Fukuoka Natural Farming
+title: masanobu-fukuoka-natural-farming-philosophy Farming
 created: 2026-04-28
 tags:
   - natural-farming
@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Masanobu Fukuoka, "The Natural Way of Farming: The Theory and Practice of Green Philosophy"
+  - Masanobu Fukuoka, "The Natural Way of Farming: The Theory and Practice of fukuoka-sowing-green-philosophy-one-grain-revolution"
 type: concept
 ---
 
@@ -25,7 +25,7 @@ nature itself cultivate the land.
 ## The Five Principles
 
 Fukuoka distilled his method into five foundational prohibitions, each challenging a core
-assumption of conventional and organic farming:
+assumption of [[jadam-conventional-and-organic-pesticide-integration]] farming:
 
 1. **No tillage** -- The soil is never plowed or turned. Fukuoka argued that plowing
    kills soil structure: "Flood a field with water, stir it up with a plow and the
@@ -33,9 +33,9 @@ assumption of conventional and organic farming:
    animals function as nature's tillers, maintaining aeration and fertility without
    destruction.
 
-2. **No fertilizer** -- No synthetic or organic fertilizers are applied. Fukuoka
+2. **No fertilizer** -- No synthetic or [[hamilton-organic-fertilizers-and-plant-nutrition]] are applied. Fukuoka
    demonstrated that one gram of his soil contained roughly 100 million
-   nitrogen fixing bacteria, which together with decaying plant matter sustain the
+   nitrogen [[biological-nitrogen-fixation-agriculture]], which together with decaying plant matter sustain the
    soil's nutrient cycle indefinitely. The clover cover crop alone fixes sufficient
    nitrogen for both the rice and winter grain rotations.
 
@@ -46,7 +46,7 @@ assumption of conventional and organic farming:
    rebound even stronger, creating a cycle of escalating chemical dependence.
 
 4. **No weeding** -- Weeds are not uprooted or poisoned. They are managed indirectly
-   through cover cropping with [[jadam-rice-pesticide-program]] and winter grain rotation on Matsuyama flatland. The annual cycle
+   through [[natural-farming-guide-cover-cropping-and-green-manures]] with [[jadam-rice-pesticide-program]] and winter grain rotation on Matsuyama flatland. The annual cycle
 proceeds as follows:
 
 - **Autumn:** While rice is still standing in the paddy, [[desert-revegetation]]. His clay pellet method coats seeds of green manure
@@ -54,7 +54,7 @@ trees (such as black wattle), clover, alfalfa, bur clover, grain, and vegetables
 layer of soil, then encases them in clay. These pellets protect seeds from desiccation
 and predation until rain triggers germination.
 
-He articulated a counterintuitive and widely cited principle about [[permaculture]] movement, the
+He articulated a counterintuitive and widely cited principle about permaculture movement, the
 [[biodiversity-fungal-community-assembly]], and minimal intervention anticipated
 many principles later validated by [[regenerative-agriculture]] research.
 
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

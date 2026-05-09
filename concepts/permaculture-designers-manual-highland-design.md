@@ -1,5 +1,5 @@
 ---
-title: Highland and Mountain Climate Design
+title: Highland and mollison-valley-and-mountain-climate-effects Design
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 
 # Highland and Mountain Climate Design
 
-> Source: Bill Mollison, *Permaculture: A Designers' Manual* (1988), Chapters 5, 10, and 12
+> Source: [[bill-mollison]], *Permaculture: A Designers' Manual* (1988), Chapters 5, 10, and 12
 
 ## Overview
 
@@ -19,7 +19,7 @@ Highland and mountain environments present unique design challenges: steep slope
 
 For a stable tropical land system on volcanic or hill profiles, the following features are needed:
 
-1. **Protected skyline and hill forests**: Mine and release plant nutrients from upper slopes; used for limited forage and mulch. Their clearing brings compound catastrophes -- landslide, loss of nutrient, desertification. At the base of these forests, as slope eases to 15 degrees or less, water can be diverted or harvested.
+1. **Protected skyline and hill forests**: Mine and release plant nutrients from upper slopes; used for limited forage and mulch. Their clearing brings compound catastrophes -- landslide, loss of nutrient, [[desertification]]. At the base of these forests, as slope eases to 15 degrees or less, water can be diverted or harvested.
 
 2. **Midslope or keypoint**: Diversion of stream water here leads water out to ridges for terrace crop and village use. Complex cultivated forests and gardens established downslope. The stable plateau, the hill rising above the valley, and bench sites above flood reach and sheltered from hurricane are prime cluster settlement sites.
 
@@ -79,7 +79,7 @@ Where frost penetration to 1.2 m in pastures is common (e.g. Iceland):
 - Sheep, cattle, and horses shedded and hay-fed for 6 months/year
 - Grazed in uplands for 3+ months, on lowland pastures for 3 months
 - Frost heave needs levelling, re-sodding with peats, or rest from grazing
-- Mixed-livestock economy and long-term rotational grazing help control Helminth worm parasites
+- Mixed-livestock economy and long-term [[comparison-rotational-grazing-vs-continuous-grazing]] help control Helminth worm parasites
 - Kale, rape, ryegrass, barley, rye used as fodder, silage, or winter hay
 
 ### Deficiency Monitoring
@@ -103,12 +103,12 @@ Shrub and tree browsing is little developed, although willow and dwarf birch spe
 - 50%: strictly not for tree clearing, needs permanent forest
 - 40%: maximum a track machine can safely traverse
 - 30%: can be cautiously harvested for firewood or coppice, benched for access
-- 20%: maximum for safe cultivation and erosion control; wheeled tractors at about 18%
+- 20%: maximum for safe cultivation and [[permplant-willows-salix-erosion-control-fodder]]; wheeled tractors at about 18%
 - 10%: may need contour banking and careful use
 
 ## Related Topics
 
-- [[permaculture-designers-manual-cold-climates]] - Cold climate overview
-- [[permaculture-designers-manual-settlement-design]] - Settlement design
-- [[permaculture-designers-manual-frost-protection]] - Frost protection
+- permaculture-designers-manual-cold-climates - [[permaculture-designers-manual-cold-climate-design]] overview
+- permaculture-designers-manual-settlement-design - [[cool-climate-settlement-design-mollison]]
+- permaculture-designers-manual-frost-protection - [[holzer-frost-protection-techniques]]
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]

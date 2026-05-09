@@ -13,7 +13,7 @@ sources:
   - https://www.leafly.com/strains/acdc - strain profile and user reviews
   - https://www.wikileaf.com/strain/acdc/ - laboratory analysis data
   - Deabold, B. et al. (2019). "Phytocannabinoid and terpene profile of high-CBD cannabis strains." Cannabis and Cannabinoid Research.
-  - Mücke, M. et al. (2018). "Cannabidiol in the treatment of chronic pain." Journal of Clinical Pharmacy and Therapeutics.
+  - Mücke, M. et al. (2018). "Cannabidiol in the treatment of [[cannabis-chronic-pain-management]]." Journal of Clinical Pharmacy and Therapeutics.
 ---
 
 # ACDC (Cannabis Strain)
@@ -31,7 +31,7 @@ The strain was named in reference to the band AC/DC and the contrast between its
 | Attribute | Detail |
 |-----------|--------|
 | Type | Sativa-dominant hybrid (approximately 50/50 to 60/40 sativa-indica) |
-| Lineage | Cannatonic phenotype selection |
+| Lineage | Cannatonic [[vic-high-cannabis-phenotype-selection-criteria]] |
 | Breeder | Resin Seeds (original Cannatonic line); phenotype stabilized by multiple cultivators |
 | P1 cross | Select Cannatonic cutting exhibiting extreme CBD expression |
 | Landrace ancestry | Thai sativa and MK Ultra (G13 × Afghani) via Cannatonic |
@@ -65,7 +65,7 @@ ACDC's therapeutic effects are significantly modulated by its terpene compositio
 | [[linalool]] | 0.1–0.3% | Floral, lavender | Calming, anxiolytic, sedative |
 | [[screen-of-green]]) work well to manage height and maximize canopy evenness. Topping encourages lateral branching and increases yield.
 - **Nutrients:** Moderate feeder; avoid excessive nitrogen during flowering as it can reduce terpene and cannabinoid production. CalMag supplementation important during weeks 3–6 of flowering.
-- **Harvest timing:** CBD peaks slightly earlier than THC in the flowering window. Harvest at approximately 70–80% cloudy trichomes with minimal amber for optimal CBD:THC ratio.
+- **[[cannabis-harvest-timing-visual-cues]]:** CBD peaks slightly earlier than THC in the flowering window. Harvest at approximately 70–80% cloudy trichomes with minimal amber for optimal CBD:THC ratio.
 - **Post-harvest:** Slow dry (10–14 days at 15–18°C, 55–60% RH) preserves terpene profile. Cure for minimum 4 weeks in sealed containers with 62% humidity packs.
 
 ## Legal Status
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

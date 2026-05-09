@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's Ideal Rice Plant Morphology for High-Yield Natural Farming
+title: Fukuoka's Ideal Rice Plant Morphology for High-Yield comparison-natural-farming-vs-permaculture
 created: 2026-04-28
 tags:
   - fukuoka
@@ -39,7 +39,7 @@ The ideal rice plant has a stalk height of just 21 inches. Leaves are short, wid
 The weight of unhulled grain is 150 to 167 percent that of the straw. In ordinary rice, this ratio is less than 70 percent, generally 40 to 50 percent. When a dried stalk is balanced on a fingertip, the point of equilibrium is close to the neck of the panicle rather than near the center of the stalk. This extraordinary grain-to-straw ratio indicates the plant's concentrated energy storage.
 
 ### 3. Elongated First Internode
-The first internode at the top of the plant is more than fifty percent of total stalk length. When the plant is bent downward at the first node, the panicle extends below the base of the stalk. The longer this first internode and the larger its ratio to overall stalk length, the better. This ensures efficient nutrient transport to the grain head.
+The first internode at the top of the plant is more than fifty percent of total stalk length. When the plant is bent downward at the first node, the panicle extends below the base of the stalk. The longer this first internode and the larger its ratio to overall stalk length, the better. This ensures efficient [[mycelial-network-nutrient-transport-imaging-gadd]] to the grain head.
 
 ### 4. Inverted Leaf Length Pattern
 The leaf blade on the second leaf down is longer than that of any other leaf. Thereafter, the leaf blade becomes shorter as one moves down the stalk. This inverted triangular shape gives a rice plant that does well in the fall, the exact reverse of what is generally thought to be the correct shape of rice. In rice that is not high-yielding, the lower leaves are longer, with the longest being the fourth leaf.
@@ -58,9 +58,9 @@ Even at a density of 500 stalks per square yard, hardy upright dwarf rice shows 
 
 ## The Cultivation Philosophy Behind the Form
 
-Fukuoka arrived at these morphological ideals not by breeding but by cultivation method. His approach was to suppress rather than promote vegetative growth. He did not irrigate during the first half of the growing season and applied fresh straw to the field to check plant response to a basal application of fertilizer. As it turned out, he was correct. He came to believe that internodal growth between the fifth and sixth nodes should be suppressed, and that rice can do fine with just three above-ground nodes.
+Fukuoka arrived at these morphological ideals not by breeding but by [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]]. His approach was to suppress rather than promote [[cannabis-vegetative-growth-stage]]. He did not irrigate during the first half of the growing season and applied fresh straw to the field to check plant response to a basal application of fertilizer. As it turned out, he was correct. He came to believe that internodal growth between the fifth and sixth nodes should be suppressed, and that rice can do fine with just three above-ground nodes.
 
-In the ideal plant, internode lengths each decrease by half from top to bottom. Not only does this indicate steady, orderly growth of the rice, it also means that internodal growth occurs only starting at the young panicle formation stage. The ideal rice plant remains small and yellow during the vegetative stage, but the leaves gradually turn greener during the reproductive stage. Changes in the nutritional state are steady and entirely unremarkable.
+In the ideal plant, internode lengths each decrease by half from top to bottom. Not only does this indicate steady, orderly growth of the rice, it also means that internodal growth occurs only starting at the young panicle formation stage. The ideal rice plant remains small and yellow during the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]], but the leaves gradually turn greener during the reproductive stage. Changes in the nutritional state are steady and entirely unremarkable.
 
 ## Sparse Seeding for Natural Form
 
@@ -84,7 +84,7 @@ When all the leaves are erect, large top leaves give a better yield, but if the 
 
 Fukuoka argued that the total energy absorbed by rice, green manure, algae, and earth in a nearly natural field is greater than the energy stored from the sun's rays by rice plants alone. The true value of energy cannot be determined merely by counting calories; the quality of energy produced within the plant by conversion from absorbed energy must also be considered. There is a world of difference between looking only at the amount of energy received by the rice plant and taking a holistic view.
 
-Scientific farming views weeds growing at the base of rice plants only as pests that rob sunlight and nutrients. But removing weeds with herbicides upsets the delicate balance of nature, destroying the ecosystem of insects and microorganisms dependent on those weeds. Unbalanced rice is diseased rice, and therefore highly susceptible to concentrated attack by disease and insect pests.
+[[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] views weeds growing at the base of rice plants only as pests that rob sunlight and nutrients. But removing weeds with herbicides upsets the delicate balance of nature, destroying the ecosystem of insects and microorganisms dependent on those weeds. Unbalanced rice is diseased rice, and therefore highly susceptible to concentrated attack by disease and insect pests.
 
 Before pulling the weeds growing at the base of the rice plants, natural farming asks why they are there. Are these grasses the by-product of human action or did they arise spontaneously and naturally? If the latter, then they are without doubt of value and are left to grow. The natural farmer takes care to allow natural plants that protect the natural soil to carry out their mission.
 
@@ -115,3 +115,7 @@ The guardian of a watermelon patch does not watch the watermelons, he looks out 
 - [[fukuoka-textdoc-ideal-form-high-yielding-rice]]
 - [[fukuoka-natural-soil-fertility]]
 - [[fukuoka-textdoc-sparse-seeding-natural-high-yield-rice]]
+
+## See Also
+
+- [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]]

@@ -9,11 +9,11 @@ sources:
 ---
 # Permaculture Goat and Cattle Integration
 
-Permaculture goat and cattle integration is the design of grazing animal systems within permaculture landscapes to provide milk, meat, fibre, and manure while performing land management functions including weed control, pasture renovation, nutrient cycling, and fire prevention. Bill Mollison addresses goat and cattle management in various sections of Permaculture: A Designers' Manual, including the animal integration chapter, the humid tropics chapter, and the cool climates chapter. The integration of large herbivores into permaculture systems requires careful management to prevent overgrazing while maximising their beneficial functions.
+Permaculture goat and cattle integration is the design of grazing animal systems within permaculture landscapes to provide milk, meat, fibre, and manure while performing land management functions including weed control, pasture renovation, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and fire prevention. Bill Mollison addresses goat and cattle management in various sections of Permaculture: A Designers' Manual, including the [[mollison-animal-integration-permaculture-design]] chapter, the humid tropics chapter, and the cool climates chapter. The integration of large herbivores into permaculture systems requires careful management to prevent overgrazing while maximising their beneficial functions.
 
 ## Functions of Grazing Animals
 
-Grazing animals perform multiple functions in permaculture systems beyond meat and milk production. They convert pasture and browse that humans cannot digest into high-quality protein. Their manure distributes fertility across the landscape. Their grazing stimulates root growth in grasses and promotes pasture diversity. Their trampling incorporates litter into the soil surface. Selective grazing can control specific weed species.
+Grazing animals perform multiple functions in permaculture systems beyond meat and milk production. They convert pasture and browse that humans cannot digest into high-quality protein. Their manure distributes fertility across the landscape. Their grazing stimulates root growth in grasses and promotes pasture diversity. Their trampling incorporates litter into the soil surface. [[dighton-selective-grazing-fungal-community-shifts]] can control specific weed species.
 
 Goats are particularly effective browsers, consuming woody plants, shrubs, and weeds that cattle avoid. This makes goats valuable for reclaiming overgrown or neglected land. Cattle are efficient grazers of grasses and legumes, converting pasture biomass into meat and milk. Both species can be integrated with cropping, forestry, and water management systems.
 
@@ -45,7 +45,7 @@ High-density, short-duration grazing maximises the beneficial effects of grazing
 
 Integrated fodder systems combine tree fodder, pasture, and crop residues to provide year-round nutrition for goats and cattle. Tree fodder is particularly important in tropical and subtropical systems where dry seasons reduce pasture availability. Fodder trees including Leucaena, Gliricidia, Calliandra, Sesbania, and various Acacia species provide protein-rich browse throughout the year.
 
-Fodder trees can be integrated as hedgerows along fence lines, as alley cropping within pastures, or as dedicated woodlots. Coppicing management produces regular harvests of fresh fodder from the same trees. In cool climates, willow, poplar, and tagasaste provide fodder during periods when pasture growth is limited.
+Fodder trees can be integrated as hedgerows along fence lines, as [[comparison-alley-cropping-vs-silvopasture]] within pastures, or as dedicated woodlots. [[mollison-designers-coppicing-management-of-legume-trees]] produces regular harvests of fresh fodder from the same trees. In cool climates, willow, poplar, and tagasaste provide fodder during periods when pasture growth is limited.
 
 Crop residues including straw, corn stover, and legume hay provide dry-season feed. These can be supplemented with fodder trees, conserved hay, and silage. Mollison emphasises the importance of tree forage and tall grass hand-fed to domestic stock as a strategy for sustainable animal production in the tropics.
 
@@ -67,7 +67,7 @@ Shade and shelter should be available in every paddock. Trees provide natural sh
 
 ## Integration with Other Systems
 
-Goats and cattle integrate with many other permaculture systems. In agroforestry systems, animals graze between tree rows, controlling weeds and fertilising trees. In orchard systems, poultry and small ruminants clean up fallen fruit and control pests. In rice paddies, ducks and water buffalo control weeds and pests while fertilising the crop.
+Goats and cattle integrate with many other permaculture systems. In agroforestry systems, animals graze between tree rows, controlling weeds and fertilising trees. In orchard systems, poultry and small ruminants clean up fallen fruit and [[query-how-to-control-pests-without-chemicals]]. In rice paddies, ducks and water buffalo control weeds and pests while fertilising the crop.
 
 In cool climate systems, Mollison describes the integration of livestock with hay storage, field shelter, and root crop production for winter fodder. Barns and outbuildings must be solid, well-designed, and carefully assessed for thermal efficiency. Pastures and remnant prairie and meadow are uniquely suited to these regions.
 
@@ -77,6 +77,6 @@ In cool climate systems, Mollison describes the integration of livestock with ha
 
 [[animal-tractoring]]
 
-[[forage-systems-animals-permaculture]]
+forage-systems-animals-permaculture
 
 [[permaculture-design]]

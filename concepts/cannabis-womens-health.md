@@ -45,7 +45,7 @@ Cannabis has been used historically for morning sickness. THC's well-established
 The endocannabinoid system is involved in:
 - **Embryo implantation**: Anandamide levels must be precisely balanced for successful implantation
 - **Ovarian function**: CB1 receptors modulate follicle development and ovulation
-- **Childbirth pain**: Cannabis has documented analgesic properties applicable to labor pain management
+- **Childbirth pain**: Cannabis has documented analgesic properties applicable to labor [[cannabis-pain-management-protocols]]
 
 ## Libido and Sexual Function
 
@@ -59,13 +59,13 @@ The neurochemistry of sexual arousal and cannabis share similarities: both dilat
 - Anandamide (the body's own cannabinoid) enhances pleasure experience (University of Michigan, 2007)
 
 ### The Dose Paradox
-Too high a dose can deepen anxieties and reduce sensations. The therapeutic window is narrow and highly individual. Users are advised to begin with low to medium doses gently and over time.
+Too high a dose can deepen anxieties and reduce sensations. The [[blesching-cannabis-therapeutic-window-dosing]] is narrow and highly individual. Users are advised to begin with low to medium doses gently and over time.
 
 Hindu Tantric scriptures dating back over 1,000 years describe cannabis use to enhance sexual pleasure and facilitate enlightenment.
 
 ## Menopause
 
-While not specifically studied in the Cannabis Health Index, cannabis's effects on:
+While not specifically studied in the [[blesching-cannabis-health-index-autoimmune-conditions]], cannabis's effects on:
 - Sleep disturbance (insomnia treatment)
 - Mood changes (antidepressant and anxiolytic properties)
 - Bone density (CB2 receptors in bone tissue)
@@ -79,7 +79,7 @@ make it potentially relevant for menopausal symptom management.
 - **Endometriosis and menstrual pain**: Indica strains (lower THC:CBD ratio) for anti-inflammatory and antispasmodic effects via CB2 activation
 - **Libido enhancement**: Sativa strains (higher THC:CBD ratio) for euphoric and sensation-enhancing effects
 - **Morning sickness**: Very low doses; consider CBD-dominant preparations to minimize psychoactive effects
-- **Menopausal symptoms**: Strain selection should target the predominant symptom (indica for sleep/pain, sativa for mood/energy)
+- **Menopausal symptoms**: [[blesching-cannabis-strain-selection-receptor-targeting]] should target the predominant symptom (indica for sleep/pain, sativa for mood/energy)
 
 ## Safety Considerations
 

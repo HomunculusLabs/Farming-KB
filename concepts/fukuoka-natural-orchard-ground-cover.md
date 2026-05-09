@@ -1,5 +1,5 @@
 ---
-title: "Natural Orchard Ground Cover — Clover, Alfalfa, and Acacia"
+title: "fukuoka-natural-orchard-development Ground Cover — Clover, Alfalfa, and Acacia"
 type: concept
 tags:
   - natural-farming
@@ -25,21 +25,21 @@ sustained soil fertility, tree health, and pest resistance simultaneously.
 
 In a conventional orchard, the ground between trees is kept bare through
 herbicide application or cultivation. Nutrients must then be supplied
-externally through synthetic or organic fertilizers.
+externally through synthetic or [[hamilton-organic-fertilizers-and-plant-nutrition]].
 
 Fukuoka inverted this approach. By maintaining a permanent living ground
 cover, the soil was continuously fed from below. Clover and alfalfa, both
 leguminous, fixed atmospheric nitrogen through their root-associated
-bacteria. Their decomposition added organic matter and released minerals.
+bacteria. Their decomposition added [[hamilton-composting-and-organic-matter-management]] and released minerals.
 
 The ground cover plants also sent deep root systems into the subsoil,
 bringing up nutrients that would otherwise be unavailable to the shallow
-roots of fruit trees. This dynamic nutrient cycling made external
+roots of fruit trees. This dynamic [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] made external
 fertilization unnecessary.
 
 ## Ladino Clover
 
-Ladino clover was the primary ground cover in Fukuoka's citrus orchard.
+Ladino clover was the primary ground cover in Fukuoka's [[fukuoka-citrus-orchard-establishment-bare-hillside]].
 This large white clover variety spreads by stolons and forms a dense mat
 that suppresses unwanted weeds through competition rather than
 eradication.
@@ -128,8 +128,10 @@ contributed to soil health and biodiversity within the orchard ecosystem.
 
 ## See Also
 
+- [[fukuoka-natural-orchard-ground-cover-system]]
+
 - [[fukuoka-straw-mulch-system]]
 - [[natural-farming-guide-cover-cropping-and-green-manures]]
 - [[natural-farming-soil-building]]
 - [[fukuoka-soil-fertility-straw-mulch]]
-- natural farming ground cover and straw mulching
+- [[comparison-natural-farming-vs-permaculture]] ground cover and straw mulching

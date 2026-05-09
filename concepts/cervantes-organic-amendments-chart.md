@@ -1,5 +1,5 @@
 ---
-title: Organic Amendments Chart for Cannabis
+title: cervantes organic amendments chart Chart for Cannabis
 created: 2026-04-26
 tags:
   - cannabis
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -32,10 +33,10 @@ Collected at slaughterhouses, dried, and ground into a powder. Packed
 with fast-acting soluble nitrogen (12 to 15 percent by weight), about 1.2
 percent [[cannabis-potassium]]. This
 natural fertilizer is difficult to over-apply and is immediately available
-to plants. Even deodorized fish emulsion smells like dead fish.
+to plants. Even deodorized [[solomon-foliar-feeding-fish-emulsion-and-kelp]] smells like dead fish.
 
 ### Seabird Guano
-High in nitrogen and other nutrients. South American guano from the coast
+High in nitrogen and other nutrients. [[chiric-caspi-brunfelsia-south-american-hallucinogen]] guano from the coast
 of Peru and northern Chile is considered the world's best. The Humboldt
 Current keeps rain from falling, and decomposition is minimal. Guano is
 scraped off rocks of arid sea islands. Nutrient content varies by source.
@@ -56,7 +57,7 @@ growers use pelletized animal feed as a slow-release fertilizer.
 Fresh animal bones boiled or steamed under pressure to render out fats.
 Contains up to 30% phosphorus and about 1.5% nitrogen. The finer the
 grind, the faster it becomes available. Lime content helps reduce soil
-acidity. Use in conjunction with other organic fertilizers for best
+acidity. Use in conjunction with other [[hamilton-organic-fertilizers-and-plant-nutrition]] for best
 results.
 
 ### Rock Phosphate (Hard)
@@ -74,8 +75,8 @@ few months.
 Kelp is the "cadillac" of trace minerals. Seaweed contains 60 to 70 trace
 minerals already chelated (water-soluble and mobile). Seaweed meal is
 packed with potassium, trace elements, vitamins, amino acids, and plant
-hormones. Contributes to soil life, structure, and nitrogen fixation.
-Kelp meal also eases transplant shock.
+hormones. Contributes to soil life, structure, and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
+Kelp meal also eases [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]].
 
 Liquid seaweed contains N-P-K, all necessary trace elements in chelated
 form, and plant hormones. Apply diluted to soil for quick deficiency

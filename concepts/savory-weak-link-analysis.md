@@ -1,5 +1,5 @@
 ---
-title: Weak Link Analysis
+title: savory weak link analysis Analysis
 created: 2026-04-28
 tags: [financial-planning, decision-making, management-guidelines]
 date: 2026-04-25
@@ -11,10 +11,10 @@ type: concept
 
 # Weak Link Analysis
 
-In [[savory-testing-and-management-guidelines]] used in [[savory-brittle-environments]] with fifteen inches of rainfall. The ranch has
+In  used in [[savory-brittle-environments]] with fifteen inches of rainfall. The ranch has
 carried a conventional [[savory-animal-impact-and-herd-effect]] and long [[savory-ranch-financial-planning]], the weak
 link analysis is applied annually to guide reinvestment decisions. The
-annual reinvestment cycle shows how solar dollars flow through the three
+annual reinvestment cycle shows how [[savory-solar-dollars-and-wealth-classification]] flow through the three
 links and where the constraint lies. The goal is to minimize the use of
 mineral and paper dollars (nonrenewable wealth) and maximize the
 generation of solar dollars (renewable wealth from sunlight capture).
@@ -107,4 +107,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -1,5 +1,5 @@
 ---
-title: Cap and Stem Alkaloid Distribution in Psilocybe cubensis Strains
+title: Cap and Stem Alkaloid Distribution in Psilocybe psilocybe-cubensis-strains-names-and-marketing
 tags:
   - psilocybin
   - psilocin
@@ -17,7 +17,7 @@ created: 2026-04-28
 
 # Cap and Stem Alkaloid Distribution in Psilocybe cubensis Strains
 
-Bigwood and Beug (1982) performed cap-versus-stem alkaloid analysis on three strains of [[psilocybin]] is concentrated in the caps, while the small amounts of psilocin present in first-flush mushrooms are found predominantly or exclusively in the stems. This tissue-specific compartmentalization provides insight into the spatial organization of tryptamine metabolism in fungal fruiting bodies.
+Bigwood and Beug (1982) performed cap-versus-stem alkaloid analysis on three strains of [[psilocybin]] is concentrated in the caps, while the small amounts of psilocin present in first-flush mushrooms are found predominantly or exclusively in the stems. This tissue-specific compartmentalization provides insight into the spatial organization of tryptamine metabolism in [[brassinosteroid-fungal-fruiting-body-morphology]] bodies.
 
 ## Analytical Results: First Flush Cap vs Stem
 
@@ -43,7 +43,7 @@ All values in mg/g dry weight, first flush, rye-grain substrate. Caps and stems 
 
 In the M.R. and Ecuadorian strains, caps contained approximately **1.5 to 1.6 times** more psilocybin than stems. The Amazon strain was unique in showing equal psilocybin levels in caps and stems (5.7 mg/g each), suggesting strain-dependent differences in tissue distribution that may relate to underlying genetic variation in transport or compartmentalization mechanisms.
 
-The higher psilocybin concentration in caps aligns with the biological role of the pileus as the spore-producing organ. The cap represents the metabolically most active tissue during sporulation, and secondary metabolites like psilocybin may serve protective or signaling functions concentrated where reproductive structures develop. The hymenium (spore-bearing surface on the gills) is located entirely within the cap, further supporting the hypothesis that alkaloid concentration tracks with reproductive tissue density.
+The higher psilocybin concentration in caps aligns with the biological role of the pileus as the spore-producing organ. The cap represents the metabolically most active tissue during sporulation, and [[antifungal-secondary-metabolites-coprophilous-fungi]] like psilocybin may serve protective or signaling functions concentrated where reproductive structures develop. The hymenium (spore-bearing surface on the gills) is located entirely within the cap, further supporting the hypothesis that alkaloid concentration tracks with reproductive tissue density.
 
 ### Psilocin Is Stem-Localized in Early Flushes
 
@@ -52,7 +52,7 @@ In the M.R. and Ecuadorian strains, all detectable psilocin in first-flush mushr
 This stem-localization of psilocin in two of three strains is particularly interesting because it suggests that the dephosphorylation of psilocybin to psilocin may occur preferentially in stipe tissue, possibly due to several mechanisms:
 
 - **Different phosphatase enzyme expression** in stem versus cap tissue, with stem tissue expressing higher levels of the phosphatase enzyme that converts psilocybin to psilocin. Tissue-specific gene expression is well-documented in fungi during fruiting body development.
-- **pH or microenvironmental differences** between tissue types that favor or inhibit the dephosphorylation reaction. Stems may have a slightly different pH, ionic composition, or redox environment that promotes phosphatase activity.
+- **pH or microenvironmental differences** between tissue types that favor or inhibit the dephosphorylation reaction. Stems may have a slightly different pH, ionic composition, or redox environment that promotes [[mycorrhizal-phosphatase-activity-elf97-detection]].
 - **Differential storage compartmentalization**: Psilocybin may be sequestered in one cellular compartment in the cap (perhaps vacuoles) while a phosphatase active on psilocybin resides in a different compartment in the stem, leading to tissue-specific conversion rates.
 - **Transport dynamics**: Psilocybin synthesized in the cap may be partially translocated downward through the stem tissue where it undergoes dephosphorylation during transport, producing the stem-localized psilocin pattern.
 
@@ -73,7 +73,7 @@ The uneven distribution of alkaloid biosynthesis products across fruiting body t
 
 Understanding why alkaloid distribution differs between cap and stem requires considering the different developmental programs and physiological roles of these two tissue types in the [[psilocybe-cubensis]] material. If the cap-to-stem psilocybin ratio is relatively consistent within a strain but varies between strains, this ratio could serve as a supplementary chemical fingerprint for strain identification. However, the significant inter-strain variation observed in this study (including the Amazon strain's equal distribution versus the 1.5:1 ratio in the other strains) suggests that this metric alone would not be sufficient for definitive identification.
 
-Chemical profiling techniques such as HPLC combined with multivariate statistical analysis could potentially leverage tissue-specific distribution patterns along with absolute concentration data to distinguish between strains or verify the identity of commercial mushroom products. Such approaches are already used in the quality control of other botanical and fungal products.
+Chemical profiling techniques such as HPLC combined with multivariate statistical analysis could potentially leverage tissue-specific [[guzman-global-distribution-patterns-neurotropic-fungi]] along with absolute concentration data to distinguish between strains or verify the identity of commercial [[cotter-mushroom-products-and-value-added-applications]]. Such approaches are already used in the quality control of other botanical and fungal products.
 
 ## Implications for Mushroom Product Manufacturing
 

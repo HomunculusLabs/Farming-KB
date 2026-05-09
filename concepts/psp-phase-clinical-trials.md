@@ -1,5 +1,5 @@
 ---
-title: PSP Phase Clinical Trials
+title: PSP Phase mushroom-cancer-clinical-trials-overview
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -10,11 +10,11 @@ sources: []
 
 ## Overview
 
-PSP (polysaccharide-peptide), derived from cultured mycelium of Trametes versicolor, has been the subject of extensive clinical trials in China, demonstrating significant benefits as an adjunct to conventional cancer therapies. It has been officially recognized as a drug by the Chinese Ministry of Public Health for the treatment of cancers of the stomach, oesophagus, and lung.
+PSP (polysaccharide-peptide), derived from cultured [[mycelium]] of [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]], has been the subject of extensive clinical trials in China, demonstrating significant benefits as an adjunct to conventional cancer therapies. It has been officially recognized as a drug by the Chinese Ministry of Public Health for the treatment of cancers of the stomach, oesophagus, and lung.
 
 ## PSP: The Compound
 
-PSP was first isolated from cultured deep-layer mycelium of the COU-1 strain of Trametes versicolor in 1983. It may contain at least four discrete molecules, all of which are true proteoglycans. PSP differs from [[beta-glucan-receptor-binding]] for receptor-level detail.
+PSP was first isolated from cultured deep-layer mycelium of the COU-1 strain of Trametes versicolor in 1983. It may contain at least four discrete molecules, all of which are true proteoglycans. PSP differs from kappa opioid receptor for receptor-level detail.
 
 ## Comparison with PSK Clinical Outcomes
 
@@ -29,10 +29,10 @@ survival benefits.
 PSP was developed in China from a different strain (COU-1) and has been
 studied primarily in gastric, oesophageal, and lung cancers. While head-to-
 head comparative trials between PSP and PSK are limited, both compounds show
-similar mechanisms of immune modulation and comparable efficacy rates as
+similar mechanisms of [[cancer-immune-modulation-mechanisms]] and comparable efficacy rates as
 adjuncts to conventional therapy. The key practical differences are geographic
 availability (PSK in Japan, PSP in China) and the specific cancer types most
-studied in each region. See [[mushroom-quality-of-life-cancer]] for broader context on
+studied in each region. See mushroom-quality-of-life-cancer for broader context on
 mushroom-derived compounds and patient-reported outcomes.
 
 ## Dosing Protocols in Clinical Trials
@@ -69,6 +69,12 @@ combinations remains to be definitively established. Large-scale, multi-centre,
 
 ## See Also
 
+- [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]]
+
+- [[cervantes-vegetative-phase]]
+
+- [[cultivator-compost-preparation-phase-methods]]
+
 - [[mushroom-cancer-clinical-trials-overview]]
 ## Practical Considerations
 
@@ -88,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

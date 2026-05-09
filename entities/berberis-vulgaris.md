@@ -76,11 +76,11 @@ The genus *Berberis* contains approximately **500–600 species** distributed ac
 
 ### Distribution and Habitat
 
-- **Native:** Europe, North Africa, Western Asia; **Introduced:** North/[[cannabis-for-diabetes-and-metabolic-syndrome]] able safety
-- **Metabolic syndrome:** Multi-target effects on glucose, lipids, and body weight
+- **Native:** Europe, North Africa, Western Asia; **Introduced:** North America
+- **[[cannabis-metabolic-syndrome-research]]:** Multi-target effects on glucose, lipids, and body weight
 - **GI infections:** Bacterial diarrhea, traveler's diarrhea, *H. pylori* adjunct treatment
 - **[[query-what-are-the-most-nutritious-backyard-berries-and-how-do-i-grow-them]] y branches provide nesting cover
-- **Invasiveness:** Considered invasive in parts of North America and Australia
+- **Invasiveness:** Considered invasive in parts of [[psilocybin-north-america-pacific-northwest]] and Australia
 - **Ornamental value:** Attractive form, yellow spring flowers, red berries, and brilliant fall foliage
 
 ## Culinary Uses

@@ -1,5 +1,5 @@
 ---
-title: Copelandia and Panaeoloideae Neurotropic Fungi
+title: Copelandia and copelandia panaeoloideae neurotropic fungi taxonomy distribution Fungi
 created: 2026-04-28
 tags:
   - mycology
@@ -7,7 +7,7 @@ tags:
   - copelandia
   - panaeolus
   - panaeolina
-  - [[guzman-allen-gartz-amazonia-and-unexplored-neotropical-regions]] in]]
+  - guzman-allen-gartz-amazonia-and-unexplored-neotropical-regions in
   - biogeography
   - guzman-allen-gartz
 date: 2026-04-28
@@ -57,7 +57,7 @@ grow on herbivore dung. The genus was established by Singer and includes:
 
 ### Panaeolus (13 Species)
 
-The genus Panaeolus includes several confirmed and disputed neurotropic
+The genus Panaeolus includes several confirmed and [[guzman-allen-gartz-doubtful-and-disputed-neurotropic-species]]
 species:
 
 - **P. subbalteatus** (Berk. and Broome) Sacc.: Also known as P.
@@ -74,7 +74,7 @@ psilocybin by different researchers:
 
 Allen and Merlin (1992c) discussed doubts on the psychoactive properties
 of this fungus. It appears that P. foenisecii is more toxic than
-neurotropic, as is the case with the majority of Panaeoloid fungi.
+neurotropic, as is the case with the majority of [[guzman-allen-gartz-panaeoloid-fungi-taxonomy-and-distribution]].
 
 ### Panaeolus antillarum Confusion
 
@@ -97,7 +97,7 @@ different class of active compounds may be responsible.
 
 Several distribution patterns emerge from the Panaeoloideae:
 
-- **Cosmopolitan**: Panaeolina foenisecii and most Panaeolus species are
+- **Cosmopolitan**: [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]] and most Panaeolus species are
   found worldwide. Surprisingly, P. foenisecii is not recorded from
   Central America or the Caribbean, and in Japan it is common but
   absent from major mycological references by Imazeki and Hongo.
@@ -111,9 +111,10 @@ Several distribution patterns emerge from the Panaeoloideae:
 
 ## Related Topics
 
-- The taxonomic challenges with these fungi are part of the broader
+- The [[guzman-allen-gartz-psilocybe-taxonomic-challenges-and-synonymy]] with these fungi are part of the broader
   issues discussed in
 
 ## See Also
 - [[guzman-allen-gartz-doubtful-and-disputed-neurotropic-species]]
 - [[guzman-allen-gartz-cosmopolitan-and-endemic-neurotropic-species]]
+- [[guzman-allen-gartz-conocybe-gerronema-neurotropic-species]]

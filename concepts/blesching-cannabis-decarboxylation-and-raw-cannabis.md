@@ -1,5 +1,5 @@
 ---
-title: "Cannabis Decarboxylation and Raw Cannabis Use"
+title: "comparison-cannabis-decarboxylation-chemistry-vs-edibles-guide and Raw Cannabis Use"
 created: 2026-04-28
 tags: [cannabis, decarboxylation, raw-cannabis, cannabinoids, CBD, THC]
 date: 2026-04-25
@@ -26,7 +26,7 @@ place, changing the molecular structure and its resultant properties. While
 CBD remains non-psychoactive after decarboxylation, THC-acid converts to THC,
 the main psychoactive molecule in cannabis. This transformation fundamentally
 limits the maximum potential dose of psychoactive cannabis that can be safely
-consumed, since excessive THC produces adverse effects including increased
+consumed, since excessive THC produces [[blesching-cannabis-safety-adverse-effects-evidence]] including increased
 anxiety and pain.
 
 Fresh cannabis contains THC in the form of THC-carboxylic-acid (THC-A), which
@@ -101,7 +101,7 @@ Dutch scientists have demonstrated that raw THC-acid inhibits tumor necrosis
 factor alpha (TNF-alpha) levels, which have become associated with the
 promotion of inflammation and the overall regulation of specific immune
 responses. This suggests that raw cannabis may have particular value for
-patients with autoimmune conditions, chronic inflammatory diseases, and
+patients with [[cannabis-autoimmune-conditions-detailed]], chronic inflammatory diseases, and
 conditions involving immune dysregulation.
 
 Raw cannabis medicine allows patients to benefit from the potent therapeutic
@@ -124,7 +124,7 @@ desired or tolerated, when the full therapeutic potential of active THC is
 needed, and when rapid onset of effects is important.
 
 THC content decreases over time in stored cannabis and is affected by UV light,
-heat, and exposure to moisture. Indoor cultivation follows a three-month cycle,
+heat, and exposure to moisture. [[cannabis-sativa-indoor-cultivation-techniques]] follows a three-month cycle,
 while outdoor cultivation follows an annual or biannual cycle. Indoor crops
 tend to contain a markedly higher THC content than outdoor crops, which has
 implications for both decarboxylation efficiency and therapeutic dosing.

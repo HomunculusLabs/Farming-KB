@@ -3,53 +3,9 @@ title: "Caragana Arborescens"
 created: 2026-05-02
 updated: 2026-05-02
 type: entity
-tags: [[permaculture, species]
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
+tags: [permaculture, species]
+sources: sources: []
 ---
----
-title: "Caragana arborescens"
-type: species
-    tags: [[permaculture, nitrogen-fixer, windbreak, edible-seeds, cold-hardy]
-date: 2026-04-28
-updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md]
----
-
-# Caragana arborescens
-
-**Common names:** Siberian peashrub, Siberian pea tree, pea shrub, caragana
-
-## Overview
-
-**Caragana arborescens** is a deciduous, nitrogen-fixing shrub or small tree in the family Fabaceae, native to Siberia, Mongolia, and northern China.
-It is one of the hardiest and most versatile woody legumes in temperate [[mollison-designers-vetiver-grass-for-erosion-control]], and as a fodder crop.
-
-## Botanical Description
-
-Siberian peashrub typically grows 3 to 6 meters tall as a multi-stemmed shrub, occasionally reaching 8 meters as a single-trunked small tree.
-The bark is smooth and olive-green on young stems, aging to gray-brown with longitudinal fissures.
-Branches are slender, often slightly pendulous, with paired thorns at the nodes that are 3 to 8 mm long.
-Leaves are pinnately compound with 8 to 14 pairs of oblong leaflets, each 1 to 3 cm long, bright green above and paler below, giving the foliage a fine, feathery texture.
-The most striking feature is the bright yellow, pea-like flowers, 2 to 3 cm long, borne singly or in pairs from the leaf axils in May to June.
-Flowers are followed by linear pods 3 to 5 cm long that turn brown at maturity, containing 4 to 8 reniform seeds 2 to 3 mm in diameter.
-
-## Distribution and Habitat
-
-Native to the steppes, forest-steppes, and river valleys of Siberia, Mongolia, northern China, and Kazakhstan, occurring naturally from the Altai Mountains to Lake Baikal and eastward to Manchuria.
-Introduced to North America in the 1750s and now naturalized across the northern Great Plains, Canadian Prairies, and parts of the northeastern United States.
-Extremely cold-hardy, surviving winter temperatures below minus 45 degrees Celsius, making it suitable for USDA Zone 2 and colder.
-Thrives on well-drained sandy to loamy soils, tolerating alkaline, saline, and nutrient-poor conditions.
-Drought-tolerant once established but performs best with moderate moisture.
-
-## Nitrogen Fixation
-
-As a member of the Fabaceae, Siberian peashrub forms root nodules with Rhizobium bacteria for atmospheric nitrogen fixation.
-Nitrogen fixation rates of 20 to 60 kg N per hectare per year have been reported, comparable to or exceeding many other temperate woody legumes.
-The nodules are visible as pink to reddish clusters on fine lateral roots.
-Effective nodulation requires compatible Rhizobium strains; in regions where caragana is not native, inoculation may improve establishment.
-The nitrogen contribution benefits neighboring plants through root exudation, leaf litter decomposition, and root turnover.
-
 ## Edible Uses
 
 The young pods are edible when harvested green and tender, before the seeds harden, typically 2 to 3 weeks after flowering.
@@ -65,16 +21,16 @@ Leaves and young stems contain 16 to 22 percent crude protein and are readily br
 It provides palatable, nutritious forage during late autumn and early winter when other browse is scarce.
 In shelterbelt plantings, it doubles as livestock wind protection and emergency feed.
 
-## Permaculture Functions
+## [[permaculture]] Functions
 
 ### Windbreak and Shelterbelt
-Caragana is one of the premier windbreak species for cold, windy, open sites across the northern Great Plains and boreal regions.
+Caragana is one of the premier [[permaculture-windbreak-design|windbreak]] species for cold, windy, open sites across the northern Great Plains and boreal regions.
 Its dense, low-branching habit provides effective ground-level wind reduction.
 It tolerates severe wind exposure, ice loading, and heavy snow accumulation.
 It is a standard component of prairie shelterbelt systems across the Canadian Prairies and northern US states.
 
 ### Nitrogen-Fixing Canopy Support
-In [[mollison-designers-temperate-zone-food-forest-design]], it is positioned as the upper canopy in early succession, providing shade, wind protection, and nitrogen to establishing layers below.
+In [[food-forest-design]], it is positioned as the upper canopy in early succession, providing shade, wind protection, and nitrogen to establishing layers below.
 Compatible companions include apple, plum, cherry, and hazelnut as the eventual main canopy, with currants, gooseberries, and herbs in the understory.
 Caragana is also combined with sea buckthorn and autumn olive in multi-species windbreaks for enhanced biodiversity and resilience.
 Its early leaf emergence in spring and late leaf retention in autumn extend the period of photosynthesis and nitrogen contribution.
@@ -94,7 +50,7 @@ Mature pods can be threshed by hand or with a flail thresher.
 Clean seed stores well for 3 to 5 years at cool, dry conditions.
 Seed yields average 20 to 40 kg per hectare from established plantings.
 Germination after cold stratification typically exceeds 80 percent for fresh seed.
-The seed coat is hard [[gaias-garden-food-forest-vision-and-benefits]] from scarification with hot water or mechanical nicking before stratification.
+The seed coat is hard [[gaias-garden-mature-vs-immature-ecosystems]] from scarification with hot water or mechanical nicking before stratification.
 
 ## Propagation Techniques
 

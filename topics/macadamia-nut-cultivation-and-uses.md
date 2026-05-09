@@ -18,13 +18,13 @@ Macadamia trees are evergreen, reaching heights of 12–20 m in the wild but typ
 
 Macadamia species are endemic to the eastern coastal rainforests of Australia, ranging from the Atherton Tablelands in northeastern Queensland to the Richmond River district of northeastern New South Wales. Aboriginal Australians harvested and consumed the nuts for thousands of years, calling them *kindal kindal* or *bauple*.
 
-The species was first described by the German–Australian botanist Ferdinand von Mueller in 1857, who named the genus after his friend John Macadam, a Scottish-Australian chemist and politician. Seeds were collected by von Mueller and sent to the Royal Botanic Gardens, Melbourne, and later to other tropical botanical gardens around the world.
+The species was first described by the German–Australian botanist Ferdinand von Mueller in 1857, who named the genus after his friend John Macadam, a Scottish-Australian chemist and politician. Seeds were collected by von Mueller and sent to the Royal Botanic Gardens, Melbourne, and later to other tropical botanical gardens [[fungi-around-the-world-species-distribution]].
 
 Key milestones in commercial development:
 
 - **1881**: First macadamia trees planted in Hawaii by William H. Purvis on the island of Hawaii. The Hawaiian industry developed throughout the early 20th century, with commercial processing beginning in the 1920s.
 - **1940s–1960s**: Hawaii became the world's dominant producer, developing many of the early named cultivars that remain in use today.
-- **1960s–1970s**: Commercial planting expanded to South Africa, Australia, and Central America.
+- **1960s–1970s**: Commercial planting expanded to South Africa, Australia, and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]].
 - **1980s–2000s**: South Africa overtook Hawaii as the largest producer. Kenya, Malawi, and Guatemala emerged as significant exporters.
 - **2010s–present**: China has rapidly expanded production. South Africa remains the world's largest exporter, and Australia maintains a strong position with a well-developed domestic industry.
 
@@ -58,7 +58,7 @@ Macadamia trees are subtropical to tropical in their requirements:
 | Drainage | Critical; waterlogging kills feeder roots within days |
 | Salinity | Low tolerance; avoid saline soils and irrigation water |
 
-Macadamias are particularly sensitive to poor drainage. Sites with impermeable clay subsoils, high water tables, or a history of waterlogging should be avoided or extensively modified with [[raised-beds-vs-in-ground-vs-containers]] and drainage systems. See swales and contour farming for drainage management techniques.
+Macadamias are particularly sensitive to poor drainage. Sites with impermeable clay subsoils, high water tables, or a history of waterlogging should be avoided or extensively modified with [[raised-beds-vs-in-ground-vs-containers]] and drainage systems. See swales and [[natural-farming-guide-contour-farming-strip-cropping]] for drainage management techniques.
 
 ## Propagation Methods
 
@@ -72,7 +72,7 @@ Grafting is the standard commercial propagation method. Scion wood from selected
 
 - **Top working** — Grafting onto established young seedling trees in the field. Common in regions where nursery infrastructure is limited.
 - **Nursery grafting** — Bench grafting or side-veneer grafting in a nursery setting. Produces uniform planting material.
-- **Rootstock selection** — Rootstocks influence tree vigor, drought tolerance, and disease resistance. *M. integrifolia* seedlings are the most common rootstock. *M. tetraphylla* rootstocks offer better tolerance of heavier soils and cooler sites.
+- **Rootstock selection** — Rootstocks influence tree vigor, [[dighton-fungal-drought-tolerance-plant-water-relations]], and disease resistance. *M. integrifolia* seedlings are the most common rootstock. *M. tetraphylla* rootstocks offer better tolerance of heavier soils and cooler sites.
 
 ### Tissue Culture
 
@@ -131,280 +131,20 @@ Macadamias have specific nutritional requirements that differ from many other tr
 
 Leaf analysis is the standard method for assessing nutritional status. Samples should be collected in mid-summer from the most recent mature flush of leaves.
 
-Composted organic matter, [[comfrey]] mulch, and cover crops within alley cropping systems contribute to soil fertility and reduce synthetic fertilizer dependence.
-
-## Pruning and Canopy Management
-
-Pruning objectives in macadamia orchards:
-
-- Maintain a manageable tree height for harvesting (ideally under 6 m)
-- Promote light penetration into the canopy interior to support flowering and nut set on inner branches
-- Remove dead, diseased, or crossing branches
-- Manage tree shape in high-density plantings to prevent canopy overlap
-
-### Training Young Trees
-
-During the first 3–4 years, young trees are trained to develop a strong central leader and a well-spaced scaffold branch framework. This is done by selective tipping and removing competing upright shoots.
-
-### Maintenance Pruning of Bearing Trees
-
-- **Skirt pruning** — Removing low branches that contact the ground, improving airflow and access for harvest equipment
-- **Thinning** — Removing selected interior branches to improve light penetration
-- **Height reduction** — Topping mature trees to control height, ideally done in stages over 2–3 years to avoid shock
-- **Dead wood removal** — Annual removal of dead and damaged branches
-
-Pruning is best done after harvest and before the spring growth flush. Avoid pruning during flowering or nut development.
-
-## Pest and Disease Management
-
-### Major Pests
-
-| Pest | Damage | Management |
-|------|--------|------------|
-| Macadamia nut borer (*Cryptophlebia ombrodelta*) | Larvae bore into developing nuts; significant yield loss | Pheromone traps, biological control (Trichogramma wasps), targeted insecticide sprays |
-| Fruit-spotting bugs (*Amblypelta nitida*, *A. lutescens*) | Feeding on young nuts causes premature drop | Monitor with beat sheets; insecticide at threshold levels |
-| Two-spotted mite (*Tetranychus urticae*) | Leaf bronzing and defoliation under heavy infestations | Predatory mites (*Phytoseiulus persimilis*); avoid broad-spectrum miticides |
-| Rats (*Rattus spp.*) | Gnaw and consume mature nuts; can destroy significant portions of the crop | Bait stations, habitat management, trapping, barn owl nesting boxes |
-| Macadamia felted coccid (*Eriococcus ironsidei*) | Sucks sap from branches; heavy infestations cause dieback | Biological control with parasitic wasps; horticultural oil |
-| Banana weevil borer | Damage to trunk bases in young trees | Cultural controls; protect trunk bases with guards |
-
-Integrated pest management (IPM) approaches are standard in commercial macadamia production. Biological control agents, monitoring, and cultural practices are emphasized over routine chemical applications. See integrated pest management for general IPM principles.
-
-### Major Diseases
-
-| Disease | Cause | Impact | Management |
-|---------|-------|--------|------------|
-| Husk spot | *Pseudocercospora macadamiae* (fungus) | Dark spots on husk; premature nut drop; kernel discoloration | Fungicide sprays during husk development; resistant cultivar selection; removal of fallen debris |
-| Root rot | *Phytophthora cinnamomi* | Root death; canopy dieback; tree mortality | Well-drained soils; avoid over-irrigation; phosphonate trunk injections; resistant rootstocks |
-| Flower blight | *Botrytis cinerea* | Flower death; reduced fruit set | Manage canopy density; avoid overhead irrigation; fungicide sprays at flowering |
-| Macadamia trunk canker | *Neofusicoccum* spp. | Cankers on trunk and branches; branch dieback | Prune infected wood; wound protection; minimize bark damage |
-| Thrush disease (nut rot) | Various fungi | Internal kernel rot; detected at cracking | Minimize husk injury; prompt processing after harvest |
-
-## Flowering, Pollination, and Fruit Set Biology
-
-### Flowering
-
-Macadamia trees flower in spring (September–November in the [[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]]; March–May in the Northern Hemisphere). Inflorescences are erect racemes, 10–30 cm long, bearing 100–300 tiny cream-white flowers. Each flower has four tepals and a single pistil.
-
-Flowering is photoperiod- and temperature-dependent. A period of cool temperatures (approximately 12–18 °C) during winter promotes inflorescence initiation. Warm, dry conditions during flowering promote good pollinator activity and pollen viability.
-
-### Pollination
-
-Macadamia flowers are partially self-incompatible, meaning self-pollination produces reduced fruit set and smaller kernels. Cross-pollination between different cultivars or genetically distinct trees is strongly beneficial. Primary pollinators are honeybees (*Apis mellifera*) and native bees. Wind plays a negligible role in pollination.
-
-### Fruit Set and Development
-
-Only a small fraction of flowers (approximately 0.3–1.0%) set fruit. Three waves of abscission occur after flowering:
-
-1. **Initial drop** — Within 4 weeks of anthesis; unfertilized or poorly pollinated flowers
-2. **Mid-season drop** — 8–16 weeks after anthesis; competition between developing nuts
-3. **Pre-harvest drop** — Near maturity; physiological or stress-related
-
-The fruit is a follicle consisting of a green, leathery husk (pericarp) enclosing a single hard-shelled seed (nut). The shell comprises approximately 60–70% of the nut by weight. Kernel development occurs over 5–7 months after pollination, with oil accumulation accelerating during the final 2 months.
-
-## Harvesting Methods and Timing
-
-### Timing
-
-Nuts mature over an extended period (4–6 months) within and between trees. Mature nuts fall naturally to the ground. In most cultivars, the harvest season extends from autumn to early winter.
-
-Indicators of nut maturity:
-
-- Husk color changes from green to brown
-- The abscission layer at the stem weakens and nuts drop
-- Kernel oil content reaches approximately 72–78% of dry weight
-
-### Harvesting Methods
-
-1. **Hand harvesting** — Workers collect fallen nuts from the ground at regular intervals (weekly to fortnightly). Labor-intensive but minimizes ground contact losses. Standard in smallholder and steep-slope situations.
-2. **Mechanical sweeping** — Sweepers or rotary brushes move fallen nuts into windrows for pickup. Requires flat terrain.
-3. **Mechanical harvesting** — Self-propelled or tractor-drawn harvesters sweep and collect nuts in a single pass. Efficient for large-scale orchards on suitable terrain. Can damage surface roots if used excessively in wet conditions.
-4. **Tree shaking** — Rarely used in macadamia due to the extended ripening period and risk of branch damage.
-
-Nuts should be collected from the ground within 2–3 weeks of falling to minimize losses from rodents, germination, and mold. Regular harvest rounds improve overall quality and reduce waste.
-
-## Post-Harvest Processing
-
-Processing macadamia nuts from harvest to market-ready kernel involves several stages:
-
-### 1. Husking
-
-The fibrous husk is removed within 24 hours of harvest to prevent heating and mold development. Husks comprise approximately 50% of the fresh weight of the nut-in-husk. Mechanical huskers (dehuskers) are standard; [[small-scale-dairy-guide]] operations may use hand cracking. Husks can be composted, used as mulch, or processed as stock feed.
-
-### 2. Drying
-
-Fresh-in-shell nuts contain approximately 15–20% moisture. Moisture must be reduced to approximately 1.5% for efficient cracking:
-
-- **Air drying** — Nuts are spread in thin layers in well-ventilated areas or forced-air dryers. Initial drying to approximately 10% moisture at ambient temperatures over 2–4 weeks.
-- **Forced-air drying** — Further drying to 1.5% moisture at temperatures not exceeding 38–43 °C. Higher temperatures cause kernel discoloration and rancidity. Rapid drying causes shell cracking and quality loss.
-
-Proper drying is the most critical step in macadamia processing. Inadequately dried nuts have poor shelf life and are prone to mold. Over-dried or rapidly dried nuts develop dark kernels and off-flavors.
-
-### 3. Cracking
-
-Macadamia shells are among the hardest of all commercially grown nuts, requiring approximately 2,000 N of force to crack. Specialized crackers use a combination of compression and shear forces. Kernel recovery after cracking is a key quality metric; good processing recovers 32–40% kernel by weight from *M. integrifolia* cultivars.
-
-### 4. Grading and Sorting
-
-- Kernels are graded by size (whole, halves, chips, granules)
-- Color sorting removes discolored kernels (dark, moldy, or insect-damaged)
-- Electronic sorting (optical sorters) is standard in modern processing facilities
-- Roasting (dry or oil) is the final step for retail-grade kernels
-
-## Nutritional Profile and Culinary Uses
-
-### Nutritional Composition (per 100 g raw kernel)
-
-| Component | Amount |
-|-----------|--------|
-| Energy | 718 kcal (3,004 kJ) |
-| Total fat | 75.8 g |
-| — Saturated | 12.1 g |
-| — Monounsaturated | 58.9 g |
-| — Polyunsaturated | 1.5 g |
-| Protein | 7.9 g |
-| Carbohydrate | 13.8 g |
-| Dietary fiber | 8.6 g |
-| Thiamine (B1) | 0.7 mg |
-| Iron | 3.7 mg |
-| Magnesium | 130 mg |
-| Manganese | 4.1 mg |
-| Phosphorus | 188 mg |
-
-Macadamia oil is approximately 80% monounsaturated, primarily oleic acid and palmitoleic acid. This fatty acid profile is associated with cardiovascular health benefits and contributes to the oil's stability and high smoke point (approximately 210 °C).
-
-### Culinary Uses
-
-- **Snacking** — Raw, dry-roasted, salted, or honey-roasted as a premium snack nut
-- **Baking** — Added to cookies, brownies, cakes, and biscotti
-- **Confectionery** — Chocolate-coated macadamias; macadamia nut brittle
-- **Cooking** — Crushed as a crust for fish or chicken; chopped in salads; used in stir-fries
-- **Macadamia oil** — Used as a cooking oil, salad dressing oil, and in cosmetic products
-- **Nut butter** — Macadamia butter is a premium alternative to peanut or almond butter
-
-## Uses in Permaculture and Agroforestry Systems
-
-Macadamia trees integrate well into [[permaculture]] and [[agroforestry]] designs due to their perennial nature, canopy structure, and high economic value:
-
-### Canopy Layer
-
-As a tall evergreen tree, macadamia occupies the upper canopy layer. It provides shade and wind protection for understory crops. In subtropical food forest designs, macadamia serves as an overstory element analogous to the role of oak or walnut in temperate systems.
-
-### Understory Compatibility
-
-- **Shade-tolerant crops** — Coffee, cacao, turmeric, ginger, and [[comfrey]] grow beneath macadamia canopies where light levels are reduced to 30–50% of full sun.
-- Mulberry can be interplanted as a mid-canopy crop providing supplementary fruit and livestock feed.
-- [[comfrey]] planted as a [[living-mulch-systems-guide]] accumulates nutrients from deep soil layers and provides biomass for surface mulching.
-
-### Windbreaks and Erosion Control
-
-Macadamia's dense root system and evergreen canopy make it effective for soil stabilization on slopes and as a component of windbreak systems in alley cropping configurations.
-
-### Wildlife Habitat
-
-Mature macadamia trees provide habitat for birds and [[beneficial-insects-cannabis]]. Flowers are a nectar source for bees, supporting pollinator habitat objectives.
-
-### Limitations in Permaculture
-
-- Long juvenile period (4–5 years minimum before first crop)
-- Large mature size requires significant space
-- Intensive management needs (nutrition, irrigation, pest control) may conflict with [[low-input-vegetable-gardening]] permaculture principles
-- Requires frost-free sites, limiting geographic applicability
-
-## Economic Considerations
-
-### Yield and Bearing Age
-
-- First commercial crop: 4–5 years after planting (grafted trees)
-- Full bearing: 10–15 years
-- Economic productive life: 40–60+ years
-- Average yield (mature trees): 2.5–5.0 tonnes of nut-in-shell per hectare
-- Top-performing orchards: 6.0–8.0+ tonnes of NIS per hectare
-- Kernel recovery from NIS: 30–40% by weight
-
-### Production Costs
-
-Establishment costs are high compared to annual crops, driven by land preparation, irrigation infrastructure, planting material, and the long non-bearing period. Ongoing costs include irrigation, fertilization, pest and disease management, harvesting, and processing. Processing (cracking) is a significant cost component due to the hardness of the shell.
-
-### Market
-
-Global macadamia production has grown substantially over the past two decades, driven by increasing demand in Asia (particularly China), North America, and Europe. Macadamia kernels command a premium price among tree nuts, typically 2–4 times the price of almonds or walnuts per kilogram. South Africa, Australia, Kenya, Guatemala, and China dominate production.
-
-Key market considerations:
-
-- In-shell nuts for domestic retail vs. kernel for industrial processing
-- Value-added products (roasted, flavored, chocolate-coated) carry higher margins
-- Organic certification commands premium prices in niche markets
-- Long-term supply contracts provide price stability
-
-## Varieties and Cultivar Selection
-
-Cultivar selection depends on climate, soil, target market, and processing capability. Major commercial cultivar groups include:
-
-### Australian Cultivars
-
-| Cultivar | Species Background | Kernel Recovery | Key Characteristics |
-|----------|-------------------|-----------------|---------------------|
-| A4 (*Beaumont*) | Hybrid | 33–38% | Vigorous, precocious, good yield; popular in Australia and South Africa |
-| A16 (*Own Choice*) | M. integrifolia | 34–39% | High yield, good kernel quality; requires cross-pollination |
-| A38 (*Reown 849*) | M. integrifolia | 35–40% | Excellent kernel quality, upright growth habit |
-| A268 (*Gympie*) | M. integrifolia | 32–37% | Good all-round cultivar, reliable bearer |
-| A368 (*Negron*) | Hybrid | 34–38% | Good for cooler subtropical sites |
-
-### Hawaiian Cultivars
-
-| Cultivar | Species Background | Kernel Recovery | Key Characteristics |
-|----------|-------------------|-----------------|---------------------|
-| 246 (*Kakea*) | M. integrifolia | 40–44% | Highest kernel recovery among Hawaiian selections; thin shell |
-| 344 (*Keauhou*) | M. integrifolia | 37–41% | Large nut size, good quality |
-| 800 (*Mauka*) | M. integrifolia | 38–42% | High yield, disease resistant |
-| 660 (*Purvis*) | Hybrid | 34–38% | Vigorous, good for marginal sites |
-
-### Kenyan and South African Selections
-
-Numerous locally selected cultivars and advanced breeding lines are grown in these regions. Selection criteria emphasize high yield, disease resistance (particularly husk spot resistance), and suitability for local conditions. South Africa has an active breeding program that has released cultivars with improved kernel quality and yield.
-
-## Challenges and Limitations
-
-### Biological Challenges
-
-- **Long juvenile period** — 4–5 years from planting to first commercial crop represents a significant capital commitment with no return.
-- **Extended harvest season** — Nuts ripen over several months, requiring repeated harvest passes and increasing labor costs.
-- **Pest and disease pressure** — Husk spot, nut borer, and root rot require ongoing management. Rodent damage can be severe in some locations.
-- **Alternate bearing** — Some cultivars exhibit a strong tendency to alternate between heavy and light crops, complicating orchard management and market supply.
-- **Low kernel recovery** — Even the best cultivars yield only 30–44% kernel by weight, with the remainder (shell and husk) being waste or low-value byproduct.
-
-### Environmental Limitations
-
-- **Frost sensitivity** restricts cultivation to frost-free climates, excluding most temperate regions.
-- **Water requirements** are substantial, making macadamia unsuitable for arid regions without reliable irrigation.
-- **Soil drainage requirements** eliminate waterlogged or heavy clay sites.
-- **Wind vulnerability** requires windbreak investment on exposed sites.
-
-### Economic and Market Challenges
-
-- **High establishment costs** — Irrigation, processing infrastructure, and the long non-bearing period require significant upfront capital.
-- **Processing intensity** — The hardness of the shell demands specialized, expensive cracking equipment.
-- **Market volatility** — Prices have been historically volatile due to the long production cycle and concentrated supply chains.
-- **Labor dependence** — Harvesting remains largely manual in many regions, making labor availability and cost a key constraint.
-- **Competition** — Rapid expansion of planting in several countries may lead to oversupply and downward price pressure.
-
-### Climate Change
-
-Changing temperature and rainfall patterns pose risks to established macadamia-growing regions. Increasing frequency of extreme heat events, droughts, and storms can damage trees, reduce yields, and disrupt harvest logistics. Breeding for heat tolerance and drought resilience is an active research priority. See climate adaptation for broader strategies.
+Composted organic matter, comfrey mulch, and cover crops within [[comparison-alley-cropping-vs-silvopasture]] systems contribute to soil fertility and reduce synthetic fertilizer dependence.
 
 ## See Also
 
 - [[agroforestry]]
 - alley cropping
-- [[permaculture]]
+- permaculture
 - food forest
 - pollinator habitat
-- [[comfrey]]
+- comfrey
 - mulberry
 - drip irrigation
 - integrated pest management
 - contour farming
 - swales
 - mulch
-- climate adaptation
+- [[jeavons-climate-adaptation-growing-seasons]]

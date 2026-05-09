@@ -1,6 +1,6 @@
 ---
 
-title: Psilocybin Mushroom Chemistry
+title: emcdda-psilocybin-mushroom-dose-and-effects Chemistry
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -38,7 +38,7 @@ Chemical composition, analysis methods, biosynthetic pathways, and alkaloid prof
 - **Molecular weight:** 284.22 g/mol
 - **Appearance:** White crystalline solid
 - **Solubility:** Soluble in water, slightly soluble in ethanol
-- **Discovery:** Isolated by [[albert-hofmann]] from Psilocybe mexicana (1958, Sandoz)
+- **Discovery:** Isolated by [[albert-hofmann]] from [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] (1958, Sandoz)
 - **Mechanism:** Prodrug — dephosphorylated by alkaline phosphatase in the gut and liver to form the active metabolite psilocin
 - **Receptor pharmacology:** 5-HT2A agonist (primary), also active at 5-HT1A, 5-HT2B, 5-HT2C, 5-HT5A, 5-HT6, 5-HT7
 - **Stability:** Very stable compound; survives drying, storage, and moderate heat. This is why dried mushrooms retain psychoactivity.
@@ -51,11 +51,11 @@ Chemical composition, analysis methods, biosynthetic pathways, and alkaloid prof
 - **Appearance:** White to pale pink crystalline solid
 - **Solubility:** Slightly soluble in water, soluble in ethanol
 - **Mechanism:** Active metabolite of psilocybin; also present directly in fresh mushrooms
-- **Stability:** UNSTABLE — rapidly oxidizes in air, turning blue/purple (this is the bluing reaction). Degraded by heat, light, and oxygen. Properly dried mushrooms contain mostly psilocybin, not psilocin.
+- **Stability:** UNSTABLE — rapidly oxidizes in air, turning blue/purple (this is the [[field-guide-psilocybin-bluing-reaction-identification]]). Degraded by heat, light, and oxygen. Properly dried mushrooms contain mostly psilocybin, not psilocin.
 
 ### The Bluing Reaction
 
-The characteristic blue-green bruising of psilocybin mushrooms is caused by oxidation of psilocin:
+The characteristic blue-green bruising of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] is caused by oxidation of psilocin:
 
 1. Mechanical damage (cutting, bruising) ruptures cells
 2. Psilocin is released and exposed to oxygen
@@ -75,7 +75,7 @@ The characteristic blue-green bruising of psilocybin mushrooms is caused by oxid
 - **Molecular weight:** 270.19 g/mol
 - **Structure:** Psilocybin with one methyl group removed (N-methyltryptamine instead of N,N-dimethyltryptamine)
 - **Pharmacology:** Less well characterized than psilocybin/psilocin. Likely a prodrug for 4-HO-NMT (norpsilocin). May contribute to overall effects but is generally considered less potent.
-- **Named after:** Psilocybe baeocystis
+- **Named after:** [[stamets-psi-psilocybe-baeocystis-knobby-tops]]
 - **Distribution:** Present in most psilocybin-containing species, typically at 10-30% of psilocybin concentration
 
 ### Norbaeocystin (4-PO-T)
@@ -93,7 +93,7 @@ The characteristic blue-green bruising of psilocybin mushrooms is caused by oxid
 - **Molecular formula:** C13H19N2O4P
 - **Molecular weight:** 298.25 g/mol
 - **Structure:** Unique quaternary ammonium compound with three methyl groups on the nitrogen
-- **Discovery:** First isolated by [[jochen-gartz]] from Inocybe aeruginascens
+- **Discovery:** First isolated by [[jochen-gartz]] from [[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]]
 - **Distribution:** Only known from I. aeruginascens (possibly present in a few other Inocybe species)
 - **Pharmacology:** Unknown; Gartz hypothesized it may have euphoriant properties (see [[inocybe-aeruginascens]] and psilocybin mushroom chemistry)
 - **Significance:** The only known tryptamine alkaloid with a quaternary ammonium group found in nature
@@ -144,56 +144,7 @@ The final step before the psilocybin-specific pathway is subject to feedback inh
 | Indole-3-acetaldehyde | Unknown mechanism | 50% |
 
 Non-inhibitors: 5-Methoxy-DMT, 5-methoxytryptamine, indole-3-pyruvic acid (0% inhibition). This feedback system explains why simply adding tryptamine to substrate can dramatically alter alkaloid profiles (see Gartz biotransformation below).
+## See Also
 
-### Gartz Tryptamine Biotransformation (1989)
-
-[[jochen-gartz]] demonstrated that adding 25 mM tryptamine HCl to a cow dung/rice substrate caused P. cubensis to hydroxylate and methylate the fed tryptamine, producing unprecedented psilocin levels:
-
-| Flush | Psilocin (with tryptamine) | Psilocin (control) | Psilocybin (with tryptamine) | Psilocybin (control) |
-|-------|---------------------------|-------------------|-----------------------------|---------------------|
-| 1 | 2.1% | 0% | 0.01% | 0.55% |
-| 2 | 3.3% | 0.01% | 0.02% | 0.48% |
-| 3 | 2.8% | 0.02% | 0.2% | 0.51% |
-| 4 | 3.1% | 0.09% | 0.07% | 0.46% |
-| 5 | 2.9% | 0.15% | 0.13% | 0.61% |
-
-Key findings: psilocin levels reached 3.3% dry mass (the highest ever recorded in any mushroom), while psilocybin dropped to near-zero. This suggests the enzyme systems have high hydroxylation/methylation capacity but that excess tryptamine downregulates the phosphorylation step (PsiK). No residual tryptamine was detected in fruiting bodies or mycelium — it was completely converted. Fruiting times, yields, and sizes were unchanged from control cultures.
-
-### Brassinosteroid Growth Promotion (Gartz, Adam & Vorbrodt, 1990)
-
-Adding 10^-2 ppm 22S,23S-homobrassinolide (a plant steroidal growth regulator) to P. cubensis cultures on both 6% malt agar and horse dung/rice substrate:
-- **Mycelial growth rate**: 2-3x faster than control on agar
-- **Time to first flush**: Reduced from 4-5 weeks to 3-3.5 weeks
-- **First flush yield**: 4-7 mushrooms vs. 1-3 in control
-- **Total dry mass**: 3.4-3.9g per 10g substrate vs. 2.3-2.9g in control
-- **Incomplete fruit bodies**: Almost completely suppressed
-- **Morphological change**: Fruit bodies lacked the typical membranous annulus on stems
-
-This was the first study demonstrating brassinosteroid activity on fungi, suggesting these plant hormones may have biological roles in higher fungi.
-
-## Species Potency Comparison
-
-From [[jochen-gartz]]'s HPLC analyses (total psilocybin + psilocin, % dry weight):
-
-### Highest Potency (Group 1: >1.0%)
-
-| Species | Total Alkaloids | Notes |
-|---|---|---|
-| P. azurescens | 1.1-1.8% | Highest reliably documented |
-| P. bohemica | 0.9-1.6% | Central European species |
-| P. semilanceata | 0.5-2.4% | Extremely variable; UK specimens can be very strong |
-| P. cyanescens | 0.5-1.5% | Pacific Northwest |
-| P. subaeruginosa | 0.6-1.4% | Australia/New Zealand |
-
-### Moderate Potency (Group 2: 0.3-1.0%)
-
-| Species | Total Alkaloids | Notes |
-|---|---|---|
-| P. cubensis | 0.5-1.0% | Most widely cultivated |
-| P. bohemica/serbica | 0.3-1.0% | European wood chips |
-| P. baeocystis | 0.3-0.8% | Pacific Northwest |
-| P. allenii | 0.3-0.7% | Pacific Northwest |
-| P. mexicana | 0.2-0.6% | Mexico, produces sclerotia |
-| P. zapotecorum | 0.2-0.6% | Mexico/South America |
-| P. natalensis | 0.3-0.6% | South Africa |
-
+- [[hofmann-mexican-mushroom-expedition-psilocybin]]
+- [[magic-mushroom-constituent-chemistry]]

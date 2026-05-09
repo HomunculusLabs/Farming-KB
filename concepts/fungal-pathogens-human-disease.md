@@ -1,5 +1,5 @@
 ---
-title: Fungal Pathogens and Human Disease
+title: bloomfield-fungal-pathogens-and-parasites and Human Disease
 created: 2026-04-28
 tags:
   - mycology
@@ -22,7 +22,7 @@ attention, fungi cause a spectrum of diseases ranging from superficial
 skin infections to life-threatening systemic mycoses. The rise of
 immunocompromised patient populations due to HIV/AIDS, cancer therapies,
 and organ transplantation has dramatically increased the clinical
-importance of fungal infections, which are among the most deadly of all
+importance of [[blesching-cannabis-fungal-infections-candida]], which are among the most deadly of all
 hospital-acquired illnesses.
 
 ## [[stachybotrys-chartarum]]* has captured public imagination as a
@@ -32,7 +32,7 @@ hemorrhage in ten infants, one of whom died. Evidence was statistical:
 children suffering hemorrhage were more likely to live in water-damaged
 homes infested with *Stachybotrys*.
 
-The fungus thrives on wet building materials, particularly drywall
+The fungus thrives on wet [[natural-building-materials-guide]], particularly drywall
 converted to "wetwall" by flooding or burst pipes. Modern
 polymer-wrapped houses with sealed windows create stale, humid air
 between wall layers, providing ideal growth conditions. Isolated patches
@@ -44,7 +44,7 @@ eliminated, the fungus will return.
 - [[fungal-infections-human]]
 - [[fungal-invasive-species-and-exotic-pathogens]]
 
-- [Amanita Phalloides (Death Cap)]([[mycotoxins]](mycotoxins.md)
+- [Amanita Phalloides ([[query-how-to-identify-and-avoid-the-death-cap-amanita-phalloides]])]([[mycotoxins]](mycotoxins.md)
 - [[fungal-symbiosis-with-plants]](fungal-symbiosis-with-plants.md)
 
 ## References
@@ -53,7 +53,7 @@ eliminated, the fungus will return.
   of Mushrooms, Molds, and Mycologists*. Oxford University Press.
   Chapter 2: Insidious Killers, pp. 21-52.
 - Kwon-Chung, K. J. (1975). "A new species of *Filobasidiella*, the
-  sexual state of *Cryptococcus neoformans*." *Mycologia* 67, 1197-1200.
+  sexual state of *[[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]]*." *Mycologia* 67, 1197-1200.
 - Benjamin, D. R. (1995). *Mushrooms: Poisons and Panaceas*. W.H.
   Freeman.
 ## Practical Considerations
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

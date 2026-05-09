@@ -22,7 +22,7 @@ type: query
 
 # How Do I Design and Plant a Living Fence?
 
-A living fence is a dense, functional barrier made from living woody plants. Whether you need to contain livestock, exclude deer, create privacy, or establish a productive boundary, this guide covers the full process from site assessment to maturity.
+A living fence is a dense, functional barrier made from living woody plants. Whether you need to contain livestock, exclude deer, create privacy, or establish a productive boundary, this guide covers the full process from [[mollison-designers-design-client-interview-and-site-assessment-process]] to maturity.
 
 ## Step 1: Define Your Purpose
 
@@ -42,13 +42,13 @@ Walk the fence line and evaluate: total length (determines plant quantities), av
 
 ### Temperate (Zones 3–7)
 
-**Primary barrier** (60–70%): Hawthorn, blackthorn, osage orange, honey locust.
-**Secondary/support** (20–30%): Hazelnut, black locust, caragana, sea buckthorn.
+**Primary barrier** (60–70%): Hawthorn, blackthorn, [[bloomfield-ghosts-of-evolution-osage-orange-anachronism]], [[permaculture-honey-locust-pod-fodder-system]].
+**Secondary/support** (20–30%): Hazelnut, black locust, caragana, [[comparison-sea-buckthorn-vs-aronia]].
 **Production** (10–20%): Rugosa rose, elderberry, blackberry.
 
 ### Mediterranean and Arid (Zones 8–11, Low Rainfall)
 
-Prickly pear, agave/sisal, carob, pomegranate, rosemary, lavender, myrtle. Oleander for non-livestock areas (highly toxic).
+[[comparison-agave-vs-prickly-pear-cultivation]], agave/sisal, carob, pomegranate, rosemary, lavender, myrtle. Oleander for non-livestock areas (highly toxic).
 
 ### Tropical and Subtropical
 
@@ -72,7 +72,7 @@ Add 10–15% extra for replacement plantings during establishment.
 
 ## Step 6: Plant
 
-**Timing**: Temperate — bare-root in late autumn or early spring during dormancy. Tropical — start of rainy season. Container-grown — any time soil is workable, avoid midsummer heat.
+**Timing**: Temperate — bare-root in late autumn or [[coleman-overwintered-onions-and-early-spring-crops]] during dormancy. Tropical — start of rainy season. Container-grown — any time soil is workable, avoid midsummer heat.
 
 **Technique**: Dig holes 30–40 cm deep. For bare-root plants, soak roots 1–2 hours, spread naturally, plant at original soil depth. For live stakes, plant 30–50 cm deep in moist soil. Mulch heavily (10–15 cm organic mulch, 5 cm from stems). Water thoroughly at planting.
 

@@ -46,7 +46,7 @@ Microscopic features include cheilocystidia that are utriform (flask-shaped) to 
 
 ## Distribution and Habitat
 
-*Parasola plicatilis* has a cosmopolitan distribution across temperate and subtropical regions. It is reported from Europe, North America, South America, Asia, Africa, and Australasia.
+*Parasola plicatilis* has a cosmopolitan distribution across temperate and subtropical regions. It is reported from Europe, [[psilocybin-north-america-pacific-northwest]], South America, Asia, Africa, and Australasia.
 
 The species fruits from spring through autumn, with peak fruiting in late summer and early autumn in temperate zones. In mild climates it may fruit year-round following rainfall.
 
@@ -56,13 +56,13 @@ Unlike many coprinoid species, *P. plicatilis* can appear in large troops, with 
 
 ## Ecology
 
-*Parasola plicatilis* is a saprotrophic fungus that decomposes organic matter in soil. It plays a minor role in nutrient cycling in grassland and disturbed-ground ecosystems.
+*Parasola plicatilis* is a saprotrophic fungus that decomposes [[hamilton-composting-and-organic-matter-management]] in soil. It plays a minor role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in grassland and disturbed-ground ecosystems.
 
 The species is a primary colonizer of disturbed soils, often appearing within days of soil disturbance or after the first significant rainfall of a season. Its rapid life cycle — from primordium to spore release in under 24 hours — allows it to exploit brief windows of favorable moisture conditions.
 
-Spore dispersal occurs primarily through the deliquescing gill mechanism. As the cap and gills liquefy, a black, spore-laden fluid drips from the cap margins, depositing spores onto the soil surface below.
+[[aquatic-fungi-spore-dispersal-ingold]] occurs primarily through the deliquescing gill mechanism. As the cap and gills liquefy, a black, spore-laden fluid drips from the cap margins, depositing spores onto the soil surface below.
 
-The fungus is occasionally parasitized by *Volvariella surrecta*, a rare bolete parasite that fruits directly from the decaying inkcap. This relationship is one of the best-documented examples of fungal parasitism in Agaricales.
+The fungus is occasionally parasitized by *Volvariella surrecta*, a rare bolete parasite that fruits directly from the decaying inkcap. This relationship is one of the best-documented examples of [[symbiotic-fungi-fungal-parasitism-and-pathogenicity]] in Agaricales.
 
 ## Edibility
 
@@ -81,7 +81,7 @@ The species is not cultivated commercially. Its rapid deliquescence makes it imp
 - **Parasola leiocephala** — cap surface granulose when young; broader spores
 - **Parasola auricoma** — orange-brown cap coloration; larger fruiting body
 
-*Parasola plicatilis* is distinguished from these by its deeply plicate cap, relatively small spores (10–14 µm), and non-lignicolous habitat. Microscopic examination of spore size and cheilocystidia morphology is typically required for certain identification.
+*Parasola plicatilis* is distinguished from these by its deeply plicate cap, relatively small spores (10–14 µm), and non-lignicolous habitat. [[fungal-microscopic-examination-mounting-media-techniques]] of spore size and cheilocystidia morphology is typically required for certain identification.
 
 ## Cultivation Notes
 

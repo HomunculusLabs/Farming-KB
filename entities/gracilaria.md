@@ -48,7 +48,7 @@ dense tufts or mats. Branch attachment is typically secund or bilateral.
 
 The color ranges from deep red to purplish-brown depending on species, light
 exposure, and depth. Some species exhibit significant color variation
-throughout the growing season. In low light conditions, thalli may appear
+throughout the [[savory-growing-season-and-non-growing-season-management]]. In low light conditions, thalli may appear
 greenish due to reduced phycoerythrin production.
 
 The internal anatomy consists of a filamentous medulla surrounded by a cortex
@@ -78,8 +78,8 @@ but also creates harvestable biomass for agar extraction.
 ## Cultivation
 
 Gracilaria is among the most extensively cultivated seaweed genera globally.
-The primary cultivation methods include **vegetative propagation** by fragment
-attachment and **tissue culture** from explants.
+The primary [[synthetic-log-cultivation-methods-guide]] include **vegetative propagation** by fragment
+attachment and **[[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]** from explants.
 
 **Offshore raft culture** is the dominant method in China, Vietnam, and
 Indonesia. Thalli are tied to ropes suspended from floating rafts or longlines
@@ -107,7 +107,7 @@ chemical modification (alkaline pretreatment) to improve gelling properties for
 commercial use. Despite this, Gracilaria has largely replaced Gelidium as the
 primary agar source due to its lower cost and faster growth.
 
-Beyond agar, Gracilaria species produce a range of secondary metabolites
+Beyond agar, Gracilaria species produce a range of [[antifungal-secondary-metabolites-coprophilous-fungi]]
 including **halogenated compounds**, **terpenoids**, and **phenolic acids**.
 Several species exhibit antibacterial, antiviral, and antioxidant activities
 in vitro.
@@ -118,9 +118,9 @@ and fluorescent markers in biomedical research.
 
 ## Ecology and Applications
 
-Gracilaria plays significant ecological roles in coastal marine ecosystems.
+Gracilaria plays significant ecological roles in coastal [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]].
 Dense Gracilaria beds provide habitat and nursery grounds for juvenile fish and
-invertebrates. The genus contributes to **nutrient cycling** by efficiently
+invertebrates. The genus contributes to **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]** by efficiently
 absorbing dissolved nitrogen and phosphorus from the water column.
 
 In integrated multi-trophic aquaculture (IMTA) systems, Gracilaria is

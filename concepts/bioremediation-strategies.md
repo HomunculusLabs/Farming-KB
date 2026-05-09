@@ -1,5 +1,5 @@
 ---
-title: Bioremediation Strategies
+title: comparison-bioremediation-strategies-vs-biostimulation-techniques
 created: 2026-04-28
 tags: [environmental-science, bioremediation, ecology, mycology]
 date: 2026-04-28
@@ -52,8 +52,8 @@ emulsified vegetable oil.
 
 ## Mycoremediation
 
-Fungal bioremediation (mycoremediation) exploits the extracellular enzyme
-systems of fungi, particularly white rot basidiomycetes, to degrade persistent
+[[staycare-composting-as-a-fungal-bioremediation-strategy]] (mycoremediation) exploits the [[dighton-fungal-extracellular-enzyme-systems-decomposition]]
+systems of fungi, particularly [[comparison-brown-rot-vs-white-rot-bioremediation]] basidiomycetes, to degrade persistent
 organic pollutants. As described in [[hyperaccumulator-plants]] that concentrate metals in their
 aboveground tissues, which are then harvested. Thlaspi caerulescens accumulates
 zinc and cadmium at exphytostabilizationtrations, while sunflowers have been
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

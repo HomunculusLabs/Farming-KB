@@ -16,7 +16,7 @@ sources:
 
 # Blastomyces dermatitidis
 
-**Blastomyces dermatitidis** is a thermally dimorphic fungal pathogen that causes blastomycosis, also known as Gilchrist's disease or North American blastomycosis. It is one of the endemic dimorphic fungi, capable of existing as a mold in the environment and converting to a pathogenic yeast form at mammalian body temperature. The fungus is a significant cause of systemic mycosis in parts of North America, particularly the Mississippi and Ohio River valleys, and the Great Lakes region.
+**Blastomyces dermatitidis** is a thermally dimorphic [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] that causes blastomycosis, also known as Gilchrist's disease or [[growing-gourmet-north-american-reishi-species]] blastomycosis. It is one of the endemic dimorphic fungi, capable of existing as a mold in the environment and converting to a pathogenic yeast form at mammalian body temperature. The fungus is a significant cause of systemic mycosis in parts of North America, particularly the Mississippi and Ohio River valleys, and the Great Lakes region.
 
 ## Taxonomy and Classification
 
@@ -27,7 +27,7 @@ sources:
 - **Family:** Ajellomycetaceae
 - **Genus:** Blastomyces
 
-The teleomorph (sexual) state was long unknown but was eventually identified as *Ajellomyces dermatitidis*. Phylogenetic studies have confirmed that *Blastomyces* is closely related to *Histoplasma capsulatum* and *Paracoccidioides brasiliensis*, forming a monophyletic clade of dimorphic fungal pathogens within the Onygenales.
+The teleomorph (sexual) state was long unknown but was eventually identified as *Ajellomyces dermatitidis*. Phylogenetic studies have confirmed that *Blastomyces* is closely related to *Histoplasma capsulatum* and *Paracoccidioides brasiliensis*, forming a monophyletic clade of dimorphic [[bloomfield-fungal-pathogens-and-parasites]] within the Onygenales.
 
 ## Dimorphic Life Cycle
 
@@ -56,7 +56,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,3 +99,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[exophiala-dermatitidis]]

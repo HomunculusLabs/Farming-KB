@@ -28,13 +28,13 @@ created: 2026-05-07
 
 ## Overview
 
-**N-Methyltryptamine (NMT)** is an indole alkaloid and monoamine compound belonging to the tryptamine class of organic molecules.
+**N-Methyltryptamine (NMT)** is an [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] and monoamine compound belonging to the tryptamine class of organic molecules.
 
 It is a close structural analog of N,N-dimethyltryptamine (DMT), differing by the absence of one methyl group on the terminal amine nitrogen.
 
 NMT occurs naturally in a wide variety of plant species, animal tissues, and has been detected as a trace endogenous compound in human urine and cerebrospinal fluid.
 
-While pharmacologically less potent than DMT, NMT contributes to the overall psychoactive profile of several traditional entheogenic plant preparations.
+While pharmacologically less potent than DMT, NMT contributes to the overall psychoactive profile of several [[metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti]] plant preparations.
 
 ## History
 
@@ -66,7 +66,7 @@ NMT serves as a biosynthetic precursor to DMT via the enzyme indolethylamine N-m
 
 NMT acts primarily as a serotonin receptor agonist, with binding affinity for 5-HT₂A, 5-HT₁A, and 5-HT₂C receptor subtypes.
 
-Its affinity at the 5-HT₂A receptor is significantly lower than that of DMT, approximately 5–10 times less potent in receptor binding assays.
+Its affinity at the 5-HT₂A receptor is significantly lower than that of DMT, approximately 5–10 times less potent in [[tihkal-receptor-binding-serotonin]] assays.
 
 NMT also shows moderate affinity for sigma-1 receptors and may interact with trace amine-associated receptors (TAARs), though these interactions are less well characterized.
 
@@ -78,13 +78,13 @@ This MAOI activity means NMT may potentiate the effects of co-administered trypt
 
 NMT has been identified in a broad range of plant families, often co-occurring with DMT, 5-MeO-DMT, and bufotenine in psychoactive plant species.
 
-Significant plant sources include species of **Acacia** (particularly Australian wattles), **Anadenanthera peregrina** (yopo), **Virola** spp. (Amazonian snuff resins), and **Mimosa tenuiflora** (jurema).
+Significant plant sources include species of **Acacia** (particularly Australian wattles), **[[yopo-anadenanthera-peregrina-snuff]]** (yopo), **Virola** spp. (Amazonian snuff resins), and **Mimosa tenuiflora** (jurema).
 
 It has also been detected in **Desmanthus illinoensis**, **Phalaris** grasses, and various species of legumes where it likely serves a defensive ecological function.
 
 In mammals, NMT has been detected in human urine, blood plasma, and brain tissue, suggesting it is an endogenous trace amine produced via methylation of tryptamine by INMT.
 
-The physiological role of endogenous NMT remains unclear, though it may function as a neuromodulator or regulatory intermediate in tryptamine metabolism.
+The physiological role of endogenous NMT remains unclear, though it may function as a neuromodulator or regulatory [[glyoxalylamide-intermediate-in-tryptamine-synthesis]] metabolism.
 
 ## Effects and Dosage
 
@@ -102,7 +102,7 @@ NMT is rarely consumed in isolation; it is more commonly encountered as a compon
 
 NMT is unscheduled in most jurisdictions but may be controlled under analog drug legislation in countries with comprehensive tryptamine bans.
 
-In the United States, NMT is not specifically listed on the Controlled Substances Act but could potentially be prosecuted under the Federal Analog Act if marketed for human consumption.
+In the United States, NMT is not specifically listed on the Controlled [[controlled-substances-act-and-psychedelic-research]] but could potentially be prosecuted under the Federal Analog Act if marketed for human consumption.
 
 In the United Kingdom, the Psychoactive Substances Act 2016 potentially covers NMT as a psychoactive substance, though enforcement targeting this specific compound has been minimal.
 

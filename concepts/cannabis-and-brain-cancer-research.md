@@ -9,7 +9,7 @@ sources:
 ---
 # Cannabis and Brain Cancer (Glioma/Glioblastoma)
 
-**Source:** The Cannabis Health Index, Uwe Blesching, PhD (2017)
+**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]], Uwe Blesching, PhD (2017)
 **Updated:** 2026-04-19
 
 ## Evidence-Based Therapeutic Potential
@@ -27,7 +27,7 @@ Glioblastoma multiforme (GBM) is the most aggressive primary brain tumor in adul
 
 Research on cannabinoids and brain cancer has produced remarkably consistent results across multiple international teams:
 
-- **2001–2003:** International and Italian teams showed local injections of synthetic cannabinoid JWH-133 (CB2 agonist) reduced malignant brain tumor size in mice. CBD produced significant anti-brain tumor activity, selectively producing oxidative stress in cancer cells to cause apoptosis while leaving normal cells unaffected.
+- **2001–2003:** International and Italian teams showed local injections of synthetic cannabinoid JWH-133 (CB2 agonist) reduced malignant brain tumor size in mice. CBD produced significant anti-brain tumor activity, selectively producing [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in cancer cells to cause apoptosis while leaving normal cells unaffected.
 - **2004:** Spanish researchers found cannabinoids effectively inhibited the chemical signal needed for brain tumors to build their blood supply — an essential survival element. They proposed "a novel pharmacological target for cannabinoid-based therapies."
 - **2006:** Madrid scientists injected THC safely into nine human brain tumor patients that had failed standard treatments, without causing psychoactive effects.
 - **2008:** Israeli researchers discovered THC down-regulates proteins E2F1 and Cyclin A that promote cell cycle progression, arresting glioblastoma multiforme.
@@ -59,7 +59,7 @@ Cannabinoids attack brain cancer through multiple independent pathways, which is
 
 The 2006 Madrid clinical trial was groundbreaking as the first administration of THC directly into brain tumors of human patients. The intracranial THC administration was well-tolerated and did not produce significant psychoactive effects at the doses used. This study established safety and feasibility for subsequent clinical investigations.
 
-GW Pharmaceuticals has conducted Phase 2 clinical trials using a THC:CBD oromucosal spray (Sativex) in combination with temozolomide for recurrent glioblastoma. While results have been mixed, the safety profile has been favorable, supporting further investigation of cannabinoid-based adjunctive therapies.
+GW Pharmaceuticals has conducted Phase 2 [[mushroom-cancer-clinical-trials-overview]] using a THC:CBD oromucosal spray (Sativex) in combination with temozolomide for recurrent glioblastoma. While results have been mixed, the [[cannabis-safety-profile-and-overdose-risk]] has been favorable, supporting further investigation of cannabinoid-based adjunctive therapies.
 
 ## Dosage and Administration Considerations
 
@@ -69,9 +69,9 @@ For brain cancer patients considering cannabinoid therapy, several factors from 
 
 ## Strain-Specific Considerations
 
-Both THC and CBD independently inhibit brain cancer cell development and produce apoptosis. Greater effect is produced synergistically when THC and CBD are applied together. Both basic strains (sativa and indica) deliver the full range of plant cannabinoids. Patients may choose based on mental/emotional preference — indicas for relaxation, sativas for energy. Non-psychoactive raw juice from fresh cannabis leaves is an option for those avoiding psychoactivity.
+Both THC and CBD independently inhibit brain cancer cell development and produce apoptosis. Greater effect is produced synergistically when THC and CBD are applied together. Both basic strains (sativa and indica) deliver the full range of plant cannabinoids. Patients may choose based on mental/emotional preference — indicas for relaxation, sativas for energy. Non-psychoactive raw juice from fresh [[query-what-causes-cannabis-leaves-to-curl-and-how-to-fix-it]] is an option for those avoiding psychoactivity.
 
-Strains with high levels of [[cannabis-terpene-profile]] of selected strains can enhance therapeutic effects through the entourage effect, with pinene and limonene demonstrating potential synergistic activity.
+Strains with high levels of [[cannabis-terpene-profile]] of selected strains can enhance therapeutic effects through the [[cannabis-terpene-entourage-effect-profiles]], with pinene and limonene demonstrating potential synergistic activity.
 
 ## Key Finding
 
@@ -90,6 +90,18 @@ Beyond potential direct anti-cancer effects, cannabis may help manage symptoms c
 Despite the promising pre-clinical evidence, large-scale randomized controlled trials in humans are still needed. The heterogeneity of glioblastoma subtypes means that individual responses may vary significantly. The optimal ratios of THC:CBD, dosing schedules, and combinations with standard therapies remain under investigation. Patients should view cannabinoid therapy as a potential adjunct to — not a replacement for — conventional cancer treatment.
 
 ## Related
+
+- [[cannabis-tbi-research]]
+- [[cannabis-and-periodontitis-research]]
+- [[cannabis-glaucoma-research]]
+- [[cannabis-and-ulcerative-colitis]]
+- [[cannabis-menopause-research]]
+- [[cannabis-and-alcoholism-research]]
+- [[cannabis-asthma-research]]
+- [[cannabis-and-als-research]]
+- [[cannabis-and-eczema]]
+- [[cannabis-and-libido-research]]
+- [[cannabis-and-autism-research]]
 
 - [[cannabis-and-gerd-research]]
 

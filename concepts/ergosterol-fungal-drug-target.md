@@ -1,5 +1,5 @@
 ---
-title: Ergosterol as a Fungal Drug Target
+title: Ergosterol as a ergosterol fungal drug target Target
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -8,7 +8,7 @@ sources: []
 ---
 # Ergosterol as a Fungal Drug Target
 
-Ergosterol is the principal sterol in fungal cell membranes, analogous to cholesterol in animal
+Ergosterol is the principal sterol in [[gadd-fungal-cell-structure]] membranes, analogous to cholesterol in animal
 cells. Its unique structure and essential biological functions make it the primary target of the
 most widely used antifungal drugs, including azoles, polyenes, and allylamines. Understanding
 ergosterol biosynthesis and function is fundamental to antifungal pharmacology.
@@ -16,7 +16,7 @@ ergosterol biosynthesis and function is fundamental to antifungal pharmacology.
 ## What is Ergosterol?
 
 Ergosterol (ergosta-5,7,22-trien-3β-ol) is a 28-carbon sterol molecule that:
-- Maintains fungal membrane fluidity and permeability
+- Maintains [[ergosterol-fungal-membrane-biology]] fluidity and permeability
 - Regulates membrane protein function
 - Is essential for fungal cell growth and reproduction
 - Is absent from animal cells (which use cholesterol instead)
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

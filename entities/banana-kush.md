@@ -5,7 +5,7 @@ type: strain
 tags: [cannabis, indica-dominant, hybrid, medical-cannabis, california-strain, relaxing, tropical-aroma, skunk-lineage]
 date: 2026-04-28
 updated: 2026-04-28
-sources: ["Leafly Strain Database", "AllBud Cannabis Strain Reviews", "Wikileaf Strain Information"]
+sources: ["Leafly Strain Database", "AllBud blesching-cannabis-strain-selection-receptor-targeting Reviews", "Wikileaf Strain Information"]
 ---
 # Banana Kush
 ## Overview
@@ -75,15 +75,15 @@ a frosty, sticky appearance. The aroma is the strain's signature trait:
 ## Cultivation Notes
 Banana Kush is moderately challenging to grow, best suited for cultivators with
 some prior experience. Key parameters:
-- **Height:** Medium; responds well to training techniques (LST, SCROG)
+- **Height:** Medium; responds well to [[cannabis-training-techniques-comparison]] (LST, SCROG)
 - **Flowering Time:** 8–9 weeks indoors
 - **Yield:** Moderate to high (400–500 g/m² indoors; 500–700 g/plant outdoor)
 - **Climate:** Prefers warm, Mediterranean-like conditions; sensitive to cold
   and excessive humidity
-- **Nutrients:** Moderate feeder; watch for nitrogen toxicity in early veg;
+- **Nutrients:** Moderate feeder; watch for [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] in early veg;
   boost phosphorus and potassium during mid-flower for terpene development
 - **Pest Resistance:** Moderate; dense bud structure requires good airflow to
-  prevent bud rot and powdery mildew
+  prevent bud rot and [[cervantes-powdery-mildew-prevention-treatment]]
 ## Similar Strains
 | Trait | Banana Kush | OG Kush | Ghost OG | Skunk Haze | Granddaddy Purple |
 |---|---|---|---|---|---|
@@ -110,18 +110,18 @@ in both morphology and effect profile:
   more pronounced; body effects lighter. Less commonly found due to commercial
   preference for indica expression.
 ## Cultural Significance
-Banana Kush emerged during a transformative period in California's cannabis culture,
+Banana Kush emerged during a transformative period in California's [[mckenna-cannabis-culture-history]],
 when legacy breeders began systematically crossing classic indica and sativa lines
 to create new flavor profiles. Its distinctive banana aroma made it one of the
 first widely recognized "fruit-forward" strains, predating the explosion of
 flavor-focused breeding that would define the 2010s cannabis market. The strain
 has maintained consistent popularity for over a decade, appearing on dispensary
-menus across legal markets in North America and Europe. It has also served as
+menus across legal markets in [[psilocybin-north-america-pacific-northwest]] and Europe. It has also served as
 a parent or genetic contributor to several newer strains in the tropical-
 flavored category.
 ## See Also
 
 - [[og-kush]]
 - [[sour-diesel]]
-- [[gelato-cannabis]]
+- [[gelato]]
 - [[cannabis-indica]]

@@ -1,22 +1,12 @@
 ---
-title: Fungal Decomposition Succession and Resource Quality
+title: Fungal [[dighton-fungal-decomposition-leaf-litter-dynamics]] succession [[fungal-decomposition-resource-quality-determinants]] and fungal-decomposition-resource-quality-determinants
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: [papers/john-dighton-fungi-in-ecosystem-processes.md]
 ---
-# Fungal Decomposition Succession and Resource Quality
-
-## Overview
-
-The pattern of fungal colonization during decomposition is governed by the changing chemical quality of the resource. As plant litter decomposes, its chemical composition shifts from simple, labile compounds to increasingly recalcitrant, humified material. This trajectory drives a predictable succession of fungal species, each adapted to different resource qualities.
-
-## Resource Quality Parameters
-
-The determinants of resource quality — including C:N ratio, lignin content, polyphenols, and physical structure — collectively control decomposition rates and fungal succession patterns. For a comprehensive treatment of these [[fungal-succession-roots]]
-
-- [[fungal-enzyme-systems]] for the enzymes driving succession
+# Fungal Decomposition Succession and Resource Quality ## Overview The pattern of fungal colonization during decomposition is governed by the changing chemical quality of the resource. As plant litter decomposes, its chemical composition shifts from simple, labile compounds to increasingly recalcitrant, humified material. This trajectory drives a predictable succession of fungal species, each adapted to different resource qualities. ## Resource Quality Parameters The determinants of resource quality — including C:N ratio, lignin content, polyphenols, and physical structure — collectively control decomposition rates and fungal succession patterns. For a comprehensive treatment of these fungal-succession-roots - [[fungal-enzyme-systems]] for the enzymes driving succession
 - [[soil-food-web-nutrient-cycling]]
 - [[fungal-bacterial-interactions]]
 - [[fungal-stable-isotope-ecology]]
@@ -37,7 +27,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -87,7 +77,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -98,3 +88,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- fungal-succession-isotope-tracking

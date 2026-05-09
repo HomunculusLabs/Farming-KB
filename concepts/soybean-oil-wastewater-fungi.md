@@ -1,17 +1,12 @@
 ---
-title: Soybean Oil Wastewater Fungal Treatment
+title: Soybean Oil dairy-wastewater-fungal-treatment Treatment
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-
-# Soybean Oil Wastewater Fungal Treatment
-
-## Overview
-
-Wastewater from soybean oil manufacturing plants is characterized by high oil content (88% oils, 3% carbohydrates, 3% proteins, 6% unknown substances) and presents a significant treatment challenge. Fungal treatment using oil-decomposing yeasts has demonstrated effective removal without the need for chemical pretreatment, as part of [[dairy-wastewater-fungal-treatment]] and [[protein-fat-wastewater-fungi]] -- broader fungal wastewater treatment overview
+# Soybean Oil Wastewater Fungal Treatment ## Overview Wastewater from soybean oil manufacturing plants is characterized by high oil content (88% oils, 3% carbohydrates, 3% proteins, 6% unknown substances) and presents a significant treatment challenge. Fungal treatment using oil-decomposing yeasts has demonstrated effective removal without the need for chemical pretreatment, as part of [[dairy-wastewater-fungal-treatment]] and [[protein-fat-wastewater-fungi]] -- broader fungal wastewater treatment overview
 - [[protein-fat-wastewater-fungi]] -- protein-fat wastewater treatment
 - [[fungal-treatment-of-olive-mill-wastewater]]
 - [[water-activity-osmophilic-fungal-media-preparation]]
@@ -144,4 +139,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

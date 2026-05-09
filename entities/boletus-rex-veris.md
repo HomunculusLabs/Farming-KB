@@ -21,7 +21,7 @@ sources:
   - Arora, D. (1986). "Mushrooms Demystified." Ten Speed Press.
   - Siegel, N.S. & Schwarz, C. (2016). "Mushrooms of the Pacific Northwest." Timber Press.
   - Kuo, M. (2024). "Boletus rex-veris." MushroomExpert.com. https://www.mushroomexpert.com/boletus_rex_veris.html
-  - Frank, J.L. et al. (2020). "Boletus of North America." Mycotaxon 135(1): 1-48.
+  - Frank, J.L. et al. (2020). "Boletus of [[psilocybin-north-america-pacific-northwest]]." Mycotaxon 135(1): 1-48.
   - Association of Washington Mycological Society (2023). "Spring Bolete Identification Guide."
 created: 2026-04-28
 ---
@@ -30,7 +30,7 @@ created: 2026-04-28
 
 *Boletus rex-veris* is a large edible bolete fungus native to western North America, closely related to the European porcini (*Boletus edulis*). It is the primary spring-fruiting king bolete of the Pacific Northwest and California, typically appearing from March through June.
 
-The species was long considered a variety of *Boletus pinophilus* before being elevated to species status. It is among the most prized wild edible mushrooms in western North America, with a rich, nutty flavor comparable to Italian porcini.
+The species was long considered a variety of *Boletus pinophilus* before being elevated to species status. It is among the most prized wild [[palmer-edible-mushrooms-north-america]] in western North America, with a rich, nutty flavor comparable to Italian porcini.
 
 ## Taxonomy
 
@@ -48,7 +48,7 @@ The epithet *rex-veris* means "spring king" in Latin, referencing its early-seas
 
 - *Boletus pinophilus* var. *rex-veris* (Murrill) Both
 - *Ceriomyces rex-veris* Murrill
-- *Boletus edulis* sensu Arora (misapplied in older North American literature)
+- *Boletus edulis* sensu Arora (misapplied in older [[growing-gourmet-north-american-reishi-species]] literature)
 
 ## Morphology
 
@@ -58,7 +58,7 @@ The pore surface is white when young, becoming yellow-olive with age. Pores are 
 
 The stipe is stout, 8–20 cm long and 3–6 cm thick, with a fine reticulation (net pattern) at the apex that may extend partway down. It is solid and firm when young, becoming hollow with age.
 
-Flesh is white and firm, thick in the cap, and does not change color when cut or exposed to air. The taste is mild and nutty; the odor is pleasant and fungal. Spore print is olive-brown. Spores measure 12–17 × 4–6 µm, smooth and fusoid.
+Flesh is white and firm, thick in the cap, and does not change color when cut or exposed to air. The taste is mild and nutty; the odor is pleasant and fungal. [[comparison-spore-print-collection-vs-spore-syringe-production]] is olive-brown. Spores measure 12–17 × 4–6 µm, smooth and fusoid.
 
 ## Distribution and Habitat
 
@@ -70,7 +70,7 @@ Elevation ranges from near sea level in coastal forests to approximately 2,000 m
 
 ## Edibility and Culinary Use
 
-*Boletus rex-veris* is an excellent edible mushroom, widely regarded as one of the finest wild mushrooms in North America. The flesh is firm and meaty when fresh, with a rich, nutty flavor that intensifies when dried.
+*Boletus rex-veris* is an excellent edible mushroom, widely regarded as one of the finest [[edible-wild-mushrooms-by-region]] in North America. The flesh is firm and meaty when fresh, with a rich, nutty flavor that intensifies when dried.
 
 Common preparations include sautéing in butter or olive oil, drying for later use in soups and risottos, and pickling. Dried specimens reconstitute well and develop a deep umami character. Young specimens with white pores are preferred for fresh eating.
 
@@ -97,7 +97,7 @@ Attempts to cultivate *Boletus rex-veris* commercially have been largely unsucce
 
 Foragers seeking reliable harvest locations should look for mature Douglas-fir or white fir stands with duff-covered forest floors. Fruitings are often associated with areas of moderate to high soil moisture following spring rains.
 
-Annual productivity varies dramatically with weather patterns. Wet, cool springs produce abundant flushes, while dry years may yield almost no fruiting. Climate change models suggest potential shifts in distribution and timing for Pacific Northwest bolete species.
+Annual productivity varies dramatically with weather patterns. Wet, cool springs produce abundant flushes, while dry years may yield almost no fruiting. [[dighton-fungi-climate-change-feedback]] models suggest potential shifts in distribution and timing for Pacific Northwest bolete species.
 
 ## Chemical Composition
 

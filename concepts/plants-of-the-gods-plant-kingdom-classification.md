@@ -94,7 +94,7 @@ hallucinogenic species:
 
 - **Solanaceae** (Nightshade family): [[schultes-datura-holy-flower-north-star]], [[schultes-mandrake-mandragora-officinarum]], [[schultes-peyote-and-mescaline]], [[plants-of-the-gods-turbina-corymbosa-ololiuqui]],
   [[schultes-ayahuasca-magic-drink-amazon]],
-Tetrapteris methystica (yage)
+[[entheogen-tetrapteris-methystica-alternative-caapi]] (yage)
 - **Apocynaceae** (Dogbane family): [[plants-of-the-gods-anadenanthera-yopo-cebil]],
   [[plants-of-the-gods-virola-epena-snuff]]
 - **Cannabaceae**: [[the-aware-plant-plant-consciousness-debate]]

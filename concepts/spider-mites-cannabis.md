@@ -1,9 +1,9 @@
 ---
-title: Spider Mites - Cannabis Pest Guide
+title: Spider Mites - query-how-to-use-neem-oil-for-cannabis-pest-control Guide
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -11,7 +11,7 @@ tags: [cannabis]
 
 # Spider Mites on Cannabis
 
-Spider mites (Tetranychidae family) are the most common and destructive pest found on indoor cannabis plants. They have eight legs and are classified as arachnids (spiders) rather than insects, which have six legs. The most common species attacking indoor cannabis is the two-spotted spider mite (Tetranychus urticae). Spider mites have been responsible for more crop losses in indoor gardens than any other pest.
+Spider mites (Tetranychidae family) are the most common and destructive pest found on [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]] plants. They have eight legs and are classified as arachnids (spiders) rather than insects, which have six legs. The most common species attacking indoor cannabis is the two-spotted spider mite (Tetranychus urticae). Spider mites have been responsible for more crop losses in indoor gardens than any other pest.
 
 ## Identification
 
@@ -47,7 +47,7 @@ Spider mites suck sap from plants, causing progressive damage:
 - Partial to complete leaf function loss as photosynthetic tissue is destroyed
 - Leaf drop and eventual plant death in severe cases
 - Webbing that can physically interfere with new growth
-- Reduced essential oil production in affected areas, lowering harvest quality
+- Reduced [[permaculture-designers-manual-essential-oil-plants]] production in affected areas, lowering harvest quality
 
 Once a plant is overrun, the infestation progresses rapidly due to the short reproductive cycle. Plants that are already stressed from nutrient imbalances or environmental problems are more susceptible to severe damage.
 
@@ -59,7 +59,7 @@ Spider mites thrive in dry conditions at 70-80°F (21-27°C). Create a hostile e
 - Spraying foliage (especially leaf undersides) with cold water to blast mites off and increase humidity
 - Keeping relative humidity above 50% (mites prefer dry conditions below 40-50%)
 - Removing leaves with more than 50% damage
-- Increasing air circulation to disrupt the still, dry microclimate mites prefer
+- Increasing [[stamets-growing-room-air-circulation-co2-management]] to disrupt the still, dry microclimate mites prefer
 
 Temperature is one of the most effective control levers. At 60°F (16°C), the reproductive cycle extends significantly, giving biological and chemical controls time to work. Combining lower temperature with higher humidity creates conditions where spider mites struggle while cannabis plants remain productive.
 
@@ -75,17 +75,17 @@ Mother plants are a common source of spider mite infestations. Spray mother plan
 
 ## Biological Controls
 
-Predatory mites are the most effective long-term biological control:
+[[comparison-predatory-mites-vs-ladybugs-biocontrol]] are the most effective long-term biological control:
 
-- [[gaias-garden-host-plants-beneficial-insects]] are the two most common and effective predators
-- [[gaias-garden-host-plants-beneficial-insects]], [[gaias-garden-host-plants-beneficial-insects]] are also available commercially
+- gaias-garden-host-plants-beneficial-insects are the two most common and effective predators
+- gaias-garden-host-plants-beneficial-insects, gaias-garden-host-plants-beneficial-insects are also available commercially
 
 Key considerations for predator use:
 
 - Average predator can eat 20 eggs or 5 adults daily
 - General dosage: 20 predators per plant
 - Predatory mites have difficulty traveling between plants — release on each plant individually
-- Release predators as soon as spider mites are seen on [[permaculture-pyrethrum-daisy]] (aerosol) — the best natural miticide; apply 2-3 times at 5-10 day intervals
+- Release predators as soon as spider mites are seen on [[permaculture-pyrethrum-daisy]] (aerosol) — the [[query-what-are-the-best-natural-building-methods]] miticide; apply 2-3 times at 5-10 day intervals
 - Horticultural oil — smothers eggs; can be mixed with pyrethrum
 - Insecticidal soap — 2-3 applications at 5-10 day intervals
 - Cinnamaldehyde (extracted from cinnamon) — kills mites on contact
@@ -125,6 +125,9 @@ Prevention is the most important first step in spider mite control:
 
 ## See Also
 
-- [[gaias-garden-host-plants-beneficial-insects]] — predator and parasite options
+- gaias-garden-host-plants-beneficial-insects — predator and parasite options
 - [[cannabis-disease-guide]] — broader disease reference
 - thrips-cannabis|Thrips — another common cannabis pest with similar damage patterns
+- [[query-how-to-prevent-and-treat-spider-mites-on-cannabis]]
+- [[cervantes-spider-mites-identification-control]]
+- [[greg-green-spider-mites-and-common-pests]]

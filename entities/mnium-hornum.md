@@ -18,9 +18,9 @@ sources:
 
 ## Overview
 
-**Mnium hornum** (swan's-neck thyme-moss, horn-leaved thyme-moss) is an acrocarpous moss in the family Mniaceae, widespread across Europe and eastern North America. It is one of the most common and easily recognized woodland mosses, forming loose turfs on shaded banks, rotting wood, and forest floors.
+**Mnium hornum** (swan's-neck thyme-moss, horn-leaved thyme-moss) is an acrocarpous moss in the family Mniaceae, widespread across Europe and [[polypore-fungi-eastern-north-america]] America. It is one of the most common and easily recognized woodland mosses, forming loose turfs on shaded banks, rotting wood, and forest floors.
 
-The species is named for its characteristic arched (swan's-neck) setae that curve sharply downward just below the capsule, giving the sporophyte a distinctive hooked appearance. This feature makes it identifiable even without microscopic examination.
+The species is named for its characteristic arched (swan's-neck) setae that curve sharply downward just below the capsule, giving the sporophyte a distinctive hooked appearance. This feature makes it identifiable even without [[fungal-microscopic-examination-mounting-media-techniques]].
 
 Mnium hornum is an early-successional species on disturbed forest substrates. It colonizes bare soil, decaying logs, and tree bases rapidly, forming turfs that facilitate later colonization by other mosses and vascular plants.
 
@@ -43,7 +43,7 @@ The costa is strong and extends to the leaf tip or shortly excurrent. Leaf cells
 
 The sporophyte is conspicuous and distinctive. The seta is 2 to 3.5 cm long, purplish-red, and curves sharply downward near the capsule in a characteristic swan's-neck arc. Capsules are pendulous, 2.5 to 4 mm long, cylindrical, and strongly ribbed when dry.
 
-Capsules have a conical, beaked operculum and a well-developed double peristome. Spores are 14 to 20 μm in diameter, finely papillose, and mature from late winter to early spring.
+Capsules have a conical, beaked operculum and a well-developed double peristome. Spores are 14 to 20 μm in diameter, finely papillose, and mature from late winter to [[coleman-overwintered-onions-and-early-spring-crops]].
 
 The species is autoicous, with male and female reproductive structures borne on separate branches of the same stem. Sporophyte production is relatively frequent compared to many forest mosses, with mature capsules commonly observed in early spring.
 
@@ -53,9 +53,9 @@ When moist, the turfs appear soft and glossy with spreading leaves. Upon drying,
 
 Mnium hornum is distributed across western and central Europe, from the British Isles and Scandinavia southward to the Iberian Peninsula and Italy, and eastward to the Carpathians and western Russia. It also occurs in eastern North America from Newfoundland to the Great Lakes region.
 
-The species is absent from the Mediterranean lowlands, arctic regions, and most of Asia. It reaches its greatest abundance in the oceanic and suboceanic climate zones of western Europe, where high rainfall and moderate temperatures favor its growth.
+The species is absent from the Mediterranean lowlands, arctic regions, and most of Asia. It reaches its greatest abundance in the oceanic and suboceanic [[mollison-climate-zones-permaculture-strategies]] of western Europe, where high rainfall and moderate temperatures favor its growth.
 
-It colonizes a variety of shaded, moist substrates including forest floors, stream banks, rotting logs, tree bases, rocky ledges, and earthen banks. It shows a preference for acidic to neutral soils rich in organic matter.
+It colonizes a variety of shaded, moist substrates including forest floors, stream banks, rotting logs, tree bases, rocky ledges, and earthen banks. It shows a preference for acidic to neutral soils rich in [[hamilton-composting-and-organic-matter-management]].
 
 Mnium hornum is an early colonizer of disturbed sites, rapidly establishing on bare soil following landslides, treefall, or trail disturbance. It is common in both deciduous and coniferous woodlands but prefers shaded conditions with consistent moisture.
 

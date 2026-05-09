@@ -1,5 +1,5 @@
 ---
-title: Gymnopilus Genus Neurotropic Species
+title: Gymnopilus gymnopilus genus neurotropic species Species
 created: 2026-04-28
 tags:
   - mycology
@@ -21,7 +21,7 @@ type: concept
 
 ## Taxonomic Background
 
-Gymnopilus was treated systematically by Hesler (1969) for North America and by Singer (1986) in his worldwide Agaricales monograph. For Mexico, Guzmán Dávalos (1993) and Guzmán Dávalos and Guzmán (1995) published detailed treatments. The genus is closely related to Cortinarius and Galerina within the Cortinariaceae.
+Gymnopilus was treated systematically by Hesler (1969) for [[psilocybin-north-america-pacific-northwest]] and by Singer (1986) in his worldwide Agaricales monograph. For Mexico, Guzmán Dávalos (1993) and Guzmán Dávalos and Guzmán (1995) published detailed treatments. The genus is closely related to Cortinarius and Galerina within the Cortinariaceae.
 
 ## Neurotropic Species
 
@@ -37,7 +37,7 @@ Only a minority of Gymnopilus species are neurotropic. The confirmed and suspect
 | **G. luteofolius** | Hesler, 1969 | Pacific Northwest (USA) |
 | **G. liquiritiae** | Hongo, 1959; Samorini, 1989 | Europe, Japan, North America |
 | **G. sapineus** | Hesler, 1969 | North America, Japan, India |
-| **G. validipes** | Hatfield, Valdes & Smith, 1977 | Eastern North America |
+| **G. validipes** | Hatfield, Valdes & Smith, 1977 | [[polypore-fungi-eastern-north-america]] America |
 | **G. viridans** | Ammirati et al., 1985 | Pacific Northwest (USA) |
 | **G. brandlei** | Hesler, 1969 | North America |
 | **G. lateritius** | Guzmán Dávalos & Guzmán, 1995 | Mexico |
@@ -87,7 +87,7 @@ Chile and Argentina are notable for:
 
 Multiple species have been reported across Europe:
 - G. spectabilis: Germany, Great Britain, Norway, Spain, Switzerland, Greece
-- G. purpuratus: Originally South American, introduced in Europe (Germany, Great Britain, Netherlands)
+- G. purpuratus: Originally [[chiric-caspi-brunfelsia-south-american-hallucinogen]], introduced in Europe (Germany, Great Britain, Netherlands)
 - G. aeruginosus: Reported from across Europe
 - G. liquiritiae: Great Britain, Germany, Italy, Russia
 - G. sapineus: Great Britain, Germany, Norway, Switzerland
@@ -123,9 +123,9 @@ The neurotropic species tend to be **large and conspicuous**, making them among 
 
 ## Key References
 
-- Hesler, L.R. (1969). North American species of Gymnopilus
+- Hesler, L.R. (1969). [[growing-gourmet-north-american-reishi-species]] species of Gymnopilus
 - Guzmán Dávalos, L. (1993). Contribución al conocimiento del género Gymnopilus en México
-- Gartz, J. (1996). Magic Mushrooms Around the World
+- Gartz, J. (1996). Magic Mushrooms [[fungi-around-the-world-species-distribution]]
 - Hatfield, G.M., Valdes, L.J. & Smith, A.H. (1978). The occurrence of psilocybin in Gymnopilus species
 
 ## See Also
@@ -133,7 +133,11 @@ The neurotropic species tend to be **large and conspicuous**, making them among 
 - [[panaeolus-panaeolina-neurotropic-species]]
 
 - Psilocybe Genus Overview
-- [[copelandia-genus]]
+- copelandia-genus
 - Psilocybin Chemistry
 - Panaeolus and Panaeolina Genera
 - [[baeocystin]]
+- [[neurotropic-fungi]]
+- [[guzman-allen-gartz-gymnopilus-pluteus-neurotropic-genera]]
+
+- [[neurotropic-puffballs-lycoperdales-vascellum-species]]

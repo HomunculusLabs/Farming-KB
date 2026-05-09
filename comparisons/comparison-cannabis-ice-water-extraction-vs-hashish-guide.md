@@ -1,5 +1,5 @@
 ---
-title: "Cannabis Ice Water Extraction vs Hashish Guide"
+title: "comparison cannabis ice water extraction vs hashish guide Water Extraction vs Hashish Guide"
 created: 2026-04-28
 tags: [comparison, extraction, hash, bubble-hash, concentrates]
 date: 2026-04-25
@@ -13,7 +13,7 @@ Ice water extraction and traditional hashish production represent two interconne
 distinct approaches to separating cannabis resin from plant material. Ice water extraction
 is a specific, modern mechanical technique that uses cold water agitation and micron-screen
 filters to isolate trichome heads, while the broader hashish guide encompasses all methods
-of hashish production including dry sift, hand-rubbed charas, ice water extraction, and
+of hashish production including [[green-cannabis-dry-sift-water-extraction]], hand-rubbed charas, ice water extraction, and
 pressed forms. Understanding the relationship between these two topics helps growers choose
 the right extraction approach based on available equipment, desired quality, and the time
 and effort they are willing to invest in the process.
@@ -52,7 +52,7 @@ kief or bubble hash into dense, homogeneous blocks suitable for long-term storag
 | Quality ceiling | Full melt possible | Full melt possible with multiple methods |
 | Time investment | 1-3 hours per batch | Varies widely by method |
 | Plant material state | Frozen | Fresh, dried, or frozen depending on method |
-| Cultural history | Modern technique | Thousands of years of tradition |
+| [[shroom-cultural-history-hippie-revolution-and-counterculture]] | Modern technique | Thousands of years of tradition |
 | Scalability | Moderate | Varies by method |
 ## When to Choose Ice Water Extraction
 Ice water extraction is the best choice when you want a clean, solventless concentrate using
@@ -73,7 +73,7 @@ The broader hashish guide is the better reference when you want to explore multi
 approaches or work with traditional methods that require minimal equipment. Dry sift is the
 simplest entry point, requiring only a screen and a collection surface, making it accessible
 to anyone with dried cannabis material. Hand-rubbed charas offers a deeply traditional,
-intimate connection to the plant that some collectors value for its cultural significance
+intimate connection to the plant that some collectors value for its [[ethnomycology-cultural-significance-sacred-fungi]]
 and the unique character of the resulting resin. For producers interested in historical
 context and method diversity, the guide provides the foundation to understand how different
 cultures have approached resin separation over centuries.
@@ -93,6 +93,8 @@ water extraction to create bubble hash, then press it using traditional heat-pre
 described in the hashish guide to create dense, homogeneous hash blocks that age and store
 beautifully over time.
 ## See Also
+
+- [[green-cannabis-dry-sift-water-extraction]]
 - [[cannabis-ice-water-extraction]]
 - [[comparison-cannabis-kief-collection-vs-hashish-guide]]
 - [[psychedelic-substances-comparison]]

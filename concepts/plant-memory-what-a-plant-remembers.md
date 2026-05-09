@@ -36,7 +36,7 @@ Some forms of plant memory can be transmitted across generations through
 epigenetic inheritance. Stress-induced changes in DNA methylation and histone
 modification can sometimes be transmitted through seeds to offspring, which
 then exhibit altered stress responses. For example, progeny of drought-stressed
-plants may show enhanced drought tolerance even without experiencing water
+plants may show enhanced [[dighton-fungal-drought-tolerance-plant-water-relations]] even without experiencing water
 stress themselves. This provides a mechanism for faster adaptation to changing
 environments than genetic mutation alone allows.
 
@@ -49,7 +49,7 @@ sensitisation refers to an enhanced response to a stimulus following a
 strong or noxious stimulus.
 
 In plants, repeated touch stimulation leads to reduced touch responses over
-time, a form of habituation. The sensitive plant (*Mimosa pudica*) will
+time, a form of habituation. The sensitive plant (*[[tompkins-mimosa-pudica-sensitive-plant-experiments]]*) will
 stop folding its leaves if touched repeatedly, though it will resume
 folding if left alone for a period. Conversely, a plant that has
 experienced herbivore damage may show heightened sensitivity to subsequent

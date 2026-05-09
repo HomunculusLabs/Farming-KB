@@ -14,9 +14,9 @@ type: query
 
 Beans and peas can improve soil nitrogen over time, but they usually do not directly feed nearby plants with large amounts of nitrogen while they are alive.
 Most nitrogen fixed by a bean or pea plant first goes into that plant's leaves, roots, nodules, pods, and seeds.
-Neighboring crops may receive small amounts through root exudates, nodule turnover, and shared soil biology, but the main benefit comes after residues decompose.
+Neighboring crops may receive small amounts through [[mycorrhizal-root-exudates-pathogen-interactions]], nodule turnover, and shared soil biology, but the main benefit comes after residues decompose.
 If pods or dry seed are harvested and removed, much of the nitrogen leaves the bed with the crop.
-The practical answer is explained by [[nitrogen-availability-in-legumes]], and [[legume-nitrogen-myth-beans-feed-corn]] is a useful caution against oversimplified companion planting claims.
+The practical answer is explained by [[nitrogen-availability-in-legumes]], and [[legume-nitrogen-myth-beans-feed-corn]] is a useful caution against oversimplified [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] claims.
 The myth contains a seed of truth, but the timing is usually wrong.
 
 ### How beans and peas fix nitrogen
@@ -33,8 +33,8 @@ Harvest changes the nitrogen budget.
 Green beans remove some nitrogen in pods, but dry beans and peas can remove a larger share in protein-rich seed.
 If the gardener pulls the whole plant and exports vines, roots, and pods, the bed receives much less nitrogen back.
 If roots stay in place and vines become mulch or compost, more nitrogen returns to the soil food web.
-The crop can therefore be food production, fertility building, or a compromise between the two.
-For crop management, see [[solomon-growing-beans-and-peas]].
+The crop can therefore be food production, [[soil-fertility-building-gradient-solomon]], or a compromise between the two.
+For [[mushroom-crop-management-flush-harvesting]], see [[solomon-growing-beans-and-peas]].
 
 ### Residues are the main transfer pathway
 
@@ -47,7 +47,7 @@ Leaving residues in place is usually more important than the exact companion-pla
 ### When interplanting still helps
 
 Interplanting beans and peas can still be useful even if instant nitrogen feeding is modest.
-Legumes can cover soil, shade weeds, add flowers, support beneficial insects, and diversify root patterns.
+Legumes can cover soil, shade weeds, add flowers, support [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], and diversify root patterns.
 Pole beans can use vertical space that might otherwise be empty.
 Peas can finish early and leave a bed ready for a summer crop.
 Mixed plantings can reduce bare soil and improve garden resilience.
@@ -73,7 +73,7 @@ For intentional fertility, use dedicated [[green-manure-cover-crops]].
 
 ### Cover crop peas versus edible peas
 
-Field peas grown as cover crops are managed differently from edible snap peas or shelling peas.
+Field peas grown as [[gaias-garden-cover-crops-soil-building]] are managed differently from edible snap peas or shelling peas.
 A cover crop pea stand is usually grown for biomass and terminated before or around flowering.
 An edible pea crop is grown for pods and often removed from the system through harvest.
 The cover crop returns more nitrogen because more of its biomass stays on site.

@@ -15,7 +15,7 @@ sources:
   - López-García, R.E. et al. (2018). "Vincamine and related alkaloids: a comprehensive review." Journal of Pharmacy and Pharmacology 70(7): 879-894.
   - Duke, J.A. (2002). Handbook of Medicinal Herbs. 2nd ed. CRC Press.
   - Newall, C.A. et al. (1996). Herbal Medicines: A Guide for Health-Care Professionals. Pharmaceutical Press.
-  - van Beek, T.A. (2005). "Chemical analysis of Vinca alkaloids." Journal of Pharmaceutical and Biomedical Analysis 38(4): 555-563.
+  - van Beek, T.A. (2005). "[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of Vinca alkaloids." Journal of Pharmaceutical and Biomedical Analysis 38(4): 555-563.
   - Szabó, L. (1958). "Investigations on Vinca minor alkaloids." Acta Pharmaceutica Hungarica 28: 68-74.
 created: 2026-04-28
 ---
@@ -50,7 +50,7 @@ The fruit is a pair of slender follicles 2–3 cm long. Each follicle contains 3
 
 *V. minor* is native to central and southern Europe, ranging from the Netherlands and Germany southward through the Alps to the Mediterranean, and eastward to the Caucasus and Turkey.
 
-It has been widely introduced as an ornamental plant and has naturalized extensively in North America, the British Isles, Scandinavia, Australia, and New Zealand. In parts of the eastern United States and the Pacific Northwest, it is considered an invasive species that displaces native forest floor vegetation.
+It has been widely introduced as an ornamental plant and has naturalized extensively in [[psilocybin-north-america-pacific-northwest]], the British Isles, Scandinavia, Australia, and New Zealand. In parts of the eastern United States and the Pacific Northwest, it is considered an invasive species that displaces native forest floor vegetation.
 
 The species thrives in partial to full shade, preferring moist, well-drained soils rich in organic matter. It is commonly found in deciduous woodlands, forest edges, hedgerows, and riparian zones at elevations up to 1,000 meters.
 
@@ -66,7 +66,7 @@ It is a monomeric indole alkaloid with vasodilatory and nootropic properties. Th
 
 Vincine (also called apovincamine) and vincadifformine are related alkaloids present in lower concentrations. Minor alkaloids include reserpine-like compounds, although reserpine itself is absent from *Vinca* species (it is characteristic of *Rauvolfia*).
 
-Other constituents include flavonoids (luteolin-7-glucoside), tannins, and triterpenes (ursolic acid, oleanolic acid). The total alkaloid content of dried leaves ranges from 0.3–1.0% depending on genetic and environmental factors.
+Other constituents include flavonoids (luteolin-7-glucoside), tannins, and triterpenes (ursolic acid, oleanolic acid). The total alkaloid content of dried leaves ranges from 0.3–1.0% depending on genetic and [[duggar-mushroom-environmental-factors-temperature-moisture-light]].
 
 ## Pharmacology
 
@@ -76,7 +76,7 @@ It functions as a phosphodiesterase inhibitor, increasing intracellular cAMP lev
 
 Clinical studies have demonstrated that vincamine improves cerebral circulation and oxygen utilization.
 
-It has been used therapeutically for cerebrovascular insufficiency, vascular dementia, senile cognitive decline, and vertigo of vascular origin. Meta-analyses of clinical trials show modest but statistically significant improvements in cognitive test scores.
+It has been used therapeutically for cerebrovascular insufficiency, vascular dementia, senile cognitive decline, and vertigo of vascular origin. Meta-analyses of [[mushroom-cancer-clinical-trials-overview]] show modest but statistically significant improvements in cognitive test scores.
 
 Typical therapeutic doses of vincamine range from 10–30 mg per day. The compound is available as a prescription pharmaceutical in many European countries under brand names such as Cavit, Oxybral, and Intelectol. It is administered orally with good bioavailability.
 
@@ -88,7 +88,7 @@ Antitumor research has focused on the related species *Catharanthus roseus* (Mad
 
 ## Ethnobotanical and Traditional Use
 
-In medieval European herbalism, periwinkle was attributed with magical protective properties.
+In [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] herbalism, periwinkle was attributed with magical protective properties.
 
 It was carried as a charm against witchcraft and evil spirits, a use recorded by Dioscorides, Pliny, and later English herbals. The genus name *Vinca* derives from the Latin *vincire* (to bind), referring to the trailing stems.
 
@@ -106,7 +106,7 @@ Propagation is primarily vegetative, by division of established mats or by stem 
 
 Seed germination is possible but slow and irregular. The plant is extremely low-maintenance once established and tolerates neglect, poor soils, and competition from tree roots.
 
-Invasive potential is significant in temperate forest ecosystems outside its native range. Dense periwinkle mats can exclude native spring ephemerals and prevent tree seedling establishment. Biological control is not practiced; management relies on manual removal and herbicide application.
+Invasive potential is significant in temperate forest ecosystems outside its native range. Dense periwinkle mats can exclude native spring ephemerals and prevent tree seedling establishment. [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] is not practiced; management relies on manual removal and herbicide application.
 
 ## See Also
 

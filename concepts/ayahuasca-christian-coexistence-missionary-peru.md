@@ -1,5 +1,5 @@
 ---
-title: "Christian Coexistence with Ayahuasca Practice in Peru"
+title: "ayahuasca christian coexistence missionary peru with Ayahuasca Practice in Peru"
 source: stuart-r-ayahuasca-tourism.md
 topics: [ayahuasca, christianity, peru, syncretism, indigenous, culture]
 ---
@@ -16,7 +16,7 @@ The relationship between Christianity and indigenous ayahuasca practice in the P
 
 Multiple Christian denominations maintain active missionary presence in the Peruvian Amazon:
 
-- **Pentecostal** missionaries have gained many converts, often through charismatic worship styles that share some experiential qualities with ayahuasca ceremonies
+- **Pentecostal** missionaries have gained many converts, often through charismatic worship styles that share some experiential qualities with [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]]
 - **Seventh-Day Adventist** missions have established communities with health-focused messaging that resonates with indigenous interest in plant medicine
 - **Catholic** missions, while having the longest historical presence, have been somewhat less successful in the specific communities Stuart visited
 
@@ -28,7 +28,7 @@ Despite public disavowal, Stuart found that the reality is far more nuanced:
 
 - Some Christian converts **privately continue to consume ayahuasca** and practice native religious traditions
 - The public rejection of shamanism may be performative, driven by social pressure from the missionary community
-- The persistence of private practice suggests that ayahuasca holds deep personal and cultural significance that survives even formal conversion
+- The persistence of private practice suggests that ayahuasca holds deep personal and [[ethnomycology-cultural-significance-sacred-fungi]] that survives even formal conversion
 - This pattern of **public conformity with private resistance** is a well-documented phenomenon in colonial and post-colonial religious contexts
 
 ## Ayahuasca as Cultural Constant
@@ -38,7 +38,7 @@ Despite public disavowal, Stuart found that the reality is far more nuanced:
 Ayahuasca's role in Peruvian spiritual and economic life has proven remarkably resilient:
 
 - Ayahuasca remains a **valued part of Peruvian spiritual life** across indigenous and mestizo communities
-- Its role extends beyond the purely spiritual into **economic and social domains**
+- Its role extends beyond the purely spiritual into **[[holmgren-economic-and-social-succession]] domains**
 - Government agencies sponsor ayahuasca festivals, treating the brew as cultural heritage rather than contraband
 - Market stalls openly sell both prepared ayahuasca and raw brewing materials
 - Even Peru's president participated in a ceremony, demonstrating mainstream acceptance
@@ -59,7 +59,7 @@ Unlike the United States drug war framework, Peru maintains a fundamentally diff
 The coexistence of Christian faith and ayahuasca practice manifests in several ways:
 
 1. **Sequential practice**: Individuals may attend church services while maintaining separate participation in ayahuasca ceremonies, keeping the two spheres compartmentalized
-2. **Syncretic ritual**: Some practitioners incorporate Christian elements (prayers, biblical references) into ayahuasca ceremonies, creating hybrid spiritual experiences
+2. **Syncretic ritual**: Some practitioners incorporate Christian elements (prayers, [[allegro-biblical-references-to-mushrooms-and-fungi]]) into ayahuasca ceremonies, creating hybrid spiritual experiences
 3. **Seasonal practice**: Ayahuasca may be reserved for specific purposes (healing, divination) while Christianity handles daily spiritual needs
 4. **Generational division**: Older community members may maintain ayahuasca practice while younger converts fully embrace Christianity
 
@@ -68,7 +68,7 @@ The coexistence of Christian faith and ayahuasca practice manifests in several w
 Missionaries face a strategic challenge in the Amazon:
 
 - Direct attacks on ayahuasca risk alienating communities where the practice is deeply embedded
-- The experiential nature of ayahuasca visions provides direct spiritual experience that can compete with Christian claims of exclusive access to the divine
+- The experiential nature of [[amaringo-ayahuasca-visions-shipibo-iconography]] provides direct spiritual experience that can compete with Christian claims of exclusive access to the divine
 - Indigenous converts who privately continue ayahuasca practice represent a form of **religious resistance** that is difficult for missionaries to detect or counter
 - The material benefits of ayahuasca tourism (income for practitioners) create economic incentives that offset spiritual arguments against the practice
 

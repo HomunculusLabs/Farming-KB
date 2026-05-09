@@ -1,5 +1,5 @@
 ---
-title: Quantum Mechanical Correlates of Hallucinogenesis
+title: mckenna quantum mechanical correlates hallucinogenesis Correlates of Hallucinogenesis
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-In his 1983 Esalen lecture on tryptamine hallucinogens and consciousness, Terence
+In his 1983 Esalen lecture on [[mckenna-tryptamine-hallucinogens-and-consciousness]] and consciousness, Terence
 McKenna advanced a specific argument about the relationship between quantum
 mechanics and hallucinogenic activity. Drawing on the work of John Smythies,
 Alexander Shulgin, and others, McKenna pointed to the extraordinary sensitivity
@@ -49,7 +49,7 @@ the quantum mechanical correlates of hallucinogenesis. Shulgin's systematic
 exploration of phenethylamine and tryptamine derivatives — eventually compiled
 in PiHKAL and TiHKAL — provided extensive empirical evidence that minute
 structural modifications produced qualitatively different subjective
-experiences. The now-familiar Shulgin rating scale itself reflects this
+experiences. The now-familiar [[tihkal-shulgin-rating-scale]] scale itself reflects this
 phenomenon: compounds differing by a single functional group placement could
 receive dramatically different ratings for intensity, duration, and character
 of effect.
@@ -58,7 +58,7 @@ Smythies, a neuropsychiatrist who spent decades investigating the relationship
 between brain chemistry and consciousness, proposed theoretical frameworks in
 which the quantum properties of neurotransmitter-receptor interactions might
 play a role in generating subjective experience. His work suggested that the
-receptor binding event itself — a quantum mechanical interaction between the
+[[tihkal-receptor-binding-serotonin]] event itself — a quantum mechanical interaction between the
 ligand molecule and the protein binding site — might be the critical juncture
 at which molecular events are transduced into phenomenological ones.
 
@@ -69,7 +69,7 @@ psilocybin, and their analogs — produced qualitatively different experiences
 from other hallucinogen classes such as the phenethylamines (mescaline, 2C-B)
 or the lysergamides (LSD). He noted that the tryptamines were distinguished
 by the intensity of their hallucinations and the concentration of activity in
-the visual cortex, producing an "immense vividness" to interior landscapes,
+the [[mckenna-dmt-visual-cortex-intensity-fourth-dimensional-light-deployment]], producing an "immense vividness" to interior landscapes,
 as if information were being "presented three-dimensionally and deployed
 fourth-dimensionally, coded as light and as evolving surfaces."
 

@@ -1,5 +1,5 @@
 ---
-title: "Drip Irrigation vs Rainwater Harvesting"
+title: "comparison-drip-irrigation-vs-passive-irrigation vs comparison-xeriscaping-guide-vs-rainwater-harvesting-systems"
 created: 2026-04-28
 tags: [comparison, water-management, irrigation, rainwater]
 date: 2026-04-25
@@ -38,7 +38,7 @@ a pressure tank for standard irrigation pressure.
 For non-potable garden use, minimal filtration with a screen and first flush diverter
 is sufficient. The harvested water is naturally soft and free of chlorine and other
 treatment chemicals, making it ideal for irrigating sensitive plants and for brewing
-compost tea where chlorine would kill beneficial microbes. Rainwater harvesting reduces
+[[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]] where chlorine would kill beneficial microbes. Rainwater harvesting reduces
 municipal water bills and well dependence, provides emergency backup supply during
 droughts, and decreases stormwater runoff that burdens municipal systems. Primary
 limitations include rainfall dependence, space requirements for large tanks, freezing
@@ -56,12 +56,12 @@ collection in some jurisdictions.
 | Water Source | Any pressurized supply | Precipitation only |
 | Efficiency | 30-50% savings vs sprinklers | Reduces municipal well dependence |
 | Climate Sensitivity | Works in any climate | Yield varies with rainfall patterns |
-| Nutrient Delivery | Supports fertigation integration | Clean water for compost tea brewing |
+| Nutrient Delivery | Supports fertigation integration | Clean water for compost [[compost-tea-brewing-equipment-ingham]] |
 
 ## When to Choose Drip Irrigation
 Drip irrigation is the right choice when precision water delivery is needed regardless
-of water source. It excels in raised beds, greenhouses, orchards, row crops, and
-container gardens where water conservation, disease prevention by keeping foliage dry,
+of water source. It excels in [[comparison-raised-beds-vs-hugelkultur]], greenhouses, orchards, row crops, and
+container gardens where water conservation, [[cervantes-pest-disease-prevention-overview]] by keeping foliage dry,
 and weed suppression by not watering between plants are priorities. Drip is
 particularly valuable in water-scarce regions, for gardeners paying municipal water
 rates, and when integrating fertigation for precise nutrient delivery directly to the
@@ -90,6 +90,10 @@ integrated design that reduces water bills, conserves municipal resources, and
 provides reliable irrigation even during dry periods or supply disruptions.
 
 ## See Also
+
+- [[solomon-drip-irrigation-limitations-home-garden]]
+- [[chen-maitake-harvesting-yield-comparison]]
+- [[comparison-sprinkler-vs-drip-irrigation]]
 
 - [[comparison-greywater-vs-rainwater-harvesting]]
 - [[comparison-drought-gardening-vs-rainwater-harvesting]]

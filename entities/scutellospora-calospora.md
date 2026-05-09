@@ -18,7 +18,7 @@ sources:
 
 ## Taxonomy
 
-Scutellospora calospora is an arbuscular mycorrhizal fungus belonging
+Scutellospora calospora is an [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungus belonging
 to the phylum Glomeromycota, class Glomeromycetes, order
 Diversisporales, and family Gigasporaceae. The genus Scutellospora
 was historically separated from Gigaspora based on spore wall
@@ -38,7 +38,7 @@ life cycle independently of a host plant and relies on the carbon
 supplied by the photosynthetic partner to support its growth and
 reproduction. In return, the fungal symbiont enhances the plant's
 access to soil nutrients, particularly phosphorus, through an
-extensive extraradical mycelial network that extends beyond the root
+extensive extraradical [[gadd-mycelial-network-dynamics]] that extends beyond the root
 zone.
 
 The species is of particular ecological interest due to its
@@ -49,7 +49,7 @@ different effects on different AM fungal species, with S. calospora
 exhibiting reduced spore dispersal in the presence of these soil
 animals. This finding has important implications for understanding
 the factors that structure AM fungal communities and influence plant
-community composition in natural ecosystems.
+[[core-endorhiza-bacterial-community-composition-cannabis]] in natural ecosystems.
 
 ## Spore Dispersal and Collembola Interactions
 
@@ -77,9 +77,9 @@ The differential effects of collembola on spore dispersal among AM
 fungal species highlight the complexity of belowground ecological
 interactions. While collembola generally contribute to soil
 ecosystem functioning through their roles in decomposition and
-nutrient cycling, their selective grazing on fungal spores can
+nutrient cycling, their [[dighton-selective-grazing-fungal-community-shifts]] on fungal spores can
 create species-specific impacts on AM fungal community structure
-and the spatial distribution of mycorrhizal inoculum in soil.
+and the spatial distribution of [[arbuscular-mycorrhizal-inoculum-production-best-practices]] in soil.
 
 ## Mycorrhizal Function
 
@@ -97,7 +97,7 @@ phosphorus.
 The [[glomalin-and-soil-carbon]]-related soil proteins and the physical binding action of
 hyphae on soil particles. These functions are shared with other AM
 fungal species including [[glomus-intraradices]], although the relative contributions of
-different AM species to ecosystem processes may vary depending on
+different AM species to [[fungal-ecosystem-processes-overview]] may vary depending on
 environmental conditions and host plant identity.
 
 ## Ecological Implications

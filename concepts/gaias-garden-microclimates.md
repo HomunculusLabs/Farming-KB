@@ -34,8 +34,8 @@ Trees create powerful microclimates through multiple simultaneous mechanisms:
 - **Windbreak**: By reducing air mixing, tree canopies prevent the constant replacement of warm air near the ground with cooler air from above. This heat-trapping effect is especially important at night.
 - **Heat trapping at night**: During the day, the upper leaves chill while the ground warms. At night, the leafy canopy holds the warmth rising from the earth, preventing it from escaping to the night sky. Nighttime temperatures are warmer beneath trees than in the open.
 - **Humidity**: Air beneath greenery is more humid, and moist air uses more energy to heat than dry air. This further reduces temperature swings, creating a moderated environment.
-- **Fog and dew harvest**: Cold leaf surfaces condense moisture from the air, and the resulting dew drips from the leaves to wet the ground. On foggy days, mist collects in such volume that droplets trickle steadily from the leaves. On arid but foggy coasts, tree-harvested precipitation can be triple the average rainfall.
-- **Rain interception and concentration**: Trees spread rainfall into a fine film over the entire canopy. Soil close to the trunk can receive two to ten times as much rain as that in open ground.
+- **[[mollison-designers-fog-and-dew-harvesting]] harvest**: Cold leaf surfaces condense moisture from the air, and the resulting dew drips from the leaves to wet the ground. On foggy days, mist collects in such volume that droplets trickle steadily from the leaves. On arid but foggy coasts, tree-harvested precipitation can be triple the average rainfall.
+- **[[mollison-rain-interception-and-throughfall-in-forests]] and concentration**: Trees spread rainfall into a fine film over the entire canopy. Soil close to the trunk can receive two to ten times as much rain as that in open ground.
 
 ## Protecting Tender Plants with Microclimates
 
@@ -49,7 +49,7 @@ The key is choosing evergreen species whose canopy is dense enough to trap heat 
 A [[gaias-garden-keyhole-beds-and-mandala-gardens]] create sheltered zones on their leeward side that extend up to 10-15 times the height of the windbreak. Even low perennial borders and fences provide useful wind reduction for nearby plantings.
 
 ### Suntrap Design
-A semicircle of plants facing south creates a warm, protected suntrap suitable for tender plants. This principle is built into herb-spiral|herb spirals, [[gaias-garden-urban-permaculture-design]]. The curved shape reflects and concentrates solar energy while blocking cold winds from the north.
+A semicircle of plants facing south creates a warm, protected suntrap suitable for tender plants. This principle is built into herb-spiral|herb spirals, gaias-garden-urban-permaculture-design. The curved shape reflects and concentrates [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] while blocking cold winds from the north.
 
 ### Water and Humidity
 Ponds, streams, and even large containers of water moderate nearby temperatures. Water is slow to heat and slow to cool, creating a buffering effect. The evaporation from water surfaces increases local humidity, which benefits many plants. [[gaias-garden-living-plant-systems-insectary]] strategies:
@@ -65,7 +65,7 @@ The most important tool for microclimate gardening is observation. Before placin
 - Tender seedlings go in sheltered spots near walls or larger plants
 - Wind-sensitive plants go in the lee of windbreaks or larger plants
 
-This microclimate-aware placement within guilds is part of what makes [[gaias-garden-urban-permaculture-design]] design takes these modified conditions into account, using them to advantage where possible and mitigating them where necessary.
+This microclimate-aware placement within guilds is part of what makes gaias-garden-urban-permaculture-design design takes these modified conditions into account, using them to advantage where possible and mitigating them where necessary.
 
 Rooftops experience more extreme conditions than ground level: more wind, more sun exposure, and greater temperature swings. Balconies and courtyards may be shaded by surrounding buildings for part of the day. Each of these urban situations creates unique microclimates that, once understood, can be matched with appropriate plants.
 
@@ -73,8 +73,8 @@ Rooftops experience more extreme conditions than ground level: more wind, more s
 
 - [[comparison-banana-circle-vs-herb-spiral]] as a microclimate-generating garden feature with multiple zones
 - [[gaias-garden-water-harvesting-swales-and-greywater]] for moisture-based microclimates
-- gaias garden edge effect where two microclimates meet, creating especially productive zones
-- [[gaias-garden-backyard-wetland-design]] for water-based microclimate creation
+- gaias garden [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]] where two microclimates meet, creating especially productive zones
+- gaias-garden-backyard-wetland-design for water-based [[mollison-designers-microclimate-creation-frost-protection]]
 ## Practical Considerations
 
 Successful implementation of Garden Microclimates requires attention to
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

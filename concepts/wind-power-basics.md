@@ -1,15 +1,16 @@
 ---
-title: Wind Power Basics
+title: holmgren-wind-power-and-renewable-energy-debate Basics
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [energy, off-grid, homesteading, sustainability, engineering]
-sources: []
+sources:
+  sources: []
 ---
 
 # Wind Power Basics
 
-Small-scale wind turbines convert kinetic energy from wind into electricity for homestead power systems. Wind complements solar power effectively because wind often blows when the sun is not shining (night, winter storms, overcast days). A properly sited and maintained small wind turbine can generate 200-10,000+ kWh per year for an off-grid or grid-tied homestead.
+Small-scale wind turbines convert kinetic energy from wind into electricity for homestead power systems. Wind complements [[holmgren-trees-solar-power-plants-detailed]] effectively because wind often blows when the sun is not shining (night, winter storms, overcast days). A properly sited and maintained small wind turbine can generate 200-10,000+ kWh per year for an off-grid or grid-tied homestead.
 
 ## Is Wind Right for Your Site?
 
@@ -140,55 +141,6 @@ When batteries are full and the wind is blowing, excess energy must be diverted 
 ## Grid-Tie vs. Off-Grid
 
 ### Grid-Tied
-
-- Sell excess power to the utility (net metering)
-- No battery bank required (grid acts as backup)
-- Simpler system, lower cost
-- Requires utility approval and interconnection agreement
-- Utility may not allow wind turbines in some areas
-
-### Off-Grid
-
-- Complete energy independence
-- Requires battery bank and backup generator
-- Higher system cost
-- No utility dependency or interconnection requirements
-- Best combined with [[homestead-internet-options|off-grid communication]] systems
-
-### Hybrid Grid-Tied with Battery Backup
-
-- Best of both worlds
-- Grid provides backup; batteries provide backup for grid outages
-- Most complex and expensive system
-- Growing in popularity as battery costs decrease
-
-## Zoning and Permits
-
-- Height restrictions: Many jurisdictions limit structure height to 35 feet
-- Setback requirements: Typically 1.1x tower height from property lines
-- Noise limits: Usually 45-55 dBA at property boundary
-- Permitting: Building permit, electrical permit, and possibly special use permit
-- FAA lighting: Required for towers above 200 feet near airports
-- Insurance: Check with your homeowner's insurance provider
-
-## Maintenance
-
-- Annual inspection of blades, tower, and electrical connections
-- Lubricate yaw bearings and other moving parts annually
-- Check and tighten all bolts and fasteners annually
-- Inspect guy wires (if guyed tower) and re-tension as needed
-- Replace bearings every 5-10 years
-- Blade inspection for cracks, leading edge erosion
-- Expected turbine lifespan: 20-25 years with proper maintenance
-
-## Cost Estimates
-
-| System Size | Turbine Cost | Tower + Install | Total System |
-|-------------|-------------|-----------------|-------------|
-| 400W | $800-1,500 | $2,000-4,000 | $3,000-6,000 |
-| 1kW | $2,000-4,000 | $3,000-6,000 | $5,000-11,000 |
-| 3kW | $5,000-10,000 | $5,000-10,000 | $10,000-22,000 |
-| 10kW | $15,000-30,000 | $8,000-15,000 | $25,000-50,000 |
 
 ## See Also
 

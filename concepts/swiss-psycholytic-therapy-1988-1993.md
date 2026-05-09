@@ -1,5 +1,5 @@
 ---
-title: Swiss Psycholytic Therapy 1988-1993
+title: Swiss european-psycholytic-therapy-1960s-1970s 1988-1993
 created: 2026-04-19
 updated: 2026-04-18
 type: concept
@@ -9,7 +9,7 @@ tags: [reference]
 
 # Swiss Psycholytic Therapy Program (1988-1993)
 
-Switzerland holds a unique place in the history of psychedelic therapy as the only country to legally authorize the use of lsd-history|LSD and other hallucinogens for psychotherapeutic purposes after the global prohibition of the 1970s. The Swiss Medical Society for Psycholytic Therapy (Schweizerische Aerztegesellschaft fuer psycholytische Psychotherapie) successfully lobbied for a limited legal framework that permitted selected psychotherapists to use psychoactive substances within narrowly defined clinical conditions from 1988 to 1993.
+Switzerland holds a unique place in the history of [[metzner-psycholytic-psychedelic-therapy-models]] as the only country to legally authorize the use of lsd-history|LSD and other hallucinogens for psychotherapeutic purposes after the global prohibition of the 1970s. The Swiss Medical Society for Psycholytic Therapy (Schweizerische Aerztegesellschaft fuer psycholytische Psychotherapie) successfully lobbied for a limited legal framework that permitted selected psychotherapists to use psychoactive substances within narrowly defined clinical conditions from 1988 to 1993.
 
 ## Historical Context
 
@@ -34,7 +34,7 @@ In 1988, the Swiss government gave permission to a few selected psychotherapists
 
 ### Duration and Renewal
 
-Legal psycholytic therapy in Switzerland continued until 1993, with efforts to renew the permit currently underway (at the time of Gartz's writing in the mid-1990s). This represented a five-year window of legal clinical psychedelic research in an otherwise globally prohibitionist era.
+Legal psycholytic therapy in Switzerland continued until 1993, with efforts to renew the permit currently underway (at the time of Gartz's writing in the mid-1990s). This represented a five-year window of legal clinical [[mckenna-suppression-psychedelic-research-lsd-therapy]] in an otherwise globally prohibitionist era.
 
 ## Clinical Approach
 
@@ -50,7 +50,7 @@ The Swiss program distinguished between two approaches:
 
 **Psychedelic therapy** (high doses):
 - Maximizing the emergence of transpersonal states of consciousness
-- Often resembled mystical experiences
+- Often resembled [[psilocybin-mystical-experiences-personality-change]]
 - Used in treatment of terminal patients to ease fear of death
 - Reduced even the most severe forms of pain
 - In many cases, symptoms disappeared entirely
@@ -73,7 +73,7 @@ He challenges the psychiatric establishment: "Many psychiatrists and pharmacolog
 
 ## Gartz's Prediction
 
-Gartz predicted that psilocybin would stand out as "the most valuable and beneficial substance, as well as the least risky among the group of possible substances" that may be used in psychedelic-assisted psychotherapy -- a prediction that has been substantially borne out by the resurgence of psilocybin research in the 21st century.
+Gartz predicted that psilocybin would stand out as "the most valuable and beneficial substance, as well as the least risky among the group of possible substances" that may be used in psychedelic-assisted psychotherapy -- a prediction that has been substantially borne out by the resurgence of [[early-paris-psilocybin-research-1960s]] in the 21st century.
 
 ## See Also
 

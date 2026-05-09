@@ -11,7 +11,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 # Verticillium dahliae
 
 **Type:** Species (Ascomycete)
-**Category:** Soil-Borne Vascular Wilt Pathogen
+**Category:** Soil-Borne [[cervantes-fusarium-vascular-wilt-diseases]] Pathogen
 **Also known as:** None
 
 ## Overview
@@ -72,7 +72,7 @@ erosion), contaminated equipment, irrigation water, and infected
 planting material. Their density in soil can be estimated by
 selective plating on semiselective media, providing a measure of
 disease risk before planting. The 10-15 year survival period far
-exceeds typical rotation cycles, making crop rotation largely
+exceeds typical rotation cycles, making [[comparison-crop-rotation-vs-cover-cropping]] largely
 ineffective.
 
 ### Infection Process
@@ -81,13 +81,13 @@ penetrate the root surface and enter the vascular system (xylem
 vessels). The fungus produces conidia within the vessels that are
 carried upward in the transpiration stream, spreading the
 infection throughout the plant. The resulting vascular occlusion,
-caused by fungal growth, tylose formation, and gel production,
+caused by [[brassinosteroid-fungal-growth-promotion]], tylose formation, and gel production,
 leads to wilting, chlorosis, stunting, and often plant death.
 
 ### Biocontrol Approaches
 Multiple biocontrol agents have been evaluated against V.
 dahliae. Talaromyces flavus is the most successful, producing
-glucose oxidase that releases toxic hydrogen peroxide (Kim et al.
+glucose oxidase that releases toxic [[cervantes-hydrogen-peroxide-sterilization]] (Kim et al.
 1990). Field applications using ascospores in alginate wheat-bran
 pellets reduced microsclerotium formation on potato stems, with
 effects lasting 2 years (Nagtzaam 1998). Clonostachys rosea and
@@ -117,7 +117,7 @@ the long-term survival of microsclerotia, broad host range, and
 soil-borne nature of the pathogen. Soil fumigation with chemicals
 like methyl bromide has been used historically but is being
 phased out due to environmental concerns. Resistant cultivars are
-available for some crops but not all. Biological control with T.
+available for some crops but not all. [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] with T.
 flavus and other agents offers a promising but not yet fully
 reliable alternative.
 

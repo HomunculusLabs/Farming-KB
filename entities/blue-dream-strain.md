@@ -33,7 +33,7 @@ The genetic ratio is approximately **60% sativa / 40% indica**, though this can 
 - **Original Blue Dream** (DJ Short Blueberry × Silver Haze)
 - **DJ Blue Dream** (closer to the original DJ Short lineage)
 - **Azure Haze** (Blue Dream × Silver Haze backcross, by DJ Short)
-- **Blue Dream CBD** (high-CBD phenotype, 1:1 or 2:1 THC:CBD ratio)
+- **Blue Dream CBD** (high-CBD phenotype, 1:1 or 2:1 THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]])
 
 ## Terpene Profile
 
@@ -89,10 +89,10 @@ Effects onset within 5–10 minutes when smoked or vaporized. Duration is typica
 Blue Dream is frequently recommended in medical cannabis programs for:
 
 - **Anxiety and depression:** The balanced sativa effects provide mood elevation without overstimulation. Myrcene and linalool contribute anxiolytic properties.
-- **Chronic pain:** Moderate analgesic effects suitable for daytime use without heavy sedation. Caryophyllene provides additional anti-inflammatory action.
+- **[[cannabis-chronic-pain-management]]:** Moderate analgesic effects suitable for daytime use without heavy sedation. Caryophyllene provides additional anti-inflammatory action.
 - **PTSD:** Euphoric and grounding effects help manage intrusive thoughts while maintaining functional clarity.
 - **ADHD:** Some patients report improved focus and task completion, likely from the sativa-dominant cerebral stimulation.
-- **Nausea and appetite stimulation:** Useful for patients undergoing chemotherapy or with appetite disorders.
+- **[[cannabis-for-nausea-and-appetite-stimulation]] stimulation:** Useful for patients undergoing chemotherapy or with appetite disorders.
 - **Insomnia (mild):** While not a heavy sedative, the relaxing body effects can help with sleep onset at higher doses.
 
 ## Growing Information
@@ -112,5 +112,5 @@ Blue Dream is considered a **moderate-difficulty** strain suitable for growers w
 ### Growing Characteristics
 - **Stretch:** Moderate to high during the first 3 weeks of flowering (1.5–2× increase)
 - **Branching:** Strong lateral branching responds well to LST (low-stress training) and SCRoG ([[blueberry-cannabis]] — The indica parent strain by DJ Short
-- [[cannabis-terpene-profiles]] — Overview of terpene profiles and their effects
+- [[cannabis-terpene-profiles]] — Overview of [[cannabis-terpene-profiles-sativa]] and their effects
 - [[comparison-cannabis-sativa-vs-cannabis-indica]] — Understanding the hybrid spectrum

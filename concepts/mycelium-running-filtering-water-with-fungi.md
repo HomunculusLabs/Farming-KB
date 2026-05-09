@@ -3,7 +3,8 @@ title: "Filtering Water with Fungi"
 created: 2026-04-26
 updated: "2025-04-23"
 sources:
-  - "raw/papers/mycelium-running-stamets.md"
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 tags: [fungi, mycelium, water]
 ---
@@ -37,7 +38,7 @@ Mycelial membranes can filter:
   Pseudomonas fluorescens), and viruses
 - **Chemical toxins**: Petroleum products, herbicides, pesticides
 - **Silt and sediment**: Reducing downstream particulate flow
-- **Heavy metals**: Zinc, copper, and other metals from agricultural
+- **[[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]**: Zinc, copper, and other metals from agricultural
   runoff
 
 ## Installation Sites
@@ -78,4 +79,4 @@ process analogous to a fishing net losing its cohesiveness.
 - [[unknown-mycelium-mycofiltration]] -- existing mycofiltration page
 - [[mycofiltration-of-chemical-runoff]] -- chemical toxin filtration
 - [[mycofiltration-water-treatment]] -- water treatment systems
-- [[mycelium-running-garden-giant-stamets]] -- garden giant in filtration
+- [[mycelium-running-garden-giant-stamets]] -- [[mycelium-running-garden-giant-stamets]] in filtration

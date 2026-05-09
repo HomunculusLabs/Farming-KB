@@ -1,5 +1,5 @@
 ---
-title: "Syntropic Agriculture"
+title: "query-what-is-syntropic-agriculture-and-how-do-i-start"
 type: species
 tags:
   - permaculture
@@ -20,11 +20,11 @@ created: 2026-05-07
 
 ## Overview
 
-**Syntropic agriculture** is a regenerative farming methodology developed by Swiss farmer and researcher **Ernst Götsch** beginning in the 1980s. The system applies principles of natural succession ecology to agricultural production, mimicking the structural and functional dynamics of natural forest ecosystems.
+**Syntropic agriculture** is a regenerative farming methodology developed by Swiss farmer and researcher **Ernst Götsch** beginning in the 1980s. The system applies [[four-principles-of-natural-farming]] succession ecology to [[fukuoka-agricultural-production-net-energy-deduction]], mimicking the structural and functional dynamics of natural forest ecosystems.
 
-The approach is practiced primarily in Brazil, where Götsch has restored over 500 hectares of degraded farmland across diverse climatic zones. It has since gained international attention as a model for climate-resilient agriculture.
+The approach is practiced primarily in Brazil, where Götsch has restored over 500 hectares of degraded farmland across diverse [[permaculture-designers-manual-climatic-zones-tropical]]. It has since gained international attention as a model for climate-resilient agriculture.
 
-Syntropic farming integrates trees, shrubs, and annual crops in stratified planting arrangements that accelerate natural succession while producing food, fiber, and timber. The methodology operates on the principle that ecosystem functions—water cycling, nutrient cycling, energy flow, and community dynamics—can be optimized through intentional species placement and management.
+Syntropic farming integrates trees, shrubs, and annual crops in stratified planting arrangements that accelerate natural succession while producing food, fiber, and timber. The methodology operates on the principle that ecosystem functions—water cycling, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], energy flow, and community dynamics—can be optimized through intentional species placement and management.
 
 Unlike many agroforestry systems, syntropic agriculture specifically targets the economic productivity of each successional phase. Yields are designed to increase as the system matures, reaching peak productivity in the mature forest stage rather than declining after canopy closure.
 
@@ -62,7 +62,7 @@ Seedling production is done in on-farm nurseries. Species selection is highly si
 
 ### Planting Design
 
-Species are arranged in linear or contour-based planting rows with multiple species per row. The arrangement considers both spatial compatibility (light, water, nutrient needs) and temporal compatibility (growth rates, lifespan, harvest timing).
+Species are arranged in linear or contour-based planting rows with multiple species per row. The arrangement considers both spatial compatibility (light, water, nutrient needs) and temporal compatibility (growth rates, lifespan, [[cannabis-harvest-timing-visual-cues]]).
 
 Placental species—fast-growing, short-lived plants that protect emerging seedlings—are planted alongside the target crop species. These are removed as the system establishes, transitioning from the initial pioneer-dominated phase to a more diverse secondary growth phase.
 
@@ -113,6 +113,8 @@ During drought conditions, the deep root networks of climax species access subso
 Carbon sequestration potential is substantial. The continuous accumulation of above-ground and below-ground biomass, combined with increasing soil organic carbon, positions syntropic agriculture as a viable climate mitigation strategy. Estimates suggest carbon accumulation rates of 2 to 10 tonnes per hectare per year during the establishment phase.
 
 ## See Also
+
+- [[tompkins-radionic-agriculture-pesticides]]
 
 - [[agroforestry]]
 - [[cover-cropping-guide]]

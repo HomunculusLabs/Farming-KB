@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [herbalism, herbs, medicine]
-sources: []
+sources:
+  sources: []
 ---
 # Herbal Actions and Energetics
 
@@ -18,7 +19,7 @@ Herbal actions are the pharmacological and physiological effects that herbs prod
 
 ### Alteratives
 
-Alteratives (also called blood purifiers or depuratives) are herbs that gradually restore proper function to the body's systems of elimination and metabolism. They are traditionally used for conditions involving chronic toxicity, skin conditions, lymphatic congestion, and sluggish metabolism. Common alteratives include burdock root (Arctium lappa), dandelion root (Taraxacum officinale), red clover (Trifolium pratense), cleavers (Galium aparine), nettles (Urtica dioica), and yellow dock (Rumex crispus).
+Alteratives (also called blood purifiers or depuratives) are herbs that gradually restore proper function to the body's systems of elimination and metabolism. They are traditionally used for conditions involving chronic toxicity, [[cannabis-for-skin-conditions-detailed]], lymphatic congestion, and sluggish metabolism. Common alteratives include burdock root (Arctium lappa), dandelion root (Taraxacum officinale), red clover (Trifolium pratense), cleavers (Galium aparine), nettles (Urtica dioica), and yellow dock (Rumex crispus).
 
 The mechanism of alterative action involves supporting the liver, kidneys, lymphatic system, and skin in their natural detoxification functions. Rather than directly eliminating toxins, alteratives are thought to improve the body's own capacity for waste removal and metabolic balance.
 
@@ -42,7 +43,7 @@ Carminatives are among the most commonly used herbs in home herbal practice and 
 
 Nervines are herbs that act on the nervous system to reduce tension, anxiety, and stress. They are classified as relaxing nervines (mildly calming), sedative nervines (promote sleep and deeper relaxation), and tonic nervines (strengthen and nourish the nervous system over time).
 
-Relaxing nervines include chamomile, lemon balm (Melissa officinalis), passionflower (Passiflora incarnata), oats (Avena sativa), and skullcap (Scutellaria lateriflora). Sedative nervines include valerian (Valeriana officinalis), hops (Humulus lupulus), California poppy (Eschscholzia californica), and kava (Piper methysticum). Nervine tonics include ashwagandha (Withania somnifera), gotu kola (Centella asiatica), and milky oat seed (Avena sativa, fresh seed preparation).
+Relaxing nervines include chamomile, [[comparison-lemon-balm-vs-passionflower]] (Melissa officinalis), passionflower (Passiflora incarnata), oats (Avena sativa), and skullcap (Scutellaria lateriflora). Sedative nervines include valerian (Valeriana officinalis), hops (Humulus lupulus), California poppy (Eschscholzia californica), and kava ([[plants-of-the-gods-piper-methysticum-kava]]). Nervine tonics include ashwagandha (Withania somnifera), gotu kola (Centella asiatica), and milky oat seed (Avena sativa, fresh seed preparation).
 
 Nervines are among the most widely used categories of herbs in modern Western practice, reflecting the prevalence of stress-related conditions.
 
@@ -56,7 +57,7 @@ Turmeric (Curcuma longa), with its active compound curcumin, is one of the most 
 
 Adaptogens are herbs that help the body adapt to physical, chemical, and biological stress through a non-specific, normalizing effect on body systems. They are characterized by their ability to support homeostasis regardless of the direction of the stressor (they can be both stimulating and calming depending on what the body needs).
 
-Key adaptogens include ashwagandha, holy basil (Ocimum sanctum), rhodiola (Rhodiola rosea), eleuthero (Eleutherococcus senticosus), reishi mushroom (Ganoderma lucidum), and licorice (Glycyrrhiza glabra). Adaptogens are typically used long-term to build resilience to stress and support overall vitality.
+Key adaptogens include ashwagandha, holy basil (Ocimum sanctum), rhodiola (Rhodiola rosea), eleuthero (Eleutherococcus senticosus), reishi mushroom ([[stamets-reishi-ganoderma-lucidum-cultivation]]), and licorice (Glycyrrhiza glabra). Adaptogens are typically used long-term to build resilience to stress and support overall vitality.
 
 ### Other Important Actions
 
@@ -92,4 +93,4 @@ Combining herbs with complementary actions and energetics creates balanced formu
 - [[herbal-medicine]] — overview of herbal medicine
 - [[herbal-tinctures-guide]] — tincture preparation by herb action
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]
-- [[mushroom-cytokine-production-immune-activation]]
+- mushroom-cytokine-production-immune-activation

@@ -1,16 +1,16 @@
 ---
-title: Cannabis Sea of Green (SOG) Method
+title: Cannabis comparison-sea-of-green-vs-screen-of-green (SOG) Method
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 
 Updated: 2026-04-18
 
-The Sea of Green (SOG) method is a high-yield growing technique that uses many small plants grown close together to maximize production per square foot. It is particularly effective for indoor growers with limited vertical space.
+The Sea of Green (SOG) method is a high-yield growing technique that uses many small plants grown close together to maximize production per [[comparison-biointensive-vs-square-foot-gardening]]. It is particularly effective for indoor growers with limited vertical space.
 
 ## Concept
 
@@ -48,7 +48,7 @@ Instead of growing a few large plants, SOG grows many small plants (typically 20
 
 SOG is commonly used with hydroponic systems. The entire grow unit can hold 10+ clones in a compact footprint. Water/nutrient delivery is consistent across all plants.
 
-Deep water culture (DWC) buckets work well for SOG — each plant gets its own reservoir, simplifying management. Drip systems with small pots (1 liter net pots) allow dense packing. Ebb and flow tables with closely spaced containers are another effective approach. The key is ensuring uniform delivery of water and nutrients to all plants.
+[[cannabis-deep-water-culture-guide]] (DWC) buckets work well for SOG — each plant gets its own reservoir, simplifying management. Drip systems with small pots (1 liter [[cervantes-net-pots-growing-slabs]]) allow dense packing. Ebb and flow tables with closely spaced containers are another effective approach. The key is ensuring uniform delivery of water and nutrients to all plants.
 
 ## Best Strains for SOG
 
@@ -80,7 +80,7 @@ Overcrowding is the most common SOG error — too many plants compete for light 
 
 ## Troubleshooting
 
-If plants stretch excessively after switching to 12/12, the light may be too far from the canopy — lower it. If outer plants grow taller than center plants, light distribution is uneven — add side lighting or a light mover. If bud development is slow or uneven, check for nutrient deficiencies in the small root systems. If mold appears, increase air circulation immediately and reduce humidity below 55% during flowering.
+If plants stretch excessively after switching to 12/12, the light may be too far from the canopy — lower it. If outer plants grow taller than center plants, light distribution is uneven — add side lighting or a light mover. If bud development is slow or uneven, check for [[hamilton-nutrient-deficiencies-and-treatment]] in the small root systems. If mold appears, increase [[stamets-growing-room-air-circulation-co2-management]] immediately and reduce humidity below 55% during flowering.
 
 ## Yield Expectations
 

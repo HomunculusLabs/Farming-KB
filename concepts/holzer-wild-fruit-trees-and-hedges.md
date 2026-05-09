@@ -5,6 +5,7 @@ updated: 2026-04-18
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
+  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
@@ -25,7 +26,7 @@ Holzer's system incorporates a wide range of wild fruit trees, many of which are
 - Rowan (Sorbus aucuparia): Orange berries for birds, edible when cooked
 - Whitebeam (Sorbus aria): Bird forage, ornamental, hardy
 - Snowy mespilus (Amelanchier ovalis): June berries, bird forage, ornamental flowers
-- Sea buckthorn (Hippophae rhamnoides): Vitamin C-rich berries, nitrogen-fixing
+- [[comparison-sea-buckthorn-vs-aronia]] (Hippophae rhamnoides): Vitamin C-rich berries, nitrogen-fixing
 - Barberry (Berberis vulgaris): Edible berries, medicinal, thorny barrier
 
 ## The Value of Wild Fruit
@@ -44,7 +45,7 @@ He has also received very sweet fruit ideally suited to schnapps from cherry see
 
 ### Livestock Forage
 
-Windfall fruit from wild trees makes excellent feed for pigs. On the Krameterhof, pigs are kept in paddocks with fruit trees, where they clean up fallen fruit and benefit from the nutrient-rich food source. This integration reduces waste, feeds livestock at minimal cost, and distributes manure across the orchard floor.
+Windfall fruit from wild trees makes excellent feed for pigs. On the Krameterhof, pigs are kept in paddocks with fruit trees, where they clean up fallen fruit and benefit from the nutrient-rich food source. This integration reduces waste, feeds livestock at minimal cost, and distributes manure across the [[fukuoka-orchard-floor-management]].
 
 ## Mixed Species Hedges
 
@@ -74,12 +75,12 @@ Holzer recommends mixed hedges composed of diverse species to support bird popul
 
 These hedges serve multiple simultaneous functions:
 
-1. Wind protection: Dense mixed hedges reduce wind speed more effectively than single-species plantings, creating sheltered microclimates for more sensitive crops
+1. [[cervantes-wind-protection-outdoor-cannabis]]: Dense mixed hedges reduce wind speed more effectively than single-species plantings, creating sheltered microclimates for more sensitive crops
 2. Bird habitat: Thorny species like hawthorn, barberry, and wild rose provide safe nesting sites for open-nesting birds
 3. Bird forage: The diverse range of berries, fruits, and seeds provides year-round food for birds, reducing the need for supplementary winter feeding
-4. Insect host: Dense hedgerows support large populations of beneficial insects, including pollinators and natural predators of crop pests
+4. Insect host: Dense hedgerows support large populations of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], including pollinators and natural predators of crop pests
 5. Soil stabilisation: Deep root systems of mixed species help bind soil on slopes and terrace edges
-6. Biomass production: Regular coppicing provides material for mulching, composting, or mushroom cultivation
+6. [[dighton-fungal-biomass-production-aquatic-ecosystems]]: Regular coppicing provides material for mulching, composting, or [[accessible-mushroom-cultivation-for-disabilities]]
 7. Wildlife corridors: Connected hedgerows allow wildlife to move through the landscape safely
 8. Privacy and aesthetics: Flowering and fruiting hedges provide visual interest throughout the seasons
 
@@ -114,3 +115,7 @@ Birds do not need to be fed over winter in a well-designed permaculture system, 
 See also: [[holzer-livestock-integration]], [[holzer-fruit-growing-marginal-climates]], [[holzer-permaculture-landscape-design]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
 - [[holzer-pear-and-apple-pollination-and-harvesting]]
+
+## See Also
+
+- [[holzer-sweet-chestnut-and-nut-trees]]

@@ -30,7 +30,7 @@ soil is acidic or alkaline. Annual home pH testing is sufficient for most
 gardeners once the initial assessment is complete. Full professional soil
 analysis will reveal the exact chemical makeup of your soil and identify
 any specific deficiencies. When sending a sample for analysis, ask the
-laboratory to recommend organic fertilizers for correcting any problems
+laboratory to recommend [[hamilton-organic-fertilizers-and-plant-nutrition]] for correcting any problems
 they find.
 
 Home testing kits for nutrient levels are not accurate enough to be
@@ -39,7 +39,7 @@ no more than that. Professional analysis from a reputable company provides
 far more reliable data and specific recommendations.
 
 If you have moved into an established garden that is obviously growing good
-crops, or if there are no visible nutrient deficiencies, you may start
+crops, or if there are no visible [[hamilton-nutrient-deficiencies-and-treatment]], you may start
 directly with Phase 2. However, unless you know the pH value of your soil,
 you should test it before beginning any serious soil management programme.
 
@@ -68,7 +68,7 @@ and weather.
 
 As a general guide, use at least two 2-gallon (9-litre) buckets of
 well-rotted compost or animal manure for every square yard/metre of soil
-in the vegetable garden. Use one bucket per square yard/metre as a mulch
+in the [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]. Use one bucket per square yard/metre as a mulch
 around trees and shrubs or in ornamental borders. The same rate is
 sufficient for fruit trees and bushes. If you can afford to use more, do
 not be afraid to do so.
@@ -81,10 +81,10 @@ the weather, and the plants you wish to grow.
 ## Phase 3: Adding General Fertilizer
 
 Not everyone can obtain sufficient supplies of manure or compost. When
-organic matter falls below recommended levels, concentrated organic
+organic matter falls below recommended levels, [[hamilton-concentrated-organic-fertilizer-products]]
 fertilizers bridge the gap. A general fertilizer such as blood, fish, and
 bone meal or pelleted chicken manure provides a balanced supply of the
-major nutrients nitrogen, phosphorus, and potassium.
+major [[lowenfels-nutrients-nitrogen-cycle]], phosphorus, and potassium.
 
 Application rates vary according to the soil and the crops you intend to
 grow. Some crops, such as peas, can generally grow well without additional
@@ -92,7 +92,7 @@ fertilizer. Others, such as potatoes, will need extra. Most fruit trees
 and bushes need spring fertilizer whether or not they are mulched with
 manure or compost.
 
-Where trace element deficiencies have occurred in the past, a light
+Where [[fukuoka-textdoc-fertilizer-acidification-trace-element-deficiency]] deficiencies have occurred in the past, a light
 application of kelp meal or calcified kelp pellets at the beginning of
 each season helps prevent recurrence. Kelp contains a wide range of trace
 elements and growth-promoting substances that benefit overall plant health.

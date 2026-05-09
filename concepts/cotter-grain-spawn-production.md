@@ -1,5 +1,5 @@
 ---
-title: Grain Spawn Production and Expansion
+title: Grain growing-gourmet-sawdust-spawn-production-use and Expansion
 created: 2026-04-26
 tags: [spawn-production, grain, sterilization, inoculation, mycelium-expansion]
 date: 2026-04-25
@@ -84,7 +84,7 @@ Place in a pressure cooker or autoclave. Process at 12-15 PSI for two hours.
 
 ### Step 6: Prepare Workstation
 
-While sterilizing, set up the laminar flow hood. Sanitize the interior, run the
+While sterilizing, set up the [[comparison-laminar-flow-hood-vs-fruiting-chamber]] hood. Sanitize the interior, run the
 HEPA-filtered ventilation unit for an hour, and sanitize and lay out all tools
 and cultures for inoculation.
 
@@ -99,7 +99,7 @@ degrees F (32 degrees C) before inoculation.
 Heat a scalpel tip in an alcohol lamp flame until red-hot. Cut the most
 desirable areas of petri plate cultures into cubes and transfer to grain jars.
 For a quart mason jar half filled with grain, add about ten 1/2-inch cubes of
-colonized agar. Liquid culture can be used at 10 ml per quart jar.
+colonized agar. [[comparison-liquid-culture-vs-grain-spawn]] can be used at 10 ml per quart jar.
 
 ### Step 9: Label and Store
 

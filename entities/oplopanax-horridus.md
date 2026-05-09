@@ -14,7 +14,7 @@ sources:
   - Schofield J.J. (1989). "Discovering Wild Plants." Alaska Northwest Books.
   - Moore M. (1993). "Medicinal Plants of the Pacific West." Red Crane Books.
   - Turner N.J. (1995). "Food Plants of Coastal First Peoples." UBC Press.
-  - Foster S., Hobbs C. (2002). "A Field Guide to Western Medicinal Plants."
+  - Foster S., Hobbs C. (2002). "A [[ghouled-field-guide-historical-context]] to Western Medicinal Plants."
   - Small E., Catling P.M. (1999). "Canadian Medicinal Crops." NRC Research Press.
 ---
 
@@ -24,7 +24,7 @@ sources:
 
 **Devil's club** (*Oplopanax horridus*) is a large, spiny deciduous shrub in the
 family Araliaceae, native to the moist coniferous forests of the Pacific Northwest
-and the Rocky Mountains of North America. Reaching heights of 1–5 meters, it is
+and the Rocky Mountains of [[psilocybin-north-america-pacific-northwest]]. Reaching heights of 1–5 meters, it is
 among the most distinctive understory plants in its range, instantly recognizable
 by its dense covering of yellowish spines on stems, petioles, and leaf veins.
 
@@ -34,7 +34,7 @@ respiratory ailments, rheumatism, diabetes, and tuberculosis.
 
 Modern research has confirmed significant immunomodulatory, antidiabetic, and
 anti-inflammatory activities, generating growing interest in devil's club as a
-North American adaptogen analogous to Asian ginseng species.
+[[growing-gourmet-north-american-reishi-species]] adaptogen analogous to Asian ginseng species.
 
 ## Taxonomy and Morphology
 
@@ -47,7 +47,7 @@ North American adaptogen analogous to Asian ginseng species.
 **Synonyms:** *Fatsia horrida* (Sm.) Benth. & Hook.f., *Panax horridus* Sm.
 
 The plant produces large palmately lobed leaves 15–45 cm across, broadly maple-
-shaped with 5–7 pointed lobes. Each leaf surface is armed with sharp spines along
+shaped with 5–7 pointed lobes. Each [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is armed with sharp spines along
 the major veins.
 
 Stems are stout, unbranched or sparsely branched, covered with a dense mat of
@@ -107,7 +107,7 @@ immunomodulator. Tinctures of the inner bark are used for:
 
 - Immune system support during infections and chronic immune conditions
 - Blood sugar regulation in type 2 diabetes (supported by animal studies)
-- Anti-inflammatory support for arthritic and autoimmune conditions
+- Anti-inflammatory support for arthritic and [[cannabis-autoimmune-conditions-detailed]]
 - Respiratory tonic for chronic bronchitis and asthma
 
 ## Cultivation

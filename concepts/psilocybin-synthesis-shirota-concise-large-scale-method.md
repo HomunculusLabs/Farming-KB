@@ -1,5 +1,5 @@
 ---
-title: "Shirota Concise Large-Scale Synthesis of Psilocybin"
+title: "psilocybin synthesis shirota concise large scale method Large-Scale Synthesis of Psilocybin"
 source: "concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md"
 tags: [shirota, psilocybin, synthesis, chemistry, large-scale, phosphorylation]
 created: 2026-05-08
@@ -13,7 +13,7 @@ Previous synthetic routes to psilocybin were limited by the need for chromatogra
 
 The Shirota method solves this problem through the discovery that the dibenzyl-protected intermediate undergoes intramolecular conversion to a zwitterionic derivative that can be isolated by simple filtration.
 
-This zwitterionic intermediate was fully characterized by 2D NMR, including HMBC and NOESY experiments that confirmed the intramolecular transfer of a benzyl group from oxygen to nitrogen.
+This [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]] was fully characterized by 2D NMR, including HMBC and NOESY experiments that confirmed the intramolecular transfer of a benzyl group from oxygen to nitrogen.
 
 The synthesis starts from commercially available 4-hydroxy [[psilocin-chemistry-and-serotonin-relationship]]
 
@@ -21,7 +21,7 @@ The synthesis starts from commercially available 4-hydroxy [[psilocin-chemistry-
 
 - [[tryptamine]] chemistry overview
 
-- magic mushroom pharmacology
+- [[australian-magic-mushroom-common-names]] pharmacology
 
 - indole derivative synthesis
 ## Practical Applications
@@ -102,3 +102,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[psilocybin-phosphorylation-tetrabenzylpyrophosphate-method]]

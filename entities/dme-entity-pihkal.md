@@ -1,5 +1,5 @@
 ---
-title: "DME -- 3,4-DIMETHOXY-beta-HYDROXYPHENETHYLAMINE -- PIHKAL Entry #57"
+title: "DME -- 3,4-DIMETHOXY-beta-HYDROXYPHENETHYLAMINE -- 2c-b-pihkal-entry-20 #57"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # DME
 
-PIHKAL entry #57. 3,4-DIMETHOXY-beta-HYDROXYPHENETHYLAMINE.
+[[2c-b-pihkal-entry-20]] #57. 3,4-DIMETHOXY-beta-HYDROXYPHENETHYLAMINE.
 
 ## Chemical Name
 
@@ -69,6 +69,8 @@ safety profiles are based on limited self-experimentation. Exercise
 extreme caution. This compound is not approved for human consumption.
 
 ## See Also
+
+- [[dme-entity]]
 
 - [[2c-o-4-entity-pihkal]]
 - [[2-br-4-5-mda-entity-pihkal]]

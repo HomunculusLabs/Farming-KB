@@ -1,7 +1,7 @@
 ---
-title: "Light Wavelength Effects on Psilocybe Cubensis
+title: "Light Wavelength Effects on psilocybe-cubensis
 created: 2026-04-28
-  Basidiocarp Initiation"
+  [[light-basidiocarp-initiation-psilocybe-cubensis-research]]"
 tags: [photobiology, action-spectrum, psilocybe-cubensis,
   basidiomycete, dose-response]
 date: 2026-04-28
@@ -12,7 +12,7 @@ type: concept
 ---
 
 # Light Wavelength Effects on [[psilocybe-cubensis-potency-variation-by-flush]]. This page
-examines the detailed spectral data, dose-response mechanics,
+examines the detailed [[shirota-psilocybin-crystal-form-spectral-data-and-analytical-characterization]], dose-response mechanics,
 cross-species comparisons from the literature reviewed in that paper,
 and the photoreceptor implications of the findings.
 
@@ -77,5 +77,7 @@ wavelengths failed to induce initials, consistent with P. cubensis.
 
 ### [[light-initiation-basidiocarp-formation]] for cultivation-focused
   implications and species comparison tables
-- [[fungal-basidiocarp-formation-ecology]] for ecological context of
+- fungal-basidiocarp-formation-ecology for ecological context of
   basidiocarp formation
+## See Also
+- [[psilocybe-cubensis]]

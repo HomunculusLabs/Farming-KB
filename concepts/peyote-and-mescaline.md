@@ -11,7 +11,7 @@ Peyote (*[[golden-guide-amanita-muscaria-and-soma]] to [[lophophora-diffusa]]** 
 - **Classification**: Phenethylamine alkaloid.
 - **Structure**: A phenethylamine backbone with three methoxy groups at positions 3, 4, and 5 of the benzene ring.
 - **Isolation**: First isolated from peyote by Arthur Heffter in 1897. First synthesized by Ernst Späth in 1919.
-- **Dosage**: 200–500 mg produces a full [[pre-columbian-mushroom-use]] textiles from northern Mexico.
+- **Dosage**: 200–500 mg produces a full pre-columbian-mushroom-use textiles from northern Mexico.
 
 ### Ceremonial Use
 
@@ -29,7 +29,7 @@ The Native American Church (NAC), formally incorporated in 1918, is the institut
 
 - Combines Christian elements with [[psilocybin-mushrooms]]
 - [[datura-as-hallucinogen]]
-- fly agaric as hallucinogen
+- [[amanita-muscaria-fly-agaric-history-and-pharmacology]] as hallucinogen
 ## Practical Applications
 
 Peyote And Mescaline has a range of practical applications that make it relevant to
@@ -107,4 +107,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

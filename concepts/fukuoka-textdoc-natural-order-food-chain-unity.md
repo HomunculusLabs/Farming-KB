@@ -1,5 +1,5 @@
 ---
-title: Natural Order and Food Chain Unity
+title: fukuoka textdoc natural order food chain unity and Food Chain Unity
 tags:
   - fukuoka
   - ecology
@@ -54,14 +54,14 @@ swallows feed on centipedes, snakes eat small birds, and kites and dogs kill
 snakes. At every level, bacteria and viruses attack these birds, beasts, and
 insects. Amoebae and nematodes feed on the bacteria, and nematode remains
 are consumed by earthworms, which are relished by moles. Weasels feed on the
-moles, and microorganisms break down the weasel's carcass, providing
+moles, and microorganisms [[query-can-fungi-break-down-plastic-pollution]] the weasel's carcass, providing
 nutrients for plants.
 
 ## Microbial Food Webs
 
 Among the microorganisms, Fukuoka describes an intricate web of predator-prey
 relationships. There are bacteria, fungi including true fungi and molds,
-slime molds, and yeasts. Fungi wrap mycelia about their prey and kill by
+[[bloomfield-slime-molds-myxomycetes-plasmodial-protists]], and yeasts. Fungi wrap mycelia about their prey and kill by
 dissolution. Bacteria secrete substances that kill fungi. Bacteriophages
 kill bacteria, and viruses kill both bacteria and fungi.
 
@@ -73,7 +73,7 @@ dense, self-regulating network of checks and balances.
 
 ## The Family Harmony Metaphor
 
-Fukuoka insists that the natural ecosystem "must not be seen as a world of
+Fukuoka insists that the [[fukuoka-natural-ecosystem-food-chain-interconnection]] "must not be seen as a world of
 intense competition for survival or of the strong eating the weak, but as a
 united family of many members that live together in a single harmony." This
 metaphor of family unity is central to his ecological philosophy.
@@ -117,6 +117,9 @@ governing mechanisms to maintain balance far more effectively than human
 management ever could.
 
 ## Related
+
+- [[fukuoka-food-farming-unity]]
+- [[fukuoka-natural-ecosystem-food-chain-interconnection]]
 
 - [[fukuoka-textdoc-natural-order-microbial-ecology]]
 - [[fukuoka-natural-farming-philosophy]]

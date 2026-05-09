@@ -1,5 +1,5 @@
 ---
-title: Turkey Tail (Trametes versicolor)
+title: Turkey Tail (staycare-trametes-versicolor-bioremediation-applications)
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Trametes versicolor, commonly known as turkey tail, is one of the most widespread and studied medicinal mushrooms in the world. Named for its concentricly banded, multicolored fruiting bodies that resemble a wild turkey's tail feathers, this polypore mushroom grows on dead hardwood logs and stumps worldwide. It has a long history of use in traditional medicine and is the source of some of the best-researched medicinal mushroom preparations.
+Trametes versicolor, commonly known as turkey tail, is one of the most widespread and studied [[cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides]] in the world. Named for its concentricly banded, multicolored fruiting bodies that resemble a wild turkey's tail feathers, this polypore mushroom grows on dead hardwood logs and stumps worldwide. It has a long history of use in traditional medicine and is the source of some of the best-researched medicinal mushroom preparations.
 
 ## Taxonomy and Identification
 
@@ -71,7 +71,7 @@ Clinical evidence for PSK:
 
 ### Mechanisms of Action
 
-1. **Immune modulation**: PSK and PSP activate immune cells including NK cells, macrophages, dendritic cells, and T-lymphocytes. They act as biological response modifiers (BRMs).
+1. **[[cancer-immune-modulation-mechanisms]]**: PSK and PSP activate immune cells including NK cells, macrophages, dendritic cells, and T-lymphocytes. They act as [[medicinal-mushrooms-biological-response-modifiers]] modifiers (BRMs).
 
 2. **Dendritic cell maturation**: Turkey tail polysaccharides promote dendritic cell maturation, enhancing antigen presentation.
 
@@ -131,7 +131,7 @@ Turkey tail is not a standalone cancer treatment. It is used as an adjuvant (com
 Beta-glucans are water-soluble, while triterpenoids are alcohol-soluble. A dual extraction captures both:
 
 1. Hot water extraction (30-60 min simmer)
-2. Separate alcohol extraction (ethanol soak, 2-4 weeks)
+2. Separate [[pf-tek-alcohol-extraction-method]] (ethanol soak, 2-4 weeks)
 3. Combine extracts
 4. Evaporate alcohol or use as tincture
 
@@ -142,21 +142,8 @@ Commercial turkey tail products vary widely in quality:
 - Verify species identity (some products contain fillers or wrong species)
 - Prefer products that use both fruiting body and mycelium
 - Reputable brands: Host Defense, Fungi Perfecti, Nammex, Real Mushrooms
-
-## Precautions
-
-- Generally considered safe with minimal side effects (occasional mild digestive upset)
-- Consult oncologist before using alongside cancer treatment
-- May enhance immune activity — use caution with autoimmune conditions
-- Possible interactions with immunosuppressant drugs
-- Not recommended during pregnancy or breastfeeding (insufficient safety data)
-
-## Ecology
-
-Turkey tail is a white-rot fungus, meaning it degrades lignin in wood. It plays an important role in forest nutrient cycling by breaking down dead hardwood and returning nutrients to the soil. It is one of the most common wood-decay fungi in temperate forests and can be found year-round on standing dead trees, fallen logs, and branches.
-
 ## See Also
 
-- [[mushroom-cooking-techniques]] — General mushroom preparation and safety
+- [[mushroom-cooking-techniques]] — General [[magic-mushroom-preparation-and-consumption-methods]] safety
 - [[fungal-symbiosis-types]] — How fungi interact with other organisms
 - [[bioluminescent-fungi]] — Other notable fungal species

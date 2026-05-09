@@ -28,15 +28,15 @@ type: comparison
 | Feature | Sea Buckthorn (*Hippophae rhamnoides*) | Aronia / Chokeberry (*Aronia melanocarpa*) |
 |---------|----------------------------------------|-------------------------------------------|
 | **Family** | Elaeagnaceae | Rosaceae (rose family) |
-| **Native range** | Eurasia (Europe to China) | Eastern North America |
+| **Native range** | Eurasia (Europe to China) | [[polypore-fungi-eastern-north-america]] America |
 | **Hardiness** | USDA zones 2–8 (to -45°C) | USDA zones 3–8 (to -35°C) |
 | **Height** | 2–6 m (6–20 ft) | 1.5–3 m (5–10 ft) |
 | **Growth rate** | Fast (60–100 cm/year) | Moderate (30–60 cm/year) |
 | **Sun** | Full sun | Full sun to partial shade |
 | **Soil pH** | 5.5–8.0 | 5.0–7.0 |
-| **Drought tolerance** | High (once established) | Moderate |
+| **[[dighton-fungal-drought-tolerance-plant-water-relations]]** | High (once established) | Moderate |
 | **Salt tolerance** | Very high | Low |
-| **Nitrogen fixation** | Yes (actinorhizal) | No |
+| **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]** | Yes (actinorhizal) | No |
 | **Sex expression** | Dioecious (separate male/female) | Hermaphroditic (self-fertile) |
 | **Thorns** | Yes (sharp, numerous) | No |
 | **Suckering** | Moderate | Moderate to heavy |
@@ -79,7 +79,7 @@ type: comparison
 
 **Pruning:** Sea buckthorn requires more attentive pruning to maintain productivity (fruits on 2–3 year old wood; needs periodic renewal). Aronia is lower-maintenance — an annual thinning of oldest stems is sufficient.
 
-**Pest management:** Aronia is nearly pest-free and disease-free — one of the lowest-maintenance fruit crops available. Sea buckthorn has more pest and disease issues (stem blight, sea buckthorn fly, aphids) requiring monitoring and occasional intervention.
+**Pest management:** Aronia is nearly pest-free and disease-free — one of the lowest-maintenance fruit crops available. Sea buckthorn has more [[hamilton-pest-and-disease-control-organic]] issues (stem blight, sea buckthorn fly, aphids) requiring monitoring and occasional intervention.
 
 ### Economic and Commercial Potential
 
@@ -95,7 +95,7 @@ type: comparison
 
 **Wildlife value:** Both provide excellent wildlife habitat and food. Sea buckthorn's persistent winter berries are a critical food source for birds in northern climates. Aronia's berries are also heavily used by wildlife but may be consumed earlier in the season. Sea buckthorn's thorny thickets provide better nesting cover; aronia's more open habit provides better visibility for ground-foraging birds.
 
-**Erosion control:** Both have strong root systems for soil stabilization. Sea buckthorn's nitrogen fixation and salt tolerance give it an edge in the most degraded sites and coastal environments. Aronia performs well on slopes and riparian buffers but without the nitrogen contribution.
+**[[permplant-willows-salix-erosion-control-fodder]]:** Both have strong root systems for soil stabilization. Sea buckthorn's nitrogen fixation and salt tolerance give it an edge in the most degraded sites and coastal environments. Aronia performs well on slopes and riparian buffers but without the nitrogen contribution.
 
 **Windbreak suitability:** Sea buckthorn is an established windbreak species used in large-scale shelterbelt systems (especially in northern China). Its drought tolerance, salt tolerance, and multi-stemmed form make it ideal. Aronia can serve in windbreaks but is less proven at scale.
 
@@ -127,8 +127,10 @@ In a permaculture or food forest design, sea buckthorn and aronia are highly com
 ## See Also
 
 - [[comparison-elderberry-vs-echinacea]] — another medicinal berry comparison
-- [[gaias-garden-hedgerows-and-windbreaks]] — shelterbelt design
+- gaias-garden-hedgerows-and-windbreaks — [[fukuoka-textdoc-shelterbelt-design-environmental-tree-planting]]
 
 ## See Also
 
 - [[comparison-aronia-vs-goji-vs-sea-buckthorn]]
+- [[food-forest-design]]
+- [[comparison-serviceberry-vs-elderberry-vs-aronia]]

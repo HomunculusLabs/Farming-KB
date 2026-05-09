@@ -5,6 +5,7 @@ updated: 2026-04-14
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
+  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 ## Permaculture in Small Spaces
@@ -15,14 +16,14 @@ Holzer demonstrates that permaculture principles can be applied on balconies, te
 
 ### Soil Assessment
 - Town soil may be heavily polluted -- replacement with uncontaminated organic soil may be necessary
-- Heavy loam can be loosened by mixing in sand, straw, leaves, and wood chip
+- Heavy loam can be loosened by mixing in sand, straw, leaves, and [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]]
 - Active soil life develops over time with mixed crops and no chemical inputs
 
 ### Maximising Sunlight
 - Tall-growing trees should be avoided in small gardens
 - Use tiered terraces and vertical surfaces at every possible level
 - Masonry stove effect: brick walls store heat and radiate it slowly
-- Espalier fruit trees (peach, apricot) against warm walls extend the growing season
+- Espalier [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] (peach, apricot) against warm walls [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season
 
 ### Frost Protection in Town
 - Tower blocks can cause abrupt sunlight that shocks frost-sensitive trees in flower
@@ -59,7 +60,7 @@ Holzer's design for a 2x3m terrace facing away from the street:
 
 ### Fertilisation
 - Kitchen waste incorporated daily with a trowel (different spot each time)
-- Cover waste with leaves/mulch while maintaining air circulation
+- Cover waste with leaves/mulch while maintaining [[stamets-growing-room-air-circulation-co2-management]]
 - Worms process waste into high-quality fertiliser
 - Over time, the trough fills with worm-rich substrate for transplanting elsewhere
 
@@ -82,7 +83,7 @@ Holzer emphasises that children should grow up around nature even in urban setti
 ## The Bypass Technique
 
 For areas where soil cannot be replaced (deep contamination, concrete):
-- Build raised beds or containers above the contaminated surface
+- Build [[comparison-raised-beds-vs-hugelkultur]] or containers above the contaminated surface
 - Use imported uncontaminated soil
 - The "bypass" means plants never contact the polluted substrate
 - This allows food production in virtually any urban location

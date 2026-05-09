@@ -1,5 +1,5 @@
 ---
-title: "Root Maggots and Cutworms on Cannabis (Cervantes)"
+title: "cervantes-nematodes-root-maggots-soil-pests and Cutworms on Cannabis (Cervantes)"
 created: 2026-04-28
 tags:
   - cannabis
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -64,15 +65,15 @@ seedlings and recently
   directions
 - Birds: Encourage bird activity in outdoor gardens. Birds
   such as robins and wrens eat cutworms and other soil pests
-- Beneficial nematodes: Steinernema and Heterorhabditis
-  species provide soil-level biological control of cutworm
+- [[ingham-beneficial-nematodes-soil-food-web]]: Steinernema and Heterorhabditis
+  species provide soil-level [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] of cutworm
   larvae
 
 ### Prevention
 
 Make sure all composts are well-aged before use, as cutworm
 eggs and larvae can survive in incompletely composted material.
-Use clean, sterile growing medium for container gardening. In
+Use clean, sterile growing medium for [[comparison-cold-frame-gardening-vs-container-gardening-guide]]. In
 outdoor gardens, till the soil in fall to expose overwintering
 cutworm pupae to predators and freezing temperatures.
 

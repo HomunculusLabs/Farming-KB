@@ -23,11 +23,11 @@ type: concept
 
 ## Overview
 
-Mexico represents the epicenter of sacred mushroom use in the world, with the richest documented tradition of entheogenic fungi consumption spanning thousands of years. The country hosts 76 neurotropic fungal species, the highest of any nation, and is home to the most well-documented indigenous groups that use these fungi ceremonially. The rediscovery of this tradition by Western science in the 1950s fundamentally transformed the study of mycology and psychedelic research.
+Mexico represents the epicenter of sacred mushroom use in the world, with the richest documented tradition of entheogenic fungi consumption spanning thousands of years. The country hosts 76 neurotropic fungal species, the highest of any nation, and is home to the most well-documented indigenous groups that use these fungi ceremonially. The rediscovery of this tradition by Western science in the 1950s fundamentally transformed the study of mycology and [[mckenna-suppression-psychedelic-research-lsd-therapy]].
 
 ## Historical Rediscovery
 
-The scientific study of Mexican sacred mushrooms began with Richard Evans Schultes in 1939, who reported that the neurotropic fungi in Mexico belonged only to Panaeolus campanulatus var. sphinctrinus. Rolf Singer followed in 1949, also considering Psilocybe cubensis based on Schultes's unidentified collections.
+The scientific study of Mexican sacred mushrooms began with [[richard-evans-schultes]] in 1939, who reported that the neurotropic fungi in Mexico belonged only to [[panaeolus-campanulatus]] var. sphinctrinus. Rolf Singer followed in 1949, also considering Psilocybe cubensis based on Schultes's unidentified collections.
 
 The true breakthrough came with the work of Roger Heim, R. Gordon Wasson, and their colleagues between 1954 and 1958. Wasson and Wasson (1957) published their famous account of the Mazatec mushroom ceremony in Life magazine, bringing global attention to the practice. Subsequent expeditions by Heim and Wasson (1958), Singer and Smith (1958), and Hofmann's identification of psilocybin as the active compound revolutionized understanding of these fungi.
 
@@ -47,13 +47,13 @@ Guzmán (1997) documented more than 200 common names for sacred mushrooms in Mex
 Among Spanish-language names used by indigenous peoples:
 - **San Isidros**: Named after Saint Isidore, patron saint of agriculture; commonly used for Psilocybe cubensis
 - **Pajaritos** ("little birds"): Used for Psilocybe mexicana
-- **Derrumbes** ("landslides"): Used for Psilocybe zapotecorum
+- **Derrumbes** ("landslides"): Used for [[psilocybe-zapotecorum]]
 
 ## Major Indigenous Mushroom-Using Cultures
 
 ### Mazatec People (Oaxaca)
 
-The Mazatec of the Sierra Mazateca in Oaxaca are the most famous mushroom-using culture, largely due to Wasson's publicity. They use several Psilocybe species ceremonially, and their curandera María Sabina became internationally known. The Mazatec also use Schizophyllum commune, which they call "nise" (little bird), the same name they apply to Psilocybe mexicana. This has caused confusion, as S. commune is a common edible mushroom with no neurotropic properties.
+The Mazatec of the Sierra Mazateca in Oaxaca are the most famous mushroom-using culture, largely due to Wasson's publicity. They use several Psilocybe species ceremonially, and their curandera María Sabina became internationally known. The Mazatec also use [[schizophyllum-commune]], which they call "nise" (little bird), the same name they apply to Psilocybe mexicana. This has caused confusion, as S. commune is a common edible mushroom with no neurotropic properties.
 
 ### Mixtec People (Oaxaca)
 
@@ -61,7 +61,7 @@ The Mixtec Indians of Oaxaca use a complex assemblage of fungi in their ceremoni
 
 ### Zapotec and Other Oaxacan Peoples
 
-The Zapotec, Chinantec, and Trique peoples of Oaxaca all maintain traditions of sacred mushroom use. The Chinantec use Dictyophora indusiata (with its three forms) as a special narcotic fungus for divination purposes. The Trique Indians of Alta Mixteca use Elaphomyces species (the subterranean hosts of Cordyceps) to help heal wounds and to "rejuvenate the organism."
+The Zapotec, Chinantec, and Trique peoples of Oaxaca all maintain traditions of sacred mushroom use. The Chinantec use [[dictyophora-indusiata]] (with its three forms) as a special narcotic fungus for divination purposes. The Trique Indians of Alta Mixteca use Elaphomyces species (the subterranean hosts of Cordyceps) to help heal wounds and to "rejuvenate the organism."
 
 ### Other Mexican Indigenous Groups
 
@@ -72,10 +72,10 @@ Numerous other indigenous groups in central and southern Mexico maintain traditi
 The sacred mushrooms are consumed in structured ceremonial settings, typically led by a curandero or curandera (healer). The ceremonies are nocturnal, as described by Wasson and others. Specific ceremonial practices include:
 
 ### Nocturnal Cordyceps Ceremonies
-In the Nevado de Toluca region, special nocturnal ceremonies involve eating Cordyceps capitata ("hombrecitos" or little men) and C. ophioglossoides ("mujercitas" or little women) either alone or together with Psilocybe muliercula. At the center of the ceremony room, a specimen of Elaphomyces (the host fungus of Cordyceps) is placed as a "director" of the ceremony. This elaborate practice demonstrates the sophistication of indigenous mycological knowledge.
+In the Nevado de Toluca region, special nocturnal ceremonies involve eating Cordyceps capitata ("hombrecitos" or little men) and C. ophioglossoides ("mujercitas" or little women) either alone or together with [[psilocybe-muliercula]]. At the center of the ceremony room, a specimen of Elaphomyces (the host fungus of Cordyceps) is placed as a "director" of the ceremony. This elaborate practice demonstrates the sophistication of indigenous mycological knowledge.
 
 ### Knowledge of Potency Degradation
-Indigenous practitioners possess empirical knowledge about the degradation of active compounds over time. Mexican Indians traditionally say that old dried specimens kept for more than one year are "not good to use" and discard them. This folk wisdom is confirmed by modern chemistry: Repke et al. (1977) showed that specimens of Psilocybe baeocystis and P. cyanescens analyzed 20 to 60 days after collection had no trace of indole compounds. Ohenoja et al. (1987) found decreasing psilocybin levels in herbarium specimens of P. semilanceata: 0.014% dry weight in specimens from 1869, 0.67% from 1954, and 0.84% from 1976.
+Indigenous practitioners possess empirical knowledge about the degradation of active compounds over time. Mexican Indians traditionally say that old dried specimens kept for more than one year are "not good to use" and discard them. This folk wisdom is confirmed by modern chemistry: Repke et al. (1977) showed that specimens of [[stamets-psi-psilocybe-baeocystis-knobby-tops]] and P. cyanescens analyzed 20 to 60 days after collection had no trace of indole compounds. Ohenoja et al. (1987) found decreasing psilocybin levels in herbarium specimens of P. semilanceata: 0.014% dry weight in specimens from 1869, 0.67% from 1954, and 0.84% from 1976.
 
 ### Incidental Volatile Exposure
 Guzmán reported a remarkable personal experience in Oaxaca in 1958. While sleeping in a small closed room filled with a large collection of fresh and semi-fermented neurotropic Psilocybe specimens (P. caerulescens, P. cordispora, P. cubensis, P. mexicana, and P. zapotecorum) gathered for commercial purposes, he experienced colored hallucinations without having consumed any fungi. The room's air was heavy with a strong acrid aroma. Upon leaving the room for fresh air, the hallucinations ceased. This suggests that psilocybin and psilocin may be volatile to some degree, or that atmospheric exposure to fresh fungal material can produce psychoactive effects.
@@ -88,14 +88,12 @@ Guzmán et al. (1975) reported a remarkable cult centered on Ganoderma lobatum i
 
 The primary species used in Mexican indigenous ceremonies include:
 
-- **Psilocybe mexicana**: Called "pajaritos" (little birds); one of the most important ceremonial species
-- **Psilocybe caerulescens**: Used in Mazatec and other ceremonies; known as "derrumbes" (landslides)
+- **Psilocybe mexicana**: Called "pajaritos" (little birds); one of the most important ceremon psilocybe caerulescens ybe caerulescens**: Used in Mazatec and other ceremonies; known as "derrumbes" (landslides)
 - **Psilocybe zapotecorum**: Named for the Zapotec people; another major ceremonial species
-- **Psilocybe cubensis**: Called "san isidros" after Saint Isidore; widely used in tropical lowland regions
-- **Psilocybe hoogshagenii**: Another important Mazatec ceremonial species
+- **Psilocybe cubensis**: Called "san isidros" after Saint Isidore; widely used in tropical lowl psilocybe hoogshagenii ybe hoogshagenii**: Another important Mazatec ceremonial species
 - **Psilocybe muliercula**: Used with Cordyceps species in Nevado de Toluca ceremonies
 - **Cordyceps capitata and C. ophioglossoides**: Used in special nocturnal ceremonies
-- **Conocybe siligineoides**: Reported as a sacred mushroom by Wasson in Oaxaca (1955), though never re-collected
+- **[[guzman-conocybe-siligineoides-lost-sacred-mushroom-oaxaca-never-recollected]]**: Reported as a sacred mushroom by Wasson in Oaxaca (1955), though never re-collected
 
 ## Five Historical Periods of Neurotropic Fungi Use
 
@@ -105,13 +103,13 @@ Guzmán and colleagues expanded on Stamets's (1978, 1996) framework, identifying
 2. **Uncertain or erroneous studies** in the early 20th century (Schultes, 1939; Singer, 1949)
 3. **Scientific investigations** beginning with Wasson's studies in the 1950s
 4. **Recreational use era** in the 1960s, leading to degradation of traditional practices
-5. **Recapitulation period** involving description of new species, new chemical analyses, and renewed scientific interest
+5. **Recapitulation period** involving description of new species, new [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]], and renewed scientific interest
 
 The recreational drug era forced governments worldwide to prohibit use and commerce of these fungi, leading to an underground market and illegal trade that continues today.
 
 ## Impact of Western Popularization
 
-The publicity generated by Wasson's 1957 Life magazine article had profound and complex effects on Mexican indigenous mushroom traditions. On one hand, it brought international scientific attention and respect to indigenous knowledge systems that had been previously dismissed or ignored. On the other hand, the subsequent influx of Western seekers in the 1960s led to the commodification and degradation of traditional ceremonial practices.
+The publicity generated by Wasson's 1957 Life magazine article had profound and complex effects on Mexican indigenous [[sacred-mushroom-traditions-in-mexico]]. On one hand, it brought international scientific attention and respect to indigenous knowledge systems that had been previously dismissed or ignored. On the other hand, the subsequent influx of [[ayahuasca-tourism-western-seekers-and-integration]] in the 1960s led to the commodification and degradation of traditional ceremonial practices.
 
 The recreational drug era forced governments of many countries to prohibit the use and commerce of these fungi. Despite legal restrictions, underground markets developed in the USA, Canada, Europe, and Australia. This trade sometimes involved exploiting indigenous communities for access to mushrooms and knowledge, further eroding traditional practices that had been maintained for centuries.
 

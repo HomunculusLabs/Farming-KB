@@ -43,7 +43,7 @@ The stems are typically green, softly pubescent when young, and become
 increasingly woody and furrowed with age. **Leaves** are large, broadly
 cordate, 20–40 cm in diameter, with 3–5 shallow lobes and dentate margins.
 
-The leaf surface is rough-textured with scattered stiff hairs on both adaxial
+The [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is rough-textured with scattered stiff hairs on both adaxial
 and abaxial surfaces.
 
 **Flowers** are large, showy, and yellow-orange, 8–15 cm in diameter.
@@ -78,7 +78,7 @@ South America, particularly Argentina, Bolivia, Chile, Paraguay, and Uruguay.
 Domestication occurred independently in South America, with archaeological
 evidence of cultivated forms dating to approximately 4,000–6,000 years ago.
 
-The species was introduced to Europe and North America in the 16th and 17th
+The species was introduced to Europe and [[psilocybin-north-america-pacific-northwest]] in the 16th and 17th
 centuries, where it rapidly became an important food crop. Today it is grown
 across temperate regions worldwide, thriving in areas with warm growing seasons
 of 100–150 frost-free days.
@@ -91,7 +91,7 @@ full sun exposure for optimal production.
 The crop is frost-sensitive and requires warm temperatures of 18–30°C
 throughout the growing season.
 
-Direct seeding is the standard practice, with 2–3 seeds planted per hill
+[[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] is the standard practice, with 2–3 seeds planted per hill
 spaced 1–2 m apart in rows 2–3 m apart.
 
 Vining types require substantial space but can be trained onto trellises in
@@ -104,7 +104,7 @@ requirements of 400–600 mm per growing season.
 Major pests include squash vine borer (*Melittia cucurbitae*), cucumber
 beetles (*Acalymma vittatum*), and squash bugs (*Anasa tristis*).
 
-Powdery mildew (*Podosphaera xanthii*) is the most prevalent foliar disease,
+[[cervantes-powdery-mildew-prevention-treatment]] (*Podosphaera xanthii*) is the most prevalent foliar disease,
 often reducing yield by limiting photosynthetic area late in the season.
 
 Average yield for winter squash production ranges from 15–30 tonnes per hectare.
@@ -131,10 +131,10 @@ Cucurbitaceae, are present in wild forms and contribute to insect resistance.
 In agricultural systems, *C. maxima* serves as a productive ground cover
 crop, with its large leaves suppressing weed growth through shading.
 
-The species is a host for various beneficial insects including squash bees
+The species is a host for various [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] including squash bees
 (*Peponapis pruinosa*), which are important native pollinators in the Americas.
 
-Crop residues incorporated into soil contribute significant organic matter,
+Crop residues incorporated into soil contribute significant [[hamilton-composting-and-organic-matter-management]],
 improving soil structure and water-holding capacity.
 
 ## See Also

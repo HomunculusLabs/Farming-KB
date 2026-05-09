@@ -16,7 +16,7 @@ In *Teaming with Microbes*, Lowenfels and Lewis present the physical and chemica
 
 ## Cation Exchange Capacity (CEC)
 
-Clay and humus particles carry negative electrical charges that attract positive nutrient cations (Ca++, K+, Na+, Mg++, NH4+). This CEC is the soil's nutrient-holding ability. Organic matter dramatically increases CEC.
+Clay and humus particles carry negative electrical charges that attract positive nutrient cations (Ca++, K+, Na+, Mg++, NH4+). This CEC is the soil's nutrient-holding ability. [[hamilton-composting-and-organic-matter-management]] dramatically increases CEC.
 
 See also: [[glomalin-and-soil-carbon]], [[nutrient-cycling-in-soil]]
 
@@ -38,13 +38,13 @@ often prefer the more fungal (acidic) soils.
 
 ## Soil Profiles and Horizons
 Mature soils develop distinct horizontal layers called horizons. The O
-horizon is the organic layer of leaf litter and decomposing material on
+horizon is the organic layer of [[dighton-fungal-decomposition-leaf-litter-dynamics]] and decomposing material on
 the surface. The A horizon (topsoil) is the dark, mineral-rich layer
 where most biological activity occurs and where plant roots are
 concentrated. The E horizon (eluviation layer) is a light-coloured zone
 where minerals and organic matter have been leached downward. The B
 horizon (subsoil) accumulates the materials leached from above -- clay,
-iron, aluminium, and dissolved organic compounds. The C horizon is the
+iron, aluminium, and [[dighton-fungal-dissolved-organic-carbon-production]] compounds. The C horizon is the
 partially weathered parent rock material, and the R horizon is the
 underlying bedrock. In agricultural and garden contexts, the A horizon
 is the most critical zone. Deep-rooted plants and [[teaming-with-microbes-bacterial-vs-fungal-dominance]] in both garden and farm
@@ -55,9 +55,10 @@ contexts.
 The principles outlined on this page connect directly to hands-on work in gardens,
 farms, and homesteads. Integrating these concepts with complementary techniques from
 related disciplines can significantly improve outcomes. Start with small-scale
-implementation and scale up as understanding deepens through direct observation.
+implementation and scale up as understanding deepens through [[fukuoka-direct-observation-method]].
 Key practices derived from these soil science principles include regular organic matter
 addition through [[lowenfels-earthworms-soil-food-web]].
+
 ## Practical Considerations
 
 Successful implementation of Teaming with Microbes — Classic Soil Science requires attention to
@@ -76,4 +77,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

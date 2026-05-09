@@ -8,7 +8,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes
 ---
 # Arbutoid Mycorrhiza
 
-Arbutoid mycorrhiza is a distinctive type of [[ectomycorrhizal-ecology]] and [[common-mycorrhizal-networks]] linking ericaceous plants with forest trees, with ecological implications for nutrient cycling and plant community dynamics.
+Arbutoid mycorrhiza is a distinctive type of [[ectomycorrhizal-ecology]] and [[common-mycorrhizal-networks]] linking ericaceous plants with forest trees, with ecological implications for [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and plant community dynamics.
 
 ## Structural Features
 
@@ -20,7 +20,7 @@ A well-developed Hartig net is formed, similar to ectomycorrhizae:
 
 - Fungal hyphae penetrate between epidermal and outer cortical cells
 - The Hartig net may extend through several layers of cortical cells
-- Hyphae form a labyrinthine intercellular network for nutrient exchange
+- Hyphae form a labyrinthine intercellular network for [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]
 - This intercellular phase is the primary site of nutrient exchange
 
 ### Intracellular Penetration
@@ -61,7 +61,7 @@ The dual intercellular/intracellular architecture provides efficient nutrient ex
 
 ### Ecological Context
 
-Arbutoid plants often grow in nitrogen-poor, acidic soils where mycorrhizal nutrient acquisition is critical. The shared fungal partners with forest trees create potential for interplant nutrient transfer through common mycorrhizal networks.
+Arbutoid plants often grow in nitrogen-poor, acidic soils where [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] acquisition is critical. The shared fungal partners with forest trees create potential for interplant nutrient transfer through common [[dighton-mycorrhizal-networks-carbon-transfer]].
 
 ## Comparison with Related Mycorrhizal Types
 
@@ -80,12 +80,12 @@ Arbutoid mycorrhizae are ecologically important because they:
 
 - Enable Arbutoideae species to colonize nutrient-poor, acidic habitats
 - Create mycorrhizal linkages between ericaceous understory and overstory conifers through shared fungal partners
-- Contribute to nitrogen cycling in forest-ecotone environments
+- Contribute to [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]] in forest-ecotone environments
 - May facilitate succession from heathland to forest communities
 
 ## Evolutionary Considerations
 
-The arbutoid condition is thought to represent an evolutionary intermediate or hybrid between ectomycorrhizal and ericoid mycorrhizal strategies. The combination of Hartig net (ectomycorrhizal feature) and intracellular colonization (ericoid/arbuscular feature) in a single root system is unique among mycorrhizal types and may reflect the evolutionary plasticity of the ericaceous mycorrhizal habit.
+The arbutoid condition is thought to represent an evolutionary intermediate or hybrid between ectomycorrhizal and [[singh-ericoid-mycorrhizal-fungi-remediation]] strategies. The combination of Hartig net (ectomycorrhizal feature) and intracellular colonization (ericoid/arbuscular feature) in a single root system is unique among mycorrhizal types and may reflect the evolutionary plasticity of the ericaceous mycorrhizal habit.
 
 ## See Also
 
@@ -93,5 +93,5 @@ The arbutoid condition is thought to represent an evolutionary intermediate or h
 - [[ericoid-and-orchid-mycorrhizae]] — The related ericoid symbiosis within the same plant family
 - ericaceae — The plant family containing arbutoid hosts
 - [[monotropoid-mycorrhiza]]
-- [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]
-- [[mycorrhizal-networks-interplant-carbon-transfer]]
+- fungal-symbiosis-with-plants-beyond-mycorrhizae
+- mycorrhizal-networks-interplant-carbon-transfer

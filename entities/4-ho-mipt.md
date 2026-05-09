@@ -4,7 +4,7 @@ created: 2026-04-28
 type: chemical
 tags:
   - psychedelic
-  - [[serotonin]]-receptor
+  - serotonin-receptor
   - hallucinogen
   - tiHKAL
   - shulgin
@@ -21,7 +21,7 @@ sources:
 
 ## Overview
 
-4-HO-MiPT (4-hydroxy-N-methyl-N-isopropyltryptamine) is a synthetic psychedelic tryptamine and a close structural analog of  (4-HO-DMT). It belongs to the substituted tryptamine class and is positioned within the "4-substituted" family alongside compounds such as 4-HO-DMT (psilocin), 4-HO-MET (metocin), 4-HO-Di4 aco dmt-DMT, and others catalogued by Alexanann-shulgin Shulgin in TiHKAL (Tryptamines I Have Known and Loved). First synthesized and bioassayed by the Shulgins, 4-HO-MiPT is distinguished by its N-isopropyl-N-methyl substitution pattern, which modulates its pharmacokinetic profile — producing effects broapsilocin-synthesis-4-hydroxy -to-psilocin to psilocin but with a shorter duration and distinctive perceptual character described by users as "cleaner," more visual, and less cognitively loaded. It is widely regarded in the research chemical and psychonaut communities as one of the most aesthetically pleasing and well-tolerated members of the 4-HO-tryptamine series.
+4-HO-MiPT (4-hydroxy-N-methyl-N-isopropyltryptamine) is a synthetic psychedelic tryptamine and a close structural analog of  (4-HO-DMT). It belongs to the substituted tryptamine class and is positioned within the "4-substituted" family alongside compounds such as 4-HO-DMT ([[psilocin]]), 4-HO-MET (metocin), 4-HO-Di4 aco dmt-DMT, and others catalogued by Alexanann-shulgin Shulgin in TiHKAL (Tryptamines I Have Known and Loved). First synthesized and bioassayed by the Shulgins, 4-HO-MiPT is distinguished by its N-isopropyl-N-methyl substitution pattern, which modulates its pharmacokinetic profile — producing effects broapsilocin-synthesis-4-hydroxy -to-psilocin to psilocin but with a shorter duration and distinctive perceptual character described by users as "cleaner," more visual, and less cognitively loaded. It is widely regarded in the research chemical and psychonaut communities as one of the most aesthetically pleasing and well-tolerated members of the 4-HO-tryptamine series.
 
 ## Chemical Profile
 
@@ -38,7 +38,7 @@ sources:
 ## Structural Relationships
 
 4-HO-MiPT occupies a well-defined position in the tryptamine structure-activity relationship (SAR):
-- **Core**: Indole ethylamine backbone identical to psilocin, DMT, and 
+- **Core**: indole ethylamine backbone identical to psilocin, DMT, and 
 - **4-position hydroxyl**: Confers 5-HT₂A receptor affinity comparable to psilocin (the 4-OH is the primary pharmacophore for classical psychedelic activity in this series)
 - **N-substitution**: N-methyl-N-isopropyl group; the N-isopropyl moiety distinguishes it from psilocin (N,N-dimethyl) and 4-HO-MET (N-methyl-N-ethyl). The bulkier isopropyl group increases lipophilicity, which affects BBB penetration kinetics and duration of action
 - **Acetylated analog**: 4-AcO-MiPT is the acetylated prodrug form, theorized (by analogy to 4-AcO-DMT → psilocin) to convert to 4-HO-MiPT in vivo via deacetylation
@@ -46,10 +46,10 @@ sources:
 
 ## Pharmacology
 
-4-HO-MiPT acts primarily as a **serotonin 5-HT₂A receptor agonist**, the canonical mechanism underlying classical psychedelic effects. Its pharmacological profile includes:
+4-HO-MiPT acts primarily serotonin erotonin 5-HT₂A receptor agonist**, the canonical mechanism underlying classical psychedelic effects. Its pharmacological profile includes:
 
 **Receptor affinity** (estimated from structural analogy and limited in vitro data):
-- **5-HT₂A**: High affinity (Ki estimated 5–20 nM), the primary mediator of psychedelic hallucinogenic effects including visual distortions, synesthesia, and altered sense of self
+- **5-HT₂A**: High affinity (Ki estimated 5–20 nM), the primary mediator of [[metzner-entheogenic-terminology-psychedelic-hallucinogenic-entheogenic]] effects including visual distortions, synesthesia, and altered sense of self
 - **5-HT₂C**: Moderate affinity, contributing to mood elevation and potential anxiogenic effects at higher doses
 - **5-HT₁A**: Low to moderate affinity; partial agonism at this receptor may contribute to anxiolytic and calming effects
 - **5-HT₂B**: Some affinity — theoretical concern for valvular heart disease with chronic use, though no cases reported specifically for 4-HO-MiPT
@@ -82,11 +82,11 @@ sources:
 
 ## Subjective Effects
 
-4-HO-MiPT is consistently described as producing a psychedelic experience qualitatively similar to psilocin but with notable differences:
+4-HO-MiPT is consistently described as producing a [[leary-psychedelic-experience-bardo-mapping]] qualitatively similar to psilocin but with notable differences:
 
 **Visual effects**: Considered among the most visually rich of the 4-HO-tryptamines. Users report vivid color enhancement, geometric patterning (tracers, fractals), texture flowing, and enhanced appreciation of art and nature. Visual acuity and clarity are often described as "sharp" compared to the "blurry" visuals sometimes reported with 4-HO-DiPT.
 
-**Cognitive effects**: Characterized by a "clean" headspace relative to psilocin — users frequently report less mental confusion, looping thought patterns, and existential weight. The cognitive component is often described as lucid and present, allowing for clearer introspection without the overwhelming ego dissolution common with higher-dose psilocin or LSD.
+**Cognitive effects**: Characterized by a "clean" headspace relative to psilocin — users frequently report less mental confusion, looping thought patterns, and existential weight. The cognitive component is often described as lucid and present, allowing for clearer introspection without the overwhelming [[psilocybin-ego-dissolution-mechanisms]] common with higher-dose psilocin or LSD.
 
 **Emotional effects**: Mood elevation, gentle euphoria, and enhanced emotional sensitivity. Anxiety is less commonly reported than with other psychedelics, though  remain paramount.
 
@@ -107,16 +107,14 @@ sources:
 
 ## Legal Status
 
-- **United States**: Not scheduled at the federal level under the Controlled Substances Act; however, the Federal Analogue Act potentially renders it prosecutable as an analogue of psilocin (Schedule I). Individual state laws vary — some states have explicitly scheduled 4-HO-MiPT or its derivatives
+- **[[dmt-containing-plants-united-states-halpern]]**: Not scheduled at the federal level under the Controlled [[controlled-substances-act-and-psychedelic-research]]; however, the Federal Analogue Act potentially renders it prosecutable as an analogue of psilocin (Schedule I). Individual state laws vary — some states have explicitly scheduled 4-HO-MiPT or its derivatives
 - **United Kingdom**: Class A under the Psychoactive Substances Act (2016) and the Misuse of Drugs Act; possession, sale, and production are criminal offenses
 - **EU**: Varies by member state; classified as controlled substance in Germany (NpSG), Austria (SMG), and several other nations
 - **Canada**: Not explicitly scheduled but may fall under controlled substance analogue provisions
 - **Australia**: Scheduled as a controlled substance (Schedule 9)
 - **Japan**: Controlled substance under the Pharmaceutical Affairs Law
 
-## Harm Reduction
-
-- **Set and setting**: As with all psychedelics, psychological preparedness, a safe comfortable environment, and ideally a trusted sitter are essential
+## Harm Red [[set-and-setting]] and setting**: As with all psychedelics, psychological preparedness, a safe comfortable environment, and ideally a trusted sitter are essential
 - **Substance purity**: Obtain from reputable sources; use reagent testing (Ehrlich's reagent produces purple/violet color indicating indole presence)
 - **Contraindications**: Avoid with personal or family history of psychosis or schizophrenia; avoid in combination with MAOIs, SSRIs, lithium, tramadol, or stimulants
 - **Hydration**: Maintain adequate hydration; avoid alcohol
@@ -141,3 +139,4 @@ sources:
 ## See Also
 - [[psychedelic-mushroom-effects-guide]]
 - [[shirota-psilocin-psilocybin-synthesis-from-4-hydroxyindole]]
+- [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]]

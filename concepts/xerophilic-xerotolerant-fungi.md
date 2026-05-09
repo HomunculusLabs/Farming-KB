@@ -3,14 +3,14 @@ title: Xerophilic and Xerotolerant Fungi
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology]], fungi]
+tags: [mycology], fungi]
 sources: []
 ---
 # Xerophilic and Xerotolerant Fungi
 
 ## Overview
 
-Xerotolerant and xerophilic fungi are designated for their abilities to grow on substrata where low matrix potential, rather than osmotic stress from sugars and salts, accounts for low water activity. Pitt (1975) defined a xerophilic fungus as one that would grow at a water activity (aw) below 0.85 under at least one set of environmental conditions. These fungi are critical in food science, arid ecology, and indoor environments.
+Xerotolerant and [[biodiversity-xerophilic-fungi-dry-environments]] are designated for their abilities to grow on substrata where low matrix potential, rather than osmotic stress from sugars and salts, accounts for low water activity. Pitt (1975) defined a xerophilic fungus as one that would grow at a water activity (aw) below 0.85 under at least one set of environmental conditions. These fungi are critical in food science, arid ecology, and indoor environments.
 
 ## Water Activity Concepts
 
@@ -22,7 +22,7 @@ Water activity (aw) ranges from 0 to 1 and is a physiochemical index of water av
 - Most microorganisms restricted to aw 0.95 and above
 - Xerophilic threshold: below 0.85 aw
 
-The key distinction from [[aspergillus-fumigatus-population-genetics]] has revealed the evolutionary breadth of stress tolerance within this genus:
+The key distinction from [[aspergillus-fumigatus-population-genetics]] has revealed the evolutionary breadth of [[fungal-lichen-stress-tolerance-and-poikilohydry]] within this genus:
 
 - **Aspergillus penicilloides**: Common on dried fish; grows optimally at 2.5 M NaCl
 - **Aspergillus halophilicus**: Halophilic species from saline soils
@@ -104,4 +104,7 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[water-activity-osmophilic-fungal-media-preparation]]
+- [[aspergillus-fumigatus-population-genetics]]
+- [[mycelium-running-filtering-water-with-fungi]]

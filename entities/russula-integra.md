@@ -29,11 +29,11 @@ created: 2026-05-07
 ## Overview
 
 *Russula integra* is a large, edible ectomycorrhizal mushroom in the family
-Russulaceae. It is widely distributed across temperate and boreal forests of
+Russulaceae. It is widely distributed across temperate and [[fungal-diversity-boreal-forests-taiga]] of
 Europe and Asia, where it associates primarily with conifers, especially
 spruce (*Picea abies*) and pine (*Pinus sylvestris*).
 
-The species is valued as an edible mushroom in Central and Eastern Europe,
+The species is valued as an [[bloomfield-boletus-satanus-edible-mushroom-hazards]] in Central and Eastern Europe,
 particularly in Poland, Russia, and Scandinavia. Its firm flesh and mild nutty
 flavor make it suitable for pickling and sautéing.
 
@@ -97,7 +97,7 @@ trees such as birch (*Betula*) and oak (*Quercus*) have been documented.
 
 Fruiting occurs from July to October in temperate zones, preferring moist,
 acidic forest soils rich in humus. It is most abundant in old-growth and
-mature coniferous forests with well-developed mycelial networks.
+mature coniferous forests with well-developed [[fungal-mycelial-networks-nutrient-translocation]].
 
 ## Edibility and Culinary Use
 
@@ -116,11 +116,11 @@ integra* are its mild taste, cream spore print, and smooth cap surface.
 ## Ecological Role
 
 As an ectomycorrhizal fungus, *R. integra* plays a significant role in forest
-nutrient cycling. The mycelial network facilitates nutrient exchange between
+[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. The mycelial network facilitates [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between
 host trees and the soil, enhancing phosphorus and nitrogen uptake for the
 plant partner while receiving carbohydrates in return.
 
-The species contributes to soil aggregation and organic matter decomposition
+The species contributes to soil aggregation and [[hamilton-composting-and-organic-matter-management]] decomposition
 through its extramatrical mycelium. It is an important food source for small
 mammals, slugs, and insect larvae in forest floor ecosystems.
 
@@ -137,6 +137,8 @@ mammals, slugs, and insect larvae in forest floor ecosystems.
 - **R. xerampelina** — distinctive shrimp-like odor, darker red cap, bruise
   stains brownish.
 ## See Also
+
+- [[salix-integra]]
 
 - [[russula-virescens]]
 - [[russula-vesca]]

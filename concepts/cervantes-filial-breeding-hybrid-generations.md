@@ -1,5 +1,5 @@
 ---
-title: Filial Breeding and Hybrid Generations in Cannabis
+title: cervantes filial breeding hybrid generations and Hybrid Generations in Cannabis
 created: 2026-04-26
 tags:
   - cannabis
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -37,7 +38,7 @@ generation. This uniformity is lost when F1 plants are inter-bred.
 
 ## Hybrid Types
 
-Cervantes describes several types of hybrid varieties found in cannabis
+Cervantes describes several types of [[cervantes-hybrid-varieties-types]] found in cannabis
 breeding:
 - F1 hybrids: Single cross of two true-breeding lines (e.g.,
   'Northern Lights' x 'Haze')
@@ -68,7 +69,7 @@ show entirely novel trait combinations not seen in either parent. This
 is the generation where careful selection has the greatest impact.
 
 Breeders should grow as many F2 plants as possible to maximize the
-chance of finding exceptional individuals. Polygenic recessive traits
+chance of finding exceptional individuals. Polygenic [[cervantes-dominance-recessive-traits-alleles]]
 may only appear in a small fraction of the F2 population, requiring
 large sample sizes to discover.
 

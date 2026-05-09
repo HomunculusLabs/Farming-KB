@@ -9,7 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-One of the most significant but rarely discussed aspects of ayahuasca tourism is the question of dosage. When ayahuasca ceremonies shift from traditional communal contexts to commercial settings serving foreign tourists, the dosage dynamics change substantially. Shamans who serve tourists typically exercise greater caution in dosing than they would when serving their own community members, a practice driven by pragmatic concerns about liability, communication barriers, and the unpredictability of foreign participants' reactions.
+One of the most significant but rarely discussed aspects of [[stuart-r-ayahuasca-tourism-cautionary-ethnography]] is the question of dosage. When [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] shift from traditional communal contexts to commercial settings serving foreign tourists, the dosage dynamics change substantially. Shamans who serve tourists typically exercise greater caution in dosing than they would when serving their own community members, a practice driven by pragmatic concerns about liability, communication barriers, and the unpredictability of foreign participants' reactions.
 
 ## The Caution Principle in Tourist Ceremonies
 
@@ -71,15 +71,15 @@ A milder experience may be easier to integrate but may not provide the depth of 
 
 ## The Practical Implication: Home Brewing as an Alternative
 
-The observations about conservative tourist dosing led one researcher to suggest that individuals specifically interested in experiencing ayahuasca might achieve a more intense and cost-effective experience through home brewing rather than traveling to South America. With ingredients ordered from an ethnobotanical supplier and the help of an experienced friend as a sitter, one could have an intense entheogenic experience in the safety and comfort of home or an isolated natural setting.
+The observations about conservative tourist dosing led one researcher to suggest that individuals specifically interested in experiencing ayahuasca might achieve a more intense and cost-effective experience through home brewing rather than traveling to South America. With ingredients ordered from an [[ayahuasca-diy-home-brewing-ethnobotanical-supplier-guide]] and the help of an experienced friend as a sitter, one could have an intense entheogenic experience in the safety and comfort of home or an isolated natural setting.
 
 This suggestion comes with important caveats:
 
-- **Preparation knowledge**: The individual must know how to properly prepare the brew, including correct plant identification and traditional preparation methods.
+- **Preparation knowledge**: The individual must know how to properly prepare the brew, including correct plant identification and [[kava-traditional-preparation-ceremonial-context]] methods.
 - **MAOI awareness**: Understanding the dietary and pharmaceutical restrictions associated with MAOIs is essential for safety.
 - **Experienced sitter**: Having a knowledgeable and experienced sitter present is critical for managing the experience and responding to emergencies.
 - **Legal considerations**: The legal status of ayahuasca and its constituent plants varies by jurisdiction, and home preparation may be illegal in some areas.
-- **Set and setting**: Creating an appropriate environment for the experience requires as much care as the preparation of the brew itself.
+- **[[lsd-set-and-setting-framework]]**: Creating an appropriate environment for the experience requires as much care as the preparation of the brew itself.
 
 ## The Dose-Response Paradox
 
@@ -95,7 +95,7 @@ R. Stuart's observations in Peru revealed significant variation in shamanic char
 
 - **Dishonest practitioners**: One elderly shaman was described as a frequent liar and shoplifter who regularly asked for money or gifts. Another swindled the researcher on the price of a tobacco pipe.
 - **Hustling behavior**: The partner of one otherwise pleasant shaman constantly hustled visitors for spare change, suggesting an environment where commercial pressure can erode ethical standards.
-- **Honorable practitioners**: Despite the prevalence of questionable behavior, genuinely honorable practitioners do exist. One shaman, widely regarded as an honorable man, was observed singing icaros in the darkness of his home during private family ceremonies.
+- **Honorable practitioners**: Despite the prevalence of questionable behavior, genuinely honorable practitioners do exist. One shaman, widely regarded as an honorable man, was observed [[metzner-shamanic-singing-icaros-rhythm-and-entrainment]] in the darkness of his home during private family ceremonies.
 - **Price variation**: Pricing for tourist ceremonies varied dramatically, from about ten dollars to thirty dollars per session, with no clear correlation between price and quality.
 
 The challenge for tourists is that character evaluation requires time and cultural fluency that most short-term visitors lack. A practitioner who seems warm and welcoming during an initial meeting may behave very differently once the tourist has committed to a ceremony. Conversely, a practitioner who seems aloof or businesslike may prove to be deeply competent and genuinely caring during the ceremony itself.

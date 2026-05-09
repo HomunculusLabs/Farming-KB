@@ -11,7 +11,7 @@ tags: [phenethylamine, psychedelic, amphetamine, dox-family, stp]
 
 ## Overview
 
-DOM (2,5-dimethoxy-4-methylamphetamine), historically known by the street name STP, is one of the most historically significant substituted amphetamines. Originally synthesized and studied by Alexander Shulgin, DOM became widely known in 1967 when it was distributed in massive doses throughout San Francisco's Haight-Ashbury district during the Summer of Love, causing numerous overdose emergencies and contributing to the scheduling of the entire class of substituted amphetamines.
+DOM (2,5-dimethoxy-4-methylamphetamine), historically known by the street name STP, is one of the most historically significant substituted amphetamines. Originally synthesized and studied by Alexander Shulgin, DOM became widely known in 1967 when it was distributed in massive doses throughout [[shipibo-san-francisco-ceremonial-center-ucayali]]'s Haight-Ashbury district during the Summer of Love, causing numerous overdose emergencies and contributing to the scheduling of the entire class of substituted amphetamines.
 
 DOM is a [[dob-pihkal-62]] (bromo), [[doi-pihkal-67]] (iodo), [[dob-pihkal-62]]: DOB is approximately 3x more potent (1-3 mg vs. 3-10 mg) and longer-acting (18-30h vs. 14-20h). DOB has been more frequently associated with overdose deaths.
 - vs. [[desert-gardening]]: DOET is the ethyl homologue, somewhat longer-acting and less overtly psychedelic at lower doses. DOET has a reputation as a cognitive enhancer at modest doses.
@@ -111,4 +111,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

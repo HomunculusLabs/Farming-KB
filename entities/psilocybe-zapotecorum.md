@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3erpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  sources: []
 ---
 
 # Psilocybe zapotecorum
@@ -34,7 +34,7 @@ many mycologists to be conspecific with this species. The epithet
 mushroom has been used ceremonially. The species was originally collected and
 described by Heim based on specimens from the Zapotec region of southern
 Mexico. Singer's later interpretation helped clarify the species concept and
-distinguished it from similar taxa in section Zapotecorum.
+distinguished it from similar taxa in [[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]].
 
 ## Description
 
@@ -88,12 +88,12 @@ the cleared, moist, clay-rich soils found in these agroecosystems.
 ## Chemistry and Potency
 
 *Psilocybe zapotecorum* is moderately to highly active as a psychoactive
-species. Chemical analyses have revealed variable but significant levels of
+species. [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] have revealed variable but significant levels of
 psilocybin and [[psilocybe-southeast-asia-pacific]]. This
   variety is most common in Puebla, Mexico. Volunteers report massive flushes
   coming up in unison and just as suddenly disappearing.
 - [[psilocybe-brasiliensis]] is reported from Brazil and occupies a similar
-  ecological niche in subtropical South American forests.
+  ecological niche in subtropical [[chiric-caspi-brunfelsia-south-american-hallucinogen]] forests.
 - [[psilocybe-stuntzii-profile]]
 
 - [[psilocybe-southeast-asia-pacific]]

@@ -1,5 +1,5 @@
 ---
-title: "Coprinus comatus (Shaggy Mane) Cultivation"
+title: "stamets cultivator coprinus comatus shaggy mane cultivation (growing-gourmet-shaggy-mane-coprinus-cultivation) Cultivation"
 created: 2026-04-28
 tags:
   - mushroom-cultivation
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/the-mushroom-cultivator-stamets.md
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
 
@@ -42,8 +43,8 @@ preference for nitrogen-rich substrates.
 
 ## Spawn Preparation
 
-Rye grain serves as the standard spawn medium. See
-[[stamets-phase-ii-composting]] supported the greatest fruitings. Preparation
+[[bigwood-beug-miniculture-rye-grain-flush-variation-method]] serves as the standard spawn medium. See
+stamets-phase-ii-composting supported the greatest fruitings. Preparation
 methods are detailed in [[stamets-cultivator-pasteurization-vs-sterilization-methods]]
 for a thorough discussion of pasteurization techniques.
 
@@ -58,7 +59,7 @@ for a thorough discussion of pasteurization techniques.
 ## Casing Layer
 
 After full colonization, cover with the standard casing layer balanced to a pH
-of 7.0 to 7.5, applied to a depth of 1 to 2 inches. Casing design principles
+of 7.0 to 7.5, applied to a depth of 1 to 2 inches. Casing [[holmgren-permaculture-twelve-design-principles-framework]]
 are covered in [[stamets-pinning-initiation-stages-environmental-control]].
 
 ## Cropping Cycle
@@ -73,7 +74,7 @@ are covered in [[stamets-pinning-initiation-stages-environmental-control]].
 
 ## Yield Potential
 
-Average commercial yields are 2 to 3 pounds per square foot over a 4 week
+Average commercial yields are 2 to 3 pounds per [[comparison-biointensive-vs-square-foot-gardening]] over a 4 week
 cropping period. Maximum yield potential has not yet been established. Moisture
 content is 92 to 94% water with 6 to 8% dry matter. Nutritional content is
 approximately 25.4% protein (dry weight).
@@ -84,13 +85,19 @@ The greatest challenge is the early onset of deliquescence. By submerging
 mushrooms in water immediately after harvest, deliquescence is slowed and
 mushrooms remain in good condition for several days. This technique is
 essential for any cultivation effort. See
-[[stamets-cultivator-agaricus-bisporus-commercial-methods]] for comparison.
+stamets-cultivator-agaricus-bisporus-commercial-methods for comparison.
 
 ## Genetic Characteristics
 
 Basidia are tetrapolar (4-spored), forming haploid spores. The species is
 heterothallic. Clamp connections are present. See
-[[stamets-compost-preparation]]
-- [[stamets-casing-layer-design]]
-- [[stamets-harvesting-drying-and-storage]]
-- [[stamets-mushroom-growing-parameters-by-species]]
+stamets-compost-preparation
+- stamets-casing-layer-design
+- stamets-harvesting-drying-and-storage
+- stamets-mushroom-growing-parameters-by-species
+## See Also
+- [[coprinus-comatus]]
+- [[growing-gourmet-shaggy-mane-coprinus-cultivation]]
+- [[pasteurization-techniques]]
+- [[spawn-preparation]]
+- [[sterilization]]

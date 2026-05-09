@@ -1,14 +1,12 @@
 ---
-title: Mushroom Growing Trays and Shelves — Commercial Cultivation Systems
+title: duggar-mushroom-growing-history-and-methods Trays and Shelves — Commercial Cultivation Systems
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology, mushrooms, cultivation]
+tags: [mycology, mushrooms, cultivation]
 sources: [papers/benjamin-minge-duggar-mushroom-growing.md]
 ---
-# Mushroom Growing Trays and Shelves
-
-The physical infrastructure for holding substrate during colonization and fruiting is a defining feature of [[growing-gourmet-tree-species-guide-mushroom-cultivation]] production, each with distinct advantages in terms of labor efficiency, space utilization, and crop management.
+# Mushroom Growing Trays and Shelves The physical infrastructure for holding substrate during colonization and fruiting is a defining feature of [[growing-gourmet-tree-species-guide-mushroom-cultivation]] production, each with distinct advantages in terms of labor efficiency, space utilization, and crop management.
 
 This content draws from Paul Stamets' The Mushroom Cultivator, which describes commercial tray and shelf systems in detail.
 
@@ -22,15 +20,15 @@ Commercial tray farms use automated systems for filling, spawning, and casing th
 
 ## Shelf Systems
 
-Shelf cultivation eliminates the individual container, instead filling compost directly onto permanent shelf structures within the growing room. Shelves are typically tiered at 18-24 inch vertical intervals, with each tier serving as a growing bed.
+Shelf cultivation eliminates the individual container, instead filling compost directly onto permanent shelf structures within the [[growing-gourmet-growing-room-ventilation-air-exchange]]. Shelves are typically tiered at 18-24 inch vertical intervals, with each tier serving as a growing bed.
 
 The advantages of shelf systems include better space utilization (no gaps between trays), lower equipment costs (no trays to purchase or maintain), and more compost per square foot of growing room floor space. Shelves also eliminate the labor of moving trays between rooms.
 
-The disadvantages include more difficult environmental control (compost depth and mass affect temperature distribution), more challenging cleaning between crops, and less flexibility in crop scheduling. With shelf systems, the entire room must typically be emptied, cleaned, and refilled as a unit, whereas trays can be rotated through rooms individually.
+The disadvantages include more difficult [[eclss-environmental-control-life-support]] (compost depth and mass affect temperature distribution), more challenging cleaning between crops, and less flexibility in crop scheduling. With shelf systems, the entire room must typically be emptied, cleaned, and refilled as a unit, whereas trays can be rotated through rooms individually.
 
 ## Phase II on Trays vs. Shelves
 
-The [[mushroom-grow-room-design]] can be set up with simple shelving units holding standard-sized trays, allowing the cultivator to practice crop rotation and experiment with different [[mushroom-substrate-comparison]] strategies on a manageable scale.
+The [[mushroom-grow-room-design]] can be set up with simple shelving units holding standard-sized trays, allowing the cultivator to practice [[comparison-crop-rotation-vs-cover-cropping]] and experiment with different [[mushroom-substrate-comparison]] strategies on a manageable scale.
 
 ## Cleaning and Sanitation
 
@@ -44,7 +42,7 @@ Steam cleaning is effective for both systems and has the advantage of reaching i
 
 [[phase-ii-composting]] — compost conditioning procedures
 
-[[mushroom-composting]] — compost preparation for trays and shelves
+mushroom-composting — [[cultivator-compost-preparation-phase-methods]] for trays and shelves
 
 [[mushroom-market-and-economics]] — economics of tray vs. shelf systems
 
@@ -65,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +105,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

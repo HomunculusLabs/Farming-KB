@@ -1,5 +1,5 @@
 ---
-title: LSD Model Psychosis Research
+title: LSD lsd model psychosis research Research
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -15,7 +15,7 @@ The use of [LSD to produce temporary states resembling psychosis in healthy subj
 
 When Albert Hofmann first described the effects of LSD to his colleagues at Sandoz, the immediate question was whether this substance could serve as a tool for understanding psychotic disorders. The profound alterations of perception, thought, and emotion produced by LSD bore obvious similarities to symptoms observed in schizophrenia and other psychoses.
 
-This idea was not entirely new. The concept of using pharmacological agents to produce "model psychoses" had been explored since the late nineteenth century, with various substances proposed as candidates. But none had proven satisfactory until LSD, which produced the most convincing and comprehensive simulation of psychotic states yet observed.
+This idea was not entirely new. The concept of using pharmacological agents to produce "model psychoses" had been explored since the late [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], with various substances proposed as candidates. But none had proven satisfactory until LSD, which produced the most convincing and comprehensive simulation of psychotic states yet observed.
 
 ## W. A. Stoll's Pioneering Studies
 
@@ -29,7 +29,7 @@ A crucial innovation in LSD model psychosis research was the practice of psychia
 
 W. A. Stoll had strongly advocated this approach, arguing that only through firsthand experience could a psychiatrist truly understand the strange world of LSD inebriation and properly interpret and treat these phenomena in patients.
 
-This self-experiment method distinguished LSD research from most other areas of pharmacology and created a unique body of knowledge about the subjective experience of altered states.
+This self-experiment method distinguished LSD research from most other areas of pharmacology and created a unique body of knowledge about the subjective experience of [[weil-the-natural-mind-altered-states-normalcy]].
 
 ## Similarities to Psychosis
 

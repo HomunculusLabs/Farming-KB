@@ -1,10 +1,12 @@
 ---
-title: Psychedelic Mushroom Dosage Guide
+title: archaeology-of-psychedelic-mushroom-use Dosage Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycology, fungi, psychopharmacology, psychedelics, entheogen, safety, potency, preparation]
-sources: []
+sources:
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # Psychedelic Mushroom Dosage Guide
@@ -50,7 +52,7 @@ Fresh mushrooms are often considered slightly different in character — some us
 
 ### Moderate Dose: 1.5 - 3.0g
 
-- Classic psychedelic experience
+- Classic [[leary-psychedelic-experience-bardo-mapping]]
 - Significant visual and cognitive effects
 - Suitable for experienced users seeking full psychedelic effects
 - Not recommended for first-time users without experienced guidance
@@ -84,8 +86,8 @@ Potency varies dramatically between species. The following conversion factors ad
 | Psilocybe azurescens | 0.25-0.40x | Extremely potent; 1g cubensis ≈ 0.3g azurescens |
 | Psilocybe cyanescens | 0.40-0.60x | Very potent; 2g cubensis ≈ 1g cyanescens |
 | Psilocybe bohemica/serbica | 0.50-0.70x | Potent European species |
-| Psilocybe semilanceata | 0.50-0.70x | Small but potent; potency varies by region and season |
-| Panaeolus cyanescens | 0.40-0.60x | "Blue meanies"; dung-inhabiting tropical species |
+| [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] | 0.50-0.70x | Small but potent; potency varies by region and season |
+| [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]] | 0.40-0.60x | "Blue meanies"; dung-inhabiting tropical species |
 
 ### Moderate-Potency Species
 
@@ -101,8 +103,8 @@ Potency varies dramatically between species. The following conversion factors ad
 | Species | Potency Factor | Notes |
 |---------|---------------|-------|
 | Psilocybe mexicana | 2.0-3.0x | Requires 2-3x cubensis dose for equivalent effects |
-| Psilocybe tampanensis | 2.0-3.0x | Also cultivated as "philosopher's stones" (sclerotia) |
-| Amanita muscaria | Not comparable | Different active compounds (muscimol, ibotenic acid); see [[fungal-toxins-reference]] |
+| [[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]] | 2.0-3.0x | Also cultivated as "philosopher's stones" (sclerotia) |
+| [[allegro-amanita-muscaria-properties-and-pharmacology]] | Not comparable | Different active compounds (muscimol, ibotenic acid); see [[fungal-toxins-reference]] |
 
 ## Dosage by Body Weight
 
@@ -143,23 +145,6 @@ Mushrooms are steeped in hot (not boiling) water for 10-20 minutes, optionally w
 ### Capsules
 
 Dried, powdered mushrooms encapsulated for precise dosing. Effects are similar to whole consumption but with more predictable dosing and easier storage.
-
-## Tolerance
-
-Tolerance to psilocybin develops rapidly:
-
-- **Day 1**: Full sensitivity
-- **Day 2**: Requires approximately 2x the original dose for equivalent effects
-- **Day 4**: Requires approximately 3-4x the original dose
-- **Day 7-14**: Sensitivity substantially returns
-- **Day 14+**: Full sensitivity typically restored
-
-This cross-tolerance extends to LSD, DMT, mescaline, and other 5-HT2A agonists. For therapeutic use, sessions are typically spaced 2-4 weeks apart to allow full tolerance reset and integration.
-
-## Special Populations
-
-- **SSRI/SNRI users**: May require 2-3x normal dose due to receptor downregulation. Discontinuation of 2-4 weeks before psychedelic use is recommended when possible
-- **Older adults**: No specific dosage adjustments are established; start conservatively and monitor cardiovascular response
-- **Individuals with trauma histories**: Lower doses with professional therapeutic support are recommended; high-dose approaches carry risk of re-traumatization
-
-See [[psychedelic-mushroom-chemistry]] for the biochemical basis of potency variation and [[psychedelic-mushroom-pharmacology]] for pharmacokinetic details affecting dose-response.
+## See Also
+- [[psychedelic-mushroom-set-and-setting]]
+- [[fungal-toxins-reference]]

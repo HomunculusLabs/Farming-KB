@@ -1,5 +1,5 @@
 ---
-title: Fungal Nanoparticles for Environmental Remediation
+title: singh fungal nanoparticles remediation for Environmental Remediation
 created: 2026-04-28
 tags:
   - mycoremediation
@@ -63,27 +63,27 @@ UV-visible light. Fungal capping agents improve dispersion and reactivity.
 
 | Fungal Species | Nanoparticle Type | Key Application |
 |---|---|---|
-| *Fusarium oxysporum* | Ag, Au, CdS | Dye degradation, sensing |
+| *Fusarium oxysporum* | Ag, Au, CdS | [[azo-dye-degradation-biochemistry]], sensing |
 | *Aspergillus niger* | Ag, TiO2, ZnO | Water treatment |
 | *Trichoderma harzianum* | Ag, CuO | Antimicrobial coatings |
 | *Pleurotus ostreatus* | Ag, Fe3O4 | Heavy metal removal |
-| *Ganoderma lucidum* | Ag, Au | Catalytic applications |
+| *[[stamets-reishi-ganoderma-lucidum-cultivation]]* | Ag, Au | Catalytic applications |
 | *Penicillium chrysogenum* | Ag, ZnO | Pollutant degradation |
-| *Phanerochaete chrysosporium* | Ag, Fe3O4 | Combined remediation |
+| *[[staycare-phanerochaete-chrysosporium-in-bioremediation]]* | Ag, Fe3O4 | Combined remediation |
 
 ## Applications in Contaminant Removal
 
 ### Catalytic Degradation of Organic Pollutants
 
 Metal nanoparticles serve as efficient catalysts for degrading
-recalcitrant organic compounds. Silver and gold nanoparticles catalyze
+recalcitrant [[fungal-volatile-organic-compounds-communication]]. Silver and gold nanoparticles catalyze
 the reduction of nitroaromatics, azo dyes, and halogenated organics. The
 high surface-area-to-volume ratio provides abundant active sites for
 catalytic reactions.
 
 ### Enhanced Biosorption
 
-Fungal biomass impregnated with nanoparticles shows dramatically improved
+[[bioremediation-fungal-biomass-biosorbent-material]] impregnated with nanoparticles shows dramatically improved
 [[singh-constructed-wetlands-fungal-wastewater-treatment]] and
 [[singh-ligninolytic-enzymes-fungal-bioremediation]] for multifunctional remediation;
 immobilized nanoparticle systems in [[singh-fungal-biosorbents-mycosorption-mechanisms]]

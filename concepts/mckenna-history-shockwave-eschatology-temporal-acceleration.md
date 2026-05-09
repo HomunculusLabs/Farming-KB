@@ -29,7 +29,7 @@ of the soul"—a process in which consciousness is liberated from the biological
 body and instantiated in a durable, translinguistic medium. "My vision of the
 final human future is an effort to exteriorize the soul and internalize the
 body, so that the exterior soul will exist as a superconducting lens of
-translinguistic matter generated out of the body of each of us at a critical
+[[mckenna-translinguistic-matter-and-exteriorized-soul]] generated out of the body of each of us at a critical
 juncture."
 
 From that point, McKenna envisioned the body image existing as a "holographic
@@ -48,7 +48,7 @@ a serious engineering approach to this, we are going to discover the plasticity,
 the mutability, the eternal nature of the mind and, I believe, release it from
 the monkey."
 
-This prediction positions psychedelic experience not as a recreational diversion
+This prediction positions [[leary-psychedelic-experience-bardo-mapping]] not as a recreational diversion
 or a countercultural affectation but as a preview of the fundamental mode of
 being toward which human evolution is trending. The tryptamine state is not an
 anomaly in human experience but a prototype of the consciousness of the future.
@@ -85,8 +85,10 @@ acceleration leads to the kind of consciousness singularity McKenna envisioned,
 the pattern itself is observable and significant.
 ## See Also
 
+- [[mckenna-history-as-eschatological-shockwave]]
+
 - [[mckenna-translinguistic-matter-and-exteriorized-soul]]
-- [[tryptamine-hallucinogens-and-consciousness]] iousness. Esalen.
-  Published 1992 in *The Archaic Revival*.
+-  iousness. Esalen.
+  Published 1992 in *The [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]*.
 - McKenna, T. & McKenna, D. (1975). *The Invisible Landscape*. Seabury Press.
 - McKenna, T. (1993). *Food of the Gods*. Bantam Books.

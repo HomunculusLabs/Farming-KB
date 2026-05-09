@@ -3,47 +3,11 @@ title: Willow Growing Guide
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[permaculture, design]
+tags: [permaculture, design]
 sources: [/Users/t3rpz/wiki/raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md]
 ---
+Updated: 2026-04-18 Willows (Salix spp.) are versatile, fast-growing trees with extensive root systems that make them excellent for [[permplant-willows-salix-erosion-control-fodder]]. The bark contains salicylic acid (the precursor to aspirin) and has medicinal uses. ## Uses - Streambank erosion control - Wetland tolerant - Bee forage - Wood and timber - Medicinal (bark and leaves contain salicylic acid) ## Growing Conditions - Moist soil preferred - Most climates supported - Grows easily from cuttings or even broken branches that fall on the ground - Hundreds of species — choose native varieties for your area ## Varieties The Salix genus contains over 400 species. Key species for permaculture include weeping willow (Salix babylonica) for ornamental and streambank use, white willow (Salix alba) for medicinal bark and basketry, black willow (Salix nigra) for North American erosion control, and pussy willow (Salix discolor) for early spring pollen and ornamental catkins. Basket willow varieties (Salix triandra, S. viminalis) produce long, flexible rods ideal for weaving. ## Propagation Willows are among the easiest trees to propagate. Hardwood cuttings 1-3 feet long planted directly in moist soil in early spring will root readily. Simply push cuttings 6-12 inches into the ground with at least 2 buds above soil level. No rooting hormone is needed — willow contains natural [[cervantes-rooting-hormones-cloning]] (salicylic acid) that promote root development. Willow water (made by soaking willow cuttings in water) is used as a natural rooting solution for other plant cuttings. ## [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] In  for riparian zone restoration. Their extensive root systems stabilize streambanks and filter runoff water. In [[permaculture-beekeeping]] support species. They serve as [[permaculture-farm-design-principles]], willows demonstrate the principle of using fast-growing pioneer species to repair degraded landscapes. Their rapid establishment, soil-binding roots, and [[dighton-fungal-biomass-production-aquatic-ecosystems]] make them ideal for riparian buffer zones and streambank restoration. In [[permaculture-wildlife-corridors]] multi-function elements — producing forage, fuel, crafts, and medicine while performing critical ecological services.
 
-Updated: 2026-04-18
-
-Willows (Salix spp.) are versatile, fast-growing trees with extensive root systems that make them excellent for erosion control. The bark contains salicylic acid (the precursor to aspirin) and has medicinal uses.
-
-## Uses
-
-- Streambank erosion control
-
-- Wetland tolerant
-
-- Bee forage
-
-- Wood and timber
-
-- Medicinal (bark and leaves contain salicylic acid)
-
-## Growing Conditions
-
-- Moist soil preferred
-
-- Most climates supported
-
-- Grows easily from cuttings or even broken branches that fall on the ground
-
-- Hundreds of species — choose native varieties for your area
-
-## Varieties
-
-The Salix genus contains over 400 species. Key species for permaculture include weeping willow (Salix babylonica) for ornamental and streambank use, white willow (Salix alba) for medicinal bark and basketry, black willow (Salix nigra) for North American erosion control, and pussy willow (Salix discolor) for early spring pollen and ornamental catkins. Basket willow varieties (Salix triandra, S. viminalis) produce long, flexible rods ideal for weaving.
-
-## Propagation
-
-Willows are among the easiest trees to propagate. Hardwood cuttings 1-3 feet long planted directly in moist soil in early spring will root readily. Simply push cuttings 6-12 inches into the ground with at least 2 buds above soil level. No rooting hormone is needed — willow contains natural rooting hormones (salicylic acid) that promote root development. Willow water (made by soaking willow cuttings in water) is used as a natural rooting solution for other plant cuttings.
-
-## Companion Planting
-
-In [[permaculture-pioneer-species]] for riparian zone restoration. Their extensive root systems stabilize streambanks and filter runoff water. In [[permaculture-beekeeping]] support species. They serve as [[permaculture-farm-design-principles]], willows demonstrate the principle of using fast-growing pioneer species to repair degraded landscapes. Their rapid establishment, soil-binding roots, and biomass production make them ideal for riparian buffer zones and streambank restoration. In [[permaculture-wildlife-corridors]] multi-function elements — producing forage, fuel, crafts, and medicine while performing critical ecological services.
 ## See Also
 
 - [[permaculture-multipurpose-trees]]
@@ -68,14 +32,14 @@ maintaining shaded grazing beneath the elevated canopy.
 
 ## Willow in Wastewater and Greywater Systems
 
-Willows are increasingly used in constructed wetlands and greywater treatment
+Willows are increasingly used in [[comparison-constructed-wetlands-vs-bioswales]] and [[mollison-designers-greywater-treatment-reedbeds]]
 systems because of their enormous water uptake and nutrient absorption capacity.
 A single mature willow can transpire hundreds of litres of water per day during
 the growing season. This makes willow-planted treatment zones effective at
 reducing wastewater volumes while filtering nutrients, pathogens, and some
 organic contaminants.
 
-In [[graywater-systems]], willow-fed infiltration zones can process household
+In , willow-fed infiltration zones can process household
 greywater from showers, sinks, and laundry. The willows absorb the water and
 nutrients, preventing groundwater contamination and producing biomass as a
 byproduct. This integration of waste treatment with productive tree cropping

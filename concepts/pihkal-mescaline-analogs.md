@@ -27,7 +27,7 @@ systematically explored hundreds of analogs documented in PIHKAL.
 
 **Dosage:** 200-400 mg (oral)
 **Duration:** 10-12 hours
-**Shulgin Rating:** +++
+**[[tihkal-shulgin-rating-scale]]:** +++
 
 Mescaline served as Shulgin's benchmark. He described it as producing
 a richly visual, contemplative experience with a character distinct

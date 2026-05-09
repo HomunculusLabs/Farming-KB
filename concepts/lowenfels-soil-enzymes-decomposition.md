@@ -8,10 +8,10 @@ sources: ["raw/papers/lowenfels-teaming-with-microbes.md"]
 type: concept
 ---
 
-Enzymes are the molecular tools that soil microorganisms use to break down
-organic matter, and they play a central role in the decomposition processes
+Enzymes are the molecular tools that soil microorganisms use to [[query-can-fungi-break-down-plastic-pollution]]
+[[hamilton-composting-and-organic-matter-management]], and they play a central role in the decomposition processes
 described throughout *Teaming With Microbes*. Both [[lowenfels-fungi-role-soil]] produce enzymes to
-dismantle complex organic compounds into simpler molecules they can absorb.
+dismantle complex [[fungal-volatile-organic-compounds-communication]] into simpler molecules they can absorb.
 Understanding these enzymes is key to understanding how the
 [[lowenfels-humus-formation-benefits]].
 
@@ -43,7 +43,7 @@ decaying ability.
 ## The Apical Growth Advantage
 
 Fungi release their powerful enzymes through apical growth, meaning growth at
-the hyphal tip. As new cells are pushed into the tip and along sidewalls,
+the [[gadd-hyphal-tip-growth-and-branching-mechanisms]]. As new cells are pushed into the tip and along sidewalls,
 elongating the hyphal tube, vesicles loaded with construction supplies are
 transported to the advancing tip. Enzymes capable of dissolving all but the most
 recalcitrant carbon compounds are released as new cells form. These enzymes
@@ -57,7 +57,7 @@ ground than bacteria.
 Microbes need nitrogen to produce the enzymes used in decomposition and to build
 proteins, including amino acids necessary for their structure.  This is why
 nitrogen is critical in [[lowenfels-composting-science-microbiology]] takes advantage of this
-principle: as microbial metabolic activity generates heat, enzyme activity
+principle: as microbial [[arbuscule-isolation-metabolic-activity-assays]] generates heat, enzyme activity
 accelerates, creating a positive feedback loop that drives the thermophilic
 stage. However, extremely high temperatures can denature enzymes, which is why
 compost piles above 155 degrees Fahrenheit suffer reduced decomposition
@@ -95,5 +95,5 @@ by bacteria and fungi to break down complex organic compounds.  Bacteria excel
 at decomposing cellulose and simpler compounds, while fungi dominate the
 breakdown of lignin and other recalcitrant materials.  Actinomycetes bridge both
 worlds with their filamentous growth and broad enzymatic capabilities. Nitrogen
-availability directly controls enzyme production, linking the carbon and
+availability directly controls [[ligninolytic-enzyme-production-bioremediation]], linking the carbon and
 nitrogen cycles through the decomposition process.

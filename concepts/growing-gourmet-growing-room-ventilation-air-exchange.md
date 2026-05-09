@@ -1,5 +1,5 @@
 ---
-title: "Growing Room Ventilation and Air Exchange Systems"
+title: "duggar-mushroom-growing-room-design Ventilation and Air Exchange Systems"
 created: 2026-04-26
 tags:
   - mushroom-cultivation
@@ -66,12 +66,12 @@ from the spray of water.
 ## Importance of Air Movement
 
 High air exchange rates may adversely affect humidity,
-especially prior to and at primordia formation when aerial
+especially prior to and at [[growing-gourmet-primordia-formation-pinning]] when aerial
 mycelium abounds. Should aerial mycelium die back, or
 "pan," potential yields are substantially depressed.
 
 On the other hand, to prevent malformation of the
-fruitbody, bacterial blotch, and mold infestation, the
+fruitbody, [[growing-gourmet-bacterial-blotch-disease-management]], and mold infestation, the
 movement of air -- turbulence -- is a substantial factor
 in preventing disease vectors. The need for adequate air
 exchange is a direct reflection of the species being grown,
@@ -82,7 +82,7 @@ its rate of metabolism, and the density of fill.
 The positioning of the growing room exhaust fans should be
 oriented so as not to direct a "spore stream of
 contaminants" into the laboratory filtration system. The
-design of a mushroom farm's buildings should take into
+design of a [[query-how-do-i-start-a-small-scale-mushroom-farm-for-profit]]'s buildings should take into
 account prevailing wind direction, sunlight exposure,
 shade, and the overall flow patterns of raw materials and
 finished goods.

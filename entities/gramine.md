@@ -10,11 +10,11 @@ sources: [/Users/t3rpz/wiki/raw/papers/concise-large-scale-synthesis-of-psilocin
 
 # Gramine
 
-Gramine, also known as donaxine or 3-(dimethylaminomethyl)indole, is a naturally occurring indole alkaloid found in several plant species. It is of interest in the chemistry of [[psilocybin]] derivatives as a structural analog and potential chemical intermediate. Gramine contains an indole ring with a dimethylaminomethyl substituent at the 3-position, making it a close structural relative of [[dimethyltryptamine]].
+Gramine, also known as donaxine or 3-(dimethylaminomethyl)indole, is a naturally occurring [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] found in several plant species. It is of interest in the chemistry of [[psilocybin]] derivatives as a structural analog and potential chemical intermediate. Gramine contains an indole ring with a dimethylaminomethyl substituent at the 3-position, making it a close structural relative of [[dimethyltryptamine]].
 
 ## Chemical Structure and Properties
 
-Gramine has the molecular formula C₁₁H₁₄N₂ and a molecular weight of 174.24 g/mol. The IUPAC name is 3-(dimethylaminomethyl)-1H-indole. The structure consists of an [[dimethyltryptamine]] in the nature of the 3-position substituent: gramine bears a dimethylaminomethyl group, while DMT bears a 2-(dimethylamino)ethyl chain. This one-carbon difference is significant for receptor binding and biological activity.
+Gramine has the molecular formula C₁₁H₁₄N₂ and a molecular weight of 174.24 g/mol. The IUPAC name is 3-(dimethylaminomethyl)-1H-indole. The structure consists of an [[dimethyltryptamine]] in the nature of the 3-position substituent: gramine bears a dimethylaminomethyl group, while DMT bears a 2-(dimethylamino)ethyl chain. This one-carbon difference is significant for [[tihkal-receptor-binding-serotonin]] and biological activity.
 
 ## Natural Occurrence
 
@@ -37,7 +37,7 @@ Gramine exhibits notable pharmacological and toxicological properties:
 - **Side chain extension**: The Mannich reaction product gramine can be used as a starting point for building more complex indole alkaloids by modifying or extending the dimethylaminomethyl group.
 - **[[psilocybin]] biosynthesis, the chemistry of gramine and related Mannich bases is relevant to the synthetic construction of the tryptamine side chain in laboratory routes to [[psilocybin]].
 
-The structural relationship between gramine and the tryptamine class of compounds makes it a useful reference compound in studies of structure-activity relationships among indole alkaloids.
+The [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] between gramine and the tryptamine class of compounds makes it a useful reference compound in studies of structure-activity relationships among indole alkaloids.
 
 ## Agricultural Significance
 
@@ -55,7 +55,7 @@ Gramine participates in a variety of chemical transformations that make it a ver
 - **One-carbon homolog**: Gramine is a one-carbon homolog of [[tryptamine]] derivatives through cyanide displacement or other side-chain modifications makes it a practical starting material for the synthesis of tryptamine alkaloids.
 - **Metabolic relevance**: The structural similarity between gramine and [[serotonin]] transporter, though with generally lower affinity.
 
-The study of gramine metabolism in both plants and animals provides insights into the broader field of indole alkaloid biochemistry. Understanding how organisms process and detoxify gramine can inform approaches to managing gramine-containing forage and to predicting potential drug interactions between gramine-derived products and pharmaceutical agents.
+The study of gramine metabolism in both plants and animals provides insights into the broader field of indole alkaloid biochemistry. Understanding how organisms process and detoxify gramine can inform approaches to managing gramine-containing forage and to predicting potential [[cannabis-drug-interactions-and-contraindications]] between gramine-derived products and pharmaceutical agents.
 
 ## Toxicology in Detail
 
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

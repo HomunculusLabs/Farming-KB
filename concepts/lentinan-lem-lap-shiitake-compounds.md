@@ -1,16 +1,16 @@
 ---
-title: Lentinan LEM and LAP Shiitake Compounds
+title: Lentinan LEM and lentinan lem lap shiitake compounds Compounds
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - Cancer Treatments and Medicinal Mushrooms
+  - Cancer Treatments and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive
 type: concept
 tags: [shiitake]
 ---
 
 # Lentinan, LEM, and LAP Shiitake Compounds
 
-Lentinus Edodes (Lentinula edodes) is the source of three distinct
+Lentinus Edodes ([[staycare-lentinula-edodes-in-bioremediation]]) is the source of three distinct
 preparations with well-studied pharmacological effects: Lentinan, LEM
 (Lentinus edodes mycelium extract), and LAP. These differ substantially in
 chemical composition, regulatory status, and clinical applications.
@@ -32,12 +32,12 @@ complement C3 production; and promotes delayed-type hypersensitivity.
 ### Clinical Outcomes
 
 In a randomised controlled study, Lentinan plus tegafur significantly
-prolonged median survival for inoperable/recurrent gastric cancer (173 vs
+prolonged median survival for inoperable/recurrent [[lentinan-gastric-cancer-combination-therapy]] (173 vs
 92 days). 50% survival improved across all prognostic subgroups. See
 [[lentinan-clinical-research]]
 - [[lentinan-pre-clinical-antitumour-models]]
 - [[medicinal-mushroom-immune-modulation]]
-- [[mushroom-polysaccharide-safety-toxicity]]
+- mushroom-polysaccharide-safety-toxicity
 - [[mushroom-immune-cell-activation-mechanisms]]
 ## Practical Considerations
 
@@ -55,7 +55,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -97,4 +97,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

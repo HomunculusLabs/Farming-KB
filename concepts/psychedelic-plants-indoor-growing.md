@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Plants Indoor Growing
+title: Psychedelic Plants comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Many entheogenic plants can be grown indoors with appropriate setup and care. Indoor cultivation offers advantages including year-round growing, controlled conditions, privacy, and the ability to maintain tropical species outside their native range. This guide covers the indoor cultivation of four key entheogenic plants: San Pedro cactus, Salvia divinorum, Psychotria viridis, and Banisteriopsis caapi.
+Many entheogenic plants can be grown indoors with appropriate setup and care. [[cannabis-sativa-indoor-cultivation-techniques]] offers advantages including year-round growing, controlled conditions, privacy, and the ability to maintain tropical species outside their native range. This guide covers the indoor cultivation of four key entheogenic plants: San Pedro cactus, [[golden-guide-salvia-divinorum-and-diviner-sage]], Psychotria viridis, and Banisteriopsis caapi.
 
 Note: Growing these plants is legal in most jurisdictions when done for ornamental or botanical purposes. Consuming them for psychoactive content may be illegal. See [[psychedelic-plants-legal-status]] for jurisdiction-specific information.
 
@@ -43,7 +43,7 @@ Note: Growing these plants is legal in most jurisdictions when done for ornament
 7. Growth rate from seed is slow: 1–2 inches per year for the first few years
 
 ### Care
-- Fertilize monthly during the growing season (spring–fall) with low-nitrogen cactus fertilizer (1-7-6 or similar)
+- Fertilize monthly during the [[savory-growing-season-and-non-growing-season-management]] (spring–fall) with low-nitrogen cactus fertilizer (1-7-6 or similar)
 - Reduce or stop watering and fertilizing in winter (dormancy period)
 - Watch for pests: mealybugs, scale, spider mites — treat with neem oil or insecticidal soap
 - Rotate pots quarterly for even growth
@@ -78,7 +78,7 @@ Salvia rarely produces viable seeds. Propagation is by stem cuttings:
 ### Care
 - Maintain high humidity: use a humidifier, humidity dome, or pebble tray
 - Mist daily if ambient humidity is below 60%
-- Fertilize lightly every 2–4 weeks during the growing season with balanced liquid fertilizer at half strength
+- Fertilize lightly every 2–4 weeks during the growing season with balanced [[jadam-liquid-fertilizer-nutritional-perspective]] at half strength
 - Pinch growing tips to encourage bushier growth
 - Support tall stems with stakes — Salvia can become leggy indoors
 - Watch for pests: aphids, whiteflies, spider mites — neem oil treatment
@@ -87,7 +87,7 @@ Salvia rarely produces viable seeds. Propagation is by stem cuttings:
 - Salvia is sensitive to environmental changes — moving the plant can cause leaf drop
 - It does not tolerate drought — do not let soil dry out completely
 - It is not cold-hardy — temperatures below 40°F will damage or kill the plant
-- A greenhouse or dedicated humid growing space produces the best results
+- A greenhouse or dedicated humid [[cotter-growing-space-design-fruiting-rooms]] produces the best results
 
 ## Psychotria viridis (Chacruna)
 
@@ -143,42 +143,6 @@ From cuttings:
 1. Take woody stem cuttings 8–12 inches long with at least 2 nodes
 2. Dip in rooting hormone
 3. Place in moist propagation medium under high humidity and bottom heat
-4. Roots in 4–12 weeks
-5. Success rate is moderate — this is not the easiest plant to propagate
-
-### Care
-- Provide a sturdy trellis or support structure — the vine will climb aggressively
-- Maintain high humidity consistently
-- Keep warm year-round — even brief cold exposure can be fatal
-- Water when the top inch of soil is dry — do not let soil become waterlogged
-- Fertilize monthly during the growing season with balanced tropical plant fertilizer
-- Prune to manage size — B. caapi can grow 30+ feet in tropical conditions
-- Harvest can be done by pruning sections of mature vine (1+ inch diameter)
-
-### Growth Rate
-- Slow indoors: 1–3 feet per year under good conditions
-- Vine diameter of 1+ inch typically requires 3–5 years of growth
-- A mature, harvestable plant requires significant space and commitment
-
-## General Indoor Entheogen Growing Tips
-
-### Environment Control
-- Use a grow tent or dedicated grow space for consistent conditions
-- A thermometer/hygrometer is essential — monitor conditions daily
-- Automated timers for lights
-- Humidifiers and fans for air circulation
-
-### Pest Management
-- Quarantine new plants for 2 weeks before adding to your grow space
-- Inspect regularly for pests — early detection is key
-- Neem oil, insecticidal soap, and biological controls (ladybugs, predatory mites) are effective organic options
-- Avoid systemic pesticides on plants that may eventually be consumed
-
-### Legal Awareness
-- Growing these plants is generally legal as ornamentals in most jurisdictions
-- However, cultivating with the intent to consume for psychoactive effects may be illegal
-- Be discreet and informed about your local laws — see [[psychedelic-plants-legal-status]]
-
 ## Related Topics
 
 - [[entheogen-vendors-and-sources]] — where to obtain plants, seeds, and cuttings

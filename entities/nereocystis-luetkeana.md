@@ -14,7 +14,7 @@ sources:
   - Abbott, I.A. & Hollenberg, G.J. (1976). "Marine Algae of California." Stanford University Press.
   - Druehl, L.D. (1970). "The pattern of Nereocystis luetkeana." Journal of Phycology, 6, 87-93.
   - Foreman, R.E. (1970). "Physiology, ecology, and development of the brown alga Nereocystis luetkeana." PhD thesis, University of California, Berkeley.
-  - Klinger, T. (2015). "Bull kelp and climate change." Proceedings of the California Academy of Sciences, 42, 1-12.
+  - Klinger, T. (2015). "Bull kelp and [[dighton-fungi-climate-change-feedback]]." Proceedings of the California Academy of Sciences, 42, 1-12.
   - Spring, A. et al. (2022). "Recovery of Nereocystis luetkeana." Ecology, 103, e3641.
 ---
 
@@ -58,7 +58,7 @@ The species accumulates potassium, iodine, and various trace minerals at concent
 
 ## Ecology
 
-N. luetkeana forests are among the most productive marine ecosystems, with primary production rates exceeding 1 kg C/m²/year. The floating canopy provides shade and shelter for numerous fish species, including juvenile rockfish and salmon.
+N. luetkeana forests are among the most productive [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]], with [[lichens-primary-production-soil-formation-dighton]] rates exceeding 1 kg C/m²/year. The floating canopy provides shade and shelter for numerous fish species, including juvenile rockfish and salmon.
 
 The holdfasts support diverse invertebrate communities of over 100 species, including crabs, shrimp, polychaetes, and brittle stars. Detached kelp wrack accumulates on beaches, subsidizing intertidal food webs.
 
@@ -66,11 +66,11 @@ Sea urchins are the primary herbivores of N. luetkeana. When urchin populations 
 
 ## Cultivation
 
-Cultivation research on N. luetkeana has focused primarily on habitat restoration rather than commercial production. Spore collection and gametophyte culture techniques are well-established for hatchery-scale propagation.
+Cultivation research on N. luetkeana has focused primarily on habitat restoration rather than commercial production. Spore collection and gametophyte [[agar-culture-techniques-detailed]] are well-established for hatchery-scale propagation.
 
 Outplanting of cultured juvenile sporophytes onto artificial substrates and natural reef surfaces has been successful in Washington and British Columbia. Survival rates of 30–60% have been reported for seeded rope deployments.
 
-Commercial cultivation for food and alginate has been explored but is not practiced at scale. The species' annual life cycle requires annual reseeding, increasing operational costs compared to perennial kelps.
+Commercial cultivation for food and alginate has been explored but is not practiced at scale. The species' annual [[bloomfield-fungal-life-cycle-spiral-versus-circle]] requires annual reseeding, increasing operational costs compared to perennial kelps.
 
 ## Harvesting and Uses
 
@@ -94,7 +94,7 @@ Nereocystis is monotypic, but the species is closely related to other Laminariac
 
 Macrocystis pyrifera overlaps in range in central and southern California but is perennial and forms more complex, multi-layered canopy structures. The two species rarely co-occur at high density, with N. luetkeana dominating in colder, more northerly waters.
 
-Lessonia nigrescens from Chile fills a broadly similar ecological niche in the Southern Hemisphere as a wave-exposed intertidal kelp, though the genera are not closely related.
+Lessonia nigrescens from Chile fills a broadly similar ecological niche in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] as a wave-exposed intertidal kelp, though the genera are not closely related.
 
 ## Life History
 

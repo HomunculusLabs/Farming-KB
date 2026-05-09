@@ -37,7 +37,7 @@ species, tolerating considerable cold for a subtropical plant.
 
 ### Environmental Requirements
 - **Soil:** Prefers deep, rich, organic soil kept moist through summer
-- **Water:** Drought tolerant but fruit production drops significantly under
+- **Water:** [[permplant-carob-drought-tolerant-food-tree]] but fruit production drops significantly under
   drought stress
 - **Temperature:** Prefers cool seasons; better flavoured fruit in cooler
   regions; tolerates temperatures down to -11C
@@ -66,7 +66,7 @@ species, tolerating considerable cold for a subtropical plant.
 - **Digestion time:** 3 hours
 
 ### Uses and Functions
-- **Fruit production:** Primary use; high-value specialty fruit crop
+- **Fruit production:** Primary use; high-value uncommon specialty fruit crops for permaculture crop
 - **Windbreak:** Makes an excellent windbreak species in orchard and garden
   systems
 - **Ornamental:** Attractive evergreen foliage with showy flowers
@@ -81,7 +81,7 @@ species, tolerating considerable cold for a subtropical plant.
 Feijoa is an excellent multi-function plant for temperate and subtropical
 permaculture designs. Its combination of frost tolerance, evergreen habit,
 windbreak utility, and high-quality fruit production makes it valuable for food
-forest understories, edible landscaping, and mixed orchard systems. The high
+forest understories, edible landscaping, and [[mollison-designers-mixed-orchard-design-species-selection]] systems. The high
 iodine content of the fruit is an unusual nutritional benefit.
 
 ## See Also
@@ -89,7 +89,7 @@ iodine content of the fruit is an unusual nutritional benefit.
 - Loquat
 - Strawberry Guava
 - Windbreak Plants
-- Subtropical Fruit Trees
+- Subtropical [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
 
 ## See Also
 - [[permaculture-plants-fruit-trees-temperate]]

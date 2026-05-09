@@ -4,14 +4,15 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [soil, agriculture]
-sources: []
+sources:
+  sources: []
 ---
 
 Updated: 2026-04-18
 
 ## Overview
 
-Soil disturbance is one of the most significant threats to mycorrhizal fungal populations in agricultural and horticultural settings. Activities such as tilling, plowing, grazing, and construction physically destroy the delicate mycelial networks that connect plants to their fungal partners, reducing crop nutrient uptake and requiring long recovery periods.
+Soil disturbance is one of the most significant threats to [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] populations in agricultural and horticultural settings. Activities such as tilling, plowing, grazing, and construction physically destroy the delicate [[fungal-mycelial-networks-nutrient-translocation]] that connect plants to their fungal partners, reducing crop [[plant-nutrient-uptake-mechanisms]] and requiring long recovery periods.
 
 Source: [[glomalin-and-soil-carbon]]
 - Fall tilling is particularly destructive — damaged hyphae won't be available for cover crops or spring planting
@@ -25,7 +26,7 @@ Plowing shares many of tilling's destructive effects but can be more severe due 
 
 ### Stock Grazing
 
-Livestock grazing impacts mycorrhizal communities through:
+[[savory-livestock-grazing-planning]] impacts mycorrhizal communities through:
 - Physical trampling of soil surface
 - Root damage from grazing
 - Soil compaction from hooves
@@ -47,7 +48,7 @@ Construction activities destroy mycorrhizal communities through:
 
 If fungal hyphae are damaged or destroyed:
 - They will not be available to partner with subsequent plantings
-- Reestablishing arbuscular mycorrhizal fungi through natural recovery can take **up to two months**
+- Reestablishing [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi through natural recovery can take **up to two months**
 - This recovery period is particularly problematic in regions with short growing seasons
 - During the recovery gap, crops receive reduced nutrient and water uptake
 
@@ -84,12 +85,18 @@ Maintaining living roots in the soil through cover crops:
 - Provides continuous carbon supply to mycorrhizal fungi
 - Prevents complete collapse of the mycelial network
 - Some cover crops (legumes, grasses) are strongly mycorrhizal
-- See crop rotation planning
+- See [[comparison-crop-rotation-vs-cover-cropping]] planning
 
 ### Inoculation After Disturbance
 
 After soil disturbance, inoculation can help rebuild mycorrhizal populations:
 - Apply inoculum at planting time
-- Use [[mycorrhizal-fungi-basics-lowenfels]]
-- [[mycorrhizal-inoculation-methods-agriculture]]
+- Use mycorrhizal-fungi-basics-lowenfels
+- mycorrhizal-inoculation-methods-agriculture
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
+## See Also
+- [[mycelial-networks]]
+- [[fungal-hyphae]]
+- [[mycorrhizal-fungi]]
+- [[arbuscular-mycorrhizal-fungi]]
+- [[glomalin-mycorrhizal-soil-aggregate-stabilizer-ingham]]

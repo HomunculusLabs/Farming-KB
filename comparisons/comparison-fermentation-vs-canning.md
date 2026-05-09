@@ -14,7 +14,7 @@ type: comparison
 Fermentation and canning are two of the most widely used food
 preservation methods, each employing fundamentally different mechanisms
 to prevent spoilage. Lacto-fermentation preserves food through the
-production of lactic acid by beneficial bacteria, creating an acidic
+production of [[bionutrients-lab-lactic-acid-bacteria-serum]] by beneficial bacteria, creating an acidic
 environment that inhibits pathogens while generating probiotics and
 enhanced nutritional value. Canning preserves food through the
 application of heat in sealed containers, destroying microorganisms
@@ -28,12 +28,12 @@ needs, and the skill level required for reliable results.
 Canning is a heat-based preservation method that destroys
 microorganisms and inactivates enzymes by processing filled jars at
 specific temperatures for defined periods. Two primary methods exist:
-water bath canning for high-acid foods (pH below 4.6) at 212 degrees
-Fahrenheit, and pressure canning for low-acid foods at 240 to 250
+water [[water-bath-canning-guide]] for high-acid foods (pH below 4.6) at 212 degrees
+Fahrenheit, and [[comparison-pressure-canning-vs-water-bath-canning]] for low-acid foods at 240 to 250
 degrees Fahrenheit. The combination of heat and an airtight seal creates
 a sterile environment inside the jar that prevents spoilage for
 extended periods, typically one to five years depending on the food
-and storage conditions.
+and [[vegetable-storage-conditions-by-temperature-and-humidity]].
 
 The critical safety concern in canning is Clostridium botulinum, a
 soil-borne bacterium that produces a lethal neurotoxin in anaerobic,

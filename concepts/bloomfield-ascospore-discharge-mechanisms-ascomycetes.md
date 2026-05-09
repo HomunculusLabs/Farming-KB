@@ -1,37 +1,13 @@
 ---
-title: "Ascospore Discharge Mechanisms in Ascomycetes"
+title: "bloomfield ascospore discharge mechanisms ascomycetes Mechanisms in Ascomycetes"
 created: 2026-04-28
-tags: [[mycology, ascomycetes, ascospore-discharge, fungal-reproduction, spore-biology]
+tags: [mycology, ascomycetes, ascospore-discharge, fungal-reproduction, spore-biology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
 type: concept
 ---
-
-The ascomycetes represent the largest grouping of fungi, encompassing
-more than 32,000 species that occupy every ecosystem on the planet. They
-are defined by the production of a unique kind of spore called the
-ascospore, which is formed inside a fluid-filled purse called the ascus.
-The mechanisms by which ascomycetes discharge their spores represent
-some of the most remarkable feats of biological engineering in the
-fungal kingdom.
-
-## The Ascus: A Biological Cannon
-
-As cytoplasm within the ascus is reorganized, embryonic spores are
-delineated by a pair of encircling membranes, and a clear juice appears
-between the spores and the wall of the ascus. Water diffuses into the
-ascus by osmosis, and the structure becomes pressurized like a hypha.
-When the tip of the ascus opens, often in an explosive fashion, the
-spores are shot into the air. This discharge mechanism is best described
-as a cannon and bears no relationship to the surface tension catapult
-utilized by basidiomycetes. The necessary force is provided by a
-pressure of about 2.5 atmospheres inside the ascus, which is relieved
-when a lid at the tip flaps open at the moment of discharge.
-
-## Cordyceps: The Insect-Pathogen Cannon
-
-The ascocarp of [[slime-molds]],
+The ascomycetes represent the largest grouping of fungi, encompassing more than 32,000 species that occupy every ecosystem on the planet. They are defined by the production of a unique kind of spore called the ascospore, which is formed inside a fluid-filled purse called the ascus. The mechanisms by which ascomycetes discharge their spores represent some of the most remarkable feats of biological engineering in the fungal kingdom. ## The Ascus: A Biological Cannon As cytoplasm within the ascus is reorganized, embryonic spores are delineated by a pair of encircling membranes, and a clear juice appears between the spores and the wall of the ascus. Water diffuses into the ascus by osmosis, and the structure becomes pressurized like a hypha. When the tip of the ascus opens, often in an explosive fashion, the spores are shot into the air. This discharge mechanism is best described as a cannon and bears no relationship to the [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] catapult utilized by basidiomycetes. The necessary force is provided by a pressure of about 2.5 atmospheres inside the ascus, which is relieved when a lid at the tip flaps open at the moment of discharge. ## Cordyceps: The Insect-Pathogen Cannon The ascocarp of [[slime-molds]],
 produces upright, tapered asci that fill with ascospores. Each spore is
 wrapped in a thick, mucilaginous coat. When the tip of the ascus
 ruptures, the heavily lubricated spores slide out and form a loose
@@ -50,9 +26,9 @@ single, larger mass, Ascobolus maximizes range because the motion of
 separated spores would be severely limited by air resistance.
 
 Each ascus orients itself toward the sunlight as it extends above the
-glistening surface of the fruiting body. This phototropic behavior
+glistening surface of the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]. This phototropic behavior
 maximizes the chance that discharged spores will be projected as far as
-possible from their launch pads. Like bird's nest fungi, Ascobolus
+possible from their launch pads. Like bird's [[bloomfield-birds-nest-fungi-peridiole-splash-herbivore-dispersal]], Ascobolus
 spores are eaten by animals that graze close, but not too close, to
 their own dung. Ascobolus immersus possesses the largest ascus of any
 fungus: a tenth of one millimeter in width and a millimeter in length,
@@ -63,7 +39,7 @@ diameter.
 
 Ascospores are remarkably resilient. Research by Nick Read at the
 University of Edinburgh demonstrated that ascospores can survive the
-brutal environment within an electron microscope and germinate after
+brutal environment within an [[bloomfield-ascospore-extreme-resilience-electron-microscope-survival]] and germinate after
 removal. The spores were subjected to temperatures as low as negative
 180 degrees Celsius, dried in a vacuum, and bombarded with electrons.
 Only one treatment killed every ascospore: dehydration in alcohol. In

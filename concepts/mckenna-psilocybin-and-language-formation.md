@@ -1,5 +1,5 @@
 ---
-title: McKenna on Psilocybin and Language Formation
+title: McKenna on mckenna psilocybin and language formation Formation
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -14,7 +14,7 @@ A core argument in [Food of the Gods is
 that psilocybin acted as the primary catalyst for the emergence of human
 language. [[psychedelic-mushroom-set-and-setting]] contends that the uniquely human capacity for
 language did not arise from purely internal evolutionary pressures but was
-synergized by the inclusion of [Stropharia cubensis mushrooms in the hominid diet. This argument connects to the
+synergized by the inclusion of [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] mushrooms in the hominid diet. This argument connects to the
 broader [catalytic model of
 psychedelics in culture.
 
@@ -82,7 +82,7 @@ bringing the world into existence in the first place." Reality is not simply
 
 ## From Vocalization to Culture
 
-The psychedelic experience inspired true self-reflective thought and then
+The [[leary-psychedelic-experience-bardo-mapping]] inspired true self-reflective thought and then
 further inspired communication of those thoughts about it. Symbols and
 language allowed humans to act in a dimension "supranatural" -- outside
 ordinary biological activities. Symbols allow storage of information outside

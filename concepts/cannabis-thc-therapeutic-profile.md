@@ -1,5 +1,5 @@
 ---
-title: THC Therapeutic Profile
+title: cannabis thc therapeutic profile Profile
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -16,7 +16,7 @@ Delta-9-tetrahydrocannabinol (THC) is the primary psychoactive compound in canna
 ### Analgesic (Pain Relief)
 - CB1 activation in pain pathways reduces pain signaling
 - Effective for neuropathic, inflammatory, and nociceptive pain
-- Opioid-sparing: reduces opioid requirements in chronic pain patients
+- Opioid-sparing: reduces opioid requirements in [[cannabis-chronic-pain-management]] patients
 
 ### Antiemetic (Anti-Nausea/Vomiting)
 - Strongest evidence for chemotherapy-induced nausea
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

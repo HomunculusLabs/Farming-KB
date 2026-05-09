@@ -1,5 +1,5 @@
 ---
-title: "Bacterial and Fungal Dominance in Soil"
+title: "query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil Dominance in Soil"
 created: 2026-04-28
 tags: [soil-biology, bacteria, fungi, succession, plant-preferences]
 date: 2026-04-25
@@ -23,7 +23,7 @@ dominance increases at each step along the way. Early successional environments
 like beaches and disturbed soils are bacterially dominated.  Prairie soils
 represent a balance between bacteria and fungi. Old-growth forest soils are
 heavily fungally dominated. The difference in dominance has everything to do
-with the increase in fungal biomass, not a decrease in bacterial biomass. There
+with the increase in [[bioremediation-fungal-biomass-biosorbent-material]], not a decrease in bacterial biomass. There
 are approximately the same number of bacteria, 100 million to 1 billion per
 teaspoon, in garden, prairie, and forest soils. What changes is the amount and
 length of fungal hyphae.
@@ -36,7 +36,7 @@ prefer bacterially dominated soils with nitrate as the primary nitrogen form.
 Their litter contains mostly cellulose, which bacteria decompose efficiently.
 Plants that live for years, such as trees and shrubs, prefer fungally dominated
 soils with ammonium as the primary nitrogen form. Their litter contains lignin
-and cellulose, which fungi are better equipped to break down. Mycorrhizal fungi
+and cellulose, which fungi are better equipped to break down. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
 also need time to establish relationships with long-lived roots, making fungal
 dominance more advantageous for perennials.
 
@@ -48,18 +48,18 @@ F:B of 0.3:1 to 0.8:1. Tomatoes, corn, and wheat prefer an F:B of 0.8:1 to 1:1.
 Lawns prefer an F:B of 0.5:1 to 1:1. In contrast, conifers require the most
 fungally dominated soils with an F:B of 50:1 to 1000:1. Maples, oaks, and
 poplars need an F:B of 10:1 to 100:1. Orchard trees do best at 10:1 to 50:1.
-Most annual flowers prefer bacterially dominated soils, while most perennials
+Most [[hamilton-annual-flowers-organic]] prefer bacterially dominated soils, while most perennials
 prefer fungally dominated soils.
 
 ## The Role of Mycorrhizal Fungi
 
-[[lowenfels-nutrients-phosphorus-mycorrhizae]]. In
-fungally dominated soils, mycorrhizal networks are extensive, connecting
+lowenfels-nutrients-phosphorus-mycorrhizae. In
+fungally dominated soils, [[dighton-mycorrhizal-networks-carbon-transfer]] are extensive, connecting
 multiple plants and creating a shared nutrient resource. When soil is disturbed
 by tilling, these networks are broken, which is why
 [[lowenfels-composting-science-microbiology]] made primarily from green
 materials will be bacterially dominated. When preparing soil for vegetables,
-chopping organic matter into fine bits and mixing it into the soil encourages
+chopping [[hamilton-composting-and-organic-matter-management]] into fine bits and mixing it into the soil encourages
 bacterial establishment. [[lowenfels-mulch-cover-cropping]] of brown leaves encourage a flush of
 [[lowenfels-nutrients-nitrogen-cycle]] while
 trees and shrubs prefer ammonium.  Testing soil pH in the rhizosphere can

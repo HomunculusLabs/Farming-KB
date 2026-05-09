@@ -61,9 +61,9 @@ Adansonia digitata occurs across most of sub-Saharan Africa, from Senegal and Ma
 
 Its range extends south through Mozambique, Zimbabwe, Botswana, and into northern South Africa.
 
-It has also been introduced to the Indian subcontinent, Southeast Asia, the Caribbean, and parts of Australia.
+It has also been introduced to the Indian subcontinent, [[psilocybe-southeast-asia-pacific]], the Caribbean, and parts of Australia.
 
-The species thrives in hot, dry tropical and subtropical savannas at elevations up to 1,500 meters.
+The species thrives in hot, [[mollison-wet-dry-tropical-design-strategies]] and subtropical savannas at elevations up to 1,500 meters.
 
 It tolerates a wide range of soil types but prefers well-drained, sandy or loamy soils.
 
@@ -85,7 +85,7 @@ Fresh leaves contain approximately 4% protein, 80 mg calcium, and 3.6 mg iron pe
 
 Dried leaf powder is a traditional ingredient in soups and stews across West Africa.
 
-**Seeds** are edible after roasting and contain roughly 30–40% oil, rich in linoleic and oleic fatty acids.
+**Seeds** are edible after roasting and contain roughly 30–40% oil, rich in linoleic and oleic [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]].
 
 The seed oil is used in cooking and increasingly in cosmetics for its moisturizing properties.
 
@@ -101,11 +101,11 @@ Fruit pulp is consumed as a treatment for diarrhea, dysentery, and fever.
 
 Its high pectin content likely contributes to its antidiarrheal effectiveness by soothing the gastrointestinal mucosa.
 
-Seed oil has demonstrated wound-healing properties and is applied topically to skin conditions.
+Seed oil has demonstrated wound-healing properties and is applied topically to [[cannabis-for-skin-conditions-detailed]].
 
 Phytochemical analysis has identified flavonoids, phenolic acids, saponins, and triterpenoids as major bioactive constituents.
 
-However, rigorous clinical trials are still limited, and most medicinal uses remain supported primarily by traditional knowledge and in vitro data.
+However, rigorous [[mushroom-cancer-clinical-trials-overview]] are still limited, and most medicinal uses remain supported primarily by traditional knowledge and in vitro data.
 
 ## Ecology and Cultural Significance
 

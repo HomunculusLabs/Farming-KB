@@ -1,5 +1,5 @@
 ---
-title: "How to Make Korean Natural Farming Inputs"
+title: "How to Make Korean comparison-natural-farming-vs-permaculture Inputs"
 created: 2026-04-28
 tags: [query, knf, natural-farming, organic, fermentation, inputs]
 date: 2026-04-25
@@ -12,9 +12,9 @@ type: query
 
 ## Short Answer
 Korean Natural Farming inputs are made by collecting and culturing beneficial
-indigenous microorganisms and fermenting plant materials to extract their nutrients.
-The core inputs include IMO (indigenous microorganisms), FPJ (fermented plant juice),
-FAA (fish amino acid), OHN (oriental herbal nutrient), WCA (water-soluble calcium),
+[[beneficial-indigenous-microorganisms-bim]] and fermenting plant materials to extract their nutrients.
+The core inputs include IMO (indigenous microorganisms), FPJ ([[bionutrients-lab-fermented-plant-juice-fpj]]),
+FAA (fish amino acid), OHN ([[bionutrients-lab-oriental-herbal-nutrients-ohn]] nutrient), WCA (water-soluble calcium),
 and LAB (lactic acid bacteria serum). Each input is made from locally available
 materials using simple fermentation techniques, making KNF one of the most accessible
 and affordable natural farming systems in the world for any scale of agriculture.
@@ -24,7 +24,7 @@ and affordable natural farming systems in the world for any scale of agriculture
 Korean Natural Farming, developed by Cho Han Kyu, is a complete agricultural system
 that replaces purchased fertilizers and pesticides with farm-made biological inputs.
 The [[complete-knf-input-reference]] offers quick
-lookup for preparation details and application rates. The system is built on the
+lookup for preparation details and [[ingham-compost-tea-application-rates-and-timing]]. The system is built on the
 principle that nature already provides everything plants need; the farmer's job is to
 facilitate natural biological processes rather than override them with synthetic
 chemical inputs.
@@ -66,7 +66,7 @@ their farm ecosystems become self-regulating and biologically self-sufficient.
 ## Key Points
 - IMO is the foundation of KNF, collected locally and cultured through four progressive stages
 - FPJ extracts plant growth hormones and nutrients from fast-growing tips using brown sugar
-- FAA provides bioavailable nitrogen through fish waste fermentation for vegetative growth
+- FAA provides bioavailable nitrogen through fish waste fermentation for [[cannabis-vegetative-growth-stage]]
 - OHN acts as a natural pest deterrent and plant immune booster from fermented herbs
 - All inputs are made from locally available materials at minimal cost using simple protocols
 
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

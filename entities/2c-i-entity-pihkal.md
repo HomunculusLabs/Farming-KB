@@ -1,5 +1,5 @@
 ---
-title: "2C-I (4-Iodo-2,5-dimethoxy-PEA) -- PIHKAL Entry #33"
+title: "2C-I (4-Iodo-2,5-dimethoxy-PEA) -- 2c-b-pihkal-entry-20 #33"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 2C-I
 
-PIHKAL entry #33. 4-Iodo-2,5-dimethoxy-PEA.
+[[2c-b-pihkal-entry-20]] #33. 4-Iodo-2,5-dimethoxy-PEA.
 
 ## Dosage and Duration
 
@@ -79,7 +79,7 @@ reaction mixture was poured into 1500 mL H2O and extracted with 4x75
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

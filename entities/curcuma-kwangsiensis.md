@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Li X, et al. (2011). "Chemical composition and bioactivities of essential oils from Curcuma kwangsiensis." Journal of Agricultural and Food Chemistry, 59(14), 7787–7794.
+  - Li X, et al. (2011). "Chemical composition and bioactivities of comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap from Curcuma kwangsiensis." Journal of Agricultural and Food Chemistry, 59(14), 7787–7794.
   - Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the People's Republic of China. Beijing: China Medical Science Press.
   - Joshi RK, et al. (2015). "Chemical composition and antimicrobial activity of the rhizome essential oil of Curcuma kwangsiensis." Natural Product Communications, 10(6), 987–990.
   - Ji HF, et al. (2012). "Chemotaxonomy of Chinese Curcuma species." Biochemical Systematics and Ecology, 44, 262–267.
@@ -38,11 +38,11 @@ The plant prefers well-drained, slightly acidic soils derived from limestone par
 
 ## Cultivation
 
-Commercial cultivation of *C. kwangsiensis* is centered in Guangxi, particularly the counties of Yulin, Guiping, and Tengxian. Planting material consists of rhizome sections (seed pieces) with 2–3 buds, planted in prepared beds at 30–40 cm spacing during early spring (March–April).
+Commercial cultivation of *C. kwangsiensis* is centered in Guangxi, particularly the counties of Yulin, Guiping, and Tengxian. Planting material consists of rhizome sections (seed pieces) with 2–3 buds, planted in prepared beds at 30–40 cm spacing during [[coleman-overwintered-onions-and-early-spring-crops]] (March–April).
 
 The crop requires a 9–10 month growing period before harvest in December or January. Optimal growth occurs at 22–30°C with 1,200–1,800 mm annual rainfall and partial shade. Excessive sun exposure reduces rhizome quality. Yields of fresh rhizome range from 15–25 tonnes per hectare under commercial conditions.
 
-Post-harvest processing involves washing, slicing, and drying the rhizomes. Traditional sun-drying takes 7–10 days; modern facilities use forced-air dryers at 50–60°C. The dried drug is graded by size, color, and essential oil content. The essential oil is extracted by steam distillation for pharmaceutical use.
+Post-harvest processing involves washing, slicing, and drying the rhizomes. Traditional sun-drying takes 7–10 days; modern facilities use forced-air dryers at 50–60°C. The dried drug is graded by size, color, and essential oil content. The essential oil is extracted by [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] for pharmaceutical use.
 
 ## Chemistry and Pharmacology
 
@@ -50,13 +50,13 @@ The rhizome essential oil (1.5–4.0% dry weight) is dominated by **curdione** (
 
 Curcuminoid content is moderate at 0.5–1.5% dry weight, lower than *C. longa* (turmeric) but pharmacologically significant. The three major curcuminoids — **curcumin**, **demethoxycurcumin**, and **bisdemethoxycurcumin** — contribute anti-inflammatory and antioxidant activity.
 
-Pharmacological studies demonstrate that *C. kwangsiensis* extracts exhibit antitumor activity through multiple mechanisms: inducing apoptosis in cancer cell lines, inhibiting angiogenesis, and modulating immune function. Curdione has shown specific activity against liver cancer cells (HepG2) and gastric cancer cells (SGC-7901) in vitro.
+Pharmacological studies demonstrate that *C. kwangsiensis* extracts exhibit antitumor activity through multiple mechanisms: inducing apoptosis in cancer cell lines, inhibiting angiogenesis, and modulating immune function. Curdione has shown specific activity against [[cannabis-and-liver-cancer-research]] cells (HepG2) and [[lentinan-gastric-cancer-combination-therapy]] cells (SGC-7901) in vitro.
 
 In TCM, *E Zhu* (the dried rhizome of *C. kwangsiensis* and related species) is classified as acrid, bitter, and warm. It is prescribed to promote blood circulation, remove blood stasis, alleviate pain, and stimulate appetite. Clinical applications include treatment of dysmenorrhea, abdominal masses, and post-surgical recovery.
 
 ## Traditional Use and Ethnobotany
 
-In Guangxi folk medicine, fresh *C. kwangsiensis* rhizome is pounded and applied externally as a poultice for wounds, sprains, and inflammatory skin conditions. Internal preparations include decoctions for digestive complaints and powdered rhizome mixed with honey for respiratory ailments.
+In Guangxi folk medicine, fresh *C. kwangsiensis* rhizome is pounded and applied externally as a poultice for wounds, sprains, and inflammatory [[cannabis-for-skin-conditions-detailed]]. Internal preparations include decoctions for digestive complaints and powdered rhizome mixed with honey for respiratory ailments.
 
 The species has been used in TCM for over 400 years, first recorded in the *Bencao Gangmu* supplementary texts of the Ming dynasty. Modern TCM pharmacopoeias distinguish it from other *E Zhu* sources based on its higher volatile oil content and different therapeutic emphasis on blood-activating properties.
 
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

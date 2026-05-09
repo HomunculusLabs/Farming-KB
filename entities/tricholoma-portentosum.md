@@ -26,7 +26,7 @@ family Tricholomataceae.
 
 It is an ectomycorrhizal species primarily associated with Pinus species,
 fruiting late in the season — often after first frosts — when few other
-edible mushrooms are available.
+[[palmer-edible-mushrooms-north-america]] are available.
 
 Its combination of late fruiting, good edibility, and distinctive appearance
 makes it one of the most valued late-autumn and early-winter mushrooms in
@@ -76,7 +76,7 @@ Tricholoma portentosum is widely distributed across Europe, from the
 Mediterranean region to Scandinavia and eastward into Russia.
 
 It is also found in North Africa and has been reported from eastern Asia
-(Japan, Korea) and North America, though some records may represent
+(Japan, Korea) and [[psilocybin-north-america-pacific-northwest]], though some records may represent
 cryptic species. The species is strongly associated with pine forests
 (Pinus sylvestris, P. nigra, P. pinaster), occasionally under spruce
 (Picea abies) in mixed coniferous stands.
@@ -89,7 +89,7 @@ temperatures range from 2–8°C.
 
 T. portentosum forms ectomycorrhizal associations with Pinus roots,
 creating a Hartig net around cortical cells to facilitate bidirectional
-nutrient exchange.
+[[arbuscule-isolation-and-nutrient-exchange-mechanisms]].
 
 The fungal mycelium extends the effective root absorption zone, improving
 phosphorus and nitrogen uptake for the host pine while receiving
@@ -97,9 +97,9 @@ carbohydrates.
 
 Late-season fruiting suggests adaptation to cold conditions, with the
 fungus accumulating cryoprotective compounds (sugars, polyols) to
-tolerate freezing temperatures in the fruiting body.
+tolerate freezing temperatures in the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]].
 
-This species contributes to winter nutrient cycling in pine forests, as
+This species contributes to winter [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in pine forests, as
 decomposing fruiting bodies release nutrients back to the soil during
 a period of low biological activity.
 
@@ -137,7 +137,7 @@ In pine-based agroforestry and silvopasture, T. portentosum represents a
 natural late-season food resource with minimal management requirements.
 
 Pine-dominated windbreaks in food-forest design can support this species
-if native mycorrhizal networks are preserved during site preparation.
+if native [[dighton-mycorrhizal-networks-carbon-transfer]] are preserved during site preparation.
 
 ## See Also
 

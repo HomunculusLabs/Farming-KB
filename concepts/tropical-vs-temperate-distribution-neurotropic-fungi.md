@@ -1,5 +1,5 @@
 ---
-title: Tropical vs Temperate Distribution of Neurotropic Fungi
+title: Tropical vs Temperate global-distribution-of-neurotropic-fungi Fungi
 created: 2026-04-28
 tags:
   - biogeography
@@ -29,7 +29,7 @@ species found exclusively in cooler climates.
 
 ## Tropical Centers of Diversity
 
-Tropical regions contain the majority of the world's neurotropic fungal
+Tropical regions contain the majority of the world's [[mexico-center-neurotropic-fungal-biodiversity]]
 species. The paper identifies several tropical centers of diversity:
 
 **Mexico and Central America**: Mexico alone has 76 species, many
@@ -74,7 +74,7 @@ or in grassland soils (P. semilanceata).
 
 **Seasonality**: Tropical species fruit year-round with peaks
 corresponding to wet seasons. Temperate species have more defined
-fruiting seasons, typically autumn for most species, though some
+[[azurescens-fruiting-seasons-and-conditions]], typically autumn for most species, though some
 (P. semilanceata, P. stuntzii) fruit primarily in spring.
 
 **Habitat specificity**: Tropical species tend to be associated with
@@ -87,12 +87,12 @@ may be restricted by temperature and moisture requirements.
 Several important biogeographic patterns emerge from the analysis of
 tropical and temperate distributions:
 
-1. **Pantropical species**: Psilocybe cubensis and Copelandia
+1. **Pantropical species**: [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] and Copelandia
    cyanescens occur throughout the tropics on every continent,
    distributed through the movement of domesticated herbivores.
 
 2. **Disjunct distributions**: Some species show puzzling
-   disjunctions between temperate North America and Europe (P.
+   disjunctions between temperate [[psilocybin-north-america-pacific-northwest]] and Europe (P.
    semilanceata) or between South America and Australasia,
    suggesting ancient Gondwanan distributions or recent long-distance
    dispersal events.
@@ -105,7 +105,7 @@ tropical and temperate distributions:
 4. **Introduced species**: Several neurotropic species have been
    widely introduced outside their native ranges, particularly P.
    cyanescens (from the Pacific Northwest to Europe and elsewhere)
-   and Amanita muscaria (from the Northern Hemisphere to the Southern
+   and [[allegro-amanita-muscaria-properties-and-pharmacology]] (from the Northern Hemisphere to the Southern
    Hemisphere).
 
 ## Climate and Distribution Limits

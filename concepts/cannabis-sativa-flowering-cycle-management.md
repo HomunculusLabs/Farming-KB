@@ -1,5 +1,5 @@
 ---
-title: [[cannabis-sativa]] Flowering Cycle Management
+title: cannabis-sativa cannabis sativa flowering cycle management Management
 created: 2026-04-28
 tags: [cannabis, sativa, flowering, cultivation, grow-cycle]
 date: 2026-04-28
@@ -17,7 +17,7 @@ more complex than that of indica-dominant varieties. While indicas
 typically finish in 7-9 weeks, pure sativa strains may require 10-16
 weeks or even longer to reach full maturity. This extended flowering
 period demands specific management strategies to maintain plant health,
-maximize resin production, and achieve optimal cannabinoid and terpene
+maximize [[cannabis-glandular-trichome-types-resin-production-clarke]], and achieve optimal cannabinoid and terpene
 profiles.
 
 ## Photoperiod Trigger
@@ -26,7 +26,7 @@ Cannabis sativa initiates flowering in response to a reduction in the
 daily dark period. The critical photoperiod for most sativa varieties
 is approximately 12-12.5 hours of uninterrupted darkness. When the
 dark period exceeds this threshold consistently, the plant shifts from
-vegetative growth to reproductive development.
+[[cannabis-vegetative-growth-stage]] to reproductive development.
 
 Sativa varieties can be more sensitive to light leaks than indica
 strains. Even brief interruptions of the dark period (a few minutes of
@@ -44,7 +44,7 @@ vertical growth accelerates dramatically. Pure sativas can double or
 triple their pre-flower height. This stretch is far more pronounced
 than in indica varieties, which typically stretch 50-100%.
 
-Managing the stretch is critical for indoor cultivation:
+Managing the stretch is critical for [[cannabis-sativa-indoor-cultivation-techniques]]:
 
 - **Pre-stretch training:** Top plants during late vegetative growth
   to create a wider canopy rather than a single tall leader. Apply
@@ -79,7 +79,7 @@ internodes. During this phase:
 
 - **Canopy management:** Remove large fan leaves that shade developing
   flower sites. Strategic defoliation improves light penetration and
-  air circulation. Focus on removing leaves that are heavily shaded or
+  [[stamets-growing-room-air-circulation-co2-management]]. Focus on removing leaves that are heavily shaded or
   directly blocking bud sites.
 
 - **Support:** As flowers develop and gain weight, branches may bend
@@ -89,7 +89,7 @@ internodes. During this phase:
 ## Mid-Flowering (Weeks 6-10)
 
 This is the period of most active resin and cannabinoid production.
-Trichome development becomes visible, giving buds a frosty appearance.
+[[cannabis-trichome-development-cannabinoid-biosynthesis-sites]] becomes visible, giving buds a frosty appearance.
 
 - **Nutrient demands:** Phosphorus and potassium requirements peak.
   Calcium and magnesium demand also increases. Many sativa varieties
@@ -138,4 +138,4 @@ relying on pistil coloration alone.
 ## See Also
 
 - [[cannabis-sativa-morphology-and-plant-architecture]]
-- [[cannabis-sativa-morphology-and-plant-architecture]]
+- [[cannabis-auto-flowering-ruderalis-sativa-indoor]]

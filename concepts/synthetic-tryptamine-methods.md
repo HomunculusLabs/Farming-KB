@@ -17,7 +17,7 @@ The synthesis of substituted tryptamines documented throughout TIHKAL follows a 
 The most frequently used pathway in TIHKAL, applied to the majority of tryptamine entries, proceeds in three steps:
 
 **Step 1: Formation of indol-3-ylglyoxyl chloride**
-The substituted [[indole]] is reacted with oxalyl chloride in anhydrous benzene or toluene under inert atmosphere. The reaction is typically stirred at room temperature or gently heated, and the product precipitates as a yellow-orange solid. This intermediate is sensitive to moisture and must be used promptly.
+The substituted [[indole]] is reacted with [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] in anhydrous benzene or toluene under inert atmosphere. The reaction is typically stirred at room temperature or gently heated, and the product precipitates as a yellow-orange solid. This intermediate is sensitive to moisture and must be used promptly.
 
 **Step 2: Amine condensation to the glyoxylamide**
 The glyoxyl chloride is treated with the desired secondary amine (dimethylamine, diethylamine, diisopropylamine, etc.) either as a gas bubbled through the solution or as an aqueous/alcoholic solution. The product is the substituted indol-3-ylglyoxylamide, typically crystallized and characterized before proceeding.
@@ -91,11 +91,11 @@ TIHKAL is organized as a systematic tour through the tryptamine structure-activi
 - **Route dependency** (oral vs. smoked vs. insufflation vs. injected)
 - **Qualitative character** (visual, auditory, somatic, cognitive, emotional dimensions)
 
-Shulgin's commentary sections explicitly frame new compounds as experiments testing specific SAR hypotheses. For example, the comparison between MIPT (oral, active) and MPT (oral, inactive) tests the role of amine branching in conferring oral activity. The comparison between [[5-meo-dmt-entity]] and 5-MeS-DMT tests whether sulfur substitution enhances potency in tryptamines as it does in phenethylamines (answer: it does not).
+Shulgin's commentary sections explicitly frame new compounds as experiments testing specific SAR hypotheses. For example, the comparison between MIPT (oral, active) and MPT (oral, inactive) tests the role of amine branching in conferring [[tihkal-oral-activity-mao-inhibition]]. The comparison between [[5-meo-dmt-entity]] and 5-MeS-DMT tests whether [[pihkal-sulfur-substitution-potency-sar]] enhances potency in tryptamines as it does in phenethylamines (answer: it does not).
 
 ## The Numbering Convention and Chemical Precision
 
-Shulgin developed a precise notation system for tryptamine chemistry. Numbers designate positions on the indole ring (2-7), Greek letters (alpha, beta) designate the side-chain carbons, and N designates the side-chain amine nitrogen (distinct from the indole nitrogen at position 1). This convention, used throughout TIHKAL, allows unambiguous communication about substitution patterns across compounds.
+Shulgin developed a precise notation system for [[psilocybin-tryptamine-chemistry-fungi]]. Numbers designate positions on the indole ring (2-7), Greek letters (alpha, beta) designate the side-chain carbons, and N designates the side-chain amine nitrogen (distinct from the indole nitrogen at position 1). This convention, used throughout TIHKAL, allows unambiguous communication about substitution patterns across compounds.
 
 ## Ethical and Practical Stance
 
@@ -103,7 +103,7 @@ Shulgin maintained several practical and ethical positions that shaped his resea
 
 1. **Respect for the molecule**: Each compound was treated as having something to teach. Shulgin approached new substances with genuine curiosity rather than reductive judgment.
 
-2. **Practical harm reduction**: Detailed dosage, duration, and qualitative information was published precisely so that users could make informed decisions. Shulgin believed that information itself was the most effective harm reduction tool.
+2. **Practical [[adverse-effects-and-harm-reduction-psilocybin]]**: Detailed dosage, duration, and qualitative information was published precisely so that users could make informed decisions. Shulgin believed that information itself was the most effective harm reduction tool.
 
 3. **Legal confrontation**: Shulgin was fully aware that publishing synthesis procedures and dosage information would generate legal controversy. He argued that this information was of legitimate scientific interest and that criminalization of knowledge was itself harmful.
 

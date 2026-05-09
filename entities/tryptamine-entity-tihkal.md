@@ -25,7 +25,7 @@ the eyes, clouding of vision, lines or cobwebs" in 2 of 4 subjects.
 ## Metabolism and Pharmacokinetics
 
 Tryptamine enters the brain but is rapidly metabolized by monoamine oxidase
-(MAO), giving it only a short duration of central activity. This is why all
+(MAO), giving it only a [[savory-short-duration-grazing-and-cell-systems]] of central activity. This is why all
 human studies employed intravenous administration. The primary metabolic
 pathway produces indoleacetic acid — a potent plant growth hormone found
 in many natural sources — and indole-3-ethanol (tryptophol), a plant stimulant
@@ -33,7 +33,7 @@ recently found in cucumber seedlings.
 
 ## Biosynthesis
 
-Tryptamine is produced in the body from the essential amino acid tryptophan
+Tryptamine is produced in the body from the essential [[cho-fish-amino-acid-preparation]] tryptophan
 via the enzyme tryptophan decarboxylase. It is the immediate precursor to
 [[amt-entity-tihkal]], [[bufotenin-entity-tihkal]]. See [[nmt-entity-tihkal]],
 and [[amt-entity-tihkal]] — N,N-dimethyltryptamine
@@ -61,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,17 +1,13 @@
 ---
-title: Common Mycorrhizal Networks
+title: Common dighton-mycorrhizal-networks-carbon-transfer
 created: 2026-04-28
-tags: [[mycology, ecology, plant-communication, nutrient-transfer]
+tags: [mycology, ecology, plant-communication, nutrient-transfer]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
 type: concept
 ---
-
-# Common Mycorrhizal Networks
-
-Common mycorrhizal networks (CMNs), sometimes called mycorrhizal networks or
-myconets, are [[arbuscular-mycorrhizal-colonization-patterns]] fungi form the dominant networks.
+# Common Mycorrhizal Networks Common mycorrhizal networks (CMNs), sometimes called mycorrhizal networks or myconets, are [[arbuscular-mycorrhizal-colonization-patterns]] fungi form the dominant networks.
 
 The physical structure of a CMN consists of internal fungal structures within
 plant roots (arbuscules, hyphal coils, or Hartig nets, depending on the
@@ -31,7 +27,7 @@ systems.
 
 One of the most studied aspects of CMNs is the movement of resources between
 connected plants. Carbon fixed by photosynthesis in one plant can travel
-through the fungal network to neighboring plants. This has been demonstrated
+through the [[mycelium-running-mycelium-natures-internet-fungal-network-theory]] to neighboring plants. This has been demonstrated
 using isotopic labeling techniques, where carbon-13 or carbon-14 fed to a
 "donor" plant is later detected in connected "receiver" plants.
 
@@ -56,7 +52,7 @@ through hydraulic redistribution mediated by fungal hyphae.
 
 Beyond resource transfer, evidence suggests that CMNs facilitate chemical
 signaling between plants. Plants attacked by herbivores or pathogens can
-produce volatile organic compounds and other defense signals that travel
+produce [[fungal-volatile-organic-compounds-communication]] compounds and other defense signals that travel
 through the mycorrhizal network, triggering defensive responses in neighboring
 plants before they are themselves attacked. This "eavesdropping" on neighbor
 distress signals has been documented in several plant species, including
@@ -72,7 +68,7 @@ airborne volatile signaling or direct [[gadd-fungal-biodiversity-conservation]] 
 ## See Also
 
 - [[ectomycorrhizal-fungi]] — dominant network formers in forests
-- [[plant-fungal-signaling-mycorrhiza]] — chemical communication in mycorrhizae
+- [[plant-fungal-signaling-mycorrhiza]] — [[bloomfield-siren-songs-fungal-chemical-communication-reproduction-chapter-7]] in mycorrhizae
 - [[rhizophagus-irregularis]]
 ## Practical Considerations
 
@@ -92,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: "Catalytic Triad Enzyme Mechanism"
+title: "Catalytic catalytic triad enzyme mechanism Mechanism"
 aliases: [catalytic triad, charge relay triad, serine protease triad]
 tags: [biochemistry, enzymology, protein-chemistry, catalysis, proteases]
 created: 2026-05-02
@@ -101,10 +101,10 @@ Beta-lactamases evolved to reverse that strategy, so inhibitors often target the
 
 Cysteine protease inhibitors are important in antiviral, antiparasitic, and inflammatory [[enzyme-kinetics-michaelis-menten-model]] because active-site chemistry determines kcat and sometimes KM.
 
-They also connect to structure activity relationship medicinal chemistry when inhibitors are optimized for selectivity, residence time, and reactivity.
+They also connect to [[md-family-structure-activity]] relationship medicinal chemistry when inhibitors are optimized for selectivity, residence time, and reactivity.
 
 The oxyanion hole is a companion motif that stabilizes tetrahedral intermediates during acylation and deacylation.
 
 Covalent catalysis, general acid-base catalysis, transition-state stabilization, and substrate proximity effects all converge in the triad mechanism.
 
-See also: [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]]
+See also: [[legume-nitrogen-fixation-and-green-manure]]

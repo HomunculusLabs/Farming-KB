@@ -1,10 +1,12 @@
 ---
-title: Small Scale Grain Growing
+title: Small Scale jeavons-grain-growing-mini-farms
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [grain, homesteading, cultivation, harvesting, processing, agriculture, plants, sustainability]
-sources: []
+sources:
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Small Scale Grain Growing
@@ -35,7 +37,7 @@ Excellent for human food (oatmeal, granola, flour) and animal feed. Good cover c
 ### Barley (Hordeum vulgare)
 Used for flour, malting (beer and whiskey), soups, and animal feed. One of the earliest domesticated grains.
 
-- Spring barley: most common type. Plant in early spring. Harvest in 60-70 days.
+- Spring barley: most common type. Plant in [[coleman-overwintered-onions-and-early-spring-crops]]. Harvest in 60-70 days.
 - Winter barley: plant in fall, harvest in early summer. Zone 6 and warmer.
 - Hulled vs hull-less: hull-less (naked) barley is much easier to process for food. Hulled barley requires pearling or dehulling.
 - Yield: 50-80 bushels per acre (1 bushel = 48 pounds).
@@ -64,10 +66,10 @@ Grains are relatively undemanding but respond well to good soil preparation:
 ## Planting
 
 ### Broadcast Method
-Scatter seed evenly by hand or with a broadcast spreader. Rake or lightly till to cover seed 1-2 inches deep. Requires 20-30% more seed than drilled methods. Good for small plots and cover cropping.
+Scatter seed evenly by hand or with a broadcast spreader. Rake or lightly till to cover seed 1-2 inches deep. Requires 20-30% more seed than drilled methods. Good for small plots and [[fukuoka-clover-cover-cropping-soil-ecology]].
 
 ### Row Method (Drilled)
-Use a grain drill, Earthway seeder, or create furrows with a hoe. Plant 1-2 inches deep in rows 6-8 inches apart. More efficient seed use and easier weed management. Recommended for dedicated grain plots.
+Use a grain drill, Earthway seeder, or create furrows with a hoe. Plant 1-2 inches deep in rows 6-8 inches apart. More efficient seed use and easier [[fukuoka-weed-management-and-green-manure]]. Recommended for dedicated grain plots.
 
 ### Seeding Rates (per 1,000 square feet)
 - Wheat: 1-2 pounds
@@ -115,7 +117,7 @@ Separating grain from chaff (the lightweight husks and debris):
 - Store in airtight containers (food-grade buckets with gamma seals, glass jars, or metal bins).
 - Freeze grain for 72 hours after processing to kill any insect eggs.
 - Store in a cool, dry, dark location.
-- Whole grain stores for 1-2 years. Freshly ground flour is best within 1-2 weeks (refrigerate or freeze to extend shelf life).
+- Whole grain stores for 1-2 years. Freshly ground flour is best within 1-2 weeks (refrigerate or freeze to extend [[psilocybin-shelf-life-stability]]).
 
 ## Grinding
 
@@ -127,5 +129,5 @@ Separating grain from chaff (the lightweight husks and debris):
 ## Related Concepts
 
 - [[saving-seeds]] -- save grain seed from your best plants for next year
-- [[beer-brewing-basics]] -- grow barley and wheat specifically for brewing
+- [[beer-brewing-basics]] -- grow [[ergot-of-barley-and-wheat-alkaloid-composition]] specifically for brewing
 - [[greenhouse-growing-guide]] -- start grain seedlings early indoors in cold climates

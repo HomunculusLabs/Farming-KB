@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [psilocybe, ovoideocystidiata, species-profile, woodlovers]
 date: 2026-04-25
 updated: 2026-04-25
-sources: [raw/papers/psilocybin-mushrooms-of-the-world-stamets.md]
+sources: sources: []
 type: concept
 ---
 
@@ -13,11 +13,11 @@ type: concept
 ## Overview
 
 Psilocybe ovoideocystidiata is a bluing, wood-inhabiting Psilocybe
-species native to the eastern United States and parts of the
+species native to the eastern [[dmt-containing-plants-united-states-halpern]] and parts of the
 Mid-Atlantic region. First described from Ohio, it has since been
 documented across a range extending from the northeastern US through
 the Ohio River Valley and into parts of the southeastern states.
-As a member of the "woodlovers" group of psilocybin mushrooms, it
+As a member of the "woodlovers" group of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]], it
 colonizes decaying hardwood debris in riparian and floodplain
 environments. Its distinctive ovoid to lemon-shaped cheilocystidia
 give the species its name and provide a key microscopic
@@ -66,7 +66,7 @@ slightly bitter.
 
 ## Microscopic Features
 
-**Spore Print:** Dark purplish brown to nearly black in deposit.
+**[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Dark purplish brown to nearly black in deposit.
 
 **Spores:** Subellipsoid to ellipsoid in side view, ovoid to
 subrhomboid in face view. Wall thickness is moderate. Spore
@@ -93,7 +93,7 @@ primarily on decaying hardwood debris. It colonizes wood chips, mulch,
 sawdust, and fallen branches of deciduous trees. Preferred substrates
 include the debris of alder, birch, beech, maple, oak, and other
 hardwoods. It shows a strong preference for riparian habitats --
-stream banks, floodplains, and ravine bottoms where woody debris
+stream banks, floodplains, and ravine bottoms where [[fungal-succession-woody-debris-ecology]]
 accumulates in moist conditions.
 
 Geographic distribution centers on the eastern United States, with
@@ -114,7 +114,7 @@ fruiting when temperatures range from 45-65 degrees F.
 ## Potency
 
 Psilocybe ovoideocystidiata is considered moderately to highly
-active based on its strong bluing reaction and reported effects.
+active based on its strong [[field-guide-psilocybin-bluing-reaction-identification]] and reported effects.
 While comprehensive published analyses are limited, the intensity of
 the bluing reaction and user reports suggest psilocybin and psilocin
 levels comparable to P. cyanescens. The flesh is notably more bitter
@@ -134,7 +134,9 @@ wood-inhabiting Psilocybe species.
 
 - [[psychedelic-mushroom-set-and-setting]]
 - woodlovers cultivation
-- riparian [[bigwood-beug-psilocybin-psilocin-variation-analysis]]
+- riparian bigwood-beug-psilocybin-psilocin-variation-analysis
 - lignicolous-psilocybe-species
-- hardwood decay fungi
+- hardwood [[bloomfield-wood-decay-fungi-spalted-timber]]
 - [[psilocybe-ovoideocystidiata]]
+- [[psilocybin-mushrooms]]
+- [[wood-decay-fungi]]

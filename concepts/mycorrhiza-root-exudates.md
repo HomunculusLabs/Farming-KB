@@ -12,8 +12,8 @@ type: concept
 
 ## Overview
 
-Root exudates are organic compounds released by plant roots into the
-surrounding soil (rhizosphere). Mycorrhizal colonization significantly
+Root exudates are [[fungal-volatile-organic-compounds-communication]] released by plant roots into the
+surrounding soil (rhizosphere). [[arbuscular-mycorrhizal-colonization-patterns]] significantly
 modifies the composition and quantity of root exudates, which in turn
 affects pathogen behavior, rhizosphere microbial communities, and the
 overall dynamics of plant-soil-microbe interactions. Understanding these
@@ -33,7 +33,7 @@ roots and from younger roots.
 Proline accumulates and is involved in plant protection against water and
 salt stresses. It also accumulated in tomato leaves following infection with
 *Phytophthora nicotianae* and in the cortex of *Theobroma cacao* after
-infection with *P. megakarya*, suggesting a role in both stress tolerance
+infection with *P. megakarya*, suggesting a role in both [[fungal-lichen-stress-tolerance-and-poikilohydry]]
 and pathogen defense.
 
 ## Secondary Metabolites in Mycorrhizal Roots
@@ -105,7 +105,7 @@ modification alone, suggesting additional mechanisms.
 ## Strigolactones as Branching Factors
 
 Strigolactones are plant-derived molecules that serve as signals in the
-mycorrhizal symbiosis. They are perceived by AM fungi and act as branching
+[[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]. They are perceived by AM fungi and act as branching
 factors, stimulating hyphal branching near host roots (Akiyama et al. 2005).
 This discovery was a landmark in understanding the molecular communication
 between plant and fungal partners. Strigolactones have since been recognized
@@ -114,7 +114,7 @@ angiosperms.
 
 ## Glomalin and Soil Aggregation
 
-Glomalin is the only protein detected from AMF structures that favors soil
+Glomalin is the only protein detected from [[bacterial-associates-amf-structures-biocontrol]] that favors soil
 aggregation (Wright and Upadhyaya 1998). While its impact on pathogens has
 not been directly studied, glomalin contributes to soil physical properties
 that influence root health and microbial habitat structure in the
@@ -135,11 +135,14 @@ In vitro bi-compartmental Magenta box systems using *Agrobacterium
 rhizogenes*-transformed roots have been developed to study exudate effects
 without interference from other soil microorganisms. PCR-DGGE analysis of
 16S rRNA genes permits characterization of bacterial community structure
-in response to mycorrhizal exudates. These approaches allow dissection of
+in response to [[singh-mycorrhizal-exudates-root-exudate-interactions]]. These approaches allow dissection of
 the complex interactions between mycorrhizal exudates and soil biology.
 
 ## See Also
 
 - [[mycorrhiza-nutrient-exchange]]
 - [[mycorrhizal-networks]]
-- [[mycorrhizal-symbiosis]]
+- mycorrhizal-symbiosis
+- [[root-exudates]]
+- [[glomus-intraradices]]
+- [[trichoderma-harzianum]]

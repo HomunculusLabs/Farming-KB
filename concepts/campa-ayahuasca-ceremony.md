@@ -1,5 +1,5 @@
 ---
-title: "Campa Ayahuasca Ceremony"
+title: "harner-campa-ayahuasca-ceremony Ceremony"
 created: "2026-04-16"
 updated: "2026-04-16"
 type: concept
@@ -24,6 +24,8 @@ Weiss, G. (1975). "Shamanism and Priesthood in Light of the Campa Ayahuasca Cere
 Brown, M. F. (1986). Tsewa's Gift: Magic and Meaning in an Amazonian Society. Smithsonian Institution Press.
 
 ## Related
+
+- [[harner-campa-ayahuasca-ceremony]]
 
 - [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]]
 ## Practical Applications
@@ -103,4 +105,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

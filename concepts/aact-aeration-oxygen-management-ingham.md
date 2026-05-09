@@ -1,5 +1,5 @@
 ---
-title: AACT Aeration and Oxygen Management (Ingham)
+title: AACT Aeration and aact aeration oxygen management ingham (Ingham)
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Field Guide I for Actively Aerated Compost Tea, Dr. Elaine Ingham, Soil Foodweb Inc.
+Source: The Field Guide I for Actively [[actively-aerated-compost-tea-aact-brewing]] Tea, Dr. Elaine Ingham, Soil Foodweb Inc.
 
 Maintaining aerobic conditions throughout the brewing process is the single most critical factor in producing effective AACT. Loss of oxygen kills beneficial fungi, protozoa, and nematodes, and allows human pathogens to grow.
 
@@ -20,9 +20,9 @@ Maintaining aerobic conditions throughout the brewing process is the single most
 
 The standard AACT brew time is 24 hours. Reasons:
 - After 24 hours, biofilm buildup on tank walls can create anaerobic zones
-- Anaerobic and facultative anaerobic organisms, dormant in aerobic conditions, become active in lower biofilm layers
+- Anaerobic and facultative [[ingham-anaerobic-organisms-role-soil]], dormant in aerobic conditions, become active in lower biofilm layers
 - When their numbers get very high, they produce toxins and bad odors
-- 24 hours provides enough time for bacterial and fungal reproduction without risking anaerobic conditions
+- 24 hours provides enough time for [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] reproduction without risking anaerobic conditions
 - Control food resources to prevent organisms from outstripping the aerator's capacity
 
 ## Dissolved Oxygen Targets
@@ -51,7 +51,7 @@ Three different measurement systems exist:
 - Oxygen concentration decreases as temperature increases
 - Oxygen concentration decreases as elevation increases
 - At 2,000 ft elevation, room temp, maximum oxygen is about 8.8 mg/L
-- At high temperatures, the gap between aerobic and anaerobic narrows dangerously
+- At high temperatures, the gap between [[query-what-is-the-difference-between-aerobic-and-anaerobic-composting]] narrows dangerously
 
 ## Bubble Size Matters
 
@@ -81,7 +81,7 @@ The key relationship:
 - More food added = greater oxygen demand from growing organisms
 - If food exceeds the aerator's capacity to supply oxygen, the brew goes anaerobic
 - Balance food additions with aeration rate to keep oxygen above 5.5 ppm
-- This balance depends on: machine design, water temperature, compost quality, and food types
+- This balance depends on: machine design, water temperature, [[aact-compost-quality-standards-ingham]], and food types
 
 ## Post-Brew Aeration
 
@@ -118,6 +118,8 @@ This test is useful for calibrating your relationship between oxygen readings an
 See also: [[aact-brewing-ingredients-ingham]], [[aact-troubleshooting-ingham]]
 
 ## Related
+
+- [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]]
 
 - [[ingham-anaerobic-vs-aerobic-compost-tea]]
 - [[ingham-weed-control-through-biology]]

@@ -13,7 +13,7 @@ sources:
 
 # 4-Acetoxy-DET
 
-4-Acetoxy-N,N-diethyltryptamine (4-AcO-DET, ethacetin, 4-Acetoxy-DE) is a synthetic psychedelic tryptamine and the 4-acetylated prodrug analog of 4-HO-DET (ethocin). Described by Alexander and Ann Shulgin in TIHKAL (entry #31), it belongs to the 4-substituted tryptamine family alongside compounds such as psilocin (4-HO-DMT) and 4-AcO-DMT. As an acetylated tryptamine, 4-AcO-DET is believed to function as a prodrug, undergoing deacetylation in vivo to yield the active metabolite 4-HO-DET. The compound is classified as a Schedule I controlled substance in the United States and is controlled in several other jurisdictions worldwide. Like many members of the Shulgin tryptamine series, it has been used in psychopharmacological research to map the structure-activity relationships of serotonin receptor agonists.
+4-Acetoxy-N,N-diethyltryptamine (4-AcO-DET, ethacetin, 4-Acetoxy-DE) is a synthetic psychedelic tryptamine and the 4-acetylated prodrug analog of 4-HO-DET (ethocin). Described by Alexander and Ann Shulgin in TIHKAL (entry #31), it belongs to the 4-substituted tryptamine family alongside compounds such as psilocin (4-HO-DMT) and 4-AcO-DMT. As an acetylated tryptamine, 4-AcO-DET is believed to function as a prodrug, undergoing deacetylation in vivo to yield the active metabolite 4-HO-DET. The compound is classified as a Schedule I controlled substance in the United States and is controlled in several other jurisdictions worldwide. Like many members of the Shulgin tryptamine series, it has been used in psychopharmacological research to map the structure-activity relationships of serotonin [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]].
 
 ## Chemical Identity
 
@@ -35,7 +35,7 @@ sources:
 ## Pharmacology
 - **Mechanism:** 5-HT2A receptor agonist — primary mechanism of psychedelic action shared with all classical psychedelics
 - **Prodrug hypothesis:** 4-AcO-DET is widely believed to be a prodrug for 4-HO-DET, with the acetate ester being cleaved by serum and hepatic esterases to yield the active phenolic compound, analogous to the psilocybin-to-psilocin conversion
-- **Receptor binding:** As a 4-hydroxytryptamine derivative, expected to bind 5-HT2A with high affinity, with additional activity at 5-HT1A and possibly 5-HT2C receptors
+- **[[tihkal-receptor-binding-serotonin]]:** As a 4-hydroxytryptamine derivative, expected to bind 5-HT2A with high affinity, with additional activity at 5-HT1A and possibly 5-HT2C receptors
 - **The N,N-diethyl substitution** increases lipophilicity compared to N,N-dimethyl analogs, potentially affecting blood-brain barrier penetration, receptor binding kinetics, metabolic stability, and duration of action
 - **Onset:** Typically 20–60 minutes following oral administration
 - **Duration:** 4–6 hours, consistent with other members of the 4-substituted tryptamine class
@@ -84,7 +84,7 @@ The synthesis of 4-AcO-DET follows the general pathway for 4-acetylated tryptami
 - **Japan:** Controlled under the Pharmaceutical and Medical Device Act
 
 ## Toxicology and Safety Data
-- **Acute toxicity:** No human fatalities documented; LD50 not established for humans; animal studies suggest very high therapeutic index
+- **Acute toxicity:** No human fatalities documented; LD50 not established for humans; animal studies suggest very high [[cannabis-therapeutic-index-overview]]
 - **Chronic toxicity:** No long-term toxicity studies available; assumed similar risk profile to other classical psychedelics based on structural similarity
 - **Pharmacokinetics:** Rapid absorption following oral administration; peak plasma concentrations estimated at 1–2 hours; hepatic metabolism via MAO and cytochrome P450 enzymes; elimination half-life estimated at 1–3 hours
 - **Drug interactions:** Potentially dangerous when combined with MAOIs (hypertensive crisis risk), SSRIs (serotonin syndrome), lithium (neurotoxicity risk), tramadol, and stimulants
@@ -92,7 +92,7 @@ The synthesis of 4-AcO-DET follows the general pathway for 4-acetylated tryptami
 - **Dependence potential:** Classical psychedelics exhibit negligible physical dependence; psychological dependence is rare but possible; tolerance develops rapidly and dissipates within 3–7 days
 
 ## History and Context
-4-AcO-DET was first synthesized and characterized by Alexander Shulgin. The compound was documented in TIHKAL (Tryptamines I Have Known and Loved), published in 1997, as part of Shulgin's systematic exploration of substituted tryptamine pharmacology. The 4-acetoxytryptamine series (4-AcO-DMT, 4-AcO-MET, 4-AcO-DET, 4-AcO-MIPT, etc.) represented Shulgin's investigation of the prodrug concept for psychedelic tryptamines — the hypothesis that acetylated phenols could serve as orally bioavailable, stable precursors that convert to their hydroxylated active forms in vivo. This concept paralleled the natural metabolism of psilocybin (the phosphorylated prodrug of psilocin) and offered a synthetic pathway to stable, orally active psychedelic compounds with improved shelf stability compared to their hydroxylated counterparts.
+4-AcO-DET was first synthesized and characterized by Alexander Shulgin. The compound was documented in TIHKAL (Tryptamines I Have Known and Loved), published in 1997, as part of Shulgin's systematic exploration of substituted [[mckenna-food-gods-tryptamine-pharmacology-indoles]]. The 4-acetoxytryptamine series (4-AcO-DMT, 4-AcO-MET, 4-AcO-DET, 4-AcO-MIPT, etc.) represented Shulgin's investigation of the prodrug concept for psychedelic tryptamines — the hypothesis that acetylated phenols could serve as orally bioavailable, stable precursors that convert to their hydroxylated active forms in vivo. This concept paralleled the natural metabolism of psilocybin (the phosphorylated prodrug of psilocin) and offered a synthetic pathway to stable, orally active psychedelic compounds with improved shelf stability compared to their hydroxylated counterparts.
 
 ## Research Applications
 - **SAR studies:** 4-AcO-DET serves as a pharmacological tool compound for mapping 5-HT2A receptor binding pockets and understanding the role of N-alkyl chain length in tryptamine pharmacology
@@ -101,8 +101,8 @@ The synthesis of 4-AcO-DET follows the general pathway for 4-acetylated tryptami
 - **Forensic chemistry:** Identified in analytical drug checking laboratories as an emerging research chemical; included in mass spectral reference libraries
 
 ## Harm Reduction
-- As with all psychedelics, set and setting significantly influence the experience quality and outcomes
-- No established lethal dose in humans; high doses produce extended, overwhelming altered states
+- As with all psychedelics, [[lsd-set-and-setting-framework]] significantly influence the experience quality and outcomes
+- No established lethal dose in humans; high doses produce extended, overwhelming [[weil-the-natural-mind-altered-states-normalcy]]
 - Individuals with personal or family history of psychosis or severe psychiatric disorders should exercise caution
 - Serotonin syndrome risk when combined with MAOIs, SSRIs, or other serotonergic substances
 - Limited toxicological data — purity testing is essential for any research or personal use
@@ -114,7 +114,7 @@ In TIHKAL, Alexander Shulgin provides limited qualitative commentary on 4-AcO-DE
 
 ## See Also
 
-- [[4-aco-dmt]]
+- [[4-acetoxy-dmt]]
 - [[4-ho-met]]
 - [[psilocybin]]
 - [[dmt]]

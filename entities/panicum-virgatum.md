@@ -15,17 +15,17 @@ updated: 2026-04-28
 sources:
   - Parrish, D.J. & Fike, J.H. (2005). "The biology and agronomy of switchgrass." In Turhollow, A.F. (ed.), Critical Reviews in Plant Sciences, 24(5-6), 423-459.
   - Schmer, M.R. et al. (2008). "Net energy of cellulosic ethanol from switchgrass." PNAS, 105(2), 464-469.
-  - Vogel, K.P. et al. (2002). "Switchgrass biomass production in the Midwest USA." Agronomy Journal, 94, 413-420.
+  - Vogel, K.P. et al. (2002). "Switchgrass [[dighton-fungal-biomass-production-aquatic-ecosystems]] in the Midwest USA." Agronomy Journal, 94, 413-420.
   - Wright, L. & Turhollow, A. (2010). "Switchgrass selection as a 'model' bioenergy crop." Proceedings of the National Academy of Sciences, 107(16), 7141-7142.
 ---
 
 ## Overview
 
-**Panicum virgatum**, commonly known as **switchgrass**, is a perennial warm-season bunchgrass native to North America. It is one of the most widely studied bioenergy crops in the world, valued for its high biomass productivity, low input requirements, and deep root system that provides exceptional soil conservation benefits.
+**Panicum virgatum**, commonly known as **switchgrass**, is a perennial warm-season bunchgrass native to [[psilocybin-north-america-pacific-northwest]]. It is one of the most widely studied bioenergy crops in the world, valued for its high biomass productivity, low input requirements, and deep root system that provides exceptional soil conservation benefits.
 
 Switchgrass is a C₄ grass capable of producing high yields on marginal agricultural land without significant fertilizer or pesticide inputs. Its native range extends from Canada to Mexico, with natural populations adapted to a wide range of climatic conditions, soil types, and moisture regimes.
 
-The species has gained prominence as a model lignocellulosic bioenergy feedstock, particularly following its selection by the U.S. Department of Energy as a primary candidate for cellulosic ethanol production. It also serves important ecological functions in prairie restoration, riparian buffer zones, and wildlife habitat.
+The species has gained prominence as a model lignocellulosic bioenergy feedstock, particularly following its selection by the U.S. Department of Energy as a primary candidate for cellulosic ethanol production. It also serves important ecological functions in [[comparison-prairie-restoration-vs-silvopasture]], riparian buffer zones, and wildlife habitat.
 
 Unlike annual bioenergy crops such as corn and soybeans, switchgrass does not require annual tillage, planting, or intensive nitrogen fertilization. This reduces fossil fuel inputs, soil disturbance, and nitrate leaching. The low-input nature of switchgrass production makes it particularly attractive for marginal lands unsuitable for row crop agriculture.
 
@@ -64,7 +64,7 @@ The deep root system makes switchgrass one of the most effective perennial grass
 
 Annual soil organic carbon accumulation under established switchgrass stands ranges from 0.5-1.5 tonnes C/ha/year. Over a 10-year stand life, this represents significant carbon drawdown, particularly when compared to annual row crop systems that typically lose soil carbon. The recalcitrant nature of grass root-derived carbon contributes to long-term soil organic matter stabilization.
 
-Switchgrass provides excellent erosion control on marginal lands, critical areas, and riparian zones. The dense root mat binds soil effectively, reducing sheet and rill erosion by 90% or more compared to bare ground.
+Switchgrass provides excellent [[permplant-willows-salix-erosion-control-fodder]] on marginal lands, critical areas, and riparian zones. The dense root mat binds soil effectively, reducing sheet and rill erosion by 90% or more compared to bare ground.
 
 ## Cultivation and Management
 
@@ -74,7 +74,7 @@ Seeding rates are typically 4-6 kg PLS (pure live seed) per hectare, planted at 
 
 Switchgrass is managed as a perennial crop with a 10-15 year productive stand life. Fertilization requirements are modest compared to annual crops: nitrogen at 50-100 kg N/ha/year is typically sufficient for maximum biomass production. No pesticide applications are normally required after stand establishment.
 
-Harvest is conducted once or twice annually, typically after senescence in late fall or early spring. Single-cut systems (post-senescence harvest) maximize biomass yield and allow nutrient translocation to roots. Two-cut systems (summer + fall) produce higher total biomass but may reduce stand longevity.
+Harvest is conducted once or twice annually, typically after senescence in late fall or early spring. Single-cut systems (post-senescence harvest) maximize biomass yield and allow [[dighton-fungal-nutrient-translocation-element-redistribution]] to roots. Two-cut systems (summer + fall) produce higher total biomass but may reduce stand longevity.
 
 ### Key Cultivars
 
@@ -98,9 +98,11 @@ Switchgrass is increasingly used in landscape architecture for its ornamental qu
 
 ### Forage
 
-Despite its classification as a bioenergy crop, switchgrass has value as summer pasture and hay for livestock. Nutritional quality is highest during early growth stages (crude protein 12-15%), declining rapidly after heading. It is best suited as a component of mixed-species pastures rather than a sole forage source.
+Despite its classification as a bioenergy crop, switchgrass has value as summer pasture and hay for livestock. [[coleman-winter-greens-nutritional-quality-cold-sweetening]] is highest during early growth stages (crude protein 12-15%), declining rapidly after heading. It is best suited as a component of mixed-species pastures rather than a sole forage source.
 
 ## See Also
+
+- [[panicum-miliaceum]]
 
 - [[miscanthus-giganteus]]
 - [[vetiveria-zizanoides]]

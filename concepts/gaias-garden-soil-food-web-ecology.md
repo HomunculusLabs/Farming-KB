@@ -21,13 +21,13 @@ type: concept
 
 The soil beneath our feet is not inert dirt but a living ecosystem teeming with
 organisms that form the foundation of all terrestrial life. In
-[[hemenway-ecological-garden-design|ecological garden design]]. Key practices:
+ecological [[comparison-mandala-garden-design-vs-keyhole-garden-design]]. Key practices:
 
 - **Mulch heavily and continuously.** Organic mulch feeds soil organisms from
-  the top down, just as leaf litter feeds a forest floor. See
+  the top down, just as [[dighton-fungal-decomposition-leaf-litter-dynamics]] feeds a forest floor. See
   [[gaias-garden-cover-crops-soil-building|cover crops and soil building]].
 - **Maintain living roots year-round.** Perennial plants feed soil organisms
-  continuously through root exudates. Bare soil is dead soil.
+  continuously through [[mycorrhizal-root-exudates-pathogen-interactions]]. Bare soil is dead soil.
 - **Minimize pesticide use.** Broad-spectrum pesticides kill beneficial soil
   organisms along with target pests.
 
@@ -38,7 +38,7 @@ soil teems with bacteria, fungi, protozoa, and nematodes, no single
 disease-causing organism can dominate. Beneficial fungi outcompete pathogenic
 fungi for space and resources. Predatory nematodes and microarthropods consume
 pathogens. This biological buffer protects plants more effectively than
-chemical fungicides.
+[[cervantes-chemical-fungicides-insecticides]].
 
 This is why plants in mulched, biologically active soils show dramatically less
 disease than those in clean-cultivated, chemically fertilized beds. The
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,5 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+- [[soil-food-web]]
+- [[gaias-garden-soil-food-web-living-soil]]

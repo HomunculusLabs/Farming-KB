@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-**Tsuga heterophylla**, the western hemlock, is a large evergreen conifer native to the Pacific Northwest coast of North America. It is the state tree of Washington and one of the most abundant and commercially important tree species in the region.
+**Tsuga heterophylla**, the western hemlock, is a large evergreen conifer native to the Pacific Northwest coast of [[psilocybin-north-america-pacific-northwest]]. It is the state tree of Washington and one of the most abundant and commercially important tree species in the region.
 
 Western hemlock is extremely shade-tolerant and is considered the climax dominant species in low-elevation coastal forests from southern Alaska to northern California. It regularly regenerates beneath closed canopies of Douglas-fir and western redcedar.
 
@@ -49,7 +49,7 @@ Elevational range is from sea level to 1,800 m, with optimal growth between 0 an
 
 Optimal soils are deep, acidic, well-drained loams derived from volcanic or sedimentary parent materials. Western hemlock is more tolerant of poor sites and dense shade than Douglas-fir, often occupying north-facing slopes, riparian areas, and sites with shallow or waterlogged soils.
 
-Annual precipitation in its native range varies from 100 to over 500 cm, with significant contribution from fog drip during the dry summer months. Western hemlock has no significant drought tolerance and is absent from rain-shadow areas east of the Coast Range and Cascade Mountains.
+Annual precipitation in its native range varies from 100 to over 500 cm, with significant contribution from fog drip during the dry summer months. Western hemlock has no significant [[dighton-fungal-drought-tolerance-plant-water-relations]] and is absent from rain-shadow areas east of the Coast Range and Cascade Mountains.
 
 Major forest pathogens include the hemlock dwarf mistletoe (*Arceuthobium tsugense*), which causes extensive witches'-broom growth and reduces vigor, and laminated root rot (*Phellinus weirii*), a major cause of mortality in managed stands throughout the Pacific Northwest.
 
@@ -57,11 +57,11 @@ Major forest pathogens include the hemlock dwarf mistletoe (*Arceuthobium tsugen
 
 Western hemlock is the definitive climax species of Pacific Northwest lowland coniferous forests. It succeeds Douglas-fir, Sitka spruce, and western redcedar following stand-replacing disturbances and eventually dominates old-growth stands through its superior shade tolerance and longevity (500–1,200 years).
 
-The species frequently develops **root grafts** between adjacent trees, creating physiologically connected tree clusters. These grafts facilitate resource sharing and may explain the species' competitive ability in dense, multi-aged stands where suppressed trees can persist for decades beneath dominant crowns.
+The species frequently develops **root grafts** between adjacent trees, creating physiologically connected tree clusters. These grafts facilitate [[mycelial-network-resource-sharing-plants]] and may explain the species' competitive ability in dense, multi-aged stands where suppressed trees can persist for decades beneath dominant crowns.
 
-The species forms extensive **ectomycorrhizal networks** with fungal partners including *Suillus*, *Rhizopogon*, *Laccaria*, *Cortinarius*, and *Thelephora*. These associations facilitate nutrient exchange and are particularly important for phosphorus uptake on nitrogen-rich but phosphorus-poor coastal soils.
+The species forms extensive **[[symbiotic-fungi-ectomycorrhizal-networks-overview]]** with fungal partners including *Suillus*, *Rhizopogon*, *Laccaria*, *Cortinarius*, and *Thelephora*. These associations facilitate [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] and are particularly important for phosphorus uptake on nitrogen-rich but phosphorus-poor coastal soils.
 
-**Ganoderma tsugae**, the hemlock varnish shelf, is named for its frequent association with hemlock though it also fruits on Douglas-fir and other conifers. Other polypore fungi including *Fomitopsis pinicola* and *Trametes versicolor* are common saprotrophs on hemlock wood.
+**Ganoderma tsugae**, the hemlock varnish shelf, is named for its frequent association with hemlock though it also fruits on Douglas-fir and other conifers. Other polypore fungi including *Fomitopsis pinicola* and *[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]* are common saprotrophs on hemlock wood.
 
 Old-growth western hemlock stands provide critical habitat for threatened species including the northern spotted owl (*Strix occidentalis caurina*) and marbled murrelet (*Brachyramphus marmoratus*). The species' tendency to develop broken tops and cavities creates important nesting structures.
 

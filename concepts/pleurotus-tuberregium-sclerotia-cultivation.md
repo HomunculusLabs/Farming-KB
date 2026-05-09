@@ -1,5 +1,5 @@
 ---
-title: Pleurotus Tuberregium Sclerotia Cultivation
+title: Pleurotus pleurotus tuberregium sclerotia cultivation Cultivation
 created: 2026-04-28
 tags:
   - pleurotus-tuberregium
@@ -16,9 +16,9 @@ type: concept
 
 # Pleurotus Tuberregium Sclerotia Cultivation
 
-Pleurotus tuberregium (Fr.) Singer, known as the King Tuber Oyster Mushroom, is a
+Pleurotus tuberregium (Fr.) Singer, known as the King Tuber [[cotter-oyster-mushroom-cultivation]], is a
 tuberous basidiomycete indigenous to tropical Africa and the Australasian-Pacific
-regions. It is unique among cultivated mushrooms for producing sclerotia valued as
+regions. It is unique among [[fungi-cultivated-mushrooms-pathogens-competitors]] for producing sclerotia valued as
 both food and medicine independent of its ability to fruit. Sclerotia are dark
 brown, compact masses of mycelial tissue that store food during unfavorable
 conditions and can survive extreme heat and drought. Sclerotia weighing up to 6kg
@@ -87,11 +87,11 @@ rehydrated before use.
 
 ### Bag Method
 Substrate is inoculated at 5% (w/w) spawn rate in bags up to 8kg each. Light is
-not required for sclerotia formation. Temperature maintained around 30C with
+not required for [[growing-gourmet-sclerotia-formation-biology-mushrooms]]. Temperature maintained around 30C with
 moisture retained in the bags. Sclerotia are ready for harvest within 12 weeks
 with fast-growing strains. Yields of 10% fresh sclerotia from wet substrate (5%
-dry mass from dry substrate) can be expected. Biological efficiency up to 73.5%
-has been achieved with improved strains on supplemented sawdust.
+dry mass from dry substrate) can be expected. [[stamets-biological-efficiency-yield]] up to 73.5%
+has been achieved with improved strains on [[oyster-mushroom-supplemented-sawdust-blocks]].
 
 ### Cased Bed Method
 Substrate is laid into 1m2 beds at 20cm depth in bamboo houses with cement

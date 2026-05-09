@@ -1,5 +1,5 @@
 ---
-title: Hallucinogenic Mushroom Harm Reduction
+title: emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative adverse-effects-and-harm-reduction-psilocybin
 created: 2026-04-28
 tags:
   - harm-reduction
@@ -18,10 +18,10 @@ type: concept
 
 ## Overview
 
-The extent and quality of information on hallucinogenic mushrooms
+The extent and quality of information on [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]
 disseminated via prevention activities, leaflets, and other channels in
 EU Member States is not well documented. Many prevention programmes
-today include information on hallucinogenic drugs alongside information
+today include information on [[metzner-hallucinogenic-drugs-psychotherapy-shamanism]] alongside information
 about other drugs to raise awareness. Only a few specialised prevention
 materials relating specifically to hallucinogenic mushroom use have been
 reported.
@@ -50,7 +50,7 @@ UK customers were being targeted.
 The quality and amount of information provided by those selling the
 product varies considerably. As a rule, information leaflets provide no
 information about:
-- Maximum shelf life
+- Maximum [[psilocybin-shelf-life-stability]]
 - Nature of possible side-effects
 - Proportion of active substances (psilocybin and [[emcdda-hallucinogenic-mushroom-health-risks]] for the risks that
   harm reduction aims to mitigate
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

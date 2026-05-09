@@ -61,7 +61,7 @@ The fruit is a flattened loment (segmented pod) 2–5 cm long, breaking into 4�
 
 ## Distribution and Habitat
 
-Native to tropical and subtropical regions of the Americas, from southern Florida and the Caribbean through Central America to northern Argentina and southern Brazil.
+Native to tropical and subtropical regions of the Americas, from southern Florida and the Caribbean through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to northern Argentina and southern Brazil.
 
 The species has naturalized widely across Africa, Asia, and the Pacific Islands. In Australia, it is a common component of native and improved pastures in coastal subtropical regions of Queensland and New South Wales.
 
@@ -75,9 +75,9 @@ D. incanum is primarily valued as a persistent pasture legume in tropical and su
 
 It forms effective symbiotic relationships with Bradyrhizobium and Rhizobium strains, fixing atmospheric nitrogen at rates of 50–150 kg N/ha/year depending on growing conditions. This nitrogen contribution benefits companion grasses in mixed pastures.
 
-As a ground cover, it provides effective erosion control on slopes and degraded land. The prostrate growth habit forms a dense mat that suppresses weed establishment and protects soil from rainfall impact.
+As a ground cover, it provides effective [[permplant-willows-salix-erosion-control-fodder]] on slopes and degraded land. The prostrate growth habit forms a dense mat that suppresses weed establishment and protects soil from rainfall impact.
 
-The species is palatable to cattle, sheep, and goats, though palatability decreases as plants mature and become woody. Regular grazing or cutting encourages leafy regrowth and maintains nutritional quality.
+The species is palatable to cattle, sheep, and goats, though palatability decreases as plants mature and become woody. Regular grazing or cutting encourages leafy regrowth and maintains [[coleman-winter-greens-nutritional-quality-cold-sweetening]].
 
 ## Pharmacology and Traditional Medicine
 
@@ -89,7 +89,7 @@ Some Desmodium species produce allelopathic compounds that inhibit germination o
 
 ## Cultivation
 
-Establishment is primarily from seed, which requires scarification or acid treatment to break physical dormancy caused by the hard seed coat. Inoculation with cowpea-type Bradyrhizobium strains improves nodulation and nitrogen fixation.
+Establishment is primarily from seed, which requires scarification or acid treatment to break physical dormancy caused by the hard seed coat. Inoculation with cowpea-type Bradyrhizobium strains improves nodulation and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
 
 Seed is broadcast or drilled at 2–4 kg/ha into a well-prepared seedbed. Germination occurs within 7–14 days under adequate moisture. Early growth is slow but accelerates once the root system is established.
 
@@ -101,9 +101,9 @@ D. incanum provides nectar and pollen resources for native bees, butterflies, an
 
 The sticky loment segments play a dual ecological role: dispersing seeds across the landscape via mammal fur and bird feathers, while occasionally causing mild irritation to livestock when adhered to skin or ingested.
 
-In its native range, D. incanum serves as a host plant for several Lepidoptera species, including skipper butterflies (Hesperiidae) whose larvae feed on the foliage. This trophic role supports broader food web dynamics in tropical pasture ecosystems.
+In its native range, D. incanum serves as a host plant for several Lepidoptera species, including skipper butterflies (Hesperiidae) whose larvae feed on the foliage. This trophic role supports broader food web dynamics in [[mollison-designers-tropical-pasture-grass-species-and-establishment]] ecosystems.
 
-Root exudates from Desmodium species can enhance mycorrhizal colonization of neighboring plants, potentially improving phosphorus uptake in low-fertility tropical soils. This facilitative interaction is an underexplored benefit in mixed-species pastures.
+Root exudates from Desmodium species can enhance [[arbuscular-mycorrhizal-colonization-patterns]] of neighboring plants, potentially improving phosphorus uptake in low-fertility tropical soils. This facilitative interaction is an underexplored benefit in mixed-species pastures.
 
 ## See Also
 

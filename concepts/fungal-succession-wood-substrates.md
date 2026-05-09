@@ -16,12 +16,12 @@ type: concept
 
 # Fungal Succession on Wood Substrates
 
-Fungal succession on dead wood is one of the best-documented
-patterns in fungal ecology, involving predictable sequences
+Fungal succession on [[fungal-dead-wood-diversity]] is one of the best-documented
+patterns in [[gadd-fungal-ecology-endophytes]], involving predictable sequences
 of fungal species that colonize, decompose, and replace each
 other as wood chemistry changes over time. Dead wood
 represents a massive carbon pool in forest ecosystems, and
-the fungi that decompose it drive nutrient cycling and
+the fungi that decompose it drive [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and
 create habitat for countless other organisms. The study of
 fungal succession on wood integrates concepts from
 [[wood-inhabiting-microfungi]],
@@ -40,7 +40,7 @@ incorporated into the mineral soil horizon.
 The chemical composition of the wood is a primary
 determinant of which fungi can colonize and decompose it.
 Heartwood, with its extractive compounds and modified
-lignin, supports a different fungal community than sapwood.
+lignin, supports a different [[air-pollution-fungal-community-responses]] than sapwood.
 Coniferous wood, with its resin acids and phenolic
 compounds, presents different challenges than hardwood.
 This chemical diversity is part of what makes [[biodiversity-fungi-temperate-boreal-forests]]), where lower
@@ -48,7 +48,7 @@ temperatures slow decomposition rates. The tree species
 composition of the forest determines the range of wood
 types available, influencing the pool of potential
 colonizers. Seasonal patterns of temperature and
-precipitation create periodicity in fungal fruiting and
+precipitation create periodicity in [[brassinosteroid-fungal-fruiting-body-morphology]] and
 colonization.
 
 ### Biotic Interactions
@@ -64,7 +64,7 @@ benefit later species.
 
 ## Resupinate and Cryptic Basidiomycetes
 
-Many of the fungi involved in wood decomposition are
+Many of the fungi involved in [[fungal-wood-decomposition-spatial-variation]] are
 resupinate (crust-like) basidiomycetes that form thin,
 inconspicuous fruiting bodies on the underside of logs or
 within cracks in the wood. These tiny resupinate saprotrophs
@@ -95,3 +95,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[gadd-fungal-wood-succession]]

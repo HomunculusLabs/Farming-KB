@@ -12,8 +12,8 @@ type: concept
 
 Stories about involuntary intoxications with the dark-spored,
 dung-inhabiting mushrooms of the genus Panaeolus have been in
-circulation since at least the early nineteenth century. These accounts
-of accidental ingestion and their often dramatic psychoactive effects
+circulation since at least the early [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]]. These accounts
+of [[psilocybin-accidental-ingestion-australia]] and their often dramatic psychoactive effects
 form an important chapter in the history of psychotropic mushroom
 knowledge in Europe and America, predating the scientific identification
 of psilocybin by more than a century.
@@ -21,7 +21,7 @@ of psilocybin by more than a century.
 ## The 1816 Hyde Park Incident
 
 In 1816, an impoverished man collected mushrooms in London's Hyde Park
-which he thought to be edible white mushrooms (Agaricus bisporus). Soon
+which he thought to be edible white mushrooms ([[genetic-improvement-agaricus-bisporus-molecular-approaches]]). Soon
 after ingesting them, his field of vision darkened and he saw fog while
 feeling lightheaded and dizzy. Trembling, he sank into his chair as his
 strength drained away. Some time later the dizziness subsided and his
@@ -32,7 +32,7 @@ Panaeolus species.
 ## The 1799 Connection
 
 These accounts are highly reminiscent of the famous 1799 intoxication
-with Psilocybe semilanceata from St. James Green Park described by
+with [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] from St. James Green Park described by
 Everard Brande. The similarity of symptoms across different mushroom
 genera suggested a common psychoactive principle, though this would not
 be confirmed until the isolation of psilocybin in 1958.
@@ -66,7 +66,7 @@ facilities.
 
 ## The 1970 Leipzig Intoxication
 
-In 1970, another poisoning case with Panaeolus subbalteatus occurred in
+In 1970, another poisoning case with [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]] occurred in
 Leipzig, Germany. Similar to the 1915 New York incident, the mushrooms
 spontaneously emerged among a culture of artificially cultivated
 mushrooms (Stropharia rugoso-annulata) and were eaten by mistake. The
@@ -124,13 +124,16 @@ Psilocybe contained psychoactive alkaloids. The accounts demonstrated
 that psilocybin and related compounds were not limited to the
 Mesoamerican species studied by Wasson and Heim but occurred globally
 in diverse ecological niches. Modern analytical work has confirmed that
-Panaeolus cinctulus, Panaeolus cyanescens, and several other species
+Panaeolus cinctulus, [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]], and several other species
 within the genus contain psilocybin, psilocin, and in some cases
 baeocystin and norbaeocystin at concentrations that can produce
 clinically significant effects.
 
 ## See Also
 
-- [[gartz-european-psychoactive-mushroom-species]]
-- [[mycophilia-mycophobia-european-mushroom-history]]
-- [[gartz-magic-mushrooms-global-distribution-patterns]]
+- gartz-european-psychoactive-mushroom-species
+- mycophilia-mycophobia-european-mushroom-history
+- gartz-magic-mushrooms-global-distribution-patterns
+- [[panaeolus-cinctulus]]
+- [[panaeolus-sphinctrinus]]
+- [[agaricus-bisporus]]

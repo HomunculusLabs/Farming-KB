@@ -6,14 +6,14 @@ tags: [fungal-pathogen, dry-bubble, mushroom-disease, casing-contaminant, soil-b
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/the-mushroom-cultivator-stamets.md
+  sources: []
 ---
 
 # Verticillium malthousei
 
 ## Taxonomy
 
-Verticillium malthousei Ware is a fungal pathogen classified in the Fungi Imperfecti
+Verticillium malthousei Ware is a [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] classified in the Fungi Imperfecti
 (Deuteromycota), order Moniliales, family Moniliaceae. The genus name derives from the
 Latin "verticillus" meaning whorled or having branches on the same plane, in reference
 to the distinctive shape of the conidiophore.
@@ -39,7 +39,7 @@ downy mycelium and often vertically splits, roughly resembling a peeled banana. 
 becomes disproportionately small relative to the fatter-than-normal stem. The overall
 texture of the mushroom is dry and leathery.
 
-When attacking Psilocybe cubensis, parasitized caps frequently become plane at an early
+When attacking [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]], parasitized caps frequently become plane at an early
 stage. The stem becomes swollen and hollow, narrowing radically towards the apex. The
 "Verticillium spots" commonly reported on Agaricus (a white mushroom) are more
 accurately called "Verticillium streaks" on P. cubensis, which has a brownish cap.
@@ -53,9 +53,9 @@ relatively tall. The spores are single-celled and much smaller than those of Dac
 
 ## Habitat and Ecology
 
-Verticillium is abundant in most soils and is introduced into the growing environment
+Verticillium is abundant in most soils and is introduced into the [[cannabis-growing-environment-setup]]
 via the materials composing the casing layer. The organism grows within a broad
-temperature range although warmer temperatures (62 degrees F and above) are preferred.
+[[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] although warmer temperatures (62 degrees F and above) are preferred.
 Singer (1961) reported an optimum of 72 degrees F.
 
 Verticillium is promoted during cropping under conditions of excessive humidity combined
@@ -77,7 +77,7 @@ The sciarid fly is a primary vector for the spread of Verticillium spores from
 parasitized mushrooms to healthy ones. Verticillium spores are highly viscous and are
 best transmitted by motile hosts, especially mites and other insects.
 
-Steane (1979) reported that Agaricus bitorquis seemed especially resistant to
+Steane (1979) reported that [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]] seemed especially resistant to
 Verticillium disease whereas Agaricus brunnescens was more susceptible. Farms regularly
 suffering from this disease could greatly reduce infection levels by intermittently
 growing A. bitorquis between A. brunnescens crops.
@@ -89,7 +89,7 @@ growing A. bitorquis between A. brunnescens crops.
 - **Isolation:** Removal or isolation of infected cultures; carefully pick infected
   mushrooms, seal them in a plastic bag, and leave the growing room with minimal
   contact with unaffected areas
-- **Environmental Control:** Increasing air circulation and lowering humidity
+- **[[eclss-environmental-control-life-support]]:** Increasing air circulation and lowering humidity
 - **Pest Control:** Elimination of flies and mites, which serve as vectors
 - **Watering:** Never water an infected bed until diseased mushrooms have been removed
   and infected zones salted with alkaline buffer (baking soda, sodium hypochlorite)

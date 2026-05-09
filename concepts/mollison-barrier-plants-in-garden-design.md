@@ -45,8 +45,8 @@ if space permits:
 
 - A deep-rooted broadleaf (e.g., comfrey)
 - A clump grass which does not seed down or is not browsed
-  (e.g., lemongrass, Vetiver grass)
-- A carpeting plant such as sweet potato, nasturtium, or
+  (e.g., lemongrass, [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]])
+- A carpeting plant such as [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]], nasturtium, or
   Impatiens
 - A dense low shrub (Oncoba, Coprosma, Echium fastuosum)
 - A bulb such as Canna, Agapanthus
@@ -60,7 +60,7 @@ first placed, they need to be mulched, manured, and watered.
 Lower garden windbreak species, especially lemongrass
 (Cymbopogon citratus) and comfrey (Symphytum officinale), are
 as useful in preventing kikuyu grass intrusion as they are for
-repetitive cutting for mulch in the vegetable garden. Many
+repetitive cutting for mulch in the [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]. Many
 people use both these species as a combined kikuyu barrier and
 mulch crop. Lemongrass does not seed down aggressively and its
 clumping habit makes it ideal for edging garden beds.
@@ -90,8 +90,8 @@ Against hot, dry, or salt-bearing winds on seacoasts, cliffs,
 or exposed sites, barrier plantings serve a critical shelter
 function. Salt-tolerant species such as Casuarina, coast
 wattle (Acacia sophorae), and various saltbushes (Atriplex)
-create effective windbreaks. The compound windbreak design
-includes ground covers, low shrubs, and taller trees in a
+create effective windbreaks. The compound [[comparison-windbreak-design-vs-species-selection]]
+includes [[permaculture-plants-food-forest-ground-covers-bamboos]], low shrubs, and taller trees in a
 layered arrangement to lift wind smoothly over protected areas.
 
 ## Contoured Erosion Barriers
@@ -111,7 +111,7 @@ In Gangamma's Mandala design, the hedge sequence from inner to
 outer edge is: vetiver or lemon grass, comfrey, arrowroot, then
 a taller hedge of Casuarina, papaya, castor, Leucaena, pigeon
 pea, and banana. This layered sequence serves simultaneously
-as weed barrier, wind protection, mulch source, animal
+as weed barrier, [[cervantes-wind-protection-outdoor-cannabis]], mulch source, animal
 deterrent, and food producer. The principle of layered barrier
 hedgerows applies broadly to any garden design.
 
@@ -139,4 +139,7 @@ remains dense enough to resist invasion.
 
 - [[mollison-tropical-mulch-systems-and-materials]]
 - [[mollison-avenue-cropping-with-legumes]]
-- [[permaculture-designers-manual-tropical-climates]]
+- permaculture-designers-manual-tropical-climates
+- [[symphytum-officinale]]
+- [[cymbopogon-citratus]]
+- [[mollison-designers-dryland-garden-and-oasis-design]]

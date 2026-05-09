@@ -17,7 +17,7 @@ sources:
 
 Adam Vorbrodt is a researcher known for collaborative work with
 [[psilocybe-cubensis]]. His research
-contributed to understanding how plant growth regulators can influence
+contributed to understanding how plant [[ingham-natural-growth-regulators-soil-microbes]] can influence
 fungal development and opened new avenues for investigating cross-kingdom
 hormonal signaling between plants and fungi.
 
@@ -36,8 +36,8 @@ The primary research contribution involves systematic testing of multiple
 brassinosteroid compounds on [[epibrassinolide]], [[jochen-gartz]] placed this research within
 the context of Gartz's broader program investigating the biology and
 chemistry of psychoactive fungi. Gartz's extensive body of work includes
-discovery of new tryptamine compounds in mushrooms, analysis of psilocybin
-and psilocin variation across species, studies on mushroom cultivation
+discovery of new tryptamine compounds in mushrooms, [[hplc-analysis-of-psilocybin-and-psilocin]]
+and [[psilocybin-psilocin-variation-across-flushes]] across species, studies on [[accessible-mushroom-cultivation-for-disabilities]]
 parameters, investigation of metabolic pathways for tryptamine biosynthesis,
 and documentation of worldwide distribution of psychoactive mushrooms.
 
@@ -61,7 +61,7 @@ variability.
 
 The research on brassinosteroid effects on fungi has implications beyond the
 specific organism studied: new approaches for enhancing edible mushroom
-cultivation (Agaricus bisporus, Pleurotus spp., Lentinula edodes),
+cultivation ([[genetic-improvement-agaricus-bisporus-molecular-approaches]], Pleurotus spp., [[staycare-lentinula-edodes-in-bioremediation]]),
 development of natural growth promoters for fungal fermentation processes,
 insights into co-evolution of plant and fungal signaling systems, and novel
 strategies for managing plant-fungal interactions in agriculture.
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

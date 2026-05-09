@@ -1,16 +1,9 @@
 ---
-title: "Coprophilous Fungi Biodiversity Indicators"
-created: 2026-05-02
-updated: 2026-05-02
-type: concept
-tags: [fungal-ecology, mycology]
-sources: []
----
 ---
 title: Coprophilous Fungi as Biodiversity Indicators
 created: 2026-04-26
 tags:
-  - [[dighton-soil-fungal-biodiversity-assessment]]
+  - dighton-soil-fungal-biodiversity-assessment
   - habitat quality
   - conservation monitoring
 date: 2026-04-25
@@ -24,7 +17,7 @@ type: concept
 
 Coprophilous (dung-inhabiting) fungi occupy a unique ecological niche
 at the interface of fungal, plant, and animal communities. Their
-specialized requirements, relatively rapid life cycles, and sensitivity
+specialized requirements, relatively rapid [[bloomfield-rust-fungi-life-cycles-barberry-wheat]], and sensitivity
 to habitat conditions make them potentially valuable indicators of both
 biodiversity and habitat quality, though their use in monitoring
 programs remains underdeveloped.
@@ -35,7 +28,7 @@ Coprophilous fungi play important ecological roles that extend beyond
 their specialized substrate:
 
 - They are primary decomposers of herbivore dung, facilitating
-  nutrient cycling in grassland and forest ecosystems
+  [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in grassland and forest ecosystems
 - They produce a remarkable diversity of [[fungal-spore-dispersal-mechanisms]] often depend on herbivore behavior,
   creating tight links between fungal and animal populations
 
@@ -45,7 +38,7 @@ Richardson (2001) proposed that coprophilous fungi could be useful
 indicators of both biodiversity and habitat quality. This potential
 rests on several attributes:
 
-- **Rapid community assembly**: Coprophilous fungal communities
+- **Rapid community assembly**: Coprophilous [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
   develop quickly on fresh dung, allowing for relatively fast
   assessments
 - **Species specificity**: Many coprophilous fungi show preferences
@@ -64,7 +57,7 @@ specificity creates important conservation linkages:
 
 - With every loss of habitat or host animal species, the potential
   for loss or reduction in the mycobiota is high
-- Conservation of coprophilous fungal diversity requires conservation
+- Conservation of coprophilous [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] requires conservation
   of the herbivore species on which they depend
 - Changes in grazing management practices can alter the availability
   of suitable dung substrates
@@ -73,7 +66,7 @@ specificity creates important conservation linkages:
 
 ## Integration into Biodiversity Programs
 
-For coprophilous fungi to be integrated into biodiversity assessment
+For coprophilous fungi to be integrated into [[fungal-biodiversity-assessment-methods]]
 and conservation programs, several needs must be addressed:
 
 - **Comprehensive monographic treatments**: Taxonomic revisions of
@@ -91,7 +84,7 @@ and conservation programs, several needs must be addressed:
 ## Culture and Isolation Considerations
 
 Some coprophilous fungi are difficult to culture, possibly because of
-delayed spore germination. Several factors influence the success of
+delayed [[growing-gourmet-spore-germination-strain-isolation]]. Several factors influence the success of
 isolation attempts:
 
 - Age of the spore is correlated with probability of germination
@@ -116,4 +109,6 @@ possible to identify genuinely rare and threatened coprophilous fungi.
 
 Efforts should focus on habitat conservation as the primary strategy
 ## See Also
+
+- [[biodiversity-coprophilous-zygomycetes-dung]]
 - [[spore-dispersal]]

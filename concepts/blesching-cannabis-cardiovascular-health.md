@@ -1,5 +1,5 @@
 ---
-title: Cannabis for Cardiovascular Health (Blesching, Cannabis Health Index)
+title: Cannabis for Cardiovascular Health (Blesching, blesching-cannabis-health-index-autoimmune-conditions)
 created: 2026-04-26
 updated: 2026-04-25
 sources: "Uwe Blesching, The Cannabis Health Index (CHI)"
@@ -30,7 +30,7 @@ myocardial infarction or heart attack. In 2007, the CDC identified heart
 disease as the leading cause of death in the U.S., with more than 600,000
 victims that year.
 
-Other contributing factors include high blood pressure, metabolic syndrome
+Other [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]] include high blood pressure, [[cannabis-metabolic-syndrome-research]]
 (insulin resistance), excess weight, drug use (especially stimulants), chronic
 stress, mineral imbalances, pharmaceutical drugs, surgical procedures, toxin
 build-up, and degeneration from chronic free radical overexposure.
@@ -83,7 +83,7 @@ A Geneva study (2009) showed that CB2 activation might also protect ischemic
 
 | Drugs | Study | Year, Place, Key Results | CHI |
 |-------|-------|--------------------------|-----|
-| CB2 agonist JWH-133 | Animal (mice) | 2009, Geneva, Switzerland: Reduction of infarct size and oxidative stress | 2 |
+| CB2 agonist JWH-133 | Animal (mice) | 2009, Geneva, Switzerland: Reduction of infarct size and [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] | 2 |
 | CBD | Animal (rats) | 2009, Sao Paulo, Brazil: Reduced all stress responses -- anxiety, high blood pressure, rapid heart rate | 2 |
 | Cannabinoid drugs | Meta-analysis | 2007, Dunedin, New Zealand: Endocannabinoid receptors involved in vasodilation, cardiac protection, blood pressure control, anti-inflammation, anti-atherosclerosis | 4 |
 | CBD | Animal (rats) | 2007, Jerusalem, Israel: Substantial in vivo cardioprotective effect from ischemia | 3 |
@@ -103,7 +103,7 @@ endogenous) have cardioprotective properties.
   sativas
 - Raw, fresh leaf or leaf juice contains significantly higher amounts of
   CBD-acid than heated or processed plant matter
-- CB2 activation via (E)-beta-caryophyllene (found in black pepper, cloves,
+- CB2 activation via (E)-beta-caryophyllene (found in [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], cloves,
   cinnamon, basil, rosemary, oregano) can stimulate cardioprotective pathways
   without psychoactive effects
 
@@ -134,6 +134,6 @@ late physical injuries, and the nature of coping strategies.
 ## See Also
 
 - [[blesching-cannabis-als]]
-- [[blesching-endocannabinoid-system-overview]]
+- [[endocannabinoid-system-overview]]
 - [[blesching-cannabis-diabetes]]
 - [[cannabis-chronic-pain-management]]

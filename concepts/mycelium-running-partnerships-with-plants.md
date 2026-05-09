@@ -3,7 +3,8 @@ title: "Fungal Partnerships with Plants"
 created: 2026-04-26
 updated: "2025-04-23"
 sources:
-  - "raw/papers/mycelium-running-stamets.md"
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 tags: [mycelium, plants]
 ---
@@ -24,8 +25,8 @@ ecosystem health and are central to [[companion-planting-with-fungi]]:
 
 ## The Precautionary Principle
 
-Stamets argues that introducing beneficial saprophytic mushrooms to
-forests conforms to the [[mycorrhizal-networks]] -- mycorrhizal networks in
+Stamets argues that introducing beneficial [[growing-gourmet-saprophytic-mushrooms-decomposers]] to
+forests conforms to the [[mycorrhizal-networks]] -- [[dighton-mycorrhizal-networks-carbon-transfer]] in
   detail
 - [[mycorrhiza]] -- mycorrhiza overview
 - [[mycelium-running-symbiotic-fungi-relationships]] -- existing page
@@ -108,4 +109,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

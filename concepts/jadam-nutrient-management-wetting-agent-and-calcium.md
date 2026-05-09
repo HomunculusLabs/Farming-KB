@@ -1,5 +1,5 @@
 ---
-title: "JADAM Nutrient Management -- Wetting Agent and Calcium"
+title: "JADAM green-cannabis-grow-bible-nutrient-management-ppm -- jadam-wetting-agent-jwa and Calcium"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
@@ -21,10 +21,10 @@ Container + ingredient + water + handful of leaf mold. That is it.
 | Type | Dilution | When to Use | Notes |
 |------|----------|-------------|-------|
 | Wild grass JLF | ~100x | Throughout growth | Main additional fertilizer; balanced nutrition |
-| GC-JLF (grass + crop residues) | ~100x | Throughout growth | Best nutritional balance for the crop |
+| GC-JLF (grass + crop residues) | ~100x | Throughout growth | Best [[jadam-nutritional-balance-fertilizer]] for the crop |
 | Food waste JLF | 30-500x | Early to mid-growth | Nitrogen ~20x higher than wild grass JLF |
 | Fruit-based JLF | 20-300x | Throughout growth | Tomato JLF for tomatoes, strawberry JLF for strawberries |
-| Calcium JLF | As needed | Flowering/fruiting | Promotes reproductive growth |
+| Calcium JLF | As needed | Flowering/fruiting | Promotes [[knf-reproductive-growth-stage]] |
 | Potassium JLF | As needed | Fruit growth | Promotes fruit enlargement |
 
 ### Fruit-Based JLF Philosophy
@@ -33,7 +33,7 @@ The fruit is the "egg" of the plant -- it contains all nutrients needed for the 
 ## [[teaming-with-nutrients-fertilizer-application]] Programs
 
 ### Against Stage-Based Fertilization
-JADAM rejects the idea that crops need different fertilizers at different growth stages (growth stage differentiation). This is seen as a marketing tool for chemical fertilizer sales. Instead, provide balanced nutrition throughout the growing season.
+JADAM rejects the idea that crops need different fertilizers at different growth stages (growth stage differentiation). This is seen as a marketing tool for chemical fertilizer sales. Instead, provide balanced nutrition throughout the [[savory-growing-season-and-non-growing-season-management]].
 
 ### Nutritional Balance Principle
 - 96% of plant growth from organic nutrients (C, H, O from photosynthesis)
@@ -56,7 +56,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -98,4 +98,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

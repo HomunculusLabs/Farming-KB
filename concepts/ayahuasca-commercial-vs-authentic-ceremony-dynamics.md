@@ -1,5 +1,5 @@
 ---
-title: Ayahuasca Commercial Versus Authentic Ceremony Dynamics
+title: Ayahuasca Commercial Versus ayahuasca commercial vs authentic ceremony dynamics Dynamics
 created: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -18,14 +18,14 @@ tags:
 
 The tension between commercial and authentic ayahuasca
 ceremonies is one of the central issues in contemporary
-ayahuasca tourism. R. Stuart's 2002 field observations
+[[stuart-r-ayahuasca-tourism-cautionary-ethnography]]. R. Stuart's 2002 field observations
 in Peru's Ucayali region provided an early firsthand
 account of how the economic demands of tourism reshape
 traditional ceremonial practice.
 
 ## Defining Authenticity in Ceremony
 
-Traditional ayahuasca ceremonies are conducted within
+Traditional [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] are conducted within
 a framework of community relationships, dietary
 restrictions, and spiritual preparation that extends
 far beyond the ceremony itself. Participants typically

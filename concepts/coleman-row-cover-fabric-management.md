@@ -1,5 +1,5 @@
 ---
-title: "Row Cover Fabric Management"
+title: "coleman row cover fabric management Fabric Management"
 created: 2026-04-28
 tags: [row-covers, frost-protection, pest-exclusion, microclimate, season-extension]
 date: 2026-04-25
@@ -10,13 +10,13 @@ type: concept
 
 # Row Cover Fabric Management
 
-Floating row covers are a critical component of Eliot Coleman's winter
+Floating [[solomon-row-covers-and-season-extension]] are a critical component of Eliot Coleman's winter
 harvest system. These spun-bonded polyester or polypropylene fabrics
 provide a secondary layer of protection within high tunnels, adding
 several degrees of [[light-deprivation-cannabis]].
 
 The medium-weight cover is the workhorse of the winter system. It
-provides meaningful frost protection without significantly reducing
+provides meaningful [[holzer-frost-protection-techniques]] without significantly reducing
 light, which is already scarce during winter months.
 
 ## Securing and Installation Methods
@@ -62,7 +62,7 @@ weight of the fabric and the conditions under which it is deployed.
 Key factors include:
 - **Wind speed:** Calm conditions provide the best insulation.
   Windy conditions strip heat from the covered area rapidly.
-- **Soil heat:** Well-prepared beds with high organic matter
+- **Soil heat:** Well-prepared beds with high [[hamilton-composting-and-organic-matter-management]]
   radiate more stored heat. See [[coleman-high-tunnel-cold-frame-design]] for the
 primary structure and [[coleman-moveable-greenhouse-system]] for how
 multiple layers of protection work together across different growing
@@ -86,3 +86,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[coleman-row-cover-trial-lightweight-heavyweight-sun-run]]

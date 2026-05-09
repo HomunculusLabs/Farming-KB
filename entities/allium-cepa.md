@@ -56,7 +56,7 @@ The primary center of diversity is Central Asia, spanning from Turkmenistan and 
 
 Secondary diversity centers exist in the Mediterranean region and in India, where distinct landrace groups have evolved over centuries of cultivation.
 
-Cultivation has spread globally, with major production concentrated in China, India, the United States, Turkey, Pakistan, and Russia.
+Cultivation has spread globally, with major production concentrated in China, India, the [[dmt-containing-plants-united-states-halpern]], Turkey, Pakistan, and Russia.
 
 Onions are adapted to a wide range of temperate and subtropical climates, though bulb formation is strongly photoperiod-dependent.
 
@@ -66,7 +66,7 @@ Short-day cultivars require 10–12 hours of daylight and are grown at lower lat
 
 Onions are propagated either from seed or from sets (small, dormant bulbs produced the previous season).
 
-Direct seeding requires careful soil moisture management, as onion seeds are small and have low vigor during emergence.
+[[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] requires careful soil moisture management, as onion seeds are small and have low vigor during emergence.
 
 Transplant production in nurseries or plug trays is common for large-scale commercial operations, allowing better establishment and earlier maturity.
 
@@ -102,11 +102,11 @@ The antioxidant capacity of onion peel extracts is among the highest of common f
 
 ## Pests and Diseases
 
-The onion thrips (*Thrips tabaci*) is the most damaging insect pest of onion worldwide, causing both direct feeding injury and vectoring iris yellow spot virus.
+The onion thrips (*Thrips tabaci*) is the most damaging [[ingham-foliar-insect-pest-deterrence-mechanisms]] of onion worldwide, causing both direct feeding injury and vectoring iris yellow spot virus.
 
 Onion maggot (*Delia antiqua*) larvae feed on the bulb and root system, often causing complete plant loss in heavily infested fields.
 
-Downy mildew (*Peronospora destructor*) and purple blotch (*Alternaria porri*) are the two most important foliar diseases in humid production regions.
+[[cervantes-downy-mildew-fungal-blight]] (*Peronospora destructor*) and purple blotch (*Alternaria porri*) are the two most important foliar diseases in humid production regions.
 
 Basal rot, caused by *Fusarium oxysporum* f. sp. *cepae*, is a soil-bone pathogen that develops during storage and can destroy entire crops post-harvest.
 

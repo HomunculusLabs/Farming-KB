@@ -5,7 +5,8 @@ updated: 2026-04-21
 type: concept
 tags: [fukuoka, natural-farming]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
 ---
 
@@ -17,9 +18,9 @@ After that, he hardly does anything in the way of water management. For the firs
 
 ## The Compact Variety Principle
 
-This principle -- that small, sturdy plants produce more grain per unit of straw than large, leafy ones -- applies across all grain crops. Fukuoka's approach runs directly counter to modern agricultural science, which breeds for maximum vegetative growth and responds with heavy fertilizer applications. His naturally-grown plants have inherently higher harvest indices because they grow closer to their wild form.
+This principle -- that small, sturdy plants produce more grain per unit of straw than large, leafy ones -- applies across all grain crops. Fukuoka's approach runs directly counter to modern agricultural science, which breeds for maximum [[cannabis-vegetative-growth-stage]] and responds with heavy fertilizer applications. His naturally-grown plants have inherently higher harvest indices because they grow closer to their wild form.
 
-The harvest index (the ratio of grain to total above-ground biomass) is a critical measure of agricultural efficiency. Modern rice varieties, bred for response to chemical fertilizers, often have harvest indices of 0.4 to 0.5, meaning that half or more of the plant's energy goes into straw. Fukuoka's compact, naturally-grown varieties achieved harvest indices exceeding 0.5, with rice weight actually exceeding straw weight in good years.
+The harvest index (the ratio of grain to total above-ground biomass) is a critical measure of agricultural efficiency. Modern rice varieties, bred for response to [[cervantes-chemical-fertilizers-guide]], often have harvest indices of 0.4 to 0.5, meaning that half or more of the plant's energy goes into straw. Fukuoka's compact, naturally-grown varieties achieved harvest indices exceeding 0.5, with rice weight actually exceeding straw weight in good years.
 
 ## Why Modern Rice Is Vulnerable
 
@@ -29,13 +30,13 @@ Cultivate a flooded rice field with a plough or tractor and the soil becomes def
 
 ## The Rice Variety Selection
 
-Fukuoka experimented with many rice varieties over the years. His standard yields were 22 bushels (1,300 pounds) rice per quarter acre, with an equal yield of winter grain. In good years with the right variety, he achieved 27.5 bushels (1,650 pounds). His preferred variety was a southern glutinous type that produced well under natural conditions.
+Fukuoka experimented with many rice varieties over the years. His standard yields were 22 bushels (1,300 pounds) rice per [[fukuoka-agriculture-tomorrow-quarter-acre-vision]], with an equal yield of [[direct-seeded-no-tillage-rice-winter-grain-succession]]. In good years with the right variety, he achieved 27.5 bushels (1,650 pounds). His preferred variety was a southern glutinous type that produced well under natural conditions.
 
 The key was selecting varieties that grow true to their natural form -- compact, sturdy, and resistant without chemical intervention. He deliberately avoided the modern tall, leafy varieties bred for response to heavy nitrogen fertilization. This selection process mirrors the broader [[fukuoka-road-do-nothing-farming]] ethos: rather than pushing plants to maximum vegetative growth through human effort, the farmer allows the plant to express its natural form. The result is not only simpler and less labor-intensive, but actually more productive in terms of the ratio that matters most -- food produced per unit of energy and resources invested.
 
 ## Connection to Natural Farming Principles
 
-Dry-field rice cultivation directly exemplifies several of Fukuoka's [[fukuoka-natural-soil-fertility]] principle: soil that is not ploughed, flooded, or chemically treated develops its own structure and water-holding capacity over time. Each year of no-till, mulch-based cultivation improves the soil, creating a positive feedback loop that makes the method increasingly effective.
+Dry-field [[jadam-rice-cultivation-methods]] directly exemplifies several of Fukuoka's [[fukuoka-natural-soil-fertility]] principle: soil that is not ploughed, flooded, or chemically treated develops its own structure and water-holding capacity over time. Each year of no-till, mulch-based cultivation improves the soil, creating a positive feedback loop that makes the method increasingly effective.
 
 ## Related Concepts
 
@@ -62,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -104,4 +105,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

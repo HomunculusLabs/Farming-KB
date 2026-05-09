@@ -1,10 +1,11 @@
 ---
-title: "How do cover crops suppress weeds?"
+title: "How do gaias-garden-cover-crops-soil-building suppress weeds?"
 created: 2026-04-28
 tags: [query, cover-crops, weeds, soil-health]
 date: 2026-05-02
 updated: 2026-05-02
-sources: []
+sources:
+  - "raw/papers/eliot-coleman-the-new-organic-grower.md"
 type: query
 ---
 
@@ -13,8 +14,8 @@ type: query
 ## Short Answer
 
 Cover crops suppress weeds by filling ecological space before weeds can occupy it.
-They shade the soil, compete for water and nutrients, protect bare ground, and sometimes release allelopathic compounds that slow weed germination.
-The strongest weed control comes from matching species, planting density, timing, and termination method to the crop that follows.
+They shade the soil, compete for water and nutrients, protect [[savory-bare-ground-and-soil-exposure]], and sometimes release allelopathic compounds that slow weed germination.
+The strongest [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]] comes from matching species, planting density, timing, and termination method to the crop that follows.
 For most gardens and farms, [[cover-crop-termination]] matter as much as the species list itself.
 Cover crops are not a substitute for observation, but they make weed pressure less explosive by turning bare soil into managed living cover.
 
@@ -26,7 +27,7 @@ Weeds thrive when soil is bare, disturbed, warm, and full of available light.
 A good cover crop reverses those signals by occupying the bed with desirable plants.
 Fast establishment is the first weed-control trait because empty days after harvest are weed days.
 Pages like [[cover-cropping-systems]] emphasize that cover crops are a system, not just a seed purchase.
-The practical goal is to make the weed seed bank wait while your chosen cover captures the season.
+The practical goal is to make the weed [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]] wait while your chosen cover captures the season.
 
 ### Canopy closure blocks light
 
@@ -48,7 +49,7 @@ The safer design is dense growth first, residue second, and chemical suppression
 
 Fast summer weeds call for fast summer covers such as buckwheat, cowpea mixes, or sudangrass in warm climates.
 Winter annual weeds call for autumn-planted cereals, legumes, or winter-kill mixes depending on the climate.
-Perennial weeds often require repeated mowing, occultation, animal integration, or a longer smother crop period.
+Perennial weeds often require repeated mowing, occultation, [[mollison-animal-integration-permaculture-design]], or a longer smother crop period.
 [[coleman-cover-crop-rotation-and-soil-health]] shows why growers integrate cover crops into rotation plans instead of squeezing them in as an afterthought.
 The cover should be treated like a crop because weed suppression is a performance outcome.
 
@@ -90,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

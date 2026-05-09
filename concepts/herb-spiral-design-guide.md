@@ -1,5 +1,5 @@
 ---
-title: Herb Spiral Design
+title: Herb herb spiral design guide
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 **Updated:** 2026-04-18
 
-The herb spiral is a classic permaculture design element that combines a raised bed, a vertical garden, and a microclimate creation tool into a beautiful, space-efficient, and productive garden feature. It is often one of the first projects for new permaculture gardeners.
+The herb spiral is a classic [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] element that combines a raised bed, a vertical garden, and a [[mollison-designers-microclimate-creation-frost-protection]] tool into a beautiful, space-efficient, and productive garden feature. It is often one of the first projects for new permaculture gardeners.
 
 ## What Is an Herb Spiral?
 
@@ -35,7 +35,7 @@ This range of microclimates allows herbs with different growing preferences to t
 ### Dimensions
 - **Diameter:** 5-6 feet (manageable; all plants within arm's reach)
 - **Height:** 3-4 feet at center (creates significant microclimate variation)
-- **Width of planting area:** 18-24 inches (enough for herbs to grow)
+- **Width of planting area:** 18-24 inches (enough for [[query-what-are-the-best-anxiolytic-herbs-to-grow-at-home]])
 
 ### Construction Steps
 1. Mark a circle 5-6 feet in diameter on the ground
@@ -74,7 +74,7 @@ Herbs that prefer moist, partly shaded conditions:
 - Mint (plant here to contain its spread)
 - Parsley
 - Cilantro/coriander
-- Lemon balm
+- [[comparison-lemon-balm-vs-passionflower]]
 - Watercress (in very wet areas)
 
 ### North Side (Cooler, Shadier)
@@ -92,7 +92,7 @@ Herbs that prefer moist, partly shaded conditions:
 ## Functions
 
 ### Multiple Microclimates
-The primary function: one structure creates the growing conditions of several different garden environments. Mediterranean herbs that need dry feet sit next to moisture-loving herbs that would rot in those conditions.
+The primary function: one structure creates the growing conditions of several different garden environments. [[query-best-mediterranean-herbs-for-beginner-herb-garden]] that need dry feet sit next to moisture-loving herbs that would rot in those conditions.
 
 ### Space Efficiency
 A 5-foot diameter spiral provides 20-30 linear feet of growing edge in a compact footprint. Every plant is within arm's reach from the path.

@@ -1,5 +1,5 @@
 ---
-title: "Minor Tillage Bed Preparation"
+title: "coleman minor tillage bed preparation azurescens-outdoor-bed-preparation-woodchips"
 created: 2026-04-28
 tags: [soil, tillage, beds, broadfork, organic]
 date: 2026-04-25
@@ -12,21 +12,21 @@ type: concept
 
 Eliot Coleman advocates for minimal soil disturbance in permanent bed
 systems. Rather than inverting the soil profile with power tillers,
-Coleman uses hand tools and gentle cultivation techniques that preserve
+Coleman uses [[garden-hand-tools-solomon]] and gentle cultivation techniques that preserve
 soil structure, protect beneficial microorganisms, and maintain the
 long-term productivity of growing beds.
 
 ## Philosophy of Minimal Tillage
 
-Conventional tillage destroys soil aggregates, disrupts fungal
-networks, and releases carbon stored in soil organic matter. Coleman's
+Conventional [[fukuoka-why-tillage-destroys-soil]] soil aggregates, disrupts fungal
+networks, and releases carbon stored in soil [[hamilton-composting-and-organic-matter-management]]. Coleman's
 approach draws from the [[soil-food-web]].
 
 Coleman applies compost at a rate of approximately 2 to 4 cubic yards
 per 100 square feet of bed area annually. This rate maintains organic
 matter levels and supplies a broad spectrum of nutrients. For specific
 crop demands, additional amendments may be incorporated during bed
-preparation. See [[coleman-winter-harvest-planting-schedule]] success. Winter crops must establish strong root systems before cold weather limits growth, and well-prepared beds with good structure and fertility give them the best start. The [[coleman-moveable-greenhouse-system]] relies on having all bed positions ready for rapid crop transition.
+preparation. See [[coleman-winter-harvest-planting-schedule]] success. [[coleman-semi-hibernating-winter-crops-harvest-extension]] must establish strong root systems before cold weather limits growth, and well-prepared beds with good structure and fertility give them the best start. The [[coleman-moveable-greenhouse-system]] relies on having all bed positions ready for rapid crop transition.
 ## Practical Applications
 
 Minor Tillage Bed Preparation has a range of practical applications that make it relevant to
@@ -104,4 +104,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -1,16 +1,17 @@
 ---
-title: Permaculture Principle 7 — Design from Patterns to Details
+title: Permaculture Principle 7 — permaculture principle design from patterns to details to Details
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, principles, patterns, design, ecology]
 sources:
-  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+  sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 
 # Permaculture Principle 7 — Design from Patterns to Details
 
-The seventh of David Holmgren's twelve permaculture design principles. By stepping back and observing the patterns in nature and society, we can design solutions that work at multiple scales. The details are then filled in once the overall pattern is established.
+The seventh of David Holmgren's twelve [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] principles. By stepping back and observing the [[mollison-spiral-patterns-in-nature-and-design]] and society, we can design solutions that work at multiple scales. The details are then filled in once the overall pattern is established.
 
 > "Can't see the forest for the trees: By stepping back, we can observe patterns in nature and society. These can form the backbone of our designs, with the details filled in as we go." — David Holmgren
 
@@ -53,7 +54,7 @@ An important insight from this principle is that change at different scales has 
 
 ## Connections
 
-This principle connects to [[permaculture-principle-observe-and-interact]] (observation reveals patterns), [[permaculture-principle-use-small-and-slow-solutions]] (cellular design at appropriate scale), [[permaculture-principle-use-edges-and-value-the-marginal]] (edge is a pattern of exchange), and herb spiral design (spiral pattern applied in garden design). See also [[permaculture-principles]], [[permaculture-zones-and-sectors]], and [[patterns-in-nature]].
+This principle connects to [[permaculture-principle-observe-and-interact]] (observation reveals patterns), [[permaculture-principle-use-small-and-slow-solutions]] (cellular design at appropriate scale), [[permaculture-principle-use-edges-and-value-the-marginal]] (edge is a pattern of exchange), and herb [[herb-spiral-design-guide]] (spiral pattern applied in [[comparison-mandala-garden-design-vs-keyhole-garden-design]]). See also [[permaculture-principles]], [[permaculture-zones-and-sectors]], and nature.
 ## Practical Considerations
 
 When working with Permaculture Principle 7 — Design from Patterns to Details, several practical factors should be
@@ -70,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,3 +114,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[design-principle-integration]]

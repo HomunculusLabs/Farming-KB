@@ -20,9 +20,9 @@ sources:
 
 **Rhytidiadelphus triquetrus** (big red stem, knight's plume, electrified cat's tail moss) is a large pleurocarpous moss in the family Hylocomiaceae. It forms extensive, loosely woven mats on forest floors and is one of the most conspicuous mosses in temperate woodlands due to its robust, reddish stems.
 
-The species is distributed widely across the Northern Hemisphere, from Europe and Asia to North America. It is particularly characteristic of moist, shaded, nutrient-rich forests where it carpets the ground between vascular plants.
+The species is distributed widely across the Northern Hemisphere, from Europe and Asia to [[psilocybin-north-america-pacific-northwest]]. It is particularly characteristic of moist, shaded, nutrient-rich forests where it carpets the ground between vascular plants.
 
-Rhytidiadelphus triquetrus is recognized by its irregularly branched, distinctly red-stemmed shoots with broadly ovate, concave leaves. It plays an important ecological role in forest floor moisture regulation and nutrient cycling.
+Rhytidiadelphus triquetrus is recognized by its irregularly branched, distinctly red-stemmed shoots with broadly ovate, concave leaves. It plays an important ecological role in forest floor moisture regulation and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 ## Taxonomy and Morphology
 

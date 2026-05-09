@@ -1,5 +1,5 @@
 ---
-title: Purdue Vegetable Planting Reference Table
+title: Purdue Vegetable comparison-companion-planting-reference-vs-jadam-monoculture-critique Table
 created: 2026-04-28
 tags:
   - vegetable-gardening
@@ -17,13 +17,13 @@ type: concept
 
 # Purdue Vegetable Planting Reference Table
 
-A quick-reference for planting home garden vegetables from Purdue University Cooperative Extension Service (HO-32-W). Covers spacing, seed rates, depth, timing, and yields for common vegetables. Dates calibrated for Indianapolis; plant 20 days earlier in extreme SW Indiana, 10 days later for NE areas.
+A quick-reference for planting [[cool-climate-home-garden-mollison]] vegetables from Purdue University Cooperative Extension Service (HO-32-W). Covers spacing, seed rates, depth, timing, and yields for common vegetables. Dates calibrated for Indianapolis; plant 20 days earlier in extreme SW Indiana, 10 days later for NE areas.
 
 ## Root Crops
 
 ### Beets
 
-- **Row spacing:** 1 ft between rows
+- **[[wide-row-spacing-intensive-gardening-comparison]]:** 1 ft between rows
 - **Plant spacing:** 3 inches between plants
 - **Seed rate:** 1 oz per 50 ft of row
 - **Planting depth:** 1/2 to 1 inch
@@ -127,7 +127,7 @@ The following crops are also covered in the Purdue guide:
 
 - **Lettuce:** 1 ft rows, 4 in spacing, Mar 20-Jun 15, 40-50 days, ~150 plants
 - **Spinach:** 1 ft rows, 3 in spacing, Mar 20-Jun 15, 40-45 days, ~25 lb
-- **Sweet Corn:** 3 ft rows, 12 in spacing, May 10-Jul 10, 65-85 days, ~50 ears
+- **[[growing-sweet-corn-organically]]:** 3 ft rows, 12 in spacing, May 10-Jul 10, 65-85 days, ~50 ears
 - **Eggplant:** 2 ft rows, 24 in spacing, 24 plants, May 15-Jun 15, 55-70 days
 - **Lima Beans:** 2 ft rows, 6 in spacing, May 15-Jun 15, 65-75 days, ~1 bushel
 - **Cauliflower:** 3 ft rows, 18 in spacing, 36 plants, Apr 15-Jun 25, 50-60 days

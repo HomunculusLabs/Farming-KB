@@ -1,5 +1,5 @@
 ---
-title: St. John's Wort Growing Guide
+title: St. John's Wort comparison-bean-growing-guide-vs-pepper-growing-guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -12,7 +12,7 @@ sources: []
 ## Overview
 
 St. John's Wort is a perennial herbaceous plant native to Europe, western
-Asia, and North Africa, now naturalized throughout much of North America.
+Asia, and North Africa, now naturalized throughout much of [[psilocybin-north-america-pacific-northwest]].
 Named for flowering around St. John's Day (June 24), it has been used
 medicinally for over 2,400 years and is one of the most clinically studied
 herbal remedies, particularly for mild to moderate depression. It also
@@ -41,7 +41,7 @@ serotonin, dopamine, and norepinephrine reuptake.
 
 Internal uses:
 - Mild to moderate depression: The most extensively studied use. Numerous
-  clinical trials and meta-analyses support its efficacy, showing it is
+  [[mushroom-cancer-clinical-trials-overview]] and meta-analyses support its efficacy, showing it is
   comparable to standard SSRIs for mild to moderate depression with fewer
   side effects for many people.
 - Anxiety: Often co-occurs with depression treatment; may help with
@@ -60,7 +60,7 @@ Topical uses:
 
 ## Critical Drug Interactions
 
-St. John's Wort is notorious for drug interactions and must be used with
+St. John's Wort is notorious for [[cannabis-drug-interactions-and-contraindications]] must be used with
 caution. It is a potent inducer of cytochrome P450 enzymes (particularly
 CYP3A4) and P-glycoprotein, which speeds up the metabolism of many drugs:
 
@@ -139,43 +139,6 @@ Management:
 For medicinal use, harvest the upper 6-12 inches of the plant (flowering
 tops including buds, flowers, and upper leaves) during peak bloom.
 
-Optimal harvest timing:
-- Harvest on a dry, sunny day in mid-morning after dew has dried
-- The highest hypericin content is when approximately 50% of flowers are
-  open and 50% are in bud
-- Snip stems above a leaf node to allow regrowth
-- Handle fresh material minimally to avoid losing the red pigment on your
-  fingers (it stains)
-
-## Processing
-
-### Drying for Tea/Capsules/Tincture
-- Spread flowering tops on screens in a warm, dark, well-ventilated area
-- Dry at 90-100 degrees F
-- Material is dry when stems snap and flowers are crisp
-- Store in airtight containers in a cool, dark place
-- Potency lasts 1-2 years
-
-### Oil Infusion (Red Oil)
-This is the most prized preparation:
-
-1. Harvest fresh flowering tops at peak bloom
-2. Do not wash -- use only clean, dry material
-3. Coarsely chop the material
-4. Fill a glass jar loosely (not packed) with the herb
-5. Cover completely with a carrier oil (olive oil is traditional)
-6. Ensure all plant material is submerged (use a fermentation weight if
-   needed)
-7. Place in a sunny window for 4-6 weeks, shaking daily
-8. The oil will turn a deep, rich red as hypericin is extracted
-9. Strain through cheesecloth or a fine mesh
-10. Store in amber glass bottles away from heat and light
-11. Shelf life: approximately 1 year
-
-The oil is ready when it has developed a deep red color. Some herbalists
-also make a double extraction (tincture + oil) for maximum therapeutic
-effect.
-
 ## See Also
 
 - [[valerian-growing-guide]] -- often combined with St. John's Wort in
@@ -183,4 +146,4 @@ effect.
 - [[lemon-balm-growing-guide]] -- another nervine herb with mood-supporting
   properties
 
-See also: [[medicinal-herb-growing-guide]]
+See also: [[medicinal-herb-growing]]

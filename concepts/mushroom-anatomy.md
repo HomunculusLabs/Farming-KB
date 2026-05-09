@@ -13,7 +13,7 @@ type: concept
 A mushroom is the spore-producing fruiting body of certain fungi, primarily
 basidiomycetes and some ascomycetes. While "mushroom" colloquially refers to
 the visible above-ground structure, the vast majority of the organism exists
-as an underground mycelial network. Understanding mushroom anatomy is essential
+as an underground [[gadd-mycelial-network-dynamics]]. Understanding mushroom anatomy is essential
 for identification, foraging, and cultivation.
 
 ## The Fruiting Body Overview
@@ -81,7 +81,7 @@ ridged).
 
 A spore print is made by placing the cap gill-side down on paper or glass.
 The deposited spore color (white, cream, pink, brown, purple-brown, black, or
-rusty) is one of the first features checked in mushroom identification and
+rusty) is one of the first features checked in [[psilocybin-mushroom-identification-guide]] and
 can narrow possibilities dramatically.
 
 ## Veils
@@ -97,16 +97,16 @@ Mushrooms may be protected by veils during development:
 
 ## Development and Growth
 
-Mushroom fruiting bodies grow through hyphal inflation (cells swelling with
+[[ectomycorrhizal-mushroom-fruiting-ecology]] bodies grow through hyphal inflation (cells swelling with
 water) rather than cell division, which is why mushrooms can appear to grow
 rapidly, sometimes overnight. This process is called hyphal expansion. The
 triggering of fruiting depends on environmental cues: temperature shifts,
-humidity, light, and nutrient availability. Many mushrooms require specific
+humidity, light, and [[ph-and-nutrient-availability-garden-soils]]. Many mushrooms require specific
 conditions to fruit, which is why they appear seasonally.
 
 ## Microscopic Features
 
-Microscopic examination provides additional identification data. Gill trama
+[[fungal-microscopic-examination-mounting-media-techniques]] provides additional identification data. Gill trama
 (the internal tissue of gills) may be regular (uniformly parallel hyphae) or
 irregular (interwoven hyphae). The presence of cystidia -- specialized sterile
 cells projecting from the gill surface -- is taxonomically important. Cheilocystidia
@@ -134,7 +134,7 @@ Mushroom development follows a characteristic sequence:
 Mushrooms have evolved various defenses against predation:
 
 - **Toxins** -- Many contain amatoxins, muscarine, psilocybin, ibotenic
-  acid, or other bioactive compounds that deter or harm would-be consumers.
+  acid, or other [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] that deter or harm would-be consumers.
 - **Latex** -- Lactarius species exude a milky fluid when cut, which may
   be acrid, peppery, or otherwise unpalatable.
 - **Bruising reactions** -- Some species develop intense blue or black

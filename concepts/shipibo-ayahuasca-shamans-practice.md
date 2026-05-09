@@ -1,5 +1,5 @@
 ---
-title: Shipibo Ayahuasca Shamans and Practice
+title: san-francisco-shipibo-ayahuasca-ceremonial-center Shamans and Practice
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -12,7 +12,7 @@ sources: [raw/papers/stuart-r-ayahuasca-tourism.md]
 ## Overview
 
 The Shipibo-Conibo people of the Peruvian Amazon are among the most renowned ayahuasca practitioners in South America. Their elaborate visual art, complex icaro (sacred song) tradition, and deep integration of ayahuasca into daily life have made them the primary cultural group associated with [[ayahuasca-visions]], applied to textiles, pottery, body painting, and architecture
-- **Musical tradition**: Complex vocal and instrumental music, particularly the icaros used in ayahuasca ceremonies
+- **Musical tradition**: Complex vocal and instrumental music, particularly the icaros used in [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]]
 - **Healing practices**: A sophisticated system of plant-based medicine centered on ayahuasca and dietas (plant diet retreats)
 - **Language**: The Shipibo language (Panoan family) remains widely spoken, though Spanish is also common
 
@@ -24,7 +24,7 @@ Christian missionaries — particularly Pentecostal and Adventist groups, with s
 ### Traditional Functions
 In traditional Shipibo culture, the ayahuasquero (onanya) serves multiple roles:
 
-1. **Healer**: Diagnosing and treating illness through ayahuasca visions and plant remedies
+1. **Healer**: Diagnosing and treating illness through [[amaringo-ayahuasca-visions-shipibo-iconography]] and plant remedies
 2. **Spiritual guide**: Leading community members through transformative experiences
 3. **Ceremonial leader**: Conducting rituals for the community's well-being
 4. **Botanical knowledge keeper**: Maintaining extensive knowledge of medicinal plants and their applications
@@ -79,10 +79,10 @@ An elderly shaman who hosted nightly ceremonies attracting up to two dozen visit
 - Not a reliable indicator of shamanic quality, despite the family's professional operation
 
 #### "E" (San Francisco)
-Widely regarded as an honorable man in the community. Stuart heard E singing icaros during private family ceremonies at night. E charged approximately $10 per tourist ceremony. His reputation for integrity and his private spiritual practice suggest a practitioner who maintains traditional values alongside commercial activity.
+Widely regarded as an honorable man in the community. Stuart heard E [[metzner-shamanic-singing-icaros-rhythm-and-entrainment]] during private family ceremonies at night. E charged approximately $10 per tourist ceremony. His reputation for integrity and his private spiritual practice suggest a practitioner who maintains traditional values alongside commercial activity.
 
 #### B's Nephew
-An enterprising young shaman earning a couple hundred dollars per month from tourists while neighbors couldn't afford a 30-cent taxi ride. He charged $30 for a tourist ceremony versus approximately $2 for a Peruvian — a 15x price differential that illustrates the economic dimension of ayahuasca tourism.
+An enterprising young shaman earning a couple hundred dollars per month from tourists while neighbors couldn't afford a 30-cent taxi ride. He charged $30 for a tourist ceremony versus approximately $2 for a Peruvian — a 15x price differential that illustrates the economic dimension of [[stuart-r-ayahuasca-tourism-cautionary-ethnography]].
 
 #### "A" (Unspecified Location)
 A practitioner whose invitations for rituals Stuart declined after A swindled him on the price of a tobacco pipe — illustrating the personal risks of navigating unfamiliar social terrain as a foreigner.
@@ -94,7 +94,7 @@ Stuart's observations highlight several tensions:
 
 - **Commercial vs. traditional**: Commercial ceremonies tend to be shallower than family/community rituals
 - **Economic exploitation**: Tourists pay 5–15x more than locals for equivalent ceremonies
-- **Quality variability**: There is no certification or quality control — finding a "good" ayahuasquero is largely a matter of chance
+- **[[manure-quality-variability-and-fertilizer-value]]**: There is no certification or quality control — finding a "good" ayahuasquero is largely a matter of chance
 - **Cultural impact**: The economic incentives of tourism may distort traditional practices
 
 ### Finding a Reputable Practitioner
@@ -115,5 +115,7 @@ Stuart suggests that those interested primarily in the ayahuasca experience — 
 - Illius, B. (1993). "The Cognitive Structure of Shipibo Healing." In *Cosmología y shamanismo de los Shipibo-Conibo*.
 
 ## See Also
+
+- [[shipibo-ayahuasca-traditions]]
 - [[shipibo-ayahuasca-towns-ucayali-pucallpa]]
-- [[ayahuasca-vision-art-and-Shipibo-tradition]]
+- [[ayahuasca-vision-art-and-shipibo-tradition]]

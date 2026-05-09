@@ -21,7 +21,7 @@ sources:
 
 ## Overview
 
-**Macrolepiota procera** (Scop.) Singer, the parasol mushroom, is a large agaric found across temperate and subtropical regions worldwide. One of the most prized wild edible mushrooms in Europe, it is recognized by its tall stature, prominent movable ring, and large scaly cap that expands from egg-shaped to broadly parasol-shaped. The flesh has a nutty, mild flavor well suited to sautéing, and caps are commonly prepared like Wiener schnitzel.
+**Macrolepiota procera** (Scop.) Singer, the parasol mushroom, is a large agaric found across temperate and subtropical regions worldwide. One of the most prized wild [[palmer-edible-mushrooms-north-america]] in Europe, it is recognized by its tall stature, prominent movable ring, and large scaly cap that expands from egg-shaped to broadly parasol-shaped. The flesh has a nutty, mild flavor well suited to sautéing, and caps are commonly prepared like Wiener schnitzel.
 
 ## Taxonomy
 
@@ -56,7 +56,7 @@ Surface covered with concentric brown to tawny scales on a cream-white backgroun
 
 ## Distribution and Habitat
 
-Widespread across Europe (Scandinavia to Mediterranean), temperate Asia (China, Japan, Korea), North Africa, parts of Australia, and eastern North America. Introduced in New Zealand and southern South America.
+Widespread across Europe (Scandinavia to Mediterranean), temperate Asia (China, Japan, Korea), North Africa, parts of Australia, and [[polypore-fungi-eastern-north-america]] America. Introduced in New Zealand and southern South America.
 
 Prefers open grasslands, meadows, pastures, and woodland edges. Common along hedgerows and forest paths. Favors well-drained, nutrient-rich soils. Solitary to scattered. Fruits from late summer to late autumn (July–November in the Northern Hemisphere).
 
@@ -68,16 +68,17 @@ Considered primarily saprotrophic but may form weak [[spore-print]] is green, no
 
 Cultivation has been attempted but remains challenging. Key difficulties include the long growth cycle (6–8 weeks), sensitivity to competing organisms, and variable yields.
 
-Composted straw and supplemented sawdust substrates have achieved moderate success. Outdoor beds of composted organic matter show promise in Mediterranean climates.
+Composted straw and [[oyster-mushroom-supplemented-sawdust-blocks]] substrates have achieved moderate success. Outdoor beds of composted [[hamilton-composting-and-organic-matter-management]] show promise in Mediterranean climates.
 
 ## Related Species
 
 - **Macrolepiota mastoidea** — smaller, more pronounced umbo, browner scales; also edible
 - **Macrolepiota rhacodes** (Shaggy Parasol) — stockier, flesh bruises reddish-orange; edible but causes GI upset in some individuals
 - **Macrolepiota excoriata** — smaller, more delicate, similar habitat
-- **Chlorophyllum rhacodes** — now in Chlorophyllum; similar appearance but greenish spore print
+- **Chlorophyllum rhacodes** — now in Chlorophyllum; similar appearance but greenish [[comparison-spore-print-collection-vs-spore-syringe-production]]
 
 ## Permaculture Applications
 
-Suitable for integration into silvopasture and [[chlorophyllum-molybdites]]
-- [[chlorophyllum-molybdites]]
+Suitable for integration into silvopasture and chlorophyllum-molybdites
+- chlorophyllum-molybdites
+- [[lepiota-procera]]

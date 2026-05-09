@@ -15,7 +15,7 @@ You can judge the quality of the soil by looking at how the crop roots are doing
 
 The essence of soil management is making the ratio of underground part to aboveground part higher than one. If the aboveground part is one, the underground part has to be larger. The underground, invisible part should be bigger, larger and more vigorous.
 
-The total area of the root extension decides crop health; it is the basic condition for high yield and good quality. In other words, root area equals money. Soil management and ensuring good root growth is your best bet, particularly in this era of climate change.
+The total area of the root extension decides crop health; it is the basic condition for high yield and good quality. In other words, root area equals money. Soil management and ensuring good root growth is your best bet, particularly in this era of [[dighton-fungi-climate-change-feedback]].
 
 ## Signs of Good Soil
 
@@ -23,13 +23,13 @@ The total area of the root extension decides crop health; it is the basic condit
 - **Abundant hairy roots below 20 cm** — a sign that there is no soil compaction. Hairy roots mean the roots are actively exploring for nutrients. If that chunk contains a lot of roots, the soil is free from soil compaction
 - **Roots that are hard to pull out** — in the past, pepper plants were so robust that farmers had to use sickles to chop them down; roots extended 1.5 m (5 ft) into the soil. A small tug will not pull them out
 - **Increased root surface area** — more water and nutrients become available for the crop
-- **Many thread-like fine roots** approaching organic matter to absorb nutrients
+- **Many thread-like fine roots** approaching [[hamilton-composting-and-organic-matter-management]] to absorb nutrients
 
 ## Signs of Poor Soil
 
 - **Coiled roots** — roots were desperate to stay in the nursery soil and could not penetrate field soil. This is now common with peppers and Chinese cabbage. The roots show the same coiling pattern in both crops
 - **Roots that pull out easily** — a small tug will pull roots right out. This indicates severe soil compaction and degradation. Now most peppers' roots are coiled up
-- **Shallow root systems** — roots concentrated in the top 15 cm (6 in) indicate a plow pan or compacted layer
+- **Shallow root systems** — roots concentrated in the top 15 cm (6 in) indicate a [[ultra-low-soil-compaction-and-plow-pan-solutions]] or compacted layer
 - **No roots below 20 cm depth** — indicates soil compaction covering the entire field
 - **Roots confined to nursery soil** — showing they could not adapt to field conditions
 
@@ -43,7 +43,7 @@ Dig about 40 cm vertically into your soil. Take out a chunk from 20 cm depth. If
 
 Use a sharp iron rod. Stick it into the soil. If you cannot push it in, you likely have soil compaction.
 
-If you have confirmed soil compaction, take this seriously. Make all efforts to get rid of it. This is the main reason why farming becomes so difficult. If you have done everything you can but crops still suffer from diseases and yield is small, soil compaction is likely the underlying problem.
+If you have confirmed soil compaction, take this seriously. Make all efforts to [[query-how-to-get-rid-of-slugs-and-snails-organically]] of it. This is the main reason why farming becomes so difficult. If you have done everything you can but crops still suffer from diseases and yield is small, soil compaction is likely the underlying problem.
 
 ## Root Cause of Soil Compaction
 
@@ -86,5 +86,5 @@ A pear tree nearly a century old has as many pears as young trees. This is the r
 ## Related Concepts
 
 - [[lowenfels-earthworms-soil-food-web]]
-- [[jadam-natural-pesticide-philosophy]] — building soil like forest leaf mold
+- [[jadam-natural-pesticide-philosophy]] — building soil like forest [[comparison-leaf-mold-composting-vs-hot-composting-method]]
 - [[what-natural-farming-method-should-i-use]]

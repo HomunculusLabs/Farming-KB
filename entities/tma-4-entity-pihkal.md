@@ -1,5 +1,5 @@
 ---
-title: "TMA-4 (2,3,5-TRIMETHOXYAMPHETAMINE) -- PIHKAL Entry #160"
+title: "TMA-4 (2,3,5-TRIMETHOXYAMPHETAMINE) -- 2c-b-pihkal-entry-20 #160"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -75,7 +75,7 @@ literature, at least it is in the Chem. Abstracts. But it is in
 reality completely unknown. Some day, some one somewhere will have a
 light bulb go on over his head, and find a synthetic process that will
 make it. Of course, the moment it is made, an illegal act will have
-occurred, at least in the United States as long as the present laws
+occurred, at least in the [[dmt-containing-plants-united-states-halpern]] as long as the present laws
 remain unchanged, as it is currently a Schedule I drug.
 
 Needless to say, the 2-carbon analog of MMDA-4,
@@ -96,7 +96,7 @@ addition took 1 h, and when the reaction had clearly been completed
 (283 g were required). This was extracted with 3x100 mL Et2O, the
 extracts pooled, and stripped of solvent under vacuum to give 66 g of
 crude 2,4-dimethoxyphenyl formate. This was suspended in 125 mL 10%
-NaOH, and the mixture heated on the steam bath for 1.5 h. On cooling,
+NaOH, and the mixture heated on the [[scythian-cannabis-steam-bath-ritual]] for 1.5 h. On cooling,
 the reaction mixture set to a heavy black solid. This was removed by
 filtration, washed with H2O, and dissolved in 250 mL CH2Cl2. The
 organic phase was washed with dilute HCl, and then with aqueous
@@ -128,7 +128,7 @@ column temperatures (below 180 deg C) on an ethylene glycol succinate
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

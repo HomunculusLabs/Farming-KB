@@ -29,23 +29,23 @@ sources:
 ## Overview
 
 **Giorgio Samorini** (born 1964, Rome) is an Italian ethnomycolo-gist and
-ethnobotanist recognized for pioneering work on psychoactive fungi and human
+ethnobotanist recognized for pioneering work on [[cattle-dispersal-psychoactive-fungi-australia]] and human
 cultures across millennia. His most influential contributions include
 identifying mushroom iconography in prehistoric art, theorizing that
 **animals deliberately consume psychoactive substances**, and extensive
-fieldwork documenting traditional psychedelic mushroom use in Africa and the
+fieldwork documenting traditional [[archaeology-of-psychedelic-mushroom-use]] use in Africa and the
 Mediterranean.
 
 Samorini is a central figure in entheogen studies alongside Jonathan Ott,
-Christian Rätsch, and Terence McKenna. His work bridges academic [[iboga]] (Tabernanthe iboga):** Reports of goats consuming
-  iboga root bark in Central Africa
+Christian Rätsch, and Terence McKenna. His work bridges academic [[iboga]] ([[plants-of-the-gods-tabernanthe-iboga-chemistry]]):** Reports of goats consuming
+  iboga [[iboga-root-bark-preparation]] in Central Africa
 - **Primates and fermented palm sap:** Multiple species deliberately seeking
   naturally fermented substrates
 
 This work positioned Samorini as a leading voice arguing that psychedelic
 use has deep evolutionary roots rather than being purely cultural.
 
-### African [[agar]]
+### African agar
 - [[amanita-muscaria-entity]]
 ## Practical Considerations
 
@@ -63,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +105,5 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+## See Also
+- [[terence-mckenna]]

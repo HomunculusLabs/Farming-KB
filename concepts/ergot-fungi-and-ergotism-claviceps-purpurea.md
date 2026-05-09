@@ -1,5 +1,5 @@
 ---
-title: Ergot Fungi and Ergotism in Human History
+title: Ergot ergot fungi and ergotism claviceps purpurea in Human History
 created: 2026-04-28
 tags:
   - mycology
@@ -16,7 +16,7 @@ type: concept
 
 # Ergot Fungi and Ergotism in Human History
 
-Ergot fungi, primarily Claviceps purpurea, are parasitic fungi that infect
+Ergot fungi, primarily [[bloomfield-ergot-claviceps-purpurea-ergotism]], are [[escovopsis-parasitic-fungi-attine-ant-gardens]] that infect
 the grains of grasses and cereals, particularly rye. The disease they cause,
 ergotism, has been one of the most devastating afflictions in human history,
 responsible for countless deaths and episodes of mass hysteria. The dark
@@ -43,7 +43,7 @@ period of the host crop.
 
 Ergot sclerotia contain a complex mixture of alkaloid compounds, including
 ergotamine, ergocristine, ergocryptine, and ergometrine. These compounds
-are derivatives of lysergic acid and belong to the ergoline family. The
+are derivatives of [[ergot-and-lysergic-acid-history]] and belong to the ergoline family. The
 total alkaloid content of ergot sclerotia can exceed 0.5 percent of dry
 weight, making them among the most toxic naturally occurring substances
 found in food crops.
@@ -52,7 +52,7 @@ The ergot alkaloids produce diverse pharmacological effects. Ergotamine
 constricts blood vessels and has been used medicinally to treat migraine
 headaches. Ergometrine (also called ergonovine) stimulates uterine
 contractions and has been used to control postpartum hemorrhage. Lysergic
-acid diethylamide (LSD), one of the most potent hallucinogenic drugs known,
+acid diethylamide (LSD), one of the most potent [[metzner-hallucinogenic-drugs-psychotherapy-shamanism]] known,
 is a semisynthetic derivative of ergot alkaloids.
 
 ## Forms of Ergotism

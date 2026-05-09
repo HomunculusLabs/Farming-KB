@@ -11,10 +11,10 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of North America: Volume 2 — Hardwoods." USDA Forest Service.
-  - Sternberg, G. (2004). "Native Trees for North American Landscapes." Timber Press.
+  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 2 — Hardwoods." USDA Forest Service.
+  - Sternberg, G. (2004). "Native Trees for [[growing-gourmet-north-american-reishi-species]] Landscapes." Timber Press.
   - Coder, K.D. (2006). "American Basswood (Tilia americana)." University of Georgia Warnell School.
-  - Little, E.L. (1979). "Checklist of United States Trees." USDA Forest Service Agricultural Handbook 541.
+  - Little, E.L. (1979). "Checklist of [[dmt-containing-plants-united-states-halpern]] Trees." USDA Forest Service Agricultural Handbook 541.
 ---
 
 ## Overview
@@ -25,7 +25,7 @@ from New Brunswick and Manitoba south to North Carolina and Oklahoma, and is
 one of the most important nectar-producing trees in eastern forests.
 
 The species is valued for its soft, workable timber, fragrant flowers that
-attract honey bees in enormous numbers, and traditional medicinal uses. Its
+attract [[comparison-honey-bees-vs-native-solitary-bees]] in enormous numbers, and traditional medicinal uses. Its
 heart-shaped leaves and dense, pyramidal crown make it a popular ornamental
 tree for parks and large landscapes.
 
@@ -61,7 +61,7 @@ and lightweight with a fine, even texture.
 
 American basswood ranges from southeastern Manitoba, New Brunswick, and Nova
 Scotia south through the Great Lakes region and Appalachian Mountains to
-northern Georgia, and west to eastern Oklahoma and eastern North Dakota.
+northern Georgia, and west to eastern Oklahoma and [[polypore-fungi-eastern-north-america]] Dakota.
 
 It is most abundant in the northern hardwood and Great Lakes-St. Lawrence
 forest regions, where it occurs as a scattered component of [[fagus-grandifolia]] forests. Common associates include [[betula-papyrifera]], [[acer-rubrum]].

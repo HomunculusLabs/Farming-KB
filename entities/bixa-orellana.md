@@ -25,7 +25,7 @@ The species has been cultivated for centuries, with archaeological evidence of i
 
 Annatto extracts are employed extensively in the food industry to color cheese, butter, margarine, rice, smoked fish, and processed meats. Global annatto production exceeds 10,000 tonnes annually, with Brazil, Peru, and Ivory Coast as leading producers.
 
-The plant also has a long history of use in traditional medicine across Central and South America, Southeast Asia, and the Caribbean. Various preparations of the seeds, leaves, and roots are used in ethnomedical systems.
+The plant also has a long history of use in traditional medicine across Central and South America, [[psilocybe-southeast-asia-pacific]], and the Caribbean. Various preparations of the seeds, leaves, and roots are used in ethnomedical systems.
 
 ## Taxonomy and Morphology
 
@@ -47,7 +47,7 @@ The aril is the commercially harvested product, comprising approximately 5% of t
 
 *B. orellana* is believed to be native to the Amazon Basin and tropical lowlands of Central and South America. Its exact center of origin is debated, with proposed regions spanning from Brazil to Mexico.
 
-Some authorities suggest a Brazilian Amazon origin based on the greatest genetic diversity found in that region. Others propose a more northern origin in Central America or the Caribbean.
+Some authorities suggest a Brazilian Amazon origin based on the greatest genetic diversity found in that region. Others propose a more northern origin in [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] or the Caribbean.
 
 The species has been widely naturalized throughout the tropics and is now found in cultivation across Africa, Asia, and the Pacific Islands. It grows well from sea level to 800 meters elevation.
 
@@ -55,7 +55,7 @@ Naturalized populations are common in tropical Africa and Asia, where the plant 
 
 It thrives in warm, humid tropical climates with annual rainfall of 1,200-2,500 mm. The plant is relatively drought-tolerant once established but produces best with consistent moisture.
 
-Optimal temperature range for growth is 22-30 degrees Celsius, with reduced flowering below 15 degrees Celsius.
+Optimal [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] for growth is 22-30 degrees Celsius, with reduced flowering below 15 degrees Celsius.
 
 Soil preferences include well-drained, fertile loams with a slightly acidic to neutral pH. It is tolerant of poor, sandy soils but exhibits reduced seed yield under low-fertility conditions.
 

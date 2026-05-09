@@ -36,7 +36,7 @@ Jack Herer is one of the most legendary and influential cannabis strains in mode
 
 Jack Herer is a three-way cross of prestigious genetics:
 
-1. **Haze:** A classic sativa landrace cross (Mexican × Colombian × Thai × South Indian). Contributes the cerebral, uplifting effects and extended flowering time. Haze is one of the most important genetic pillars in cannabis breeding history.
+1. **Haze:** A classic [[cannabis-sativa-landrace-strains]] cross (Mexican × Colombian × Thai × South Indian). Contributes the cerebral, uplifting effects and extended flowering time. Haze is one of the most important genetic pillars in [[oner-cannabis-breeding-fundamentals]] history.
 
 2. **Northern Lights #5:** An iconic pure indica originally from Afghanistan. Provides structural backbone, resin production, and a grounding body element to balance Haze's racing cerebral effects. Northern Lights #5 is widely regarded as one of the most influential indicas ever bred.
 
@@ -52,7 +52,7 @@ This combination was revolutionary for its time — it captured the prized cereb
 - **Peak tested:** Up to 30% THC in premium phenotype selections
 - **CBD content:** Typically < 0.1–0.3% CBD (not considered a high-CBD strain)
 
-The THC potency varies significantly depending on growing conditions, phenotype, harvest timing, and testing methodology. Modern commercial selections tend to test higher than original Dutch versions.
+The THC potency varies significantly depending on growing conditions, phenotype, [[cannabis-harvest-timing-visual-cues]], and testing methodology. Modern commercial selections tend to test higher than original Dutch versions.
 
 ### Minor Cannabinoids
 
@@ -81,7 +81,7 @@ The terpene profile of Jack Herer is one of its most celebrated characteristics,
 - **Finish:** Subtle floral sweetness with earthy undertones and a faint citrus peel quality
 - **Aftertaste:** Clean, lingering pine with a slight herbal astringency
 
-The overall sensory experience is often described as "forest fresh" or "Christmas tree-like," making it one of the most recognizable terpene profiles in cannabis.
+The overall sensory experience is often described as "forest fresh" or "Christmas tree-like," making it one of the most recognizable [[cannabis-terpene-profiles-sativa]] in cannabis.
 
 ## Effects
 
@@ -122,7 +122,7 @@ Jack Herer is commonly used in medical cannabis programs for:
 ### Cultivation Difficulty
 
 - **Rating:** Moderate to difficult
-- Jack Herer can be challenging for novice growers due to its Haze genetics, which demand attention to nutrient regimens and environmental control
+- Jack Herer can be challenging for novice growers due to its Haze genetics, which demand attention to [[cannabis-nutrient-regimens-comparison]] and [[eclss-environmental-control-life-support]]
 
 ### Growing Characteristics
 

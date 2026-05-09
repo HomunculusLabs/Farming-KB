@@ -20,14 +20,14 @@ updated: 2026-04-26
 Eliot Coleman devotes significant greenhouse space during the warm
 months to high-value summer crops, particularly tomatoes, cucumbers,
 peppers, and eggplants. These warm-season crops bring substantially
-higher dollar returns than winter greens, with tomatoes alone
+higher dollar returns than [[coleman-winter-greens-nutritional-quality-cold-sweetening]], with tomatoes alone
 generating three times more revenue than any other single crop at the
 farm stand. The greenhouse provides essential protection in the cool
 Maine coastal climate, where outdoor tomatoes do not begin ripening
 until early August.
 
 Coleman considers three crops most economically significant for
-greenhouse summer production: tomatoes, cucumbers, and peppers.
+[[coleman-greenhouse-summer-crops]] production: tomatoes, cucumbers, and peppers.
 The tomato and cucumber signs at the farm stand catch the public
 eye, with peppers ready about two to three weeks later. Eggplants
 have been trialed as a heated crop but were ultimately discontinued.
@@ -79,13 +79,13 @@ ends, plants curve around corners to partner rows moving in the
 opposite direction, resembling circular trolleys in dry-cleaning
 establishments. This lowering and shifting is repeated each time
 tops reach the wire, keeping the top 8 feet of each vine producing
-continuously from early spring through late fall.
+continuously from [[coleman-overwintered-onions-and-early-spring-crops]] through late fall.
 
 ## Managing Soil Temperature
 
 When a greenhouse has been occupied all winter by unheated spinach,
-the soil is comparison [[comparison-cold-frame-gardening-vs-greenhouse-growing]] growing for tomato transplanting. Coleman pulls back inner
-covers on sunny days during March to allow solar heating of the
+the soil is comparison  growing for tomato transplanting. Coleman pulls back inner
+covers on sunny days during March to allow [[mollison-designers-passive-solar-heating-building-design]] of the
 soil, then runs a propane heater for a few days before the April 7
 transplant date to keep nights above 60 degrees Fahrenheit.
 
@@ -93,7 +93,7 @@ In another greenhouse, cleared a month before tomatoes are needed,
 a sheet of clear plastic laid directly on the soil creates an
 extra-warm inner layer that traps solar heat. This can raise the
 soil temperature at 4-inch depth to 65 degrees Fahrenheit using
-only solar energy. The clear plastic also stimulates weed seed
+only [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]]. The clear plastic also stimulates weed seed
 germination, which are then flamed off before transplanting.
 
 ## Cucumbers
@@ -102,7 +102,7 @@ Coleman grows greenhouse cucumbers about 7 inches long, a standard
 size preferred by customers. Greenhouse cucumbers are heavy feeders
 demanding the best fertility available. coleman soil preparation [[organic-greenhouse-growing]] nitrogen fertilizer.
 Seaweed or commercial trace-element amendments ensure optimum
-trace-element levels. Starting with low hamilton [[coleman-compost-and-organic-fertility-management]] and organic fertility management matter management humus [[comparison-seed-starting-vs-direct-seeding]] transplanting
+trace-element levels. Starting with low hamilton [[coleman-compost-and-organic-fertility-management]] and [[coleman-compost-and-organic-fertility-management]] management matter management humus [[comparison-seed-starting-vs-direct-seeding]] transplanting
 mix. Germination occurs on heating pads at 85 degrees Fahrenheit.
 Seedlings transplant to the greenhouse at two weeks old. Night
 temperatures of 55 to 60 degrees Fahrenheit give better

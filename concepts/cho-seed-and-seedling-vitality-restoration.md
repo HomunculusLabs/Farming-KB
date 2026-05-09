@@ -1,5 +1,5 @@
 ---
-title: Cho's Seed and Seedling Vitality Restoration
+title: Cho's Seed and cho seed and seedling vitality restoration Restoration
 tags: [natural-farming, seed-treatment, cho-han-kyu, plant-propagation]
 date: 2026-04-28
 updated: 2026-04-28
@@ -28,7 +28,7 @@ pressures.
 Cho identified several problems with the conventional seed
 industry. Seeds in the market are bred for uniformity and
 yield under chemical-intensive conditions, not for resilience
-or nutritional quality. They are soaked in chemical treatments
+or [[coleman-winter-greens-nutritional-quality-cold-sweetening]]. They are soaked in chemical treatments
 that suppress natural microbial associations and create
 dependency on synthetic fertilizers and pesticides.
 
@@ -42,7 +42,7 @@ understanding the biochemistry involved.
 
 Cho's assessment was that market seeds are "almost chemical
 products" that need treatment to recover their natural powers.
-The goal of Natural Farming seed treatment is not to add
+The goal of [[comparison-natural-farming-vs-permaculture]] seed treatment is not to add
 foreign substances but to restore the seed's innate vitality
 that has been suppressed by industrial processing.
 
@@ -59,8 +59,8 @@ The base SES formula combines four core Natural Farming inputs
 diluted in one liter of water. FPJ at two milliliters provides
 growth enzymes and amino acids from fermented plant material.
 BRV at two milliliters supplies organic acids that help break
-seed dormancy and stimulate metabolic activity. OHN at one
-milliliter contributes herbal nutrients that boost disease
+seed dormancy and stimulate [[arbuscule-isolation-metabolic-activity-assays]]. OHN at one
+milliliter contributes [[bionutrients-lab-oriental-herbal-nutrients-ohn]] that boost disease
 resistance. The dilution ratio is intentionally precise.
 
 ## Conditional Additions to the Base Formula
@@ -101,7 +101,7 @@ This contrasts sharply with conventional practices that
 involve soaking seeds for twelve to twenty-four hours or
 longer. Cho's research indicated that extended soaking
 depletes the seed's stored reserves, particularly water-
-soluble vitamins, enzymes, and growth regulators that are
+soluble vitamins, enzymes, and [[ingham-natural-growth-regulators-soil-microbes]] that are
 essential for vigorous early growth.
 
 ## Soil Treatment Solution (SOS) Protocol

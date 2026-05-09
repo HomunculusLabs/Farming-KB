@@ -1,5 +1,5 @@
 ---
-title: KNF Lactic Acid Bacteria Serum
+title: KNF Lactic lactic-acid-bacteria-knf Serum
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 # KNF Lactic Acid Bacteria Serum (LAB)
 
-Lactic Acid Bacteria (LAB) serum is a powerful natural farming input made from rice-washed water and milk. LAB improves soil ventilation, promotes rapid growth of fruit trees and leaf vegetables, and increases the solubility of fertilizers.
+Lactic Acid Bacteria (LAB) serum is a powerful [[comparison-natural-farming-vs-permaculture]] input made from rice-washed water and milk. LAB improves soil ventilation, promotes rapid growth of [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and leaf vegetables, and increases the solubility of fertilizers.
 
 ## Characteristics
 
@@ -41,7 +41,7 @@ Lactic Acid Bacteria (LAB) serum is a powerful natural farming input made from r
 1. Pour the LAB pure stock into a larger jar
 2. Add milk at 10:1 ratio (milk to rice water)
 3. At 23-25C, LAB grow vigorously in 5-7 days
-4. Three layers form again: cheese/floating matter (starch, protein, fat) on top, light yellow LAB serum below
+4. Three layers form again: cheese/floating matter (starch, protein, fat) on top, light yellow [[comparison-lab-serum-vs-compost-tea]] below
 5. Remove the cheese promptly -- if left, it melts and undergoes secondary reaction (unusable)
 6. Filter and refine the yellow LAB serum
 
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

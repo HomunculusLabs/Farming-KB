@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Heim, R. (1977). "Termites et champignons." Les Termites de l'Afrique, Masson, Paris.
-  - Pegler, D.N. & Vanhaecke, M. (1994). "Termitomyces of Southeast Asia." Kew Bulletin 49(4): 717-737.
+  - Pegler, D.N. & Vanhaecke, M. (1994). "Termitomyces of [[psilocybe-southeast-asia-pacific]]." Kew Bulletin 49(4): 717-737.
   - Aanen, D.K. et al. (2002). "The evolution of fungus-growing termites and their mutualistic fungal symbionts." Proceedings of the National Academy of Sciences 99(23): 14887-14892.
   - Katoh, H. et al. (2002). "Genetic diversity of *Termitomyces* symbionts in fungus-growing termites." Mycoscience 43(3): 193-198.
 created: 2026-04-28
@@ -20,11 +20,11 @@ created: 2026-04-28
 
 ## Overview
 
-**Termitomyces eurrhizus** (Berk.) R. Heim is a highly prized edible mushroom in the family Lyophyllaceae.
+**Termitomyces eurrhizus** (Berk.) R. Heim is a highly prized [[bloomfield-boletus-satanus-edible-mushroom-hazards]] in the family Lyophyllaceae.
 
 It is an obligate symbiont of fungus-growing termites (Macrotermitinae), cultivated within termite mounds across tropical Africa and South and Southeast Asia.
 
-The species is among the most commercially valuable wild mushrooms in several African and Asian countries.
+The species is among the most commercially valuable [[edible-wild-mushrooms-by-region]] in several African and Asian countries.
 
 ## Taxonomy and Morphology
 
@@ -76,7 +76,7 @@ Genetic studies show this vertical transmission has led to strict co-cladogenesi
 
 ## Edibility and Culinary Use
 
-*T. eurrhizus* is one of the most commercially important wild edible mushrooms in tropical regions.
+*T. eurrhizus* is one of the most commercially important wild [[palmer-edible-mushrooms-north-america]] in tropical regions.
 
 In West and Central Africa, it is sold in local markets at premium prices and forms an important source of income for rural collectors.
 
@@ -92,9 +92,9 @@ Cultivation of *Termitomyces* species has proven exceptionally difficult due to 
 
 The fungus requires the specific biochemical and physical environment of the termite comb for normal growth and fruiting.
 
-In vitro growth on standard agar media is possible but slow, and fruiting has rarely been achieved without termite association.
+In vitro growth on standard [[growing-gourmet-agar-media-formulas-preparation]] is possible but slow, and fruiting has rarely been achieved without termite association.
 
-Research into the metabolic basis of the symbiosis continues, with the goal of eventually enabling artificial cultivation of these valuable mushrooms.
+Research into the metabolic basis of the symbiosis continues, with the goal of eventually enabling [[fukuoka-matsutake-artificial-cultivation-attempt]] of these valuable mushrooms.
 
 ### Related Species
 
@@ -109,6 +109,8 @@ The genus *Termitomyces* contains approximately 30 described species, many of wh
 All species in the genus share the characteristic perforatorium root structure and termite association.
 
 ## See Also
+
+- [[termitomyces-fuliginosus]]
 
 - [[volvariella-volvacea]]
 - [[agaricus-bisporus]]

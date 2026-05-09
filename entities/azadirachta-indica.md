@@ -37,13 +37,13 @@ remarkable range of harsh conditions.
   shallow soils; not seasonally waterlogged or deep dry sands below
   18 m water table
 - **pH:** Optimum 6.2; grows well at pH 5 and brings soil toward
-  neutral through leaf litter
+  neutral through [[dighton-fungal-decomposition-leaf-litter-dynamics]]
 - **Salinity:** Not tolerant of saline soils
 
 ### Key Compounds
 - Seeds and leaves yield azadirachtin (azadarachtin), a potent
   naturally occurring insecticide
-- Used for pest control in agriculture and stored grain protection
+- Used for [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] in agriculture and stored grain protection
 - Oil from seed used medicinally for skin diseases
 
 ### Timber Properties
@@ -66,7 +66,7 @@ remarkable range of harsh conditions.
 
 ### Cultural Significance
 - One of five sacred trees planted in Indian sacred groves
-- Companion planting with mango and Ficus religiosa
+- [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] with mango and Ficus religiosa
 - Propagation by seed; seed is very short-lived (2-3 weeks)
 
 ## Relevance
@@ -74,8 +74,8 @@ Neem is arguably the single most important tree for sustainable
 agriculture in arid and semi-arid tropics. Its insecticidal properties
 provide a natural alternative to synthetic pesticides, while its timber,
 firewood, and medicinal uses make it economically valuable. In
-permaculture design, neem serves as a multipurpose arid-zone pioneer
-with applications ranging from integrated pest management to soil
+[[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], neem serves as a multipurpose arid-zone pioneer
+with applications ranging from [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management to soil
 rehabilitation.
 
 ## See Also
@@ -83,4 +83,4 @@ rehabilitation.
 - [[moringa]]
 - [[williams-pdc-inventories-and-observation]]
 - [[williams-pdc-learning-exercises-and-field-activities]]
-- [[nelumbo-nucifera]]
+- nelumbo-nucifera

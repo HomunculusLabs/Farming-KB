@@ -1,5 +1,5 @@
 ---
-title: "Human Creativity in Resource Management"
+title: "Human savory human creativity in resource management Management"
 created: 2026-04-28
 tags: [creativity, decision-making, management, holistic-management, extension]
 date: 2026-04-27
@@ -43,7 +43,7 @@ attain maximum effect may not work for another.
 - The extension service model of advising people what to do produces imperfect
   advice because the advisor is an outsider looking in at a unique situation.
 - Human creativity is the source from which all wealth generation flows,
-  whether through mineral, paper, or solar dollars.
+  whether through mineral, paper, or [[savory-solar-dollars-and-wealth-classification]].
 
 ## Detailed Explanation
 
@@ -126,7 +126,7 @@ The successful practitioner of holistic resource management maintains an open,
 inquiring mind while exercising judgment based on continuous monitoring. They
 understand that their situation is unique and that solutions from books,
 experts, or neighbors may not apply. They use the HRM model to test their
-creative ideas against their holistic goal and the ecosystem processes before
+creative ideas against their [[savory-holistic-goal-definition]] and the [[fungal-ecosystem-processes-overview]] before
 implementation, and they remain flexible enough to change course when
 monitoring reveals that an approach is not working.
 

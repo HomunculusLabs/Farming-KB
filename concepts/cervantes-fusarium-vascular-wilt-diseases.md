@@ -1,18 +1,19 @@
 ---
-title: Fusarium and Vascular Wilt Diseases in Cannabis
+title: Fusarium and cervantes fusarium vascular wilt diseases Diseases in Cannabis
 created: 2026-04-26
 tags: [cannabis, fusarium, verticillium, pythium, disease]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Fusarium and Vascular Wilt Diseases in Cannabis
 
 Vascular wilt diseases are among the most destructive fungal
-infections in cannabis cultivation. Jorge Cervantes describes three
+infections in [[query-how-does-no-till-cannabis-cultivation-work]]. Jorge Cervantes describes three
 major wilt pathogens -- Fusarium, Verticillium, and Pythium -- that
 invade the plant's internal fluid transport system (xylem), blocking
 water and nutrient flow and causing rapid wilting and plant death.
@@ -45,11 +46,11 @@ reddish-brown discoloration in the xylem tissue.
 - Avoid nitrogen over-fertilization, which makes plants more
   susceptible
 - Keep nutrient solution below 75 degrees F (24 degrees C)
-- Use hydrogen peroxide infusions to arrest Fusarium spread
+- Use [[cervantes-hydrogen-peroxide-sterilization]] infusions to arrest Fusarium spread
 - Always remove and destroy infested plants -- do not compost them
 - Biological controls include Mycostop (Streptomyces griseoviridis),
   Deny, or Daggers (Burkholderia cepacia), and Trichoderma species
-- Treat seeds with chemical fungicides to eradicate seed-borne
+- Treat seeds with [[cervantes-chemical-fungicides-insecticides]] to eradicate seed-borne
   infections; however, chemical fungicides are not effective on
   foliage
 
@@ -85,7 +86,7 @@ fungus has blocked fluid transport.
 Pythium is primarily a root rot pathogen but causes wilt symptoms as
 roots lose their ability to absorb water. It is one of the most
 common diseases in hydroponic cannabis gardens. Pythium thrives in
-stagnant, warm water with low dissolved oxygen. Seedlings and clones
+stagnant, warm water with low [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]]. Seedlings and clones
 are especially vulnerable.
 
 ### Symptoms

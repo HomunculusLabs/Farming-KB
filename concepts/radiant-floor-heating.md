@@ -17,7 +17,7 @@ Unlike forced-air systems that heat air and blow it into a room, radiant heating
 
 - Even temperature distribution (no hot/cold spots)
 - No drafts or fan noise
-- No dust circulation (better air quality)
+- No dust circulation (better [[cervantes-air-quality-ventilation]])
 - Comfort at lower air temperatures (you feel warm even if air is cooler)
 - Compatibility with [[passive-solar-design|passive solar]] thermal mass floors
 
@@ -141,7 +141,6 @@ For off-grid homesteads, radiant heating works well with:
 - **PEX tubing**: Rated for 50+ year lifespan when properly installed
 - **Boiler**: 15-25 year lifespan depending on type
 - **Pumps**: 10-15 year typical lifespan
-
 ## See Also
 
 - [[passive-solar-design]]

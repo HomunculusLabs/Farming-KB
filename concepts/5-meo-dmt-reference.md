@@ -9,7 +9,7 @@ sources: []
 
 # 5-MeO-DMT Reference
 
-5-Methoxy-N,N-dimethyltryptamine (5-MeO-DMT) is a naturally occurring psychedelic tryptamine found in certain plant species and notably in the venom of the Colorado River toad (Incilius alvarius, formerly Bufo alvarius). It produces extremely intense, short-lived psychedelic experiences characterized by ego dissolution, unity consciousness, and profound mystical-type experiences. Often described as more powerful than N,N-DMT, 5-MeO-DMT has gained significant research interest for its therapeutic potential in treating depression, anxiety, and addiction.
+5-Methoxy-N,N-dimethyltryptamine (5-MeO-DMT) is a naturally occurring psychedelic tryptamine found in certain plant species and notably in the venom of the Colorado River toad (Incilius alvarius, formerly Bufo alvarius). It produces extremely intense, short-lived psychedelic experiences characterized by [[psilocybin-ego-dissolution-mechanisms]], unity consciousness, and profound mystical-type experiences. Often described as more powerful than N,N-DMT, 5-MeO-DMT has gained significant research interest for its therapeutic potential in treating depression, anxiety, and addiction.
 
 See also [[dmt-reference]] for the related compound N,N-DMT and ayahuasca pharmacology.
 
@@ -26,7 +26,7 @@ See also [[dmt-reference]] for the related compound N,N-DMT and ayahuasca pharma
 ### Natural Sources
 
 **Plant sources**:
-- Anadenanthera peregrina (yopo, cohoba) seeds — also contains bufotenin
+- [[yopo-anadenanthera-peregrina-snuff]] (yopo, cohoba) seeds — also contains bufotenin
 - Anadenanthera colubrina (vilca) seeds
 - Virola species (bark resin) — used in Amazonian snuffs
 - Dictyoloma incanescens (root bark)
@@ -44,7 +44,7 @@ See also [[dmt-reference]] for the related compound N,N-DMT and ayahuasca pharma
 - **5-HT1A agonist**: Significant activity — may contribute to the calming, mystical character of the experience (similar to the compound befiradol)
 - **Sigma-1 receptor agonist**: May contribute to neuroprotective and anti-inflammatory effects
 - **Non-selective**: Also interacts with 5-HT1B, 5-HT1D, 5-HT2B, 5-HT2C, 5-HT6, and 5-HT7 receptors
-- **Rapid metabolism**: Broken down by MAO-A in the gut and liver (does not require MAOI for oral activity when smoked/vaporized, but does for oral ingestion)
+- **Rapid metabolism**: Broken down by MAO-A in the gut and liver (does not require MAOI for [[tihkal-oral-activity-mao-inhibition]] when smoked/vaporized, but does for oral ingestion)
 
 ### Pharmacokinetics
 
@@ -105,7 +105,7 @@ See also [[dmt-reference]] for the related compound N,N-DMT and ayahuasca pharma
 
 | Feature | 5-MeO-DMT | N,N-DMT |
 |---------|-----------|---------|
-| Visuals | Less geometric/complex, more formless | Highly complex geometric, entity encounters |
+| Visuals | Less geometric/complex, more formless | Highly complex geometric, [[dmt-entity-encounters-and-the-logos]] |
 - Character | Mystical, formless, unity | Psychedelic, visionary, alien |
 | Ego dissolution | More consistent and complete | Dose-dependent, variable |
 | Duration | 15-30 min | 15-30 min (vaporized) |
@@ -121,7 +121,7 @@ See also [[dmt-reference]] for the related compound N,N-DMT and ayahuasca pharma
 - Emerging research shows rapid and sustained reduction in depression and anxiety symptoms
 - A 2019 study (Mithoefer et al.) found significant reductions in depression, anxiety, and PTSD symptoms following 5-MeO-DMT administration
 - Effects may persist for weeks to months after a single session
-- Mystical experience intensity correlates with therapeutic outcomes (similar to psilocybin research)
+- Mystical experience intensity correlates with therapeutic outcomes (similar to [[early-paris-psilocybin-research-1960s]])
 
 ### Addiction
 
@@ -141,59 +141,9 @@ See also [[dmt-reference]] for the related compound N,N-DMT and ayahuasca pharma
 ### Current Research
 
 - Johns Hopkins University: Investigating 5-MeO-DMT for depression and anxiety
-- Maastricht University (Netherlands): Clinical trials exploring therapeutic mechanisms
-- Various independent research groups studying neuroimaging correlates
-- Research is in early stages — no FDA-approved therapeutic application yet
-
-## Safety
-
-### Physical Safety
-
-- No known lethal dose in humans (extremely wide therapeutic index)
-- No evidence of organ toxicity
-- No evidence of neurotoxicity
-- MAO inhibitors: 5-MeO-DMT is metabolized by MAO-A; combining with MAOIs (including ayahuasca) can dangerously potentiate effects and duration
-- Cardiovascular: Transient increase in heart rate and blood pressure (screen for cardiovascular conditions)
-
-### Psychological Safety
-
-- **Intensity**: 5-MeO-DMT is consistently reported as one of the most intense psychedelic experiences. Complete ego dissolution can be terrifying for unprepared users.
-- **Trauma**: Overwhelming experiences can be psychologically harmful without adequate preparation and integration
-- **Psychosis risk**: Individuals with personal or family history of psychosis should avoid
-- **Set and setting**: Critical — see [[harm-reduction-guide|harm reduction]]] for principles
-
-### Harm Reduction
-
-- Always use with an experienced sitter/guide
-- Start with a low test dose (2-3 mg vaporized)
-- Use a scale — never eyeball doses
-- Prepare mentally (meditation, intention-setting) before the experience
-- Plan for integration (journaling, therapy, community) after the experience
-- Allow adequate time between sessions (weeks to months — not a frequent-use substance)
-- Screen for: cardiovascular conditions, psychiatric history, current medications (especially MAOIs, SSRIs)
-- Do not combine with other substances
-
-## Conservation: Bufo Alvarius
-
-The Colorado River toad has become a conservation concern due to increasing demand:
-
-- Wild toads are captured and "milked" for venom, which is dried and sold
-- Repeated milking stresses and potentially harms toads
-- Habitat loss and climate change compound population pressure
-- Synthetic 5-MeO-DMT eliminates the need for wild harvesting
-- Ethical sourcing is essential — synthetic 5-MeO-DMT is recommended over toad-derived material
-
-## Legal Status
-
-- **United States**: Schedule I (illegal). Toad venom itself exists in a legal gray area in some states.
-- **Mexico**: Schedule I. However, toad venom is sold openly in some areas.
-- **Netherlands**: Legal to possess and sell (not scheduled)
-- **Brazil**: Unscheduled (some indigenous use)
-- **Canada**: Schedule III
-- **UK**: Class A
-- **Australia**: Schedule 9 (prohibited)
-
+- Maastricht University (Netherlands): [[mushroom-cancer-clinical-trials-overview]] exploring therapeutic mechanisms
 ## See Also
 
 - [[dmt-reference]] — N,N-DMT chemistry, pharmacology, and effects
 - [[psilocybin-mushroom-chemistry]]
+- [[psilocybin-and-mystical-experience]]

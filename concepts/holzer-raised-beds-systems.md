@@ -1,11 +1,12 @@
 ---
-title: Holzer Raised Bed Systems
+title: Holzer comparison-chinampas-vs-raised-bed-gardening Systems
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 ## Why Raised Beds
@@ -15,7 +16,7 @@ Raised beds offer substantial advantages over ground-level beds:
 - **Microclimates**: Position relative to sun and wind provides different conditions for different plants
 - **Water retention**: Built loosely, they soak up rainwater like a sponge; water stores in lower levels and hollows between beds
 - **Warmth**: The raised part warms more quickly -- critical at high altitudes and cold climates
-- **Frost protection**: Well-aerated, correctly-planted beds slow topsoil freezing
+- **[[holzer-frost-protection-techniques]]**: Well-aerated, correctly-planted beds slow topsoil freezing
 - **Self-fertilising**: Organic material decomposes slowly, releasing heat and nutrients
 - **More space**: The shape provides a larger cultivation area per ground footprint
 - **Design flexibility**: Exciting possibilities for garden and landscape design
@@ -34,7 +35,7 @@ Raised beds offer substantial advantages over ground-level beds:
 ### Planting Strategy
 
 The varying moisture levels within a single raised bed system allow diverse planting:
-- **Raised portions**: Dry-loving plants, Mediterranean herbs
+- **Raised portions**: Dry-loving plants, [[query-best-mediterranean-herbs-for-beginner-herb-garden]]
 - **Sides**: Depending on aspect, sun-loving or shade-tolerant crops
 - **Hollows**: Moisture-loving plants, aquatic species in deeper hollows
 
@@ -42,7 +43,7 @@ The varying moisture levels within a single raised bed system allow diverse plan
 
 - Mulch throughout the year to protect soil and supply nutrients
 - Use polycultures to maintain soil health and prevent pest outbreaks
-- Green manure crops left standing in autumn decompose naturally
+- Green [[green-manure-crops-detailed]] left standing in autumn decompose naturally
 - Earthworms thrive in the loose organic material, acting as "nature's ploughs"
 - No digging or turning required -- the bed maintains its own structure
 
@@ -71,7 +72,7 @@ Raised beds lend themselves to pick-your-own operations:
 
 ## Advantages Over Flat Beds
 
-The three-dimensional structure of raised beds provides significantly more cultivation area per square metre of ground. Water that falls on the bed is retained rather than running off. The organic material within the bed acts as a thermal battery, warming quickly in spring and releasing heat slowly. In marginal climates, this can extend the growing season by weeks.
+The three-dimensional structure of raised beds provides significantly more cultivation area per square metre of ground. Water that falls on the bed is retained rather than running off. The organic material within the bed acts as a thermal battery, warming quickly in spring and releasing heat slowly. In marginal climates, this can [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season by weeks.
 
 ## See Also
 

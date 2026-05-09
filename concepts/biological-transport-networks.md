@@ -13,7 +13,7 @@ type: concept
 Biological transport networks are branched distribution systems that move
 materials — nutrients, gases, signalling molecules, waste — across spatial
 scales within and between organisms. They are found in every kingdom of
-life and share remarkable design principles despite their diverse
+life and share remarkable [[holmgren-permaculture-twelve-design-principles-framework]] despite their diverse
 evolutionary origins. Prominent examples include fungal mycelia, animal
 vasculature, plant xylem and phloem, and slime mould foraging networks.
 
@@ -30,7 +30,7 @@ through it. The same principle has been observed in:
 - **Xylem conduits** in vascular plants
 - **Hyphal branching** in fungal networks
 - **Tracheal tubes** in insect respiratory systems
-- **Slime mould veins** in *Physarum polycephalum*
+- **Slime mould veins** in *[[physarum-polycephalum]]*
 
 ### Supply-Demand Matching
 
@@ -117,7 +117,7 @@ to leaves. Key design features:
 Phloem transports photosynthates from source (leaves) to sink (roots,
 fruits, growing tips) tissues via the pressure-flow hypothesis (Münch,
 1930): osmotic loading of sugars at sources creates hydrostatic pressure
-driving bulk flow toward sugar-depleted sinks. Transport speed ranges from
+driving bulk flow toward sugar-depleted sinks. [[holmgren-transport-speed-and-energy-descent]] ranges from
 0.5–2 m/h, with sieve tube elements connected by porous sieve plates.
 
 ## Applications
@@ -132,6 +132,6 @@ solutions:
 
 ## See Also
 
-- [[growing-gourmet-biological-efficiency-yield]]
+- growing-gourmet-biological-efficiency-yield
 - [[mycelial-network-structure]]
 - [[fungal-ecology]]

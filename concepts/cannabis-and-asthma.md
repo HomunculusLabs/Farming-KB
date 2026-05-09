@@ -12,7 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-Asthma is a chronic inflammatory disease of the airways affecting approximately 300 million people worldwide. Research from The Cannabis Health Index documents a robust body of evidence from the 1970s showing that [[cannabis-anti-inflammatory-applications]] Target
+Asthma is a chronic inflammatory disease of the airways affecting approximately 300 million people worldwide. Research from The [[blesching-cannabis-health-index-autoimmune-conditions]] documents a robust body of evidence from the 1970s showing that [[cannabis-anti-inflammatory-applications]] Target
 **Lu et al. (2006)**: "The cannabinergic system as a target for anti-inflammatory therapies." Current Topics in Medicinal Chemistry 6(13):1401-26.
 
 Comprehensive review establishing the cannabinoid system as a legitimate therapeutic target for inflammatory conditions including asthma.
@@ -33,7 +33,7 @@ Population-based study found that smoking marijuana (even heavy use) was not ass
 Rooibos tea showed selective bronchodilatory effects, with the flavonoid chrysoeriol identified as the active compound.
 
 ### Anise
-**Boskabady and Ramazani-Assari (2001)**: "Relaxant effect of Pimpinella anisum on isolated guinea pig tracheal chains." Journal of Ethnopharmacology 74(1):83-88.
+**Boskabady and Ramazani-Assari (2001)**: "Relaxant effect of Pimpinella anisum on isolated [[mollison-guinea-pig-integration-in-permaculture-gardens]] tracheal chains." Journal of Ethnopharmacology 74(1):83-88.
 
 Anise (Pimpinella anisum) has relaxant effects on airway smooth muscle.
 

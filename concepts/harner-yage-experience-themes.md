@@ -1,5 +1,5 @@
 ---
-title: Common Themes in South American Yage Experiences
+title: Common Themes in chiric-caspi-brunfelsia-south-american-hallucinogen Yage Experiences
 created: 2026-04-26
 sources: Harner (ed.), Hallucinogens and Shamanism (1973), Ch. 9 (Harner)
 related:
@@ -13,7 +13,7 @@ updated: 2026-04-26
 
 # Common Themes in South American Yage Experiences
 
-Michael J. Harner's cross-cultural survey of South American Indian accounts of their experiences with yage/ayahuasca reveals remarkable regularities across diverse tribes and linguistic groups.
+Michael J. Harner's cross-cultural survey of South [[harner-american-indian-peyote-rituals]] accounts of their experiences with yage/ayahuasca reveals remarkable regularities across diverse tribes and linguistic groups.
 
 ## 1. The Soul Separates from the Body and Makes a Trip (Often with Flight)
 
@@ -80,7 +80,7 @@ Notably, Chilean subjects not infrequently saw two main kinds of visions specifi
 Beyond the commonly reported themes of soul flight, predators, and deities, many South American yage accounts describe encounters with specific categories of spiritual beings that play important roles in indigenous cosmologies:
 
 - **Ancestral spirits**: Among the Conibo-Shipibo, shamans report contact with the spirits of deceased healers who transmit knowledge of medicinal plants and icaros (healing songs). These spirit teachers are essential to the shamanic apprenticeship process, providing diagnostic information and therapeutic guidance during ayahuasca sessions.
-- **Master spirits of plants and animals**: The Amahuaca concept of yoshi encompasses a broad category of nature spirits that include the genii or "owners" of animal species, plant species, and geographical features. Each yoshi is associated with specific songs, knowledge, and powers that the shaman can access during ayahuasca visions.
+- **Master spirits of plants and animals**: The Amahuaca concept of yoshi encompasses a broad category of nature spirits that include the genii or "owners" of animal species, plant species, and geographical features. Each yoshi is associated with specific songs, knowledge, and powers that the shaman can access during [[amaringo-ayahuasca-visions-shipibo-iconography]].
 - **Spiritual adversaries**: The Jivaro and other Amazonian groups report encounters with hostile supernatural beings during yage experiences, including sorcerers (bewitchers) who send harmful darts or projectiles. The shaman's ability to perceive and counteract these attacks during visionary states is central to their role as protector of the community.
 
 These encounters are not understood by indigenous practitioners as mere hallucinations but as genuine interactions with autonomous spiritual entities that inhabit a reality coextensive with but distinct from ordinary waking consciousness. The [[mckenna-archaic-revival]] hypothesis proposed by Terence McKenna suggests that these parallels reflect a common neurological substrate — what might be called the "entheogenic experience" — that emerges when specific serotonergic receptor systems in the brain are activated by psychoactive compounds.

@@ -10,9 +10,9 @@ sources: []
 
 ## Overview
 
-Molecular methods have revolutionized fungal taxonomy and systematics, providing tools for identifying species, resolving phylogenetic relationships, and discovering cryptic diversity invisible to morphological approaches. DNA-based methods are now essential for fungal biodiversity studies, complementing but not replacing traditional morphological taxonomy.
+Molecular methods have revolutionized fungal taxonomy and systematics, providing tools for identifying species, resolving phylogenetic relationships, and discovering cryptic diversity invisible to morphological approaches. DNA-based methods are now essential for [[biodiversity-fungal-biodiversity-estimation-methods]] studies, complementing but not replacing traditional morphological taxonomy.
 
-Fungal molecular systematics has relied on PCR amplification and characterization (restriction digestion, sequencing) of discrete genomic DNA targets. Molecular characters are especially important for arthropod-associated fungi where morphological convergence and lack of known teleomorphs obscure phylogenetic relationships. The sensitivity of PCR allows molecular characters from minute quantities of non-culturable types.
+[[biodiversity-fungal-molecular-identification-dna-barcoding]] systematics has relied on PCR amplification and characterization (restriction digestion, sequencing) of discrete genomic DNA targets. Molecular characters are especially important for arthropod-associated fungi where morphological convergence and lack of known teleomorphs obscure phylogenetic relationships. The sensitivity of PCR allows molecular characters from minute quantities of non-culturable types.
 
 ## Nuclear Genome Markers
 
@@ -22,7 +22,7 @@ Fungal nuclear genomes are large, ranging from approximately 1.5 x 10^7 bp to 82
 
 Arbitrarily primed PCR (apPCR), also known as Random Amplified Polymorphic DNA (RAPD) analysis, uses short oligonucleotide primers (10-20 bp) that anneal to complementary DNA sequences at low stringency. A panel of 10-20 primers can generate 100 or more genetic markers in a single experiment, providing a rapid fingerprinting approach.
 
-In fungi, 80-100% of DNA products are shared among conspecifics (individuals of the same species), while different species share only 0-20%. This stark contrast enables unequivocal taxonomic identification in many cases, making RAPD a useful screening tool for [[fungal-dna-barcoding]] and [[fungal-kingdom-classification]].
+In fungi, 80-100% of DNA products are shared among conspecifics (individuals of the same species), while different species share only 0-20%. This stark contrast enables unequivocal taxonomic identification in many cases, making RAPD a useful screening tool for [[fungal-dna-barcoding]] and fungal-kingdom-classification.
 
 ### 5S rRNA
 
@@ -42,7 +42,7 @@ The D1 and D2 domains at the 5-prime end of the 26S large subunit rDNA are parti
 
 ## RFLP Analysis
 
-Restriction-fragment-length polymorphism (RFLP) analysis exploits the fact that rDNAs occur in multiple copies within fungal genomes, lending themselves to restriction digestion and pattern comparison. RFLP analysis of rDNA can recognize individual species and strains, and was widely used before direct sequencing became routine. It remains useful for rapid screening of large sample sets in [[fungal-inventory-methods]].
+Restriction-fragment-length polymorphism (RFLP) analysis exploits the fact that rDNAs occur in multiple copies within fungal genomes, lending themselves to restriction digestion and pattern comparison. RFLP analysis of rDNA can recognize individual species and strains, and was widely used before direct sequencing became routine. It remains useful for rapid screening of large sample sets in fungal-inventory-methods.
 
 ## Mitochondrial DNA Analysis
 
@@ -60,10 +60,10 @@ Molecular phylogenies have reshaped our understanding of fungal evolution. Key f
 
 ### Environmental DNA and Metabarcoding
 
-Culture-independent methods using environmental DNA (eDNA) allow detection of fungi that cannot be cultured or observed directly. Soil DNA extraction and high-throughput sequencing of ITS amplicons reveal fungal diversity far exceeding that captured by traditional methods. This approach has been particularly important for documenting soil fungal communities, [[fungal-phylogeny-systematics]] -- phylogenetic methods and classification frameworks
+Culture-independent methods using environmental DNA (eDNA) allow detection of fungi that cannot be cultured or observed directly. Soil DNA extraction and high-throughput sequencing of ITS amplicons reveal [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] far exceeding that captured by traditional methods. This approach has been particularly important for documenting soil [[biodiversity-of-fungi-soil-fungal-communities-agriculture]], [[fungal-phylogeny-systematics]] -- phylogenetic methods and classification frameworks
 - [[fungal-molecular-identification]] -- molecular tools for species identification
-- [[soil-fungal-diversity]] -- molecular approaches to soil community analysis
-- [[fungal-inventory-methods]] -- field and laboratory methods for fungal surveys
+- [[soil-fungal-diversity]] -- [[staycare-molecular-approaches-fungal-bioremediation]] to soil [[rhizosphere-fungal-community-analysis-rrna-rdna]]
+- fungal-inventory-methods -- field and laboratory methods for fungal surveys
 - [[fungal-biodiversity-measurement-methods]] -- quantitative approaches to fungal diversity
 ## Practical Considerations
 
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

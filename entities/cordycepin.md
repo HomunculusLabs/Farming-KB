@@ -24,7 +24,7 @@ sources:
 
 Cordycepin is a nucleoside analogue structurally similar to adenosine, distinguished by the absence of a hydroxyl group at the 3′ position of the ribose ring (3′-deoxyadenosine). First isolated from *Cordyceps militaris* in 1950 by Cunningham and colleagues, it is the signature bioactive compound of the Cordyceps genus and one of the most pharmacologically significant fungal metabolites.
 
-Cordycepin exhibits broad biological activity including anticancer, immunomodulatory, anti-inflammatory, and antiviral properties. Its structural resemblance to adenosine allows it to interfere with nucleic acid synthesis and signal transduction pathways, making it a molecule of sustained interest in pharmacology and natural products chemistry.
+Cordycepin exhibits broad biological activity including anticancer, immunomodulatory, anti-inflammatory, and antiviral properties. Its structural resemblance to adenosine allows it to interfere with nucleic acid synthesis and [[fungal-environmental-sensing-signal-transduction-read]] pathways, making it a molecule of sustained interest in pharmacology and natural products chemistry.
 
 The compound has been investigated in over 3,000 published studies and is currently the subject of clinical trials in oncology. Unlike many fungal metabolites, cordycepin has a well-characterized mechanism of action anchored in its nucleoside mimicry.
 
@@ -45,7 +45,7 @@ Cordycepin is biosynthesized via the purine nucleotide pathway in fungi.
 
 - **Primary producer:** *Cordyceps militaris* (fruiting bodies and mycelium)
 - **Secondary source:** *Cordyceps sinensis* (trace amounts in natural specimens)
-- **Other sources:** *Isaria sinclairii*, *Aspergillus nidulans* (genetically engineered strains)
+- **Other sources:** *Isaria sinclairii*, *Aspergillus nidulans* ([[singh-genetically-engineered-fungi-bioremediation]] strains)
 - **Biosynthetic pathway:** Derived from adenosine monophosphate (AMP) via 3′-deoxy-AMP intermediate, catalyzed by cordycepin synthase (Cns1/Cns2)
 - **Culture accumulation:** Mycelial fermentation of *C. militaris* produces 0.5–4.0 g/L depending on strain and conditions
 - **Co-occurring compounds:** Cordycepic acid (mannitol), adenosine, deoxyadenosine, hydroxyethyl-adenosine
@@ -87,7 +87,7 @@ Cordycepin modulates both innate and adaptive immune responses.
 ## Antimicrobial and Antiviral Activity
 
 - **Antibacterial:** Inhibits *Bacillus subtilis*, *Staphylococcus aureus*, and *Escherichia coli* at MIC values of 50–200 µg/mL
-- **Antifungal:** Activity against *Candida albicans* and *Cryptococcus neoformans* reported
+- **Antifungal:** Activity against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and *[[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]]* reported
 - **Antiviral:** Inhibits replication of influenza virus, Epstein-Barr virus, and HIV through interference with viral RNA synthesis and processing
 
 ## Pharmacokinetics and Bioavailability
@@ -109,8 +109,8 @@ Cordycepin modulates both innate and adaptive immune responses.
 ## Toxicity and Safety Profile
 
 - **LD₅₀:** >4 g/kg (oral, mouse) — classified as low toxicity
-- **Adverse effects:** Mild gastrointestinal disturbance at high oral doses; transient hypotension at high i.v. doses due to adenosine receptor activation
-- **Drug interactions:** Potential additive effects with adenosine receptor agonists and nucleoside analogues used in chemotherapy
+- **[[blesching-cannabis-safety-adverse-effects-evidence]]:** Mild gastrointestinal disturbance at high oral doses; transient hypotension at high i.v. doses due to adenosine receptor activation
+- **Drug interactions:** Potential additive effects with adenosine [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]] and nucleoside analogues used in chemotherapy
 - **Contraindications:** Caution in patients on immunosuppressive therapy or anticoagulant medications
 
 ## See Also

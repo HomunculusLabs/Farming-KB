@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Leafly strain database. "Black Tuna." Accessed 2024.
-  - AllBud strain reviews. "Black Tuna Cannabis Strain." Accessed 2024.
+  - AllBud strain reviews. "Black Tuna [[blesching-cannabis-strain-selection-receptor-targeting]]." Accessed 2024.
   - Cannabis Winnipeg strain archive. "Black Tuna — BC's Underground Legend."
   - Cannabis Growers and Smokers Forum (CGS). Historical strain discussion threads, 2010–2018.
 created: 2026-04-28
@@ -47,7 +47,7 @@ The unusually high **caryophyllene** content (a CB2 receptor agonist that does n
 ### Medical Applications
 
 - **Insomnia**: Highly effective for sleep induction and treatment-resistant insomnia
-- **Pain management**: Strong analgesic properties for chronic pain, neuropathy, and muscle spasms
+- **[[cannabis-pain-management-protocols]]**: Strong analgesic properties for [[cannabis-chronic-pain-management]], neuropathy, and muscle spasms
 - **Anxiety and stress**: Physical relaxation alleviates tension, though high doses may increase mental anxiety in prone individuals
 - **PTSD**: Helps with sleep disturbances and nightmares associated with PTSD
 
@@ -72,11 +72,11 @@ Black Tuna is considered **moderately difficult** to cultivate, suited to interm
 - **Temperature**: Cooler night temps (15–18°C) during late flowering maximize anthocyanin expression and dark coloration
 - **Nutrients**: Heavy feeder during weeks 3–6 of flowering; reduce nitrogen late in cycle
 - **Training**: Responds well to LST, SCROG, and topping
-- **Humidity**: Keep below 50% RH during flowering to prevent bud rot in dense colas
+- **Humidity**: Keep below 50% RH during flowering to prevent [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]] in dense colas
 - **Temperature**: Prefers cooler nighttime temperatures (15–18°C) during late flowering to maximize anthocyanin expression and dark coloration
 - **Nutrients**: Heavy feeder during weeks 3–6 of flowering; reduce nitrogen and increase phosphorus/potassium in weeks 7–10
 - **Training**: Responds well to LST (low-stress training), SCROG, and topping to manage canopy height and increase yield
-- **Pest resistance**: Moderate natural pest resistance due to thick resin coating
+- **[[cannabis-disease-pest-resistance-breeding-clarke]]**: Moderate [[cho-natural-pest-control-methods]] resistance due to thick resin coating
 - **Humidity**: Keep below 50% RH during flowering to prevent bud rot in the dense colas
 
 ## See Also

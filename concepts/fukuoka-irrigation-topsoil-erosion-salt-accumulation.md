@@ -1,11 +1,12 @@
 ---
-title: Fukuoka on Irrigation, Topsoil Erosion, and Salt Accumulation
+title: Fukuoka on Irrigation, fukuoka irrigation topsoil erosion salt accumulation, and Salt Accumulation
 created: 2026-04-28
 updated: 2026-04-28
 type: concept
 tags: [fukuoka, irrigation, soil-degradation, salt-accumulation, topsoil-erosion, natural-farming]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka on Irrigation, Topsoil Erosion, and Salt Accumulation
@@ -33,12 +34,12 @@ years earlier, the town, which today lies in the middle of a desert, had
 experienced mighty floods.
 The parent rock underlying California around San Francisco is identical to that
 of Japan, and the same is true for Hokkaido and southern Canada, for Siberia and
-Alaska, and for Southeast Asia and Mexico. The distribution of parent rock is
+Alaska, and for [[psilocybe-southeast-asia-pacific]] and Mexico. The distribution of parent rock is
 exactly the same on both sides of the Pacific. Japan has four seasons;
 California has just winter and summer, with very little rainfall. If the parent
 rock and grasses are identical, then one would expect both areas to have a
 similar climate. At some point, California became a desert and Japan became a
-temperate climate with four seasons.
+[[permaculture-designers-manual-temperate-climate-design]] with four seasons.
 
 ## Rain Falls from Below
 
@@ -124,20 +125,19 @@ Fukuoka considered extremely crude, primitive agriculture.
 
 ## Deficit Farming
 
-Fukuoka coined the term "deficit farming" to describe the American agricultural
+Fukuoka coined the term "deficit farming" to describe the [[fukuoka-american-agricultural-decline]]
 system. The soil at the farmers' feet grows progressively poorer each year, even
 as the farmers themselves may appear prosperous. All they are doing is selling
 feed crops grown by applying petroleum-based products. By exporting all this
 feed, America drains her lands of fertility.
 When the soil gives out and fields are abandoned by ranchers, fruit growers move
-in, set up sprinklers on the weary land, spread chemical fertilizers, and grow
+in, set up sprinklers on the weary land, spread [[cervantes-chemical-fertilizers-guide]], and grow
 plums, apricots, and oranges. This is no longer crop production under natural
 conditions; it is farming based on petroleum energy. Even the water, although
 ## See Also
 
 - [[fukuoka-natural-farming-philosophy]]
-- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-desert-cause-vegetation]] for Fukuoka on vegetation and desertification
-- [[fukuoka-machine-culture-doomed]] for machine culture critique
+- [[fukuoka-machine-culture-doomed]] for [[fukuoka-machine-culture-doomed-agricultural-decline-america-europe]] critique
 - [[fukuoka-monoculture-meat-based-agricultural-system]] for monoculture critique
 - [[fukuoka-soil-self-improvement-without-tillage]] for natural soil building

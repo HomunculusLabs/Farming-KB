@@ -1,5 +1,5 @@
 ---
-title: JADAM Combined Pesticide Programs with JWA JS and JHS
+title: JADAM jadam combined pesticide programs jwa js jhs Programs with JWA JS and JHS
 created: 2026-04-28
 tags: [jadam, pesticide-programs, jwa-js-jhs, integrated-pest-management]
 date: 2026-04-25
@@ -18,11 +18,11 @@ effectively is essential for successful organic pest management.
 
 ## The Three Core Components
 
-**JADAM Wetting Agent (JWA)** is the foundation of all JADAM pesticide
+**JADAM [[jadam-nutrient-management-wetting-agent-and-calcium]] (JWA)** is the foundation of all JADAM pesticide
 mixtures. It is a natural surfactant made from canola oil and potassium
 hydroxide without heating. JWA increases the wetting, coating, and
 penetrating power of pesticides. It also has its own pesticide and
-germicide effect. JWA alone can control aphids, mites, and powdery mildew
+germicide effect. JWA alone can [[query-how-do-i-identify-and-control-aphids-on-cannabis]], mites, and [[cervantes-powdery-mildew-prevention-treatment]]
 in their early stages. The cost is less than 50 cents per liter.
 
 **JADAM Sulfur (JS)** is a powerful germicide made from sulfur, caustic
@@ -36,7 +36,7 @@ mildew.
 **JADAM Herb Solution (JHS)** extends pest control to a wider range of
 insects including cabbage white butterfly caterpillars, tobacco moth, beet
 armyworm, stinkbug, and thrips. JHS is made by boiling herbs such as
-Jerusalem artichoke, gingko, or Korean pasque flower root in water. JHS
+[[comparison-jerusalem-artichoke-vs-potato]], gingko, or Korean pasque flower root in water. JHS
 also functions as a fertilizer, providing nutrients to crops while
 controlling pests.
 
@@ -101,7 +101,7 @@ complete self-sufficiency in pesticide production.
 For even stronger pesticide effect, JADAM suggests adding red clay powder
 to the JWA-JS-JHS mixture. Red clay powder enhances the formulation's
 sticking and coating properties. The clay particles also contribute
-additional minerals to the foliar application.
+additional minerals to the [[ultra-low-cost-foliar-application-methods]].
 
 ## Winter Pest Control Program
 

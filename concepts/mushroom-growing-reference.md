@@ -1,6 +1,6 @@
 ---
 
-title: Mushroom Growing Reference
+title: duggar-mushroom-growing-history-and-methods Reference
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -68,10 +68,10 @@ Complete practical reference synthesizing all cultivation sources into one actio
 Mushrooms fruit when environmental cues signal favorable conditions. Master these four triggers:
 
 ### 1. Fresh Air Exchange (FAE)
-Most important trigger. Introducing fresh air drops CO2 levels from thousands of ppm to under 1000 ppm. Causes a shift from vegetative mycelial growth to reproductive fruiting. Oss & Oeric identified this as the primary fruiting trigger. Provide passive FAE via holes in fruiting chamber, or active via small fan pointed away from cultures.
+Most important trigger. Introducing fresh air drops CO2 levels from thousands of ppm to under 1000 ppm. Causes a shift from vegetative mycelial growth to reproductive fruiting. Oss & Oeric identified this as the primary fruiting trigger. Provide passive FAE via holes in [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]], or active via small fan pointed away from cultures.
 
 ### 2. Light
-Phototropic response directs mushroom growth. Badham (1980) confirmed light is a fruiting initiator for P. cubensis. 12-hour on/off cycle at 6500K (daylight). Indirect light is fine — direct sun is too intense. Light quality matters: blue spectrum (370-420nm) most effective for primordia formation.
+Phototropic response directs mushroom growth. Badham (1980) confirmed light is a fruiting initiator for P. cubensis. 12-hour on/off cycle at 6500K (daylight). Indirect light is fine — direct sun is too intense. Light quality matters: blue spectrum (370-420nm) most effective for [[growing-gourmet-primordia-formation-pinning]].
 
 ### 3. Temperature Drop
 A 5-10F drop signals seasonal change. Cold shocking (refrigerate for 24-72 hours) initiates fruiting for shiitake on logs. Most indoor methods achieve this naturally by moving from warm incubation (80F) to room temperature fruiting (70-75F).
@@ -98,10 +98,10 @@ High relative humidity (85-95%) is required for primordia formation and fruit de
 ## Species-Specific Quick Tips
 
 ### Oyster (Pleurotus spp.)
-Easiest species. Tolerates imperfect sterile technique. Grows on straw, sawdust, paper, coffee grounds. No casing needed. Requires high FAE — poor formation under high CO2. Multiple varieties: blue, golden, pink, king. Biological efficiency 50-100% on straw.
+Easiest species. Tolerates imperfect [[cultivator-sterile-technique-and-agar-culture]]. Grows on straw, sawdust, paper, coffee grounds. No casing needed. Requires high FAE — poor formation under high CO2. Multiple varieties: blue, golden, pink, king. [[stamets-biological-efficiency-yield]] 50-100% on straw.
 
 ### Shiitake (Lentinula edodes)
-Best on oak logs (traditional) or supplemented sawdust blocks. Requires cold shock for log fruiting (submerge 24-72 hours in cold water). Two main strain types: cold-weather (fruit at 50-65F) and warm-weather (fruit at 65-80F). Log production lasts 3-5 years. Always cook before eating.
+Best on oak logs (traditional) or [[oyster-mushroom-supplemented-sawdust-blocks]] blocks. Requires cold shock for log fruiting (submerge 24-72 hours in cold water). Two main strain types: cold-weather (fruit at 50-65F) and warm-weather (fruit at 65-80F). Log production lasts 3-5 years. Always cook before eating.
 
 ### Lion's Mane (Hericium erinaceus)
 Requires supplemented sawdust (oak, maple, beech) with 15-20% bran. Very sensitive to CO2 — needs excellent FAE. Poor air produces elongated, coral-like formations. Prized culinary (lobster flavor) and medicinal (NGF stimulation).

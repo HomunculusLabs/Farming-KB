@@ -1,5 +1,5 @@
 ---
-title: Specimen Misidentification and Erroneous Chemical Analyses in Neurotropic Fungi
+title: Specimen Misidentification and specimen misidentification erroneous chemical analyses guzman 1998 Analyses in Neurotropic Fungi
 created: 2026-05-06
 tags:
   - taxonomy
@@ -36,7 +36,7 @@ One of the clearest examples involves Gerronema fibula and G. solipes. Hongo
 indole compounds. However, Stijve and Kuyper (1988) later analyzed these
 two species and failed to find any indole compounds. The original reports
 were likely based on misidentified specimens, possibly specimens of
-Pluteus salicinus or other indole-containing species that were mistakenly
+[[gartz-pluteus-salicinus-wood-inhabiting-psilocybin]] or other indole-containing species that were mistakenly
 identified as Gerronema.
 
 ### Mycena cyanorrhiza
@@ -55,7 +55,7 @@ contentious chemical history. Multiple studies (Robbers et al. 1969;
 Fiussello and Scurti 1972; Gartz 1985) have reported detecting psilocybin
 or psilocin in specimens identified as this species. However, Allen and
 Merlin (1992) investigated these reports and questioned their reliability,
-noting that misidentification with Panaeolus subbalteatus or other
+noting that misidentification with [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]] or other
 psilocybin-containing Panaeolus species was likely. The 1998 paper includes
 P. foenisecii in its worldwide checklist but with the implicit understanding
 that its neurotropic status is uncertain.
@@ -84,7 +84,7 @@ comparisons of their alkaloid profiles.
 ### Taxonomic Difficulty
 Many neurotropic fungi belong to genera that are notoriously difficult to
 identify. Inocybe, Conocybe, Panaeolus, and even Psilocybe contain species
-requiring microscopic examination. Field identification based on macroscopic
+requiring [[fungal-microscopic-examination-mounting-media-techniques]]. Field identification based on macroscopic
 characters alone is frequently unreliable.
 
 ### Chemical Preconception
@@ -101,8 +101,8 @@ concepts were different.
 
 ### Nomenclatural Changes
 
-Reclassification creates additional confusion. When Panaeolus cyanescens was
-moved to Copelandia cyanescens, and Stropharia cubensis transferred to
+Reclassification creates additional confusion. When [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]] was
+moved to Copelandia cyanescens, and [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] transferred to
 Psilocybe cubensis, chemical analyses published under older names may be
 attributed to the wrong taxonomic concept.
 

@@ -1,5 +1,5 @@
 ---
-title: Stigmasterol as Brassinosteroid Biosynthetic Precursor
+title: Stigmasterol as stigmasterol as brassinosteroid biosynthetic precursor Precursor
 tags: [biochemistry, steroids, brassinosteroids, stigmasterol, biosynthesis, mycology]
 source: growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt
 created: 2026-05-08
@@ -44,7 +44,7 @@ of stigmasterol to brassinosteroids involves:
 The synthetic route from stigmasterol to 22S,23S-homobrassinolide developed by
 Adam and Marquardt confirmed that this transformation is chemically feasible and
 yielded a compound with potent biological activity, as later demonstrated in the
-fungal growth promotion studies of Gartz, Adam, and Vorbrodt (1990).
+fungal [[brassinosteroid-growth-promotion-psilocybe-cubensis]] studies of Gartz, Adam, and Vorbrodt (1990).
 
 ## Natural Occurrence
 
@@ -55,7 +55,7 @@ Stigmasterol is widely distributed across the plant kingdom:
 - **Vegetable oils**: Calendula oil, rapeseed oil, and other seed oils contain
   significant stigmasterol fractions
 - **Herbs and spices**: Many medicinal plants accumulate stigmasterol as a
-  secondary metabolite
+  [[fungal-elicitors-enhanced-secondary-metabolite-production]]
 - **Fungi**: Some fungal species can produce or accumulate phytosterols,
   though brassinosteroid biosynthesis in fungi has not been demonstrated
 
@@ -76,9 +76,9 @@ synthetic brassinosteroids have shown promising results in:
 
 The Gartz et al. (1990) study demonstrated that 22S,23S-homobrassinolide
 synthesized from stigmasterol had potent growth-promoting effects on
-Psilocybe cubensis mycelial cultures. This was significant because:
+[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] mycelial cultures. This was significant because:
 
-- It was the first demonstration of brassinosteroid activity on fungi
+- It was the first demonstration of brassinosteroid [[phytohormone-activity-on-fungi-literature-gap-brassinosteroid]]
 - The synthetic brassinosteroid from stigmasterol was effective at extremely
   low concentrations (0.01 ppm)
 - It suggested that brassinosteroids may play a biological role beyond the
@@ -121,7 +121,7 @@ biological activities:
   cholesterol absorption
 - Anti-inflammatory properties demonstrated in various animal models
 - Potential anti-cancer activity through modulation of cell signaling pathways
-- Antioxidant activity that may contribute to plant stress tolerance
+- Antioxidant activity that may contribute to plant [[fungal-lichen-stress-tolerance-and-poikilohydry]]
 
 ## See Also
 

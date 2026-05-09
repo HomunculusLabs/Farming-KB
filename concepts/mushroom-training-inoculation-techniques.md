@@ -1,5 +1,5 @@
 ---
-title: Mushroom Bag Inoculation Techniques
+title: oyster-mushroom-bag-preparation-and-pasteurization cotter-inoculation-techniques-and-hygiene
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
@@ -15,9 +15,9 @@ sources:
 
 # Mushroom Bag Inoculation Techniques
 
-Inoculation is the critical step where prepared [[mushroom-training-substrate-preparation]].
+Inoculation is the critical step where prepared mushroom-training-substrate-preparation.
 Proper technique determines contamination rates and overall cultivation success. The FAO
-training manual for disabled mushroom farmers emphasizes that inoculation must be done under
+[[mushroom-cultivation-disabilities-training-manual-overview]] for disabled mushroom farmers emphasizes that inoculation must be done under
 strictly clean conditions, and that people with various disabilities can successfully perform
 this step with appropriate adaptations.
 
@@ -49,7 +49,7 @@ Contamination is the primary risk during inoculation. Sources of contamination i
 - Poor hygiene in the inoculation room
 
 The manual recommends that inoculation be done in hygiene conditions: clean and with no air
-movement. For facilities with more resources, a laminar flow cabinet provides additional
+movement. For facilities with more resources, a [[comparison-laminar-flow-hood-vs-fruiting-chamber]] cabinet provides additional
 protection against airborne contamination.
 
 ## Adaptations for People with Disabilities
@@ -75,6 +75,12 @@ how record keeping ties into business management.
 ## Relationship to the Cultivation Cycle
 
 Inoculation is Step 7 in the full cultivation cycle described in the FAO manual. It follows
-substrate preparation and pasteurization, and precedes incubation. The entire sequence is:
-substrate mixing, bagging, pasteurization, inoculation, incubation, bag opening, fruiting body
+[[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] and pasteurization, and precedes incubation. The entire sequence is:
+substrate mixing, bagging, pasteurization, inoculation, incubation, bag opening, [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]
 management, and harvesting.
+## See Also
+- [[substrate-preparation-and-pasteurization]]
+- [[substrate-preparation]]
+- [[mushroom-spore-inoculation-techniques]]
+- [[mushroom-inoculation-techniques]]
+- [[mushroom-inoculation-techniques-stamets]]

@@ -11,8 +11,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Wiz Khalifa / KK Brand (2015). Official Khalifa Kush strain information. kkbrand.com."
-  - "Leafly Staff (2020). 'Khalifa Kush cannabis strain information.' Leafly."
+  - "Wiz Khalifa / KK Brand (2015). Official Khalifa cannabis-hindu-kush-strain-description-clarke information. kkbrand.com."
+  - "Leafly Staff (2020). 'Khalifa Kush [[blesching-cannabis-strain-selection-receptor-targeting]] information.' Leafly."
   - "MUDGE Labs (2022). 'Khalifa Kush cannabinoid and terpene profile analysis.' MUDGE Analytics Report."
   - "Davenport, M. (2023). 'Celebrity cannabis strains and brand influence.' Cannabis and Cannabinoid Research 8(2): 141–152."
 created: 2026-04-28
@@ -30,7 +30,7 @@ The strain is closely related to OG Kush but has been selectively bred over
 multiple generations to achieve a more focused, cerebral high with reduced
 sedation. It gained widespread attention as one of the first celebrity-branded
 cannabis strains and remains one of the most recognized names in modern
-cannabis culture.
+[[mckenna-cannabis-culture-history]].
 
 ## Strain Classification
 
@@ -86,7 +86,7 @@ and not widely available as stabilized seed stock.
 - **Flowering time:** 8 to 9 weeks indoors
 - **Yield:** Moderate, approximately 300 to 400 grams per square meter indoors
 - **Height:** Medium, reaching 100 to 150 cm indoors
-- **Difficulty:** Moderate, requires experience with nutrient management
+- **Difficulty:** Moderate, requires experience with [[green-cannabis-grow-bible-nutrient-management-ppm]]
 - **Climate:** Prefers warm, dry Mediterranean conditions
 - **Resistance:** Moderate resistance to mold and pests; dense bud structure
   requires attention to airflow
@@ -115,7 +115,7 @@ cannabis use in popular culture during the mid-2010s.
 The strain's commercial success demonstrated the viability of celebrity-branded
 cannabis products, paving the way for similar ventures by other artists. Khalifa
 launched the KK Brand to market Khalifa Kush products, including flower, vape
-cartridges, and pre-rolls, across legal cannabis markets in the United States.
+cartridges, and pre-rolls, across legal cannabis markets in the [[dmt-containing-plants-united-states-halpern]].
 
 The strain has won or placed in multiple cannabis competition categories,
 particularly in California and Colorado, earning recognition for its potency
@@ -126,4 +126,4 @@ and distinctive terpene profile.
 - [[girl-scout-cookies]]
 - [[gorilla-glue]]
 - [[sour-diesel]]
-- [[wedding-cake-cannabis]]
+- [[wedding-cake]]

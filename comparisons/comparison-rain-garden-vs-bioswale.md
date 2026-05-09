@@ -1,5 +1,5 @@
 ---
-title: Rain Garden vs Bioswale
+title: comparison rain garden vs bioswale vs Bioswale
 tags:
   - water-management
   - stormwater
@@ -39,7 +39,7 @@ created: 2026-04-28
 | **Vegetation** | Deep-rooted native perennials, shrubs, grasses tolerant of wet/dry cycles | Turf grass, native grasses, wetland plants; must tolerate flowing water |
 | **Installation cost** | $3–15 per sq ft depending on size and plantings | $5–25 per linear ft; varies with length and complexity |
 | **Maintenance** | Moderate: weeding, mulch replacement, sediment removal, plant care | Low–moderate: mowing, sediment removal at check dams, erosion repair |
-| **Lifespan** | 20–30+ years with proper maintenance | 15–25+ years; depends on sediment loading and erosion control |
+| **Lifespan** | 20–30+ years with proper maintenance | 15–25+ years; depends on sediment loading and [[permplant-willows-salix-erosion-control-fodder]] |
 | **Best for** | Residential yards, small commercial lots, dispersed rooftop/Driveway runoff | Parking lots, roadsides, long property boundaries, linear runoff collection |
 
 ## Design Differences
@@ -75,7 +75,7 @@ A bioswale functions as a vegetated waterway that combines conveyance with treat
 | **Total suspended solids (TSS)** | 85–97% | 70–90% |
 | **Nitrogen (total)** | 40–70% | 25–50% |
 | **Phosphorus (total)** | 60–85% | 40–65% |
-| **Heavy metals (Zn, Cu, Pb)** | 75–95% | 50–80% |
+| **[[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] (Zn, Cu, Pb)** | 75–95% | 50–80% |
 | **Hydrocarbons/oil/grease** | 80–95% | 60–85% |
 | **Bacteria (E. coli)** | 70–90% | 50–75% |
 | **Volume reduction** | 40–80% via infiltration | 15–40% via infiltration along length |

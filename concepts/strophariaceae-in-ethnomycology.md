@@ -22,7 +22,7 @@ The Strophariaceae family occupies a central position in ethnomycology — the
 study of the relationship between fungi and human cultures. Within this family,
 the genus Psilocybe is by far the most significant, containing the majority
 of the world's known neurotropic species and serving as the primary vehicle for
-indigenous sacred mushroom practices across Mesoamerica, South America, and
+indigenous [[allegro-the-sacred-mushroom-amanita-identification]] practices across Mesoamerica, South America, and
 parts of Asia and Oceania. The rediscovery of Psilocybe-using cultures in
 Mexico in the mid-twentieth century launched the modern era of psychedelic
 research and fundamentally altered Western understanding of consciousness,
@@ -37,7 +37,7 @@ substrates including wood, dung, soil, and grass. The family includes several
 genera of ethnomycological importance:
 
 - Psilocybe — the dominant genus with 116 neurotropic species out of 216
-  total known neurotropic fungi worldwide
+  total known [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] worldwide
 - Gymnopilus — 14 neurotropic species, primarily wood-inhabiting, broadly
   distributed in temperate forests of the Northern Hemisphere
 - Hypholoma — 6 neurotropic species, often found fruiting on decaying wood
@@ -54,7 +54,7 @@ and amateur mycologist, and his wife Valentina Pavlovna Wasson. In 1955, Wasson
 participated in a velada (night ceremony) with the Mazatec curandera María
 Sabina in Huautla de Jiménez, Oaxaca, becoming the first outsider to
 experience the sacred mushroom ritual. Wasson's 1957 article in Life magazine,
-"Seeking the Magic Mushroom," brought global attention to the practice.
+"Seeking the [[australian-magic-mushroom-common-names]]," brought global attention to the practice.
 
 Albert Hofmann of Sandoz Laboratories subsequently isolated psilocybin and
 psilocin from specimens collected by Wasson and Heim. Hofmann's identification
@@ -87,7 +87,7 @@ Among the most significant species in indigenous practice:
 
 The Nahuatl term "teonanácatl" (literally "divine mushroom" or "flesh of the
 gods"), first recorded by Bernardino de Sahagún in the sixteenth century, has
-become the most widely recognized indigenous name for sacred mushrooms, though
+become the most widely recognized indigenous name for [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]], though
 in practice it is now used indiscriminately for all Mexican hallucinogenic fungi.
 
 ## The McKenna Hypothesis: Mushrooms and Human Evolution

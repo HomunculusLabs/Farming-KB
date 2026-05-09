@@ -1,5 +1,5 @@
 ---
-title: Peganum harmala L.
+title: mckenna-food-gods-peganum-harmala-soma L.
 created: 2026-04-28
 type: species
 tags:
@@ -18,7 +18,7 @@ sources:
 
 ## Common Names
 
-Syrian Rue, Harmal, Harmel, Aspand, Esfand, African Rue, Wild Rue,
+[[golden-guide-syrian-rue-and-maoi-plants]], Harmal, Harmel, Aspand, Esfand, African Rue, Wild Rue,
 Harmala.
 
 ## Taxonomy
@@ -30,7 +30,7 @@ Harmala.
 
 Peganum harmala is the type and most widely known species of the genus
 Peganum, which contains a small number of species distributed across
-arid and semi-arid regions of the Old World. The genus is placed in
+arid and semi-arid regions of the [[datura-metel-old-world-ethnobotany]]. The genus is placed in
 the family Zygophyllaceae, though some modern classifications have
 proposed moving it to its own monogeneric family, Nitrariaceae, based
 on molecular phylogenetic evidence.
@@ -66,7 +66,7 @@ Peganum harmala is native to a broad region extending from western
 Asia (Asia Minor, the Levant, Iran) across Central Asia to northern
 India, with disjunct populations in Mongolia and Manchuria. The plant
 has been widely naturalized in other regions, including the
-Mediterranean basin, North Africa, the southwestern United States,
+Mediterranean basin, North Africa, the southwestern [[dmt-containing-plants-united-states-halpern]],
 and parts of South America.
 
 It grows in dry, sandy or stony soils, steppe and desert margins,

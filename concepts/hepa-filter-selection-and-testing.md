@@ -1,5 +1,5 @@
 ---
-title: HEPA Filter Selection and Testing for Mushroom Cultivation
+title: HEPA hepa filter selection and testing and Testing for accessible-mushroom-cultivation-for-disabilities
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
@@ -44,7 +44,7 @@ A properly functioning hood should produce zero or near-zero colonies on test pl
 
 ## Cost Considerations
 
-The Forister & Burger cost analysis (for two hoods, one fan) provides a useful reference point, though prices have changed substantially:
+The Forister & Burger [[ayahuasca-tourism-cost-analysis-peru-vs-homebrew]] (for two hoods, one fan) provides a useful reference point, though prices have changed substantially:
 
 | Component Category | Original Cost | Notes |
 |-------------------|--------------|-------|
@@ -66,9 +66,9 @@ Modern equivalents would cost significantly more due to inflation, but the propo
 
 ## See Also
 
-- [[laminar-flow-hood-guide]] — laminar flow hood usage and protocol
-- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] — sterile technique principles
-- [[contamination-identification-prevention]] — contamination identification and prevention
+- [[laminar-flow-hood-guide]] — [[comparison-laminar-flow-hood-vs-fruiting-chamber]] hood usage and protocol
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] — [[cultivator-sterile-technique-and-agar-culture]] principles
+- [[contamination-identification-prevention]] — [[mushroom-cultivation-contamination-troubleshooting]] and prevention
 - [[agar-work-guide]] — agar work in the flow hood
 ## Practical Considerations
 
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,16 +1,17 @@
 ---
-title: Fukuoka: Agriculture for Tomorrow -- Natural Farming Offers a New Future
+title: Fukuoka: Agriculture for Tomorrow -- comparison-natural-farming-vs-permaculture Offers a New Future
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 ## Natural Farming Is Not Primitive Agriculture
 
-Natural farming is not a primitive form of agriculture. It is neither a type of organic farming nor a farming method from the past. Natural farming is a way of farming that transcends past and future.
+Natural farming is not a primitive form of agriculture. It is neither a type of [[coleman-deep-organic-farming-philosophy]] nor a farming method from the past. Natural farming is a way of farming that transcends past and future.
 
 - It is a way of farming practiced from the days of Gautama, from the days of Gandhi
 
@@ -85,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

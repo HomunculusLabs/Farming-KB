@@ -17,7 +17,7 @@ American pawpaw, poor man's banana
 
 ## Overview
 Pawpaw (Asimina triloba) is a deciduous shrub or small tree native to eastern
-North America and the largest native fruit on the continent, producing
+[[psilocybin-north-america-pacific-northwest]] and the largest native fruit on the continent, producing
 banana-custard-flavoured fruits weighing up to 300 grams. Despite the common
 name, it is unrelated to the tropical pawpaw (Carica papaya) and is instead
 a member of the custard apple family (Annonaceae). It naturally occurs as a
@@ -35,18 +35,18 @@ thicket-forming understory in open woodlands and along watercourses.
 - **Habit:** Deciduous shrub or low tree, to 12 m under favourable conditions
 - **Trunk:** Straight, rarely exceeding 30 cm diameter (some measured to
   150 cm)
-- **Suckering:** Single tree can sucker out to about a quarter acre in ideal
+- **Suckering:** Single tree can sucker out to about a [[fukuoka-agriculture-tomorrow-quarter-acre-vision]] in ideal
   conditions, forming thickets
 - **Branches:** Brittle; very prone to wind damage
 - **Frost tolerance:** Copes with snow conditions; severe spring frosts can
   destroy flowers and cause crop loss
 
 ### Environmental Requirements
-- **Soil:** Prefers well-drained, fertile soil rich in organic matter
+- **Soil:** Prefers well-drained, fertile soil rich in [[hamilton-composting-and-organic-matter-management]]
 - **Water:** In drier areas tends to hug watercourses; tolerates fairly
   saline water
 - **Light:** Naturally an understory tree; tolerates partial shade
-- **Climate:** Temperate eastern North America
+- **Climate:** Temperate [[polypore-fungi-eastern-north-america]] America
 
 ### Fruit Characteristics
 - **Size:** Largest native fruit of North America; up to 300 grams
@@ -69,7 +69,7 @@ thicket-forming understory in open woodlands and along watercourses.
   causing somnolence, stupor, then unconsciousness; also has emetic
   properties
 - **Analobine:** Alkaloid in bark; once used in medicine
-- **Traditional use:** Inner bark stripped in early spring and made into
+- **Traditional use:** Inner bark stripped in [[coleman-overwintered-onions-and-early-spring-crops]] and made into
   string for fishing nets, lines, and rope
 
 ### Propagation
@@ -95,11 +95,11 @@ still much to learn about optimising its cultivation.
 - American Chestnut
 - Mulberry
 - Understory Fruit Trees
-- Native American Food Plants
+- [[halpern-sacramental-peyote-and-native-american-church]] Food Plants
 
 ## See Also
 
 - [[monarda-fistulosa]]
 - [[permaculture-plants-fruit-trees-temperate]]
-- [[mollison-forest-water-climate]]
+- mollison-forest-water-climate
 - [[fungal-single-cell-protein-production]]

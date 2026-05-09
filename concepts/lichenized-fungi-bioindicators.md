@@ -1,22 +1,18 @@
 ---
-title: Lichenized Fungi Bioindicators
+title: biodiversity-lichenized-fungi-symbiosis Bioindicators
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-# Lichenized Fungi as Bioindicators
-
-Lichens are among the most sensitive and widely used bioindicators of air quality and environmental change. Their dual nature as fungal-algal symbioses makes them responsive to atmospheric conditions while being relatively easy to survey.
-
-[[fungal-biodiversity-biogeography]] ethnomycology
+# Lichenized Fungi as Bioindicators Lichens are among the most sensitive and widely used bioindicators of air quality and environmental change. Their dual nature as fungal-algal symbioses makes them responsive to atmospheric conditions while being relatively easy to survey. [[fungal-biodiversity-biogeography]] ethnomycology
 
 ## Air Quality Monitoring
 
-An extensive literature exists on monitoring air quality by surveying lichen communities, including hundreds of citations spanning more than 100 years. Lichen diversity declines predictably with increasing pollution levels, particularly sulfur dioxide and nitrogen deposition.
+An extensive literature exists on monitoring air quality by surveying lichen communities, including hundreds of citations spanning more than 100 years. Lichen diversity declines predictably with increasing pollution levels, particularly sulfur dioxide and [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]].
 
-The well-known sensitivity of lichens to air pollution means that diversity patterns of lichenized fungi may differ markedly from those of less pollution-sensitive organisms in affected areas. Seasonal variation in community composition usually is negligible, making lichens reliable year-round indicators.
+The well-known sensitivity of lichens to air pollution means that [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] of lichenized fungi may differ markedly from those of less pollution-sensitive organisms in affected areas. Seasonal variation in [[core-endorhiza-bacterial-community-composition-cannabis]] usually is negligible, making lichens reliable year-round indicators.
 
 [[fungal-monitoring-long-term-studies]]
 
@@ -34,7 +30,7 @@ Lichens occupy surfaces at scales corresponding to microhabitat variation. Above
 
 Microhabitat variables important to lichens include light regime, moisture status, and type, hardness, chemistry (especially pH and calcium content), and age of substratum. Major differences in species composition on rocks or soil are related to differences in calcareous composition of the substratum.
 
-[[fungal-environmental-sensing]]
+fungal-environmental-sensing
 
 ## Epiphytic Lichen Diversity
 
@@ -54,7 +50,7 @@ In tropical forests, Sipman (1997) observed that two adjacent trees shared only 
 
 ## Functional Groups
 
-Morphological groups of lichens may serve as surrogates for functional groups. Vagrant (unattached) macrolichens are important in grasslands and steppes but unimportant in forests. Gelatinous ground lichens in steppe communities, including Collema, Leptogium, and Polychidium species, all fix nitrogen and protect the soil surface.
+Morphological groups of lichens may serve as surrogates for functional groups. Vagrant (unattached) macrolichens are important in grasslands and steppes but unimportant in forests. Gelatinous ground lichens in steppe communities, including Collema, Leptogium, and Polychidium species, all [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] and protect the soil surface.
 
 [[fungal-roles-grassland-ecosystems]]
 
@@ -62,9 +58,10 @@ Morphological groups of lichens may serve as surrogates for functional groups. V
 
 Lichen surveys are often requested for protected areas expected to remain intact for long periods, serving as benchmarks for comparison with human-dominated areas. Inventories also monitor areas being considered for development such as logging, urban expansion, or mining.
 
-Habitats that contribute much to the diversity of lichenized fungi, such as rock outcrops, talus piles, coarse woody debris, and desert pavements, are often less important for vascular plant communities. This underscores the need for lichen-specific surveys rather than relying solely on vascular plant data.
+Habitats that contribute much to the diversity of lichenized fungi, such as rock outcrops, talus piles, [[fungal-diversity-leaf-litter-coarse-woody-debris]] debris, and desert pavements, are often less important for vascular plant communities. This underscores the need for lichen-specific surveys rather than relying solely on vascular plant data.
 
 ethnomycology [[fungal-roles-grassland-ecosystems]] [[fungal-monitoring-long-term-studies]] [[fungal-monitoring-long-term-studies]] [[lichenized-fungi-sampling]]
+
 ## Practical Considerations
 
 Successful implementation of Lichenized Fungi Bioindicators requires attention to
@@ -83,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

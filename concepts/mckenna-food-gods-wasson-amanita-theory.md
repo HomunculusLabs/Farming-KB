@@ -1,5 +1,5 @@
 ---
-title: "Wasson's Amanita Theory and Objections"
+title: "Wasson's mckenna-wasson-amanita-theory-and-objections-to-fly-agaric and Objections"
 created: 2026-04-28
 tags:
   - mckenna
@@ -31,21 +31,21 @@ Gordon and Valentina Wasson are credited with founding ethnomycology — the stu
 
 ## The Case for Fly Agaric
 
-Wasson's evidence for identifying Soma with Amanita muscaria was extensive and multidisciplinary:
+Wasson's evidence for identifying Soma with [[allegro-amanita-muscaria-properties-and-pharmacology]] was extensive and multidisciplinary:
 
 - **Linguistic analysis**: Studying the evolution of languages involved in the Soma traditions
 - **Artistic motifs**: Tracing mushroom-related imagery across cultures
 - **Vedic reinterpretation**: Judiciously reexamining and reinterpreting Vedic source material
 - **Siberian precedent**: The fly agaric had long been used by Tungusic tribes of arctic Siberia to induce shamanic journeys
 
-Wasson was brilliant in advancing the notion that a mushroom of some sort was implicated in the Soma mystery. His was the first botanically sophisticated, pharmacologically informed inquiry into the identity of Soma. Before Wasson, scholars had proposed everything from Ephedra to fermented mare's milk without considering the hallucinogenic mushroom possibility.
+Wasson was brilliant in advancing the notion that a mushroom of some sort was implicated in the [[mckenna-soma-mystery-and-the-vedic-enigma]]. His was the first botanically sophisticated, pharmacologically informed inquiry into the identity of Soma. Before Wasson, scholars had proposed everything from Ephedra to fermented mare's milk without considering the [[emcdda-hallucinogenic-mushroom-clubbing-surveys-and-prevalence]] possibility.
 
 ## The Critical Flaw
 
 Despite the strength of his methodology, Wasson made what McKenna considers a crucial error: he assumed that if a mushroom were Soma, it must be Amanita muscaria. This assumption was driven by several factors:
 
-1. **Siberian exemplar**: European scholarship had settled upon Siberian shamanism as "exemplary" of all Archaic shamanism, and fly agaric had long been used there
-2. **New World myopia**: Psilocybin mushrooms were thought to be a strictly New World phenomenon at the time
+1. **Siberian exemplar**: European scholarship had settled upon Siberian shamanism as "exemplary" of all Archaic shamanism, [[santa-claus-and-fly-agaric-shaman-myth]] had long been used there
+2. **New World myopia**: [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] were thought to be a strictly New World phenomenon at the time
 3. **Overemphasis**: This overemphasis on Amanita muscaria has haunted efforts to understand Soma ever since
 
 ## Objections to Fly Agaric as Soma

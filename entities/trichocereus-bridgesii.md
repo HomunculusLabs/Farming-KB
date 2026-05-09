@@ -24,7 +24,7 @@ The species was first described by the British botanist John Lindley in the 19th
 
 T. bridgesii is native to Bolivia, primarily found in the departments of La Paz and Cochabamba at elevations of 2,000-3,000 meters. It grows in dry, rocky slopes, valleys, and scrubland environments.
 
-The species has been widely introduced as an ornamental and is cultivated throughout the world, with particular popularity in the southwestern United States and Mediterranean climates. Its natural habitat overlaps with [[mescaline-entity]] is the primary psychoactive alkaloid in T. bridgesii, with reported concentrations ranging from 0.05% to as high as 4% by dry weight. Many experienced practitioners consider T. bridgesii to be among the most consistently potent of the Trichocereus species.
+The species has been widely introduced as an ornamental and is cultivated throughout the world, with particular popularity in the southwestern [[dmt-containing-plants-united-states-halpern]] and Mediterranean climates. Its natural habitat overlaps with [[mescaline-entity]] is the primary psychoactive alkaloid in T. bridgesii, with reported concentrations ranging from 0.05% to as high as 4% by dry weight. Many experienced practitioners consider T. bridgesii to be among the most consistently potent of the Trichocereus species.
 
 The variability in reported mescaline content likely reflects genuine genetic diversity within the species, differences in growing conditions, and differences in sampling methodology. Some growers have reported that certain clones produce consistently high mescaline levels, suggesting a significant genetic component to alkaloid production.
 
@@ -45,7 +45,7 @@ The traditional ceremonial use of T. bridgesii is less well documented than that
 
 The species is highly tolerant of neglect, poor soils, and irregular watering, making it an excellent choice for novice growers. Propagation is most commonly achieved through cuttings, which root readily when calloused and placed in well-draining cactus soil.
 
-Seed propagation requires standard cactus germination conditions: warm temperatures, high humidity, and well-draining soil. The species is slightly more cold-tolerant than T. pachanoi and is commonly used as a rootstock for grafting slower-growing species, including [[trichocereus-pachanoi]]. Experienced practitioners typically use 15-25 cm of mature stem material, compared to 30-40 cm of San Pedro, though potency varies significantly between individual plants.
+[[jeavons-seed-propagation-techniques]] requires standard cactus germination conditions: warm temperatures, high humidity, and well-draining soil. The species is slightly more cold-tolerant than T. pachanoi and is commonly used as a rootstock for grafting slower-growing species, including [[trichocereus-pachanoi]]. Experienced practitioners typically use 15-25 cm of mature stem material, compared to 30-40 cm of [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]], though potency varies significantly between individual plants.
 
 The intense bitterness of the cactus tissue can be partially masked by adding citrus juice, honey, or ginger to the preparation. Some practitioners report that the nausea associated with cactus preparations is less pronounced with T. bridgesii compared to other species, though this is not universally confirmed.
 
@@ -59,6 +59,7 @@ T. bridgesii is uncontrolled in most countries and is primarily sold and grown a
 - trichocereus peruvianus
 - [[lophophora-williamsii]]
 - Pellotine
+
 ## Practical Considerations
 
 Successful implementation of Trichocereus bridgesii requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

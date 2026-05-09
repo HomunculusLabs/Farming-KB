@@ -1,5 +1,5 @@
 ---
-title: Claviceps Purpurea Chemistry and Water Soluble Ergot Alkaloids
+title: bloomfield-ergot-claviceps-purpurea-ergotism Chemistry and Water Soluble Ergot Alkaloids
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 # Claviceps Purpurea Chemistry and Water-Soluble Ergot Alkaloids
 
-The critical chemical insight behind the Wasson-Hofmann-Ruck hypothesis for the Eleusinian Mysteries is the distinction between water-soluble and water-insoluble ergot alkaloids. This separation, achievable with ancient technology, would have allowed Greeks to extract hallucinogenic compounds while leaving behind the toxic ones.
+The critical chemical insight behind the Wasson-Hofmann-Ruck hypothesis for the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] is the distinction between water-soluble and water-insoluble ergot alkaloids. This separation, achievable with ancient technology, would have allowed Greeks to extract hallucinogenic compounds while leaving behind the toxic ones.
 
 ## Ergot Alkaloid Families
 
@@ -19,7 +19,7 @@ Ergot (Claviceps purpurea) produces two major families of alkaloids:
 ### Water-Soluble (Hallucinogenic) Alkaloids
 
 These dissolve readily in water:
-- **Lysergic acid amide (LSA, ergine)**: Primary psychoactive constituent of ololiuhqui (Rivea corymbosa morning glory seeds). Effective dose: 1-2 mg orally.
+- **[[ergot-and-lysergic-acid-history]] amide (LSA, ergine)**: Primary psychoactive constituent of ololiuhqui (Rivea corymbosa [[golden-guide-morning-glory-and-ololiuqui]] seeds). Effective dose: 1-2 mg orally.
 - **Lysergic acid hydroxyethylamide (LSH)**: Present in ololiuhqui and Claviceps. Potent psychoactive compound.
 - **Ergonovine (ergometrine)**: Used medically as a uterotonic agent. Hofmann proved it is hallucinogenic at appropriate doses (1.5 mg base). Potency approximately one-twentieth of LSD, about five times psilocybin.
 

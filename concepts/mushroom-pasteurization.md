@@ -9,7 +9,7 @@ sources: [raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disab
 
 # Mushroom Pasteurization
 
-Pasteurization is the critical step between substrate bag production and inoculation. Improper pasteurization leads to contamination, poor growth, or complete spoilage of bags. This page covers the country-style method from the FAO training manual.
+Pasteurization is the critical step between substrate bag production and inoculation. Improper pasteurization leads to contamination, poor growth, or complete spoilage of bags. This page covers the country-style method from the FAO [[mushroom-cultivation-disabilities-training-manual-overview]].
 
 ## Country-Style Pasteurization (200-Liter Drum)
 
@@ -17,7 +17,7 @@ Pasteurization is the critical step between substrate bag production and inocula
 - 200-liter steel drums
 - Firewood
 - Iron or bamboo screen (round, ~5 inches high to fit inside drum)
-- Double layers of old rice bags (for covering)
+- Double layers of [[fukuoka-old-rice-variety-testing]] bags (for covering)
 - Plastic sheeting (for sealing)
 - Thermometer
 
@@ -43,17 +43,17 @@ Pasteurization is the critical step between substrate bag production and inocula
 | Method | Temperature | Duration | Equipment | Use Case |
 |--------|------------|----------|-----------|----------|
 | Pasteurization | 90-100°C | 3-4 hours | Drum + firewood | Substrate bags, straw |
-| Sterilization | 121°C (15 psi) | 30-45 min | Pressure vessel/autoclave | Spawn, agar media, grain |
+| Sterilization | 121°C (15 psi) | 30-45 min | Pressure vessel/autoclave | Spawn, [[growing-gourmet-agar-media-formulas-preparation]], grain |
 
-Pasteurization kills most competitors but leaves some beneficial thermophiles. Sterilization kills everything. For substrate bags with supplemented sawdust, pasteurization is sufficient and more practical for small-scale operations.
+Pasteurization kills most competitors but leaves some beneficial thermophiles. Sterilization kills everything. For substrate bags with [[oyster-mushroom-supplemented-sawdust-blocks]], pasteurization is sufficient and more practical for small-scale operations.
 
 ## Adaptations for Accessibility
 
-For people with disabilities, the pasteurization drum should be built lower than standard height for easy access from a wheelchair or seated position. Used drums can be adapted at low cost. The fire management step may require assistance depending on the disability.
+For people with disabilities, the pasteurization drum should be built lower than standard height for easy access from a wheelchair or seated position. Used drums can be adapted at [[jadam-ultra-low-cost-agriculture]]. The fire management step may require assistance depending on the disability.
 
 ## After Pasteurization
 
-Transfer cooled bags to the inoculation area. Bags should be inoculated within 24 hours of pasteurization to minimize contamination risk. See [[substrate-bag-preparation]] for the preceding steps and [[mushroom-spawn-making-detailed]] for spawn preparation.
+Transfer cooled bags to the inoculation area. Bags should be inoculated within 24 hours of pasteurization to minimize contamination risk. See [[substrate-bag-preparation]] for the preceding steps and [[mushroom-spawn-making-detailed]] for [[azurescens-spawn-preparation-grain-to-wood]].
 
 ## Related
 
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

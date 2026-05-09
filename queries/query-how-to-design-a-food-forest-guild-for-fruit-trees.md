@@ -1,9 +1,9 @@
 ---
-title: "How to Design a [[toby-hemenway]]"
+title: "How to Design a toby-hemenway"
     publisher: "Chelsea Green Publishing"
     year: 2009
     url: "https://www.chelseagreen.com/product/gaias-garden-second-edition/"
-  - title: "Edible Forest Gardens (2-Volume Set)"
+  - title: "Edible [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] (2-Volume Set)"
     author: "Dave Jacke and Eric Toensmeier"
     publisher: "Chelsea Green Publishing"
     year: 2005
@@ -33,13 +33,13 @@ Understanding vertical layers helps you pack more productivity into less space:
 3. **Shrub layer** — Berry bushes, currants, gooseberries, hazelnuts.
 4. **Herbaceous layer** — Perennial herbs, vegetables, and flowers (comfrey, borage, yarrow).
 5. **Ground cover layer** — Low creepers that suppress weeds (clover, thyme, creeping juniper).
-6. **Rhizosphere layer** — Root crops and bulbs (garlic, daikon radish, [[dynamic-accumulators]] are deep-rooted plants that mine minerals (calcium, potassium, phosphorus, magnesium, trace minerals) from subsoil layers and bring them to the surface through their leaves. When you "[[symphytum-officinale]] or Bocking 14 sterile cultivar)**. Others include yarrow, dandelion, nettle, borage, chicory, and plantain. Plant comfrey in a ring just outside the drip line and cut it 3-4 times per growing season for mulch.
+6. **Rhizosphere layer** — Root crops and bulbs (garlic, daikon radish, [[dynamic-accumulators]] are deep-rooted plants that mine minerals (calcium, potassium, phosphorus, magnesium, trace minerals) from subsoil layers and bring them to the surface through their leaves. When you "[[symphytum-officinale]] or Bocking 14 sterile cultivar)**. Others include yarrow, dandelion, nettle, borage, chicory, and plantain. Plant comfrey in a ring just outside the drip line and cut it 3-4 times per [[savory-growing-season-and-non-growing-season-management]] for mulch.
 
 ### Which plants repel pests and attract pollinators?
 
 **Pest-repelling plants:** garlic, chives, onions, nasturtium, marigold, tansy, wormwood (use sparingly — allelopathic), rue, pyrethrum daisy, calendula. Alliums repel borers and aphids; nasturtiums trap aphids and repel codling moth; marigolds deter root-knot nematodes.
 
-**Pollinator attractors:** borage (honeybee favorite), lavender, rosemary, thyme, yarrow, echinacea, bee balm, sunflowers, sweet alyssum, phacelia. Aim for continuous bloom from early spring through fall so pollinators always have forage. Include native wildflowers when possible — they support native bee species more effectively than ornamentals.
+**Pollinator attractors:** borage (honeybee favorite), lavender, rosemary, thyme, yarrow, echinacea, bee balm, sunflowers, sweet alyssum, phacelia. Aim for continuous bloom from early spring through fall so pollinators always have forage. Include native wildflowers when possible — they [[query-how-to-attract-and-support-native-bee-pollinators]] bee species more effectively than ornamentals.
 
 ### How do root patterns affect guild spacing?
 
@@ -53,7 +53,7 @@ Design guilds to minimize root competition by understanding root architecture:
 
 ### How do I design for my climate zone?
 
-- **USDA Zones 3-4:** Focus on cold-hardy apples, pears, plums, cherries, seaberry, haskap, Siberian pea shrub. Guilds need wind protection and cold-hardy understory.
+- **USDA Zones 3-4:** Focus on cold-hardy apples, pears, plums, cherries, seaberry, haskap, Siberian pea shrub. Guilds need [[cervantes-wind-protection-outdoor-cannabis]] and cold-hardy understory.
 - **Zones 5-6:** Broadest fruit tree selection — apples, pears, peaches, plums, cherries, pawpaw, persimmon, elderberry. Comfrey, clover, and borage thrive.
 - **Zones 7-8:** Add figs, citrus (hardier types like kumquat, satsuma), pomegranate, loquat, olives. Subtropical guild plants become options.
 - **Zones 9-10:** Citrus, avocado, mango, guava, banana. Guild plants include sweet potato (ground cover), pigeon pea (nitrogen fixer), lemongrass, moringa.
@@ -96,8 +96,12 @@ Check the USDA Plant Hardiness Zone Map (source listed above) and consult local 
 ### Where can I learn more?
 
 - **Gaia's Garden** by Toby Hemenway — the best introduction to home-scale guild design and permaculture principles.
-- **Edible Forest Gardens** (Vols. 1 & 2) by Dave Jacke & Eric Toensmeier — the most comprehensive reference on food forest theory, design process, and plant palettes.
+- **Edible Forest Gardens** (Vols. 1 & 2) by Dave Jacke & Eric Toensmeier — the most comprehensive reference on food forest theory, [[hemenway-garden-design-process-observation-and-visioning]], and plant palettes.
 - **The Food Forest Handbook** by Darren Doherty & Caroline Smith — practical, step-by-step guidance for planning and planting.
 - **Permaculture Research Institute** (permaculturenews.org) — free articles, case studies, and a global community forum.
 - **Your local cooperative extension** — offers free soil testing, variety recommendations, and pest management guidance specific to your county.
-- **Plants for a Future** (pfaf.org) — searchable database of 7,000+ edible and useful plants with companion planting and guild information.
+- **Plants for a Future** (pfaf.org) — searchable database of 7,000+ edible and useful plants with [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] and guild information.
+
+## See Also
+
+- [[query-how-do-i-design-an-apple-tree-guild]]

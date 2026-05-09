@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Shackleton, C.M., Dye, P.J. & Cramer, M.D. (2019). \"Acacia mearnsii water use and invasiveness.\" South African Journal of Botany, 120, 13-18."
+  - "Shackleton, C.M., Dye, P.J. & Cramer, M.D. (2019). \"Acacia mearnsii water use and invasiveness.\" kanna-sceletium-south-african-narcotic Journal of Botany, 120, 13-18."
   - "Herbert, M.A. (1993). \"The response of Acacia mearnsii to fertilization.\" South African Forestry Journal, 165, 1-10."
   - "Duke, J.A. (1983). Handbook of Energy Crops. Purdue University."
   - "Boffa, J.M. (1999). Agroforestry Parklands in Sub-Saharan Africa. FAO Conservation Guide 34."
@@ -30,7 +30,7 @@ commercially significant wattle species worldwide, extensively planted
 for tannin production, timber, and firewood.
 
 Simultaneously, A. mearnsii is one of the most problematic invasive
-species in several southern hemisphere countries, creating complex
+species in several [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] countries, creating complex
 management challenges that illustrate the dual nature of aggressive
 nitrogen-fixing pioneer species.
 
@@ -102,7 +102,7 @@ native vegetation, reduce diversity, and alter fire regimes.
 Seed persistence in the soil seed bank is extensive — seeds remain viable
 for 50+ years — making eradication extremely difficult once established.
 
-Biological control agents deployed in South Africa include the wattle
+[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents deployed in South Africa include the wattle
 gall wasp (Trichilogaster acaciaelongifoliae) and seed weevil
 (Melanterius maculatus), with varying success.
 
@@ -116,7 +116,7 @@ and wood preservatives. South Africa is the world's largest producer.
 for pulp, particle board, mine props, and firewood (calorific value
 ~19–20 MJ/kg).
 
-**Soil improvement:** Nitrogen fixation (estimates of 100–200 kg N/ha/yr)
+**Soil improvement:** [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] (estimates of 100–200 kg N/ha/yr)
 and leaf litter deposition improve soil fertility, making it useful in
 reclamation of degraded lands.
 
@@ -130,22 +130,17 @@ honey that commands premium prices.
 ## Permaculture and Agroforestry Applications
 
 Acacia mearnsii occupies a contested space in permaculture — its useful
-traits (fast growth, nitrogen fixation, biomass production) must be
+traits (fast growth, nitrogen fixation, [[dighton-fungal-biomass-production-aquatic-ecosystems]]) must be
 balanced against invasive potential.
 
 In controlled settings (pollarding, coppicing systems), it functions as
-a productive nurse tree, providing shade, wind protection, and soil
-improvement for intercropped food species.
-
-Short-rotation coppice systems (5–8 year cycles) can provide sustained
-firewood and mulch while preventing seed set through regular harvesting
-before reproductive maturity. Its use is recommended only where native or
-strict containment protocols are in place.
+a productive nurse tree, providing shade, [[cervantes-wind-protection-outdoor-cannabis]], and soil
 ## See Also
 
 - [[alnus-glutinosa]]
-- [[comfrey-permaculture]]
+- comfrey-permaculture
 
 ## See Also
 
-- [[legume-trees-and-nitrogen-fixing-permaculture-species]]
+- [[permaculture-plants-nitrogen-fixing-trees-shrubs]]
+- [[acacia]]

@@ -12,7 +12,7 @@ type: concept
 
 ## Introduction
 
-The discovery of the sacred psilocybin mushroom by Robert Gordon
+The discovery of the sacred [[emcdda-psilocybin-mushroom-dose-and-effects]] by Robert Gordon
 Wasson represents one of the most significant events in the history of
 ethnobotany and the modern psychedelic movement. Wasson, a vice-
 president of a Wall Street banking firm, spent over thirty years in
@@ -26,7 +26,7 @@ followed in the 1960s.
 ## The Trail Begins: Fly Agaric and Soma
 
 The Wassons' journey into ethnomycology began with the fly agaric
-mushroom (Amanita muscaria). After marrying in 1927, Gordon and his
+mushroom ([[allegro-amanita-muscaria-properties-and-pharmacology]]). After marrying in 1927, Gordon and his
 Russian-born wife Valentina took a stroll in the Catskill Mountains
 where Valentina picked wild mushrooms for cooking, a practice that
 horrified Gordon, who shared the Anglo-Saxon mycophobia common in
@@ -37,7 +37,7 @@ cultures.
 The Wassons' research into Amanita muscaria led them to propose that
 it was the legendary Soma of ancient India. Of the 1,000 hymns in the
 Rig Veda, over 100 are dedicated solely to the divine plant Soma and
-its spectacular psychological effects. Wasson noted that the Vedas
+its spectacular [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]]. Wasson noted that the Vedas
 describe ritual urine drinking, which aligned with Siberian practices
 where the active principles of Amanita muscaria pass through the body
 unchanged. His identification of Soma has generally been accepted by
@@ -69,7 +69,7 @@ Wassons of a supposed secret mushroom cult still in existence in
 Mexico. Graves included a clipping about finds by Harvard ethnobotanist
 Richard Evans Schultes, who in 1938 had identified a species of
 Panaeolus mushroom as the sacred sacrament of Mexican Indians. Although
-a few outsiders had observed native Mexican mushroom ceremonies, none
+a few outsiders had observed native Mexican [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]], none
 had been permitted to partake of the mushroom itself.
 
 ## Eunice Pike's Testimony
@@ -99,12 +99,12 @@ facilitate genuine clairvoyant experiences.
 It was not until June 29-30, 1955, that Wasson himself participated in
 a velada (night ceremony) and consumed the sacred mushrooms. Guided by
 the Mazatec curandera Maria Sabina, Wasson underwent a profound
-psychedelic experience. The mushrooms used were subsequently identified
+[[leary-psychedelic-experience-bardo-mapping]]. The mushrooms used were subsequently identified
 as [[simon-powell]]
 
 - [[allegro-sacred-prostitute-and-the-mushroom-cult]] Topics
 
 - [[powell-entheogens-as-epistemological-tools]]
-- Psilocybin Consciousness Theory
+- [[mckenna-tryptamine-psilocybin-consciousness-evolution]] Theory
 - Psychedelic Mushrooms of Mexico
 - LSD Self-Experiment by Hofmann

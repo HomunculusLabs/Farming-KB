@@ -1,5 +1,5 @@
 ---
-title: [[fukuoka-natural-farming]] Weed And Insect Philosophy
+title: fukuoka-natural-farming fukuoka natural farming weed and insect philosophy Philosophy
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -20,7 +20,7 @@ of the larger ecosystem.
 Fukuoka's fundamental principle on weeds is that they "play their part in
 [[water-management]]"
 
-3. **Living ground cover**: White clover sown with the grain acts as a living
+3. **Living ground cover**: [[fukuoka-white-clover-cover-crop-system]] sown with the grain acts as a living
    mulch that enriches the soil, keeps the ground moist and aerated, and can
    smother even strong weeds like mugwort and crabgrass when established
 
@@ -29,7 +29,7 @@ Fukuoka's fundamental principle on weeds is that they "play their part in
 Fukuoka's fields visibly contain many kinds of weeds growing alongside the grain
 and clover. This appearance alarmed visiting agricultural experts, but the
 results spoke for themselves: barley and rice grew vigorously, yielding about 22
-bushels (1,300 pounds) per quarter acre -- matching the top yields in Ehime
+bushels (1,300 pounds) per [[fukuoka-agriculture-tomorrow-quarter-acre-vision]] -- matching the top yields in Ehime
 Prefecture.
 
 Twenty years of promoting permanent ground cover in fruit orchards transformed
@@ -49,11 +49,11 @@ and fertilizing produced weak plants.
 
 ### The Stem Borer Experiment
 
-While at the Kochi Testing Station, Fukuoka conducted experiments on stem
+While at the Kochi [[fukuoka-straw-scattering-testing-station-resistance]], Fukuoka conducted experiments on stem
 borers, which enter rice stalks and cause them to wither. In a field sprayed
 with insecticide, white stalks (damaged plants) were reduced -- but the
 unsprayed field produced the higher yield. Investigation revealed that the stem
-borers' attack on weaker plants produced a beneficial thinning effect: remaining
+borers' attack on weaker plants produced a beneficial [[fukuoka-stem-borer-thinning-effect-natural-pest-balance]]: remaining
 plants received more sunlight, grew stronger, sent up more grain-bearing stalks,
 and produced more grains per head. When insect damage did not thin the excess,
 plants appeared healthy but harvests were actually lower.
@@ -65,7 +65,7 @@ discovered a complex natural balance: while harmful insects were present, their
 natural enemies (spiders, frogs, lizards, and predatory insects) kept them in
 check. Fukuoka used Japanese red pine blight to illustrate the limits of
 scientific intervention: nematodes breed within the trunk, blocking water and
-nutrient transport, but nematodes feed on a fungus accompanied by a microbe and
+[[mycelial-network-nutrient-transport-imaging-gadd]], but nematodes feed on a fungus accompanied by a microbe and
 a virus toxic to the fungus. "Effect following effect in every direction" --
 yet people apply chemical remedies without understanding the true cause.
 

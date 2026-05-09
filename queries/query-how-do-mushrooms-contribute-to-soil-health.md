@@ -1,10 +1,11 @@
 ---
-title: "How Do Mushrooms Contribute to Soil Health?"
+title: "How Do query how do mushrooms contribute to soil health to Soil Health?"
 created: 2026-04-28
 tags: [query, mycology, soil-science, ecology, decomposition]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -12,11 +13,11 @@ type: query
 
 ## Short Answer
 
-Fungi are foundational to soil health through three primary roles: decomposing organic matter and recycling nutrients as saprotrophic fungi, forming symbiotic partnerships with plant roots as mycorrhizal fungi, and suppressing plant diseases through biocontrol mechanisms. Together these fungal communities drive nutrient cycling, build soil structure, and support plant resilience.
+Fungi are foundational to soil health through three primary roles: decomposing organic matter and recycling nutrients as saprotrophic fungi, forming symbiotic partnerships with plant roots as [[arbuscular-mycorrhizal-fungi-biology-symbiosis]], and suppressing plant diseases through [[singh-trichoderma-biocontrol-mechanisms-applications]]. Together these [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] drive [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], build soil structure, and support plant resilience.
 
 ## Nutrient Decomposition and Recycling
 
-[[fungal-enzyme-systems-in-bioremediation]] convert dead plant material and wood into forms other organisms can use
+fungal-enzyme-systems-in-bioremediation convert dead plant material and wood into forms other organisms can use
 - Decomposition releases nitrogen, phosphorus, and trace minerals locked in organic matter
 - This nutrient recycling is essential for ecosystem productivity
 - Without fungal decomposers, dead wood and plant debris would accumulate indefinitely
@@ -65,7 +66,7 @@ Gardeners and farmers can actively encourage beneficial fungi:
 
 - [[arbuscular-mycorrhizal-fungi]] extend root networks and deliver water and nutrients in exchange for plant carbon
 - Fungal hyphae bind soil into aggregates, improving structure, water retention, and erosion resistance
-- Biocontrol fungi like [[bacterial-vs-fungal-soil]] ratio indicates soil health and ecological succession stage
+- Biocontrol fungi like [[bacterial-vs-fungal-soil]] ratio indicates soil health and [[holmgren-ecological-succession-and-pulsing]] stage
 
 ## Related Questions
 
@@ -89,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

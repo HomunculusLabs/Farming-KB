@@ -2,7 +2,7 @@
 title: Water Harvesting and Management in Permaculture
 created: 2026-04-26
 updated: 2026-04-24
-sources: Bill Mollison, Permaculture Design Course (1981 transcript, Yankee Permaculture, public domain)
+sources: Bill Mollison, bill-mollison-permaculture-a-designers-manual-permaculture-design-principles Course (1981 transcript, Yankee Permaculture, public domain)
 type: concept
 tags: [culture, harvesting, permaculture, water]
 ---
@@ -46,8 +46,8 @@ The productive pond integrates multiple trophic levels:
 - **Fish:** Catfish (low on the trophic ladder), trout (extensive
   systems only; intensive trout are a curse), stickleback (fast
   breeders converting algae to trout food)
-- **Waterfowl:** Ducks (8 per quarter acre) contributing manure,
-  eggs, and pest control
+- **Waterfowl:** Ducks (8 per [[fukuoka-agriculture-tomorrow-quarter-acre-vision]]) contributing manure,
+  eggs, and [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]
 - **Edge plants:** Blueberries and mulberries on pond edges
   provide highest yields
 
@@ -87,7 +87,7 @@ Permaculture extends beyond the shoreline. Tidal fish traps, salt
 marsh forage systems, oyster and lobster cultivation, seaweed
 harvesting, and sea bird roost management are all addressed.
 Simple channel systems can create inland ponds with regulated tide
-ranges of 3-12 inches twice daily -- "the cheapest swimming pool
+ranges of 3-12 inches twice daily -- "the cheapest [[comparison-natural-swimming-pool-vs-conventional-pool]]
 you can build anybody, and self-flushing."
 
 Barrier dams across watercourses in desert areas fill with detritus
@@ -103,6 +103,8 @@ but Mollison cautions (via Dan Hemenway's note) that insects use
 prismatic eyes seeing spectral yellow as a band, not the red-plus-
 green mixture humans see as yellow. Spectral yellow traps must be
 ## See Also
+
+- [[peyote-harvesting-sustainability]]
 
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
 

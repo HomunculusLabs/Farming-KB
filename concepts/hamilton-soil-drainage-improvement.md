@@ -54,7 +54,7 @@ water can pass through more easily.
 On sandy soil, drainage is generally too good. The problem is
 retaining water and nutrients rather than removing excess. To reduce
 the problem, spread organic matter or [[hamilton-green-manure-crops-and-cover-cropping]] during
-the winter and dig it in during the spring. During the growing season,
+the winter and dig it in during the spring. During the [[savory-growing-season-and-non-growing-season-management]],
 sow a fast-growing green-manure crop between vegetables just to keep
 the soil covered.
 
@@ -72,7 +72,7 @@ have failed.
 - Never walk on clay soil when it is wet or you will destroy years of
   work
 - Always add organic matter when improving drainage
-- Combine physical methods (sand, raised beds) with chemical methods
+- Combine physical methods (sand, [[comparison-raised-beds-vs-hugelkultur]]) with chemical methods
   (lime for clay)
 - Match the drainage improvement method to your specific soil type
 - Maintain good drainage through regular addition of organic matter

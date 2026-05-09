@@ -23,7 +23,7 @@ sources:
 # Postwar Japanese Agricultural Mechanization and Village Collapse
 Masanobu Fukuoka presents a detailed analysis of how post-World War II mechanization
 and modernization systematically destroyed Japanese farming village culture,
-self-sufficiency, and ecological balance. His account traces the transformation from
+self-sufficiency, and [[fukuoka-ecological-balance-principles]]. His account traces the transformation from
 labor-intensive to capital-intensive agriculture and its cascading social and
 ecological consequences.
 ## The Transformation of the Farming Population
@@ -49,7 +49,7 @@ predictable sequence:
 2. **Chemical input adoption**: Motorized hand sprayers were abandoned in favor
    of helicopter spraying
 3. **Traditional abandonment**: Traditional farming with draft animals was
-   replaced by heavy chemical fertilizers and pesticides
+   replaced by heavy [[cervantes-chemical-fertilizers-guide]] and pesticides
 4. **Industrial catalysis**: Agricultural mechanization fueled revival of the
    machine industry, while chemical adoption laid the foundation for chemical
    industry development
@@ -66,7 +66,7 @@ development of the chemical industry.
 ## The Disappearance of Village Culture
 Fukuoka mourns the loss of the sunken hearth (irori), which he identifies as
 the center of ancient farming village culture. With its extinction came the loss
-of fireside discussions and the village philosophy it nurtured. Where once
+of fireside discussions and the [[fukuoka-textdoc-village-philosophy-disappearance]] it nurtured. Where once
 woodcutters sang as they sawed, transplanting songs rolled over paddy fields,
 and drums surged through villages after harvest, the mechanized landscape
 produced only the angry snarl of chain saws and the roar of engines. Everyone
@@ -101,7 +101,7 @@ and yet just one small frame in the unending flow of existence." These farmers
 were "creatures of nature, and being close to God, experienced the daily joy
 and pride of tending the gardens of God."
 ## The "Do-Nothing" Movement
-Fukuoka frames natural farming as part of a broader "do-nothing" movement — a
+Fukuoka frames [[comparison-natural-farming-vs-permaculture]] as part of a broader "do-nothing" movement — a
 spiritual and cultural shift from aggressive expansion to consolidation and
 convergence. He argues that the age of materialistic expansion is at an end, and
 humanity must hurry to establish a new way of life and a spiritual culture
@@ -115,6 +115,8 @@ pesticide use. Toxic chemicals are applied at least eight times per year on
 Japanese rice fields. The first application does not kill rice leafhoppers but
 eliminates tens of thousands of young spiders per square yard, along with swarms
 ## See Also
+
+- [[fukuoka-japan-postwar-agricultural-transformation-mechanization-trap]]
 
 - [[fukuoka-textdoc-postwar-mite-epidemic-pesticide-spiral]]
 - [[fukuoka-breakdown-japanese-agriculture]]

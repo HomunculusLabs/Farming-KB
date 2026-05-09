@@ -1,7 +1,7 @@
 # Fungal [[mycorrhizal-networks]] connecting multiple plants
 may facilitate nutrient sharing between individuals, potentially influencing plant
-community composition and forest succession patterns. Saprotrophic networks that
-connect multiple organic resources (leaf litter, woody debris) can redistribute
+[[core-endorhiza-bacterial-community-composition-cannabis]] and [[mollison-designers-food-forest-succession-design]] patterns. Saprotrophic networks that
+connect multiple organic resources ([[dighton-fungal-decomposition-leaf-litter-dynamics]], [[fungal-succession-woody-debris-ecology]]) can redistribute
 nutrients from nutrient-rich to nutrient-poor patches, creating more homogeneous
 conditions that support continued decomposition activity.
 
@@ -12,20 +12,22 @@ connectivity creates both vulnerabilities and resilience — networks can rerout
 damaged sections but may also facilitate the spread of contaminants or pathogens.
 
 ## See Also
+
+- [[mycelial-cord-architecture-and-nutrient-translocation-basidiomycetes]]
 - [[soil-foodweb-biology-overview]]
 
 ## Sources
 - Gadd, G.M., Watkinson, S.C., & Dyer, P.S. (Eds.) (2007). Fungi in the Environment.
   Cambridge University Press.
-- Bebber, D.P. et al. "Imaging complex nutrient dynamics in mycelial networks."
+- Bebber, D.P. et al. "Imaging complex nutrient dynamics in fungal mycelial networks nutrient translocation."
   In Gadd et al. (2007), Ch. 1, pp. 3-21.
 
 ## See Also
 
-- [[fungal-nutrient-translocation-mycelial-systems]]
+- fungal-nutrient-translocation-mycelial-systems
 ## Practical Applications
 
-Fungal Mycelial Networks Nutrient Translocation has a range of practical applications that make it relevant to
+Fungal Mycelial Networks [[dighton-fungal-nutrient-translocation-element-redistribution]] has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -100,4 +102,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

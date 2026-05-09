@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Stamets, P. (2006). Mycelium Running. Ten Speed Press.
+  - Stamets, P. (2006). woodlovers-mycelium-running-pathway-technique. Ten Speed Press.
   - Stamets, P. & Chilton, J.S. (1983). The Mushroom Cultivator. Agarikon Press.
   - Oei, P. (1991). Mushroom Cultivation with Special Emphasis on Appropriate Techniques for Developing Countries. TOOL Publications.
   - https://www.firstnature.com/fungi/pleurotus-ostreatus.php
@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-Pleurotus columbinus, commonly known as the **Blue Oyster mushroom**, is a striking edible fungus belonging to the oyster mushroom genus (*Pleurotus*). It is prized by both commercial cultivators and home growers for its vibrant blue-tinted caps, robust flavor, vigorous growth, and impressive biological efficiency. The species is a close relative of *P. ostreatus* and is sometimes classified as a color variant or subspecies within that complex.
+Pleurotus columbinus, commonly known as the **Blue Oyster mushroom**, is a striking edible fungus belonging to the oyster mushroom genus (*Pleurotus*). It is prized by both commercial cultivators and home growers for its vibrant blue-tinted caps, robust flavor, vigorous growth, and impressive [[stamets-biological-efficiency-yield]]. The species is a close relative of *P. ostreatus* and is sometimes classified as a color variant or subspecies within that complex.
 
 ## Taxonomy
 
@@ -78,7 +78,7 @@ Blue Oyster mushrooms are exceptionally versatile and will fruit on a wide range
 | CO₂ during fruiting | < 1000 ppm for normal cap development |
 
 ### Biological Efficiency
-*P. columbinus* achieves biological efficiencies of 75–150% on supplemented sawdust, and 50–100% on straw. Supplementation with wheat bran or soybean meal at 15–20% dry weight is standard practice for maximizing yields.
+*P. columbinus* achieves biological efficiencies of 75–150% on [[oyster-mushroom-supplemented-sawdust-blocks]], and 50–100% on straw. Supplementation with wheat bran or soybean meal at 15–20% dry weight is standard practice for maximizing yields.
 
 ### Growth Characteristics
 Blue Oyster mycelium is aggressive and fast-colonizing, typically fully colonizing supplemented sawdust blocks in 10–14 days. The striking blue coloration of young fruiting bodies is most intense at lower temperatures (below 15°C) and diminishes as temperatures rise. Mature caps tend to fade to grey-brown.
@@ -102,7 +102,7 @@ Blue Oyster mycelium is aggressive and fast-colonizing, typically fully colonizi
 - **β-Glucans:** High levels of (1→3),(1→6)-β-D-glucans with demonstrated immunomodulatory activity, activating macrophages and natural killer cells.
 - **Lovastatin:** Naturally occurring statin compounds that may help lower LDL cholesterol — documented in multiple *Pleurotus* species.
 - **Antioxidant activity:** Phenolic compounds and ergothioneine provide significant free radical scavenging capacity.
-- **Antimicrobial properties:** Crude extracts show activity against Gram-positive bacteria including *Staphylococcus aureus* and *Bacillus subtilis*.
+- **[[mycelium-running-mushroom-antimicrobial-properties-species-chart]]:** Crude extracts show activity against Gram-positive bacteria including *Staphylococcus aureus* and *Bacillus subtilis*.
 - **Anti-inflammatory:** Methanolic extracts demonstrate COX-2 inhibition in vitro.
 
 ## Pest and Contamination Management
@@ -129,7 +129,7 @@ The stems can be tough in larger specimens and are best chopped finely or used f
 In permaculture systems, *P. columbinus* serves multiple functions:
 - **Waste cycling:** Converts hardwood slash, sawmill waste, and agricultural residues into high-value food
 - **Food production:** High-yielding protein source in temperate food forests
-- **Companion planting:** Mycelial networks help cycle nutrients to nearby plants
+- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:** [[fungal-mycelial-networks-nutrient-translocation]] help cycle nutrients to nearby plants
 - **Mulch decomposition:** Can be inoculated into wood chip mulch paths to accelerate decomposition
 - **Education:** Blue coloration makes it an engaging entry point for mushroom cultivation workshops
 

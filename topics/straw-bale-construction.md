@@ -1,6 +1,6 @@
 ---
 title: Straw Bale Construction
-subtitle: A natural building system using plastered agricultural straw bales as structural or insulating walls
+subtitle: A [[query-how-do-i-choose-a-natural-building-method-for-my-climate]] system using plastered agricultural straw bales as structural or insulating walls
 tags: [natural-building, straw-bale, sustainable-architecture, homesteading, insulation, owner-builder]
 date: 2026-05-02
 updated: 2026-05-02
@@ -20,7 +20,7 @@ Unlike hay, straw contains little leaf or seed material and is therefore less at
 In a finished building the bales are normally covered on both sides with earthen, lime, or cement-lime plaster.
 The plaster protects the straw from weather, improves fire resistance, stiffens the wall, and creates a finished surface.
 The method is associated with low embodied energy, high thermal insulation, thick sculptural walls, and owner-builder accessibility.
-It appears in modern natural building, permaculture housing, ecological architecture, and back-to-the-land construction traditions.
+It appears in modern natural building, [[permaculture]] housing, ecological architecture, and back-to-the-land construction traditions.
 ## Definition
 A straw bale wall is a wall assembly in which rectangular bales are stacked in courses like oversized masonry blocks.
 The bales may carry roof loads directly, or they may act as insulation inside a separate structural frame.
@@ -30,13 +30,13 @@ Because the straw is protected from oxygen by dense packing and plaster, it does
 Properly plastered straw bale walls have achieved high fire ratings in standardized tests.
 The system nevertheless depends on careful detailing because prolonged wetting can decay the straw core.
 ## Historical Development
-The best-known historical origin of straw bale building is the Nebraska Sandhills in the late nineteenth century.
+The best-known historical origin of straw bale building is the Nebraska Sandhills in the late [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]].
 Settlers in that region had limited access to timber but had abundant baled straw after grain cultivation.
 Early builders stacked bales into self-supporting walls and placed simple roof structures on top.
 This approach became known as Nebraska style or load-bearing straw bale construction.
-The revival of the method in the late twentieth century connected it to ecological design and energy-efficient housing.
+The revival of the method in the late [[coleman-louis-savier-twentieth-century-maraicher]] connected it to ecological design and energy-efficient housing.
 Natural builders adopted straw bale because it transformed a seasonal agricultural byproduct into durable shelter.
-Permaculture writers treated it as a practical example of stacking functions: insulation, enclosure, local material use, and comfort.
+Permaculture writers treated it as a practical example of [[gaias-garden-stacking-functions-detailed]]: insulation, enclosure, [[jadam-local-material-collection-and-use]] use, and comfort.
 Modern codes in some jurisdictions now include prescriptive provisions for straw bale walls.
 ## Materials
 The primary material is clean, dry straw baled tightly and consistently.
@@ -100,7 +100,7 @@ A typical bale wall may achieve roughly R-30 to R-45 depending on bale orientati
 This level of insulation can greatly reduce heating and cooling demand.
 The thick wall also creates air sealing opportunities when plaster is continuous.
 Plaster layers add modest thermal mass, especially when exposed to the interior.
-In passive solar design, straw bale walls are often paired with interior earthen floors, masonry heaters, or other mass elements.
+In [[comparison-passive-solar-vs-earth-sheltered]] design, straw bale walls are often paired with interior earthen floors, masonry heaters, or other mass elements.
 The result can be a building that resists winter heat loss while moderating daily temperature swings.
 Thermal bridges should still be considered at framing, foundations, window bucks, and roof connections.
 ## Fire, Pests, and Durability

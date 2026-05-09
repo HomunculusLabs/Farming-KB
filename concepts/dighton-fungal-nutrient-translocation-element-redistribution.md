@@ -1,5 +1,5 @@
 ---
-title: "Fungal Nutrient Translocation and Element Redistribution"
+title: "Fungal gadd-mycelial-nutrient-translocation-imaging and Element Redistribution"
 created: 2026-04-26
 tags:
   - mycology
@@ -29,7 +29,7 @@ Olsson and Jennings (1991) demonstrated that translocation of 14C and
 32P through hyphal systems of Rhizopus, Trichoderma, and Stemphylium
 occurs by diffusion. The rate of carbon translocation within the fungal
 thallus reacts in real time to provide directional flow to building
-phases of hyphae. In the face of high nutrient demand at advancing
+phases of hyphae. In the face of high [[vegetable-nutrient-demand-levels]] at advancing
 hyphal fronts, nutrients and carbon are translocated acropetally through
 cytoplasmic flow and diffusion in the cytoplasm and apoplasm.
 
@@ -44,7 +44,7 @@ fungi.
 
 Wells and Boddy (1990) measured translocation of solutes through fungal
 tissues colonizing wood. Phanerochaete velutina translocated 75% and
-Phallus impudicus 13% of phosphorus from a decomposed wood resource to
+[[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]] 13% of phosphorus from a decomposed wood resource to
 newly colonized wood through mycelial cord systems. Maximum P
 translocation rates reached 7225 nmol P per square centimeter per day
 through cords.
@@ -69,7 +69,7 @@ smooth out heterogeneity in resource distribution on the forest floor.
 Fungi therefore are major contributors to soil fertility by decomposing
 organic residues from dead plant and animal remains. Their exoenzyme
 activity removes dead mass and mineralizes contained nutrients, providing
-sources for further primary production. During this process, fungi
+sources for further [[lichens-primary-production-soil-formation-dighton]]. During this process, fungi
 perform the important function of regulating nutrient release in both
 space (translocation) and time (immobilization).
 
@@ -78,7 +78,7 @@ space (translocation) and time (immobilization).
 Patch accumulation of leaf litter on the forest floor of pine barrens
 ecosystems has been related to the density and distribution of understory
 herbaceous vegetation stems. The size of leaf litter patches depends on
-the density of leaf-trapping ericaceous stems. Resource quality within
+the density of leaf-trapping ericaceous stems. [[fungal-decomposition-resource-quality-determinants]] within
 patches differs among patch sizes because the proportion of litter
 material varies. Interpolation from leaf litter patch scale to ecosystem
 scale of resolution remains a challenge.
@@ -108,10 +108,13 @@ function. The ability to redistribute elements across space and time
 means fungi buffer environmental heterogeneity, making nutrients
 available to plants and other organisms that would otherwise be isolated
 from nutrient sources. This buffering capacity is particularly important
-in nutrient-poor ecosystems such as boreal forests and heathlands.
+in nutrient-poor ecosystems such as [[fungal-diversity-boreal-forests-taiga]] and heathlands.
 
 ## See Also
 
 - [[dighton-mycorrhizal-networks-carbon-transfer]]
 - [[dighton-fungal-roles-in-nutrient-cycling]]
-- [[fungal-mineral-nutrient-immobilization]]
+- fungal-mineral-nutrient-immobilization
+- [[decomposition]]
+- [[phallus-impudicus]]
+- [[schizophyllum-commune]]

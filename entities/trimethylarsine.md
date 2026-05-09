@@ -26,7 +26,7 @@ sources:
 Trimethylarsine is a volatile organoarsenic compound with the formula C3H9As, commonly written as (CH3)3As or AsMe3.
 It is an organic derivative of arsine with three methyl groups attached to arsenic.
 In environmental microbiology, it is important as a possible endpoint of arsenic biomethylation.
-In the wiki, it connects [[phytovolatilization]], and fungal metal transformation pages.
+In the wiki, it connects [[phytovolatilization]], and fungal [[singh-metal-transformation-leaching-mechanisms-fungi]] pages.
 ## Core Identity
 - Entity class: volatile organoarsenic chemical.
 - PubChem CID: 68978.
@@ -45,7 +45,7 @@ That volatility makes it important in discussions of arsenic transfer between so
 It is not simply a detoxification product; toxicity and exposure route matter.
 Its environmental meaning depends on concentration, containment, oxidation, photochemistry, and downstream deposition.
 ## Discovery and Historical Context
-Trimethylarsine was identified in the nineteenth century.
+Trimethylarsine was identified in the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]].
 It became historically important because microbial arsenic methylation helped explain garlic odors from arsenic-containing materials.
 The broader field of arsenic biomethylation was shaped by Challenger's work on biological formation of methylated arsenic compounds.
 The term Challenger pathway is still used for sequential reduction and methylation models of arsenic transformation.
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -70,7 +70,7 @@ It occurs from lowland elevations up to approximately 1,500 meters in montane re
 
 ## Bioactive Compounds
 
-Vincetoxicum hirundinaria contains a range of bioactive secondary metabolites.
+Vincetoxicum hirundinaria contains a range of bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]].
 
 **Steroidal glycosides:** Several pregnane glycosides have been isolated from the roots and aerial parts.
 

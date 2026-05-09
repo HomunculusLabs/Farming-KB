@@ -4,14 +4,17 @@ created: 2026-05-02
 updated: 2026-05-02
 type: comparison
 tags: [general]
-sources: []
+sources:
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 ---
 title: "Root Cellar vs Ice House"
 tags: [comparison, food-preservation, off-grid, natural-building]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # Root Cellar vs Ice House
@@ -23,7 +26,7 @@ structures that use natural thermal properties to preserve food without
 electricity. Root cellars leverage stable below-ground temperatures and passive
 ventilation, while ice houses store harvested winter ice for summer cooling. Both
 have been used for centuries and remain viable for off-grid homesteads seeking
-energy-independent food preservation across a range of climate zones and
+energy-independent food preservation across a range of [[mollison-climate-zones-permaculture-strategies]] and
 geographic conditions, from temperate farmland to northern homesteads with
 reliable winter freezing and access to harvestable ice or natural springs.
 
@@ -54,11 +57,11 @@ limiting ice houses to colder climates with suitable water bodies nearby.
 | Aspect | Root Cellar | Ice House |
 |--------|-------------|-----------|
 | Cooling Mechanism | Soil temperature + ventilation | Stored ice + insulation |
-| Temperature Range | 32 to 40 degrees F | 33 to 40 degrees F |
+| [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] | 32 to 40 degrees F | 33 to 40 degrees F |
 | Humidity | High (85 to 95 percent) | Low (dry insulation environment) |
 | Climate Requirement | Temperate (works most areas) | Cold winters with ice source |
 | Annual Labor | Minimal (monitoring only) | Significant (ice harvest, packing) |
-| Food Types | Root crops, squash, apples | Dairy, meat, perishables |
+| Food Types | [[permaculture-plants-root-crops-and-tubers]], squash, apples | Dairy, meat, perishables |
 | Storage Duration | 2 to 8 months | January to September |
 | Site Dependency | Moderate (soil, drainage) | High (freezing winters, pond/lake) |
 | Construction Cost | Low to moderate | Moderate (insulated structure) |
@@ -67,7 +70,7 @@ limiting ice houses to colder climates with suitable water bodies nearby.
 
 Choose a root cellar when preserving bulk vegetable harvests is the primary goal
 and the site has suitable soil and drainage. Root cellars are the most
-universally applicable passive cooling structure, functioning in any temperate
+universally applicable [[mollison-designers-solar-chimneys-and-passive-cooling-in-desert-housing]] structure, functioning in any temperate
 climate without special geographic features. They require minimal ongoing labor,
 store large volumes of food without processing, and maintain the nutritional
 quality of fresh produce. A root cellar is the foundation of any off-grid food

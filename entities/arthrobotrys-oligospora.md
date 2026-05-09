@@ -14,7 +14,7 @@ Arthrobotrys oligospora is a nematophagous (nematode-trapping)
 ascomycete fungus and one of the most extensively studied predatory
 fungi. It captures and digests nematodes using adhesive three-
 dimensional nets, making it a key model for understanding fungal
-predation biology and a promising biological control agent.
+predation biology and a promising [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent.
 
 The species exemplifies the remarkable predatory adaptations that have
 evolved in soil fungi, representing one of relatively few examples of
@@ -49,7 +49,7 @@ contact within milliseconds.
 The adhesive net physically entraps nematodes upon contact. The
 adhesive material binds strongly to the nematode cuticle, preventing
 escape and initiating the infection process. Trap formation is induced
-by nematode presence or nematode-derived chemical signals, allowing
+by nematode presence or nematode-derived [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]], allowing
 energy investment only when prey is available.
 
 ## Molecular Biology
@@ -59,7 +59,7 @@ energy investment only when prey is available.
 A. oligospora produces cuticle-degrading serine proteases that play a
 key role in nematode infection. The protease gene is upregulated
 during parasitic growth, targets nematode cuticle proteins, and
-genetic engineering has improved pathogenicity through modification of
+[[fukuoka-textdoc-genetic-engineering-critique-warning]] has improved pathogenicity through modification of
 subtilisin enzymes with enhanced proteolytic properties.
 
 ### Lectin Function
@@ -100,7 +100,7 @@ The adhesive material of A. oligospora traps contains specific lectins and carbo
 
 Genetic transformation systems have been developed for A. oligospora, enabling targeted gene disruption and overexpression studies. These tools have been used to characterize the function of specific trap-associated genes and to engineer strains with enhanced nematode-trapping activity for potential biological control applications.
 
-The trap induction process in A. oligospora involves sensing of nematode-derived chemical signals, which trigger a developmental switch from vegetative growth to trap morphogenesis. This switch involves major changes in gene expression, cytoskeletal organization, and cell wall biosynthesis, representing one of the most dramatic developmental transitions known in filamentous fungi.
+The trap induction process in A. oligospora involves sensing of nematode-derived chemical signals, which trigger a developmental switch from [[cannabis-vegetative-growth-stage]] to trap morphogenesis. This switch involves major changes in gene expression, cytoskeletal organization, and cell wall biosynthesis, representing one of the most dramatic developmental transitions known in filamentous fungi.
 
 After nematode capture, A. oligospora penetrates the cuticle using a combination of mechanical force and enzymatic degradation. The infection peg penetrates through the cuticle into the nematode body cavity, where the fungus proliferates and digests the internal tissues. The entire process from capture to nematode death can occur within hours, demonstrating the efficiency of the predatory mechanism.
 
@@ -108,16 +108,16 @@ The diversity of trap morphologies among nematophagous fungi reflects convergent
 
 The saprotrophic phase of A. oligospora is important for its survival when nematode prey are not available. The fungus can grow on a variety of organic substrates and maintains its population in soil through saprotrophic activity, ensuring it is present and ready to trap nematodes when they become available in the rhizosphere.
 
-Nematophagous fungi like A. oligospora occupy a unique position in soil food webs, functioning as both decomposers (during saprotrophic growth) and predators (during nematode trapping). This dual nutritional strategy provides ecological flexibility and may contribute to the persistence of predatory fungi in diverse soil environments.
+Nematophagous fungi like A. oligospora occupy a unique position in soil food webs, functioning as both decomposers (during saprotrophic growth) and predators (during [[bloomfield-nematode-trapping-fungi-predatory-soil-fungi]]). This dual nutritional strategy provides ecological flexibility and may contribute to the persistence of predatory fungi in diverse soil environments.
 
 Research on A. oligospora continues to advance our understanding of fungal predatory biology and its applications in agriculture. The integration of genomics, transcriptomics, and genetic manipulation tools is providing increasingly detailed insights into the molecular mechanisms underlying nematode trapping and infection.
 
-Environmental factors including soil moisture, temperature, and organic matter content influence both the distribution and predatory activity of A. oligospora in soil ecosystems. Understanding these environmental determinants is important for optimizing its effectiveness as a biological control agent in agricultural systems.
+[[duggar-mushroom-environmental-factors-temperature-moisture-light]] including soil moisture, temperature, and organic matter content influence both the distribution and predatory activity of A. oligospora in soil ecosystems. Understanding these environmental determinants is important for optimizing its effectiveness as a biological control agent in agricultural systems.
 
 The transition between saprotrophic growth and predatory trap formation represents a remarkable example of phenotypic plasticity in response to environmental cues.
 
 ## See Also
-Related: [[fungal-nematode-trapping]], [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
+Related: fungal-nematode-trapping, [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 
 - [[fungal-pest-control]]
 

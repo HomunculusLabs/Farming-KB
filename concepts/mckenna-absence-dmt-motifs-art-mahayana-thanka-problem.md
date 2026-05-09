@@ -7,7 +7,7 @@ art. McKenna had traveled to Konarak and Bubaneshwar, studied Hindu iconography,
 and collected Mahayana Buddhist thankas. He found significant parallels between
 his LSD experiences and the iconography of Mahayana Buddhism—in fact, it was LSD
 experiences that drove him to collect Mahayana art. But when he searched for
-corresponding representations of the DMT experience in any artistic tradition,
+corresponding representations of the [[mckenna-dmt-experience-and-hyperspace]] in any artistic tradition,
 he found nothing. This absence is striking given the intensity and consistency
 of the DMT experience and raises profound questions about the relationship
 between visionary experience and cultural representation.
@@ -54,10 +54,10 @@ matching nothing—is paradoxical.
 ## Possible Explanations
 
 ### The Epistemic Black Hole
-McKenna's own concept of the "black hole effect" surrounding DMT offers one
+McKenna's own concept of the "black [[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience]]" surrounding DMT offers one
 explanation. DMT experiences are so alien, so far beyond the categories of
 ordinary experience, that they resist representation in any artistic medium.
-The "cognitive dissonance" produced by the encounter with translinguistic
+The "[[mckenna-cognitive-dissonance-translinguistic-object]]" produced by the encounter with translinguistic
 objects means that the mind cannot successfully translate the experience into
 visual or verbal form. Art requires some degree of cognitive mastery over its
 subject matter; the DMT experience may simply exceed this capacity.
@@ -87,7 +87,7 @@ artistic history. While LSD amplifies and recombines existing perceptual
 patterns in ways that resonate with established artistic traditions, DMT may
 activate neural circuits that produce entirely novel visual phenomena—phenomena
 that no prior artistic tradition has had the vocabulary or inclination to
-represent. The self-transforming machine elves, the translinguistic objects,
+represent. The self-transforming [[dmt-self-transforming-machine-elves-mckenna]], the [[mckenna-translinguistic-objects-hyperdimensional-language]],
 and the hyperspatial architecture may simply be unlike anything in human
 artistic experience.
 
@@ -95,7 +95,7 @@ artistic experience.
 
 ### The Sect of the Phoenix
 McKenna reads Borges' "The Sect of the Phoenix" as an allegory for the secret
-cult of tryptamine ecstasy. Borges writes that "there is no human group in which
+cult of [[mckenna-tryptamine-ecstasy-and-platonic-eternity]]. Borges writes that "there is no human group in which
 members of the sect do not appear" and that "there is no persecution or rigor
 they have not suffered and perpetrated." The rite constitutes the Secret,
 transmitted from generation to generation. The act is "trivial, momentary, and
@@ -132,6 +132,8 @@ the tryptamine dimension—then the absence of DMT motifs in "high art" may be
 compensated by their presence in popular and folk traditions.
 
 ## See Also
+
+- mckenna-dmt-absence-in-art-traditions-and-mahayana-thanka-collecting
 - [[mckenna-absence-of-dmt-motifs-in-art-history]]
 - [[mckenna-cognitive-dissonance-translinguistic-object]]
 - [[mckenna-dmt-entities-borges-and-archaic-secret]]

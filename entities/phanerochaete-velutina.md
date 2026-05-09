@@ -13,7 +13,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dy
 Phanerochaete velutina is a cord-forming basidiomycete fungus and a
 significant wood decomposer in forest ecosystems. It has been
 extensively studied as a model organism for understanding mycelial
-foraging behavior, nutrient translocation, and network formation in
+foraging behavior, [[dighton-fungal-nutrient-translocation-element-redistribution]], and network formation in
 filamentous fungi. P. velutina represents one of the most thoroughly
 characterized cord-forming basidiomycetes.
 
@@ -34,9 +34,9 @@ environments.
 - **Genus:** Phanerochaete
 - **Species:** P. velutina
 
-P. velutina is closely related to Phanerochaete chrysosporium (the
+P. velutina is closely related to [[staycare-phanerochaete-chrysosporium-in-bioremediation]] (the
 white-rot model fungus), though the two species differ in their
-ecological strategies and mycelial morphology. The genus Phanerochaete
+ecological strategies and [[growing-gourmet-mycelial-morphology-classification-agar-media]]. The genus Phanerochaete
 includes both cord-forming and non-cord-forming species involved in
 wood decomposition across diverse forest ecosystems.
 
@@ -52,7 +52,7 @@ The species is considered a long-range forager, capable of exploring
 large volumes of soil in search of new wood resources. This foraging
 strategy contrasts with surface fractal species like Hypholoma
 fasciculare and Stropharia caerulea that produce denser, more space-
-filling mycelial networks optimized for local resource exploitation.
+filling [[fungal-mycelial-networks-nutrient-translocation]] optimized for local resource exploitation.
 
 Mass fractal species may be more effective at discovering distant
 resources, while surface fractal species may be more effective at
@@ -78,14 +78,14 @@ multiple time points (9, 25, and 39 days). Branch points and
 anastomoses are manually coded as nodes connected by links, allowing
 quantitative analysis of network topology.
 
-In silico estimates of network resilience have been generated from
+In silico estimates of [[gadd-mycelial-network-resilience-graph-theory]] have been generated from
 these graph representations, providing a framework for understanding
 the functional robustness of mycelial systems in response to
 disturbance or resource depletion.
 
 ## Nutrient Translocation
 
-P. velutina exhibits remarkable nutrient transport capabilities that
+P. velutina exhibits remarkable [[mycelial-network-nutrient-transport-imaging-gadd]] capabilities that
 are central to its ecological success as a wood decomposer. Amino acid
 transport has been characterized through continuous imaging revealing
 rapid, pulsatile fluxes through intact mycelia, driven by cytoplasmic
@@ -134,7 +134,9 @@ aggregation, and carbon flow by connecting spatially separated
 resource patches.
 
 ## See Also
-Related: [[fungal-nutrient-translocation-mycelial-systems]], [[query-difference-between-white-rot-and-brown-rot-fungi]]
+
+- [[quercus-velutina]]
+Related: fungal-nutrient-translocation-mycelial-systems, [[query-difference-between-white-rot-and-brown-rot-fungi]]
 - [[staycare-phanerochaete-chrysosporium-in-bioremediation]]
 - [[hypholoma-fasciculare]]
 - resinicium bicolor

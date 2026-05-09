@@ -1,5 +1,5 @@
 ---
-title: Lion's Mane Cultivation (Growing Gourmet & Medicinal Mushrooms)
+title: Lion's Mane Cultivation (Growing Gourmet & comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive)
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
@@ -20,7 +20,7 @@ Lion's Mane produces globe-shaped to irregular fruiting bodies composed of casca
 
 ## Natural Habitat
 
-In the wild, Lion's Mane is found on dead or dying hardwoods, particularly oaks, walnuts, and beeches. It is widely distributed across temperate forests of North America, Europe, and Asia. The mushroom typically fruits in late summer through autumn, often appearing on standing dead trees, fallen logs, and large branches.
+In the wild, Lion's Mane is found on dead or dying hardwoods, particularly oaks, walnuts, and beeches. It is widely distributed across temperate forests of [[psilocybin-north-america-pacific-northwest]], Europe, and Asia. The mushroom typically fruits in late summer through autumn, often appearing on standing dead trees, fallen logs, and large branches.
 
 ## Mycelial Characteristics
 
@@ -42,7 +42,7 @@ Some cultivators report success with mixed substrate formulations incorporating 
 - Duration: 14-21 days
 - CO2: less than 5,000 ppm
 - Fresh Air Exchanges: 1-2 per hour
-- Light Requirements: minimal during colonization
+- [[growing-gourmet-light-requirements-mushroom-fruiting]]: minimal during colonization
 
 ### Primordia Formation
 - Initiation Temperature: 65-75F (18-24C)
@@ -65,7 +65,7 @@ Some cultivators report success with mixed substrate formulations incorporating 
 
 ## Cultivation Method
 
-Lion's Mane is typically cultivated in autoclavable bags containing supplemented sawdust. After sterilization and inoculation with grain spawn, the bags are incubated until fully colonized (14-21 days). Unlike many species, Lion's Mane can be moved directly to fruiting conditions upon colonization completion.
+Lion's Mane is typically cultivated in autoclavable bags containing [[oyster-mushroom-supplemented-sawdust-blocks]]. After sterilization and inoculation with grain spawn, the bags are incubated until fully colonized (14-21 days). Unlike many species, Lion's Mane can be moved directly to fruiting conditions upon colonization completion.
 
 When fruiting, the bags may be opened at the top or holes punched in the sides. The mushroom tends to form large, single fruiting bodies rather than the clustered bouquets typical of Oyster species. Care should be taken to ensure adequate fresh air exchange, as Lion's Mane is sensitive to high CO2 levels, which can cause abnormal development.
 
@@ -87,10 +87,10 @@ The mushroom should be cooked thoroughly before consumption. When properly prepa
 
 ## Medicinal Properties
 
-Lion's Mane has gained significant attention for its neuroprotective and cognitive-enhancing properties. Key bioactive compounds include:
+Lion's Mane has gained significant attention for its neuroprotective and cognitive-enhancing properties. Key [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include:
 - Hericenones and erinacines: compounds unique to Hericium species that stimulate nerve growth factor (NGF) synthesis
 - Beta-glucan polysaccharides with immunomodulatory activity
-- Antioxidant compounds that protect against oxidative stress
+- Antioxidant compounds that protect against [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]
 
 Research has shown potential benefits for:
 - Cognitive function and memory enhancement
@@ -104,4 +104,4 @@ Research has shown potential benefits for:
 - [[lions-mane-indoor-cultivation]]
 - [[growing-gourmet-substrate-preparation]]
 - [[growing-gourmet-fruiting-parameters]]
-- [[gourmet-mushroom-strain-selection]]
+- gourmet-mushroom-strain-selection

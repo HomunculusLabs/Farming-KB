@@ -1,5 +1,5 @@
 ---
-title: Community Finance And Alternative Economies
+title: Community community finance and alternative economies Economies
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -11,7 +11,7 @@ sources: ["raw/papers/bill-mollison-permaculture-a-designers-manual.md"]
 
 updated: 2026-04-18
 
-Community finance encompasses the informal and formal economic structures that enable local self-reliance, keep capital circulating within a community, and reduce dependence on external financial systems. Bill Mollison's Permaculture Designers Manual (Chapter 14) provides a comprehensive framework for building community-based economic systems.
+Community finance encompasses the informal and formal economic structures that enable local self-reliance, keep capital circulating within a community, and reduce dependence on external financial systems. Bill Mollison's Permaculture [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] (Chapter 14) provides a comprehensive framework for building community-based economic systems.
 
 ## The Informal Economy
 
@@ -60,16 +60,16 @@ A local nonprofit corporation in Berkshire, Massachusetts, encouraging small bus
 New Zealand-wide charitable trust promoting cooperatives and small enterprises. Provides advice, training sessions, and loans. Depositors receive 0-12% interest depending on term and preference.
 
 ## Small Business Service Centres
-Offer shared facilities: secretarial, bookkeeping, accounting, legal, communication, education, skills registers, research services, and equipment leasing. Direct marketing through group product catalogues cuts out retailers.
+Offer shared facilities: secretarial, bookkeeping, accounting, legal, communication, education, skills registers, research services, and equipment leasing. [[coleman-direct-marketing-and-csa-models]] through group product catalogues cuts out retailers.
 
 ## Key Principle
 "A worthwhile goal of any community would be to keep the money saved and earned in the community cycling within itself."
 
 ## Related Topics
 
-- [[permaculture-village-design]]
-- [[right-livelihood-and-permaculture-business]]
-- [[community-economics-in-permaculture]] and [[permaculture-retrofit-suburbia]].
+- permaculture-village-design
+- right-livelihood-and-permaculture-business
+- community-economics-in-permaculture and permaculture-retrofit-suburbia.
 
 ## The Segregation-Integration Dynamic
 
@@ -110,3 +110,6 @@ Other alternative economic structures mentioned by Holmgren include:
 ## The Spiritual and Material Economy
 
 Holmgren extends the integration principle to describe dynamics between the global economy and the spiritual realm. The same forces of segregation and integration that operate in ecology operate in human culture. Religious and cooperative groups have historically provided economic alternatives. The third permaculture principle (and even the second) can be seen as arising from these same cooperative impulses.
+- [[permaculture-design]]
+- [[community-land-trusts]]
+- [[bill-mollison]]

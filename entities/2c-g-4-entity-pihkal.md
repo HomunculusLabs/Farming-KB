@@ -1,5 +1,5 @@
 ---
-title: "2C-G-4 (3,4-Tetramethylene-2,5-dimethoxy-PEA) -- PIHKAL Entry #29"
+title: "2C-G-4 (3,4-Tetramethylene-2,5-dimethoxy-PEA) -- 2c-b-pihkal-entry-20 #29"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -71,7 +71,7 @@ removal of the solvent under vacuum and distillation of the residue at
 0.35 mm/Hg, 11.4 g of recovered starting phenol.
 
 A mixture of 61.7 g POCl3 and 54.3 g N-methylformanilide was heated on
-the steam bath for 15 min which produced a deep red color. This was
+the [[scythian-cannabis-steam-bath-ritual]] for 15 min which produced a deep red color. This was
 added to 54.3 g of 5-methoxy-1,2,3,4-tetrahydronaphthalene, and the
 mixture was heated on the steam bath for 2 h. The reaction mixture
 
@@ -79,7 +79,7 @@ mixture was heated on the steam bath for 2 h. The reaction mixture
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

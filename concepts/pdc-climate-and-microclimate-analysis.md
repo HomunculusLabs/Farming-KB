@@ -1,5 +1,5 @@
 ---
-title: Climate and Microclimate Analysis
+title: pdc climate and microclimate analysis Analysis
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,13 +10,13 @@ tags: [climate, microclimate]
 
 # Climate and Microclimate Analysis
 
-Understanding climate is perhaps the most important thing for Permaculture Design. The vast majority of factors that affect design come from local climatic conditions. A design that works well in an arid climate could be an ecological disaster in a tropical climate.
+Understanding climate is perhaps the most important thing for [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]. The vast majority of factors that affect design come from local climatic conditions. A design that works well in an arid climate could be an ecological disaster in a tropical climate.
 
 ## Factors Creating Climate
 
 The major factors that contribute to creating a climate are latitude, altitude, and land mass:
 
-- **Latitude** determines how much direct sunlight reaches the area over the year, which determines the temperature range. All deserts in the world fall within a latitude range that puts them near the equator.
+- **Latitude** determines how much direct sunlight reaches the area over the year, which determines the [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]. All deserts in the world fall within a latitude range that puts them near the equator.
 - **Land mass** determines wind patterns and humidity.
 - **Altitude** affects temperature and oxygen concentrations. All mountain tops tend to have similar climates because of their altitude.
 
@@ -61,14 +61,14 @@ Riparian zones are a specific type of ecology formed along rivers and streams. B
 
 ## Monsoons
 
-A monsoon is a reversal of the prevailing winds which causes a noticeable change in rain patterns. Monsoons bring rain when moist air blows in from the oceans, and reduce rain when winds blow out from the land. When researching a climate zone it is important to take note of monsoons.
+A monsoon is a reversal of the prevailing winds which causes a noticeable change in rain patterns. Monsoons bring rain when moist air blows in from the oceans, and reduce rain when winds blow out from the land. When researching a [[holzer-climate-zone-microclimate-creation]] it is important to take note of monsoons.
 
 ## Essential Climate Research
 
 For design purposes a Permaculture Designer must research:
 
 - Average high temperature and average low temperature
-- Average high humidity and average low humidity
+- Average high humidity and average [[pf-tek-low-humidity-symptoms-and-remediation]]
 - Direction and speed of prevailing summer winds
 - Direction and speed of prevailing winter winds
 - Average rainfall by month
@@ -77,7 +77,7 @@ For design purposes a Permaculture Designer must research:
 - Monsoon patterns
 - Flood plain status
 
-Understanding your climate can be a whole science in itself. Climate determines what types of plants and animals can survive, what factors must go into building shelters, available building materials, food sources, and availability. The modern world develops culture divorced of its climate -- we do not build, dress, eat, or behave appropriately for our climate, and the ecology is paying the price.
+Understanding your climate can be a whole science in itself. Climate determines what types of plants and animals can survive, what factors must go into building shelters, available [[natural-building-materials-guide]], food sources, and availability. The modern world develops culture divorced of its climate -- we do not build, dress, eat, or behave appropriately for our climate, and the ecology is paying the price.
 
 ## Climate and Culture
 
@@ -85,10 +85,10 @@ Climate affects architecture which affects everyday life, food, cultural habits,
 
 ## Related Pages
 
-- [[pdc-climate-design-strategies]]
+- pdc-climate-design-strategies
 - [[pdc-pattern-understanding-in-design]]
 - [[microfungal-species-diversity-large-areas]]
 - [[permaculture-designers-manual-climatic-zones-tropical]]
-- [[permaculture-cold-climate-strategies]]
+- permaculture-cold-climate-strategies
 - [[worm-ecology-soil-building]]
 - [[teaming-with-nutrients-essential-plant-nutrients]]

@@ -1,16 +1,17 @@
 ---
-title: "Chemical Fungicides Insecticides and Safety"
+title: "cervantes chemical fungicides insecticides Insecticides and Safety"
 created: 2026-04-28
 tags: [pesticides, fungicides, insecticides, chemical-control, EPA-toxicity]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md]
+sources: sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Chemical Fungicides, Insecticides, and Safety
 
-Chemical pest and disease control represents the last resort in
+Chemical pest and [[hamilton-pest-and-disease-control-organic]] represents the last resort in
 Jorge Cervantes' integrated pest management hierarchy. While he
 does not recommend using chemical fungicides, fungistats,
 insecticides, or miticides on plants destined for human
@@ -49,7 +50,7 @@ Signal word is "Caution."
 
 Cervantes provides a chart of common lower-toxicity pest control
 products. Most of these fall into EPA Class IV, making them the
-safest choices for cannabis cultivation. Bacillus thuringiensis
+safest choices for [[query-how-does-no-till-cannabis-cultivation-work]]. [[cervantes-bacillus-thuringiensis-bt-control]]
 (Bt) products such as DiPel, M-Trak, and Javelin are Class IV
 biological insecticides effective against caterpillars. Neem-based
 products including Bioneem are also Class IV and work as both
@@ -73,7 +74,7 @@ with greater caution.
 
 Spreader-stickers are adjuvants that improve the effectiveness of
 pesticide, fungicide, and fertilizer sprays. They work by reducing
-surface tension on leaf surfaces, promoting even wetting and
+[[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] on leaf surfaces, promoting even wetting and
 increasing the adhesion and absorption of active ingredients
 through foliage. This is especially important when cannabis plants
 develop a waxy coating of resin that repels water-based sprays.
@@ -111,7 +112,7 @@ Always wear appropriate personal protective equipment including
 gloves, eye protection, and a respirator when handling toxic
 chemicals. Apply treatments during the dark period when possible to
 avoid photodegradation of active ingredients and to protect
-beneficial insects. Maintain adequate ventilation during and after
+[[coleman-beneficial-insects-and-ecological-pest-control]]. Maintain adequate ventilation during and after
 application.
 
 Never apply chemical pesticides during flowering if the product

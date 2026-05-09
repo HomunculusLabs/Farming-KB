@@ -26,10 +26,10 @@ without reason; each lives for a purpose, struggling, cooperating, and carrying
 on the cycles of nature. Far from being dead and inanimate, the soil teems
 with life.
 
-The microbial community in healthy soil includes [[comparison-phosphorus-solubilizing-microorganisms-vs-mycorrhizal-phosphorus-acquisition]] organisms, decomposers that break down [[query-what-are-the-best-ways-to-increase-soil-organic-matter-quickly]] creating channels through which
+The [[edaphic-factors-microbial-community-structure]] in healthy soil includes [[comparison-phosphorus-solubilizing-microorganisms-vs-mycorrhizal-phosphorus-acquisition]] organisms, decomposers that [[query-can-fungi-break-down-plastic-pollution]] [[query-what-are-the-best-ways-to-increase-soil-organic-matter-quickly]] creating channels through which
    air and water follow.
 2. As roots wither and die, they become food for microorganisms, which
-   proliferate in response to the organic matter.
+   proliferate in response to the [[hamilton-composting-and-organic-matter-management]].
 3. These microorganisms produce humus, which aggregates soil particles,
    improves water retention, and softens the earth.
 4. Earthworms appear wherever humus accumulates, further aerating and mixing
@@ -50,10 +50,10 @@ compared to mechanical approaches using bulldozers and large quantities of
 organic matter, the results are more permanent and the process self-sustaining.
 
 Fukuoka argued that if farmland were correctly understood as a legacy to be
-preserved for future generations, the general opinion of natural farming would
+preserved for future generations, the general opinion of [[comparison-natural-farming-vs-permaculture]] would
 improve. Land that grows fertile over time without plowing, weeding, or
-chemical fertilizers represents not only an accumulation of labor and capital,
-but an increase in intangible values as well. The fruit trees in such a system
+[[cervantes-chemical-fertilizers-guide]] represents not only an accumulation of labor and capital,
+but an increase in intangible values as well. The [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] in such a system
 live two to three times longer than those grown by scientific methods.
 
 ## See Also
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

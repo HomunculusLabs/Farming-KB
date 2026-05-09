@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 # Psilocybe subaeruginosa
 
-**Psilocybe subaeruginosa** is a potent psilocybin mushroom native to Australasia, where it is one of the most commonly encountered psychoactive fungi. It is closely related to the Northern Hemisphere [[psilocybe-azurescens]] and [[psilocybe-cyanescens]] in the Northern Hemisphere, suggesting a broad ecological adaptability to anthropogenic lignicolous substrates.
+**Psilocybe subaeruginosa** is a potent [[emcdda-psilocybin-mushroom-dose-and-effects]] native to Australasia, where it is one of the most commonly encountered [[cattle-dispersal-psychoactive-fungi-australia]]. It is closely related to the Northern Hemisphere [[psilocybe-azurescens]] and [[psilocybe-cyanescens]] in the Northern Hemisphere, suggesting a broad ecological adaptability to anthropogenic lignicolous substrates.
 
 ## Ethnobotanical Significance
 
@@ -22,11 +22,11 @@ The species is illegal to possess, cultivate, or sell throughout Australia and N
 
 ## Identification Notes
 
-In the field, *P. subaeruginosa* can be confused with several non-psychoactive or toxic species that share its lignicolous habit. The most dangerous lookalikes are species of [[psilocybe-azurescens]] from the Pacific Northwest of North America.
+In the field, *P. subaeruginosa* can be confused with several non-psychoactive or toxic species that share its lignicolous habit. The most dangerous lookalikes are species of [[psilocybe-azurescens]] from the Pacific Northwest of [[psilocybin-north-america-pacific-northwest]].
 
 ## Cultivation
 
-*P. subaeruginosa* can be cultivated using methods similar to those employed for other wood-loving Psilocybe species such as [[psilocybe-aucklandii]] from New Zealand and other Australasian taxa. The full scope of the *P. subaeruginosa* species complex remains under investigation, and cryptic speciation is suspected given the broad geographic range and morphological variability. Molecular phylogenetic studies by [[galerina-marginata]].
+*P. subaeruginosa* can be cultivated using methods similar to those employed for other wood-loving Psilocybe species such as psilocybe-aucklandii from New Zealand and other Australasian taxa. The full scope of the *P. subaeruginosa* species complex remains under investigation, and cryptic speciation is suspected given the broad geographic range and morphological variability. Molecular phylogenetic studies by [[galerina-marginata]].
 - **Psilocybe aucklandii**: New Zealand species with slightly smaller spores and less pronounced bluing. See [[weraroa-novae-zelandiae]] Species
 
 The *P. subaeruginosa* complex is closely related to the Northern Hemisphere species [[psilocybe-azurescens]], [[psilocybe-cubensis]] for comparison with tropical coprophilous species, and [[psilocybe-tasmaniana]] for other Australian psychoactive taxa found in overlapping habitats.
@@ -107,4 +107,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

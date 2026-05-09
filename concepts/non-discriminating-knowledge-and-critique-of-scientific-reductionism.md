@@ -6,12 +6,12 @@ type: concept
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Fukuoka M. The Natural Way of Farming: The Theory and Practice of Green Philosophy. 1987.
+  - Fukuoka M. The Natural Way of Farming: The microdosing-theory-and-practice of green-philosophy. 1987.
 ---
 
 # Non-Discriminating Knowledge and the Critique of Scientific Reductionism
 
-Masanobu Fukuoka's critique of scientific agriculture extends far beyond farming technique into a fundamental epistemological challenge to Western scientific method. At the core of [[natural-farming]] practice. Each principle is a consequence of the position that human knowledge is insufficient to improve upon nature's inherent wisdom:
+[[masanobu-fukuoka]]'s critique of [[critique-of-scientific-agriculture]] extends far beyond farming technique into a fundamental epistemological challenge to Western scientific method. At the core of [[natural-farming]] practice. Each principle is a consequence of the position that human knowledge is insufficient to improve upon nature's inherent wisdom:
 
 - **No tillage**: Because man cannot improve upon nature's soil structure
 - **No fertilizer**: Because nature's fertility cycles are self-sustaining when not disrupted
@@ -35,7 +35,7 @@ Fukuoka documented the transformation of Japanese farming villages in detail. No
 
 > "We have fallen from a true way of life to one that is false. People rush about in a frenzy to shorten time and widen space, and in so doing lose both."
 
-The farmer initially thought modern developments would make his job easier. Instead, mechanization freed him from the land and he now works harder than ever at other jobs. The disappearance of the sunken hearth from farming homes extinguished the light of ancient farming village culture. Fireside discussions vanished, and with them, the village philosophy.
+The farmer initially thought modern developments would make his job easier. Instead, mechanization freed him from the land and he now works harder than ever at other jobs. The disappearance of the sunken hearth from farming homes extinguished the light of ancient farming village culture. Fireside discussions vanished, and with them, the [[fukuoka-textdoc-village-philosophy-disappearance]].
 
 ## Even Organic Farming Is Scientific Farming
 
@@ -53,7 +53,7 @@ The mu philosophy has practical implications: if you stop doing the things that 
 
 ## Non-Discriminating Knowledge in Practice: The Four Principles
 
-Fukuoka distilled his philosophy into four principles of [[gaias-garden-lawn-ecology-and-cultural-critique]]
+Fukuoka distilled his philosophy into four principles of gaias-garden-lawn-ecology-and-cultural-critique
 - [[mckenna-sect-of-the-phoenix-and-archaic-secret-knowledge]]
 - [[mckenna-critique-of-seti-and-cultural-blindness]]
 ## Practical Considerations
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: Forest Garden Design Principles
+title: mollison-designers-forest-garden-layer-canopy-understory holmgren-permaculture-twelve-design-principles-framework
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -18,19 +18,19 @@ The forest garden is the most mature expression of the ecological garden concept
 
 The forest garden stacks productivity into seven distinct layers, using every available niche above and below ground:
 
-1. **Tall-tree layer:** Full-sized fruit, nut, or useful trees with spacing for light penetration. Avoid dense shade trees (maple, sycamore, beech). Choose multifunctioned fruit/nut trees: standard and semi-standard apple, pear, European plum on standard rootstocks, full-sized cherries, chestnut, walnut. Nitrogen-fixing trees (black locust, mesquite, alder, tagasaste, carob) help build soil and attract insects.
+1. **Tall-tree layer:** Full-sized fruit, nut, or useful trees with spacing for light penetration. Avoid dense shade trees (maple, sycamore, beech). Choose multifunctioned fruit/nut trees: standard and semi-standard apple, pear, European plum on standard rootstocks, full-sized cherries, chestnut, walnut. Nitrogen-fixing trees ([[comparison-black-locust-vs-honey-locust]], mesquite, alder, tagasaste, carob) help build soil and attract insects.
 
 2. **Low-tree layer:** Same fruits and nuts on dwarf/semi-dwarf rootstocks plus naturally small trees: apricot, fig, nectarine, almond, mulberry, persimmon, pawpaw. Shade-tolerant fruit trees. Flowering trees (dogwood, mountain ash) and N-fixing trees (golden-chain tree, silk tree, mountain mahogany). In smaller gardens, these may serve as the canopy.
 
 3. **Shrub layer:** Flowering, fruiting, wildlife-attracting, and useful shrubs. Blueberry, rose, hazelnut, butterfly bush, bamboo, serviceberry, Elaeagnus species, Siberian pea shrub. Shade-tolerant varieties beneath trees; sun-loving types in openings.
 
-4. **Herb layer:** Nonwoody vegetation in the botanical sense -- vegetables, flowers, culinary herbs, cover crops, mulch producers, soil builders. Emphasis on perennials but including choice annuals and self-seeders. Traditional garden beds at edges for full-sun crops.
+4. **Herb layer:** Nonwoody vegetation in the botanical sense -- vegetables, flowers, [[holzer-medicinal-and-culinary-herbs-compendium]], cover crops, mulch producers, soil builders. Emphasis on perennials but including choice annuals and self-seeders. Traditional garden beds at edges for full-sun crops.
 
 5. **Ground cover layer:** Low, ground-hugging plants offering food or habitat: strawberries, nasturtium, clover, creeping thyme, ajuga, prostrate flowers (phlox, verbena). Critical role in weed prevention by occupying ground that would otherwise succumb to invaders.
 
 6. **Vine layer:** Climbing plants filling the unused vertical dimension: kiwifruit, grapes, hops, passionflower, vining berries, honeysuckle, trumpet-flower, climbing annuals (squash, cucumbers, melons). Use perennial vines sparingly and cautiously -- some are invasive or strangling.
 
-7. **Root layer:** Shallow-rooted crops (garlic, onions, Jerusalem artichokes) and easy-to-harvest types. Deep-rooted varieties like carrots are impractical due to digging disturbance. Daikon radish is an exception -- long roots can often be pulled whole, and if unharvested, blossoms attract beneficial insects while fat roots add humus.
+7. **Root layer:** Shallow-rooted crops (garlic, onions, Jerusalem artichokes) and easy-to-harvest types. Deep-rooted varieties like carrots are impractical due to digging disturbance. Daikon radish is an exception -- long roots can often be pulled whole, and if unharvested, blossoms attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] while fat roots add humus.
 
 ## Design Process
 
@@ -46,7 +46,7 @@ Trees and woody plants go in first since they take longest to mature and define 
 Include abundant nitrogen-fixing and soil-building plants early on. Dense plantings demand lots of nutrients during youth, so the soil must be in excellent condition. Fertile, organic-rich soil built by nutrient-accumulating plants accelerates growth and speeds succession.
 
 ### Nursery Propagation Area
-Set aside a small Zone 1 area for seed-starting, rooting cuttings, and plant propagation. Start perennials for herb, root, and ground cover layers from seed en masse; propagate cuttings for trees, shrubs, and herbs; divide established plants. Nurture for 1-2 years before transplanting to permanent positions. A nursery provides huge numbers of plants very cheaply.
+Set aside a small Zone 1 area for seed-starting, [[cannabis-cloning-rooting-cuttings-method-clarke]], and plant propagation. Start perennials for herb, root, and ground cover layers from seed en masse; propagate cuttings for trees, shrubs, and herbs; divide established plants. Nurture for 1-2 years before transplanting to permanent positions. A nursery provides huge numbers of plants very cheaply.
 
 ### Filling Open Spaces
 Open spaces between trees and shrubs are initially filled with annual vegetables, flowers, nitrogen-fixing cover crops (clover), and nursery stock. As upper layers grow and nursery plants are transplanted, these beds gradually shrink.
@@ -81,6 +81,9 @@ In the establishment phase, when working to restore abused land and heal broken 
 ## See Also
 
 - [[forest-garden-seven-layers]]
-- [[faires-forest-garden-design]]
-- [[guild-design-methodology]]
+- faires-forest-garden-design
+- guild-design-methodology
 - [[habitat-nooks-for-garden-wildlife]]
+- [[david-holmgren]]
+- [[plant-propagation]]
+- [[jerusalem-artichoke]]

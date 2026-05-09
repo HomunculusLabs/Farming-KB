@@ -65,7 +65,7 @@ Schultes documents extensive Datura use in [[culebra-borrachera-methysticodendro
 
 - [[psilocybin-mushrooms]]
 - [[peyote-and-mescaline]]
-- sacred morning glories and ololiuqui
+- sacred [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] and ololiuqui
 ## Practical Considerations
 
 Successful implementation of Datura As Hallucinogen requires attention to
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

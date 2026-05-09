@@ -1,5 +1,5 @@
 ---
-title: Holzer Ring Water Feeder - Living Water Supply for Communities
+title: Holzer holzer ring water feeder living water supply - Living Water Supply for Communities
 created: 2026-04-26
 tags: [water-management, permaculture, community-design, drinking-water, holzer]
 date: 2026-04-25
@@ -13,7 +13,7 @@ type: concept
 Fresh, running, living water is the most important food for humans. Most people
 in cities have no access to living water. The water in municipal pipe systems is
 mostly stagnant and cannot regenerate itself, which is why chlorine and other
-chemicals are added to stabilise it. Sepp Holzer designed a solution: the ring
+chemicals are added to stabilise it. [[comparison-sepp-holzer-vs-biodynamic]] designed a solution: the ring
 water feeder system.
 
 ## The Problem with Conventional Water Supply
@@ -82,7 +82,7 @@ Holzer's design philosophy integrates the water system with the broader landscap
 
 ## Comparison with Conventional Water Treatment
 
-Conventional municipal water systems rely on chemical disinfection (chlorine, chloramine, ozone, UV) to kill pathogens in water that may sit stagnant in pipes for days or weeks. While this approach is effective at preventing waterborne disease, it has several drawbacks that Holzer's system avoids. Chlorine reacts with organic matter to form trihalomethanes and other disinfection byproducts, some of which are carcinogenic. Stagnant water loses dissolved oxygen, which affects taste and promotes the growth of biofilms inside pipes. Long residence times in distribution systems allow pH to drift and mineral precipitates to form, reducing water quality even before it reaches the tap.
+Conventional municipal water systems rely on chemical disinfection (chlorine, chloramine, ozone, UV) to kill pathogens in water that may sit stagnant in pipes for days or weeks. While this approach is effective at preventing waterborne disease, it has several drawbacks that Holzer's system avoids. Chlorine reacts with [[hamilton-composting-and-organic-matter-management]] to form trihalomethanes and other disinfection byproducts, some of which are carcinogenic. Stagnant water loses [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]], which affects taste and promotes the growth of biofilms inside pipes. Long residence times in distribution systems allow pH to drift and mineral precipitates to form, reducing water quality even before it reaches the tap.
 
 The ring water feeder, by maintaining continuous flow, preserves dissolved oxygen levels, prevents biofilm formation, and eliminates the need for any chemical treatment. The water's natural self-purifying capacity — driven by aerobic microorganisms and UV exposure in the open basins — maintains potability without introducing foreign substances. Holzer's approach to [[holzer-farming-philosophy]], which consistently emphasizes observation of natural indicators over instrumental measurement. Holzer argued that a farmer who learns to read the biological signals of their land — the plants that volunteer in certain soils, the insects present or absent from a crop, the color and clarity of water — develops a more reliable understanding of system health than any laboratory analysis can provide. The ring water feeder system, by maintaining water in a living state, makes these biological indicators continuously available to the communities it serves.
 
@@ -90,6 +90,6 @@ The ring water feeder, by maintaining continuous flow, preserves dissolved oxyge
 
 The ring water feeder is designed to minimize energy inputs. When installed in hilly terrain with sufficient elevation difference between basins, the system operates primarily on gravity, with the solar or wind pump serving only to return overflow from the lower basin during peak demand periods. Under normal household usage, the gravitational flow between basins may be sufficient to maintain circulation without any pumping at all, making the system effectively zero-energy during most of its operation.
 
-For off-grid installations, the pump can be powered by a small photovoltaic panel or wind turbine with minimal battery storage. Holzer estimated that the energy requirements for a typical household system are comparable to running a single light bulb — a negligible load for even modest renewable energy systems. This energy efficiency contrasts sharply with conventional water treatment and distribution, which requires energy-intensive pumping, chemical manufacturing, and pressurization at every stage. The [[holzer-water-landscapes]]
+For off-grid installations, the pump can be powered by a small photovoltaic panel or wind turbine with minimal battery storage. Holzer estimated that the energy requirements for a typical household system are comparable to running a single light bulb — a negligible load for even modest [[holmgren-wind-power-and-renewable-energy-debate]] systems. This [[fukuoka-textdoc-energy-efficiency-agricultural-labor]] contrasts sharply with conventional water treatment and distribution, which requires energy-intensive pumping, chemical manufacturing, and pressurization at every stage. The [[holzer-water-landscapes]]
 - [[holzer-irrigation-principles]]
 - [[holzer-farming-philosophy]]

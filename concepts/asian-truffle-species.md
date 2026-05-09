@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [reference]
-sources: []
+sources:
+  sources: []
 ---
 # Asian Truffle Species
 
@@ -14,7 +15,7 @@ Asia is home to a remarkable diversity of truffle-forming fungi, including speci
 
 The truffle flora of Asia is exceptionally diverse, reflecting the continent's vast range of climates, forest types, and geological conditions. Truffle species are found from the Mediterranean climate of the Middle East to the subtropical forests of southern China, the temperate forests of Japan and Korea, and the tropical forests of Southeast Asia.
 
-Asian truffle traditions are ancient. Desert truffles (Terfezia and Tirmania) have been collected in the Middle East for millennia. In China, truffle-like fungi have been used in traditional medicine and cuisine for centuries, though the scientific study of Chinese Tuber species only began in earnest in the late 20th century.
+Asian truffle traditions are ancient. Desert truffles (Terfezia and Tirmania) have been collected in the Middle East for millennia. In China, truffle-like fungi have been used in traditional medicine and cuisine for centuries, though the [[roger-heim-scientific-study-psilocybin]] of Chinese Tuber species only began in earnest in the late 20th century.
 
 ## Major Chinese Truffle Species
 
@@ -34,7 +35,7 @@ The Western Ghats biodiversity hotspot in southern India may harbor additional t
 
 ## Conservation and Sustainability
 
-Many Asian truffle species face threats from habitat destruction, deforestation, and overharvesting. The rapid economic development in China has led to significant forest loss in truffle-producing regions, and harvesting practices are often unsustainable, involving destructive digging that damages the mycorrhizal network.
+Many Asian truffle species face threats from habitat destruction, deforestation, and overharvesting. The rapid economic development in China has led to significant forest loss in truffle-producing regions, and harvesting practices are often unsustainable, involving destructive digging that damages the [[arbuscular-mycorrhizal-network-visualization-anastomosis]].
 
 In China, Tuber indicum harvests have declined in some areas due to overharvesting and habitat degradation. Research is needed to develop sustainable harvesting guidelines and to assess the conservation status of Asian truffle species. See [[truffle-auxin-root-morphogenesis]]
 
@@ -60,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

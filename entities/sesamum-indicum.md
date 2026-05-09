@@ -52,7 +52,7 @@ The name "sesame" derives from the Greek "sesamon" and Arabic "simsim," reflecti
 
 ## Cultivation
 
-Sesame is a drought-tolerant crop adapted to tropical and subtropical climates with temperatures of 25–35°C. It requires a frost-free growing season of 90–120 days and performs poorly in waterlogged soils.
+Sesame is a drought-tolerant crop adapted to tropical and subtropical climates with temperatures of 25–35°C. It requires a frost-free [[savory-growing-season-and-non-growing-season-management]] of 90–120 days and performs poorly in waterlogged soils.
 
 Optimal soils are well-drained sandy loams with moderate fertility and a pH of 5.5–7.0. The crop has relatively low nutrient requirements compared to other oilseeds, making it suitable for marginal lands.
 
@@ -60,7 +60,7 @@ Seeds are sown directly at a rate of 2–4 kg per hectare, spaced 30–45 cm wit
 
 Weed control is critical during the early growth stage, as sesame seedlings compete poorly with weeds. Once established, the crop's canopy provides effective weed suppression.
 
-Harvest timing is critical because capsules shatter at maturity. Non-shattering varieties have been developed to reduce harvest losses. Mechanized harvesting is increasingly common in large-scale production systems.
+[[cannabis-harvest-timing-visual-cues]] is critical because capsules shatter at maturity. Non-shattering varieties have been developed to reduce harvest losses. Mechanized harvesting is increasingly common in large-scale production systems.
 
 Average seed yields range from 300–500 kg per hectare under rainfed conditions, with irrigated or high-input systems achieving 1,000–1,500 kg per hectare.
 
@@ -72,7 +72,7 @@ Sesame seeds are consumed whole, ground as tahini, or pressed for oil. In Middle
 
 Sesame oil is valued for its high smoke point (210–230°C for refined oil) and nutty flavor. It is used extensively in East Asian stir-frying, Korean banchan, and South Indian cooking.
 
-Unrefined cold-pressed sesame oil retains more flavor and bioactive compounds than refined versions. In Japanese cuisine, roasted sesame oil (nerigoma) is used as a seasoning and finishing oil.
+Unrefined cold-pressed sesame oil retains more flavor and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] than refined versions. In Japanese cuisine, roasted sesame oil (nerigoma) is used as a seasoning and finishing oil.
 
 Whole sesame seeds are sprinkled on breads, buns, and pastries across many cultures. Black sesame seeds are used in Chinese desserts, Japanese gomadofu, and Korean porridge.
 
@@ -94,7 +94,7 @@ The unique stability of sesame oil against oxidative rancidity is attributed to 
 
 Other bioactive constituents include phytosterols (400–700 mg per 100 g), which contribute to cholesterol reduction, and sesamumol, which has shown antimutagenic activity in vitro.
 
-Regular sesame consumption has been associated with reduced oxidative stress markers and improved blood pressure in clinical trials. These effects are attributed to the synergistic action of lignans, tocopherols, and phytosterols.
+Regular sesame consumption has been associated with reduced [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] markers and improved blood pressure in [[mushroom-cancer-clinical-trials-overview]]. These effects are attributed to the synergistic action of lignans, tocopherols, and phytosterols.
 
 ## Major Cultivars and Varieties
 
@@ -104,7 +104,7 @@ Modern breeding programs have focused on indehiscent (non-shattering) capsule ty
 
 Notable variety groups include West African dwarf types adapted to short-season environments, and East African erect types suited to longer growing seasons. Indian and Chinese breeding programs have produced high-yielding cultivars with improved oil quality.
 
-Disease resistance breeding targets Fusarium wilt, Phytophthora blight, and Alternaria leaf spot, which are the most significant yield-limiting pathogens across production regions.
+Disease [[cannabis-disease-pest-resistance-breeding-clarke]] targets Fusarium wilt, Phytophthora blight, and Alternaria leaf spot, which are the most significant yield-limiting pathogens across production regions.
 
 ## See Also
 

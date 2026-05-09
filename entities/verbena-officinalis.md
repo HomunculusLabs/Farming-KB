@@ -95,7 +95,7 @@ digestive bitter.
 ### Nervine and Anxiolytic
 
 - Traditional use as a nerve tonic dating to Dioscorides (1st century CE)
-- Apigenin content provides anxiolytic effects via GABA_A receptor binding
+- Apigenin content provides anxiolytic effects via GABA_A [[tihkal-receptor-binding-serotonin]]
 - Used in modern Western herbalism for anxiety, nervous exhaustion, and
   stress-related insomnia
 
@@ -127,7 +127,7 @@ digestive bitter.
 - **Yield:** 2–3 kg dried herb per 10 m²
 - **Pollinator value:** Attractive to bees, butterflies, and hoverflies;
   long bloom provides late-season forage
-- **Companion planting:** Deters some pest insects; interplant with tomatoes
+- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:** Deters some pest insects; interplant with tomatoes
   and peppers
 
 ## Preparations and Dosage

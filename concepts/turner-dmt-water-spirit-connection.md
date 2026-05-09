@@ -1,5 +1,5 @@
 ---
-title: Turner DMT Water Spirit Connection
+title: Turner turner dmt water spirit connection Connection
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -23,7 +23,7 @@ Turner's personal discovery of a "magical link" between N,N-DMT and water, based
 
 ### On the Boat (Petaluma River)
 - Clear, cool May night under new moon on a boat ride
-- Pre-dosed: 250 mics LSD + ecstasy + ground Syrian Rue seeds (smoked, not extracted)
+- Pre-dosed: 250 mics LSD + ecstasy + ground [[golden-guide-syrian-rue-and-maoi-plants]] seeds (smoked, not extracted)
 - First DMT hit (~15 mg) in the boat cabin: "beautiful and enchanting visions," all menace absent
 - Second hit on deck looking out over water: "truly magical"
 - "The profound effect the water imparted to my experience was immediately obvious"
@@ -32,7 +32,7 @@ Turner's personal discovery of a "magical link" between N,N-DMT and water, based
 ### The Revelation
 - Knowledge came not while on DMT, but during a Ketamine + 2C-B-like experience
 - An "elfin creature" whispered: "DMT is a Water Spirit plant"
-- Transmitted knowledge that DMT spirit likes being near water, bestows peaceful visions near water, detests being away from water, and "those who use DMT removed from water will often experience its wrath"
+- Transmitted knowledge that [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]] likes being near water, bestows peaceful visions near water, detests being away from water, and "those who use DMT removed from water will often experience its wrath"
 
 ## Pattern Verification
 

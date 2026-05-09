@@ -16,10 +16,10 @@ Soil building is the foundation of ecological gardening. Rather than treating so
 
 ## The Living Soil
 
-Healthy soil teems with life: billions of bacteria, fungi, protozoa, nematodes, and arthropods inhabit every cubic inch. These organisms form the soil food web -- a complex hierarchy of interactions that drives decomposition, nutrient cycling, and soil structure formation.
+Healthy soil teems with life: billions of bacteria, fungi, protozoa, nematodes, and arthropods inhabit every cubic inch. These organisms form the soil food web -- a complex hierarchy of interactions that drives decomposition, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and soil structure formation.
 
 ### The Decomposition Cascade
-When organic matter (a leaf, for example) falls to the ground:
+When [[hamilton-composting-and-organic-matter-management]] (a leaf, for example) falls to the ground:
 1. **Primary decomposers** (bacteria, fungi, mites, springtails) shred, chew, and chemically dissolve the material
 2. Sugars and starches are quickly converted to energy, CO2, or more organisms
 3. **Celluloses and proteins** decompose more slowly
@@ -45,7 +45,7 @@ Humus is a stable, complex group of molecules made of carbon, oxygen, nitrogen, 
 
 As decomposers finish processing organic matter, most consumable carbon is gone. What remains are inorganic compounds -- phosphate, nitrate, sulfate, and other chemicals recognizable as plant fertilizer. Microbes literally make fertilizer in the soil through mineralization.
 
-Key insight: Chemical fertilizers are wasteful because plants typically use only 10-50% of what's applied; the rest washes into groundwater. By contrast, nutrients bound to humus or cycling among soil organisms stay in the soil and are available on demand.
+Key insight: [[cervantes-chemical-fertilizers-guide]] are wasteful because plants typically use only 10-50% of what's applied; the rest washes into groundwater. By contrast, nutrients bound to humus or cycling among soil organisms stay in the soil and are available on demand.
 
 ## The Carbon-to-Nitrogen Ratio
 
@@ -71,16 +71,16 @@ Rich soil also feeds rivers. Hillside soil acts as a giant sponge, holding water
 Layer cardboard or newspaper, then compost, then mulch to create new garden beds without tilling. Suppresses weeds, builds soil, and can be planted into immediately.
 
 ### Compost
-Hot composting creates finished humus quickly; cold composting preserves more soil life. Both add organic matter and nutrients.
+[[comparison-bokashi-vs-hot-composting-method]] creates finished humus quickly; cold composting preserves more soil life. Both add organic matter and nutrients.
 
 ### Green Manures and Cover Crops
 Living plants that are later cut or tilled in add organic matter and nitrogen (legumes). Protect soil from erosion during fallow periods.
 
 ### Mulch
-Any organic material (leaves, straw, wood chips) applied to the soil surface retains moisture, suppresses weeds, moderates temperature, and feeds soil life as it decomposes.
+Any organic material (leaves, straw, [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]]) applied to the soil surface retains moisture, suppresses weeds, moderates temperature, and feeds soil life as it decomposes.
 
 ### No-Till Methods
-Avoiding mechanical tilling preserves soil structure, mycorrhizal networks, and soil organism populations. Use sheet mulching, chop-and-drop, and direct planting instead.
+Avoiding mechanical tilling preserves soil structure, [[dighton-mycorrhizal-networks-carbon-transfer]], and soil organism populations. Use sheet mulching, chop-and-drop, and direct planting instead.
 
 ### Dynamic Accumulators
 Deep-rooted plants (comfrey, dandelion, chicory, yarrow) draw minerals from subsoil and deposit them on the surface as leaves decompose.
@@ -91,9 +91,9 @@ Fungi that form symbiotic relationships with plant roots, extending the root net
 ## See Also
 
 - [[gaias-garden-soil-food-web-and-humus]]
-- [[faires-hugelkultur-and-soil-building]]
-- [[faires-soil-management-and-sheet-mulching]]
-- [[mollison-mulching-and-soil-health]]
+- faires-hugelkultur-and-soil-building
+- faires-soil-management-and-sheet-mulching
+- mollison-mulching-and-soil-health
 - [[compost-building-guide]]
 - [[mulching-guide]]
 

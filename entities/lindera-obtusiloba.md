@@ -22,7 +22,7 @@ sources:
 
 In Korean traditional medicine (KKM), the bark and leaves of *L. obtusiloba* have been used to treat inflammatory conditions, digestive disorders, and circulatory ailments.
 
-Modern pharmacological research has identified numerous bioactive lignans, flavonoids, and essential oil components with anti-inflammatory, antioxidant, and hepatoprotective properties.
+Modern pharmacological research has identified numerous bioactive lignans, flavonoids, and [[permaculture-designers-manual-essential-oil-plants]] components with anti-inflammatory, antioxidant, and hepatoprotective properties.
 
 The species is one of several *Lindera* species used medicinally across East Asia, alongside *L. aggregata* (wu-yao) and *L. strychnifolia* (wu-zhu-yu).
 
@@ -46,17 +46,17 @@ The leaf base is cordate to truncate, and the margins are entire or shallowly to
 
 Young leaves are covered with fine pubescence, becoming glabrous at maturity.
 
-The upper leaf surface is medium green, the lower surface paler with prominent venation.
+The upper [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is medium green, the lower surface paler with prominent venation.
 
 Autumn foliage color is excellent, ranging from bright yellow to orange and deep red.
 
-Flowers appear in early spring (March–April) before leaf emergence, in small umbel-like clusters.
+Flowers appear in [[coleman-overwintered-onions-and-early-spring-crops]] (March–April) before leaf emergence, in small umbel-like clusters.
 
 The flowers are yellow, dioecious, with perianth segments approximately 5–6 mm long.
 
 Fruit is a small, ellipsoid drupe, approximately 8 mm in diameter, ripening from green to red then dark purple in autumn.
 
-Each fruit contains a single seed and is borne on a slender pedicel.
+Each fruit contains a [[cervantes-selfing-single-seed-descent]] and is borne on a slender pedicel.
 
 ## Distribution and Habitat
 
@@ -78,7 +78,7 @@ The plant prefers partial shade to full sun and moderate soil moisture.
 
 ## Chemistry and Pharmacology
 
-The bark, leaves, and twigs of *L. obtusiloba* contain a diverse array of secondary metabolites.
+The bark, leaves, and twigs of *L. obtusiloba* contain a diverse array of [[antifungal-secondary-metabolites-coprophilous-fungi]].
 
 **Lignans** are the most extensively studied compounds, including (-)-syringaresinol, (+)-pinoresinol, lirioresinol B, and various furofuran-type lignans.
 
@@ -94,7 +94,7 @@ Antioxidant activity of leaf extracts is attributed primarily to flavonoid and p
 
 Anti-inflammatory effects are mediated through inhibition of NF-kappaB signaling and reduction of pro-inflammatory cytokines.
 
-Cytotoxic lignans isolated from the bark have shown activity against several human cancer cell lines in vitro.
+Cytotoxic lignans isolated from the bark have shown activity against several human [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines in vitro.
 
 The species does not contain aristolochic acids, distinguishing it pharmacologically from its Aristolochiaceae relatives.
 

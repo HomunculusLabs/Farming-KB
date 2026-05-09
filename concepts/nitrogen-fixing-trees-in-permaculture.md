@@ -8,7 +8,7 @@ atmospheric nitrogen into plant-available forms, fertilizing the soil for
 themselves and neighboring plants.
 
 They serve as nurse crops, windbreaks, fodder sources, timber producers, and
-bee forage, making them truly multipurpose design elements.
+[[mollison-designers-bee-forage-tree-planting]], making them truly multipurpose design elements.
 
 ## The Nitrogen Fixation Process
 
@@ -28,7 +28,7 @@ is one of the most important biological processes on Earth.
 
 Non-leguminous nitrogen fixers, such as alders (Alnus spp), form similar
 relationships with actinomycete bacteria of the genus Frankia. Casuarina and
-Allocasuarina species also fix nitrogen through Frankia associations.
+Allocasuarina species also [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] through Frankia associations.
 
 ## Why Nitrogen-Fixing Trees Matter
 
@@ -48,7 +48,7 @@ orchards, pastures, or food forests without external fertilizer inputs.
 
 ### Tagasaste ([[robinia-pseudoacacia]])
 
-Black locust is a fast growing, nitrogen fixing legume reaching 25 meters and
+[[comparison-black-locust-vs-honey-locust]] is a fast growing, [[comparison-rhizobia-vs-free-living-nitrogen-fixing-bacteria]] legume reaching 25 meters and
 living up to 200 years. Native to the Appalachian and Ozark mountains, its
 foliage is readily eaten by livestock.
 
@@ -56,7 +56,7 @@ It produces honey regarded as one of the finest in the world. The timber is
 hard, heavy, and extremely rot resistant, widely used for fence posts, mine
 timbers, and railway sleepers. It coppices well and burns like coal.
 
-Commonly planted for erosion control and shelter belts, its main drawback is
+Commonly planted for [[permplant-willows-salix-erosion-control-fodder]] and shelter belts, its main drawback is
 a suckering habit, though non-suckering cultivars exist.
 
 ### Honey Locust ([[leucaena-leucocephala]])

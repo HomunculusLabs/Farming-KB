@@ -1,10 +1,12 @@
 ---
-title: "Constructed Wetland vs Backyard Pond"
+title: "comparison constructed wetland vs backyard pond vs Backyard Pond"
 created: 2026-04-28
 tags: [comparison, water-management, ecology, earthworks]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: comparison
 ---
 
@@ -12,19 +14,19 @@ type: comparison
 
 ## Overview
 
-Constructed wetlands and backyard ponds both manage water through
-ecological design, but they serve fundamentally different primary
+[[comparison-constructed-wetlands-vs-bioswales]] and backyard ponds both manage water through
+[[williams-pdc-ecological-design-principles]], but they serve fundamentally different primary
 purposes. A constructed wetland is an engineered water treatment
 system designed to purify contaminated water through biological,
 chemical, and physical processes. A backyard pond is a multi-purpose
 water feature focused on habitat creation, aesthetics, aquaculture,
 and water storage. Understanding their distinct design requirements
-helps you choose the right system for your site and water management
+helps you [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] system for your site and water management
 goals.
 
 ## Constructed Wetland
 
-[[mycoremediation-of-petroleum-hydrocarbons]], textile dyes, [[mollison-water-purification-biological-treatment]] activity,
+mycoremediation-of-petroleum-hydrocarbons, textile dyes, mollison-water-purification-biological-treatment activity,
 requiring larger surface areas in northern climates. Permitting
 requirements vary by jurisdiction and intended effluent quality.
 
@@ -68,7 +70,7 @@ enhancing landscape aesthetics, or providing fire suppression water.
 Ponds are ideal for smaller properties where the visual and
 recreational benefits outweigh treatment requirements. They integrate
 well into permaculture zone designs as multi-functional water
-features that support overall garden ecology.
+features that support overall [[gaias-garden-ecology-for-gardeners]].
 
 ## Combining Both Systems
 
@@ -78,7 +80,7 @@ greywater passes through a constructed wetland for primary treatment,
 then flows into a backyard pond that serves as a polishing step and
 habitat feature. This integrated approach maximizes ecological
 function while providing the aesthetic and recreational benefits of
-a pond. The wetland section protects pond water quality, and the
+a pond. The wetland section protects [[mollison-designers-fish-pond-water-quality-and-aeration]], and the
 pond provides additional residence time for biological treatment.
 
 ## See Also

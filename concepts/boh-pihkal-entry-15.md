@@ -1,5 +1,5 @@
 ---
-title: BOH (beta-Methoxy-3,4-methylenedioxyphenethylamine) - PIHKAL Entry #15
+title: BOH (beta-Methoxy-3,4-methylenedioxyphenethylamine) - 2c-b-pihkal-entry-20 #15
 created: 2026-04-28
 tags: [pihkal, phenethylamine, methylenedioxy, beta-alkoxy, box-family]
 date: 2026-04-28
@@ -11,7 +11,7 @@ type: concept
 
 # BOH (beta-Methoxy-3,4-methylenedioxyphenethylamine)
 
-**PIHKAL Entry #15**
+**[[2c-b-pihkal-entry-20]] #15**
 
 ## Chemical Identity
 
@@ -94,7 +94,7 @@ in the DME entry.
 ## Tryptamine Analogy
 
 Shulgin draws a compelling parallel in the tryptamine world:
-serotonin, like norepinephrine, is a neurotransmitter. By putting
+[[serotonin]], like norepinephrine, is a neurotransmitter. By putting
 an O-ether on the indolic phenol (to hide its polarity) and an
 alpha-methyl group next to the primary amine (to protect from
 metabolic deaminase), the result was alpha,O-dimethylserotonin

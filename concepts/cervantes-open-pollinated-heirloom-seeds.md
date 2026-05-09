@@ -1,5 +1,5 @@
 ---
-title: Open Pollinated Varieties and Heirloom Seeds
+title: cervantes open pollinated heirloom seeds Varieties and Heirloom Seeds
 created: 2026-04-26
 tags:
   - cannabis
@@ -10,15 +10,16 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Open Pollinated Varieties and Heirloom Seeds
 
 Open pollinated varieties (OPVs) and heirloom seeds represent the
-traditional foundation of cannabis genetics, predating modern hybrid
-seed production. These populations maintain genetic diversity and allow
+traditional foundation of [[vic-high-cannabis-genetics-mendelian-inheritance]], predating modern hybrid
+[[cervantes-seed-production-storage]]. These populations maintain genetic diversity and allow
 growers to save their own seed, preserving valuable traits across
 generations.
 
@@ -73,7 +74,7 @@ within a family and/or shared with friends.
 ### Characteristics of Heirloom Cannabis
 
 Heirloom varieties are non-hybrid (open-pollinated). This simply means
-they breed relatively true. Thus, growers can save seeds from their
+they breed relatively true. Thus, growers can [[query-how-do-i-save-seeds-from-biennial-vegetables]] from their
 crops, plant them the following year, and expect to see offspring that
 are very much like the parent generation. Any off-types in each
 generation should be rogued out of the breeding population to keep it
@@ -83,7 +84,7 @@ external source.
 ### Landrace Origins
 
 Many heirloom cannabis varieties trace their origins to landrace
-populations from specific geographic regions. For example, Hindu Kush
+populations from specific geographic regions. For example, [[cannabis-hindu-kush-strain-description-clarke]]
 is a landrace with particular characteristics adapted to its
 mountainous Afghan origin. These landrace populations represent
 centuries of natural and human selection.
@@ -96,7 +97,7 @@ but we can only work with what they have left us.
 ## Importance for Genetic Preservation
 
 Years of persecution from governments and greedy seed-making practices
-without improvement or preservation have led to a genetic bottleneck, a
+without improvement or preservation have led to a [[cervantes-genetic-bottleneck-and-diversity-loss]], a
 narrowing of the potentially available breeding stock. Now more than
 ever, ethical breeding should be of utmost concern to cannabis
 enthusiasts. The species desperately needs breeders who are willing to

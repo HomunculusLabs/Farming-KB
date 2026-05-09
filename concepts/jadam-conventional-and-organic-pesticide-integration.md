@@ -1,5 +1,5 @@
 ---
-title: JADAM Conventional and Organic Pesticide Integration
+title: JADAM Conventional and jadam conventional and organic pesticide integration Integration
 created: 2026-04-28
 tags: [jadam, pesticide-integration, transition-farming, cost-reduction]
 date: 2026-04-25
@@ -10,7 +10,7 @@ type: concept
 
 # JADAM Conventional and Organic Pesticide Integration
 
-JADAM natural pesticide (JNP) does not need to be limited to organic farming.
+JADAM [[jadam-natural-pesticide-institute-and-research]] (JNP) does not need to be limited to [[coleman-deep-organic-farming-philosophy]].
 Even farmers practicing conventional agriculture can use [[youngsang-cho]], explicitly states that revolution is not
 achieved through battles. Change becomes real when it seeps into farming
 practices like water. If JADAM method works, it will spread naturally among
@@ -27,9 +27,9 @@ cannot be patented, which is the basic principle of patent law.
 
 1. Begin with JWA production: it is the easiest and has the widest
    application, controlling early-stage aphids, mites, and powdery mildew
-2. Add JS production for disease control: effective against most fungal
+2. Add JS production for [[hamilton-pest-and-disease-control-organic]]: effective against most fungal
    diseases at a cost of 50 cents per liter
-3. Introduce JHS for insect control: boil Jerusalem artichoke or other
+3. Introduce JHS for insect control: boil [[comparison-jerusalem-artichoke-vs-potato]] or other
    locally available herbs
 4. Test all mixtures in small areas before full application
 5. Start replacing chemical pesticide applications one at a time
@@ -58,7 +58,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -100,4 +100,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: Teaming with Microbes: Photosynthesis, Exudates, and the Carbon Cycle
+title: Teaming with Microbes: Photosynthesis, Exudates, and the photosynthesis-carbon-cycle-plants
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -27,25 +27,25 @@ This secretion occurs in the rhizosphere -- a zone immediately around the roots 
 
 Plants are in control.
 
-Studies indicate that individual plants can control the numbers and different kinds of fungi and bacteria attracted to the rhizosphere by the exudates they produce. During different times of the growing season, populations of rhizosphere bacteria and fungi wax and wane depending on the nutrient needs of the plant and the exudates it produces.
+Studies indicate that individual plants can control the numbers and different kinds of fungi and bacteria attracted to the rhizosphere by the exudates they produce. During different times of the [[savory-growing-season-and-non-growing-season-management]], populations of [[lowenfels-rhizosphere-bacteria-plant-interaction]] and fungi wax and wane depending on the nutrient needs of the plant and the exudates it produces.
 
 At the center of any viable soil food web are plants. Plants control the food web for their own benefit -- a fact too little understood by gardeners who constantly interfere with Nature's system. This has profound implications for [[compost-biology-soil-food-web-inoculation]] and soil food web inoculation are so effective at building long-term soil fertility.
 
 ## Soil Respiration
 
-The metabolic activity of soil organisms uses oxygen and creates carbon dioxide.
+The [[arbuscule-isolation-metabolic-activity-assays]] of soil organisms uses oxygen and creates carbon dioxide.
 
 The presence of CO2 in soil is a good sign -- it indicates active soil life. However, when soil is watered, gravitational water pushes stale air out and sucks fresh air in from the surface, exchanging gases. Poorly structured soils with low porosity cannot exchange gases effectively, leading to anaerobic conditions where anaerobic bacteria produce alcohols and other substances toxic to plant roots.
 
 The connection between soil structure, aeration, and biological activity is central to [[soil-food-web-nutrient-cycling]]
 
-- teaming with microbes photosynthesis exudates carbon cycle
+- teaming with teaming with microbes photosynthesis exudates carbon cycle exudates carbon cycle
 
 - [[ozier-pdc-composting-and-soil-building]]
 
 - [[ozier-pdc-composting-and-soil-building]]
 
-- [[fungal-community-ecology]]
+- fungal-community-ecology
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
 ## Practical Considerations
 
@@ -63,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +105,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

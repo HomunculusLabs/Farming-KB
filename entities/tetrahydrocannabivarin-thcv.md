@@ -20,7 +20,7 @@ as a varinoid cannabinoid due to its three-carbon (propyl) side chain
 rather than the five-carbon (pentyl) side chain found in most major
 cannabinoids. THCV is considered a minor cannabinoid because it
 typically occurs in much lower concentrations than THC or CBD in most
-cannabis strains. However, certain African landrace varieties,
+[[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]]. However, certain [[african-landrace-sativa-modern-hybrids]] varieties,
 particularly from southern and central Africa, can contain relatively
 higher THCV levels.
 
@@ -51,7 +51,7 @@ differs significantly from THC:
   making it a candidate for weight management applications
 
 ### Therapeutic Potential
-- **Diabetes and metabolic syndrome:** THCV has shown potential to
+- **[[cannabis-for-diabetes-and-metabolic-syndrome]] syndrome:** THCV has shown potential to
   regulate blood sugar levels and improve insulin sensitivity in
   preclinical studies, positioning it as a possible treatment for
   type 2 diabetes
@@ -68,7 +68,7 @@ differs significantly from THC:
 ### Strain Sources
 THCV is found in highest concentrations in certain African landrace
 cannabis varieties, including strains from Malawi, Lesotho, and
-Durban. Modern breeding programs have begun crossing these landrace
+Durban. [[haze-lineage-and-legacy-in-modern-breeding]] programs have begun crossing these landrace
 varieties with high-THC or high-CBD cultivars to produce strains
 with enhanced THCV profiles for therapeutic use. Detection and
 quantification of THCV requires specialized analytical methods due
@@ -79,9 +79,9 @@ THCV represents a new frontier in cannabinoid therapeutics because
 its pharmacological profile differs fundamentally from THC despite
 structural similarities. The CB1 antagonism at low doses means THCV
 can modulate the endocannabinoid system without causing intoxication,
-which is valuable for medical applications requiring patient clarity.
+which is valuable for [[oner-sativa-medical-applications]] requiring patient clarity.
 Its potential role in metabolic regulation and appetite suppression
-makes it one of the most commercially interesting minor cannabinoids
+makes it one of the most commercially interesting [[cannabis-minor-cannabinoids]]
 currently under investigation.
 
 ## See Also

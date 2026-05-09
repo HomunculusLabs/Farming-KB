@@ -1,20 +1,21 @@
 ---
-title: Natural Farming Global Influence
+title: comparison-natural-farming-vs-permaculture Global Influence
 created: 2026-04-18
 updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # Natural Farming Global Influence
 
-The publication of Masanobu Fukuoka's "The One Straw Revolution" in 1975 (Japanese) and 1978 (English translation) sparked a worldwide movement that continues to grow decades later. His [[fukuoka-the-one-straw-revolution-final-chapter]] resonated with people who sensed that something was fundamentally wrong with modern civilization's relationship to nature. The book offered not just farming techniques but a complete worldview in which human beings could live in harmony with the earth.
+The publication of Masanobu Fukuoka's "The One [[fukuoka-one-straw-revolution-conclusion]]" in 1975 (Japanese) and 1978 (English translation) sparked a worldwide movement that continues to grow decades later. His [[fukuoka-the-one-straw-revolution-final-chapter]] resonated with people who sensed that something was fundamentally wrong with modern civilization's relationship to nature. The book offered not just farming techniques but a complete worldview in which human beings could live in harmony with the earth.
 
 ## Visitors to the Farm
 
-Fukuoka's farm on Shikoku Island became a pilgrimage site for people from around the world. Over the years, thousands of visitors came to see natural farming in practice and to learn from the master himself.
+Fukuoka's farm on Shikoku Island became a pilgrimage site for people from [[fungi-around-the-world-species-distribution]]. Over the years, thousands of visitors came to see natural farming in practice and to learn from the master himself.
 
 The visitors were a diverse group: young American hippies seeking an alternative to mainstream society, European farmers interested in reducing chemical inputs, Indian agricultural scientists looking for sustainable methods for their country, African development workers seeking solutions to desertification, and Japanese city dwellers wanting to reconnect with the land.
 
@@ -30,7 +31,7 @@ Bill Mollison acknowledged Fukuoka as one of his primary inspirations. The conce
 
 Despite its influence, natural farming has often been misunderstood or oversimplified. Some critics dismissed it as impractical on a large scale. Others appropriated its language while continuing to use chemicals and heavy machinery. Still others reduced it to a set of techniques without understanding the philosophical foundation.
 
-Fukuoka himself was aware of these misunderstandings. He wrote that visitors to Japan were often disappointed to find that natural farming had not "caught on" there as widely as they expected. "The average person in the street knows and cares even less. People in general don't have the slightest inkling of the true value of a natural diet."
+Fukuoka himself was aware of these misunderstandings. He wrote that visitors to Japan were often disappointed to find that natural farming had not "caught on" there as widely as they expected. "The average person in the street knows and cares even less. People in general don't have the slightest inkling of the true value of a [[fukuoka-natural-diet-as-foundation]]."
 
 The [[fukuoka-clay-pellet-desert-greening]] and the [[fukuoka-green-belt-projects]] continue to inspire new initiatives for ecological restoration.
 
@@ -39,6 +40,9 @@ Perhaps most importantly, Fukuoka's fundamental insight -- that nature is perfec
 See also: [[fukuoka-clay-pellet-desert-greening]], [[fukuoka-green-belt-projects]], [[fukuoka-natural-farming-transcends-time-space]]
 
 ## See Also
+
+- [[fukuoka-natural-farming-speech-1975]]
+- [[fukuoka-doi-garment-culture-clothing-natural-farming]]
 
 - [[chos-global-natural-farming-input-reduction-methods]]
 ## Practical Considerations
@@ -57,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

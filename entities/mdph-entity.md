@@ -9,7 +9,7 @@ sources:
 ---
 # MDPH (a,a-Dimethyl-3,4-methylenedioxyphenethylamine; 3,4-Methylenedioxyphentermine)
 
-MDPH is a substituted phenethylamine compound and the alpha,alpha-dimethyl analogue of mdpea. It is a member of the phentermine family with a methylenedioxy ring. The compound is listed as PIHKAL entry #116.
+MDPH is a substituted phenethylamine compound and the alpha,alpha-dimethyl analogue of mdpea. It is a member of the phentermine family with a methylenedioxy ring. The compound is listed as [[2c-b-pihkal-entry-20]] #116.
 
 ## Chemical Classification
 
@@ -47,7 +47,7 @@ The effects faded quickly. The compound was suggested as a possible promoter, li
 
 mdpea
 
-[[mdma]]
+mdma
 
 [[mdpr-entity]]
 
@@ -58,6 +58,7 @@ phentermine
 ## References
 
 Shulgin, A. & Shulgin, A. (1991). PIHKAL: A Chemical Love Story. Entry #116: MDPH.
+
 ## Practical Considerations
 
 Successful implementation of MDPH (a,a-Dimethyl-3,4-methylenedioxyphenethylamine; 3,4-Methylenedioxyphentermine) requires attention to
@@ -76,4 +77,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -98,13 +98,13 @@ Salvinorin A has no known lethal dose and is not considered physiologically toxi
 
 ## Legal Status
 
-Salvinorin A is unscheduled in many countries but regulated or banned in others. In the United States, it is unscheduled at the federal level but banned or controlled in numerous states. Legal status changes frequently and should be verified locally.
+Salvinorin A is unscheduled in many countries but regulated or banned in others. In the [[dmt-containing-plants-united-states-halpern]], it is unscheduled at the federal level but banned or controlled in numerous states. Legal status changes frequently and should be verified locally.
 
 ## History and Cultural Context
 
-Salvia divinorum has been used for centuries by the Mazatec people of Oaxaca, Mexico, in traditional healing and divination ceremonies. The active compound was isolated and characterized in 1982 by Alfredo Ortega and colleagues. Its unique KOR mechanism was identified in 2002 by Bryan Roth's research group at UNC Chapel Hill, opening new avenues in opioid receptor pharmacology.
+Salvia divinorum has been used for centuries by the Mazatec people of Oaxaca, Mexico, in traditional [[metzner-shamanic-healing-and-divination-paradigm]] ceremonies. The active compound was isolated and characterized in 1982 by Alfredo Ortega and colleagues. Its unique KOR mechanism was identified in 2002 by Bryan Roth's research group at UNC Chapel Hill, opening new avenues in opioid receptor pharmacology.
 
 ## See Also
 
-- [[five-meo-dmt-reference]] — comparison of non-classical psychedelics
+- [[5-meo-dmt-reference]] — comparison of non-classical psychedelics
 - [[harm-reduction-guide]] — general harm reduction principles applicable to salvinorin use

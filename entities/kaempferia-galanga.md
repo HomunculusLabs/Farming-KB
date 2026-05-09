@@ -24,13 +24,13 @@ sources:
 - **Genus:** Kaempferia
 - **Species:** K. galanga
 - **Authority:** L.
-- **[[mushroom-mites-and-nematodes-in-cultivation]], and propagation is typically done vegetatively through division of the rhizome.
+- **mushroom-mites-and-nematodes-in-cultivation, and propagation is typically done vegetatively through division of the rhizome.
 
 The rhizome is the primary plant part used both culinarily and medicinally, with a characteristic spicy, camphoraceous aroma. Fresh rhizomes are aromatic and firm, with a pale interior and a brownish exterior skin.
 
 ## Distribution
 
-The species occurs in the tropical zones of Africa and southeastern Asia. Throughout its range, the highly aromatic rhizome is widely cultivated and valued. K. galanga is believed to be native to India or Southeast Asia, though centuries of cultivation have made its original wild distribution difficult to determine.
+The species occurs in the tropical zones of Africa and southeastern Asia. Throughout its range, the highly aromatic rhizome is widely cultivated and valued. K. galanga is believed to be native to India or [[psilocybe-southeast-asia-pacific]], though centuries of cultivation have made its original wild distribution difficult to determine.
 
 It is widely grown in Thailand, Indonesia, Malaysia, southern China, and throughout the Indonesian archipelago. The plant thrives in warm, humid tropical environments with well-drained soils and partial shade.
 
@@ -69,11 +69,11 @@ The rhizome of K. galanga contains a complex mixture of [[sweet-flag-acorus-cala
 - myristica-fragrans — Nutmeg, contains myristicin, a psychoactive phenylpropene
 - alpinia-galanga — Greater Galangal, often confused with K. galanga in the literature
 
-The Zingiberaceae family contains several species with bioactive essential oils, but K. galanga is unusual in having reports of hallucinogenic use. Further research may clarify whether these reports represent genuine psychoactive properties or confusion with other species.
+The Zingiberaceae family contains several species with bioactive [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]], but K. galanga is unusual in having reports of hallucinogenic use. Further research may clarify whether these reports represent genuine psychoactive properties or confusion with other species.
 
 ## Future Research Directions
 
-The reported psychoactive use of K. galanga in New Guinea deserves further ethnobotanical investigation. Key research questions include the specific indigenous communities that use the plant as a hallucinogen, the preparation methods employed, and the subjective effects experienced by users. Chemical analysis of New Guinea populations of K. galanga could also reveal chemotypic variation not present in cultivated Asian populations.
+The reported psychoactive use of K. galanga in New Guinea deserves further ethnobotanical investigation. Key research questions include the specific indigenous communities that use the plant as a hallucinogen, the preparation methods employed, and the subjective effects experienced by users. [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of New Guinea populations of K. galanga could also reveal chemotypic variation not present in cultivated Asian populations.
 
 ## See Also
 

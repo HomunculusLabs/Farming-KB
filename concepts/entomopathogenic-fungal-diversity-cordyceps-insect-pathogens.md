@@ -1,5 +1,5 @@
 ---
-title: Entomopathogenic Fungal Diversity - Cordyceps and Insect Pathogens
+title: Entomopathogenic arbuscular-mycorrhizal-fungal-diversity-patterns-distribution - Cordyceps and bloomfield-cordyceps-insect-pathogens-behavior
 created: 2026-04-26
 tags:
   - mycology
@@ -47,9 +47,9 @@ Cordyceps (Kobayasi 1982) are available.
 
 Most necrotrophic parasites can be cultured from conidium or
 ascospore inoculum on simple media. However, some obligate
-insect pathogenic fungi cannot be grown axenically. Humber
+[[cordyceps-insect-pathogenic-fungi]] fungi cannot be grown axenically. Humber
 (1994) discussed problems of culturing strictly obligate
-insect pathogenic fungi. Many require insect tissue culture
+insect pathogenic fungi. Many require insect [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]
 medium supplemented with fetal bovine serum but usually will
 not sporulate in such media.
 
@@ -57,7 +57,7 @@ not sporulate in such media.
 
 Collecting entomopathogenic fungi requires searching for
 dead or moribund insects showing characteristic signs of
-fungal infection: external mycelial growth, sporulating
+fungal infection: external [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]], sporulating
 conidiophores, or mummified cadavers. Insects in the
 litter layer and upper soil are particularly productive
 sources. Infected hosts should be collected with their
@@ -77,7 +77,7 @@ predators or herbivores consuming living vascular plants.
 ## Ecological and Economic Significance
 
 Entomopathogenic fungi are important natural regulators of
-insect populations and have potential as biological control
+insect populations and have potential as [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]
 agents. Metarhizium anisopliae and Beauveria bassiana are
 commercially produced as biocontrol agents against agricultural
 pests. Understanding their diversity and ecology is essential
@@ -85,7 +85,7 @@ for both conservation and applied purposes.
 
 ## See Also
 
-- [[fungal-parasites-invertebrates]]
+- fungal-parasites-invertebrates
 - [[harpellales-gut-dwelling-trichomycete-fungi]]
 - [[fungal-parasites-living-plants-estimating-diversity]]
 - [[zoopagales-dimargaritales-zygomycete-mycoparasites]]

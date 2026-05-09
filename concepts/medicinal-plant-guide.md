@@ -5,15 +5,15 @@ updated: 2026-04-15
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  sources: []
 ---
 # Medicinal Plant Guide for Permaculture
 
-Permaculture systems can produce a wide range of medicinal plants for both human and animal health. This guide covers two categories from "Permaculture Plants: A Selection": medicinal herbs for livestock self-medication systems, and medicinal trees and shrubs with documented healing properties. Many of these species also serve as food, bee forage, or structural plants, embodying the permaculture principle of multiple functions.
+Permaculture systems can produce a wide range of medicinal plants for both human and animal health. This guide covers two categories from "Permaculture Plants: A Selection": [[permaculture-plants-medicinal-herbs-healing]] for livestock self-medication systems, and medicinal trees and shrubs with documented healing properties. Many of these species also serve as food, [[mollison-designers-bee-forage-tree-planting]], or structural plants, embodying the permaculture principle of multiple functions.
 
 ## Medicinal Herbs for Livestock
 
-The following plants can be incorporated into animal forage and fodder systems, allowing animals to access their own medicines. Animals will browse the herbs as they need them. Not all herbs suit all areas, but a broad spectrum should be made available to livestock at all times:
+The following plants can be incorporated into [[permaculture-designers-manual-animal-forage-systems]] and fodder systems, allowing animals to access their own medicines. Animals will browse the herbs as they need them. Not all herbs suit all areas, but a broad spectrum should be made available to livestock at all times:
 
 ### The Complete Herb List
 Anise, asparagus, beet, balm, borage, chicory, comfrey, cress, daisy, dandelion, dill, dock, fennel, fenugreek, flax, foxglove, garlic, herb Robert, hollyhock, kale, lavender, lucerne, mallow, marjoram, mint, nettle, parsley, plantain, rosemary, rue, sage, southernwood, sorrel, tansy, thistle, thyme, valerian, vervain, violet.
@@ -27,7 +27,7 @@ Used externally as a poultice for wounds, fractures, and burns. High in protein 
 Sedative and calming herb. Valuable for stressed livestock. Attracts cats. Root preparations used for nervous conditions, insomnia, and as a muscle relaxant.
 
 **Thyme (Thymus vulgaris)**
-Antiseptic and expectorant properties. Used for respiratory conditions in livestock. Good bee forage providing both nectar and pollen. Aromatic, drought tolerant once established.
+Antiseptic and expectorant properties. Used for respiratory conditions in livestock. Good bee forage providing both nectar and pollen. Aromatic, [[permplant-carob-drought-tolerant-food-tree]] once established.
 
 **Sage (Salvia officinalis)**
 Astringent, antiseptic, and anti-inflammatory. Used for digestive and respiratory conditions. Good bee forage. Drought tolerant.
@@ -63,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +105,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

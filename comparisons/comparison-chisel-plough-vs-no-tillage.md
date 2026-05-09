@@ -5,6 +5,7 @@ date: 2026-04-25
 updated: 2026-04-25
 tags: [comparison, soil, tillage, permaculture, farm-equipment]
 sources:
+  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: comparison
 ---
@@ -18,7 +19,7 @@ management that occupy opposite ends of the disturbance spectrum. The chisel
 plough, as described by Bill Mollison, is a one-time soil rehabilitation tool 
 that fractures compacted layers without inverting the soil profile, enabling 
 rapid recovery of degraded land. No-tillage systems, exemplified by Masanobu 
-Fukuoka's natural farming, eliminate all mechanical soil disturbance, relying 
+Fukuoka's [[comparison-natural-farming-vs-permaculture]], eliminate all mechanical soil disturbance, relying 
 on permanent ground cover and natural biological processes to maintain soil 
 structure. The choice between them depends on whether soil conditions require 
 active rehabilitation or can be maintained through biological means alone.
@@ -29,7 +30,7 @@ The chisel plough is a soil-conditioning implement described in the
 Permaculture Designers Manual as part of a two-phase soil rehabilitation 
 strategy. It penetrates the soil to depths of 5 to 30 centimeters using narrow 
 shanks that fracture compacted layers without inverting the soil profile, 
-preserving the existing microbial community structure. Mollison's approach uses 
+preserving the existing [[edaphic-factors-microbial-community-structure]] structure. Mollison's approach uses 
 the chisel plough as a one-time repair tool for severely degraded, compacted, 
 or exhausted soils, followed immediately by biological rehabilitation through 
 cover cropping and organic matter incorporation. The implement can raise soil 
@@ -49,7 +50,7 @@ Fukuoka's natural farming system uses permanent white clover as a living mulch,
 straw applications for weed suppression and moisture retention, and direct 
 seeding of grains and vegetables into the undisturbed soil surface. The result 
 is a self-sustaining system where soil organic matter increases annually, 
-mycorrhizal networks remain intact, and weed pressure declines over time as the 
+[[dighton-mycorrhizal-networks-carbon-transfer]] remain intact, and weed pressure declines over time as the 
 permanent ground cover fills ecological niches. No-tillage requires a 
 multi-year transition period as the soil biology adjusts from disturbed to 
 undisturbed conditions. During transition, yields may temporarily decline while 
@@ -101,10 +102,10 @@ soil-building programs.
 
 No-tillage is the ideal choice for any soil that has not been severely 
 compacted or degraded, and for long-term management of rehabilitated soils. It 
-is the foundation of Fukuoka's natural farming philosophy and aligns with 
+is the foundation of Fukuoka's natural [[fukuoka-do-nothing-farming-philosophy-and-practice]] and aligns with 
 permaculture's principle of minimal disturbance. Choose no-tillage when you 
 want to build long-term soil health through biological processes, maintain 
-intact mycorrhizal networks for nutrient cycling, and reduce input costs to 
+intact mycorrhizal networks for [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and reduce input costs to 
 near zero. Small-scale growers and homesteaders benefit most from no-tillage 
 because it eliminates the need for expensive equipment. No-tillage is also the 
 correct approach for soils with good natural structure that would be damaged by 
@@ -121,7 +122,7 @@ rehabilitation of the chisel plough followed by the long-term biological
 benefits of no-tillage. Some practitioners use a very shallow chisel pass or 
 broadfork to address surface compaction while maintaining no-tillage principles 
 at depth. In farm-scale conversions, a single chiseling operation followed by 
-permanent cover cropping and direct seeding can achieve the transition from 
+permanent cover cropping and [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] can achieve the transition from 
 conventional tillage to no-tillage in a single season rather than the 
 multi-year transition that pure no-tillage conversion typically requires. The 
 key principle is to use mechanical intervention only as a last resort and at 
@@ -130,5 +131,6 @@ the minimum intensity needed to restore biological function.
 ## See Also
 
 - [[no-tillage-grain-systems]] for Fukuoka's approach and details
-- [[mollison-grain-crops-and-no-tillage-systems]] for integrated grain systems
+- mollison-grain-crops-and-no-tillage-systems for integrated grain systems
 - [[hamilton-deep-bed-system]] for hand-scale no-till bed preparation
+- [[permaculture-design]]

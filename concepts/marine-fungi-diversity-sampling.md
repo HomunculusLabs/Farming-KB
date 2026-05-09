@@ -1,102 +1,138 @@
 ---
-title: Marine Fungi — Diversity and Sampling Methods
+title: Marine Fungi: [[freshwater-fungi-diversity-and-sampling]] Methods
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-05-09
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi, marine-biology, ecology, sampling]
 sources: []
 ---
+# Marine Fungi: Diversity and Sampling Methods
 
-# Marine Fungi — Diversity and Sampling Methods
-
-Marine fungi inhabit a wide range of coastal and estuarine environments, from sandy beaches to coral reefs, mangrove forests, and salt marshes. Their diversity and ecological roles are increasingly recognized as important components of coastal ecosystems.
+Marine fungi inhabit a wide range of coastal and estuarine environments, from
+sandy beaches to coral reefs, mangrove forests, and salt marshes. Their
+diversity and ecological roles are increasingly recognized as important
+components of coastal ecosystems, though they remain among the least studied
+groups of marine microorganisms.
 
 ## Major Groups and Habitats
 
 ### Arenicolous Fungi (Sand-Inhabiting)
-- Survey by collecting foam along the beach with a spoon-type skimmer
-- Foam refrigerated until air bubbles disappear; fungal propagules sink to bottom
-- Alternative: mix wet floatsam (algae, seagrasses, wood, feathers) with moist sand in plastic bags; store at room temperature for months
-- Some slow-growing ascomycetes first appeared after 2 years of incubation
+
+Sand-inhabiting fungi are surveyed by collecting foam along the beach with a
+spoon-type skimmer. The collected foam is refrigerated until air bubbles
+disappear, causing fungal propagules to sink to the bottom. An alternative
+approach involves mixing wet floatsam (algae, seagrasses, wood, feathers) with
+moist sand in plastic bags and storing at room temperature for months. Some
+slow-growing ascomycetes first appear after 2 years of incubation.
 
 ### Driftwood and Wood-Inhabiting Fungi
-- Largest group of marine fungi
-- Submerged wood collected, rinsed, and incubated in sterile seawater
-- Mycelial mats form on wood surfaces; ascomata develop on wood surfaces or embedded
-- Incubated at room temperature in the dark; examined periodically over 4-12 weeks
-- Some species produce propagules in summer but fruit from fall through spring
+
+Driftwood fungi represent the largest group of marine fungi. Submerged wood is
+collected, rinsed, and incubated in sterile seawater. Mycelial mats form on
+wood surfaces, and ascomata develop on wood surfaces or embedded within the
+substrate. Incubation at room temperature in the dark, with periodic examination
+over 4-12 weeks, allows identification. Some species produce propagules in
+summer but fruit from fall through spring.
 
 ### Manglicolous Fungi
-- Grow on permanently or intermittently submerged parts of mangrove trees
-- Most require wood and are found on decorticated areas
-- Dead or damaged roots and pneumatophores examined under dissecting microscope
-- Zonation of marine and terrestrial fungi observed along roots
-- Marine species near sediment; terrestrial species higher up; facultatively marine species in between
 
-### Corallicolous Fungi
-- Five species of Koralionastes plus rare Corallicola nana
-- Associated mostly with crustose sponges on lower side of dead coral slabs
-- Generally rare; tedious and time-consuming to find
-- Must lift dozens of coral rocks to find a few ascomata
+Manglicolous fungi grow on permanently or intermittently submerged parts of
+mangrove trees. Most require wood substrates and are found on decorticated
+areas. Dead or damaged roots and pneumatophores are examined under a dissecting
+microscope. Zonation of marine and terrestrial fungi is observed along roots:
+marine species near sediment, terrestrial species higher up, and facultatively
+marine species in between.
 
-### Endolithic Fungi
-Occur inside corals, calcified algae, and other calcareous substrata:
-- Halosarpheia runica in various calcareous substrata
-- Lulworthia species in coralline algae, conch shells
-- Tests of Foraminifera harbor multiple species
-- Two lichenized species from coralline algae and mollusk shells
+### Corallicolous and Endolithic Fungi
 
-### Salt Marsh Fungi
-- Caulicolous and foliicolous fungi on marsh plants (Juncus, Spartina)
-- Plant parts split lengthwise and scanned for embedded fruiting bodies
-- Zonation from base to tip: marine, facultatively marine, halotolerant terrestrial
+Five species of Koralionastes plus rare Corallicola nana are associated mostly
+with crustose sponges on the lower side of dead coral slabs. They are generally
+rare and time-consuming to find, requiring dozens of coral rocks to be lifted
+to find a few ascomata. Endolithic fungi occur inside corals, calcified algae,
+and other calcareous substrata, including Halosarpheia runica in various
+calcareous substrata and Lulworthia species in coralline algae and conch shells.
 
-## Marine Oomycetes (Halophytophthora and Pythium)
+## Molecular Identification Methods
 
-### Collection
-- Standard-size leaf disks removed from decaying leaves with sterilized cork borers
-- Leaves collected by walking at low tide or snorkeling at high tide
-- Disks agar-plated as soon as possible; must be processed under laminar-flow cleanhood
-- Incubated at room temperature (22-24C)
+Traditional identification of marine fungi relied on morphological
+characteristics of fruiting structures, which required prolonged incubation and
+often failed to detect sterile mycelia. Modern [[genetic-improvement-agaricus-bisporus-molecular-approaches]] have
+revolutionized marine mycology by enabling detection and identification of fungi
+directly from environmental samples without the need for cultivation.
 
-### Identification
-- Sporangia form at disk surfaces, edges, or in surrounding agar
-- Both subplate transmitted and surface illumination needed
-- Zoospore release behavior and morphology differ among species
-- Must induce zoospore release to confirm species identification
+DNA barcoding using the internal transcribed spacer (ITS) region has become the
+standard for fungal identification in marine environments. Metabarcoding studies
+of environmental DNA from seawater, sediment, and substrate surfaces have
+revealed a far greater diversity of marine fungi than culture-based methods ever
+suggested, including many novel lineages without known cultured representatives.
 
-### Selective Media
-Use of appropriate oomycete-selective agar medium is critical. Inappropriate ingredients can severely reduce accuracy (e.g., tenfold reduction for H. vesicula with high chloramphenicol concentrations).
+High-throughput sequencing platforms allow comprehensive surveys of marine fungal
+communities across spatial and temporal gradients. These studies have uncovered
+previously unknown patterns of fungal biogeography, host specificity, and
+seasonal dynamics in marine environments, fundamentally changing our
+understanding of fungal diversity in the oceans.
 
-### Ecological Roles
-- Decomposers of submerged decaying leaves
-- Important in mangrove and estuarine nutrient cycling
-- Some species temperature-limited (cold vs. warm intervals)
+## Biogeographic Patterns
 
-## Sampling Considerations
+Marine fungal diversity follows distinct biogeographic patterns that reflect
+both historical and contemporary environmental processes. Tropical and subtropical
+regions, particularly [[mangrove-ecosystems-and-coastal-restoration]], harbor the highest known species
+richness of marine fungi. The Indo-Pacific region is recognized as a biodiversity
+hotspot, with many marine fungal species showing restricted geographic ranges.
 
-### Seasonality
-Some species produce propagules only during specific seasons. Samples should be collected during both cold and warm seasons.
+Temperature, salinity, and substrate availability are the primary environmental
+determinants of marine fungal community composition. Warm-water species
+predominate in tropical mangroves and coral reefs, while cold-adapted species
+colonize higher-latitude shorelines. The transition between marine and
+terrestrial fungal communities along estuarine gradients creates unique
+ecotonal communities with mixed marine and terrestrial species.
 
-### Substratum Range
-Use a wide range of substrata including:
-- Wood (test blocks of various species: pine, birch, balsa, beech)
-- Plant material (leaves, stems, roots)
-- Calcareous substrata (coral, shells, algae)
-- Foam and water column
-- Insect exuviae
+Latitudinal diversity gradients in marine fungi are less well documented than in
+terrestrial systems, partly because marine mycological surveys have been
+geographically biased toward well-studied temperate coastlines. Targeted surveys
+of under-sampled tropical and polar regions are likely to reveal significant
+new diversity and reshape our understanding of global fungal biogeography.
 
-### Zonation Patterns
-In multiple habitats, a predictable zonation occurs from marine (near water/sediment) to facultatively marine (intermediate) to halotolerant terrestrial (above waterline).
+## Ecological Roles
 
-### Incubation
-- Wood: 4-12 weeks at room temperature in the dark
-- Sand/floatsam mixtures: months to years at room temperature
-- Leaf disks for oomycetes: 3-4 days at 22-24C
+Marine fungi play important but often overlooked roles in coastal ecosystem
+functioning. As decomposers of woody debris, algae, and plant detritus, they
+are essential for [[nutrient-cycling-in-soil]] mangrove forests, salt marshes, and
+beach ecosystems. Their enzymatic activities release organic carbon and
+nitrogen back into coastal food webs, supporting secondary production.
 
-## See Also
+Marine fungi form symbiotic associations with a variety of marine organisms.
+Endophytic relationships with seagrasses and marine algae can enhance host
+[[fungal-lichen-stress-tolerance-and-poikilohydry]] disease resistance, analogous to terrestrial endophyte
+functions. Parasitic marine fungi attack living marine organisms including
+algae, sponges, corals, and other invertebrates, influencing population
+dynamics and community structure.
 
-- [[fungal-species-richness-and-diversity-indices]]
+The bioremediation potential of marine fungi is an emerging research area.
+Marine-derived fungal species have shown the ability to degrade petroleum
+hydrocarbons, plastics, and other anthropogenic pollutants in coastal
+environments, suggesting potential applications in managing marine pollution
+and oil spill remediation.
+
+## Conservation and Taxonomic Challenges
+
+Marine fungi face [[fungal-conservation-challenges]] associated with habitat destruction,
+particularly the loss of mangrove forests and coral reefs that support diverse
+fungal communities. Coastal development, pollution, and climate change threaten
+both the fungi and their substrates, potentially leading to species losses
+before they are even documented.
+
+Taxonomic knowledge of marine fungi remains incomplete, with many species known
+only from single collections or preliminary descriptions. The lack of
+comprehensive taxonomic reference databases hampers both biodiversity
+assessment and ecological studies. Integrating morphological, molecular, and
+phylogenetic approaches is essential for building a robust classification
+system that reflects evolutionary relationships among marine fungal lineages.
+
+## Related Concepts
+
 - [[fungicolous-fungi-parasites-associates]]
-- [[insect-associated-fungi-sampling-diversity]]
+- insect-associated-fungi-sampling-diversity
 - [[fungal-nutrient-cycling-forests]]
+- [[fungal-biodiversity]]
+- [[fungal-community-assembly]]

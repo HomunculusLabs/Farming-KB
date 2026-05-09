@@ -1,5 +1,5 @@
 ---
-title: Natural Livestock Farming: Open Grazing vs Factory Methods
+title: fukuoka-natural-livestock-farming Farming: Open Grazing vs Factory Methods
 created: 2026-04-28
 tags:
   - livestock
@@ -21,7 +21,7 @@ type: concept
 Fukuoka extends his [[natural-farming-poster-input-free-farming]], livestock farming takes the form of open grazing.
 Cattle, pigs, and chickens fattened while free to roam at will on the open land under the
 sun's rays are a precious, irreplaceable source of food for man. The problem lies elsewhere —
-in the prejudiced view that sees natural farming as inefficient. Is grazing, which allows one
+in the prejudiced view that sees [[comparison-natural-farming-vs-permaculture]] as inefficient. Is grazing, which allows one
 person to raise hundreds of head without doing anything, really inefficient? Is it not,
 rather, the most efficient form of production there is?
 
@@ -49,6 +49,8 @@ worker and the city dweller who consumes these food products lose their health a
 as they turn away from nature.
 ## See Also
 
+- [[fukuoka-textdoc-factory-livestock-abuses-natural-grazing-ideal]]
+
 - [[fukuoka-natural-livestock-farming]]
 ## Practical Considerations
 
@@ -66,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

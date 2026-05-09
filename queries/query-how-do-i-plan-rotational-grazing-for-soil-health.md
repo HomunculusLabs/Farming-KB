@@ -1,10 +1,11 @@
 ---
-title: "How Do I Plan Rotational Grazing For Soil Health?"
+title: "How Do I Plan comparison-rotational-grazing-vs-continuous-grazing For Soil Health?"
 created: 2026-04-28
 tags: [query, grazing, pasture, soil-health, livestock]
 date: 2026-05-02
 updated: 2026-05-02
-sources: []
+sources:
+  - "raw/papers/allan-savory-holistic-management.md"
 type: query
 ---
 
@@ -16,7 +17,7 @@ Rotational grazing improves soil health when animals are moved before they overg
 The basic pattern is simple: observe forage, set a short grazing period, provide water and shade, then move the herd or flock to fresh ground.
 The hard part is not the fence layout; it is matching stocking density, recovery time, season, and plant growth rate.
 Use [[permaculture-grazing-and-pasture]] frames grazing as a design tool that can either regenerate or degrade the same field.
-The difference is timing, recovery, and animal impact.
+The difference is timing, recovery, and [[savory-animal-impact-and-herd-effect]].
 
 ### Understand Overgrazing
 
@@ -33,7 +34,7 @@ Good layout makes daily moves easy enough that they actually happen.
 That impact is useful on brittle pastures with standing dead material.
 It can be harmful on wet soils that compact easily.
 Sheep, cattle, goats, ducks, and poultry all create different disturbance patterns.
-[[mollison-designers-sheep-management-grazing-systems]] connects animal management with pasture composition and timing.
+mollison-designers-sheep-management-grazing-systems connects animal management with pasture composition and timing.
 Mixed swards give animals diet choice and reduce parasite pressure compared with short uniform lawns.
 Diverse roots also feed more soil microbes across the season.
 The more diverse the pasture, the more flexible the grazing plan becomes.
@@ -49,7 +50,7 @@ If mature forage is left untouched, animal density may be too low or paddock siz
 
 ### Integrate Trees And Silvopasture
 
-Trees can add shade, fodder, wind protection, and deep nutrient cycling to grazing land.
+Trees can add shade, fodder, [[cervantes-wind-protection-outdoor-cannabis]], and deep [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] to grazing land.
 [[savory-livestock-grazing-planning]] emphasizes planning, monitoring, control, and replanning as one continuous cycle.
 If recovery is too slow, lengthen rest or reduce stocking pressure.
 If forage is getting too mature, tighten the rotation or add animals temporarily.
@@ -83,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: KNF Fermented Seawater Preparation
+title: KNF knf fermented seawater preparation Preparation
 created: 2026-04-28
 tags: [knf, fermented-seawater, minerals, korean-natural-farming, soil-health]
 date: 2026-04-27
@@ -10,9 +10,9 @@ type: concept
 
 # KNF Fermented Seawater Preparation
 
-Fermented seawater is a key Korean Natural Farming (KNF) input that combines
+Fermented seawater is a key Korean [[comparison-natural-farming-vs-permaculture]] (KNF) input that combines
 the minerals and microbial life of ocean seawater with land-based beneficial
-microorganisms and organic matter. Developed by Master Han-Kyu Cho, fermented
+microorganisms and [[hamilton-composting-and-organic-matter-management]]. Developed by Master Han-Kyu Cho, fermented
 seawater leverages the concept of the brackish zone where freshwater meets
 seawater, one of the most biologically productive environments on Earth. This
 input provides abundant energy to crops and livestock, helps control fungal
@@ -64,14 +64,14 @@ improved flavor and nutritional density of fruits and vegetables.
 ### Ripening Enhancement
 
 Use seawater at dilution ratios of 1:30, 1:25, or 1:20 to enhance ripening.
-The timing and concentration depend on the crop and growth stage, with
+The timing and concentration depend on the crop and [[cho-plant-growth-stage-treatment-protocols]], with
 stronger concentrations used closer to harvest for crops requiring enhanced
 sugar development.
 
 ### Seedling Treatment
 
 For seedling treatment of onions, big leeks, or garlic, apply seawater at
-1:20 dilution with FPJ and brown rice vinegar (BRV). If salt water is used
+1:20 dilution with FPJ and brown [[brown-rice-vinegar-brv]] (BRV). If salt water is used
 instead of natural seawater, dilute to 0.2% salinity. This treatment
 strengthens seedlings against disease and improves establishment rates.
 
@@ -82,7 +82,7 @@ strengthens seedlings against disease and improves establishment rates.
 To prevent feather-loss in chickens during summer, provide seawater at 1:10
 to 1:15 dilution (or salt water at 0.1%), combined with BRV at 1:200 and
 water-soluble calcium at 1:500 every other day. The minerals in seawater
-support feather development and overall poultry health during heat stress.
+support feather development and overall poultry health during [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]].
 
 ### Skin Disease Prevention
 
@@ -98,7 +98,11 @@ minerals. The standard IMO formula includes brown rice vinegar (BRV) at
 1:500, mineral A at 1:1,000, and seawater at 1:30, adjusting the moisture
 content to 65 to 70%.
 
-## Related Concepts
+## Related
+
+- [[knf-fpj-preparation-and-precautions]]
+- [[knf-maltose-preparation]]
+- [[knf-chitosan-preparation]] Concepts
 
 - [[knf-fermented-plant-juice]]
 - [[knf-imo-four-stage-cultivation]]

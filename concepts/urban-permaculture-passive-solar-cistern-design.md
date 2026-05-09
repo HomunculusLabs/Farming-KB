@@ -1,5 +1,5 @@
 ---
-title: "Urban Permaculture Passive Solar and Cistern Design"
+title: "Urban urban permaculture passive solar cistern design Solar and Cistern Design"
 created: 2026-04-28
 tags: [urban-permaculture, passive-solar, rainwater-harvesting, cistern, dryland]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: concept
 # Urban Permaculture Passive Solar and Cistern Design
 
 The urban permaculture homestead demonstrates how passive solar design,
-rainwater harvesting, and creative use of scavenged materials can
+[[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]], and creative use of scavenged materials can
 transform a modest house into a self-sufficient dwelling. The principles
 described here come from a real retrofit in the drylands of the American
 Southwest.
@@ -86,7 +86,7 @@ The bathtub drain was too low to gravity-feed to the garden, so a
 half-inch vinyl tube was run through the window jam, with one end
 suction-cupped to the bottom of the tub and the other end lying under
 the winter-deciduous black mission fig which shades the bedroom in the
-summer. A hand pump gets the siphon going.
+summer. A [[mollison-designers-hand-pump-and-water-lifting-devices]] gets the siphon going.
 
 For the north side of the house, the hose hooks to an old half-inch
 irrigation line which deposits the water on a couple of Asian pears and
@@ -111,7 +111,7 @@ with creativity and a willingness to scavenge and adapt.
 
 On either side of the fence, an 8-10 foot wide noise, pollution, light,
 and privacy buffer was planted that doubled as wildlife habitat. The
-native plants used had medicinal, food, habitat, bee forage, and
+native plants used had medicinal, food, habitat, [[mollison-designers-bee-forage-tree-planting]], and
 nitrogen-fixing value. Saguaro, barrel, and cholla cacti were salvaged
 from areas slated for clearing.
 
@@ -126,9 +126,11 @@ garden.
 ## See Also
 
 - [[urban-permaculture-design]]
-- [[urban-permaculture-productive-yards]]
-- [[urban-permaculture-design]]
+- urban-permaculture-productive-yards
 
 ## See Also
 
-- [[permaculture-designers-manual-passive-solar-design]]
+- permaculture-designers-manual-passive-solar-design
+- [[passive-solar-design]]
+- [[solar-water-heating]]
+- [[permaculture-urban-design]]

@@ -4,9 +4,9 @@
 
 Edaphic (soil-related) factors are the dominant environmental variables
 determining the structure and composition of microbial communities
-associated with Cannabis cultivation.
+associated with [[query-how-does-no-till-cannabis-cultivation-work]].
 Research by Winston et al. (2014) demonstrated that soil properties
-had the strongest influence over microbial community composition,
+had the strongest influence over microbial [[core-endorhiza-bacterial-community-composition-cannabis]],
 outweighing both plant cultivar and sample type
 (endorhiza, rhizosphere, bulk soil) in shaping the root and soil microbiome.
 
@@ -40,8 +40,8 @@ Soil water content showed significant but weaker correlations
 (weighted r-statistic = 0.281, p = 0.001;
 unweighted r-statistic = 0.466, p = 0.001).
 Water availability affects oxygen diffusion,
-nutrient mobility, and microbial activity in the soil matrix.
-Waterlogged conditions favor anaerobic organisms,
+[[cervantes-nutrient-mobility-deficiency-diagnosis]], and microbial activity in the soil matrix.
+Waterlogged conditions favor [[ingham-anaerobic-organisms-role-soil]],
 while excessively dry conditions limit all microbial activity.
 The study soils ranged from 10.1% to 37.1% water content.
 
@@ -67,7 +67,7 @@ all within the slightly acidic range preferred by many soil bacteria.
    (strain affected abundance, not presence/absence)
 3. **Sample type**: 51 weighted + 11 unweighted significant OTUs
 
-This hierarchy supports the two-tier selection model,
+This hierarchy supports the two-tier [[two-tier-selection-model-plant-microbiome]],
 where edaphic factors primarily determine available organisms for root colonization.
 
 ### Soil Texture
@@ -92,7 +92,7 @@ The dominance of edaphic factors suggests soil management
 is the most effective lever for influencing the cannabis microbiome.
 Practices modifying nitrogen, salinity, carbon, and water
 will have cascading effects on the root microbiome,
-affecting plant health, nutrient availability, and disease resistance.
+affecting plant health, [[ph-and-nutrient-availability-garden-soils]], and disease resistance.
 
 ### Cultivar-Specific Interactions
 

@@ -1,7 +1,7 @@
 ---
 title: Fungal Responses to Climate Change
 created: 2026-04-26
-sources: Dighton (2003) "Fungi in Ecosystem Processes" Ch. 6
+sources: Dighton (2003) "Fungi in fungal-ecosystem-processes-overview" Ch. 6
 tags: [climate-change, elevated-CO2, warming, decomposition, mycorrhiza, carbon-sequestration]
 related: [dighton-fungal-decomposition-nutrient-cycling, dighton-mycorrhizal-networks-carbon-transfer]
 type: concept
@@ -12,7 +12,7 @@ updated: 2026-04-26
 
 ## Overview
 
-Climate change -- driven by elevated atmospheric CO₂ and rising temperatures -- has profound and complex effects on fungal communities and their ecosystem functions. Fungi are sensitive to environmental stress and may respond before observable above-ground symptoms appear, making them important below-ground indicators of environmental change (Vogt et al., 1993; O'Neill, 1994).
+Climate change -- driven by elevated atmospheric CO₂ and rising temperatures -- has profound and complex [[brassinosteroid-effects-on-fungal-morphology]] communities and their ecosystem functions. Fungi are sensitive to environmental stress and may respond before observable above-ground symptoms appear, making them important below-ground indicators of environmental change (Vogt et al., 1993; O'Neill, 1994).
 
 ## The Dighton-Jansen Model (1991)
 
@@ -22,7 +22,7 @@ Dighton and Jansen proposed a framework for predicting climate change effects on
 - Enhanced photosynthetic activity → larger carbohydrate pool for mycorrhizal development
 - Supports greater fungal diversity, fruiting, and extraradical hyphal exploitation
 - Increased C:N ratio of plant litter makes saprotrophic function of mycorrhizae more important
-- Mycorrhizal diversity maintained, favoring enzyme-producing species for organic nutrient acquisition
+- [[dighton-mycorrhizal-diversity-ecosystem-function]] maintained, favoring enzyme-producing species for organic nutrient acquisition
 
 ### Scenario B: Elevated Temperature Only
 - Increased saprotrophic microbial activity → faster litter decomposition and mineralization
@@ -30,7 +30,7 @@ Dighton and Jansen proposed a framework for predicting climate change effects on
 - Decline in mycorrhizal diversity and soil exploration by extraradical hyphae
 
 ### Scenario C: Combined CO₂ + Temperature
-- Increased litter N content enhances resource quality
+- Increased litter N content enhances [[fungal-decomposition-resource-quality-determinants]]
 - Mycorrhizal fungi must compete with saprotrophs for mineralized nutrients
 - Competition drives increased diversity and extraradical hyphal exploitation
 
@@ -52,7 +52,7 @@ The significant increase in C:N and lignin:N ratios of beech twigs (C:N from 45.
 
 Zak et al. (2000) summarized 47 publications on soil C and N cycling under elevated CO₂:
 1. Greater plant growth with more carbon entering below-ground systems
-2. Greater metabolic activity of soil microbial communities
+2. Greater [[arbuscule-isolation-metabolic-activity-assays]] of soil microbial communities
 3. Changes in C and N cycling varied 80-800% between life forms
 
 ### Mycorrhizal Responses to Elevated CO₂
@@ -71,7 +71,7 @@ Effects differ among mycorrhizal fungal species:
 
 ## Temperature Effects on Below-Ground Carbon
 
-Below-ground biomass carbon ranges from 16% (*Pinus menziesii*) to 64% (*Pinus elliottii*) of total tree carbon. Root turnover contributes disproportionately to nutrient cycling:
+Below-ground biomass carbon ranges from 16% (*Pinus menziesii*) to 64% (*Pinus elliottii*) of total tree carbon. Root turnover contributes disproportionately to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]:
 - *Molinia* root turnover: 67% of total litter production, 87% of N loss, 84% of P loss (Aerts et al., 1992)
 - Root respiration: 35% in tulip poplar to 62% in slash pine
 
@@ -98,5 +98,8 @@ Climate change is predicted to increase plant pathogen impacts:
 ## See Also
 
 - [[fungal-ecology]]
-- [[fungal-environmental-sensing]]
-- [[fungal-carbon-use-efficiency]]
+- fungal-environmental-sensing
+- fungal-carbon-use-efficiency
+- [[fungal-responses-climate-change]]
+- [[decomposition]]
+- [[scutellospora-calospora]]

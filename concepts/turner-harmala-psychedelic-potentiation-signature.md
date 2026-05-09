@@ -1,5 +1,5 @@
 ---
-title: Harmala Alkaloid Potentiation Signature Effects (Turner Guide)
+title: mckenna-telepathine-harmala-alkaloid-discovery Potentiation Signature Effects (Turner Guide)
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-When harmala alkaloids are combined with other psychedelics, they add a distinctive qualitative signature to the experience beyond mere intensification. D.M. Turner describes this signature as consistent across multiple psychedelic combinations, suggesting a unique character inherent to the harmala alkaloids themselves.
+When [[turner-harmala-alkaloids-preparation-and-dosage]] are combined with other psychedelics, they add a distinctive qualitative signature to the experience beyond mere intensification. D.M. Turner describes this signature as consistent across multiple psychedelic combinations, suggesting a unique character inherent to the harmala alkaloids themselves.
 
 ## The Harmala Signature
 
@@ -31,7 +31,7 @@ Turner identifies several consistent qualities that harmala adds to any psychede
 
 ### Expanded Temporal Perspective
 - The experience gets linked through individual identity to earth, humanity, and evolutionary history stored within us
-- A regular DMT experience might feel like a post-human identity in a distant galaxy aeons in the future; with harmala, the experience becomes connected to the full span of human and planetary evolution
+- A regular [[mckenna-dmt-experience-and-hyperspace]] might feel like a post-human identity in a distant galaxy aeons in the future; with harmala, the experience becomes connected to the full span of human and planetary evolution
 
 ## Potentiation with Specific Psychedelics
 
@@ -42,7 +42,7 @@ Turner identifies several consistent qualities that harmala adds to any psychede
 - Slows the onset of 5-MeO-DMT, extending the normally 2-3 minute peak to 10-20 minutes
 - The combined high is a much slower, more personally involved process rather than feeling "blown out of the mind"
 - With harmala, the DMT high does not "disappear" suddenly; there is more time to absorb the experience
-- See also: [[turner-psilocybin-mushroom-experience-guide]]
+- See also: turner-psilocybin-mushroom-experience-guide
 
 ### With Ketamine
 - Produces good results; harmala adds its spiritual dimension to the ketamine journey
@@ -65,7 +65,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +107,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

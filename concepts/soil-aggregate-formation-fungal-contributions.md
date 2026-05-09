@@ -1,5 +1,5 @@
 ---
-title: Soil Aggregate Formation and Fungal Contributions
+title: Soil soil aggregate formation fungal contributions and Fungal Contributions
 source: general knowledge
 topics:
   - soil science
@@ -19,7 +19,7 @@ microaggregates (<0.25 mm) to macroaggregates (>0.25 mm).
 Their formation and stability are fundamental to soil health,
 affecting water infiltration, erosion resistance, gas exchange,
 and habitat for soil organisms. Fungi, particularly arbuscular
-mycorrhizal fungi (AMF), play a central role in building and
+[[arbuscular-mycorrhizal-fungi-biology-symbiosis]] (AMF), play a central role in building and
 maintaining soil aggregates through physical entanglement and
 biochemical binding agents, most notably glomalin-related soil
 protein (GRSP).
@@ -59,7 +59,7 @@ resistant to microbial decomposition, persisting in soil for
 While AMF receive the most attention, saprophytic fungi also
 contribute significantly to aggregate formation. Decomposer
 fungi produce extracellular polymeric substances (EPS) during
-organic matter breakdown, including polysaccharides and
+[[hamilton-composting-and-organic-matter-management]] breakdown, including polysaccharides and
 glycoproteins that bind soil particles. Their hyphal networks
 stabilize organic matter in macroaggregates, and their
 enzymatic activity creates binding sites through partial
@@ -78,8 +78,8 @@ dominated communities.
 Conventional agricultural practices that reduce fungal
 populations—tillage, fungicide application, monoculture,
 and fallow periods—directly impair soil aggregate stability.
-No-till farming, cover cropping, reduced fungicide use, and
-diverse rotations maintain and restore fungal communities,
+No-till farming, [[fukuoka-clover-cover-cropping-soil-ecology]], reduced fungicide use, and
+diverse rotations maintain and restore [[biodiversity-of-fungi-soil-fungal-communities-agriculture]],
 leading to improved soil structure.
 
 Research consistently shows that soils with higher AMF
@@ -100,7 +100,7 @@ after sieving is a standard index. GRSP is extracted using
 citrate buffer at varying temperatures and quantified through
 Bradford protein assays or immunological methods.
 
-Visual assessment of mycelial networks in soil thin sections
+Visual assessment of [[fungal-mycelial-networks-nutrient-translocation]] in soil thin sections
 under microscopy provides direct evidence of hyphal
 contributions to aggregation. Modern techniques like X-ray
 computed tomography (micro-CT) allow three-dimensional

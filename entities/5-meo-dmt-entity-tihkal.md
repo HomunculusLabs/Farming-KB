@@ -59,7 +59,7 @@ TIHKAL entry #38. An extremely potent, fast-acting tryptamine psychedelic. Found
 
 ## Natural Occurrence
 
-5-MeO-DMT was first observed in a member of the Rue family (Rutaceae) called Dictyoloma incanescens. It is now recognized as a major component of several South American snuffs including yakee, yato (Colombia), parica, epena, and nyakwana (Brazil), prepared from Virola species trees of the Amazon basin.
+5-MeO-DMT was first observed in a member of the Rue family (Rutaceae) called Dictyoloma incanescens. It is now recognized as a major component of several [[chiric-caspi-brunfelsia-south-american-hallucinogen]] snuffs including yakee, yato (Colombia), parica, epena, and nyakwana (Brazil), prepared from Virola species trees of the Amazon basin.
 
 There is considerable variation in alkaloid content between Virola species. Two collections of V. theiodora gathered in Brazil had radically different compositions: in one, 5-MeO-DMT was substantially the only alkaloid in the bark, while in the other, DMT was the major alkaloid. Both had DMT almost exclusively in young green shoots. V. calophylla bark, root, leaves, and shoots run about 90% DMT. Yet V. rufuta bark and root consist of about 95% 5-MeO-DMT. This variation illustrates the longstanding disagreement between morphotaxonomists (who classify by appearance) and chemotaxonomists (who classify by chemical composition).
 
@@ -73,7 +73,7 @@ Shulgin recounts a visit to Sydney where he learned about Australia's cane toad 
 
 ## Pharmacology
 
-5-MeO-DMT is several times more potent than DMT by weight. Unlike DMT, it produces a more "stoning" experience -- often described as ego dissolution without the rich visual imagery of DMT. The experience is frequently characterized by a sense of unity, unconditional love, or cosmic consciousness, but can also be terrifyingly overwhelming. Shulgin notes it is "like adding the MDMA experience to DMT" -- "DMT is terrifying... the 5-MeO-DMT was much more relaxed, a kind of cosmic consciousness type of experience."
+5-MeO-DMT is several times more potent than DMT by weight. Unlike DMT, it produces a more "stoning" experience -- often described as [[psilocybin-ego-dissolution-mechanisms]] without the rich visual imagery of DMT. The experience is frequently characterized by a sense of unity, unconditional love, or cosmic consciousness, but can also be terrifyingly overwhelming. Shulgin notes it is "like adding the MDMA experience to DMT" -- "DMT is terrifying... the 5-MeO-DMT was much more relaxed, a kind of cosmic consciousness type of experience."
 
 The drug is not orally active at any dose tested (up to 35 mg). Smoked onset is within seconds, with peak effects reached in under a minute. Some trial i.v. experiments showed no effects at 100 micrograms, but real effects at 250 micrograms. The injection process is faster than smoking and avoids the odd smoke flavor.
 
@@ -89,7 +89,7 @@ Removing one N-methyl group provides 5-MeO-NMT, which has its own entry. Removal
 
 ## Synthesis Notes
 
-Synthesized from 5-methoxyindole via oxalyl chloride to form 5-methoxyindol-3-ylglyoxyl chloride, followed by reaction with dimethylamine and reduction with LAH. Free base mp 69-70 C; HCl salt mp 145-146 C. Overall yield approximately 78% from the glyoxylamide intermediate.
+Synthesized from 5-methoxyindole via [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] to form 5-methoxyindol-3-ylglyoxyl chloride, followed by reaction with dimethylamine and reduction with LAH. Free base mp 69-70 C; HCl salt mp 145-146 C. Overall yield approximately 78% from the glyoxylamide intermediate.
 
 ## Physical Properties
 

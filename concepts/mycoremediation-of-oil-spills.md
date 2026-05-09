@@ -4,7 +4,9 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycoremediation, pollution, fungi, ecology, remediation, decomposition, environment, mycology]
-sources: []
+sources:
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 ## Overview
@@ -25,9 +27,9 @@ Advantages of fungal remediation over bacterial approaches:
 
 ### Laccase (EC 1.10.3.2)
 - Copper-containing oxidase that degrades phenolic compounds
-- Works under mild conditions (pH 4-7, ambient temperature)
-- Does not require hydrogen peroxide
-- Effective against polycyclic aromatic hydrocarbons (PAHs)
+- Works under mild conditions (pH 4-7, [[jadam-ambient-temperature-principle]])
+- Does not require [[cervantes-hydrogen-peroxide-sterilization]]
+- Effective against [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs)
 
 ### Manganese Peroxidase (MnP, EC 1.11.1.13)
 - Oxidizes Mn(II) to Mn(III), creating a diffusible oxidant
@@ -56,13 +58,13 @@ The most widely studied species for petroleum remediation:
 
 ### Phanerochaete chrysosporium
 - Model organism for lignin degradation research
-- Produces all three major ligninolytic enzymes
+- Produces all three major [[singh-ligninolytic-enzymes-fungal-bioremediation]]
 - Effective against both aliphatic and aromatic hydrocarbons
 - Used extensively in laboratory studies; less common in field applications
 
 ### Other Effective Species
 - **Bjerkandera adusta**: High manganese peroxidase activity
-- **Ganoderma lucidum** (reishi): Degrades PAHs; produces antimicrobial compounds that may suppress competing bacteria
+- **[[stamets-reishi-ganoderma-lucidum-cultivation]]** (reishi): Degrades PAHs; produces antimicrobial compounds that may suppress competing bacteria
 - **Lentinula edodes** (shiitake): Effective against lighter petroleum fractions
 
 ## Field Applications
@@ -71,7 +73,7 @@ The most widely studied species for petroleum remediation:
 Pioneering field demonstrations by mycologist Paul Stamets:
 - 2007: Oyster mushroom mycelium placed on diesel-contaminated soil in Washington state
 - Mycelial mats absorbed oil and produced fruiting bodies within weeks
-- Bacterial communities shifted to hydrocarbon-degrading species in the mycosphere
+- [[cultivar-endorhiza-bacterial-communities-cannabis]] shifted to hydrocarbon-degrading species in the mycosphere
 - Insects attracted to fruiting bodies accelerated breakdown through soil aeration
 
 ### Bellingham Bay Pilot Study

@@ -16,7 +16,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 
 ## Overview
 Coniothyrium minitans is a pycnidial coelomycete and the most
-successful biological control agent against Sclerotinia
+successful [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent against Sclerotinia
 sclerotiorum and related sclerotium-forming fungi. It is the most
 common and best-studied mycoparasite of Sclerotinia species
 worldwide (Turner and Tribe 1976; Whipps and Gerlagh 1992;
@@ -31,7 +31,7 @@ vegetation cover, soil pH, or soil texture (Ribeiro and Butler
 grow inside host hyphae, following the pathogen into plant
 tissue, extending its biocontrol reach beyond purely soil-active
 agents. This endophytic capability is a key advantage over
-biocontrol fungi that operate only in the soil.
+[[ingham-trichoderma-biocontrol-fungi-aact]] that operate only in the soil.
 
 Among several potential antagonists, C. minitans and Trichoderma
 virens were identified as the most active agents, both singly and
@@ -68,7 +68,7 @@ can also grow inside host hyphae (Huang and Hoes 1976; Huang
 following the pathogen into plant tissue. It produces glucose
 oxidase as its main antifungal agent (Kim et al. 1990).
 
-Glucose oxidase releases hydrogen peroxide from glucose, a
+Glucose oxidase releases [[cervantes-hydrogen-peroxide-sterilization]] from glucose, a
 reactive oxygen species highly toxic to fungal cells.
 Additionally, C. minitans produces beta-1,3 glucanase and
 chitinase, enzymes that degrade the structural polysaccharides of

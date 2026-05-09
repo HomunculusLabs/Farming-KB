@@ -1,10 +1,12 @@
 ---
-title: "How to Create a Biodiverse Pollinator Garden"
+title: "How to Create a query how to create a biodiverse pollinator garden Garden"
 created: 2026-04-28
 tags: [query, pollinators, bees, biodiversity, garden-design]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: query
 ---
 
@@ -21,11 +23,11 @@ plant diversity, continuous bloom, chemical-free management, and the provision o
 The most critical step is selecting the right plants. Native plants are almost always the best choice because they
 co-evolved with local pollinators and provide the nectar, pollen, and foliage those species depend on. A
 comprehensive [[permaculture-plants-insectary-bee-forage]] category ensures you select multi-functional
-species that may also serve as dynamic accumulators, pest deterrents, or edible plants for humans.
+species that may also serve as [[comparison-dynamic-accumulators-vs-cover-crops]], pest deterrents, or edible plants for humans.
 
 Continuous bloom is essential for a garden that truly supports biodiversity. Pollinators need reliable food sources
 from early spring through late fall, and gaps in bloom periods can leave them vulnerable. Design your garden so
-that at least three different plant species are in flower during each part of the growing season. Early-season
+that at least three different plant species are in flower during each part of the [[savory-growing-season-and-non-growing-season-management]]. Early-season
 bloomers like crocus, willow, and redbud provide critical resources for emerging queens and overwintering bees.
 Midsummer staples include coneflowers, milkweed, and lavender, while late-season heroes like goldenrod, asters,
 and sedum sustain pollinators preparing for winter. This staggered approach to bloom is a core strategy in
@@ -40,9 +42,9 @@ for certain butterfly species that require minerals from moist soil, a behavior 
 Chemical management is perhaps the most important consideration for any pollinator-focused landscape. Pesticides,
 herbicides, and fungicides should be avoided entirely or used only as an absolute last resort with extreme caution.
 Even organic pesticides such as neem oil and spinosad can harm pollinators if applied during bloom periods. Instead,
-embrace integrated pest management strategies that leverage the natural predatory insects your garden habitat
+embrace [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management strategies that leverage the natural predatory insects your garden habitat
 attracts. The [[permaculture-bee-forage-system]] creates powerful synergies between food production, habitat creation, and
-ecological health. Permaculture design frameworks, such as those described in [[pollinator-conservation]] efforts by participating in citizen
+ecological health. [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] frameworks, such as those described in [[pollinator-conservation]] efforts by participating in citizen
 science programs, sharing observations on platforms like iNaturalist, and encouraging neighbors to create their own
 pollinator habitats. Pollinator corridors made up of interconnected gardens, roadside plantings, and wild areas
 dramatically increase the resilience of pollinator populations across fragmented landscapes. Even a small garden
@@ -72,7 +74,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,3 +117,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[query-how-do-photonic-crystals-create-structural-color]]

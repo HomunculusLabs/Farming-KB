@@ -32,18 +32,18 @@ spores.
 
 Rhizopogon vinicolor is an ectomycorrhizal fungus that forms
 symbiotic associations with the roots of forest trees, facilitating
-nutrient exchange between the fungal partner and its host plant. The
+[[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between the fungal partner and its host plant. The
 species has garnered research attention for two notable ecological
 capabilities: its ability to solubilize mineral substrates and its
 capacity to metabolize and incorporate anthropogenic pollutants into
 its biomass. These dual properties make R. vinicolor a fungus of
-considerable interest for understanding both natural nutrient cycling
-processes and the potential for biological remediation of contaminated
+considerable interest for understanding both natural [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
+processes and the potential for [[combined-biological-remediation-approaches]] of contaminated
 soils.
 
-The species is found in forest soils across North America, where it
+The species is found in forest soils across [[psilocybin-north-america-pacific-northwest]], where it
 contributes to belowground nutrient dynamics and carbon cycling
-through its extensive mycelial networks and ectomycorrhizal
+through its extensive [[fungal-mycelial-networks-nutrient-translocation]] and ectomycorrhizal
 associations. Its role in forest ecosystems extends beyond nutrient
 exchange to include weathering of soil minerals and participation
 in decomposition pathways for organic pollutants.
@@ -58,7 +58,7 @@ R. vinicolor, Hysterangium setchellii, and [[cenococcum-geophilum]], [[laccaria-
 medium in any of the mineral solubilization assays. This differential
 capacity among ectomycorrhizal fungi has important implications for
 understanding how different fungal species contribute to mineral
-weathering and nutrient availability in forest soils.
+weathering and [[ph-and-nutrient-availability-garden-soils]] in forest soils.
 
 The ability to solubilize calcium-bearing minerals suggests that R.
 vinicolor plays a role in calcium cycling and soil pH modification

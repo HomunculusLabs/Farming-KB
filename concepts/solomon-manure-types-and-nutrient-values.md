@@ -30,7 +30,7 @@ bedding material:
 | Sheep     | 0.8 - 0.9    | 0.20 - 0.30    | 0.40 - 0.60   |
 | Poultry   | 1.1 - 1.6    | 0.80 - 1.00    | 0.40 - 0.50   |
 
-Horse manure ranges from 0.5% nitrogen upward; poultry can reach 2% but
+[[falconer-horse-manure-varieties]] ranges from 0.5% nitrogen upward; poultry can reach 2% but
 may be as poor as 0.5%. The same wide spread occurs for phosphorus and
 potassium across all species. These ranges are so large that quoting a
 single "average" figure is nearly meaningless.
@@ -39,7 +39,7 @@ single "average" figure is nearly meaningless.
 
 Several factors explain the enormous variation:
 
-1. **Diet quality**: Nutritional balance in feed directly affects manure
+1. **Diet quality**: [[jadam-nutritional-balance-fertilizer]] in feed directly affects manure
    nutrients. Animals on high-quality, mineral-balanced feeds produce
    richer manure than those on poor forage. A horse on good pasture and
    grain produces very different manure than one on scrubby weedy hay.
@@ -51,8 +51,8 @@ Several factors explain the enormous variation:
    especially from poultry manure which is high in uric acid. Rain
    leaching from exposed piles also reduces nutrient content
    substantially.
-4. **Age and decomposition**: Fresh vs. composted manure has different
-   nutrient availability profiles. Some nitrogen is lost to atmosphere
+4. **Age and decomposition**: Fresh vs. [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]] has different
+   [[ph-and-nutrient-availability-garden-soils]] profiles. Some nitrogen is lost to atmosphere
    as manure breaks down, while other nutrients become more slowly
    available through microbial activity.
 
@@ -67,7 +67,7 @@ deficient despite looking good on the outside.
 
 Fundamental problems with manure-only fertility:
 
-- **Calcium deficiency**: Manures provide relatively little calcium
+- **[[knf-calcium-deficiency-symptoms]]**: Manures provide relatively little calcium
   compared to what vegetables need for strong cell walls and disease
   resistance.
 - **Low phosphorus**: Most manures (except poultry) are notably low in
@@ -96,9 +96,7 @@ variable and unpredictable quality.
 
 ## See Also
 
-- [[solomon-manure-nutrient-variability-COF]]
-
-- [[solomon-manure-nutrient-variability-COF]]
+- [[solomon-manure-nutrient-variability-cof]]
 
 - [[solomon-complete-organic-fertilizer-guide]]
 - [[composting-science-solomon]]

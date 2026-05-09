@@ -1,5 +1,5 @@
 ---
-title: Hallucinogenic Mushroom Mental Health Risks
+title: emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative Mental Health Risks
 source: carolina-mushrooms_08qxp.md
 author: Hillebrand, Olszewski, Sedefov (EMCDDA)
 tags: [mental-health, risks, psychosis, flashback, hppd, bad-trip, emcdda]
@@ -17,7 +17,7 @@ significant and warrant careful consideration.
 ### Bad Trips
 The most common adverse psychological outcome is the "bad trip,"
 characterized by intense anxiety, fear, confusion, and distress.
-UK clubbing survey data documented:
+UK [[emcdda-clubbing-survey-prevalence-data-polydrug-use-patterns-mushrooms]] data documented:
 
 - Nearly 25% of recent mushroom users reported experiencing a
   panic attack during use
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -2,7 +2,7 @@
 
 ## Overview
 
-One of the most remarkable aspects of winter vegetable production is the
+One of the most remarkable aspects of winter [[dry-gardening-unirrigated-vegetable-production-solomon]] is the
 improvement in eating quality that cold temperatures produce. Eliot Coleman
 consistently observed that cold-hardy vegetables grown in the protected
 microclimate of unheated winter greenhouses reach a higher level of culinary
@@ -10,7 +10,7 @@ quality than the same varieties grown during warm seasons. The greens are
 sweeter, more tender, and more flavorful in winter. This is not a marginal
 difference — experienced chefs and customers consistently report that
 winter-harvested greens are qualitatively superior to their summer
-counterparts, and many consider them the finest salad vegetables available
+counterparts, and many consider them the finest [[hamilton-salad-vegetables-organic]] available
 at any time of year.
 
 ## The Sugar Mechanism: Cold Stress and Carbohydrate Accumulation
@@ -61,7 +61,7 @@ growth, the plant produces large volumes of tissue with relatively constant
 absolute amounts of flavor compounds, resulting in diluted flavor per unit
 of leaf weight. During slow winter growth, the same compounds are
 distributed through less tissue, producing more intense flavor per bite.
-Additionally, cold stress triggers the production of secondary metabolites
+Additionally, cold stress triggers the production of [[antifungal-secondary-metabolites-coprophilous-fungi]]
 — compounds that the plant synthesizes as protective responses to
 environmental stress. Many of these secondary metabolites contribute
 positively to flavor and nutritional quality.
@@ -117,7 +117,7 @@ include growing through cold weather, and their metabolic responses to
 cold stress are particularly well-developed.
 
 Coleman identified approximately thirty vegetable species suitable for
-winter harvest production. Among the most promising were arugula, beet
+[[coleman-claytonia-winter-harvest-cultivation]] production. Among the most promising were arugula, beet
 greens, broccoli raab, carrots, chard, chicory, claytonia, collards,
 dandelion, endive, escarole, garlic greens, kale, kohlrabi, leeks,
 lettuce, mache, minutina, mizuna, mustard greens, pak choi, parsley,
@@ -133,8 +133,8 @@ marketing advantage. Chefs value unique, high-quality ingredients and are
 willing to pay premium prices for greens that are demonstrably superior to
 what is available from conventional sources during winter. Customers who
 experience the exceptional flavor of freshly harvested winter greens become
-loyal repeat buyers. The "second spring" planting season from August
-through October, when winter crops are established, extends the farm's
+loyal repeat buyers. The "[[coleman-second-spring-august-planting-window]]" planting season from August
+through October, when [[coleman-semi-hibernating-winter-crops-harvest-extension]] are established, extends the farm's
 productive period and provides a product that cannot be matched by
 imported or greenhouse-grown alternatives.
 

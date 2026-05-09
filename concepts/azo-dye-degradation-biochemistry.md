@@ -28,7 +28,7 @@ Laccases are multicopper oxidases that use molecular oxygen as the electron acce
 
 - Some azo dyes were degraded under nitrogen-sufficient (non-ligninolytic) conditions, indicating non-LDS enzyme involvement
 
-- P. ostreatus produced an RBBR-degrading enzyme during solid-state fermentation on wheat straw that was independent of Mn(II) and not influenced by veratryl alcohol
+- P. ostreatus produced an RBBR-degrading enzyme during solid-state fermentation on wheat straw that was independent of Mn(II) and not influenced by [[staycare-veratryl-alcohol-as-lignin-peroxidase-mediator]]
 
 - This enzyme was inhibited by Na2S2O3, NaCN, NaN3, and oxygen depletion, suggesting it may be an oxygenase with a metal center distinct from LiP and MnP
 
@@ -40,9 +40,9 @@ See [[mycoremediation-techniques]].
 
 ## Factors Affecting Degradation Efficiency
 
-Multiple environmental and operational parameters influence the rate and extent of azo dye degradation by fungi:
+Multiple environmental and operational parameters influence the rate and extent of azo dye [[query-how-does-lignin-degradation-by-fungi-work]]:
 
-- **Carbon source availability** -- glucose, sucrose, or other co-substrates are typically required to sustain fungal metabolism and enzyme production
+- **Carbon source availability** -- glucose, sucrose, or other co-substrates are typically required to sustain fungal metabolism and [[ligninolytic-enzyme-production-bioremediation]]
 
 - **Nitrogen concentration** -- nitrogen limitation promotes ligninolytic conditions in some species (P. chrysosporium) but not others (T. versicolor)
 
@@ -50,7 +50,7 @@ Multiple environmental and operational parameters influence the rate and extent 
 
 - **pH and temperature** -- optimal conditions vary by species but typically range from pH 3-6 and 25-30 degrees Celsius
 
-- **Dissolved oxygen** -- laccases require oxygen as the electron acceptor, making aeration critical for LMS-based systems
+- **[[aact-dissolved-oxygen-fine-bubble-aeration-ingham]]** -- laccases require oxygen as the electron acceptor, making aeration critical for LMS-based systems
 
 These factors are discussed more broadly in the context of [[white-rot-fungi-bioremediation]] are good candidates for immobilization and use in bioremediation applications. Key needs include:
 
@@ -58,11 +58,11 @@ These factors are discussed more broadly in the context of [[white-rot-fungi-bio
 
 - Identifying optimal organisms and culture conditions
 
-- Developing efficient immobilized enzyme systems for industrial wastewater treatment
+- Developing efficient immobilized enzyme systems for [[fungal-industrial-wastewater-treatment]] treatment
 
 - Exploring mediator systems to expand the range of dyes treatable by laccases
 
-Advances in genetic engineering and directed evolution may yield designer enzymes with enhanced stability, broader substrate specificity, and higher turnover rates. Metagenomic approaches are also being explored to discover novel dye-degrading enzymes from uncultured fungal diversity in polluted environments.
+Advances in [[fukuoka-textdoc-genetic-engineering-critique-warning]] and directed evolution may yield designer enzymes with enhanced stability, broader substrate specificity, and higher turnover rates. Metagenomic approaches are also being explored to discover novel dye-degrading enzymes from uncultured fungal diversity in polluted environments.
 
 ## See Also
 
@@ -72,7 +72,7 @@ Advances in genetic engineering and directed evolution may yield designer enzyme
 
 - [[fungal-treatment-of-industrial-wastewaters]]
 
-- [[mycoremediation-bioreactor-design]]
+- mycoremediation-bioreactor-design
 
 - [[fungal-immobilization-bioreactor-systems]]
 ## Practical Considerations
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

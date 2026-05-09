@@ -1,5 +1,5 @@
 ---
-title: Drought Gardening
+title: comparison-drought-gardening-vs-rainwater-harvesting
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Drought Gardening
 
-Growing vegetables with little or no irrigation, using wider spacing and techniques that allow plants to access deeper soil moisture. Steve Solomon mastered this approach through research and experimentation, detailed in his earlier book *Waterwise Vegetables*.
+[[container-growing-vegetables-herbs]] with little or no irrigation, using wider spacing and techniques that allow plants to access deeper soil moisture. Steve Solomon mastered this approach through research and experimentation, detailed in his earlier book *Waterwise Vegetables*.
 
 ## The Core Principle
 
@@ -43,18 +43,18 @@ When irrigation is necessary, Solomon recommends:
 
 ## Drought Tolerance by Spacing
 
-Solomon's research showed that his trial plots (with well-separated plants) did not need nearly as much water as his intensive vegetable garden. The spacing system directly impacts water needs:
+Solomon's research showed that his trial plots (with well-separated plants) did not need nearly as much water as his intensive [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]. The spacing system directly impacts water needs:
 
 - Closer spacing requires more frequent irrigation
 - Wider spacing allows plants to access soil moisture from a larger area
-- Traditional Native American corn gardening used four-foot centers — one seed per hill with the adage "one for the worm, one for the crow, one to rot, and one to grow"
+- Traditional [[halpern-sacramental-peyote-and-native-american-church]] corn gardening used four-foot centers — one seed per hill with the adage "one for the worm, one for the crow, one to rot, and one to grow"
 
 ## Foliar Feeding as Water Conservation
 
 If you are so short of water that finding a few hundred gallons a week for fertigation is not possible, foliar feeding may be the next best choice. Key points:
 
 - Foliar feeding means spraying diluted nutrient solutions directly onto plant leaves
-- Fish emulsion and kelp tea are among the best organics for this purpose
+- [[solomon-foliar-feeding-fish-emulsion-and-kelp]] and kelp tea are among the best organics for this purpose
 - Kelp tea contains phytamins and a full range of trace mineral nutrients
 - Even a few gallons per week mixed in a sprayer can make a significant difference
 - Half-strength Coca Cola has been discovered to be an effective foliar spray (contains phosphoric acid and sugars that help plants)
@@ -77,7 +77,7 @@ Solomon notes that most gardeners grossly overwater:
 
 ## Related
 
-- [[drip-irrigation-guide]] — Hand watering techniques
+- [[drip-irrigation-guide]] — Hand [[cannabis-watering-techniques-and-frequency]]
 - [[irrigation-systems]] — Sprinkler and irrigation systems
 - [[intensive-planting-spacing]] — How spacing affects water needs
 - [[growing-food-in-hard-times]] — The philosophy behind low-input gardening

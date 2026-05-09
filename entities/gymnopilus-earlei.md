@@ -12,8 +12,8 @@ tags:
   - gymnopilus
 sources:
   - "Guzmán, G. (1983). The Genus Psilocybe. Beihefte zur Nova Hedwigia 74."
-  - "Stamets, P. (1996). Psilocybin Mushrooms of the World. Ten Speed Press."
-  - "Hesler, L.R. (1969). North American Species of Gymnopilus. Mycologia Memoir No. 3."
+  - "Stamets, P. (1996). [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World. Ten Speed Press."
+  - "Hesler, L.R. (1969). [[growing-gourmet-north-american-reishi-species]] Species of Gymnopilus. Mycologia Memoir No. 3."
   - "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=344952"
 ---
 
@@ -37,7 +37,7 @@ The species is one of the larger members of its genus, frequently producing stri
 - **Genus:** *Gymnopilus* P. Karst.
 - **Species:** *G. earlei* Murrill
 
-The species was first described by William Alphonso Murrill in 1913 from collections made in Jamaica. The specific epithet honors Franklin Sumner Earle, an American mycologist who conducted extensive fungal surveys in the Caribbean and southern United States.
+The species was first described by William Alphonso Murrill in 1913 from collections made in Jamaica. The specific epithet honors Franklin Sumner Earle, an American mycologist who conducted extensive fungal surveys in the Caribbean and southern [[dmt-containing-plants-united-states-halpern]].
 
 The genus *Gymnopilus* derives from Greek *gymnos* (naked) and *pilus* (cap), referring to the typically smooth, non-viscid cap surface characteristic of the genus.
 
@@ -69,7 +69,7 @@ Spore dimensions: (7)8–10(11) × (4.5)5–6.5(7) µm. Q range: 1.4–1.8. Basi
 
 ## Distribution and Habitat
 
-*G. earlei* occurs in tropical and subtropical regions of the Americas, from the Caribbean (Jamaica, Cuba, Puerto Rico) through Central America and into northern South America. It has also been reported from the Gulf Coast region of the southeastern United States (Florida, Louisiana, Texas).
+*G. earlei* occurs in tropical and subtropical regions of the Americas, from the Caribbean (Jamaica, Cuba, Puerto Rico) through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and into northern South America. It has also been reported from the Gulf Coast region of the southeastern United States (Florida, Louisiana, Texas).
 
 The species is a saprotrophic wood decomposer, fruiting on decaying hardwood logs, stumps, and fallen trunks. Preferred substrates include tropical hardwoods such as mahogany, ceiba, and various leguminous trees.
 
@@ -80,12 +80,12 @@ Fruiting occurs during warm, wet periods, typically from late spring through aut
 ### Bioactive Compounds
 
 - **Psilocybin:** Present in measurable concentrations, though variable between collections
-- **Psilocin:** Present in fresh tissue; responsible for the bluing reaction
+- **Psilocin:** Present in fresh tissue; responsible for the [[field-guide-psilocybin-bluing-reaction-identification]]
 - **Baeocystin:** Minor constituent
 - **Gymnopiline:** Characteristic bis-naphthoquinone pigment of the genus (non-psychoactive)
 
 The total psilocybin content of *G. earlei* is reported as low to moderate compared to [[gymnopilus-spectabilis-entity]] — Big laughing gym, the best-known psilocybian Gymnopilus species
-- [[gymnopilus-purpuratus]] — A South American species with purple tones
+- [[gymnopilus-purpuratus]] — A [[chiric-caspi-brunfelsia-south-american-hallucinogen]] species with purple tones
 - [[psilocybe-cubensis]] — The most widely cultivated psilocybian mushroom
 - [[pluteus-cyanopus]] — Blue-footed Pluteus, another non-hymenogastraceous psilocybian
 - [[panaeolus-cyanescens-entity]] — Blue meanies, a potent tropical psilocybian species

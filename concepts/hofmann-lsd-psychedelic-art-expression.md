@@ -1,5 +1,5 @@
 ---
-title: LSD Psychedelic Art and Artistic Expression
+title: hofmann lsd psychedelic art expression Art and Artistic Expression
 created: 2026-04-28
 tags:
   - psychedelic-art
@@ -76,7 +76,7 @@ Schauberg, Cologne, in 1974.
 This systematic study provided perhaps the most comprehensive scientific
 documentation of how LSD affected established artists. The paintings
 produced during the experiments revealed patterns of imagery, color
-use, and compositional structure that reflected the altered states of
+use, and compositional structure that reflected the [[weil-the-natural-mind-altered-states-normalcy]] of
 consciousness induced by the drug. The study validated the observation
 that psychedelic experiences opened new dimensions of artistic
 expression rooted in unconscious mental processes.
@@ -128,7 +128,7 @@ transformation in visual sensibility.
 
 LSD experiments gave new impetus to exploration into the essence of
 religious and mystical experience. Religious scholars and philosophers
-discussed whether the religious and mystical experiences often
+discussed whether the religious and [[psilocybin-mystical-experiences-personality-change]] often
 discovered in LSD sessions were genuine, comparable to spontaneous
 mysticoreligious enlightenment. This earnest phase of LSD research,
 conducted partly in parallel with medicinal research, was increasingly

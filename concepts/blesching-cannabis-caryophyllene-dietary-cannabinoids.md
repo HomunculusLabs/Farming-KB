@@ -18,7 +18,7 @@ type: concept
 
 The discovery that common spices contain cannabinoid-like compounds represents
 one of the most accessible bridges between cannabis science and everyday
-nutrition. [[cannabis-health-index]] extensively documents
+nutrition.  extensively documents
 (E)-beta-caryophyllene ((E)-BCP) as a dietary cannabinoid that activates CB2
 receptors without psychoactive effects.
 
@@ -35,7 +35,7 @@ molecule a terpene or terpenoid, this distinction has little practical value
 to the many patients who may benefit from its use. Scientists suggest that
 activation of CB2 receptors via this dietary plant-based cannabinoid might
 present a new and additional therapeutic strategy in treating diseases
-associated with inflammation and oxidative stress.
+associated with inflammation and [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]].
 
 ## FDA Approval and Accessibility
 
@@ -49,7 +49,7 @@ making this one of the most accessible forms of cannabinoid therapy available.
 Research has shown that (E)-beta-caryophyllene provides:
 
 - Potent anti-inflammatory actions through CB2 receptor activation
-- Protection against inflammation and oxidative stress (both underlying
+- Protection against inflammation [[reactive-oxygen-species-and-oxidative-stress]] (both underlying
   factors in numerous pathologies)
 - Antimicrobial and pain-relieving properties
 - Potential anti-cancer activity
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dy
 
 # Hydnum repandum
 
-*Hydnum repandum*, commonly known as the sweet tooth, hedgehog mushroom, or wood hedgehog, is an edible basidiomycete mushroom in the family *Hydnaceae*. It is one of the most distinctive and widely appreciated wild edible mushrooms in Europe and North America, easily recognized by its pale cap and the downward-pointing spines (teeth) on the hymenophore, which replace the gills found in most agaricoid mushrooms. The species forms ectomycorrhizal associations with both coniferous and broadleaf trees.
+*Hydnum repandum*, commonly known as the sweet tooth, hedgehog mushroom, or wood hedgehog, is an edible basidiomycete mushroom in the family *Hydnaceae*. It is one of the most distinctive and widely appreciated wild edible mushrooms in Europe and North America, easily recognized by its pale cap and the downward-pointing spines (teeth) on the hymenophore, which replace the gills found in most agaricoid mushrooms. The species forms [[ectomycorrhizal-associations]] with both coniferous and broadleaf trees.
 
 ## Morphology and Identification
 
@@ -18,7 +18,7 @@ The fruiting body of *Hydnum repandum* consists of a cap and stipe typical of ag
 
 The spines (also called teeth) are 2–6 mm long, decurrent (extending down the stem), creamy white when young and developing a slight ochre tint with age. They are brittle and easily dislodged when handled. The stipe is 3–8 cm tall and 1–3 cm thick, solid, cream-colored, and tapers slightly toward the base. The flesh is firm, white to cream, and has a mild, pleasantly nutty or peppery flavor and a fruity odor sometimes described as reminiscent of apricots.
 
-Spores are broadly ellipsoid, smooth, hyaline, measuring 7–9 × 6–7.5 μm, and are produced in abundance as a white spore print. Microscopically, the basidia are four-spored and clavate, with sterigmata bearing the spores.
+Spores are broadly ellipsoid, smooth, hyaline, measuring 7–9 × 6–7.5 μm, and are produced in abundance as a white [[spore-print]]. Microscopically, the basidia are four-spored and clavate, with sterigmata bearing the spores.
 
 ## Distribution and Habitat
 
@@ -30,9 +30,9 @@ The mushroom typically fruits from late summer through autumn (August to Novembe
 
 *Hydnum repandum* is an ectomycorrhizal fungus that forms mutualistic associations with the roots of numerous tree species. The fungal mycelium envelops root tips in a characteristic mantle and penetrates between root cortical cells to form a Hartig net, the site of nutrient exchange between the symbiotic partners. The extraradical mycelium extends far into the surrounding soil, exploring a volume of substrate that greatly exceeds the tree's own root system.
 
-As an ectomycorrhizal partner, *H. repandum* provides its host trees with mineral nutrients—particularly nitrogen, phosphorus, and micronutrients—mobilized from soil organic matter through the action of extracellular enzymes. In return, the fungus receives carbohydrates (primarily glucose and sucrose) from the host's photosynthesis. The organism produces a range of hydrolytic and oxidative enzymes including proteases, phosphatases, and phenol oxidases that break down complex organic molecules in the soil.
+As an ectomycorrhizal partner, *H. repandum* provides its host trees with mineral nutrients—particularly nitrogen, phosphorus, and micronutrients—mobilized from soil organic matter through the action of [[fungal-extracellular-enzymes]]. In return, the fungus receives carbohydrates (primarily glucose and sucrose) from the host's photosynthesis. The organism produces a range of hydrolytic and oxidative enzymes including proteases, phosphatases, and phenol oxidases that break down complex organic molecules in the soil.
 
-Research on *Hydnum* mycelial networks has revealed that they can connect multiple individual trees, facilitating the transfer of carbon, nitrogen, and signaling compounds between trees of the same or different species. This "wood wide web" function is increasingly recognized as a critical component of forest ecosystem dynamics.
+Research on *Hydnum* [[mycelial-networks]] has revealed that they can connect multiple individual trees, facilitating the transfer of carbon, nitrogen, and signaling compounds between trees of the same or different species. This "wood wide web" function is increasingly recognized as a critical component of forest ecosystem dynamics.
 
 ## Culinary Value
 
@@ -42,7 +42,7 @@ The hedgehog mushroom is often compared to the chanterelle (*Cantharellus cibari
 
 ## Medicinal Properties
 
-Recent research has revealed that *H. repandum* produces bioactive compounds with potential medicinal properties. The mushroom contains polysaccharides with immunomodulatory and antitumor activity, as well as phenolic compounds with antioxidant properties. Extracts of *H. repandum* have demonstrated antibacterial activity against Gram-positive bacteria and anti-inflammatory effects in cell culture models.
+Recent research has revealed that *H. repandum* produces [[cordyceps-cancer-bioactive-compounds]] with potential medicinal properties. The mushroom contains polysaccharides with immunomodulatory and antitumor activity, as well as [[ingham-tannins-terpenes-phenolic-compounds]] with antioxidant properties. Extracts of *H. repandum* have demonstrated antibacterial activity against Gram-positive bacteria and anti-inflammatory effects in cell culture models.
 
 The fatty acid profile of *H. repandum* is notable for its high content of linoleic acid (an omega-6 fatty acid) and relatively low saturated fat content. The mushroom also contains significant amounts of ergosterol (a precursor to vitamin D₂), B vitamins, and minerals including potassium, phosphorus, and selenium.
 
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

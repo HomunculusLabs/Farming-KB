@@ -1,10 +1,11 @@
 ---
-title: Contour Swale Irrigation Design
+title: comparison-swale-design-vs-contour-swale-irrigation-design Irrigation Design
 created: 2026-04-28
 tags: [swales, contour, irrigation, water-harvesting, permaculture]
 date: 2026-04-27
 updated: 2026-04-27
-sources: [raw/papers/bill-mollison-permaculture-design-course.md]
+sources: sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
 
@@ -12,7 +13,7 @@ type: concept
 
 Swales are broad, shallow trenches excavated on contour across sloping land
 to capture, slow, and infiltrate surface water runoff. Developed extensively
-in Bill Mollison's Permaculture Design Course, swales represent one of the
+in Bill Mollison's [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] Course, swales represent one of the
 most versatile and cost-effective tools for landscape water management. They
 transform destructive runoff into productive soil moisture, charge
 groundwater, reduce erosion, and create ideal growing conditions for trees
@@ -82,7 +83,7 @@ in sequence.
 
 ### Building Soil Fertility
 
-Plant the swale to a highly nutritious crop such as white clover. Mow the
+Plant the swale to a highly nutritious crop such as [[fukuoka-white-clover-cover-crop-system]]. Mow the
 grass strip and throw all the grass on the swale. When the swale looks rich
 and good, regrade it, bringing the rich topsoil up to the trees. Grade two
 or three times over several years. The result is a great mound of black
@@ -100,7 +101,7 @@ release it on-site through deep soil infiltration.
 
 ### Urban Design Integration
 
-In urban swale design, roads are run as hard-top surfaces with swales,
+In urban [[comparison-swale-design-vs-hugelkultur]], roads are run as hard-top surfaces with swales,
 little bridges, and houses placed back to back between swales. All roof
 runoff goes into the swales, and all road runoff goes into the swales. There
 is no guttering, no curbs. Swales sometimes pass under roads. The efficiency
@@ -118,7 +119,7 @@ An immense variety of treatments can enhance urban swales:
 
 ## Swales for Forest Establishment
 
-Swales greatly decrease the risk of forest fire because they collect fuel
+Swales greatly decrease the risk of [[fungi-forest-fire-succession-litter-dighton]] because they collect fuel
 and rot it quickly. They also make for a far more moist forest than existed
 before. It is amazing how few trees need to be removed to run a swale
 through an existing forest. Swales should ideally be installed before
@@ -138,7 +139,7 @@ in summer also removes excess water in winter.
 
 ## Related
 
-- [[faires-swales-and-water-conservation]]
+- faires-swales-and-water-conservation
 - [[mollison-designers-rainwater-harvesting-swale-systems]]
 - [[backyard-water-harvesting]]
 - [[mollison-designers-dam-construction-and-water-storage]]

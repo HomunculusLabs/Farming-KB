@@ -30,7 +30,7 @@ Key Mexican Psilocybe species documented in the paper include:
 - P. caerulescens var. caerulescens -- known locally as "derrumbes" (landslides),
   one of the most important ceremonial species. Also occurs as var. ombrophila.
 - P. zapotecorum -- named for the Zapotec people, widespread in southern Mexico
-  and extending throughout South America. Belongs to Section Zapotecorum.
+  and extending throughout South America. Belongs to [[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]].
 - P. aztecorum var. aztecorum -- grows at subalpine and alpine elevations up to
   4,000 m in Mexico's high mountains. Belongs to Section Aztecorum.
 - P. hoogshagenii var. hoogshagenii and var. convexa (syn. P. semperviva)
@@ -42,7 +42,7 @@ Key Mexican Psilocybe species documented in the paper include:
 - P. cordispora, P. subcubensis, P. subtropicalis, P. yungensis (southern
   species that reached Mexico via Alnus-associated mesophytic forests)
 
-Non-Psilocybe neurotropic fungi in Mexico include Conocybe siligineoides (a
+Non-Psilocybe neurotropic fungi in Mexico include [[guzman-conocybe-siligineoides-lost-sacred-mushroom-oaxaca-never-recollected]] (a
 sacred mushroom collected only once by Wasson in 1955 and never re-found),
 Copelandia cyanescens, C. mexicana, C. tropicalis, Dictyophora indusiata (used
 by the Chinantec for divination), Cordyceps capitata and C. ophioglossoides (used
@@ -68,7 +68,7 @@ being the most widely recorded species across these islands.
 
 ## South America: High Diversity, Poorly Explored
 
-Despite relatively limited mycological exploration, South America shows
+Despite relatively limited [[guzman-allen-gartz-mycological-exploration-bias-and-underexplored-regions]], South America shows
 impressive neurotropic fungal diversity:
 
 **Colombia** is particularly rich with 12 documented neurotropic Psilocybe
@@ -82,7 +82,7 @@ suggesting mushroom worship have been found in Colombia (Schultes & Bright,
 P. caeruleoannulata, P. caerulescens, P. cubensis, P. farinacea, P. furtadoana,
 P. paulensis (endemic), P. plutonia, P. ramulosa, P. uruguayensis, P. zapotecorum,
 and others. Gerronema fibula, Gymnopilus spectabilis, and various Panaeolus
-species are also present. Amanita muscaria occurs in pine plantations.
+species are also present. [[allegro-amanita-muscaria-properties-and-pharmacology]] occurs in pine plantations.
 
 **Other South American countries** with documented neurotropic fungi:
 
@@ -128,10 +128,10 @@ neurotropic fungi in Africa.
 ## Biogeographical Significance
 
 The neotropical region's dominance in Psilocybe diversity supports the hypothesis
-that the genus originated in the southern hemisphere and dispersed northward. The
+that the genus originated in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] and dispersed northward. The
 close taxonomic relationships between neotropical species (Mexican and South
 American) and species from Southeast Asia and New Zealand further suggest
-ancient distribution patterns that predate the breakup of Gondwana or reflect
+ancient [[guzman-global-distribution-patterns-neurotropic-fungi]] that predate the breakup of Gondwana or reflect
 trans-Pacific dispersal events.
 ## See Also
 
@@ -140,4 +140,3 @@ trans-Pacific dispersal events.
 - [[psilocybe-ovoideocystidiata-species-profile]]
 
 - [[natto-making]]
-- [[psychedelic-mushroom-set-and-setting]]

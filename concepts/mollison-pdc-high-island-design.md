@@ -1,10 +1,10 @@
 ---
-title: High Island Permaculture Design
+title: High Island [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
 created: 2026-04-28
 tags:
   - permaculture
   - islands
-  - watershed-management
+  - [[watershed-management]]
   - keyline
   - mollison-pdc
 date: 2026-04-25
@@ -77,7 +77,7 @@ The PDC provides critical house-siting rules:
 On exposed dry sites, Hawaiians used tiny rock walls in intricate
 cross-wind patterns, sometimes only ten feet apart:
 
-- Behind these walls they grew dryland crops like sweet potato
+- Behind these walls they grew dryland crops like [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]
 - A dryland fern was grown for mulch
 - These patterns are "all over the landscape" and recognizable with a
   permaculture eye

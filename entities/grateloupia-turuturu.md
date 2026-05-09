@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-Grateloupia turuturu is a red alga (Rhodophyta) in the family Halymeniaceae, native to the northwest Pacific Ocean. It has become one of the most successful invasive macroalgae in the Atlantic and Mediterranean, establishing populations along European, North American, and North African coasts.
+Grateloupia turuturu is a red alga (Rhodophyta) in the family Halymeniaceae, native to the northwest Pacific Ocean. It has become one of the most successful invasive macroalgae in the Atlantic and Mediterranean, establishing populations along European, [[growing-gourmet-north-american-reishi-species]], and North African coasts.
 
 The species is notable for its large, fleshy thalli that can exceed one meter in length. It forms dense canopies on rocky substrates in the lower intertidal and shallow subtidal zones.
 
@@ -33,7 +33,7 @@ The surface is smooth and glossy, ranging in color from deep reddish-brown to pu
 
 The medullary layer contains large filamentous cells, while the cortex consists of small, densely packed pigmented cells. Cystocarps are immersed in the thallus surface and appear as small dark nodules.
 
-Reproduction involves a triphasic life cycle with isomorphic gametophytes and tetrasporophytes. Tetrasporangia are cruciately divided.
+Reproduction involves a triphasic [[bloomfield-fungal-life-cycle-spiral-versus-circle]] with isomorphic gametophytes and tetrasporophytes. Tetrasporangia are cruciately divided.
 
 ## Distribution and Habitat
 
@@ -41,7 +41,7 @@ The native range of G. turuturu encompasses the northwest Pacific, including Jap
 
 Populations have also been reported from Morocco, New Zealand, and southern Australia. The species was likely transported via hull fouling or ballast water on commercial shipping vessels.
 
-Long-distance dispersal continues through maritime traffic, with new introductions reported regularly. Once established, local spread occurs via fragmentation and spore dispersal.
+Long-distance dispersal continues through maritime traffic, with new introductions reported regularly. Once established, local spread occurs via fragmentation and [[aquatic-fungi-spore-dispersal-ingold]].
 
 G. turuturu grows on hard substrates in the lower intertidal to shallow subtidal zones (0–15 m depth). It tolerates a wide range of temperatures and salinities, contributing to its success as an invader.
 
@@ -49,11 +49,11 @@ It is particularly abundant on semi-exposed to sheltered rocky shores where it f
 
 ## Chemistry and Nutrition
 
-G. turuturu produces a range of bioactive secondary metabolites characteristic of Halymeniaceae. These include halogenated compounds, sterols, and sulfated polysaccharides with documented biological activities.
+G. turuturu produces a range of bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]] characteristic of Halymeniaceae. These include halogenated compounds, sterols, and sulfated polysaccharides with documented biological activities.
 
 The major structural polysaccharides are agar-type galactans and xylan. Extracted sulfated polysaccharides have demonstrated anticoagulant, antioxidant, and antiviral properties in laboratory assays.
 
-The protein content ranges from 8–15% of dry weight, with a balanced amino acid profile including all essential amino acids. Lipid content is relatively low at 1–3% dry weight.
+The protein content ranges from 8–15% of dry weight, with a balanced [[cho-fish-amino-acid-preparation]] profile including all essential amino acids. Lipid content is relatively low at 1–3% dry weight.
 
 Carbohydrates constitute approximately 50–65% of dry weight, primarily as structural and storage polysaccharides.
 
@@ -81,7 +81,7 @@ The texture is tender when cooked, with a mild flavor that absorbs seasonings re
 
 It is less mucilaginous than many other red algae, making it versatile in a range of culinary preparations.
 
-Commercial harvesting remains limited, primarily from wild stocks in East Asia. There is growing interest in cultivation as both a food product and a source of bioactive compounds.
+Commercial harvesting remains limited, primarily from wild stocks in East Asia. There is growing interest in cultivation as both a food product and a source of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]].
 
 Extracted sulfated polysaccharides and phycobiliproteins have potential applications in nutraceuticals and biotechnology. Research into mariculture methods is ongoing in France and Portugal.
 

@@ -1,5 +1,5 @@
 ---
-title: Phenethylamine Chain Length Effects
+title: Phenethylamine phenethylamine chain length effects Effects
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -48,7 +48,7 @@ Beyond four carbons, activity generally drops off sharply. The Muni-Metro series
 
 ## The Muni-Metro Encoding System
 
-Shulgin developed the "Muni-Metro" naming convention (named after the San Francisco transit system's lettered lines) for the chain-length homologues of the MD-family:
+Shulgin developed the "Muni-Metro" naming convention (named after the [[shipibo-san-francisco-ceremonial-center-ucayali]] transit system's lettered lines) for the chain-length homologues of the MD-family:
 - H (homopiperonylamine) = the phenethylamine (2-carbon) counterpart of MDA
 - I = standard amphetamine (3-carbon, the standard MDA chain length)
 - J = 4-carbon chain (alpha-ethyl)

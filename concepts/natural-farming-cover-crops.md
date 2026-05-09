@@ -1,11 +1,12 @@
 ---
-title: Natural Farming Cover Crops and Green Manure
+title: comparison-natural-farming-vs-permaculture Cover cover-crops-green-manures Manure
 created: 2026-04-28
 tags: [cover-crops, green-manure, natural-farming, soil-health, fukuoka]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
@@ -18,7 +19,7 @@ positively harmful.
 
 ## Green Manure Crop Selection
 
-Fukuoka developed specific recommendations for green manure crops
+Fukuoka developed specific recommendations for green [[green-manure-crops-detailed]]
 suitable for different purposes:
 
 ### Leguminous Green Manures
@@ -38,7 +39,7 @@ manure suppresses summer weeds and enriches the soil while the root
 crops penetrate and aerate the soil profile.
 
 ### Orchard Floor Management
-For fruit tree cultivation, Fukuoka recommended a diverse ground cover
+For fruit [[holzer-sweet-chestnut-and-nut-trees]], Fukuoka recommended a diverse [[fukuoka-citrus-orchard-ground-cover-cultivation]]
 of clover and vegetables. The green manure crops that take the place of
 undesirable weeds enrich the soil and prevent erosion. In the
 orchard environment, the no-weeding principle applies equally well.
@@ -58,7 +59,7 @@ The roots of grasses and green manure crops work the soil down to
 twelve inches or more, creating channels for air and water
 penetration that no mechanical tillage can match. When combined with
 the return of all crop residues as mulch, cover crops build soil
-organic matter continuously without external inputs.
+[[hamilton-composting-and-organic-matter-management]] continuously without external inputs.
 
 ## Practical Application in Grain Fields
 

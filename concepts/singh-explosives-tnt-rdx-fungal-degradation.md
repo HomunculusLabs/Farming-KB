@@ -1,5 +1,5 @@
 ---
-title: "Explosives TNT and RDX Fungal Degradation"
+title: "fungal-degradation-explosives-tnt-rdx and RDX singh-fungal-degradation-endocrine-disrupting-compounds"
 created: 2026-04-28
 tags: [mycoremediation, explosives, tnt, rdx, munitions-remediation]
 date: 2026-04-25
@@ -28,7 +28,7 @@ Explosives contamination originates from multiple sources:
 - **Manufacturing facilities**: Process wastewater and solid waste from TNT
   and RDX production plants, often affecting [[fungal-cytochrome-p450-biodegradation]]
 systems and NAD(P)H-dependent nitroreductases. [[ligninolytic-enzymes-bioremediation]] produced by species such as
-Phanerochaete chrysosporium attack TNT through non-specific radical reactions:
+[[staycare-phanerochaete-chrysosporium-in-bioremediation]] attack TNT through non-specific radical reactions:
 
 - **[[fungal-laccase-mediator-systems]] enzymes oxidize TNT
   phenolic metabolites (from reduced intermediates) through phenoxy radical
@@ -39,7 +39,7 @@ Phanerochaete chrysosporium attack TNT through non-specific radical reactions:
 
 The polymerization pathway is significant because it effectively immobilizes
 TNT metabolites, reducing mobility and bioavailability. However, the
-[[singh-ectomycorrhizal-pah-tnt-transformation]] transformation demonstrates that ectomycorrhizal
+ transformation demonstrates that ectomycorrhizal
 fungi associated with trees at military training sites contribute to TNT
 detoxification. These fungi transform TNT through both reductive and oxidative
 pathways, with the mycorrhizal mantle serving as a biological filter intercepting
@@ -61,7 +61,7 @@ use of reductive elimination reactions.
 
 Fungal xanthine oxidoreductase and cytochrome P450 systems catalyze sequential
 N-nitroso reduction of RDX to hexahydro-1-nitroso-3,5-dinitro-1,3,5-triazine
-and subsequently to triazine ring cleavage products. [[singh-fungal-consortia-synergistic-biodegradation]] combining ligninolytic fungi with RDX-degrading
+and subsequently to triazine ring cleavage products. [[singh-fungal-consortia-synergistic-biodegradation]] combining [[biochemistry-of-ligninolytic-fungi-bioremediation]] with RDX-degrading
 bacteria achieve more complete mineralization than either organism alone. The
 synergy operates through fungal enzyme systems initiating RDX transformation
 followed by bacterial mineralization of intermediates.
@@ -72,15 +72,15 @@ Several fungal genera demonstrate significant explosive degradation capability:
 
 - **Phanerochaete chrysosporium**: The most studied fungus for TNT degradation,
   achieving 80 to 95% TNT removal under ligninolytic conditions. Its
-  [[singh-fungal-degradation-dyes]]
+  singh-fungal-degradation-dyes
   applications with similar enzymatic requirements.
 - **Irpex lacteus**: Shows exceptional RDX degradation rates, producing
   non-toxic ring cleavage products.
 - **Gloeophyllum trabeum**: A brown-rot fungus that degrades TNT through
   Fenton chemistry-based mechanisms, complementing white rot enzymes bioremediation.
-- **Mycorrhizal fungi**: Pisolithus tinctorius and Suillus luteus contribute
+- **[[arbuscular-mycorrhizal-fungi-biology-symbiosis]]**: Pisolithus tinctorius and Suillus luteus contribute
   to in-situ remediation through [[singh-fungal-composting-bioremediation-contaminated-soils]] and biopile treatment of excavated explosives-contaminated
-soil achieves effective TNT and RDX removal. Organic amendments including
+soil achieves effective TNT and RDX removal. [[cervantes-organic-amendments-chart]] including
 [[mycofiltration-of-water]]
 barriers, direct [[singh-bioaugmentation-vs-biostimulation-fungal-strategies]]
 amendments, and mycelial mats as reactive barriers for migrating plumes.

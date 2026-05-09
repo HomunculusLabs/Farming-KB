@@ -1,5 +1,5 @@
 ---
-title: "Weed Control With Weeds and the Clover Ground Cover Discovery"
+title: "fukuoka textdoc weed control with weeds rice barley clover discovery With Weeds and the fukuoka-ladino-clover-ground-cover-management Cover Discovery"
 created: 2026-04-28
 tags: [fukuoka, weed-management, clover, ground-cover, natural-farming, ecological-balance, white-clover]
 date: 2026-04-28
@@ -13,11 +13,11 @@ type: concept
 
 ## Overview
 
-One of the most counterintuitive yet practically significant innovations in Masanobu Fukuoka's [[weed-suppression-strategies]]. Clover served as a living mulch that performed many of the functions normally requiring human labor or chemical inputs. It fixed nitrogen, reducing the need for fertilizer. It protected the soil from erosion during heavy rains. It maintained soil moisture during dry periods by shading the soil surface. It provided habitat for beneficial insects, including predators of crop pests.
+One of the most counterintuitive yet practically significant innovations in Masanobu Fukuoka's [[weed-suppression-strategies]]. Clover served as a [[comparison-living-mulch-vs-cover-crops]] that performed many of the functions normally requiring human labor or chemical inputs. It fixed nitrogen, reducing the need for fertilizer. It protected the soil from erosion during heavy rains. It maintained soil moisture during dry periods by shading the soil surface. It provided [[query-how-do-i-design-habitat-for-beneficial-insects]] insects, including predators of crop pests.
 
-And when it was trampled or mowed to prevent it from overwhelming young crop seedlings, the decomposing clover biomass served as a green manure that fed [[fungal-bioturbation-and-soil-aggregate-formation]] and water infiltration.
+And when it was trampled or mowed to prevent it from overwhelming young crop seedlings, the decomposing clover biomass served as a [[comparison-green-manure-guide-vs-mulch-types-and-effects]] that fed fungal-bioturbation-and-soil-aggregate-formation and water infiltration.
 
-Beneficial fungi formed mycorrhizal associations with crop roots, extending the effective root system and improving nutrient uptake. The soil surface developed a soft, spongy texture that absorbed rainfall readily and resisted compaction.
+Beneficial fungi formed mycorrhizal associations with crop roots, extending the effective root system and improving [[plant-nutrient-uptake-mechanisms]]. The soil surface developed a soft, spongy texture that absorbed rainfall readily and resisted compaction.
 
 ## Managing Clover Competition
 
@@ -102,4 +102,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

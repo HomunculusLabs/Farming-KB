@@ -1,5 +1,5 @@
 ---
-title: "What Is the Role of Trichoderma in Organic Growing?"
+title: "What Is the Role of query what is the role of trichoderma in organic growing Growing?"
 created: 2026-04-28
 tags: [query, biocontrol, trichoderma, organic-farming, soil-health]
 date: 2026-04-25
@@ -28,7 +28,7 @@ This makes Trichoderma complementary to other biological approaches like
 [[cannabis-clone-rooting-and-transplanting]], dipping cuttings in a
 Trichoderma suspension reduces damping-off and accelerates root formation.
 In hydroponic systems, Trichoderma can be added to reservoirs, though it
-requires some organic matter to sustain populations long-term.
+requires some [[hamilton-composting-and-organic-matter-management]] to sustain populations long-term.
 
 Trichoderma thrives in aerobic, organic-rich soils with a pH between 4.5 and
 7.5. It is compatible with [[biochar]]-amended soils, Trichoderma populations often
@@ -38,7 +38,7 @@ provides. Regular applications of organic matter through compost,
   and antibiosis simultaneously
 - It solubilizes phosphorus and micronutrients while producing
   growth-promoting hormones like IAA
-- Induced systemic resistance primes plant immune responses against future
+- [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance primes plant immune responses against future
   pathogen attacks
 - Apply as seed coating, soil drench, root dip, or through
   [[biochar]]
@@ -61,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: Mushroom Formation, Fruiting Body Development, and Cultivation
+title: bloomfield mushroom formation fruiting body development cultivation, comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms Development, and Cultivation
 created: 2026-04-28
 tags:
   - mycology
@@ -95,7 +95,7 @@ external motivations have not been examined critically.
 
 Fruiting bodies represent tremendous investments for mycelia, and a
 plentiful crop may drain the organism's resources. Feast and famine are
-the governing principles of commercial mushroom cultivation. Initially,
+the governing principles of commercial [[accessible-mushroom-cultivation-for-disabilities]]. Initially,
 a mycelium is feasted on a bed of warm and moist compost, providing
 ideal conditions for hyphal growth. Then, when the nutrients in the
 compost are close to exhaustion, the bed is cased in damp soil. Shortly
@@ -119,7 +119,7 @@ substrate is doomed to starvation. But wherever a species like the milk
 cap fruits at the same site every year, some of its mycelium must stay
 in the ground, lying in wait for a new dose of nutrients. Falling
 leaves offer an annual pulse of fertilizer for fungi in temperate
-zones. The development of mycorrhizal fungi is additionally constrained
+zones. The development of [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] is additionally constrained
 by the nutritional status of their plant associates, adding further
 dimensions to the suite of signals that control fruiting.
 
@@ -127,18 +127,24 @@ dimensions to the suite of signals that control fruiting.
 
 Mushrooms actually cool during periods of spore release, by as much as
 5 degrees Celsius on warm days, and the cooling continues even on cold
-mornings. This evaporative cooling was first measured systematically by
+mornings. This [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]] was first measured systematically by
 researchers who inserted thin wire thermocouples between gills and
 spines, or up inside the tubes of boletes. The cooling mechanism is the
 same one that causes the chill experienced after swimming: evaporation
 of water from the mushroom's tissues. This cooling is essential for
-spore discharge, because it promotes the condensation of water on the
+[[bloomfield-fungal-spore-discharge-and-dispersal]], because it promotes the condensation of water on the
 spore surface, forming the Buller's drop that drives the catapult
 mechanism.
-
 ## See Also
 
+- [[mushroom-pin-formation]]
+
 - [[mushroom-fruiting-body-morphology]]
-- [[bloomfield-ascobolus-ascomycete-fruiting-body-evolution]]
+- bloomfield-ascobolus-ascomycete-fruiting-body-evolution
 - [[bloomfield-fungal-reproduction-and-chemical-communication]]
-- [[ballistospore-discharge-mechanism-mushrooms]]
+- ballistospore-discharge-mechanism-mushrooms
+- [[fruiting-body-development]]
+- [[mushroom-cultivation]]
+- [[calocybe-gambosa]]
+
+- [[mushroom-fruiting-body-morphogenesis]]

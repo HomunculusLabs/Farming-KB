@@ -1,5 +1,5 @@
 ---
-title: "Phytochelatins and Intracellular Metal Detoxification in Fungi"
+title: "Phytochelatins and fungal-intracellular-metal-binding-molecules Detoxification in Fungi"
 created: 2026-04-28
 tags: [bioremediation, heavy-metals, phytochelatins, metallothioneins, fungal-physiology]
 date: 2026-04-25
@@ -17,8 +17,8 @@ predominantly on their sequestration in the cytosol by induced
 metal-binding molecules. These include low-molecular-weight cysteine-rich
 proteins known as metallothioneins and peptides derived from glutathione
 called phytochelatins. Both classes of molecules play critical roles in
-fungal metal tolerance and have potential applications in bioremediation
-and metal recovery from contaminated environments. The metal-binding
+fungal [[fungal-metal-tolerance-mechanisms]] and have potential applications in bioremediation
+and metal recovery from [[singh-fungal-biofilms-in-contaminated-environments]]. The metal-binding
 abilities of these molecules may have significant potential for
 bioremediation technologies.
 
@@ -46,7 +46,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -96,7 +96,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -106,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

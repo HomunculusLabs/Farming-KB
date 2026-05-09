@@ -1,16 +1,17 @@
 ---
-title: Holzer Kitchen Garden Layout and Traditional Gardening
+title: Holzer holzer-kitchen-garden-herbs-and-medicinal-plants Layout and Traditional Gardening
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Kitchen Garden Layout and Traditional Gardening
 
-The nicest areas around houses were once reserved for kitchen gardens. There, farmers cultivated valuable fruit, vegetables, and medicinal and culinary herbs, which meant that they were available right on the doorstep. The purpose of a kitchen garden was not only to grow food; it also served as a pharmacy just outside the house.
+The nicest areas around houses were once reserved for kitchen gardens. There, farmers cultivated valuable fruit, vegetables, and medicinal and [[holzer-medicinal-and-culinary-herbs-compendium]], which meant that they were available right on the doorstep. The purpose of a kitchen garden was not only to grow food; it also served as a pharmacy just outside the house.
 
 ## The Krameterhof Garden (Gachtl)
 
@@ -26,17 +27,17 @@ The Holzer family garden (called a "Gachtl" in the Lungau dialect) directly bord
 
 **Nutrient-rich, partially shaded areas:** Mint, lemon balm, sun bonnet (primrose), motherwort, and lovage. Lovage is planted alone in its own corner because it hinders the growth of neighbouring plants and spreads vigorously -- a single plant covers the needs of a family of four.
 
-**Among the herbs:** Poisonous medicinal herbs like monkshood and foxgloves, which catch the eye with their beautiful flowers. These play an important role in interactions within nature and make a significant contribution to healthy soil life.
+**Among the herbs:** Poisonous [[permaculture-plants-medicinal-herbs-healing]] like monkshood and foxgloves, which catch the eye with their beautiful flowers. These play an important role in interactions within nature and make a significant contribution to healthy soil life.
 
 **By the garden gate (most accessible):** Lovage, chives, leeks, onions, and garlic -- the herbs the cook used most frequently.
 
-**Sunny vegetable beds:** Beans and peas. Runner beans planted in mid-May due to altitude. Lettuce planted between beans to protect them from cold (lettuce presents no competition to beans). Catch crops of radishes and carrots also suitable.
+**Sunny vegetable beds:** [[query-do-beans-and-peas-feed-nearby-plants-with-nitrogen]]. Runner beans planted in mid-May due to altitude. Lettuce planted between beans to protect them from cold (lettuce presents no competition to beans). Catch crops of radishes and carrots also suitable.
 
 **Other sunny, nutrient-rich beds:** Kohlrabi, cabbages, turnips, radishes, and broccoli.
 
 **By the house wall:** Damson seedling (Prunus domestica subsp. insititia), ungrafted and unpruned. The suckers grow into new trees producing the same fruit as the parent. Fruit is very aromatic, ripening end of September to beginning of October.
 
-**Salad plants as catch crops:** Butterhead lettuce, iceberg lettuce, loose-leaf lettuce, and endive throughout the growing season. Parsley was kept away from the salad plants.
+**Salad plants as catch crops:** Butterhead lettuce, iceberg lettuce, loose-leaf lettuce, and endive throughout the [[savory-growing-season-and-non-growing-season-management]]. Parsley was kept away from the salad plants.
 
 ### The Recipe for Success
 The areas around the fence and in the garden (sunny, shady, dry or wet soils) were given to the plants that were suited to them. Plants that are in the right places will thrive and are not as susceptible to disease. They also develop the highest nutrient content (essential oils, bitter substances) in the locations that they are naturally suited to.
@@ -71,7 +72,7 @@ Beyond the basic pairings documented in the Krameterhof layout, Holzer's broader
 
 - **Beans with lettuce and radishes:** Runner beans provide vertical structure and partial shade for lettuce, which in turn protects bean roots from temperature extremes. Radishes sown between beans and lettuce mature quickly, harvested before the other crops need the space.
 - **Cabbage family with aromatic herbs:** Thyme and sage planted near brassicas help deter cabbage white butterflies and aphids through their volatile aromatic compounds.
-- **Poisonous medicinal herbs (monkshood, foxglove) among food crops:** Holzer explicitly advocates integrating toxic plants into the kitchen garden, arguing that they contribute to soil biology and plant health through root exudates and mycorrhizal associations. Their presence attracts specific pollinators and beneficial insects that also serve food crops.
+- **Poisonous medicinal herbs (monkshood, foxglove) among food crops:** Holzer explicitly advocates integrating toxic plants into the kitchen garden, arguing that they contribute to soil biology and plant health through root exudates and mycorrhizal associations. Their presence attracts specific pollinators and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] that also serve food crops.
 - **Lovage isolated in its own corner:** Recognizing lovage's allelopathic tendencies — it inhibits growth of nearby plants through chemical suppression — Holzer assigns it a dedicated position rather than interplanting it. A single mature lovage plant supplies a family of four year-round, making its space requirement minimal relative to its yield.
 - **Fruit bushes along the fence line:** Redcurrants, blackcurrants, white currants, and strawberries occupy the fence perimeter, producing food while serving as a wind-filtering barrier that protects more sensitive interior plants.
 
@@ -79,7 +80,7 @@ Beyond the basic pairings documented in the Krameterhof layout, Holzer's broader
 
 Holzer's raised bed system, described in detail in [[holzer-raised-bed-design-principles]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
-- [[microclimate-creation-permaculture]]
+- microclimate-creation-permaculture
 
 ## Source
 

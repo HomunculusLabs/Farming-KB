@@ -1,5 +1,5 @@
 ---
-title: Four Principles of Natural Farming
+title: Four four principles of natural farming Farming
 created: 2026-04-28
 updated: 2026-05-08
 type: concept
@@ -21,8 +21,8 @@ soil strata and draw the nutrients back up to the surface.
 Take a walk to the wild mountainside and look at the giant trees that grow without
 fertilizer and without cultivation. The fertility of nature, as it is, is beyond reach
 of the imagination. Cut down the natural forest cover and the soil becomes depleted and
-open to erosion. On the other hand, take a barren mountain with poor, red clay soil,
-and plant pine or cedar with a ground cover of clover and alfalfa. As the
+open to erosion. On the other hand, take a barren mountain with poor, [[jadam-red-clay-powder-method]] soil,
+and plant pine or cedar with a [[fukuoka-citrus-orchard-ground-cover-cultivation]] of clover and alfalfa. As the
 [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession|soil fertility]] and
 in balancing the biological community. As a fundamental principle, weeds should be
 controlled, not eliminated. [[jadam-insect-pest-management|insect imbalance]] became a great
@@ -32,8 +32,7 @@ requires the use of poisonous chemicals.
 
 The sensible approach to [[natural-farming-guide-no-till-grain-strategy|no-till farming movements]] worldwide. Natural farming takes a distinctive form according to local
 conditions. In making the transition, some weeding or
-[[permaculture-design-principles|permaculture design]],
-[[organic-farming-history|ecological farming]] movements around the world.
+[[permaculture-design-principles-beginners|permaculture design], [[organic-farming-history|ecological farming]] movements around the world.]]
 
 ## See Also
 
@@ -98,4 +97,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

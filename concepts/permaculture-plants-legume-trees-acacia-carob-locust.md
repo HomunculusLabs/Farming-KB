@@ -8,18 +8,18 @@ type: concept
 tags: [culture, permaculture, plants, tree-crop]
 ---
 
-# [[acacia]], [[tagasaste]]
+# [[acacia]], tagasaste
 
 Beyond the general nitrogen-fixing pioneer species, several specific legume trees deserve detailed attention for their exceptional contributions to permaculture systems. These species provide stock feed, human food, timber, bee forage, and soil improvement simultaneously. This page covers the most important genera and species: Acacia (wattles), Carob, Black Locust, Honey Locust, Tagasaste, Leucaena, and Albizia.
 
 ## Tagasaste ([[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 
-Tagasaste is listed as a companion to nearly all fruit and nut trees: almond, apple, apricot, avocado, capulin cherry, cherry, citrus, carob, fig, jujube, lichee, [[nurse-plants]] in revegetation.
+Tagasaste is listed as a companion to nearly all fruit and nut trees: almond, apple, apricot, avocado, capulin cherry, cherry, citrus, carob, fig, jujube, lichee, nurse-plants in revegetation.
 
 Key species covered in the source:
 
 - **Acacia aneura (mulga)** - survives annual rainfalls 200-500 mm, some trees straight trunked to 9 m. Traditional Aboriginal staple.
-- **Acacia salicina (cooba)** - useful fodder and erosion control tree
+- **Acacia salicina (cooba)** - useful fodder and [[permplant-willows-salix-erosion-control-fodder]] tree
 - **Acacia saligna (golden wreath wattle)** - good for interplanting with apricots as companion
 - **Acacia stenophylla (river cooba)** - riparian species
 - **Acacia victoriae (gundabluey)** - dry country species, rainfall 125-300 mm
@@ -40,7 +40,7 @@ A small, fast-growing, nitrogen-fixing, semi-deciduous tree or sprawling shrub (
 
 Family: CAESALPINIACEAE
 
-A moderately fast-growing, long-lived legume native to North America (rainfall 425-1500 mm, altitude to 2100 m). Often attains 24 m (up to 30 m), trunk diameters 60-90 cm. Deep root system makes it capable of withstanding drought. Tolerant of alkaline and acid soils, and salt. Deciduous, allowing light through in winter to pasture or understorey. Mature trees resistant to frost.
+A moderately fast-growing, long-lived legume native to [[psilocybin-north-america-pacific-northwest]] (rainfall 425-1500 mm, altitude to 2100 m). Often attains 24 m (up to 30 m), trunk diameters 60-90 cm. Deep root system makes it capable of withstanding drought. Tolerant of alkaline and acid soils, and salt. Deciduous, allowing light through in winter to pasture or understorey. Mature trees resistant to frost.
 
 ### Pod Production and Nutrition
 
@@ -48,7 +48,7 @@ Branches form thorns which protect from ring-barking by stock. Pigs, sheep, catt
 
 Nutritive analysis: protein 14.3-16%; sugar 15.5-26.5%; carbohydrate 60.5%; fat 7.5%; calcium 0.2%; iron 0.0038%; crude fibre 18.4%; ash 4.7%. Superior to oats as stock feed.
 
-Yields: 9 t/ha/yr by year 12 (at 36 trees/ha), 18 t/ha/yr by year 15, mature groves up to 50-60 t/ha/yr in selected North American plantings. Pods also used for human food and alcohol fuel production.
+Yields: 9 t/ha/yr by year 12 (at 36 trees/ha), 18 t/ha/yr by year 15, mature groves up to 50-60 t/ha/yr in selected [[growing-gourmet-north-american-reishi-species]] plantings. Pods also used for human food and alcohol fuel production.
 
 ### Timber
 Hard, heavy, strong; heartwood lasts 100 years untreated in the ground. Good furniture timber. Coppices freely and suckers from damaged roots. Good fuelwood. Propagation similar to carob, also by transplanting root suckers.
@@ -71,7 +71,7 @@ Yields: up to 1 tonne from a single tree in a good season; about 8 t/ha is typic
 Some salt tolerance observed in carobs along waterways. The tree does not burn easily and generally recovers when scorched by fire. Stock will trim foliage within their reach.
 
 ### Propagation
-Seeds have very hard cases and need scarification: pour boiling water over seeds, soak overnight. Seedlings develop a long tap root very early (250 mm in first two weeks). Deep pots (1-litre milk cartons) recommended. Direct seeding possible using protective markers.
+Seeds have very hard cases and need scarification: pour boiling water over seeds, soak overnight. Seedlings develop a long tap root very early (250 mm in first two weeks). Deep pots (1-litre milk cartons) recommended. [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] possible using protective markers.
 
 ### Companion Planting
 Grows well with tagasaste, Albizia lophantha, and Acacia decurrens as nurse plants. Successfully companion-planted with grapes in Algeria.
@@ -80,7 +80,7 @@ Grows well with tagasaste, Albizia lophantha, and Acacia decurrens as nurse plan
 
 Family: MIMOSACEAE
 
-A genus of 10 species native to southern North America and Central America. The most commercially exploited species, Leucaena leucocephala, is often claimed to be the fastest-growing tree in the tropics (evergreen, but sheds leaves in frost/storm/drought). Rainfall 250-3000 mm; altitudes below 500 m best. Tolerates some salinity and waterlogging.
+A genus of 10 species native to southern North America and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. The most commercially exploited species, Leucaena leucocephala, is often claimed to be the fastest-growing tree in the tropics (evergreen, but sheds leaves in frost/storm/drought). Rainfall 250-3000 mm; altitudes below 500 m best. Tolerates some salinity and waterlogging.
 
 ### Three Forms
 - **Common form**: Low shrub to 5 m, abundant foliage, flower, and seed
@@ -89,7 +89,7 @@ A genus of 10 species native to southern North America and Central America. The 
 
 ### Uses
 - **Nurse tree**: Classic shade tree for cacao and other tropical crops
-- **Alley cropping**: Between rows of leucaena for corn, tobacco, yams, rice
+- **[[comparison-alley-cropping-vs-silvopasture]]**: Between rows of leucaena for corn, tobacco, yams, rice
 - **Human food**: Young leaves, pods, flower buds eaten raw, steamed, in soups (mimosine content must be explored for staple use)
 - **Stock feed**: High protein; some of the highest weight gains recorded. Recovers from browsing in just two weeks. Should form only ~30% of long-term diet due to mimosine toxicity.
 - **Timber**: Similar density and strength to oak, ash, birch, sugar maple. Used for fence posts, furniture, chipboard, paper pulp, rayon.

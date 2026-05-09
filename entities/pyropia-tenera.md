@@ -22,7 +22,7 @@ Pyropia tenera is a red alga in the family Bangiaceae, one of the principal spec
 
 The species is native to the northwest Pacific, where it has been cultivated for over 300 years. Nori produced from P. tenera is regarded as premium quality, with a smooth texture, rich umami flavor, and deep greenish-black color.
 
-P. tenera has a unique biphasic life cycle alternating between a microscopic conchocelis phase that bores into mollusk shells and a macroscopic leafy gametophyte phase harvested for food. This life cycle complexity was only fully elucidated by Kathleen Drew-Baker in 1949.
+P. tenera has a unique biphasic [[bloomfield-fungal-life-cycle-spiral-versus-circle]] alternating between a microscopic conchocelis phase that bores into mollusk shells and a macroscopic leafy gametophyte phase harvested for food. This life cycle complexity was only fully elucidated by Kathleen Drew-Baker in 1949.
 
 ## Taxonomy and Morphology
 
@@ -58,7 +58,7 @@ The species is the richest natural source of vitamin B12 among plant-derived foo
 
 Mineral content includes abundant iodine, iron, zinc, manganese, and calcium. A single sheet of nori provides approximately 70% of the daily recommended intake of iodine.
 
-Pigments include phycoerythrin, phycocyanin, and chlorophyll a. The distinctive flavor and aroma of nori result from volatile compounds including dimethyl sulfide and various amino acid degradation products.
+Pigments include phycoerythrin, phycocyanin, and chlorophyll a. The distinctive flavor and aroma of nori result from [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] including dimethyl sulfide and various amino acid degradation products.
 
 Dietary fiber constitutes 25–35% of dry weight, primarily as soluble sulfated polysaccharides. These polysaccharides have demonstrated prebiotic and immunomodulatory activities in laboratory studies.
 
@@ -72,7 +72,7 @@ P. tenera has been largely replaced by P. yezoensis in commercial cultivation du
 
 Ariake Bay produces the highest-value nori in Japan, with P. tenera commanding premium prices.
 
-Strain improvement programs have developed disease-resistant and faster-growing cultivars, though these are genetically distinct from wild populations. Concerns about genetic pollution of natural populations through aquaculture escape have prompted stricter containment regulations.
+[[mushroom-strain-improvement-and-breeding-methods]] programs have developed disease-resistant and faster-growing cultivars, though these are genetically distinct from wild populations. Concerns about genetic pollution of natural populations through aquaculture escape have prompted stricter containment regulations.
 
 ## Economic and Cultural Significance
 
@@ -105,6 +105,9 @@ The escape of cultivated strains into natural habitats raises concerns about gen
 Efforts to conserve wild genetic diversity include the establishment of germplasm banks and protected harvest areas. Maintaining genetic diversity is critical for breeding programs developing disease-resistant cultivars.
 
 ## See Also
+
+- [[pyropia-haitanensis]]
+- [[conocybe-tenera]]
 
 - [[pyropia-yezoensis]]
 - [[ulva-lactuca]]

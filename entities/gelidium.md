@@ -97,10 +97,10 @@ quality and agar yield, making Gelidium one of the most valuable seaweed
 commodities per unit weight.
 
 Cultivation of Gelidium has proven technically challenging. Attempts using
-vegetative propagation, spore culture, and tissue culture have achieved limited
+vegetative propagation, spore culture, and [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] have achieved limited
 commercial success in Japan and China, but yields remain below wild harvest
 levels. The slow growth rate (3–5% per day versus 8–12% for Gracilaria) and
-complex life cycle present significant barriers to aquaculture scale-up.
+complex [[bloomfield-fungal-life-cycle-spiral-versus-circle]] present significant barriers to aquaculture scale-up.
 
 ## Chemistry and Industrial Applications
 
@@ -117,7 +117,7 @@ remove impurities (syneresis), then dried and milled. Yield ranges from 20% to
 **Microbiological agar** (the primary high-value application) requires
 Gelidium-derived agar due to its consistent gelling properties and low
 contaminant levels. Alternative agar sources cannot reliably match Gelidium
-agar performance in bacterial and fungal culture media.
+agar performance in [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] culture media.
 
 **Agarose** for DNA/RNA electrophoresis is produced by additional purification
 of Gelidium agar to remove agaropectin. The demand for agarose in genomics,

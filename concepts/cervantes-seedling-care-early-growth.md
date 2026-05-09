@@ -1,11 +1,12 @@
 ---
-title: "Cervantes - Cannabis Seedling Care and Early Growth"
+title: "Cervantes - green-cannabis-seedling-care Care and Early Growth"
 created: 2026-04-26
 tags: [cannabis, seedlings, germination, early-growth, seed-care]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -42,7 +43,7 @@ Key developmental milestones:
 - **Transitional phase** begins as the plant develops
   3 to 5 sets of true leaves
 - **Rapid foliage growth** signals the end of the
-  seedling stage and beginning of vegetative growth
+  seedling stage and beginning of [[cannabis-vegetative-growth-stage]]
 
 The seedling stage is over when rapid foliage growth
 starts. At this point, plants need more room to grow
@@ -66,7 +67,7 @@ only the strongest plants ensures better results.
 
 ## Sex Expression and Environment
 
-Environmental factors start influencing sex the moment
+[[duggar-mushroom-environmental-factors-temperature-moisture-light]] start influencing sex the moment
 the seedling has three pairs of true leaves (not
 counting cotyledons). Factors that increase female
 ratio from seed include:
@@ -76,7 +77,7 @@ ratio from seed include:
 - Low temperatures
 - High humidity
 - Low growing medium moisture
-- More blue light spectrum
+- More blue [[cannabis-light-spectrum-and-color-bands]]
 - Fewer hours of daylight (around 14 hours)
 - Minimizing environmental stress
 

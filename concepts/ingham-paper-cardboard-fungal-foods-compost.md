@@ -13,11 +13,11 @@ type: concept
 
 ## Overview
 
-Paper and cardboard represent widely available, carbon-rich materials that can serve as excellent fungal foods in compost systems. Dr. Elaine Ingham's guidance on using these materials addresses both their benefits for building fungal biomass and the important cautions regarding inks, glues, and chemical contaminants that may be present.
+Paper and cardboard represent widely available, carbon-rich materials that can serve as excellent fungal foods in compost systems. Dr. [[elaine-ingham]]'s guidance on using these materials addresses both their benefits for building [[bioremediation-fungal-biomass-biosorbent-material]] and the important cautions regarding inks, glues, and chemical contaminants that may be present.
 
 ## Why Paper and Cardboard Feed Fungi
 
-Paper is composed primarily of cellulose, which is a relatively recalcitrant, hard-to-break-down carbon source. This structural complexity favors fungal decomposition over bacterial decomposition. Fungi produce the cellulase enzymes necessary to degrade cellulose efficiently, while most bacteria cannot break down these complex carbon compounds as effectively.
+Paper is composed primarily of cellulose, which is a relatively recalcitrant, hard-to-break-down carbon source. This structural complexity fav [[dighton-fungal-decomposition-leaf-litter-dynamics]] tion over bacterial decomposition. Fungi produce the cellulase enzymes necessary to degrade cellulose efficiently, while most bacteria cannot break down these complex carbon compounds as effectively.
 
 The carbon-to-nitrogen ratio of paper and cardboard is very wide, placing these materials firmly in the category of fungal foods. Wide carbon-to-nitrogen ratio materials select for fungal dominance, which is precisely what many compost tea brewers need to achieve adequate fungal biomass in their finished compost.
 
@@ -25,7 +25,7 @@ Cardboard offers additional benefits beyond paper alone. It typically has thicke
 
 ## Entomopathogenic Fungi from Paper and Cardboard
 
-One of the most significant benefits of adding paper and cardboard to compost is their role as habitat and food for insect-parasitizing fungi. If paper or cardboard is included in compost, and any natural source of entomopathogenic fungi is present in the organic matter added to the pile, these beneficial fungi will typically establish.
+One of the most significant benefits of adding paper and cardboard to compost is their role as habitat and food for insect-parasitizing fungi. If paper or cardboard is included in compost, and any natural source of entomopathogenic fungi is present in the [[hamilton-composting-and-organic-matter-management]] added to the pile, these beneficial fungi will typically establish.
 
 Key species that may be present include:
 
@@ -35,7 +35,7 @@ Key species that may be present include:
 
 - **Metarhizium**: While not explicitly named in the Ingham correspondence, this genus is commonly associated with paper and cardboard substrates and functions similarly to Beauveria as an insect pathogen.
 
-These fungi do not attack and consume the cuticles of most insects directly through bacterial action. You need the fungal parasites themselves. Paper and cardboard provide the carbon substrate that allows these specialized fungi to maintain populations in the compost ecosystem.
+These fungi do not attack and consume the cuticles of most insects directly through bacterial action. You need [[bloomfield-fungal-parasites-of-insects]] ites themselves. Paper and cardboard provide the carbon substrate that allows these specialized fungi to maintain populations in the compost ecosystem.
 
 ## Concerns About Inks, Glues, and Chemical Contaminants
 
@@ -69,7 +69,7 @@ Glossy finishes, wax coatings, and certain dyes applied to paper products may in
 
 Two primary methods exist for incorporating paper and cardboard:
 
-1. **Sheet application**: Cardboard sheets can be laid on the soil surface to block sunlight from reaching weed seeds, similar to sheet mulching. Fungi will colonize the cardboard from below over time. This method is slower but requires less processing.
+1. **Sheet application**: Cardboard sheets can be laid on the soil surface to block sunlight from reaching weed seeds, similar [[sheet-mulching]] hing. Fungi will colonize the cardboard from below over time. This method is slower but requires less processing.
 
 2. **Shredded incorporation**: Shredding paper and cardboard increases surface area dramatically, allowing much more rapid decomposition. If adequate bacteria and fungi are present in the soil or compost, shredded material will be colonized and broken down quickly. This method is preferred when building fungal compost for tea production.
 
@@ -99,19 +99,19 @@ The insect-parasitizing fungi that colonize paper and cardboard have direct prac
 
 - **Root grubs and wireworms**: Compost tea containing *Beauveria* can be applied as a soil drench at 150 liters per hectare. The fungus becomes active on contact with soil-dwelling insect larvae. For fruit fly larvae specifically, fall application gives the fungus all winter to parasitize overwintering larval stages.
 
-- **Tent caterpillars**: While *Bacillus thuringiensis* (Bt) must be ingested to be effective, *Beauveria* and other insect-attacking fungi can penetrate insect cuticles directly. A high-bacterial brew applied to tents may help spread these fungi.
+- **Tent caterpi [[bacillus-thuringiensis]] us thuringiensis* (Bt) must be ingested to be effective, *Beauveria* and other insect-attacking fungi can penetrate insect cuticles directly. A high-bacterial brew applied to tents may help spread these fungi.
 
-- **Fruit fly management**: A combined approach using *Beauveria* as a soil drench plus beneficial bacteria on foliage to repel adult flies has shown promise. The soil application targets larvae while the foliar application targets adults.
+- **Fruit fly management**: A combined approach using *Beauveria* as a soil drench plus beneficial bacteria on foliage to repel adult flies has shown promise. The soil application targets larvae while the [[ultra-low-cost-foliar-application-methods]] targets adults.
 
 Specificity exists between insect-attacking fungi and their target insects. Bruce Elliott has worked on matching different fungal species to different insect pests. Data collection on survival and growth of these organisms in tea, compost, and soil is essential before investing in commercial inoculum products.
 
 ## Forest Litter Comparison
 
-The "O" horizon (organic horizon) of forest soil serves as a natural model for what paper and cardboard can achieve in compost. Forest litter decomposes into dark brown humus rich in fungal hyphae. Adding paper and cardboard to compost accelerates this humification process by providing the carbon skeleton that fungi use to build soil organic matter and eventually humic acids.
+The "O" horizon (organic horizon) of forest soil serves as a natural model for what paper and cardboard can achieve in compost. Forest litter decomposes into dark brown humus rich in [[fungal-hyphae]]. Adding paper and cardboard to compost accelerates this humification process by providing the carbon skeleton that fungi use to build soil organic matter and eventually humic acids.
 
 ## Diversity and Fungal Succession
 
-Ingham emphasizes that diversity of food resources is key to building diverse fungal communities. Paper and cardboard contribute to this diversity by providing a carbon source that is structurally different from green plant materials, wood chips, or food waste. The more kinds of food resources balanced for the desired fungal-to-bacterial ratio, the more diverse the resulting organism community.
+Ingham emphasizes that diversity of food resources is key to building diverse [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]. Paper and cardboard contribute to this diversity by providing a carbon source that is structurally different from green plant materials, wood chips, or food waste. The more kinds of food resources balanced for the desired fungal-to-bacterial ratio, the more diverse the resulting organism community.
 
 When building compost with paper and cardboard, the goal is not to make the entire pile from these materials. Instead, include them as one component among many. A handful of onion or garlic material can be added to select for organisms that tolerate aromatic compounds, but these strong-smelling materials should not dominate the pile. The principle is to create microenvironments within the compost that support different organism types, building maximum overall diversity.
 
@@ -127,6 +127,6 @@ The same comparative testing approach applies to any new ingredient. Without tes
 
 ## Related Concepts
 
-- [[aact-compost-quality-standards-ingham|Compost quality standards]]
-- [[actinomycetes-soil-biology|Actinomycetes in soil biology]]
-- [[fungal-decomposition-nutrient-cycling|Fungal decomposition and nutrient cycling]]
+- [[aact-compost-quality-standards-ingham]]
+- [[actinomycetes-soil-biology]]
+- [[fungal-decomposition-nutrient-cycling]]

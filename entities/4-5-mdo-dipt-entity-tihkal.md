@@ -8,7 +8,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 # 4,5-MDO-DIPT (N,N-Diisopropyl-4,5-Methylenedioxytryptamine)
 
-TIHKAL entry #28. 4,5-MDO-DIPT is a synthetic tryptamine featuring a methylenedioxy bridge at the 4,5-positions of the indole ring combined with N,N-diisopropyl substitution on the terminal nitrogen. It is one of only two known tryptamines with a methylenedioxy group at these particular ring positions, making it a compound of significant structural interest.
+TIHKAL entry #28. 4,5-MDO-DIPT is a [[synthetic-tryptamine-methods]] featuring a methylenedioxy bridge at the 4,5-positions of the indole ring combined with N,N-diisopropyl substitution on the terminal nitrogen. It is one of only two known tryptamines with a methylenedioxy group at these particular ring positions, making it a compound of significant structural interest.
 
 ## Chemical Names
 
@@ -33,7 +33,7 @@ Unknown. The single qualitative report suggests a duration of several hours.
 
 ## Synthesis
 
-The synthesis begins with 4,5-methylenedioxyindole (prepared as described under the 4,5-MDO-DMT entry), which is treated with oxalyl chloride in cold anhydrous ether. The resulting acid chloride intermediate (a red solid) is reacted with diisopropylamine in ether. After workup, the 4,5-methylenedioxy-N,N-diisopropylindole-3-glyoxylamide is obtained as a white solid (mp 260 degrees C dec., 56 percent yield).
+The synthesis begins with 4,5-methylenedioxyindole (prepared as described under the 4,5-MDO-DMT entry), which is treated with [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] in cold anhydrous ether. The resulting acid chloride intermediate (a red solid) is reacted with diisopropylamine in ether. After workup, the 4,5-methylenedioxy-N,N-diisopropylindole-3-glyoxylamide is obtained as a white solid (mp 260 degrees C dec., 56 percent yield).
 
 Reduction with LAH in THF at reflux for 1 hour, followed by standard aqueous workup, gives the free base which is distilled by KugelRohr and crystallized from benzene/hexane. The product, 4,5-methylenedioxy-N,N-diisopropyltryptamine, has a melting point of 109-113 degrees C and a yield of 31 percent from the amide.
 
@@ -51,7 +51,7 @@ The 4,5-series is theoretically more promising because it bridges the two most p
 
 ## Extensions and Commentary
 
-The comparison to LSD in the sole qualitative report is intriguing. If this compound does produce LSD-like effects, it would represent a significant finding, as LSD is a much more complex molecule (an ergoline rather than a simple tryptamine) with activity at a wide range of serotonin receptor subtypes. A simple tryptamine reproducing the LSD experience would challenge assumptions about the structural requirements for the full LSD-like psychedelic profile.
+The comparison to LSD in the sole qualitative report is intriguing. If this compound does produce LSD-like effects, it would represent a significant finding, as LSD is a much more complex molecule (an ergoline rather than a simple tryptamine) with activity at a wide range of [[serotonin-receptor-interference-psychedelic-mechanism]] subtypes. A simple tryptamine reproducing the LSD experience would challenge assumptions about the structural requirements for the full LSD-like psychedelic profile.
 
 The 3-hour onset at 25 mg is unusually slow for a tryptamine and more reminiscent of LSD's characteristic long onset. This delayed action could indicate slow absorption, slow metabolic activation, or some other pharmacokinetic factor.
 

@@ -1,5 +1,5 @@
 ---
-title: Immobilized Fungal Bioreactors for Wastewater Treatment
+title: singh immobilized fungal bioreactors wastewater treatment Bioreactors for mollison-designers-wastewater-treatment-wetlands
 created: 2026-04-26
 tags:
   - immobilization
@@ -27,7 +27,7 @@ wastewaters.
 
 ## Immobilization Methods
 
-Several immobilization techniques are employed for fungal bioremediation
+Several immobilization techniques are employed for [[staycare-composting-as-a-fungal-bioremediation-strategy]]
 systems:
 
 ### Surface Attachment and Biofilm Formation
@@ -53,13 +53,13 @@ matrix while allowing diffusion of substrates and products:
   in whey fermentation. Enzymatic activity was found to be higher in
   alginate-immobilized biomass than in free-growing cells.
 
-- **Polyurethane foam**: Phanerochaete chrysosporium immobilized on
+- **Polyurethane foam**: [[staycare-phanerochaete-chrysosporium-in-bioremediation]] immobilized on
   polyurethane foam in repeated batches achieved more than 70% color
   and COD removal from olive mill wastewater. Aspergillus niger
   immobilized in polyurethane sponge cubes produced the highest fungal
   biomass of 5.32 g per gram of carrier.
 
-- **Chitosan**: Laccase of Lentinula edodes immobilized on chitosan by
+- **Chitosan**: Laccase of [[staycare-lentinula-edodes-in-bioremediation]] immobilized on chitosan by
   adsorption and subsequent cross-linking with glutaraldehyde eliminated
   total phenols and ortho-phenols by 67% and 72%, respectively, after
   24 hours of treatment.
@@ -105,7 +105,7 @@ contactor (RBC) for the elimination of surfactant-solubilized PAHs. The
 reactor effectively removed all PAHs for specific loading rates, with a
 linear relationship between the inverse of PAH removal rate and the
 inverse of PAH loading rate. Phenanthrene and pyrene were removed by a
-combination of fungal oxidation and disk foam adsorption, while
+combination of [[singh-fungal-oxidation-petroleum-enzymes]] and disk foam adsorption, while
 benzo[a]pyrene was removed by fungal oxidation alone.
 
 ## Advantages and Limitations

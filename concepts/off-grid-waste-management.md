@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [off-grid, homesteading, greywater, water, sustainability, engineering]
-sources: []
+sources:
+  sources: []
 ---
 
 # Off-Grid Waste Management
@@ -45,9 +46,9 @@ Managing human waste and wastewater without municipal sewer systems is a fundame
 ### Advanced Treatment Systems
 
 For sites that fail conventional percolation tests:
-- **Aerobic treatment units (ATU)**: Use oxygen and bacteria to break down waste more completely
+- **Aerobic treatment units (ATU)**: Use oxygen and bacteria to [[query-can-fungi-break-down-plastic-pollution]] waste more completely
 - **Mound systems**: Raised drain field when water table is high
-- **Constructed wetlands**: Natural treatment through wetland plants
+- **[[comparison-constructed-wetlands-vs-bioswales]]**: Natural treatment through wetland plants
 - **Sand filters**: Effluent passes through sand for additional filtration
 
 ## Composting Toilets
@@ -105,8 +106,8 @@ The Humanure system, developed by Joseph Jenkins, is a DIY composting toilet app
 
 1. Use a 5-gallon bucket with a toilet seat lid as the toilet
 2. After each use, add a handful of sawdust, peat moss, or other carbon material
-3. When the bucket is full, empty it into an outdoor compost bin
-4. The compost bin is managed like any other compost pile, maintaining proper carbon-nitrogen balance
+3. When the bucket is full, empty it into an outdoor [[query-how-do-i-start-a-worm-compost-bin-for-my-garden]]
+4. The compost bin is managed like any other [[mushroom-cultivator-compost-pile-management]], maintaining proper carbon-nitrogen balance
 5. After 1-2 years of composting, the material is safe to use on ornamental plants (not food crops)
 6. NEVER use fresh compost on food crops — complete thermophilic composting is essential for pathogen kill
 
@@ -124,7 +125,7 @@ The Humanure system, developed by Joseph Jenkins, is a DIY composting toilet app
 
 - Maintain thermophilic temperatures (120F+) for at least 3 days
 - Let finished compost age for 6-12 months before use
-- Use only on ornamental plants, fruit trees, or buried in food gardens
+- Use only on ornamental plants, [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], or buried in food gardens
 - Hand washing is essential after handling
 - Local regulations vary — some prohibit humanure composting
 
@@ -138,60 +139,10 @@ Greywater (from sinks, showers, laundry) makes up 50-80% of household wastewater
 |--------|-------------------|---------------------|
 | Bathroom sink | Low | Easy |
 | Shower/bath | Low-Moderate | Easy |
-| Washing machine | Moderate | Moderate |
+| [[cervantes-washing-machine-hash]] | Moderate | Moderate |
 | Kitchen sink | High (grease, food) | Difficult |
 
 ### Simple Greywater Systems
-
-**Laundry-to-Landscape**
-- Washing machine discharge hose runs directly to mulch basins around plants
-- No permit required in many jurisdictions
-- Use biodegradable, phosphate-free detergent
-- Do not use with diapers or for washing soiled items
-
-**Branch Drain System**
-- Greywater from shower and bathroom sink flows through a single pipe
-- Splits to multiple mulch basins or a mulch-filled trench
-- Simple gravity flow, no pumps needed
-- 1-inch pipe minimum to prevent clogging
-
-### Branched Drain Greywater System (Simplest Permitted System)
-
-1. All greywater sources drain to a single 3-inch pipe
-2. Pipe splits into multiple 1.5-inch branches using a distribution box
-3. Each branch feeds a mulch basin around a tree or shrub
-4. Basins are filled with wood chip mulch to filter and distribute water
-5. No pumps, no electricity, no moving parts
-
-### Constructed Wetland
-
-For higher-quality treatment:
-1. Greywater flows into a lined, gravel-filled basin
-2. Wetland plants (cattails, reeds, irises) grow in the gravel
-3. Plant roots and gravel bacteria treat the water
-4. Treated water can be used for surface irrigation
-5. Produces beautiful landscape feature
-6. Handles larger volumes than simple mulch basins
-
-### Greywater Guidelines
-
-- Never store greywater for more than 24 hours (pathogens multiply rapidly)
-- Do not use on root vegetables or leafy greens (use on fruit trees, ornamentals)
-- Use biodegradable soaps and cleaners only
-- Do not send greywater with bleach or harsh chemicals to plants
-- Filter out hair and lint before distribution
-- Mulch basins should be 2-3 feet deep and filled with wood chips
-
-## System Comparison
-
-| System | Cost | Maintenance | Water Use | Compost Output | Code Compliance |
-|--------|------|------------|-----------|---------------|----------------|
-| Conventional septic | $5K-15K | Low (pump every 3-5 yr) | Normal | None | Widely accepted |
-| Composting toilet | $900-5K | Moderate (empty every 2-4 wk) | None | Yes | Varies |
-| Humanure | $50-200 | Moderate (empty daily) | None | Yes | Often prohibited |
-| Greywater simple | $100-500 | Low | Reuses 50-80% | N/A | Varies |
-| Greywater wetland | $1K-5K | Low-Moderate | Reuses 50-80% | N/A | Varies |
-
 ## See Also
 
 - [[homestead-water-purification]]

@@ -1,5 +1,5 @@
 ---
-title: Light Schedule Cannabis
+title: query-best-light-schedule-for-cannabis Cannabis
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -11,13 +11,13 @@ tags: [cannabis]
 # Light Schedule Cannabis
 
 The light schedule (also called the photoperiod or day/night cycle) is one of the most
-powerful tools available to indoor cannabis growers. By controlling the hours of light
+powerful tools available to [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]] growers. By controlling the hours of light
 and darkness, growers can maintain [[flowering-phase-cannabis]], and manage the entire growth cycle of photoperiod-sensitive cannabis
 varieties.
 
 ## Vegetative Light Schedule
 
-Vegetative growth is maintained by providing 16 or more hours of light per day. Research
+[[cannabis-vegetative-growth-stage]] is maintained by providing 16 or more hours of light per day. Research
 shows that vegetative plants grow faster under 24 hours of continuous light. Cannabis
 will continue vegetative growth indefinitely (theoretically forever) as long as 18 or
 more hours of light are maintained. The 18/6 (18 hours light, 6 hours dark) schedule is
@@ -42,7 +42,7 @@ period can revert plants to vegetative growth, stress them, or trigger [[autoflo
 
 Running lights 18-24 hours per day during vegetative growth consumes significant
 electricity. A vegetative/cloning room of about one-quarter the size of the flowering
-room, lit with lower-wattage fluorescent or metal halide lamps, can supply enough
+room, lit with lower-wattage fluorescent or [[cervantes-metal-halide-lighting-systems]] lamps, can supply enough
 clones for the flowering room while reducing energy costs.
 
 ## Light Schedule and Light Deprivation
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

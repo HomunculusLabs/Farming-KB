@@ -1,5 +1,5 @@
 ---
-title: Indigenous Microorganisms
+title: beneficial-indigenous-microorganisms-bim
 created: 2026-04-28
 type: species
 tags: [knf, imo, microorganism-collection, soil-health, cho-global]
@@ -18,10 +18,10 @@ sources: [/Usenatural-farmingaw/papers/chos-global-natural-farming.md]
 
 ### IMO 3: Enrichment
 
-The microbial community is enriched and diversified with additional nutrients:
+The [[edaphic-factors-microbial-community-structure]] is enriched and diversified with additional nutrients:
 
 1. **Building layers:** IMO 2 is layered in a larger container with approximately 1 cm of IMO 2 per 1 cm of garden soil (from the same collection site), alternating layers. Thin layers of leaf mold or forest litter may be added.
-2. **Optional enrichment:** A small amount of diluted brown sugar solution (1:10 ratio) or FPJ (Fermented Plant Juice) may be sprinkled between layers to provide additional carbon sources.
+2. **Optional enrichment:** A small amount of diluted brown sugar solution (1:10 ratio) or FPJ ([[bionutrients-lab-fermented-plant-juice-fpj]]) may be sprinkled between layers to provide additional carbon sources.
 3. **Incubation:** Covered with breathable material and kept for 7–10 days, with periodic mixing.
 4. **Completion:** The mixture is richly colonized with diverse microorganisms and has a complex, earthy-sweet aroma.
 
@@ -60,8 +60,8 @@ Regular IMO application contributes to soil health through:
 
 * **Improved soil structure:** Fungal mycelium and bacterial exopolysaccharides bind soil particles into stable aggregates, improving porosity, water infiltration, and root penetration
 * **Enhanced organic matter decomposition:** Accelerated breakdown of crop residues, compost, and other organic inputs, releasing nutrients in plant-available forms
-* **Disease suppression:** Competitive exclusion of plant pathogens, antibiotic production by actinomycetes, and induction of systemic resistance in plants
-* **Nutrient cycling:** Solubilization of phosphorus, potassium, and micronutrients from mineral sources; biological nitrogen fixation by free-living bacteria
+* **[[aact-disease-suppression-mechanisms-ingham]]:** Competitive exclusion of plant pathogens, antibiotic production by actinomycetes, and induction of systemic resistance in plants
+* **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]:** Solubilization of phosphorus, potassium, and micronutrients from mineral sources; [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation by free-living bacteria
 * **Mycorrhizal support:** IMO preparations may contain or support mycorrhizalknf-preparationses that form symbiotic associations with plant roots, extending the effective root surface area for nutrient and water uptake
 
 ### Integration with Other KNF Inputs

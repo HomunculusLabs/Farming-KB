@@ -1,5 +1,5 @@
 ---
-title: Fungal Parasites and Predators of Rotifers and Invertebrates
+title: bloomfield-fungal-parasites-of-insects and Predators of Rotifers and Invertebrates
 created: 2026-04-26
 tags:
   - mycology
@@ -18,9 +18,9 @@ type: concept
 
 Fungi that attack microscopic invertebrates, particularly
 rotifers and nematodes, represent a diverse but poorly known
-component of soil and aquatic [[fungal-nematode-feeding-interactions]] and
-[[fungal-nematode-feeding-interactions]]
-- [[fungal-parasites-invertebrates]]
+component of soil and aquatic fungal-nematode-feeding-interactions and
+fungal-nematode-feeding-interactions
+- fungal-parasites-invertebrates
 - [[zoopagales-dimargaritales-zygomycete-mycoparasites]]
 - [[fungal-biodiversity-ecosystem-function]]
 ## Practical Applications
@@ -100,4 +100,9 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[fungal-parasites-and-predators]]
+- [[fungal-parasites]]
+- [[fungal-rotifer-parasites-predators]]
+- [[fungal-parasites-predators-nematodes]]
+- [[fungal-parasites-living-plants-estimating-diversity]]

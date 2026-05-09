@@ -21,7 +21,7 @@ type: comparison
 
 # Black Soldier Fly Farming vs Vermicomposting
 
-Both Black Soldier Fly (BSF) larvae and red wiggler worms (*Eisenia fetida*) are powerful bio-conversion tools for turning organic waste into valuable products. They serve overlapping but distinct roles on the homestead or farm. This comparison helps you choose the right system — or combine both — based on your goals, resources, and climate.
+Both Black Soldier Fly (BSF) larvae and red wiggler worms (*Eisenia fetida*) are powerful bio-conversion tools for turning organic waste into valuable products. They serve overlapping but distinct roles on the homestead or farm. This comparison helps you [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] system — or combine both — based on your goals, resources, and climate.
 
 ## Quick-Reference Comparison Table
 
@@ -29,16 +29,16 @@ Both Black Soldier Fly (BSF) larvae and red wiggler worms (*Eisenia fetida*) are
 |---|---|---|
 | **Organism** | Black Soldier Fly (*Hermetia illucens*) | Red Wiggler (*Eisenia fetida*) |
 | **Processing Speed** | Very fast; larvae consume waste in 2–3 weeks | Slow to moderate; 2–6 months to full compost |
-| **Suitable Feedstocks** | Fruit/veg scraps, manure, meat, dairy, restaurant waste | Fruit/veg scraps, paper, coffee grounds, aged manure |
+| **Suitable Feedstocks** | Fruit/veg scraps, manure, meat, dairy, restaurant waste | Fruit/veg scraps, paper, [[oyster-mushroom-coffee-grounds-cultivation]], aged manure |
 | **Protein Output** | High — 35–45% protein in dried larvae (livestock/aquaculture feed) | None — worms are not typically harvested for protein |
 | **Space Requirements** | Moderate; vertical bins work well, needs pupation space | Low — shallow bins work in small spaces (apartments, under sinks) |
 | **Climate Sensitivity** | Adult flies need warm temps (25–30°C); larvae tolerate broader range | Prefers 15–25°C; freezes or overheats easily; very moisture-sensitive |
 | **Startup Cost** | Low–moderate ($30–$150 for a small bin colony) | Very low ($20–$60 for a starter bin with worms) |
-| **Maintenance Effort** | Moderate; requires regular harvesting, moisture management, fly containment | Low–moderate; feeding, moisture monitoring, occasional turning |
+| **Maintenance Effort** | Moderate; requires regular harvesting, [[mushroom-casing-moisture-management]], fly containment | Low–moderate; feeding, moisture monitoring, occasional turning |
 | **Odor Management** | Good; larvae suppress odor but bins can smell during prepupation | Excellent when managed well; bad when overfed or too wet |
 | **End Product** | Frass (insect castings) + high-protein larvae biomass | Vermicast (worm castings) — premium soil amendment |
 | **Scalability** | Excellent; commercial-scale systems well established | Good for small-to-medium scale; harder to scale profitably |
-| **Best Use Cases** | Protein production, manure management, rapid waste processing | Soil building, indoor composting, kitchen waste recycling |
+| **Best Use Cases** | [[fungal-single-cell-protein-production]], manure management, rapid waste processing | Soil building, indoor composting, kitchen waste recycling |
 
 ## Processing Speed
 
@@ -60,7 +60,7 @@ Vermicomposting produces no harvestable protein product. The worms remain in the
 
 ## End Products: Frass vs Castings
 
-Both systems produce nutrient-rich soil amendments, but they differ in character. BSF frass (the residue left after larvae consume waste) is a dry, granular material rich in chitin, nitrogen, and trace minerals. The chitin content triggers plant immune responses and may help suppress soil pathogens.
+Both systems produce nutrient-rich soil amendments, but they differ in character. BSF frass (the residue left after larvae consume waste) is a dry, granular material rich in chitin, nitrogen, and [[dynamic-accumulator-plants-trace-minerals]]. The chitin content triggers plant immune responses and may help suppress soil pathogens.
 
 Vermicast is widely regarded as one of the finest soil amendments available. It has excellent water-holding capacity, a balanced NPK profile, high microbial diversity, and plant growth hormones. For garden beds, potting mixes, and seed starting, vermicast is hard to beat.
 
@@ -92,7 +92,7 @@ Well-managed worm bins are virtually odorless. The key is not overfeeding — bu
 
 BSF farming scales well from a 5-gallon bucket to multi-ton commercial facilities. The larvae's fast lifecycle (6 weeks egg to adult) allows rapid colony expansion. Commercial BSF operations now supply feed mills and pet food manufacturers globally.
 
-Vermicomposting scales effectively to medium operations (community gardens, small farms) but becomes labor-intensive and space-prohibitive at large scale without significant mechanization. Flow-through bins help, but harvesting and managing large worm populations requires ongoing labor.
+Vermicomposting scales effectively to medium operations ([[gaias-garden-creating-community-gardens]], small farms) but becomes labor-intensive and space-prohibitive at large scale without significant mechanization. Flow-through bins help, but harvesting and managing large worm populations requires ongoing labor.
 
 ## Practical Recommendations
 
@@ -124,5 +124,7 @@ Neither system is objectively superior — they serve different functions. BSF e
 
 ## See Also
 
+- [[comparison-snail-farming-vs-vermicomposting]]
+
 - [[composting]]
-- [[permaculture]]
+- permaculture

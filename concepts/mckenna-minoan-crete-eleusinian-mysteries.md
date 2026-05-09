@@ -1,5 +1,5 @@
 ---
-title: Minoan Crete and the Eleusinian Mysteries
+title: Minoan Crete and the mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries
 created: 2026-04-28
 tags:
   - mckenna
@@ -19,7 +19,7 @@ type: concept
 
 # Minoan Crete and the Eleusinian Mysteries
 
-Minoan Crete represents the last great flowering of the partnership society in the
+Minoan Crete represents the last great flowering of the [[mckenna-dominator-vs-partnership-society-model]] in the
 ancient Mediterranean world. For nearly four thousand years, from approximately
 6000 B.C.E. until its final absorption into the Mycenaean world in the fifteenth
 century B.C.E., Crete harbored a civilization where the Great Goddess remained
@@ -77,12 +77,12 @@ He killed it with a stone, whereupon a second snake appeared, disappeared, and
 returned with an herb which it placed on the dead snake, immediately restoring
 it to life. Polyidos took the same herb and applied it to the body of Glaukos,
 thereby raising him from the dead. The name Glaukos means "blue-gray," which is
-significant because the flesh of Stropharia cubensis and other psilocybin
+significant because the flesh of [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] and other psilocybin
 mushrooms has the property of staining a bluish color when bruised or broken.
 
 Glaukos, the blue-gray one, fell into a honey pot and was preserved there until
 the time of his resurrection. Honey has long been used to preserve psilocybin
-containing mushrooms in Mexico. All the motifs of a barely remembered mushroom
+[[psilocybin-containing-mushrooms-in-us]] in Mexico. All the motifs of a barely remembered mushroom
 cult are present: themes of death and rebirth, cattle, serpents with herbal
 knowledge, and a blue-gray child preserved in honey.
 
@@ -107,7 +107,7 @@ memory for the rest of their life.
 
 Gordon Wasson, Albert Hofmann, and Carl Ruck proposed that the source of
 intoxication at Eleusis was an ergotized beer brewed from a strain of ergot
-fungus. Claviceps purpurea, a small fungus that infects edible grains, produces
+fungus. [[bloomfield-ergot-claviceps-purpurea-ergotism]], a small fungus that infects edible grains, produces
 ergot, a source of powerful alkaloids capable of causing hallucination. The
 purple traditionally associated with the robe of Demeter may signify the
 distinctive purple color of the sclerotia, the ergot of commerce.
@@ -118,7 +118,7 @@ Wasson and Hofmann's theory is bold and well argued. The notion that Eleusinian
 rites were celebrated with ergotized beer is entirely consistent with the
 notion that they had historical roots in Minoan Crete.
 
-Robert Graves alternatively suggested that psilocybin mushrooms constituted the
+Robert Graves alternatively suggested that [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] constituted the
 mystery. He proposed that recipes in classical sources for the preparation of
 the ritual Eleusinian beverage contained ingredients whose first letters could
 be arranged to spell out the word "mushroom" through an ogham cipher.
@@ -138,6 +138,8 @@ sank at last into that chthonic realm reserved for forgotten religions. Only a
 dim echo of the old ways continued to reverberate in the form of such
 underground concerns as alchemy, hermeticism, midwifery, and herbalism.
 ## See Also
+
+- [[mckenna-minoan-crete-eleusinian]]
 
 - [[mckenna-archaic-revival]]
 - [[mckenna-agriculture-and-the-fall-from-paradise]]

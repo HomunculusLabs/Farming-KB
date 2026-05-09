@@ -1,10 +1,10 @@
 ---
-title: Hallucinogenic Mushroom Dose and Effects
+title: emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative Dose and Effects
 tags: [pharmacology, dosing, effects, subjective-experience, psilocybin, mushrooms, toxicity]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - EMCDDA Thematic Paper: Hallucinogenic Mushrooms, An Emerging Trend Case Study (2006)created: 2026-05-07
+  - EMCDDA Thematic Paper: emcdda-hallucinogenic-mushrooms-emerging-trend-europe, An Emerging Trend Case Study (2006)created: 2026-05-07
 type: concept
 
 created: 2026-05-07
@@ -18,7 +18,7 @@ The effects of hallucinogenic mushrooms depend on dose, individual sensitivity, 
 
 ## Potency Variation
 
-Mushroom potency depends on multiple factors:
+[[pf-tek-mushroom-potency-and-age-relationship]] depends on multiple factors:
 
 - **Species and variety**: [[psilocybe-azurescens]] and [[psilocybe-cubensis]] contains up to 0.6% psilocybin and psilocin combined.
 - **Origin and growing conditions**: substrate composition, temperature, humidity, and light exposure all influence alkaloid profiles
@@ -50,7 +50,7 @@ Psychoactive doses of pure psilocybin are estimated between **45 to 315 microgra
 
 ## Tolerance
 
-Short-term tolerance to both physical and psychological effects develops rapidly. Repeated dosing within a short period requires increasingly higher amounts to achieve similar effects. Tolerance typically dissipates after several days of abstinence, consistent with 5-HT2A receptor downregulation and recovery kinetics.
+Short-term tolerance to both physical and [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] develops rapidly. Repeated dosing within a short period requires increasingly higher amounts to achieve similar effects. Tolerance typically dissipates after several days of abstinence, consistent with 5-HT2A receptor downregulation and recovery kinetics.
 
 ## Routes of Administration
 
@@ -113,13 +113,13 @@ Bad trips are usually followed by faintness, sadness, depression, and paranoid i
 - [[hallucinogenic-mushroom-prevalence-europe]]: epidemiological patterns
 - [[psilocybe-semilanceata]] (liberty caps), found in wet grassy fields and uncultivated pastures, particularly in the UK, Norway, and Germany. Other wild European species include [[psilocybe-bohemica]], and [[psilocybe-moravica]], particularly in the Czech Republic.
 
-The risk of misidentification with toxic species such as members of the Galerina genus (which contain lethal amatoxins, the same toxins found in the death cap) represents a serious health hazard for wild foragers. This risk is a significant barrier to widespread wild harvesting and supports the predominance of cultivated mushrooms in the commercial market.
+The risk of misidentification with toxic species such as members of the Galerina genus (which contain lethal amatoxins, the same toxins found in the death cap) represents a serious health hazard for wild foragers. This risk is a significant barrier to widespread wild harvesting and supports the predominance of [[fungi-cultivated-mushrooms-pathogens-competitors]] in the commercial market.
 
 ## Interaction with Other Substances
 
 The effects of hallucinogenic mushrooms can be significantly altered by concurrent use of other substances:
 
-- **Alcohol**: may increase nausea and reduce the clarity of the psychedelic experience. One UK fatality involved mushrooms consumed with alcohol
+- **Alcohol**: may increase nausea and reduce the clarity of the [[leary-psychedelic-experience-bardo-mapping]]. One UK fatality involved mushrooms consumed with alcohol
 - **Cannabis**: commonly combined; may intensify visual effects but also increase anxiety and confusion
 - **Stimulants (amphetamine, cocaine, MDMA)**: can increase cardiovascular strain and create unpredictable psychological effects
 - **MAO inhibitors**: theoretically could affect metabolism of tryptamines, though specific interactions with psilocybin are not well documented

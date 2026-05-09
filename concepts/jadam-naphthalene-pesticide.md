@@ -12,11 +12,11 @@ sources:
 
 ## Overview
 
-Naphthalene pesticide is one of Youngsang Cho's documented inventions within the JADAM organic farming system. It is listed among the major inventions in JADAM organic farming alongside the wetting agent, sulfur, liquid fertilizer, microorganism solution, and all numbered pesticide recipes. Naphthalene (C10H8) is a naturally occurring aromatic hydrocarbon with well-known insecticidal and repellent properties that has been used for pest control for over a century.
+Naphthalene pesticide is one of Youngsang Cho's documented inventions within the JADAM [[coleman-deep-organic-farming-philosophy]] system. It is listed among the major inventions in JADAM organic farming alongside the [[jadam-nutrient-management-wetting-agent-and-calcium]], sulfur, liquid fertilizer, [[jadam-microorganism-solution-culturing]], and all numbered pesticide recipes. Naphthalene (C10H8) is a naturally occurring aromatic hydrocarbon with well-known insecticidal and repellent properties that has been used for pest control for over a century.
 
 ## What is Naphthalene
 
-Naphthalene is a polycyclic aromatic hydrocarbon with the following characteristics:
+Naphthalene is a [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbon with the following characteristics:
 
 - A white crystalline solid with a characteristic mothball odor
 - Found naturally in coal tar and petroleum deposits
@@ -54,13 +54,13 @@ These properties make it particularly suited for enclosed spaces (greenhouses, s
 
 ## Context in JADAM System
 
-Naphthalene pesticide represents JADAM's philosophy of finding simple, low-cost solutions using commonly available materials. While the numbered JNP recipes form the core of the crop protection system, inventions like naphthalene pesticide demonstrate JADAM's broader research into diverse pest control methods. It complements the [[jadam-herbal-smoker]] approach — both use gaseous or volatile compounds to reach pests in enclosed or hard-to-reach spaces. For foliar crop spraying, the standard [[jadam-natural-pesticide-jnp]] - Primary JNP crop protection system
+Naphthalene pesticide represents JADAM's philosophy of finding simple, low-cost solutions using commonly available materials. While the numbered JNP recipes form the core of the crop protection system, inventions like naphthalene pesticide demonstrate JADAM's broader research into diverse pest control methods. It complements the [[jadam-herbal-smoker]] approach — both use gaseous or [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] to reach pests in enclosed or hard-to-reach spaces. For foliar crop spraying, the standard [[jadam-natural-pesticide-jnp]] - Primary JNP crop protection system
 - [[jadam-pest-control-recipes]] - All numbered pesticide recipes
 - [[jadam-concentration-cautions]] - Safety and dosage guidelines
 - [[jadam-natural-pest-control-methods]]
 
 ## Historical Use of Naphthalene in Agriculture
-Naphthalene has a long history of use as a pesticide and repellent extending well before the development of JADAM's method. In the early twentieth century, naphthalene was widely employed in granary and storage facility management throughout Europe and North America. Grain storage operators placed naphthalene crystals or mothballs among stored wheat, corn, and other cereals to prevent infestation by weevils (Sitophilus spp.), grain borers (Rhyzopertha dominica), and Indian meal moths (Plodia interpunctella). The vapor pressure of naphthalene at room temperature is sufficient to maintain insecticidal concentrations within enclosed storage spaces for several months, making it an effective passive protection method.
+Naphthalene has a long history of use as a pesticide and repellent extending well before the development of JADAM's method. In the early [[coleman-louis-savier-twentieth-century-maraicher]], naphthalene was widely employed in granary and storage facility management throughout Europe and North America. Grain storage operators placed naphthalene crystals or mothballs among stored wheat, corn, and other cereals to prevent infestation by weevils (Sitophilus spp.), grain borers (Rhyzopertha dominica), and Indian meal moths (Plodia interpunctella). The vapor pressure of naphthalene at room temperature is sufficient to maintain insecticidal concentrations within enclosed storage spaces for several months, making it an effective passive protection method.
 In horticultural applications, naphthalene-based soil treatments were used experimentally in the mid-twentieth century for nematode suppression. Research demonstrated that naphthalene applied to soil at appropriate rates could reduce populations of root-knot nematodes (Meloidogyne spp.) by interfering with their chemoreception and movement through the soil matrix. However, the development of more effective synthetic nematicides such as methyl bromide and later organophosphate compounds largely displaced naphthalene from mainstream agricultural use. JADAM's revival of naphthalene for agricultural purposes reflects a broader return to simpler, less toxic, and more affordable pest management strategies.
 
 ## Mode of Action and Toxicological Profile

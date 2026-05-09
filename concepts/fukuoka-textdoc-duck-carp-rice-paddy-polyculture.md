@@ -23,7 +23,7 @@ type: concept
 [[masanobu-fukuoka|Fukuoka]] argues damages soil aggregation and kills microbial life.
 
 ### Fertilization
-Duck droppings provide a continuous, evenly distributed source of organic nutrients throughout the growing season. Unlike concentrated applications of chemical fertilizer, this nutrient input is released gradually as the ducks feed and process the biomass in the field.
+Duck droppings provide a continuous, evenly distributed source of organic nutrients throughout the [[savory-growing-season-and-non-growing-season-management]]. Unlike concentrated applications of chemical fertilizer, this nutrient input is released gradually as the ducks feed and process the biomass in the field.
 
 ### Protein Production
 Beyond their services to the rice crop, the ducks themselves become a product of the field. Fukuoka notes that this integration allows the farmer to "produce good protein foods" alongside the grain harvest, effectively doubling the productive output of the same unit of land.
@@ -36,21 +36,21 @@ Young carp released into the flooded paddy provide additional benefits:
 Carp feed on aquatic weeds and algae that grow in the standing water, complementing the ducks' control of surface and emergent weeds.
 
 ### Nutrient Cycling
-Carp process organic matter at the bottom of the water column, breaking down decomposing plant material and recycling nutrients that would otherwise be locked in the sediment. Their excretions return these nutrients in forms available to both the rice plants and the planktonic community.
+Carp process [[hamilton-composting-and-organic-matter-management]] at the bottom of the water column, breaking down decomposing plant material and recycling nutrients that would otherwise be locked in the sediment. Their excretions return these nutrients in forms available to both the rice plants and the planktonic community.
 
 ### Additional Protein
 Like the ducks, the carp represent a direct harvestable product. The flooded rice paddy becomes a dual-purpose system producing both grain and fish.
 
 ## Advantages Over Manure Application
 
-Fukuoka presents this integrated approach as preferable to applying chicken manure or other organic fertilizers:
+Fukuoka presents this integrated approach as preferable to applying chicken manure or other [[hamilton-organic-fertilizers-and-plant-nutrition]]:
 
 | Feature | Manure Application | Duck/Carp Integration |
 |---------|-------------------|----------------------|
 | Distribution | Requires labor to spread | Self-distributing |
 | Timing | Applied at specific intervals | Continuous throughout season |
 | Nutrient release | Can be too concentrated, harming seedlings | Gradual and buffered |
-| Weed control | None | Active biological control |
+| Weed control | None | Active [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] |
 | Pest control | None | Active predation |
 | Soil aeration | None | Biological tilling |
 | Protein output | None | Duck meat, eggs, fish |
@@ -87,9 +87,9 @@ This multi-species system is more stable than monoculture rice because pest popu
 
 The duck-carp system integrates naturally with Fukuoka's intermittent irrigation approach. During the first half of the rice growing season, the field is not continuously flooded. The soil moisture level of approximately eighty percent is adequate for rice growth while allowing duck and carp access to shallow water areas.
 
-As the rice approaches the heading stage and water requirements increase, deeper flooding provides more habitat for the aquatic animals. Fukuoka makes a point of "not holding water for more than five days at a stretch" during the growing season, with intermittent drainage to grow "as hardy plants as possible."
+As the rice approaches the heading stage and water requirements increase, deeper flooding provides more habitat for the [[fungi-aquatic-animals-pathogens-parasites]]. Fukuoka makes a point of "not holding water for more than five days at a stretch" during the growing season, with intermittent drainage to grow "as hardy plants as possible."
 
-This periodic drainage also benefits the ducks and carp by preventing oxygen depletion in stagnant water and allowing natural decomposition of organic matter. The alternating wet-dry cycle mimics the natural hydrology of floodplain ecosystems where rice and aquatic animals co-evolved.
+This periodic drainage also benefits the ducks and carp by preventing oxygen depletion in stagnant water and allowing [[fukuoka-microbes-scavengers-natural-decomposition-biosystem]] of organic matter. The alternating wet-dry cycle mimics the natural hydrology of floodplain ecosystems where rice and aquatic animals co-evolved.
 
 ## Comparison with Industrial Rice Production
 

@@ -1,5 +1,5 @@
 ---
-title: "Cob vs Timber Frame Construction"
+title: "comparison cob vs timber frame Frame Construction"
 created: 2026-04-28
 tags:
   - natural-building
@@ -9,13 +9,14 @@ tags:
   - owner-building
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
 # Cob vs Timber Frame Construction
 
-Cob and timber frame represent two of the oldest and most enduring building traditions in human history, each taking a fundamentally different approach to creating shelter from natural materials. Cob builds monolithic walls from earth, sand, and straw — a continuous sculpted mass that serves as both structure and enclosure. Timber frame builds a skeletal framework of large timbers joined by wooden pegs, then fills the spaces between with insulation and cladding. Both methods have experienced a strong revival within the natural building movement, and they can even be combined, but choosing between them requires understanding their distinct strengths, limitations, and building logics.
+Cob and timber frame represent two of the oldest and most enduring building traditions in human history, each taking a fundamentally different approach to creating shelter from natural materials. Cob builds monolithic walls from earth, sand, and straw — a continuous sculpted mass that serves as both structure and enclosure. Timber frame builds a skeletal framework of large timbers joined by wooden pegs, then fills the spaces between with insulation and cladding. Both methods have experienced a strong revival within the [[query-how-do-i-choose-a-natural-building-method-for-my-climate]] movement, and they can even be combined, but choosing between them requires understanding their distinct strengths, limitations, and building logics.
 
 ## Structural Philosophy
 
@@ -27,11 +28,11 @@ Timber frame is a **skeletal post-and-beam system**. Large timbers — posts typ
 
 Cob requires three basic ingredients: subsoil with fifteen to thirty percent clay, sharp sand, and straw. These materials are available on nearly every building site worldwide, often literally underfoot. A jar test and ribbon test confirm suitable soil, and mixing is done by foot on a tarp for small projects or in a cement mixer for larger ones. The total material cost for cob walls is extremely low — often under five dollars per square foot of wall area — because the primary material is subsoil from the site.
 
-Timber frame requires large-dimension timbers of specific species: oak for traditional strength and rot resistance, Douglas fir for straight beams, eastern white pine for ease of working, or hemlock and cedar for specific applications. Timbers must be sustainably harvested and can be obtained from local sawmills, forest management operations, or salvage sources. Air-dried timber aged one year or more is ideal. Material costs are substantially higher than cob — typically twenty to fifty dollars per square foot of floor area for the frame alone, depending on species and sourcing.
+Timber frame requires large-dimension timbers of specific species: oak for traditional strength and rot resistance, Douglas fir for straight beams, eastern white pine for ease of working, or hemlock and cedar for specific applications. Timbers must be sustainably harvested and can be obtained from local sawmills, [[mollison-pdc-forest-management-products]] operations, or salvage sources. Air-dried timber aged one year or more is ideal. Material costs are substantially higher than cob — typically twenty to fifty dollars per square foot of floor area for the frame alone, depending on species and sourcing.
 
 ## Thermal Performance
 
-Cob provides excellent thermal mass at roughly R-1 per inch, meaning a twenty-four-inch wall achieves approximately R-24. However, thermal mass and insulation are fundamentally different properties. Cob stores heat beautifully and releases it slowly, making it ideal for passive solar designs where a south-facing cob wall absorbs daytime sun and radiates warmth at night. In cold climates without abundant solar gain, cob alone may provide insufficient resistance to heat loss, requiring supplemental insulation such as a straw bale north wall or an interior insulation layer.
+Cob provides excellent thermal mass at roughly R-1 per inch, meaning a twenty-four-inch wall achieves approximately R-24. However, thermal mass and insulation are fundamentally different properties. Cob stores heat beautifully and releases it slowly, making it ideal for [[comparison-passive-solar-vs-earth-sheltered]] designs where a south-facing cob wall absorbs daytime sun and radiates warmth at night. In cold climates without abundant solar gain, cob alone may provide insufficient resistance to heat loss, requiring supplemental insulation such as a straw bale north wall or an interior insulation layer.
 
 Timber frame with natural infill offers more configurable thermal performance. Straw bale infill achieves R-30 to R-45, light straw-clay achieves R-24 to R-32, and hempcrete achieves R-16 to R-30 depending on thickness. The timber frame itself creates thermal bridges at each post and beam, but these can be minimized by wrapping the exterior of the frame in a continuous insulation layer. For cold climates, timber frame with straw bale infill typically outperforms cob alone in total heating demand, though cob paired with passive solar design can match or exceed it in sunny winter climates.
 
@@ -55,7 +56,7 @@ Timber frames can last equally long — medieval timber frame barns and houses s
 
 ## Climate Suitability
 
-Cob excels in dry to moderate climates where its thermal mass can be leveraged for passive solar heating and its vulnerability to moisture is manageable. In very wet climates, cob requires extraordinary protection — wide overhangs, lime plaster exteriors, excellent drainage, and vigilant maintenance. In extremely cold climates without reliable winter sun, cob's modest insulation value may be inadequate as a sole wall system.
+Cob excels in dry to moderate climates where its thermal mass can be leveraged for passive solar heating and its vulnerability to moisture is manageable. In very wet climates, cob requires extraordinary protection — wide overhangs, [[comparison-lime-plaster-vs-earthen-plaster]] exteriors, excellent drainage, and vigilant maintenance. In extremely cold climates without reliable winter sun, cob's modest insulation value may be inadequate as a sole wall system.
 
 Timber frame with appropriate infill adapts to virtually any climate. Straw bale infill provides the insulation needed for cold northern winters, while light straw-clay or hempcrete suits moderate and mixed climates. In hot humid climates, timber frame with breathable natural infill and elevated floors performs well. The versatility of the infill choice makes timber frame the more climate-adaptable system overall.
 
@@ -79,7 +80,7 @@ Many of the best natural buildings combine cob and timber frame. A timber frame 
 
 Moisture is the primary threat to both building systems, but the mechanisms and remedies differ. Cob walls are hygroscopic — they absorb and release moisture naturally, buffering indoor humidity. This is an advantage in occupied buildings, as cob walls help maintain comfortable humidity levels without mechanical systems. However, if moisture loading exceeds the wall's capacity to dry, cob softens, erodes, and eventually fails. The critical vulnerability points are the wall base where splash-back from rain strikes the ground, and the roof line where leaks or inadequate overhangs allow prolonged wetting.
 
-Timber frame structures face moisture risks primarily at joints and end grain, where water can penetrate and promote fungal decay. The mortise-and-tenon joints, while structurally elegant, can trap moisture in the joint pocket if not detailed with adequate drainage and ventilation. Timber frames in humid climates benefit from air-dried rather than green timber, as the initial drying period for green timber can coincide with conditions that promote mold growth. Post bottoms resting on stone or concrete foundations should be separated by moisture barriers, and all timber-to-ground connections must allow air circulation.
+Timber frame structures face moisture risks primarily at joints and end grain, where water can penetrate and promote fungal decay. The mortise-and-tenon joints, while structurally elegant, can trap moisture in the joint pocket if not detailed with adequate drainage and ventilation. Timber frames in humid climates benefit from air-dried rather than green timber, as the initial drying period for green timber can coincide with conditions that promote mold growth. Post bottoms resting on stone or concrete foundations should be separated by moisture barriers, and all timber-to-ground connections must allow [[stamets-growing-room-air-circulation-co2-management]].
 
 Maintenance for cob is straightforward and intuitive. Earthen plaster can be patched by mixing a small batch of the same clay-sand-straw proportion and troweling it into damaged areas. Lime wash on exterior surfaces should be reapplied every two to five years. Annual spring inspections catch erosion at wall bases before it becomes structural. The owner can perform virtually all cob maintenance with basic tools and materials.
 

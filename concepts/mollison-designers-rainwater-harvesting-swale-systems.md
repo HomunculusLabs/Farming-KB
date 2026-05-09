@@ -1,5 +1,5 @@
 ---
-title: Rainwater Harvesting and Swale Systems
+title: comparison-xeriscaping-guide-vs-rainwater-harvesting-systems and Swale Systems
 created: 2026-04-28
 tags:
   - permaculture
@@ -16,7 +16,7 @@ type: concept
 
 # Rainwater Harvesting and Swale Systems
 
-Swales are one of the most important earthworks in permaculture design,
+Swales are one of the most important earthworks in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]],
 described extensively by Bill Mollison in Permaculture: A Designers'
 Manual (Chapter 2: Concepts and Themes in Resource Design, and Chapter
 8: Water in the Landscape). A swale is a level ditch and berm system
@@ -31,7 +31,7 @@ berm and below.
 Swales follow the keyline principle of working with natural contour lines
 to manage water movement across slopes. A well-designed swale system
 transforms runoff into soil moisture, reducing erosion and drought stress
-while building soil organic matter and fertility over time. The design
+while building soil [[hamilton-composting-and-organic-matter-management]] and fertility over time. The design
 must account for rainfall intensity, soil infiltration rates, slope
 gradient, and the total catchment area contributing runoff to each swale.
 
@@ -129,15 +129,18 @@ Swales function as part of an integrated water harvesting design that
 includes dams, ponds, contour strips, gabions, and keyline cultivation.
 In a full permaculture design, swales feed water into storage systems
 or direct it across the landscape to maximize infiltration and minimize
-erosion. They are a primary tool in broadscale landscape rehabilitation
+erosion. They are a primary tool in broadscale [[mollison-designers-landscape-rehabilitation-degraded-mined-land]]
 and reforestation projects.
 
 ## See Also
 
 - mollison designers water in the landscape
 - mollison designers keyline design
-- mollison designers earthworks and ponds
-- mollison designers contour planting
-- [[mollison-designers-duck-pond-integrated-systems]]
+- mollison [[mollison-designers-earthworks-for-erosion-control]] and ponds
+- mollison [[mollison-designers-contour-surveying-a-frame-bunyip-level]] planting
+- mollison-designers-duck-pond-integrated-systems
 - [[rainwater-harvesting-systems]]
 - [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
+- [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
+- [[building-soil]]
+- [[water-management]]

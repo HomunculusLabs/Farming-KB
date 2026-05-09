@@ -1,11 +1,12 @@
 ---
-title: Mahayana vs Hinayana Natural Farming
+title: Mahayana vs fukuoka-mahayana-and-hinayana-natural-farming Farming
 created: 2026-05-08
 tags: [fukuoka, natural-farming, philosophy, agriculture, mahayana, hinayana, scientific-farming]
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
@@ -13,7 +14,7 @@ type: concept
 
 In "The Natural Way of Farming," Masanobu Fukuoka draws on Buddhist terminology to
 categorize three distinct approaches to agriculture: **Mahayana natural farming**,
-**Hinayana natural farming**, and **scientific farming**. These three represent
+**Hinayana natural farming**, and **[[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]**. These three represent
 fundamentally different relationships between humanity and nature, occupying
 different philosophical planes.
 
@@ -21,7 +22,7 @@ different philosophical planes.
 
 Mahayana natural farming represents the absolute world — what Fukuoka calls "pure
 natural farming" or the "philosopher's way of farming." In this approach, the
-human spirit and human life blend completely with the natural order. The farmer
+human spirit and human life blend completely with the [[fukuoka-textdoc-natural-order-food-chain-unity]]. The farmer
 devotes himself entirely to the service of nature, living freely as an integral
 part of the natural world and subsisting on its bounty without resorting to
 purposeful effort.
@@ -48,7 +49,7 @@ relationship between man and nature is like that of a lover who yearns after his
 loved one and asks for her hand, but has not realized full union.
 
 Hinayana farming belongs to what Fukuoka calls "idealistic farming," encompassing
-what is commonly called natural farming and organic farming. It attempts to cast
+what is commonly called natural farming and [[coleman-deep-organic-farming-philosophy]]. It attempts to cast
 off human knowledge and action and devote itself to making the greatest possible
 use of the pure forces of nature. In contrast, scientific farming uses the powers
 of nature and adds human knowledge and action to establish a superior way of
@@ -72,9 +73,9 @@ them for him.
 ## Scientific Farming: Farming Without Nature
 
 Scientific farming represents "dialectical materialism" — the approach of
-scientific agriculture. Here, man exists in a state of contradiction: basically
+[[fukuoka-critique-scientific-agriculture-civilization]]. Here, man exists in a state of contradiction: basically
 estranged from nature, living in a totally artificial world, yet longing for a
-return to nature. Scientific farming forever wanders blindly back and forth, now
+[[emcdda-return-to-nature-megatrend-mushroom-appeal]]. Scientific farming forever wanders blindly back and forth, now
 calling upon the blessings of nature, now rejecting it in favor of human knowledge
 and action.
 

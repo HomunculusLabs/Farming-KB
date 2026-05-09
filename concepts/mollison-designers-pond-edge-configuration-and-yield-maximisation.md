@@ -1,5 +1,5 @@
 ---
-title: Pond Edge Configuration and Yield Maximisation
+title: mollison designers pond edge configuration and yield maximisation Configuration and Yield Maximisation
 created: 2026-04-26
 tags:
   - aquaculture
@@ -43,7 +43,7 @@ great potential for beneficial design.
 
 ## Crenellated Pond Edge
 
-Increasing pond margins as an edge effect, or planted along the pond
+Increasing pond margins as an [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]], or planted along the pond
 edges for fodder, can be achieved by creating an irregular or
 scalloped shoreline. The edge zone is where the greatest biological
 activity occurs: shallow water supports emergent and marginal plants,
@@ -107,9 +107,11 @@ potential to serve multiple functions simultaneously.
 
 ## Related Topics
 
-- [[mollison-pond-systems-layouts-and-connectivity]] - Pond
+- mollison-pond-systems-layouts-and-connectivity - Pond
   arrangement in the landscape
-- [[mollison-aquatic-polyculture-and-pond-culture]] - Species mixes
+- mollison-aquatic-polyculture-and-pond-culture - Species mixes
   for productive ponds
 - [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]]
-  - Nutrient management in ponds
+  - [[green-cannabis-grow-bible-nutrient-management-ppm]] in ponds
+- [[mollison-designers-wild-yield-and-foraging-systems]]
+- [[mollison-designers-aquatic-edge-planted-wetland-design]]

@@ -1,22 +1,14 @@
 ---
 title: psilocybe-baeocystis Knobby Tops Guide
 created: 2026-04-28
-tags: [[mycology, psilocybe, species-guide, pacific-northwest]
+tags: [mycology, psilocybe, species-guide, pacific-northwest]
 date: 2026-04-25
 updated: 2026-04-25
-sources: ["raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"]
+sources: sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
-
-# Psilocybe baeocystis Knobby Tops Guide
-
-## Overview
-
-psilocybe-baeocystis Singer and Smith, commonly known as "baeos"
-or "knobby tops," is a moderately to highly active psilocybin mushroom
-of the Pacific Northwest. First reported from Oregon, this species is
-common throughout the Pacific Northwest region of North America. It is
-named for its association with the discovery of the alkaloid [[psilocybe-cyanofibrillosa]] are found growing side by side.
+# Psilocybe baeocystis Knobby Tops Guide ## Overview psilocybe-baeocystis Singer and Smith, commonly known as "baeos" or "knobby tops," is a moderately to highly active psilocybin mushroom of the Pacific Northwest. First reported from Oregon, this species is common throughout the Pacific Northwest region of North America. It is named for its association with the discovery of the alkaloid [[psilocybe-cyanofibrillosa]] are found growing side by side.
 
 ## Potency and Chemistry
 
@@ -65,7 +57,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +99,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

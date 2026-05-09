@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Serotonin Pathways and Environmental Chemistry
+title: psilocybin|powell psilocybin serotonin pathways environmental chemistry|Serotonin Pathways and Environmental Chemistry
 created: 2026-04-28
 tags: [psilocybin, serotonin, neurotransmitter, diet, consciousness, powell]
 date: 2026-04-25
@@ -10,7 +10,7 @@ type: concept
 
 # Psilocybin Serotonin Pathways and Environmental Chemistry
 
-Simon G. Powell's The Psilocybin Solution presents a provocative argument
+Simon G. Powell's The [[powell-psilocybin-solution-ecological-cognition-theory]] presents a provocative argument
 about the relationship between diet, brain chemistry, and consciousness.
 The book explores how serotonin, the neurotransmitter that psilocybin
 primarily acts upon, is fundamentally bound up with the chemistry of the
@@ -58,10 +58,10 @@ interaction of environmental chemistry with neuronal architecture.
 Having established the environmental basis of neurotransmitters, Powell
 argues that the psilocybin experience is wholly natural. It arises out of
 an environmentally driven alteration in brain chemistry, insofar as the
-psilocybin mushroom is part of the natural environment. There is nothing
+[[psilocybin-mushroom|psilocybin mushroom]] is part of the natural environment. There is nothing
 artificial about this process. Just as we can selectively pick wheat to
 make bread for physical well-being, so too can we selectively consume
-natural psilocybin mushrooms for spiritual well-being.
+natural [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] for spiritual well-being.
 
 Both wheat and mushroom are legitimate natural expressions of the Gaian
 system within which we are embedded. Natural psilocybin mushrooms can
@@ -95,7 +95,7 @@ In Gaian terms, the shamanic ingestion of plants and fungi is an
 entirely natural process. When we take into account the ecological system
 of shaman, tribe, and plant, it can be seen as essentially homeostatic:
 one part of the environment acts upon another in order to restore harmony.
-Certain plants and fungi yield aid through their psychological effects,
+Certain plants and fungi yield aid through their [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]],
 highlighting how deeply we are rooted to the rest of life's web.
 
 Shamanism is perhaps the oldest form of religious psychotherapy, and the
@@ -114,7 +114,7 @@ mass-marketed psychedelic that enlightens the world cannot be faulted on
 its technological methodology. However, psilocybin is not a technological
 product. Koestler perceived it as such because his psilocybin came in
 the form of a Sandoz pill, the perfect symbol of a modern technological
-fix, in direct contrast to the very earthly symbol of the wild mushroom.
+fix, in direct contrast to the very earthly symbol of the [[emcdda-wild-mushroom-foraging-misidentification-hazards]].
 
 Leary concluded that to ignore psilocybin as a psychological tool would
 be akin to rejecting the microscope because it made seeing too easy.
@@ -130,4 +130,4 @@ relationship between consciousness and the natural world.
 
 ## See Also
 
-- [[psilocybin-psilocin-chemistry-serotonin-5HT2A-mechanism-emcdda-2006]]
+- [[psilocybin-psilocin-chemistry-serotonin-5ht2a-mechanism-emcdda-2006]]

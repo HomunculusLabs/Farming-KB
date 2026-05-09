@@ -16,7 +16,7 @@ type: concept
 
 # Reading the Landscape
 
-Reading the landscape is the foundational skill in Sepp Holzer's approach to
+Reading the landscape is the foundational skill in [[comparison-sepp-holzer-vs-biodynamic]]'s approach to
 permaculture. Before any earthworks, planting, or water management can begin,
 the practitioner must learn to observe and interpret what the land itself is
 communicating. This observational methodology underpins all of [[desertification-causes-reversal]], and loss of
@@ -50,7 +50,7 @@ whole system in its ideal state. He visualises the paradise of water
 landscapes with his "inner eye" before beginning any work. Everything is
 there already; he just has to recognise it.
 
-Each landscape is different, and reading nature requires tuning into local
+Each landscape is different, and [[holzer-reading-nature-philosophy]] requires tuning into local
 conditions that can differ widely just a kilometre apart. The reading of
 nature and tuning in to the landscape cannot be learned from books alone; it
 requires direct experience and observation over time.
@@ -108,4 +108,4 @@ zones where water retention spaces should be placed.
 ## See Also
 
 - [[holzer-water-landscapes-retention]] for creating water-based landscapes
-- [[permaculture-zones-in-practice]] for zone planning methodology
+- [[permaculture-zones-in-practice]] for [[mollison-course-zone-planning-and-design]] methodology

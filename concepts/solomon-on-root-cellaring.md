@@ -1,5 +1,5 @@
 ---
-title: Solomon on Root Cellaring
+title: Solomon on comparison-root-cellaring-guide-vs-canning-and-preserving
 created: 2026-04-21
 updated: 2026-04-21
 type: "concept"
@@ -12,14 +12,14 @@ sources:
 From [[root-cellaring-guide]].
 
 ### Other
-- **Apples**: Store well at 30-35 degrees F with high humidity. Keep away from root vegetables (ethylene gas causes sprouting and off-flavors).
+- **Apples**: Store well at 30-35 degrees F with high humidity. Keep away from [[growing-root-vegetables-guide]] (ethylene gas causes sprouting and off-flavors).
 - **Sweet potatoes**: Require curing at 80-85 degrees F, then storage at 55-60 degrees F. They suffer chilling injury below 50 degrees F.
 
 ## Key Principles
 
-1. **Temperature**: Most root crops want 32-40 degrees F. Winter squash and sweet potatoes want warmer (55-60 degrees F).
-2. **Humidity**: Root vegetables need high humidity (90-95%). Onions, garlic, and squash need low humidity (60-70%).
-3. **Ventilation**: Some air circulation prevents mold and rot. Stale air promotes disease.
+1. **Temperature**: Most [[permaculture-plants-root-crops-and-tubers]] want 32-40 degrees F. Winter squash and sweet potatoes want warmer (55-60 degrees F).
+2. **Humidity**: Root vegetables need high humidity (90-95%). Onions, garlic, and squash need [[pf-tek-low-humidity-symptoms-and-remediation]] (60-70%).
+3. **Ventilation**: Some [[stamets-growing-room-air-circulation-co2-management]] prevents mold and rot. Stale air promotes disease.
 4. **Darkness**: Potatoes must be kept dark to prevent solanine development (greening).
 5. **Monitoring**: Check stored crops regularly. One rotting potato can ruin a bin. Remove anything showing decay immediately.
 6. **Curing**: Many crops benefit from a curing period before storage. This toughens skins and heals cuts.
@@ -27,7 +27,6 @@ From [[root-cellaring-guide]].
 ## The Humidity Problem
 
 Basements are often too dry for root vegetables. Solutions include packing in moist sand or sawdust, using plastic bags with ventilation holes, or damp burlap coverings. Conversely, basements can be too humid for onions and squash.
-
 
 ## Steve Solomon's Specific Recommendations
 
@@ -47,7 +46,7 @@ management.
 
 ## Crop-Specific Storage Requirements
 
-Different root crops have distinct optimal storage conditions.
+Different root crops have distinct optimal [[vegetable-storage-conditions-by-temperature-and-humidity]].
 Potatoes prefer 38-40°F with 90% humidity and complete darkness
 (light causes greening and solanine production). Carrots and beets
 store best at 32-34°F with 95% humidity — they require a damper
@@ -85,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

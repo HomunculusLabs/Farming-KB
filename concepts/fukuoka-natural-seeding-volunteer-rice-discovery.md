@@ -1,10 +1,11 @@
 ---
-title: "Discovery of Natural Seeding and Volunteer Rice"
+title: "Discovery of fukuoka natural seeding volunteer rice discovery and Volunteer Rice"
 created: 2026-04-28
 tags: [volunteer-rice, natural-seeding, no-tillage, direct-seeding, rice-cultivation, kochi]
 date: 2026-04-25
 updated: 2026-04-25
-sources: [~/wiki/raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
@@ -54,7 +55,7 @@ available space and resources.
 ## Problems Encountered
 
 Several problems did arise during these early experiments. Where
-the soil was rich in organic matter and bad water collected, the
+the soil was rich in [[hamilton-composting-and-organic-matter-management]] and bad water collected, the
 seed sank into the ground and germination was poor. Deep flooding
 of the field resulted in plants that tended to lodge easily. And
 the amount of weeding required was so great that the method had
@@ -64,7 +65,7 @@ These difficulties did not discourage further experimentation.
 The poor germination in waterlogged soil pointed toward the need
 for better drainage, the lodging problem toward lower seeding
 densities and shorter varieties, and the weed problem toward the
-eventual solution of cover cropping with clover.
+eventual solution of [[fukuoka-clover-cover-cropping-soil-ecology]] with clover.
 
 ## Direct Seeding Between Barley Rows
 
@@ -72,7 +73,7 @@ The next phase involved direct seeding of rice between rows of
 barley, a "lazy man's" method adapted from techniques attempted
 by farmers long ago. This led to a later technique of direct-
 seeding rice between barley for several years, but germination
-and weed control problems eventually forced its abandonment.
+and [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]] problems eventually forced its abandonment.
 
 Specific problems encountered included poor rice germination, the
 inability to fight off mole crickets, sparrows, and mice, arduous
@@ -113,7 +114,7 @@ dense individual planting, it became increasingly difficult to sow
 rice among the barley. The key insight was that since the exact same
 method was being used for growing both rice and barley in succession,
 both crops could be grown as a single cropping system. This system
-was named "direct-seeding, no-tillage rice/barley succession."
+was named "direct-seeding, no-tillage rice/[[direct-seeded-no-tillage-rice-barley-succession-in-clover]]."
 
 The ultimate test was whether rice yields would decline after
 several years of continuous no-tillage farming. After more than
@@ -121,7 +122,7 @@ twenty years of no-tillage cultivation, with all rice and barley
 straw and hulls returned to the land, there was never any sign of
 a decline in yields due to reduced soil fertility. This sealed the
 conviction that no-tillage farming is sound in practice and became
-a basic principle of natural farming.
+a basic principle of [[comparison-natural-farming-vs-permaculture]].
 
 ## See Also
 

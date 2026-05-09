@@ -1,5 +1,5 @@
 ---
-title: "Biological Services and Working Animals in Permaculture"
+title: "holmgren biological services working animals and Working Animals in Permaculture"
 created: 2026-04-26
 tags:
   - animals
@@ -10,19 +10,19 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+  sources: []
 type: concept
 ---
 
 # Biological Services and Working Animals in Permaculture
 
 [[permaculture-design]]. These biological services
-range from microbial [[holmgren-renewable-resources-detailed]]
+range from microbial holmgren-renewable-resources-detailed
 for reducing dependence on non-renewable energy and materials.
 
 ## Nature's Renewable Services
 
-Biological services include nitrogen fixation by legumes, mycorrhizal fungi mining
+Biological services include [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] by legumes, [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] mining
 phosphate from insoluble soil forms, deep-rooted pasture plants extracting nutrients
 from poor clays, long-lived forest trees accumulating calcium and boron, and
 earthworms and termites physically mixing and improving soil layers.
@@ -42,7 +42,7 @@ Practical examples of biological services at Melliodora include:
   standard-height fences
 - Hard pruning of nitrogen-fixing tagasaste and wattle shrubs in the gardens and
   orchards (for goat fodder and tree mulch), to prevent excessive moisture
-  competition and shading of vegetables and fruit trees
+  competition and shading of vegetables and [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
 - Using a motorised slasher for initial conversion of brambles, weeds, and rough
   pasture to mulch, then gradually replacing it with grazing animals
 - Controlling goats and poultry foraging in the orchard with movable electric mesh
@@ -125,5 +125,8 @@ modern technology in combination with animals, exemplify Permaculture in action
 as much as the horticulturalist saving heirloom varieties or maintaining grafting
 skills.
 
-See also: [[holmgren-integrate-segregate-detailed]],
-[[holmgren-renewable-resources-detailed]]
+See also: holmgren-integrate-segregate-detailed,
+holmgren-renewable-resources-detailed
+## See Also
+- [[fungi-convention-on-biological-diversity]]
+- [[holmgren-trees-solar-power-plants-detailed]]

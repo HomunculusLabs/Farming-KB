@@ -139,57 +139,6 @@ Goats are typically skinned, not scalded:
 ## Curing and Smoking
 
 See [[food-preservation-canning]] for detailed methods. Quick reference:
-- **Dry cure**: Salt + sugar + spices rub; 7-10 days per inch thickness
-- **Brine cure**: Submerge in salt/sugar/water 1-2 weeks
-- **Smoking**: Cold smoke (80-100F) 4-8 hours after curing; hardwood (hickory, apple, cherry)
-- **Bacon from duck/goat belly**: Cure 7 days, cold smoke 4 hours, cook to 150F
-- **Jerky**: Slice 1/4" strips, marinate, dehydrate at 160F until brittle
-
-## Sausage Making
-
-**Basic fresh sausage ratio** (adjust to taste):
-- 70% lean meat (shoulder, leg trim)
-- 30% fat (goat kidney fat, duck fat, pork fat if available)
-- 1.5% salt (by weight of meat+fat)
-- Spices to taste: fennel, sage, black pepper, thyme, garlic, red pepper flakes
-
-**Process**:
-1. Grind meat and fat through coarse die (3/8")
-2. Mix with salt and spices; add 1/4 cup ice water per pound
-3. Knead until sticky (protein extraction — holds sausage together)
-4. Stuff into casings (natural hog/sheep or collagen)
-5. Link at 4-6" intervals
-6. Cook immediately or freeze (fresh sausage keeps 3 days refrigerated, 3 months frozen)
-
-**Cured sausage**: Add curing salt (Prague Powder #1: 6.25% sodium nitrite) at 0.25% of meat weight. Ferment or smoke after stuffing.
-
-## Rendering Fat
-
-- Duck fat: Trim fat, chop small, render low heat (200F) 2-3 hours. Strain through cheesecloth. Keeps 6 months refrigerated, 1 year frozen. See [[candle-making]].
-- Goat fat (tallow): Same process. Firmer than duck fat. Good for soap, candles, cooking.
-
-## Offal Use
-
-| Organ | Use | Notes |
-|-------|-----|-------|
-| Liver | Pate, frying, dog food | Best within 24 hours; freezes 3 months |
-| Heart | Grilling, stew, ground | Lean and flavorful |
-| Gizzard (duck) | Stew, confit, dog food | Tough — long slow cook or pressure cook |
-| Kidneys (goat) | Grilling, pie | Soak in milk 1 hour to reduce strong flavor |
-| Bones | Stock, bone broth | Roast first for deeper flavor; simmer 12-24 hours |
-| Feet (duck) | Stock (gelatin) | Excellent collagen source |
-| Blood (goat) | Blood sausage, soil amendment | High nitrogen — 12% N; dilute for [[animal-byproducts]] |
-| Feathers | Compost, mulch | High N but slow breakdown; 2:1 C:N ideal |
-
-## Legal Requirements
-
-- **Poultry exemption (USDA)**: Up to 1,000 birds/year on-farm for direct sale without USDA inspection
-- **Goat meat**: Must be USDA/state-inspected for sale; no restriction on processing your own animal
-- **Custom processing**: Hire custom exempt processor for your own animal; meat cannot be sold
-- **Cottage food**: Sausage/jerky generally NOT allowed under cottage food laws
-- **Humane slaughter**: Must follow guidelines — instant unconsciousness before processing
-- **Check local**: Zoning, noise, waste disposal vary by county
-
 ## Related
 
 - [[duck-keeping]] — raising ducks to harvest weight

@@ -1,5 +1,5 @@
 ---
-title: "Psilocin and Serotonin: Structural Relationship and Pharmacological Mechanism"
+title: "Psilocin and Serotonin: serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism and Pharmacological Mechanism"
 source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
 author: Shirota, Hakamata & Goda
 tags: [psilocin, serotonin, 5-ht2a, pharmacology, tryptamine, receptor, agonist, neuroscience]
@@ -13,7 +13,7 @@ created: 2026-05-08
 Shirota, Hakamata, and Goda's 2003 synthesis paper briefly noted the
 structural and pharmacological relationship between psilocin and serotonin:
 "These compounds closely resemble the neurotransmitter serotonin, and the
-hallucinogenic effect of the 'magic mushroom' is probably caused by their
+hallucinogenic effect of the '[[australian-magic-mushroom-common-names]]' is probably caused by their
 interference with the normal actions of brain serotonin." This deceptively
 simple statement encapsulates a fundamental insight into the mechanism of
 action of classical hallucinogens.
@@ -76,7 +76,7 @@ serotonergic system is activated.
 ## References
 
 - Shirota, O., Hakamata, W., & Goda, Y. (2003). Concise large-scale
-  synthesis of psilocin and psilocybin. *J. Nat. Prod.*, 66, 885-887.
+  synthesis of [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]]. *J. Nat. Prod.*, 66, 885-887.
 - Vollenweider, F.X. et al. (1998). Psychophysiological and
   neuroendocrine effects of psilocybin. *Neuropsychopharmacology*, 19.
 - Strassman, R. (1992). Endogenous psychedelic compounds. *Neuropsycho-

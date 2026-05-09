@@ -1,5 +1,5 @@
 ---
-title: Mushroom Cultivation Training Program Design for People with Disabilities
+title: mushroom-cultivation mushroom [[mushroom-cultivation-disabilities-training-manual-overview]] [[cervantes-breeding-program-design-goal-setting]] Design for People with Disabilities
 tags: [mushroom, disability, training, program-design, fao, empowerment, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
@@ -9,7 +9,7 @@ created: 2026-05-07
 type: concept
 ---
 
-# [[mushroom-cultivation-for-people-with-disabilities]]: A Training Manual* (2001) presents a comprehensive framework for designing mushroom cultivation training programs specifically adapted for people with disabilities. Written by Johanne Hanko for the FAO Regional Office for Asia and the Pacific, the manual establishes a "three-in-one" training approach that integrates rehabilitation, vocational skills, and enterprise development.
+# mushroom-cultivation-for-people-with-disabilities: A Training Manual* (2001) presents a comprehensive framework for designing mushroom cultivation training programs specifically adapted for people with disabilities. Written by Johanne Hanko for the FAO Regional Office for Asia and the Pacific, the manual establishes a "three-in-one" training approach that integrates rehabilitation, vocational skills, and enterprise development.
 
 ## The Three-in-One Training Philosophy
 
@@ -52,7 +52,7 @@ Post-training monitoring is considered essential for program success. The manual
 - Establishing a regular visitation schedule
 - Assessing long-term sustainability of each graduate's operation
 - Encouraging family and community support networks
-- Keeping detailed notes of all visits and meetings with graduates
+- [[goose-keeping-detailed]] notes of all visits and meetings with graduates
 
 ## Financial Management and Responsibilities
 
@@ -80,7 +80,8 @@ The ceremonial aspect is particularly important in cultures where disability car
 
 ### Continuous Support
 
-Graduates are encouraged to maintain contact with the training center and with each other, forming networks for ongoing knowledge exchange and mutual support. Waste management and recycling are integrated throughout training at each step, reinforcing the self-reliance philosophy by demonstrating zero-waste cultivation.
+Graduates are encouraged to maintain contact with the training center and with each other, forming networks for ongoing knowledge exchange and mutual support. [[off-grid-waste-management]] and recycling are integrated throughout training at each step, reinforcing the self-reliance philosophy by demonstrating zero-waste cultivation.
 ## See Also
 
 - [[mushroom-cultivation-for-disabilities-training-program]]
+- [[mushroom-cultivation]]

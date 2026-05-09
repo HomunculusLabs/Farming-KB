@@ -19,7 +19,7 @@ plants.
 
 The Rig Veda, oldest of the Hindu scriptures, contains nearly 120 hymns to
 [[peganum-harmala]]** (Syrian rue) — Rich in the beta-carboline harmine. David Flattery and Martin Schwartz argued this was the original identification by Sir William Jones in 1794. Flattery contended that "the consumption of sauma may have been the only means recognized in Iranian religion of seeing into menog existence before death."
-- **Psilocybin mushrooms** — McKenna's own suggestion, noting the connection to cattle that pervades Soma lore and the unparalleled visionary power of psilocybin.
+- **[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]** — McKenna's own suggestion, noting the connection to cattle that pervades Soma lore and the unparalleled visionary power of psilocybin.
 
 The connection between Soma and cattle is central to any identification. The
 Rig Veda repeatedly compares Soma's juices to "a cow with milk to the calf,"
@@ -50,7 +50,7 @@ religion.
 
 In 1977, Gordon Wasson, albert hofmann, and Carl Ruck proposed that the
 Eleusinian sacrament was an ergotized beer brewed from barley infected with
-Claviceps purpurea. Ergot produces powerful alkaloids including lysergic acid
+[[bloomfield-ergot-claviceps-purpurea-ergotism]]. Ergot produces powerful alkaloids including [[ergot-and-lysergic-acid-history]]
 derivatives—the chemical family that includes LSD. The purple traditionally
 associated with Demeter's robe may signify the distinctive purple sclerotia of
 the ergot
@@ -65,7 +65,7 @@ powerful.
 The English poet Robert Graves, in his 1964 essay "The Two Births of
 Dionysus," was the first to suggest that a hallucinogenic plant was involved
 at Eleusis. He pointed out that Triptolemus, who supposedly brought the secret
-of grain cultivation from Eleusis, could not have been bringing news of
+of [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] from Eleusis, could not have been bringing news of
 agriculture—grain had been cultivated since 7000 B.C., while Triptolemus
 dates to the late second millennium. Graves proposed that the priesthood had
 discovered psilocybin mushrooms that could be baked in sacrificial cakes
@@ -73,7 +73,7 @@ without losing their hallucinogenic
 powers.
 ## Minoan Crete and the Partnership Culture
 
-Before the triumph of dominator culture, Minoan Crete preserved the
+Before the triumph of [[mckenna-dominator-culture-and-suppression-of-ecstasy]], Minoan Crete preserved the
 partnership model for three millennia. The Minoans worshipped a snake-handling
 nature Goddess. No signs of war appear in their archaeology. Their
 civilization was, as one scholar put it, "a living monument to the partnership
@@ -82,7 +82,7 @@ was everywhere else
 complete."
 McKenna explores whether the old mushroom religion survived in Minoan culture
 through several lines of evidence: the worship of pillars (Soma was called
-"pillar of the World"), the myth of Glaukos (whose name means
+"pillar of the World"), the [[mckenna-myth-of-glaukos-honey-death-resurrection-minoan-religion]] (whose name means
 "blue-gray"—the color of bruised psilocybin mushrooms), and the preservation
 of mushrooms in honey (as described in the myth of Glaukos preserved in a
 honey pithos). By the late Minoan period, opium had largely replaced the older

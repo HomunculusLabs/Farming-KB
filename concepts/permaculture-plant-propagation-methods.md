@@ -1,4 +1,4 @@
-# [[acacia]], [[comfrey]], for instance, can be divided into dozens
+# [[acacia]], comfrey, for instance, can be divided into dozens
 of new plants in a single session. The divided sections establish quickly
 because they already have a developed root system.
 
@@ -8,7 +8,7 @@ Grafting joins a scion (desired variety) to a rootstock (vigorous,
 disease-resistant base). This combines the best qualities of both plants.
 Budding is a form of grafting using a single bud rather than a stem section.
 
-Grafting is essential for  because most fruit varieties
+Grafting is essential for  because most [[holzer-stone-fruit-varieties-and-growing]]
 do not come true from seed. A seed from a Delicious apple will not produce a
 Delicious apple tree.
 
@@ -16,7 +16,7 @@ Grafting preserves the exact variety while using rootstocks adapted to local
 soil and climate conditions.
 
 Common methods include whip-and-tongue, cleft grafting, and side-veneer.
-Timing is critical: most grafting is done in late winter or early spring.
+Timing is critical: most grafting is done in late winter or [[coleman-overwintered-onions-and-early-spring-crops]].
 
 ## Choosing the Right Method
 
@@ -30,12 +30,12 @@ multiplying established perennials.
 
 For permaculture designers, the ability to propagate plants from seed and
 ## See Also
-- query what is seed starting and when should i start seeds indoors
-- comparison seed saving vs hybrid seeds
+- query what is [[comparison-cannabis-cloning-vs-seed-starting-indoors]] and when should i start seeds indoors
+- comparison [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]] vs [[heirloom-vs-hybrid-seeds-comparison]]
 - [[permaculture-plant-selection-and-useful-species-categories]]
 ## Practical Applications
 
-Permaculture Plant Propagation Methods has a range of practical applications that make it relevant to
+Permaculture Plant [[vegetative-propagation-methods-mollison]] has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -110,4 +110,6 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+- [[plant-propagation-methods]]
+- [[plant-propagation]]
+- [[permaculture-design]]

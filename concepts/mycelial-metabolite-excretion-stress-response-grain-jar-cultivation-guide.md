@@ -20,7 +20,7 @@ Most cultivated mushroom species grow optimally between 20–27°C (68–80°F).
 
 ### Extended Incubation Time
 
-Jars that are colonized but left sitting without being cased or spawned are prone to metabolite buildup. The fully colonized mycelium continues metabolic activity but has limited substrate resources remaining, leading to the accumulation of waste products as the mycelium begins to consume its own stored reserves.
+Jars that are colonized but left sitting without being cased or spawned are prone to metabolite buildup. The fully colonized mycelium continues [[arbuscule-isolation-metabolic-activity-assays]] but has limited substrate resources remaining, leading to the accumulation of waste products as the mycelium begins to consume its own stored reserves.
 
 ### Bacterial Contamination
 
@@ -39,7 +39,7 @@ Some species and strains are more prone to metabolite excretion than others. Thi
 The yellowish metabolites excreted by stressed mycelium are likely a complex mixture of compounds including:
 
 - **Oxidized phenolic compounds** — breakdown products of fungal metabolism that give the yellow-amber coloration
-- **Antimicrobial secondary metabolites** — compounds produced in response to perceived competition from bacteria or other microorganisms
+- **Antimicrobial [[antifungal-secondary-metabolites-coprophilous-fungi]]** — compounds produced in response to perceived competition from bacteria or other microorganisms
 - **Waste products of accelerated metabolism** — nitrogenous compounds and organic acids that accumulate when metabolic throughput exceeds processing capacity
 
 The exact composition varies by species, strain, and stressor, but the visual appearance is remarkably consistent: yellowish, sometimes sticky or resinous droplets that appear on the grain surface and between kernels.
@@ -82,11 +82,11 @@ Check jars regularly and process them promptly once fully colonized. The guide's
 
 ### Proper Hydration
 
-Follow the water ratio recommendations carefully and calibrate for each seed source. Refer to the water absorption variability documentation for specific guidance on calibrating hydration levels.
+Follow the water ratio recommendations carefully and calibrate for each seed source. Refer to the water [[grass-seed-substrate-water-absorption-variability-and-calibration]] documentation for specific guidance on calibrating hydration levels.
 
 ### Clean Inoculation
 
-Proper sterile technique during inoculation reduces the likelihood of low-level bacterial contamination that can stress the mycelium and trigger metabolite production. Flame needles between jars, work quickly, and maintain a clean workspace.
+Proper [[cultivator-sterile-technique-and-agar-culture]] during inoculation reduces the likelihood of low-level bacterial contamination that can stress the mycelium and trigger metabolite production. Flame needles between jars, work quickly, and maintain a clean workspace.
 
 ## Relationship to Other Stress Indicators
 
@@ -107,7 +107,7 @@ The guide's recommendation to case promptly minimizes this impact by redirecting
 
 ## Metabolite Excretion and Sclerotia-Producing Species
 
-For species like Psilocybe tampanensis and P. mexicana that are grown for sclerotia production, metabolite excretion during jar incubation has slightly different implications.
+For species like [[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]] and P. mexicana that are grown for [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]], metabolite excretion during jar incubation has slightly different implications.
 
 Sclerotia-producing jars are typically incubated for 3–4 months, far longer than the 5–20 day colonization period for mushroom production. This extended incubation increases the likelihood that some metabolite excretion will occur even under good conditions, simply because the mycelium is active for much longer.
 
@@ -137,4 +137,6 @@ This documentation helps identify patterns over time and calibrate conditions fo
 
 ## See Also
 
-- [[mycelial-metabolite-excretion-stress-response-grain-jars]]
+- mycelial-metabolite-excretion-stress-response-grain-jars
+- [[exotic-mushroom-cultivation-guide]]
+- [[sclerotia-production]]

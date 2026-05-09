@@ -1,5 +1,5 @@
 ---
-title: Mulching and Weed Suppression
+title: hamilton geoffhamilton nick organic gardening mulching and weed suppression Suppression
 created: 2026-04-28
 tags: [mulching, weed-control, organic-gardening, soil-moisture, soil-protection]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: concept
 # Mulching and Weed Suppression
 
 Mulching is one of the most important and versatile techniques available
-to the organic gardener. It involves spreading a layer of organic matter
+to the organic gardener. It involves spreading a layer of [[hamilton-composting-and-organic-matter-management]]
 or other material over the soil surface where plants are growing. This
 serves multiple purposes: it suppresses weed growth, helps retain soil
 moisture, moderates soil temperature, protects soil structure from the
@@ -54,7 +54,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -96,4 +96,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

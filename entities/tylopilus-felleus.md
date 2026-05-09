@@ -19,7 +19,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Kuo, M. (2024). "Tylopilus felleus." MushroomExpert.com. https://www.mushroomexpert.com/tylopilus_felleus.html
-  - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "North American Boletes: A Color Guide to the Fleshy Pored Mushrooms." Syracuse University Press.
+  - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "[[growing-gourmet-north-american-reishi-species]] Boletes: A Color Guide to the Fleshy Pored Mushrooms." Syracuse University Press.
   - Watling, R. & Hills, A.E. (2005). "Boletes and their Allies." Revised Edition, Royal Botanic Gardens, Kew.
   - Knudsen, H. & Vesterholt, J. (2012). "Funga Nordica: Agaricoid, Boletoid and Clavarioid Fungi." Nordsvamp.
 ---
@@ -49,7 +49,7 @@ despite being non-toxic. The bitterness persists even after prolonged cooking.
 
 The genus *Tylopilus* contains approximately 75 described species worldwide,
 with *T. felleus* serving as the type species. It was segregated from *Boletus*
-by Petter Karsten in 1881 based on its pinkish spore print and bitter flesh,
+by Petter Karsten in 1881 based on its pinkish [[comparison-spore-print-collection-vs-spore-syringe-production]] and bitter flesh,
 characters that distinguish the genus from the *Boletus edulis* group.
 
 ## Morphology
@@ -79,13 +79,13 @@ offering no warning of the taste.
 **Spore print:** Pinkish to flesh-colored (salmon-pink).
 
 **Spores:** 10–16 × 4–6 µm, fusoid to subfusoid, smooth, inamyloid.
-Q value: 2.0–3.0. No bluing reaction with FeSO₄ or NH₄OH.
+Q value: 2.0–3.0. No [[field-guide-psilocybin-bluing-reaction-identification]] with FeSO₄ or NH₄OH.
 
 ## Distribution and Habitat
 
 *T. felleus* is widely distributed across temperate regions of the Northern
 Hemisphere. It is common throughout Europe, North America (from eastern
-Canada to the southeastern and Pacific Northwest United States), and parts
+Canada to the southeastern and Pacific Northwest [[dmt-containing-plants-united-states-halpern]]), and parts
 of Asia. It has also been reported from North Africa and Australia.
 
 The species forms ectomycorrhizal associations primarily with coniferous
@@ -112,7 +112,7 @@ smaller species with a paler cap.
 
 ## Ecology
 
-As an ectomycorrhizal fungus, *T. felleus* plays a role in nutrient cycling
+As an ectomycorrhizal fungus, *T. felleus* plays a role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 within forest ecosystems. It forms mutualistic associations with tree roots,
 facilitating phosphorus and nitrogen uptake in exchange for photosynthetically
 derived carbon. The species is not considered pathogenic. Slugs and insects

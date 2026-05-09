@@ -1,5 +1,5 @@
 ---
-title: Companion Planting
+title: comparison-companion-planting-reference-vs-jadam-monoculture-critique
 created: 2026-04-28
 tags: [companion-planting, organic-gardening, pest-control, biodiversity, planting-design]
 date: 2026-04-25
@@ -14,9 +14,9 @@ Companion planting is a technique practiced by many organic gardeners
 based on the idea that plants have specific likes and dislikes concerning
 their close companions in the garden. By carefully considering which
 plants are cultivated together, you can promote healthy growth, reduce
-pest attacks, attract beneficial insects, and utilize a completely
+pest attacks, attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], and utilize a completely
 natural form of [[herb-garden-design]] can
-contribute significantly to pest management throughout the garden:
+contribute significantly to [[cannabis-pest-management-guide]] throughout the garden:
 
 - **Borage** attracts bees and is said to improve the growth and flavor
   of strawberries and tomatoes
@@ -37,7 +37,7 @@ tips:
 - Choose open-flowered varieties to attract the widest range of
   pollinators and predators
 - Plan your garden to include flowering plants throughout the entire
-  growing season so there is always a food source for beneficial
+  [[savory-growing-season-and-non-growing-season-management]] so there is always a food source for beneficial
   insects
 - Experiment and keep records — some companion combinations work better
   in some gardens than others
@@ -48,9 +48,9 @@ tips:
 - [[hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-propagation-techniques]]
 - [[composting]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-herb-garden]]
 - [[hamilton-organic-pest-control]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-organic-gardening-principles]]
+
 ## Practical Considerations
 
 When working with Companion Planting, several practical factors should be
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

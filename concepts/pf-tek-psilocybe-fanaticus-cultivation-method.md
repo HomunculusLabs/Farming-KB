@@ -10,7 +10,7 @@ tags: [cultivation, pf-tek, psilocybin]
 
 PF TEK Psilocybe Fanaticus Cultivation Method
 
-The PF TEK (Psilocybe Fanaticus Technique) is a home mushroom cultivation method introduced by "Psylocybe Fanaticus" (PF) of Seattle, Washington, first advertised in High Times Magazine in September 1991 as a kit, then published as complete instructions in 1992. It became one of the most widely copied and influential amateur mycology methods worldwide, serving as the basis for the "Magic Mushroom Growers Guide" and numerous international adaptations.
+The PF TEK (Psilocybe Fanaticus Technique) is a home [[accessible-mushroom-cultivation-for-disabilities]] method introduced by "Psylocybe Fanaticus" (PF) of Seattle, Washington, first advertised in High Times Magazine in September 1991 as a kit, then published as complete instructions in 1992. It became one of the most widely copied and influential amateur mycology methods worldwide, serving as the basis for the "Magic Mushroom Growers Guide" and numerous international adaptations.
 
 Core Innovation: Brown Rice Vermiculite Substrate
 
@@ -18,9 +18,9 @@ The PF TEK is fundamentally a brown rice flour method improved by using vermicul
 
 A second foundational innovation was the dry vermiculite contaminant barrier. After loading the wet substrate into a jar, a 1/2 to 3/4 inch layer of plain dry vermiculite is placed on top. This layer protects the wet substrate from airborne contaminants during incubation and also absorbs and regulates moisture transpiration and condensation. PF described this as a "Psylocybe Fanaticus original discovery."
 
-A third innovation was the use of mass spore inoculation directly to the fruiting substrate rather than cloning mushroom tissue. This approach copies nature and keeps the genotype complete. Senescence (mutating and ceased fruiting associated with repeated cloning) is avoided entirely, as spores ensure a never-ending succession of fungus with full reproductive ability intact.
+A third innovation was the use of mass spore inoculation directly to the [[pf-tek-maximum-fruiting-substrate-formula]] rather than cloning mushroom tissue. This approach copies nature and keeps the genotype complete. Senescence (mutating and ceased fruiting associated with repeated cloning) is avoided entirely, as spores ensure a never-ending succession of fungus with full reproductive ability intact.
 
-Substrate Formula
+[[pf-tek-measurement-calibration-and-substrate-formula-precision]]
 
 For a standard half-pint (250 ml) canning jar with tapered sides:
 - 1/8 cup brown rice powder (freshly ground from regular brown rice preferred)
@@ -47,7 +47,7 @@ The lid can be kept tight (preserving moisture for drier substrates) or loose (p
 
 Birthing and Fruiting
 
-The optimal time to remove the fungus cake is when primordia appear. The jar is inverted over an old lid and lightly slammed onto a cushioned surface (PF called this the "birthday"). The dry top vermiculite layer is scraped away. The cake is daubed with tissue to remove water droplets and immediately placed in the dual chambered terrarium.
+The optimal time to remove the fungus cake is when primordia appear. The jar is inverted over an old lid and lightly slammed onto a cushioned surface (PF called this the "birthday"). The dry top vermiculite layer is scraped away. The cake is daubed with tissue to remove water droplets and immediately placed in the dual [[dual-chambered-terrarium-design]].
 
 The Dual Chambered Terrarium
 
@@ -55,7 +55,7 @@ PF's fruiting chamber used a standard 10-gallon aquarium modified with two chamb
 
 The spraying procedure works by spraying water into the primary chamber where it strikes the shield and breaks down into fine mist flowing around the shield into the secondary chamber. The fungus is bathed in fine humidity safely away from direct water droplets, which would drown mycelial structures. The slanted spray shield also functions as a drip shield. PF reported that mushrooms could grow with as little as one good spraying per day.
 
-Temperature management was counterintuitive: PF emphasized not heating the terrarium, as direct heating works against humidification and adds a drying influence. The fungi grow well at 60 degrees Fahrenheit and even cooler temperatures. A range of 65 to upper 80s was the target growing temperature, with too-hot conditions producing spreading mycelium but no fruiting.
+Temperature management was counterintuitive: PF emphasized not heating the terrarium, as direct heating works against humidification and adds a drying influence. The fungi grow well at 60 degrees Fahrenheit and even cooler temperatures. A range of 65 to upper 80s was the target [[mushroom-growing-temperature-and-moisture]], with too-hot conditions producing spreading mycelium but no fruiting.
 
 Harvesting and Potency
 
@@ -67,7 +67,7 @@ Drying with Desiccant
 
 PF advocated cool desiccant drying over all other methods. Mushrooms are placed on a wire screen over 1 inch of desiccant (Drierite, silica gel, or commercial products like "Damp Gone") in a plastic container sealed in a plastic bag. After 4-5 days, stems snap cleanly when bent. For best alkaloid preservation, the desiccant box can be placed in the refrigerator. Heat drying (oven or hot air) leaches chemical constituents and reduces quality.
 
-Spore Printing and Syringe Preparation
+Spore [[spore-printing-and-syringe-preparation]] Preparation
 
 Mature specimens with upturned caps and dark gills are decapitated for spore printing. Caps are placed gills-down in pre-sterilized half-pint jars for 24-48 hours in a draft-free area. The resulting purple spore deposits are stored in sealed jars at room temperature away from sunlight. PF noted that P. cubensis spores begin degrading after a few months, with germination greatly reduced or absent after approximately 1.5 years.
 

@@ -17,7 +17,7 @@ It is one of the most ubiquitous fungal species in terrestrial
 environments, commonly isolated from soil, air, leaf surfaces, and
 decaying plant material. Its dark pigmentation, ecological versatility,
 and interactions with soil fauna make it an important component of soil
-food webs and agricultural ecosystems.
+food webs and [[fungi-grassland-agricultural-ecosystems-dighton]].
 
 ## Taxonomy and Classification
 
@@ -49,7 +49,7 @@ transition from fungal-controlled nutrient mineralization to
 bacterial-dominated decomposition. Interest has grown in returning to
 less intensive agricultural practices that would shift the decomposer
 community back toward fungi with integrated functions including
-nutrient immobilization, aggregate formation, and decomposition.
+[[dighton-fungal-nutrient-immobilization-turnover]], [[soil-aggregate-formation-fungal-contributions]], and decomposition.
 
 ## Role in Soil Food Webs
 
@@ -122,11 +122,13 @@ channeling energy to higher trophic levels.
 
 ## See Also
 
-- [[lichen-air-quality-biomonitoring-sampling-protocols]]
+- [[cladosporium-herbarum]]
+
+- lichen-air-quality-biomonitoring-sampling-protocols
 
 - [[soil-food-web-nutrient-cycling]]
 
 - [[hebeloma-crustuliniforme]] - ectomycorrhizal fungus with low collembola palatability
-- [[glomus-mosseae]] - arbuscular mycorrhizal fungus in grasslands
-- [[hymenoscyphus-ericae]] - ericoid mycorrhizal fungus in heathlands
-- [[paxillus-involutus]] - ectomycorrhizal species with heavy metal tolerance
+- [[glomus-mosseae]] - [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungus in grasslands
+- [[hymenoscyphus-ericae]] - [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] fungus in heathlands
+- [[paxillus-involutus]] - ectomycorrhizal species with heavy [[fungal-metal-tolerance-mechanisms]]

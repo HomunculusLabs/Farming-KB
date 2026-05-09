@@ -1,10 +1,11 @@
 ---
-title: Grain Spawn Production in The Mushroom Cultivator
+title: Grain growing-gourmet-sawdust-spawn-production-use in The Mushroom Cultivator
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [gardening]
 sources:
+  sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Grain Spawn Production in The Mushroom Cultivator
@@ -14,7 +15,7 @@ Updated: 2026-04-18
 
 ## Overview
 
-Mushroom spawn is the inoculum used to seed prepared substrates, consisting of a carrier material fully colonized by mushroom mycelium. In 1932, Dr. James Sinden patented the process of using cereal grain as the mycelial carrier, which remains the basis for most modern spawn production. The distinct advantage of grain spawn is the increased number of inoculation sites -- each individual kernel becomes a point from which mycelium can spread. A liter of rye grain spawn containing approximately 25,000 kernels represents a vast improvement over older inoculation methods.
+Mushroom spawn is the inoculum used to seed prepared substrates, consisting of a carrier material fully colonized by mushroom mycelium. In 1932, Dr. James Sinden patented the process of using cereal grain as the mycelial carrier, which remains the basis for most modern spawn production. The distinct advantage of grain spawn is the increased number of inoculation sites -- each individual kernel becomes a point from which mycelium can spread. A liter of rye grain spawn containing approximately 25,000 kernels represents a vast improvement over older [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]].
 
 ## Suitable Cereal Grains
 
@@ -22,7 +23,7 @@ Mushroom spawn is the inoculum used to seed prepared substrates, consisting of a
 - **Wheat**: Works equally well as rye for spawn making and fruitbody production.
 - **Millet**: Higher number of inoculation points per gram but more difficult to formulate. Amycel successfully uses millet as primary spawn medium.
 - **Sorghum/Milo**: Spherical kernels work relatively well; used for years by Stoller Spawn Company.
-- **Wheat/Rye Grass Seed**: Many more kernels per gram (415-450/gram) but tendency to clump. Widely used for sclerotia formation in Psilocybe species.
+- **Wheat/Rye Grass Seed**: Many more kernels per gram (415-450/gram) but tendency to clump. Widely used for sclerotia [[sclerotia-formation-in-psilocybe-species]] species.
 - **Brown Rice**: Tends to clump due to sticky outer coat.
 
 ## Physical Properties of Grains
@@ -91,7 +92,7 @@ The most efficient method for large-scale spawn production:
 1. **Inspect masters**: Look for abnormalities -- heavy growth, slimy kernels, unusual colors, sour odors
 2. **Shake masters**: Break grain into individual kernels against a cleaned car tire or padded surface
 3. **Wait 12-24 hours**: Set masters aside to verify recovery; jars not recovering may be contaminated with bacteria
-4. **Re-inspect**: Confirm renewed mycelial growth
+4. **Re-inspect**: Confirm renewed [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
 5. **Transfer**: Each master jar inoculates 10-12 quart jars or 7-9 half-gallon jars
 6. **Incubate**: At species-appropriate temperature for one week
 
@@ -118,7 +119,7 @@ Key incubation principles:
 - Temperature must be appropriate for the species being cultivated
 - The best temperature for vegetative (spawn) growth is typically several degrees higher than for fruiting
 - Agaricus brunnescens takes up to 2.5 weeks to colonize grain
-- Psilocybe cubensis colonizes in 7-10 days
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] colonizes in 7-10 days
 - Slower species benefit from shaking on Day 5 and Day 9
 - Semi-sterile environment preferred for incubation
 
@@ -126,7 +127,7 @@ Key incubation principles:
 
 - [[mushroom-cultivator-grain-selection-moisture]]
 
-- [[grain-spawn-preparation]] -- general grain spawn preparation
-- [[stamets-agar-media-preparation]] -- agar media for starter cultures
+- [[grain-spawn-preparation]] -- general grain [[azurescens-spawn-preparation-grain-to-wood]]
+- stamets-agar-media-preparation -- agar media for starter cultures
 - [[mushroom-cultivator-bulk-substrate]] -- spawning into bulk substrates
-- [[mushroom-grain-spawn-preparation]]
+- mushroom-grain-spawn-preparation

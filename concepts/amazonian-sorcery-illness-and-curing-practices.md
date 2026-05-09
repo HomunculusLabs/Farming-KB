@@ -1,5 +1,5 @@
 ---
-title: Amazonian Sorcery Illness and Curing Practices
+title: Amazonian amazonian sorcery illness and curing practices and Curing Practices
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Amazonian Sorcery, Illness, and Curing Practices
 
-In Amazonian shamanic cosmology, illness is rarely viewed as a purely physical phenomenon. Most diseases are attributed to sorcery -- the deliberate harmful actions of witch doctors (brujos) or sorcerers against their victims. The vegetalista (plant-healer) serves as both diagnostician and therapist, using ayahuasca visions to identify the nature and source of illness and employing icaros, plant medicines, and spiritual defenses to cure it.
+In [[amazonian-shamanic-battles-and-defensive-powers]] cosmology, illness is rarely viewed as a purely physical phenomenon. Most diseases are attributed to sorcery -- the deliberate harmful actions of witch doctors (brujos) or sorcerers against their victims. The vegetalista (plant-healer) serves as both diagnostician and therapist, using [[amaringo-ayahuasca-visions-shipibo-iconography]] to identify the nature and source of illness and employing icaros, plant medicines, and spiritual defenses to cure it.
 
 ## Sorcery Weapons
 
@@ -25,7 +25,7 @@ Yachay is a magical phlegm that the sorcerer or healer stores in their body, typ
 
 ### Mariri
 
-Mariri refers to the magical darts and substances used in sorcery. They appear as vibrant tubes in ayahuasca visions from which different types of sorcery emerge. Types include:
+Mariri refers to the magical darts and substances used in sorcery. They appear as vibrant tubes in [[ayahuasca-visions]] from which different types of sorcery emerge. Types include:
 - Snake-type mariri (Sachamama sorcery)
 - Marupa sorcery mariri (animal-influenced)
 - Chonta sorcery mariri (made from palm needles, fish horns, snake teeth, bird beaks)
@@ -53,7 +53,7 @@ A disease contracted from contaminated water. A sorcerer sends his mashu (bat) t
 
 ### Boa Chichuchishca
 
-"_begot by a boa" -- caused when a menstruating woman leaves wet underwear in a canoe at the riverside. A boa places itself on the clothes and excretes something living that later gives birth inside the woman. The vegetalista must sing icaros to make the boa come out, using jagua fruit (Genipa Americana) and the icaros of diamonds, gold, silver, and precious stones as protection.
+"_begot by a boa" -- caused when a menstruating woman leaves wet underwear in a canoe at the riverside. A boa places itself on the clothes and excretes something living that later gives birth inside the woman. The vegetalista must sing icaros to make the boa come out, using jagua fruit ([[genipa-americana]]) and the icaros of diamonds, gold, silver, and precious stones as protection.
 
 ## The Diet (La Dieta)
 
@@ -91,5 +91,5 @@ These two women -- one young (sky-blue dress), one old (lilac dress) -- perform 
 
 - [[ayahuasca-preparation-and-ceremony]] -- the visionary context for diagnosis
 - [[amazonian-medicinal-plants-in-amaringos-visions]]
-- [[holmgren-trees-nature-solar-power-plants]]
+- holmgren-trees-nature-solar-power-plants
 - [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]]

@@ -1,5 +1,5 @@
 ---
-title: Psilocybe Taxonomic Challenges and Synonymy
+title: guzman allen gartz psilocybe taxonomic challenges and synonymy Challenges and Synonymy
 created: 2026-04-28
 tags:
   - psilocybe
@@ -26,7 +26,7 @@ chemical studies.
 
 ## The Coprinifacies-Bohemica Complex
 
-Psilocybe coprinifacies exemplifies the depth of taxonomic confusion within
+Psilocybe coprinifacies exemplifies the depth of [[neurotropic-fungi-taxonomic-confusion-and-identification]] within
 the genus. Guzmán (1983) initially considered P. coprinifacies a doubtful
 species due to insufficient understanding and several misidentifications.
 However, European authors (Herink, 1950; Pouzar, 1953; Semerdzieva and
@@ -40,7 +40,7 @@ and P. serbica as all being synonyms of P. cyanescens.
 ## The Cyanescens Problem
 
 [[psilocybe-cubensis]] alone carries synonyms including
-Stropharia cubensis, P. cubensis var. caerulescens, Stropharia
+[[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]], P. cubensis var. caerulescens, Stropharia
 subcyanescens, S. cyanescens, and S. caerulescens. [[psilocybe-zapotecorum]] from Mexico and South America is
 closely related to P. aucklandii from New Zealand. P. hoogshagenii was
 treated as P. zapotecorum sensu Singer, though it is now recognized as
@@ -52,7 +52,7 @@ connections complicate the definition of species boundaries.
 ## The Mexicanae Section Distribution
 
 Section Mexicanae demonstrates another pattern of disjunct distribution.
-[[fungi-of-southeast-asia]], Australasia, and Mesoamerica, as also noted by
+fungi-of-southeast-asia, Australasia, and Mesoamerica, as also noted by
 Horak (1983) for other agaric genera including Cystoagaricus, Galerina,
 Mycena, and Paxillus in the South Pacific hemisphere.
 
@@ -61,7 +61,7 @@ Mycena, and Paxillus in the South Pacific hemisphere.
 Psilocybe aztecorum var. aztecorum grows exclusively in subalpine and
 alpine habitats in the high mountains of Mexico at up to 4,000 m elevation.
 It shows strong relationships with P. baeocystis from the Pacific Northwest
-of North America (Oregon, Washington, and British Columbia) and P.
+of [[psilocybin-north-america-pacific-northwest]] (Oregon, Washington, and British Columbia) and P.
 quebecensis from Quebec, Canada. These three species belong to Section
 Aztecorum and represent a distinctive alpine-adapted lineage within the
 genus, found across widely separated mountain ranges.
@@ -100,7 +100,7 @@ illustrates both the value and the limitations of herbarium collections.
 Modern taxonomic work must combine molecular phylogenetics with careful
 morphological study of well-documented voucher specimens to resolve the
 complex species boundaries that persist in this genus. The ongoing
-integration of DNA sequencing into Psilocybe systematics promises to clarify
+integration of [[environmental-dna-sequencing-fungi]] into Psilocybe systematics promises to clarify
 many of the synonymy issues that have long plagued the genus, though
 field-collected specimens with proper documentation remain essential for
 this effort.
@@ -116,4 +116,10 @@ recognized as new. As Gartz (1996) observed, "The mushrooms occur in
 abundance wherever mycologists abound," and the discovery of new species
 in any newly studied region (Gartz et al., 1995; Guzmán, 1998a, b, 1999a)
 suggests that current species counts substantially underestimate true
-diversity. See [[neurotropic-fungi-biogeographic-patterns]] for distribution implications.
+diversity. See neurotropic-fungi-biogeographic-patterns for distribution implications.
+## See Also
+- [[guzman-allen-gartz-neotropical-psilocybe-species]]
+- [[guzman-allen-gartz-psilocybe-habitat-vegetation-associations]]
+- [[guzman-allen-gartz-psilocybe-sections-biogeographic-significance]]
+- [[guzman-allen-gartz-global-psilocybe-biogeography]]
+- [[psilocybe-aztecorum-entity-the-mushroom-cultivator]]

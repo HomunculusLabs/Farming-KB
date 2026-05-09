@@ -1,5 +1,5 @@
 ---
-title: Permaculture Design Methods and Process
+title: bill-mollison-permaculture-a-designers-manual-permaculture-design-principles Methods and Process
 created: 2026-04-28
 tags:
   - permaculture
@@ -20,11 +20,11 @@ Permaculture design is a systematic methodology for creating sustainable
 human settlements. Bill Mollison presents design as an iterative process of
 observation, analysis, design, implementation, and evaluation. Unlike
 conventional design approaches that impose predetermined solutions, permaculture
-design emerges from the unique conditions of each site. The design process
+design emerges from the unique conditions of each site. The [[hemenway-garden-design-process-observation-and-visioning]]
 applies [[mollison-designers-site-analysis-mapping-observation]] and [[mollison-designers-sector-analysis-wind-sun-fire]].
 
-**Slope analysis** classifies landforms and identifies appropriate uses for
-each position in the landscape. See [[permaculture-zone-planning]].
+**[[mollison-designers-slope-analysis-keyline-design]]** classifies landforms and identifies appropriate uses for
+each position in the landscape. See permaculture-zone-planning.
 
 **Need and yield analysis** identifies the inputs (needs) and outputs
 (yields) of each proposed element, revealing opportunities for connections
@@ -52,7 +52,7 @@ outward, placing elements according to their frequency of use and
 relationship to the center.
 
 **Sector-based design**: Starting from the incoming energies identified in
-sector analysis and designing responses that channel, deflect, or harvest
+[[mollison-designers-sector-analysis-wind-sun-fire]] and designing responses that channel, deflect, or harvest
 each energy flow.
 
 Mollison recommends combining multiple approaches for robust design concepts
@@ -78,7 +78,7 @@ supported by multiple elements for resilience. Food production from
 gardens, orchards, foraging, and livestock. Water from tanks, dams, wells,
 and rain harvesting.
 
-**Energy efficient planning**: Place frequently-used elements close
+**[[cervantes-case-study-energy-efficient-sea-of-green]] planning**: Place frequently-used elements close
 together. Place rarely-used elements far away. Use gravity, animals, and
 natural processes to move materials instead of fossil fuels.
 
@@ -91,7 +91,7 @@ proposed system, identifying all inputs, outputs, and connections.
 
 **Overlay mapping**: Transparent maps for each factor (water, access, sun,
 wind, soil, vegetation) overlaid to identify optimal placement where
-favorable conditions coincide. **Random assembly**: brainstorming element
+favorable conditions coincide. **[[hemenway-random-assembly-design-technique]]**: brainstorming element
 lists and randomly combining them to discover unexpected synergies.
 **Decision matrices**: systematic comparison of options against weighted
 criteria for complex decisions.
@@ -100,5 +100,7 @@ criteria for complex decisions.
 
 Implementation planning sequences elements logically: water systems first,
 ## See Also
+
+- [[mollison-designers-design-methods-analysis]]
 
 - [[permaculture-design-process-overview]]

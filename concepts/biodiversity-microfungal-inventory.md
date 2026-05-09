@@ -1,8 +1,8 @@
 ---
-title: Microfungal Inventory Methods
+title: Microfungal [[biodiversity-macrofungi-inventory-methods]]
 created: 2026-04-28
 tags:
-  - mycology
+  - [[mycology]]
   - microfungi
   - fungal-survey
   - plant-debris
@@ -21,7 +21,7 @@ structures. They comprise an unnatural group of organisms that cuts
 across the classification schemes for Fungi and for fungal-like
 organisms in the Protista, Chromista, and Myxomycota. The single
 criterion for inclusion is the small size of the spore-producing
-structures, in contrast to the large macroscopic fruiting bodies
+structures, in contrast to the large macroscopic [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]
 of the macrofungi.
 
 ## Major Groups Included
@@ -66,7 +66,7 @@ on higher plants, characterize microfungi:
 characterize fungi in disturbed but productive environments.
 Species are ephemeral but growth can be rapid. Many Mucorales
 are ruderals, abundant in soil. A modified ruderal strategy is
-shown by [[biodiversity-fungi-leaf-litter-decomposition]]
+shown by biodiversity-fungi-leaf-litter-decomposition
 - [[biodiversity-of-fungi-endophytic-fungi]]
 - [[biodiversity-fungal-community-assembly]]
 ## Practical Considerations
@@ -87,4 +87,5 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[decomposition]]

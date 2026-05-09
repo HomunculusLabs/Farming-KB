@@ -1,5 +1,5 @@
 ---
-title: Cannabis Potency Maximization
+title: green-cannabis-potency-maximizing Maximization
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -11,19 +11,19 @@ sources:
 
 ## Overview
 
-Maximizing THC and terpene production in cannabis involves optimizing genetics, light quality, environmental stress, nutrient management, and harvest timing. The Cannabis Grow Bible describes potency as the result of cumulative factors throughout the plant's life cycle.
+Maximizing THC and terpene production in cannabis involves optimizing genetics, light quality, environmental stress, [[jadam-nutrient-management-wetting-agent-and-calcium]], and [[cannabis-harvest-timing-visual-cues]]. The Cannabis Grow Bible describes potency as the result of cumulative factors throughout the plant's life cycle.
 
 ## Genetics — The Foundation
 
 - Strain selection is the single most important factor in potency
 - Indica strains tend to produce higher THC levels
-- Sativa strains often have more complex terpene profiles
+- Sativa strains often have more complex [[cannabis-terpene-profiles-sativa]]
 - Cloning from a verified high-potency mother ensures genetic consistency
 
 ### THC Levels vs THC Quantities
 A critical distinction from the Cannabis Grow Bible:
 - **THC levels** are genetic and not under the grower's influence — this is the inherent potency of the cannabinoid profile (delta-8 and delta-9 THC, plus minor cannabinoids CBD, CBN, THCV, CBDV, CBC, CBL)
-- **THC quantities** are under the grower's control through bud mass and resin production
+- **THC quantities** are under the grower's control through bud mass and [[cannabis-glandular-trichome-types-resin-production-clarke]]
 - A plant may contain 100% THC with low "levels," while another has 60% THC with very high "levels"
 - The same genetics grown under better conditions and light can go from 20% to 70% THC quantity while the genetic "level" stays the same
 - A good potent plant has both levels and quantities very high
@@ -34,7 +34,7 @@ A critical distinction from the Cannabis Grow Bible:
 - HID lighting (HPS and MH) provides the best spectrum for indoor flowering
 - Lumens directly correlate to yield and resin production
 - Position lights as close as possible without burning the plants
-- Light bands matter: blue light for vegetative growth, red/orange for flowering
+- Light bands matter: blue light for [[cannabis-vegetative-growth-stage]], red/orange for flowering
 - Reflective walls and good light distribution maximize coverage
 
 ## Environmental Stress Techniques

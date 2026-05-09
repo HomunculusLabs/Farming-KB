@@ -1,7 +1,7 @@
 ---
 title: Double-Digging Bed Preparation
 created: 2026-04-26
-author: John Jeavons
+author: [[john-jeavons]]
 sources: How to Grow More Vegetables, 8th edition
 book: How to Grow More Vegetables
 tags: [biointensive, bed-preparation, double-digging, soil-structure, tillage]
@@ -75,20 +75,20 @@ Ecology Action uses four basic types:
 
 ## Timing
 
-- Perform double-digging at least once a year, normally at the beginning of the main growing season.
+- Perform double-digging at least once a year, normally at the beginning of the main [[savory-growing-season-and-non-growing-season-management]].
 - For autumn crops, the practice is often to only single-dig and add no compost or fertilizers.
 - A skilled gardener can complete a double-dig in about 2 hours for a 100-square-foot bed.
 - For a beginner, allow 4 to 6 hours per 100-square-foot bed.
 
 ## The Living Sponge Cake: Soil Structure Goals
 
-The fundamental goal of all bed preparation is to develop soil structure so plants have a "living sponge cake" in which to thrive. This sponge-like structure is created and maintained by the interaction of organic matter (especially humus from cured compost), microbial life, plant roots, air, and water. The double-digging process initiates this structure by loosening compacted soil to a depth of 24 inches, and the ongoing addition of compost sustains it.
+The fundamental goal of all bed preparation is to develop soil structure so plants have a "living sponge cake" in which to thrive. This sponge-like structure is created and maintained by the interaction of [[hamilton-composting-and-organic-matter-management]] (especially humus from cured compost), microbial life, plant roots, air, and water. The double-digging process initiates this structure by loosening compacted soil to a depth of 24 inches, and the ongoing addition of compost sustains it.
 
 In a well-prepared bed, the soil should be friable — crumbly and loose rather than hard or compacted. When you squeeze a handful of moist soil and release it, it should hold its shape briefly, then break apart gently. This texture allows roots to penetrate easily, water to infiltrate and be retained, air to circulate, and microbial populations to thrive.
 
 ## Soil as a Living System
 
-Double-digging is not merely a mechanical process — it is an intervention into a living system. The upper 6 inches of soil contains the highest concentration of beneficial microbiotic life: bacteria, fungi, actinomycetes, protozoa, and earthworms. This biological community is responsible for nutrient cycling, disease suppression, and the creation of soil structure through the production of "soil glue" (polysaccharides and other organic compounds).
+Double-digging is not merely a mechanical process — it is an intervention into a living system. The upper 6 inches of soil contains the highest concentration of beneficial microbiotic life: bacteria, fungi, actinomycetes, protozoa, and earthworms. This biological community is responsible for [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], [[aact-disease-suppression-mechanisms-ingham]], and the creation of soil structure through the production of "soil glue" (polysaccharides and other [[fungal-volatile-organic-compounds-communication]]).
 
 The key principle of double-digging is to preserve this biological layer. The top 12 inches of soil is never turned over. Instead, it is shifted forward from one trench to the next, maintaining the natural layering that has developed over time. The subsoil below is loosened but not inverted, allowing roots, air, and water to penetrate deeper while bringing the subsoil into contact with the microbiotically active upper layers.
 
@@ -112,7 +112,7 @@ For autumn crops, Ecology Action's practice is often to only single-dig (looseni
 - **Turning the soil over**: Inverting the topsoil layer buries the microbiotic life and disrupts the soil food web. Slide soil forward instead.
 - **Digging when too wet or too dry**: Test soil moisture by squeezing a handful. If it crumbles immediately, it is too dry. If it sticks together in a sticky ball, it is too wet. If it holds its shape briefly then breaks apart, it is ready.
 - **Working too fast**: The Aikido-like economy of motion comes with practice. Beginners should focus on correct technique rather than speed. Rushing leads to poor soil structure and exhaustion.
-- **Neglecting the compost layer**: The 1-inch layer of compost on the surface is not optional. It provides the food for soil life and the beginning of the carbon cycle within the bed.
+- **Neglecting the compost layer**: The 1-inch layer of compost on the surface is not optional. It provides the food for [[soil-life]] and the beginning of the carbon cycle within the bed.
 
 ## Relationship to Sustainable Fertility
 
@@ -123,6 +123,6 @@ The GROW BIOINTENSIVE method can build soil up to 60 times faster than in nature
 ## See Also
 
 - [[jeavons-flat-preparation-seedling-raising]] — Seedling production for transplanting
-- [[jeavons-soil-fertility]] — Nutrient management and sustainability
+- [[jeavons-soil-fertility]] — [[green-cannabis-grow-bible-nutrient-management-ppm]] and sustainability
 - [[jeavons-master-planning-mini-farms]] — Whole system design
 - [[hugelkultur-bed-construction-detailed]] — Alternative raised bed approaches

@@ -17,7 +17,7 @@ bleached white appearance of wood they have colonized, resulting from the
 selective removal of brown lignin pigments. White rot fungi are the primary
 biological agents of lignin decomposition on Earth and are indispensable to
 global carbon cycling in forest ecosystems. Their lignin-degrading capabilities
-are detailed in [[agar]]icomycetes class
+are detailed in agaricomycetes class
 of Basidiomycota, particularly within the orders Polyporales, Hymenochaetales,
 Agaricales, and Russulales. Notable genera include Phanerochaete, Trametes,
 Pleurotus, Bjerkandera, Ceriporiopsis, and Ganoderma.
@@ -45,14 +45,14 @@ oxidative radical cascade that non-specifically attacks lignin's aromatic
 polymer structure, progressively fragmenting it into water-soluble oligomers
 and ultimately to carbon dioxide.
 
-Crucially, lignin degradation cannot occur through hydrolytic mechanisms
+Crucially, [[query-how-does-lignin-degradation-by-fungi-work]] cannot occur through hydrolytic mechanisms
 alone. Lignin lacks regular repeating units and glycosidic bonds that
 hydrolases can attack. Only oxidative radical chemistry, as deployed by white
 rot fungi, can cleave the diverse carbon-carbon and ether bonds linking lignin
 subunits. This is why white rot fungi are uniquely important among decomposers.
 
-The production of reactive oxygen species, particularly hydrogen peroxide,
-through fungal metabolism is essential for peroxidase function. Peroxidases
+The production of reactive oxygen species, particularly [[cervantes-hydrogen-peroxide-sterilization]],
+through [[singh-fungal-metabolism-pahs]] is essential for peroxidase function. Peroxidases
 require H2O2 as an electron acceptor, and its controlled generation by
 oxidases and other metabolic processes prevents uncontrolled radical damage
 to fungal cells while enabling targeted lignin attack.
@@ -83,9 +83,9 @@ like TNT, synthetic dyes, pharmaceuticals, and endocrine-disrupting compounds.
 superior performance in field applications due to their faster growth and
 greater environmental tolerance. The [[ganoderma-lucidum]]) all degrade lignocellulose as
 part of their life cycle. [[staycare-laccase-enzymes-in-bioremediation]]
-- [[biobleaching-of-pulp-by-white-rot-fungi]]
+- biobleaching-of-pulp-by-white-rot-fungi
 - [[trametes-versicolor-entity]]
 
-[[staycare-composting-as-a-fungal-bioremediation-strategy]] examines how fungal decomposition applies to contaminated organic waste.
-[[staycare-ecotoxicological-assessment-of-fungal-bioremediation]] addresses evaluating the safety and effectiveness of fungal remediation.
-[[staycare-fungal-immobilization-and-entrapment-for-bioremediation]] explores techniques for deploying fungal biomass in treatment systems.
+[[staycare-composting-as-a-fungal-bioremediation-strategy]] examines how [[dighton-fungal-decomposition-leaf-litter-dynamics]] applies to contaminated organic waste.
+[[staycare-ecotoxicological-assessment-of-fungal-bioremediation]] addresses evaluating the safety and effectiveness of [[cotter-pet-livestock-waste-fungal-remediation-systems]].
+[[staycare-fungal-immobilization-and-entrapment-for-bioremediation]] explores techniques for deploying [[bioremediation-fungal-biomass-biosorbent-material]] in treatment systems.

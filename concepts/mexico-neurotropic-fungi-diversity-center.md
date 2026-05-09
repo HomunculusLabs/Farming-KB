@@ -1,5 +1,5 @@
 ---
-title: Mexico Neurotropic Fungi Diversity Center
+title: Mexico challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification Diversity Center
 created: 2026-04-28
 tags:
   - mycology
@@ -64,7 +64,7 @@ Several species that occur more broadly also have significant Mexican population
 
 - **P. cubensis**: Widespread in tropical and subtropical lowlands
 - **P. caerulescens**: The famous "derrumbe" of Oaxaca and Veracruz
-- **P. mexicana**: The original sacred mushroom of the Mazatec, known from Oaxaca, Veracruz, and Puebla
+- **P. mexicana**: The original [[allegro-the-sacred-mushroom-amanita-identification]] of the Mazatec, known from Oaxaca, Veracruz, and Puebla
 - **P. zapotecorum**: Used by the Zapotec and Mazatec peoples; found in subtropical forests
 - **P. hoogshagenii**: With two varieties in Mexico (var. hoogshagenii and var. convexa)
 - **P. yungensis**: Widespread but significant in Mexico
@@ -96,9 +96,12 @@ Mexico's neurotropic diversity extends well beyond Psilocybe:
 ### Other Genera
 - ****: Known as "kiowa" or "hongo de pie de mazorca" (corn ear mushroom), used by the Mazatec
 - **[[amanita-pantherina]]**: Present
-- **[[psilocybe-diversity-in-mexico]]
-- [[psilocybe-diversity-in-mexico]]
+- **psilocybe-diversity-in-mexico
+- psilocybe-diversity-in-mexico
 
 ## See Also
 
-- [[mexico-neurotropic-fungi-biodiversity-center-guzman-2000]]
+- mexico-neurotropic-fungi-biodiversity-center-guzman-2000
+- [[neurotropic-fungi]]
+- [[mexico-center-neurotropic-fungal-diversity]]
+- [[guzman-allen-gartz-mexico-center-neurotropic-diversity]]

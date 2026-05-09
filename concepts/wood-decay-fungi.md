@@ -1,33 +1,20 @@
 ---
 title: wood decay fungi
 created: 2026-04-28
-tags: [[mycology, decomposition, ecology, forest-biology]
+tags: [mycology, decomposition, ecology, forest-biology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
 type: concept
 ---
-
-# Wood Decay Fungi
-
-Wood decay fungi are a functional group of basidiomycetes and ascomycetes
-that decompose lignocellulose — the primary structural material of woody
-plants. They play essential roles in carbon cycling and nutrient return in
-forest ecosystems.
-
-## Decay Types
-
-Wood decay is classified by the chemical components targeted:
-
-### White Rot
-[[trametes-versicolor-entity]]*.
+# Wood Decay Fungi Wood decay fungi are a functional group of basidiomycetes and ascomycetes that decompose lignocellulose — the primary structural material of woody plants. They play essential roles in carbon cycling and nutrient return in forest ecosystems. ## Decay Types Wood decay is classified by the chemical components targeted: ### White Rot [[trametes-versicolor-entity]]*.
 
 ### Brown Rot
 Brown rot fungi primarily target cellulose and hemicellulose while modifying
 but not fully mineralizing lignin. The remaining lignin gives decayed wood a
 brown, cracked appearance. They employ a Fenton chemistry system generating
 hydroxyl radicals that depolymerize cellulose non-enzymatically. Common
-species include *Serpula lacrymans* (dry rot of buildings) and *Gloeophyllum
+species include *[[fungal-serpula-lacrymans-dry-rot-buildings]]* (dry rot of buildings) and *Gloeophyllum
 trabeum*.
 
 ### Soft Rot
@@ -44,14 +31,14 @@ a suite of nonspecific oxidative enzymes:
 - **Laccases** (EC 1.10.3.2): Copper-containing oxidases that directly
   oxidize phenolic lignin subunits. Can also degrade non-phenolic structures
   with mediator molecules.
-- **Peroxidases**: Include lignin peroxidase (LiP) and manganese peroxidase
-  (MnP). Require hydrogen peroxide as co-substrate.
+- **Peroxidases**: Include [[fungal-lignin-peroxidase-veratryl-alcohol]] (LiP) and [[fungal-manganese-peroxidase-remediation]]
+  (MnP). Require [[cervantes-hydrogen-peroxide-sterilization]] as co-substrate.
 - **Fenton chemistry**: Brown rot fungi generate H2O2 via extracellular
   redox cycling, producing hydroxyl radicals that cleave cellulose chains.
 
 ## Foraging Strategies
 
-Wood decay fungi locate and colonize new resources through mycelial networks
+Wood decay fungi locate and colonize new resources through [[fungal-mycelial-networks-nutrient-translocation]]
 that grow outward from established food bases. Research demonstrated distinct
 foraging patterns:
 
@@ -67,7 +54,7 @@ wood resources acting as transport highways.
 ## Ecological Impact
 
 Wood decay fungi are responsible for decomposing approximately 10% of
-terrestrial net primary production. Their activity:
+terrestrial net [[lichens-primary-production-soil-formation-dighton]]. Their activity:
 
 - Releases carbon dioxide through respiration during decomposition
 - Mobilizes nitrogen and phosphorus locked in dead wood
@@ -94,6 +81,8 @@ tolerant species as the wood becomes increasingly degraded. This
 successional sequence can span decades and supports diverse communities
 of invertebrates, birds, and other organisms at each stage.
 ## See Also
+
+- [[fungal-enzyme-wood-decay]]
 
 - [[fungal-ecology]]
 - [[lignin-degradation]]

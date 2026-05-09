@@ -1,5 +1,5 @@
 ---
-title: Rice Water Weevil Surface Spreading Agent (JADAM Recipe #2)
+title: jadam rice water weevil control Surface Spreading Agent (JADAM Recipe #2)
 created: 2026-04-20
 updated: 2026-04-18
 type: concept
@@ -19,7 +19,7 @@ Rice water weevils (Lissorhoptrus oryzophilus) inhabit the dikes and water surfa
 ## Surface Spreading Agent Recipe (Concentrated)
 
 - [[jadam-sulfur-js]] 0.5 L (0.132 gal)
-- Canola oil 3 L (0.8 gal)
+- [[jadam-canola-oil-surfactant-method]] 3 L (0.8 gal)
 
 ### Mixing Instructions
 1. Mix JWA in 5 L of water and stir well
@@ -67,8 +67,8 @@ The JWA + canola oil combination spreads rapidly across the water surface, formi
 
 ## See Also
 
-- [[jadam-rice-pesticide-program]] - Recipe #3 for comprehensive rice pest control
-- [[jadam-sulfur-js]] - How to make JADAM sulfur
+- [[jadam-rice-pesticide-program]] - Recipe #3 for comprehensive rice [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]
+- [[jadam-sulfur-js]] - How to make [[ultra-low-jadam-sulfur-js]]
 - [[jadam-cover-crop-wild-grass-symbiosis]]
 
 - [[jadam-natural-pesticide-programs]]
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

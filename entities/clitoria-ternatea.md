@@ -15,7 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://pubmed.ncbi.nlm.nih.gov/ — anthocyanin pharmacology and neuroprotective studies
-  - https://powo.science.kew.org/ — taxonomic authority and distribution
+  - https://powo.science.kew.org/ — [[bloomfield-taxonomic-authority-debate-lloyd-underwood-atkinson]] and distribution
   - Mukherjee, P.K. et al. "Clitoria ternatea: A Review on Its Phytochemical and Pharmacological Profile." Phytomedicine, 2008.
   - Goh, B.H. et al. "Clitoria ternatea (Butterfly Pea): A Review of Its Ethnobotany, Pharmacology, and Clinical Applications." Frontiers in Pharmacology, 2022.
 ---
@@ -48,7 +48,7 @@ sources:
 
 ## Distribution and Habitat
 
-- **Native range:** Tropical and subtropical Asia, from India and Sri Lanka eastward through Southeast Asia to northern Australia and the Pacific Islands
+- **Native range:** Tropical and subtropical Asia, from India and Sri Lanka eastward through Southeast Asia to northern Australia and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]
 - **Cultivated:** Throughout the tropics and subtropics; widely grown as an ornamental, medicinal, and food crop in Thailand, Vietnam, Malaysia, Indonesia, and India
 - **Habitat:** Open grasslands, forest edges, roadsides, cultivated fields; climbs on fences, trellises, and other vegetation
 - **Hardiness:** USDA zones 10–12 as perennial; can be grown as an annual in zones 8–9; damaged by frost below 5°C
@@ -69,7 +69,7 @@ sources:
 - **Ayurvedic medhya rasayana:** Classified as a brain tonic (medhya) and rejuvenative (rasayana) in Ayurveda; the root is considered the primary medicinal part
 - **Cognitive enhancement:** Traditionally used to improve memory, concentration, and learning ability; modern research supports nootropic activity through multiple mechanisms
 - **Anxiolytic and antidepressant:** Root extracts demonstrate anxiolytic effects in animal models comparable to benzodiazepines, likely via GABA-A receptor modulation without sedative side effects
-- **Anti-inflammatory:** Leaf and root extracts inhibit COX-2, TNF-α, and IL-6; used traditionally for joint pain and inflammatory conditions
+- **Anti-inflammatory:** Leaf and root extracts inhibit COX-2, TNF-α, and IL-6; used traditionally for joint pain and [[cannabis-for-inflammatory-conditions]]
 - **Antidiabetic:** Anthocyanin-rich flower extracts improve insulin sensitivity and reduce postprandial blood glucose in animal models
 - **Antioxidant:** High ORAC value from ternatins; protects against oxidative stress in hepatic and neuronal tissues
 - **Antimicrobial:** Cyclotides and anthocyanins show activity against Gram-positive bacteria, Candida species, and some viruses
@@ -86,12 +86,12 @@ sources:
 ## Cultivation and Permaculture Role
 
 - **Propagation:** Seed (scarification or soaking in warm water for 12–24 hours improves germination); stem cuttings also viable; germination in 5–10 days at 25–30°C
-- **Support:** Requires trellis, fence, or companion plant to climb; excellent for vertical gardening
+- **Support:** Requires trellis, fence, or companion plant to climb; excellent for [[comparison-vertical-gardening-vs-container-gardening]]
 - **Nitrogen fixation:** As a legume, fixes atmospheric nitrogen via rhizobial symbiosis, improving soil fertility for neighboring plants
 - **Living mulch and ground cover:** Dense foliage provides weed suppression and soil protection in tropical food forests
-- **Companion planting:** Excellent companion for vegetables and fruit trees in permaculture guilds; the nitrogen-fixing capacity and pollinator attraction make it a functional support plant
+- **Companion planting:** Excellent companion for vegetables and fruit trees in [[permaculture-guilds]]; the nitrogen-fixing capacity and pollinator attraction make it a functional support plant
 - **Ornamental value:** Striking blue flowers provide extended blooming from spring through autumn in warm climates
-- **Drought tolerance:** Once established, moderately drought-tolerant; performs best with regular watering
+- **[[dighton-fungal-drought-tolerance-plant-water-relations]]:** Once established, moderately drought-tolerant; performs best with regular watering
 - **Pest resistance:** Cyclotide content provides natural resistance to many insect pests
 
 ## Safety and Precautions
@@ -123,8 +123,9 @@ sources:
 - clitoria ternatea
 
 - [[bacopa-monnieri]] — complementary Ayurvedic nootropic used alongside Clitoria in traditional brain-tonic formulations
-- [[ocimum-sanctum]] — complementary adaptogenic herb in Ayurvedic practice
+- ocimum-sanctum — complementary adaptogenic herb in Ayurvedic practice
 
 ## See Also
 
 - [[permaculture-plants-medicinal-herbs-healing]]
+- [[companion-planting]]

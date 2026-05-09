@@ -1,11 +1,11 @@
 ---
-title: Cannabis Autoimmune Conditions
+title: Cannabis cannabis-autoimmune-conditions-detailed
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 # Cannabis for Autoimmune Conditions
 
@@ -91,7 +91,7 @@ This autoimmune condition causes hardening of skin and connective tissue. Limite
 1. **CB2 activation is primary**: Autoimmune conditions primarily benefit from CB2-mediated anti-inflammatory and immunomodulatory effects
 2. **Indica strains preferred**: Lower THC:CBD ratios favor CB2 expression
 3. **Raw cannabis juice**: Provides high-dose CBD-acid for non-psychoactive CB2 activation
-4. **Whole-plant approach**: The entourage effect of multiple cannabinoids may provide superior immune modulation
+4. **Whole-plant approach**: The [[cannabis-terpene-entourage-effect-profiles]] of multiple cannabinoids may provide superior [[cancer-immune-modulation-mechanisms]]
 5. **(E)-Beta-caryophyllene**: This dietary cannabinoid in common spices (black pepper, clove, cinnamon) activates CB2 without psychoactivity
 6. **Anti-inflammatory diet**: Turmeric, cayenne, garlic, and other anti-inflammatory foods complement cannabinoid therapy
 
@@ -101,11 +101,11 @@ Emerging evidence for cannabis in systemic lupus erythematosus. Anti-inflammator
 
 ### Interstitial Cystitis
 
-The Blesching source documents a case of cannabinoid rotation in a young woman with chronic cystitis (Krenn et al., 2003), suggesting cannabinoids may help manage the chronic pain and inflammation of interstitial cystitis, a condition involving autoimmune components.
+The Blesching source documents a case of cannabinoid rotation in a young woman with chronic cystitis (Krenn et al., 2003), suggesting cannabinoids may help manage the [[cannabis-chronic-pain-management]] and inflammation of interstitial cystitis, a condition involving autoimmune components.
 
 ### Autoimmune Uveitis
 
-CB2 receptor agonists have shown potent in vivo anti-inflammatory property in autoimmune uveoretinitis. A synthetic CB2 agonist reduced transcription factors (AP-1) and inflammatory mediators (cytokines) in toxin-induced uveitis, and may exert its effect via inhibiting the activation and function of autoreactive T cells and preventing leukocyte trafficking into inflamed tissue (Aberdeen, 2007).
+CB2 [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]] have shown potent in vivo anti-inflammatory property in autoimmune uveoretinitis. A synthetic CB2 agonist reduced transcription factors (AP-1) and inflammatory mediators (cytokines) in toxin-induced uveitis, and may exert its effect via inhibiting the activation and function of autoreactive T cells and preventing leukocyte trafficking into inflamed tissue (Aberdeen, 2007).
 
 ## Terpenes and the Entourage Effect in Autoimmunity
 
@@ -125,7 +125,7 @@ Myrcene has anti-inflammatory and muscle-relaxant properties that complement can
 
 ## Mind-Body Considerations
 
-Mental-emotional states directly affect the immune system. Mental-emotional states may induce a susceptibility or vulnerability to disease, and they are also capable of initiating a formidable defense and rapid immune response. Infectious agents and autoimmune triggers are more likely to result in disease whenever negative affect is present, because negative emotional and mental states are resource-intensive and deplete the reserves that protect immunity. Conversely, a balanced and powerful immunity results from the experience of emotional support, safety, security, trust, love, and confidence.
+Mental-emotional states directly affect the immune system. Mental-emotional states may induce a susceptibility or vulnerability to disease, and they are also capable of initiating a formidable defense and rapid immune response. [[blesching-cannabis-infectious-agents-cancer]] and autoimmune triggers are more likely to result in disease whenever negative affect is present, because negative emotional and mental states are resource-intensive and deplete the reserves that protect immunity. Conversely, a balanced and powerful immunity results from the experience of emotional support, safety, security, trust, love, and confidence.
 
 ## Safety in Autoimmune Conditions
 

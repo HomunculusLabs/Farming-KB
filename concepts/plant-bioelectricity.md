@@ -10,7 +10,7 @@ type: concept
 
 # Plant Bioelectricity
 
-Plants generate, conduct, and respond to electrical signals in ways that
+Plants generate, conduct, and respond to [[tompkins-plant-electrical-signals]] in ways that
 parallel animal nervous systems despite lacking neurons or synapses. From
 the electrical responses measured by Bose's crescograph and Backster's
 polygraph to the bioelectric fields detected by Vogel, evidence suggests
@@ -21,7 +21,7 @@ to threats and stimuli with remarkable precision and apparent awareness.
 ## Overview
 
 The investigation of plant bioelectricity spans from Luigi Galvani's
-eighteenth-century discovery of "animal electricity" to Cleve Backster's
+eighteenth-century discovery of "animal electricity" to [[tompkins-cleve-backster-primary-perception]]'s
 1966 observation that his dracaena plant produced galvanometer patterns
 similar to human emotional responses. The fundamental premise is that all
 living matter generates and responds to electrical phenomena. Bose
@@ -129,7 +129,7 @@ plants and humans, suggesting it operates beyond the known spectrum.
 ## Practical Applications
 
 Plant bioelectricity measurements can serve as biological sensors for
-environmental monitoring, threat detection, and the study of consciousness.
+[[singh-fungal-biosensors-environmental-monitoring]], threat detection, and the study of consciousness.
 Understanding plant electrical responses has implications for agriculture,
 [[cleve-backster-plant-perception-experiments]]
 - [[jagadis-chandra-bose-plant-research]]

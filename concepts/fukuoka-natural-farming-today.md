@@ -1,16 +1,17 @@
 ---
-title: Fukuoka: Natural Farming Today — East Meets West
+title: Fukuoka: comparison-natural-farming-vs-permaculture Today — East Meets West
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 Updated: 2026-04-18
 
-In this chapter from "The Road Back to Nature," Fukuoka contrasts Western and Japanese attitudes toward natural farming, observing that foreigners who visit his farm often grasp the essence more quickly than his fellow Japanese.
+In this chapter from "The Road Back to Nature," Fukuoka contrasts Western and Japanese [[weil-cultural-attitudes-toward-altered-states]] natural farming, observing that foreigners who visit his farm often grasp the essence more quickly than his fellow Japanese.
 
 This chapter provides crucial context for understanding how [[fukuoka-european-civilization-standstill]], where Fukuoka argued that Western civilization had reached an impasse that paradoxically made its members more receptive to radical alternatives.
 
@@ -18,7 +19,7 @@ This chapter provides crucial context for understanding how [[fukuoka-european-c
 
 Several reasons:
 
-1. **They know the errors of Western philosophy** — having stared at Western philosophy and beset with doubts, they decide to get out and turn to Eastern thought. Once resolved, they plunge right in
+1. **They know the errors of [[fukuoka-descartes-western-philosophy-nature]]** — having stared at Western philosophy and beset with doubts, they decide to get out and turn to Eastern thought. Once resolved, they plunge right in
 
 2. **Societal tolerance** — In Australia, land prices are about a hundredth of Japan's. Society is more tolerant of unconventional farming
 
@@ -26,9 +27,9 @@ Several reasons:
 
 4. **Language barrier is a plus** — not speaking Japanese prevents them from over-intellectualizing the experience
 
-The language barrier point is particularly insightful. Fukuoka believed that intellectual understanding was an obstacle to natural farming. When visitors cannot understand the technical discussions happening around them, they are forced to rely on direct observation and intuition — which is exactly what natural farming requires.
+The language barrier point is particularly insightful. Fukuoka believed that intellectual understanding was an obstacle to natural farming. When visitors cannot understand the technical discussions happening around them, they are forced to rely on [[fukuoka-direct-observation-method]] and intuition — which is exactly what natural farming requires.
 
-The economic factor is equally important. [[fukuoka-paris-peace-march-nature-university]], where Fukuoka proposed concrete actions — seed-bombing, desert reclamation — rather than mere philosophy. For Fukuoka, the test of understanding was always action: if you truly understand natural farming, you will practice it, regardless of the social consequences.
+The economic factor is equally important. [[fukuoka-paris-peace-march-nature-university]], where Fukuoka proposed concrete actions — seed-bombing, [[fukuoka-desert-reclamation-projects]] — rather than mere philosophy. For Fukuoka, the test of understanding was always action: if you truly understand natural farming, you will practice it, regardless of the social consequences.
 
 ## The Relevance for [[fukuoka-nature-as-teacher]]
 
@@ -55,7 +56,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -97,4 +98,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

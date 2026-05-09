@@ -1,18 +1,13 @@
 ---
 title: Cold Shocking Mushrooms
 created: 2026-04-28
-tags: [[mycology, mushroom-cultivation, fruiting, cold-shock, temperature]
+tags: [mycology, mushroom-cultivation, fruiting, cold-shock, temperature]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
 type: concept
 ---
-
-# Cold Shocking Mushrooms
-
-Cold shocking is a cultivation technique used to initiate fruiting (pinning) in
-mushroom mycelium by exposing it to a sudden drop in temperature. The practice
-is most commonly associated with [[psilocybe-cubensis]]**: A tropical species where cold shocking is of
+# Cold Shocking Mushrooms Cold shocking is a cultivation technique used to initiate fruiting (pinning) in mushroom mycelium by exposing it to a sudden drop in temperature. The practice is most commonly associated with [[psilocybe-cubensis]]**: A tropical species where cold shocking is of
   questionable value. Cubensis fruits naturally in warm, humid conditions and
   may actually benefit more from a simple drop in temperature from incubation
   to standard room temperature fruiting conditions rather than a dramatic cold
@@ -20,7 +15,7 @@ is most commonly associated with [[psilocybe-cubensis]]**: A tropical species wh
   lowering temperature from ~27°C to ~23°C is sufficient and that true cold
   shocking is unnecessary or even counterproductive.
 
-- **[[lentinula-edodes]]** (shiitake): Shiitake cultivation traditionally
+- **[[lentinula-edodes]]** (shiitake): [[gourmet-medicinal-mushroom-shiitake-cultivation-logs]] traditionally
   involves a cold shock step. After a long colonization period on supplemented
   sawdust blocks, blocks are soaked in cold water (often overnight) to both
   hydrate the substrate and deliver a thermal shock that initiates fruiting.
@@ -106,4 +101,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

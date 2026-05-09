@@ -1,16 +1,13 @@
 ---
-title: Permaculture Polyculture Fish Pond
+title: Permaculture permaculture polyculture [[knf-fish-pond-integration]] Pond
 created: 2026-04-28
-tags: [[permaculture, aquaculture, fish-pond, polyculture, chinampa, water]
+tags: [permaculture, aquaculture, fish-pond, polyculture, chinampa, water]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 type: concept
 ---
-
-# Permaculture Polyculture Fish Pond Systems
-
-[[permaculture-duck-orchard-integration]] for duck-pond integration and
+# Permaculture Polyculture Fish Pond Systems [[permaculture-duck-orchard-integration]] for duck-pond integration and
 [[fukuoka-duck-rice-fish-polyculture]]
 
 See also: [[integrated-homestead-design]]
@@ -64,7 +61,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -142,4 +139,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

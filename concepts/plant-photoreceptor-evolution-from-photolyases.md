@@ -1,5 +1,5 @@
 ---
-title: Plant Photoreceptor Evolution from Photolyases
+title: Plant plant photoreceptor evolution from photolyases from Photolyases
 created: 2026-04-28
 tags: [botany, evolution, photoreceptors, cryptochrome, photolyase, phytochrome, circadian-rhythm, molecular-evolution]
 date: 2026-04-28
@@ -15,7 +15,7 @@ type: concept
 
 The photoreceptors that enable plants to sense their light environment did not
 arise de novo but evolved from pre-existing enzymes with unrelated functions.
-The most striking example is the cryptochrome family of blue light
+The most striking example is the cryptochrome family of [[chamovitz-julius-von-sachs-blue-light-phototropism]]
 photoreceptors, which evolved from DNA photolyase enzymes that repair
 ultraviolet-damaged DNA. Similarly, phytochrome red/far-red photoreceptors
 share deep evolutionary ancestry with bacterial sensor histidine kinases.
@@ -44,7 +44,7 @@ and flavin-binding pocket.
 
 However, the catalytic electron transfer function was replaced by a signalling
 function: instead of using light energy to repair DNA, the protein uses light
-absorption to trigger conformational changes that initiate signal transduction
+absorption to trigger conformational changes that initiate [[fungal-environmental-sensing-signal-transduction-read]]
 cascades leading to changes in gene expression throughout the plant.
 
 ## Molecular Fossils of Common Ancestry

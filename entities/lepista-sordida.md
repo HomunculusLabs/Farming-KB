@@ -28,7 +28,7 @@ Tricholomataceae. A close relative of the edible [[spore-print]]:** Pinkish-buff
 
 ## Distribution and Habitat
 
-- **Range:** Circumboreal temperate; Europe, North America, Asia, Australia
+- **Range:** Circumboreal temperate; Europe, [[psilocybin-north-america-pacific-northwest]], Asia, Australia
 - **Habitat:** Grasslands, meadows, parks, lawns, compost heaps, disturbed
   ground; notably tolerant of urban and agricultural settings
 - **Season:** Late summer to early winter (August-December N. Hemisphere)
@@ -41,15 +41,17 @@ adaptable to compost suggests potential.
 
 ## Ecological Role
 
-Primarily saprotrophic — decomposes grassland and compost organic matter. Some
-evidence of weak ectomycorrhizal capability. Contributes to nutrient cycling
+Primarily saprotrophic — decomposes grassland and [[solomon-compost-organic-matter]] matter. Some
+evidence of weak ectomycorrhizal capability. Contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 in grassland ecosystems. Presence in urban parks indicates healthy soil
 microbial communities and moderate organic matter.
 
 ## See Also
 
+- [[lepista-saeva]]
+
 - clitocybe nuda entity — Wood blewit, larger and more prized edible relative
-- agaricus bisporus — Button mushroom; similar compost cultivation
+- [[genetic-improvement-agaricus-bisporus-molecular-approaches]] — [[growing-gourmet-button-mushroom-agaricus-cultivation]]; similar compost cultivation
 - [[calocybe-gambosa]] — St. George's mushroom; grassland agaric comparison
 ## Practical Considerations
 
@@ -67,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

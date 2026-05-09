@@ -16,7 +16,7 @@ Waste is a central concept in permaculture. Mollison defines the problem clearly
 In natural systems, the output of one process is the input to another. Mollison applies this principle rigorously:
 
 - **Every waste is a resource** misplaced. Manure, sewage, and organic refuse all contain nutrients that should return to soil.
-- **Reduction of waste** is itself a design goal. Small, intensive systems that recycle internally need fewer external inputs.
+- **Reduction of waste** is itself a [[cervantes-breeding-program-design-goal-setting]]. Small, intensive systems that recycle internally need fewer external inputs.
 - **Waste routing through multiple uses** before final return to soil. For example: manure can first feed biogas production, then the residue goes to compost, then to garden soil.
 
 ## Sewage Treatment Using Natural Processes
@@ -27,7 +27,7 @@ Mollison provides detailed treatment of sewage systems based on the Werribee (Me
 
 Raw sewage passes through three stages:
 
-1. **Anaerobic (settling) ponds**: Sludge creates methane-producing conditions. 90-94% of worm eggs destroyed, heavy metals precipitated as insoluble sulphides (copper 97%, cadmium 70%, zinc 97%, lead 95%, chromium 87% removed).
+1. **Anaerobic (settling) ponds**: Sludge creates methane-producing conditions. 90-94% of worm eggs destroyed, [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] precipitated as insoluble sulphides (copper 97%, cadmium 70%, zinc 97%, lead 95%, chromium 87% removed).
 
 2. **Facultative ponds**: Part methane-producing at base, part aerobic (oxygen-producing) at surface due to wind and algae.
 
@@ -39,7 +39,7 @@ For 1,000 people, as little as 270 square metres of settling pond (1 m deep) is 
 
 ### Biogas Production
 
-Biogas (methane + carbon dioxide + ammonia) from anaerobic digestion is a useful fuel for cooking or engines. The process operates best at 25-30 degrees C over a 20-day retention period. One cubic metre of methane removes about 2.89 kg of solids.
+Biogas (methane + carbon dioxide + ammonia) from [[biogas-digester-basics]] is a useful fuel for cooking or engines. The process operates best at 25-30 degrees C over a 20-day retention period. One cubic metre of methane removes about 2.89 kg of solids.
 
 ### Septic Tank Enhancements
 
@@ -56,7 +56,7 @@ Where no septic tank is present, a dry toilet suffices. Manure is put under tree
 ### Household Waste Recycling
 - All kitchen scraps feed rabbits, guinea pigs, poultry, or pigs
 - Garden waste becomes mulch or compost
-- Paper and cardboard used as sheet mulch
+- Paper and cardboard used as [[permaculture-sheet-mulch-detailed-guide]]
 - Organic wastes composted in windrow systems
 
 ## Community-Scale Recycling
@@ -73,13 +73,13 @@ The Devonport (Auckland) model demonstrates total solid waste recycling that ret
 Greywater from kitchens, bathrooms, and laundries can be routed through:
 - Mulch basins and planted filter beds
 - Reed bed treatment systems
-- Direct irrigation of fruit trees and ornamental plantings
+- Direct irrigation of [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and ornamental plantings
 
 The reduction of water used in sewage systems is itself a design goal -- dry toilets, composting systems, and greywater reuse all reduce the volume requiring treatment.
 
 ## Industrial Waste
 
-Mollison is sharply critical of systems that produce wastes as pollutants to the sea. The test of a responsible technology is whether it destroys soil, water, or clean air quality -- if so, it must be rejected as the "economics of extinction."
+Mollison is sharply critical of systems that produce wastes as pollutants to the sea. The test of a responsible technology is whether it destroys soil, water, or clean [[cervantes-air-quality-ventilation]] -- if so, it must be rejected as the "economics of extinction."
 
 ## Related Concepts
 

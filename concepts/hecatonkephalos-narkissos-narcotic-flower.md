@@ -9,7 +9,7 @@ sources:
 ---
 # Hekatonkephalos and the Narkissos — Narcotic Flower of Persephone
 
-**Source:** The Road to Eleusis, Chapter III — Carl A. P. Ruck
+**Source:** The [[the-road-to-eleusis-wasson-hofmann-ruck]], Chapter III — Carl A. P. Ruck
 
 **Updated:** 2026-04-19
 
@@ -37,11 +37,11 @@ In Eleusinian art, the narkissos appears in scenes of the abduction, where its e
 
 ## Narkissos and the Eleusinian Vision
 
-The hekatonkephalos narkissos can be read as an encoded description of the psychedelic experience itself. The "hundred-headed" quality suggests synesthesia — the phenomenon, well-documented in [[set-and-setting-eleusinian-initiation-methodology]], the narkissos represents the pharmacological trigger that precipitates the initiate's descent into the underworld — the visionary realm where the encounter with the sacred occurs. Just as Persephone's picking of the flower leads to her seizure by Hades and her transformation into Queen of the Underworld, the initiate's consumption of the kykeon leads to a seizure by the divine and a transformation into a new relationship with mortality.
+The hekatonkephalos narkissos can be read as an encoded description of the [[leary-psychedelic-experience-bardo-mapping]] itself. The "hundred-headed" quality suggests synesthesia — the phenomenon, well-documented in [[set-and-setting-eleusinian-initiation-methodology]], the narkissos represents the pharmacological trigger that precipitates the initiate's descent into the underworld — the visionary realm where the encounter with the sacred occurs. Just as Persephone's picking of the flower leads to her seizure by Hades and her transformation into Queen of the Underworld, the initiate's consumption of the kykeon leads to a seizure by the divine and a transformation into a new relationship with mortality.
 
 The [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]].
 
-- **Vedic soma**: While typically associated with a plant rather than a flower, soma shares the narkissos's dual identity as both a botanical substance and a divine catalyst for transformative experience.
+- **[[mckenna-vedic-soma-indo-european-mysteries]]**: While typically associated with a plant rather than a flower, soma shares the narkissos's dual identity as both a botanical substance and a divine catalyst for transformative experience.
 
 This cross-cultural pattern reinforces the interpretation of the narkissos as a genuine psychoactive plant embedded in a mythological framework, rather than a purely symbolic literary device. The [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]]
 
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

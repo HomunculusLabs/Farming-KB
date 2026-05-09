@@ -101,7 +101,7 @@ psychoactive plants.
 
 ## Legal and Social Context
 
-The book notes that in the United States, a substance must be included
+The book notes that in the [[dmt-containing-plants-united-states-halpern]], a substance must be included
 in the Harrison Narcotic Act to be considered legally a narcotic. Thus
 Marijuana is not legally a narcotic, although it is a controlled
 substance. The term "narcotic" has been interpreted as referring to
@@ -117,7 +117,7 @@ spread followed trade routes, colonial expansions, and cultural
 exchanges, adapting to local practices wherever it traveled. Despite
 this ubiquity, the authors note that the number of hallucinogenic
 species employed in indigenous societies is far greater in the New
-World than the Old, even though cannabis dominates Old World usage.
+World than the Old, even though cannabis dominates [[datura-metel-old-world-ethnobotany]] usage.
 
 ## Related Topics
 

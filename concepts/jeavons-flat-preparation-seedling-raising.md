@@ -1,9 +1,9 @@
 ---
-title: Flat Preparation, Seedling Raising, and Transplanting
+title: jeavons flat preparation seedling raising, Seedling Raising, and Transplanting
 created: 2026-04-26
 sources:
   - path: /Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.md
-    title: How to Grow More Vegetables - John Jeavons
+    title: How to Grow More Vegetables - [[john-jeavons]]
     author: John Jeavons
 updated: 2026-04-24
 type: concept
@@ -12,7 +12,7 @@ tags: [plant-growth]
 
 # Flat Preparation, Seedling Raising, and Transplanting
 
-The GROW BIOINTENSIVE method places great emphasis on raising seedlings in flats before transplanting them into growing beds. This approach provides superior plant health, more efficient use of bed space, and better control over growing conditions during the critical early stages of plant development.
+The [[jeavons-grow-biointensive-method-overview]] method places great emphasis on raising seedlings in flats before transplanting them into growing beds. This approach provides superior plant health, more efficient use of bed space, and better control over growing conditions during the critical early stages of plant development.
 
 ## Why Transplant Instead of Direct Seeding?
 
@@ -20,7 +20,7 @@ Transplanting seedlings involves more advance planning and more time, but in a s
 
 - **Better use of bed space**: Seeds can take from 5 days to 12 weeks or more to reach transplanting size. If that growing is done in a flat, something else can be growing in the bed in the meantime.
 - **Guaranteed plant placement**: Not all seeds germinate. With direct sowing, you can end up with gaps between plants and bare soil that allows evaporation. Transplanting ensures every position is filled.
-- **Even spacing**: Broadcast seeds fall in a random pattern. Plants that are too close compete for light, water, and nutrients; plants too far apart waste space. Evenly spaced transplants create the living mulch mini-climate essential to balanced growth.
+- **Even spacing**: Broadcast seeds fall in a random pattern. Plants that are too close compete for light, water, and nutrients; plants too far apart waste space. Evenly spaced transplants create the [[comparison-living-mulch-vs-cover-crops]] mini-climate essential to balanced growth.
 - **Growth stimulation**: Transplanting a seedling into a double-dug, composted bed that is fluffy, aerated, and full of nutrients gives it a second "meal" of nutrients, air, and moisture. The soil in a directly seeded bed begins to recompact while seeds germinate.
 - **Water efficiency**: Seedlings in a flat require much less water (about 1/2 gallon per day) than seedlings in a bed (10 to 20+ gallons per 100 square feet per day).
 
@@ -34,13 +34,13 @@ If plants must remain in a container for more than 4 to 6 weeks, use a half-size
 
 ## Flat Soil Mix
 
-A good simple flat soil mix is one part sifted compost and one part bed soil (saved from the first trench when you double-dug) by volume. "Old" flat soil, which has been used to raise seedlings, can be stored in a bin. Although some nutrients will have been depleted, it will still be rich in organic matter. The recipe with old flat soil is: one part old flat soil, one part sifted compost, and one part bed soil.
+A good simple flat soil mix is one part sifted compost and one part bed soil (saved from the first trench when you double-dug) by volume. "Old" flat soil, which has been used to raise seedlings, can be stored in a bin. Although some nutrients will have been depleted, it will still be rich in [[hamilton-composting-and-organic-matter-management]]. The recipe with old flat soil is: one part old flat soil, one part sifted compost, and one part bed soil.
 
 Compost for the flat soil mix should be passed through a sieve of 1/2-inch or 3/4-inch wire fabric. As your bed soil and your compost improve, your flat soil and seedlings also will improve.
 
 ### Alan Chadwick's Classic Planting Mixture
 
-Chadwick's recipe is one part each by weight: evenly moist compost (sifted, if possible), sharp (gritty) sand, and turf loam. These three ingredients provide a fertile, loose-textured mixture. Turf loam is made by composting sections of turf grass grown in good soil, alternating grass sides together and soil sides together within the pile. Good garden soil from the first trench of a double-dug bed can be substituted for turf loam.
+Chadwick's recipe is one part each by weight: evenly moist compost (sifted, if possible), sharp (gritty) sand, and turf loam. These three ingredients provide a fertile, loose-textured mixture. Turf loam is made by [[composting]] sections of turf grass grown in good soil, alternating grass sides together and soil sides together within the pile. Good garden soil from the first trench of a double-dug bed can be substituted for turf loam.
 
 ### Preparing the Flat
 
@@ -94,7 +94,7 @@ Place the seedling into a large enough hole so that the plant can be buried up t
 
 ### Timing
 
-Transplanting should ideally be done in the early evening so seedlings get settled during more moderate weather conditions. If transplanting during the day, some temporary shading with 30% shade netting or row cover cloth may be needed for several days to minimize shock and wilt.
+Transplanting should ideally be done in the early evening so seedlings get settled during more moderate weather conditions. If transplanting during the day, some temporary shading with 30% [[jeavons-shade-netting-mini-greenhouses]] or row cover cloth may be needed for several days to minimize shock and wilt.
 
 ### Watering After Transplant
 
@@ -122,4 +122,4 @@ The most important areas for the plant are the 2 inches above and the 2 inches b
 - [[jeavons-grow-biointensive-method-overview]] — The complete method
 - [[jeavons-companion-planting]] — Plant relationships after transplanting
 - [[jeavons-water-management-irrigation]] — Watering flats and newly transplanted beds
-- [[jeavons-seed-saving-and-propagation]] — Open-pollinated seed selection
+- [[jeavons-seed-saving-and-propagation]] — Open-pollinated [[cannabis-seed-selection-and-strain-types]]

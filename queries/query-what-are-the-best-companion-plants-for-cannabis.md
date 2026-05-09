@@ -14,13 +14,13 @@ type: query
 
 ## Short Answer
 
-The best companion plants for cannabis include aromatic herbs like basil, mint, and rosemary that mask cannabis scent and deter pests; flowers like marigolds, nasturtiums, and chamomile that attract beneficial insects; and nitrogen-fixing plants like clover and beans that improve soil fertility. Companion planting reduces pest pressure, improves soil health, and can even enhance terpene profiles when practiced strategically.
+The best companion plants for cannabis include aromatic herbs like basil, mint, and rosemary that mask cannabis scent and deter pests; flowers like marigolds, nasturtiums, and chamomile that attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]; and nitrogen-fixing plants like clover and beans that improve soil fertility. [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] reduces pest pressure, improves soil health, and can even enhance [[cannabis-terpene-profiles-sativa]] when practiced strategically.
 
 ## How Companion Planting Works
 
 Companion planting works through several mechanisms that benefit cannabis plants growing nearby.
 
-The [[companion-planting-reference]] provides a comprehensive database of plant pairings and their specific benefits. When applied to cannabis cultivation, these principles can significantly reduce the need for pesticide interventions while improving overall garden health and biodiversity.
+The [[companion-planting-reference]] provides a comprehensive database of plant pairings and their specific benefits. When applied to [[query-how-does-no-till-cannabis-cultivation-work]], these principles can significantly reduce the need for pesticide interventions while improving overall garden health and biodiversity.
 
 ## Pest-Repelling Companions
 
@@ -38,7 +38,7 @@ The [[beneficial-insects-cannabis]] strategy relies on maintaining populations o
 | Alyssum | Hoverflies, lacewings | Aphids, thrips |
 | Zinnia | Ladybugs, butterflies | Various pest insects |
 
-Maintaining blooms throughout the growing season ensures continuous food for beneficial insects. Succession planting of fast-flowering annuals like alyssum and zinnia provides nectar during periods when perennial flowers are not actively blooming.
+Maintaining blooms throughout the growing season ensures continuous food for beneficial insects. [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] of fast-flowering annuals like alyssum and zinnia provides nectar during periods when [[hamilton-perennial-flowers-organic]] are not actively blooming.
 
 ## Soil-Improving Companions
 
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

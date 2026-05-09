@@ -63,63 +63,88 @@ The essential pharmacological innovation of ayahuasca is the MAO-A inhibition th
 ## Traditional and Cultural Use
 
 ### Indigenous Amazonian Use
+## See Also
 
-Ayahuasca is central to the medical, spiritual, and cosmological systems of at least 72 indigenous groups across the western Amazon, including the Shipibo-Conibo, Asháninka, Shuar, Kichwa, and Tukano peoples. Traditional use typically occurs in ceremonial contexts led by an experienced practitioner (curandero, onanya, vegetalista) who undergoes extensive apprenticeship, often involving dietary restrictions (dieta) and the ingestion of other "teacher plants" (plantas maestras).
+- [[ayahuasca-pharmacology-maoi-interactions]]
 
-The brew is used for:
+## Merged: Amazonian Mythological Beings in Pablo Amaringo's Visionary World
 
-- **Healing:** Physical illness is understood as arising from spiritual or energetic imbalances; ayahuasca visions reveal the source and treatment
-- **Divination:** Accessing information about the future, locating lost objects or people, resolving conflicts
-- **Hunting and subsistence:** visions reveal the location and behavior of game animals
-- **Initiation:** Adolescents may undergo ayahuasca ceremonies as rites of passage
-- **Community cohesion:** Group ceremonies strengthen social bonds and resolve interpersonal conflicts
+# Amazonian Mythological Beings in Pablo Amaringo's Visionary World
 
-### Brazilian Syncretic Religions
+Pablo Amaringo (1938–2009) was a Peruvian **vegetalista** and painter whose
+visionary art documents the spirit beings encountered during **ayahuasca**
+ceremonies. His paintings, collected in *Ayahuasca Visions* (Luna & Amaringo,
+1991), reveal a complex cosmology of Amazonian mythological entities that
+inhabit rivers, forests, mountains, and atmospheric realms — experienced as
+living presences with agency, power, and moral significance.
 
-Three major syncretic religions use ayahuasca (referred to as *santo daime*, *hoasca*, or *vegetal*) as a sacrament:
+---
 
-- **Santo Daime:** Founded by Raimundo Irineu Serra in the 1930s in Acre, Brazil; incorporates Catholic, indigenous Amazonian, and Afro-Brazilian elements; characterized by ritual singing (hymns) and dancing (firmações)
-- **União do Vegetal (UDV):** Founded by José Gabriel da Costa in 1961; more structured and hierarchical; emphasizes mental concentration during sessions
-- **Barquinha:** Founded by Daniel Pereira de Matos in the 1940s; incorporates strong spiritist and Afro-Brazilian influences
+## Sachamama — Mother of the Forest
 
-All three religions have expanded internationally. The UDV won a landmark 2006 U.S. Supreme Court case (Gonzales v. O Centro Espírita Beneficente União do Vegetal) affirming their right to use ayahuasca under the Religious Freedom Restoration Act.
+**Vision 15**
 
-## Therapeutic Research
+The Sachamama ("mother of the forest") is a serpent of colossal proportions,
+so thoroughly integrated with the landscape that trees and weeds grow on her
+body. She may remain stationary for hundreds of years in a single location,
+becoming indistinguishable from a small hill or earthen mound. A small pond
+lies nearby, from which she drinks.
 
-### Clinical Studies
+She is surrounded by animal and human bones — vomited from her mouth over
+her lifetime — while digested meat is expelled through her rectum. The
+Sachamama possesses a powerful magnetic force centered near her head: anyone
+who passes too close is magnetized and swallowed whole. Travelers can
+inadvertently climb atop her without realizing what she is.
 
-Controlled and observational studies have reported promising results for:
+When she finally moves, the ecological impact is devastating — she throws
+down the trees on her back and clears a path by flattening others, producing
+strong winds, lightning, and rain. She embodies the forest as both nurturer
+and consuming force.
 
-- **Treatment-resistant depression:** Open-label trials (Palhano-Fontes et al., 2019) showed rapid and sustained antidepressant effects persisting 2+ weeks after a single session
-- **Substance use disorders:** Observational studies with members of Brazilian ayahuasca churches report lower rates of alcoholism and drug dependence compared to general population controls
-- **PTSD and anxiety:** Preliminary evidence from observational studies; controlled trials are ongoing
-- **End-of-life distress:** Case reports suggest reduction in death anxiety and improved quality of life
+---
 
-### Neuroimaging Findings
+## Chullachaki — Lord of the Forest
 
-fMRI and EEG studies of ayahuasca have demonstrated:
+**Vision 16**
 
-- Increased activity in the default mode network (DMN) with subsequent disintegration (similar to psilocybin)
-- Increased global brain connectivity and entropy
-- Reduced activity in the posterior cingulate cortex and medial prefrontal cortex
-- Increased alpha and theta power, patterns associated with meditative states
-- Acute increases in serum BDNF and anti-inflammatory cytokines
+The Chullachaki is a forest spirit dressed in brilliant royal gowns, often
+depicted reading a parchment decree concerning the care of wild animals. The
+**shapshicos** and **sacharunas** — forest guardians — attend the reading.
+Their clothing is so luminous that nearby leaves shine "like light bulbs."
 
-## Safety and Contraindications
+The Chullachaki presides over a Bacchanalian feast of dances, music, and
+entrancing singing. Animals are summoned through telepathic vibration,
+communicated via what Amaringo calls "the instinct of the psychic cord."
 
-### Acute Effects
+However, the Chullachaki is also feared as a trickster — notorious for leading
+hunters and travelers astray, causing them to walk in circles for days.
 
-Common effects include nausea, vomiting (considered therapeutic in traditional contexts), diarrhea, tremors, sweating, increased heart rate and blood pressure, and dizziness. These are generally self-limiting.
+---
 
-### Contraindications
+## Yakumama — Mother of the Waters
 
-- **Serotonergic medications:** SSRIs, SNRIs, MAOIs, tramadol, triptans — risk of serotonin syndrome
-- **Cardiovascular conditions:** Hypertension, arrhythmias, recent myocardial infarction
-- **Psychiatric conditions:** Schizophrenia spectrum disorders, bipolar disorder (mania risk)
-- **Pregnancy:** Harmala alkaloids are uterotonic; DMT crosses the placental barrier
+**Multiple visions**
 
-### Legal Status
+The Yakumama ("mother of the water") is a water serpent of enormous size,
+sometimes manifesting in the form of a steamboat. Experienced **murayas**
+(senior healers) use the Yakumama to descend to the deepest parts of rivers,
+where she transforms into a submarine-like vessel.
 
-Ayahuasca is illegal or controlled in many countries due to its DMT content. Notable exceptions include Brazil, Peru, and Ecuador, where its traditional and religious use is protected. The legal status of ayahuasca in the United States is complex: DMT is a Schedule I substance, but the UDV and Santo Daime have obtained legal protections for religious use.
+She wields magnetic power in her tongue, capable of capturing anyone who
+attempts to enter the underwater city by force. The Yakumama also throws her
+rainbow to impart strength to medicine — a direct link between her being and
+the pharmacological power of ayahuasca trance
+  and serve as allies, teachers, and adversaries for the vegetalista.
+
+---
+## See Also
+
+- [[pablo-amaringo]] — Overview of Amaringo's work
+- vegetalismo tradition — The healer tradition of the Peruvian Amazon
+- sachamama — Detailed page on the forest serpent mother
+- yakumama — Detailed page on the water serpent mother
+- chullachaki — Detailed page on the forest trickster spirit
 
 ## See Also
+
+- [[amazonian-medicinal-plants-in-amaringos-visions]]

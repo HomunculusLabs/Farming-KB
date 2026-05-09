@@ -68,7 +68,7 @@ colorful, and highly aesthetic.
 Cognitive effects include altered thought patterns, enhanced creativity, and
 philosophical introspection. Physical effects include pupil dilation, mild to
 moderate body load (muscle tension, restlessness), increased energy, and
-enhanced sensory perception. Nausea is less common than with mescaline.
+enhanced [[plant-sensory-perception]]. Nausea is less common than with mescaline.
 
 ## Shulgin's Commentary
 
@@ -87,7 +87,7 @@ effects, which earned it the "Nexus" name among users.
 2C-B acts primarily as a serotonin 5-HT2A receptor agonist with additional
 activity at 5-HT2C and 5-HT1A receptors. It also shows affinity for the
 serotonin transporter (SERT), contributing to empathogenic qualities at
-lower doses. The bromine substituent influences both receptor binding
+lower doses. The bromine substituent influences both [[tihkal-receptor-binding-serotonin]]
 affinity and metabolic stability.
 
 Metabolism occurs through hepatic oxidative deamination, O-demethylation,
@@ -121,7 +121,7 @@ Against LSD, 2C-B is shorter-acting and more tactile.
 psychedelic community in the early 1980s. It was briefly sold commercially
 as "Erox" and "Nexus" before scheduling in the US in 1995. It gained
 massive popularity in the global rave and festival scene, particularly in
-Europe and South America. It is classified as Schedule I in the US and
+Europe and [[guzman-psilocybin-mushrooms-south-america]]. It is classified as Schedule I in the US and
 controlled under the UN Convention on Psychotropic Substances.
 
 ## See Also

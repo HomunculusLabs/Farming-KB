@@ -1,5 +1,5 @@
 ---
-title: The Spice Trade and Medieval Drug Scarcity
+title: The mckenna spice trade and medieval drug scarcity and Medieval Drug Scarcity
 created: 2026-04-28
 tags: [spice-trade, medieval, dominator-culture, McKenna, food-of-the-gods, mercantilism, exploration]
 date: 2026-04-28
@@ -28,7 +28,7 @@ Variety is the spice of life is an adage familiar to us all. Yet when we examine
 
 ## Medieval Europe as Drug-Starved Society
 
-Dominator culture has never been more powerfully entrenched than in Christian Europe after the eclipse of the Roman Empire. Scarcely ever have human populations existed in such a prolonged situation of drug scarcity and lack of chemical stimulation.
+[[mckenna-dominator-culture-and-suppression-of-ecstasy]] has never been more powerfully entrenched than in Christian Europe after the eclipse of the Roman Empire. Scarcely ever have human populations existed in such a prolonged situation of drug scarcity and lack of chemical stimulation.
 
 Medieval Europe was one of the most constipated, neurotic, and woman-hating societies ever to exist. It was a society dying to escape from itself, obsessed with moral rectitude and sexual repression.
 
@@ -64,7 +64,7 @@ Drugs such as coffee, wormwood, and opium, dyes, silks, rare woods, gems, and ev
 
 ## The Breakup of the Medieval Stasis
 
-The dyes and spices of the Islamic world entered the bloodstream of dreary Christian Europe with the force of a hallucinogenic drug. Cinnamon, cloves, nutmeg, mace, and cardamom arrived to brighten the palate and wardrobe of a wool-swaddled, beer and bread culture.
+The dyes and spices of the Islamic world entered the bloodstream of dreary Christian Europe with the force of a [[emcdda-hallucinogenic-drug-classification-and-terminology-taxonomy]]. Cinnamon, cloves, nutmeg, mace, and cardamom arrived to brighten the palate and wardrobe of a wool-swaddled, beer and bread culture.
 
 Our own culture has seen a similar though more superficial trend in the rise of the yuppie craze for novelty and new exotic restaurants from ethnic to nouvelle. The pattern repeats itself across centuries.
 
@@ -104,13 +104,13 @@ Our present global trading system was created to cater to people's inherent need
 
 Now any drug, no matter how restricted its traditional area of use, can be identified and produced for rapid export and sale to hungry markets anywhere on the globe. Worldwide pandemics of substance abuse became possible for the first time in history.
 
-The importation of tobacco into Europe in the sixteenth century was the first and most obvious example, followed by the forced spread of opium use in China by the British and distilled alcohol abuse among North American Indian tribes. The pattern of botanical imperialism was established and would only accelerate.
+The importation of tobacco into Europe in the sixteenth century was the first and most obvious example, followed by the forced spread of opium use in China by the British and distilled alcohol abuse among North [[harner-american-indian-peyote-rituals]] tribes. The pattern of botanical imperialism was established and would only accelerate.
 
 The lesson McKenna draws is that the human need for psychoactive experience is fundamental and cannot be legislated away. It can only be channeled, for better or worse, through the available pharmacological options.
 
-The spice trade was not merely commerce; it was the first great chapter in the globalization of human desire for altered states. What began as a quest for pepper and cinnamon ended with an interconnected world where every psychoactive plant could reach every market.
+The spice trade was not merely commerce; it was the first great chapter in the globalization of human desire for [[weil-the-natural-mind-altered-states-normalcy]]. What began as a quest for pepper and cinnamon ended with an interconnected world where every psychoactive plant could reach every market.
 
-The consequences of that transformation are still unfolding in the form of global drug prohibition, the war on drugs, and the ongoing tension between the human appetite for psychoactive experience and the state's desire to control it. McKenna saw the spice trade as the original template for this dynamic.
+The consequences of that transformation are still unfolding in the form of global drug prohibition, the [[cervantes-war-on-drugs-statistics]], and the ongoing tension between the human appetite for psychoactive experience and the state's desire to control it. McKenna saw the spice trade as the original template for this dynamic.
 
 This template continues to shape our world, from the opium wars to the modern war on drugs, from the sugar plantations of the Caribbean to the coca fields of South America.
 
@@ -119,3 +119,7 @@ This template continues to shape our world, from the opium wars to the modern wa
 [[mckenna-sugar-as-addiction-and-drug-of-the-dominator]]
 [[mckenna-cannabis-culture-history]]
 [[mckenna-food-of-the-gods-dominance-culture-and-ego]]
+
+## See Also
+
+- [[mckenna-manifesto-habit-obsession-drug-dilemma]]

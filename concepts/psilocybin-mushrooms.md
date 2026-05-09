@@ -19,23 +19,23 @@ The Aztecs called psilocybin mushrooms *teonanacatl*, variously translated as "f
 
 Schultes documents that modern Mexican Indians in Oaxaca and surrounding regions continued the pre-Columbian mushroom tradition well into the 20th century:
 
-- **Mazatec people** — The Mazatec of Oaxaca are the best-known continuing practitioners of mushroom ceremonies. María Sabina, a Mazatec curandera, became internationally known after allowing Wasson to participate in a velada (night ceremony) in 1955.
+- **Mazatec people** — The Mazatec of Oaxaca are the best-known continuing practitioners of [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]]. María Sabina, a Mazatec curandera, became internationally known after allowing Wasson to participate in a velada (night ceremony) in 1955.
 - **Ritual use** — Mushrooms were consumed in nocturnal ceremonies (veladas) for divination, healing, and communication with the spirit world.
 - **Shamanic practice** — The mushroom served as a tool for the curandero/a (healer) to diagnose illness, locate lost objects, and divine the future.
 - **Ceremonial structure** — Sessions typically occurred at night in darkness, with the healer consuming mushrooms first and then distributing them to participants.
 
 ### The Wasson Expedition
 
-R. [[magic-mushroom-british-underground-1970s]]" in *Life* magazine introduced psilocybin mushrooms to the Western public.
+R. magic-mushroom-british-underground-1970s" in *Life* magazine introduced psilocybin mushrooms to the Western public.
 - [[psilocybin-containing-genera-beyond-psilocybe]] mushroom genera and species:
 
 ### Psilocybe
 
 The primary genus, containing over 100 species worldwide:
 
-- **Psilocybe mexicana** — The species Wasson encountered in Mexico; one of the first chemically analyzed.
-- **Psilocybe cubensis** — The most widely cultivated species; large, robust, and relatively potent. Distributed in subtropical and tropical regions worldwide.
-- **Psilocybe semilanceata** ([[global-distribution-of-neurotropic-fungi]] of hallucinogenic mushrooms:
+- **[[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]** — The species Wasson encountered in Mexico; one of the first chemically analyzed.
+- **[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]** — The most widely cultivated species; large, robust, and relatively potent. Distributed in subtropical and tropical regions worldwide.
+- **[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]** ([[global-distribution-of-neurotropic-fungi]] of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]:
 
 - **Mesoamerica** — The cultural heartland of ceremonial mushroom use. Over 30 species documented in Mexico alone.
 - **South America** — Species found in Colombia, Ecuador, Peru, and Brazil. Some Amazonian peoples may use them, though this is less documented than ayahuasca use.
@@ -55,9 +55,13 @@ The legal status of psilocybin mushrooms has shifted significantly since Schulte
 
 ## Modern Context
 
-The study of psilocybin mushrooms bridges ethnobotany, chemistry, psychology, and medicine. From the Mazatec velada to modern clinical trials, these fungi continue to challenge assumptions about consciousness, mental health, and the relationship between humans and psychoactive plants. Schultes's documentation of their cultural significance ensures that the indigenous knowledge underlying modern interest is preserved and respected.
+The study of psilocybin mushrooms bridges ethnobotany, chemistry, psychology, and medicine. From the Mazatec velada to modern clinical trials, these fungi continue to challenge assumptions about consciousness, mental health, and the relationship between humans and psychoactive plants. Schultes's documentation of their [[ethnomycology-cultural-significance-sacred-fungi]] ensures that the indigenous knowledge underlying modern interest is preserved and respected.
 
 ## See Also
+
+- [[psilocybin-psilocin-chemistry-serotonin-5ht2a-mechanism-emcdda-2006]]
+
+- [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]
 
 - [[peyote-and-mescaline]]
 - [[ayahuasca-and-banisteriopsis-caapi]]
@@ -80,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

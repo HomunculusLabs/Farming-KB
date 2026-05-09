@@ -15,7 +15,7 @@ In Fukuoka's system, white clover forms a permanent ground cover that persists b
 and between the grain crops throughout the year. The annual cycle manages the competitive
 relationship between clover and grain through strategic timing rather than eradication:
 
-During the winter grain growing season (November through May), clover grows beneath the
+During the winter grain [[savory-growing-season-and-non-growing-season-management]] (November through May), clover grows beneath the
 barley or wheat, fixing nitrogen that benefits the grain crop. The clover's low growth
 habit means it does not compete significantly with the taller grain stalks for light.
 When the winter grain is harvested in late May and its straw is scattered as mulch, the
@@ -84,22 +84,22 @@ prevent soil compaction and maintain tilth.
 
 ## Organic Matter Cycling
 
-Clover contributes to soil organic matter through several pathways. Leaf litter from the
+Clover contributes to [[savory-soil-organic-matter-and-decomposition-dynamics]] through several pathways. Leaf litter from the
 clover adds material to the soil surface, where it joins the rice and barley straw mulch
 in creating a decomposing organic layer. Root turnover adds organic matter directly to
 the soil profile. The nitrogen-rich clover biomass decomposes relatively quickly,
-releasing nutrients for crop uptake while contributing to stable humus formation.
+releasing nutrients for crop uptake while contributing to stable [[lowenfels-humus-formation-benefits]].
 
 Fukuoka's practice of scattering all straw uncut over the field after each harvest creates
 a continuous cycle of organic matter addition. Combined with the clover's biological
 contributions, this system maintains or increases soil organic matter without the need for
-compost preparation and application — a labor-intensive process that Fukuoka considered
+[[cultivator-compost-preparation-phase-methods]] and application — a labor-intensive process that Fukuoka considered
 unnatural because it depletes the source area to enrich the destination.
 
 ## Microbial Habitat
 
 The clover cover and associated straw mulch create an ideal habitat for the diverse soil
-microbial community that Fukuoka considered the true foundation of soil fertility. The
+[[edaphic-factors-microbial-community-structure]] that Fukuoka considered the true foundation of soil fertility. The
 moist, shaded, organic-matter-rich environment beneath the clover supports bacteria,
 fungi, actinomycetes, protozoa, and other microorganisms that cycle nutrients, suppress
 plant pathogens, and maintain soil structure through the production of glomalin and other
@@ -120,6 +120,6 @@ simultaneously.
 
 The permanent nature of the clover cover means that its benefits — nitrogen fixation, weed
 suppression, erosion prevention, and microbial habitat — are continuous rather than
-seasonal. This continuous provision of ecosystem services is what allows Fukuoka's system
+seasonal. This continuous provision of [[biodiversity-of-fungi-ecosystem-services-agriculture]] is what allows Fukuoka's system
 to eliminate external inputs entirely, while conventional cover cropping typically reduces
 but does not eliminate the need for fertilizers and herbicides.

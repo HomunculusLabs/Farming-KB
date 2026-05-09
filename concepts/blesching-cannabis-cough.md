@@ -34,7 +34,7 @@ tissue damage of the rib cage.
 
 No cure exists within the orthodox model of medicine. For the past two
 hundred years of modern medicine, opiates have been its most effective
-anti-tussive. However, adverse effects are common, as is the possibility
+anti-tussive. However, [[blesching-cannabis-safety-adverse-effects-evidence]] are common, as is the possibility
 of addiction or abuse.
 
 ## Evidence from The Cannabis Health Index
@@ -87,7 +87,7 @@ exposure to cannabis produces bronchodilation.
 
 While smoke of any kind may cause cough, spasm, reduced lung function,
 and/or disease over long periods, intravenous THC is anti-tussive in
-animal experiments but has not been tested in humans. Vaporizers that
+[[hofmann-lsd-animal-experiments-toxicity]] but has not been tested in humans. Vaporizers that
 heat cannabis to 350 degrees F do not burn the plant material or produce
 smoke, yet released THC and other cannabinoids may mitigate the irritation
 of smoke. The efficacy of taking cannabis-infused oils by mouth has yet
@@ -115,5 +115,5 @@ combined total)
 - [[blesching-cannabis-viral-infections]] - Viral causes of cough
 - respiratory conditions - Broader respiratory
   applications
-- [[blesching-endocannabinoid-system-overview]] - Cannabinoid receptor
+- [[endocannabinoid-system-overview]] - Cannabinoid receptor
   distribution in the respiratory tract

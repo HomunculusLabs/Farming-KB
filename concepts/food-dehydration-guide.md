@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, food, preservation, drying, storage]
-sources: []
+sources:
+  sources: []
 ---
 
 # Food Dehydration Guide
@@ -17,7 +18,7 @@ Food dehydration removes moisture from food to levels low enough (typically 10-2
 
 The most practical option for most homesteaders. Look for:
 - Adjustable thermostat (essential for different food types)
-- Fan for even air circulation
+- Fan for even [[stamets-growing-room-air-circulation-co2-management]]
 - Adequate tray space (5-9 trays for batch processing)
 - 500W+ for efficient drying
 - Expandable design for larger harvests
@@ -26,7 +27,7 @@ Recommended brands: Excalibur (horizontal airflow, best quality), Nesco (vertica
 
 ### Solar Dehydrator
 
-A passive solar dehydrator uses sunlight and natural convection. Build a simple box with a black-painted interior, a transparent cover, and ventilation holes at top and bottom. Solar dehydrators work well in hot, dry climates but are slower and less controllable than electric models.
+A [[comparison-passive-solar-vs-earth-sheltered]] dehydrator uses sunlight and natural convection. Build a simple box with a black-painted interior, a transparent cover, and ventilation holes at top and bottom. Solar dehydrators work well in hot, dry climates but are slower and less controllable than electric models.
 
 ### Oven Drying
 
@@ -42,7 +43,7 @@ Temperature is critical -- too high and food case-hardens (dry exterior, moist i
 - Fruit leather: 135 F
 - Sliced fruits (apples, bananas, peaches): 135-145 F
 - Vegetables (tomatoes, zucchini, peppers): 125-135 F
-- Root vegetables (carrots, beets, potatoes): 125-135 F
+- [[growing-root-vegetables-guide]] (carrots, beets, potatoes): 125-135 F
 - Meat jerky: 160 F (food safety requirement)
 - Nuts and seeds: 110-120 F
 
@@ -93,12 +94,12 @@ Drying times vary by food thickness, humidity, and dehydrator. Check periodicall
 
 ## Storage
 
-Proper storage extends shelf life significantly:
+Proper storage extends [[psilocybin-shelf-life-stability]] significantly:
 
 - Cool, dark, dry location
 - Airtight containers: mason jars with oxygen absorbers, vacuum-sealed bags, or mylar bags
 - Glass jars are ideal -- you can see moisture condensation if any develops
-- Add food-grade silica gel packets for extra protection
+- Add food-grade [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] packets for extra protection
 - Label with contents and date
 
 ### Shelf Life

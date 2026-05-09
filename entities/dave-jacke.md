@@ -13,8 +13,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Jacke, D. & Toensmeier, E. (2005). \"Edible forest-gardens, Volume 1: Ecological Vision and Theory for Temperate Climate Permaculture.\" Chelsea Green Publishing."
-  - "Jacke, D. & Toensmeier, E. (2005). \"Edible Forest Gardens, Volume 2: Ecological Design and Practice for Temperate Climate Permaculture.\" Chelsea Green Publishing."
+  - "Jacke, D. & Toensmeier, E. (2005). \"Edible forest-gardens, Volume 1: Ecological Vision and Theory for permaculture-designers-manual-temperate-climate-design Permaculture.\" Chelsea Green Publishing."
+  - "Jacke, D. & Toensmeier, E. (2005). \forest-gardens Gardens, Volume 2: [[williams-pdc-ecological-design-principles]] and Practice for Temperate Climate Permaculture.\" Chelsea Green Publishing."
   - "Holmgren, D. (2002). \"Permaculture: Principles and Pathways Beyond Sustainability.\" Holmgren Design Services."
   - "Jacke, D. (2010). \"Post-design and installation forest garden maintenance.\" Permaculture Activist, 72, 36-41."
 ---
@@ -24,8 +24,8 @@ sources:
 ## Overview
 
 Dave Jacke is an American permaculture designer, educator, and author
-best known as the primary author of *Edible Forest Gardens* (2005), the
-definitive two-volume reference on temperate-climate [[guild-design-methodology]], site
+best known as the primary author of *Edible [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]* (2005), the
+definitive two-volume reference on temperate-climate guild-design-methodology, site
 assessment protocols, implementation guidelines, and maintenance
 strategies for maturing food forests.
 
@@ -44,9 +44,9 @@ permaculture designers and food forest practitioners.
 
 Jacke has also contributed to permaculture design curricula and has
 been an invited speaker at permaculture convergences, agroforestry
-conferences, and ecological design symposia across North America.
+conferences, and ecological design symposia across [[psilocybin-north-america-pacific-northwest]].
 
-His plant database and polyculture design worksheets, originally
+His plant database and [[aquatic-polyculture-design-mollison]] worksheets, originally
 developed for the *Edible Forest Gardens* project, have been widely
 adapted by permaculture teachers as teaching tools.
 
@@ -57,7 +57,7 @@ key principles that differentiate it from broader permaculture practice:
 
 **Ecological fidelity:** Designs should mimic the structure and function
 of natural forest communities. This includes vertical canopy layering,
-successional pathways, nitrogen and nutrient cycling, and mutualistic
+successional pathways, nitrogen and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and mutualistic
 species interactions.
 
 **Guild-based design:** Species are assembled into functional guilds
@@ -85,4 +85,4 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+- [[forest-gardens]]

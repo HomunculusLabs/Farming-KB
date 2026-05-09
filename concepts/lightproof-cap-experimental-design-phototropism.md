@@ -1,5 +1,5 @@
 ---
-title: Lightproof Cap and Opaque Tube Experimental Design in Phototropism Research
+title: Lightproof Cap and Opaque Tube lightproof cap experimental design phototropism in Phototropism Research
 tags: [botany, phototropism, experimental-methodology, darwin, plant-physiology, history-of-science]
 date: 2026-04-28
 updated: 2026-04-28
@@ -19,9 +19,9 @@ biological insights.
 
 ## The Central Question
 
-By the late nineteenth century, it was well established that plants bend toward
-light, a phenomenon known as phototropism. Julius von Sachs had demonstrated in
-1864 that blue light was the primary colour inducing this response. However, a
+By the late [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], it was well established that plants bend toward
+light, a phenomenon known as phototropism. [[chamovitz-julius-von-sachs-blue-light-phototropism]] Sachs had demonstrated in
+1864 that [[cryptochrome-and-blue-light-photoreception]] was the primary colour inducing this response. However, a
 critical question remained unanswered: which part of the plant actually perceives
 the directional light, and which part executes the bending response? Were these
 the same tissue, or was the plant somehow separating perception from action?
@@ -71,7 +71,7 @@ response baseline.
 blade before light exposure. The seedling did not bend, demonstrating that the
 tip was necessary for the phototropic response. However, this result alone was
 ambiguous, because removing the tip could have damaged the plant in ways
-unrelated to light perception.
+unrelated to [[plant-vision-and-light-perception-mechanisms]].
 
 **Condition three (lightproof cap on tip):** A lightproof cap was placed over
 the intact tip. The seedling did not bend. Combined with condition two, this
@@ -124,7 +124,7 @@ shaded side of the stem.
 This hypothesis was confirmed decades later when auxin (indole-3-acetic acid) was
 identified as the hormone responsible. Auxin is produced in the coleoptile tip
 and redistributed to the shaded side of the stem in response to directional
-light, where it promotes cell elongation and causes the characteristic bending
+light, where it promotes [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] and causes the characteristic bending
 toward the light source.
 
 ## Influence on Subsequent Research
@@ -139,8 +139,6 @@ identification of auxin as the phototropic growth hormone.
 The general principle of using localised light barriers to dissect sensory
 pathways in plants has been extended to studies of shade avoidance, de-etiolation,
 and photoperiodic flowering control. The underlying logic, that selectively
-blocking light from specific tissues can reveal the site of photoreception,
-remains a standard approach in photobiology laboratories worldwide.
 ## See Also
 
 - [[darwins-phototropism-experiments]]

@@ -50,13 +50,13 @@ The species can also colonize artificial substrates such as seawalls, pier pilin
 
 Fucus spiralis provides critical habitat for numerous intertidal organisms. Its fronds shelter amphipods, isopods, small gastropods, and the larval stages of various crustaceans.
 
-The species is a primary producer in the intertidal food web, contributing organic matter through both direct grazing and detrital pathways. Limpets and periwinkles are common grazers on Fucus spiralis fronds.
+The species is a primary producer in the intertidal food web, contributing [[hamilton-composting-and-organic-matter-management]] through both direct grazing and detrital pathways. Limpets and periwinkles are common grazers on Fucus spiralis fronds.
 
-Fucoidan extracted from Fucus spiralis has demonstrated anticoagulant, antiviral, and anti-inflammatory activities in laboratory studies. Sulfated polysaccharides from this species show particular promise as bioactive compounds.
+Fucoidan extracted from Fucus spiralis has demonstrated anticoagulant, antiviral, and anti-inflammatory activities in laboratory studies. Sulfated polysaccharides from this species show particular promise as [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]].
 
 Extracts of Fucus spiralis exhibit significant antioxidant activity, attributed to polyphenolic compounds called phlorotannins. These compounds have been investigated for potential applications in cosmetics and nutraceuticals.
 
-The species is also studied as a bioindicator of heavy metal pollution in coastal environments. It accumulates metals such as copper, zinc, and lead from seawater, making it useful for monitoring purposes.
+The species is also studied as a bioindicator of [[dighton-fungal-biosorption-heavy-metal-remediation]] pollution in coastal environments. It accumulates metals such as copper, zinc, and lead from seawater, making it useful for monitoring purposes.
 
 ## Nutritional Value
 
@@ -68,7 +68,7 @@ Protein content is moderate at 5–15% of dry weight, depending on season and gr
 
 Vitamins present include vitamin C, vitamin A precursors (carotenoids), and several B vitamins. Seasonal variation affects vitamin concentrations, with peak values during spring growth.
 
-Fatty acid content is low overall, but includes small amounts of omega-3 fatty acids typical of marine algae. Lipid content ranges from 1–3% of dry weight.
+Fatty acid content is low overall, but includes small amounts of omega-3 [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] typical of marine algae. Lipid content ranges from 1–3% of dry weight.
 
 ## Culinary and Traditional Use
 
@@ -92,7 +92,7 @@ Fertilization is external, producing a diploid zygote that settles onto the subs
 
 In some populations, particularly in Iceland, a second smaller reproductive peak occurs in autumn. This bimodal pattern may reflect adaptation to local temperature and photoperiod regimes.
 
-Vegetative propagation can also occur when frond fragments reattach to substrate, though this is less common than sexual reproduction.
+Vegetative propagation can also occur when frond fragments reattach to substrate, though this is less common than [[fungal-life-cycles-sexual-reproduction-metamorphosis]].
 
 ## Conservation Status
 
@@ -100,7 +100,7 @@ Fucus spiralis is not currently listed as threatened on a global scale. However,
 
 The species is sensitive to oil pollution, which can smother fronds and disrupt reproductive structures. Recovery from oiling events may take several years in affected populations.
 
-Climate change poses a potential long-term threat through sea level rise, increased storm intensity, and shifts in water temperature. Range contractions at the southern edge of distribution have been documented in recent decades.
+[[dighton-fungi-climate-change-feedback]] poses a potential long-term threat through sea level rise, increased storm intensity, and shifts in water temperature. Range contractions at the southern edge of distribution have been documented in recent decades.
 
 Harvesting pressure, while generally sustainable at current levels, requires monitoring in areas of high commercial collection. Regulatory frameworks vary by country, with some jurisdictions imposing seasonal harvest restrictions.
 
@@ -115,6 +115,8 @@ The species can be distinguished from Fucus vesiculosus by the absence of air bl
 Ascophyllum nodosum occupies a lower tidal position and forms much larger, more elongated thalli. Pelvetia canaliculatus is found higher on the shore and is more tolerant of desiccation than Fucus spiralis.
 
 ## See Also
+
+- [[fucus-distichus]]
 
 - [[fucus-serratus]]
 - [[ulva-lactuca]]

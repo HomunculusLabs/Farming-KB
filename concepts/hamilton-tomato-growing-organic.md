@@ -1,5 +1,5 @@
 ---
-title: Tomato Growing - Organic Methods
+title: comparison-pepper-growing-guide-vs-tomato-growing-guide - Organic Methods
 created: 2026-04-28
 tags:
   - tomatoes
@@ -22,7 +22,7 @@ forms including elongated plum, large beefsteak, cherry, and yellow
 varieties. Tomatoes can be grown outside in most climates, though
 in cold areas early varieties should be chosen as late-maturing
 plants may fail to ripen. Organic methods produce excellent results
-with careful attention to feeding and pest management.
+with careful attention to feeding and [[cannabis-pest-management-guide]].
 
 ## Choosing Varieties
 
@@ -41,7 +41,7 @@ Tomatoes need sun and a well-manured soil that retains moisture and
 plant nutrients. They prefer a pH of about 6.0. Incorporate plenty
 of well-rotted compost or manure before planting. If you are using
 a [[hamilton-deep-bed-system]];
-plant them 20in (50cm) apart in deep beds for intensive production.
+plant them 20in (50cm) apart in deep beds for [[mollison-designers-market-garden-intensive-production-design]].
 
 ## Sowing and Planting
 
@@ -55,7 +55,7 @@ and plant climbing varieties against poles. See
 
 ## Greenhouse Cultivation
 
-For cold greenhouse planting, sow in late winter at 70 degrees F
+For [[coleman-cold-greenhouse-double-layer-protection]] planting, sow in late winter at 70 degrees F
 (21 degrees C). Transplant to individual pots when seedlings are big
 enough. Grow on at 50 to 55 degrees F (10-12 degrees C), spacing
 progressively to produce short, bushy plants. Plant in the border
@@ -87,7 +87,7 @@ with liquid kelp or animal-manure fertilizer every time you water.
 ## Pests and Diseases
 
 Tomatoes may be affected by whitefly, aphids, leaf mold, red spider
-mites, potato blight, and virus diseases. Hose down daily and shake
+mites, [[bloomfield-potato-blight-phytophthora-infestans]], and virus diseases. Hose down daily and shake
 supporting wires to move pollen around. Remove bottom leaves when
 they turn yellow but do not remove leaves above the ripening fruit
 cluster. See [[hamilton-greenhouse-management-organic]] for
@@ -105,7 +105,7 @@ scald in hot conditions.
 ## Summary
 
 Tomatoes thrive under organic management with proper attention to
-soil preparation, regular feeding with liquid organic fertilizers,
+soil preparation, regular feeding with liquid [[hamilton-organic-fertilizers-and-plant-nutrition]],
 and careful training. The key distinction is between bush types,
 which require minimal maintenance but benefit from mulching, and
 upright types, which need regular side-shooting and staking.

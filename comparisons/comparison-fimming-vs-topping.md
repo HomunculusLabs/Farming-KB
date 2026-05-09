@@ -19,7 +19,7 @@ and encourage lateral branching. However, they differ significantly in execution
 predictability, and results.
 
 Both techniques are zero-cost, require only basic tools (clean scissors or fingers), and
-are performed during the vegetative stage. Neither is suitable for autoflowers, which lack
+are performed during the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]. Neither is suitable for autoflowers, which lack
 sufficient vegetative recovery time.
 
 Choosing between them depends on your experience level, grow style, and how much control
@@ -91,7 +91,7 @@ for growers who want an even canopy for uniform light penetration, those followi
 step-by-step training schedule, or anyone new to plant training who wants consistent
 results.
 
-Topping is especially well-suited for Sea of Green and SCROG setups where even height
+Topping is especially well-suited for [[comparison-sea-of-green-vs-screen-of-green]] and SCROG setups where even height
 distribution is critical, and pairs naturally with LST for maximum light exposure.
 
 ## Hybrid Approach

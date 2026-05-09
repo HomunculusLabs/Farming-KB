@@ -9,7 +9,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Vander Kloet, S. P. (1988). The Genus Vaccinium in North America. Agriculture Canada Publication.
+  - Vander Kloet, S. P. (1988). The Genus Vaccinium in psilocybin-north-america-pacific-northwest. Agriculture Canada Publication.
   - Camp, W. H. (1939). "A revision of the genus Gaylussacia." Rhodora.
   - USDA NRCS. "Gaylussacia dumosa" PLANTS Database. https://plants.usda.gov/
   - Kirkman, L. K. et al. (2007). Biodiversity in Southeastern Seasonally Ponded, Isolated Wetlands. USDA Forest Service.
@@ -55,7 +55,7 @@ Elevation ranges from sea level to approximately 900 meters in the southern Appa
 
 Soil pH preference is strongly acidic (3.5–5.0), with optimal growth in sandy, well-drained to moderately moist substrates. The species tolerates drought conditions better than most *Vaccinium* species due to its leathery, xeromorphic foliage.
 
-Soil organic matter content is typically low (1–3%) in the sandy habitats where *G. dumosa* excels. The species' ericoid mycorrhizal associations compensate for low nutrient availability by enhancing uptake of nitrogen and phosphorus from organic matter decomposition.
+Soil organic matter content is typically low (1–3%) in the sandy habitats where *G. dumosa* excels. The species' [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] associations compensate for low [[ph-and-nutrient-availability-garden-soils]] by enhancing uptake of nitrogen and phosphorus from organic matter decomposition.
 
 ## Ecology
 
@@ -71,7 +71,7 @@ The species serves as a larval host for several moths in the Gelechiidae and Noc
 
 The evergreen foliage provides year-round cover for ground-dwelling wildlife, including amphibians, reptiles, and small mammals. The dense low canopy creates favorable microhabitats with higher humidity and moderated temperatures.
 
-Carbon sequestration studies in Coastal Plain pine ecosystems have shown that the *Gaylussacia*-dominated shrub layer contributes measurably to belowground carbon storage through persistent rhizome biomass and slow-decomposing leaf litter.
+[[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] studies in Coastal Plain pine ecosystems have shown that the *Gaylussacia*-dominated shrub layer contributes measurably to belowground [[holmgren-soil-humus-carbon-storage-rebuilding]] through persistent rhizome biomass and slow-decomposing leaf litter.
 
 ## Edibility and Uses
 
@@ -87,7 +87,7 @@ The species has limited modern economic value. It is occasionally used in native
 
 ## Cultivation
 
-Gaylussacia dumosa is rarely cultivated commercially but can be grown as an ornamental groundcover for acidic, sandy gardens. Its low stature, evergreen foliage, and drought tolerance make it suitable for rock gardens and native plantings.
+Gaylussacia dumosa is rarely cultivated commercially but can be grown as an ornamental groundcover for acidic, sandy gardens. Its low stature, evergreen foliage, and [[dighton-fungal-drought-tolerance-plant-water-relations]] make it suitable for rock gardens and native plantings.
 
 Propagation is most successful from division of established colonies, taking advantage of the extensive rhizome system. Softwood cuttings root at moderate rates (40–60%) under mist, and seed germination requires cold stratification for 60–90 days.
 
@@ -104,6 +104,6 @@ The species is highly tolerant of prescribed fire, resprouting vigorously from r
 - [[vaccinium-arboreum]]
 - [[vaccinium-uliginosum]]
 - [[vaccinium-fuscatum]]
-- [[gaultheria-procumbens]]
+- gaultheria-procumbens
 - [[oxydendrum-arboreum]]
 - [[vaccinium-vitis-idaea]]

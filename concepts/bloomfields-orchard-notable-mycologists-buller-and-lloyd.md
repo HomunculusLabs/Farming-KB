@@ -1,5 +1,5 @@
 ---
-title: Notable Mycologists: Buller and Curtis Gates Lloyd
+title: bloomfields orchard notable mycologists buller and lloyd: Buller and Curtis Gates Lloyd
 created: 2026-04-28
 updated: 2026-04-28
 type: concept
@@ -78,7 +78,7 @@ volumes published between 1909 and 1934 by Longmans, Green
 (Section truncated for length.)
 
 Beyond mycology, he wrote popular science essays published
-in magazines like The Nineteenth Century and later in
+in magazines like The [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] and later in
 collected volumes. His death in 1944 marked the end of an
 era in experimental mycology.
 
@@ -92,7 +92,7 @@ era in experimental mycology.
 
 Buller and Lloyd corresponded for years before their
 meeting. Buller admired Lloyd's taxonomic expertise and
-specimen collection, while Lloyd respected Buller's
+[[fungal-specimen-collection-herbarium-management]], while Lloyd respected Buller's
 experimental genius.
 Their correspondence reveals mutual regard tinged with
 gentle philosophical disagreement about the proper
@@ -130,16 +130,19 @@ The friendship that developed between them endured through
 subsequent correspondence until Lloyd's death in 1926.
 
 ## Historical Context
-
 ## Related Concepts
 
-- History of Mycology
-- Spore Discharge Mechanisms in Fungi
-- Gasteromycetes and Stinkhorn Fungi
+- [[bloomfield-history-of-mycology-pioneers]]
+- Spore [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]] in Fungi
+- [[bloomfields-orchard-gasteromycetes-and-stinkhorn-fungi]] Fungi
 - Fungal Biology and Ecology
 
 ## See Also
 
-- [[bloomfields-orchard-fungal-biology-and-ecology]]
+- mr-bloomfields-ah-reginald-buller-and-experimental-mycology
+
+- bloomfields-orchard-fungal-biology-and-ecology
 - [[bloomfields-orchard-gasteromycetes-and-stinkhorn-fungi]]
 - [[rust-fungi]]
+- [[bloomfields-orchard-spore-discharge-mechanisms]]
+- [[bloomfields-orchard-hyphal-growth-and-invasive-biology]]

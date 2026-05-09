@@ -1,5 +1,5 @@
 ---
-title: Cannabis Seedling Care - Greg Green's Cannabis Grow Bible
+title: green cannabis seedling care Care - Greg Green's green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible
 created: 2026-04-26
 updated: 2026-04-25
 sources:
@@ -35,7 +35,7 @@ trouble germinating. Always try to use the best seeds you can find.
 
 Place seeds down in moist soil about 3mm (or the length of the seed)
 from the surface. Keep the soil moist (not soaking wet) by sprinkling
-water over it once a day. This has a moderate success rate -- out of 10
+water over it once a day. This has a moderate [[maitake-fruiting-body-success-rate-management]] -- out of 10
 seeds only 7-8 may germinate.
 
 ### Seed Towel Propagation
@@ -44,7 +44,7 @@ Place seeds on a damp towel or damp piece of cotton wool. Cover with
 more damp material. Keep moist at all times. If the material dries out
 it may damage the seeds. Check daily for roots. If roots appear,
 immediately transfer to a grow medium using tweezers. Do not touch the
-root. Success rate: 8-9 out of 10 seeds. The risk is transplant shock.
+root. Success rate: 8-9 out of 10 seeds. The risk is [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]].
 
 ### Propagation Kits (Rockwool SBS Tray)
 
@@ -96,12 +96,12 @@ stick using a piece of thread. Never tie the thread above a growing
 shoot or the seedling will push up against it and rip itself.
 
 You may continue to use a stick as the plant grows. If the stem remains
-weak during vegetative growth, give the base of the stem a little shake
+weak during [[cannabis-vegetative-growth-stage]], give the base of the stem a little shake
 every morning and evening. This simulates outdoor wind and helps the
 plant develop a more solid stem.
 
 **Important:** Never bring a stick from outdoors for support as it may
-carry bugs like spider mites in incubation nests inside the wood.
+carry bugs like [[cervantes-spider-mites-identification-control]] in incubation nests inside the wood.
 
 ## Germination Soil Requirements
 

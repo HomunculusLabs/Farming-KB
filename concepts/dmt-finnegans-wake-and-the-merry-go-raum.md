@@ -1,5 +1,5 @@
 ---
-title: "DMT, Finnegans Wake, and the Merry Go Raum"
+title: "DMT, dmt finnegans wake and the merry go raum, and the Merry Go Raum"
 tags:
   - dmt
   - mckenna
@@ -26,7 +26,7 @@ created: 2026-05-07
 
 [[tryptamine-hallucinogens-and-consciousness]] contains
 a striking and often-overlooked literary reference. Describing the characteristic space
-encountered at the peak of a DMT experience, McKenna borrows from James Joyce's *Finnegans
+encountered at the peak of a [[mckenna-dmt-experience-and-hyperspace]], McKenna borrows from James Joyce's *Finnegans
 Wake* to name what he finds there. He describes arriving, approximately thirty seconds after
 smoking DMT, in "a place that defies description, a space that has a feeling of being
 underground, or somehow insulated and domed." He then identifies this space with Joyce's
@@ -82,3 +82,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[dmt-onset-phenomenology-merry-go-raum]]

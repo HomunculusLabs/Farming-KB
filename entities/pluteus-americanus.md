@@ -5,12 +5,12 @@ type: species
 tags: [psilocybin, mushroom, pluteus, entheogen, wood-decomposing]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md]
+sources: sources: []
 ---
 
 # Pluteus americanus
 
-**Pluteus americanus** is a psilocybin-containing mushroom in the genus *Pluteus*, found growing on dead and decaying hardwood in North America. It is one of several *Pluteus* species known to contain psilocybin, though it is relatively uncommon and easily overlooked due to its small size and preference for shaded wood substrates. The species was first described from collections in the eastern United States and is closely related to the European *P. salicinus*, from which it is distinguished by microscopic features and distribution.
+**Pluteus americanus** is a psilocybin-containing mushroom in the genus *Pluteus*, found growing on dead and decaying hardwood in [[psilocybin-north-america-pacific-northwest]]. It is one of several *Pluteus* species known to contain psilocybin, though it is relatively uncommon and easily overlooked due to its small size and preference for shaded wood substrates. The species was first described from collections in the eastern United States and is closely related to the European *P. salicinus*, from which it is distinguished by microscopic features and distribution.
 
 ## Taxonomy and Etymology
 
@@ -20,7 +20,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 - **Species:** P. americanus
 - **Authority:** Peck (or later authors; taxonomy remains debated)
 
-The genus *Pluteus* is distinguished from most other agarics by its **free gills** (not attached to the stem) and pink spore print — features that are unusual among psilocybin-containing mushrooms, which typically have adnate to adnexed gills and dark spore prints. The specific epithet *americanus* denotes its North American origin. Some authorities treat *P. americanus* as a synonym or variety of *P. salicinus*, while others maintain it as a distinct species based on spore morphology and DNA sequence data.
+The genus *Pluteus* is distinguished from most other agarics by its **free gills** (not attached to the stem) and pink spore print — features that are unusual among psilocybin-containing mushrooms, which typically have adnate to adnexed gills and dark spore prints. The specific epithet *americanus* denotes its [[growing-gourmet-north-american-reishi-species]] origin. Some authorities treat *P. americanus* as a synonym or variety of *P. salicinus*, while others maintain it as a distinct species based on spore morphology and DNA sequence data.
 
 ## Morphology
 
@@ -56,13 +56,13 @@ The genus *Pluteus* is distinguished from most other agarics by its **free gills
 - Spore print: pink to salmon-pink
 - Spores: 6–9 × 5–7 µm, broadly ellipsoid to subglobose
 - Smooth, thin-walled
-- No germ pore (distinguishing feature from many psilocybin mushrooms)
+- No germ pore (distinguishing feature from many [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]])
 
 ## Distribution and Habitat
 
 *Pluteus americanus* is found in:
 
-- **Eastern North America:** From Ontario and Quebec south to Florida and west to the Great Plains
+- **[[polypore-fungi-eastern-north-america]] America:** From Ontario and Quebec south to Florida and west to the Great Plains
 - **Western North America:** Reports from the Pacific Northwest, though these may represent distinct taxa
 - **Northeastern Mexico:** Rare reports from montane forests
 
@@ -83,7 +83,7 @@ Fruiting occurs from late spring through autumn (May–October), typically after
 | Psilocin | trace – 0.05 |
 | Baeocystin | trace |
 
-Potency is generally low to moderate, comparable to *Pluteus salicinus*. The blue-staining reaction, when present, correlates with higher psilocybin content. However, not all collections show significant bluing, and potency can vary considerably based on substrate, age, and environmental conditions.
+Potency is generally low to moderate, comparable to *[[gartz-pluteus-salicinus-wood-inhabiting-psilocybin]]*. The blue-staining reaction, when present, correlates with higher psilocybin content. However, not all collections show significant bluing, and potency can vary considerably based on substrate, age, and environmental conditions.
 
 ## Identification Tips
 
@@ -104,7 +104,7 @@ The combination of a **pink spore print**, **free gills**, and **bluish bruising
 
 ## Ecological Role
 
-*Pluteus americanus* is a primary decomposer of hardwood, contributing to the breakdown of dead wood in forest ecosystems. Its role in nutrient cycling is similar to other wood-inhabiting agarics, converting complex lignin and cellulose into simpler compounds available to other organisms. The species appears to prefer wood in intermediate stages of decay, after white-rot fungi have begun softening the substrate.
+*Pluteus americanus* is a primary decomposer of hardwood, contributing to the breakdown of dead wood in forest ecosystems. Its role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] is similar to other wood-inhabiting agarics, converting complex lignin and cellulose into simpler compounds available to other organisms. The species appears to prefer wood in intermediate stages of decay, after white-rot fungi have begun softening the substrate.
 
 ## Similar Species
 
@@ -115,9 +115,12 @@ The combination of a **pink spore print**, **free gills**, and **bluish bruising
 
 ## See Also
 
+- [[pluteus-salvianus]]
+- [[pluteus-umbrosus]]
+
 - [[archaeology-of-psychedelic-mushroom-use]]
 - [[psilocybin]]
 - Pluteaceae
-- [[pluteus-salicinus]]
+- [[pluteus-saliginus]]
 - [[pluteus-cervinus]]
 - [[pluteus-salicinus-profile]]

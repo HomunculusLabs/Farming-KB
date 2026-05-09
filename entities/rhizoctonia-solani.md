@@ -57,7 +57,7 @@ Carbon is assumed to be the primary growth-limiting element. The model
 captures the transition from resource-dependent to resource-
 independent growth phases and predicts colony morphology under
 different environmental conditions. Simulated networks closely match
-observed mycelial morphology including hyphal tip distribution and
+observed [[growing-gourmet-mycelial-morphology-classification-agar-media]] including hyphal tip distribution and
 anastomosis formation patterns.
 
 The model architecture depends on the physical structure of the pore
@@ -69,14 +69,14 @@ development in heterogeneous soil environments.
 
 R. solani is a ubiquitous soil-borne saprotroph with broad host range,
 soil adaptation, and significant carbon translocation capabilities
-through its mycelial network. It demonstrates ability to solubilize
+through its [[gadd-mycelial-network-dynamics]]. It demonstrates ability to solubilize
 metal phosphates including calcium, zinc, copper, and iron phosphates
 through organic acid exudation and pH modification.
 
 This solubilization makes phosphorus available for both the fungus and
 associated plant communities. The ability to access insoluble
 phosphorus sources contributes to competitive success in soil
-environments where phosphorus availability limits microbial growth and
+environments where [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] limits microbial growth and
 plant nutrition.
 
 The species maintains populations in soil through saprotrophic growth
@@ -112,7 +112,7 @@ validated framework for simulating fungal behavior in heterogeneous
 environments, with applications ranging from plant pathology to
 bioremediation and fungal ecology research in soil science.
 
-Management of R. solani diseases relies on integrated approaches combining crop rotation with non-host species, biological control using antagonistic microorganisms, resistant cultivar deployment where available, and judicious use of fungicide seed treatments and soil fumigation. The development of resistance to commonly used fungicides has further complicated disease management and increased interest in alternative control strategies.
+Management of R. solani diseases relies on integrated approaches combining crop rotation with non-host species, [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] using antagonistic microorganisms, resistant cultivar deployment where available, and judicious use of fungicide seed treatments and soil fumigation. The development of resistance to commonly used fungicides has further complicated [[plant-disease-management-solomon]] and increased interest in alternative [[jadam-weed-control-strategies-natural]].
 
 The soil-borne nature and broad host range of R. solani make it a persistent challenge in agricultural systems worldwide. Climate change may alter its geographic distribution and disease severity, as soil temperature and moisture are key determinants of disease development.
 

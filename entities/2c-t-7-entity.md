@@ -11,8 +11,8 @@ sources:
 
 **Chemical name:** 2,5-Dimethoxy-4-(n)-propylthiophenethylamine
 
-**PiHKAL #43** | [[2c-family-compounds-overview]]. It was synthesized and bioassayed by [[psychedelic-harm-reduction]] for general harm reduction guidelines
-- Legal status: Emergency scheduled in many countries; Schedule I in the US
+**PiHKAL #43** | [[2c-family-compounds-overview]]. It was synthesized and bioassayed by [[psychedelic-harm-reduction]] for general [[adverse-effects-and-harm-reduction-psilocybin]] guidelines
+- [[ayahuasca-tourism-legal-status-by-country]]: Emergency scheduled in many countries; Schedule I in the US
 
 ## Related Compounds
 
@@ -102,4 +102,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -1,11 +1,11 @@
 ---
-title: Fungal Biosorption of Heavy Metals
+title: dighton-fungal-biosorption-heavy-metal-remediation of fungal-biosorption-of-heavy-metals-by-filamentous-fungi
 created: 2026-04-26
 synonyms:
-  - fungal heavy metal removal
+  - [[dighton-fungal-heavy-metal-accumulation-bioremediation]] metal removal
   - mycoremediation of metals
   - fungal biosorption
-  - fungal metal immobilization
+  - [[bioremediation-fungal-metal-metalloid-transformations]] immobilization
 type: concept
 tags: [fungi]
 sources:
@@ -17,7 +17,7 @@ updated: 2026-04-26
 
 ## Overview
 
-Fungal biosorption refers to the passive uptake of metal ions by fungal biomass through physico-chemical mechanisms, primarily involving binding to cell wall components. This process occurs whether the biomass is dead or alive and represents one of several mechanisms by which fungi interact with toxic metals in the environment. Fungi and their by-products have received considerable attention as biosorbent materials for metal-contaminated aqueous solutions due to the ease of cultivation and the availability of fungal biomass as industrial waste products.
+Fungal biosorption refers to the passive uptake of metal ions by [[bioremediation-fungal-biomass-biosorbent-material]] through physico-chemical mechanisms, primarily involving binding to cell wall components. This process occurs whether the biomass is dead or alive and represents one of several mechanisms by which fungi interact with toxic metals in the environment. Fungi and their by-products have received considerable attention as biosorbent materials for metal-contaminated aqueous solutions due to the ease of cultivation and the availability of fungal biomass as industrial waste products.
 
 ## Fungal Cell Wall Composition and Metal Binding
 
@@ -50,7 +50,7 @@ This variety of structural components ensures many different functional groups a
 
 ### Physiological (Metabolism-Dependent) Mechanisms
 
-1. **Active transport and intracellular uptake**: Metal ions enter cells through transport systems; essential metals (Na, Mg, K, Ca, Mn, Fe, Co, Ni, Cu, Zn) have specific acquisition systems. Inessential toxic metals compete for these transporters (e.g., Cs⁺ competes for K⁺ transport systems)
+1. **[[diffusion-osmosis-and-active-transport-in-plants]] and intracellular uptake**: Metal ions enter cells through transport systems; essential metals (Na, Mg, K, Ca, Mn, Fe, Co, Ni, Cu, Zn) have specific acquisition systems. Inessential toxic metals compete for these transporters (e.g., Cs⁺ competes for K⁺ transport systems)
 2. **Intracellular sequestration**: Metal-binding molecules within the cell:
    - **Metallothioneins (MT)**: Low-MW cysteine-rich proteins (6000-10,000 Da) induced by toxic metals; central to Cu and Cd detoxification in fungi
    - **Phytochelatins**: Peptides with general structure (γGlu-Cys)ₙ-Gly (n up to 11); bind Cd²⁺ and Cu⁺. In S. pombe, high-MW complexes also contain acid-labile sulfide (CdS crystallite core) for greater stability and binding capacity
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

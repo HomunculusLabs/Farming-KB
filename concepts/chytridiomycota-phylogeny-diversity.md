@@ -52,7 +52,7 @@ four small independent groups. Their analysis showed:
 Several chytrids with unique zoospore morphologies have not
 been classified in previously existing orders. Most notably,
 Batrachochytrium dendrobatidis, the chytrid associated with
-global amphibian decline, does not fall within any of the
+global [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]], does not fall within any of the
 groups defined on the basis of DNA characters. This highlights
 how incomplete our understanding of chytrid diversity remains.
 
@@ -92,3 +92,8 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[rozella-intracellular-parasitism-chytridiomycota]]
+
+- [[biodiversity-chytridiomycota-diversity]]

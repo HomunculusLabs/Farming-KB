@@ -1,5 +1,5 @@
 ---
-title: Preparation of Cannabis Oil Capsules
+title: Preparation of Cannabis cannabis-oil-capsules-preparation
 created: 2026-04-28
 tags: [cannabis, capsules, oral-ingestion, edibles, dosing]
 date: 2026-04-28
@@ -11,7 +11,7 @@ type: concept
 
 # Preparation of Cannabis Oil Capsules
 
-Chapter 6 of *Cannabis Alchemy* by Ben Lemon describes the preparation
+Chapter 6 of *[[lemon-cannabis-alchemy-advanced-refinement-techniques]]* by Ben Lemon describes the preparation
 of cannabis oil capsules for oral ingestion, sometimes called "pot pills."
 This method provides a discreet, precisely dosable way to consume
 cannabis extracts, making it one of the most practical applications of
@@ -52,7 +52,7 @@ provides excellent solubility for cannabinoids at body temperature.
 The cannabis oil used for capsules should ideally be at the highest level
 of refinement available. Oil that has been extracted, purified with
 petroleum ether, isomerized, and possibly acetylated will produce the
-most potent capsules. Even oil from a simple alcohol extraction can be
+most potent capsules. Even oil from a simple [[pf-tek-alcohol-extraction-method]] can be
 used, though the resulting capsules will be less potent.
 
 ### Step 2: Mix with Butter

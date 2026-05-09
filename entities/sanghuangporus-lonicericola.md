@@ -18,7 +18,7 @@ sources:
 
 **Sanghuangporus lonicericola** is a perennial poroid fungus in the family Hymenochaetaceae, first described from northeastern China. It grows as a lignicolous basidiocarp on dead or dying branches of *Lonicera* species (honeysuckle).
 
-Like other members of the *Sanghuangporus* genus, it belongs to the "sanghuang" group of medicinal mushrooms used extensively in traditional Chinese medicine. Sanghuang preparations have been documented in classical texts for over two thousand years.
+Like other members of the *Sanghuangporus* genus, it belongs to the "sanghuang" group of [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] used extensively in traditional Chinese medicine. Sanghuang preparations have been documented in classical texts for over two thousand years.
 
 The species produces distinctive woody, sessile basidiocarps with a dark brown to nearly black pore surface. It is one of the more recently described species within the genus, distinguished primarily through molecular phylogenetics.
 
@@ -32,7 +32,7 @@ The species produces distinctive woody, sessile basidiocarps with a dark brown t
 * **Genus:** Sanghuangporus
 * **Species:** S. lonicericola
 
-The genus *Sanghuangporus* was erected in 2016 to accommodate species formerly placed in *Inonotus* and *Phellinus* that formed a distinct monophyletic clade. This reclassification resolved long-standing taxonomic confusion in the sanghuang group.
+The genus *Sanghuangporus* was erected in 2016 to accommodate species formerly placed in *Inonotus* and *Phellinus* that formed a distinct monophyletic clade. This reclassification resolved long-standing [[neurotropic-fungi-taxonomic-confusion-and-identification]] in the sanghuang group.
 
 The basidiocarp is woody, perennial, and sessile, lacking a stipe. The pileus surface is concentrically zonate with shades of brown to dark brown, often cracked with age. The pore surface is brown to dark brown, with circular to angular pores numbering 5–7 per millimeter.
 
@@ -78,17 +78,17 @@ Clinical studies on sanghuang preparations have reported benefits for immune fun
 
 ## Cultivation Potential
 
-Artificial cultivation of *Sanghuangporus* species has advanced significantly since the 2010s. Substrate-based cultivation using supplemented sawdust has been successfully developed for *S. vaninii* and *S. baumii*.
+[[fukuoka-matsutake-artificial-cultivation-attempt]] of *Sanghuangporus* species has advanced significantly since the 2010s. Substrate-based cultivation using [[oyster-mushroom-supplemented-sawdust-blocks]] has been successfully developed for *S. vaninii* and *S. baumii*.
 
 *S. lonicericola* has not yet been commercially cultivated, likely due to its recent description and the difficulty of sourcing reliable inoculum. Its natural host specificity for *Lonicera* wood may present challenges for substrate formulation.
 
-Optimal cultivation parameters for related sanghuang species include incubation temperatures of 25–28°C, relative humidity above 85%, and a fruiting temperature range of 20–25°C. Spawn run typically requires 40–60 days depending on substrate composition.
+Optimal cultivation parameters for related sanghuang species include incubation temperatures of 25–28°C, relative humidity above 85%, and a fruiting [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] of 20–25°C. Spawn run typically requires 40–60 days depending on substrate composition.
 
 The growing market for sanghuang-based health products in China and Southeast Asia creates potential incentive for developing cultivation protocols for less common species like *S. lonicericola*.
 
 ## Ecological Role
 
-As a white-rot polypore, *S. lonicericola* plays a significant role in forest nutrient cycling by decomposing lignin and cellulose in dead hardwood branches. Its perennial fruiting habit means individual basidiocarps can continue decomposing substrate for years.
+As a white-rot polypore, *S. lonicericola* plays a significant role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by decomposing lignin and cellulose in dead hardwood branches. Its perennial fruiting habit means individual basidiocarps can continue decomposing substrate for years.
 
 The species contributes to the saproxylic fungal community in temperate mixed forests. Its moderate host specificity for Caprifoliaceae suggests a co-evolved relationship with honeysuckle species in northeastern Asian forests.
 

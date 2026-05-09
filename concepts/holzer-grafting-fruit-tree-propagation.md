@@ -1,5 +1,5 @@
 ---
-title: Grafting and Fruit Tree Propagation
+title: Grafting and comparison-berry-growing-vs-fruit-tree-pruning Propagation
 created: 2026-04-26
 tags:
   - grafting
@@ -15,7 +15,7 @@ type: concept
 
 # Grafting and Fruit Tree Propagation
 
-Sepp Holzer's approach to fruit tree propagation through grafting reflects
+[[comparison-sepp-holzer-vs-biodynamic]]'s approach to fruit tree propagation through grafting reflects
 his broader philosophy of working with nature rather than against it. While
 he employs standard grafting techniques, his choices of rootstock, scion
 selection, and overall strategy differ significantly from commercial fruit
@@ -25,7 +25,7 @@ central to [[sepp-holzer-fruit-tree-varieties]].
 
 ## Why Graft?
 
-Cultivated fruit trees are not usually propagated using seeds, because the
+Cultivated [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] are not usually propagated using seeds, because the
 characteristics of the desired variety will not be passed on true through the
 seeds. Many fruit cultivars can now only be pollinated by different varieties,
 meaning every flower can produce different seeds and consequently different
@@ -44,7 +44,7 @@ pressure better than small dwarf trees, making them more compatible with
 
 ## Old Varieties and Genetic Diversity
 
-Holzer emphasises the importance of preserving old fruit varieties through
+Holzer emphasises the importance of [[holzer-seed-autonomy-preserving-old-varieties]] [[holzer-stone-fruit-varieties-and-growing]] through
 grafting. Many traditional varieties have been lost as commercial orchards
 have standardised on a small number of modern cultivars grafted onto dwarf
 rootstocks. By grafting old varieties onto vigorous rootstocks, these
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

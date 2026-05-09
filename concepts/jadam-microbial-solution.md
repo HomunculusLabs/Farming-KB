@@ -1,5 +1,5 @@
 ---
-title: JADAM Microbial Solution (JMS)
+title: JADAM jadam-microbial-solution-jms-preparation-and-use (JMS)
 created: 2026-04-28
 tags: [jadam, microorganisms, soil-biology, fermentation]
 date: 2026-04-25
@@ -10,14 +10,14 @@ type: concept
 
 # JADAM Microbial Solution (JMS)
 
-JADAM Microorganism Solution (JMS) is a cornerstone input
+JADAM [[jadam-microorganism-solution-culturing]] (JMS) is a cornerstone input
 of the [[jadam-wetting-agent-jwa]]:
 
 - **JMS Pesticide**: JMS + JWA creates a germicide
   effective against various fungal and bacterial diseases
 
 - **JMS-JHS Pesticide**: Adding [[jadam-liquid-fertilizer]] for enhanced
-  nutrient availability
+  [[ph-and-nutrient-availability-garden-soils]]
 - Used with [[jadam-cover-crop-method]] practices
   for comprehensive soil management
 
@@ -33,7 +33,7 @@ at approximately $100 per acre per year.
 
 While JADAM Microbial Solution (JMS) shares conceptual
 roots with [[korean-natural-farming]], the approaches differ in
-technique. JMS cultures microorganisms from leaf mold with
+technique. JMS cultures microorganisms from [[comparison-leaf-mold-composting-vs-hot-composting-method]] with
 potato medium, while KNF's IMO uses a multi-stage process
 with rice and steamed rice. Both systems share the
 fundamental principle of using locally adapted
@@ -60,7 +60,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +102,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

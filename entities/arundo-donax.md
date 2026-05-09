@@ -29,7 +29,7 @@ sources:
 
 ## Overview
 
-Arundo donax, commonly known as giant reed, is a tall perennial grass in the
+Arundo donax, commonly known as giant reed, is a tall [[savory-perennial-grass-and-desertification]] in the
 Poaceae family native to the Mediterranean Basin and parts of Asia. Growing
 3–10 meters in height with hollow stems 2–3 cm in diameter, it is one of the
 largest grasses in the world. Historically cultivated for musical instruments,
@@ -73,7 +73,7 @@ particularly in the Americas, Australia, and South Africa.
 ## Distribution and Habitat
 
 - **Native range:** Eastern Mediterranean, Middle East, and South Asia.
-- **Introduced/invasive:** Widely naturalized in North America (California,
+- **Introduced/invasive:** Widely naturalized in [[psilocybin-north-america-pacific-northwest]] (California,
   Texas, southeastern US), Central and South America, Australia, South Africa,
   and Pacific Islands.
 - Grows in riparian zones, floodplains, wetlands, and disturbed areas;
@@ -88,14 +88,14 @@ particularly in the Americas, Australia, and South Africa.
 - **Bioenergy:** High biomass productivity (20–40 tonnes dry matter/ha/year)
   makes it a leading candidate for cellulosic ethanol, biogas, and pellet
   production; requires low nitrogen input (30–60 kg N/ha).
-- **Phytoremediation:** Used for wastewater treatment, heavy metal uptake
-  (cadmium, lead, chromium), and constructed wetland systems.
+- **Phytoremediation:** Used for [[mollison-designers-wastewater-treatment-wetlands]], heavy metal uptake
+  (cadmium, lead, chromium), and [[comparison-constructed-wetland-vs-backyard-pond]] systems.
 - **Musical instruments:** Traditional source of reeds for oboes, bassoons,
   English horns, and clarinets — the word "reed" in woodwinds derives from
   this use; *A. donax* reeds remain the gold standard for professionals.
 - **Construction and craft:** Used for thatching, fencing, walking sticks,
   fishing rods, and basketry; historically used for paper pulp.
-- **Erosion control:** Effective at stabilizing stream banks and slopes due to
+- **[[permplant-willows-salix-erosion-control-fodder]]:** Effective at stabilizing stream banks and slopes due to
   deep, binding root system, though invasive risk limits use outside its
   native range.
 
@@ -122,11 +122,12 @@ particularly in the Americas, Australia, and South Africa.
 - **Control:** Mechanical cutting must be repeated 3–5 times per growing
   season combined with herbicide (glyphosate or imazapyr); cutting alone
   stimulates rhizome sprouting.
-- Biological control (*Tetramesa romana* gall wasp) has been released in
+- [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] (*Tetramesa romana* gall wasp) has been released in
   Texas and California with moderate success.
 
 ## See Also
 
-- [[moringa-oleifera|Moringa oleifera]]
-- [[glycine-max-soybean-permaculture|Glycine max (permaculture)]]
-- [[tagasaste|Tagasaste]]
+- [[moringa-oleifera]]
+- [[glycine-max]]
+- Tagasaste
+- [[phytoremediation]]

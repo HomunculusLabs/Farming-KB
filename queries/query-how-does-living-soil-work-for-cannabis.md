@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [query, cannabis, living-soil, organic, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -13,10 +14,10 @@ type: query
 ## Short Answer
 Living soil is an organic growing method that relies on a diverse community of soil
 microorganisms (bacteria, fungi, protozoa, nematodes, and arthropods) to break down
-organic amendments and deliver nutrients to cannabis roots in plant-available form.
+[[cervantes-organic-amendments-chart]] and deliver nutrients to cannabis roots in plant-available form.
 Rather than feeding the plant directly with mineral salts, living soil growers feed the
-soil food web, which in turn feeds the plant through natural biological nutrient cycling
-that produces more complex terpene profiles and smoother flavors.
+soil food web, which in turn feeds the plant through natural biological [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
+that produces more complex [[cannabis-terpene-profiles-sativa]] and smoother flavors.
 
 ## Detailed Explanation
 
@@ -28,8 +29,8 @@ can absorb. The [[soil-food-web]] page explains this trophic cascade in detail, 
 [[arbuscular-mycorrhizal-fungi]] page covers the biology of these associations, and the
 [[cannabis-living-soil-amendment-schedule]] page provides a feeding calendar that shows
 when and how to top-dress with organic amendments throughout the grow cycle. The
-[[no-till-cannabis]] page covers no-till cannabis growing specifically, and the
-[[comparison-living-soil-vs-hydroponic]] page compares these growing methods across
+[[no-till-cannabis]] page covers no-till [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]] specifically, and the
+[[comparison-living-soil-vs-hydroponic]] page compares these [[mushroom-growing-methods-comparison]] across
 yield, quality, cost, and complexity, and the [[cannabis-living-soil-guide]]
 - The soil food web cycles nutrients through bacteria, fungi, protozoa, and nematodes
   in a self-regulating system [[arbuscular-mycorrhizal-fungi]]
@@ -56,7 +57,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -98,4 +99,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

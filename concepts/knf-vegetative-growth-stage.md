@@ -17,7 +17,7 @@ During this stage, the plant's energy is directed primarily toward building biom
 
 Within the [[knf-reproductive-growth-stage]] can delay flowering and reduce fruit set, a condition related to [[knf-preparations]] are particularly well-suited for supporting the vegetative growth stage:
 
-- [[knf-indigenous-microorganism-culture]]: IMO establishes and maintains a healthy soil microbiome around the plant's root zone, enhancing nutrient availability and root development.
+- [[knf-indigenous-microorganism-culture]]: IMO establishes and maintains a healthy soil microbiome around the plant's root zone, enhancing [[ph-and-nutrient-availability-garden-soils]] and root development.
 
 - [[knf-lactic-acid-bacteria-serum]]: LAB supports the plant's digestive processes and helps maintain a healthy microbial environment on leaf surfaces and in the soil.
 
@@ -35,7 +35,7 @@ As the plant nears the transition to reproductive growth, nitrogen-rich inputs l
 
 ## Monitoring Vegetative Health
 
-Successful management of the vegetative stage requires regular observation and responsive adjustment. Several visual indicators help farmers assess whether their plants are receiving appropriate nutrition:
+Successful management of the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] requires regular observation and responsive adjustment. Several visual indicators help farmers assess whether their plants are receiving appropriate nutrition:
 
 - **Leaf color:** Deep green leaves with uniform coloration indicate adequate nitrogen. Yellowing, especially of older leaves, suggests nitrogen deficiency.
 
@@ -43,11 +43,11 @@ Successful management of the vegetative stage requires regular observation and r
 
 - **Root development:** Healthy white root systems with abundant fine root hairs indicate good soil biology and nutrient availability.
 
-- **Pest and disease pressure:** Plants that are well-nourished according to the Nutritive Cycle tend to exhibit natural pest resistance.
+- **[[hamilton-pest-and-disease-control-organic]] pressure:** Plants that are well-nourished according to the [[cho-nutritive-cycle-theory]] tend to exhibit natural pest resistance.
 
 - **Stem thickness:** Strong, thick stems that can support future fruit loads are built during the vegetative stage.
 
-When problems arise, consult [[knf-nutritive-cycle-theory]] — The theoretical framework for stage-based nutrient management.
+When problems arise, consult [[knf-nutritive-cycle-theory]] — The theoretical framework for stage-based [[green-cannabis-grow-bible-nutrient-management-ppm]].
 
 - [[knf-input-application-timing]] — Nutrient stress during growth transitions.
 
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

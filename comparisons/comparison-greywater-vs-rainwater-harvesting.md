@@ -1,10 +1,11 @@
 ---
-title: "Greywater vs Rainwater Harvesting"
+title: "comparison greywater vs rainwater harvesting Harvesting"
 created: 2026-04-28
 tags: [comparison, water-harvesting, water-conservation, permaculture, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -25,12 +26,12 @@ Greywater systems capture, treat, and reuse wastewater from household non-toilet
 showers, bathtubs, washing machines) for landscape irrigation and soil fertility. Three main
 types exist: branched drain systems (simplest, gravity-fed pipes splitting to multiple mulch
 basins), laundry-to-landscape systems (washing machine pump distributing directly to yard mulch
-basins), and constructed wetlands (gravel beds planted with reeds and rushes for advanced
+basins), and [[comparison-constructed-wetlands-vs-bioswales]] (gravel beds planted with reeds and rushes for advanced
 biological treatment). All systems require biodegradable soaps, lint filters, grease traps for
 kitchen water, and subsurface distribution into mulched basins 30-60 cm deep.
 
 Greywater's unique advantage is that it carries nutrients — nitrogen, phosphorus, potassium, and
-organic matter from soaps and body waste — directly to the landscape, fertilizing plants while
+[[hamilton-composting-and-organic-matter-management]] from soaps and body waste — directly to the landscape, fertilizing plants while
 irrigating them. A typical household produces 100-200 liters of greywater per person per day, a
 significant irrigation resource. Simple branched drain and laundry-to-landscape systems have no
 pumps, timers, or mechanical parts — they work entirely by gravity and require virtually no
@@ -42,7 +43,7 @@ The limitations are significant: all household members must commit to using biod
 low-sodium, phosphate-free products (a single conventional shampoo bottle can harm soil
 biology). Improperly designed systems can create odor, pooling, or pathogen exposure. Kitchen
 greywater is challenging due to grease and food particles. Freezing climates require seasonal
-shutdown or buried systems below frost line. Root vegetables and leafy greens should not be
+shutdown or buried systems below frost line. [[growing-root-vegetables-guide]] and [[solomon-leafy-greens-growing]] should not be
 irrigated with greywater due to pathogen concerns. Legal restrictions vary widely by
 jurisdiction, with some areas requiring permits or prohibiting greywater reuse entirely.
 
@@ -69,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

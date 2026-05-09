@@ -75,7 +75,7 @@ Metabolism occurs primarily via hepatic CYP3A4-mediated hydroxylation and glucur
 
 **Desirable effects:** Anxiolysis, euphoria (mild), sedation, muscle relaxation, disinhibition, sleep induction.
 
-**Adverse effects:** Drowsiness, cognitive impairment, memory loss (anterograde amnesia), ataxia, slurred speech, emotional blunting.
+**[[blesching-cannabis-safety-adverse-effects-evidence]]:** Drowsiness, cognitive impairment, memory loss (anterograde amnesia), ataxia, slurred speech, emotional blunting.
 
 **Hangover effects:** Residual sedation ("benzo hangover"), brain fog, and rebound anxiety are common the day after use.
 
@@ -91,13 +91,13 @@ Gradual tapering over 4–12 weeks is recommended for discontinuation after prol
 
 ## Legal Status
 
-Etizolam is a prescription medication in Japan, India, and Italy, where it is marketed under brand names including Depas, Etizest, and Sedekopan.
+Etizolam is a prescription medication in Japan, India, and Italy, where it is marketed under [[emcdda-brand-names-user-terms-smartshop-marketing]] including Depas, Etizest, and Sedekopan.
 
 It is unscheduled or uncontrolled in many countries, contributing to its availability as a research chemical.
 
-The UK classified etizolam as a Class C drug under the Psychoactive Substances Act (2017).
+The UK classified etizolam as a Class C drug under the Psychoactive [[controlled-substances-act-and-psychedelic-research]] (2017).
 
-In the United States, etizolam is not federally scheduled but is controlled in several states (e.g., Virginia, Georgia, Alabama).
+In the [[dmt-containing-plants-united-states-halpern]], etizolam is not federally scheduled but is controlled in several states (e.g., Virginia, Georgia, Alabama).
 
 ## Toxicology
 

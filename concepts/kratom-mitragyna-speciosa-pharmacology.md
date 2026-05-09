@@ -1,5 +1,5 @@
 ---
-title: Kratom (Mitragyna speciosa) Pharmacology
+title: Kratom (kratom mitragyna speciosa pharmacology) Pharmacology
 source_type: general_knowledge
 mined_date: 2026-05-08
 tags: [kratom, mitragyna-speciosa, mitragynine, opioid-receptor, ethnobotany, southeast-asia, pharmacology]
@@ -8,7 +8,7 @@ tags: [kratom, mitragyna-speciosa, mitragynine, opioid-receptor, ethnobotany, so
 
 ## Overview
 
-Kratom (Mitragyna speciosa) is a tropical evergreen tree in the coffee family (Rubiaceae) native to Southeast Asia, including Thailand, Malaysia, Indonesia, Myanmar, and Papua New Guinea. The leaves of kratom have been used traditionally for centuries by laborers and farmers for their stimulant and analgesic properties. In traditional contexts, fresh leaves are chewed or brewed into tea to combat fatigue, increase productivity, and manage pain. Kratom has gained significant global attention in the 21st century as an alternative to opioid pain medications and as a harm-reduction tool for opioid dependence.
+Kratom (Mitragyna speciosa) is a tropical evergreen tree in the coffee family (Rubiaceae) native to [[psilocybe-southeast-asia-pacific]], including Thailand, Malaysia, Indonesia, Myanmar, and Papua New Guinea. The leaves of kratom have been used traditionally for centuries by laborers and farmers for their stimulant and analgesic properties. In traditional contexts, fresh leaves are chewed or brewed into tea to combat fatigue, increase productivity, and manage pain. Kratom has gained significant global attention in the 21st century as an alternative to opioid pain medications and as a harm-reduction tool for opioid dependence.
 
 ## Botanical Description
 
@@ -44,7 +44,7 @@ At moderate doses, the opioid receptor effects become more prominent, producing 
 
 ### High Doses (15 g+ dried leaf)
 
-At high doses, kratom produces pronounced sedation, euphoria, and sometimes dissociative effects. The experience can resemble that of classical opioids, though users generally report it as less intoxicating with greater mental clarity. High-dose consumption carries increased risk of tolerance, dependence, and adverse effects including nausea, constipation, and respiratory depression (though significantly less than with classical opioids).
+At high doses, kratom produces pronounced sedation, euphoria, and sometimes dissociative effects. The experience can resemble that of classical opioids, though users generally report it as less intoxicating with greater mental clarity. High-dose consumption carries increased risk of tolerance, dependence, and [[blesching-cannabis-safety-adverse-effects-evidence]] including nausea, constipation, and respiratory depression (though significantly less than with classical opioids).
 
 ## Pharmacokinetics
 
@@ -58,7 +58,7 @@ Kratom's unique pharmacological profile at opioid receptors distinguishes it fro
 
 Kratom has been used in Southeast Asia for at least several centuries, with the earliest documented references appearing in the early [[sacramental-ayahuasca-legal-battles-united-states]] alone according to some surveys.
 
-In the United States, kratom is unregulated at the federal level and is sold as a dietary supplement, though several states and municipalities have enacted restrictions. The FDA has expressed concerns about kratom's safety and has issued public health advisories. The DEA proposed scheduling kratom as a Schedule I substance in 2016 but withdrew the proposal following significant public opposition and congressional inquiry. The NIH and NIDA have funded research into kratom's therapeutic potential and safety profile. The American Kratom Association has advocated for consumer protection legislation and has opposed scheduling efforts.
+In the United States, kratom is unregulated at the federal level and is sold as a dietary supplement, though several states and municipalities have enacted restrictions. The FDA has expressed concerns about kratom's safety and has issued public health advisories. The DEA proposed scheduling kratom as a Schedule I substance in 2016 but withdrew the proposal following significant public opposition and congressional inquiry. The NIH and NIDA have funded research into kratom's therapeutic potential and [[cannabis-safety-profile-and-overdose-risk]]. The American Kratom Association has advocated for consumer protection legislation and has opposed scheduling efforts.
 
 ## Therapeutic Potential and Research
 
@@ -70,11 +70,11 @@ Preclinical studies have demonstrated that mitragynine and 7-hydroxymitragynine 
 
 ### Opioid Dependence and Harm Reduction
 
-One of the most widely reported applications of kratom is as a tool for managing opioid withdrawal and reducing opioid dependence. Many users report that kratom alleviates opioid withdrawal symptoms including cravings, anxiety, musc [[hallucinogenic-mushroom-health-risks-and-harm-reduction]] nizing its potential as a harm-reduction tool and economic crop.
+One of the most widely reported applications of kratom is as a tool for managing opioid withdrawal and reducing opioid dependence. Many users report that kratom alleviates opioid withdrawal symptoms including cravings, anxiety, musc hallucinogenic-mushroom-health-risks-and-harm-reduction nizing its potential as a harm-reduction tool and economic crop.
 
 ## Chemistry and Analytical Methods
 
-Quantitative analysis of kratom alkaloids typically employs liquid chromatography-tandem mass spectrometry (LC-MS/MS) or gas chromatography-mass spectrometry (GC-MS). The total alkaloid content of dried kratom leaves typically ranges from 0.5% to 1.5%, with mitragynine comprising the majority. Significant variability exists between samples based on strain, growing conditions, harvest timing, and processing methods. Standardization of kratom products remains a significant challenge for both research and consumer safety. The development of reference standards and validated analytical methods is ongoing to support quality control efforts in the commercial kratom industry.
+Quantitative analysis of kratom alkaloids typically employs liquid chromatography-tandem mass spectrometry (LC-MS/MS) or gas chromatography-mass spectrometry (GC-MS). The total alkaloid content of dried kratom leaves typically ranges from 0.5% to 1.5%, with mitragynine comprising the majority. Significant variability exists between samples based on strain, growing conditions, [[cannabis-harvest-timing-visual-cues]], and processing methods. Standardization of kratom products remains a significant challenge for both research and consumer safety. The development of reference standards and validated analytical methods is ongoing to support quality control efforts in the commercial kratom industry.
 
 The chemical structure of mitragynine features a complex indole core with a methoxy-substituted aromatic ring and a nine-membered ring system that is unusual among indole alkaloids.
 
@@ -96,4 +96,8 @@ Kratom withdrawal, while generally milder than opioid withdrawal, can produce si
 
 ## Future Directions
 
-Kratom represents a complex pharmacological s [[query-how-to-store-cannabis-seeds-for-long-term-viability]] th significant therapeutic potential and notable risks. Key areas for future research include controlled clinical trials for pain management and opioid dependence, detailed pharmacokinetic and pharmacodynamic studies, long-term safety profiling, investigation of the therapeutic potential of isolated alkaloids versus whole-leaf preparations, and the development of quality control standards for commercial products. The unique biased agonist profile of kratom's alkaloids at opioid receptors makes them particularly interesting candidates for the development of novel analgesics with improved safety profiles compared to existing opioid medications.
+Kratom represents a complex pharmacological s [[query-how-to-store-cannabis-seeds-for-long-term-viability]] th significant therapeutic potential and notable risks. Key areas for future research include controlled [[mushroom-cancer-clinical-trials-overview]] for pain management and opioid dependence, detailed pharmacokinetic and pharmacodynamic studies, long-term safety profiling, investigation of the therapeutic potential of isolated alkaloids versus whole-leaf preparations, and the development of quality control standards for commercial products. The unique biased agonist profile of kratom's alkaloids at opioid receptors makes them particularly interesting candidates for the development of novel analgesics with improved safety profiles compared to existing opioid medications.
+
+## See Also
+
+- [[chaenomeles-speciosa]]

@@ -27,7 +27,7 @@ It is one of the most important rasayana (rejuvenating) herbs in Ayurvedic
 medicine, traditionally used as an aphrodisiac, adaptogen, and treatment
 for male reproductive disorders.
 
-The species is native to tropical South and Southeast Asia, where it grows
+The species is native to tropical South and [[psilocybe-southeast-asia-pacific]], where it grows
 in forest understories and grasslands. Overharvesting has led to declining
 wild populations, prompting cultivation efforts across India.
 
@@ -68,7 +68,7 @@ Prefers partial shade, high humidity, and sandy loam soils.
 
 ## Phytochemistry
 
-The rhizomes contain diverse bioactive secondary metabolites:
+The rhizomes contain diverse bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]]:
 
 - **Curculigoside** — benzyl glucoside, the signature compound;
   anti-osteoporotic, immunomodulatory, antioxidant
@@ -96,7 +96,7 @@ ghee, sugar, and warming spices.
 
 - **Aphrodisiac:** Increased mounting frequency, improved sperm count and
   motility, elevated testosterone in animal studies
-- **Adaptogenic:** Reduced cortisol and oxidative stress biomarkers in
+- **Adaptogenic:** Reduced cortisol and [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] biomarkers in
   forced-swim and restraint-stress models
 - **Anti-osteoporotic:** Curculigoside inhibits osteoclast differentiation
   in ovariectomized rats
@@ -109,7 +109,7 @@ ghee, sugar, and warming spices.
 
 ## Cultivation
 
-Propagation primarily by rhizome division; seed germination possible
+Propagation primarily by rhizome division; [[cannabis-seed-germination-methods]] possible
 with stratification. Requires well-drained sandy loam (pH 6.0–7.5),
 40–60% shade, regular moisture, and 20–35°C temperatures.
 Rhizomes harvestable at 18–24 months; yields 1,500–2,500 kg/ha dried.

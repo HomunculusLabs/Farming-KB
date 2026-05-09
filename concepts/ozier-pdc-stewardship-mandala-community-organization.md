@@ -1,5 +1,5 @@
 ---
-title: Stewardship Mandala - Community Organization Model
+title: [[ozier-pdc-biomes-ecotones-edge-effect]] stewardship mandala community organization - savory-community-organization-and-shared-grazing Model
 source: william-ozier-williams-pdc_-a-permaculture-design-cours.md
 author: William WR Ozier
 topics: community, organization, governance, permaculture, intentional-community
@@ -8,7 +8,7 @@ topics: community, organization, governance, permaculture, intentional-community
 # Stewardship Mandala: A Non-Hierarchical Community Organization Model
 
 The Stewardship Mandala is a non-hierarchical organizational and decision-making
-structure developed by William Ozier as part of his [[natural-building]]
+structure developed by [[william-ozier-williams]] as part of his [[natural-building]]
 - **Education** — courses, workshops, skill-sharing
 - **Events and Outreach** — community gatherings, public engagement
 - **Administration** — finances, communications, coordination
@@ -22,7 +22,7 @@ Stewards are chosen based on experience, leadership skill, and willingness.
 Each lobe can contain **sub-circles** representing more specific functions.
 For example, the Food Strategy lobe might contain:
 
-- **Garden Circle** — designing, creating, maintaining community gardens
+- **Garden Circle** — designing, creating, maintaining [[gaias-garden-creating-community-gardens]]
 - **Kitchen Circle** — communal cooking, food preservation, fermentation
 - **Food Co-Op Circle** — group purchasing power, food distribution
 

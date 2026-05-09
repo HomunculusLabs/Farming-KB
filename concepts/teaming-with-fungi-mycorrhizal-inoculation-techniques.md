@@ -1,5 +1,5 @@
 ---
-title: Teaming with Fungi - Mycorrhizal Inoculation Techniques
+title: Teaming with Fungi - Mycorrhizal cotter-inoculation-techniques-and-hygiene
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,11 +10,11 @@ tags: [fungi, mycology, mycorrhizal, sterile-technique]
 
 # Teaming with Fungi - Mycorrhizal Inoculation Techniques
 
-Jeff Lowenfels' "Teaming with Fungi" provides a comprehensive guide to applying mycorrhizal fungi in agricultural, horticultural, silvicultural, and hydroponic settings. Successful inoculation requires matching the right fungal species to the right host plant, applying propagules at the correct time and in the correct manner, and maintaining conditions that allow the mycorrhizal symbiosis to thrive. The book emphasizes that mycorrhizal associations are host-specific and that improper technique can negate the considerable benefits these fungi provide.
+Jeff Lowenfels' "Teaming with Fungi" provides a comprehensive guide to applying mycorrhizal fungi in agricultural, horticultural, silvicultural, and hydroponic settings. Successful inoculation requires matching the right fungal species to the right host plant, applying propagules at the correct time and in the correct manner, and maintaining conditions that allow the [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] to thrive. The book emphasizes that mycorrhizal associations are host-specific and that improper technique can negate the considerable benefits these fungi provide.
 
 ## Types of Mycorrhizal Inoculant Formulations
 
-Three primary formulation types are available for arbuscular mycorrhizal propagules:
+Three primary formulation types are available for [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] propagules:
 
 - **Granular formulations**: Spores and hyphal fragments mixed with granular substances (sand, peat, clay) for spreading into soil or onto roots
 - **Soil-based propagules**: Natural soils containing known mycorrhizal fungi, which can be produced using plant root fragments
@@ -30,7 +30,7 @@ The best way to establish arbuscular mycorrhizae in agriculture is to inoculate 
 
 ### Seed Germination Mix Inoculation
 
-All formulations can be mixed into the soil or media in which seeds are germinated. Seed-starting cubes, transplant cubes, and hydroponic growing media can all be inoculated. The media must have a pH between 5.5 and 7.0 to sustain the inoculant. This method ensures that mycorrhizae begin forming as soon as roots emerge.
+All formulations can be mixed into the soil or media in which seeds are germinated. Seed-starting cubes, transplant cubes, and [[cannabis-grow-hydroponic-growing-systems]] media can all be inoculated. The media must have a pH between 5.5 and 7.0 to sustain the inoculant. This method ensures that mycorrhizae begin forming as soon as roots emerge.
 
 ### Bare-Root Inoculation
 
@@ -38,11 +38,11 @@ Bare plant roots can be sprayed, sprinkled with, or dipped into any formulation.
 
 ### Transplant Inoculation
 
-Both liquid and granular formulations can be applied to plant roots at transplanting time. The standard advice is to roll the roots of transplants in mycorrhizal mixes or sprinkle the mix directly on exposed roots. Spores can also be mixed into transplanting soil. Studies show that mixing propagules throughout the potting mix before transplanting is also good practice -- spores in the soil germinate and increase as they encounter expanding root networks, producing a larger mycorrhizal network with increased nutrient uptake.
+Both liquid and granular formulations can be applied to plant roots at transplanting time. The standard advice is to roll the roots of transplants in mycorrhizal mixes or sprinkle the mix directly on exposed roots. Spores can also be mixed into transplanting soil. Studies show that mixing propagules throughout the potting mix before transplanting is also good practice -- spores in the soil germinate and increase as they encounter expanding root networks, producing a larger [[arbuscular-mycorrhizal-network-visualization-anastomosis]] with increased nutrient uptake.
 
 ### Root Inoculation of Existing Plants
 
-All formulations can be used to treat roots of existing plants as long as they make physical contact with roots. Liquid formulations can be applied to the surface. For deeper roots, granular and soil mixes should be placed in channels to the root zone. Packing channels with inoculant enables the root-to-fungi chemical signaling (via strigolactones and Myc factors) required for arbuscular mycorrhizal formation.
+All formulations can be used to treat roots of existing plants as long as they make physical contact with roots. Liquid formulations can be applied to the surface. For deeper roots, granular and soil mixes should be placed in channels to the root zone. Packing channels with inoculant enables the root-to-fungi [[plant-hormones-and-chemical-signaling-systems]] (via strigolactones and Myc factors) required for arbuscular mycorrhizal formation.
 
 ### Hydroponic Inoculation
 
@@ -108,6 +108,8 @@ Ectomycorrhizal fungi are produced by collecting fruiting bodies (mushrooms, tru
 8. **Store properly**: Keep cool, dry, and sealed at 65-75F
 
 ## See Also
+
+- [[rapd-molecular-marker-techniques-fungi]]
 
 - [[arbuscular-mycorrhizal-fungi]]
 - [[arbuscular-mycorrhizal-fungal-diversity]]

@@ -12,7 +12,7 @@ type: comparison
 Aeroponics and aquaponics are two advanced soilless growing systems that eliminate
 traditional growing media in favor of recirculating nutrient solutions. Aeroponics
 suspends plant roots in air chambers and delivers nutrients via fine mist, achieving
-the fastest growth rates of any cultivation method. Aquaponics integrates aquaculture
+the fastest growth rates of any [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]]. Aquaponics integrates aquaculture
 and hydroponics in a recirculating ecosystem where fish waste is converted by bacteria
 into plant nutrients. While both systems are water-efficient and space-efficient, they
 differ dramatically in complexity, cost, outputs, and management requirements.
@@ -35,12 +35,12 @@ operates at its absolute optimum. Startup time is significant, typically requiri
 tilapia, koi, trout, catfish, or bluegill) depends on water temperature, climate
 conditions, and whether the fish are intended for consumption.
 Aquaponics produces less nutrient-dense solution than mineral hydroponics, which can
-limit the growth rate of heavy-feeding crops like tomatoes and peppers. Leafy greens,
+limit the growth rate of heavy-feeding crops like tomatoes and peppers. [[solomon-leafy-greens-growing]],
 herbs, and fruiting vegetables with moderate nutrient demands perform best. However,
 the nutrient solution is naturally buffered by the biological processes, making pH
 swings less dramatic and easier to manage than in pure hydroponic setups. The
 ecosystem approach also means that fish disease, water quality issues, and plant
-nutrient deficiencies are all interconnected, requiring the grower to understand and
+[[hamilton-nutrient-deficiencies-and-treatment]] are all interconnected, requiring the grower to understand and
 manage aquatic biology alongside horticulture.
 ## Key Differences
 | Aspect | Aeroponics | Aquaponics |
@@ -72,7 +72,7 @@ priorities, such as commercial operations growing high-value crops like culinary
 herbs, microgreens, or specialty cut flowers. It is also the best choice for
 propagation and cloning operations where rapid root development and high success rates
 are critical. Research facilities and controlled environment agriculture operations
-benefit from the precise environmental control aeroponics provides. The system demands
+benefit from the precise [[eclss-environmental-control-life-support]] aeroponics provides. The system demands
 technical proficiency and reliable power, making it better suited for experienced
 growers who can invest in quality equipment with backup systems.
 ## When to Choose Aquaponics
@@ -88,9 +88,11 @@ water as the base solution for aeroponic misting. This hybrid approach attempts 
 achieve the growth speeds of aeroponics with the biological sustainability of
 aquaponics. However, solid particles and biofilm in aquaponic water can clog fine
 aeroponic misting nozzles, requiring additional filtration. Another popular hybrid
-uses deep water culture (DWC) rafts for the aquaponic grow beds, avoiding nozzle
+uses [[cannabis-deep-water-culture-guide]] (DWC) rafts for the aquaponic grow beds, avoiding nozzle
 clogging while leveraging the recirculating fish-waste nutrient cycle.
 ## See Also
+
+- [[comparison-bioponics-vs-aquaponics]]
 - [[aeroponics-guide]]
  [[comparison-living-soil-vs-hydroponic]]
  [[aquaponics-fish-species]]

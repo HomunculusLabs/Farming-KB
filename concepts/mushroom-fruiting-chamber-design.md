@@ -1,11 +1,11 @@
 ---
-title: "Mushroom Fruiting Chamber Design"
+title: "ectomycorrhizal-mushroom-fruiting-ecology fruiting-chamber-design-and-environmental-control"
 ---
 
 # Mushroom Fruiting Chamber Design
 
 A fruiting chamber provides the environmental conditions necessary for
-mushroom [[casing-layer-materials-and-formulas]] must not dry out
+mushroom casing-layer-materials-and-formulas must not dry out
 
 ## Simple Bin Design
 
@@ -20,7 +20,7 @@ The G.U.I.D. method uses clear plastic bins as effective, [[fruiting-chambers-an
 - Small holes melted in the sides of the bins provide passive air
   exchange
 - Holes can be covered with mesh or filter material to exclude
-  flying insects (fungus gnats, fruit flies)
+  flying insects ([[query-how-to-control-fungus-gnats-organically]], fruit flies)
 - The number and size of holes should be calibrated to prevent
   excessive drying while providing adequate gas exchange
 
@@ -63,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,3 +106,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[stamets-mushroom-cropping-containers-design-comparison]]

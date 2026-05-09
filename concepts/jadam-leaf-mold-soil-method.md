@@ -1,5 +1,5 @@
 ---
-title: "JADAM Leaf Mold Soil Method — Making Soil Like Forest Leaf Mold"
+title: "JADAM comparison-leaf-mold-composting-vs-hot-composting-method Soil Method — Making Soil Like Forest [[comparison-leaf-mold-composting-vs-hot-composting-method]]"
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -9,15 +9,15 @@ sources:
 ---
 # JADAM Leaf Mold Soil Method
 
-JADAM believes leaf mold is the ideal soil. Find the secret to soil management in nature — look at the soil formed from leaf mold in the adjacent mountains, fields and forests. It has been there for thousands of years. This is the core of [[jadam-microorganism-solution-jms]]. The colors are beautiful and diverse — modern science has little understanding of this world of soil microorganisms.
+JADAM believes leaf mold is the ideal soil. Find the secret to soil management in nature — look at the soil formed from leaf mold in the adjacent mountains, fields and forests. It has been there for thousands of years. This is the core of [[jadam-microorganism-solution-jms]]. The colors are beautiful and diverse — [[fukuoka-road-critique-of-modern-science]] has little understanding of this world of soil microorganisms.
 
 ### The "Take It" Principle
 
-To achieve "balance of microorganisms" the answer is to "take it" (leaf mold) from local mountains. Leaf mold contains indigenous microorganisms most similar to the ones in the soil in your field. If you use leaf mold, "balance of microorganisms" will be easily achieved.
+To achieve "balance of microorganisms" the answer is to "take it" (leaf mold) from local mountains. Leaf mold contains [[beneficial-indigenous-microorganisms-bim]] most similar to the ones in the soil in your field. If you [[query-how-to-make-and-use-leaf-mold-in-your-garden]], "balance of microorganisms" will be easily achieved.
 
 ## Seed and Seedling Treatment Using Leaf Mold
 
-Leaf mold is a reservoir of millions of different kinds of indigenous microorganisms. It also holds millions of different excreta from these microorganisms — a super nutrient-rich material that can replace commercial root promoters.
+Leaf mold is a reservoir of millions of different kinds of [[bionutrients-lab-indigenous-microorganisms-imo]]. It also holds millions of different excreta from these microorganisms — a super nutrient-rich material that can replace commercial root promoters.
 
 ### For Seedlings
 
@@ -34,7 +34,7 @@ This boosts biodiversity in the seed and seedling environment, which effectively
 See also: [[jadam-soil-management-principles]] — the three tenets of soil management
 - [[jadam-microorganism-solution-jms]] — making JMS from leaf mold
 - [[lowenfels-earthworms-soil-food-web]]
-- [[fungal-chromogens-and-color-change]]
+- fungal-chromogens-and-color-change
 ## Practical Applications
 
 JADAM Leaf Mold Soil Method — Making Soil Like Forest Leaf Mold has a range of practical applications that make it relevant to
@@ -52,7 +52,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -102,7 +102,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -112,4 +112,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

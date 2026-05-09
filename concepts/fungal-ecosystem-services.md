@@ -1,5 +1,5 @@
 ---
-title: Fungal Ecosystem Services
+title: Fungal biodiversity-of-fungi-ecosystem-services-agriculture
 created: 2026-04-28
 tags: [ecology, fungi, ecosystem-services, decomposition]
 date: 2026-04-28
@@ -15,7 +15,7 @@ type: concept
 Fungal ecosystem services are the benefits that fungi provide to humanity
 and to the natural world. These services span virtually every ecological
 process and have direct implications for agriculture, medicine, climate
-regulation, and biodiversity conservation. Despite their foundational
+regulation, and [[fungal-biodiversity-conservation-status]]. Despite their foundational
 importance, fungal ecosystem services are often overlooked in
 environmental policy and conservation planning, in part because so much
 of fungal diversity remains undescribed.
@@ -43,7 +43,7 @@ brown residue that is an important component of soil organic matter.
 Fungi play a dual role in the global carbon cycle. While decomposition
 releases carbon dioxide, fungal biomass and metabolic products also
 contribute to stable soil organic matter. Glomalin — a glycoprotein
-produced by arbuscular mycorrhizal fungi — is remarkably resistant to
+produced by [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi — is remarkably resistant to
 degradation and can persist in soils for decades to centuries, forming a
 significant long-term carbon sink. Globally, mycorrhizal fungi are
 estimated to transfer 5-10 billion tonnes of carbon from plants to soils
@@ -65,7 +65,7 @@ area of the root system by orders of magnitude.
 Individual mycorrhizal fungi often connect multiple plants simultaneously,
 forming underground networks sometimes called "wood wide webs" or "common
 mycorrhizal networks" (CMNs). Through these networks, carbon, nutrients,
-and chemical signals can be transferred between plants. Research has
+and [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] can be transferred between plants. Research has
 shown that CMNs can facilitate nutrient transfer from older, shaded trees
 to younger seedlings in forest understories, and may enable plants to
 send chemical warnings about insect herbivore attacks to neighboring
@@ -79,7 +79,7 @@ Beyond mycorrhizal associations, many fungi promote plant growth through
 other mechanisms. Endophytic fungi living within plant tissues can produce
 growth hormones, fix atmospheric nitrogen, solubilize phosphate, and
 suppress plant pathogens. Commercial biofertilizers based on fungi like
-*Trichoderma* and mycorrhizal inoculants are increasingly used in
+*Trichoderma* and [[pgpr-mycorrhizal-inoculants-microplant-establishment]] are increasingly used in
 sustainable agriculture.
 
 ### Biological Control
@@ -111,7 +111,7 @@ also produce many potent anticancer compounds, including taxol, which
 was originally discovered in a fungus associated with Pacific yew trees.
 
 The largely undescribed fungal diversity of tropical forests represents
-a vast, untapped reservoir of potentially useful bioactive compounds.
+a vast, untapped reservoir of potentially useful [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]].
 Many researchers believe that the next generation of antibiotics —
 urgently needed in the face of antimicrobial resistance — may come from
 previously unknown fungi.

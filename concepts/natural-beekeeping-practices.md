@@ -1,5 +1,5 @@
 ---
-title: Natural Beekeeping Practices
+title: comparison-natural-beekeeping-vs-standard-beekeeping Practices
 created: 2026-04-26
 tags:
   - beekeeping
@@ -16,7 +16,7 @@ type: concept
 
 # Natural Beekeeping Practices
 
-Sepp Holzer considers bees the most important insects for human survival.
+[[comparison-sepp-holzer-vs-biodynamic]] considers bees the most important insects for human survival.
 Without bees, pollination of crops fails and humans follow. His natural
 beekeeping approach contrasts sharply with industrial methods that he argues
 are causing the massive collapse of bee populations worldwide. The approach
@@ -24,7 +24,7 @@ emphasises working with bees rather than exploiting them.
 
 ## The Bee Crisis
 
-Many countries face massive die-off of bee populations. In the United States,
+Many countries face massive die-off of bee populations. In the [[dmt-containing-plants-united-states-halpern]],
 several bee species are extinct and others have shrunk to 4% of former
 numbers. English beekeepers report one in four colonies dying, with total
 extinction projected within a decade at current rates. Holzer identifies the
@@ -84,7 +84,7 @@ is antibacterial and creates the right ambience for hive life.
 
 - Maximise biodiversity in plant life around the hive
 - Plant toxic plants and herbs that bees use for healing honey
-- Plant thyme, marjoram, and plants with essential oils in front of the
+- Plant thyme, marjoram, and plants with [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] in front of the
   hive, at least 3-4m wide and deep
 - Install a sloping piece of wood above the entrance that forces bees to
   fly through the herb bed, their wings picking up disinfecting essential
@@ -110,7 +110,7 @@ frames.
 **Cork oak bark hives.** Used extensively in Portugal, making use of local
 materials.
 
-**Siberian grain straw hives.** Built at the Krameterhof with particular
+**Siberian [[fukuoka-straw-winter-grain-straw-mulch]] hives.** Built at the Krameterhof with particular
 success.
 
 ## The Connection to Landscape Health

@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Singh, B. & Singh, A.K. (2014). "Luffa cylindrica." In: Plant Resources of South Asia, Springer.
-  - Purseglove, J.W. (1968). Tropical Crops: Dicotyledons. Longman.
+  - Purseglove, J.W. (1968). [[mollison-specialist-tropical-crops-forest-products]]: Dicotyledons. Longman.
   - Ding, H. et al. (2013). "Luffa cylindrica as a biomaterial." Materials 6(3): 917–931.
   - Achigan-Dako, E.G. et al. (2008). "Luffa." In: Prohens & Nuez, Vegetables II, Springer.
 ---
@@ -23,7 +23,7 @@ an annual climbing vine in the family Cucurbitaceae. It is widely cultivated
 across tropical and subtropical regions for its edible young fruits and the
 fibrous skeleton of mature fruits used as bath sponges.
 
-The species is believed to have originated in South or Southeast Asia. It has
+The species is believed to have originated in South or [[psilocybe-southeast-asia-pacific]]. It has
 been cultivated for thousands of years, with archaeological evidence from
 India dating back to at least 4,000 years.
 
@@ -68,7 +68,7 @@ elliptic, flat, and black, 10–15 mm long.
 ## Cultivation
 
 Luffa cylindrica requires warm conditions with optimal growth at 25–35°C. The
-crop is frost-sensitive and requires a minimum growing season of 120–180
+crop is frost-sensitive and requires a minimum [[savory-growing-season-and-non-growing-season-management]] of 120–180
 days to produce mature sponge-quality fruits.
 
 The plant grows best in full sun with fertile, well-drained soils pH 6.0–7.0.
@@ -87,7 +87,7 @@ The species is generally pest-resistant compared to other cucurbits. However,
 fruit flies, aphids, and spider mites can cause significant damage in
 tropical production areas.
 
-Diseases include powdery mildew, downy mildew, and anthracnose. Proper
+Diseases include [[cervantes-powdery-mildew-prevention-treatment]], downy mildew, and anthracnose. Proper
 spacing and trellis culture improve air circulation and reduce disease
 pressure.
 
@@ -131,11 +131,11 @@ Research has demonstrated luffa fiber's potential as a reinforcement material
 in polymer composites, concrete, and biodegradable packaging. The fiber has
 good tensile strength, low density, and biodegradability.
 
-In wastewater treatment, luffa sponges serve as low-cost biofilter media for
+In [[mollison-designers-wastewater-treatment-wetlands]], luffa sponges serve as low-cost biofilter media for
 removing heavy metals, dyes, and organic pollutants from contaminated water.
 
 Luffa cultivation has ecological benefits as a fast-growing annual that can
-provide shade, biomass mulch, and erosion control on trellises and fences.
+provide shade, biomass mulch, and [[permplant-willows-salix-erosion-control-fodder]] on trellises and fences.
 It is increasingly integrated into permaculture designs.
 ## See Also
 

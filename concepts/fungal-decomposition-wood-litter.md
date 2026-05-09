@@ -1,33 +1,31 @@
 ---
-title: Fungal Decomposition of Wood and Litter
+title: dighton-fungal-decomposition-leaf-litter-dynamics of Wood and Litter
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Decomposition of Wood and Litter
-
-## Overview
-
-Wood and litter decomposition by fungi is a foundational ecological process that drives nutrient cycling, soil formation, and carbon flux in terrestrial ecosystems. The diversity of decomposer fungi and the complexity of their interactions with substrata make decomposition one of the most important and least understood aspects of [[mycorrhizal-fungi]] in seasonally dry forests. The lignin-rich residues from brown-rot decay contribute to long-term carbon storage, as the modified lignin resists further microbial degradation for extended periods.
+# Fungal Decomposition of Wood and Litter ## Overview Wood and litter decomposition by fungi is a foundational ecological process that drives nutrient cycling, soil formation, and carbon flux in terrestrial ecosystems. The diversity of decomposer fungi and the complexity of their interactions with substrata make decomposition one of the most important and least understood aspects of [[mycorrhizal-fungi]] in seasonally dry forests. The lignin-rich residues from brown-rot decay contribute to long-term carbon storage, as the modified lignin resists further microbial degradation for extended periods.
 
 ## Soft Rot
 
-Soft rot fungi (primarily ascomycetes) cause a slower, less aggressive decay characterized by cavity formation within the secondary cell wall. Soft rot is particularly important in environments where basidiomycete activity is limited: waterlogged wood, tropical conditions, and wood exposed to extreme temperatures. Soft rot is the dominant decay type in many aquatic and semi-aquatic environments. Some cellulolytic molds associated with soft rot are also important in the early stages of leaf litter decomposition.
+Soft [[comparison-white-rot-fungi-vs-brown-rot-fungi-biodegradation]] (primarily ascomycetes) cause a slower, less aggressive decay characterized by cavity formation within the secondary [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]]. Soft rot is particularly important in environments where basidiomycete activity is limited: waterlogged wood, tropical conditions, and wood exposed to extreme temperatures. Soft rot is the dominant decay type in many aquatic and semi-aquatic environments. Some cellulolytic molds associated with soft rot are also important in the early stages of [[fungal-diversity-leaf-litter-coarse-woody-debris]] decomposition.
 
 ## Successional Patterns on Wood
 
 Wood-inhabiting fungi follow predictable successional sequences as substrata deteriorate:
 
 1. **Pioneer colonizers**: Non-pathogenic [[fungal-decomposition]] — decomposition overview
-- [[fungal-communities-succession]] — successional dynamics
-- [[fungal-decomposition-of-wood]] — detailed wood decay mechanisms
+- fungal-communities-succession — successional dynamics
+- fungal-decomposition-of-wood — detailed [[bloomfield-wood-decay-fungi-spalted-timber]] mechanisms
 - [[endophytic-fungal-diversity]] — endophytes as pioneer colonizers
 
 ## Related
 
-- [[fungal-cellulose-decomposition-fungal-enzymes]] [[fungal-lignin-degradation-enzymology]] [[fungal-decomposition-processes]] [[fungal-plant-pathogen-interactions]] [[fungal-enzymatic-diversity-decomposition]] [[fungal-decomposition-processes]] fungal decomposition wood litter [[ligninolytic-enzyme-systems-white-rot-fungi]] [[fungal-cellulose-decomposition-fungal-enzymes]] fungal decomposition wood litter Understanding enzyme kinetics is essential for predicting decomposition rates, modeling carbon and nutrient cycling, and understanding how environmental changes may affect ecosystem function.
+- [[fungal-wood-decomposition-spatial-variation]]
+
+- fungal-cellulose-decomposition-fungal-enzymes fungal-lignin-degradation-enzymology [[fungal-decomposition-processes]] fungal-plant-pathogen-interactions [[fungal-enzymatic-diversity-decomposition]] [[fungal-decomposition-processes]] fungal fungal decomposition wood litter litter [[ligninolytic-enzyme-systems-white-rot-fungi]] fungal-cellulose-decomposition-fungal-enzymes fungal decomposition wood litter Understanding enzyme kinetics is essential for predicting decomposition rates, modeling carbon and nutrient cycling, and understanding how environmental changes may affect ecosystem function.
 ## Practical Applications
 
 Fungal Decomposition of Wood and Litter has a range of practical applications that make it relevant to
@@ -105,4 +103,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

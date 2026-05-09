@@ -14,9 +14,9 @@ tags: [cannabis, nutrients]
 
 Magnesium is a [[cannabis-foliar-feeding]])
 - If deficiency progresses to the top, it will turn green there first, then move down the plant
-- Continue regular watering schedule with Epsom salts until symptoms totally disappear
+- Continue regular [[cannabis-watering-schedule-and-frequency]] with Epsom salts until symptoms totally disappear
 - Apply magnesium sulfate monohydrate as an alternative to Epsom salts
-- Add fine dolomite lime to soil and soilless mix for long-term calcium and magnesium supply
+- Add fine [[cervantes-dolomite-lime-ph-buffering]] to soil and soilless mix for long-term calcium and magnesium supply
 - Always use the finest dolomite available
 
 Adding Epsom salts regularly is not necessary when the fertilizer contains available magnesium.
@@ -24,7 +24,7 @@ Adding Epsom salts regularly is not necessary when the fertilizer contains avail
 ### Prevention
 
 - Control room and root-zone temperatures, humidity, pH, and EC
-- Keep root zone and nutrient solution at 70-75F (21-24C)
+- Keep root zone and [[cannabis-nutrient-solution-preparation]] at 70-75F (21-24C)
 - Keep ambient air at 75F (21C) day and 65F (18C) night
 - Use a complete fertilizer with an adequate amount of magnesium
 - Keep soil pH above 6.5; hydroponic pH above 5.5
@@ -114,4 +114,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

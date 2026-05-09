@@ -1,10 +1,11 @@
 ---
-title: "Kochi Rice Borer Eradication Campaign and Its Lessons"
+title: "fukuoka kochi rice borer eradication debacle Borer Eradication Campaign and Its Lessons"
 created: 2026-04-28
 tags: [rice-borer, pest-eradication, integrated-pest-management, kochi, post-season-cultivation, japan]
 date: 2026-04-25
 updated: 2026-04-25
-sources: [~/wiki/raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
@@ -63,13 +64,13 @@ each other.
 The lack of a significant increase in yields despite elimination
 of the rice borers suggests that nature's balancing mechanisms
 simply redirected the surplus energy into other forms of stress.
-A decline in insect infestation, followed by rice blast disease or
+A decline in insect infestation, followed by [[bloomfield-rice-blast-appressorium-mechanics]] disease or
 sclerotium rot, can open up a new cycle of problems.
 
 ## Pests as Divine Warnings
 
 Diseases and pest damage are self-defense measures taken by nature
-to restore balance when the natural order has been disturbed. Pests
+to restore balance when the [[fukuoka-textdoc-natural-order-food-chain-unity]] has been disturbed. Pests
 are a divine warning that something has gone wrong, that the natural
 balance of rice plants has been upset. People must realize that
 nature's way of restoring an abnormal or diseased body is to fight
@@ -107,7 +108,7 @@ The first thing that pops into the head of an agricultural
 scientist when he sees a pest emerge in the fields is how to kill
 it. Instead, he should examine the causes of the outbreak and cut
 outbreak and cut off the problem at its roots. This, at any rate, is the way
-natural farming would handle the matter. There is something
+[[comparison-natural-farming-vs-permaculture]] would handle the matter. There is something
 basically wrong with arbitrarily deciding that an insect is a
 pest and trying to destroy it without understanding why it
 flourished in the first place. This incident taught Fukuoka not
@@ -115,6 +116,8 @@ to rely on human action and strengthened his resolve to move
 toward a natural way of farming.
 
 ## See Also
+
+- [[fukuoka-textdoc-kochi-yellow-rice-borer-eradication]]
 
 - [[fukuoka-direct-seeded-no-tillage-rice-barley-method]]
 - [[fukuoka-rice-and-barley-natural-farming]]

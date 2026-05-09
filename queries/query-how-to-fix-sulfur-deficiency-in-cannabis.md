@@ -1,10 +1,11 @@
 ---
-title: "How to Fix Sulfur Deficiency in Cannabis"
+title: "How to query how to fix sulfur deficiency in cannabis Deficiency in Cannabis"
 created: 2026-04-28
 tags: [query, cannabis, nutrients, deficiency, micronutrients]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: query
 ---
@@ -22,7 +23,7 @@ amendments like Epsom salt (magnesium sulfate), elemental sulfur, or sulfate-
 based
 fertilizers, and by ensuring proper pH in the root zone. The [[cannabis-nutrient-deficiency-guide]] and [[cannabis-nutrient-lockout-and-ph]]
 and [[cervantes-micronutrient-deficiency-chelation]] and
-[[calcium-magnesium-secondary-nutrients]] page covers secondary nutrient 
+[[calcium-magnesium-secondary-nutrients]] page covers [[cervantes-secondary-nutrient-deficiency]] 
 relationships and
 interactions in cannabis nutrition.
 
@@ -30,7 +31,7 @@ For hydroponic growers, add a sulfur-containing nutrient supplement to your
 reservoir.
 Most base nutrient formulas already contain sulfur in the form of sulfates, so a
  deficiency
-may indicate that your nutrient solution is too diluted or that your water 
+may indicate that your [[cannabis-nutrient-solution-preparation]] is too diluted or that your water 
 source is lacking.
 Check your nutrient manufacturer's guaranteed analysis to verify sulfur content.
  Potassium
@@ -38,7 +39,7 @@ sulfate, magnesium sulfate, or a micronutrient supplement containing sulfur can
 be added at
 quarter to half strength to correct the deficiency without causing other 
 imbalances. The
-[[query-what-are-the-most-common-cannabis-nutrient-deficiencies]]
+
 - [[query-how-to-fix-magnesium-deficiency-in-cannabis]]
 - [[query-how-to-identify-and-fix-cannabis-iron-deficiency]]
 ## Practical Considerations
@@ -57,7 +58,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,4 +100,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

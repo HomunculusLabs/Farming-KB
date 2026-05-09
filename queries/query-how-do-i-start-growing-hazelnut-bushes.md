@@ -1,5 +1,5 @@
 ---
-title: How Do I Start Growing Hazelnut Bushes?
+title: How Do I query how do i start growing hazelnut bushes Hazelnut Bushes?
 created: 2026-05-06
 tags: [hazelnut, filbert, corylus, getting-started, planting-guide, nut-trees, homesteading, beginner]
 date: 2026-04-28
@@ -44,10 +44,10 @@ Hazelnuts (also called filquery-what-are-the-best- o-i-make-koji-at-home-for-beg
 ## Ongoing Care
 
 ### Watering
-- **Year 2+:** 1–2 inches of water per week during the growing season (April–August).
+- **Year 2+:** 1–2 inches of water per week during the [[savory-growing-season-and-non-growing-season-management]] (April–August).
 - **Critical periods:** Late June through mid-July (nut filling stage). Drought during this window shrinks the [[permplant-chestnuts-castanea-nut-crop-coppice]].
 - **Mature plants (5+ years):** Drought-tolerant but benefit from deep watering every 2 weeks in summer.
-- Drip irrigation or a soaker hose is ideal. Avoid overhead watering — it promotes fungal disease.
+- [[comparison-drip-irrigation-vs-passive-irrigation]] or a soaker hose is ideal. Avoid overhead watering — it promotes [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]].
 
 ### Fertilizing
 - **Year 2:** Apply 1/4 cup of balanced granular fertilizer (10-10-10) in a ring 18 inches from the trunk in early March.
@@ -81,7 +81,7 @@ Hazelnuts (also called filquery-what-are-the-best- o-i-make-koji-at-home-for-beg
 
 | Year | What to Expect |
 |---|---|
-| 1 | Vegetative growth only. Root establishment. No nuts. |
+| 1 | [[cannabis-vegetative-growth-stage]] only. Root establishment. No nuts. |
 | 2 | A few catkins and flowers may appear. Remove any nuts that form. |
 | 3 | First small crop — typically 1/4 to 1/2 pound per bush. |
 | 4–5 | Noticeable crop — 1–3 pounds per bush. Nuts are full-sized. |
@@ -97,10 +97,10 @@ Hazelnuts (also called filquery-what-are-the-best- o-i-make-koji-at-home-for-beg
 - [ ] Select a site with full sun (6–8 hours) and well-drained soil (pH 6.0–7.0)
 - [ ] Test and amend soil 1–2 weeks before planting
 - [ ] Space bushes 15–20 feet apart (8–10 feet for hedgerows)
-- [ ] Plant bareroot in early spring; container plants in spring or early fall
+- [ ] Plant bareroot in [[coleman-overwintered-onions-and-early-spring-crops]]; container plants in spring or early fall
 - [ ] Set root collar at soil level — do not bury the trunk
 ## See Also
 
-- [[query-how-do-i-start-growing-hickory-trees]]
+- query-how-do-i-start-growing-hickory-trees
 - [[nutrient-movement-through-soil-to-plant-roots]]
 - [[teaming-with-microbes-mulch-and-soil-food-web]]

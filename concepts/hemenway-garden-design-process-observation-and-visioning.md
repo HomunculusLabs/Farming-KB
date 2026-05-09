@@ -1,5 +1,5 @@
 ---
-title: Garden Design Process - Observation and Visioning
+title: Garden ozier-pdc-design-process-analysis-frameworks - Observation and Visioning
 created: 2026-04-26
 tags: [design, observation, permaculture, planning, mapping]
 date: 2026-04-25
@@ -11,13 +11,13 @@ type: concept
 
 # Garden Design Process: Observation and Visioning
 
-Toby Hemenway lays out a five-step design process for creating
-an ecological garden: observation, visioning, planning,
+[[toby-hemenway]] lays out a five-step design process for creating
+an [[soil-building-ecological-garden]]: observation, visioning, planning,
 development, and implementation. This process draws from
-[[hemenway-zone-and-sector-planning]]
+hemenway-zone-and-sector-planning
 to organize elements spatially.
 
-Using a [[hemenway-random-assembly-design-technique]]
+Using a 
 technique using lists of elements and connecting words to
 break creative blocks and discover unexpected but useful
 combinations.
@@ -53,7 +53,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -103,7 +103,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -113,4 +113,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

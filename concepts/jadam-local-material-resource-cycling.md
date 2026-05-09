@@ -13,7 +13,7 @@ JADAM's ultra-low-cost farming depends on using locally available, free or nearl
 
 ## The Principle: Return What Was Taken
 
-Fertilizer exists to bring back nutrients removed by harvest. What you emptied, you must fill back. The key insight: fill it with something similar to what was taken out. This maintains optimum nutritional balance. JADAM achieves this by using crop residues and wild grass -- materials with nearly identical nutritional composition to the crops themselves.
+Fertilizer exists to bring back nutrients removed by harvest. What you emptied, you must fill back. The key insight: fill it with something similar to what was taken out. This maintains optimum [[jadam-nutritional-balance-fertilizer]]. JADAM achieves this by using crop residues and wild grass -- materials with nearly identical [[dighton-fungal-nutritional-composition-animal-diets]] to the crops themselves.
 
 ## Core Local Materials
 
@@ -22,7 +22,7 @@ Fertilizer exists to bring back nutrients removed by harvest. What you emptied, 
 Crop residues (branches, leaves, roots, fruits) are the single best fertilizer for crops because they have the exact nutritional balance the crop needs. JADAM does not view crop residues as a disease source but as a nutrient source. They are the perfect fertilizer -- returning to the soil what the crop extracted.
 
 - Use as base fertilizer by leaving on the soil surface
-- Convert to liquid fertilizer (JLF) by anaerobic fermentation in water with leaf mold
+- Convert to liquid fertilizer (JLF) by [[jadam-anaerobic-fermentation-principles]] in water with leaf mold
 - Nitrogen content of various JLF sources: wild grass (0.01%), purslane (0.2%), tomato (0.27%), spinach (0.29%)
 
 ### Wild Grass
@@ -36,7 +36,7 @@ Wild grass is second only to crop residues because it has a nutrient composition
 
 ### Leaf Mold
 
-The "black gold" beneath decomposing leaves in forests. Indigenous microorganisms that have adapted to the local environment -- the environment most similar to your fields -- teem in leaf mold.
+The "black gold" beneath decomposing leaves in forests. [[beneficial-indigenous-microorganisms-bim]] that have adapted to the local environment -- the environment most similar to your fields -- teem in leaf mold.
 
 - Collect from adjacent mountains: remove top leaves, take soft soil mixed with decomposing debris
 - Store in black plastic bags or gunnysacks in shade
@@ -90,12 +90,12 @@ JADAM strongly opposes the use of sugar, molasses, vinegar, wood vinegar, and al
 - Humus soil JLF
 - Phyllite JLF
 - Chitosan JLF
-- Calcium phosphate JLF
+- [[bionutrients-lab-calcium-phosphate-calamansi]] JLF
 - Potassium JLF
 
 ## Self-Sufficiency Target
 
-JADAM aims for farmers to produce all inputs themselves from local materials. The only purchased items needed are ingredients for natural pesticide and wetting agent, costing approximately $100 per acre per year. Everything else -- fertilizer, microorganisms, minerals -- comes from what is freely available on or near the farm.
+JADAM aims for farmers to produce all inputs themselves from local materials. The only purchased items needed are ingredients for [[jadam-natural-pesticide-institute-and-research]] and wetting agent, costing approximately $100 per acre per year. Everything else -- fertilizer, microorganisms, minerals -- comes from what is freely available on or near the farm.
 
 ## Related
 

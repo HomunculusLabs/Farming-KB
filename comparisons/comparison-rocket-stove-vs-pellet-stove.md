@@ -1,5 +1,5 @@
 ---
-title: "Rocket Stove vs Pellet Stove"
+title: "comparison-rocket-stove-vs-masonry-heater vs Pellet Stove"
 tags: [comparison, heating, homesteading, biomass, energy]
 date: 2026-05-08
 updated: 2026-05-08
@@ -38,7 +38,7 @@ away from home and cannot tend a fire throughout the day. The thermostat
 control means the stove maintains a set temperature automatically, and the
 hopper system provides many hours of unattended operation. Pellet stoves
 also produce very little smoke and particulate emissions, making them
-suitable for areas with strict air quality regulations. For off-grid
+suitable for areas with strict [[cervantes-air-quality-ventilation]] regulations. For off-grid
 homesteads with solar or battery systems, the modest electrical draw
 (100-300 watts) is manageable, and the fuel can be stockpiled in bulk
 during summer months.
@@ -50,7 +50,7 @@ water heating, and backup warmth, paired with a pellet stove for primary
 whole-home heating during the coldest months. This leverages the rocket
 stove's zero fuel cost and off-grid resilience for everyday use while
 relying on the pellet stove's automation for overnight and away-from-home
-heating. Another hybrid approach uses a rocket mass heater as the primary
+heating. Another hybrid approach uses a [[query-what-is-a-rocket-mass-heater-and-how-does-it-work]] heater as the primary
 heat source with a small pellet stove as supplementary heat for rooms the
 mass heater cannot reach. See [[comparison-cob-oven-vs-rocket-stove]] for additional biomass heating
 options in the homestead toolkit.
@@ -59,6 +59,7 @@ options in the homestead toolkit.
 
 - [[comparison-cob-oven-vs-rocket-stove]]
 - [[rocket-mass-heater-design]]
+
 ## Practical Considerations
 
 Successful implementation of Rocket Stove vs Pellet Stove requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

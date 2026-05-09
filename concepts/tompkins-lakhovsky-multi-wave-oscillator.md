@@ -110,7 +110,7 @@ authorities.
 
 Lakhovsky's work supported the earlier contentions of Galvani and
 Mesmer that living things have electrical or magnetic properties. It
-directly influenced George Washington Crile's radio-electrical
+directly influenced [[tompkins-george-washington-carver-plant-alchemy]] Crile's radio-electrical
 interpretation of life phenomena and Harold Saxton Burr's theory of
 electromagnetic fields as organizers of life systems at Yale
 University.

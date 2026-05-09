@@ -4,12 +4,13 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, pathogens, troubleshooting, plants, gardening, pest-control, cultivation]
-sources: []
+sources:
+  sources: []
 ---
 
 # Fungal Plant Diseases
 
-Fungal pathogens are among the most common and destructive plant diseases in both home gardens and commercial agriculture. They spread via spores carried by wind, water, insects, and contaminated tools. Most fungal diseases thrive in warm, humid conditions with poor air circulation.
+[[bloomfield-fungal-pathogens-and-parasites]] are among the most common and destructive plant diseases in both home gardens and commercial agriculture. They spread via spores carried by wind, water, insects, and contaminated tools. Most fungal diseases thrive in warm, humid conditions with poor [[stamets-growing-room-air-circulation-co2-management]].
 
 ## Major Fungal Diseases
 
@@ -23,7 +24,7 @@ Management:
 - Choose resistant varieties when available
 - Ensure adequate spacing (12-18 inches minimum for most crops)
 - Apply potassium bicarbonate spray (1 tbsp per gallon of water)
-- Neem oil as a preventive foliar spray
+- [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] as a preventive foliar spray
 - Remove and destroy infected plant debris -- do not compost
 
 ### Downy Mildew
@@ -33,11 +34,11 @@ Caused by oomycetes (Peronosporales), which are water molds rather than true fun
 Common on grapes, cucurbits, basil, and onions. Favored by cool, wet nights (below 65F) and warm days.
 
 Management:
-- Avoid overhead watering; use drip irrigation
+- Avoid overhead watering; use [[comparison-drip-irrigation-vs-passive-irrigation]]
 - Improve air circulation with proper spacing and pruning
 - Copper-based fungicides (Bordeaux mix) as preventive
 - Remove infected leaves immediately
-- Rotate crops -- oospores persist in soil for years
+- [[query-what-is-the-best-way-to-rotate-crops-in-a-vegetable-garden]] -- oospores persist in soil for years
 
 ### Early Blight (Alternaria solani)
 
@@ -97,7 +98,9 @@ Management:
 
 ## See Also
 
+- [[fungal-respiratory-diseases]]
+
 - [[plant-disease-identification]] -- visual diagnostic guide for all disease types
-- [[integrated-pest-management]] -- systematic approach to pest and disease control
+- [[integrated-pest-management]] -- systematic approach to pest and [[hamilton-pest-and-disease-control-organic]]
 - [[bacterial-plant-diseases]]
 - [[viral-plant-diseases]]

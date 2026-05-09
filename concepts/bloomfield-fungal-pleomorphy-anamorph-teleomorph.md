@@ -1,27 +1,20 @@
 ---
-title: "Fungal Pleomorphy: Anamorphs, Teleomorphs, and the Tulasne Brothers"
+title: "bloomfield fungal pleomorphy anamorph teleomorph: Anamorphs, Teleomorphs, and the Tulasne Brothers"
 created: 2026-04-28
-tags: [[mycology, fungal-taxonomy, pleomorphy, anamorph, teleomorph, fungal-life-cycle]
+tags: [mycology, fungal-taxonomy, pleomorphy, anamorph, teleomorph, fungal-life-cycle]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
 type: concept
 ---
-
-Fungal pleomorphy, the phenomenon in which a single fungus produces
-fundamentally different types of spores and structures at different
-stages of its life cycle, is one of the most important and perplexing
-concepts in mycology. As described in Nicholas P. Money's "Mr.
-Bloomfield's Orchard," understanding pleomorphy was key to unraveling
-the true nature of fungal reproduction and has profound implications
-for fungal taxonomy [[cryptococcus-neoformans-pathogenesis]] and its sexual, basidiospore-producing
+Fungal pleomorphy, the phenomenon in which a single fungus produces fundamentally different types of spores and structures at different stages of its [[bloomfield-fungal-life-cycle-spiral-versus-circle]], is one of the most important and perplexing concepts in mycology. As described in Nicholas P. Money's "Mr. Bloomfield's Orchard," understanding pleomorphy was key to unraveling the true nature of [[bloomfield-fungal-reproduction-and-chemical-communication]] and has profound implications for [[molecular-methods-fungal-taxonomy-and-diversity]] [[cryptococcus-neoformans-pathogenesis]] and its sexual, basidiospore-producing
 phase Filobasidiella neoformans are different manifestations of the
 same species. Unless both stages are found growing alongside each other,
 the error of double-naming is unavoidable.
 
 ## The Tulasne Brothers: Pioneers of Pleomorphy
 
-[[nineteenth-century-mushroom-literature]] by
+nineteenth-century-mushroom-literature by
 two bachelor brothers, Louis-Rene and Charles Tulasne. The brothers
 presented their findings, with frequent references to the glory of God,
 in an enchanting three-volume work entitled Selecta Fungorum
@@ -50,7 +43,7 @@ It is as if Charles Tulasne shrank himself to the size of a spore and
 drew the fungal forest that towered around him. The drawings allow one
 to peer at the fluid interior of cells through transparent walls, sense
 the roughness of spore surfaces, and imagine the tactile pleasure of
-running a finger over the roughened exterior of a fruiting body.
+running a finger over the roughened exterior of a [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]].
 
 ## From Discovery to Misapplication
 

@@ -1,5 +1,5 @@
 ---
-title: Claytonia (Miner's Lettuce) — Winter Harvest Cultivation
+title: Claytonia (Miner's Lettuce) — coleman claytonia winter harvest cultivation Cultivation
 aliases:
   - Miner's Lettuce
   - Claytonia perfoliata
@@ -19,7 +19,7 @@ concept_date: 2026-05-08
 ## Overview
 
 Claytonia perfoliata, commonly known as miner's lettuce, is a succulent
-cold-hardy annual native to western North America. Its distinctive
+cold-hardy annual native to western [[psilocybin-north-america-pacific-northwest]]. Its distinctive
 round, cup-shaped leaves clasp the stem, giving it a unique appearance
 among salad greens. The tender leaves and stems have a mild, slightly
 sweet flavor with a pleasant crunch, making it a prized addition to
@@ -43,7 +43,7 @@ Eliot Coleman's winter harvest methodology, built on three interlocking
 components:
 
 1. **Cold-hardy vegetable selection** — species that thrive in low temperatures
-2. **Succession planting** — staggered sowings beginning August 1
+2. **[[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]]** — staggered sowings beginning August 1
 3. **Protected cultivation** — unheated hoop houses with secondary row cover
 
 Claytonia occupies a "novel" niche alongside arugula, mache, minutina,
@@ -56,7 +56,7 @@ Coleman's core principle: cold-hardy vegetables do not merely survive
 winter — they improve. Claytonia exemplifies this:
 
 - **Increased sweetness:** Cold converts starches to sugars
-- **Enhanced tenderness:** No heat stress means no bitterness
+- **Enhanced tenderness:** No [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]] means no bitterness
 - **Superior flavor intensity:** Cool conditions concentrate flavors
 - **Extended harvest window:** Plants persist for months without bolting
 
@@ -89,8 +89,8 @@ tolerance range even when outside conditions are lethally cold.
 
 ## Succession Planting Schedule
 
-August 1 marks the "second spring" — the start of fall planting for
-the winter crop. The claytonia schedule follows this pattern:
+August 1 marks the "[[coleman-second-spring-august-planting-window]]" — the start of fall planting for
+the [[coleman-sunlight-and-winter-crop-growth-rates]]. The claytonia schedule follows this pattern:
 
 - **Early August:** First sowings in prepared greenhouse beds
 - **Mid-August through September:** Successive sowings every 2–3 weeks
@@ -140,8 +140,6 @@ unheated hoop houses with inner row-cover protection, it produces
 reliably through the deepest winter months. Integrated into a succession
 planting program starting in early August, claytonia provides a
 continuous supply of sweet, tender, nutrient-dense salad greens
-representing the highest expression of cold-season agriculture.
-
 ## See Also
 - [[coleman-winter-harvest-planting-schedule]]
 - [[coleman-winter-harvest-philosophy]]

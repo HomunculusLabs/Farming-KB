@@ -1,5 +1,5 @@
 ---
-title: "DMMDA -- 2,5-DIMETHOXY-3,4-METHYLENEDIOXYAMPHETAMINE -- PIHKAL Entry #58"
+title: "DMMDA -- 2,5-DIMETHOXY-3,4-METHYLENEDIOXYAMPHETAMINE -- 2c-b-pihkal-entry-20 #58"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -37,7 +37,7 @@ sources: ["Shulgin - PIHKAL"]
 
 DMMDA was the first of the tetraoxygenated amphetamine derivatmescaline was ever explored in man, back in 1962. And it is not easy to find an acceptable single phrase to describe its action or an acceptable number to describe its potency. I have put the value of 10 mescaline units (M.U.) into the literature and this would imply that maybe 30 milligrams was an active dose. This is probably too low, and some day I would like to run an experiment with the entire research group with this compound to see just what it really does.
 
-The essential oil that corresponds to DMMDA is, of course, apiole from the Oil of Parsley, which again ties together the spice world and the amphetamine world. And there is isoapiole, also a natural thing. This pair represents the ring-substitution pattern of one of the ten essential oils and DMMDA is one of the ten [[cannabis-advanced-refinement-fractional-distillation]]. It is the fraction that boils at 165-167 deg C at 27 mm/Hg. A solution of 19.8 g apiole in a mixture of 43 g KOH and 60 mL hot EtOH was heated in the steam bath for 24 h. With vigorous stirring, it was diluted with H2O, at a rate which the crystals that formed spontaneously could accumulate from the turbidity that was generated. When no more H2O could be added (there was persistent oiling out of material) the reaction mixture was filtered to give 12.1 g of an amber solid material. This was recrystallized from 20 mL boiling hexane, which was filtered while hot to remove insolubles. From the cooled filtrate, there was obtained 9.3 g of 2,5-dimethoxy-3,4-methylenedioxy-1-propenylbenzene, isoapiole, as pale cream-colored solids.
+The [[permaculture-designers-manual-essential-oil-plants]] that corresponds to DMMDA is, of course, apiole from the Oil of Parsley, which again ties together the spice world and the amphetamine world. And there is isoapiole, also a natural thing. This pair represents the ring-substitution pattern of one of the ten [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] and DMMDA is one of the ten [[cannabis-advanced-refinement-fractional-distillation]]. It is the fraction that boils at 165-167 deg C at 27 mm/Hg. A solution of 19.8 g apiole in a mixture of 43 g KOH and 60 mL hot EtOH was heated in the [[scythian-cannabis-steam-bath-ritual]] for 24 h. With vigorous stirring, it was diluted with H2O, at a rate which the crystals that formed spontaneously could accumulate from the turbidity that was generated. When no more H2O could be added (there was persistent oiling out of material) the reaction mixture was filtered to give 12.1 g of an amber solid material. This was recrystallized from 20 mL boiling hexane, which was filtered while hot to remove insolubles. From the cooled filtrate, there was obtained 9.3 g of 2,5-dimethoxy-3,4-methylenedioxy-1-propenylbenzene, isoapiole, as pale cream-colored solids.
 
 A stirred solution of 8.8 g 2,5-dimethoxy-3,4-methylenedioxy-1-propenylbenzene and 3.9 g pyridine in 45 mL acetone was cooled to ice-bath temperatures, and treated with 7.9 g tetranitromethane. This extremely dark reac-tion was stirred at 0 deg C for 5 min, then quenched with a solution of 2.6 g KOH in 45 mL H2O. With continued stirring, there appeared yellow crystals of 1-(2,5-dimethoxy-3,4-methylenedioxyphenyl)-2-nitropropene which, after filtering, washing with 50% acetone and air drying, weighed 8.0 g and had a mp of 110-111 deg C.
 
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

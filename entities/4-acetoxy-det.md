@@ -45,7 +45,7 @@ The acetate ester increases lipophilicity compared to the phenolic 4-HO form.
 
 Structurally, it differs from 4-AcO-DMT by the replacement of N,N-dimethyl with N,N-diethyl groups.
 
-The diethyl substitution increases molecular weight and slightly alters receptor binding affinity.
+The diethyl substitution increases molecular weight and slightly alters [[tihkal-receptor-binding-serotonin]] affinity.
 
 ## Pharmacology
 
@@ -53,7 +53,7 @@ The diethyl substitution increases molecular weight and slightly alters receptor
 
 It shows moderate affinity for 5-HT1A, 5-HT2B, and 5-HT2C receptor subtypes.
 
-The compound is inactive at monoamine oxidase (MAO) sites, distinguishing it from harmala alkaloids.
+The compound is inactive at monoamine oxidase (MAO) sites, distinguishing it from [[turner-harmala-alkaloids-preparation-and-dosage]].
 
 As a prodrug, it requires metabolic deacetylation by esterases to produce the active 4-HO-DET.
 
@@ -75,7 +75,7 @@ The experience is often described as smoother and less anxious than 4-AcO-DMT.
 
 The body load is typically mild, with some users reporting transient nausea during onset.
 
-Dose ranges are estimated at 10–25 mg for light effects and 25–40 mg for a full psychedelic experience.
+Dose ranges are estimated at 10–25 mg for light effects and 25–40 mg for a full [[leary-psychedelic-experience-bardo-mapping]].
 
 Duration of effects is approximately 4–6 hours, consistent with the oral tryptamine class.
 
@@ -89,7 +89,7 @@ The starting material, 4-HO-DET, can be prepared from DET through a 4-position h
 
 DET itself is derived from tryptamine via reductive N-alkylation with diethyl groups.
 
-The synthesis requires standard laboratory equipment and familiarity with tryptamine chemistry.
+The synthesis requires standard laboratory equipment and familiarity with [[psilocybin-tryptamine-chemistry-fungi]].
 
 Purification is typically achieved through recrystallization or column chromatography.
 
@@ -97,7 +97,7 @@ Purification is typically achieved through recrystallization or column chromatog
 
 4-AcO-DET is unscheduled in most jurisdictions but may be controlled under analogue acts.
 
-In the United States, it may fall under the Federal Analogue Act as an analogue of a Schedule I substance.
+In the [[dmt-containing-plants-united-states-halpern]], it may fall under the Federal Analogue Act as an analogue of a Schedule I substance.
 
 Several European countries have explicitly scheduled 4-substituted tryptamines, including Germany and the UK.
 
@@ -111,7 +111,7 @@ In Japan, it is classified as a designated substance under the Pharmaceutical Af
 
 DET is the parent compound lacking the 4-hydroxy or 4-acetoxy substitution.
 
-4-HO-DMT (psilocin) is the natural psychedelic found in psilocybin mushrooms.
+4-HO-DMT (psilocin) is the natural psychedelic found in [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]].
 
 4-AcO-MET and 4-AcO-MiPT are other 4-acetoxy tryptamines with differing N-substitutions.
 

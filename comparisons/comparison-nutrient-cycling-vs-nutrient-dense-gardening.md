@@ -1,5 +1,5 @@
 ---
-title: "Nutrient Cycling vs Nutrient-Dense Gardening"
+title: "comparison nutrient cycling vs nutrient dense gardening vs Nutrient-Dense Gardening"
 created: 2026-04-28
 tags:
   - soil-science
@@ -27,13 +27,13 @@ the other in a practical methodology for growing the most nutritious food possib
 | Focus | All nutrient transformations | All 13 essential plant nutrients |
 | Primary tool | Soil biology management | Complete mineral amendment |
 | Scale | Universal ecological process | Garden-scale application |
-| Goal | Healthy soil ecosystem | Maximum crop nutritional quality |
+| Goal | Healthy soil ecosystem | Maximum crop [[coleman-winter-greens-nutritional-quality-cold-sweetening]] |
 
 ## What Is Nutrient Cycling?
 
 Nutrient cycling is the science of how nutrients move between organic and inorganic
 forms in soil. It describes the biological, chemical, and physical processes that
-govern nutrient availability to plants.
+govern [[ph-and-nutrient-availability-garden-soils]] to plants.
 
 ### Core Processes
 
@@ -44,13 +44,13 @@ govern nutrient availability to plants.
 - **C:N Ratio**: Below ~20:1, net mineralization occurs; above ~30:1, net
   immobilization dominates. This ratio governs decomposition speed and
   nutrient release more than any other single factor.
-- **Nitrogen Cycle**: Ammonification (organic N to ammonium), nitrification
+- **[[query-how-does-the-nitrogen-cycle-work-in-a-garden]]**: Ammonification (organic N to ammonium), nitrification
   (ammonium to nitrate), and denitrification (nitrate to N gas) form the
   continuous loop driving plant N availability.
 
 ### Biological Partnerships
 
-- ~95% of plants form associations with mycorrhizal fungi, which dramatically
+- ~95% of plants form associations with [[arbuscular-mycorrhizal-fungi-biology-symbiosis]], which dramatically
   expand phosphorus access far beyond root zones.
 - Protozoa play a critical role: a single protozoan consumes ~10,000 bacteria
   per day, releasing plant-available nitrogen in the process.
@@ -59,7 +59,7 @@ govern nutrient availability to plants.
 ### Management Principles
 
 Maintaining healthy nutrient cycling means supporting the [[compost-building-guide]] for practical methods and [[phytoremediation-mechanisms]] beyond food
-production. Nutrient-dense gardening targets the 13 nutrients essential for
+production. Nutrient-dense gardening targets the 13 [[teaming-with-nutrients-essential-plant-nutrients]] for
 human nutrition. Cycling management emphasizes *process support* (maintain the
 [[soil-food-web]] through cover cropping, and verify with Brix testing.
 
@@ -74,6 +74,7 @@ crop quality is plateauing, or when maximizing nutritional output is the goal.
 Nutrient cycling as pure science does not prescribe specific actions. Nutrient-dense
 gardening requires soil testing and mineral amendments not accessible to all growers.
 Both demand more knowledge and attention than casual gardening requires.
+
 ## See Also
 
 - [[nutrient-dense-gardening]] — complete methodology and COF recipe

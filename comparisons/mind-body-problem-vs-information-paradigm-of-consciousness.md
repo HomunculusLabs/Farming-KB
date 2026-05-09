@@ -1,5 +1,5 @@
 ---
-title: "Mind-Body Problem vs Information Paradigm of Consciousness"
+title: "Mind-Body Problem vs mind body problem vs information paradigm of consciousness of Consciousness"
 created: 2026-04-28
 tags: [comparison, consciousness, psychedelics, philosophy-of-mind, information-theory]
 date: 2026-05-02
@@ -15,7 +15,7 @@ type: comparison
 The mind-body problem and the information paradigm of consciousness address the same basic territory from different directions.
 The mind-body problem is a question: how can subjective experience relate to physical matter?
 The information paradigm is a proposed answer: mind and matter may both be forms of organized information.
-Psychedelic experience connects the two because it makes changes in consciousness visible through changes in brain chemistry.
+[[leary-psychedelic-experience-bardo-mapping]] connects the two because it makes changes in consciousness visible through changes in brain chemistry.
 
 ## Basic Comparison
 
@@ -25,7 +25,7 @@ Psychedelic experience connects the two because it makes changes in consciousnes
 | Central concern | Relation between mind and body | Information as common basis of mind and matter |
 | Historical root | Cartesian dualism and its critics | Cybernetics, neuroscience, information theory, psychedelic phenomenology |
 | Main question | How can matter produce or interact with experience? | How does information become organized as conscious experience? |
-| Psychedelic relevance | Shows chemistry altering consciousness | Interprets altered states as expanded information processing |
+| Psychedelic relevance | Shows chemistry altering consciousness | Interprets [[weil-the-natural-mind-altered-states-normalcy]] as expanded information processing |
 
 ## The Mind-Body Problem
 
@@ -49,7 +49,7 @@ Psychedelics make the comparison unusually concrete.
 A classic psychedelic such as psilocybin begins as a molecule with a physical structure.
 It becomes pharmacologically active after metabolism into psilocin.
 It then modifies serotonergic signaling and large-scale patterns of brain activity.
-The person may experience visual imagery, emotional insight, ego dissolution, or mystical unity.
+The person may experience visual imagery, emotional insight, [[psilocybin-ego-dissolution-mechanisms]], or mystical unity.
 The mind-body problem asks how the final subjective state relates to the physical sequence.
 The information paradigm says the entire sequence is a transformation of information across biological levels.
 
@@ -65,7 +65,7 @@ For psychedelic studies, this caution is valuable because intense experiences ca
 
 The mind-body problem can become paralyzing if treated only as an abstract puzzle.
 It may preserve a rigid split between mind and matter that scientific work continually complicates.
-In psychedelic research, the split can make subjective reports seem either supernatural or merely illusory.
+In [[mckenna-suppression-psychedelic-research-lsd-therapy]], the split can make subjective reports seem either supernatural or merely illusory.
 Neither extreme is adequate for understanding clinical and spiritual outcomes.
 The framework identifies the problem but does not by itself provide a working model for integration.
 

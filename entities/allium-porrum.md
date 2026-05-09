@@ -69,8 +69,8 @@ through autumn and winter.
 
 ## Cultivation
 
-Leeks are propagated by seed, sown in early spring for autumn harvest or
-midsummer for winter harvest. Germination occurs in 10–14 days at optimal
+Leeks are propagated by seed, sown in [[coleman-overwintered-onions-and-early-spring-crops]] for autumn harvest or
+midsummer for [[coleman-claytonia-winter-harvest-cultivation]]. Germination occurs in 10–14 days at optimal
 soil temperatures of 16–20°C.
 
 Transplanting is standard commercial practice. Seedlings are grown for 8–10
@@ -79,15 +79,15 @@ rows 30–45 cm apart.
 
 Mounding soil around the developing pseudostem is essential for producing
 long, well-blanched white shafts. This is repeated 2–3 times during the
-growing season.
+[[savory-growing-season-and-non-growing-season-management]].
 
 Maturity is reached 90–120 days after transplanting. Most commercial
 cultivars are harvested at 2.5–5 cm diameter.
 
 Common pests include onion fly (*Delia antiqua*), leek moth
 (*Acrolepiopsis assectella*), and allium leaf miner (*Phytomyza gymnostoma*).
-Fungal diseases include rust (*Puccinia allii*), white rot (*Sclerotium
-cepivorum*), and downy mildew (*Peronospora destructor*).
+Fungal diseases include rust (*Puccinia allii*), [[comparison-brown-rot-vs-white-rot-bioremediation]] (*Sclerotium
+cepivorum*), and [[cervantes-downy-mildew-fungal-blight]] (*Peronospora destructor*).
 
 Cultivar groups include summer leeks (fast, small), autumn leeks
 (mid-season), and winter leeks (slow, frost-hardy, large). Notable

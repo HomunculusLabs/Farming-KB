@@ -3,20 +3,18 @@ title: Fungal Roles in Soil Food Webs
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: [raw/papers/lowenfels-teaming-with-microbes.md]
 ---
-# Fungal Roles in Soil Food Webs
-
-## Overview
-
-Fungi [[soil-food-web-structure]] for food web architecture
-- [[fungal-feeding-invertebrates-fungivory]] for fungal biomass as food web substrate
+# Fungal Roles in Soil Food Webs ## Overview Fungi [[soil-food-web-structure]] for food web architecture
+- fungal-feeding-invertebrates-fungivory for [[bioremediation-fungal-biomass-biosorbent-material]] as food web substrate
 
 ## Related
 
+- [[dighton-fungal-roles-soil-erosion-prevention]]
+
 - [[fukuoka-pine-blight-matsutake-research]]
-- [[fungal-bioremediation]] of agricultural soils contaminated with pesticides and other organic pollutants.
+- fungal-bioremediation of agricultural soils contaminated with pesticides and other organic pollutants.
 
 ## Identification Features
 
@@ -30,11 +28,11 @@ Penicillium species have numerous industrial applications beyond antibiotic prod
 
 - **Cheese production**: Multiple species are essential in the manufacture of characteristic cheeses, as described above. The controlled inoculation of milk curds with specific Penicillium strains is a critical step in the production of blue-veined and white-rinded cheeses.
 
-- **Enzyme production**: *P. chrysogenum* and other species produce industrial enzymes including cellulases, xylanases, pectinases, and lipases used in food processing, textile manufacturing, and biofuel production.
+- **[[ligninolytic-enzyme-production-bioremediation]]**: *P. chrysogenum* and other species produce industrial enzymes including cellulases, xylanases, pectinases, and lipases used in food processing, textile manufacturing, and biofuel production.
 
-- **Organic acid production**: Several species produce citric acid, gluconic acid, and other organic acids used as food additives and industrial chemicals.
+- **[[fungal-organic-acid-metal-solubilization]] production**: Several species produce citric acid, gluconic acid, and other organic acids used as food additives and industrial chemicals.
 
-- **Bioremediation**: Penicillium species can degrade various organic pollutants including polycyclic aromatic hydrocarbons, textile dyes, and pharmaceutical compounds. Their [[fungal-roles-built-environments]] investigations.
+- **Bioremediation**: Penicillium species can degrade various organic pollutants including [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons, [[fungal-treatment-of-textile-dyes-mechanisms]], and pharmaceutical compounds. Their fungal-roles-built-environments investigations.
 
 ## Xerophilic Penicillium Species
 
@@ -42,7 +40,7 @@ Several Penicillium species exhibit xerotolerant or xerophilic characteristics, 
 
 - [[fungal-enzymatic-capabilities]]
 
-- [[fungal-roles-built-environments]]
+- fungal-roles-built-environments
 ## Practical Considerations
 
 When working with Fungal Roles in Soil Food Webs, several practical factors should be
@@ -59,7 +57,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +99,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

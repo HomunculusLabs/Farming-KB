@@ -25,7 +25,7 @@ purify each, then recombine them into a unified whole.
 
 In practical terms, spagyric processing involves:
 
-1. **Extraction**: Separating the plant's soluble compounds (essential oils,
+1. **Extraction**: Separating the plant's soluble compounds ([[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]],
    cannabinoids, terpenes) using a solvent, typically ethanol
 2. **Calcination**: Burning the extracted plant marc (residue) to ash
 3. **Lixiviation**: Dissolving the mineral-rich ash in water to extract
@@ -55,7 +55,7 @@ When applied specifically to cannabis, the spagyric process follows these
 general steps:
 
 **Step 1: Ethanol Extraction**
-Cannabis flower material is macerated in high-proof ethanol for several weeks.
+[[cervantes-cannabis-flower-anatomy]] material is macerated in high-proof ethanol for several weeks.
 The alcohol dissolves cannabinoids, terpenes, and other soluble compounds. The
 maceration may be enhanced with gentle warmth or periodic agitation.
 
@@ -66,9 +66,9 @@ partially evaporated to concentrate the extract.
 
 **Step 3: Calcination**
 The plant marc is thoroughly dried, then burned in a fire or kiln until reduced
-to white or gray ash. This step breaks down organic compounds and concentrates
+to white or gray ash. This step breaks down [[fungal-volatile-organic-compounds-communication]] and concentrates
 mineral content. Complete combustion is essential to eliminate any remaining
-organic matter.
+[[hamilton-composting-and-organic-matter-management]].
 
 **Step 4: Lixiviation and Purification**
 The ash is dissolved in distilled water and filtered repeatedly to remove
@@ -88,9 +88,9 @@ contribute to the extract's therapeutic efficacy in several ways:
 
 - **Mineral supplementation**: Cannabis plants accumulate minerals from soil,
   and these may have independent therapeutic value
-- **Enhanced bioavailability**: Mineral salts may improve the body's absorption
+- **[[staycare-surfactant-enhanced-bioavailability-in-fungal-bioremediation]]**: Mineral salts may improve the body's absorption
   and utilization of cannabinoids
-- **Entourage effect expansion**: Minerals may participate in the synergistic
+- **[[cannabis-terpene-entourage-effect-profiles]] expansion**: Minerals may participate in the synergistic
   interactions between cannabis compounds
 - **Energetic completeness**: In alchemical philosophy, the recombined product
   possesses a more complete "signature" of the original plant

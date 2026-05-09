@@ -1,5 +1,5 @@
 ---
-title: Van Life Off Grid
+title: Van Life [[cotter-off-grid-mushroom-cultivation]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -131,7 +131,7 @@ A 200W solar array with 100Ah LiFePO4 battery handles this budget comfortably in
 
 ### Greywater
 
-- 5-10 gallon greywater tank (or direct drain with [[off-grid-waste-management|greywater]] filter)
+- 5-10 gallon greywater tank (or direct drain with [[off-grid-waste-management]] filter)
 - For off-grid use: greywater can drain through a simple grease trap into a dispersal area
 - Greywater garden: direct greywater to mulch basins around plants when stationary
 
@@ -141,56 +141,6 @@ A 200W solar array with 100Ah LiFePO4 battery handles this budget comfortably in
 - 12V immersion heater element in a tank
 - Propane instant water heater (more complex but convenient)
 - Heat water on stove and transfer to shower bag
-
-## Composting Toilet
-
-Essential for off-grid van living. See [[off-grid-waste-management|waste management]] for detailed comparison.
-
-**Popular Options:**
-- Nature's Head: Most proven, urine diverter, 12V vent fan
-- Separett Villa: Looks like a regular toilet, urine diverter, 12V
-- OGO: Fully electric, agitation, 12V
-- Chead (DIY): Build your own with 5-gallon bucket and urine diverter kit
-
-Key considerations for van use:
-- Ventilation: Must vent outside — never vent compost toilet into van interior
-- Agitation: Solid waste must be mixed with coconut coir or peat moss
-- Emptying: Urine bottle every 2-3 days; solids every 2-4 weeks
-
-## Cooking
-
-### Off-Grid Cooking Options
-
-- **Propane camp stove**: 1-2 burner, simple and reliable
-- **Butane stove**: Lightweight, single burner, good for warm weather (butane struggles below freezing)
-- **Alcohol stove**: Denatured alcohol, safe for indoor use with ventilation
-- **Induction cooktop**: Efficient but requires inverter capacity (1500W+)
-- **Wood stove**: Tiny wood stoves exist for vans (Dickinson, Dwarf) — excellent for cold climates
-
-### Kitchen Design
-
-- Slide-out or flip-up countertop to save space
-- 12V compressor fridge (Engel, Dometic, ARB) — most efficient option
-- Propane fridge: No power draw but poor temperature control
-- Ice cooler: Simplest but requires ice resupply
-
-## Ventilation
-
-Critical for comfort and moisture management:
-
-- **Maxxair Fan**: 750 CFM, rain cover, reversible airflow — the standard choice
-- **Fan-tastic Vent**: Similar performance, lower profile
-- **Roof vents**: Add passive vents for cross-ventilation when fan is off
-- **Windows**: Screened windows on both sides for cross-flow
-
-## Heating
-
-- **Propex heater**: Propane-powered, thermostat controlled, ducted heat
-- **Webasto/Espar**: Diesel-powered, taps into van's fuel tank
-- **Portable propane heater**: Mr. Buddy — requires ventilation, safety concerns
-- **Wood stove**: Best for sustained cold, but requires floor protection and roof venting
-- **Electric heater**: Only when connected to shore power
-
 ## See Also
 
 - [[tiny-house-on-wheels]]

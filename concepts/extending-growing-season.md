@@ -1,5 +1,5 @@
 ---
-title: Extending the Growing Season
+title: Extending the savory-growing-season-and-non-growing-season-management
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -17,7 +17,7 @@ Cloches are portable covers placed directly over crops in the garden. They provi
 
 ### Tunnel Cloches
 
-Tunnel cloches consist of plastic sheeting stretched over wire hoops. They are inexpensive, easy to erect, and can cover entire rows of crops. The sides can be pulled up for access during watering and harvesting. A good method of tying the sheeting down and tightening it over the top is essential to prevent wind damage. They need to be tall and wide enough for the crops growing under them.
+Tunnel cloches consist of plastic sheeting stretched over wire hoops. They are inexpensive, easy to erect, and can cover entire rows of crops. The sides can be pulled up for access during watering and harvesting. A good method of tying the sheeting down and tightening it over the top is essential to prevent wind damage. They need to be tall and wide enough for the [[root-crops-growing-guide]] under them.
 
 ### Rigid Cloches
 
@@ -29,7 +29,7 @@ Small plastic greenhouses, made in a similar way to tunnel cloches but with a fr
 
 ### Ventilation
 
-All types of cloche require ventilation on warm, sunny days. Without it, temperatures can build up rapidly and cook the plants. Open the ends of tunnel cloches and prop up rigid cloches to allow air circulation. Good airflow also reduces the risk of fungal diseases.
+All types of cloche require ventilation on warm, sunny days. Without it, temperatures can build up rapidly and cook the plants. Open the ends of tunnel cloches and prop up rigid cloches to allow [[stamets-growing-room-air-circulation-co2-management]]. Good airflow also reduces the risk of fungal diseases.
 
 ## Cold Frames
 
@@ -54,7 +54,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -96,4 +96,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

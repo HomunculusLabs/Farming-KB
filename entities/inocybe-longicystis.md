@@ -37,7 +37,7 @@ coniferous and deciduous trees in forest ecosystems.
 
 Inocybe longicystis is an ectomycorrhizal fungus that forms
 symbiotic associations with forest trees, contributing to
-nutrient cycling and host plant nutrition in forest
+[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and host plant nutrition in forest
 ecosystems. The species has gained scientific attention for
 its capacity to accumulate radiocaesium from contaminated
 soils, making it an important organism in studies of
@@ -46,7 +46,7 @@ Dighton and Horrill (1988) documented the radiocaesium
 accumulation patterns of I. longicystis in upland Britain,
 providing quantitative data on the bioaccumulation factors
 that characterize this species. The findings contribute to
-our understanding of how ectomycorrhizal fungi influence the
+our understanding of how [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] influence the
 environmental mobility and biological availability of
 radioactive contaminants in forest ecosystems.
 
@@ -57,7 +57,7 @@ radiocaesium accumulation in ectomycorrhizal fungi across
 upland Britain, with Inocybe longicystis as one of the focal
 species investigated alongside [[ectomycorrhizal-associations]] formed by species such as
 I. longicystis represent a critical pathway for the movement
-of radionuclides from soil into the fungal biomass and
+of radionuclides from soil into the [[bioremediation-fungal-biomass-biosorbent-material]] and
 subsequently into mycophagous animals and higher trophic
 levels. The relatively high accumulation factors recorded in
 peat substrates suggest that peatland ecosystems may be
@@ -68,16 +68,16 @@ protection in contaminated regions.
 
 ## Mycorrhizal Radionuclide Cycling
 
-The radionuclide accumulation capacity of Inocybe longicystis
+The [[dighton-fungal-radionuclide-accumulation-ecosystem-retention]] capacity of Inocybe longicystis
 illustrates the broader role of ectomycorrhizal fungi in
 contaminant cycling within forest ecosystems. By forming
-extensive mycelial networks that explore large volumes of soil,
+extensive [[fungal-mycelial-networks-nutrient-translocation]] that explore large volumes of soil,
 ectomycorrhizal fungi can accumulate metals and radionuclides
 from soil solution and concentrate them in their fruiting
 bodies. This process affects the distribution of contaminants
 within soil profiles, potentially reducing their availability
 to plant roots while simultaneously making them accessible to
-fungivorous organisms that consume fungal fruiting bodies or
+fungivorous organisms that consume [[brassinosteroid-fungal-fruiting-body-morphology]] bodies or
 mycelium.
 
 The data from Dighton and Horrill (1988) for I. longicystis

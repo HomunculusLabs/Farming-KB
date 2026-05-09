@@ -1,5 +1,5 @@
 ---
-title: "Tropical Mulch Systems and Materials in Permaculture Design"
+title: "mollison tropical mulch systems and materials Systems and Materials in bill-mollison-permaculture-a-designers-manual-permaculture-design-principles"
 created: 2026-04-26
 tags:
   - permaculture
@@ -16,7 +16,7 @@ type: concept
 
 # Tropical Mulch Systems and Materials in Permaculture Design
 
-Mulch provision is the cornerstone of tropical home gardens,
+Mulch provision is the cornerstone of [[mollison-tropical-home-garden-design]] gardens,
 and green mulch and tree legumes are the essential accompaniment
 of main crops and tree crops. Bill Mollison devotes considerable
 attention to the diverse sources and applications of mulch in
@@ -61,7 +61,7 @@ and water hyacinth in many areas. Azolla and algae such as
 Anabaena provide nitrogen. In the wet-dry tropics, shallow
 flood-water bunds collect or produce these plants, which can
 be gathered as rolls of dry material when water dries out in
-winter, providing garden mulch in abundance.
+winter, providing [[cotter-outdoor-mushroom-garden-mulch-beds]] in abundance.
 
 ## Crop Wastes and Manures
 
@@ -82,7 +82,7 @@ such as Gliricidia, Acacia, and Prosopis provide regular cut
 mulch. Lower garden windbreak species, especially lemongrass
 (Cymbopogon citratus) and comfrey (Symphytum officinale),
 are as useful in preventing kikuyu grass intrusion as they are
-for repetitive cutting for mulch in the vegetable garden.
+for repetitive cutting for mulch in the [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]].
 
 ## Legume Ground Covers
 
@@ -110,7 +110,7 @@ grain husk wastes.
 Species such as hibiscus, Lantana, and weeds that resprout
 from cuttings or seed can be routed through poultry or cattle
 pens (where seeds are removed and foliage eaten). They can be
-shredded for anaerobic digestion in biogas plants, bagged in
+shredded for [[biogas-digester-basics]] in biogas plants, bagged in
 plastic bales exposed to sun (cooking to weed-free silage), or
 immersed to rot in covered water pits. Pigs eliminate nut
 grasses, rhizomes, bulbs, and sedges that resprout from
@@ -140,6 +140,9 @@ of fungi, termites, and beetle larvae.
 
 ## See Also
 
-- [[mollison-tropical-soils-and-granitic-sands]]
-- [[permaculture-designers-manual-tropical-climates]]
+- mollison-tropical-soils-and-granitic-sands
+- permaculture-designers-manual-tropical-climates
 - [[mollison-animal-integration-permaculture-design]]
+- [[mollison-mulch-materials-sources-and-tropical-application]]
+- [[permaculture-design]]
+- [[symphytum-officinale]]

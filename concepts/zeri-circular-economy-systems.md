@@ -1,6 +1,6 @@
 ---
 
-title: ZERI Circular Economy Systems
+title: ZERI zeri circular economy systems Systems
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -24,7 +24,7 @@ sources:
 
 # ZERI Circular Economy Systems
 
-Zero Emissions Research and Initiatives (ZERI) is an international organization founded by eco-designer Gunter Pauli that applies systems thinking modeled on natural ecosystems to achieve zero waste. The core principle: "Zero emissions means zero waste." ZERI designs projects by studying how the five kingdoms of life (bacteria, protists, plants, animals, fungi) cooperate in healthy ecosystems — where the waste of one kingdom becomes a nutrient or energy source for another (Spinosa, Fungi Magazine, 2008; Pauli, 1996, 1997, 2002).
+Zero [[zero-emissions-research-and-initiatives]] and Initiatives (ZERI) is an international organization founded by eco-designer Gunter Pauli that applies systems thinking modeled on natural ecosystems to achieve zero waste. The core principle: "Zero emissions means zero waste." ZERI designs projects by studying how the five kingdoms of life (bacteria, protists, plants, animals, fungi) cooperate in healthy ecosystems — where the waste of one kingdom becomes a nutrient or energy source for another (Spinosa, Fungi Magazine, 2008; Pauli, 1996, 1997, 2002).
 
 ## Design Philosophy
 
@@ -52,7 +52,7 @@ A cascading value chain incorporating all five kingdoms:
 
 1. **Fungi (Kingdom 5)**: Spent grain is prime substrate for oyster mushroom (Pleurotus ostreatus). Small investment yields nutritious, marketable mushrooms plus jobs for local farmers.
 
-2. **Animals (Kingdom 4)**: After fruiting, spent mushroom substrate has increased protein content (loaded with mycelium). Livestock find it palatable — increased animal growth and better quality meat. Also incorporated into bread for human consumption.
+2. **Animals (Kingdom 4)**: After fruiting, spent [[gourmet-medicinal-mushroom-substrate-preparation]] has increased protein content (loaded with mycelium). Livestock find it palatable — increased animal growth and better quality meat. Also incorporated into bread for human consumption.
 
 3. **Bacteria (Kingdom 1)**: Wastewater from brewing flushes manure into an airtight anaerobic digester. Bacteria produce methane, collected and burned to provide heat for sterilizing spent grain as mushroom substrate.
 
@@ -68,14 +68,14 @@ Mary Appelhof (Wormwoman) added another loop: spent mushroom substrate is fed to
 
 Coffee growers in this region are mostly low-income peasants with volatile income. Coffee beans represent only a small percentage of the agricultural starting material — traditionally, huge amounts of coffee waste were discarded.
 
-**Solution**: Coffee waste utilized as substrate for shiitake cultivation at 75% biological efficiency, providing additional income and nutrition (Jaramillo et al., 2004).
+**Solution**: Coffee waste utilized as substrate for [[gourmet-medicinal-mushroom-shiitake-cultivation-logs]] at 75% [[stamets-biological-efficiency-yield]], providing additional income and nutrition (Jaramillo et al., 2004).
 
 ## Forest Restoration Integration (SCZ-NM, New Mexico)
 
 Sustainable Communities / ZERI-New Mexico works under the US Forest Service Collaborative Forest Restoration Program:
 
 - **Fire hazard reduction**: Thinning overgrown National Forests creates mountains of woody scrap
-- **Solution**: Woody refuse as substrate for oyster and shiitake mushrooms
+- **Solution**: Woody refuse as substrate for oyster and [[query-how-to-grow-shiitake-mushrooms-on-logs]]
 - **Wood after mushroom digestion**: incorporated into digestible feed for cows, sheep, bison, and worms
 - **Native fungal culture bank**: Collecting and maintaining native fungi on agar plates, testing ability to grow on local tree species (ponderosa, pinon, juniper) and invasive species (salt cedar, Russian olive)
 - **Mycoforestry principles**: Matching native fungi to native tree species; chipping woody debris from thinning and inoculating with fungi

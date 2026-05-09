@@ -1,5 +1,5 @@
 ---
-title: "TMPEA (2,4,5-TRIMETHOXYPHENETHYLAMINE) -- PIHKAL Entry #168"
+title: "TMPEA (2,4,5-TRIMETHOXYPHENETHYLAMINE) -- 2c-b-pihkal-entry-20 #168"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -99,7 +99,7 @@ course, rather than in man.
 
 To a solution of 39.2 g 2,4,5-trimethoxybenzaldehyde in 160
 mL nitromethane there was added 7.0 g anhydrous ammonium acetate, and
-the mixture was heated on the steam bath for 2 h. The
+the mixture was heated on the [[scythian-cannabis-steam-bath-ritual]] for 2 h. The
 excesssolvent/reagent was removed under vacuum, leaving a deeply
 colored residue that spontaneously crystallized. This was
 mechanically removed and triturated under 60 mL cold MeOH.
@@ -133,7 +133,7 @@ was 187-188 deg C.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

@@ -1,5 +1,5 @@
 ---
-title: Organic Composting Methods
+title: Organic natural-farming-guide-composting-methods-and-techniques
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Organic Composting Methods
 
-Every garden must have a compost heap. This is the ideal way to return as much organic matter as possible to the soil, following nature's example. Decomposing vegetation provides a home for millions of soil organisms, it opens up the soil, improving drainage and easing the way for root growth, and it helps over-drained soils hold water and therefore nutrients.
+Every garden must have a compost heap. This is the ideal way to return as much [[hamilton-composting-and-organic-matter-management]] as possible to the soil, following nature's example. Decomposing vegetation provides a home for millions of soil organisms, it opens up the soil, improving drainage and easing the way for root growth, and it helps over-drained soils hold water and therefore nutrients.
 
 ## The Composting Process
 
@@ -21,7 +21,7 @@ A successful organic garden should have at least two compost heaps -- one left t
 
 Five essential ingredients: air, nitrogen, water, bacteria, and sometimes lime.
 
-**Air circulation** is vital. Without it, anaerobic bacteria develop and turn material into a stinking slime worse than useless on the garden. The container should allow air circulation. Never pack contents down too much. Mix fine material (grass cuttings, small weeds) with larger weeds, shredded newspaper, or straw.
+**[[stamets-growing-room-air-circulation-co2-management]]** is vital. Without it, anaerobic bacteria develop and turn material into a stinking slime worse than useless on the garden. The container should allow air circulation. Never pack contents down too much. Mix fine material (grass cuttings, small weeds) with larger weeds, shredded newspaper, or straw.
 
 **Nitrogen** fuels the bacteria. Ideally use animal manure. Alternatives include organic compost activators, dried sewage sludge, kelp meal, or dried blood. A fine dusting every 12in (30cm) of compost is sufficient.
 
@@ -56,7 +56,7 @@ From each bin, expect two good binfuls in a hot year (early summer and late fall
 
 ## Application Rates
 
-At least two 2-gallon (9 liter) buckets of well-rotted compost or manure per square yard/meter in the vegetable garden. One bucket per square yard/meter as a mulch around trees, shrubs, and in ornamental borders. Dig in during the fall; spread as mulch during the growing season.
+At least two 2-gallon (9 liter) buckets of well-rotted compost or manure per square yard/meter in the [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]. One bucket per square yard/meter as a mulch around trees, shrubs, and in ornamental borders. Dig in during the fall; spread as mulch during the [[savory-growing-season-and-non-growing-season-management]].
 
 ## Covering the Heap
 
@@ -72,7 +72,7 @@ An alternative to the traditional heap is sheet composting, where organic materi
 
 ## Hot Composting vs. Cold Composting
 
-**Hot composting** achieves temperatures of 130-160°F (55-70°C) through careful management of carbon:nitrogen ratios, moisture, and aeration. It kills most weed seeds, pathogens, and pests, and produces finished compost in 2-3 months. Requires regular turning and sufficient volume (at least 3x3x3 feet).
+**Hot composting** achieves temperatures of 130-160°F (55-70°C) through careful management of carbon:[[ingham-carbon-nitrogen-ratios-compost-tea]], moisture, and aeration. It kills most weed seeds, pathogens, and pests, and produces finished compost in 2-3 months. Requires regular turning and sufficient volume (at least 3x3x3 feet).
 
 **Cold composting** is the simpler approach of piling material and letting it decompose slowly over 6-12 months. It does not reach temperatures high enough to kill weed seeds or pathogens, but requires minimal effort. Most home gardeners use a combination of both methods.
 

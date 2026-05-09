@@ -1,16 +1,17 @@
 ---
-title: Natural Farming in Temperate Climates
+title: comparison-natural-farming-vs-permaculture [[query-how-to-grow-and-use-oca-in-temperate-climates]]
 created: 2026-04-18
 updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Natural Farming in Temperate Climates
 
-Masanobu Fukuoka's [[fukuoka-seed-ball-one-seed-technique]] practices
+[[masanobu-fukuoka]]'s [[fukuoka-seed-ball-one-seed-technique]] practices
 
 - Observing the natural succession of plants and working with it
 
@@ -65,7 +66,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -143,4 +144,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

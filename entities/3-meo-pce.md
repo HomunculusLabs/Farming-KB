@@ -36,7 +36,7 @@ among dissociative enthusiasts for its long duration, potency, and complex
 headspace — often described as a hybrid between ketamine and MXE-like effects.
 
 The compound acts primarily as an NMDA receptor antagonist, producing characteristic
-dissociative effects including ego dissolution, sensory disconnection, and
+dissociative effects including [[psilocybin-ego-dissolution-mechanisms]], sensory disconnection, and
 analgesia. It is not approved for medical use in any jurisdiction.
 
 ## Chemical Properties
@@ -78,7 +78,7 @@ Additional pharmacological activity includes:
 - **Light:** 10–20 mg
 - **Common:** 15–30 mg
 - **Strong:** 25–40 mg
-- **Heavy:** 40+ mg (high risk of adverse effects)
+- **Heavy:** 40+ mg (high risk of [[blesching-cannabis-safety-adverse-effects-evidence]])
 
 Oral bioavailability is significant but onset is slower (45–90 minutes vs.
 5–15 minutes insufflated). Oral doses are typically 1.5–2× the insufflated dose.
@@ -114,10 +114,10 @@ difficulty speaking, manic or compulsive behavior at high doses.
 ## Legal Status
 
 3-MeO-PCE is controlled or scheduled in several jurisdictions:
-- **United Kingdom:** Class B under the Psychoactive Substances Act (2016)
+- **United Kingdom:** Class B under the Psychoactive [[controlled-substances-act-and-psychedelic-research]] (2016)
 - **Germany:** Controlled under the NpSG (New Psychoactive Substances Act)
 - **China:** Scheduled as a narcotic since 2021
-- **United States:** Not federally scheduled but may be prosecuted under the
+- **[[dmt-containing-plants-united-states-halpern]]:** Not federally scheduled but may be prosecuted under the
   Federal Analogue Act as an analogue of PCP
 - **Canada:** Not explicitly scheduled (as of 2024)
 
@@ -130,6 +130,9 @@ difficulty speaking, manic or compulsive behavior at high doses.
 - **PCP (Phencyclidine):** Original arylcyclohexylamine; prototype compound
 
 ## See Also
+
+- [[5-meo-eipt]]
+- [[5-meo-dpt]]
 
 - [[turner-essential-psychedelics-5-meo-dmt-void-experience]]
 - [[5-meo-pyr-t-entity-tihkal]]

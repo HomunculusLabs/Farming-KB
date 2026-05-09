@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [query, cannabis, nutrients, deficiency, zinc]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -23,17 +24,17 @@ synthesis, and the production of auxins and growth hormones in cannabis plants.
 Although plants need it in very small quantities, a deficiency can have outsized
 effects on overall plant development. Zinc is essential for the synthesis of
 tryptophan, which is a precursor to indole-3-acetic acid (IAA), one of the primary
-auxins responsible for cell elongation and stem growth. Without adequate zinc, the
+auxins responsible for [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] and stem growth. Without adequate zinc, the
 plant's growth hormone production is impaired, leading to the characteristic stunted
 appearance of zinc-deficient plants.
 
 The most common cause of zinc deficiency is not actually a lack of zinc in the soil
-or nutrient solution, but rather a pH imbalance that makes the zinc unavailable to
+or [[cannabis-nutrient-solution-preparation]], but rather a pH imbalance that makes the zinc unavailable to
 the plant roots. In soil, zinc becomes locked out when the pH rises above 7.0, and
 in hydroponic systems, lockout can occur above 6.5. This is why maintaining proper
-pH is always the first step when addressing any suspected micronutrient deficiency.
+pH is always the first step when addressing any suspected [[cervantes-micronutrient-deficiency-chelation]].
 The [[cannabis-zinc-nutrient]] page provides a complete
-reference for identifying these symptoms at every growth stage with photographs.
+reference for identifying these symptoms at every [[cho-plant-growth-stage-treatment-protocols]] with photographs.
 
 The relationship between zinc and other nutrients is complex and important to
 understand. High levels of phosphorus, iron, copper, or calcium can all antagonize
@@ -53,9 +54,9 @@ In hydroponic systems, zinc deficiency is usually a pH management issue rather t
 a true deficiency. Most quality hydroponic nutrient lines include adequate zinc in
 their micronutrient blend. If symptoms appear, first verify that your pH is in the
 correct range for your growing medium. The [[cannabis-foliar-feeding]] page covers proper
-application techniques and safety considerations for foliar sprays. For soil
+application techniques and safety considerations for [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]]. For soil
 correction, a top-dress of kelp meal at 1 tablespoon per gallon of soil provides a
-gentle, slow-release zinc source that also feeds the microbial community.
+gentle, slow-release zinc source that also feeds the [[edaphic-factors-microbial-community-structure]].
 
 ## Key Points
 - Zinc deficiency causes interveinal chlorosis on new leaves, shortened internodes,
@@ -84,3 +85,7 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[query-how-to-increase-cannabis-yield]]
+- [[query-how-to-fix-copper-deficiency-in-cannabis]]

@@ -1,10 +1,10 @@
 ---
-title: JADAM Soil Surface Management and No-Till Approach
+title: JADAM Soil jadam soil surface management no till and No-Till Approach
 created: 2026-04-26
 updated: 2026-04-23
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
-  - JADAM Organic Farming: The Way to Ultra-Low-Cost Agriculture (Youngsang Cho, 2016)
+  - JADAM [[coleman-deep-organic-farming-philosophy]]: The Way to Ultra-Low-Cost Agriculture (Youngsang Cho, 2016)
 type: concept
 tags: [jadam, soil]
 ---
@@ -20,7 +20,7 @@ zone, blocks root penetration, and traps evaporating water that leaves
 salt behind. The result is [[jadam-cover-crop-method]] is the primary tool
 for soil surface management in JADAM. The method addresses multiple
 problems simultaneously: temperature regulation, organic matter
-addition, mineral extraction from deep soil, nitrogen fixation,
+addition, mineral extraction from deep soil, [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]],
 compaction relief, weed suppression, and moisture retention.
 
 ### Autumn-Winter-Spring Cycle
@@ -36,8 +36,8 @@ In spring, the cover crop moderates soil temperature rise, preventing
 method means that organic materials are scattered on fields in autumn,
 break down through winter, and fertilize the soil by spring. No compost
 bins, turning, C/N ratio calculations, or aeration management are
-required. [[jadam-monoculture-disorder-crop-residues]] contain the best nutritional balance for the crop that
-produced them. Disease organisms like canker and powdery mildew are so
+required. [[jadam-monoculture-disorder-crop-residues]] contain the best [[jadam-nutritional-balance-fertilizer]] for the crop that
+produced them. Disease organisms like canker and [[cervantes-powdery-mildew-prevention-treatment]] are so
 ubiquitous that burning residues cannot eliminate them. Instead, JADAM
 increases microbial diversity to prevent any single pathogen from
 gaining dominance, shifting from disinfection to diversity.
@@ -65,7 +65,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +107,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

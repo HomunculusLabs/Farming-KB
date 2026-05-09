@@ -12,7 +12,7 @@ sources:
 ---
 # Mentha pulegium
 
-**Mentha pulegium**, commonly known as **pennyroyal** or **European pennyroyal**, is a species of flowering plant in the family Lamiaceae (mint family). Native to Europe, North Africa, and western Asia, pennyroyal has a long and complex history of use in traditional herbal medicine, culinary applications, and folk magic — alongside a notorious reputation as one of the most toxic of the commonly used medicinal herbs. The plant's essential oil, particularly its major constituent **pulegone**, is a potent hepatotoxin and abortifacient that has caused numerous deaths throughout history, earning pennyroyal a unique place in the pharmacological literature as both a traditional remedy and a deadly poison.
+**Mentha pulegium**, commonly known as **pennyroyal** or **European pennyroyal**, is a species of flowering plant in the family Lamiaceae (mint family). Native to Europe, North Africa, and western Asia, pennyroyal has a long and complex history of use in traditional herbal medicine, culinary applications, and folk magic — alongside a notorious reputation as one of the most toxic of the commonly used [[permaculture-plants-medicinal-herbs-healing]]. The plant's [[permaculture-designers-manual-essential-oil-plants]], particularly its major constituent **pulegone**, is a potent hepatotoxin and abortifacient that has caused numerous deaths throughout history, earning pennyroyal a unique place in the pharmacological literature as both a traditional remedy and a deadly poison.
 
 ## Taxonomy and Classification
 
@@ -38,7 +38,7 @@ The plant spreads by stolons (above-ground runners) to form dense mats of vegeta
 The stems are slender, procumbent to ascending, square in cross-section (characteristic of the Lamiaceae), and green to purplish-green, typically rooting at the nodes where they contact the soil.
 
 The leaves are opposite, ovate to broadly elliptic, 8–20 mm long and 5–12 mm wide, with crenate-serrate margins and a short petiole (2–5 mm).
-The leaf surface is glabrous to sparsely pubescent, bright green above and slightly paler below, with conspicuous pellucid (translucent) glandular dots that contain the plant's essential oils.
+The [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is glabrous to sparsely pubescent, bright green above and slightly paler below, with conspicuous pellucid (translucent) glandular dots that contain the plant's [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]].
 When crushed, the leaves emit a strong, distinctive mint-like aroma that is sharper and more camphoraceous than that of other mints, with notes that some describe as "medicinal" or "acrid."
 
 The inflorescence is a compact, axillary or subcapitate cluster of small, two-lipped flowers arranged in dense whorls (verticillasters) in the axils of the upper leaves.
@@ -50,11 +50,11 @@ The fruit consists of four small, ovoid nutlets (mericarps), each approximately 
 ## Distribution and Habitat
 
 *Mentha pulegium* is native to Europe, the Mediterranean basin, North Africa, and western Asia, with a natural range extending from the British Isles and Scandinavia (where it is rare and declining) southward through the Iberian Peninsula, Italy, the Balkans, and Greece to Turkey, the Caucasus, and Iran.
-The species has been widely introduced and naturalized in North America, South America, Australia, and New Zealand.
+The species has been widely introduced and naturalized in [[psilocybin-north-america-pacific-northwest]], South America, Australia, and New Zealand.
 
 The plant grows in damp, open habitats including marsh edges, stream banks, damp meadows, wet pastures, ditches, and pond margins.
 It prefers moist, nutrient-rich soils with a pH of 6.0–7.5 and can tolerate periodic flooding and waterlogging.
-In North America, pennyroyal has naturalized widely in the eastern United States and parts of the Pacific Northwest, where it is often found in disturbed wetland habitats and along irrigation ditches.
+In North America, pennyroyal has naturalized widely in the eastern [[dmt-containing-plants-united-states-halpern]] and parts of the Pacific Northwest, where it is often found in disturbed wetland habitats and along irrigation ditches.
 
 ## Chemistry and Phytochemistry
 

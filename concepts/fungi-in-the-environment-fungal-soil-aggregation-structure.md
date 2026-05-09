@@ -14,9 +14,9 @@ Fungi play a central role in the maintenance and development of soil
 structure owing to their filamentous growth habit. Through physical binding
 of soil particles, secretion of organic binding agents, and precipitation of
 secondary minerals, fungi create and stabilize soil aggregates that are
-fundamental to soil fertility, water retention, and carbon sequestration.
+fundamental to soil fertility, water retention, and [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]].
 These contributions are among the most important but underappreciated
-ecosystem services provided by fungi in the environment [[saprotrophic-fungi]]. These persistent hyphal structures provide long-term
+[[biodiversity-of-fungi-ecosystem-services-agriculture]] provided by fungi in the environment [[saprotrophic-fungi]]. These persistent hyphal structures provide long-term
 physical binding of soil particles. The external mycelium of AM fungi
 represents a major component of soil microbial biomass, directly adding
 chemically distinct carbon inputs to soil (chitin cell walls rather than
@@ -47,7 +47,7 @@ stability. These include extracellular polysaccharides, which act as sticky
 binding agents between soil particles, and organic acids that influence
 mineral dissolution and re-precipitation. Mycorrhizal fungi excrete
 low-molecular-mass carboxylic acids including oxalic, citric, succinic,
-gluconic, and malic acids that contribute to both mineral weathering and
+gluconic, and malic acids that contribute to both [[mycorrhizal-mineral-weathering-nutrient-acquisition]] and
 the formation of secondary mineral cements.
 
 ## Mineral Precipitation and Soil Cementation
@@ -59,7 +59,7 @@ increases soil aggregation. Cations such as silicon, iron, aluminum, and
 calcium released through fungal dissolution mechanisms stimulate
 precipitation of compounds that act as bonding agents for soil particles.
 
-Calcium oxalate produced by fungi can degrade to calcium carbonate in
+[[fungal-calcium-oxalate-crystals]] produced by fungi can degrade to calcium carbonate in
 semi-arid environments, where this process cements pre-existing limestones
 and soil particles. During decomposition of fungal hyphae, calcite crystals
 can act as sites of further secondary calcite precipitation. Chitin, the
@@ -98,7 +98,7 @@ contributing to humus accumulation and soil structure development.
 
 ### Ericoid Mycorrhizas and Peat Formation
 
-Ericoid mycorrhizal (ERM) associations produce litter that is among the
+[[dighton-ericoid-mycorrhizal-nutrient-acquisition]] (ERM) associations produce litter that is among the
 most extremely recalcitrant, being highly enriched in polyphenolic compounds
 and low-molecular-mass phenolics. This litter decomposes very slowly with
 high C:N ratios, contributing to the accumulation of raw humus and peat.
@@ -114,9 +114,12 @@ implicated in soil carbon storage through both direct inputs of fungal
 carbon and indirect effects on decomposition processes (ERM and EM) and
 soil aggregation (AM). Understanding these fungal contributions to soil
 structure is essential for predicting ecosystem responses to land use
-change, climate change, and soil management practices.
+change, [[dighton-fungi-climate-change-feedback]], and soil management practices.
 
 ## See Also
 
-- [[fungi-in-the-environment-soil-fungal-community-structure]]
-- [[fungi-in-the-environment-fungal-mineral-weathering]]
+- fungi-in-the-environment-soil-fungal-community-structure
+- fungi-in-the-environment-fungal-mineral-weathering
+- [[decomposition]]
+- [[ectomycorrhiza]]
+- [[fungal-hyphae]]

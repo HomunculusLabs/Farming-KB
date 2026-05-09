@@ -1,5 +1,5 @@
 ---
-title: Soil Protozoa and Nutrient Cycling
+title: Soil Protozoa and comparison-nutrient-cycling-vs-nutrient-dense-gardening
 created: 2026-04-28
 tags:
   - protozoa
@@ -19,7 +19,7 @@ type: concept
 Protozoa are single-celled eukaryotic organisms that play a critical role in
 the soil food web as the primary consumers of bacteria. In "Teaming With
 Microbes," Lowenfels and Lewis highlight protozoa as essential players in
-nutrient cycling, particularly through their role in nitrogen mineralization.
+nutrient cycling, particularly through their role in [[fungal-nitrogen-mineralization-pathways]].
 Without protozoa, nutrients locked in bacterial biomass would remain
 unavailable to plants for extended periods. Protozoa are the mechanism by
 which the microbial loop returns nutrients to the plant-available pool.
@@ -80,7 +80,7 @@ can create anaerobic conditions that favor ciliates but harm flagellates and
 amoebae, potentially disrupting the balanced protozoan community. Well-drained
 soils with good [[lowenfels-nematode-food-web-roles]] and
 microarthropods described in [[lowenfels-soil-fungi-decomposition]] pathways, as some amoebae feed on
-fungal hyphae, contributing to fungal nutrient cycling alongside bacterial
+fungal hyphae, contributing to [[dighton-fungal-nutrient-immobilization-turnover]] cycling alongside bacterial
 pathways.
 
 ## Supporting Protozoan Populations

@@ -1,5 +1,5 @@
 ---
-title: Free-Range Forage Design Principles
+title: Free-Range Forage holmgren-permaculture-twelve-design-principles-framework
 created: 2026-04-26
 tags:
   - permaculture
@@ -45,7 +45,7 @@ Design for the animal's natural social unit, not for human convenience.
 
 ## Factor Two: Year-Round Nutrition
 
-The critical challenge in cool climates is bridging the winter feed gap:
+The critical challenge in [[greenhouse-cool-climates-mollison]] is bridging the winter feed gap:
 
 - **Spring:** Early forage species (chicory, dandelion, chickweed, clover)
   provide essential nutrition as animals transition off stored feed.
@@ -59,14 +59,14 @@ Animals in integrated systems provide services beyond meat and eggs:
 
 - **Poultry** in orchards consume codling moth larvae, curculio, and other
   pests while depositing manure. Their scratching behaviour breaks down fallen
-  leaves and fruit, accelerating nutrient cycling. However, they also damage
+  leaves and fruit, accelerating [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. However, they also damage
   young tree roots -- exclude them from newly planted areas for the first 2-3
   years.
 
 - **Pigs** in forest systems root for grubs and mast, breaking up compacted
   soil and controlling invasive root suckers. Their wallows create temporary
   wetlands that benefit amphibians. However, uncontrolled rooting destroys
-  ground cover and can cause erosion -- manage timing and density carefully.
+  [[fukuoka-citrus-orchard-ground-cover-cultivation]] and can cause erosion -- manage timing and density carefully.
 
 - **Bees** provide pollination services that increase fruit set in orchards
   and seed set in pastures. Mollison values bees primarily as pollinators
@@ -76,4 +76,10 @@ Animals in integrated systems provide services beyond meat and eggs:
   damaging bark (unlike sheep or cattle). See
   [[mollison-designers-poultry-forage-design-pastured-systems]],
 free-range forage,
-[[backyard-livestock-integration-design]]
+backyard-livestock-integration-design
+
+## See Also
+
+- [[comparison-chicken-tractor-vs-free-range]]
+- mollison-designers-design-by-observation
+- mollison-designers-biogas-methane-digester-design

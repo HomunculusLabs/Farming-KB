@@ -32,7 +32,7 @@ Boerhavia diffusa L. was described by Carl Linnaeus in 1753. The genus Boerhavia
 
 The plant is a creeping or diffused perennial herb with prostrate or ascending stems reaching 30-60 cm in length. Roots are thick, fleshy, and tuberous, ranging from reddish-brown to yellowish-white in color. The distinctive root system gives the plant its medicinal reputation and taxonomic recognition.
 
-Leaves are simple, opposite, ovate to broadly ovate, 2-7 cm long and 1.5-5 cm wide, with a rounded or cordate base and acute apex. The leaf surface is glandular-pubescent, particularly on the lower surface. Petioles are slender and 1-4 cm long.
+Leaves are simple, opposite, ovate to broadly ovate, 2-7 cm long and 1.5-5 cm wide, with a rounded or cordate base and acute apex. The [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is glandular-pubescent, particularly on the lower surface. Petioles are slender and 1-4 cm long.
 
 Flowers are small, pink to reddish, arranged in terminal or axillary cymose panicles. The involucral bracts are conspicuous and persistent, a characteristic feature of the genus. Flowering occurs from August to November across most of its range, though timing varies with latitude and rainfall patterns.
 
@@ -52,11 +52,11 @@ Boeravinones A through G are the characteristic rotenoids isolated from the root
 
 The roots contain L-leucine and other amino acids contributing to their hepatoprotective activity. Extracts have shown protective effects against carbon tetrachloride and paracetamol-induced liver damage in rodent models, supporting the traditional use as a liver tonic.
 
-Immunomodulatory effects include both immunostimulant and anti-inflammatory activities. Ethanol extracts suppress pro-inflammatory cytokines including TNF-alpha, IL-1beta, and IL-6 in vitro. The dual immunomodulatory profile may explain punarnava's traditional use in treating both immune deficiency and autoimmune conditions.
+Immunomodulatory effects include both immunostimulant and anti-inflammatory activities. Ethanol extracts suppress pro-inflammatory cytokines including TNF-alpha, IL-1beta, and IL-6 in vitro. The dual immunomodulatory profile may explain punarnava's traditional use in treating both immune deficiency and [[cannabis-autoimmune-conditions-detailed]].
 
 Antioxidant activity has been demonstrated through multiple mechanisms including free radical scavenging, metal chelation, and lipid peroxidation inhibition. The total phenolic content correlates strongly with antioxidant capacity across different solvent extracts.
 
-Recent studies have identified additional pharmacological activities including antimicrobial effects against Gram-positive bacteria and Candida albicans. Anticancer properties have been observed in vitro against several cell lines, with boeravinone G inducing apoptosis in breast and colon cancer cells through mitochondrial pathway activation.
+Recent studies have identified additional pharmacological activities including antimicrobial effects against Gram-positive bacteria and [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]. Anticancer properties have been observed in vitro against several cell lines, with boeravinone G inducing apoptosis in breast and colon cancer cells through mitochondrial pathway activation.
 
 ## Traditional Medicine
 
@@ -66,7 +66,7 @@ The plant holds significant position in Siddha and Unani medical systems as well
 
 Folk medicinal uses across India include treatment of asthma, bronchitis, abdominal pain, epilepsy, and eye diseases. The leaves are applied topically for skin eruptions and wounds. In tribal communities of central India, the root paste is applied to snake bites as a first-aid measure.
 
-In African traditional medicine, the plant is used to treat diarrhea, dysentery, and gonorrhea. Brazilian folk healers employ the roots as a general tonic and anti-inflammatory agent, reflecting the pantropical distribution of similar medicinal knowledge across cultures.
+In African traditional medicine, the plant is used to treat diarrhea, dysentery, and gonorrhea. Brazilian folk healers employ the roots as a general tonic and anti-inflammatory agent, reflecting the [[copelandia-cyanescens-pantropical-distribution-and-ecology]] of similar medicinal knowledge across cultures.
 
 Traditional veterinary medicine employs punarnava for treating hoof rot in cattle, mange in dogs, and general debility in livestock. The widespread folk use across diverse healing traditions supports the plant's reputation as a versatile therapeutic agent.
 
@@ -90,7 +90,7 @@ Diuretic studies confirm the plant's ability to increase urine output and sodium
 
 Despite promising preclinical and preliminary clinical evidence, large-scale randomized controlled trials remain limited. Standardization of extract preparations and bioactive marker compounds is needed to enable reproducible clinical research and potential regulatory approval.
 
-Metabolomic profiling using LC-MS techniques has identified over 50 secondary metabolites in different plant parts. Root metabolites differ significantly from aerial part metabolites, supporting the traditional preference for root material and the need for part-specific quality standards in herbal product manufacturing.
+Metabolomic profiling using LC-MS techniques has identified over 50 [[antifungal-secondary-metabolites-coprophilous-fungi]] in different plant parts. Root metabolites differ significantly from aerial part metabolites, supporting the traditional preference for root material and the need for part-specific [[aact-compost-quality-standards-ingham]] in herbal product manufacturing.
 
 ## Conservation Status
 
@@ -105,7 +105,7 @@ Quality control challenges include adulteration with roots of Boerhavia erecta a
 - tinospora-cordifolia
 - [[andrographis-paniculata]]
 - [[centella-asiatica]]
-- [[ocimum-sanctum]]
+- ocimum-sanctum
 - [[tribulus-terrestris]]
 - [[gymnema-sylvestre]]
 - [[withania-somnifera]]

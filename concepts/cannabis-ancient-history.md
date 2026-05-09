@@ -1,5 +1,5 @@
 ---
-title: Cannabis Ancient History in Plants of the Gods
+title: plants-of-the-gods-cannabis-ancient-cultures History in Plants of the Gods
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -12,7 +12,7 @@ tags: [cannabis, history]
 
 Schultes and Hofmann document cannabis as one of humanity's oldest cultivars,
 with a partnership between Cannabis and man existing for approximately ten
-thousand years -- since the discovery of agriculture in the Old World.
+thousand years -- since the discovery of agriculture in the [[datura-metel-old-world-ethnobotany]].
 
 ## Origins and Chinese Antiquity
 
@@ -41,7 +41,7 @@ See also: [[mckenna-cannabis-culture-history]]
 
 ## Scythian Use
 
-About 500 BC, the Greek writer Herodotus described a remarkable steam bath
+About 500 BC, the Greek writer Herodotus described a remarkable [[scythian-cannabis-steam-bath-ritual]]
 of the Scythians. He reported that "they make a booth by fixing in the ground
 three sticks... inside the booth a dish is placed upon the ground into which
 they put a number of red hot stones and then add some Hemp seed...
@@ -50,7 +50,7 @@ can exceed; the Scyths, delighted, shout for joy."
 
 Recently, archaeologists excavated frozen Scythian tombs in central Asia,
 dated between 500 and 300 BC, and found tripods and pelts, braziers, and
-charcoal with remains of Cannabis leaves and fruit. It has generally been
+charcoal with remains of [[query-what-causes-cannabis-leaves-to-curl-and-how-to-fix-it]] and fruit. It has generally been
 accepted that the Scythians spread the plant westward to Europe.
 
 See also: [[cannabis-mind-body-medicine-integration]]
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,11 +1,12 @@
 ---
-title: "Cervantes - Passive and Wick Hydroponic Systems for Cannabis"
+title: "Cervantes - Passive and cervantes passive wick hydroponic systems Systems for Cannabis"
 created: 2026-04-26
 tags: [cannabis, hydroponics, wick-systems, passive-irrigation, growing-systems]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -28,7 +29,7 @@ moist. Absorbent mediums ideal for passive systems include:
 The growing medium in passive systems can stay very wet, so
 substrate selection is critical. Soggy substrates hold less
 air and can deprive roots of the oxygen needed for rapid
-nutrient uptake.
+[[plant-nutrient-uptake-mechanisms]].
 
 ## Wick System Designs
 
@@ -52,7 +53,7 @@ Passive hydroponic systems offer several practical benefits:
 - No moving parts: seldom does anything break or
   malfunction
 - Low initial cost compared to active
-  cervantes passive wick hydroponic systems systems
+  cervantes [[comparison-wicking-bed-vs-passive-wick-hydroponics]] hydroponic systems systems
 - Low maintenance requirements after initial setup
 - Silent operation with no pumps or timers
 - No electricity required for irrigation (though lights
@@ -63,11 +64,11 @@ Passive hydroponic systems offer several practical benefits:
 ## Dutch Passive Irrigation Method
 
 Dutch commercial growers have developed an effective passive
-irrigation technique. The floor of the grow room is lined
+irrigation technique. The floor of the [[cannabis-grow-room-setup]] is lined
 with heavy plastic or pond liner. Plants are grown in
 three-gallon (11 L) pots filled with an absorbent soilless
 mix that holds plenty of air. The garden is flooded with two
-to three inches (6-9 cm) of nutrient solution. Roots absorb
+to three inches (6-9 cm) of [[cannabis-nutrient-solution-preparation]]. Roots absorb
 the entire solution in two to five days. No nutrient
 solution is drained off; it is completely absorbed by plants.
 This method is repeated as needed based on plant consumption.
@@ -98,4 +99,4 @@ To maximize success with passive systems:
 - Ensure containers have adequate drainage holes above the
   reservoir water line
 - Do not allow pots to sit in standing water continuously
-- Monitor [[cervantes-nutrient-burn-over-fertilization]] from salt accumulation
+- Monitor [[cervantes-nutrient-burn-over-fertilization]] from [[jadam-salt-accumulation-in-soil]]

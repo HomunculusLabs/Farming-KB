@@ -1,5 +1,5 @@
 ---
-title: Ayahuasqueros — Amazonian Ayahuasca Shamans
+title: Ayahuasqueros — harner-amazonian-ayahuasca-preparation-methods Shamans
 aliases: [Ayahuasquero, Ayahuasca shaman, Vegetalista, Amazonian healer]
 tags: [ayahuasquero, ayahuasca, shamanism, peru, amazon, vegetalismo, shipibo, healer]
 created: 2026-05-08
@@ -14,7 +14,7 @@ Ayahuasqueros are Amazonian shamans who specialize in the preparation and ceremo
 
 The ayahuasquero occupies a complex and multifaceted role within Amazonian society that extends well beyond the simple administration of a psychoactive substance. In traditional contexts, the ayahuasquero functions simultaneously as healer, diagnostician, herbalist, spiritual counselor, community leader, and intermediary between the human world and the spirit world.
 
-The diagnostic process in an ayahuasquero's practice often begins during the ceremony itself. Through their own heightened sensitivity under the influence of ayahuasca, the shaman perceives the energetic state of each participant, identifying blockages, attachments, illness, or spiritual imbalance. This diagnostic vision then guides the selection and singing of specific icaros (sacred chants) tailored to each individual's needs.
+The diagnostic process in an ayahuasquero's practice often begins during the ceremony itself. Through their own heightened sensitivity under the influence of ayahuasca, the shaman perceives the energetic state of each participant, identifying blockages, attachments, illness, or spiritual imbalance. This diagnostic vision then guides the selection and singing of specific [[icaros]] (sacred chants) tailored to each individual's needs.
 
 Beyond the ceremony, ayahuasqueros frequently serve as general medical practitioners in communities with limited access to Western healthcare. Their knowledge of Amazonian plant medicine extends far beyond ayahuasca to encompass hundreds of medicinal plants used for conditions ranging from parasitic infections and snakebites to emotional disorders and spiritual ailments. This comprehensive plant knowledge, called *vegetalismo* in mestizo practice, represents a sophisticated pharmacopoeia developed over centuries of empirical observation and experimentation.
 
@@ -40,7 +40,7 @@ The training of an ayahuasquero is a demanding process that typically spans many
 
 ### Indigenous Apprenticeship
 
-In indigenous Shipibo communities, a young person called to shamanism typically apprentices with an elder family member or community shaman. The call to shamanism may come through dreams, illness that only resolves through shamanic treatment, or a family tradition of healing practice.
+In indigenous Shipibo communities, a young person called [[shamanism]] nism typically apprentices with an elder family member or community shaman. The call to shamanism may come through dreams, illness that only resolves through shamanic treatment, or a family tradition of healing practice.
 
 The apprenticeship involves learning the properties of medicinal plants, mastering the preparation of ayahuasca and other remedies, developing the ability to interpret visionary experiences, and building a personal repertoire of icaros received from plant spirits during dietas and ceremonies.
 
@@ -84,7 +84,7 @@ The ayahuasquero tradition faces several challenges in the contemporary era. The
 
 The conversion of indigenous communities to Christianity — particularly Pentecostal and Adventist denominations — has led some communities to abandon or suppress shamanic practices. While some converts continue to practice privately despite public disavowal, the social legitimacy and community support for ayahuasqueros has declined in some areas.
 
-The explosive growth of ayahuasca tourism presents both opportunities and challenges. On one hand, it has brought economic resources and international recognition to ayahuasqueros and their traditions. On the other hand, it has created pressures toward commercialization and standardization that may erode the authenticity and depth of practice.
+The explosive gr [[stuart-r-ayahuasca-tourism-cautionary-ethnography]] tourism presents both opportunities and challenges. On one hand, it has brought economic resources and international recognition to ayahuasqueros and their traditions. On the other hand, it has created pressures toward commercialization and standardization that may erode the authenticity and depth of practice.
 
 Younger generations in some communities show declining interest in undertaking the demanding apprenticeships required to become ayahuasqueros, drawn instead by the economic opportunities of urban life or skeptical of traditional practices in an increasingly modernizing world.
 
@@ -95,5 +95,5 @@ Younger generations in some communities show declining interest in undertaking t
 
 ## References
 
-- Stuart, R. "Ayahuasca Tourism: A Cautionary Tale." *MAPS*, Vol. XII, No. 2, Summer 2002, pp. 36–38.
+- Stuart, R. "Ayahuasca Tourism: A Cautionary Tale." *[[maps]]*, Vol. XII, No. 2, Summer 2002, pp. 36–38.
 - Luna, L.E. *Vegetalismo: Shamanism Among the Mestizo Population of the Peruvian Amazon*. Almqvist & Wiksell International, 1986.

@@ -14,9 +14,9 @@ sources: [/Users/t3rpz/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md]
 
 ## Background and Career
 
-Walter Stoll was born into a family deeply embedded in the Swiss chemical and pharmaceutical industry. His father, Arthur Stoll, was a prominent chemist at Sandoz who worked alongside Albert Hofmann on ergot alkaloid research. Walter trained in medicine and psychiatry in Switzerland, establishing himself as a practicing psychiatrist with an interest in the biological basis of mental illness.
+Walter Stoll was born into a family deeply embedded in the Swiss chemical and pharmaceutical industry. His father, Arthur Stoll, was a prominent chemist at Sandoz who worked alongside Albert Hofmann on [[kykeon-composition-and-ergot-alkaloid-hypothesis]] research. Walter trained in medicine and psychiatry in Switzerland, establishing himself as a practicing psychiatrist with an interest in the biological basis of mental illness.
 
-His position at the intersection of academic psychiatry and the Sandoz research network gave him unique access to newly synthesized compounds, including LSD, for clinical investigation.
+His position at the intersection of academic psychiatry and the [[hofmann-lsd-sandoz-research-program]] network gave him unique access to newly synthesized compounds, including LSD, for clinical investigation.
 
 ## The First LSD Psychiatric Studies
 
@@ -35,9 +35,9 @@ Stoll's findings were cautiously optimistic. He recognized both the therapeutic 
 
 Stoll's work laid the foundation for what would become known as **psycholytic therapy** (literally "mind-dissolving therapy") — a therapeutic approach developed primarily in Europe during the 1950s and 1960s. In psycholytic therapy, LSD was administered in low to moderate doses over a series of sessions, typically weekly, with the goal of facilitating access to unconscious material and enhancing the psychotherapeutic process.
 
-The psycholytic approach contrasted with the **psychedelic therapy** model developed in North America, which used single high-dose sessions aimed at producing a transformative mystical experience.
+The psycholytic approach contrasted with the **[[metzner-psycholytic-psychedelic-therapy-models]]** model developed in [[psilocybin-north-america-pacific-northwest]], which used single high-dose sessions aimed at producing a transformative mystical experience.
 
-Stoll's careful documentation of dose-response relationships, set and setting factors, and the importance of therapeutic preparation became foundational principles for the entire field of psychedelic therapy.
+Stoll's careful documentation of dose-response relationships, [[lsd-set-and-setting-framework]] factors, and the importance of therapeutic preparation became foundational principles for the entire field of psychedelic therapy.
 
 ## Later Career
 
@@ -66,7 +66,7 @@ most important locally.
 
 ## System Connections
 
-This topic often overlaps with nutrient cycling, habitat design, water
+This topic often overlaps with [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], habitat design, water
 management, and low-input production. In a farming knowledge base, those
 connections matter because a single intervention can affect pest
 pressure, soil biology, yields, and long-term resilience.

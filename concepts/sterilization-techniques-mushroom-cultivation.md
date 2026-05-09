@@ -1,5 +1,5 @@
 ---
-title: Sterilization Techniques for Mushroom Cultivation
+title: Sterilization Techniques for accessible-mushroom-cultivation-for-disabilities
 created: 2026-04-28
 tags: [mushrooms, sterilization, cultivation, mycology, contamination]
 date: 2026-04-28
@@ -17,10 +17,10 @@ sterilization.
 
 ## Why Sterilization Matters
 
-Mushroom substrates are rich in nutrients: carbohydrates, proteins,
+[[query-what-are-the-best-mushroom-substrates-for-different-species]] are rich in nutrients: carbohydrates, proteins,
 minerals, and moisture. This makes them ideal environments not just for
 mushroom mycelium but for bacteria, yeasts, and molds. When you
-inoculate a substrate with mushroom spores or liquid culture, you are
+inoculate a substrate with [[query-how-to-store-mushroom-spores-long-term]] or liquid culture, you are
 introducing a relatively small amount of fungal material into a vast
 nutrient resource. If competitors are already present, they will
 outcompete the mushroom mycelium every time.
@@ -29,7 +29,7 @@ outcompete the mushroom mycelium every time.
 
 ### Autoclaving
 
-Autoclaves are the gold standard for substrate sterilization. They use
+Autoclaves are the gold standard for [[mushroom-substrate-sterilization-and-pasteurization]]. They use
 pressurized steam at 121 degrees Celsius (250 degrees Fahrenheit) at
 15 PSI to destroy all microbial life, including resistant bacterial
 endospores. Standard sterilization times range from 60 to 120 minutes
@@ -53,7 +53,7 @@ PSI.
 
 ## Steam Sterilization
 
-For cultivators without a pressure vessel, atmospheric steam
+For cultivators without a pressure vessel, [[growing-gourmet-atmospheric-steam-sterilization]]
 sterilization is a viable alternative for certain substrates. The
 method involves placing substrate in a sealed container and steaming it
 for 6 to 24 hours. This works well for unsupplemented substrates like
@@ -87,7 +87,7 @@ specimen before transferring inner tissue to agar.
 ### Isopropyl Alcohol
 
 Isopropyl alcohol at 70 percent concentration is the standard for
-surface sterilization of tools, work surfaces, and container exteriors.
+[[challenge-organisms-nasa-microwave-surface-sterilization-testing]] of tools, work surfaces, and container exteriors.
 It is important to use 70 percent rather than 91 percent or 99 percent
 because the water content is necessary for protein denaturation in
 microbial cells. Higher concentrations evaporate too quickly and are

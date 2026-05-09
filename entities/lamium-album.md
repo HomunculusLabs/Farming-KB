@@ -23,11 +23,11 @@ created: 2026-04-28
 
 **Lamium album** L., commonly known as white dead-nettle, is a herbaceous perennial plant in the family Lamiaceae.
 
-Despite its resemblance to stinging nettle (Urtica), it is entirely harmless — the "dead" in its common name refers to the absence of stinging trichomes.
+Despite its resemblance to [[comparison-stinging-nettle-vs-horsetail]] (Urtica), it is entirely harmless — the "dead" in its common name refers to the absence of stinging trichomes.
 
 The species has a long history of use in European traditional medicine, particularly as a women's health remedy and wound-healing agent.
 
-L. album is widely distributed across Europe and temperate Asia, and has become naturalized in North America and New Zealand.
+L. album is widely distributed across Europe and temperate Asia, and has become naturalized in [[psilocybin-north-america-pacific-northwest]] and New Zealand.
 
 ## Taxonomy and Morphology
 
@@ -47,12 +47,12 @@ L. album is widely distributed across Europe and temperate Asia, and has become 
 
 **Leaves:** Opposite, ovate to cordate, 3–8 cm long, dentate margins, long petiolate.
 
-Upper leaf surface is dark green with a wrinkled texture; lower surface is paler and pubescent.
+Upper [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is dark green with a wrinkled texture; lower surface is paler and pubescent.
 
 The leaf arrangement closely mimics that of **[[glechoma-hederacea]]** (ground ivy) and **[[urtica-dioica]]
 - [[stinging-nettle]]
 - [[prunella-vulgaris]]
-- [[leonotus-leonurus]]
+- [[leonotis-leonurus]]
 - [[mentha-piperita]]
 ## Practical Considerations
 
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

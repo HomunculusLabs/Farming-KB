@@ -16,10 +16,10 @@ type: concept
 
 # Carob as Drought-Tolerant Food Tree in Permaculture
 
-Carob (Ceratonia siliqua) is the largest of Europe's leguminous trees,
+Carob ([[ceratonia-siliqua]]) is the largest of Europe's leguminous trees,
 reaching up to 15 metres in height. A native to the Mediterranean region
 belonging to the family Caesalpiniaceae, carob is an exceptionally
-valuable [[arid-landscape-permaculture]] and [[tagasaste]],
+valuable arid-landscape-permaculture and tagasaste,
 Albizia lophantha, and [[fire-resistant-plants]]. Stock will also trim the foliage to within their reach.
 
 ## Medicinal and Industrial Uses
@@ -30,7 +30,7 @@ and various industrial applications. Demand for carob powder has been
 increasing at approximately 20% per year.
 
 ## Role in [[mollison-designers-olive-fig-and-mediterranean-tree-crops]], carob serves as a canopy-level element providing
-shade, nitrogen fixation, and high-value pod production. Its deep tap
+shade, [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], and high-value pod production. Its deep tap
 root accesses water and minerals unavailable to shallow-rooted
 understorey crops. The long lifespan and low maintenance requirements
 make it ideal for [[drought-tolerant-planting-design]]
@@ -51,7 +51,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -101,7 +101,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -111,4 +111,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

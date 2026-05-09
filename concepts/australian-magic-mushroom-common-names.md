@@ -1,5 +1,5 @@
 ---
-title: Common Names and Epithets for Magic Mushrooms in Australia and NZ
+title: Common Names and Epithets for guzman-magic-mushrooms-african-species in Australia and NZ
 created: 2026-04-26
 tags:
   - ethnomycology
@@ -23,7 +23,7 @@ knowledge of their scientific names. Instead, they have given their favorite
 species local epithets which are commonly used by those who collect and ingest
 them. Some of these popular names are also known and applied by users outside
 of Australia and New Zealand. The study of these common names provides insight
-into the [[gordon-wasson-mushroom-discovery]] on the ceremonial use of hallucinogenic mushrooms among the
+into the gordon-wasson-mushroom-discovery on the ceremonial use of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] among the
 Mazatec Indians of Southern Mexico (see Wasson, 1957). In New Zealand, the term
 "magic mushroom" is certainly more popular than any other term used in
 identifying psilocybian mushrooms.
@@ -48,7 +48,7 @@ The epithet "blue meanies" refers primarily to [[metol-testing-bluing-reaction-m
 
 ## Liberty Cap (Psilos)
 
-In the United States, Canada, Great Britain, and Europe, [[psychedelic-mushroom-set-and-setting]]) which was different from
+In the [[dmt-containing-plants-united-states-halpern]], Canada, Great Britain, and Europe, [[psychedelic-mushroom-set-and-setting]]) which was different from
 those used in New Zealand. See [[panaeolus-cyanescens-bali-omelette]]
 - Neither the Australian "gold tops" nor the English/American "liberty caps"
   has been widely adopted in New Zealand
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

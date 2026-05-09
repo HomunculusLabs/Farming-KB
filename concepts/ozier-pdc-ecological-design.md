@@ -27,7 +27,7 @@ must:
 - Allow Nature's systems to flow through it (deer corridors, seasonal watercourses)
 - Support Nature's cycles (migration patterns, seasonal flooding)
 - Maintain wildlife corridors and habitat connectivity
-- Preserve ecosystem services within the designed landscape
+- Preserve [[biodiversity-of-fungi-ecosystem-services-agriculture]] within the designed landscape
 
 ## Resource Loops in Ecological Design
 
@@ -42,7 +42,7 @@ the landscape itself, and back into structures. Key loops include:
    to the earth (bamboo, sustainably harvested timber, earth) or be maintained in an
    industrial recycling loop
 
-Building materials should be chosen in order of preference:
+[[natural-building-materials-guide]] should be chosen in order of preference:
 - On-site resources first
 - Locally produced resources
 - Reused materials
@@ -104,14 +104,14 @@ stewardship become productive ecological functions rather than burdens.
 ## Key Design Principles Applied
 
 Permaculture principles directly inform ecological design decisions:
-- **Observe and interact** — thorough site analysis before design
+- **[[holmgren-observe-and-interact-detailed]]** — thorough site analysis before design
 - **Catch and store energy** — maximizing on-site energy generation and storage
 - **Obtain a yield** — ensuring all elements produce useful outputs
 - **Apply self-regulation and accept feedback** — adaptive management
 - **Use and value renewable resources** — prioritizing sustainable material flows
-- **Produce no waste** — closing all material and energy loops
-- **Design from patterns to details** — working from landscape-scale to specifics
-- **Integrate rather than segregate** — combining functions in every element
+- **[[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]]** — closing all material and energy loops
+- **[[permaculture-principle-design-from-patterns-to-details]] to details** — working from landscape-scale to specifics
+- **[[permaculture-principle-integrate-rather-than-segregate]] than segregate** — combining functions in every element
 - **Use small and slow solutions** — appropriate scale technology
 - **Use and value diversity** — polycultural, multi-species systems
 - **Use edges and value the marginal** — maximizing productive interfaces
@@ -119,6 +119,9 @@ Permaculture principles directly inform ecological design decisions:
 
 ## See Also
 
-- [[faires-permaculture-ethics-and-design-principles]]
+- faires-permaculture-ethics-and-design-principles
 - [[ozier-pdc-forest-succession-and-layers]]
 - [[ozier-pdc-composting-and-soil-building]]
+- [[permaculture-design]]
+- [[permaculture-principles]]
+- [[ozier-pdc-plant-guilds-and-polyculture-design]]

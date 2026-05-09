@@ -1,5 +1,5 @@
 ---
-title: Amanita Muscaria — Pharmacology and Risks
+title: allegro-amanita-muscaria-properties-and-pharmacology — Pharmacology and Risks
 source: carolina-mushrooms_08qxp.md
 mined: 2026-05-08
 tags: [amanita-muscaria, fly-agaric, ibotenic-acid, muscimol, gabaergic,
@@ -15,7 +15,7 @@ Amanita muscaria ([[psilocybin-mushrooms]],
 A. muscaria does not contain serotonergic psychedelics. Its active compounds
 — [[spore-print]].
 - **Habitat**: Mycorrhizal association with birch and pine trees. Found in
-  temperate and boreal forests across the Northern Hemisphere.
+  temperate and [[fungal-diversity-boreal-forests-taiga]] across the Northern Hemisphere.
 
 ## Active Compounds
 
@@ -75,7 +75,7 @@ is a historical misnomer.
 
 ## Preparation and Dosage
 
-Traditional preparation methods reflect empirical knowledge of the chemistry:
+[[kava-traditional-preparation-ceremonial-context]] methods reflect empirical knowledge of the chemistry:
 
 - **Drying**: Converts ibotenic acid to muscimol, reducing unpleasant
   effects while preserving psychoactivity. Sun-drying or oven-drying at
@@ -107,7 +107,7 @@ benign:
 ## Risk as a Psilocybin Substitute
 
 The EMCDDA highlighted specific concerns about A. muscaria being marketed
-as a legal alternative to psilocybin mushrooms:
+as a legal alternative to [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]:
 
 1. **Different pharmacology**: Users expecting a psilocybin-like experience
    receive a GABAergic sedative/dissociative instead
@@ -116,8 +116,8 @@ as a legal alternative to psilocybin mushrooms:
 3. **Preparation sensitivity**: Improperly prepared A. muscaria retains
    more ibotenic acid, increasing neurotoxicity risk
 4. **Consumer ignorance**: Marketing often fails to communicate that
-   A. muscaria is fundamentally different from "magic mushrooms"
-5. **Dose uncertainty**: No standardized dosing guidelines exist for
+   A. muscaria is fundamentally different from "[[guzman-magic-mushrooms-african-species]]"
+5. **Dose uncertainty**: No standardized [[cannabis-dosing-guidelines-by-condition]] exist for
    retail products
 
 ## See Also

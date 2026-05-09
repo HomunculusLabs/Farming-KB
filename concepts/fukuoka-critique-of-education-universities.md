@@ -1,11 +1,12 @@
 ---
-title: Fukuoka: Critique of Education and Universities
+title: Fukuoka: fukuoka critique of education universities and Universities
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 ## Universities as Creators of Doubt
@@ -80,9 +81,9 @@ Fukuoka pointed out that there was once a time when one individual considered ev
 
 Fukuoka was emphatic: there is no such thing as a non-polluting pesticide.
 
-- "Low toxicity" does not mean only slightly toxic; it means toxicity not immediately apparent to the human eye
+- "[[fukuoka-low-toxicity-pesticide-deception]]" does not mean only slightly toxic; it means toxicity not immediately apparent to the human eye
 
-- This toxicity is difficult to discern through chemical analysis, even at the microbial level
+- This toxicity is difficult to discern through [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]], even at the microbial level
 
 - The low toxicity provides latitude in use, which just makes them more harmful
 
@@ -105,4 +106,4 @@ Fukuoka believed humanity had entered an age of confrontation between [[fukuoka-
 - [[fukuoka-nature-as-teacher]]
 
 ## Merged: Fukuoka Children Nature Education
-In the closing sections of "The Road Back to Nature," Fukuoka delivers a scathing critique of modern education, arguing that schools systematically separate children from God and nature. His vision of proper education is radical: learning directly from nature that requires no formal instruction. 297-303 (God, man, and nature; children and God; the world of nothing) updated: 2026-04-18 - [[fukuoka-critique-modern-livestock]] - [[fukuoka-road-back-to-nature-overview]] "When still children, people understand God, but ten or twenty years later they have forgotten him." Even kindergarteners who still understand "are yanked" away from this by teachers.
+In the closing sections of "The Road Back to Nature," Fukuoka delivers a scathing [[fukuoka-road-critique-of-modern-science]] education, arguing that schools systematically separate children from God and nature. His vision of proper education is radical: learning directly from nature that requires no formal instruction. 297-303 (God, man, and nature; children and God; the world of nothing) updated: 2026-04-18 - [[fukuoka-critique-modern-livestock]] - [[fukuoka-road-back-to-nature-overview]] "When still children, people understand God, but ten or twenty years later they have forgotten him." Even kindergarteners who still understand "are yanked" away from this by teachers.

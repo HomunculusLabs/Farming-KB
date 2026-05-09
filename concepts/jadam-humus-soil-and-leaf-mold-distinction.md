@@ -1,5 +1,5 @@
 ---
-title: "JADAM Humus Soil and Leaf Mold Soil Distinction"
+title: "JADAM Humus Soil and comparison-leaf-mold-composting-vs-hot-composting-method Soil Distinction"
 created: 2026-04-28
 tags:
   - natural-farming
@@ -16,9 +16,9 @@ type: concept
 
 # JADAM Humus Soil and Leaf Mold Soil Distinction
 
-JADAM organic farming draws a clear distinction between leaf mold soil,
-humus soil, and humic acid, treating them as different stages in the
-decomposition of organic matter. Understanding these distinctions is
+JADAM [[coleman-deep-organic-farming-philosophy]] draws a clear distinction between leaf mold soil,
+humus soil, and [[comparison-humic-acid-vs-fulvic-acid]], treating them as different stages in the
+decomposition of [[hamilton-composting-and-organic-matter-management]]. Understanding these distinctions is
 essential for the [[jadam-soil-management-principles]] that underpin ultra-low-cost
 agriculture. This classification helps farmers select the appropriate
 soil amendment for specific conditions.
@@ -66,7 +66,7 @@ approach. The complete soil foundation programme combines:
 4. Humus soil for stable organic matter and nutrients
 
 This combination addresses all soil health dimensions: biological
-activity, mineral availability, organic matter, and nutrient balance.
+activity, [[chelation-microbial-mineral-availability-ingham]], organic matter, and nutrient balance.
 The [[jadam-compost-free-approach]]. Rather than investing labour in
 composting, farmers can use naturally-occurring humus soil deposits
 combined with microbial inoculation to achieve superior results. This
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

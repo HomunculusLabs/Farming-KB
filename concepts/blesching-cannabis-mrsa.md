@@ -78,7 +78,7 @@ activity compared to isolated cannabinoids.
 ### Garlic (Allicin)
 A laboratory study in London determined that allicin, a major antibacterial
 component of garlic, is a very effective defense against MRSA. Another study
-on mice confirmed that garlic extract (diallyl sulphide and diallyl disulphide)
+on mice confirmed that [[ginger-garlic-extract-bionutrient]] (diallyl sulphide and diallyl disulphide)
 possessed multiple protective functions against MRSA infection.
 
 ### Essential Oils
@@ -112,7 +112,7 @@ transcend any punishment with forgiveness."
 ## Important Safety Note
 
 While cannabinoids showed antibacterial activity against MRSA in laboratory
-settings, no clinical trials on humans have been conducted to date. MRSA
+settings, no [[mushroom-cancer-clinical-trials-overview]] on humans have been conducted to date. MRSA
 remains a potentially life-threatening infection requiring prompt medical
 attention. Cannabinoid-based approaches should be considered complementary to,
 not replacements for, conventional medical treatment of MRSA infections.
@@ -120,5 +120,5 @@ not replacements for, conventional medical treatment of MRSA infections.
 ## See Also
 
 - [[blesching-cannabis-immune-system-modulation]]
-- [[blesching-endocannabinoid-system-overview]]
+- [[endocannabinoid-system-overview]]
 - [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]

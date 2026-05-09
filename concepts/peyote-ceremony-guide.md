@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [entheogen, cacti, ethnobotany, mesoamerica, new-world, shamanism, spirituality, religion, culture, psychopharmacology, safety, history, species]
-sources: []
+sources:
+  sources: []
 ---
 
 # Peyote Ceremony Guide
@@ -47,7 +48,7 @@ The Huichol people of the Sierra Madre Occidental in western Mexico maintain one
 The Native American Church (NAC) is the largest organized religious body that uses peyote as a sacrament. Founded in the late 19th century, the NAC incorporates elements of Christianity with indigenous peyote traditions.
 
 ### Legal Status
-- Protected under the American Indian Religious Freedom Act (1978)
+- Protected under the [[harner-american-indian-peyote-rituals]] Religious Freedom Act (1978)
 - Affirmed by the Supreme Court in Employment Division v. Smith (1990) — which actually ruled against NAC use, leading to the Religious Freedom Restoration Act (1993)
 - The 1994 amendments to AIRFA specifically protect NAC peyote use for members of federally recognized tribes
 - Non-Native participation in NAC ceremonies is a complex and contested issue
@@ -100,7 +101,7 @@ Peyote is under significant ecological pressure:
 - Wild populations have declined dramatically in Texas and Mexico
 - Poaching by non-indigenous harvesters for the commercial market is a primary threat
 - The slow growth rate means populations cannot recover from overharvesting
-- Climate change is altering the Chihuahuan Desert ecosystem
+- [[dighton-fungi-climate-change-feedback]] is altering the Chihuahuan Desert ecosystem
 - Several organizations are working on peyote conservation and sustainable cultivation programs
 
 ## Safety Considerations
@@ -109,11 +110,11 @@ Peyote is under significant ecological pressure:
 - Nausea is nearly universal during onset — considered part of the cleansing process
 - Not appropriate for people with schizophrenia, bipolar disorder, or psychotic conditions
 - Cardiovascular conditions require medical evaluation before use
-- The ceremony context itself (experienced leader, structured ritual, community support) provides significant harm reduction
+- The ceremony context itself (experienced leader, structured ritual, community support) provides significant [[adverse-effects-and-harm-reduction-psilocybin]]
 - Legal protections apply only to NAC members of recognized tribes — see [[psychedelic-plants-legal-status]]
 - See [[mescaline-extraction-guide]] for extraction chemistry
 
 ## Related Topics
 
-- [[san-pedro-cactus-preparation]] — a faster-growing mescaline cactus alternative
+- [[san-pedro-cactus-preparation]] — a faster-growing [[peyote-mescaline-cactus-pharmacology]] alternative
 - [[mescaline-extraction-guide]] — laboratory extraction methods

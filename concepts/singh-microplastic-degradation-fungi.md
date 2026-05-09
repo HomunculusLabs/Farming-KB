@@ -1,5 +1,5 @@
 ---
-title: Microplastic Degradation by Fungi
+title: singh microplastic degradation fungi by Fungi
 created: 2026-04-28
 tags:
   - mycoremediation
@@ -50,7 +50,7 @@ Fungi deploy several enzyme classes to attack synthetic polymers:
 
 ### *Aspergillus* spp.
 
-*Aspergillus fumigatus* and *A. niger* demonstrate significant
+*[[gadd-aspergillus-fumigatus-glucan-virulence]]* and *A. niger* demonstrate significant
 degradation of PE and PP, with weight loss up to 15% observed in PE
 films after 90 days. They produce broad-spectrum hydrolytic and oxidative
 enzymes.
@@ -59,8 +59,8 @@ enzymes.
 
 *Fusarium oxysporum* and *F. solani* are particularly effective against
 PET and PUR through cutinase production. They also produce
-[[singh-white-rot-fungi-lignin-modifying-enzymes]] such as *Phanerochaete chrysosporium*,
-*Pleurotus ostreatus*, and *Trametes versicolor* deploy their
+[[singh-white-rot-fungi-lignin-modifying-enzymes]] such as *[[staycare-phanerochaete-chrysosporium-in-bioremediation]]*,
+*Pleurotus ostreatus*, and *[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]* deploy their
 [[singh-fungal-composting-bioremediation-contaminated-soils]] of contaminated organic waste,
 [[singh-bioaugmentation-vs-biostimulation-fungal-strategies]] for contaminated soils.
 

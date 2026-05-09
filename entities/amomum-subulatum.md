@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Sakurai H, Nagata T, Yamashita M (2010). "Phytochemistry and pharmacology of Amomum species." Natural Product Communications, 5(11), 1741–1750.
   - Tewari D, Sah AN, Pandey A, et al. (2021). "Amomum subulatum Roxb.: A comprehensive review on ethnobotany, phytochemistry, and pharmacological activities." Journal of Ethnopharmacology, 274, 114029.
-  - Raina VK, Srivastava SK, Syamsundar KV, et al. (2004). "Essential oil composition of Amomum subulatum Roxb. from the northern Himalayas." Flavour and Fragrance Journal, 19(4), 322–324.
+  - Raina VK, Srivastava SK, Syamsundar KV, et al. (2004). "[[permaculture-designers-manual-essential-oil-plants]] composition of Amomum subulatum Roxb. from the northern Himalayas." Flavour and Fragrance Journal, 19(4), 322–324.
   - Chopra RN, Nayar SL, Chopra IC (1956). Glossary of Indian Medicinal Plants. CSIR, New Delhi.
 ---
 
@@ -36,7 +36,7 @@ Inflorescences emerge from the rhizome near the base of the plant, bearing conge
 
 A. subulatum is native to the eastern Himalayas, occurring naturally in Nepal, Bhutan, Sikkim, Arunachal Pradesh, and northern Myanmar. It grows in moist subtropical and montane forests at elevations of 600–2,000 m.
 
-The plant thrives in humid conditions with annual rainfall of 2,000–4,000 mm distributed throughout the year. It prefers rich, well-drained forest loams with high organic matter content and a pH of 4.5–6.5. Natural populations are found as understorey plants in broadleaf and mixed forests.
+The plant thrives in humid conditions with annual rainfall of 2,000–4,000 mm distributed throughout the year. It prefers rich, well-drained forest loams with high [[hamilton-composting-and-organic-matter-management]] content and a pH of 4.5–6.5. Natural populations are found as understorey plants in broadleaf and mixed forests.
 
 Commercial cultivation is concentrated in the eastern Himalayan region, with Nepal as the world's largest producer. Other significant producers include the Indian states of Sikkim, West Bengal (Darjeeling Hills), and Assam. Bhutan and Myanmar produce smaller quantities.
 
@@ -44,7 +44,7 @@ Commercial cultivation is concentrated in the eastern Himalayan region, with Nep
 
 The essential oil of black cardamom contains 1,8-cineole as the dominant constituent (30–70%), along with α-terpinyl acetate, limonene, sabinene, and borneol. The distinctive smoky aroma comes from the traditional drying process over open fires, which deposits phenolic compounds onto the fruit capsule.
 
-Fixed oils from the seeds contain palmitic, oleic, and linoleic acids as major fatty acids. The seeds also contain sterols, flavonoids, and tannins. Phenolic compounds include gallic acid, ellagic acid, and protocatechuic acid.
+Fixed oils from the seeds contain palmitic, oleic, and linoleic acids as major [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]. The seeds also contain sterols, flavonoids, and tannins. Phenolic compounds include gallic acid, ellagic acid, and protocatechuic acid.
 
 Pharmacological studies demonstrate anti-inflammatory activity mediated through COX-2 inhibition and reduction of pro-inflammatory cytokines. The essential oil shows broad-spectrum antimicrobial activity against Gram-positive and Gram-negative bacteria, with notable potency against oral pathogens.
 
@@ -64,7 +64,7 @@ The traditional drying method over open wood fires imparts the characteristic sm
 
 ## Cultivation
 
-Black cardamom is propagated primarily through rhizome division. Seed propagation is possible but slow and unreliable. Planting is done during the monsoon season (June–July) in prepared beds under partial forest shade.
+Black cardamom is propagated primarily through rhizome division. [[jeavons-seed-propagation-techniques]] is possible but slow and unreliable. Planting is done during the monsoon season (June–July) in prepared beds under partial forest shade.
 
 Optimal shade levels are 40–60% canopy cover, mimicking the plant's natural forest understorey habitat. The crop requires consistent moisture throughout the year and is highly sensitive to drought. Mulching with leaf litter helps maintain soil moisture and organic matter.
 
@@ -84,13 +84,13 @@ In Unani medicine, it is known as *Elai kalan* and is used for stomach complaint
 
 ## Ecological Role
 
-A. subulatum is a significant understorey component of eastern Himalayan subtropical and montane forests. It contributes to forest floor biomass and nutrient cycling through annual leaf litter deposition from its large pseudostems.
+A. subulatum is a significant understorey component of eastern Himalayan subtropical and montane forests. It contributes to forest floor biomass and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] through annual leaf litter deposition from its large pseudostems.
 
 The flowers are pollinated by bees and other insects. The aromatic inflorescences attract pollinators to the forest understorey, benefiting co-occurring plant species. The seeds are dispersed by birds and small mammals that consume the fleshy aril.
 
 Cultivation of black cardamom under forest canopies provides a sustainable income source for Himalayan farming communities without requiring forest clearance. This agroforestry system maintains forest cover while generating economic returns from non-timber forest products.
 
-Climate change poses a significant threat to black cardamom production. Rising temperatures and altered precipitation patterns are shifting suitable cultivation zones to higher elevations. Drought stress during flowering reduces fruit set significantly.
+[[dighton-fungi-climate-change-feedback]] poses a significant threat to black cardamom production. Rising temperatures and altered precipitation patterns are shifting suitable cultivation zones to higher elevations. Drought stress during flowering reduces fruit set significantly.
 
 ## Related Species
 
@@ -103,6 +103,8 @@ A. kravanh (Cambodian cardamom) produces smaller, rounder capsules used as a spi
 Elettaria cardamomum (green cardamom) is the most commercially significant cardamom species globally but is used primarily in sweet preparations and beverages. Despite belonging to different genera, green and black cardamom are frequently confused in Western markets.
 
 ## See Also
+
+- [[amomum-kravanh]]
 
 - [[elettaria-cardamomum]]
 - [[alpinia-galanga]]

@@ -1,5 +1,5 @@
 ---
-title: Runtz (Cannabis Strain)
+title: Runtz (blesching-cannabis-strain-selection-receptor-targeting)
 created: 2026-04-28
 type: strain
 tags:
@@ -42,7 +42,7 @@ The genetic architecture combines two of the most decorated breeding lines in mo
 ## Appearance
 
 - **Structure:** Dense, chunky calyxes with a tapered, slightly conical shape
-- **Coloration:** Striking gradient of deep forest green, lavender purple, and electric blue — purple expression varies by phenotype. Heavy trichome coverage gives a frosted appearance
+- **Coloration:** Striking gradient of deep [[trichoderma-forest-green-mold-guide]], lavender purple, and electric blue — purple expression varies by phenotype. Heavy trichome coverage gives a frosted appearance
 - **Pistils:** Abundant orange-amber pistils curling through the calyxes
 - **Resin:** Exceptionally sticky with thick clear-to-milky trichome heads
 
@@ -79,7 +79,7 @@ Several sub-lineages exist: **White Runtz**, **Pink Runtz**, and **Black Runtz**
 - **Relaxation:** Full-body calm without couch-lock
 - **Creativity:** Enhanced creative thinking and sociability
 - **Appetite stimulation:** Significant munchies effect
-- **Pain relief:** Moderate analgesia for mild-to-moderate chronic pain
+- **Pain relief:** Moderate analgesia for mild-to-moderate [[cannabis-chronic-pain-management]]
 
 ### Onset and Duration
 - **Onset:** 2–5 minutes (smoked/vaped); **Peak:** 30–60 minutes; **Duration:** 2–3 hours
@@ -107,7 +107,7 @@ Dry mouth, dry eyes, anxiety at high doses, dizziness, lethargy with heavy use.
 | **Difficulty** | Moderate — not beginner-friendly |
 | **Feeding** | Moderate-to-heavy feeder; benefits from cal-mag |
 
-Purple phenotype expression is enhanced by cooler night temperatures (15–18°C) during late flowering. Susceptible to powdery mildew in high humidity. Strong terpene production requires odor control for discreet indoor grows.
+Purple phenotype expression is enhanced by cooler night temperatures (15–18°C) during late flowering. Susceptible to [[cervantes-powdery-mildew-prevention-treatment]] in high humidity. Strong terpene production requires [[cannabis-odor-control-and-carbon-filters]] for discreet indoor grows.
 
 ## Popular Phenotypes and Crosses
 
@@ -119,10 +119,12 @@ Purple phenotype expression is enhanced by cooler night temperatures (15–18°C
 
 ## Related Strains
 
-- [[gelato-cannabis]] — parent strain, creamy dessert profile
+- [[gelato]] — parent strain, creamy dessert profile
 - [[purple-punch]] — ancestor via Zkittlez, purple coloration source
 
 ## See Also
+
+- [[pink-runtz]]
 
 - [[grape-ape]]
 - [[purple-punch]]

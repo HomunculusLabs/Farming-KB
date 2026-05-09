@@ -8,10 +8,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly Staff (2024). "Donny Burger Cannabis Strain Information." Leafly.com.
+  - Leafly Staff (2024). "Donny Burger blesching-cannabis-strain-selection-receptor-targeting Information." Leafly.com.
   - AllBud (2024). "Donny Burger Strain Review." AllBud.com.
   - Symbiotic Genetics (2023). "Donny Burger — Strain Lineage." Official breeder catalog.
-  - Baumeister, D. et al. (2022). "A comprehensive review of cannabis terpene pharmacology." Frontiers in Plant Science, 13, 865914.
+  - Baumeister, D. et al. (2022). "A comprehensive review of cannabis [[cannabis-terpene-pharmacology-and-entourage-effect]]." Frontiers in Plant Science, 13, 865914.
 created: 2026-05-07
 ---
 
@@ -19,7 +19,7 @@ created: 2026-05-07
 
 Donny Burger is an indica-dominant hybrid cannabis strain bred by **Symbiotic Genetics**, the same breeders behind the popular Mimosa line. It was released in the early 2020s and quickly gained a following for its potent sedative effects and pungent, savory aroma.
 
-The strain is a cross between **Hamburguesa** (a GMO × Miracle Alien Cookies derivative) and **Han Solo Burger** (Larry OG × GSC). This heavy-hitting lineage produces a strain with exceptional resin production and strong body-focused effects.
+The strain is a cross between **Hamburguesa** (a GMO × Miracle Alien Cookies derivative) and **Han Solo Burger** (Larry OG × GSC). This heavy-hitting lineage produces a strain with exceptional [[cannabis-glandular-trichome-types-resin-production-clarke]] and strong body-focused effects.
 
 The name references the American fast-food burger culture, playing on the strain's savory, cheesy-gassy terpene profile. It has become a staple of the West Coast premium indoor market.
 
@@ -65,7 +65,7 @@ The onset begins with a mild cerebral uplift that is quickly overtaken by heavy,
 
 This is not a functional daytime strain. The sedative effects intensify over 30–60 minutes, typically progressing to full-body couch-lock. Mental effects are hazy and dreamy, with thoughts becoming diffuse and unfocused.
 
-Donny Burger is best suited for evening or nighttime use. Common applications include insomnia, chronic pain, muscle spasms, anxiety, and stress relief. It is highly effective as a sleep aid for experienced consumers.
+Donny Burger is best suited for evening or nighttime use. Common applications include insomnia, [[cannabis-chronic-pain-management]], muscle spasms, anxiety, and stress relief. It is highly effective as a sleep aid for experienced consumers.
 
 ## Cultivation
 
@@ -77,7 +77,7 @@ The strain responds well to low-stress training and topping, which helps manage 
 
 Nutrient requirements are moderate to heavy, particularly during weeks 4–7 of flowering when bud development accelerates. Phosphorus and potassium supplementation during mid-to-late flower improves trichome density and overall yield.
 
-Outdoor cultivation requires a warm, dry climate with low humidity during fall. Harvest in early to mid-October. The dense bud structure makes it susceptible to bud rot and powdery mildew in humid conditions.
+Outdoor cultivation requires a warm, dry climate with low humidity during fall. Harvest in early to mid-October. The dense bud structure makes it susceptible to bud rot and [[cervantes-powdery-mildew-prevention-treatment]] in humid conditions.
 
 ## Medical Applications
 
@@ -95,7 +95,7 @@ Mental health applications include treatment-resistant anxiety and PTSD-related 
 
 The standard Symbiotic Genetics cut is the most widely distributed. It expresses the strongest savory-gassy aroma and consistently tests above 25% THC.
 
-A **GMO-forward phenotype** has emerged in the Oregon market, emphasizing the garlic-onion umami character with less sweetness. This version is particularly sought after by consumers who enjoy savory terpene profiles.
+A **GMO-forward phenotype** has emerged in the Oregon market, emphasizing the garlic-onion umami character with less sweetness. This version is particularly sought after by consumers who enjoy savory [[cannabis-terpene-profiles-sativa]].
 
 **Donny Burger #7** is a stabilized selection bred for higher yield and more uniform flowering time. It retains the original's potency and aroma while being slightly easier to cultivate at scale.
 

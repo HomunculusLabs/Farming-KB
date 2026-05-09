@@ -3,30 +3,10 @@ title: Beverage Plants
 created: 2026-04-15
 updated: 2026-04-21
 type: concept
-tags: [[permaculture, design]
+tags: [permaculture, design]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
-
-# Beverage Plants
-
-updated: 2026-04-18
-
-From: [[permaculture-designers-manual-biogas-digester]])
-
-## Design Integration
-
-Beverage plants integrate with other permaculture elements:
-- Coffee and cacao as understory crops in food forests
-- Tea shrubs in hedgerow systems
-- Herbs in kitchen garden Zone 1
-- Palms in mixed tropical polycultures
-- Grape vines on house trellises for cooling
-- Bee forage plants supporting honey production as a sweetener
-
-## Related Topics
-
-- [[permaculture-designers-manual-herbaceous-plants]] - herb tea species
-- [[permaculture-designers-manual-essential-oil-plants]] - aromatic beverage herbs
+# Beverage Plants updated: 2026-04-18 From: permaculture-designers-manual-biogas-digester) ## Design Integration Beverage plants integrate with other permaculture elements: - Coffee and cacao as understory crops in food forests - Tea shrubs in hedgerow systems - Herbs in kitchen garden Zone 1 - Palms in mixed tropical polycultures - Grape vines on house trellises for cooling - Bee forage plants supporting honey production as a sweetener ## Related Topics - permaculture-designers-manual-herbaceous-plants - herb tea species - [[permaculture-designers-manual-essential-oil-plants]] - aromatic beverage herbs
 - [[permaculture-designers-manual-temperate-climate-design]]
 ## Practical Applications
 
@@ -45,7 +25,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -95,7 +75,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -105,4 +85,4 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+- [[permaculture-designers-manual-beekeeping-plants]]

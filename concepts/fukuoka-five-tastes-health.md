@@ -5,7 +5,8 @@ updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Five Tastes and Health
@@ -14,7 +15,7 @@ Masanobu Fukuoka's understanding of the relationship between the five tastes and
 
 ## Sweet
 
-Sweet taste comes primarily from grains -- rice, barley, millet -- and from certain root vegetables. In traditional Japanese cuisine, sweetness came from natural sources: rice, sweet potatoes, chestnuts, and seasonal fruits. The modern abundance of refined sugar has created an excess of sweetness that contributes to diabetes, obesity, and other metabolic disorders.
+Sweet taste comes primarily from grains -- rice, barley, millet -- and from certain [[growing-root-vegetables-guide]]. In traditional Japanese cuisine, sweetness came from natural sources: rice, sweet potatoes, chestnuts, and seasonal fruits. The modern abundance of refined sugar has created an excess of sweetness that contributes to diabetes, obesity, and other metabolic disorders.
 
 Grains provide a gentle, sustained sweetness that nourishes the body without overwhelming it. This is the sweetness of the earth itself -- the energy stored in seeds through a season of growth.
 
@@ -32,7 +33,7 @@ The disappearance of bitter foods from the modern diet is not merely a culinary 
 
 ## Spicy
 
-Spicy taste -- from ginger, garlic, pepper, mustard, and related plants -- stimulates circulation, promotes sweating, and helps the body fight infection. In traditional Japanese cooking, spicy flavors were used sparingly but consistently.
+Spicy taste -- from ginger, garlic, pepper, mustard, and related plants -- stimulates circulation, promotes sweating, and helps the body fight infection. In traditional [[fukuoka-japanese-cooking-culture-disappearing]], spicy flavors were used sparingly but consistently.
 
 The modern preference for bland, processed foods has eliminated much of the natural spiciness that once characterized healthy diets. This may contribute to poor circulation and weakened immune function.
 
@@ -40,11 +41,11 @@ The use of spicy flavors in traditional cooking was never about overwhelming the
 
 ## Salty
 
-Salty taste is essential for electrolyte balance and cellular function. In traditional diets, salt came from natural sources -- sea salt, soy sauce, miso. The problem with modern diets is not salt itself but the excessive consumption of refined salt, isolated from the trace minerals that accompany natural salt.
+Salty taste is essential for electrolyte balance and cellular function. In traditional diets, salt came from natural sources -- [[jadam-sea-salt-and-mineral-solutions]], soy sauce, miso. The problem with modern diets is not salt itself but the excessive consumption of refined salt, isolated from the trace minerals that accompany natural salt.
 
 Natural, unrefined sea salt contains a complex matrix of trace minerals that work synergistically with sodium to support the body's functions. When salt is refined, these minerals are stripped away, leaving a product that is biologically imbalanced.
 
-Fukuoka advocated for moderate salt intake from natural, unrefined sources. The traditional Japanese diet included pickled vegetables and miso soup, which provided salt in a form that the body could use effectively.
+Fukuoka advocated for moderate salt intake from natural, unrefined sources. The traditional [[fukuoka-japanese-diet-worse]] included pickled vegetables and miso soup, which provided salt in a form that the body could use effectively.
 
 ## The Trap of the Discriminating Palate
 
@@ -52,11 +53,11 @@ Once man eats something sweet, food that he had felt until then to be sweet lose
 
 Modern food science responds to this escalating appetite by creating ever more intense flavors -- artificial sweeteners, flavor enhancers, and processed foods designed to overwhelm the natural sensitivity of the taste buds. This creates a vicious cycle in which the palate becomes increasingly dulled and the body increasingly deprived of the subtle tastes and medicinal compounds found in natural, whole foods.
 
-The five tastes, when experienced through their natural sources, do not overwhelm the palate but educate it. The gentle sweetness of brown rice, the clean sourness of a pickled plum, the stimulating bitterness of a wild herb -- these tastes train the body to recognize and appreciate the full spectrum of nature's offerings.
+The five tastes, when experienced through their natural sources, do not overwhelm the palate but educate it. The gentle sweetness of [[cho-brown-rice-vinegar-preparation]], the clean sourness of a pickled plum, the stimulating bitterness of a wild herb -- these tastes train the body to recognize and appreciate the full spectrum of nature's offerings.
 
 ## The Whole Food Principle
 
-The five tastes are not found in isolation in nature. Every whole food contains a complex mixture of tastes, nutrients, and bioactive compounds that work together. When food is processed -- refined, preserved, flavored with artificial additives -- this natural complexity is lost.
+The five tastes are not found in isolation in nature. Every whole food contains a complex mixture of tastes, nutrients, and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] that work together. When food is processed -- refined, preserved, flavored with artificial additives -- this natural complexity is lost.
 
 Eating a diverse diet of whole, unprocessed foods naturally provides a balance of all five tastes. No special effort or nutritional knowledge is required. The body's own appetite, when not distorted by processed food, will guide us toward the foods we need.
 
@@ -79,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

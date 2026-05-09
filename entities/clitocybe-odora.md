@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - "Breitenbach, J. & Kränzlin, F. (1981). Fungi of Switzerland Vol. 3. Boletaceae, Agaricaceae."
   - "Phillips, R. (2010). Mushrooms. Pan Macmillan."
-  - "Lincoff, G.H. (1981). National Audubon Society Field Guide to North American Mushrooms."
+  - "Lincoff, G.H. (1981). National Audubon Society Field Guide to [[growing-gourmet-north-american-reishi-species]] Mushrooms."
   - "Courtecuisse, R. & Duhem, B. (1995). Mushrooms and Toadstools of Britain and Europe. HarperCollins."
   - "Boa, E. (2004). Wild Edible Fungi: A Global Overview. FAO."
 ---
@@ -77,14 +77,14 @@ The specific epithet *odora* derives from the Latin *odoratus*, meaning "fragran
 
 - **Geographic range:** Widely distributed across Europe (common in Britain, Scandinavia, France, Germany, and the Mediterranean) and North America (eastern and western coastal regions); also reported from parts of Asia
 - **Habitat:** Primarily found in coniferous and mixed woodlands, especially under spruce (*Picea* spp.), pine (*Pinus* spp.), fir (*Abies* spp.), and occasionally under broadleaf trees such as oak and beech
-- **Ecology:** Saprotrophic — decomposes leaf litter, needles, and woody debris on the forest floor; may also have weakly mycorrhizal associations
+- **Ecology:** Saprotrophic — decomposes leaf litter, needles, and woody debris on the forest floor; may also have weakly [[plants-without-mycorrhizal-associations]]
 - **Season:** Late summer to late autumn (August–November in the Northern Hemisphere); fruiting triggered by cool, moist conditions
 - **Frequency:** Occasional to locally common; can be found in the same locations year after year in suitable habitat
 - **Sclerotia:** Forms small, dark, hard sclerotia (tubercles) at the base of the stem or in the substrate — a notable feature of the species
 
 ## Phytochemistry
 
-The characteristic anise aroma is produced primarily by **anisaldehyde** and related aromatic compounds, including methyl salicylate and estragole. These volatile organic compounds are lipophilic and readily released into the air when the fungal tissue is disturbed or damaged. The blue-green pigmentation is attributed to a combination of pigment molecules; however, the specific chromophores responsible have not been as extensively characterized as those in other colored mushrooms. The concentration of aromatic compounds decreases as the mushroom desiccates or ages.
+The characteristic anise aroma is produced primarily by **anisaldehyde** and related aromatic compounds, including methyl salicylate and estragole. These  compounds are lipophilic and readily released into the air when the fungal tissue is disturbed or damaged. The blue-green pigmentation is attributed to a combination of pigment molecules; however, the specific chromophores responsible have not been as extensively characterized as those in other colored mushrooms. The concentration of aromatic compounds decreases as the mushroom desiccates or ages.
 
 ## Edibility and Culinary Use
 
@@ -99,8 +99,8 @@ The characteristic anise aroma is produced primarily by **anisaldehyde** and rel
 
 Several *Clitocybe* species are dangerously toxic, and confusion with lookalikes poses the primary risk:
 
-- ***Clitocybe dealbata* (ivory funnel) and *C. rivulosa* (rivulet clitocybe):** Contain muscarine; cause sweating, salivation, lacrimation, blurred vision, abdominal cramps, and in severe cases respiratory failure; these species are white to pale buff and lack the anise odor
-- ***Clitocybe nebularis* (clouded agaric):** Generally considered edible by some but causes GI distress in many people; much larger, gray to brown, with a farinaceous (mealy) odor rather than anise
+- ***[[clitocybe-dealbata]]* (ivory funnel) and *C. rivulosa* (rivulet clitocybe):** Contain muscarine; cause sweating, salivation, lacrimation, blurred vision, abdominal cramps, and in severe cases respiratory failure; these species are white to pale buff and lack the anise odor
+- ***[[clitocybe-nebularis]]* (clouded agaric):** Generally considered edible by some but causes GI distress in many people; much larger, gray to brown, with a farinaceous (mealy) odor rather than anise
 - ***Entoloma* species:** Some species are blue-tinted and deadly poisonous; *Entoloma* spore prints are pinkish-brown (salmon), providing a key differentiating feature from the white spore print of *C. odora*
 
 The combination of blue-green coloration AND strong anise odor is considered a reliable field diagnostic; no toxic lookalike shares both features. However, foragers should always verify spore print color and gill attachment when uncertain.
@@ -122,7 +122,7 @@ The production of sclerotia — hardened, compact masses of mycelium — is an i
 | *Clitocybe trulliformis* | Larger; brownish; anise odor present but weaker |
 | *Lepista irina* (frosted funnel) | Larger; buff/tan; similar shape but lacks blue-green color and anise odor |
 | *Entoloma incanum* | Small; greenish; pink spore print distinguishes it |
-| *Mycena pura* | Pinkish-purple to green; smaller; different gill attachment (adnate to sinuate, not decurrent) |
+| *[[mycena-pura]]* | Pinkish-purple to green; smaller; different gill attachment (adnate to sinuate, not decurrent) |
 
 ## See Also
 

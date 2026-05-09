@@ -45,7 +45,7 @@ An entity page restores that context.
 * **Language family:** Chukotko-Kamchatkan.
 * **Major lifeways:** reindeer herding, fishing, and maritime hunting.
 * **Common subdivisions:** inland Chavchuven/Chauchu and coastal Nymylan/Nemelan.
-* **Wiki relevance:** Amanita muscaria ethnography and Siberian shamanism debates.
+* **Wiki relevance:** [[allegro-amanita-muscaria-properties-and-pharmacology]] ethnography and Siberian shamanism debates.
 * **Major source figure:** Waldemar Jochelson.
 * **Interpretive caution:** documented Amanita use should not be inflated into a total explanation of Koryak religion.
 ## See Also
@@ -56,7 +56,7 @@ An entity page restores that context.
 * [[andy-letcher]]
 * chukchi
 
-See also: [[ethnomycology]]
+See also: [[gordon-wasson-comparative-method-ethnomycology]]
 ## Practical Considerations
 
 When working with Koryaks, several practical factors should be
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

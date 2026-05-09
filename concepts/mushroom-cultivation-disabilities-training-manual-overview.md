@@ -1,5 +1,5 @@
 ---
-title: "Mushroom Cultivation for Disabilities Training Manual - Overview"
+title: "accessible-mushroom-cultivation-for-disabilities for mushroom cultivation disabilities training manual overview Manual - Overview"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -24,7 +24,7 @@ The training integrates three distinct areas:
 
 1. **Rehabilitation** -- of the mind (building confidence, self-reliance, belief that "I CAN DO"), the spirit (acceptance of self and others), and the body (learning tasks, developing new abilities, controlling the body).
 
-2. **Mushroom Cultivation** -- covering the full production cycle: nature of mushrooms, PDA and tissue culture, spawning, bag production, pasteurization, inoculation, incubation, fruiting, harvesting, packaging, marketing, processing, waste management, troubleshooting, and mushroom house construction.
+2. **Mushroom Cultivation** -- covering the full production cycle: nature of mushrooms, PDA and tissue culture, spawning, bag production, pasteurization, inoculation, incubation, fruiting, harvesting, packaging, marketing, processing, waste management, troubleshooting, and mushroom [[low-cost-mushroom-growing-house-construction-developing-countries]].
 
 3. **Enterprise Development** -- setting up a business, ensuring profitability, and basic bookkeeping.
 
@@ -32,7 +32,7 @@ The training integrates three distinct areas:
 
 - Scalable from small personal use to full commercial enterprise
 - Physically disabled people can accomplish all necessary tasks with some modifications to construction and equipment
-- Chronically ill or weak people benefit from the cooler shaded growing environment
+- Chronically ill or weak people benefit from the cooler shaded [[cannabis-growing-environment-setup]]
 - Mentally disabled people can learn repetitive tasks involved in cultivation; some trainees produced higher yields than non-disabled farmers due to attention to detail
 - Very low startup costs: a mushroom house for 1,000 bags can be built for as little as 500 Baht (US$12)
 - Regular daily income from harvests
@@ -46,7 +46,7 @@ The programme follows a nine-week schedule:
 - **Week 1:** Registration, motivational sessions, initial hands-on sub-group practice
 - **Week 2:** Opening ceremony, overview of mushrooms, continued hands-on rotation
 - **Week 3:** Guest speakers on mushroom management, general microbiology, group rotation
-- **Week 4:** Cultivation in plastic bags, pest and disease management, motivational sessions
+- **Week 4:** Cultivation in plastic bags, pest and [[plant-disease-management-solomon]], motivational sessions
 - **Week 5:** Mushroom spawn (agar and seed), packaging and marketing strategies
 - **Week 6:** Log and straw mushroom cultivation, waste management, processing
 - **Week 7:** Enterprise development for small-scale mushroom production
@@ -65,7 +65,7 @@ Many trainees became successful mushroom farmers and several became trainers the
 
 ## Mushroom Species and Their Accessibility Advantages
 
-The FAO manual primarily focuses on oyster mushrooms (Pleurotus spp.) for disability-focused cultivation, and for good reason. Oyster mushrooms fruit across a wide temperature range (15-30°C for most species), have relatively short cropping cycles (21-28 days from initiation to first harvest), and can be grown on a variety of low-cost agricultural waste substrates including sawdust, rice straw, banana leaves, and maize stalks. Their broad fruiting window means that precise temperature control — which can be difficult to maintain with adaptive equipment — is less critical than with more demanding species.
+The FAO manual primarily focuses on oyster mushrooms (Pleurotus spp.) for disability-focused cultivation, and for good reason. Oyster mushrooms fruit across a wide [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] (15-30°C for most species), have relatively short cropping cycles (21-28 days from initiation to first harvest), and can be grown on a variety of low-cost agricultural waste substrates including sawdust, rice straw, banana leaves, and maize stalks. Their broad fruiting window means that precise temperature control — which can be difficult to maintain with adaptive equipment — is less critical than with more demanding species.
 
 Straw mushrooms (Volvariella volvacea) are also covered in the training, particularly suited to tropical climates. They have an even shorter cycle (7-10 days from inoculation to harvest) but require higher temperatures (28-35°C). The manual notes that the rapid cycle of straw mushrooms provides more frequent positive reinforcement for trainees learning cultivation routines, which is particularly valuable for intellectually disabled participants who benefit from quick feedback on their work.
 
@@ -74,8 +74,12 @@ Wood ear mushrooms (Auricularia polytricha) offer another accessible option. The
 The cultivation of [[mushroom-cultivation-disabilities-pasteurization-methods]]
 - [[cotter-oyster-mushroom-cultivation]]
 - [[working-with-agar-guide]]
-- [[mushroom-substrate-pasteurization-comparison]]
+- mushroom-substrate-pasteurization-comparison
 - [[fukuoka-natural-way-of-farming-theory-of-natural-farming]]
 - [[laminar-flow-hood-construction-hepa-filter]]
 - [[azurescens-outdoor-bed-preparation-woodchips]]
 - [[falconer-mushroom-cultivation-victorian-methods]]
+
+## See Also
+
+- mushroom-training-manual-overview

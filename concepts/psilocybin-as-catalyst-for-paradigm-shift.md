@@ -1,5 +1,5 @@
 ---
-title: Psilocybin as Catalyst for Paradigm Shift
+title: Psilocybin as psilocybin as catalyst for paradigm shift Shift
 created: 2026-04-19
 updated: 2026-04-18
 type: concept
@@ -19,21 +19,21 @@ Yet the pharmacological class of hallucinogens remains subject to "even more sev
 
 Despite decades of research, fundamental questions remain unanswered:
 
-1. **Distribution patterns:** Geographic distribution and migration patterns of most psilocybin-producing species have not been adequately investigated
+1. **[[guzman-global-distribution-patterns-neurotropic-fungi]]:** Geographic distribution and migration patterns of most psilocybin-producing species have not been adequately investigated
 2. **Secondary compounds:** We have barely begun to identify secondary substances beyond psilocybin, psilocin, baeocystin, and norbaeocystin
-3. **Species variability:** Even chemical analysis data for most species should be viewed as merely preliminary
+3. **Species variability:** Even [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] data for most species should be viewed as merely preliminary
 4. **Interaction effects:** How the multiple indole compounds in some species interact with each other and with psilocybin is poorly understood
 5. **Taxonomic relationships:** The systematic positions of many species within the mycological system remain uncertain
 
 ### The Eight Indole Compounds
 
-Gartz notes a striking finding: analyses of [[psilocybe-cubensis-potency-variation-by-flush]] usually contain only half as many. This may explain why Psilocybe semilanceata is favored by European and North American mycophiles for causing the "richest" kinds of experiences.
+Gartz notes a striking finding: analyses of [[psilocybe-cubensis-potency-variation-by-flush]] usually contain only half as many. This may explain why [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] is favored by European and North American mycophiles for causing the "richest" kinds of experiences.
 
 Understanding how such ingredients interact with psilocybin may well result in the development of new clinical applications for these substances.
 
 ### The Question of "Rare" Species
 
-The mycological literature includes information about several rare, if "questionable," species reported to show blue discolorations. The Mycena and Pluteus genera, for example, include descriptions of such species. If indole alkaloids were to be found in mushrooms other than the Agaricales (gilled mushrooms), it would mean a sensational discovery. Future chemical analyses are bound to identify additional psilocybin-producing mushrooms among the approximately 5,000 European species, and there is an even greater likelihood of discovering alkaloids in non-European species whose mycofloras have not been researched as extensively.
+The mycological literature includes information about several rare, if "questionable," species reported to show blue discolorations. The Mycena and Pluteus genera, for example, include descriptions of such species. If indole alkaloids were to be found in mushrooms other than the Agaricales (gilled mushrooms), it would mean a sensational discovery. Future [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] are bound to identify additional psilocybin-producing mushrooms among the approximately 5,000 European species, and there is an even greater likelihood of discovering alkaloids in non-European species whose mycofloras have not been researched as extensively.
 
 ## Ethnopharmacological Discoveries
 
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

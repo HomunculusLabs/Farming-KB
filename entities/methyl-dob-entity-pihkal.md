@@ -1,5 +1,5 @@
 ---
-title: "METHYL-DOB (4-BROMO-2,5-DIMETHOXY-N-METHYLAMPHETAMINE) -- PIHKAL Entry #127"
+title: "METHYL-DOB (4-BROMO-2,5-DIMETHOXY-N-METHYLAMPHETAMINE) -- 2c-b-pihkal-entry-20 #127"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # METHYL-DOB
 
-PIHKAL entry #127. 4-BROMO-2,5-DIMETHOXY-N-METHYLAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #127. 4-BROMO-2,5-DIMETHOXY-N-METHYLAMPHETAMINE.
 
 ## Chemical Name
 
@@ -129,7 +129,7 @@ of product as 0.9 g of pale lavender solids, with a mp of 143-145 deg C.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

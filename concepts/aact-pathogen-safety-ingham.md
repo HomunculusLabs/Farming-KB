@@ -1,5 +1,5 @@
 ---
-title: AACT Pathogen Safety (Ingham)
+title: AACT aact pathogen safety ingham (Ingham)
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Field Guide I for Actively Aerated Compost Tea, Dr. Elaine Ingham, Soil Foodweb Inc.
+Source: The [[ghouled-field-guide-historical-context]] I for Actively [[actively-aerated-compost-tea-aact-brewing]] Tea, Dr. Elaine Ingham, Soil Foodweb Inc.
 
 Ingham provides a thorough and nuanced treatment of human pathogen concerns in compost tea, distinguishing between rational precautions and unnecessary fear.
 
@@ -50,7 +50,7 @@ Key point: "Don't go ballistic about microbes on plant surfaces or on plant debr
 ## E. coli Elimination in Compost
 
 ### In a Good Compost Pile
-- E. coli added in high numbers (even a billion) to good aerobic compost with complete, active foodweb will be gone within 24 hours
+- E. coli added in high numbers (even a billion) to good [[ingham-anaerobic-vs-aerobic-compost-tea]] with complete, active foodweb will be gone within 24 hours
 - The beneficial organisms out-compete, starve, and consume the E. coli
 
 ### In a Poor Compost Pile
@@ -68,7 +68,7 @@ If you're not sure your compost is fully pathogen-free:
 
 ### Garlic Juice
 - In SFI tests, garlic juice knocked out E. coli in tea made from compost known to contain E. coli
-- Use when compost quality is uncertain
+- Use when [[aact-compost-quality-standards-ingham]] is uncertain
 
 ### Citrus Products
 - Citric acid, orange oil, and other citrus products kill SOME organisms including E. coli at low concentrations
@@ -89,7 +89,7 @@ If you're not sure your compost is fully pathogen-free:
 ## Applying "Bad" Tea
 
 If tea goes anaerobic or you suspect contamination:
-- Put it on something that won't be harmed: weed patches, areas with known diseases, bare soil needing organic matter
+- Put it on something that won't be harmed: weed patches, areas with known diseases, bare soil needing [[hamilton-composting-and-organic-matter-management]]
 - If soil foodweb is in good shape, recovery (pathogens no longer detectable) occurs within 3 days
 - If soil is poor, recovery typically requires 120 days — don't grow food plants there in the interim
 

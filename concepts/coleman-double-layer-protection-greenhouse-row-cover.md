@@ -2,7 +2,7 @@
 
 ## Overview
 
-The core innovation of Eliot Coleman's winter harvest system was not any
+The core innovation of Eliot Coleman's [[coleman-claytonia-winter-harvest-cultivation]] system was not any
 single technology but the combination of two simple protection layers working
 together. An unheated greenhouse (or high tunnel) provided the outer layer
 of protection, while a lightweight floating row cover suspended on wire
@@ -12,129 +12,139 @@ southward without any artificial heat, allowing year-round production of
 cold-hardy vegetables in the harsh Maine climate (Zone 5).
 
 ## The Two-Zone Shift
-
-Coleman's fundamental insight was that each layer of protection effectively
-moved the growing environment approximately one and a half USDA hardiness
-zones to the south. A single unheated greenhouse in Zone 5 southern Maine
-created conditions roughly equivalent to Zone 6.5 — perhaps Zone 7 in the
-most protected areas. Adding a second layer of row cover inside the
-greenhouse shifted the effective climate again by approximately one and a
-half zones, creating conditions equivalent to Zone 8 or even Zone 8.5.
-This meant that plants growing inside Coleman's double-layer system
-experienced winter conditions similar to those of northern Georgia or
-central Virginia, despite being located in coastal Maine.
-
-The two-layer system worked not by adding heat — no fuel, combustion, or
-electric elements were involved — but by reducing heat loss. Each layer
-of material trapped a still air space that provided insulation against
-convective heat loss and reduced radiative cooling to the night sky. The
-outer greenhouse layer protected against wind-driven heat loss and reduced
-the rate at which the inner air space cooled. The inner row cover layer
-created a second still-air boundary around the plants themselves, further
-slowing heat loss and maintaining temperatures above the critical minimum
-for plant survival.
-
-## The Outer Layer: Unheated Greenhouses
-
-Coleman settled on 30-foot-wide by 96-foot-long moveable greenhouses as
-his standard production unit. The length was chosen to maximize the ratio
-of growing area to end-wall area (end walls being the primary source of
-heat loss in a greenhouse). The 30-foot width was a practical compromise
-between structural requirements, snow load capacity, and ease of internal
-management. The houses were covered with a single layer of greenhouse
-polyethylene film, which was relatively inexpensive, easy to replace, and
-transmitted sufficient light for winter crop growth.
-
-The critical innovation was making the greenhouses movable. Coleman
-experimented with multiple designs: greased wooden skids on wooden rails,
-ball casters set in support posts, sled runners sliding directly on the
-ground, and flanged wheels rolling along ground-level pipes. The metal
-sled-runner design proved most effective, allowing the houses to be
-pulled between two alternate sites by a tractor and bolted securely to
-ground anchors once positioned. This mobility served two purposes: it
-allowed one site to be cleaned and prepared while crops grew in the
-other, and it enabled summer crops to be grown in the greenhouse's
-alternate position, maximizing land use efficiency.
-
-## The Inner Layer: Row Cover on Wickets
-
-The replacement of glass cold frames with floating row cover marked the
-transition from experimental to commercial winter production. Cold frames
-were expensive to build, heavy to handle, and required manual venting on
-sunny days to prevent overheating — a labor-intensive task that limited
-the scale of production. Row covers, by contrast, were self-venting,
-lightweight, easy to place and remove, and much less expensive.
-
-Coleman's system used flat-topped wire wickets to suspend the row cover
-approximately one foot above the soil surface. This height was critical:
-it provided enough clearance for the crops to grow without touching the
-cover while maintaining a sufficient air gap for insulation. The row cover
-material was a spun-bonded polyester or polypropylene fabric that allowed
-light, air, and water to pass through while providing two to four degrees
-of frost protection. The wickets were simple to install and could be moved
-as needed for harvesting, planting, or crop management.
-
-## Extending the Harvest Season
-
-A key conceptual distinction that shaped Coleman's system was the
-difference between extending the growing season and extending the harvest
-season. In a heated greenhouse, the goal is to keep plants actively
-growing through the winter — producing new leaves, extending stems, and
-increasing in size. This requires significant heat input. Coleman's
-unheated system did not attempt to extend the growing season. Instead,
-it extended the harvest season: crops were planted in late summer and
-early fall, allowed to reach near-maturity before the onset of cold
-weather, and then held in a state of semi-dormancy through the winter.
-
-Once past the middle of November, most crops in the double-layer system
-no longer grew at summer speed. They were "semi-hibernating, just idling
-their engines," as Coleman described it, waiting to be harvested. The
-plants remained alive, their cell structure intact, their sugars and
-nutrients preserved, but their growth essentially stopped. This meant
-that the farmer did not need to provide enough heat for active growth —
-only enough protection to prevent the plants from freezing. The difference
-in energy requirements was enormous.
-
-## Crop Selection for the Double-Layer System
-
-The system worked best with cold-hardy crops that could tolerate
-temperatures well below freezing without damage. Coleman's cold house
-crops included baby-leaf salad mix, carrots, spinach, mache, leeks,
-scallions, tatsoi, pak choi, and other Asian greens. His cool house
-crops — grown with less protection — included radishes, turnips, Swiss
-chard, watercress, parsley, and arugula. The distinction between cold
-houses and cool houses reflected different levels of protection rather
-than different heating regimes; all houses were unheated.
-
-The success of the system depended on precise timing of planting dates.
-Crops planted too early grew too large before winter and became less
-cold-hardy (younger plants are generally hardier than older ones). Crops
-planted too late were too small to be harvestable when winter arrived.
-Through years of experimentation, Coleman refined the ideal August,
-September, and October planting dates for each crop, and introduced
-succession planting with multiple dates per crop to spread the harvest
-across the winter months.
-
-## Customer Response and Market Impact
-
-The quality of winter-harvest produce generated exceptional customer
-loyalty. The taste, sweetness, and freshness of vegetables harvested
-the same day or the day before — in the middle of a Maine winter —
-created a product that no supermarket could match. Customers reported
-that their children asked for raw carrots, that they had shifted from
-anticipating summer vegetables to anticipating winter vegetables, and
-that the salad mix was "healthy fast food" — so inviting and convenient
-that it was easy to eat well.
-
-Coleman noted that over 85 percent of the United States is further
-south than Maine and has more sun and warmer winter weather, meaning
-that the winter harvest system could be replicated virtually anywhere
-in the country. The only barriers were knowledge of the simple
-technology and experience in planning planting schedules for continuous
-production.
-
 ## See Also
 
 - [[coleman-second-spring-august-planting-window]]
 - [[coleman-moveable-greenhouse-system]]
 - [[coleman-persephone-months-winter-day-length]]
+
+## Merged: Passive Solar Greenhouse Temperature Performance
+
+# Passive Solar Greenhouse Temperature Performance
+
+**Source:** Eliot Coleman — *The Winter Harvest Handbook* (2009)
+
+---
+
+## Overview
+
+Coleman's unheated "cold houses" achieve remarkable winter temperature moderation through passive solar design alone — no heating system, no water or stone thermal mass, no buried perimeter insulation, no fans or pumps. The system works by combining the greenhouse's inherent solar collection with a second internal layer of floating row cover, using the soil itself as the heat-storage medium. This double-layer protection is the technical foundation of the entire winter-harvest concept.
+
+## The Two-Layer System
+
+### Outer Layer: The Greenhouse
+
+Standard plastic-covered gothic-style hoop houses, 30 feet wide and 96 feet long, aligned on an east-west axis. A single layer of UV-resistant plastic is sufficient for cold houses (heated greenhouses benefit from two layers, air-inflated to minimize heat loss). The gothic arch shape sheds snow effectively. The greenhouse alone moves the [[cannabis-growing-environment-setup]] approximately 1.5 USDA zones warmer (about 500 miles south).
+
+### Inner Layer: Floating Row Cover
+
+Lightweight floating row cover material supported by flat-topped wire wickets at approximately 12 inches (30 cm) above the soil. Wickets are spaced every 4 feet (120 cm) along 30-inch-wide growing beds. Any row cover material that allows light, air, and moisture to pass through is suitable. This inner layer adds a second zone of protection — another 1.5 zones warmer.
+
+### Combined Effect: The Twice-Tempered Climate
+
+The combination of inner and outer layers creates what Coleman calls a "twice-tempered climate." A plant growing inside this system experiences the equivalent of being moved approximately 1,000 miles to the south — roughly 3 USDA zones warmer than the outdoor environment.
+
+## Documented Temperature Performance
+
+### Extreme Cold Performance
+
+When the outdoor temperature drops to −15°F (−26°C), the temperature under the inner layer of the cold house drops only to 15°F to 18°F above zero (−10°C to −8°C) on average. This represents a temperature differential of 30–33°F (17–18°C) between outside and the protected crop zone.
+
+### Cold-Hardiness Thresholds
+
+Many cold-hardy vegetables can easily survive temperatures down to 10°F (−12°C) or lower as long as they are not exposed to the additional stresses of outdoor conditions — primarily desiccating winter winds. The double coverage also increases relative humidity in the protected area, which offers additional protection against freezing damage through the insulating effect of moist air.
+
+### Soil as Thermal Mass
+
+The soil itself serves as the heat-storage medium, just as it does in the natural world. During sunny winter days, the soil absorbs solar radiation through both layers of protection. This stored heat is then slowly released at night, moderating temperature drops. No additional thermal mass (water barrels, stone walls, etc.) is required.
+
+## The Concept of Harvest Extension vs. Growing Extension
+
+A fundamental realization from Coleman's work: the winter-harvest system does not extend the *growing season* as one does in a heated greenhouse. Rather, it extends the *harvest season*.
+
+Once past mid-November, most crops no longer grow at summer speed. They are semi-hibernating — "idling their engines" — waiting to be harvested. The system maintains a protected microclimate sufficient for the needs of already-mature hardy plants, rather than actively battling against cold to promote new growth. This distinction is crucial for understanding planting schedules: crops must reach harvestable size *before* the [[coleman-persephone-months-winter-day-length]] begin.
+
+## Comparison: Cold House vs. Cool House
+
+### Cold House (Unheated)
+
+- No heating system whatsoever
+- Relies entirely on passive solar collection and the two-layer protection system
+- Production pauses during the five weeks after winter solstice
+- Only "candy carrots" and overwintered leeks available for fresh harvest during deepest winter
+- Expenses minimized; yields low during January but high November–December
+- Simplified production during winter months — spinach is the only multiple-harvest overwintered green crop
+
+### Cool House (Minimally Heated)
+
+- Maintained at a temperature just above freezing
+- Allows continued production of a wider variety of crops during January/February
+- Can produce four to five crops during winter months alone, plus warm-weather crops in summer
+- However, expenses are at their highest (fuel costs) and yields at their lowest during the deepest winter weeks
+- More greenhouse space must be dedicated to January/February-harvest crops, meaning less to sell in November/December
+- Requires careful attention to crop rotation, soil preparation, and irrigation to prevent pest and salt buildup in the fixed structure
+
+### Coleman's Conclusion
+
+After years of experimenting with minimal heat, Coleman concluded that aiming for maximum November/December sales and running all greenhouses as cold houses produces just as much total revenue while cutting expenses and hassles significantly. The five-week vacation period at winter solstice is possible precisely because the cold-house system simplifies production.
+
+## Day Length Considerations
+
+The system works because the continental United States receives far more winter sunshine than parts of western Europe where winter vegetable traditions exist:
+
+- Portland, Maine (44°N) shares a latitude with Avignon, France, and Genoa, Italy
+- New York City (41°N) shares a latitude with Naples, Italy
+- Washington, D.C. (39°N) lines up with Majorca and Corfu
+- All of the U.S. below 37°N experiences the same day length as northern Africa
+
+The period when plant growth slows significantly begins when day length drops below ten hours. In Maine, this runs from November 5 to February 5. Short [[coleman-winter-day-length-and-persephone-months]] is not the barrier it appears — crops take longer from seed to harvest, but earlier [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] compensates.
+
+## The Passive Design Philosophy
+
+Coleman explicitly rejected complicated "solar" greenhouse designs of the 1970s that featured water or stone ballast with pumps, fans, buried insulation, and space-age materials. The guiding criteria were always simplicity, low external inputs, and high-quality outputs. The result is a system that:
+
+- Uses no fossil fuel for heating
+- Requires no electrical connections for operation
+- Can be built with standard, off-the-shelf components
+- Needs minimal maintenance beyond moving the structure
+- Works across a wide range of latitudes and climates
+- Is accessible to small-scale growers with limited capital
+
+## Ventilation Design
+
+Ventilation is critical for both summer and shoulder-season management of the passive greenhouse:
+
+### Roll-Up Sides (Rejected for Winter)
+
+Standard tunnel designs use roll-up sidewalls for ventilation. Coleman rejected this for winter-harvest houses because snow and ice would hinder attaching or detaching the pipe roller, and cold air would infiltrate at soil level directly at the young plants. A modified design where the roll-up portion stops 2–3 feet above ground (with a separate lower plastic sheet) was considered viable.
+
+### End-Wall Ventilation
+
+The 22×48-foot sliding houses use 12-foot-wide openings at both ends, covered with plastic secured by wiggle-wire channel and sandbags at the bottom. The plastic sheet is attached to pipes at top and bottom, functioning as a roll-up/roll-down end:
+
+- **Winter:** unclip wiggle wire at top and sides, drop plastic to open as needed — neither snow nor cold air blows across crops at soil level
+- **Early spring:** roll up from bottom during day, down at night; 2-foot-wide plastic strip across bottom of door opening serves as cold-air barrier
+- **Summer:** roll up doors entirely and tie in place for full ventilation and easy access
+
+### Crossbar Design for Stability
+
+A permanent crossbar beneath end-wall doors extends from one side of the greenhouse to the other, stiffening the end bows and preventing splaying during moves. In sled models this crossbar is essential; in wheeled models (where directional stability comes from the rail), the crossbar can be eliminated for a wider door opening.
+
+## Snow and Wind Management
+
+Gothic arch design sheds snow effectively without supplemental heat or manual removal. The structure's shape prevents snow accumulation that could collapse flat-roofed designs. For the wheeled houses, a wind brace is added in winter to secure the large plastic door sheets and prevent flapping in winter winds; this brace is removed for summer access.
+
+## Soil Temperature Dynamics
+
+The soil under the double-layer system does not freeze solid under normal winter conditions at Four Season Farm. This is critical for:
+
+- **In-ground root crop storage:** carrots, turnips, and leeks remain harvestable all winter
+- **Root regrowth:** spinach and other greens can continue producing new leaves from living root systems
+- **Early spring response:** as soon as day length exceeds ten hours in February, soil warming accelerates plant growth
+- **Microbial activity:** soil biology remains active enough to support continued [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
+
+Coleman experimented with adding insulation over some beds in mid-January to delay spring regrowth of carrots. This backfired — the insulation prevented the daily influx of solar warmth, causing carrots and soil to freeze solid for weeks, producing poor-quality carrots when they thawed. This confirmed that solar gain through the two layers is essential even during the coldest months.
+
+---
+
+**See also:** [[coleman-cold-hardy-winter-vegetables]], [[coleman-mobile-greenhouse-system]], [[coleman-french-maraicher-parisian-intensive-market-gardening]]

@@ -3,14 +3,10 @@ title: Endomycorrhizal (Arbuscular) Fungi — Collection and Identification
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-# Endomycorrhizal (Arbuscular) Fungi — Collection and Identification
-
-## Overview
-
-Arbuscular mycorrhizal (AM) fungi form the most widespread and ecologically important symbiosis on Earth, associating with the roots of approximately 80% of terrestrial plant species. More than **80% of described fungal species** in this group are now recognized as **nonsporocarpic** — they do not produce visible fruiting bodies, making traditional collection methods ineffective. This page details the specialized techniques required for their study and is closely related to [[glomeromycota-arbuscular-mycorrhizae]].
+# Endomycorrhizal (Arbuscular) Fungi — Collection and Identification ## Overview Arbuscular mycorrhizal (AM) fungi form the most widespread and ecologically important symbiosis on Earth, associating with the roots of approximately 80% of terrestrial plant species. More than **80% of described fungal species** in this group are now recognized as **nonsporocarpic** — they do not produce visible fruiting bodies, making traditional collection methods ineffective. This page details the specialized techniques required for their study and is closely related to [[glomeromycota-arbuscular-mycorrhizae]].
 
 ## The Detection Challenge
 
@@ -84,7 +80,7 @@ Standard preparation uses **PVLG** (Polyvinyl-lactic acid-glycerol) mixed **1:1 
 
 ## Identification Protocol
 
-A systematic **7-step identification protocol** guides the practitioner from initial spore extraction through species-level determination. The protocol proceeds through:
+A systematic **7-step identification protocol** guides the practitioner from initial [[arbuscular-mycorrhizal-spore-extraction-methods]] through species-level determination. The protocol proceeds through:
 
 1. Spore extraction and sorting
 2. Gross morphological assessment (color, size, wall layers)
@@ -96,12 +92,12 @@ A systematic **7-step identification protocol** guides the practitioner from ini
 
 ### Reference Resources
 
-- **INVAM** (International Culture Collection of Vesicular Arbuscular Mycorrhizal Fungi) — comprehensive reference photos and species descriptions
+- **INVAM** (International Culture Collection of Vesicular Arbuscular [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]) — comprehensive reference photos and species descriptions
 - **BEG** (Banco Español de Glomales) — European collection with online reference materials
 
 ## Ecological Context
 
-AM fungi are foundational to [[fungal-sampling-methods]] to capture the full spectrum of soil fungal diversity.
+AM fungi are foundational to [[fungal-sampling-methods]] to capture the full spectrum of soil [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]].
 
 ## Related
 

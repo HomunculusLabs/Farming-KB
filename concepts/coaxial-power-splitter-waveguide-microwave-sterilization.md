@@ -1,5 +1,5 @@
 ---
-title: Coaxial Power Splitter and Waveguide System in Microwave Sterilization
+title: Coaxial Power Splitter and Waveguide System in nasa-microwave-sterilization-challenge-organisms-kill-kinetics
 tags: [microwave, engineering, waveguide, coaxial, power-splitter, sterilization, antenna]
 source: sterilizing-surfaces-by-irradiation-with-microwaves
 created: 2026-05-08
@@ -7,7 +7,7 @@ created: 2026-05-08
 
 # Coaxial Power Splitter and Waveguide System in Microwave Sterilization
 
-The microwave transmission system in the NASA surface sterilization apparatus
+The microwave transmission system in the NASA [[challenge-organisms-nasa-microwave-surface-sterilization-testing]] apparatus
 (MSC-22484) employs a waveguide and coaxial power splitting architecture to
 distribute 2.45 GHz microwave energy from a single magnetron source to multiple
 dipole antennas positioned around the target surface. This transmission chain
@@ -62,7 +62,7 @@ the adapter and the power splitter. Key characteristics include:
   coaxial cables of equivalent size, important for sterilization applications
   requiring sustained high-power exposure
 - **Directional control**: The waveguide directs energy precisely toward the
-  power splitter and antenna array
+  power splitter and [[dipole-antenna-array-configuration-microwave-surface-sterilization]]
 - **Rigid construction**: Unlike flexible coaxial cables, waveguides maintain
   precise geometry and impedance characteristics
 
@@ -116,11 +116,11 @@ requires careful attention to:
 - **Antenna spacing**: Too close and fields overlap destructively; too far
   and gaps in coverage develop
 - **Surface geometry**: Complex surface geometries (such as the mating
-  surfaces of the Microwave Sterilizable Access Port) require careful
+  surfaces of the [[aseptic-specimen-transfer-space-environment-microwave-sterilizable-access-port]] Access Port) require careful
   antenna positioning to ensure all surfaces receive adequate exposure
-- **Reflective materials**: The use of microwave-reflective materials around
+- **[[cervantes-reflective-materials-grow-room-walls]]**: The use of microwave-reflective materials around
   the target can redirect energy into shadow zones, improving coverage
-- **Transparent materials**: Microwave-transparent materials allow energy to
+- **[[microwave-reflective-transparent-materials-surface-sterilization]]**: Microwave-transparent materials allow energy to
   pass through to reach surfaces that are not directly visible to the antennas
 
 ## Standing Waves and VSWR

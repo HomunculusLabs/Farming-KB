@@ -1,5 +1,5 @@
 ---
-title: Ligninolytic Enzymes in Fungal Bioremediation
+title: singh-ligninolytic-enzymes-fungal-bioremediation in staycare-composting-as-a-fungal-bioremediation-strategy
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -8,17 +8,17 @@ sources: [/Users/t3rpz/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal
 ---
 # Ligninolytic Enzymes in Fungal Bioremediation
 
-The ligninolytic enzyme system of [[fungal-environmental-sensing]]. These extracellular enzymes evolved to depolymerize lignin -- one of nature's most resistant polymers -- and their non-specific oxidative chemistry enables them to transform a remarkably wide range of xenobiotic compounds.
+The ligninolytic enzyme system of fungal-environmental-sensing. These extracellular enzymes evolved to depolymerize lignin -- one of nature's most resistant polymers -- and their non-specific oxidative chemistry enables them to transform a remarkably wide range of xenobiotic compounds.
 
 ## The Three Major Ligninolytic Enzymes
 
 ### Lignin Peroxidase (LiP, EC 1.11.1.14)
-- **Discovery:** First purified from Phanerochaete chrysosporium by Tien and Kirk (1983)
+- **Discovery:** First purified from [[staycare-phanerochaete-chrysosporium-in-bioremediation]] by Tien and Kirk (1983)
 - **Mechanism:** Catalyzes one-electron oxidation of non-phenolic aromatic substrates via a veratryl alcohol-mediated cycle
 - **Redox potential:** Very high (>1.4V) -- can oxidize substrates with high ionization potentials
 - **Substrate range:** Phenolic and non-phenolic aromatics, including PAHs, chlorophenols, and various xenobiotics
 - **Cofactors:** Heme group, requires H2O2
-- **Mediator system:** Veratryl alcohol acts as a diffusible redox mediator, extending the enzyme's effective range
+- **Mediator system:** Veratryl alcohol acts as a diffusible [[staycare-fungal-redox-mediator-chemistry-pollutant-degradation]], extending the enzyme's effective range
 - **Physiological role:** Oxidation of non-phenolic lignin units (which comprise ~90% of lignin)
 
 ### Manganese Peroxidase (MnP, EC 1.11.1.13)
@@ -36,19 +36,19 @@ The ligninolytic enzyme system of [[fungal-environmental-sensing]]. These extrac
 - **Redox potential:** Variable among species; higher redox potential laccases (>0.7V) can oxidize non-phenolic substrates
 - **Substrate range:** Phenolic compounds, aromatic amines, and -- with mediators -- non-phenolic aromatics
 - **Mediator systems:** 1-hydroxybenzotriazole (HBT), ABTS, and natural mediators expand laccase substrate range
-- **Commercial relevance:** Widely used in [[fungal-methylation-oxidative-coupling]])
+- **Commercial relevance:** Widely used in fungal-methylation-oxidative-coupling)
 - Laccase dechlorinates chlorophenols with mediator assistance
 
 ### Dye Decolorization
 - All three enzymes decolorize synthetic dyes
-- Laccase is particularly effective for [[fungal-bioreactor-effluent-treatment]]
+- Laccase is particularly effective for fungal-bioreactor-effluent-treatment
 
 ## See Also
 
-- [[white-rot-fungi-effluent-decolorization]]
+- white-rot-fungi-effluent-decolorization
 - [[fungal-degradation-chlorophenols-btex]]
-- [[fungal-methylation-oxidative-coupling]]
-- [[cotter-mycoremediation-overview]] processes. Direct cultivation methods on agar plates may not accurately represent the in situ structure and diversity of fungal communities, and mycorrhizal fungi are reluctant to grow on agar plates. Novel methods are therefore necessary to study the in situ behavior of fungi in processes related to ecology, decomposition, and bioremediation.
+- fungal-methylation-oxidative-coupling
+- [[cotter-mycoremediation-overview]] processes. Direct [[synthetic-log-cultivation-methods-guide]] on agar plates may not accurately represent the in situ structure and diversity of [[biodiversity-of-fungi-soil-fungal-communities-agriculture]], and mycorrhizal fungi are reluctant to grow on agar plates. Novel methods are therefore necessary to study the in situ behavior of fungi in processes related to ecology, decomposition, and bioremediation.
 
 ## Immunological Assays
 
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

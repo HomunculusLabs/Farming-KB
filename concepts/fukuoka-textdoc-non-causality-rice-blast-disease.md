@@ -34,8 +34,8 @@ copper or mercury agents to dispel the disease. Over time, this has
 escalated to the application of pesticides several times a year as a
 panacea. Steady improvement in pesticides has led directly to the
 present state of affairs where these chemicals are applied routinely
-throughout the growing season, transforming what was once a sporadic
-intervention into a permanent feature of rice cultivation.
+throughout the [[savory-growing-season-and-non-growing-season-management]], transforming what was once a sporadic
+intervention into a permanent feature of [[jadam-rice-cultivation-methods]].
 
 ## The Infinite Chain of Causation
 
@@ -53,10 +53,10 @@ that spirals further from resolution.
 
 - **High temperatures and heavy rainfall** may contribute to
 outbreaks by creating conditions favorable to the pathogen while
-simultaneously weakening the host plant through heat stress and
+simultaneously weakening the host plant through [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]] and
 waterlogging
 - **Over-application of nitrogenous fertilizers** may weaken plant
-resistance by promoting excessive soft vegetative growth that is more
+resistance by promoting excessive soft [[cannabis-vegetative-growth-stage]] that is more
 vulnerable to infection, creating lush tissue that the fungus easily
 colonizes
 - **Flooding of the paddy during high temperature periods** may
@@ -111,7 +111,7 @@ fundamental inversion of proper inquiry.
 
 Fukuoka's principle of non-causality states that when there is no
 front or back, no beginning or end, only what resembles a circle or
-sphere, one could say there is unity of cause and effect, but one could
+sphere, one could say there is unity of [[fukuoka-textdoc-no-cause-and-effect-in-nature]], but one could
 equally claim that cause and effect do not exist. To the scientific mind
 trained to believe in causality, there most certainly is a way to combat
 rice blast bacteria. Yet when man perceives rice disease as a nuisance
@@ -122,7 +122,7 @@ subsequent errors.
 ## Implications for Modern Agriculture
 
 This framework challenges the entire edifice of modern plant
-pathology and integrated pest management. If causality in crop disease
+pathology and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management. If causality in crop disease
 is an illusion created by the fragmented perspective of the scientific
 observer, then the entire enterprise of targeted chemical intervention
 rests on a false foundation. The practical implication is that farmers

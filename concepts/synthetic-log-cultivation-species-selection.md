@@ -3,7 +3,7 @@ title: Synthetic Log Cultivation Species Selection
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - "A Practical Guide for Synthetic-Log Cultivation of Medicinal Mushroom Grifola frondosa (Maitake) - Alice W. Chen, 1999"
+  - "A Practical Guide for Synthetic-Log Cultivation of gourmet-medicinal-mushroom-casing-layer-techniques maitake-grifola-frondosa-comprehensive-profile (Maitake) - Alice W. Chen, 1999"
 type: concept
 tags: [cultivation, species]
 ---
@@ -17,10 +17,10 @@ A mushroom species consists of many strains, each with a distinct genotype and p
 Key factors varying among strains:
 
 - **Growth rate:** Fast-growing strains complete spawn run in approximately 30 days; many require 60-90 days or more.
-- **Yield:** Considerable differences in biological efficiency between strains.
+- **Yield:** Considerable differences in [[stamets-biological-efficiency-yield]] between strains.
 - **Temperature requirements:** Fruiting temperature ranges vary: 8-15 C (some strains), 10-15.6 C with upper limit 18 C (North American), 16-18 C (Japanese), 15-20 C (Chinese strains). Finding the optimal fruiting temperature for a given strain is essential.
 - **Fruiting body features:** Cap color (light gray, grayish white, light brownish yellow), shape of caps, branching patterns, and cluster morphology all vary by strain.
-- **Spawn run duration:** Strains with 30-day spawn runs before primordia initiation are considered fast-growing.
+- **Spawn run duration:** Strains with 30-day spawn runs before [[chen-maitake-primordia-initiation-fruiting]] are considered fast-growing.
 
 ## Testing Strains Before Production
 
@@ -44,10 +44,10 @@ Wild-isolated strains should be rigorously tested for fruiting ability before pr
 
 Maitake cultivation is more demanding than many other [[mushroom-cultivation-in-kenya]]:
 
-- **vs. Oyster (Pleurotus spp.):** Most oyster strains fruit readily on a wide range of substrates; maitake requires carefully formulated hardwood sawdust with specific supplements and precise environmental control at each morphogenetic transition.
+- **vs. Oyster (Pleurotus spp.):** Most oyster strains fruit readily on a wide range of substrates; maitake requires carefully formulated hardwood sawdust with specific supplements and precise [[eclss-environmental-control-life-support]] at each morphogenetic transition.
 - **vs. Shiitake (Lentinula edodes):** Shiitake has well-established protocols on both natural and synthetic logs with more predictable fruiting; maitake requires dedicated growing rooms not shared with other species.
 - **vs. Reishi (Ganoderma spp.):** More reishi strains fruit reliably with a longer but less demanding cultivation cycle; maitake's narrow fruiting temperature range and high oxygen demand create more exacting requirements.
-- **vs. Button mushroom (Agaricus bisporus):** The standard commercial mushroom grows on composted substrates at moderate temperatures; maitake's aerobic nature and temperate-zone biology require fundamentally different substrate and environmental management.
+- **vs. Button mushroom ([[genetic-improvement-agaricus-bisporus-molecular-approaches]]):** The standard commercial mushroom grows on composted substrates at moderate temperatures; maitake's aerobic nature and temperate-zone biology require fundamentally different substrate and environmental management.
 
 ## Practical Recommendations
 
@@ -58,7 +58,7 @@ Maitake cultivation is more demanding than many other [[mushroom-cultivation-in-
 - [[maitake-grifola-frondosa-comprehensive-profile]]
 - [[maitake-cancer-clinical-research]]
 - [[mushroom-cultivation-basics]]
-- [[spawn-generation-techniques]]
+- [[shiitake-mushroom-cultivation]]
 - [[synthetic-log-mushroom-cultivation]]
 - [[basidiomycete-phylum-guide]]
 ## Practical Considerations
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

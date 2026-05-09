@@ -1,5 +1,5 @@
 ---
-title: "Comprehensive Tree Species Guide for Mushroom Cultivation"
+title: "Comprehensive Tree Species Guide for accessible-mushroom-cultivation-for-disabilities"
 created: 2026-04-26
 tags:
   - mushroom-cultivation
@@ -16,7 +16,7 @@ type: concept
 # Comprehensive Tree Species Guide for Mushroom Cultivation
 
 A vast variety of woods can be used for growing gourmet and
-medicinal mushrooms. Generally speaking, the hardwoods are
+[[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]. Generally speaking, the hardwoods are
 more useful than the softwoods. Several wood types may not
 perform by themselves, but when combined with more suitable
 woods and boosted with a nutritional supplement, will give
@@ -29,7 +29,7 @@ include:
 
 - **Alders** (Alnus spp.) -- Fast-growing, rapidly
   decomposing "weed tree." Red alder is a primary
-  substrate in western North America.
+  substrate in western [[psilocybin-north-america-pacific-northwest]].
 - **Birches** (Betula spp.) -- Including yellow, sweet,
   river, paper, European, and hairy birch. Rapidly
   decomposing but with paper-thin bark that can be
@@ -89,7 +89,7 @@ will fruit on most conifers.
 
 - **Aromatic hardwoods** such as eucalyptus are not
   recommended until we better understand why some people
-  become ill from eating otherwise edible mushrooms grown
+  become ill from eating otherwise [[palmer-edible-mushrooms-north-america]] grown
   on this substrate.
 - **Cedars and redwoods** decompose slowly due to
   anti-rotting compounds. These same compounds stifle
@@ -103,7 +103,7 @@ will fruit on most conifers.
 
 A simple 50:50 mixture (by volume) of sawdust and chips,
 of varying particle sizes, provides the best structure for
-the mushroom habitat. The smaller particles stimulate quick
+the [[psilocybin-mushroom-habitat-and-ecology]]. The smaller particles stimulate quick
 growth ("leap-off"). The larger particles encourage the
 mycelium to form thick, cord-like strands called
 rhizomorphs. The larger chips become nutritional bases and
@@ -121,7 +121,7 @@ the mushrooms.
 Wood chips from county roads with little traffic are less
 prone to this heavy metal contamination. Sawmills and pulp
 chip companies provide the cleanest source of wood debris
-for substrate preparation.
+for [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]].
 
 ## Fast vs. Slow Decomposing Woods
 
@@ -138,5 +138,9 @@ See also: [[growing-gourmet-substrate-preparation]]
 See also: [[shiitake-mushroom-cultivation]]
 
 ## See Also
+
+- [[growing-gourmet-poisonous-mushroom-lookalikes]]
+
+- [[growing-gourmet-tree-oyster-ostreatus-species-profile]]
 
 - [[mushroom-cultivation-photographic-guide]]

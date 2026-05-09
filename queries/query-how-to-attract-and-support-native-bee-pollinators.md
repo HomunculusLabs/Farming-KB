@@ -65,18 +65,18 @@ Native bees need nectar and pollen from early spring through late fall. Aim for 
 - Wild geranium (*Geranium maculatum*)
 - Virginia bluebells (*Mertensia virginica*)
 - Serviceberry (*Amelanchier* spp.)
-- Bloodroot (*Sanguinaria canadensis*)
+- Bloodroot (*[[sanguinaria-canadensis]]*)
 - Spring beauty (*Claytonia virginica*)
 - Creeping phlox (*Phlox subulata*)
 
 ### Summer (June–August)
-- Purple coneflower (*Echinacea purpurea*)
+- Purple coneflower (*[[echinacea-purpurea]]*)
 - Black-eyed Susan (*Rudbeckia hirta*)
-- Wild bergamot (*Monarda fistulosa*)
+- Wild bergamot (*[[monarda-fistulosa]]*)
 - Bee balm (*Monarda* spp.)
 - Joe-Pye weed (*Eutrochium purpureum*)
-- Anise hyssop (*Agastache foeniculum*)
-- Common milkweed (*Asclepias syriaca*)
+- Anise hyssop (*[[agastache-foeniculum]]*)
+- Common milkweed (*[[asclepias-syriaca]]*)
 - Giant sunflower (*Helianthus giganteus*)
 
 ### Fall (September–November)
@@ -84,7 +84,7 @@ Native bees need nectar and pollen from early spring through late fall. Aim for 
 - Goldenrod (*Solidago* spp.) — critically important late-season resource
 - Smooth aster (*Symphyotrichum laeve*)
 - Ironweed (*Vernonia noveboracensis*)
-- Maximilian sunflower (*Helianthus maximiliani*)
+- Maximilian sunflower (*[[helianthus-maximiliani]]*)
 - Asters of many species
 
 **Planting principles:**

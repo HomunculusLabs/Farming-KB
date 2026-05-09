@@ -1,19 +1,20 @@
 ---
-title: Fukuoka on Spiritual Aspects of Farming and Nature Connection
+title: Fukuoka on fukuoka road spiritual aspects farming of Farming and Nature Connection
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
 tags: [spiritual, god, nature, farming, philosophy, fukuoka, religion]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka on Spiritual Aspects of Farming and Nature Connection
 
-In [[natural-farming-fukuoka]] makes explicit what was only implicit in his earlier work: that natural farming is fundamentally a spiritual practice. The book is structured around the relationship between God, nature, and man — three entities Fukuoka insists were "originally one indivisible" but have been "recklessly split apart" by human intellectual activity.
+In [[natural-farming-fukuoka]] makes explicit what was only implicit in his earlier work: that [[natural-farming]] is fundamentally a spiritual practice. The book is structured around the relationship between God, nature, and man — three entities Fukuoka insists were "originally one indivisible" but have been "recklessly split apart" by human intellectual activity.
 
 ## The Revelation
 
-Fukuoka reveals for the first time the foundational experience of his life: "I received a revelation of God one moment fifty years ago." He was "so taken aback by the vision I saw that I failed to advance along the road I should have." Instead, he "turned my back on God and tried to follow quietly the path of a solitary farmer." He now calls the road he passed over "the road back to nature" and confesses to having "grown arrogant" in "professing to practice natural farming."
+Fukuoka reveals for the first time the foundational experience of his life: "I received a revelation of God one moment fifty years ago." He was "so taken aback by the vision I saw that I failed to advance along the road I should have." Instead, he "turned my back on God and tried to follow quietly the path of a solitary farmer." He now calls the road he passed over "the road back to nature" and confesses to having "grown arrogant" in "professing to practice [[comparison-natural-farming-vs-permaculture]]."
 
 ## God, Nature, and Man as One
 
@@ -33,7 +34,7 @@ Visitors to Fukuoka's orchard "call this an Eden, a paradise on Earth." When spr
 
 ## God Knows Neither Space Nor Time
 
-Fukuoka insists that God "makes decisions from a standpoint that transcends space and time." This is why all human scientific and technological efforts — including genetic engineering and artificial intelligence — are "imperfect creatures caught within the domain of the concepts of space and time." Computers are "merely machines which make erroneous decisions that differ fundamentally from the decisions and aims of God."
+Fukuoka insists that God "makes decisions from a standpoint that transcends space and time." This is why all human scientific and technological efforts — including [[fukuoka-textdoc-genetic-engineering-critique-warning]] and artificial intelligence — are "imperfect creatures caught within the domain of the concepts of space and time." Computers are "merely machines which make erroneous decisions that differ fundamentally from the decisions and aims of God."
 
 ## Touching the Great Spirit
 

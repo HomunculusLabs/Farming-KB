@@ -21,7 +21,7 @@ type: concept
 
 # Attaining the Natural Form of Fruit Trees
 
-Fukuoka's research into the natural forms of fruit trees represents one of his most significant practical contributions to orcharding. His discovery that most fruit trees naturally grow in a central leader form, contrary to the open-centered systems advocated by specialists, led him to develop methods for training trees to forms that require minimal or no pruning.
+Fukuoka's research into the natural forms of fruit trees represents one of his most significant practical contributions to orcharding. His discovery that most fruit trees naturally grow in a [[comparison-central-leader-vs-open-center-fruit-tree-training]] form, contrary to the open-centered systems advocated by specialists, led him to develop methods for training trees to forms that require minimal or no pruning.
 
 ## The Search for Natural Form
 
@@ -33,7 +33,7 @@ It was relatively easy to determine that the natural form of most deciduous frui
 
 ## The Failure of Abandonment
 
-Fukuoka first tried applying natural farming methods to an established grove of Satsuma orange trees with a couple of hundred trees to the acre. Trees at the time were trimmed in the shape of a wineglass and the height held to about six or seven feet.
+Fukuoka first tried applying [[natural-farming]] methods to an established grove of Satsuma orange trees with a couple of hundred trees to the acre. Trees at the time were trimmed in the shape of a wineglass and the height held to about six or seven feet.
 
 When he simply discontinued pruning, large numbers of scaffold branches and laterals grew out at once. Before he knew it, these began crisscrossing, doubling back, and growing in strange, twisted shapes. Places where the branches and leaves grew tangled became disease sites and drew insects.
 
@@ -63,7 +63,7 @@ People have merely been misled by the various forms these fruit trees have taken
 
 The shaddock and summer orange tend to have an upright central trunk and a height greater than the spread, sometimes resembling a cedar in aspect. The Satsuma orange generally has an irregularly flattened or hemispherical shape.
 
-This basic central leader type conical shape can occur in an essentially infinite number of variations depending on the type of tree and the cultivation conditions. The fact that few mandarin orange trees grown in their natural form take on a central leader type form indicates that these trees have weak terminal bud dominance and tend to develop an open crown.
+This basic central leader type conical shape can occur in an essentially infinite number of variations depending on the type of tree and the cultivation conditions. The fact that few [[fukuoka-mandarin-orange-citrus]] trees grown in their natural form take on a central leader type form indicates that these trees have weak terminal bud dominance and tend to develop an open crown.
 
 They are frutescent, having several scaffold branches extending with equal vigor that produce a confused form. While many types of trees fully retain their innate character, other trees have natural forms that are easily upset during cultivation.
 
@@ -73,7 +73,7 @@ They are frutescent, having several scaffold branches extending with equal vigor
 
 The very first thing one must do when preparing to grow a type of fruit tree by natural farming methods is to know the natural form for that fruit tree. For Satsuma orange trees, the scaffold branches do not grow very straight and there is great individual variation.
 
-To determine the natural form of citrus, Fukuoka looked at a cross-section of hardier and more vigorous citrus varieties than the Satsuma orange. The summer orange and the shaddock were especially useful in this regard. Both are clearly of the central leader type.
+To determine the natural form of citrus, Fukuoka looked at a cross-section of hardier and more vigorous [[query-best-citrus-varieties-for-different-climates]] than the Satsuma orange. The summer orange and the shaddock were especially useful in this regard. Both are clearly of the central leader type.
 
 ### Step 2: Begin with Proper Planting
 
@@ -89,7 +89,7 @@ Cutting the first one or two shoots is very important because it can determine t
 
 Trees that show normal, steady growth right from the start assume a nearly natural form and can thereafter be left alone. It is not through abandonment that a cultivated tree takes on a natural form, but only through the most careful attention and protection during the formative years.
 
-When something causes a tree to take on a shape that deviates from the natural form, any pruning and training done should attempt to return the tree to its natural form.
+When something causes a tree to take on a shape that deviates from the natural form, any [[fruit-tree-pruning-training]] done should attempt to return the tree to its natural form.
 
 ## Advantages of the Natural Form
 
@@ -115,7 +115,7 @@ When Fukuoka reported his findings at a meeting of the Ehime Prefectural Fruit G
 
 He was to sacrifice about 400 citrus trees, roughly half of those in his care, in his search for the natural form. The natural form is constant and unchanging in natural farming and permits pruning to be dispensed with entirely.
 
-Whatever new pruning techniques may arise in the future, knowing the true natural form of citrus and other fruit trees and how to train a tree to its natural form can never be a disadvantage. Even when performing surgery on a tree in a mechanized orchard, it makes more sense to work on a tree trained on a single stem than to allow the tree to grow as much as it can and later cut it with a saw.
+Whatever new [[pruning-techniques-organic]] may arise in the future, knowing the true natural form of citrus and other fruit trees and how to train a tree to its natural form can never be a disadvantage. Even when performing surgery on a tree in a mechanized orchard, it makes more sense to work on a tree trained on a single stem than to allow the tree to grow as much as it can and later cut it with a saw.
 
 ## Related Concepts
 

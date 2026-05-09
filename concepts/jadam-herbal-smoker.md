@@ -1,5 +1,5 @@
 ---
-title: JADAM Herbal Smoker
+title: JADAM jadam-herbal-smoker-livestock
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -14,7 +14,7 @@ The herbal smoker is a simple device that burns plant material to produce pestic
 ## What It Controls
 
 The herbal smoker is particularly effective against:
-- Spider mites (Tetranychus urticae)
+- [[cervantes-spider-mites-identification-control]] (Tetranychus urticae)
 - Silverleaf whitefly (Bemisia tabaci)
 - Greenhouse whitefly (Trialeurodes vaporariorum)
 - Leaf miner flies
@@ -23,7 +23,7 @@ These tiny pests are difficult to reach with liquid sprays because they hide in 
 
 ## When to Use
 
-- Winter greenhouse pest control (primary use case)
+- [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]] [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] (primary use case)
 - Any time in greenhouses when liquid sprays would cause excess humidity
 - After 7 pm on a cloudy day (smoke sinks on cloudy days, more effective)
 - Can be used year-round but is most critical in cold months
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

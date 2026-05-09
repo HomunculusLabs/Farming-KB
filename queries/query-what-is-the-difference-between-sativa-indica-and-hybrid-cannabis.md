@@ -1,5 +1,5 @@
 ---
-title: "What Is the Difference Between Sativa, Indica, and Hybrid Cannabis?"
+title: "What Is the query what is the difference between sativa indica and hybrid cannabis, Indica, and Hybrid Cannabis?"
 created: 2026-04-28
 tags: [query, cannabis, genetics, breeding, taxonomy]
 date: 2026-04-25
@@ -16,14 +16,14 @@ Sativa and indica are the two most commonly recognized cannabis types, with sati
 
 ## Historical Classification
 
-The distinction between sativa and indica originates from historical cannabis taxonomy.
+The distinction between sativa and indica originates from historical [[clarke-marijuana-botany-cannabis-taxonomy-and-genetics]].
 
-- Jean-Baptiste Lamarck classified Cannabis sativa in 1785 as tall plants from equatorial regions
+- Jean-Baptiste Lamarck classified [[comparison-cannabis-sativa-vs-cannabis-indica]] in 1785 as tall plants from equatorial regions
 - He described Cannabis indica in 1785 as shorter, broad-leafleted plants from Central Asia
 - These morphological differences remain the most reliable way to distinguish the types
 - Modern genetic research has revealed a more complex picture than this simple binary
 
-The [[cannabis-indica]] details the indica subspecies and its origins in the Hindu Kush mountain range.
+The [[cannabis-indica]] details the indica subspecies and its origins in the [[cannabis-hindu-kush-strain-description-clarke]] mountain range.
 
 ## Morphological Differences
 
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,10 +1,11 @@
 ---
-title: Fukuoka Diet Blood Thought and Civilization
+title: Fukuoka fukuoka diet blood thought civilization Thought and Civilization
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [diet, philosophy, civilization]
-sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka Diet, Blood, Thought, and Civilization

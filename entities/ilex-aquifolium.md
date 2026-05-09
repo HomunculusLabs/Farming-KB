@@ -32,7 +32,7 @@ The species is dioecious, requiring separate male and female plants for fruit pr
 
 In dense forest conditions, holly adopts a narrow, columnar form. In open, exposed sites, it develops a broader, more spreading crown with a shorter trunk and numerous low branches.
 
-**Leaves:** Alternate, simple, leathery, 5–12 cm long and 2–6 cm wide. Margin is variably spiny with 3–8 sharp teeth per side, though upper canopy leaves on mature trees are often entire. Leaf surface is dark green and glossy above, paler and matte below.
+**Leaves:** Alternate, simple, leathery, 5–12 cm long and 2–6 cm wide. Margin is variably spiny with 3–8 sharp teeth per side, though upper canopy leaves on mature trees are often entire. [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is dark green and glossy above, paler and matte below.
 
 **Flowers:** Dioecious, appearing May–August. Male flowers are in axillary cymes of 3–7, with four white petals and prominent stamens. Female flowers are solitary or in pairs, with a superior ovary.
 
@@ -48,11 +48,11 @@ In Atlantic-climate regions, holly is a characteristic component of hedgerow flo
 
 Holly thrives on well-drained, acidic to neutral soils. It is notably tolerant of maritime exposure, salt spray, and atmospheric pollution, making it a common feature of coastal hedgerows in western Britain and Ireland.
 
-In its native range, it typically occurs at elevations from sea level to approximately 800 m, occasionally reaching 1500 m in Mediterranean mountain ranges. The species is naturalized in parts of North America, Australia, and New Zealand.
+In its native range, it typically occurs at elevations from sea level to approximately 800 m, occasionally reaching 1500 m in Mediterranean mountain ranges. The species is naturalized in parts of [[psilocybin-north-america-pacific-northwest]], Australia, and New Zealand.
 
 ## Cultivation
 
-Holly is one of the most widely planted ornamental evergreens in temperate regions. Over 1000 cultivars have been described, selected for variegated foliage, berry color, growth habit, and cold hardiness.
+Holly is one of the most widely planted ornamental evergreens in temperate regions. Over 1000 cultivars have been described, selected for variegated foliage, berry color, growth habit, and [[coleman-cold-hardiness-testing-ratings]].
 
 The species serves as an important windbreak and privacy screen in gardens and estates across Europe and North America. Its dense, spiny foliage creates an effective barrier against deer and livestock browsing.
 
@@ -60,7 +60,7 @@ Holly hedges have been used for centuries in European agricultural landscapes to
 
 Popular cultivars include 'Argentea Marginata' (silver-margined leaves), 'Golden Queen' (yellow-margined), 'J.C. van Tol' (nearly spineless leaves, self-fertile), and 'Pyramidalis' (fastigiate habit). Variegated forms are particularly valued in formal and residential landscaping.
 
-Propagation is primarily by semi-hardwood cuttings taken in late summer or autumn, though seed germination requires 12–18 months of stratification. Male and female plants must both be planted for fruit production, unless self-fertile cultivars are selected.
+Propagation is primarily by semi-hardwood cuttings taken in late summer or autumn, though [[cannabis-seed-germination-methods]] requires 12–18 months of stratification. Male and female plants must both be planted for fruit production, unless self-fertile cultivars are selected.
 
 The species is relatively slow-growing, typically 15–30 cm per year. It responds well to pruning and is widely used for hedging and topiary. Established plants are drought-tolerant and require minimal maintenance.
 
@@ -70,7 +70,7 @@ Holly is hardy to USDA Zone 6 (-23°C) but can suffer foliage damage at temperat
 
 ## Bioactive Compounds
 
-Holly leaves and berries contain a range of bioactive secondary metabolites. The most notable are triterpenoid saponins, particularly ilexosides and similar compounds found throughout the Aquifoliaceae.
+Holly leaves and berries contain a range of bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]]. The most notable are triterpenoid saponins, particularly ilexosides and similar compounds found throughout the Aquifoliaceae.
 
 Leaves contain theobromine, a xanthine alkaloid also found in cacao and tea, at concentrations of approximately 0.5–1.5% dry weight. Theobromine has mild stimulant and diuretic properties and is responsible for much of holly's traditional medicinal activity.
 
@@ -90,7 +90,7 @@ European holly holds deep symbolic significance across multiple cultures. In pre
 
 The Roman festival of Saturnalia (December 17–23) featured holly as a decorative element symbolizing goodwill. This tradition was absorbed into Christian Christmas celebrations, where holly became associated with the crown of thorns and the blood of Christ.
 
-Holly was widely planted near dwellings in Britain and Ireland as a protective charm against lightning, witchcraft, and evil spirits. The belief that cutting down a holly tree brought bad luck persisted into the 20th century in rural areas.
+Holly was widely planted near dwellings in Britain and Ireland as a protective charm against lightning, witchcraft, and evil spirits. The belief that cutting down a holly tree [[fukuoka-spaniards-brought-bad-grasses]] luck persisted into the 20th century in rural areas.
 
 The Druids regarded holly as a sacred tree, symbolizing eternal life and protection. Sprigs of holly were worn as crowns during winter ceremonies, a practice that continued in modified form through medieval Christmas celebrations.
 

@@ -1,5 +1,5 @@
 ---
-title: Permaculture Plant Guilds and Companion Planting
+title: Permaculture Plant Guilds and comparison-companion-planting-reference-vs-jadam-monoculture-critique
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -32,15 +32,15 @@ provides materials for new trees to grow.
 
 ## The Three Sisters Guild
 
-The quintessential crop guild is the traditional Native American planting of
+The quintessential crop guild is the traditional Native native american planting methods and indigenous agriculture of
 corn, beans, and squash:
 - Corn provides a tall stalk for beans to climb
-- Runner beans trellis up the corn stalks and fix nitrogen that is being lost
+- Runner beans trellis up the corn stalks and [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] that is being lost
   to the soil from the corn
 - Squash spreads along the ground as a living mulch, suppressing weeds and
   conserving moisture
 - The three together produce more calories per unit area than any grown alone
-- Pest and disease pressure is reduced through biodiversity
+- [[hamilton-pest-and-disease-control-organic]] pressure is reduced through biodiversity
 
 ## The Apple Orchard Guild
 
@@ -58,7 +58,7 @@ A practical orchard guild combines:
 Relative location is the principle that the placement of elements in relation
 to each other matters more than the elements themselves. The goal is to figure
 out how as many elements in a system can work together as possible.
-In the production garden, a five-year crop rotation maintains soil fertility:
+In the production garden, a five-year [[comparison-crop-rotation-vs-cover-cropping]] maintains soil fertility:
 corn is followed by beans, then tomatoes, then squash. Chickens are rotated
 through beds, scratching up ground, eating pests, and fertilizing soil between
 crops. The same crop is never grown in a bed two years in a row to break pest
@@ -90,7 +90,7 @@ Energies and materials always accumulate at the edges -- soil and debris are
 blown by wind against fences or walls. Increased edge creates more surface
 area, more microclimates, and more productive landscapes. When building garden
 beds or ponds, edge is taken into account by avoiding simple rectangles or
-circles in favor of more complex shapes like [[tagasaste]], mesquite, [[carob]], honey locust, autumn olive, russian olive, sesbania
+circles in favor of more complex shapes like tagasaste, mesquite, carob, honey locust, autumn olive, russian olive, sesbania
 - Shrubs: siberian pea shrub, tree medic, pigeon pea, lab-lab bean
 - Herbaceous: clover, lucerne/alfalfa, vetch, lupin, beans, peas, fenugreek
 
@@ -98,9 +98,15 @@ circles in favor of more complex shapes like [[tagasaste]], mesquite, [[carob]],
 - Tobacco -- insecticide
 - Derris root (Derris elliptica) -- insecticide
 - Rhubarb -- insecticide
-- Sunn hemp (Crotalaria juncea) -- nematode control through root exudate
+- Sunn hemp (Crotalaria juncea) -- nematode control through [[amf-biocontrol-phytophthora-root-exudate-modification]]
 
 ### Hedge and Barrier Plants
 
 Plants for windbreaks, privacy screens, and animal barriers:
 - Hedging: taupata, alder, hazel, russian olive, elderberry, hawthorn,
+## See Also
+- [[companion-planting]]
+- [[building-soil]]
+- [[permaculture-plant-stacking-vertical-guilds]]
+- [[companion-planting-guilds]]
+- [[natural-farming-guide-companion-planting-guilds]]

@@ -22,7 +22,7 @@ Per 100 grams of edible portion: Water - 5.3%, Energy - 594 calories, Carbohydra
 
 ## Climate Requirements
 
-The pistachio requires long, hot summers to produce the best crops, plus winter chilling, needing mean daily temperatures below 7-10 degrees C in the winter. Spring frosts at around the time of flowering are likely to interfere with setting. The pistachio is drought tolerant, although responds well to irrigation.
+The pistachio requires long, hot summers to produce the best crops, plus winter chilling, needing mean daily temperatures below 7-10 degrees C in the winter. Spring frosts at around the time of flowering are likely to interfere with setting. The pistachio is [[permplant-carob-drought-tolerant-food-tree]], although responds well to irrigation.
 
 The chilling requirement ranges from 500 to 1,500 hours below 7 degrees C depending on cultivar. Insufficient winter chill results in delayed and irregular budbreak, reduced fruit set, and poor kernel quality — a problem that is becoming more prevalent in traditional growing regions as winters warm. Conversely, late spring frosts can destroy emerging female flowers, which are susceptible at temperatures below -2 degrees C. Site selection should favor north-facing slopes in warmer climates (to delay flowering and reduce frost risk) and south-facing slopes in cooler areas (to maximize heat accumulation). Wind protection during flowering is also important, as strong winds can disrupt wind pollination despite the fact that pistachios are wind-pollinated — the pollen grains are relatively large and heavy compared to many wind-dispersed pollens.
 
@@ -49,7 +49,7 @@ Trees are propagated by grafting onto the rootstocks of two other species of pis
 Pistachios are relatively pest-resistant compared to other nut crops, but several organisms require management in commercial and permaculture settings:
 
 - **Verticillium wilt** (Verticillium dahliae) is the most serious disease, causing wilting and death of branches. Choosing resistant rootstocks (P. atlantica shows good resistance) and avoiding planting in former solanaceous crop fields are key preventive measures.
-- **Pistachio psylla** (Agonoscena pistaciae) feeds on leaf sap and excretes honeydew that promotes sooty mold growth. Beneficial insects including ladybugs, lacewings, and parasitic wasps provide biological control in diverse food forest systems.
+- **Pistachio psylla** (Agonoscena pistaciae) feeds on leaf sap and excretes honeydew that promotes sooty mold growth. [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] including ladybugs, lacewings, and parasitic wasps provide [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] in diverse food forest systems.
 - **Alternaria late blight** causes leaf spots and defoliation during humid conditions. Proper canopy airflow through pruning and interplant spacing reduces incidence.
 - **Navel orangeworm** (Amyelois transitella) can infest nuts near harvest, particularly when hulls split early. Timing harvest promptly after hull split and removing fallen nuts from the orchard floor breaks the pest cycle without chemical intervention.
 
@@ -63,12 +63,12 @@ Pistachios are relatively pest-resistant compared to other nut crops, but severa
 
 **Pistacia chinensis** (Chinese pistachio, Huang-lien-mu) -- This deciduous native of China grows to a height of 14 m. It prefers a light well drained soil. The nuts are eaten roasted, the leaves and young shoots are eaten as a vegetable.
 
-**Pistacia lentiscus** (Mastic tree) -- An evergreen shrub or small tree native to the Mediterranean region, growing to 4 m. It is extremely drought tolerant and thrives on poor, rocky soils where other species struggle. The mastic resin harvested from this species has been commercially valued for over 2,500 years and is used in chewing gum, varnishes, and traditional medicine. The berries are edible and have been used to make a traditional liqueur on the Greek island of Chios. P. lentiscus is also a useful component in [[permaculture-dryland-strategies]] suitable nut trees due to high drought and salt tolerance
+**Pistacia lentiscus** (Mastic tree) -- An evergreen shrub or small tree native to the Mediterranean region, growing to 4 m. It is extremely drought tolerant and thrives on poor, rocky soils where other species struggle. The mastic resin harvested from this species has been commercially valued for over 2,500 years and is used in chewing gum, varnishes, and traditional medicine. The berries are edible and have been used to make a traditional liqueur on the Greek island of Chios. P. lentiscus is also a useful component in permaculture-dryland-strategies suitable nut trees due to high drought and salt tolerance
 - Dioecious nature requires strategic planting: 1 male to 9 females at 8 m spacing
 - Long-lived tree producing for decades once established
 - High protein (19.3%) and fat (53.7%) content make it a calorie-dense staple
 - Pair with [[permaculture-olive-guide]] for Mediterranean dryland food forests
-- Can be integrated into [[permaculture-ground-cover-plants]] during the 5-15 year establishment period
+- Can be integrated into permaculture-ground-cover-plants during the 5-15 year establishment period
 
 ## Establishing a Pistachio Food Forest
 
@@ -81,9 +81,9 @@ During the long establishment period, the space between young pistachio trees ca
 - **Aromatic herbs** (lavender, rosemary, thyme) attract pollinators and may deter pests with volatile oils
 - **Small fruits** (figs, pomegranates) can produce within 3-5 years while pistachios mature
 
-The root architecture of mature pistachio trees also creates beneficial conditions for mycorrhizal networks. Deep-rooted pistachios and shallow-rooted understory species together support a vertically stratified fungal community, enhancing overall nutrient cycling. This principle of root zone complementarity is central to food forest design and mirrors the successional patterns described in [[cotter-mycoremediation-overview]] and ecological wastewater treatment.
+The root architecture of mature pistachio trees also creates beneficial conditions for mycorrhizal networks. Deep-rooted pistachios and shallow-rooted understory species together support a vertically stratified fungal community, enhancing overall nutrient cycling. This principle of root zone complementarity is central to food forest design and mirrors the successional patterns described in [[cotter-mycoremediation-overview]] and ecological [[mollison-designers-wastewater-treatment-wetlands]].
 
-The global pistachio market has grown steadily, with demand increasing as consumers shift toward plant-based proteins and healthy fats. For permaculture designers, this economic viability supports the case for including pistachios as long-term productive elements in food forest designs, where their 5-15 year establishment period represents a long-term investment in perennial food security. With proper site selection, rootstock choice, and companion planting, a pistachio food forest can produce for 50-100 years or more, making it one of the most enduring investments in a permaculture landscape.
+The global pistachio market has grown steadily, with demand increasing as consumers shift toward plant-based proteins and healthy fats. For permaculture designers, this economic viability supports the case for including pistachios as long-term productive elements in food forest designs, where their 5-15 year establishment period represents a long-term investment in perennial food security. With proper site selection, rootstock choice, and [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]], a pistachio food forest can produce for 50-100 years or more, making it one of the most enduring investments in a [[holzer-permaculture-landscape-design]].
 
 - [[root-cellaring-and-no-energy-food-storage]]
 - [[permaculture-food-forest-design-principles]]

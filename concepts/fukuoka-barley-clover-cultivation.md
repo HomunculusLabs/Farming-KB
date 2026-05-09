@@ -5,7 +5,8 @@ updated: 2026-04-15
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka Barley and Clover Cultivation
 
@@ -21,18 +22,18 @@ The barley is harvested, threshed, and all straw is scattered uncut over the fie
 
 Fukuoka preferred traditional Japanese barley and rye over wheat for several reasons:
 
-1. **Harvest timing**: Barley and rye mature in May, before Japan's rainy season (June-July), making them safe and reliable. American wheat varieties matured during the rains and frequently rotted in the field.
+1. **[[cannabis-harvest-timing-visual-cues]]**: Barley and rye mature in May, before Japan's rainy season (June-July), making them safe and reliable. American wheat varieties matured during the rains and frequently rotted in the field.
 2. **Adaptation**: Traditional varieties had been grown in Japan for centuries and were well-adapted to local conditions, soils, and climate.
 3. **Food value**: Contrary to government propaganda, Japanese barley and rye had excellent nutritional value and were staples of the traditional diet.
-4. **Caloric efficiency**: Growing rice in summer and barley/rye in winter on the same quarter acre produces enough calories to support five to ten people with less than one hour of labor per person per day.
+4. **Caloric efficiency**: Growing rice in summer and barley/rye in winter on the same [[fukuoka-agriculture-tomorrow-quarter-acre-vision]] produces enough calories to support five to ten people with less than one hour of labor per person per day.
 
 ## Fertility Without Inputs
 
 The barley receives its nutrition from three sources working in combination:
 
-1. **White clover** -- nitrogen fixation through rhizobium bacteria in root nodules
+1. **White clover** -- [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] through rhizobium bacteria in root nodules
 2. **Decomposing straw** -- rice straw from the previous season breaks down on the soil surface, releasing nutrients slowly
-3. **Chicken manure** -- a thin layer applied to accelerate straw decomposition (originally, ducks were allowed in the fields to provide manure and weed control simultaneously)
+3. **Chicken manure** -- a thin layer applied to accelerate [[fukuoka-straw-decomposition-microbial-succession]] (originally, ducks were allowed in the fields to provide manure and [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]] simultaneously)
 
 Over twenty-five years, this system transformed hard red clay soil into loose, dark, earthworm-rich earth. No compost piles, no chemical fertilizer, no imported inputs.
 
@@ -52,7 +53,7 @@ Fukuoka's barley yields of approximately 22 bushels (1,300 pounds) per quarter a
 
 ## The Threat of Abandonment
 
-Fukuoka lamented the government's campaign to eliminate winter grain cultivation. Looking out the train window at winter fields stripped of their traditional cover of green barley, Chinese milk vetch, and blooming rape plants, he saw "half-burned straw piled roughly in heaps and left soaking in the rain" -- proof of the disorder of modern farming. "The barrenness of these fields reveals the barrenness of the farmer's spirit."
+Fukuoka lamented the government's campaign to eliminate winter [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]]. Looking out the train window at winter fields stripped of their traditional cover of green barley, Chinese milk vetch, and blooming rape plants, he saw "half-burned straw piled roughly in heaps and left soaking in the rain" -- proof of the disorder of modern farming. "The barrenness of these fields reveals the barrenness of the farmer's spirit."
 
 ## Related
 
@@ -78,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

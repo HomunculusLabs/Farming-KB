@@ -1,11 +1,12 @@
 ---
-title: Fukuoka: The Natural Body and Health Through Relaxation
+title: Fukuoka: The fukuoka-natural-body-and-health and Health Through Relaxation
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 ## People Ought to Live Pleasantly and Die Pleasantly
@@ -14,7 +15,7 @@ Dr. Keizo Hashimoto, a chiropractor from Sendai, made a strong impression on Fuk
 
 - "If the right arm hurts when the patient raises it, then I have him shake the left arm in the other direction"
 
-- "I just try to make him feel good. If he can get rid of the pain, that is fine"
+- "I just try to make him feel good. If he can [[query-how-to-get-rid-of-slugs-and-snails-organically]] of the pain, that is fine"
 
 - In other words, it is enough to relax
 
@@ -28,7 +29,7 @@ Fukuoka had no objection to those who earnestly practice zazen on a tatami mat, 
 
 ## See Also
 
-- fukuoka natural body health relaxation
+- [[masanobu-fukuoka-natural-farming-philosophy]] body health relaxation
 
 - [[fukuoka-natural-body-and-health]]
 
@@ -37,7 +38,7 @@ Fukuoka had no objection to those who earnestly practice zazen on a tatami mat, 
 - [[fukuoka-natural-diet-philosophy]]
 
 ## Merged: Fukuoka The Natural Body
-Fukuoka's philosophy of the body extends his rejection of human intervention from farming to health and physical well-being. The natural body -- like the natural farm -- thrives when left alone. 234-239 (the natural body, Zen, health) updated: 2026-04-18 - [[fukuoka-do-nothing-health-philosophy]] - [[one-straw-revolution-philosophy]] (The One Straw Revolution) **Updated:** 2026-04-18 Fukuoka's philosophy of body-earth inseparability holds that the human body and the earth are fundamentally one and the same substance. When a person truly understands this unity, the distinction between self and nature dissolves. - [[fukuoka-natural-food-philosophy]] - [[fukuoka-natural-farming-philosophy-of-mu]] This is not a metaphor or poetic idea but a literal reality that modern civilization has forgotten.
+Fukuoka's philosophy of the body extends his rejection of human intervention from farming to health and physical well-being. The natural body -- like the [[fukuoka-creating-natural-farm-site-selection-establishment]] -- thrives when left alone. 234-239 (the natural body, Zen, health) updated: 2026-04-18 - [[fukuoka-do-nothing-health-philosophy]] - [[one-straw-revolution-philosophy]] (The One [[fukuoka-one-straw-revolution-conclusion]]) **Updated:** 2026-04-18 Fukuoka's philosophy of body-earth inseparability holds that the human body and the earth are fundamentally one and the same substance. When a person truly understands this unity, the distinction between self and nature dissolves. - [[fukuoka-natural-food-philosophy]] - [[fukuoka-natural-farming-philosophy-of-mu]] This is not a metaphor or poetic idea but a literal reality that modern civilization has forgotten.
 ## Practical Considerations
 
 When working with Fukuoka: The Natural Body and Health Through Relaxation, several practical factors should be
@@ -54,7 +55,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -96,4 +97,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

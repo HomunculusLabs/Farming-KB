@@ -1,24 +1,15 @@
 ---
 title: Aquaculture and Water Systems
 created: 2026-04-28
-tags: [[permaculture, aquaculture, ponds, water, polyculture]
+tags: [permaculture, aquaculture, ponds, water, polyculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["papers/bill-mollison-permaculture-a-designers-manual.md"]
 type: concept
 ---
-
-# Aquaculture and Water Systems
-
-Aquaculture and water systems represent some of the most productive and
-space-efficient components of permaculture design. Bill Mollison devoted
-extensive coverage to the design and management of ponds, dams, and
-integrated aquatic polycultures in *Permaculture: A Designers' Manual*. Water
-systems in permaculture serve multiple functions including food production,
-irrigation storage, fire protection, wildlife habitat, microclimate moderation,
-and recreation. These systems connect to [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]] for productivity
+# Aquaculture and Water Systems Aquaculture and water systems represent some of the most productive and space-efficient components of permaculture design. Bill Mollison devoted extensive coverage to the design and management of ponds, dams, and integrated aquatic polycultures in *Permaculture: A Designers' Manual*. Water systems in permaculture serve multiple functions including food production, irrigation storage, fire protection, wildlife habitat, microclimate moderation, and recreation. These systems connect to [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]] for productivity
 optimization, and [[zone-and-sector-analysis]] plan. The ideal
-pond shape maximizes shoreline edge through lobate and irregular contours,
+[[holzer-pond-shape-deep-shallow-zones]] maximizes shoreline edge through lobate and irregular contours,
 as described in [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]].
 
 ## Chinampas
@@ -26,7 +17,7 @@ as described in [[bill-mollison-permaculture-a-designers-manual-animal-systems-i
 Mollison drew inspiration from the chinampas of pre-Columbian Mexico, an
 ancient system of artificial islands built in shallow lake beds. Chinampas
 are constructed by piling mud and vegetation between narrow canals, creating
-extremely fertile raised beds surrounded by water. The canals provide
+extremely fertile [[comparison-raised-beds-vs-hugelkultur]] surrounded by water. The canals provide
 irrigation, nutrient-rich sediment, and aquatic habitat while the raised beds
 support intensive crop production. Mollison considered chinampas among the
 most productive agricultural systems ever devised, producing multiple crops
@@ -37,7 +28,7 @@ containers and water channels.
 ## Integrated Rice-Fish-Duck Systems
 
 In tropical and subtropical regions, Mollison described integrated systems
-combining rice cultivation with fish and duck production. Rice paddies serve
+combining [[jadam-rice-cultivation-methods]] with fish and duck production. Rice paddies serve
 as aquatic ecosystems where fish consume mosquito larvae and pests, ducks
 control weeds and snails, and both animals fertilize the rice crop with
 their manure. The rice provides shade and habitat for the animals while
@@ -51,7 +42,7 @@ Mollison emphasized that productive aquaculture requires understanding and
 managing the pond as a complete ecosystem. The food web begins with sunlight
 driving photosynthesis in algae and aquatic plants. Zooplankton graze on
 algae. Small fish feed on zooplankton. Larger fish prey on smaller fish.
-Detritivores break down organic matter on the pond floor. Each level of the
+Detritivores [[query-can-fungi-break-down-plastic-pollution]] [[hamilton-composting-and-organic-matter-management]] on the pond floor. Each level of the
 food web depends on the health of the levels below it. The designer's role is
 to establish balanced populations at each trophic level and avoid the
 overstocking that leads to oxygen depletion, disease, and system collapse.
@@ -66,7 +57,7 @@ Oxygenating plants release oxygen during photosynthesis. Aeration through
 wind-powered or solar-powered devices supplements natural oxygen production
 in deeper ponds. [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]
 and provides fire protection. A pond moderates the temperature of nearby
-areas through evaporative cooling, benefiting [[integrated-pest-management]]. Water
+areas through [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]], benefiting [[integrated-pest-management]]. Water
 features reflect light into adjacent buildings and growing areas. The
 sediment that accumulates behind dams is nutrient-rich material that can be
 excavated and applied to gardens as fertilizer, connecting to
@@ -80,5 +71,15 @@ a nutrient-rich water source that closes the loop between water systems and
 plant production.
 
 ## See Also
+
+- [[pdc-aquaculture-water-systems]]
+- [[permaculture-designers-manual-vine-systems]]
+
+- mollison-water-filtration-methods
+- [[bill-mollison-permaculture-a-designers-manual-ethical-foundations-in-permaculture]]
+- mollison-aquaculture-designers-checklist
+- [[mollison-designers-mulberry-and-sericulture-in-permaculture]]
+- [[mollison-designers-wind-energy-and-windmills-for-water-supply]]
+- permaculture-designers-manual-greywater-systems
 
 - [[mollison-designers-citrus-growing-and-care]]

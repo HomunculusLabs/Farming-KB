@@ -17,7 +17,7 @@ type: concept
 # Psilocybe subcubensis
 
 Psilocybe subcubensis is a psilocybin-containing mushroom species
-described by [[psilocybin-mushroom]] Image Guide
+described by [[psilocybin-mushroom]] [[psilocybin-mushroom-image-guide-habitat-clues]]
 includes photographs by John W. Allen showing P. subcubensis
 specimens from the Koh Samui type locality.
 
@@ -26,7 +26,7 @@ specimens from the Koh Samui type locality.
 The species authority is Psilocybe subcubensis Guzman. It was
 described as a distinct species closely allied to P. cubensis but
 separated on the basis of morphological differences, most notably
-spore size. The specific epithet "subcubensis" literally means
+[[spore]] size. The specific epithet "subcubensis" literally means
 "below cubensis," reflecting its close relationship to and smaller
 stature compared to P. cubensis.
 
@@ -51,7 +51,7 @@ The cap color is golden brown to light brown when fresh and moist,
 fading to a paler tan or yellowish-white as it dries. The center of
 the cap (the disc) often retains a darker coloration even when dry.
 The margin is initially incurved, becoming straight or slightly
-uplifted with maturity. A partial veil is present, connecting the
+uplifted with maturity. A [[partial-veil-tropism-protection-before-spore-release]] is present, connecting the
 cap margin to the stem, which typically ruptures as the cap expands
 and may leave a fragile annulus on the stem.
 
@@ -62,7 +62,7 @@ They are initially grayish but darken to deep purplish-brown or
 nearly black as the spores mature. The gill edges remain paler than
 the faces, creating a noticeable contrast. This dark spore coloration
 is typical of the genus Psilocybe and helps distinguish these
-mushrooms from genera with lighter spore prints.
+mushrooms from genera with lighter [[macrofungal-documentation-photography-spore-prints]].
 
 ### Stem (Stipe)
 
@@ -85,4 +85,4 @@ thick-walled. The spore print is dark purplish-brown.
 
 ## Comparison with [[psilocybe-subcubensis]]
 
-- [[psilocybe-aztecorum-profile]]
+- psilocybe-aztecorum-profile

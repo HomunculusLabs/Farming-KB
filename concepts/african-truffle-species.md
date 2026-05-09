@@ -4,11 +4,12 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [reference]
-sources: []
+sources:
+  sources: []
 ---
 # African Truffle Species
 
-Africa harbors a diverse but poorly documented truffle flora, ranging from the desert truffles of the Sahara and Kalahari to the hypogeous fungi of Mediterranean North Africa and the tropical forests of Central and West Africa. African truffle species have been gathered as food for millennia by indigenous peoples, though scientific documentation has lagged behind other continents.
+Africa harbors a diverse but poorly documented truffle flora, ranging from the desert truffles of the Sahara and Kalahari to the [[dighton-hypogeous-fungi-mammal-spore-dispersal]] of Mediterranean North Africa and the tropical forests of Central and West Africa. African truffle species have been gathered as food for millennia by indigenous peoples, though scientific documentation has lagged behind other continents.
 
 ## Overview
 
@@ -34,7 +35,7 @@ Tirmania nivea occurs in North Africa, particularly in Egypt, Libya, and Tunisia
 
 ### Mediterranean Tuber Species
 
-The Mediterranean coastal regions of North Africa (particularly Morocco, Algeria, and Tunisia) host several European truffle species, including Tuber melanosporum and Tuber aestivum. Morocco has developed a small truffle cultivation industry, with T. melanosporum orchards established in the Rif Mountains and Middle Atlas regions.
+The Mediterranean coastal regions of North Africa (particularly Morocco, Algeria, and Tunisia) host several European truffle species, including Tuber melanosporum and Tuber aestivum. Morocco has developed a small truffle [[mushroom-cultivation-industry-directory]], with T. melanosporum orchards established in the Rif Mountains and Middle Atlas regions.
 
 Moroccan T. melanosporum is harvested from both wild sources and cultivated orchards, with production concentrated in the calcareous soils of the Atlas Mountains. The Moroccan truffle season runs from December through March, coinciding with the European season.
 
@@ -72,9 +73,9 @@ In many African communities, truffles serve as both food and medicine. Tradition
 
 ## Research and Conservation
 
-African truffle mycology is an emerging field with significant research needs. Many species are known only from initial descriptions, and their ecology, distribution, and conservation status are poorly understood. Climate change, desertification, and land-use change threaten truffle habitats across the continent, particularly in North Africa and the Sahel where desertification is advancing rapidly.
+African truffle mycology is an emerging field with significant research needs. Many species are known only from initial descriptions, and their ecology, distribution, and conservation status are poorly understood. [[dighton-fungi-climate-change-feedback]], desertification, and land-use change threaten truffle habitats across the continent, particularly in North Africa and the Sahel where desertification is advancing rapidly.
 
-International collaboration between African mycologists and research institutions in Europe, North America, and Asia is essential to advance understanding of African truffle diversity and to develop conservation and sustainable use strategies. See [[fungal-diversity-deserts-arid-lands]] for fungal ecology in arid Africa.
+International collaboration between African mycologists and research institutions in Europe, [[psilocybin-north-america-pacific-northwest]], and Asia is essential to advance understanding of African truffle diversity and to develop conservation and sustainable use strategies. See [[fungal-diversity-deserts-arid-lands]] for [[gadd-fungal-ecology-endophytes]] in arid Africa.
 
 ## Practical Context
 African Truffle Species is best interpreted in relation to site goals, climate
@@ -95,6 +96,8 @@ control or redesign. When the topic involves cultivation or remediation, small t
 are safer than whole-site changes because they reveal local constraints early.
 
 ## See Also
+
+- [[asian-truffle-species]]
 
 - [[truffle-guide]]
 

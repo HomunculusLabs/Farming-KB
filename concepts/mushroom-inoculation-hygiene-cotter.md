@@ -1,5 +1,5 @@
 ---
-title: Mushroom Inoculation Hygiene and Sanitation Protocols
+title: Mushroom mushroom inoculation hygiene cotter and Sanitation Protocols
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -18,7 +18,7 @@ the hygiene protocols, tools, and workspace setup for safe inoculation.
 ## Why Hygiene Is Critical at Inoculation
 
 The inoculation stage involves direct contact with prepared (possibly
-pasteurized) growing medium and pure culture spawn. At this point:
+pasteurized) growing medium and pure [[pure-culture-spawn-method-duggar-usda-1902]]. At this point:
 
 - The medium has been heat-treated, killing competitors
 - The medium is now a blank slate — vulnerable to any contaminant
@@ -30,7 +30,7 @@ pasteurized) growing medium and pure culture spawn. At this point:
 
 ### 70% Isopropyl Alcohol
 
-The standard sanitizer for mushroom cultivation:
+The standard sanitizer for [[accessible-mushroom-cultivation-for-disabilities]]:
 - Spray lightly on hands before and during mixing
 - Wipe tools between uses
 - Sanitize gloves and surfaces
@@ -98,13 +98,13 @@ Converted sheds or dedicated rooms work well:
 - Clean surface required (bleached tarp or table)
 - Much easier to work with than sterilized media
 - Lower cost and energy input
-- Most oyster mushrooms and some other species thrive on pasteurized
+- Most [[query-how-to-grow-oyster-mushrooms-at-home]] and some other species thrive on pasteurized
   substrate
 
 **Sterilized substrates:**
-- Require a clean room with HEPA filtration
+- Require a clean room with [[growing-gourmet-hepa-filtration-laboratory-air-systems]]
 - Full laboratory protocols needed
-- See Cotter chapter 17 for clean room design
+- See Cotter chapter 17 for clean [[cervantes-grow-room-design-advanced]]
 - Necessary for shiitake, maitake, and many other species
 - Much more prone to contamination than pasteurized media
 
@@ -139,8 +139,6 @@ For shredded straw with oyster mushrooms:
   returning
 
 ### Automating Inoculation
-
-For volume production:
 ## See Also
 
 - [[mushroom-container-filling-techniques-cotter]]

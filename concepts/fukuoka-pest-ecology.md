@@ -1,23 +1,24 @@
 ---
-title: Pest Ecology in Natural Farming
+title: Pest Ecology in comparison-natural-farming-vs-permaculture
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Pest Ecology in Natural Farming
 
 ## Insect Pests Do Not Exist
 
-Fukuoka's most provocative assertion: "A thousand plant diseases exist in nature, yet in truth there are none." The concept of a "pest" is a human invention. Natural farming "admits to the existence neither of insect pests nor of beneficial insects." When a pest outbreak occurs, "one reflects that this was probably triggered by some human mistake."
+Fukuoka's most provocative assertion: "A thousand plant diseases exist in nature, yet in truth there are none." The concept of a "pest" is a human invention. Natural farming "admits to the existence neither of insect pests nor of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]." When a pest outbreak occurs, "one reflects that this was probably triggered by some human mistake."
 
 This is not naive optimism but a fundamental philosophical position. The natural farmer takes the stance that "there are no crops or pests in nature to begin with." The concepts of "raising plants" and "harmful insects" are words coined by man based on subjective criteria — viewed in terms of the natural order, they are meaningless. See [[integrated-pest-management]] approaches, while more ecological than blanket spraying, still operate within the paradigm of seeing pests as enemies to be managed.
 
 ## The Trap of Biological Control
 
-Many people believe using natural predators or low-toxicity pesticides will solve the problem, but "to someone who understands the chain of being that links together the world of living organisms, there is no way of telling which organisms are beneficial predators and which are pests."
+Many people believe using natural predators or low-toxicity pesticides will solve the problem, but "to someone who understands the chain of being that links together the world of [[savory-living-organisms-as-tools]], there is no way of telling which organisms are beneficial predators and which are pests."
 
 When one beneficial insect feeds on a pest that kills another beneficial insect which feeds on another pest, "it is futile to try and draw sharp distinctions between these and apply pesticides selectively." The natural food chain is too complex for selective intervention.
 
@@ -31,7 +32,7 @@ Pheromones, sterilization, biological pesticides — all are "an action as cruel
 
 Fukuoka's village was noted for its Karakawa loquats. When loquat flower corollas began rotting, the village blamed cold weather, but Fukuoka identified botrytis fungus spores on the damaged blooms. After an initial spraying program brought the disease under control, Fukuoka asked the deeper question: why had the outbreak occurred in the first place?
 
-His theory: the sudden postwar spraying of new pesticides to control citrus diseases triggered the botrytis outbreak. Interplanting of citrus in loquat groves, the transition to mulching and sod cultivation (which Fukuoka himself had encouraged), and the discontinuation of Bordeaux mixture all contributed. The fungus forms sclerotia about the size of a poppy seed containing eight genetically distinct spores — a lifecycle capable of producing "frightening" numbers of new variants.
+His theory: the sudden postwar spraying of new pesticides to [[fukuoka-mite-scale-microclimate-control-citrus-orchard]] diseases triggered the [[fukuoka-textdoc-botrytis-outbreak-pesticide-microbial-mutation]]. Interplanting of citrus in loquat groves, the transition to mulching and sod cultivation (which Fukuoka himself had encouraged), and the discontinuation of Bordeaux mixture all contributed. The fungus forms sclerotia about the size of a poppy seed containing eight genetically distinct spores — a lifecycle capable of producing "frightening" numbers of new variants.
 
 ## Pesticide Resistance and Mutation
 
@@ -49,7 +50,7 @@ This case study demonstrates that pest outbreaks are ecosystem-level failures, n
 
 ## See Also
 
-- [[fukuoka-soil-microbiology]] — microbial communities and plant health
+- [[soil-microbiology-in-natural-farming]] — microbial communities and plant health
 - [[fukuoka-do-nothing-farming-philosophy]] — the philosophical basis for non-intervention
 - [[bolete-mushrooms-ecology-edibility]]
 - [[fukuoka-pest-balance-without-chemicals]]
@@ -69,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

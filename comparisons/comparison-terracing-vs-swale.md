@@ -5,7 +5,7 @@ tags: [comparison, earthworks, water-management, permaculture, erosion-control]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
+  sources: []
 type: comparison
 ---
 
@@ -26,10 +26,10 @@ differences is essential for anyone designing earthworks on sloped property.
 Swales are shallow, level-bottomed ditches excavated along the contour of a
 slope to capture surface runoff and allow it to infiltrate into the soil
 profile. The excavated soil is typically placed on the downhill side as a
-berm, which can be planted with trees, shrubs, or cover crops. Unlike
+berm, which can be planted with trees, shrubs, or [[gaias-garden-cover-crops-soil-building]]. Unlike
 terraces, swales do not create level growing surfaces; their primary purpose
-is water harvesting, groundwater recharge, and erosion control through
-reduced runoff velocity. Swale design and construction requires accurate
+is water harvesting, groundwater recharge, and [[permplant-willows-salix-erosion-control-fodder]] through
+reduced runoff velocity. [[comparison-swale-design-vs-contour-swale-irrigation-design]] and construction requires accurate
 contour mapping using an A-frame level, laser level, or water tube level.
 
 Swales are most effective on moderate slopes (3 to 15 degrees) where
@@ -56,7 +56,7 @@ roots.
 | Slope suitability | Steep (15+ degrees) | Moderate (3-15 degrees) |
 | Construction cost | High | Low to moderate |
 | Engineering required | Significant (retaining walls) | Minimal (contour mapping) |
-| Best use | Annual crops, intensive gardening | Tree crops, food forests, pasture |
+| Best use | Annual crops, [[solomon-wide-spacing-versus-intensive-gardening-debate]] | Tree crops, food forests, pasture |
 | Water management | Drainage-focused | Infiltration-focused |
 | Longevity | Permanent if well-built | Can fill with sediment over time |
 | Failure risk | Catastrophic (wall breach) | Manageable (overflow) |
@@ -64,7 +64,7 @@ roots.
 ## When to Choose Terracing
 Terraces are the right choice on steep slopes where level ground for
 cultivation is the primary objective. They are essential for intensive
-vegetable production on hillside sites and for establishing orchards where
+[[dry-gardening-unirrigated-vegetable-production-solomon]] on hillside sites and for establishing orchards where
 level surfaces improve tree care, harvest access, and irrigation
 efficiency. Terraces are also preferred in high-rainfall regions where
 contour swales alone cannot handle peak stormwater volumes and more robust
@@ -87,9 +87,9 @@ terraces on the steepest sections where level growing surfaces are needed.
 Terraced growing areas can also incorporate swale-like water harvesting by
 including level sill drains at the base of each terrace wall. Mollison
 recommends integrating both approaches in comprehensive slope management
-plans that address water, access, and growing space simultaneously.
+plans that address water, access, and [[cotter-growing-space-design-fruiting-rooms]] simultaneously.
 
 ## See Also
 - [[comparison-keyline-vs-swale]]
 - [[comparison-terracing-vs-swales]]
-- [[pdc-earthworks-and-swales]]
+- pdc-earthworks-and-swales

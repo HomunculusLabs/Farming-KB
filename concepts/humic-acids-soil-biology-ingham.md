@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Field Guide I for Actively Aerated Compost Tea, Dr. Elaine Ingham, Soil Foodweb Inc.
+Source: The Field Guide I for Actively [[actively-aerated-compost-tea-aact-brewing]] Tea, Dr. Elaine Ingham, Soil Foodweb Inc.
 
 Ingham provides important distinctions about humic acids, their relationship to soil biology, and how they function in compost tea and soil systems.
 
@@ -22,7 +22,7 @@ This is a critical distinction that many people miss:
 
 **Humus** includes ALL of the following:
 - Bacteria, fungi, protozoa, nematodes, roots
-- Simple organic matter: simple sugars, amino acids, proteins, simple carbohydrates, lipids, and thousands more simple compounds
+- Simple [[hamilton-composting-and-organic-matter-management]]: simple sugars, amino acids, proteins, simple carbohydrates, lipids, and thousands more simple compounds
 - Complex organic matter: polysaccharides (multiple simple sugars bound in increasingly complex, branched forms), amino-sugars, hormones, fats, lipopolysaccharides
 - Fulvic acids: all of the above branched and bound together in intermediate molecular weight fractions
 - Humic acids: all of the above bound together in very complex tertiary (three-dimensional) binding complexes
@@ -32,7 +32,7 @@ This is a critical distinction that many people miss:
 ## How Humic Acids Are Made
 
 Humic acids are produced primarily by fungi:
-- Fungi in thermal compost or worm compost make fulvic and humic materials
+- Fungi in [[ingham-thermal-compost-versus-worm-compost]] or worm compost make fulvic and humic materials
 - They are helped by earthworms and microarthropods
 - Earthworms and microarthropods are critical for helping fungi maintain dominance over bacterial processes in soil structure
 - Real humic acid requires ALL of these organisms to be present
@@ -98,13 +98,13 @@ Ingham's analogy: "Paying your phone company to deliver an overnight package doe
 The biological connection:
 - Humic acids provide exchange sites for nutrients
 - Fungi produce humic acids as they decompose organic matter
-- The resulting humic-acid-rich soil has high cation exchange capacity
+- The resulting humic-acid-rich soil has high [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity
 - Nutrients are held in plant-available forms rather than leaching
 - This is why soils with good fungal populations need less external fertilizer
 
 ## pH Buffering by Humic Acids
 
-Aerobic fungi produce organic acids that buffer their medium between pH 5.5 and 7.0. This buffering capacity is part of why healthy soils maintain appropriate pH without lime or sulfur additions. The humic materials produced by fungi contribute significantly to this buffering.
+Aerobic fungi produce organic acids that buffer their medium between pH 5.5 and 7.0. This buffering capacity is part of why healthy soils maintain appropriate pH without lime or sulfur additions. The humic materials produced by [[query-how-do-fungi-contribute-to-carbon-sequestration]] significantly to this buffering.
 
 ## The Hype Problem
 
@@ -117,7 +117,7 @@ Ingham acknowledges significant hype in the humic acid industry:
 
 ## Practical Application in Compost Tea
 
-- Humic acid is the most selective fungal food available
+- Humic acid is the most [[ethanol-pasteurization-selective-fungal-isolation]] food available
 - Liquid formulations are strongly preferred for tea brewing
 - Adds nutrients that can be taken up by foliage and roots
 - Acts as a surface for fungi to grow on during the brew

@@ -71,7 +71,7 @@ The species is subject to **epiphytism** by a wide range of smaller algae, inclu
 
 Seasonal growth patterns show maximum extension rates during spring and early summer when day length and water temperature are optimal. Growth slows during autumn and effectively ceases in winter, though the calcified skeleton protects the dormant thallus from winter storm damage.
 
-Coralline algae, including *C. officinalis*, release chemical cues that induce settlement and metamorphosis of marine invertebrate larvae. The surface of coralline algae is a preferred settlement substrate for abalone, sea urchin, and coral larvae in many marine ecosystems.
+Coralline algae, including *C. officinalis*, release chemical cues that induce settlement and metamorphosis of marine invertebrate larvae. The surface of coralline algae is a preferred settlement substrate for abalone, sea urchin, and coral larvae in many [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]].
 
 ## Uses and Applications
 
@@ -81,11 +81,11 @@ The mineral composition of *C. officinalis* biomass includes approximately 50-60
 
 In aquaculture, coralline algae are used as settlement substrates for the larvae of commercially important molluscs and echinoderms. Hatchery operators often seed culture surfaces with *Corallina* species to induce larval settlement of abalone and sea urchins.
 
-Extracts of *C. officinalis* have shown antimicrobial and antioxidant activities in laboratory bioassays. The bioactive compounds include a range of halogenated secondary metabolites that may have pharmaceutical or cosmetic applications, though commercial development remains limited.
+Extracts of *C. officinalis* have shown antimicrobial and antioxidant activities in laboratory bioassays. The [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include a range of halogenated [[antifungal-secondary-metabolites-coprophilous-fungi]] that may have pharmaceutical or cosmetic applications, though commercial development remains limited.
 
-The species has potential applications in **carbon sequestration** research. The calcium carbonate produced by coralline algae is relatively stable in marine sediments, potentially storing carbon for geological timescales. However, the vulnerability of coralline algae to ocean acidification complicates this potential.
+The species has potential applications in **[[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]** research. The calcium carbonate produced by coralline algae is relatively stable in marine sediments, potentially storing carbon for geological timescales. However, the vulnerability of coralline algae to ocean acidification complicates this potential.
 
-In some Pacific Island cultures, coralline algae are collected and burned to produce lime (calcium oxide) for traditional purposes including betel nut preparation, food processing, and construction material. This practice has been documented across Micronesia and parts of Southeast Asia.
+In some Pacific Island cultures, coralline algae are collected and burned to produce lime (calcium oxide) for traditional purposes including betel nut preparation, food processing, and construction material. This practice has been documented across Micronesia and parts of [[psilocybe-southeast-asia-pacific]].
 
 Traditional uses include application as an agricultural soil amendment in coastal communities, where dried coralline material is incorporated into garden soils as a source of calcium and trace minerals. The practice is documented in several European and Asian coastal traditions.
 
@@ -97,7 +97,7 @@ Combined stressors of ocean acidification and warming may act synergistically to
 
 Rising sea surface temperatures may shift the species' geographic range poleward, as *C. officinalis* is near its upper thermal tolerance limit in many parts of its current distribution. Extreme heat events can cause mass bleaching and mortality of intertidal coralline populations.
 
-The species is included in several national intertidal monitoring programs as an indicator of ecosystem health. Long-term surveys of *C. officinalis* populations have documented changes in growth rates, calcification intensity, and distribution patterns that correlate with regional climate trends.
+The species is included in several national intertidal monitoring programs as an indicator of ecosystem health. Long-term surveys of *C. officinalis* populations have documented changes in growth rates, calcification intensity, and [[guzman-global-distribution-patterns-neurotropic-fungi]] that correlate with regional climate trends.
 
 Coastal development and pollution, particularly nutrient enrichment, can negatively impact coralline algae by promoting the growth of competing fleshy algae that overgrow and shade coralline turfs. Maintaining water quality in coastal zones is essential for preserving coralline-dominated intertidal communities.
 

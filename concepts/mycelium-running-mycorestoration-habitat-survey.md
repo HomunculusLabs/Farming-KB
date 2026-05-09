@@ -1,5 +1,5 @@
 ---
-title: Mycorestoration Habitat Survey and Strategy
+title: mycelium running mycorestoration habitat survey Survey and Strategy
 created: 2026-04-28
 tags: [mycorestoration, ecological-restoration, habitat-assessment, mycofiltration, mycoremediation]
 date: 2026-04-25
@@ -49,7 +49,7 @@ recommendations. Key questions include:
    substrate can carry mycelium.
 4. **Is the problem seasonal or continuous?** Rain patterns affect contaminant
    outflow rates.
-5. **What is the scale?** Mycelial mats must match the contamination source.
+5. **What is the scale?** [[singh-mycelial-mats-and-biological-soil-crusts]] must match the contamination source.
 
 ## Native Fungi as Restoration Guides
 
@@ -74,7 +74,7 @@ mushrooms serving as biodiversity pioneers.
 ## Synergistic Species Combinations
 
 Each mushroom species secretes unique mixes of extracellular enzymes and acids
-for degrading organic matter. Using a plurality of species can have a synergistic
+for degrading [[hamilton-composting-and-organic-matter-management]]. Using a plurality of species can have a synergistic
 effect for more complete degradation of toxins than could be achieved with one
 species alone. The art of mycorestoration lies in:
 
@@ -90,14 +90,14 @@ species alone. The art of mycorestoration lies in:
 Multiple techniques exist for expanding a helpful mushroom's domain in a
 damaged habitat:
 
-- **[[mycofiltration-silt-erosion-control]]
+- **mycofiltration-silt-erosion-control
 - **Stem butt transfers**: Harvested mushroom stem bases placed in new
   locations to regrow mycelium
 - **Spore slurries**: Water suspensions of spores collected from mature
   mushrooms, spread over target areas
-- **Pure culture spawn**: Laboratory-propagated mycelium on grain or sawdust
+- **Pure [[pure-culture-spawn-method-duggar-usda-1902]]**: Laboratory-propagated mycelium on grain or sawdust
   for precise species deployment
-- **Sheet mulch**: Shallow compost beds 6 inches to 2 feet thick, inoculated
+- **[[permaculture-sheet-mulch-detailed-guide]]**: Shallow compost beds 6 inches to 2 feet thick, inoculated
   with mycelium to capture microbial outflow
 
 ## Creating Mycelial Mats

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-Water quality is critically important in JADAM organic farming because all inputs ([[jadam-sulfur-germicide-js]], [[jadam-microorganism-solution-jms]], [[teaming-with-nutrients-fertilizer-sources]]
+Water quality is critically important in JADAM [[coleman-deep-organic-farming-philosophy]] because all inputs ([[jadam-sulfur-germicide-js]], [[jadam-microorganism-solution-jms]], [[teaming-with-nutrients-fertilizer-sources]]
 - [[teaming-with-nutrients-fertilizer-application]]
 ## Background and Context
 
@@ -138,4 +138,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

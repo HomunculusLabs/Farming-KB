@@ -1,5 +1,5 @@
 ---
-title: "Pyridoxal Phosphate Coenzyme Chemistry"
+title: "Pyridoxal pyridoxal phosphate coenzyme chemistry Chemistry"
 aliases: [PLP, pyridoxal 5 phosphate, vitamin B6 coenzyme]
 tags: [biochemistry, coenzymes, amino-acid-metabolism, enzymology, pharmacology]
 created: 2026-05-02
@@ -12,7 +12,7 @@ sources: []
 
 [[pyridoxamine-phosphate]], or PMP.
 
-The carbon skeleton of the amino acid leaves as a corresponding keto acid.
+The carbon skeleton of the [[cho-fish-amino-acid-preparation]] leaves as a corresponding keto acid.
 
 In the second half-reaction, PMP donates the amino group to another keto acid, regenerating PLP.
 
@@ -34,7 +34,7 @@ Histidine decarboxylase makes histamine, which connects PLP chemistry to immune 
 
 Vitamin B6 deficiency can therefore produce neurological symptoms, including seizures in severe cases.
 
-Drug interactions that impair PLP availability can also affect neurotransmitter metabolism.
+[[cannabis-drug-interactions-and-contraindications]] that impair PLP availability can also affect neurotransmitter metabolism.
 
 ## Elimination and Replacement Reactions
 

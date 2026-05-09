@@ -1,5 +1,5 @@
 ---
-title: "Radionuclide Accumulation by Fungi"
+title: "dighton-fungal-radionuclide-accumulation-ecosystem-retention by Fungi"
 created: 2026-04-28
 tags: [radionuclides, cesium, uranium, chernobyl, mycorrhizal-transfer]
 date: 2026-04-25
@@ -25,7 +25,7 @@ radionuclides from contaminated environments. Singh's treatment of
 
 ### Fruit Body Concentrations
 
-Wild mushrooms from the Chernobyl zone have documented Cs-137
+[[edible-wild-mushrooms-by-region]] from the Chernobyl zone have documented Cs-137
 concentrations exceeding 10,000 Bq/kg, with some species showing
 orders-of-magnitude higher concentrations than surrounding soil.
 
@@ -52,11 +52,11 @@ Primary cesium uptake occurs through potassium transport systems:
 
 ### Biosorption and Cell Wall Binding
 
-Fungal cell walls provide significant radionuclide binding capacity:
+[[gadd-fungal-cell-structure]] walls provide significant radionuclide binding capacity:
 
 - Chitin, glucans, and melanin contain functional groups (amino,
   carboxyl, hydroxyl, phosphate) that bind radionuclides
-- Dead fungal biomass serves as biosorbent for radionuclide removal
+- Dead [[bioremediation-fungal-biomass-biosorbent-material]] serves as biosorbent for radionuclide removal
 - Melanized cell walls show particularly high uranium affinity
 
 ### Mycorrhizal Transfer to Plants
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -15,7 +15,7 @@ A wormery is a managed system for producing [[vermicomposting]] by housing compo
 
 ## How Worms Improve Soil
 
-Worms feed on organic matter and eject it as gel-coated pellets. This crumb structure improves soil drainage and aeration, providing a superior environment for root growth. The pellets convert nutrients into a form readily available to plant roots, released slowly as required, preventing short-term toxicity. The water-holding capacity of soil is also increased considerably.
+Worms feed on [[hamilton-composting-and-organic-matter-management]] and eject it as gel-coated pellets. This crumb structure improves soil drainage and aeration, providing a superior environment for root growth. The pellets convert nutrients into a form readily available to plant roots, released slowly as required, preventing short-term toxicity. The water-holding capacity of soil is also increased considerably.
 
 Worms break organic matter into smaller granules, enabling soil microbes to work on a greater surface area. They produce enzymes that help bacteria work more efficiently, accelerating decomposition overall.
 
@@ -40,7 +40,7 @@ The worms needed are commonly known as "nightcrawlers" or "red worms" (*Lumbricu
 - Build up slowly — no more than 3in (7cm) of material per week
 - Worms can process grass cuttings, kitchen scraps, even soaked newspapers (in moderation)
 - Mix materials together; never overload with one type
-- Animal manure can be added on its own
+- [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] can be added on its own
 - Place in a sunny, sheltered position — worms stop working below 45F (7C) and die in freezing weather
 - Optimum temperature: 68-75F (20-24C)
 - In cold weather, cover with old carpet; in hot weather, water the material (too wet is better than too dry)
@@ -52,16 +52,16 @@ The worm works upward through layers. Take worm-worked material from the bottom 
 ## Uses for Worm-Cast Compost
 
 - High in nutrients and microorganisms — use sparingly
-- Excellent mulch around ornamental plants, fruit trees/bushes, or between vegetable rows
+- Excellent mulch around ornamental plants, [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]/bushes, or between vegetable rows
 - Sprinkle into seed rows before sowing (especially helpful in dry soil)
 - Rake into top inch of seedbed for crumbly surface structure
 - Seed compost: mix 1 part worm-cast compost with 2 parts peat
-- Potting compost: equal parts peat and worm-cast compost
+- [[hamilton-potting-compost-recipes-and-growing-media]]: equal parts peat and worm-cast compost
 
 ## Related
 
 - [[compost-container-types]] — other composting container designs
-- [[green-manure-crops-detailed]] — alternative soil improvement through cover crops
+- [[green-manure-crops-detailed]] — alternative soil improvement through [[gaias-garden-cover-crops-soil-building]]
 - [[homemade-liquid-fertilizer]] — liquid feeding for plants
 ## Practical Considerations
 
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

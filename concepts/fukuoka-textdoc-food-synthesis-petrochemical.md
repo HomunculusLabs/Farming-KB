@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Masanobu Fukuoka, "The Natural Way of Farming: The Theory and Practice of Green Philosophy" (1985)
+  - Masanobu Fukuoka, "The Natural Way of Farming: The Theory and Practice of fukuoka-sowing-green-philosophy-one-grain-revolution" (1985)
 ---
 
 # Fukuoka's Critique of Petrochemical Food Synthesis
@@ -25,7 +25,7 @@ Fukuoka observed that the use of oil-based energy in agriculture had reached a p
 
 Petroleum energy permeates every stage of modern crop production.
 
-Chemical fertilizers are manufactured from natural gas and petroleum feedstocks.
+[[cervantes-chemical-fertilizers-guide]] are manufactured from natural gas and petroleum feedstocks.
 
 Pesticides are synthesized from petrochemical precursors.
 
@@ -69,7 +69,7 @@ These synthetic foods would be designed for nutritional completeness as measured
 
 They would contain the correct balance of proteins, fats, carbohydrates, vitamins, and minerals.
 
-Yet Fukuoka insisted that something essential would be missing — qualities that cannot be measured by chemical analysis.
+Yet Fukuoka insisted that something essential would be missing — qualities that cannot be measured by [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]].
 
 Living soil produces food that carries the signature of the complex biological community from which it came.
 
@@ -93,7 +93,7 @@ The transfiguration of agriculture through synthesis would result in the pervers
 
 Fukuoka's fundamental objection to food synthesis was epistemological: human knowledge is inherently limited and cannot replicate the complexity of natural processes.
 
-Nature has struck back fiercely against the affront of artificial cultivation, in the form of increased disease and pest pressure.
+Nature has struck back fiercely against the affront of [[fukuoka-matsutake-artificial-cultivation-attempt]], in the form of increased disease and pest pressure.
 
 This backlash is not a temporary inconvenience but a structural feature of any system that attempts to override natural processes.
 
@@ -109,9 +109,9 @@ The system is inherently fragile because it depends on the uninterrupted functio
 
 ## The Self-Sufficient Alternative
 
-Against the factory food paradigm, Fukuoka offered his quarter-acre natural farming model as a demonstration that food can be produced with minimal external inputs.
+Against the factory food paradigm, Fukuoka offered his quarter-acre [[comparison-natural-farming-vs-permaculture]] model as a demonstration that food can be produced with minimal external inputs.
 
-On his farm, rice and barley were grown in a clover cover without plowing, fertilizers, or pesticides.
+On his farm, [[fukuoka-rice-and-barley-natural-farming]] were grown in a clover cover without plowing, fertilizers, or pesticides.
 
 The entire production cycle required only seed, straw, and human labor.
 

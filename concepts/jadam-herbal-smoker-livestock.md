@@ -1,5 +1,5 @@
 ---
-title: JADAM Herbal Smoker for Livestock and Greenhouse Pest Control
+title: JADAM jadam herbal smoker livestock for Livestock and organic-greenhouse-pest-management Control
 created: 2026-04-28
 tags: [jadam, herbal-smoker, greenhouse-pest-control, smoke-pesticide, natural-pesticide, tobacco-smoke]
 date: 2026-04-25
@@ -14,7 +14,7 @@ type: concept
 
 The JADAM herbal smoker is a simple device that burns plant material to
 produce pesticidal smoke inside enclosed spaces. While primarily developed
-for greenhouse pest management, the smoke-based approach has broader
+for greenhouse [[cannabis-pest-management-guide]], the smoke-based approach has broader
 implications for livestock shelter hygiene and [[jadam-methods]].
 
 ## Applications
@@ -24,7 +24,7 @@ implications for livestock shelter hygiene and [[jadam-methods]].
 The herbal smoker fills a critical gap in winter greenhouse pest control
 when spray-based methods are impractical. Regular smoke treatments during
 the winter season can prevent pest populations from building to damaging
-levels before the spring growing season begins.
+levels before the spring [[savory-growing-season-and-non-growing-season-management]] begins.
 
 ### Pre-Harvest Pest Cleanup
 
@@ -62,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -104,4 +104,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

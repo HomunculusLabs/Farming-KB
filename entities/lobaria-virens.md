@@ -12,17 +12,17 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Vitikainen O, Ahti T, Kuusinen M, Lommi S, Ulvinen T (2002). "Checklist of Lichens and Allied Fungi of Finland." Norrlinia, 12.
-  - Brodo IM, Sharnoff SD, Sharnoff S (2001). "Lichens of North America." Yale University Press.
+  - Brodo IM, Sharnoff SD, Sharnoff S (2001). "Lichens of [[psilocybin-north-america-pacific-northwest]]." Yale University Press.
   - Goward T, McCune B, Meidinger D (1994). "The Lichens of British Columbia." BC Ministry of Forests.
   - Nash TH III (2008). "Lichen Biology." Cambridge University Press, 2nd edition.
-  - Scheidegger C, Werth S (2012). "Conservation biology of lichenized fungi." In Lichen Biology (pp. 311–333). Cambridge University Press.
+  - Scheidegger C, Werth S (2012). "[[mycelium-running-conservation-biology-and-fungi]] of lichenized fungi." In Lichen Biology (pp. 311–333). Cambridge University Press.
 ---
 
 ## Overview
 
 **Lobaria virens** (With.) J.R. Laundon, commonly known as the **green lung lichen**, is a large foliose lichen in the family Lobariaceae. It forms broad, overlapping thalli up to 25 cm across, typically growing on the bark of mature trees in humid, old-growth forests.
 
-The species is a tripartite lichen, containing both a green algal photobiont (*Dictyochloropsis*) and a cyanobacterial photobiont (*Nostoc*) in separate structures called cephalodia. This dual symbiosis enables both carbon fixation and nitrogen fixation.
+The species is a tripartite lichen, containing both a green algal photobiont (*Dictyochloropsis*) and a cyanobacterial photobiont (*Nostoc*) in separate structures called cephalodia. This dual symbiosis enables both carbon fixation and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
 
 *L. virens* is widely distributed in oceanic and montane regions of Europe. It is considered an indicator species of ancient woodland and is sensitive to atmospheric pollution and habitat disturbance.
 
@@ -54,7 +54,7 @@ Elevation ranges from sea level to approximately 1,500 meters. It is most common
 
 ## Ecology and Conservation
 
-As a tripartite lichen, *L. virens* contributes significantly to forest nitrogen cycling. The cephalodia fix atmospheric nitrogen, which is then released into the forest ecosystem through leaching and decomposition.
+As a tripartite lichen, *L. virens* contributes significantly to forest [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]]. The cephalodia fix atmospheric nitrogen, which is then released into the forest ecosystem through leaching and decomposition.
 
 The species is highly sensitive to air pollution, particularly sulfur dioxide and nitrogen oxides. Declines across central Europe during the 20th century have been linked to industrial emissions, though partial recovery has occurred in some areas following emission reductions.
 
@@ -62,11 +62,11 @@ The species is highly sensitive to air pollution, particularly sulfur dioxide an
 
 Conservation status varies by region. It is listed as threatened or near-threatened in several European countries, including Germany, Switzerland, and the Netherlands. In the British Isles, it is protected under biodiversity legislation in Scotland and Wales.
 
-The lichen supports diverse microfaunal communities, including tardigrades, nematodes, and mites. These invertebrate populations contribute to nutrient cycling within the lichen thallus and surrounding bark microhabitat.
+The lichen supports diverse microfaunal communities, including tardigrades, nematodes, and mites. These invertebrate populations contribute to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within the lichen thallus and surrounding bark microhabitat.
 
 ## Chemistry and Uses
 
-The primary secondary metabolites of *L. virens* include **gyrophoric acid**, **stictic acid**, and traces of **norstictic acid**. These are deposited in the cortex and medulla, providing chemical defense against herbivory and microbial attack.
+The primary [[antifungal-secondary-metabolites-coprophilous-fungi]] of *L. virens* include **gyrophoric acid**, **stictic acid**, and traces of **norstictic acid**. These are deposited in the cortex and medulla, providing chemical defense against herbivory and microbial attack.
 
 Spot tests show K+ yellow turning red (stictic acid) in the medulla, C−, and PD+ orange. The combination of gyrophoric and stictic acids is characteristic for the species within the genus.
 

@@ -9,7 +9,7 @@ sources: []
 
 # Soil Amendment Reference
 
-This reference covers common organic soil amendments, their nutrient profiles, application rates, and best use cases. Always base amendments on soil test results rather than routine application.
+This reference covers common organic soil amendments, their nutrient profiles, [[ingham-compost-tea-application-rates-and-timing]], and best use cases. Always base amendments on soil test results rather than routine application.
 
 ## pH Adjusters
 
@@ -26,7 +26,7 @@ This reference covers common organic soil amendments, their nutrient profiles, a
 - Also provides sulfur (15-18% S), which lowers pH very slightly.
 - Application rate: 1-2 lbs per 100 sq ft.
 - Improves soil structure in clay soils by flocculating particles.
-- Good for treating blossom end rot in tomatoes and peppers (calcium deficiency).
+- Good for treating blossom end rot in tomatoes and peppers ([[knf-calcium-deficiency-symptoms]]).
 - Can help displace excess sodium in sodic soils.
 
 ## Phosphorus Sources
@@ -40,7 +40,7 @@ This reference covers common organic soil amendments, their nutrient profiles, a
 - Not effective in alkaline soils (pH above 7.0).
 
 ### Bone Meal
-- Higher phosphorus availability than rock phosphate (3-15-0).
+- Higher [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] than rock phosphate (3-15-0).
 - Also provides calcium (12-16%).
 - Application rate: 1-2 lbs per 100 sq ft.
 - Effective for bulbs, root crops, and flowering plants.
@@ -106,7 +106,7 @@ This reference covers common organic soil amendments, their nutrient profiles, a
 - **Fall**: Lime, rock phosphate, greensand (slow-release amendments need time).
 - **Early spring**: Gypsum, bone meal, general mineral mixes.
 - **Planting time**: Bone meal in planting holes for transplants and bulbs.
-- **Growing season**: Blood meal as side-dress for heavy feeders; kelp meal as foliar or top-dress.
+- **[[savory-growing-season-and-non-growing-season-management]]**: Blood meal as side-dress for heavy feeders; [[query-how-to-use-kelp-meal-as-fertilizer]] foliar or top-dress.
 - **Compost pile**: Rock phosphate, kelp meal, azomite to enrich finished compost.
 
 ## Safety Notes
@@ -116,9 +116,11 @@ This reference covers common organic soil amendments, their nutrient profiles, a
 - Keep blood meal away from pets and wildlife.
 - Store all amendments in a dry, rodent-proof container.
 
-## Related Concepts
+## Related
 
-- [[composting-methods-comparison]] for building organic matter alongside mineral amendments
+- [[azomite-mineral-amendment]] Concepts
+
+- [[composting-methods-comparison]] for building [[hamilton-composting-and-organic-matter-management]] alongside mineral amendments
 - [[compost-tea-brewing]] for delivering soluble nutrients biologically
 - [[soil-food-web-nutrient-cycling]] for understanding soil composition and testing
 - [[raised-bed-gardening]] for amendment rates in contained beds

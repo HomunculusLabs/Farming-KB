@@ -1,5 +1,5 @@
 ---
-title: Korean Natural Farming Soil and Mineral Management
+title: Korean comparison-natural-farming-vs-permaculture Soil and knf-soil-and-mineral-management
 created: 2026-04-14
 updated: 2026-04-18
 type: concept
@@ -13,10 +13,10 @@ In Korean Natural Farming, soil health is the foundation of everything. Master C
 
 ## Soil Philosophy
 
-The goal of KNF is to create living soil full of diverse microorganisms. Chemical fertilizers destroy soil life and create dependency. Instead, KNF builds soil through:
+The goal of KNF is to create living soil full of diverse microorganisms. [[cervantes-chemical-fertilizers-guide]] destroy soil life and create dependency. Instead, KNF builds soil through:
 
-1. Indigenous Microorganisms (IMO) to establish microbial communities
-2. Organic matter (compost, leaf mold) for structure and food
+1. [[beneficial-indigenous-microorganisms-bim]] (IMO) to establish microbial communities
+2. [[hamilton-composting-and-organic-matter-management]] (compost, leaf mold) for structure and food
 3. Mineral inputs for balanced nutrition
 4. Avoiding tillage that disrupts soil structure
 
@@ -53,7 +53,7 @@ Biochar (charcoal) provides habitat for microorganisms and improves soil structu
 3. Crush to small pieces
 
 ### Activation
-- Soak biochar in IMO solution, FPJ, or compost tea before use
+- Soak biochar in IMO solution, FPJ, or [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]] before use
 - This inoculates the porous structure with beneficial microbes
 - Unactivated biochar may initially tie up nutrients
 

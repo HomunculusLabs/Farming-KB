@@ -1,5 +1,5 @@
 ---
-title: Sacramental Peyote and the Native American Church
+title: halpern sacramental peyote and native american church and the metzner-peyote-ceremonies-native-american-church-and-huichol-traditions Church
 created: 2026-04-28
 tags:
   - law
@@ -22,7 +22,7 @@ type: concept
 # Sacramental Peyote and the Native American Church
 
 The Native American Church (NAC) represents the longest-standing legal protection for sacramental
-psychedelic use in the United States. John H. Halpern's 2004 review article in *Pharmacology and
+psychedelic use in the [[dmt-containing-plants-united-states-halpern]]. John H. Halpern's 2004 review article in *Pharmacology and
 Therapeutics* provides a comprehensive overview of the legal, pharmacological, and cultural
 dimensions of peyote use within this religious tradition, as well as the emerging legal challenges
 posed by newer Brazilian-derived ayahuasca-using religions seeking similar protections.
@@ -49,10 +49,10 @@ inadvisable.
 
 The NAC has approximately 300,000 members in the United States and Canada, making it the largest
 faith organization among Native Americans. It is pan-tribal, welcoming members from all recognized
-tribal nations. The church traces its formal incorporation to the late nineteenth century, though
+tribal nations. The church traces its formal incorporation to the late [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], though
 its ceremonial peyote use extends back centuries earlier among various Plains tribes. Meetings are
 held on Saturdays and holidays, conducted within a tipi or traditional structure under the guidance
-of a "Road Chief" or "Road Man."
+of a "Road Chief" or "[[fukuoka-road-man-does-not-live-by-bread-alone]]."
 
 The ceremonies are all-night affairs involving prayer, sacred peyote songs accompanied by a water
 drum and rattle, and ritual consumption of peyote. Participants pray for health of loved ones, safe
@@ -107,7 +107,7 @@ States.
 
 The UDV achieved a preliminary injunction barring the Department of Justice from enforcing drug laws
 against its members. The Oregon Board of Pharmacy issued the Santo Daime a religious exemption from
-state narcotics control. The governments of Peru and Brazil had recognized these faiths as bona fide
+state [[japan-narcotics-control-law-psilocybin-fungi-2002]]. The governments of Peru and Brazil had recognized these faiths as bona fide
 religions for more than twenty years. The NAC has been proactive in monitoring these developments,
 concerned that successful equal protection claims by the UDV or Santo Daime could undermine the
 treaty-based foundation of NAC protections.

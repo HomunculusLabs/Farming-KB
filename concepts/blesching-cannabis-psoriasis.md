@@ -25,7 +25,7 @@ and knees. No allopathic cure is available. Management consists of topical
 medications, systemic pharmaceuticals, ultraviolet light therapy, and
 nutritional supplements.
 
-According to the Cannabis Health Index, the evidence for cannabis in treating
+According to the [[blesching-cannabis-health-index-autoimmune-conditions]], the evidence for cannabis in treating
 psoriasis is based on 1 study reviewed with a CHI value of 3. While the
 evidence base is limited, the theoretical foundation from endocannabinoid
 system research is promising.
@@ -49,7 +49,7 @@ mechanism.
 ### The Skin's Endocannabinoid System
 
 A landmark 2009 multi-institutional study with researchers from Germany, the
-United States, England, and Hungary identified the endocannabinoid system in
+[[dmt-containing-plants-united-states-halpern]], England, and Hungary identified the endocannabinoid system in
 the skin for possible targeted approaches in treating various skin diseases.
 The main function of the ECS in the skin is to:
 
@@ -59,14 +59,14 @@ The main function of the ECS in the skin is to:
 - Produce proper immune responses
 
 Researchers believe that specific manipulation of the ECS might be beneficial
-in psoriasis among numerous other skin conditions. The ECS chart for
+in psoriasis among numerous other [[cannabis-for-skin-conditions-detailed]]. The ECS chart for
 psoriasis indicates that up-regulation of both CB1 and CB2 receptors produces
 suppression of keratinocyte proliferation and inflammation.
 
 ## Strain-Specific Considerations
 
 THC binds with both CB1 and CB2 relatively equally. Sativas and sativa-
-dominant strains tend to present with a higher THC:CBD ratio.
+dominant strains tend to present with a higher THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]].
 
 For psoriasis patients, both receptor pathways (CB1 and CB2) appear relevant.
 Whole-plant cannabis preparations that activate both receptor types may be
@@ -85,7 +85,7 @@ management strategies include:
 - **Systemic pharmaceuticals**: Methotrexate, cyclosporine, and biologics
   (TNF-alpha inhibitors, IL-17 inhibitors, IL-23 inhibitors)
 - **Phototherapy**: UVB and PUVA treatments
-- **Nutritional supplements**: Various vitamins and omega-3 fatty acids
+- **Nutritional supplements**: Various vitamins and omega-3 [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]
 
 Many of these treatments carry significant side effect profiles, and
 psoriasis often recurs when treatment is discontinued. The search for

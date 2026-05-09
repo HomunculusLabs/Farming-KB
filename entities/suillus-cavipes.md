@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Smith, A.H. & Thiers, H.D. (1964). "A Contribution toward a Monograph of North American Species of Suillus." University of Michigan Press.
+  - Smith, A.H. & Thiers, H.D. (1964). "A Contribution toward a Monograph of growing-gourmet-north-american-reishi-species Species of Suillus." University of Michigan Press.
   - Kuo, M. (2024). "Suillus cavipes." MushroomExpert.com.
   - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "North American Boletes." Syracuse University Press.
   - Association of Official Analytical Chemists (2012). "Official Methods of Analysis of AOAC International."
@@ -67,7 +67,7 @@ fusiform to ellipsoid in profile.
 ## Distribution and Habitat
 
 *Suillus cavipes* is found across temperate North America, from the
-northeastern United States and southeastern Canada west through the Great
+northeastern [[dmt-containing-plants-united-states-halpern]] and southeastern Canada west through the Great
 Lakes region to the Rocky Mountains.
 
 Its distribution closely tracks that of five-needled (white pine) hosts,
@@ -102,7 +102,7 @@ Young specimens with firm flesh are preferred.
 
 ## Cultivation
 
-There are no established commercial cultivation methods for *Suillus
+There are no established commercial [[synthetic-log-cultivation-methods-guide]] for *Suillus
 cavipes*.
 
 As an obligate ectomycorrhizal species, it requires a living host pine
@@ -113,7 +113,7 @@ Inoculation of pine seedlings with spore slurries or mycelial cultures
 has been explored for forestry applications, primarily to improve
 seedling survival and growth in reforestation projects.
 
-Success rates for artificial mycorrhizal inoculation of *Suillus* species
+Success rates for artificial [[teaming-with-fungi-mycorrhizal-inoculation-techniques]] of *Suillus* species
 are variable and generally lower than for *Pisolithus* or *Rhizopogon*.
 
 ## Ecology
@@ -128,12 +128,12 @@ This relationship is particularly important for pine regeneration in
 disturbed or nutrient-poor sites, where *Suillus* species can enhance
 phosphorus uptake and provide some protection against root pathogens.
 
-The species is one of the earlier successional ectomycorrhizal fungi to
+The species is one of the earlier successional [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] to
 colonize young pines, often appearing within 2–5 years of seedling
 establishment.
 
 Slugs and small mammals consume the fruiting bodies and may contribute
-to spore dispersal.
+to [[aquatic-fungi-spore-dispersal-ingold]].
 
 ## See Also
 
@@ -142,4 +142,7 @@ to spore dispersal.
 
 ## See Also
 
-- [[edible-wild-mushrooms-foraging-guide]]
+- edible-wild-mushroom-guide
+- [[suillus-luteus]]
+- [[ectomycorrhiza]]
+- [[mycorrhizal-inoculation]]

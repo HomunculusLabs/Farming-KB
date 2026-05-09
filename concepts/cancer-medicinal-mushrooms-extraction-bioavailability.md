@@ -1,5 +1,5 @@
 ---
-title: Mushroom Extraction Methods and Bioavailability
+title: mushroom-extraction-methods and Bioavailability
 created: 2026-04-26
 tags: [extraction, medicinal-mushrooms, bioavailability, pharmacology]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: concept
 
 # Mushroom Extraction Methods and Bioavailability
 
-The extraction and purification of bioactive compounds from medicinal
+The extraction and purification of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] from medicinal
 mushrooms is critical to their therapeutic application. Hot water
 extracts of many mushrooms used in traditional Chinese medicine have
 long been used in the treatment of various diseases including cancer.
@@ -30,7 +30,7 @@ extraction is the traditional and most common method for obtaining
 these compounds, mirroring the preparation methods used in traditional
 Chinese medicine.
 
-The polysaccharides of Tremella mesenterica, for example, are readily
+The polysaccharides of [[tremella-mesenterica]], for example, are readily
 extracted with hot water giving a smooth and stable solution used in
 Oriental cuisine and medicine. Hot water extracts have long been said
 to be efficacious in the treatment of various diseases including many
@@ -43,7 +43,7 @@ Different extraction methods yield different bioactive fractions, and
 the choice of solvent affects the types of compounds obtained. Water
 extracts tend to yield polysaccharides, while ethanol or alkali
 extraction may access triterpenoids, proteins and other non-polar
-compounds. An alkali extract from Ganoderma lucidum has been shown to
+compounds. An alkali extract from [[ganoderma-lucidum]] has been shown to
 activate both the classical and alternative pathways of the complement
 system, while water-extracted polysaccharide fractions enhanced the
 cytotoxicity of splenic NK cells in tumour-bearing mice.
@@ -79,7 +79,7 @@ administration. Key examples include:
 - Maitake D-fraction: orally bioavailable
 - AHCC: orally bioavailable (low molecular weight alpha-glucans)
 
-The Agaricus blazei beta-1,6 glucan study demonstrated that acid
+The [[agaricus-blazei]] beta-1,6 glucan study demonstrated that acid
 treatment to reduce molecular mass from high to approximately 10 kDa
 converted a non-orally-active compound into an orally-active one. This
 finding could have significant application with other large beta-glucans
@@ -89,7 +89,7 @@ immunonutriceuticals.
 ## Protein Binding and Oral Activity
 
 An important observation is that the most successful orally-active
-mushroom compounds (PSK, PSP) are protein-bound polysaccharides rather
+[[medicinal-mushroom-compounds-and-health-benefits]] (PSK, PSP) are protein-bound polysaccharides rather
 than pure polysaccharides. The protein component appears to influence
 both bioavailability and immunological activity. PSK and PSP are
 protein-bound polysaccharides with a molecular mass of about 100 kDa,
@@ -102,11 +102,11 @@ exhaustively carried out in pre-clinical experiments. Acute, subacute
 and chronic toxicity tests have been performed with no evidence of
 toxicity at therapeutic doses. There were no anaphylactic reactions
 and a wide range of regulatory tests showed no evidence of
-genotoxicity. No adverse effects were found in reproduction, lactation
+genotoxicity. No [[blesching-cannabis-safety-adverse-effects-evidence]] were found in reproduction, lactation
 or teratogenicity studies.
 
 ## Related
 
 - [[cancer-medicinal-mushrooms-submerged-fermentation-production]]
 - [[cancer-medicinal-mushrooms-immune-modulation-beta-glucans]]
-- [[mushroom-polysaccharide-safety-toxicity]]
+- mushroom-polysaccharide-safety-toxicity

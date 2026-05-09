@@ -1,5 +1,5 @@
 ---
-title: "Trees as Nature's Solar Power Plants"
+title: "Trees as Nature's holmgren trees solar power plants detailed Plants"
 created: 2026-04-26
 tags:
   - trees
@@ -10,16 +10,17 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+  sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: concept
 ---
 
 # Trees as Nature's Solar Power Plants
 
 David Holmgren argues that trees are the ultimate development of biological capture
-and storage of solar energy in forms useful to future generations. Although trees
+and storage of [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] in forms useful to future generations. Although trees
 do not yield electricity directly, they most efficiently convert dilute solar energy
-into wood that can effectively substitute for many current uses of fossil fuel.
+into wood that can effectively substitute for many current uses of [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]].
 
 ## The Solar Energy Comparison
 
@@ -41,8 +42,8 @@ Holmgren identifies several compelling advantages of trees over technological
 energy solutions:
 
 - Trees provide wood for decentralised production of transport fuels using
-  intermediate technology (wood gas or methanol)
-- They provide structural timber products, fibre, and wood chemical products to
+  [[holmgren-gigantism-intermediate-technology-and-small-scale]] (wood gas or methanol)
+- They provide [[singh-wood-rot-fungi-structural-timber-decay]] products, fibre, and wood chemical products to
   replace high-energy concrete, metal, and synthetic materials
 - Forests produce honey, fungi, herbs, meat, and hides as secondary products
 - Wood-producing forests can grow sustainably on the poorest land unsuited to
@@ -59,7 +60,7 @@ high-quality (generally non-renewable) energy for harvesting infrastructure:
   landscape-forming processes have already created most of what is needed
 - Biomass from forest waste or thinnings has low inputs because photosynthesis
   and natural forest processes have already done most of the work
-- Wind power requires much greater harvesting infrastructure due to the lower
+- [[holmgren-wind-power-and-renewable-energy-debate]] requires much greater harvesting infrastructure due to the lower
   quality and erratic nature of the energy resource
 - Solar electric power has the most abundant resource but so low in quality that
   vast infrastructure is required relative to the quantity harvested
@@ -107,5 +108,11 @@ question of how to create forests that were agriculturally productive, rather
 than simply seeing the need for less farmland and more forest for catchment
 protection.
 
-The [[holmgren-forest-management-sustainable-yield]],
+The holmgren-forest-management-sustainable-yield,
 [[holmgren-soil-humus-carbon-storage-rebuilding]]
+## See Also
+- [[david-holmgren]]
+- [[permaculture-plants-fire-resistant-trees-shrubs]]
+- [[permaculture-plants-legume-trees-acacia-carob-locust]]
+- [[permaculture-plants-nitrogen-fixing-trees]]
+- [[permaculture-plants-fruit-trees-subtropical]]

@@ -27,21 +27,21 @@ This method is described as easier, quicker, and more trouble-free.
 After inoculation, bags are placed in a cardboard box in a warm location.
 Visible mycelium appears within a few days.
 Once fully colonized, filter cans are removed
-and bags are transferred to a humidity chamber.
+and bags are transferred to a [[mushroom-humidity-chamber-design-operation]].
 When mushroom primordia form, bags are cut down the sides
 leaving approximately 2cm of bag at the bottom for support.
 
 ## See Also
 
-- [[straw-substrate-boil-a-bag-cultivation-method]]
+- straw-substrate-boil-a-bag-cultivation-method
 - [[mushroom-humidity-chamber-design-operation]]
 
 ## Sources
 
-- Jarrold, D.H. Indoor Mushroom Growing Technique for the Boil-A-Bag.
+- Jarrold, D.H. Indoor [[duggar-mushroom-growing-history-and-methods]] Technique for the Boil-A-Bag.
 ## Practical Considerations
 
-When working with Straw Substrate Preparation Mushroom Cultivation, several practical factors should be
+When working with Straw [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] [[accessible-mushroom-cultivation-for-disabilities]], several practical factors should be
 carefully considered to achieve optimal results. These include
 the specific conditions of the implementation context, available
 resources, timing requirements, and the interactions between this
@@ -55,7 +55,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -97,4 +97,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

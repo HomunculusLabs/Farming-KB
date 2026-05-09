@@ -9,7 +9,7 @@ sources:
 ---
 # Bioregional Organization
 
-A bioregional association is an association of the residents of a natural and identifiable region, organized to achieve local self-reliance while maintaining global connections. In permaculture, bioregional organization extends the design principles applied to individual sites to the scale of whole regions and watersheds.
+A bioregional association is an association of the residents of a natural and identifiable region, organized to achieve local self-reliance while maintaining global connections. In permaculture, bioregional organization extends the [[holmgren-permaculture-twelve-design-principles-framework]] applied to individual sites to the scale of whole regions and watersheds.
 
 ## Defining a Bioregion
 
@@ -33,7 +33,7 @@ People can be called on to write accounts of their specialities as they apply to
 
 - **Food**: Consumer-producer associations and gardening or soil societies
 - **Shelter**: Owner-builder associations
-- **Energy**: Appropriate technology associations
+- **Energy**: [[mollison-designers-appropriate-technology-small-scale-tools]] associations
 - **Finance**: An "earthbank" association
 
 And so on for crafts, music, markets, livestock, and nature study or any other interest.
@@ -54,14 +54,14 @@ An accountant on call can handily contract to service many groups. The regional 
 
 ## Resource Categories
 
-The bioregional resource index compiled by Maxine Cole and [[zone-sector-analysis-guide]] - Site-scale zone and sector planning
-- [[permaculture-site-analysis]] - Site assessment techniques
+The bioregional resource index compiled by Maxine Cole and [[zone-sector-analysis-guide]] - Site-scale [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]] planning
+- [[permaculture-site-analysis]] - [[mollison-designers-design-client-interview-and-site-assessment-process]] techniques
 
-- [[holmgren-permaculture-ethics-foundations]]. The bioregional organization movement has raised awareness of the need to identify geographic governance boundaries that reflect natural systems, especially river catchments. [[holmgren-permaculture-land-tenure-and-legal-structures]] and [[holmgren-permaculture-diversity-principle]], [[community-garden-design]], [[community-finance-and-alternative-economies]]
+- holmgren-permaculture-ethics-foundations. The bioregional organization movement has raised awareness of the need to identify geographic governance boundaries that reflect natural systems, especially river catchments. holmgren-permaculture-land-tenure-and-legal-structures and holmgren-permaculture-diversity-principle, [[community-garden-design]], [[community-finance-and-alternative-economies]]
 ## Merged: Land Trusts And Trusteeship
-**Source:** Permaculture: A Designer's Manual (Bill Mollison, Ch. 14.12) | **Updated:** 2026-04-18 "Our own lifetimes are, in terms of soils, trees, or climate, as ephemeral as snowflakes. - bioregional organization - bioregional organization - [[permaculture-village-design]] - [[permaculture-retrofit-suburbia]]. Holmgren's analysis of land tenure, commons, and the spectre of neo-feudalism addresses one of the most politically charged aspects of permaculture design. See [[holmgren-intentional-communities-history]]. The [[holmgren-forest-management-sustainable-yield]], [[holmgren-ethical-philosophical-framework]], bioregional organization, bioregional organization
+**Source:** Permaculture: A Designer's Manual (Bill Mollison, Ch. 14.12) | **Updated:** 2026-04-18 "Our own lifetimes are, in terms of soils, trees, or climate, as ephemeral as snowflakes. - bioregional organization - bioregional organization - permaculture-village-design - permaculture-retrofit-suburbia. Holmgren's analysis of land tenure, commons, and the spectre of neo-feudalism addresses one of the most politically charged aspects of [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]. See holmgren-intentional-communities-history. The holmgren-forest-management-sustainable-yield, holmgren-ethical-philosophical-framework, bioregional organization, bioregional organization
 ## Merged: Trusts And Legal Strategies In Permaculture
-**Source:** Permaculture: A Designer's Manual (Bill Mollison, Ch. 14.7) | **Updated:** 2026-04-18 Trusts in the public interest are the legal basis for churches, universities, hospitals, and charities. See also bioregional organization and [[community-economics-in-permaculture]] - bioregional organization - [[permaculture-farm-design-principles]]
+**Source:** Permaculture: A Designer's Manual (Bill Mollison, Ch. 14.7) | **Updated:** 2026-04-18 Trusts in the public interest are the legal basis for churches, universities, hospitals, and charities. See also bioregional organization and community-economics-in-permaculture - bioregional organization - [[permaculture-farm-design-principles]]
 ## Practical Considerations
 
 Successful implementation of Bioregional Organization requires attention to
@@ -81,3 +81,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[bioregional-organization-mollison]]

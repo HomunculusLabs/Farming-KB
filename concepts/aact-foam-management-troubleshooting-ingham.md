@@ -11,12 +11,12 @@ sources:
 # AACT Foam Management and Troubleshooting
 
 Dr. Elaine Ingham's guidance on foam formation, management, and what foam
-indicates about the biology in Actively Aerated Compost Tea (AACT) from the
+indicates about the biology in Actively [[actively-aerated-compost-tea]] Tea (AACT) from the
 Field Guide I for AACT.
 
 ## Understanding Foam in AACT
 
-Foam is a natural byproduct of healthy AACT brewing. The presence of foam
+Foam is a natural byproduct of healthy [[ingham-aact-brewing-equipment-reliability-machine-testing-standards]]. The presence of foam
 generally indicates active microbial metabolism and the production of
 surfactants by bacteria and other microorganisms. However, the character,
 quantity, and behavior of foam provides important diagnostic information about
@@ -67,7 +67,7 @@ If foam is excessive, the most common cause is too much food:
 
 - Use a nylon stocking or mesh bag over the compost basket to contain
   fine particulates that contribute to foam stabilization
-- Gently stirring the foam back into the brew can break surface tension
+- Gently stirring the foam back into the brew can break [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]]
 - Some brewers use a foam control ring or baffle at the top of the vessel
 - Do NOT add anti-foaming chemicals — these kill beneficial organisms
 
@@ -93,11 +93,11 @@ Your nose is one of the best tools for monitoring AACT:
 ### Bad Smells (Indicates Problems)
 - Sulfur, rotten egg, or septic odor
 - Vomit or sour milk smell
-- Putrid or decayed organic matter
+- Putrid or decayed [[hamilton-composting-and-organic-matter-management]]
 - Ammonia or sharp chemical smell
 
 If the tea smells bad at any point during the brew, the beneficial organisms
-have been lost or outcompeted by anaerobic organisms. The tea should be
+have been lost or outcompeted by [[ingham-anaerobic-organisms-role-soil]]. The tea should be
 discarded or applied only to non-food areas. Bad-smelling tea can actually
 harm plants by introducing pathogens or phytotoxic compounds.
 
@@ -108,7 +108,7 @@ harm plants by introducing pathogens or phytotoxic compounds.
 Slime on the inside of the brewing vessel or on equipment indicates biofilm
 buildup:
 - After each brew, wipe down the interior with a clean cloth
-- Use dilute hydrogen peroxide (3%) or baking soda solution for cleaning
+- Use dilute [[cervantes-hydrogen-peroxide-sterilization]] (3%) or baking soda solution for cleaning
 - Rinse thoroughly with clean water before the next brew
 - Do NOT use bleach or harsh chemicals — residues kill beneficial organisms
 
@@ -138,8 +138,6 @@ pH provides additional diagnostic information alongside foam observation:
 - pH rising above 8.0 may indicate ammonium accumulation
 - Fungi prefer slightly lower pH (5.5–7.0) than bacteria (6.0–7.5)
 - Monitor pH at the start, middle, and end of each brew cycle
-
-## Reverse Osmosis Water Considerations
 
 ## See Also
 

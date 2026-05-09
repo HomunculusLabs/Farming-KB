@@ -1,5 +1,5 @@
 ---
-title: "Cannabis Genetics and Mendelian Breeding"
+title: "vic-high-cannabis-genetics-mendelian-inheritance and Mendelian Breeding"
 created: 2026-04-28
 tags: [cannabis, genetics, breeding, mendelian, marijuana-botany]
 date: 2026-04-25
@@ -48,7 +48,7 @@ compound-pinnate dominant and webbed recessive.
 The homozygous conditions (WW or ww) are termed true-breeding, while
 the heterozygous hybrid (Ww or wW) shows the dominant phenotype. When
 F1 offspring are crossed, the F2 generation shows an approximately 3:1
-phenotype ratio of dominant to recessive traits.
+phenotype ratio of dominant to [[cervantes-dominance-recessive-traits-alleles]].
 
 ## Mendel's First Law
 
@@ -112,11 +112,11 @@ Menzel (1964) provided a crude chromosome map of Cannabis. Chromosome
 short and dense. Chromosome 8 is the presumed sex chromosome. Future
 chromosome mapping will enable geneticists to determine the number and
 location of genes influencing important traits, potentially allowing
-precise manipulation of the gene pool.
+precise manipulation of the [[cannabis-gene-pool-preservation-acclimatization-clarke]].
 
 ## Practical Breeding Considerations
 
-All Cannabis grown in North America originated from foreign lands.
+All Cannabis grown in [[psilocybin-north-america-pacific-northwest]] originated from foreign lands.
 Natural selection and human seed-saving created native strains with
 localized disease and climate resistance. The breeder's task is to
 select favorable phenotypes through controlled crosses, maintaining
@@ -128,7 +128,7 @@ of many may prove acceptable as parents for a breeding program.
 
 - [[clarke-marijuana-botany-flowering-and-photoperiodism]] Topics
 
-- Sinsemilla Life Cycle of Cannabis
+- [[cannabis-sinsemilla-life-cycle]] Cycle of Cannabis
 - [[clarke-marijuana-botany-trichome-biology]]
 - Cannabinoid Chemotypes and Biosynthesis
 - Cannabis Classification and History

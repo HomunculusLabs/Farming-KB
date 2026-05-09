@@ -139,51 +139,7 @@ Above plus: sap collection bags/tubing, storage tank, wider evaporator pan, pre-
 
 | Grade | Color | Flavor | When Produced |
 |-------|-------|--------|---------------|
-| Golden (Fancy) | Light amber | Delicate, mild | Early season |
-| Amber | Medium amber | Rich, full | Mid-season |
-| Dark | Dark amber | Robust, caramel | Late season |
-| Very Dark | Very dark | Strong, molasses-like | End of season |
-
-All grades are the same quality -- the grade depends on when in the season the sap was collected. Early season sap makes lighter syrup; late season makes darker.
-
-## Maple Sugar
-
-Syrup can be boiled further to make maple sugar:
-
-1. Boil syrup past the 219F syrup stage
-2. Continue boiling to approximately 260F (127C) -- the "soft ball" stage
-3. Remove from heat and stir vigorously
-4. As it cools, it crystallizes into sugar
-5. Pour into molds or spread on a pan to cool
-6. Grind into powder for use as a sweetener
-- Yield: approximately 8 pounds of sugar per gallon of syrup
-- Maple sugar was the primary sweetener in northeastern North America before cane sugar became common
-
-## Yield Expectations
-
-| Number of Taps | Sap (gallons) | Syrup (gallons) | Syrup (pounds) |
-|---------------|---------------|-----------------|----------------|
-| 5 taps | 50-75 | 1-2 | 11-22 |
-| 10 taps | 100-150 | 2-4 | 22-44 |
-| 25 taps | 250-375 | 6-10 | 66-110 |
-| 50 taps | 500-750 | 12-25 | 132-275 |
-
-Yields vary enormously by season, weather, and tree health.
-
-## Troubleshooting
-
-| Problem | Cause | Solution |
-|---------|-------|----------|
-| Sap won't run | No freeze-thaw cycle | Wait for weather to cooperate |
-| Cloudy sap | Bacterial growth | Process immediately, keep cold |
-| Off-flavor (buddy) | Tapping too late | Stop tapping when buds swell |
-| Syrup too thin | Didn't boil long enough | Boil to 219F |
-| Syrup crystallizes in jar | Too much sugar, not enough water | Reheat and add a little water |
-| Mold on syrup surface | Not sealed properly | Skim mold, reheat to 180F, re-seal |
-| Burning/scorching | Pan too hot or too small | Use wider pan, lower heat, stir |
-| Slow boiling | Pan not wide enough | Use wider pan (more surface area) |
-| Low yield | Non-sugar maple species | Stick to sugar and black maples |
-
+| Golden (Fancy) | Light amber | Delicate, mild | [[solomon-sprouting-seeds-and-early-season-nutrition]] |
 ## Related Pages
 
 - [[homesteading]] -- broader homestead activities

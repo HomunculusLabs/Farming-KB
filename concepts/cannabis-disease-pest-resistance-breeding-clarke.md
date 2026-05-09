@@ -1,5 +1,5 @@
 ---
-title: Cannabis Disease and Pest Resistance Breeding
+title: Cannabis Disease and cannabis disease pest resistance breeding clarke Breeding
 created: 2026-04-28
 tags: [cannabis, breeding, disease-resistance, pest-resistance, genetics,
   clarke]
@@ -38,7 +38,7 @@ present within the population to provide the raw material for selection.
 
 ### Greenhouse Mold Resistance
 
-With the popularity of greenhouse Cannabis cultivation, Clarke identifies
+With the popularity of greenhouse [[query-how-does-no-till-cannabis-cultivation-work]], Clarke identifies
 a need for strains with increased resistance to mold. Molds usually
 reproduce by wind-borne spores, so negligence can rapidly lead to epidemic
 disaster in the confined greenhouse environment. Selection and breeding of
@@ -55,7 +55,7 @@ few plants are infested with insects while adjacent plants remain untouched.
 
 Cannabinoid and terpenoid resins are most probably responsible for repelling
 insect attack in Cannabis. Levels of these defensive compounds vary from
-plant to plant, creating natural variation that breeders can exploit.
+plant to plant, [[fukuoka-creating-natural-farm-site-selection-establishment]] variation that breeders can exploit.
 Cannabis has evolved defenses against insect attack in the form of
 resin-secreting [[cannabis-breeding-traits-selection-criteria-clarke]] such
 as potency, maturation rate, and yield. A currently unrecognized gene may
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

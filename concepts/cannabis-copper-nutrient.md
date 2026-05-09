@@ -14,7 +14,7 @@ tags: [cannabis, nutrients]
 
 Copper is a [[cannabis-nutrient-deficiency-guide]] for diagnostic guidance.
 
-Copper sulfate and copper sulfate/lime sprays are used as fungicides and can contribute to copper levels in the growing medium. Be cautious about combining copper-based pest control with copper-containing nutrient solutions. Always account for all copper sources when calculating total copper input.
+Copper sulfate and copper sulfate/lime sprays are used as fungicides and can contribute to copper levels in the growing medium. Be cautious about combining copper-based [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] with copper-containing nutrient solutions. Always account for all copper sources when calculating total copper input.
 
 ## Organic Sources
 
@@ -47,7 +47,7 @@ Note the very narrow range between optimal and toxic levels, especially in hydro
 - Over-applying copper as a fungicide in acidic soils where it is most readily absorbed
 - Confusing copper-induced iron deficiency with a genuine iron deficiency
 - Failing to track cumulative copper buildup from repeated fungicide applications
-- Not flushing the growing medium between copper-containing nutrient regimens
+- Not flushing the growing medium between copper-containing [[cannabis-nutrient-regimens-comparison]]
 
 ## See Also
 
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

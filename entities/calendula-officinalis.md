@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-Calendula officinalis, commonly known as pot marigold, is an annual or short-lived perennial herb in the aster family (Asteraceae). Native to the Mediterranean basin and Southern Europe, it has been cultivated for over 1,000 years for its medicinal, culinary, ornamental, and dye-producing properties. One of the most extensively studied medicinal herbs in both traditional Western herbalism and modern integrative medicine, its bright orange and yellow ray florets contain triterpene saponins, flavonoids, carotenoids, and essential oils that confer potent anti-inflammatory, wound-healing, antimicrobial, and antioxidant properties.
+Calendula officinalis, commonly known as pot marigold, is an annual or short-lived perennial herb in the aster family (Asteraceae). Native to the Mediterranean basin and Southern Europe, it has been cultivated for over 1,000 years for its medicinal, culinary, ornamental, and dye-producing properties. One of the most extensively studied [[permaculture-plants-medicinal-herbs-healing]] in both traditional Western herbalism and modern integrative medicine, its bright orange and yellow ray florets contain triterpene saponins, flavonoids, carotenoids, and essential oils that confer potent anti-inflammatory, wound-healing, antimicrobial, and antioxidant properties.
 
 ## Taxonomy
 
@@ -60,7 +60,7 @@ The root system is fibrous and relatively shallow, with a central taproot and nu
 
 ## Phytochemistry
 
-The medicinal properties of C. officinalis are attributed to bioactive secondary metabolites concentrated primarily in the flower heads:
+The medicinal properties of C. officinalis are attributed to bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]] concentrated primarily in the flower heads:
 
 ### Triterpenoids
 
@@ -100,7 +100,7 @@ Calendula's most well-established clinical application is in topical wound care:
 - **Anti-inflammatory**: Reduces prostaglandin E₂ and leukotriene synthesis via COX-2 inhibition
 - **Antimicrobial**: Active against *S. aureus*, *E. coli*, *C. albicans*, *P. aeruginosa* in vitro
 - **Burn healing**: Promotes re-epithelialization and reduces burn-related inflammation
-- **Diaper dermatitis**: Efficacy comparable to conventional treatments in clinical trials
+- **Diaper dermatitis**: Efficacy comparable to conventional treatments in [[mushroom-cancer-clinical-trials-overview]]
 - **Radiation dermatitis**: Prophylactic application reduces incidence in cancer patients
 
 ### Anti-Inflammatory Effects
@@ -109,7 +109,7 @@ The triterpene content, particularly faradiol esters, provides significant anti-
 
 ### Antimicrobial Activity
 
-Calendula extracts demonstrate broad-spectrum antimicrobial properties, with strongest activity against Gram-positive organisms (particularly *S. aureus*). Antifungal activity against *C. albicans* and *A. niger* has been documented, along with preliminary antiviral activity against HSV-1 and HIV in vitro.
+Calendula extracts demonstrate broad-spectrum [[mycelium-running-mushroom-antimicrobial-properties-species-chart]], with strongest activity against Gram-positive organisms (particularly *S. aureus*). Antifungal activity against *C. albicans* and *A. niger* has been documented, along with preliminary antiviral activity against HSV-1 and HIV in vitro.
 
 ### Antioxidant Activity
 
@@ -123,17 +123,19 @@ Calendula grows as an annual in USDA Zones 2–11, preferring well-drained loam 
 
 ### Permaculture and Companion Planting
 
-Calendula is a highly valued companion plant in permaculture and organic gardening:
+Calendula is a highly valued companion plant in permaculture and [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]:
 
 - **Pollinator attraction**: Nectar-rich flowers attract bees, butterflies, and hoverflies
 - **Pest deterrence**: Aromatic foliage deters aphids, whiteflies, and asparagus beetles
 - **Trap cropping**: Attracts slugs and aphids away from more valuable crops
 - **Soil health**: Fibrous roots improve soil structure; decomposing biomass adds organic matter
-- **Dynamic accumulator**: Accumulates potassium, phosphorus, and trace minerals from deep soil layers
+- **[[nutrient-dynamic-accumulator-reference]]**: Accumulates potassium, phosphorus, and trace minerals from deep soil layers
 
 ## Culinary Uses
 
 ## See Also
+
+- [[achyranthes-aspera]]
 
 - [[valeriana-officinalis]]
 - [[laricifomes-officinalis]]

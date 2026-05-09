@@ -23,9 +23,9 @@ type: concept
 Cannabis occupies a unique position in McKenna's pharmacological history. Unlike
 the vision-inducing hallucinogens of the Archaic partnership paradise, cannabis
 functions as a subtler agent of boundary dissolution, one capable of satisfying
-the innate yearning for Archaic consciousness expansion while leaving largely
+the innate yearning for Archaic [[mckenna-consciousness-expansion-and-drug-war]] while leaving largely
 intact the structures of ordinary society. Its history spans millennia, from
-ancient Scythian rituals to the drug wars of the twentieth century.
+ancient Scythian rituals to the drug wars of the [[coleman-louis-savier-twentieth-century-maraicher]].
 
 ## Hashish and the Scythians
 
@@ -41,12 +41,12 @@ psychoactive substance.
 
 In India, cannabis was absorbed into the religious fabric. Bhang, ganja, and
 charas became associated with the worship of Shiva. The drink bhang, made from
-cannabis leaves and milk, was considered a sacred potion. In China, cannabis had
+[[query-what-causes-cannabis-leaves-to-curl-and-how-to-fix-it]] and milk, was considered a sacred potion. In China, cannabis had
 a long history of both fiber and psychoactive use. The Chinese character for
 cannabis, ma, is one of the oldest in the written language and combines the
 radicals for "plant" and "two," suggesting the plant's dual nature.
 
-Cannabis as a cultural style differs fundamentally from culture to culture. In
+Cannabis as a [[mckenna-cannabis-cultural-style-and-feminine-plant]] differs fundamentally from culture to culture. In
 India it was absorbed into religion. In the Islamic world it became the
 accompaniment of poetry and contemplation. In Africa it was associated with
 labor and social bonding. Each culture found its own relationship with the plant,
@@ -71,7 +71,7 @@ signs of an incipient partnership revival.
 Taylor was impressed by the beauty, power, and general depth of information
 contained in the experience. His approach was not hedonistic but knowledge
 seeking, and for him the drug states raised questions about human psychology.
-This "scientific" attitude was typical of the nineteenth century literate user of
+This "scientific" attitude was typical of the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] literate user of
 opium and hashish.
 
 ## Fitz Hugh Ludlow
@@ -91,7 +91,7 @@ hashish a remarkable literary achievement.
 
 ## Cannabis in the Twentieth Century
 
-The history of cannabis in the United States after Ludlow was at first a happy
+The history of cannabis in the [[dmt-containing-plants-united-states-halpern]] after Ludlow was at first a happy
 one. Cannabis use was neither stigmatized nor popularized until the early 1930s,
 when the crusades of Harry J. Anslinger, U.S. Commissioner of Narcotics,
 created a public hysteria. Anslinger appears to have acted largely at the behest

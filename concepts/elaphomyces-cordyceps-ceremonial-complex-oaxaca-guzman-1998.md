@@ -1,5 +1,5 @@
 ---
-title: Elaphomyces and Cordyceps Ceremonial Complex in Oaxaca
+title: Elaphomyces and elaphomyces cordyceps ceremonial complex oaxaca guzman 1998 Complex in Oaxaca
 created: 2026-05-06
 tags:
   - ethnomycology
@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Guzmán G, Allen JW, Gartz J. A worldwide geographical distribution of the neurotropic fungi, an analysis and discussion. Ann Mus civ Rovereto. 1998;14:189-280.
+  - Guzmán G, Allen JW, Gartz J. A worldwide geographical distribution of the challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification, an analysis and discussion. Ann Mus civ Rovereto. 1998;14:189-280.
 type: concept
 ---
 
@@ -47,7 +47,7 @@ their ceremonial framework.
 C. capitata is a club fungus that produces a distinctive bright orange to
 reddish club-shaped stroma arising from its host. It parasitizes several
 species of Elaphomyces, particularly E. granulatus. The species is widely
-distributed in Europe and North America, and its presence in Mexico connects
+distributed in Europe and [[psilocybin-north-america-pacific-northwest]], and its presence in Mexico connects
 it to the broader Holarctic distribution of its Elaphomyces hosts.
 
 In the 1998 checklist, C. capitata is recorded from:
@@ -73,7 +73,7 @@ Elaphomyces is a genus of hypogeous (underground) fungi in the family
 Elaphomycetaceae. These are true truffles forming mycorrhizal associations with
 forest trees, particularly oaks, pines, and beeches. They produce globose,
 dark-colored fruiting bodies below the soil surface and rely on mammals
-(rodents, deer, wild pigs) for spore dispersal. Their involvement in the
+(rodents, deer, wild pigs) for [[aquatic-fungi-spore-dispersal-ingold]]. Their involvement in the
 ceremonial complex is significant because they are subterranean and difficult
 to find without trained knowledge, non-psychoactive, and ecologically important
 as mycorrhizal partners of forest trees.
@@ -99,7 +99,7 @@ aspects of indigenous mycological knowledge:
 
 ### Ecological Understanding
 The Trique recognition of the parasitic relationship between Cordyceps and
-Elaphomyces demonstrates detailed knowledge of fungal ecology. Understanding
+Elaphomyces demonstrates detailed knowledge of [[gadd-fungal-ecology-endophytes]]. Understanding
 that one fungus grows from another requires sustained observation and careful
 attention to subterranean processes.
 
@@ -109,7 +109,7 @@ including tree associations, soil types, and animal foraging patterns.
 
 ### Ceremonial Framework
 The concept of a "director" suggests a hierarchical understanding of the active
-elements. While Psilocybe mushrooms are the primary psychoactive fungi in
+elements. While Psilocybe mushrooms are the primary [[cattle-dispersal-psychoactive-fungi-australia]] in
 Oaxacan ceremonies, the Cordyceps-Elaphomyces complex appears to play a
 complementary role.
 

@@ -1,5 +1,5 @@
 ---
-title: Bamboo Treatment and Preservation
+title: mollison designers bamboo treatment preservation and Preservation
 created: 2026-04-28
 tags:
   - bamboo
@@ -17,8 +17,8 @@ type: concept
 # Bamboo Treatment and Preservation
 
 [[permaculture-design]], bamboo serves multiple functions beyond building:
-windbreaks, erosion control, animal fodder, edible shoots, water pipe,
-handicrafts, and biochar production. Mollison advocates integrating bamboo
+windbreaks, [[permplant-willows-salix-erosion-control-fodder]], animal fodder, edible shoots, water pipe,
+handicrafts, and [[comparison-biochar-production-guide-vs-biochar-soil-amendment]]. Mollison advocates integrating bamboo
 clumps into [[mollison-designers-lime-and-cement-natural-building]]
 and [[mollison-designers-earth-rammed-tire-construction]].
 ## Practical Applications
@@ -99,3 +99,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[mollison-designers-greywater-treatment-reedbeds]]

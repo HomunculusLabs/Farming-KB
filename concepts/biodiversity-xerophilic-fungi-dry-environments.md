@@ -51,11 +51,11 @@ over other standard media for isolating and enumerating these fungi.
 
 ## Community Dynamics in Arid Ecosystems
 
-Fungal community composition in xeric environments is closely tied to
+Fungal [[core-endorhiza-bacterial-community-composition-cannabis]] in xeric environments is closely tied to
 the spatial and temporal distribution of organic matter. Zak and
 colleagues (1995) reported that the fungal community on wood located
 under shrubs in the Chihuahuan desert remained stable over a 9-year
-period, whereas fungal communities on wood in woodrat middens changed
+period, whereas [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] on wood in woodrat middens changed
 considerably within months. This demonstrates that microhabitat
 stability and nutrient dynamics drive different successional patterns
 even within the same arid landscape. Woodrat middens provide a
@@ -84,7 +84,7 @@ degrees Celsius, while some species from cooler arid environments may
 prefer lower temperatures. Extended incubation periods, sometimes
 exceeding 4 weeks, may be needed for slow-growing xerotolerant species.
 
-Soil dilution plating onto DG18 or similar low-aw media is the standard
+Soil [[particle-filtration-dilution-plating-microfungal-isolation]] onto DG18 or similar low-aw media is the standard
 approach for quantitative enumeration. Soil samples are collected from
 the surface and subsurface, air-dried to ambient conditions (to avoid
 killing sensitive propagules through rapid desiccation), and processed
@@ -116,8 +116,8 @@ Many fungal species considered tolerant or even philic for extreme
 conditions likely survive and reproduce in microenvironments within
 apparently normal macroenvironments. Parallel use of multiple isolation
 regimens, including low-aw, extreme pH, and high-salt conditions, will
-provide a more complete assessment of fungal community composition and
-biodiversity patterns. Investigators should match isolation conditions
+provide a more complete [[monitoring-and-assessment-of-fungal-bioremediation]] community composition and
+[[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]. Investigators should match isolation conditions
 to the habitat being studied: using pH 4 media to look for acidophiles
 in a pH 2.5 habitat is ineffective, just as using standard media at
 25 degrees Celsius ignores the actual soil temperatures that may be
@@ -130,13 +130,16 @@ Use of the same specialized isolation methods in more normal habitats
 likely will uncover species with affinities for or tolerance of extreme
 conditions. This approach reveals the resource heterogeneity that
 exists in natural habitats and helps link fungal community dynamics to
-ecosystem processes across environmental gradients.
+[[fungal-ecosystem-processes-overview]] across environmental gradients.
 
 ## Related Topics
 
-- [[biodiversity-fungi-soil-ecosystems]] — soil fungal communities
+- biodiversity-fungi-soil-ecosystems — soil fungal communities
   including xeric habitats
 - [[biodiversity-fungi-soil-fungal-communities]] — soil fungal
   community structure and dynamics
 - [[biodiversity-of-fungi-biomass-carbon-soil-structure]] — role of
   fungi in soil processes under arid conditions
+- [[fungi-stressful-environments-thermophilic-xerophilic-halophilic]]
+- [[guzman-africa-neurotropic-fungi-underexplored-biodiversity]]
+- [[biodiversity-of-fungi-ecosystem-services-agriculture]]

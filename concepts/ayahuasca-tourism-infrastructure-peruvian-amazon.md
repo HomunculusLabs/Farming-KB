@@ -1,5 +1,5 @@
 ---
-title: "Ayahuasca Tourism Infrastructure and Economics in the Peruvian Amazon"
+title: "Ayahuasca ayahuasca tourism infrastructure peruvian amazon and Economics in the Peruvian Amazon"
 created: 2026-05-06
 tags: [ayahuasca, tourism, peru, ucayali, iquitos, shipibo, economics, commodification, retreat, shamanism]
 date: 2026-04-28
@@ -65,7 +65,7 @@ indigenous spiritual practice.
 ## Government Involvement and Cultural Integration
 
 Ayahuasca holds an officially recognised position in Peruvian culture
-that contrasts sharply with the country's drug war stance on other
+that contrasts sharply with the country's [[mckenna-drug-war-and-human-freedom]] stance on other
 substances. This dual attitude reflects the deep cultural roots of
 ayahuasca use in the Amazon:
 
@@ -105,8 +105,8 @@ Tourists seeking ayahuasca have several distinct options in South America:
 - **Peruvian indigenous-led ceremonies**: The most common and affordable
   option, ranging from informal family ceremonies to established
   tourist-oriented operations
-- **Brazilian ayahuasca churches**: Visitors can attend ceremonies of
-  syncretic churches such as the Santo Daime
+- **[[metzner-barquinha-umbanda-and-afro-brazilian-ayahuasca-syncretism]] churches**: Visitors can attend ceremonies of
+  [[entheogenic-syncretic-churches-brazil]] such as the [[metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha]]
 - **American-led retreats**: More expensive options offering greater
   comfort and English-language facilitation
 - **Four-star ayahuasca resorts**: High-end options that may feel
@@ -133,7 +133,9 @@ linguistic barriers and adverse reaction risks. The author notes that
 character assessment of practitioners is extremely difficult for
 short-term visitors.
 
-## Related Concepts
+## Related
+
+- [[ayahuasca-tourism-peruvian-amazon]] Concepts
 
 - [[shipibo-ayahuasca-towns-ucayali-pucallpa]]
 - [[ayahuasca-interactions-with-prescription-medications]]

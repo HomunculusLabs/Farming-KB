@@ -1,5 +1,5 @@
 ---
-title: "Energy Efficiency in Natural Farming"
+title: "fukuoka-textdoc-energy-efficiency-agricultural-labor in comparison-natural-farming-vs-permaculture"
 type: concept
 tags:
   - natural-farming
@@ -14,7 +14,7 @@ sources:
 
 # Energy Efficiency in Natural Farming
 
-Masanobu Fukuoka presented a compelling energy analysis comparing five methods of rice cultivation, demonstrating that natural farming achieves dramatically higher energy returns than any mechanized approach.
+Masanobu Fukuoka presented a compelling [[fukuoka-energy-analysis-rice-production-natural-vs-mechanized]] comparing five methods of rice cultivation, demonstrating that natural farming achieves dramatically higher energy returns than any mechanized approach.
 
 His data showed that natural farming requires only one man-day of labor to recover 200,000 kilocalories of food energy from a quarter-acre of land.
 
@@ -36,7 +36,7 @@ Moderately mechanized agriculture demanded twenty to thirty-five times the input
 
 Heavily mechanized agriculture required up to fifty times the energy expenditure of natural farming per unit of food produced.
 
-The pattern is clear: every step toward mechanization and scientific agriculture dramatically reduces the overall energy efficiency of food production.
+The pattern is clear: every step toward mechanization and [[fukuoka-critique-scientific-agriculture-civilization]] dramatically reduces the overall energy efficiency of food production.
 
 ## The Calorie Arithmetic
 
@@ -92,7 +92,7 @@ Scientific agriculture may increase total output per acre in the short term, but
 
 When energy inputs are properly accounted for, the net food energy delivered per unit of energy invested plummets.
 
-Chemical fertilizers require petroleum for manufacture and transport.
+[[cervantes-chemical-fertilizers-guide]] require petroleum for manufacture and transport.
 
 Pesticides are derived from petrochemical feedstocks.
 
@@ -122,7 +122,7 @@ The labor of one or two people was more than enough to manage crops on a quarter
 
 Fukuoka's energy analysis has profound implications for the future of food production.
 
-As petroleum supplies dwindle and energy costs rise, the energy inefficiency of mechanized agriculture becomes an existential vulnerability.
+As petroleum supplies dwindle and energy costs rise, the [[fukuoka-livestock-energy-inefficiency-caloric-cost]] of mechanized agriculture becomes an existential vulnerability.
 
 Farming systems that require fifty times the energy input of natural methods cannot survive an era of energy scarcity.
 

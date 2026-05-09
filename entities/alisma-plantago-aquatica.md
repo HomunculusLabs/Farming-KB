@@ -13,12 +13,12 @@ sources:
   - Lin, L. et al. (2005). "Alisma orientale." In: Chinese Materia Medica, Vol. 6. Shanghai Scientific and Technical Publishers.
   - Zhang, J.D. et al. (2012). "Chemical constituents from Alisma orientalis and their antitumor activities." Journal of Asian Natural Products Research, 14(6), 530-535.
   - Lee, S.J. et al. (2010). "Diuretic activity of the aqueous extract of Alisma plantago-aquatica in rats." Journal of Ethnopharmacology, 128(2), 396-401.
-  - Yáñez, M. et al. (2013). "Alisma plantago-aquatica." In: Flora of North America North of Mexico, Vol. 22. Oxford University Press.
+  - Yáñez, M. et al. (2013). "Alisma plantago-aquatica." In: Flora of [[psilocybin-north-america-pacific-northwest]] North of Mexico, Vol. 22. Oxford University Press.
 ---
 
 ## Overview
 
-**Alisma plantago-aquatica** (water plantain, European water plantain) is a perennial aquatic herb in the family Alismataceae. It inhabits shallow freshwater habitats across a broad temperate distribution in Europe, Asia, and North Africa.
+**Alisma plantago-aquatica** (water plantain, European water plantain) is a perennial aquatic herb in the family Alismataceae. It inhabits shallow freshwater habitats across a broad [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]] in Europe, Asia, and North Africa.
 
 The species is recognized by its distinctive basal rosette of elliptical leaves and tall, branching inflorescences bearing numerous small white to pale pink flowers. It is one of the most widely distributed aquatic monocots.
 
@@ -59,7 +59,7 @@ The species occupies shallow freshwater habitats including pond margins, ditches
 
 Optimal growth occurs in full sun to partial shade in water depths of 5 to 30 cm. Plants can also grow in saturated soils that are not permanently inundated, though flowering is reduced under drier conditions.
 
-A. plantago-aquatica tolerates a wide range of water chemistry but prefers neutral to slightly alkaline conditions. It is commonly found in eutrophic water bodies with high nutrient availability.
+A. plantago-aquatica tolerates a wide range of water chemistry but prefers neutral to slightly alkaline conditions. It is commonly found in eutrophic water bodies with high [[ph-and-nutrient-availability-garden-soils]].
 
 The species is moderately salt-tolerant and can colonize the margins of brackish lagoons and estuaries. It is a characteristic component of the Phragmitetum and Glycerietum plant communities.
 
@@ -89,7 +89,7 @@ Seasonal variation in alisol content is significant, with peak concentrations oc
 
 In traditional Chinese medicine (TCM), the dried rhizome of Alisma (Ze Xie) is classified as a diuretic that drains dampness and promotes urination. It is a component of several classical formulas including Liu Wei Di Huang Wan.
 
-The TCM indications include edema, urinary difficulty, diarrhea, and dizziness. It is traditionally combined with Poria cocos and Polyporus umbellatus in diuretic preparations.
+The TCM indications include edema, urinary difficulty, diarrhea, and dizziness. It is traditionally combined with Poria cocos and [[growing-gourmet-polyporus-umbellatus-zhu-ling-cultivation]] in diuretic preparations.
 
 In European herbal tradition, water plantain was used as a diuretic and wound herb. Culpeper recommended the fresh root bruised and applied to wounds and sores, and the leaves as a poultice for swollen breasts.
 
@@ -105,9 +105,9 @@ Propagation is primarily by division of rhizomes in early spring. Seeds germinat
 
 The rhizomes are harvested in autumn, typically 2 to 3 years after planting. After harvest, they are cleaned, sliced, and dried for use in herbal preparations.
 
-The species is occasionally grown in water gardens and constructed wetlands for its ornamental flowers and utility in nutrient uptake. It is not considered weedy in cultivation due to its moderate growth rate.
+The species is occasionally grown in water gardens and [[comparison-constructed-wetlands-vs-bioswales]] for its ornamental flowers and utility in nutrient uptake. It is not considered weedy in cultivation due to its moderate growth rate.
 
-Pest and disease issues are minimal in cultivation. The primary concern is excessive water depth, which reduces flowering and can cause rhizome rot in poorly drained conditions.
+[[hamilton-pest-and-disease-control-organic]] issues are minimal in cultivation. The primary concern is excessive water depth, which reduces flowering and can cause rhizome rot in poorly drained conditions.
 
 ## See Also
 

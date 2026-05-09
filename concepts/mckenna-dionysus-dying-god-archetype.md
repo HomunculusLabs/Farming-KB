@@ -1,5 +1,5 @@
 ---
-title: Dionysus and the Dying God Archetype
+title: Dionysus and the mckenna dionysus dying god archetype Archetype
 created: 2026-04-28
 tags:
   - mckenna
@@ -58,7 +58,7 @@ her.
 
 ## Personification of Ecstatic Crisis
 
-A point of view sensitive to the polarity of the partnership versus dominator
+A point of view sensitive to the polarity of the partnership [[partnership-versus-dominator-culture]]
 relationship in the ancient world cannot fail to see Dionysus as an important
 clue. Is not Dionysus, in his androgyny, in his madness, in his personification
 of ecstatic intoxication, the image of the spiritual crises that overcame the
@@ -89,7 +89,7 @@ Minoan culture was still in contact with an "age of honey."
 
 The sacred ground on which the maenads performed their ritual dance was said to
 have flowed with milk, wine, and the Nectar of bees. This trinity of substances
-may represent a devolutionary sequence: from the mushroom cult (honey as
+may represent a devolutionary sequence: from the [[african-mushroom-cult-history]] (honey as
 preservative), through the opium phase, to wine as the final and most degraded
 form of the original ecstatic sacrament.
 
@@ -116,7 +116,7 @@ reality: the presence of the Great Goddess.
 
 ## The Last Outpost of the Old Way
 
-The great mystery cults that coexisted in the ancient Greek world of the fourth
+The great [[ancient-greek-mystery-cults-comparison]] that coexisted in the ancient Greek world of the fourth
 century B.C.E., which we call Dionysian and Eleusinian, were the last frail
 outposts in the west of a tradition of using psychoactive plants to dissolve
 personal boundaries and to gain access to gnosis: true knowledge of the nature
@@ -125,7 +125,7 @@ Cretan origins, it is not clear whether psychoactive substances were a part of
 the celebration of the Minoan rites for the Goddess.
 
 The Dionysus connection represents a bridge between the ancient world of the
-partnership society and the classical world that would eventually suppress it.
+[[mckenna-dominator-vs-partnership-society-model]] and the classical world that would eventually suppress it.
 In his wildness, his androgyny, and his devotion to ecstasy, Dionysus preserves
 the memory of a time when the human relationship to plant intoxicants was one of
 sacred symbiosis rather than profane addiction.

@@ -1,16 +1,16 @@
 ---
-title: "Cannabis Flowering and Photoperiodism: Clarke's Analysis"
+title: "green-cannabis-flowering-management and Photoperiodism: Clarke's Analysis"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
-  - "Robert C Clarke - Marijuana Botany"
+  - "Robert C Clarke - clarke-marijuana-botany-cannabinoid-biosynthesis-pathway"
 type: concept
 tags: [reference]
 ---
 
 # Cannabis Flowering and Photoperiodism: Clarke's Analysis
 
-Robert Connell Clarke's "Marijuana Botany" provides a detailed botanical description of the Cannabis life cycle, with particular emphasis on the photoperiodic control of flowering -- the critical transition from vegetative growth to reproductive development that determines the quality and timing of the harvest.
+Robert Connell Clarke's "Marijuana Botany" provides a detailed botanical description of the Cannabis life cycle, with particular emphasis on the photoperiodic control of flowering -- the critical transition from [[cannabis-vegetative-growth-stage]] to reproductive development that determines the quality and timing of the harvest.
 
 ## The Cannabis Life Cycle
 
@@ -28,7 +28,7 @@ During the first 2-3 months, Cannabis responds to increasing daylength with vigo
 
 Cannabis exhibits a **dual response to daylength**:
 
-- **Vegetative phase**: The plant responds to increasing daylength with more vigorous growth during the first 2-3 months.
+- **[[green-cannabis-grow-bible-vegetative-phase-management]]**: The plant responds to increasing daylength with more vigorous growth during the first 2-3 months.
 - **Reproductive phase**: The plant requires **shorter days** (or equivalently, longer uninterrupted dark periods) to initiate flowering and complete its life cycle.
 
 ### Critical Daylength
@@ -112,11 +112,11 @@ The term **sinsemilla** (Spanish for "seedless") refers to the practice of remov
 - The plant may continue maturing for up to 5 months after viable flowers form
 - Mature floral clusters are harvested, dried, and consumed
 
-Clarke describes the technique of **controlled pollination of selected limbs** to produce seeds of known parentage while keeping the remaining floral clusters seedless, combining genetic preservation with maximum drug production.
+Clarke describes the technique of **[[cannabis-controlled-pollination-seed-production]] of selected limbs** to produce seeds of known parentage while keeping the remaining floral clusters seedless, combining genetic preservation with maximum drug production.
 
 ## Post-Floral senescence
 
-Staminate plants die shortly after pollen dehiscence. Pistillate plants may persist for months if unfertilized, continuing to produce resin. This fundamental difference in post-floral longevity is one of the key distinctions between male and female Cannabis and has significant implications for breeding programs and harvest timing.
+Staminate plants die shortly after pollen dehiscence. Pistillate plants may persist for months if unfertilized, continuing to produce resin. This fundamental difference in post-floral longevity is one of the key distinctions between male and female Cannabis and has significant implications for breeding programs and [[cannabis-harvest-timing-visual-cues]].
 
 ## See Also
 

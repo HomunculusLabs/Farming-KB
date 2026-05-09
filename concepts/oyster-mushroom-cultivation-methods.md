@@ -1,22 +1,13 @@
 ---
-title: Oyster Mushroom Cultivation Methods
+title: Oyster accessible-mushroom-cultivation-for-disabilities Methods
 created: 2026-04-28
-tags: [[mycology, cultivation, agriculture, fungi]
+tags: [mycology, cultivation, agriculture, fungi]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
 type: concept
 ---
-
-# Oyster Mushroom Cultivation Methods
-
-Oyster mushrooms (Pleurotus species) are among the easiest mushrooms to
-cultivate, making them the entry point for most small-scale and home
-growers. Their rapid growth, broad substrate tolerance, and relatively
-low contamination susceptibility compared to other gourmet species have
-made them the most widely cultivated mushrooms globally after the button
-mushroom ([[mushroom-grain-spawn-preparation]] on sterilized grain
-3. [[pleurotus-eryngii]]) cultivation. Standard 850-1100 ml polypropylene
+# Oyster Mushroom Cultivation Methods Oyster mushrooms (Pleurotus species) are among the easiest mushrooms to cultivate, making them the entry point for most small-scale and home growers. Their rapid growth, broad substrate tolerance, and relatively low contamination susceptibility compared to other gourmet species have made them the most widely cultivated mushrooms globally after the button mushroom (mushroom-grain-spawn-preparation on sterilized grain 3. [[pleurotus-eryngii]]) cultivation. Standard 850-1100 ml polypropylene
 bottles with filter caps allow automated filling and inoculation. Bottles
 provide uniform fruiting and efficient space utilization.
 
@@ -43,7 +34,7 @@ parameters:
 
 ## Common Pests and Diseases
 
-Oyster mushroom crops face several pest and disease challenges:
+Oyster mushroom crops face several [[hamilton-pest-and-disease-control-organic]] challenges:
 
 - **Sciarid flies (fungus gnats)**: Larvae damage mycelium and introduce
   bacterial contamination; controlled with sticky traps and cultural
@@ -52,28 +43,28 @@ Oyster mushroom crops face several pest and disease challenges:
   moisture
 - **Trichoderma** (green mold): The most common fungal competitor;
   spreads rapidly in poorly pasteurized substrate
-- **Bacterial blotch**: Causes dark spots on caps due to excessive
+- **[[growing-gourmet-bacterial-blotch-disease-management]]**: Causes dark spots on caps due to excessive
   moisture and poor air circulation
 - **Mites**: Can destroy spawn and carry contaminant spores between
   bags
 
-Integrated pest management combining sanitation, environmental control,
+Integrated pest management combining sanitation, [[eclss-environmental-control-life-support]],
 and biological controls is more effective than chemical treatments, which
-can leave residues on edible mushrooms.
+can leave residues on [[palmer-edible-mushrooms-north-america]].
 
 ## Harvesting and Yield
 
 Oyster mushrooms are typically ready to harvest 5-10 days after pin
 formation. Harvesting involves twisting or cutting the cluster at the
 base. Most substrates produce 2-4 flushes, with the first flush yielding
-50-70% of total production. Total biological efficiency ranges from
+50-70% of total production. Total [[stamets-biological-efficiency-yield]] ranges from
 60-130% depending on species, substrate, and growing conditions.
 
 ## See Also
 
 - [[cotter-oyster-mushroom-cultivation]]
 - [[oyster-mushroom-species]]
-- [[mushroom-spawn-production]]
+- mushroom-spawn-production
 - [[biological-efficiency-mushroom-cultivation]]
 ## Practical Considerations
 
@@ -93,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

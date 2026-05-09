@@ -25,7 +25,7 @@ The species is native to the eastern Himalayas and the Indo-Burma biodiversity h
 
 Black galangal has significant ethnobotanical importance among indigenous communities in northeastern India and Bangladesh. Its rhizome is used in traditional medicine for digestive disorders, respiratory ailments, and as a general tonic.
 
-The plant is distinguished from related galangal species by its darker rhizome color, distinct leaf morphology, and specific essential oil profile dominated by sesquiterpenes rather than phenylpropanoids.
+The plant is distinguished from related galangal species by its darker rhizome color, distinct [[cannabis-leaf-morphology-and-phyllotaxy]], and specific [[permaculture-designers-manual-essential-oil-plants]] profile dominated by sesquiterpenes rather than phenylpropanoids.
 
 ## Taxonomy and Morphology
 
@@ -33,7 +33,7 @@ The plant is distinguished from related galangal species by its darker rhizome c
 
 The plant grows 1.0–2.5 meters tall, forming dense clumps from a creeping rhizome system. Pseudostems are robust, 1–2 cm in diameter, formed by tightly rolled leaf sheaths.
 
-Leaf blades are lanceolate to oblong-lanceolate, 30–60 cm long and 6–12 cm wide. The leaf surface is glabrous to sparsely pubescent, with a prominent midrib and parallel lateral veins.
+Leaf blades are lanceolate to oblong-lanceolate, 30–60 cm long and 6–12 cm wide. The [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is glabrous to sparsely pubescent, with a prominent midrib and parallel lateral veins.
 
 Inflorescences are terminal panicles bearing white to pale yellow flowers. Each flower has a tubular calyx, three-lobed corolla, and a single large, showy labellum with yellow and red markings.
 
@@ -55,7 +55,7 @@ Wild populations are under increasing pressure from habitat destruction and over
 
 ## Bioactive Compounds and Pharmacology
 
-The rhizome of *Alpinia nigra* contains a diverse array of bioactive secondary metabolites. The essential oil is the most extensively studied fraction, with significant variation in composition based on geographic origin.
+The rhizome of *Alpinia nigra* contains a diverse array of bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]]. The essential oil is the most extensively studied fraction, with significant variation in composition based on geographic origin.
 
 Major essential oil constituents include **(E)-caryophyllene** (15–25%), **α-humulene** (8–12%), **β-pinene** (5–10%), and **1,8-cineole** (3–8%). The sesquiterpene profile distinguishes it from greater galangal, which is richer in 1,8-cineole and methyl cinnamate.
 
@@ -67,13 +67,13 @@ Anti-inflammatory effects have been confirmed in carrageenan-induced paw edema a
 
 Antioxidant capacity assays reveal moderate to strong free radical scavenging activity. The methanol extract shows higher antioxidant potential than the essential oil fraction, suggesting that non-volatile phenolics are major contributors.
 
-Preliminary cytotoxicity studies indicate growth-inhibitory effects against several human cancer cell lines, though these findings require further validation. The species shows less potent cytotoxicity compared to greater galangal in comparable assays.
+Preliminary cytotoxicity studies indicate growth-inhibitory effects against several human [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines, though these findings require further validation. The species shows less potent cytotoxicity compared to greater galangal in comparable assays.
 
 ## Traditional Uses
 
 Among the Khasi, Garo, and Naga peoples of northeastern India, black galangal rhizome is a staple of traditional medicine. It is consumed as a decoction for digestive complaints including indigestion, bloating, and gastric discomfort.
 
-The rhizome is chewed fresh or dried to relieve coughs and sore throat. In Khasi folk medicine, a paste of the rhizome is applied externally to wounds, burns, and inflammatory skin conditions.
+The rhizome is chewed fresh or dried to relieve coughs and sore throat. In Khasi folk medicine, a paste of the rhizome is applied externally to wounds, burns, and inflammatory [[cannabis-for-skin-conditions-detailed]].
 
 In Bangladesh, traditional healers prescribe *A. nigra* rhizome for menstrual disorders and as a postpartum tonic. The species is also used in ethnoveterinary medicine to treat livestock for digestive parasites and respiratory infections.
 

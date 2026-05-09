@@ -25,7 +25,7 @@ in the family Ranunculaceae, native to calcareous grasslands of
 western, central, and southern Europe.
 
 The species is distinguished by large, bell-shaped violet-purple
-flowers that emerge before finely dissected foliage in early spring,
+flowers that emerge before finely dissected foliage in [[coleman-overwintered-onions-and-early-spring-crops]],
 followed by ornamental plumose seed heads.
 
 *P. vulgaris* has a long history in traditional European herbalism
@@ -106,7 +106,7 @@ Extracts have demonstrated several activities in preclinical studies:
 - **Spasmolytic:** Ethanol extracts relax smooth muscle in
   isolated ileum preparations
 - **Antitumor:** Preliminary cytotoxic effects against certain
-  cancer cell lines
+  [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines
 
 Clinical evidence remains limited. The EMA recognizes traditional
 use only, based on long-standing historical application.

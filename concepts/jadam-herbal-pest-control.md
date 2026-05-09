@@ -10,7 +10,7 @@ sources:
 
 # JADAM Herbal Pest Control (JHS)
 
-JADAM herb solution (JHS) is a boiled extract of insect-repelling plants, used as a natural pesticide. Combined with JADAM wetting agent (JWA) and optionally JADAM sulfur (JS), it forms a complete pest and disease control system that costs a fraction of commercial pesticides.
+JADAM herb solution (JHS) is a boiled extract of insect-repelling plants, used as a [[jadam-natural-pesticide-institute-and-research]]. Combined with JADAM [[jadam-nutrient-management-wetting-agent-and-calcium]] (JWA) and optionally JADAM sulfur (JS), it forms a complete pest and [[hamilton-pest-and-disease-control-organic]] system that costs a fraction of commercial pesticides.
 
 ## Why Herbal Pest Control
 
@@ -22,8 +22,8 @@ JADAM natural pesticide costs about 1/50 of buying chemical pesticides.
 
 Common plants with strong insect-repelling effects:
 
-- **Jerusalem artichoke** (Helianthus tuberosus) -- Easily grown anywhere, grows tall (no weeding needed). Boil leaves, branches, and roots. Controls aphids, mites, and most moths. Assumed that inulin in the plant acts as pesticide.
-- **Gingko** -- Tree has perfect defense mechanism against pests and diseases. Use fresh leaves, fallen leaves, and fruits.
+- **[[comparison-jerusalem-artichoke-vs-potato]]** (Helianthus tuberosus) -- Easily grown anywhere, grows tall (no weeding needed). Boil leaves, branches, and roots. Controls aphids, mites, and most moths. Assumed that inulin in the plant acts as pesticide.
+- **Gingko** -- Tree has perfect defense mechanism against [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. Use fresh leaves, fallen leaves, and fruits.
 - **Korean pasque flower** (Pulsatilla koreana) -- Root is used. Strongest pesticide effect of all. Used in oriental medicine for blood circulation.
 - **Red spider lily** (Lycoris radiata) -- Root is used. Used in oriental medicine for tumors. Repels moles and snakes when planted.
 - **Pokeweed, water pepper, bracken, foxglove** -- Also effective
@@ -71,7 +71,7 @@ Using Korean pasque flower root as example:
 
 ## JHS as Fertilizer
 
-Analysis of Korean pasque flower root JHS shows: pH 6.9, contains organic matter, T-N, P2O5, K2O, CaO, MgO, Fe, Mn, Zn, Cu. It provides germicide, insecticide, and fertilizer effects simultaneously.
+Analysis of Korean pasque flower root JHS shows: pH 6.9, contains [[hamilton-composting-and-organic-matter-management]], T-N, P2O5, K2O, CaO, MgO, Fe, Mn, Zn, Cu. It provides germicide, insecticide, and fertilizer effects simultaneously.
 
 ## Complete JADAM Pesticide Combinations
 

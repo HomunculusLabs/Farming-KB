@@ -1,5 +1,5 @@
 ---
-title: Small Scale Dairy Guide
+title: Small small scale dairy guide Guide
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
@@ -12,7 +12,7 @@ Small-scale dairying on the homestead provides fresh milk, cheese, butter, yogur
 
 ## Choosing a Dairy Animal
 
-### Dairy Goats (See [[livestock-feed-management]] for comprehensive feed management.
+### Dairy Goats (See livestock-feed-management for comprehensive feed management.
 
 - **Lactating does/cows** need 14-18% protein and high energy
 - **Calcium requirements** double during lactation — provide free-choice minerals
@@ -100,4 +100,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

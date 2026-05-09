@@ -1,11 +1,11 @@
 ---
-title: "How to Prevent and Treat Powdery Mildew on Cannabis"
+title: "How to query-how-do-i-identify-prevent-and-treat-fusarium-wilt Powdery Mildew on Cannabis"
 created: 2026-04-28
 tags: [query, cannabis, pest-management, fungal-disease]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 type: query
 ---
 
@@ -13,7 +13,7 @@ type: query
 
 ## Short Answer
 
-Powdery mildew is a common fungal pathogen that appears as white or grayish powder on cannabis leaves and buds. Prevention through proper airflow, humidity control, and proactive organic sprays is far more effective than trying to cure an active infection. Once it reaches the flowers, powdery mildew can ruin your entire harvest and pose serious health risks if consumed.
+Powdery mildew is a common fungal pathogen that appears as white or grayish powder on cannabis leaves and buds. Prevention through proper airflow, [[cervantes-humidity-control-dehumidification]], and proactive organic sprays is far more effective than trying to cure an active infection. Once it reaches the flowers, powdery mildew can ruin your entire harvest and pose serious health risks if consumed.
 
 ## Detailed Explanation
 
@@ -57,7 +57,7 @@ When active infection is detected, immediate action is critical. Follow these st
 4. **Monitor daily** for recurrence over the following two weeks
 5. **Never compost** moldy plant material — spores survive composting
 
-The [[jadam-pesticide-for-powdery-mildew]] methods, a diluted Jadam Natural Pesticide (JNP) spray combined with Jadam Wetting Agent provides effective suppression using fermented plant extracts and indigenous microorganisms.
+The [[jadam-pesticide-for-powdery-mildew]] methods, a diluted Jadam [[jadam-natural-pesticide-institute-and-research]] (JNP) spray combined with Jadam Wetting Agent provides effective suppression using [[query-how-do-i-use-fermented-plant-extracts-in-my-garden]] and [[beneficial-indigenous-microorganisms-bim]].
 
 ### Treatment Comparison
 
@@ -75,7 +75,7 @@ Biological controls offer a sustainable long-term defense. [[query-what-causes-c
 ## Key Points
 
 - Powdery mildew thrives in warm temperatures (68–80°F) with moderate to high humidity and does not require free water on leaves
-- Prevention through environmental control (humidity below 50%, strong airflow, proper spacing) is the most effective strategy
+- Prevention through [[eclss-environmental-control-life-support]] (humidity below 50%, strong airflow, proper spacing) is the most effective strategy
 - Neem oil and potassium bicarbonate sprays during vegetative growth provide excellent organic protection
 - Remove and destroy infected foliage immediately and never compost moldy plant material
 - Biological controls like *Trichoderma* and *Bacillus subtilis* can suppress powdery mildew through competitive exclusion

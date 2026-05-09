@@ -20,14 +20,14 @@ Education in permaculture is not confined to formal institutions. Adventure can 
 ## Teaching Approaches
 
 ### Design Courses
-Permaculture design courses (PDCs) are the primary educational vehicle. The manual provides the curriculum framework covering:
-- Principles of natural systems
+[[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] courses (PDCs) are the primary educational vehicle. The manual provides the curriculum framework covering:
+- [[four-principles-of-natural-farming]] systems
 - Climate and landscape factors
-- [[permaculture-designers-manual-education-and-training]] - Education overview
-- [[permaculture-designers-manual-bioregional-planning]] - Bioregional planning
-- [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]] - Guild design methodology
+- permaculture-designers-manual-education-and-training - Education overview
+- permaculture-designers-manual-bioregional-planning - Bioregional planning
+- [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]] - [[apple-guild-design-guide]] methodology
 - [[soil-erosion-control]]
-- [[mollison-property-trusts-ethical-investment]]
+- mollison-property-trusts-ethical-investment
 ## Practical Applications
 
 Education and Training Strategies has a range of practical applications that make it relevant to
@@ -105,4 +105,9 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[permaculture-design]]
+- [[bill-mollison]]
+- [[permaculture-designers-manual-settlement-types]]
+- [[permaculture-designers-manual-pattern-application]]
+- [[permaculture-designers-manual-temperate-climate-design]]

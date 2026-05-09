@@ -17,7 +17,7 @@ type: concept
 # Mushroom Bioremediation and Mycofiltration
 
 [[white-rot-fungi]] (particularly
-[[fungal-bioremediation]]
+fungal-bioremediation
 
 Bioremediation of toxic waste sites is especially attractive because:
 - The environment is treated in situ (soils do not have to be
@@ -41,13 +41,15 @@ Many saprophytic fungi benefit from catastrophic events in the
 forests. When hurricane-force winds rage across woodlands, enormous
 masses of dead debris are generated. Every time catastrophes occur
 -- hurricanes, tornadoes, volcanoes, floods, even earthquakes -- the
-resulting dead wood becomes a stream of inexpensive substrate
+resulting [[fungal-dead-wood-diversity]] becomes a stream of inexpensive substrate
 materials. The cost of mushroom production is underwritten by natural
 disasters.
 
 Once the economic value of recycling with gourmet and medicinal
 mushrooms is clearly understood, and with the increasing popularity
 ## See Also
+
+- [[mycofiltration]]
 ## Practical Considerations
 
 When working with Mushroom Bioremediation and Mycofiltration, several practical factors should be
@@ -64,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

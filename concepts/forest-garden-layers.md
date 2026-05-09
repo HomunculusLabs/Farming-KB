@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, food-forest, plant-systems, guild, plants, ecology, succession, plant-systems]
-sources: []
+sources:
+  sources: []
 ---
 
 # Forest Garden Layers
@@ -28,7 +29,7 @@ Design notes:
 - Canopy trees take decades to mature — plant them first and intercrop with shorter-lived species
 - Spacing should account for mature crown spread (20-40 feet between trees)
 - Prune to allow dappled light through to lower layers
-- Choose multifunctional species: nitrogen fixation, timber, fodder, bee forage
+- Choose multifunctional species: [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], timber, fodder, bee forage
 
 ### Layer 2: Understory (Sub-Canopy Trees)
 
@@ -63,13 +64,13 @@ Design notes:
 
 ### Layer 4: Herbaceous Layer
 
-Non-woody plants including perennial vegetables, herbs, and self-seeding annuals. This layer fills the space between shrubs and ground covers.
+Non-woody plants including [[comparison-perennial-vegetables-vs-cover-crops]], herbs, and self-seeding annuals. This layer fills the space between shrubs and ground covers.
 
 Species examples:
-- Perennial vegetables: asparagus, sea kale, good king Henry, walking onion, Jerusalem artichoke, lovage, sorrel, cardoon, globe artichoke
-- Culinary herbs: mint family (thyme, oregano, mint, lemon balm), chives, garlic chives, rosemary, sage
+- Perennial vegetables: asparagus, sea kale, good king Henry, walking onion, [[comparison-jerusalem-artichoke-vs-potato]], lovage, sorrel, cardoon, globe artichoke
+- [[holzer-medicinal-and-culinary-herbs-compendium]]: mint family (thyme, oregano, mint, lemon balm), chives, garlic chives, rosemary, sage
 - Medicinal: echinacea, yarrow, calendula, comfrey, plantain, valerian
-- Dynamic accumulators: comfrey, borage, yarrow, chicory, dandelion
+- [[comparison-dynamic-accumulators-vs-cover-crops]]: comfrey, borage, yarrow, chicory, dandelion
 - Self-seeding annuals: calendula, borage, chamomile, claytonia, miner's lettuce
 
 Design notes:
@@ -132,7 +133,7 @@ A guild is a group of plants (and sometimes animals) that work together synergis
 - Pest confuser: aromatic herbs (alliums, mint family, marigolds)
 - Ground cover: clover or creeping thyme
 - Mulch producer: comfrey (cut 4-6 times per season), rhubarb
-- Pollen/nectar source: flowering herbs for beneficial insects
+- Pollen/nectar source: flowering herbs for [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 - Root crop: garlic, daffodils (pest deterrent), or other shallow-rooted plants
 
 ## Design Process for a Forest Garden
@@ -141,16 +142,6 @@ A guild is a group of plants (and sometimes animals) that work together synergis
 2. Choose your canopy and understory trees first (they are permanent and take longest to establish)
 3. Fill in shrub, herb, and ground cover layers around the trees
 4. Add vine supports and root crops where space allows
-5. Plant support species (nitrogen fixers, dynamic accumulators) throughout
-6. Mulch heavily in the early years before ground covers fill in
-7. Observe, adjust, and replace plants that fail or underperform
-
-## Integration with Permaculture Zones
-
-- Zone 1-2: intensive food forest with highest-value fruits, herbs, and vegetables
-- Zone 3: larger scale orchard with canopy trees, understory, and grazing beneath
-- Zone 4: managed wild with foraging from established forest systems
-
 ## See Also
 
 - [[permaculture-zones-and-sectors]] for siting your forest garden

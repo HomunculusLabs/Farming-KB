@@ -1,5 +1,5 @@
 ---
-title: "Cannabis Sex Expression and Hermaphrodite Breeding"
+title: "Cannabis [[cannabis-sex-determination-floral-biology]] expression hermaphrodite [[cannabis-disease-pest-resistance-breeding-clarke]] and Hermaphrodite Breeding"
 created: 2026-04-28
 tags: [cannabis, sex-determination, hermaphrodite, breeding, genetics, Clarke]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: concept
 # Cannabis Sex Expression and Hermaphrodite Breeding
 
 Attempts to breed offspring of only one sexual type have led to more
-misunderstanding than any other facet of Cannabis genetics. The
+misunderstanding than any other facet of [[vic-high-cannabis-genetics-mendelian-inheritance]]. The
 discoveries of McPhee (1925) and Schaffner (1928) showed that pure
 sexual type and hermaphrodite conditions are inherited and that the
 percentage of sexual types could be altered by crossing with certain
@@ -110,10 +110,10 @@ hermaphrodite plants.
 ## Artificial Induction of Hermaphrodism
 
 Artificial hermaphrodites can be produced by hormone sprays, mutilation,
-and altered light cycles. These should prove most useful for fixing
+and altered [[cannabis-photoperiodism-and-light-cycles]]. These should prove most useful for fixing
 traits and sexual type. Environmental stresses such as nutrient excess
 or deficiency, altered light cycles, and physical damage can all
-contribute to sex reversal in Cannabis.
+contribute to [[cervantes-ethylene-hormonal-sex-reversal]] in Cannabis.
 
 Under conditions of extreme stress, populations have been shown to
 depart greatly from the expected one-to-one staminate to pistillate
@@ -123,7 +123,7 @@ for controlling the sexual expression of their breeding populations.
 ## Seedling Sex Indicators
 
 Whorled phyllotaxy is associated with subsequent anomalies in the
-growth cycle (i.e., multiple leaflets and flattened or clubbed stems).
+[[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]] (i.e., multiple leaflets and flattened or clubbed stems).
 Also, most whorled plants are staminate and whorled phyllotaxy may be
 sex-linked. This provides a potential early indicator for breeders
 seeking to identify and select for desired sexual expression before

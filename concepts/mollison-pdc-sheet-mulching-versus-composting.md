@@ -1,5 +1,5 @@
 ---
-title: Sheet Mulching Versus Composting in Permaculture Design
+title: comparison-sheet-mulching-vs-chop-and-drop-mulching Versus Composting in bill-mollison-permaculture-a-designers-manual-permaculture-design-principles
 created: 2026-04-28
 tags:
   - permaculture
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-design-course.md
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
 
@@ -18,7 +19,7 @@ type: concept
 
 ## Overview
 
-In Bill Mollison's Permaculture Design Course (Pamphlet IX: Permaculture
+In Bill Mollison's Permaculture [[permaculture-design-course-methodology]] (Pamphlet IX: Permaculture
 Techniques), he presents a strongly argued case for sheet mulching over
 traditional composting as the primary soil-building strategy for home
 gardens and small-scale food systems. Mollison contends that composting,
@@ -33,7 +34,7 @@ decrease the nutrients available to plants. He estimates that you get only
 about one-twelfth of the nutrient value from compost that you would obtain
 from the same material applied as mulch. The composting process consumes
 nutrients rather than preserving them. When organic material is
-concentrated in a compost pile and allowed to break down under hot
+concentrated in a [[mushroom-cultivator-compost-pile-management]] and allowed to break down under hot
 conditions, much of the nutrient content is lost to the atmosphere through
 volatilization. The result is a nutrient-poor end product compared to the
 original inputs.
@@ -79,10 +80,10 @@ over composting, which homogenizes materials into a single product.
 
 Mollison identifies worm manure (vermicast) as the highest tonnage per
 acre of any manure and considers it the best soil amendment available.
-Rather than concentrating materials in a compost bin where they break down
+Rather than concentrating materials in a [[query-how-do-i-start-a-worm-compost-bin-for-my-garden]] where they break down
 through thermophilic bacterial action, spreading materials as mulch
 allows earthworms to process them across the entire garden surface. Worms
-consume organic matter and produce castings that are rich in nitrogen,
+consume [[hamilton-composting-and-organic-matter-management]] and produce castings that are rich in nitrogen,
 potash, and phosphate. Worm castings also tend to test alkaline, which can
 be useful for modifying soil chemistry.
 
@@ -129,5 +130,11 @@ are reversed so their roots face upward, and the mulch is dropped back
 on top. Mollison actually encourages letting certain weeds grow large
 in the mulch system, as they contribute to soil biology.
 
-## Relationship to [[mollison-zone-one-garden-design]]
+## Relationship to mollison-zone-one-garden-design
 - [[sheet-mulching-guide]]
+## See Also
+- [[sheet-mulching]]
+- [[decomposition]]
+- [[permaculture-design]]
+- [[bill-mollison]]
+- [[gaias-garden-sheet-mulching-composting-in-place]]

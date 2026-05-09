@@ -15,12 +15,12 @@ and aesthetic reasons. They are generally not difficult to grow and most
 are extremely decorative plants that help attract useful predators to
 the garden, as well as those insects — such as bees — which are needed
 for pollination in the fruit garden. They can be planted around shrubs
-as a ground cover to aid [[mollison-designers-composting-toilets-and-humanure]]. Since most herbs
-like a soil pH of between 7.0 and 7.5, spent mushroom compost is ideal.
+as a [[fukuoka-citrus-orchard-ground-cover-cultivation]] to aid [[mollison-designers-composting-toilets-and-humanure]]. Since most herbs
+like a soil pH of between 7.0 and 7.5, [[staycare-spent-mushroom-compost-bioremediation]] compost is ideal.
 
 The one thing most herbs cannot stand is bad drainage. If your soil is
 wet and heavy and cannot be improved by deep digging or the inclusion
-of coarse sand and organic matter, it is best to build a raised bed.
+of coarse sand and [[hamilton-composting-and-organic-matter-management]], it is best to build a raised bed.
 
 ## Sowing and Planting Herbs
 
@@ -92,14 +92,18 @@ grow unchecked.
 ## Propagation
 
 Perennial herbs can be dug up and divided in the fall and early winter,
-though it can also be done in early spring. Propagate the shrubby herbs,
+though it can also be done in [[coleman-overwintered-onions-and-early-spring-crops]]. Propagate the shrubby herbs,
 like rosemary, bay, and lavender, from softwood cuttings in early
 summer. See [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] for herbs as natural pest deterrents
-- [[hamilton-organic-pest-control]] for using herbs to attract beneficial insects
+- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] for herbs as [[cho-natural-pest-control-methods]] deterrents
+- [[hamilton-organic-pest-control]] for using herbs to attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]]
+
+## See Also
+
+- [[herb-gardening-organic-hamilton]]

@@ -1,8 +1,8 @@
 ---
-title: Fungal Degradation of Polycyclic Aromatic Hydrocarbons
+title: singh-fungal-degradation-endocrine-disrupting-compounds of singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons Hydrocarbons
 created: 2026-04-26
 synonyms:
-  - PAH degradation by fungi
+  - PAH [[query-how-does-lignin-degradation-by-fungi-work]]
   - pah-bioremediation
   - fungal PAH metabolism
   - mycoremediation-of-pahs
@@ -36,7 +36,7 @@ White rot basidiomycetes are the most studied fungal PAH degraders. Their lignin
 | [[phanerochaete-chrysosporium]] | Model organism; degrades anthracene, phenanthrene, pyrene, benzo[a]pyrene |
 | [[pleurotus-ostreatus]] | Degrades PAHs under solid-state fermentation |
 | Bjerkandera adusta | MnP producer; degrades phenolic PAHs |
-| Cunninghamella elegans | Non-ligninolytic; uses cytochrome P450 |
+| [[staycare-cunninghamella-elegans-in-bioremediation]] | Non-ligninolytic; uses cytochrome P450 |
 
 ### Enzymatic Mechanisms
 
@@ -50,7 +50,7 @@ White rot basidiomycetes are the most studied fungal PAH degraders. Their lignin
 - Cerniglia, C.E. & Sutherland, J.B. Bioremediation of polycyclic aromatic hydrocarbons by ligninolytic and non-ligninolytic fungi. Chapter 7 in Staycare.
 - Harvey, P.J. & Thurston, C.F. Chapter on PAH degradation by ligninolytic fungi. In Staycare.
 - Johannes, C. & Majcherczyk, A. (2000). Natural mediators in the oxidation of polycyclic aromatic hydrocarbons by laccase. Applied and Environmental Microbiology.
-- Kirk, T.K. et al. (1978). Effects of culture parameters on lignin metabolism by Phanerochaete chrysosporium. Archives of Microbiology.
+- Kirk, T.K. et al. (1978). Effects of culture parameters on lignin metabolism by [[staycare-phanerochaete-chrysosporium-in-bioremediation]]. Archives of Microbiology.
 ## Practical Considerations
 
 When working with Fungal Degradation of Polycyclic Aromatic Hydrocarbons, several practical factors should be
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,3 +110,7 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[chlorobenzene-chlorophenoxy-fungal-degradation]]
+- [[staycare-mycorrhizal-hydrocarbons]]

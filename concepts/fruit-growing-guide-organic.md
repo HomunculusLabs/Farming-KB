@@ -1,5 +1,5 @@
 ---
-title: Fruit Growing Guide Organic
+title: holzer-fruit-growing-marginal-climates Guide Organic
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -12,15 +12,15 @@ sources:
 
 Updated: 2026-04-18
 
-Growing fruit organically means you will know your apple has not been drenched with insecticide or coated with preservatives. The organically grown crop is usually large enough to withstand a few bird attacks, and the fruit will be far superior to commercial varieties chosen for shelf life rather than flavor. Most fruit plants are productive over a longer period than vegetables -- many take a few years to come into production but will then continue for decades.
+Growing fruit organically means you will know your apple has not been drenched with insecticide or coated with preservatives. The organically grown crop is usually large enough to withstand a few bird attacks, and the fruit will be far superior to commercial varieties chosen for [[psilocybin-shelf-life-stability]] rather than flavor. Most fruit plants are productive over a longer period than vegetables -- many take a few years to come into production but will then continue for decades.
 
 ## Site and Soil for Fruit
 
-Many local features affect fruit growing. Frost is one of the main problems -- if your garden is in a frost pocket, you may be limited to varieties that flower late. Strong winds destroy foliage, damage flowers, and discourage pollinating insects. If your site is exposed, protect fruit with a temporary plastic windbreak and plant a hedge nearby. Raise the foot of the windbreak 12in (30cm) off the ground to avoid creating an artificial frost pocket.
+Many local features affect fruit growing. Frost is one of the main problems -- if your garden is in a [[mollison-designers-sun-trap-and-frost-pocket-design]], you may be limited to varieties that flower late. Strong winds destroy foliage, damage flowers, and discourage pollinating insects. If your site is exposed, protect fruit with a temporary plastic windbreak and plant a hedge nearby. Raise the foot of the windbreak 12in (30cm) off the ground to avoid creating an artificial frost pocket.
 
 Before planting fruit, prepare the soil well using normal organic methods of soil care -- deep digging, incorporating [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] and wildlife habitats
 
-Source: Geoff Hamilton, Organic Gardening (Nick Hamilton, ed.), 2010
+Source: Geoff Hamilton, [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] (Nick Hamilton, ed.), 2010
 ## See Also
 
 - [[pruning-techniques-organic]]
@@ -103,4 +103,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

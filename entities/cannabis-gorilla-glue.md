@@ -20,7 +20,7 @@ sources:
 
 # Gorilla Glue
 
-**Gorilla Glue** (also known as **GG4** or **Original Glue**) is a potent indica-dominant hybrid cannabis strain that gained fame for its extraordinarily high THC content and resin-soaked buds. Developed by GG Strains (Lola Montana and Josey Wales) in Nevada, it swept the 2014 Cannabis Cup circuit with wins in multiple categories.
+**Gorilla Glue** (also known as **GG4** or **Original Glue**) is a potent indica-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] that gained fame for its extraordinarily high THC content and resin-soaked buds. Developed by GG Strains (Lola Montana and Josey Wales) in Nevada, it swept the 2014 Cannabis Cup circuit with wins in multiple categories.
 
 The strain is named for the sticky resin that coats the buds and readily adheres to scissors, fingers, and any surface it contacts — reminiscent of the polyurethane adhesive. With THC levels regularly exceeding 25–30%, it is one of the strongest strains available in the commercial market.
 
@@ -45,8 +45,8 @@ The chocolate-diesel combination is distinctive and immediately recognizable. Th
 
 ## Appearance
 
-- **Bud structure:** Large, dense, chunky calyxes with exceptional resin production
-- **Color:** Deep forest green with occasional purple undertones; thick coating of white trichomes
+- **Bud structure:** Large, dense, chunky calyxes with exceptional [[cannabis-glandular-trichome-types-resin-production-clarke]]
+- **Color:** Deep [[trichoderma-forest-green-mold-guide]] with occasional purple undertones; thick coating of white trichomes
 - **Trichome coverage:** Exceptional; buds appear wet with resin even when fully cured
 - **Pistil density:** Moderate orange-brown pistils; often obscured by the trichome layer
 
@@ -58,7 +58,7 @@ The resin production of Gorilla Glue is among the highest of any commercially av
 - **Duration:** 2–4 hours
 - **Primary effects:** Heavy euphoria, cerebral rush followed by deep body relaxation
 - **Body effects:** Progressive full-body relaxation leading to couch-lock at higher doses
-- **Medical applications:** Severe chronic pain, PTSD, insomnia, muscle spasms, anxiety
+- **Medical applications:** Severe [[cannabis-chronic-pain-management]], PTSD, insomnia, muscle spasms, anxiety
 - **Side effects:** Dry mouth, dry eyes; pronounced couch-lock; anxiety in novice users at high doses
 
 Gorilla Glue is classified as a "one-hit wonder" by many consumers — a small amount produces substantial effects. The onset begins with an uplifting cerebral rush that transitions over 30–45 minutes into a heavy, enveloping body stone. This biphasic progression makes it popular for evening and nighttime use.
@@ -81,14 +81,14 @@ The cannabinoid profile is heavily THC-dominant with virtually no CBD. This rati
 - **Yield:** 450–600 g/m² indoors; 500–700 g/plant outdoors
 - **Height:** 100–150 cm indoors
 - **Difficulty:** Moderate; high resin production can cause humidity issues
-- **Climate:** Warm and dry; humidity below 50% in late flowering to prevent bud rot
+- **Climate:** Warm and dry; humidity below 50% in late flowering to prevent [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]]
 - **Resistance:** Good general disease resistance; susceptible to botrytis in humid conditions
 - **Nutrient needs:** Heavy feeder; requires elevated calcium and magnesium
 - **Training:** LST and SCROG recommended; supports well and benefits from even canopy
 
 Gorilla Glue's resin production peaks in the final two weeks of flowering, when trichome density increases dramatically. Growers should monitor trichome color closely — harvesting when 10–20% are amber maximizes the balance between potency and the full terpene profile.
 
-The strain responds exceptionally well to both organic and synthetic nutrient regimens. In organic grows, compost teas and bat guano during flowering enhance the already pungent aroma. For extraction purposes, live resin production from fresh-frozen Gorilla Glue yields are among the highest per gram of plant material.
+The strain responds exceptionally well to both organic and synthetic [[cannabis-nutrient-regimens-comparison]]. In organic grows, compost teas and bat guano during flowering enhance the already pungent aroma. For extraction purposes, live resin production from fresh-frozen Gorilla Glue yields are among the highest per gram of plant material.
 
 ## Terpene Profile
 

@@ -9,7 +9,7 @@ sources: []
 
 ## What Is Jam and Jelly
 
-Jam and jelly are sweet fruit preserves made by cooking fruit with sugar and pectin until it sets into a spreadable consistency. The difference: jam contains crushed or chopped fruit (with pieces), while jelly is made from fruit juice (smooth and clear). Related products include marmalade (citrus preserves with peel), preserves (large fruit pieces), and fruit butter (fruit cooked with sugar until very smooth, like apple butter).
+Jam and jelly are sweet fruit preserves made by cooking fruit with sugar and pectin until it sets into a spreadable consistency. The difference: jam contains crushed or chopped fruit (with pieces), while jelly is made from [[bionutrients-lab-fermented-fruit-juice-ffj]] (smooth and clear). Related products include marmalade (citrus preserves with peel), preserves (large fruit pieces), and fruit butter (fruit cooked with sugar until very smooth, like apple butter).
 
 Homemade jam captures peak-season fruit flavor and avoids the high-fructose corn syrup and artificial preservatives found in many commercial products.
 
@@ -137,17 +137,10 @@ If any element is out of balance, the jam will not set properly.
 - Reduced-sugar pectin or Pomona's Universal Pectin allows jam making with less sugar
 - Honey can replace up to half the sugar; use slightly less than the sugar amount
 - Maple syrup adds distinctive flavor; replace up to half the sugar
-- Stevia and monk fruit do not provide the preservative and textural benefits of sugar; use with calcium-activated pectin
-- Sugar-free jam has shorter shelf life and softer set; always refrigerate
+- Stevia and [[comparison-stevia-vs-monk-fruit-sweetener-cultivation]] do not provide the preservative and textural benefits of sugar; use with calcium-activated pectin
+- Sugar-free jam has shorter [[psilocybin-shelf-life-stability]] and softer set; always refrigerate
 
 ## Common Problems
-
-- Jam does not set: insufficient pectin, acid, or sugar; undercooking; wrong pectin-to-fruit ratio. Remake by recooking with additional pectin.
-- Jam is too stiff: too much pectin or overcooking. Thin with water or fruit juice and re-can.
-- Jam is too dark: overcooking or excessive sugar. Use lower heat and shorter cooking time.
-- Fruit floats to top: fruit was not cooked long enough before canning; mixture was not stirred after filling jars. Turn jars occasionally during cooling.
-- Mold on surface: indicates improper seal or insufficient processing; discard the entire jar (mold can produce mycotoxins below the surface).
-- Crystallization: too much sugar or sugar not fully dissolved. Ensure sugar is fully dissolved during cooking.
 
 ## See Also
 

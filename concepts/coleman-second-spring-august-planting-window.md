@@ -5,7 +5,7 @@
 Eliot Coleman coined the term "second spring" to describe the period from
 August 1 through late October when winter-harvest crops are established at
 Four Season Farm. This planting window is the foundation of the entire
-winter harvest system, yet it operates on principles that are the reverse
+[[coleman-claytonia-winter-harvest-cultivation]] system, yet it operates on principles that are the reverse
 of what most growers expect from a spring planting season. During the
 second spring, day length is contracting rather than expanding, temperatures
 are falling rather than rising, and the grower must think backward about
@@ -16,7 +16,7 @@ active growth and working backward to determine planting dates.
 
 August 1 marks the beginning of the second spring because it is the point
 at which the first winter-harvest crops must be sown to reach harvestable
-size before the "Persephone months" — the period when day length drops below
+size before the "[[coleman-persephone-months-winter-day-length]]" — the period when day length drops below
 ten hours and plant growth effectively ceases. In Coleman's Zone 5 Maine
 location, the Persephone months run from approximately November 10 through
 February 1. Plants must be nearly mature by November 10 if they are to
@@ -36,7 +36,7 @@ and the grower adds successive plantings as conditions improve. Fall
 planting requires reverse logic: the grower must think about the endpoint
 (when day length becomes too short for growth) and work backward to
 determine when each crop must be planted to reach the desired size by that
-date. This is fundamentally different from spring succession planting and
+date. This is fundamentally different from spring [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] and
 requires a different mental model.
 
 Coleman developed detailed planting schedules that specified exact sowing
@@ -49,7 +49,7 @@ while growers further north have a shorter window and earlier cutoff.
 ## Crop-Specific Timing
 
 Different crops require different amounts of growth time and have different
-tolerances for the short days of winter. Fast-growing leafy greens like
+tolerances for the short days of winter. Fast-growing [[solomon-leafy-greens-growing]] like
 arugula and mustard can be sown relatively late (September or even early
 October in Zone 5) because they reach harvestable size quickly and can be
 harvested at a small size. Slower-growing crops like leeks and carrots
@@ -64,7 +64,7 @@ harvest beginning in November — includes most salad greens and braising
 mix components. The third group — crops sown in September and October for
 overwintering and spring harvest — includes spinach, mache, claytonia,
 and certain hardy greens that will grow slowly through the Persephone
-months and provide harvest in late winter and early spring.
+months and provide harvest in late winter and [[coleman-overwintered-onions-and-early-spring-crops]].
 
 ## The Interplay With Mobile Greenhouses
 
@@ -106,7 +106,7 @@ following crop was timed to be ready when the preceding crop was removed.
 ## Adapting the Second Spring to Other Climates
 
 The concept of the second spring is applicable to any climate where winter
-limits vegetable production, but the specific timing must be adapted to
+limits [[dry-gardening-unirrigated-vegetable-production-solomon]], but the specific timing must be adapted to
 local conditions. The key variable is the date when day length drops below
 ten hours, which varies with latitude. In more southerly locations, this
 date comes later, extending the second spring. In more northerly locations,

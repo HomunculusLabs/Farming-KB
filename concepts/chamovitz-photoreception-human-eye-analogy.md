@@ -34,9 +34,9 @@ rods and **photopsins** in cones. These chemicals have specific
 molecular structures that enable them to absorb light of different
 wavelengths:
 
-- Rhodopsin absorbs blue light
+- Rhodopsin absorbs [[chamovitz-julius-von-sachs-blue-light-phototropism]]
 - Blue photopsin absorbs blue light
-- Red photopsin absorbs red light
+- Red photopsin absorbs [[phytochrome-red-far-red-light-switch]]
 - Green photopsin absorbs green light
 - Purple light is absorbed by rhodopsin, blue photopsin, and red
   photopsin (but not green photopsin)
@@ -91,7 +91,7 @@ Chamovitz describes two distinct color-sensing systems in plants:
 
 2. **Red/far-red system** — used for photoperiodism (measuring
    night length to regulate flowering). Discovered through experiments
-   with the Maryland Mammoth tobacco strain. Plants respond to red light
+   with the [[chamovitz-maryland-mammoth-photoperiodism-discovery]] tobacco strain. Plants respond to red light
    flashes during the night, but not to blue or green. Far-red light
    cancels the red light effect.
 

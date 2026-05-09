@@ -18,8 +18,8 @@ sources:
 
 **alpha-Amanitin** is a cyclic octapeptide toxin and the most potent of the amatoxins, a
 family of bicyclic peptide toxins found in several species of Amanita, particularly the
-death cap ([[amanita-verna]]), and the
-destroying angel complex (amanita virosa, amanita bisporigera).
+[[query-how-to-identify-and-avoid-the-death-cap-amanita-phalloides]] ([[amanita-verna]]), and the
+[[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]] complex (amanita virosa, amanita bisporigera).
 
 It is one of the most lethal natural toxins known to science, with a mechanism of action that
 targets the fundamental process of gene transcription in all eukaryotic cells. Its discovery
@@ -29,7 +29,7 @@ toxicology.
 ## Chemical Structure
 
 alpha-Amanitin is a bicyclic octapeptide with the molecular formula C39H54N10O14S and a
-molecular weight of approximately 918.97 g/mol. It consists of eight amino acid residues
+molecular weight of approximately 918.97 g/mol. It consists of eight [[cho-fish-amino-acid-preparation]] residues
 arranged in a unique structure containing both a macrocyclic ring and a cross-bridge formed
 by a tryptophan-derived sulfoxide moiety.
 

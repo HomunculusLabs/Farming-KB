@@ -1,5 +1,5 @@
 ---
-title: "Trametes versicolor"
+title: "growing-gourmet-turkey-tail-trametes-versicolor-cultivation"
 created: 2026-04-28
 type: species
 tags:
@@ -60,7 +60,7 @@ Originally described by Carl Linnaeus in 1753 as *Boletus versicolor*. The speci
 ### Substrate and Ecological Role
 - **Primary saprotroph:** Decomposes the cellulose and lignin (white rot) of dead hardwood
 - **Common substrates:** Stumps, logs, and fallen branches of a wide range of hardwoods — especially *Quercus* (oak), *Betula* (birch), *Fagus* (beech), *Acer* (maple), *Alnus* (alder), and *Populus* (poplar); occasionally found on conifers
-- **White rot fungus:** Produces lignin-degrading enzymes (laccase, manganese peroxidase, lignin peroxidase) that break down lignin, leaving cellulose-rich white wood behind
+- **White rot fungus:** Produces lignin-degrading enzymes (laccase, [[fungal-manganese-peroxidase-remediation]], lignin peroxidase) that break down lignin, leaving cellulose-rich white wood behind
 - **Successional role:** A primary decomposer on recently dead wood; often among the first bracket fungi to colonize fallen timber
 
 ## Phytochemistry and Bioactive Constituents
@@ -111,10 +111,10 @@ Methanolic and aqueous extracts demonstrate significant DPPH and ABTS radical sc
 ## Bioremediation Applications
 
 *T. versicolor* is a model organism for fungal bioremediation (mycoremediation):
-- **Ligninolytic enzymes:** Produces laccase, MnP, and LiP capable of degrading a wide range of environmental pollutants
-- **PAHs:** Degrades anthracene, phenanthrene, benzo[a]pyrene, and other polycyclic aromatic hydrocarbons
+- **[[singh-ligninolytic-enzymes-fungal-bioremediation]]:** Produces laccase, MnP, and LiP capable of degrading a wide range of environmental pollutants
+- **PAHs:** Degrades anthracene, phenanthrene, benzo[a]pyrene, and other [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons
 - **PCBs:** Metabolically transforms and dechlorinates polychlorinated biphenyls
-- **Dyes and effluents:** Degrades synthetic dyes — potential for wastewater treatment
+- **Dyes and effluents:** Degrades synthetic dyes — potential for [[mollison-designers-wastewater-treatment-wetlands]]
 - **Endocrine disruptors:** Degrades bisphenol A, nonylphenol, and pharmaceutical residues
 
 ## Cultivation
@@ -131,7 +131,7 @@ Methanolic and aqueous extracts demonstrate significant DPPH and ABTS radical sc
 - **Wood decomposition:** Accelerates nutrient cycling in forest ecosystems and permaculture woodlot systems
 - **Companion planting:** Inoculate into wood chip mulch paths, hugelkultur beds, and log piles to accelerate decomposition
 - **Soil building:** Decomposed fruiting bodies and mycelium contribute to organic matter and microbial diversity
-- **Water filtration:** Mycelial mats can filter contaminated water in constructed wetland systems
+- **Water filtration:** Mycelial mats can filter contaminated water in [[comparison-constructed-wetland-vs-backyard-pond]] systems
 - **Stacked functions:** Food, decomposer, bioremediator, and soil builder
 
 ## Key Identification Notes
@@ -142,6 +142,9 @@ The most important feature is the **concentrically zoned cap** with multiple col
 - **Lenzites betulina** — gill-like folds rather than true pores
 ## See Also
 
-- [[grifola-frondosa]] — Maitake — polypore with similar immunomodulatory glucans
-- [[trametes-sanguinea]]
-- [[trametes-trogii]]
+- [[abortiporus-biennis]]
+- [[eleutheromyces-subulatus]]
+- [[gomphus-clavatus]]
+- [[lyophyllum-decastes]]
+- [[turbinellus-floccosus]]
+- [[xeromphalina-campanella]]

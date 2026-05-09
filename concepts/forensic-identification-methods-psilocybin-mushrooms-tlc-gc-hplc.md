@@ -1,5 +1,5 @@
 ---
-title: Forensic Identification Methods for Psilocybin Mushrooms
+title: Forensic forensic identification methods psilocybin mushrooms tlc gc hplc for Psilocybin Mushrooms
 source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
 tags: [forensic-identification, psilocybin, magic-mushrooms, TLC, GC, HPLC, chromatography, Ehrlich-reagent, drug-regulation, analytical-chemistry]
 created: 2026-05-08
@@ -9,7 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-The identification of "magic mushrooms" (fungi containing psilocin and psilocybin) presents unique challenges for law enforcement, mycologists, and public health officials. As noted by Shirota, Hakamata, and Goda in their 2003 synthesis paper, morphological and microscopic analyses are extremely difficult without expert mycological knowledge, making chromatographic methods the standard approach for definitive identification. The need for reliable analytical standards has driven research into both synthesis of reference compounds and development of practical identification protocols.
+The identification of "magic mushrooms" (fungi containing [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]]) presents unique challenges for law enforcement, mycologists, and public health officials. As noted by Shirota, Hakamata, and Goda in their 2003 synthesis paper, morphological and microscopic analyses are extremely difficult without expert mycological knowledge, making chromatographic methods the standard approach for definitive identification. The need for reliable analytical standards has driven research into both synthesis of reference compounds and development of practical identification protocols.
 
 ## The Identification Problem
 
@@ -75,7 +75,7 @@ GC provides higher resolution than TLC and can quantify psilocin and psilocybin 
 HPLC is considered the gold standard for psilocybin and psilocin analysis, as it avoids the thermal degradation issues associated with GC.
 
 **Shirota et al. used HPLC extensively** in their synthesis work:
-- Preparative reversed-phase HPLC was used to isolate and purify the zwitterionic intermediate compound (8)
+- Preparative reversed-phase HPLC was used to isolate and purify the [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]] compound (8)
 - Analytical HPLC is the standard method for forensic identification
 - UV detection at 267 nm (for psilocybin) provides selective detection of the indole chromophore
 
@@ -101,7 +101,7 @@ For any chromatographic method to provide definitive identification, authentic r
 
 ### Challenges in Obtaining Standards
 
-1. **Psilocin instability** — Psilocin (compound 1) decomposes readily, particularly when exposed to air, light, or heat. This makes storage and handling of reference standards challenging
+1. **[[shirota-psilocin-instability-chromatographic-challenges]]** — Psilocin (compound 1) decomposes readily, particularly when exposed to air, light, or heat. This makes storage and handling of reference standards challenging
 2. **Psilocybin polarity** — Psilocybin (compound 2) is highly polar due to its phosphate ester group, making it difficult to isolate from mushroom matrix material using standard extraction techniques
 3. **Legal restrictions** — The regulated status of these compounds complicates their procurement and storage in forensic laboratories
 4. **Low natural abundance** — Even in potent mushroom species, psilocin and psilocybin typically constitute only 0.1–1.5% of dry weight
@@ -112,7 +112,7 @@ The Shirota synthesis was motivated in part by the need for reliable standard co
 
 > "Several reports on the synthesis of 1 have been published, while reports on the synthesis of 2 are few."
 
-The Shirota method achieved gram-scale synthesis of both compounds without chromatographic purification, making it a practical route for producing analytical standards. The key innovation was the isolation of the zwitterionic N,O-dibenzyl phosphate intermediate by simple filtration, avoiding the need for column chromatography.
+The Shirota method achieved gram-scale synthesis of both compounds without chromatographic purification, making it a practical route for producing analytical standards. The key innovation was the isolation of the zwitterionic N,O-dibenzyl [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]] by simple filtration, avoiding the need for column chromatography.
 
 ## Other Detection Methods
 
@@ -132,20 +132,17 @@ ESI-MS provides molecular weight confirmation:
 - **Psilocin**: m/z 205.1 [M+H]⁺
 - **Psilocybin**: m/z 285.1 [M+H]⁺
 
-High-resolution MS (HRESIMS) provides exact mass confirmation to four decimal places.
-
-## Minor Constituents
-
-In addition to psilocin and psilocybin, magic mushrooms may contain baeocystin (4-hydroxy-N-methyltryptamine) and norbaeocystin (4-hydroxytryptamine) as minor constituents. These are typically not targeted in routine forensic analysis.
-
 ## See Also
 
 - [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]]
 - [[4-hydroxyindole-tryptamine-synthesis-building-block]]
 - psilocybe mushroom species and identification
-- psilocybin pharmacology and receptor interactions
+- [[emcdda-psilocybin-pharmacology-and-chemistry]] and receptor interactions
 - drug regulation japan narcotics control law
 
 ## See Also
 
-- [[psilocybin-mushroom-image-guide-identification-methods]]
+- psilocybin-mushroom-image-guide-identification-methods
+- [[psilocybin-mushrooms]]
+- [[amanita-phalloides]]
+- [[psilocybin-pharmacology]]

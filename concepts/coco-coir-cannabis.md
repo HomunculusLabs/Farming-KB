@@ -3,6 +3,7 @@ title: Coco Coir for Cannabis
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
@@ -11,7 +12,7 @@ tags: [cannabis]
 
 # Coco Coir for Cannabis
 
-Coconut coir (also called coco peat or coconut fiber) is an excellent Cannabis Growing Mediums for cannabis cultivation. It is a natural, renewable product derived from the fibrous husk of coconuts. Coco coir is versatile enough to be used in passive [[cervantes-passive-wick-hydroponic-systems]], and as a soil amendment in outdoor gardens.
+Coconut coir (also called coco peat or coconut fiber) is an excellent [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]] Mediums for [[query-how-does-no-till-cannabis-cultivation-work]]. It is a natural, renewable product derived from the fibrous husk of coconuts. Coco coir is versatile enough to be used in passive [[cervantes-passive-wick-hydroponic-systems]], and as a soil amendment in outdoor gardens.
 
 ## What is Coco Coir
 
@@ -92,23 +93,23 @@ Woven coco fiber pots are available from suppliers like General Hydroponics. The
 The naturally near-neutral pH of coco coir (5.5 to 6.8) means less pH adjustment is needed compared to other media. However, growers should still monitor pH regularly:
 - **Initial rinse**: Rinse expanded coir before use to remove any residual salts or dust.
 - **pH monitoring**: Check pH of runoff water periodically to detect drift.
-- **Buffering**: Coco coir has some natural buffering capacity but less than peat moss or soil. Maintain pH between 5.5 and 6.5 for optimal nutrient availability.
+- **Buffering**: Coco coir has some natural buffering capacity but less than peat moss or soil. Maintain pH between 5.5 and 6.5 for optimal [[ph-and-nutrient-availability-garden-soils]].
 
 ## Coco Coir and Nutrient Management
 
 Coco coir has a moderate cation-exchange capacity, meaning it can hold and release some nutrients. However, like most hydroponic media, it relies primarily on the nutrient solution for plant feeding:
 - Use a coco-specific nutrient formula if available, as these are formulated for coco's unique properties.
 - Calcium and magnesium supplementation may be needed, as coco can bind these elements.
-- Monitor EC of runoff to detect salt accumulation.
+- Monitor EC of runoff to detect [[jadam-salt-accumulation-in-soil]].
 - Flush with plain water every two to four weeks to prevent salt buildup.
 
 ## Reusing Coco Coir
 
 Coco coir can be reused for multiple grows, but with some caveats:
 - Remove old root material as thoroughly as possible between uses.
-- Flush with a mild sterilizing solution (5% bleach or hydrogen peroxide) between grows.
+- Flush with a mild sterilizing solution (5% bleach or [[cervantes-hydrogen-peroxide-sterilization]]) between grows.
 - Re-amend with nutrients and buffer agents before replanting.
-- Watch for pest and disease issues, which can accumulate with reuse.
+- Watch for [[hamilton-pest-and-disease-control-organic]] issues, which can accumulate with reuse.
 - After indoor use, coco coir can be repurposed in the outdoor garden.
 
 ## Coco Coir vs. Peat Moss

@@ -9,7 +9,7 @@ sources: ["raw/papers/the-psilocybin-solution-by-simon-g-powell.md"]
 
 # Psychedelic Consciousness Models and Information Theory
 
-The question of what consciousness is and how it relates to physical matter lies at the heart of understanding the psychedelic experience.
+The question of what consciousness is and how it relates to physical matter lies at the heart of understanding the [[leary-psychedelic-experience-bardo-mapping]].
 
 From the vantage point of psychedelic investigation, a new theoretical framework emerges: consciousness is a form of information substantiated within the brain's neuronal firing activity, and this cerebral information has a natural tendency to organize and integrate itself.
 
@@ -37,7 +37,7 @@ We should either side with the old Cartesian dualist belief or launch ourselves 
 
 ## Evidence from Entheogenic Action
 
-Chemistry implies chemicals and substances -- clearly "material" things -- whereas altered states of awareness lie in the realm of the intangible mind.
+Chemistry implies chemicals and substances -- clearly "material" things -- whereas [[weil-the-natural-mind-altered-states-normalcy]] of awareness lie in the realm of the intangible mind.
 
 Various types of substance, particularly those with a close molecular resemblance to the brain's neurotransmitters, elicit fairly predictable and characteristic changes in consciousness. If we consider psilocybin, it bridges the conceptual gap between the two worlds perfectly.
 
@@ -49,7 +49,7 @@ Evidence that consciousness is informational comes from observing that chemicall
 
 Evidence that cerebral information has a tendency to organize itself came from examining entheogenic phenomenology and dreaming. Both processes highlight the way in which psychological information organizes itself without a deliberate effort on our part.
 
-We can find ourselves experiencing shamanic visions after ingesting entheogenic agents or likewise find ourselves experiencing elaborate dream scenarios whilst we sleep (perhaps mediated by endogenous DMT).
+We can find ourselves experiencing shamanic visions after ingesting entheogenic agents or likewise find ourselves experiencing elaborate dream scenarios whilst we sleep (perhaps mediated by [[mckenna-endogenous-dmt-brain-familiarity]]).
 
 The entheogenic visionary state represents an extreme manifestation of informational organization -- so much so that a third proposition suggests itself: that an intelligent Other, distinct from the ego/self, lies behind the sacred thrust of psychedelic phenomenology.
 
@@ -61,7 +61,7 @@ Just as elements like carbon, hydrogen, nitrogen, and oxygen naturally organize 
 
 Frozen temperature acts to elicit the structured patterns exhibited by snowflakes, whereas psilocybin acts to elicit the structured patterns of neuronal activity that come to be experienced as shamanic visions. Water molecules organize themselves according to the rules of a molecular language; neuronal firing patterns organize themselves according to the rules of a psychological language.
 
-If there are specific patterns and structures which emerge from large information-integration processes occurring within the brain, then this would explain the existence of universal symbology, universal dream images, and mythical archetypes found throughout all cultures and religions.
+If there are specific patterns and structures which emerge from large information-integration processes occurring within the brain, then this would explain the existence of [[powell-universal-symbology-in-entheogenic-visions]], universal dream images, and mythical archetypes found throughout all cultures and religions.
 
 ## Universal Symbology
 
@@ -73,7 +73,7 @@ Such universality suggests that mythical symbols represent stable, organized pat
 
 Aldous Huxley's assertion that the psychedelic experience results from an influx of information not normally available to us fits neatly within this informational framework.
 
-Psychedelics allow a greater amount of what Huxley called Mind at Large to flow into conscious perception. The Mind at Large is the Other, the Gaian Mind, which potentially interfaces with the human psyche, revealing itself in the shamanic experience and possibly during symbolic dreams.
+Psychedelics allow a greater amount of what Huxley called Mind at Large to flow into conscious perception. The Mind at Large is the Other, the [[powell-gaian-mind-and-entheogenic-flora]], which potentially interfaces with the human psyche, revealing itself in the shamanic experience and possibly during symbolic dreams.
 
 Information is the stuff of both the Other and the human mind. Conscious experience is information in process. The greater the field of information being processed or integrated, the more conscious we may become (the word consciousness means "knowing together").
 

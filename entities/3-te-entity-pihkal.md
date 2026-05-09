@@ -1,5 +1,5 @@
 ---
-title: "3-TE (3-THIOESCALINE;) -- PIHKAL Entry #150"
+title: "3-TE (3-THIOESCALINE;) -- 2c-b-pihkal-entry-20 #150"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 3-TE
 
-PIHKAL entry #150. 3-THIOESCALINE;.
+[[2c-b-pihkal-entry-20]] #150. 3-THIOESCALINE;.
 
 ## Chemical Name
 
@@ -121,7 +121,7 @@ stirred mixture when finally at room temperature. All was added to
 400 mL H2O which had been strongly acidified with HCl. The two phases
 were separated, and the aqueous phase (which contained a small amount
 of yellow oily matter insoluble in either phase) was heated on the
-steam bath for 0.75 h. On cooling, the oily component set to a yellow
+[[scythian-cannabis-steam-bath-ritual]] for 0.75 h. On cooling, the oily component set to a yellow
 solid, which was removed by filtration and washed with H2O. This
 crude product, 5.9 g of yellow solid, was distilled 115-125 deg C at 0.3
 mm/Hg to give 4.9 g of 4-ethoxy-3-methoxy-5-(methylthio)benzaldehyde

@@ -1,5 +1,5 @@
 ---
-title: Fly-Agaric in Siberian Shamanic Practice
+title: Fly-Agaric in fly agaric siberian shamanic practice Practice
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -23,7 +23,7 @@ edge of the civilised Western world were people with profoundly different
 religious practices.
 
 [[wasson-hofmann-ruck-collaboration]] drew heavily on Siberian ethnographic
-accounts when developing his theory that the Vedic Soma was the fly-agaric.
+accounts when developing his theory that the [[mckenna-vedic-soma-indo-european-mysteries]] was the fly-agaric.
 The centrepiece of his argument was the cryptic Rig Veda verse stating that
 "The swollen men piss the flowing Soma," which he connected to the
 well-documented Siberian urine recycling practice.
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

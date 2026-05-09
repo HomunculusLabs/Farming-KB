@@ -11,11 +11,11 @@ sources:
 
 **Updated:** 2026-04-18
 
-"Growing by chunking" is Toby Hemenway's term for the practical strategy of implementing permaculture design in manageable pieces rather than attempting a complete transformation all at once. This approach makes permaculture accessible to people with limited time, budget, or experience.
+"Growing by chunking" is Toby Hemenway's term for the practical strategy of implementing [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] in manageable pieces rather than attempting a complete transformation all at once. This approach makes permaculture accessible to people with limited time, budget, or experience.
 
 ## The Problem with Big Plans
 
-When people first encounter permaculture, they often develop grand visions: food forests, swale systems, chicken tractors, greywater treatment, solar panels, and more -- all at once. This leads to overwhelm, paralysis, and often abandonment. The gap between the grand vision and the current reality seems too large to bridge.
+When people first encounter permaculture, they often develop grand visions: food forests, swale systems, [[mollison-designers-chicken-tractors-egg-production]], [[mollison-designers-greywater-treatment-reedbeds]], solar panels, and more -- all at once. This leads to overwhelm, paralysis, and often abandonment. The gap between the grand vision and the current reality seems too large to bridge.
 
 ## The Chunking Solution
 
@@ -38,7 +38,7 @@ Develop a complete design for the whole property, even if you'll implement it ov
 Select the easiest, most rewarding first project:
 - **A small garden bed:** Start with a 4x8 foot sheet-mulched bed near the kitchen door
 - **A single guild:** Plant one fruit tree guild in a prominent location
-- **A compost pile:** Start recycling kitchen and yard waste
+- **A [[mushroom-cultivator-compost-pile-management]]:** Start recycling kitchen and yard waste
 - **A rain barrel:** Capture roof water for garden irrigation
 
 ### Step 4: Complete and Observe
@@ -51,7 +51,7 @@ Based on what you've learned from the first chunk, plan and implement the next o
 
 ### Year 1
 - Start a compost pile
-- Sheet mulch one small garden bed (4x8 feet)
+- [[permaculture-sheet-mulch-detailed-guide]] one small garden bed (4x8 feet)
 - Plant a few easy vegetables and herbs
 - Set up one rain barrel
 - Observe everything
@@ -74,7 +74,7 @@ Based on what you've learned from the first chunk, plan and implement the next o
 - Expand food forest with additional canopy and understory plants
 - Install greywater system
 - Add larger animal systems (ducks, bees, goats)
-- Create community connections (tool sharing, plant swaps, community garden)
+- Create community connections (tool sharing, plant swaps, [[mollison-designers-community-garden-design-urban-permaculture]])
 - Continue observing and adjusting
 
 ## Principles of Good Chunking

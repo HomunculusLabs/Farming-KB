@@ -1,5 +1,5 @@
 ---
-title: Omics Approaches in Fungal Bioremediation
+title: singh omics approaches fungal bioremediation in staycare-composting-as-a-fungal-bioremediation-strategy
 created: 2026-04-28
 tags:
   - mycoremediation
@@ -20,7 +20,7 @@ Omics technologies encompassing genomics, transcriptomics, proteomics,
 and metabolomics have transformed understanding of fungal bioremediation.
 These high-throughput approaches provide system-level insights into the
 genetic basis, regulatory mechanisms, and metabolic pathways underlying
-fungal degradation of environmental contaminants, enabling more rational
+[[singh-fungal-degradation-endocrine-disrupting-compounds]] of environmental contaminants, enabling more rational
 design and optimization of remediation strategies.
 
 ## Fungal Genomics in Bioremediation
@@ -29,7 +29,7 @@ design and optimization of remediation strategies.
 
 Whole-genome sequencing of [[singh-ligninolytic-enzymes-fungal-bioremediation]] genes
   and large cytochrome P450 complement
-- **Trametes versicolor**: Numerous [[singh-versatile-peroxidase-vp-multifunctional]] gene
+- **[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]**: Numerous [[singh-versatile-peroxidase-vp-multifunctional]] gene
   families and carbohydrate-active enzymes
 
 ### Comparative Genomics
@@ -37,7 +37,7 @@ Whole-genome sequencing of [[singh-ligninolytic-enzymes-fungal-bioremediation]] 
 Comparative analysis identifies conserved and unique features: gene
 family expansion of P450, laccase, and peroxidase genes correlating with
 degradation capabilities; horizontal gene transfer of xenobiotic
-metabolism genes from bacteria; secondary metabolite gene clusters for
+metabolism genes from bacteria; [[fungal-elicitors-enhanced-secondary-metabolite-production]] gene clusters for
 metal-chelating compounds; and transposable elements facilitating rapid
 environmental adaptation.
 
@@ -61,7 +61,7 @@ genes expressed in situ.
 
 ### Secretome Analysis
 
-Fungal secretome proteomics identifies extracellular enzyme complements
+Fungal secretome proteomics identifies [[dighton-fungal-extracellular-enzyme-systems-decomposition]] complements
 during contaminant degradation: complex enzyme cocktails of hydrolytic
 and oxidative enzymes; accessory proteins including hydrophobins and
 swollenins facilitating substrate access; post-translational modifications

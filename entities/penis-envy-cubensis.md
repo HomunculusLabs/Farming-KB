@@ -41,7 +41,7 @@ Penis Envy is a highly distinctive and exceptionally potent strain of
 ## Potency and Chemistry
 
 Penis Envy is consistently reported as significantly more potent than
-standard P. cubensis strains. Analytical data from community-sourced
+standard P. [[psilocybe-cubensis-strains-names-and-marketing]]. Analytical data from community-sourced
 testing (not peer-reviewed) and anecdotal consensus suggest:
 
 - **Psilocybin and psilocybin equivalents:** 1.5–3× higher than
@@ -51,7 +51,7 @@ testing (not peer-reviewed) and anecdotal consensus suggest:
 - **Secondary tryptamines:** Reports suggest elevated levels of
   baeocystin and norbaeocystin relative to standard strains, though
   quantitative data remains limited.
-- **Dosage considerations:** Users consistently report that standard
+- **[[ayahuasca-tourist-dosage-considerations-and-shamanic-caution]]:** Users consistently report that standard
   P. cubensis dose charts significantly underestimate the effects of
   Penis Envy. A typical recreational dose of other strains (1.5–2.5 g
   dried) is equivalent to approximately 0.5–1.0 g dried of Penis Envy.
@@ -84,17 +84,17 @@ cultivate, requiring patience and careful environmental management:
 - **Colonization speed:** Significantly slower than standard strains
   (2–4 weeks vs. 10–14 days for typical strains). The dense mycelium
   is more contamination-sensitive during extended colonization.
-- **Fruiting triggers:** Benefits from strong cold shock and high
+- **Fruiting triggers:** Benefits from strong [[growing-gourmet-cold-shock-temperature-initiation-fruiting]] and high
   hu [[biological-efficiency]] l efficiency than fast-growing strains,
   but elevated potency compensates for reduced mass per flush.
-- **Substrates:** Standard P. cubensis substrates — brown rice flour,
+- **Substrates:** Standard P. cubensis substrates — [[cho-brown-rice-vinegar-preparation]] flour,
   rye grain, supplemented hardwood sawdust or coco coir in monotubs.
 - **Contamination resistance:** Extended colonization increases
-  vulnerability; strict sterile technique is critical.
+  vulnerability; strict [[cultivator-sterile-technique-and-agar-culture]] is critical.
 
 ## Legal Status
 
-As a strain of Psilocybe cubensis, Penis Envy shares the legal status
+As a strain of [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]], Penis Envy shares the legal status
 of its parent species. P. cubensis and its psilocybin-containing
 fruiting bodies are illegal to cultivate, possess, or distribute in
 most jurisdictions. Spores, which do not contain psychoactive compounds,

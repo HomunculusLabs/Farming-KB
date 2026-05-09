@@ -1,5 +1,5 @@
 ---
-title: Hallucinogenic Mushroom Legal Status in Europe
+title: emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative Legal Status in Europe
 created: 2026-04-28
 tags:
   - drug policy
@@ -17,7 +17,7 @@ type: concept
 
 # Hallucinogenic Mushroom Legal Status in Europe
 
-The legal status of hallucinogenic mushrooms in the European Union has
+The legal status of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] in the European Union has
 been characterised by complexity, inconsistency, and rapid change. While
 the active compounds psilocybin and psilocin have been internationally
 controlled since 1971, the mushrooms that contain them have occupied a
@@ -26,7 +26,7 @@ approaches that evolved significantly between 2001 and 2006.
 
 ## International Control
 
-Psilocin and psilocybin are controlled under the 1971 UN Convention on
+[[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] are controlled under the 1971 UN Convention on
 Psychotropic Substances, listed in Schedule I under the names "psilocybine"
 and "psilocine" (or "psilotsin") respectively. All EU Member States
 control these substances accordingly. However, international control of
@@ -66,7 +66,7 @@ Six EU Member States tightened their legislation on hallucinogenic
 mushrooms between 2001 and 2006:
 
 ### Denmark (July 2001)
-Added mushrooms or spores of Psilocybe semilanceata, Psilocybe cubensis,
+Added mushrooms or spores of [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]], [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]],
 or other fungi containing psilocin or psilocybin (including grown, dried,
 or processed forms) as a controlled substance.
 
@@ -98,7 +98,7 @@ respondents reporting reduced access.
 Criminalised possession or sale of "fungus of any kind or description
 which contains psilocin or an ester of psilocin," with an exemption for
 mushrooms growing uncultivated. The change was initiated following the
-increasingly common sale of magic mushrooms and a death linked to their
+increasingly common sale of [[guzman-magic-mushrooms-african-species]] and a death linked to their
 consumption.
 
 ## Variation in Legal Definitions
@@ -137,6 +137,8 @@ This substitution effect raises new concerns, as the active compounds in
 Amanita species (muscimol, ibotenic acid) carry substantial toxicity
 risks, and some closely related Amanita species are lethal.
 ## See Also
+
+- [[hallucinogenic-mushroom-legal-status-eu]]
 
 - [[psilocybin-mushroom-legal-status-worldwide]]
 - [[psilocybin-chemistry-pharmacology]] for the controlled substances

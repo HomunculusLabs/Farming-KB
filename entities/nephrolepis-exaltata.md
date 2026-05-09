@@ -38,7 +38,7 @@ Boston fern is recognized for its **air-purifying properties**, having been show
 
 **Synonyms:** *Polypodium exaltatum* L., *Nephrolepis bostoniensis* auct. non L., *Nephrolepis elegans* hort.
 
-The species was originally described by Linnaeus as *Polypodium exaltatum* in 1753 and transferred to *Nephrolepis* by Heinrich Schott in 1834. The genus contains approximately 30 species with a pantropical distribution.
+The species was originally described by Linnaeus as *Polypodium exaltatum* in 1753 and transferred to *Nephrolepis* by Heinrich Schott in 1834. The genus contains approximately 30 species with a [[copelandia-cyanescens-pantropical-distribution-and-ecology]].
 
 The famous **'Bostoniensis' cultivar** originated as a sport (mutation) discovered among a shipment of *N. exaltata* in a Boston greenhouse in 1894. This cultivar features broader, more arching fronds than the wild-type species and has spawned hundreds of subsequent cultivars.
 
@@ -71,26 +71,26 @@ Boston fern is the **archetypal indoor fern** and one of the most widely sold ho
 - Bright indirect light; tolerates low light but grows slowly
 - Keep soil consistently moist; do not allow to dry out completely
 - High humidity preferred; mist fronds regularly or use a humidifier
-- Temperature range 16–27°C; avoid cold drafts and temperatures below 10°C
-- Fertilize monthly during growing season with diluted liquid fertilizer
+- [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] 16–27°C; avoid cold drafts and temperatures below 10°C
+- Fertilize monthly during growing season with diluted [[jadam-liquid-fertilizer-nutritional-perspective]]
 
 Common problems include **browning frond tips** (caused by low humidity, dry soil, or fluoride in tap water) and **shedding leaflets** (caused by underwatering or sudden temperature changes. Using filtered or distilled water can prevent fluoride-induced tip burn.
 
 Propagation is easily accomplished by **division** of the root ball or by **stolons**, which naturally produce plantlets at their tips. Division produces mature plants immediately, while stolon plantlets require several weeks to develop sufficient roots for independence.
 
-Hundreds of **named cultivars** exist, ranging from compact forms suitable for hanging baskets ('Bostoniensis Compacta') to dramatically ruffled and crested varieties ('Fluffy Ruffles', 'Whitmanii') with heavily divided pinnae margins.
+Hundreds of **named cultivars** exist, ranging from compact forms suitable for [[hamilton-hanging-baskets-organic]] ('Bostoniensis Compacta') to dramatically ruffled and crested varieties ('Fluffy Ruffles', 'Whitmanii') with heavily divided pinnae margins.
 
 ## Ecological Role
 
 In its native tropical habitats, *Nephrolepis exaltata* contributes to **epiphytic community diversity** on forest trees. Its dense frond masses provide microhabitat for invertebrates including mites, springtails, and small insects.
 
-The species serves as a **reservoir for moisture** in tropical forest canopies. Its water-retentive frond mats trap rainfall and dew, creating damp microenvironments that support other epiphytic organisms including mosses, liverworts, and algae.
+The species serves as a **reservoir for moisture** [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] canopies. Its water-retentive frond mats trap rainfall and dew, creating damp microenvironments that support other epiphytic organisms including mosses, liverworts, and algae.
 
 In Florida's native ecosystems, Boston fern provides **cover and foraging habitat** for small birds, tree frogs, and anoles. The dense root masses in tree crotches collect organic debris, contributing to canopy soil development.
 
 ## Air-Purifying Properties
 
-The NASA **Clean Air Study** (1989) identified *Nephrolepis exaltata* as one of the most effective indoor plants for removing **volatile organic compounds** from indoor air. The species demonstrated particular efficacy against **formaldehyde**, removing an estimated 1,863 micrograms per hour in chamber tests.
+The NASA **Clean Air Study** (1989) identified *Nephrolepis exaltata* as one of the most effective indoor plants for removing **[[fungal-volatile-organic-compounds-communication]] compounds** from indoor air. The species demonstrated particular efficacy against **formaldehyde**, removing an estimated 1,863 micrograms per hour in chamber tests.
 
 Subsequent research has confirmed its ability to reduce **xylene and toluene** concentrations in indoor environments. The large frond surface area and high transpiration rate contribute to its effectiveness as a passive air filtration system.
 

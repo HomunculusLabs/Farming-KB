@@ -24,7 +24,7 @@ can also affect other parts of the body. TB has been a major global
 health concern for centuries and remains one of the leading causes of
 death from infectious disease worldwide.
 
-The Cannabis Health Index lists tuberculosis among the bacterial
+The [[blesching-cannabis-health-index-autoimmune-conditions]] lists tuberculosis among the bacterial
 infections catalogued in its comprehensive survey of cannabis research
 applications, and as one of the significant opportunistic infections
 encountered in AIDS patients.
@@ -33,7 +33,7 @@ encountered in AIDS patients.
 
 In the context of HIV/AIDS, tuberculosis represents one of the most
 dangerous bacterial complications. Within a weakened immune system,
-infectious agents such as bacteria encounter little resistance from the
+[[blesching-cannabis-infectious-agents-cancer]] such as bacteria encounter little resistance from the
 body's natural defenses. Blesching notes that pneumonia in AIDS patients
 may progress into tuberculosis or pneumocystis pneumonia.
 
@@ -49,8 +49,8 @@ The Cannabis Health Index provides important context for understanding
 how tuberculosis fits within the broader picture of bacterial infections
 and cannabinoid therapy:
 
-The scientific method has determined that antibiotics are useless in
-fighting viral diseases but may work to eliminate bacterial infections
+The [[fukuoka-limits-scientific-method-agriculture]] has determined that antibiotics are useless in
+fighting [[cervantes-viral-diseases-cannabis]] but may work to eliminate bacterial infections
 such as tuberculosis. However, the growing crisis of antibiotic
 resistance means that new approaches are urgently needed.
 
@@ -100,7 +100,7 @@ alongside syphilis, herpes, and autoimmune diseases such as sarcoidosis.
 ## Supporting Therapeutic Approaches
 
 While specific research on cannabis and tuberculosis is limited in The
-Cannabis Health Index, the broader principles of immune modulation and
+Cannabis Health Index, the broader principles of [[cancer-immune-modulation-mechanisms]] and
 antibacterial cannabinoid activity are relevant:
 
 - Cannabis has documented anti-inflammatory properties that may help

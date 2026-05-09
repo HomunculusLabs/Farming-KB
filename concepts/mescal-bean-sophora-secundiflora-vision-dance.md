@@ -1,5 +1,5 @@
 ---
-title: "Mescal Bean (Sophora secundiflora): Vision Dance and Texas Narcotic"
+title: "Mescal Bean (mescal bean sophora secundiflora vision dance): Vision Dance and Texas Narcotic"
 created: "2026-04-17"
 updated: "2026-04-17"
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Mescal Bean (Sophora secundiflora): Vision Dance and Texas Narcotic
 
-Mescal bean or Texas mountain laurel (Sophora secundiflora, also known as Calia secundiflora) is a shrub or small tree native to Texas and northern Mexico whose bright red seeds were once among the most important hallucinogenic plants of North America. The mescal bean "vision dance" was a major ceremony among many tribes of the Plains, Southwest, and northern Mexico, predating the adoption of peyote in many of these cultures.
+Mescal bean or Texas mountain laurel (Sophora secundiflora, also known as Calia secundiflora) is a shrub or small tree native to Texas and northern Mexico whose bright red seeds were once among the most important hallucinogenic plants of [[psilocybin-north-america-pacific-northwest]]. The mescal bean "vision dance" was a major ceremony among many tribes of the Plains, Southwest, and northern Mexico, predating the adoption of peyote in many of these cultures.
 
 ## Botanical Profile
 
@@ -19,7 +19,7 @@ The common name "mescal bean" has caused persistent confusion with mescal (peyot
 
 ## Historical Importance
 
-The mescal bean is the "red bean" that was one of the most important narcotics of the North American Indians. The bright red beans were employed ritually for centuries, and they have been found in archaeological sites dating back thousands of years. Their use was once so widespread that the mescal bean "vision dance" represented one of the major ceremonial traditions of Native North America.
+The mescal bean is the "red bean" that was one of the most important narcotics of the [[growing-gourmet-north-american-reishi-species]] Indians. The bright red beans were employed ritually for centuries, and they have been found in archaeological sites dating back thousands of years. Their use was once so widespread that the mescal bean "vision dance" represented one of the major ceremonial traditions of Native North America.
 
 The mescal bean ceremony appears to have been the primary visionary ceremony among many Plains and Southwest tribes before the introduction of peyote. The Comanche, Apache, Kiowa, and numerous other tribes conducted elaborate mescal bean dances in which participants consumed the beans to seek visions and spiritual power. The ceremony typically involved fasting, dancing, and the consumption of one or more of the red seeds.
 
@@ -29,7 +29,7 @@ The mescal bean vision dance was a major ceremony in which the participants dran
 
 The vision dance was closely associated with the transition from youth to adulthood in many tribes. Young men seeking spiritual power and guidance would participate in the ceremony, consuming the mescal beans and dancing until they received a vision. The vision was believed to provide spiritual protection, hunting skills, or other forms of supernatural assistance.
 
-The eventual displacement of the mescal bean by peyote in many tribal traditions represents one of the most significant transitions in Native American religious history. The peyote religion, which spread northward from Mexico during the 19th century, eventually supplanted the mescal bean ceremony in many areas, though knowledge of the older tradition persisted among tribal elders and ethnographers.
+The eventual displacement of the mescal bean by peyote in many tribal traditions represents one of the most significant transitions in [[halpern-sacramental-peyote-and-native-american-church]] religious history. The peyote religion, which spread northward from Mexico during the 19th century, eventually supplanted the mescal bean ceremony in many areas, though knowledge of the older tradition persisted among tribal elders and ethnographers.
 
 ## Chemical Composition
 
@@ -67,9 +67,9 @@ The mescal bean holds a unique place in the ethnopharmacology of North America a
 - [[old-world-hallucinogenic-plants-overview]]
 - [[sophora-secundiflora-entity]]
 
-[[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] — Mexican morning glories.
+[[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] — [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] glories.
 
-[[tree-daturas-brugmansia-south-american-ethnobotany]] — South American tree daturas.
+[[tree-daturas-brugmansia-south-american-ethnobotany]] — [[chiric-caspi-brunfelsia-south-american-hallucinogen]] tree daturas.
 
 [[sinicuichi-heimia-salicifolia-auditory-hallucinogen]] — Mexican auditory hallucinogen.
 

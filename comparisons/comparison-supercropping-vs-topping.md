@@ -10,7 +10,7 @@ type: comparison
 # Supercropping vs Topping
 ## Overview
 Supercropping and topping are two high (HST) techniques used primarily in
-cannabis cultivation to manipulate plant architecture, increase yield, and optimize light
+[[query-how-does-no-till-cannabis-cultivation-work]] to manipulate plant architecture, increase yield, and optimize light
 distribution by disrupting apical dominance. Both techniques break the plant's natural tendency
 to grow a single dominant main stem at the expense of lower branches, but they achieve this
 through different mechanical means. Topping removes the apical meristem entirely to force the
@@ -18,7 +18,7 @@ plant to split its energy between two new co-dominant leaders, while supercroppi
 bends stems to create horizontal growth patterns without removing any plant tissue whatsoever.
 ## Supercropping
 [[cannabis-vegetative-stage]],
-progressively training the plant into the desired horizontal structure ideal for indoor grow
+progressively training the plant into the desired horizontal structure ideal for [[cannabis-indoor-grow-lighting-systems]]
 environments where light intensity drops off rapidly with distance from the source.
 Supercropped plants develop thick, reinforced stems that resist falling over under the weight
 of dense flower clusters. The technique requires practice to calibrate the correct pressure:
@@ -26,12 +26,12 @@ too little and the stem springs back to vertical, too much and the stem snaps co
 ## Topping
 [[main-lining]]" technique, involves systematic topping combined with low-stress
 tying and training to create an even, symmetrical canopy of uniformly sized colas. The process
-takes several weeks of vegetative growth to execute fully but produces remarkably even canopy
+takes several weeks of [[cannabis-vegetative-growth-stage]] to execute fully but produces remarkably even canopy
 structures and highly consistent bud sizes across all colas at harvest.
 The timing of topping is important for optimal results. The plant should have developed at
 least 4-6 true nodes before the first topping to ensure sufficient growth potential for rapid
 recovery and strong secondary leader development. Topping too early can stunt the overall
-plant, while topping too late in the vegetative stage may not allow enough recovery time before
+plant, while topping too late in the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] may not allow enough recovery time before
 the flowering light cycle begins. Most experienced growers perform their first topping during
 weeks 3-5 of vegetative growth. The cut should be made cleanly with sterilized scissors or a
 razor blade at a 45-degree angle just above a node.
@@ -72,7 +72,7 @@ leaders to develop from scratch.
 Topping is the better choice for beginners due to its simplicity, predictability, and minimal
 skill requirement. The cut is straightforward, the results are reliable, and the plant's
 response follows a well-understood pattern. Topping is the foundation of the main-lining and
-manifold training techniques that create perfectly symmetrical, even canopies ideal for uniform
+manifold [[cannabis-training-techniques-comparison]] that create perfectly symmetrical, even canopies ideal for uniform
 flower development. For growers who prefer a structured, methodical approach to plant training,
 progressive topping provides a clear, repeatable framework with predictable results.
 ## Hybrid Approaches

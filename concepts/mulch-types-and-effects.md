@@ -5,6 +5,7 @@ updated: 2026-04-20
 type: concept
 tags: [soil, gardening]
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
@@ -20,12 +21,12 @@ used to shift the [[symbiotic-fungi-mycorrhizal-nitrogen-transfer-networks]]
   decay of the plant itself
 - Put compost down first, then cover with mulch; compost organisms will
   inoculate the mulch and begin decomposing it
-- Mix green grass or alfalfa meal into wood chip mulch to ensure adequate
+- Mix [[knf-green-grass-liquid-fertilizer]] or alfalfa meal into [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] mulch to ensure adequate
   C:N ratio if needed
 
 ## Growing Protozoa for Mulch
 
-To boost nutrient cycling in mulch, grow your own protozoa by soaking fresh
+To boost [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in mulch, grow your own protozoa by soaking fresh
 grass clippings, alfalfa, hay, or straw in dechlorinated water for 3-4 days
 with an aquarium air pump to keep it aerobic. Pour this protozoa-rich soup
 onto mulches to increase nutrient cycling power.
@@ -84,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

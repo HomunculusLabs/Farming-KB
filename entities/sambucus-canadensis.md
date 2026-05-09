@@ -21,7 +21,7 @@ created: 2026-05-07
 
 ## Overview
 
-**Sambucus canadensis** L. (syn. *Sambucus nigra* subsp. *canadensis*), the **American elderberry**, is a deciduous shrub in the family Adoxaceae (formerly Caprifoliaceae) native to eastern and central North America.
+**Sambucus canadensis** L. (syn. *Sambucus nigra* subsp. *canadensis*), the **American elderberry**, is a deciduous shrub in the family Adoxaceae (formerly Caprifoliaceae) native to eastern and central [[psilocybin-north-america-pacific-northwest]].
 
 It produces large clusters of dark purple-black berries valued for culinary use, traditional medicine, and nutraceutical production.
 
@@ -59,7 +59,7 @@ Recent taxonomic treatments by Bolli (1994) and subsequent molecular studies sup
 
 ## Distribution and Habitat
 
-Native to eastern North America, from Nova Scotia west to Manitoba and south to Florida and eastern Texas.
+Native to [[polypore-fungi-eastern-north-america]] America, from Nova Scotia west to Manitoba and south to Florida and eastern Texas.
 
 Naturalized outside its native range in the Pacific Northwest and parts of Europe.
 
@@ -91,7 +91,7 @@ Contemporary research supports antiviral activity against influenza strains A an
 
 Anti-inflammatory effects are attributed to anthocyanin-mediated inhibition of cyclooxygenase-2 (COX-2) and nuclear factor kappa-B (NF-κB) signaling pathways.
 
-Immunomodulatory effects include enhanced cytokine production and increased oxidative defense capacity in clinical trials.
+Immunomodulatory effects include enhanced cytokine production and increased oxidative defense capacity in [[mushroom-cancer-clinical-trials-overview]].
 
 ## Permaculture Applications
 
@@ -99,9 +99,9 @@ American elderberry is an excellent permaculture species for food forests, ripar
 
 It provides multiple yields: flowers for cordials and teas, berries for preserves and supplements, and nectar for pollinators during the midsummer gap period.
 
-The suckering growth habit makes it effective for erosion control on stream banks and slopes.
+The suckering growth habit makes it effective for [[permplant-willows-salix-erosion-control-fodder]] on stream banks and slopes.
 
-It functions as a dynamic accumulator, drawing minerals from deep soil layers into its leaf litter, benefiting neighboring plants.
+It functions as a [[nutrient-dynamic-accumulator-reference]], drawing minerals from deep soil layers into its [[dighton-fungal-decomposition-leaf-litter-dynamics]], benefiting neighboring plants.
 
 Compatible in guild plantings with nitrogen-fixing shrubs such as *Elaeagnus umbellata* and *Caragana arborescens*.
 
@@ -116,6 +116,8 @@ Annual pruning of older canes (2+ years) maintains productivity, as fruit is pro
 Established plantings produce 5–12 kg of berries per plant at maturity (3–5 years after planting).
 
 ## See Also
+
+- [[cercis-canadensis]]
 
 - [[sambucus-cerulea]]
 

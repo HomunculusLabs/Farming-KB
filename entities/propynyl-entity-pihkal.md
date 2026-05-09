@@ -1,5 +1,5 @@
 ---
-title: "PROPYNYL (3,5-DIMETHOXY-4-(2-PROPYNYLOXY)PHENETHYLAMINE) -- PIHKAL Entry #143"
+title: "PROPYNYL (3,5-DIMETHOXY-4-(2-PROPYNYLOXY)PHENETHYLAMINE) -- 2c-b-pihkal-entry-20 #143"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -52,7 +52,7 @@ To a solution of 5.8 g homosyringonitrile (see under E for
 its preparation) in 50 mL acetone containing 100 mg
 decyltriethylammonium iodide, there was added 12 g of an 80% solution
 of propargyl bromide in toluene and 6.9 g of finely powdered anhydrous
-K2CO3. This mixture was held at reflux on the steam bath for 12 h,
+K2CO3. This mixture was held at reflux on the [[scythian-cannabis-steam-bath-ritual]] for 12 h,
 after which the solvent was removed under vacuum. The residues were
 added to 0.5 L H2O, acidified, and extracted with 3x75 mL CH2Cl2. The
 extracts were pooled, washed with 5% NaOH, and then with dilute HCl
@@ -90,7 +90,7 @@ yield was 3.0 g of white needles.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

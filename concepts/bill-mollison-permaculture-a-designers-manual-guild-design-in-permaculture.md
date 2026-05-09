@@ -1,22 +1,13 @@
 ---
 title: Guild Design in Permaculture
 created: 2026-04-28
-tags: [[permaculture, guilds, polyculture, companion-planting, ecology]
+tags: [permaculture, guilds, polyculture, companion-planting, ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["papers/bill-mollison-permaculture-a-designers-manual.md"]
 type: concept
 ---
-
-# Guild Design in Permaculture
-
-Guild design is the permaculture practice of assembling groups of plants,
-animals, and other elements that support each other through complementary
-functional relationships. Drawing from the ecological concept of species
-associations, Bill Mollison developed guild design as a practical tool for
-creating productive polycultures that reduce competition, enhance mutual
-support, and minimize the need for external inputs. Guilds are the building
-blocks of [[permaculture-design]] of functional diversity, relative location,
+# Guild Design in Permaculture Guild design is the permaculture practice of assembling groups of plants, animals, and other elements that support each other through complementary functional relationships. Drawing from the ecological concept of species associations, Bill Mollison developed guild design as a practical tool for creating productive polycultures that reduce competition, enhance mutual support, and minimize the need for external inputs. Guilds are the building blocks of [[permaculture-design]] of functional diversity, relative location,
 and biological resource use. They connect directly to [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]] through
 nutrient cycling.
 
@@ -26,7 +17,7 @@ A guild is a mutually beneficial assembly of species organized around a
 central element, typically a tree or key crop. Each member of the guild
 performs specific functions that support the others, creating a mini-ecosystem
 that is more productive and resilient than any species grown alone. Mollison
-identified five categories of guild functions: nitrogen fixation, nutrient
+identified five categories of guild functions: [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], nutrient
 accumulation, pest deterrence, pollinator attraction, and microclimate
 modification. A well-designed guild includes species representing each of
 these functions, creating a self-regulating system that produces food, builds
@@ -36,11 +27,11 @@ soil, and manages pests without external inputs.
 
 Mollison frequently used the apple tree guild as an illustrative example. At
 the center is a productive apple tree. Beneath and around it, comfrey serves
-as a dynamic accumulator, drawing potassium from deep soil layers into its
+as a [[nutrient-dynamic-accumulator-reference]], drawing potassium from deep soil layers into its
 leaves for surface mulch. Nitrogen-fixing plants such as clover or seaberry
 supply nitrogen to the system through root exudates and leaf decomposition.
 Daffodils or garlic planted around the trunk deter browsing animals and
-repel certain pests. Nasturtiums attract beneficial insects and trap aphids.
+repel certain pests. Nasturtiums attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] and trap aphids.
 Chives and alliums repel codling moth and other apple pests. This guild
 produces apples, herbs, flowers, and mulch material while managing its own
 fertility and pest protection.
@@ -72,14 +63,14 @@ reducing the need for chemical pesticides.
 ### Pest Repellent Plants
 
 Aromatic plants such as garlic, onion, marigold, tansy, rue, and wormwood
-release volatile compounds that repel specific insect pests or mask the scent
+release [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] that repel specific insect pests or mask the scent
 of crop plants from pest detection. Placing these species strategically within
 a guild creates a protective olfactory barrier around vulnerable crops.
 
 ### Mulch Producers
 
 Plants that produce abundant biomass for mulch are essential guild members.
-Comfrey, artichoke, Jerusalem artichoke, and many grasses and legumes can be
+Comfrey, artichoke, [[comparison-jerusalem-artichoke-vs-potato]], and many grasses and legumes can be
 cut multiple times per season to produce surface mulch that feeds soil
 organisms, retains moisture, and suppresses weeds. This living mulch system
 reduces the need to import mulch materials from off-site.
@@ -99,7 +90,7 @@ The designer first identifies the needs of the central plant: nutrients
 required, pests that attack it, pollinators it depends on, and microclimate
 conditions it prefers. Then the designer selects species that fill each
 identified need. The resulting guild is tested through observation and refined
-over time. Local knowledge and traditional companion planting wisdom inform
+over time. Local knowledge and traditional [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] wisdom inform
 guild design, but the functional analysis framework ensures that every member
 has a clearly defined role.
 

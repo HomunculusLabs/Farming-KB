@@ -15,7 +15,7 @@ Daturas, are large shrubs or small trees of the Solanaceae
 (nightshade) family native to the Andean region of South America.
 They are among the most important hallucinogenic plants in South
 America, employed extensively in indigenous medicine, shamanism, and
-ritual. Like [[trichocereus-pachanoi]] (San Pedro cactus) along with
+ritual. Like [[trichocereus-pachanoi]] (San [[san-pedro-cactus-history]]) along with
    Pernettya and Lycopodium, creating a more complex psychoactive prep
   aration
 - **Enema**: In some traditions, Brugmansia preparations are administe
@@ -60,7 +60,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +102,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

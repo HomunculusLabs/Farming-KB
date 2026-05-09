@@ -1,5 +1,5 @@
 ---
-title: Orographic and Forest Rainfall Effects
+title: Orographic and mollison orographic and forest rainfall effects Effects
 created: 2026-04-26
 tags:
   - permaculture
@@ -17,12 +17,12 @@ type: concept
 
 Mollison documents the critical role that forests play in generating
 and maintaining rainfall, demonstrating that deforestation leads
-directly to drought, while strategic tree planting can enhance local
+directly to drought, while strategic [[fukuoka-textdoc-shelterbelt-design-environmental-tree-planting]] can enhance local
 precipitation through several well-documented mechanisms.
 
 ## The Water Cycle and Biological Effects
 
-The global water cycle is driven by solar energy but is profoundly
+The global water cycle is driven by [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] but is profoundly
 modified by biological systems. While the basic schematic shows
 evaporation, condensation, and precipitation, the biological
 contributions to each stage are substantial but rarely assessed or
@@ -95,7 +95,7 @@ well known in deforested areas.
 
 Any conservationist policies of future effective and informed regional
 governments would first research such effects, then quickly establish
-national forest and watershed management or restoration policies based
+national forest [[ozier-pdc-hydro-cycle-and-watershed-management]] or restoration policies based
 on such research.
 
 ## Soil Storages and Water Cycling
@@ -115,7 +115,7 @@ prevent water-logging of soils and soil salting in the long term.
 
 ## Design Principles for Rainfall Enhancement
 
-For permaculture designers, the implications are clear:
+For [[permaculture-designers-manual-animal-forage-systems]], the implications are clear:
 
 - **Preserve upland forests** on cross-wind ridges and on steep
   (18 degrees slope or more) sea-facing slopes.
@@ -138,4 +138,4 @@ For permaculture designers, the implications are clear:
 
 - [[mollison-tree-biomass-and-forest-as-living-entity]]
 - [[mollison-climate-site-analysis-permaculture]]
-- [[mollison-pdc-swale-design-water-harvesting]]
+- mollison-pdc-swale-design-water-harvesting

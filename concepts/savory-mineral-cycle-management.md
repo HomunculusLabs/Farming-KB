@@ -1,5 +1,5 @@
 ---
-title: Mineral Cycle Management
+title: savory mineral cycle management Management
 created: 2026-04-26
 aliases: [mineral cycle, nutrient cycle, soil biology, leaching,
           organic matter, biological decay]
@@ -16,8 +16,8 @@ type: concept
 
 # Mineral Cycle Management
 
-The mineral cycle is one of the four ecosystem foundation blocks in
-Holistic Resource Management. It describes the circular journey of
+The mineral cycle is one of the four [[savory-ecosystem-foundation-blocks]] blocks in
+[[savory-holistic-resource-management-animal-impact]] Management. It describes the circular journey of
 nutrient elements through the ecosystem, from deep soil layers to
 the surface and back again. Like water, mineral nutrients follow a
 cyclical pattern, but because we cannot see them as conspicuously in
@@ -32,7 +32,7 @@ organisms in continuous contact with atmospheric nitrogen, oxygen, and
 carbon. These organisms require energy derived from sunlight, which they
 obtain indirectly through a continuous supply of decomposing plant and
 animal residues. A good mineral cycle cannot function in a dead soil,
-a fact often forgotten in the modern obsession with chemical fertilizers.
+a fact often forgotten in the modern obsession with [[cervantes-chemical-fertilizers-guide]].
 
 To farm or ranch sustainably at low cost, soil and air should provide
 almost all the mineral nutrients required by plants and animals. Some
@@ -113,7 +113,7 @@ microorganisms and inhibit those that fix atmospheric nitrogen. They
 damage organic material and living organisms, decrease water-retaining
 capabilities, and increase leaching. Farmers who add soluble nitrogen
 must keep applying ever increasing amounts because they have damaged
-the natural mineral cycle. The leached minerals not only become
+the [[jadam-natural-mineral-leaching-and-replenishment]] cycle. The leached minerals not only become
 unusable on that ground but become dangerous pollutants as groundwater
 carries them far from their origin.
 
@@ -131,5 +131,5 @@ downward.
 ## See Also
 
 - [[savory-soil-carbon-sequestration]] for carbon's role in the cycle
-- [[savory-soil-surface-and-capping]] for surface management details
+- [[savory-soil-surface-and-capping]] for [[jadam-soil-surface-management-no-till]] details
 - [[savory-animal-impact-and-herd-effect]] for biological breakdown

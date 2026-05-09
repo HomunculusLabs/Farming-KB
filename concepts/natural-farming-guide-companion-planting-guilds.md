@@ -1,5 +1,5 @@
 ---
-title: Companion Planting Guilds and Plant Communities
+title: comparison-companion-planting-reference-vs-jadam-monoculture-critique Guilds and Plant Communities
 created: 2026-04-28
 tags: [natural-farming, companion-planting, guilds, polyculture, permaculture, ecology]
 date: 2026-04-25
@@ -59,7 +59,7 @@ Plants can be placed strategically to perform several key roles:
 
 **Attract predators:** These plants provide food or shelter to friendly
 insects that eat pests. Dill, fennel, and carrots left to go to seed
-attract parasitic wasps that control pest populations.
+attract parasitic wasps that [[query-how-do-parasitoid-wasps-control-pest-populations]] populations.
 
 **Sacrifice themselves:** These plants attract pests, and the pests
 leave other plants alone. Nasturtiums, for example, can attract aphids
@@ -69,12 +69,12 @@ away from vegetable crops.
 can remove them. Care must be taken to avoid providing a winter home
 for pests that will return in summer.
 
-**Provide nutrients:** Plants can be grown to fix nitrogen or create
+**Provide nutrients:** Plants can be grown to [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] or create
 other nutrients and friendly bacteria. They can also be cut down and
 left as mulch below trees or between crops.
 
 **Create shelter:** These plants prevent frost, stop the wind, make
-mulch, and create microclimates that benefit neighboring plants.
+mulch, and [[query-how-do-i-create-microclimates-in-my-garden]] that benefit neighboring plants.
 
 ## Animal Integration in Guilds
 
@@ -84,11 +84,11 @@ Animals can also provide strategic benefits within plant communities:
 gather. Pigs and birds can clean these up, simultaneously fertilizing
 as they go.
 
-**Insect control:** Birds that eat larvae and eggs from the bark of
+**[[mushroom-pests-insect-control-stamets]]:** Birds that eat larvae and eggs from the bark of
 trees can be attracted with flowers and herbs. The flowers attract
 insects, which in turn attract birds.
 
-**Slug and snail control:** Ducks can be allowed into the garden from
+**[[hamilton-slug-and-snail-control]] control:** Ducks can be allowed into the garden from
 fall to spring, where they will totally control the slug and snail
 population. They stay in the marsh in the summer.
 

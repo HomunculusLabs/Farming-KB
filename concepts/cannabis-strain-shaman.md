@@ -16,7 +16,7 @@ type: concept
 
 # Shaman
 
-Shaman is a sativa-dominant hybrid cannabis strain bred by Dutch Passion of
+Shaman is a sativa-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] bred by Dutch Passion of
 Holland. Dating back to the 1980s, Shaman is a classic variety that combines
 Purple #1 and Skunk genetics, resulting in a plant prized for its stunning
 coloration, resilient growth, and thoughtful cerebral effects. Named after the
@@ -29,7 +29,7 @@ Shaman was created by crossing Purple #1 with Skunk genetics. Purple #1 is a
 well-known Dutch cannabis variety celebrated for its ability to develop vivid
 purple coloration, particularly when exposed to cooler nighttime temperatures
 during flowering. The Skunk parent, one of the most foundational strains in
-modern cannabis breeding, contributes its characteristic vigor, yield
+modern [[oner-cannabis-breeding-fundamentals]], contributes its characteristic vigor, yield
 potential, and the pungent aroma that has made Skunk varieties famous since
 the 1970s.
 
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

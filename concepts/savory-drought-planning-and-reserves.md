@@ -1,5 +1,5 @@
 ---
-title: Drought Planning and Reserves
+title: savory drought planning and reserves and Reserves
 created: 2026-04-28
 tags: [drought, grazing-planning, risk-management]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: concept
 
 # Drought Planning and Reserves
 
-In [[savory-energy-flow-and-solar-capture]], livestock performance, and overall ranch
+In , livestock performance, and overall ranch
 productivity.
 
 ## The Traditional Approach: Area Reserve
@@ -27,7 +27,7 @@ ten-paddock cell where two paddocks are withdrawn, only eight remain for
 grazing. Given an average recovery period of sixty days, this means
 8.5-day average grazing periods as opposed to 6.6 days if all ten paddocks
 had been grazed. The shorter grazing periods for the fully utilized cell
-would have meant greater energy flow with better livestock performance,
+would have meant greater [[savory-energy-flow-and-solar-capture]] with better livestock performance,
 better plant growth, and less pressure on the land that was grazed.
 
 ## Time Reserve: The Holistic Approach
@@ -43,11 +43,11 @@ ground. Fire risk also increases as all the eggs rest in only two paddocks.
 
 In the dormant season, the area reserve cell has less forage in each
 grazed paddock than the time reserve cell, because the same number of
-animal days have been taken from less land over a longer grazing period.
+[[savory-animal-days-and-forage-measurement]] have been taken from less land over a longer grazing period.
 The stock start off in worse condition due to longer grazing periods
 during the months of most promising gain.
 
-When the growing season should begin, all eight paddocks in the area
+When the [[savory-growing-season-and-non-growing-season-management]] should begin, all eight paddocks in the area
 reserve cell may be grazed down to scratch. If new growth does not start,
 the reserve paddocks will carry the herd, but the animals have only one
 move and stay on fouled ground for a prolonged time without stimulation.
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

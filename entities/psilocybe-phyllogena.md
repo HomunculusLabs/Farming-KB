@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-**Psilocybe phyllogena** is a temperate, wood-inhabiting mushroom in the family Hymenogastraceae. It was one of the species analyzed in Bigwood and Beug's landmark 1992 study on the variation of psilocybin and psilocin levels across Psilocybe species. *P. phyllogena* is a relatively obscure member of the genus, known from forested habitats in North America.
+**Psilocybe phyllogena** is a temperate, wood-inhabiting mushroom in the family Hymenogastraceae. It was one of the species analyzed in Bigwood and Beug's landmark 1992 study on the variation of psilocybin and psilocin levels across Psilocybe species. *P. phyllogena* is a relatively obscure member of the genus, known from forested habitats in [[psilocybin-north-america-pacific-northwest]].
 
 ## Taxonomy and Classification
 
@@ -37,13 +37,13 @@ There are no documented traditional, ceremonial, or recreational uses of *P. phy
 
 ## Cultivation
 
-No established cultivation methods exist for *P. phyllogena*. As a wood-inhabiting species, it would likely require sterilized wood-based substrates such as supplemented sawdust or hardwood chips. Interest in cultivation has been essentially nonexistent given the species' low psychoactive alkaloid content.
+No established [[synthetic-log-cultivation-methods-guide]] exist for *P. phyllogena*. As a wood-inhabiting species, it would likely require sterilized wood-based substrates such as [[oyster-mushroom-supplemented-sawdust-blocks]] or hardwood chips. Interest in cultivation has been essentially nonexistent given the species' low psychoactive alkaloid content.
 
 ## References
 
 - Bigwood, J. & Beug, M. W. (1992). Variation of psilocybin and psilocin levels. Journal of Psychoactive Drugs.
 - Guzmán, G. (1983). The Genus Psilocybe: A Systematic Revision of the Known Species. Vaduz: J. Cramer.
-- Stamets, P. (1996). Psilocybin Mushrooms of the World. Berkeley: Ten Speed Press.
+- Stamets, P. (1996). [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World. Berkeley: Ten Speed Press.
 ## Practical Considerations
 
 When working with Psilocybe phyllogena, several practical factors should be
@@ -60,7 +60,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +102,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

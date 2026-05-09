@@ -23,7 +23,7 @@ sources:
 
 # Mythological Mushroom Symbolism
 
-The symbolic vocabulary through which mushrooms — particularly Amanita muscaria — were encoded in world mythology, religious art, and cultural traditions. [[james-arthur]] catalogs 40+ names and symbols that he argues all refer to the mushroom across cultures, representing different views of the same organism at various stages of its lifecycle.
+The symbolic vocabulary through which mushrooms — particularly [[allegro-amanita-muscaria-properties-and-pharmacology]] — were encoded in world mythology, religious art, and cultural traditions. [[james-arthur]] catalogs 40+ names and symbols that he argues all refer to the mushroom across cultures, representing different views of the same organism at various stages of its lifecycle.
 
 ## The Mushroom Lifecycle as Mythological Template
 
@@ -39,13 +39,13 @@ The Amanita muscaria lifecycle provides a natural template for mythological narr
 ### Stage 2: Emergence (Snake-Like)
 - Pushing upward from the bulbous base like a snake hatching
 - Shedding the universal veil = shedding skin
-- The serpent in the Garden of Eden — reveals secret knowledge
-- The Feathered Serpent (Quetzalcoatl/Kukulcan) — cosmopolitan symbol
+- The serpent in the [[allegro-garden-of-eden-and-delight]] — reveals secret knowledge
+- The [[amanita-muscaria-feathered-serpent-phoenix]] (Quetzalcoatl/Kukulcan) — cosmopolitan symbol
 - After full growth and decay, leaves a hole with white spore powder — a "snake's hole" or lair
 
 ### Stage 3: Full Growth (Mushroom Form)
 - Cap and stem resemble vulva and phallus — the hermaphroditic/alchemical union
-- The Holy Grail — upturned cap shape, "vessel containing the blood of the God"
+- The [[amanita-muscaria-holy-grail-theory-detailed]] — upturned cap shape, "vessel containing the blood of the God"
 - The Fountain of Youth, the Fountain of Living Waters (90% water, fountain-shaped)
 - The "One-Eyed Howler" — round eye shape representing cosmic vision
 
@@ -136,19 +136,9 @@ Present in: 12th-century Christian paintings, Buddhist tangkas, Egyptian temple 
 ## Comparative Mythology: Shared God Attributes
 
 Arthur argues that tracing gods back through time reveals common attributes pointing to mushroom origins:
-- Miraculous virgin birth (seedless mushroom growth)
+- Miraculous virgin birth (seedless [[pf-tek-mushroom-growth-timeline]])
 - Divine manifestation / incarnation
-- Death and resurrection (3-day cycle)
-- Sacramental food consumption
-- Association with serpents, trees, and lightning
-- The god IS the food IS the sacrifice
-
-Similarities between Horus (Egypt), Mithra (Persia), Krishna (India), and Jesus number in the hundreds — "Take and eat, This is my body" is the central theme uniting them all.
-
-## Critical Assessment
-
-Arthur's symbolic interpretations are creative and often visually compelling, but rely heavily on Allegro-style speculative philology and pareidolic pattern recognition. The same symbol (a cup, a serpent, wings) can have multiple independent origins. The lifecycle-to-mythology mapping is the strongest part of the argument — the mushroom's growth pattern genuinely does resemble many mythological narratives. However, the claim that ALL these symbols in ALL cultures refer to mushrooms is the weakest — it risks becoming an unfalsifiable "everything is mushrooms" framework. See [[mushroom-folklore-and-culture]] for additional folklore and [[siberian-shamanism-and-amanita]] for critical perspectives on ethnomycological claims.
-
+- [[allegro-death-and-resurrection-in-the-mushroom-cult]] (3-day cycle)
 ## See Also
 
 - [[mushrooms-and-mankind]] — Arthur's complete ethnomycological theory

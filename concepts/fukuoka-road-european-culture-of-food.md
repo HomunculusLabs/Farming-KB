@@ -1,17 +1,18 @@
 ---
-title: The European Culture of Food
+title: The fukuoka road european culture of food of Food
 created: 2026-04-28
 tags: [europe, food, culture, diet, east-west]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
 # The European Culture of Food
 
 During his tour of the European countryside, masanobu-fukuoka|Fukuoka wanted
-to find out what Western cooking is all about, but found it
+to find out what [[fukuoka-western-cooking-taste-numbing-japanese-food-boom]] is all about, but found it
 totally incomprehensible. His observations reveal a
 fundamental difference between Eastern and Western
 approaches to food, nature, and civilization.
@@ -75,14 +76,14 @@ Even the size of Japanese teacups differs with the type of
 tea. Teacups have no handles, so one balances the cup in
 both hands, reverently savoring the taste. With chopsticks,
 one can dexterously pick up a single grain of rice and savor
-it. The delicate method of savoring Japanese cooking
+it. The delicate method of savoring [[fukuoka-japanese-cooking-culture-disappearing]]
 represented by a pair of bamboo or lacquered chopsticks may
 itself be regarded as the soul and essence of the culture of
 diet.
 
 ## The Abandonment of Chopsticks
 
-The Japanese diet shall surely perish the moment the
+The [[fukuoka-japanese-diet-worse]] shall surely perish the moment the
 chopstick is abandoned for forks and spoons. Fukuoka
 acknowledges the ecological damage caused by excessive use
 of disposable chopsticks, but notes that whereas chopsticks

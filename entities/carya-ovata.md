@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of North America: Volume 2, Hardwoods." USDA Forest Service Agriculture Handbook 654.
+  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 2, Hardwoods." USDA Forest Service Agriculture Handbook 654.
   - Grauke, L.J. & Heering, J.D. (2011). "Carya ovata." In: USDA NRCS Plant Guide.
   - McCarthy, B.C. & Wistendahl, W.A. (1988). "Identifying hickories by bark and twig features." Ohio Journal of Science, 88(2), 36-40.
   - Woodroof, J.G. (1967). "Tree Nuts: Production, Processing, Products." AVI Publishing Company.
@@ -18,11 +18,11 @@ sources:
 
 ## Overview
 
-**Carya ovata** (P. Mill.) K. Koch, commonly known as shagbark hickory, is a large deciduous tree native to eastern North America. It is renowned for its distinctive shaggy bark, excellent hardwood timber, and sweet, edible nuts.
+**Carya ovata** (P. Mill.) K. Koch, commonly known as shagbark hickory, is a large deciduous tree native to [[polypore-fungi-eastern-north-america]] America. It is renowned for its distinctive shaggy bark, excellent hardwood timber, and sweet, edible nuts.
 
 Shagbark hickory typically reaches heights of 20–30 meters with trunk diameters of 40–60 cm. Exceptional specimens may exceed 35 meters in height and live 200–300 years.
 
-The species is one of the most important nut-producing trees in eastern North American forests. Its nuts have been a staple food for Indigenous peoples and wildlife for millennia and remain valued for culinary use today.
+The species is one of the most important nut-producing trees in eastern [[growing-gourmet-north-american-reishi-species]] forests. Its nuts have been a staple food for Indigenous peoples and wildlife for millennia and remain valued for culinary use today.
 
 ## Taxonomy and Morphology
 
@@ -42,7 +42,7 @@ Wood is extremely hard, heavy, and tough, with a Janka hardness rating approxima
 
 ## Distribution and Habitat
 
-Shagbark hickory ranges from southeastern Canada (southern Quebec and Ontario) west to Minnesota and south to eastern Texas and northern Florida. It is most abundant in the central hardwood region of the United States.
+Shagbark hickory ranges from southeastern Canada (southern Quebec and Ontario) west to Minnesota and south to eastern Texas and northern Florida. It is most abundant in the central hardwood region of the [[dmt-containing-plants-united-states-halpern]].
 
 The species is absent from the Atlantic Coastal Plain and is rare in the Gulf Coastal Plain. It reaches its greatest size and abundance in the Ohio River Valley and the central Appalachian Mountains.
 
@@ -62,7 +62,7 @@ Like other members of the Juglandaceae, shagbark hickory produces juglone, an al
 
 The species supports a diverse insect community, including hickory twig girdler, hickory shuckworm, and pecan weevil. While these insects rarely kill mature trees, they can significantly reduce nut production.
 
-Hickory trees are susceptible to several fungal diseases including anthracnose, leaf spot, and heart rot. Root rot caused by *Armillaria* species can kill stressed trees, particularly on sites with poor drainage.
+Hickory trees are susceptible to several fungal diseases including anthracnose, [[jadam-canker-leaf-spot-pesticide]], and heart rot. [[cannabis-root-rot-prevention-and-treatment]] caused by *Armillaria* species can kill stressed trees, particularly on sites with poor drainage.
 
 Shagbark hickory is a component of oak-hickory forests, one of the most extensive and ecologically important forest types in eastern North America. These forests support exceptional levels of biodiversity.
 

@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo IM, Sharnoff SD, Sharnoff S. (2001). "Lichens of North America." Yale University Press.
+  - Brodo IM, Sharnoff SD, Sharnoff S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Myllys L, Stenroos S, Thell A. (2007). "Bryoria" in Nash TH III, Gries C, Bungartz F (eds.), "Lichen Biology." Cambridge University Press, pp. 77–87.
   - Goward T, McCune B, Meidinger D. (1994). "The Lichens of British Columbia." British Columbia Ministry of Forests, Special Report Series 8.
   - Spribille T, Ekman S, Tonsberg T. (2009). "The corticolous Bryoria sect. Bryoria (Parmeliaceae, Lecanorales) in northwestern North America." The Bryologist 112(1): 1–31.
@@ -59,13 +59,13 @@ The species is relatively tolerant of air pollution compared to many other epiph
 
 *Bryoria fuscescens* plays an important role in forest canopy ecosystems. The pendulous thalli provide microhabitat for diverse invertebrate communities, including mites, nematodes, and tardigrades.
 
-The lichen intercepts atmospheric moisture and nutrients, contributing to nutrient cycling in forest canopies. Throughfall beneath Bryoria-laden branches is enriched in dissolved organic nitrogen and potassium.
+The lichen intercepts atmospheric moisture and nutrients, contributing to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest canopies. Throughfall beneath Bryoria-laden branches is enriched in [[dighton-fungal-dissolved-organic-carbon-production]] nitrogen and potassium.
 
 Several species of lichen-feeding moths and other insects specialize on *Bryoria*. The larvae of certain *Xystophora* species feed exclusively on *Bryoria* thalli.
 
-Birds, including warblers and thrushes, incorporate *Bryoria* strands into nest construction. The lichen's insulating properties may help regulate nest temperature and humidity.
+Birds, including warblers and thrushes, incorporate *Bryoria* strands into nest construction. The lichen's insulating properties may help regulate nest [[greg-green-temperature-and-humidity-control]].
 
-*Bryoria* species are known to accumulate heavy metals and other atmospheric contaminants. This bioaccumulation makes them useful biomonitors for air quality assessment in remote forested areas.
+*Bryoria* species are known to accumulate heavy metals and other atmospheric contaminants. This bioaccumulation makes them useful biomonitors for [[cervantes-air-quality-ventilation]] assessment in remote forested areas.
 
 Studies have shown that *Bryoria* can concentrate sulfur, lead, and other pollutants at levels 10–100 times higher than ambient atmospheric concentrations. This capacity has been exploited in environmental monitoring programs across Scandinavia and western Canada.
 
@@ -79,7 +79,7 @@ The species does not produce vulpinic acid, which distinguishes it chemically fr
 
 Trace amounts of atranorin and chloroatranorin have been detected in the cortical layer of some specimens. These compounds contribute to UV protection of the photobiont layer.
 
-The absence of fumarprotocetraric acid separates *B. fuscescens* from *B. caperata*, which consistently contains this depsidone. Chemical analysis is essential for reliable species identification within this genus.
+The absence of fumarprotocetraric acid separates *B. fuscescens* from *B. caperata*, which consistently contains this depsidone. [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] is essential for reliable species identification within this genus.
 
 ## Traditional and Economic Uses
 

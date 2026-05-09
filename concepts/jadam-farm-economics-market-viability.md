@@ -1,5 +1,5 @@
 ---
-title: JADAM Farm Economics and Market Viability
+title: JADAM jadam farm economics market viability and Market Viability
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-JADAM's ultra-low-cost agriculture (ULC) system is built on the economic principle that sustainable farming must first be economically viable. With production costs of approximately 100 dollars per acre per year, JADAM demonstrates that organic farming can be both high-quality and financially accessible, challenging the assumption that organic means expensive.
+JADAM's ultra-low-cost agriculture (ULC) system is built on the economic principle that sustainable farming must first be economically viable. With [[fukuoka-textdoc-production-costs-not-coming-down]] of approximately 100 dollars per acre per year, JADAM demonstrates that [[coleman-deep-organic-farming-philosophy]] can be both high-quality and financially accessible, challenging the assumption that organic means expensive.
 
 ## The Economic Problem of Modern Organic Farming
 
@@ -25,13 +25,13 @@ There are two ways to make profit in farming: to increase revenue or to reduce c
 
 ## The 100 Dollars Per Acre Achievement
 
-After decades of research and experiments, JADAM has not just lowered the cost marginally; it has lowered it radically to an ultra-low level. Production cost now stands at 100 dollars per acre per year. This figure represents all inputs needed for a full year of farming -- fertilizer, pest control, and soil management -- when farmers make these inputs themselves.
+After decades of research and experiments, JADAM has not just lowered the cost marginally; it has lowered it radically to an ultra-low level. Production cost now stands at 100 dollars per acre per year. This figure represents all inputs needed for a full year of farming -- fertilizer, [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], and soil management -- when farmers make these inputs themselves.
 
 ## Self-Sufficiency in Farm Inputs
 
 The key to JADAM's economic model is that farmers make all farm inputs themselves. This includes:
 
-- [[query-how-do-i-make-jadam-natural-pesticide-jnp]] (natural pesticide) from locally available herbs
+- [[query-how-do-i-make-jadam-natural-pesticide-jnp]] ([[jadam-natural-pesticide-institute-and-research]]) from locally available herbs
 - [[jadam-phyllite-water-method]] from inexpensive rock powder
 - Sea water or sea salt for mineral supplementation
 
@@ -47,7 +47,7 @@ JADAM's economic model addresses market viability at multiple levels:
 
 **For the organic movement**: Cost-competitive organic farming can become mainstream rather than a niche market, leading to broader environmental benefits.
 
-**For scaling**: JADAM has been proven on a scale of 330 acres (Jeongho Gim's farm in Bongha village), demonstrating that the economics work at commercial scale, not just for hobby farms.
+**For scaling**: JADAM has been proven on a scale of 330 acres (Jeongho Gim's farm in [[jadam-bongha-village-proof]]), demonstrating that the economics work at commercial scale, not just for hobby farms.
 
 ## The Corporate Capture Problem
 
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

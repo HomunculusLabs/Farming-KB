@@ -1,5 +1,5 @@
 ---
-title: Cannabis For Cachexia And Appetite Stimulation
+title: Cannabis For cannabis for cachexia and appetite stimulation Stimulation
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-Cachexia (from Greek "kakos" meaning bad and "hexis" meaning condition) is a complex metabolic syndrome associated with underlying illness, characterized by loss of muscle mass with or without loss of fat mass. It is distinct from starvation, anorexia, and age-related muscle loss. Cachexia commonly accompanies cancer, [[cannabis-endocannabinoid-system]] plays a central role in regulating appetite through CB1 receptors in the hypothalamus. Ghrelin (the hunger hormone) signals through endocannabinoid pathways. Leptin resistance in obesity involves disrupted endocannabinoid signaling.
+Cachexia (from Greek "kakos" meaning bad and "hexis" meaning condition) is a complex [[cannabis-metabolic-syndrome-research]] associated with underlying illness, characterized by loss of muscle mass with or without loss of fat mass. It is distinct from starvation, anorexia, and age-related muscle loss. Cachexia commonly accompanies cancer, [[cannabis-endocannabinoid-system]] plays a central role in regulating appetite through CB1 receptors in the hypothalamus. Ghrelin (the hunger hormone) signals through endocannabinoid pathways. Leptin resistance in obesity involves disrupted endocannabinoid signaling.
 
 ## Mind-Body Perspective
 
@@ -31,7 +31,7 @@ Cachexia and appetite loss may reflect a loss of appetite for life itself -- a w
 
 ## Source
 
-Uwe Blesching, The Cannabis Health Index (2015), Section: Anorexia and Cachexia
+Uwe Blesching, The [[blesching-cannabis-health-index-autoimmune-conditions]] (2015), Section: Anorexia and Cachexia
 - [[cannabis-for-anorexia-and-cachexia]]
 - [[cannabis-for-diabetes-and-metabolic-syndrome]]
 ## Practical Applications
@@ -111,4 +111,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

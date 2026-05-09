@@ -1,5 +1,5 @@
 ---
-title: Rotational Transition Water Dipole Microwave Sterilization Physics
+title: Rotational Transition Water Dipole nasa-microwave-sterilization-challenge-organisms-kill-kinetics Physics
 concept_type: scientific_principle
 domain: physics
 source: Sterilizing Surfaces by Irradiation with Microwaves (NASA MSC-22484)
@@ -14,10 +14,10 @@ tags: [microwave, physics, sterilization, water-dipole, rotational-transition, e
 
 ## Overview
 
-The sterilization of surfaces using microwave irradiation at 2.45 GHz relies on
+The sterilization of surfaces using [[dry-microwave-irradiation-spore-resistance]] at 2.45 GHz relies on
 a fundamental physical interaction between electromagnetic energy and the
 dipolar water molecule. This mechanism exploits the rotational transitions of
-water molecules to achieve microbial kill with minimal overall temperature
+water molecules to achieve [[microwave-microbial-kill-curves]] with minimal overall temperature
 increase to the substrate or system being treated.
 
 ## The Water Dipole Moment
@@ -75,7 +75,7 @@ The NASA experiments (MSC-22484) demonstrated a critical distinction between
 vegetative cells and spores in their microwave susceptibility:
 
 - **Vegetative cells**: Contain abundant free water. Microwaves penetrate the
-  cell wall and couple with intrinsic water, heating from within. All tested
+  [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] and couple with intrinsic water, heating from within. All tested
   organisms (*Bacillus pumilus*, *Escherichia coli*, *Pseudomonas cepacia*)
   were susceptible to dry microwave irradiation.
 
@@ -91,7 +91,7 @@ Trace quantities of water (~9 µL/cm² of surface) overcome spore resistance:
 2. Microwave energy is absorbed through the same dipole rotational mechanism
 3. The water rapidly heats and flashes to steam
 4. Expanding steam contacts all exposed surfaces including microorganisms
-5. Combined thermal energy transfer and steam penetration destroy spores
+5. Combined [[phase-change-materials-thermal-energy-storage]] transfer and steam penetration destroy spores
 
 The small water quantity (~9 µL/cm²) means minimal total energy is added to
 the system, preserving the low thermal impact advantage.
@@ -99,7 +99,7 @@ the system, preserving the low thermal impact advantage.
 ## Penetration Through Elastomeric Materials
 
 A significant NASA finding was that 2.45 GHz radiation penetrates certain
-elastomeric materials while still achieving surface sterilization beyond them.
+elastomeric materials while still achieving [[challenge-organisms-nasa-microwave-surface-sterilization-testing]] beyond them.
 Materials with low dielectric loss (low ε″) are relatively transparent at
 2.45 GHz, allowing energy to pass through with minimal absorption and reach
 water-containing surfaces in enclosed systems.
@@ -130,9 +130,13 @@ water-containing surfaces in enclosed systems.
 
 ## See Also
 
+- [[microwave-water-interaction-2.45-ghz]]
+
 - [[challenge-microorganisms-microwave-surface-sterilization]]
-- [[microwave-penetration-elastomeric-materials-enclosed-system-sterilization]]
+- [[microwave-penetration-through-elastomeric-materials-sterilization]]
 
 ## See Also
+
+- [[microwave-water-interaction-2.45-ghz]]
 
 - [[trace-water-enhanced-microwave-surface-sterilization]]

@@ -1,5 +1,5 @@
 ---
-title: Chytrid Phylogeny and Zoospore Diversity - Basal Fungi
+title: Chytrid Phylogeny and chytrid phylogeny zoospore diversity basal fungi - Basal Fungi
 created: 2026-04-26
 tags:
   - chytridiomycota
@@ -18,7 +18,7 @@ type: concept
 
 The Chytridiomycota occupy a pivotal position in fungal evolution
 as the only extant fungi that produce flagellated cells at some
-stage in their life cycles. This ancestral trait, retained from
+stage in their [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]. This ancestral trait, retained from
 a choanoflagellate-like ancestor, places chytrids at or near the
 base of the Kingdom Fungi. Modern molecular studies have revealed
 that the traditional Chytridiomycota is not monophyletic, though
@@ -124,6 +124,6 @@ life on land.
 
 ## See Also
 
-- [[fungal-phylogeny-kingdom-classification]]
+- fungal-phylogeny-kingdom-classification
 - [[chytrid-fungi-guide]]
 - [[fungal-evolution]]

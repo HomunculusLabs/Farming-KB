@@ -9,7 +9,7 @@ sources: []
 
 ## What Are Pickles
 
-Pickling is one of the oldest food preservation methods, using acid (vinegar) or salt-based fermentation to preserve vegetables in an acidic environment that inhibits harmful bacteria. There are two fundamentally different approaches: quick pickles (vinegar-based, no fermentation) and fermented pickles (lactic acid bacteria produce the acid naturally through fermentation). Both methods produce delicious results but differ significantly in flavor, texture, health benefits, and shelf life.
+Pickling is one of the oldest food preservation methods, using acid (vinegar) or salt-based fermentation to preserve vegetables in an acidic environment that inhibits harmful bacteria. There are two fundamentally different approaches: quick pickles (vinegar-based, no fermentation) and fermented pickles (lactic [[lactic-acid-bacteria-knf]] produce the acid naturally through fermentation). Both methods produce delicious results but differ significantly in flavor, texture, health benefits, and [[psilocybin-shelf-life-stability]].
 
 ## Quick Pickles (Vinegar-Based)
 
@@ -21,7 +21,7 @@ A basic quick pickle brine:
 
 - 1 cup vinegar (white, apple cider, rice, or red wine vinegar)
 - 1 cup water
-- 1 tablespoon salt (kosher or sea salt)
+- 1 tablespoon salt (kosher or [[jadam-sea-salt-and-mineral-solutions]])
 - 1 tablespoon sugar (optional, to taste)
 
 ### Process
@@ -39,7 +39,7 @@ A basic quick pickle brine:
 
 - White distilled vinegar: neutral, cleanest flavor; most versatile
 - Apple cider vinegar: fruity, slightly sweet; excellent for bread-and-butter pickles
-- Rice vinegar: mild, slightly sweet; good for Asian-style pickles
+- [[brown-rice-vinegar-brv]]: mild, slightly sweet; good for Asian-style pickles
 - Red wine vinegar: deeper, more robust; good for Mediterranean vegetables
 - Malt vinegar: classic for British-style pickled onions and chips
 - Never use balsamic vinegar — too thick and strongly flavored
@@ -62,7 +62,7 @@ A basic fermentation brine (non-iodized salt only):
 1. Prepare vegetables — wash but do not scrub (this preserves natural LAB on the surface)
 2. Soak vegetables in ice water for 30 minutes for extra crunch (optional)
 3. Pack vegetables tightly into a fermentation vessel
-4. Add aromatics: garlic, dill heads/stems, horseradish, mustard seeds, coriander seeds, bay leaves, chili peppers, grape leaves (tannins help keep pickles crisp)
+4. Add aromatics: garlic, dill heads/stems, horseradish, mustard seeds, coriander seeds, bay leaves, [[query-how-to-grow-chili-peppers-from-seed-to-harvest]], grape leaves (tannins help keep pickles crisp)
 5. Prepare salt brine and pour over vegetables until fully submerged
 6. Use a weight (glass fermentation weight, boiled rock, or folded cabbage leaf) to keep vegetables below the brine
 7. Cover loosely — CO2 must escape during fermentation
@@ -138,13 +138,10 @@ Note: Fermented pickles can also be canned, but the heat of water bath processin
 
 - Mushy pickles: cucumber variety wrong, blossom end not trimmed, brine too weak, or fermentation too long
 - Hollow centers: fermentation temperature too high or cucumbers too large
-- Cloudy brine (fermented): normal — indicates active fermentation and lactic acid production
+- Cloudy brine (fermented): normal — indicates active fermentation and lactic [[staycare-fungal-organic-acid-production-metal-leaching]]
 - Cloudy brine (vinegar): can indicate bacterial growth if canned improperly
 - White film (kahm yeast): harmless; skim off the surface
 - Mold (fuzzy, colored): discard the batch
-- Too salty: use less salt in the brine; soak pickles in fresh water before eating
-- Bitter taste: possibly from spices; check mustard seeds and clove amounts
-
 ## See Also
 
 - [[kimchi-making]] — Korean fermented vegetable tradition

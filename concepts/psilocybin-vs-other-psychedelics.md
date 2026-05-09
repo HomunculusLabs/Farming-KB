@@ -10,7 +10,7 @@ sources:
 
 # Psilocybin vs Other Psychedelics
 
-Powell's The Psilocybin Solution provides an extended comparison of psilocybin with other psychoactive substances, placing the mushroom within a broader pharmacological and philosophical context. The key distinction is between psychedelics/entheogens and all other classes of psychoactive substance.
+Powell's The Psilocybin Solution provides an extended comparison of psilocybin with other [[cultural-evolution-and-psychoactive-substances]], placing the mushroom within a broader pharmacological and philosophical context. The key distinction is between psychedelics/entheogens and all other classes of psychoactive substance.
 
 ## Classification of Psychoactive Substances
 
@@ -24,7 +24,7 @@ Powell organizes psychoactive substances into five major classes:
 
 ## What Distinguishes Psychedelics
 
-The critical distinction Powell draws: only psychedelics generate "complex visionary scenes which unfold with closed eyes, along with the perceived increase in the 'realness' of the external world as viewed with eyes open." Other drug classes alter consciousness but do not produce the qualitative content that characterizes the entheogenic experience.
+The critical distinction Powell draws: only psychedelics generate "complex visionary scenes which unfold with closed eyes, along with the perceived increase in the 'realness' of the external world as viewed with eyes open." Other drug classes alter consciousness but do not produce the qualitative content that characterizes the [[pineal-gland-dmt-entheogenic-experience]].
 
 - **Depressants** reduce consciousness by inhibiting neuronal firing. "Without adequate neuronal firing there can be no information processing or informational conductance and hence no mindfulness."
 - **Stimulants** increase specific types of neuronal activity (noradrenergic) but "the increased neuronal activity in this case does not lead to any kind of profound visionary experience. Such radical phenomenology is restricted to entheogens."
@@ -41,7 +41,7 @@ Powell discusses both compounds extensively:
 - Psilocybin is a naturally occurring compound; LSD is fully synthetic
 - The Harvard Psilocybin Project initially used Sandoz psilocybin pills, which "subtly altered the context of the psilocybin experience" compared to consuming fresh mushrooms in a natural setting
 
-McKenna (via Powell) noted that the replacement of natural mushrooms with laboratory-produced pills changed the cultural context of the experience in ways that may have contributed to its eventual suppression.
+McKenna (via Powell) noted that the replacement of natural mushrooms with laboratory-produced pills changed the [[neurotropic-fungi-japan-east-asia-species-cultural-context]] of the experience in ways that may have contributed to its eventual suppression.
 
 ## Psilocybin vs DMT
 
@@ -67,7 +67,7 @@ McKenna's distinction (cited extensively by Powell) between alcohol and psychede
 - Alcohol reinforces the dominator hierarchy
 - Psychedelics threaten it
 
-McKenna argued that "everything about cannabis that makes it inimical to contemporary bourgeois values endears it to the Archaic Revival. It diminishes the power of ego, has a mitigating effect on competitiveness, causes one to question authority, and reinforces the notion of the merely relative importance of social values."
+McKenna argued that "everything about cannabis that makes it inimical to contemporary bourgeois values endears it to the [[archaic-revival-partnership-vs-dominator-cultures]]. It diminishes the power of ego, has a mitigating effect on competitiveness, causes one to question authority, and reinforces the notion of the merely relative importance of social values."
 
 ## The Natural vs. Synthetic Distinction
 
@@ -89,7 +89,7 @@ Powell's The Psilocybin Solution provides a detailed account of the neuroscience
 
 Psilocybin (and its dephosphorylated active metabolite psilocin), LSD, and DMT all work by mimicking the neurotransmitter serotonin (5-hydroxytryptamine, 5-HT). Powell notes that "LSD, and particularly psilocybin, possess an almost identical molecular structure to serotonin i.e. their shape is so similar that they are able to 'fool' and infiltrate parts of the brain which process information using serotonergic synapses."
 
-This molecular mimicry allows psychedelic compounds to bind to serotonin receptors throughout the brain, disrupting normal serotonergic signaling and thereby altering the processing of sensory information, emotional responses, and conscious awareness.
+This molecular mimicry allows [[psychedelic-compounds-reference]] to bind to [[psilocybin-pharmacology-and-serotonin-receptors]] throughout the brain, disrupting normal serotonergic signaling and thereby altering the processing of sensory information, emotional responses, and conscious awareness.
 
 ## The Raphe System
 

@@ -1,5 +1,5 @@
 ---
-title: Nutrient Management - Greg Green's Cannabis Grow Bible
+title: green cannabis grow bible nutrient management ppm - Greg Green's green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -74,13 +74,13 @@ Green provides a systematic approach:
 - A) Check for bugs first; eliminate pest problems
 - B) Lower yellow leaves during veg = nitrogen deficiency; stunted
   yellow during flowering = nitrogen deficiency; red/dark green
-  yellow during flowering = phosphorus deficiency
-- C) Curling, twisting, yellow leaves = check light burn and air
+  yellow during flowering = [[query-how-to-fix-phosphorus-deficiency-in-cannabis]]
+- C) Curling, twisting, yellow leaves = check [[query-how-to-prevent-and-treat-cannabis-light-burn-and-heat-stress]] and air
   circulation first; if fine, add magnesium (Epsom salts)
-- D) Brown curling leaf tips = potassium deficiency
+- D) Brown curling leaf tips = [[knf-potassium-deficiency-and-excess]]
 - E) Wilted appearance = possible overwatering
 - F) Green veins with yellow leaves = iron deficiency
-- G) Yellow at leaf base, fine tips = manganese deficiency
+- G) Yellow at leaf base, fine tips = [[query-how-to-fix-manganese-deficiency-in-cannabis]]
 - H) If unsolved: flush soil and switch to a complete nutrient
   program with N, P, K, Ca, Mg, S, and micronutrients
 

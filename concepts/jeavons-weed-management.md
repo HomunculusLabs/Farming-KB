@@ -1,5 +1,5 @@
 ---
-title: "Weed Management"
+title: "fukuoka-weed-management-and-green-manure"
 created: 2026-04-26
 sources: "Jeavons, John. How to Grow More Vegetables. Ten Speed Press."
 tags: [biointensive, weeds, weeding, garden-maintenance, jeavons]
@@ -9,8 +9,8 @@ updated: 2026-04-26
 
 # Weed Management
 
-In the GROW BIOINTENSIVE method, weed management is simplified by the dense
-planting of raised beds. The living mulch created by closely spaced crops
+In the [[jeavons-grow-biointensive-method-overview]] method, weed management is simplified by the dense
+planting of [[comparison-raised-beds-vs-hugelkultur]]. The [[comparison-living-mulch-vs-cover-crops]] created by closely spaced crops
 reduces weed pressure significantly, and the loose, well-prepared soil makes
 weed removal easier and more effective.
 
@@ -98,4 +98,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -30,7 +30,7 @@ ornamental flowers.
 The species produces clusters of small pink to carmine flowers on tall, airy
 panicles, making it a popular garden ornamental. Its tender leaves are consumed
 as a nutritious leafy vegetable in many tropical countries, particularly in
-West Africa and Southeast Asia.
+West Africa and [[psilocybe-southeast-asia-pacific]].
 
 ## Taxonomy and Morphology
 
@@ -57,7 +57,7 @@ magenta petals. Flowering occurs predominantly during the rainy season.
 
 ## Distribution and Habitat
 
-T. paniculatum is native to the southern United States through Central America to
+T. paniculatum is native to the southern [[dmt-containing-plants-united-states-halpern]] through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to
 northern South America, and throughout the Caribbean. It has been widely introduced
 in tropical Africa, South and Southeast Asia, and the Pacific Islands.
 
@@ -66,7 +66,7 @@ waste ground. It prefers sandy or loamy soils with good drainage and moderate
 fertility, tolerating pH from 5.0 to 7.5.
 
 Rainfall requirements are modest at 600–1,500 mm annually. The plant exhibits
-moderate drought tolerance through its succulent leaves and tuberous root system.
+moderate [[dighton-fungal-drought-tolerance-plant-water-relations]] through its succulent leaves and tuberous root system.
 It performs best in full sun to partial shade at elevations up to 1,500 meters.
 
 ## Nutritional Profile
@@ -86,7 +86,7 @@ traditional leafy vegetables.
 
 The tuberous roots contain 15–20% carbohydrate (primarily starch) and can be
 consumed as a minor root crop, though they are smaller and less productive
-than dedicated root vegetables.
+than dedicated [[growing-root-vegetables-guide]].
 
 ## Pharmacology
 
@@ -121,7 +121,7 @@ roots are occasionally boiled or roasted as a starchy supplement.
 
 ## Permaculture Applications
 
-T. paniculatum functions effectively as a ground cover in tropical food forests,
+T. paniculatum functions effectively as a [[fukuoka-citrus-orchard-ground-cover-cultivation]] in tropical food forests,
 with its spreading habit and succulent growth suppressing weed establishment.
 Its shallow root system does not compete heavily with deeper-rooted companion
 trees.

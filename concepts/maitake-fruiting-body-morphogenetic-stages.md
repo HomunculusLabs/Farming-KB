@@ -1,5 +1,5 @@
 ---
-title: Maitake Fruiting Body Morphogenetic Stages
+title: Maitake comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms maitake-morphogenetic-stages-observation
 source: unknown-a-practical-guide-to-synthetic-log-cultiva.md
 tags: [maitake, grifola-frondosa, mushroom-cultivation, morphogenesis, fruiting-body, medicinal-mushrooms]
 ---
@@ -16,7 +16,7 @@ can arrest development or produce abnormal fruiting bodies.
 
 ## The Growth Sequence
 
-The complete life cycle from inoculation [[mycelial-colonization]]), primordia initiation (reproductive trigger),
+The complete [[bloomfield-fungal-life-cycle-spiral-versus-circle]] from inoculation [[mycelial-colonization]]), [[chen-maitake-primordia-initiation-fruiting]] (reproductive trigger),
 and [[query-what-are-the-best-mushrooms-for-beginners-to-grow]], convoluted folds appear on their
 surface, creating a distinctive morphology that closely resembles a brain (Fig. 7 in the
 original guide). This is the first major morphogenetic transition and signals that the
@@ -68,7 +68,7 @@ mushroom aroma should be present.
 
 Harvest must occur before petals droop or curve downward, and before white basidiospores
 are released. If left unattended, ripe fruiting bodies soften and develop a foul fishy
-smell. Stop misting one day [[maitake-growth-parameter-comparison-china-japan-north-america]] Comparison** — Comparative environmental requirements across cultivation regions.
+smell. Stop misting one day maitake-growth-parameter-comparison-china-japan-north-america Comparison** — Comparative environmental requirements across cultivation regions.
 - **Synthetic-Log Cultivation** — Overview of the bag-based substrate method for maitake.
 - **[[grifola-frondosa]]** — Species-level page covering ecology, medicinal properties, and taxonomy.
 ## Practical Considerations
@@ -90,3 +90,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[maitake-morphogenetic-stages-observation]]

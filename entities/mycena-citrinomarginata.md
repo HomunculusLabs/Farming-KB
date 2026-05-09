@@ -5,7 +5,7 @@ type: species
 tags: [fungi, mycena, wood-inhabiting, temperate, bioluminescent]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md]
+sources: sources: []
 ---
 
 # Mycena citrinomarginata
@@ -55,7 +55,7 @@ genus Mycena.
 
 ### Spores and Microscopic Features
 Spores are pip-shaped to broadly ellipsoid, smooth, amyloid (turning blue-black in
-Melzer's reagent), measuring approximately 7 to 10 µm by 4 to 6 µm. Spore print is
+Melzer's reagent), measuring approximately 7 to 10 µm by 4 to 6 µm. [[comparison-spore-print-collection-vs-spore-syringe-production]] is
 white. Basidia are 4-spored, clavate, measuring 16 to 24 by 6 to 8 micrometers.
 Cheilocystidia are clavate to cylindrical, sometimes forked or irregularly branched at
 the apex, measuring 20 to 40 by 5 to 10 micrometers, and form a conspicuous sterile
@@ -70,7 +70,7 @@ other small, white-spored genera.
 ## Distribution and Habitat
 
 Mycena citrinomarginata has a wide distribution across temperate regions of the
-Northern Hemisphere. It is reported from Europe, North America, and parts of Asia. The
+Northern Hemisphere. It is reported from Europe, [[psilocybin-north-america-pacific-northwest]], and parts of Asia. The
 species fruits from late summer through autumn, though it may appear during cooler
 months in mild climates.
 
@@ -83,12 +83,12 @@ by dedicated mushroom hunters actively searching the forest floor litter. M.
 citrinomarginata is most frequently found in association with oak, beech, and birch
 leaf litter in temperate deciduous forests, but also occurs under conifers including
 pine and spruce. It is particularly common in old-growth and mature forests with deep,
-undisturbed humus layers, where the accumulation of organic matter provides a rich
+undisturbed humus layers, where the accumulation of [[hamilton-composting-and-organic-matter-management]] provides a rich
 substrate for colonization.
 
 ## Chemical Constituents
 
-Mycena citrinomarginata has been analyzed for its indole alkaloid content and found to
+Mycena citrinomarginata has been analyzed for its [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] content and found to
 contain both psilocybin and psilocin, though in very low concentrations. Psilocybin
 has been detected at trace levels well below 0.01% per dry weight, and psilocin is
 present in similarly low amounts. Additionally, the species contains biotryptamine, a
@@ -106,7 +106,7 @@ the known distribution of tryptamine-related compounds across the fungal kingdom
 species like [[panaeolus-cyanescens-entity]] contain the fully
 elaborated compounds psilocybin and psilocin, species like M. citrinomarginata appear
 to stop at earlier stages of the biosynthetic pathway. This suggests that the genetic
-capacity for tryptamine biosynthesis may be more widespread among basidiomycete fungi
+capacity for tryptamine biosynthesis may be more widespread among [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]]
 than previously recognized.
 
 Additional compounds that have been reported from Mycena species in general include
@@ -122,7 +122,7 @@ citrinomarginata, but several other Mycena species share similar features:
 - [[mycena-purpureofusca]] has purplish-brown tones rather than yellow
 - [[mycena-galopus]] can show slight
 yellowish tints, and other Mycena species may develop yellowish coloration under
-certain conditions. Microscopic examination is recommended for definitive
+certain conditions. [[fungal-microscopic-examination-mounting-media-techniques]] is recommended for definitive
 identification, as many Mycena species require close study of spore morphology
 (particularly the amyloid reaction), cystidial characters, and pileipellis structure. A
 

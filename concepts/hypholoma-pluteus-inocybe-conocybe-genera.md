@@ -1,5 +1,5 @@
 ---
-title: Hypholoma Pluteus Inocybe and Conocybe Genera
+title: Hypholoma hypholoma pluteus inocybe conocybe genera and Conocybe Genera
 created: 2026-04-28
 tags:
   - mycology
@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-Beyond the major genera of neurotropic fungi (Psilocybe, Copelandia,
+Beyond the major genera of [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] (Psilocybe, Copelandia,
 Panaeolus, Gymnopilus, Amanita, and Claviceps), several additional genera
 contain confirmed or suspected hallucinogenic species. The paper by Guzman,
 Allen, and Gartz documents neurotropic species in Hypholoma (2 species),
@@ -57,7 +57,7 @@ more significant minor genera:
   aeruginascin (4-phosphoryloxy-N,N,N-trimethyltryptamine), a compound
   not found in most other neurotropic fungi. Aeruginascin may modify
   the psychoactive effects of psilocybin and psilocin. I.
-  aeruginascens grows on wood debris and disturbed ground.
+  aeruginascens grows on [[microfungal-biodiversity-ecology-wood-debris-sampling]] and disturbed ground.
 
 - **Inocybe haemacta**: A European species with confirmed psilocybin
   content. It is found in association with trees, likely forming
@@ -75,7 +75,7 @@ accurate identification critical for anyone considering these fungi.
 
 Conocybe contains 4 documented neurotropic species:
 
-- **Conocybe siligineoides**: One of the most culturally significant
+- **[[guzman-conocybe-siligineoides-lost-sacred-mushroom-oaxaca-never-recollected]]**: One of the most culturally significant
   non-Psilocybe neurotropic fungi, used by the Mazatec people of
   Oaxaca, Mexico. It is known locally as "tauna" or "nti-si-tho" and
   is used in divination ceremonies alongside Psilocybe species. It is
@@ -88,3 +88,22 @@ Conocybe contains 4 documented neurotropic species:
 - [[neurotropic-fungi-classification]]
 - [[gymnopilus-genus-neurotropic-species]]
 - [[copelandia-panaeolus-genera]]
+
+## Merged: Minor Psilocybin Genera - Inocybe and Pluteus
+
+## The Genus Pluteus
+
+Pluteus features primarily wood-decomposing members with caps convex to
+plane, gills pink and free at maturity, and a ringless stem. Most
+species are small to midsized with pinkish to flesh-colored spore
+deposits. Only one active species is detailed by Stamets: Pluteus
+salicinus. Three others have shown activity: P. villosus, P. cyanopus,
+and P. glaucus (from Brazil, with up to 0.28% psilocybin and 0.12%
+psilocin).
+
+### [[stamets-psilocybin-genera-beyond-psilocybe]]
+- hypholoma pluteus inocybe conocybe genera
+## See Also
+- [[stamets-psilocybin-genera-beyond-psilocybe]]
+- hypholoma pluteus inocybe conocybe genera
+- [[guzman-allen-gartz-gymnopilus-pluteus-neurotropic-genera]]

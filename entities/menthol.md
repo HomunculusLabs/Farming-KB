@@ -78,9 +78,9 @@ Biosynthetically, menthol is derived from geranyl pyrophosphate via limonene as 
 Global menthol production exceeds 30,000 metric tons annually, with production split between natural extraction and synthetic manufacture:
 
 **Natural extraction:**
-- Steam distillation of *Mentha arvensis* herbage (China and India produce >80% of natural menthol)
+- [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] of *Mentha arvensis* herbage (China and India produce >80% of natural menthol)
 - Crystallization from frozen peppermint oil at −40 °C
-- Further purification by fractional distillation and recrystallization
+- Further purification by [[cannabis-fractional-distillation-cannabinoids]] and recrystallization
 
 **Synthetic production:**
 - **Takasago process (citronellal cyclization):** The dominant industrial route, starting from myrcene. Myrcene is converted to geranyl chloride, then to citronellal, which undergoes asymmetric cyclization to isopulegol using a chiral ruthenium-BINAP catalyst. Hydrogenation yields (-)-menthol with >99% enantiomeric excess.
@@ -118,4 +118,4 @@ The Takasago process is notable for using the first industrially applied asymmet
 - [[eucalyptol]] — Monoterpene ether from eucalyptus with overlapping decongestant use
 - [[mentha-piperita]] — Primary natural source plant for menthol production
 - [[linalool]] — Monoterpene alcohol with sedative rather than cooling properties
-- [[salvia-officinalis]] — Sage, another Lamiaceae source of terpene-rich essential oils
+- [[salvia-officinalis]] — Sage, another Lamiaceae source of terpene-rich [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]

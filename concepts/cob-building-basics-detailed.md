@@ -1,5 +1,5 @@
 ---
-title: Cob Building Basics Detailed
+title: Cob cob building basics detailed Detailed
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Cob Building Basics Detailed
 
-Cob is a natural building material made from subsoil, sand, straw, and water. Mixed by foot on a tarp and applied in thick layers by hand, cob creates monolithic walls that are sculptural, incredibly durable, and made from materials found on most homestead sites. Cob buildings have survived for hundreds of years in England, Yemen, and other regions with wet climates.
+Cob is a natural [[fungal-building-material-deterioration]] made from subsoil, sand, straw, and water. Mixed by foot on a tarp and applied in thick layers by hand, cob creates monolithic walls that are sculptural, incredibly durable, and made from materials found on most homestead sites. Cob buildings have survived for hundreds of years in England, Yemen, and other regions with wet climates.
 
 ## What Is Cob
 
@@ -141,49 +141,6 @@ Cob is vulnerable to water damage. Protect your walls:
 
 - Minimum 2-foot overhang on all sides (3 feet in wet climates)
 - Wider overhangs protect walls from driving rain
-
-### Base Protection
-
-- Keep cob walls at least 18 inches above grade
-- Splashback from roof drips is a major problem — use gravel, pavers, or a concrete apron
-
-### Wall Finish
-
-- **Lime plaster** (exterior): Breathable, self-healing, water-resistant
-- **Earthen plaster** (interior): Beautiful, breathable, easy to repair
-- **Lime wash**: Annual lime wash treatment refreshes water resistance
-
-### Critical Areas
-
-- Extra protection at the base of walls (first 12 inches)
-- Seal around windows and doors with lime plaster
-- Cap the top of walls (parapet) with lime or stone to prevent water infiltration
-
-## Structural Capacity
-
-- Compressive strength: 50-150 psi (adequate for single and two-story buildings)
-- Works well in compression (bearing weight from above)
-- Limited tensile strength — long spans need reinforcement
-- Can build curved walls, round buildings, and organic shapes easily
-- Earthquake performance: Cob's flexibility and mass provide some seismic resistance, but reinforcement may be needed in active zones
-
-## Drying Time
-
-- Each lift dries in 1-3 days (warm, dry weather)
-- A complete wall section dries in 2-6 months
-- Full structural drying: 6-12 months before applying finishes
-- Protect from rain during construction with tarps
-
-## Common Mistakes
-
-1. Using soil with too much clay (cracking) or too little (crumbling)
-2. Not building on a proper raised foundation
-3. Inadequate bonding between lifts
-4. Insufficient roof overhang
-5. Adding too much water to the mix (weak walls)
-6. Building too fast without letting lifts dry
-7. Not protecting walls from rain during construction
-
 ## See Also
 
 - [[cordwood-construction]]

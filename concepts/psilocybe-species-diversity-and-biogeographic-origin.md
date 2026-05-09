@@ -60,7 +60,7 @@ This preference for mesophytic forests is significant because these habitats are
 
 Mexico occupies a unique position in Psilocybe biogeography as a zone where northern and southern mycobiotas converge. Guzmán and colleagues observed that:
 
-- Northern species such as **Psilocybe caerulipes**, common in the deciduous forests of eastern North America, reach northeastern Mexico (Zacualtipan, Hidalgo) through continuous mesophytic forest habitat with Fagus (beech)
+- Northern species such as **[[psilocybe-caerulipes]]**, common in the deciduous forests of eastern North America, reach northeastern Mexico (Zacualtipan, Hidalgo) through continuous mesophytic forest habitat with Fagus (beech)
 - Southern species such as **P. yungensis** and **P. subyungensis**, common in South America, reach Mexico through mesophytic forests with Alnus (alder)
 
 This pattern was also demonstrated with non-psilocybin species: Pleurotus hirtus from South America reaches Mexico in tropical forests, while P. levis from North America reaches Mexico in mesophitic/temperate forests. Mexico thus functions as a biogeographic bridge where the mycobiotas of both hemispheres intermingle.
@@ -70,7 +70,7 @@ This pattern was also demonstrated with non-psilocybin species: Pleurotus hirtus
 The nine distribution types described by Hongo (1978) for Japanese fungi can be applied to neurotropic fungi worldwide:
 
 ### Cosmopolitan Species
-Panaeolus spp. and Panaeolina foenisecii represent the most widely distributed neurotropic fungi, found across multiple continents.
+Panaeolus spp. and [[panaeolina-foenisecii]] represent the most widely distributed neurotropic fungi, found across multiple continents.
 
 ### Northern Hemisphere Species
 Amanita spp., Cordyceps spp., Psilocybe pelliculosa, and P. silvatica are confined to northern temperate regions.
@@ -85,19 +85,19 @@ Psilocybe graveolens, P. muliercula, P. pintonii, and P. zapotecorum from the Am
 Psilocybe subaeruginascens var. subaeruginascens is known from Japan and Java.
 
 ### Tropical and Subtropical Species
-Psilocybe cubensis, P. subcubensis, Copelandia cyanescens, C. tropicalis, and other Copelandia species dominate warm regions. Gerronema fibula is reported from Malaysia, New Guinea, Solomon Islands, and South America.
+Psilocybe cubensis, P. subcubensis, [[copelandia-cyanescens]], C. tropicalis, and other Copelandia species dominate warm regions. Gerronema fibula is reported from Malaysia, New Guinea, Solomon Islands, and South America.
 
 ### Alpine and Arctic Species
-Psilocybe aztecorum var. aztecorum grows only in subalpine and alpine habitats of Mexico's high mountains at elevations up to 4,000 meters. It is closely related to P. baeocystis from the Pacific Northwest and P. quebecensis from Quebec (all Section Aztecorum). Panaeolus moellerianus and P. olivaceus from the Faeroe Islands represent northern extremes.
+[[psilocybe-aztecorum-entity-the-mushroom-cultivator]] var. aztecorum grows only in subalpine and alpine habitats of Mexico's high mountains at elevations up to 4,000 meters. It is closely related to P. baeocystis from the Pacific Northwest and P. quebecensis from Quebec (all Section Aztecorum). Panaeolus moellerianus and P. olivaceus from the Faeroe Islands represent northern extremes.
 
 ### Endemic Species
-Numerous species are known from single countries or small regions: Conocybe siligineoides, Hypholoma naematoliformis, Psilocybe muliercula, P. chiapanensis, and P. laurae (all endemic to Mexico); P. columbiana, P. guatapensis, and P. pintonii (Colombia); P. brasiliensis and P. paulensis (Brazil); P. hispanica (Spain); P. serbica (Central Europe); P. portoricensis (Puerto Rico).
+Numerous species are known from single countries or small regions: Conocybe siligineoides, Hypholoma naematoliformis, [[psilocybe-muliercula]], P. chiapanensis, and P. laurae (all endemic to Mexico); P. columbiana, P. guatapensis, and P. pintonii (Colombia); P. brasiliensis and P. paulensis (Brazil); P. hispanica (Spain); P. serbica (Central Europe); P. portoricensis (Puerto Rico).
 
 ## Trans-Pacific Connections
 
 Horak (1983) documented interesting relationships among agarics and boletes in the South Pacific hemisphere. South American and Mesoamerican species are closely related to those of southeastern Asia (New Guinea, Indonesia, Australia). This pattern extends to Psilocybe:
 
-- **Psilocybe samuiensis** (Thailand) and **P. makarorae** (New Zealand) are both closely related to **P. mexicana** (Mexico and Guatemala) in Section Mexicanae
+- **[[psilocybe-samuiensis]]** (Thailand) and **P. makarorae** (New Zealand) are both closely related to **P. mexicana** (Mexico and Guatemala) in Section Mexicanae
 - **Psilocybe aucklandii** (New Zealand) is closely related to **P. zapotecorum** (Mexico and South America) in Section Zapotecorum
 
 These relationships suggest ancient Gondwanan or trans-Pacific dispersal routes that predate the separation of continents or involved long-distance dispersal events.

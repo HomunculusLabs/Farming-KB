@@ -31,7 +31,7 @@ The accumulation of nutrients into fungal biomass makes fungi excellent
 food sources for animals. Fruiting bodies are ideal food sources for
 grazing animals, supporting secondary production (grazer biomass) in
 ecosystems. In forest ecosystems, the surface litter layer supports
-saprotrophic fungal communities whose fruiting structures (mushrooms)
+saprotrophic [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] whose fruiting structures (mushrooms)
 are food for grazing animals, connecting decomposition to higher trophic
 levels.
 
@@ -68,8 +68,8 @@ surface litters when fungivorous microarthropods were excluded.
 
 ## Mycorrhizal Grazing
 
-Faunal grazing on arbuscular mycorrhizal extraradical hyphae has been
-shown to reduce the efficiency of the mycorrhizal symbiosis for the
+Faunal grazing on [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] extraradical hyphae has been
+shown to reduce the efficiency of the [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] for the
 host plant. This effect is likely more important in agroecosystems,
 where the fungivorous nematode Aphelenchoides spp. can reach high
 densities. The trophic interactions between forest floor fungi and
@@ -99,11 +99,11 @@ The presence of pollutant chemicals within fungal mycelium can change
 the chemical and physical state of the pollutant, making it more or less
 toxic to fungal consumers.
 
-Fruiting body surveys revealed that some mycorrhizal fungi fruited
+Fruiting body surveys revealed that some [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] fruited
 more abundantly under pollution stress, despite reduced mycorrhizal
 root colonization. This apparent contradiction suggests that pollutant
-effects on fungal community structure may be more complex than simple
-biomass reduction, affecting the balance between vegetative growth and
+[[brassinosteroid-effects-on-fungal-morphology]] community structure may be more complex than simple
+biomass reduction, affecting the balance between [[cannabis-vegetative-growth-stage]] and
 reproductive allocation.
 
 ## Energy Flow Through Fungal Channels
@@ -119,6 +119,9 @@ where fungal biomass often exceeds bacterial biomass.
 
 ## See Also
 
-- [[fungal-soil-food-web]]
-- [[fungal-grazing-soil-fauna]]
+- fungal-soil-food-web
+- fungal-grazing-soil-fauna
 - [[soil-food-web-structure]]
+- [[soil-food-web]]
+- [[fungal-roles-soil-food-webs]]
+- [[saprotrophic-fungi]]

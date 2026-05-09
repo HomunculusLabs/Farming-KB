@@ -1,5 +1,5 @@
 ---
-title: Flush Management and Casing Hygiene in Exotic Mushroom Cultivation
+title: Flush Management and Casing Hygiene in Exotic accessible-mushroom-cultivation-for-disabilities
 created: 2026-04-28
 tags:
   - mycology
@@ -18,7 +18,7 @@ type: concept
 # Flush Management and Casing Hygiene in Exotic Mushroom Cultivation
 Flush management is the practice of coordinating watering, misting, and hygiene
 to maximise the number and quality of successive mushroom harvests from a single
-cased tray. Together with [[fruiting-chamber-setup]]:
+cased tray. Together with fruiting-chamber-setup:
 
 1. **Pin initiation (days 6 to 15):** Depending on the strain, the first
    pinheads appear 6 to 15 days after the casings are placed in the bins.
@@ -63,7 +63,7 @@ flush cycle without excessive delay.
 
 The source material explicitly acknowledges that it is **very difficult to give
 explicit directions on a watering regime**. Optimal watering depends on too many
-variables — species, strain, number of trays per bin, ambient temperature and
+variables — species, strain, number of trays per bin, [[jadam-ambient-temperature-principle]] and
 humidity, casing depth, flush number, and the water-holding capacity of the
 casing mix. Cultivators must develop a **"feeling" for it** through repeated
 experience.
@@ -86,7 +86,7 @@ the casing's biological resistance has weakened.
 
 ## Cold Shock Treatment
 Cold shocking — placing cased trays in a refrigerator overnight before
-introducing them to the fruiting chamber — simulates seasonal temperature change
+introducing them to the [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]] — simulates seasonal temperature change
 to trigger fruiting in reluctant strains. **Harder-to-fruit strains** benefit
 from overnight refrigeration; the cold temperature drop breaks the mycelium out
 of vegetative growth and initiates pin formation.
@@ -95,8 +95,8 @@ Three species covered in the source material explicitly **do not benefit** from
 cold shock treatment:
 
 - *Psilocybe mexicana*
-- *Psilocybe tampanensis*
-- *Panaeolus subbalteatus*
+- *[[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]]*
+- *[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]*
 
 Easy-fruiting strains such as Ecuador *P. cubensis* also do not require cold
 shock. Applying refrigeration to these species wastes time and refrigerator
@@ -106,7 +106,7 @@ space without improving results.
 
 The source material describes a deliberately minimal fruiting setup requiring no
 humidifiers, cool-mist devices, or electronic controllers. This approach is
-covered in detail in [[fruiting-chamber-setup]], but its relevance to flush
+covered in detail in fruiting-chamber-setup, but its relevance to flush
 management merits summarising here.
 
 Clear plastic bins covered with **polyethylene sheeting** serve as fruiting
@@ -123,7 +123,7 @@ removal described above, rather than equipment calibration.
 
 ## Summary
 Effective flush management comes down to three principles: maintain consistent
-casing moisture through daily misting and increased post-flush watering, keep the
+[[mushroom-casing-moisture-management]] through daily misting and increased post-flush watering, keep the
 casing surface clean by removing aborts before they become contamination sites,
 and apply cold shock only to strains that benefit from it. The simple bin
 fruiting chamber provides an adequate environment when these practices are
@@ -132,4 +132,7 @@ technique over multiple grows, as the source acknowledges that explicit watering
 
 ## See Also
 
-- [[abort-removal-casing-surface-hygiene-sustained-flushes]]
+- abort-removal-casing-surface-hygiene-sustained-flushes
+- [[psilocybe-mexicana]]
+- [[fruiting-chamber]]
+- [[panaeolus-subbalteatus]]

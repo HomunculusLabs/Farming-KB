@@ -1,18 +1,18 @@
 ---
-title: Soil Microorganisms and Natural Fertility
+title: Soil Microorganisms and fukuoka-natural-fertility-cycle
 created: 2026-04-28
 tags: [soil-science, microorganisms, nitrogen-fixing, mycorrhiza, natural-farming, soil-health, no-till, humus, fukuoka]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "masanobu-fukuoka, The Natural Way of Farming (1975), chapters on no cultivation, no fertilizer, and pine rot"
+  - "masanobu-fukuoka, The Natural Way of Farming (1975), chapters on no cultivation, no fertilizer, and fukuoka-pine-rot-root-cause"
   - "Masanobu Fukuoka, The One-Straw Revolution (1978)"
 type: concept
 ---
 
 # Soil Microorganisms and Natural Fertility
 
-Soil microorganisms are the foundation of natural soil fertility. Masanobu Fukuoka's farming system depends entirely on the activity of billions of bacteria, fungi, protozoa, and other microorganisms per gram of soil to maintain and build fertility without any external inputs. Understanding the role of these organisms is essential to understanding why [[cover-crop]] and the companion grain or fruit trees.
+Soil microorganisms are the foundation of natural soil fertility. Masanobu Fukuoka's farming system depends entirely on the activity of billions of bacteria, fungi, protozoa, and other microorganisms per gram of soil to maintain and build fertility without any external inputs. Understanding the role of these organisms is essential to understanding why [[cover-crop]] and the companion grain or [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]].
 
 ### Free-Living Nitrogen Fixers
 
@@ -101,4 +101,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

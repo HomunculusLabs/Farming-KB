@@ -24,7 +24,7 @@ The species is notable for its distinctive midrib, edible fronds, and rapid grow
 It has been harvested as food in northern Europe for centuries and is increasingly cultivated for both culinary and industrial applications.
 
 A. esculenta is one of the few kelp species suitable for direct human consumption due to its tender texture and mild flavor.
-It is also valued as a source of alginates, fucoidan, and omega-3 fatty acids.
+It is also valued as a source of alginates, fucoidan, and omega-3 [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]].
 
 ## Taxonomy and Morphology
 
@@ -93,7 +93,7 @@ Chefs value its delicate texture compared to other kelps.
 
 ## Related Species
 
-Alaria marginata, the wakame of the Pacific Northwest coast of North America, is the closest relative of A. esculenta. It differs in its broader fronds and preference for the northeastern Pacific.
+Alaria marginata, the wakame of the Pacific Northwest coast of [[psilocybin-north-america-pacific-northwest]], is the closest relative of A. esculenta. It differs in its broader fronds and preference for the northeastern Pacific.
 
 Undaria pinnatifida (wakame) occupies a similar ecological niche in Asian waters but belongs to a different family. It has become invasive in European waters where A. esculenta is native.
 
@@ -104,7 +104,7 @@ Laminaria digitata (oarweed) commonly co-occurs with A. esculenta in North Atlan
 A. esculenta provides important habitat and food web support in North Atlantic kelp forests.
 The fronds offer substrate for epiphytes and shelter for juvenile fish and invertebrates.
 
-As a primary producer, the species contributes significantly to coastal carbon fixation.
+As a primary producer, the species contributes significantly to coastal [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]].
 Its annual growth and shedding cycle delivers substantial detritus to benthic communities, supporting secondary production.
 
 ## See Also

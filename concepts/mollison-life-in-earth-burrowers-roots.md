@@ -1,5 +1,5 @@
 ---
-title: Life in Earth: Burrowers and Root Systems
+title: mollison life in earth burrowers roots: Burrowers and Root Systems
 created: 2026-04-26
 tags: [soil-ecology, roots, burrowers, permaculture, underground]
 date: 2026-04-25
@@ -120,8 +120,8 @@ strategies.
 
 Many rocks and strata on earth arise from the actions of living
 organisms. Whether it is the nodules of manganese in oceanic
-depths, deposits of diatomaceous earth, coal, limestone, opals,
-or amber, all were once products of living organisms. Much of
+depths, deposits of [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]], coal, limestone, opals,
+or amber, all were once products of [[savory-living-organisms-as-tools]]. Much of
 the strata we see, except much-changed granitic and volcanic
 deposits, were formed from or modified by life. All soils are
 life-created, as are the corals and coral sands of many
@@ -129,5 +129,8 @@ oceanic islands.
 
 ## See Also
 
-- [[mollison-mulching-and-soil-health]]
+- mollison-mulching-and-soil-health
 - [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
+- [[bill-mollison]]
+- [[mollison-designers-earth-building-cob-adobe-rammed-earth]]
+- [[mollison-tropical-earth-shaping-polyculture-economics]]

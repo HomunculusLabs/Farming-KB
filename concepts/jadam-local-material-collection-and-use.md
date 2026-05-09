@@ -1,23 +1,23 @@
 ---
-title: JADAM Local Material Collection and Use
+title: JADAM jadam local material collection and use Collection and Use
 created: 2026-04-26
 updated: 2026-04-23
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
-  - JADAM Organic Farming: The Way to Ultra-Low-Cost Agriculture (Youngsang Cho, 2016)
+  - JADAM [[coleman-deep-organic-farming-philosophy]]: The Way to Ultra-Low-Cost Agriculture (Youngsang Cho, 2016)
 type: concept
 tags: [jadam]
 ---
 
 # JADAM Local Material Collection and Use
 
-JADAM farming is built on the principle that all necessary agricultural
+[[query-what-is-jadam-farming-and-how-does-it-work]] is built on the principle that all necessary agricultural
 inputs exist freely in nature. By sourcing materials from the local
 environment rather than purchasing them from agricultural suppliers,
 farmers eliminate the cost of agricultural inputs entirely. This is the
 practical realization of [[jadam-seed-treatment-and-storage]] and [[jadam-herb-solution-jhs]]:
 
-- **Jerusalem artichoke** (Helianthus tuberosus): Often found growing
+- **[[comparison-jerusalem-artichoke-vs-potato]]** (Helianthus tuberosus): Often found growing
   wild; entire plant is used. The most practical JHS herb, easy to grow
   in bulk. Controls aphids, mites, and most moth species.
 - **Gingko**: Common ornamental tree; fallen leaves collected in autumn
@@ -59,7 +59,7 @@ practical realization of [[jadam-seed-treatment-and-storage]] and [[jadam-herb-s
 
 - **Food waste**: Fermented and used for [[cho-water-soluble-calcium-and-potassium]]. Collected from household kitchens, dried, and processed.
 
-- **Bone meal**: Animal bones provide calcium phosphate for
+- **Bone meal**: Animal bones provide [[bionutrients-lab-calcium-phosphate-calamansi]] for
   [[jadam-animal-byproduct-liquid-fertilizer]].
 
 ## Seasonal Collection Calendar
@@ -73,7 +73,7 @@ availability:
 - [[jadam-liquid-fertilizer]]
 - [[jadam-cover-crop-method]]
 - Wild Plant Identification For Farming
-- Foraging For Farming Inputs
+- Foraging For [[cho-natural-farming-inputs-overview]]
 - Jadam Agricultural Independence
 ## Practical Considerations
 
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

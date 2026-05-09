@@ -4,12 +4,12 @@ created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [mycoremediation, mycorestoration, remediation, pesticides, pcb, dioxin, fungi, mycology, pollution, ecology, environment]
-sources: [raw/papers/mycelium-running-stamets.md]
+sources: sources: []
 ---
 
 # Mycoremediation of Pesticides and Persistent Organic Pollutants
 
-Fungi can degrade a wide range of synthetic organic compounds including pesticides, polychlorinated biphenyls (PCBs), and dioxins -- some of the most persistent and toxic environmental contaminants ever created.
+Fungi can degrade a wide range of synthetic [[fungal-volatile-organic-compounds-communication]] including pesticides, polychlorinated biphenyls (PCBs), and dioxins -- some of the most persistent and toxic environmental contaminants ever created.
 
 ## The Scale of the Problem
 
@@ -19,15 +19,15 @@ Analysis of blood from the general population reveals dozens of industrial toxin
 
 PCBs and dioxins are among the most recalcitrant environmental pollutants. Their chemical structure -- multiple chlorine atoms attached to aromatic rings -- makes them resistant to natural breakdown. White rot fungi produce lignin-degrading enzymes that can dechlorinate and oxidize these compounds:
 
-- **Lignin peroxidase**: Can oxidize aromatic ring structures
-- **Manganese peroxidase**: Mediates the breakdown of chlorinated compounds
+- **[[fungal-lignin-peroxidase-veratryl-alcohol]]**: Can oxidize aromatic ring structures
+- **[[fungal-manganese-peroxidase-remediation]]**: Mediates the breakdown of chlorinated compounds
 - **Laccase**: A copper-containing enzyme capable of oxidizing phenolic compounds
 
-These non-specific enzyme systems give white rot fungi the ability to attack chlorinated aromatics that bacteria and most other organisms cannot degrade.
+These non-specific enzyme systems give white rot fungi the ability to attack [[fungal-biodegradation-chlorinated-aromatics-and-btex]] that bacteria and most other organisms cannot degrade.
 
 ## Pesticides
 
-Many classes of pesticides are susceptible to fungal degradation:
+Many classes of pesticides are susceptible to [[singh-fungal-degradation-endocrine-disrupting-compounds]]:
 
 - **Organophosphates**: Can be hydrolyzed by fungal phosphatases and other enzymes
 - **Organochlorines**: Subject to dechlorination by white rot fungal enzymes
@@ -49,9 +49,9 @@ Using a plurality of species creates a synergistic effect for more complete degr
 
 ## See Also
 
-- [[mycoremediation-overview]]
+- [[cotter-mycoremediation-overview]]
 - [[mycoremediation-petroleum-hydrocarbons]]
-- [[mycoremediation-heavy-metals]]
+- [[mycoremediation-of-heavy-metals]]
 - [[fungal-enzyme-systems-bioremediation]]
 ## Practical Considerations
 
@@ -69,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

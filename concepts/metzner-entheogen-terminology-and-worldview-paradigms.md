@@ -1,5 +1,5 @@
 ---
-title: Entheogen Terminology and Worldview Paradigms
+title: metzner entheogen terminology and worldview paradigms and Worldview Paradigms
 created: 2026-04-28
 tags:
   - terminology
@@ -30,7 +30,7 @@ exploration and expansion; "entheogenic" suggests communion with the sacred.
 
 ## Paradigm One: Standard Western Psychotherapy
 
-Within the standard Western paradigm, [[stanislav-grof]]'s discovery of perinatal matrices emerged from the psycholytic
+Within the standard Western paradigm, [[stanislav-grof]]'s discovery of [[metzner-grof-perinatal-matrices-and-transpersonal-realms]] emerged from the psycholytic
 approach. After resolving Freudian childhood dynamics through increasing doses,
 patients would find themselves reliving the sensory-emotional features of their
 birth experience, patterns Grof gave the name perinatal matrices. Beyond these,
@@ -63,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +105,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

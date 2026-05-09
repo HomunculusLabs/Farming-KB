@@ -1,13 +1,12 @@
 ---
-title: "Permaculture Beekeeping Guide"
+title: "permaculture-beekeeping Guide"
 created: 2026-04-28
-tags: [[permaculture, beekeeping, pollination, honey, livestock, permaculture-design]
+tags: [permaculture, beekeeping, pollination, honey, livestock, permaculture-design]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 type: concept
 ---
-
 # [[permaculture-design]], beekeeping integrates with the broader landscape through
 strategic hive placement, forage planning, and coordination with other system
 elements such as orchards, water features, and animal systems.
@@ -25,7 +24,7 @@ There are two types of forage that bees need: pollen and nectar. Pollen-
 producing species should be planted within 100 feet of the hives, while
 nectar species are planted at least 300 feet or more away. A minimum of 30
 species foraging throughout the season provides insurance for hive survival.
-Good forage plants include gooseberries, apples, white clover, blackberries,
+Good forage plants include gooseberries, apples, [[fukuoka-white-clover-cover-crop-system]], blackberries,
 citrus, buckwheat, mustard, willow, acacia, pine, and grapes. Species should
 be planned to flower in succession for a continuous food supply.
 
@@ -62,7 +61,7 @@ conditions are calm.
 
 ## Understanding the Hive
 
-Knowing the different cells and bee types helps with hive management.
+Knowing the different cells and bee types helps with [[bee-forage-hive-management-mollison]].
 Brood cells have dark-colored caps containing developing bees. Queen cells
 are one inch long and resemble peanut shells hanging from the comb. Drone
 cells protrude slightly with bullet-shaped tops. Worker cells are the
@@ -76,7 +75,7 @@ perform all hive maintenance, foraging, and defense tasks.
 Bees always need fresh, clean water. Large ponds are unsuitable because bees
 can drown or fall prey to dragonflies. For one or two hives, an outside
 faucet dripping onto a slanted board works well. If bees cluster outside
-the hive entrance in warm weather, they may be overheating. Solutions
+the hive entrance in [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]], they may be overheating. Solutions
 include moving the hive into shade, enlarging the entrance, and staggering
 supers for ventilation. In winter, reduce the entrance size to conserve
 heat and prevent mice from entering.
@@ -92,7 +91,7 @@ honey should be harvested from either the source or new hive that year.
 
 ## Seasonal Management
 
-Early spring: check food stores and supply artificial pollen if needed.
+[[coleman-overwintered-onions-and-early-spring-crops]]: check food stores and supply artificial pollen if needed.
 Dead bees at the hive bottom may indicate queen loss. If eggs or larvae are
 present, workers can raise a new queen. Summer: add supers to prevent
 overcrowding and swarming. Monitor for signs of disease. Fall: ensure
@@ -120,5 +119,8 @@ queen loss and colony decline. Workers should maintain a clean hive
 actively; neglect of cleaning duties is an early warning sign. Before
 starting beekeeping, get tested for bee sting allergies and always work with
 a partner who can provide assistance in case of anaphylactic reaction. See
-also [[chicken-integration-permaculture-guide]]
-- [[cold-climate-permaculture-guide]]
+also chicken-integration-permaculture-guide
+- cold-climate-permaculture-guide
+## See Also
+- [[mollison-designers-beekeeping-honey-production-permaculture]]
+- [[permaculture-willow-guide]]

@@ -5,19 +5,19 @@
 
 Fukuoka opens this discussion by making a distinction that most readers miss: **there is a fundamental difference between nature and the doctrine of laissez-faire or non-intervention.** Laissez-faire, as he defines it, is the abandoning of nature *after* man has already altered it. Examples include leaving a pine tree untended after it has been transplanted into a garden and pruned, or suddenly letting a calf out to pasture in a mountain meadow after raising it on formula milk. In both cases, human intervention has already shaped the organism, and merely stepping back does not restore it to its natural state.
 
-True natural farming is something entirely different. It begins from a place where nature has not been meddled with, or where the effects of meddling have been completely undone. This is why Fukuoka says that natural farming is not "[[do-nothing-farming]] farming" in the simplistic sense — it requires an entirely different way of perceiving and relating to the living world. The distinction is subtle but crucial: laissez-faire is abandonment after alteration; natural farming is alignment before alteration.
+True natural farming is something entirely different. It begins from a place where nature has not been meddled with, or where the effects of meddling have been completely undone. This is why Fukuoka says that natural farming is not " farming" in the simplistic sense — it requires an entirely different way of perceiving and relating to the living world. The distinction is subtle but crucial: laissez-faire is abandonment after alteration; natural farming is alignment before alteration.
 
 ## The Misleading Appeal of Laissez-Faire
 
 Many people who encounter Fukuoka's ideas confuse them with simple non-intervention. He anticipates this misunderstanding and addresses it directly. A person who clears a forest, builds a house, plants a garden with nursery stock, and then simply "lets it go" is practicing laissez-faire, not natural farming. The plants are genetically modified cultivars, the soil has been disturbed, the water table altered, and the ecological web severed. Stepping back at this point merely allows the system to struggle chaotically toward recovery — it does not constitute farming in any meaningful sense.
 
-Similarly, releasing a domestic animal into the wild is not natural farming for livestock. The animal has been bred for millennia to depend on human care. Simply abandoning it is cruelty dressed up as freedom. True natural animal husbandry, in Fukuoka's framework, would mean raising animals that have never been separated from their wild context — an ideal that may be practically impossible but that sets the correct direction of aspiration.
+Similarly, releasing a [[mollison-designers-domestic-animal-integration-design]] into the wild is not natural farming for livestock. The animal has been bred for millennia to depend on human care. Simply abandoning it is cruelty dressed up as freedom. True [[holzer-natural-animal-husbandry]] husbandry, in Fukuoka's framework, would mean raising animals that have never been separated from their wild context — an ideal that may be practically impossible but that sets the correct direction of aspiration.
 
 ## Hinayana Natural Farming: Approaching Nature
 
-Because crops and domestic animals have been shaped by thousands of years of human selection and breeding, Fukuoka acknowledges that **it is already close to impossible to attain true [[energy-efficient-house-design]] than modern large-scale agriculture, farming with animal power was even more efficient, and **no form of agriculture has better energy efficiency than natural farming.** As humanity moves from fireplace to water wheel to thermal power to nuclear power, the ratio of total energy input to total energy output worsens exponentially.
+Because crops and domestic animals have been shaped by thousands of years of human selection and breeding, Fukuoka acknowledges that **it is already close to impossible to attain true [[energy-efficient-house-design]] than modern large-scale agriculture, farming with animal power was even more efficient, and **no form of agriculture has better [[fukuoka-textdoc-energy-efficiency-agricultural-labor]] than natural farming.** As humanity moves from fireplace to water wheel to thermal power to nuclear power, the ratio of total energy input to total energy output worsens exponentially.
 
-Scientists who believe that solar energy or [[genetic-engineering-fungal-bioremediation]], and precision farming are not steps on a ladder of progress but the swelling of a balloon about to pop. The more we push agricultural productivity through technological means, the closer we come to systemic rupture.
+Scientists who believe that [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] or [[genetic-engineering-fungal-bioremediation]], and precision farming are not steps on a ladder of progress but the swelling of a balloon about to pop. The more we push agricultural productivity through technological means, the closer we come to systemic rupture.
 
 ## The Role of Discriminating Knowledge
 
@@ -33,12 +33,12 @@ The Mahayana/Hinayana framework has concrete practical implications for anyone a
 
 - **Intermediate practitioners** gradually reduce assumptions and preconceptions about how farming "should" work. This means questioning not just specific techniques but the entire framework of cause-and-effect reasoning that underlies agricultural science.
 
-- **The ultimate goal** is not a technique but a way of perceiving — a shift from seeing nature as a system to be managed to recognizing oneself as a participant in a living whole. Fukuoka's final statement is absolute: "Only natural farming lies in the future. Natural farming is the only future for man."
+- **The ultimate goal** is not a technique but a way of perceiving — a shift from [[fukuoka-textdoc-seeing-nature-wholistically-fuji-hokusai-analysis]] as a system to be managed to recognizing oneself as a participant in a living whole. Fukuoka's final statement is absolute: "Only natural farming lies in the future. Natural farming is the only future for man."
 
 The pursuit of nature that Fukuoka describes is ultimately a spiritual path disguised as agricultural philosophy, or perhaps an agricultural philosophy that reveals itself as spiritual practice. Either way, it demands nothing less than a fundamental transformation of human consciousness — from the conditional mind of the scientist to the unconditional awareness of the sage, from the arrogance of improvement to the humility of surrender.
 ## Practical Applications
 
-Fukuoka Textdoc Mahayana Hinayana Natural Farming Pursuit Of Nature has a range of practical applications that make it relevant to
+Fukuoka Textdoc fukuoka textdoc mahayana hinayana natural farming pursuit of nature Natural Farming Pursuit Of Nature has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -113,4 +113,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -1,5 +1,5 @@
 ---
-title: Ingham — Weed Control Through Soil Biology
+title: Ingham — fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery Through Soil Biology
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Ingham — Weed Control Through Soil Biology
 
-Elaine Ingham's approach to weed management focuses on altering soil conditions to favor desired plants over weed species. Rather than direct weed killing, the mechanism operates through changing nutrient availability and the fungal:bacterial ratio of the soil food web.
+Elaine Ingham's approach to weed management focuses on altering soil conditions to favor desired plants over weed species. Rather than direct weed killing, the mechanism operates through changing [[ph-and-nutrient-availability-garden-soils]] and the fungal:bacterial ratio of the soil food web.
 
 ## The Primary Mechanism: Nutrient Availability
 
@@ -28,7 +28,7 @@ A secondary mechanism is increased weed seed decay through soil microorganism ac
 
 Specific weed species like dandelions thrive in soils where calcium is not plant-available. When soil biology is improved:
 - Fungi retain and cycle calcium
-- Mycorrhizal fungi deliver calcium to crop plant roots
+- [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] deliver calcium to crop plant roots
 - The improved calcium availability helps desired plants outcompete calcium-adapted weeds
 - Adding calcium without improving biology just causes leaching
 
@@ -46,7 +46,7 @@ Adding simple sugars to soil can affect weed and pest dynamics:
 - Bacteria rapidly grow and sequester all available nutrients
 - Other organisms needing those nutrients are outcompeted
 - If enough sugar is added, soil goes anaerobic, driving away pests like wireworm and cutworm
-- However, anaerobic conditions also harm seed germination and root growth
+- However, anaerobic conditions also harm [[cannabis-seed-germination-methods]] and root growth
 
 The risk: if soil lacks good structure, the anaerobic conditions persist and damage the crop rather than just the pests. If soil has good structure, oxygen returns quickly and the ecosystem recovers.
 
@@ -56,7 +56,7 @@ Tillage is a major driver of weed-friendly conditions:
 - Plowing and tilling cause bacteria to bloom rapidly
 - Organic residues burn off much faster
 - Soils become bacterial-dominated
-- Organic matter declines over time
+- [[hamilton-composting-and-organic-matter-management]] declines over time
 - These conditions favor early successional plants (weeds)
 
 Documented repeatedly in agriculture: plow too much, lose organic matter, lose soil fertility, and lose the soil life that maintains fertility.
@@ -65,7 +65,7 @@ Documented repeatedly in agriculture: plow too much, lose organic matter, lose s
 
 By managing soil biology to favor desired plants:
 - Select the right fungal:bacterial ratio for your crop
-- Reduce tillage to maintain fungal biomass
+- Reduce tillage to maintain [[bioremediation-fungal-biomass-biosorbent-material]]
 - Add compost and compost tea to build organism diversity
 - Use cover crops that support the target biology
 - Monitor soil foodweb to track progress

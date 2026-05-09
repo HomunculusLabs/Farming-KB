@@ -1,5 +1,5 @@
 ---
-title: Aact Soil Food Web Twelve Step Balancing Protocol
+title: Aact Soil Food Web Twelve Step soil-foodweb-balancing-protocol-ingham
 aliases:
   - soil food web balancing
   - ingham balancing steps
@@ -22,7 +22,7 @@ tags:
 
 Dr. [[soil-food-web-nutrient-cycling]] is known, corrective steps are applied in sequence. Each step addresses one organism group or functional role, building from the foundation (bacteria and fungi) up through protozoa, nematodes, and finally microarthropods and earthworms.
 
-The fundamental principle is that soil health is a function of the complete biological community, not any single organism group. Steps cannot be skipped — if protozoa are absent, nutrient cycling will stall regardless of bacterial biomass.
+The fundamental principle is that soil health is a function of the complete biological community, not any single organism group. Steps cannot be skipped — if protozoa are absent, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] will stall regardless of bacterial biomass.
 
 ## Step One: Assess Total and Active Bacterial Biomass
 
@@ -42,21 +42,21 @@ The desired fungal-to-bacterial ratio varies by plant type:
 - **Shrubs and vines**: approximately 5:1 to 10:1
 - **Conifer and deciduous forests**: approximately 10:1 to 100:1 (fungal-dominated)
 
-If fungal biomass is too low, apply a fungal-dominated compost tea brewed with fungal foods such as humic acids, fish hydrolysate, and small amounts of rock dust. The compost used as the inoculum should itself be fungal-dominated — thermal compost with woody materials, or forest litter compost.
+If fungal biomass is too low, apply a fungal-dominated compost tea brewed with fungal foods such as humic acids, fish hydrolysate, and small amounts of rock dust. The compost used as the inoculum should itself be fungal-dominated — [[ingham-thermal-compost-versus-worm-compost]] with woody materials, or forest litter compost.
 
 ## Step Three: Assess Mycorrhizal Colonization
 
 Mycorrhizal colonization is assessed by examining root samples under the microscope. The target range for healthy plants is typically 40% to 70% colonization of root length.
 
-- **If colonization is between 0% and 15%**: An inoculum of mycorrhizal spores must be placed directly next to the roots or on and around the seed at planting time. [[mycorrhizal-networks]] without additional spore inoculation.
+- **If colonization is between 0% and 15%**: An inoculum of mycorrhizal spores must be placed directly next to the roots or on and around the seed at planting time. [[mycorrhizal-networks]] without additional [[mushroom-spore-inoculation-techniques]].
 
-Mycorrhizal fungi extend the effective root zone dramatically, improving access to phosphorus, micronutrients, and water. They also contribute [[cover-crops]]**: Living roots provide continuous exudates that feed bacteria and mycorrhizae.
+[[arbuscular-mycorrhizal-fungi-biology-symbiosis]] extend the effective root zone dramatically, improving access to phosphorus, micronutrients, and water. They also contribute [[cover-crops]]**: Living roots provide continuous exudates that feed bacteria and mycorrhizae.
 - **Compost**: Provides both organisms and slow-release food resources.
 - **Compost tea**: Delivers liquid food resources along with organisms.
 - **Molasses and sugars**: Simple carbohydrates that feed bacteria rapidly.
 - **Humic acid and fulvic acid**: Complex compounds that feed fungi.
 - **Fish hydrolysate**: Provides both nitrogen and fungal foods.
-- **Citrus products and garlic oil**: Secondary metabolites that support diverse communities.
+- **Citrus products and garlic oil**: [[antifungal-secondary-metabolites-coprophilous-fungi]] that support diverse communities.
 
 ## Monitoring and Follow-Up
 
@@ -78,3 +78,7 @@ For reference, the protocol provides general application rates:
 
 - Ingham, E.R. (2004). *The Field Guide I for [[actively-aerated-compost-tea]] (AACT)*. Sustainable Studies Institute.
 - Ingham, E.R. et al. (1985). Ecological Monograph — proof of concept for soil food web relationships.
+
+## See Also
+
+- [[soil-foodweb-biological-balancing-protocol-ingham]]

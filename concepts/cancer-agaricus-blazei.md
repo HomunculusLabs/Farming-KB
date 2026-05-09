@@ -1,9 +1,9 @@
 ---
-title: Agaricus Blazei Cancer Research
+title: cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides Cancer Research
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - Smith, Rowan and Sullivan (2002). Medicinal Mushrooms: Their therapeutic properties and current medical usage with special emphasis on cancer treatments. University of Strathclyde.
+  - Smith, Rowan and Sullivan (2002). comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive: Their therapeutic properties and current medical usage with special emphasis on cancer treatments. University of Strathclyde.
   - Ito, H. et al. (1997). Antitumour effects of a new polysaccharide-protein complex (ATOM) from Agaricus blazei. Bioscience Biotechnology and Biochemistry 61, 1658-1660.
   - Fujimiya, Y. et al. (2000). Peroral effect on tumour progression of soluble beta-(1,6)-glucans from Agaricus blazei. International Journal of Medicinal Mushrooms 2, 43-49.
   - Reshetnikov, S.V. et al. (2001). Medicinal mushrooms: their role in cancer treatment and prevention. International Journal of Medicinal Mushrooms 3, 291-302.
@@ -11,15 +11,15 @@ type: concept
 tags: [agar]
 ---
 
-# Agaricus Blazei Cancer Research
+# agaricus blazei Cancer Research
 
 ## Overview
 
-Agaricus blazei Murrill, known in Japan as Himematsutake ("Princess Matsutake") and sometimes called the Almond Portobella, was first discovered in the USA in the 1940s. Its main commercial cultivation now occurs in Japan and Brazil. It is one of the most expensive medicinal mushrooms and has become an important source of antitumour polysaccharides. The fungus is native to a small mountainous area near Sao Paulo, Brazil.
+Agaricus blazei Murrill, known in Japan as Himematsutake ("Princess Matsutake") and sometimes called the Almond Portobella, was first discovered in the USA in the 1940s. Its main commercial cultivation now occurs in Japan and Brazil. It is one of the most expens medicinal mushrooms ooms and has become an important source of antitumour polysaccharides. The fungus is native to a small mountainous area near Sao Paulo, Brazil.
 
 ## Epidemiological Evidence
 
-Epidemiologists studying the native population of the Sao Paulo region found a remarkably low incidence of several illnesses including cancer, viral diseases, and bacterial diseases, together with a disproportionally higher number of people enjoying longevity. This has been correlated with the constant consumption of Agaricus blazei in their normal diet. Similar patterns were observed in Nagano Prefecture, Japan, where farmers producing Flammulina velutipes had significantly lower cancer death rates compared to the general population.
+Epidemiologists studying the native population of the Sao Paulo region found a remarkably low incidence of several illnesses including cancer, [[cervantes-viral-diseases-cannabis]], and bacterial diseases, together with a disproportionally higher number of people enjoying longevity. This has been correlated with the constant consumption of Agaricus blazei in their normal diet. Similar patterns were observed in Nagano Prefecture, Japan, where farmers pr flammulina velutipes elutipes had significantly lower cancer death rates compared to the general population.
 
 ## Active Constituents
 
@@ -53,7 +53,7 @@ This study has potentially significant implications for all large beta-glucans. 
 The ATOM proteoglucan complex mediates its antitumour effects through:
 - **Natural killer (NK) cell activation**: ATOM from Agaricus blazei mediated antitumour effects via NK cell activation (Ebina and Fujimiya, 1998)
 - **Immunostimulation**: Broad immune-enhancing activity
-- **Beta-glucan receptor binding**: The beta-glucans activate immune effector cells through complement receptor type 3 (CR3) binding, similar to other mushroom-derived glucans
+- **Beta-glucan [[tihkal-receptor-binding-serotonin]]**: The beta-glucans activate immune effector cells through complement receptor type 3 (CR3) binding, similar to other mushroom-derived glucans
 
 ### Detailed Immunological Mechanisms
 
@@ -87,8 +87,8 @@ Based on available research and traditional use:
 
 - **Traditional dietary use**: Indigenous populations of the Sao Paulo region consume A. blazei regularly as a food, suggesting that whole-mushroom preparations at culinary quantities are safe for long-term use
 - **Therapeutic preparations**: In Japanese clinical practice, dried A. blazei powder is typically consumed at doses of 3-6 grams per day. Some practitioners recommend divided doses taken with meals to improve tolerability
-- **Extracts**: Dual-extracted preparations (combining hot water extraction for polysaccharides with alcohol extraction for triterpenes) are considered superior to single-method extracts. Standardized extracts containing measurable beta-glucan content (typically 10-30% beta-glucan) allow for more consistent dosing
-- **Important caveat**: The optimal therapeutic dose for A. blazei has not been established through controlled clinical trials. The doses cited above are derived from traditional use, animal studies, and practitioner experience. Cancer patients should discuss A. blazei use with their oncologist, as it may interact with immunotherapy treatments or other medications
+- **Extracts**: Dual-extracted preparations (combining hot water extraction for polysaccharides with [[pf-tek-alcohol-extraction-method]] for triterpenes) are considered superior to single-method extracts. Standardized extracts containing measurable beta-glucan content (typically 10-30% beta-glucan) allow for more consistent dosing
+- **Important caveat**: The optimal therapeutic dose for A. blazei has not been established through controlled [[mushroom-cancer-clinical-trials-overview]]. The doses cited above are derived from traditional use, animal studies, and practitioner experience. Cancer patients should discuss A. blazei use with their oncologist, as it may interact with immunotherapy treatments or other medications
 
 ## Cultivation and Production
 
@@ -96,7 +96,7 @@ Agaricus blazei is now artificially grown in Japan and studied pharmacologically
 
 ## Cancer Prevention Evidence
 
-There is increasing evidence from experimental animals that regular feeding of powdered medicinal mushrooms can have a cancer prevention effect. While specific Agaricus blazei feeding studies in the source document focus on other species (Hypsizygus marmoreus showed 21/36 vs 3/36 tumour development in control vs treated groups), the immunostimulatory and antitumour properties of A. blazei polysaccharides suggest similar preventive potential.
+There is increasing evidence from experimental animals that regular feeding of powdered medicinal mushrooms can have a cancer prevention effect. While specific Agaricus blazei feeding studies in the source document focus on other s hypsizygus marmoreus armoreus showed 21/36 vs 3/36 tumour development in control vs treated groups), the immunostimulatory and antitumour properties of A. blazei polysaccharides suggest similar preventive potential.
 
 ## Research Status
 
@@ -108,7 +108,7 @@ As with other mushroom-derived beta-glucans, Agaricus blazei extracts are genera
 
 ## Distinguishing from Other Medicinal Mushrooms
 
-Unlike Lentinan and Schizophyllan from shiitake and Schizophyllum commune respectively, which are large molecules effective only by intravenous or intraperitoneal injection, the acid-treated low-molecular-weight beta-glucans from Agaricus blazei demonstrate oral bioavailability. This gives A. blazei an advantage for development as an orally administered nutriceutical or dietary supplement for cancer support.
+Unlike Lentinan and Schizophyllan fr schizophyllum commune ophyllum commune respectively, which are large molecules effective only by intravenous or intraperitoneal injection, the acid-treated low-molecular-weight beta-glucans from Agaricus blazei demonstrate oral bioavailability. This gives A. blazei an advantage for development as an orally administered nutriceutical or dietary supplement for cancer support.
 
 ## See Also
 

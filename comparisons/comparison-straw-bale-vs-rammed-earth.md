@@ -12,11 +12,11 @@ type: comparison
 
 ## Overview
 
-Straw bale and rammed earth are two of the most established [[permaculture-housing-design]] principles by reducing reliance on manufactured materials and industrial supply chains. Both can achieve building code compliance in many jurisdictions, though the regulatory path differs for each approach.
+Straw bale and rammed earth are two of the most established permaculture-housing-design principles by reducing reliance on manufactured materials and industrial supply chains. Both can achieve building code compliance in many jurisdictions, though the regulatory path differs for each approach.
 
 Neither method requires expensive or specialised manufactured materials, making both attractive for homesteading, off-grid living, and owner-builder projects. However, their structural behaviour, moisture sensitivity, labour demands, aesthetic outcomes, and expected longevity diverge considerably and warrant careful comparison before committing to either method.
 
-From an environmental perspective, both methods offer significant advantages over conventional construction. Both have very low embodied energy compared to concrete, steel, and manufactured insulation products. Both use materials that are non-toxic, breathable, and can be returned to the earth at end of life without environmental harm. Local sourcing of materials further reduces transport emissions. The longevity of rammed earth in particular means the energy invested in construction is amortised over a very long service life, while straw bale construction repurposes an agricultural waste stream that would otherwise be burned or ploughed under.
+From an environmental perspective, both methods offer significant advantages over conventional construction. Both have very low embodied energy compared to concrete, steel, and manufactured insulation products. Both use materials that are non-toxic, breathable, and can be returned to the earth at [[powell-psilocybin-end-of-life-anxiety]] without environmental harm. Local sourcing of materials further reduces transport emissions. The longevity of rammed earth in particular means the energy invested in construction is amortised over a very long service life, while straw [[straw-bale-construction-vs-earthbag-construction]] repurposes an [[fungi-in-composting-and-agricultural-waste-conversion]] stream that would otherwise be burned or ploughed under.
 
 ## Straw Bale Construction
 
@@ -24,9 +24,9 @@ Straw bale construction uses tightly baled straw, an agricultural waste product 
 
 Two primary structural approaches exist. The load-bearing method, known as Nebraska style, uses the bales themselves to support the roof load. Walls must be carefully compressed before the roof is added, using a temporary top plate and threaded rods. Door and window openings require wooden frames strong enough to support the weight above. This method is simpler and requires less timber, but is generally limited to single-storey buildings with modest roof spans.
 
-The post-and-beam infill method uses a timber frame or post-and-beam structure for structural support, with bales stacked as insulation between or around the frame. This approach offers greater design flexibility, accommodates larger openings and second stories, and is more readily accepted by building inspectors. It requires more timber and engineering knowledge but allows for more complex roof designs and architectural expression.
+The post-and-beam infill method uses a [[comparison-bamboo-construction-vs-timber-frame-basics]] or post-and-beam structure for structural support, with bales stacked as insulation between or around the frame. This approach offers greater design flexibility, accommodates larger openings and second stories, and is more readily accepted by building inspectors. It requires more timber and engineering knowledge but allows for more complex roof designs and architectural expression.
 
-Standard bales are 14 to 18 inches thick, yielding wall assemblies rated at approximately R-30 to R-45 depending on bale density and plaster thickness. This far exceeds conventional framed walls, which typically achieve R-13 to R-23 for standard construction. Walls are plastered on both interior and exterior sides. Earthen plaster (a mix of clay, sand, and straw) is the most natural and breathable option. Lime plaster offers superior weather resistance and self-healing for small cracks. Cement stucco is the most durable but least breathable, and can trap moisture if not detailed correctly.
+Standard bales are 14 to 18 inches thick, yielding wall assemblies rated at approximately R-30 to R-45 depending on bale density and plaster thickness. This far exceeds conventional framed walls, which typically achieve R-13 to R-23 for standard construction. Walls are plastered on both interior and exterior sides. Earthen plaster (a mix of clay, sand, and straw) is the most natural and breathable option. [[comparison-lime-plaster-vs-earthen-plaster]] offers superior weather resistance and self-healing for small cracks. Cement stucco is the most durable but least breathable, and can trap moisture if not detailed correctly.
 
 The primary vulnerability of straw bale construction is moisture. Bales must remain below 15 percent moisture content throughout the building's life. This requires raised foundations of concrete, stone, or [[passive-solar-design]], walls capture winter sunlight and release stored heat overnight. For optimal cold-climate performance, external insulation can be added while keeping the thermal mass inside the insulation envelope. Properly constructed rammed earth buildings are extremely durable, with examples surviving for centuries across multiple continents.
 
@@ -54,7 +54,7 @@ Building code compliance requires advance planning for both methods. Straw bale 
 | **Structural approach** | Load-bearing or timber frame infill | Monolithic compression walls |
 | **Moisture sensitivity** | Very high (primary vulnerability) | Moderate (erosion if unstabilised) |
 | **Fire resistance** | High when plastered | Very high (inert material) |
-| **Pest resistance** | Requires careful detailing | Excellent (no organic food source) |
+| **[[cannabis-disease-pest-resistance-breeding-clarke]]** | Requires careful detailing | Excellent (no organic food source) |
 | **Construction speed** | Fast wall raising, slow plastering | Slow and labour-intensive compaction |
 | **Skill level required** | Low (accessible to beginners) | Moderate to high (soil science, formwork) |
 | **Aesthetic finish** | Plastered walls (smooth or textured) | Natural stratified earth (exposable) |
@@ -75,6 +75,8 @@ A third hybrid strategy uses straw bale for the primary insulated envelope and i
 
 ## See Also
 
+- [[comparison-earthbag-vs-rammed-earth]]
+
 - [[cob-building]]
 - [[passive-solar-design]]
-- [[permaculture-housing-design]]
+- permaculture-housing-design

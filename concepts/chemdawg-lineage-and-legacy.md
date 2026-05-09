@@ -1,5 +1,5 @@
 ---
-title: Chemdawg Lineage and Legacy
+title: Chemdawg haze-lineage-and-legacy-in-modern-breeding
 tags:
   - cannabis-strains
   - chemdawg
@@ -30,7 +30,7 @@ no signs of diminishing in importance.
 
 The legend begins when a breeder known as Chemdog purchased an ounce of high-quality cannabis
 from a man named Joe at a Grateful Dead show for $500. After exchanging numbers, Chemdog later
-bought two more ounces from Joe. When those ounces reached him on the East Coast, one was
+bought two more ounces from Joe. When those ounces reached him on the [[fukuoka-east-coast-forest-livestock-soil-damage]], one was
 seedless and the other contained 13 seeds — the proverbial magic beans. In 1991, Chemdog
 germinated those seeds, and they gave rise to the entire Chemdawg family.
 
@@ -39,7 +39,7 @@ contained unknown indica genetics from the American underground breeding scene, 
 proposed Nepalese and Thai parentage contributed by traveling breeders. What is certain is that
 the resulting plants produced a unique chemical aroma — pungent, fuel-like, and almost acrid —
 and an extraordinarily potent effect that was unlike anything else available at the time. The name
-"Chemdawg" itself reflects both the chemical odor of the buds and the cannabis culture slang of
+"Chemdawg" itself reflects both the chemical odor of the buds and the [[mckenna-cannabis-culture-history]] slang of
 the era.
 
 ## Core Chemdawg Varieties
@@ -58,7 +58,7 @@ Northern Hemisphere.
 
 The finished buds are characterized by a piney, fuel-like aroma that can fill a room before the
 jar is even opened, and they deliver an intensely euphoric high that has made this one of the
-most requested strains at dispensaries. The resin production is heavy enough that growers would
+most requested strains at dispensaries. The [[cannabis-glandular-trichome-types-resin-production-clarke]] is heavy enough that growers would
 be fools not to make hash from the trim.
 
 ### Blue City Diesel
@@ -124,7 +124,9 @@ influence new breeding programs.
 
 ## See Also
 
-- Diesel Strain Family
+- [[chemdawg-91]]
+
+- [[oner-diesel-strain-lineage]] Family
 
 - [[cannabis-landrace-strains]]
 

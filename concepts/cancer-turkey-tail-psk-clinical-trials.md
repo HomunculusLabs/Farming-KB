@@ -1,9 +1,9 @@
 ---
-title: Turkey Tail PSK and PSP Clinical Trials
+title: comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive PSK and PSP mushroom-cancer-clinical-trials-overview
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - Smith, Rowan and Sullivan (2002). Medicinal Mushrooms: Their therapeutic properties and current medical usage with special emphasis on cancer treatments. University of Strathclyde.
+  - Smith, Rowan and Sullivan (2002). cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides: Their therapeutic properties and current medical usage with special emphasis on cancer treatments. University of Strathclyde.
   - Tsukagoshi, S. (1984). Krestin (PSK). Cancer Treatment Reviews 11, 131-155.
   - Kidd, P.M. (2000). The use of mushroom glucans and proteoglycans in cancer treatment. Alternative Medicine Review 5(1), 4-27.
   - Xu, L. (1999). Research in PSP, 1999. Hong Kong Association for Health Care.
@@ -54,7 +54,7 @@ Dendritic cell infiltration of gastric tumours prior to surgery appears to predi
 
 - **Oesophageal cancer**: Non-controlled retrospective analysis (n=133) showed improvements in one-year and two-year survival with combined radiation, chemotherapy, and PSK immunotherapy. PSK improved overall survival in patients with elevated pre-operative alpha1-anti-chymotrypsin or sialic acid levels.
 - **Nasopharyngeal carcinoma**: Small-scale trial in Taiwan showed small but significant impact on five-year survival with PSK adjunct therapy.
-- **Lung cancer**: In 185 patients with epidermoid carcinoma, adenocarcinoma, or large-cell carcinoma (stage IIIb or less), almost four times more PSK-treated patients showed significant improvements in disease-free survival after radiotherapy. PSK was more effective for Stage III patients, those over 70 years old, and those with small primary tumours.
+- **[[psk-breast-lung-cancer-clinical-trials]]**: In 185 patients with epidermoid carcinoma, adenocarcinoma, or large-cell carcinoma (stage IIIb or less), almost four times more PSK-treated patients showed significant improvements in disease-free survival after radiotherapy. PSK was more effective for Stage III patients, those over 70 years old, and those with small primary tumours.
 - **Breast cancer**: A large trial (914 patients) suggested PSK significantly extended survival in ER-negative, Stage IIA patients without lymph node involvement. However, a subsequent large trial (Morimoto et al., 1996) found no statistical benefit. Yokoe et al. (1997) clarified that HLA B40 antigen-positive patients treated with PSK showed improved 10-year overall survival, suggesting HLA B40 may be a predictive factor for PSK response.
 
 ## PSP Clinical Trials
@@ -65,7 +65,7 @@ Phase I trials (Xu, 1993) demonstrated that oral doses up to 6g/day were well-to
 
 ### Phase II
 
-The Shanghai PSP Research Group conducted multi-hospital trials (8 hospitals) using patients with stomach, lung, and oesophageal cancers. Dosage was 1g three times daily (total 190g). PSP confirmed its role as a biological response modifier, improving immunological status after surgery, radiotherapy, and/or chemotherapy.
+The Shanghai PSP Research Group conducted multi-hospital trials (8 hospitals) using patients with stomach, lung, and oesophageal cancers. Dosage was 1g three times daily (total 190g). PSP confirmed its role as a [[medicinal-mushrooms-biological-response-modifiers]] modifier, improving immunological status after surgery, radiotherapy, and/or chemotherapy.
 
 In a double-blind Phase II trial with nearly 300 gastric, oesophageal, and lung cancer patients, PSP was compared against shark liver oil (batyl alcohol) as adjunct to conventional therapy. PSP was effective for 82% of patients versus 48% for the control group, with improvements in clinical symptoms, blood profiles, immune indices, and Karnovsky performance status.
 
@@ -81,7 +81,7 @@ Both PSK and PSP have remarkably few side-effects. Common adverse reactions of r
 
 ## Clinical Significance
 
-After a quarter century of trials, Kidd (2000) concluded: "the cumulative human findings amount to a recommendation for [PSK's] inclusion in standard anticancer protocols. With its risk for adverse effects virtually nonexistent, PSK's contribution to the benefit-risk profiles of these protocols can only be positive."
+After a quarter century of trials, Kidd (2000) concluded: "the cumulative human findings amount to a recommendation for [PSK's] inclusion in standard anticancer protocols. With its risk for [[blesching-cannabis-safety-adverse-effects-evidence]] virtually nonexistent, PSK's contribution to the benefit-risk profiles of these protocols can only be positive."
 
 ## See Also
 

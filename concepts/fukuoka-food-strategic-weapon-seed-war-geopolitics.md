@@ -5,7 +5,7 @@
 In "The Road Back to Nature," Masanobu Fukuoka devoted significant attention
 to the geopolitical dimension of agriculture, particularly the use of food
 and seed supply as instruments of international power. He argued that the
-international seed trade, dominated by a few nations and corporations, was
+[[fukuoka-oil-companies-international-seed-war]] trade, dominated by a few nations and corporations, was
 a form of neocolonialism that created dependency among developing nations.
 His analysis of the "seed war" — the competition between nations to develop
 and control high-yielding rice varieties — revealed how agricultural science
@@ -23,7 +23,7 @@ negotiations, as a tool of diplomatic influence, and as a means of creating
 dependency among rice-importing nations.
 
 The development of high-yielding varieties served this geopolitical purpose
-because these varieties required specific inputs — chemical fertilizers,
+because these varieties required specific inputs — [[cervantes-chemical-fertilizers-guide]],
 pesticides, and irrigation infrastructure — that only the developing nation
 could supply. When a developing country adopted a high-yielding variety, it
 became dependent on the country that controlled the variety and its required
@@ -62,7 +62,7 @@ specter of food scarcity, Fukuoka suggested, was maintained deliberately
 as a justification for continued agricultural industrialization and as a
 tool for maintaining geopolitical influence.
 
-He was particularly critical of the way that American agricultural policy
+He was particularly critical of the way that [[fukuoka-american-agricultural-decline]] policy
 used food as a strategic weapon. The United States, as the world's largest
 food exporter, could influence the domestic policies of food-importing
 nations by threatening to restrict food shipments. This gave the United
@@ -72,14 +72,14 @@ through the threat of violence.
 
 ## The Natural Farming Alternative: Seed Independence
 
-Fukuoka proposed his natural farming methods, and particularly his seed-
+Fukuoka proposed his natural [[natural-farming-methods-comparison]], and particularly his seed-
 saving practices, as an antidote to agricultural dependency. In natural
 farming, seeds are saved from year to year, selected for adaptation to
 local conditions, and exchanged freely among farmers. This creates seed
 sovereignty — the ability of farming communities to maintain their own
 seed supply without depending on external sources.
 
-His "Happy Hill" rice variety exemplified this approach. Happy Hill was not
+His "Happy Hill" [[fukuoka-old-rice-variety-testing]] exemplified this approach. Happy Hill was not
 a product of a breeding program — it emerged naturally in his fields through
 the interaction of cultivated rice with wild relatives and the selective
 pressure of natural growing conditions. It was a landrace adapted to the
@@ -104,7 +104,7 @@ When traditional farming systems that maintained soil fertility and
 vegetation cover were replaced by input-dependent industrial agriculture,
 the land deteriorated. When the land deteriorated, food production
 declined, creating greater dependency on food imports and seed from
-industrial nations. Desert revegetation with clay seed pellets was not
+industrial nations. Desert revegetation with clay [[clay-seed-pellets-direct-seeding]] was not
 just an environmental project — it was a political act of resistance
 against the system of agricultural dependency.
 

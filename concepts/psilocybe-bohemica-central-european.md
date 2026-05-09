@@ -1,5 +1,5 @@
 ---
-title: Psilocybe Bohemica Central European Species
+title: Psilocybe psilocybe bohemica central european European Species
 created: 2026-04-19
 updated: 2026-04-18
 type: concept
@@ -108,11 +108,11 @@ P. bohemica is one of several psychoactive mushroom species found in Europe:
 - **Psilocybe cyanescens** -- Woodland species, spreading through bark mulch distribution
 - **Psilocybe bohemica** -- Central European grassland species
 - **Psilocybe mairei** -- North African species (possibly = P. cyanescens)
-- **Inocybe aeruginascens** -- Central European species with aeruginascin
-- **Panaeolus cyanescens** -- Tropical/subtropical species, found in Southern Europe
-- **Conocybe cyanopus** -- Small, less common psychoactive species
-- **Pluteus salicinus** -- Wood-inhabiting species
-- **Gymnopilus purpuratus** -- Southern European species
+- **[[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]]** -- Central European species with aeruginascin
+- **[[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]** -- Tropical/subtropical species, found in Southern Europe
+- **[[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]]** -- Small, less common psychoactive species
+- **[[gartz-pluteus-salicinus-wood-inhabiting-psilocybin]]** -- Wood-inhabiting species
+- **[[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]]** -- Southern European species
 
 ### Knowledge Gaps
 

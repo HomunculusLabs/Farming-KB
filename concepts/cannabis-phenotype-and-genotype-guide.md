@@ -1,22 +1,22 @@
 ---
-title: Cannabis Phenotype and Genotype Guide
+title: Cannabis cannabis phenotype and genotype guide Guide
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 # Cannabis Phenotype and Genotype Guide
 
-Understanding cannabis genetics is essential for breeders, growers, and anyone selecting strains. Robert Clarke's "Marijuana Botany" provides the foundational text on cannabis genetics, breeding, and chemotaxonomy.
+Understanding [[vic-high-cannabis-genetics-mendelian-inheritance]] is essential for breeders, growers, and anyone selecting strains. Robert Clarke's "[[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]]" provides the foundational text on cannabis genetics, breeding, and chemotaxonomy.
 
 ## Genotype vs Phenotype
 
 ### Genotype
 - The complete genetic code (DNA) of the plant
 - Determines the plant's potential: what it CAN be
-- Includes genes for cannabinoid production, growth pattern, disease resistance, sex determination
+- Includes genes for cannabinoid production, growth pattern, disease resistance, [[cannabis-sex-determination-floral-biology]]
 - Each gene has two alleles (one from each parent)
 - Homozygous: both alleles the same (AA or aa)
 - Heterozygous: alleles differ (Aa)
@@ -72,9 +72,9 @@ Cannabis plants are classified by their cannabinoid profile:
 ## Cannabis Subspecies and Varieties
 
 ### Taxonomy (Clarke's Classification)
-- **Cannabis sativa** (narrow-leaflet): Tropical/subtropical origin. Tall, long flowering, cerebral high
+- **[[comparison-cannabis-sativa-vs-cannabis-indica]]** (narrow-leaflet): Tropical/subtropical origin. Tall, long flowering, cerebral high
 - **Cannabis indica** (wide-leaflet): Central Asian origin. Short, fast flowering, body high
-- **Cannabis ruderalis**: Eastern European origin. Auto-flowering, low THC, cold-tolerant
+- **[[cervantes-cannabis-ruderalis-autoflowering]]**: Eastern European origin. Auto-flowering, low THC, cold-tolerant
 
 ### Modern Hybrid Classification
 - Most modern strains are hybrids (crosses of sativa × indica)
@@ -92,5 +92,7 @@ Cannabis plants are classified by their cannabinoid profile:
 - [[cannabis-resin-production-and-quality-traits-clarke]]
 
 ## See Also
+
+- [[cannabis-sativa-indica-classification]]
 
 - [[cake-batter]]

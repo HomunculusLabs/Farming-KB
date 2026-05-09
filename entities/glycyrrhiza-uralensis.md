@@ -36,7 +36,7 @@ plant's widespread use as a sweetener, flavoring agent, and therapeutic agent.
 
 ### Taxonomy
 
-- **Kingdom:** Plantae
+- **King[[dom|dom]]:** Plantae
 - **Order:** Fabales
 - **Family:** Fabaceae
 - **Subfamily:** Faboideae
@@ -139,7 +139,6 @@ Propagation is primarily by seed (scarification improves germination from
 well-drained sandy soils and 400–600 mm annual rainfall.
 
 Harvest typically begins 3–4 years after planting when root glycyrrhizin
-content reaches commercial threshold (≥2% dry weight). Yields of 15–25 tonnes
 ## See Also
 
 - [[glycyrrhiza-glabra]] — European licorice, the Western pharmacopeial source
@@ -147,4 +146,4 @@ content reaches commercial threshold (≥2% dry weight). Yields of 15–25 tonne
 
 ## See Also
 
-- [[gaias-garden-nitrogen-fixers-guild-design]]
+- gaias-garden-nitrogen-fixers-guild-design

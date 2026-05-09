@@ -16,8 +16,8 @@ type: concept
 
 # The Water Cycle in Ecosystem Management
 
-The water cycle is one of the four ecosystem foundation blocks in Allan
-Savory's holistic management framework. Understanding how water moves
+The water cycle is one of the four [[savory-ecosystem-foundation-blocks]] blocks in Allan
+Savory's [[savory-holistic-management-overview]] framework. Understanding how water moves
 through the ecosystem, and how management practices affect its
 effectiveness, is central to achieving desertification|land restoration
 goals and maintaining productive [[desertification]] and land health.

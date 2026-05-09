@@ -49,7 +49,7 @@ A long-day plant for cool areas. Some varieties are grown in Alaska. Both winter
 
 A long-day plant for cool areas, sub-tropical to arctic. Spring types mature in 60 to 70 days, winter types in 160 days. Self-pollinated.
 
-The choice of grain species should be matched to the [[pdc-passive-design-principles]]. Each animal performs a useful function: ducks control pests in the paddy, geese graze weeds and stimulate tillering, and sheep add manure while grazing stubble. This multi-functionality is a hallmark of permaculture systems design.
+The choice of grain species should be matched to the pdc-passive-design-principles. Each animal performs a useful function: ducks control pests in the paddy, geese graze weeds and stimulate tillering, and sheep add manure while grazing stubble. This multi-functionality is a hallmark of permaculture systems design.
 
 ### Soil Building
 
@@ -61,13 +61,12 @@ Over years of no-tillage management with continuous mulch, the soil develops a r
 
 - [[fukuoka-direct-seeded-no-tillage-rice-barley-method]]
 
-- [[fukuoka-direct-seeded-no-tillage-rice-barley-method]]
-
 - [[soil-building-permaculture]]
 
 - [[permaculture-water-systems]]
 
-- [[broadscale-permaculture-techniques-mollison]]
+- broadscale-permaculture-techniques-mollison
+
 ## Practical Considerations
 
 Successful implementation of Mollison No-Tillage Grain Cropping and Fukuoka Method requires attention to
@@ -86,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

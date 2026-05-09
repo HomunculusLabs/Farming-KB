@@ -5,7 +5,7 @@ updated: 2026-05-06
 type: organism
 subtype: bacterium
 aliases:
-  - hay bacillus
+  - [[knf-hay-bacillus-disease-control]]
   - grass bacillus
   - Bacillus subtilis 168
   - Bacillus subtilis QST 713
@@ -75,10 +75,10 @@ and leathery with sporulation.
 
 ## Ecological Role
 
-Ubiquitous in soil, decaying organic matter, and the rhizosphere. Promotes
+Ubiquitous in soil, decaying [[hamilton-composting-and-organic-matter-management]], and the rhizosphere. Promotes
 plant growth directly through IAA production, phosphate solubilization, and
-siderophore-mediated iron acquisition. Indirect mechanisms include pathogen
-biocontrol via antibiosis and induced systemic resistance (ISR). Also found
+siderophore-mediated [[fungal-siderophores-iron-acquisition-mycorrhiza]]. Indirect mechanisms include pathogen
+biocontrol via antibiosis and [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance (ISR). Also found
 in marine environments, the phyllosphere, and animal gastrointestinal tracts.
 Endospore formation allows persistence through hostile conditions and rapid
 recolonization when conditions improve.
@@ -86,7 +86,7 @@ recolonization when conditions improve.
 ## Industrial Applications
 
 Holding FDA GRAS status, *B. subtilis* is a major industrial microorganism.
-Large-scale enzyme production includes amylases, proteases (detergents),
+Large-scale [[ligninolytic-enzyme-production-bioremediation]] includes amylases, proteases (detergents),
 lipases, cellulases, and xylanases. Excellent heterologous protein expression
 host due to high secretion capacity and lack of endotoxins (unlike *E. coli*).
 Engineered for vitamins (riboflavin, B12), amino acids (L-lysine), and
@@ -104,7 +104,7 @@ antibiotic ointment), subtilin (lantibiotic against *C. difficile*), bacilysin
 (broad-spectrum), and antifungal lipopeptides (mycosubtilin, fengycin). Active
 ingredient in Enterogermina® (Sanofi), a spore-based probiotic for treating
 diarrhea. Spores survive gastric passage (pH 2.0), germinate intestinally,
-and provide competitive exclusion of pathogens plus immune modulation.
+and provide competitive exclusion of pathogens plus [[cancer-immune-modulation-mechanisms]].
 
 ## Sporulation Cycle
 

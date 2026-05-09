@@ -1,11 +1,12 @@
 ---
-title: "Cervantes - Nutrient Mobility and Deficiency Diagnosis"
+title: "Cervantes - cervantes nutrient mobility deficiency diagnosis and Deficiency Diagnosis"
 created: 2026-04-26
 tags: [cannabis, nutrients, deficiency, mobility, diagnosis]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -88,7 +89,7 @@ The immobile nutrients are:
 - **Molybdenum (Mo):** Deficiency resembles nitrogen
   deficiency, causing middle-aged leaves to yellow.
 - **Silicon (Si):** Not essential but beneficial for
-  stronger cell walls and pest resistance.
+  stronger cell walls and [[cannabis-disease-pest-resistance-breeding-clarke]].
 - **Sulfur (S):** Deficiency causes uniform yellowing
   of new growth, unlike nitrogen which yellows older
   leaves first.
@@ -96,3 +97,7 @@ The immobile nutrients are:
 See also: [[cervantes-secondary-nutrient-deficiency]]
 See also: [[cervantes-troubleshooting-guide]]
 See also: [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]
+
+## See Also
+
+- [[plant-nutrient-deficiency-diagnosis]]

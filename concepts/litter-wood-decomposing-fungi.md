@@ -14,7 +14,6 @@ type: concept
 updated: 2026-04-12
 ---
 
-
 # Litter and Wood Decomposing Fungi
 
 Fungi are the primary decomposers of plant litter and wood in terrestrial ecosystems, driving the global carbon cycle through enzymatic breakdown of cellulose, hemicellulose, and lignin. The fungal communities on decomposing plant material follow predictable successional patterns shaped by resource chemistry and competitive interactions.
@@ -62,7 +61,7 @@ Fungi are the primary decomposers of plant litter and wood in terrestrial ecosys
 **Chemical**:
 - Lignin:N ratio is often the best predictor of decomposition rate
 - Polyphenol content negatively correlated with decomposition
-- Nutrient availability (especially N and P) affects fungal activity
+- [[ph-and-nutrient-availability-garden-soils]] (especially N and P) affects fungal activity
 
 **Biological**:
 - Fungal species identity matters; different fungi have different enzyme capabilities
@@ -83,7 +82,7 @@ Fungi are the primary decomposers of plant litter and wood in terrestrial ecosys
 - Degradation of both cellulose and lignin
 - Caused by Basidiomycetes (primarily)
 - Wood becomes lighter in color, soft, spongy
-- Enzymes: lignin peroxidase (LiP), manganese peroxidase (MnP), laccase
+- Enzymes: lignin peroxidase (LiP), [[fungal-manganese-peroxidase-remediation]] (MnP), laccase
 - Key genera: *Phanerochaete*, *Trametes*, *Bjerkandera*, *Irpex*, *Pleurotus*, *Piptoporus*
 - Complete decomposition of all wood components is possible
 
@@ -114,7 +113,7 @@ Fungi are the primary decomposers of plant litter and wood in terrestrial ecosys
 
 **Early decomposition (1-5 years)**:
 - Primary decay fungi establish: white-rot and brown-rot basidiomycetes
-- Competition between species determines community composition
+- Competition between species determines [[core-endorhiza-bacterial-community-composition-cannabis]]
 - *Stereum*, *Trametes*, *Bjerkandera* (white rot) and *Gloeophyllum*, *Serpula* (brown rot) common
 
 **Late decomposition (5-50+ years)**:
@@ -136,50 +135,15 @@ Fungi compete intensely for wood resources. Interactions include:
 - **Intermingling**: Hyphae grow through each other without apparent effect
 - **Deadlock**: Hyphae meet and stop growing; stable interface forms
 - **Replacement**: One species overgrows and replaces another
-- **Bystander effect**: Fungi release volatile organic compounds that inhibit distant competitors
+- **Bystander effect**: Fungi release [[fungal-volatile-organic-compounds-communication]] compounds that inhibit distant competitors
 
 ### Combat Mechanisms
-- **Antibiotic production**: Trichoderma produces trichodermin, gliotoxin
-- **Enzyme secretion**: Laccases, proteases, chitinases attack competitors
-- **Physical contact**: Hyphal coiling, penetration, lysis
-- **Resource sequestration**: Rapid colonization of new territory
-- **Secondary metabolites**: Many basidiomycetes produce antifungal compounds
-
-### Outcomes
-- Combat outcomes depend on: relative growth rates, resource status, moisture, temperature
-- Replacements are more common when one fungus has occupied the resource longer
-- Community composition in wood is largely determined by competitive hierarchy
-
-## Carbon Cycling Implications
-
-- Wood decomposition is a major flux in the global carbon cycle
-- Temperature sensitivity of decomposition (Q10) means climate warming will accelerate carbon release from wood and litter
-- White rot fungi are the only organisms that can completely degrade lignin
-- Brown rot leaves lignin residues that contribute to long-term soil carbon storage
-- Forest management practices (tree species selection, dead wood retention) affect fungal decomposition pathways and carbon storage
-
-## Ecological Importance
-
-- Dead wood is habitat for thousands of fungal species
-- Standing dead trees (snags) and fallen logs provide distinct niches
-- Wood decomposition creates habitat for invertebrates, birds, and mammals (cavity nesters)
-- Fungal fruiting bodies on wood support specialized invertebrate communities
-- Saproxyllic (dead-wood-dependent) fungi are among the most threatened fungal groups
-
-## Conservation
-
-Dead wood is declining in managed forests:
-- Removal of fallen logs and snags eliminates habitat
-- Short rotation forestry prevents development of late-stage wood decay communities
-- Old-growth forests with abundant dead wood support the most diverse fungal communities
-- Recommendations: retain dead wood (>20 m3/ha), leave snags, create dead wood piles, extend rotation periods
-
 ## Related Topics
 
 - [[fungal-decomposition]] — Decomposition processes overview
 - [[fungal-enzymatic-capabilities]] — Fungal enzyme systems
 - [[fungal-nutrient-cycling-mineral-transformations]] — Carbon and nutrient cycling
-- [[fungal-growth-dynamics]] — Mycelial foraging and resource translocation
+- [[fungal-growth-dynamics]] — [[fungal-mycelial-foraging-heterogeneous-environments]] and resource translocation
 - [[fungi-in-climate-change]] — Climate effects on decomposition
-- [[fairy-rings-and-giant-mycelia]] — Armillaria and large mycelial networks
+- [[fairy-rings-and-giant-mycelia]] — Armillaria and large [[fungal-mycelial-networks-nutrient-translocation]]
 - [[fungal-ecology-decomposition-cycles]] — Decomposition cycles in ecosystems

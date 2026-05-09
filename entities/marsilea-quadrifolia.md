@@ -13,7 +13,7 @@ updated: 2026-05-08
 sources:
   - Johnson, D.M. (1986). "Systematics of the New World species of Marsilea." Systematic Botany Monographs 11: 1–87.
   - Page, C.N. (1997). "The Ferns of Britain and Ireland." Cambridge University Press.
-  - Crow, G.E. & Hellquist, C.B. (2000). "Aquatic and Wetland Plants of Northeastern North America." University of Wisconsin Press.
+  - Crow, G.E. & Hellquist, C.B. (2000). "[[permaculture-plants-aquatic-and-wetland-species]] Plants of Northeastern [[psilocybin-north-america-pacific-northwest]]." University of Wisconsin Press.
   - Kadono, Y. (2004). "Aquatic Plants of Japan." Bun-ichi Sogo Shuppan.
   - Cook, C.D.K. (2004). "Aquatic and Wetland Plants of India." Oxford University Press.
 ---
@@ -22,9 +22,9 @@ sources:
 
 **Marsilea quadrifolia** L., commonly known as water clover or four-leaf clover fern, is an aquatic fern-ally in the family Marsileaceae. Despite its common name, it is not related to true clovers (Trifolium) but is a true fern with a highly modified aquatic growth form.
 
-The species is named for its distinctive floating leaves, each consisting of four leaflets arranged in a clover-like pattern. This four-part leaf morphology is unique among temperate aquatic plants and makes M. quadrifolia easily recognizable in the field.
+The species is named for its distinctive floating leaves, each consisting of four leaflets arranged in a clover-like pattern. This four-part [[cannabis-leaf-morphology-and-phyllotaxy]] is unique among temperate aquatic plants and makes M. quadrifolia easily recognizable in the field.
 
-Water clover is native to Europe, temperate Asia, and parts of North Africa. It has been introduced to North America and Australia, where it is considered invasive in some wetland systems due to its aggressive vegetative growth.
+Water clover is native to Europe, temperate Asia, and parts of North Africa. It has been introduced to North America and Australia, where it is considered invasive in some wetland systems due to its aggressive [[cannabis-vegetative-growth-stage]].
 
 The plant has been used as food and animal fodder in various cultures. Young fronds and sporocarps are edible and were historically collected as a vegetable in parts of Europe and Asia.
 
@@ -64,7 +64,7 @@ Waterfowl including mallards, teal, and swans feed on the fronds and rhizomes. T
 
 The species can form dense floating mats that reduce light penetration to submerged vegetation. In introduced ranges, this competitive ability has raised concerns about impacts on native aquatic plant communities.
 
-M. quadrifolia contributes to nutrient cycling by absorbing dissolved nitrogen and phosphorus from the water column. This phytoremediation capacity is modest compared to dedicated aquatic treatment plants but contributes to overall wetland water quality.
+M. quadrifolia contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by absorbing dissolved nitrogen and phosphorus from the water column. This phytoremediation capacity is modest compared to dedicated aquatic treatment plants but contributes to overall wetland water quality.
 
 ## Edibility and Traditional Use
 
@@ -86,7 +86,7 @@ M. quadrifolia is cultivated as an ornamental aquatic plant in water gardens, bo
 
 Cultivation requires shallow water (5–30 cm depth) over a mineral substrate in full sun to partial shade. The plant tolerates a wide range of pH conditions but performs best in neutral to slightly acidic water.
 
-Growth rate is rapid under favorable conditions, with the rhizome extending 10–30 cm per month during peak growing season. Regular thinning is necessary to prevent the plant from completely covering the water surface.
+Growth rate is rapid under favorable conditions, with the rhizome extending 10–30 cm per month during peak [[savory-growing-season-and-non-growing-season-management]]. Regular thinning is necessary to prevent the plant from completely covering the water surface.
 
 Hardiness extends to USDA zone 6, with the rhizome surviving winter in the substrate even where surface ice forms. In colder zones, the plant can be overwintered indoors in a container of water.
 
@@ -106,3 +106,5 @@ Management of invasive populations typically involves mechanical removal of rhiz
 - [[botrychium-lunaria]]
 - [[lycopodium-clavatum]]
 - [[equisetum-arvense]]
+
+- [[marsilea-minuta]]

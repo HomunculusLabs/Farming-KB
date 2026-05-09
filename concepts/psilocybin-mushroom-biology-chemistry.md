@@ -1,19 +1,19 @@
 ---
-title: Psilocybin Mushroom Biology and Chemistry
+title: emcdda-psilocybin-mushroom-dose-and-effects Biology and Chemistry
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [psilocybin, mushrooms]
-sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md]
+sources: sources: []
 ---
 
 Updated: 2026-04-18
 
 ## Overview
 
-Psilocybin mushrooms — commonly called "magic mushrooms" or simply "shrooms" — contain the psychoactive compounds psilocybin, psilocin, and baeocystin. These indole alkaloids (tryptamines) are structurally similar to serotonin and produce profound alterations in consciousness when consumed. The "Shroom: A Cultural History" source provides a detailed account of the biology, chemistry, and effects of these remarkable fungi.
+[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] — commonly called "[[guzman-magic-mushrooms-african-species]]" or simply "shrooms" — contain the psychoactive compounds psilocybin, psilocin, and baeocystin. These indole alkaloids (tryptamines) are structurally similar to serotonin and produce profound alterations in consciousness when consumed. The "Shroom: A [[shroom-cultural-history-hippie-revolution-and-counterculture]]" source provides a detailed account of the biology, chemistry, and effects of these remarkable fungi.
 
-Source: [[aztec-mushroom-feasts-and-revelations]]
+Source: aztec-mushroom-feasts-and-revelations
 - [[telluride-mushroom-festival-modern-mycological-culture]]
 - [[psilocybin-mushroom-species-overview]]
 - [[witches-fungi-and-flying-ointments]]
@@ -145,4 +145,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

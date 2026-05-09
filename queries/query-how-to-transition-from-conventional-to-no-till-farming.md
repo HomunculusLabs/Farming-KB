@@ -1,12 +1,12 @@
 ---
-title: How to Transition from Conventional to No-Till Farming
+title: How to query how to transition from conventional to no till farming to No-Till Farming
 created: 2026-04-28
 tags: farming, no-till, soil health, transition, cover crops, mycorrhiza, crop rotation, regenerative agriculture, weed management
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Rodale Institute. "Farming Systems Trial: 40-Year Report." (2022)
-  - Lal, Rattan. "No-Till Farming Effects on Soil Health and Carbon Sequestration." Advances in Agronomy, 2023.
+  - Lal, Rattan. "No-Till Farming Effects on Soil Health and [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]." Advances in Agronomy, 2023.
   - USDA NRCS. "No-Till Transition Guide." Soil Health Technical Note No. 5.
   - Brown, Gabe. "Dirt to Soil: One Family's Journey into Regenerative Agriculture." Chelsea Green, 2018.
   - Conservation Technology Information Center (CTIC). "National Crop Residue Management Survey." 2024.
@@ -22,7 +22,7 @@ A practical guide for row-crop and vegetable farmers moving from conventional ti
 
 No-till farming means planting directly into undisturbed soil without primary or secondary tillage operations. Crop residues remain on the surface as mulch. The transition is driven by several compounding benefits:
 
-- **Soil health recovery:** Tilling destroys soil aggregates, burns organic matter, and disrupts the [[mycorrhizal-symbiosis|mycorrhizal]] colonization of crop roots increases, improving phosphorus uptake.
+- **Soil health recovery:** Tilling destroys soil aggregates, burns [[hamilton-composting-and-organic-matter-management]], and disrupts the [[arbuscular-mycorrhizal-colonization-patterns]] of crop roots increases, improving phosphorus uptake.
 - **Year 5+:** The soil food web is well-established. Residue decomposes faster due to higher biological activity. Yields typically match or exceed conventional systems. Soil holds significantly more plant-available water.
 
 The key metric to watch is aggregate stability, not just organic matter percentage. Use a slake test to track progress.
@@ -34,7 +34,7 @@ Weed management is the #1 reason farmers abandon no-till. Strategies that work:
 - **Dense crop canopies:** Plant populations at the upper end of recommended ranges. Narrow rows (15-inch corn, 7.5-inch soybeans) close canopy faster.
 - **Cover crop mulch:** A thick [[soil-food-web]] cycles nutrients downward. Banded starter fertilizer at planting (2 inches beside and below the seed) helps during early transition.
 - **Nitrogen:** Expect a temporary nitrogen immobilization in years 1–2 as soil microbes break down residue. Increase N rates by 20–30 lbs/acre above conventional recommendations during this period. Legume cover crops can offset this by year 3+.
-- **Compost and manure:** Surface-applied compost or composted manure feeds soil biology without needing incorporation. This is one of the fastest ways to jumpstart biological activity during transition.
+- **Compost and manure:** Surface-applied compost or [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]] feeds soil biology without needing incorporation. This is one of the fastest ways to jumpstart biological activity during transition.
 - **pH management:** No-till soils tend to acidify at the surface. Monitor pH in the top 3 inches separately and apply lime accordingly. Pelletized lime is easier to surface-apply effectively.
 
 ## Common mistakes and pitfalls to avoid
@@ -75,7 +75,7 @@ Yield drag is real but typically limited to years 2–3, and only on 5–15% of 
 - Fuel reduction: 30–50% fewer tractor hours (saves $15–$40/acre)
 - Labor reduction: fewer passes across the field
 - Machinery depreciation and maintenance: lower wear, fewer repairs
-- Fertilizer reduction: 20–40% less NPK needed by year 5+ due to improved nutrient cycling
+- Fertilizer reduction: 20–40% less NPK needed by year 5+ due to improved [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 - Herbicide reduction: 50–70% less as biological weed suppression builds
 - Equipment elimination: selling tillage equipment recovers capital
 

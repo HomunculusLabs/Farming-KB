@@ -3,7 +3,7 @@
 
 ## Overview
 
-One of the most practical and frequently asked questions about Actively Aerated Compost Tea (AACT) is how long it can be stored before application. Elaine Ingham provides clear but nuanced guidance: compost tea should ideally be applied immediately after brewing, but can be held for up to 5 days under carefully maintained aerobic conditions. However, holding time comes with a significant biological cost — the diversity of organisms in the tea declines steadily from the moment brewing stops.
+One of the most practical and frequently asked questions about Actively [[actively-aerated-compost-tea-aact-brewing]] Tea (AACT) is how long it can be stored before application. Elaine Ingham provides clear but nuanced guidance: compost tea should ideally be applied immediately after brewing, but can be held for up to 5 days under carefully maintained aerobic conditions. However, holding time comes with a significant biological cost — the diversity of organisms in the tea declines steadily from the moment brewing stops.
 
 ## The Biology of Holding Time
 
@@ -16,7 +16,7 @@ The reason is straightforward biology. During active brewing, the [[query-how-to
 
 The same principle applies to tank-mixing nutrients with compost tea in a spray tank: once food is added to the tea, the application window shrinks to approximately 4-6 hours before [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] hould not be applied to valuable plants
 
-This test works because sealing the container eliminates any remaining aeration, causing any anaerobic organisms present to multiply and produce detectable volatile compounds. If the tea was truly aerobic when sealed, the aerobic organisms will maintain acceptable conditions through the overnight period.
+This test works because sealing the container eliminates any remaining aeration, causing any [[ingham-anaerobic-organisms-role-soil]] present to multiply and produce detectable [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]. If the tea was truly aerobic when sealed, the aerobic organisms will maintain acceptable conditions through the overnight period.
 
 ## Practical Holding Strategies
 
@@ -34,7 +34,7 @@ For same-day holding (brewed in the morning, applied in the evening), minimal in
 For holding beyond the same day:
 
 - Maintain active aeration with an air pump and diffuser stone
-- Monitor dissolved oxygen if a meter is available — keep above 6 mg/L
+- Monitor [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] if a meter is available — keep above 6 mg/L
 - Use the smell test before application
 - Expect reduced efficacy compared to fresh tea
 - Apply to less critical plantings if quality is uncertain
@@ -43,7 +43,7 @@ For holding beyond the same day:
 
 Ingham's advice for extended holding is pragmatic:
 
-- Apply to non-critical areas (weed patches, cover crops, ornamental beds)
+- Apply to non-critical areas (weed patches, [[gaias-garden-cover-crops-soil-building]], ornamental beds)
 - Continue aeration
 - Do not add food under any circumstances
 - Accept that diversity has been significantly reduced
@@ -67,7 +67,7 @@ For anyone holding tea beyond the brewing period, Ingham strongly recommends dis
 - **Recovery is possible but incomplete**: If DO crashes and is then restored, some organisms may recover but fungal hyphae that were damaged by anaerobic conditions will [[soil-foodweb-balancing-protocol-ingham]]
 ## Practical Considerations
 
-Successful implementation of Ingham Compost Tea Holding Time Shelf Life requires attention to
+Successful implementation of Ingham Compost Tea Holding ingham compost tea holding time shelf life Life requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

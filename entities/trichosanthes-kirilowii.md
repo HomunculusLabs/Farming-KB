@@ -45,7 +45,7 @@ The tuberous root can reach 30–100 cm in length and is the primary medicinal o
 
 The species is distributed across eastern and central China (Gansu, Hebei, Henan, Shandong, Shanxi, Sichuan, Zhejiang provinces). It extends into the Korean Peninsula and Honshu, Japan.
 
-It grows in mountain forests, thickets, and scrubland at 100–1,800 m elevation. The species prefers well-drained, sandy loam soils rich in organic matter with a pH of 6.0–7.5.
+It grows in mountain forests, thickets, and scrubland at 100–1,800 m elevation. The species prefers well-drained, sandy loam soils rich in [[hamilton-composting-and-organic-matter-management]] with a pH of 6.0–7.5.
 
 The climate range is temperate to subtropical with annual rainfall of 600–1,200 mm. Plants require full sun to partial shade and are frost-tolerant to approximately −10 °C.
 
@@ -59,7 +59,7 @@ Planting density is 6,000–9,000 plants per hectare with support trellises for 
 
 Root harvest occurs 3–5 years after planting, typically in autumn. Yields of fresh root range from 15–30 tonnes per hectare. Roots are washed, sliced, and dried for medicinal use.
 
-Key pests include aphids (Aphis gossypii), red spider mites (Tetranychus urticae), and powdery mildew (Sphaerotheca fuliginea). Root rot caused by Fusarium solani is the most serious disease in heavy soils.
+Key pests include aphids (Aphis gossypii), red [[cervantes-spider-mites-identification-control]] (Tetranychus urticae), and [[cervantes-powdery-mildew-prevention-treatment]] (Sphaerotheca fuliginea). Root rot caused by Fusarium solani is the most serious disease in heavy soils.
 
 Fruit is harvested separately at 3–4 months after flowering for seed and pulp production. Fruit yields average 15–22 tonnes per hectare.
 
@@ -67,13 +67,13 @@ Fruit is harvested separately at 3–4 months after flowering for seed and pulp 
 
 **Trichosanthin (TCS)** is the principal bioactive protein, a type I ribosome-inactivating protein (RIP) of approximately 27 kDa. It inactivates eukaryotic ribosomes by cleaving the N-glycosidic bond of adenine-4324 in 28S rRNA.
 
-TCS demonstrated anti-HIV activity in early clinical trials, inhibiting viral replication in infected T-lymphocytes and macrophages. However, systemic toxicity and anaphylactic reactions limited its therapeutic development as an antiviral agent.
+TCS demonstrated anti-HIV activity in early [[mushroom-cancer-clinical-trials-overview]], inhibiting viral replication in infected T-lymphocytes and macrophages. However, systemic toxicity and anaphylactic reactions limited its therapeutic development as an antiviral agent.
 
 The root contains trichodermin, a sesquiterpenoid with antifungal properties. Additional compounds include cucurbitacins (B, D, E), which contribute to the root's bitter taste and exhibit cytotoxic activity against cancer cell lines.
 
 TCS has shown immunomodulatory effects including suppression of T-cell proliferation and induction of apoptosis in tumor cells. It has been investigated as an immunotoxin conjugate for targeted cancer therapy.
 
-The seeds are rich in fatty acids (linoleic acid 45%, oleic acid 25%) and contain the trypsin inhibitor trichomislin. Seed extracts demonstrate antioxidant and hepatoprotective activities in animal models.
+The seeds are rich in [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] (linoleic acid 45%, oleic acid 25%) and contain the trypsin inhibitor trichomislin. Seed extracts demonstrate antioxidant and hepatoprotective activities in animal models.
 
 ## Traditional and Modern Applications
 
@@ -91,7 +91,7 @@ The fresh root juice is applied topically for mastitis and skin abscesses in fol
 
 The fresh root contains approximately 70% carbohydrate (primarily starch and mucilage), 5% protein, and 0.5% fat. Mineral content includes potassium (340 mg/100 g), calcium (190 mg/100 g), and iron (5 mg/100 g).
 
-Young fruits are consumed as a vegetable in southern China and Southeast Asia. The fruit pulp is rich in vitamins A and C and has a mild, sweet flavor suitable for soups and stir-fries.
+Young fruits are consumed as a vegetable in southern China and [[psilocybe-southeast-asia-pacific]]. The fruit pulp is rich in vitamins A and C and has a mild, sweet flavor suitable for soups and stir-fries.
 
 Seeds are pressed for oil in some regions, producing a drying oil used in traditional soap-making and as a lubricant. The residual seed meal after oil extraction serves as animal feed.
 

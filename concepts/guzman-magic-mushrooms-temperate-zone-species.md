@@ -1,62 +1,20 @@
 ---
-title: Temperate Zone Neurotropic Mushroom Species
+title: guzman magic mushrooms temperate zone species Neurotropic Mushroom Species
 created: 2026-04-28
-tags: [[mycology, temperate-fungi, psilocybin-mushrooms, north-america, europe]
+tags: [mycology, temperate-fungi, psilocybin-mushrooms, north-america, europe]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
 type: concept
 ---
-
-# Temperate Zone Neurotropic Mushroom Species
-
-## North America (USA and Canada)
-
-The Pacific Northwest of North America (Washington, Oregon, British
-Columbia) represents one of the world's richest temperate zones for
-neurotropic fungi, with species diversity approaching that of Mexico. This
-region is considered a major center of neurotropic fungal biodiversity in
-the northern hemisphere.
-
-### Pacific Northwest Species
-
-The Pacific Northwest harbors the highest concentration of temperate
-Psilocybe species in the world:
-- **P. azurescens**: Restricted to the Pacific coast; one of the most
-  potent species, found on decaying wood debris near dunes
-- **P. baeocystis**: Known as "blue bell" or "bottle cap"; contains
-  baeocystin as a major alkaloid
-- **P. cyanescens**: Widespread in coastal areas; common in mulched
-  gardens and wood chips
-- **P. cyanofibrillosa**: Similar to P. cyanescens but with finer
-  fibrils on the pileus
-- **P. pelliculosa**: Common in conifer forests on decaying wood
-- **P. semilanceata**: Liberty cap; found in autumn grasslands
-- **P. silvatica**: Associated with conifer debris in old-growth forests
-- **P. stuntzii**: Known as "blue ringers"; common on lawns and in
-  pastures
-- **P. strictipes**: Similar to P. semilanceata but with different
-  spore morphology
-
-### Eastern North America
-
-Eastern North America has fewer species, dominated by:
-- P. caerulipes: Found in deciduous forests along the Appalachian range,
-  from Alabama to New York
-- P. weilii: Endemic to Georgia, discovered in the 1990s
-- P. tampanensis: Known from Florida and Mississippi; forms sclerotia
-- P. quebecensis: Found in Quebec, Canada
-- P. cubensis: Occurs in Gulf Coast states (Florida, Louisiana, Texas)
-
-### Widely Distributed North American Species
-
-- [[gymnopilus-purpuratus]] spectabilis, G. sapineus, G. luteofolius: Widespread
-- [[gymnopilus-purpuratus]] purpuratus: Found in Germany, Netherlands, and
+# Temperate Zone Neurotropic Mushroom Species ## North America (USA and Canada) The Pacific Northwest of North America (Washington, Oregon, British Columbia) represents one of the world's richest temperate zones for neurotropic fungi, with species diversity approaching that of Mexico. This region is considered a major center of neurotropic fungal biodiversity in the northern hemisphere. ### Pacific Northwest Species The Pacific Northwest harbors the highest concentration of temperate Psilocybe species in the world: - **P. azurescens**: Restricted to the Pacific coast; one of the most potent species, found on decaying wood debris near dunes - **P. baeocystis**: Known as "blue bell" or "bottle cap"; contains baeocystin as a major alkaloid - **P. cyanescens**: Widespread in coastal areas; common in mulched gardens and wood chips - **P. cyanofibrillosa**: Similar to P. cyanescens but with finer fibrils on the pileus - **P. pelliculosa**: Common in conifer forests on decaying wood - **P. semilanceata**: Liberty cap; found in autumn grasslands - **P. silvatica**: Associated with conifer debris in old-growth forests - **P. stuntzii**: Known as "blue ringers"; common on lawns and in pastures - **P. strictipes**: Similar to P. semilanceata but with different spore morphology ### Eastern North America Eastern North America has fewer species, dominated by: - P. caerulipes: Found in deciduous forests along the Appalachian range, from Alabama to New York - P. weilii: Endemic to Georgia, discovered in the 1990s - P. tampanensis: Known from Florida and Mississippi; forms sclerotia - P. quebecensis: Found in Quebec, Canada - P. cubensis: Occurs in Gulf Coast states (Florida, Louisiana, Texas) ### Widely Distributed North American Species - [[gymnopilus-purpuratus]] spectabilis, G. sapineus, G. luteofolius: Widespread
+-  purpuratus: Found in Germany, Netherlands, and
   Switzerland; contains psilocybin, psilocin, and baeocystin
 - [[copelandia-genus-species-guide]] cyanescens: Introduced (adventive) in parts of
   southern Europe (Italy, Spain, Austria)
 - [[guzman-magic-mushrooms-neotropical-species]] for tropical species
 - [[guzman-magic-mushrooms-habitat-ecology]] for ecological preferences
+
 ## Practical Considerations
 
 When working with Temperate Zone Neurotropic Mushroom Species, several practical factors should be
@@ -73,7 +31,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -116,3 +74,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[guzman-magic-mushrooms-psilocybe-species-list]]

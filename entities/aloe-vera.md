@@ -17,7 +17,7 @@ value. It is arguably the most commercially important Aloe species, with a
 global industry spanning cosmetics, pharmaceuticals, food supplements, and
 traditional medicine worth billions of dollars annually. The clear mucilaginous
 gel stored in its fleshy leaves has been used topically for thousands of years
-to treat burns, wounds, and skin conditions.
+to treat burns, wounds, and [[cannabis-for-skin-conditions-detailed]].
 
 The species has a long and well-documented history of human use, from ancient
 Egyptian, Greek, and Roman medical texts to its current status as one of the
@@ -40,7 +40,7 @@ uses. The distinction between the inner leaf gel and the outer leaf latex
   burn plant, first-aid plant, lily of the desert
 - **Etymology:** "Aloe" derives from Arabic "alloeh" (shining bitter
   substance); "vera" is Latin for "true" or "genuine"
-- **Taxonomic note:** Considerable taxonomic confusion exists around
+- **Taxonomic note:** Considerable [[neurotropic-fungi-taxonomic-confusion-and-identification]] exists around
   Aloe vera. The name Aloe barbadensis was widely used but is now
   treated as a synonym of A. vera in most modern taxonomic treatments.
 
@@ -89,7 +89,7 @@ larger specimens.
 - **Current distribution:** Widely naturalized in tropical, subtropical,
   and warm temperate regions worldwide; extensively cultivated in
   India, Mexico, the Dominican Republic, China, South Africa, Spain,
-  and the southern United States (Texas, Florida, Arizona)
+  and the southern [[dmt-containing-plants-united-states-halpern]] (Texas, Florida, Arizona)
 - **Habitat:** Arid and semi-arid environments, rocky slopes, coastal
   areas, and disturbed ground; intolerant of frost or prolonged
   waterlogging
@@ -110,7 +110,7 @@ The inner leaf gel contains over 75 potentially active constituents:
 | C-glycosylchromone | Chromone derivative | Anti-inflammatory |
 | Lectins | Proteins | Immunostimulatory |
 | Magnesium lactate | Mineral salt | Antihistamine (topical itch relief) |
-| Salicylic acid | Beta-hydroxy acid | Anti-inflammatory, keratolytic |
+| [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]] | Beta-hydroxy acid | Anti-inflammatory, keratolytic |
 | Vitamins | A, C, E, B12 (trace), folic acid | Antioxidant, skin health |
 | Minerals | Calcium, magnesium, zinc, selenium | Various metabolic roles |
 
@@ -124,7 +124,7 @@ products containing aloin is generally considered safe.
 
 ### Topical Uses (Strong Evidence)
 
-- **Burn treatment:** Multiple clinical trials support aloe gel for
+- **Burn treatment:** Multiple [[mushroom-cancer-clinical-trials-overview]] support aloe gel for
   first- and second-degree thermal burns, showing faster healing and
   reduced pain compared to conventional treatments (silver sulfadiazine)
 - **Wound healing:** Promotes fibroblast proliferation, collagen

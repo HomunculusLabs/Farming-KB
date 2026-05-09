@@ -5,14 +5,15 @@ updated: 2026-04-12
 type: entity
 tags: [person, mycology, psychopharmacology, academia]
 sources:
-  - raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
   - raw/papers/magic-mushrooms-around-the-world-gartz.md
   - raw/papers/magic-mushrooms-around-the-world-by-jochen-garten.md
 ---
 
 # Steven H. Pollock
 
-Steven H. Pollock (1940s–1981) was an American physician and mycologist who made significant contributions to the discovery and taxonomy of psilocybin-containing mushrooms. His work led to the identification of several new species and he is credited as the co-discoverer of *Psilocybe tampanensis* alongside [[gary-lincoff]].
+Steven H. Pollock (1940s–1981) was an American physician and mycologist who made significant contributions to the discovery and taxonomy of psilocybin-containing mushrooms. His work led to the identification of several new species and he is credited as the co-discoverer of *[[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]]* alongside [[gary-lincoff]].
 
 ## Medical and Scientific Background
 
@@ -22,19 +23,19 @@ As a physician, Pollock brought a clinical perspective to mycology that was rela
 
 ### Psilocybe tampanensis
 
-Pollock's most notable contribution was the co-discovery of *Psilocybe tampanensis*, found during a mushroom hunt near Tampa, Florida during a taxonomic conference. The species is notable for being one of the few psilocybin mushrooms known to produce sclerotia (truffle-like underground masses), which have become significant in cultivation. The species was named after its type locality near Tampa and formally described by Guzmán & Pollock.
+Pollock's most notable contribution was the co-discovery of *Psilocybe tampanensis*, found during a mushroom hunt near Tampa, Florida during a taxonomic conference. The species is notable for being one of the few [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] known to produce sclerotia (truffle-like underground masses), which have become significant in cultivation. The species was named after its type locality near Tampa and formally described by Guzmán & Pollock.
 
-*P. tampanensis* sclerotia form after three to twelve weeks, preferably in the dark, on a substrate of rye grass seeds. All known strains of the species originate from the single original collection — it has never been found in the wild again since Pollock's initial discovery. See [[sclerotia-cultivation]] for cultivation methods.
+*P. tampanensis* sclerotia form after three to twelve weeks, preferably in the dark, on a substrate of rye grass seeds. All known strains of the species originate from the single original collection — it has never been found in the wild again since Pollock's initial discovery. See [[sclerotia-cultivation]] for [[synthetic-log-cultivation-methods-guide]].
 
 ### Other Contributions
 
 - Collaborated with [[paul-stamets]] and other mycologists of the era on species identification and cultivation research
 - Conducted cultivation experiments including outdoor cultivation of species in Texas gardens during the 1970s
-- His taxonomic work contributed to understanding psilocybin mushroom distribution in North America
+- His taxonomic work contributed to understanding psilocybin [[psilocybin-mushroom-distribution-worldwide]] in North America
 
 ## Amanita Quest in Alaska
 
-According to [[andy-letcher]]'s *Shroom: A Cultural History of the Magic Mushroom*, Pollock traveled to Alaska in the early 1970s on an Amanita muscaria quest. He found that the mushrooms were being "enthusiastically used by young enthusiasts" and discovered an abundant supply in the woods around Anchorage. His experiments with the mushrooms produced mixed results: an interspersed experience with fresh mushrooms, and a "pleasant feeling of intoxication" with dried specimens. [[jonathan-ott]], reflecting on this period, considered the amanita users a minority.
+According to [[andy-letcher]]'s *Shroom: A [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the Magic Mushroom*, Pollock traveled to Alaska in the early 1970s on an [[allegro-amanita-muscaria-properties-and-pharmacology]] quest. He found that the mushrooms were being "enthusiastically used by young enthusiasts" and discovered an abundant supply in the woods around Anchorage. His experiments with the mushrooms produced mixed results: an interspersed experience with fresh mushrooms, and a "pleasant feeling of intoxication" with dried specimens. [[jonathan-ott]], reflecting on this period, considered the amanita users a minority.
 
 ## Death and Legacy
 
@@ -107,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

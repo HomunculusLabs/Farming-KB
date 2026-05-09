@@ -1,5 +1,5 @@
 ---
-title: McKenna on the Rediscovery of Mexican Magic Mushrooms
+title: McKenna on the Rediscovery of Mexican guzman-magic-mushrooms-african-species
 created: 2026-04-28
 tags:
   - mckenna
@@ -29,8 +29,8 @@ psilocybin-containing mushroom to be brought to scientific attention.
 McKenna emphasises the significance of this moment: "Thus Reko initiated the study of
 the indole hallucinogens of Mexico and two chains of research and discovery, which would
 eventually be reunited when Albert Hofmann, the Swiss pharmaceutical chemist,
-characterized both compounds in his laboratory." The morning glory seeds and the
-psilocybin mushrooms, though botanically unrelated, shared a common biochemical family —
+characterized both compounds in his laboratory." The [[golden-guide-morning-glory-and-ololiuqui]] seeds and the
+[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]], though botanically unrelated, shared a common biochemical family —
 the indole alkaloids — and would ultimately be connected through Hofmann's work at
 Sandoz Laboratories.
 

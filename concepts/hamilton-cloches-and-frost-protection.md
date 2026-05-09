@@ -1,5 +1,5 @@
 ---
-title: Cloches and Frost Protection in Organic Gardening
+title: hamilton cloches and [[cervantes-microclimate-frost-protection]] Protection in hamilton-geoffhamilton-nick-organic-gardening-companion-planting
 created: 2026-04-28
 tags: [cloches, frost-protection, season-extension, organic-gardening, hamilton]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: concept
 
 # Cloches and Frost Protection in Organic Gardening
 
-In temperate climates, the earliest crops have to be grown in a heated
+[[query-how-to-grow-and-use-oca-in-temperate-climates]], the earliest crops have to be grown in a heated
 [[hamilton-deep-bed-system]]
 - [[extending-growing-season]]
 - [[hamilton-vegetable-planning-rotation]]
@@ -65,7 +65,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -143,4 +143,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

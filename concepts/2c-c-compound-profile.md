@@ -27,20 +27,20 @@ The subjective effects of 2C-C can be organised by category:
 
 ## Pharmacology in Detail
 
-2C-C acts primarily as a serotonin 5-HT2A receptor agonist, the mechanism shared by all classical psychedelics. The 2,5-dimethoxy substitution pattern on the phenethylamine ring is critical for 5-HT2A affinity -- this pattern is conserved across the entire 2C series and the DOx series. The 4-chloro substituent provides moderate lipophilicity and receptor affinity, positioning 2C-C between the more potent 2C-B (4-bromo) and the less potent 2C-F (4-fluoro) in terms of receptor binding.
+2C-C acts primarily as a serotonin 5-HT2A receptor agonist, the mechanism shared by all classical psychedelics. The 2,5-dimethoxy substitution pattern on the phenethylamine ring is critical for 5-HT2A affinity -- this pattern is conserved across the entire 2C series and the DOx series. The 4-chloro substituent provides moderate lipophilicity and receptor affinity, positioning 2C-C between the more potent 2C-B (4-bromo) and the less potent 2C-F (4-fluoro) in terms of [[tihkal-receptor-binding-serotonin]].
 
 Additional receptor interactions likely include 5-HT2C (contributing to mild appetite suppression), 5-HT1A (potentially contributing to the relaxed, anxiolytic quality), and trace affinity for adrenergic receptors. Unlike the DOx compounds (which have an alpha-methyl group), 2C-C is not a substrate for monoamine oxidase (MAO), giving it a shorter duration of action.
 
 The lack of an alpha-methyl group is pharmacologically significant. This group in the DOx series protects against MAO degradation, extending duration to 12-24 hours and adding significant stimulant character. Without it, 2C-C is metabolised relatively quickly, accounting for its 4-8 hour duration and gentle stimulation profile. See [[2c-b-compound-profile]] remains the most popular and widely available 2C compound, users seeking a gentler, more relaxing experience often prefer 2C-C. [[mdma-compound-profile]]) due to the theoretical risk of serotonin syndrome. Avoid combining with alcohol or stimulants.
 - **Health contraindications**: Individuals with a personal or family history of psychosis, severe cardiovascular conditions, or who are pregnant or breastfeeding should avoid all psychedelics including 2C-C.
-- **Hydration**: Maintain normal fluid intake. 2C-C is not typically dehydrating, but altered states of consciousness can lead to forgetting to drink water.
+- **Hydration**: Maintain normal fluid intake. 2C-C is not typically dehydrating, but [[weil-the-natural-mind-altered-states-normalcy]] of consciousness can lead to forgetting to drink water.
 
 ## Legal Status by Jurisdiction
 
-- **United States**: Schedule I under the Federal Analog Act. 2C-C is not separately scheduled but is treated as a controlled substance analog of 2C-B.
+- **[[dmt-containing-plants-united-states-halpern]]**: Schedule I under the Federal Analog Act. 2C-C is not separately scheduled but is treated as a controlled substance analog of 2C-B.
 - **United Kingdom**: Class A under the Misuse of Drugs Act, as a phenethylamine substituted in the 2-position. Covered by the generic tryptamine/phenethylamine catch-all provisions.
 - **European Union**: Many EU member states have scheduled the 2C family under generic legislation or individual scheduling. Germany classifies it under BtMG Anlage I.
-- **Canada**: Schedule II under the Controlled Drugs and Substances Act.
+- **Canada**: Schedule II under the Controlled Drugs and [[controlled-substances-act-and-psychedelic-research]].
 - **Australia**: Schedule 9 (Prohibited Substance). Australia was an early adopter of 2C family scheduling, adding many 2C compounds in the early 2000s.
 - **Netherlands**: Despite the Netherlands' permissive approach to some substances, 2C-C is listed as a Schedule I hard drug under the Opium Law.
 - **Japan**: Controlled under the Pharmaceutical Affairs Law. Japan has been particularly aggressive in scheduling novel psychoactive substances.
@@ -62,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -104,4 +104,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

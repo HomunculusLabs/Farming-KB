@@ -12,7 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-Cannabis has been extensively researched for the treatment of nausea and vomiting, particularly chemotherapy-induced nausea and vomiting (CINV). With the highest CHI value among all categories in the Cannabis Health Index, it represents one of the most well-documented therapeutic applications of medical cannabis.
+Cannabis has been extensively researched for the treatment of nausea and vomiting, particularly chemotherapy-induced nausea and vomiting (CINV). With the highest CHI value among all categories in the [[blesching-cannabis-health-index-autoimmune-conditions]], it represents one of the most well-documented therapeutic applications of medical cannabis.
 
 ## CHI Summary
 
@@ -22,7 +22,7 @@ Cannabis has been extensively researched for the treatment of nausea and vomitin
 |-----------|-----------------|--------------|-----------|
 | Nausea/Vomiting (General) | 27 | 111 | 4.11 |
 | Chemotherapy-Induced (CINV) | 24 | 104 | 4.33 |
-| Morning Sickness | 1 | 3 | 3.00 |
+| [[cho-morning-sickness-and-plant-cross-over-period]] | 1 | 3 | 3.00 |
 | Motion Sickness | 2 | 4 | 2.00 |
 
 The CINV category has one of the highest CHI values in the entire Cannabis Health Index, reflecting strong clinical evidence.
@@ -76,12 +76,12 @@ The endocannabinoid system is intimately involved in nausea regulation:
 - **Anandamide** levels in the brainstem correlate with nausea states
 - CB1 receptor antagonists (like rimonabant) actually induce nausea -- confirming the system's natural anti-nausea role
 - CBD may enhance the anti-nausea effects of THC while reducing psychoactive side effects
-- Beta-caryophyllene (dietary cannabinoid from black pepper, cloves, cinnamon) activates CB2 receptors and may contribute to anti-nausea effects
+- Beta-caryophyllene (dietary cannabinoid from [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], cloves, cinnamon) activates CB2 receptors and may contribute to anti-nausea effects
 
 ## Practical Considerations
 
 ### Strain Selection
-Indica-dominant strains are generally preferred for nausea due to their antiemetic terpene profiles (high myrcene, linalool). The entourage effect of whole-plant cannabis appears more effective than isolated THC.
+Indica-dominant strains are generally preferred for nausea due to their antiemetic [[cannabis-terpene-profiles-sativa]] (high myrcene, linalool). The [[cannabis-terpene-entourage-effect-profiles]] of whole-plant cannabis appears more effective than isolated THC.
 
 ### Administration Routes
 - Vaporization provides rapid relief for acute nausea
@@ -100,5 +100,5 @@ Start low and go slow. Antiemetic effects typically manifest at lower doses than
 ## Source
 
 Uwe Blesching, The Cannabis Health Index (2015), Sections: Vomiting, Chemotherapy-Induced Nausea and Vomiting, Morning Sickness, Motion Sickness
-- [[cannabis-beta-caryophyllene-dietary-cannabinoid]]
+- [[beta-caryophyllene-dietary-cannabinoid]]
 - [[cannabis-for-nausea-and-appetite-stimulation]]

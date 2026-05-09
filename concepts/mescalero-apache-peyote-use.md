@@ -1,5 +1,5 @@
 ---
-title: "Mescalero Apache Peyote Use and Rejection"
+title: "Mescalero mescalero apache peyote use Use and Rejection"
 created: "2026-04-16"
 updated: "2026-04-16"
 type: concept
@@ -17,15 +17,15 @@ The Mescalero, Chiricahua, and Lipan Apache tribes of the Mescalero Indian Reser
 
 The adoption and subsequent rejection of peyote by the Mescalero Apache represents one of the most unusual cases in the ethnographic record of hallucinogenic plant use. Most societies that adopt a psychoactive plant into their ritual practice maintain that practice over long periods, as demonstrated by the continued use of ayahuasca among Amazonian groups like the [[campa-ayahuasca-ceremony]]. The Mescalero case is a rare documented instance of deliberate abandonment.
 
-The timing of peyote adoption around 1870 coincides with the traumatic period of Apache confinement to reservations, when traditional lifeways were being systematically dismantled. It is likely that peyote was initially embraced as a means of maintaining access to the supernatural during a period of cultural crisis — a pattern observed cross-culturally in [[shamanic-trance-cross-cultural-patterns]].
+The timing of [[mescalero-apache-shamanism-peyote-adoption-rejection]] around 1870 coincides with the traumatic period of Apache confinement to reservations, when traditional lifeways were being systematically dismantled. It is likely that peyote was initially embraced as a means of maintaining access to the supernatural during a period of cultural crisis — a pattern observed cross-culturally in [[shamanic-trance-cross-cultural-patterns]].
 
-The Boyers and Basehart's psychoanalytic interpretation of the Mescalero case, while shaped by the theoretical frameworks of mid-century American psychiatry, raises enduring questions about the relationship between personality structure, cultural norms, and the outcome of group hallucinogen use that remain relevant to contemporary psychedelic research.
+The Boyers and Basehart's psychoanalytic interpretation of the Mescalero case, while shaped by the theoretical frameworks of mid-century American psychiatry, raises enduring questions about the relationship between personality structure, cultural norms, and the outcome of group hallucinogen use that remain relevant to contemporary [[mckenna-suppression-psychedelic-research-lsd-therapy]].
 
 ## Modern Relevance
 
-The Mescalero case provides a crucial corrective to the romanticization of indigenous psychedelic use that pervades much of the popular and scholarly literature. While the harmonious communal use of peyote in the Native American Church is often cited as evidence of the inherently beneficial social effects of psychedelics, the Mescalero experience demonstrates that the same substance can produce profoundly different social outcomes depending on the cultural and psychological context.
+The Mescalero case provides a crucial corrective to the romanticization of indigenous psychedelic use that pervades much of the popular and scholarly literature. While the harmonious communal use of peyote in the [[halpern-sacramental-peyote-and-native-american-church]] Church is often cited as evidence of the inherently beneficial social effects of psychedelics, the Mescalero experience demonstrates that the same substance can produce profoundly different social outcomes depending on the cultural and psychological context.
 
-Contemporary researchers studying group psychedelic therapy have increasingly recognized the importance of set, setting, and group dynamics in determining therapeutic outcomes. The Mescalero case illustrates these principles dramatically: the introduction of peyote into a cultural context characterized by repressed aggression, competitive shamanic rivalries, and specific child-rearing practices produced outcomes diametrically opposed to those observed in more culturally supportive settings.
+Contemporary researchers studying group [[metzner-psycholytic-psychedelic-therapy-models]] have increasingly recognized the importance of set, setting, and group dynamics in determining therapeutic outcomes. The Mescalero case illustrates these principles dramatically: the introduction of peyote into a cultural context characterized by repressed aggression, competitive shamanic rivalries, and specific child-rearing practices produced outcomes diametrically opposed to those observed in more culturally supportive settings.
 
 The Mescalero's conceptualization of peyote as intrinsically evil — a unique classification among their spirit powers — offers a powerful case study in how societies make sense of challenging psychoactive experiences. This framework of understanding has parallels in Western cautionary narratives about psychedelics and deserves careful comparative analysis.
 
@@ -113,4 +113,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

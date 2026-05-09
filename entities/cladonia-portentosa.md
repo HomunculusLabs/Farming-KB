@@ -13,7 +13,7 @@ updated: 2026-05-08
 sources:
   - Ahti, T. (1961). "Taxonomic studies on reindeer lichens (Cladonia, subg. Cladina)." Annales Botanici Societatis Zoologicae Botanicae Fennicae, 32(1), 1-160.
   - Hammer, S. (1995). "Cladonia." In: Purvis, O.W. et al. (eds), The Lichen Flora of Great Britain and Ireland. London: Natural History Museum.
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of North America. Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of [[psilocybin-north-america-pacific-northwest]]. Yale University Press.
   - Wirth, V. (2010). Flechten Baden-Württembergs, Teil 1-2. Eugen Ulmer Verlag.
   - Crittenden, P.D. (2000). "Aspects of the ecology of mat-forming lichens." Rangifer, 20(2-3), 83-90.
 ---
@@ -27,7 +27,7 @@ heathlands, bogs, and subarctic tundra throughout the Northern Hemisphere.
 
 The species is a significant component of reindeer and caribou winter forage
 across Fennoscandia and northern Russia. It is widely used as a bioindicator
-for atmospheric nitrogen deposition and habitat quality in European
+for atmospheric [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] and habitat quality in European
 conservation monitoring.
 
 ## Taxonomy and Morphology
@@ -72,7 +72,7 @@ with low vascular plant competition.
 
 The species is sensitive to eutrophication and declines rapidly in areas with
 elevated atmospheric nitrogen deposition, making it a useful indicator of
-air quality and habitat integrity.
+[[cervantes-air-quality-ventilation]] and habitat integrity.
 
 ## Ecology and Ecological Role
 
@@ -89,7 +89,7 @@ photosynthesis rapidly upon rehydration. This adaptation allows survival in
 exposed, wind-scoured tundra environments.
 
 The species contributes to soil formation through slow accumulation of
-organic matter and nitrogen fixation by associated cyanobacterial
+[[hamilton-composting-and-organic-matter-management]] and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] by associated cyanobacterial
 photobionts in some populations.
 
 Its sensitivity to nitrogen and sulphur dioxide has made it a standard
@@ -117,7 +117,7 @@ been developed into commercial applications.
 
 ## Bioactive Compounds
 
-The primary secondary metabolites of *C. portentosa* are **usnic acid** and
+The primary [[antifungal-secondary-metabolites-coprophilous-fungi]] of *C. portentosa* are **usnic acid** and
 **fumarprotocetraric acid**. Usnic acid is concentrated in the cortical
 layer and exhibits broad-spectrum antibacterial activity against both
 Gram-positive and Gram-negative bacteria.

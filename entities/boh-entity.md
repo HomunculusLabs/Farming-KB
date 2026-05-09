@@ -9,7 +9,7 @@ sources:
 ---
 # BOH
 
-**PIHKAL Entry #15** -- beta-Methoxy-3,4-methylenedioxyphenethylamine
+**[[2c-b-pihkal-entry-20]] #15** -- beta-Methoxy-3,4-methylenedioxyphenethylamine
 
 ## Chemical Name
 
@@ -45,7 +45,7 @@ Synthesized from piperonal via formation of 3,4-methylenedioxy-beta-nitrostyrene
 
 BOH is a member of the BOX family (Benzyl + Oxy prefix). The name follows the convention discussed in the BOD recipe, with RHS for homopiperonylamine as the simplest member of the Muni-Metro family. The demethylated homologue of BOH is BOHH, the methylenedioxy analogue of norepinephrine. BOH may hydrolytically open in the body to provide this neurotransmitter, acting as a "pro-drug" -- a compound not intrinsically active but metabolizing to provide an active drug.
 
-Shulgin noted an uncanny analogy between BOH and the [[mdma]] (both Schedule I in the US). The compound's rarity and lack of
+Shulgin noted an uncanny analogy between BOH and the mdma (both Schedule I in the US). The compound's rarity and lack of
 recreational use have kept it largely below regulatory attention.
 
 ## Cultural and Historical Significance
@@ -58,7 +58,7 @@ both for therapeutic and research applications.
 
 The analogy between BOH and a,O-DMS across the phenethylamine-tryptamine
 divide illustrates the deep structural and pharmacological connections
-between these two major classes of psychedelic compounds.
+between these two [[ascomycota-phylogeny-major-classes-lineages]] of psychedelic compounds.
 
 ## References and Bibliography
 - Shulgin, A. and Shulgin, A. (1991). PIHKAL: A Chemical Love Story. Transform Press.
@@ -87,4 +87,4 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+- [[4-ho-dpt-entity-tihkal]]

@@ -1,5 +1,5 @@
 ---
-title: "What Is Super Cropping and When Should You Do It?"
+title: "What Is cannabis-super-cropping-technique and When Should You Do It?"
 created: 2026-04-28
 tags: [query, cannabis, training, super-cropping, stress]
 date: 2026-04-25
@@ -14,7 +14,7 @@ type: query
 Super cropping is a high-stress training (HST) technique that involves
 deliberately softening and bending cannabis branches to create knuckle-like
 joints that strengthen the stem and redistribute growth hormones for a more
-even canopy. It should be performed during the vegetative stage when
+even canopy. It should be performed during the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] when
 branches are flexible enough to bend without snapping, typically 2 to 4
 weeks before switching to flowering. The technique increases yield by
 exposing more bud sites to light and promoting lateral branch development.
@@ -41,7 +41,7 @@ architecture differently.
 
 The wound response triggered by super cropping has benefits beyond canopy
 control. The thickened knuckle joints that form at bend points significantly
-increase the structural strength of the branch, which becomes important
+increase the [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]] of the branch, which becomes important
 during flowering when heavy buds can cause branches to sag or break. Plants
 that have been super cropped develop stronger support structures that can
 better handle the weight of dense colas. This natural strengthening effect
@@ -54,7 +54,7 @@ with a soft tie or plant wire if it is drooping severely. Avoid watering the
 plant from above or misting the damaged area for 24 to 48 hours to reduce
 the risk of infection at the wound site. Ensure the plant has adequate
 calcium and silicon in its nutrient regimen, as these minerals support cell
-wall repair and stem strengthening. The [[cannabis-pruning-and-defoliation-guide]] pages cover complementary
+wall repair and stem strengthening. The  pages cover complementary
 techniques that can be combined with super cropping for maximum canopy
 control.
 

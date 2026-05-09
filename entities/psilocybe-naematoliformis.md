@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  sources: []
 ---
 
 # Psilocybe naematoliformis
@@ -42,11 +42,11 @@ First described by Guzmán in 1979 from collections in the state of Veracruz, Me
 
 ## Similar Species
 
-Closely resembles *[[psilocybe-caerulescens]]*, which shares overlapping range in Mexico. Microscopic examination of cystidia and spore size is recommended for confident identification.
+Closely resembles *[[psilocybe-caerulescens]]*, which shares overlapping range in Mexico. [[fungal-microscopic-examination-mounting-media-techniques]] of cystidia and spore size is recommended for confident identification.
 
 ## Ethnobotanical Notes
 
-While not documented as a major ceremonial species, *P. naematoliformis* occurs in regions of Mexico with a long history of mushroom use among indigenous Nahua and other ethnic groups. It is likely that this species has been encountered alongside better-known psychoactive fungi during traditional foraging, though specific ethnographic accounts are absent from the literature.
+While not documented as a major ceremonial species, *P. naematoliformis* occurs in regions of Mexico with a long history of mushroom use among indigenous Nahua and other ethnic groups. It is likely that this species has been encountered alongside better-known [[cattle-dispersal-psychoactive-fungi-australia]] during traditional foraging, though specific ethnographic accounts are absent from the literature.
 
 ## Conservation Status
 
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

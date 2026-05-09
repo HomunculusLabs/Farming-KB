@@ -1,5 +1,5 @@
 ---
-title: "Gartz Pluteus salicinus: Little-Known Wood-Inhabiting Psilocybin Species"
+title: "Gartz gartz pluteus salicinus wood inhabiting psilocybin: Little-Known Wood-Inhabiting Psilocybin Species"
 created: 2026-04-28
 tags: [pluteus-salicinus, gartz, psilocybin, psilocin, wood-inhabiting, pluteaceae, rare-mushroom, mycology]
 date: 2026-04-25
@@ -15,7 +15,7 @@ type: concept
 Pluteus salicinus is a little-known wood-inhabiting mushroom that
 produces significant quantities of psilocybin and, unusually, the
 highest concentrations of psilocin among psychoactive species in some
-samples. Documented by Jochen Gartz in *Magic Mushrooms Around the
+samples. Documented by Jochen Gartz in *[[guzman-magic-mushrooms-african-species]] Around the
 World*, this member of the Pluteaceae family grows saprophytically on
 decaying wood and stumps of various deciduous trees. Despite being
 described in Europe approximately 200 years ago, it was not until 1981
@@ -26,7 +26,7 @@ that its psychoactive properties were first chemically confirmed.
 Within the Pluteaceae family, there are about 45 European species of
 the genus Pluteus, some of which produce psilocybin. Historically, the
 Pluteus species were classified as belonging to the Amanitaceae
-family, which also includes the "death cap" and the fly agaric
+family, which also includes the "[[query-how-to-identify-and-avoid-the-death-cap-amanita-phalloides]]" and the [[amanita-muscaria-fly-agaric-history-and-pharmacology]]
 mushroom, both of the genus Amanita. Unlike all the other psychoactive
 mushrooms described in Gartz's work, the Pluteus species are
 classified as light-spored mushrooms, because of their rose-colored
@@ -97,7 +97,7 @@ Dubener marshlands in Eastern Germany confirmed only about 0.2 to
 ## Continental Variation
 
 Stijve and Bonnard examined original material collected by Saupe in
-the United States and discovered that the American mushrooms were not
+the [[dmt-containing-plants-united-states-halpern]] and discovered that the American mushrooms were not
 identical to those found in Europe. They also no longer contained any
 alkaloids. These findings show that mushrooms of the same name from
 different continents are not necessarily identical. In contrast to the
@@ -107,7 +107,7 @@ only traces of psilocin at most.
 ## Biochemical Fingerprinting
 
 All other Pluteus species tested so far contained urea, a substance
-that can also be found in the [[pluteus-salicinus]]
+that can also be found in the [[pluteus-saliginus]]
 
 - [[gartz-psilocybin-potency-and-alkaloid-variations]] - Psilocybin
   potency variations across species

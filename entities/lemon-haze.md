@@ -18,9 +18,9 @@ updated: 2026-04-28
 sources:
   - Clarke, R.C. & Merlin, M.D. (2013). Cannabis: Evolution and Ethnobotany. University of California Press.
   - Hazekamp, A. et al. (2016). "The Cannabis Systematics Review: A biologically comprehensive approach." Cannabis and Cannabinoid Research, 1(1), 34-48.
-  - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency Over the Last 2 Decades." Biological Psychiatry, 79(7), 613-619.
+  - ElSohly, M.A. et al. (2016). "Changes in [[green-cannabis-potency-maximizing]] Over the Last 2 Decades." Biological Psychiatry, 79(7), 613-619.
   - https://www.leafly.com/strains/lemon-haze (strain profile data)
-  - Mudge, E.M. et al. (2018). "Cannabinoid and terpene content across Cannabis sativa L. cultivars." Journal of Cannabis Research.
+  - Mudge, E.M. et al. (2018). "Cannabinoid and terpene content across [[comparison-cannabis-sativa-vs-cannabis-indica]] L. cultivars." Journal of Cannabis Research.
 ---
 
 # Lemon Haze
@@ -111,3 +111,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[ghost-train-haze]]

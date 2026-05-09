@@ -1,5 +1,5 @@
 ---
-title: "Psilocybin and Psilocin Chemistry: Serotonin Relationship and Pharmacological Mechanism"
+title: "Psilocybin and psilocybin-psilocin-chemistry-and-pharmacology-emcdda: Serotonin Relationship and Pharmacological Mechanism"
 source: "carolina-mushrooms_08qxp.md"
 tags: [pharmacology, psilocybin, psilocin, serotonin, 5-HT2A, tryptamines, chemistry]
 created: 2026-05-08
@@ -12,7 +12,7 @@ created: 2026-05-08
 Psilocybin and psilocin are the primary psychoactive compounds in hallucinogenic
 mushrooms. They belong to the indolealkylamine (tryptamine) class, the same chemical
 family as serotonin, LSD, and DMT. Understanding their chemistry and pharmacology is
-essential for explaining both their effects and their relative safety profile compared
+essential for explaining both their effects and their relative [[cannabis-safety-profile-and-overdose-risk]] compared
 to other hallucinogenic substances.
 
 ## Chemical Classification
@@ -44,7 +44,7 @@ pharmacological activity.
   that acts on serotonin receptors
 
 ### Baeocystin and Norbaeocystin
-Two additional tryptamines may be present in psilocybin mushrooms:
+Two additional tryptamines may be present in [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]:
 - **Baeocystin**: 4-Phosphoryloxy-N-methyltryptamine (4-PO-NMT)
 - **Norbaeocystin**: 4-Phosphoryloxytryptamine (4-PO-T)
 
@@ -100,7 +100,7 @@ structures.
 ## Psilocybin vs. Amanita Chemistry
 
 The EMCDDA (2006) emphasized that psilocybin-containing mushrooms are chemically
-distinct from Amanita muscaria and related species:
+distinct from [[allegro-amanita-muscaria-properties-and-pharmacology]] and related species:
 
 | Property | Psilocybin Mushrooms | Amanita Species |
 |----------|---------------------|-----------------|
@@ -113,7 +113,7 @@ distinct from Amanita muscaria and related species:
 
 This distinction is clinically important because the entirely different receptor
 mechanisms, toxicity profiles, and risk patterns mean that these two groups of
-"magic mushrooms" should not be conflated in harm reduction messaging or policy.
+"[[guzman-magic-mushrooms-african-species]]" should not be conflated in harm reduction messaging or policy.
 
 ## Terminology: Hallucinogenic vs. Psychedelic
 
@@ -125,7 +125,7 @@ The EMCDDA noted the terminological debate in the scientific literature:
   or "mind-revealing"; carries positive connotations of expanded consciousness
 - **"Psychotomimetic"**: Earlier clinical term meaning "psychosis-mimicking"; now
   considered inaccurate and pejorative
-- **"Psychodysleptic"**: "Mind-disrupting"; used in some European clinical contexts
+- **"Psychodysleptic"**: "Mind-disrupting"; used in some [[metzner-sandoz-psycholytic-therapy-european-clinical-model]] contexts
 
 The effects are more accurately described as perceptual distortions than true
 hallucinations. Changes in thought, mood, and self-awareness are equally important
@@ -133,6 +133,9 @@ effects that extend beyond purely perceptual phenomena.
 
 ## See Also
 
-- [[neurotropic-fungi-four-chemical-groups-classification-guzman-2000]]
+- neurotropic-fungi-four-chemical-groups-classification-guzman-2000
 - [[amanita-muscaria-chemistry-and-pharmacology]]
-- [[emcdda-hallucinogenic-mushroom-european-species-distribution]]
+- emcdda-hallucinogenic-mushroom-european-species-distribution
+- [[psilocybin-psilocin-chemistry-and-pharmacology-emcdda]]
+- [[psilocybin-mushrooms]]
+- [[amanita-muscaria]]

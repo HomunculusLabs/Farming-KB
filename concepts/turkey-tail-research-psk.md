@@ -8,7 +8,7 @@ sources: []
 ---
 # Turkey Tail Research - PSK and PSP
 
-Trametes versicolor (formerly Coriolus versicolor), known as the Turkey Tail mushroom, is arguably the most extensively researched medicinal mushroom in clinical oncology. Two protein-bound polysaccharides isolated from this fungus -- PSK (Krestin) and PSP -- have undergone decades of clinical trials and have become standard adjunct cancer therapies in Asia. PSK once accounted for more than 25% of total national expenditure for anti-cancer agents in Japan.
+[[staycare-trametes-versicolor-bioremediation-applications]] (formerly Coriolus versicolor), known as the Turkey Tail mushroom, is arguably the most extensively researched [[gourmet-medicinal-mushroom-casing-layer-techniques]] in clinical oncology. Two protein-bound polysaccharides isolated from this fungus -- PSK (Krestin) and PSP -- have undergone decades of clinical trials and have become standard adjunct cancer therapies in Asia. PSK once accounted for more than 25% of total national expenditure for anti-cancer agents in Japan.
 
 ## The Organism
 
@@ -40,7 +40,7 @@ PSK has been used as immunotherapy for more gastric cancer patients than any oth
 PSP was isolated in China in 1983 from Trametes versicolor mycelial cultures. PSP differs from PSK in its sugar composition: PSP lacks fucose and contains arabinose and rhamnose instead. Both have molecular weights of approximately 100,000 daltons. PSP may contain at least four discrete molecules, all true proteoglycans.
 
 ### Immunomodulatory Effects
-PSP has been extensively studied for immune modulation:
+PSP has been extensively studied for [[cancer-immune-modulation-mechanisms]]:
 
 - **Phagocytosis**: Oral or intraperitoneal PSP increased carbon clearance rate in mice, indicating enhanced phagocytic function
 - **T-cell activation**: Concentrations above 100 ug/ml increased T-lymphocyte proliferation by 1.5-4 times; PSP augmented T-helper cell (CD4+) activation and increased CD4+/CD8+ ratio
@@ -58,7 +58,7 @@ PSP clinical trials have been conducted primarily in China:
 ## Mechanism of Action
 
 Both PSK and PSP function as [[cancer-medicinal-mushrooms-immune-modulation-beta-glucans]] because its active compounds (PSK and PSP) have undergone more extensive clinical trials than those of any other fungal species.
-While [[cancer-maitake-d-fraction]] (Grifola frondosa) have shown promising immunomodulatory effects in preclinical and early clinical studies, neither has accumulated the volume of Phase III clinical trial data that PSK has in gastric and colorectal cancer.
+While [[cancer-maitake-d-fraction]] ([[maitake-grifola-frondosa-comprehensive-profile]]) have shown promising immunomodulatory effects in preclinical and early clinical studies, neither has accumulated the volume of Phase III clinical trial data that PSK has in gastric and colorectal cancer.
 [[cordyceps-research-cancer]] has demonstrated anti-tumour effects in preclinical studies.
 The key distinction of turkey tail compounds is the combination of extensive human clinical evidence with an extremely favourable safety profile, making them perhaps the best-supported medicinal mushroom preparations for integration into conventional cancer treatment protocols.
 
@@ -69,9 +69,9 @@ Gut microbiome studies have shown that PSK and PSP act as prebiotics, promoting 
 The immunomodulatory effects of both compounds may be partially mediated through these microbiome changes, as gut-associated lymphoid tissue (GALT) represents the body's largest immune organ.
 Antiviral properties of PSP have been investigated, with studies showing inhibitory effects against HIV replication in vitro and potential activity against human papillomavirus (HPV), the virus responsible for most cervical cancers.
 In women with HPV, a 2014 clinical trial by Showalter et al. found that daily turkey tail supplementation increased the rate of HPV clearance compared to placebo.
-Anti-inflammatory effects of PSK have been documented in models of inflammatory bowel disease and rheumatoid arthritis, attributed to modulation of NF-κB signalling pathways and reduction of pro-inflammatory cytokines including TNF-alpha and IL-6.
+Anti-inflammatory effects of PSK have been documented in models of [[blesching-cannabis-inflammatory-bowel-disease]] disease and rheumatoid arthritis, attributed to modulation of NF-κB signalling pathways and reduction of pro-inflammatory cytokines including TNF-alpha and IL-6.
 Research into PSK's effects on gut-brain axis communication is an emerging frontier, with preliminary studies suggesting immunomodulation in the gut may influence systemic and neurological inflammatory states.
-The combination of immune activation, prebiotic effects, antiviral properties, and anti-inflammatory activity positions turkey tail as one of the most versatile medicinal mushrooms currently under investigation.
+The combination of immune activation, prebiotic effects, antiviral properties, and anti-inflammatory activity positions turkey tail as one of the most versatile [[cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides]] currently under investigation.
 
 Ongoing Phase III trials are expected to further clarify the optimal dosing, timing, and patient populations for PSK and PSP in oncology and immunology.
 

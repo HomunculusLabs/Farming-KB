@@ -12,7 +12,7 @@ tags: [cannabis]
 
 ## Overview
 
-Cannabis butter (cannabutter) is a foundational ingredient for making cannabis edibles. According to Cervantes, cannabutter is simple to make, retains about 80 percent of the cannabinoids present in the original foliage, and can be processed in large batches for storage in the refrigerator or freezer. The psychoactive cannabinoids dissolve in butter, making them available for absorption by the body when consumed orally.
+[[cervantes-cannabis-butter-cooking]] (cannabutter) is a foundational ingredient for making [[oner-cannabis-edibles-infusion-dosing]]. According to Cervantes, cannabutter is simple to make, retains about 80 percent of the cannabinoids present in the original foliage, and can be processed in large batches for storage in the refrigerator or freezer. The psychoactive cannabinoids dissolve in butter, making them available for absorption by the body when consumed orally.
 
 ## Scientific Basis
 
@@ -77,7 +77,7 @@ Well-made cannabis oil is extremely potent, often registering more than 70 perce
 
 ## Reference
 
-For more complete information on cannabis extraction, Cervantes references "The Marijuana Herbal Cookbook" by Tom Flowers (Flowers Publishing, 1995).
+For more complete information on [[comparison-cannabis-extraction-basics-vs-extraction-methods]], Cervantes references "The Marijuana Herbal Cookbook" by Tom Flowers (Flowers Publishing, 1995).
 
 ## See Also
 

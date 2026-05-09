@@ -6,7 +6,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Mudge, E. et al. Cannabis: Evolution and Ethnobotany. University of California Press, 2016."
-  - "ElSohly, Mahmoud A. et al. 'Changes in Cannabis Potency Over the Last Two Decades.' Clinical Pharmacology & Therapeutics, 2016."
+  - "ElSohly, Mahmoud A. et al. 'Changes in [[green-cannabis-potency-maximizing]] Over the Last Two Decades.' Clinical Pharmacology & Therapeutics, 2016."
   - "Leafly Strain Database - ACDC - https://www.leafly.com/strains/acdc"created: 2026-05-07
 
 created: 2026-05-07
@@ -34,7 +34,7 @@ ACDC is a phenotype of **Cannatonic**, itself a cross between **MK Ultra** and *
 
 ### Genetic Background
 
-The Cannatonic lineage brings together the heavy indica genetics of MK Ultra (itself a cross of G13 and OG Kush) with the sativa-dominant G13 Haze. The ACDC phenotype represents a rare genetic expression where CBD synthase enzymes dominate over THC synthase during cannabinoid biosynthesis. This expression is controlled by specific alleles at the cannabinoid synthase gene locus, making ACDC a valuable genetic resource for CBD breeding programs.
+The Cannatonic lineage brings together the heavy indica genetics of MK Ultra (itself a cross of G13 and OG Kush) with the sativa-dominant G13 Haze. The ACDC phenotype represents a rare genetic expression where CBD synthase enzymes dominate over THC synthase during [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]]. This expression is controlled by specific alleles at the cannabinoid synthase gene locus, making ACDC a valuable genetic resource for CBD breeding programs.
 
 ## Key Characteristics
 
@@ -43,7 +43,7 @@ The Cannatonic lineage brings together the heavy indica genetics of MK Ultra (it
 - **Buds**: Medium to large, dense but not excessively compact. Light to medium green with occasional yellowish tones.
 - **Trichomes**: Thick, frosty coating of crystalline trichomes visible even to the naked eye, reflecting high cannabinoid content.
 - **Pistils**: Abundant orange to amber hairs (stigmas) weaving through the bud structure.
-- **Structure**: Elongated, slightly tapered cola formation characteristic of its sativa heritage.
+- **Structure**: Elongated, slightly tapered cola formation characteristic of its [[cannabis-landrace-sativa-heritage-varieties]].
 
 ### Aroma and Flavor Profile
 
@@ -61,7 +61,7 @@ The Cannatonic lineage brings together the heavy indica genetics of MK Ultra (it
 | **Humulene** | Low | Anti-inflammatory, appetite suppressant |
 | **Linalool** | Trace–Low | Calming, anxiolytic, sedative |
 
-The terpene profile of ACDC contributes to its reported entourage effects. Myrcene and linalool enhance the calming, relaxing properties, while α-pinene provides a subtle alertness that prevents the heavy sedation sometimes associated with indica-dominant strains.
+The terpene profile of ACDC contributes to its reported [[beta-caryophyllene-entourage-effects-cannabis]]. Myrcene and linalool enhance the calming, relaxing properties, while α-pinene provides a subtle alertness that prevents the heavy sedation sometimes associated with indica-dominant strains.
 
 ## Effects
 
@@ -69,7 +69,7 @@ The terpene profile of ACDC contributes to its reported entourage effects. Myrce
 
 - **Non-intoxicating**: Due to the extremely low THC content, ACDC does not produce the characteristic cannabis "high." Users report feeling clear-headed, functional, and normal.
 - **Anxiety and stress relief**: One of the most commonly reported benefits. The anxiolytic properties of CBD, combined with calming terpenes like myrcene and linalool, provide significant stress reduction.
-- **Pain management**: Effective for chronic pain, neuropathic pain, and inflammatory pain conditions including arthritis and fibromyalgia.
+- **[[cannabis-pain-management-protocols]]**: Effective for [[cannabis-chronic-pain-management]], neuropathic pain, and inflammatory pain conditions including arthritis and fibromyalgia.
 - **Anti-inflammatory**: Broad anti-inflammatory effects attributed to CBD and β-caryophyllene.
 - **Seizure management**: ACDC has been used by patients with treatment-resistant epilepsy, particularly Dravet syndrome and Lennox-Gastaut syndrome. It is often compared to pharmaceutical CBD formulations.
 - **Muscle spasms**: Relief from muscle spasms and spasticity associated with multiple sclerosis and other neurological conditions.
@@ -116,7 +116,6 @@ The strain has been used in the development of CBD-rich tinctures, oils, topical
 
 ## See Also
 
-- [[acdc-cannabis-strain]]
 - [[acdc-cannabis-strain]]
 
 See also: [[jock-horror]]

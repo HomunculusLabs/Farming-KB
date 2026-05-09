@@ -1,5 +1,5 @@
 ---
-title: Lichen Symbiosis
+title: comparison-lichen-symbiosis-vs-mycorrhizal-symbiosis
 created: 2026-04-28
 tags:
   - mycology
@@ -28,7 +28,7 @@ through both chemical and physical means. Their ability to survive
 desiccation and temperature extremes allows them to inhabit environments
 where few other organisms can survive.
 
-Lichens are also important bioindicators of air quality. Their
+Lichens are also important bioindicators of [[cervantes-air-quality-ventilation]]. Their
 sensitivity to sulfur dioxide and other atmospheric pollutants makes
 them reliable monitors of environmental health. The presence or absence
 of particular lichen species in an area can reveal the level of air
@@ -63,7 +63,7 @@ complete symbiotic partnership to be dispersed together.
 
 - [[fungal-spore-biology]](fungal-spore-biology.md)
 - [[fungal-symbiosis-with-plants]](fungal-symbiosis-with-plants.md)
-- [Fungal Pathogens and Human Disease]([[fungal-pathogens-human-disease]].md)
+- [[bloomfield-fungal-pathogens-and-parasites]] and Human Disease]([[fungal-pathogens-human-disease]].md)
 
 ## References
 
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

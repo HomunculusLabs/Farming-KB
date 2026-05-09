@@ -1,6 +1,6 @@
 ---
-title: Spectroscopic Characterization of Psilocin and Psilocybin
-aliases: [psilocin NMR data, psilocybin spectral properties, magic mushroom chemistry]
+title: Spectroscopic Characterization of tryptamine-chemistry-psilocin-and-psilocybin-synthesis
+aliases: [psilocin NMR data, psilocybin spectral properties, [[australian-magic-mushroom-common-names]] chemistry]
 tags: [chemistry, spectroscopy, psilocin, psilocybin, analytical chemistry]
 sources:
   - concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
@@ -13,7 +13,7 @@ created: 2026-05-08
 
 The complete spectroscopic characterization of psilocin and psilocybin by
 Shirota, Hakamata, and Goda provided essential reference data for the
-forensic identification of magic mushrooms. Since morphological and
+forensic identification of [[guzman-magic-mushrooms-african-species]]. Since morphological and
 microscopic identification of psilocybin-containing fungi is difficult without
 experts, chromatographic methods including TLC, GC, and HPLC are usually
 employed, and these require authentic standard compounds. The detailed

@@ -1,5 +1,5 @@
 ---
-title: Organic Fruit Growing Techniques
+title: hamilton organic fruit growing Growing Techniques
 created: 2026-04-26
 author: Geoff Hamilton
 sources: hamilton-geoffhamilton-nick_-organic-gardening.md
@@ -52,7 +52,7 @@ requiring sturdy support. Train on wires stretched between posts. They
 are generally disease-resistant and productive.
 
 ### Currants
-Black currants are grown as "stooled" plants -- cut all stems to ground
+[[query-how-to-grow-black-currants-at-home]] are grown as "stooled" plants -- cut all stems to ground
 level after planting to encourage new shoots from the base. Red and
 white currants are grown on a short "leg" of about 4-6 inches. They can
 also be grown as cordons: single cordons at 1 ft apart, double at 2 ft,
@@ -65,7 +65,7 @@ soap. Bush gooseberries need about 5 ft spacing.
 
 ### Blueberries
 Blueberries require acid soil (pH 4.5-5.5). If your soil is alkaline,
-grow them in containers filled with ericaceous compost, or build a raised
+grow them in containers filled with ericaceous compost, or [[query-how-to-build-a-raised-bed-garden]]
 bed filled with lime-free compost and sharp sand. Plant two or more
 varieties for cross-pollination.
 
@@ -96,7 +96,7 @@ Organic fruit growing uses the same pruning principles as conventional:
 
 Apply well-rotted manure or compost as a mulch around the base of fruit
 trees and bushes in spring. For heavy-cropping fruits, supplement with
-a high-potash organic fertilizer like rock potash or liquid kelp to
+a high-potash [[complete-organic-fertilizer-cof-recipe-solomon]] like rock potash or liquid kelp to
 improve flower and fruit quality. Avoid excessive nitrogen which promotes
 soft, pest-prone leaf growth.
 
@@ -112,8 +112,8 @@ catch winter moth.
 
 - Plant fruit trees and bushes during the dormant season (November to
   March)
-- Prepare planting holes generously, incorporating organic matter
-- Water newly planted fruit thoroughly during the first growing season
+- Prepare planting holes generously, incorporating [[hamilton-composting-and-organic-matter-management]]
+- Water newly planted fruit thoroughly during the first [[savory-growing-season-and-non-growing-season-management]]
 - Mulch around the base to retain moisture and suppress weeds
 - Net soft fruits as they ripen to protect from birds
 
@@ -121,5 +121,9 @@ See also: [[hamilton-organic-pest-control]],
 [[hamilton-organic-seed-saving-propagation]]
 
 ## See Also
+
+- [[hamilton-tomato-growing-organic]]
+- [[hamilton-cucumber-growing-organic]]
+- [[hamilton-rhubarb-growing-organic]]
 
 - [[hamilton-citrus-fruit-growing]]

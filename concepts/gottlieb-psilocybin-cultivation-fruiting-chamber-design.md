@@ -1,5 +1,5 @@
 ---
-title: Gottlieb Psilocybin Cultivation Fruiting Chamber Design
+title: Gottlieb gottlieb-psilocybin-cultivation-bulk-substrate-preparation Fruiting Chamber Design
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -16,19 +16,19 @@ monotubs, or Martha tents). The guide focuses primarily on liquid broth
 mycelium cultivation for alkaloid extraction. However, several elements of
 the guide's facility design and species-specific fruiting instructions
 provide relevant information about controlled environments for psilocybin
-mushroom cultivation.
+[[accessible-mushroom-cultivation-for-disabilities]].
 
 ## Gottlieb's Cultivation Room as Controlled Environment
 
 The guide's large-scale production facility (10 x 15 foot room) serves as
-a controlled growing environment incorporating several fruiting-relevant
+a controlled [[cannabis-growing-environment-setup]] incorporating several fruiting-relevant
 parameters:
 
 ### Lighting
 
 - Wide-spectrum fluorescent tubes evenly distributed across the ceiling.
 - 10-12 hours of light daily on a regular schedule.
-- Psilocybe cubensis does poorly in darkness; light is required for
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] does poorly in darkness; light is required for
   carpophore production.
 - White glossy enamel on walls, ceiling, and shelving improves light
   distribution and efficiency.
@@ -104,7 +104,7 @@ parameters:
 ## Limitations of the Guide
 
 Gottlieb's guide explicitly prioritizes mycelial extraction over fruiting:
-- No humidity control systems are described.
+- No [[cervantes-humidity-control-dehumidification]] systems are described.
 - No misting, fogging, or ultrasonic humidifier specifications.
 - No CO2 monitoring or fresh air exchange (FAE) rates.
 - No specific fruiting chamber construction (no plastic tubs, terrariums,
@@ -114,11 +114,12 @@ Gottlieb's guide explicitly prioritizes mycelial extraction over fruiting:
 For dedicated fruiting chamber design, Gottlieb directs readers to Oss and
 Oeric's "Psilocybin: Magic Mushroom Growers Guide" (1976), which he
 describes as "nicely illustrated with black and white and color photographs"
-and specifically focused on cultivating Stropharia cubensis carpophores.
+and specifically focused on cultivating [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] carpophores.
 
 ## See Also
 
-- [[gottlieb-psilocybin-cultivation-bulk-substrate-preparation]]
+- [[cultivation-facility-design]]
+
 - [[gottlieb-psilocybin-cultivation-bulk-substrate-preparation]]
 - [[mycelial-broth-alkaloid-production]]
 - [[gottlieb-psilocybin-cultivation-equipment-and-facilities]]

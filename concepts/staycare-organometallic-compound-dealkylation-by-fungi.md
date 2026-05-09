@@ -1,5 +1,5 @@
 ---
-title: "Organometallic Compound Dealkylation by Fungi"
+title: "staycare organometallic compound dealkylation by fungi Dealkylation by Fungi"
 created: 2026-04-28
 tags: [organometallic, dealkylation, bioremediation, organotin,
       organomercury, alkyllead, fungal-detoxification, heavy-metals]
@@ -27,14 +27,14 @@ alkylleads or organotins from water (Macaskie & Dean, 1987, 1990; Gadd,
 2000b). Degradation of organometallic compounds by fungi can proceed
 through two general pathways:
 
-1. **Direct biotic action**: [[fungal-enzymes-degradation]] that cleave metal-carbon bonds.
+1. **Direct biotic action**: fungal-enzymes-degradation that cleave metal-carbon bonds.
 2. **Indirect facilitation of abiotic degradation**: Fungi alter
    environmental conditions, such as pH, and excrete metabolites that
    promote the chemical breakdown of organometallic compounds.
 
 Both mechanisms contribute to the overall detoxification capacity of
-fungal communities in contaminated environments. The ability of fungi
-to modify their local microenvironment through metabolic activity
+[[biodiversity-of-fungi-soil-fungal-communities-agriculture]] in contaminated environments. The ability of fungi
+to modify their local microenvironment through [[arbuscule-isolation-metabolic-activity-assays]]
 creates conditions favorable for both biological and chemical
 transformation of organometallic pollutants.
 
@@ -99,7 +99,7 @@ largely phased out in many countries, residual contamination persists
 in soils and groundwater near former fuel storage and distribution
 sites. Trimethyllead, a degradation intermediate, is also of concern.
 
-Fungal degradation of alkyllead compounds has been demonstrated in
+[[singh-fungal-degradation-endocrine-disrupting-compounds]] of alkyllead compounds has been demonstrated in
 several fungal species:
 
 - An alkyllead-tolerant yeast isolated from contaminated environments
@@ -133,10 +133,13 @@ important implications for environmental management:
 ## Related
 
 - [[staycare-fungal-biosorption-of-heavy-metals]] — Broader treatment of
-  fungal interactions with metallic elements and compounds
-- staycare fungal biosorption heavy metal removal — Metal removal
+  [[singh-fungal-interactions-with-heavy-metals-in-soil]] with metallic elements and compounds
+- staycare [[dighton-fungal-biosorption-heavy-metal-remediation]] heavy metal removal — Metal removal
   through fungal biosorption processes
 - staycare fungal microbial interactions pollutant degradation —
   Fungal-microbial consortia in pollutant degradation
 - [[cotter-mycoremediation-overview]] — General principles of fungal
   bioremediation
+- [[mycoremediation]]
+- [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]]
+- [[staycare-arbuscular-mycorrhizal-fungi-in-hydrocarbon-remediation]]

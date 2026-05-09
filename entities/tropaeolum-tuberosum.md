@@ -20,7 +20,7 @@ sources:
 
 **Tropaeolum tuberosum** Ruiz & Pav., commonly known as **mashua**, **añu**, or **isasño**, is a perennial tuberous plant in the family Tropaeolaceae. Native to the Andean highlands of Peru, Bolivia, and Ecuador, it has been cultivated as a food crop for over 8,000 years.
 
-Mashua is one of the most important traditional Andean root crops alongside potato, oca (*Oxalis tuberosa*), and olluco (*Ullucus tuberosus*). It is notable for its high productivity at high altitudes, pest resistance, and pungent flavor that diminishes with cooking.
+Mashua is one of the most important traditional Andean root crops alongside potato, oca (*[[oxalis-tuberosa]]*), and olluco (*Ullucus tuberosus*). It is notable for its high productivity at high altitudes, [[cannabis-disease-pest-resistance-breeding-clarke]], and pungent flavor that diminishes with cooking.
 
 The tubers are rich in vitamin C, glucosinolates, and antioxidants. They exhibit remarkable pest resistance due to natural isothiocyanate compounds, making them a promising low-input crop for sustainable agriculture.
 
@@ -36,7 +36,7 @@ The flesh is firm, crisp, and yellow to orange. Raw mashua has a strong, peppery
 
 **Vines:** Slender, climbing or trailing stems up to 2–3 m in length. The plant is not self-supporting and scrambles over neighboring vegetation or trellises. Leaves are peltate (shield-shaped), 4–8 cm diameter, with long petioles.
 
-**Flowers:** Showy, tubular, 2–3 cm long. Colors range from orange to red, yellow, or bicolor. Flowering typically occurs in the southern hemisphere autumn (March–May). The flowers are edible and ornamental.
+**Flowers:** Showy, tubular, 2–3 cm long. Colors range from orange to red, yellow, or bicolor. Flowering typically occurs in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] autumn (March–May). The flowers are edible and ornamental.
 
 ## Distribution and Habitat
 
@@ -44,7 +44,7 @@ Mashua is native to the Andean altiplano, where it is cultivated between 2,500 a
 
 The plant thrives in cool, moist conditions with short day lengths typical of tropical highland environments. It is adapted to poor, rocky, and acidic volcanic soils where few other crops perform well.
 
-Mashua has been introduced to New Zealand, where it has naturalized in some regions. Experimental cultivation has occurred in Europe, North America, and Japan, though it remains a niche crop outside the Andes.
+Mashua has been introduced to New Zealand, where it has naturalized in some regions. Experimental cultivation has occurred in Europe, [[psilocybin-north-america-pacific-northwest]], and Japan, though it remains a niche crop outside the Andes.
 
 ## Cultivation
 
@@ -72,7 +72,7 @@ The crop's complete pest resistance eliminates the need for any pesticide inputs
 
 In Andean traditional agriculture, mashua is intercropped with oca, olluco, and potatoes in complex polyculture systems. These intercropping arrangements optimize land use and reduce disease pressure through botanical diversity.
 
-Mashua's cold tolerance and frost resistance extend the growing season in temperate climates. The plant can survive light frosts and continues tuber development at temperatures as low as 5°C.
+Mashua's cold tolerance and frost resistance [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season in temperate climates. The plant can survive light frosts and continues tuber development at temperatures as low as 5°C.
 
 ## Traditional Uses
 
@@ -86,7 +86,7 @@ Traditional Andean farmers recognize numerous named landrace varieties, distingu
 
 ## Limitations and Challenges
 
-Despite its advantages, mashua faces several barriers to wider adoption outside the Andes. The strong pungent flavor of raw tubers is unfamiliar and often unappealing to consumers accustomed to mild root vegetables like potatoes.
+Despite its advantages, mashua faces several barriers to wider adoption outside the Andes. The strong pungent flavor of raw tubers is unfamiliar and often unappealing to consumers accustomed to mild [[growing-root-vegetables-guide]] like potatoes.
 
 The climbing growth habit complicates mechanical harvesting. Tubers produced along the length of stolons are distributed through the soil profile rather than concentrated in a compact root zone, making efficient harvest difficult at scale.
 
@@ -108,7 +108,7 @@ The Crop Trust has identified mashua as a priority underutilized crop for geneba
 - [[apios-americana]]
 - [[caragana-arborescens]]
 - achillea-millefolium
-- [[tagasaste]]
+- tagasaste
 - [[robinia-pseudoacacia]]
 - [[elaeagnus-umbellata]]
 - [[asimina-triloba]]

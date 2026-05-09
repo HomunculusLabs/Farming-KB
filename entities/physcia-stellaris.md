@@ -10,7 +10,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Moberg, R. (1986). "The genus Physcia in Nordic countries." Opera Botanica, 90: 1–94.
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens of North America. Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens of [[psilocybin-north-america-pacific-northwest]]. Yale University Press.
   - Purvis, O.W. et al. (1992). The Lichen Flora of Great Britain and Ireland. Natural History Museum Publications.
   - Wirth, V., Hauck, M., Schulz, M. (2013). Die Flechten Deutschlands. Eugen Ulmer KG.
 ---
@@ -21,7 +21,7 @@ sources:
 
 The species is one of the most frequently encountered foliose lichens in urban and suburban environments. It is characterized by its star-shaped soralia and its preference for moderately nutrient-enriched bark surfaces.
 
-Physcia stellaris produces atranorin and zeorin as its primary secondary metabolites. It is a member of the Physcia stellaris species complex, which includes several morphologically similar taxa.
+Physcia stellaris produces atranorin and zeorin as its primary [[antifungal-secondary-metabolites-coprophilous-fungi]]. It is a member of the Physcia stellaris species complex, which includes several morphologically similar taxa.
 
 ## Taxonomy and Morphology
 
@@ -63,7 +63,7 @@ It occurs from lowland elevations to approximately 1,000 meters in mountainous r
 
 In North America, P. stellaris ranges from the Atlantic coast to the Great Plains and extends southward along the Appalachian Mountains. It is less common in the arid interior of the continent.
 
-The species has been introduced to several Southern Hemisphere countries through horticultural trade. It is now established in parts of New Zealand, southeastern Australia, and southern South America.
+The species has been introduced to several [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] countries through horticultural trade. It is now established in parts of New Zealand, southeastern Australia, and southern South America.
 
 ## Chemistry and Bioactive Compounds
 
@@ -83,7 +83,7 @@ The relatively simple chemistry of P. stellaris makes it a convenient reference 
 
 Physcia stellaris is an early to intermediate successional species in epiphytic lichen communities. It colonizes young bark surfaces and persists as part of the developing lichen flora on maturing trees.
 
-The species is widely used as a bioindicator species in European lichen biomonitoring programs. Its frequency and abundance are recorded as measures of intermediate air quality and moderate atmospheric nitrogen deposition.
+The species is widely used as a bioindicator species in European lichen biomonitoring programs. Its frequency and abundance are recorded as measures of intermediate [[cervantes-air-quality-ventilation]] and moderate atmospheric [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]].
 
 As a sorediate species, P. stellaris contributes to the dispersal and colonization of new substrates by epiphytic lichens. Its capitate soralia produce abundant soredia that are readily dispersed by wind.
 
@@ -91,7 +91,7 @@ The species provides microhabitat for various lichenicolous fungi and microarthr
 
 Arthonia physciicola and Niesslia physciicola are two commonly associated lichenicolous fungi recorded on P. stellaris. These parasites can cause discoloration or deformation of the host thallus.
 
-The thallus also supports diverse communities of oribatid mites and collembolans. These microarthropods contribute to nutrient cycling within the lichen microhabitat and may facilitate spore and soredia dispersal.
+The thallus also supports diverse communities of oribatid mites and collembolans. These microarthropods contribute to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within the lichen microhabitat and may facilitate spore and soredia dispersal.
 
 ## Uses and Significance
 
@@ -106,6 +106,8 @@ Molecular phylogenetic studies have revealed that the P. stellaris complex conta
 The species is also used as a model organism in studies of lichen photobiont specificity. Research has shown that P. stellaris associates with a relatively narrow range of Trebouxia genotypes compared to some other foliose lichens.
 
 ## See Also
+
+- [[physcia-tenella]]
 
 - [[parmelia-sulcata]]
 - [[physcia-aipolia]]

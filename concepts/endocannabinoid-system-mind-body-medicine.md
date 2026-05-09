@@ -8,7 +8,7 @@ source: uwe-blesching-the-cannabis-health-index.md
 
 # Endocannabinoid System and Mind-Body Medicine
 
-The endocannabinoid system (ECS) serves as a biological bridge between the mind and the body, providing a neurochemical mechanism through which emotions, thoughts, and conscious interventions can directly influence physical health and immune function. This understanding, explored extensively in Uwe Blesching's *The Cannabis Health Index*, represents a convergence of neuroscience, psychoneuroimmunology, and traditional mind-body healing practices.
+The endocannabinoid system (ECS) serves as a biological bridge between the mind and the body, providing a neurochemical mechanism through which emotions, thoughts, and conscious interventions can directly influence physical health and immune function. This understanding, explored extensively in [[uwe-blesching]]'s *[[blesching-cannabis-health-index-autoimmune-conditions]] ndex*, represents a convergence of neuroscience, psychoneuroimmunology, and traditional mind-body healing practices.
 
 ## The Endocannabinoid System: A Brief Overview
 
@@ -16,7 +16,7 @@ The endocannabinoid system is a widespread neuromodulatory system found througho
 
 The two primary endocannabinoids identified to date are anandamide (N-arachidonoylethanolamine, or AEA) and 2-arachidonoylglycerol (2-AG). These lipid signaling molecules are produced on-demand by cell membranes throughout the body and act locally rather than circulating systemically like classical hormones.
 
-Cannabinoid receptors are found throughout the brain and peripheral tissues. CB1 receptors are concentrated in the central nervous system, particularly in brain regions associated with memory (hippocampus), motor control (basal ganglia and cerebellum), pain perception, appetite regulation, and emotional processing (amygdala and prefrontal cortex). CB2 receptors are found primarily in the immune system and peripheral tissues, where they modulate inflammatory responses and immune function.
+Cannabinoid receptors are found throughout the brain and peripheral tissues. CB1 receptors are concentrated in the central nervous system, particularly in brain regions associated with memory (hippocampus), motor control (basal ganglia and cerebellum), pain perception, [[blesching-cannabis-appetite-regulation-ghrelin-leptin]], and emotional processing (amygdala and prefrontal cortex). CB2 receptors are found primarily in the immune system and peripheral tissues, where they modulate inflammatory responses and immune function.
 
 The discovery of the endocannabinoid system in the early 1990s — driven by research into how THC produces its effects — revealed that the human body produces its own cannabis-like substances and has evolved a dedicated receptor system for them. This finding transformed our understanding of both cannabis pharmacology and fundamental neurophysiology.
 
@@ -36,7 +36,7 @@ Blesching's framework identifies specific neurotransmitters and signaling molecu
 
 Acetylcholine is associated with learning, memory, and attention. Its cognitive functions support the mental clarity needed for conscious healing work and self-reflection. The phrase "I remember" captures its essence — the ability to access and integrate information about one's condition and healing options.
 
-Anandamide, often called the "bliss molecule," is associated with feelings of ease, contentment, and well-being. The name derives from the Sanskrit word *ananda*, meaning "joy" or "bliss." Anandamide plays important roles in mood regulation, pain management, appetite, and the neurochemistry of pleasure and reward. Its association with "I am at ease" reflects the state of relaxed openness that facilitates healing.
+Anandamide, often called the "bliss molecule," is associated with feelings of ease, contentment, and well-being. The name derives from the Sanskrit word *ananda*, meaning "joy" or "bliss." Anandamide plays important roles in mood regulation, [[cannabis-pain-management-protocols]], appetite, and the neurochemistry of pleasure and reward. Its association with "I am at ease" reflects the state of relaxed openness that facilitates healing.
 
 Endogenous opioids (endorphins and enkephalins) are associated with pain relief and the positive feelings that follow the cessation of pain. The phrase "It feels so good when the pain stops" captures their function — they mark the transition from suffering to relief and reinforce behaviors that promote well-being.
 
@@ -44,11 +44,11 @@ GABA (gamma-aminobutyric acid) is the brain's primary inhibitory neurotransmitte
 
 Oxytocin, sometimes called the "bonding hormone" or "love molecule," is associated with social connection, trust, empathy, and nurturing behavior. Released during physical touch, social bonding, and positive social interactions, oxytocin promotes feelings of safety and belonging that support the emotional conditions for healing.
 
-Serotonin is associated with mood stability, contentment, and feelings of happiness and well-being. Low serotonin levels are implicated in depression and anxiety. "I am happy" captures the emotional state that healthy serotonin signaling supports — a baseline of contentment and positive emotional tone.
+[[serotonin]] is associated with mood stability, contentment, and feelings of happiness and well-being. Low serotonin levels are implicated in depression and anxiety. "I am happy" captures the emotional state that healthy serotonin signaling supports — a baseline of contentment and positive emotional tone.
 
 ## Molecules of Constricting Emotions
 
-In contrast to expansive molecules, Blesching identifies signaling molecules primarily associated with "constricting" emotional states — feelings of threat, urgency, fear, and defensive mobilization. These molecules promote sympathetic nervous system activation and the "fight or flight" stress response.
+In contrast to expansive molecules, Blesching identifies signaling molecules primarily associated with "constricting" emotional states — feelings of threat, urgency, fear, and defensive mobilization. These molecules promote sympathetic nervous system activation and the "fight or flight" [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]].
 
 Epinephrine (adrenaline) is the primary hormone of the acute stress response, producing the feeling of "I am scared." It mobilizes the body's resources for immediate action, increasing heart rate, blood pressure, and energy availability while redirecting blood away from digestive and immune functions.
 
@@ -108,14 +108,14 @@ The fifth practice is somatic integration — paying attention to the body's sig
 
 ## See Also
 
-- [[endocannabinoid-system]]
+- [[cannabis-health-endo-cannabinoid-system]]
 - [[deep-relaxation-and-mind-body-healing]]
 
 ## References
 
-- Blesching, U. *The Cannabis Health Index: Combining the Science of Medical Marijuana with Mindfulness Techniques to Heal 100 Chronic Symptoms and Diseases*. North Atlantic Books, Berkeley, California, 2015.
+- Blesching, U. *The Cannabis Health Index: Combining the Science of [[cervantes-medical-marijuana-pharmacology]] with Mindfulness Techniques to Heal 100 Chronic Symptoms and Diseases*. North Atlantic Books, Berkeley, California, 2015.
 - Di Marzo, V. et al. "Endocannabinoids: Endogenous Cannabinoid Receptor Ligands with Neuromodulatory Action." *Trends in Neurosciences*, 21(12): 521–528, 1998.
 
 ## See Also
 
-- [[mind-body-medicine-endocannabinoid-system]]
+- [[mind-body-medicine-and-endocannabinoid-system]]

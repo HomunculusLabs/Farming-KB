@@ -1,5 +1,5 @@
 ---
-title: "Beneficial Insects Gallery for the Ecological Garden"
+title: "comparison-beneficial-insects-guide-vs-integrated-pest-management Gallery for the Ecological Garden"
 tags:
   - insects
   - beneficial-insects
@@ -22,8 +22,8 @@ type: concept
 In a healthy ecological garden, over 90% of insect species are either beneficial
 or harmless. Only a small fraction cause noticeable damage, and many of these
 are held in check by predators and parasitoids that share the same habitat. The
-key to natural pest control is not eliminating insects wholesale but creating
-conditions where beneficial species thrive and maintain ecological balance.
+key to [[fukuoka-natural-pest-balance]] control is not eliminating insects wholesale but creating
+conditions where beneficial species thrive and maintain [[fukuoka-ecological-balance-principles]].
 
 ## The Decline of Beneficial Insects
 
@@ -49,7 +49,7 @@ than the adults. Lady beetles overwinter in leaf litter and under bark, making
 mulched gardens ideal habitat.
 
 **Ground beetles** are large, fast-running predators that hunt at night. They
-consume slugs, cutworms, root maggots, and other soil-dwelling pests. They
+consume slugs, cutworms, [[cervantes-nematodes-root-maggots-soil-pests]], and other soil-dwelling pests. They
 require undisturbed soil and ground cover; bare, tilled soil provides no
 refuge.
 
@@ -104,7 +104,7 @@ and true bugs. The larvae burrow into the host and consume it from within.
 
 ## True Bugs as Predators
 
-**Minute pirate bugs** are tiny predators that consume thrips, spider mites,
+**Minute pirate bugs** are tiny predators that consume thrips, [[cervantes-spider-mites-identification-control]],
 aphids, and insect eggs. They are among the first predators to arrive in spring.
 
 **Big-eyed bugs** resemble small, stocky plant bugs with conspicuously large
@@ -120,14 +120,20 @@ and hundreds of solitary species — often outperform honeybees as pollinators,
 especially in cool weather and for native plants. Flowering plants provide
 nectar and pollen for adult bees. A succession of blooms from early spring
 through late fall ensures continuous forage. Many
-[[gaias-garden-polyculture-design-guidelines|polyculture design]]. Key
+[[aquatic-polyculture-design-mollison]]. Key
 strategies include:
 
 - **Plant insectary flowers** that bloom in succession: yarrow, dill, fennel,
   coriander, buckwheat, clover, Queen Anne's lace, alyssum, and umbellifers.
 - **Maintain mulch and ground cover** for ground beetles, rove beetles, and
-  spiders. See [[gaias-garden-mulch-plants-ecological-garden|mulch plants]].
+  spiders. See mulch plants.
 - **Provide undisturbed habitat** such as brush piles, stone walls, and leaf
   litter for overwintering.
 - **Avoid broad-spectrum pesticides** that kill beneficials along with pests.
 - **Include a water source** such as a shallow dish with pebbles for drinking.
+## See Also
+- [[gaias-garden-beneficial-insects-pest-management]]
+- [[gaias-garden-beneficial-birds-wildlife]]
+- [[comparison-trap-cropping-vs-beneficial-insects]]
+- [[gaias-garden-soil-food-web-living-soil]]
+- [[beneficial-insects-guide]]

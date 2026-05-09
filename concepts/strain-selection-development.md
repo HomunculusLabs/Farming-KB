@@ -5,7 +5,8 @@ updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # Strain Selection and Development
@@ -54,7 +55,7 @@ For long-term preservation, a thin layer of sterile mineral oil over live myceli
 
 ## See Also
 
-- [[mushroom-sectoring-strain-development]]
+- mushroom-sectoring-strain-development
 - [[wild-specimen-isolation]]
 - [[grain-to-grain-transfer]]
 

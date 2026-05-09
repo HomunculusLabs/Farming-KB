@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Moore, M. (1993). "Medicinal Plants of the Pacific West." Red Crane Books.
-  - Foster, S., Duke, J.A. (1990). "A Field Guide to Medicinal Plants and Herbs of Eastern and Central North America." Houghton Mifflin.
+  - Foster, S., Duke, J.A. (1990). "A Field Guide to Medicinal Plants and Herbs of Eastern and Central [[psilocybin-north-america-pacific-northwest]]." Houghton Mifflin.
   - USDA Forest Service Silvics Manual (1990). "Ulmus rubra Muhl." United States Department of Agriculture.
   - Tyler, V.E. (1993). "The Honest Herbal: A Sensible Guide to the Use of Herbs and Related Remedies." Pharmaceutical Products Press.
   - Duke, J.A. (2002). "Handbook of Medicinal Herbs." 2nd Edition. CRC Press.
@@ -24,7 +24,7 @@ created: 2026-04-28
 
 Ulmus rubra, commonly known as slippery elm, red elm, or Indian elm, is a medium-sized deciduous tree native to eastern and central North America. It is distinguished from other elms by its strongly mucilaginous inner bark, which has been used for centuries in traditional medicine as a demulcent, emollient, and nutritive remedy.
 
-The species was a cornerstone of Native American herbal medicine and was later adopted widely by 19th-century eclectic physicians and contemporary herbalists. Its inner bark remains one of the most widely used herbal demulcents in Western herbal practice, valued for soothing irritated mucous membranes throughout the gastrointestinal and respiratory tracts.
+The species was a cornerstone of [[halpern-sacramental-peyote-and-native-american-church]] herbal medicine and was later adopted widely by 19th-century eclectic physicians and contemporary herbalists. Its inner bark remains one of the most widely used herbal demulcents in Western herbal practice, valued for soothing irritated mucous membranes throughout the gastrointestinal and respiratory tracts.
 
 ## Taxonomy and Morphology
 
@@ -63,7 +63,7 @@ This mucilaginous inner bark is the primary diagnostic feature distinguishing U.
 
 ## Distribution and Habitat
 
-U. rubra ranges from southern Quebec and Ontario west to eastern North Dakota and Oklahoma, south to Texas and northern Florida. It is most abundant in the central and eastern United States, particularly in the Ohio River Valley and Appalachian region.
+U. rubra ranges from southern Quebec and Ontario west to [[polypore-fungi-eastern-north-america]] Dakota and Oklahoma, south to Texas and northern Florida. It is most abundant in the central and eastern United States, particularly in the Ohio River Valley and Appalachian region.
 
 The species occupies a broad ecological amplitude, growing on moist bottomlands, stream banks, ravine slopes, and upland rocky ridges. It is tolerant of a wide range of soil types including loams, clays, and sandy soils, and prefers slightly acidic to neutral pH (5.5-7.0).
 
@@ -113,7 +113,7 @@ During the American Civil War, slippery elm bark was used extensively in field h
 
 In modern Western herbalism, U. rubra is primarily used as a demulcent for:
 
-- **Gastrointestinal conditions:** Gastritis, acid reflux, peptic ulcers, irritable bowel syndrome, and inflammatory bowel conditions. The mucilage coats the stomach and intestinal lining, reducing irritation from acid and inflammatory mediators.
+- **Gastrointestinal conditions:** Gastritis, acid reflux, peptic ulcers, [[blesching-cannabis-irritable-bowel-syndrome]] syndrome, and [[blesching-cannabis-inflammatory-bowel-disease]] conditions. The mucilage coats the stomach and intestinal lining, reducing irritation from acid and inflammatory mediators.
 
 - **Respiratory conditions:** Sore throat, laryngitis, bronchitis, and dry coughs. The inner bark is prepared as a tea, lozenge, or syrup for throat soothing.
 
@@ -130,12 +130,16 @@ U. rubra has several applications in permaculture and agroforestry systems:
 - **Food and medicine:** Provides both edible inner bark (survival food) and medicinal mucilage. A dual-purpose tree for forest gardens.
 - **Wildlife habitat:** Seeds are consumed by songbirds, small mammals, and game birds. The tree provides nesting sites and cover.
 - **Soil stabilization:** Extensive root system helps stabilize stream banks and slopes.
-- **Nitrogen dynamics:** Leaf litter contributes to soil organic matter and nutrient cycling.
+- **Nitrogen dynamics:** Leaf litter contributes to soil organic matter and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 The species coppices readily, allowing sustainable bark harvest on a managed rotation. Coppiced trees regenerate bark within 5-10 years, making managed plantations viable for sustainable herbal production.
 ## See Also
+
+- [[morus-rubra]]
 
 - [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]]
 - [[tihkal-receptor-binding-serotonin]]
 - [[glycyrrhiza-glabra]]
 - [[aloe-vera]]
+
+- [[ulmus-glabra]]

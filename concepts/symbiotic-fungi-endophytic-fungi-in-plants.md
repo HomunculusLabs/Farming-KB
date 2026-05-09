@@ -10,7 +10,7 @@ tags: [fungi, plants]
 
 # Symbiotic Fungi — Endophytic Fungi in Plants
 
-Endophytic fungi and bacteria live within plant tissues without causing substantive harm to the host plant. They may benefit the host, or benefits may be reciprocal (Bacon et al. 2002). Endophytes are a poorly investigated group of microorganisms that represent an abundant, dependable source of biologically important and chemically novel bioactive compounds with potential for exploitation in pharmaceutical and agricultural fields.
+Endophytic fungi and bacteria live within plant tissues without causing substantive harm to the host plant. They may benefit the host, or benefits may be reciprocal (Bacon et al. 2002). Endophytes are a poorly investigated group of microorganisms that represent an abundant, dependable source of biologically important and chemically novel [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] with potential for exploitation in pharmaceutical and agricultural fields.
 
 ## Definition and Context
 
@@ -26,7 +26,7 @@ The use of microbial endophytic flora opens up a new arena of biotechnological e
 
 ## Piriformospora indica — A Model Endophyte
 
-Piriformospora indica (Hymenomycetes, Basidiomycota), a member of the Sebacinaceae family, is the only cultivable endophyte that colonises roots. This is highly significant because most arbuscular mycorrhizal fungi cannot be grown in the absence of a living plant, restricting biotechnological exploitation. P. indica can be multiplied at mass scale on cheap and industrially produced simplified nutrient medium. Inoculation with the fungus and application of fungal culture filtrate promotes plant growth and biomass production. Due to its ease of culture, it serves as a model organism for studying beneficial plant-microbe interactions.
+Piriformospora indica (Hymenomycetes, Basidiomycota), a member of the Sebacinaceae family, is the only cultivable endophyte that colonises roots. This is highly significant because most [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi cannot be grown in the absence of a living plant, restricting biotechnological exploitation. P. indica can be multiplied at mass scale on cheap and industrially produced simplified nutrient medium. Inoculation with the fungus and application of fungal culture filtrate promotes plant growth and [[dighton-fungal-biomass-production-aquatic-ecosystems]]. Due to its ease of culture, it serves as a model organism for studying beneficial plant-microbe interactions.
 
 ### Growth-Promoting Effects on Diverse Hosts
 
@@ -40,7 +40,7 @@ P. indica vastly improves growth and overall biomass production of diverse hosts
 - *Chlorophytum borivilianum* (Mathur et al. 2008)
 - Terrestrial orchids (*Dactylorhiza purpurella* and *D. majalis*)
 
-A pronounced growth-promotional effect has also been seen with terrestrial orchids. Arabidopsis plants colonised with P. indica produce 22% more seeds than uncolonised plants. The fungus provides almost 100% survival of tissue-cultured plantlets by overcoming "transient transplant shock" on transfer to the field (Mathur et al. 2008).
+A pronounced growth-promotional effect has also been seen with terrestrial orchids. Arabidopsis plants colonised with P. indica produce 22% more seeds than uncolonised plants. The fungus provides almost 100% survival of tissue-cultured plantlets by overcoming "transient [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]]" on transfer to the field (Mathur et al. 2008).
 
 ### Colonisation Pattern
 
@@ -88,13 +88,13 @@ It is important to select healthy and disease-free plant material to prevent iso
 
 ### Surface Sterilisation
 
-The first step is surface sterilisation of explants. Most commonly employed agents include sodium hypochlorite, mercuric chloride, ethanol, hydrogen peroxide, and chloramine T. The standard three-step procedure uses 70% ethanol, sodium hypochlorite, and 70% ethanol again. Nonionic detergents like Tween 20, Triton X-100, or Tween-80 can improve penetration of sterilising agents into niches beyond epidermal cells.
+The first step is surface sterilisation of explants. Most commonly employed agents include sodium hypochlorite, mercuric chloride, ethanol, [[cervantes-hydrogen-peroxide-sterilization]], and chloramine T. The standard three-step procedure uses 70% ethanol, sodium hypochlorite, and 70% ethanol again. Nonionic detergents like Tween 20, Triton X-100, or Tween-80 can improve penetration of sterilising agents into niches beyond epidermal cells.
 
 Care must be taken because sterilising agents may penetrate internal tissue and kill the endophytic flora, resulting in lower recovery. Concentration, combination, and incubation period need to be optimised for each plant species and tissue type.
 
 ### Cultivation
 
-Surface-sterilised root tissue is cut into small pieces (7-8 mm) and subjected to cultivation on nutrient media. Most endophytic bacteria grow on routine laboratory media: Luria broth, glucose yeast extract agar, tryptic soy agar, King's B medium, and MacConkey agar. Maceration (using sterile mortar and pestle, homogeniser, or blender) helps isolate both slow- and fast-growing cultures.
+Surface-sterilised root tissue is cut into small pieces (7-8 mm) and subjected to cultivation on nutrient media. Most endophytic bacteria grow on routine laboratory media: Luria broth, glucose [[marmite-yeast-extract-straw-substrate]] agar, tryptic soy agar, King's B medium, and MacConkey agar. Maceration (using sterile mortar and pestle, homogeniser, or blender) helps isolate both slow- and fast-growing cultures.
 
 ## Co-Culture Applications
 

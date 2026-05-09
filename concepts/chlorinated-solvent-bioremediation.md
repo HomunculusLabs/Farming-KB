@@ -9,7 +9,7 @@ sources: []
 
 # Bioremediation of Chlorinated Solvents
 
-Chlorinated solvents are synthetic organic compounds widely used in industrial degreasing, dry cleaning, electronics manufacturing, and other applications.
+Chlorinated solvents are synthetic [[fungal-volatile-organic-compounds-communication]] widely used in industrial degreasing, dry cleaning, electronics manufacturing, and other applications.
 
 Compounds including trichloroethylene (TCE), tetrachloroethylene (PCE), carbon tetrachloride, and chloroform are among the most common groundwater contaminants at industrial sites worldwide.
 
@@ -106,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -1,6 +1,6 @@
 ---
 
-title: Dynamic Accumulators
+title: comparison-dynamic-accumulators-vs-cover-crops
 created: 2026-04-10
 updated: 2026-04-12
 type: concept
@@ -40,7 +40,7 @@ Dr. R.R. Brooks of Massey University (New Zealand) demonstrated that some plants
 
 ### Nitrogen (N) — Legumes
 
-Nitrogen fixation by legumes per acre:
+[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] by legumes per acre:
 
 | Legume | N Fixed (lbs/acre) | Comparable Vegetable Need |
 |--------|-------------------|--------------------------|
@@ -68,7 +68,7 @@ Nitrogen fixation by legumes per acre:
 Buckwheat, mustard, and alfalfa not only absorb phosphorus but exhibit "subsequent excretion" — they release absorbed P back into the soil through their roots, making it available to other plants.
 
 ### Potassium (K)
-- **Bracken fern** (Pteridium aquifolium) — 25-55% potash in leaves
+- **[[dynamic-accumulator-bracken-fern-potash]]** (Pteridium aquifolium) — 25-55% potash in leaves
 - **Comfrey** — very high K (makes excellent liquid feed)
 - **Borage** (Borago officinalis) — K accumulator, bee forage
 - **Nettles** (Urtica dioica) — K, Fe, N; excellent compost activator
@@ -106,7 +106,7 @@ Buckwheat, mustard, and alfalfa not only absorb phosphorus but exhibit "subseque
 
 ### 2. Nettle — Compost Activator
 - Add to compost pile to heat it up and add N
-- Make nettle tea (steep in water 1-2 weeks) as liquid fertilizer
+- Make nettle tea (steep in water 1-2 weeks) as [[jadam-liquid-fertilizer-nutritional-perspective]]
 - Use as FPJ ingredient in [[knf-preparations]]
 - Handle with gloves (stinging hairs)
 
@@ -134,7 +134,7 @@ Buckwheat, mustard, and alfalfa not only absorb phosphorus but exhibit "subseque
 - [[fermented-plant-extract-fpe]] — making FPJ from accumulator plants
 - [[cover-cropping-guide]] — accumulator plants as cover crops
 - [[knf-preparations]] — KNF inputs using accumulator plants
-- [[companion-planting-reference]] — accumulators in polyculture design
-- [[soil-food-web-nutrient-cycling]] — how organic matter feeds soil biology
+- [[companion-planting-reference]] — accumulators in [[aquatic-polyculture-design-mollison]]
+- [[soil-food-web-nutrient-cycling]] — how [[hamilton-composting-and-organic-matter-management]] feeds soil biology
 - [[nutrient-dense-gardening]] — complete mineral approach
 - [[soil-fertility-management]] — overall fertility management

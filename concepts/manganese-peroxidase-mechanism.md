@@ -1,5 +1,5 @@
 ---
-title: Manganese Peroxidase Mechanism
+title: fungal-manganese-peroxidase-remediation Mechanism
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -13,11 +13,11 @@ Manganese peroxidase (MnP; EC 1.11.1.13) is a glycosylated heme-containing extra
 
 ## Distribution Among Fungi
 
-A comprehensive list of 56 fungi that produce MnP in liquid and/or solid-state fermentation has been compiled by Hofrichter (2002). MnP is secreted by a distinct group of Basidiomycetes belonging to the families Coriolaceae, Meruliaceae, Polyporaceae, and the soil litter families Strophariaceae and Tricholomataceae. The enzyme is widely distributed among lignin-degrading fungi and represents one of the most common peroxidases in [[fungal-lignin-peroxidase-veratryl-alcohol]], which is restricted to a smaller number of fungal species, MnP is found in the majority of lignin-degrading Basidiomycetes. This suggests that MnP represents a more evolutionarily conserved and versatile component of the [[singh-cytochrome-p450-fungal-bioremediation]] MP-1. Like [[mycoremediation-field-applications-case-studies]] where exogenous H2O2 addition is impractical.
+A comprehensive list of 56 fungi that produce MnP in liquid and/or solid-state fermentation has been compiled by Hofrichter (2002). MnP is secreted by a distinct group of Basidiomycetes belonging to the families Coriolaceae, Meruliaceae, Polyporaceae, and the soil litter families Strophariaceae and Tricholomataceae. The enzyme is widely distributed among lignin-degrading fungi and represents one of the most common peroxidases in [[fungal-lignin-peroxidase-veratryl-alcohol]], which is restricted to a smaller number of fungal species, MnP is found in the majority of lignin-degrading Basidiomycetes. This suggests that MnP represents a more evolutionarily conserved and versatile component of the [[singh-cytochrome-p450-fungal-bioremediation]] MP-1. Like mycoremediation-field-applications-case-studies where exogenous H2O2 addition is impractical.
 
 ## Lignin Degradation by MnP
 
-A reaction system containing MnP from [[brown-rot-fungi-biodegradation]] from Rigidoporus lignosus, MnP and laccase from Agaricus bisporus, MnP and [[ligninolytic-enzyme-systems-white-rot-fungi]]. MnP is particularly effective at oxidizing phenolic substructures, while LiP can attack nonphenolic compounds. Laccase with appropriate mediators can oxidize both phenolic and nonphenolic substrates. The combination of all three enzymes provides the broadest substrate coverage and the most effective lignin degradation.
+A reaction system containing MnP from brown-rot-fungi-biodegradation from Rigidoporus lignosus, MnP and laccase from [[genetic-improvement-agaricus-bisporus-molecular-approaches]], MnP and [[ligninolytic-enzyme-systems-white-rot-fungi]]. MnP is particularly effective at oxidizing phenolic substructures, while LiP can attack nonphenolic compounds. Laccase with appropriate mediators can oxidize both phenolic and nonphenolic substrates. The combination of all three enzymes provides the broadest substrate coverage and the most effective lignin degradation.
 
 ## Degradation of Nonphenolic Compounds
 
@@ -29,9 +29,9 @@ An MnP-lipid peroxidation system is strong enough to degrade C alpha-C beta and 
 
 Hybrid forms of MnP and LiP are known which can oxidize both phenolic and nonphenolic compounds. These enzymes have been identified in Bjerkandera sp. strain BOS55, Bjerkandera adusta, and Pleurotus eryngii. The existence of hybrid peroxidases suggests evolutionary convergence of catalytic capabilities and expands the substrate range beyond what either enzyme can achieve alone.
 
-These versatile peroxidase (VP) enzymes possess both Mn(II)-oxidizing activity and the ability to directly oxidize nonphenolic aromatic compounds without mediators. VP enzymes represent a particularly promising group for [[turkey-tail-trametes-versicolor]], [[singh-cytochrome-p450-fungal-bioremediation]] is cultured in media containing molasses, and the rate of color removal is directly proportional to MnP activity. MnP along with manganese-independent peroxidase (MIP) contribute to the decolorization of distillery and brewery wastes.
+These [[singh-versatile-peroxidase-vp-multifunctional]] (VP) enzymes possess both Mn(II)-oxidizing activity and the ability to directly oxidize nonphenolic aromatic compounds without mediators. VP enzymes represent a particularly promising group for [[turkey-tail-trametes-versicolor]], [[singh-cytochrome-p450-fungal-bioremediation]] is cultured in media containing molasses, and the rate of color removal is directly proportional to MnP activity. MnP along with manganese-independent peroxidase (MIP) contribute to the decolorization of [[fungal-treatment-of-distillery-and-brewery-wastes]] wastes.
 
-MnP is necessary for efficient decolorization of olive mill wastewater by several fungal species. The MnP/Mn(III) chelate system can oxidize the phenolic and melanoidin compounds responsible for the dark color of these effluents. The ability of MnP to function in the presence of organic acid chelators that are naturally present in many wastewaters makes it particularly suitable for industrial effluent treatment.
+MnP is necessary for efficient decolorization of olive mill wastewater by several fungal species. The MnP/Mn(III) chelate system can oxidize the phenolic and melanoidin compounds responsible for the dark color of these effluents. The ability of MnP to function in the presence of [[fungal-organic-acid-metal-solubilization]] chelators that are naturally present in many wastewaters makes it particularly suitable for industrial effluent treatment.
 
 ## Applications in Pollutant Degradation
 
@@ -58,7 +58,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -100,4 +100,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: Permaculture Livestock Forage Systems
+title: Permaculture permaculture livestock forage systems Systems
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -19,7 +19,7 @@ Permaculture integrates livestock into designed systems through diverse forage s
 
 ## Fodder Trees and Shrubs
 
-Tree fodders are central to permaculture forage systems, providing browse during dry seasons, yielding on marginal land, and contributing to soil improvement through nitrogen fixation and deep nutrient cycling.
+Tree fodders are central to permaculture forage systems, providing browse during dry seasons, yielding on marginal land, and contributing to soil improvement through [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] and deep [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 ### Key Fodder Tree Species
 
@@ -35,7 +35,7 @@ Tree fodders are central to permaculture forage systems, providing browse during
 
 Fodder trees are integrated into:
 - Windbreak rows (providing shelter and browse simultaneously)
-- Hedge rows along contour for erosion control and fodder
+- Hedge rows along contour for [[permplant-willows-salix-erosion-control-fodder]] and fodder
 - Riparian zones for stream bank stability and browse
 - Paddock systems as shade and supplementary feed
 
@@ -48,7 +48,7 @@ Fodder trees are integrated into:
 - **Silverleaf desmodium** (D. uncinatum) -- for mulch in established orchards, rocky sites, pastures, wet areas and acid soils
 - **Glycine** (Neonotonia wightii) -- deep-rooted twining perennial, cycles phosphates from deep soil layers, resists drought
 - **Lucerne** (Medicago sativa) -- grown from cool temperate to tropics, deep-rooted, combines well with many grasses
-- **Siratro** (Macroptilium atropurpureum) -- perennial legume, excellent nitrogen contribution to grasses, ideal for rotational grazing
+- **Siratro** (Macroptilium atropurpureum) -- perennial legume, excellent nitrogen contribution to grasses, ideal for [[comparison-rotational-grazing-vs-continuous-grazing]]
 - **Puero** (Pueraria phaseoloides) -- pioneer green and cover crop, very vigorous summer mat, good in wet tropics
 - **Stylo** (Stylosanthes guianensis) -- pioneer of poor acid soils, excellent mulch in tree systems
 - **Cowpea** (Vigna sinensis) -- preferred annual cover crop, combined with sorghum, maize, millet as hay or mulch
@@ -80,11 +80,16 @@ Tagasaste is drilled with turnip for future sheep forage; seedling trees establi
 
 ## Related Concepts
 
-- permaculture livestock forage systems -- Rotational grazing and pasture management
+- permaculture livestock forage systems -- Rotational [[permaculture-grazing-and-pasture]] management
 - permaculture livestock forage systems -- Animal species in permaculture systems
 - [[permaculture-woody-mulch-systems]] -- Forage species that double as mulch producers
 
 ## See Also
 
-- [[forage-systems-animals-permaculture]]
+- holmgren-livestock-animal-systems
+
+- forage-systems-animals-permaculture
 - [[permaculture-designers-manual-animal-forage-systems]]
+- [[lablab-purpureus]]
+- [[leucaena-leucocephala]]
+- [[pasture-management]]

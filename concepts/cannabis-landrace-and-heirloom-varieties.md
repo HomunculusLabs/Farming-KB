@@ -1,11 +1,11 @@
 ---
-title: Cannabis Landrace and Heirloom Varieties
+title: Cannabis cannabis landrace and heirloom varieties Varieties
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 # Cannabis Landrace and Heirloom Varieties
 
@@ -23,7 +23,7 @@ Landrace cannabis varieties are locally adapted populations that evolved in spec
 - High genetic diversity within the population (not a single clone)
 - Adapted to local climate, photoperiod, pests, and diseases
 - Often more resilient than modern hybrids (centuries of natural selection)
-- Unique cannabinoid and terpene profiles specific to the region
+- Unique cannabinoid and [[cannabis-terpene-profiles-sativa]] specific to the region
 - Longer flowering periods than modern hybrids (adapted to natural photoperiod)
 
 ## Major Landrace Regions
@@ -37,7 +37,7 @@ Landrace cannabis varieties are locally adapted populations that evolved in spec
 - **Nepal**: Himalayan varieties. Hand-rubbed charas production. Temple Ball hash
 - **Thailand**: Tall, tropical sativa. Long flowering (14-16 weeks). Cerebral, energetic high. "Thai stick"
 - **Laos, Cambodia, Vietnam**: Southeast Asian sativas. Similar to Thai but with regional differences
-- **China**: Oldest cannabis cultivation (6000+ years). Both fiber and drug types. Ruderalis from northern China
+- **China**: Oldest [[query-how-does-no-till-cannabis-cultivation-work]] (6000+ years). Both fiber and drug types. Ruderalis from northern China
 
 **Middle East and Central Asia**
 - **Lebanon**: Famous for red Lebanese hash. Adapted to Mediterranean climate
@@ -52,7 +52,7 @@ Landrace cannabis varieties are locally adapted populations that evolved in spec
 - **Peru**: Andean varieties. Used for both fiber and psychoactive purposes
 - **Mexico**: Acapulco Gold, Oaxacan. Sativa varieties, some indica influence from northern trade routes
 
-**Central America and Caribbean**
+**[[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and Caribbean**
 - **Jamaica**: Caribbean sativas. Used in Rastafarian spiritual practice. "Lamb's Breath"
 - **Panama**: "Panama Red" — famous 1970s import. Tall, red-haired sativa
 
@@ -66,7 +66,7 @@ Landrace cannabis varieties are locally adapted populations that evolved in spec
 - **Malawi**: "Malawi Gold" — equatorial sativa, long flowering, potent
 - **Lesotho**: Mountainous kingdom, traditional hash production. Both sativa and indica
 - **Morocco**: (See Middle East — Rif Mountains)
-- **Ethiopia**: Enormous genetic diversity. Highland and lowland varieties. Ancient cultivation history
+- **Ethiopia**: Enormous genetic diversity. Highland and lowland varieties. Ancient [[cuthill-mushroom-cultivation-history-19th-century]]
 
 ## Heirloom Varieties
 
@@ -85,7 +85,7 @@ Landrace cannabis varieties are locally adapted populations that evolved in spec
 
 ### Why It Matters
 - Landraces contain unique genes not found in modern hybrids
-- Climate adaptation (drought, heat, cold, disease resistance)
+- [[jeavons-climate-adaptation-growing-seasons]] (drought, heat, cold, disease resistance)
 - Unique cannabinoid/terpene profiles (high cbd landraces, rare terpenes)
 - Genetic diversity essential for future breeding programs
 - Cultural heritage — many landraces are tied to traditional practices

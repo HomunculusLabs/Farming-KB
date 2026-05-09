@@ -30,7 +30,7 @@ created: 2026-04-28
 
 ## Overview
 
-*Trametes gibbosa* is a polyporoid bracket fungus in the family Polyporaceae, widely distributed across temperate and boreal forests of Europe and North America.
+*Trametes gibbosa* is a polyporoid bracket fungus in the family Polyporaceae, widely distributed across temperate and [[fungal-diversity-boreal-forests-taiga]] of Europe and [[psilocybin-north-america-pacific-northwest]].
 
 It is a white-rot decomposer commonly found on dead hardwood, particularly beech, oak, and birch.
 
@@ -82,7 +82,7 @@ The species can persist on the same substrate for multiple years, producing pere
 
 ## Bioactive Compounds
 
-Like other *Trametes* species, *T. gibbosa* produces a range of bioactive secondary metabolites.
+Like other *Trametes* species, *T. gibbosa* produces a range of bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]].
 
 Polysaccharides isolated from the fruiting body have demonstrated immunomodulatory activity in vitro, stimulating macrophage function and cytokine production.
 
@@ -98,7 +98,7 @@ Laccase activity is notable and comparable to *T. versicolor*, suggesting potent
 
 ## Ecology and Applications
 
-*T. gibbosa* plays a significant role in forest nutrient cycling as a primary decomposer of hardwood.
+*T. gibbosa* plays a significant role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] as a primary decomposer of hardwood.
 
 Its white-rot metabolism breaks down lignin, cellulose, and hemicellulose, contributing to carbon and nutrient release.
 
@@ -106,7 +106,7 @@ The species is a moderate to strong decomposer, capable of extensive wood breakd
 
 It competes with other wood-inhabiting fungi for substrate, and its perennial fruiting strategy allows it to maintain territory.
 
-In bioremediation, the laccase and manganese peroxidase enzymes of *T. gibbosa* can degrade polycyclic aromatic hydrocarbons and synthetic dyes.
+In bioremediation, the laccase and [[fungal-manganese-peroxidase-remediation]] enzymes of *T. gibbosa* can degrade [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons and synthetic dyes.
 
 The species has been tested in laboratory-scale remediation of contaminated wood and soil substrates.
 

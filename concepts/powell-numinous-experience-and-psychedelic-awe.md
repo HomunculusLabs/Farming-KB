@@ -1,5 +1,5 @@
 ---
-title: The Numinous Experience and Psychedelic Awe
+title: The powell numinous experience and psychedelic awe and Psychedelic Awe
 created: 2026-04-28
 tags: [numinous, awe, wonder, mystical-experience, psilocybin,
   consciousness, theophany, sacred]
@@ -37,7 +37,7 @@ The Marsh Chapel Good Friday experiment of 1962 provides one of the most
 compelling demonstrations of psilocybin's capacity to induce genuine
 numinous experience. In this double-blind study, theology students received
 either psilocybin or a placebo in a religious setting. The majority of those
-who received psilocybin reported profound mystical experiences. Long-term
+who received psilocybin reported profound [[psilocybin-mystical-experiences-personality-change]]. Long-term
 follow-up by Rick Doblin found that all psilocybin subjects still considered
 their experiences to have contained genuinely mystical elements and that
 psilocybin had made a uniquely valuable contribution to their spiritual
@@ -140,3 +140,7 @@ quality is itself part of the numinous power of psilocybin.
 See also: [[powell-ancient-entheogenic-cults-and-the-religious-impulse]],
 [[powell-paradigm-shifting-and-the-psychedelic-revolution]]
 - [[weil-psychedelic-experience-set-and-setting]]
+
+## See Also
+
+- [[powell-cultural-defense-criticism-psychedelic-use]]

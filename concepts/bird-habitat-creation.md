@@ -4,14 +4,15 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [conservation, wildlife, species, plants, ecology, biodiversity]
-sources: []
+sources:
+  sources: []
 ---
 
 # Bird Habitat Creation
 
 ## Overview
 
-Creating bird habitat on the homestead provides ecological benefits including insect pest control, pollination, seed dispersal, and ecosystem monitoring. Birds are also indicators of environmental health—their presence and diversity reflect the quality of habitat, water, and air. A thoughtfully designed homestead can support 50-100+ bird species through the year by providing food, water, shelter, and nesting sites across all seasons. This connects to [[pollinator-conservation]], [[pollinator-conservation|conservation]], and [[invasive-species-management]] practices.
+Creating bird habitat on the homestead provides ecological benefits including insect [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], pollination, seed dispersal, and ecosystem monitoring. Birds are also indicators of environmental health—their presence and diversity reflect the quality of habitat, water, and air. A thoughtfully designed homestead can support 50-100+ bird species through the year by providing food, water, shelter, and nesting sites across all seasons. This connects to [[pollinator-conservation]], [[pollinator-conservation|conservation]], and [[invasive-species-management]] practices.
 
 ## Habitat Requirements
 
@@ -30,7 +31,7 @@ Birds use different layers of vegetation:
 - **Mid-story**: Saplings and tall shrubs for flycatchers, thrushes, and catbirds
 - **Shrub layer**: Dense shrubs for sparrows, thrashers, and cardinals
 - **Herbaceous layer**: Grasses and wildflowers for ground-nesting birds and foraging insectivores
-- **Ground layer**: Leaf litter, bare soil, and moss for thrushes, towhees, and sparrows
+- **Ground layer**: [[dighton-fungal-decomposition-leaf-litter-dynamics]], bare soil, and moss for thrushes, towhees, and sparrows
 
 ## Nest Boxes
 
@@ -52,7 +53,7 @@ Different bird species require different nest box dimensions:
 
 ### Construction Guidelines
 - **Wood**: Use untreated 1-inch lumber (cedar, pine, or fir); avoid plywood for exterior surfaces
-- **Ventilation**: Drill small holes near the top of the sides for air circulation
+- **Ventilation**: Drill small holes near the top of the sides for [[stamets-growing-room-air-circulation-co2-management]]
 - **Drainage**: Drill small drainage holes in the floor corners
 - **Access**: Hinged or removable side panel for cleaning
 - **Interior**: Rough interior surfaces or grooves below the entrance hole for fledglings to climb
@@ -121,7 +122,7 @@ Different feeders attract different birds:
 - Connects to [[amphibian-habitat-creation]] for dual wildlife benefit
 
 ### Misters and Drippers
-- **Misters**: Fine spray nozzles attached to garden hoses; attract hummingbirds and warblers that prefer leaf bathing
+- **Misters**: Fine [[ingham-spray-nozzles-equipment-compost-tea]] attached to garden hoses; attract hummingbirds and warblers that prefer leaf bathing
 - **Drippers**: Simple devices that drip water into birdbaths or ponds; attract birds with sound and motion
 
 ## Native Plants for Bird Habitat
@@ -147,44 +148,3 @@ Different feeders attract different birds:
 - **Native sunflowers (Helianthus spp.)**: Seeds for finches, sparrows, juncos
 - **Goldenrod (Solidago spp.)**: Seeds for winter birds; host for many insect species
 - **Asters (Symphyotrichum spp.)**: Seeds; late-fall nectar for migrating butterflies
-- **Native grasses**: Seeds for sparrows; cover for ground-nesting birds; see [[prairie-ecology]]
-- **Coneflowers (Echinacea spp.)**: Goldfinches relish the seeds in fall and winter
-
-## Seasonal Needs
-
-### Spring (March-May)
-- Migrating birds need high-energy food (suet, mealworms, fruit)
-- Clean and repair nest boxes before breeding season
-- Provide calcium sources (crushed eggshells) for egg-laying females
-- Maintain birdbaths for drinking and bathing
-- Plant native shrubs with spring berries
-
-### Summer (June-August)
-- Reduce feeder reliance; natural food is abundant
-- Continue providing water (critical during hot, dry periods)
-- Monitor nest boxes; record nesting data
-- Avoid pruning during nesting season; birds may be using shrubs and trees
-- Allow some insect populations for birds to feed their young
-
-### Fall (September-November)
-- Increase feeder offerings as natural food diminishes
-- Migrating birds need high-energy foods (suet, sunflower, fruit)
-- Leave seed heads on native plants (coneflowers, sunflowers, grasses)
-- Clean nest boxes after the breeding season
-- Add brush piles for winter cover
-
-### Winter (December-February)
-- Feeders are critical; supplement scarce natural food
-- Heated birdbaths provide essential open water
-- Maintain brush piles and evergreen cover for shelter
-- Suet and high-fat foods help birds survive cold nights
-- Roosting boxes (larger boxes with multiple perches) provide winter shelter
-
-## Window Collision Prevention
-Window collisions kill an estimated 1 billion birds annually in the US:
-
-- Place feeders within 3 feet of windows (birds cannot build up speed) or beyond 30 feet
-- Apply window decals, tape, or screens to break up reflections
-- Close curtains or blinds during peak migration periods
-- Install external screens or netting at least 3 inches from glass
-- Use UV-reflective glass or window films visible to birds

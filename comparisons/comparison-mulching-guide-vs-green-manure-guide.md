@@ -12,19 +12,19 @@ type: comparison
 
 ## Overview
 Mulching and green manuring are two foundational practices for building soil
-organic matter, suppressing weeds, and maintaining soil health. Mulch is dead
+[[hamilton-composting-and-organic-matter-management]], suppressing weeds, and maintaining soil health. Mulch is dead
 organic material laid on the soil surface as a physical barrier, while green
 manure is a living crop grown specifically to be incorporated into the soil.
 Both feed soil biology, retain moisture, and suppress weeds, but they operate
 through different mechanisms, require different management, and suit different
-situations in the garden calendar.
+situations in the [[cervantes-garden-calendar-checklist]].
 
 ## Mulching
 [[green-manure-guide]]
 Green manure is a crop grown specifically to be dug into the soil, adding
 organic matter and nutrients during fallow periods. The practice involves
 sowing a cover crop, allowing it to grow, then incorporating the green growth
-into the soil before it becomes woody. Green manures provide benefits that
+into the soil before it becomes woody. [[jeavons-green-manures-cover-crops]] provide benefits that
 surface mulch cannot: deep-rooting species like red clover and lupins bring
 minerals from lower soil layers (over 7 feet deep) to the surface, and
 nitrogen-fixing legumes (beans, clovers, lupins, winter tare) convert
@@ -35,7 +35,7 @@ be bare, preventing nutrient leaching through winter drainage on light soils
 and suppressing weed establishment. The soft green material rots down quickly
 when dug in, releasing nutrients faster than surface mulch decomposition.
 Different species serve different purposes: alfalfa provides deep rooting and
-abundant organic matter; broad beans fix nitrogen and produce edible beans;
+abundant organic matter; broad beans [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] and produce edible beans;
 red clover has an extensive root system and fixes nitrogen; lupins add
 nitrogen and large amounts of phosphates; buckwheat attracts beneficial
 insects; phacelia is fast-growing and soft; rye provides extensive roots and
@@ -54,12 +54,12 @@ rob soil nitrogen rather than adding it.
 |--------|----------|-------------|
 | Material | Dead organic matter applied on surface | Living crop grown then incorporated |
 | Soil disturbance | None (no-till compatible) | Requires digging or tilling to incorporate |
-| Nitrogen fixation | None | Significant from legume species |
+| [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] | None | Significant from legume species |
 | Deep nutrient mining | Surface only | Deep roots access subsoil minerals |
 | Speed of nutrient release | Slow (surface decomposition) | Fast (incorporation accelerates breakdown) |
 | Seasonal timing | Year-round application | Grown during fallow periods between crops |
 | Weed suppression | Physical barrier, ongoing | Competition during growth, then incorporation |
-| Soil improvement | Water retention, temperature moderation | Nutrient cycling, nitrogen addition, soil structure |
+| Soil improvement | Water retention, temperature moderation | [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], nitrogen addition, soil structure |
 | Cost | Often free (leaves, chips) | Seed cost, minimal |
 | Best For | No-till gardens, perennials, permanent beds | Rotational beds, winter cover, nitrogen addition |
 

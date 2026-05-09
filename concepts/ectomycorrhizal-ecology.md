@@ -9,7 +9,7 @@ sources: [raw/papers/john-dighton-fungi-in-ecosystem-processes.md]
 
 # Ectomycorrhizal Ecology
 
-Ectomycorrhizal fungi (ECM) form symbiotic associations with the roots of woody plants — primarily trees in temperate and boreal forests. The fungus forms a sheath (mantle) around the root tip and a Hartig net between root cells, facilitating nutrient exchange. ECM fungi are essential to forest health, tree nutrition, and ecosystem function.
+Ectomycorrhizal fungi (ECM) form symbiotic associations with the roots of woody plants — primarily trees in temperate and [[fungal-diversity-boreal-forests-taiga]]. The fungus forms a sheath (mantle) around the root tip and a Hartig net between root cells, facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]. ECM fungi are essential to forest health, tree nutrition, and ecosystem function.
 
 ## The Symbiosis
 
@@ -29,7 +29,7 @@ Ectomycorrhizal fungi (ECM) form symbiotic associations with the roots of woody 
 
 ### Broad Host Range
 - Many ECM fungi associate with multiple tree species
-- Examples: Amanita muscaria (birch, pine, spruce), Laccaria laccata (dozens of species)
+- Examples: [[allegro-amanita-muscaria-properties-and-pharmacology]] (birch, pine, spruce), Laccaria laccata (dozens of species)
 - Broad generalists dominate in disturbed or young forests
 
 ### Narrow Host Range
@@ -63,9 +63,9 @@ Forests with diverse exploration types are more resilient — they access nutrie
 
 ## Ecological Significance
 - ECM fungi are keystone organisms in temperate and boreal forests
-- They drive nutrient cycling, carbon sequestration, and plant community composition
+- They drive [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], carbon sequestration, and plant [[core-endorhiza-bacterial-community-composition-cannabis]]
 - Forest productivity is directly linked to ECM diversity and function
-- Climate change impacts on ECM (warming, drought, N deposition) affect entire forest ecosystems
+- [[dighton-fungi-climate-change-feedback]] impacts on ECM (warming, drought, N deposition) affect entire forest ecosystems
 
 ## Related
 - [[mycorrhizal-fungi]] — for the other major mycorrhizal type
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

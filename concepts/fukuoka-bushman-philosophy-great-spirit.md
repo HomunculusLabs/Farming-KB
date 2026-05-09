@@ -22,7 +22,7 @@ animals, weather, and landscape was intimate and experiential — not
 analytical or theoretical. He knew where to find water in the desert, which
 plants were edible, which animals could be tracked, and how to read the
 signs of weather changes. This knowledge was not acquired through study but
-through a lifetime of direct observation and participation in the natural
+through a lifetime of [[fukuoka-direct-observation-method]] and participation in the natural
 world.
 
 Fukuoka contrasted this with the modern person's relationship with nature,
@@ -41,14 +41,14 @@ integrated, self-organizing intelligence that he believed permeated all of
 nature. To be in touch with the Great Spirit was to perceive the unity and
 interconnectedness of all things, to recognize that the separation between
 self and nature was an illusion created by the human intellect, and to live
-in accordance with the natural order rather than in opposition to it.
+in accordance with the [[fukuoka-textdoc-natural-order-food-chain-unity]] rather than in opposition to it.
 
 Fukuoka believed that the Bushman lived in this state naturally, without
 any philosophical reflection on it. The Bushman did not need to meditate
 or study to achieve unity with nature — he had never lost it. Modern people,
 having lost this unity through centuries of intellectual development and
 technological progress, could only return to it through a deliberate and
-often painful process of unlearning. Natural farming was, for Fukuoka,
+often painful process of unlearning. [[comparison-natural-farming-vs-permaculture]] was, for Fukuoka,
 one path back to this state of unity.
 
 ## Nature Farming and the Bushman's Way
@@ -62,7 +62,7 @@ Both valued direct, experiential knowledge over analytical, theoretical
 knowledge. And both sought a state of harmony with the natural world rather
 than dominance over it.
 
-The Bushman did not need the four principles of natural farming (no tillage,
+The Bushman did not need the four [[four-principles-of-natural-farming]] farming (no tillage,
 no fertilizer, no weeding, no pesticides) because he never practiced the
 opposite. He never tilled because he never farmed. He never applied
 fertilizer because he never depleted the soil. He never weeded because he

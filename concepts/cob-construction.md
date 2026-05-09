@@ -14,7 +14,7 @@ Cob construction is a building technique using a mixture of clay subsoil, sand, 
 
 ## History and Distribution
 
-Cob building has a long history across many cultures. In Britain, cob houses have been continuously occupied for over 500 years, with some examples dating to the 14th century. Devon and Cornwall are particularly known for cob construction, where the technique was the predominant building method for rural housing until the 19th century.
+Cob building has a long history across many cultures. In Britain, cob houses have been continuously occupied for over 500 years, with some examples dating to the 14th century. Devon and Cornwall are particularly known for cob construction, where the technique was the predominant [[query-how-do-i-choose-a-natural-building-method-for-my-climate]] rural housing until the 19th century.
 
 Similar techniques exist worldwide under different names: bousillage in France, quincha in South America, zalan in Hungary, and various forms of mud and straw construction across Africa and Asia. The technique persists wherever suitable clay soils are found and communities maintain the building knowledge.
 
@@ -75,7 +75,7 @@ The foundation should be stone or concrete, extending at least 30-45 cm above gr
 
 ## Overview
 
-Both earthships and cob buildings represent radical departures from conventional construction, relying on earth-based materials and massive [[pdc-animal-systems-integration]], and the philosophy behind them. An earthship is an integrated machine — a self-contained system for shelter, energy, water, and food. A cob building is a sculptural shelter — a handcrafted home made from the earth beneath your feet.
+Both earthships and cob buildings represent radical departures from conventional construction, relying on earth-based materials and massive pdc-animal-systems-integration, and the philosophy behind them. An earthship is an integrated machine — a self-contained system for shelter, energy, water, and food. A cob building is a sculptural shelter — a handcrafted home made from the earth beneath your feet.
 
 ## Structural Materials
 
@@ -93,9 +93,9 @@ In cold, overcast winters, neither system alone may provide sufficient heat with
 
 This is where the two approaches diverge most sharply.
 
-**Earthships** are complete off-grid systems. They include rainwater harvesting from metal roofs, stored in cisterns. Greywater from sinks and showers flows through indoor botanical planter cells for biological treatment. Blackwater from toilets is processed through outdoor constructed wetlands. Photovoltaic panels and wind turbines generate electricity stored in battery banks. The entire home is designed as an interlocking system where waste from one process becomes input for another.
+**Earthships** are complete off-grid systems. They include [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]] from metal roofs, stored in cisterns. Greywater from sinks and showers flows through indoor botanical planter cells for biological treatment. Blackwater from toilets is processed through outdoor [[comparison-constructed-wetlands-vs-bioswales]]. Photovoltaic panels and wind turbines generate electricity stored in battery banks. The entire home is designed as an interlocking system where waste from one process becomes input for another.
 
-**Cob buildings** are shelter, and only shelter. They do not inherently include water, energy, or waste systems. A cob home can certainly be equipped with solar panels, rainwater harvesting, composting toilets, and greywater systems — and many are — but these are add-ons chosen and installed by the builder, not integral to the cob building philosophy.
+**Cob buildings** are shelter, and only shelter. They do not inherently include water, energy, or waste systems. A cob home can certainly be equipped with solar panels, rainwater harvesting, [[comparison-composting-toilets-vs-greywater-systems-detailed]], and greywater systems — and many are — but these are add-ons chosen and installed by the builder, not integral to the cob building philosophy.
 
 If you want a fully integrated self-sufficient home with minimal design decisions, earthships provide a complete package. If you prefer to pick and choose your off-grid systems and integrate them into a handcrafted home, cob offers more flexibility.
 
@@ -115,7 +115,7 @@ Earthships have higher material costs due to the glazing, metal roofing, cistern
 
 ## Aesthetics and Design Freedom
 
-**Cob** is the winner for design freedom. The plasticity of wet cob allows for curves, arches, sculptural reliefs, built-in furniture, niches, shelves, and organic forms that would be impossible with any other building material. Every cob home is a unique work of art.
+**Cob** is the winner for design freedom. The plasticity of wet cob allows for curves, arches, sculptural reliefs, built-in furniture, niches, shelves, and organic forms that would be impossible with any other [[fungal-building-material-deterioration]]. Every cob home is a unique work of art.
 
 **Earthships** have a more standardized aesthetic, defined by the repeating cylindrical forms of the tire walls, the sweeping greenhouse glass, and the industrial character of the systems. Interior bottle walls add color and light, but the overall design language is more constrained.
 
@@ -125,7 +125,7 @@ Both are highly durable when properly built and maintained. Cob structures have 
 
 ## When to Choose Which
 
-Choose an **earthship** if you want a fully integrated off-grid home with water harvesting, greywater treatment, and solar electricity built into the design from the start. They are ideal for arid and semi-arid climates with abundant sunshine and are well-suited to owners who want a complete, proven system rather than assembling components themselves.
+Choose an **earthship** if you want a fully integrated off-grid home with water harvesting, [[mollison-designers-greywater-treatment-reedbeds]], and solar electricity built into the design from the start. They are ideal for arid and semi-arid climates with abundant sunshine and are well-suited to owners who want a complete, proven system rather than assembling components themselves.
 
 Choose **cob** if you prioritize design freedom, natural materials, lower cost, and a hands-on building experience. Cob is ideal for temperate climates, owner-builders with small crews, and anyone who wants a unique, sculptural home and is willing to separately design or add off-grid systems as needed.
 

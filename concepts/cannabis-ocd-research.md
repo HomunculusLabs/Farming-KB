@@ -10,7 +10,7 @@ sources:
 
 # Cannabis and OCD Research
 
-**Source:** The Cannabis Health Index (Uwe Blesching, 2017)
+**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]] (Uwe Blesching, 2017)
 
 **Last Updated:** 2026-04-18
 
@@ -43,7 +43,7 @@ While specific OCD studies are limited in the CHI database, the Tourette Syndrom
 ### Nabilone for OCD (2008)
 
 - Case reports suggest cannabinoid-based medicines may reduce compulsive behaviors
-- Clinical trials are ongoing for cannabinoid-based OCD treatments
+- [[mushroom-cancer-clinical-trials-overview]] are ongoing for cannabinoid-based OCD treatments
 
 ## Pharmacological Mechanisms
 
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

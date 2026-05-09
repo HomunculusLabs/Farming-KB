@@ -1,10 +1,11 @@
 ---
-title: Desert Gardening vs Drought Gardening
+title: comparison desert gardening vs drought gardening vs comparison-drought-gardening-vs-rainwater-harvesting
 created: 2026-04-28
 tags: [gardening, water-management, arid-climate, organic-gardening]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  - "raw/papers/steve-solomon-gardening-when-it-counts.md"
 type: comparison
 ---
 
@@ -32,7 +33,7 @@ The moisture availability window — the range between field capacity and perman
 
 Desert gardening begins with the premise that the environment is hostile to most cultivated plants and that the gardener must engineer favorable conditions through infrastructure, plant selection, and precise water management. Every element — shade structures, soil amendments, irrigation timing — exists to mitigate harsh baseline conditions.
 
-Drought gardening begins with the opposite premise: standard gardening is possible with far less water than commonly assumed, provided plants are spaced widely enough to access deeper soil moisture. The philosophy is one of reduction rather than engineering. Do less — fewer plants, less water, less intervention — rather than build more infrastructure. Solomon frames it as recovering ancestral knowledge: growing vegetables without piped water by putting plants extremely far apart.
+Drought gardening begins with the opposite premise: standard gardening is possible with far less water than commonly assumed, provided plants are spaced widely enough to access deeper soil moisture. The philosophy is one of reduction rather than engineering. Do less — fewer plants, less water, less intervention — rather than build more infrastructure. Solomon frames it as recovering ancestral knowledge: [[container-growing-vegetables-herbs]] without piped water by putting plants extremely far apart.
 
 | Aspect | Desert Gardening | Drought Gardening |
 |--------|-----------------|-------------------|
@@ -51,16 +52,16 @@ Water in the desert must be captured, stored, and precisely delivered. Passive [
 Irrigation efficiency is critical. Drip irrigation delivers water at 90%+ efficiency directly to root zones, compared to roughly 50% for sprinklers. Ollas (unglazed clay pots buried in soil) provide slow subsurface seepage. Timer-based systems water in pre-dawn hours to minimize evaporative loss. Every drop must reach the root zone with minimal waste.
 
 ### Drought: Space and Access
-Drought gardening relies on spacing plants far apart so each accesses a larger soil moisture volume. Solomon showed that traditional Native American corn at four-foot centers (one seed per hill — "one for the worm, one for the crow, one to rot, and one to grow") required virtually no irrigation.
+Drought gardening relies on spacing plants far apart so each accesses a larger soil moisture volume. Solomon showed that traditional [[halpern-sacramental-peyote-and-native-american-church]] corn at four-foot centers (one seed per hill — "one for the worm, one for the crow, one to rot, and one to grow") required virtually no irrigation.
 
 When watering is needed, the protocol is infrequent and deep, maintaining soil above 70% of field capacity. Solomon's soil ball test provides a practical gauge: dig 5-6 inches, squeeze a handful. If it holds together solidly, moisture is adequate. If it barely holds together under pressure, it is time to water.
 
-Foliar feeding with fish emulsion or kelp tea can substitute for fertigation when water is extremely scarce, delivering nutrients through leaves with just a few gallons per week. Even half-strength Coca Cola has been used as an effective foliar spray, providing phosphoric acid and sugars.
+[[comparison-foliar-feeding-vs-compost-tea-nutrients]] with fish emulsion or kelp tea can substitute for fertigation when water is extremely scarce, delivering nutrients through leaves with just a few gallons per week. Even half-strength Coca Cola has been used as an effective foliar spray, providing phosphoric acid and sugars.
 
 ## Soil Challenges
 
 ### Desert Soils: A Chemical Puzzle
-Desert soils present obstacles temperate gardeners rarely encounter. pH is high (7.5-8.5+), caliche layers of hardened calcium carbonate impede root penetration, organic matter is often under 1%, and salinity accumulates from high evaporation. Nitrogen, phosphorus, iron, and zinc are commonly deficient.
+Desert soils present obstacles temperate gardeners rarely encounter. pH is high (7.5-8.5+), caliche layers of hardened calcium carbonate impede root penetration, [[hamilton-composting-and-organic-matter-management]] is often under 1%, and salinity accumulates from high evaporation. Nitrogen, phosphorus, iron, and zinc are commonly deficient.
 
 Sulfur lowers pH but takes months to show effect (5-10 lbs per 100 sq ft). Gypsum improves sodic soil structure without changing pH. Chelated iron corrects iron chlorosis, where leaves yellow between veins despite adequate nitrogen. Compost decomposes rapidly in heat, requiring annual 2-4 inch applications. Mulch at 3-6 inches reduces evaporation, though wood chips should not touch stems (termite risk). Caliche within 12 inches of the surface must be broken through or bypassed with raised beds. See [[drought-gardening-strategies]] focuses on improving existing soil water-holding capacity through organic matter additions. Organic matter acts like a sponge, particularly important on sandy or chalky soils that drain rapidly. The emphasis is on keeping ground covered at all times with crops, [[comparison-drip-irrigation-vs-rainwater-harvesting]] systems
 - Keeping the ground covered at all times to prevent evaporative moisture loss
@@ -92,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

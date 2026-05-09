@@ -1,5 +1,5 @@
 ---
-title: Worldwide Distribution of Psilocybin Mushrooms
+title: Worldwide Distribution of forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc
 created: 2026-04-28
 tags:
   - biogeography
@@ -18,16 +18,16 @@ type: concept
 
 ## Global Overview
 
-Neurotropic fungi are distributed on every continent, with the exception of
+[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] are distributed on every continent, with the exception of
 Antarctica proper. The paper by Guzman, Allen, and Gartz documents 216 species
 across 20 genera found in over 80 countries and territories. The greatest
 concentration of species occurs in the Neotropics (Mexico, Central and South
-America), with secondary centers of diversity in Southeast Asia, Australasia,
-and temperate regions of North America and Europe.
+America), with secondary centers of diversity in [[psilocybe-southeast-asia-pacific]], Australasia,
+and temperate regions of [[psilocybin-north-america-pacific-northwest]] and Europe.
 
 ## North America
 
-The United States and Canada together host approximately 46 neurotropic
+The [[dmt-containing-plants-united-states-halpern]] and Canada together host approximately 46 neurotropic
 species. The Pacific Northwest (Washington, Oregon, British Columbia) is
 particularly rich, with species including P. azurescens, P. baeocystis,
 P. cyanescens, P. pelliculosa, P. stuntzii, and P. silvatica. The
@@ -67,7 +67,7 @@ venenata, and P. septentrionalis. India has P. indica, P. natarajanii,
 P. pseudoaztecorum, and P. cubensis. Southeast Asia (Thailand, Cambodia,
 Indonesia, Philippines, Sri Lanka) hosts numerous tropical species,
 particularly Copelandia cyanescens and P. cubensis. China and the Himalayan
-region have Amanita muscaria and P. venenata. New Guinea is notable for
+region have [[allegro-amanita-muscaria-properties-and-pharmacology]] and P. venenata. New Guinea is notable for
 several bolete species associated with indigenous use.
 
 ## Australasia and Oceania

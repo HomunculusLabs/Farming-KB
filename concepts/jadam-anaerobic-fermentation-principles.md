@@ -1,5 +1,5 @@
 ---
-title: "JADAM Anaerobic Fermentation Principles — Core Theory Behind All JADAM Inputs"
+title: "JADAM jadam anaerobic fermentation principles Principles — Core Theory Behind All JADAM Inputs"
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -100,4 +100,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

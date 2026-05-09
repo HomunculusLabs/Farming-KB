@@ -13,14 +13,14 @@ sources:
 
 DOET (PIHKAL #66), also known by the code name HECATE, is a psychedelic amphetamine in the DOx family. The 4-ethyl substituent makes DOET less potent but reportedly more empathogenic than its methyl and halogenated siblings. Shulgin noted that the ethyl group imparts a "warmer" quality to the experience, bridging the character of the DOx psychedelics with the more connective qualities of compounds like [[doi-compound-profile]] or [[dom-compound-profile]] (methyl) and higher homologues in potency. The larger alkyl chain may influence receptor conformation in ways that promote serotonergic effects associated with empathy and emotional openness. See [[dom-compound-profile]] to become **DOME**. But by the time the naming inconsistency was recognized, DOM had already become too firmly established in both the scientific literature and popular usage to justify a change. The STP episode (see [[pihkal-introduction-and-methodology]] for more on Shulgin's coding system and [[dom-compound-profile]] are immediate structural homologues, differing only at the 4-position substituent (ethyl vs. methyl). Despite this small change, several notable differences emerge from the PIHKAL reports:
 
-- **Potency:** DOM is approximately 2-3x more potent by weight than DOET, consistent with the general trend that smaller 4-position substituents increase activity in the DOx series. See [[doi-compound-profile]] (iodo, most potent), [[2c-e-compound-profile]] family compounds follow similar SAR principles — see that page for the phenethylamine (non-amphetamine) analogue with the same ethyl substitution.
+- **Potency:** DOM is approximately 2-3x more potent by weight than DOET, consistent with the general trend that smaller 4-position substituents increase activity in the DOx series. See [[doi-compound-profile]] (iodo, most potent), [[2c-e-compound-profile]] [[2c-family-compounds-overview]] follow similar SAR principles — see that page for the phenethylamine (non-amphetamine) analogue with the same ethyl substitution.
 
 ## Harm Reduction
 
 - Standard DOx precautions apply — long duration (14-20 hours), plan accordingly
 - Milligram-scale accuracy required
 - Never redose due to long onset period
-- Less commonly encountered than DOM or DOI, but same safety principles apply
+- Less commonly encountered than DOM or DOI, but same [[shulgin-safety-principles-self-experimentation]] apply
 - See [[dom-compound-profile]] for comprehensive DOx harm reduction guidance
 - Individual sensitivity appears to vary significantly — start at the low end of the dosage range
 - The 6-7 mg range appears optimal for full effects; doses above this increase body load without proportional benefit
@@ -102,4 +102,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -1,5 +1,5 @@
 ---
-title: "3-TIM (3-THIOMESCALINE; 2,4-DIMETHOXY-3-METHYLTHIOPHENETHYLAMINE) -- PIHKAL Entry #153"
+title: "3-TIM (3-THIOMESCALINE; 2,4-DIMETHOXY-3-METHYLTHIOPHENETHYLAMINE) -- 2c-b-pihkal-entry-20 #153"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -42,7 +42,7 @@ makes sense!
 ## Synthesis
 
 A mixture of 3.1 g POCl3 2.8 g N-methylformanilide was
-heated on a steam bath until it was a deep claret color (about 5 min).
+heated on a [[scythian-cannabis-steam-bath-ritual]] until it was a deep claret color (about 5 min).
 To this there was then added 3.0 g of 2,6-dimethoxythioanisole (see
 under 4-TM for its preparation), and heating was continued for 30 min.
 The reaction mixture was then added to 75 mL H2O and stirred
@@ -86,7 +86,7 @@ concentrated HCl, and diluted with 15 mL anhydrous Et2O. Scratching
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

@@ -1,5 +1,5 @@
 ---
-title: BOD - PIHKAL Entry #14 Compound Profile
+title: BOD - 2c-b-pihkal-entry-20 #14 Compound Profile
 created: 2026-04-26
 updated: 2026-04-22
 sources: PIHKAL Entry #14
@@ -30,8 +30,8 @@ The added beta-methoxy group creates a new asymmetric center, allowing separatio
 
 ## Synthesis Summary
 
-The [[2c-d-pihkal-entry-23]]: The parent compound without beta-oxygen. 2C-D is milder, more ambiguous, and shorter-acting. BOD adds visual richness and conversational enhancement at the cost of body load and longer duration.
-- [[harm-reduction-guide]] for general psychedelic safety principles.
+The : The parent compound without beta-oxygen. 2C-D is milder, more ambiguous, and shorter-acting. BOD adds visual richness and conversational enhancement at the cost of body load and longer duration.
+- [[harm-reduction-guide]] for general psychedelic [[shulgin-safety-principles-self-experimentation]].
 - The [[pihkal-cautionary-note-and-legal-context]] for jurisdictional status.
 - [[tweetio-series-ethoxy-homologues-pihkal]]
 ## Practical Applications
@@ -111,4 +111,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

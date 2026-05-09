@@ -1,10 +1,11 @@
 ---
-title: Cob Building
+title: comparison-cob-building-vs-adobe-construction
 created: 2026-04-18
 updated: 2026-04-19
 type: concept
 tags: [reference]
-sources: []
+sources:
+  sources: []
 ---
 
 # Cob Building
@@ -19,7 +20,7 @@ Understanding the distinction between thermal mass and insulation is critical fo
 
 - **Insulation (what cob lacks):** Cob has low insulating value (approximately R-1 per inch). A 24-inch cob wall provides roughly R-24 of thermal mass but does not prevent heat flow through the wall. In very cold climates, cob alone may not provide sufficient insulation for winter comfort.
 
-- **Design solutions for cold climates:** Use cob for south-facing walls (to capture and store solar heat) and combine with insulated wall systems (straw bale, light straw clay) for north-facing walls. Or build a double cob wall with insulation cavity between the wythes.
+- **Design solutions for cold climates:** Use cob for south-facing walls (to capture and store solar heat) and combine with insulated wall systems ([[comparison-cob-construction-vs-straw-bale-construction]], [[comparison-light-straw-clay-vs-hempcrete]] clay) for north-facing walls. Or build a double cob wall with insulation cavity between the wythes.
 
 ## Integration with Permaculture Design
 
@@ -27,9 +28,9 @@ Cob building integrates naturally with [[homesteading-infrastructure]].
 
 - **Local materials:** All cob materials (clay, sand, straw, water) can typically be sourced from the building site or immediate vicinity, following the permaculture principle of using local, biological resources.
 
-- **Earth-sheltered design:** Cob buildings can be partially bermed into hillsides, with the earth providing additional insulation and thermal mass on the north side while the south side remains exposed for passive solar gain.
+- **Earth-sheltered design:** Cob buildings can be partially bermed into hillsides, with the earth providing additional insulation and thermal mass on the north side while the south side remains exposed for [[comparison-passive-solar-vs-earth-sheltered]] gain.
 
-- **Outdoor living integration:** Cob is ideal for creating outdoor structures -- cob benches, cob pizza ovens, cob garden walls, and cob greenhouses connect the built environment to the garden landscape.
+- **Outdoor living integration:** Cob is ideal for creating outdoor structures -- cob benches, cob pizza ovens, cob garden walls, and cob greenhouses connect the [[artillery-fungus-and-built-environment-fungi]] to the garden landscape.
 
 - **Built-in features:** Cob walls can be sculpted to include built-in furniture, shelving, niches, seating, storage alcoves, and decorative elements, reducing the need for additional furniture and manufactured materials.
 
@@ -46,7 +47,7 @@ Cob building integrates naturally with [[homesteading-infrastructure]].
 - [[passive-solar-design]]
 
 - [[homesteading-infrastructure]]
-- [[holmgren-built-environment-energy-store]]
+- holmgren-built-environment-energy-store
 ## Practical Considerations
 
 When working with Cob Building, several practical factors should be
@@ -63,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

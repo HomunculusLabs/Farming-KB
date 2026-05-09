@@ -11,10 +11,10 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of North America: Volume 2 — Hardwoods." USDA Forest Service.
-  - Sternberg, G. (2004). "Native Trees for North American Landscapes." Timber Press.
+  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 2 — Hardwoods." USDA Forest Service.
+  - Sternberg, G. (2004). "Native Trees for [[growing-gourmet-north-american-reishi-species]] Landscapes." Timber Press.
   - Johnson, P.S., Shifley, S.R. & Rogers, R. (2009). "The Ecology and Silviculture of Oaks." CABI Publishing.
-  - Little, E.L. (1979). "Checklist of United States Trees." USDA Forest Service Agricultural Handbook 541.
+  - Little, E.L. (1979). "Checklist of [[dmt-containing-plants-united-states-halpern]] Trees." USDA Forest Service Agricultural Handbook 541.
 ---
 
 ## Overview
@@ -109,7 +109,7 @@ In bottomland forest ecosystems, pin oak plays a role in flood attenuation
 and streambank stabilization. Its shallow, spreading root system helps bind
 alluvial soils along river corridors.
 
-Several fungal pathogens affect pin oak, including oak wilt (*Ceratocystis
+Several [[bloomfield-fungal-pathogens-and-parasites]] affect pin oak, including oak wilt (*Ceratocystis
 fagacearum*), which can be lethal, and leaf blister (*Taphrina caerulescens*).
 The species is also a host for gall wasps of the family Cynipidae, which
 form distinctive spherical galls on leaves and twigs.
@@ -135,6 +135,8 @@ levels of tannins. Indigenous peoples of the eastern woodlands utilized pin
 oak acorns as a food source after leaching to remove bitter tannins.
 
 ## See Also
+
+- [[eleocharis-palustris]]
 
 - [[quercus-alba]]
 - [[quercus-suber]]

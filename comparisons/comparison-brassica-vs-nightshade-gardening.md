@@ -1,5 +1,5 @@
 ---
-title: "Brassica vs Nightshade Gardening"
+title: "comparison brassica vs nightshade gardening Gardening"
 created: 2026-04-28
 tags: [comparison, brassicas, nightshades, vegetable-gardening, cool-season, warm-season]
 date: 2026-04-28
@@ -38,10 +38,10 @@ Nightshades prefer well-drained, fertile soil but tolerate a wider pH
 range than brassicas. They are also heavy feeders, particularly
 tomatoes, which can develop root systems extending 5 feet outward and
 42 inches deep after two months. Blossom-end rot in tomatoes signals
-calcium deficiency, though this usually resolves with light lime
+[[knf-calcium-deficiency-symptoms]], though this usually resolves with light lime
 applications over a few seasons.
 
-Pest and disease pressure differs from brassicas. Hornworms,
+[[hamilton-pest-and-disease-control-organic]] pressure differs from brassicas. Hornworms,
 fruitworms, and aphids are the primary insect pests. Many tomato
 diseases affect commercial monoculture fields; home gardeners with
 adequate space and rotation rarely encounter serious disease.
@@ -78,13 +78,13 @@ vegetable family that reliably produces during freezing weather.
 
 Start with kale and collards if you are new to brassicas. They are the
 most forgiving and pest-resistant members of the family. As your soil
-improves and your pest management skills develop, progress to cabbage,
+improves and your [[cannabis-pest-management-guide]] skills develop, progress to cabbage,
 broccoli, and eventually cauliflower. Fall planting generally produces
 better results than spring planting for most brassica crops.
 
 ## When to Choose Nightshades
 
-Nightshades dominate the main summer growing season when warm soil
+Nightshades dominate the main summer [[savory-growing-season-and-non-growing-season-management]] when warm soil
 and long days support rapid growth and fruit production. They are the
 primary source of fresh vegetables during the peak of summer when
 brassicas would bolt or fail. Tomatoes, peppers, and eggplants
@@ -105,12 +105,16 @@ plant fall brassicas in the same beds after the nightshades are
 cleared in September. This approach maximizes bed utilization and
 spreads pest and disease pressure across different crop families.
 
-Succession planting bridges the transition periods. Fast-maturing
+[[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] bridges the transition periods. Fast-maturing
 Asian greens like radishes and tatsoi can be harvested in 30 days,
 filling gaps between main crop rotations. Row covers protect early
 brassicas from late spring frosts, while wall-o-water or cloche
 protection gives nightshades an early start.
 ## See Also
+
+- [[brassica-juncea]]
+- [[brassica-oleracea]]
+- [[brassica-napus]]
 
 - [[comparison-pepper-growing-guide-vs-tomato-growing-guide]]
 - [[comparison-annual-vs-perennial]]

@@ -26,11 +26,11 @@ Peptide's genetic background brings together three notable cannabis varieties
 in a carefully structured cross. The mother plant was an especially large
 specimen from a Heavy Duty Fruity and Sweet Tooth #3 cross, selected for her
 massive bud production. The father plant was a Durban Poison male chosen for
-its resin production and more restrained growth habit.
+its [[cannabis-glandular-trichome-types-resin-production-clarke]] and more restrained growth habit.
 
-Durban Poison is a legendary pure sativa landrace from South Africa, known for
+Durban Poison is a legendary pure [[cannabis-sativa-landrace-strains]] from South Africa, known for
 its uplifting effects, sweet anise-like aroma, and relatively manageable
-flowering time for a landrace sativa. It contributes the sativa dominance and
+flowering time for a [[african-landrace-sativa-modern-hybrids]]. It contributes the sativa dominance and
 the energetic qualities of Peptide's high. Heavy Duty Fruity brings intense
 fruit flavors and heavy resin production, while Sweet Tooth #3, originally
 bred by Spice of Life Seeds, adds sweetness and further yield potential. The
@@ -71,7 +71,7 @@ growers in northern climates should protect plants from unexpected cold snaps.
 
 ## Aroma and Flavor
 
-Peptide's aroma and flavor profile is one of its most distinctive features.
+Peptide's aroma and flavor profile is one of its most [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]].
 The buds emit a fragrance of sweet citrus combined with cotton candy, creating
 an immediately appealing scent. The smoke is described as massaging the
 insides upon inhalation, suggesting a smooth, full-bodied vapor that carries
@@ -113,9 +113,9 @@ contribute to its heavy yield potential.
 - [[cannabis-strain-naming]]
 
 - [[cannabis-sativa]] - Overview of sativa cannabis varieties
-- durban-poison - The legendary South African landrace sativa
+- durban-poison - The legendary [[kanna-sceletium-south-african-narcotic]] landrace sativa
 - terpenes - Aromatic compounds in cannabis
-- canadian-cannabis - Cannabis cultivation in Canada
+- canadian-cannabis - [[query-how-does-no-till-cannabis-cultivation-work]] in Canada
 
 ## Summary Table
 

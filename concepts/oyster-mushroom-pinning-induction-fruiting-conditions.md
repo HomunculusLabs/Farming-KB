@@ -1,4 +1,3 @@
-
 # Oyster Mushroom Pinning Induction and Fruiting Conditions
 
 ## Overview
@@ -6,11 +5,11 @@
 Pinning induction is the critical transition phase in [[mycelial-growth-and-colonization]] to
 reproductive fruitbody formation. This phase determines the number, quality and timing
 of mushroom harvests. The process is achieved by deliberately "worsening" the growing
-environment so that mycelia cannot continue vegetative growth and instead convert to
+environment so that mycelia cannot continue [[cannabis-vegetative-growth-stage]] and instead convert to
 reproductive mode.
 
-In the life cycle of Pleurotus mushrooms there are two stages: the vegetative stage
-and the reproductive growth stage. Generally, stimuli are needed for the shift from
+In the life cycle of Pleurotus mushrooms there are two stages: the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]
+and the [[knf-reproductive-growth-stage]] stage. Generally, stimuli are needed for the shift from
 mycelial growth to fruitbody formation. These stimuli include abrupt changes in
 temperature, humidity, gas concentration, light, nutrient reserves, and physical
 stimuli. Among these, a sharp temperature drop is the most effective trigger for most
@@ -44,7 +43,7 @@ develop, humidity can be reduced slightly (85-90%) but must never drop below 80%
 In tropical regions, high ambient humidity is an advantage but temperature control is
 challenging. In temperate regions, supplemental humidification may be needed. The
 growing room should be checked multiple times daily based on hygrometer readings and
-direct observation of mushroom condition.
+[[fukuoka-direct-observation-method]] of mushroom condition.
 
 ## Common Pinning Problems
 
@@ -54,15 +53,16 @@ direct observation of mushroom condition.
   Maintain stable conditions once pins form.
 - **Long stipes, small caps**: Classic CO2 excess. Increase ventilation immediately.
 - **Few pins, clustered**: Uneven colonisation or environmental conditions. Ensure
-  uniform substrate moisture and even light and air exposure.
+  uniform [[pf-tek-substrate-moisture-diagnosis-and-correction]] and even light and air exposure.
 
 ## See Also
 
 - [[oyster-mushroom-species]]-guide
-- [[oyster-mushroom-growing-house-site-selection]]-house-environment
+- oyster-mushroom-growing-house-site-selection-house-environment
+
 ## Practical Considerations
 
-Successful implementation of Oyster Mushroom Pinning Induction Fruiting Conditions requires attention to
+Successful implementation of Oyster Mushroom Pinning oyster mushroom pinning induction fruiting conditions Conditions requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

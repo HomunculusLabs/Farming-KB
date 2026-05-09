@@ -1,29 +1,13 @@
 ---
-title: The Sacred Mushroom and the Cross — Overview and Index
+title: The allegro-the-sacred-mushroom-amanita-identification and the Cross — Overview and Index
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [[mycology, mushrooms]
+tags: [mycology, mushrooms]
 sources: [raw/papers/allegro-j-the-sacred-mushroomcross.md]
 ---
-
-# The Sacred Mushroom and the Cross — Overview and Index
-
-"The Sacred Mushroom and the Cross" (1970) by John Marco Allegro is a controversial scholarly work proposing that Christianity — and much of ancient Near Eastern religion — originated in fertility cults centred on the psychoactive Amanita muscaria mushroom. Allegro, a member of the original Dead Sea Scrolls editorial team, applied philological analysis to argue that biblical names, narratives, and rituals encode secret Sumerian mushroom references.
-
-## Core Thesis
-
-Allegro argues that: (1) The Amanita muscaria was identified as a divine substance in ancient Sumer (c. 4000 BC); (2) Its Sumerian names were preserved as a sacred cryptographic language by Near Eastern priesthoods; (3) Biblical writers encoded these mushroom names into Hebrew and Aramaic, constructing narratives around false etymologies; (4) The New Testament writers continued this practice in Greek; (5) Christian rituals (Eucharist, baptism, crucifixion-resurrection) derive from mushroom-cult ceremonies; (6) The true meaning was lost when Christianity became the Roman state religion and the cryptographic key was suppressed.
-
-## Relevance and Reception
-
-The book was met with near-universal criticism from biblical scholars, linguists, and mycologists. Allegro's Sumerian etymologies were deemed speculative; his method was called unfalsifiable; and his failure to find scholarly support led to his increasing isolation. However, the book remains influential in entheogenic scholarship and countercultural circles, and anticipated later work on psychoactive substances in religion by Wasson, McKenna, and others.
-
-## Index of Concept Pages
-
-### Foundations and Methodology
-- [[allegro-philological-methodology]] — Sumerian cryptographic decoding methods, evidence, criticisms
-- [[allegro-sumer-and-the-beginnings]] — Sumer as origin of the mushroom cult, Enki/Ninkharsag, cuneiform
+# The Sacred Mushroom and the Cross — Overview and Index "The Sacred Mushroom and the Cross" (1970) by John Marco Allegro is a controversial scholarly work proposing that Christianity — and much of ancient Near Eastern religion — originated in fertility cults centred on the psychoactive Amanita muscaria mushroom. Allegro, a member of the original Dead Sea Scrolls editorial team, applied philological analysis to argue that biblical names, narratives, and rituals encode secret Sumerian mushroom references. ## Core Thesis Allegro argues that: (1) The Amanita muscaria was identified as a divine substance in ancient Sumer (c. 4000 BC); (2) Its Sumerian names were preserved as a sacred cryptographic language by Near Eastern priesthoods; (3) Biblical writers encoded these mushroom names into Hebrew and Aramaic, constructing narratives around false etymologies; (4) The New Testament writers continued this practice in Greek; (5) Christian rituals (Eucharist, baptism, crucifixion-resurrection) derive from mushroom-cult ceremonies; (6) The true meaning was lost when Christianity became the Roman state religion and the cryptographic key was suppressed. ## Relevance and Reception The book was met with near-universal criticism from biblical scholars, linguists, and mycologists. Allegro's Sumerian etymologies were deemed speculative; his method was called unfalsifiable; and his failure to find scholarly support led to his increasing isolation. However, the book remains influential in entheogenic scholarship and countercultural circles, and anticipated later work on psychoactive substances in religion by Wasson, McKenna, and others. ## Index of Concept Pages ### Foundations and Methodology - [[allegro-philological-methodology]] — Sumerian cryptographic decoding methods, evidence, criticisms
+- [[allegro-sumer-and-the-beginnings]] — Sumer as origin of the [[african-mushroom-cult-history]], Enki/Ninkharsag, cuneiform
 - [[allegro-names-of-the-gods-and-their-fertility-origins]] — Zeus/Yahweh etymology, Sumerian IA-U, single deity concept
 - [[allegro-new-testament-names-as-mushroom-cryptograms]] — Peter, Boanerges, Iscariot, Lazarus, Barabbas, etc.
 - [[allegro-david-egypt-and-the-census]] — David, Passover, Judas Iscariot, Issachar, Agabus
@@ -45,7 +29,7 @@ The book was met with near-universal criticism from biblical scholars, linguists
 
 ## Scholarly Significance and Criticism
 
-Allegro's interpretation of death and resurrection mythology as mushroom-derived remains one of the most contested aspects of [[allegro-the-sacred-mushroom-amanita-identification]]
+Allegro's interpretation of [[allegro-death-and-resurrection-in-the-mushroom-cult]] mythology as mushroom-derived remains one of the most contested aspects of [[allegro-the-sacred-mushroom-amanita-identification]]
 - [[allegro-soma-mushroom-thesis]]
 - [[allegro-wasson-soma-connection]]
 ## Practical Considerations
@@ -64,7 +48,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +90,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

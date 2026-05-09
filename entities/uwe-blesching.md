@@ -23,15 +23,15 @@ sources:
 
 # Uwe Blesching
 
-Uwe Blesching, Ph.D. (born 1958) is an American author and researcher who compiled one of the most comprehensive references on the therapeutic applications of cannabis. "The Cannabis Health Index" (2013, updated 2015) was published by North Atlantic Books of Berkeley, California, and cross-references health conditions with specific cannabinoid and terpene profiles, preparation methods, and evidence levels from clinical research.
+Uwe Blesching, Ph.D. (born 1958) is an American author and researcher who compiled one of the most comprehensive references on the therapeutic applications of cannabis. "The Cannabis Health Index" (2013, updated 2015) was published by North Atlantic Books of Berkeley, California, and cross-references health conditions with specific cannabinoid and [[cannabis-terpene-profiles-sativa]], preparation methods, and evidence levels from [[hofmann-lsd-clinical-research-early-studies]].
 
 ## The Cannabis Health Index
 
-The full title — "The Cannabis Health Index: Combining the Science of Medical Marijuana with Mindfulness Techniques to Heal 100 Chronic Symptoms and Diseases" — captures Blesching's integrative approach. The book combines hard pharmacological science with mind-body medicine perspectives, organizing its content around:
+The full title — "The Cannabis Health Index: Combining the Science of [[cervantes-medical-marijuana-pharmacology]] with Mindfulness Techniques to Heal 100 Chronic Symptoms and Diseases" — captures Blesching's integrative approach. The book combines hard pharmacological science with mind-body medicine perspectives, organizing its content around:
 
 - **The endocannabinoid system:** A detailed introduction to cannabinoid receptors (CB1, CB2), the four prime cannabinoids (anandamide/AEA, THC, CBD, (E)-beta-caryophyllene), and how they interact with the body's own signaling systems
 - **Mind-body medicine connections:** Blesching explores the relationship between molecules and emotions, presenting a framework connecting neurotransmitters and emotional states — acetylcholine ("I remember"), anandamide ("I am at ease"), serotonin ("I am happy"), cortisol ("I am stressed"), etc.
-- **The CHI scoring system:** A systematic framework for matching health conditions to specific cannabis chemotypes, delivery methods, and evidence levels, rated using a structured evidence hierarchy
+- **The CHI scoring system:** A systematic framework for matching health conditions to specific cannabis chemotypes, [[cannabis-delivery-methods-comparison]], and evidence levels, rated using a structured evidence hierarchy
 - **Comprehensive condition coverage:** Over 100 conditions including chronic pain, inflammation, neurological disorders, mental health conditions, autoimmune diseases, and aging-related conditions
 - **Strain-specific guidance:** Evidence-based recommendations considering sativa vs. indica chemotypes and specific delivery methods
 
@@ -39,12 +39,12 @@ The full title — "The Cannabis Health Index: Combining the Science of Medical 
 
 Blesching's bibliography extends beyond cannabis:
 - "Spicy Healing: A Global Guide to Growing and Using Spices for Food and Medicine" — connecting culinary spices to their medicinal properties
-- "Cuba's Carnival: Origins of the Biggest Party on Earth" — cultural history
+- "Cuba's Carnival: Origins of the Biggest Party on Earth" — [[shroom-cultural-history-hippie-revolution-and-counterculture]]
 - "How the Old Man Learned to Smile" — fiction
 
 ## Approach
 
-Blesching's work is notable for bridging the gap between clinical pharmacology and holistic health practice. He advocates for what he calls a "subjective therapeutic window" — the idea that optimal cannabis dosing is highly individual and must be determined through careful self-observation. His inclusion of mindfulness techniques alongside cannabinoid science reflects an integrative medicine perspective that considers both the biochemical and psychological dimensions of healing.
+Blesching's work is notable for bridging the gap between clinical pharmacology and holistic health practice. He advocates for what he calls a "[[cannabis-subjective-therapeutic-window-dosing]] window" — the idea that optimal cannabis dosing is highly individual and must be determined through careful self-observation. His inclusion of mindfulness techniques alongside cannabinoid science reflects an integrative medicine perspective that considers both the biochemical and psychological dimensions of healing.
 
 ## See Also
 
@@ -111,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

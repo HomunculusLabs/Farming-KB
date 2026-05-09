@@ -11,10 +11,10 @@ sources:
 
 **Updated:** 2026-04-18
 
-Water-Soluble Potassium (WP) is a KNF mineral input extracted from tobacco stems. Potassium regulates water use, activates enzymes, facilitates photosynthate translocation, and is critical for fruit quality, disease resistance, and stress tolerance.
+Water-Soluble Potassium (WP) is a KNF mineral input extracted from tobacco stems. Potassium regulates water use, activates enzymes, facilitates photosynthate translocation, and is critical for fruit quality, disease resistance, and [[fungal-lichen-stress-tolerance-and-poikilohydry]].
 
 ## Source
-Master Cho's Korean Natural Farming Recipe Book
+Master Cho's Korean [[comparison-natural-farming-vs-permaculture]] Recipe Book
 
 ## Functions of Potassium in Plants
 
@@ -92,3 +92,7 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[knf-fmc-method-1-detailed]]
+- [[knf-water-soluble-potassium-functions]]

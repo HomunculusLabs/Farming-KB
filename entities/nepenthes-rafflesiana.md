@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Clarke, C.M. (1997). "Nepenthes of Borneo." Natural History Publications.
-  - Adam, J.H., Wilcock, C.C. (1998). "A review of the genus Nepenthes in Borneo." Journal of Tropical Forest Science, 10(2), 159-178.
+  - Adam, J.H., Wilcock, C.C. (1998). "A review of the genus Nepenthes in Borneo." Journal of [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] Science, 10(2), 159-178.
   - McPherson, S.R. (2009). "Pitcher Plants of the Old World." Redfern Natural History Productions.
   - Gaume, L., et al. (2016). "The wax crystals of Nepenthes pitcher plants." Journal of the Royal Society Interface, 13(116).
 ---
@@ -54,7 +54,7 @@ It is often one of the first Nepenthes species to colonize disturbed areas. Popu
 
 The species shows considerable ecological plasticity, tolerating both shaded understory conditions and full sun exposure in open habitats. Soil type ranges from ultramafic to peat.
 
-In Borneo, the species is particularly common in heath forest (*kerangas*) on white sand soils. These nutrient-poor environments favor carnivory as a nitrogen acquisition strategy.
+In Borneo, the species is particularly common in heath forest (*kerangas*) on white sand soils. These nutrient-poor environments favor carnivory as a [[fungal-bacterial-predators-nitrogen-acquisition-soil-ecology]] strategy.
 
 In coastal regions of Peninsular Malaysia and Singapore, populations persist in degraded habitats including abandoned agricultural land. This resilience has helped the species remain widespread despite habitat loss.
 
@@ -72,7 +72,7 @@ Some populations in Borneo produce pitchers with unusually wide peristomes and p
 
 The species shows an ontogenetic shift in prey capture strategy. Lower pitchers capture ground-dwelling arthropods, while upper pitchers specialize on flying insects attracted to nectar.
 
-Research has demonstrated that the digestive fluid of *N. rafflesiana* contains a complex microbial community, including bacteria and yeasts that aid in prey decomposition. This microbiome may enhance nutrient availability.
+Research has demonstrated that the digestive fluid of *N. rafflesiana* contains a complex [[edaphic-factors-microbial-community-structure]], including bacteria and yeasts that aid in prey decomposition. This microbiome may enhance [[ph-and-nutrient-availability-garden-soils]].
 
 The species also forms mutualistic relationships with certain ant species. Harpacticoid copepods and mosquito larvae sometimes inhabit the pitcher fluid without being digested, forming a small inquiline community.
 
@@ -84,11 +84,11 @@ A well-draining potting mix of sphagnum moss, perlite, and orchid bark works wel
 
 Pitcher production is reliable under favorable conditions. The species is tolerant of brief temperature drops but is not frost-hardy.
 
-Propagation is typically by stem cuttings, which root readily. Seeds require a symbiotic relationship with mycorrhizal fungi for optimal germination rates.
+Propagation is typically by stem cuttings, which root readily. Seeds require a symbiotic relationship with [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] for optimal germination rates.
 
 The species has contributed to many popular hybrids in the horticultural trade. It is widely available from specialist nurseries.
 
-Pest issues include scale insects, mealybugs, and fungal infections in poorly ventilated conditions. Regular inspection and proper air circulation help prevent infestations.
+Pest issues include scale insects, mealybugs, and [[blesching-cannabis-fungal-infections-candida]] in poorly ventilated conditions. Regular inspection and proper air circulation help prevent infestations.
 
 ## Variants and Hybrids
 

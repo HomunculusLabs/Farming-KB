@@ -11,13 +11,13 @@ type: concept
 
 # Flexibility in Management
 
-Putting holism into practice means accepting the fact that any resource management
+Putting holism into practice means accepting the fact that any [[savory-holistic-resource-management-animal-impact]]
 problem has many solutions. Like so many other aspects of [[savory-holistic-goal-definition]] and the whole it encompasses, and you must be
 free from rules, systems, and restraints to manage the whole effectively.
 
 Given this degree of flexibility, people often don't know what to do with it. Like
 the imprisoned bird whose cage has been opened suddenly, we remain on our perches,
-confused by the new possibilities. Holistic management divides flexibility into three
+confused by the new possibilities. [[savory-holistic-management-overview]] divides flexibility into three
 broad levels for planning and management purposes.
 
 ## Strategic Flexibility
@@ -51,7 +51,7 @@ but replan immediately with a completely new look.
 ### Drought Response
 
 Droughts creep up on people, and most consider them acts of God rather than matters
-for timely replanning. Each growing season, especially in [[savory-drought-planning-and-reserves]]. If that drought
+for timely replanning. Each [[savory-growing-season-and-non-growing-season-management]], especially in [[savory-drought-planning-and-reserves]]. If that drought
 persists, you face a whole growing season that may not produce enough feed. You can
 do a lot about that only if you replan without delay.
 
@@ -75,7 +75,7 @@ on the rested portions of the land.
 
 ## Flexibility and the [[savory-weak-link-analysis]]
 
-Flexibility interacts with the weak link analysis guideline by requiring managers to
+Flexibility interacts with the [[savory-weak-link-analysis]] analysis guideline by requiring managers to
 reassess which link is weakest as conditions change. In a good year, the financial
 weak link may dominate. In a drought year, the biological weak link becomes paramount.
 The flexibility to shift attention and resources between these different constraints

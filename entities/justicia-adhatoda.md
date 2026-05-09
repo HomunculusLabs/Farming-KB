@@ -44,7 +44,7 @@ antimicrobial activities. The plant is also valued in [[luteolin]], [[linalool]]
 - **Bronchitis:** Expectorant properties reduce sputum viscosity; widely used
   in Ayurvedic formulations for chronic bronchitis
 - **Cough:** Antitussive efficacy comparable to bromhexine and codeine in
-  clinical trials for productive and dry cough
+  [[mushroom-cancer-clinical-trials-overview]] for productive and dry cough
 - **Tuberculosis:** Adjunctive use; vasicine shows in vitro activity against
   *M. tuberculosis*
 
@@ -70,12 +70,14 @@ antimicrobial activities. The plant is also valued in [[luteolin]], [[linalool]]
 ## Permaculture Applications
 
 - **Living fence:** Dense, thorny branches form effective livestock barrier
-- **Erosion control:** Deep root system stabilizes slopes and embankments
+- **[[permplant-willows-salix-erosion-control-fodder]]:** Deep root system stabilizes slopes and embankments
 - **Botanical insecticide:** Leaf extracts toxic to aphids, whiteflies,
-  caterpillars; used as natural pesticide in organic systems
+  caterpillars; used as [[jadam-natural-pesticide-institute-and-research]] in organic systems
 - **Windbreak:** Low-height windbreak for vegetable gardens in tropics
-- **Bee forage:** Autumn flowers attract pollinators
+- **[[mollison-designers-bee-forage-tree-planting]]:** Autumn flowers attract pollinators
 ## See Also
+
+- [[justicia-pectoralis]]
 
 - [[berberine]]
 - [[ephedra-sinica]]

@@ -1,5 +1,5 @@
 ---
-title: Happy Hill Rice Strain and World Food Potential
+title: fukuoka-happy-hill-rice-landrace Rice Strain and World Food Potential
 created: 2026-04-28
 tags: [rice, breeding, food-security, natural-farming, seed-dispersal, fukuoka]
 date: 2026-04-28
@@ -14,7 +14,7 @@ type: concept
 ## Overview
 
 Happy Hill is a hardy rice strain developed by Masanobu Fukuoka through decades of
-natural farming observation and selection. Unlike scientifically bred high-yield
+[[comparison-natural-farming-vs-permaculture]] observation and selection. Unlike scientifically bred high-yield
 varieties, Happy Hill carries the blood of wild rice variants while maintaining
 yields competitive with the highest yielding strains in the world. Fukuoka
 regarded it as a potential solution to global food scarcity, capable of
@@ -26,7 +26,7 @@ Fukuoka did not develop Happy Hill through conventional plant breeding or geneti
 manipulation. Instead, the strain emerged from his natural farming fields over
 many years of observation. He describes it as a variety created together with
 the insects in his fields, suggesting that natural selection pressures including
-pest pressure, competition with weeds, and the absence of chemical fertilizers
+pest pressure, competition with weeds, and the absence of [[cervantes-chemical-fertilizers-guide]]
 and pesticides shaped the strain into something both hardy and productive.
 
 This approach contrasts sharply with modern rice breeding programs that rely on
@@ -67,7 +67,7 @@ and even one person could begin.
 ## Connection to Clay Pellet Method
 
 Happy Hill seed is intended to be distributed and sown using the clay pellet
-method Fukuoka developed. Seeds enclosed in clay pellets are protected from
+method Fukuoka developed. Seeds enclosed in [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] are protected from
 rodents, birds, and disease during winter storage and germination. This makes
 the seed suitable for direct scattering over deserts, savannahs, and barren
 lands without the need for sophisticated agricultural infrastructure.

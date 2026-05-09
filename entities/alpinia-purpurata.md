@@ -56,9 +56,9 @@ Fruits are fleshy capsules containing numerous small seeds with an arillate coat
 
 *Alpinia purpurata* is native to the Bismarck Archipelago, Solomon Islands, Vanuatu, and New Caledonia in the southwestern Pacific.
 
-It has been widely introduced and naturalized across tropical and subtropical regions, including Hawaii, Fiji, Tahiti, Costa Rica, Puerto Rico, and parts of Southeast Asia and tropical Africa.
+It has been widely introduced and naturalized across tropical and subtropical regions, including Hawaii, Fiji, Tahiti, Costa Rica, Puerto Rico, and parts of [[psilocybe-southeast-asia-pacific]] and tropical Africa.
 
-The species thrives in humid tropical lowlands from sea level to approximately 800 m elevation. It prefers partial shade to full sun and consistently moist, well-draining soils rich in organic matter.
+The species thrives in humid tropical lowlands from sea level to approximately 800 m elevation. It prefers partial shade to full sun and consistently moist, well-draining soils rich in [[hamilton-composting-and-organic-matter-management]].
 
 Optimal growth occurs at temperatures of 20–30°C with annual rainfall exceeding 1500 mm. The plant is frost-sensitive and will not survive prolonged temperatures below 10°C.
 
@@ -66,7 +66,7 @@ Optimal growth occurs at temperatures of 20–30°C with annual rainfall exceedi
 
 Propagation is primarily vegetative, by division of rhizome clumps. Each division should include 2–3 actively growing shoots and a healthy rhizome section.
 
-Seeds are viable but rarely used in horticulture due to slow germination and high variability. Tissue culture propagation is employed for large-scale commercial production of specific cultivars.
+Seeds are viable but rarely used in horticulture due to slow germination and high variability. Tissue [[stamets-cultivator-liquid-culture-propagation-methods]] is employed for large-scale commercial production of specific cultivars.
 
 Plants are spaced 0.6–1.2 m apart in landscape settings. A balanced slow-release fertilizer applied quarterly supports vigorous growth and prolific flowering.
 
@@ -90,7 +90,7 @@ The global trade in red ginger cut flowers generates millions of stems annually.
 
 The species is sometimes used in traditional Polynesian medicine as a treatment for headaches and minor wounds. Crushed leaves are applied as a poultice, though scientific validation of these uses is lacking.
 
-Modern research has identified several bioactive compounds in the rhizomes, including diarylheptanoids and flavonoids with moderate antioxidant activity. However, these studies remain preliminary and *A. purpurata* is not used commercially as a medicinal plant.
+Modern research has identified several [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] in the rhizomes, including diarylheptanoids and flavonoids with moderate antioxidant activity. However, these studies remain preliminary and *A. purpurata* is not used commercially as a medicinal plant.
 
 ## Related Species
 

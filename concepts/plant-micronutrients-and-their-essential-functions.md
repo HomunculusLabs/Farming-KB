@@ -13,9 +13,9 @@ Micronutrients (trace minerals) are required by plants in only tiny amounts, but
 
 ## Boron (B)
 
-Boron connects carbohydrate chains in cell walls, providing structural strength. It is necessary for the formation of pollen tubes (affecting fruit set) and plays a role in balancing sugar versus starch levels and their translocation throughout the plant.
+Boron connects carbohydrate chains in cell walls, providing [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]]. It is necessary for the formation of pollen tubes (affecting fruit set) and plays a role in balancing sugar versus starch levels and their translocation throughout the plant.
 
-Boron also helps transport potassium ions across cell membranes, contributing to stomatal regulation. Uniquely among mineral nutrients, boron does not need to be an ion to enter plant cells -- it is usually taken up as boric acid B(OH)3, using three transport mechanisms: diffusion, facilitative transport, and active transport.
+Boron also helps transport potassium ions across cell membranes, contributing to stomatal regulation. Uniquely among mineral nutrients, boron does not need to be an ion to enter plant cells -- it is usually taken up as boric acid B(OH)3, using three transport mechanisms: diffusion, facilitative transport, and [[diffusion-osmosis-and-active-transport-in-plants]].
 
 **Immobile in plants.** Deficiency symptoms: damage at growing tips, flower/fruit formation problems.
 
@@ -33,7 +33,7 @@ Copper is a key component in enzymes used for oxidation reactions and those invo
 
 ## Iron (Fe)
 
-Iron atoms serve as electron carriers, easily passing electrons between them. This makes iron critical for respiration and oxidation-reduction reactions. Iron is used to make chlorophyll (though not part of the molecule) and is essential for nitrogen fixation -- the conversion of atmospheric nitrogen and nitrate relies on iron-dependent enzymes.
+Iron atoms serve as electron carriers, easily passing electrons between them. This makes iron critical for respiration and oxidation-reduction reactions. Iron is used to make chlorophyll (though not part of the molecule) and is essential for [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] -- the conversion of atmospheric nitrogen and nitrate relies on iron-dependent enzymes.
 
 Plants are so dependent on iron that they have developed a system to release ions into the soil to lower pH, preventing iron from becoming unavailable.
 
@@ -53,7 +53,7 @@ Zinc is a component of many enzymes involved in oxidation-reduction reactions. C
 
 ## Molybdenum (Mo)
 
-Molybdenum is necessary for synthesizing organic phosphorus compounds once phosphorus enters the plant. It is also essential for Rhizobia and Frankia bacteria to fix nitrogen in root nodules.
+Molybdenum is necessary for synthesizing organic phosphorus compounds once phosphorus enters the plant. It is also essential for Rhizobia and Frankia bacteria to [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] in root nodules.
 
 **Mobile in plants.** Deficiency symptoms: chlorosis in older leaves, nitrate buildup causing leaf curling (whiptail).
 
@@ -87,7 +87,9 @@ Nutrients can also be classified by their biochemical role:
 - **Membrane function**: P, Cl, Na, K
 - **Electrical balance**: Cl, K, Ca, Mg
 
-## Related Topics
+## Related
+
+- [[permitted-vs-forced-functions]] Topics
 
 - [[plant-enzymes-and-cofactors]] -- how micronutrients activate enzymes
 - [[plant-hormones-and-chemical-signaling-systems]]

@@ -1,6 +1,6 @@
 ---
 
-title: Fermented Plant Extract (FPE) — FPJ & FFJ
+title: comparison-compost-tea-guide-vs-fermented-plant-extract-fpe (FPE) — FPJ & FFJ
 created: 2026-04-10
 updated: 2026-04-12
 type: concept
@@ -26,14 +26,14 @@ sources:
 
 # Fermented Plant Extract (FPE)
 
-Fermented Plant Juice (FPJ) and Fermented Fruit Juice (FFJ) are core KNF inputs that capture plant nutrients and growth energy. Made by fermenting plant material with sugar, they provide bioavailable nutrients, enzymes, and plant hormones.
+[[bionutrients-lab-fermented-plant-juice-fpj]] (FPJ) and [[bionutrients-lab-fermented-fruit-juice-ffj]] Juice (FFJ) are core KNF inputs that capture plant nutrients and growth energy. Made by fermenting plant material with sugar, they provide bioavailable nutrients, enzymes, and plant hormones.
 
 FPJ and FFJ are functionally the same process — FPJ uses vegetative plant parts, FFJ uses fruits. The key difference is the sugar content and stage of the source plant.
 
 ## FPJ — Fermented Plant Juice
 
 ### Purpose
-Provides energy, nitrogen, enzymes, and plant growth hormones. Fuels vegetative growth and overall plant vitality. Different plants contribute different properties — see plant selection below.
+Provides energy, nitrogen, enzymes, and plant growth hormones. Fuels [[cannabis-vegetative-growth-stage]] and overall plant vitality. Different plants contribute different properties — see plant selection below.
 
 ### Plant Selection (Cho's Guidelines)
 
@@ -48,7 +48,7 @@ Provides energy, nitrogen, enzymes, and plant growth hormones. Fuels vegetative 
 - Sweet potato vines
 - Duckweed — very fast growing, high protein
 
-**Reproductive growth FPJ/FFJ** (for flowering/fruiting):
+**[[knf-reproductive-growth-stage]] FPJ/FFJ** (for flowering/fruiting):
 - Pumpkin/squash vines
 - Yam leaves
 - Tomato plant tips
@@ -72,7 +72,7 @@ Provides energy, nitrogen, enzymes, and plant growth hormones. Fuels vegetative 
 
 **Process**:
 1. **Harvest at dawn** (before sunrise) when plant sugars and energy are highest — plants produce maximum nutrients during night via photosynthesis, peaking at dawn
-2. Do NOT wash the plant material — washing removes the indigenous microorganisms on leaf surfaces that drive fermentation
+2. Do NOT wash the plant material — washing removes the [[beneficial-indigenous-microorganisms-bim]] on leaf surfaces that drive fermentation
 3. Shake off dust gently if needed
 4. Chop or crush plant material to increase surface area (do not blend — preserves microbial diversity)
 5. Alternate layers of plant material and sugar in the jar
@@ -141,57 +141,6 @@ Same process as FPJ but with fruit:
 | Changeover | 1:1000 | Acidic FFJ helps transition |
 | Reproductive | 1:1000 | Sugar for fruit/flower development |
 | Pre-harvest | 1:1000 | Sweetness promotion |
-
-## BRV — Brown Rice Vinegar (Natural Acetic Acid)
-
-A separate KNF input that functions as both a nutrient source and an extraction solvent. See [[brown-rice-vinegar-brv]] for full recipe.
-
-Key uses with FPJ/FFJ:
-- Extracts calcium from eggshells (see [[water-soluble-calcium-wca]])
-- Extracts calcium phosphate from bones (see [[water-soluble-calcium-phosphate-wcp]])
-- Promotes root development
-- Prevents over-luxurious plant growth when mixed with FPJ
-- Acts as "sour nutrient" during changeover period
-
-## FPJ for Pest Control
-
-Some FPJ preparations double as pest deterrents:
-- Garlic FPJ — insect repellent (strong odor)
-- Neem FPJ — antifungal, insecticidal
-- Hot pepper FPJ — mammal deterrent
-- Ginger FPJ — antifungal, stimulant
-- Tagetes (marigold) FPJ — nematode deterrent
-
-For serious pest issues, combine FPJ with [[oriental-herbal-nutrient-ohn]] and LAB for stronger effect.
-
-## FPJ in the Nutritive Cycle
-
-FPJ is one of the most versatile KNF inputs. According to [[nutritive-cycle-theory]]:
-- Choose plant source based on growth stage needed
-- FPJ from fast-growing plants = more vegetative energy
-- FFJ from ripe fruits = reproductive energy
-- FPJ from medicinal herbs = pest/disease resistance
-- Adjust dilution based on plant response (start at 1:1000, increase if plants look hungry)
-
-## Carandang's Alternative: Fermented Ginger-Garlic Extract
-
-From the IMO/bionutrients paper — a simplified approach:
-1. Mix 1 kg ginger + 1 kg garlic (crushed) + 1 kg crude sugar/molasses
-2. Add 1 liter beer (natural yeast source) or local wine
-3. Ferment 1 week
-4. Strain and add equal amount crude sugar for storage
-5. Dilute 1:20 for basic concoction, 2 tbsp per gallon for spray
-6. Functions as both nutrient source and pest control
-
-## Troubleshooting
-
-| Problem | Cause | Solution |
-|---------|-------|----------|
-| Putrid smell | Anaerobic, too wet, wrong plant | Discard, ensure breathable container, reduce moisture |
-| Mold on surface | Normal early fermentation | Stir gently, mold is usually harmless (white ok, black bad) |
-| Too much liquid | Plant too watery | Use less sugar ratio next time |
-| Weak smell | Not enough fermentation time | Wait longer or move to warmer spot |
-| Alcohol smell | Too warm, yeast overgrowth | Move to cooler location |
 
 ## See Also
 

@@ -1,5 +1,5 @@
 ---
-title: Cannabis Topping and Training Techniques
+title: green-cannabis-topping-pruning-training and cannabis-training-techniques-comparison
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -13,7 +13,7 @@ Plant training is the practice of manipulating cannabis growth patterns to incre
 
 ## Why Train Cannabis Plants
 
-Untrained cannabis plants typically grow as a single central cola (main stem) with smaller subordinate branches. This "Christmas tree" shape means the top canopy receives the most light while lower branches are shaded and underdeveloped. Training creates a wider, flatter canopy that maximizes light exposure across more bud sites.
+Untrained cannabis plants typically grow as a single central cola (main stem) with smaller subordinate branches. This "[[arthur-christmas-tree-amanita-muscaria]]" shape means the top canopy receives the most light while lower branches are shaded and underdeveloped. Training creates a wider, flatter canopy that maximizes light exposure across more bud sites.
 
 Benefits of training:
 
@@ -27,7 +27,7 @@ Benefits of training:
 
 Topping is the removal of the apical meristem (the very top growing tip of the main stem). This breaks apical dominance and forces the plant to develop two new main colas from the nodes immediately below the cut.
 
-**When to top**: After the plant has developed 4-6 true nodes (not counting cotyledons). The plant should be healthy and in active vegetative growth.
+**When to top**: After the plant has developed 4-6 true nodes (not counting cotyledons). The plant should be healthy and in active [[cannabis-vegetative-growth-stage]].
 
 **How to top**: Locate the newest growth at the top of the main stem. Use clean, sharp scissors or a scalpel to cut through the stem just above the highest set of full leaves. Two new growth tips will emerge from the leaf axils below the cut site.
 
@@ -72,7 +72,7 @@ ScrOG uses a horizontal screen (usually chicken wire or plastic trellis netting)
 
 **Setup**: Position the screen 12-20 inches above the base of the plants depending on available vertical space. Fill the screen during vegetative growth. Switch to flowering once the screen is roughly 70-80% full — plants will stretch and fill remaining gaps during early flower.
 
-**Benefits**: Extremely even light distribution, maximizes yield per square foot, ideal for small grow spaces.
+**Benefits**: Extremely even light distribution, maximizes yield per [[comparison-biointensive-vs-square-foot-gardening]], ideal for small grow spaces.
 
 ## Mainlining
 

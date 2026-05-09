@@ -1,5 +1,5 @@
 ---
-title: DMT Dimethyltryptamine Experience Guide
+title: DMT dmt dimethyltryptamine experience guide Guide
 created: 2026-04-13
 updated: 2026-04-15
 type: concept
@@ -13,7 +13,7 @@ DMT is one of the most powerful psychedelics known, rated intensity 9-10 by Turn
 
 ## Chemistry and Endogenous Presence
 
-N,N-Dimethyltryptamine and 5-Methoxy-Dimethyltryptamine are naturally occurring psychedelics found in many plants worldwide, especially in the Amazon region. These alkaloids are also found in the human brain as neurotransmitters, and in blood, urine, and spinal fluid. DMT is produced in the human pineal gland, correlated with the "third eye" or Ajna Chakra in Indian spiritual systems. Meditative states attained by yogis concentrating on the third eye may result from increased DMT levels. DMT is also produced in high concentration in the glands of tropical toads (Bufo Alvarius) — some people make a practice of squeezing out this venom, drying and smoking it.
+N,N-Dimethyltryptamine and 5-Methoxy-Dimethyltryptamine are naturally occurring psychedelics found in many plants worldwide, especially in the Amazon region. These alkaloids are also found in the human brain as neurotransmitters, and in blood, urine, and spinal fluid. DMT is produced in the human [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]], correlated with the "third eye" or Ajna Chakra in Indian spiritual systems. Meditative states attained by yogis concentrating on the third eye may result from increased DMT levels. DMT is also produced in high concentration in the glands of tropical toads (Bufo Alvarius) — some people make a practice of squeezing out this venom, drying and smoking it.
 
 N,N-DMT and 5-MeO-DMT are also manufactured synthetically as separate compounds and sold on the underground market. Synthetic DMT is used much more often than DMT from natural sources.
 
@@ -22,7 +22,7 @@ N,N-DMT and 5-MeO-DMT are also manufactured synthetically as separate compounds 
 DMT is not active orally unless combined with an [[dmt-smoking-and-administration-methods]].
 
 ### Traditional Use
-- **Yopo** (Anadenanthera peregrina): Made into snuff by Amazon natives. The most effective method is a two-person snorting device with tubes from each person's mouth to the other's nose. One "blows" the DMT snuff deep into the other's nasal cavity, then the receiver must quickly blow a dose back before falling into a tryptamine trance
+- **Yopo** ([[yopo-anadenanthera-peregrina-snuff]]): Made into snuff by Amazon natives. The most effective method is a two-person snorting device with tubes from each person's mouth to the other's nose. One "blows" the DMT snuff deep into the other's nasal cavity, then the receiver must quickly blow a dose back before falling into a tryptamine trance
 - **Epena** (Virola theiodora): Another snuff preparation
 - **Ayahuasca**: Oral preparation combining DMT-containing plants (Psychotria viridis) with Banisteriopsis caapi vine (source of [[mao-inhibitors-and-psychedelics]] for dangerous drug and food combinations
 - Effects onset is nearly instantaneous; users should lie down or recline before taking a hit
@@ -32,7 +32,7 @@ DMT is not active orally unless combined with an [[dmt-smoking-and-administratio
 
 ## The Experience
 
-DMT is the most intense psychedelic experience commonly available. The onset is instantaneous (seconds when smoked), and the experience typically lasts 5-15 minutes for N,N-DMT, though subjective time dilation can make it feel much longer. In the Sixties, DMT was called "The businessman's lunch trip."
+DMT is the most intense [[leary-psychedelic-experience-bardo-mapping]] commonly available. The onset is instantaneous (seconds when smoked), and the experience typically lasts 5-15 minutes for N,N-DMT, though subjective time dilation can make it feel much longer. In the Sixties, DMT was called "The businessman's lunch trip."
 
 ### N,N-DMT Characteristics
 - Psilocybin's active component (psilocin) is 4-OH-DMT — explaining the chemical similarity of mushroom experiences

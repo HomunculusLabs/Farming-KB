@@ -1,5 +1,5 @@
 ---
-title: How Do Parasitoid Wasps Control Pest Populations?
+title: How Do comparison-parasitoid-wasps-vs-chemical-pesticides Control Pest Populations?
 created: 2026-05-06
 tags: [query, parasitoid-wasps, biological-control, pest-management, entomology, agriculture]
 date: 2026-04-28
@@ -70,11 +70,11 @@ Most parasitoid wasps have **shorter generation times** than their hosts. A typi
 
 ### Population Cycles
 
-In natural and agricultural systems, parasitoid-host dynamics tend to produce **cycling populations**: pests increase → wasps increase → pests decline → wasps decline → cycle repeats. Within  frameworks, [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] d pesticide applications by over 50% while maintaining equivalent yield protection. They are the most widely used biological control agents in the world by release volume.
+In natural and agricultural systems, parasitoid-host dynamics tend to produce **cycling populations**: pests increase → wasps increase → pests decline → wasps decline → cycle repeats. Within  frameworks, [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] d pesticide applications by over 50% while maintaining equivalent yield protection. They are the most widely used [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents in the world by release volume.
 
 ### Encarsia formosa — Whiteflies in Greenhouses
 
-Encarsia formosa is a parasitoid of the greenhouse whitefly (*Trialeurodes vaporariorum*) and silverleaf whitefly (*Bemisia tabaci*). It has been used in greenhouse vegetable production since the 1920s and remains a cornerstone of whitefly management in tomato and cucumber crops. The wasp larvae develop inside whitefly nymphs, and parasitized nymphs turn black, providing a visible indicator of control success.
+Encarsia formosa is a parasitoid of the greenhouse whitefly (*Trialeurodes vaporariorum*) and silverleaf whitefly (*Bemisia tabaci*). It has been used in greenhouse [[dry-gardening-unirrigated-vegetable-production-solomon]] since the 1920s and remains a cornerstone of whitefly management in tomato and cucumber crops. The wasp larvae develop inside whitefly nymphs, and parasitized nymphs turn black, providing a visible indicator of control success.
 
 ### Aphidius spp. — Aphids in Field Crops
 
@@ -92,12 +92,12 @@ Aphidius colemani and Aphidius ervi are aphid parasitoids used extensively in fi
 
 - **Floral resources**: Plant  and nectar-rich flowers (umbellifers like dill, fennel, yarrow, and sweet alyssum) to provide adult wasps with carbohydrate food sources, extending their lifespan and fecundity.
 - **Shelter and overwintering**: Maintain hedgerows, ground cover, and undisturbed vegetation patches where wasps can shelter and overwinter.
-- **Reduce tillage**: Many parasitoid wasps pupate in or near the soil. Excessive tillage destroys pupae and disrupts population continuity.
+- **Reduce tillage**: Many parasitoid wasps pupate in or near the soil. Excessive [[fukuoka-why-tillage-destroys-soil]] pupae and disrupts population continuity.
 
 ### Avoiding Harmful Insecticides
 
 - **Broad-spectrum insecticides** (pyrethroids, organophosphates, neonicotinoids) are highly toxic to parasitoid wasps at field-realistic concentrations.
-- **Selective products**: If insecticide use is necessary, choose products with low toxicity to  (e.g., *Bacillus thuringiensis* for caterpillar control).
+- **Selective products**: If insecticide use is necessary, choose products with [[fukuoka-low-toxicity-pesticide-deception]] to  (e.g., *[[cervantes-bacillus-thuringiensis-bt-control]]* for caterpillar control).
 - **Timing sprays**: If you must spray, do so before releasing wasps and allow sufficient residue breakdown (check product-specific pre-release intervals).
 
 ### Ordering from Insectaries
@@ -109,6 +109,8 @@ Aphidius colemani and Aphidius ervi are aphid parasitoids used extensively in fi
 ## Common Misconceptions
 
 ## See Also
+
+- [[comparison-parasitoid-wasps-vs-chemical-pesticides]]
 
 - 
 - 

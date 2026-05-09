@@ -1,5 +1,5 @@
 ---
-title: Fungal Biology Fundamentals
+title: bloomfield-fungal-biology-and-hyphal-growth Fundamentals
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -17,15 +17,15 @@ Fungi are neither plants nor animals but occupy their own kingdom. Palmer noted 
 
 ## Hyphal Architecture
 
-The fungal body (mycelium) consists of branching filaments called hyphae. Unlike plants that grow from meristems (specialized groups of dividing cells), fungi grow exclusively by hyphal tip extension and branching. Hyphae are pressurized by water uptake (turgor pressure), typically 4-5 atmospheres — similar to car tires. This internal pressure:
-- Powers invasive growth through substrates
+The fungal body (mycelium) consists of branching filaments called hyphae. Unlike plants that grow from meristems (specialized groups of dividing cells), fungi grow exclusively by hyphal tip extension and branching. Hyphae are pressurized by water uptake ([[bloomfield-turgor-pressure-and-hyphal-invasion]]), typically 4-5 atmospheres — similar to car tires. This internal pressure:
+- Powers [[fungal-hyphae-invasive-growth-mechanisms]] through substrates
 - Acts as an internal skeleton
-- Drives spore catapult mechanisms
+- Drives [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] mechanisms
 - Forces penetration hyphae through host tissues
 
 ## The Mushroom as Iceberg Tip
 
-The visible mushroom (fruiting body) is a reproductive structure — "the tip of the mycological iceberg." The vast majority of the fungal organism exists underground as mycelium. Some mycelia are enormous: Armillaria gallica clones have been measured at 1,500+ years old, weighing hundreds of tons, occupying 15+ hectares.
+The visible mushroom ([[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]) is a reproductive structure — "the tip of the mycological iceberg." The vast majority of the fungal organism exists underground as mycelium. Some mycelia are enormous: Armillaria gallica clones have been measured at 1,500+ years old, weighing hundreds of tons, occupying 15+ hectares.
 
 ## Spore Biology
 
@@ -42,7 +42,7 @@ The universal fungal cycle: spore → mycelium → spore → mycelium. Different
 
 ## Fungal Nutrition
 
-Fungi are heterotrophs — they absorb nutrients rather than photosynthesizing. They secrete enzymes externally to digest organic matter, then absorb the breakdown products. This gives them critical ecological roles:
+Fungi are heterotrophs — they absorb nutrients rather than photosynthesizing. They secrete enzymes externally to digest [[hamilton-composting-and-organic-matter-management]], then absorb the breakdown products. This gives them critical ecological roles:
 - **Decomposers**: break down dead plant material (cellulose, lignin)
 - **Predators**: trap and kill nematodes with adhesive branches and explosive ring traps
 - **Antibiotic producers**: secrete compounds to kill competing bacteria, then absorb nutrients from dead bacteria
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-Arbuscular mycorrhizal fungal ([[mycorrhizal-fungi-biome-surveys]].
+[[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungal ([[mycorrhizal-fungi-biome-surveys]].
 
 ## Bacterial Taxa on AMF Spores
 
@@ -30,12 +30,12 @@ identified 34 sequence variants, demonstrating that cultivation captures
 only a fraction of the total bacterial diversity. About 80-92% of the
 150 bacteria isolated from decontaminated spores of G. clarum were
 Bacillus species. Other studies have predominantly identified Bacillus
-and Paenibacillus taxa from AMF structures using molecular approaches.
+and Paenibacillus taxa from AMF structures using [[staycare-molecular-approaches-fungal-bioremediation]].
 
 ## Antagonistic Activity Against Pathogens
 
 Several bacterial isolates from AMF spores demonstrate direct antagonism
-against important soil-borne fungal pathogens, contributing to [[mycorrhizal-helper-bacteria]] interactions. The capacity to adhere to G.
+against important soil-borne [[bloomfield-fungal-pathogens-and-parasites]], contributing to [[mycorrhizal-helper-bacteria]] interactions. The capacity to adhere to G.
 intraradices structures depends on the ability to form biofilms.
 Mutants affected in extracellular polysaccharide production, essential
 for biofilm formation, were strongly impaired in attachment to both
@@ -53,18 +53,18 @@ endobacterium was later phenotypically described in detail and shown to
 be widespread within the Gigasporaceae family. The presence of such
 obligate endosymbionts raises questions about their functional role in
 AMF biology and their potential contribution to the effects attributed
-to mycorrhizal inoculation.
+to [[teaming-with-fungi-mycorrhizal-inoculation-techniques]].
 
 ## Contribution to AMF-Mediated Biocontrol
 
 Bacteria associated with AMF structures may significantly contribute to
-the biocontrol effects attributed to mycorrhizal colonization. AMF
+the biocontrol effects attributed to [[arbuscular-mycorrhizal-colonization-patterns]]. AMF
 inoculum from non-axenically produced sources is inevitably accompanied
 by associated bacteria that establish within the mycorrhizosphere.
 These bacteria may act through several mechanisms: direct antagonism of
 pathogens through antibiotic production, competition for nutrients and
 colonization sites, stimulation of plant defense reactions, and
-formation of suppressive zones near the mycorrhizal network. The
+formation of suppressive zones near the [[arbuscular-mycorrhizal-network-visualization-anastomosis]]. The
 contribution of these associated bacteria to the overall plant health
 benefits of mycorrhization has likely been underestimated.
 
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

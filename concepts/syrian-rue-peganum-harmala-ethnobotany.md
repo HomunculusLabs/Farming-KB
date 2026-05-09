@@ -1,5 +1,5 @@
 ---
-title: "Syrian Rue (Peganum harmala): Ethnobotany and Harmala Alkaloids"
+title: "Syrian Rue (mckenna-food-gods-peganum-harmala-soma): Ethnobotany and turner-harmala-alkaloids-preparation-and-dosage"
 created: "2026-04-17"
 updated: "2026-04-17"
 type: concept
@@ -31,7 +31,7 @@ The MAO-inhibiting property of harmala alkaloids has profound pharmacological im
 
 ## Possible Ancient Religious Use
 
-The esteem in which the peoples of Asia hold Syrian rue is so extraordinary that it might indicate a former religious use as an hallucinogen, but the purposeful use of the plant to induce visions has not yet been established through the literature or field work. This tantalizing suggestion, made by the ethnobotanist Richard Evans Schultes, points to a potentially vast area of research into the ancient religious practices of the Middle East and Central Asia.
+The esteem in which the peoples of Asia hold Syrian rue is so extraordinary that it might indicate a former religious use as an hallucinogen, but the purposeful use of the plant to induce visions has not yet been established through the literature or field work. This tantalizing suggestion, made by the ethnobotanist Richard [[richard-evans-schultes-updated]], points to a potentially vast area of research into the ancient religious practices of the Middle East and Central Asia.
 
 The possible religious use of Syrian rue connects to broader questions about psychoactive plant use in ancient Near Eastern and Central Asian religions. The [[kykeon-composition-and-ergot-alkaloid-hypothesis]] of ancient Greece, and various Persian and Central Asian religious traditions may all have involved psychoactive plants, and Syrian rue is a plausible candidate for some of these traditions.
 
@@ -39,15 +39,15 @@ The possible religious use of Syrian rue connects to broader questions about psy
 
 One of the most remarkable discoveries in ethnopharmacology is the pharmacological connection between Syrian rue and the Amazonian [[old-world-hallucinogenic-plants-overview]], Syrian rue occupies a unique position as a plant whose pharmacological significance has been dramatically amplified by modern scientific research. While its traditional use may have been primarily medicinal and dye-producing, the discovery of its beta-carboline alkaloids and their role in activating DMT has transformed our understanding of this humble plant and its place in the global pharmacopoeia of psychoactive substances.
 
-The story of Syrian rue illustrates how traditional knowledge about medicinal plants can contain hidden depths that are revealed only through modern scientific investigation. A plant valued for centuries as a spice, dye, and folk medicine has proven to hold the key to understanding one of the most sophisticated pharmacological traditions in the world — the Amazonian ayahuasca complex.
+The story of Syrian rue illustrates how traditional knowledge about medicinal plants can contain hidden depths that are revealed only through modern scientific investigation. A plant valued for centuries as a spice, dye, and folk medicine has proven to hold the key to understanding one of the most sophisticated pharmacological traditions in the world — the [[harner-amazonian-ayahuasca-preparation-methods]] complex.
 
 ## See Also
 
+- [[changa-smokeable-dmt-harmala-herb-blend]]
+
 - [[sinicuichi-heimia-salicifolia-auditory-hallucinogen]] — Mexican auditory hallucinogen.
 
-[[kanna-sceletium-south-african-narcotic]] — South African mood-altering plant.
-
-[[sinicuichi-heimia-salicifolia-auditory-hallucinogen]] — Mexican dream herb.
+[[kanna-sceletium-south-african-narcotic]] — [[kanna-sceletium-south-african-narcotic]] mood-altering plant.
 
 ## References
 
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

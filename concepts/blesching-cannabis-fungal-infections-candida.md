@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and Fungal Infections Including Candidiasis"
+title: "Cannabis and blesching cannabis fungal infections candida Including Candidiasis"
 created: 2026-04-26
 tags:
   - cannabis
@@ -20,11 +20,11 @@ type: concept
 
 Fungal infections represent a significant category of opportunistic
 infections, particularly in immunocompromised patients. Among the most
-common fungal pathogens is Candida albicans, responsible for conditions
+common fungal pathogens is [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]], responsible for conditions
 ranging from oral thrush to vaginal yeast infections to systemic
 candidiasis in patients with weakened immune systems.
 
-The Cannabis Health Index covers fungal infections in the context of
+The [[blesching-cannabis-health-index-autoimmune-conditions]] covers fungal infections in the context of
 both standalone conditions and as opportunistic infections associated
 with HIV/AIDS, where candidiasis (thrush) is one of the most frequently
 encountered complications.
@@ -50,7 +50,7 @@ to be effective when Fluconazole failed to work.
 While The Cannabis Health Index does not dedicate a standalone section to
 fungal infections, cannabinoids are noted for their broad antimicrobial
 properties, including antifungal activity. The endocannabinoid system's
-role in immune modulation is relevant to the body's ability to fight
+role in [[cancer-immune-modulation-mechanisms]] is relevant to the body's ability to fight
 fungal pathogens.
 
 Cannabinoids have demonstrated antibacterial and antifungal properties
@@ -60,7 +60,7 @@ less studied than their antibacterial counterparts.
 
 ## Fungal Infections in the Context of AIDS
 
-Within a weakened immune system, infectious agents such as parasites,
+Within a weakened immune system, [[blesching-cannabis-infectious-agents-cancer]] such as parasites,
 fungi, bacteria, or viruses encounter little resistance. Common
 opportunistic fungal infections in AIDS patients include:
 
@@ -93,7 +93,7 @@ fungi, including Candida albicans.
 ### Coconut
 
 Medium-chain fatty acids, especially lauric acid and capric acid,
-demonstrated broad antimicrobial properties against fungi associated with
+demonstrated broad [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] against fungi associated with
 yeast infections. Coconut is rich in these medium-chain fatty acids.
 
 ### Garlic
@@ -125,5 +125,5 @@ and fungal pathogens, including Candida albicans.
   across infectious disease categories
 - [[blesching-cannabis-viral-infections]] - Broader infectious disease
   coverage from the Cannabis Health Index
-- [[blesching-endocannabinoid-system-overview]] - ECS role in immune
+- [[endocannabinoid-system-overview]] - ECS role in immune
   defense against pathogens

@@ -9,13 +9,13 @@ sources:
 ---
 # Iacchos, Zagreus, Eubuleus, Ploutos — Eleusinian Male Figures
 
-**Source:** The Road to Eleusis, Chapter III — Carl A. P. Ruck
+**Source:** The [[the-road-to-eleusis-wasson-hofmann-ruck]], Chapter III — Carl A. P. Ruck
 
 **Updated:** 2026-04-19
 
 ## Overview
 
-The Eleusinian Mysteries featured several male figures who represented different aspects of the same fundamental archetype: the vegetative spirit who dies and is reborn, transmuting the wild horror of death into the promise of fertility and redemption. Each figure — [[sacred-road-pilgrimage-to-eleusis]] procession from Athens to Eleusis, "the pilgrims called upon Iakchos as they walked. It was he who was thought to lead them on their way: through him, they would summon back the queen Persephone into the realm of the living."
+The [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] featured several male figures who represented different aspects of the same fundamental archetype: the vegetative spirit who dies and is reborn, transmuting the wild horror of death into the promise of fertility and redemption. Each figure — [[sacred-road-pilgrimage-to-eleusis]] procession from Athens to Eleusis, "the pilgrims called upon Iakchos as they walked. It was he who was thought to lead them on their way: through him, they would summon back the queen Persephone into the realm of the living."
 
 Iacchos represents the ecstatic, celebratory aspect of the divine child — the spirit of joyous procession toward revelation. His name became a ritual cry during the pilgrimage.
 
@@ -39,13 +39,13 @@ All these figures share a common mythological pattern:
 
 - They are sons of [[sacred-road-pilgrimage-to-eleusis]] procession from Athens to Eleusis was the ritual context in which Iacchos played his most prominent role. The procession, which took place on the 19th of Boedromion (September), covered approximately 22 kilometers and lasted most of the day. At its head, the statue of Iacchos was carried, and the pilgrims called out his name as they walked.
 
-The procession reenacted Demeter's search for her lost daughter Persephone, with the pilgrims taking on the role of Demeter and Iacchos serving as the guide who would lead them to the resolution of their grief — the revelation in the [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]] that served as the foundational myth of the Mysteries.
+The procession reenacted Demeter's search for her lost daughter Persephone, with the pilgrims taking on the role of Demeter and Iacchos serving as the guide who would lead them to the resolution of their grief — the revelation in the  that served as the foundational myth of the Mysteries.
 
 The procession's ecstatic character — music, dancing, torches, and the ritual cry "Iakche!" — marked the transition from ordinary consciousness to the altered state that would be deepened in the Telesterion. The [[eleusinian-hierophantic-families-eumolpidae-kerykes]] family — whose name derives from eumolpia, "beautiful songs" — was responsible for the musical dimensions of the ceremony.
 
 The Orphic hymns, which circulated widely in the Hellenistic and Roman periods, contain hymns to Iacchos, Eubuleus, and the other Eleusinian figures, suggesting that the musical tradition extended beyond the sanctuary itself into broader religious practice. These hymns functioned as vehicles for the names and epithets of the deities, and their performance may have served as a form of ritual preparation — a way of invoking the divine presence before the climactic experience in the Telesterion.
 
-The [[psychedelic-therapy-set-and-setting]], which has demonstrated that carefully selected music can significantly influence the quality and direction of a psychedelic experience. The Eleusinian use of choral hymns as preparation for the kykeon ceremony anticipates this modern finding by nearly two millennia.
+The [[psychedelic-therapy-set-and-setting]], which has demonstrated that carefully selected music can significantly influence the quality and direction of a [[leary-psychedelic-experience-bardo-mapping]]. The Eleusinian use of choral hymns as preparation for the kykeon ceremony anticipates this modern finding by nearly two millennia.
 
 ## Triptolemus
 
@@ -55,7 +55,7 @@ Triptolemus ("the trifold warrior") was the "paramount transmutation, Demeter's 
 
 The multiple male figures of the Eleusinian Mysteries should not be understood as separate deities but as aspects of a single divine archetype, manifested at different stages of the ritual and in different dimensions of the initiate's experience. The progression from Iacchos (ecstatic guide) through Zagreus (hunting companion of death) to Eubuleus (good counselor) to Ploutos (embodiment of wealth) represents a psychological journey from anticipation through confrontation with mortality to integration and renewal.
 
-This progression mirrors the [[dionysus-vegetative-consort-and-mushroom-symbolism]] that pervades these figures — the mykema (bellowing) that announces the mykes (mushroom), the serpent consort, the association with lightning-struck earth — further reinforces the entheogenic interpretation. Each male figure is, in effect, a mask worn by the psychoactive experience itself, adapted to different moments in the ritual journey.
+This progression mirrors the dionysus-vegetative-consort-and-mushroom-symbolism that pervades these figures — the mykema (bellowing) that announces the mykes (mushroom), the serpent consort, the association with lightning-struck earth — further reinforces the entheogenic interpretation. Each male figure is, in effect, a mask worn by the psychoactive experience itself, adapted to different moments in the ritual journey.
 
 ## See Also
 
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

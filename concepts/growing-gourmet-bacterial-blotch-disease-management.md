@@ -1,5 +1,5 @@
 ---
-title: Bacterial Blotch Disease in Mushroom Cultivation
+title: growing gourmet bacterial blotch disease management Disease in mushroom-cultivation
 created: 2026-04-26
 tags:
   - mushroom-diseases
@@ -19,22 +19,22 @@ type: concept
 ## Overview
 
 Bacterial blotch is one of the most common and damaging diseases
-affecting cultivated mushrooms. It attacks developing fruitbodies,
-causing lesions, discoloration, soft rot, and ultimately the
-abortion of the mushroom crop. The disease is particularly problematic
-in humid growing environments where water management is difficult.
+affecting [[fungi-cultivated-mushrooms-pathogens-competitors]]. It attacks developing fruitbodies,
+causing lesions, discoloration, [[staycare-soft-rot-fungi-in-pollutant-degradation]], and ultimately the
+abortion of the [[sustaining-mushroom-crop-flushing-harvesting]]. The disease is particularly problematic
+in humid growing environments where [[water-management]] is difficult.
 Understanding its causes and prevention is essential for [[growing-gourmet-growing-room-ventilation-air-exchange]]. When air exchange is
 insufficient, CO2 accumulates and humidity remains persistently high,
 creating conditions ideal for bacterial growth. Green molds also tend
 to proliferate under these same conditions, compounding the problem.
-Rebalancing the growing room environment is often the first step in
+Rebalancing the [[duggar-mushroom-growing-room-design]] environment is often the first step in
 managing a bacterial blotch outbreak.
 
 ## See Also
 
-- [[growing-gourmet-growing-room-humidification-climate-control]]
+- growing-gourmet-growing-room-humidification-climate-control
 - [[growing-gourmet-contamination-prevention]]
-- [[growing-gourmet-mind-and-methods-cultivation]]
+- growing-gourmet-mind-and-methods-cultivation
 ## Practical Applications
 
 Bacterial Blotch Disease in Mushroom Cultivation has a range of practical applications that make it relevant to
@@ -112,4 +112,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

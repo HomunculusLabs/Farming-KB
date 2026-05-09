@@ -1,5 +1,5 @@
 ---
-title: "Cho's Brown Rice Vinegar Preparation"
+title: "Cho's Brown brown-rice-vinegar-brv Preparation"
 created: 2026-04-28
 tags: [korean-natural-farming, brown-rice-vinegar, fermentation,
        acetic-acid, cho-global]
@@ -14,11 +14,11 @@ type: concept
 # Cho's Brown Rice Vinegar Preparation
 
 Brown rice vinegar (BRV) is a versatile essential input in Dr. Cho's Korean
-Natural Farming. It functions as a plant growth regulator, disease
+[[comparison-natural-farming-vs-permaculture]]. It functions as a plant growth regulator, disease
 suppressant, calcium solubilizer, and foundational ingredient for making
 other inputs including [[cho-yeast-preparation-guide]].
 3.  **Acetification** — Allow ripe Makgeolli to stand uncovered. Natural
-    acetic acid bacteria convert alcohol to acetic acid, producing BRV.
+    acetic [[bionutrients-lab-lactic-acid-bacteria-serum]] convert alcohol to acetic acid, producing BRV.
 4.  **Alternative** — 15-day fermented toddy can substitute, as it also
     naturally turns into vinegar.
 
@@ -43,7 +43,7 @@ other inputs including [[cho-yeast-preparation-guide]].
 -   Higher concentrations accelerate reproductive growth, supporting
     flowering and fruiting.
 -   This dual concentration effect makes BRV useful throughout the
-    growing season.
+    [[savory-growing-season-and-non-growing-season-management]].
 
 ### Absorption Enhancement
 -   Improves tree tissue flexibility and increases absorption capacity
@@ -53,9 +53,9 @@ other inputs including [[cho-yeast-preparation-guide]].
 
 ### As Solvent for Other Inputs
 -   **Water-soluble calcium** — Eggshells/oyster shells in BRV, 1:10.
--   **Water-soluble calcium phosphate** — Animal bones in BRV.
+-   **Water-soluble [[bionutrients-lab-calcium-phosphate-calamansi]]** — Animal bones in BRV.
 -   **IMO production** — Used in making IMO-3 and IMO-4.
--   **Fermented mixed compost** — Incorporated into composting process.
+-   **[[cho-fermented-mixed-compost-methods]] compost** — Incorporated into composting process.
 
 ### Livestock
 -   Mixed with seawater and WCA to prevent feather loss in chickens
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

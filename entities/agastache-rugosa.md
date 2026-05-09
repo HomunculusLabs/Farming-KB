@@ -13,10 +13,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Lee, S.J. et al. (2008). \"Chemical composition and antimicrobial activity of the essential oil of Agastache rugosa.\" Journal of Agricultural and Food Chemistry, 56(20), 9591-9596."
+  - "Lee, S.J. et al. (2008). \"Chemical composition and antimicrobial activity of the permaculture-designers-manual-essential-oil-plants of Agastache rugosa.\" Journal of Agricultural and Food Chemistry, 56(20), 9591-9596."
   - "Li, X. et al. (2013). \"Agastache rugosa: A review of its phytochemistry, pharmacology, and quality control.\" African Journal of Traditional, Complementary and Alternative Medicines, 10(5), 208-217."
   - "Mills, S. & Bone, K. (2000). The Essential Guide to Herbal Safety. Elsevier."
-  - "Chung, I.M. et al. (2010). \"Essential oil composition and antioxidant activity of Agastache rugosa leaves.\" Journal of the Science of Food and Agriculture, 90(12), 2068-2074."
+  - "Chung, I.M. et al. (2010). \"[[permaculture-designers-manual-essential-oil-plants]] composition and antioxidant activity of Agastache rugosa leaves.\" Journal of the Science of Food and Agriculture, 90(12), 2068-2074."
   - "Oh, I. et al. (2015). \"Anti-inflammatory effects of Agastache rugosa Kuntze extract.\" BioMed Research International, 2015, 475683."
 ---
 
@@ -25,7 +25,7 @@ sources:
 ## Overview
 
 *Agastache rugosa*, commonly known as Korean mint, is a perennial aromatic
-herb in the mint family (Lamiaceae). Native to East Asia, it has been used for
+herb in the mint family (Lamiaceae). Native to [[neurotropic-fungi-japan-east-asia-species-cultural-context]], it has been used for
 centuries in Traditional Chinese Medicine as Huo Xiang (藿香) and in Korean
 [[ursolic-acid]]
 
@@ -56,8 +56,8 @@ centuries in Traditional Chinese Medicine as Huo Xiang (藿香) and in Korean
 ## Cultivation
 
 - **Propagation:** Seed (no stratification needed); softwood cuttings; division
-- **Spacing:** 30–45 cm; harvest aerial parts at early flowering
-- **Yield:** 2–4 kg dried herb per 10 m²; essential oil 8–20 L/ha
+- **Spacing:** 30–45 cm; harvest aerial parts at [[equatorial-photoperiod-early-flowering]]
+- **Yield:** 2–4 kg [[dried-herb-storage]] per 10 m²; essential oil 8–20 L/ha
 - **Drying:** ≤35°C to retain volatile oils
 - **Pollinator value:** Highly attractive to bees, butterflies, and
   hummingbirds; excellent late-season nectar source

@@ -10,11 +10,11 @@ sources:
 # ALEPH-4
 
 **Chemical name:** 2,5-Dimethoxy-4-(i)-propylthioamphetamine
-**PiHKAL entry:** #5
+**[[2c-b-pihkal-entry-20]]:** #5
 
 ## Overview
 
-ALEPH-4 is a member of the [[alexander-shulgin]], it demonstrates the pattern of increasing chain length on the sulfur atom within the ALEPH/2C-T series.
+ALEPH-4 is a member of the [[alexander-shulgin]], it demonstrates the pattern of increasing [[phenethylamine-chain-length-effects]] on the sulfur atom within the ALEPH/2C-T series.
 
 The compound was one of the ALEPH series that was actually completed and evaluated (along with ALEPH, ALEPH-2, ALEPH-6, and ALEPH-7), while ALEPH-3 and ALEPH-5 remained unfinished at the synthesis stage.
 
@@ -45,7 +45,7 @@ The qualitative reports reveal a compound with both positive and challenging cha
 
 Shulgin notes "hints and suggestions of complexities" including sensory confusion, threatening interpretive aspects, and "an underlying suggestion of body toxicity." At 12 mg, a disturbing episode of claustrophobia and panic occurred that resolved spontaneously but was frightening. Shulgin states: "I know of no experiment that exceeded 12 milligrams and I would not be able to predict what might come forth at higher dosages. I personally choose not to try them."
 
-The combination of very long duration (up to 20 hours) and unpredictable psychological effects makes ALEPH-4 a compound that demands extensive preparation and a completely free schedule. The subject at 12 mg noted that "if I couldn't have escaped" during the claustrophobic episode, the outcome could have been much worse.
+The combination of very long duration (up to 20 hours) and unpredictable [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] makes ALEPH-4 a compound that demands extensive preparation and a completely free schedule. The subject at 12 mg noted that "if I couldn't have escaped" during the claustrophobic episode, the outcome could have been much worse.
 
 ## Synthesis Notes
 
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

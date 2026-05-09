@@ -1,5 +1,5 @@
 ---
-title: "How to Prevent Transplant Shock When Moving Cannabis Plants"
+title: "How to query how to prevent transplant shock when moving cannabis plants Shock When Moving Cannabis Plants"
 created: 2026-04-28
 tags: [query, cannabis, transplanting, plant-care, growing]
 date: 2026-04-25
@@ -14,15 +14,15 @@ type: query
 Transplant shock occurs when a cannabis plant's root system is disturbed during
 potting up, causing wilting, stunted growth, and yellowing leaves. Prevent it by
 minimizing root disturbance, timing the transplant correctly, maintaining
-consistent environmental conditions, and using proper watering techniques before
+consistent environmental conditions, and using proper [[cannabis-watering-techniques-and-frequency]] before
 and after the move.
 
 ## Detailed Explanation
 Transplant shock is one of the most common stressors that cannabis growers
-encounter, especially during the vegetative stage when plants are actively
+encounter, especially during the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] when plants are actively
 growing and frequently need to be moved into larger containers. The stress
 response happens because the root system, which is responsible for water and
-nutrient uptake, gets disrupted during the transfer process. Roots that are
+[[plant-nutrient-uptake-mechanisms]], gets disrupted during the transfer process. Roots that are
 torn, exposed to air, or damaged lose their ability to function efficiently,
 leading to a temporary period where the plant cannot meet its own water demands.
 
@@ -30,7 +30,7 @@ The best time to transplant cannabis is when the plant has developed a healthy
 root ball that holds the growing medium together but has not yet become
 root-bound. Signs that a plant is ready for a larger pot include roots circling
 the bottom of the container, visible roots through drainage holes, rapid drying
-of the medium between waterings, and slowed vegetative growth despite adequate
+of the medium between waterings, and slowed [[cannabis-vegetative-growth-stage]] despite adequate
 feeding. Waiting too long results in
 [[cannabis-sativa-dominant-growing-challenges]] into larger
 pots, take care not to damage the delicate young root tips.
@@ -40,7 +40,7 @@ your growing medium so that when the root ball is placed inside, the soil line
 remains at the same level as it was in the previous pot. Burying the stem deeper
 than it was growing before can invite stem rot, especially in heavy or
 water-retentive soils. For soil and [[pgpr-mycorrhizal-inoculants-microplant-establishment]] or a light dose of
-seaweed extract to the first watering, as these can help reduce stress and
+[[comparison-seaweed-extract-vs-fish-hydrolysate]] to the first watering, as these can help reduce stress and
 encourage rapid root colonization of the new medium.
 
 Environmental consistency is the final piece of the puzzle. For the first 48 to
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

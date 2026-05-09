@@ -1,5 +1,5 @@
 ---
-title: Global Distribution of Neurotropic Fungi
+title: Global global distribution of neurotropic fungi Fungi
 source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 topics: mycology, biogeography, psilocybin, ethnobotany
 ---
@@ -40,7 +40,7 @@ Total: 183 species across 13 genera.
 
 ### Group 2: Ibotenic Acid Species
 
-Three Amanita species containing ibotenic acid: amanita muscaria (fly
+Three Amanita species containing ibotenic acid: [[allegro-amanita-muscaria-properties-and-pharmacology]] (fly
 agaric), amanita pantherina, and Amanita regalis. These are the famous
 sacred fungi of Siberian shamanism, used by the Chukchee and Koryak
 peoples of Russia. Amanita muscaria grows in mycorrhizal association
@@ -52,14 +52,14 @@ Seven species producing well-known ergot alkaloids: five species of
 Claviceps (C. purpurea, C. nigricans, C. paspali, C. rolfesii, C.
 tripsicii) and two species of Cordyceps (C. capitata and C.
 ophioglossoides). The Cordyceps species are used in Mexico in special
-nocturnal ceremonies, sometimes eaten together with [[psilocybe-aztecorum]], for
+nocturnal ceremonies, sometimes eaten together with [[psilocybe-aztecorum-entity-the-mushroom-cultivator]], for
 example, grows in the high mountains of Mexico at 4,000 meters.
 
 ### Gaps in Knowledge
 
 Significant gaps remain in the geographic record. No records exist from
 southeastern Russia, Mongolia, Arabia, or Turkey. Many regions of Africa
-are poorly documented. Even in the United States, several states have no
+are poorly documented. Even in the [[dmt-containing-plants-united-states-halpern]], several states have no
 records of neurotropic Psilocybe species. There are no records of
 Psilocybe from Korea, Malaysia (except Java and Sumatra), or Hawaii. As
 Gartz observed: "The mushrooms occur in abundance wherever mycologists
@@ -70,13 +70,13 @@ abound."
 The history of neurotropic fungi research can be divided into five
 periods:
 
-1. Ancient use by indigenous peoples in North America, Mesoamerica,
+1. Ancient use by indigenous peoples in [[psilocybin-north-america-pacific-northwest]], Mesoamerica,
    Siberia, and New Guinea.
 2. Early uncertain or erroneous studies in the beginning of the 20th
    century.
 3. Scientific investigations beginning with Wasson's studies in the
    1950s.
-4. Recreational drug use era in the 1960s, leading to legal prohibition
+4. Recreational drug use era in the 1960s, leading to [[emcdda-hallucinogenic-mushroom-legal-prohibition-impact-uk-netherlands]]
    in many countries.
 5. Current period of recapitulation — new species descriptions and
    improved chemical analysis.

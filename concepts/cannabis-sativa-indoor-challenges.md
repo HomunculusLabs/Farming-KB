@@ -54,13 +54,13 @@ Sativa strains are generally more sensitive to nutrient overload than
 indicas. The Rev makes this point emphatically, comparing sativas to
 wolves and indicas to domesticated dogs. Sativas are wild-ish and
 highly adaptable plants that by their very nature don't really like
-being force fed synthetic nutrients, and it shows. Overfeeding sativas
-typically manifests as tip burn, nutrient lockout, and diminished
+being force fed [[query-organic-vs-synthetic-nutrients-cannabis]], and it shows. Overfeeding sativas
+typically manifests as tip burn, [[cannabis-nutrient-lockout-and-ph]], and diminished
 flavor and aroma in the finished product. The Rev strongly advocates
 organic cultivation for sativas, arguing that the quality difference
 between organically and synthetically grown sativa is more pronounced
 than with indicas. His book True Living Organics provides detailed
-guidance on all-natural indoor cannabis cultivation methods.
+guidance on all-natural indoor [[query-how-does-no-till-cannabis-cultivation-work]] methods.
 
 ## Environmental Sensitivity
 
@@ -71,7 +71,7 @@ a fairly sensitive plant requiring extra care against inclement
 weather, pests, mold, and other potential irritants. Indoor growers
 must maintain stable environmental conditions throughout the extended
 flowering period. This is particularly challenging with sativa's long
-flowering cycle, as any environmental control failure has more time
+flowering cycle, as any [[eclss-environmental-control-life-support]] failure has more time
 to cause significant damage. The narrow internodal spacing and airy
 bud structure of many sativas also makes them more susceptible to
 bud rot and mold in high-humidity environments.
@@ -100,7 +100,7 @@ terpenes and cannabinoids relative to their weight, meaning the quality per
 gram can exceed that of denser indica flowers. Proper drying and curing
 techniques are especially important for sativas, as the loose bud structure
 makes them prone to overdrying. A slow cure of 4-8 weeks preserves the
-complex terpene profiles that distinguish premium sativa from average
+complex [[cannabis-terpene-profiles-sativa]] that distinguish premium sativa from average
 commercial product. The Rev emphasizes that patience during the finishing
 stages is critical for sativa quality.
 
@@ -108,7 +108,7 @@ stages is critical for sativa quality.
 
 Despite these challenges, a sativa revolution is underway. As legal
 systems shift away from prohibition, growers who once had to hide in
-closets can now cultivate in larger spaces. Medical marijuana users
+closets can now cultivate in larger spaces. [[cervantes-medical-marijuana-pharmacology]] users
 discovered that many had been numbing themselves with indicas when
 they really needed sativa's energizing, inspirational effects. Spanish
 breeders have been particularly successful at creating indoor-friendly

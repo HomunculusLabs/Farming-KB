@@ -1,5 +1,5 @@
 ---
-title: "Turner on Ecstasy (MDMA): The Heart Opening Psychedelic"
+title: "Turner on Ecstasy (MDMA): The ecstasy-mdma-heart-opening-psychedelic Psychedelic"
 created: 2026-04-28
 tags: [mdma, ecstasy, empathogen, phenethylamine, psychedelic-guide, turner, harm-reduction, neurotoxicity]
 date: 2026-04-25
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

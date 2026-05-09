@@ -1,5 +1,5 @@
 ---
-title: Arbuscular Mycorrhizal Colonization Patterns
+title: Arbuscular arbuscular mycorrhizal colonization patterns Patterns
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -8,7 +8,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/arthur-j-mushrooms-and-mankind.md]
 ---
 # Arbuscular Mycorrhizal Colonization Patterns
 
-Arbuscular mycorrhizal (AM) fungi are obligate symbionts that colonize the roots of more than 80% of terrestrial plant species. The colonization process follows a highly orchestrated sequence of developmental stages, each representing a distinct morphological interface for nutrient exchange between fungus and host.
+Arbuscular mycorrhizal (AM) fungi are obligate symbionts that colonize the roots of more than 80% of terrestrial plant species. The colonization process follows a highly orchestrated sequence of developmental stages, each representing a distinct morphological interface for [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between fungus and host.
 
 ## Colonization Sequence
 
@@ -34,7 +34,7 @@ Arbuscules represent the hallmark structure of AM symbiosis. Two main arbuscule 
 
 - **Paris-type arbuscules**: Found in many woody plants and some herbaceous species (named after Paris quadrifolia). The fungus forms extensive intracellular coils rather than intercellular hyphal networks, with arbuscule-like branches developing from these coils.
 
-The arbuscule is now established as the main site for nutrient exchange. Alkaline phosphatase activity has been localized to arbuscules, correlating with the efficiency of phosphorus uptake (Tisserant et al. 1992) and sugar metabolism (Ezawa et al. 1999). Studies using succinate dehydrogenase (SDH) staining have shown that over 80% of autofluorescing arbuscules in palm species are metabolically active, with rates of 82-94% depending on the species (Dreyer et al. 2006).
+The arbuscule is now established as the main site for nutrient exchange. Alkaline [[mycorrhizal-phosphatase-activity-elf97-detection]] has been localized to arbuscules, correlating with the efficiency of phosphorus uptake (Tisserant et al. 1992) and sugar metabolism (Ezawa et al. 1999). Studies using succinate dehydrogenase (SDH) staining have shown that over 80% of autofluorescing arbuscules in palm species are [[isolation-metabolically-active-arbuscules-intraradical-hyphae]], with rates of 82-94% depending on the species (Dreyer et al. 2006).
 
 ## Arbuscular Coils
 
@@ -54,7 +54,7 @@ Several methods are used to assess AM colonization extent and pattern:
 
 ## Host Plant Influence on Colonization
 
-The host plant species significantly affects AM fungal development. Hyphal density within the extraradical mycelial network varies with host: cotton supports hyphal densities of 6.8 mm/mm², while lettuce and eggplant support only 2.9-4.1 mm/mm² (Giovannetti et al. 2004). Different plant species also influence the frequency of hyphal anastomoses and branching patterns, suggesting that host physiology modulates fungal morphological development.
+The host plant species significantly affects AM fungal development. Hyphal density within the extraradical [[gadd-mycelial-network-dynamics]] varies with host: cotton supports hyphal densities of 6.8 mm/mm², while lettuce and eggplant support only 2.9-4.1 mm/mm² (Giovannetti et al. 2004). Different plant species also influence the frequency of hyphal anastomoses and branching patterns, suggesting that host physiology modulates fungal morphological development.
 
 ## Intercellular Hyphae
 
@@ -62,7 +62,7 @@ The intercellular hyphal network running through the root cortex serves as the t
 
 ## Seasonal and Environmental Variation
 
-AM colonization patterns are not static but vary with environmental conditions and plant phenology. Colonization levels typically increase during periods of active root growth and decline during stress or dormancy. Soil phosphorus availability exerts strong regulatory control: high available P suppresses arbuscule development while low P stimulates it, consistent with the role of mycorrhizae in phosphorus acquisition. Soil disturbance -- including tillage, erosion, and compaction -- disrupts the extraradical hyphal network and reduces colonization, effects that can persist for months or years depending on the severity of disturbance.
+AM colonization patterns are not static but vary with environmental conditions and plant phenology. Colonization levels typically increase during periods of active root growth and decline during stress or dormancy. Soil [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] exerts strong regulatory control: high available P suppresses arbuscule development while low P stimulates it, consistent with the role of mycorrhizae in phosphorus acquisition. Soil disturbance -- including tillage, erosion, and compaction -- disrupts the extraradical hyphal network and reduces colonization, effects that can persist for months or years depending on the severity of disturbance.
 
 ## Agricultural Implications
 
@@ -74,7 +74,7 @@ The dialogue between AM fungi and host plants involves an elaborate molecular si
 - [[arbuscular-mycorrhizal-networks]]
 - [[ectomycorrhizal-morphological-structures]]
 - [[common-mycorrhizal-networks]]
-- [[mycorrhizal-nutrient-uptake]]
+- mycorrhizal-nutrient-uptake
 ## Practical Considerations
 
 Successful implementation of Arbuscular Mycorrhizal Colonization Patterns requires attention to
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

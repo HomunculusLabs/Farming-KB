@@ -5,19 +5,20 @@ updated: 2026-04-12
 type: concept
 tags: [mycology, ecology, nutrients, water, soil, symbiosis, succession]
 sources:
-  - raw/papers/mycelium-running-stamets.md
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # Fungal Ecosystem Roles
 
-How fungi perform specific ecological functions: water transport, nutrient cycling, decomposition, and succession management. Part of the [[fungal-ecology]] framework from *Mycelium Running* by [[paul-stamets]].
+How fungi perform specific ecological functions: water transport, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], decomposition, and succession management. Part of the [[fungal-ecology]] framework from *[[woodlovers-mycelium-running-pathway-technique]]* by [[paul-stamets]].
 
 ## Water Transport
 
 Mycelium acts as a **biological hydraulic system**:
 - Rhizomorphic mycelia channel water from wet zones to dry zones
 - [[paul-stamets]] observed mycelium transporting water from a creek up a 40-foot vertical bank
-- Serpula lacrymans (dry rot fungus) transports water from meters away to moisten wood before contact
+- [[fungal-serpula-lacrymans-dry-rot-buildings]] (dry rot fungus) transports water from meters away to moisten wood before contact
 - Mycelial mats act as sponges — inoculated wood chips retain dramatically more moisture
 - A cubic inch of colonized soil holds more water than non-colonized soil
 - This hydraulic function is critical for [[mycofiltration-overview]] applications
@@ -41,8 +42,8 @@ Mycelium acts as a **biological hydraulic system**:
 ### Enzymatic Arsenal
 | Enzyme | Produces | Key Function |
 |--------|----------|-------------|
-| Lignin peroxidase | White rot fungi | Breaks lignin's aromatic rings |
-| Manganese peroxidase | White rot fungi | Mineralizes wood; breaks H-C bonds |
+| [[fungal-lignin-peroxidase-veratryl-alcohol]] | White rot fungi | Breaks lignin's aromatic rings |
+| [[fungal-manganese-peroxidase-remediation]] | White rot fungi | Mineralizes wood; breaks H-C bonds |
 | Laccase | White rot fungi | General oxidase; degrades phenols, dyes |
 | Cellulase | Most fungi | Breaks down cellulose |
 | Quinone reductase | Brown rot (Gloeophyllum) | Consumes wood preservatives |
@@ -54,7 +55,7 @@ Aged mycelium performs better than pure culture for remediation:
 - **Reason**: Native microbes activated by mycelial introduction produce complementary enzymes
 - **Stamets' insight**: "Acclimated spawn" (aged mycelium exposed to habitat microbes) outperforms pure culture
 - **Mechanism**: Mycelium declines → bacteria bloom on dying mycelium → bacteria finish toxin breakdown
-- **Practical implication**: Spent mushroom substrate from farms is better remediation material than fresh spawn
+- **Practical implication**: Spent [[gourmet-medicinal-mushroom-substrate-preparation]] from farms is better remediation material than fresh spawn
 
 ## Carbon Cycling
 

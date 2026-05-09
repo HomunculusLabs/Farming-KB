@@ -21,11 +21,11 @@ type: concept
 
 # Tassili-n-Ajjer and the Saharan Eden
 
-The Tassili-n-Ajjer is a vast plateau in southern Algeria featuring an extraordinary concentration of Neolithic rock art that provides what McKenna considered the strongest archaeological evidence for his theory of a prehistoric partnership society.
+The Tassili-n-Ajjer is a vast plateau in southern Algeria featuring an extraordinary concentration of Neolithic rock art that provides what McKenna considered the strongest archaeological evidence for his theory of a prehistoric [[mckenna-dominator-vs-partnership-society-model]].
 
 He proposed that the Tassili was the historical Eden whose loss gave rise to humanity's persistent mythological nostalgia for paradise.
 
-The rock art documents a culture centered on cattle cults, Goddess worship, and the ritual use of psilocybin mushrooms that flourished in the Sahara between 9,000 and 20,000 years ago.
+The rock art documents a culture centered on cattle cults, Goddess worship, and the ritual use of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] that flourished in the Sahara between 9,000 and 20,000 years ago.
 
 ## Geological Setting
 
@@ -61,7 +61,7 @@ Henri Lhote estimated it lasted several thousand years, placing its beginning ne
 
 A painting from Inaouanrhat in the Tassili depicts a dancing woman with outstretched arms and horns extended horizontally on either side of her head, embodying the Great Horned Goddess.
 
-Her discoverers saw a relationship with the Egyptian goddess Isis, mythical protector of grain cultivation.
+Her discoverers saw a relationship with the Egyptian goddess Isis, mythical protector of [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]].
 
 This image is central to McKenna's argument that a Goddess-worshipping partnership culture flourished in the Sahara long before the rise of Egyptian civilization.
 
@@ -95,7 +95,7 @@ James Mellaart described a love of art in the Early Natufian that was "worthy of
 
 Skeletal evidence from Jericho shows the inhabitants were of Eurafrican stock, fairly robust with long skulls.
 
-The ceramic evidence supports an African origin: dark, burnished monochrome pottery known as Sahara-Sudanese ware found at Natufian sites has also been found near the Egyptian-Sudanese border and in the Tassili-n-Ajjer.
+The ceramic evidence supports an [[psilocybe-cubensis-cattle-association-african-origin-guzman-1998]]: dark, burnished monochrome pottery known as Sahara-Sudanese ware found at Natufian sites has also been found near the Egyptian-Sudanese border and in the Tassili-n-Ajjer.
 
 The Natufian culture is particularly notable for its intense involvement with plant resources. The emphasis on plant resources allowed for a storable surplus that fundamentally influenced settlement patterns and social organization.
 
@@ -125,7 +125,7 @@ Language, poetry, ritual, and thought emerged from the darkness of the hominid m
 
 The Genesis story of expulsion from Eden was interpreted as a cultural memory of successive drought episodes that disrupted the Saharan paradise.
 
-The fruit of the Tree of Knowledge was identified with *Stropharia cubensis*, the psilocybin mushroom that catalyzed and maintained the Tassili partnership Eden through a religion of boundary-dissolution into the presence of the Great Goddess.
+The fruit of the Tree of Knowledge was identified with *[[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]*, the psilocybin mushroom that catalyzed and maintained the Tassili partnership Eden through a religion of boundary-dissolution into the presence of the Great Goddess.
 
 ## Twilight-State Thinking
 
@@ -133,7 +133,7 @@ John Pfeiffer's concept of "twilight-state thinking" from his analysis of Upper 
 
 Characterized by loss of objectivity, temporal distortion, and mild hallucinations, twilight-state thinking is essentially a gloss for egoless psychedelic arousal.
 
-Pfeiffer argued that the prevalence of this susceptibility "argues for its evolutionary importance" and that "there must have been an enormous selective premium on the twilight state during prehistoric times."
+Pfeiffer argued that the prevalence of this susceptibility "argues for its evolutionary importance" and that "there must have been an enormous selective premium on the [[mckenna-food-gods-twilight-state-thinking]] during prehistoric times."
 
 ## See Also
 

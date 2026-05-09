@@ -3,12 +3,12 @@
 
 ## Overview
 
-Steve Solomon strongly advocates foliar feeding — spraying liquid organic fertilizers directly onto plant leaves — as one of the fastest and most effective ways to address nutrient deficiencies, recover stressed plants, and boost overall crop vigor. His preferred combination is fish emulsion mixed with liquid kelp ([[query-what-are-phytohormones-and-how-do-they-affect-plant-growth]] is often visible within 24-48 hours, far faster than soil-applied fertilizers
+Steve Solomon strongly advocates foliar feeding — spraying liquid [[hamilton-organic-fertilizers-and-plant-nutrition]] directly onto plant leaves — as one of the fastest and most effective ways to address [[hamilton-nutrient-deficiencies-and-treatment]], recover stressed plants, and boost overall crop vigor. His preferred combination is fish emulsion mixed with liquid kelp ([[query-what-are-phytohormones-and-how-do-they-affect-plant-growth]] is often visible within 24-48 hours, far faster than soil-applied fertilizers
 - Foliar feeding bypasses any soil chemistry issues (pH lockup, nutrient fixation, microbial competition) that might prevent root uptake
 
 ### When [[query-what-are-the-best-ways-to-increase-soil-organic-matter-quickly]] **Early spring when soil is cold**: Nutrient release from soil organic matter is extremely slow at low temperatures, but leaves can absorb foliar nutrients regardless of soil temperature. This makes foliar feeding especially valuable for transplants and early-sown crops
 
-2. **Rapid re [[query-how-to-fix-magnesium-deficiency-in-cannabis]] Iron chlorosis, magnesium deficiency, and other trace mineral problems often respond faster to foliar treatment than soil amendment
+2. **Rapid re [[query-how-to-fix-magnesium-deficiency-in-cannabis]] Iron chlorosis, [[query-how-to-fix-magnesium-deficiency-in-cannabis]], and other trace mineral problems often respond faster to foliar treatment than soil amendment
 
 4. **Temporary pest deterrence**: Fish emulsion odor on leaf surfaces may temporarily mask plant scents from insect pests, providing a brief window of protection while the plant recovers vigor
 
@@ -20,7 +20,7 @@ Steve Solomon strongly advocates foliar feeding — spraying liquid organic fert
 
 Fish emulsion is produced by partially decomposing fish waste (heads, bones, entrails) in a controlled enzymatic process. The resulting liquid is rich in:
 
-- **Nitrogen** (typically 5-5-1 NPK ratio): The primary macronutrient for vegetative growth
+- **Nitrogen** (typically 5-5-1 NPK ratio): The primary macronutrient for [[cannabis-vegetative-growth-stage]]
 - **Phosphorus** (minor component): Important for root development and flowering
 - **Trace minerals**: Fish contain a broad spectrum of minerals from the ocean food chain
 - **Amino acids and proteins**: Organic nitrogen sources that are readily absorbed by leaves
@@ -45,7 +45,7 @@ Liquid kelp is made by cold-pressing or digesting seaweed (typically Ascophyllum
 
 ## Spot Fertigation as Complement
 
-Solomon also mentions "spot fertigation" — applying liquid fertilizer directly to the root zone of individual plants — as a companion technique to foliar feeding:
+Solomon also mentions "spot fertigation" — applying [[jadam-liquid-fertilizer-nutritional-perspective]] directly to the root zone of individual plants — as a companion technique to foliar feeding:
 
 - Mix fish emulsion at double the foliar concentration (2-4 tablespoons per gallon)
 - Pour 1-2 cups of solution directly at the base of stressed or slow-growing plants
@@ -60,7 +60,7 @@ This targeted approach is more efficient than blanket fertilization and allows t
 
 - [[solomon-gardening-aikido-pest-philosophy-ecological-management]]
 - solomon bed preparation and fertilization methods
-- ingham aact disease suppression mechanisms
+- ingham aact [[aact-disease-suppression-mechanisms-ingham]] mechanisms
 - seaweed extract plant biostimulants
 ## Practical Considerations
 
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

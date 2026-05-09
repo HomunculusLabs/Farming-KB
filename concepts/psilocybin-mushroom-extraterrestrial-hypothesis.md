@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Mushroom Extraterrestrial Hypothesis
+title: emcdda-psilocybin-mushroom-dose-and-effects mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal
 tags:
   - psychedelics
   - mycology
@@ -17,7 +17,7 @@ created: 2026-05-07
 
 # Psilocybin Mushroom Extraterrestrial Hypothesis
 
-The extraterrestrial hypothesis for [[stropharia-cubensis]] may not have evolved on Earth but instead arrived via interstellar spore dispersal. First articulated in [[non-causality-in-nature]] for communication.
+The extraterrestrial hypothesis for [[stropharia-cubensis]] may not have evolved on Earth but instead arrived via interstellar [[aquatic-fungi-spore-dispersal-ingold]]. First articulated in [[non-causality-in-nature]] for communication.
 
 He compared this dilemma to "a child who wishes to destroy a radio to see if there are little people inside." The ambiguity between medium and message, between the mushroom as organism and the mushroom as communication channel, is a central tension in the hypothesis.
 
@@ -51,14 +51,16 @@ The mushroom's claim that "humanity's conceptions of organized intelligence and 
 
 ## Eros and the Christus
 
-McKenna offered a mythological reading of the mushroom's history in human culture, describing the mushroom as "the body of Osiris, the condensed body of Eros." He suggested that Eros "retreated at the coming of the Christus" and that the Spanish conquistadors, having "conquered the New World and driven its people into cultural fragmentation and diaspora," unexpectedly "came upon the body of Osiris" in the mountains of Mexico.
+McKenna offered a mythological reading of the mushroom's history in human culture, describing the mushroom as "the [[mckenna-dmt-alienated-soul-body-of-osiris-eschatology]], the condensed body of Eros." He suggested that Eros "retreated at the coming of the Christus" and that the Spanish conquistadors, having "conquered the New World and driven its people into cultural fragmentation and diaspora," unexpectedly "came upon the body of Osiris" in the mountains of Mexico.
 
 This mythological framework places the suppression and rediscovery of the mushroom within a larger narrative of cosmic forces, suggesting that the mushroom represents a primordial consciousness that has been alternately embraced and rejected by human cultures throughout history.
 
 ## See Also
 
+- [[psilocybin-extraterrestrial-hypothesis]]
+
 - [[psilocybin-mushroom-identification]]
-- [[psilocybin-mushrooms-north-america-distribution]]
+- psilocybin-mushrooms-north-america-distribution
 ## Practical Considerations
 
 Successful implementation of Psilocybin Mushroom Extraterrestrial Hypothesis requires attention to
@@ -77,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

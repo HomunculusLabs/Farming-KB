@@ -1,5 +1,5 @@
 ---
-title: Adobe vs Bamboo Construction
+title: comparison adobe vs bamboo construction Construction
 created: 2026-04-28
 tags:
   - natural-building
@@ -21,11 +21,11 @@ A comparative guide to two of the world's most accessible and sustainable buildi
 
 ### Adobe
 
-Sun-dried earth bricks composed of 15-30% clay mixed with sand, water, and straw fiber. This is one of the oldest building methods on Earth, with a history exceeding 4,000 years. Today, adobe and other earthen construction techniques are used by an estimated 30-50% of the world's population, making it arguably the most widely used building system globally.
+Sun-dried earth bricks composed of 15-30% clay mixed with sand, water, and straw fiber. This is one of the oldest building methods on Earth, with a history exceeding 4,000 years. Today, adobe and other [[pdc-earthen-construction-techniques]] techniques are used by an estimated 30-50% of the world's population, making it arguably the most widely used building system globally.
 
 ### Bamboo
 
-One of the most versatile and rapidly renewable building materials available. Certain bamboo species grow up to 90cm per day and reach harvestable maturity in just 3-5 years. Bamboo offers a tensile strength that rivals steel and a compressive strength comparable to concrete, making it a high-performance natural material.
+One of the most versatile and rapidly renewable [[natural-building-materials-guide]] available. Certain bamboo species grow up to 90cm per day and reach harvestable maturity in just 3-5 years. Bamboo offers a tensile strength that rivals steel and a compressive strength comparable to concrete, making it a high-performance natural material.
 
 ## Structural Performance
 
@@ -58,6 +58,7 @@ Adobe excels under compressive loads but is inherently weak in tension and shear
 5. **Assembly** — erect columns, beams, flooring, and scaffolding as needed
 
 Bamboo construction tends to be faster from harvest to finished structure, while adobe requires significant lead time for brick drying. See [[straw-bale-construction]] and [[timber-frame-basics]].
+
 ## Practical Considerations
 
 Successful implementation of Adobe vs Bamboo Construction requires attention to
@@ -76,4 +77,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

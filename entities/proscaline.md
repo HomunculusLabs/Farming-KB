@@ -26,7 +26,7 @@ The compound was first synthesized and characterized by Alexander Shulgin, who d
 
 Proscaline produces effects broadly similar to mescaline, including visual hallucinations, enhanced sensory perception, and altered cognitive patterns. The propyl chain substitution results in a moderate increase in potency and a slightly altered duration and character of effects compared to the parent compound.
 
-The compound exists as a free base and is commonly encountered as a hydrochloride salt, a white crystalline powder. It is classified as a controlled substance in several jurisdictions due to its structural relationship to scheduled phenethylamines.
+The compound exists as a free base and is commonly encountered as a hydrochloride salt, a white crystalline powder. It is classified as a controlled substance in several jurisdictions due to its [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to scheduled phenethylamines.
 
 ## Chemical Properties
 
@@ -94,15 +94,15 @@ The freebase is converted to the hydrochloride salt by treatment with anhydrous 
 
 ## Legal Status
 
-Proscaline is controlled as a Schedule I substance in the United States under the Federal Analogue Act, due to its structural and pharmacological similarity to mescaline. Possession, distribution, and manufacture carry criminal penalties equivalent to other Schedule I psychedelics.
+Proscaline is controlled as a Schedule I substance in the [[dmt-containing-plants-united-states-halpern]] under the Federal Analogue Act, due to its structural and pharmacological similarity to mescaline. Possession, distribution, and manufacture carry criminal penalties equivalent to other Schedule I psychedelics.
 
-In the United Kingdom, proscaline is controlled as a Class A drug under the Psychoactive Substances Act amendments. It is similarly controlled or regulated in Australia, Canada, and most EU member states.
+In the United Kingdom, proscaline is controlled as a Class A drug under the Psychoactive [[controlled-substances-act-and-psychedelic-research]] amendments. It is similarly controlled or regulated in Australia, Canada, and most EU member states.
 
 The compound is not specifically listed in the UN Convention on Psychotropic Substances but falls under the catch-all provisions for mescaline analogues in many national legislations. Its legal status in jurisdictions without analogue provisions is unclear.
 
 ## Related Compounds
 
-Proscaline occupies a position in the alkoxy-mescaline series alongside escaline (4-ethoxy), isescaline (4-isopropoxy), and butescaline (4-butoxy). Potency and duration generally increase with alkyl chain length within this series.
+Proscaline occupies a position in the alkoxy-mescaline series alongside escaline (4-ethoxy), isescaline (4-isopropoxy), and butescaline (4-butoxy). Potency and duration generally increase with alkyl [[phenethylamine-chain-length-effects]] within this series.
 
 Other related compounds include mescaline itself (4-methoxy), allylescaline (4-allyloxy), and the broader phenethylamine psychedelics such as 2C-B, 2C-E, and 2C-I. The 2C series shares the core phenethylamine structure but carries substituents at the 2 and 5 ring positions.
 

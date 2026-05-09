@@ -5,7 +5,7 @@ tags: [query, mycology, bioremediation, environment, mycoremediation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
+  sources: []
 type: query
 ---
 
@@ -15,7 +15,7 @@ type: query
 Yes, certain fungi can break down petroleum hydrocarbons, heavy metals, pesticides,
 explosives, and other environmental pollutants through a process called mycoremediation.
 White rot fungi like Pleurotus ostreatus produce powerful enzymes called peroxidases
-that decompose complex chemical structures found in oil, PAHs, and many synthetic
+that decompose complex [[plants-of-the-gods-chemical-structures-hallucinogens]] found in oil, PAHs, and many synthetic
 contaminants. While promising, mycoremediation works best as part of integrated
 remediation strategies rather than as a standalone solution for environmental cleanup.
 
@@ -26,16 +26,16 @@ environmental contaminants. The concept was popularized by Paul Stamets and has 
 been validated by numerous scientific studies demonstrating that certain fungal species
 possess remarkable abilities to break down chemicals that persist in the environment
 for decades or even centuries. The [[brown-rot-and-white-rot-fungi-in-mycoremediation]] enzymes that
-decompose wood, including lignin peroxidase, manganese peroxidase, and laccase, can
-also break the chemical bonds in petroleum compounds. The mycoremediation of oil spills and [[mycoremediation-heavy-metals-detailed]] guides explain how species like Pleurotus
+decompose wood, including [[fungal-lignin-peroxidase-veratryl-alcohol]], [[fungal-manganese-peroxidase-remediation]], and laccase, can
+also break the chemical bonds in petroleum compounds. The mycoremediation of oil spills and [[mycoremediation-of-heavy-metals]] guides explain how species like Pleurotus
 and Ganoderma have been used to treat contaminated water and soil containing lead,
-cadmium, mercury, and chromium. The [[fungal-biodegradation-pesticides]] research
+cadmium, mercury, and chromium. The fungal-biodegradation-pesticides research
 shows that fungi can break down organophosphates, organochlorines, and other pesticide
 classes through enzymatic action. Explosive contaminants like TNT and RDX, which
 contaminate military training grounds and manufacturing facilities, are also
-susceptible to fungal degradation as documented in [[mycoremediation-of-explosives]]. The [[mycoremediation-basic-techniques]] describes inoculation methods where fungal spawn
+susceptible to fungal degradation as documented in mycoremediation-of-explosives. The mycoremediation-basic-techniques describes [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]] where fungal spawn
 or myceliated substrates are mixed directly into contaminated soil or placed in
-filtration systems. [[mycoremediation-bioreactor-design]] covers
+filtration systems. mycoremediation-bioreactor-design covers
 controlled systems where fungal enzymes are produced at scale for ex situ treatment of
 contaminated water or soil. The [[fungal-bioremediation-mechanisms]] page provides a balanced
 assessment of when mycoremediation is and is not appropriate. The [[mycoremediation-of-textile-dyes]] and [[mycoremediation-of-plastics]] page covers
@@ -45,10 +45,10 @@ ability to degrade polyurethane, and several other species are being investigate
 for their plastic-degrading potential. This research is still in its early stages
 but represents a potentially transformative application of fungal biology.
 
-Emerging techniques in mycoremediation include genetic engineering to enhance
+Emerging techniques in mycoremediation include [[fukuoka-textdoc-genetic-engineering-critique-warning]] to enhance
 fungal enzyme production, nanotechnology-enabled delivery systems for fungal
 inoculum, and the development of fungal-bacterial consortia that combine the
-strengths of both organism types. The [[mycoremediation-enzyme-production-optimization]] pages explore these cutting-edge
+strengths of both organism types. The mycoremediation-enzyme-production-optimization pages explore these cutting-edge
 approaches that may significantly improve the speed and effectiveness of fungal
 bioremediation in the coming years. The [[fungal-remediation-decision-tree]]
 - [[mycoremediation-case-studies]]
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

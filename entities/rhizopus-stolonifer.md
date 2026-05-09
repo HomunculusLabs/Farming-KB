@@ -32,7 +32,7 @@ updated: 2026-05-02
 
 **Rhizopus stolonifer** is a rapidly growing mold best known as black bread mold.
 It is a cosmopolitan saprotrophic fungus and one of the common organisms behind black pin mold contamination.
-Mushroom cultivation it matters because its fast, cottony growth can overrun grain, agar, or moist substrates.
+[[accessible-mushroom-cultivation-for-disabilities]] it matters because its fast, cottony growth can overrun grain, agar, or moist substrates.
 The species is also an important decomposer of stored foods, fruits, vegetables, and other nutrient-rich materials.
 
 ## Taxonomic position
@@ -59,7 +59,7 @@ As spores mature, the colony becomes darker and easier to recognize.
 
 ## Habitat and distribution
 
-Rhizopus stolonifer has a global distribution.
+Rhizopus stolonifer has a [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]].
 It is common in air, soil, decaying plant material, compost, kitchens, and storage rooms.
 It appears readily on stale bread and damaged fruit because those substrates provide accessible sugars and moisture.
 The species is especially common in warm, humid environments.
@@ -90,9 +90,9 @@ Containers showing mature black sporangia should be handled gently and sealed be
 
 In mushroom work, Rhizopus stolonifer is grouped with black pin molds.
 It can appear on agar plates, hydrated grain, overly wet substrates, and poorly pasteurized materials.
-Growth is typically faster and wispier than the dense, organized mycelium of many cultivated mushrooms.
+Growth is typically faster and wispier than the dense, organized mycelium of many [[fungi-cultivated-mushrooms-pathogens-competitors]].
 The mold can climb surfaces and produce upright sporangia that look like tiny dark pins.
-It competes for nutrients and space rather than forming the intended mushroom crop.
+It competes for nutrients and space rather than forming the intended [[sustaining-mushroom-crop-flushing-harvesting]].
 Once sporulation is visible, the culture is usually discarded.
 Opening sporulating plates or jars in a clean area risks spreading spores to future projects.
 
@@ -122,10 +122,11 @@ For field notes, the safest label without microscopy is often "Rhizopus-like bla
 
 Rhizopus stolonifer is a fast, cosmopolitan saprotroph.
 Its black sporangia make mature colonies visually distinctive.
-It is connected to bread mold, fruit rot, and mushroom contamination.
+It is connected to bread mold, fruit rot, and [[oyster-mushroom-contamination-management]].
 The organism spreads readily by airborne spores.
-Good sterile technique, moisture control, and prompt disposal are the main defenses.
+Good [[cultivator-sterile-technique-and-agar-culture]], moisture control, and prompt disposal are the main defenses.
 
 ## Related Topics
-- [[agar]]
+- agar
 - [[mycelium]]
+- [[mushroom-cultivation]]

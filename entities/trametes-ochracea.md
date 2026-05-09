@@ -23,7 +23,7 @@ created: 2026-04-28
 
 It is a white-rot saprotroph found on dead hardwood logs and branches across temperate and boreal regions of the Northern Hemisphere.
 
-The species is closely related to the turkey tail (*Trametes versicolor*) and shares many ecological roles but is less commonly collected and studied.
+The species is closely related to the turkey tail (*[[staycare-trametes-versicolor-bioremediation-applications]]*) and shares many ecological roles but is less commonly collected and studied.
 
 ## Taxonomy and Morphology
 
@@ -65,7 +65,7 @@ Fruiting occurs from late summer through autumn, with basidiocarps persisting th
 
 ## Ecological Role
 
-As a white-rot fungus, *T. ochracea* secretes lignin-modifying enzymes including lignin peroxidase, manganese peroxidase, and laccase.
+As a white-rot fungus, *T. ochracea* secretes lignin-modifying enzymes including lignin peroxidase, [[fungal-manganese-peroxidase-remediation]], and laccase.
 
 These enzymes break down lignin in wood cell walls, enabling the fungus to access cellulose and hemicellulose as carbon sources.
 
@@ -75,9 +75,9 @@ The species contributes to deadwood biodiversity by creating substrate for inver
 
 ## Chemistry and Bioactivity
 
-Like other *Trametes* species, *T. ochracea* produces a range of secondary metabolites with biological activity.
+Like other *Trametes* species, *T. ochracea* produces a range of [[antifungal-secondary-metabolites-coprophilous-fungi]] with biological activity.
 
-Laccase enzymes from this species have demonstrated potential in bioremediation applications, particularly in the degradation of synthetic dyes and phenolic pollutants.
+[[singh-fungal-laccase-enzymes-bioremediation]] from this species have demonstrated potential in bioremediation applications, particularly in the [[staycare-fungal-degradation-of-synthetic-dyes]] dyes and phenolic pollutants.
 
 Polysaccharide fractions isolated from the fruiting body show immunomodulatory properties in vitro, similar to the better-studied polysaccharopeptide (PSP) from *T. versicolor*.
 
@@ -89,7 +89,7 @@ Triterpenoids and sterols have also been detected, though the pharmacological pr
 
 The primary interest in this species lies in its ecological role and its potential for applied mycology research.
 
-Laccase production makes it a candidate for industrial biotechnology applications including wastewater treatment and biobleaching in paper production.
+Laccase production makes it a candidate for industrial biotechnology applications including [[mollison-designers-wastewater-treatment-wetlands]] and biobleaching in paper production.
 
 ### Bioremediation Potential
 

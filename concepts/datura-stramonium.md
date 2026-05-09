@@ -20,7 +20,7 @@ that of classical hallucinogens.
 
 ## Botanical Description
 
-Datura stramonium is an annual herb growing 2-5 feet tall with erect, branching
+Datura stramonium is an annual [[medicinal-herb-growing]] 2-5 feet tall with erect, branching
 stems. The leaves are large, ovate, coarsely toothed, and irregularly lobed,
 with a strong, distinctive, somewhat unpleasant odor when crushed. The
 trumpet-shaped flowers are white or pale violet, 2-4 inches long, opening in
@@ -29,14 +29,14 @@ capsule containing numerous small, kidney-shaped black seeds.
 
 The plant is found throughout temperate and subtropical regions worldwide. Its
 geographic origin is uncertain, but it is believed to be native to the Americas,
-possibly Mexico or Central America, and to have been introduced to Europe and
-other regions after the Columbian exchange. The plant thrives in disturbed
+possibly Mexico or [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], and to have been introduced to Europe and
+other regions after the [[psilocybe-cubensis-biogeography-columbian-exchange-hypothesis]]. The plant thrives in disturbed
 ground, along roadsides, and in cultivated fields.
 
 Several related species are used similarly in different parts of the world:
 
 - **Datura inoxia**: A perennial species native to Mexico and the southwestern
-  United States, used by indigenous peoples for ceremonial purposes
+  [[dmt-containing-plants-united-states-halpern]], used by indigenous peoples for ceremonial purposes
 - **[[mandrake-plant]], [[datura-innoxia]] xtohk'uh ("toward the gods") and still use it
 for shamanic purposes such as divination and medicinal healing. In some
 Mesoamerican traditions, Datura is associated with the underworld and with the
@@ -91,11 +91,11 @@ In medieval Europe, it was one of the principal ingredients of the witches'
 brews, along with [[belladonna-plant]], and henbane. The
 tropane alkaloid intoxication -- with its sensations of flying, encounters with
 supernatural beings, and complete dissociation -- provided the experiential
-basis for many of the legends surrounding European witchcraft.
+basis for many of the legends surrounding [[harner-european-witchcraft-hallucinogens]].
 
 The plant's dual role as both medicine and poison reflects the broader pattern
 of psychoactive plant use across cultures, where the same compounds that
-produce altered states of consciousness also carry significant risks. The
+produce [[weil-the-natural-mind-altered-states-normalcy]] of consciousness also carry significant risks. The
 history of Datura illustrates the thin line between healing and harm that
 characterizes the use of powerful psychoactive substances.
 

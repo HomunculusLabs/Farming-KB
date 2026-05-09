@@ -11,7 +11,7 @@ sources:
 
 # Suillus bovinus
 
-**Suillus bovinus** is an ectomycorrhizal basidiomycete fungus in the family Suillaceae, commonly known as the Jersey cow mushroom. It is a pine-associated ectomycorrhizal species notable for its mineral weathering capacity, its role in forest decomposition dynamics, and its position within soil faunal food webs.
+**Suillus bovinus** is an ectomycorrhizal basidiomycete fungus in the family Suillaceae, commonly known as the Jersey cow mushroom. It is a pine-associated ectomycorrhizal species notable for its [[mycorrhizal-mineral-weathering-nutrient-acquisition]] capacity, its role in forest decomposition dynamics, and its position within soil faunal food webs.
 
 ## Taxonomy and Distribution
 
@@ -22,14 +22,14 @@ Sen (1990) studied somatic incompatibility in Suillus bovinus, revealing pattern
 ## Mineral Weathering Capacity
 
 Chang and Li (1998) investigated the ability of seven ectomycorrhizal fungal
-species to solubilize limestone, marble, and calcium phosphate using
+species to solubilize limestone, marble, and [[bionutrients-lab-calcium-phosphate-calamansi]] using
 plate-clearing assays. Suillus bovinus was one of only three species, alongside
 Hysterangium setchellii and Rhizopogon vinicolor, that formed halos around
 colonies, indicating a degree of mineral solubilization. In contrast,
 Cenococcum geophilum, Hebeloma crustuliniforme, Laccaria laccata, and Piloderma
 croceum did not clear the medium.
 
-This mineral weathering capacity is ecologically significant because it enables Suillus bovinus to access nutrients bound in mineral matrices, potentially making phosphorus, calcium, and other essential elements available to its host trees. The ability to solubilize calcium phosphate is particularly important in acidic forest soils where phosphorus availability is often limited by its fixation onto mineral surfaces.
+This mineral weathering capacity is ecologically significant because it enables Suillus bovinus to access nutrients bound in mineral matrices, potentially making phosphorus, calcium, and other essential elements available to its host trees. The ability to solubilize calcium phosphate is particularly important in acidic forest soils where [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] is often limited by its fixation onto mineral surfaces.
 
 ## Lead Uptake and Translocation
 
@@ -44,7 +44,7 @@ The lead taken up by Suillus bovinus contributes to understanding of how ectomyc
 
 ## Nutritional Value for Mycophagous Animals
 
-Fogel and Trappe (1978) analyzed the nutritional composition of Suillus bovinus sporocarps consumed by red squirrels (Sciurus vulgaris) as part of a comprehensive study of fungal food quality. The species contained:
+Fogel and Trappe (1978) analyzed the [[dighton-fungal-nutritional-composition-animal-diets]] of Suillus bovinus sporocarps consumed by red squirrels (Sciurus vulgaris) as part of a comprehensive study of fungal food quality. The species contained:
 
 - Protein: 18.2% dry weight
 - Phosphorus: moderate levels
@@ -70,7 +70,7 @@ interface from physical disruption.
 
 ### Litter Decomposition Suppression
 
-Colpaert and van Tichelen (1996) demonstrated that the decomposition of beech leaf litter was significantly less in the presence of Scots pine seedlings colonized by Suillus bovinus than in the presence of the saprotroph Lepista nuda. Nitrogen mineralization only occurred in the presence of Lepista nuda, not with Suillus bovinus or the other ectomycorrhizal species tested (Thelephora terrestris and Paxillus involutus).
+Colpaert and van Tichelen (1996) demonstrated that the decomposition of beech leaf litter was significantly less in the presence of Scots pine seedlings colonized by Suillus bovinus than in the presence of the saprotroph Lepista nuda. [[fungal-nitrogen-mineralization-pathways]] only occurred in the presence of Lepista nuda, not with Suillus bovinus or the other ectomycorrhizal species tested (Thelephora terrestris and Paxillus involutus).
 
 This finding supports the Gadgil effect, where the presence of ectomycorrhizal tree roots and their associated fungal communities can suppress leaf litter decomposition rates. The authors suggest that while ectomycorrhizal fungi like Suillus bovinus are capable of some decomposition in the absence of competing saprotrophs, they are competitively inferior to specialist saprotrophs for organic resource utilization.
 
@@ -89,7 +89,7 @@ Suillus bovinus occupies an important niche in pine forest ecosystems as both an
 The mineral weathering capacity of Suillus bovinus is particularly noteworthy
 because only 3 of 7 ectomycorrhizal species tested by Chang and Li (1998) could
 solubilize calcium phosphate. This functional trait positions Suillus bovinus as
-a key contributor to phosphorus cycling in acidic pine forest soils where
+a key contributor to [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]] in acidic pine forest soils where
 mineral-bound phosphorus represents a significant but largely unavailable
 nutrient pool. Combined with its moderate heavy metal uptake capacity (5.4% of
 available lead), Suillus bovinus may play a role in both nutrient mobilization

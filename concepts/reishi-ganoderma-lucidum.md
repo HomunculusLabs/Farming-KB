@@ -1,5 +1,5 @@
 ---
-title: Reishi (Ganoderma lucidum)
+title: Reishi (stamets-reishi-ganoderma-lucidum-cultivation)
 created: 2026-04-28
 tags: [mushrooms, fungi, medicinal, cultivation, traditional-medicine]
 date: 2026-04-28
@@ -24,7 +24,7 @@ China, Shih-huang of the Ch'in Dynasty (221-207 BC). During the Han Dynasty
 (206 BC to 220 AD), Ling Chi was found growing on palace timbers, producing
 nine "paired leaves," which was interpreted as such a powerful omen that
 emissaries were dispatched across Asia to collect more. The mushroom spread
-to Korea and Japan where it was elevated to near-reverence. In North America
+to Korea and Japan where it was elevated to near-reverence. In [[psilocybin-north-america-pacific-northwest]]
 and Europe, it is commonly known as one of the "Artist's Conk" fungi, since
 the white pore surface (hymenium) can be drawn upon, producing a permanent
 brown image as spores are crushed.
@@ -47,7 +47,7 @@ Ganoderma lucidum has been used medicinally for over 2,000 years and is more
 frequently depicted in ancient Chinese, Korean, and Japanese art than any
 other mushroom. The Chinese traditionally believed Ling Chi could restore
 life when a specific tincture was laid upon one's chest. Modern research
-has identified numerous bioactive compounds including:
+has identified numerous [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] including:
 
 - **Polysaccharides**: Beta-glucans with immune-modulating activity
 - **Triterpenes**: Ganoderic acids with anti-inflammatory and hepatoprotective
@@ -72,8 +72,8 @@ growth rates and morphology. Many strains develop strong rhizomorphs and
 produce copious extracellular metabolites that stain the medium amber.
 
 ### Growth Parameters
-- **Spawn Run**: 75-85 F (24-29 C), 95-100% humidity, 10-14 days
-- **Primordia Formation**: 70-80 F (21-27 C), 95-100% humidity
+- **[[mushroom-spawn-run-thermogenesis-cotter]]**: 75-85 F (24-29 C), 95-100% humidity, 10-14 days
+- **[[growing-gourmet-primordia-formation-pinning]]**: 70-80 F (21-27 C), 95-100% humidity
 - **Fruitbody Development**: 65-80 F (18-27 C), 85-95% humidity
 
 ### Environmental Responsiveness
@@ -99,10 +99,13 @@ antler forms with their reduced hymenial surface.
 In Asia, Ganoderma lucidum has several notable allies including a black
 stalked form and G. tsugae. These allies complicate taxonomic delineation
 and contribute to the genetic diversity available to cultivators and
-researchers studying this important medicinal mushroom genus.
+researchers studying this important [[gourmet-medicinal-mushroom-casing-layer-techniques]] genus.
 
 ## See Also
 
 - [[maitake-grifola-frondosa]]
 - [[biochemistry-of-ligninolytic-fungi-bioremediation]]
-- [[grain-spawn-production]]
+- grain-spawn-production
+- [[ganoderma-lucidum]]
+- [[ganoderic-acids]]
+- [[ganoderma-lucidum-reishi-comprehensive-profile]]

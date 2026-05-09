@@ -19,7 +19,7 @@ tags: [psychedelics, harmala-alkaloids, syrian-rue, mao-inhibitors, preparation,
 
 ## Overview
 
-Harmala alkaloids (harmine, harmaline, tetrahydroharmine) are beta-carboline compounds that function primarily as MAO (monoamine oxidase) inhibitors. They are found in several plants, most notably [[syrian-rue-peganum-harmala-ethnobotany]] (Syrian Rue). Their main psychedelic value lies not in their own mild psychoactivity but in their ability to potentiate other psychedelics, particularly DMT-containing plants.
+Harmala alkaloids (harmine, harmaline, tetrahydroharmine) are beta-carboline compounds that function primarily as MAO (monoamine oxidase) inhibitors. They are found in several plants, most notably [[syrian-rue-peganum-harmala-ethnobotany]] ([[golden-guide-syrian-rue-and-maoi-plants]]). Their main psychedelic value lies not in their own mild psychoactivity but in their ability to potentiate other psychedelics, particularly DMT-containing plants.
 
 ## Plant Sources and Alkaloid Content
 
@@ -40,8 +40,8 @@ Harmala potentiates other psychedelics through two primary mechanisms:
 2. Reduces the speed at which these compounds are metabolized within the brain
 
 This makes orally inactive DMT become orally active (the basis of Ayahuasca), and significantly intensifies and extends the effects of smoked DMT. See [[beta-carboline-chemistry]] - Chemical profiles of individual harmala compounds
-- [[turner-psychedelic-combination-experience-reports]] - Combination experience reports
-- [[psychedelic-safety-guidelines-turner]] - Safety chapter from the Essential Psychedelics Guide
+- [[turner-psychedelic-combination-experience-reports]] - [[turner-psychedelic-combination-experience-reports]] reports
+- [[psychedelic-safety-guidelines-turner]] - Safety chapter from the [[turner-essential-psychedelics-5-meo-dmt-void-experience]] Guide
 ## Practical Considerations
 
 When working with Turner Harmala Alkaloids Preparation And Dosage, several practical factors should be
@@ -58,7 +58,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -100,4 +100,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

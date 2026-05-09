@@ -2,8 +2,8 @@
 
 ## Overview
 The concept of the "radio entelechy" is one of Terence McKenna's most vivid
-phenomenological metaphors for the onset of the DMT experience. During his 1983
-Esalen lecture on tryptamine hallucinogens and consciousness, McKenna described
+phenomenological metaphors for the onset of the [[mckenna-dmt-experience-and-hyperspace]]. During his 1983
+Esalen lecture on [[mckenna-tryptamine-hallucinogens-and-consciousness]] and consciousness, McKenna described
 the auditory phenomena that accompany the initial seconds of a DMT breakthrough
 as sounding like "someone crumpling up plastic film and throwing it away." A
 friend suggested to McKenna that this sound represents "our radio entelechy
@@ -28,7 +28,7 @@ of consciousness, rather than being a culturally conditioned interpretation.
 
 ### The Ascending Tone
 Simultaneously with the cellophane-ripping sound, an ascending tone is heard.
-This tone rises in pitch as the mode shift progresses, creating a sense of
+This tone rises in pitch as the [[mckenna-dmt-onset-phenomenology-and-mode-shift-experience]] progresses, creating a sense of
 acceleration and escalation. Combined with the ripping sound, these auditory
 phenomena create the impression of a barrier being breached—a membrane or
 interface between ordinary consciousness and the tryptamine dimension being torn
@@ -95,7 +95,7 @@ After the mode shift, the experience always reminds McKenna of the twenty-fourth
 fragment of Heraclitus: "The Aeon is a child at play with colored balls." One
 not only becomes the Aeon at play with colored balls but meets entities as well.
 In The Invisible Landscape, McKenna and his brother Dennis describe these
-entities as "self-transforming machine elves"—dynamically contorting topological
+entities as "self-transforming [[dmt-self-transforming-machine-elves-mckenna]]"—dynamically contorting topological
 modules that are somehow distinct from the surrounding background, which is
 itself undergoing continuous transformation. The childlike quality of the
 experience is central: one has "come out somewhere in eternity."
@@ -123,7 +123,7 @@ body for some time, producing a longer but qualitatively different experience.
 
 ### Contrast with the Amplifier Model
 The radio entelechy model differs significantly from the "amplifier analogy"
-commonly used in psychedelic psychotherapy, where the drug is said to amplify
+commonly used in [[metzner-psychedelic-psychotherapy-clinical-history]], where the drug is said to amplify
 unconscious contents. The radio model suggests instead that DMT opens a channel
 to genuinely novel information from dimensions that are not derived from the
 individual's personal unconscious or cultural background.
@@ -143,4 +143,4 @@ resulting in a rupture that is both destructive and revelatory.
 ## See Also
 - [[heraclitus-fragment-24-aeon-child-play-dmt-experience]]
 - [[query-what-is-cation-exchange-capacity-and-why-does-it-matter]]
-- [[mckenna-language-self-replicating-information-dna-parallels]]
+- mckenna-language-self-replicating-information-dna-parallels

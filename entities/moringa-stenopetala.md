@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Jahn, S.A.A. (1991). "The traditional use of Moringa oleifera and Moringa stenopetala." Economic Botany, 45(3), 310-319.
+  - Jahn, S.A.A. (1991). "The traditional use of comparison-moringa-oleifera-vs-moringa-stenopetala and Moringa stenopetala." Economic Botany, 45(3), 310-319.
   - Mekonnen, Y. et al. (1999). "Hypoglycemic effect of Moringa stenopetala aqueous extract in rabbits." Phytotherapy Research, 13(1), 44-47.
   - Abuye, A. et al. (2003). "A processed complementary food supplement from Moringa stenopetala leaves." Plant Foods for Human Nutrition, 58(1), 1-9.
   - Olson, M.E. & Carlquist, S. (2001). "Stem and root anatomy of Moringa." Botanical Journal of the Linnean Society, 135(4), 315-338.
@@ -29,7 +29,7 @@ leaf vegetable, water purification agent, and traditional medicine.
 
 Local communities in southern Ethiopia rely on *M. stenopetala* as a primary
 micronutrient source during dry seasons. The tree is increasingly recognized
-for drought tolerance and agroforestry potential.
+for [[dighton-fungal-drought-tolerance-plant-water-relations]] and agroforestry potential.
 
 ## Taxonomy and Morphology
 
@@ -98,10 +98,10 @@ These values exceed those of *M. oleifera* for protein and β-carotene, making
 *M. stenopetala* nutritionally superior as a leaf vegetable.
 
 Young pods are eaten as green beans when tender. Seeds are roasted as nuts or
-pressed for cooking oil (~70% oleic acid, similar to olive oil).
+pressed for cooking oil (~70% oleic acid, similar to [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]]).
 
 Leaf powder supplements school feeding programs in Ethiopia, mixed into
-porridge and bread dough to address micronutrient deficiencies.
+porridge and [[fukuoka-textdoc-plowing-ruins-soil-compaction-bread-dough-analogy]] to address micronutrient deficiencies.
 
 ## Cultivation and Permaculture Applications
 
@@ -116,14 +116,16 @@ make it valuable for intercropping with cereals (teff, sorghum, maize) and
 legumes in Ethiopian farming systems.
 
 Living fence applications exploit rapid growth and dense canopy for windbreaks,
-erosion control, and sustained leaf harvest along field boundaries.
+[[permplant-willows-salix-erosion-control-fodder]], and sustained leaf harvest along field boundaries.
 
 Seed powder purifies drinking water as a natural coagulant, reducing turbidity
 and bacterial load by 80–95%, similar to *M. oleifera* seeds.
 
 ## See Also
 
-- [[gliricidia-sepium]]
+- [[comparison-moringa-oleifera-vs-moringa-stenopetala]]
+
+- gliricidia-sepium
 - [[mangifera-indica]]
 - [[vigna-unguiculata]]
 - [[hibiscus-sabdariffa]]

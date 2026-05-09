@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Mushroom Music and Culture
+title: archaeology-of-psychedelic-mushroom-use Music and Culture
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -12,13 +12,13 @@ sources:
 
 ## Overview
 
-Magic mushrooms played a vital supporting role in the psychedelic revolution of the 1960s and beyond. While LSD was the star -- "if the psychedelic sixties could be viewed as a Technicolor movie, then its star would undoubtedly have been LSD" -- mushrooms were essential to the direction and development of the counterculture. The intersection of mushrooms, music, and festival culture became a defining feature of the psychedelic underground.
+[[guzman-magic-mushrooms-african-species]] played a vital supporting role in the psychedelic revolution of the 1960s and beyond. While LSD was the star -- "if the psychedelic sixties could be viewed as a Technicolor movie, then its star would undoubtedly have been LSD" -- mushrooms were essential to the direction and development of the counterculture. The intersection of mushrooms, music, and festival culture became a defining feature of the psychedelic underground.
 
 ## The 1960s Psychedelic Revolution
 
 When psychedelia went mainstream during the mid-1960s, magic mushrooms were swept up in the movement. Key cultural moments included:
-- **Timothy Leary** first tried mushrooms in August 1960 in Cuernavaca, Mexico, after reading Wasson's LIFE article through his colleague Frank Barron. Within five years he had become the "Acid guru" -- though his journey began with psilocybin mushrooms.
-- **San Francisco and Haight-Ashbury**: The epicenter of 1960s counterculture with its love-ins, be-ins, and the Grateful Dead.
+- **Timothy Leary** first tried mushrooms in August 1960 in Cuernavaca, Mexico, after reading Wasson's LIFE article through his colleague Frank Barron. Within five years he had become the "Acid guru" -- though his journey began with [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]].
+- **[[shipibo-san-francisco-ceremonial-center-ucayali]] and Haight-Ashbury**: The epicenter of 1960s counterculture with its love-ins, be-ins, and the Grateful Dead.
 - **British scene**: London's "happenings," the "Fourteen Hour Technicolor Dream," clubs like UFO and Middle Earth, underground papers Oz and International Times.
 - **Mexico's La Onda**: An urban counterculture modeled upon the American hippie movement, with many hippies traveling to Huautla.
 
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

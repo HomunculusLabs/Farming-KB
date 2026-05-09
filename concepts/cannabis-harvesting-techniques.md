@@ -1,5 +1,5 @@
 ---
-title: Cannabis Harvesting Techniques
+title: Cannabis water-harvesting-techniques-comparison
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Cannabis Grow Bible, Greg Green (Ch. 12)
+Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, Greg Green (Ch. 12)
 
 Harvesting at the right time and using proper techniques directly impacts the potency, flavor, and quality of your final product. Green covers the full harvest process from timing to cutting.
 
@@ -26,10 +26,10 @@ The ideal harvest window depends on the desired effect:
 
 ### By Trichome Color
 See [[cannabis-flushing-before-harvest]].
-2. **Dark period**: Some growers give plants 24–48 hours of complete darkness before harvest. The theory is that this boosts resin and terpene production as a stress response.
+2. **Dark period**: Some growers give plants 24–48 hours of complete darkness before harvest. The theory is that this boosts resin and terpene production as a [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]].
 3. **Prepare drying space**: Set up your drying area before cutting — see [[cannabis-drying-and-curing-guide]] for drying procedures
 2. **Do NOT rush drying**: Slow, controlled drying preserves terpenes and prevents mold
-3. **Cure properly**: Curing develops flavor and smoothness over weeks. See [[cannabis-harvest-timing-visual-cues]] — determining the perfect harvest time
+3. **Cure properly**: Curing develops flavor and smoothness over weeks. See [[cannabis-harvest-timing-visual-cues]] — determining the [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]] time
 - [[cannabis-drying-and-curing-guide]] — post-harvest processing for quality
 - [[cannabis-flowering-stage]] — flowering phase management
 - [[cannabis-chronic-pain-management]]
@@ -114,4 +114,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

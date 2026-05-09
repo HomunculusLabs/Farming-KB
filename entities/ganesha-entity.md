@@ -9,7 +9,7 @@ sources:
 ---
 # GANESHA
 
-**PIHKAL Entry #85** -- G; 2,5-Dimethoxy-3,4-dimethylamphetamine
+**[[2c-b-pihkal-entry-20]] #85** -- G; 2,5-Dimethoxy-3,4-dimethylamphetamine
 
 ## Chemical Name
 
@@ -23,7 +23,7 @@ sources:
 
 ## Qualitative Effects
 
-GANESHA produces a long-lasting, tranquil psychedelic experience:
+GANESHA produces a long-lasting, tranquil [[leary-psychedelic-experience-bardo-mapping]]:
 
 - At 24 mg: slow buildup to a ++ or more over about three hours. "Extremely tranquil, and no hint of any body toxicity whatsoever." Completely at peace, in a beautiful, benign, and placid place. Something residual extended into sleep and possibly the next morning
 
@@ -43,7 +43,7 @@ Shulgin proposed extending the study by homologating the methyl groups to ethyl 
 
 GANESHA is a member of the "Classic Ladies" series, one of Shulgin's most systematic and informative structure-activity relationship studies. The series began with DOM (2,5-dimethoxy-4-methylamphetamine) and systematically replaced each hydrogen atom on the aromatic ring with a methyl group, producing ten compounds in total.
 
-The "Classic Ladies" series demonstrates a counterintuitive principle: adding methyl groups to a psychedelic molecule does not simply increase potency. In fact, adding a methyl group at the 3-position of DOM decreased potency by approximately tenfold. This finding overturned the assumption that bulkier substituents would enhance receptor binding.
+The "Classic Ladies" series demonstrates a counterintuitive principle: adding methyl groups to a psychedelic molecule does not simply increase potency. In fact, adding a methyl group at the 3-position of DOM decreased potency by approximately tenfold. This finding overturned the assumption that bulkier substituents would enhance [[tihkal-receptor-binding-serotonin]].
 
 GANESHA (with methyls at both the 3 and 4 positions) and its phenethylamine counterpart 2C-G (same ring substitution, two-carbon chain) share nearly identical potency and duration, a unique convergence in psychedelic chemistry.
 

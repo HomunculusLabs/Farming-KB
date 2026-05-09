@@ -1,5 +1,5 @@
 ---
-title: Cannabis Maturation and Harvest by Latitude (Clarke)
+title: Cannabis cannabis maturation and harvest by latitude clarke by Latitude (Clarke)
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -21,7 +21,7 @@ When nights lengthen following the summer solstice (June 21-22), flowering begin
 
 ## Latitude and Photoperiod
 
-Change in photoperiod is the factor that usually triggers the developmental stages of Cannabis. Photoperiod and seasonal cycles are determined by latitude.
+Change in photoperiod is the factor that usually triggers the developmental [[query-what-are-the-stages-of-cannabis-growth]]. Photoperiod and seasonal cycles are determined by latitude.
 
 ### Near the Equator (0-15 degrees)
 - Most even photoperiods and mildest seasonal variations
@@ -47,12 +47,12 @@ Change in photoperiod is the factor that usually triggers the developmental stag
 - Shorter season favors early-maturing strains
 
 ### Arctic and Antarctic Zones (60-70 degrees)
-- Short, harsh growing season not favorable for Cannabis
+- Short, harsh [[savory-growing-season-and-non-growing-season-management]] not favorable for Cannabis
 - Season begins during long June-July days, continues until September-October freezes
 - Plants often get quite large but do not mature completely
 - Cultivation of drug Cannabis not practical without a greenhouse
-- Rapidly maturing, acclimatized hybrid strains from temperate North America are best suited
-- Russian Cannabis ruderalis could yield very short-season drug strains through breeding programs
+- Rapidly maturing, acclimatized hybrid strains from temperate [[psilocybin-north-america-pacific-northwest]] are best suited
+- Russian [[cervantes-cannabis-ruderalis-autoflowering]] could yield very short-season drug strains through breeding programs
 
 ## Strain Adaptation to Native Latitude
 
@@ -96,7 +96,7 @@ Since ancient times, planting and harvest dates based on moon cycles have been o
 - Capitate-stalked trichomes may still be elongating and secreting during peak floral stage
 
 ### Environmental Factors
-- Arid conditions may increase resin production (possibly a protective response)
+- Arid conditions may increase [[cannabis-glandular-trichome-types-resin-production-clarke]] (possibly a protective response)
 - Low temperatures slow or stop resin secretion
 - The usual aim of timing harvest is ensuring high THC with the desired balance of aromatic terpenes
 

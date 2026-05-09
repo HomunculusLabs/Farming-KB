@@ -4,16 +4,17 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [soil, ph, npk, fertility, nutrients, soil-amendment, minerals, gardening, cultivation, soil-building]
-sources: []
+sources:
+  sources: []
 ---
 
 # Soil Testing and Analysis
 
-Soil testing is the foundation of informed soil management. Without knowing your soil's current condition, amendment decisions are guesswork that can waste money, harm soil biology, and even make existing problems worse. This guide covers pH testing, macronutrient analysis, cation exchange capacity, and how to interpret and act on results.
+Soil testing is the foundation of informed soil management. Without knowing your soil's current condition, amendment decisions are guesswork that can waste money, harm soil biology, and even make existing problems worse. This guide covers pH testing, macronutrient analysis, [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity, and how to interpret and act on results.
 
 ## Why Test Your Soil
 
-- Identify nutrient deficiencies and excesses before they cause visible plant problems
+- Identify [[hamilton-nutrient-deficiencies-and-treatment]] and excesses before they cause visible plant problems
 - Determine lime and fertilizer requirements accurately
 - Avoid over-application (excess phosphorus is a widespread water pollution problem)
 - Establish a baseline for tracking soil health over time
@@ -22,7 +23,7 @@ Soil testing is the foundation of informed soil management. Without knowing your
 
 ## pH Testing
 
-Soil pH affects nutrient availability, microbial activity, and root function. Most garden vegetables and annual flowers prefer a slightly acidic pH of 6.0-7.0. Blueberries, azaleas, and rhododendrons prefer 4.5-5.5.
+Soil pH affects [[ph-and-nutrient-availability-garden-soils]], microbial activity, and root function. Most garden vegetables and [[hamilton-annual-flowers-organic]] prefer a slightly acidic pH of 6.0-7.0. Blueberries, azaleas, and rhododendrons prefer 4.5-5.5.
 
 ### pH Test Methods
 
@@ -52,7 +53,7 @@ Soil pH affects nutrient availability, microbial activity, and root function. Mo
 | pH Range | Classification | Common Issues | Typical Action |
 |---|---|---|---|
 | Below 5.0 | Strongly acidic | Aluminum and manganese toxicity, low calcium/magnesium, poor microbial activity | Apply lime (dolomitic if Mg needed) |
-| 5.0-5.5 | Moderately acidic | Reduced phosphorus availability | Apply lime, monitor |
+| 5.0-5.5 | Moderately acidic | Reduced [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] | Apply lime, monitor |
 | 5.5-6.5 | Slightly acidic | Ideal for most crops | Usually no action needed |
 | 6.5-7.0 | Neutral | Ideal for most garden vegetables | No action needed |
 | 7.0-7.5 | Slightly alkaline | Iron, manganese, zinc deficiency likely | Add sulfur or organic matter |
@@ -76,7 +77,7 @@ Excess symptoms: excessive vegetative growth at the expense of fruit/flower prod
 - Essential for root development, flowering, fruit set, and energy transfer (ATP)
 - Relatively immobile in soil -- does not leach easily
 - Becomes unavailable at pH above 7.5 or below 5.5
-- Most soils in developed areas have excess phosphorus from decades of fertilizer application
+- Most soils in developed areas have excess phosphorus from decades of [[cervantes-fertilizer-application-strain-feeding]]
 
 Sources: bone meal, rock phosphate, compost, manure
 
@@ -138,47 +139,6 @@ Beyond pH testing, several simple DIY assessments provide useful information:
 2. Count earthworms
 3. More than 10: healthy soil biology
 4. 5-10: moderate biological activity
-5. Fewer than 5: likely compacted, chemically treated, or low organic matter
-
-### Organic Matter Estimation
-Dark, rich soil typically contains 3-5% organic matter. Very light-colored sandy soil may be below 1%. For accurate organic matter percentage, use a commercial lab test.
-
-## Commercial Laboratory Testing
-
-For comprehensive analysis, send samples to a professional soil testing laboratory.
-
-### How to Collect a Representative Sample
-1. Use a clean stainless steel trowel or soil probe
-2. Take 10-15 subsamples from the area to be tested
-3. Sample at a consistent depth (6-8 inches for gardens, 4 inches for lawns)
-4. Mix all subsamples in a clean plastic bucket
-5. Remove rocks, roots, and debris
-6. Fill lab sample bag (usually provided) with 1-2 cups of the composite sample
-7. Label clearly with sample ID and date
-8. Air-dry if the lab recommends it (some want moist samples)
-
-### Recommended Labs
-- Local university extension soil testing lab (usually the most affordable, $10-30)
-- Logan Labs (Ohio) -- comprehensive analysis, $25-50
-- UMASS Amherst Soil and Plant Tissue Testing Lab
-- Peaceful Valley Farm Supply (mail-order kit)
-
-### What to Request
-- Standard soil test (pH, organic matter, CEC, base saturation)
-- Macronutrients (N, P, K)
-- Micronutrients (Ca, Mg, S, Fe, Mn, Zn, Cu, B)
-- Lead screening (especially for urban gardens)
-- Recommendations specific to your crops
-
-## Interpreting Results and Taking Action
-
-1. Compare results to optimal ranges for your intended crops
-2. Address pH first -- incorrect pH makes other nutrients unavailable regardless of how much you add
-3. Address major deficiencies (N, P, K) before minor ones
-4. Consider CEC when calculating amendment rates (high-CEC soils need more amendment to see the same result)
-5. Prioritize organic matter building as a long-term strategy (improves CEC, water retention, microbial habitat)
-6. Retest every 2-3 years to track changes
-
 ## See Also
 
 - [[composting-methods-comparison]] -- building soil fertility through composting

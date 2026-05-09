@@ -53,20 +53,20 @@ therapeutic effects of classical psychedelics broadly.
 ## Safety Considerations
 
 5-MeO-DMT carries similar risks to other classical psychedelics, including
-the potential for acute psychological distress, particularly in individuals
+the potential for [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] distress, particularly in individuals
 with personal or family histories of psychotic disorders. The extreme
 potency and rapid onset of the compound when vaporized mean that dose
 control is critical, and accidental overdose is possible when the substance
 is handled in concentrated form.
 
 Physiological risks are generally low, but 5-MeO-DMT can cause transient
-increases in heart rate and blood pressure. Harm reduction practices include
+increases in heart rate and blood pressure. [[adverse-effects-and-harm-reduction-psilocybin]] practices include
 careful dose measurement, use of a trip sitter, and screening for
 psychiatric vulnerability. The interaction with MAO inhibitors, particularly
 in the context of [[beta-carboline-chemistry]]-containing plants, requires additional caution.
 ## Practical Considerations
 
-Successful implementation of 5 Methoxy Dmt Pharmacology requires attention to
+Successful implementation of 5 5 methoxy dmt pharmacology Pharmacology requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

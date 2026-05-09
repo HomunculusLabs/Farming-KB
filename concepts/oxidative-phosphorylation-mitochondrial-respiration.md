@@ -10,7 +10,7 @@ sources:
   - "raw/papers/the-metabolic-pathway-of-psilocybin-production.md"
 ---
 
-Oxidative phosphorylation (OXPHOS) is the metabolic pathway in which cells produce adenosine triphosphate (ATP) through the coupled action of electron transport and ATP synthesis. It is the final stage of cellular respiration, occurring at the inner mitochondrial membrane (IMM) in eukaryotes and the cytoplasmic membrane in prokaryotes. OXPHOS is responsible for approximately 90% of cellular ATP under aerobic conditions, making it the dominant energy-producing pathway in most multicellular organisms. The pathway couples two processes: electron transfer through the electron transport chain (ETC), which oxidizes NADH and FADH₂ while reducing molecular oxygen to water, and ATP synthesis by ATP synthase, which harnesses the resulting proton electrochemical gradient. Peter Mitchell proposed the chemiosmotic coupling mechanism in 1961, earning the 1978 Nobel Prize in Chemistry.
+Oxidative phosphorylation (OXPHOS) is the [[gluconeogenesis-biochemistry-metabolic-pathway]] in which cells produce [[adenosine-triphosphate-and-cellular-energy]] (ATP) through the coupled action of electron transport and ATP synthesis. It is the final stage of cellular respiration, occurring at the inner mitochondrial membrane (IMM) in eukaryotes and the cytoplasmic membrane in prokaryotes. OXPHOS is responsible for approximately 90% of cellular ATP under aerobic conditions, making it the dominant energy-producing pathway in most multicellular organisms. The pathway couples two processes: electron transfer through the electron transport chain (ETC), which oxidizes NADH and FADH₂ while reducing molecular oxygen to water, and ATP synthesis by ATP synthase, which harnesses the resulting proton electrochemical gradient. Peter Mitchell proposed the chemiosmotic coupling mechanism in 1961, earning the 1978 Nobel Prize in Chemistry.
 
 ## Electron Transport Chain Complexes
 
@@ -48,18 +48,18 @@ Paul Boyer's binding change mechanism (1997 Nobel Prize, shared with John Walker
 
 ## Reactive Oxygen Species
 
-The ETC is the major cellular superoxide (O₂•⁻) source. Complex I produces it on the matrix side when the ubiquinone site is fully reduced (high Δψ). Complex III produces it at the Qo site, released to both sides. Superoxide dismutase (SOD1/SOD2) converts it to H₂O₂, which can form hydroxyl radical via Fenton chemistry. ROS contribute to aging (mitochondrial free radical theory, Harman 1956), neurodegeneration, cardiovascular disease, and cancer, but low-level ROS also serve as signaling molecules (redox signaling, HIF-1α stabilization, immune defense).
+The ETC is the major cellular superoxide (O₂•⁻) source. Complex I produces it on the matrix side when the ubiquinone site is fully reduced (high Δψ). Complex III produces it at the Qo site, released to both sides. Superoxide dismutase (SOD1/SOD2) converts it to H₂O₂, which can form hydroxyl radical via [[bioremediation-fenton-chemistry-brown-rot-fungi]]. ROS contribute to aging (mitochondrial free radical theory, Harman 1956), neurodegeneration, cardiovascular disease, and cancer, but low-level ROS also serve as signaling molecules (redox signaling, HIF-1α stabilization, immune defense).
 
 ## Uncoupling and Regulation
 
-ADP availability governs respiratory control: high ADP → State 3 (active); low ADP → State 4 (resting). Uncoupling proteins dissipate the PMF without ATP synthesis: UCP1 (thermogenin) in brown fat generates heat, activated by fatty acids, inhibited by GDP; UCP2 regulates ROS; UCP3 modulates fatty acid metabolism. Chemical uncouplers (2,4-DNP, FCCP) collapse the PMF by proton shuttling. DNP was used as a weight-loss drug but caused fatal hyperthermia.
+ADP availability governs respiratory control: high ADP → State 3 (active); low ADP → State 4 (resting). Uncoupling proteins dissipate the PMF without ATP synthesis: UCP1 (thermogenin) in brown fat generates heat, activated by [[carbon-isotope-labelling-mycorrhizal-fatty-acids]], inhibited by GDP; UCP2 regulates ROS; UCP3 modulates fatty acid metabolism. Chemical uncouplers (2,4-DNP, FCCP) collapse the PMF by proton shuttling. DNP was used as a weight-loss drug but caused fatal hyperthermia.
 
 ## ETC Inhibitors
 
 Rotenone and piericidin A inhibit Complex I; malonate inhibits Complex II; antimycin A (Qi site) and myxothiazol (Qo site) inhibit Complex III; cyanide, carbon monoxide, and azide inhibit Complex IV; oligomycin blocks Complex V F₀. These inhibitors have been essential for elucidating ETC function.
 Rotenone is used as a pesticide and has been linked to Parkinson's-like
 neurodegeneration in animal models. Antimycin A-induced superoxide production
-at Complex III is a commonly used experimental model for oxidative stress.
+at Complex III is a commonly used experimental model for [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]].
 Oligomycin is widely used to distinguish between mitochondrial and
 non-mitochondrial oxygen consumption in respirometry experiments.
 
@@ -88,7 +88,7 @@ enhance electron transfer efficiency by substrate channeling between complexes.
 Supercomplex composition varies with tissue type, metabolic state, and
 pathological conditions. Disruption of supercomplex organization is observed in
 Barth syndrome (tafazzin deficiency affecting cardiolipin remodeling) and
-various neurodegenerative diseases.
+various [[blesching-cannabis-neurodegenerative-diseases]].
 
 ## Mitochondrial DNA and Biogenesis
 
@@ -130,9 +130,10 @@ the adenine nucleotide pool across the IMM.
 
 ## See Also
 
-- [[fungal-competition-respiration-decomposition]]
+- fungal-competition-respiration-decomposition
 - [[fungal-respiration-carbon-flux]]
 
 ## See Also
 
 - [[electron-transport-chain-mitochondrial-respiration]]
+- [[decomposition]]

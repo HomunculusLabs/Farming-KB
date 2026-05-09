@@ -1,5 +1,5 @@
 ---
-title: How to Make Herbal Salves and Balms at Home
+title: How to Make query how to make herbal salves and balms at home and Balms at Home
 created: 2026-04-28
 tags: [herbalism, herbal-preparations, homesteading, diy, natural-remedies]
 date: 2026-04-28
@@ -20,7 +20,7 @@ The ratio of beeswax to oil is the primary variable. More wax yields a harder pr
 Choose an oil based on the herb's solubility and your intended use:
 | Oil | Properties | Best For |
 |-----|-----------|----------|
-| **Olive oil** | Long shelf life, good solvent | General purpose, wound healing |
+| **[[staycare-fungal-treatment-of-olive-oil-mill-wastewater]]** | Long [[psilocybin-shelf-life-stability]], good solvent | General purpose, wound healing |
 | **Coconut oil** | Antimicrobial, solid below 76°F | Skin infections, moisturizing |
 | **Jojoba oil** | Mimics skin sebum, very stable | Facial products, sensitive skin |
 | **Sweet almond oil** | Light, absorbs easily | Massage balms, daily skin care |
@@ -29,12 +29,12 @@ Choose an oil based on the herb's solubility and your intended use:
 Beeswax is the thickener that turns oil into a salve. Use **filtered cosmetic-grade beeswax pellets** for easiest measuring. Yellow beeswax has a mild honey scent; white beeswax is filtered and more neutral. One ounce of beeswax firms up roughly four ounces of oil.
 **Plant-based alternatives** include candelilla wax (harder than beeswax, use about half the amount) and carnauba wax (very hard, use sparingly). Soy wax is softer and less suitable for salves.
 ### Optional Additives
-- **Essential oils** (1-3% of total weight) for fragrance and additional therapeutic action
+- **[[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]** (1-3% of total weight) for fragrance and additional therapeutic action
 - **Vitamin E oil** (1 tsp per 8 oz) as a natural preservative and skin healer
 - **Shea butter or cocoa butter** (replace up to 25% of the oil) for extra richness
 - **Dried herb powders** for texture and color (e.g., calendula petals for a golden salve)
 ### Equipment
-- Double boiler or heat-safe glass jar in a pot of water
+- Double boiler or heat-safe [[sterile-spore-print-collection-glass-jar-technique]] in a pot of water
 - Fine-mesh strainer or cheesecloth
 - Clean glass jars or tins for storage
 - Kitchen scale (weight measurement is more accurate than volume)
@@ -52,7 +52,7 @@ This gentle method preserves heat-sensitive compounds. It works well for calendu
 1. Combine herbs and oil in a double boiler over low heat (do not exceed 120°F / 49°C).
 2. Simmer gently for **2 to 4 hours**, checking occasionally that the oil still covers the herbs.
 3. Remove from heat, let cool slightly, then strain through cheesecloth.
-This method is faster but can degrade some volatile compounds. It works well for roots, barks, and resinous herbs like comfrey root and pine resin.
+This method is faster but can degrade some [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]. It works well for roots, barks, and resinous herbs like comfrey root and pine resin.
 ### Best Herbs for Topical Salves
 | Herb | Traditional Uses | Preparation Notes |
 |------|-----------------|-------------------|

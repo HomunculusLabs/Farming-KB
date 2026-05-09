@@ -8,7 +8,7 @@ tags: [greenhouse, passive-solar, earth-sheltered, season-extension, passive-hea
 
 ## Overview
 
-A walipini (from the Aymara word for "place of warmth") is an underground or earth-bermed greenhouse that uses the earth's thermal mass to maintain stable temperatures year-round. By digging the growing space 1.5–3 meters below grade, the greenhouse benefits from the earth's constant subsurface temperature (approximately 10–15°C at 2 m depth in temperate climates), dramatically reducing heating requirements compared to above-ground structures. The Benson Institute in Utah developed and popularized the walipini design in the 1990s based on traditional pit greenhouse techniques used in Eastern Europe and China.
+A walipini (from the Aymara word for "place of warmth") is an underground or earth-bermed greenhouse that uses the earth's thermal mass to maintain stable temperatures year-round. By digging the growing space 1.5–3 meters below grade, the greenhouse benefits from the earth's constant subsurface temperature (approximately 10–15°C at 2 m depth in [[fukuoka-natural-farming-temperate-climates]]), dramatically reducing heating requirements compared to above-ground structures. The Benson Institute in Utah developed and popularized the walipini design in the 1990s based on traditional pit greenhouse techniques used in Eastern Europe and China.
 
 Walipinis enable year-round vegetable production in climates where conventional greenhouses would require expensive heating through winter months. They are particularly effective in high-altitude tropical and subtropical regions (Bolivia, Peru, Nepal) where diurnal temperature swings are large but ground temperatures remain moderate.
 
@@ -41,7 +41,7 @@ A standard walipini design from the Benson Institute:
 
 - **Excavated pit**: Dug into stable, well-drained soil; walls sloped at 1:6 to 1:3 ratio or shored with timber, concrete block, or gabion baskets
 - **Glazed south wall**: Angled at latitude + 10–20°; double-layer polyethylene film, polycarbonate panels, or tempered glass; UV-resistant
-- **North wall**: Earth-bermed to full height or built from insulated concrete block, stone, or rammed earth
+- **North wall**: Earth-bermed to full height or built from insulated concrete block, stone, or [[rammed-earth]]
 - **End walls**: Partially bermed with insulated doors for access and ventilation
 - **Roof framing**: Timber poles, treated lumber, or metal framing supporting glazing on south side and insulated cover on north
 - **Drainage**: Critical — French drain or gravel-filled trench around the perimeter to prevent water infiltration
@@ -49,7 +49,7 @@ A standard walipini design from the Benson Institute:
 
 ### Orientation
 
-The long axis runs east-west, with the glazed wall facing due south (Northern Hemisphere) or due north (Southern Hemisphere). A deviation of up to 15° east or west of true south is acceptable. The site should be free of shading from trees, buildings, or hills on the south side, especially during the low-angle winter sun period.
+The long axis runs east-west, with the glazed wall facing due south (Northern Hemisphere) or due north ([[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]). A deviation of up to 15° east or west of true south is acceptable. The site should be free of shading from trees, buildings, or hills on the south side, especially during the low-angle winter sun period.
 
 ## Construction Process
 
@@ -76,7 +76,7 @@ Standard walipini design works well. Focus on ventilation to prevent overheating
 
 ### Arid Climates
 
-Desert walipinis benefit from evaporative cooling: install a water feature or damp sand floor section. Night ventilation flushes hot air and brings in cool desert air. Earth-bermed walls should be plastered or stabilized to prevent wind erosion.
+Desert walipinis benefit from [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]]: install a water feature or damp sand floor section. Night ventilation flushes hot air and brings in cool desert air. Earth-bermed walls should be plastered or stabilized to prevent wind erosion.
 
 ### Tropical Highlands
 
@@ -90,7 +90,7 @@ In a well-functioning walipini, the growing season extends through all twelve mo
 
 ### Thermal Zoning
 
-The north wall receives less direct light but more stable temperatures — ideal for seedling propagation, mushroom cultivation, and storage crops. The south side near the glazing receives the most light and warmth — best for fruiting crops. Use shelving to create vertical thermal zones. Place heat-loving crops on raised beds closer to the glazing and cool-tolerant crops at floor level near the north wall.
+The north wall receives less direct light but more stable temperatures — ideal for seedling propagation, [[mushroom-cultivation]], and storage crops. The south side near the glazing receives the most light and warmth — best for fruiting crops. Use shelving to create vertical thermal zones. Place heat-loving crops on raised beds closer to the glazing and cool-tolerant crops at floor level near the north wall.
 
 ### Succession Planting
 
@@ -102,7 +102,7 @@ Plan continuous harvests by starting new seedlings every 2–3 weeks. The stable
 
 **Water infiltration**: The most common walipini failure mode. Invest heavily in drainage — a flooded walipini becomes useless. Test soil percolation before building; if drainage is poor, add a sump pump.
 
-**Soil-borne diseases**: The enclosed environment and constant moisture favor pathogen buildup. Rotate crops, practice strict sanitation, and maintain biological diversity with companion planting.
+**Soil-borne diseases**: The enclosed environment and constant moisture favor pathogen buildup. Rotate crops, practice strict sanitation, and maintain biological diversity with [[companion-planting]].
 
 ## Cost and Materials
 
@@ -111,6 +111,6 @@ A basic walipini (6 × 3 m) costs $800–3,000 in materials depending on glazing
 ## See Also
 
 - [[cold-frame-construction]] — simpler season extension technique
-- [[mollison-thermal-mass-passive-building]] — thermal mass design principles
+- mollison-thermal-mass-passive-building — thermal mass design principles
 - [[root-cellar-design-and-construction]] — underground food storage techniques
 - [[hugelkultur-bed-construction-detailed]] — earth-bermed growing beds

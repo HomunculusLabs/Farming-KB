@@ -46,7 +46,7 @@ pollution, especially where wood chips and straw are abundant.
 Corncobs are perfectly structured for hosting mushroom mycelia. Their fiber
 and small cavities allow for aeration and provide food for rapid
 colonization. Chopped corn stalks combined with fragmented, husked corn
-makes a suitable medium both for growing mushrooms and then for
+makes a suitable medium both for [[falconer-growing-mushrooms-in-sheds]] and then for
 mycofiltration. Corn farmers can first profitably grow oyster mushrooms on
 corncobs and then use the spent substrate, after mushroom production, as
 inoculum into sheet mulch.
@@ -79,7 +79,7 @@ top layer and covered with more straw.
 After some time, red worms will arrive and transform the mycelium,
 cardboard, and debris into rich soil. Every 2-3 years, the newly emerging
 material can be scooped up using a front loader tractor and used elsewhere
-as soil. Gourmet mushrooms may form after rains depending upon temperatures.
+as soil. [[growing-gourmet-mushrooms-civilization-history]] may form after rains depending upon temperatures.
 These mushrooms "reseed" the beds, provided there is enough food.
 
 ## Key Factors Affecting Efficiency
@@ -95,15 +95,15 @@ Several factors affect the efficiency of mycofiltration:
 
 ## Species Recommendations
 
-The garden giant (Stropharia rugoso annulata) is the primary species
+The garden giant (Stropharia [[stropharia-rugoso-annulata-mycofiltration]]) is the primary species
 recommended for farm mycofiltration. It thrives in contact with bacteria and
 produces tenacious rhizomorphs that hold the substrate matrix together. The
 elm oyster (Hypsizygus ulmarius) is another saprophytic species found to
-promote crop growth and can be incorporated using companion planting
+promote crop growth and can be incorporated using [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]
 strategies.
 
 Oyster mushrooms (Pleurotus ostreatus) have demonstrated strong
-antimicrobial properties against a wide range of pathogenic bacteria and can
+[[mycelium-running-mushroom-antimicrobial-properties-species-chart]] against a wide range of pathogenic bacteria and can
 be grown on agricultural waste substrates before the spent material is used
 for filtration.
 
@@ -125,7 +125,7 @@ framed in architecture of dense interconnecting hyphal networks.
 
 ## Source
 
-Mycelium Running by Paul Stamets, Chapter 5: Mycofiltration
+[[woodlovers-mycelium-running-pathway-technique]] by Paul Stamets, Chapter 5: Mycofiltration
 
 ## See Also
 

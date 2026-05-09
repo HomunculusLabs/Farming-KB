@@ -22,11 +22,11 @@ Mead with fruit added. The most popular mead category. Fruit can be added as fre
 - Cyser: apple mead (honey + apple juice/cider)
 - Pyment: grape mead (honey + grape juice)
 - Berry meads: blackberry, raspberry, strawberry, blueberry, cherry
-- Stone fruit meads: peach, plum, cherry, apricot
-- Tropical meads: mango, pineapple, passion fruit
+- [[holzer-stone-fruit-varieties-and-growing]] meads: peach, plum, cherry, apricot
+- Tropical meads: mango, pineapple, [[comparison-dragon-fruit-vs-passion-fruit-cultivation]]
 
 ### Metheglin (Spiced Mead)
-Mead with spices and herbs added. Historical meads often contained medicinal herbs.
+Mead with spices and herbs added. Historical meads often contained [[permaculture-plants-medicinal-herbs-healing]].
 
 - Common additions: cinnamon, cloves, ginger, nutmeg, allspice, cardamom, vanilla
 - Herbal additions: rosemary, thyme, lavender, chamomile, hops (braggot if also includes malt)
@@ -129,8 +129,8 @@ Mead is one of the most age-worthy beverages. Unlike beer, which peaks in weeks 
 ## Common Problems
 
 - Stalled fermentation: usually caused by insufficient nutrients, low temperature, or exceeding yeast alcohol tolerance. Add more nutrient, warm the mead, or pitch a more tolerant yeast.
-- Medicinal/band-aid off-flavors: caused by chlorine in water or wild yeast contamination
-- Sulphur/rotten egg smell: stressed yeast from nutrient deficiency. Add nutrient and aerate.
+- Medicinal/band-aid off-flavors: caused by chlorine in water or [[comparison-sourdough-vs-wild-yeast-bread]] contamination
+- Sulphur/rotten egg smell: stressed yeast from [[cannabis-grow-nutrient-deficiency-problem-solving]]. Add nutrient and aerate.
 - Too sweet: fermentation stopped early. Check gravity. May need to repitch with a more tolerant yeast.
 - Too dry: can backsweeten after stabilizing with potassium sorbate and sulfite.
 

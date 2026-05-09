@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources:
   - "https://en.wikipedia.org/wiki/Phellinus_igniarius"
   - "https://www.firstnature.com/fungi/phellinus-igniarius.php"
-  - "Cancer Treatments and Medicinal Mushrooms (wiki raw source)"
+  - "Cancer Treatments and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] (wiki raw source)"
 ---
 
 # Phellinus igniarius
@@ -49,7 +49,7 @@ multiple Phellinus/Fuscoporia species on mulberry and other hardwoods.
 | **Upper surface** | Concentrically ridged/fissured, dark grey to black, very hard |
 | **Pore surface** | Brown to rust-brown, pores round 4–6/mm, stratified in layers |
 | **Context** | Very hard, woody, cinnamon-brown with darker zonate bands |
-| **Spore print** | Rusty brown |
+| **[[comparison-spore-print-collection-vs-spore-syringe-production]]** | Rusty brown |
 | **Odor/taste** | Earthy odor; strongly bitter taste |
 
 Fruiting bodies are perennial and long-lived, developing successive pore
@@ -72,7 +72,7 @@ delicate than Inonotus hispidus.
 
 ## Distribution and Habitat
 
-- **Geographic range:** Circumboreal — Europe, Asia, North America. Abundant
+- **Geographic range:** Circumboreal — Europe, Asia, [[psilocybin-north-america-pacific-northwest]]. Abundant
   in Scandinavia, Russia, northern China, and Canada.
 - **Substrate:** Broadleaf hardwoods, especially Salix (willows), Populus
   (poplars), Betula (birches), Quercus (oaks).
@@ -80,7 +80,7 @@ delicate than Inonotus hispidus.
   waterways in managed landscapes and coppiced woodland.
 - **Season:** Perennial; visible year-round. New pore layers produced
   annually spring through autumn.
-- **Ecological role:** White-rot pathogen; contributes to nutrient cycling.
+- **Ecological role:** White-rot pathogen; contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 ## Chemistry and Active Compounds
 
@@ -89,7 +89,7 @@ delicate than Inonotus hispidus.
   macrophage activation and antitumor activity.
 - **Hispidin and hispolon:** Phenolic compounds with antioxidant,
   anti-inflammatory, and antiproliferative activities. Hispolon IC50
-  values of 10–20 µM against various cancer cell lines.
+  values of 10–20 µM against various [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines.
 - **Igniariol:** Styrylpyrone specific to P. igniarius with tyrosinase
   inhibitory and melanogenesis-suppressing activities.
 - **Phelligridins:** Hispidin-analog oligomers (dimers through tetramers)
@@ -133,7 +133,7 @@ Asia for immune support.
 | Phellinus pomaceus | Smaller, on Prunus spp., thinner context |
 | Phellinus tremulae | Host-specific to Populus tremula, northern distribution |
 | Phellinus linteus | Tropical/subtropical, on mulberry, smaller spores (3–4 µm) |
-| Phellinus ferreus | On conifers, paler pore surface, thinner fruiting body |
+| Phellinus ferreus | On conifers, paler pore surface, thinner [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] |
 | Ganoderma applanatum | White pore surface when fresh, ornamented double-walled spores |
 
 ## Conservation Status

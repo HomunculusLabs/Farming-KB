@@ -1,5 +1,5 @@
 ---
-title: Soil pH Management for Vegetable Gardens
+title: Soil pH soil ph management for vegetable gardens Gardens
 created: 2026-04-28
 tags: [soil-ph, vegetable-gardening, soil-management, lime, sulfur]
 date: 2026-04-28
@@ -36,7 +36,7 @@ garden may adversely affect the nutrition of garden plants.
 
 Some plants, such as potatoes, require a more acidic soil.
 Agricultural sulfur can be used to lower pH, making soil more acidic.
-See the tables below for application rates of sulfur and lime to adjust
+See the tables below for [[ingham-compost-tea-application-rates-and-timing]] of sulfur and lime to adjust
 soil pH.
 
 ## Why pH Matters
@@ -58,15 +58,15 @@ nutrients and any added [[maintaining-organic-matter-in-vegetable-gardens]] can 
 - **Potatoes** prefer more acidic soil (pH 5.0 to 5.5) and may benefit
   from sulfur applications to lower pH in their growing area.
 - **Blueberries** require strongly acidic soil (pH 4.5 to 5.0) and are
-  best grown in raised beds with acidified soil.
+  best grown in [[comparison-raised-beds-vs-hugelkultur]] with acidified soil.
 - Most other common vegetables thrive in the 6.0 to 6.8 range, which
   is why blanket pH adjustments for the entire garden are usually not
   recommended unless a soil test indicates a problem.
 
 ## Related Topics
 
-- [[vegetable-garden-fertilization]] for nutrient management
-- [[home-vegetable-garden-planning]] for crop selection and placement
+- [[vegetable-garden-fertilization]] for [[green-cannabis-grow-bible-nutrient-management-ppm]]
+- [[home-vegetable-garden-planning]] for [[cover-crop-selection-guide]] and placement
 ## Practical Considerations
 
 Successful implementation of Soil pH Management for Vegetable Gardens requires attention to
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: Cannabis Neuroprotection Mechanisms Across Neurological Diseases
+title: Cannabis cannabis neuroprotection mechanisms neurological diseases Across Neurological Diseases
 source: uwe-blesching-the-cannabis-health-index.md
 type: concept
 tags: [cannabis, neuroprotection, endocannabinoid, THC, CBD, neurodegeneration, Alzheimer, Parkinson, MS, ALS]
@@ -12,13 +12,13 @@ tags: [cannabis, neuroprotection, endocannabinoid, THC, CBD, neurodegeneration, 
 Neuroprotection refers to strategies protecting the CNS from injury and
 degeneration. The endocannabinoid system is intrinsically neuroprotective,
 and cannabinoids demonstrate neuroprotective properties across a wide
-spectrum of neurological conditions. Uwe Blesching's Cannabis Health Index
+spectrum of neurological conditions. Uwe Blesching's [[blesching-cannabis-health-index-autoimmune-conditions]]
 catalogs evidence for cannabis in Alzheimer's, Parkinson's, multiple
 sclerosis, ALS, Huntington's, epilepsy, and other neurological disorders.
 
 ## The Endocannabinoid System and Neuroprotection
 
-The ECS is densely expressed throughout the brain and spinal cord. CB1
+The ECS is densely expressed throughout the brain and [[blesching-cannabis-spinal-cord-injuries]]. CB1
 receptors are found on neurons, glial cells, and microglia; CB2 receptors
 primarily on microglia and immune cells. The ECS modulates:
 
@@ -28,7 +28,7 @@ primarily on microglia and immune cells. The ECS modulates:
 - **Excitotoxicity**: CB1 receptors modulate glutamate release, preventing
   calcium-mediated neuronal death from excessive excitation.
 
-- **Oxidative stress**: CBD has potent antioxidant properties, scavenging
+- **[[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]**: CBD has potent antioxidant properties, scavenging
   reactive oxygen species that contribute to neuronal damage.
 
 - **Apoptosis**: CB1 activation inhibits programmed cell death in neurons
@@ -61,7 +61,7 @@ nigra. Cannabis evidence includes:
 - **Motor symptoms**: Mixed results. Some patients report tremor reduction,
   but controlled trials are inconsistent.
 
-- **Non-motor symptoms**: Stronger evidence for sleep disorders (REM sleep
+- **Non-motor symptoms**: Stronger evidence for [[cannabis-sleep-disorders-and-insomnia]] (REM sleep
   behavior disorder), anxiety, depression, and pain.
 
 - **Levodopa-induced dyskinesia**: CBD may reduce involuntary movements
@@ -72,7 +72,7 @@ nigra. Cannabis evidence includes:
 MS is autoimmune demyelination. Cannabis has the strongest clinical evidence:
 
 - **Spasticity**: Nabiximols (Sativex) is approved in many countries based
-  on robust clinical trial data.
+  on robust [[psilocybin-clinical-trial-landscape-2020-2025]] data.
 
 - **Pain**: Neuropathic pain responds well through CB1 and CB2 pathways.
 
@@ -122,6 +122,6 @@ THC-to-CBD ratios should be tailored to specific conditions.
 
 ## See Also
 
-- [[endocannabinoid-system]]
+- [[cannabis-health-endo-cannabinoid-system]]
 - [[cannabidiol-cbd]]
 - [[cannabis-health-index-chi-scoring]]

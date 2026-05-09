@@ -1,16 +1,16 @@
 ---
-title: Phellinus Linteus Cancer Research
+title: Phellinus phellinus linteus cancer research Research
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - Cancer Treatments and Medicinal Mushrooms
+  - Cancer Treatments and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive
 type: concept
 tags: [reference]
 ---
 
 # Phellinus Linteus Cancer Research
 
-Phellinus linteus is a medicinal mushroom with a long history in
+Phellinus linteus is [[query-how-do-i-make-a-medicinal-mushroom-double-extraction-tincture]] with a long history in
 traditional Chinese medicine, known as "song gen" in Chinese and "meshima"
 in Japanese. Hot water extracts from fruit-bodies have been used for
 digestive system ailments for centuries. In recent decades it has emerged
@@ -50,7 +50,7 @@ and polysaccharide characterisation. The oral formulation route is an
 advantage for patient compliance and quality of life, consistent with
 broader [[psk-psp-polysaccharide-peptides]], the strongest evidence supports adjunctive
 use rather than monotherapy. A considerable number of Korean and Japanese
-patents have been filed, and further clinical trials are ongoing.
+patents have been filed, and further [[mushroom-cancer-clinical-trials-overview]] are ongoing.
 
 ## Mechanisms of Action
 
@@ -60,7 +60,7 @@ methods used for commercial mushroom polysaccharide products.
 
 ## Comparison with Other Mushroom Therapies
 
-| Feature | P. linteus | Psk Polysacolaride K | [[beta-glucan-receptor-binding]] characterisation needed
+| Feature | P. linteus | Psk Polysacolaride K | kappa opioid receptor characterisation needed
 
 ## See Also
 
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

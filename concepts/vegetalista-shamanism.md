@@ -1,5 +1,5 @@
 ---
-title: Vegetalista Shamanism in the Peruvian Amazon
+title: amazonian-vegetalista-shamanism-degrees-and-hierarchy in the Peruvian Amazon
 source: amaringo-p-ayahuasca-visions.md
 tags: [vegetalista, shamanism, amazon, peru, plant-medicine, ayahuasca, shipibo]
 ---
@@ -24,7 +24,7 @@ and plant knowledge:
 1. **Muraya**: The first advanced degree. A muraya has mastered the
    basic plant medicines and can perform standard healings. They have
    established relationships with several plant spirits and learned
-   their icaros (power songs).
+   their [[icaros]] (power songs).
 
 2. **Sumi** (sumiruna): The second degree, representing deeper mastery.
    Sumis command greater spiritual power and can perform more complex
@@ -66,7 +66,7 @@ structured format:
 
 **Preparation**: People arrive with various ailments — mal aire
 (illness from evil breeze), sorcery-induced conditions, and other
-afflictions not treatable by Western medicine. They exchange stories
+afflictions not treatable by [[fukuoka-eastern-western-medicine-healing-world-crisis]]. They exchange stories
 about supernatural encounters. The vegetalista advises on dietary
 requirements for the ceremony.
 
@@ -84,7 +84,7 @@ suggest strong visions or approaching enemies. Contractions in the
 left arm signal sorcery threats; in the right arm, the visions will
 reveal what was asked.
 
-**Icaros**: The vegetalista begins singing icaros to bring forth the
+**Icaros**: The vegetalista begins [[metzner-shamanic-singing-icaros-rhythm-and-entrainment]] to bring forth the
 visions, sometimes preceded by a prayer to Jesus or another divinity
 depending on their religious affiliation. The icaros guide and shape
 the visionary experience.
@@ -122,6 +122,6 @@ not only medicinal plant knowledge but also a complex spiritual
 cosmology involving plant spirits, supernatural beings, enchanted
 cities, and interdimensional travel. Amaringo's paintings document
 this cosmology in extraordinary visual detail, depicting the entities,
-landscapes, and phenomena encountered during [[ayahuasca-preparation-brew]]
+landscapes, and phenomena encountered during ayahuasca-preparation-brew
 - [[icaros-power-songs]]
 - [[chacruna-psychotria-viridis]]

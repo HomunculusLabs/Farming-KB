@@ -50,7 +50,7 @@ During colonization, cultivators should watch for:
 
 ### The Lid Decision
 
-During this phase, the cultivator must decide whether to keep lids tight or loose based on substrate moisture. A tight lid preserves moisture in drier substrates, while a loose lid allows excess moisture to escape from wetter preparations. The maximum fruiting formula with its higher water content typically requires a loose lid during incubation.
+During this phase, the cultivator must decide whether to keep lids tight or loose based on [[pf-tek-substrate-moisture-diagnosis-and-correction]]. A tight lid preserves moisture in drier substrates, while a loose lid allows excess moisture to escape from wetter preparations. The [[pf-tek-maximum-fruiting-substrate-formula]] formula with its higher water content typically requires a loose lid during incubation.
 
 ## Phase 3: Fruiting Initiation and Pinning (Weeks 3 to 5)
 
@@ -58,7 +58,7 @@ After the substrate surface turns fully white with mycelium, the jars are left i
 
 ### Pinning
 
-Tiny white pin like structures begin to appear on the cake surface. This pinning phase represents the shift from vegetative mycelial growth to reproductive fruiting body formation. The pins are the earliest visible expression of the mushroom fruiting cycle.
+Tiny white pin like structures begin to appear on the cake surface. This pinning phase represents the shift from vegetative mycelial growth to reproductive fruiting body formation. The pins are the earliest visible expression of the [[ectomycorrhizal-mushroom-fruiting-ecology]] cycle.
 
 ### Primordia Formation
 
@@ -70,7 +70,7 @@ The best time to remove the fungus cake from the jar is when primordia (tiny str
 
 ## Phase 4: Fruiting and Harvest (Weeks 4 to 6)
 
-Once the cake is birthed into the dual chambered terrarium, the fruiting cycle enters its most active phase, lasting approximately 2 weeks.
+Once the cake is birthed into the dual [[dual-chambered-terrarium-design]], the fruiting cycle enters its most active phase, lasting approximately 2 weeks.
 
 ### Early Fruit Body Development
 
@@ -78,7 +78,7 @@ The first mushrooms to form are often abhorts: convoluted caps, gnarly stems, an
 
 ### Normal Sporocarp Development
 
-Healthy specimens develop with recognizable mushroom morphology: expanding caps, elongating stems, and eventually gill development. These stately specimens are visually impressive but are not as potent as the smaller immature forms.
+Healthy specimens develop with recognizable [[pleurotoid-mushroom-morphology-gilled-fungi]]: expanding caps, elongating stems, and eventually gill development. These stately specimens are visually impressive but are not as potent as the smaller immature forms.
 
 ### The Initial Flush
 
@@ -102,7 +102,7 @@ The secret to potent mushrooms is harvesting them young. Scientific evidence sho
 
 ### Temperature
 
-Temperature is the primary variable affecting the speed of all phases. At cooler temperatures (around 60 degrees Fahrenheit), all processes slow but remain functional. At warmer temperatures (upper 70s to 80s Fahrenheit), growth accelerates but overheating above this range causes spreading mycelium without fruiting. The recommended cultivation temperature range is 65 to the upper 80s Fahrenheit.
+Temperature is the primary variable affecting the speed of all phases. At cooler temperatures (around 60 degrees Fahrenheit), all processes slow but remain functional. At warmer temperatures (upper 70s to 80s Fahrenheit), growth accelerates but overheating above this range causes spreading mycelium without fruiting. The recommended cultivation [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] is 65 to the upper 80s Fahrenheit.
 
 ### Substrate Formula
 

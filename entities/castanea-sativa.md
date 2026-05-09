@@ -13,7 +13,7 @@ type: entity
 **Type:** Species (Tree)
 **Category:** Nut-bearing tree
 **Family:** Fagaceae
-**Also known as:** Spanish chestnut, sweet chestnut, European chestnut
+**Also known as:** Spanish chestnut, [[holzer-sweet-chestnut-and-nut-trees]], European chestnut
 
 ## Overview
 Castanea sativa is a large, spreading deciduous tree reaching up to
@@ -37,7 +37,7 @@ Europe before the introduction of potatoes.
 - **Growth rate:** Moderate
 - **Height:** Up to 35 m, girth 1-3 m
 - **Lifespan:** Extremely long lived (centuries to millennia)
-- **Drought tolerance:** High once established
+- **[[dighton-fungal-drought-tolerance-plant-water-relations]]:** High once established
 - **Soil preference:** Well-drained, light soils; fair lime tolerance;
   does not tolerate salinity
 - **Nutritional value (fresh, per 100g):** Energy 194 cal,
@@ -49,7 +49,7 @@ Europe before the introduction of potatoes.
 - **Digestion time:** 2.75 hours (fresh)
 - **Yield:** Up to 5,000 kg per hectare from mature groves; 0.77
   t/ha minimal irrigation, 1.7 t/ha full irrigation by year 10
-- **Timber:** Young timber is tough and durable; old growth
+- **Timber:** Young timber is tough and durable; [[fungal-roles-in-old-growth-forests]]
   primarily used as firewood; coppices well for sustainable
   production; prized in Europe for traditional timber uses
 - **Culinary:** Eaten raw, roasted, boiled, or preserved by drying
@@ -70,7 +70,7 @@ cut on 10-20 year rotations for both timber and fuel production.
   much more resistant to root fungus Phytophthora spp than
   European chestnut
 - **C. dentata** (American chestnut): Once a major deciduous tree
-  of North America; destroyed by bark fungus (chestnut blight) in
+  of [[psilocybin-north-america-pacific-northwest]]; destroyed by bark fungus (chestnut blight) in
   early 1900s; nuts said to be sweetest of any species
 
 ## Relevance

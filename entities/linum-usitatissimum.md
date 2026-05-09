@@ -49,7 +49,7 @@ From there, cultivation spread to Egypt (where linen was the primary textile), E
 
 The species is now cultivated in temperate zones worldwide. Major producers include Canada (the world's largest exporter), Russia, Kazakhstan, China, India, the United States, and Ethiopia. It grows in USDA hardiness zones 3–9.
 
-Flax prefers cool, moist growing conditions with well-drained loamy soils. Optimal growth occurs at 15–20°C during the vegetative stage. The crop is relatively drought-tolerant once established but requires consistent moisture during flowering and seed fill.
+Flax prefers cool, moist growing conditions with well-drained loamy soils. Optimal growth occurs at 15–20°C during the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]. The crop is relatively drought-tolerant once established but requires consistent moisture during flowering and seed fill.
 
 ## Bioactive Compounds
 
@@ -85,11 +85,11 @@ It is used as a nutritional supplement, in oil painting (as a drying oil), and i
 
 Flax is typically direct-seeded in early spring, 2–4 weeks before the average last frost date.
 
-Seeding rate is 25–40 kg/ha for fiber types and 35–55 kg/ha for oilseed types. Row spacing is 15–20 cm.
+Seeding rate is 25–40 kg/ha for fiber types and 35–55 kg/ha for oilseed types. [[wide-row-spacing-intensive-gardening-comparison]] is 15–20 cm.
 
 The crop matures in 90–150 days depending on variety and climate.
 
-Harvest timing differs by use: fiber flax is pulled at early seed maturity (when stems are yellow-green), while oilseed flax is combined when bolls are fully brown and dry. Yields range from 0.5–2.5 tonnes/ha for seed and 5–10 tonnes/ha for straw (fiber production).
+[[cannabis-harvest-timing-visual-cues]] differs by use: fiber flax is pulled at early seed maturity (when stems are yellow-green), while oilseed flax is combined when bolls are fully brown and dry. Yields range from 0.5–2.5 tonnes/ha for seed and 5–10 tonnes/ha for straw (fiber production).
 
 Flax is an excellent **cover crop** and rotation partner.
 
@@ -99,7 +99,7 @@ Its deep taproot breaks compacted soil layers. The crop has relatively low nitro
 
 In permaculture systems, flax serves multiple functions.
 
-As a cover crop, it provides soil protection, weed suppression, and organic matter incorporation. Its short growing season allows double-cropping with winter grains or legumes in temperate climates.
+As a cover crop, it provides soil protection, weed suppression, and [[hamilton-composting-and-organic-matter-management]] incorporation. Its short [[savory-growing-season-and-non-growing-season-management]] allows double-cropping with winter grains or legumes in temperate climates.
 
 The fiber-producing varieties offer a locally-grown textile resource — a significant consideration for sustainable and regenerative design systems.
 
@@ -107,7 +107,7 @@ Traditional flax processing (retting, breaking, scutching, hackling) requires mi
 
 Flax flowers attract pollinators, particularly bees, during their brief blooming period.
 
-The crop provides habitat for ground-nesting birds in agricultural landscapes. Its role in crop rotation breaks pest and disease cycles, particularly for cereal crops.
+The crop provides habitat for ground-nesting birds in agricultural landscapes. Its role in crop rotation breaks [[hamilton-pest-and-disease-control-organic]] cycles, particularly for cereal crops.
 
 ## See Also
 

@@ -17,7 +17,7 @@ created: 2026-05-07
 
 # DMT (N,N-Dimethyltryptamine)
 
-N,N-Dimethyltryptamine (DMT) is a powerful endogenous tryptamine hallucinogen found in small quantities within the human brain. It is the simplest of the major psychedelic tryptamines and produces what Terence McKenna described as the most intense and alien of all hallucinogenic experiences. Despite its ubiquity in nature and presence in the human body, DMT remains remarkably understudied relative to its phenomenological significance.
+N,N-Dimethyltryptamine (DMT) is a powerful endogenous [[mckenna-tryptamine-hallucinogen-classification-four-groups-plants]] found in small quantities within the human brain. It is the simplest of the major psychedelic tryptamines and produces what Terence McKenna described as the most intense and alien of all hallucinogenic experiences. Despite its ubiquity in nature and presence in the human body, DMT remains remarkably understudied relative to its phenomenological significance.
 
 ## Chemistry and Pharmacology
 
@@ -25,7 +25,7 @@ DMT is structurally related to [[psilocybin]] is itself 4-phosphoryloxy-N,N-dime
 
 The structural similarity between DMT, psilocybin, and serotonin is significant because serotonin is the major neurotransmitter in the human brain, found in all life and most concentrated in humans. This structural kinship suggests that the tryptamine state may represent an amplification or modulation of natural neurological processes rather than an artificial disruption of normal brain function.
 
-The quantum mechanical nature of hallucinogenesis was noted by John Smythies and [[lsd]], which is retained in the body for a considerably longer period.
+The [[mckenna-quantum-mechanical-correlates-hallucinogenesis]] nature of hallucinogenesis was noted by John Smythies and [[lsd]], which is retained in the body for a considerably longer period.
 
 DMT's status as an endogenous compound may explain this metabolic familiarity and the brain's apparent readiness to process it.
 
@@ -37,7 +37,7 @@ The DMT experience follows a characteristic and remarkably consistent arc across
 
 A sound described as "ripping cellophane" or crumpling plastic film, accompanied by an ascending tone and shifting geometric surfaces of colored forms.
 
-McKenna's companion suggested this sound represents the "radio entelechy ripping out of the organic matrix." At the synaptic site of activity, all available bond sites are being occupied, and one experiences the mode shift occurring over a period of about thirty seconds.
+McKenna's companion suggested this sound represents the "[[mckenna-radio-entelechy-dmt-onset-acoustic-phenomena]] ripping out of the organic matrix." At the synaptic site of activity, all available bond sites are being occupied, and one experiences the mode shift occurring over a period of about thirty seconds.
 
 ### Phase 2: The Merry Go Raum (30 seconds)
 
@@ -57,7 +57,7 @@ Unlike smoked DMT, which lasts five minutes, ayahuasca produces an experience la
 
 DMT is often grouped with [[mescaline-entity]] in public perception and law, but McKenna insisted each is "a phenomenologically defined universe unto itself."
 
-DMT is distinguished by the intensity and concentration of its visual effects, the consistent presence of entity encounters, its action on language centers, and its remarkably short duration when smoked.
+DMT is distinguished by the intensity and concentration of its visual effects, the consistent presence of entity encounters, its action on language centers, and its remarkably [[savory-short-duration-grazing-and-cell-systems]] when smoked.
 
 ## DMT in Indigenous Amazonian Practice
 
@@ -67,9 +67,9 @@ McKenna noted that the Amazonian use of DMT is primarily confined to "cultures q
 
 ## The Esalen Context
 
-McKenna's talk on tryptamine hallucinogens and consciousness was delivered at the Lilly/Goswami Conference on Consciousness and Quantum Physics at Esalen Institute in December 1983. The conference brought together researchers exploring the intersection of consciousness studies and quantum physics, providing a context in which the phenomenological reports of tryptamine experiences could be discussed alongside theoretical frameworks from physics and philosophy of mind.
+McKenna's talk on [[mckenna-tryptamine-hallucinogens-and-consciousness]] and consciousness was delivered at the Lilly/Goswami Conference on Consciousness and Quantum Physics at Esalen Institute in December 1983. The conference brought together researchers exploring the intersection of consciousness studies and quantum physics, providing a context in which the phenomenological reports of tryptamine experiences could be discussed alongside theoretical frameworks from physics and philosophy of mind.
 
-The talk was later published in 1992 as part of McKenna's collection The Archaic Revival.
+The talk was later published in 1992 as part of McKenna's collection The [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]].
 
 ## Safety Considerations
 

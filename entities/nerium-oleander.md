@@ -30,7 +30,7 @@ The plant is among the most widely planted ornamental shrubs in warm climates wo
 
 **Nerium oleander** L. is the sole species in the genus *Nerium*. Classification:
 
-- **Kingdom:** Plantae
+- **King[[dom|dom]]:** Plantae
 - **Order:** Gentianales
 - **Family:** Apocynaceae
 - **Genus:** *Nerium* L.
@@ -60,7 +60,7 @@ All parts of *N. oleander* are **highly toxic** to humans and most animals. Inge
 
 The primary toxic principles are **cardiac glycosides**, structurally related to [[digitalis-purpurea]] — foxglove, another cardiac glycoside-containing medicinal plant
 - [[atropa-belladonna]] — deadly nightshade, another highly toxic medicinal plant
-- [[ricinus-communis-entity]] — castor bean, toxic ornamental with medicinal history
+- ricinus-communis-entity — castor bean, toxic ornamental with medicinal history
 - nerium oleander — "suicide tree," related Apocynaceae cardiac glycoside species
 - apocynaceae — plant family overview
 ## Practical Considerations
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

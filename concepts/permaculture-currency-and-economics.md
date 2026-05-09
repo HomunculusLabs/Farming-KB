@@ -15,13 +15,13 @@ sources:
 
 # Permaculture Currency and Economics
 
-Permaculture extends beyond physical landscape design into the realm of community economics. In Bill Mollison's Designers' Manual (Chapter 14), the financial and economic dimension is treated as inseparable from ecological design: money should serve the proliferation of life, not the accumulation of monuments.
+Permaculture extends beyond physical [[holzer-permaculture-landscape-design]] into the realm of community economics. In [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]'s Designers' Manual (Chapter 14), the financial and economic dimension is treated as inseparable from [[williams-pdc-ecological-design-principles]]: money should serve the proliferation of life, not the accumulation of monuments.
 
 ## Core Philosophy
 
 Money is not intrinsically a resource -- it represents (or should represent) a resource which lies "somewhere else." All money ultimately arises from the wealth of the natural world: plants, clean water, clear air, stored energy. The accumulation of unused wealth, or wealth that does not lead to the proliferation of life, is a pollution of the same nature as any unused resource. As Mollison writes, "Manure and money have much in common."
 
-The goal of permaculture economics is to develop wealth the way we develop landscapes: by concentrating on conservation of energy and natural resources (reducing the need to earn), by developing procreative assets (forests, prairies, life systems), by reducing degenerative assets (roads, monuments, cities), and by constantly divesting surplus wealth toward these ends.
+The goal of [[pdc-right-livelihood-and-permaculture-economics]] is to develop wealth the way we develop landscapes: by concentrating on conservation of energy and natural resources (reducing the need to earn), by developing procreative assets (forests, prairies, life systems), by reducing degenerative assets (roads, monuments, cities), and by constantly divesting surplus wealth toward these ends.
 
 ## Asset Categories
 
@@ -103,4 +103,5 @@ Mollison's key metaphor: "Money is to the social fabric as water is to landscape
 
 ## See Also
 
-- [[community-economics-in-permaculture]]
+- community-economics-in-permaculture
+- [[bill-mollison]]

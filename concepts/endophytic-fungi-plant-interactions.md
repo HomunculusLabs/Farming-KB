@@ -1,5 +1,5 @@
 ---
-title: Endophytic Fungi and Plant Interactions
+title: comparison-endophytic-fungi-vs-mycorrhizal-fungi and Plant Interactions
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/symbiotic-fungi.md]
 
 # Endophytic Fungi and Plant Interactions
 
-Endophytic fungi live inside plant tissues (leaves, stems, roots) without causing disease symptoms. Nearly all plants in natural ecosystems harbor endophytes, which can significantly influence plant growth, stress tolerance, and resistance to pests and pathogens.
+Endophytic fungi live inside plant tissues (leaves, stems, roots) without causing disease symptoms. Nearly all plants in natural ecosystems harbor endophytes, which can significantly influence plant growth, [[fungal-lichen-stress-tolerance-and-poikilohydry]], and resistance to pests and pathogens.
 
 ## Types of Endophytes
 
@@ -30,7 +30,7 @@ Endophytic fungi live inside plant tissues (leaves, stems, roots) without causin
 
 ### Growth Promotion
 - Produce plant hormones (auxins, gibberellins, cytokinins)
-- Enhance nutrient uptake (solubilize phosphate, fix nitrogen)
+- Enhance [[plant-nutrient-uptake-mechanisms]] (solubilize phosphate, fix nitrogen)
 - Increase root biomass and branching
 - Improve photosynthetic efficiency
 
@@ -62,13 +62,13 @@ Endophytic fungi live inside plant tissues (leaves, stems, roots) without causin
 ### Crop Plants
 - Inoculation with endophytes to improve stress tolerance
 - Endophyte-treated rice shows improved drought and salt tolerance
-- Endophytes of medicinal plants produce bioactive compounds
+- Endophytes of medicinal plants produce [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]
 - Potential for reducing fertilizer and pesticide inputs
 
 ### Biocontrol
-- Endophytic Beauveria and Metarhizium: entomopathogenic fungi that live in plants
+- Endophytic Beauveria and Metarhizium: [[singh-entomopathogenic-fungi-biocontrol-agents]] that live in plants
 - Endophytic Trichoderma: suppress plant diseases from inside the plant
-- Combines biological control with plant growth promotion
+- Combines [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] with plant growth promotion
 
 ## Related
 - [[mycorrhizal-networks]] — for mycorrhizal endophytes
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

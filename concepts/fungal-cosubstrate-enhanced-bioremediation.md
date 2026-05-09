@@ -1,23 +1,20 @@
 ---
-title: Fungal Cosubstrate Enhanced Bioremediation
+title: Fungal fungal cosubstrate enhanced bioremediation Bioremediation
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-
-# Fungal Cosubstrate-Enhanced Bioremediation
-
-The use of cosubstrates in fungal bioremediation is a critical strategy for enhancing the degradation of persistent environmental pollutants. Cosubstrates provide carbon and energy sources that support fungal growth and induce the production of degradative enzymes, particularly [[white-rot-fungi-bioremediation]].
+# Fungal Cosubstrate-Enhanced Bioremediation The use of cosubstrates in fungal bioremediation is a critical strategy for enhancing the degradation of persistent environmental pollutants. Cosubstrates provide carbon and energy sources that support fungal growth and induce the production of degradative enzymes, particularly [[white-rot-fungi-bioremediation]].
 
 ## Principles of Cosubstrate Enhancement
 
-White-rot fungi require a suitable substrate to survive in soil environments. However, successful degradation of high-molecular-weight polycyclic aromatic hydrocarbons (PAHs) by white-rot fungi depends on an ample supply of a suitable carbon cosubstrate.
+White-rot fungi require a suitable substrate to survive in soil environments. However, successful degradation of high-molecular-weight [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs) by white-rot fungi depends on an ample supply of a suitable carbon cosubstrate.
 
 The cosubstrate serves multiple functions: it supports fungal biomass production, induces ligninolytic enzyme synthesis (which is often subject to catabolite repression by readily metabolizable carbon sources), and may modify the bioavailability of target pollutants through surfactant-like effects or solubilization.
 
-The effectiveness of cosubstrate addition depends on the type of cosubstrate, the concentration used, the target pollutant, and the fungal species employed. Finding the optimal balance is essential because excessive cosubstrate can repress enzyme production through carbon catabolite repression, while insufficient cosubstrate limits fungal growth.
+The effectiveness of cosubstrate addition depends on the type of cosubstrate, the concentration used, the target pollutant, and the fungal species employed. Finding the optimal balance is essential because excessive cosubstrate can repress [[ligninolytic-enzyme-production-bioremediation]] through carbon catabolite repression, while insufficient cosubstrate limits fungal growth.
 
 ## Types of Cosubstrates
 
@@ -25,7 +22,7 @@ A wide range of cosubstrates has been investigated for enhancing fungal bioremed
 
 ### Lignocellulosic Materials
 
-Wood chips and peat are common cosubstrates for [[fungal-pah-degradation-mechanisms]] in soil. Wheat straw has been extensively studied and shown to enhance PAH degradation by multiple fungal species including Pleurotus ostreatus, Phanerochaete chrysosporium, and Dichomitus squalens.
+Wood chips and peat are common cosubstrates for fungal-pah-degradation-mechanisms in soil. Wheat straw has been extensively studied and shown to enhance PAH degradation by multiple fungal species including Pleurotus ostreatus, [[staycare-phanerochaete-chrysosporium-in-bioremediation]], and Dichomitus squalens.
 
 Rice, annual plant stems, wood, and bark have also been used as cosubstrates. The extent of benzo[a]pyrene degradation was improved by the use of hemp stem as cosubstrate. Milled wheat straw at 5% concentration has been effective for supporting the degradation of pyrene, benz[a]anthracene, and benzo[a]pyrene by Pleurotus species.
 
@@ -35,11 +32,11 @@ Potato pulp combined with sawdust from Picea species served as an effective cosu
 
 Fish oil and spent mushroom compost have been used as cosubstrates. P. ostreatus with fish oil and spent mushroom compost achieved 86% total PAH degradation and 89% three-ring PAH degradation over 7 weeks in creosote-contaminated soil. These organic amendments provide both carbon sources and nutrient supplementation.
 
-Straw and other agricultural residues are inexpensive and readily available cosubstrates. Their lignocellulosic composition naturally induces ligninolytic enzyme production in white-rot fungi, making them ideal for [[fungal-bioremediation]] applications.
+Straw and other agricultural residues are inexpensive and readily available cosubstrates. Their lignocellulosic composition naturally induces ligninolytic enzyme production in white-rot fungi, making them ideal for fungal-bioremediation applications.
 
 ### Simple Carbon Sources
 
-Glucose and malt extract have been used as cosubstrates in liquid culture systems. Penicillium janthinellum utilized glucose, malt extract, yeast extract, peptone, and dextrose media as cosubstrates for benzo[a]pyrene transformation, producing polar metabolites that could subsequently be degraded by bacteria.
+Glucose and malt extract have been used as cosubstrates in liquid culture systems. Penicillium janthinellum utilized glucose, malt extract, [[marmite-yeast-extract-straw-substrate]], peptone, and dextrose media as cosubstrates for benzo[a]pyrene transformation, producing polar metabolites that could subsequently be degraded by bacteria.
 
 The kinetics of Cunninghamella echinulata var. elegans have been determined for PAH-contaminated soils related to three supplemental nutrient solutions, demonstrating the importance of nutrient optimization in cosubstrate-enhanced bioremediation.
 
@@ -77,7 +74,7 @@ The hpbetaCD solubilizes PAHs better than solvent systems when used with LiP for
 
 The interaction between cosubstrate-amended fungal inocula and indigenous soil microorganisms significantly affects remediation outcomes. Synergistic degradation by white-rot fungi and indigenous bacteria can occur in the bioremediation of PAH-contaminated soil.
 
-White-rot fungi can be pregrown on a suitable solid substrate that is later used for inoculation of contaminated soil. This pre-growth on the cosubstrate establishes a robust fungal inoculum that can better compete with indigenous microorganisms.
+White-rot fungi can be pregrown on a suitable solid substrate that is later used for inoculation of contaminated soil. This pre-growth on the cosubstrate establishes a robust fungal inoculum that can better compete with [[beneficial-indigenous-microorganisms-bim]].
 
 The addition of cosubstrates influences the composition and activity of indigenous microbial communities. Protocols need to be developed to enhance the final removal of contaminants while managing the complex interactions between introduced fungi, indigenous bacteria, and the cosubstrate.
 
@@ -89,7 +86,7 @@ The concentration, type, and timing of cosubstrate addition, as well as the nutr
 
 ## See Also
 
-- [[fungal-bioremediation]]
+- fungal-bioremediation
 - [[ligninolytic-enzymes-bioremediation]]
-- [[fungal-bacterial-coculture-bioremediation]]
+- fungal-bacterial-coculture-bioremediation
 - [[fungal-bioremediation-mechanisms]]

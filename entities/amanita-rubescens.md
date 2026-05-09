@@ -18,11 +18,11 @@ resource for soil fauna despite containing toxic compounds.
 
 ## Taxonomy and Distribution
 
-Amanita rubescens is found across Europe and parts of North America and
+Amanita rubescens is found across Europe and parts of [[psilocybin-north-america-pacific-northwest]] and
 Asia, forming ectomycorrhizal associations with pines (Pinus), oaks
 (Quercus), spruces (Picea), and birches (Betula). Its broad host range
 and wide geographic distribution make it one of the more cosmopolitan
-ectomycorrhizal fungi in temperate forest ecosystems.
+[[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] in temperate forest ecosystems.
 
 ## Toxicity
 
@@ -41,9 +41,9 @@ distinctive phosphorus metabolism with relatively little phosphorus
 retained in mycelial biomass compared to the soluble fraction (1.8% vs.
 60.0% from Pi source; 1.1% vs. 45.0% from Po source). pNPPase activity
 was 55.2 from Pi and 36.3 from Po sources. This "leakiness" in
-nutrient utilization contributes to phosphorus availability in the
+nutrient utilization contributes to [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] in the
 mycorrhizosphere, benefiting the host plant and surrounding soil
-microbial community.
+[[edaphic-factors-microbial-community-structure]].
 
 ## Response to Leaf Litter Phenolics
 
@@ -70,7 +70,7 @@ discrepancy likely relates to differences in nematode species and
 experimental conditions.
 
 Sutherland and Fortin also found that intensive nematode grazing on
-Suillus granulatus could prevent mycorrhizal symbiosis with Pinus
+Suillus granulatus could prevent [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] with Pinus
 resinosa in culture, though grazing pressure is unlikely to reduce
 established mycorrhizal associations in natural ecosystems.
 
@@ -118,5 +118,5 @@ communities.
 - [[amanita-muscaria-cultural-history]] - congeneric species, similarly poor nematode food source
 - [[laccaria-laccata]] - ectomycorrhizal species, best nematode food source
 - suillus intermedius - ectomycorrhizal species stimulated by pine phenolics
-- [[suillus-luteus]] - ectomycorrhizal species with heavy metal tolerance
+- [[suillus-luteus]] - ectomycorrhizal species with heavy [[fungal-metal-tolerance-mechanisms]]
 - marasmius androsaceus - saprotrophic fungus highly preferred by collembola

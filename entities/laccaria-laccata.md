@@ -14,7 +14,7 @@ sources:
 **Laccaria laccata** is a widely studied ectomycorrhizal basidiomycete
 fungus associated with numerous tree species, particularly conifers.
 It belongs to the family Hydnangiaceae and is one of the most
-frequently referenced ectomycorrhizal fungi in forest ecology
+frequently referenced [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] in forest ecology
 research. Its broad host range, ease of cultivation, and ecological
 resilience have made it a model organism for mycorrhizal studies and
 a candidate for bioremediation applications.
@@ -78,7 +78,7 @@ acquisition is more efficient in nitrogen-limiting ecosystems.
 Seegmüller and Rennenberg (1994) demonstrated that elevated CO2
 increased oak growth and that Laccaria laccata ectomycorrhizal
 association had more than an additive effect, with implications for
-understanding forest responses to global climate change.
+understanding forest responses to global [[dighton-fungi-climate-change-feedback]].
 
 ## Heavy Metal Tolerance
 
@@ -87,7 +87,7 @@ pollution. Rühling and Söderström (1990) found it was the most
 tolerant fungus to arsenic, copper, cadmium, lead, and zinc among
 species examined along a Swedish pollution transect. L. laccata showed
 6.2% uptake of available lead, with a portion released in different
-parts of the mycelial network, suggesting translocation and potential
+parts of the [[gadd-mycelial-network-dynamics]], suggesting translocation and potential
 detoxification mechanisms. This positions it as a promising organism
 for phytoremediation and mine spoil reclamation.
 
@@ -124,7 +124,7 @@ Phytophthora-alone controls (15.6 cm², 5.2 g).
 Sagara (1995) identified clear successions of mycorrhizal fruit
 bodies in response to localized nutrient additions from animal remains,
 with later successions favoring Laccaria bicolor and Hebeloma spp.
-Mycorrhiza helper bacteria (MHB) have also been identified associated
+[[symbiotic-fungi-streptomycete-mycorrhiza-helper-interactions]] bacteria (MHB) have also been identified associated
 with the *Pseudotsuga menziesii*–L. laccata symbiosis, enhancing
 mycorrhizal formation and function.
 
@@ -132,8 +132,10 @@ mycorrhizal formation and function.
 
 | Year | Researchers | Finding |
 |------|------------|---------|
-| 1990 | Rühling and Söderström | L. laccata is the most heavy metal tolerant ECM fungus |
+| 1990 | Rühling and Söderström | L. laccata is the most heavy [[heavy-metal-tolerant-fungi-contaminated-soils]] ECM fungus |
 ## See Also
+
+- [[laccaria-ochropurpurea]]
 
 - [[mycorrhiza]]
 

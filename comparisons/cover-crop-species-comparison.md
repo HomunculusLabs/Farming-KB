@@ -22,18 +22,18 @@ sources:
 
 # Cover Crop Species Comparison
 
-Cover crops are plants grown primarily to benefit soil rather than for harvest. Selecting the right species depends on your goals (nitrogen fixation, weed suppression, soil conditioning, bee forage), your planting season, and your climate zone. This comparison covers 12 widely-used cover crop species across four families, synthesized from [[cover-cropping-guide]] and related fertility pages.
+Cover crops are plants grown primarily to benefit soil rather than for harvest. Selecting the right species depends on your goals ([[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], weed suppression, soil conditioning, bee forage), your planting season, and your [[holzer-climate-zone-microclimate-creation]]. This comparison covers 12 widely-used cover crop species across four families, synthesized from [[cover-cropping-guide]] and related fertility pages.
 
 The most powerful strategy is to mix species from multiple families — a legume + grass + brassica combination fixes nitrogen, builds soil structure, breaks compaction, and suppresses weeds simultaneously. See [[cover-cropping-guide]] for mixing strategies and [[soil-fertility-management]] for integration with overall fertility programs.
 
 ## Species Comparison Table
 
-| Species | Type | Sowing Season | Cold Hardiness | Nitrogen Fix (lbs/ac) | Primary Benefit | Termination Method | Good Companions |
+| Species | Type | Sowing Season | [[coleman-cold-hardiness-testing-ratings]] | Nitrogen Fix (lbs/ac) | Primary Benefit | Termination Method | Good Companions |
 |---------|------|--------------|----------------|----------------------|-----------------|-------------------|-----------------|
-| **Crimson clover** | Legume | Early fall or early spring | Moderate (to ~10F) | 50-100 | N fixation, bee forage, beautiful bloom | Mow at flowering; winter kill in severe cold | Winter rye, oats, annual ryegrass |
+| **[[comparison-lupin-vs-crimson-clover-green-manure]]** | Legume | Early fall or early spring | Moderate (to ~10F) | 50-100 | N fixation, bee forage, beautiful bloom | Mow at flowering; winter kill in severe cold | Winter rye, oats, annual ryegrass |
 | **White clover** | Legume | Early spring or late summer | Hardy (to ~-30F) | 100 | Living mulch, N fixation, tolerates traffic | Mow regularly; persistent perennial | Most grasses; orchard understory |
 | **Hairy vetch** | Legume | Late summer to early fall | Very hardy (to ~-20F) | 80 | Excellent N fixer, viney biomass | Crimp at flowering (no-till ideal) | Winter rye (classic combo) |
-| **Winter rye** | Grass | Early fall | Very hardy (to ~-40F) | No | Erosion control, weed suppression, vigorous roots | Crimp at boot stage; tillage | Hairy vetch, crimson clover, field peas |
+| **Winter rye** | Grass | Early fall | Very hardy (to ~-40F) | No | [[permplant-willows-salix-erosion-control-fodder]], weed suppression, vigorous roots | Crimp at boot stage; tillage | Hairy vetch, crimson clover, field peas |
 | **Buckwheat** | Broadleaf | Late spring through summer | Tender (kills at frost) | No | P scavenger, quick cover, pollinator attractant | Frost kill; mow before seed set | Any summer cover; not frost-hardy |
 | **Daikon radish** | Brassica | Late summer to early fall | Moderate (winter-kill ~20F) | No | Deep soil penetration (3-6 ft taproot), compaction break | Winter kill (leaves channels); mow | Winter rye, oats, clover |
 | **Oats** | Grass | Early fall | Moderate (winter-kill ~15F) | No | Quick cover, biomass, easy termination | Winter kill (no work needed); mow | Field peas, crimson clover, hairy vetch |
@@ -49,7 +49,7 @@ The most powerful strategy is to mix species from multiple families — a legume
 
 Legumes (clovers, vetch, field peas) are the only cover crops that fix atmospheric nitrogen through rhizobium bacteria. The key rule: terminate legumes **before** seed set. Nitrogen moves from leaves to seeds as pods form — maximum N in leaves is at early flowering. A well-grown stand of hairy vetch can contribute 80 lbs N/acre, while Austrian winter peas can deliver 100-140 lbs N/acre, reducing or eliminating the need for external nitrogen fertilizer.
 
-Non-fixers still provide enormous value: grasses build soil structure through fibrous root systems, brassicas break compaction with deep taproots, and all cover crops add organic matter when terminated.
+Non-fixers still provide enormous value: grasses build soil structure through fibrous root systems, brassicas break compaction with deep taproots, and all cover crops add [[hamilton-composting-and-organic-matter-management]] when terminated.
 
 ### Seasonal Strategy
 
@@ -99,4 +99,3 @@ For a first cover crop on a homestead garden, sow a **winter rye + hairy vetch +
 - [[soil-fertility-management]] — Overall fertility strategy and integration
 - [[no-till-gardening-method]] — Cover crops as the foundation of no-till systems
 - [[composting-systems]] — Converting cover crop residue to humus
-- [[dynamic-accumulators]] — Mineral mining with deep-rooted species

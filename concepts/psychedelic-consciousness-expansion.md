@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Consciousness Expansion
+title: Psychedelic mckenna-consciousness-expansion-and-drug-war
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
@@ -55,7 +55,7 @@ The expanded state reveals that:
 - Reality is more interconnected than normal perception suggests
 - Consciousness is informational in nature
 - Matter and mind are different expressions of the same underlying substance (information)
-- Nature possesses an inherent intelligence (Natural Intelligence)
+- Nature possesses an inherent intelligence ([[powell-natural-intelligence-and-the-universal-computation]])
 - Human consciousness has a functional role within the reality process
 
 ## The Universal Computation
@@ -94,9 +94,9 @@ Powell's concept of "increased degrees of cognitive freedom" suggests that consc
 
 # Gaia Hypothesis and Psychedelic Shamanism
 
-Simon G. Powell develops a sophisticated argument in "The Psilocybin Solution" that connects the Gaia hypothesis — the idea that Earth's biosphere functions as a single living system — with the psychedelic experience accessed through entheogen-culture|entheogenic plants and fungi. Powell's synthesis proposes that sacred mushrooms are not merely chemical curiosities but organic components of a planetary intelligence system, what [[ceremonial-shamanic-use-psychoactive-mushrooms]] as a form of communication with the Gaian intelligence. Traditional shamans who employ psychoactive flora to gain transcendental knowledge are, in his view, accessing information that is distributed throughout the biospheric system.
+Simon G. Powell develops a sophisticated argument in "The [[powell-psilocybin-solution-ecological-cognition-theory]]" that connects the Gaia hypothesis — the idea that Earth's biosphere functions as a single living system — with the [[leary-psychedelic-experience-bardo-mapping]] accessed through entheogen-culture|entheogenic plants and fungi. Powell's synthesis proposes that sacred mushrooms are not merely chemical curiosities but organic components of a planetary intelligence system, what [[ceremonial-shamanic-use-psychoactive-mushrooms]] as a form of communication with the Gaian intelligence. Traditional shamans who employ psychoactive flora to gain transcendental knowledge are, in his view, accessing information that is distributed throughout the biospheric system.
 
-The psilocybin mushroom itself is presented as a legitimate natural product of Nature — an unusual piece of Gaian fabric, but no more artificial than the oxygen we breathe. Psilocybin mushrooms grow throughout Europe and North America, not just in Mexico. The Earth, Gaia, is described as "a far more efficient and ubiquitous supplier of entheogens than the lab-men at Sandoz," secretly churning out millions of psilocybin mushrooms across its skin.
+The [[emcdda-psilocybin-mushroom-dose-and-effects]] itself is presented as a legitimate natural product of Nature — an unusual piece of Gaian fabric, but no more artificial than the oxygen we breathe. [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] grow throughout Europe and North America, not just in Mexico. The Earth, Gaia, is described as "a far more efficient and ubiquitous supplier of entheogens than the lab-men at Sandoz," secretly churning out millions of psilocybin mushrooms across its skin.
 
 ## The Biosphere as Context for Brain Function
 

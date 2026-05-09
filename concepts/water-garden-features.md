@@ -12,7 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-The organic garden will be more attractive to wildlife if it contains a pond, because it provides drinking water for birds and small mammals, and a home for many aquatic animals. Frogs and toads should be encouraged because they eat large quantities of slugs and snails. A pond also enables you to grow a much wider range of plants.
+The organic garden will be more attractive to wildlife if it contains a pond, because it provides drinking water for birds and small mammals, and a home for many [[fungi-aquatic-animals-pathogens-parasites]]. Frogs and toads should be encouraged because they eat large quantities of [[query-how-to-get-rid-of-slugs-and-snails-organically]]. A pond also enables you to grow a much wider range of plants.
 
 ## Aquatic Plants
 
@@ -41,7 +41,7 @@ Not decorative but essential to pond health as they aerate the water. Suitable p
 Grow in the shallowest parts of the pond and boggy soil around the edges. They range from those needing an inch or two of water over roots to those preferring marshy soil.
 
 **Planting depths:**
-- **Sweet-scented rush** (Acorus calamus) — 3-5in (7-12cm)
+- **Sweet-scented rush** ([[sweet-flag-acorus-calamus-ethnobotany]]) — 3-5in (7-12cm)
 - **Flowering rush** (Butomus umbellatus) — 3-5in (7-12cm)
 - **Bog arum** (Calla palustris) — 2-4in (5-10cm)
 - **Marsh marigold** (Caltha palustris) — 0-3in (0-7cm)
@@ -72,7 +72,7 @@ A well-designed pond has three zones:
 7. Put rocks in the marsh garden area to provide hibernation sites for frogs
 
 ### Planting in Pots
-Use heavy garden soil or rotted turf. Do NOT use soil rich in organic matter — it will putrefy as it rots. A thin layer of gravel on top prevents soil from floating and stops fish from disturbing it.
+Use heavy garden soil or rotted turf. Do NOT use soil rich in [[hamilton-composting-and-organic-matter-management]] — it will putrefy as it rots. A thin layer of gravel on top prevents soil from floating and stops fish from disturbing it.
 
 ## Locating the Pond
 
@@ -92,6 +92,6 @@ Soon after filling, water may turn pea-green from rapid algae growth — pond wa
 
 ### Thinning Oxygenating Plants
 Occasionally thin out oxygenating plants by pulling some out by hand. Return any animal life on the plants to the pond. Discarded plants go on the [[permaculture-water-systems]]
-- [[permaculture-designers-manual-pond-edge-planting]]
+- permaculture-designers-manual-pond-edge-planting
 - [[gaias-garden-cover-crops-soil-building]]
 - [[hamilton-composting-and-organic-matter-management]]

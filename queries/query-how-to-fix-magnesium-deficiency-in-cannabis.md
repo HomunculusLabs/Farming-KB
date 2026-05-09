@@ -1,10 +1,11 @@
 ---
-title: "How Do I Identify and Fix Magnesium Deficiency in Cannabis?"
+title: "How Do I query-how-to-identify-and-fix-cannabis-iron-deficiency Magnesium Deficiency in Cannabis?"
 created: 2026-04-28
 tags: [query, cannabis, nutrients, deficiency, troubleshooting]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: query
 ---
@@ -14,10 +15,10 @@ type: query
 ## Short Answer
 Magnesium deficiency in cannabis causes interveinal chlorosis (yellowing between leaf
 veins while veins remain green) that typically starts on the lower, older leaves and
-progresses upward. It is one of the most common cannabis nutrient problems, especially
-in hydroponic systems and coco coir where magnesium is not naturally abundant. Treatment
+progresses upward. It is one of the most common [[green-cannabis-nutrient-schedules]] problems, especially
+in hydroponic systems and [[comparison-coco-coir-cannabis-vs-peat-free-gardening]] where magnesium is not naturally abundant. Treatment
 involves applying a magnesium source such as Epsom salt (magnesium sulfate), cal-mag
-supplements, or dolomite lime, and correcting any underlying pH imbalance that may be
+supplements, or [[cervantes-dolomite-lime-ph-buffering]], and correcting any underlying pH imbalance that may be
 preventing magnesium uptake.
 
 ## Detailed Explanation
@@ -46,7 +47,7 @@ applied to the undersides of affected leaves, which bypasses the root uptake pat
 and delivers magnesium directly where it is needed. For systemic correction, adding
 a cal-mag supplement to your regular feeding provides both calcium and magnesium in
 balanced ratios. The [[cannabis-nutrient-lockout-and-ph]] page explains how pH
-affects nutrient availability and provides step-by-step pH adjustment protocols.
+affects [[ph-and-nutrient-availability-garden-soils]] and provides step-by-step pH adjustment protocols.
 Testing your runoff water can reveal whether pH is the root cause of the problem.
 
 Prevention is more effective than treatment. In coco coir grows, adding a cal-mag
@@ -79,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

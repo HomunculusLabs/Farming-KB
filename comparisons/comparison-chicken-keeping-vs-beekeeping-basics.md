@@ -1,10 +1,11 @@
 ---
-title: "Chicken Keeping vs Beekeeping"
+title: "comparison chicken keeping vs beekeeping basics vs Beekeeping"
 created: 2026-04-28
 tags: [comparison, livestock, homesteading, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -41,16 +42,16 @@ of the hive itself.
 | Aspect | Chicken Keeping | Beekeeping |
 |--------|----------------|------------|
 | Primary Products | Eggs, meat, manure | Honey, beeswax, pollination |
-| Ecosystem Service | Pest control, soil fertility | Pollination of crops and wild plants |
+| Ecosystem Service | [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], soil fertility | Pollination of crops and wild plants |
 | Daily Time Commitment | 15 to 30 minutes | 0 to 15 minutes (but seasonal inspection demands) |
 | Learning Curve | Low to moderate | Moderate to steep |
 | Upfront Cost | Low ($200 to $500 for coop and flock) | Moderate ($300 to $600 for hive, tools, and bees) |
 | Predator Challenges | Many (raccoons, hawks, foxes, dogs) | Few (bears, skunks, human theft) |
-| Disease Management | Moderate (coccidiosis, respiratory) | High (varroa mites, nosema, foulbrood) |
+| [[plant-disease-management-solomon]] | Moderate (coccidiosis, respiratory) | High (varroa mites, nosema, foulbrood) |
 | Winter Care | Significant (heating, frostbite) | Moderate (insulation, emergency feeding) |
 | Land Requirement | Moderate (coop plus run or pasture) | Minimal (hive footprint plus forage area) |
 | Neighborhood Impact | Can cause noise and odor complaints | Generally low profile if well-managed |
-| Best For | Food production, soil building, family engagement | Pollination, ecological stewardship, honey production |
+| Best For | Food production, soil building, family engagement | Pollination, ecological stewardship, [[mollison-designers-beekeeping-honey-production-permaculture]] |
 | Drawbacks | Daily commitment, predator pressure, odor | Steep learning curve, stinging risk, colony loss |
 
 ## When to Choose Chicken Keeping
@@ -75,7 +76,7 @@ the natural first choice.
 ## When to Choose Beekeeping
 Choose beekeeping when you are motivated by pollination services and
 ecological stewardship, with honey as a valuable but secondary product.
-Bees are the better choice for growers with fruit trees, vegetable
+Bees are the better choice for growers with [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], vegetable
 gardens, or berry patches that benefit significantly from enhanced
 pollination. A single hive can dramatically increase fruit set in nearby
 orchards and improve yields in cucurbits, berries, and many other crops
@@ -97,7 +98,7 @@ within their permaculture systems. Chickens provide fertility and pest
 control for the garden plants that bees pollinate, creating a
 synergistic loop. See [[bee-forage-plants]] for planting to support both bees
 and the broader ecosystem. In practice, this means siting hives near
-pollinator-dependent crops and chicken coops near garden beds that
+pollinator-dependent crops and [[faires-chicken-coops-tractors-and-breeding-guide]] near garden beds that
 benefit from manure application. The two animals rarely conflict as long
 as chicken coops are not placed immediately adjacent to hive entrances,
 where bird activity could stress the colony. Together, they represent a

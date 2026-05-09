@@ -1,11 +1,12 @@
 ---
-title: Crop Rotation in Natural Farming
+title: Crop Rotation in comparison-natural-farming-vs-permaculture
 created: 2026-04-18
 updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Crop Rotation in Natural Farming
@@ -20,7 +21,7 @@ Fukuoka placed crop rotation in its historical and cultural context. In the Land
 
 However, once man began to think that he grew the rice, scientific discrimination arose, creating a rift between the rice and the land. People lost a sense of unity with nature, leaving in its place only man's relationship with rice cultivation and his relationship with the soil. Modern thinking reduced rice to just another foodstuff.
 
-More than just the staff of life, the rice grown on Japanese soil was the very soul of the Yamato people. But as the activities of the farmer have been lowered in the common perception to the production of rice as another foodstuff, a commercial article, the original purpose of rice production has gradually been corrupted.
+More than just the [[fukuoka-textdoc-staff-of-life-critique-western-dietetics]], the rice grown on Japanese soil was the very soul of the Yamato people. But as the activities of the farmer have been lowered in the common perception to the production of rice as another foodstuff, a commercial article, the original purpose of rice production has gradually been corrupted.
 
 ## Changes in Rice Cultivation Methods
 
@@ -30,15 +31,15 @@ Fukuoka traced the deterioration of Japanese rice farming through four stages:
 
 2. 1950 -- Animal-powered agriculture (increased fertilizer production)
 
-3. 1960 -- Scientific farming (mechanization)
+3. 1960 -- [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] (mechanization)
 
 4. 1970 -- Agribusiness (energy-intensive systemized agriculture)
 
-Prior to the development of scientific agriculture, rice farmers devoted themselves entirely to serving the land that grows the crops. But they gradually turned their attention from the land to the problem of boosting soil fertility. Soil scientists showed that tilling the soil to a depth of one inch can yield five bushels of rice per quarter-acre, and from this concluded that working the soil down to five inches would yield 25 bushels.
+Prior to the development of [[fukuoka-critique-scientific-agriculture-civilization]], rice farmers devoted themselves entirely to serving the land that grows the crops. But they gradually turned their attention from the land to the problem of boosting soil fertility. Soil scientists showed that tilling the soil to a depth of one inch can yield five bushels of rice per quarter-acre, and from this concluded that working the soil down to five inches would yield 25 bushels.
 
 Animal-powered agriculture was later pushed because heavy applications of manure and prepared compost were known to help achieve high yields. But farmers learned that preparing compost is not easy work. Yields failed to improve enough to justify the heavy labor required, peaking at about 22 bushels per quarter-acre.
 
-Although Japanese agricultural technology appears to have progressed rapidly over the last fifty years, the productivity of the land has declined. In terms of quality, this period has been one of retreat rather than advance.
+Although [[fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse]] technology appears to have progressed rapidly over the last fifty years, the productivity of the land has declined. In terms of quality, this period has been one of retreat rather than advance.
 
 ## The Three-Dimensional Orchard
 
@@ -63,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

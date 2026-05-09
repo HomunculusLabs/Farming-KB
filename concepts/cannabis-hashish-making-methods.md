@@ -1,11 +1,11 @@
 ---
-title: Cannabis Hashish Making Methods
+title: oner-cannabis-hashish-production Making Methods
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 # Cannabis Hashish Making Methods
 
@@ -20,7 +20,7 @@ Hashish (hash) is a concentrated cannabis product made by separating and collect
 - When separated and pressed, trichomes form hashish
 
 ### Types of Hash
-- **Dry sift**: Trichomes separated by sieving dry plant material
+- **[[green-cannabis-dry-sift-water-extraction]]**: Trichomes separated by sieving dry plant material
 - **Ice water (bubble hash)**: Trichomes separated using ice water and agitation
 - **Hand-rubbed (charas)**: Trichomes collected by rubbing living plants
 - **Chemical extraction**: Solvent-based (bho, CO2, ethanol) — technically not traditional hash
@@ -72,7 +72,7 @@ Hashish (hash) is a concentrated cannabis product made by separating and collect
 7. Collect material from each bag screen
 8. Each bag contains a different grade of hash
 9. Air-dry the collected hash on cardboard (2-7 days)
-10. Cure in glass jar for 2-4 weeks
+10. Cure in [[sterile-spore-print-collection-glass-jar-technique]] for 2-4 weeks
 
 ### Grading
 - **Micron 120-220**: Lower quality, more plant material, cooking grade
@@ -84,7 +84,7 @@ Hashish (hash) is a concentrated cannabis product made by separating and collect
 - More ice = colder water = better trichome separation
 - Don't over-agitate (damages trichomes, increases plant contamination)
 - Multiple short washes produce better quality than one long wash
-- Dry slowly (2-7 days) to prevent mold
+- Dry slowly (2-7 days) to [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]]
 
 ## Hand-Rubbed (Charas)
 

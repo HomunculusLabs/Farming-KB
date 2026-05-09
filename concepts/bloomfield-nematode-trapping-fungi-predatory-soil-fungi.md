@@ -35,7 +35,7 @@ nitrogen-containing molecules, fungi cannot build their own proteins or
 nucleic acids (DNA and RNA). To augment their vegetarian diets,
 mushroom-forming basidiomycetes attack soil bacteria with secreted
 antibiotics and absorb nutrients from their leaking cells. The mycelia
-of species that form ink-caps, puffballs, and bird's nest fungi are all
+of species that form ink-caps, puffballs, and bird's [[bloomfield-birds-nest-fungi-peridiole-splash-herbivore-dispersal]] are all
 adept predators of bacteria. Other kinds of fungi obtain nitrogen by
 trapping and killing nematode worms.
 
@@ -62,7 +62,7 @@ cuticle, releasing digestive enzymes into the nematode's body cavity.
 Other traps are more elaborate, ranging from adhesive three-dimensional
 cages to explosive constricting rings whose interior wall inflates when
 disturbed by a worm. Nematodes are lured to these ring traps by
-chemical attractants, described as siren songs, that the fungus
+chemical attractants, described as [[bloomfield-siren-songs-fungal-chemical-communication-reproduction-chapter-7]], that the fungus
 secretes into the surrounding soil. As the animal glides through an
 opening in the ring, the trap inflates and grips the animal with a
 pressure of up to 18 atmospheres. This is one of the fastest movements
@@ -83,18 +83,18 @@ critical component of the predatory strategy. Nematodes are
 chemotactic, meaning they navigate toward or away from chemical
 gradients in their environment. Predatory fungi exploit this by
 releasing compounds that mimic the nematode's natural food sources or
-sex pheromones. The worms follow these chemical trails directly into
+[[bloomfield-fungal-sex-pheromones-mating-communication]]. The worms follow these chemical trails directly into
 the traps. This chemical deception transforms what might seem like a
 passive trap into an active hunting system, comparable in principle to
 a spider's web augmented with pheromone lures.
 
 ## Ecological Significance
 
-Nematode-trapping fungi play an important role in soil nutrient cycling
+Nematode-trapping fungi play an important role in soil [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 and population control. Nematodes are among the most abundant animals
 on Earth, and in agricultural soils many species are plant parasites.
 Predatory fungi that suppress nematode populations provide a natural
-form of biological control. The nitrogen released when nematodes are
+form of [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]. The nitrogen released when nematodes are
 digested becomes available to other soil organisms and ultimately to
 plants, creating a pathway from animal protein through fungal
 decomposition to plant nutrition. This predatory ecology underscores
@@ -129,7 +129,9 @@ works within existing soil ecosystems.
 
 ## See Also
 
+- gadd-nematode-trapping-fungi-functional-genomics
+
 - [[query-how-do-fungi-improve-soil-structure]]
-- [[biodiversity-fungi-soil-ecosystems]]
+- biodiversity-fungi-soil-ecosystems
 - [[bloomfield-fungal-reproduction-and-chemical-communication]]
 - [[stachybotrys-chartarum]]

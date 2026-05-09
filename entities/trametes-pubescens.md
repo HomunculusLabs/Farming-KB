@@ -23,7 +23,7 @@ created: 2026-05-07
 
 **Trametes pubescens** (Schwein.) Pilát is a white-rot polypore fungus in the family Polyporaceae, widely distributed across temperate and subtropical regions of the Northern Hemisphere.
 
-It is a close relative of Turkey Tail (*Trametes versicolor*) and shares many of its ecological roles as a primary decomposer of hardwood.
+It is a close relative of Turkey Tail (*[[staycare-trametes-versicolor-bioremediation-applications]]*) and shares many of its ecological roles as a primary decomposer of hardwood.
 
 The species has attracted increasing interest for its production of laccase and other lignin-modifying enzymes with potential biotechnological applications.
 
@@ -59,7 +59,7 @@ The pubescent upper surface is the most reliable field character separating this
 
 ## Distribution and Habitat
 
-Found across Europe, Asia, and North America, particularly in temperate broadleaf forests.
+Found across Europe, Asia, and [[psilocybin-north-america-pacific-northwest]], particularly in temperate broadleaf forests.
 
 Most commonly on dead or dying hardwoods, especially birch (*Betula* spp.), oak (*Quercus* spp.), beech (*Fagus* spp.), and willow (*Salix* spp.).
 
@@ -71,9 +71,9 @@ Fruiting occurs from spring through autumn, with peak sporulation in late summer
 
 Produces laccase (a multicopper oxidase) as its primary extracellular enzyme, with activity levels comparable to or exceeding those of *T. versicolor* in submerged culture.
 
-Laccase from *T. pubescens* has been characterized as a stable enzyme with broad substrate specificity, effective at degrading phenolic compounds, polycyclic aromatic hydrocarbons, and synthetic dyes.
+Laccase from *T. pubescens* has been characterized as a stable enzyme with broad substrate specificity, effective at degrading phenolic compounds, [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons, and synthetic dyes.
 
-Also produces manganese peroxidase (MnP) and lignin peroxidase (LiP) in smaller quantities, contributing to its white-rot decay capability.
+Also produces [[fungal-manganese-peroxidase-remediation]] (MnP) and [[fungal-lignin-peroxidase-veratryl-alcohol]] (LiP) in smaller quantities, contributing to its white-rot decay capability.
 
 Polysaccharide extracts have demonstrated antioxidant activity in vitro, with reported free radical scavenging capacity attributed to β-glucan components.
 
@@ -101,7 +101,7 @@ Optimal growth temperatures range from 25–28°C with relative humidity above 8
 
 Colonization speed is moderate, typically 10–14 days on grain spawn, with fruiting bodies appearing 3–5 weeks after substrate inoculation.
 
-Biological efficiency on hardwood sawdust is moderate (40–60%), lower than dedicated edible species but comparable to other Trametes.
+[[stamets-biological-efficiency-yield]] on hardwood sawdust is moderate (40–60%), lower than dedicated edible species but comparable to other Trametes.
 
 ## Related Species
 

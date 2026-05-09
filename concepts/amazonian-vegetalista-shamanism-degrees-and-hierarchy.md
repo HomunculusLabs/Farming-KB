@@ -1,11 +1,11 @@
 ---
-title: Amazonian Vegetalista Shamanism Degrees and Hierarchy
+title: Amazonian amazonian vegetalista shamanism degrees and hierarchy Degrees and Hierarchy
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  sources: []
 ---
 
 # Amazonian Vegetalista Shamanism Degrees and Hierarchy
@@ -60,7 +60,7 @@ Arkana are spiritual defenses that protect the vegetalista from enemy sorcerers.
 
 ## Healers vs Sorcerers
 
-Amazonian shamanism recognizes both healers (curanderos) and sorcerers (brujos). The distinction is important:
+[[mckenna-food-gods-amazonian-shamanism-ayahuasca]] recognizes both healers (curanderos) and sorcerers (brujos). The distinction is important:
 
 - **Curanderos** work to heal and save lives, using their plant knowledge for medicine
 - **Sorcerers** use virotes (magical darts), marupas (animal familiars), and huani (crystal arrows) to cause harm

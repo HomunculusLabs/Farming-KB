@@ -21,7 +21,7 @@ type: concept
 Wounds caused by surgical interventions require careful attention to
 possible complications signaled by an increase in pain, the presence of
 inflammation, swelling, discharge, discoloration, and/or heat. Post-surgical
-pain management is a critical component of recovery, and many patients
+[[cannabis-pain-management-protocols]] is a critical component of recovery, and many patients
 find conventional analgesics insufficient or burdened with significant side
 effects. The search for effective alternatives has led researchers to
 investigate cannabinoids for their potential role in managing
@@ -31,7 +31,7 @@ Surgical wounds differ from other wounds in that they are intentionally
 created under controlled conditions. However, the body's inflammatory
 response to surgical tissue damage follows the same general pathways as
 traumatic injuries. Key complications include infection, poor wound
-healing, excessive scarring, and chronic pain at the surgical site.
+healing, excessive scarring, and [[cannabis-chronic-pain-management]] at the surgical site.
 Effective pain management not only improves patient comfort but also
 facilitates faster recovery by enabling earlier mobilization and reducing
 stress responses that can impair healing.
@@ -59,7 +59,7 @@ neuropathic pain, and [[blesching-cannabis-wound-care]]
   relief
 - Topical applications at the surgical site may reduce local inflammation
   without systemic effects
-- Start with low doses and titrate slowly to find the therapeutic window
+- Start with low doses and titrate slowly to find the [[blesching-cannabis-therapeutic-window-dosing]]
   (see [[blesching-cannabis-wound-care]] for detailed mind-body perspectives
 on wound healing. The psychological state of the patient significantly
 influences surgical outcomes. Pre-operative anxiety and post-operative

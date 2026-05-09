@@ -1,5 +1,5 @@
 ---
-title: "G-4 (2,5-DIMETHOXY-3,4-(TETRAMETHYLENE)AMPHETAMINE;) -- PIHKAL Entry #83"
+title: "G-4 (2,5-DIMETHOXY-3,4-(TETRAMETHYLENE)AMPHETAMINE;) -- 2c-b-pihkal-entry-20 #83"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -45,7 +45,7 @@ be done is to complete its synthesis and taste it.
 A solution of
 1,4-dimethoxy-5,6,7,8-tetrahydro-beta-naphthaldehyde (see preparation
 under 2C-G-4) in 20 mL nitroethane was treated with 0.13 g anhydrous
-ammonium acetate and heated on the steam bath overnight. The
+ammonium acetate and heated on the [[scythian-cannabis-steam-bath-ritual]] overnight. The
 volatiles were removed under vacuum and the residue, on cooling,
 spontaneously crystallized. This crude rust-colored product (1.98 g)
 was recrystallized from 15 mL boiling MeOH yielding, after filtering
@@ -55,7 +55,7 @@ gold-colored crystals. The mp was 94-94.5 deg C. Anal. (C15H19NO4) C,H.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

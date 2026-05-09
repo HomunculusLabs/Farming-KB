@@ -1,5 +1,5 @@
 ---
-title: How to Grow Shiitake Mushrooms
+title: How to query-how-to-grow-shiitake-mushrooms-on-logs Mushrooms
 created: 2026-04-28
 tags:
   - shiitake
@@ -9,7 +9,8 @@ tags:
   - spawn-preparation
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 ## Overview
@@ -19,17 +20,17 @@ methods, refer to the [[lentinula-edodes]] for species-level taxonomy and strain
 ## Spawn Preparation
 Quality spawn is the foundation of a successful grow. [[spawn-production]] expands
 this topic to include commercial-scale considerations, but the same principles
-apply to home cultivation. Always work in a still-air box or flow hood to avoid
+apply to [[mushroom-home-cultivation-history]]. Always work in a still-air box or [[comparison-laminar-flow-hood-vs-fruiting-chamber]] to avoid
 contamination during transfer.
 ## Log-Based Cultivation
 The traditional method uses freshly cut hardwood logs (oak, beech, or maple)
-inoculated with plug or sawdust spawn. Full details are in
+inoculated with plug or [[growing-gourmet-sawdust-spawn-production-use]]. Full details are in
 [[log-cultivation-methods]]
 page. Key steps include:
 1. **Select logs** 10 to 20 cm in diameter, cut within the past six weeks.
 2. **Drill holes** in a diamond pattern, roughly 15 cm apart along rows spaced
    5 to 10 cm around the log circumference.
-3. **Insert spawn** (plug spawn is tapped in; sawdust spawn is packed with an
+3. **Insert spawn** ([[growing-gourmet-plug-spawn-production]] is tapped in; sawdust spawn is packed with an
    inoculation tool).
 4. **Seal holes** with melted wax to prevent drying and contamination.
 5. **Incubate** logs in a shaded, humid location for 6 to 18 months until fully
@@ -60,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

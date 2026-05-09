@@ -7,7 +7,7 @@ Neurotropic fungi are fungi capable of altering the central nervous system, prod
 
 ### Panaeolus (Fr.) Quél. — 13 species
 
-Coprophilous mushrooms found worldwide on herbivore dung. The genus is cosmopolitan, with species appearing wherever livestock or wild herbivores are present. *Panaeolus subbalteatus* and *Panaeolus cyanescens* are among the best-known neurotropic species in this genus. They are generally small, fragile mushrooms that fruit prolifically after rains. The genus is distinguished by its mottled gills, a feature caused by the simultaneous maturation of basidiospores in patches rather than evenly along the gill surface.
+Coprophilous mushrooms found worldwide on herbivore dung. The genus is cosmopolitan, with species appearing wherever livestock or wild herbivores are present. *[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]* and *Panaeolus cyanescens* are among the best-known neurotropic species in this genus. They are generally small, fragile mushrooms that fruit prolifically after rains. The genus is distinguished by its mottled gills, a feature caused by the simultaneous maturation of basidiospores in patches rather than evenly along the gill surface.
 
 ### Copelandia Bres. — 12 species
 
@@ -19,7 +19,7 @@ Wood-inhabiting fungi, some of which have been confirmed to contain psilocybin. 
 
 ### Pluteus Fr. — 6 species
 
-A genus of wood-inhabiting saprotrophs that includes several psilocybin-containing species, primarily in temperate forests. *Pluteus salicinus* is the most widely recognized neurotropic member of this genus. The free gills and pink spore print distinguish *Pluteus* from many other wood-inhabiting genera. Neurotropic species tend to be found on decaying hardwood logs and stumps in moist, shaded environments.
+A genus of wood-inhabiting saprotrophs that includes several psilocybin-containing species, primarily in temperate forests. *[[gartz-pluteus-salicinus-wood-inhabiting-psilocybin]]* is the most widely recognized neurotropic member of this genus. The free gills and pink spore print distinguish *Pluteus* from many other wood-inhabiting genera. Neurotropic species tend to be found on decaying hardwood logs and stumps in moist, shaded environments.
 
 ### Inocybe (Fr.) Fr. — 6 species
 
@@ -31,7 +31,7 @@ Small, fragile, conical-capped mushrooms found in grasslands, dung, and disturbe
 
 ### Panaeolina (Maire) Maire — 4 species
 
-Closely related to *Panaeolus*, this genus contains several species confirmed to produce psilocybin. *Panaeolina foenisecii* (the haymaker's mushroom) is common in lawns worldwide, though its psilocybin content is generally low and variable.
+Closely related to *Panaeolus*, this genus contains several species confirmed to produce psilocybin. *[[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]* (the haymaker's mushroom) is common in lawns worldwide, though its psilocybin content is generally low and variable.
 
 ## Additional Genera with Reported Psychoactive Properties
 
@@ -41,11 +41,11 @@ The total number of genera implicated in neurotropic activity continues to grow 
 
 ## Problems of Identification and Toxic Confusion
 
-One of the most serious practical concerns in mycology is the potential for confusion between neurotropic fungi and toxic look-alikes. Species in genera such as *Galerina* (which contains deadly amatoxins) can closely resemble *Psilocybe* species in the field. *Galerina marginata*, for example, grows in similar wood-inhabiting habitats as *Psilocybe cyanescens* and has been responsible for fatal poisonings when misidentified. Similarly, *Inocybe* species that contain muscarine rather than psilocybin can cause serious poisoning characterized by sweating, salivation, and gastrointestinal distress. Guzmán, Allen & Gartz emphasized that accurate identification requires microscopic examination, including spore morphology, pileipellis structure, and the presence or absence of chrysocystidia. The blue-staining reaction, while suggestive of psilocybin, is not definitive and can occur in non-neurotropic species or fail to appear in some that do contain psilocybin. Field foraging without expert knowledge poses genuine [[gordon-wasson-comparative-method-ethnomycology]]'s 1955 expedition to Huautla de Jiménez, Oaxaca, where he participated in a velada (night ceremony) led by the Mazatec curandera María Sabina. Wasson's 1957 *Life* magazine article "Seeking the [[albert-hofmann-eleusinian-potion-analysis]], the Swiss chemist who had previously discovered LSD-25, successfully isolated and characterized **psilocybin** and **psilocin** from *Psilocybe mexicana* specimens provided by Heim and Wasson in 1958–1959. This chemical identification inaugurated the modern era of neurotropic mycology, enabling researchers to systematically screen [[guzman-global-distribution-patterns-neurotropic-fungi]] — Biogeographical patterns worldwide
+One of the most serious practical concerns in mycology is the potential for confusion between neurotropic fungi and toxic look-alikes. Species in genera such as *Galerina* (which contains deadly amatoxins) can closely resemble *Psilocybe* species in the field. *Galerina marginata*, for example, grows in similar wood-inhabiting habitats as *Psilocybe cyanescens* and has been responsible for fatal poisonings when misidentified. Similarly, *Inocybe* species that contain muscarine rather than psilocybin can cause serious poisoning characterized by sweating, salivation, and gastrointestinal distress. Guzmán, Allen & Gartz emphasized that accurate identification requires [[fungal-microscopic-examination-mounting-media-techniques]], including spore morphology, pileipellis structure, and the presence or absence of chrysocystidia. The blue-staining reaction, while suggestive of psilocybin, is not definitive and can occur in non-neurotropic species or fail to appear in some that do contain psilocybin. Field foraging without expert knowledge poses genuine [[gordon-wasson-comparative-method-ethnomycology]]'s 1955 expedition to Huautla de Jiménez, Oaxaca, where he participated in a velada (night ceremony) led by the Mazatec curandera María Sabina. Wasson's 1957 *Life* magazine article "Seeking the [[albert-hofmann-eleusinian-potion-analysis]], the Swiss chemist who had previously discovered LSD-25, successfully isolated and characterized **psilocybin** and **psilocin** from *Psilocybe mexicana* specimens provided by Heim and Wasson in 1958–1959. This chemical identification inaugurated the modern era of neurotropic mycology, enabling researchers to systematically screen [[guzman-global-distribution-patterns-neurotropic-fungi]] — Biogeographical patterns worldwide
 
 ## References
 
-- Guzmán, G., Allen, J.W., & Gartz, J. (1998/2000). World-wide distribution of neurotropic fungi. In: A comprehensive treatment of the global diversity and distribution of psilocybin-containing mushrooms.
+- Guzmán, G., Allen, J.W., & Gartz, J. (1998/2000). World-wide [[global-distribution-of-neurotropic-fungi]] fungi. In: A comprehensive treatment of the global diversity and distribution of psilocybin-containing mushrooms.
 - Hofmann, A. et al. (1959). Psilocybin und Psilocin, zwei psychotrope Wirkstoffe aus mexikanischen Rauschpilzen. *Helvetica Chimica Acta*, 42, 1557–1572.
 - Heim, R. & Wasson, R.G. (1958). *Les Champignons Hallucinogènes du Mexique*. Paris: Muséum National d'Histoire Naturelle.
 - Guzmán, G. (1983). *The Genus Psilocybe: A Systematic Revision of the Known Species*. Vaduz: J. Cramer.
@@ -56,7 +56,7 @@ One of the most serious practical concerns in mycology is the potential for conf
 - Allen, J.W. & Merlin, M.D. (1992). Psychoactive fungi in Thailand: Their use and possible dispersal by human agency. *Journal of Ethnopharmacology*, 35, 149–158.
 - Ott, J. (1993). *Pharmacotheon: Entheogenic Drugs, Their Plant Sources and History*. Kennewick, WA: Natural Products Co.
 - Stamets, P. (1996). *Psilocybin Mushrooms of the World*. Berkeley, CA: Ten Speed Press.
-- Gee, S.M. (2004). Mushrooms and mankind: The impact of mushrooms on human consciousness and religion. *International Journal of Medicinal Mushrooms*, 6(2), 101–116.
+- Gee, S.M. (2004). [[arthur-mushrooms-and-mankind-ethnomycology-and-religion]]: The impact of mushrooms on human consciousness and religion. *International Journal of Medicinal Mushrooms*, 6(2), 101–116.
 ## Practical Considerations
 
 When working with Guzman Neurotropic Fungi Genus Diversity Overview, several practical factors should be
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

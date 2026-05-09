@@ -1,5 +1,5 @@
 ---
-title: Lobster Mushroom Hypomyces lactifluorum
+title: Lobster lobster mushroom hypomyces lactifluorum lactifluorum
 created: 2026-04-28
 tags: [mushroom-identification, parasitic-fungi, Hypomyces, mycology]
 date: 2026-04-25
@@ -74,7 +74,7 @@ Beyond Hypomyces, several other genera of mycoparasites are known:
 - **Asterophora**: Its mycelium probes the blackening tissues of
   old milk caps (Lactarius) and russulas, budding its own powdery
   mushrooms at the surface.
-- **Cordyceps**: While most species are insect pathogens, some
+- **Cordyceps**: While most species are [[bloomfield-cordyceps-insect-pathogens-behavior]], some
   infect the underground fruiting bodies of truffles.
 - **Trichoderma**: A soil microorganism used deliberately to
   combat parasitic fungi on farmed mushrooms. It attacks parasites
@@ -84,7 +84,7 @@ Beyond Hypomyces, several other genera of mycoparasites are known:
 ## Parasitic Fungi on Cultivated Mushrooms
 
 Farmed mushrooms are also at risk from mycoparasitic fungi. The
-humid conditions needed for mushroom cultivation encourage conidial
+humid conditions needed for [[accessible-mushroom-cultivation-for-disabilities]] encourage conidial
 fungi that cause dry and wet bubble, shaggy stipe, and cobweb
 disease. Symptoms include bubbling of dead tissue, malformation of
 cap and stem, envelopment in parasitic mycelium, exudation of
@@ -92,9 +92,9 @@ colored drops of fluid, and foul smells. Control is challenging
 because few chemical agents poison a fungal parasite without
 damaging the fungal host.
 
-Sterilized casings and careful control of temperature and humidity
+Sterilized casings and careful control of [[greg-green-temperature-and-humidity-control]]
 in growing rooms help reduce disease outbreaks. The deliberate
-introduction of Trichoderma as a biological control agent is also
+introduction of Trichoderma as a [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent is also
 a successful approach against these parasitic threats.
 
 ## Edibility and Culinary Use
@@ -123,7 +123,7 @@ bite them," some of which are their own relatives.
 ## Season and Habitat
 
 Lobster mushrooms are typically found in late summer through fall
-in coniferous and mixed forests across North America and Europe.
+in coniferous and mixed forests across [[psilocybin-north-america-pacific-northwest]] and Europe.
 They are most commonly associated with the same habitats as their
 Russula and Lactarius hosts: forest floors with adequate moisture
 and organic matter. The parasite is relatively common in areas
@@ -131,11 +131,14 @@ where its hosts are abundant.
 
 ## See Also
 
-- [[oyster-mushroom-viral-diseases]]
-- [[mushroom-identification]] guides
+- oyster-mushroom-viral-diseases
+- mushroom-identification guides
 - parasitic fungi in ecosystems
 - Russula species
 - Lactarius species
 - mycology fundamentals
 - mycoparasitism mechanisms
 - [[hypomyces-aurantius]]
+- [[hypomyces-lactifluorum]]
+- [[russula-brevipes]]
+- [[mushroom-cultivation]]

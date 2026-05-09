@@ -3,9 +3,9 @@
 ## Casing Soil Recipe
 
 ### Standard Peat-Based Recipe
-The following recipe is widely used for psilocybin mushroom cultivation and works well for most dung-loving species:
+The following recipe is widely used for psilocybin [[accessible-mushroom-cultivation-for-disabilities]] and works well for most dung-loving species:
 
-| Ingredient | Parts (by volume) | Function |[[pf-tek-alcohol-flaming-sterilization-method]]
+| Ingredient | Parts (by volume) | Function |
 While some growers use raw or pasteurized casing soil, the referenced source recommends full sterilization:
 
 1. Fill casing soil into oven bags (nylon), autoclave bags (polypropylene), or jars
@@ -14,7 +14,7 @@ While some growers use raw or pasteurized casing soil, the referenced source rec
 4. Handle with clean hands and tools to prevent recontamination
 
 ### Rationale for Sterilization
-The authors note that they have had "only bad experiences with untreated or pasteurised casing soils" — while this contradicts conventional wisdom for *Agaricus* cultivation (where pseudomonad bacteria are beneficial), it reflects the specific contamination challenges encountered in their growing envir [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]] mexicana, P. tampanensis, Panaeolus subbalteatus*), sterilized casing reliably produces better results.
+The authors note that they have had "only bad experiences with untreated or pasteurised [[cotter-casing-soils-microbial-triggers]]" — while this contradicts conventional wisdom for *Agaricus* cultivation (where pseudomonad bacteria are beneficial), it reflects the specific contamination challenges encountered in their growing envir [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]] mexicana, P. tampanensis, [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]*), sterilized casing reliably produces better results.
 
 ## Application
 
@@ -26,7 +26,7 @@ The authors note that they have had "only bad experiences with untreated or past
 
 ### Casing Depth
 - Apply a **1.5–2.0 cm** (approximately ¾ inch) layer of casing soil over the grain
-- The surface [[polyethylene-sheeting-fruiting-bins-small-scale-cultivation]]:
+- The surface polyethylene-sheeting-fruiting-bins-small-scale-cultivation:
 
 - Stackable bins are space-efficient
 - Small holes melted in the sides provide passive air exchange
@@ -42,11 +42,11 @@ The authors note that they have had "only bad experiences with untreated or past
 ## References
 
 - Stamets, P., Chilton, J.S. (1983). The Mushroom Cultivator. Agarikon Press.
-- Gartz, J. (1995). "Cultivation of fruitbodies and sclerotia on sterilised grass seed." Mycological Research Notes.
+- Gartz, J. (1995). "Cultivation of fruitbodies and sclerotia on sterilised [[disposable-tray-casing-method-grass-seed-substrate]]." Mycological Research Notes.
 - Fritsche, G. (1978). "Casing soil." Mushroom Science, 10(1), 631–639.
 ## See Also
 
-- [[oven-bag-casing-soil-sterilization]]
+- oven-bag-casing-soil-sterilization
 ## Practical Considerations
 
 When working with Casing Soil Mushroom Cultivation, several practical factors should be
@@ -63,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +105,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: Steroid-Induced Anatomical Changes in Psilocybe cubensis Fruiting Bodies
+title: Steroid-Induced steroid induced anatomical changes psilocybe cubensis fruiting in brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting Fruiting Bodies
 concept_type: biological_phenomenon
 domain: mycology
 source: Gartz, Adam & Vorbrodt (1990) Naturwissenschaften 77:388-389
@@ -16,7 +16,7 @@ tags: [brassinosteroid, morphology, annulus, fruiting-body, psilocybe-cubensis, 
 ## Overview
 
 The 1990 study by Gartz, Adam, and Vorbrodt documented a remarkable and
-previously unreported morphological effect of brassinosteroid treatment on the
+previously unreported [[annulus-loss-morphological-effect-brassinosteroid-treatment]] of brassinosteroid treatment on the
 fruiting bodies of Psilocybe cubensis: the complete or near-complete loss of
 the membranous annulus (ring) on the stem. This observation, alongside
 suppressed formation of incomplete fruit bodies, demonstrates that plant
@@ -70,7 +70,7 @@ expression of genes involved in tissue differentiation.
 
 ## Possible Mechanisms
 
-The mechanism by which a plant steroidal hormone suppresses annulus formation
+The mechanism by which a plant steroidal hormone suppresses [[brassinosteroid-suppressed-annulus-formation-psilocybe-cubensis]]
 in a fungus remains unknown, but several hypotheses can be proposed:
 
 ### Veil Development Disruption
@@ -112,7 +112,7 @@ Psilocybe cubensis:
 ## Broader Context: Chemical Morphogenesis in Fungi
 
 The Gartz et al. finding joins a small but significant body of literature
-showing that chemical additives can alter mushroom morphology:
+showing that chemical additives can alter [[pf-tek-mushroom-morphology-and-lifecycle-stages]]:
 
 - **Tryptamine derivatives**: Gartz's own work showed that adding tryptamine
   to substrates increased psilocybin/psilocin content in P. cubensis
@@ -140,10 +140,10 @@ Several questions remain unanswered from the original study:
 
 ## See Also
 
+- [[track-changes]]
+
 - [[suppressed-incomplete-fruit-body-formation-brassinosteroid-treatment]]
 - [[brassinosteroid-suppressed-annulus-formation-psilocybe-cubensis|psilocybe cubensis fruiting body morphology]]
-- mushroom fruiting abnormalities malformations
+- mushroom [[growing-gourmet-fruiting-abnormalities-malformations]] malformations
 
 ## See Also
-
-- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]

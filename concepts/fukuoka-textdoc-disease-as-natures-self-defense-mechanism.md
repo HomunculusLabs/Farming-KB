@@ -31,7 +31,7 @@ He writes that diseases and pest damage are self-defense measures taken by natur
 Fukuoka's experience with the yellow rice borer eradication campaign in Kochi Prefecture serves as a primary illustration. The campaign used post-season cultivation to eliminate the pest completely, yet food production did not increase. The reasons were instructive:
 
 - Damage by rice borers is always overestimated since white heads of grain stand out visually. Actual harvest losses rarely exceed ten percent, and often less than five percent.
-- Damage is highly localized; some fields show thirty percent damage while others show virtually none. Science focuses on the worst cases while natural farming studies the fields that escape damage.
+- Damage is highly localized; some fields show thirty percent damage while others show virtually none. Science focuses on the worst cases while [[comparison-natural-farming-vs-permaculture]] studies the fields that escape damage.
 - When rice is grown with heavy fertilizer, borers congregate on the soft, vulnerable plants. If left alone, damage remains limited to perhaps one percent of the field. The insects do not spread out and devastate surrounding areas.
 - After the borer was eradicated, damage by rice stem borers and cutworms increased instead. Nature has mechanisms for self-control unknown to man.
 - Insect pests and crop diseases sometimes offset each other. A decline in insect infestation followed by rice blast disease or sclerotium rot can open up a new can of worms.
@@ -42,7 +42,7 @@ The first thing that pops into the head of an agricultural scientist when he see
 
 Fukuoka documented how a single application of pesticide sets off a devastating chain of destruction in the rice field ecosystem. The first application kills tens of thousands of young spiders per square yard, fireflies, and swarms of dragonfly larvae, tadpoles, and loaches. The second application eliminates chalcid wasps, which are important natural predators. Subsequent applications kill progressively more organisms, creating an ever-worsening spiral of ecological destruction.
 
-The result is a field stripped of its natural defenses, requiring ever more chemical intervention. This is what Fukuoka calls the treadmill of scientific agriculture. What sense does it make if, having exterminated yellow rice borers, damage by rice stem borers and cutworms increases?
+The result is a field stripped of its natural defenses, requiring ever more chemical intervention. This is what Fukuoka calls the treadmill of [[fukuoka-critique-scientific-agriculture-civilization]]. What sense does it make if, having exterminated yellow rice borers, damage by rice stem borers and cutworms increases?
 
 ## The Sparrow Parable
 
@@ -60,7 +60,7 @@ Ticks and mites do present a problem, but the conditions under which parasites a
 
 ## The Botrytis Incident: How Pesticides Create New Problems
 
-Fukuoka described an incident with loquat orchards in his village where a botrytis fungus outbreak was blamed on cold weather. He identified it as botrytis disease and recommended spraying. The disease was brought under control, but Fukuoka later realized the outbreak had likely been triggered by the sudden application of new pesticides for citrus disease control. Causes for the emergence included: interplanting of citrus trees in loquat groves, rapid transition to mulching and sod cultivation creating excess humidity, promotion of thinning fruit practice where young fruit dropped to ground and were colonized by fungi, and the discontinuation of Bordeaux mixture in favor of new pesticides.
+Fukuoka described an incident with loquat orchards in his village where a botrytis fungus outbreak was blamed on cold weather. He identified it as botrytis disease and recommended spraying. The disease was brought under control, but Fukuoka later realized the outbreak had likely been triggered by the sudden application of new pesticides for citrus [[hamilton-pest-and-disease-control-organic]]. Causes for the emergence included: interplanting of citrus trees in loquat groves, rapid transition to mulching and sod cultivation creating excess humidity, promotion of thinning fruit practice where young fruit dropped to ground and were colonized by fungi, and the discontinuation of Bordeaux mixture in favor of new pesticides.
 
 The broader lesson: spraying pesticides with high residual toxicity and mutagenic chemicals onto easily mutated microbes invites the emergence of new pesticide-resistant pathogens and highly parasitic microbes. Lower organisms like bacteria and fungi can produce new strains far more readily than advanced plants and animals.
 
@@ -80,13 +80,13 @@ This is why Fukuoka concludes that the only effective approach to revegetating b
 
 Fukuoka observed that in Kochi Prefecture, with its warm temperatures and high humidity, rice growth is too luxuriant. Disease and pest attack is one method taken by nature for suppressing excessive growth, but man applies a nearsighted interpretation, seeing such damage rather as injury and harm. These outbreaks have a role to play in the natural scheme of things. Without this natural corrective mechanism, over-vigorous growth would exhaust the soil and weaken the entire ecosystem.
 
-The same principle applies to fruit trees. In Fukuoka's natural orchard, fruit trees grew among an odd assortment of other vegetation with irregular growth and poor harvests in some cases, yet there was very little damage from disease and insects. This seemed hard to believe, with some fruit trees even growing in the shadow of other trees, yet they were spared attack. The diversity of the ecosystem itself provided protection.
+The same principle applies to fruit trees. In Fukuoka's [[fukuoka-natural-orchard-development]], fruit trees grew among an odd assortment of other vegetation with irregular growth and poor harvests in some cases, yet there was very little damage from disease and insects. This seemed hard to believe, with some fruit trees even growing in the shadow of other trees, yet they were spared attack. The diversity of the ecosystem itself provided protection.
 
 ## The Soil Ecosystem Connection
 
 Fukuoka connected pest problems directly to soil health. When fields are repeatedly plowed and fertilized, the soil becomes a dead mineral medium rather than a living ecosystem. Without the complex community of microorganisms, nematodes, earthworms, insects, and other organisms that inhabit healthy soil, crops become vulnerable to attack. The soil microbes that abound in the soil live and die, supplying growing plants with nutrients absorbed through the plant roots. All three, animals, plants, and microbes, are one; they prey on each other and they also coexist and mutually benefit each other.
 
-When man applies chemical fertilizers and pesticides, he destroys this living community. The land developed with a bulldozer and left virtually bare for ten years is washed free of its topsoil. Levees and walkways made of concrete upset and destroy the community of soil microbes, gradually turning the soil into dead mineral matter. It is this dead soil that produces weak, pest-susceptible crops.
+When man applies [[cervantes-chemical-fertilizers-guide]] and pesticides, he destroys this living community. The land developed with a bulldozer and left virtually bare for ten years is washed free of its topsoil. Levees and walkways made of concrete upset and destroy the community of soil microbes, gradually turning the soil into dead mineral matter. It is this dead soil that produces weak, pest-susceptible crops.
 
 ## Natural Pest Balance in the Field Ecosystem
 
@@ -108,7 +108,7 @@ For the practicing farmer, Fukuoka's philosophy means:
 2. Ask why an outbreak occurred rather than immediately reaching for a pesticide.
 3. Recognize that luxuriant, over-fertilized growth invites pest attack as a natural corrective measure.
 4. Understand that healthy soil supporting a full ecosystem of microorganisms, insects, and plants provides its own pest management.
-5. Accept that some level of pest presence is normal and even necessary for ecological balance.
+5. Accept that some level of pest presence is normal and even necessary for [[fukuoka-ecological-balance-principles]].
 6. Build soil biology through ground covers, mulching, and minimal disturbance rather than through chemical inputs.
 7. Embrace diversity in the farming system as a natural defense against concentrated pest attack.
 
@@ -119,3 +119,7 @@ For the practicing farmer, Fukuoka's philosophy means:
 - [[fukuoka-textdoc-botrytis-outbreak-pesticide-microbial-mutation]]
 - [[fukuoka-natural-livestock-farming]]
 - [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]]
+
+## See Also
+
+- [[fukuoka-textdoc-natures-refuse-processing-microbial-self-governance]]

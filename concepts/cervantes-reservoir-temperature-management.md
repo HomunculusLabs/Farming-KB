@@ -1,5 +1,5 @@
 ---
-title: Reservoir Temperature Management
+title: cervantes reservoir temperature management Management
 created: 2026-04-28
 tags:
   - cannabis
@@ -10,15 +10,16 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Reservoir Temperature Management
 
-Nutrient solution temperature is a critical but often overlooked
-factor in hydroponic cannabis cultivation. Jorge Cervantes explains
-how reservoir temperature affects dissolved oxygen, nutrient uptake,
+[[cannabis-nutrient-solution-preparation]] temperature is a critical but often overlooked
+factor in hydroponic [[query-how-does-no-till-cannabis-cultivation-work]]. Jorge Cervantes explains
+how reservoir temperature affects [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]], [[plant-nutrient-uptake-mechanisms]],
 disease susceptibility, and overall plant health.
 
 ## Ideal Temperature Range
@@ -26,7 +27,7 @@ disease susceptibility, and overall plant health.
 The temperature of the nutrient solution should stay between 60-75
 degrees F (15-24 degrees C). Within this range, the solution holds
 adequate dissolved oxygen for healthy root function while maintaining
-sufficient metabolic activity for nutrient uptake.
+sufficient [[arbuscule-isolation-metabolic-activity-assays]] for nutrient uptake.
 
 ## The Oxygen-Temperature Relationship
 

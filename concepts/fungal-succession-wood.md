@@ -3,12 +3,11 @@ title: fungal-succession on Decomposing Wood
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology, fungi]
-sources: []
+tags: [mycology, fungi]
+sources:
+  sources: []
 ---
-# Fungal Succession on Decomposing Wood
-## Overview
-The [[soil-food-web]], see the [[enzymatic-degradation-in-mycoremediation]]
+# Fungal Succession on Decomposing Wood ## Overview The [[soil-food-web]], see the [[enzymatic-degradation-in-mycoremediation]]
 - **Hemicellulose** (20-30%): Branched polymers of various sugars; more easily degraded than cellulose
 - **Lignin** (20-30%): Complex, irregular polymer of phenylpropanoid units; extremely resistant to degradation
 - **Extractives**: Resins, tannins, and other secondary compounds; vary among species and can inhibit fungal growth
@@ -29,9 +28,9 @@ The [[soil-food-web]], see the [[enzymatic-degradation-in-mycoremediation]]
 ### Brown Rot
 - Cellulose and hemicellulose degraded but lignin largely remaining
 - Characterized by brown, cubical cracking of wood
-- Residue is lignin-rich, contributing to humus formation
+- Residue is lignin-rich, contributing to [[lowenfels-humus-formation-benefits]]
 - Produced primarily by certain Basidiomycota
-- Mechanism: Fenton chemistry (hydroxyl radical generation)
+- Mechanism: [[bioremediation-fenton-chemistry-brown-rot-fungi]] (hydroxyl radical generation)
 - Species: Serpula, Gloeophyllum, Postia, Tyromyces, Piptoporus
 ### Soft Rot
 - Cellulose degraded from lumen of wood cells; creates cavities
@@ -49,13 +48,13 @@ The [[soil-food-web]], see the [[enzymatic-degradation-in-mycoremediation]]
 - **Moisture dynamics**: Wood moisture changes as decay progresses
 - **Competition**: Combative interactions determine which species persist
 - **Enzymatic capabilities**: Different species produce different enzyme complements
-- **Physical conditions**: Temperature, moisture, oxygen availability change through decay
-- **Invertebrate activity**: Wood-boring insects create entry points and fragment wood
+- **Physical conditions**: Temperature, moisture, oxygen [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] through decay
+- **Invertebrate activity**: Wood-boring [[fukuoka-insects-create-new-rice-varieties]] entry points and fragment wood
 ## Fungal Interactions During Succession
 ### Antagonism
 - **Antibiotic production**: Some fungi produce metabolites inhibitory to competitors
 - **Enzyme interference**: Enzymes of one species may inactivate those of another
-- **Volatile organic compounds**: Trichoderma and other genera use volatiles to inhibit competitors
+- **[[fungal-volatile-organic-compounds-communication]] compounds**: Trichoderma and other genera use volatiles to inhibit competitors
 - **Hyphal interference**: Physical contact can trigger defensive reactions
 ### Replacement
 - Later colonizers can replace earlier ones through combative ability
@@ -85,7 +84,7 @@ The [[soil-food-web]], see the [[enzymatic-degradation-in-mycoremediation]]
   - Mosses, liverworts, and vascular plants
 ### Nutrient Cycling
 - Release of nitrogen, phosphorus, and other nutrients locked in wood
-- Nitrogen fixation by some wood-inhabiting fungi
+- [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] by some wood-inhabiting fungi
 - Mycorrhizal connections through wood-decay networks
 ## See Also
-- [[fungal-wood-decay-types]]
+- fungal-wood-decay-types

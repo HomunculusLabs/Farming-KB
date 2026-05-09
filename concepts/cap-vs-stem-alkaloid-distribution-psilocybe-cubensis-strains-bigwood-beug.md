@@ -1,5 +1,5 @@
 ---
-title: Cap vs Stem Alkaloid Distribution in Psilocybe Cubensis Strains Bigwood Beug
+title: Cap vs Stem Alkaloid Distribution in psilocybe-cubensis Strains Bigwood Beug
 source: variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
 tags: [psilocybe-cubensis, cap, stem, psilocybin, psilocin, alkaloid, distribution, strain]
 created: 2026-05-08
@@ -9,13 +9,13 @@ created: 2026-05-08
 
 ## Overview
 
-The 1982 Bigwood and Beug study included a detailed analysis of psilocybin and psilocin distribution between the cap (pileus) and stem (stipe) of Psilocybe cubensis fruiting bodies. This analysis was conducted on three different strains — M.R., Equadorian, and Amazon — all cultivated on rye-grain substrate and harvested from the first flush. The results revealed consistent patterns as well as intriguing strain-specific differences in how alkaloids are distributed within the mushroom.
+The 1982 Bigwood and Beug study included a detailed analysis of [[hplc-analysis-of-psilocybin-and-psilocin]] distribution between the cap (pileus) and stem (stipe) of Psilocybe cubensis fruiting bodies. This analysis was conducted on three different strains — M.R., Equadorian, and Amazon — all cultivated on rye-grain substrate and harvested from the first flush. The results revealed consistent patterns as well as intriguing strain-specific differences in how alkaloids are distributed within the mushroom.
 
 ## The Three Strains Analyzed
 
 ### Amazon Strain
 
-The Amazon strain was the primary study strain, originating from a spore print collected near Pucallpa, Peru (Repke et al., 1977). This strain was used for the multi-flush variation study and was also included in the cap-versus-stem analysis.
+The Amazon strain was the primary study strain, originating from a [[spore-print]] collected near Pucallpa, Peru (Repke et al., 1977). This strain was used for the multi-flush variation study and was also included in the cap-versus-stem analysis.
 
 ### M.R. Strain
 
@@ -44,7 +44,7 @@ All three strains were analyzed from first-flush harvests, with caps and stems s
 
 In both the M.R. and Equadorian strains, caps contained approximately **twice as much psilocybin** as stems. The M.R. strain showed 8.7 mg/g in caps versus 4.2 mg/g in stems (a 2.07:1 ratio), while the Equadorian strain showed 7.6 mg/g in caps versus 4.7 mg/g in stems (a 1.62:1 ratio).
 
-This cap-concentration pattern is consistent with general mycological understanding: the cap is the reproductive structure of the mushroom and tends to concentrate secondary metabolites, including the tryptamine alkaloids that may serve defensive or signaling functions in the fruiting body.
+This cap-concentration pattern is consistent with general mycological understanding: the cap is the reproductive structure of the mushroom and tends to concentrate [[antifungal-secondary-metabolites-coprophilous-fungi]], including the [[hplc-analysis-of-tryptamine-alkaloids]] that may serve defensive or signaling functions in the fruiting body.
 
 ### Amazon Strain: Equal Distribution
 
@@ -80,7 +80,7 @@ The strain-dependent distribution of psilocin raises questions about the biosynt
 
 ### First-Flush Context
 
-All three strains were analyzed from first-flush harvests, a context in which psilocin levels are typically at their lowest. The study's multi-flush data showed that psilocin is generally absent or minimal in the first flush and increases in subsequent flushes. If these strains had been analyzed from third or fourth flushes, the psilocin distribution patterns might have been more pronounced and potentially different.
+All three strains were analyzed from first-flush harvests, a context in which psilocin levels are typically at their lowest. The study's multi-flush data showed that psilocin is generally absent or minimal in the first flush and increases in subsequent flushes. If these strains had been analyzed from third or fourth flushes, the psilocin [[fungal-biogeography-distribution-patterns]] might have been more pronounced and potentially different.
 
 ## Practical Implications for Consumers
 
@@ -116,6 +116,6 @@ The detection limit of approximately 0.01 μg for both psilocybin and psilocin m
 ## See Also
 
 - [[psilocybe-cubensis-cap-stem-alkaloid-distribution-strain-comparison]]
-- [[bigwood-beug-psilocybin-psilocin-variation-analysis]]
+- bigwood-beug-psilocybin-psilocin-variation-analysis
 - [[psilocybin-psilocin-variation-flushes-cubensis]]
 - [[psilocybe-cubensis-potency-variation-by-flush]]

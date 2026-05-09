@@ -20,7 +20,7 @@ sources:
 
 **Eucheuma cottonii** is a red marine macroalga historically classified in the family Solieriaceae, now widely referred to as **Kappaphycus alvarezii** (Doty) Doty ex Silva following taxonomic revision. It is one of the most important sources of kappa-carrageenan globally.
 
-The species is a tropical seaweed cultivated extensively in Southeast Asia, East Africa, and the Pacific Islands.
+The species is a tropical seaweed cultivated extensively in [[psilocybe-southeast-asia-pacific]], East Africa, and the Pacific Islands.
 Its carrageenan is used as a gelling, thickening, and stabilizing agent in food, cosmetics, and pharmaceutical industries.
 
 Commercial cultivation began in the Philippines in the 1960s and has since expanded to become one of the largest seaweed farming operations worldwide, supporting millions of smallholder farmers in tropical developing countries.
@@ -40,7 +40,7 @@ Color ranges from greenish-yellow to reddish-brown depending on light, depth, an
 The texture is firm and rubbery, with a smooth surface.
 
 Growth occurs through apical meristems at branch tips.
-The species reproduces vegetatively in cultivation, with sexual reproduction rarely observed in farmed populations.
+The species reproduces vegetatively in cultivation, with [[fungal-life-cycles-sexual-reproduction-metamorphosis]] rarely observed in farmed populations.
 
 ## Distribution and Habitat
 

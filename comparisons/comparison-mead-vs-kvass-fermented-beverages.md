@@ -1,5 +1,5 @@
 ---
-title: Mead vs Kvass — Fermented Honey vs Fermented Bread Beverages
+title: [[comparison-mead-making-vs-beer-brewing]] vs kvass fermented beverages — Fermented Honey vs Fermented Bread Beverages
 tags:
   - mead
   - kvass
@@ -32,7 +32,7 @@ created: 2026-05-07
 | **Base ingredient** | Honey + water + yeast | Rye bread + water + natural/wild microflora |
 | **Alcohol content** | 4–20% ABV (wide range) | 0.5–2.5% ABV |
 | **Fermentation time** | Weeks to years | 1–3 days |
-| **Primary organism** | *[[lactic-acid-bacteria-lab]] bacteria + [[mexican-mushroom-stones-archaeological-evidence]] from Jiahu, China dating to ~7000 BCE, and widespread presence in ancient European, African, and Asian cultures. Mead occupies a vast stylistic spectrum:
+| **Primary organism** | *[[lactic-acid-bacteria-lab]] bacteria + mexican-mushroom-stones-archaeological-evidence from Jiahu, China dating to ~7000 BCE, and widespread presence in ancient European, African, and Asian cultures. Mead occupies a vast stylistic spectrum:
 
 - **Traditional mead**: Honey + water. Can be still, sparkling, or petillant.
 - **Melomel**: Mead with fruit (e.g., cyser = apple mead, pyment = grape mead).
@@ -59,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -96,9 +96,8 @@ advance the field as a whole. Cross-pollination of ideas from biology,
 ecology, data science, and traditional knowledge systems generates novel
 perspectives and solutions that may not emerge within any single domain.
 
-For continued learning, recommended resources include current research
+For continued learning, recommended resources include [[psychedelic-therapy-current-research]]
 publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

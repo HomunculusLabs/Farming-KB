@@ -4,14 +4,15 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
-sources: []
+sources:
+  sources: []
 ---
 
 Updated: 2026-04-18
 
 ## Overview
 
-R. Gordon Wasson (1898-1986), a vice president of J.P. Morgan and amateur mycologist, proposed one of the most influential theories about cultural attitudes toward mushrooms: the mycophobia-mycophilia dichotomy. This theory, developed through decades of cross-cultural research, argues that human societies can be divided into two fundamental types based on their relationship with mushrooms — a division that shapes cuisine, folklore, language, and even religion.
+R. Gordon Wasson (1898-1986), a vice president of J.P. Morgan and amateur mycologist, proposed one of the most influential theories about [[weil-cultural-attitudes-toward-altered-states]] toward mushrooms: the mycophobia-mycophilia dichotomy. This theory, developed through decades of cross-cultural research, argues that human societies can be divided into two fundamental types based on their relationship with mushrooms — a division that shapes cuisine, folklore, language, and even religion.
 
 Source: [[allegro-colour-and-consistency-of-the-amanita-muscaria]]). This controversial thesis linked mushroom use to some of the earliest religious traditions in human history.
 
@@ -31,7 +32,7 @@ The very existence of the word "toadstool" in English is evidence of mycophobia:
 ### Culinary Evidence
 
 The contrast in mushroom cuisine between mycophilic and mycophobic cultures is stark:
-- Poland alone has traditional preparations for dozens of wild mushroom species
+- Poland alone has traditional preparations for dozens of [[emcdda-wild-mushroom-foraging-misidentification-hazards]] species
 - In mycophobic cultures, mushroom consumption is typically limited to a few cultivated species (button mushrooms, portobello)
 - Traditional British and American cookbooks historically contained few or no wild mushroom recipes
 
@@ -63,8 +64,8 @@ Wasson's dichotomy has been criticized as overly simplistic:
 ### Environmental Factors
 
 Some scholars argue that environmental factors influence mycophobic/mycophilic tendencies:
-- Regions with fewer edible mushroom species (or more toxic ones) may naturally develop more cautious attitudes
-- Areas with long histories of forest foraging may naturally develop mycophilic traditions
+- Regions with fewer [[bloomfield-boletus-satanus-edible-mushroom-hazards]] species (or more toxic ones) may naturally develop more cautious attitudes
+- Areas with long histories of [[mollison-designers-winter-forest-foraging-wildlife-cooperation]] may naturally develop mycophilic traditions
 - Climate and landscape type affect mushroom diversity and cultural familiarity
 
 ### Historical Change
@@ -87,7 +88,11 @@ Despite its limitations, Wasson's theory remains one of the most influential fra
 ***
 ## Related
 
-- [[mushroom-foraging-traditions-europe]]
+- [[mycophobia-in-western-culture]]
+
+- [[wasson-mycophobia-mycophilia-theory-critique]]
+
+- mushroom-foraging-traditions-europe
 - [[soma-controversy-fly-agaric-as-divine-mushroom]]
 - [[fairy-rings-folklore-and-science]]
-- [[mushroom-symbolism-western-art]]
+- mushroom-symbolism-western-art

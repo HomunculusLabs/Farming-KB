@@ -1,5 +1,5 @@
 ---
-title: Ingham — AACT Testing Methods
+title: Ingham — AACT soil-testing-methods-interpretation
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 # Ingham — AACT Testing Methods
 
-In the *Field Guide for AACT*, Dr. Ingham strongly advocates for direct microscopy as the primary method for assessing compost tea quality, distinguishing it sharply from plate count methods. Testing is considered essential for anyone serious about [[compost-tea-aact]], [[soil-food-web-assessment]], [[ingham-aact-disease-suppression]], [[thermal-composting-vs-aact]], [[cannabis-delivery-methods-comparison]], [[cannabis-extraction-methods]], [[aact-compost-organism-levels]]
+In the *[[ghouled-field-guide-historical-context]] for AACT*, Dr. Ingham strongly advocates for direct microscopy as the primary method for assessing [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]] quality, distinguishing it sharply from plate count methods. Testing is considered essential for anyone serious about [[compost-tea-aact]], [[soil-food-web-assessment]], [[ingham-aact-disease-suppression]], [[thermal-composting-vs-aact]], [[cannabis-delivery-methods-comparison]], [[cannabis-extraction-methods]], [[aact-compost-organism-levels]]
 ## Background and Context
 
 Ingham — AACT Testing Methods is an important subject that has garnered significant attention
@@ -139,4 +139,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

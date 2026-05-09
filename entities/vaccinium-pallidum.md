@@ -10,9 +10,9 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Vander Kloet, S.P. (1988). "The Genus Vaccinium in North America." Research Branch, Agriculture Canada.
+  - Vander Kloet, S.P. (1988). "The Genus Vaccinium in psilocybin-north-america-pacific-northwest." Research Branch, Agriculture Canada.
   - USDA NRCS (2024). "Vaccinium pallidum Aiton — Blue Ridge Blueberry." PLANTS Database.
-  - Camp, W.H. (1945). "The North American Blueberries with Notes on Other Groups of Vacciniaceae." Brittonia, 5(3), 203-275.
+  - Camp, W.H. (1945). "The [[growing-gourmet-north-american-reishi-species]] Blueberries with Notes on Other Groups of Vacciniaceae." Brittonia, 5(3), 203-275.
   - Ballington, J.R. (2001). "Collection, utilization, and preservation of genetic resources in Vaccinium." Acta Horticulturae, 574, 21-28.
 ---
 
@@ -82,7 +82,7 @@ White-tailed deer browse the foliage moderately, though the shrub is not a prefe
 
 The rhizomatous root system helps stabilize soils on steep, erodible slopes.
 
-The ericoid mycorrhizal associations of the roots enhance nutrient uptake in the acidic, nutrient-poor soils the species inhabits.
+The [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] associations of the roots enhance [[plant-nutrient-uptake-mechanisms]] in the acidic, nutrient-poor soils the species inhabits.
 
 ## Culinary and Nutritional Value
 
@@ -114,9 +114,9 @@ Softwood cuttings taken in mid-summer root moderately well under intermittent mi
 
 Division of established clumps in early spring is the simplest vegetative propagation method.
 
-The species shows excellent drought tolerance once established, requiring minimal supplemental irrigation.
+The species shows excellent [[dighton-fungal-drought-tolerance-plant-water-relations]] once established, requiring minimal supplemental irrigation.
 
-It has good resistance to many common blueberry pests and diseases, including mummy berry and botrytis.
+It has good resistance to many common blueberry [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]], including mummy berry and botrytis.
 
 Ornamental value derives from its glossy foliage, spring flowers, and colorful autumn foliage in shades of red and orange.
 
@@ -125,5 +125,5 @@ Ornamental value derives from its glossy foliage, spring flowers, and colorful a
 - [[vaccinium-angustifolium]]
 - [[vaccinium-vitis-idaea]]
 - [[gaylussacia-baccata]]
-- [[arctostaphylos-uva-ursi]]
-- [[gaultheria-procumbens]]
+- arctostaphylos-uva-ursi
+- gaultheria-procumbens

@@ -1,5 +1,5 @@
 ---
-title: Rhizosphere Bacteria and Plant Interaction
+title: lowenfels rhizosphere bacteria plant interaction and Plant Interaction
 created: 2026-04-28
 tags:
   - soil-biology
@@ -28,7 +28,7 @@ farming its own microbiome to secure nutrients and protection.
 
 Plants allocate a substantial portion of their photosynthetically fixed carbon
 to the rhizosphere in the form of root exudates. These include sugars, amino
-acids, organic acids, mucilage, phenolics, and various secondary metabolites.
+acids, organic acids, mucilage, phenolics, and various [[antifungal-secondary-metabolites-coprophilous-fungi]].
 Depending on the species and environmental conditions, plants may channel 10
 to 40 percent of their total photosynthate belowground. This is not wasted
 energy; rather, it represents a deliberate investment in recruiting beneficial
@@ -53,13 +53,13 @@ and protection against pathogens.
 Plant growth-promoting rhizobacteria represent a functional category of
 bacteria that directly enhance plant growth through several mechanisms:
 
-- **Nitrogen fixation:** Rhizobia and free-living diazotrophs convert
+- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]:** Rhizobia and free-living diazotrophs convert
   atmospheric nitrogen into ammonium available to plants.
 - **Phosphate solubilization:** Certain bacteria produce organic acids that
   dissolve mineral phosphates, making phosphorus bioavailable.
 - **Phytohormone production:** PGPR synthesize auxins, cytokinins, and
   gibberellins that stimulate root development and shoot growth.
-- **Siderophore production:** These iron-chelating compounds sequester iron,
+- **[[singh-fungal-siderophore-production-iron-acquisition]]:** These iron-chelating compounds sequester iron,
   making it available to the plant while denying it to pathogenic microbes.
 - **ACC deaminase activity:** Some bacteria break down the ethylene precursor
   ACC, reducing stress-induced ethylene levels in plants.
@@ -69,7 +69,7 @@ bacteria that directly enhance plant growth through several mechanisms:
 The root-bacteria interface functions as a biological trading post. Plants
 provide carbon-rich exudates, and in return, bacteria mineralize nutrients
 from organic matter and soil minerals, converting them into plant-available
-forms. Bacteria are particularly important for nitrogen cycling in the
+forms. Bacteria are particularly important for [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]] in the
 rhizosphere. They decompose organic nitrogen compounds, releasing ammonium
 through ammonification. Nitrifying bacteria then convert ammonium to nitrate.
 This bacterial-mediated nutrient cycling is far more efficient and sustainable
@@ -81,7 +81,7 @@ nutrients at rates plants can absorb.
 Bacterial biofilms on root surfaces serve as a physical and chemical barrier
 against soil-borne pathogens. Beneficial bacteria in these biofilms compete
 with pathogens for space and nutrients, produce antimicrobial compounds, and
-can trigger induced systemic resistance in the plant. The concept of
+can trigger [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance in the plant. The concept of
 disease-suppressive soils, as discussed in [[lowenfels-cover-crops-soil-biology]]
 describe how living roots year-round maintain exudate flow. Adding
 [[lowenfels-soil-protozoa-cycling]], which

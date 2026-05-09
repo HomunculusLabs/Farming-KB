@@ -1,11 +1,11 @@
 ---
-title: "How do I choose a hydroponic system for cannabis or vegetables?"
+title: "How do I query how do i choose a hydroponic system for cannabis or vegetables system for cannabis or vegetables?"
 created: 2026-04-28
 tags: [query, hydroponics, cannabis, systems]
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 type: query
 ---
 
@@ -23,7 +23,7 @@ The best system is the one you can monitor consistently, clean thoroughly, and k
 
 ### Start with crop biology
 
-Hydroponic crops differ in root mass, nutrient demand, and sensitivity to stress.
+Hydroponic crops differ in root mass, [[vegetable-nutrient-demand-levels]], and sensitivity to stress.
 Lettuce, basil, and many herbs can thrive in shallow systems with modest nutrient strength.
 Tomatoes, peppers, cucumbers, and cannabis need more structure, more oxygen, and stronger support.
 The overview in [[hydroponic-cannabis]] adds the higher stakes of fast growth, heavy feeding, and rapid deficiency expression.
@@ -31,9 +31,9 @@ A system that is easy for lettuce may be undersized for a flowering cannabis pla
 
 ### Deep water culture
 
-Deep water culture suspends roots in an aerated nutrient reservoir.
+Deep water culture suspends roots in an aerated [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]].
 It can produce explosive growth because roots have constant access to water, nutrients, and oxygen.
-The guide [[cannabis-deep-water-culture-guide]] explains why reservoir temperature and dissolved oxygen are critical for cannabis.
+The guide [[cannabis-deep-water-culture-guide]] explains why [[cervantes-reservoir-temperature-management]] and [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] are critical for cannabis.
 DWC is attractive because the parts are simple and inexpensive.
 Its weakness is that a failed air pump or hot reservoir can damage roots quickly.
 Choose DWC if you can monitor water temperature, pH, EC, and aeration daily.
@@ -59,7 +59,7 @@ They are rarely the best choice for heavy flowering cannabis unless the setup is
 
 ### Top feed and drip hydroponics
 
-Top-feed systems deliver nutrient solution to the base of each plant and then drain or recirculate it.
+Top-feed systems deliver [[cannabis-nutrient-solution-preparation]] to the base of each plant and then drain or recirculate it.
 The page [[green-cannabis-rockwool-hydroponic-growing-media]] shows why root-zone moisture and air balance matter.
 Top feed is flexible, but clogged emitters and uneven distribution can create hidden plant-to-plant differences.
 Choose it when you want scalability and are willing to inspect lines and runoff regularly.

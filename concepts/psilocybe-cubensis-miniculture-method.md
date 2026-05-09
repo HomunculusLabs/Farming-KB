@@ -1,7 +1,7 @@
 # Psilocybe cubensis Miniculture Cultivation Method
 
 The miniculture technique developed by Bigwood and Beug (1982) at The
-Evergreen State College provides a standardized, small-scale method for
+[[fukuoka-evergreen-state-permaculture-conference]] College provides a standardized, small-scale method for
 cultivating *Psilocybe cubensis* under controlled conditions. Adapted from
 the rye-grain methods of San Antonio (1971) and Oss and Oeric (1976),
 this approach was designed specifically for research purposes—enabling
@@ -34,7 +34,7 @@ simultaneously under identical conditions.
 
 Each jar is charged with 10 g of rye grain and 15 ml of water. The
 water-to-grain ratio is critical—too much water promotes bacterial
-contamination, while too little limits mycelial growth. The jars are
+contamination, while too little limits [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]. The jars are
 sealed and autoclaved to achieve sterility.
 
 ### Inoculation
@@ -49,11 +49,11 @@ as deep into the grain as practical to maximize the speed of colonization.
 After inoculation, jars are incubated at room temperature. Every four
 days for a period of 28 days, the jars are shaken to distribute the
 growing mycelium evenly throughout the grain. This periodic shaking is
-essential—it breaks up the mycelial network and redistributes colonized
+essential—it breaks up the [[gadd-mycelial-network-dynamics]] and redistributes colonized
 grain kernels to contact uncolonized ones, dramatically speeding full
 colonization.
 
-By 28 days, the mycelium should have fully colonized the grain substrate,
+By 28 days, the mycelium should have fully colonized the [[brassinosteroid-dung-grain-substrate-fruiting-enhancement]],
 appearing as a dense white mat throughout the jar. Any jars showing
 contamination (green, black, or off-color patches) should be discarded.
 
@@ -70,7 +70,7 @@ with a layer approximately 2 cm deep. The casing mixture consists of:
 The casing layer serves several functions: it provides a humid
 microclimate at the substrate surface, supplies moisture for developing
 primordia, and creates a non-nutritive barrier that encourages the
-mycelium to fruit rather than continue vegetative growth.
+mycelium to fruit rather than continue [[cannabis-vegetative-growth-stage]].
 
 ## Fruiting Phase
 
@@ -116,7 +116,7 @@ The miniculture method offers several advantages for controlled studies:
 
 - **Replicability**: Each jar is an independent experimental unit
 - **Small scale**: Minimal space and material requirements
-- **Sterility**: Autoclaved jars and sterile technique minimize
+- **Sterility**: Autoclaved jars and [[cultivator-sterile-technique-and-agar-culture]] minimize
   contamination
 - **Multiple flushes**: Enables longitudinal study of alkaloid
   production over time
@@ -139,8 +139,6 @@ The Bigwood and Beug miniculture method was developed specifically to
 investigate the biosynthetic pathways of psilocybin and psilocin in
 *P. cubensis*. The method proved effective for its purpose, yielding
 sufficient material for HPLC analysis across multiple flushes and
-enabling the first systematic quantification of alkaloid variation with
-flush number.
 ## See Also
 
 - [[psilocybe-cubensis]] — Species overview

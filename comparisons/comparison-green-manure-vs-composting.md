@@ -1,5 +1,5 @@
 ---
-title: "Green Manure vs Composting"
+title: "comparison-green-manure-guide-vs-mulch-types-and-effects vs Composting"
 created: 2026-04-28
 tags: [comparison, soil-fertility, organic-growing, soil-building]
 date: 2026-04-25
@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 # Green Manure vs Composting
-Both green manure and composting build soil organic matter and fertility through
+Both green manure and composting build soil [[hamilton-composting-and-organic-matter-management]] and fertility through
 biological processes, but they differ fundamentally in approach, inputs, and where
 the decomposition happens. Green manure grows fertility in-place on active fields;
 composting concentrates and processes collected materials into a portable amendment.
@@ -18,7 +18,7 @@ Choosing between them depends on land availability, waste streams, timeline, and
 Breaking down organic materials through controlled microbial decomposition into
 stable humus. Composting concentrates nutrients from diverse waste streams into
 a consistent, storable soil amendment. Multiple methods suit different scales:
-**Hot composting:**
+**[[comparison-bokashi-vs-hot-composting-method]]:**
 - Aerobic thermophilic process reaching 130-160°F internally
 - Completes in 1-3 months with proper management
 - Kills pathogens, weed seeds, and most pesticide residues
@@ -40,7 +40,7 @@ a consistent, storable soil amendment. Multiple methods suit different scales:
 - Limited to moderate volumes per unit space and effort
 - Worms are sensitive to temperature extremes and excess moisture
 **Bokashi:**
-- Anaerobic fermentation using effective microorganisms (EM) inoculant
+- [[jadam-anaerobic-fermentation-principles]] using [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]] (EM) inoculant
 - Handles all food waste including meat, dairy, and cooked foods
 - Two-week fermentation [[comparison-tempeh-vs-miso]]
 
@@ -63,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +105,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

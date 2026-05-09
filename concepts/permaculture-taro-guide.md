@@ -1,47 +1,18 @@
 ---
-title: Taro Growing Guide
+title: Taro comparison-bean-growing-guide-vs-pepper-growing-guide
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[permaculture, design]
-sources: []
+tags: [permaculture, design]
+sources:
+  sources: []
 ---
-
-Updated: 2026-04-18
-
-Taro (Colocasia esculenta) is a tropical root crop that can be grown in paddies, marshes, or wet gardens. Both roots and leaves are edible when properly prepared.
-
-## Uses
-
-- Edible roots and shoots
-
-- Wetland tolerant
-
-## Growing Conditions
-
-- Long, hot summer required
-
-- Can be grown in paddy like rice (cool, flowing water)
-
-- Marshy places also work well
-
-- Ensure you are growing edible varieties, not ornamental ones
-
-## Varieties
-
-Taro varieties are numerous, with distinct characteristics. Hawaiian poi taro (kalo) varieties include 'Mana Kea' (white corm, preferred for poi) and 'Lehua Maoli' (pink-tinged corm). Chinese taro (Colocasia esculenta var. esculenta) produces large, round corms. Japanese taro (satoimo) is smaller with a sticky texture. Dasheen varieties produce a single large central corm, while eddoe types produce a central corm surrounded by smaller side cormels.
-
-## Propagation
-
-Taro is propagated vegetatively from cormels (small side tubers) or from the top portion of the main corm (huli). Cut the top 0.5-1 inch off the mother corm, ensuring a portion of the stem base is included. Allow the cut surface to dry for 1-2 days, then plant 2-3 inches deep in rich, wet soil. Small cormels can be planted whole. Planting is done in spring when soil temperatures reach 70°F (21°C). In paddy systems, plant cormels in the mud at the edge of flooded areas. Taro does not produce viable seed in cultivation.
-
-## Companion Planting
-
-In [[permaculture-wildlife-corridors]] aquatic food crop in wetland zones. It pairs well with duck potato (Sagittaria) and water mimosa in pond edge systems. In tropical [[permaculture-farm-design-principles]], taro occupies the wetland zone in tropical food forests, producing calorie-dense food while tolerating conditions that would kill most crops. Its large leaves create shade microclimates, suppress weeds, and return organic matter to the soil. Taro exemplifies the principle of producing yield in challenging environments where other crops fail, making it invaluable for [[permaculture-plants-aquatic-and-wetland-species]]
+Updated: 2026-04-18 Taro (Colocasia esculenta) is a tropical root crop that can be grown in paddies, marshes, or wet gardens. Both roots and leaves are edible when properly prepared. ## Uses - Edible roots and shoots - Wetland tolerant ## Growing Conditions - Long, hot summer required - Can be grown in paddy like rice (cool, flowing water) - Marshy places also work well - Ensure you are growing edible varieties, not ornamental ones ## Varieties Taro varieties are numerous, with distinct characteristics. Hawaiian poi taro (kalo) varieties include 'Mana Kea' (white corm, preferred for poi) and 'Lehua Maoli' (pink-tinged corm). Chinese taro (Colocasia esculenta var. esculenta) produces large, round corms. Japanese taro (satoimo) is smaller with a sticky texture. Dasheen varieties produce a single large central corm, while eddoe types produce a central corm surrounded by smaller side cormels. ## Propagation Taro is propagated vegetatively from cormels (small side tubers) or from the top portion of the main corm (huli). Cut the top 0.5-1 inch off the mother corm, ensuring a portion of the stem base is included. Allow the cut surface to dry for 1-2 days, then plant 2-3 inches deep in rich, wet soil. Small cormels can be planted whole. Planting is done in spring when soil temperatures reach 70°F (21°C). In paddy systems, plant cormels in the mud at the edge of flooded areas. Taro does not produce viable seed in cultivation. ## [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] In  aquatic food crop in wetland zones. It pairs well with duck potato (Sagittaria) and water mimosa in [[mollison-designers-pond-edge-configuration-and-yield-maximisation]] systems. In tropical [[permaculture-farm-design-principles]], taro occupies the wetland zone in tropical food forests, producing calorie-dense food while tolerating conditions that would kill most crops. Its large leaves create shade microclimates, suppress weeds, and return [[hamilton-composting-and-organic-matter-management]] to the soil. Taro exemplifies the principle of producing yield in challenging environments where other crops fail, making it invaluable for [[permaculture-plants-aquatic-and-wetland-species]]
 
 - [[permaculture-climate-strategies]]
 
 - [[sepp-holzer-water-gardens-and-aquatic-plants]]
+
 ## Practical Considerations
 
 When working with Taro Growing Guide, several practical factors should be
@@ -58,7 +29,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -100,4 +71,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

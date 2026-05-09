@@ -1,5 +1,5 @@
 ---
-title: Plant Cellulose and Carbohydrate Chemistry
+title: Plant plant cellulose and carbohydrate chemistry Chemistry
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -23,7 +23,7 @@ This deceptively simple equation represents the foundation of nearly all life on
 
 ### Monomers (Single Units)
 
-**Glucose (C6H12O6)**: The fundamental sugar molecule. Both plant and animal cells break down glucose to release energy. It is the universal fuel of metabolism.
+**Glucose (C6H12O6)**: The fundamental sugar molecule. Both plant and animal cells [[query-can-fungi-break-down-plastic-pollution]] glucose to release energy. It is the universal fuel of metabolism.
 
 **Fructose (C6H12O6)**: An isomer of glucose -- same atoms but rearranged bonds. Much sweeter tasting. Found in fruits.
 
@@ -41,7 +41,7 @@ The linking of two monomers requires removing one water molecule (condensation r
 
 **Starch ([C6H10O5]n)**: The primary energy storage carbohydrate in plants. Long chains of glucose units stored in roots, tubers, and seeds. Potatoes, grains, and cassava are starch-rich foods.
 
-**Cellulose ([C6H10O5]n)**: The most abundant organic polymer on Earth. Contains half of all organic carbon in the biosphere. The primary structural component of all plant cell walls.
+**Cellulose ([C6H10O5]n)**: The most abundant organic polymer on Earth. Contains half of all [[dighton-fungal-dissolved-organic-carbon-production]] in the biosphere. The primary structural component of all plant cell walls.
 
 Starch and cellulose have the same basic subunit formula but different bond linkages. This difference is crucial:
 - Starch bonds: easily broken by plant and animal enzymes (digestible)
@@ -67,7 +67,7 @@ Cellulose microfibrils are embedded in a matrix of hemicellulose and pectin to f
 
 ### Cellulose and the Carbon Cycle
 
-Because cellulose is so chemically stable, it decomposes slowly. The carbon stored in wood (mostly cellulose) can remain locked up for centuries. Fungi are the primary decomposers of cellulose -- they produce cellulase enzymes that break the bonds animals cannot. This is why fungi are essential to nutrient cycling in forests.
+Because cellulose is so chemically stable, it decomposes slowly. The carbon stored in wood (mostly cellulose) can remain locked up for centuries. Fungi are the primary decomposers of cellulose -- they produce cellulase enzymes that break the bonds animals cannot. This is why fungi are essential to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forests.
 
 ## Starch: Energy Storage
 

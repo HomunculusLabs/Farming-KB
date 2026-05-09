@@ -1,5 +1,5 @@
 ---
-title: Green Cannabis Vegetative Growth
+title: Green comparison-cannabis-vegetative-stage-vs-flowering-stage Growth
 created: 2026-04-26
 updated: 2026-04-25
 sources:
@@ -14,12 +14,12 @@ From [[cannabis-environment-control]] for optimizing the grow environment.
 
 ## What Is Vegetative Growth?
 
-The vegetative stage is when the plant begins to grow at the rate which
+The [[cannabis-vegetative-stage-management]] is when the plant begins to grow at the rate which
 its leaves can produce energy. At this stage the plant needs all the
 light and food it can get. It continues to grow upwards producing new
 leaves, a thicker stem with thicker branches, and more fingers on the
 leaves. It will eventually start to show its sex, marking the transition
-to cervantes sex determination.
+to cervantes [[cannabis-sex-determination-floral-biology]].
 
 Vegetative growth can take anywhere between 1 and 5 months depending on
 strain, environment, and grower preference. Pure Sativa can run into
@@ -113,7 +113,7 @@ without pruning.
 ### How to Train
 
 Attach a piece of thread to the stem and bend the plant over. Lock the
-thread to another part of the stem or the grow room frame. Growers have
+thread to another part of the stem or the [[cannabis-grow-room-setup]] frame. Growers have
 managed corkscrew shapes to full circles. Some grow plants horizontally
 during vegetative stage, then move the light above for flowering.
 
@@ -141,10 +141,6 @@ depends on strain and how the plant is grown.
 
 Some advanced feeding products produce greater amounts of bud but
 reduce potency and alter taste. Experimentation is essential.
-
-## Thinning for Uniform Growth
-
-Growers like uniform height so light can be positioned optimally. If
 ## See Also
 - [[green-cannabis-grow-bible-plant-training-pruning-and-yield]]
 

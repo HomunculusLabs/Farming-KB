@@ -14,7 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Corner, E.J.H. (1950). "A Monograph of Clavaria and Allied Genera." Annals of Botany Memoirs, 1, 1-740.
-  - Petersen, R.H. (1974). "The Genus Clavariadelphus in North America." Nova Hedwigia, 25, 1-111.
+  - Petersen, R.H. (1974). "The Genus Clavariadelphus in [[psilocybin-north-america-pacific-northwest]]." Nova Hedwigia, 25, 1-111.
   - Marr, C.D., Stuntz, D.E. (1973). "Clavariadelphus in the Pacific Northwest." Madroño, 22, 239-248.
   - Dima, B. (2011). "Clavariadelphus Species in the Carpathian Basin." Mycotaxon, 116, 147-157.
   - Buyck, B., et al. (2014). "Testing the Utility of ITS and RPB2 for Clavariadelphus Phylogeny." Cryptogamie Mycologie, 35(3), 261-278.
@@ -48,7 +48,7 @@ The species is almost exclusively associated with **coniferous forests**, formin
 - Spruce (*Picea* spp.) — most common association
 - Fir (*Abies* spp.)
 - Pine (*Pinus* spp.)
-- [[beta-glucans]] with potential immunomodulatory activity, consistent with findings across many basidiomycete fungi.
+- [[beta-glucans]] with potential immunomodulatory activity, consistent with findings across many [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]].
 
 No psychoactive or toxic compounds have been reported from this species.
 
@@ -57,8 +57,8 @@ No psychoactive or toxic compounds have been reported from this species.
 *Clavariadelphus pistillaris* is not formally listed as threatened on a global scale, but is considered rare or uncommon throughout much of its range. Key conservation concerns include:
 
 - **Habitat loss:** Logging and forest conversion reduce available mature coniferous habitat.
-- **Air pollution:** Nitrogen deposition and acid rain negatively impact mycorrhizal fungal communities.
-- **Climate change:** Warming temperatures and altered precipitation patterns may shift suitable habitat northward and to higher elevations.
+- **Air pollution:** [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] and acid rain negatively impact [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] communities.
+- **[[dighton-fungi-climate-change-feedback]]:** Warming temperatures and altered precipitation patterns may shift suitable habitat northward and to higher elevations.
 - **Soil disturbance:** Compaction and disruption of [[amanita-muscaria-entity]]
 
 - [[mushroom-cultivation-basics]]
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

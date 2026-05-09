@@ -20,14 +20,14 @@ Arthritis is inflammation of a joint connecting two bones (fingers, wrists, hips
 - Pain in affected joints
 - Redness and sensation of heat
 - Minor swelling
-- Gradual development from occasional mild ache to chronic pain, stiffness, and swelling
+- Gradual development from occasional mild ache to [[cannabis-chronic-pain-management]], stiffness, and swelling
 - Limited range of motion and decreased mobility as patients guard against pain
 
 ### Prevalence
 Arthritis is the leading cause of disability in the U.S., with more than 46 million people suffering various forms of physical difficulties.
 
 ### Orthodox Understanding
-Western medicine claims little specific knowledge of causes or cures. Over 100 different causes are considered, including gout, scleroderma, and viral, bacterial, or fungal infections. Treatment focuses on suppressing pain and diminishing inflammation flare-ups.
+[[fukuoka-eastern-western-medicine-healing-world-crisis]] claims little specific knowledge of causes or cures. Over 100 different causes are considered, including gout, scleroderma, and viral, bacterial, or [[blesching-cannabis-fungal-infections-candida]]. Treatment focuses on suppressing pain and diminishing inflammation flare-ups.
 
 ### NSAID Risks
 Non-steroidal anti-inflammatory drugs (NSAIDs), a major arthritis medication class, carry serious risks: "Each year 41,000 older adults are hospitalized and 3,300 of them die from ulcers caused by NSAIDs. Thousands of younger adults are hospitalized."
@@ -82,4 +82,4 @@ Psychosomatic research suggests mind-body connections in arthritis:
 
 ## Source
 
-Uwe Blesching, *The Cannabis Health Index*, Arthritis section
+Uwe Blesching, *The [[blesching-cannabis-health-index-autoimmune-conditions]]*, Arthritis section

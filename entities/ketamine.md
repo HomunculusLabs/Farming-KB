@@ -17,7 +17,7 @@ alternative to phencyclidine (PCP), it became a widely used battlefield and
 veterinary anesthetic due to its cardiovascular stability and analgesic
 properties. In the 21st century, ketamine has gained prominence in psychiatric
 medicine as a rapid-acting treatment for treatment-resistant depression, and
-is increasingly recognized in psychedelic therapy research for its ability to
+is increasingly recognized in [[metzner-psycholytic-psychedelic-therapy-models]] research for its ability to
 produce profound dissociative experiences at sub-anesthetic doses.
 ## Chemical Identity
 | Property | Value |
@@ -92,7 +92,7 @@ used at sub-anesthetic doses to facilitate dissociative experiences that
 can catalyze therapeutic breakthroughs. Clinics offering ketamine-assisted
 therapy (KAT) have proliferated since the mid-2010s, treating depression,
 PTSD, anxiety, and substance use disorders. The dissociative state is
-described as producing ego dissolution, altered perception of time and
+described as producing [[psilocybin-ego-dissolution-mechanisms]], altered perception of time and
 space, and emotional catharsis.
 ## Pharmacokinetics
 | Parameter | Value |
@@ -108,13 +108,13 @@ space, and emotional catharsis.
 | Excretion | Renal (~90%) |
 | Protein binding | 12–47% (alpha-1-acid glycoprotein) |
 ## Legal Status
-- **United States**: Schedule III controlled substance (rescheduled 2023);
+- **[[dmt-containing-plants-united-states-halpern]]**: Schedule III controlled substance (rescheduled 2023);
   esketamine nasal spray is Schedule III under REMS
 - **United Kingdom**: Class B (upclassed from Class C, 2014)
 - **Canada**: Schedule I
 - **Australia**: Schedule 4 (prescription) / Schedule 8 (controlled)
 - **UN Convention**: Schedule I of the Convention on Psychotropic Substances
-- **Research**: Legal for approved clinical trials and medical use worldwide
+- **Research**: Legal for approved [[mushroom-cancer-clinical-trials-overview]] and medical use worldwide
 ## History and Discovery
 - **1962**: Synthesized by Calvin Stevens at Parke-Davis Laboratories
 - **1964**: First human trials by Edward Domino and Guenter Corssen,
@@ -130,7 +130,7 @@ Common acute effects include hypertension, tachycardia, nausea, dizziness,
 and perceptual disturbances. At higher doses, emergence phenomena (vivid
 dreams, hallucinations, confusion upon waking) are common and can be
 mitigated with benzodiazepine premedication. Chronic recreational use
-can cause ulcerative cystitis. The drug has a wide therapeutic index
+can cause ulcerative cystitis. The drug has a wide [[cannabis-therapeutic-index-overview]]
 (LD50 in mice: 360 mg/kg IM) and does not suppress respiratory drive
 at clinical doses, making it one of the safest anesthetics available.
 ## Cultural Significance

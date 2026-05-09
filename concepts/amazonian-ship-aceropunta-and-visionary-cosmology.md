@@ -1,15 +1,16 @@
 ---
-title: Amazonian Ship Aceropunta and Visionary Cosmology
+title: Amazonian amazonian ship aceropunta and visionary cosmology and Visionary Cosmology
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/amaringo-p-ayahuasca-visions.md"
 ---
 
 # Amazonian Ship Aceropunta and Visionary Cosmology
 
-Pablo Amaringo's ayahuasca visions reveal an elaborate cosmology that integrates Amazonian spiritual beings, extraterrestrial entities, and multidimensional travel. Central to this cosmology is the Aceropunta, a great esoteric ship that travels the world visiting those who call it through properly sung icaros.
+Pablo Amaringo's [[amaringo-ayahuasca-visions-shipibo-iconography]] reveal an elaborate cosmology that integrates Amazonian spiritual beings, extraterrestrial entities, and multidimensional travel. Central to this cosmology is the Aceropunta, a great esoteric ship that travels the world visiting those who call it through properly sung icaros.
 
 ## The Aceropunta
 
@@ -108,7 +109,7 @@ Amaringo's visions include spiritual figures from many traditions:
 ## Related Topics
 
 - [[yakuruna-water-spirits-of-the-amazon]] -- water realm beings
-- [[amazonian-sorcery-illness-and-curing-practices]] -- illness and curing
+- [[amazonian-sorcery-illness-and-curing-practices]] -- [[amazonian-sorcery-illness-and-curing-practices]]
 
 - [[amazonian-graded-powers-and-the-seven-rays-of-wisdom]]
 - [[mckenna-ayahuasca-and-amazonian-shamanism]]

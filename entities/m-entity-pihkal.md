@@ -1,5 +1,5 @@
 ---
-title: "M (MESCALINmescalineTRIMETHOXYPHENETHYLAMINE) -- PIHKAL Entry #96"
+title: "M (MESCALINmescalineTRIMETHOXYPHENETHYLAMINE) -- 2c-b-pihkal-entry-20 #96"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -83,7 +83,7 @@ and its mark of purity. The dosages associated with the above
 although the actual form used was usually the hydrochloride salt. The
 conversion factor is given under "dosage" above.
 Mescaline has always been the central standard against which all other
-compounds are viewed. Even the United States Chemical Warfare group,
+compounds are viewed. Even the [[dmt-containing-plants-united-states-halpern]] [[solomon-root-exudates-and-allelopathy]] group,
 in their human studies of a number of substituted phenethylamines,
 used mescaline as the reference material for both quantitative and
 qualitative comparisons. The Edgewood Arsenal code number for it was

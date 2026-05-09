@@ -12,7 +12,7 @@ type: concept
 
 # No-Till Rice and Winter Grain Succession Cropping
 
-No-till rice and winter grain succession cropping is Masanobu Fukuoka's core farming method, which he called "direct-seeded, no-tillage, winter grain/rice succession in a clover cover." This system produces approximately 22 bushels of winter grain and 22 bushels of rice per quarter-acre per year on land that has not been plowed or turned in over thirty years, without chemical fertilizers, compost, pesticides, or herbicides. The labor of one or two people is sufficient to manage a quarter-acre using this method.
+No-till rice and winter grain succession cropping is Masanobu Fukuoka's core farming method, which he called "direct-seeded, no-tillage, winter grain/rice succession in a clover cover." This system produces approximately 22 bushels of winter grain and 22 bushels of rice per quarter-acre per year on land that has not been plowed or turned in over thirty years, without [[cervantes-chemical-fertilizers-guide]], compost, pesticides, or herbicides. The labor of one or two people is sufficient to manage a quarter-acre using this method.
 
 ## The Annual Cycle
 
@@ -30,7 +30,7 @@ In late May, the winter grain is harvested. At this point, clover is growing lux
 
 ### Summer: Minimal Irrigation
 
-In June and July, the field is left unirrigated. In August, water is run through the drainage ditches once every week or ten days. This minimal irrigation regime contrasts sharply with conventional rice cultivation, which maintains continuous flooding throughout the growing season.
+In June and July, the field is left unirrigated. In August, water is run through the drainage ditches once every week or ten days. This minimal irrigation regime contrasts sharply with conventional [[jadam-rice-cultivation-methods]], which maintains continuous flooding throughout the [[savory-growing-season-and-non-growing-season-management]].
 
 ### Fall: Harvest and Reseeding
 
@@ -48,7 +48,7 @@ Japanese rice farming evolved through distinct phases:
 
 - **1940**: Primitive farming with improvements in tilling methods
 - **1950**: Animal-powered agriculture with increased fertilizer production
-- **1960**: Scientific farming with mechanization
+- **1960**: [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] with mechanization
 - **1970**: Agribusiness with energy-intensive systemized agriculture
 
 Despite this apparent technological progress, the productivity of the land actually declined, and quality retreated rather than advanced.
@@ -59,7 +59,7 @@ Transplanting rice seedlings is a human invention with no basis in nature, where
 
 ## Holistic Integration
 
-Fukuoka emphasized that natural farming treats everything as part of a whole. Preparing the field, sowing seed, tilling, covering seed with soil, fertilizing, weeding, and pest control are all organically interrelated. No problem in any one area is truly solved unless a common solution is found for all areas. He stated: "One thing is all things. To resolve one matter, one must resolve all matters. Changing one thing changes all things." The decision to sow rice in the fall led naturally to eliminating transplanting, plowing, chemical fertilizers, compost preparation, and pesticide spraying.
+Fukuoka emphasized that [[comparison-natural-farming-vs-permaculture]] treats everything as part of a whole. Preparing the field, sowing seed, tilling, covering seed with soil, fertilizing, weeding, and pest control are all organically interrelated. No problem in any one area is truly solved unless a common solution is found for all areas. He stated: "One thing is all things. To resolve one matter, one must resolve all matters. Changing one thing changes all things." The decision to sow rice in the fall led naturally to eliminating transplanting, plowing, chemical fertilizers, [[cultivator-compost-preparation-phase-methods]], and pesticide spraying.
 
 ## See Also
 
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

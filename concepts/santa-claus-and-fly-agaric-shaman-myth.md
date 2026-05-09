@@ -1,5 +1,5 @@
 ---
-title: "Santa Claus and the Fly Agaric Shaman Myth"
+title: "fly-agaric-santa-claus-myth and the amanita-muscaria-fly-agaric-history-and-pharmacology Shaman Myth"
 created: 2026-04-26
 tags:
   - santa-claus
@@ -48,7 +48,7 @@ Robert Graves, the English poet, who made characteristically throwaway
 remarks about the supposed history of hallucinogenic fungi. The idea
 was picked up by the American writer Jonathan Ott, presumably via
 Gordon Wasson, with whom both men were friends, who mentioned it in
-his popular 1976 book about the narcotic plants of North America.
+his popular 1976 book about the narcotic plants of [[psilocybin-north-america-pacific-northwest]].
 
 From there, the idea was seized upon by the young academic Rogan
 Taylor, who brought it to much wider attention with a colourful article
@@ -69,7 +69,7 @@ place entirely in an otherworldly dimension.
 Hutton reiterated the fact that fly-agaric use among Siberian peoples
 was intermittent and uneven among shamans, and that Americans only
 began to be aware of Siberian shamanism towards the end of the
-nineteenth century, long after Clement Clark Moore composed his famous
+[[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], long after Clement Clark Moore composed his famous
 poem in 1822.
 
 ## The Real History of Santa Claus
@@ -131,6 +131,7 @@ slaughtered and eaten, passing on the effects.
 
 ## Related Topics
 
-- [[fly-agaric-siberian-shamanic-practice]] - Siberian shamanic use
+- [[fly-agaric-siberian-shamanic-practice]] - [[fly-agaric-siberian-shamanic-practice]] use
 - [[fly-agaric-western-literature]] - fly agaric in Western culture
-- [[mushroom-symbolism-visual-art]] - visual symbolism
+- mushroom-symbolism-visual-art - visual symbolism
+- [[fly-agaric-santa-claus-myth]]

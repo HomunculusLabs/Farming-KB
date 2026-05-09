@@ -1,15 +1,16 @@
 ---
-title: Reishi Cultivation Methods
+title: reishi-cultivation Methods
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [cultivation, mycology]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Reishi Cultivation Methods
 
-Reishi (Ganoderma lucidum) is the most revered medicinal mushroom in Asian history, known as "The Mushroom of Immortality" for over 2,000 years. Called Ling Chi in China, Reishi in Japan, and Mannentake ("10,000 Year Mushroom"), it has been depicted in art more than any other mushroom and is associated with royalty, health, longevity, and wisdom.
+Reishi ([[ganoderma-lucidum]]) is the most revered medicinal mushroom in Asian history, known as "The Mushroom of Immortality" for over 2,000 years. Called Ling Chi in China, Reishi in Japan, and Mannentake ("10,000 Year Mushroom"), it has been depicted in art more than any other mushroom and is associated with royalty, health, longevity, and wisdom.
 
 ## Species Information
 
@@ -68,7 +69,7 @@ Agar petri dish -> grain master (2-3 weeks at 75 F) -> 10 gallon jars of rye gra
 - Over-supplementation with rice bran (>15% dry mass) inhibits fruitbody development
 
 ## Medicinal Properties
-Complex polysaccharides stimulate helper T-cell production. Ganoderic acids have anti-coagulating effects and lower cholesterol. Anti-inflammatory activity comparable to hydrocortisone (Stavinoha, 1990). Low molecular weight polysaccharide fraction prolonged survival of HIV-exposed lymphocytes (Kim et al., 1994). Modulates blood pressure, lipid levels, and blood glucose.
+Complex polysaccharides stimulate helper T-cell production. [[ganoderic-acids]] have anti-coagulating effects and lower cholesterol. Anti-inflammatory activity comparable to hydrocortisone (Stavinoha, 1990). Low molecular weight polysaccharide fraction prolonged survival of HIV-exposed lymphocytes (Kim et al., 1994). Modulates blood pressure, lipid levels, and blood glucose.
 
 ## Related Topics
 - [[medicinal-mushroom-extraction-preparation]] for processing methods
@@ -80,8 +81,8 @@ Not all Ganoderma lucidum strains are equal in terms of growth characteristics, 
 
 - **Growth rate**: Some strains colonize substrate in as few as 10 days, while others require 3 weeks. Faster-colonizing strains reduce contamination risk
 - **Antler vs. conk tendency**: Certain strains naturally produce longer antlers before cap formation, which is desirable for markets that value antler-stage product. Strains selected for rapid cap formation are preferred when large, showy conks are the target
-- **Triterpene content**: Ganoderic acid profiles vary significantly between strains. High-triterpene strains are preferred for therapeutic applications, as ganoderic acids are responsible for many of reishi's anti-inflammatory and hepatoprotective effects
-- **Temperature tolerance**: G. tsugae (hemlock reishi) tolerates colder conditions than G. lucidum, making it the better choice for outdoor cultivation in northern climates. G. oregonense extends the range even further into Pacific Northwest cold zones
+- **Triterpene content**: Ganoderic acid profiles vary significantly between strains. High-triterpene strains are preferred for [[psilocybin-therapeutic-applications]], as ganoderic acids are responsible for many of reishi's anti-inflammatory and hepatoprotective effects
+- **[[mycorrhizal-drought-and-temperature-tolerance]]**: G. tsugae (hemlock reishi) tolerates colder conditions than G. lucidum, making it the better choice for outdoor cultivation in northern climates. G. oregonense extends the range even further into [[psilocybin-north-america-pacific-northwest]] cold zones
 - **Source reliability**: Always obtain cultures from verified culture banks or commercial suppliers. Wild-collected isolates should be purified through multiple agar transfers before use
 
 ## Troubleshooting Common Problems
@@ -103,4 +104,4 @@ For commercial reishi operations, post-harvest processing significantly affects 
 - **Powdering**: Dried conks or antlers are ground to fine powder (80-200 mesh) for encapsulation. Dual extraction powders are produced by first water-extracting the material, then alcohol-extracting the residue, and spray-drying or freeze-drying the combined liquid
 - **Quality testing**: Reputable producers test for beta-glucan content (should exceed 10% dry weight), heavy metals, pesticide residues, and microbial contamination. Ganoderic acid A content is used as a marker for triterpene potency
 - [[stamets-reishi-ganoderma-lucidum-cultivation]]
-- [[mushroom-sawdust-bran-spawn-preparation]]
+- mushroom-sawdust-bran-spawn-preparation

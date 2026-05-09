@@ -29,9 +29,9 @@ sources:
 
 Halophytes are salt-tolerant plants capable of completing their life cycle in environments with salinity levels that would inhibit or kill most conventional crops — typically soils with electrical conductivity (EC) exceeding 4 dS/m (approximately 40 mM NaCl). With over 2,000 species distributed across diverse taxonomic families, halophytes represent an underutilized genetic resource for food security, forage production, bioenergy, phytoremediation, and coastal ecosystem restoration.
 
-Global salt-affected soils exceed 1 billion hectares — roughly 20% of all cultivated land and 33% of irrigated agricultural land. Rising sea levels, saline intrusion into coastal aquifers, and unsustainable irrigation practices are steadily expanding this area. Conventional breeding and genetic engineering have made incremental progress in salt tolerance of glycophytic crops, but halophytes already possess the full suite of physiological adaptations needed to thrive in these conditions.
+Global salt-affected soils exceed 1 billion hectares — roughly 20% of all cultivated land and 33% of irrigated agricultural land. Rising sea levels, saline intrusion into coastal aquifers, and unsustainable irrigation practices are steadily expanding this area. Conventional breeding and [[fukuoka-textdoc-genetic-engineering-critique-warning]] have made incremental progress in salt tolerance of glycophytic crops, but halophytes already possess the full suite of physiological adaptations needed to thrive in these conditions.
 
-This page covers the biology, classification, and ecology of halophytes, their physiological mechanisms of salt tolerance, major species of agricultural importance, saline agriculture systems, and emerging applications in phytoremediation, bioenergy, and climate adaptation.
+This page covers the biology, classification, and ecology of halophytes, their [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] of salt tolerance, major species of agricultural importance, saline agriculture systems, and emerging applications in phytoremediation, bioenergy, and [[jeavons-climate-adaptation-growing-seasons]].
 
 ## Classification of Halophytes
 
@@ -108,7 +108,7 @@ Many halophytes develop enlarged, fleshy leaves and stems that dilute internal s
 
 ### Antioxidant Defense
 
-Salt stress generates reactive oxygen species (ROS) including superoxide (O₂⁻), hydrogen peroxide (H₂O₂), and hydroxyl radicals (·OH). Halophytes maintain elevated antioxidant defenses:
+Salt stress generates reactive oxygen species (ROS) including superoxide (O₂⁻), [[cervantes-hydrogen-peroxide-sterilization]] (H₂O₂), and hydroxyl radicals (·OH). Halophytes maintain elevated antioxidant defenses:
 
 - **Enzymatic antioxidants:** Superoxide dismutase (SOD), catalase (CAT), ascorbate peroxidase (APX), glutathione reductase (GR), and peroxidase (POD)
 - **Non-enzymatic antioxidants:** Ascorbate, glutathione, carotenoids, flavonoids, tocopherols
@@ -124,7 +124,7 @@ Salt stress generates reactive oxygen species (ROS) including superoxide (O₂�
 - **Species of note:** *A. nummularia* (old man saltbush), *A. halimus* (sea orache), *A. canescens* (fourwing saltbush)
 - **Salt tolerance:** Moderate to extreme (EC 10–40 dS/m)
 - **Forage value:** 10–18% crude protein, palatable to sheep and goats when young; digestibility 55–70%
-- **Advantages:** Deep root system (2–5 m), drought tolerant, perennial, browsable hedgerow
+- **Advantages:** Deep root system (2–5 m), [[permplant-carob-drought-tolerant-food-tree]], perennial, browsable hedgerow
 - **Limitations:** Oxalate content can be high, requiring adaptation periods for livestock
 
 #### *Distichlis spicata* (Saltgrass)
@@ -133,208 +133,13 @@ Salt stress generates reactive oxygen species (ROS) including superoxide (O₂�
 - **Salt tolerance:** High (EC 15–35 dS/m)
 - **Forage value:** Moderate — 8–12% crude protein, used as supplementary grazing in saline pastures
 - **Advantages:** Excellent soil stabilization, rhizomatous spread, palatable to cattle
-- **Uses:** Turf (irrigated with reclaimed water), erosion control, saline pasture renovation
+- **Uses:** Turf (irrigated with reclaimed water), [[permplant-willows-salix-erosion-control-fodder]], saline pasture renovation
 
 #### *Sporobolus virginicus* (Seashore Dropseed)
 
 - **Description:** Perennial C₄ grass of coastal tropical and subtropical regions
 - **Salt tolerance:** Very high (EC 20–50 dS/m)
 - **Forage value:** Moderate palatability, 6–10% crude protein
-- **Advantages:** Excellent sand stabilization, tolerates inundation, fire-resistant
-
-### Edible Halophytes
-
-#### *Salicornia* spp. (Glasswort, Samphire)
-
-- **Description:** Succulent annual or perennial herbs of coastal salt marshes; leafless, jointed stems
-- **Species of note:** *S. europaea*, *S. bigelovii*, *S. brachiata*
-- **Salt tolerance:** Extreme (EC 20–60 dS/m)
-- **Edible uses:** Young shoots eaten as a vegetable (samphire); salty, crunchy texture; rich in minerals (Na, K, Ca, Mg, Fe) and polyunsaturated fatty acids
-- **Oilseed potential:** *S. bigelovii* produces seeds with 26–33% oil, comparable to soybean; oil rich in linoleic acid (73–79%)
-- **Cultivation:** Grown commercially in Mexico, UAE, and India as a seawater-irrigated crop
-
-#### *Crambe maritima* (Sea Kale)
-
-- **Description:** Perennial Brassicaceae of European and North African coasts
-- **Salt tolerance:** Moderate (EC 8–15 dS/m)
-- **Edible uses:** Blanched shoots, leaves, and flower buds; similar flavor to broccoli
-- **Cultivation:** Hardy perennial, propagated from seed or root cuttings; gaining interest in niche vegetable markets
-
-#### *Chenopodium quinoa* (Quinoa)
-
-- **Description:** While technically a facultative halophyte (glycophyte with halophytic tendencies), quinoa exhibits remarkable salt tolerance
-- **Salt tolerance:** Moderate (EC 10–30 dS/m depending on variety)
-- **Nutritional value:** Complete protein (14–20%), high mineral content, gluten-free
-- **Salt-tolerant varieties:** 'Kcukri', 'Sayaña', 'Chucapaca', and 'Ratuqui' perform well at EC > 15 dS/m
-
-#### *Zostera marina* (Eelgrass) and Other Seagrasses
-
-- **Description:** Submerged marine angiosperms forming extensive underwater meadows
-- **Ecological roles:** Carbon sequestration, nursery habitat, sediment stabilization, water filtration
-- **Edible uses:** Historically consumed by coastal peoples; grains harvested from seeds; gaining modern culinary interest
-
-### Bioenergy Halophytes
-
-#### *Arundo donax* (Giant Reed)
-
-- **Description:** Tall perennial rhizomatous grass; one of the most productive C₃ species on Earth
-- **Salt tolerance:** Moderate (EC 8–15 dS/m); grows well with treated wastewater
-- **Bioenergy yield:** 30–40 tonnes dry matter/ha/year under optimal conditions
-- **Uses:** Cellulosic ethanol, biogas, pelletized biomass, phytoremediation
-- **Caution:** Invasive in some regions (Mediterranean, California, Australia); containment strategies required
-
-#### *Suaeda salsa* and *Suaeda glauca*
-
-- **Description:** Annual succulent herbs of the Amaranthaceae, dominant in Chinese coastal salt marshes
-- **Salt tolerance:** Extreme (EC 30–50 dS/m)
-- **Bioenergy potential:** High seed oil content (*S. salsa*: 22–28%); biodiesel feedstock
-- **Additional uses:** Edible oil, traditional medicine, pigments (betacyanins)
-
-### Mangrove and Coastal Tree Halophytes
-
-#### *Avicennia marina* (Grey Mangrove)
-
-- **Description:** Pioneering mangrove species with extensive pneumatophore root system
-- **Salt tolerance:** Extreme; thrives in full seawater (EC ~50 dS/m)
-- **Salt management:** Salt exclusion at roots (~90% NaCl rejected) plus salt excretion through leaf glands
-- **Ecological value:** Coastal protection, carbon sequestration (blue carbon), nursery habitat
-- **Uses:** Timber, tannins, traditional medicine, honey production
-
-#### *Casuarina equisetifolia* (She-oak)
-
-- **Description:** Fast-growing actinorhizal tree capable of symbiotic nitrogen fixation with *Frankia*
-- **Salt tolerance:** Moderate to high (EC 10–25 dS/m)
-- **Advantages:** Nitrogen fixation improves soil fertility; windbreak and dune stabilization; fuelwood and construction timber
-- **Uses:** Agroforestry shelterbelts in coastal saline areas, dune rehabilitation
-
-## Saline Agriculture Systems
-
-### Direct Halophyte Cultivation
-
-The most straightforward approach: grow halophytes as crop plants on saline land unsuitable for conventional agriculture.
-
-- **Seawater irrigation:** *Salicornia bigelovii* and *Suaeda* species can be irrigated with full-strength seawater in coastal desert regions
-- **Saline aquaculture effluent:** Nutrient-rich wastewater from shrimp and fish farms used to irrigate halophyte forage crops, creating integrated systems
-- **Saline-alkaline soil reclamation:** Halophyte cultivation extracts salt and builds soil organic matter, gradually improving conditions for subsequent glycophyte rotation
-
-### Halophyte-Conventional Crop Rotation
-
-Progressive desalinization through halophyte-green manure cycles:
-
-1. **Year 1–2:** Plant salt-tolerant halophytes (*Atriplex*, *Suaeda*) to extract soil salts and add organic matter
-2. **Year 3:** Incorporate halophyte residues as green manure; soil EC typically drops 30–50%
-3. **Year 4–5:** Transition to moderately salt-tolerant conventional crops (barley, cotton, sugar beet)
-4. **Year 6+:** With continued management, full rotation to standard crops is possible
-
-### Integrated Agri-Aquaculture Systems
-
-Combining halophyte cultivation with aquaculture creates synergistic production:
-
-- **IMTA (Integrated Multi-Trophic Aquaculture):** Fish/shrimp ponds → nutrient-rich effluent → halophyte biofilters → cleaned water recycled to ponds
-- **Aquaponics with halophytes:** *Salicornia* and *Distichlis* grown hydroponically in fish wastewater; salt accumulation managed through periodic flushing
-- **Silvofishery:** Mangrove and *Avicennia* zones integrated with fish/shrimp ponds in Southeast Asian coastal systems
-
-### Biosaline Forage Systems
-
-In arid regions where both water and quality forage are scarce:
-
-- **Irrigated saltbush pastures:** *Atriplex nummularia* hedgerows planted at 3–5 m spacing, irrigated with saline groundwater (EC 10–25 dS/m)
-- **Supplementary feeding strategy:** Halophyte forage provides maintenance nutrition; protein supplements needed for growth and lactation
-- **Adaptive grazing management:** Rotational grazing prevents over-browsing; 4–6 week recovery periods between grazing events
-- **Livestock adaptation:** Gradual introduction over 2–3 weeks allows rumen microflora adjustment; salt intake managed through fresh water access
-
-## Phytoremediation of Saline Soils
-
-Halophytes can be used to reclaim salt-affected land through several mechanisms:
-
-### Phytoextraction
-
-Halophytes accumulate sodium and chloride in aboveground biomass, which is then harvested and removed:
-
-- *Salicornia europaea* accumulates 15–25% NaCl in shoot dry weight
-- *Suaeda salsa* extracts approximately 200–400 kg Na/ha/year from saline soil
-- Repeated harvest over 3–5 years can reduce topsoil EC by 30–60%
-
-### Organic Matter Accumulation
-
-Halophyte root systems and aboveground litter add organic carbon to saline soils:
-
-- Organic matter improves soil structure, aggregate stability, and water infiltration
-- Decomposing halophyte residues release Ca²⁺ that displaces Na⁺ from exchange sites (particularly when Ca-rich amendments are also applied)
-- Mycorrhizal associations with halophyte roots extend hyphal networks that improve soil aggregation
-
-### Water Table Management
-
-Deep-rooted halophyte shrubs (*Atriplex*, *Tamarix*) can lower saline water tables through transpiration:
-
-- *Atriplex nummularia* roots extend to 3–5 m depth
-- Transpiration rates of 3–8 mm/day under full canopy can lower water tables by 0.5–1.5 m over growing season
-- Critical for secondary salinization control in irrigated landscapes
-
-## Economic Considerations
-
-### Production Costs
-
-| Factor | Conventional Crops | Halophyte Crops |
-|--------|-------------------|-----------------|
-| Land cost | High (productive land) | Low (marginal saline land) |
-| Irrigation | Freshwater (expensive) | Saline/wastewater (cheap) |
-| Fertilizer | Moderate to high | Low to moderate |
-| Harvesting | Mechanized (mature) | Semi-mechanized (developing) |
-| Processing | Established infrastructure | Limited infrastructure |
-| Market | Established | Niche/emerging |
-| Risk | Low (known systems) | Moderate (new systems) |
-
-### Revenue Streams
-
-- **Fresh vegetables:** *Salicornia* samphire commands premium prices ($8–20/kg) in gourmet markets
-- **Forage:** Halophyte hay at $50–100/tonne for drought supplementary feeding
-- **Oilseed:** *Salicornia bigelovii* seed oil for food and biodiesel
-- **Bioenergy:** Biomass for biogas and cellulosic ethanol production
-- **Ecosystem services:** Carbon credits, coastal protection, biodiversity habitat
-- **Phytoremediation contracts:** Paid restoration of saline industrial or agricultural land
-
-### Scaling Challenges
-
-- **Limited processing infrastructure** for halophyte products
-- **Consumer awareness** remains low; market development needed
-- **Seed supply** for commercial halophyte varieties is limited
-- **Agronomic knowledge** gaps — extension services rarely cover halophyte cultivation
-- **Regulatory frameworks** for seawater-irrigated food crops are still evolving
-
-## Climate Change and Future Prospects
-
-Halophytes are positioned to become increasingly important as climate change intensifies several converging pressures:
-
-- **Sea level rise:** Projected 0.3–1.0 m by 2100 will salinize millions of hectares of coastal agricultural land
-- **Freshwater scarcity:** Competition between agricultural, urban, and industrial water use favors salt-tolerant crops that can use marginal water
-- **Soil salinization expansion:** Rising temperatures and reduced rainfall in arid zones accelerate secondary salinization
-- **Blue carbon:** Halophyte wetlands (salt marshes, mangroves) sequester carbon at rates 2–4× higher than terrestrial forests per unit area
-- **Biodiversity:** Halophyte-rich coastal ecosystems provide critical habitat under climate stress
-
-### Research Frontiers
-
-- **Halophyte genomics:** Genome sequencing of model halophytes (*Salicornia*, *Suaeda*, *Thellungiella*) to identify salt tolerance genes for crop improvement
-- **CRISPR editing of conventional crops:** Transfer of halophyte salt tolerance QTLs into wheat, rice, and tomato
-- **Synthetic biology:** Engineering nitrogen fixation into halophytes to create self-fertilizing saline crops
-- **Precision saline agriculture:** IoT sensors and drone imaging for site-specific saline land management
-- **Halophyte-based circular bioeconomy:** Integrated systems producing food, feed, fuel, and fiber from saline land and wastewater
-
-## Key Species Quick Reference
-
-| Species | Common Name | Type | Max EC (dS/m) | Primary Use |
-|---------|------------|------|---------------|-------------|
-| *Salicornia bigelovii* | Dwarf saltwort | Annual succulent | 60 | Vegetable, oilseed |
-| *Atriplex nummularia* | Old man saltbush | Perennial shrub | 40 | Forage, windbreak |
-| *Spartina alterniflora* | Smooth cordgrass | Perennial grass | 50 | Erosion control, bioenergy |
-| *Suaeda salsa* | Red goosefoot | Annual succulent | 50 | Oilseed, phytoremediation |
-| *Tamarix ramosissima* | Salt cedar | Perennial tree | 40 | Windbreak, timber |
-| *Distichlis spicata* | Saltgrass | Perennial grass | 35 | Forage, turf |
-| *Arundo donax* | Giant reed | Perennial grass | 15 | Bioenergy, phytoremediation |
-| *Avicennia marina* | Grey mangrove | Perennial tree | 50+ | Coastal protection, blue carbon |
-| *Casuarina equisetifolia* | She-oak | Perennial tree | 25 | Agroforestry, N-fixation |
-| *Limonium vulgare* | Sea lavender | Perennial forb | 30 | Ornamental, salt gland research |
-
 ## See Also
 
 - [[mangrove-ecosystems-and-coastal-restoration|Mangrove Ecosystems and Coastal Restoration]]
@@ -342,4 +147,4 @@ Halophytes are positioned to become increasingly important as climate change int
 - [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation|Nitrogen-Fixing Bacteria]]
 - [[constructed-wetlands-and-ecological-wastewater-treatment|Constructed Wetlands]]
 - [[biochar-in-regenerative-agriculture|Biochar in Regenerative Agriculture]]
-- [[drought-resistant-gardening-and-water-wise-landscaping|Drought-Resistant Gardening]]
+- Drought-Resistant Gardening

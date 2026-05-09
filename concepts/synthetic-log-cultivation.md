@@ -1,5 +1,5 @@
 ---
-title: Synthetic Log Cultivation
+title: Synthetic [[comparison-mushroom-log-cultivation-vs-monotub-cultivation]]
 created: 2026-04-28
 tags: [synthetic-data, reasoning-traces, llm-training, self-improvement]
 date: 2026-04-28
@@ -20,7 +20,7 @@ iterations.
 ## Motivation
 
 Human reasoning traces are expensive and inconsistent. Annotators differ in
-their and problem solving approaches, verbosity, and error rates. Even expert
+their and [[maitake-problem-solving-troubleshooting]] approaches, verbosity, and error rates. Even expert
 annotators struggle to produce the detailed, by step reasoning that models
 benefit from most. Synthetic log cultivation solves this by having a capable
 model produce exhaustive reasoning traces at scale, with consistent formatting

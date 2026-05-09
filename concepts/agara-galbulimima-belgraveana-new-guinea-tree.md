@@ -1,11 +1,12 @@
 ---
-title: agara - Galbulimima Belgraveana New Guinea Tree
+title: agara - agara galbulimima belgraveana new guinea tree New Guinea Tree
 created: 2026-04-28
 tags: [ethnobotany, papua-new-guinea, australia, malaysia,
   himantandraceae, alkaloids, hallucinogenic-plants, schultes]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 type: concept
 ---
 
@@ -92,7 +93,7 @@ members.
 The relationship to the magnolia family is significant from a phytochemical
 perspective, as the Magnoliales (the order containing both families) are
 known for producing diverse and often biologically active alkaloids.
-Magnolia species themselves contain bioactive compounds including
+Magnolia species themselves contain [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] including
 magnolol and honokiol, which have anxiolytic and other neurological
 effects. The evolutionary proximity to magnolias may help explain the
 extraordinary chemical complexity of Galbulimima belgraveana.
@@ -140,3 +141,5 @@ alkaloids.
 
 - [[sweet-flag-acorus-calamus-ethnobotany]]
 - [[golden-guide-amanita-muscaria-and-soma]]
+
+- [[boletus-manicus-new-guinea-psychoactive-bolete]]

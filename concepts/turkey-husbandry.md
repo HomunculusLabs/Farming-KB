@@ -22,7 +22,7 @@ faster but cannot breed naturally.
 - The standard commercial turkey. Reaches 20-40 lbs in 16-20 weeks.
 - Cannot breed naturally (too heavy to mate). Requires AI for reproduction.
 - Feed conversion: 2.5-3.0 lbs feed per lb of gain (very efficient).
-- Prone to leg problems, heart attacks, and heat stress at large sizes.
+- Prone to leg problems, heart attacks, and [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]] at large sizes.
 - White feathers — clean-looking carcass.
 - Best for: one-time harvest, maximum efficiency, lowest feed cost per pound.
 
@@ -110,7 +110,7 @@ faster but cannot breed naturally.
 - Heritage turkeys are excellent foragers and can meet 20-40% of their
   needs on good pasture.
 - They eat grass, clover, insects, seeds, and small rodents.
-- Turkeys in orchards provide pest control and fertilization.
+- Turkeys in orchards provide [[knf-pest-control-and-soap-water]] fertilization.
 - Broad-breasted turkeys forage less and rely more on grain.
 
 ### Supplements
@@ -143,44 +143,8 @@ faster but cannot breed naturally.
 
 ## Breeding
 
-- Heritage turkeys breed naturally. Broad-breasted require AI.
-- Turkey breeding season: March-June, triggered by increasing daylength.
-- Toms display (strut, fan tail, gobble) to attract hens.
-- Mating ratio: 1 tom per 8-10 hens.
-- Hens lay 10-15 eggs per clutch, may lay 40-100 per season.
-- Incubation: 28 days. Hen will set her own clutch or use an incubator.
-- Temperature: 99.5°F, humidity: 55-65% (80% last 3 days). Turn 3-5 times
-  daily.
-- Poults are precocial — they walk and eat within hours of hatching.
-- Hens are excellent, protective mothers in heritage breeds.
-
-## Health Care
-
-### Common Issues
-- Blackhead (histomoniasis) — protozoan disease transmitted by chicken
-  cecal nematodes. Often fatal to turkeys. Keep separate from chickens or
-  manage aggressively. Symptoms: yellow diarrhea, lethargy, darkened head.
-- Respiratory disease (mycoplasma, aspergillosis) — prevent with good
-  ventilation and dry conditions.
-- Coccidiosis — common in young poults. Prevent with medicated feed or
-  clean management.
-- Fowl pox — viral, spread by mosquitoes. Dry scabs on unfeathered areas.
-  No treatment; vaccinate if endemic.
-- Worms — roundworms, capillaria. Treat with fenbendazole or ivermectin.
-- Pododermatitis (foot sores) — from hard or dirty surfaces. Provide
-  clean bedding.
-
-### Preventive Care
-- Quarantine new birds for 30 days.
-- Biosecurity: change clothes and footwear between turkey and chicken areas.
-- See [[homestead-poultry-health]] for comprehensive biosecurity protocols.
-- Clean water, dry litter, good ventilation are the foundations of health.
-- Apple cider vinegar in water (1 tbsp/gallon) supports immune health.
-
-## Links
-
-- [[duck-keeping]]
-- [[homestead-poultry-health]]
-- [[quail-husbandry-detailed]]
-- [[livestock-feed-formulation]]
+## See Also
+- [[mollison-geese-grass-control-and-integrated-poultry]]
 - [[animal-harvest-and-processing]]
+- [[query-do-beans-and-peas-feed-nearby-plants-with-nitrogen]]
+- [[query-how-do-i-use-black-soldier-flies-for-composting-and-animal-feed]]

@@ -9,7 +9,7 @@ sources:
 ---
 # 2C-G-4
 
-**PIHKAL Entry #29** -- 2,5-Dimethoxy-3,4-(tetramethylene)phenethylamine;
+**[[2c-b-pihkal-entry-20]] #29** -- 2,5-Dimethoxy-3,4-(tetramethylene)phenethylamine;
 6-(2-aminoethyl)-5,8-dimethoxy-tetralin
 
 ## Chemical Name
@@ -48,7 +48,7 @@ tetrahydronaphthol (21.4 g, mp 107-114 degrees C after distillation, mp
 acetic acid gave consistently less than 40% yield.
 
 (4) Methylation with K2CO3 and methyl iodide in acetone -- but this gave
-mixtures that could only be resolved by chromatographic separation on silica gel
+mixtures that could only be resolved by chromatographic separation on [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]]
 (TLC: ether product Rf 0.5, phenol Rf 0.1). After chromatography and
 recrystallization from hexane at dry ice temperature, 2.40 g of 5,8-dimethoxy-
 tetralin was obtained as glistening white crystals, mp 44-45 degrees C.

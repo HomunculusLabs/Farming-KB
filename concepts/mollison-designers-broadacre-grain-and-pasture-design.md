@@ -1,5 +1,5 @@
 ---
-title: Broadacre Grain and Pasture Design
+title: mollison designers broadacre grain and pasture design and Pasture Design
 created: 2026-04-28
 tags:
   - permaculture
@@ -22,7 +22,7 @@ species selection guidance.
 ## Pasture Species Selection
 
 Mollison advocates mixed-species pastures that include legumes, grasses, and
-forbs. In temperate zones, white clover, red clover, lucerne, chicory, plantain,
+forbs. In temperate zones, [[fukuoka-white-clover-cover-crop-system]], red clover, lucerne, chicory, plantain,
  cocksfoot, and ryegrass form productive and resilient swards. In subtropical
 and tropical zones, species such as siratro, centro, stylo, kikuyu, and rhodes
 grass are more appropriate. Deep-rooted species like chicory and lucerne
@@ -51,14 +51,14 @@ feed without additional land allocation.
 
 ## Minimum Tillage Approaches
 
-Permaculture design favours minimum or zero tillage on broadacre scale.
+[[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] favours minimum or zero tillage on broadacre scale.
 Direct drilling (no-till seeding) places seed into undisturbed soil using
 specialised machinery. Pastures are established by overdrilling legumes into
 existing swards rather than cultivating and resowing. Where cultivation is
 unavoidable, shallow tillage that minimises soil structure disruption is
 preferred.
 
-Cover crops between grain phases protect the soil surface and add organic
+[[gaias-garden-cover-crops-soil-building]] between grain phases protect the soil surface and add organic
 matter. The use of roller-crimpers to terminate cover crops without herbicides
 is increasingly viable. Residue retention on the soil surface reduces
 evaporation, moderates soil temperature, suppresses weeds, and feeds soil
@@ -86,7 +86,7 @@ zoned with intensively managed areas near the homestead and broader zones for
 extensive grazing and cropping at greater distances. Windbreaks are planted on
 exposed boundaries using multi-row designs of productive species. Corridors of
 native vegetation connect remnant patches, supporting wildlife that provides
-pest control services.
+[[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] services.
 
 ## Economic Considerations
 

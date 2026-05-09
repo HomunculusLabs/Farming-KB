@@ -1,7 +1,7 @@
 ---
 title: "Psilocybin, Set, and Setting"
 created: 2026-04-26
-sources: "The Psilocybin Solution — Simon G. Powell"
+sources: "The powell-psilocybin-solution-ecological-cognition-theory — Simon G. Powell"
 author: "Simon G. Powell"
 topics: ["set-and-setting", "psilocybin", "psychedelic-preparation", "context", "environment"]
 type: concept
@@ -11,7 +11,7 @@ updated: 2026-04-26
 
 # Psilocybin, Set, and Setting
 
-The importance of set and setting — the subject's mental state and physical environment — is a
+The importance of [[set-and-setting]] — the subject's mental state and physical environment — is a
 recurring theme throughout Powell's *The Psilocybin Solution*. While he does not dedicate a
 single chapter to the topic, he weaves the principle through every discussion of psychedelic
 experience, using historical and contemporary examples to demonstrate that context is paramount
@@ -19,10 +19,10 @@ in determining whether the psilocybin experience proves beneficial or harmful.
 
 ## The Harvard Studies: Proof of Concept
 
-Powell documents how the Harvard Psilocybin Project placed "experimental emphasis upon providing
-a relaxed and supportive setting." He writes that "this important notion of set and setting —
+Powell documents how the [[leary-harvard-psilocybin-project]] Project placed "experimental emphasis upon providing
+a relaxed and supportive setting." He writes that "this important notion of [[lsd-set-and-setting-framework]] —
 the subject's mental and physical environment prior to taking the psilocybin — can never be
-stressed enough as they are crucial factors determining the subsequent psychedelic experience."
+stressed enough as they are crucial factors determining the subsequent [[leary-psychedelic-experience-bardo-mapping]]."
 
 Leary and his co-workers had established these facts amongst themselves before official
 experimentation and were "at pains to point out how set and setting played a key role in whether
@@ -47,7 +47,7 @@ material by hand."
 This observation connects to his broader argument about naturalness. The actual act of mushroom
 collection "leaves an indelible earthly mark upon the memory." The pill represents a
 "technological fix" that divorces the experience from its ecological context. Koestler, who
-received pills, perceived psilocybin as a technological product; had he picked wild mushrooms,
+received pills, perceived psilocybin as a technological product; had he picked [[edible-wild-mushrooms-by-region]],
 his experience might have been more rewarding. The "very earthly symbol of the wild mushroom"
 carries contextual meaning absent from the pharmaceutical pill.
 
@@ -56,8 +56,8 @@ carries contextual meaning absent from the pharmaceutical pill.
 Powell quotes Robert Graves' prescient warning about preparation:
 
 > "Good and Evil alternate in most peoples' hearts. Few are habitually at peace with themselves
-> and whoever prepares to eat hallucinogenic mushrooms should take as careful stock of his
-> mental and moral well-being as initiates took before attending the Eleusinian Mysteries.
+> and whoever prepares to eat [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] should take as careful stock of his
+> mental and moral well-being as initiates took before attending the [[eleusinian-mysteries]].
 > This peculiar virtue of psilocybin, the power to enhance personal reality, turns 'Know
 > Thyself' into a practical precept."
 
@@ -79,7 +79,7 @@ The spiritual effects of the mushroom are likened to a torrent that can "hit the
 mind, or at least the wrong state of mind, causing the stream to be blocked. Where it cannot
 flow on and blossom, psilocybin's gloriously numinous potential will remain unrealised." Powell
 writes: "Had Koestler been in the possession of the right frame of mind and received the
-ultimate gift of the psilocybin mushroom...then perhaps he would have embraced psilocybin's
+ultimate gift of the [[psilocybin-mushroom]]...then perhaps he would have embraced psilocybin's
 cultural healing potential." This underscores that set is not merely important but potentially
 decisive.
 
@@ -91,7 +91,7 @@ set-and-setting management:
 - **Aztec caution**: The mushroom was not eaten "frivolously for excitement" but spoken of as
   "muy delicado" — perilous. It was referred to with awe and reverence and was not "some
   common drug like alcohol to be taken at the drop of a hat."
-- **Siberian cultural controls**: Taboos restricted fly agaric use to shamans within ritual
+- **Siberian cultural controls**: Taboos restricted [[fly-agaric]] use to shamans within ritual
   contexts. Cultural injunctions evolved to stop others wantonly utilising the mushroom's
   strange power, preventing casual misuse.
 - **Amazonian preparation**: Elaborate dietary restrictions and ceremonial structure provide

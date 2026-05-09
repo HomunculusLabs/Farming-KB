@@ -68,7 +68,7 @@ crop with significant nutritional value.
 - **Ascorbic acid (Vitamin C):** 23.3 - 33.9 mg
 
 ### Additional Uses
-- **Bee forage:** Tree has some value as nectar source for bees
+- **[[mollison-designers-bee-forage-tree-planting]]:** Tree has some value as nectar source for bees
 - **Ornamental:** Attractive shrub for home gardens
 
 ### Propagation
@@ -83,7 +83,7 @@ temperate [[food-forest-design]]
 - [[feijoa]]
 - Pepino
 - Cape Gooseberry
-- Subtropical Fruit Trees
-- Small Garden Fruit Crops
+- Subtropical [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
+- Small Garden uncommon specialty fruit crops for permaculture
 
-See also: [[pomegranate-cultivation-and-variety-guide]]
+See also: [[comparison-olive-vs-fig-vs-pomegranate-mediterranean-fruit-trees]]

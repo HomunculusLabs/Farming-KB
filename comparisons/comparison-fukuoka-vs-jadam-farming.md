@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka Natural Farming vs JADAM Farming"
+title: "masanobu-fukuoka-natural-farming-philosophy Farming vs query-what-is-jadam-farming-and-how-does-it-work"
 created: 2026-04-28
 tags: [comparisons, natural-farming, organic-farming, fukuoka, jadam, low-cost-farming]
 date: 2026-04-25
@@ -18,7 +18,7 @@ Fukuoka's system is a holistic philosophy expressed through minimal intervention
 
 Both systems achieve comparable conventional yields at roughly $100 per acre annually. Both reject the premise that high yields require expensive chemical inputs. But they arrive at this conclusion from very different starting points and offer farmers very different paths forward.
 
-For farmers choosing between them, the decision often comes down to temperament and context: whether you value philosophical depth and ecological elegance (Fukuoka) or practical structure and rapid results (JADAM). The following sections break down each system in detail.
+For farmers choosing between them, the decision often comes down to temperament and context: whether you value philosophical depth and ecological elegance (Fukuoka) or practical structure and rapid results (JADAM). The following sections [[query-can-fungi-break-down-plastic-pollution]] each system in detail.
 
 ## Fukuoka Natural Farming
 
@@ -29,10 +29,10 @@ Masanobu Fukuoka's "do-nothing" method, detailed in [[desertification-and-vegeta
 ## JADAM Farming
 
 [[natural-farming-fukuoka]] — detailed guide to Fukuoka's four principles and rice-barley system
-- [[query-jadam-vs-korean-natural-farming]] — how JADAM relates to Korean Natural Farming
-- [[cover-cropping-guide]] — selecting and managing cover crops across systems
+- [[query-jadam-vs-korean-natural-farming]] — how JADAM relates to [[query-jadam-vs-korean-natural-farming]] Farming
+- [[cover-cropping-guide]] — selecting and managing [[gaias-garden-cover-crops-soil-building]] across systems
 - [[ultra-low-cost-farming-overview]] — economic analysis of minimal-input agriculture strategies
-- [[soil-food-web]] — the microbial ecology both methods ultimately depend on
+- [[soil-food-web]] — the [[fukuoka-microbial-ecology-decomposition]] both methods ultimately depend on
 ## Practical Applications
 
 Fukuoka Natural Farming vs JADAM Farming has a range of practical applications that make it relevant to
@@ -110,4 +110,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

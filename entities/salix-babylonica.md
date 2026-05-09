@@ -9,10 +9,10 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Fang, Z. et al. (1999). "A revision of Salix section Crematothecae." Harvard Papers in Botany, 4(1), 197–204.
-  - Argus, G.W. (2010). "Salix of North America." American Journal of Botany, 97(5), 797–821.
+  - Argus, G.W. (2010). "Salix of [[psilocybin-north-america-pacific-northwest]]." American Journal of Botany, 97(5), 797–821.
   - Newsholme, C. (1992). "Willows: The Genus Salix." B.T. Batsford Ltd, London.
   - USDA Natural Resources Conservation Service. "Salix babylonica" Plant Profile.
-  - Zsuffa, L. et al. (1984). "Willow: A Fast-Growing Tree for Biomass Production." University of Toronto, Faculty of Forestry.
+  - Zsuffa, L. et al. (1984). "Willow: A Fast-Growing Tree for [[dighton-fungal-biomass-production-aquatic-ecosystems]]." University of Toronto, Faculty of Forestry.
 ---
 
 ## Overview
@@ -39,7 +39,7 @@ Bark on young trees is smooth and grayish-green, developing thick, irregular rid
 
 Leaves are lanceolate, 5–15 cm long and 0.8–2 cm wide, with finely serrated margins. They are bright green above and glaucous below, turning yellow in autumn before falling.
 
-Flowers appear in early spring before leaf emergence as cylindrical catkins. Male catkins are 2–4 cm long with yellow anthers; female catkins are 2–3 cm with green stigmas.
+Flowers appear in [[coleman-overwintered-onions-and-early-spring-crops]] before leaf emergence as cylindrical catkins. Male catkins are 2–4 cm long with yellow anthers; female catkins are 2–3 cm with green stigmas.
 
 ## Distribution and Habitat
 
@@ -53,7 +53,7 @@ It thrives in full sun and moist, well-drained soils, preferring loamy or alluvi
 
 Optimal growth occurs in USDA hardiness zones 6–9, with winter temperatures down to −23°C. It is relatively short-lived for a tree, typically 40–75 years, with senescence often beginning around age 50.
 
-In parts of the southeastern United States and southeastern Australia, weeping willow has become naturalized along waterways. It readily colonizes disturbed riparian areas through seed dispersal and broken branch fragments that root on moist substrates.
+In parts of the southeastern [[dmt-containing-plants-united-states-halpern]] and southeastern Australia, weeping willow has become naturalized along waterways. It readily colonizes disturbed riparian areas through seed dispersal and broken branch fragments that root on moist substrates.
 
 The species hybridizes freely with other *Salix* species, particularly *S. alba* in Europe. The hybrid *S. × sepulcralis* (weeping willow × white willow) is common in cultivation and shares the pendulous habit of *S. babylonica* with the greater hardiness of *S. alba*.
 
@@ -85,7 +85,7 @@ In Western literary tradition, the weeping willow symbolizes mourning, sorrow, a
 
 The tree appears in the Hebrew Bible (Psalm 137), where Hebrew captives hung their harps upon willows by the rivers of Babylon. This passage cemented the association between willows and exile in Judeo-Christian tradition.
 
-Islamic tradition holds that the willow is one of the blessed trees, and it features in Persian miniature paintings alongside garden pavilions and water channels as a symbol of paradise.
+Islamic tradition holds that the willow is one of the blessed trees, and it features in Persian miniature paintings [[query-how-can-i-grow-mushrooms-alongside-garden-vegetables]] pavilions and water channels as a symbol of paradise.
 
 In Japanese culture, weeping willows appear in ukiyo-e woodblock prints and garden design. They symbolize resilience and grace under adversity, their flexible branches bending without breaking in wind and rain.
 
@@ -101,7 +101,7 @@ Willow roots contribute to streambank stabilization, reducing erosion with dense
 
 The species is susceptible to several diseases and pests including willow scab (*Venturia saliciperda*), black canker (*Glomerella miyabeana*), and the giant willow aphid (*Tuberolachnus salignus*). Crown gall (*Agrobacterium tumefaciens*) can also affect young plantings.
 
-Waterfowl and songbirds use weeping willow for nesting and shelter. The dense root systems create microhabitats for aquatic organisms, while leaf litter inputs contribute organic matter to stream food webs.
+Waterfowl and songbirds use weeping willow for nesting and shelter. The dense root systems create microhabitats for aquatic organisms, while leaf litter inputs contribute [[hamilton-composting-and-organic-matter-management]] to stream food webs.
 
 In urban settings, the aggressive root system can damage underground pipes, foundations, and paving. This characteristic limits suitability for street planting and small residential lots despite its ornamental appeal.
 

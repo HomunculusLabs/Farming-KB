@@ -30,8 +30,8 @@ updated: 2026-05-02
 # Trichoderma
 
 **Trichoderma** is a genus of fast-growing filamentous fungi in the family Hypocreaceae.
-It is common in soils, composts, decaying wood, potting mixes, and mushroom cultivation rooms.
-The genus is important because the same traits that make many species useful biocontrol organisms also make them aggressive competitors of cultivated mushrooms.
+It is common in soils, composts, decaying wood, potting mixes, and [[accessible-mushroom-cultivation-for-disabilities]] rooms.
+The genus is important because the same traits that make many species useful biocontrol organisms also make them aggressive competitors of [[fungi-cultivated-mushrooms-pathogens-competitors]].
 Most practical encounters with Trichoderma are with green-spored molds that expand rapidly across nutrient-rich substrates.
 
 ## Taxonomic position
@@ -78,7 +78,7 @@ The practical response is prevention: clean spawn, correct pasteurization, air c
 
 ## Beneficial uses
 
-Many Trichoderma species are developed as biological control agents against plant pathogens.
+Many Trichoderma species are developed as [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents against plant pathogens.
 Commercial strains may suppress Fusarium, Rhizoctonia, Pythium, Botrytis, and other root or foliar pathogens.
 Mechanisms include competition, mycoparasitism, antibiotic production, enzyme secretion, and induction of plant defenses.
 Some strains improve root growth or nutrient uptake when matched to the crop and soil environment.
@@ -100,15 +100,15 @@ Accurate diagnosis should consider Penicillium, Aspergillus, and other green mol
 Do not open heavily sporulating cultures in a clean workspace.
 Seal contaminated jars, bags, or trays before removal when possible.
 Review sterilization or pasteurization procedures after repeated outbreaks.
-Check grain hydration, filter integrity, inoculation technique, and incubation temperature.
-Avoid reusing contaminated casing or substrate materials.
+Check grain hydration, filter integrity, [[pf-tek-inoculation-technique-and-syringe-management]], and incubation temperature.
+Avoid reusing contaminated casing or [[growing-gourmet-substrate-materials-wood-types]].
 Clean surfaces with methods appropriate to the room rather than relying on odor or color as proof of sanitation.
 Biocontrol products containing Trichoderma should be stored away from mushroom spawn and sterile work areas.
 
 ## Distinguishing context
 
 Trichoderma as a genus is not a single pathogen with one behavior.
-A strain sold for plant disease suppression may be beneficial in a vegetable bed and disastrous in a mushroom block.
+A strain sold for plant [[aact-disease-suppression-mechanisms-ingham]] may be beneficial in a vegetable bed and disastrous in a mushroom block.
 Species names in old manuals may not match modern molecular taxonomy.
 The practical category for cultivators is often "fast green mold competitor" rather than exact species identity.
 For ecological writing, however, the genus is also a model for fungal antagonism and root-associated mutualism.
@@ -117,7 +117,7 @@ For ecological writing, however, the genus is also a model for fungal antagonism
 
 [[trichoderma-reesei]] is notable for cellulase enzyme production.
 [[trichoderma-virens]] is associated with mycoparasitism and biological control.
-[[pleurotus-species-and-varieties]] pages mention Trichoderma because oyster blocks are vulnerable to green mold.
+pleurotus-species-and-varieties pages mention Trichoderma because oyster blocks are vulnerable to green mold.
 
 ## Key takeaways
 
@@ -126,3 +126,6 @@ Its rapid growth and abundant spores make it a serious mushroom cultivation cont
 The same genus contains useful agricultural biocontrol agents and industrial enzyme producers.
 Identification by color alone is provisional.
 Management depends on preventing entry, reducing favorable conditions, and removing sporulating material quickly.
+- [[trichoderma-harzianum]]
+- [[trichoderma-reesei]]
+- [[trichoderma-viride]]

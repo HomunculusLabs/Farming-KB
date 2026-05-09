@@ -29,7 +29,7 @@ Fukuoka's vision of a world of farmers is founded on the responsibility of all p
 
 This would be more than just a return to primitive society. It would be a way of life in which one constantly reaffirms the source of life. Man must also turn away from a world of expansion and extinction, and place his faith instead in contraction and revival.
 
-This society of farmers may take the form of peasant farming, but it must comprise natural farming that transcends the age and searches earnestly for the wellsprings of agriculture. The earth is not merely soil, and the blue sky is more than just empty space. The earth is the garden of God, and the sky is where He sits.
+This society of farmers may take the form of peasant farming, but it must comprise [[natural-farming]] that transcends the age and searches earnestly for the wellsprings of agriculture. The earth is not merely soil, and the blue sky is more than just empty space. The earth is the garden of God, and the sky is where He sits.
 
 The farmer who, chewing well the grain harvested from the Lord's garden, raises his face to the heavens in gratitude, lives the best and most perfect life possible.
 
@@ -37,7 +37,7 @@ The farmer who, chewing well the grain harvested from the Lord's garden, raises 
 
 Japan has about 15 million acres of farming land, which works out to about a quarter-acre per adult. If Japan's land were divided evenly among 20 million households, this would give each household three quarters of an acre of farmland plus two and a half acres of mountain and meadow land.
 
-With total reliance on natural farming, all it takes to support a household of several people is a quarter-acre. On this amount of land, one could build a small house, grow grains and vegetables, raise a goat, and even keep several chickens and a hive of bees.
+With total reliance on [[comparison-natural-farming-vs-permaculture]], all it takes to support a household of several people is a quarter-acre. On this amount of land, one could build a small house, grow grains and vegetables, raise a goat, and even keep several chickens and a hive of bees.
 
 If everyone were capable of being content with the life of a quarter-acre farmer, then this would not be impossible to achieve. More to the point, everyone has a right and a duty to live their lives within narrow bounds. This is the basic condition for achieving an ideal life.
 
@@ -79,7 +79,7 @@ Legally, a "farmer" is someone who owns at least one and a quarter acres of farm
 
 Once this is done, the land can easily be sold or a house built on it. Even in sparsely populated areas, unused land is left abandoned because it cannot be transferred or leased for the simple reason that the use category cannot be changed.
 
-The mountains, forests, and wilderness land that accounts for about eighty percent of Japan's land area is tied up by titles and laws that prevent its practical use. If even a small portion of this area were freed for use as agricultural land, homesteading would begin immediately.
+The mountains, forests, and wilderness land that accounts for about eighty percent of Japan's land area is tied up by titles and laws that prevent its practical use. If even a small portion of this area were freed for use as agricultural land, [[homesteading]] would begin immediately.
 
 These farmlands can be expanded and made fluid not by establishing new laws but by abolishing unnecessary ones. Laws that do not arise and are not consummated naturally do not remain in force very long.
 
@@ -105,7 +105,7 @@ If people were to scatter out and build a small house on a quarter-acre wherever
 
 The reason the farmers of the past were poor and hungry was not that their land was too small to support them. Their poverty was not of their own making. They were the victims of outside forces: an oppressive social system and political and economic mechanisms beyond their control.
 
-Farmers at the time were said to grow a hundred crops. In the paddy field and vegetable gardens, they raised rice, barley, and other grains, as well as sweet potato and many different vegetables. Fruits ripened on trees next to the farmhouse, which was surrounded by a shelterbelt.
+Farmers at the time were said to grow a hundred crops. In the paddy field and vegetable gardens, they raised rice, barley, and other grains, as well as [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]] and many different vegetables. Fruits ripened on trees next to the farmhouse, which was surrounded by a shelterbelt.
 
 A cow was kept under the same roof and chickens ran about loose in the farmyard, protected by a dog. A beehive hung from the eaves. All peasants were totally self-supporting and enjoyed the richest and safest possible diet.
 

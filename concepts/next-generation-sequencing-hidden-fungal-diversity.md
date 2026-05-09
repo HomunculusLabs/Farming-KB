@@ -17,10 +17,10 @@ type: concept
 # Next-Generation Sequencing and Hidden Fungal Diversity
 
 Next-generation sequencing (NGS) technologies have revolutionized the
-documentation of fungal biodiversity, revealing that the vast majority of fungal
-diversity remains hidden from traditional morphology-based survey methods.
+documentation of [[biodiversity-fungal-biodiversity-estimation-methods]], revealing that the vast majority of fungal
+diversity remains hidden from traditional morphology-based [[mycetozoan-survey-methods-substratum-plating]].
 Culture-independent approaches using environmental DNA have exposed an
-enormous reservoir of [[biodiversity-fungi-molecular-methods]] based on ITS sequencing have revealed that individual environmental samples typically contain hundreds of fungal operational taxonomic units, the majority of which cannot be assigned to described species. Long-read sequencing platforms are now enabling full-length ITS recovery, improving taxonomic resolution for environmental sequences.
+enormous reservoir of biodiversity-fungi-molecular-methods based on ITS sequencing have revealed that individual environmental samples typically contain hundreds of fungal operational taxonomic units, the majority of which cannot be assigned to described species. Long-read sequencing platforms are now enabling full-length ITS recovery, improving taxonomic resolution for environmental sequences.
 
 ## Metagenomics and Metatranscriptomics
 
@@ -30,15 +30,15 @@ Metagenomic approaches have revealed fungal diversity in environments where
 amplification-based methods fail, such as highly saline or acidic habitats where
 DNA extraction and primer matching are problematic. Metatranscriptomics adds a
 functional dimension by capturing actively expressed fungal genes, allowing
-researchers to distinguish between dormant spores and metabolically active
+researchers to distinguish between dormant spores and [[isolation-metabolically-active-arbuscules-intraradical-hyphae]]
 fungal communities. These approaches have revealed that fungal communities in
-[[biodiversity-fungal-culture-media]] optimization
+[[fungal-culture-media]] optimization
 cycle, guided by molecular data, represents a promising convergence of
-traditional and modern mycological approaches.
+traditional and [[telluride-mushroom-festival-modern-mycological-culture]] approaches.
 
 ## Bioinformatic Challenges and Reference Gaps
 
-The utility of NGS data for fungal biodiversity assessment is constrained by
+The utility of NGS data for fungal [[fungal-biodiversity-assessment-methods]] is constrained by
 the completeness and accuracy of reference sequence databases. A large
 proportion of environmental fungal sequences cannot be assigned below the phylum
 or order level because reference sequences from described species are lacking.
@@ -46,7 +46,7 @@ The [[biodiversity-fungal-species-abundance-diversity]]. Extrapolations based on
 
 ## See Also
 
-- [[biodiversity-fungi-molecular-methods]]
+- biodiversity-fungi-molecular-methods
 - [[fungal-species-estimates-biodiversity-overview]]
 - [[cryptic-fungal-species]]
 ## Practical Considerations
@@ -65,7 +65,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +107,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

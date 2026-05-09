@@ -1,7 +1,7 @@
 ---
 title: Fungal Communities in Grassland Soils
 created: 2026-04-26
-sources: Dighton (2003) "Fungi in Ecosystem Processes" Ch. 3, 5, 6
+sources: Dighton (2003) "Fungi in fungal-ecosystem-processes-overview" Ch. 3, 5, 6
 tags: [grassland, prairie, arbuscular-mycorrhiza, savanna, AM-diversity, tallgrass]
 related: [dighton-fungal-biodiversity-forest-ecosystems, dighton-fungal-mediated-plant-competition]
 type: concept
@@ -12,7 +12,7 @@ updated: 2026-04-26
 
 ## Overview
 
-Grassland ecosystems are dominated by arbuscular mycorrhizal (AM) fungi, which form associations with the majority of herbaceous plant species. AM fungal communities in grasslands exhibit significant host specificity, spatial heterogeneity, and functional diversity that collectively influence plant community structure, productivity, and ecosystem stability.
+Grassland ecosystems are dominated by [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] (AM) fungi, which form associations with the majority of herbaceous plant species. AM fungal communities in grasslands exhibit significant host specificity, spatial heterogeneity, and [[fungal-functional-diversity-decomposition]] that collectively influence plant community structure, productivity, and ecosystem stability.
 
 ## Mycorrhizal Distribution in Grasslands
 
@@ -52,14 +52,14 @@ Key findings:
 Gange et al. (1993) showed that applying fungicide to grassland:
 - Reduced total root colonization by AM fungi
 - Reduced plant species diversity
-- Likely had differential effects on different AM fungal species, reducing mycorrhizal diversity itself
+- Likely had differential effects on different AM fungal species, reducing [[dighton-mycorrhizal-diversity-ecosystem-function]] itself
 
 ## Clonal Plant Colonization
 
 Streitwolf-Engel et al. (2001) demonstrated that AM fungal species identity significantly influenced clonal reproduction in *Prunella vulgaris*:
 - Number of ramets produced was significantly related to mycorrhizal species
 - Stolon length and spacing between daughter plantlets was determined by host genotype, not mycorrhizal partner
-- Both AM presence and community composition influence the ability of clonal plants to colonize new areas via stolons
+- Both AM presence and [[core-endorhiza-bacterial-community-composition-cannabis]] influence the ability of clonal plants to colonize new areas via stolons
 
 ## Grassland Soil Carbon and Aggregates
 
@@ -67,7 +67,7 @@ Streitwolf-Engel et al. (2001) demonstrated that AM fungal species identity sign
 
 Jastrow (1996) documented carbon recovery during prairie restoration from agriculture (see dighton-fungal-role-soil-aggregation):
 
-- Aggregate formation rate was 35x faster than whole-soil C accumulation
+- [[soil-aggregate-formation-fungal-contributions]] rate was 35x faster than whole-soil C accumulation
 - Aggregate carbon is of very recent origin -- derived from bacterial and fungal biomass
 - Fungal cell wall residues bind microaggregates into macroaggregates
 - Under elevated CO₂, Jastrow et al. (2000) showed increased C and N stocks in tallgrass prairie
@@ -111,5 +111,5 @@ Jastrow (1996) documented carbon recovery during prairie restoration from agricu
 
 - [[arbuscular-mycorrhizal-fungi]]
 - [[fungal-roles-grassland-ecosystems]]
-- [[fungal-diversity-agricultural-systems]]
+- fungal-diversity-agricultural-systems
 - [[mycorrhizal-fungi-biome-surveys]]

@@ -4,7 +4,8 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [water, conservation]
-sources: []
+sources:
+  - "raw/papers/amaringo-p-ayahuasca-visions.md"
 ---
 
 # Amazonian Boa Spirits and Water Beings in Shamanic Practice
@@ -55,51 +56,94 @@ The boa's hypnotic gaze is used therapeutically:
 Some boa spirits are invoked to extract illness from patients. Their powerful electromagnetism can draw out harmful substances implanted by sorcerers.
 
 ## Boas in Sorcery
-
-### Electromagnetic Warfare
-When witches deploy the yana-yakumama, the resulting electrified tornado liberates a terrifying array of attacking creatures. The boa serves as an aircraft carrier of spiritual warfare.
-
-### Boa Pregnancy
-A woman can be "begot by a boa" (Boa Chichuchishca) if she leaves wet underwear by the riverside during menstruation. A boa places itself on the clothes and excretes something living that later gives birth inside her. The vegetalista must sing icaros to make the boa come out, using jagua fruit and protective icaros of diamonds, gold, silver, and precious stones.
-
-### The Sacrataquina
-A maleficent song sung by the yana-puma-runa (black tiger-people) who accompany the yana-yakumama. This song is a weapon of sorcery that bewitches and harms.
-
-## Other Water Beings
-
-### Yaku-Salamandra
-A water salamander capable of poisoning with its respiration alone. Found behind the yana-yakumama in battle visions.
-
-### Puka-Puma-Runa (Red Tiger People)
-Beings with red tiger features guarding an aquatic plant that lives on the bottom of stony brooks with strong current. This plant rises to the surface to eat people -- an example of how even plants can be predatory spirit beings.
-
-### Shucui-Yahuarminta (Blood-Sucker)
-A plant called by sorcerers in their visions to suck the blood of a healer. The name literally means "blood-sucking plant."
-
-### Alipa-Shimi (Earth's Mouth)
-A sort of well in the ground that the Sinchicunan-muraya can open. A big spider (atun-machipuri) dwells there, producing melodies by touching its web threads. These melodies captivate the yana-yakumama, demonstrating that even the most dangerous beings can be controlled by the right icaros.
-
-### Rayamama / Pambamuri
-The ray spirit, listed among the powers of the muraya who recovers kidnapped victims from yakurunas.
-
-### Yaka-Caballo (Horse of the Water)
-A water horse spirit, one of the many aquatic genies available to muraya-level healers.
-
-## The Boa Archetype
-
-The boa/anaconda embodies:
-- **The earth**: Sachamama is literally "forest mother" appearing as a colossal serpent
-- **The water**: Yakumama is "water mother" -- the yakuruna realm is governed by serpent beings
-- **Transformation**: Boas can change shape, becoming humans, trees, or other animals
-- **Life force**: The serpent shedding its skin symbolizes renewal
-- **Danger and power**: The most feared and respected of all Amazonian spirit beings
-
-In Amaringo's cosmology, the ability to work with boa spirits -- whether as healer or sorcerer -- marks the highest level of shamanic accomplishment.
-
 ## Related
+
+- [[ayahuasca]]
 
 - [[yakuruna-water-spirits-of-the-amazon]] -- the yakuruna water people
 - [[amazonian-shamanic-battles-and-defensive-powers]] -- boas in combat
-- [[holmgren-trees-nature-solar-power-plants]]
+- holmgren-trees-nature-solar-power-plants
 - [[amazonian-sorcery-illness-and-curing-practices]]
 - [[fungi-living-plants-anthracnose-ergot-fruit-rots]]
+
+## Merged: Amazonian Mythological Beings in Pablo Amaringo's Visionary World
+
+# Amazonian Mythological Beings in Pablo Amaringo's Visionary World
+
+Pablo Amaringo (1938–2009) was a Peruvian **vegetalista** and painter whose
+visionary art documents the spirit beings encountered during **ayahuasca**
+ceremonies. His paintings, collected in *Ayahuasca Visions* (Luna & Amaringo,
+1991), reveal a complex cosmology of Amazonian mythological entities that
+inhabit rivers, forests, mountains, and atmospheric realms — experienced as
+living presences with agency, power, and moral significance.
+
+---
+
+## Sachamama — Mother of the Forest
+
+**Vision 15**
+
+The Sachamama ("mother of the forest") is a serpent of colossal proportions,
+so thoroughly integrated with the landscape that trees and weeds grow on her
+body. She may remain stationary for hundreds of years in a single location,
+becoming indistinguishable from a small hill or earthen mound. A small pond
+lies nearby, from which she drinks.
+
+She is surrounded by animal and human bones — vomited from her mouth over
+her lifetime — while digested meat is expelled through her rectum. The
+Sachamama possesses a powerful magnetic force centered near her head: anyone
+who passes too close is magnetized and swallowed whole. Travelers can
+inadvertently climb atop her without realizing what she is.
+
+When she finally moves, the ecological impact is devastating — she throws
+down the trees on her back and clears a path by flattening others, producing
+strong winds, lightning, and rain. She embodies the forest as both nurturer
+and consuming force.
+
+---
+
+## Chullachaki — Lord of the Forest
+
+**Vision 16**
+
+The Chullachaki is a forest spirit dressed in brilliant royal gowns, often
+depicted reading a parchment decree concerning the care of wild animals. The
+**shapshicos** and **sacharunas** — forest guardians — attend the reading.
+Their clothing is so luminous that nearby leaves shine "like light bulbs."
+
+The Chullachaki presides over a Bacchanalian feast of dances, music, and
+entrancing singing. Animals are summoned through telepathic vibration,
+communicated via what Amaringo calls "the instinct of the psychic cord."
+
+However, the Chullachaki is also feared as a trickster — notorious for leading
+hunters and travelers astray, causing them to walk in circles for days.
+
+---
+
+## Yakumama — Mother of the Waters
+
+**Multiple visions**
+
+The Yakumama ("mother of the water") is a water serpent of enormous size,
+sometimes manifesting in the form of a steamboat. Experienced **murayas**
+(senior healers) use the Yakumama to descend to the deepest parts of rivers,
+where she transforms into a submarine-like vessel.
+
+She wields magnetic power in her tongue, capable of capturing anyone who
+attempts to enter the underwater city by force. The Yakumama also throws her
+rainbow to impart strength to medicine — a direct link between her being and
+the pharmacological power of [[ayahuasca]] trance
+  and serve as allies, teachers, and adversaries for the vegetalista.
+
+---
+## See Also
+
+- [[pablo-amaringo]] — Overview of Amaringo's work
+- vegetalismo tradition — The healer tradition of the Peruvian Amazon
+- sachamama — Detailed page on the forest serpent mother
+- yakumama — Detailed page on the water serpent mother
+- chullachaki — Detailed page on the forest trickster spirit
+
+## See Also
+
+- [[amazonian-medicinal-plants-in-amaringos-visions]]

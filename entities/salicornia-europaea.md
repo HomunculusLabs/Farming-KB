@@ -13,8 +13,8 @@ updated: 2026-04-28
 sources:
   - Davy, A.J. et al. (2001). "Developmental plasticity in Salicornia." In: Coastal Saltmarsh Management. Elsevier.
   - Kentsch, M. (2019). "Salicornia europaea: biology, ecology, and uses." Wetlands Ecology and Management, 27, 1-22.
-  - Venturin, S. et al. (2023). "Nutritional composition and bioactive compounds of Salicornia species." Journal of Food Composition and Analysis, 115, 104678.
-  - Hasanuzzaman, M. et al. (2021). "Salicornia as a model halophyte for salt tolerance research." Plant Stress, 2, 100012.
+  - Venturin, S. et al. (2023). "[[dighton-fungal-nutritional-composition-animal-diets]] and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] of Salicornia species." Journal of Food Composition and Analysis, 115, 104678.
+  - Hasanuzzaman, M. et al. (2021). "Salicornia as a model halophyte for [[fungal-salt-tolerance-and-ion-homeostasis]] research." Plant Stress, 2, 100012.
 created: 2026-05-07
 ---
 
@@ -22,7 +22,7 @@ created: 2026-05-07
 
 Salicornia europaea, commonly known as common glasswort or marsh samphire, is an annual succulent halophyte in the family Amaranthaceae (formerly Chenopodiaceae). It is one of the most salt-tolerant vascular plants known, capable of completing its lifecycle in seawater-strength salinity.
 
-The species is widely distributed across temperate coastal salt marshes of Europe, North America, and Asia. Its jointed, translucent green stems give rise to the name "glasswort," historically referencing its use in glassmaking as a soda ash source.
+The species is widely distributed across temperate coastal salt marshes of Europe, [[psilocybin-north-america-pacific-northwest]], and Asia. Its jointed, translucent green stems give rise to the name "glasswort," historically referencing its use in glassmaking as a soda ash source.
 
 The young shoots are commercially harvested as a gourmet vegetable, increasingly popular in high-end restaurants for their crisp texture and briny flavor. The plant is also gaining attention in halophyte agriculture as a salt-adapted crop for saline-irrigated farming systems.
 
@@ -80,7 +80,7 @@ Analysis has identified bioactive compounds including flavonoids, phenolic acids
 
 ## Ecology and Applications
 
-S. europaea is a primary producer in salt marsh ecosystems, contributing organic matter and providing habitat structure for invertebrates and juvenile fish.
+S. europaea is a primary producer in salt marsh ecosystems, contributing [[hamilton-composting-and-organic-matter-management]] and providing habitat structure for invertebrates and juvenile fish.
 
 Its root system helps stabilize intertidal sediments and promotes accretion, playing a role in coastal defense and marsh elevation maintenance.
 
@@ -94,7 +94,7 @@ The historical use of Salicornia in glassmaking relied on burning the plant to p
 
 ## Cultivation
 
-Commercial cultivation uses direct seeding into saline soils or hydroponic systems with seawater-based nutrient solutions.
+Commercial cultivation uses [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] into saline soils or hydroponic systems with seawater-based nutrient solutions.
 
 Seed germination requires light and is inhibited by burial; seeds are surface-sown on moist saline substrate.
 
@@ -108,8 +108,8 @@ Post-harvest, shoots are rapidly cooled and kept refrigerated to maintain qualit
 
 ## See Also
 
-- [[hippophae-rhamnoides]]
-- [[typha-latifolia-entity]]
+- hippophae-rhamnoides
+- typha-latifolia-entity
 - [[ceratonia-siliqua]]
 - [[urtica-dioica]]
 - [[hypericum-perforatum]]

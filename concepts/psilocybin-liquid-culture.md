@@ -24,18 +24,18 @@ sources:
 
 Mycelial liquid culture method, pure culture technique, strain maintenance, and detailed species cultivation parameters for psilocybin-containing mushrooms, from Gottlieb's Psilocybin Producer's Guide (1976).
 
-Related: [[psilocybin-mushroom-cultivation]], [[mushroom-cultivation-basics]], [[mushroom-substrates]], [[psychedelic-compounds-reference]]
+Related: [[psilocybin-cultivation]], [[mushroom-cultivation-basics]], [[mushroom-substrates]], [[psychedelic-compounds-reference]]
 
 ## Mycelial Liquid Culture Method (Gottlieb, 1976)
 
 Adam Gottlieb's Psilocybin Producer's Guide describes a broth-based mycelial cultivation approach that predates modern grain spawn and monotub methods. Instead of fruiting mushrooms, this technique grows mycelium in liquid broth and extracts alkaloids directly. Key advantages: faster (10-12 days), simpler equipment, scalable.
 
 ### Broth Media Recipes
-- **PDA (Potato Dextrose Yeast broth)**: 250g unpeeled potatoes boiled, strained liquid to 1L, add 10g dextrose + 1.5g yeast extract (no agar)
+- **PDA (Potato Dextrose Yeast broth)**: 250g unpeeled potatoes boiled, strained liquid to 1L, add 10g dextrose + 1.5g [[marmite-yeast-extract-straw-substrate]] (no agar)
 - **MEA broth**: 20g malt extract + 100mg K2HPO4 + 100mg CaCO3 per liter distilled water
 
 ### Culture Initiation
-- Spore germination: hydrate spore print in 10ml sterile water, dilute to 100ml, spot 3-4 drops per petri dish of agar medium. Wait 3-5 days for monokaryotic mycelia, then somatogamy (mating) occurs where mycelia contact each other
+- [[growing-gourmet-spore-germination-strain-isolation]]: hydrate spore print in 10ml sterile water, dilute to 100ml, spot 3-4 drops per petri dish of agar medium. Wait 3-5 days for monokaryotic mycelia, then somatogamy (mating) occurs where mycelia contact each other
 - Tissue culture: surface-sterilize cap with 7% iodine solution, excise inner tissue fragments (match-head size) with flame-sterilized blade, press into agar surface
 - Dikaryotic tissue from a mature mushroom can skip the mating step entirely
 
@@ -81,7 +81,7 @@ Detailed parameters for 17 psilocybin-containing species:
 | *P. quebecensis* | Quebec, sandy floodplain soils | Fruits at 43-59F (6-15C) | Thrives at lower temps than other species |
 | *P. sylvatica* | NY to Quebec, beech wood debris | - | Often mistaken for P. pelliculosa |
 | *Copelandia cyanescens* | FL/southern states, cow dung | 80F (27C) on MEA | Spores germinate easily on all agar media |
-| *Panaeolus subbalteatus* | Widespread USA, compost/dung/roadsides | 86F (30C) on MEA | Occurs as weed in commercial mushroom houses |
+| *[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]* | Widespread USA, compost/dung/roadsides | 86F (30C) on MEA | Occurs as weed in commercial mushroom houses |
 | *Conocybe cyanopes* | NW USA to MI, wet sphagnum moss | pH 7-8 sphagnum | May-September |
 | *Pholiotina cyanopoda* | NY, WA, CO lawns | - | August-September |
 
@@ -91,8 +91,8 @@ Gottlieb describes a simple home test: dry and pulverize mushroom sample, extrac
 
 ## See Also
 
-- [[psilocybin-mushroom-cultivation]] — Species overview, PF TEK, monotub, G2G, light requirements
+- [[psilocybin-cultivation]] — Species overview, PF TEK, monotub, G2G, [[growing-gourmet-light-requirements-mushroom-fruiting]]
 - [[psilocybin-fruiting-chambers]] — Fruiting stages, chamber construction, casing, drying
 - [[mushroom-cultivation-basics]] — General agar, spawn, and substrate methods
-- [[mushroom-sterile-technique-detailed]] — Modern sterile technique (SAB, flow hood)
-- [[psilocybin-mushroom-chemistry]] — Comparative potency data and dosage guidelines
+- [[mushroom-sterile-technique-detailed]] — Modern [[cultivator-sterile-technique-and-agar-culture]] (SAB, flow hood)
+- [[psilocybin-mushroom-chemistry]] — Comparative potency data and [[blesching-cannabis-health-index-dosage-guidelines-medical]]

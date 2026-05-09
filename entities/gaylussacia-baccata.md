@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Vander Kloet, S.P. & Avery, T.S. (2010). "Systematics, phylogeny, and biogeography of the genus Gaylussacia (Ericaceae)." Systematic Botany, 35(2), 297-311.
-  - Vander Kloet, S.P. (1988). "The genus Gaylussacia in eastern North America." Canadian Journal of Botany, 66(4), 784-792.
+  - Vander Kloet, S.P. (1988). "The genus Gaylussacia in [[polypore-fungi-eastern-north-america]] America." Canadian Journal of Botany, 66(4), 784-792.
   - Prior, R.L. & Cao, G. (2000). "Antioxidant phytochemicals in fruits and vegetables: diet and health implications." HortScience, 35(4), 588-592.
   - Ehlenfeldt, M.K. & Prior, R.L. (2001). "Oxygen radical absorbance capacity (ORAC) and phenolic and anthocyanin concentrations in fruit and leaf tissues of highbush blueberry." Journal of Agricultural and Food Chemistry, 49(5), 2222-2227.
   - USDA NRCS (2024). "Gaylussacia baccata Plant Guide." Natural Resources Conservation Service.
@@ -23,7 +23,7 @@ sources:
 
 The species produces sweet, dark blue to black berries that have been gathered from wild stands for centuries. Unlike true blueberries, huckleberry fruit bear ten hard seed-like nutlets that give the berries a distinctive gritty texture.
 
-Black huckleberry is ecologically important as a dominant understory species in eastern deciduous and coniferous forests. It provides critical food and cover for wildlife and contributes to forest regeneration dynamics through its association with mycorrhizal fungi.
+Black huckleberry is ecologically important as a dominant understory species in eastern deciduous and coniferous forests. It provides critical food and cover for wildlife and contributes to forest regeneration dynamics through its association with [[arbuscular-mycorrhizal-fungi-biology-symbiosis]].
 
 ## Taxonomy and Morphology
 
@@ -63,7 +63,7 @@ The fruit is rich in phenolic acids including chlorogenic acid, caffeic acid, an
 
 Vitamin C content ranges from 10–20 mg per 100 g fresh weight. The fruit provides dietary fiber, iron, and manganese. Soluble solids content averages 12–16° Brix at full ripeness.
 
-The resinous glandular dots on leaf undersides produce a characteristic terpenoid-rich exudate. These leaf resins contain flavonoids and other secondary metabolites that may serve as anti-herbivore defenses and contribute to the plant's distinctive aromatic quality when crushed.
+The resinous glandular dots on leaf undersides produce a characteristic terpenoid-rich exudate. These leaf resins contain flavonoids and other [[antifungal-secondary-metabolites-coprophilous-fungi]] that may serve as anti-herbivore defenses and contribute to the plant's distinctive aromatic quality when crushed.
 
 ## Ecological Role
 
@@ -75,7 +75,7 @@ The shrub provides cover and nesting habitat for ground-nesting birds and small 
 
 Black huckleberry responds positively to fire. Top-killed plants resprout vigorously from the root crown, often producing heavier berry crops in the first few post-fire growing seasons. This fire-adapted response has maintained the species' abundance in fire-prone barrens ecosystems.
 
-The species forms ericoid mycorrhizal associations that facilitate nutrient uptake in nutrient-poor acidic soils. These mycorrhizal connections may also facilitate nutrient transfer between forest plants through common mycorrhizal networks.
+The species forms [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] associations that facilitate nutrient uptake in nutrient-poor acidic soils. These mycorrhizal connections may also facilitate nutrient transfer between forest plants through common [[dighton-mycorrhizal-networks-carbon-transfer]].
 
 ## Ethnobotanical Use
 
@@ -101,15 +101,19 @@ Black huckleberry is widespread and secure across most of its range. It is liste
 
 Fire suppression is the primary conservation concern for black huckleberry. In the absence of regular fire, successional processes allow taller woody species to outcompete huckleberry in the understory, leading to population declines in fire-adapted barrens communities.
 
-Climate change may affect the species through shifts in the timing of flowering and fruiting. Warmer temperatures and altered precipitation patterns could impact berry production, pollinator synchrony, and the suitability of current habitat in the southern portions of the range.
+[[dighton-fungi-climate-change-feedback]] may affect the species through shifts in the timing of flowering and fruiting. Warmer temperatures and altered precipitation patterns could impact berry production, pollinator synchrony, and the suitability of current habitat in the southern portions of the range.
 
 ## See Also
+
+- [[gaylussacia-ursina]]
+
+- [[gaylussacia-dumosa]]
 
 - [[vaccinium-corymbosum-entity]]
 - [[vaccinium-vitis-idaea]]
 - [[vaccinium-ovatum]]
 - [[rubus-fruticosus]]
-- [[arctostaphylos-uva-ursi]]
+- arctostaphylos-uva-ursi
 - [[sambucus-nigra]]
 - [[ribes-nigrum]]
 - [[vaccinium-uliginosum]]

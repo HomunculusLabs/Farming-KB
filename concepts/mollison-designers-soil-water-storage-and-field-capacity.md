@@ -1,5 +1,5 @@
 ---
-title: "Soil Water Storage and Field Capacity in Forest Systems"
+title: "Soil Water mollison designers soil water storage and field capacity Capacity in Forest Systems"
 created: 2026-04-26
 tags:
   - soil-science
@@ -68,7 +68,7 @@ hold less water. The ideal is a loamy soil with balanced
 mineral and organic components.
 
 ### Organic Matter
-[[permaculture-soil-biota-and-earthworms]],
+permaculture-soil-biota-and-earthworms,
 termites, and other soil organisms, creates the pore
 spaces necessary for both water storage and movement.
 ## Practical Considerations
@@ -89,4 +89,9 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[mollison-designers-soil-water-storage-in-forest-systems]]
+- [[mollison-designers-water-purification-and-storage-principles]]
+- [[mollison-designers-dam-construction-and-water-storage]]
+- [[mollison-designers-soil-ph-and-mineral-balance]]
+- [[mollison-designers-hand-pump-and-water-lifting-devices]]

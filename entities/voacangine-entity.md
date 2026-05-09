@@ -33,7 +33,7 @@ serotonin, and NMDA receptor systems.
 - **Spectroscopy:** IR (KBr): 1725 cm⁻¹ (ester C=O), 1610 cm⁻¹ (indole);
   UV (EtOH): λmax 227, 280 nm
 ## Biosynthesis and [[plants-of-the-gods-tabernanthe-iboga]] na, Nigeria).
-- **Tabernanthe iboga:** Root bark contains voacangine at 0.05–0.2%
+- **[[plants-of-the-gods-tabernanthe-iboga-chemistry]]:** [[iboga-root-bark-preparation]] contains voacangine at 0.05–0.2%
   alongside ibogaine at 0.5–6.0%. Voacangine is a minor alkaloid in this
   species relative to ibogaine.
 - **Voacanga thouarsii:** Madagascan species with voacangine reported in root
@@ -64,7 +64,7 @@ distinct from ibogaine:
   1–3 hours — significantly shorter than ibogaine's 4–8 hour half-life.
 ## Traditional and Ethnobotanical Use
 Voacangine-containing plants have a rich history of [[sacramental-ayahuasca-legal-battles-united-states]] uled under the United Nations Convention
-on Psychotropic Substances. In the United States, it is not a federally
+on Psychotropic Substances. In the [[dmt-containing-plants-united-states-halpern]], it is not a federally
 scheduled controlled substance, though it may be subject to the Federal Analog
 Act if marketed for human consumption with psychoactive intent. The parent
 plant material (Voacanga africana bark) is widely available through botanical
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

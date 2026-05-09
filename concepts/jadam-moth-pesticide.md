@@ -11,7 +11,7 @@ sources:
 # Moth Pesticide (JADAM Recipe #7)
 
 **Updated:** 2026-04-18
-**Source:** JADAM Organic Farming, p.316 (Youngsang Cho, 2016)
+**Source:** JADAM [[coleman-deep-organic-farming-philosophy]], p.316 (Youngsang Cho, 2016)
 
 ## Overview
 
@@ -34,7 +34,7 @@ For 500 L (132 gal) of spray solution:
 - Oriental fruit moth
 - Slug moth larvae (Thosea sinensis)
 - Citrus mealybug (Planococcus citri)
-- Arrowhead scale (Unaspis yanonensis)
+- [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] (Unaspis yanonensis)
 - Fruitworm moth larvae
 - Perilla leaf moth larvae
 - Cabbage moth larvae
@@ -65,7 +65,7 @@ For 500 L (132 gal) of spray solution:
 
 ## Herb Substitutions
 
-Jerusalem artichoke JHS can be replaced with:
+[[comparison-jerusalem-artichoke-vs-potato]] JHS can be replaced with:
 - **Pokeweed** JHS
 - **Ginkgo** JHS
 - **Korean pasque flower root** (KPFR) JHS

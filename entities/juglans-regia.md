@@ -30,11 +30,11 @@ England via Roman trade routes.
 - **Family:** Juglandaceae
 - **Genus:** Juglans
 - **Species:** J. regia
-- **Common relatives:** J. nigra (black walnut), J. cinerea
+- **Common relatives:** J. nigra ([[black-walnut-juglone-plant-toxicity]]), J. cinerea
   (butternut), J. venezuelensis (Venezuelan walnut)
 
 ## Key Details
-- **Growth rate:** Slow growing
+- **[[soil-temperature-plant-growth-rate-doubling-rule]]:** Slow growing
 - **Height:** Up to 24 m with broad spreading crown
 - **Yield:** 150-200 kg per tree recorded in commercial settings
 - **Nutritional value (per 100g edible portion):** Energy 651 cal,
@@ -58,9 +58,9 @@ England via Roman trade routes.
   [[drosera-regia]]
 
 - [[castanea-sativa]]
-- corylus avellana
+- [[corylus-avellana]]
 - [[morus-alba]]
-- juglans nigra
+- [[black-walnut-juglans-nigra]]
 - juglans venezuelensis
 ## Practical Considerations
 
@@ -81,3 +81,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[delonix-regia]]

@@ -24,9 +24,9 @@ aliases:
 sources:
   - "Jealousy." Leafly Strain Database. www.leafly.com.
   - "Jealousy." AllBud Strain Information. www.allbud.com.
-  - "Jealousy Cannabis Strain." Wikileaf. www.wikileaf.com.
+  - "Jealousy [[blesching-cannabis-strain-selection-receptor-targeting]]." Wikileaf. www.wikileaf.com.
   - "Jealousy." GrowDiaries. www.growdiaries.com.
-  - "Seed Junky Genetics Strain Catalog." seedjunky.com.
+  - "Seed Junky [[mushroom-genetics-strain-selection]] Catalog." seedjunky.com.
 created: 2026-04-28
 ---
 
@@ -50,7 +50,7 @@ Gelato 41 adds potency, dense bud structure, and the characteristic dessert-like
 
 Both parent strains trace back to the influential Girl Scout Cookies (GSC) genetic line through Sunset Sherbet and Thin Mint Cookies.
 
-This GSC-dominant pedigree places Jealousy firmly within the "Cookies family" of modern West Coast cannabis genetics.
+This GSC-dominant pedigree places Jealousy firmly within the "Cookies family" of modern West Coast [[vic-high-cannabis-genetics-mendelian-inheritance]].
 
 The strain is estimated at approximately 70% indica / 30% sativa based on its growth characteristics and effects profile.
 
@@ -64,7 +64,7 @@ Orange to rust-colored pistils weave through the calyxes, providing striking vis
 
 A thick coating of milky-white trichomes covers the flower surface, giving buds a frosted, icy appearance.
 
-The density and resin production make Jealousy popular for hash and concentrate extraction.
+The density and [[cannabis-glandular-trichome-types-resin-production-clarke]] make Jealousy popular for hash and concentrate extraction.
 
 ## Aroma and Flavor
 
@@ -93,7 +93,7 @@ Minor terpenes may include humulene, pinene, and trace amounts of ocimene depend
 - **CBD:** Typically below 0.1%, classifying it as a THC-dominant cultivar.
 - **Minor cannabinoids:** Varying levels of CBG and CBC depending on cultivation conditions.
 
-The high THC content makes Jealousy suitable primarily for consumers with established cannabis tolerance.
+The high THC content makes Jealousy suitable primarily for consumers with established [[cervantes-cannabis-tolerance-addiction-pharmacology]].
 
 ## Effects
 
@@ -109,7 +109,7 @@ At higher doses, the sedative effects become pronounced, making it well-suited f
 
 ## Cultivation
 
-Jealousy can be grown both indoors and outdoors, with indoor cultivation generally producing higher quality flowers.
+Jealousy can be grown both indoors and outdoors, with [[cannabis-sativa-indoor-cultivation-techniques]] generally producing higher quality flowers.
 
 Flowering time is approximately 8–9 weeks when grown indoors from clones or feminized seeds.
 
@@ -133,7 +133,7 @@ Several Jealousy crosses have emerged in the market, combining its potency with 
 
 - [[girl-scout-cookies]]
 - [[sunset-sherbet]]
-- [[wedding-cake-cannabis]]
+- [[wedding-cake]]
 - [[kush-mints]]
 - [[biscotti-cannabis-strain]]
 - jungle-cake

@@ -9,18 +9,18 @@ sources: [raw/papers/urban-permaculture-guerilla-gardening.md]
 
 # Guerilla Gardening Guide
 
-Guerilla gardening is the practice of cultivating food and useful plants on abandoned, neglected, or unauthorised urban land. Drawn from "Urban Permaculture: Guerilla Gardening" -- a DIY Skillshare Conference reader.
+Guerilla gardening is the practice of cultivating food and useful plants on abandoned, neglected, or unauthorised urban land. Drawn from "[[pdc-urban-permaculture-design-principles]]: Guerilla Gardening" -- a DIY Skillshare Conference reader.
 
 ## Philosophy
 
-"We need to start growing food where we live and reclaiming all this knowledge for ourselves and future generations. We can't keep importing and trucking all of our food all over the globe and let big corporations control the most basic aspect of our lives for us."
+"We need to [[query-how-do-i-start-growing-hazelnut-bushes]] food where we live and reclaiming all this knowledge for ourselves and future generations. We can't keep importing and trucking all of our food all over the globe and let big corporations control the most basic aspect of our lives for us."
 
 The approach combines permaculture principles with urban activism, using the concepts of edge, stacking, diversity, and closed-loop systems in the city environment.
 
 ## Urban Growing Potential
 
 Cities offer enormous untapped potential:
-- **Abandoned rubble lots and rooftops** can be converted to growing space
+- **Abandoned rubble lots and rooftops** can be converted to [[cotter-growing-space-design-fruiting-rooms]]
 - **Lawns** can be replaced with food production
 - **Community gardens** can reclaim vacant land
 - **Organic wastes** from restaurants and kitchens can become compost
@@ -55,7 +55,7 @@ Starting community gardens on abandoned land, building compost systems from orga
 ## Species for Urban Conditions
 
 ### Species for Very Dry Sites
-Almond, black locust, burr oak, carob, cork oak, fig, holly oak, honey locust, jujube, mesquites, mulberry, olive, pampas grass, pistachio, pomegranate, prickly pear, rosemary, stone pine, tagasaste, and most aromatic herbs.
+Almond, [[comparison-black-locust-vs-honey-locust]], burr oak, carob, cork oak, fig, holly oak, [[permaculture-honey-locust-pod-fodder-system]], jujube, mesquites, mulberry, olive, pampas grass, pistachio, pomegranate, [[comparison-agave-vs-prickly-pear-cultivation]], rosemary, stone pine, tagasaste, and most aromatic herbs.
 
 ### Species for Wet Sites
 Blackberry, willow, elderberry, and other moisture-loving plants.
@@ -70,7 +70,7 @@ Black locust, clover, comfrey, dandelion, fruit trees, hawthorn, lavender, raspb
 ## Related
 
 - [[clay-ball-seed-pellets]]
-- [[permaculture-zone-and-sector-analysis]]
+- [[zone-sector-analysis-guide]]
 - [[permaculture-design-process]]
 ## Practical Considerations
 
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

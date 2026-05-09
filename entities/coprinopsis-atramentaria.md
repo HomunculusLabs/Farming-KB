@@ -14,8 +14,8 @@ sources:
   - Ulrich, B. (2014). "Morphological and molecular phylogenetic data support the recognition of Coprinopsis atramentaria." Mycotaxon 129(2): 341-354.
   - Kühner, R. (1936). "Le genre Coprinus." Encyclopédie Mycologique 7: 1-280.
   - Redhead, S.A., Vilgalys, R., Moncalvo, J.M., Johnson, J., Hopple, J.S. (2001). "Coprinus Pers. and the disposition of Coprinus species sensu lato." Taxon 50(1): 203-241.
-  - Lincoff, G.H. (1981). "National Audubon Society Field Guide to North American Mushrooms." Knopf.
-  - Bresinsky, A., Besl, H. (1990). "A Colour Atlas of Poisonous Fungi." Wolfe Publishing.
+  - Lincoff, G.H. (1981). "National Audubon Society Field Guide to [[growing-gourmet-north-american-reishi-species]] Mushrooms." Knopf.
+  - Bresinsky, A., Besl, H. (1990). "A Colour Atlas of [[ramsbottom-poisonous-fungi-identification-guide]]." Wolfe Publishing.
 created: 2026-04-28
 ---
 
@@ -39,7 +39,7 @@ The species is edible on its own but causes a severe disulfiram-like reaction wh
 
 **Basionym:** Agaricus atramentarius Bull. (1786).
 
-The species was transferred to Coprinopsis in 2001 when Redhead and colleagues split the traditional genus Coprinus into multiple genera based on molecular phylogenetics. Coprinus sensu stricto was restricted to Coprinus comatus and its closest relatives.
+The species was transferred to Coprinopsis in 2001 when Redhead and colleagues split the traditional genus Coprinus into multiple genera based on molecular phylogenetics. Coprinus sensu stricto was restricted to [[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]] and its closest relatives.
 
 **Synonyms:**
 
@@ -101,9 +101,9 @@ Importantly, cooking does not destroy coprine. The compound is heat-stable and r
 
 ## Ecological Role
 
-As a primary decomposer of woody substrates, C. atramentaria plays a role in nutrient cycling within forest and urban ecosystems. Its preference for disturbed sites and buried wood positions it as an early-successional saprotroph that colonizes recently disturbed ground.
+As a primary decomposer of woody substrates, C. atramentaria plays a role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within forest and urban ecosystems. Its preference for disturbed sites and buried wood positions it as an early-successional saprotroph that colonizes recently disturbed ground.
 
-The species frequently fruits in dense clusters, sometimes numbering in the dozens from a single substrate source. This gregarious fruiting habit suggests efficient nutrient translocation within the mycelial network and rapid exploitation of localized resource patches.
+The species frequently fruits in dense clusters, sometimes numbering in the dozens from a single substrate source. This gregarious fruiting habit suggests efficient [[dighton-fungal-nutrient-translocation-element-redistribution]] within the [[gadd-mycelial-network-dynamics]] and rapid exploitation of localized resource patches.
 
 Its association with disturbed and anthropogenic habitats (gardens, roadsides, compost) makes it one of the most commonly encountered urban mushrooms in temperate regions worldwide.
 

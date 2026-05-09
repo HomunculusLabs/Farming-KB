@@ -8,7 +8,7 @@ tags: [pf-tek, perlite, humidification, evaporation, dynamics, terrarium, humidi
 
 ## Overview
 
-While the PF TEK perlite humidification technique describes the practical method of using perlite to maintain humidity in a fruiting chamber, the underlying evaporation dynamics — the rate, duration, and regulation of moisture release from a perlite layer — are a distinct physical phenomenon with important implications for multi-flush cultivation. Understanding these dynamics allows cultivators to predict how long a perlite charge will last, when re-wetting is needed, and how the evaporative cooling effect influences the fruiting microclimate.
+While the PF TEK perlite humidification technique describes the practical method of using perlite to maintain humidity in a [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]], the underlying evaporation dynamics — the rate, duration, and regulation of moisture release from a perlite layer — are a distinct physical phenomenon with important implications for multi-flush cultivation. Understanding these dynamics allows cultivators to predict how long a perlite charge will last, when re-wetting is needed, and how the [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]] effect influences the fruiting microclimate.
 
 ## The Physics of Perlite Evaporation
 
@@ -28,7 +28,7 @@ The ratio of surface water to capillary water determines the initial evaporation
 The evaporation rate from a perlite layer in a closed or semi-closed terrarium follows a characteristic curve:
 
 - **Phase 1 — Rapid surface evaporation (hours 0–12)**: Surface water on the perlite granules evaporates quickly, producing a surge of humidity that rapidly brings the terrarium to near-saturation. During this phase, the relative humidity may temporarily exceed 95%.
-- **Phase 2 — Steady-state capillary evaporation (hours 12–240+)**: Once surface water is depleted, evaporation proceeds at a slower, more constant rate as water is drawn from the capillary reservoir to the granule surfaces by capillary action and then evaporates. This phase can last for weeks, depending on the volume of perlite, the ambient temperature, and the degree of ventilation.
+- **Phase 2 — Steady-state capillary evaporation (hours 12–240+)**: Once surface water is depleted, evaporation proceeds at a slower, more constant rate as water is drawn from the capillary reservoir to the granule surfaces by capillary action and then evaporates. This phase can last for weeks, depending on the volume of perlite, the [[jadam-ambient-temperature-principle]], and the degree of ventilation.
 - **Phase 3 — Depletion (variable)**: As the capillary reservoir is exhausted, the evaporation rate declines. The perlite granules begin to dry from the top of the layer downward, and the humidity in the terrarium gradually drops. This phase signals that re-wetting is needed.
 
 The PF TEK documentation emphasizes that perlite "doesn't absorb water like vermiculite does" — a key distinction that affects the dynamics. Vermiculite absorbs and retains water more aggressively, releasing it slowly and steadily. Perlite, by contrast, holds water in its surface pores and irregularities without deep absorption, allowing it to release moisture through evaporation more readily while still maintaining a sustained output over days and weeks.
@@ -50,7 +50,7 @@ In a sealed or semi-sealed terrarium, the system reaches a dynamic equilibrium w
 
 - **Condensation on terrarium walls**: Water vapor contacts the cooler glass walls, condenses, and runs back down into the perlite layer, effectively recycling moisture
 - **Air exchange through ventilation holes**: Some moisture escapes each time the terrarium is opened for misting, fanning, or cake maintenance
-- **Absorption by mushroom fruit bodies**: Growing mushrooms transpire moisture, absorbing water from the substrate and releasing it through their tissues, which can slightly affect the humidity balance
+- **Absorption by mushroom fruit bodies**: [[falconer-growing-mushrooms-in-sheds]] transpire moisture, absorbing water from the substrate and releasing it through their tissues, which can slightly affect the humidity balance
 
 The condensation-recycling mechanism is the most important factor in extending the perlite charge. In a well-sealed terrarium with adequate condensation return, the perlite can maintain humidity for "weeks" according to the PF TEK documentation, without any manual re-wetting.
 
@@ -60,8 +60,8 @@ A secondary but significant effect of perlite evaporation is **evaporative cooli
 
 This cooling effect has both advantages and potential drawbacks:
 
-- **Advantage**: Slightly reduced temperatures are generally favorable for *Psilocybe cubensis* fruiting, which prefers 70–75°F (21–24°C). In warm environments, the evaporative cooling can help maintain optimal conditions.
-- **Potential drawback**: Excessive cooling — particularly in already cool environments — can slow mycelial growth and delay pinning. The PF TEK recommends room temperature cultivation, and if the evaporative cooling effect brings the terrarium temperature significantly below 70°F, supplemental heating or reduced ventilation may be needed.
+- **Advantage**: Slightly reduced temperatures are generally favorable for *[[psilocybe-cubensis]]* fruiting, which prefers 70–75°F (21–24°C). In warm environments, the evaporative cooling can help maintain optimal conditions.
+- **Potential drawback**: Excessive cooling — particularly in already cool environments — can slow [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] and delay pinning. The PF TEK recommends room temperature cultivation, and if the evaporative cooling effect brings the terrarium temperature significantly below 70°F, supplemental heating or reduced ventilation may be needed.
 
 ## Multi-Flush Sustainability
 
@@ -90,7 +90,7 @@ The PF TEK contrasts perlite with vermiculite as humidification media. Vermiculi
 
 ### Perlite vs. Active Humidification
 
-Active humidification systems (ultrasonic humidifiers, air pumps with bubbler stones) can maintain precise humidity control but require equipment, electricity, and monitoring. Perlite humidification is passive, requiring no power and minimal maintenance, but offers less precise control over humidity levels. For the PF TEK's design philosophy of simplicity and accessibility, perlite is the clear choice.
+Active humidification systems (ultrasonic humidifiers, air pumps with bubbler stones) can maintain precise [[cervantes-humidity-control-dehumidification]] but require equipment, electricity, and monitoring. Perlite humidification is passive, requiring no power and minimal maintenance, but offers less precise control over humidity levels. For the PF TEK's design philosophy of simplicity and accessibility, perlite is the clear choice.
 
 ### Perlite vs. Spray Bottle Humidification
 
@@ -119,6 +119,9 @@ This visual monitoring method, while imprecise, is sufficient for the PF TEK's p
 ## See Also
 
 - [[pf-tek-mushroom-life-cycle-timeline]]
-- [[mushroom-evaporative-cooling]]
-- [[mushroom-flush-dynamics-variation-fruiting-cycles]]
-- pf tek non germ spore syringe technique
+- mushroom-evaporative-cooling
+- mushroom-flush-dynamics-variation-fruiting-cycles
+- pf tek non germ [[spore]] syringe technique
+- [[pf-tek-perlite-humidification-technique]]
+- [[fruiting-chamber]]
+- [[spore-syringe]]

@@ -1,9 +1,9 @@
 ---
-title: Cannabis Cloning
+title: comparison-cannabis-cloning-vs-seed-starting-indoors
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -30,7 +30,7 @@ medium must hold adequate moisture while providing enough air for root developme
 - **Days 1-5:** No visible root growth; cuttings may wilt slightly
 - **Days 5-10:** Callus formation at cut site; first white root tips emerge
 - **Days 10-14:** Roots become visible growing from the medium
-- **Days 14-21:** Root system is strong enough for transplant to vegetative growth
+- **Days 14-21:** Root system is strong enough for transplant to [[cannabis-vegetative-growth-stage]]
 
 ## Perpetual Harvest System
 
@@ -46,8 +46,8 @@ maintain than big plants in big containers.
 ## Clone vs. Seed Growth
 
 Clones grow about 25 percent slower and smaller than F1 hybrid plants grown from seed.
-F1 hybrids exhibit "hybrid vigor" -- a growth advantage from crossing genetically
-distinct parents. Hybrid vigor also makes plants less susceptible to pest and disease
+F1 hybrids exhibit "[[cannabis-hybrid-vigor-and-phenotypes-clarke]]" -- a growth advantage from crossing genetically
+distinct parents. Hybrid vigor also makes plants less susceptible to [[hamilton-pest-and-disease-control-organic]]
 problems. Clones lack this hybrid vigor but offer the advantage of genetic certainty.
 
 ## Clone Generations
@@ -62,13 +62,13 @@ sanitation rather than generation number.
 ## Strains and Cloning Difficulty
 
 Most Skunk and indica strains are easy to clone. Growers and sick plants cause most
-clone rooting problems. Weak plants that lack vigor provide slow-rooting weak clones.
+[[comparison-cannabis-clone-rooting-and-transplanting-vs-seed-germination]] problems. Weak plants that lack vigor provide slow-rooting weak clones.
 Poor growing conditions also affect clone strength. Ruderalis Indica and Ruderalis
 Skunk do not make suitable mother plants due to their auto-flowering capability.
 
 ## Common Problems
 
-- **Wilting cuttings:** Usually caused by low humidity or damaged stems
+- **Wilting cuttings:** Usually caused by [[pf-tek-low-humidity-symptoms-and-remediation]] or damaged stems
 - **Rotting stems:** Overwatering, poor drainage, or fungal infection (Pythium)
 - **Slow rooting:** Low temperature, wrong pH, or old/lazy rooting hormone
 - **Algae on medium:** Too much light or moisture on the medium surface
@@ -79,4 +79,4 @@ Skunk do not make suitable mother plants due to their auto-flowering capability.
 - [[rockwool-cannabis]] -- common rooting medium
 - banisteriopsis caapi -- aeroponic cloning systems
 - [[cannabis-propagation-sexual-vs-asexual-clarke]]
-- [[fungal-culture-preservation-long-term-methods]]
+- fungal-culture-preservation-long-term-methods

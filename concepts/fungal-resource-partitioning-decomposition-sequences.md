@@ -1,5 +1,5 @@
 ---
-title: "Fungal Resource Partitioning and Decomposition Sequences"
+title: "Fungal fungal resource partitioning decomposition sequences and Decomposition Sequences"
 created: 2026-04-26
 tags:
   - mycology
@@ -17,9 +17,9 @@ type: concept
 # Fungal Resource Partitioning and Decomposition Sequences
 
 Fungi function as primary, secondary, and tertiary decomposers in the
-often complex process of degrading mollison designers humus. The sequence of
+often complex process of degrading mollison [[mollison-designers-humus-building-and-soil-organic-matter]]. The sequence of
 fungal species appearing during [[biodiversity-of-fungi-decomposition-nutrient-cycling]] and connects
-to the broader [[biodiversity-fungi-soil-ecosystems]], see that page. The decomposition sequence follows a general
+to the broader biodiversity-fungi-soil-ecosystems, see that page. The decomposition sequence follows a general
 pattern:
 
 ### Primary Colonizers
@@ -56,13 +56,13 @@ Polyporales and Agaricales are characteristic tertiary decomposers.
 
 Different fungal species produce different complements of
 extracellular enzymes, allowing them to exploit different chemical
-components of organic matter:
+components of [[hamilton-composting-and-organic-matter-management]]:
 - **Cellulases**: Hydrolyze cellulose to glucose
 - **Hemicellulases**: Degrade hemicellulose polymers
 - **Lignin peroxidases and manganese peroxidases**: Oxidatively
   degrade lignin
 - **Laccases**: Oxidize phenolic compounds
-- **Pectinases**: Break down pectin in middle lamellae
+- **Pectinases**: [[query-can-fungi-break-down-plastic-pollution]] pectin in middle lamellae
 - **Cutinases**: Degrade cutin in leaf surfaces
 - **Chitinases**: Break down chitin in fungal cell walls and insect
   exoskeletons
@@ -90,7 +90,7 @@ species of microfungi are rare.
 A small number of surveys have focused on the diversity of microfungi
 associated with litter in general, without reference to specific host
 plants. Rambelli and colleagues (1983) studied leaf litter samples from
-four tropical forest plots in the Ivory Coast, comparing undisturbed
+four [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] plots in the Ivory Coast, comparing undisturbed
 vegetation with sites cleared using traditional agricultural practices.
 They identified between 129 and 165 species from undisturbed and
 disturbed plots, respectively. The disturbed sites showed greater
@@ -110,10 +110,16 @@ defense mechanisms in competitive situations.
 ### Competition for Resources
 
 Stress imposed by poor access to nutrients tends to limit interspecific
-fungal competition and favors long term exploitation of scarce resources.
+[[dighton-fungal-competition-resource-partitioning]] and favors long term exploitation of scarce resources.
 Under such conditions, S-selected (stress-tolerant) fungi that exhibit
 slow increase in biomass, specialized physiological adaptations, and
 high enzymatic competence for resource exploitation are favored.
 Abundance of soluble carbohydrate-rich resources favors R-selected fungi
 with fast growth rates, high reproductive capacity, and short life
 spans.
+## See Also
+- [[decomposition]]
+- [[dighton-fungal-competition-resource-partitioning]]
+- [[fungal-decomposition-succession-resource-quality]]
+- [[fungal-decomposition-resource-quality-determinants]]
+- [[dighton-fungal-succession-resource-decomposition]]

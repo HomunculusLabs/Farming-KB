@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Fungal-based materials use mycelium — the vegetative body of fungi — as a raw material for manufacturing sustainable alternatives to conventional products. Mycelium can be grown on agricultural waste substrates to produce materials with properties comparable to polystyrene foam, leather, wood, and concrete. This emerging field represents a convergence of mycology, materials science, and sustainable design, with applications in packaging, fashion, architecture, and construction.
+Fungal-based materials use mycelium — the vegetative body of fungi — as a raw material for manufacturing sustainable alternatives to conventional products. Mycelium can be grown on [[fungi-in-composting-and-agricultural-waste-conversion]] substrates to produce materials with properties comparable to polystyrene foam, leather, wood, and concrete. This emerging field represents a convergence of mycology, materials science, and sustainable design, with applications in packaging, fashion, architecture, and construction.
 
 ## Mycelium as a Manufacturing Material
 
@@ -26,7 +26,7 @@ Mycelium offers several unique advantages as a material:
 - Customizable: Material properties can be tuned by varying species, substrate, density, and processing
 - Carbon-sequestering: Fungi capture carbon during growth; materials can be carbon-negative
 - Rapid growth: Full colonization of substrate typically takes 3-14 days
-- Fire resistant: Many mycelium materials are naturally fire retardant
+- Fire resistant: Many [[comparison-mycelium-materials-vs-bioplastics-pla-pha]] are naturally fire retardant
 
 ### Limitations
 
@@ -68,7 +68,7 @@ Products:
 
 - Grown.bio (Netherlands): Open-source mycelium packaging technology
 - Magical Mushroom Company (UK): Commercial mycelium packaging products
-- MycoComposite: General term for mycelium-bound substrate materials
+- MycoComposite: General term for mycelium-bound [[growing-gourmet-substrate-materials-wood-types]]
 
 ## Mycelium Leather
 
@@ -137,19 +137,13 @@ Applications: non-load-bearing walls, insulation panels (most commercially viabl
 
 - **Composites**: Mycelium combined with wood, minerals, or fibers for enhanced strength/fire resistance
 - **Furniture**: Grown in molds for chairs, tables, lamps (prototype/boutique stage)
-- **Textiles**: Non-woven mats for filters, geotextiles, erosion control; spun fibers in research
+- **Textiles**: Non-woven mats for filters, geotextiles, [[permplant-willows-salix-erosion-control-fodder]]; spun fibers in research
 - **Electronics**: Biodegradable circuit board substrates (early research)
 
 ## Environmental Impact & Challenges
 
-Carbon-negative or neutral (sequesters CO₂ during growth), uses agricultural waste, ~95% less water than leather, fully compostable, low energy (ambient temperature growth). Challenges: no industry standards, not in building codes, scaling maturing, moisture sensitivity, higher cost than conventional, immature supply chains.
-
-## Future Directions
-
-3D printing with mycelium, genetic engineering for optimized properties, hybrid materials, smart materials responsive to stimuli, localized distributed manufacturing using local waste substrates.
-
 ## See Also
 
-- [[mycoremediation-techniques]] — environmental applications of fungal biology
-- [[medicinal-mushroom-guide]] — bioactive compounds from the same organisms
+- [[mycoremediation-techniques]] — environmental applications of [[bloomfield-fungal-biology-and-hyphal-growth]]
+- [[medicinal-mushroom-guide]] — [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] from the same organisms
 - [[functional-mushroom-products]] — mushroom-derived products for health applications

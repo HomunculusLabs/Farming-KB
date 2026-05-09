@@ -1,9 +1,9 @@
 ---
-title: Holzer Green Manure and Soil Fertility
+title: Holzer comparison-green-manure-guide-vs-mulch-types-and-effects and Soil Fertility
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources: []
 type: concept
 tags: [holzer, soil]
 ---
@@ -45,7 +45,7 @@ Priority is building a good humus layer using maximum biomass on the soil surfac
 
 ### Key Principles
 
-- A good mixture of green manure crops is important so individual plants propagate themselves, increasing system stability
+- A good mixture of green [[green-manure-crops-detailed]] is important so individual plants propagate themselves, increasing system stability
 - Slow decomposition of green manure crops in autumn and winter builds productive soil
 - Root systems loosen the soil, leading to good soil structure
 - Plant cover acts like a quilt, protecting soil from wind, storms, rain, heat, sun, and frost
@@ -58,7 +58,7 @@ Priority is building a good humus layer using maximum biomass on the soil surfac
 Legumes make the greatest contribution to soil improvement:
 
 - Varied and distinctive root systems (shallow to deep) suit many different areas
-- Fix nitrogen with help of bacteria (primarily Rhizobium) living in root nodules
+- [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] with help of bacteria (primarily Rhizobium) living in root nodules
 - Nitrogen abundant in air is fixed and released into the plant's nutrient cycle
 - Bacteria receive carbohydrates from the plant in return
 
@@ -68,7 +68,7 @@ Holzer uses a wide variety of soil-improving plants, emphasising mixed plantings
 
 - Deep-rooted pioneer plants: lupins, sweet clover, lucerne, broom
 - These aerate soil and prevent water accumulation in topsoil
-- A "colourful mixture" of green manure crops on terraces provides ground cover, soil improvement, and insect habitat
+- A "colourful mixture" of green manure crops on terraces provides [[fukuoka-citrus-orchard-ground-cover-cultivation]], soil improvement, and [[hemenway-insectary-plants-and-beneficial-insects]]
 
 ## The Problem Plant Regulation Cycle
 
@@ -83,7 +83,7 @@ When rapidly growing plants (broad-leaved dock, stinging nettles, orache) indica
 
 ### Mulching
 
-Accumulated biomass is always put to use right where found -- never burned. It can construct shelters, paddocks, raised bed foundations, or simply serve as mulch.
+Accumulated biomass is always put to use right where found -- never burned. It can construct shelters, paddocks, [[comparison-chinampas-vs-raised-bed-gardening]] foundations, or simply serve as mulch.
 
 ### Raised Beds with Biomass
 

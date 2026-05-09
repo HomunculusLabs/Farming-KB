@@ -36,7 +36,7 @@ created: 2026-04-28
 
 Commonly known as apple mint or woolly mint, it is valued for its mild, sweet aroma with fruity notes reminiscent of green apple.
 
-The species is widely cultivated as a culinary herb, ornamental ground cover, and medicinal plant across temperate regions worldwide.
+The species is widely cultivated as a culinary herb, ornamental [[fukuoka-citrus-orchard-ground-cover-cultivation]], and medicinal plant across temperate regions worldwide.
 
 Its vigorous spreading habit and tolerance of diverse conditions make it both a useful garden plant and a potential invader.
 
@@ -66,7 +66,7 @@ The root system is extensive with shallow rhizomes that spread aggressively.
 
 *M. suaveolens* is native to the Mediterranean region, including southern France, the Iberian Peninsula, Italy, and the western Balkans.
 
-It has naturalized widely across Europe, the British Isles, North America, Australia, and New Zealand.
+It has naturalized widely across Europe, the British Isles, [[psilocybin-north-america-pacific-northwest]], Australia, and New Zealand.
 
 The plant grows in moist, partially shaded habitats including stream banks, damp meadows, woodland edges, and roadside ditches.
 
@@ -90,7 +90,7 @@ The mild flavor makes it suitable for mint sauce, jelly, and herbal teas where a
 
 Dried leaves retain their aroma reasonably well and can be stored for several months.
 
-Essential oil yield is lower than in [[mentha-pulegium|pennyroyal]], making the plant safer for culinary use.
+[[permaculture-designers-manual-essential-oil-plants]] yield is lower than in [[mentha-pulegium|pennyroyal]], making the plant safer for culinary use.
 
 Topical applications of the crushed leaves have been used traditionally as an insect repellent and mild antiseptic.
 
@@ -102,7 +102,7 @@ Its dense growth suppresses weeds and helps retain soil moisture around companio
 
 The flowers attract pollinators, particularly bees, butterflies, and beneficial predatory wasps.
 
-It can be planted near brassicas and tomatoes to help deter pest insects through volatile compound release.
+It can be planted near brassicas and tomatoes to help deter pest insects through [[fungal-btex-volatile-compound-degradation]] release.
 
 The spreading habit requires management — planting in containers or root barriers prevents unwanted colonization.
 

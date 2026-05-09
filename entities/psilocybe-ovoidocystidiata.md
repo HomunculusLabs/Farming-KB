@@ -11,7 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Guzmán, G., et al. (2007). 'A new bluing psilocybin from the USA.' Mycotaxon 100: 167–172."
-  - "Stamets, P. (1996). Psilocybin Mushrooms of the World. Ten Speed Press."
+  - "Stamets, P. (1996). [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World. Ten Speed Press."
   - "Kriegstein, A., et al. (2022). 'Psilocybe ovoidocystidiata: ecology and chemistry.' Journal of Fungi 8(11): 1147."
   - "Baroni, K.J. (2021). 'Distribution of Psilocybe ovoidocystidiata in the northeastern US.' Mycoscience 62(3): 195–204."
 created: 2026-04-28
@@ -20,9 +20,9 @@ created: 2026-04-28
 # Psilocybe ovoidocystidiata
 
 **Psilocybe ovoidocystidiata** Guzmán, Tapia & Gándara is a moderately potent
-psilocybin mushroom native to the eastern United States. Commonly called ovoids,
+psilocybin mushroom native to the eastern [[dmt-containing-plants-united-states-halpern]]. Commonly called ovoids,
 the species has rapidly expanded its range in the 21st century, becoming one of
-the most widely distributed entheogenic fungi in eastern North America.
+the most widely distributed entheogenic fungi in [[polypore-fungi-eastern-north-america]] America.
 
 The species epithet references the distinctive ovoid cheilocystidia, a key
 microscopic feature that separates it from close relatives in the section
@@ -38,7 +38,7 @@ and Pennsylvania collections.
 Kingdom Fungi, Division Basidiomycota, Class Agaricomycetes, Order
 Agaricales, Family Hymenogastraceae, Genus Psilocybe. The species is placed
 in section Cyanescens alongside P. cyanescens, P. azurescens, and
-P. allenii based on its bluing reaction, habitat preferences, and
+P. allenii based on its [[field-guide-psilocybin-bluing-reaction-identification]], habitat preferences, and
 microscopic features. Molecular phylogenetic studies confirm this placement
 and suggest a close evolutionary relationship with P. subaeruginascens
 from Japan.
@@ -99,13 +99,13 @@ collection site and substrate.
 The alkaloid profile includes psilocybin, psilocin, baeocystin, and
 norbaeocystin. Specimens from riverine hardwood debris tend to be more
 potent than those from mulch beds, possibly reflecting differences in
-substrate nutrition and microbial community.
+substrate nutrition and [[edaphic-factors-microbial-community-structure]].
 
 ## Cultivation
 
 P. ovoidocystidiata has been successfully cultivated on pasteurized hardwood
 sawdust and wood chip substrates, similar to methods used for P. cyanescens.
-The species benefits from a cold shock to initiate fruiting, with optimal
+The species benefits from a [[growing-gourmet-cold-shock-temperature-initiation-fruiting]] to initiate fruiting, with optimal
 fruiting temperatures between 10 and 18 degrees Celsius. Outdoor beds using
 hardwood chips in shaded areas have proven productive, particularly in
 temperate climates with distinct seasonal shifts. The species is considered

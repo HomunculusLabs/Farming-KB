@@ -14,7 +14,7 @@ type: concept
 ## Overview
 
 In most flowering plants, the organ responsible for measuring [[night-break-experiments-and-agricultural-light-manipulation]] role was established through night-break illumination experiments in
-the mid-twentieth century. Scientists directed a narrow beam of red light onto
+the mid-twentieth century. Scientists directed a narrow beam of [[phytochrome-red-far-red-light-switch]] onto
 different parts of a plant during the middle of the night and observed which
 illumination sites were sufficient to regulate flowering.
 
@@ -69,7 +69,7 @@ Classic grafting experiments provide the most compelling evidence. A single phot
 ## Agricultural Applications
 
 Understanding leaf-based photoperiodic perception has direct horticultural applications. Since any single leaf can regulate flowering, even minimal light exposure to leaves during the dark period can disrupt photoperiodic control. In greenhouse chrysanthemum production, night-break lighting must reach leaves to prevent premature flowering. For long-day crops [[julius-von-sachs-blue-light-phototropism-discovery]] leaves
-- [[cryptochrome-and-blue-light-photoreception]] for blue light's role in CO stabilisation
+- [[cryptochrome-and-blue-light-photoreception]] for [[chamovitz-julius-von-sachs-blue-light-phototropism]]'s role in CO stabilisation
 ## Practical Considerations
 
 Successful implementation of Leaf-Based Photoperiodic Perception requires attention to
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

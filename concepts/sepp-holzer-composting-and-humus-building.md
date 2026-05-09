@@ -1,11 +1,12 @@
 ---
-title: Sepp Holzer Alternative Composting and Humus Building
+title: Sepp Holzer Alternative sepp holzer composting and humus building Building
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [composting, soil]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 Updated: 2026-04-18
@@ -18,7 +19,7 @@ Holzer's fundamental insight: "It is by no means necessary for a high-yield gard
 
 ## The Raised Bed Trench Method
 
-An innovative composting system that integrates compost production with vegetable growing in minimal space:
+An innovative composting system that integrates compost production with [[fukuoka-semi-wild-vegetable-growing-natural-method]] in minimal space:
 
 ### Layout
 - Two raised beds built parallel to each other, as close as you can walk between
@@ -83,10 +84,10 @@ Any organic material that decomposes:
 
 ### Purpose
 Green manure plants serve multiple functions simultaneously:
-- Nitrogen fixation (legumes)
+- [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] (legumes)
 - Soil protection from erosion
-- Organic matter addition when cut and incorporated
-- Habitat for beneficial organisms
+- [[hamilton-composting-and-organic-matter-management]] addition when cut and incorporated
+- [[query-how-do-i-design-habitat-for-beneficial-insects]] organisms
 - Weed suppression
 
 ### Species for Mountain Climates (Krameterhof)
@@ -108,7 +109,7 @@ Green manure sown in autumn decomposes over winter. The decomposition process:
 - Green manure can be sown directly into raised beds
 - When mature, cut and leave as surface mulch
 - Roots decompose in place, improving soil structure
-- No need to dig in -- natural decomposition processes work
+- No need to dig in -- [[fukuoka-microbes-scavengers-natural-decomposition-biosystem]] processes work
 
 ## The Importance of Soil Life
 
@@ -129,3 +130,7 @@ Once mulching has been established for a while, digging over or loosening soil i
 See also: [[sepp-holzer-soil-fertility-and-green-manure]], [[sepp-holzer-method]]
 - [[holzer-kitchen-garden-layout-and-traditional-gardening]]
 - [[organic-vegetable-garden-rotation-deep-beds]]
+
+## See Also
+
+- [[sepp-holzer-composting-mulching-and-liquid-fertiliser]]

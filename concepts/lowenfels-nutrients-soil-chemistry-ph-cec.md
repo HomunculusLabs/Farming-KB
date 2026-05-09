@@ -35,7 +35,7 @@ ammonia, which evaporates out of the soil.
 
 Compost has a very high percentage of organic matter, and so it generally has a pH in the range
 better suited for plant growth: 6.5 to 7.5. Adding organic materials greatly increases the
-ability of the soil to hold nutrient cations because the number of cation exchange sites increases.
+ability of the soil to hold nutrient cations because the number of [[mollison-designers-tropical-soils-and-cation-exchange-management]] sites increases.
 Such soil can hold lots of hydrogen ions and thus buffer the soil pH by absorbing them.
 
 Buffering is the ability of the soil to absorb acids without changing pH. Carbon dioxide forms a
@@ -84,3 +84,7 @@ available nutrients, some laboratories use this number as the basis for their fe
 
 - [[lowenfels-nutrients-potassium-calcium-magnesium]]
 - [[singh-endophytic-fungi-plant-growth-promotion-contaminated-soils]]
+
+## See Also
+
+- [[lowenfels-soil-minerals-nutrients]]

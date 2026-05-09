@@ -1,6 +1,6 @@
 ---
-title: Fukuoka Seed War Food Strategic Weapon Hybrid Rice Geopolitics
-source: "[[masanobu-fukuoka]] — The Road Back to Nature"
+title: Fukuoka Seed War Food fukuoka-food-strategic-weapon-critique Hybrid Rice Geopolitics
+source: "masanobu-fukuoka — The Road Back to Nature"
 tags: [seed-war, food-weapon, hybrid-rice, geopolitics, agricultural-policy, seed-sovereignty, fukuoka, oil-companies, F1-hybrid]
 created: 2026-05-08
 ---
@@ -16,7 +16,7 @@ In *The Road Back to Nature*,  describes how control over seeds has become a too
 Fukuoka states plainly: "Today, this food is used as a strategic weapon." His argument rests on several observations:
 
 - **American food policy**: The  uses food exports and seed technology as instruments of geopolitical influence.
-- **Oil company control**: "Control over America's seeds today lies squarely in the hands of five oil companies." These companies, "working hand in hand with political and economic interests," have moved into bioindustry and taken control of agriculture.
+- **Oil company control**: "Control over America's seeds today lies squarely in the hands of five [[fukuoka-oil-companies-international-seed-war]]." These companies, "working hand in hand with political and economic interests," have moved into bioindustry and taken control of agriculture.
 - **Global reach**: "The hands of the oil companies have already stretched out over the entire world."
 - **Farmer dependency**: Once seeds are controlled externally, farmers become "the pawns of agribusiness." Food production is carried out "as part of a broader strategy."
 
@@ -26,7 +26,7 @@ Fukuoka warns that there is a "limit of no return" beyond which "no amount of ef
 
 ### The US-Japan Confrontation
 
-The seed war crystallized around the development of hybrid F1 rice seed, which pitted American  against Japanese agricultural institutions:
+The seed war crystallized around the development of hybrid F1 rice seed, which pitted American  against [[fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse]] institutions:
 
 - **1981**: William Davis, counsel for agricultural affairs at the American Embassy in Japan, visited the Agricultural Ministry to explore selling rice seed to Japan.
 - **1982**: Richard Samuelson, president of Ring Around Products (a major US seed maker), visited Japan to develop partnerships for hybrid F1 rice seed production and sale.
@@ -36,7 +36,7 @@ The seed war crystallized around the development of hybrid F1 rice seed, which p
 
 The "Shinjo incident" referenced by officials is key to understanding the geopolitical stakes:
 
-Professor Shoichi Shinjo of Ryukyu University was the first to demonstrate the potential for agricultural production of F1 rice. He created a breakthrough breeding system with three complementary lines:
+Professor Shoichi Shinjo of Ryukyu University was the first to demonstrate the potential for [[fukuoka-agricultural-production-net-energy-deduction]] of F1 rice. He created a breakthrough breeding system with three complementary lines:
 
 1. **Male sterile line**: A rice line with the desired traits but unable to produce viable pollen.
 2. **Maintenance line**: Can be reproduced without disappearance of the male sterile trait.
@@ -78,12 +78,12 @@ Fukuoka described holding his head in his hands, sighing repeatedly, saying "how
 
 ## The Broader Pattern: Why Modern Rice Cannot Be Grown Naturally
 
-Fukuoka makes a crucial observation about the relationship between seed breeding and farming method:
+Fukuoka makes a crucial observation about the relationship between seed breeding and [[what-natural-farming-method-should-i-use]]:
 
 - "With the rice we have today, one cannot grow natural rice."
 - "Today's rice has been bred and improved so much by man that I find it weak and totally unsatisfactory."
 - Modern varieties have been selected for performance under chemical-intensive conditions.
-- They are dependent on the very inputs (fertilizers, pesticides, irrigation) that natural farming eliminates.
+- They are dependent on the very inputs (fertilizers, pesticides, irrigation) that [[comparison-natural-farming-vs-permaculture]] eliminates.
 - This creates a biological lock-in: even farmers who want to practice natural farming often cannot, because available seed varieties require chemical support.
 
 ## The Nuclear Arms Race Parallel
@@ -120,5 +120,9 @@ Fukuoka's 1987 analysis anticipated developments that have since become central 
 
 ## See Also
 
+- [[fukuoka-oil-companies-international-seed-war]]
+- [[fukuoka-food-strategic-weapon]]
+
 - [[fukuoka-seed-war-rice-weapon]]
 - [[fukuoka-textdoc-rice-seed-overwintering-biennial-cultivation-discovery]]
+- [[fukuoka-textdoc-overwintering-rice-seed-clay-pellet-method]]

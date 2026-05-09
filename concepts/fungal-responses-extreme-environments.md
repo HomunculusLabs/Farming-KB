@@ -1,5 +1,5 @@
 ---
-title: Fungal Responses to Extreme Environments
+title: dighton-fungal-responses-climate-change to Extreme Environments
 created: 2026-04-26
 tags:
   - extreme-environments
@@ -41,7 +41,7 @@ of propagules persists in most soils throughout the year.
 
 ### Psychrophilic and Psychrotolerant Fungi
 
-Psychrophilic fungi have optimum growth temperatures up to 16
+[[psychrotolerant-psychrophilic-fungi-ecology]] have optimum growth temperatures up to 16
 degrees C and maximum growth temperatures of 20 degrees C. They
 are restricted to permanently cold habitats including polar
 areas, alpine soils and lakes, snow and ice fields, and caves.
@@ -53,7 +53,7 @@ Cladosporium, Mortierella, Mucor, Penicillium, and Typhula.
 Snow molds are low-temperature-tolerant soil-borne fungi that
 damage grasses and cereals under snow cover. Common species
 include Microdochium nivale, Myriosclerotina borealis, and
-Typhula ishikariensis. The fungal community in forest soils at
+Typhula ishikariensis. The [[air-pollution-fungal-community-responses]] in forest soils at
 0 degrees C incubation differs completely from that at 25
 degrees C.
 
@@ -122,17 +122,17 @@ concentrations, is generally considered the domain of
 prokaryotes, but numerous zygomycetes and mitosporic ascomycetes
 can grow on nutrient-free silica gel. Possible explanations
 include atmospheric CO2 fixation, nutrient adsorption from the
-atmosphere, or silica gel stimulation of spore germination. Soil
+atmosphere, or silica gel stimulation of [[growing-gourmet-spore-germination-strain-isolation]]. Soil
 fungi may scavenge carbon from soil solution and atmosphere.
 
 ## Ecological Significance
 
-The stress tolerance of fungi has practical implications for
+The [[fungal-lichen-stress-tolerance-and-poikilohydry]] of fungi has practical implications for
 mycoremediation-of-plastics|bioremediation, food preservation,
 agriculture, and understanding ecosystem resilience. The high
 spatial and temporal heterogeneity in moisture patterns in arid
 ecosystems means investigators must be keenly aware of the type
-and scale of habitat being sampled. Fungal communities that
+and scale of habitat being sampled. [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] that
 develop on litter under shrubs may differ fundamentally from
 those on exposed litter in the same desert.
 

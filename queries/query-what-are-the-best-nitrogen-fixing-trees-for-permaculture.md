@@ -10,9 +10,9 @@ type: query
 
 # What Are the Best Nitrogen-Fixing Trees for Permaculture?
 
-[[leaf-litter-microfungal-diversity-tropical-temperate]], root exudates, and decomposing nodules — not just when the tree is chopped.
+[[leaf-litter-microfungal-diversity-tropical-temperate]], [[mycorrhizal-root-exudates-pathogen-interactions]], and decomposing nodules — not just when the tree is chopped.
 
-**Actinorhizal N-fixation:** *Frankia* actinomycetes form nodules on roots of non-legume trees and nitrogen fixing permaculture species in 8 plant families. These species often thrive on marginal, nitrogen-poor, or disturbed sites where legumes struggle — sandy soils, wet riparian zones, high-pH soils, and cold climates.
+**Actinorhizal N-fixation:** *Frankia* actinomycetes form nodules on roots of non-legume trees and [[comparison-rhizobia-vs-free-living-nitrogen-fixing-bacteria]] permaculture species in 8 plant families. These species often thrive on marginal, nitrogen-poor, or disturbed sites where legumes struggle — sandy soils, wet riparian zones, high-pH soils, and cold climates.
 
 ## Top Nitrogen-Fixing Trees by Climate Zone
 
@@ -20,10 +20,10 @@ type: query
 
 - **Acacia spp.** (e.g., *A. auriculiformis*, *A. mangium*) — Fast-growing pioneer trees excellent for degraded land rehabilitation. High N-fixation; quality fuelwood and timber.
 - **Leucaena leucocephala** — Extremely fast growth (up to 6 m/year), high leaf protein (24–30%), excellent fodder and mulch. Requires rhizobial inoculant. Can be invasive in frost-free areas.
-- **Gliricidia sepium** — Premier fodder and living fence species. Coppices readily; used as shade for coffee and cacao. Fixes 40–60 kg N/ha/year.
+- **Gliricidia sepium** — Premier fodder and living fence species. Coppices readily; used as shade for [[mollison-designers-shade-grown-coffee-and-cacao-systems]]. Fixes 40–60 kg N/ha/year.
 - **Calliandra calothyrsus** — Shrub/small tree with high leaf N (3–4%); excellent chop-and-drop mulch and bee forage. Tolerates acid soils and partial shade.
 - **Albizia lebbeck** — Large canopy tree, good timber, shade, and fodder. Fixes moderate N; deciduous leaves recycle nutrients. Tolerates drought once established.
-- **Flemingia macrophylla** — Shrub used widely in tropical alley cropping. Deep taproot brings up nutrients; high leaf biomass for mulch.
+- **Flemingia macrophylla** — Shrub used widely in tropical [[comparison-alley-cropping-vs-silvopasture]]. Deep taproot brings up nutrients; high leaf biomass for mulch.
 - **Inga spp.** — Shade trees for tropical agroforestry (coffee, cacao). Mycorrhizal associations complement N-fixation; edible pulp on some species.
 - **Pithecellobium dulce** (mesquite) — Drought-hardy, edible pods, good fodder. Fixes 20–40 kg N/ha/year. Invasive risk in arid tropics.
 - **Desmanthus spp.** — Perennial shrub with high leaf protein; excellent tropical/subtropical forage and green manure.
@@ -43,11 +43,11 @@ type: query
 ## Integration Strategies
 
 1. **N-fixing overstory**: Plant scattered alder or honey locust above food forest layers. Light-canopy species let 50–70% light through to fruit trees and shrubs below.
-2. **Chop-and-drop mulch**: Coppice caragana, leucaena, or gliricidia 2–3× per growing season. Lay cut branches around fruit trees to release nitrogen slowly as they decompose.
+2. **Chop-and-drop mulch**: Coppice caragana, leucaena, or gliricidia 2–3× per [[savory-growing-season-and-non-growing-season-management]]. Lay cut branches around fruit trees to release nitrogen slowly as they decompose.
 3. **Intercropping rows**: Alternate NFT rows with crop rows on 5–10 m spacing. Alley cropping with calliandra, flemingia, or desmanthus is proven in tropical systems.
 4. **Windbreaks with N-fixers**: Design multi-row shelterbelts with NFTs on the interior row. Temperate: caragana + spruce + seabuckthorn. Subtropical: carob + acacia + citrus.
 5. **Nursery/understory phase**: Start NFTs 1–3 years before planting canopy fruit trees. This builds soil N and biomass before the demanding crop layer is established.
-6. **Riparian buffers**: Use alder, silverberry, and sea buckthorn along waterways to filter runoff while adding N to streambank soils.
+6. **Riparian buffers**: Use alder, silverberry, and [[comparison-sea-buckthorn-vs-aronia]] along waterways to filter runoff while adding N to streambank soils.
 
 ## Choosing the Right NFT for Your Site
 

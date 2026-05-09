@@ -4,14 +4,15 @@ created: 2026-04-28
 tags: [query, organic-fertilizer, composting, bionutrients, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
 # How Do I Make My Own Organic Fertilizer at Home?
 
 ## Short Answer
-You can make effective organic fertilizers at home using compost, fermented plant
+You can make effective [[hamilton-organic-fertilizers-and-plant-nutrition]] at home using compost, fermented plant
 extracts, fish amino acids, and mineral blends from locally available materials.
 These inputs feed soil biology rather than directly feeding plants, creating
 long-term fertility, healthier crops, and reduced dependency on bottled nutrients.
@@ -29,7 +30,7 @@ top dressing, mixed into potting soil, or brewed into compost tea using the
 methods described in [[cannabis-organic-fertilizers]] page details which organic inputs work best at
 different growth stages, from seedling through flowering.
 
-Fermented plant extracts are a cornerstone of systems like [[bionutrients-lab-fermented-plant-juice-fpj]] guide provides step-by-step
+[[query-how-do-i-use-fermented-plant-extracts-in-my-garden]] are a cornerstone of systems like [[bionutrients-lab-fermented-plant-juice-fpj]] guide provides step-by-step
 instructions. Similarly, Fermented Fruit Juice (FFJ) uses ripe fruits and
 captures sugars, vitamins, and phytonutrients that boost plant metabolism during
 the flowering phase when energy demands are highest.
@@ -38,19 +39,19 @@ Fish Amino Acid (FAA) is a nitrogen-rich liquid fertilizer made by fermenting
 fish scraps with brown sugar at a 1:1 ratio. The [[bionutrients-lab-oriental-herbal-nutrients-ohn]] recipe produces a broad-
 spectrum antimicrobial and growth-stimulating tonic that strengthens plant immune
 systems. OHN can be added to compost teas, used as a foliar spray, or mixed into
-soil drenches. The antimicrobial properties come from the allicin in garlic and
-the gingerols in ginger, which help plants resist bacterial and fungal pathogens
+soil drenches. The [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] come from the allicin in garlic and
+the gingerols in ginger, which help plants resist [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] pathogens
 without the need for copper or sulfur-based fungicides.
 
-For mineral supplementation, Calcium Phosphate (CaPhos) can be made by burning
+For mineral supplementation, [[bionutrients-lab-calcium-phosphate-calamansi]] (CaPhos) can be made by burning
 animal bones and extracting the phosphorus with natural vinegar, as detailed in
 [[cervantes-organic-mineral-amendments]] chart is an excellent reference for
-matching specific mineral amendments to nutrient deficiency symptoms.
+matching specific mineral amendments to [[cannabis-grow-nutrient-deficiency-problem-solving]] symptoms.
 
 The [[query-how-do-you-make-your-own-mushroom-spawn-at-home]] Questions
 - [[query-how-to-build-a-compost-pile-that-works]]
 - [[query-how-does-living-soil-work-for-cannabis]]
-- [[query-how-do-slime-molds-decompose-organic-matter]]
+- query-how-do-slime-molds-decompose-organic-matter
 
 - [[query-how-do-i-make-a-johnson-su-bioreactor]]
 ## Practical Considerations
@@ -112,3 +113,7 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[query-how-to-make-mead-at-home]]
+- [[query-how-to-make-sourdough-bread-at-home]]

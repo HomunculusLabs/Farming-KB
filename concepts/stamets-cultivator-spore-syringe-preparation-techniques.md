@@ -1,11 +1,12 @@
 ---
-title: Spore Print and Syringe Preparation Techniques
+title: spore-print and mushroom-spore-printing-syringe-preparation-pf-tek Techniques
 created: 2026-04-28
 tags: [sterile-technique, spore-collection, inoculation, strain-preservation, lab-skills]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/the-mushroom-cultivator-stamets.md
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
 
@@ -13,9 +14,9 @@ type: concept
 
 Spore collection and preparation is the starting point for most mushroom
 cultivation projects. The process begins with taking a spore print from
-a fresh mushroom, progresses through spore germination techniques, and
-culminates in the creation of spore syringes for inoculation. These
-techniques form the foundation of [[agar]] surface. A similar method involves scraping the
+a fresh mushroom, progresses through spore [[seed-germination-techniques-solomon]], and
+culminates in the creation of [[query-spore-syringes-vs-liquid-culture]] for inoculation. These
+techniques form the foundation of agar surface. A similar method involves scraping the
 spore print above an opened petri dish, allowing spores to free-fall
 onto the medium. When starting from spores, inoculate at least three
 media dishes to improve germination success rates.
@@ -33,7 +34,7 @@ several plates with one or two drops each.
 ## Spore Syringe Preparation
 
 The spore syringe is a practical tool for both germination and direct
-inoculation of grain spawn jars. To prepare a spore syringe:
+inoculation of [[comparison-grain-spawn-vs-grain-to-grain-transfer]] jars. To prepare a spore syringe:
 
 1. Sterilize a glass syringe and a container of distilled water at 15
    psi for 30 minutes
@@ -71,10 +72,12 @@ spread sporulating mold spores during the transfer process.
 
 If the original spore print was taken under unsanitary conditions, the
 hydration and syringe technique may favor contaminant spores as much
-as mushroom spores. This is why careful print-taking technique and
-proper [[stamets-slant-culture-strain-preservation]] and tissue culture are preferred over multispore methods.
+as [[query-how-to-store-mushroom-spores-long-term]]. This is why careful print-taking technique and
+proper [[stamets-slant-culture-strain-preservation]] and [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] are preferred over multispore methods.
 
 ## Related Topics
 
-- [[stamets-sterile-laboratory-design]]
+- stamets-sterile-laboratory-design
 - [[stamets-slant-culture-strain-preservation]]
+- [[spore-syringe]]
+- [[mushroom-spore-printing-syringe-preparation-pf-tek]]

@@ -1,5 +1,5 @@
 ---
-title: Photosynthesis and the Carbon Cycle in Plants
+title: Photosynthesis and the photosynthesis carbon cycle plants in Plants
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Photosynthesis and the Carbon Cycle in Plants
 
-Photosynthesis is the fundamental biological process by which plants, algae, and certain bacteria convert light energy into chemical energy stored in sugars. Understanding photosynthesis is essential for understanding plant nutrition, growth, and the global carbon cycle.
+Photosynthesis is the fundamental biological process by which plants, algae, and certain bacteria convert light energy into chemical energy stored in sugars. Understanding photosynthesis is essential for understanding plant nutrition, growth, and the [[dighton-fungi-elevated-co2-global-carbon-cycling]] cycle.
 
 ## Overview
 
@@ -21,13 +21,13 @@ Carbon dioxide and water are converted into glucose and oxygen using light energ
 ## Chlorophyll and Light Capture
 
 ### The Pigments
-- **Chlorophyll a:** The primary photosynthetic pigment; absorbs red and blue light (reflects green)
+- **Chlorophyll a:** The primary photosynthetic pigment; absorbs red and [[chamovitz-julius-von-sachs-blue-light-phototropism]] (reflects green)
 - **Chlorophyll b:** Accessory pigment; absorbs blue and orange light
 - **Carotenoids:** Accessory pigments; absorb blue-green light; also protect against photo-oxidation
 
 ### Light Absorption
 Different wavelengths of light drive photosynthesis at different rates:
-- **Red light (660 nm):** Highly effective
+- **[[phytochrome-red-far-red-light-switch]] (660 nm):** Highly effective
 - **Blue light (430 nm):** Highly effective
 - **Green light (550 nm):** Least absorbed (reflected — giving plants their green color)
 - The "action spectrum" of photosynthesis closely matches the absorption spectrum of chlorophyll
@@ -37,7 +37,7 @@ Different wavelengths of light drive photosynthesis at different rates:
 ### Light Reactions (Thylakoid Membranes)
 1. Light energy strikes photosystem II, exciting chlorophyll electrons
 2. Water molecules are split (photolysis): 2H2O → 4H+ + 4e- + O2
-3. Electrons pass through an electron transport chain, generating ATP and NADPH
+3. Electrons pass through an electron [[electron-transport-chain-mitochondrial-respiration]], generating ATP and NADPH
 4. Light strikes photosystem I, further energizing electrons
 5. Products: ATP (energy currency), NADPH (reducing power), and O2 (released as byproduct)
 
@@ -53,7 +53,7 @@ Also called the "dark reactions" or "light-independent reactions":
 ## Factors Affecting Photosynthesis
 
 ### Light Intensity
-- Low light: rate increases linearly with intensity
+- [[darkness-low-light-facilitation-entheogenic-ceremonies]]: rate increases linearly with intensity
 - Moderate light: rate levels off (light saturation)
 - Very high light: photoinhibition can occur
 
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

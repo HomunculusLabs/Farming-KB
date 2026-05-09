@@ -11,7 +11,7 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Hall, I.R., Stephenson, S.L., Buchanan, P.K., Wang, Y. & Cole, A.L.J. (2003). Edible and Poisonous Mushrooms of the World. Timber Press."
+  - "Hall, I.R., Stephenson, S.L., Buchanan, P.K., Wang, Y. & Cole, A.L.J. (2003). Edible and palmer-poisonous-mushrooms-deadly-species of the World. Timber Press."
   - "Arora, D. (1986). Mushrooms Demystified. Ten Speed Press."
   - "Kuo, M. (2012). 100 Edible Mushrooms. University of Michigan Press."
   - "Boa, E. (2004). Wild Edible Fungi: A Global Overview of Their Use and Importance to People. FAO."
@@ -69,7 +69,7 @@ Olive-brown to brown. Spores are fusiform (spindle-shaped), 14–17 × 4–6 µm
 
 ## Distribution and Habitat
 
-Native to temperate and boreal forests across Europe, Asia, and North America. Also found in North Africa and introduced to southern hemisphere regions including New Zealand and South Africa.
+Native to temperate and boreal forests across Europe, Asia, and North America. Also found in North Africa and introduced to [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] regions including New Zealand and South Africa.
 
 Forms ectomycorrhizal associations with a wide range of trees including spruce (*Picea*), pine (*Pinus*), birch (*Betula*), oak (*Quercus*), beech (*Fagus*), and chestnut (*Castanea*).
 
@@ -99,7 +99,7 @@ Potentially confused with *Tylopilus felleus* (bitter bolete), which has pink po
 
 ## Ecological Role
 
-As an ectomycorrhizal species, B. edulis plays a critical role in forest nutrient cycling. The mycelial network facilitates nutrient exchange between trees and soil, enhancing phosphorus and nitrogen uptake for host trees.
+As an ectomycorrhizal species, B. edulis plays a critical role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. The [[gadd-mycelial-network-dynamics]] facilitates [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between trees and soil, enhancing phosphorus and nitrogen uptake for host trees.
 
 Fruiting bodies are consumed by numerous mammals including deer, squirrels, and slugs, contributing to spore dispersal across forest ecosystems.
 
@@ -109,7 +109,7 @@ B. edulis cannot be reliably cultivated due to its obligate mycorrhizal dependen
 
 In agroforestry systems, planting compatible host trees (oak, beech, chestnut, birch) in well-drained soils with appropriate pH (5.5–6.5) creates conditions favorable for natural colonization.
 
-Mulching with leaf litter from host trees and maintaining undisturbed forest floor conditions promotes mycelial network development. Avoidance of chemical fertilizers and compaction is essential for sustained fruiting.
+Mulching with leaf litter from host trees and maintaining undisturbed forest floor conditions promotes mycelial network development. Avoidance of [[cervantes-chemical-fertilizers-guide]] and compaction is essential for sustained fruiting.
 
 Harvesting practices that leave the mycelial mat undisturbed (cutting rather than pulling) are critical for long-term sustainability of wild populations, which have declined significantly in parts of Europe due to overharvesting and habitat loss.
 

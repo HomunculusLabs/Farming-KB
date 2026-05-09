@@ -1,5 +1,5 @@
 ---
-title: Cloning and Seed Propagation - Greg Green's Cannabis Grow Bible
+title: Cloning and jeavons-seed-propagation-techniques - Greg Green's Cannabis Grow Bible
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -11,13 +11,13 @@ tags: [cannabis, plant-growth]
 # Cloning and Seed Propagation
 
 Greg Green's Cannabis Grow Bible covers both seed-based propagation
-and cloning techniques for maintaining desirable cannabis genetics.
+and cloning techniques for maintaining desirable [[vic-high-cannabis-genetics-mendelian-inheritance]].
 
 ## Seed Propagation
 
 ### Germination Methods
 
-Green describes three methods ranked by success rate:
+Green describes three methods ranked by [[maitake-fruiting-body-success-rate-management]]:
 
 1. **Propagation kits (highest success)**: Rockwool SBS propagation
    trays with grow cubes, a reservoir for water or germination
@@ -30,7 +30,7 @@ Green describes three methods ranked by success rate:
    moist at all times. Check daily for roots. Transfer immediately to
    grow medium with tweezers when roots appear (do not touch the
    root). 8-9 out of 10 seeds typically germinate. Risk of
-   transplant shock.
+   [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]].
 
 3. **Soil propagation (moderate)**: Seeds placed 3mm deep (or seed
    length) in moist soil, sprinkled with water daily. 7-8 out of 10
@@ -79,7 +79,7 @@ Cloning allows a grower to:
   plant indefinitely
 - Create gardens that last decades from a single mother plant
 - Produce hundreds of female plants from one mother
-- Maintain perpetual grow cycles (SOG, ScrOG, cabinet grows all
+- Maintain [[cannabis-perpetual-grow-cycle]] cycles (SOG, ScrOG, cabinet grows all
   depend on clones)
 
 ### Standard Cloning Technique
@@ -128,7 +128,7 @@ maintain the genetics indefinitely through cloning.
 
 ## Related
 
-- green cannabis grow bible seed germination methods Pages
+- green cannabis grow bible [[cannabis-seed-germination-methods]] methods Pages
 
 - [[cannabis-cloning-guide]]
 - [[cannabis-clone-rooting-and-transplanting]]

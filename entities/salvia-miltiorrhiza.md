@@ -81,7 +81,7 @@ classes with distinct chemical properties and therapeutic roles:
 - **Tanshinone IIA:** The most studied diterpenoid quinone; cardioprotective,
   anti-angiogenic, and anti-inflammatory. Used as the reference marker
   for quality control in Chinese Pharmacopoeia
-- **Tanshinone I:** Cytotoxic activity against cancer cell lines;
+- **Tanshinone I:** Cytotoxic activity against [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines;
   contributes to antimicrobial effects
 - **Cryptotanshinone:** Precursor to tanshinone IIA; anti-inflammatory
   and anti-coagulant activity
@@ -116,7 +116,7 @@ substantial evidence supporting several applications:
 - **Hepatoprotection:** Tanshinones protect hepatocytes from CCl₄-induced
   injury and reduce liver fibrosis
 - **Anti-cancer potential:** Tanshinone IIA induces apoptosis in breast,
-  prostate, and gastric cancer cell lines; in early-phase clinical trials
+  prostate, and [[lentinan-gastric-cancer-combination-therapy]] cell lines; in early-phase [[mushroom-cancer-clinical-trials-overview]]
 
 ## Cultivation and Permaculture Applications
 
@@ -128,7 +128,7 @@ substantial evidence supporting several applications:
 - **Yield:** 200–300 kg dry root per mu (~0.07 ha) under good conditions
 - **Permaculture role:** Deep taproot breaks compacted subsoil; flowers
   attract pollinators; aromatic foliage may deter some pests. Compatible
-  with partial shade intercropping under fruit trees
+  with partial shade intercropping under [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
 
 ## Safety and Contraindications
 

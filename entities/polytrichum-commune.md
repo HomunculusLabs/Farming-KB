@@ -45,7 +45,7 @@ The sporophyte consists of a long seta (stalk) topped by a cylindrical, angular 
 
 ## Distribution and Habitat
 
-*Polytrichum commune* has a circumboreal distribution across Europe, Asia, and North America. It extends south into mountainous regions of the tropics, including parts of Central America and East Africa.
+*Polytrichum commune* has a circumboreal distribution across Europe, Asia, and [[psilocybin-north-america-pacific-northwest]]. It extends south into mountainous regions of the tropics, including parts of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and East Africa.
 
 The species colonizes a wide range of acidic substrates. It is most common on well-decomposed humus in coniferous forests, along stream banks, on road embankments, and in peatland margins.
 
@@ -73,7 +73,7 @@ Water retention by *P. commune* turfs can exceed 20 times their dry weight. This
 
 During World War I, substantial quantities of *Polytrichum* moss were harvested for surgical dressings. The moss could absorb wound exudate while maintaining a sterile interface against damaged tissue.
 
-The antimicrobial properties attributed to *P. commune* are partly due to phenolic compounds in its cell walls. These secondary metabolites inhibit bacterial growth, which historically enhanced its value as a wound-dressing material.
+The [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] attributed to *P. commune* are partly due to phenolic compounds in its cell walls. These [[antifungal-secondary-metabolites-coprophilous-fungi]] inhibit bacterial growth, which historically enhanced its value as a wound-dressing material.
 
 The species has been used in traditional basketry and stuffing material in Scandinavian cultures. Dried stems were woven into mats, pillows, and insulation material due to their durability and abundance.
 
@@ -81,7 +81,7 @@ Native peoples of the Pacific Northwest also used *Polytrichum* species as diape
 
 In horticulture, *P. commune* serves as a moisture-retaining ground cover in terrariums, bonsai displays, and shaded garden beds. It is valued for its architectural, miniature-forest aesthetic.
 
-The species can be cultivated from spores or vegetative fragments. Spore germination requires a moist, sterile substrate and indirect light. Protonemal development leads to gametophore formation within 8–12 weeks.
+The species can be cultivated from spores or vegetative fragments. [[growing-gourmet-spore-germination-strain-isolation]] requires a moist, sterile substrate and indirect light. Protonemal development leads to gametophore formation within 8–12 weeks.
 
 Vegetative propagation is more practical for horticultural purposes. Stem fragments anchored to acidic, peat-based substrate establish within 4–6 weeks under consistent humidity and diffuse light.
 
@@ -97,9 +97,11 @@ After fertilization, the diploid sporophyte develops from the archegonium. The e
 
 Spore capsules mature over 2–4 months. Each capsule releases approximately 50,000–200,000 spores through the peristome mechanism, which responds to changes in humidity to regulate spore release timing.
 
-The species also reproduces vegetatively through fragmentation. Stem tips broken by disturbance can establish new colonies, enabling local spread even when sexual reproduction conditions are unfavorable.
+The species also reproduces vegetatively through fragmentation. Stem tips broken by disturbance can establish new colonies, enabling local spread even when [[fungal-life-cycles-sexual-reproduction-metamorphosis]] conditions are unfavorable.
 
 ## See Also
+
+- [[polytrichum-juniperinum]]
 
 - [[sphagnum-cuspidatum]]
 - [[bryoria-fuscescens]]
@@ -108,5 +110,5 @@ The species also reproduces vegetatively through fragmentation. Stem tips broken
 - [[pteridium-aquilinum]]
 - [[pinus-sylvestris]]
 - [[ectomycorrhiza]]
-- [[fungal-biodiversity-forest-floor]]
+- fungal-biodiversity-forest-floor
 - [[arbutoid-mycorrhiza]]

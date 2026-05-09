@@ -1,5 +1,5 @@
 ---
-title: Tropical Terrace Design and Earth-Shaping
+title: mollison designers tropical terrace design and earth shaping Design and Earth-Shaping
 created: 2026-04-26
 tags:
   - permaculture
@@ -16,9 +16,9 @@ type: concept
 
 # Tropical Terrace Design and Earth-Shaping
 
-Terrace systems are a cornerstone of tropical permaculture design, enabling
+Terrace systems are a cornerstone of tropical [[mollison-permaculture-design-course-curriculum]], enabling
 productive agriculture on steep slopes while preventing erosion and
-conserving water. The Permaculture Designers Manual provides detailed
+conserving water. The Permaculture [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] provides detailed
 guidance on terrace types, construction, planting strategies, and
 integration with broader landscape systems.
 
@@ -39,7 +39,7 @@ gardens can be established even on extreme terrain when properly designed.
 
 ### Bund and Bank Systems
 
-Contour strips of vetiver grass, lemongrass, and banna grass with tree
+Contour strips of [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]], lemongrass, and banna grass with tree
 legumes replace conventional contour ridges, trapping soil particles and
 providing a cheap biological terracing method. These strips provide mulch
 for trees and intercrop and work even on steep slopes where engineered
@@ -48,7 +48,7 @@ structures would be too expensive.
 ### Water-Fed Terraces
 
 Water is continuously fed to terraces through stone splash-ponds for
-energy dissipation. Deep border ditches hold fish or shellfish, vine crops
+energy dissipation. Deep border ditches hold fish or shellfish, [[tree-vine-crops-arid-tropical-mollison]]
 and bund crops assist yields or provide mulch. This integration of
 aquaculture with terraced agriculture maximises the productivity of each
 level.
@@ -59,7 +59,7 @@ level.
 
 On the terraces themselves, Mollison recommends:
 - Banana, papaya, melons, chilies, peppers, cucurbits
-- Sweet potato, cassava, maize, beans
+- [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]], cassava, maize, beans
 - Edible Chrysanthemum, edible Hibiscus, rosella
 - Moringa, coconut, mango
 

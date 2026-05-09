@@ -1,5 +1,5 @@
 ---
-title: Ecological Succession and Community Dynamics
+title: Ecological savory-plant-succession-and-community-dynamics Dynamics
 created: 2026-04-28
 tags:
   - holistic-management
@@ -17,9 +17,9 @@ type: concept
 # Ecological Succession and Community Dynamics
 
 Succession is the name given to the process of change and development in
-communities of living organisms. Neither chaotic nor haphazard, this
+communities of [[savory-living-organisms-as-tools]]. Neither chaotic nor haphazard, this
 process follows certain patterns and principles that are central to the
-holistic management framework developed by Allan Savory. Understanding
+[[savory-holistic-management-overview]] framework developed by Allan Savory. Understanding
 succession is essential for managing [[desertification]], and making sound decisions within the [[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]], the
 microenvironment on exposed soil surfaces is subject to such extremes
 that succession starts with the greatest difficulty. On smooth, steep, or
@@ -113,4 +113,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -1,5 +1,5 @@
 ---
-title: "Hallucinogenic Mushroom Legal Loopholes and Classification Challenges"
+title: "emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative Legal Loopholes and Classification Challenges"
 created: 2026-04-28
 tags:
   - drug-policy
@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - EMCDDA Thematic Paper: Hallucinogenic Mushrooms, An Emerging Trend Case Study (2006)
+  - EMCDDA Thematic Paper: emcdda-hallucinogenic-mushrooms-emerging-trend-europe, An Emerging Trend Case Study (2006)
 type: concept
 ---
 
@@ -70,7 +70,7 @@ Legal controls do not always apply to the same mushrooms across different countr
 
 ### Denmark
 
-Denmark controls "Psilocybe semilanceata, Psilocybe cubensis or other fungi or spores containing psilocin or psilocybin." This approach lists specific species alongside a general provision, providing both clarity and breadth.
+Denmark controls "[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]], Psilocybe cubensis or other fungi or spores containing psilocin or psilocybin." This approach lists specific species alongside a general provision, providing both clarity and breadth.
 
 ### Italy
 
@@ -82,7 +82,7 @@ The UK definition simply states "Fungus of any kind which contains psilocin or a
 
 ## Spore and Mycelium Control
 
-The control of spores and mycelium presents additional legal complexity. Spores do not contain psilocybin or psilocin themselves but can be used to grow mushrooms that do. Some jurisdictions control spores explicitly, while others do not. Estonia reported the confiscation of 14 mail deliveries of psilocybin mushroom spores or mycelium, and several countries have had to specifically clarify whether cultivation of mushrooms from spores constitutes an offence.
+The control of spores and mycelium presents additional legal complexity. Spores do not contain psilocybin or psilocin themselves but can be used to grow mushrooms that do. Some jurisdictions control spores explicitly, while others do not. Estonia reported the confiscation of 14 mail deliveries of psilocybin mushroom spores or mycelium, and several countries have had to specifically clarify whether [[companion-cultivation-of-mushrooms-with-garden-vegetables]] from spores constitutes an offence.
 
 ## Retailer Evasion Strategies
 
@@ -94,7 +94,7 @@ A newspaper in the Czech Republic reported that a shop in Prague was attempting 
 
 ### Legal Alternative Substitution
 
-Following prohibition in the UK, retailers shifted to selling legal alternatives such as Amanita muscaria (fly agaric) and Amanita pantherina (panther mushroom). Another product increasingly marketed as a legal alternative was Purple Ohms capsules, whose main ingredient is Argyria nervosa (Hawaiian Baby Woodrose) containing Lysergic Acid Amide (LSA).
+Following prohibition in the UK, retailers shifted to selling legal alternatives such as [[allegro-amanita-muscaria-properties-and-pharmacology]] (fly agaric) and Amanita pantherina (panther mushroom). Another product increasingly marketed as a legal alternative was Purple Ohms capsules, whose main ingredient is Argyria nervosa (Hawaiian Baby Woodrose) containing Lysergic Acid Amide (LSA).
 
 ## Timeline of Legislative Responses
 
@@ -103,7 +103,7 @@ The pattern of legislative responses across Europe shows a clear trend of tighte
 - **2001** - Denmark adds specific mushroom species to controlled substances list
 - **2002** - Netherlands Supreme Court rules on "prepared" mushrooms
 - **2005 March** - Germany changes "plant" to "organism" in controlled substances definition
-- **2005 May** - Estonia clarifies that mushroom cultivation is an offence
+- **2005 May** - Estonia clarifies that [[accessible-mushroom-cultivation-for-disabilities]] is an offence
 - **2005 July** - UK removes "treated or prepared" qualifier
 - **2006 February** - Ireland criminalises possession or sale regardless of preparation state
 

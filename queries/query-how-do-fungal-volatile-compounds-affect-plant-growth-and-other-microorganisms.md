@@ -19,7 +19,7 @@ sources:
   - https://doi.org/10.1016/j.tplants.2021.01.005
 type: query
 ---
-# How Do [[serendipita-indica]]* (broad-spectrum priming)
+# How Do serendipita-indica* (broad-spectrum priming)
 
 **Duration**: Priming effects typically last 1–3 weeks after volatile exposure ends. Epigenetic modifications (DNA methylation, histone acetylation) may underlie this transient "memory."
 
@@ -40,7 +40,7 @@ Many FVOCs are bactericidal or bacteriostatic:
 
 ### Bacterial Community Shaping
 
-In soil microcosm experiments, adding FVOC-producing *Trichoderma* to soil shifts the bacterial community composition within 48 hours, increasing the relative abundance of *Bacillus*, *Streptomyces*, and *Pseudomonas* species while decreasing *Serratia* and *Erwinia*. This community restructuring persists even after the volatile source is removed, suggesting FVOCs can initiate lasting shifts in microbiome composition.
+In soil microcosm experiments, adding FVOC-producing *Trichoderma* to soil shifts the bacterial [[core-endorhiza-bacterial-community-composition-cannabis]] within 48 hours, increasing the relative abundance of *Bacillus*, *Streptomyces*, and *Pseudomonas* species while decreasing *Serratia* and *Erwinia*. This community restructuring persists even after the volatile source is removed, suggesting FVOCs can initiate lasting shifts in microbiome composition.
 
 ## Effects on Other Fungi
 
@@ -50,7 +50,7 @@ Fungal-fungal volatile interactions are a major driver of competition in soil:
 
 - **6-PP** inhibits *[[botrytis-cinerea]]*, *Rhizoctonia solani*, and *Fusarium* growth at 50–100 μg/L in headspace.
 - **DMDS** suppresses *Armillaria* and various wood-decay fungi.
-- **2-Heptanone** and **3-octanone** from *Trichoderma* inhibit spore germination of competing fungi.
+- **2-Heptanone** and **3-octanone** from *Trichoderma* inhibit [[growing-gourmet-spore-germination-strain-isolation]] of competing fungi.
 - **Volatile blends from *Muscodor albus*** (an endophytic fungus) are lethal to a broad spectrum of fungi and bacteria—the "mycofumigation" concept is based on this property.
 
 ### Preemptive Defense Responses
@@ -58,7 +58,7 @@ Fungal-fungal volatile interactions are a major driver of competition in soil:
 Fungi can detect competitor volatiles and activate defense mechanisms before physical contact:
 
 - *Fusarium graminearum* exposed to *Trichoderma* volatiles upregulates chitin synthase genes, thickening its cell wall.
-- *Aspergillus niger* exposed to competitor FVOCs increases antioxidant enzyme production (catalase, superoxide dismutase).
+- *Aspergillus niger* exposed to competitor FVOCs increases antioxidant [[ligninolytic-enzyme-production-bioremediation]] (catalase, superoxide dismutase).
 - Some fungi alter their own volatile output in response to detected competitors, escalating the chemical arms race.
 
 ### Cooperative Signaling
@@ -71,7 +71,7 @@ Not all fungal-fungal volatile interactions are antagonistic:
 
 ## Effects on Insects
 
-- **Attraction**: Bark beetles are drawn to fungal ethanol and monoterpene blends. Some entomopathogenic fungi produce volatile compounds that attract insect hosts to fruiting bodies.
+- **Attraction**: Bark beetles are drawn to fungal ethanol and monoterpene blends. Some [[singh-entomopathogenic-fungi-biocontrol-agents]] produce volatile compounds that attract insect hosts to fruiting bodies.
 - **Repellence**: *Penicillium* volatiles can repel fungivorous mites. Some FVOCs deter herbivorous insects from feeding on fungus-colonized plant material.
 - **Behavioral manipulation**: Ophiocordyceps-infected ants are directed by fungal volatile signals to positions favorable for spore dispersal, though this is mediated by a combination of volatile and non-volatile fungal compounds.
 
@@ -85,13 +85,13 @@ Not all fungal-fungal volatile interactions are antagonistic:
 
 3. **Maintain soil biology**: FVOC production depends on active, healthy fungal populations. Minimize tillage, add organic matter, avoid excessive fungicide use, and maintain adequate soil moisture to support the fungi that produce beneficial volatiles.
 
-4. **Companion planting with mycorrhizal hosts**: Mycorrhizal plants produce and respond to a different suite of volatiles than non-mycorrhizal plants. Intercropping mycorrhizal-dependent species can enhance overall volatile-mediated signaling in the root zone.
+4. **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] with mycorrhizal hosts**: Mycorrhizal plants produce and respond to a different suite of volatiles than non-mycorrhizal plants. Intercropping mycorrhizal-dependent species can enhance overall volatile-mediated signaling in the root zone.
 
 ### For Larger-Scale Agriculture
 
 - **Volatile-blend formulations**: Research is progressing toward commercial formulations of purified FVOC blends (primarily 2,3-butanediol and 6-PP) that can be applied as soil drenches or seed treatments without requiring live fungal inoculants.
 - **Mycofumigation**: Pre-planting soil treatment with *Muscodor albus* or similar FVOC-producing fungi in sealed or tarped systems can reduce soilborne pathogen loads as an alternative to chemical fumigation.
-- **Monitoring FVOCs as bioindicators**: Sampling soil headspace volatiles provides a non-destructive window into soil microbial community status. Changes in the FVOC profile can indicate shifts in fungal community composition before they become visible in crop performance.
+- **Monitoring FVOCs as bioindicators**: Sampling soil headspace volatiles provides a non-destructive window into soil [[edaphic-factors-microbial-community-structure]] status. Changes in the FVOC profile can indicate shifts in fungal community composition before they become visible in crop performance.
 
 ## Limitations and Considerations
 

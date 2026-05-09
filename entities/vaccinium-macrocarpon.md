@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-Vaccinium macrocarpon, commonly known as the large cranberry or American cranberry, is an evergreen creeping shrub native to North America. It is one of only three commercially cultivated cranberry species worldwide and the dominant species in the United States cranberry industry.
+Vaccinium macrocarpon, commonly known as the large cranberry or American cranberry, is an evergreen creeping shrub native to [[psilocybin-north-america-pacific-northwest]]. It is one of only three commercially cultivated cranberry species worldwide and the dominant species in the United States cranberry industry.
 
 The plant produces tart, red berries that are among the most economically important small fruits native to North America. Annual U.S. production exceeds 400,000 tonnes, with Wisconsin, Massachusetts, and New Jersey as the leading producing states.
 
@@ -63,7 +63,7 @@ Planting is done using rooted cuttings or established sod, spaced approximately 
 
 Major cultivars include 'Stevens', 'Ben Lear', 'Howes', and 'McFarlin'. 'Stevens' dominates current plantings due to its high yield, uniform ripening, and good fruit color retention.
 
-**Nutrient management** requires careful attention to nitrogen, phosphorus, and pH. Excess nitrogen promotes vegetative growth at the expense of fruit production. Phosphorus runoff from cranberry beds is an environmental concern in some watersheds.
+**[[green-cannabis-grow-bible-nutrient-management-ppm]]** requires careful attention to nitrogen, phosphorus, and pH. Excess nitrogen promotes vegetative growth at the expense of fruit production. Phosphorus runoff from cranberry beds is an environmental concern in some watersheds.
 
 Common pests include the cranberry fruitworm (*Acrobasis vaccinii*), black-headed fireworm (*Rhopobota naevana*), and cranberry weevil (*Anthonomus musculus*). Fungal diseases include fruit rot (*Phytophthora cinnamomi*) and red leaf spot (*Exobasidium rostrupii*).
 
@@ -93,13 +93,13 @@ The name "cranberry" derives from "crane berry," referring to the resemblance of
 
 Wisconsin surpassed Massachusetts as the leading production state in the 1990s and now accounts for approximately 60% of U.S. cranberry production. Global production has expanded to include Chile, Canada, and Eastern Europe.
 
-The cranberry industry supports significant wetland conservation through maintained bog habitats providing ecosystem services including water filtration, flood attenuation, and carbon sequestration. In permaculture, cranberries suit rain gardens and constructed wetlands in acidic conditions.
+The cranberry industry supports significant wetland conservation through maintained bog habitats providing [[biodiversity-of-fungi-ecosystem-services-agriculture]] including water filtration, flood attenuation, and carbon sequestration. In permaculture, cranberries suit rain gardens and [[comparison-constructed-wetlands-vs-bioswales]] in acidic conditions.
 
-Ornamental use is increasing, particularly for containers and hanging baskets where the trailing habit and red autumn berries create visual interest. Cultivars with compact growth are marketed for home garden use and landscape plantings.
+Ornamental use is increasing, particularly for containers and [[hamilton-hanging-baskets-organic]] where the trailing habit and red autumn berries create visual interest. Cultivars with compact growth are marketed for home garden use and landscape plantings.
 
 Integrated pest management (IPM) programs are standard in commercial production. Cultural practices including sanding, controlled flooding, and careful nitrogen management are the primary defense against fungal diseases caused by *Phytophthora* and *Colletotrichum* species.
 
-Commercial propagation is primarily vegetative, using rooted cuttings from established beds. The USDA cranberry breeding program has released numerous cultivars since the 1950s, with key objectives including higher yield, improved fruit quality, and disease resistance. The cranberry genome was sequenced in 2017, providing tools for marker-assisted selection.
+Commercial propagation is primarily vegetative, using rooted cuttings from established beds. The USDA cranberry [[cervantes-breeding-program-design-goal-setting]] has released numerous cultivars since the 1950s, with key objectives including higher yield, improved fruit quality, and disease resistance. The cranberry genome was sequenced in 2017, providing tools for marker-assisted selection.
 
 ## See Also
 

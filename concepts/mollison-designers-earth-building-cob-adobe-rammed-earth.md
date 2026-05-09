@@ -1,5 +1,5 @@
 ---
-title: Earth Building - Cob, Adobe, Rammed Earth
+title: mollison designers earth building cob adobe rammed earth - Cob, Adobe, Rammed Earth
 created: 2026-04-28
 tags:
   - natural-building
@@ -17,8 +17,8 @@ type: concept
 # Earth Building - Cob, Adobe, Rammed Earth
 
 Earth building represents humanity's oldest and most widespread
-construction tradition. In Permaculture: A Designers Manual, Bill
-Mollison presents earthen construction as a cornerstone of sustainable
+construction tradition. In Permaculture: A [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]], Bill
+Mollison presents [[pdc-earthen-construction-techniques]] as a cornerstone of sustainable
 building, emphasizing that earth is universally available, requires
 minimal processing, and produces structures with excellent thermal
 performance and virtually zero embodied energy.
@@ -67,7 +67,7 @@ in permaculture building.
 Earth bags excel for dome structures, retaining walls, and emergency
 shelter. They require no foundation in some cases and can use nearly
 any soil type. Mollison appreciates earth bag construction for disaster
-relief and [[village-development-in-permaculture]]. CEB walls typically use thin mortar
+relief and village-development-in-permaculture. CEB walls typically use thin mortar
 joints or dry stacking with surface bonding cement.
 
 ## Stabilization Methods
@@ -85,9 +85,9 @@ rising damp. Stabilization options include:
 
 ## Integration with Permaculture Systems
 
-Mollison emphasizes that earth building materials come directly from
+Mollison emphasizes that earth [[natural-building-materials-guide]] come directly from
 the building site, creating zero-transport construction. Earthen walls
-decompose back to soil at end of life. The thermal mass of earth
+decompose back to soil at [[powell-psilocybin-end-of-life-anxiety]]. The thermal mass of earth
 buildings synergizes with [[mollison-designers-straw-bale-building-techniques]] for hybrid insulated-mass walls.
 Earthen structures serve as [[food-forest-design]] boundary walls in broader
 permaculture site designs.

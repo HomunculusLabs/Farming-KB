@@ -1,10 +1,11 @@
 ---
-title: Fungal Spore Print Guide
+title: bloomfield-fungal-spore-discharge-and-dispersal Print Guide
 created: 2026-04-12
 updated: 2026-04-13
 type: concept
 tags: [fungi, mycology, foraging, species, methods, lab-technique, mushrooms, taxonomy]
-sources: []
+sources:
+  sources: []
 ---
 
 # Fungal Spore Print Guide
@@ -52,8 +53,8 @@ Common genera with white spores:
 - **Amanita**: Including deadly species (A. phalloides, A. virosa) and the fly agaric (A. muscaria)
 - **Lepiota**: Parasol mushrooms; some deadly (L. brunneoincarnata)
 - **Tricholoma**: Many species including matsutake (T. matsutake)
-- **Pleurotus**: Oyster mushrooms (P. ostreatus)
-- **Volvariella**: Paddy straw mushroom (V. volvacea)
+- **Pleurotus**: [[query-how-to-grow-oyster-mushrooms-at-home]] (P. ostreatus)
+- **Volvariella**: Paddy [[mushroom-training-straw-mushroom-cultivation]] (V. volvacea)
 - **Marasmius**: Marasmius oreades (fairy ring mushroom)
 - **Lycoperdon**: Puffballs (when mature and releasing spores)
 
@@ -79,8 +80,8 @@ The largest group of gilled mushrooms:
 
 ### Dark Brown / Chocolate Brown Spore Print
 
-- **Agaricus**: Cultivated button mushroom (A. bisporus), field mushrooms, meadow mushrooms
-- **Stropharia**: Garden giant (S. rugosoannulata)
+- **Agaricus**: Cultivated [[growing-gourmet-button-mushroom-agaricus-cultivation]] (A. bisporus), field mushrooms, meadow mushrooms
+- **Stropharia**: [[mycelium-running-garden-giant-stamets]] (S. rugosoannulata)
 - **Hypholoma**: Sulfur tuft (H. fasciculare)
 - **Kuehneromyces**: Brown wood mushrooms
 
@@ -136,7 +137,7 @@ Document your spore prints for future reference:
 ## See Also
 
 - [[mushroom-taxonomy-history]] — How spore colors shaped early fungal classification
-- [[fungal-dna-barcoding]] — Modern molecular identification methods
+- [[fungal-dna-barcoding]] — Modern [[biodiversity-fungal-molecular-identification-dna-barcoding]] methods
 - [[mushroom-cooking-techniques]] — Once identified, how to prepare edible species
 
 ## Related

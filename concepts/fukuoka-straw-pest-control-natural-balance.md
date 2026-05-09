@@ -1,5 +1,5 @@
 ---
-title: Pest Control by Natural Balance (No Pesticides)
+title: comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol by Natural Balance (No Pesticides)
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Masanobu Fukuoka, The Natural Way of Farming"
@@ -76,10 +76,10 @@ prevented.
 
 ## The Three-Dimensional Orchard Ecosystem
 
-Using natural farming methods to cultivate fruit trees creates a truly
+Using [[comparison-natural-farming-vs-permaculture]] methods to cultivate fruit trees creates a truly
 three-dimensional orchard. More than just a place for growing fruit, the
 orchard becomes an organically integrated community that includes fowl,
-livestock, and man as well. If a natural orchard is managed and run as a
+livestock, and man as well. If a [[fukuoka-natural-orchard-development]] is managed and run as a
 single microcosm, there is no reason why one should not be able to live
 self-sufficiently.
 
@@ -106,10 +106,10 @@ pesticides entirely and allowing natural balances to reassert themselves.
 
 ## Healthy Plants Resist Disease
 
-The fundamental principle of natural pest control is that healthy plants grown
+The fundamental principle of [[fukuoka-natural-pest-balance]] control is that healthy plants grown
 in healthy soil are naturally resistant to disease and insect attack. Plants
-weakened by chemical fertilizers, poor soil management, and unnatural growing
-conditions become susceptible to pests and diseases that would not trouble a
+weakened by [[cervantes-chemical-fertilizers-guide]], poor soil management, and unnatural growing
+conditions become susceptible to [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] that would not trouble a
 vigorous plant. Rather than fighting the symptoms of poor plant health with
 toxic chemicals, natural farming addresses the root cause by building soil
 fertility and growing plants in conditions that mimic their natural

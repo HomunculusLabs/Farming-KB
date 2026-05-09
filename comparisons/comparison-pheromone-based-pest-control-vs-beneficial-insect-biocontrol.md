@@ -1,5 +1,5 @@
 ---
-title: Pheromone-Based beneficial insects and biological pest control vs. [[beneficial-insect-habitat]] Biocontrol
+title: Pheromone-Based comparison-beneficial-insects-guide-vs-integrated-pest-management and cervantes-biological-pest-control-predators control vs. beneficial-insect-habitat Biocontrol
 created: 2026-04-28
 tags: [pest-control, pheromones, biological-control, IPM, integrated-pest-management, semiochemicals, beneficial-insects, sustainable-agriculture, entomology]
 date: 2026-04-28
@@ -19,14 +19,14 @@ type: comparison
 
 | Feature | Pheromone-Based Pest Control | Beneficial Insect Biocontrol |
 |---------|------------------------------|------------------------------|
-| **Mechanism** | Manipulates insect behavior using synthetic copies of insect-produced chemical signals | Deploys living predators, parasitoids, or pathogens to kill [[species-specific-cold-shock-response-psilocybe]] sex/aggregation pheromones | Moderate to high — predators may be generalists; parasitoids often species-specific |
+| **Mechanism** | Manipulates insect behavior using synthetic copies of insect-produced [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] | Deploys living predators, parasitoids, or pathogens to kill [[species-specific-cold-shock-response-psilocybe]] sex/aggregation pheromones | Moderate to high — predators may be generalists; parasitoids often species-specific |
 | **Mode of action** | Mating disruption, mass trapping, attract-and-kill | Direct predation, parasitism, or disease |
 | **Speed of effect** | Immediate behavioral effect; population reduction over 1–3 generations | Predator establishment takes days to weeks; population suppression gradual |
 | **Persistence** | Requires continuous pheromone presence (seasonal dispenser replacement) | Self-sustaining if predators establish; may require periodic augmentation |
 | **Cost per season** | $20–$150/acre depending on crop and pest | $30–$400/acre depending on agent and release rate |
 | **Non-target impact** | Negligible (species-specific compounds) | Low but possible (generalist predators may affect non-pest species) |
 | **Resistance risk** | Very low | Low to moderate |
-| **Best for** | Lepidopteran pests in orchards/vineyards, stored product moths | Aphids, mites, whiteflies, caterpillars in diverse [[cover-crop]] s that support predatory mites and parasitic wasps.
+| **Best for** | Lepidopteran pests in orchards/vineyards, stored product moths | Aphids, mites, whiteflies, caterpillars in diverse [[cover-crop]] s that support [[comparison-predatory-mites-vs-ladybugs-biocontrol]] and parasitic wasps.
 - **Targeted *Trichogramma* releases** for secondary lepidopteran pests.
 - **Minimal insecticide use** — reserved for threshold-based interventions only.
 
@@ -45,7 +45,7 @@ This integrated program has reduced synthetic insecticide applications by 60–8
 - **Ecological footprint:** Minimal chemical input. Rearing facilities use energy and resources but the field application is biologically benign.
 - **Biodiversity impact:** Generally positive — biocontrol promotes a more diverse predatory arthropod community. However, poorly chosen agents (especially generalist predators) can disrupt native food webs.
 - **Invasive species risk:** Historical biocontrol introductions (e.g., cane toad in Australia, *Harmonia axyridis* globally) demonstrate the risk of releasing non-native agents without adequate screening.
-- **Ecosystem services:** Biocontrol agents often provide additional services including pollination (some predatory wasps visit flowers) and nutrient cycling (ground beetles are both predators and detritivores).
+- **[[biodiversity-of-fungi-ecosystem-services-agriculture]]:** Biocontrol agents often provide additional services including pollination (some predatory wasps visit flowers) and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] (ground beetles are both predators and detritivores).
 
 ## Cost-Benefit Summary
 
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

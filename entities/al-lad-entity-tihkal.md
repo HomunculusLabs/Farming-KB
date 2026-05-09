@@ -8,7 +8,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 # AL-LAD (6-Allylnor-LSD)
 
-TIHKAL entry #1. A lysergamide analogue of LSD with an allyl group substituted at the 6-position of ring D. AL-LAD is less potent than LSD but produces a notably gentler, "sweeter" psychedelic experience with erotic and music-enhancing properties. It belongs to a large series of 6-alkylated analogues of nor-LSD, most of which proved less potent than LSD and considerably less dramatic.
+TIHKAL entry #1. A lysergamide analogue of LSD with an allyl group substituted at the 6-position of ring D. AL-LAD is less potent than LSD but produces a notably gentler, "sweeter" [[leary-psychedelic-experience-bardo-mapping]] with erotic and music-enhancing properties. It belongs to a large series of 6-alkylated analogues of nor-LSD, most of which proved less potent than LSD and considerably less dramatic.
 
 ## Chemical Names
 
@@ -40,7 +40,7 @@ TIHKAL entry #1. A lysergamide analogue of LSD with an allyl group substituted a
 
 ## Extensions and Commentary
 
-AL-LAD is one of several very potent compounds in the series of 6-alkylated analogues of al lad entity tihkal. Most proved to be less potent than LSD and considerably less dramatic. The compound is notable for:
+AL-LAD is one of several very potent compounds in the series of 6-alkylated analogues of al al lad entity tihkal tihkal. Most proved to be less potent than LSD and considerably less dramatic. The compound is notable for:
 
 - Faster onset than LSD
 - Absence of the "vaguely sinister push" characteristic of LSD
@@ -62,7 +62,7 @@ AL-LAD shows a clear dose-response progression from mild perceptual shifts at 50
 
 ## Comparison with Related Lysergamides
 
-AL-LAD occupies a distinctive niche within the LSD analogue family. Compared to [[eth-lad-entity-tihkal]] (the 6-ethyl analogue), AL-LAD has a slightly different character — the allyl group provides distinct electronic properties that affect receptor binding. The 6-position substitution pattern in these compounds directly modifies how the molecule interacts with 5-HT2A and other serotonin receptor subtypes, producing the characteristic differences in experiential quality. AL-LAD's consistently positive reports ("One of the best materials ever") suggest that the allyl substitution may produce a particularly favorable receptor interaction profile compared to both shorter and longer alkyl chains.
+AL-LAD occupies a distinctive niche within the LSD analogue family. Compared to [[eth-lad-entity-tihkal]] (the 6-ethyl analogue), AL-LAD has a slightly different character — the allyl group provides distinct electronic properties that affect [[tihkal-receptor-binding-serotonin]]. The 6-position substitution pattern in these compounds directly modifies how the molecule interacts with 5-HT2A and other serotonin receptor subtypes, producing the characteristic differences in experiential quality. AL-LAD's consistently positive reports ("One of the best materials ever") suggest that the allyl substitution may produce a particularly favorable receptor interaction profile compared to both shorter and longer alkyl chains.
 
 ## Physical Properties
 

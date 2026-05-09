@@ -5,18 +5,18 @@ updated: 2026-04-17
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 
 # Cannabis CO2 Supplementation
 
-Carbon dioxide (CO2) supplementation is an advanced indoor cultivation technique that accelerates plant growth and increases bud yield by providing cannabis plants with more of the raw material they use during photosynthesis. When properly implemented, CO2 enrichment can boost growth rates by 20-40% and significantly increase final harvest weight.
+Carbon dioxide (CO2) supplementation is an advanced [[cannabis-sativa-indoor-cultivation-techniques]] technique that accelerates plant growth and increases bud yield by providing cannabis plants with more of the raw material they use during photosynthesis. When properly implemented, CO2 enrichment can boost growth rates by 20-40% and significantly increase final harvest weight.
 
 [[cannabis-flowering-stage-management]]
 
 ## CO2 Sources and Generation Methods
 
-Several methods exist for introducing supplemental CO2 into a grow room, each with advantages and limitations.
+Several methods exist for introducing supplemental CO2 into a [[cannabis-grow-room-setup]], each with advantages and limitations.
 
 CO2 tanks with regulators are the cleanest and most controllable option. Compressed CO2 cylinders can be rented from welding supply companies or purchased outright. A regulator and solenoid valve allow precise timing and dosage. The grower sets a timer to release measured bursts of CO2 during the light cycle. This method is ideal for small to medium grow rooms where precision matters.
 
@@ -63,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +105,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

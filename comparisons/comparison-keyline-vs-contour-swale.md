@@ -1,11 +1,12 @@
 ---
-title: "Keyline Design vs Contour Swale"
+title: "query-how-does-keyline-design-work-in-permaculture vs comparison-swale-design-vs-contour-swale-irrigation-design"
 created: 2026-04-28
 tags: [comparison, permaculture, water-management, earthworks, erosion-
 control]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: comparison
 ---
@@ -18,7 +19,7 @@ techniques developed to optimize water distribution, prevent erosion, and
 improve soil fertility on sloping land. Keyline design, developed by P.A.
 Yeomans in 1950s Australia, uses the natural topography of valleys and ridges
 to spread water from wet areas to dry areas through pattern cultivation.
-Contour swales, extensively developed in Bill Mollison's Permaculture Design
+Contour swales, extensively developed in Bill Mollison's [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
 Course, are broad shallow trenches on contour that capture and infiltrate
 surface runoff. Both transform destructive runoff into productive soil
 moisture but operate through different mechanisms.
@@ -58,7 +59,7 @@ winter-wet climates and for establishing tree crops on marginal land.
 | Primary Tool | Yeomans plow (subsoiler) | Shovels, excavators, tractors |
 | Slope Suitability | Moderate slopes, broadacre | Moderate to shallow slopes only |
 | Scale | Large properties, farms | Any scale (garden to farm) |
-| Cost | Low (cultivation equipment) | Moderate to high (earthmoving) |
+| Cost | Low ([[gottlieb-psilocybin-cultivation-equipment-and-facilities]]) | Moderate to high (earthmoving) |
 | Speed of Effect | Gradual (soil structure improves) | Immediate (first rain event) |
 | Tree Integration | Tree belts on keylines | Trees on swale berms |
 | Maintenance | Periodic cultivation | Annual sediment removal |
@@ -74,7 +75,7 @@ parched. Keyline cultivation works well for pasture improvement, as the
 pattern cultivation improves soil structure and water distribution across
 grazing land without installing permanent infrastructure. The system suits
 land managers who want a comprehensive, integrated approach to water, soil,
-trees, and pasture management that works with natural landform rather than
+trees, and [[grassland-pasture-management-mollison]] that works with natural landform rather than
 against it.
 
 ## When to Choose Contour Swales
@@ -91,7 +92,7 @@ satisfying and motivating results.
 
 ## Combining Both Approaches
 The most sophisticated landscape water management plans integrate both keyline
-design principles and contour swales. Keyline pattern cultivation can be used
+[[holmgren-permaculture-twelve-design-principles-framework]] and contour swales. Keyline pattern cultivation can be used
 to improve water distribution across broadacre areas between swale
 installations. Swales can be placed on keyline contours to maximize their
 effectiveness at moving water from valleys to ridges. On large properties,
@@ -102,5 +103,8 @@ the broad-scale efficiency of keyline with the targeted water capture of
 swales.
 
 ## See Also
+
+- [[comparison-keyline-vs-contour]]
+- [[comparison-windbreak-vs-swale]]
 - [[comparison-keyline-vs-swale-design]]
 - [[comparison-terracing-vs-swales]]

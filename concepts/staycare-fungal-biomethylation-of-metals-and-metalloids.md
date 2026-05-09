@@ -1,5 +1,5 @@
 ---
-title: "Fungal Biomethylation of Metals and Metalloids"
+title: "[[staycare-fungal-agricultural-waste-conversion]] biomethylation of metals and metalloids of Metals and Metalloids"
 created: 2026-04-28
 tags: [bioremediation, mycology, heavy-metals, metalloid-transformation, environmental-microbiology]
 date: 2026-04-25
@@ -12,11 +12,11 @@ type: concept
 
 ## Overview
 
-Biological methylation (biomethylation) of metalloids by filamentous fungi
+Biological methylation (biomethylation) of metalloids [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]
 and yeasts is a significant process in environmental biogeochemistry. This
 transformation frequently results in the volatilization of metals and
 metalloids, modifying their mobility and toxicity in contaminated
-environments. The process has been demonstrated across diverse fungal taxa
+environments. The process has been demonstrated across diverse [[undescribed-fungal-taxa]]
 and has practical applications in the bioremediation of contaminated land
 and water. Fungi can transform metals, metalloids, and organometallic
 compounds by reduction, methylation, and dealkylation, processes of both
@@ -38,7 +38,7 @@ environmental conditions (carbon source, moisture, temperature, and
 aeration) can enhance biomethylation rates. Future research directions
 include the identification of novel fungal species with enhanced
 methylation capabilities and the development of genetically improved
-strains for bioremediation applications.
+strains for [[fungi-in-the-environment-bioremediation-applications]].
 ## See Also
 
 - [[staycare-fungal-biosorption-of-heavy-metals]]
@@ -62,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,9 +99,8 @@ advance the field as a whole. Cross-pollination of ideas from biology,
 ecology, data science, and traditional knowledge systems generates novel
 perspectives and solutions that may not emerge within any single domain.
 
-For continued learning, recommended resources include current research
+For continued learning, recommended resources include [[psychedelic-therapy-current-research]]
 publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

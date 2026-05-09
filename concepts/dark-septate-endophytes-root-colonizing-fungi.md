@@ -1,5 +1,5 @@
 ---
-title: Dark Septate Endophytes and Root-Colonizing Fungi
+title: Dark [[dark-septate-endophytes]] root colonizing fungi and Root-Colonizing Fungi
 created: 2026-04-26
 tags:
   - endophytes
@@ -31,7 +31,7 @@ slow to sporulate.
 
 The most commonly encountered taxa include:
 - **Phialocephala fortinii**: the dominant DSE in many temperate
-  forest ecosystems, with very broad host and geographic range
+  [[dighton-fungi-acidifying-pollutants-forest-ecosystems]], with very broad host and geographic range
 - **Phialocephala dimorphospora** and **P. finlandia**: closely
   related species with similar ecology
 - **Mycelium radicis atrovirens** (MRA): a heterogeneous taxon
@@ -54,17 +54,17 @@ sterile dematiaceous isolates.
 
 Roots colonized by these fungi have a unique morphology,
 particularly when associated with ericoid hosts. Consequently
-they sometimes are termed "ericoid mycorrhizae," although the
+they sometimes are termed "[[comparison-orchid-mycorrhizae-vs-ericoid-mycorrhizae]]," although the
 fungi apparently have a much broader host range and may not
 function as true mycorrhizal symbionts.
 
 ## Forest Tree Root Communities
 
 Dark septate endophytes dominated the mycobiota isolated from fine
-roots of several species of forest trees and shrubs in Europe and
+roots of several species of forest [[nitrogen-fixing-trees-and-shrubs]] in Europe and
 western Canada. A large proportion proved to be Phialocephala
 fortinii. Nonmycorrhizal microfungi isolated from serially washed
-mycorrhizal roots of Picea mariana were primarily sterile strains
+[[arbuscule-intraradical-hyphae-isolation-mycorrhizal-roots]] of [[picea-mariana]] were primarily sterile strains
 of Mycelium radicis atrovirens and Penicillium species.
 
 Holdenrieder and Sieber (1992) compared populations of endophytic

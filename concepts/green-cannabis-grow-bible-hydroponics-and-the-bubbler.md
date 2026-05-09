@@ -16,17 +16,17 @@ type: concept
 
 # Hydroponics Systems and the Bubbler
 Chapter 9 of [[hydroponic-cannabis]] cultivation, covering the basic
-principles, common system types, nutrient management, and detailed
+principles, common system types, [[jadam-nutrient-management-wetting-agent-and-calcium]], and detailed
 instructions for building a simple but effective "bubbler" system.
 
 ## What Is Hydroponics
 
 Hydroponics is the technique of growing plants without soil, using beds
-of sand, gravel, or artificial mediums flooded with a nutrient solution.
+of sand, gravel, or artificial mediums flooded with a [[cannabis-nutrient-solution-preparation]].
 The word comes from Greek: "hydro" (water) and "ponos" (labor).
 A basic hydroponics system consists of:
 - A pot or growing container
-- A nutrient reservoir
+- A [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]]
 - A grow medium
 - A water pump
 - Growth nutrients
@@ -90,14 +90,14 @@ for home growers.
 
 ## Hydroponics Nutrients
 
-The most popular nutrient line for cannabis cultivation is the G.H.
+The most popular nutrient line for [[query-how-does-no-till-cannabis-cultivation-work]] is the G.H.
 Flora Series, a 3-part system (Gro, Micro, and Bloom). Experienced
 growers adjust these to get optimum performance.
 
 ### Grow vs Bloom Formulations
 
-- Grow solution: Used during vegetative stage.
-- Bloom solution: Used during flowering stage. Contains more Phosphorus
+- Grow solution: Used during [[comparison-cannabis-vegetative-stage-vs-flowering-stage]].
+- Bloom solution: Used during [[cannabis-flowering-stage-management]]. Contains more Phosphorus
   and Potassium, less Nitrogen.
 - Some packs are complete all-in-one formulas.
 

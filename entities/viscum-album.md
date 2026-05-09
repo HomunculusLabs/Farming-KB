@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - "Urech, K. et al. (2005). \"Preparation of Viscum album L. extracts: Optimized methods for the manufacture of standardized preparations.\" Planta Medica, 71(10), 925-930."
   - "Hübner, J. & Mürl, G. (2006). \"Mistletoe extracts in oncology: An overview of the evidence.\" Journal of Cancer Research and Clinical Oncology, 132(S1), 13."
-  - "Hostettmann, K. et al. (2017). \"Chemistry and pharmacology of Viscum album L.: A review.\" Natural Product Communications, 12(7), 1123-1132."
+  - "Hostettmann, K. et al. (2017). \"[[psilocybin-psilocin-chemistry-and-pharmacology-emcdda]] of Viscum album L.: A review.\" Natural Product Communications, 12(7), 1123-1132."
   - "Büssing, A. (2000). Mistletoe: The Genus Viscum. Harwood Academic Publishers."
 ---
 
@@ -27,7 +27,7 @@ in the family Santalaceae (formerly Viscaceae). It grows on the branches
 of deciduous trees, extracting water and mineral nutrients from the host
 while retaining photosynthetic capability.
 
-Mistletoe has a deep cultural history spanning Celtic druidic traditions,
+Mistletoe has a deep [[shroom-cultural-history-hippie-revolution-and-counterculture]] spanning Celtic druidic traditions,
 Norse mythology, and Christmas customs. In modern phytotherapy, *V. album*
 extracts (most notably the Iscador and Helixor preparations) are among
 the most widely prescribed complementary cancer treatments in Europe,
@@ -71,7 +71,7 @@ branches, where the viscin adhesive facilitates attachment and germination.
 
 Native to Europe and western/southern Asia, from the British Isles and
 Scandinavia south to the Mediterranean and east to the Himalayas.
-Naturalized in North America (northern California, British Columbia).
+Naturalized in [[psilocybin-north-america-pacific-northwest]] (northern California, British Columbia).
 
 Host range varies by subspecies:
 - Subsp. *album*: broad host range on deciduous trees — apple (*Malus*),

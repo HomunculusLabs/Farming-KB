@@ -14,10 +14,10 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Leafly Staff (2023). "Mimosa Weed Strain Information." Leafly.com.
-  - AllBud (2023). "Mimosa Cannabis Strain." AllBud.com.
+  - AllBud (2023). "Mimosa [[blesching-cannabis-strain-selection-receptor-targeting]]." AllBud.com.
   - Snoop Dogg's Leaf List (2022). "Mimosa Strain Review." LeafsbySnoop.com.
   - Wikileaf (2023). "Mimosa Strain: Effects, Flavor, and Grow Info." Wikileaf.com.
-  - Cannabis Training University (2023). "Top Citrus Cannabis Strains." CTU.edu.
+  - [[query-sog-vs-scrog-cannabis-training-methods]] University (2023). "Top Citrus Cannabis Strains." CTU.edu.
 created: 2026-04-28
 ---
 
@@ -36,7 +36,7 @@ circles. Its name derives from the Mimosa cocktail, referencing both
 its bright citrus flavor profile and its brunch-appropriate social
 effects.
 
-Mimosa is widely available in legal cannabis markets across North America
+Mimosa is widely available in legal cannabis markets across [[psilocybin-north-america-pacific-northwest]]
 and Europe. THC content typically ranges from 17–24%, with CBD levels
 below 1%.
 
@@ -60,7 +60,7 @@ command premium pricing.
 ## Appearance and Aroma
 
 Buds are medium to large, with a dense, tapered structure inherited from
-Purple Punch. Colors range from bright lime green to deep forest green,
+Purple Punch. Colors range from bright lime green to deep [[trichoderma-forest-green-mold-guide]],
 with many phenotypes displaying striking purple and violet hues in the
 calyxes, especially under cooler nighttime temperatures during late
 flowering.
@@ -134,13 +134,13 @@ Northern Hemisphere, yielding 14–18 ounces per plant.
 The plants respond well to low-stress training and screen-of-green
 methods, which help manage the tendency for lateral stretching during
 early flowering. Dense bud structure requires attention to airflow and
-humidity management to prevent bud rot in the later flowering stages.
+[[stamets-cultivator-humidity-management-fogging-systems]] to prevent [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]] in the later flowering stages.
 
 Purple coloration is enhanced by cooler nighttime temperatures (below
 18°C) during the final two weeks of flowering.
 ## See Also
 
-- [[wedding-cake-cannabis]]
+- [[wedding-cake]]
 - terpene profile
 - [[myrcene]]
 - caryophyllene

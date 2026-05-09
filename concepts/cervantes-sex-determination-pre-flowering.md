@@ -1,5 +1,5 @@
 ---
-title: Sex Determination and Pre-Flowering
+title: cannabis-sex-determination-floral-biology and Pre-Flowering
 created: 2026-04-26
 tags:
   - cannabis
@@ -10,14 +10,15 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Sex Determination and Pre-Flowering
 
 Cannabis must flower and produce seeds to successfully complete its
-annual life cycle. Marijuana is a dioecious plant, being either male
+annual [[bloomfield-fungal-life-cycle-spiral-versus-circle]]. Marijuana is a dioecious plant, being either male
 (pollen producing) or female (ovule producing). However, hermaphrodite
 (bisexual) plants with both male and female flowers can also occur.
 Understanding sex determination is essential for producing sinsemilla
@@ -25,10 +26,10 @@ and for successful breeding programs.
 
 ## Pre-Flowers: The First Sign of Sex
 
-Pre-flowers, described by Robert Clarke in Marijuana Botany as
+Pre-flowers, described by Robert Clarke in [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]] as
 "primordial," are the first indication of a plant's sex. The pre-flowers
 grow at branch internodes just behind the leaf sour or stipule about the
-fourth week of vegetative growth, when the plant is six to eight weeks
+fourth week of [[cannabis-vegetative-growth-stage]], when the plant is six to eight weeks
 old. This is the point of sexual maturity, the first sign a plant is
 preparing for flowering -- the next stage in life.
 
@@ -113,7 +114,7 @@ levels.
 
 ## Female Flowering
 
-Female cannabis is prized for heavy, potent resin production and
+Female cannabis is prized for heavy, potent [[cannabis-glandular-trichome-types-resin-production-clarke]] and
 weighty flower yield. Ideal female plants grow squat and bushy with
 branches close together on the stem and dense foliage on branches. In
 most strains, the first signs of female flowers appear one to three
@@ -128,6 +129,8 @@ called a calyx. Pistil-packed calyxes form dense clusters or buds along
 stems.
 
 ## See Also
+
+- [[cervantes-chromosomes-sex-determination-ploidy]]
 
 - [[cervantes-sinsemilla-cultivation]]
 - [[cervantes-flowering-phase]]

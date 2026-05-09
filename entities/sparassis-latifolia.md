@@ -56,7 +56,7 @@ Mineral content is notable for high potassium, phosphorus, and zinc levels. Vita
 
 ## Bioactive Compounds
 
-The primary bioactive constituents are β-glucan polysaccharides, which constitute 10–30% of the dry weight of fruiting bodies. These polysaccharides are predominantly β-(1→3)-glucans with β-(1→6) branching, similar to those found in other medicinal mushrooms.
+The primary bioactive constituents are β-glucan polysaccharides, which constitute 10–30% of the dry weight of fruiting bodies. These polysaccharides are predominantly β-(1→3)-glucans with β-(1→6) branching, similar to those found in other [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]].
 
 S. latifolia polysaccharides have demonstrated significant immunomodulatory activity, including macrophage activation, stimulation of NK cell cytotoxicity, and enhancement of splenocyte proliferation in animal models. Anti-inflammatory effects include suppression of TNF-α, IL-6, and NO production in LPS-stimulated macrophages.
 
@@ -64,21 +64,21 @@ Additional compounds include ergosterol and its derivatives, phenolic acids (caf
 
 ## Cultivation
 
-Artificial cultivation of S. latifolia has been achieved on both sawdust-based substrates and inoculated host tree roots. Solid-state cultivation on pine sawdust supplemented with wheat bran and calcium carbonate produces fruiting bodies within 90–150 days at 18–22°C.
+[[fukuoka-matsutake-artificial-cultivation-attempt]] of S. latifolia has been achieved on both sawdust-based substrates and inoculated host tree roots. Solid-state cultivation on pine sawdust supplemented with wheat bran and calcium carbonate produces fruiting bodies within 90–150 days at 18–22°C.
 
-Mycelial growth occurs at 18–28°C with optimal temperature around 22°C. The species requires high humidity (85–95%) for fruiting initiation and is sensitive to contamination by Trichoderma and other competitive fungi. Cold shock treatment (4–8°C for 48–72 hours) has been shown to stimulate fruiting body formation.
+[[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] occurs at 18–28°C with optimal temperature around 22°C. The species requires high humidity (85–95%) for fruiting initiation and is sensitive to contamination by Trichoderma and other competitive fungi. Cold shock treatment (4–8°C for 48–72 hours) has been shown to stimulate fruiting body formation.
 
-Yields from artificial cultivation remain modest compared to wild harvests, typically 80–150 g fresh weight per substrate bag. Research is ongoing to optimize substrate formulations, environmental parameters, and strain selection to improve commercial viability. The species is considered one of the more difficult gourmet mushrooms to cultivate.
+Yields from artificial cultivation remain modest compared to wild harvests, typically 80–150 g fresh weight per substrate bag. Research is ongoing to optimize substrate formulations, environmental parameters, and strain selection to improve commercial viability. The species is considered one of the more difficult [[growing-gourmet-mushrooms-civilization-history]] to cultivate.
 
 ## Conservation Status
 
 Wild populations of S. latifolia are under pressure from overharvesting, habitat loss through logging, and forest conversion. The species has a restricted geographic range and specific host tree requirements, making it vulnerable to habitat degradation.
 
-In China, S. latifolia is listed as a protected species in several provinces including Yunnan and Sichuan. Collection permits are required in some areas, and commercial harvesting from natural forests is increasingly regulated. The development of reliable cultivation methods is seen as essential for reducing pressure on wild populations.
+In China, S. latifolia is listed as a protected species in several provinces including Yunnan and Sichuan. Collection permits are required in some areas, and commercial harvesting from natural forests is increasingly regulated. The development of reliable [[synthetic-log-cultivation-methods-guide]] is seen as essential for reducing pressure on wild populations.
 
 ## Comparison with S. crispa
 
-Sparassis crispa, the type species of the genus, is widely distributed across Europe, Asia, and North America. S. latifolia was separated from the S. crispa complex based on several consistent morphological differences and molecular phylogenetic data.
+Sparassis crispa, the type species of the genus, is widely distributed across Europe, Asia, and [[psilocybin-north-america-pacific-northwest]]. S. latifolia was separated from the S. crispa complex based on several consistent morphological differences and molecular phylogenetic data.
 
 S. latifolia has broader, flatter branches (1–4 cm wide) with smoother margins, while S. crispa has more tightly curled, crisped, and frilly branches (0.5–2 cm wide). The fruiting body of S. latifolia tends to be larger and more massive, with a more robust central stipe base.
 

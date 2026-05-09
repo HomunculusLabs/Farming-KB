@@ -1,4 +1,4 @@
-Crystal structure and crystal defects are central concepts in materials
+Crystal crystal structure and crystal defects defects are central concepts in materials
 science, governing the mechanical, electrical, thermal, and optical
 properties of virtually all [[silicon]] fset by ¼[111]. Silicon (0.5431 nm),
 germanium (0.5658 nm), diamond (0.3567 nm). The open covalent structure
@@ -94,7 +94,7 @@ grain boundaries at 10-50 nm spatial resolution. These are complementary:
 XRD for bulk phase ID, TEM for atomic-scale defects, SEM/EBSD for
 microstructural mapping. Advanced techniques include atom probe
 tomography (APT) for 3D composition at sub-nm resofungal-in-situand synchrotron
-XRD for in-situ studies of phase transformations under load.
+XRD for in-situ studies of [[phase-diagrams-and-phase-transformations]] under load.
 
 ## See Also
 

@@ -29,7 +29,7 @@ five-year survival rate of less than 5% in most reports."
 The pancreas is both an endocrine and exocrine gland located behind the
 stomach. As an endocrine gland, it produces insulin and glucagon for blood
 sugar regulation. As an exocrine gland, it produces digestive enzymes that
-help break down proteins, fats, and carbohydrates in the small intestine.
+help [[query-can-fungi-break-down-plastic-pollution]] proteins, fats, and carbohydrates in the small intestine.
 Given its deep location in the abdomen, pancreatic cancer often goes
 undetected until it has reached advanced stages, contributing to its poor
 prognosis.
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

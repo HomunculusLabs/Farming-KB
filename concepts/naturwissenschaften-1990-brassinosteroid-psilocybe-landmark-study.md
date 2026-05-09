@@ -1,5 +1,5 @@
 ---
-title: "Naturwissenschaften 1990 Landmark Study — First Demonstration of Brassinosteroid Effects on Fungi"
+title: "Naturwissenschaften 1990 Landmark Study — First Demonstration of brassinosteroid-effects-on-fungal-morphology on Fungi"
 concept_type: research_paper
 domain: mycology
 source:
@@ -7,7 +7,7 @@ source:
     - "Gartz, J."
     - "Adam, G."
     - "Vorbrodt, H.-M."
-  title: "Growth-Promoting Effect of a Brassinosteroid in Mycelial Cultures of the Fungus Psilocybe cubensis"
+  title: "Growth-Promoting Effect of a Brassinosteroid in Mycelial Cultures of the Fungus [[psilocybe-cubensis]]"
   journal: "Naturwissenschaften"
   volume: 77
   pages: "388-389"
@@ -15,8 +15,8 @@ source:
   publisher: "Springer-Verlag"
   doi: "10.1007/BF01131704"
 related_pages:
-  - "[[psilocybe-cubensis]]"
-  - "[[mycological-permaculture-integration|mycological chemistry]]"
+  - "psilocybe-cubensis"
+  - "mycological-permaculture-integration|mycological chemistry"
 tags:
   - brassinosteroids
   - fungal-physiology
@@ -52,7 +52,7 @@ The paper appeared as a brief **short communication** spanning only **two pages*
 
 ## Historical Background: Brassinosteroids in the Late 1980s
 
-Brassinosteroids were recognized in the late 1980s and early 1990s as a **new class of phytohormones** — plant steroid hormones distinct from auxins, gibberellins, cytokinins, ethylene, and abscisic acid. The first brassinosteroid, **brassinolide**, was isolated from rapeseed (*Brassica napus*) pollen in 1979 by Grove et al. By 1990, approximately **30 brassinosteroids** had been identified across the plant kingdom, occurring in:
+Brassinosteroids were recognized in the late 1980s and early 1990s as a **new class of phytohormones** — plant steroid hormones distinct from auxins, gibberellins, cytokinins, ethylene, and abscisic acid. The first brassinosteroid, **brassinolide**, was isolated from rapeseed (*[[brassica-napus]]*) pollen in 1979 by Grove et al. By 1990, approximately **30 brassinosteroids** had been identified across the plant kingdom, occurring in:
 
 - **Angiospermae** (flowering plants) — the most widely studied group
 - **Gymnospermae** (cone-bearing plants)
@@ -78,9 +78,9 @@ The paper reported a **growth-promoting effect** of 22S,23S-homobrassinolide on 
 
 This paper opened a genuinely novel line of inquiry at the intersection of plant physiology and mycology. Its principal contributions include:
 
-- **Cross-kingdom hormone sensitivity**: Demonstrating that a class of compounds thought to be exclusively plant-specific could affect fungal growth raised fundamental questions about the evolutionary conservation of steroid signaling pathways.
+- **Cross-kingdom hormone sensitivity**: Demonstrating that a class of compounds thought to be exclusively plant-specific could affect fungal growth raised fundamental questions about the evolutionary conservation of steroid [[plant-signaling-pathways]].
 - **Fungal brassinosteroid occurrence**: The study explicitly posed the open question of whether brassinosteroids **occur naturally in fungi** — a question that remained largely unresolved in subsequent decades.
-- **Biotechnological implications**: The authors noted their intent to conduct further studies on **commercially important fungal species**, suggesting awareness of potential applications in mushroom cultivation and industrial mycology.
+- **Biotechnological implications**: The authors noted their intent to conduct further studies on **commercially important fungal species**, suggesting awareness of potential applications in [[mushroom-cultivation]] and industrial mycology.
 
 ## Open Questions Raised
 
@@ -89,7 +89,7 @@ The paper, despite its brevity, raised several questions that would inform futur
 - Do fungi **biosynthesize** brassinosteroids endogenously, or are they solely responsive to exogenous sources from their environment or plant hosts?
 - What is the **molecular mechanism** of brassinosteroid perception in fungal cells? Do fungi possess receptor kinases analogous to the plant BRI1 receptor, or do they utilize entirely different recognition systems?
 - Could brassinosteroids or their analogues be used to **enhance yields** in cultivated mushroom species, representing a novel class of growth supplements for commercial mycology?
-- Are brassinosteroid-like compounds present in fungal fruiting bodies or mycelium as **undiscovered secondary metabolites** that have been overlooked in standard chemical screening?
+- Are brassinosteroid-like compounds present in fungal fruiting bodies or mycelium as **undiscovered [[antifungal-secondary-metabolites-coprophilous-fungi]]** that have been overlooked in standard chemical screening?
 
 ## Citation Context and Legacy
 
@@ -124,3 +124,4 @@ The study remains a frequently referenced milestone in mycochemical literature w
 ## See Also
 - [[gartz-1990-agar-versus-dung-grain-brassinosteroid-comparison]]
 - [[brassinosteroid-psilocybe-cubensis-growth]]
+- [[singh-fungal-plant-growth-promoting-mechanisms]]

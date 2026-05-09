@@ -83,19 +83,19 @@ In forest health contexts, *C. gallica* is not a pathogen of living trees, but i
 
 ## Cultivation and Biotechnological Potential
 
-While *C. gallica* is not commercially cultivated for food, there is growing interest in its cultivation for medicinal extract production. Submerged fermentation techniques using liquid culture have been developed to produce mycelial biomass and extracellular polysaccharides at scale.
+While *C. gallica* is not commercially cultivated for food, there is growing interest in its cultivation for medicinal extract production. [[cancer-medicinal-mushrooms-submerged-fermentation-production]] techniques using [[comparison-liquid-culture-vs-grain-spawn]] have been developed to produce mycelial biomass and extracellular polysaccharides at scale.
 
-Optimal growth in liquid culture occurs at 25–28°C with pH 5.5–6.5, using glucose or maltose as carbon sources and yeast extract or peptone as nitrogen sources. Biomass yields of 15–25 g/L dry weight have been reported over 7–10 day fermentation cycles.
+Optimal growth in liquid culture occurs at 25–28°C with pH 5.5–6.5, using glucose or maltose as carbon sources and [[marmite-yeast-extract-straw-substrate]] or peptone as nitrogen sources. Biomass yields of 15–25 g/L dry weight have been reported over 7–10 day fermentation cycles.
 
 Solid-state cultivation on hardwood sawdust substrates has been explored for fruiting body production. Oak and beech sawdust supplemented with 10–20% wheat bran supports adequate colonization, though fruiting is less reliable than for established cultivated species.
 
-The fungus has been investigated for bioremediation applications due to its lignin-degrading enzyme system. Laccase and manganese peroxidase production suggests potential for degradation of xenobiotic compounds including polycyclic aromatic hydrocarbons and synthetic dyes.
+The fungus has been investigated for bioremediation applications due to its lignin-degrading enzyme system. Laccase and [[fungal-manganese-peroxidase-remediation]] production suggests potential for degradation of xenobiotic compounds including [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons and synthetic dyes.
 
 ## Similar Species
 
 *Coriolopsis trogii* is a close relative with larger, more robust fruiting bodies and a darker, more uniformly brown upper surface. Genetic separation is confirmed by ITS sequence divergence.
 
-*Trametes versicolor* (turkey tail) has a more conspicuously zonate upper surface with contrasting white and colored bands, a thinner context, and smaller pores (3–8 per mm). The two species can be difficult to distinguish in the field.
+*[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]* (turkey tail) has a more conspicuously zonate upper surface with contrasting white and colored bands, a thinner context, and smaller pores (3–8 per mm). The two species can be difficult to distinguish in the field.
 
 *Coriolopsis capitata* has a distinctly pileate habit with a more prominently cap-like upper surface, and is less commonly encountered.
 

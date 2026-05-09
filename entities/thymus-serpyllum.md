@@ -26,10 +26,10 @@ aromatic foliage in dry, sunny habitats.
 Wild thyme is closely related to common thyme (*Thymus vulgaris*) but is
 distinguished by its prostrate growth habit, smaller leaves, and lower-growing
 stature. It has been valued for centuries as a culinary herb, medicinal plant,
-and ornamental ground cover.
+and ornamental [[fukuoka-citrus-orchard-ground-cover-cultivation]].
 
 The species is one of the most important nectar sources for wild bees in
-European grasslands and heathlands. Its essential oil, rich in thymol and
+European grasslands and heathlands. Its [[permaculture-designers-manual-essential-oil-plants]], rich in thymol and
 carvacrol, has documented antimicrobial and antiseptic properties.
 
 ## Taxonomy and Morphology
@@ -91,7 +91,7 @@ Wild thyme is a traditional component of the French *herbes de Provence*
 blend and is used in Mediterranean and Middle Eastern cuisines. The flowers
 are edible and add both color and flavor to salads and garnishes.
 
-The essential oil, extracted by steam distillation, is used in food
+The essential oil, extracted by [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]], is used in food
 flavoring, though it is more commonly employed for medicinal and aromatic
 purposes. The oil has a strong, warm, herbaceous scent.
 
@@ -108,7 +108,7 @@ thymol and carvacrol.
 
 The herb was used externally as an antiseptic wash for wounds and skin
 infections. Thyme poultices were applied to insect bites, minor wounds, and
-fungal skin conditions. The astringent tannins also contributed to wound
+fungal [[cannabis-for-skin-conditions-detailed]]. The astringent tannins also contributed to wound
 healing.
 
 Wild thyme tea was traditionally consumed as a digestive aid and general
@@ -120,7 +120,7 @@ to be used in commercial cough syrups and throat lozenges.
 
 Wild thyme is widely cultivated as an ornamental ground cover and culinary
 herb. It is propagated from seed, softwood cuttings, or division of
-established plants. Seed germination is slow and irregular, taking 2–4 weeks.
+established plants. [[cannabis-seed-germination-methods]] is slow and irregular, taking 2–4 weeks.
 
 The plant requires full sun and well-drained, preferably calcareous soil. It
 is hardy to USDA zone 4 and is highly drought-tolerant once established.

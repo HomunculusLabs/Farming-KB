@@ -8,7 +8,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 # Harmaline (3,4-Dihydroharmine)
 
-TIHKAL entry #13. A beta-carboline alkaloid and potent monoamine oxidase inhibitor (MAOI) found in Peganum harmala (Syrian Rue) and Banisteriopsis caapi (ayahuasca). Harmaline is both psychoactive in its own right and pharmacologically significant as an enzyme inhibitor that enables oral activity of otherwise inactive tryptamines like DMT.
+TIHKAL entry #13. A beta-carboline alkaloid and potent monoamine oxidase inhibitor (MAOI) found in [[mckenna-food-gods-peganum-harmala-soma]] ([[golden-guide-syrian-rue-and-maoi-plants]]) and Banisteriopsis caapi (ayahuasca). Harmaline is both psychoactive in its own right and pharmacologically significant as an enzyme inhibitor that enables [[tihkal-oral-activity-mao-inhibition]] of otherwise inactive tryptamines like DMT.
 
 ## Chemical Names
 
@@ -23,7 +23,7 @@ TIHKAL entry #13. A beta-carboline alkaloid and potent monoamine oxidase inhibit
 | Route | Dose Range |
 |-------|-----------|
 | Oral (pure harmaline) | 150–300 mg |
-| Oral (P. harmala seeds) | 3–5 g ground seeds (equivalent to ~250–500 mg harmala alkaloids) |
+| Oral (P. harmala seeds) | 3–5 g ground seeds (equivalent to ~250–500 mg [[turner-harmala-alkaloids-preparation-and-dosage]]) |
 
 ## Duration
 
@@ -52,7 +52,7 @@ TIHKAL entry #13. A beta-carboline alkaloid and potent monoamine oxidase inhibit
 - **20 mg harmaline + 55 mg DMT**: Minimal — slight hypnogogic abstractions after 3 hours, adrenergic push.
 - **50 mg harmaline + 60 mg DMT [20 min]**: No effects noted.
 - **80 mg harmaline + 40 mg DMT [60 min]**: Quite a bit of visual activity, subtle onset, quick drop-off.
-- **100 mg harmaline + 120 mg DMT [10 min]**: Full psychedelic experience at 80 minutes. Colorful infinitely-repeated patterns like a kaleidoscope. No loss of identity. Music became "another world." Effects receded at 2.5 hours. Concentration impaired for 30 hours post-experience.
+- **100 mg harmaline + 120 mg DMT [10 min]**: Full [[leary-psychedelic-experience-bardo-mapping]] at 80 minutes. Colorful infinitely-repeated patterns like a kaleidoscope. No loss of identity. Music became "another world." Effects receded at 2.5 hours. Concentration impaired for 30 hours post-experience.
 
 ## The Harmadine Confusion
 

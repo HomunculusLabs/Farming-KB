@@ -1,5 +1,5 @@
 ---
-title: Fungal Degradation of Endocrine Disrupting Compounds
+title: singh fungal degradation endocrine disrupting compounds of Endocrine Disrupting Compounds
 created: 2026-04-26
 tags:
   - endocrine-disruptors
@@ -28,12 +28,12 @@ and detoxification of these compounds.
 ## Bisphenol A Degradation by Fungal Peroxidases
 
 Bisphenol A (BPA) is a widely used industrial chemical with known
-estrogenic activity. Manganese peroxidase (MnP) of Pleurotus ostreatus
+estrogenic activity. [[fungal-manganese-peroxidase-remediation]] (MnP) of Pleurotus ostreatus
 generates four metabolites from BPA through one-electron oxidation
 reactions. A pathway of BPA metabolism by MnP of P. ostreatus has been
 proposed that is quite different from bacterial pathways.
 
-MnP of Phanerochaete chrysosporium ME-466 converts BPA to compounds
+MnP of [[staycare-phanerochaete-chrysosporium-in-bioremediation]] ME-466 converts BPA to compounds
 with no estrogen activity. The main products of this transformation are
 considered to be trimers and tetramers, formed through oxidative coupling
 reactions. This enzymatic detoxification pathway effectively eliminates
@@ -47,7 +47,7 @@ been demonstrated using oxidative enzymes from lignin-degrading
 basidiomycetes. Purified laccase from Trametes villosa effectively
 degrades BPA, and the treatment eliminates the estrogenic activity
 associated with the parent compound. The fungal oxidative enzymes
-responsible include laccase, manganese peroxidase, and lignin peroxidase.
+responsible include laccase, manganese peroxidase, and [[fungal-lignin-peroxidase-veratryl-alcohol]].
 
 The extent of estrogenic activity removal depends on the degree of
 polymerization and the molecular characteristics of the resulting
@@ -110,7 +110,7 @@ Various technologies are available for PCB remediation in different media:
   peroxide for aqueous solutions
 - **Solvent extraction**: For soil contamination
 - **Photochemical treatment**: For liquid-phase PCBs
-- **Bioremediation**: Both aerobic and anaerobic, applicable to soil,
+- **Bioremediation**: Both [[query-what-is-the-difference-between-aerobic-and-anaerobic-composting]], applicable to soil,
   sediments, and aqueous media
 - **Phytoremediation**: For soil contamination
 - **Enzyme treatment**: Including horseradish peroxidase with hydrogen
@@ -122,11 +122,14 @@ The fungal enzymatic approach to EDC degradation shows considerable
 promise. Laccase-mediator systems and peroxidase-catalyzed oxidation
 offer efficient routes for converting estrogenic compounds into
 nonestrogenic products. The development of robust fungal bioreactor
-systems and the optimization of enzyme production will be important for
+systems and the optimization of [[ligninolytic-enzyme-production-bioremediation]] will be important for
 practical application of these technologies at contaminated sites.
 
 ## See Also
 
 - [[singh-laccase-mediated-biodegradation-pahs-dyes]]
 - [[singh-peroxidase-pah-degradation]]
-- [[singh-fungal-metabolism-phenols-chlorophenols]]
+- singh-fungal-metabolism-phenols-chlorophenols
+- [[singh-fungal-degradation-of-chlorinated-compounds]]
+- [[pleurotus-ostreatus]]
+- [[phanerochaete-chrysosporium]]

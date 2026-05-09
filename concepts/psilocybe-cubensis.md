@@ -1,5 +1,5 @@
 ---
-title: Psilocybe cubensis
+title: brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting
 created: 2026-05-06
 tags:
   - mycology
@@ -16,7 +16,7 @@ type: concept
 
 # Psilocybe cubensis
 
-Psilocybe cubensis, also known as Stropharia cubensis, is the most commonly cultivated and commercially marketed species of psilocybin-containing mushroom worldwide. It is the predominant species found in smartshops and online retail outlets throughout Europe and is the variety most frequently referenced in recreational use contexts.
+Psilocybe cubensis, also known as [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]], is the most commonly cultivated and commercially marketed species of psilocybin-containing mushroom worldwide. It is the predominant species found in smartshops and online retail outlets throughout Europe and is the variety most frequently referenced in recreational use contexts.
 
 ## Taxonomy and Synonyms
 
@@ -56,17 +56,17 @@ Several product formats are sold through retail channels for home cultivation:
 - **Spawn bags**: Sterile hardwood chips inoculated with active mushroom mycelium
 - **Growkits**: Complete cultivation kits containing a box with colonized substrate, a bag with an air filter, and paperclips
 
-The Free Spore Ring Europe, a non-profit organization, distributed various strains of Psilocybe cubensis and Panaeolus cyanescens for approximately 1 EUR per print, further facilitating home cultivation across the continent.
+The Free Spore Ring Europe, a non-profit organization, distributed various strains of Psilocybe cubensis and [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]] for approximately 1 EUR per print, further facilitating home cultivation across the continent.
 
 ## Natural Habitat and Distribution
 
 Unlike [[psilocybin]] and psilocin concentrations can reach up to approximately 0.6% in dried material. This is notably lower than the potency of species such as [[psilocybe-semilanceata]] (liberty caps), found in the UK, Norway, Germany, and many other countries.
 
-Other species growing wild in Europe include Psilocybe cyanescens (wavy caps) as well as Psilocybe bohemica and Psilocybe moravica, particularly reported in the Czech Republic. Nearly all psilocybin-containing mushrooms are small brown or tan mushrooms that bruise blue when handled, but this feature is shared with many non-psychoactive species, making wild identification unreliable and potentially dangerous.
+Other species growing wild in Europe include [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]] (wavy caps) as well as Psilocybe bohemica and Psilocybe moravica, particularly reported in the Czech Republic. Nearly all psilocybin-containing mushrooms are small brown or tan mushrooms that bruise blue when handled, but this feature is shared with many non-psychoactive species, making wild identification unreliable and potentially dangerous.
 
 ## Prevalence Data
 
-Among the 305 individuals in the 2004 Mixmag survey who had used hallucinogenic mushrooms, over half said they planned to take them again. In the general population of 12 EU Member States surveyed, lifetime prevalence of hallucinogenic mushroom use among young people aged 15 to 24 ranged from less than 1% to 8%, with the Netherlands, Czech Republic, UK, Germany, and Ireland showing the highest estimates. Clubbing surveys found much higher rates, ranging from 9% in Budapest to 55% in France, reflecting the concentration of mushroom use among recreational drug users in dance music settings.
+Among the 305 individuals in the 2004 Mixmag survey who had used [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]], over half said they planned to take them again. In the general population of 12 EU Member States surveyed, lifetime prevalence of hallucinogenic mushroom use among young people aged 15 to 24 ranged from less than 1% to 8%, with the Netherlands, Czech Republic, UK, Germany, and Ireland showing the highest estimates. [[emcdda-hallucinogenic-mushroom-clubbing-surveys-and-prevalence]] found much higher rates, ranging from 9% in Budapest to 55% in France, reflecting the concentration of mushroom use among recreational drug users in dance music settings.
 
 ## Barriers to Diffusion
 
@@ -76,7 +76,7 @@ The route of administration is also a barrier. Unlike ecstasy tablets that can b
 
 ## Related
 
-- [[psilocybe-cubensis-distribution-and-ecology]]
+- psilocybe-cubensis-distribution-and-ecology
 - [[stropharia-cubensis]] Concepts
 
 - [[psilocybe-semilanceata]] - the predominant wild European species
@@ -86,11 +86,11 @@ The route of administration is also a barrier. Unlike ecstasy tablets that can b
 
 - [[mushroom-cultivation-methods]]
 
-- [[pf-tek-overview-and-history]]
+- pf-tek-overview-and-history
 
-- [[light-wavelength-basidiocarp-initiation-psilocybe-cubensis-badham]]
+- [[psilocybe-cubensis-flush-variation]]
 - [[psilocybe-cubensis-miniculture-method]]
-- [[tropisms-psilocybe-cubensis-phototropism]]
+- tropisms-psilocybe-cubensis-phototropism
 
 ## See Also
 

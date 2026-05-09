@@ -26,7 +26,7 @@ The species produces large, drooping inflorescences bearing thousands of tiny se
 
 *A. hypochondriacus* was a major staple crop of the Aztec civilization and held central religious significance in pre-Columbian Mesoamerica. Spanish colonial authorities banned its cultivation in the 16th century due to its association with indigenous religious practices, nearly driving the crop to extinction.
 
-Modern interest in amaranth has surged since the 1970s as a drought-tolerant, nutrient-dense alternative to conventional cereals. The crop is now cultivated across Mexico, Central America, India, Nepal, China, and parts of Africa, with growing interest in temperate regions as a climate-resilient food source.
+Modern interest in amaranth has surged since the 1970s as a drought-tolerant, nutrient-dense alternative to conventional cereals. The crop is now cultivated across Mexico, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], India, Nepal, China, and parts of Africa, with growing interest in temperate regions as a climate-resilient food source.
 
 ## Taxonomy and Morphology
 
@@ -39,7 +39,7 @@ Modern interest in amaranth has surged since the 1970s as a drought-tolerant, nu
 - Genus: *Amaranthus*
 - Species: *A. hypochondriacus* L. (1753)
 
-*Amaranthus hypochondriacus* is an erect, fast-growing annual herb reaching 1.5–2.5 m in height under favorable conditions. The stem is stout, green to purplish-red, and 2–4 cm in diameter at maturity. Branching increases with plant density and nutrient availability.
+*Amaranthus hypochondriacus* is an erect, fast-growing annual herb reaching 1.5–2.5 m in height under favorable conditions. The stem is stout, green to purplish-red, and 2–4 cm in diameter at maturity. Branching increases with plant density and [[ph-and-nutrient-availability-garden-soils]].
 
 Leaves are large (8–20 cm long), ovate to lanceolate, with entire margins and long petioles. Foliage color ranges from green to deep red or purple, with ornamental varieties selected for vivid pigmentation. Leaves are also edible and consumed as a nutritious potherb.
 
@@ -81,11 +81,11 @@ Micronutrient density is remarkable: iron (15 mg/100 g), calcium (160–250 mg/1
 
 Seed is typically direct-sown at rates of 0.5–2 kg/ha, with row spacing of 40–75 cm depending on mechanical cultivation requirements. Optimal plant density is 20–40 plants per square meter. The crop requires minimal nitrogen input (40–60 kg N/ha) due to efficient nitrogen metabolism, though phosphorus and potassium applications improve yields.
 
-The growing season is 90–150 days from sowing to grain maturity, depending on cultivar and temperature. Harvest timing is critical as amaranth seeds shatter readily when overripe. Mechanical harvesting requires specialized combines with reduced drum speed and airflow to prevent seed loss.
+The growing season is 90–150 days from sowing to grain maturity, depending on cultivar and temperature. [[cannabis-harvest-timing-visual-cues]] is critical as amaranth seeds shatter readily when overripe. Mechanical harvesting requires specialized combines with reduced drum speed and airflow to prevent seed loss.
 
-Average grain yields range from 1,000–3,000 kg/ha, with experimental plots producing up to 5,000 kg/ha under optimal management. Yields in subsistence farming systems typically range from 500–1,500 kg/ha. The crop's low input requirements and drought tolerance make it economically attractive for marginal environments.
+Average grain yields range from 1,000–3,000 kg/ha, with experimental plots producing up to 5,000 kg/ha under optimal management. Yields in subsistence farming systems typically range from 500–1,500 kg/ha. The crop's low input requirements and [[dighton-fungal-drought-tolerance-plant-water-relations]] make it economically attractive for marginal environments.
 
-Major pests include the amaranth weevil (*Hypolixus truncatulus*), stem borer (*Conogethes punctiferalis*), and various leaf-chewing caterpillars. Fungal diseases include damping-off (*Pythium* spp.) in seedlings and root rot (*Fusarium* spp.) in established plants. However, the crop's rapid growth rate often outpaces pest and disease damage without chemical intervention.
+Major pests include the amaranth weevil (*Hypolixus truncatulus*), stem borer (*Conogethes punctiferalis*), and various leaf-chewing caterpillars. Fungal diseases include damping-off (*Pythium* spp.) in seedlings and root rot (*Fusarium* spp.) in established plants. However, the crop's rapid growth rate often outpaces [[hamilton-pest-and-disease-control-organic]] damage without chemical intervention.
 
 Weed competition is most significant during the first 30 days after emergence. Once established, the tall, dense canopy of amaranth effectively suppresses most weed species. No herbicides are registered for amaranth in most countries, making the crop inherently compatible with organic production systems.
 
@@ -101,7 +101,7 @@ Leaves also contain significant amounts of beta-carotene (provitamin A), vitamin
 
 Industrial applications include use of amaranth starch in biodegradable plastics, squalene extraction for cosmetics and pharmaceuticals, and amaranth oil as a specialty cooking oil with high oxidative stability. Red-pigmented varieties are investigated as natural food colorants (betacyanins).
 
-In permaculture and agroforestry systems, amaranth serves as a fast-growing accumulator crop. Its deep taproot mines minerals from subsoil layers, and the high-biomass residue returned to soil improves organic matter content. Intercropping with legumes is common in traditional Mexican agriculture, where amaranth provides rapid above-ground cover while beans fix nitrogen.
+In permaculture and agroforestry systems, amaranth serves as a fast-growing accumulator crop. Its deep taproot mines minerals from subsoil layers, and the high-biomass residue returned to soil improves [[hamilton-composting-and-organic-matter-management]] content. Intercropping with legumes is common in traditional Mexican agriculture, where amaranth provides rapid above-ground cover while beans fix nitrogen.
 
 The crop also has significant potential as a forage and silage crop. Whole-plant biomass at flowering contains 12–15% crude protein, making it comparable to alfalfa in feed value. Amaranth forage is particularly valuable during dry seasons when conventional forage crops are unavailable.
 

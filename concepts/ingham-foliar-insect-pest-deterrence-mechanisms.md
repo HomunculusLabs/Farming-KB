@@ -11,7 +11,7 @@ created: 2026-04-28
 
 # Foliar Insect Pest Deterrence Through AACT Mechanisms
 
-One of the most consistently reported — yet least formally documented — effects of actively aerated compost tea (AACT) is the reduction and disappearance of foliar insect pests. Elaine Ingham's field guide identifies four potential mechanisms by which AACT application deters insect feeding on plant foliage, while emphasizing the need for rigorous entomological study to formally document these observations.
+One of the most consistently reported — yet least formally documented — effects of [[actively-aerated-compost-tea]] (AACT) is the reduction and disappearance of foliar insect pests. [[elaine-ingham]]'s field guide identifies four potential mechanisms by which AACT application deters insect feeding on plant foliage, while emphasizing the need for rigorous entomological study to formally document these observations.
 
 ## The Observed Phenomenon
 
@@ -35,7 +35,7 @@ This mechanism operates at the level of initial contact — the insect never lan
 
 ### 2. Elevated CO2 Disrupts Pest Orientation
 
-Microbial respiration on leaf surfaces increases the local concentration of carbon dioxide in the leaf boundary layer atmosphere. Insects use chemical cues including CO2 gradients to locate suitable host plants. Elevated CO2 from a healthy microbial community may provide the wrong signal — the leaf may not "smell right" to the insect — causing pests to bypass treated plants in favor of untreated ones.
+Microbial respiration on leaf surfaces increases the local concentration of carbon dioxide in the leaf boundary layer atmosphere. Insects use chemical cues including CO2 gradients to locate suitable host plants. Elevated CO2 from a healthy [[edaphic-factors-microbial-community-structure]] may provide the wrong signal — the leaf may not "smell right" to the insect — causing pests to bypass treated plants in favor of untreated ones.
 
 This mechanism connects directly to how microbes improve foliar nutrient uptake. Microbes on leaf surfaces respire, increasing CO2 concentration in the leaf boundary layer, which speeds stomatal opening and increases the duration stomata remain open. As weather gets drier and microbes have less water, they respire less — providing a natural feedback mechanism that prevents inappropriate stomatal opening under drought stress.
 
@@ -43,11 +43,11 @@ The CO2 mechanism has an elegant self-regulating quality. When conditions are go
 
 ### 3. Consumption of Stress-Indicating Alcohols
 
-Stressed plants release alcohols and other volatile organic compounds (VOCs) that serve as attractant signals for insect pests. The microorganisms in compost tea may consume these alcohols, effectively masking the plant's stress signal. Without the chemical beacon that indicates a weakened, vulnerable host, insects are not attracted to the plant.
+Stressed plants release alcohols and other [[fungal-volatile-organic-compounds-communication]] compounds (VOCs) that serve as attractant signals for insect pests. The microorganisms in compost tea may consume these alcohols, effectively masking the plant's stress signal. Without the chemical beacon that indicates a weakened, vulnerable host, insects are not attracted to the plant.
 
 This mechanism operates at the level of long-range attraction — the insect may approach but cannot locate the specific stressed tissue it would normally target. The protective organisms act as a biological cloak, hiding the plant's stress signals from pest detection.
 
-The relationship between plant stress chemistry and insect behavior is well-documented in entomology. Many herbivorous insects use volatile cues not just to locate host plants but to assess plant quality — stressed plants with elevated alcohol and free amino acid emissions are preferentially selected for oviposition because they represent easier feeding for developing larvae. By removing these chemical signals, the leaf surface microbiota disrupts a critical step in the insect host-selection process.
+The relationship between plant stress chemistry and insect behavior is well-documented in entomology. Many herbivorous insects use volatile cues not just to locate host plants but to assess plant quality — stressed plants with elevated alcohol and free amino acid emissions are preferentially selected for oviposition because they represent easier feeding for developing larvae. By removing these [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]], the leaf surface microbiota disrupts a critical step in the insect host-selection process.
 
 ### 4. Restored Plant Health Reduces Susceptibility
 
@@ -77,15 +77,13 @@ Using good tea with excellent fungal biomass, scale on rhododendron and apple ha
 - Direct fungal interactions with scale-associated microorganisms
 - Changes in plant surface chemistry driven by fungal metabolites
 
-### Tent Caterpillars and Bt Delivery
+### Tent Caterpillars and Bt Deliver bacillus thuringiensis nsis* (Bt) must be ingested by lepidopteran larvae to be effective, causing severe disruption of the digestive system. While Bt alone is difficult to deliver into tent structures, spraying with a high-bacterial brew of AACT may carry Bt spores into the tents more effectively.
 
-*Bacillus thuringiensis* (Bt) must be ingested by lepidopteran larvae to be effective, causing severe disruption of the digestive system. While Bt alone is difficult to deliver into tent structures, spraying with a high-bacterial brew of AACT may carry Bt spores into the tents more effectively.
-
-For more direct insect control, Ingham suggests that parasitic fungi like *Beauveria* and *Entomophthora* — which attack insect cuticles directly rather than requiring ingestion — may be present in compost made with paper, cardboard, or organic matter from natural sources containing these fungi. If paper or cardboard has been included in compost along with organic matter from natural sources where these fungi occur, they will typically be present in the finished compost and thus in the tea.
+For more direct insect control, Ingham suggests that parasitic fungi like *[[beauveria]]* and *Entomophthora* — which attack insect cuticles directly rather than requiring ingestion — may be present in compost made with paper, cardboard, or organic matter from natural sources containing these fungi. If paper or cardboard has been included in compost along with organic matter from natural sources where these fungi occur, they will typically be present in the finished compost and thus in the tea.
 
 ### Root Grubs and Wireworms
 
-AACT typically contains certain fungi that are parasitic on insect larvae, especially beetle larvae that consume roots. *Beauveria* species may be available as commercial inoculum and can be added to AACT to be active and ready to parasitize root grubs and wireworms on contact. This is a direct biological control mechanism rather than an indirect plant-health effect.
+AACT typically contains certain fungi that are parasitic on insect larvae, especially beetle larvae that consume roots. *Beauveria* species may be available as commercial inoculum and can be added to AACT to be active and ready to parasitize root grubs and wireworms on contact. This is a direct [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] mechanism rather than an indirect plant-health effect.
 
 ### Bulb Mites
 
@@ -113,7 +111,7 @@ This distinction has regulatory significance. If AACT were classified as a pesti
 
 The foliar pest deterrence effects of AACT cannot be reduced to a single mechanism or organism group. It is likely that all four mechanisms operate simultaneously. This underscores Ingham's broader principle that the whole foodweb is needed for reliable results.
 
-Bacteria alone cannot provide the full spectrum of benefits. AACT with the complete set of organisms (bacteria, fungi, protozoa, and nematodes) consistently outperforms bacterial-only teas across all documented applications. The pest deterrence effect, like the disease suppression effect and the nutrient cycling effect, depends on the interactions between trophic levels that only a complete foodweb can provide.
+Bacteria alone cannot provide the full spectrum of benefits. AACT with the complete set of organisms (bacteria, fungi, protozoa, and nematodes) consistently outperforms bacterial-only teas across all documented applications. The pest deterrence effect, like the [[aact-disease-suppression-mechanisms-ingham]] effect and the [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] effect, depends on the interactions between trophic levels that only a complete foodweb can provide.
 
 ## See Also
 

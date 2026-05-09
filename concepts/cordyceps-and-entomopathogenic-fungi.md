@@ -1,15 +1,16 @@
 ---
-title: Cordyceps and Entomopathogenic Fungi
+title: Cordyceps and singh-entomopathogenic-fungi-biocontrol-agents
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mycology, biology, ecology, entomopathogenic, pesticide, agriculture]
-sources: []
+sources:
+  sources: []
 ---
 
 # Cordyceps and Entomopathogenic Fungi
 
-Entomopathogenic fungi are fungi that infect and kill insects and other arthropods. Among these, the genus Cordyceps and its relatives (Ophiocordyceps) are the most famous, known for their dramatic manipulation of host behavior. These fungi are important natural regulators of insect populations, sources of medicinal compounds, and emerging tools in biological pest control.
+Entomopathogenic fungi are fungi that infect and kill insects and other arthropods. Among these, the genus Cordyceps and its relatives (Ophiocordyceps) are the most famous, known for their dramatic manipulation of host behavior. These fungi are important natural regulators of insect populations, sources of medicinal compounds, and emerging tools in [[cervantes-biological-pest-control-predators]] control.
 
 ## Cordyceps and Ophiocordyceps
 
@@ -27,7 +28,7 @@ The most famous entomopathogenic fungus, documented infecting carpenter ants (Ca
 1. Spores land on ant and attach to the exoskeleton
 2. Spores germinate and penetrate the cuticle using enzymes and mechanical pressure
 3. Fungal cells spread through the ant's body, eventually reaching the brain
-4. The fungus does not invade brain tissue but may manipulate the ant through chemical signals or by disrupting the nervous system
+4. The fungus does not invade brain tissue but may manipulate the ant through [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] or by disrupting the nervous system
 5. Infected ants exhibit behavioral changes: leave the colony, climb vegetation, and bite onto leaves or twigs ("death grip")
 6. The ant dies, and the fungus kills the ant's cells to fill the body cavity
 7. A fruiting body (stroma) erupts from the ant's head
@@ -40,7 +41,7 @@ The most famous entomopathogenic fungus, documented infecting carpenter ants (Ca
 - Some ants recognize infected individuals and carry them away from the colony
 
 ### Cordyceps militaris
-A bright orange-red species that parasitizes pupae of Lepidoptera (butterflies and moths). Commercially cultivated and increasingly used as a source of cordycepin and other bioactive compounds. Easier to cultivate than the famous C. sinensis.
+A bright orange-red species that parasitizes pupae of Lepidoptera (butterflies and moths). Commercially cultivated and increasingly used as a source of cordycepin and other [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]. Easier to cultivate than the famous C. sinensis.
 
 ### Ophiocordyceps sinensis (Cordyceps sinensis / Yartsa Gunbu)
 The most prized medicinal fungus in Traditional Chinese Medicine.
@@ -57,7 +58,7 @@ The most prized medicinal fungus in Traditional Chinese Medicine.
 ## Beauveria
 
 ### Beauveria bassiana
-One of the most widely used entomopathogenic fungi in biological control.
+One of the most widely used entomopathogenic fungi in [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]].
 
 #### Host Range
 Extremely broad: over 700 insect host species documented, including:
@@ -84,7 +85,7 @@ Extremely broad: over 700 insect host species documented, including:
 #### Advantages
 - Broad host range provides flexibility
 - Can be applied as conventional spray or as attract-and-infect stations
-- Minimal non-target effects (though some concern for beneficial insects like honeybees)
+- Minimal non-target effects (though some concern for [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] like honeybees)
 - Registered as organic-compatible in most jurisdictions
 - Insects do not develop resistance easily (unlike chemical insecticides)
 
@@ -140,38 +141,6 @@ Formerly considered part of M. anisopliae, now recognized as a separate species.
 ### Conidial Sprays
 - Most common method: spray conidial suspensions onto crops or directly onto pests
 - Application timing critical: target susceptible life stages
-- Formulation with UV-protectants and humectants improves field persistence
-- Standard application rates: 10^12-10^13 conidia per hectare
-
-### Attract-and-Infect (Auto-dissemination)
-- Stations containing fungal spores are placed in the environment
-- Insects are attracted to the station, pick up conidia, and spread them to nestmates
-- Used successfully for termites and cockroaches
-- Reduces total amount of inoculum needed
-
-### Soil Application
-- Granular or liquid formulations applied to soil for control of soil-dwelling pests
-- Effective against white grubs, wireworms, and root weevils
-- Persistence in soil varies from weeks to months depending on conditions
-
-## Limitations and Challenges
-
-- Environmental sensitivity: temperature, humidity, and UV radiation affect efficacy
-- Slower action than chemical insecticides (days to weeks)
-- Storage and shelf life: conidia lose viability over time, requiring cold storage
-- Production costs: solid-state or liquid fermentation required
-- Regulatory hurdles: biopesticide registration can be lengthy and expensive
-- Variability in field performance compared to controlled conditions
-
-## Research Frontiers
-
-- Genetic engineering for enhanced virulence and environmental tolerance
-- Combination products (entomopathogenic fungi + sublethal insecticides for synergistic effects)
-- Endophytic use: inoculating plants with entomopathogenic fungi for systemic protection
-- Metarhizium-based malaria mosquito control (especially in Africa)
-- Understanding the fungal manipulation of insect behavior at the molecular level
-- Discovery of new species and strains from understudied ecosystems
-
 ## Related
 
 - [[fungal-biology-fundamentals]]

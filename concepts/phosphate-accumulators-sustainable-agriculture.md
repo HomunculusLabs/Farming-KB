@@ -6,7 +6,7 @@ It plays critical roles in energy transfer (ATP), root development, flowering, a
 
 However, phosphorus is notoriously immobile in soil and tends to become locked into mineral forms that plants cannot access.
 
-Dynamic accumulator plants that can dissolve, absorb, and cycle phosphorus are therefore extremely valuable tools for sustainable soil management.
+[[nutrient-dynamic-accumulator-reference]] plants that can dissolve, absorb, and cycle phosphorus are therefore extremely valuable tools for sustainable soil management.
 
 ## The Phosphorus Problem in Soils
 
@@ -44,7 +44,7 @@ Clovers, including red clover ([[trifolium-repens]]), and alsike clover (Trifoli
 
 Their extensive root networks and association with nitrogen-fixing bacteria make them dual-purpose [[cover-crops]], building both nitrogen and phosphorus reserves simultaneously.
 
-Using legumes as cover crops or green manures is one of the most reliable ways to enhance phosphorus cycling within a garden or farm.
+Using legumes as cover crops or green manures is one of the most reliable ways to enhance [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]] within a garden or farm.
 
 The key timing factor is the same as with nitrogen: terminate the legume at or before flowering for maximum nutrient return.
 
@@ -66,7 +66,7 @@ It is an excellent summer cover crop, germinating quickly in warm soil and reach
 
 Gardeners can sow buckwheat after an early spring crop, allow it to grow 4 to 6 weeks, then incorporate it before a fall crop.
 
-Multiple successive plantings in a single season can significantly improve phosphorus availability.
+Multiple successive plantings in a single season can significantly improve [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]].
 
 ## Mustards for Cool-Season Phosphorus Cycling
 
@@ -90,7 +90,7 @@ This dual function — phosphorus cycling plus biofumigation — makes mustards 
 
 ## Comfrey as a Deep-Rooted Phosphorus Miner
 
-Comfrey (Symphytum officinale) is one of the most widely recognized dynamic accumulators in permaculture and organic gardening.
+Comfrey (Symphytum officinale) is one of the most widely recognized [[comparison-dynamic-accumulators-vs-cover-crops]] in permaculture and [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]].
 
 Its extremely deep taproot can reach far into subsoil layers, mining minerals including phosphorus from depths that most garden plants cannot access.
 
@@ -135,5 +135,5 @@ This closed-loop cycling reduces external inputs and builds long-term soil ferti
 ## Sources
 
 - Cocannouer, Joseph. Weeds: Guardians of the Soil. New York: Devin-Adair, 1950.
-- Pfeiffer, Ehrenfried. Weeds and What They Tell. Springfield, IL: BioDynamic Farming and Gardening.
+- Pfeiffer, Ehrenfried. Weeds and What They Tell. Springfield, IL: [[comparison-biodynamic-farming-vs-organic-farming]] and Gardening.
 - Rateaver, Gargyla and Gylver. The Organic Method Primer. Pauma Valley, CA: B. and G. Rateaver, 1973.

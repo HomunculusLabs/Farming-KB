@@ -1,5 +1,5 @@
 ---
-title: "Ingham Field Guide: Compost Tea Ingredients and Recipes"
+title: "Ingham Field Guide: comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide Ingredients and Recipes"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -17,18 +17,18 @@ The Ingham Field Guide provides extensive guidance on selecting ingredients for 
 The single most important ingredient is high-quality compost. Compost must be properly made (reached temperature, maintained aerobic conditions) and tested to confirm it contains the desired biology:
 
 - E. coli-free compost is essential; if E. coli is absent from the compost, it will not appear in the tea regardless of how much molasses is added
-- Worm compost (vermicompost) provides excellent protozoa numbers, easily extracted into AACT
-- Thermal compost can have good biology but many commercial operations do not manage for organism diversity
-- Forest soil is the best source for beneficial nematodes
+- [[ingham-thermal-worm-compost-comparison]] (vermicompost) provides excellent protozoa numbers, easily extracted into AACT
+- [[ingham-thermal-compost-versus-worm-compost]] can have good biology but many commercial operations do not manage for organism diversity
+- Forest soil is the best source for [[ingham-beneficial-nematodes-soil-food-web]]
 - Alaska Humus can inoculate uncertain compost -- incubate at 50% moisture for a few weeks to eliminate E. coli
 - Compost can be stored up to 2 years if kept warm at approximately 50% moisture with no contaminants; add food sources and forest duff with fungal strands
 
 ## Fungal Foods
 
-To increase fungal biomass in tea, add foods that favor fungi over bacteria:
+To increase [[bioremediation-fungal-biomass-biosorbent-material]] in tea, add foods that favor fungi over bacteria:
 
 - Humic acids (liquid forms work better than dry; e.g., Hydrahume AN, Eco-Nutrient kelp and humic acid, Nutri-tech dry soluble)
-- Fish hydrolysate (not emulsion) -- the oil content helps; also serves as a protein/nitrogen source
+- [[comparison-fish-hydrolysate-vs-fish-emulsion]] (not emulsion) -- the oil content helps; also serves as a protein/nitrogen source
 - Cottonseed meal -- helps fungi more than alfalfa in some conditions
 - Chitin -- feeds specific fungi that can solubilize chitin outer layers of nematodes and insects, but only if the right fungi are present
 - Paper and cardboard (in worm bins, not too wet) -- help beneficial fungi grow
@@ -105,6 +105,8 @@ If compost lacks fungi, preactivate before brewing:
 When adding minerals to compost, use approximately 80% less than soil chemistry recommendations suggest. The biology cycles nutrients into plant-available forms, so less input is needed. Arden Anderson's research supports this approach.
 
 ## See Also
+
+- [[ingham-compost-tea-recipes-and-ingredient-formulations]]
 
 - [[aact-brewing-ingredients-ingham]]
 - [[aact-bacterial-dominant-tea]]

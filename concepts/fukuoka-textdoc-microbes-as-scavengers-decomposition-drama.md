@@ -1,5 +1,5 @@
 ---
-title: Microbes as Scavengers: The Decomposition Drama of Nature
+title: fukuoka textdoc microbes as scavengers decomposition drama: The Decomposition Drama of Nature
 created: 2026-04-28
 tags:
   - fukuoka
@@ -16,7 +16,7 @@ type: concept
 
 ## Overview
 
-Masanobu Fukuoka presents the microbial decomposition of organic matter as one of
+Masanobu Fukuoka presents the microbial decomposition of [[hamilton-composting-and-organic-matter-management]] as one of
 nature's most magnificent dramas, an infinitely elaborate process that far surpasses
 any human-designed refuse treatment system. He uses vivid, almost poetic language to
 describe how bacteria, fungi, nematodes, mites, insects, and larger animals work in
@@ -38,7 +38,7 @@ fermentation performed by lactic acid bacteria.
 
 ## Cremation as Disruption
 
-Fukuoka argues that cremation is one of man's many disruptions of the natural order.
+Fukuoka argues that cremation is one of man's many disruptions of the [[fukuoka-textdoc-natural-order-food-chain-unity]].
 Instead of burying corpses in the earth where microbes can process them, man douses
 them with heavy fuel oil and burns them. The sulfurous gases discharged from
 crematorium chimneys pollute smaller animals and plants. When the mining,
@@ -54,14 +54,14 @@ compared with the infinitely elaborate methods used by nature. Human society
 struggles to treat kitchen garbage, while nature works on a totally different scale. A
 single bacterium such as Escherichia coli divides every twenty minutes to an hour;
 assuming unchecked multiplication with food and suitable conditions, after two or three
-days one bacterium could leave a mass equivalent to all living organisms on Earth. The
+days one bacterium could leave a mass equivalent to all [[savory-living-organisms-as-tools]] on Earth. The
 self-governing mechanisms that regulate reproduction are so precise that if they failed
 for just several days, the Earth would become a morass of bacterial remains.
 
 ## The Straw Decomposition Sequence
 
 Fukuoka provides a detailed account of what happens when a single piece of rice straw
-is dropped onto the earth, presenting this as a masterclass in natural decomposition:
+is dropped onto the earth, presenting this as a masterclass in [[fukuoka-microbes-scavengers-natural-decomposition-biosystem]]:
 
 1. The straw draws flies and other small insects that lay eggs; maggots and larvae
    emerge from these eggs.
@@ -120,7 +120,7 @@ chain that processes organic matter. Nematode remains are fed on by earthworms,
 which are relished by moles. Weasels feed on the moles, and microorganisms break
 down the carcass of the weasel, providing nutrients for plants. The plants are
 parasitized by pathogens, fungi, and pests, and serve as food for animals and man.
-The natural ecosystem is an incredibly complex array of interdependently linked
+The [[fukuoka-natural-ecosystem-food-chain-interconnection]] is an incredibly complex array of interdependently linked
 organisms, none of which live separate from the rest, none of which simply die
 and are done with.
 
@@ -136,15 +136,14 @@ perfect harmony without increase or decrease; they are born and die unseen by ma
 ## The Mystery of Self-Governed Providence
 
 The mastery of the conductor performing this drama of natural transformation, at
-once casual and intense, is truly something to behold. What mechanism allows all
-organisms to propagate in just measure, becoming neither too numerous nor too
-scarce? Such natural, self-governed providence remains a mystery to Fukuoka. But
-there is one who disrupts this order: man. Man is the sole heretic in the natural
-order. Only he acts as he pleases, and his interventions create cascading damage.
 ## See Also
+
+- [[microbes-scavengers-natural-farming]]
 
 - [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]]
 - [[fukuoka-textdoc-natural-soil-management]]
+
+- [[fukuoka-microbes-scavengers-natural-decomposition-biosystem]]
 
 ## See Also
 

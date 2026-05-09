@@ -13,7 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Bills, G.F. (1998). "Russula." In: Mushroom Biology and Mushroom Products. Springer.
+  - Bills, G.F. (1998). "Russula." In: psilocybin-mushroom-biology-chemistry and cotter-mushroom-products-and-value-added-applications. Springer.
   - Kibby, G. (2011). "Russula." In: Mushrooms and Toadstools. Bloomsbury.
   - Knudsen, H. & Vesterholt, J. (2012). Funga Nordica. Nordsvamp.
   - Romagnesi, H. (1967). Les Russules d'Europe et d'Afrique du Nord. Bordas.
@@ -74,7 +74,7 @@ Guanidine test negative. KOH on cap cuticle turns yellowish.
 ## Distribution and Habitat
 
 *Russula vesca* is widely distributed across temperate regions of Europe
-and North America, with scattered records from North Africa and Asia.
+and [[psilocybin-north-america-pacific-northwest]], with scattered records from North Africa and Asia.
 
 It is an obligate ectomycorrhizal species, forming associations primarily
 with broadleaf trees. Common host genera include *Quercus* (oak), *Fagus*
@@ -124,11 +124,11 @@ is diagnostic for *R. vesca*.
 ## Ecological Role
 
 As an ectomycorrhizal fungus, *Russula vesca* plays an important role
-in forest nutrient cycling. The mycelial network exchanges mineral
+in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. The [[gadd-mycelial-network-dynamics]] exchanges mineral
 nutrients (particularly phosphorus and nitrogen) with host tree roots
 in return for photosynthetically derived carbohydrates.
 
-The species contributes to soil aggregation and organic matter
+The species contributes to soil aggregation and [[hamilton-composting-and-organic-matter-management]]
 decomposition. *Russula* mycelium can extend the effective nutrient-
 absorbing surface area of tree root systems by several orders of
 magnitude.

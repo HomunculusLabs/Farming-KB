@@ -23,9 +23,9 @@ type: concept
 
 ## The Centrality of Water Management
 
-Water management, which consists of irrigation and drainage, is the most important part of crop management in rice cultivation. The success of rice and barley cropping depends on germination and weed control, the first ten to twenty days being especially critical.
+Water management, which consists of irrigation and drainage, is the most important part of crop management in rice cultivation. The success of rice and barley cropping depends on germination and [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]], the first ten to twenty days being especially critical.
 
-For the natural farmer practicing no-tillage rice-barley succession, mastery of water management is the difference between success and failure. The challenge is not merely technical but social and ecological, involving the farmer's relationship with neighbors, the local landscape, and an entire community of organisms that share the paddy field ecosystem.
+For the natural farmer practicing no-tillage rice-barley succession, mastery of water management is the difference between success and failure. The challenge is not merely technical but social and ecological, involving the farmer's relationship with neighbors, the local landscape, and an entire community of organisms that share the paddy [[fukuoka-textdoc-field-ecosystem-natural-farm-insects-frogs-dragonflies]].
 
 Water in a paddy field is not just water — it is a living medium that carries nutrients, supports beneficial organisms, suppresses weeds, and moderates temperature. The rice plant's relationship with water is intimate and complex. The timing of flooding and drainage determines not just the plant's growth but the entire ecology of the field.
 
@@ -33,7 +33,7 @@ Water in a paddy field is not just water — it is a living medium that carries 
 
 Farmers using direct-seeding rice-barley cultivation will be seeding and irrigating at times different from other local farmers who transplant rice. This timing difference can lead to disputes, especially as irrigation canals are communally controlled.
 
-If you irrigate when neighboring fields are dry, water leakage can greatly inconvenience the farmer next door. With intermittent irrigation, fissures tend to develop in the levee, causing leakage. This social dimension reveals something important: natural farming is not merely a set of techniques but a way of living in community.
+If you irrigate when neighboring fields are dry, water leakage can greatly inconvenience the farmer next door. With intermittent irrigation, fissures tend to develop in the levee, causing leakage. This social dimension reveals something important: [[comparison-natural-farming-vs-permaculture]] is not merely a set of techniques but a way of living in community.
 
 The natural farmer must be not only a skilled cultivator but a good neighbor, attentive to the impact of his methods on those around him.
 
@@ -76,7 +76,7 @@ Each step requires skill and judgment developed through years of practice. The a
 
 ## Traditional Tools as Sophisticated Technology
 
-All traditional farming tools used from ancient times in Japan come into play during levee building. Observing how these simple yet refined implements efficiently modify soil particle arrangement, Fukuoka felt a keen sense of just how perfectly designed and efficient they are.
+All traditional farming tools used from ancient times in Japan come into play during [[fukuoka-earthen-levee-building-artistic-religious-work]]. Observing how these simple yet refined implements efficiently modify soil particle arrangement, Fukuoka felt a keen sense of just how perfectly designed and efficient they are.
 
 Even in soil engineering terms, these tools represent a very sophisticated technology clearly superior to poured concrete and vinyl sheeting. Erecting a well-built levee in a paddy field is akin to making a work of art. Modern man sees the mud-coated farmer plastering his levees as a throwback to a crude, pre-scientific age.
 
@@ -95,7 +95,7 @@ The principle: less water, applied more frequently and with careful attention to
 
 ## Drainage and Soil Aeration
 
-Drainage is the often-overlooked counterpart to irrigation. Holding water in a paddy field suppresses weeds and provides rice with its preferred growing medium, but prolonged flooding also deprives roots of oxygen and promotes the growth of anaerobic organisms that can produce toxic compounds.
+Drainage is the often-overlooked counterpart to irrigation. Holding water in a paddy field suppresses weeds and provides rice with its preferred growing medium, but prolonged flooding also deprives roots of oxygen and promotes the growth of [[ingham-anaerobic-organisms-role-soil]] that can produce toxic compounds.
 
 Intermittent drainage allows the soil to breathe, roots to access atmospheric oxygen, and beneficial aerobic microorganisms to flourish. Fukuoka's drainage practices were timed to coincide with the needs of both the rice and the clover ground cover.
 
@@ -111,7 +111,7 @@ The farmer who rebuilds his levee each year is also renewing his intimate knowle
 
 ## Seasonal Rhythms of Water Management
 
-Water management in the natural paddy follows the rhythm of the seasons. In early spring, as the barley crop matures and the rice seed germinates beneath it, minimal water is needed — perhaps just a brief flooding to encourage germination.
+Water management in the [[fukuoka-textdoc-natural-paddy-farm-establishment-method]] follows the rhythm of the seasons. In early spring, as the barley crop matures and the rice seed germinates beneath it, minimal water is needed — perhaps just a brief flooding to encourage germination.
 
 As spring progresses and the barley is harvested, water management becomes more active, with periodic flooding to suppress weeds and encourage rice growth through the warm months of summer.
 
@@ -128,6 +128,8 @@ In building and maintaining the levee, the farmer engages in a dialogue with the
 This is the opposite of the alienated labor characterizing industrial agriculture; it is work that connects the farmer to the land, to the community, and to the natural processes that make all life possible.
 
 ## See Also
+
+- [[fukuoka-traditional-paddy-construction]]
 
 - [[fukuoka-soil-management-observations]]
 - fukuoka textdoc paddy ecosystem spider frog dragonfly balance

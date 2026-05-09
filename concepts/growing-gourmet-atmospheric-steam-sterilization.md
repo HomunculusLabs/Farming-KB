@@ -1,5 +1,5 @@
 ---
-title: Atmospheric Steam Sterilization of Sawdust Substrates
+title: growing gourmet atmospheric steam sterilization Sterilization of Sawdust Substrates
 created: 2026-04-26
 tags: [sterilization, mushroom-cultivation, sawdust, steam-treatment, spawn-production]
 date: 2026-04-25
@@ -55,7 +55,7 @@ sawdust blocks subjected to high-pressure autoclaving vs.
 atmospheric steam sterilization for the first flush.
 
 However, comparing total yields, more mushrooms can be
-grown per pound of sawdust if pressure sterilization is
+grown per pound of sawdust if [[boil-a-bag-pressure-sterilization-technique]] is
 employed. The greater yield from sterilized sawdust,
 according to Royse et al. (1985), is not due to the
 survival of contaminants, but a function [[allegro-fertility-philosophy-of-the-ancient-near-east]] rendering
@@ -103,7 +103,9 @@ improve substrate receptimycelial-colonizationnization.
 
 ## References
 
-- Stamets, P. Growing Gourmet and Medicinal Mushrooms,
+- Stamets, P. Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]],
   Chapter 17.
 - Badham, E.R. 1988. Yield of Shiitake on supplemented
 ## See Also
+
+- [[growing-gourmet-phase-ii-steam-pasteurization]]

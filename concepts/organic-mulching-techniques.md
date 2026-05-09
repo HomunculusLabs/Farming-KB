@@ -9,7 +9,7 @@ sources:
 ---
 # Organic Mulching Techniques
 
-Mulching involves spreading a layer of organic matter over the soil surface. It is one of the most important and versatile techniques in the organic garden, serving multiple purposes simultaneously.
+Mulching involves spreading a layer of [[hamilton-composting-and-organic-matter-management]] over the soil surface. It is one of the most important and versatile techniques in the organic garden, serving multiple purposes simultaneously.
 
 ## Benefits of Mulching
 
@@ -18,14 +18,14 @@ Mulching involves spreading a layer of organic matter over the soil surface. It 
 - **Soil improvement:** As the mulch breaks down, it adds organic matter and nutrients to the soil
 - **Soil temperature regulation:** Keeps soil cooler in summer and warmer in winter
 - **Erosion prevention:** Protects soil surface from heavy rain and wind
-- **Disease prevention:** Keeps fruit off the soil (straw under strawberries, bark under tomatoes)
+- **[[cervantes-pest-disease-prevention-overview]]:** Keeps fruit off the soil (straw under strawberries, bark under tomatoes)
 - **Pest deterrence:** Pine bark mulch deters slugs; rough mulches deter certain soil pests
 
 ## When to Mulch
 
 - **Spring:** The main mulching season, after soil has warmed up. Ensure soil is moist before applying mulch, as it will absorb surface water.
 - **After planting:** Apply mulch around newly planted trees, shrubs, and perennials.
-- **Growing season:** Top up mulches around established plants as needed.
+- **[[savory-growing-season-and-non-growing-season-management]]:** Top up mulches around established plants as needed.
 
 ## Materials
 
@@ -43,7 +43,7 @@ Mulching involves spreading a layer of organic matter over the soil surface. It 
 
 **Leaf mold:** Excellent soil conditioner. Best under trees and shrubs. Takes 1-2 years to decompose fully.
 
-**Spent mushroom compost:** Good soil conditioner but slightly alkaline -- avoid around acid-loving plants.
+**[[staycare-spent-mushroom-compost-bioremediation]] compost:** Good soil conditioner but slightly alkaline -- avoid around acid-loving plants.
 
 **Spent hops:** Good conditioner, light and easy to spread.
 
@@ -55,7 +55,7 @@ Mulching involves spreading a layer of organic matter over the soil surface. It 
 
 ## Application Rates
 
-- **Vegetable garden:** At least two 2-gallon (9 liter) buckets per square yard/meter dug in; one bucket per square yard/meter as surface mulch
+- **[[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]:** At least two 2-gallon (9 liter) buckets per square yard/meter dug in; one bucket per square yard/meter as surface mulch
 - **Trees and shrubs:** One bucket per square yard/meter as mulch
 - **Ornamental borders:** One bucket per square yard/meter
 - **Fruit trees and bushes:** One bucket per square yard/meter
@@ -77,7 +77,7 @@ Mulching involves spreading a layer of organic matter over the soil surface. It 
 
 **Around newly planted trees:** Compost or manure in a wide circle to retain moisture and suppress competition.
 
-**On vacant beds:** Cover crops or green manures act as living mulches, protecting and improving the soil.
+**On vacant beds:** Cover crops or [[jeavons-green-manures-cover-crops]] act as living mulches, protecting and improving the soil.
 
 ## Related
 

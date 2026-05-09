@@ -24,7 +24,7 @@ sources:
 **Royal [[amanita-muscaria-entity]] var. regalis (Fr.) Neville & Poumarat
 
 ## Overview
-Amanita regalis is a large basidiomycete closely related to the fly agaric
+Amanita regalis is a large basidiomycete closely related to the [[amanita-muscaria-fly-agaric-history-and-pharmacology]]
 (A. muscaria) but distinguished by its darker brown cap, more robust
 stature, and higher concentrations of [[ectomycorrhizal-associations]] with conifers and birch. Consumed
 historically in Siberian and Scandinavian shamanic traditions after
@@ -49,12 +49,12 @@ it was elevated to species rank by Michael in 1914.
 ### Active Compounds
 A. regalis contains the same isoxazole alkaloid profile as A. muscaria
 but at higher concentrations:
-- **Ibotenic acid:** Glutamate receptor agonist (NMDA and mGluR);
+- **[[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]]:** Glutamate receptor agonist (NMDA and mGluR);
   responsible for nausea, confusion, visual distortion, and ataxia
 - **Muscimol:** GABA_A receptor agonist; produces sedation, euphoria,
   dissociation, and dream-like states
 - **Conversion:** Muscimol forms by decarboxylation of ibotenic acid
-  upon heating (drying, parboiling), explaining traditional preparation
+  upon heating (drying, parboiling), explaining [[kava-traditional-preparation-ceremonial-context]]
 - **LD₅₀ (mouse):** ~38 mg/kg ibotenic acid (i.p.); ~45 mg/kg
   muscimol (i.p.)
 
@@ -82,9 +82,9 @@ largely unchanged, providing a recycled dose with reduced toxicity.
 
 ## Ecological Significance
 As an ectomycorrhizal species, A. regalis facilitates phosphorus and
-nitrogen uptake for host trees in boreal forests. Isoxazole alkaloids
+nitrogen uptake for host trees in [[fungal-diversity-boreal-forests-taiga]]. Isoxazole alkaloids
 provide chemical defense against generalist herbivores. The species is
-sensitive to atmospheric nitrogen deposition and may serve as a
+sensitive to atmospheric [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] and may serve as a
 bioindicator of forest soil health in northern European monitoring.
 
 ## See Also

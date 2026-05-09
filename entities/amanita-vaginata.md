@@ -21,7 +21,7 @@ sources:
   - Tulloss RE, Yang ZL. (2021). "Amanita section Vaginatae." Mycotaxon.
   - Neville P, Poumarat S. (2004). "Amanitaceae." Fungi Europaei Vol. 9.
   - Kuo M. (2024). "Amanita vaginata." MushroomExpert.com.
-  - Lincoff G. (1981). "National Audubon Society Field Guide to North American Mushrooms." Knopf.
+  - Lincoff G. (1981). "National Audubon Society [[ghouled-field-guide-historical-context]] to [[growing-gourmet-north-american-reishi-species]] Mushrooms." Knopf.
   - Bas C. (1969). "Morphology and subdivision of Amanita and a monograph on its section Lepidella." Persoonia.
 ---
 
@@ -29,7 +29,7 @@ sources:
 
 *Amanita vaginata* (Bull.) Lam. is an edible basidiomycete mushroom commonly
 known as the grisette. It belongs to *Amanita* section *Vaginatae* and is
-widely distributed across temperate and boreal forests of the Northern
+widely distributed across temperate and [[fungal-diversity-boreal-forests-taiga]] of the Northern
 Hemisphere.
 
 The species is recognized by its smooth gray-to-brown cap, lack of a volva at
@@ -101,7 +101,7 @@ drying.
 
 However, consumption requires expert identification. Several toxic *Amanita*
 species share similar habitats and general morphology. Most critically, the
-death cap (*A. phalloides*) and destroying angel (*A. virosa*) are lethal
+death cap (*A. phalloides*) and [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]] (*A. virosa*) are lethal
 lookalikes that can be confused by inexperienced foragers.
 
 **Key distinguishing features from toxic species:** absence of a true
@@ -117,8 +117,8 @@ absorption zone, facilitating uptake of water and mineral nutrients
 fixed carbon from the host.
 
 This relationship is particularly important in boreal and temperate forest
-ecosystems where nutrient cycling is slow. *A. vaginata* contributes to soil
-aggregation and organic matter decomposition, and its fruiting bodies serve
+ecosystems where [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] is slow. *A. vaginata* contributes to soil
+aggregation and [[hamilton-composting-and-organic-matter-management]] decomposition, and its fruiting bodies serve
 as a food source for various invertebrates and small mammals.
 
 ## Similar and Related Species

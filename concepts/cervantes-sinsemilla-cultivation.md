@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -30,7 +31,7 @@ flowers are in bloom, pollen from the male flower lands on the female
 flower, thereby fertilizing it. The male dies after producing and
 shedding all his pollen. Seeds form and grow within the female flowers.
 As the seeds mature, the female plant slowly dies, having completed her
-life cycle.
+[[bloomfield-fungal-life-cycle-spiral-versus-circle]].
 
 Left unpollinated, female flowers develop without seeds -- sinsemilla.
 When fertilized with male pollen, female flower buds develop seeds. The
@@ -45,7 +46,7 @@ production, THC production peaks in the unfertilized, frustrated
 sinsemilla bud.
 
 Once the ovule has been fertilized by male pollen, rapid calyx
-formation and resin production slow, and seed growth starts. This
+formation and [[cannabis-glandular-trichome-types-resin-production-clarke]] slow, and seed growth starts. This
 shifts the plant's energy away from resin production and into seed
 production. Therefore, removing males ensures maximum resin and THC
 output.
@@ -95,7 +96,7 @@ ten weeks all year long.
 Seedless cannabis, or sinsemilla, is sought by cultivators who wish to
 produce seedless cannabis for consumption, just as seedless grapes or
 seedless watermelon are preferred by consumers. The energy the plant
-diverts to seed production in pollinated flowers is instead channeled
+diverts to [[cervantes-seed-production-storage]] in pollinated flowers is instead channeled
 into additional resin gland production in sinsemilla flowers, resulting
 in greater potency and more desirable sensory characteristics.
 

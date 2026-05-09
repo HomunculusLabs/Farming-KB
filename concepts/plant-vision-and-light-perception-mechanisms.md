@@ -1,5 +1,5 @@
 ---
-title: "Plant Vision And Light Perception Mechanisms"
+title: "Plant what-a-plant-knows-plant-vision-and-light-perception Perception Mechanisms"
 ---
 
 # Plant Vision and Light Perception Mechanisms
@@ -15,7 +15,7 @@ their environment continuously, responding to changes in light with remarkable
 precision.
 
 The book frames [[what-a-plant-knows-plant-vision-and-light-perception]].
-They exist in two interconvertible forms: Pr (absorbs red light at 660nm) and
+They exist in two interconvertible forms: Pr (absorbs [[phytochrome-red-far-red-light-switch]] at 660nm) and
 Pfr (absorbs far-red light at 730nm). Red light converts Pr to Pfr; far-red
 light converts Pfr back to Pr. This molecular switch allows plants to detect
 the ratio of red to far-red light in their environment.
@@ -52,12 +52,12 @@ negative phototropism (growing away from light).
 
 The mechanism involves asymmetric distribution of auxin, a plant hormone.
 When light strikes one side of a stem, auxin accumulates on the shaded side,
-promoting cell elongation on that side. This differential growth causes the
+promoting [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] on that side. This differential growth causes the
 stem to bend toward the light source. Charles Darwin and his son Francis
-first described this phenomenon in "The Power of Movement in Plants" (1880).
+first described this phenomenon in "The [[darwin-power-of-movement-in-plants]] in Plants" (1880).
 
 Modern understanding reveals that phototropins mediate the initial light
-perception in phototropism. When blue light activates phototropins on the
+perception in phototropism. When [[chamovitz-julius-von-sachs-blue-light-phototropism]] activates phototropins on the
 illuminated side, a signaling cascade redistributes auxin transporters,
 creating the auxin gradient that drives differential growth.
 
@@ -68,7 +68,7 @@ processes including leaf movement, photosynthesis rate, stomatal opening,
 and fragrance emission. These clocks are entrained (synchronized) by light
 signals received through cryptochromes and phytochromes.
 
-Photoperiodism — the ability to measure day length — allows plants to
+Photoperiodism — the ability to measure [[coleman-winter-day-length-and-persephone-months]] — allows plants to
 determine the season and time critical developmental events accordingly.
 [[plant-photoreception]] spans
 from UV-B (280nm) through far-red (800nm). Plants detect light direction,

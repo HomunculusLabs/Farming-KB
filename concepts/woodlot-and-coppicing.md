@@ -10,9 +10,9 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Ultimate Guide to Natural Farming and Sustainable Living, Nicole Faires
+Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]], Nicole Faires
 
-A woodlot managed through coppicing provides a sustainable, renewable supply of firewood, building materials, and other forest products while improving biodiversity and forest health.
+A woodlot managed through coppicing provides a sustainable, renewable supply of firewood, [[natural-building-materials-guide]], and other forest products while improving biodiversity and forest health.
 
 ## What Is Coppicing
 
@@ -22,7 +22,7 @@ Coppicing is a traditional woodland management technique where trees are periodi
 
 1. **Tree is cut** close to the ground at the point where the trunk begins to widen into the roots
 2. **Each section** is cut at a 30-degree angle facing outward so rainwater runs off onto the ground
-3. **The stump sprouts** multiple new shoots the following growing season
+3. **The stump sprouts** multiple new shoots the following [[savory-growing-season-and-non-growing-season-management]]
 4. **New growth** provides usable wood in 7–25 years depending on species and desired product
 5. **The cycle repeats**: Cut again, and the stump regrows again
 
@@ -33,7 +33,7 @@ Coppicing is a traditional woodland management technique where trees are periodi
 - **Faster production**: Wood is available every 7 years instead of waiting decades for mature timber
 - **Easier harvesting**: Smaller trees are much easier to cut down than large timber
 - **Continuous supply**: A managed coppice provides a steady, predictable wood supply each year
-- **Carbon sequestration**: Rapidly growing coppice shoots absorb significant carbon
+- **[[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]**: Rapidly growing coppice shoots absorb significant carbon
 
 ## coppicing Species
 
@@ -50,7 +50,7 @@ Choose species based on their ability to regrow from stumps and grow quickly:
 - **Hawthorn**: Good for hedging and wildlife
 - **Persimmon**: Fruit production
 - **Ginkgo**: Ornamental and medicinal value
-- **Honey locust**: Nitrogen-fixing, animal forage
+- **[[permaculture-honey-locust-pod-fodder-system]]**: Nitrogen-fixing, animal forage
 - **Black locust**: Extremely durable wood, nitrogen-fixing
 
 ## Woodlot Composition
@@ -110,4 +110,4 @@ When first establishing a coppice woodlot:
 - [[zone-5-wilderness]] — preserving wild areas
 - [[firewood-seasoning-and-storage]] — using coppice wood for fuel
 - [[cover-crops-soil-health]]
-- [[faires-pasture-forage-tree-systems]]
+- faires-pasture-forage-tree-systems

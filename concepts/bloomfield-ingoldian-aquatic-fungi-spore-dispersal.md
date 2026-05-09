@@ -1,5 +1,5 @@
 ---
-title: Ingoldian Fungi and Aquatic Spore Dispersal
+title: Ingoldian Fungi and Aquatic aquatic-fungi-spore-dispersal-ingold
 created: 2026-04-28
 tags: [ingoldian-fungi, aquatic-fungi, spore-dispersal, tetraradiate-spores,
       cecil-ingold, leaf-decomposition, stream-ecology, freshwater-fungi]
@@ -69,7 +69,7 @@ minimal investment of cytoplasm.
 
 ## The Three-Point Landing
 
-Tetraradiate spores have a second advantage beyond their large
+[[bloomfield-ingoldian-aquatic-fungi-tetraradiate-spores-foam]] have a second advantage beyond their large
 effective search area. When the tip of one arm strikes a solid
 surface, water movement forces the spore to pivot around the
 attachment point until additional arms land, completing a three-
@@ -95,7 +95,7 @@ crustaceans and other invertebrates that form the base of aquatic
 food webs.
 
 The fungi exit their substrate by sprouting forests of hyphae at
-the leaf surface, forming canopies of spores that are then
+the [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]], forming canopies of spores that are then
 released into the water column to begin the cycle again.
 
 ## Aero-Aquatic Fungi
@@ -124,9 +124,12 @@ convergence.
 
 ## Related
 
+- [[ingoldian-aquatic-fungi]]
+- [[bloomfield-ingoldian-aquatic-fungi-tetraradiate-spores-foam]]
+
 - [[bloomfield-fungal-spore-discharge-and-dispersal]] for
   spore release mechanisms in terrestrial fungi
-- [[bloomfields-orchard-fungal-biology-and-ecology]] for the role
-  of fungi in breaking down organic matter
+- bloomfields-orchard-fungal-biology-and-ecology for the role
+  of fungi in breaking down [[hamilton-composting-and-organic-matter-management]]
 - [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] for
-  fungal interactions in terrestrial ecosystems
+  [[singh-fungal-interactions-with-heavy-metals-in-soil]] in terrestrial ecosystems

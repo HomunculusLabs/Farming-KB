@@ -14,11 +14,9 @@ sources:
 type: concept
 ---
 
-# Soil Chytridiomycetes
-
-[[chytridiomycota-phylogeny-diversity]] are the only
+# Soil Ch are the only
 true fungi that produce motile flagellated cells (zoospores)
-at some stage in their life cycle. This characteristic
+at some stage in their [[bloomfield-fungal-life-cycle-spiral-versus-circle]]. This characteristic
 distinguishes them from all other fungal phyla and reflects
 their likely ancestral position within the fungal kingdom.
 Soil-inhabiting chytrids belong to multiple orders and
@@ -52,28 +50,28 @@ Chytrids typically are extracted from the top 5 cm of soils;
 vertical zonation of chytrids in soils has not been established.
 The sensitivity of chytrid distributions to moisture gradients
 suggests that they may be concentrated in surface horizons
-where organic matter and moisture are most available, but this
+where [[hamilton-composting-and-organic-matter-management]] and moisture are most available, but this
 has not been systematically investigated across soil types and
 ecosystems.
 
 ## Ecological Roles
 
 Soil chytrids play several important ecological roles within the
-broader context of [[fungal-competition-respiration-decomposition]] dynamics
+broader context of fungal-competition-respiration-decomposition dynamics
 
-- Nutrient cycling: By decomposing recalcitrant substrata
+- [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]: By decomposing recalcitrant substrata
   such as chitin, keratin, and cellulose, chytrids contribute
-  to [[soil-fungal-community-composition]] that is missed by most
+  to soil-fungal-community-composition that is missed by most
 standard isolation methods. Their unique zoospore-based
 reproduction and dispersal strategy sets them apart from
 the mitosporic fungi and ascomycetes that dominate most
 soil fungal inventories. Integrating chytrid surveys with
-standard soil fungal sampling protocols is essential for
-obtaining complete pictures of soil fungal diversity.
+standard soil fungal [[lichen-biodiversity-sampling-protocols-data-analysis]] is essential for
+obtaining complete pictures of soil [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]].
 
 ## Conservation and Research Needs
 
 [[chytridiomycota-phylogeny-diversity]]
-- [[fungal-enzyme-systems-and-nutrient-cycling]]
+- fungal-enzyme-systems-and-nutrient-cycling
 - [[fungal-parasites-predators-rotifers-invertebrates]]
 - [[biodiversity-of-fungi-saprobic-soil-fungi]]

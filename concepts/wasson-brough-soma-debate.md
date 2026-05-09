@@ -8,10 +8,10 @@ sources: []
 ---
 # The Wasson-Brough Soma Debate
 
-The question of whether the Vedic Soma was the [flyic mushroom ([[amanita-muscaria-entity]]), as
+The question of whether the [[mckenna-vedic-soma-indo-european-mysteries]] was the [flyic mushroom ([[amanita-muscaria-entity]]), as
 proposed by [Gordon Wasson, remains one of the most contested
 issues in the history of ethnobotany and Vedic studies. The most trenchant
-scholarly critique of Wasson's thesis came from the Cambridge Vedic scholar John
+[[wasson-scholarly-critique-and-legacy]] of Wasson's thesis came from the Cambridge Vedic scholar John
 Brough, creating what is often called the Wasson-Brough debate.
 
 ## Background: The Soma Question
@@ -23,7 +23,7 @@ a god, a plant, and an intoxicating drink.
 
 The Brahmanas, later texts composed around 800 BCE, listed substitute plants that
 could replace Soma when the original was unavailable. Eliminating these
-substitutes, scholars proposed numerous candidates including ephedra, Syrian rue
+substitutes, scholars proposed numerous candidates including ephedra, [[golden-guide-syrian-rue-and-maoi-plants]]
 ([[allegro-wasson-soma-connection]]
 
 ## See Also
@@ -106,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

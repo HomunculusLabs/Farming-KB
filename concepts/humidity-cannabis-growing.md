@@ -1,5 +1,5 @@
 ---
-title: Humidity in Cannabis Growing
+title: Humidity in query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -10,7 +10,7 @@ tags: [cannabis]
 
 # Humidity in Cannabis Growing
 
-Humidity management is a critical aspect of cannabis cultivation that directly affects plant growth, pest pressure, and disease incidence. Relative humidity (RH) is the ratio between the amount of moisture in the air and the greatest amount of moisture the air could hold at the same temperature.
+[[stamets-cultivator-humidity-management-fogging-systems]] is a critical aspect of [[query-how-does-no-till-cannabis-cultivation-work]] that directly affects plant growth, pest pressure, and disease incidence. Relative humidity (RH) is the ratio between the amount of moisture in the air and the greatest amount of moisture the air could hold at the same temperature.
 
 ## Understanding Relative Humidity
 
@@ -42,7 +42,7 @@ Example: An 800 cubic foot grow room holds about 14 ounces (414 ml) of water at 
 
 ### Vegetative Stage
 - Relative humidity: 65-70%
-- Supports rapid vegetative growth
+- Supports rapid [[cannabis-vegetative-growth-stage]]
 
 ### Flowering Stage
 - Relative humidity: 55-60%
@@ -56,7 +56,7 @@ Example: An 800 cubic foot grow room holds about 14 ounces (414 ml) of water at 
 Relative humidity directly affects the transpiration rate through stomata:
 
 - **High humidity**: Water evaporates slowly; stomata close, transpiration slows, growth slows
-- **Low humidity**: Water evaporates quickly; stomata open, increasing transpiration, fluid flow, and growth
+- **[[pf-tek-low-humidity-symptoms-and-remediation]]**: Water evaporates quickly; stomata open, increasing transpiration, fluid flow, and growth
 - **Too high (above 70%)**: Pressure outside the leaf is too high and inside too low; stomata close, growth slows
 
 Example: A 40-inch (1 m) tall plant can transpire a gallon (4 L) per day when humidity is below 50%, but only about a half-pint (0.5 L) on a cool humid day.
@@ -65,7 +65,7 @@ Example: A 40-inch (1 m) tall plant can transpire a gallon (4 L) per day when hu
 
 - Above 80%: Discourages [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]] and root/stem rot
 - Below 60%: Reduces chances of [[heat-stress-cannabis]] — temperature management in cannabis
-- [[powdery-mildew-cannabis]] — fungal disease promoted by high humidity
+- [[powdery-mildew-cannabis]] — [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] promoted by high humidity
 - [[cannabis-grow-room-setup]] — environmental design considerations
 - [[cannabis-mold-and-mildew-prevention]]
 ## Practical Considerations
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

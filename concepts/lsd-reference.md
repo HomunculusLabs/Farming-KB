@@ -16,7 +16,7 @@ LSD (lysergic acid diethylamide) is one of the most potent psychoactive substanc
 ### Albert Hofmann and Sandoz
 
 - First synthesized on November 16, 1938, by Albert Hofmann at Sandoz Laboratories in Basel, Switzerland
-- Part of a research program studying ergot alkaloids (derived from the ergot fungus Claviceps purpurea)
+- Part of a research program studying ergot alkaloids (derived from the ergot fungus [[bloomfield-ergot-claviceps-purpurea-ergotism]])
 - Initially investigated as a circulatory and respiratory stimulant
 - Psychoactive properties discovered accidentally on April 19, 1943, when Hofmann absorbed a small amount through his skin
 - April 19 is now celebrated as "Bicycle Day" — Hofmann rode home from the lab experiencing the first intentional LSD trip
@@ -29,7 +29,7 @@ LSD (lysergic acid diethylamide) is one of the most potent psychoactive substanc
 - Studied as a treatment for alcoholism, anxiety, depression, and as an adjunct to psychotherapy
 - Humphry Osmond coined the term "psychedelic" (mind-manifesting) in 1957
 - The CIA conducted Project MKUltra, administering LSD to unwitting subjects in mind control research
-- Stanislav Grof developed psychedelic psychotherapy using LSD at the Maryland Psychiatric Research Center
+- Stanislav Grof developed [[metzner-psychedelic-psychotherapy-clinical-history]] using LSD at the Maryland Psychiatric Research Center
 
 ### Counterculture Era (1960s)
 
@@ -42,9 +42,9 @@ LSD (lysergic acid diethylamide) is one of the most potent psychoactive substanc
 
 ### Modern Renaissance (2000s-present)
 
-- MAPS (Multidisciplinary Association for Psychedelic Studies) and other organizations have pushed for rescheduling
-- Modern clinical trials studying LSD for anxiety, depression, cluster headaches, and end-of-life distress
-- Switzerland approved limited LSD-assisted psychotherapy research
+- MAPS ([[maps-multidisciplinary-association-for-psychedelic-studies]] for Psychedelic Studies) and other organizations have pushed for rescheduling
+- Modern [[mushroom-cancer-clinical-trials-overview]] studying LSD for anxiety, depression, cluster headaches, and end-of-life distress
+- Switzerland approved limited LSD-assisted [[psilocybin-psychotherapy-research-history]]
 - Growing interest in microdosing LSD for cognitive enhancement and mood improvement
 
 ## Chemistry
@@ -59,7 +59,7 @@ LSD (lysergic acid diethylamide) is one of the most potent psychoactive substanc
 - Physical form: typically encountered as a colorless, odorless liquid or on blotter paper
 
 LSD is an ergoline alkaloid, structurally related to:
-- LSA (lysergic acid amide): naturally occurring in morning glory seeds and Hawaiian baby woodrose
+- LSA (lysergic acid amide): naturally occurring in [[golden-guide-morning-glory-and-ololiuqui]] seeds and Hawaiian baby woodrose
 - Ergotamine and other ergot alkaloids: used medicinally (migraine treatment)
 - Psilocybin and DMT: tryptamine psychedelics (different class, but LSD has tryptamine-like pharmacology)
 
@@ -138,47 +138,6 @@ Note: underground LSD potency is notoriously unreliable. Testing with an Ehrlich
 - Anxiety and panic (especially at high doses or unprepared settings)
 - Confusion, paranoia, fear of not returning to normal
 - Flashbacks (HPPD — Hallucinogen Persisting Perception Disorder — rare but documented)
-
-## Safety Profile
-
-- Very high therapeutic index (LD50 estimated at 12,000+ μg — ~100x a strong dose)
-- No confirmed human deaths from LSD overdose alone
-- Primary risks are psychological, not physiological
-
-### Contraindications
-
-- Personal or family history of schizophrenia or psychotic disorders
-- Pregnancy, cardiovascular disease
-- Current SSRI use (reduces effects; stopping SSRIs carries its own risks)
-- Lithium use (increased seizure risk)
-- MAOIs (increased and prolonged effects)
-
-### Harm Reduction
-
-- Test substance (Ehrlich reagent for indole presence)
-- Start with low dose; prepare set and setting (calm mindset, safe environment)
-- Trusted sitter present, especially at higher doses
-- Avoid mixing with alcohol, stimulants, or other substances
-- Stay hydrated, eat light food, allow recovery time (max once per 1-2 weeks)
-- Integration: journaling, meditation, or therapy after the experience
-
-## Legal Status
-
-- United States: Schedule I under the Controlled Substances Act (since 1970)
-- United Nations: Schedule I under the 1971 Convention on Psychotropic Substances
-- Canada: Schedule III
-- United Kingdom: Class A
-- Most countries worldwide: Schedule I or equivalent (prohibited)
-
-## Modern Research
-
-Current clinical investigation areas:
-- Treatment-resistant depression
-- End-of-life anxiety in terminal illness
-- Cluster headache and migraine
-- PTSD and alcohol use disorder
-- Microdosing (controversial — mixed placebo-controlled trial results)
-
 ## See Also
 
 - [[mescaline-reference]] for comparison with a phenethylamine psychedelic

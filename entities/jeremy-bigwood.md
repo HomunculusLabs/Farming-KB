@@ -12,7 +12,7 @@ sources:
 
 # Jeremy Bigwood
 
-Jeremy Bigwood is an American researcher at The Evergreen State College (Olympia, Washington), known for his collaborative work with [[michael-beug]] on the quantitative analysis of psilocybin and psilocin in mushroom species. He also co-edited *Teonanacatl: Hallucinogenic Mushrooms of North America* (1978) with [[jonathan-ott]], an important early compilation of research on psychoactive fungi.
+Jeremy Bigwood is an American researcher at The [[fukuoka-evergreen-state-permaculture-conference]] College (Olympia, Washington), known for his collaborative work with [[michael-beug]] on the quantitative [[hplc-analysis-of-psilocybin-and-psilocin]] and psilocin in mushroom species. He also co-edited *Teonanacatl: [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] of North America* (1978) with [[jonathan-ott]], an important early compilation of research on psychoactive fungi.
 
 ## Key Research: Bigwood & Beug (1982)
 
@@ -38,11 +38,11 @@ Used reversed-phase HPLC calibrated against NIDA standards with 10% repeatabilit
 - Co-reported *Psilocybe subcubensis* with [[paul-stamets]] (1978), contributing to the taxonomic literature
 - Co-authored "Psilocin, bufotenine and serotonin: Historical and biosynthetic observations" (Chilton, Bigwood & Jensen 1979)
 - Co-authored the foundational paper "Entheogens" (Ruck, Bigwood, Staples, Ott & Wasson 1979) — which introduced the term "entheogen" to the literature
-- His photographic contributions appear in Stamets' *Psilocybin Mushrooms of the World*
+- His photographic contributions appear in Stamets' *[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World*
 
 ## Significance
 
-Bigwood's work provided the first systematic quantitative data on how alkaloid levels change across flushes — critical information for cultivators and harm reduction. The finding that users "have no way of predicting the amount of psilocybin and psilocin they are ingesting with a given dry weight" underscored that variations in subjective experience stem not only from set and setting but from genuine dosage differences.
+Bigwood's work provided the first systematic quantitative data on how alkaloid levels change across flushes — critical information for cultivators and harm reduction. The finding that users "have no way of predicting the amount of psilocybin and psilocin they are ingesting with a given dry weight" underscored that variations in subjective experience stem not only from [[lsd-set-and-setting-framework]] but from genuine dosage differences.
 
 ## Related
 
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

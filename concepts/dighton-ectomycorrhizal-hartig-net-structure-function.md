@@ -1,5 +1,5 @@
 ---
-title: "Ectomycorrhizal Hartig Net Structure and Function"
+title: "dighton ectomycorrhizal hartig net structure function Net Structure and Function"
 created: 2026-04-26
 tags:
   - mycology
@@ -39,7 +39,7 @@ positioning distinguishes ectomycorrhizae from
 within the host root cortical cells and develop a treelike branching
 structure (the arbuscule) between the host cell [[dighton-fungal-rhizomorphs-mycelial-cords]]
 (Read, 1991a). These structures allow translocation of nutrients from
-distal parts of the extraradical mycelial network to the root. The
+distal parts of the extraradical [[gadd-mycelial-network-dynamics]] to the root. The
 distal parts of the extraradical hyphal structures are capable of
 producing enzymes usually associated with saprotrophic decomposer
 fungi, enabling direct cycling of nutrients from organic matter to the
@@ -59,7 +59,7 @@ tissue as forest growth proceeds.
 ## Comparative Mycorrhizal Anatomy
 
 A comparison of mycorrhizal types reveals the diversity of structural
-solutions to the challenge of plant-fungal nutrient exchange:
+solutions to the challenge of plant-fungal [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]:
 
 - **Arbuscular mycorrhizae**: Arbuscules within cortical cells; no
   sheath
@@ -67,12 +67,12 @@ solutions to the challenge of plant-fungal nutrient exchange:
   sheath
 - **Ericoid mycorrhizae**: Hyphal coils within cortical cells
 - **Arbutoid mycorrhizae**: Hyphal coils within cortical cells
-- **Orchidaceous mycorrhizae**: Fungal propagule carried in seed
+- **Orchidaceous mycorrhizae**: [[dighton-fungal-propagule-dispersal-soil-fauna]] carried in seed
 
 The ectomycorrhizal condition, with its combination of Hartig net and
 fungal sheath, represents a uniquely extensive interface between plant
 and fungus that supports the diverse functional roles of
-ectomycorrhizal fungi in forest ecosystem processes.
+[[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] in forest [[fungal-ecosystem-processes-overview]].
 
 ## See Also
 

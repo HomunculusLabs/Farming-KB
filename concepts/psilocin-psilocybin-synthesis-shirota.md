@@ -1,5 +1,5 @@
 ---
-title: "Concise Large-Scale Synthesis of Psilocin and Psilocybin (Shirota, Hakamata & Goda)"
+title: "Concise Large-Scale Synthesis of tryptamine-chemistry-psilocin-and-psilocybin-synthesis (Shirota, Hakamata & Goda)"
 tags:
   - psilocin
   - psilocybin
@@ -27,11 +27,11 @@ type: concept
 
 ## Overview
 
-Shirota, Hakamata, and Goda (2003) reported a concise, gram-scale synthesis of both [[psilocybin]], the principal hallucinogenic constituents of magic mushrooms, from commercially available [[psilocybin-synthesis]] was made possible by the discovery of a zwitterionic N,O-dibenzyl phosphate intermediate that could be isolated by simple filtration, avoiding the anion-exchange chromatography required in prior methods. The work was published in the Journal of Natural Products (Vol. 66, No. 6) and conducted at the National Institute of Health Sciences, Tokyo, Japan.
+Shirota, Hakamata, and Goda (2003) reported a concise, gram-scale synthesis of both [[psilocybin]], the principal hallucinogenic constituents of magic mushrooms, from commercially available psilocin psilocybin synthesis shirota was made possible by the discovery of a zwitterionic N,O-dibenzyl [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]] that could be isolated by simple filtration, avoiding the anion-exchange chromatography required in prior methods. The work was published in the Journal of Natural Products (Vol. 66, No. 6) and conducted at the National Institute of Health Sciences, Tokyo, Japan.
 
 ## Background and Motivation
 
-Psilocin and psilocybin are tryptamine alkaloids structurally related to the neurotransmitter [[serotonin]] and likely exert hallucinogenic effects by interfering with normal brain serotonin signaling. Since June 6, 2002, fungi containing these compounds have been regulated under the Narcotics and Psychotropic Control Law in Japan. Chromatographic identification methods (TLC, GC, HPLC) require pure standard compounds, which are difficult to isolate directly from mushrooms because psilocin readily decomposes and psilocybin has very high polarity. Prior syntheses of psilocybin were scarce and low-yielding, with Hofmann and Troxler (1959) reporting approximately 20% and Nichols and Frescas (1999) achieving 47%. These factors motivated the development of a practical large-scale route suitable for producing certified reference standards.
+Psilocin and psilocybin are tryptamine alkaloids structurally related to the neurotransmitter serotonin and likely exert hallucinogenic effects by interfering with normal brain serotonin signaling. Since June 6, 2002, fungi containing these compounds have been regulated under the Narcotics and Psychotropic Control Law in Japan. Chromatographic [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] (TLC, GC, HPLC) require pure [[shirota-forensic-standard-compounds-magic-mushroom-identification]], which are difficult to isolate directly from mushrooms because psilocin readily decomposes and psilocybin has very high polarity. Prior syntheses of psilocybin were scarce and low-yielding, with Hofmann and Troxler (1959) reporting approximately 20% and Nichols and Frescas (1999) achieving 47%. These factors motivated the development of a practical large-scale route suitable for producing certified reference standards.
 
 ## Why Chromatography-Free Synthesis Matters
 
@@ -109,7 +109,7 @@ The overall yield from psilocin to psilocybin exceeds 72% on gram scale, compare
 
 2. **Crystallization-based isolation at every step**: All six isolated compounds (4, 5, 6, 1, 8, 2) are crystalline solids isolated by filtration and washing, enabling practical scale-up without column chromatography or preparative HPLC.
 
-3. **Zwitterionic intermediate 8 as a purification handle**: The spontaneous intramolecular benzyl migration transforms the phosphorylation byproduct mixture into a single zwitterionic compound with distinct solubility properties, enabling isolation by simple filtration. This elegantly circumvents the need for anion-exchange resin chromatography.
+3. **Zwitterionic intermediate 8 as a purification handle**: The spontaneous [[shirota-zwitterion-discovery-intramolecular-benzyl-migration-phosphorylation]] migration transforms the phosphorylation byproduct mixture into a single zwitterionic compound with distinct solubility properties, enabling isolation by simple filtration. This elegantly circumvents the need for anion-exchange resin chromatography.
 
 ## Spectroscopic Data
 

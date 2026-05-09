@@ -71,7 +71,7 @@ pathway**, which proceeds through several well-characterized steps:
 
 1. L-tryptophan → dimethylallyltryptophan (DMAT) by prenyltransferase
 2. DMAT → festuclavine via a series of methylation and reduction steps
-3. Festuclavine → lysergic acid (via agroclavine intermediates)
+3. Festuclavine → [[ergot-and-lysergic-acid-history]] (via agroclavine intermediates)
 4. Lysergic acid + activated tripeptide (L-Val-L-Pro-L-Phe) → ergocornine
    via the enzyme **ergopeptine synthase** (a non-ribosomal peptide
    synthetase-like enzyme complex)
@@ -84,11 +84,11 @@ enzyme variants incorporating different amino acids.
 
 Ergocornine is produced primarily by:
 
-- ***Claviceps purpurea*** — the common ergot fungus parasitizing rye,
+- ***[[bloomfield-ergot-claviceps-purpurea-ergotism]]*** — the common ergot fungus parasitizing rye,
   wheat, barley, and other cereal grasses. Ergocornine typically
   constitutes 5–15% of the total ergopeptine alkaloid fraction.
 - ***Claviceps paspali*** — tropical ergot species on *Paspalum* grasses
-- Endophytic fungi in the *Epichloë* (formerly *Neotyphodium*) genus
+- [[comparison-endophytic-fungi-vs-mycorrhizal-fungi]] in the *Epichloë* (formerly *Neotyphodium*) genus
   infecting pasture grasses, where ergopeptines contribute to livestock
   toxicosis (fescue toxicosis, ryegrass staggers)
 

@@ -4,7 +4,9 @@ created: 2026-04-28
 tags: [aquatic-plants, sustainable-agriculture, animal-feed, nitrogen-fixation, water-management]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: comparison
 ---
 
@@ -25,25 +27,25 @@ Choose duckweed when your priority is maximum protein yield per unit area, when 
 
 ## When to Choose Azolla
 
-Choose Azolla when nitrogen fixation is the primary goal — particularly in rice-based systems where it serves simultaneously as biofertilizer, mulch, and animal feed. Azolla excels in integrated rice-duck-fish polycultures, in regions where purchased nitrogen fertilizer is expensive or unavailable, and when its antimicrobial and antiprotozoal properties offer additional livestock health benefits.
+Choose Azolla when [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] is the primary goal — particularly in rice-based systems where it serves simultaneously as biofertilizer, mulch, and animal feed. Azolla excels in integrated rice-duck-fish polycultures, in regions where purchased nitrogen fertilizer is expensive or unavailable, and when its antimicrobial and antiprotozoal properties offer additional livestock health benefits.
 
 ## Processing and Storage
 
-**Duckweed** can be fed fresh (direct grazing by poultry or fish), sun-dried for shelf-stable meal, or ensiled. Drying is the most common commercial approach — duckweed dries to ~6–10% moisture in 2–3 days of full sun, and the resulting meal stores for 6–12 months. Ensiling duckweed with molasses or cereal bran improves protein retention and palatability. Wet duckweed ferments rapidly and spoils within 24–48 hours at ambient temperature without preservation.
+**Duckweed** can be fed fresh (direct grazing by poultry or fish), sun-dried for shelf-stable meal, or ensiled. Drying is the most common commercial approach — duckweed dries to ~6–10% moisture in 2–3 days of full sun, and the resulting meal stores for 6–12 months. Ensiling duckweed with molasses or cereal bran improves protein retention and palatability. Wet duckweed ferments rapidly and spoils within 24–48 hours at [[jadam-ambient-temperature-principle]] without preservation.
 
 **Azolla** is typically fed fresh to livestock within hours of harvest, as it deteriorates quickly. Sun-drying is possible but more difficult than duckweed — Azolla's thicker fronds retain more moisture and can mold if not turned frequently. Azolla meal is less commercially available, partly because its lower protein content makes processing less economically compelling. In traditional systems, Azolla is simply scooped from paddies and thrown directly to ducks or pigs.
 
 ## Economic Considerations
 
-Duckweed cultivation has attracted significant venture investment, with companies like Parabel (formerly WaterLens) developing commercial-scale duckweed protein extraction for human and animal nutrition. Production costs for dried duckweed meal range from $200–400/tonne, competitive with soybean meal ($350–500/tonne). The economics improve dramatically when duckweed is grown on wastewater, as nutrient costs are eliminated and water treatment fees may be avoided.
+Duckweed cultivation has attracted significant venture investment, with companies like Parabel (formerly WaterLens) developing commercial-scale duckweed protein extraction for human and animal nutrition. [[fukuoka-textdoc-production-costs-not-coming-down]] for dried duckweed meal range from $200–400/tonne, competitive with soybean meal ($350–500/tonne). The economics improve dramatically when duckweed is grown on wastewater, as nutrient costs are eliminated and water treatment fees may be avoided.
 
-Azolla remains largely a subsistence crop with minimal commercial processing. Its economic value is realized primarily through nitrogen savings in rice production ($15–30/ha in reduced urea costs) and supplemental livestock feed. Scaling Azolla production faces challenges: labor costs for inoculation and harvesting, phosphorus fertilizer inputs, and the lack of processing infrastructure. Research into Azolla-based bioplastics and biofuel precursors may improve its commercial outlook.
+Azolla remains largely a subsistence crop with minimal commercial processing. Its economic value is realized primarily through nitrogen savings in [[fukuoka-energy-analysis-rice-production-natural-vs-mechanized]] ($15–30/ha in reduced urea costs) and supplemental livestock feed. Scaling Azolla production faces challenges: labor costs for inoculation and harvesting, phosphorus fertilizer inputs, and the lack of processing infrastructure. Research into Azolla-based bioplastics and biofuel precursors may improve its commercial outlook.
 
 ## Water Quality Interactions
 
-Duckweed has a well-documented capacity to reduce ammonia, nitrate, and phosphate concentrations in water. Dense duckweed mats create anoxic conditions at the water surface interface, promoting denitrification and reducing ammonia volatilization. However, excessive coverage (>95%) can deplete dissolved oxygen and harm aquatic organisms — a management concern in treatment wetlands stocked with fish.
+Duckweed has a well-documented capacity to reduce ammonia, nitrate, and phosphate concentrations in water. Dense duckweed mats create anoxic conditions at the water surface interface, promoting denitrification and reducing ammonia volatilization. However, excessive coverage (>95%) can deplete [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] and harm aquatic organisms — a management concern in treatment wetlands stocked with fish.
 
-Azolla moderates water quality differently. Through its symbiotic *Nostoc*, it actively fixes dissolved N₂ into ammonium, raising total nitrogen in the water column rather than removing it. This is beneficial in nitrogen-poor rice paddies but counterproductive in wastewater treatment. Azolla does absorb phosphorus aggressively — it can reduce soluble phosphorus by 60–80% in standing water, making it useful for phosphorus remediation specifically.
+Azolla moderates water quality differently. Through its symbiotic *Nostoc*, it actively fixes dissolved N₂ into ammonium, raising total nitrogen in the water column rather than removing it. This is beneficial in nitrogen-poor rice paddies but counterproductive in [[mollison-designers-wastewater-treatment-wetlands]]. Azolla does absorb phosphorus aggressively — it can reduce soluble phosphorus by 60–80% in standing water, making it useful for phosphorus remediation specifically.
 
 ## Climate and Geographic Suitability
 
@@ -78,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

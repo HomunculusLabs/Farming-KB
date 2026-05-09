@@ -1,5 +1,5 @@
 ---
-title: Cannabis Strain Breeding Techniques
+title: Cannabis Strain cannabis-breeding-techniques-acclimatization-trait-fixing-clarke
 source: Cannabis Sativa Volume 3 - S.T. Oner, The Rev
 created: 2026-05-08
 tags: [cannabis, breeding, genetics, hybridization, techniques, sativa]
@@ -9,7 +9,7 @@ tags: [cannabis, breeding, genetics, hybridization, techniques, sativa]
 
 ## Overview
 
-Cannabis breeding has evolved dramatically from the informal outdoor practices of the 1970s to the sophisticated genetic programs of modern seed companies. The techniques used to create new cannabis strains range from simple open pollination to complex inbreeding and backcrossing programs. Understanding these methods is essential for appreciating the diversity of cannabis genetics documented in strain guides like [[acapulco-gold]] offering represents an effort to maintain the genetic integrity of this legendary Mexican landrace. DoobieDuck has worked with Swazi and Malawi genetics, and multiple breeders have worked to preserve [[cannabis-ruderalis]] is ruderalis genetics has enabled the creation of auto-flowering varieties that flower based on age rather than photoperiod. Auto-flowering sativas like Angelmatic offer the effects and flavors of sativa genetics in a compact, rapid-cycling package. These varieties typically go from seed to harvest in 8-12 weeks and remain under 3 feet in height, making sativa genetics accessible to virtually any grower regardless of space constraints.
+[[oner-cannabis-breeding-fundamentals]] has evolved dramatically from the informal outdoor practices of the 1970s to the sophisticated genetic programs of modern seed companies. The techniques used to create new cannabis strains range from simple open pollination to complex inbreeding and backcrossing programs. Understanding these methods is essential for appreciating the diversity of [[vic-high-cannabis-genetics-mendelian-inheritance]] documented in strain guides like [[acapulco-gold]] offering represents an effort to maintain the genetic integrity of this legendary Mexican landrace. DoobieDuck has worked with Swazi and Malawi genetics, and multiple breeders have worked to preserve [[cannabis-ruderalis]] is ruderalis genetics has enabled the creation of auto-flowering varieties that flower based on age rather than photoperiod. Auto-flowering sativas like Angelmatic offer the effects and flavors of sativa genetics in a compact, rapid-cycling package. These varieties typically go from seed to harvest in 8-12 weeks and remain under 3 feet in height, making sativa genetics accessible to virtually any grower regardless of space constraints.
 
 ## Genetic Considerations
 
@@ -24,7 +24,7 @@ Not all cannabis traits are equally heritable. Some traits that breeders commonl
 - **Flowering time**: Highly heritable, tends to express in predictable patterns
 - **Plant height**: Moderately heritable, influenced by multiple genes
 - **Cannabinoid profile**: Complex genetic basis, but high-THC traits tend to be dominant
-- **Terpene profile**: Highly complex, influenced by many genes and environmental factors
+- **Terpene profile**: Highly complex, influenced by many genes and [[duggar-mushroom-environmental-factors-temperature-moisture-light]]
 - **Resistance to mold/pests**: Varies, but some resistance traits are heritable
 - **Flavor and aroma**: Complex polygenic traits that can be difficult to fix through breeding
 
@@ -50,7 +50,7 @@ The Rev's description of selecting Durban Poison clones from the early 1980s ill
 
 The modern cannabis breeding landscape is supported by a global network of seed companies and independent breeders. Cannabis Sativa Volume 3 features breeders from the USA, Canada, Holland, Britain, Spain, Poland, Chile, and Switzerland. Online communities at Breedbay.co.uk, Meduser.ca, and Seedfinder.eu facilitate genetic exchange and knowledge sharing among breeders worldwide.
 
-This international network has dramatically accelerated genetic innovation, allowing breeders to access genetics from any region and combine them in novel ways. A breeder in Spain can work with African Malawi genetics, Thai landraces, and North American Kush varieties simultaneously, creating combinations that would have been impossible in the era of regional isolation.
+This international network has dramatically accelerated genetic innovation, allowing breeders to access genetics from any region and combine them in novel ways. A breeder in Spain can work with African Malawi genetics, Thai landraces, and [[growing-gourmet-north-american-reishi-species]] Kush varieties simultaneously, creating combinations that would have been impossible in the era of regional isolation.
 
 ## Challenges in Modern Breeding
 
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

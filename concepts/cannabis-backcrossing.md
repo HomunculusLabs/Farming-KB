@@ -10,12 +10,12 @@ tags: [cannabis]
 
 # Cannabis Backcrossing
 
-Backcrossing is one of the most widely used breeding techniques in
-cannabis genetics. It involves repeated crossing of progeny with one of
+Backcrossing is one of the most widely used [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]] in
+[[vic-high-cannabis-genetics-mendelian-inheritance]]. It involves repeated crossing of progeny with one of
 the original parental genotypes, most often the mother plant. Cervantes
-provides comprehensive procedural guidance for backcross breeding,
+provides comprehensive procedural guidance for [[cervantes-backcross-breeding-methods]],
 including step-by-step protocols for incorporating both dominant and
-recessive traits.
+[[cervantes-dominance-recessive-traits-alleles]].
 
 ## Definition and Purpose
 
@@ -40,7 +40,7 @@ breeders for several practical reasons:
 - It is simple and rapid when using growrooms or greenhouses.
 - It requires only small populations, suitable for space-constrained
   operations.
-- Indoor grow rooms are easily replicated worldwide, so progeny need
+- [[cannabis-indoor-grow-lighting-systems]] rooms are easily replicated worldwide, so progeny need
   less extensive field-testing across varied environments.
 - The method is repeatable when the same parents are used.
 - Results are predictable when the recurrent parent is true-breeding.
@@ -112,7 +112,7 @@ Despite its popularity, backcrossing has specific drawbacks:
 - The "improved" variety differs only slightly from the recurrent
   parent (typically just one trait).
 - If multiple traits are to be introgressed, other techniques such as
-  inbreeding or recurrent selection may be more rewarding. Multiple
+  inbreeding or [[cervantes-recurrent-selection-pedigree-breeding]] may be more rewarding. Multiple
   traits should be tracked in separate backcross programs and combined
   in a final set of crosses.
 

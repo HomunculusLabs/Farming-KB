@@ -49,7 +49,7 @@ C. cyanus is the national flower of Estonia and is featured on the German 2-euro
 
 C. cyanus is native to temperate Europe, from the British Isles and Scandinavia eastward through central and southern Europe to the Caucasus and western Siberia.
 
-It has been widely introduced and naturalized in North America, South America, Australia, New Zealand, and parts of Asia. In North America, it is established in most of the contiguous United States and southern Canada.
+It has been widely introduced and naturalized in [[psilocybin-north-america-pacific-northwest]], South America, Australia, New Zealand, and parts of Asia. In North America, it is established in most of the contiguous United States and southern Canada.
 
 The species is an archaeophyte of cereal fields, thriving as a weed in cultivated ground, particularly wheat, barley, and rye fields. It also colonizes roadsides, railway embankments, waste ground, and disturbed sites.
 
@@ -69,7 +69,7 @@ The young leaves are edible raw or cooked but are rarely used due to their fibro
 
 C. cyanus has a documented history of use in European traditional medicine, particularly as an anti-inflammatory and diuretic agent.
 
-The dried flower heads (Centaureae cyanus flos) are the primary plant part used medicinally. Traditional indications include eye inflammation (as an eyewash), mild digestive complaints, and skin conditions.
+The dried flower heads (Centaureae cyanus flos) are the primary plant part used medicinally. Traditional indications include eye inflammation (as an eyewash), mild digestive complaints, and [[cannabis-for-skin-conditions-detailed]].
 
 Major bioactive compounds include flavonoids (apigenin, luteolin, centaureidin, jaceidin, hispidulin), anthocyanins (cyanidin glycosides responsible for the blue color), and polyacetylenes. The anthocyanin profile includes pelargonidin and cyanidin derivatives.
 
@@ -95,21 +95,21 @@ Seeds should be sown directly in the garden in early spring, or started indoors 
 
 The plant thrives in full sun with well-drained soil. It is drought-tolerant once established and requires minimal fertilization. Excessive nitrogen promotes foliage growth at the expense of flowers.
 
-For cut flower production, successive sowings every 2–3 weeks ensure continuous bloom throughout the growing season. Stems should be harvested when the outer florets are fully open. Vase life is typically 5–7 days.
+For cut flower production, successive sowings every 2–3 weeks ensure continuous bloom throughout the [[savory-growing-season-and-non-growing-season-management]]. Stems should be harvested when the outer florets are fully open. Vase life is typically 5–7 days.
 
 Several cultivars are available, extending the color range beyond the classic blue to include pink, white, red, and maroon varieties. The 'Black Ball' cultivar, with deep maroon flowers, is particularly popular in ornamental plantings.
 
 ## History and Cultural Significance
 
-The cornflower has been intertwined with European agricultural and cultural history for centuries.
+The cornflower has been intertwined with European agricultural and [[shroom-cultural-history-hippie-revolution-and-counterculture]] for centuries.
 
 In European folklore, cornflowers were worn by young men to indicate that they were in love. This practice gave rise to the common name "bachelor's button." The tradition of wearing cornflowers dates back to at least the medieval period.
 
-The distinctive blue pigment derived from cornflower petals was used as a watercolor paint and textile dye before synthetic alternatives became available. The color "cornflower blue" remains a standard color name in fashion, design, and heraldry.
+The distinctive blue pigment derived from cornflower petals was used as a watercolor paint and [[fungal-laccase-and-textile-dye-decolorization]] before synthetic alternatives became available. The color "cornflower blue" remains a standard color name in fashion, design, and heraldry.
 
 In France, the cornflower (*le bleuet*) is a symbol of remembrance for veterans of World War I, analogous to the poppy in the British Commonwealth. The *Bleuet de France* organization was founded in 1925 to support wounded veterans.
 
-The species' decline in farmland has made it a flagship species for farmland biodiversity conservation. Its image appears on logos and educational materials for agri-environment programs throughout the European Union.
+The species' decline in farmland has made it a flagship species for farmland [[fungal-biodiversity-conservation-status]]. Its image appears on logos and educational materials for agri-environment programs throughout the European Union.
 
 ## See Also
 

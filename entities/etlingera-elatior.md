@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-**Etlingera elatior** is a striking species of herbaceous perennial in the Zingiberaceae family, native to Southeast Asia.
+**Etlingera elatior** is a striking species of herbaceous perennial in the Zingiberaceae family, native to [[psilocybe-southeast-asia-pacific]].
 
 It is commonly known as **torch ginger**, **red ginger lily**, **philodendron* (Indonesia), **tuhau* (Sabah), and **bunga kantan** (Malaysia).
 
@@ -93,17 +93,17 @@ In Thai cuisine, young inflorescences are occasionally used in certain regional 
 
 The flowers are also used as a traditional garnish for presentation in high-end Southeast Asian restaurants.
 
-In addition to culinary use, the species holds cultural significance in traditional Malay weddings and ceremonial occasions.
+In addition to culinary use, the species holds [[ethnomycology-cultural-significance-sacred-fungi]] in traditional Malay weddings and ceremonial occasions.
 
 ## Cultivation
 
-Torch ginger is propagated primarily by division of the rhizomatous rootstock, though seed propagation is also possible.
+Torch ginger is propagated primarily by division of the rhizomatous rootstock, though [[jeavons-seed-propagation-techniques]] is also possible.
 
 Plants prefer partial shade (30–60% light) but tolerate full sun in humid tropical conditions with adequate moisture.
 
 Optimal growth occurs at 25–30°C with consistent humidity above 70% and annual rainfall of 1,500–3,000 mm.
 
-Soils should be rich in organic matter, slightly acidic (pH 5.5–6.5), and well-drained to prevent rhizome rot.
+Soils should be rich in [[hamilton-composting-and-organic-matter-management]], slightly acidic (pH 5.5–6.5), and well-drained to prevent rhizome rot.
 
 Under favorable conditions, plants begin flowering within 12–18 months of planting from divisions.
 
@@ -117,13 +117,13 @@ Pests include mealybugs, scale insects, and nematodes; fungal rhizome rot is the
 
 Phytochemical studies have identified several bioactive constituents including diterpenes, flavonoids, and phenolic acids.
 
-Essential oil extracted from the inflorescence contains pinene, linalool, and various sesquiterpenes.
+[[permaculture-designers-manual-essential-oil-plants]] extracted from the inflorescence contains pinene, linalool, and various sesquiterpenes.
 
 The leaves and rhizomes have been used in traditional Malay medicine for treating wounds, earaches, and stomach ailments.
 
 Laboratory studies have demonstrated antioxidant, antimicrobial, and anti-inflammatory activities for leaf and flower extracts.
 
-The rhizome has shown cytotoxic activity against certain cancer cell lines in preliminary in vitro screening.
+The rhizome has shown cytotoxic activity against certain [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines in preliminary in vitro screening.
 
 Poultices made from pounded leaves are traditionally applied to reduce swelling and relieve joint pain in folk medicine.
 

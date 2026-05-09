@@ -68,7 +68,7 @@ Nicotine binding triggers ion channel opening, allowing Na⁺ and Ca²⁺ influx
 This depolarizes the neuron, triggering neurotransmitter release — primarily
 dopamine in the mesolimbic pathway, which underlies nicotine's reinforcing
 effects. It also modulates norepinephrine, [[cervantes-terpenoid-pharmacology-therapeutic-effects]]
-- [[emcdda-hallucinogenic-mushroom-dose-effects-acute-pharmacology]]
+- emcdda-hallucinogenic-mushroom-dose-effects-acute-pharmacology
 
 See also: [[peyote-and-psychoactive-cacti]]
 ## Practical Considerations
@@ -90,3 +90,8 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[mckenna-opium-tobacco-paradoxical-attitudes]]
+- [[ololiuhqui-morning-glory-ergot-alkaloid-connection]]
+- [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]]

@@ -24,9 +24,9 @@ sources:
 
 The species has been used for centuries in East African traditional medicine and as a natural soap and detergent. The berries contain saponin glycosides that produce a lather when crushed in water, a property exploited in traditional laundry and personal hygiene practices across Ethiopia, Kenya, and Tanzania.
 
-P. dodecandra gained international scientific attention in the 1960s when Ethiopian scientist Aklilu Lemma demonstrated its efficacy as a biological control agent for schistosomiasis-transmitting snails. This research led to one of the most extensively studied plant-based molluscicide programs in tropical medicine.
+P. dodecandra gained international scientific attention in the 1960s when Ethiopian scientist Aklilu Lemma demonstrated its efficacy as a [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent for schistosomiasis-transmitting snails. This research led to one of the most extensively studied plant-based molluscicide programs in tropical medicine.
 
-Lemma's work on endod earned him the Right Livelihood Award in 1989 and brought global attention to the potential of indigenous African plants in tropical disease control. His research demonstrated that endod could be produced and applied by local communities at a fraction of the cost of synthetic alternatives.
+Lemma's work on endod earned him the [[pdc-right-livelihood-and-permaculture-economics]] Award in 1989 and brought global attention to the potential of indigenous African plants in tropical [[hamilton-pest-and-disease-control-organic]]. His research demonstrated that endod could be produced and applied by local communities at a fraction of the cost of synthetic alternatives.
 
 The World Health Organization conducted extensive field evaluations of endod-based molluscicides in the 1970s and 1980s. While the results confirmed the plant's efficacy, challenges in standardization, quality control, and regulatory approval delayed large-scale adoption.
 
@@ -38,11 +38,11 @@ The species was first described by Charles Louis L'Héritier de Brutelle in 1788
 
 P. dodecandra is a woody climbing vine or scandent shrub growing 3–10 meters in length, supported by tendrils from modified branches. The stems are slender, green to purplish, and become woody at the base with age. Leaves are alternate, simple, broadly ovate to elliptic, 8–20 cm long and 5–12 cm wide, with entire margins and prominent venation.
 
-The plant exhibits rapid vegetative growth during the rainy season, producing several meters of new vine length annually. In cultivation, individual plants can live for 10–15 years, with peak berry production occurring from the third year onward. Annual berry yields of 2–5 kg per plant have been recorded for cultivated accessions in Ethiopia.
+The plant exhibits rapid [[cannabis-vegetative-growth-stage]] during the rainy season, producing several meters of new vine length annually. In cultivation, individual plants can live for 10–15 years, with peak berry production occurring from the third year onward. Annual berry yields of 2–5 kg per plant have been recorded for cultivated accessions in Ethiopia.
 
 The inflorescence is an axillary or terminal raceme bearing numerous small, greenish-white to pinkish flowers. Flowers are bisexual, 4–5 mm across, with 5 sepals, no petals, and 12 stamens surrounding a superior ovary of 6–8 fused carpels.
 
-The fruit is a juicy, purplish-black berry, 6–10 mm in diameter, containing 6–8 reniform seeds. Each berry contains significant concentrations of triterpenoid saponins, particularly in the seed coat and pericarp. Roots are tuberous and fibrous, also accumulating bioactive compounds.
+The fruit is a juicy, purplish-black berry, 6–10 mm in diameter, containing 6–8 reniform seeds. Each berry contains significant concentrations of triterpenoid saponins, particularly in the seed coat and pericarp. Roots are tuberous and fibrous, also accumulating [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]].
 
 ## Distribution and Habitat
 
@@ -76,7 +76,7 @@ Phytochemical variation between populations is significant, with Ethiopian acces
 
 ## Traditional Uses and Pharmacology
 
-In Ethiopian traditional medicine, crushed P. dodecandra berries are used as a topical treatment for skin diseases including ringworm, scabies, and eczema. The saponin-rich extract acts as both a detergent and an antimicrobial agent. Preparations are also applied to wounds and fungal infections of the scalp.
+In Ethiopian traditional medicine, crushed P. dodecandra berries are used as a topical treatment for skin diseases including ringworm, scabies, and eczema. The saponin-rich extract acts as both a detergent and an antimicrobial agent. Preparations are also applied to wounds and [[blesching-cannabis-fungal-infections-candida]] of the scalp.
 
 The plant is used as a natural soap throughout East Africa, where berries are crushed in water to produce a lather for washing clothes, hair, and skin. This practice predates the introduction of commercial soap products and remains common in rural communities where the plant is locally available.
 

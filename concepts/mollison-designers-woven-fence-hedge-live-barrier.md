@@ -1,5 +1,5 @@
 ---
-title: Woven Fence Hedge Live Barrier
+title: mollison designers woven fence hedge live barrier Hedge Live Barrier
 created: 2026-04-28
 tags:
   - agroforestry
@@ -16,7 +16,7 @@ type: concept
 
 # Woven Fence Hedge Live Barrier
 
-Living fences, woven wattle hedges, and hedgerow barriers are multifunctional
+[[comparison-living-fences-vs-hedgerows]], woven wattle hedges, and hedgerow barriers are multifunctional
 boundary and partition elements extensively discussed by Bill Mollison in the
 [[fungal-biodiversity]] in agricultural landscapes.
 
@@ -29,13 +29,13 @@ boundary and partition elements extensively discussed by Bill Mollison in the
 
 - **Wood and craft products:** Hedgerow management through periodic
   laying or coppicing produces poles, firewood, and craft materials.
-  [[mollison-windbreak-design]] in [[pasture-management]] systems. They eliminate the ongoing cost of replacing
+  mollison-windbreak-design in [[pasture-management]] systems. They eliminate the ongoing cost of replacing
 wire, posts, and hardware. Some species, particularly spiny ones, are
 effectively stock-proof once established. Others may require a single strand
 of wire or electric fencing at the top or bottom to prevent livestock pushing
 through gaps.
 
-In rotational grazing systems, living fences define permanent paddock
+In [[comparison-rotational-grazing-vs-continuous-grazing]] systems, living fences define permanent paddock
 boundaries while portable electric fencing provides temporary internal
 subdivisions.
 
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,9 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+## See Also
+- [[bill-mollison]]
+- [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]]
+- [[mollison-designers-lime-and-cement-natural-building]]
+- [[mollison-designers-citrus-growing-and-care]]
+- [[mollison-designers-rice-paddy-integrated-duck-fish]]

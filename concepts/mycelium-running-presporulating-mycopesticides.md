@@ -12,7 +12,7 @@ type: concept
 
 ## Overview
 
-Presporulating mycelium of entomopathogenic fungi represents a breakthrough
+Presporulating mycelium of [[singh-entomopathogenic-fungi-biocontrol-agents]] represents a breakthrough
 discovery in biological pest control. Unlike conventional approaches that use
 fungal spores, this technique employs the vegetative mycelial stage of
 insect-parasitizing fungi before they produce spores. The key insight, discovered
@@ -52,7 +52,7 @@ The presporulating mycelium emits attractants and feeding stimulants that entice
 insects. Once consumed or contacted, the mycelium retains its full pathogenic
 capabilities. Key mechanisms include:
 
-- **Attraction**: Presporulating mycelium produces volatile compounds that
+- **Attraction**: Presporulating mycelium produces [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] that
   attract target insects. Termites in choice tests preferred mycelium to wood.
 - **Arrestant behavior**: Termites encountering the mycelium stop and do not
   continue foraging, remaining in contact with the pathogen.
@@ -72,7 +72,7 @@ attractant properties:
 
 - **Metarhizium anisopliae**: Green mold prevalent in soils, effective against
   termites, ants, locusts, mosquitoes, and mites. Does not infect plants,
-  mammals, fish, bees, or beneficial insects.
+  mammals, fish, bees, or [[comparison-beneficial-insects-guide-vs-integrated-pest-management]].
 - **Beauveria bassiana**: White mold producing attractants prior to sporulation.
   Historically significant for the muscardine disease in silk trade.
 - **Hirsutella, Paecilomyces, Mucor, Aspergillus, Nomuraea**: Other genera
@@ -86,7 +86,7 @@ species-specific attractants, potentially enabling precision-targeted products.
 
 Water and ethanol extracts of presporulating mycelium on rice also function as
 powerful attractants and feeding stimulants. Serial dilution showed baseline
-extracts worked best after dilution with water, reducing production costs. These
+extracts worked best after dilution with water, reducing [[fukuoka-textdoc-production-costs-not-coming-down]]. These
 extracts could enhance conventional pesticide delivery by attracting insects to
 treatment stations.
 
@@ -116,9 +116,9 @@ The presporulating mycelium approach offers multiple benefits:
 ## The Cordyceps Connection
 
 Some entomopathogenic fungi exhibit dimorphism, expressing as both a mold and a
-mushroom. The genus Cordyceps represents the mushroom fruiting stage. One
+mushroom. The genus Cordyceps represents the [[ectomycorrhizal-mushroom-fruiting-ecology]] stage. One
 species, Cordyceps lloydii, infects carpenter ants and compels them to climb to
-the forest canopy before dying, ensuring maximum spore dispersal.
+the forest canopy before dying, ensuring maximum [[aquatic-fungi-spore-dispersal-ingold]].
 
 ## Limitations and Considerations
 
@@ -142,5 +142,4 @@ a significant opportunity within the expanding biopesticide market.
 ## See Also
 
 - [[entomopathogenic-fungal-diversity-cordyceps-insect-pathogens]]
-- [[mycelium-running-pest-control-with-fungi]]
 - [[mycelium-running-pest-control-with-fungi]]

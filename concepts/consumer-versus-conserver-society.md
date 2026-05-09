@@ -1,17 +1,18 @@
 ---
-title: Consumer versus Conserver Society
+title: Consumer consumer versus conserver society Society
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [reference]
 sources:
+  sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 # Consumer versus Conserver Society
 
-Holmgren develops a foundational distinction between two fundamental modes of human organization: the consumer society and the conserver society. This framework underlies the entire argument of "Permaculture: Principles and Pathways Beyond Sustainability" and connects directly to [[permaculture-ethics]] of earth care, people care, and fair share are the ethical foundation of conservation. The [[retrofitting-suburbs-permaculture]] is the practical strategy for making the transition in existing settlements.
+Holmgren develops a foundational distinction between two fundamental modes of human organization: the consumer society and the conserver society. This framework underlies the entire argument of "Permaculture: Principles and Pathways Beyond Sustainability" and connects directly to permaculture-ethics of earth care, people care, and fair share are the ethical foundation of conservation. The retrofitting-suburbs-permaculture is the practical strategy for making the transition in existing settlements.
 
-Holmgren argues that the consumer/conserver distinction is more useful than the more common developed/developing or rich/poor dichotomies because it describes structural relationships rather than relative positions. A wealthy community with strong local food systems, renewable energy, and cooperative economics is more "conserver" than a poor community dependent on imported food, diesel generators, and extractive industries.
+Holmgren argues that the consumer/conserver distinction is more useful than the more common developed/developing or rich/poor dichotomies because it describes structural relationships rather than relative positions. A wealthy community with strong local food systems, [[holmgren-wind-power-and-renewable-energy-debate]], and cooperative economics is more "conserver" than a poor community dependent on imported food, diesel generators, and extractive industries.
 
 ## The Problem Is the Solution
 
@@ -21,7 +22,7 @@ Similarly, globalization provides opportunities for "social seeding" to create n
 
 ## Beyond Sustainability
 
-The term "beyond sustainability" in Holmgren's subtitle reflects his argument that sustainability -- maintaining current systems -- is impossible in a context of energy descent. For any human culture to be considered sustainable it must have the capacity to reproduce itself down the generations while providing human material needs without cataclysmic breakdown. If high-energy society is energetically impossible as anything more than a pulse in the long run of human history, then it cannot be sustainable.
+The term "beyond sustainability" in Holmgren's subtitle reflects his argument that sustainability -- maintaining current systems -- is impossible in a context of [[holmgren-energy-descent-permaculture-flower]]. For any human culture to be considered sustainable it must have the capacity to reproduce itself down the generations while providing human material needs without cataclysmic breakdown. If high-energy society is energetically impossible as anything more than a pulse in the long run of human history, then it cannot be sustainable.
 
 The task is not to sustain the consumer society but to redesign for a conserver future. This requires letting go of attachments to growth-based prosperity and embracing a different kind of wealth: health, community, skills, ecological function, and resilience. Holmgren suggests we need to "get over our naive and simplistic notions of sustainability as a likely reality for ourselves or even our grandchildren and instead accept that our task is to use our familiarity with continuous change to adapt to energy descent."
 
@@ -31,10 +32,10 @@ In developing a post-affluent culture it is not necessary to denigrate what pare
 
 ## See Also
 
-- [[permaculture-ethics]]
-- [[permaculture-community-scale-design]]
-- [[permaculture-global-crisis-response]]
-- [[competition-cooperation-permaculture]]
+- permaculture-ethics
+- permaculture-community-scale-design
+- permaculture-global-crisis-response
+- competition-cooperation-permaculture
 ## Practical Applications
 
 Consumer versus Conserver Society has a range of practical applications that make it relevant to
@@ -112,4 +113,6 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+- [[entheogen-bwiti-iboga-initiation-fang-society]]
+- [[ingham-worm-leachate-versus-aact-comparison]]
+- [[dominator-culture-and-partnership-society]]

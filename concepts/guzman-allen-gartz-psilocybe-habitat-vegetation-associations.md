@@ -8,7 +8,7 @@ created: 2026-05-08
 
 # Psilocybe Habitat Preferences and Vegetation Type Associations
 
-The global distribution of neurotropic fungi is not random but closely tied to
+The global [[global-distribution-of-neurotropic-fungi]] fungi is not random but closely tied to
 specific vegetation types and ecological niches. Guzmán's analysis of habitat
 associations across multiple continents reveals that the majority of
 Psilocybe species prefer particular forest types, with striking concentration
@@ -47,8 +47,8 @@ northern and southern fungal lineages overlap.
 The habitat preferences of neurotropic fungi fall into several broad
 ecological categories:
 
-**Temperate species**: *Claviceps purpurea*, *Amanita muscaria*, *Gymnopilus*
-spp., *Inocybe* spp., and *Psilocybe semilanceata*. These are confined to
+**Temperate species**: *[[bloomfield-ergot-claviceps-purpurea-ergotism]]*, *[[allegro-amanita-muscaria-properties-and-pharmacology]]*, *Gymnopilus*
+spp., *Inocybe* spp., and *[[liberty-cap-psilocybe-semilanceata-history-biology]]*. These are confined to
 temperate regions and are often associated with specific host plants.
 *A. muscaria* forms mycorrhizal associations with Pinus and Betula in northern
 hemisphere forests.
@@ -98,10 +98,10 @@ exploration there.
 Guzmán identified nine distribution types (following Hongo 1978) applicable
 to neurotropic fungi:
 
-1. **Cosmopolitan**: *Panaeolus* spp., *Panaeolina foenisecii*
+1. **Cosmopolitan**: *Panaeolus* spp., *[[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]*
 2. **Northern hemisphere**: *Amanita muscaria*, *Claviceps purpurea*
 3. **Eurasian**: *Psilocybe bohemica*, *P. serbica*
-4. **North American-Eastern Asiatic**: *Psilocybe cyanescens*
+4. **North American-Eastern Asiatic**: *[[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]*
 5. **Far Eastern**: species known only from Japan
 6. **Southeastern Asiatic**: species from SE Asia and Pacific
 7. **Tropical and subtropical**: *P. cubensis*, *Copelandia* spp.

@@ -1,5 +1,5 @@
 ---
-title: "How Do I Prevent and Fix Salt Buildup in Cannabis Soil?"
+title: "How Do I Prevent and Fix cervantes-salt-buildup-leaching-management in Cannabis Soil?"
 created: 2026-04-28
 tags: [query, cannabis, nutrients, soil, troubleshooting]
 date: 2026-04-25
@@ -20,7 +20,7 @@ nutrient sources release minerals slowly through microbial activity rather
 than dumping soluble salts directly into the medium. Incorporating
 perlite-cannabis|perlite, rice hulls, or other aeration materials into
 the soil mix improves drainage and helps prevent the conditions that
-favor salt accumulation in the root zone.
+favor [[jadam-salt-accumulation-in-soil]] in the root zone.
 
 Long-term management benefits from regular monitoring and record-keeping.
 Testing runoff EC weekly helps catch rising salt levels before they cause
@@ -114,4 +114,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

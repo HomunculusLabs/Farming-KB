@@ -12,8 +12,8 @@ type: entity
 
 **Type:** Species (Fungus)
 **Category:** Basidiomycota, [[psilocybin-mushroom]] that
-favors horse manure and rich grassland soils. Named for its dung
-habitat (fimetaria = "of dung"), it is known from North America,
+favors [[falconer-horse-manure-varieties]] and rich grassland soils. Named for its dung
+habitat (fimetaria = "of dung"), it is known from [[psilocybin-north-america-pacific-northwest]],
 Europe, and Chile, often fruiting in large rings during autumn. The
 species bears a fairly persistent, superior membranous annulus and
 bruisies bluish when injured, distinguishing it from similar
@@ -50,7 +50,7 @@ North America (Canada: BC and New Brunswick; Pacific NW: WA, OR, ID),
 Europe (Britain, Finland, Norway, Czech Republic), and South America
 (Chile). It typically fruits from October through November in the
 Northern Hemisphere, though Chilean collections have been made in
-August. The species often fruits in large rings (fairy rings), a
+August. The species often fruits in large rings ([[bloomfield-fairy-rings-armillaria-giant-fungi]]), a
 pattern indicating extensive underground [[psilocybe-semilanceata]]
 - [[psilocybe-southeast-asia-pacific]]
 - [[psilocybe-southeast-asia-pacific]]
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

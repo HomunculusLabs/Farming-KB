@@ -35,7 +35,7 @@ TIHKAL entry #33. 2-Me-DET is a synthetic tryptamine combining the diethyl subst
 
 ## Synthesis
 
-The synthesis follows the oxalyl chloride route. 2-Methylindole in TBME (tert-butyl methyl ether) is treated with a solution of oxalyl chloride in dichloromethane. The resulting 2-methylindoleglyoxyl chloride is filtered, washed with cold TBME, and reacted with diethylamine in dichloromethane. After workup, the intermediate N,N-diethyl-2-methylindoleglyoxamide is recrystallized from boiling THF (mp 170-172 degrees C).
+The synthesis follows the [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] route. 2-Methylindole in TBME (tert-butyl methyl ether) is treated with a solution of oxalyl chloride in dichloromethane. The resulting 2-methylindoleglyoxyl chloride is filtered, washed with cold TBME, and reacted with diethylamine in dichloromethane. After workup, the intermediate N,N-diethyl-2-methylindoleglyoxamide is recrystallized from boiling THF (mp 170-172 degrees C).
 
 Reduction is accomplished with Red-Al in dry toluene under nitrogen. After the ice bath is removed and stirring continues for 2 hours at room temperature plus an additional 3 hours at 60 degrees C, the excess hydride is destroyed. The product is extracted into hydrochloric acid, basified, and extracted into dichloromethane. The resulting free base is converted to the hydrochloride salt by treatment with ethereal HCl and recrystallized from methanol/acetone to give white crystals (mp 214-216 degrees C).
 
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

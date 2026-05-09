@@ -1,5 +1,5 @@
 ---
-title: "JADAM Soil Management -- No-Till and Weed Control"
+title: "JADAM Soil Management -- No-Till and fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
@@ -26,16 +26,16 @@ JADAM soil management centers on eliminating the compacted soil layer (plow pan)
 - Sow before harvesting fruit trees (seeds sprout under tree canopy)
 - Low nitrogen content -- good for nutrient balance
 - Leaves of fruit trees fall between rye plants, are not blown away
-- Complete nutrient recycling: "This is a perfect fertilizer program"
+- Complete nutrient recycling: "This is a perfect [[jadam-fertilizer-program-design]]"
 
 ### Other Cover Crops
-- **Sudan grass:** Annual summer crop, good as green manure, helps eliminate soil salt
+- **Sudan grass:** Annual summer crop, good as [[comparison-green-manure-guide-vs-mulch-types-and-effects]], helps eliminate soil salt
 - **Rapes:** Common green manure crop, no part wasted
 
 ### General Guidance
 - Broadcast seeds before harvesting fruit trees
 - If growing cover crop is difficult, use manure from grass-eating (herbivorous) animals
-- Manure from herbivores contains optimum nutritional balance for crops
+- Manure from herbivores contains optimum [[jadam-nutritional-balance-fertilizer]] for crops
 
 ## Nature's Three Rules for Fertilizer
 
@@ -44,7 +44,7 @@ Nature applies fertilizer in three ways:
 2. **Surface application** -- on top of soil, not tilled deep
 3. **Autumn application** -- before winter, not in spring
 
-This contrasts with modern agriculture which says: use fully fermented material, apply deep into soil, in spring. JADAM advocates following nature's model: apply fresh organic matter on the surface in autumn.
+This contrasts with modern agriculture which says: use fully fermented material, apply deep into soil, in spring. JADAM advocates following nature's model: apply fresh [[hamilton-composting-and-organic-matter-management]] on the surface in autumn.
 
 ## Crop Residues as Fertilizer
 
@@ -61,7 +61,7 @@ The practice of removing all crop residues ("field sanitation") is identified as
 
 ## References
 
-- Source: "JADAM Organic Farming" by [[natural-farming-philosophy]]
+- Source: "JADAM [[coleman-deep-organic-farming-philosophy]]" by [[natural-farming-philosophy]]
 - [[compost-tea-recipe-guide]]
 ## Practical Considerations
 
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

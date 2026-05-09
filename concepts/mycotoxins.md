@@ -16,11 +16,11 @@ type: concept
 
 # Mycotoxins
 
-Mycotoxins are toxic secondary metabolites produced by fungi, as
-distinct from the toxins found in mushroom fruiting bodies. While
+Mycotoxins are toxic [[antifungal-secondary-metabolites-coprophilous-fungi]] produced by fungi, as
+distinct from the toxins found in [[ectomycorrhizal-mushroom-fruiting-ecology]] bodies. While
 mushroom toxins are produced by differentiated fruiting structures,
 mycotoxins are synthesized by the mycelium during growth on food crops,
-building materials, and other substrates. Mycotoxins represent a
+[[natural-building-materials-guide]], and other substrates. Mycotoxins represent a
 serious threat to human and animal health, causing acute poisoning,
 cancer, and immune suppression through contaminated food supplies.
 
@@ -30,7 +30,7 @@ Aflatoxins are among the most potent naturally occurring carcinogens.
 They are organic molecules with a ring structure perfectly suited for
 reaction with the DNA double helix. When aflatoxins enter human cells,
 they bind to DNA molecules (creating an adduct) and cause serious
-genetic damage that can lead to liver cancer. These compounds are
+genetic damage that can lead to [[cannabis-and-liver-cancer-research]]. These compounds are
 synthesized by two species of conidial fungi, *[[stachybotrys-chartarum]]*, the infamous "black mold," produces toxic
 metabolites called macrocyclic trichothecenes that caused blood vessels
 to hemorrhage in the lungs of ten infants in Cleveland, Ohio, in 1993
@@ -63,7 +63,7 @@ The default hypothesis is that toxins are byproducts of essential
 biochemical reactions, unavoidable biochemical trash. More considered
 views suggest they evolved as anticompetitor agents against other
 microorganisms, as defense chemicals against invertebrate predators, or
-even as regulators of fungal development. The production of mycotoxins
+even as regulators of [[steroidal-regulation-fungal-development-growth]]. The production of mycotoxins
 in minute quantities in soil and plant tissues may create locally toxic
 fungal challenge of nitrogen shortage, as plant tissues yield sugar but negligible protein.
 
@@ -72,10 +72,10 @@ fungal challenge of nitrogen shortage, as plant tissues yield sugar but negligib
 Ergotism is a classic example of poisoning by food contaminated with a
 fungal microorganism. Caused by *[[bloomfield-aspergillus-biology-and-aflatoxins]]
 
-- [[bloomfield-poisonous-mushrooms-and-mycotoxins]]
+- bloomfield-poisonous-mushrooms-and-mycotoxins
 
 - [Amanita Phalloides (Death Cap)]([[amanita-phalloides-death-cap]].md)
-- [Fungal Pathogens and Human Disease]([[fungal-spore-biology]](fungal-spore-biology.md)
+- [[bloomfield-fungal-pathogens-and-parasites]] and Human Disease]([[fungal-spore-biology]](fungal-spore-biology.md)
 - [[mycelial-networks]](mycelium-network.md)
 
 ## References

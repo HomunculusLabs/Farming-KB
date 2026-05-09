@@ -4,11 +4,12 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [herbalism, herbs, medicine]
-sources: []
+sources:
+  sources: []
 ---
 # Herbal Medicine Safety
 
-The safety of herbal medicine depends on proper identification of plant materials, appropriate dosing, awareness of potential herb-drug interactions, understanding of individual contraindications, and responsible sourcing and preparation. While herbs are natural substances, this does not mean they are inherently safe; many medicinal plants contain potent pharmacologically active compounds that can cause adverse effects if misused.
+The safety of herbal medicine depends on proper identification of plant materials, appropriate dosing, awareness of potential herb-drug interactions, understanding of individual contraindications, and responsible sourcing and preparation. While herbs are natural substances, this does not mean they are inherently safe; many medicinal plants contain potent pharmacologically active compounds that can cause [[blesching-cannabis-safety-adverse-effects-evidence]] if misused.
 
 A systematic approach to herbal safety helps practitioners and home users maximize therapeutic benefits while minimizing risks.
 
@@ -18,11 +19,11 @@ Accurate plant identification is the foundation of herbal safety. Many medicinal
 
 When wildcrafting (harvesting from the wild), practitioners should be confident in their identification skills and consult experienced botanists or herbalists when uncertain. Photographic documentation and reference to multiple field guides are recommended for any plant being harvested for medicine.
 
-Commercially sourced herbs should be obtained from reputable suppliers who provide botanical identification, country of origin, batch testing for contaminants (heavy metals, pesticides, microbial contamination), and certificates of analysis. Organic or sustainably wildcrafted sources are preferred to minimize exposure to agricultural chemicals.
+Commercially sourced herbs should be obtained from reputable suppliers who provide botanical identification, country of origin, batch testing for contaminants ([[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]], pesticides, microbial contamination), and certificates of analysis. Organic or sustainably wildcrafted sources are preferred to minimize exposure to agricultural chemicals.
 
 ## Dosing and Overdose
 
-Herbal medicine follows the principle that the dose determines whether a substance is a medicine or a poison. Many herbs have a wide therapeutic window (the range between the minimum effective dose and the toxic dose), but some have narrow windows that require careful dosing.
+Herbal medicine follows the principle that the dose determines whether a substance is a medicine or a poison. Many herbs have a wide [[blesching-cannabis-therapeutic-window-dosing]] (the range between the minimum effective dose and the toxic dose), but some have narrow windows that require careful dosing.
 
 Starting with low doses and gradually increasing (the titration approach) allows practitioners to assess individual tolerance and response. This is especially important for potent herbs, new users, children, elderly patients, pregnant or nursing women, and individuals with compromised liver or kidney function.
 
@@ -63,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

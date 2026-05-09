@@ -20,7 +20,7 @@ created: 2026-04-28
 
 ## Overview
 
-Ergonovine, also known as ergometrine, is a naturally occurring lysergamide ergot alkaloid produced by *Claviceps purpurea* and related fungi. It is distinguished from other ergot alkaloids by the presence of a primary amide at the C-8 position rather than the more complex peptide side chains of the ergopeptine group.
+Ergonovine, also known as ergometrine, is a naturally occurring lysergamide ergot alkaloid produced by *[[bloomfield-ergot-claviceps-purpurea-ergotism]]* and related fungi. It is distinguished from other ergot alkaloids by the presence of a primary amide at the C-8 position rather than the more complex peptide side chains of the ergopeptine group.
 
 The compound was first isolated in 1935 by Dudley and Moir and subsequently synthesized by Stoll and Hofmann in 1943. Its primary medical significance lies in its potent oxytocic activity — the ability to induce uterine contractions. Ergonovine has been used in obstetrics since the 1940s for the prevention and treatment of postpartum hemorrhage.
 
@@ -70,7 +70,7 @@ Ergonovine is a prescription medication worldwide and is not specifically schedu
 
 Ergonovine is produced commercially through fermentation of *Claviceps purpurea* cultures on rye or other cereal substrates. The fungal sclerotia (ergots) are harvested and processed to extract the full alkaloid complex, from which ergonovine is isolated through fractional crystallization.
 
-Total synthesis was first achieved by Stoll and Hofmann at Sandoz in 1943, starting from lysergic acid. This partial synthesis route converts lysergic acid to ergonovine through amide formation at the C-8 carboxyl group. The process established the structural relationship between lysergic acid and the natural ergot alkaloids.
+Total synthesis was first achieved by Stoll and Hofmann at Sandoz in 1943, starting from lysergic acid. This partial [[four-hydroxyindole-psilocin-synthesis-route-shirota]] converts lysergic acid to ergonovine through amide formation at the C-8 carboxyl group. The process established the [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] between lysergic acid and the natural ergot alkaloids.
 
 Semi-synthetic derivatives have been explored, including methylergonovine (methylergometrine), which has a methyl group on the amide nitrogen. Methylergonovine is the more commonly used pharmaceutical form today, offering slightly improved metabolic stability and reduced side effects compared to the parent compound.
 
@@ -89,7 +89,7 @@ Ergonovine belongs to the ergoline class of alkaloids, sharing the tetracyclic e
 Key related compounds include:
 - **Methylergonovine** — N-methyl derivative, more commonly prescribed
 - **Ergotamine** — ergopeptine with tripeptide side chain, used for migraine
-- **Ergine** (LSA) — amide of lysergic acid with dimethylamine, naturally occurring in morning glories
+- **Ergine** (LSA) — amide of lysergic acid with dimethylamine, naturally occurring in [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]]
 - **LSD-25** — diethylamide derivative with potent psychedelic activity
 
 ## Toxicology and Contraindications
@@ -98,7 +98,7 @@ Ergonovine carries significant risk at supratherapeutic doses. Overdose can prod
 
 The drug is contraindicated in patients with hypertension, cardiovascular disease, hepatic or renal impairment, and sepsis. It must not be used during pregnancy before delivery, as premature uterine contractions can compromise fetal oxygenation. Drug interactions with vasoconstrictors, sympathomimetic agents, and other ergot alkaloids can amplify adverse cardiovascular effects.
 
-The therapeutic index of ergonovine is relatively narrow compared to modern uterotonics like oxytocin. Methylergonovine has largely replaced ergonovine in clinical practice due to its improved safety profile. Nevertheless, ergonovine remains available and is used in resource-limited settings where methylergonovine may not be accessible.
+The therapeutic index of ergonovine is relatively narrow compared to modern uterotonics like oxytocin. Methylergonovine has largely replaced ergonovine in clinical practice due to its improved [[cannabis-safety-profile-and-overdose-risk]]. Nevertheless, ergonovine remains available and is used in resource-limited settings where methylergonovine may not be accessible.
 
 ## Natural Occurrence
 
@@ -106,7 +106,7 @@ Ergonovine is produced by several *Claviceps* species in addition to *C. purpure
 
 In ergot sclerotia, ergonovine typically constitutes 0.1–0.5% of dry weight, making it a minor component compared to the ergopeptine alkaloids. The ratio of ergonovine to ergopeptines varies between *Claviceps* species and is influenced by the stage of sclerotial development at harvest.
 
-Ergonovine has not been reliably detected in morning glory species (*Ipomoea* spp.) or other Convolvulaceae, which produce ergine (LSA) as their primary lysergamide alkaloid. This distribution suggests that ergonovine synthesis is largely restricted to the *Claviceps* genus and does not occur widely across lysergamide-producing plants.
+Ergonovine has not been reliably detected in [[golden-guide-morning-glory-and-ololiuqui]] species (*Ipomoea* spp.) or other Convolvulaceae, which produce ergine (LSA) as their primary lysergamide alkaloid. This distribution suggests that ergonovine synthesis is largely restricted to the *Claviceps* genus and does not occur widely across lysergamide-producing plants.
 
 ## See Also
 

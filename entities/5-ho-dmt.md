@@ -36,11 +36,11 @@ created: 2026-04-28
 
 **5-HO-DMT** (5-hydroxy-N,N-dimethyltryptamine), commonly known as bufotenine or bufotenin, is a naturally occurring tryptamine alkaloid and a positional isomer of serotonin.
 
-It is found in the skin and venom glands of several toad species (Bufo alvarius, Bufo marinus) and in numerous plant species including Anadenanthera peregrina and Anadenanthera colubrina.
+It is found in the skin and venom glands of several toad species (Bufo alvarius, Bufo marinus) and in numerous plant species including [[yopo-anadenanthera-peregrina-snuff]] and Anadenanthera colubrina.
 
 Bufotenine has been used as an entheogen for at least 4,000 years, principally in the form of snuff powders prepared from Anadenanthera seeds (yopo and cebil).
 
-It is classified as a Schedule I controlled substance in the United States and is internationally regulated under the UN Convention on Psychotropic Substances.
+It is classified as a Schedule I controlled substance in the [[dmt-containing-plants-united-states-halpern]] and is internationally regulated under the UN Convention on Psychotropic Substances.
 
 The compound was profiled in TIHKAL by Alexander and Ann Shulgin, who assigned it the entry number 31.
 
@@ -84,7 +84,7 @@ Common doses (10–40 mg insufflated or 2–8 mg vaporized) produce pronounced v
 
 The experience is generally described as less cerebral and more "body-centered" than DMT, with prominent somatic sensations including pressure, warmth, and vibration.
 
-High doses (40+ mg) can produce overwhelming visionary states, ego dissolution, and purgative effects including nausea and vomiting.
+High doses (40+ mg) can produce overwhelming visionary states, [[psilocybin-ego-dissolution-mechanisms]], and purgative effects including nausea and vomiting.
 
 The compound has been reported to produce a pronounced "afterglow" period characterized by enhanced mood and clarity lasting several hours post-experience.
 
@@ -102,7 +102,7 @@ Trace amounts have been detected in human urine as a normal metabolite, and elev
 
 ## Legal Status
 
-In the United States, bufotenine is classified as Schedule I under the Controlled Substances Act.
+In the United States, bufotenine is classified as Schedule I under the Controlled [[controlled-substances-act-and-psychedelic-research]].
 
 Internationally, it is listed in Schedule I of the UN Convention on Psychotropic Substances (1971).
 

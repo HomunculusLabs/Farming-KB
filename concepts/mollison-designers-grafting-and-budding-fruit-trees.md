@@ -1,5 +1,5 @@
 ---
-title: Grafting and Budding Fruit Trees
+title: Grafting and comparison-grafting-vs-budding-fruit-trees Trees
 created: 2026-04-28
 tags:
   - fruit-tree-care
@@ -17,7 +17,7 @@ type: concept
 # Grafting and Budding Fruit Trees
 
 Grafting and budding are essential propagation skills in Bill
-Mollison's Permaculture: A Designers Manual for establishing and
+Mollison's Permaculture: A [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] for establishing and
 maintaining diverse fruit tree systems. These techniques allow growers
 to combine desirable fruiting characteristics (scion) with adapted
 root systems (rootstock), enabling the replication of superior varieties
@@ -26,22 +26,22 @@ ensure pollination.
 
 ## Why Graft? The Role of Rootstock and Scion
 
-Mollison explains that most comparison pruning fruit do not grow "true to type" from
+Mollison explains that most comparison [[fukuoka-pruning-fruit-tree-natural-management]] do not grow "true to type" from
 seed. A seed from a delicious apple will produce a tree with unknown
 fruit quality. Grafting solves this by attaching a cutting (scion) from
 a known variety to a rooted plant (rootstock). The rootstock provides:
 
-- Adaptation to local lowenfels aerobic anaerobic (heavy clay, sandy, wet, dry)
+- Adaptation to local lowenfels [[lowenfels-aerobic-anaerobic-soil-conditions]] (heavy clay, sandy, wet, dry)
 - Disease and pest resistance (especially to soil-borne pathogens)
 - Size control (dwarf, semi-dwarf, or standard tree)
 - Precocity (earlier bearing in dwarf rootstocks)
-- Cold hardiness or drought tolerance
+- Cold hardiness or [[dighton-fungal-drought-tolerance-plant-water-relations]]
 - Anchorage and vigor
 
-The scion determines fruit variety, quality, flavor, ripening time,
+The scion determines [[old-fruit-variety-selection]], quality, flavor, ripening time,
 and storage characteristics. The combination of rootstock and scion
 allows permaculture designers to match trees precisely to their
-[[food-forest-design]] design,
+ design,
 allowing rapid conversion of seedling trees to named varieties without
 waiting years for new plantings to bear.
 
@@ -61,7 +61,7 @@ T-budding advantages include:
 - Performed during summer when propagation work is otherwise slow
 - Suitable for a wide range of fruit species
 
-T-budding is typically done in mid-summer (June-August in [[village-development-in-permaculture]] projects.
+T-budding is typically done in mid-summer (June-August in village-development-in-permaculture projects.
 
 ## Chip Budding
 
@@ -109,4 +109,7 @@ in sealed plastic bags with damp sphagnum moss in a refrigerator.
 
 ## See Also
 
-- [[mollison-designers-grafting-fruit-tree-propagation]]
+- mollison-designers-grafting-fruit-tree-propagation
+- [[comparison-grafting-vs-budding-fruit-trees]]
+- [[permaculture-design]]
+- [[mollison-designers-coppicing-management-of-legume-trees]]

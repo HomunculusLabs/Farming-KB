@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [query, mycoremediation, bioremediation, mushrooms, environment]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -19,15 +20,15 @@ produce a suite of extracellular enzymes including lignin peroxidases, manganese
 peroxidases, and laccases that can attack chemically complex pollutants that
 resist bacterial degradation.
 
-Oyster mushrooms (Pleurotus ostreatus and related species) are the most widely
+[[query-how-to-grow-oyster-mushrooms-at-home]] (Pleurotus ostreatus and related species) are the most widely
 used fungi for bioremediation and are often the first choice for both research
 and field applications. They are remarkably effective at breaking down petroleum
-hydrocarbons, polycyclic aromatic hydrocarbons (PAHs), and even some plastics.
-[[mycorrhizal-heavy-metal-uptake]] at mining sites,
+hydrocarbons, [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs), and even some plastics.
+mycorrhizal-heavy-metal-uptake at mining sites,
 industrial facilities, and agricultural land treated with contaminated
 fertilizers.
 
-Shiitake mushrooms (Lentinula edodes) produce ligninolytic enzymes that are
+[[query-how-to-grow-shiitake-mushrooms-on-logs]] ([[staycare-lentinula-edodes-in-bioremediation]]) produce [[singh-ligninolytic-enzymes-fungal-bioremediation]] that are
 effective against certain aromatic pollutants and chlorinated compounds. While
 less commonly deployed than oyster mushrooms for field remediation, shiitake has
 shown promising results in laboratory studies for degrading pentachlorophenol, a
@@ -40,7 +41,7 @@ The [[mycoremediation-techniques]].
 Field applications typically involve inoculating contaminated material with
 mushroom spawn, either by mixing spawn directly into contaminated soil or by
 creating contained treatment systems like biopiles or bioreactors. The
-[[mycoremediation-field-applications-case-studies]] worldwide.
+mycoremediation-field-applications-case-studies worldwide.
 
 ## Key Points
 - [[query-how-does-mycoremediation-work-and-what-can-fungi-clean-up]]
@@ -62,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -104,4 +105,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

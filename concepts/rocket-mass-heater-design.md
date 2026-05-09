@@ -1,5 +1,5 @@
 ---
-title: Rocket Mass Heater Design
+title: query-what-is-a-rocket-mass-heater-and-how-does-it-work Heater Design
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -37,7 +37,7 @@ The heat riser must be insulated on the outside to maintain extreme internal tem
 
 ## Thermal Mass Bench Design
 
-The bench is where the rocket heater stores and slowly releases heat. It is the defining feature that distinguishes a rocket mass heater from a simple rocket stove.
+The bench is where the rocket heater stores and slowly releases heat. It is the defining feature that distinguishes a rocket mass heater from a simple [[comparison-rocket-stove-vs-masonry-heater]].
 
 ### Cob Bench
 
@@ -123,7 +123,7 @@ A cob bench is the most common and accessible approach:
 
 - Rocket mass heaters are not code-approved in most jurisdictions
 - Work with your building department; they may accept it as a masonry heater under certain code sections
-- The Masonry Heater Association of North America provides resources for code-compliant masonry heating
+- The Masonry Heater Association of [[psilocybin-north-america-pacific-northwest]] provides resources for code-compliant masonry heating
 
 ## Common Problems and Solutions
 

@@ -22,7 +22,7 @@ Once it tastes pleasantly sour, move it to cold storage to slow fermentation.
 
 ### What makes kimchi ferment?
 
-Kimchi ferments because salt-tolerant lactic-acid bacteria convert vegetable sugars into lactic acid.
+Kimchi ferments because salt-tolerant lactic-acid bacteria convert vegetable sugars into [[bionutrients-lab-lactic-acid-bacteria-serum]].
 That acid lowers pH and makes the environment less friendly to many spoilage organisms.
 The page [[lacto-fermentation-and-food-preservation-methods]] explains why acidification is a preservation strategy.
 Kimchi is therefore not preserved by sterility.

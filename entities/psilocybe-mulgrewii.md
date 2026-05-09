@@ -11,7 +11,7 @@ sources:
 
 # Psilocybe mulgrewii
 
-Psilocybe mulgrewii is a rare bluing Psilocybe species in section Cyanescens, first described from the Pacific Northwest of North America. It is closely related to [[psilocybe-cyanofibrillosa]], sharing their preference for coastal dune grass habitats and potent [[jochen-gartz]] and collaborators, named in honor of a contributor to the field of psilocybian mycology. It was segregated from the broader [[stamets-psi-psilocybe-azurescens-species-guide]], [[psilocybe-stuntzii-profile]], and P. mulgrewii. Gartz's work in the 1990s was instrumental in clarifying the taxonomy of the group, drawing on both morphological analysis and preliminary molecular sequencing to support the recognition of P. mulgrewii as a distinct species. Despite these advances, the species has received far less attention than its more famous relatives, and many aspects of its biology remain to be investigated.
+Psilocybe mulgrewii is a rare bluing Psilocybe species in section Cyanescens, first described from the Pacific Northwest of [[psilocybin-north-america-pacific-northwest]]. It is closely related to [[psilocybe-cyanofibrillosa]], sharing their preference for coastal dune grass habitats and potent [[jochen-gartz]] and collaborators, named in honor of a contributor to the field of psilocybian mycology. It was segregated from the broader [[stamets-psi-psilocybe-azurescens-species-guide]], [[psilocybe-stuntzii-profile]], and P. mulgrewii. Gartz's work in the 1990s was instrumental in clarifying the taxonomy of the group, drawing on both morphological analysis and preliminary molecular sequencing to support the recognition of P. mulgrewii as a distinct species. Despite these advances, the species has received far less attention than its more famous relatives, and many aspects of its biology remain to be investigated.
 
 ## Taxonomy and Naming
 
@@ -25,7 +25,7 @@ The pileus ranges from 15 to 40 mm in diameter, convex to broadly convex, expand
 The stipe context is fibrous and tough, becoming stringy when torn. Blue staining typically begins at the base and progresses upward, often appearing most intensely where the stipe has been handled or compressed. In some specimens, the entire stipe may turn dark blue-black within minutes of collection, making this one of the most striking field characters of the species.
 
 ### Spores and Microscopic Features
-Basidiospores are (11)12 to 15(16) × 7 to 9 μm, elliptical to somewhat amygdaliform in face view, thick-walled, with a distinct germ pore. The thick spore walls are characteristic of section Cyanescens and may serve as an adaptation to the harsh coastal environment, potentially aiding in spore survival during periods of desiccation or UV exposure. Spore print is dark purplish brown to nearly black. Cheilocystidia are ventricose to lageniform with narrow necks, sometimes with a subcapitate apex, measuring 20 to 35 × 5 to 10 μm. Pleurocystidia are similar but less frequent. Basidia are four-spored, clavate. The pileipellis is an ixocutis of narrow, gelatinized hyphae.
+Basidiospores are (11)12 to 15(16) × 7 to 9 μm, elliptical to somewhat amygdaliform in face view, thick-walled, with a distinct germ pore. The thick spore walls are characteristic of section Cyanescens and may serve as an adaptation to the harsh coastal environment, potentially aiding in spore survival during periods of desiccation or UV exposure. [[comparison-spore-print-collection-vs-spore-syringe-production]] is dark purplish brown to nearly black. Cheilocystidia are ventricose to lageniform with narrow necks, sometimes with a subcapitate apex, measuring 20 to 35 × 5 to 10 μm. Pleurocystidia are similar but less frequent. Basidia are four-spored, clavate. The pileipellis is an ixocutis of narrow, gelatinized hyphae.
 
 The germ pore is prominent and truncate, visible under oil immersion at 1000× magnification. Spore wall thickness has been measured at approximately 1.0–1.5 μm, which is at the upper end of the range for the genus. This robust spore morphology likely enhances survival in the exposed coastal dune environment where spores may be subjected to UV radiation, salt spray, and periodic desiccation.
 
@@ -45,9 +45,9 @@ These values place P. mulgrewii in the moderate range of potency among section C
 - [[stamets-psi-psilocybe-cyanescens-species-guide]] — Typically found in urban woodchip beds, mulched gardens, and landscaped areas rather than dune grasslands. Generally larger with a more pronounced undulating cap margin when mature and a more robust overall stature.
 - [[psilocybe-cubensis-potency-variation-by-flush]] due to their requirement for cooler temperatures and more specific substrate conditions. The species likely requires woody or lignicolous substrates similar to its close relatives, and the cool maritime climate conditions that trigger fruiting in nature would need to be replicated artificially.
 
-Based on successful cultivation methods for related species, a plausible approach would involve inoculating pasteurized alder or Douglas-fir sawdust supplemented with wheat bran, colonizing at 18–22°C, and initiating fruiting with a cold shock to 8–12°C combined with high humidity (95%+) and ambient light. Outdoor cultivation in coastal climates, burying colonized woodchip or sawdust blocks in sandy dune grass areas, may be the most practical method, though this has not been formally documented for P. mulgrewii. The species' apparent rarity in nature may reflect specific mycorrhizal or endophytic associations with dune grasses that are difficult to replicate in cultivation.
+Based on successful [[synthetic-log-cultivation-methods-guide]] for related species, a plausible approach would involve inoculating pasteurized alder or Douglas-fir sawdust supplemented with wheat bran, colonizing at 18–22°C, and initiating fruiting with a [[growing-gourmet-cold-shock-temperature-initiation-fruiting]] to 8–12°C combined with high humidity (95%+) and ambient light. Outdoor cultivation in coastal climates, burying colonized woodchip or sawdust blocks in sandy dune grass areas, may be the most practical method, though this has not been formally documented for P. mulgrewii. The species' apparent rarity in nature may reflect specific mycorrhizal or endophytic associations with dune grasses that are difficult to replicate in cultivation.
 
-Isolation of a clean culture from a wild specimen would require cloning from fresh tissue onto antibiotic-amended agar media, followed by successive transfers to establish a vigorous strain. Maintaining the species in culture long-term presents challenges, as section Cyanescens species are reported to lose vigor after repeated subculturing on artificial media. Cryopreservation or periodic return to wood-based substrates may help maintain culture health. Any cultivation attempts should be documented and voucher specimens deposited in herbaria to advance scientific understanding of this poorly known species.
+Isolation of a clean culture from a wild specimen would require cloning from fresh tissue onto antibiotic-amended [[growing-gourmet-agar-media-formulas-preparation]], followed by successive transfers to establish a vigorous strain. Maintaining the species in culture long-term presents challenges, as section Cyanescens species are reported to lose vigor after repeated subculturing on artificial media. Cryopreservation or periodic return to wood-based substrates may help maintain culture health. Any cultivation attempts should be documented and voucher specimens deposited in herbaria to advance scientific understanding of this poorly known species.
 
 ## See Also
 
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

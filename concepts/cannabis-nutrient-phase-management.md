@@ -1,5 +1,5 @@
 ---
-title: Cannabis Nutrient Phase Management
+title: green-cannabis-nutrient-schedules Phase Management
 created: 2026-04-28
 tags: [cannabis, nutrients, growing, plant-nutrition]
 date: 2026-04-25
@@ -12,7 +12,7 @@ type: concept
 
 ## Overview
 
-Cannabis nutrient management is one of the most critical skills for
+Cannabis [[green-cannabis-grow-bible-nutrient-management-ppm]] is one of the most critical skills for
 successful cultivation. The plant's nutritional requirements shift
 dramatically between vegetative and flowering phases. Understanding
 NPK ratios, secondary nutrients, micronutrients, and deficiency
@@ -31,11 +31,11 @@ The secondary nutrients are Calcium (Ca), Magnesium (Mg), and
 Sulfur (S), sometimes abbreviated as CaMgS. While needed in smaller
 quantities than NPK, deficiencies in secondary nutrients can cause
 significant growing problems. Magnesium problems are particularly
-common in cannabis cultivation.
+common in [[query-how-does-no-till-cannabis-cultivation-work]].
 
 The seven micronutrients are iron, boron, chlorine, manganese, copper,
 zinc, and molybdenum. These are required in trace amounts and rarely
-present problems unless nutrient lockout occurs, where excess of one
+present problems unless [[cannabis-nutrient-lockout-and-ph]] occurs, where excess of one
 nutrient prevents absorption of others.
 
 ## Vegetative Phase Nutrient Requirements
@@ -62,7 +62,7 @@ represented. A bag labeled 10-20-0 would be insufficient.
 
 ## Flowering Phase Nutrient Requirements
 
-When cannabis transitions to flowering under a 12/12 light schedule,
+When cannabis transitions to flowering under a 12/12 [[query-best-light-schedule-for-cannabis]],
 its nutritional needs shift dramatically. Phosphorus becomes the most
 critical nutrient, as it drives flower and resin production. Nitrogen
 requirements decrease significantly; excess nitrogen during flowering
@@ -107,7 +107,7 @@ water to remove excess salts and restore chemical balance.
 
 The source text provides a systematic approach to diagnosing nutrient
 problems. A chemical burn from overfeeding presents differently from a
-true nutrient deficiency: burns start at leaf tips and progress inward
+true [[cannabis-grow-nutrient-deficiency-problem-solving]]: burns start at leaf tips and progress inward
 with crispy, ash-like tissue, while deficiencies show as cell collapse
 with discoloration but without the burnt appearance.
 

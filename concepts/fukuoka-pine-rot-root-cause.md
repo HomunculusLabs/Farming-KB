@@ -1,20 +1,21 @@
 ---
-title: Fukuoka Pine Rot Research
+title: Fukuoka fukuoka pine rot root cause Research
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# [[gaias-garden-forest-garden-installation-phased-design]] Rot Research
+# gaias-garden-forest-garden-installation-phased-design Rot Research
 
 Masanobu Fukuoka conducted a three-year investigation into the pine rot epidemic devastating Japan's forests, setting up a makeshift laboratory in his [[mycelium-running-mycelium-soil-building]] microbe community."
 
 ## Environmental Factors
 
-Fukuoka identified multiple contributing factors:
+Fukuoka identified multiple [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]]:
 - Soil pH was extremely acidic (3.2-4.8) in affected areas
 - Air pollution and pesticides provoked pine rot by killing beneficial microbes
 - Imported lumber introduced non-native pathogens
@@ -30,9 +31,9 @@ Fukuoka suggested a two-step emergency response:
 
 During his research, Fukuoka stumbled upon a method for artificially cultivating matsutake -- something no researcher had achieved in glass bottles despite forty years of trying. His key insight: instead of treating matsutake as just a fungus, he tried "thinking of it as an advanced form of life on a par with man."
 
-He discovered that matsutake likes chawan-mushi (Japanese egg pudding). Using soy sauce in the culture medium produced successful growth. However, when he took his first successful culture outside to photograph it, the direct sunlight killed the mycelia in about an hour (they die at 86 degrees Fahrenheit).
+He discovered that matsutake likes chawan-mushi (Japanese egg pudding). Using soy sauce in the [[fukuoka-matsutake-culture-medium-appendix]] produced successful growth. However, when he took his first successful culture outside to photograph it, the direct sunlight killed the mycelia in about an hour (they die at 86 degrees Fahrenheit).
 
-But his enthusiasm as a scientist "suddenly cooled" when he realized that artificial cultivation could lead to "locking up this forest sprite in a bottle." He concluded: "My true desire is to leave the secrets of the mountains as secrets. We must not create a spurious nature." His microscope went back in the closet.
+But his enthusiasm as a scientist "suddenly cooled" when he realized that [[fukuoka-matsutake-artificial-cultivation-attempt]] could lead to "locking up this forest sprite in a bottle." He concluded: "My true desire is to leave the secrets of the mountains as secrets. We must not create a spurious nature." His microscope went back in the closet.
 
 ## The American Connection
 
@@ -52,6 +53,8 @@ updated: 2026-04-18
 
 ## See Also
 
+- [[fukuoka-pine-rot-soil-acidity]]
+
 - [[fukuoka-pine-bark-weevil-ecology]]
 ## Practical Considerations
 
@@ -69,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

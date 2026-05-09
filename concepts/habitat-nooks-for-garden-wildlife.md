@@ -1,5 +1,5 @@
 ---
-title: Habitat Nooks for Garden Wildlife
+title: Habitat habitat nooks for garden wildlife Wildlife
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Creating small wildlife habitat features -- "habitat nooks" -- throughout the garden is one of the most effective and low-effort methods for attracting beneficial predators. By strategically placing piles of stones, logs, brush, and small water features near planting areas, gardeners can establish resident populations of lizards, frogs, snakes, and birds that provide continuous pest control without any human labor.
+Creating small wildlife habitat features -- "habitat nooks" -- throughout the garden is one of the most effective and low-effort methods for attracting beneficial predators. By strategically placing piles of stones, logs, brush, and small water features near planting areas, gardeners can establish resident populations of lizards, frogs, snakes, and birds that provide continuous [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] without any human labor.
 
 ## Principle
 
@@ -47,7 +47,7 @@ Even tiny water features dramatically increase wildlife diversity. A half-barrel
 - Birds (drinking and bathing)
 - Beneficial aquatic insects
 
-Small puddles and saucers of water scattered through the garden provide drinking water for many beneficial insects and birds.
+Small puddles and saucers of water scattered through the garden provide drinking water for many [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] and birds.
 
 ### Insect Hotels
 Structured bundles of hollow stems, bamboo sections, drilled wood blocks, and pine cones provide nesting sites for solitary bees, wasps, and other beneficial insects. These can be simple (a bundle of hollow stems tied together) or elaborate (multi-story wooden structures).
@@ -55,7 +55,7 @@ Structured bundles of hollow stems, bamboo sections, drilled wood blocks, and pi
 ## Placement Strategy
 
 Place habitat nooks near:
-- Apple guilds and other fruit tree guilds
+- Apple guilds and other [[comparison-berry-growing-vs-fruit-tree-pruning]] guilds
 - Vegetable beds prone to pest problems
 - Areas where slug damage is common
 - The interface between garden and wild areas
@@ -65,7 +65,7 @@ Avoid placing nooks directly in the center of frequently cultivated beds where t
 
 ## Predator-Prey Balance
 
-The key insight from ecological garden design is that predators preserve balance. When any prey species -- caterpillars, aphids, slugs, or similar -- finds a home in the lush garden and begins to reproduce rapidly, a waiting population of predators will cull their numbers with what the source text describes as "chilling efficiency." This creates self-regulating pest control that requires no human intervention.
+The key insight from ecological [[comparison-mandala-garden-design-vs-keyhole-garden-design]] is that predators preserve balance. When any prey species -- caterpillars, aphids, slugs, or similar -- finds a home in the lush garden and begins to reproduce rapidly, a waiting population of predators will cull their numbers with what the source text describes as "chilling efficiency." This creates self-regulating pest control that requires no human intervention.
 
 ## Design Integration
 
@@ -91,4 +91,4 @@ Habitat nooks require minimal maintenance:
 - [[bird-habitat-creation]]
 - [[backyard-pond-building]]
 - [[apple-guild-design-guide]]
-- [[permaculture-designers-manual-food-forest-guilds]]
+- permaculture-designers-manual-food-forest-guilds

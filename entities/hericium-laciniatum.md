@@ -11,7 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Corner, E.J.H. (1966). "A Monograph of Cantharellus and Allied Genera." Annals of Botany Memoirs, No. 2. Oxford University Press.
-  - Harrison, K.A. (1973). "The Genus Hericium in North America." Michigan Botanist 12: 165-179.
+  - Harrison, K.A. (1973). "The Genus Hericium in [[psilocybin-north-america-pacific-northwest]]." Michigan Botanist 12: 165-179.
   - Petersen, R.H. (1984). "Type Studies in the Hericiaceae." Mycotaxon 20: 379-388.
   - Kuo, M. (2023). "Hericium Species of North America." MushroomExpert.com.
   - Index Fungorum. "Hericium laciniatum (Leers) Pers." www.indexfungorum.org.created: 2026-05-07
@@ -21,7 +21,7 @@ created: 2026-05-07
 
 ## Overview
 
-Hericium laciniatum, commonly known as the bear's head tooth fungus or coral tooth mushroom, is a species of edible mushroom in the family Hericiaceae. It produces cascading, branched fruiting bodies with long, slender spines hanging from a central core, resembling a waterfall of white icicles.
+Hericium laciniatum, commonly known as the bear's head tooth fungus or coral tooth mushroom, is a species of [[bloomfield-boletus-satanus-edible-mushroom-hazards]] in the family Hericiaceae. It produces cascading, branched fruiting bodies with long, slender spines hanging from a central core, resembling a waterfall of white icicles.
 
 The species is closely related to and often confused with lion's mane (Hericium erinaceus). It is valued both as a choice edible and for its potential medicinal properties, including neuroprotective and immunomodulatory compounds shared with other Hericium species.
 
@@ -39,11 +39,11 @@ The species is closely related to and often confused with lion's mane (Hericium 
 
 **Synonyms:**
 
-- Hericium ramosum (Merat) Banker (1906), widely used in North American literature.
+- Hericium ramosum (Merat) Banker (1906), widely used in [[growing-gourmet-north-american-reishi-species]] literature.
 - Hydnum ramosum Merat (1821).
 - Merisma laciniatum (Leers) Kuntze (1891).
 
-Some authorities consider H. laciniatum conspecific with H. coralloides, while others maintain them as distinct species based on spine morphology and substrate preference. The debate continues in modern mycological literature.
+Some authorities consider H. laciniatum conspecific with H. coralloides, while others maintain them as distinct species based on spine morphology and substrate preference. The debate continues in [[telluride-mushroom-festival-modern-mycological-culture]] literature.
 
 ## Morphology
 
@@ -84,7 +84,7 @@ Hericium laciniatum is cultivated on a smaller commercial scale than H. erinaceu
 
 **Fruiting conditions:** Requires a cold shock or temperature drop (to 15–18°C) to initiate primordia. High humidity (90–95%) is critical during pinning. Fresh air exchange is essential — elevated CO₂ leads to distorted, elongated growth.
 
-**Yield:** Biological efficiency ranges from 50–85%, lower than the 100–150% achievable with H. erinaceus. The species is sensitive to contamination, particularly Trichoderma, during the spawn run.
+**Yield:** [[stamets-biological-efficiency-yield]] ranges from 50–85%, lower than the 100–150% achievable with H. erinaceus. The species is sensitive to contamination, particularly Trichoderma, during the spawn run.
 
 **Harvest:** Fruit bodies should be harvested when spines are fully elongated but still white. Post-harvest shelf life is limited — 5–7 days refrigerated.
 
@@ -117,13 +117,17 @@ The species is commercially available dried and as a dietary supplement in some 
 
 ## Ecological Role
 
-As a white-rot fungus, H. laciniatum plays an important role in forest nutrient cycling. It decomposes lignin and cellulose in dead hardwood, releasing nutrients back into the soil for uptake by plants and other organisms.
+As a white-rot fungus, H. laciniatum plays an important role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. It decomposes lignin and cellulose in dead hardwood, releasing nutrients back into the soil for uptake by plants and other organisms.
 
 The species serves as a food source for various forest invertebrates and small mammals. Slugs and insects feed on the fruiting body, while squirrels have been observed consuming mature specimens.
 
 In forest ecology, H. laciniatum is an indicator species for old-growth conditions. Its presence suggests a mature forest with significant coarse woody debris and minimal disturbance. It contributes to the structural complexity of dead wood habitats, providing microhabitats for insects and microorganisms.
 
-## Related Species
+## Related
+
+- [[hericium-abietis]]
+- [[hericium-novae-zealandiae]]
+- [[hericium-americanum]] Species
 
 - **[[hericium-coralloides]]** — Very similar; some authorities treat it as conspecific with H. laciniatum. Tends to have shorter, more tightly clustered spines.
 - **[[trametes-versicolor-entity]]** — Turkey tail; another white-rot saprotroph on hardwood, though morphologically very different (shelf-like rather than toothed).

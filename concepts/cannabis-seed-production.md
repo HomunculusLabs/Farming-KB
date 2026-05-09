@@ -1,5 +1,5 @@
 ---
-title: Cannabis Seed Production
+title: Cannabis cervantes-seed-production-storage
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -14,7 +14,7 @@ Seed production in cannabis is the process of deliberately pollinating
 female plants to create viable seeds for future cultivation or breeding
 programs. Cervantes provides detailed guidance on making seeds at both
 small and commercial scales, covering parent selection, pollination
-techniques, seed crop care, and harvest timing.
+techniques, seed crop care, and [[cannabis-harvest-timing-visual-cues]].
 
 ## Overview of Seed Formation
 
@@ -32,7 +32,7 @@ ensuring only cannabis pollen can germinate on the stigmatic surface.
 Selecting female plants for breeding is relatively straightforward
 because all important traits -- potency, flavor, yield, smell, resin
 content, floral stature -- are directly observable in female flowers.
-The breeder watches flowers develop over the life cycle, harvests bud
+The breeder watches flowers develop over the [[bloomfield-fungal-life-cycle-spiral-versus-circle]], harvests bud
 samples from each plant, and evaluates growth and smoking
 characteristics. Post-harvest evaluation allows additional inspection
 of aromas and flavors as flowers dry and cure.
@@ -57,7 +57,7 @@ remaining pollen into the bag. See also
 
 - [[cannabis-pollen-collection]]
 - [[cannabis-seed-storage-and-viability]]
-- green cannabis grow bible seed germination methods
+- green [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] bible [[cannabis-seed-germination-methods]] methods
 - [[cannabis-seedling-care-guide]]
 - [[cannabis-sinsemilla-life-cycle]]
 ## Practical Considerations
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Mushrooms Overview
+title: forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc Overview
 created: 2026-04-28
 tags: [psilocybin, mushrooms, mycology, psychedelics, entheogens]
 date: 2026-04-28
@@ -41,13 +41,13 @@ or ego-dissolution experiences commonly reported with psilocybin.
 The genus Psilocybe contains the largest number of psychoactive species, with
 over one hundred described worldwide. Psilocybe cubensis is the most widely
 cultivated species due to its robust growth, moderate potency, and large fruit
-bodies. Psilocybe semilanceata (liberty cap) is among the most potent naturally
+bodies. [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] (liberty cap) is among the most potent naturally
 occurring species and is common in temperate grasslands of Europe and North
-America. Psilocybe azurescens, found in the Pacific Northwest of the United
+America. [[stamets-psi-psilocybe-azurescens-species-guide]], found in the Pacific Northwest of the United
 States, is one of the most potent known species.
 
 Other genera containing psilocybin-producing species include Panaeolus
-(particularly Panaeolus cyanescens, a tropical species of moderate to high
+(particularly [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]], a tropical species of moderate to high
 potency), Gymnopilus (wood-inhabiting mushrooms with orange to rusty-brown
 spores), Copelandia (often considered a section of Panaeolus), and Inocybe.
 Mycena species have also been found to contain psilocybin in recent chemical
@@ -66,7 +66,7 @@ spore size and shape.
 The bluing reaction, caused by the oxidation of psilocin and related
 compounds, is a useful but not definitive indicator of psychoactivity. Several
 non-psychoactive mushrooms also exhibit bluing reactions, and some
-psychoactive species bruise minimally or not at all. Microscopic examination
+psychoactive species bruise minimally or not at all. [[fungal-microscopic-examination-mounting-media-techniques]]
 of spore morphology and cystidia (sterile cells on gill edges) is often
 necessary for definitive species identification.
 
@@ -117,7 +117,7 @@ legal frameworks vary regarding possession, cultivation, and distribution.
 
 ## Contemporary Research and Therapeutic Applications
 
-Clinical research into psilocybin has experienced a renaissance since the
+[[hofmann-lsd-clinical-research-early-studies]] into psilocybin has experienced a renaissance since the
 early 2000s. Studies at institutions including Johns Hopkins University, Imperial
 College London, and Yale University have demonstrated efficacy in treating
 treatment-resistant depression, end-of-life anxiety, substance use disorders,

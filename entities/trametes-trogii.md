@@ -52,9 +52,9 @@ T. trogii produces an exceptionally active lignin-modifying enzyme complex that 
 
 **Laccase:** Produces very high laccase titers, among the highest reported for basidiomycetes. Laccase production is inducible by phenolic compounds, copper, and aromatic amines.
 
-**Manganese peroxidase (MnP):** Secretes MnP in liquid culture under manganese-supplemented conditions, contributing to lignin depolymerization.
+**[[fungal-manganese-peroxidase-remediation]] (MnP):** Secretes MnP in liquid culture under manganese-supplemented conditions, contributing to lignin depolymerization.
 
-**Versatile peroxidase (VP):** Some strains produce VP, which combines the catalytic properties of MnP and lignin peroxidase (LiP).
+**[[singh-versatile-peroxidase-vp-multifunctional]] (VP):** Some strains produce VP, which combines the catalytic properties of MnP and [[fungal-lignin-peroxidase-veratryl-alcohol]] (LiP).
 
 **Other enzymes:** Aryl-alcohol oxidase, manganese-independent peroxidase, and cellobiose dehydrogenase complement the ligninolytic system.
 
@@ -64,7 +64,7 @@ The robust enzyme system of T. trogii enables degradation of diverse environment
 
 **Dye decolorization:** Efficiently degrades synthetic dyes including azo, anthraquinone, triphenylmethane, and phthalocyanine dyes in textile wastewater.
 
-**Polycyclic aromatic hydrocarbons (PAHs):** Mineralizes benzo[a]pyrene, anthracene, phenanthrene, and pyrene in contaminated soils.
+**[[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs):** Mineralizes benzo[a]pyrene, anthracene, phenanthrene, and pyrene in contaminated soils.
 
 **Pesticide degradation:** Breaks down organophosphate insecticides and chlorinated herbicides.
 
@@ -80,13 +80,13 @@ Optimal growth temperature is 25–30°C. Laccase production peaks at pH 4.5–5
 
 Supplementation with copper sulfate (1–2 mM) or ferulic acid significantly induces laccase secretion.
 
-Submerged fermentation yields higher enzyme titers than solid-state fermentation for industrial enzyme production.
+[[cancer-medicinal-mushrooms-submerged-fermentation-production]] yields higher enzyme titers than solid-state fermentation for industrial enzyme production.
 
 Yields of crude laccase extract range from 5,000–40,000 U/L depending on strain and cultivation conditions.
 
 ## Ecological Role
 
-In forest ecosystems, T. trogii functions as a primary decomposer of coarse woody debris, facilitating nutrient cycling and carbon mineralization.
+In forest ecosystems, T. trogii functions as a primary decomposer of coarse woody debris, facilitating [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and carbon mineralization.
 
 Its aggressive [[trametes-versicolor-entity]] — Closest relative and most widely studied Trametes species for medicinal applications
 - [[phellinus-igniarius-entity]] — Fellow wood-decay fungus of hardwood ecosystems

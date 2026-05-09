@@ -8,10 +8,10 @@ tags: [psilocybin, psilocin, metabolism, 5-ht2a, tryptamine, pharmacology]
 # Psilocybin Metabolism and Psilocin Conversion
 
 Psilocybin and psilocin are the primary psychoactive compounds in
-hallucinogenic mushrooms. Understanding their pharmacokinetics —
+[[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]. Understanding their pharmacokinetics —
 how they are absorbed, metabolized, and act on the nervous system
 — is essential for understanding both their effects and their
-relative safety profile. This page draws primarily on the EMCDDA
+relative [[cannabis-safety-profile-and-overdose-risk]]. This page draws primarily on the EMCDDA
 2006 thematic paper on hallucinogenic mushrooms.
 
 ## Chemical Classification
@@ -73,7 +73,7 @@ present in hallucinogenic mushrooms:
 
 The relative concentrations of these four compounds vary
 significantly between species and even between individual specimens,
-contributing to the unpredictable potency of wild mushrooms.
+contributing to the unpredictable potency of [[edible-wild-mushrooms-by-region]].
 
 ## Serotonin Receptor Pharmacology
 
@@ -128,7 +128,7 @@ typically resolves within 3-7 days of abstinence.
 
 ## Toxicity Profile
 
-Psilocybin has a very high therapeutic index. The estimated lethal
+Psilocybin has a very high [[cannabis-therapeutic-index-overview]]. The estimated lethal
 dose (LD50) in humans is extremely high relative to the active dose
 — roughly 1,000 times the recreational dose. No confirmed deaths
 from psilocybin toxicity alone have been documented. The primary
@@ -136,6 +136,8 @@ risks are psychological (bad trips, precipitating psychosis in
 predisposed individuals) rather than physiological.
 
 ## See Also
+
+- [[psilocybin-biosynthesis-phosphatase-psilocin-conversion]]
 
 - [[psilocybin-chemistry-and-pharmacology]] - Comprehensive chemistry
 - [[psilocybin-tryptamine-chemistry-fungi]] - Fungal biosynthesis

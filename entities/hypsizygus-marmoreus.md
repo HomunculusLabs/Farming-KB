@@ -12,7 +12,7 @@ type: entity
 
 **Type:** Species
 **Category:** Basidiomycete ([[hypsizygus-tessulatus]] in some literature, reflecting historical
-taxonomic confusion. The species has attracted significant research
+[[neurotropic-fungi-taxonomic-confusion-and-identification]]. The species has attracted significant research
 attention due to its potent antitumour activity, particularly its
 strong inhibition ratio against solid Sarcoma 180 cancer cells and its
 demonstrated ability to prevent tumour metastasis in experimental
@@ -23,7 +23,7 @@ models.
 ### Taxonomy and Classification
 Hypsizygus marmoreus is a basidiomycete fungus in the order Agaricales.
 It grows on dead hardwood trees, particularly beech, in temperate
-forest environments. The fruiting body is small to medium-sized with a
+forest environments. The [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] is small to medium-sized with a
 brown, mottled cap that gives rise to the species epithet "marmoreus"
 (meaning marbled). The mushroom has a firm texture and a mild, nutty
 flavour that has contributed to its culinary popularity in Japan.

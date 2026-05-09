@@ -13,14 +13,14 @@ type: query
 
 ## Short Answer
 
-Bacterial dominant soil is rich in bacteria that break down organic matter quickly and support fast-growing annual plants.
+[[aact-bacterial-dominant-tea]] soil is rich in bacteria that break down organic matter quickly and support fast-growing annual plants.
 Fungal dominant soil contains more fungi that decompose complex materials slowly and benefit perennials and woody plants.
 Cannabis tends to prefer a slightly bacterial to balanced soil during vegetative growth and a more fungal soil during flowering.
 
 ## Detailed Explanation
 
-Soil microbiology is one of the most important yet often overlooked aspects of successful cannabis cultivation.
-The community of microorganisms living in your soil plays a massive role in nutrient cycling, disease suppression, and overall plant health.
+Soil microbiology is one of the most important yet often overlooked aspects of successful [[query-how-does-no-till-cannabis-cultivation-work]].
+The community of microorganisms living in your soil plays a massive role in nutrient cycling, [[aact-disease-suppression-mechanisms-ingham]], and overall plant health.
 Understanding the difference between bacterial dominant and fungal dominant soil helps growers tailor their growing media for specific stages of plant development.
 
 Bacterial dominant soils are characterized by a high ratio of bacteria to fungi.
@@ -42,15 +42,15 @@ The aeration process ensures that aerobic microorganisms thrive, which is essent
 Anaerobic conditions in compost tea can produce harmful pathogens and toxic compounds that damage plants.
 
 The [[query-how-does-living-soil-work-for-cannabis]] requires grasping the concept that soil is a living ecosystem, not just an inert growing medium.
-In a living soil system, the microbial community is responsible for making nutrients available to plants through biological processes rather than relying on synthetic fertilizers.
-The bacterial to fungal ratio is a key indicator of the health and function of this living ecosystem.
+In a living soil system, the [[edaphic-factors-microbial-community-structure]] is responsible for making nutrients available to plants through biological processes rather than relying on synthetic fertilizers.
+The [[ingham-bacterial-to-fungal-succession-soil-food-web]] ratio is a key indicator of the health and function of this living ecosystem.
 
 For growers interested in building their own microbial inoculants, [[query-what-is-the-soil-food-web-and-why-does-it-matter]] framework explains how bacteria and fungi fit into the larger soil ecosystem.
 Protozoa and nematodes feed on bacteria and fungi, releasing plant-available nutrients through their waste.
 This microbial loop ensures that nutrients are cycled continuously without the need for external fertilizer inputs, as long as the soil food web is intact and functioning properly.
 
 Environmental conditions play a significant role in determining whether soil will be bacterial or fungal dominant.
-Soil temperature, moisture content, pH, and the type of organic matter present all influence microbial community composition.
+Soil temperature, moisture content, pH, and the type of organic matter present all influence microbial [[core-endorhiza-bacterial-community-composition-cannabis]].
 Tilling soil disrupts fungal networks and tends to shift the balance toward bacterial dominance, which is why no-till methods generally promote more fungal rich soils.
 
 Mulching with woody materials, leaf litter, or straw encourages fungal growth at the soil surface.
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

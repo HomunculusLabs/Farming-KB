@@ -1,5 +1,5 @@
 ---
-title: JADAM Pesticide Dosage Guide
+title: JADAM jadam pesticide dosage guide Guide
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -30,9 +30,9 @@ Key rule: When increasing JHS, always increase JWA together. More JWA = more wet
 |---------|----------|-------|
 | Greenhouse start | 0.5L (0.13 gal) | Soft greenhouse leaves |
 | Open field start | 1L (0.26 gal) | Standard starting point |
-| Mild fungal disease | 1.2L (0.3 gal) | Powdery/downy mildew |
+| Mild [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] | 1.2L (0.3 gal) | Powdery/downy mildew |
 | Canker, black spot, rust | 1.5L (0.4 gal) | Stronger germicide |
-| Rice leaf blight | 2L (0.53 gal) | Maximum for growing season |
+| Rice leaf blight | 2L (0.53 gal) | Maximum for [[savory-growing-season-and-non-growing-season-management]] |
 | Winter fruit tree spray | 5L (1.3 gal) | Dormant season only |
 | Fog machine (17L tank) | 0.1L (0.03 gal) | Reduced proportionally |
 
@@ -52,7 +52,7 @@ Key rule: JHS causes little concentration stress -- you can increase more freely
 ### JADAM Microorganism Solution (JMS)
 | Purpose | JMS Volume | Notes |
 |---------|-----------|-------|
-| Standard preventive | 10L (2.6 gal) | Regular foliar application |
+| Standard preventive | 10L (2.6 gal) | Regular [[ultra-low-cost-foliar-application-methods]] |
 | Strong preventive | 20L (5.3 gal) | Maximum -- do not exceed |
 
 Key rule: Over 20L and microbes break down JWA, making it ineffective.
@@ -66,7 +66,7 @@ Key rule: Over 20L and microbes break down JWA, making it ineffective.
 | 3 | Rice pest/disease combo | 5L | 2L | 5L JA + 5L KPFR | -- |
 | 4 | Powdery/downy mildew | 3L | 1.2L | -- | Add 5L JHS + 5L JWA for pests |
 | 5 | Canker, black spot, rust | 5L | 1.5L | -- | -- |
-| 6 | Aphid and mite | 5L | -- | 5L Jerusalem artichoke | +1-2L JS for disease |
+| 6 | Aphid and mite | 5L | -- | 5L [[comparison-jerusalem-artichoke-vs-potato]] | +1-2L JS for disease |
 | 7 | Moth (general) | 8L | -- | 15L Jerusalem artichoke | +0.5kg red clay |
 | 8 | Planthopper, leafhopper | 10L | -- | 15L Gingko | +0.5kg red clay |
 | 9 | Stinkbug, thrips, whitefly | 10L | -- | 15L KPFR | Strongest of all |
@@ -92,7 +92,7 @@ JA = Jerusalem artichoke; KPFR = Korean pasque flower root
 - Greenhouses: spray on rainy days, or increase humidity then spray
 - Humidity check: spray water on plants; if it dries slowly, conditions are good
 - Apply in early stage of pest/disease outbreak for best results
-- Natural pesticide cycle: use 2 days shorter cycle than chemical pesticides
+- [[jadam-natural-pesticide-institute-and-research]] cycle: use 2 days shorter cycle than chemical pesticides
 
 ## Frequency Guidelines
 

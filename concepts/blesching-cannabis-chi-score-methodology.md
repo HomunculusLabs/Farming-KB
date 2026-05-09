@@ -1,5 +1,5 @@
 ---
-title: "The Cannabis Health Index Score Methodology"
+title: "The blesching-cannabis-health-index-autoimmune-conditions Score Methodology"
 created: 2026-04-28
 tags: [cannabis, chi-score, evidence-based-medicine, methodology, research-design, clinical-trials, cannabis-health-index]
 date: 2026-04-28
@@ -11,7 +11,7 @@ type: concept
 
 # The Cannabis Health Index Score Methodology
 
-The Cannabis Health Index (CHI) score is an evidence-based rating system developed by Uwe Blesching, PhD, to quantify degrees of confidence in cannabis as an effective treatment for specific medical conditions. The CHI methodology appears in Chapter III of The Cannabis Health Index and serves as the analytical backbone for evaluating 100 chronic symptoms and diseases covered in the text.
+The Cannabis Health Index (CHI) score is an evidence-based rating system developed by [[uwe-blesching]], PhD, to quantify degrees of confidence in cannabis as an effective treatment for specific medical conditions. The CHI methodology appears in Chapter III of The Cannabis Health Index and serves as the analytical backbone for evaluating 100 chronic symptoms and diseases covered in the text.
 
 ## Purpose and Overview
 
@@ -38,7 +38,7 @@ The final CHI number approximates the degree of scientific confidence for any pa
 
 ## Hierarchy of Evidence
 
-The CHI scoring system assigns values to research studies based on the intrinsic strength of evidence associated with each study type, following the established hierarchy of evidence in medical research:
+The [[blesching-cannabis-chi-scoring-evidence-based-medicine]] system assigns values to research studies based on the intrinsic strength of evidence associated with each study type, following the established hierarchy of evidence in medical research:
 
 | Study Design | CHI Score Range | Rationale |
 |---|---|---|
@@ -74,17 +74,17 @@ Blesching emphasizes that a high total CHI score reflects the amount of availabl
 
 ### Relative Comparisons
 
-When comparing CHI values between diseases, the values are relative to the available academic literature. A lower value does not necessarily mean cannabis is a less effective treatment for one condition versus another. It may simply mean less research has been published, or that the research that exists used lower-tier study designs (animal studies rather than clinical trials, for example).
+When comparing CHI values between diseases, the values are relative to the available academic literature. A lower value does not necessarily mean cannabis is a less effective treatment for one condition versus another. It may simply mean less research has been published, or that the research that exists used lower-tier study designs (animal studies rather than [[mushroom-cancer-clinical-trials-overview]], for example).
 
 ### Positive Bias
 
-The book concentrates on diseases and conditions for which cannabis shows promise, so negative CHI scores are rare. Published studies were primarily extracted from MEDLINE, the U.S. National Library of Medicine's bibliographic database, with inclusion criteria focusing on the influence of the endocannabinoid system, cannabis, and/or cannabinoids on symptoms and diseases.
+The book concentrates on diseases and conditions for which cannabis shows promise, so negative CHI scores are rare. Published studies were primarily extracted from MEDLINE, the U.S. National Library of Medicine's bibliographic database, with inclusion criteria focusing on the influence of  stem, cannabis, and/or cannabinoids on symptoms and diseases.
 
 ## Evidence-Based Strain and Form Considerations
 
-The CHI system also incorporates strain-specific and form-specific considerations, recognizing that different cannabis varieties present with different [[cannabis-terpenoid-profiles-detailed]] profiles. sativa-dominant strains, indica-dominant strains, and their respective hybrids can produce different therapeutic outcomes for the same condition. The CHI methodology accounts for these differences by noting which specific strains, preparations, and cannabinoid profiles were used in each study.
+The CHI system also incorporates strain-specific and form-specific considerations, recognizing that different cannabis varieties present with different cannabis [[cannabis-terpenoid-profiles-detailed]] detailed profiles. sativa-dominant strains, indica-dominant strains, and their respective hybrids can produce different therapeutic outcomes for the same condition. The CHI methodology accounts for these differences by noting which specific strains, preparations, and cannabinoid profiles were used in each study.
 
-This strain-specific dimension is particularly important because the therapeutic effects of cannabis are not attributable to any single compound but rather to the interactive effects of multiple cannabinoids and terpenoids working together, a phenomenon sometimes referred to as the entourage effect. The CHI system acknowledges this complexity by noting the specific cannabis preparations used in each study wherever possible.
+This strain-specific dimension is particularly important because the therapeutic effects of cannabis are not attributable to any single compound but rather to the interactive effects of multiple cannabinoids and terpenoids working together, a phenomenon sometimes referred to as the [[cannabis-terpene-entourage-effect-profiles]]. The CHI system acknowledges this complexity by noting the specific cannabis preparations used in each study wherever possible.
 
 ## The CHI as a Clinical Communication Tool
 
@@ -110,7 +110,7 @@ Each CHI disease entry includes qualitative healing tools that complement the qu
 - **Suggested Blessings**: Inspirational statements that patients can use or adapt to support their healing intention
 - **Suggested Affirmations**: Positive self-statements designed to reinforce healing-oriented belief patterns
 
-These tools reflect Blesching's integration of mind body medicine with evidence-based cannabis science, providing patients with a comprehensive therapeutic framework that addresses both the biochemical and psychosocial dimensions of illness.
+These tools reflect Blesching's integration of mind [[mind-body-medicine-and-endocannabinoid-system]] with evidence-based cannabis science, providing patients with a comprehensive therapeutic framework that addresses both the biochemical and psychosocial dimensions of illness.
 
 ## Integration with Mind-Body Medicine
 

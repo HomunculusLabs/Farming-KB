@@ -1,21 +1,22 @@
 ---
-title: Nutrient Burn and Over-fertilization in Cannabis
+title: cannabis-nutrient-burn-and-toxicity and Over-fertilization in Cannabis
 created: 2026-04-26
 tags: [cannabis, nutrients, over-fertilization, toxicity, troubleshooting]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Nutrient Burn and Over-fertilization in Cannabis
 
 Nutrient burn, also called fertilizer burn, is one of the most common
-problems in cannabis cultivation. Jorge Cervantes identifies it as a
+problems in [[query-how-does-no-till-cannabis-cultivation-work]]. Jorge Cervantes identifies it as a
 frequent mistake that can impair growth, reduce yield, and compromise
 bud quality. Over-fertilization occurs when the concentration of
-dissolved mineral salts in the growing medium or nutrient solution
+dissolved mineral salts in the growing medium or [[cannabis-nutrient-solution-preparation]]
 exceeds what the plant can absorb, leading to toxic accumulation in
 leaf tissue.
 
@@ -32,7 +33,7 @@ signs include:
 - Leaf tips and fringes turn brown or yellow
 - Leaves become brittle and may crackle when crushed
 - Misshapen, twisted, or unusually dark green foliage
-- Root tips may also burn, inhibiting water and nutrient uptake
+- Root tips may also burn, inhibiting water and [[plant-nutrient-uptake-mechanisms]]
 - Buds may crackle when burned if excess fertilizer remains at
   harvest
 - Harvested buds may smell or taste like chemicals
@@ -100,7 +101,7 @@ Cervantes offers several preventive measures:
 
 ## Organic vs Chemical Fertilizer Burn
 
-Both organic and chemical fertilizers can cause burn symptoms. Organic
+Both organic and [[cervantes-chemical-fertilizers-guide]] can cause burn symptoms. Organic
 nutrients build to toxic levels just as easily as chemical fertilizers.
 Look for the same symptoms: burned leaf tips, discolored misshapen
 leaves, and brittle foliage. However, organic nutrients require

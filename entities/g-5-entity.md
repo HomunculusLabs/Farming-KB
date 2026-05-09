@@ -8,7 +8,7 @@ sources: []
 ---
 # G-5
 
-G-5 (3,6-dimethoxy-4-(2-aminopropyl)benzonorbornane) is a psychedelic amphetamine and the most structurally elaborate member of the Ganesha family, described in PiHKAL entry #84.
+G-5 (3,6-dimethoxy-4-(2-aminopropyl)benzonorbornane) is a psychedelic amphetamine and the most structurally elaborate member of the Ganesha family, described in [[2c-b-pihkal-entry-20]] #84.
 
 It carries a benzonorbornane ring system, representing the bulkiest substitution pattern ever placed on a centrally active molecule at the time of its synthesis.
 
@@ -24,7 +24,7 @@ The extremely long duration is one of G-5's most notable properties, consistent 
 
 ## Qualitative Effects
 
-At 15 milligrams, the compound was tested during the "Angels, Aliens and Archetypes" conference in San Francisco.
+At 15 milligrams, the compound was tested during the "Angels, Aliens and Archetypes" conference in [[shipibo-san-francisco-ceremonial-center-ucayali]].
 
 The subject could observe without participating. Each speaker appeared to stand in "a cone of light that was beautifully bright and colorful, casting everything else on the stage into obscurity."
 

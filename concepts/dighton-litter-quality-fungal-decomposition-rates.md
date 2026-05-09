@@ -1,5 +1,5 @@
 ---
-title: Litter Quality Controls on Fungal Decomposition Rates
+title: dighton litter quality fungal decomposition rates Controls on Fungal Decomposition Rates
 created: 2026-04-26
 tags:
   - mycology
@@ -26,7 +26,7 @@ organic matter and which fungal species will dominate the decomposer community.
 ## Key Litter Quality Parameters
 
 The rate at which a resource is decomposed depends on its chemical composition
-(Heal and Dighton, 1985; Heal et al., 1997), edaphic factors (available
+(Heal and Dighton, 1985; Heal et al., 1997), [[soil-edaphic-factors-microbial-communities]] (available
 moisture and temperature), and colonization by appropriate saprotrophic
 organisms (Cooke and Rayner, 1984). The input of different types of plant
 litters varies with ecosystem type (Dickinson and Pugh, 1974; Cadish and
@@ -41,7 +41,7 @@ resources containing lower ratios.
 ## The Lignin Plus Polyphenol to Nitrogen Ratio
 
 Van Lauwe et al. (1997) demonstrated that decomposition rates (mass loss) and
-nitrogen mineralization rates are most strongly correlated with the (lignin
+[[fungal-nitrogen-mineralization-pathways]] rates are most strongly correlated with the (lignin
 plus polyphenol):N ratio. Their regression analysis showed:
 
 - C:N ratio: correlation of 0.74 with mass loss, 0.61 with N mineralization
@@ -98,11 +98,11 @@ elements are less available, fungi expend greater amounts of energy to produce
 enzymes to sequester nutrients from organic sources. This creates a large
 degree of edaphic control over decomposition rates.
 
-In their studies of wood decomposition, lignocellulase enzyme production did
+In their studies of wood decomposition, lignocellulase [[ligninolytic-enzyme-production-bioremediation]] did
 not differ between locations in a temperate forest ecosystem. However, the
 rate of immobilization of nitrogen and phosphorus into decomposing wood varied
 significantly, ranging from 2.2 to 4.4 mg per g wood for P at 80% mass loss.
-The spatial variability of nutrient immobilization was much greater than that
+The spatial variability of [[dighton-fungal-nutrient-immobilization-turnover]] was much greater than that
 for lignocellulase activity.
 
 ## Decomposition Constants in Aquatic Systems
@@ -122,7 +122,7 @@ consisting mainly of cellulose with a high C:N ratio and low lignin content.
 Following forest canopy closure, woody resources and more recalcitrant leaf
 litters dominate (Attwill and Adams, 1993). These later-stage litters have
 high lignin content and low C:N ratios, requiring fungal communities with
-greater enzymatic diversity and competence for effective decomposition.
+greater [[fungal-enzymatic-diversity-decomposition]] and competence for effective decomposition.
 
 ## See Also
 

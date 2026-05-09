@@ -1,5 +1,5 @@
 ---
-title: Gasteromycetes and Stinkhorn Fungi
+title: bloomfields orchard gasteromycetes and stinkhorn fungi Fungi
 created: 2026-04-28
 updated: 2026-04-28
 type: concept
@@ -23,12 +23,12 @@ sources:
 
 ## Overview
 
-The gasteromycetes are a section of basidiomycete fungi
+The gasteromycetes are a section of [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]]
 defined by their production of spores inside enclosed
 fruiting bodies rather than on exposed gills or pores.
 This group encompasses some of the most bizarre organisms
 in the fungal kingdom: phallic stinkhorns erupting from
-buried eggs, cage fungi unfolding like geometric sculptures,
+buried eggs, [[stinkhorn-cage-fungi-reproductive-biology]] unfolding like geometric sculptures,
 puffballs emitting clouds of spores, and bird's nest fungi
 splashing spore packets onto grass blades.
 
@@ -121,7 +121,7 @@ dispersal mechanism through an animal gut.
 ## Sphaerobolus: The Artillery Fungus
 
 Sphaerobolus grows on wood mulch and launches a black ball
-of spores using a cup-shaped fruiting body operating as a
+of spores using a cup-shaped [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] operating as a
 tiny trampoline. The inner cup suddenly inverts, propelling
 the spore ball several meters.
 The balls adhere with incredible tenacity to smooth
@@ -131,12 +131,16 @@ fungus is adapted for passage through an herbivore gut,
 but its intended targets are grass blades rather than
 parked cars.
 
-## Related Concepts
+## Related
 
-- Spore Discharge Mechanisms in Fungi
-- Fungal Biology and Ecology
-- [[stinkhorn-fungi-phallus-impudicus-spore-dispersal]]
-- [[bloomfields-orchard-fungal-biology-and-ecology]]
+- [[stinkhorn-fungi-morphology-and-ecology]]
+
+- [[stinkhorn-fungi-gasteromycetes]] Concepts
+
+- Spore [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]] in Fungi
+- [[bloomfield-fungal-biology-and-hyphal-growth]] and Ecology
+- [[stinkhorn-fungi-and-insect-spore-dispersal]]
+- bloomfields-orchard-fungal-biology-and-ecology
 - [[bloomfields-orchard-notable-mycologists-buller-and-lloyd]]
 
-- [[mushroom-hunting-and-identification]]
+- mushroom-hunting-and-identification

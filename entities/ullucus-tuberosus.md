@@ -44,7 +44,7 @@ The plant is self-compatible and produces small, greenish-white flowers in clust
 
 Ulluco is native to the Andean cordillera from southern Colombia to northern Argentina and Chile, cultivated primarily between 2,800 and 4,200 meters elevation. The center of diversity is in the Lake Titicaca basin, where the greatest morphological variety of tuber colors and shapes exists. It has been cultivated for at least 5,000–7,000 years, making it one of the oldest domesticated crops in the Americas.
 
-It is virtually unknown outside the Andes, though small-scale cultivation has been introduced to New Zealand and parts of Europe and North America by enthusiasts of unusual tuber crops.
+It is virtually unknown outside the Andes, though small-scale cultivation has been introduced to New Zealand and parts of Europe and [[psilocybin-north-america-pacific-northwest]] by enthusiasts of unusual tuber crops.
 
 ## Nutritional Profile
 
@@ -87,13 +87,13 @@ Ulluco is adapted to the extreme conditions of high-altitude Andean agriculture:
 
 ### Propagation
 
-Small tubers (15–40 g "seed tubers") or tuber pieces are planted at the beginning of the rainy season (October–November in the Southern Hemisphere). Plants are spaced 30–50 cm apart in rows 60–80 cm apart. No seed varieties exist in commercial cultivation — all propagation is clonal, maintaining named varieties selected over generations.
+Small tubers (15–40 g "seed tubers") or tuber pieces are planted at the beginning of the rainy season (October–November in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]). Plants are spaced 30–50 cm apart in rows 60–80 cm apart. No seed varieties exist in commercial cultivation — all propagation is clonal, maintaining named varieties selected over generations.
 
 ### Companion Planting
 
 In traditional Andean agriculture, ulluco is intercropped with:
 - Potato — complementary nutrient requirements
-- Oca (*Oxalis tuberosa*) — different root depths, staggered harvest
+- Oca (*[[oxalis-tuberosa]]*) — different root depths, staggered harvest
 - Mashua (*Tropaeolum tuberosum*) — pest-repellent properties
 - Quinoa and kiwicha — above-ground grain crops
 - Tarwi — nitrogen-fixing lupin
@@ -107,7 +107,7 @@ Ulluco is gaining attention in permaculture circles for several reasons:
 - **Extreme climate resilience**: Among the most frost-tolerant food crops known
 - **Low-input**: Requires minimal fertilizer, irrigation, or pest management
 - **Soil building**: The extensive ground-cover habit suppresses weeds and protects soil
-- **Nutrient cycling**: Deep root systems access minerals unavailable to shallower crops
+- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]**: Deep root systems access minerals unavailable to shallower crops
 - **Genetic diversity**: Hundreds of landrace varieties provide adaptability to changing conditions
 - **Food security**: Produces reliable yields in marginal conditions where other crops fail
 
@@ -117,7 +117,7 @@ It is particularly suited to cool, high-altitude, or high-latitude permaculture 
 
 - **Landrace erosion**: Modernization and urbanization in the Andes are displacing traditional farming systems
 - **Climate change**: Warming temperatures at high altitudes may shift optimal cultivation zones upward
-- **Viral diseases**: Ulluco mild mosaic virus and other potyviruses affect yields
+- **[[cervantes-viral-diseases-cannabis]]**: Ulluco mild mosaic virus and other potyviruses affect yields
 - **Nematodes**: Root-knot nematodes (*Meloidogyne* spp.) can reduce tuber quality
 - **Limited genetic improvement**: Almost no formal breeding programs exist
 
@@ -126,5 +126,8 @@ The International Potato Center (CIP) in Lima maintains a germplasm collection o
 ## See Also
 
 - [[pachyrhizus-tuberosus]]
-- [[permaculture|Permaculture]] — design framework for polyculture integration
-- [[comfrey-symphytum-officinale|Comfrey]] — dynamic accumulator companion for tuber beds
+- Permaculture — design framework for polyculture integration
+- [[comfrey-symphytum-officinale|Comfrey]] — [[nutrient-dynamic-accumulator-reference]] companion for tuber beds
+- [[oxalis-tuberosa]]
+- [[tropaeolum-tuberosum]]
+- [[companion-planting]]

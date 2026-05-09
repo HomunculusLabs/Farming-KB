@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka Observation of American Agricultural Decline"
+title: "Fukuoka Observation of fukuoka american agricultural decline Decline"
 tags: [fukuoka, agriculture, soil-degradation, desertification, monoculture, energy-efficiency]
 date: 2026-04-28
 updated: 2026-04-28
@@ -12,7 +12,7 @@ type: concept
 # Fukuoka's Observation of American Agricultural Decline
 
 Masanobu Fukuoka, in *The Road Back to Nature*, presents a stark and systematic
-critique of American agriculture based on his direct aerial and ground-level
+critique of [[fukuoka-american-agriculture-fields-of-death]] based on his direct aerial and ground-level
 observations during travels across the United States. His diagnosis is
 uncompromising: modern American farming is fundamentally destructive,
 energy-inefficient, and ecologically bankrupt — a form of
@@ -24,9 +24,9 @@ in reality more primitive farming than the methods it displaced.
 Flying at 35,000 feet over the American West, Fukuoka observed that roughly
 one-third of the continent — the vast expanses both east and west of the
 Rockies — is reddish-brown desert. This is not a minor peripheral feature but
-a dominant characteristic of the North American landscape as seen from above.
+a dominant characteristic of the [[growing-gourmet-north-american-reishi-species]] landscape as seen from above.
 
-Scattered across this arid landscape he counted approximately 80,000 circular
+Scattered across this [[mollison-pdc-arid-landscape-settlement]] he counted approximately 80,000 circular
 farms, each a half-mile in diameter, irrigated by center-pivot sprinkler
 systems. These geometric green circles are oases carved into desert —
 artificial and unsustainable enclaves that depend on enormous inputs of water
@@ -76,8 +76,8 @@ override them through force and chemistry. His American travels served as a
 case study in what happens when that reversal is not made.
 ## Related Concepts
 
-- [[fungal-pah-degradation-and-soil-bioremediation]] — the process destroying agricultural land worldwide
+- [[fungal-pah-degradation-and-soil-bioremediation]] — the process destroying [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] worldwide
 - monoculture problems — how uniform cropping destroys ecological resilience
-- energy return on investment — declining energy efficiency of industrial agriculture
+- energy return on investment — declining [[fukuoka-textdoc-energy-efficiency-agricultural-labor]] of industrial agriculture
 - [[mollison-soil-formation-rates-and-erosion-costs]] — historical practice echoed in modern farming
 - soil salinization — irrigation-driven salt accumulation

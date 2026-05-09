@@ -2,7 +2,7 @@
 title: DOI (4-Iodo-2,5-dimethoxyamphetamine)
 created: 2026-04-26
 updated: 2026-04-22
-sources: PIHKAL #67 (Alexander & Ann Shulgin)
+sources: PIHKAL #67 (Alexander & ann-shulgin)
 type: concept
 tags: [phenethylamine, psychedelic, amphetamine, research-chemical, dox-family]
 ---
@@ -11,7 +11,7 @@ tags: [phenethylamine, psychedelic, amphetamine, research-chemical, dox-family]
 
 ## Overview
 
-DOI (2,5-dimethoxy-4-iodoamphetamine) is one of the most potent members of the DOx family of substituted amphetamines. First documented by Alexander Shulgin, DOI has become an important pharmacological research tool due to its extremely high binding affinity for 5-HT2 receptors and the utility of its radioactive iodine-labeled analogues for brain imaging studies. It is a [[dob-pihkal-62]]: DOI (iodine) is slightly more potent than DOB (bromine) and shares the characteristic slow onset and extremely long duration. Both accumulate in the lungs before reaching the brain. DOB has been more frequently implicated in overdose cases.
+DOI (2,5-dimethoxy-4-iodoamphetamine) is one of the most potent members of the DOx family of substituted amphetamines. First documented by [[alexander-shulgin]], DOI has become an important pharmacological research tool due to its extremely high binding affinity for 5-HT2 receptors and the utility of its radioactive iodine-labeled analogues for [[neurochemical-probes-brain-imaging-pihkal]] studies. It is a [[dob-pihkal-62]]: DOI (iodine) is slightly more potent than DOB (bromine) and shares the characteristic slow onset and extremely long duration. Both accumulate in the lungs before reaching the brain. DOB has been more frequently implicated in overdose cases.
 - vs. [[doet-pihkal-66]]: One subject used LSD to abort a difficult DOI experience at 9 hours, with rapid restoration of emotional connection. DOI lacks the "sparkle" characteristic of LSD but provides excellent eyes-closed imagery.
 
 ## Harm Reduction
@@ -38,7 +38,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -88,7 +88,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -98,4 +98,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -1,5 +1,5 @@
 ---
-title: Gotu Kola Growing Guide
+title: Gotu Kola comparison-bean-growing-guide-vs-pepper-growing-guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -66,7 +66,7 @@ Preparation methods:
 - Fresh leaves: Eaten raw in salads or as a snack (2-3 leaves daily is the
   traditional dose)
 - Capsules: Dried, powdered herb, 300-600 mg 2-3 times daily
-- Topical: Infused oil or salve for wound healing and skin conditions
+- Topical: Infused oil or salve for wound healing and [[cannabis-for-skin-conditions-detailed]]
 
 Safety notes: Generally safe for long-term use. Rare side effects include
 headache, stomach upset, or skin rash at high doses. Avoid during pregnancy
@@ -93,7 +93,7 @@ habit is similar to mint -- low, creeping, and spreading.
 
 Gotu kola can be grown in bog gardens, at pond edges, in rain gardens,
 or in shallow standing water (1-2 inches). It is excellent for greywater
-areas and constructed wetlands. In containers, use wide, shallow pots
+areas and [[comparison-constructed-wetlands-vs-bioswales]]. In containers, use wide, shallow pots
 without drainage holes, kept flooded with 1/2-1 inch of water at all times.
 Greenhouse growing works well in trays or beds with shade cloth (30-50%).
 
@@ -132,48 +132,7 @@ From division:
 ### Care and Maintenance
 - Never let soil dry out -- the most critical care requirement
 - Maintain standing water in bog containers
-- Fertilize lightly every 4-6 weeks with liquid organic fertilizer
-- Pinch back runners to control spread
-- In cold zones, bring containers indoors before first frost
-- Overwinter indoors in bright light; reduce water slightly but do not let
-  soil dry out
-
-## Harvesting
-
-For fresh use:
-- Harvest leaves and stems at any time during the growing season
-- Pinch or cut stems just above a node; the plant will regrow
-- Traditional dose: 2-3 fresh leaves daily (eaten raw)
-
-For drying:
-- Harvest aerial parts during active growth
-- Cut stems several inches above the base
-- Spread on screens in a warm, well-ventilated area out of direct sunlight
-- Dry at 90-100 degrees F
-- Material is dry when leaves are crisp and brittle
-- Store in airtight containers in a cool, dark place
-- Properly stored, dried gotu kola lasts 1 year
-
-For tincturing:
-- Fresh plant tincture (1:2 in 40-50% alcohol) is preferred by many
-  herbalists
-- Fill a jar loosely with fresh herb, cover with alcohol, macerate 4-6 weeks
-
-## Yields
-
-Gotu kola is highly productive. A well-maintained planting can provide
-regular harvests throughout the growing season. Expect 0.5-1 lb of fresh
-herb per square foot per year from an established patch.
-
-## Common Issues
-
-- Drying out: The most common problem. Plants wilt quickly and may die if
-  soil dries completely.
-- Root rot: Rare, but can occur in stagnant, anaerobic water. Refresh water
-  periodically in bog containers.
-- Yellowing leaves: Usually indicates nutrient deficiency; fertilize lightly.
-- Leggy growth: Indicates insufficient light; move to a brighter location.
-
+- Fertilize lightly every 4-6 weeks with liquid [[complete-organic-fertilizer-cof-recipe-solomon]]
 ## See Also
 
 - [[ashwagandha-growing-guide]] -- complementary Ayurvedic adaptogen for
@@ -183,4 +142,7 @@ herb per square foot per year from an established patch.
 
 ## See Also
 
-- [[mycorrhizal-hydroponic-growing-guide]]
+- mycorrhizal-hydroponic-growing-guide
+- [[centella-asiatica]]
+- [[bacopa-monnieri]]
+- [[greenhouse-growing]]

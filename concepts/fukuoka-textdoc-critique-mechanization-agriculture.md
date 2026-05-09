@@ -10,7 +10,7 @@ type: concept
 
 # Critique of Mechanization in Agriculture
 
-Fukuoka's analysis of agricultural mechanization goes beyond the typical
+Fukuoka's analysis of [[fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse]] goes beyond the typical
 environmental critique to expose a deeper structural paradox: mechanization
 does not free the farmer but enslaves him, does not increase productivity
 but destroys it, and does not feed the world but accelerates the depletion
@@ -49,7 +49,7 @@ mechanization continue to climb.
 
 ## The Vicious Cycle of Chemical Dependency
 
-Machinery, chemical fertilizers, and pesticides have drawn the farmer away
+Machinery, [[cervantes-chemical-fertilizers-guide]], and pesticides have drawn the farmer away
 from nature. Although these products do not actually raise land yields,
 because they are promoted as tools for boosting profits, farmers labor under
 the illusion that they need them. Their use has wrought destruction on
@@ -62,7 +62,7 @@ cycle continues without end.
 
 Larger and larger agricultural operations have not given farmers the
 stability they seek. Farms in Europe are ten times larger, and in the
-United States one hundred times larger, than the 6- to 7-acre farms common
+[[dmt-containing-plants-united-states-halpern]] one hundred times larger, than the 6- to 7-acre farms common
 to Japan. Yet farmers in Europe and the U.S. are, if anything, even more
 insecure than Japanese farmers. The trend toward large-scale mechanized
 agriculture has not solved the fundamental problems of farming — it has
@@ -73,7 +73,7 @@ amplified them.
 Fukuoka identifies specific ways that heavy machinery degrades farmland:
 
 1. **Uneven topsoil**: Crude land-leveling leaves topsoil thickness that
-  varies with bedrock depth, resulting in uneven crop growth.
+  varies with bedrock depth, resulting in uneven [[coleman-sunlight-and-winter-crop-growth-rates]].
 2. **Soil compaction**: Heavy machinery causes excessive settling, leading
   to stagnant groundwater, root rotting, and suppression of initial crop
   growth.
@@ -86,10 +86,10 @@ Fukuoka identifies specific ways that heavy machinery degrades farmland:
 Beyond the economic and ecological damage, Fukuoka laments the spiritual
 loss. Farmers have "exchanged the joy of working outdoors in the open
 fields for dreary hours of labor shut up inside a factory." The reduction
-in labor brought about by scientific farming has succeeded only in forcing
+in labor brought about by [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] has succeeded only in forcing
 farmers off the land. For every tractor operator, dozens of farmers are
 driven from their fields and forced into factory work producing the very
-implements and chemicals that natural farming does not need.
+implements and chemicals that [[comparison-natural-farming-vs-permaculture]] does not need.
 
 ## The Illusion of Progress
 

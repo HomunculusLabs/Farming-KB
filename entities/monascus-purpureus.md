@@ -61,7 +61,7 @@ Red yeast rice is produced by solid-state fermentation of polished rice with M. 
 
 The fermented product is used as a food colorant (E120 alternative), flavor enhancer, and preservative across Asian cuisines. It colors Peking duck, red rice vinegar, char siu pork, Taiwanese rice wines, and various pickled and preserved foods.
 
-Industrial fermentation has been optimized using submerged liquid culture and controlled solid-state bioreactors. Strain selection focuses on high pigment yield, monacolin K production, and low citrinin content.
+Industrial fermentation has been optimized using submerged [[comparison-liquid-culture-vs-grain-spawn]] and controlled solid-state bioreactors. [[blesching-cannabis-strain-selection-receptor-targeting]] focuses on high pigment yield, monacolin K production, and low citrinin content.
 
 ## Bioactive Compounds
 
@@ -71,11 +71,11 @@ Other monacolins (J, L, M, X) are also produced, each with varying potency at HM
 
 **Citrinin** is a nephrotoxic mycotoxin co-produced by most M. purpureus strains. Modern commercial strains have been selected or engineered for low citrinin production, but contamination remains a safety concern for unregulated products.
 
-Pigments include rubropunctatin, monascorubrin, rubropunctamine, and monascorubramine. These azaphilone compounds exhibit antioxidant and antimicrobial properties in addition to their colorant function.
+Pigments include rubropunctatin, monascorubrin, rubropunctamine, and monascorubramine. These azaphilone compounds exhibit antioxidant and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] in addition to their colorant function.
 
 ## Pharmacology and Clinical Evidence
 
-Red yeast rice supplements have been evaluated in numerous clinical trials for lipid management. Meta-analyses consistently show LDL cholesterol reductions of 15–25%, comparable to low-dose statin therapy.
+Red yeast rice supplements have been evaluated in numerous [[mushroom-cancer-clinical-trials-overview]] for lipid management. Meta-analyses consistently show LDL cholesterol reductions of 15–25%, comparable to low-dose statin therapy.
 
 The 2008 JUPITER-adjunct trial and subsequent studies confirmed efficacy but also demonstrated that the statin-like mechanism produces similar side effects: myalgia, elevated liver enzymes, and rare rhabdomyolysis. Drug interactions with CYP3A4 substrates mirror lovastatin contraindications.
 
@@ -91,7 +91,7 @@ The complete genome of M. purpureus was sequenced in 2013, revealing a ~24 Mb ge
 
 Metabolic engineering has successfully disrupted the pksCT gene responsible for citrinin biosynthesis, creating strains that produce monacolin K without the nephrotoxic contaminant. These citrinin-free strains are now standard in regulated commercial production.
 
-Comparative genomics across Monascus species has identified species-specific secondary metabolite clusters and revealed horizontal gene transfer events with other food-associated fungi, particularly Aspergillus species.
+Comparative genomics across Monascus species has identified species-specific [[fungal-elicitors-enhanced-secondary-metabolite-production]] clusters and revealed horizontal gene transfer events with other food-associated fungi, particularly Aspergillus species.
 
 ## Permaculture and Small-Scale Applications
 
@@ -99,7 +99,7 @@ Red yeast rice fermentation is accessible at the home and community scale, requi
 
 The process integrates well with small-scale rice production systems, converting surplus rice into a value-added product with extended shelf life. Fermentation byproducts can be composted or used as livestock feed, creating a zero-waste processing cycle.
 
-In permaculture design, Monascus fermentation represents a rare example of a fungal preservation technology suitable for tropical grain storage without refrigeration. The pigments and organic acids produced inhibit spoilage organisms, extending rice usability by months.
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], Monascus fermentation represents a rare example of a fungal preservation technology suitable for tropical grain storage without refrigeration. The pigments and organic acids produced inhibit spoilage organisms, extending rice usability by months.
 
 ## See Also
 
@@ -109,6 +109,6 @@ In permaculture design, Monascus fermentation represents a rare example of a fun
 - [[inonotus-obliquus]]
 - [[grifola-frondosa]]
 - [[panus-tigrinus]]
-- [[coprinus-comatus-detailed]]
+- [[coprinus-comatus]]
 - [[morchella-esculenta]]
 - [[neurospora-crassa]]

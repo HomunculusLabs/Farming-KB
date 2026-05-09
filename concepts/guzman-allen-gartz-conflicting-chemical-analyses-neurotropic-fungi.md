@@ -1,5 +1,5 @@
 ---
-title: Conflicting Chemical Analyses of Neurotropic Fungi
+title: guzman allen gartz conflicting chemical analyses neurotropic fungi Analyses of challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification
 created: 2026-04-28
 tags:
   - chemistry
@@ -41,7 +41,7 @@ Merlin (1992c) discussed the broader doubts regarding the psychoactive
 properties of this species, and the consensus emerging from the
 Guzmán, Allen and Gartz paper is that P. foenisecii is more likely
 a toxic fungus than a genuinely neurotropic one, which is consistent
-with the majority of panaeoloid fungi.
+with the majority of [[guzman-allen-gartz-panaeoloid-fungi-taxonomy-and-distribution]].
 
 ## Failures to Confirm Reported Active Compounds
 
@@ -64,7 +64,7 @@ to contradictory chemical results. Guzmán discovered that chemical
 studies sometimes analyzed mixtures of different species rather than
 a single taxon. In one notable case, material used by Leslie and
 Repke to isolate psilocybin contained a mixture of Panaeolus species
-and Psilocybe mexicana together with P. coprophila, all identified
+and [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] together with P. coprophila, all identified
 under a single name. Psilocybe pseudobullacea was reported by
 Marcano et al. (1994) to contain psilocybin and psilocin from
 Venezuelan specimens, but this species does not blue and has no
@@ -106,9 +106,9 @@ correctly identified material.
 ## Implications for the Global Checklist
 
 These conflicting analyses directly affected the construction of the
-Guzmán, Allen and Gartz global checklist. Rather than including every
+Guzmán, Allen and [[guzman-allen-gartz-global-psilocybe-biogeography]] checklist. Rather than including every
 species ever reported as neurotropic, the authors applied strict
-criteria: species must either demonstrate the bluing reaction, contain
+criteria: species must either demonstrate the [[field-guide-psilocybin-bluing-reaction-identification]], contain
 confirmed indolic substances, or have strong ethnobotanical evidence
 of traditional use as sacred fungi. This conservative approach reduced
 the total count from over 250 reported species to 216 accepted
@@ -122,5 +122,7 @@ and taxonomic work using modern analytical methods.
 [[guzman-allen-gartz-history-of-neurotropic-fungi-discovery]]
 
 ## See Also
+
+- [[specimen-misidentification-erroneous-chemical-analyses-guzman-1998]]
 
 - [[guzman-allen-gartz-four-chemical-groups-neurotropic-fungi]]

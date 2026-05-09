@@ -1,5 +1,5 @@
 ---
-title: Bacillus Pumilus Radiation Resistance and Surface Decontamination
+title: Bacillus bacillus pumilus radiation resistance surface decontamination Resistance and pseudomonas-cepacia-microwave-surface-decontamination-kinetics
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -27,7 +27,7 @@ The NASA study demonstrated that *B. pumilus* spores on damp surfaces could be c
 - At 3.6 W/cm² exposure rate, populations were reduced by several orders of magnitude with increasing exposure
 - The spore form showed greater resistance than the vegetative forms of *E. coli* and *P. cepacia*, as expected
 - Complete kill was achieved at the 13.1 W-hr cumulative exposure level
-- The presence of [[microwave-exposure-system-architecture-surface-sterilization]] udy, microbial populations were quantified before and after microwave exposure to construct kill curves. Standard methods include:
+- The presence of [[microwave-exposure-system-architecture-surface-sterilization]] udy, microbial populations were quantified before and after [[microbial-kill-curve-microwave-exposure-dose-response]] to construct kill curves. Standard methods include:
 
 - **Colony counting** on nutrient agar after serial dilution
 - **Most Probable Number (MPN)** techniques for low-level contamination
@@ -38,7 +38,7 @@ The NASA study demonstrated that *B. pumilus* spores on damp surfaces could be c
 
 *Bacillus pumilus* and related spore-formers are common contaminants in mushroom cultivation:
 
-- They survive standard [[growing-gourmet-cold-pasteurization-bulk-substrates]] ients in grain spawn and bulk substrates
+- They survive standard growing-gourmet-cold-pasteurization-bulk-substrates ients in grain spawn and bulk substrates
 - Contamination manifests as slimy,[[microwave-sterilization]] data from the NASA study suggests that combination approaches (heat + electromagnetic energy + moisture) may achieve more reliable spore kill than heat alone.
 
 ### Environmental Persistence
@@ -50,11 +50,11 @@ The NASA study demonstrated that *B. pumilus* spores on damp surfaces could be c
 - They are commonly found in indoor air and on surfaces in homes, laboratories, and commercial facilities
 - In mycology labs, they are among the most frequently recovered contaminants from failed cultures
 
-This environmental persistence is why thorough surface sterilization is essential before any sterile procedure. The NASA study's finding that microwave energy effectively kills *B. pumilus* spores on damp surfaces suggests potential for rapid turnaround surface decontamination in laboratory settings between culture work sessions.
+This environmental persistence is why thorough [[comparison-of-surface-sterilization-methods]] is essential before any sterile procedure. The NASA study's finding that microwave energy effectively kills *B. pumilus* spores on damp surfaces suggests potential for rapid turnaround surface decontamination in laboratory settings between culture work sessions.
 
 ## References
 
-- NASA Tech Briefs MSC-22484: Microwave Surface Sterilization
+- NASA Tech Briefs MSC-22484: [[challenge-microorganisms-microwave-surface-sterilization]] Sterilization
 - Atwater, J.E., Streech, N.D., Garmon, F.C. — Lyndon B. Johnson Space Center
 - Setlow, P. (2006). Spores of *[[bacillus-subtilis]]*: Their resistance to and killing by radiation, heat and chemicals. Journal of Applied Microbiology.
 ## Practical Considerations
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

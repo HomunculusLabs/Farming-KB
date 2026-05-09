@@ -1,5 +1,5 @@
 ---
-title: "Biennial Flowers Organic"
+title: "hamilton biennial flowers organic Organic"
 created: 2026-04-28
 tags: [biennials, flowers, ornamental-gardening, cottage-garden]
 date: 2026-04-25
@@ -35,7 +35,7 @@ When choosing biennials for your garden, consider how they fit into
 the overall planting scheme. Spring-flowering biennials will bloom
 until early summer, when they can be pulled up, composted, and
 replaced with clumps of summer-flowering annuals. This succession
-planting ensures continuous color throughout growing season.
+planting ensures continuous color throughout [[savory-growing-season-and-non-growing-season-management]].
 
 ## Buying Biennials
 
@@ -89,7 +89,7 @@ transplant to their temporary positions when large enough to handle.
 
 Some biennials can also be propagated by division, though this is
 less common. Pansies, which are technically perennials but grown as
-biennials, can be divided in early spring or early fall to produce
+biennials, can be divided in [[coleman-overwintered-onions-and-early-spring-crops]] or early fall to produce
 new plants. Take cuttings from strong, healthy plants in late summer
 for overwintering under cover.
 

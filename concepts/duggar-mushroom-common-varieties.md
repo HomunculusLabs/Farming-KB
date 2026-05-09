@@ -1,7 +1,7 @@
 ---
 title: Common Cultivated Mushroom Varieties
 created: 2026-04-26
-sources: Benjamin Minge Duggar, "Mushroom Growing" (1915)
+sources: Benjamin benjamin-minge-duggar-mushroom-cultivation-research, "duggar-mushroom-growing-history-and-methods" (1915)
 source_path: raw/papers/benjamin-minge-duggar-mushroom-growing.md
 extracted: 2026-04-24
 type: concept
@@ -24,7 +24,7 @@ A woodland species found from early summer until late fall. The cap is large, fl
 Also an inhabitant of woods, almost pure white except as to gills, sometimes tinged with yellow. A rather small species occurring in the summer. Not intentionally brought into cultivation, but a form obtained from commercial spawn may prove to be this species. Cultivation induces considerable change in size and texture.
 
 ### Agaricus magnificus and A. Rodmani
-Some botanists would assign specific rank to such forms, which are among the intergrading forms or varieties occurring in the United States.
+Some botanists would assign specific rank to such forms, which are among the intergrading forms or varieties occurring in the [[dmt-containing-plants-united-states-halpern]].
 
 ## Other Edible Mushrooms
 
@@ -45,7 +45,7 @@ The wood is cut in the form of poles, permitted to weather, then cuts are made t
 A very large genus embracing a considerable number of species, nearly all of considerable size. Seldom is a species met whose cap measures less than two inches in diameter and often as much as five inches. Among 200 or more species, only a single species has been marked as poisonous.
 
 ## The Basidiomycetes
-The predominant fleshy fungi, characterized by the development of a sporophore or fruit body. Five important families include: Agaricaceae (gill fungi), Polyporaceae (pore-bearing), Hydnaceae (tooth-like structures), Clavariaceae (often much branched), and Lycoperdaceae (puff balls). The Ascomycetes include the saddle fungi and morels (Helvellaceae), and the subterranean truffles (Tuberaceae) and terfas (Terfeziaceae).
+The predominant fleshy fungi, characterized by the development of a sporophore or [[abort-suppression-brassinosteroid-incomplete-fruit-body-reduction]]. Five important families include: Agaricaceae (gill fungi), Polyporaceae (pore-bearing), Hydnaceae (tooth-like structures), Clavariaceae (often much branched), and Lycoperdaceae (puff balls). The Ascomycetes include the saddle fungi and morels (Helvellaceae), and the subterranean truffles (Tuberaceae) and terfas (Terfeziaceae).
 
 ## Morels (Morchella)
 
@@ -55,7 +55,7 @@ All related genera of Morchella are considered edible when thoroughly cooked. Ra
 
 ## Puffballs (Lycoperdaceae)
 
-Puffballs are among the most easily recognized and safest of all wild mushrooms to identify. When young and firm, they are excellent edibles with a mild, pleasant flavor. The key to identification is that puffballs should be pure white inside when cut open -- any discoloration or sign of gill formation means the specimen should be discarded.
+Puffballs are among the most easily recognized and safest of all [[edible-wild-mushrooms-by-region]] to identify. When young and firm, they are excellent edibles with a mild, pleasant flavor. The key to identification is that puffballs should be pure white inside when cut open -- any discoloration or sign of gill formation means the specimen should be discarded.
 
 Puffballs range from small species less than an inch across to the giant puffball (Calvatia gigantea), which can reach the size of a basketball or larger. Larger puffballs require peeling before cooking. They may be sliced and fried, breaded and baked, or used in soups and stews.
 
@@ -76,5 +76,5 @@ Several important rules apply to wild mushroom consumption:
 
 ## Related Concepts
 
-- [[duggar-mushroom-history-and-overview]] - Origin and development of mushroom cultivation
+- [[duggar-mushroom-history-and-overview]] - Origin and development of [[accessible-mushroom-cultivation-for-disabilities]]
 - [[substrate-preparation-mushroom-growing]] - Growing requirements for different varieties

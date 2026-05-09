@@ -1,5 +1,5 @@
 ---
-title: The Scalpel and the Beautiful Woman — Science Dissecting Nature
+title: The Scalpel and the fukuoka scalpel beautiful woman science nature — Science Dissecting Nature
 source: masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
 author: Masanobu Fukuoka
 tags: [fukuoka, philosophy-of-science, reductionism, nature, scientific-method, holistic-thinking]
@@ -9,11 +9,11 @@ tags: [fukuoka, philosophy-of-science, reductionism, nature, scientific-method, 
 
 ## Overview
 
-In *The Natural Way of Farming: The Theory and Practice of Green Philosophy*, Masanobu
+In *The Natural Way of Farming: The Theory and Practice of [[fukuoka-sowing-green-philosophy-one-grain-revolution]]*, Masanobu
 Fukuoka offers one of his most vivid metaphors for the limitations of scientific reductionism:
 "All science has succeeded in doing is to peel the skin off a beautiful woman and reveal a
 bloody mass of tissue. What a miserable, wasted effort." This metaphor captures his central
-critique of the scientific method as applied to nature — that analytical dissection destroys
+critique of the [[fukuoka-limits-scientific-method-agriculture]] as applied to nature — that analytical dissection destroys
 the very wholeness and beauty that it seeks to understand.
 
 ## Nature as an Indivisible Whole
@@ -24,7 +24,7 @@ cannot be divided and subdivided.
 When nature is separated into two complementary halves and these divided again into four,
 when research becomes fragmented and specialized, the unity of nature is lost.
 
-The factors determining yield in rice cultivation — sunlight, water, soil nutrients,
+The factors determining yield in [[jadam-rice-cultivation-methods]] — sunlight, water, soil nutrients,
 temperature, microbial activity, pest populations — were not originally divided and separate.
 All were joined in perfect order under a single conductor's baton and resonated together in
 exquisite harmony.
@@ -117,7 +117,7 @@ the integrated system that actually produces food.
 
 ## The Alternative: Working with Wholeness
 
-Natural farming, in Fukuoka's view, is the practical alternative to scientific reductionism
+[[comparison-natural-farming-vs-permaculture]], in Fukuoka's view, is the practical alternative to scientific reductionism
 in agriculture.
 
 Rather than trying to understand and control every variable, the natural farmer works with

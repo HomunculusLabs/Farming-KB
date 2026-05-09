@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [herbalism, herbs, medicine]
-sources: []
+sources:
+  sources: []
 ---
 
 # Herbal First Aid
@@ -27,7 +28,7 @@ Burns are common injuries that respond well to herbal treatment. For minor burns
 
 Aloe vera gel is the first-line treatment for fresh burns. The cool, soothing gel provides immediate pain relief and creates a protective barrier over damaged skin. Fresh gel from a living aloe plant is preferred. Apply generously and reapply as the gel dries.
 
-Lavender essential oil applied neat (undiluted) to minor burns is a traditional French aromatherapy remedy. A few drops applied immediately after a burn can reduce pain, blistering, and scarring. This treatment is supported by clinical observation though not by large controlled trials.
+Lavender [[permaculture-designers-manual-essential-oil-plants]] applied neat (undiluted) to minor burns is a traditional French aromatherapy remedy. A few drops applied immediately after a burn can reduce pain, blistering, and scarring. This treatment is supported by clinical observation though not by large controlled trials.
 
 Calendula salve or St. John's Wort oil can be applied after the initial acute phase (24 to 48 hours) to promote tissue repair and reduce scarring. Honey, particularly Manuka honey, can be used as a wound dressing for more serious burns to prevent infection and promote healing.
 
@@ -53,7 +54,7 @@ Turmeric taken internally provides systemic anti-inflammatory support for acute 
 
 ## Emergency Preparedness
 
-A well-organized herbal first aid kit should be clearly labeled, regularly inspected for expired preparations, and kept accessible. Include a reference card with basic dosage information for each remedy. For households with children, include [[herbal-medicine-safety]] for general safety principles and the [[herbal-salves-and-balms]] — Topical preparation methods
+A well-organized herbal first aid kit should be clearly labeled, regularly inspected for expired preparations, and kept accessible. Include a reference card with basic dosage information for each remedy. For households with children, include [[herbal-medicine-safety]] for general [[shulgin-safety-principles-self-experimentation]] and the [[herbal-salves-and-balms]] — Topical preparation methods
 - [[herbal-poultices-and-compresses]] — Poultice and compress techniques
 - [[herbal-materia-medica]] — Individual herb profiles
 - [[herbal-medicine-preparation-methods]] — Antimicrobial herbs for wound care
@@ -73,7 +74,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +116,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

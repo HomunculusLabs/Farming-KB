@@ -1,9 +1,10 @@
 ---
-title: Holzer Climate Zone Adaptation and Microclimate Creation
+title: Holzer Climate Zone Adaptation and mollison-designers-microclimate-creation-frost-protection
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 type: concept
 tags: [climate, holzer, microclimate, site-design]
 ---
@@ -37,7 +38,7 @@ Holzer observed large stretches of fallow land, completely unprotected against e
 2. Build [[holzer-terraced-landscape-design]], raised beds, and ditches to create favourable conditions
 - Grow old hardy varieties adapted to poor soils and extreme temperatures
 - Nutritional value of fruits increases at higher altitudes due to harsh cold nights improving flavour
-- Harvest timing extends over months: same cherry variety ('Kassin's Fruhe') ripens in June at 1,000m but September at 1,500m
+- [[cannabis-harvest-timing-visual-cues]] extends over months: same cherry variety ('Kassin's Fruhe') ripens in June at 1,000m but September at 1,500m
 - Blankets of leaves from nearby trees protect sensitive plants through winter
 - Cacti (Opuntia ficus-indica) grow outside through winter in sheltered areas
 
@@ -49,11 +50,11 @@ Holzer observed large stretches of fallow land, completely unprotected against e
 
 Through microclimate creation, Holzer has achieved:
 
-- Cacti (prickly pear, Opuntia ficus-indica) growing outside through winter
-- Apricots, sweet chestnut, grapes, and kiwi in warm sheltered areas
+- Cacti ([[comparison-agave-vs-prickly-pear-cultivation]], Opuntia ficus-indica) growing outside through winter
+- Apricots, [[holzer-sweet-chestnut-and-nut-trees]], grapes, and kiwi in warm sheltered areas
 - Bitter oranges (Poncirus trifoliata) flourishing, protected by a larch trunk
-- Ancient cereals (einkorn, emmer, Siberian grain) ripening at 1,500m
-- Shiitake mushrooms producing at 1,500m on inoculated oak logs sunk 30cm into ground
+- [[holzer-ancient-cereals-growing]] (einkorn, emmer, Siberian grain) ripening at 1,500m
+- [[query-how-to-grow-shiitake-mushrooms-on-logs]] producing at 1,500m on inoculated oak logs sunk 30cm into ground
 - Lemons and grapes in suntraps
 - Kiwi fruit (Actinidia deliciosa) in particularly warm and sheltered areas
 
@@ -80,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

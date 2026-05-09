@@ -10,7 +10,7 @@ tags: [dmt, tryptamine]
 
 # Endogenous DMT and Pineal Gland Theory
 
-McKenna's discussion of endogenous DMT in "Tryptamine Hallucinogens and Consciousness" (Esalen lecture, December 1983; published in The Archaic Revival, 1992) provides a critical pharmacological argument: that DMT is not foreign to the human body but is naturally produced within it. This observation underpins much of his broader argument about the relationship between tryptamine hallucinogens and the fundamental nature of consciousness. The essay was delivered at the Lilly/Goswami Conference on Consciousness and Quantum Physics, linking McKenna's experiential pharmacology to the frontier of theoretical physics.
+McKenna's discussion of endogenous DMT in "[[mckenna-tryptamine-hallucinogens-and-consciousness]] and Consciousness" (Esalen lecture, December 1983; published in The [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]], 1992) provides a critical pharmacological argument: that DMT is not foreign to the human body but is naturally produced within it. This observation underpins much of his broader argument about the relationship between tryptamine hallucinogens and the fundamental nature of consciousness. The essay was delivered at the Lilly/Goswami Conference on Consciousness and Quantum Physics, linking McKenna's experiential pharmacology to the frontier of theoretical physics.
 
 ## DMT as Endogenous Compound
 
@@ -20,7 +20,7 @@ McKenna contrasts this with LSD, which "is retained in the body for some time," 
 
 ## Tryptophan Derivation and Serotonin Relationship
 
-McKenna frames DMT within the broader family of tryptophan-derived compounds, establishing a molecular genealogy that connects ordinary waking neurochemistry to extraordinary psychedelic experience. He opens the essay by identifying the three key compounds as "tryptophan-derived hallucinogens dimethyltryptamine (DMT), psilocybin, and a hybrid drug that is in aboriginal use in the rain forests of South America, ayahuasca."
+McKenna frames DMT within the broader family of tryptophan-derived compounds, establishing a molecular genealogy that connects ordinary waking neurochemistry to extraordinary [[leary-psychedelic-experience-bardo-mapping]]. He opens the essay by identifying the three key compounds as "tryptophan-derived hallucinogens dimethyltryptamine (DMT), psilocybin, and a hybrid drug that is in aboriginal use in the rain forests of South America, ayahuasca."
 
 He specifically notes the structural relationships:
 
@@ -43,7 +43,7 @@ The quantum mechanical argument is significant because it grounds McKenna's phen
 
 McKenna argues that "the major quantum mechanical phenomena that we all experience, aside from waking consciousness itself, are dreams and hallucinations." These states, he proposes, occur "when the large amounts of various sorts of radiation conveyed into the body by the senses are restricted." Under these conditions of sensory restriction, "we see interior images and interior processes that are psycho-physical" and which "definitely arise at the quantum mechanical level."
 
-This framework places endogenous DMT within a spectrum of naturally occurring altered states. If the brain produces DMT, and if DMT produces experiences of extraordinary intensity and apparent intelligence, then the boundary between ordinary dreaming, extraordinary visionary experience, and what McKenna calls "the tryptamine hypercontinuum" becomes a matter of neurochemical concentration rather than ontological category. Dreams, psychedelic visions, and mystical experiences may all be expressions of the same underlying quantum-level process, differing only in the intensity and quality of the neurochemical conditions that produce them.
+This framework places endogenous DMT within a spectrum of naturally occurring altered states. If the brain produces DMT, and if DMT produces experiences of extraordinary intensity and apparent intelligence, then the boundary between ordinary dreaming, extraordinary visionary experience, and what McKenna calls "the tryptamine hypercontinuum" becomes a matter of neurochemical concentration rather than ontological category. Dreams, psychedelic visions, and [[psilocybin-mystical-experiences-personality-change]] may all be expressions of the same underlying quantum-level process, differing only in the intensity and quality of the neurochemical conditions that produce them.
 
 ## The Brain's Receptor Sites and Shamanic Ability
 
@@ -59,7 +59,7 @@ First, the boundary between "ordinary" consciousness and "extraordinary" conscio
 
 Second, the evolutionary presence of endogenous DMT suggests that these extraordinary states may have biological significance. McKenna does not explicitly speculate on the evolutionary function of endogenous DMT in this essay, but the question is implicit: why would the brain produce a compound whose effects include confrontation with apparently alien intelligence? Possible answers include roles in dreaming, near-death experiences, creative insight, or mystical consciousness -- all states that have been proposed as having adaptive significance.
 
-Third, the rapid onset and short duration of smoked DMT suggest that the brain has evolved specialized mechanisms for processing this compound. As McKenna puts it, the pharmacokinetic profile "means that the brain is absolutely at home with this compound." This familiarity implies that DMT-mediated states are not aberrations but rather expressions of capabilities that the brain possesses as part of its standard equipment.
+Third, the rapid onset and [[savory-short-duration-grazing-and-cell-systems]] of smoked DMT suggest that the brain has evolved specialized mechanisms for processing this compound. As McKenna puts it, the pharmacokinetic profile "means that the brain is absolutely at home with this compound." This familiarity implies that DMT-mediated states are not aberrations but rather expressions of capabilities that the brain possesses as part of its standard equipment.
 
 ## The Pineal Gland Connection
 
@@ -71,7 +71,7 @@ The question of where exactly in the brain this endogenous DMT is produced and w
 
 McKenna uses the existence of endogenous tryptamines to argue for the centrality of consciousness in the cosmic order. He writes: "the most richly organized material in the universe is the human cerebral cortex, and the densest and richest experience in the universe is the experience you are having right now. Everything should be constellated outward from the perceiving self. That is the primary datum."
 
-This argument directly challenges what McKenna calls the "decentralizing bender" of Western thought over the past five hundred years, which has progressively moved human beings from the center of the universe to its periphery. Copernicus removed Earth from the center of the solar system; Darwin removed humanity from the center of biological creation. For McKenna, the existence of endogenous compounds that open onto transpersonal dimensions of experience suggests that this decentralization has gone too far -- that human consciousness is not a peripheral phenomenon but a central one, perhaps the central phenomenon of the cosmos.
+This argument directly challenges what McKenna calls the "decentralizing bender" of Western thought over the past five hundred years, which has progressively moved human beings from the center of the universe to its periphery. Copernicus removed Earth from the center of the solar system; Darwin removed humanity from the center of biological creation. For McKenna, the existence of endogenous compounds that open onto [[metzner-transpersonal-dimensions-psychedelic-therapy]] of experience suggests that this decentralization has gone too far -- that human consciousness is not a peripheral phenomenon but a central one, perhaps the central phenomenon of the cosmos.
 
 ## Consciousness as State Vector Collapse
 
@@ -90,6 +90,13 @@ McKenna extends the argument about endogenous neurochemistry to the nature of la
 McKenna references the Buddhist scholar Herbert Guenther's work on human uniqueness, noting that "one must come to terms with one's uniqueness." He argues that we are "naive about the role of language and being as the primary facts of experience." The endogenous tryptamine hypothesis reinforces this point: if the human brain produces compounds that open onto transpersonal dimensions, then human uniqueness is not merely a matter of cognitive capacity but of neurochemical endowment. The human brain is unique not only in its complexity but in the specific compounds it produces and the specific experiences those compounds enable.
 
 ## See Also
+
+- [[shamanism-in-tryptamine-context]]
+- [[4-po-dmt]]
+- [[4-prho-dmt]]
+- [[dmt-as-hallucinogen]]
+
+- [[dmt-endogenous-production]]
 
 - [[5-meo-dmt-reference]]
 - [[mckenna-archaic-revival]]

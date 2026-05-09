@@ -1,5 +1,5 @@
 ---
-title: Companion Planting as Pest Deterrent
+title: comparison-companion-planting-reference-vs-jadam-monoculture-critique as Pest Deterrent
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -37,7 +37,7 @@ Many companion planting recommendations are based on folklore, but some have bee
 
 Hoverflies are the most valuable pest predators in the garden. They exist in different species worldwide.
 
-**Life cycle connection to companion planting:**
+**[[bloomfield-fungal-life-cycle-spiral-versus-circle]] connection to companion planting:**
 - Before laying eggs, the female hoverfly needs protein from pollen
 - She feeds from open-structured flowers where pollen is easily accessible (short feeding tube)
 - She then lays individual eggs on colonies of aphids
@@ -57,13 +57,13 @@ Hoverflies are the most valuable pest predators in the garden. They exist in dif
 
 ## French Marigolds for Weed Suppression
 
-Beyond pest deterrence, French marigolds are reported to help suppress certain weeds, particularly couch grass. The mechanism may be related to root secretions, similar to their effect on eelworms.
+Beyond [[foliar-pest-deterrence-aact-mechanisms]], French marigolds are reported to help suppress certain weeds, particularly couch grass. The mechanism may be related to root secretions, similar to their effect on eelworms.
 
 ## Related
 
-- [[green-manure-crops-detailed]] — Phacelia as a green manure that also attracts hoverflies
-- [[clubroot-disease-management]] — disease management for brassicas
-- [[leatherjacket-pest-control]] — direct pest control methods for soil pests
+- [[green-manure-crops-detailed]] — Phacelia as a [[comparison-green-manure-guide-vs-mulch-types-and-effects]] that also attracts hoverflies
+- [[clubroot-disease-management]] — [[plant-disease-management-solomon]] for brassicas
+- [[leatherjacket-pest-control]] — direct [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] methods for soil pests
 ## Practical Considerations
 
 Successful implementation of Companion Planting as Pest Deterrent requires attention to
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

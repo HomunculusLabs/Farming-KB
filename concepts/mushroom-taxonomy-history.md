@@ -1,5 +1,5 @@
 ---
-title: Mushroom Taxonomy History
+title: palmer-mushroom-taxonomy-classification-system History
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Fungal taxonomy has undergone dramatic transformations over the past three centuries, from early morphological classification systems to modern molecular phylogenetics. The DNA revolution of the 1990s and 2000s fundamentally reshaped our understanding of fungal relationships, leading to major reclassifications that continue today. See [[fungal-dna-barcoding]] for current molecular identification methods.
+Fungal taxonomy has undergone dramatic transformations over the past three centuries, from early morphological classification systems to modern molecular phylogenetics. The DNA revolution of the 1990s and 2000s fundamentally reshaped our understanding of fungal relationships, leading to major reclassifications that continue today. See [[fungal-dna-barcoding]] for current [[biodiversity-fungal-molecular-identification-dna-barcoding]] methods.
 
 ## Early Classification (Pre-Linnaeus)
 
@@ -58,9 +58,9 @@ The adoption of microscopy transformed fungal taxonomy. Key developments:
 - **Cystidia**: Sterile cells on hymenial surfaces became important taxonomic characters
 - **Spore print colors**: Formalized as a major identification tool (see [[fungal-spore-print-guide]])
 
-Notable mycologists of this era:
+[[bloomfields-orchard-notable-mycologists-buller-and-lloyd]] of this era:
 - **Pier Andrea Saccardo**: Published Sylloge Fungorum (1882-1972), an enormous compendium of fungal names
-- **Charles Horton Peck**: Described thousands of North American species
+- **Charles Horton Peck**: Described thousands of [[growing-gourmet-north-american-reishi-species]] species
 - **Rolf Singer**: Published major monographs in the mid-20th century, introduced modern agaric classification
 
 ## Numerical Taxonomy and Phenetics (1960s-1980s)
@@ -98,7 +98,7 @@ The molecular era has produced several seismic shifts:
 
 1. **Loss of the Zygomycota**: The phylum Zygomycota, as traditionally defined, is polyphyletic. It has been split into several phyla: Mucoromycota, Zoopagomycota, and others.
 
-2. **Glomeromycota elevated**: Arbuscular mycorrhizal fungi were moved from Zygomycota to their own phylum, Glomeromycota (see [[glomeromycota-arbuscular-mycorrhizae]]).
+2. **Glomeromycota elevated**: [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi were moved from Zygomycota to their own phylum, Glomeromycota (see [[glomeromycota-arbuscular-mycorrhizae]]).
 
 3. **Agaricales restructured**: The gilled mushrooms have been extensively reorganized. The traditional Friesian genera have been split and recombined:
    - "Coprinus" split into Coprinopsis, Coprinellus, Coprinus (restricted)
@@ -109,7 +109,7 @@ The molecular era has produced several seismic shifts:
 
 5. **Cryptic species revealed**: What was once considered a single widespread species often turns out to be a complex of multiple species (e.g., the Armillaria mellea complex contains at least 10 species).
 
-6. **Lichens reclassified**: Molecular data showed that "lichenized fungi" are not a natural group — lichenization has evolved independently many times within Ascomycota.
+6. **Lichens reclassified**: Molecular data showed that "[[biodiversity-lichenized-fungi-symbiosis]]" are not a natural group — lichenization has evolved independently many times within Ascomycota.
 
 ## Current State and Challenges
 

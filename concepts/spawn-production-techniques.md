@@ -1,11 +1,4 @@
 ---
-title: Spawn Production Techniques
-created: 2026-04-14
-updated: 2026-04-14
-type: concept
-tags: [reference]
-sources:
-  - "raw/papers/mycelium-running-stamets.md"
 ---
 # Spawn Production Techniques
 
@@ -25,10 +18,10 @@ Each step provides a 10x expansion factor. One petri dish can ultimately produce
 - Milo (sorghum) is problematic for some species (e.g., Reishi forms fans climbing container walls)
 - Each grain jar contains 1000-1200 grams of sterilized rye
 
-### [[oyster-mushroom-spawn-production]] for additional spawn methods
-- [[mushroom-substrates]] for fruiting substrate preparation
-- [[fungal-culture-preservation-long-term-methods]]
-- [[mushroom-strain-preservation-senescence]]
+### oyster-mushroom-spawn-production for additional spawn methods
+- mushroom-substrates for fruiting substrate preparation
+- fungal-culture-preservation-long-term-methods
+- mushroom-strain-preservation-senescence
 ## Practical Applications
 
 Spawn Production Techniques has a range of practical applications that make it relevant to
@@ -107,3 +100,51 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## Merged: Spawn Generation Techniques
+
+# Spawn Generation Techniques
+
+Spawn generation is the process of creating inoculum — the living mycelial material used to seed substrate for mushroom production. paul stamets and Jeff Chilton describe multiple spawn generation methods in The Mushroom Cultivator, each suited to different scales and species.
+
+## The Role of Spawn
+
+Spawn is to mushroom cultivation what seed is to agriculture. The three major steps in mushroom growing parallel three phases of the mushroom life cycle: spore collection and isolation; preparation of inoculum by expanding mycelial mass on agar and then grain; and fruitbody initiation and development.
+
+## Agar-to-Grain Spawn
+
+The foundational method:
+1. A petri dish two-thirds covered with mycelium inoculates 6-8 quart jars (maximum 10-12)
+2. The "double wedge" transfer technique cuts a single wedge in half for faster colonization
+3. More mycelium transferred means faster colonization and less contamination risk
+4. Jars are shaken after inoculation to distribute mycelial wedges; a second shake may be needed on Day 4 or 5
+5. Full colonization typically occurs in 7-10 days
+
+## Grain-to-Grain Expansion
+
+The primary method for scaling up production:
+- G-1 (master jars): From agar, inoculate 10 jars
+- G-2 (second generation): Each G-1 jar inoculates 10-12 quart jars
+- G-3 (third generation): Each G-2 jar inoculates 10-12 more
+
+This exponential expansion can theoretically produce 1,000 jars from a single petri dish. Beyond the third generation, transfers are not recommended due to accumulated contamination risk.
+
+## Liquid Inoculation
+
+shiitake-mushroom-cultivation and grain-to-grain-transfer
+- mushroom-liquid-culture
+- wild-specimen-isolation
+
+---
+
+Source: The Mushroom Cultivator (Stamets & Chilton, 1983), Chapters II-III
+Updated: 2026-04-18
+## Practical Considerations
+
+When working with [[mushroom-spawn-generation-limits]] Techniques, several practical factors should be
+
+## See Also
+- [[mushroom-cultivator-grain-spawn-production]]
+- [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]]
+- [[duggar-mushroom-environmental-factors-temperature-moisture-light]]
+- [[mushroom-cultivator-contamination-prevention]]
+- [[mushroom-cultivator-wood-based-substrates]]

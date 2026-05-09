@@ -22,9 +22,9 @@ bacteria without creating anaerobic conditions.
 **Kelp** provides micronutrients, [[fungal-biomass-estimation-methods]] in tea requires different food sources than bacterial
 dominance:
 
-- **Fish hydrolysate** — provides amino acids, proteins, and complex nutrients
+- **[[comparison-fish-hydrolysate-vs-fish-emulsion]]** — provides amino acids, proteins, and complex nutrients
   that favor fungal growth over bacterial. Ingham recommends fish hydrolysate
-  over fish emulsion because the cold-processing preserves more beneficial
+  over [[solomon-foliar-feeding-fish-emulsion-and-kelp]] because the cold-processing preserves more beneficial
   compounds.
 
 - **[[how-do-i-choose-between-straw-bale-and-earthbag-construction]] nutrients become plant-available? Only through the soil food web —
@@ -35,7 +35,7 @@ dominance:
 The nutrients in kelp supply both bacteria and fungi, but plants cannot access
 them directly. The entire rationale for compost tea ingredients rests on the
 soil food web: you feed the microorganisms, and they feed the plants through
-predation and nutrient cycling.
+predation and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 ## Compost Quality as the Foundation
 
@@ -45,9 +45,9 @@ are meant to multiply. Ingham notes that the better the compost, the less volume
 is required, but the relationship is not linear. The amount of compost varies
 with the brewing machine design (bag type, aeration method, pump type).
 
-For vermicompost vs. thermal compost: both can produce equally good compost
+For vermicompost vs. [[ingham-thermal-compost-versus-worm-compost]]: both can produce equally good compost
 tea. Either can be fungal or bacterial dominated. A 50:50 or 25:75 mix of
-thermal to worm compost works well. [[soil-foodweb-balancing-protocol-ingham]] Inc.
+thermal to [[ingham-thermal-worm-compost-comparison]] works well. [[soil-foodweb-balancing-protocol-ingham]] Inc.
 ## Practical Considerations
 
 When working with Ingham Compost Tea Recipes And Ingredient Formulations, several practical factors should be
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

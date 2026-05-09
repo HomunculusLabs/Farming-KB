@@ -31,12 +31,12 @@ achieve FAE through:
 - **Timed exchange**: Fans on timers cycle every 1-4 hours, depending on
   chamber size and number of substrates.
 
-Excessive FAE can lower humidity below critical thresholds. The goal is a
+Excessive FAE can lower humidity below [[ingham-dissolved-oxygen-critical-thresholds-compost-tea]]. The goal is a
 balance that maintains high humidity while keeping CO2 low.
 
 ### Light
 
-Contrary to popular belief, most cultivated mushrooms are not grown in
+Contrary to popular belief, most [[fungi-cultivated-mushrooms-pathogens-competitors]] are not grown in
 darkness. Light serves as a directional cue that helps mushrooms orient
 upward and develop normal cap morphology. A 12-hour on/12-hour off cycle of
 indirect ambient light is standard.
@@ -67,7 +67,7 @@ The holes provide passive FAE while the perlite maintains humidity. Best for
 [[bulk-substrate-field-capacity]] cultivation. The tub
 itself serves as both colonization vessel (with holes taped during
 colonization) and fruiting chamber (holes opened for fruiting). Monotubs are
-the workhorse of home cultivation, offering simplicity, scalability, and
+the workhorse of [[mushroom-home-cultivation-history]], offering simplicity, scalability, and
 reliable results.
 
 Common modifications include:
@@ -101,10 +101,10 @@ misting. This cycle of misting and fanning provides both humidity and FAE.
 
 ## Common Problems
 
-- **Low humidity**: Causes cracked caps, slow growth, and aborts. Add more
+- **[[pf-tek-low-humidity-symptoms-and-remediation]]**: Causes cracked caps, slow growth, and aborts. Add more
   moisture sources or reduce FAE frequency.
 - **High CO2**: Long stems, small caps, fuzzy feet. Increase FAE.
-- **Bacterial blotch**: Dark brown spots on caps caused by *Pseudomonas*
+- **[[growing-gourmet-bacterial-blotch-disease-management]]**: Dark brown spots on caps caused by *Pseudomonas*
   bacteria. Reduce surface moisture and increase FAE.
 - **Cobweb mold**: Gray mold caused by poor FAE and excess humidity.
 - **Overlay**: Dense mat of mycelium on substrate surface that resists
@@ -112,6 +112,6 @@ misting. This cycle of misting and fanning provides both humidity and FAE.
 
 ## See Also
 
-- mushroom cultivation fundamentals
+- [[accessible-mushroom-cultivation-for-disabilities]] fundamentals
 - mushroom cultivation fundamentals
 - mushroom cultivation fundamentals

@@ -1,24 +1,27 @@
 ---
-title: Fungi Associated with Aquatic Animals — Pathogens and Parasites
+title: Fungi Associated with fungi aquatic animals pathogens parasites — Pathogens and Parasites
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-
 # Fungi Associated with Aquatic Animals — Pathogens and Parasites
-
-More than 250 species of fungi, comprising 86 genera from all major taxonomic groups except Basidiomycotina, are recognized from aquatic animals worldwide. These include devastating pathogens of fish, crustaceans, mollusks, and other aquatic organisms.
+More than 250 species of fungi, comprising 86 genera from all major taxonomic
+groups except Basidiomycotina, are recognized from aquatic animals worldwide.
+These include devastating pathogens of fish, crustaceans, mollusks, and other
+aquatic organisms.
 
 ## Major Pathogen Groups
 
 ### Oomycetes (Chromista) — The Most Destructive Group
-The majority of infectious mycopathogens of aquatic animals belong to Oomycetes and Chytridiomycota. At least 12 genera are notoriously destructive:
+The majority of infectious mycopathogens of aquatic animals belong to
+Oomycetes and Chytridiomycota. At least 12 genera are notoriously destructive:
 
 **Aphanomyces species:**
 - Cause devastating epizootics in crayfish, fish, and other aquatic animals
-- A. astaci: Crayfish plague — has virtually eliminated native European crayfish populations
+- A. astaci: Crayfish plague — has virtually eliminated native European
+  crayfish populations
 - Motile spores facilitate rapid spread through water
 
 **Saprolegnia species:**
@@ -33,64 +36,84 @@ The majority of infectious mycopathogens of aquatic animals belong to Oomycetes 
 - Motile zoospores enable rapid transmission
 
 ### Chytridiomycota (Fungi)
-- **Coelomomyces:** Parasites of mosquito larvae — potential biological control agents
-- **Ichthyophonus hoferi:** Well-known pathogen of marine and freshwater fish; exhibits secular (18-30 year) periodicity in Atlantic herring and yellowtail flounder; phylogenetic position currently disputed
-- **Batrachochytrium dendrobatidis:** Associated with global amphibian decline — possibly the most consequential aquatic animal pathogen discovered in recent decades
+- **Coelomomyces:** Parasites of mosquito larvae — potential biological
+  control agents
+- **Ichthyophonus hoferi:** Well-known pathogen of marine and freshwater
+  fish; exhibits secular (18-30 year) periodicity in Atlantic herring and
+  yellowtail flounder; phylogenetic position currently disputed
+- **Batrachochytrium dendrobatidis:** Associated with global amphibian
+  decline — possibly the most consequential aquatic animal pathogen
+  discovered in recent decades
 
 ### Ascomycetes and Anamorphic Fungi
 Significant opportunistic pathogens include:
-- **Aspergillus species:** Cause aspergillosis in fish, corals, and other marine animals
+- **Aspergillus species:** Cause aspergillosis in fish, corals, and other
+  marine animals
 - **Fusarium species:** Important pathogens in marine aquaculture
 - **Exophiala species:** Black yeast pathogens of fish and crustaceans
-- **Trichomaris invadens:** Obligate Ascomycete pathogen of Alaskan tanner crabs; caused massive dieoffs
-- **Candida species:** Common opportunistic pathogens
-- **Paecilomyces species:** Fish pathogens
+- **Branchiomyces species:** Cause gill disease in freshwater fish
 
-### Labyrinthulomycota (Chromista)
-- **Labyrinthuloides haliotidis:** Causes significant mortality of juvenile abalone in British Columbia
-- Thraustochytrids: Important molluscan parasites
-- Associated with marine plants and bivalves
+## Transmission and Epidemiology
+Aquatic fungal pathogens spread through multiple routes. Waterborne
+transmission via motile zoospores is the primary mechanism for oomycetes
+and chytrids. These spores can travel considerable distances in currents
+and persist in sediment until encountering a susceptible host. Direct
+contact between infected and healthy individuals also facilitates spread,
+particularly in crowded aquaculture conditions. Environmental stressors
+including temperature fluctuations, low [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]], high ammonia
+levels, and handling injuries all increase host susceptibility. Many of
+these fungi are opportunistic pathogens that exploit compromised immune
+function rather than attacking healthy animals.
 
-## Types of Pathogens
+## Impact on Aquaculture
+Fungal diseases represent a significant economic burden in global
+aquaculture. Saprolegniasis alone causes millions of dollars in annual
+losses across salmonid, catfish, and trout farming operations. Crayfish
+plague has devastated European aquaculture and wild populations since
+its introduction from [[psilocybin-north-america-pacific-northwest]]. Shellfish aquaculture faces threats
+from Lagenidium and Fusarium infections that can wipe out entire larval
+cohorts in hatcheries. Treatment options remain limited — formalin baths,
+malachite green (now banned in many jurisdictions), and improved water
+quality management are the primary interventions available.
 
-### Obligate Pathogens
-Cannot be cultured in vitro for extended periods:
-- Ichthyophonus hoferi
-- Trichomaris invadens
-- Trichomycete species in arthropod guts (obligate but nonpathogenic)
+## Diagnosis and Detection
+Clinical diagnosis of aquatic [[blesching-cannabis-fungal-infections-candida]] typically relies on visual
+examination of characteristic lesions followed by microscopic confirmation.
+Wet mounts of infected tissue reveal hyphal morphology and sporulating
+structures. Molecular methods including PCR and qPCR have become
+increasingly important for early detection, particularly for
+Batrachochytrium dendrobatidis in amphibian populations. Histopathological
+examination of tissue sections can reveal internal hyphal invasion that
+is not visible externally. Culture on selective media remains the gold
+standard for species-level identification of many aquatic fungi.
 
-### Facultative Parasites
-Can be isolated from host tissues and cultured on glucose-based media:
-- Most Saprolegnia, Aphanomyces, and Lagenidium species
-- Aspergillus, Fusarium, Candida, Exophiala
-- Many can also be collected from water column and decaying organic matter
+## Ecological Consequences
+Beyond aquaculture, aquatic fungal pathogens have reshaped natural
+ecosystems. The chytrid fungus B. dendrobatidis has caused population
+crashes or extinctions of hundreds of amphibian species worldwide,
+representing the greatest loss of vertebrate biodiversity attributed to
+a single pathogen. Aphanomyces astaci has fundamentally altered European
+freshwater crayfish communities, replacing native species with resistant
+but less ecologically valuable [[growing-gourmet-north-american-reishi-species]] crayfish. These examples
+illustrate how fungal pathogens can act as keystone species whose
+presence or absence cascades through entire aquatic food webs.
 
-## Epidemiological Patterns
+## Research Frontiers
+Current research on aquatic animal fungi focuses on several areas.
+Genomic sequencing of pathogenic oomycetes and chytrids is revealing
+virulence mechanisms at the molecular level. Probiotic approaches using
+antagonistic bacteria show promise for preventing Saprolegnia infections.
+Environmental DNA monitoring enables early detection in natural waterways.
+Understanding [[dighton-fungi-climate-change-feedback]] impacts on disease dynamics is increasingly
+urgent as warming waters may expand the range of many aquatic fungal
+pathogens.
 
-### Seasonal Variation
-Number of infected hosts varies seasonally for most zoosporic pathogens, reflecting temperature effects on sporulation and host susceptibility.
-
-### Patchy Distribution
-Even cosmopolitan pathogens show restricted, patchy distributions within their host range. May reflect gene-based differences in host susceptibility, or climatic and biotic factors affecting infection success.
-
-### Geographic Expansion
-As aquaculture expands to include new species and geographic areas, cases of mycotoxicoses and their causative species will likely increase.
-
-## Mycotoxins in Aquaculture
-More than 200 mycotoxins have been identified from fish feed, primarily from Aspergillus, Fusarium, and Penicillium contamination. Fish and crustacean mycotoxicosis is a growing concern as the aquaculture industry expands.
-
-## Poorly Studied Groups
-- Fungi on coral reef animals
-- Fungi in tropical rainforest aquatic systems
-- Trichomycetes in guts of aquatic arthropods
-- Fungi infecting annelids, nematodes, tunicates, and ascidians
-
-## Collection Methods
-Same techniques used for infected and uninfected specimens. Choice governed by animal behavior, season, site, and working conditions. Samples must be statistically significant and randomly collected.
-
-## See Also
-
-- [[medically-important-fungi-pathogens-opportunists]]
 - [[insect-arthropod-associated-fungi]]
-- [[fungi-associated-aquatic-animals]]
+- fungi-associated-aquatic-animals
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
+## See Also
+- [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]]
+- [[zoosporic-fungi]]
+- [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]]
+- [[fungal-zoospore-biology-and-flagellate-motility]]
+- [[biodiversity-of-fungi-plant-health-pathogens-biocontrol]]

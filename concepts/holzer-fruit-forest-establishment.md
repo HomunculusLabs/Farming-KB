@@ -5,12 +5,13 @@ updated: 2026-04-18
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Fruit Forest Establishment
 
-The establishment of fruit forests (also called food forests or orchard forests) is one of Sepp Holzer's most distinctive contributions to permaculture practice. His method is radically different from conventional orchard establishment: instead of planting grafted nursery trees in prepared rows, he sows seeds directly onto the site, allows natural selection to take place, and then grafts desired varieties onto the strongest, best-adapted seedlings. This approach produces resilient, self-sufficient fruit forests at minimal cost.
+The establishment of fruit forests (also called food forests or orchard forests) is one of [[sepp-holzer-entity]]'s most distinctive contributions to permaculture practice. His method is radically different from conventional [[fukuoka-citrus-orchard-establishment-bare-hillside]]: instead of planting [[fukuoka-natural-seedlings-versus-grafted-nursery-stock]] trees in prepared rows, he sows seeds directly onto the site, allows natural selection to take place, and then grafts desired varieties onto the strongest, best-adapted seedlings. This approach produces resilient, self-sufficient fruit forests at minimal cost.
 
 ## The Sowing Method
 
@@ -28,7 +29,7 @@ Once the soil has been prepared with green manure, it is necessary to loosen it 
 
 ### Seed Source
 
-The best and most economical source of seeds is pomace -- the pulp left over from pressing fruit for juice or cider. The material left over from the must when distilling schnapps also works well, provided the seeds can be separated after they have been heated. This approach turns a waste product into a valuable resource, embodying the permaculture principle of producing no waste.
+The best and most economical source of seeds is pomace -- the pulp left over from pressing fruit for juice or cider. The material left over from the must when distilling schnapps also works well, provided the seeds can be separated after they have been heated. This approach turns a waste product into a valuable resource, embodying the [[permaculture-principle-apply-self-regulation]] of producing no waste.
 
 ### Stratification
 
@@ -66,7 +67,7 @@ Holzer advocates for integrating fruit trees directly into forest systems:
 
 I also plant cultivated and wild fruit trees in the forest to increase the diversity of species there and to increase the range of functions available for my woodland plots. From my point of view, there is no reason not to simply plant fruit trees (cultivated and wild) together in a mixed culture in the forest.
 
-This approach creates a multi-strata food-producing forest that combines timber production with fruit and nut crops, wildlife habitat, and all the other functions of a healthy forest ecosystem.
+This approach creates a multi-strata food-producing forest that combines timber production with fruit and nut crops, [[hemenway-backyard-wildlife-habitat]], and all the other functions of a healthy forest ecosystem.
 
 ## Converting Spruce Forests to Fruit Forests
 
@@ -107,8 +108,8 @@ Once established, a fruit forest requires minimal intervention:
 - Grafting new varieties onto established rootstocks
 - Harvesting fruit, nuts, and timber
 - Maintaining diversity through continued seedling establishment
-- Monitoring for pest and disease issues, intervening only when necessary
+- Monitoring for [[hamilton-pest-and-disease-control-organic]] issues, intervening only when necessary
 
 The result is a self-sustaining, productive ecosystem that improves over time rather than degrading -- the opposite of conventional agriculture.
 
-See also: [[holzer-fruit-tree-planting-method]], [[holzer-livestock-integration]], [[holzer-recommended-old-fruit-varieties]], [[holzer-terrace-systems]]
+See also: holzer-fruit-tree-planting-method, [[holzer-livestock-integration]], [[holzer-recommended-old-fruit-varieties]], [[holzer-terrace-systems]]

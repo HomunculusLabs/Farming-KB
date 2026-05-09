@@ -15,7 +15,7 @@ updated: 2026-04-28
 sources:
   - Heilmann-Clausen, J., et al. (1998). "The Genus Lactarius." Danish Mycological Society, Copenhagen.
   - Neuhoff, W. (1956). "Die Milchlinge (Lactarius)." Die Pilze Mitteleuropas, Band 2b.
-  - Verbeken, A., Horak, E. (2000). "Lactarius in Tropical montane forests." Fungal Diversity, 5, 5-33.
+  - Verbeken, A., Horak, E. (2000). "Lactarius in Tropical montane forests." [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]], 5, 5-33.
   - Basso, M.T. (1999). "Lactarius Pers. Fungi Europaei." Edizioni Candusso, Alba.
   - Foltz, M.J., et al. (2015). "Lactarius systematics." Mycologia, 107(2), 292-307.
 ---
@@ -24,7 +24,7 @@ sources:
 
 **Lactarius piperatus** (L.) Pers., commonly known as the peppery milk cap, white pepper milk cap, or simply the pepper milkcap, is a basidiomycete fungus in the family Russulaceae. It is one of the most widely recognized members of the genus *Lactarius*, easily identified by its pure white coloration, crowded white gills, and the intensely peppery, acrid latex (milk) that exudes from all parts of the fruiting body when cut or damaged.
 
-The species is found across temperate forests of Europe and North America, where it forms [[spore-print]]:** White to cream.
+The species is found across temperate forests of Europe and [[psilocybin-north-america-pacific-northwest]], where it forms [[spore-print]]:** White to cream.
 
 ### Microscopic Features
 
@@ -38,7 +38,7 @@ The species is found across temperate forests of Europe and North America, where
 *Lactarius piperatus* is distributed across the temperate regions of the Northern Hemisphere:
 
 - **Europe:** Widespread and common throughout the continent, from the British Isles and Scandinavia to the Mediterranean and eastward to the Ural Mountains. Particularly abundant in oak and beech forests of Central and Eastern Europe.
-- **North America:** Occurs in eastern North America from eastern Canada to the Gulf Coast states, associated with oaks and other hardwoods.
+- **North America:** Occurs in [[polypore-fungi-eastern-north-america]] America from eastern Canada to the Gulf Coast states, associated with oaks and other hardwoods.
 - **Asia:** Reported from China, Japan, and Korea, though Asian material may include [[corylus-avellana]]*)
 - Occasionally with birch (*Betula* spp.) and hornbeam (*Carpinus betulus*)
 
@@ -46,13 +46,13 @@ Fruiting occurs from midsummer to late autumn (July–November), with peak abund
 
 ## Ecology
 
-As an ectomycorrhizal partner, *L. piperatus* provides its host trees with enhanced access to soil minerals and water through an extensive extraradical mycelial network. In return, the fungus receives carbohydrates from the host's photosynthesis.
+As an ectomycorrhizal partner, *L. piperatus* provides its host trees with enhanced access to soil minerals and water through an extensive extraradical [[gadd-mycelial-network-dynamics]]. In return, the fungus receives carbohydrates from the host's photosynthesis.
 
 The species is notable for its role in **forest food webs**:
 
 - The fruiting bodies are consumed by various mammals, including deer, squirrels, and slugs.
 - The acrid latex likely serves as a chemical defense against herbivory and microbial attack.
-- The mycelium contributes to soil aggregation and nutrient cycling in forest ecosystems.
+- The mycelium contributes to soil aggregation and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest ecosystems.
 
 ## Edibility and Culinary Use
 
@@ -71,7 +71,7 @@ In Polish and Russian traditions, *L. piperatus* is commonly pickled with spices
 
 ### Nutritional Profile
 
-The species is low in calories and provides modest amounts of protein, fiber, B vitamins, and minerals (particularly potassium and phosphorus). Analysis has also revealed the presence of bioactive compounds including sterols and terpenoids.
+The species is low in calories and provides modest amounts of protein, fiber, B vitamins, and minerals (particularly potassium and phosphorus). Analysis has also revealed the presence of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] including sterols and terpenoids.
 
 ### Cautions
 

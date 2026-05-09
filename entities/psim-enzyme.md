@@ -11,7 +11,7 @@ sources:
 
 # PsiM (Norbaeocystin N-Methyltransferase)
 
-**PsiM** is an S-adenosyl-L-methionine (SAM)-dependent N-methyltransferase and the final enzyme in the psilocybin biosynthetic pathway. It catalyzes the iterative N-methylation of norbaeocystin through baeocystin to psilocybin, making it the primary determinant of the ratio of psilocybin-related alkaloids found in a given fungal species or strain.
+**PsiM** is an S-adenosyl-L-methionine (SAM)-dependent N-methyltransferase and the final enzyme in the [[psilocybin-biosynthetic-metabolic-pathway]] pathway. It catalyzes the iterative N-methylation of norbaeocystin through baeocystin to psilocybin, making it the primary determinant of the ratio of psilocybin-related alkaloids found in a given fungal species or strain.
 
 ## Biochemical Function
 
@@ -65,13 +65,13 @@ methyltransferases, most of which perform only a single transfer.
 
 ## Research Significance and Discoveries
 The discovery of PsiM's dual-step mechanism resolved a long-standing
-question in psilocybin biosynthesis: how the pathway generates three
+question [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]]: how the pathway generates three
 distinct alkaloids (norbaeocystin, baeocystin, and psilocybin) from a
 single enzymatic pathway. Before PsiM's characterization, the presence
-of baeocystin and norbaeocystin in mushroom tissue was unexplained.
+of baeocystin and norbaeocystin in [[hplc-analysis-psilocybin-psilocin-mushroom-tissue]] was unexplained.
 PsiM's substrate promiscuity and stepwise kinetics provide a molecular
 explanation for the variable alkaloid profiles observed across species
-and strains of psychoactive mushrooms.
+and strains of [[ceremonial-shamanic-use-psychoactive-mushrooms]].
 
 ## Metabolic Engineering Potential
 In synthetic biology applications, PsiM is a key enzyme for engineering

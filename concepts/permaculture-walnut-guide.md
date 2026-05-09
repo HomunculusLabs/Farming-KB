@@ -1,56 +1,18 @@
 ---
-title: Walnut Growing Guide
+title: Walnut comparison-bean-growing-guide-vs-pepper-growing-guide
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[permaculture, design]
+tags: [permaculture, design]
 sources: [/Users/t3rpz/wiki/raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md]
 ---
-
-Updated: 2026-04-18
-
-Walnuts (Juglans spp.) are large, long-lived nut trees providing both edible nuts and valuable timber. Black walnut in particular improves soil mineral content.
-
-## Species
-
-- Heartnut / Japanese Walnut (Juglans ailantifolia var. cordifolia) — coldest northern areas
-
-- Butternut / White Walnut (Juglans cinerea) — Northeast, Great Lakes
-
-- Black Walnut (Juglans nigra) — Midwest to East Coast, extending south (most valuable and scarcest)
-
-## Uses
-
-- Edible nut
-
-- Wood and timber
-
-## Growing Conditions
-
-- Full sun
-
-- 60-100 feet (18-30 m) tall, 50-100 feet (15-30 m) wide
-
-- Fertile, moist soil
-
-- Black walnut improves soil by building mineral content
-
-## Varieties
-
-English walnut (Juglans regia) is the most commonly cultivated species worldwide, known for its thin shell and mild flavor. Popular cultivars include 'Chandler', 'Hartley', 'Franquette', and 'Pedro', selected for productivity, disease resistance, and climate adaptability. Black walnut cultivars include 'Thomas', 'Emma K', and 'Sparrow', bred for nut size and cracking quality. Heartnut varieties produce nuts that crack cleanly into halves. For timber production, black walnut seedlings with straight trunks are preferred. Grafted trees begin producing nuts 3-5 years sooner than seed-grown trees.
-
-## Propagation
-
-Walnuts can be grown from seed or grafted cultivars. For seed propagation, plant fresh nuts 2-3 inches deep in the fall; cold stratification occurs naturally over winter. Seeds germinate the following spring. Grafting onto black walnut rootstock is standard for named cultivars — whip-and-tongue grafting in early spring is most successful. Seedling trees take 8-12 years to begin producing nuts, while grafted trees start in 4-5 years. Walnut trees develop deep taproots, so permanent site selection is critical. Transplanting mature trees is not practical.
-
-## Companion Planting
-
-Black walnut produces juglone, a chemical compound allelopathic to many plants. In [[permaculture-tree-crop-systems]], walnuts are best placed at the edge of food forests where their juglone influence is limited. As [[permaculture-tree-crop-systems]]
+Updated: 2026-04-18 Walnuts (Juglans spp.) are large, long-lived nut trees providing both edible nuts and valuable timber. Black walnut in particular improves soil mineral content. ## Species - Heartnut / Japanese Walnut (Juglans ailantifolia var. cordifolia) — coldest northern areas - Butternut / White Walnut (Juglans cinerea) — Northeast, Great Lakes - Black Walnut (Juglans nigra) — Midwest to East Coast, extending south (most valuable and scarcest) ## Uses - Edible nut - Wood and timber ## Growing Conditions - Full sun - 60-100 feet (18-30 m) tall, 50-100 feet (15-30 m) wide - Fertile, moist soil - Black walnut improves soil by building mineral content ## Varieties English walnut (Juglans regia) is the most commonly cultivated species worldwide, known for its thin shell and mild flavor. Popular cultivars include 'Chandler', 'Hartley', 'Franquette', and 'Pedro', selected for productivity, disease resistance, and climate adaptability. Black walnut cultivars include 'Thomas', 'Emma K', and 'Sparrow', bred for nut size and cracking quality. Heartnut varieties produce nuts that crack cleanly into halves. For timber production, black walnut seedlings with straight trunks are preferred. Grafted trees begin producing nuts 3-5 years sooner than seed-grown trees. ## Propagation Walnuts can be grown from seed or grafted cultivars. For [[jeavons-seed-propagation-techniques]], plant fresh nuts 2-3 inches deep in the fall; cold stratification occurs naturally over winter. Seeds germinate the following spring. Grafting onto black walnut rootstock is standard for named cultivars — whip-and-tongue grafting in [[coleman-overwintered-onions-and-early-spring-crops]] is most successful. Seedling trees take 8-12 years to begin producing nuts, while grafted trees start in 4-5 years. Walnut trees develop deep taproots, so permanent [[fukuoka-creating-natural-farm-site-selection-establishment]] is critical. Transplanting mature trees is not practical. ## [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] Black walnut produces juglone, a chemical compound allelopathic to many plants. In [[permaculture-tree-crop-systems]], walnuts are best placed at the edge of food forests where their juglone influence is limited. As [[permaculture-tree-crop-systems]]
 
 - [[permaculture-multipurpose-trees]]
 
 - [[building-soil-fertility-long-term]]
 - [[black-walnut-juglone-plant-toxicity]]
+
 ## Practical Considerations
 
 When working with Walnut Growing Guide, several practical factors should be
@@ -67,7 +29,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +71,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

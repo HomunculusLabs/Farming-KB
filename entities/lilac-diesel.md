@@ -26,13 +26,13 @@ created: 2026-04-28
 
 ## Overview
 
-Lilac Diesel is a sativa-dominant hybrid cannabis strain bred by Ethos Genetics, known for its complex floral-diesel aroma and energizing cerebral effects. The strain combines the pungent fuel notes of Sour Diesel lineage with sweet floral terpenes that give it a distinctive lilac-like bouquet.
+Lilac Diesel is a sativa-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] bred by Ethos Genetics, known for its complex floral-diesel aroma and energizing cerebral effects. The strain combines the pungent fuel notes of Sour Diesel lineage with sweet floral terpenes that give it a distinctive lilac-like bouquet.
 
 First released in the early 2020s, Lilac Diesel quickly gained popularity for its unique flavor profile that departs from the typical diesel-heavy palette of its parent strains. It has become a staple in the modern dispensary market, particularly on the US West Coast.
 
 ## Lineage
 
-Lilac Diesel is a multi-cross hybrid resulting from the combination of several well-established lines. The primary genetic contributors are Silver Lemon Haze × Forbidden Fruit, crossed with a carefully selected Sour Diesel-descended male.
+Lilac Diesel is a multi-cross hybrid resulting from the combination of several well-established lines. The primary genetic contributors are Silver Lemon Haze × [[tree-of-knowledge-and-forbidden-fruit-theory]], crossed with a carefully selected Sour Diesel-descended male.
 
 The Silver Lemon Haze parent contributes uplifting sativa effects and citrus terpene brightness, while Forbidden Fruit brings deep purple coloration and sweet cherry-grape notes. The Sour Diesel genetics provide the characteristic fuel aroma and cerebral stimulation.
 
@@ -44,7 +44,7 @@ Buds are medium to large, with an elongated and somewhat airy structure typical 
 
 The purple coloration intensifies in cooler growing conditions, with some phenotypes showing near-complete violet hues on the sugar leaves and outer calyxes. Bright orange pistils contrast sharply against the darker foliage, creating an eye-catching presentation.
 
-Trichome coverage is heavy, with a thick layer of milky-white trichomes coating both the buds and adjacent sugar leaves. The resin production is above average, making the strain suitable for hash and concentrate production.
+Trichome coverage is heavy, with a thick layer of milky-white trichomes coating both the buds and adjacent sugar leaves. The [[cannabis-glandular-trichome-types-resin-production-clarke]] is above average, making the strain suitable for hash and concentrate production.
 
 ## Aroma and Flavor
 
@@ -79,7 +79,7 @@ Onset is relatively rapid, with initial cerebral stimulation felt within 5–10 
 
 As the experience progresses, a gentle body relaxation emerges without heavy sedation, making this strain functional for daytime use. Many users report enhanced sensory perception, particularly music appreciation and visual acuity.
 
-Common applications include creative work, social gatherings, outdoor activities, and mood elevation. The strain is less commonly used for pain management but may help with mild anxiety and fatigue when dosed appropriately.
+Common applications include creative work, social gatherings, outdoor activities, and mood elevation. The strain is less commonly used for [[cannabis-pain-management-protocols]] but may help with mild anxiety and fatigue when dosed appropriately.
 
 ## Cultivation
 
@@ -87,7 +87,7 @@ Lilac Diesel has moderate difficulty, suitable for growers with some experience.
 
 Flowering time is approximately 9–10 weeks indoors. Outdoor plants finish by mid-October in temperate northern latitudes. Yields are moderate to good, averaging 350–450 g/m² indoors.
 
-The strain responds well to training techniques including low-stress training (LST) and scrogging. Cooler nighttime temperatures during weeks 5–7 of flowering enhance purple coloration. The plants are moderately resistant to common molds and pests but benefit from good airflow due to their dense bud structure.
+The strain responds well to [[cannabis-training-techniques-comparison]] including low-stress training (LST) and scrogging. Cooler nighttime temperatures during weeks 5–7 of flowering enhance purple coloration. The plants are moderately resistant to common molds and pests but benefit from good airflow due to their dense bud structure.
 
 ## Side Effects
 
@@ -97,7 +97,7 @@ Consumers sensitive to THC should start with a single inhalation and wait 15 min
 
 ## Medical Applications
 
-Lilac Diesel is sometimes recommended by medical cannabis practitioners for patients dealing with chronic fatigue, mild to moderate depression, and attention difficulties. The energizing cerebral effects can help counteract daytime lethargy without the heavy sedation of indica-dominant strains.
+Lilac Diesel is sometimes recommended by medical cannabis practitioners for patients dealing with [[cannabis-chronic-fatigue-research]], mild to moderate depression, and attention difficulties. The energizing cerebral effects can help counteract daytime lethargy without the heavy sedation of indica-dominant strains.
 
 The linalool and caryophyllene content provides secondary anti-inflammatory and anxiolytic benefits. Some patients find it useful for managing stress-related tension headaches and mild nausea, though it is not a primary therapeutic strain for severe pain conditions.
 
@@ -113,5 +113,5 @@ Ethos Genetics has used Lilac Diesel as a parent in subsequent crosses, includin
 - [[purple-haze]]
 - [[trainwreck]]
 - [[amnesia-haze]]
-- [[gelato-cannabis]]
+- [[gelato]]
 - [[runtz-entity]]

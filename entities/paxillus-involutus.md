@@ -18,8 +18,8 @@ type: entity
 ## Overview
 Paxillus involutus is a widespread ectomycorrhizal basidiomycete fungus
 associated primarily with trees in the Pinaceae and Betulaceae families. It is
-one of the most extensively studied ectomycorrhizal fungi due to its
-significant role in nutrient cycling, mineral weathering, and plant-microbe
+one of the most extensively studied [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] due to its
+significant role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], [[mycorrhizal-mineral-weathering-nutrient-acquisition]], and plant-microbe
 interactions in forest ecosystems. Despite its ecological importance, the
 fungus is toxic to humans when consumed raw.
 
@@ -43,16 +43,16 @@ fungus is toxic to humans when consumed raw.
 
 ### Symbiotic Relationships
 - Forms [[saprotrophic-fungi]] to host
-  plants through shared mycelial networks (Lindahl et al., 1999)
+  plants through shared [[fungal-mycelial-networks-nutrient-translocation]] (Lindahl et al., 1999)
 
 ### Ecological Role
-- Considered a "late-stage" mycorrhizal fungus in forest succession
+- Considered a "late-stage" mycorrhizal fungus in [[mollison-designers-food-forest-succession-design]]
 - More prevalent in mature forest stands with recalcitrant litter
 - Interacts synergistically with Suillus species in nutrient cycling
 
 ## Relevance
 Paxillus involutus is a model ectomycorrhizal fungus for understanding
-mineral weathering, heavy metal tolerance, and plant-fungal interactions.
+mineral weathering, heavy [[fungal-metal-tolerance-mechanisms]], and plant-fungal interactions.
 Its ability to mobilize nutrients from rocks and protect host plants from
 toxic metals makes it valuable for reforestation of degraded or
 contaminated sites. In permaculture and ecological restoration, selecting
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

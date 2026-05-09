@@ -1,5 +1,5 @@
 ---
-title: "McKenna History as Eschatological Shockwave"
+title: "McKenna mckenna history as eschatological shockwave Shockwave"
 source: mckenna_t-tryptamines_consciousness.md
 type: concept
 tags: [mckenna, eschatology, time, acceleration, novelty, history, teleology, consciousness-evolution]
@@ -61,13 +61,13 @@ the relationship between humanity and what he called "the symbiote" — a form
 of intelligence present in the environment, particularly associated with
 psychoactive plants, that feeds information to humanity about "the larger
 picture." The symbiote operates through the tryptamine-containing plants
-(psilocybin mushrooms, DMT-containing vines) to accelerate the development
+([[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]], DMT-containing vines) to accelerate the development
 of human consciousness and culture.
 
 In this reading, history is not just the story of human achievement but the
 story of humanity's reaction to the information being transmitted by the
 symbiote. The acceleration of novelty is driven in part by this ongoing
-information exchange, which periodically disrupts existing cultural patterns
+information exchange, which periodically disrupts existing [[harner-cross-cultural-patterns-shamanic-plant-use]]
 and propels humanity toward greater understanding.
 
 ## Critique of Scientific Cosmology
@@ -110,7 +110,7 @@ experience in the universe is the experience you are having right now. Everythin
 should be constellated outward from the perceiving self."
 
 This is not anthropocentric narcissism but a methodological principle: the
-perceiving self is the primary datum, the one thing that cannot be doubted.
+perceiving self is the [[decentralizing-bender-perceiving-self-primary-datum-mckenna]], the one thing that cannot be doubted.
 Any cosmology that fails to account for the extraordinary richness of
 conscious experience is, by that very fact, incomplete.
 
@@ -126,7 +126,7 @@ capacities.
 
 His vision of the "final human future" involves "exteriorizing the soul and
 internalizing the body" — the soul becoming a "superconducting lens of
-translinguistic matter" while the body image exists as a "holographic wave
+[[mckenna-translinguistic-matter-and-exteriorized-soul]]" while the body image exists as a "holographic wave
 transform." This is the ultimate expression of the acceleration principle:
 consciousness liberating itself entirely from material constraints.
 

@@ -32,7 +32,7 @@ The most visited and intensively managed area. Contains:
 - Intensively weeded and mulched beds with dense planting
 - Espaliered trees, trellises, arbors, and patio spaces
 - Rain barrels, small ponds, and greywater systems
-- Bird feeders, baths, and beneficial insect habitat
+- Bird feeders, baths, and [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] habitat
 
 Zone 1 is where you live in your garden rather than just work in it. Hemenway
 shares personal experience: after moving their garden from 100 feet away to a
@@ -43,7 +43,7 @@ get beyond tiny because someone is always there to spot them.
 
 Home to:
 - Staple and canning crops, small orchards
-- Berry bushes, densely planted shrubs, perennial vegetables
+- Berry bushes, densely planted shrubs, [[comparison-perennial-vegetables-vs-cover-crops]]
 - Greenhouses, barns, tool sheds
 - Compost bins, wells, ponds, and greywater systems
 - Small animals: rabbits, bees, chickens, fish
@@ -78,7 +78,7 @@ nature is the ultimate designer.
 - Zones are based on dynamic relationships (how we interact with elements) rather
   than static categories (flower, vegetable, tree)
 - Items used every day go right outside the door; less-used items go further away
-- A vining cucumber relegated to a distant vegetable garden becomes a wonderful
+- A vining cucumber relegated to a distant [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] becomes a wonderful
   choice for the arbor over an attached deck where harvest is simple
 
 ## Understanding Sectors
@@ -98,13 +98,13 @@ forces in their own sectors and designs to either block, direct, or harvest them
 
 ## Strategic Element Placement
 
-Ecological design places elements in the right relationship to each other. Smart
+[[williams-pdc-ecological-design-principles]] places elements in the right relationship to each other. Smart
 placements save time and energy:
 
 - Chicken coop on the path between house and vegetable garden → toss kitchen
   scraps to birds on the way out, give weeds to birds on the return trip
 - Compost bin near the kitchen door but between house and garden → efficient
-  nutrient cycling
+  [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 - Herb spiral outside the kitchen window → harvest while cooking, visual
   enjoyment, insect habitat
 - Duck pond positioned to drain into garden beds → nutrient-rich irrigation
@@ -114,7 +114,7 @@ placements save time and energy:
 Hemenway's case study demonstrates how the zone system transforms garden
 management. Before applying zones, their vegetable garden 100 feet from the house
 became a chore—boots, trudging, and constant neglect. After fencing a semicircle
-around the house and sheet mulching heavily, the garden became part of daily life:
+around the house and [[comparison-sheet-mulching-vs-chop-and-drop-mulching]] heavily, the garden became part of daily life:
 coffee-time weeding, window-gazing at butterflies, effortless mulching, and
 constant harvest. "Having had it both ways, using zones is the only way I'll
 garden."
@@ -126,4 +126,7 @@ garden."
 
 ## See Also
 
-- [[faires-garden-design-zone-1-layout]]
+- faires-garden-design-zone-1-layout
+- [[zone-and-sector-analysis]]
+- [[perennial-vegetables]]
+- [[toby-hemenway]]

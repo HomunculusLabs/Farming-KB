@@ -4,12 +4,12 @@
 
 In "The Natural Way of Farming," Masanobu Fukuoka presented one of his most
 philosophically radical ideas: the principle of non-causality. He argued
-that cause and effect, as understood by the scientific method, do not exist
+that cause and effect, as understood by the [[fukuoka-limits-scientific-method-agriculture]], do not exist
 in nature. What appears to be causal relationships when viewed up close
 dissolves into a "tangled confusion" when examined holistically. This
 principle was not merely an abstract philosophical position but the
-intellectual foundation for his critique of scientific agriculture and his
-advocacy of natural farming.
+intellectual foundation for his [[fukuoka-critique-of-scientific-agriculture]] agriculture and his
+advocacy of [[comparison-natural-farming-vs-permaculture]].
 
 ## The Scientific Method's Limitations
 
@@ -44,7 +44,7 @@ plant growth that further depletes the soil.
 attempt to trace these back to their sources only leads one further away
 from an understanding of the true cause." The soil acidity example was
 not hypothetical. Fukuoka described his own experience of applying large
-quantities of sawdust and wood chips to his orchard over the objections
+quantities of sawdust and [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]] to his orchard over the objections
 of soil experts, who predicted the resulting organic acids would make the
 soil dangerously acidic. In reality, the soil did not turn acid. As
 bacteria decomposed the sawdust, organic acids were produced; but as
@@ -61,9 +61,9 @@ infiltrate the plant, causing disease; therefore, applying bactericides
 controls the disease. Fukuoka showed that this analysis, while not
 incorrect at a surface level, was dangerously incomplete.
 
-High temperatures and heavy rainfall might be contributing factors, as
+High temperatures and heavy rainfall might be [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]], as
 might excess nitrogen fertilizer, flooding during high temperatures, or
-low disease resistance in the rice variety. Even if excess nitrogen were
+low disease resistance in the [[fukuoka-old-rice-variety-testing]]. Even if excess nitrogen were
 identified as a cause, understanding how it relates to bacterial attack
 required understanding photosynthesis, which science had not yet fully
 explained. Root rot might make plants susceptible, but defining what
@@ -124,6 +124,8 @@ farmer's role was not to manage nature but to observe it, learn from it,
 and work within its patterns rather than against them.
 
 ## See Also
+
+- [[fukuoka-pine-weevil-blight-non-causality]]
 
 - [[fukuoka-critique-laws-agricultural-science]]
 - [[cho-natural-farming-philosophy-of-non-interference]]

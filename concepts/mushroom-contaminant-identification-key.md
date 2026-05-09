@@ -1,107 +1,150 @@
 ---
-title: Mushroom Contaminant Identification Key
+title: Mushroom mushroom contaminant identification key Key
 created: 2026-04-26
-tags: [[mycology, mushroom-cultivation, contaminants, identification, stamets]
-date: 2026-04-25
-updated: 2026-04-25
-sources: [raw/papers/the-mushroom-cultivator-stamets.md]
+updated: 2026-05-09
 type: concept
+tags: [mycology, mushroom-cultivation, contaminants, identification, stamets]
+sources: sources: []
 ---
 
 # Mushroom Contaminant Identification Key
 
 Chapter XIII of The Mushroom Cultivator provides a comprehensive system
-for identifying the major contaminants encountered in mushroom culture.
-This key, combined with the contaminant descriptions, is one of the most
-practical tools available to cultivators for [[stamets-compost-preparation]] and are rarely seen in agar or grain
-culture.
+for identifying the major contaminants encountered in [[mazatec-mushroom-culture-and-velada]].
+
+This key, combined with the contaminant descriptions, is one of the
+most practical tools available to cultivators.
 
 ## The Five Vectors of Contamination
 
-1.  The cultivator and their clothes.
-2.  The air (airborne spores and bacteria).
-3.  The substrate to be inoculated.
-4.  The mycelium being transferred.
-5.  Inoculating tools, equipment, containers, and facilities.
+1. The cultivator and their clothes.
+2. The air (airborne spores and bacteria).
+3. The substrate to be inoculated.
+4. The mycelium being transferred.
+5. Inoculating tools, equipment, containers, and facilities.
 
 Different contaminants associate with different cultivation stages:
--   **Agar culture** — primarily airborne spores.
--   **Grain culture** — airborne spores plus spore-laden grain (which
-    contains 50,000-100,000 bacteria, 200,000+ actinomyces, 12,000
-    fungi per gram).
--   **Compost culture** — materials, spawn, workers, and facilities.
+
+- **Agar culture**: primarily airborne spores.
+- **Grain culture**: airborne spores plus spore-laden grain (which
+  contains 50,000-100,000 bacteria, 200,000+ actinomyces, 12,000
+  fungi per gram).
+- **Compost culture**: materials, spawn, workers, and facilities.
 
 ## Contaminant Sizes and Detection
 
-| Organism  | Size (microns) | Detection Method               |
-|-----------|---------------|--------------------------------|
-| Viruses   | 0.01-0.20     | X-ray, electron microscopy      |
-| Bacteria  | 0.40-5.0      | Light microscopy, colonies      |
-| Fungi     | 2.0-30.0      | Light microscopy, visible       |
+| Organism | Size (microns) | Detection Method |
+|-----------|---------------|-----------------|
+| Viruses | 0.01-0.20 | X-ray, electron microscopy |
+| Bacteria | 0.40-5.0 | Light microscopy, colonies |
+| Fungi | 2.0-30.0 | Light microscopy, visible |
 
 HEPA filters (0.3 micron) screen all fungal spores and most bacteria.
 Viruses pass through all standard filters.
 
-## The Identification Key — Pathogens
+## Bacterial Contaminants
+
+Bacteria are among the most common contaminants in mushroom culture.
+
+### Bacterial Blotch (Pseudomonas tolaasii)
+
+This is the most economically damaging bacterial disease of cultivated
+mushrooms.
+
+Symptoms appear as dark brown, sunken lesions on the cap surface that
+can expand rapidly in humid conditions.
+
+The bacterium produces a lipopeptide toxin called tolaasin that
+dissolves mushroom cell membranes, creating the characteristic lesions.
+
+Control measures include reducing surface humidity, improving air
+circulation, and applying registered bactericides.
+
+### Bacterial Soft Rot
+
+Caused by *Janthinobacterium* and other species, soft rot produces a
+slimy, foul-smelling degradation of mushroom tissue.
+
+It typically appears when mushrooms are injured or when humidity is
+excessively high.
+
+### Other Bacterial Problems
+
+- **Bacterial streak** on agar plates; caused by airborne bacteria
+  landing on media surface
+- **Bacterial pit**; small pits on mushroom caps caused by various
+  *Pseudomonas* species
+- **Slime mold contamination**; while not true bacteria, [[bloomfield-slime-molds-myxomycetes-plasmodial-protists]]
+  can overwhelm agar cultures and grain jars
+
+## The Identification Key: Pathogens
 
 Starting with "Contaminant parasitizing the mushroom fruitbody":
 
-1a. Watery, slimy, or oozing lesions (no powdery mycelium):
-    -   Droplets, no sunken lesions, whiteish foam mass: "Weepers"
-    -   Brown spots enlarging to dark slimy mass: *Pseudomonas tolaasii*
-        — **Bacterial Blotch** (Bacterial Pit)
-1b. Powdery or mildew-like mycelium covering mushrooms:
-    -   Green mold on mushroom, usually after casing green mold:
-        *Trichoderma viride* / *T. koningii* — **Trichoderma Blotch**
-    -   Not green mold on casing, check spore characteristics:
-        -   Amber fluid from young mushrooms, stem not splitting:
-            *Mycogone perniciosa* — **Wet Bubble**
-        -   No amber fluid, stem splitting/peeling in mature mushrooms:
-            *Verticillium malthousei* — **Dry Bubble**
-    -   Fast-running grayish cobweb-like mycelium on casing:
-        *Dactylium dendroides* — **Cobweb Mold**
+### Watery or Slimy Lesions (No Powdery Mycelium)
 
-## The Identification Key — Indicators
+- Droplets, no sunken lesions, whiteish foam mass: "Weepers"
+- Brown spots enlarging to dark slimy mass: *Pseudomonas tolaasii*
+  (Bacterial Blotch, or Bacterial Pit)
+
+### Powdery or Mildew-Like Mycelium
+
+- Green mold on mushroom, usually after casing green mold:
+  *Trichoderma viride* / *T. koningii* (Trichoderma Blotch)
+- Amber fluid from young mushrooms, stem not splitting:
+  *Mycogone perniciosa* (Wet Bubble)
+- No amber fluid, stem splitting/peeling in mature mushrooms:
+  *Verticillium malthousei* ([[verticillium-dry-bubble-mushroom-disease]])
+- Fast-running grayish cobweb-like mycelium on casing:
+  *Dactylium dendroides* (Cobweb Mold)
+
+## The Identification Key: Indicators
 
 Starting with "Contaminant not parasitizing the fruitbody":
 
--   **Another mushroom deliquescing into black liquid**: *Coprinus*
-    spp. — **Inky Cap**
--   **Pinkish to reddish to purplish**:
-    -   On compost/casing, fast growing, aerial: *Neurospora* — **Pink
-        Mold**
-    -   Slow growing, frosty texture, cherry red: *Geotrichum* —
-        **Lipstick Mold**
--   **Green mold** (on agar or grain): *Penicillium* or *Aspergillus*
--   **Yellow mold**: *Sepedonium* or *Epicoecum*
--   **Orange mold**: *Chaetomium* or *Neurospora*
--   **Brown/tan mold**: *Papulospora* (Brown Plaster Mold), *Doratomyces*
--   **White mold**: *Mycelia Sterilia*, *Scopulariopsis* (White Plaster
-    Mold)
+### Color-Based Identification
 
-## Key Identification Tips
+- Another mushroom deliquescing into black liquid: *Coprinus* spp.
+  (Inky Cap)
+- **Pinkish to reddish to purplish**:
+  - On compost/casing, fast growing, aerial: *Neurospora* (Pink Mold)
+  - Slow growing, frosty texture, cherry red: *Geotrichum*
+    (Lipstick Mold)
+- **Green mold** (on agar or grain): *Penicillium* or *Aspergillus*
+- **Yellow mold**: *Sepedonium* or *Epicoecum*
+- **Orange mold**: *Chaetomium* or *Neurospora*
+- **Brown/tan mold**: *Papulospora* (Brown Plaster Mold),
+  *Doratomyces*
+- **White mold**: *Mycelia Sterilia*, *Scopulariopsis*
+  (White Plaster Mold)
 
--   **Trichoderma vs. Verticillium vs. Dactylium**: Plate on malt agar.
-    Green colonies = Trichoderma. Otherwise likely Dactylium or
-    Verticillium. Dactylium is grey, aerial, and obvious on casing;
-    Verticillium is primarily on the fruitbody.
--   **Dactylium spores** are two-celled and large (20 microns).
--   **Trichoderma spores** are single-celled (4 x 5 microns).
--   **Verticillium spores** are single-celled and small (2-3 microns).
+## Detailed Contaminant Profiles
 
-## Diagnostic Approach
+### Trichoderma (Green Mold)
 
-1.  Observe the contaminant's color, texture, and growth rate.
-2.  Note where it appears (agar, grain, casing, fruitbody).
-3.  Identify the likely vector of contamination.
-4.  Implement targeted control measures.
-5.  If in doubt, culture on malt agar and examine under 400x
-    microscopy.
+Trichoderma is the most common and destructive mold contaminant in
+[[accessible-mushroom-cultivation-for-disabilities]].
 
+It produces prolific green spores that spread easily on air currents.
+Trichoderma aggressively colonizes [[comparison-grain-spawn-vs-grain-to-grain-transfer]] and compost,
+outcompeting mushroom mycelium through rapid growth and antibiotic
+production.
+
+On casing soil, Trichoderma forms dense green patches that can cover
+entire beds if unchecked.
+
+### Neurospora (Pink Mold)
+
+Neurospora is particularly problematic in warm growing conditions.
+
+It produces bright orange-pink mycelium and spores that are easily
+spread by air movement.
+
+While less destructive than Trichoderma, Neurospora can still ruin
+entire crops through rapid colonization of exposed substrate.
 ## See Also
-
--   [[mushroom-cultivator-contamination-prevention]] — prevention
-    strategies
--   [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] — sterile technique
-    fundamentals
--   [[trichoderma-forest-green-mold-guide]] — Trichoderma-specific guide
+- [[nineteenth-century-mushroom-identification]]
+- [[mushroom-contamination-identification]]
+- [[psilocybin-mushroom-identification-guide]]
+- [[mushroom-spore-identification]]
+- [[psilocybin-mushroom-identification]]

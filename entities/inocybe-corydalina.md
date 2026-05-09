@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Stijve T. & Kuyper T.W. (1985). "Occurrence of psilocybin in various species of the genus Inocybe (Fr.) Fr." Persoonia 12: 455–461.
-  - Stamets P. (1996). "Psilocybin Mushrooms of the World." Ten Speed Press.
+  - Stamets P. (1996). "[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World." Ten Speed Press.
   - Kühner R. (1980). "Les Hyménomycètes agaricoïdes." Bulletin de la Société Mycologique de France 96: 97–144.
   - Noordeloos M.E. (1999). "Flora Agaricina Neerlandica, Vol. 4." CRC Press.
   - Gartz J. (1996). "Distribution and evolution of psilocybin in fungi." Journal of Psychoactive Drugs 28(1): 63–66.
@@ -66,7 +66,7 @@ clavate to pear-shaped (pyriform), thin-walled.
 ## Distribution and Habitat
 
 *I. corydalina* is found across temperate Europe and has been reported
-from parts of North America and Asia, though records outside Europe
+from parts of [[psilocybin-north-america-pacific-northwest]] and Asia, though records outside Europe
 require taxonomic confirmation given the complexity of the genus.
 
 The species is mycorrhizal, forming associations with a range of broadleaf
@@ -81,7 +81,7 @@ with good canopy cover.
 ## Bioactive Compounds
 
 *I. corydalina* is confirmed to contain psilocybin and psilocin, the
-classical serotonergic tryptamine hallucinogens. Concentrations are
+classical serotonergic [[mckenna-tryptamine-hallucinogens-and-consciousness]]. Concentrations are
 generally low compared to dedicated psilocybin mushrooms, but sufficient
 to produce noticeable psychoactive effects.
 
@@ -120,9 +120,9 @@ lacrimation, bradycardia, bronchorrhea).
 ## Ecology
 
 As an ectomycorrhizal species, *I. corydalina* contributes to forest
-nutrient cycling by facilitating nutrient exchange between tree roots
+[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between tree roots
 and soil. Its relatively small fruiting body and inconspicuous habit
-suggest it plays a minor but stable role in woodland fungal communities.
+suggest it plays a minor but stable role in woodland [[biodiversity-of-fungi-soil-fungal-communities-agriculture]].
 
 The genus *Inocybe* as a whole is one of the most species-rich
 ectomycorrhizal agaric genera in temperate forests, with an estimated

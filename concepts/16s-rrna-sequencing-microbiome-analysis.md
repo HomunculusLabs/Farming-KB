@@ -1,5 +1,5 @@
 ---
-title: 16S rRNA Sequencing for Microbiome Analysis
+title: 16S 16s rrna sequencing microbiome analysis for Microbiome Analysis
 created: 2026-04-28
 tags: [methods, sequencing, bioinformatics]
 date: 2026-04-28
@@ -14,7 +14,7 @@ type: concept
 ## Overview
 
 Winston et al. (2014) used Illumina 16S rRNA gene sequencing to characterize
-bacterial communities associated with Cannabis roots and soil. The study
+[[cultivar-endorhiza-bacterial-communities-cannabis]] associated with Cannabis roots and soil. The study
 targeted the V4 hypervariable region of the 16S rRNA gene, following the
 Earth Microbiome Project standard protocols. A total of 69 samples were
 sequenced across two experiments, analyzed using the QIIME bioinformatics
@@ -103,13 +103,13 @@ Samples were rarified to even sequencing depths before diversity analysis:
 - **Experiment 2**: Rarefied to 45,000 sequences per sample
 
 The large difference in rarefaction depth reflects different sequencing runs
-and necessitates caution when comparing alpha diversity between experiments.
+and necessitates caution when comparing [[microbial-alpha-diversity-soil-plant-gradient]] between experiments.
 
 ## Diversity Metrics and Statistical Analysis
 
 Alpha and beta-diversity metrics were computed using QIIME:
 
-- **Beta diversity**: Weighted and unweighted UniFrac distances calculated
+- **[[alpha-beta-diversity-cannabis-root-microbiomes]]**: Weighted and [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]] distances calculated
   from pairwise sample comparisons
 - **Visualization**: PCoA (principal coordinate analysis) and RDA (redundancy
   analysis) plots
@@ -126,7 +126,7 @@ communities. Two versions were used:
 
 - **Unweighted UniFrac**: Based on OTU presence/absence, reflecting community
   composition (which taxa are present)
-- **Weighted UniFrac**: Accounts for OTU abundance, reflecting community
+- **Weighted UniFrac**: Accounts for [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]], reflecting community
   structure (which taxa are present and how abundant they are)
 
 The complementary use of both metrics allowed the authors to distinguish

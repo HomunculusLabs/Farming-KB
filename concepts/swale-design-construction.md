@@ -1,10 +1,11 @@
 ---
-title: Swale Design and Construction
+title: comparison-swale-design-vs-contour-swale-irrigation-design and Construction
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [swales, permaculture, water-management, earthworks, erosion, regenerative, agriculture]
-sources: []
+sources:
+  sources: []
 ---
 
 # Swale Design and Construction
@@ -27,11 +28,11 @@ A shallow, wide swale filled with gravel or coarse organic material. Designed fo
 
 ### Net and Pan Swale
 
-A series of small, interconnected swales forming a net-like pattern across a slope. Used in arid and semi-arid regions to capture every possible drop of rainfall. Labor-intensive but extremely effective for desert restoration.
+A series of small, interconnected swales forming a net-like [[psilocin-accumulation-pattern-across-flushes]] a slope. Used in arid and semi-arid regions to capture every possible drop of rainfall. Labor-intensive but extremely effective for desert restoration.
 
 ### Berm 'n Basin (Boomerang Swale)
 
-Crescent-shaped swales on gentle slopes, typically used around individual trees or planting areas. The berm (mound) is on the downhill side, and the basin (depression) captures water. Simple to construct with hand tools.
+Crescent-shaped swales on gentle slopes, typically used around individual trees or planting areas. The berm (mound) is on the downhill side, and the basin (depression) captures water. Simple to construct with [[garden-hand-tools-solomon]].
 
 ## Sizing Formula
 
@@ -94,7 +95,7 @@ The berm (mound on the downhill side) should be:
 
 ### Step 2: Marking the Contour
 
-1. Use an A-frame level, bunyip (water level), laser level, or dumpy level to find the contour line
+1. Use an A-frame level, bunyip (water level), laser level, or dumpy level to find the [[comparison-swale-vs-contour-line-water-management]]
 2. Place stakes or flags every 2-3 meters along the contour
 3. Walk the line and verify it feels level — small adjustments may be needed for natural variation
 4. On very long swales (over 50 meters), allow for a very slight (0.1-0.5%) grade to prevent ponding in low spots
@@ -128,7 +129,7 @@ Every swale needs a safe overflow point to prevent catastrophic failure during e
 ### Step 5: Stabilization
 
 1. Plant the berm immediately with a cover crop (see [[cover-cropping-guide]]) to prevent erosion
-2. Mulch the berm heavily with straw or wood chips
+2. Mulch the berm heavily with straw or [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]]
 3. Plant trees and perennials on the berm (see below)
 4. Line the swale bottom with gravel or wood chips if water velocity will be high
 5. In erosion-prone areas, place rocks or logs along the swale bottom to dissipate energy
@@ -139,53 +140,11 @@ Swales create ideal planting conditions — the berm is well-drained and moistur
 
 ### Tree Planting
 
-- Plant trees on the top of the berm, not in the swale bottom (root rot risk)
-- Space trees 3-6 meters apart depending on mature size
-- Use deep-rooted trees on the uphill side and shallow-rooted on the downhill side
-- Fruit trees, nut trees, and nitrogen-fixing trees all thrive on swale berms
-- See [[grafting-fruit-trees]] for establishing fruit tree orchards on swales
-- See [[food-forest-design]] for polyculture designs
+## Related
 
-### Understory Planting
-
-- Comfrey, artichokes, and rhubarb on the berm below trees
-- Berry bushes (currants, gooseberries) on the lower berm
-- Nitrogen-fixing ground covers (clover, vetch) as living mulch on the berm
-- Pollinator plants on the swale edge — see [[insectary-plantings]]
-- Aquatic or moisture-loving plants in the swale bottom (only if water persists)
-
-## Swale Maintenance
-
-### Annual Tasks
-
-- Inspect spillways after major storms — clear debris, repair erosion
-- Re-mulch berms as needed
-- Prune trees and maintain plantings
-- Check for berm settling or cracking
-- Remove sediment buildup in swale bottom if it reduces capacity
-
-### Long-Term Monitoring
-
-- Observe water infiltration after rainfall — swales should drain within 24-48 hours
-- Standing water for more than 72 hours indicates poor infiltration (compaction or hardpan)
-- If infiltration is poor, consider broadforking the swale bottom or adding compost
-- After 3-5 years, swales may fill with sediment and organic matter — this is natural and indicates the system is working
-
-## Common Mistakes
-
-- Not building spillways — the most dangerous swale mistake
-- Swales too close together on steep slopes (overloading)
-- Not planting the berm immediately (erosion follows)
-- Building swales on slopes over 20% (use terraces instead)
-- Ignoring local regulations — some jurisdictions restrict earthworks near waterways
-- Digging swales in highly compacted clay without addressing infiltration
-- Not checking contour carefully — even a 1% error concentrates water dangerously
-
-## Related Topics
+- [[pdc-earthen-construction-techniques]] Topics
 
 - [[keyline-design]] for broader landscape water management
 - [[earthworks-for-water-management]] for ponds, berms, and retention basins
 - [[rainwater-harvesting-systems]] for water collection and storage
 - [[cover-cropping-guide]] for stabilizing newly built swales
-- erosion for erosion control context
-- [[preserving-wood-timber-framing]]

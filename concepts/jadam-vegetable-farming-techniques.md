@@ -142,11 +142,5 @@ The "nutritional perspective" means the best fertilizer for a vegetable is made 
 - Takes over 1 month to make
 - Watch for powdery mildew and grey mold (Formula #4)
 
-### Cucumber/Melon
-- Watch for powdery mildew (Formula #4)
-- Return cucumber leaves to soil -- they contain perfect cucumber nutrition
 ## See Also
-
-## See Also
-
-- [[korean-natural-farming-and-jadam]]
+- [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]]

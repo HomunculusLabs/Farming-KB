@@ -1,13 +1,6 @@
 ---
-title: Orchard Soil Building Without Fertilizers
-created: 2026-04-18
-updated: 2026-04-20
-type: concept
-tags: [fukuoka, natural-farming, philosophy]
-sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
----
 
+---
 # Orchard Soil Building Without Fertilizers
 
 updated: 2026-04-18
@@ -22,11 +15,11 @@ A review of his father's finances revealed the orchard had been run at a loss fo
 
 ## Ground Cover as the Foundation
 
-The purpose of [[fukuoka-white-clover-ground-cover]] of living plants, enabling soil in the field, garden, and hillside orchard to become naturally enriched simultaneously.
+The purpose of fukuoka-white-clover-ground-cover of living plants, enabling soil in the field, garden, and hillside orchard to become naturally enriched simultaneously.
 
 ## Ladino Clover: The Primary Cover Crop
 
-After planting seeds of thirty legumes, crucifers, and grasses throughout the orchard, Fukuoka concluded that [[fukuoka-green-manure-clover-revolution]] (a type of acacia) serves as a fertilizer tree that radically improves deep soil strata:
+After planting seeds of thirty legumes, crucifers, and grasses throughout the orchard, Fukuoka concluded that fukuoka-green-manure-clover-revolution (a type of acacia) serves as a fertilizer tree that radically improves deep soil strata:
 
 - Five to ten trees per quarter-acre among fruit trees
 - Grows five feet or more per year, creating a shelterbelt in 3-4 years
@@ -46,7 +39,7 @@ Along with cover crops, Fukuoka dug trenches and filled them with organic matter
 
 ## Understanding Soil Through Weeds
 
-One can understand the nature of the soil more quickly by examining the [[fukuoka-natural-farming-philosophy|soil formation rates]] and produces soil that is qualitatively different from artificially amended soil. Fruit trees on naturally improved soil live two to three times longer than those grown with artificial fertilizers.
+One can understand the nature of the soil more quickly by examining the soil formation rates and produces soil that is qualitatively different from artificially amended soil. Fruit trees on naturally improved soil live two to three times longer than those grown with artificial fertilizers.
 
 The trench burial technique — filling trenches with organic matter including straw, wood chips, branches, and lumber — works in tandem with surface cover crops. While clover improves the top 16-18 inches, trench burial addresses deeper soil strata. The best material proved to be lumber produced directly in the orchard from black wattle trees, creating a closed-loop system where soil improvement generates its own raw materials.
 
@@ -58,9 +51,10 @@ Source: Fukuoka, Natural Way of Farming (administrator-microsoft-word-fukuoka-te
 
 - [[fukuoka-natural-livestock-integration-philosophy]]
 - [[fukuoka-citrus-orchard-ground-cover-cultivation]]
+
 ## Practical Considerations
 
-Successful implementation of Orchard Soil Building Without Fertilizers requires attention to
+Successful implementation of fukuoka orchard soil building without fertilizers Without Fertilizers requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -77,3 +71,9 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+- [[fukuoka-textdoc-citrus-orchard-soil-building-without-fertilizer]]
+- [[fukuoka-textdoc-vegetable-weed-family-replacement-orchard-soil-building]]
+- [[fukuoka-soil-self-improvement-without-tillage]]
+- [[fukuoka-textdoc-soil-rehabilitation-timeline-orchard-cover-crop-management]]
+- [[fukuoka-textdoc-weeds-as-soil-diagnostic-tools-orchard-restoration]]

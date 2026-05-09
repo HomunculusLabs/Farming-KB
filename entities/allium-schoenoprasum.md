@@ -31,11 +31,11 @@ aliases:
 
 **Allium schoenoprasum**, commonly known as chives, is a perennial herbaceous plant in the
 family Amaryllidaceae (formerly Alliaceae). Native to temperate regions of Europe, Asia,
-and North America, it is one of the most widely cultivated culinary herbs globally.
+and [[psilocybin-north-america-pacific-northwest]], it is one of the most widely cultivated [[holzer-medicinal-and-culinary-herbs-compendium]] globally.
 
 Chives are distinguished from other *Allium* species by their hollow, tubular leaves and
 delicate purple-pink flowers borne on spherical umbels. The leaves and flowers are both
-edible, providing a mild onion flavor widely used in European, Asian, and North American
+edible, providing a mild onion flavor widely used in European, Asian, and [[growing-gourmet-north-american-reishi-species]]
 cuisines. The species also has documented antimicrobial and antioxidant properties.
 
 ## Taxonomy and Classification
@@ -89,14 +89,14 @@ Key bioactive constituents include methyl allyl disulfide, dipropyl disulfide, a
 diallyl trisulfide. Flavonoids include kaempferol and quercetin glycosides.
 
 Antimicrobial activity has been demonstrated against Gram-positive bacteria (*Staphylococcus
-aureus*, *Bacillus subtilis*) and select fungi (*Candida albicans*), attributed primarily
+aureus*, *Bacillus subtilis*) and select fungi (*[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*), attributed primarily
 to organosulfur compounds. Antioxidant capacity (ORAC values) is moderate among culinary
 herbs.
 
 ## Culinary and Nutritional Use
 
 Chive leaves are harvested by cutting 2-5 cm above the soil, allowing regrowth throughout
-the growing season. They are used fresh as a garnish and flavoring in soups, salads,
+the [[savory-growing-season-and-non-growing-season-management]]. They are used fresh as a garnish and flavoring in soups, salads,
 egg dishes, cream cheese, and potato preparations. The flowers are edible and used as
 garnishes.
 
@@ -108,7 +108,7 @@ them valuable companion plants in kitchen gardens and permaculture designs.
 
 ## Cultivation
 
-Chives are hardy to USDA zone 3 (-40°C) and are among the easiest perennial herbs to grow.
+Chives are hardy to USDA zone 3 (-40°C) and are among the easiest perennial [[query-what-are-the-best-anxiolytic-herbs-to-grow-at-home]].
 They prefer rich, well-drained soil and consistent moisture but tolerate drought once
 established. Plants require 6+ hours of direct sunlight for optimal production.
 
@@ -124,5 +124,5 @@ Common cultivars include 'Common' (standard green), 'Forescate' (deep rose flowe
 - [[allium-sativum-entity]]
 - [[ocimum-basilicum]]
 - [[rosmarinus-officinalis-entity]]
-- [[permaculture]]
+- permaculture
 - [[urtica-dioica]]

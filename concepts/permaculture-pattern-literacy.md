@@ -11,13 +11,14 @@ tags:
   - observation
   - landscape-reading
 sources:
-  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+  sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - raw/papers/bill-mollison-permaculture-design-course.md
 ---
 
 # Permaculture Pattern Literacy
 
-Pattern literacy is the ability to read, understand, and apply the patterns found in nature and society to design. David Holmgren makes it a central theme in "Permaculture: Principles and Pathways Beyond Sustainability," and Bill Mollison similarly emphasized pattern understanding throughout the Permaculture Design Course. Pattern literacy is the foundation of the permaculture principle "Design from patterns to details."
+Pattern literacy is the ability to read, understand, and apply the patterns found in nature and society to design. David Holmgren makes it a central theme in "Permaculture: Principles and Pathways Beyond Sustainability," and Bill Mollison similarly emphasized [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]] throughout the [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] Course. Pattern literacy is the foundation of the permaculture principle "[[permaculture-principle-design-from-patterns-to-details]] to details."
 
 ## What Are Patterns?
 
@@ -48,7 +49,7 @@ Wind patterns, water waves, sand dunes, and sound all move in wave forms. Wave p
 - Contour-based planting
 
 ### Net and Web Patterns
-Spider webs, mycorrhizal networks, neural networks, and social connections form net patterns. These inform:
+Spider webs, [[dighton-mycorrhizal-networks-carbon-transfer]], neural networks, and social connections form net patterns. These inform:
 - Community network design
 - [[mycorrhizal-networks|Soil fungal networks]]
 - Information sharing systems
@@ -56,7 +57,7 @@ Spider webs, mycorrhizal networks, neural networks, and social connections form 
 
 ### Fractal Patterns
 Self-similar patterns that repeat at different scales -- ferns, coastlines, tree branching. Fractals teach that:
-- The same design principles apply at any scale
+- The same [[holmgren-permaculture-twelve-design-principles-framework]] apply at any scale
 - Small details reflect larger patterns
 - Complex systems can emerge from simple rules
 
@@ -82,7 +83,7 @@ The principle "Design from patterns to details" means starting with the largest 
 
 Pattern literacy begins with learning to read what the landscape is telling you:
 
-- **Vegetation patterns**: Different plant communities indicate different soil, moisture, and light conditions
+- **[[holmgren-vegetation-patterns-biomass-fertility]]**: Different plant communities indicate different soil, moisture, and light conditions
 - **Erosion patterns**: Show where water is concentrated and moving too fast
 - **Frost patterns**: Reveal cold air drainage paths and frost pockets
 - **Animal paths**: Indicate preferred routes, food sources, and shelter locations
@@ -125,7 +126,7 @@ Christopher Alexander's concept of a "pattern language" -- a vocabulary of desig
 
 - [[permaculture-principle-design-from-patterns-to-details]]
 - [[permaculture-patterns-in-nature]]
-- [[patterns-in-nature]]
+- nature
 - [[permaculture-design-process]]
 - [[permaculture-site-analysis]]
 - [[permaculture-edge-effect-design]]

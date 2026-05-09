@@ -31,7 +31,7 @@ The tree also produces dense, durable timber valued for construction, fence post
 
 **Maclura tinctoria** (L.) D. Don ex Steud. is placed in the family Moraceae, tribe Moreae.
 The basionym is *Morus tinctoria*, described by Linnaeus in 1753.
-It is closely related to the North American osage orange (*Maclura pomifera*), which shares similar wood properties.
+It is closely related to the [[growing-gourmet-north-american-reishi-species]] osage orange (*Maclura pomifera*), which shares similar wood properties.
 Trees typically reach 15–25 m in height with a straight trunk 40–80 cm in diameter.
 In favorable conditions, exceptional specimens may exceed 30 m.
 The bark is gray to dark brown, deeply fissured, with prominent lenticels on younger branches.
@@ -46,11 +46,11 @@ Each syncarp contains numerous small seeds embedded in a fleshy, sweet-tasting m
 
 ## Distribution and Habitat
 
-Fustic ranges from southern Mexico through Central America to Colombia, Venezuela, Brazil, Peru, Bolivia, Paraguay, and northern Argentina.
+Fustic ranges from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to Colombia, Venezuela, Brazil, Peru, Bolivia, Paraguay, and northern Argentina.
 
 It also occurs naturally in the Caribbean islands of Cuba, Jamaica, Hispaniola, and Puerto Rico.
 
-The species is found in a wide range of habitats, from dry tropical forests to humid premontane forests.
+The species is found in a wide range of habitats, from [[mollison-wet-dry-tropical-design-strategies]] forests to humid premontane forests.
 
 Elevation ranges from sea level to approximately 1500 m.
 
@@ -74,9 +74,9 @@ The principal colorant is morin (3,5,7,2',4'-pentahydroxyflavone), a flavonol pi
 
 Morin produces shades from bright yellow to olive-green depending on the mordant used.
 
-Alum mordants yield clear yellows, iron mordants produce olive to brown shades, and chrome gives golden tones.
+Alum mordants yield clear yellows, iron mordants [[query-how-to-start-a-small-olive-grove-and-produce-olive-oil-at-home]] to brown shades, and chrome gives golden tones.
 
-Fustic was extensively used in the European textile industry until synthetic aniline dyes replaced it in the late 19th century.
+Fustic was extensively used in the European [[staycare-fungal-treatment-of-textile-industry-wastewater]] until synthetic aniline dyes replaced it in the late 19th century.
 
 It remains in use by artisan dyers, leather workers, and in the conservation of historical textiles.
 
@@ -86,7 +86,7 @@ The heartwood contains morin as the primary bioactive compound, along with maclu
 
 Morin has demonstrated antioxidant, anti-inflammatory, and hepatoprotective activities in pharmacological studies.
 
-Antimicrobial activity of heartwood extracts has been reported against several bacterial and fungal pathogens.
+Antimicrobial activity of heartwood extracts has been reported against several [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] pathogens.
 
 In traditional medicine, bark decoctions are used to treat skin infections, wounds, and dental pain.
 

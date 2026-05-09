@@ -1,5 +1,5 @@
 ---
-title: "Black Wattle as Fertilizer Tree and Beneficial Insect Host"
+title: "fukuoka [[fukuoka-natural-alfalfa-black-wattle-ground-cover]] fertilizer tree method as Fertilizer Tree and comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol Host"
 created: 2026-04-28
 tags: [black-wattle, acacia, fertilizer-tree, nitrogen-fixation, shelterbelt, beneficial-insects, ladybug]
 date: 2026-04-25
@@ -16,7 +16,7 @@ The black wattle ([[fukuoka-no-prune-fruit-tree-method]]
 - [[fukuoka-orchard-cover-crop-black-wattle-system]]
 ## Background and Context
 
-Black Wattle as Fertilizer Tree and Beneficial Insect Host is an important subject that has garnered significant attention
+Black Wattle as Fertilizer Tree [[insectary-plants-and-beneficial-insect-habitat-design]] Host is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough
@@ -64,7 +64,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -142,4 +142,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

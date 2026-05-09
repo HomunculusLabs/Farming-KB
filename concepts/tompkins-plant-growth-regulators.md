@@ -1,5 +1,5 @@
 ---
-title: Plant Growth Regulators
+title: Plant ingham-natural-growth-regulators-soil-microbes
 created: 2026-04-26
 aliases: [auxins, gibberellins, cytokinins, plant hormones, ethylene]
 tags: [botany, biochemistry, plant-physiology, hormones]
@@ -21,7 +21,7 @@ Lund's revolutionary finding: auxins are "summoned and even transported by the c
 
 The book traces the discovery of auxins to work showing that plants bend toward light due to differential growth rates on illuminated versus shaded sides. The growth-promoting substance was named auxin (from Greek "auxein," to grow). Auxins were found to:
 
-- Control cell elongation
+- Control [[brassinosteroid-physiological-mechanisms-cell-elongation-division]]
 - Regulate apical dominance
 - Influence root development
 - Coordinate tropic responses (phototropism, gravitropism)
@@ -72,11 +72,11 @@ Georges Lakhovsky in Paris proposed that all living cells emit and receive elect
 
 ## Wound Response and Growth Signals
 
-The book describes how plants respond to wounds and damage through coordinated electrical and chemical signals. When a leaf is damaged, both electrical impulses and chemical messengers propagate through the plant, triggering defensive responses. Bose demonstrated that the death spasm of a plant produces a huge electrical discharge -- five hundred green peas could develop five hundred volts.
+The book describes how plants respond to wounds and damage through coordinated electrical and [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]. When a leaf is damaged, both electrical impulses and chemical messengers propagate through the plant, triggering defensive responses. Bose demonstrated that the death spasm of a plant produces a huge electrical discharge -- five hundred green peas could develop five hundred volts.
 
 ## Pfeiffer's Chromatographic Analysis
 
-Ehrenfried Pfeiffer developed sensitive chromatographic methods to visualize the quality of plant growth under different conditions. Wheat grown biologically versus chemically produced dramatically different chromatograms, revealing differences in vital force that standard chemical analysis could not detect. His work suggested that growth regulators are not merely chemical substances but interact with a vital energy field.
+Ehrenfried Pfeiffer developed sensitive chromatographic methods to visualize the quality of plant growth under different conditions. Wheat grown biologically versus chemically produced dramatically different chromatograms, revealing differences in vital force that standard [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] could not detect. His work suggested that growth regulators are not merely chemical substances but interact with a vital energy field.
 
 ## Key Quotes
 
@@ -88,4 +88,7 @@ Ehrenfried Pfeiffer developed sensitive chromatographic methods to visualize the
 
 - [[plant-perception]]
 - [[plant-fungal-signaling-mycorrhiza]]
-- [[mycorrhizal-plant-signaling]]
+- mycorrhizal-plant-signaling
+- [[singh-fungal-plant-growth-regulators-production]]
+- [[tompkins-magnetism-plant-growth]]
+- [[tompkins-electroculture-plant-growth]]

@@ -1,5 +1,5 @@
 ---
-title: Jerusalem artichoke
+title: comparison-jerusalem-artichoke-vs-potato
 created: 2026-04-28
 type: species
 scientific_name: Helianthus tuberosus
@@ -27,7 +27,7 @@ updated: 2026-05-02
 # Jerusalem artichoke
 
 **Jerusalem artichoke** (*Helianthus tuberosus*) is a perennial sunflower species grown for edible
-underground tubers rather than for seeds. It is native to central and eastern North America and is now
+underground tubers rather than for seeds. It is native to central and [[polypore-fungi-eastern-north-america]] America and is now
 cultivated or naturalized through much of the temperate world. The crop is also known as sunroot,
 sunchoke, topinambur, wild sunflower, and earth apple. Despite the name, it is neither from Jerusalem nor
 closely related to the globe artichoke; the artichoke comparison refers to tuber flavor. In permaculture
@@ -59,7 +59,7 @@ or nutty.
 
 ## Native Range and Habitat
 
-The species is North American, with a native range centered in the interior and eastern parts of the
+The species is [[growing-gourmet-north-american-reishi-species]], with a native range centered in the interior and eastern parts of the
 continent. Exact pre-contact boundaries are difficult to reconstruct because Indigenous cultivation and
 later European movement spread it widely. It tolerates a range of soils but performs best in deep, loose,
 fertile ground with good moisture. It is common along field edges, roadsides, disturbed ground,
@@ -72,7 +72,7 @@ in annual vegetable rotations.
 Jerusalem artichoke is usually propagated by tuber pieces rather than seed. Each planted piece needs
 viable buds, comparable to planting seed potatoes. Tubers are commonly set shallowly in spring after soil
 can be worked. Stems grow rapidly and may form dense summer screens or windbreaks. The crop needs less
-fertility than many annual root crops but responds to organic matter and adequate potassium. Drought
+fertility than many annual [[permaculture-plants-root-crops-and-tubers]] but responds to [[hamilton-composting-and-organic-matter-management]] and adequate potassium. Drought
 reduces tuber size, though plants often survive because of deep roots. Harvest usually occurs after frost
 when tops die back and sugars improve. Leaving small tubers in the soil is enough to replant the patch.
 For containment, harvest thoroughly or grow in a bounded bed.
@@ -122,11 +122,13 @@ it naturalizes aggressively, avoid dumping tubers near streams or unmanaged edge
 planting to reduce spread of rots and viruses. Rotate harvest zones or renew stock if tuber quality
 declines.
 
-## Related Concepts
+## Related
+
+- [[comparison-jerusalem-artichoke-vs-potato]] Concepts
 
 - [[food-forest-design-guide]]
 - [[permaculture-two-species-compendium]]
 - [[perennial-vegetables]]
 - root crop storage
 - inulin
-- polyculture design
+- [[aquatic-polyculture-design-mollison]]

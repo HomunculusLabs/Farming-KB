@@ -37,7 +37,7 @@ Fungi constitute one of the largest and least-known groups of organisms on Earth
 
 Fungi are essential to:
 - **Nutrient cycling** — decomposition of organic matter
-- **Nutrient transport** — mycorrhizal networks securing nutrients for plants
+- **[[mycelial-network-nutrient-transport-imaging-gadd]]** — [[dighton-mycorrhizal-networks-carbon-transfer]] securing nutrients for plants
 - **Sustainable development** — sources of antibiotics, pharmaceuticals, food, industrial enzymes
 - **Ecosystem health** — indicators of environmental change
 - **Plant health** — as pathogens, mutualists, and endophytes
@@ -59,7 +59,7 @@ Fungi and fungus-like organisms span **three kingdoms comprising 11 phyla:**
 | **Basidiomycota** | Basidiospores on basidia; mushrooms | Agaricus, Amanita, Russula, rusts, smuts |
 
 ### Clade Glomales (now Glomeromycota)
-- Arbuscular mycorrhizal fungi (AMF)
+- [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi (AMF)
 - Oblate root symbionts of most terrestrial plants
 - Produce glomalin (27-30% of soil carbon in colonized soils)
 - See [[fungal-symbiosis-types]]
@@ -83,14 +83,14 @@ Fungi and fungus-like organisms span **three kingdoms comprising 11 phyla:**
 
 ## Ecological Groups and Sampling Challenges
 
-Different fungal groups demand entirely different detection and identification methods:
+Different fungal groups demand entirely different detection and [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]:
 
 | Group | Challenge | Method |
 |---|---|---|
 | Macrofungi (mushrooms) | Fruiting bodies ephemeral (hours to days) | Timed field surveys, multiple visits |
 | Lichens | Perennial, always visible | Standardized plot surveys |
-| Soil microfungi | Most never fruit; only culturable | Dilution plating, selective media |
-| Endophytes | Hidden inside plant tissues | Surface sterilization, tissue culture |
+| Soil microfungi | Most never fruit; only culturable | [[particle-filtration-dilution-plating-microfungal-isolation]], selective media |
+| Endophytes | Hidden inside plant tissues | [[challenge-organisms-nasa-microwave-surface-sterilization-testing]], tissue culture |
 | Aquatic fungi | Require water sampling | Baiting with seeds, direct microscopy |
 | Plant pathogens | Host-dependent, seasonal | Symptom surveys, isolation from lesions |
 | Wood-inhabiting fungi | Slow-growing, long-lived | Long-term plot monitoring |
@@ -140,19 +140,11 @@ Different fungal groups demand entirely different detection and identification m
 - Provide materials for chemical and molecular analyses
 - Document fruiting patterns, host associations, and distribution changes
 - Essential for identifying newly collected specimens
-
-## Molecular Methods
-
-DNA-based approaches are revolutionizing fungal biodiversity studies:
-- Environmental DNA (eDNA) from soil/water samples reveals species never cultured
-- Metabarcoding can detect hundreds of species from single samples
-- Molecular phylogenetics has revealed that "fungi" are polyphyletic — their filamentous forms evolved independently multiple times
-- 88 contributing mycologists collaborated on the Biodiversity of Fungi volume
-
 ## See Also
+
+- [[biodiversity-fungal-culture-preservation]]
 
 - [[fungal-spore-biology]] — Spore diversity and dispersal mechanisms
 - [[fungal-sexual-reproduction]] — Reproductive strategies affecting diversity
 - [[fungal-symbiosis-types]] — Plant-fungal associations
 - [[mycotoxins-and-human-health]] — Fungal effects on human health
-- [[nicholas-money]] — Popular science writing on fungal biology

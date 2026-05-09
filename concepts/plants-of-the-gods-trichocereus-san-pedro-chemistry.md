@@ -1,5 +1,5 @@
 ---
-title: Trichocereus pachanoi — San Pedro Chemistry and Ethnobotany
+title: Trichocereus pachanoi — gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch Chemistry and Ethnobotany
 created: 2026-04-28
 tags:
   - ethnobotany
@@ -58,7 +58,7 @@ naturally occurring sources of this compound, comparable to
 ## Shamanic Context and the Mesa
 
 San Pedro serves as a "catalyst that activates all the complex forces
-at work in a folk healing session, especially the visionary and
+at work in a [[entheogen-cimora-folk-healing-ceremony]] session, especially the visionary and
 divinatory powers" of the shaman. A north Peruvian curandero sets up a
 **mesa** (ritual altar) for the San Pedro ceremony, surrounded by
 magical staves from pre-Columbian graves or modern replicas made from

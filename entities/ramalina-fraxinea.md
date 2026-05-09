@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of North America." Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Nash, T.H. III et al. (2002). "Lichen Biology." Cambridge University Press.
   - Smith, C.W., Aptroot, A., Coppins, B.J. et al. (2009). "The Lichens of Great Britain and Ireland." British Lichen Society.
   - Krog, H., Østhagen, H. (1980). "The genus Ramalina in Norway." Norwegian Journal of Botany 27: 221-240.
@@ -41,7 +41,7 @@ The medullary anatomy of *R. fraxinea* is distinctive, with a loosely interwoven
 
 ## Distribution and Habitat
 
-*Ramalina fraxinea* is widely distributed across Europe, temperate Asia, and eastern North America. It is particularly common in oceanic and suboceanic regions of western Europe, including the British Isles, Atlantic France, and Scandinavia.
+*Ramalina fraxinea* is widely distributed across Europe, temperate Asia, and [[polypore-fungi-eastern-north-america]] America. It is particularly common in oceanic and suboceanic regions of western Europe, including the British Isles, Atlantic France, and Scandinavia.
 
 The species is strongly associated with nutrient-enriched bark, especially on ash (*Fraxinus excelsior*), oak (*Quercus* spp.), elm (*Ulmus* spp.), and sycamore (*Acer pseudoplatanus*). It also colonizes fence posts, stone walls, and occasionally rock surfaces in nutrient-dusted environments.
 
@@ -77,9 +77,9 @@ The combined chemistry gives a distinctive spot test profile: K+ yellow on the c
 
 The species contributes to canopy biodiversity by providing habitat and microclimate refugia for invertebrates. Its strap-like thallus traps moisture and organic debris, creating microhabitats for mites, nematodes, and small arthropods.
 
-*E. fraxinea* is an intermediate bioindicator, tolerating moderate air pollution levels but declining under heavy industrial emissions. Its presence on trees in urban and agricultural landscapes provides useful information about local air quality.
+*E. fraxinea* is an intermediate bioindicator, tolerating moderate air pollution levels but declining under heavy industrial emissions. Its presence on trees in urban and agricultural landscapes provides useful information about local [[cervantes-air-quality-ventilation]].
 
-The species plays a role in nutrient cycling by intercepting atmospheric deposition and incorporating it into the forest ecosystem. When thalli fall to the ground, they release accumulated nutrients slowly during decomposition.
+The species plays a role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by intercepting atmospheric deposition and incorporating it into the [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]]. When thalli fall to the ground, they release accumulated nutrients slowly during decomposition.
 
 ### Reproduction and Growth
 
@@ -101,7 +101,7 @@ Modern interest in *R. fraxinea* focuses primarily on its bioindicator value rat
 
 While not currently listed as threatened, *R. fraxinea* has experienced local declines in heavily agricultural landscapes. The loss of mature hedgerow trees and conversion of traditional wood-pasture to intensive farming has reduced available substrate.
 
-Ash dieback disease (*Hymenoscyphus fraxineus*), which has devastated European ash populations since the 1990s, threatens *R. fraxinea* by reducing its preferred host tree. Long-term monitoring is needed to assess the impact on lichen communities.
+Ash dieback disease (*Hymenoscyphus fraxineus*), which has devastated European ash populations since the 1990s, threatens *R. fraxinea* by reducing its preferred [[ectomycorrhizal-host-tree-partnerships]]. Long-term monitoring is needed to assess the impact on lichen communities.
 
 ## See Also
 

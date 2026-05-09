@@ -5,6 +5,7 @@ tags: [query, permaculture, banana-circle, water-harvesting, guild]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: query
 ---
@@ -12,14 +13,14 @@ type: query
 # What Is a Banana Circle in Permaculture
 
 ## Short Answer
-A banana circle is a permaculture design element consisting of a circular pit filled
-with organic matter, surrounded by a raised ring where banana plants and companion
+A banana circle is a [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] element consisting of a circular pit filled
+with [[hamilton-composting-and-organic-matter-management]], surrounded by a raised ring where banana plants and companion
 species are grown. It efficiently recycles organic waste, harvests water, and creates
 a productive microclimate for tropical and subtropical food production.
 
 ## Detailed Explanation
 The banana circle is one of the most iconic and practical elements in permaculture
-design, originally popularized by Bill Mollison in the Permaculture Designers Manual.
+design, originally popularized by Bill Mollison in the Permaculture [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]].
 It is a self-fertilizing, water-harvesting growing system that turns organic waste
 into abundant food production with minimal ongoing maintenance.
 
@@ -34,7 +35,7 @@ companion species.
 The [[greywater-systems-detailed]].
 
 The [[mollison-gangammas-mandala-and-banana-circle-gardens]] documents how banana
-circles can be integrated into larger mandala garden designs to create visually
+circles can be integrated into larger [[comparison-mandala-garden-design-vs-keyhole-garden-design]] designs to create visually
 striking and highly productive landscape patterns.
 
 One of the key benefits of banana circles is their ability to create favorable
@@ -42,7 +43,7 @@ microclimates. The dense canopy of banana leaves provides shade that reduces
 evaporation and creates a humid, protected understory environment.
 
 This microclimate is ideal for shade-loving understory crops and can significantly
-extend the growing range of tropical species into marginal subtropical areas.
+[[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] range of tropical species into marginal subtropical areas.
 
 Banana circles also serve as excellent windbreaks and can be positioned to protect
 more sensitive garden areas from prevailing winds, complementing larger
@@ -70,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

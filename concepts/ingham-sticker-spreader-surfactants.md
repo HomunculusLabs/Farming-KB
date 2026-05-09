@@ -1,5 +1,5 @@
 ---
-title: Sticker-Spreaders and Surfactants for Compost Tea Application
+title: Sticker-Spreaders and Surfactants for Compost compost-tea-application-methods
 created: 2026-04-28
 tags: [foliar-spray, surfactant, compost-tea, application, coverage]
 date: 2026-04-28
@@ -13,7 +13,7 @@ type: concept
 ## Why Sticker-Spreaders Matter
 
 When applying [[cervantes-foliar-feeding]], the tea needs to coat
-the leaf surface adequately. The leaf surface is not smooth; it has
+the [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] adequately. The leaf surface is not smooth; it has
 hairs, ridges, wax layers, and other structures that can cause
 liquids to bead up and run off. A sticker-spreader helps the tea
 spread evenly across the leaf surface and remain in place long
@@ -48,7 +48,7 @@ compatible with your tea biology before widespread use.
 
 A small amount of oil in a spreader-sticker product serves multiple
 functions. The oil helps the liquid spread across waxy leaf surfaces
-by reducing surface tension. It also provides a thin protective film
+by reducing [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]]. It also provides a thin protective film
 that slows evaporation, giving organisms more time to establish.
 Additionally, oils can serve as food sources for certain fungi and
 bacteria on the leaf surface. The key is using just enough oil to
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

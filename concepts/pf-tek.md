@@ -1,17 +1,13 @@
 ---
 title: PF Tek
 created: 2026-04-28
-tags: [[mycology, cultivation, beginner, psilocybe, tek]
+tags: [mycology, cultivation, beginner, psilocybe, tek]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md]
 type: concept
 ---
-
-# PF Tek
-
-The **PF Tek** (Psilocybe Fanaticus Technique) is a beginner-friendly method for
-cultivating [[psilocybe-cubensis]], the most common and forgiving species for home
+# PF Tek The **PF Tek** (Psilocybe Fanaticus Technique) is a beginner-friendly method for cultivating [[psilocybe-cubensis]], the most common and forgiving species for home
 cultivation.
 
 ## Overview
@@ -20,7 +16,7 @@ PF Tek uses a simple combination of [[spore-syringe]], and colonized at room
 temperature. Once fully colonized, the substrate "cakes" are birthed from the
 jars and placed in a [[psilocybe-cubensis]]. Advanced
 growers generally move on to grain-to-bulk methods for higher yields, but PF Tek
-remains the gold standard for learning the fundamentals of sterile technique and
+remains the gold standard for learning the fundamentals of [[cultivator-sterile-technique-and-agar-culture]] and
 mycelial biology.
 
 ## Key Considerations
@@ -47,7 +43,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -97,7 +93,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -107,4 +103,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

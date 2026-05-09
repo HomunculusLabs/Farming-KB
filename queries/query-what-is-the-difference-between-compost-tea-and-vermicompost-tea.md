@@ -15,7 +15,7 @@ type: query
 ## Overview
 Compost tea and vermicompost tea are both liquid extracts used as organic soil
 amendments, but they originate from different source materials and offer distinct
-benefits. Understanding their differences helps growers choose the right product
+benefits. Understanding their differences helps growers [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] product
 for specific crops and soil conditions. Both are considered active aerated
 compost teas (AACT) when brewed with aeration and food sources. For formal
 definitions, see [[compost-tea-aact]]
@@ -26,11 +26,11 @@ protozoa, and nematodes. [[vermicomposting]] for details on how worm castings ar
 The [[aact-bacterial-dominant-tea]].
 ### Fungal Populations
 Traditional compost, especially when made with woody materials, tends to
-support more diverse fungal communities. If fungal dominance is the goal,
+support more diverse [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]. If fungal dominance is the goal,
 compost tea brewed from fungal-rich compost may outperform vermicompost tea.
 Fungi are critical for woody perennials and soils that need improved aggregate
 structure. See [[compost-tea-brewing]]. Key considerations include:
-- Aeration is critical for both teas to maintain dissolved oxygen levels
+- Aeration is critical for both teas to maintain [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] levels
   above 6 ppm and prevent anaerobic conditions that can produce toxins.
 - Food sources such as molasses, fish hydrolysate, and kelp are added to
   feed microbial multiplication during the brew cycle.
@@ -50,12 +50,12 @@ following guidelines apply to most situations:
 - Frequency: Every 2 to 4 weeks during the growing season for optimal
   results, or more frequently for stressed plants.
 - Apply in the early morning or late evening to minimize UV damage to
-  living organisms on leaf surfaces.
+  [[savory-living-organisms-as-tools]] on leaf surfaces.
 ## When to Use Compost Tea
-- When fungal diversity is needed for woody perennials, orchards, or trees.
+- When [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] is needed for woody perennials, orchards, or trees.
 - When the goal is broad-spectrum microbial inoculation from a diverse
   compost source.
-- When treating soil that needs a balanced bacterial and fungal community
+- When treating soil that needs a balanced [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] community
   for long-term soil health.
 - When working with established perennial systems that benefit from fungal
   associations with plant roots.

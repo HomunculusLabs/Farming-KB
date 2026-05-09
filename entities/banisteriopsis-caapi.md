@@ -15,15 +15,15 @@ tags:
   - dmt-adjunct
 sources:
   - Schultes, R.E. & Hofmann, A. (1980). The Botany and Chemistry of Hallucinogens. 2nd ed. Charles C. Thomas.
-  - Rivier, L. & Lindgren, J.E. (1972). "'Ayahuasca,' the South American hallucinogenic drink: An ethnobotanical and chemical investigation." Economic Botany, 26(2), 101-129.
+  - Rivier, L. & Lindgren, J.E. (1972). "'Ayahuasca,' the [[chiric-caspi-brunfelsia-south-american-hallucinogen]] hallucinogenic drink: An ethnobotanical and chemical investigation." Economic Botany, 26(2), 101-129.
   - Riba, J. et al. (2006). "Single dose of ayahuasca, a tropical hallucinogenic botanical beverage, enhances moods and cognitive performance." Journal of Psychoactive Drugs, 38(2), 175-182.
-  - Hamill, J.F. et al. (2019). "Ayahuasca: Pharmacology, clinical use, and toxicology." In: Handbook of Medicinal Herbs, 2nd ed. CRC Press.
+  - Hamill, J.F. et al. (2019). "Ayahuasca: Pharmacology, clinical use, and toxicology." In: Handbook of [[permaculture-plants-medicinal-herbs-healing]], 2nd ed. CRC Press.
   - McKenna, D.J. (2004). "Clinical investigations of the therapeutic potential of ayahuasca." MAPS Bulletin, 14(1), 6-11.
 ---
 
 ## Overview
 
-*Banisteriopsis caapi* is a perennial liana (woody vine) native to the Amazon basin and the primary botanical ingredient in the entheogenic brew known as ayahuasca. The vine contains harmala alkaloids — primarily harmine, harmaline, and tetrahydroharmine (THH) — which act as reversible monoamine oxidase inhibitors (MAOIs). This pharmacological activity is essential to the ayahuasca experience: by inhibiting monoamine oxidase in the gastrointestinal tract, *B. caapi* allows orally ingested DMT (from co-administered plants like *Psychotria viridis*) to reach systemic circulation and the central nervous system, producing profound visionary effects that would otherwise be impossible via oral DMT alone.
+*Banisteriopsis caapi* is a perennial liana (woody vine) native to the Amazon basin and the primary botanical ingredient in the entheogenic brew known as ayahuasca. The vine contains [[turner-harmala-alkaloids-preparation-and-dosage]] — primarily harmine, harmaline, and tetrahydroharmine (THH) — which act as reversible monoamine oxidase inhibitors (MAOIs). This pharmacological activity is essential to the ayahuasca experience: by inhibiting monoamine oxidase in the gastrointestinal tract, *B. caapi* allows orally ingested DMT (from co-administered plants like *Psychotria viridis*) to reach systemic circulation and the central nervous system, producing profound visionary effects that would otherwise be impossible via oral DMT alone.
 
 The use of *B. caapi* in ayahuasca preparations spans at least several centuries and possibly millennia among indigenous Amazonian peoples. The vine is considered a teacher plant (*planta maestra*) and is central to the cosmology, healing practices, and ceremonial life of numerous ethnic groups across the western Amazon.
 
@@ -64,7 +64,7 @@ Ayahuasca is deeply embedded in the cultural and spiritual practices of at least
 
 **Key cultural contexts:**
 
-- **Shipibo-Conibo people (Peru):** Among the most extensively documented ayahuasca traditions. The vine is central to healing ceremonies led by *onányá* (healers), who receive *ícaros* (medicine songs) during ayahuasca visions that guide their healing practice. The visual patterns perceived during ceremonies are believed to correspond to the geometric designs (*kené*) that define Shipibo artistic tradition.
+- **Shipibo-Conibo people (Peru):** Among the most extensively documented ayahuasca traditions. The vine is central to healing ceremonies led by *onányá* (healers), who receive *ícaros* (medicine songs) during [[amaringo-ayahuasca-visions-shipibo-iconography]] that guide their healing practice. The visual patterns perceived during ceremonies are believed to correspond to the geometric designs (*kené*) that define Shipibo artistic tradition.
 - **Tukano peoples (Colombia/Brazil):** Ayahuasca is used in communal ceremonial contexts for teaching, conflict resolution, and cosmological education. The vine is called *yage* and is associated with the anaconda, a central figure in Tukano cosmology.
 - **Quechua peoples (Ecuador/Peru):** The term "ayahuasca" derives from the Quechua *aya* (spirit/soul/dead) and *huasca* (vine/rope) — "vine of the souls" or "vine of the dead."
 - **Asháninka people (Peru):** Use *B. caapi* as part of a broader pharmacopoeia of teacher plants, often in combination with tobacco (*Nicotiana rustica*) mapacho smoke for diagnostic and cleansing purposes.
@@ -86,11 +86,11 @@ The discovery that Amazonian peoples identified this specific pharmacological sy
 
 ## Modern Research
 
-Contemporary clinical research has explored therapeutic applications:
+Contemporary [[hofmann-lsd-clinical-research-early-studies]] has explored therapeutic applications:
 
 - **Treatment-resistant depression:** Multiple open-label studies and pilot trials have reported rapid and sustained antidepressant effects following single or repeated ayahuasca administration
 - **Substance use disorders:** Preliminary studies suggest ayahuasca may reduce problematic alcohol, tobacco, and cocaine use
-- **Anxiety and PTSD:** Case reports and observational studies indicate potential anxiolytic benefits
+- **[[cannabis-anxiety-and-ptsd-treatment]]:** Case reports and observational studies indicate potential anxiolytic benefits
 - **Neuroimaging findings:** fMRI studies show ayahuasca decreases activity in the default mode network (DMN), similar to effects observed with psilocybin and other classic psychedelics
 
 **Safety considerations:** Ayahuasca interacts dangerously with serotonergic medications (SSRIs, MAOIs, tramadol, dextromethorphan) and can precipitate serotonin syndrome. Contra-indications include cardiovascular disease, bipolar disorder, schizophrenia spectrum disorders, and pregnancy. The harmala alkaloids have emetic properties, and nausea, vomiting, and diarrhea are expected and culturally normalized components of the ayahuasca experience.
@@ -121,9 +121,13 @@ Less common admixtures include *Justicia pectoralis*, *Ilex guayusa* (for caffei
 
 ## See Also
 
+- [[croton-lechleri]]
+
 - [[amanita-muscaria-entity]] — another culturally significant psychoactive fungus with different pharmacology
-- [[4-aco-dmt]] — synthetic prodrug of DMT with clinical research applications
+- [[4-acetoxy-dmt]] — synthetic prodrug of DMT with clinical research applications
 
 ## See Also
+
+- [[croton-lechleri]]
 
 - [[ayahuasca-and-banisteriopsis-caapi]]

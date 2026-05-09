@@ -13,9 +13,9 @@ updated: 2026-04-28
 sources:
   - Anderson, J.B. & Kohn, L.M. (2007). "Diversity and distributions of fungal species in the Armillaria mellea complex." New Phytologist, 175(3), 488–498.
   - Ferguson, B.A., Dreisbach, T.A., Parks, C.G., Filip, G.M. & Schmitt, C.L. (2003). "Coarse-scale population structure of pathogenic Armillaria species in a mixed-conifer forest in the Blue Mountains of northeast Oregon." Canadian Journal of Forest Research, 33(4), 612–623.
-  - Smith, M.L., Bruhn, J.N. & Anderson, J.B. (1992). "The fungus Armillaria bulbosa is among the largest and oldest living organisms." Nature, 356(6368), 428–431.
+  - Smith, M.L., Bruhn, J.N. & Anderson, J.B. (1992). "The fungus Armillaria bulbosa is among the largest and oldest [[savory-living-organisms-as-tools]]." Nature, 356(6368), 428–431.
   - Trest, M.T. & Thorn, R.G. (2021). "Armillaria." In: The Mycota (Vol. 10). Springer.
-  - Klopfenstein, N.B. et al. (2017). "Armillaria species: primary drivers of forest ecosystem processes and forest health." Forest Pathology, 47(6), e12343.
+  - Klopfenstein, N.B. et al. (2017). "Armillaria species: primary drivers of forest [[fungal-ecosystem-processes-overview]] and forest health." Forest Pathology, 47(6), e12343.
 created: 2026-04-28
 ---
 
@@ -41,7 +41,7 @@ The species was originally described as *Agaricus solidipes* by Charles Horton P
 
 It was long treated under the name *Armillaria ostoyae* (Romagn.) Herink until molecular phylogenetic work by Volk and Burdsall in 1995 established its current placement.
 
-The **Armillaria mellea complex** contains at least 10 North American biological species, of which *A. solidipes* is the most pathogenic to conifers.
+The **Armillaria mellea complex** contains at least 10 [[growing-gourmet-north-american-reishi-species]] biological species, of which *A. solidipes* is the most pathogenic to conifers.
 
 ## Morphology
 
@@ -61,7 +61,7 @@ The **Armillaria mellea complex** contains at least 10 North American biological
 
 ## Distribution and Habitat
 
-*A. solidipes* is widely distributed across temperate and boreal forests of North America, Europe, and Asia.
+*A. solidipes* is widely distributed across temperate and [[fungal-diversity-boreal-forests-taiga]] of North America, Europe, and Asia.
 
 In North America, it ranges from the Pacific Northwest through the Rocky Mountains and into the northeastern United States and eastern Canada.
 
@@ -73,7 +73,7 @@ The species thrives in dry to mesic forest types and is most damaging in stresse
 
 Armillaria root disease is the **single most damaging root disease** of conifers in western North America.
 
-The fungus kills trees by **girdling root collars and major roots**, disrupting water and nutrient transport. Infected trees typically show thinning crowns, chlorotic foliage, and resinous lesions at the root collar.
+The fungus kills trees by **girdling root collars and major roots**, disrupting water and [[mycelial-network-nutrient-transport-imaging-gadd]]. Infected trees typically show thinning crowns, chlorotic foliage, and resinous lesions at the root collar.
 
 Mortality centers expand radially from initial infection points as rhizomorphs spread through the soil at rates of 0.3–1.0 m per year.
 
@@ -109,7 +109,7 @@ Dead and dying trees infected by *A. solidipes* provide critical **wildlife habi
 
 The species has been grown experimentally on hardwood sawdust and supplemented substrates under controlled conditions for research purposes.
 
-Cultural studies indicate optimal mycelial growth at 20–25°C on malt extract agar, with colony morphology varying significantly among genotypes.
+Cultural studies indicate optimal [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] at 20–25°C on malt extract agar, with colony morphology varying significantly among genotypes.
 
 Its aggressive rhizomorph production makes it a valuable **model organism** for studying fungal pathogenicity, clonal longevity, and vegetative compatibility systems.
 

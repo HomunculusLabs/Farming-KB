@@ -62,9 +62,9 @@ The stipe is tough, cartilaginous, pale grey-brown above and darker below, with 
 
 ## Distribution and Habitat
 
-Xerula furfuracea has a wide distribution across temperate regions of North America, Europe, and parts of Asia.
+Xerula furfuracea has a wide distribution across temperate regions of [[psilocybin-north-america-pacific-northwest]], Europe, and parts of Asia.
 
-In North America, it occurs from eastern Canada to the southeastern United States, with scattered reports from the Pacific Northwest.
+In North America, it occurs from eastern Canada to the southeastern [[dmt-containing-plants-united-states-halpern]], with scattered reports from the Pacific Northwest.
 
 The species fruits from late spring through autumn, typically appearing after sustained rainfall.
 
@@ -90,7 +90,7 @@ The species is of minor interest to commercial foragers and is primarily of myco
 
 ## Ecological Role
 
-As a primary decomposer of buried hardwood roots and woody debris, Xerula furfuracea plays a significant role in forest nutrient cycling.
+As a primary decomposer of buried hardwood roots and [[fungal-succession-woody-debris-ecology]], Xerula furfuracea plays a significant role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 Its deeply rooting stipe is a morphological adaptation that allows efficient colonization of woody substrates at or below the soil surface.
 
@@ -102,7 +102,7 @@ Their fruiting bodies serve as a food source for various invertebrates and small
 
 ## Bioactive Compounds
 
-Limited research has been conducted on the bioactive secondary metabolites of Xerula furfuracea.
+Limited research has been conducted on the bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]] of Xerula furfuracea.
 
 Related Xerula species have yielded compounds with reported antimicrobial and cytotoxic activities in preliminary screening studies.
 
@@ -116,7 +116,12 @@ Further phytochemical investigation of Xerula species may reveal compounds of ph
 
 ## See Also
 
+- [[xerula-meadowii]]
+- [[xerula-megacystis]]
+
 - [[agaricus-xanthodermus]]
-- [[coprinus-comatus-detailed]]
+- [[coprinus-comatus]]
 - [[trametes-versicolor-entity]]
 - [[psilocybe-cubensis]]
+
+- [[tubaria-furfuracea]]

@@ -1,5 +1,5 @@
 ---
-title: Cannabis Pests Prevention - Greg Green's Cannabis Grow Bible
+title: green cannabis pests prevention Prevention - Greg Green's green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible
 created: 2026-04-26
 updated: 2026-04-25
 sources:
@@ -27,10 +27,10 @@ house. Cats also like to play with indoor plants, so be very careful.
 Sometimes the bugs win. For a total infestation:
 
 1. Set up another small grow room for cuttings and clones.
-2. Take cuttings from your plants and move to the clean room.
+2. Take cuttings from your plants and move to the [[oyster-mushroom-clean-room-design]].
 3. Take all non-electrical equipment to the bathroom. Clean with
    bleach. Soak in a tub with water and bleach for a day.
-4. Clean cervantes reflective materials with bleach. Paint if needed. Do corners,
+4. Clean cervantes [[cervantes-reflective-materials-grow-room-walls]] with bleach. Paint if needed. Do corners,
    holes, extraction holes, fittings, pipes.
 5. Clean around the floor rim. Lift floor panels if possible.
 6. Use pest-killing smoke bombs following label instructions.
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

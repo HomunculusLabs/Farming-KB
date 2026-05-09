@@ -14,7 +14,7 @@ The mycorrhizosphere is the soil volume influenced by mycorrhizal fungal
 hyphae, analogous to the rhizosphere around plant roots. Because
 mycorrhizal hyphae release substantial amounts of plant-derived carbon
 into the soil, they create a unique microbial habitat enriched with
-diverse bacterial communities. Among these microorganisms, mycorrhiza
+diverse [[cultivar-endorhiza-bacterial-communities-cannabis]]. Among these microorganisms, mycorrhiza
 helper bacteria (MHB) play a particularly important role by promoting
 mycorrhiza formation and plant fitness. This topic is central to
 [[arbuscular-mycorrhizal-fungal-diversity]].
@@ -23,7 +23,7 @@ mycorrhiza formation and plant fitness. This topic is central to
 
 Roots release 10 to 20 percent of total net fixed carbon as low
 molecular weight compounds, forming the basis for the rhizosphere
-microbial community. Mycorrhizal hyphae extending from roots release an
+[[edaphic-factors-microbial-community-structure]]. Mycorrhizal hyphae extending from roots release an
 additional substantial quantity of acquired plant carbon, creating the
 mycorrhizosphere. This carbon-rich environment selects for distinct
 microbial communities where fungi play an important role. The energy-rich
@@ -39,7 +39,7 @@ plant development and physiology through production of plant growth
 regulators, increasing root branching rates or root permeability. Others
 act more indirectly by improving nitrogen or phosphate availability,
 enhancing survival in contaminated soils, assisting plant resistance
-against pathogens through biological control, or showing direct effects
+against pathogens through [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]], or showing direct effects
 on soil quality. The mycorrhizosphere thus functions as an extended
 symbiotic interface where plant, fungus, and bacteria interact.
 
@@ -68,7 +68,7 @@ fluorescens and Gram-positive species including Streptomyces isolates.
 Streptomyces sp. AcH 505, isolated from the rhizosphere of a Norway
 spruce (Picea abies) stand, has been extensively characterized as a
 model MHB. This actinomycete significantly promotes mycelial growth and
-mycorrhization rate of the ectomycorrhizal fungus Amanita muscaria while
+mycorrhization rate of the ectomycorrhizal fungus [[allegro-amanita-muscaria-properties-and-pharmacology]] while
 simultaneously suppressing the mycelial extension of plant pathogens
 Armillariella obscura and Heterobasidion annosum. This dual activity,
 promoting beneficial symbiosis while suppressing pathogens, illustrates
@@ -98,9 +98,9 @@ antagonism.
 ## Mechanisms of Action
 
 Communication between bacteria and fungi occurs through diffusible
-molecules and volatile compounds. Cellophane membrane experiments with
+molecules and [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]. Cellophane membrane experiments with
 a 10 kDa cutoff demonstrate that bioactive metabolites must be either
-small soluble molecules, including secondary metabolites, or volatiles.
+small soluble molecules, including [[antifungal-secondary-metabolites-coprophilous-fungi]], or volatiles.
 Fungal hyphal tips respond most strongly to bacterial signals, as these
 are the metabolically active zones. Suspension cultures, which consist
 entirely of actively growing hyphal tips when regularly homogenized, are

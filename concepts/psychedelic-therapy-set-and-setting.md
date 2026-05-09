@@ -9,7 +9,7 @@ sources:
 ---
 # Psychedelic Therapy Set and Setting
 
-The concept of "set and setting" — first articulated by Timothy Leary, Ralph Metzner, and Richard Alpert in "The Psychedelic Experience" (1964) — is the foundational principle for safe and productive psychedelic use. Set refers to the user's mindset; setting refers to the physical and social environment. Together, they are more important than the specific substance or dose in determining the quality of the experience.
+The concept of "set and setting" — first articulated by Timothy Leary, Ralph Metzner, and Richard Alpert in "The [[leary-psychedelic-experience-bardo-mapping]]" (1964) — is the foundational principle for safe and productive psychedelic use. Set refers to the user's mindset; setting refers to the physical and social environment. Together, they are more important than the specific substance or dose in determining the quality of the experience.
 
 ## Set (Mindset)
 
@@ -121,11 +121,11 @@ The concept of "set and setting" — first articulated by Timothy Leary, Ralph M
 
 ## Merged: Hybrid Shamanic Therapeutic Rituals
 
-Hybrid shamanic therapeutic rituals represent an emerging form of entheogenic practice that blends elements of indigenous shamanic ceremony with Western psychotherapeutic approaches. Also called neoshamanic medicine circles, these rituals have developed primarily in Europe and North America since the 1980s, as Western seekers have sought to integrate the profound healing potential of traditional shamanic plant medicine work with the psychological insights and safety frameworks of modern therapy.
+Hybrid shamanic therapeutic rituals represent an emerging form of entheogenic practice that blends elements of indigenous [[metzner-shamanic-ceremony-three-features-darkness-singing-silence]] with Western psychotherapeutic approaches. Also called [[metzner-neoshamanic-medicine-circles-structure-and-practice]] circles, these rituals have developed primarily in Europe and North America since the 1980s, as [[ayahuasca-tourism-western-seekers-and-integration]] have sought to integrate the profound healing potential of traditional shamanic plant medicine work with the psychological insights and safety frameworks of modern therapy.
 
 ## Origins and Context
 
-The development of hybrid rituals emerged from a growing recognition that both Western [[psychedelic-therapy-mechanisms]] and traditional shamanic healing offer valuable but incomplete approaches to human transformation. Western psychotherapy excels at psychological insight and emotional processing but often lacks the spiritual and cosmological dimensions central to shamanic work. Traditional shamanism offers profound access to spiritual dimensions but may lack the psychological sophistication to address complex trauma and personality patterns.
+The development of hybrid rituals emerged from a growing recognition that both Western [[psychedelic-therapy-mechanisms]] and traditional [[metzner-shamanic-healing-and-divination-paradigm]] offer valuable but incomplete approaches to human transformation. Western psychotherapy excels at psychological insight and emotional processing but often lacks the spiritual and cosmological dimensions central to shamanic work. Traditional shamanism offers profound access to spiritual dimensions but may lack the psychological sophistication to address complex trauma and personality patterns.
 
 Pioneers like Ralph Metzner, who studied both Western psychedelic therapy and indigenous shamanic traditions, began observing and participating in circle rituals that intentionally combined elements from both worlds. These hybrid forms arose organically as experienced practitioners recognized that the most effective healing work drew from multiple traditions.
 
@@ -139,7 +139,7 @@ Hybrid shamanic therapeutic rituals typically incorporate several consistent str
 
 **Experienced guide**: An experienced elder or guide, sometimes with one or more assistants, facilitates the ceremony. Unlike traditional shamanic apprenticeships that may last years, hybrid circle guides often come from varied training backgrounds including psychotherapy, meditation, and multiple entheogenic traditions.
 
-**Low light or semidarkness**: A preference for reduced lighting facilitates the emergence of visions and inner experience, consistent with traditional ceremonies from the Mazatec mushroom velada to Amazonian ayahuasca work.
+**Low light or semidarkness**: A preference for reduced lighting facilitates the emergence of visions and inner experience, consistent with traditional ceremonies from the Mazatec mushroom velada to [[harner-amazonian-ayahuasca-preparation-methods]] work.
 
 **Music and sound**: Drumming, rattling, singing, or evocative recorded music provides a rhythmic framework for the journey. The rapid rhythmic pulse found in traditional icaros and peyote songs is often replicated, as it provides psychic support for moving through the flow of visions.
 

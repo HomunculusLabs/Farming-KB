@@ -15,7 +15,7 @@ sources:
   - Ma, L.Q. et al. (2001). "A fern that hyperaccumulates arsenic." Nature 409: 579.
   - Singh, N. et al. (2006). "Arsenic tolerance and accumulation in Pteris vittata." Environmental Pollution 143: 261–267.
   - Tryon, R.M. & Tryon, A.F. (1982). "Ferns and Allied Plants." Springer-Verlag.
-  - Flora of North America Editorial Committee (1993). "Pteridaceae." Flora of North America, Vol. 2.
+  - Flora of [[psilocybin-north-america-pacific-northwest]] Editorial Committee (1993). "Pteridaceae." Flora of North America, Vol. 2.
   - Jones, D.L. (1998). "Encyclopaedia of Ferns." Timber Press.
 ---
 
@@ -45,9 +45,9 @@ Spores are tetrahedral, 35–45 µm in diameter, with a prominently verrucate ex
 
 ## Distribution and Habitat
 
-P. vittata is native to southern China, Japan, Korea, Taiwan, the Indian subcontinent, and Southeast Asia. It occurs naturally from sea level to approximately 1,500 m elevation in a variety of subtropical and tropical habitats.
+P. vittata is native to southern China, Japan, Korea, Taiwan, the Indian subcontinent, and [[psilocybe-southeast-asia-pacific]]. It occurs naturally from sea level to approximately 1,500 m elevation in a variety of subtropical and tropical habitats.
 
-The species has been introduced and naturalized widely across the Americas, from the southeastern United States through Central America to Brazil, as well as in Africa, Australia, and numerous Pacific Islands. Naturalized populations often establish on disturbed ground near human settlements.
+The species has been introduced and naturalized widely across the Americas, from the southeastern United States through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to Brazil, as well as in Africa, Australia, and numerous Pacific Islands. Naturalized populations often establish on disturbed ground near human settlements.
 
 Natural habitats include forest margins, rocky slopes, road cuts, stream banks, and abandoned agricultural land. The fern shows strong preference for calcareous soils and is frequently found growing on limestone outcrops and mortared walls.
 
@@ -61,13 +61,13 @@ P. vittata is the first known arsenic hyperaccumulator and remains the most exte
 
 Arsenic is taken up primarily as arsenate (AsV) through the phosphate transport pathway, reflecting the chemical similarity between arsenate and phosphate. Within the plant, much of the arsenic is reduced to arsenite (AsIII) and stored in the vacuole as an arsenite-thiol complex.
 
-The hyperaccumulation mechanism involves several key adaptations. Fronds express high levels of arsenate reductase and specific arsenite transporter proteins that efficiently sequester arsenic away from metabolically active tissues.
+The hyperaccumulation mechanism involves several key adaptations. Fronds express high levels of arsenate reductase and specific arsenite transporter proteins that efficiently sequester arsenic away from [[isolation-metabolically-active-arbuscules-intraradical-hyphae]] tissues.
 
 Root-to-shoot translocation efficiency in P. vittata is remarkably high, with over 80% of total plant arsenic concentrated in the above-ground biomass. This contrasts with most plants, which retain arsenic primarily in roots.
 
 Phytoremediation applications have been demonstrated at field scale in the United States, China, and Australia. The fern can reduce soil arsenic concentrations by repeated harvesting of contaminated fronds over multiple growing seasons.
 
-Limitations include the fern's tropical climate requirement, moderate growth rate compared to some non-hyperaccumulating species, and concerns about arsenic-containing biomass disposal. Research into genetic engineering of related species with the P. vittata arsenic pathway is ongoing.
+Limitations include the fern's tropical climate requirement, moderate growth rate compared to some non-hyperaccumulating species, and concerns about arsenic-containing biomass disposal. Research into [[fukuoka-textdoc-genetic-engineering-critique-warning]] of related species with the P. vittata arsenic pathway is ongoing.
 
 Field trials have demonstrated that repeated frond harvesting over two to three growing seasons can reduce soil arsenic by 10–30% in moderately contaminated sites. The technology is most practical for sites with contamination levels above 50 mg/kg where conventional remediation is prohibitively expensive.
 
@@ -77,7 +77,7 @@ In traditional Chinese medicine, P. vittata has been used as a remedy for intest
 
 Decoctions of the fronds and rhizome are used in Ayurvedic and folk medicine traditions across South and Southeast Asia. Applications include treatment of diarrhea, dysentery, and externally as a poultice for wounds and skin infections.
 
-Phytochemical studies have identified several bioactive compounds including flavonoids, phenolic acids, and terpenoids. Extracts have demonstrated antibacterial activity against both Gram-positive and Gram-negative bacteria in laboratory assays.
+Phytochemical studies have identified several [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] including flavonoids, phenolic acids, and terpenoids. Extracts have demonstrated antibacterial activity against both Gram-positive and Gram-negative bacteria in laboratory assays.
 
 The arsenic hyperaccumulation capacity raises questions about the safety of traditional medicinal preparations. Arsenic concentrations in fronds collected from uncontaminated soils are typically below 10 mg/kg, well within safe limits for occasional use.
 

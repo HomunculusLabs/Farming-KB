@@ -11,7 +11,7 @@ updated: 2026-05-08
 sources:
   - White F.J., James P.W. (1985). "A new guide to microchemical techniques for the identification of lichen substances." British Lichen Society, London.
   - Jørgensen P.M., Galloway D.J. (1992). "Nephromataceae." Flora of Australia 54: 322-331.
-  - Brodo I.M., Sharnoff S.D., Sharnoff S. (2001). "Lichens of North America." Yale University Press.
+  - Brodo I.M., Sharnoff S.D., Sharnoff S. (2001). "Lichens of [[psilocybin-north-america-pacific-northwest]]." Yale University Press.
   - Goward T. (1999). "The Lichens of British Columbia: Macrolichens." Ministry of Forests, Victoria.
 ---
 
@@ -28,7 +28,7 @@ oceanic climates. It is widely distributed across temperate regions of
 both hemispheres.
 
 Like other Nephroma species, N. laevigatum associates with Nostoc
-cyanobacteria as its photobiont, enabling nitrogen fixation. It is
+cyanobacteria as its photobiont, enabling [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. It is
 considered an indicator of long-term forest continuity and clean air.
 
 ## Taxonomy and Morphology
@@ -54,7 +54,7 @@ hyaline, 1-septate, measuring 15–25 × 5–8 µm.
 
 Nephroma laevigatum has a broad distribution in temperate regions of both
 the Northern and Southern Hemispheres. In the Northern Hemisphere, it
-occurs in western Europe, eastern North America, and eastern Asia.
+occurs in western Europe, [[polypore-fungi-eastern-north-america]] America, and eastern Asia.
 
 It is particularly abundant in oceanic and suboceanic regions with high
 rainfall and low pollution levels. In Europe, it is common in the British
@@ -84,7 +84,7 @@ The species provides habitat and moisture retention for diverse
 microarthropod communities. Its thallus shelters springtails, oribatid
 mites, and various lichenicolous fungi.
 
-In forest succession, N. laevigatum is typically a late-successional
+In [[mollison-designers-food-forest-succession-design]], N. laevigatum is typically a late-successional
 species requiring stable, humid conditions. It rarely colonizes disturbed
 or young secondary forests, making it a reliable indicator of forest
 continuity.

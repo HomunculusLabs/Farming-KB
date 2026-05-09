@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Valdés, L.J. et al. (2001). "Two new neoclerodane diterpenoids
-    from Salvia divinorum." Journal of Natural Products, 64(2),
+    from [[golden-guide-salvia-divinorum-and-diviner-sage]]." Journal of Natural Products, 64(2),
     245-247.
   - Roth, B.L. et al. (2004). "Salvinorin A: A potent naturally
     occurring nonnitrogenous kappa opioid selective agonist."
@@ -140,5 +140,5 @@ with negligible psychoactivity.
 - [[salvia-divinorum]]
 - [[salvinorin-a-pharmacology-non-nitrogenous-opioid-agonist]]
 - [[jadam-pest-control-with-natural-pesticides-jhs]]
-- [[salvia-divinorum-and-salvinorin]]
+- [[salvia-divinorum-and-salvinorin-a]]
 - [[salvia-divinorum-salvinorin]]

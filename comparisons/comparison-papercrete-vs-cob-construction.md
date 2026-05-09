@@ -1,22 +1,22 @@
 ---
-title: "Papercrete [[comparison-earthbag-vs-cob-construction]]"
+title: "Papercrete comparison-earthbag-vs-cob-construction"
 created: 2026-04-28
 tags: [natural-building, papercrete, cob, sustainable-construction, green-building]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Elizabeth, L. & Adams, C. (2000). Alternative Construction: Contemporary mollison-designers-lime-and-cement-natural-building-the-best-natural-building-methods]]. Wiley."
+  - "Elizabeth, L. & Adams, C. (2000). Alternative Construction: Contemporary mollison-designers-lime-and-cement-natural-building-the-best-natural-building-methods. Wiley."
   - "Evans, I. & Smiley, M. (2002). The Hand-Sculpted House: A Practical and Philosophical Guide to Building a Cob Cottage. Chelsea Green Publishing."
   - "Kahn, G. (2005). Papercrete and Paper Adobe: A Revolutionary New Way to Build Your Own Home for Next to Nothing. Kahn Papercrete."
   - "Weismann, A. & Bryce, K. (2007). Building with Cob: A Step-by-Step Guide. Green Books."
-  - "Woolley, T. (2006). Natural Building: A Guide to Materials and Techniques. Crowood Press."
+  - "Woolley, T. (2006). [[query-how-do-i-choose-a-natural-building-method-for-my-climate]]: A Guide to Materials and Techniques. Crowood Press."
   - "Magwood, C. & Mack, P. (2020). Essential Sustainable Home Design. New Society Publishers."
 type: comparison
 ---
 
-# Papercrete vs Cob Construction
+# Papercrete vs [[cob-construction]]
 
-Papercrete and cob are two accessible, low-cost natural building methods well-suited to [[fermented-plant-juice-preparation-and-application]]. This comparison helps you choose the right method for your climate, goals, and resources.
+Papercrete and cob are two accessible, low-cost natural building methods well-suited to [[fermented-plant-juice-preparation-and-application]]. This comparison helps you [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] method for your climate, goals, and resources.
 
 ## Quick Comparison Table
 
@@ -68,7 +68,7 @@ Papercrete offers better insulation, making it more suitable for cold climates w
 
 This is the most important performance distinction between the two materials.
 
-Papercrete provides real insulation (R-2.0 to R-3.0 per inch), comparable to or better than straw bale in some configurations. A 12-inch papercrete wall achieves roughly R-24 to R-36. This makes it a genuine insulating natural building material, rare in the earth-building world.
+Papercrete provides real insulation (R-2.0 to R-3.0 per inch), comparable to or better than straw bale in some configurations. A 12-inch papercrete wall achieves roughly R-24 to R-36. This makes it a genuine insulating natural [[fungal-building-material-deterioration]], rare in the earth-building world.
 
 Cob provides almost no insulation but enormous thermal mass. A thick cob wall (18-24 inches) stabilizes indoor temperatures through thermal lag, absorbing heat during the day and releasing it at night. This works brilliantly in climates with large diurnal temperature swings (deserts, high plains) but poorly where temperatures remain consistently cold.
 
@@ -82,9 +82,9 @@ Both materials are vulnerable to water damage. Papercrete can rot, soften, and l
 
 ## Building Code Acceptance
 
-Neither papercrete nor cob is widely accepted under mainstream building codes in North America. Cob has gained some acceptance in rural jurisdictions, particularly in Oregon, New Mexico, and parts of the Southwest, often through owner-builder provisions or alternative materials permits. Papercrete is almost universally classified as experimental and requires engineering sign-off or structural demonstration.
+Neither papercrete nor cob is widely accepted under mainstream building codes in [[psilocybin-north-america-pacific-northwest]]. Cob has gained some acceptance in rural jurisdictions, particularly in Oregon, New Mexico, and parts of the Southwest, often through owner-builder provisions or alternative materials permits. Papercrete is almost universally classified as experimental and requires engineering sign-off or structural demonstration.
 
-For permitted dwellings, cob is the easier path. For outbuildings, sheds, and non-habitable structures on rural land, both are often unregulated.
+For permitted dwellings, cob is the easier path. For outbuildings, sheds, and non-habitable structures on [[mollison-country-permaculture-rural-land-design]], both are often unregulated.
 
 ## Environmental Impact
 
@@ -104,7 +104,7 @@ Papercrete diverts paper waste -- a genuine environmental benefit -- but relies 
 - Easy to cast into blocks or monolithic walls
 
 **Cons:**
-- Highly variable structural strength
+- Highly variable [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]]
 - Moisture-sensitive; requires careful waterproofing
 - Long drying times (weeks to months per wall section)
 - Limited code acceptance

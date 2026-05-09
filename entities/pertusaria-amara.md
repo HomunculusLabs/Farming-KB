@@ -13,7 +13,7 @@ sources:
   - "Purvis, O.W. et al. (1992). The Lichen Flora of Great Britain and Ireland. Natural History Museum Publications."
   - "Nash, T.H. III et al. (2002). Lichen Flora of the Greater Sonoran Desert Region, Vol. 1. Arizona State University."
   - "Huneck, S. & Yoshimura, I. (1996). Identification of Lichen Substances. Springer."
-  - "Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of North America. Yale University Press."
+  - "Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of [[psilocybin-north-america-pacific-northwest]]. Yale University Press."
 ---
 
 # Pertusaria amara (Bitter Wart Lichen)
@@ -53,11 +53,11 @@ No pycnidia have been reliably reported. Vegetative propagation is limited, maki
 
 ## Distribution and Habitat
 
-*Pertusaria amara* has a broadly temperate distribution across Europe, extending from Scandinavia and the British Isles southward through Central Europe to the Mediterranean basin.
+*Pertusaria amara* has a broadly [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]] across Europe, extending from Scandinavia and the British Isles southward through Central Europe to the Mediterranean basin.
 
 In Europe, it is most frequent in oceanic to suboceanic regions with moderate rainfall and low atmospheric pollution. Populations decline sharply in areas with significant sulfur dioxide deposition.
 
-The species also occurs in eastern North America, primarily in the Appalachian region and the Great Lakes-St. Lawrence forest zone. Disjunct populations are reported from the Pacific Northwest of North America.
+The species also occurs in [[polypore-fungi-eastern-north-america]] America, primarily in the Appalachian region and the Great Lakes-St. Lawrence forest zone. Disjunct populations are reported from the Pacific Northwest of North America.
 
 It shows a strong preference for the bark of mature, nutrient-rich trees with moderately acidic to subneutral bark pH. Frequent phorophytes include *Quercus robur*, *Fagus sylvatica*, *Acer platanoides*, *Fraxinus excelsior*, and *Ulmus glabra*.
 
@@ -91,15 +91,15 @@ No modern clinical studies have validated the traditional uses. The species is n
 
 ## Ecology and Symbiosis
 
-*Pertusaria amara* is an obligate lichen symbiosis between the fungal mycobiont (*Pertusaria amara*) and a trentepohlioid photobiont (green algal partner). The trentepohlioid association is shared with several other crustose genera.
+*Pertusaria amara* is an obligate [[comparison-lichen-symbiosis-vs-mycorrhizal-symbiosis]] between the fungal mycobiont (*Pertusaria amara*) and a trentepohlioid photobiont (green algal partner). The trentepohlioid association is shared with several other crustose genera.
 
 The species is relatively slow-growing, with radial growth rates estimated at 1–3 mm per year under favorable conditions. Thallus establishment requires extended periods of surface stability on the substrate.
 
 It serves as a microhabitat for various lichenicolous fungi, including *Arthonia pertusariicola* and *Buellia pertusaricola*, which grow parasitically on the thallus surface.
 
-The warty thallus morphology provides sheltered microhabitats for tardigrades and microarthropods. These invertebrate communities contribute to nutrient cycling within the lichen microecosystem.
+The warty thallus morphology provides sheltered microhabitats for tardigrades and microarthropods. These invertebrate communities contribute to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within the lichen microecosystem.
 
-*P. amara* is sensitive to atmospheric sulfur dioxide and nitrogen deposition. Its presence is used as a bioindicator of relatively clean air quality in temperate forest ecosystems.
+*P. amara* is sensitive to atmospheric sulfur dioxide and [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]. Its presence is used as a bioindicator of relatively clean air quality in temperate forest ecosystems.
 
 ## Similar Species
 
@@ -114,6 +114,10 @@ Several *Pertusaria* species resemble *P. amara* in overall morphology. The comb
 - ***Pertusaria albescens*** — White, conspicuously farinose thallus. Contains protocetraric acid (K+ yellow → red). Associated with eutrophicated bark surfaces.
 
 ## See Also
+
+- [[pertusaria-coccodes]]
+
+- [[pertusaria-pertusa]]
 
 - [[evernia-prunastri]] — Oakmoss, a fruticose lichen with similar bark habitat
 - [[xanthoria-parietina]] — Common orange foliose lichen, indicator of nutrient enrichment

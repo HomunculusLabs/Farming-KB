@@ -1,5 +1,5 @@
 ---
-title: Mushroom Nutrition and Medicinal Compounds
+title: cotter mushroom nutrition medicinal compounds and Medicinal Compounds
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
@@ -20,7 +20,7 @@ producing food, medicines, fuel, and fiber.
 
 ### Protein and Macronutrients
 
-Mushrooms provide high-quality protein with a favorable amino acid profile.
+Mushrooms provide high-quality protein with a favorable [[cho-fish-amino-acid-preparation]] profile.
 Their nutritional value rivals many traditional protein sources. When dried
 properly, mushrooms retain their full nutritional content indefinitely,
 making them valuable for long-term food storage. Fresh mushrooms are
@@ -43,7 +43,7 @@ pathways for energy, growth requirements, and the creation of higher levels
 of protein, vitamin D, and medicinal properties. This allows low-wattage
 LED lights to be used efficiently in [[cotter-mushroom-rescue-modules-disaster-relief]]
 - [[spent-mushroom-substrate-applications]]
-- [[cotter-mushroom-life-cycle-mycelium-biology]]
+- cotter-mushroom-life-cycle-mycelium-biology
 ## Practical Considerations
 
 When working with Mushroom Nutrition and Medicinal Compounds, several practical factors should be
@@ -60,7 +60,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +102,5 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+## See Also
+- [[mycelium]]

@@ -16,12 +16,12 @@ Having distanced himself from nature, man finds it almost impossible to return
 to the world he formerly knew. However, the recuperative powers of nature are
 more potent and rapid than most of us suspect. The restoration of an arid
 desert to a rich land of flourishing vegetation might seem inconceivable to
-the human mind, but at the core of the "green philosophy" is the principle
+the human mind, but at the core of the "[[fukuoka-sowing-green-philosophy-one-grain-revolution]]" is the principle
 that nature always returns to its former state.
 
 Fukuoka's vision extends far beyond farming technique to encompass a
 fundamental healing of the relationship between humanity and the earth. He
-proposed that the same principles of natural farming -- no plowing, no
+proposed that the same [[four-principles-of-natural-farming]] farming -- no plowing, no
 chemicals, no pesticides -- can be applied on a global scale to reverse
 environmental degradation and restore barren lands to productivity.
 
@@ -59,9 +59,9 @@ adjoining fields can be expanded and the green belt widened.
 
 Many people are skeptical that seeds will grow in the deserts, but quite a
 few methods for successful seeding exist. One such method consists of
-enclosing the seeds of suitable plants in clay pellets and scattering the
+enclosing the seeds of suitable plants in [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] and scattering the
 pellets in the deserts -- a natural farming technique. This could be done by
-taking a mixture of the seeds of green manure trees such as acacias that grow
+taking a mixture of the seeds of [[comparison-green-manure-guide-vs-mulch-types-and-effects]] trees such as acacias that grow
 in areas of scant rainfall, of clover, alfalfa, bur clover and other green
 manure plants, and of grain and vegetable seeds, enclosing this seed mixture
 in a double coating of earth and clay as pellets, and scattering the pellets
@@ -78,7 +78,7 @@ surely bring the rains back to the desert.
 
 Man today is concerned over the desertification of the earth. There is no
 question that this global loss of vegetation has its roots in the errors of
-farming methods that arose from the arrogance of the human intellect. Fukuoka
+[[natural-farming-methods-comparison]] that arose from the arrogance of the human intellect. Fukuoka
 strongly believed that, rather than attempting to cultivate the deserts by
 building elaborate irrigation systems, it would make more sense to establish
 natural forests and farms using plant irrigation. This would encourage the
@@ -99,7 +99,7 @@ At this time, the natural farm truly becomes a garden of paradise.
 To grasp the basic concept for designing a natural farm, one must begin by
 looking for the true image of nature. The hills, streams, grasses, and trees
 must be allowed to create for themselves a place on the farm. The natural farm
-is a harmonious whole arising from a combination of woods and fruit trees and
+is a harmonious whole arising from a combination of woods and [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and
 vegetables and grains.
 
 ## Science, Philosophy, and the Barley
@@ -134,6 +134,9 @@ change.
 
 ## See Also
 
-- [[fukuoka-five-principles-natural-farming]]
+- fukuoka-five-principles-natural-farming
 - [[fukuoka-straw-soil-building]]
 - [[fukuoka-straw-pest-control-natural-balance]]
+- [[irrigation-systems]]
+- [[masanobu-fukuoka]]
+- [[green-philosophy]]

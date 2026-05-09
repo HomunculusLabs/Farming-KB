@@ -1,5 +1,5 @@
 ---
-title: "Off-Grid Mushroom Cultivation"
+title: "Off-Grid accessible-mushroom-cultivation-for-disabilities"
 created: 2026-04-28
 tags: [off-grid, mushroom-cultivation, low-tech, sustainability, cardboard-culture]
 date: 2026-04-25
@@ -34,7 +34,7 @@ harder. Paper, cardboard, dried vegetable waste, and cotton clothing all serve a
 viable substrates. For outdoor off-grid cultivation, leverage seasonal
 temperature windows by matching mushroom strains to your climate. Underground
 spaces such as bunkers, caves, wine cellars, and basements provide naturally
-stable temperature and humidity, though gas exchange must be managed to prevent
+stable [[greg-green-temperature-and-humidity-control]], though gas exchange must be managed to prevent
 carbon dioxide buildup using low-light plants, solar-powered LED lights, or
 passive ventilation.
 
@@ -42,7 +42,7 @@ passive ventilation.
 
 Cardboard inoculation is a primitive but effective technique for propagating
 wood-loving saprophytes without laboratory equipment. The easiest species to
-expand this way are oysters, blewits, and king stropharia. It does not work well
+expand this way are oysters, blewits, and [[cotter-king-stropharia-cultivation]]. It does not work well
 with compost decomposers like almond portabella or mycorrhizal species like
 truffles and chanterelles. Wild-harvested mushrooms are best since they carry
 beneficial microbes from their native soil.
@@ -79,7 +79,7 @@ cardboard wafers that inoculate the wood over several years of growth.
 Two methods trigger mycelium into stasis for off-season storage: dehydration
 and freezing. For dehydration, allow colonized substrate to dry completely.
 Dried mushroom stems with bases can be stored in bundles in a cool, dry location
-and revived by wrapping in wet cardboard. Oyster mushroom stem bases have
+and revived by wrapping in wet cardboard. [[cotter-oyster-mushroom-cultivation]] stem bases have
 remained viable for nine to twelve months using this method, provided they are
 not exposed to extreme heat or cold.
 
@@ -103,10 +103,10 @@ system can yield over 7,500 pounds of mushrooms.
 
 The modules also provide mosquito control: mycelium produces carbon dioxide and
 octenol (a mushroom extract mimicking human breath and sweat), attracting
-mosquitoes to a Bti-treated bucket where larvae are destroyed. Oyster mushrooms
+mosquitoes to a Bti-treated bucket where larvae are destroyed. [[query-how-to-grow-oyster-mushrooms-at-home]]
 produce almost double the protein of free-range chickens over a fourteen-week
 period (20 to 30 percent protein dry weight). Modules can also filter
-contaminated water and reduce pathogen loads, with spent substrate usable as
+contaminated water and reduce pathogen loads, with [[oyster-mushroom-spent-substrate-recycling]] usable as
 livestock feed, mulch, or vermicomposting feedstock.
 
 ## Key Points

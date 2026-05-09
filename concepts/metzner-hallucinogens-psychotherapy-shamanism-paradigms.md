@@ -29,9 +29,9 @@ When LSD's mind-altering properties were first discovered at Sandoz Laboratories
 
 ### The Psycholytic Approach
 
-Developed primarily in Europe, psycholytic therapy was based on the concept of "psychic loosening or opening" (seelische Auflockerung). Patients with anxiety, depression, or obsessive-compulsive disorders received LSD in a series of sessions at gradually increasing doses while undergoing Freudian analytic interactions. The rationale held that lowering psychological defenses would make unconscious emotional dynamics — presumably acquired in early family interactions — more vividly accessible, leading to insight and resolution.
+Developed primarily in Europe, [[european-psycholytic-therapy-1960s-1970s]] was based on the concept of "psychic loosening or opening" (seelische Auflockerung). Patients with anxiety, depression, or obsessive-compulsive disorders received LSD in a series of sessions at gradually increasing doses while undergoing Freudian analytic interactions. The rationale held that lowering psychological defenses would make unconscious emotional dynamics — presumably acquired in early family interactions — more vividly accessible, leading to insight and resolution.
 
-Stanislav Grof, working within this model, discovered that beyond childhood dynamics, patients in deep psycholytic sessions would relive birth and pre-birth memories. He identified four perinatal matrices — patterns of sensory-emotional experience corresponding to different stages of the birth process. After resolving biographical and perinatal issues, Grof found that individuals would access transpersonal realms of consciousness completely transcendent of time, space, and other parameters of ordinary worldview.
+Stanislav Grof, working within this model, discovered that beyond childhood dynamics, patients in deep psycholytic sessions would relive birth and pre-birth memories. He identified four [[metzner-grof-perinatal-matrices-and-transpersonal-realms]] — patterns of sensory-emotional experience corresponding to different stages of the birth process. After resolving biographical and perinatal issues, Grof found that individuals would access transpersonal realms of consciousness completely transcendent of time, space, and other parameters of ordinary worldview.
 
 ### The Psychedelic Approach
 
@@ -45,7 +45,7 @@ Despite their differences, the psycholytic and psychedelic approaches share five
 2. **Set and setting**: The primary determinants of psychedelic experience are internal set (intention, expectation, motivation) and external setting (context, presence of a guide). The drug acts as a catalyst or trigger. This contrasts with psychiatric drugs where pharmacological action is paramount and set and setting play minor roles. The model extends to non-drug altered states including hypnosis, meditation, rhythmic drumming, sensory isolation, and fasting.
 3. **Amplifier and microscope analogies**: The drug functions as a nonspecific amplifier of psychic contents, partly through lowering sensory thresholds ("cleansing the doors of perception") and partly through central processes involving neurotransmitters. Psychedelics may play the same role in psychology that the microscope plays in biology — opening hidden realms to direct, repeatable, verifiable observation.
 4. **Experienced therapist prerequisite**: Personal experience with the substance is considered essential for effective therapeutic work, as communication between therapist and client in a psychedelic state is severely limited without shared experiential understanding. This implies that psychedelic experience could play a significant role in psychotherapist training.
-5. **Transpersonal access**: Mystical and spiritual dimensions of consciousness are accessible. Albert Hofmann recognized the psycholytic properties of LSD through their similarity to his childhood mystical experiences in nature. Timothy Leary, stimulated by Aldous Huxley, Huston Smith, and Alan Watts, devoted considerable energy to exploring the spiritual dimensions of psychedelic experience.
+5. **Transpersonal access**: Mystical and spiritual dimensions of consciousness are accessible. Albert Hofmann recognized the psycholytic properties of LSD through their similarity to his childhood [[psilocybin-mystical-experiences-personality-change]] in nature. Timothy Leary, stimulated by Aldous Huxley, Huston Smith, and Alan Watts, devoted considerable energy to exploring the spiritual dimensions of psychedelic experience.
 
 ### Empathogens: The Phenethylamine Extension
 
@@ -79,13 +79,13 @@ These ceremonies blend indigenous entheogenic practices with elements of importe
 
 ## Paradigm 4: Hybrid Shamanic-Therapeutic Rituals
 
-Emerging practices that incorporate features from both Western psychotherapy and indigenous shamanism represent a fourth paradigm. These rituals typically adopt shamanic elements — singing, darkness, minimal verbal interaction — while incorporating Western therapeutic intentions such as emotional processing, trauma integration, and personal growth. Metzner notes that these hybrid forms have incorporated the three distinctive features from the shamanic model.
+Emerging practices that incorporate features from both Western psychotherapy and indigenous shamanism represent a fourth paradigm. These rituals typically adopt shamanic elements — singing, darkness, minimal verbal interaction — while incorporating Western therapeutic intentions such as emotional processing, trauma integration, and personal growth. Metzner notes that these hybrid forms have incorporated the three [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] from the shamanic model.
 
 ## Fundamental Worldview Differences
 
 Metzner identifies two points where shamanic and hybrid paradigms diverge radically from the Western worldview:
 
-1. **Multiple realities**: The belief that there are multiple worlds or realities that can be explored in expanded states of consciousness, as opposed to the Western assumption of a single material reality. In shamanic practice, the reality encountered in visionary states is considered equally valid to, or in some senses more fundamental than, ordinary waking reality.
+1. **[[metzner-spirit-beings-multiple-realities-entheogens]]**: The belief that there are multiple worlds or realities that can be explored in expanded states of consciousness, as opposed to the Western assumption of a single material reality. In shamanic practice, the reality encountered in visionary states is considered equally valid to, or in some senses more fundamental than, ordinary waking reality.
 2. **Reality of spirits**: The belief that beings encountered in dreams and visions are just as real as physical organisms, rather than being dismissed as hallucinations or psychological projections. In shamanic cultures, these beings are approached with the same practical seriousness one would apply to any other aspect of the environment.
 
 These worldview differences have profound implications for how experiences generated by hallucinogenic substances are interpreted, integrated, and valued within each paradigm. The Western framework must pathologize or reduce these experiences to maintain its materialist assumptions, while the shamanic framework embraces them as valid domains of knowledge.
@@ -97,7 +97,7 @@ Metzner's own intellectual journey illustrates the tension between paradigms. Hi
 Metzner's review draws on a wide network of researchers and practitioners across paradigms:
 
 - **Albert Hofmann**: Discoverer of LSD at Sandoz; his childhood mystical experiences informed his recognition of LSD's properties.
-- **Stanislav Grof**: Developed psycholytic therapy, discovered perinatal matrices, pioneered holotropic breathwork as a non-drug alternative.
+- **Stanislav Grof**: Developed psycholytic therapy, discovered perinatal matrices, pioneered [[metzner-holotropic-breathwork-and-grof-perinatal-matrices]] as a non-drug alternative.
 - **Timothy Leary**: Introduced set-and-setting hypothesis, consciousness expansion concept, and adapted Eastern texts as psychedelic guides.
 - **Humphrey Osmond**: Coined "psychedelic," developed psychedelic therapy for alcoholism in Canada.
 - **Alexander Shulgin**: Synthesized and characterized hundreds of phenethylamines and tryptamines; developed empathogen concept.
@@ -126,6 +126,8 @@ Leary later adapted the Tao Te Ching as another psychedelic guidebook. Both sour
 | Training of guide | Academic + personal experience | Years of apprenticeship |
 
 ## See Also
+
+- [[schultes-hallucinogens-medical-psychotherapy]]
 
 - [[swiss-psycholytic-therapy-1988-1993]] for the European tradition of LSD-assisted psychotherapy
 - [[amazonian-plant-teachers-doctores]] for the broader context of entheogenic plants in indigenous practice

@@ -1,5 +1,5 @@
 ---
-title: "Earthworks Planning and Post-Earthworks Planting"
+title: "mollison earthworks planning and post earthworks planting and Post-Earthworks Planting"
 created: 2026-04-26
 tags:
   - permaculture
@@ -79,7 +79,7 @@ can be severe on bare slopes at only 2% slope, especially in
 rains; and to prevent invasion by unwanted volunteer plants,
 which may become difficult to displace later.
 
-If a full set of ground covers, pioneers, and long-term plants
+If a full set of [[permaculture-plants-food-forest-ground-covers-bamboos]], pioneers, and long-term plants
 can be set out in new earth, a great deal of time and work is
 saved. A broadscale scatter of mixed seed, raked in, will
 prepare the way for permanent placements. Having planned the
@@ -96,14 +96,14 @@ Mollison provides several effective mixes for most soils:
   all of these spike the soil.
 - Bulbs of lilies, grape hyacinth.
 - Roots of sunroot, comfrey, chicory, horseradish, ginger,
-  sweet potato, turmeric.
+  [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]], turmeric.
 - Divisions of bamboo, banna grass, pampas grass, aloes, agave,
   New Zealand hemp.
 - Seedlings or sets of elephant garlic, asparagus, globe
   artichoke.
 - Cuttings of small fruits: elderberry, willow, poplar,
   mulberry, Pride of Madeira (Echium fastuosum).
-- Tubed seedlings of [[tagasaste]], Coprosma,
+- Tubed seedlings of tagasaste, Coprosma,
   pines, eucalypts, shrubs.
 
 ## Slope Stabilisation with Plants
@@ -114,7 +114,7 @@ and clump grasses assist bank stabilisation. Trees at the base
 of walls are advantageous in shading, removing water, and
 reducing weeds.
 
-The net and pan planting pattern is an effective control in
+The [[gaias-garden-net-and-pan-water-harvesting]] planting pattern is an effective control in
 overgrazed, eroded, mined, or bulldozed sites. Logs cross-slope
 hold mulch until tree-lines establish; logs rot but mulch is
 renewed annually by banana clumps.
@@ -123,13 +123,13 @@ renewed annually by banana clumps.
 
 Even small logs and branches, pegged across erosion channels,
 build up a layer-cake of silt and leaves, beside which can be
-planted willow, Acacia, or any other fibrous-rooted and hardy
+planted willow, [[acacia]], or any other fibrous-rooted and hardy
 species, which then act as a permanent silt trap. Mulch behind
 logs and barriers quickly stabilises the seed bed for planting.
 
 Small wire netting fences, with stone-weighted hay uphill, will
 trap silt and spread water, as will cross-swales of lemongrass
-or Vetiver grass. On very steep slopes, plant pampas, bamboo,
+or [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]. On very steep slopes, plant pampas, bamboo,
 lemongrass, and root-mat pioneers, and make upslope plantings
 of chestnut, Acacia, [[mollison-tropical-mulch-systems-and-materials]]
 - [[mollison-barrier-plants-in-garden-design]]

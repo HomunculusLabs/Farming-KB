@@ -1,5 +1,5 @@
 ---
-title: Do Family Compounds Pihkal
+title: Do 2c-family-compounds-overview Pihkal
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

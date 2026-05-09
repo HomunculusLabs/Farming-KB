@@ -1,5 +1,5 @@
 ---
-title: Bacterial vs Fungal Soil Dynamics
+title: comparison-soil-food-web-vs-bacterial-vs-fungal-soil Soil Dynamics
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -53,7 +53,7 @@ Trees require significantly higher F:B ratios:
 - Riparian trees (alder, beech, aspen, cottonwood): F:B 5:1 to 100:1 when
   mature; prefer bacterially dominated soils when young
 
-Forest soils have a fungal biomass over 100 times that of bacteria. Shrubs
+Forest soils have a [[bioremediation-fungal-biomass-biosorbent-material]] over 100 times that of bacteria. Shrubs
 generally prefer higher fungal dominance than perennials. Rhododendrons, for
 example, require very strong fungal dominance, while cotoneaster or lilac
 require less.
@@ -64,7 +64,7 @@ The general rule: the longer a plant lives, the more it benefits from fungal
 dominance. This is because:
 
 1. Fungi are fragile organisms that take time to grow
-2. Mycorrhizal fungi need a live root to associate with; longer-lived roots
+2. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] need a live root to associate with; longer-lived roots
    support longer fungal relationships
 3. Longer-lived plants produce litter with more lignin and cellulose, which are
    good fungal food sources
@@ -76,9 +76,13 @@ dominance. This is because:
 
 - [[compost-biology-soil-food-web-inoculation]] or fine, wet, green
   mulches favors bacteria
-- Adding [[soil-food-web-structure]], [[root-exudates-rhizosphere]], [[soil-food-web-structure]] describes the trophic hierarchy that determines how bacterial and fungal channels channel energy and nutrients through decomposer food webs.
+- Adding [[soil-food-web-structure]], [[root-exudates-rhizosphere]], [[soil-food-web-structure]] describes the trophic hierarchy that determines how [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] channels channel energy and nutrients through decomposer food webs.
 
 [[bacterial-to-fungal-soil-succession]] explains the natural progression from bacterially dominated pioneer soils to fungally dominated mature ecosystems.
 
 [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
 - [[teaming-with-microbes-bacterial-vs-fungal-dominance]]
+
+## See Also
+
+- [[fungal-bacterial-predators-nitrogen-acquisition-soil-ecology]]

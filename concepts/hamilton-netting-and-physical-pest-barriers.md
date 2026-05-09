@@ -1,5 +1,5 @@
 ---
-title: "Netting and Physical Pest Barriers"
+title: "Netting and hamilton netting and physical pest barriers Barriers"
 created: 2026-04-28
 tags: [pest-control, netting, fencing, bird-protection, physical-barriers]
 date: 2026-04-25
@@ -22,7 +22,7 @@ years.
 Birds are a tremendous asset in the garden as pest controllers, but they
 also cause significant damage. They attack the fattening buds of fruit,
 especially blackcurrants, and target brassicas during winter when little
-else is available. Crocus buds, early spring bulbs, and new grass seed are
+else is available. Crocus buds, [[coleman-overwintered-onions-and-early-spring-crops]] bulbs, and new [[disposable-tray-casing-method-grass-seed-substrate]] are
 all highly vulnerable.
 
 ### Fruit Cages
@@ -39,7 +39,7 @@ If a full fruit cage is not practical, protect individual rows of
 vulnerable crops. Place a row of small wire hoops along the beds of low
 plants and drape nets over the top. For taller crops like peas, support
 the net on stakes so it sits higher than the plants, preventing damage
-when removing the net. For strawberries and fruit bushes, simply drape
+when removing the net. For strawberries and [[holzer-soft-fruit-bushes-and-berries]], simply drape
 netting over the row and anchor the edges with bricks.
 
 ### Black Cotton Thread

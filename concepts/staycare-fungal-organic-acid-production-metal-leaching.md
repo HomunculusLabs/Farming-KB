@@ -1,5 +1,5 @@
 ---
-title: Fungal Organic Acid Production for Metal Leaching
+title: staycare fungal organic acid production metal leaching Acid Production for Metal Leaching
 created: 2026-04-28
 tags: [bioremediation, organic-acids, metal-leaching, fungal-metabolism, biohydrometallurgy]
 date: 2026-04-25
@@ -13,7 +13,7 @@ type: concept
 Fungi produce a variety of organic acids that play crucial roles in
 metal solubilization, leaching from contaminated matrices, and
 biogeochemical cycling of elements. Citric acid, oxalic acid, and
-gluconic acid are the principal organic acids involved in fungal metal
+gluconic acid are the principal organic acids involved in [[bioremediation-fungal-metal-metalloid-transformations]]
 mobilization, with [[penicillium-simplicissimum]]
 being the most commonly used species for biohydrometallurgical
 applications.
@@ -53,7 +53,7 @@ growing on copper-treated wood, providing a non-toxic form of copper
 detoxification through insoluble precipitation.
 
 Oxalic acid reaches concentrations of 10 to the minus 2 to 10 to the
-minus 5 moles per liter in soil environments. Calcium oxalate crystals
+minus 5 moles per liter in soil environments. [[fungal-calcium-oxalate-crystals]] crystals
 (whewellite and weddellite) are commonly found around free-living
 hyphae and mycorrhizal roots, where they play a major role in calcium
 detoxification.
@@ -65,7 +65,7 @@ important leaching agent produced by fungi. In the presence of fly ash,
 A. niger produces mainly gluconic acid, which effectively solubilizes
 aluminum, cadmium, chromium, copper, iron, manganese, nickel, lead,
 and zinc from fly ash matrices. Glucose oxidase enzymes in fungi
-convert glucose to gluconic acid and hydrogen peroxide.
+convert glucose to gluconic acid and [[cervantes-hydrogen-peroxide-sterilization]].
 
 ## Process Types for Fungal Bioleaching
 
@@ -80,7 +80,7 @@ practical difficulties.
 
 ### Two-Step Process
 
-The two-step process separates fungal growth from the leaching step.
+The two-step process separates [[brassinosteroid-fungal-growth-promotion]] from the leaching step.
 Fungi are first cultivated to produce organic acids, which are then
 applied to the metal-containing substrate. This approach avoids toxicity
 problems during fungal growth and can achieve higher leaching

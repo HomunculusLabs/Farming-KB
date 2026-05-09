@@ -26,7 +26,7 @@ It is the source of **sanshō** (山椒), one of the most important traditional 
 
 The plant produces small, reddish-brown pericarps (husks) that deliver a unique tingling, numbing sensation on the tongue caused by the alkylamide sanshool.
 
-Sanshō is considered one of Japan's essential seasonings alongside wasabi, shiso, and yuzu, and has been used in Japanese cooking for over a millennium.
+Sanshō is considered one of Japan's essential seasonings alongside wasabi, shiso, and yuzu, and has been used in [[fukuoka-japanese-cooking-culture-disappearing]] for over a millennium.
 
 ## Taxonomy and Morphology
 
@@ -103,7 +103,7 @@ Harvesting of pericarps occurs from mid-summer to early autumn when fruits turn 
 
 The entire fruit cluster is harvested and the pericarps are separated from the seeds by drying and winnowing.
 
-Young shoots (kinome) are harvested in early spring before the leaves fully expand.
+Young shoots (kinome) are harvested in [[coleman-overwintered-onions-and-early-spring-crops]] before the leaves fully expand.
 
 Commercial production is relatively small-scale compared to other spices, with most Japanese sanshō sourced from small farms.
 
@@ -115,7 +115,7 @@ The characteristic numbing sensation is caused by **hydroxy-α-sanshool**, an un
 
 Sanshool acts on the TRPA1 and TRPV1 ion channels, producing a tingling, slightly analgesic sensation distinct from the burning heat of capsaicin.
 
-The pericarps contain 2–4% essential oil, with major constituents including limonene, geranyl acetate, and citronellal.
+The pericarps contain 2–4% [[permaculture-designers-manual-essential-oil-plants]], with major constituents including limonene, geranyl acetate, and citronellal.
 
 Flavonoids isolated from the species include quercitrin, hyperin, and rutin with documented antioxidant activity.
 

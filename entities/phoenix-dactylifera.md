@@ -46,15 +46,15 @@ The palm thrives in hot, arid climates with summer temperatures exceeding 40°C 
 
 Commercial cultivation extends from North Africa and the Middle East through Central Asia to southern Pakistan and northwestern India. Smaller industries exist in the southwestern United States, Mexico, Australia, and South Africa.
 
-The palm performs best at elevations below 1,200 meters and requires bright, direct sunlight for optimal fruit production. Wind protection is important during the early years of establishment, though mature palms are highly wind-resistant.
+The palm performs best at elevations below 1,200 meters and requires bright, direct sunlight for optimal fruit production. [[cervantes-wind-protection-outdoor-cannabis]] is important during the early years of establishment, though mature palms are highly wind-resistant.
 
 ## Cultivation
 
-Date palms are propagated primarily through offshoots that arise at the base of the trunk, which preserve the exact genetic characteristics of the mother plant. Seed propagation is used only in breeding programs due to variable offspring quality.
+Date palms are propagated primarily through offshoots that arise at the base of the trunk, which preserve the exact genetic characteristics of the mother plant. [[jeavons-seed-propagation-techniques]] is used only in breeding programs due to variable offspring quality.
 
 Palms require 4–8 years from planting to first harvest, with full commercial production reached at 10–15 years. Productive trees can bear fruit for 60–100 years under favorable conditions.
 
-Irrigation is essential throughout the growing season, with mature trees consuming 150–300 liters of water per day during the hottest months. Drip irrigation has largely replaced traditional flood irrigation in modern commercial orchards.
+Irrigation is essential throughout the [[savory-growing-season-and-non-growing-season-management]], with mature trees consuming 150–300 liters of water per day during the hottest months. [[comparison-drip-irrigation-vs-passive-irrigation]] has largely replaced traditional flood irrigation in modern commercial orchards.
 
 The most labor-intensive phase is pollination, which requires hand-transfer of male pollen to female inflorescences. Mechanical pollination using mixed pollen powder and air blowers has partially automated this process in large-scale operations.
 
@@ -82,11 +82,11 @@ Date palm cultivation originated in Mesopotamia around 4000 BCE, making it among
 
 The palm is mentioned over 20 times in the Quran, where it is described as a symbol of God's bounty. Breaking the Ramadan fast with dates follows the prophetic tradition of the Prophet Muhammad.
 
-In ancient Egyptian religion, the date palm represented the god Huh, one of the four primordial deities. Palm fronds were used in religious ceremonies and as a symbol of triumph in Roman and early Christian traditions.
+In ancient Egyptian religion, the date palm represented the god Huh, one of the four primordial deities. Palm fronds were used in religious ceremonies and as a symbol of triumph in Roman and [[allegro-dead-sea-scrolls-and-early-christian-sects]] traditions.
 
 The palm is the national tree of Saudi Arabia and Iraq, and its silhouette appears on currency, flags, and official seals across the region. Phoenix dactylifera wood and leaf fossils have been found dating back 50 million years, indicating the genus is far older than human cultivation.
 
-Traditional oasis agriculture centers on date palms, which provide shade, building materials, and food while creating microclimates that support understory crops such as wheat, alfalfa, and citrus beneath the canopy.
+Traditional oasis agriculture centers on date palms, which provide shade, [[natural-building-materials-guide]], and food while creating microclimates that support understory crops such as wheat, alfalfa, and citrus beneath the canopy.
 
 Palm trunk wood is used in construction and furniture making across the Middle East and North Africa. Fronds are woven into baskets, mats, and roofing thatch, while the fiber from leaf sheaths provides cordage and packing material.
 
@@ -96,7 +96,7 @@ Date palm sap (toddy) is collected by tapping the inflorescence and can be consu
 
 - [[areca-catechu]]
 - [[vitis-vinifera]]
-- [[punica-granatum]]
+- punica-granatum
 - [[persea-americana]]
 - [[curcuma-longa]]
 - [[piper-nigrum-entity]]

@@ -1,25 +1,19 @@
 ---
-title: substrate preparation and pasteurization
+title: cotter-compost-substrate-preparation-manure-mushroom-cultivation and pasteurization
 created: 2026-04-28
-tags: [[mycology, cultivation, substrate, pasteurization, sterilization]
+tags: [mycology, cultivation, substrate, pasteurization, sterilization]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3erpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 type: concept
 ---
-
-# Substrate Preparation and Pasteurization
-
-The substrate is the bulk material on which mushroom mycelium grows and
-eventually fruits. Unlike grain spawn, which serves as a nursery phase, the
-substrate must provide sufficient mass and nutrition to support a full flush of
-mushrooms. [[sterilization]]
+# Substrate Preparation and Pasteurization The substrate is the bulk material on which mushroom mycelium grows and eventually fruits. Unlike grain spawn, which serves as a nursery phase, the substrate must provide sufficient mass and nutrition to support a full flush of mushrooms. [[sterilization]]
 and pasteurization — is one of the most important decisions in a cultivation
 cycle.
 
 ## Substrate Categories
 
-Mushroom substrates fall into three broad categories based on their nutritional
+[[query-what-are-the-best-mushroom-substrates-for-different-species]] fall into three broad categories based on their nutritional
 complexity:
 
 **Low-nutrition substrates** include straw, cardboard, and hardwood sawdust.
@@ -33,7 +27,7 @@ supplements like bran, gypsum, or coffee grounds. The added nutrition boosts
 yields but also invites contamination, requiring more careful processing.
 
 **High-nutrition substrates** include composted manure, enriched straw, and
-supplemented sawdust blocks used for shiitake and lion's mane. These require
+[[oyster-mushroom-supplemented-sawdust-blocks]] blocks used for shiitake and lion's mane. These require
 full sterilization for reliable results.
 
 ## Pasteurization
@@ -45,13 +39,13 @@ continue to occupy ecological niches and suppress more aggressive contaminants.
 
 The hot water bath is the simplest pasteurization method. Substrate (typically
 chopped wheat straw) is submerged in water heated to 65 to 75 degrees Celsius
-and held for 60 to 90 minutes, then drained and cooled. A washing machine drum
+and held for 60 to 90 minutes, then drained and cooled. A [[cervantes-washing-machine-hash]] drum
 or insulated cooler works well as a vessel. Lime or wood ash is sometimes added
 to raise the pH above 8, which further suppresses bacterial competitors.
 
 For sawdust-based substrates, steam pasteurization is more common. Steam is
 injected into a sealed chamber containing the substrate bags for 6 to 12 hours
-at atmospheric pressure. This is gentler than pressure sterilization and
+at atmospheric pressure. This is gentler than [[boil-a-bag-pressure-sterilization-technique]] and
 preserves more of the beneficial microflora.
 
 ## Sterilization
@@ -65,7 +59,7 @@ for supplemented sawdust blocks.
 The major downside of sterilization is that it creates a biological vacuum.
 With no competing organisms present, any contaminant that lands on the
 substrate during inoculation has unrestricted access to the nutrients. This is
-why sterile technique during inoculation becomes increasingly critical as
+why [[cultivator-sterile-technique-and-agar-culture]] during inoculation becomes increasingly critical as
 substrate nutrition increases.
 
 ## Common Substrate Recipes
@@ -109,6 +103,8 @@ recipes. It improves texture, buffers pH, and provides calcium and sulfur
 without contributing nitrogen that would feed contaminants.
 
 ## See Also
+
+- [[oyster-mushroom-bag-preparation-and-pasteurization]]
 
 - [[fruiting-chamber-design-and-environmental-control]]
 - [[contamination-prevention-in-mushroom-cultivation]]

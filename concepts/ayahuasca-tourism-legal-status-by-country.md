@@ -1,5 +1,5 @@
 ---
-title: Ayahuasca Tourism Legal Status by Country
+title: stuart-r-ayahuasca-tourism-cautionary-ethnography gottlieb-peyote-legal-status-and-conservation by Country
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -68,7 +68,7 @@ Brazil offers a distinct legal model based on organized religious use rather tha
 
 Brazilian law recognizes the right of indigenous and syncretic religious groups to use ayahuasca in ceremonial contexts.
 
-This legal protection extends to organized ayahuasca churches such as the Santo Daime and the União do Vegetal (UDV), which have established legal precedents protecting their religious use of the brew.
+This legal protection extends to organized [[metzner-brazilian-ayahuasca-churches-structural-comparison-santo-daime-udv-barquinha]] such as the [[metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha]] and the União do Vegetal (UDV), which have established legal precedents protecting their religious use of the brew.
 
 The Brazilian model is more formalized than Peru's -- it rests on constitutional protections for religious freedom and specific legal decisions affirming the rights of ayahuasca churches to use their sacrament without interference.
 
@@ -114,7 +114,7 @@ The article mentions ordering ingredients from "ethnobotanical suppliers" for ho
 
 The legal responsibility for safety falls on the tourist rather than the practitioner in most cases.
 
-Since indigenous shamans are not licensed medical professionals and operate in legal environments without malpractice frameworks, tourists who suffer adverse effects have limited legal recourse.
+Since indigenous shamans are not licensed medical professionals and operate in legal environments without malpractice frameworks, tourists who suffer [[blesching-cannabis-safety-adverse-effects-evidence]] have limited legal recourse.
 
 ### Extraterritorial Enforcement
 
@@ -131,3 +131,7 @@ In Peru, where ayahuasca tourism is most developed, there are no licensing requi
 The industry operates on the basis of cultural practice and market forces rather than regulatory oversight.
 
 This regulatory vacuum enables the industry's rapid growth but also creates the conditions for the exploitation, inconsistent quality, and medical risk documented throughout the article.
+
+## See Also
+
+- [[ayahuasca-tourism-ethnography]]

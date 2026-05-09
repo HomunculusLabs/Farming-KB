@@ -3,22 +3,23 @@ title: Well Drilling and Maintenance
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [homesteading, off-grid, water, water-management, engineering, construction]
-sources: []
+tags: homesteading, off-grid, water, water-management, engineering, construction]
+sources:
+  sources: []
 ---
 
 # Well Drilling and Maintenance
 
 A reliable well provides a consistent water supply independent of rainfall
 and surface water availability. This guide covers drilling methods, pump
-types, well maintenance, water quality testing, and considerations for the
+types, well maintenance, water [[cannabis-quality-testing]], and considerations for the
 off-grid homestead.
 
 ## Site Selection
 
 ### Finding Water
 - **Geological surveys** — state geological surveys provide well logs and
-  groundwater maps for your area
+  groundwater [[maps]] for your area
 - **Dowsing/water witching** — anecdotal; not scientifically validated
   but some drillers respect the practice
 - **Neighboring wells** — ask nearby property owners about well depth,
@@ -143,49 +144,7 @@ Manual pump for off-grid or emergency backup use.
 DC submersible pump powered by a solar panel array with battery backup or
 direct drive.
 
-- Ideal for off-grid homesteads
-- Pair with a solar-direct system for daytime pumping into a cistern
-- See [[solar-water-heating]] for complementary solar energy systems
-- See [[rainwater-harvesting-systems]] for combining well and rainwater
-
-## Water Quality Testing
-
-Test your well water annually for:
-
-| Parameter | EPA Limit | Health Concern |
-|---|---|---|
-| Coliform bacteria | 0 total coliforms/100mL | Gastrointestinal illness |
-| E. coli | 0/100mL | Severe gastrointestinal illness |
-| Nitrate | 10 mg/L | Blue baby syndrome |
-| Lead | 0.015 mg/L | Neurological damage |
-| Arsenic | 0.01 mg/L | Cancer, skin damage |
-| pH | 6.5-8.5 | Corrosion, taste |
-| Hardness | N/A | Scale buildup, soap inefficiency |
-| Iron | 0.3 mg/L | Taste, staining |
-| Manganese | 0.05 mg/L | Taste, staining |
-
-### Treatment Options
-- **Bacteria** — UV disinfection or continuous chlorination
-- **Nitrate** — reverse osmosis or ion exchange
-- **Hardness** — water softener (ion exchange)
-- **Iron/manganese** — greensand filter or oxidizing filter
-
-## Well Maintenance
-
-- **Annual inspection** — check well cap, casing, and surrounding area
-- **Water testing** — annual bacterial and nitrate testing; comprehensive
-  every 3-5 years
-- **Pump maintenance** — check pressure tank air pressure annually
-- **Shock chlorination** — disinfect with chlorine if contamination detected
-- **Record keeping** — maintain well log with depth, yield, and test results
-
-## Yield and Sustainability
-
-- **Well yield test** — measures sustainable yield in GPM
-- **Static water level** — monitor annually for decline
-- **Recovery rate** — indicates aquifer productivity
-- **Conservation** — efficient fixtures and rainwater supplementation
-  reduce well demand
-
-For complementary off-grid water infrastructure, see
-[[rainwater-harvesting-systems]] and [[composting-toilet-systems]].
+## See Also
+- [[solar-water-heating]]
+- [[rainwater-harvesting-systems]]
+- [[mollison-designers-hand-pump-and-water-lifting-devices]]

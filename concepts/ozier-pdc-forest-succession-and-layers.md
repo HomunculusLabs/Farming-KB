@@ -1,13 +1,13 @@
 # Forest Succession and Layers (Ozier PDC)
 
-**Source:** William Ozier, *William's PDC: A Permaculture Design Course* (2011)
+**Source:** William Ozier, *William's PDC: A [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] Course* (2011)
 
 ## Understanding Forests as Ecological Systems
 
 Forests are dense, three-dimensional structures created by the interaction of
 countless species—plants, animals, fungi, and microorganisms. As Ozier emphasizes,
 a forest is not made by trees alone. Forests are complex, self-sustaining ecological
-systems characterized by predation, symbiosis, nutrient cycling, and energy flow.
+systems characterized by predation, symbiosis, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and energy flow.
 Forests create and regulate the Earth's atmosphere, moderate climate, protect
 watersheds, and constitute the primary biological infrastructure of the planet's
 land surface.
@@ -17,7 +17,7 @@ land surface.
 Forest types are typically identified by their dominant canopy species and the
 climatic conditions that support them. In Permaculture design, understanding local
 forest types is essential because they provide the template for food forests and
-forest gardens. A designer should study the native forest community of their
+[[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]. A designer should study the native forest community of their
 bioregion to understand which species naturally associate, how nutrients cycle,
 and what successional patterns occur.
 
@@ -30,7 +30,7 @@ and can be stocked with useful species:
 1. **Canopy layer** — The tallest trees forming the overhead roof
 2. **Understory layer** — Smaller trees and tall shrubs beneath the canopy
 3. **Shrub layer** — Woody plants at mid-height, often fruiting or flowering
-4. **Herbaceous layer** — Non-woody plants, including perennial vegetables and herbs
+4. **Herbaceous layer** — Non-woody plants, including [[comparison-perennial-vegetables-vs-cover-crops]] and herbs
 5. **Ground cover layer** — Low-growing plants that protect soil surface
 6. **Root layer** — Plants harvested for their roots and tubers
 7. **Vine layer** — Climbing plants that use other plants as structural support
@@ -70,7 +70,7 @@ in terms of biomass accumulation.
 ### Stage 4: Mature Forest
 
 As the canopy closes and light conditions change beneath, shade-tolerant species
-become established. The forest structure becomes more complex with distinct layers.
+become established. The [[mollison-wet-tropical-forest-structure-and-polyculture]] becomes more complex with distinct layers.
 Most plants in a mature forest are still growing and competing, but the system is
 stabilizing. Nutrient cycling becomes more efficient as the soil food web matures.
 
@@ -90,7 +90,7 @@ a mature forest, designers can:
 
 - Plant fast-growing pioneer and nurse trees to quickly establish canopy
 - Direct-seed or transplant species from later successional stages
-- Use sheet mulching and composting to rapidly build soil
+- Use [[comparison-sheet-mulching-vs-chop-and-drop-mulching]] and composting to rapidly build soil
 - Install nitrogen-fixing species to jump-start nutrient cycling
 - Design guilds that replicate mature forest relationships
 - Use chop-and-drop mulching to simulate natural leaf fall

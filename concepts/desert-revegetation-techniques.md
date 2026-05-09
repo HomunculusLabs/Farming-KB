@@ -1,5 +1,5 @@
 ---
-title: Desert Revegetation Techniques
+title: fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique Techniques
 source: Sowing Seeds in the Desert - Masanobu Fukuoka (2012)
 tags: [farming, natural-farming, desert, revegetation, ecology, restoration]
 created: 2026-05-08
@@ -11,8 +11,8 @@ Masanobu Fukuoka's approach to desert revegetation represents one of the most
 ambitious and unconventional ecological restoration strategies ever proposed.
 After visiting California, India, Africa, and other regions affected by
 desertification, Fukuoka became convinced that most of the world's deserts
-were created by human activity and could be restored through natural farming
-methods. His plan, which he called the Second Genesis, envisioned broad-scale
+were created by human activity and could be restored through [[comparison-natural-farming-vs-permaculture]]
+methods. His plan, which he called the [[fukuoka-second-genesis-theory-global-seed-scattering]], envisioned broad-scale
 seeding of as many species of plants and microorganisms as possible, allowing
 nature to determine the most appropriate course of recovery given present
 conditions. This stood in stark contrast to conventional approaches that
@@ -66,7 +66,7 @@ African desertification. He observed that Western agricultural approaches
 had been disastrous for Africa, noting that bringing industrial agriculture
 to places like Africa to enrich the national economy was a fundamental
 mistake. Instead, he advocated working with indigenous farmers to enable
-them to become self-sufficient through natural farming methods. At one
+them to become self-sufficient through natural [[natural-farming-methods-comparison]]. At one
 refugee camp, he led a seed-sowing effort, broadcasting clay pellets
 containing hundreds of plant species across degraded land. He believed
 that even in the most barren landscapes, seeds would survive in the soil
@@ -79,7 +79,7 @@ halt desertification. These would be broad strips of diverse vegetation
 established along the edges of advancing deserts, particularly in Africa
 and the Middle East. The greenbelts would serve multiple functions: they
 would slow wind erosion, improve local rainfall patterns through
-evapotranspiration, create microclimates favorable to further plant
+evapotranspiration, [[query-how-do-i-create-microclimates-in-my-garden]] favorable to further plant
 growth, and provide food and resources for local communities. Fukuoka
 envisioned these greenbelts being established through massive aerial
 broadcasting of clay seed pellets, a process that could cover thousands
@@ -88,7 +88,7 @@ revegetation methods that require individual planting and irrigation.
 
 ## The Role of Natural Farming in Restoration
 
-Fukuoka was adamant that agricultural production is actually deduction from
+Fukuoka was adamant that [[fukuoka-agricultural-production-net-energy-deduction]] is actually deduction from
 nature. Every crop harvested removes nutrients and organic matter from the
 land. Modern agriculture compensates with chemical inputs, but this creates
 dependency and pollution. Natural farming, by contrast, builds soil and

@@ -1,5 +1,5 @@
 ---
-title: Mushroom Outdoor Beds
+title: oyster-mushroom-outdoor-low-tech-cultivation Beds
 created: 2026-04-28
 tags: [mushrooms, outdoor-cultivation, ridges, winter-gardening, victorian]
 date: 2026-04-28
@@ -11,8 +11,8 @@ type: concept
 
 # Mushroom Outdoor Beds
 
-Outdoor mushroom beds were the traditional cultivation method
-before specialised [[mushroom-spawn]]
+[[cotter-outdoor-mushroom-garden-mulch-beds]] beds were the traditional [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]]
+before specialised mushroom-spawn
 inserted at regular intervals near the surface.
 
 ## Moulding the Ridge
@@ -30,7 +30,7 @@ Cuthill emphasised mushrooms could be grown outdoors in
 stables, lofts, coach-houses, yards, large boxes, cellars,
 and open ground. Brick pits, cucumber frames, and railway
 arches near towns were all suitable. The key was proper
-mushroom bed preparation rather than any specific
+mushroom [[azurescens-outdoor-bed-preparation-woodchips]] rather than any specific
 structure.
 
 ## Economic Value for Cottagers
@@ -84,4 +84,9 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[outdoor-mushroom-bed]]
+- [[cotter-outdoor-mushroom-garden-mulch-beds]]
+- [[holzer-mushroom-cultivation-outdoor-beds]]
+- [[oyster-mushroom-outdoor-low-tech-cultivation]]
+- [[outdoor-mushroom-cultivation-and-polyculture]]

@@ -14,19 +14,19 @@ Cordyceps species represent some of the most commercially valuable and biologica
 ## Key Species in Cultivation
 
 ### Cordyceps militaris (The Cultivable Species)
-The most commercially viable Cordyceps for artificial cultivation. Produces fruitbodies on grain and insect-based substrates without requiring a living host. Rich in cordycepin (3'-deoxyadenosine), the signature bioactive compound. Orange to red club-shaped fruitbodies emerge from a white mycelial mat. Cultivation on rice or soy-based substrates is well established in China, Korea, and increasingly in the West. C. militaris fruitbodies contain comparable or even higher cordycepin levels than wild C. sinensis, making it the primary commercial substitute.
+The most commercially viable Cordyceps for [[fukuoka-matsutake-artificial-cultivation-attempt]]. Produces fruitbodies on grain and insect-based substrates without requiring a living host. Rich in cordycepin (3'-deoxyadenosine), the signature bioactive compound. Orange to red club-shaped fruitbodies emerge from a white mycelial mat. Cultivation on rice or soy-based substrates is well established in China, Korea, and increasingly in the West. C. militaris fruitbodies contain comparable or even higher cordycepin levels than wild C. sinensis, making it the primary commercial substitute.
 
 ### Ophiocordyceps sinensis (Wild Himalayan Species)
 Cannot be reliably cultivated at commercial scale due to its obligate parasitic relationship with ghost moth (Hepialus) larvae. Wild harvest from the Tibetan Plateau remains the primary source. Declining wild populations due to overharvesting and climate change have driven intense cultivation research. The complete fruiting structure (the caterpillar body with stroma) cannot be cultured, only the mycelium.
 
 ## Cultivation Challenges
 
-Cordyceps cultivation differs fundamentally from other gourmet/medicinal mushrooms:
+Cordyceps cultivation differs fundamentally from other gourmet/[[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]:
 
 - Most species are entomopathogenic (insect parasites), requiring living insect hosts in nature
 - C. militaris is the exception -- it can fruit on sterile grain substrates
 - Substrate formulations often include insect protein sources (silkworm pupae, mealworms)
-- Temperature and light requirements differ from typical mushroom cultivation parameters
+- Temperature and light requirements differ from typical [[accessible-mushroom-cultivation-for-disabilities]] parameters
 - Artificial cultivation of C. sinensis has not achieved commercial viability
 - The mycelium of C. sinensis can be cultivated in fermenters for medicinal use, but fruiting bodies require the insect host
 - Quality control is essential: wild-collected Cordyceps is subject to adulteration and variable potency
@@ -57,14 +57,14 @@ The choice of substrate significantly affects cordycepin content. Insect-protein
 
 ## Spawn Preparation
 
-C. militaris can be grown on standard grain spawn (rye, millet, rice). Spawn run takes 14-21 days at 68-75 F. The mycelium is white and cottony, less vigorous than many other cultivated species. Maintaining strict sterile technique during inoculation is important because the long spawn run increases contamination risk.
+C. militaris can be grown on standard grain spawn (rye, millet, rice). Spawn run takes 14-21 days at 68-75 F. The mycelium is white and cottony, less vigorous than many other cultivated species. Maintaining strict [[cultivator-sterile-technique-and-agar-culture]] during inoculation is important because the long spawn run increases contamination risk.
 
 ## Fruiting Chamber Design
 
 C. militaris requires:
 - Good fresh air exchange during fruiting (CO2 below 1,500 ppm)
 - Moderate light (500-1,500 lux) with a 12-hour photoperiod
-- Cool temperatures (60-68 F) -- one of the few commercially cultivated mushrooms that prefers cool conditions
+- Cool temperatures (60-68 F) -- one of the few commercially [[fungi-cultivated-mushrooms-pathogens-competitors]] that prefers cool conditions
 - High humidity (80-85%) maintained through ultrasonic humidifiers or perlite
 - Fruiting typically occurs in jars or bags with the substrate surface exposed
 
@@ -91,7 +91,7 @@ For C. sinensis, where fruitbody cultivation is not feasible, fermenter-produced
 
 ## Yield
 
-C. militaris biological efficiency: 30-60% on grain substrates. Lower than gilled mushrooms due to the dense, slow-growing nature of the fruitbodies. Premium pricing offsets lower yields. A single cultivation cycle (spawn run + fruiting) takes approximately 6-10 weeks.
+C. militaris [[stamets-biological-efficiency-yield]]: 30-60% on grain substrates. Lower than gilled mushrooms due to the dense, slow-growing nature of the fruitbodies. Premium pricing offsets lower yields. A single cultivation cycle (spawn run + fruiting) takes approximately 6-10 weeks.
 
 ## Harvesting and Processing
 

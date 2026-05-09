@@ -23,7 +23,7 @@ aliases:
   - shiu-wood
 sources:
   - Chen, W. et al. (2021). "Cinnamomum camphora: A comprehensive review of traditional uses, phytochemistry, and pharmacology." Journal of Ethnopharmacology, 275, 114113.
-  - Chang, K.C. et al. (2015). "Chemical composition and bioactivity of Cinnamomum camphora essential oil." Molecules, 20(9), 16757–16767.
+  - Chang, K.C. et al. (2015). "Chemical composition and bioactivity of Cinnamomum camphora [[permaculture-designers-manual-essential-oil-plants]]." Molecules, 20(9), 16757–16767.
   - Floyd, A.G. (1989). "Rainforest Trees of Mainland South-eastern Australia." Inkata Press.created: 2026-05-07
 
 created: 2026-05-07
@@ -33,11 +33,11 @@ created: 2026-05-07
 
 ## Overview
 
-Cinnamomum camphora is a large evergreen tree in the family Lauraceae, native to East Asia (China, Japan, Korea, Taiwan, Vietnam). It is the primary natural source of camphor, a bicyclic monoterpene ketone with centuries of use in medicine, perfumery, and industry.
+Cinnamomum camphora is a large evergreen tree in the family Lauraceae, native to [[neurotropic-fungi-japan-east-asia-species-cultural-context]] (China, Japan, Korea, Taiwan, Vietnam). It is the primary natural source of camphor, a bicyclic monoterpene ketone with centuries of use in medicine, perfumery, and industry.
 
 Reaching heights of 20–30 m with a broad, spreading crown, the camphor tree is one of the most culturally significant aromatic trees in East Asian civilization. It has been planted as a temple and street tree across subtropical regions worldwide.
 
-The species has become an aggressive invasive in parts of Australia, the southeastern United States, and some Pacific islands, where it displaces native vegetation through allelopathic leaf litter and dense shading.
+The species has become an aggressive invasive in parts of Australia, the southeastern [[dmt-containing-plants-united-states-halpern]], and some Pacific islands, where it displaces native vegetation through allelopathic [[dighton-fungal-decomposition-leaf-litter-dynamics]] and dense shading.
 
 ## Taxonomy and Classification
 
@@ -55,7 +55,7 @@ Leaves are alternate, simple, 5–10 cm long and 2–5 cm wide, with three promi
 
 Flowers are small, yellowish-white, arranged in axillary panicles 4–8 cm long. They appear in spring (April–May) and have a pleasant fragrance.
 
-Fruit is a small, globose drupe, 7–10 mm in diameter, green ripening to black or dark purple. Each fruit contains a single seed. The fleshy pericarp is attractive to birds, which serve as primary dispersal agents.
+Fruit is a small, globose drupe, 7–10 mm in diameter, green ripening to black or dark purple. Each fruit contains a [[cervantes-selfing-single-seed-descent]]. The fleshy pericarp is attractive to birds, which serve as primary dispersal agents.
 
 ## Distribution and Habitat
 
@@ -95,7 +95,7 @@ Growth rate is moderate to fast: 30–60 cm per year in favorable conditions. Tr
 
 C. camphora is classified as a Category 1 invasive weed in parts of Australia and a severe invasion threat in the southeastern United States. It forms dense monocultures that suppress native understory regeneration.
 
-Allelopathic compounds in leaf litter (primarily camphor and other volatile terpenoids) inhibit germination and growth of competing plant species. This chemical warfare, combined with dense shading, allows camphor to dominate forest canopies rapidly.
+Allelopathic compounds in leaf litter (primarily camphor and other volatile terpenoids) inhibit germination and growth of competing plant species. This [[solomon-root-exudates-and-allelopathy]], combined with dense shading, allows camphor to dominate forest canopies rapidly.
 
 Birds disperse seeds extensively, facilitating spread into intact native ecosystems. In Florida, camphor has invaded hardwood hammocks, cypress swamps, and coastal strand communities.
 

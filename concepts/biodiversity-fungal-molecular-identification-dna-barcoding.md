@@ -1,5 +1,5 @@
 ---
-title: "Fungal Molecular Identification and DNA Barcoding"
+title: "biodiversity fungal molecular identification dna barcoding Identification and DNA Barcoding"
 created: 2026-04-28
 tags:
   - molecular-identification
@@ -17,7 +17,7 @@ type: concept
 # Fungal Molecular Identification and DNA Barcoding
 
 Molecular methods have revolutionized the discrimination of fungal taxa,
-monitoring of species, and assessment of fungal diversity. These techniques
+monitoring of species, and [[monitoring-and-assessment-of-fungal-bioremediation]] diversity. These techniques
 provide powerful tools for identifying fungi that are difficult or impossible
 to distinguish by morphology alone, and they enable detection of fungi in
 complex environmental samples such as [[biodiversity-of-fungi-endophytic-fungi]] that may be present at very low biomass within host
@@ -46,7 +46,7 @@ accurate than full sequence comparisons at greater distances.
 
 The small 5S rRNA (approximately 120 nucleotides) estimates broad
 phylogenetic relationships. Basidiomycetous yeast 5S similarity
-correlates with septal pore type. Complete 18S and 26S rDNA sequences
+correlates with [[fungal-woronin-bodies-and-septal-pore-organization]] type. Complete 18S and 26S rDNA sequences
 are now routine via PCR with specific primers and automated sequencing.
 Partial small subunit sequences provide essentially the same phylogenies
 as complete sequences, resolving long-standing taxonomic uncertainties
@@ -60,7 +60,7 @@ magnetic capture techniques using oligo(dT) beads have overcome these
 problems, enabling rapid and efficient purification of polyadenylated RNA
 from soil and wood samples. When combined with competitive or real-time
 PCR, quantitative assessment of transcript levels provides a measure of
-fungal biomass and physiological activities of fungi in situ.
+[[bioremediation-fungal-biomass-biosorbent-material]] and physiological activities of fungi in situ.
 
 RT-PCR analysis is applicable to a wide array of substrata and fungal
 species. The technique is particularly well suited for differentiating
@@ -89,7 +89,7 @@ of [[biodiversity-fungi-plant-pathogens]] in complex samples.
 ## Important Considerations
 
 Several precautions must be observed when applying molecular methods to
-fungal identification. Thermocyclers should be tested for accuracy and
+[[pcr-methods-fungal-identification-monitoring]]. Thermocyclers should be tested for accuracy and
 reproducibility. Transcripts may not directly reflect protein levels, so
 caution should be exercised in quantitative interpretations of cDNA
 levels. Excessive thermocycling beyond the plateau phase should be

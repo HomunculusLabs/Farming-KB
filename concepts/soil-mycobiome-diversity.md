@@ -1,7 +1,7 @@
 ---
 title: Soil Mycobiome Diversity
 created: 2026-04-28
-tags: [[mycology, soil-science, ecology, microbiology]
+tags: [mycology, soil-science, ecology, microbiology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
@@ -11,31 +11,28 @@ type: concept
 # Soil Mycobiome Diversity
 
 The soil mycobiome encompasses the total fungal community within soil,
-including yeasts, filamentous fungi, and their resting structures (spores,
-sclerotia, and mycelial fragments). Soil harbors an estimated 2.2-3.8 million
-fungal species globally, of which only 5-10% have been formally described.
-High-throughput DNA sequencing has revealed that a single gram of soil can
-contain hundreds to thousands of fungal operational taxonomic units (OTUs),
-making the soil mycobiome one of the most diverse microbial communities on
-Earth.
+including yeasts, filamentous fungi, and their resting structures
+(spores, sclerotia, and mycelial fragments). Soil harbors an estimated
+2.2-3.8 million fungal species globally, of which only 5-10% have been
+formally described. High-throughput DNA sequencing has revealed that a
+single gram of soil can contain hundreds to thousands of fungal
+operational taxonomic units (OTUs), making it one of the most diverse
+microbial communities on Earth.
 
 ## Vertical and Horizontal Distribution
 
-Fungal diversity and community composition vary dramatically across soil
-horizons:
+### Surface Layers (O and A Horizons)
 
-### Surface Layers (O and A horizons)
+The organic-rich upper layers harbor the highest fungal biomass and
+diversity. Saprotrophic fungi dominate, decomposing fresh leaf litter
+and woody debris. Plant pathogenic [[teaming-with-microbes-fungi-and-mycorrhizal-relationships]] fungi are
+concentrated near root zones. The majority of culturable soil fungi
+are recovered from these upper layers.
 
-The organic-rich upper layers harbor the highest fungal biomass and diversity.
-Saprotrophic fungi dominate these layers, decomposing fresh leaf litter and
-woody debris. Plant pathogenic fungi and mycorrhizal fungi are concentrated
-near root zones. The majority of culturable soil fungi are recovered from
-these upper layers.
-
-### Subsurface Layers (B and C horizons)
+### Subsurface Layers (B and C Horizons)
 
 Fungal biomass decreases with depth, but distinct communities persist.
-Endophytic fungi, some mycorrhizal associations, and oligotrophic adapted
+Endophytic fungi, some mycorrhizal associations, and oligotrophic
 species maintain activity at depths exceeding one meter. Dark septate
 endophytes (DSE) are particularly common in deeper mineral soils.
 
@@ -44,86 +41,69 @@ endophytes (DSE) are particularly common in deeper mineral soils.
 ### Ascomycota
 
 The largest phylum in most soil surveys, ascomycetes include diverse
-saprotrophs, pathogens, and endophytes. Common soil genera include
-*Penicillium*, *Aspergillus*, *Trichoderma*, *Fusarium*, and *Chaetomium*.
-Many produce prolific conidia (asexual spores) adapted for aerial dispersal
-and soil survival.
+saprotrophs, pathogens, and endophytes. Common genera include
+*Penicillium*, *Aspergillus*, *Trichoderma*, *Fusarium*, and
+*Chaetomium*. Many produce prolific conidia adapted for aerial
+dispersal and soil survival.
 
 ### Basidiomycota
 
-Though less frequently detected by DNA-based surveys (due to primer biases
-favoring ascomycetes), basidiomycetes are functionally dominant in many
-soils. Wood-decay basidiomycetes, ectomycorrhizal fungi, and litter
-decomposers contribute the majority of fungal biomass in forest soils.
-Their extensive mycelial networks persist for months to years.
+Though less frequently detected by DNA surveys due to primer biases,
+basidiomycetes are functionally dominant in many soils. Wood-decay,
+ectomycorrhizal, and litter decomposer species contribute the majority
+of fungal biomass in forest soils. Their extensive [[fungal-mycelial-networks-nutrient-translocation]]
+persist for months to years.
 
 ### Mucoromycota and Zoopagomycota
 
-Early-diverging fungal lineages commonly found in soil include
-*Mucor*, *Rhizopus*, and *Mortierella* species. *Mortierella* species are
-particularly abundant in agricultural soils and play roles in nutrient
-cycling and plant growth promotion.
+Early-diverging lineages commonly found in soil include *Mucor*,
+*Rhizopus*, and *Mortierella*. *Mortierella* species are particularly
+abundant in agricultural soils and play [[dighton-fungal-roles-in-nutrient-cycling]] cycling.
 
 ### Glomeromycotina
 
-Arbuscular mycorrhizal fungi (AMF) are ubiquitous in most soils, forming
-symbioses with the majority of terrestrial plants. Their spores and hyphal
-fragments are common soil inhabitants, and their diversity is strongly
-influenced by land use, plant community composition, and soil chemistry.
-
-### Chytridiomycota
-
-These aquatic or moisture-dependent fungi include parasitic species and
-saprotrophs of pollen and chitinous substrates in soil. Their flagellated
-zoospores require free water for dispersal, making them more abundant in
-waterlogged or seasonally flooded soils.
+[[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi (AMF) are ubiquitous, forming symbioses
+with most terrestrial plants. Their diversity is strongly influenced
+by land use, plant [[core-endorhiza-bacterial-community-composition-cannabis]], and soil chemistry. See
+[[mycorrhizal-symbiosis-mechanisms]] for detailed coverage of AMF
+biology and function.
 
 ## Functional Guilds
 
-Soil fungi are classified by their ecological roles:
+- **Saprotrophs**: Primary recyclers of carbon and nutrients in soil.
+- **Mycorrhizal fungi**: Mutualists enhancing plant nutrient uptake
+  in exchange for carbon.
+- **Pathogens**: Root rot fungi (*Armillaria*, *Rhizoctonia*),
+  damping-off pathogens (*Pythium*), and wilt fungi (*Verticillium*).
+- **Endophytes**: Fungi within plant tissues that can confer stress
+  tolerance and anti-herbivore defenses.
+- **Nematophagous fungi**: Trap soil nematodes using adhesive networks,
+  constricting rings, or adhesive knobs.
+- **Fungal parasites**: Mycoparasites like *Trichoderma* that attack
+  other fungal hyphae and spores.
 
-- **Saprotrophs**: Decompose dead organic matter; the primary recyclers of
-  carbon and nutrients in soil.
-- **Mycorrhizal fungi**: Form mutualistic associations with plant roots,
-  enhancing nutrient uptake in exchange for carbon.
-- **Pathogens**: Include root rot fungi (*Armillaria*, *Rhizoctonia*,
-  *Fusarium*), damping-off pathogens (*Pythium*), and wilt fungi
-  (*Verticillium*).
-- **Endophytes**: Fungi living within plant tissues without causing disease;
-  can confer stress tolerance and anti-herbivore defenses.
-- **Nematophagous fungi**: Trap and consume soil nematodes using adhesive
-  networks, constricting rings, or spore-containing adhesive knobs.
-- **Fungal parasites**: Other fungi that attack fungal hyphae and spores
-  (mycoparasites like *Trichoderma* species).
+## Environmental Drivers
 
-## Environmental Drivers of Community Structure
-
-Soil fungal communities are shaped by multiple interacting factors:
-
-- **pH**: Often the strongest predictor of soil fungal community composition.
-  Acidic soils favor ectomycorrhizal and oligotrophic fungi; alkaline soils
-  support greater saprotrophic diversity.
+- **pH**: Often the strongest predictor of community composition.
+  Acidic soils favor [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]; alkaline soils support
+  greater saprotrophic diversity.
 - **Land use**: Agricultural intensification reduces fungal diversity,
-  particularly of AMF and wood-decay fungi, while favoring fast-growing
-  opportunistic species.
-- **Plant community**: The composition and diversity of aboveground
-  vegetation strongly influences belowground fungal communities through
-  root exudates, litter quality, and mycorrhizal host specificity.
-- **Climate**: Temperature and precipitation regimes drive large-scale
-  biogeographic patterns in soil mycobiome composition.
-- **Soil texture**: Clay content affects water retention, pore size
-  distribution, and organic matter stabilization, indirectly shaping fungal
-  communities.
+  particularly of AMF and wood-decay fungi.
+- **Plant community**: Aboveground vegetation strongly influences
+  belowground fungal communities through root exudates and litter.
+- **Climate**: Temperature and precipitation drive large-scale
+  biogeographic patterns.
+- **Soil texture**: Clay content affects water retention, pore size,
+  and organic matter stabilization.
 
-## Sampling and Methodological Challenges
+## Sampling Challenges
 
-Studying soil mycobiome diversity faces significant methodological
-challenges. DNA extraction efficiency varies by fungal group (chitinous
-spores are resistant to lysis), primer choice introduces taxonomic bias,
-and the lack of comprehensive reference databases limits taxonomic
-assignment. Metatranscriptomic approaches that capture actively expressed
-genes provide complementary functional information but are technically
-challenging and expensive.
+DNA extraction efficiency varies by fungal group, primer choice
+introduces taxonomic bias, and comprehensive reference databases
+remain incomplete. Metatranscriptomic approaches capture actively
+expressed genes but are technically challenging. See
+[[bloomfield-fungal-secondary-metabolites]] and [[bioluminescent-fungi]]
+for related fungal diversity topics.
 
 ## See Also
 

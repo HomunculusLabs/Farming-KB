@@ -1,5 +1,5 @@
 ---
-title: Cannabis Edibles Guide
+title: oner-cannabis-edibles-infusion-dosing Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -13,7 +13,7 @@ Cannabis edibles are food and beverage products infused with cannabinoids. They 
 
 ## Decarboxylation
 
-Raw cannabis contains non-intoxicating acidic cannabinoids (THCA, CBDA). Decarboxylation applies heat to convert these to their active forms (THC, CBD). This step is essential for any edible or tincture preparation.
+[[blesching-cannabis-decarboxylation-and-raw-cannabis]] contains non-intoxicating acidic cannabinoids (THCA, CBDA). Decarboxylation applies heat to convert these to their active forms (THC, CBD). This step is essential for any edible or [[cannabis-reefers-and-tincture-preparation]].
 
 ### Oven Method
 
@@ -83,7 +83,7 @@ Coconut oil is an excellent alternative to butter for vegan edibles and those wh
 - 1 teaspoon lecithin
 
 **Instructions**:
-1. Combine coconut oil and cannabis in a double boiler or mason jar
+1. Combine coconut oil and cannabis in a double boiler or [[mason-jar-preserving-guide]]
 2. Heat on low (160-180 F) for 2-3 hours
 3. Stir every 15-20 minutes
 4. Add lecithin in the last 30 minutes
@@ -143,40 +143,7 @@ CBD does not produce psychoactive effects at any reasonable dose:
 
 ### Cannabutter Cookies
 
-- Use cannabutter in place of regular butter in any cookie recipe
-- Standard batch of 24 cookies with 1 cup cannabutter at ~125 mg THC per cup = ~5 mg THC per cookie
-
-### Cannabis-Infused Gummies
-
-- Use cannabis tincture or infused coconut oil mixed with gelatin, fruit juice, and sweetener
-- Pour into silicone molds
-- Refrigerate to set
-- Each gummy can be precisely dosed
-
-### Canna-Oil Capsules
-
-- Fill empty gel capsules with infused coconut oil
-- Allows precise, discreet dosing
-- Onset and duration similar to other edibles
-
-### Infused Honey
-
-- Mix decarboxylated cannabis with raw honey
-- Heat gently (150-160 F) for 1-2 hours
-- Strain and store
-- Add to tea, toast, or recipes
-
-## Safety Tips
-
-- **Never consume edibles and drive**: Onset delay makes impairment unpredictable
-- **Keep away from children and pets**: Store in child-proof containers, clearly labeled
-- **Label everything**: Include potency estimate, date, and strain
-- **Start with a known dose**: Homemade edibles have variable potency
-- **CBD can moderate THC**: A 1:1 CBD:THC ratio reduces anxiety and intensity
-- **Food interactions**: Consuming edibles on a full stomach delays onset but may increase overall absorption
-
-For the extraction methods used to produce concentrates for edibles, see [[cannabis-extraction-basics]]. For liquid-based sublingual alternatives, see [[cannabis-tinctures-guide]].
-
 ## See Also
-
+- [[cannabis-terpene-and-aroma-chemistry-clarke]]
 - [[comparison-cannabis-decarboxylation-chemistry-vs-edibles-guide]]
+- [[oner-cannabis-edibles-infusion-dosing]]

@@ -1,5 +1,5 @@
 ---
-title: Fungal Degradation of Pesticides and Agrochemicals
+title: singh-fungal-degradation-endocrine-disrupting-compounds of Pesticides and Agrochemicals
 created: 2026-04-26
 tags:
   - fungal-biodegradation
@@ -15,7 +15,7 @@ type: concept
 ---
 
 # [[biochemistry-of-ligninolytic-fungi-bioremediation]]
-underlying these processes involves powerful extracellular enzyme systems.
+underlying these processes involves powerful [[dighton-fungal-extracellular-enzyme-systems-decomposition]] systems.
 
 ## Pesticide Classes and Environmental Impact
 
@@ -42,7 +42,7 @@ Major pesticide classes subject to fungal degradation include:
   they inhibit acetylcholinesterase and are moderately persistent.
 
 - Pyrethroids: Synthetic analogs of natural pyrethrins; used in
-  agriculture and household insect control. Moderately persistent
+  agriculture and household [[mushroom-pests-insect-control-stamets]]. Moderately persistent
   in soil.
 
 - Chlorophenoxy herbicides: 2,4-D, 2,4,5-T, and MCPA. These mimic
@@ -60,13 +60,13 @@ molecules through radical-mediated mechanisms. The role of [[trametes-versicolor
   chlorophenoxy herbicides, leading to dechlorination and ring
   cleavage.
 
-- MnP from [[pleurotus-ostreatus]]: Edible mushroom with demonstrated atrazine,
+- MnP from [[pleurotus-ostreatus]]: [[bloomfield-boletus-satanus-edible-mushroom-hazards]] with demonstrated atrazine,
   endosulfan, and chlorpyrifos degradation.
 
 - [[ganoderma-lucidum]]: Degrades DDT and lindane through ligninolytic
   and cytochrome P450 pathways.
 
-- Mucor circinelloides and Cunninghamella elegans: Zygomycetes that
+- Mucor circinelloides and [[staycare-cunninghamella-elegans-in-bioremediation]]: Zygomycetes that
   transform organochlorine and organophosphate pesticides through
   cytochrome P450-mediated oxidation.
 

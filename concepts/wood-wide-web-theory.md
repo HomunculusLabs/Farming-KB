@@ -1,19 +1,15 @@
 ---
-title: wood wide web theory
+title: wood wood wide web theory theory
 created: 2026-04-28
-tags: [[mycology, ecology, forest-biology, mycorrhiza, networks]
+tags: [mycology, ecology, forest-biology, mycorrhiza, networks]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
 type: concept
 ---
-
-# Wood Wide Web Theory
-
-The "Wood Wide Web" is a popular term for the hypothesis that trees in
-forests are interconnected through [[mycelial-network-communication]] for the biology of fungal signaling
-- [[fungal-decomposition-ecology]] for free-living fungal ecosystem roles
-- [[saprotrophic-nutrient-strategies]] for contrast with mycorrhizal fungi
+# Wood Wide Web Theory The "Wood Wide Web" is a popular term for the hypothesis that trees in forests are interconnected through [[mycelial-network-communication]] for the biology of fungal signaling
+- [[fungal-decomposition-ecology]] for free-living [[dighton-fungal-ecosystem-services-framework]] roles
+- [[saprotrophic-nutrient-strategies]] for contrast with [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
 ## Background and Context
 
 wood wide web theory is an important subject that has garnered significant attention
@@ -142,4 +138,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

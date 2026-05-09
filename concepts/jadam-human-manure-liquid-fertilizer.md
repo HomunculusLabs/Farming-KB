@@ -1,5 +1,5 @@
 ---
-title: JADAM Human Manure Liquid Fertilizer
+title: JADAM Human Manure jadam-liquid-fertilizer-nutritional-perspective
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # JADAM Human Manure Liquid Fertilizer
 
-Human excrement and urine are permitted materials under organic farming regulations and represent the oldest, most nutrient-complete fertilizer known to agriculture. Most famous Korean local produce brands were historically grown with human manure. Youngsang Cho calls for rediscovering this "precious resource" that flush toilets have eliminated from farming.
+Human excrement and urine are permitted materials under [[coleman-deep-organic-farming-philosophy]] regulations and represent the oldest, most nutrient-complete fertilizer known to agriculture. Most famous Korean local produce brands were historically grown with human manure. Youngsang Cho calls for rediscovering this "precious resource" that flush toilets have eliminated from farming.
 
 ## Youngsang Cho's Position
 
@@ -40,7 +40,7 @@ Individual daily production:
 
 **Analysis (per 100L urine + leaf mold):**
 - pH: 9.1 | EC: 61.15 ds/m | T-N: 2.48% | P2O5: 0.016% | K2O: 0.183%
-- Over 30 times richer in nitrogen than wild grass JLF
+- Over 30 times richer in nitrogen than [[jadam-cover-crop-wild-grass-symbiosis]] JLF
 - Excellent replacement for chemical nitrogen fertilizers
 
 **Recipe:**
@@ -53,7 +53,7 @@ Individual daily production:
 - Dilution: 50-500 times (standard x100)
 - When to apply: early to mid-growth
 - How to apply: soil drench or foliar spray
-- Use when crop growth seems weak (nitrogen supplement)
+- Use when [[coleman-sunlight-and-winter-crop-growth-rates]] seems weak (nitrogen supplement)
 - Combine with wild grass and fruit JLF as main additional fertilizer
 
 ## Human Feces JADAM Liquid Fertilizer
@@ -65,13 +65,13 @@ Individual daily production:
 
 **Recipe:**
 1. Build excrement-collecting toilets on the farm
-2. Throw wood chips and rice stalks in before use (reduces splashing)
+2. Throw [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]] and rice stalks in before use (reduces splashing)
 3. Add leaf mold to the collection container
 4. Close lid and let ferment
 
 **Fermentation Requirements (organic regulation):**
 - Option A: Ferment in high heat (over 50C / 122F) for over 7 days
-- Option B: Ferment at ambient temperature for over 6 months
+- Option B: Ferment at [[jadam-ambient-temperature-principle]] for over 6 months
 - **Cannot be directly sprayed onto parts for human consumption**
 
 **Application:**

@@ -1,5 +1,5 @@
 ---
-title: Sepp Holzer Terrace Systems and Raised Beds
+title: Sepp sepp holzer terrace systems and raised beds Systems and Raised Beds
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -66,10 +66,10 @@ Terraces serve multiple simultaneous functions:
 
 - Any conceivable crop can be grown on terraces
 - Plant cover established immediately after construction
-- If topsoil is poor, green manure crops needed first
+- If topsoil is poor, green [[green-manure-crops-detailed]] needed first
 - Fruit bushes and trees planted on embankments (drier, warmer conditions)
-- Sweet-smelling plants, medicinal and culinary herbs added to seed mixtures
-- Deep-rooted green manures (sweet clover, lupins) stabilise poor soils and fix nitrogen
+- Sweet-smelling plants, medicinal and [[holzer-medicinal-and-culinary-herbs-compendium]] added to seed mixtures
+- Deep-rooted [[jeavons-green-manures-cover-crops]] (sweet clover, lupins) stabilise poor soils and [[query-how-to-fix-nitrogen-toxicity-in-cannabis]]
 - Crops harvested seasonally for efficient land use
 - Even first-year plant cover creates substantial biomass for humus improvement
 
@@ -79,7 +79,7 @@ Raised beds are another key landscape element with multiple functions:
 - Vegetable and crop production
 - Barriers against emissions, dust, noise, and fumes from roads or industry
 - Visual barriers using lush vegetation that also provides wildlife habitat
-- Water retention and microclimate creation
+- Water retention and [[mollison-designers-microclimate-creation-frost-protection]]
 
 Raised beds should be rebuilt every 5-10 years depending on cultivation type. They can be flattened or compressed by animals or excessive grass growth. Repair is straightforward with a compact digger, tractor with backhoe, or plough (similar to white asparagus bed maintenance).
 

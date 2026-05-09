@@ -1,5 +1,5 @@
 ---
-title: Fungal Remediation Technologies for Petroleum Hydrocarbons
+title: cotter-pet-livestock-waste-fungal-remediation-systems Technologies for Petroleum Hydrocarbons
 created: 2026-04-26
 tags:
   - petroleum
@@ -20,7 +20,7 @@ Petroleum-contaminated soils and aquifers represent a significant
 environmental challenge, threatening soil fertility, drinking water, and
 groundwater quality. A wide variety of physical, chemical, and biological
 technologies have been established for the decontamination of petroleum-
-contaminated sites. Engineered in situ bioremediation has received wide
+contaminated sites. Engineered in [[staycare-fungal-in-situ-bioremediation-formulation-strategies]] has received wide
 acclaim because it requires little energy, preserves the soil structure,
 and can detoxify contaminants in place.
 
@@ -36,7 +36,7 @@ bioremediation. These approaches treat contamination without excavation,
 reducing costs and disturbance to the site.
 
 **Ex situ technologies** include air stripping, carbon adsorption, soil
-washing, incineration, and mycorrhizal and white-rot fungal treatment.
+washing, incineration, and mycorrhizal and white-rot [[singh-biopile-fungal-treatment-contaminated-soil]].
 These involve excavation and above-ground treatment, offering greater
 control over process conditions.
 
@@ -78,7 +78,7 @@ Slurry bioreactors provide intensive treatment by mixing contaminated
 soil with water in controlled vessels, achieving rapid degradation but
 at higher cost.
 
-Composting bioremediation combines contaminated soil with organic
+[[singh-fungal-composting-bioremediation-contaminated-soils]] combines contaminated soil with organic
 amendments and bulking agents in piles or vessels, creating thermophilic
 conditions that accelerate hydrocarbon degradation. White-rot fungi have
 been applied ex situ in composting systems to degrade recalcitrant
@@ -108,7 +108,7 @@ Paecilomyces, Trichoderma, and members of Sphaeropsidales.
 
 Cladosporium resinae is ubiquitously distributed in oil-contaminated
 environments and grows rapidly on n-alkanes and jet fuels. About 96%
-(weight basis) of paraffin oil was utilized by Cunninghamella elegans
+(weight basis) of paraffin oil was utilized by [[staycare-cunninghamella-elegans-in-bioremediation]]
 during a 5-day period. No single species of microorganisms will
 completely degrade any particular oil; degradation involves a consortium
 of microorganisms.
@@ -132,8 +132,11 @@ serve as the carbon source instead of traditional substrates like malt.
 
 ## See Also
 
+- [[singh-scaling-fungal-remediation-lab-to-field]]
+- [[singh-fungal-nanoparticles-remediation]]
+
 - [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]]
 
-- singh fungal metabolism petroleum hydrocarbons
+- singh [[singh-fungal-metabolism-pahs]] petroleum hydrocarbons
 - [[singh-fungal-alkane-metabolism-pathways]]
 - [[singh-fungal-composting-bioremediation-contaminated-soils]]

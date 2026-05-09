@@ -1,5 +1,5 @@
 ---
-title: "Amanita Muscaria and Soma"
+title: "allegro-amanita-muscaria-properties-and-pharmacology and Soma"
 created: 2026-04-28
 tags: [amanita-muscaria, soma, fly-agaric, ethnobotany, siberia]
 date: 2026-04-25
@@ -24,10 +24,10 @@ important sacred substances in human religious history.
 
 Fly agaric mushrooms grow in the north temperate regions of both
 hemispheres. The Eurasian type has a beautiful deep orange to blood-red
-cap flecked with white scales. The North American type varies from
+cap flecked with white scales. The [[growing-gourmet-north-american-reishi-species]] type varies from
 cream to orange-yellow. Chemical differences exist between the two,
 with the New World type being devoid of the strongly hallucinogenic
-effects of its Old World counterpart. Amanita muscaria typically occurs
+effects of its [[datura-metel-old-world-ethnobotany]] counterpart. Amanita muscaria typically occurs
 in association with birches across a wide band of Northern Eurasia.
 
 ## Siberian Shamanic Use
@@ -55,7 +55,7 @@ the mushroom. The active principles pass through the body and are
 excreted unchanged or as still active derivatives. Consequently, a few
 mushrooms may inebriate many people through this recycling method. This
 practice is directly relevant to the identification of Amanita muscaria
-as the Vedic Soma, since the Rig Veda describes ritual urine drinking
+as the [[mckenna-vedic-soma-indo-european-mysteries]], since the Rig Veda describes ritual urine drinking
 in connection with the Soma ceremony.
 
 ## Nature of the Intoxication
@@ -80,7 +80,7 @@ states, depending on dosage and individual sensitivity.
 
 For a century, the intoxicating principle was believed to be muscarine,
 but muscarine is present in such minute concentrations that it cannot
-act as the inebriant. It is now recognized that ibotenic acid forms
+act as the inebriant. It is now recognized that [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] forms
 several derivatives during the drying or extraction of the mushrooms.
 The main pharmacologically active principle is muscimole, found only
 in this mushroom. Other compounds such as muscazone are present in
@@ -115,7 +115,7 @@ The identification of Amanita muscaria as Soma represents a triumph of
 interdisciplinary scholarship combining botany, chemistry, linguistics,
 and comparative religion. The Wassons' research demonstrated that
 mycophobic cultures (those that fear mushrooms) tend to have historical
-connections to societies that once used psychoactive fungi in sacred
+connections to societies that once used [[cattle-dispersal-psychoactive-fungi-australia]] in sacred
 contexts. The taboos against mushroom consumption in Northern Europe
 may represent a cultural memory of the dangerous power of the sacred
 fungus, restricted to shamans and priests. This pattern of cultural

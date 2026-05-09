@@ -1,7 +1,7 @@
 ---
-title: Glutathione Biochemistry and Redox Biology
+title: Glutathione glutathione biochemistry and redox biology Biology
 type: concept
-aliases: [GSH, glutathione, reduced glutathione, oxidized glutathione, GSSG, glutathione redox, mercapturic acid pathway]
+aliases: [GSH, glutathione, reduced glutathione, oxidized glutathione, GSSG, [[one-carbon-metabolism-vs-glutathione-redox-biology]], mercapturic acid pathway]
 tags: [biochemistry, redox, antioxidant, detoxification, pharmacology, peptide, thiol, cell-biology, ferroptosis]
 created: 2026-05-02
 updated: 2026-05-06
@@ -34,7 +34,7 @@ Cysteine availability is the primary bottleneck. Three supply routes: (1) trans-
 The GSH/GSSG ratio is the primary indicator of cellular redox status, tightly regulated across compartments: ~100:1 in the cytosol (GSH 1–10 mM, GSSG 1–10 μM), ~10:1 in mitochondria, and ~1:1 to 3:1 in the endoplasmic reticulum where a more oxidizing environment facilitates disulfide bond formation.
 
 Glutathione reductase (GR, encoded by GSR) maintains the reduced state: GSSG + NADPH + H⁺ → 2 GSH + NADP⁺. This FAD-containing dimeric flavoprotein depends on NADPH from the [[bloomfield-fungal-biology-and-hyphal-growth]]
-- [[mushroom-nutrition-and-fermentation-biology]]
+- mushroom-nutrition-and-fermentation-biology
 - [[hamilton-soil-biology-and-microorganisms]]
 ## Practical Applications
 
@@ -53,7 +53,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -103,7 +103,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -113,4 +113,6 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[duggar-mushroom-environmental-factors-temperature-moisture-light]]
+- [[one-carbon-metabolism-vs-glutathione-redox-biology]]

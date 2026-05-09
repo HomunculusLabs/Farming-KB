@@ -12,13 +12,13 @@ updated: 2026-04-26
 
 # Causes of Desertification
 
-Desertification is the deterioration of land, water, and biological resources. Most people recognize it only by its terminal symptom—blowing sand—but the same syndrome of declining health and productivity occurs wherever the four ecosystem foundation blocks are failing, regardless of whether sand dunes ever appear.
+Desertification is the deterioration of land, water, and biological resources. Most people recognize it only by its terminal symptom—blowing sand—but the same syndrome of declining health and productivity occurs wherever the four  blocks are failing, regardless of whether sand dunes ever appear.
 
 ## The Fundamental Misunderstanding
 
-For millennia, humanity has believed that land damaged by grazing animals could be restored by simply leaving it undisturbed. This assumption seems logical and satisfies the intuition of cause and effect. It does apply to the stable environments of northern Europe and the eastern United States, where modern agricultural science developed. But it is catastrophically wrong for brittle environments, which cover over half the earth's land surface.
+For millennia, humanity has believed that land damaged by grazing animals could be restored by simply leaving it undisturbed. This assumption seems logical and satisfies the intuition of cause and effect. It does apply to the stable environments of northern Europe and the eastern United States, where modern agricultural science developed. But it is catastrophically wrong for [[savory-brittle-environments]], which cover over half the earth's land surface.
 
-The term desertification describes not just advancing sand dunes but the progressive failure of all ecosystem processes: succession declining toward simplicity, water cycles becoming ineffective, mineral cycles breaking down, and energy flow diminishing. These processes are interconnected, and failure in one accelerates failure in all.
+The term desertification describes not just advancing sand dunes but the progressive failure of all [[fungal-ecosystem-processes-overview]]: succession declining toward simplicity, water cycles becoming ineffective, mineral cycles breaking down, and energy flow diminishing. These processes are interconnected, and failure in one accelerates failure in all.
 
 ## Overgrazing: A Function of Time, Not Numbers
 
@@ -26,7 +26,7 @@ The most common misunderstanding is attributing land damage to "too many animals
 
 André Voisin proved that overgrazing bears little relationship to the number of animals but rather to the **time plants are exposed to animals**. If animals remain in any one place too long, or return before plants have recovered, they overgraze plants. This is a function of management, not of animal numbers.
 
-Wild herds moved constantly, seldom occupying any area longer than two or three days, after which the land had opportunity to recover. Domestic livestock, confined by fencing and denied the herding behavior induced by predators, often remain in the same area for weeks or months, causing severe overgrazing of preferred plants.
+Wild herds moved constantly, seldom occupying any area longer than two or three days, after which the land had opportunity to recover. Domestic livestock, confined by fencing and denied the [[savory-predator-prey-and-herding-behavior]] induced by predators, often remain in the same area for weeks or months, causing severe overgrazing of preferred plants.
 
 ## Overrest: The Hidden Destroyer
 
@@ -83,13 +83,13 @@ Reversing desertification requires restoring effective function of all four ecos
 2. Using planned grazing to provide the periodic disturbance that brittle environments require
 3. Managing stock density and recovery periods to prevent overgrazing while ensuring adequate animal impact
 4. Monitoring soil surface conditions as the earliest indicator of change
-5. Adapting management based on monitoring feedback
+5. Adapting management based on [[savory-replanning-and-monitoring-feedback]]
 
 Documented results from ranches applying holistic management show rapid improvements in water infiltration, plant density, soil organic matter, and forage production—often within three to five years of implementation. These improvements occur not by adding inputs but by restoring the natural processes that maintained ecosystem health for millions of years.
 
 ## Sources
 
-- Savory, Allan. *Holistic Resource Management*, Chapters 5-7, 18. Island Press, 1988.
+- Savory, Allan. *[[savory-holistic-resource-management-animal-impact]] Management*, Chapters 5-7, 18. Island Press, 1988.
 - Savory, Allan, and Jody Butterfield. *Holistic Management*. Island Press, 1999.
 
 ## See Also

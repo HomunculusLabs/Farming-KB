@@ -3,105 +3,114 @@ title: Fungicolous Fungi: Sporocarp-Inhabiting Species and Host Relationships
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[mycology, fungi]
-sources:
-  - "raw/papers/unknown-biodiversity-of-fungi.md"
+tags: [mycology, fungi]
+sources: - "raw/papers/unknown-biodiversity-of-fungi.md"
 ---
-
 # Fungicolous Fungi: Sporocarp-Inhabiting Species and Host Relationships
-
 Updated: 2026-04-18
-
-Fungicolous fungi are species of fungi consistently associated with other fungi, including lichenicolous fungi that grow on lichens. The term "sporocarp-inhabiting fungi" (SCIF) refers specifically to those growing on fruiting bodies of other fungi or slime molds. Approximately 1700 nonlichenicolous fungicolous species have been counted (Rudakov 1978), with about 1100 conidial fungicolous species on ~2500 host fungi including lichens (Hawksworth 1979a, 1981a). Some 1500+ lichenicolous species are now recognized.
+Fungicolous fungi are species of fungi consistently associated with other
+fungi, including lichenicolous fungi that grow on lichens. The term
+"sporocarp-inhabiting fungi" (SCIF) refers specifically to those growing on
+fruiting bodies of other fungi or slime molds. Approximately 1700
+nonlichenicolous fungicolous species have been counted (Rudakov 1978), with
+about 1100 conidial fungicolous species on ~2500 host fungi including
+lichens (Hawksworth 1979a, 1981a). Some 1500+ lichenicolous species are
+now recognized.
 
 ## Types of Fungicolous Associations
-
 Relationships range across the full symbiotic spectrum:
-
 - **Neutralistic:** No visible effect on host
 - **Commensal:** Regular association with little visible host effect
-- **Biotrophic mycoparasites:** Live in balanced relationship with living host without immediate harm; often form specialized infection structures; tend toward host specificity
-- **Necrotrophic mycoparasites:** Kill host cells; relatively unspecialized with broader host range; may be facultatively saprotrophic
+- **Biotrophic mycoparasites:** Live in balanced relationship with living
+  host without immediate harm; often form specialized infection
+  structures; tend toward host specificity
+- **Necrotrophic mycoparasites:** Kill host cells; relatively
+  unspecialized with broader host range; may be facultatively saprotrophic
 - **Saprotrophic associates:** Grow incidentally on other fungi
 
-Many species exhibit mixed strategies. Hypomyces chrysospermus (anamorph Sepedonium chrysospernum) always causes necrosis of mushroom hosts but can grow biotrophically inside Botrytis cinerea and Trichothecium roseum. Some species behave as biotrophs on certain hosts but necrotrophs on others.
+Many species exhibit mixed strategies. Hypomyces chrysospermus (anamorph
+Sepedonium chrysospernum) always causes necrosis of mushroom hosts but can
+grow biotrophically inside Botrytis cinerea and Trichothecium roseum. Some
+species behave as biotrophs on certain hosts but necrotrophs on others.
 
 ## Mycoparasite-Host Interfaces
 
 ### Necrotrophic Interfaces
-
-1. **Contact necrotrophic:** No penetration; host damaged by hyphal interference. Examples: Arthrobotrys superba, A. oligospora (nematophagous fungi also functioning as contact mycoparasites); Tilletiopsis species (kill Sphaerotheca fuliginea cells on contact).
-
-2. **Invasive necrotrophic:** Parasite hyphae penetrate host cell wall, show considerable growth within host hyphae. Examples: Talaromyces flavus, Schizophyllum commune, Trichoderma species.
+1. **Contact necrotrophic:** No penetration; host damaged by hyphal
+   interference. Examples: Arthrobotrys superba, A. oligospora
+   (nematophagous fungi also functioning as contact mycoparasites);
+   Tilletiopsis species (kill Sphaerotheca fuliginea cells on contact).
+2. **Invasive necrotrophic:** Parasite hyphae penetrate host cell wall,
+   show considerable growth within host hyphae. Examples: Talaromyces
+   flavus, Schizophyllum commune, Trichoderma species.
 
 ### Biotrophic Interfaces
+1. **Intercellular biotrophs:** Grow between host cells without
+   penetration. Less common but documented in some systems.
+2. **Intracellular biotrophs:** Form haustoria or specialized feeding
+   structures within living host cells. More host-specific.
 
-3-5. Three additional types where host cytoplasm remains healthy, involving various haustorial structures and specialized infection apparatuses.
+## Host Specificity Patterns
+Sporocarp-inhabiting fungi show a continuum of host specificity. Some
+species are generalists that colonize a wide range of fungal sporocarps
+across multiple orders. Others are highly specialized, known from only
+one or a few host species. Host specificity often correlates with the
+type of fungicolous association — biotrophic parasites tend to be more
+host-specific than necrotrophic or saprotrophic associates. The
+availability of host sporocarps in space and time strongly influences
+which fungicolous species can persist in a given habitat. Seasonal
+patterns of host fruiting create windows of opportunity for specialized
+fungicolous species.
 
-**Hyphal interference** occurs when mycelium of one fungus (within 50 mm of contact) reduces growth rate and causes cytoplasmic disruption of another, with vacuolation, lipid droplets, and invaginations at contact points.
+## Taxonomic Distribution Among Hosts
+Different groups of host fungi support distinct fungicolous communities.
+Agarics and boletes host the highest diversity of fungicolous species,
+partly because their large fleshy sporocarps provide abundant substrate
+and extended persistence in the environment. Polypores and crust fungi
+support different assemblages adapted to tougher, longer-lasting
+substrata. Lichenicolous fungi represent a separate but parallel
+radiation, with many species showing extreme host specificity to
+particular lichen genera or even species. Slime molds host specialized
+fungicolous fungi that are rarely found on other substrata.
 
-## Major Taxonomic Groups
+## Methods for Studying Fungicolous Fungi
+Documenting sporocarp-inhabiting fungi requires careful examination of
+host sporocarps. [[psilocybin-mushroom-field-collection-techniques]] should include sporocarps at various
+stages of development and decay. [[fungal-microscopic-examination-mounting-media-techniques]] of surface
+tissues reveals conidiophores, spores, and hyphal interactions. Culture
+on selective media can isolate fungicolous fungi away from their hosts,
+though some biotrophic species cannot be grown independently. Molecular
+methods including DNA barcoding of both host and parasite from the same
+specimen are increasingly used to clarify species boundaries and host
+relationships. [[myxomycete-sampling-collection-moist-chamber-culturing]] incubation of collected sporocarps often
+reveals fungicolous fungi that were not visible at the time of collection.
 
-### Ascomycota
+## Notable Genera of Sporocarp-Inhabiting Fungi
+Several genera are particularly well-represented among fungicolous
+species. Hypomyces (Hypocreales) includes many species that transform
+the appearance of their hosts dramatically. Clonostachys species are
+common on decaying agarics in temperate forests. Nectria and
+Tolypocladium species colonize polypores and other persistent fungal
+structures. Sepedonium species produce distinctive aleurioconidia on
+bolete hosts. Gliocladium and Verticillium species are frequent on
+mushroom sporocarps and can cause significant damage in cultivation.
 
-**Hypocreales:** The most important order of fungicolous fungi. Hypomyces (more than 50 species, teleomorph of Cladobotryum, Mycogone, Sepedonium, Blastotrichum) predominantly parasitizes mushroom basidiomata. Nectriopsis (39 species) grows on myxomycetes, pyrenomycetes, discomycetes, and lichens. Clavicipitaceae includes Cordyceps species on Elaphomyces; Lecanicillium (anamorphs of Hypocreales) with high chitinase activity shows biocontrol potential.
+## Conservation and Research Needs
+Fungicolous fungi face dual conservation threats: habitat loss affecting
+their host [[mycelium-running-stamets-fungi-and-climate-change]] change disrupting the timing of host
+fruiting. Many species have been collected only a handful of times and
+their distribution and abundance remain poorly known. The relationship
+between fungicolous diversity and overall [[air-pollution-fungal-community-responses]] health is an
+emerging area of research. Citizen science initiatives that encourage
+close photography of [[edible-wild-mushrooms-by-region]] may help document fungicolous
+species that would otherwise go unrecorded.
 
-**Dothideales:** Tubeufiaceae on meliolaecious or phyllachoraceous leaf-inhabiting ascomycetes, rusts, and decaying wood. Dacampiaceae include lichenicolous genera: Clypeococcum (6 species), Dacampia (3), Polycoccum (30), Pyrenidium (15), Weddellomyces (8). Microthyriaceae: Lichenopeltella with many lichenicolous species on macrolichens.
-
-**Arthoniales:** ~45 lichenicolous Arthonia species; 3 Lecanographa species; 35 Opegrapha species; 23+ Plectocarpon species.
-
-### Basidiomycota
-
-**Tremellales:** Tremella (170+ species) is the largest mycoparasitic genus, growing on aphyllophorales, Dacrymycetales, pyrenomycetes, hymenomycetes, and lichens. Most or all Tremellales species are believed to be mycoparasites. Syzygosporaceae (Syzygospora, Christiansenia, Carcinomyces = synonymized as Syzygospora, 9 species) parasitize Phanerochaete, Gymnopus, and Marasmius species, often causing gall-like deformations.
-
-**Atractiellales:** Chionosphaera and Stilbum (Atractiellaceae) may be mycoparasites.
-
-**Platygloeomycetidae:** Platygloea, Cystobasidium, Mycogloea, and Colacogloea contain mycoparasitic species. These possess specialized organelles called **colacosomes** (or lenticular bodies) -- vesicular structures with electron-opaque core and electron-transparent sheath that project through the parasite cell wall to contact the host plasmalemma, facilitating nutrient exchange.
-
-**Boletales and Agaricales:** Few fungicolous species. Host-specific associations in Asterophora and Squamanita.
-
-## Fungi on Sporocarps by Host Group
-
-### Polyphagous SCIF
-
-Species with broad host ranges include:
-- **Clonostachys (Gliocladium) rosea:** Ubiquitous; hyphae penetrate and destroy many hosts including Mucorales, Ceratocystis fimbriata, and Trichothecium roseum
-- **Calcarisporium arbuscula:** Grows on many Ascomycota and Basidiomycota; hosts usually do not survive
-- **Trichoderma species:** Potent mycoparasites; T. harzianum destroys Verticillium luteo-album
-- **Acremonium strictum:** Found on many saprotrophic and plant-pathogenic fungi
-- **Lecanicillium [Verticillium] lecanii:** Wide host range
-
-### Fungi on Slime Mold Sporocarps
-
-Two groups of myxomyceticolous parasites:
-1. Those parasitizing calcium-rich Physarales fructifications (Gliocladium album, Nectriopsis violacea, Sesquicillium microsporum)
-2. Those attacking only noncalcareous myxomycetes (Aphanocladium album, Byssostilbe stilbigera / Blistum tomentosum)
-
-**Nectriopsis violacea:** Found only on Fuligo species. **Blistum tomentosum:** Found only on Trichiales members. **Nectriopsis exigua** (anamorph Verticillium rexianum): One of the most ubiquitous, recorded from all major myxomycete groups. **Stilbella byssiseda:** Also found across all major groups.
-
-### Fungi on Discomycetes
-
-Characteristic colonizers of ascomata include Hypomyces cervinigenus (on Mycolachnea hemisphaerica), H. stephanomatis (on Helvella), H. leotiicola (on Leotia lubrica), and Nectriopsis discophila (on Lachnum). Xenolachne longicornis grows on Cudoniella and Disciniella, replacing the hymenium.
-
-### Fungi on Pyrenomycetes and Carbonized Stromata
-
-Old carbonized stromata host Polydesmia pruinosa and Cosmospora species (C. episphaeria on Diatrype stigma, Hypoxylon fragiforme). Associated anamorphs classified as Fusarium aquaeductuum varieties. Hypomyces triseptatus grows uniquely on carbonized perithecia of ascomycetes.
-
-### Fungi on Lichens
-
-More than 1500 lichenicolous species recognized. Stigmidium (~70 species), Abrothallus (20+ species on Parmeliaceae), Dactylospora (30 lichenicolous species), and Phacopsis (14 species, mostly on Parmeliaceae) are notable genera.
-
-## Fungicolous Fungi as Biocontrol Agents
-
-Soil-borne plant pathogens controlled by Trichoderma, Gliocladium, and others. Above-ground pathogens targeted by Ampelomyces quisqualis (on powdery mildews). Sclerotial pathogens (Sclerotinia, Sclerotium) attacked by Coniothyrium minitans and Sporidesmium sclerotivorum.
-
-## Recommendations for Inventory
-
-Study all five major groups (sporocarps, lichens, biotrophic plant parasites, soil mycelia/sclerotia/spores, aquatic fungi). Different methods needed for each group. Both field examination of fresh sporocarps and moist chamber incubation of collected material are essential.
-
-## See Also
-
-- [[fungicolous-fungi]]
 - [[fungal-mycoparasitism-and-biocontrol-interactions]]
 - [[mycetozoans]]
 - [[biodiversity-of-fungi-plant-health-pathogens-biocontrol]]
+## See Also
+- [[fungicolous-fungi-parasites-associates]]
+- [[biodiversity-fungicolous-mycoparasitic-fungi]]
+- [[lichenicolous-fungi]]
+- [[slime-molds]]
+- [[fungal-microscopic-examination-mounting-media-techniques]]

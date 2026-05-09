@@ -1,11 +1,12 @@
 ---
-title: Fukuoka: Mu Economics and the Value of Nothing
+title: Fukuoka: Mu Economics and the fukuoka mu economics and value of nothing essay
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 ## The Study of Mu Economics
@@ -50,7 +51,7 @@ Is there intrinsic value in this thing called true nature, or does man uncover v
 
 - Because the nature seen by man is not true nature, false natural bodies cannot have true value
 
-This argument extends the critique of scientific knowledge to the realm of economics. Just as agricultural science creates the illusion of understanding by fragmenting nature, economic science creates the illusion of value by abstracting from the conditions of actual human life.
+This argument extends the [[fukuoka-critique-of-scientific-agriculture]] knowledge to the realm of economics. Just as agricultural science creates the illusion of understanding by fragmenting nature, economic science creates the illusion of value by abstracting from the conditions of actual human life.
 
 ## The Ancient Philosophers and Mu
 
@@ -95,4 +96,4 @@ This connects directly to [[fukuoka-food-civilization-critique]].
 - [[fukuoka-village-self-sufficient-community]]
 
 ## Merged: Fukuoka Mu Economics and the Value of Nothing
-Fukuoka proposed a radical economic theory based on "Mu" (nothingness) -- the rejection of value as a concept. He challenged Professor Keiichi Sakamoto of Kyoto University to establish a field of "Mu economics" that "totally rejects Marxian economics, the Das Kapital, and modern economics." "The first questions to arise when trying to establish a system of Mu economics will probably be whether things have value and whether the conditions and premises that make things necessary are truly essential to man." "The reason we think that a glass of water has value is because conditions exist that give it value. 232-234 (the value of nothing, Mu economics) updated: 2026-04-18 - [[fukuoka-natural-farming-philosophy-of-mu]] - [[fukuoka-natural-farming-philosophy-of-mu]] rests. Natural farming was born suddenly one moment almost fifty years ago. This has direct implications for [[fukuoka-nature-transcends-human-knowledge]]: if nature cannot be grasped by the intellect, then the intellectual project of assigning value to natural things is inherently misplaced. This is the essence of [[fukuoka-do-nothing-farming-philosophy]], [[fukuoka-philosophy-of-mu-and-nature]], [[fukuoka-natural-farming-philosophy-of-mu]]
+Fukuoka proposed a radical economic theory based on "Mu" (nothingness) -- the rejection of value as a concept. He challenged Professor Keiichi Sakamoto of Kyoto University to establish a field of "Mu economics" that "totally rejects Marxian economics, the Das Kapital, and modern economics." "The first questions to arise when trying to establish a system of Mu economics will probably be whether things have value and whether the conditions and premises that make things necessary are truly essential to man." "The reason we think that a glass of water has value is because conditions exist that give it value. 232-234 (the value of nothing, Mu economics) updated: 2026-04-18 - [[fukuoka-natural-farming-philosophy-of-mu]] - [[fukuoka-natural-farming-philosophy-of-mu]] rests. [[comparison-natural-farming-vs-permaculture]] was born suddenly one moment almost fifty years ago. This has direct implications for [[fukuoka-nature-transcends-human-knowledge]]: if nature cannot be grasped by the intellect, then the intellectual project of assigning value to natural things is inherently misplaced. This is the essence of [[fukuoka-do-nothing-farming-philosophy]], [[fukuoka-philosophy-of-mu-and-nature]], [[fukuoka-natural-farming-philosophy-of-mu]]

@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Network and Nutrient Sharing
+title: arbuscular-mycorrhizal-network-visualization-anastomosis and Nutrient Sharing
 created: 2026-04-28
 tags:
   - mycorrhiza
@@ -29,10 +29,10 @@ and resource-sharing system that fundamentally shapes plant community dynamics.
 There are two principal categories of mycorrhizal fungi relevant to most
 garden and agricultural soils:
 
-**Arbuscular Mycorrhizal Fungi (AMF):** These are the most widespread,
+**[[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] Fungi (AMF):** These are the most widespread,
 associating with approximately 80 to 90 percent of all vascular plant species.
 AMF penetrate root cortical cells, forming highly branched structures called
-arbuscules that are the primary sites of nutrient exchange. They also produce
+arbuscules that are the primary sites of [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]. They also produce
 vesicles, which are storage organs within root cells. AMF are obligate
 symbionts, meaning they cannot complete their life cycle without a host plant.
 
@@ -50,7 +50,7 @@ to 10 micrometers in diameter, allowing them to penetrate soil pores and
 access resources unavailable to roots. A single gram of soil may contain 100
 meters of mycorrhizal hyphae. This extensive network can extend the effective
 absorption zone of a root system by 10 to 100 centimeters or more beyond the
-root surface. In established ecosystems, mycorrhizal networks create
+root surface. In established ecosystems, [[dighton-mycorrhizal-networks-carbon-transfer]] create
 continuous hyphal pathways connecting multiple plants, forming a
 common mycorrhizal network (CMN).
 
@@ -86,7 +86,7 @@ investment dynamically, increasing carbon flow to mycorrhizae when soil
 nutrients are scarce and reducing it when nutrients are abundant. This
 regulatory mechanism ensures the symbiosis remains mutually beneficial. When
 plants are supplied with high rates of soluble phosphorus fertilizer,
-mycorrhizal colonization often decreases because the plant no longer needs
+[[arbuscular-mycorrhizal-colonization-patterns]] often decreases because the plant no longer needs
 the fungal partner, illustrating the law of conservation of energy.
 
 ## Mycorrhizae and Soil Food Web Connections
@@ -115,7 +115,7 @@ Beyond nutrient exchange, mycorrhizal fungi significantly improve plant water
 relations. The extensive hyphal network effectively increases the root absorptive
 surface area for water uptake, allowing mycorrhizal plants to access water from
 soil micropores beyond the root depletion zone. Mycorrhizal plants typically
-show improved drought tolerance, higher stomatal conductance under water stress,
+show improved [[dighton-fungal-drought-tolerance-plant-water-relations]], higher stomatal conductance under water stress,
 and faster recovery after drought. This water benefit is particularly important
 in the context of climate change and increasingly variable precipitation patterns.
 

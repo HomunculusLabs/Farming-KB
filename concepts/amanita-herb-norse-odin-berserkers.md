@@ -1,16 +1,8 @@
 ---
-title: Amanita Muscaria in Norse Mythology: Odin and the Berserkers
-created: 2026-04-24
-updated: 2026-04-24
-type: concept
-tags: [amanita-muscaria, norse, odin, berserker, germanic, mythology]
-sources:
-  - raw/papers/amanita-muscaria-herb-of-immortality.md
----
 
 # Amanita Muscaria in Norse Mythology: Odin and the Berserkers
 
-In "Amanita Muscaria: Herb of Immortality," Donald E. Teeter dedicates Chapter 23 ("Odin; God of Wisdom") to the argument that the Norse god Odin and the berserker warriors are connected to the same Indo-European [[amanita-muscaria-drying-and-preparation]] that underlies the Vedic Soma, Greek Ambrosia, and Persian Haoma traditions.
+In "Amanita Muscaria: Herb of Immortality," Donald E. Teeter dedicates Chapter 23 ("Odin; God of Wisdom") to the argument that the Norse god Odin and the berserker warriors are connected to the same Indo-European amanita-muscaria-drying-and-preparation that underlies the [[mckenna-vedic-soma-indo-european-mysteries]], Greek Ambrosia, and Persian Haoma traditions.
 
 ## Note on Source Availability
 
@@ -28,9 +20,9 @@ The berserkers ("bear-shirts") were elite Norse warriors legendary for fighting 
 
 ## Odin: God of Wisdom and the Seeker of Knowledge
 
-Odin is the Norse god of wisdom, poetry, war, and death. In Norse mythology, Odin sacrifices his own eye and hangs himself from the world tree Yggdrasil for nine nights to gain secret knowledge -- a motif that, in Teeter's reading, parallels the Soma ceremony's theme of a god who undergoes death and transformation to acquire divine wisdom.
+Odin is the Norse god of wisdom, poetry, war, and death. In Norse mythology, Odin sacrifices his own eye and hangs himself from the world tree Yggdrasil for nine nights to gain [[mckenna-sect-of-the-phoenix-and-archaic-secret-knowledge]] -- a motif that, in Teeter's reading, parallels the Soma ceremony's theme of a god who undergoes death and transformation to acquire divine wisdom.
 
-The dedicatory poem at the front of Teeter's book includes "Odin; God of Wisdom" among the many names for the sacred mushroom, alongside Soma, Haoma, Ambrosia, Dionysus, and others, suggesting Teeter treats Odin as another manifestation of the same divine mushroom sacrament.
+The dedicatory poem at the front of Teeter's book includes "Odin; God of Wisdom" among the many names for [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]], alongside Soma, Haoma, Ambrosia, Dionysus, and others, suggesting Teeter treats Odin as another manifestation of the same [[soma-controversy-fly-agaric-as-divine-mushroom]] sacrament.
 
 ## The Fly Agaric in Northern Europe
 
@@ -38,13 +30,13 @@ Amanita muscaria is native to the boreal and temperate forests of Northern Europ
 
 ## The Missing Chapter
 
-The complete argument connecting Odin, the berserkers, and Norse ritual practice to Amanita muscaria is presented in Chapter 23 (page 97) of Teeter's book, which was not available in the source text used for this page. The chapter likely expands on the Indo-European linguistic connections, examines specific Norse myths for encoded mushroom references, and may discuss archaeological evidence from Norse burial sites analogous to the [[amanita-herb-indo-european-origins]]
-- [[amanita-herb-greek-roman-culture]]
-- [[harner-amanita-muscaria-siberian-shamanism]]
+The complete argument connecting Odin, the berserkers, and Norse [[powell-shamanic-wisdom-and-ritual-practice]] to Amanita muscaria is presented in Chapter 23 (page 97) of Teeter's book, which was not available in the source text used for this page. The chapter likely expands on the Indo-European linguistic connections, examines specific Norse myths for encoded mushroom references, and may discuss archaeological evidence from Norse burial sites analogous to the rig-veda-soma-hymns-amanita-muscaria
+- amanita-herb-greek-roman-culture
+- harner-amanita-muscaria-siberian-shamanism
 
 ---
 
-Source: Amanita Muscaria: Herb of Immortality (Teeter), Chapter 23 (Odin; God of Wisdom) -- chapter missing from available source file (pp 5-83 only). Framework reconstructed from available text, Chapters 1-5, 14.
+Source: [[allegro-amanita-muscaria-properties-and-pharmacology]]: [[amanita-muscaria-herb-of-immortality-soma-hypothesis]] (Teeter), Chapter 23 (Odin; God of Wisdom) -- chapter missing from available source file (pp 5-83 only). Framework reconstructed from available text, Chapters 1-5, 14.
 ## Practical Considerations
 
 When working with Amanita Muscaria in Norse Mythology: Odin and the Berserkers, several practical factors should be
@@ -61,7 +53,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -98,9 +90,8 @@ advance the field as a whole. Cross-pollination of ideas from biology,
 ecology, data science, and traditional knowledge systems generates novel
 perspectives and solutions that may not emerge within any single domain.
 
-For continued learning, recommended resources include current research
+For continued learning, recommended resources include [[psychedelic-therapy-current-research]]
 publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

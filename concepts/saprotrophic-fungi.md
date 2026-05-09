@@ -45,7 +45,7 @@ Saprotrophic fungi obtain nutrients by secreting extracellular enzymes into dead
 | Dung | Coprophilous fungi (Coprinus, Sphaerobolus) | Cellulases, keratinases |
 | Soil organic matter | Generalist saprotrophs, molds | Phosphatases, proteases |
 | Dead grass/herbs | Zygomycetes, Ascomycetes | Cellulases, pectinases |
-| Bark/woody debris | Xylariaceous Ascomycetes (primary) | Cellulases, manganese peroxidase |
+| Bark/woody debris | Xylariaceous Ascomycetes (primary) | Cellulases, [[fungal-manganese-peroxidase-remediation]] |
 
 ## Decomposer Succession
 
@@ -78,7 +78,7 @@ Wood decomposition follows predictable fungal succession driven by changing subs
 - Manganese peroxidase (MnP): generates Mn3+ chelates that diffuse into lignin matrix
 - Laccase: oxidizes phenolic compounds; works with mediators for non-phenolic substrates
 - H2O2-generating enzymes supply peroxidase substrates
-- Non-specific free radical mechanism enables degradation of synthetic pollutants
+- Non-specific free radical mechanism enables [[singh-fungal-degradation-of-synthetic-dyes-and-textile-waste]] pollutants
 
 ### Cellulose Degradation
 - Cellulose: linear glucose chains, crystalline structure (40-50% of wood)
@@ -100,9 +100,9 @@ Saprotrophic fungi are essential workers in any composting system:
 
 Many commercially cultivated mushrooms are saprotrophs:
 - **Oyster (Pleurotus ostreatus)**: White rot; grows on straw, hardwood sawdust, paper, coffee grounds
-- **Shiitake (Lentinula edodes)**: White rot; specializes in hardwood logs and supplemented sawdust
+- **Shiitake (Lentinula edodes)**: White rot; specializes in hardwood logs and [[oyster-mushroom-supplemented-sawdust-blocks]]
 - **Lion's mane (Hericium erinaceus)**: White rot; hardwood sawdust substrates
-- **Reishi (Ganoderma lucidum)**: White rot; hardwood substrates; medicinal
+- **Reishi ([[stamets-reishi-ganoderma-lucidum-cultivation]])**: White rot; hardwood substrates; medicinal
 - **Wine cap (Stropharia rugoso-annulata)**: Decomposer of wood chips and straw; garden cultivation
 - **Enoki (Flammulina velutipes)**: Decomposes broadleaf stumps and wood debris
 - **Nameko (Pholiota nameko)**: Decomposes hardwood logs
@@ -121,8 +121,8 @@ Many commercially cultivated mushrooms are saprotrophs:
 ## Saprophytic Sentinels for Forest Health
 
 From *Mycelium Running*, [[paul-stamets]] identifies key saprophytic species that can defend forests from parasitic blights like Armillaria:
-- **Hypholoma capnoides**: Edible woodlover that outcompetes Armillaria below-ground; reduced root rot by up to 67% in BC field trials
-- **Trametes versicolor**: Fastest-growing mycelium; overgrows Armillaria; also breaks down PCBs and dioxins
+- **[[growing-gourmet-hypholoma-capnoides-cultivation]]**: Edible woodlover that outcompetes Armillaria below-ground; reduced root rot by up to 67% in BC field trials
+- **[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]**: Fastest-growing mycelium; overgrows Armillaria; also breaks down PCBs and dioxins
 - **Sparassis crispa**: Secretes sparassol antibiotic; parasitizes Armillaria in vitro
 - **Pleurotus ostreatus**: Aggressive colonizer; strong antibacterial/antiviral properties
 - **Stropharia rugoso-annulata**: Garden giant; caused 100-fold drop in fecal coliforms in field trials

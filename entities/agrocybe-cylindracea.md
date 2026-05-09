@@ -14,9 +14,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Wasser, S.P. (2002). "Medicinal mushrooms as a source of antitumor and immunomodulating polysaccharides." Applied Microbiology and Biotechnology, 60(3), 258-274.
-  - Oei, P. (2003). Mushroom Cultivation: Appropriate Technology for Mushroom Growers. Tool Publications.
-  - Ding, Z. et al. (2010). "Agrocybe cylindracea: A review of its cultivation, bioactive compounds, and health benefits." Journal of Agricultural and Food Chemistry.
+  - Wasser, S.P. (2002). "comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive as a source of antitumor and immunomodulating polysaccharides." Applied Microbiology and Biotechnology, 60(3), 258-274.
+  - Oei, P. (2003). [[accessible-mushroom-cultivation-for-disabilities]]: [[mollison-designers-appropriate-technology-small-scale-tools]] for Mushroom Growers. Tool Publications.
+  - Ding, Z. et al. (2010). "Agrocybe cylindracea: A review of its cultivation, [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]], and health benefits." Journal of Agricultural and Food Chemistry.
   - https://www.mycobank.org/ (taxonomic classification)
   - Kuo, M. (2024). "Agrocybe cylindracea." MushroomExpert.com.
 ---
@@ -63,9 +63,9 @@ In the wild, *A. cylindracea* fruits predominantly in spring (April–June) and 
 
 ## Pests and Diseases in Cultivation
 
-- **Trichoderma spp.:** The most common competitor mold in indoor cultivation, colonizing exposed substrate surfaces. Maintaining proper hygiene during inoculation and ensuring adequate spawn run conditions minimize contamination.
+- **Trichoderma spp.:** The most common competitor mold in [[cannabis-sativa-indoor-cultivation-techniques]], colonizing exposed substrate surfaces. Maintaining proper hygiene during inoculation and ensuring adequate spawn run conditions minimize contamination.
 - **Sciarid flies (fungus gnats):** Larvae damage mycelium and introduce bacterial contamination. Yellow sticky traps and biological controls (*Steinernema feltiae* nematodes) are effective management strategies.
-- **Bacterial blotch (*[[agrocybe-praecox]]
+- **[[growing-gourmet-bacterial-blotch-disease-management]] (*[[agrocybe-praecox]]
 - [[appropriate-technology]]
 ## Practical Considerations
 
@@ -86,3 +86,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[cyclocybe-cylindracea]]

@@ -1,5 +1,5 @@
 ---
-title: Herbal Medicine Preparation Methods
+title: Herbal herbal medicine preparation methods Methods
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -22,7 +22,7 @@ Infusions are made by pouring hot (but not necessarily boiling) water over dried
 
 Standard dosage for infusions is typically 1 to 2 teaspoons of dried herb (or 2 to 4 teaspoons of fresh herb) per cup of water. Steeping time ranges from 5 to 15 minutes for dried herbs, depending on the herb and the desired strength. Flowers and leaves generally require shorter steeping times than harder plant materials.
 
-Infusions extract volatile oils, flavonoids, and water-soluble compounds efficiently. They are the preferred preparation for aromatic herbs (chamomile, peppermint, lemon balm) where preserving volatile oils contributes to therapeutic effect. Covered steeping prevents loss of volatile compounds through evaporation.
+Infusions extract volatile oils, flavonoids, and water-soluble compounds efficiently. They are the preferred preparation for aromatic herbs (chamomile, peppermint, [[comparison-lemon-balm-vs-passionflower]]) where preserving volatile oils contributes to therapeutic effect. Covered steeping prevents loss of [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] through evaporation.
 
 Infusions are best consumed fresh but can be stored in the refrigerator for up to 24 hours. For longer storage, infusions can be frozen in ice cube trays. The recommended daily intake varies by herb but typically ranges from 1 to 3 cups per day.
 
@@ -36,7 +36,7 @@ Decoctions extract minerals, bitter principles, saponins, tannins, and other com
 
 A combined approach involves first decocting the hard materials (roots, bark) for 20 minutes, then removing from heat and adding the softer materials (leaves, flowers) to infuse for an additional 10 minutes. This method is used for compound formulas containing both tough and delicate plant parts.
 
-Decoctions have a shorter shelf life than tinctures, typically 24 to 48 hours refrigerated. Making fresh daily is ideal. For extended use, decoctions can be reduced through further simmering into concentrated extracts called decoctums.
+Decoctions have a shorter [[psilocybin-shelf-life-stability]] than tinctures, typically 24 to 48 hours refrigerated. Making fresh daily is ideal. For extended use, decoctions can be reduced through further simmering into concentrated extracts called decoctums.
 
 ### Cold Infusions
 
@@ -54,7 +54,7 @@ Alcohol-based preparations extract a broader range of plant constituents than wa
 
 Tinctures are concentrated liquid extracts made by soaking herb material in a solution of alcohol and water. They are one of the most versatile and widely used forms of herbal medicine, offering good potency, long shelf life, and relatively fast absorption.
 
-See [[herbal-tincture-making]] for comprehensive coverage of tincture preparation methods, alcohol selection, and dosing guidelines.
+See [[herbal-tincture-making]] for comprehensive coverage of tincture preparation methods, alcohol selection, and [[cannabis-dosing-guidelines-by-condition]].
 
 ### Fluid Extracts
 
@@ -74,7 +74,7 @@ Calendula oil, St. John's wort oil, comfrey oil, and plantain oil are popular he
 
 ### Herbal Salves and Balms
 
-Salves are semi-solid preparations made by combining herbal oils with beeswax (typically at a ratio of 4 to 5 parts oil to 1 part beeswax). They are applied topically for localized treatment of skin conditions, wounds, muscle pain, and inflammation.
+Salves are semi-solid preparations made by combining herbal oils with beeswax (typically at a ratio of 4 to 5 parts oil to 1 part beeswax). They are applied topically for localized treatment of [[cannabis-for-skin-conditions-detailed]], wounds, muscle pain, and inflammation.
 
 See [[calendula-salve-making]] for detailed salve preparation instructions and formulations.
 
@@ -103,6 +103,8 @@ The choice of preparation depends on the plant part being used, the solubility o
 Water-based preparations are best for daily tonics, gentle support, and when rapid absorption is not critical. Alcohol-based preparations are best for concentrated doses, rapid absorption, and long-term storage. Oil-based preparations are best for topical application and lipid-soluble compounds. Powders and capsules offer convenience and whole-herb delivery. Combining multiple preparation methods for the same herb (for example, taking both a tea and a tincture) can provide both immediate and sustained effects.
 
 ## See Also
+
+- [[childrens-herbal-medicine]]
 
 - [[plectranthus-amboinicus]]
 

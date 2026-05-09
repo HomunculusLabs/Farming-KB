@@ -1,8 +1,8 @@
 ---
-title: albert-hofmann and the Eleusinian Potion Analysis
+title: albert-hofmann and the albert hofmann eleusinian potion analysis Analysis
 created: 2026-04-26
 updated: 2026-04-24
-sources: The Road to Eleusis (Wasson, Hofmann, Ruck)
+sources: The the-road-to-eleusis-wasson-hofmann-ruck (Wasson, Hofmann, Ruck)
 type: concept
 tags: [reference]
 ---
@@ -38,18 +38,18 @@ Stoll in 1918, used in Cafergot for migraine), Hydergine (for geriatric
 disorders), and ergonovine (the specific uterotonic principle, used in
 obstetrics). Hofmann himself played a central role in developing many of
 these: he prepared ergonovine in 1937, discovered LSD in 1943, and later
-isolated psilocybin and psilocin from the Mexican sacred mushrooms.
+isolated psilocybin and psilocin from the Mexican [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]].
 
 ## The Ololiuhqui Connection
 
 Hofmann's interest in hallucinogenic agents, originating from his work with
 LSD, brought him into contact with Wasson. From Roger Heim, who had studied
-Wasson's sacred mushrooms, Hofmann received samples for chemical analysis.
+Wasson's sacred mushrooms, Hofmann received samples for [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]].
 With his assistant Hans Tscherter he succeeded in isolating the
 hallucinogenic principles, which he named psilocybin and psilocin.
 
 Inspired by this success, Hofmann turned to ololiuhqui, another
-psychotropic Mesoamerican plant. Analysis of the morning glory seeds
+psychotropic Mesoamerican plant. Analysis of the [[golden-guide-morning-glory-and-ololiuqui]] seeds
 ([[ipomoea-violacea]]) yielded an unexpected result: the
 active principles were familiar ergot alkaloids. The main components were
 lysergic acid amide and lysergic acid hydroxyethylamide, both water-soluble,
@@ -62,7 +62,7 @@ psychoactive principles some of the very same alkaloids found in ergot.
 
 The psychoactive property of these simple lysergic acid amides is well
 established. A further finding proved of utmost importance: the main
-constituents of the Mexican morning glory seeds are also the main alkaloids
+constituents of the [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] glory seeds are also the main alkaloids
 in ergot growing on the wild grass Paspalum distichum, which grows commonly
 all around the Mediterranean basin and is often infected with Claviceps
 paspali.

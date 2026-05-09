@@ -1,5 +1,5 @@
 ---
-title: "New Zealand Psychoactive Fungi: Species and Distribution"
+title: "New allen new zealand psychoactive fungi Fungi: Species and Distribution"
 created: 2026-04-28
 tags: [new-zealand, psilocybin, psychoactive-fungi, distribution,
   copelandia, psilocybe, auckland, indigenous, allen]
@@ -23,8 +23,8 @@ New Zealand's climate ranges from subtropical in the far north (Northland)
 to cool temperate in the south (South Island). The western sides of both
 main islands receive substantially more rainfall than the eastern sides,
 creating pronounced rain shadow effects. This climatic diversity means that
-different regions support different fungal communities and different
-fruiting seasons. The North Island, particularly the Auckland and Waikato
+different regions support different [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] and different
+[[azurescens-fruiting-seasons-and-conditions]]. The North Island, particularly the Auckland and Waikato
 regions, provides the most reliable habitat for tropical and subtropical
 psychoactive species.
 
@@ -53,7 +53,7 @@ bruised.
 
 ### *Psilocybe semilanceata*
 
-The liberty cap, while famous throughout Europe, also occurs in New Zealand.
+The [[peter-mantle-liberty-cap-chromatographic-discovery-1969]], while famous throughout Europe, also occurs in New Zealand.
 It is found in enriched pastures, particularly in cooler regions of the
 South Island and higher elevations of the North Island. Fruiting occurs
 during autumn, typically from April through June, when temperatures drop
@@ -75,7 +75,7 @@ southeastern Australian habitats.
 
 Described from New Zealand, this species is found in Nothofagus (southern
 beech) forests. Its psychoactive status has been investigated and it is
-believed to contain psilocybin, though detailed chemical analyses remain
+believed to contain psilocybin, though detailed [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] remain
 limited. The species fruits on wood debris and forest litter in native
 beech forests, which represent some of New Zealand's most pristine and
 characteristic ecosystems.
@@ -133,7 +133,7 @@ fungi play in forest health.
 New Zealand's psychoactive mycoflora is generally less diverse than
 Australia's, reflecting the country's smaller land area and cooler overall
 climate. Species that thrive in Australia's tropical north (such as
-*Psilocybe cubensis*) are absent or very rare in New Zealand. However,
+*[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*) are absent or very rare in New Zealand. However,
 New Zealand has some endemic species not found in Australia, particularly
 *P. aucklandii* and *P. weraroa*, which represent unique evolutionary
 lineages within the psilocybin-containing fungi.

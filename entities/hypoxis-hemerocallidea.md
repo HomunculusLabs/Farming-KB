@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Drewes, S.E. et al. (2008). "A reassessment of the medicinal potential of Hypoxis hemerocallidea." South African Journal of Botany, 74(4), 632-636.
+  - Drewes, S.E. et al. (2008). "A reassessment of the medicinal potential of Hypoxis hemerocallidea." kanna-sceletium-south-african-narcotic Journal of Botany, 74(4), 632-636.
   - Mahomed, I.M. & Ojewole, J.A.O. (2006). "Antidiabetic activity of Hypoxis hemerocallidea corm (African potato) aqueous extract in rats." Methods and Findings in Experimental and Clinical Pharmacology, 28(1), 57-61.
   - Mills, S. et al. (2005). "Plant-based traditional medicines for HIV-infected patients." South African Medical Journal, 95(1), 59.
   - van Wyk, B.E. & Wink, M. (2015). Medicinal Plants of the World. 2nd ed. CABI Publishing.
@@ -61,17 +61,17 @@ In Zulu traditional medicine, the corm is used to treat a wide range of conditio
 
 The Sotho people use H. hemerocallidea as a tonic for dizziness, convulsions, and internal tumors. In Xhosa medicine, it is applied to burns and wounds and used as an emetic.
 
-Since the late 1990s, the plant has been marketed commercially as an immune system booster for people living with HIV/AIDS. This claim is based largely on in vitro immunomodulatory data and traditional reputation rather than controlled clinical trials.
+Since the late 1990s, the plant has been marketed commercially as an immune system booster for people living with HIV/AIDS. This claim is based largely on in vitro immunomodulatory data and traditional reputation rather than controlled [[mushroom-cancer-clinical-trials-overview]].
 
 South Africa's Medicines Control Council has not approved any H. hemerocallidea product for the treatment of HIV. The plant remains widely available as a dietary supplement under the country's complementary medicine regulations.
 
 ## Cultivation
 
-H. hemerocallidea can be propagated from seed or by division of the corm. Seed germination is slow and irregular, often requiring 4–8 weeks with pretreatment. Corm division is the preferred method for commercial cultivation.
+H. hemerocallidea can be propagated from seed or by division of the corm. [[cannabis-seed-germination-methods]] is slow and irregular, often requiring 4–8 weeks with pretreatment. Corm division is the preferred method for commercial cultivation.
 
 Plants are typically spaced 300–500 mm apart in well-prepared beds. The corms are planted 50–100 mm deep in sandy, well-drained soil. Full sun to partial shade is tolerated.
 
-Under cultivation, the corm requires 2–4 years to reach harvestable size. Optimal growth occurs at temperatures of 18–28°C with regular irrigation during the growing season.
+Under cultivation, the corm requires 2–4 years to reach harvestable size. Optimal growth occurs at temperatures of 18–28°C with regular irrigation during the [[savory-growing-season-and-non-growing-season-management]].
 
 Commercial cultivation is expanding in South Africa and Zimbabwe to meet demand and reduce pressure on wild populations. Good Agricultural Practice (GAP) guidelines have been developed for the species.
 
@@ -97,7 +97,7 @@ The genus *Hypoxis* contains approximately 90 species distributed across Africa,
 
 H. colchicifolia is a closely related species with similar pharmacological properties, also used in Zulu medicine. H. obtusa and H. rigidula are two additional southern African species with documented ethnomedicinal use.
 
-H. angustifolia, native to eastern North America, was historically used by indigenous peoples as a food source. Its corm is smaller and less chemically characterized than H. hemerocallidea.
+H. angustifolia, native to [[polypore-fungi-eastern-north-america]] America, was historically used by indigenous peoples as a food source. Its corm is smaller and less chemically characterized than H. hemerocallidea.
 
 ## See Also
 

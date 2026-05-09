@@ -67,7 +67,7 @@ poplar (*Populus*), willow (*Salix*), alder (*Alnus*), and hazel (*Corylus*).
 
 ## Soil Biology and Humus Formation
 
-RCW acts as a selective substrate for basidiomycete fungi and
+RCW acts as a selective substrate for [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] and
 actinomycetes, which are the primary agents of humus formation in forest
 soils. The application of RCW to agricultural soils inoculates them with
 fungal propagules and provides substrate that favors fungal growth over
@@ -76,19 +76,19 @@ bacterial decomposition.
 The decomposition pathway proceeds through several stages:
 1. Rapid colonization by saprotrophic fungi (2–4 weeks)
 2. Selective consumption of soluble sugars and hemicellulose
-3. Gradual lignin degradation by white-rot and brown-rot fungi
+3. Gradual [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]] by white-rot and brown-rot fungi
 4. Formation of stable humic compounds over 6–24 months
 
 This process generates stable humus that improves soil structure, water
-retention, cation exchange capacity, and biological activity. Research at
+retention, [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity, and biological activity. Research at
 Université Laval demonstrated significant increases in earthworm
-populations, mycorrhizal colonization, and aggregate stability in RCW-
+populations, [[arbuscular-mycorrhizal-colonization-patterns]], and aggregate stability in RCW-
 treated soils.
 
 ## Application Methods
 
 RCW is applied as a surface mulch or shallowly incorporated into the top
-5–10 cm of soil. Recommended application rates vary by context:
+5–10 cm of soil. Recommended [[ingham-compost-tea-application-rates-and-timing]] vary by context:
 
 - **Garden beds:** 2–5 cm layer, applied annually in spring or autumn
 - **Orchard floors:** 5–10 cm layer around the drip line, renewed every
@@ -106,7 +106,7 @@ depletes the soluble compounds before soil application.
 - **Straw:** higher C/N ratio, breaks down faster, less fungal stimulation
 - **Conifer bark:** very high L/N ratio, acidifying, slow decomposition
 - **Compost:** already decomposed, provides nutrients immediately but less
-  long-term humus building
+  long-term [[composting-humus-building-holzer]]
 - **Biochar:** stable carbon but biologically inert, no fungal substrate
 - **Hugelkultur:** similar principle on larger scale using logs and branches
 

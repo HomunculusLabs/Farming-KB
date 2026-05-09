@@ -15,7 +15,7 @@ This functional selectivity may explain why different psychedelics with similar 
 - **Synaptogenesis**: In vivo studies in rodents show increased dendritic spine density in the prefrontal cortex within 24 hours of psilocybin administration, persisting for at least a month
 - **GluA1 AMPA receptor insertion**: Enhanced AMPA receptor trafficking to the postsynaptic membrane strengthens excitatory synaptic transmission
 
-These neuroplastic changes are thought to underlie the sust[[psilocybin-clinical-trials]] in clinical trials for depression, anxiety, and substance use disorders, where benefits can persist for weeks to months after a single or few administrations.
+These neuroplastic changes are thought to underlie the sust in clinical trials for depression, anxiety, and substance use disorders, where benefits can persist for weeks to months after a single or few administrations.
 
 ## Tolerance and Downregulation
 
@@ -71,7 +71,7 @@ The development of positron emission tomography (PET) radioligands selective for
 - **[18F]Altanserin**: An antagonist radioligand with high 5-HT2A selectivity. While useful for mapping receptor distribution, antagonist radioligands may not accurately reflect agonist occupancy due to differences in binding site conformation.
 - **[11C]MDL 100,907 (Volinanserin)**: Highly selective 5-HT2A antagonist with minimal off-target binding. Used primarily in schizophrenia research to investigate 5-HT2A receptor abnormalities.
 
-PET imaging studies using these radioligands have demonstrated that psilocybin achieves approximately 60–80% 5-HT2A occupancy at typical psychedelic doses (10–25 mg), with peak occupancy correlating with the time course of subjective effects. This occupancy data has been cru[[cannabis-dosing-guidelines]]hing therapeutic dosing guidelines in modern clinical trials.
+PET imaging studies using these radioligands have demonstrated that psilocybin achieves approximately 60–80% 5-HT2A occupancy at typical psychedelic doses (10–25 mg), with peak occupancy correlating with the time course of subjective effects. This occupancy data has been cruhing therapeutic dosing guidelines in modern clinical trials.
 
 ## Therapeutic Implications for Psychiatric Disorders
 
@@ -100,3 +100,10 @@ Despite psilocybin's favorable safety profile, 5-HT2A pharmacology warrants seve
 - **Cardiac valve risk**: Chronic 5-HT2B activation is associated with valvular heart disease (as seen with fenfluramine). While typical psilocybin use patterns do not pose this risk, chronic daily microdosing may warrant cardiac monitoring
 - **Psychosis vulnerability**: Individuals with personal or family history of psychotic disorders may be at elevated risk for psilocybin-induced psychotic episodes via 5-HT2A-mediated dopaminergic disinhibition in mesolimbic pathways
 - **Serotonin syndrome**: Theoretical risk when combined with MAOIs or other serotonergic agents; however, psilocin's partial agonism and rapid metabolism make this extremely rare at therapeutic doses
+
+## See Also
+- [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
+- [[powell-psilocybin-neuronal-pharmacology-synaptic-mechanisms]]
+- [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]]
+- [[dmt-vs-lsd-pharmacological-comparison-onset-duration-receptor]]
+- [[psilocybin-pharmacology-5ht2a-receptor-mechanism]]

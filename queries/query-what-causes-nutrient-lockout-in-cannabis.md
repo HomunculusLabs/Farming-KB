@@ -1,10 +1,11 @@
 ---
-title: "What Causes Nutrient Lockout in Cannabis?"
+title: "What Causes cannabis-nutrient-lockout-and-ph in Cannabis?"
 created: 2026-04-28
 tags: [query, cannabis, nutrient-deficiency, ph, growing-problems]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -20,20 +21,20 @@ The [[cannabis-nutrient-deficiency-guide]] provides a visual reference for disti
 
 Lockout-induced symptoms look identical to true deficiencies:
 - Iron lockout looks exactly like iron deficiency
-- Calcium lockout looks exactly like calcium deficiency
-- Magnesium lockout looks exactly like magnesium deficiency
+- Calcium lockout looks exactly like [[knf-calcium-deficiency-symptoms]]
+- Magnesium lockout looks exactly like [[query-how-to-fix-magnesium-deficiency-in-cannabis]]
 
 Critical diagnostic rule: **always check pH before adding nutrients.**
 
 Adding more of a nutrient that is locked out will:
 - Further raise or lower the pH (making lockout worse)
-- Increase salt buildup in the root zone
+- Increase [[cervantes-salt-buildup-leaching-management]] in the root zone
 - Potentially cause toxicity of other nutrients
 - Waste money on unnecessary supplements
 
 ## Salt Buildup and EC Problems
 
-Excessive nutrient salt accumulation contributes to lockout conditions.
+Excessive nutrient [[jadam-salt-accumulation-in-soil]] contributes to lockout conditions.
 
 The [[cannabis-ph-management-and-soil-flushing]] resource covers practical correction steps.
 
@@ -71,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

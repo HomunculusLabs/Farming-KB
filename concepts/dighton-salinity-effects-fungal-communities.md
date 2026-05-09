@@ -1,5 +1,5 @@
 ---
-title: "Salinity Effects on Fungal Communities"
+title: "dighton salinity effects fungal communities on Fungal Communities"
 created: 2026-04-26
 tags:
   - mycology
@@ -19,7 +19,7 @@ type: concept
 ## Overview
 
 Soil salinity is a significant environmental stressor that affects
-fungal community composition, mycorrhizal colonization, and ecosystem
+fungal [[core-endorhiza-bacterial-community-composition-cannabis]], [[arbuscular-mycorrhizal-colonization-patterns]], and ecosystem
 function. Salinization arises naturally in coastal and arid regions,
 and is exacerbated by irrigation practices in agricultural systems.
 Understanding how fungi respond to saline conditions is critical for
@@ -41,17 +41,17 @@ fungal communities present.
 Juniper and Abbott (1993) demonstrated that increased soil salinity
 can reduce the germination of [[arbuscular-mycorrhizal-colonization-patterns|mycorrhizal colonization]] limits plant access to nutrients and underscores the importance of [[fungal-community-assembly]] in saline environments follows different successional patterns than in non-saline soils. Fungi exhibit several strategies for coping with saline conditions.
 These include the accumulation of compatible solutes, modification of
-cell wall composition, and alteration of enzyme production patterns.
+cell wall composition, and alteration of [[ligninolytic-enzyme-production-bioremediation]] patterns.
 Fungi that grow in saline environments serve as models for
 understanding ecophysiological adaptation to osmotic stress. The
 The presence of marine oomycetes (e.g., Halophytophthora) in mangrove
 systems represents an additional fungal-like group adapted to saline
 conditions — see [[fungal-role-in-nitrogen-cycling]] is among the key processes affected. The effects of salinity on fungal communities cascade through
-ecosystem processes. Reduced mycorrhizal colonization limits plant
+[[fungal-ecosystem-processes-overview]]. Reduced mycorrhizal colonization limits plant
 access to nutrients, particularly [[dighton-fungal-sulfite-effects-saprotrophic-decomposition]]
 
 - [[dighton-fungal-communities-grassland-soils]]
-- [[fungal-biodiversity-in-soil-ecosystems]]
+- fungal-biodiversity-in-soil-ecosystems
 - [[dighton-fungal-heavy-metal-accumulation-bioremediation]]
 ## Practical Considerations
 
@@ -69,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

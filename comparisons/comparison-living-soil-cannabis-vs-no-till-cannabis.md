@@ -1,17 +1,18 @@
 ---
-title: "Living Soil Cannabis vs No-Till Cannabis"
+title: "comparison-living-soil-cannabis-vs-hydroponic-cannabis vs No-Till Cannabis"
 created: 2026-04-28
 tags: [comparison, cannabis, soil, growing]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
 # Living Soil Cannabis vs No-Till Cannabis
 
 ## Overview
-Living soil cannabis cultivation focuses on building and maintaining a
+Living soil [[query-how-does-no-till-cannabis-cultivation-work]] focuses on building and maintaining a
 diverse ecosystem of beneficial microorganisms within the growing medium.
 No-till cannabis cultivation minimizes soil disturbance by avoiding tilling,
 turning, or otherwise disrupting the soil structure between grows. The two
@@ -32,20 +33,20 @@ biologically active soil that improves with age like a fine wine.
 
 In a no-till cannabis garden, soil is prepared once with a rich organic mix.
 After each harvest, the grower removes the spent plant stalk and major root
-mass, adds a fresh layer of organic amendments on top as a mulch, optionally
-top-dresses with compost tea or compost extract, and replants directly into
+mass, adds a fresh layer of [[cervantes-organic-amendments-chart]] on top as a mulch, optionally
+top-dresses with [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]] or compost extract, and replants directly into
 the existing soil. Over multiple cycles, the soil becomes richer in humus,
 beneficial microorganisms, and available nutrients, often resulting in
 improved plant health and yields over time as the ecosystem matures.
 
 The mulch layer is critical in no-till: it retains moisture, provides food
 for soil organisms, suppresses weeds, regulates temperature, and prevents
-compaction from watering and rainfall. Mycorrhizal networks develop and
+compaction from watering and rainfall. [[dighton-mycorrhizal-networks-carbon-transfer]] develop and
 persist between growing cycles in undisturbed soil, connecting multiple
 plants for nutrient sharing and improving soil structure through glomalin
 production. Compost tea in no-till systems is used primarily as a top-dressed
 inoculant rather than a regular feeding, since the established soil biology
-handles most nutrient cycling automatically.
+handles most [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] automatically.
 
 ## Key Differences
 | Aspect | Living Soil | No-Till |

@@ -1,30 +1,18 @@
 ---
 title: Chemical Constituents of Neurotropic Mushrooms
 created: 2026-04-28
-tags: [[mycology, chemistry, psilocybin, alkaloids, fungal-chemistry]
+tags: [mycology, chemistry, psilocybin, alkaloids, fungal-chemistry]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
 type: concept
 ---
-
-# Chemical Constituents of Neurotropic Mushrooms
-
-## Major Classes of Neurotropic Compounds
-
-Neurotropic (psychoactive) fungi contain several distinct classes of
-chemical compounds that affect the central nervous system. The 216 known
-neurotropic species can be divided into groups based on their chemistry.
-
-### Indole Alkaloids (Psilocybin Group)
-
-The largest group of neurotropic fungi contains indole alkaloids, primarily
-[[psilocybe-baeocystis]] mexicana, the sacred mushroom of the Mazatec
+# Chemical Constituents of Neurotropic Mushrooms ## Major Classes of Neurotropic Compounds Neurotropic (psychoactive) fungi contain several distinct classes of chemical compounds that affect the central nervous system. The 216 known neurotropic species can be divided into groups based on their chemistry. ### Indole Alkaloids (Psilocybin Group) The largest group of neurotropic fungi contains indole alkaloids, primarily [[psilocybe-baeocystis]] mexicana, the sacred mushroom of the Mazatec
 Indians. The same team, along with Tscherter (1958), determined its
 chemical structure and synthesized it. Psilocin was first identified by
-Hofmann, Heim, and Tscherter (1963) in [[psilocybe-baeocystis]] baeocystis by Leung, Smith, and Paul (1965).
+Hofmann, Heim, and Tscherter (1963) in  baeocystis by Leung, Smith, and Paul (1965).
 **Norbaeocystin** (4-phosphoryloxytryptamine) is an even simpler
-homologue. Both are primarily found in the bluing species of [[conocybe-cyanopus]], and [[inocybe-aeruginascens]] aeruginascens. It was first
+homologue. Both are primarily found in the bluing species of [[conocybe-cyanopus]], and  aeruginascens. It was first
 isolated and identified by Gartz (1989a). Its pharmacological properties
 differ from psilocybin and may contribute to the distinct effects
 reported for I. aeruginascens compared with other neurotropic species.
@@ -50,7 +38,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -100,7 +88,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -110,4 +98,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

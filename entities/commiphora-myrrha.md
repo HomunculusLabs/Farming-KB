@@ -71,7 +71,7 @@ axillary panicles or fascicles. Dioecious or occasionally
 monoecious.
 
 **Fruit:** Ovoid drupe, ~1 cm diameter, reddish-brown when
-ripe, 2-lobed, each lobe containing a single seed.
+ripe, 2-lobed, each lobe containing a [[cervantes-selfing-single-seed-descent]].
 
 ## Distribution and Habitat
 
@@ -114,7 +114,7 @@ paw edema.
 
 **Antimicrobial:** Broad-spectrum activity against Gram-positive
 bacteria (*Staphylococcus aureus*, *Streptococcus mutans*) and
-*Candida albicans*. This underpins traditional use in wound care
+*[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*. This underpins traditional use in wound care
 and oral hygiene.
 
 **Analgesic:** Significant analgesic effects in animal models,
@@ -142,6 +142,8 @@ yellowish-brown tears over 2–3 weeks. Average yields are
 0.5–2 kg of dried resin per tree per year.
 ## See Also
 
+- [[commiphora-mukul]]
+
 - [[cinnamomum-verum]]
 - [[myristica-fragrans]]
-- [[punica-granatum]]
+- punica-granatum

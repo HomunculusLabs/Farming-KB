@@ -1,5 +1,5 @@
 ---
-title: Persistent Pollutant Bound Residue Formation by Fungi
+title: staycare persistent pollutant bound residue formation fungal-bound-residue-formation Formation by Fungi
 created: 2026-04-28
 tags:
   - bioremediation
@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-A critical but often underappreciated mechanism in [[fungal-biodegradation-of-synthetic-pollutants]] is not
+A critical but often underappreciated mechanism in fungal-biodegradation-of-synthetic-pollutants is not
 achieved.
 
 ## Mechanism of Bound Residue Formation
@@ -110,4 +110,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

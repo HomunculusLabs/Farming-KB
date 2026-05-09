@@ -1,5 +1,5 @@
 ---
-title: Fairy Rings: Folklore and Science
+title: bloomfield-fairy-rings-armillaria-giant-fungi: Folklore and Science
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -12,7 +12,7 @@ Updated: 2026-04-18
 
 ## Overview
 
-Fairy rings are naturally occurring circular or arc-shaped patterns of mushroom growth caused by the underground expansion of fungal mycelium from a central point. These formations have inspired centuries of folklore, superstition, and myth across European cultures, while modern mycology has revealed the fascinating biology behind their formation.
+Fairy rings are naturally occurring circular or arc-shaped patterns of [[pf-tek-mushroom-growth-timeline]] caused by the underground expansion of fungal mycelium from a central point. These formations have inspired centuries of folklore, superstition, and myth across European cultures, while modern mycology has revealed the fascinating biology behind their formation.
 
 Source: [[enoki-mushroom-cultivation]] (fairy ring mushroom)
 - Various Chlorophyllum and Calvatia (puffball) species
@@ -54,10 +54,11 @@ The fairy ring motif appears throughout European literature, from Shakespeare (s
 
 ### Underground Networks
 
-Modern mycology recognizes fairy rings as surface manifestations of vast underground mycelial networks. The [[wasson-mycophobia-mycophilia-theory]] — Cultural fear vs. reverence of mushrooms
+Modern mycology recognizes fairy rings as surface manifestations of vast underground [[fungal-mycelial-networks-nutrient-translocation]]. The [[wasson-mycophobia-mycophilia-theory]] — Cultural fear vs. reverence of mushrooms
 - [[witches-fungi-and-flying-ointments]] — Other supernatural associations with fungi
-- [[shakespeare-mushrooms]] — Shakespearean references to mushrooms and folk beliefs
+- [[shakespeare-mushrooms]] — Shakespearean [[allegro-biblical-references-to-mushrooms-and-fungi]] and folk beliefs
 - [[arbuscular-mycorrhizal-networks]] — The science of fungal networks in soil
+
 ## Practical Considerations
 
 Successful implementation of Fairy Rings: Folklore and Science requires attention to
@@ -76,4 +77,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

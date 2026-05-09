@@ -1,109 +1,121 @@
 ---
-title: Psycholytic and Psychedelic Models of Psychedelic-Assisted Psychotherapy
-created: 2026-04-28
-tags:
-  - psychology
-  - psychotherapy
-  - psychedelics
-  - lsd
-  - psycholytic
-  - psychedelic
-  - clinical-history
-  - metzner
-  - grof
-  - osmond
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
-type: concept
+title: "Psycholytic and Psychedelic Therapy Models"
+aliases: [psycholytic therapy, psychedelic therapy, LSD psychotherapy, psychotomimetic]
+tags: [psychedelics, psychotherapy, LSD, history, clinical-research, mental-health]
+source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
+created: 2026-05-09
 ---
 
-# Psycholytic and Psychedelic Models of Psychedelic-Assisted Psychotherapy
+# Psycholytic and Psychedelic Therapy Models
 
-Two fundamentally different approaches to [[lsd]]. Early researchers described LSD's effects as bringing about "psychic loosening or opening" (German: *seelische Auflockerung*). The term **psycholytic** literally means "mind-dissolving" or "soul-loosening."
+The use of hallucinogenic drugs in Western psychotherapy developed along two
+distinct but related tracks during the 1950s and 1960s: the psycholytic model,
+dominant in Europe, and the psychedelic model, preferred in Anglo-American
+circles. Ralph Metzner, who worked with Timothy Leary and Richard Alpert at
+Harvard, provided a comprehensive overview of both approaches in his 1998 review
+article in the *Journal of Psychoactive Drugs*.
 
-### Methodology
+## Discovery and Early Characterization
 
-In psycholytic therapy, patients suffering from anxiety, depression, obsessive-compulsive disorders, or psychosomatic conditions received LSD in a **series of sessions at gradually increasing doses**. These sessions were conducted within a framework of standard analytic interactions using a Freudian perspective. The core rationale held that through psycholysis, the loosening of psychological defenses, patients would gain more vivid awareness of previously unconscious emotional dynamics and reaction patterns, particularly those acquired in early family interactions.
+When the "fantastically potent mind-altering qualities" of LSD were first
+discovered at the height of World War II in a Swiss pharmaceutical lab (Sandoz),
+they were initially characterized as "psychotomimetic" and "psycholytic." The
+prospect of unhinging the mind from its normal parameters for a few hours to
+simulate madness interested a small number of psychiatric researchers as a
+possible training experience. The military and espionage agencies of both
+superpowers devoted considerable research effort to determining the most
+effective surreptitious delivery systems for maximum confusion and
+disorientation.
 
-### Stanislav Grof and Perinatal Matrices
+Ironically, it was the capacity of LSD to tap into hidden mystical potentials
+that ruined its applicability as a weapon. Rather than making subjects predictably
+submissive, LSD had the unnerving propensity to suspend existing mental
+programming and release one into "awesome worlds of cosmic consciousness." The
+military was not prepared to have soldiers or espionage agents turn into mystics.
 
-The Czech psychiatrist [[aldous-huxley]]. Osmond also provided Huxley with his first mescaline experience, later immortalized in *The Doors of Perception* (1954). The word "psychedelic" means "mind-manifesting."
+## The Psycholytic Model
 
-### Methodology
+The first research papers from Sandoz, where Albert Hofmann had synthesized LSD,
+described it as bringing about "psychic loosening or opening" (*seelische
+Auflockerung*). This psycholytic concept became the dominant model for LSD-assisted
+psychotherapy in Europe. In psycholytic therapy, patients suffering from anxiety,
+depression, or obsessive-compulsive or psychosomatic disorders were given LSD in a
+series of sessions at gradually increasing doses, while undergoing analytic
+interactions using a Freudian perspective.
 
-Psychedelic therapy typically involved **one or a small number of high-dose sessions** rather than the extended series characteristic of the psycholytic approach. During these sessions, the contents of the unconscious mind would manifest as vivid hallucinatory imagery, leading to insight and transformation. The approach was initially developed for treating alcoholics, where it was thought to simulate the life-changing "bottoming out" experience that sometimes triggers recovery.
+The rationale was that through the loosening of defenses, the patient would
+become more vividly aware of previously unconscious emotional dynamics and
+reaction patterns acquired in early family interactions, and such insight would
+bring about resolution of inner conflicts. The Czech psychiatrist Stanislav Grof,
+working within this model, made the startling discovery that patients would
+relive the significant sensory-emotional features of their birth experience—
+patterns to which Grof gave the name perinatal matrices.
 
-### Hollywood and Arts Community Application
+## The Psychedelic Model
 
-A second center for psychedelic therapy developed in early 1960s Southern California, where **Sidney Cohen**, **Oscar Janiger**, and others began providing psychedelic experiences to clients in the Hollywood film, arts, and media community. This work brought considerable publicity and notoriety to psychedelics, extending their reach beyond clinical settings into creative and cultural domains.
+More or less simultaneously with the psycholytic approach in Europe, the
+psychedelic model became preferred in Anglo-American circles. The English
+psychiatrist Humphrey Osmond, who worked in Canada with Abram Hoffer on treating
+alcoholism with LSD (and who provided Aldous Huxley with his first mescaline
+experience), introduced this term in correspondence with Huxley.
 
-### Timothy Leary and Consciousness Expansion
+Psychedelic therapy usually involved one or a small number of high-dose sessions,
+during which the contents of the unconscious mind would be manifested as vivid
+hallucinatory imagery, leading to insight and transformation. A second center
+developed in early 1960s Southern California, where Sidney Cohen, Oscar Janiger
+and others began providing psychedelic experiences to clients in the Hollywood
+arts community, bringing considerable publicity and notoriety to psychedelics.
 
-The term "psychedelic" was adopted by [[psilocybin-assisted-therapy]], [[swiss-psycholytic-therapy-1988-1993]].
+## The Harvard Research Project
+
+Timothy Leary, Frank Barron, Richard Alpert and the Harvard research project
+adopted the term "psychedelic" and began exploring the possibilities of the
+psychedelic experience for "normals" (mostly graduate students) as well as
+artists, musicians, poets and writers. The concept of "consciousness expansion"
+was introduced, contrasted with the contracted, fixated awareness characteristic
+of addictions, obsessions and compulsions.
+
+Leary was responsible for introducing and popularizing the "set and setting"
+hypothesis, according to which the primary determinants of a psychedelic
+experience are the internal set (intention, expectation, motivation) and the
+external setting or context, including the presence of a guide or therapist.
+
+## Empathogens and the Shulgin Phenethylamines
+
+A significant extension occurred with Alexander Shulgin's discovery of
+phenethylamines such as MDA, MDMA, and 2C-B, which bring about an expansion and
+centering of awareness primarily on the emotional or heart-level, with minimal
+perceptual changes. The name "empathogens" (generating a state of empathy) was
+proposed for this class. MDMA was used with impressive success in psychotherapy,
+facilitating significant opening of relationship communication and helping heal
+disabling trauma.
+
+## Five Shared Fundamental Conclusions
+
+Despite theoretical differences, Metzner identified five conclusions shared by
+both approaches:
+
+1. Psychotherapy with hallucinogens involves a profoundly expanded state of
+   consciousness, transcending neurotic dynamics and fundamental self-concepts.
+
+2. Set and setting are the most important determinants; the drug plays the role
+   of catalyst or trigger, unlike other psychiatric medications where
+   pharmacological action seems paramount.
+
+3. Two metaphors recur: the amplifier analogy (drug as nonspecific amplifier of
+   psychic contents) and the microscope metaphor (psychedelics as instruments for
+   observing hidden realms of the mind).
+
+4. The personal experience of the therapist is an essential prerequisite, implying
+   a significant role for psychedelic experience in therapist training.
+
+5. Access to transcendent, religious, or transpersonal dimensions of
+   consciousness can be attained, as recognized by Hofmann, Grof, and Leary.
 
 ## See Also
 
-- [[metzner-therapist-experiential-prerequisite-psychedelic-therapy]]
-
-- [[psycholytic-and-psychedelic-therapy-models]]
-## Practical Considerations
-
-When working with Psycholytic and Psychedelic Models of Psychedelic-Assisted Psychotherapy, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-Resource management encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
-## Common Challenges and Solutions
-
-Several recurring challenges tend to arise in work related to this
-topic. These include variability in environmental conditions, the
-complexity of multi-variable interactions, and the difficulty of
-predicting outcomes with certainty in dynamic systems. Anticipating
-these challenges enables more proactive and effective management.
-
-Building resilience into implementations through diversity, redundancy,
-and adaptive capacity helps buffer against unpredictable events and
-conditions. This approach recognizes that some degree of uncertainty is
-inherent in working with natural systems and plans accordingly rather
-than assuming perfect predictability or control over outcomes.
-
-Documentation and record-keeping support continuous improvement by
-creating a reference base of observations, interventions, and results.
-This accumulated knowledge enables progressively better decision-making
-and helps identify patterns that might otherwise be overlooked in the
-complexity of day-to-day management and observation activities.
-
-## Future Directions
-
-Ongoing developments in research and practice continue to expand our
-understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
-that can enhance both the effectiveness and efficiency of implementation.
-
-Integration with other disciplines and approaches creates synergies that
-advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single domain.
-
-For continued learning, recommended resources include current research
-publications, established practitioner networks, hands-on experimentation,
-and systematic observation of outcomes across different conditions and
-approaches. The combination of study and practice provides the strongest
-foundation for developing deep expertise and contributing to the field.
-
+- [[metzner-holotropic-breathwork-and-grof-perinatal-matrices]]
+- [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]]
+- [[hofmann-lsd-sandoz-research-program]]
+- [[metzner-empathogen-discovery-mdma-psychotherapy-and-emotional-opening]]
+- [[weil-psychedelic-experience-set-and-setting]]

@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Field Guide I for [[elaine-ingham]], Soil Foodweb Inc.
+Source: The [[ghouled-field-guide-historical-context]] I for [[elaine-ingham]], Soil Foodweb Inc.
 
 Ingham provides systematic troubleshooting guidance based on years of Soil Foodweb Inc. testing. The approach: identify the symptom, test the variables, and fix the root cause.
 
@@ -54,7 +54,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -96,4 +96,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

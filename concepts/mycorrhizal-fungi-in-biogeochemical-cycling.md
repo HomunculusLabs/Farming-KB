@@ -15,7 +15,7 @@ created: 2026-04-28
 
 Mycorrhizal fungi form symbiotic associations with the roots of nearly all land plants, creating one of the most widespread and ecologically significant mutualisms on Earth. These fungi are integral drivers of biogeochemical cycling, mediating the transfer of carbon, nitrogen, phosphorus, and mineral nutrients between soil, plants, and the broader ecosystem. Mycorrhizal networks extend the effective root zone of host plants by orders of magnitude, functioning as underground nutrient highways that scavenge, mobilize, and redistribute elements essential for primary productivity.
 
-Mycorrhizal fungi are a particularly important group in the cycling of elements within diverse soil fungal communities. Their role in mineral weathering, nutrient solubilization, and soil carbon sequestration positions them at the center of terrestrial ecosystem function. In forest ecosystems, basidiomycete mycorrhizal networks form complex corded systems that can extend for metres or even hectares, continuously reconfiguring their architecture in response to local nutritional and environmental cues.
+Mycorrhizal fungi are a particularly important group in the cycling of elements within diverse soil fungal communities. Their role in [[mycorrhizal-mineral-weathering-nutrient-acquisition]], nutrient solubilization, and soil carbon sequestration positions them at the center of terrestrial ecosystem function. In forest ecosystems, basidiomycete mycorrhizal networks form complex corded systems that can extend for metres or even hectares, continuously reconfiguring their architecture in response to local nutritional and environmental cues.
 
 ## Types of Mycorrhizal Associations
 
@@ -43,7 +43,7 @@ This targeted carbon investment demonstrates that fungal foraging is resource-di
 
 ### Specific mineral dissolution capabilities
 
-The ectomycorrhizal fungus Piloderma has demonstrated the ability to extract potassium and magnesium from biotite, microcline, and chlorite to satisfy nutritional requirements, simultaneously precipitating calcium oxalate crystals on its hyphae. The ectomycorrhizal fungi Suillus granulatus and Paxillus involutus have released elements including potassium, calcium, titanium, manganese, and lead from apatite and wood ash, accumulating them preferentially in rhizomorphs.
+The ectomycorrhizal fungus Piloderma has demonstrated the ability to extract potassium and magnesium from biotite, microcline, and chlorite to satisfy nutritional requirements, simultaneously precipitating [[fungal-calcium-oxalate-crystals]] crystals on its hyphae. The ectomycorrhizal fungi Suillus granulatus and Paxillus involutus have released elements including potassium, calcium, titanium, manganese, and lead from apatite and wood ash, accumulating them preferentially in rhizomorphs.
 
 These findings demonstrate that mycorrhizal fungi can access nutrients from a wide range of primary and secondary minerals, effectively bridging the gap between geological nutrient reservoirs and plant-available nutrient pools.
 
@@ -57,7 +57,7 @@ Experimental research on zinc phosphate dissolution by the Paxillus involutus an
 
 - Under both phosphorus-replete and phosphorus-depleted conditions, ectomycorrhizal roots accumulated significantly more phosphorus than non-mycorrhizal roots, demonstrating the fundamental nutritional advantage of the mycorrhizal symbiosis.
 - Under phosphorus-replete conditions, zinc-tolerant ectomycorrhizal strains employed a metal avoidance strategy, restricting zinc entry into cells and protecting plant tissues from excessive accumulation.
-- Under phosphorus deficiency, the same zinc-tolerant ectomycorrhiza mobilized and accumulated the highest amount of zinc, suggesting that nutrient stress shifts fungal strategy from avoidance to active mobilization.
+- Under [[query-how-to-fix-phosphorus-deficiency-in-cannabis]], the same zinc-tolerant ectomycorrhiza mobilized and accumulated the highest amount of zinc, suggesting that nutrient stress shifts fungal strategy from avoidance to active mobilization.
 
 These results indicate that phosphate mineral dissolution, phosphorus acquisition, and metal accumulation by the plant depend on the mycorrhizal status of the host, the metal tolerance of the fungal strain, and the phosphorus status of the surrounding environment.
 
@@ -65,7 +65,7 @@ These results indicate that phosphate mineral dissolution, phosphorus acquisitio
 
 Mycorrhizal fungi provide significant protection to host plants growing in metalliferous or contaminated soils. Through mechanisms including extracellular precipitation of metal oxalates, biosorption of metals to hyphal cell walls, and intracellular sequestration, mycorrhizal fungi reduce the bioavailability of toxic metals in the root zone.
 
-The mycorrhizal status of a plant can fundamentally alter its relationship with soil metals. In some cases, mycorrhizal fungi accumulate metals in their tissues (acting as a biological filter), while in other cases they exclude metals entirely to protect the host. This dual capacity has important implications for phytoremediation strategies and for understanding plant community composition on metalliferous soils.
+The mycorrhizal status of a plant can fundamentally alter its relationship with soil metals. In some cases, mycorrhizal fungi accumulate metals in their tissues (acting as a biological filter), while in other cases they exclude metals entirely to protect the host. This dual capacity has important implications for phytoremediation strategies and for understanding plant [[core-endorhiza-bacterial-community-composition-cannabis]] on metalliferous soils.
 
 ## Carbon Cycle Implications
 
@@ -77,7 +77,7 @@ Mycorrhizal fungi also influence plant community composition by mediating compet
 
 ## Mycorrhizal Networks in Forest Ecosystems
 
-In forest ecosystems, mycorrhizal basidiomycetes are the major agents of decomposition and nutrient cycling. Their mycelial networks scavenge and sequester nutrients from soil, concentrate nutrients from decomposing organic matter, relocate nutrients between different organic resources, and ultimately make nutrients available to plants to maintain primary productivity.
+In forest ecosystems, mycorrhizal basidiomycetes are the major agents of decomposition and nutrient cycling. Their [[fungal-mycelial-networks-nutrient-translocation]] scavenge and sequester nutrients from soil, concentrate nutrients from decomposing organic matter, relocate nutrients between different organic resources, and ultimately make nutrients available to plants to maintain primary productivity.
 
 Hyphae of both saprotrophic and ectomycorrhizal basidiomycetes that ramify through soil often aggregate to form rapidly extending, persistent, specialized high-conductivity channels termed cords. These cords form complex networks that can extend for metres or even hectares in the natural environment. The architecture of these networks is not static but is continuously reconfigured in response to local nutritional or environmental cues, damage, or predation, through a combination of growth, branching, fusion, and regression.
 
@@ -91,12 +91,12 @@ The mechanisms underlying nutrient translocation include mass flow, diffusion, g
 
 At local and global scales, mycorrhizal involvement in biogeochemical cycling has profound implications for ecosystem function, plant productivity, and human agriculture. The ability of mycorrhizal fungi to transform minerals, mobilize nutrients, and sequester carbon means that they are central to the functioning of virtually all terrestrial ecosystems.
 
-In agricultural systems, mycorrhizal associations can reduce the need for phosphorus fertilizers by enhancing the plant's ability to access soil phosphorus from insoluble mineral sources. In forestry, ectomycorrhizal networks are essential for tree nutrition, particularly on nutrient-poor soils. In restoration ecology, [[environmental-dna-metabarcoding]] etabarcoding is allowing researchers to map mycorrhizal community composition across landscapes and to track how these communities respond to environmental change, including climate change, nitrogen deposition, and land-use change. Stable isotope probing and nanoscale secondary ion mass spectrometry (NanoSIMS) are providing direct evidence of nutrient flow between mycorrhizal partners at the single-cell level.
+In agricultural systems, mycorrhizal associations can reduce the need for phosphorus fertilizers by enhancing the plant's ability to access soil phosphorus from insoluble mineral sources. In forestry, [[symbiotic-fungi-ectomycorrhizal-networks-overview]] are essential for tree nutrition, particularly on nutrient-poor soils. In restoration ecology,  etabarcoding is allowing researchers to map mycorrhizal community composition across landscapes and to track how these communities respond to environmental change, including climate change, nitrogen deposition, and land-use change. Stable isotope probing and nanoscale secondary ion mass spectrometry (NanoSIMS) are providing direct evidence of nutrient flow between mycorrhizal partners at the single-cell level.
 
 These emerging tools promise to transform mycorrhizal research from descriptive ecology to predictive science, enabling better management of mycorrhizal associations in agriculture, forestry, and ecosystem restoration. Understanding the functional diversity of mycorrhizal fungi and how to select for beneficial associations represents a frontier in sustainable land management.
 
 ## See Also
 
-- [[fungi-dominant-soil-biomass-ecosystem-engineers]]
+- [[biodiversity-of-fungi-ecosystem-services-agriculture]]
 - mycorrhizal fungi in biogeochemical cycling
 - [[symbiotic-fungi-ectomycorrhizal-networks-overview]]

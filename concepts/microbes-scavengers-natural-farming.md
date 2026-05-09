@@ -1,5 +1,5 @@
 ---
-title: Microbes as Scavengers in Natural Farming
+title: fukuoka-textdoc-microbes-as-scavengers-decomposition-drama in comparison-natural-farming-vs-permaculture
 created: 2026-04-28
 tags:
   - natural-farming
@@ -63,7 +63,7 @@ and kites and dogs that kill snakes. Bacteria and viruses attack all of these in
 The reproductive capacity of microorganisms is staggering. It takes twenty minutes to
 one hour for a single bacterium to divide. Assuming unchecked multiplication, after two
 or three days a single E. coli bacterium could leave a mass of progeny equivalent to the
-total mass of all living organisms on earth. If self-governing mechanisms regulating one
+total mass of all [[savory-living-organisms-as-tools]] on earth. If self-governing mechanisms regulating one
 type of bacterium were to cease for just several days, the earth would become a morass
 of bacterial remains.
 
@@ -93,7 +93,7 @@ Fukuoka details how a single piece of rice straw dropped onto the earth is decom
    trace of the straw disappears.
 
 This entire transformation occurs over several days, driven by natural ecological
-succession. Designs for the most advanced refuse processing plants are child's play
+succession. Designs for the most advanced [[fukuoka-textdoc-natures-refuse-processing-microbial-self-governance]] plants are child's play
 compared with the infinitely elaborate methods of treating garbage used by nature.
 
 ## The Futility of Isolating Beneficial Microbes
@@ -107,11 +107,11 @@ He later realized this was "really quite worthless." Rather than isolating benef
 microbes and inoculating straw with a "fermentation promoter," all he needed was to
 scatter a handful of chicken droppings or clumps of soil over the straw. This was the
 quickest method and produced the most completely rotted compost. There is no call for
-making a fuss over "microbial" and "enzymatic" farming methods.
+making a fuss over "microbial" and "enzymatic" [[natural-farming-methods-comparison]].
 
 ## Pesticides and Microbial Disruption
 
-Fukuoka's microbial ecology observations inform his warning about pesticides. Plants and
+Fukuoka's [[fukuoka-microbial-ecology-decomposition]] observations inform his warning about pesticides. Plants and
 animals belong to a close-knit order, and the biggest stones cast into this order are
 pesticides, fertilizers, and agricultural machinery.
 

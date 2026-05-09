@@ -1,5 +1,5 @@
 ---
-title: Culture Storage and Strain Senescence
+title: cotter culture storage senescence and growing-gourmet-strain-senescence-degeneration
 created: 2026-04-26
 tags: [culture-preservation, cryopreservation, agar-slants, strain-degradation, mycology-lab]
 date: 2026-04-25
@@ -25,7 +25,7 @@ Assign every isolate an origin code (e.g., "PDJAMOR1" is easier to write than
 the full collection details). Label every plate, jar, and bag with generation
 codes tracking how many expansions the culture has been through:
 
-- Generation 0: original pure isolate from tissue culture or spore germination
+- Generation 0: original pure isolate from [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] or [[growing-gourmet-spore-germination-strain-isolation]]
 - Each subsequent expansion (master grain, liquid culture, bulk spawn)
   increments the generation number
 
@@ -46,7 +46,7 @@ captivity so long they lose their ability to adapt.
 - Lower yields over successive generations
 - Disease susceptibility
 - Diminished cap color
-- Loss of distinctive features defining the original strain
+- Loss of [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] defining the original strain
 - Inability to adapt to new substrates or environments
 
 ### Prevention Strategies
@@ -104,9 +104,11 @@ Mycelia in growing media survive long periods without water if not exposed to
 extreme heat. Allowing colonized substrate to dry completely preserves the
 mycelium until needed. Dried mushroom stems (with bases) can be stored in
 bundles in a cool, dry location for 9-12 months. To revive, wrap dried stems in
-wet cardboard following cardboard culture techniques.
+wet cardboard following cardboard [[agar-culture-techniques-detailed]].
 
 ## See Also
+
+- [[leaf-senescence-autumn-colour-change-active-plant-process]]
 
 - [[cotter-grain-spawn-production]] -- expansion and generation tracking
 - [[cotter-laboratory-setup]] -- lab design and equipment

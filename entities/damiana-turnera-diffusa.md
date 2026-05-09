@@ -35,7 +35,7 @@ sources:
 
 **Cyanogenic glycosides:** Seven cyanogenic glycosides have been identified in the genus *Turnera*, including tetraphyllin B and gonzalitosin I. These release trace hydrogen cyanide upon hydrolysis, contributing to bitter flavor and potentially to mild pharmacological effects.
 
-**Other constituents:** Damianin (a characteristic compound), β-sitosterol, β-carotene, tricosan-2-one, hexacosanol, the polyterpene ficaprenol-11, fatty acids, caffeine (trace), and maltol glucoside.
+**Other constituents:** Damianin (a characteristic compound), β-sitosterol, β-carotene, tricosan-2-one, hexacosanol, the polyterpene ficaprenol-11, [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]], caffeine (trace), and maltol glucoside.
 
 **Note:** As of current research, damiana's pharmacological effects have not been fully attributed to individual isolated compounds; the whole-plant extract is believed to produce synergistic effects exceeding those of any single constituent.
 
@@ -45,7 +45,7 @@ sources:
 
 **Pro-sexual effects:** Animal studies have demonstrated that damiana extracts increase sexual behavior and copulatory frequency in male rats. The mechanism may involve androgen receptor modulation, nitric oxide pathway activation, and CNS stimulation, though the exact molecular targets remain incompletely characterized.
 
-**Antioxidant activity:** Flavonoid and phenolic constituents (arbutin, apigenin, β-carotene) contribute to significant in vitro antioxidant activity, scavenging free radicals and reducing oxidative stress.
+**Antioxidant activity:** Flavonoid and phenolic constituents (arbutin, apigenin, β-carotene) contribute to significant in vitro antioxidant activity, scavenging free radicals and reducing [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]].
 
 **Mild progestogenic activity:** Some in vitro evidence suggests damiana may bind progesterone receptors, though clinical significance has not been established.
 
@@ -54,7 +54,7 @@ sources:
 ## Medicinal Applications
 
 - **Anxiety and stress relief:** The most well-supported traditional use; damiana tea is widely used as a mild, non-habit-forming anxiolytic and nerve tonic. Used for nervous tension, mild depression, and general stress management.
-- **Libido enhancement:** Used by both men and women to support sexual function and desire. Evidence is primarily traditional and preclinical; human clinical trials are limited.
+- **Libido enhancement:** Used by both men and women to support sexual function and desire. Evidence is primarily traditional and preclinical; human [[mushroom-cancer-clinical-trials-overview]] are limited.
 - **Digestive support:** Traditionally employed as a bitter tonic to stimulate appetite, relieve indigestion, and address mild gastrointestinal complaints including constipation and dyspepsia.
 - **Menstrual and reproductive support:** In Mexican herbalism, used to regulate menstrual cycles, ease menstrual discomfort, and support fertility.
 - **Urinary tract health:** Arbutin, converted to hydroquinone in the urinary tract, provides mild antimicrobial activity; traditionally used as a urinary antiseptic.
@@ -62,7 +62,7 @@ sources:
 
 ## Cultivation
 
-**Native range:** Southern Texas (Rio Grande Valley), Mexico (throughout, especially arid northern and central regions), Central America (Guatemala, Nicaragua, Costa Rica), South America, and the Caribbean islands.
+**Native range:** Southern Texas (Rio Grande Valley), Mexico (throughout, especially arid northern and central regions), [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] (Guatemala, Nicaragua, Costa Rica), South America, and the Caribbean islands.
 
 **Habitat:** Thrives in dry, rocky, well-drained soils in scrubland, chaparral, and open woodlands. Typically found at elevations from sea level to 1,800 m.
 
@@ -70,7 +70,7 @@ sources:
 
 **Propagation:** Primarily by seed, which benefits from light scarification. Germination rates are variable (40–70%). Semi-hardwood cuttings can also be used. Flowering and harvestable leaf production typically begin in the second year.
 
-**Harvest:** Leaves are harvested during or just before flowering for peak essential oil content. Dried in shade to preserve volatile compounds.
+**Harvest:** Leaves are harvested during or just before flowering for peak [[permaculture-designers-manual-essential-oil-plants]] content. Dried in shade to preserve volatile compounds.
 
 **Adulteration concern:** Many plants and seeds sold commercially as *T. diffusa* are actually *Turnera ulmifolia* ("false damiana"), which lacks the characteristic woody stems, has larger blue-green dentate leaves, and is only weakly aromatic. This misidentification is primarily a horticultural problem; commercial herbal products are generally authentic.
 
@@ -96,7 +96,7 @@ Damiana is generally well-tolerated at typical herbal doses. Side effects are ra
 
 **Hormone-sensitive conditions:** Theoretical progestogenic activity warrants caution in hormone-sensitive conditions (estrogen receptor-positive breast cancer, endometriosis).
 
-**Drug interactions:** Additive sedation with CNS depressants (benzodiazepines, barbiturates, alcohol). Theoretically may interact with anticoagulants due to flavonoid content.
+**[[cannabis-drug-interactions-and-contraindications]]:** Additive sedation with CNS depressants (benzodiazepines, barbiturates, alcohol). Theoretically may interact with anticoagulants due to flavonoid content.
 
 **Dosage ceiling:** No established upper limit, but excessive doses (>10 g dried leaf/day) may cause mild toxicity from cyanogenic glycoside content.
 ## See Also

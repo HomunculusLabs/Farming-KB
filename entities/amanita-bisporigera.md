@@ -5,7 +5,7 @@ updated: 2026-05-06
 type: organism
 subtype: fungus
 aliases:
-  - Eastern North American Destroying Angel
+  - [[polypore-fungi-eastern-north-america]] American [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]
   - Destroying Angel
   - Eastern Destroying Angel
 taxonomy:
@@ -14,18 +14,19 @@ taxonomy:
   phylum: Basidiomycota
   class: Agaricomycetes
   order: Agaricales
-  family: [[amanita]] ceae
+  family: amanita ceae
   genus: Amanita
   species: A. bisporigera
   section: Phalloideae
 edibility: deadly poisonous
 tags: [profile]
-sources: []
+sources:
+  sources: []
 ---
 
 # Amanita bisporigera
 
-*Amanita bisporigera* is a deadly poisonous mushroom in the family
+*Amanita bisporigera* is a deadly [[growing-gourmet-poisonous-mushroom-lookalikes]] in the family
 Amanitaceae, commonly known as the Eastern North American Destroying Angel.
 It is among the most lethal mushrooms known, responsible for the majority of
 fatal mushroom poisonings in eastern North America. A single mature cap
@@ -73,7 +74,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +116,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

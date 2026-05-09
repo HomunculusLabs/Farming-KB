@@ -1,5 +1,5 @@
 ---
-title: "What Are the Best Kiwifruit Varieties for Cold Climates?"
+title: "What Are the query best kiwifruit varieties for cold climates Varieties for Cold Climates?"
 tags:
   - kiwifruit
   - cold-climate
@@ -16,7 +16,7 @@ updated: 2026-05-03
 sources:
   - Ferguson AR (1999). "New Zealand kiwifruit: breeding and genetics." Acta Horticulturae.
   - Latocha P et al. (2020). "Hardy kiwifruit (Actinidia arguta) — a review of genetic resources." Plants.
-  - Oregon State University Extension: Growing Kiwifruit in the Home Garden.
+  - Oregon State University Extension: Growing Kiwifruit in the [[cool-climate-home-garden-mollison]].
   - University of Minnesota Extension: Hardy Kiwi in Minnesota.
 type: query
 created: 2026-05-03
@@ -95,11 +95,11 @@ For growers in Zone 3 or the coldest parts of Zone 4, arctic kiwi (*A. kolomikta
 
 ## Cold Climate Growing Tips
 
-1. **Site selection is everything.** Plant on a north-facing slope in Zones 3–4 to delay bud break and avoid late spring frosts. Avoid frost pockets (low-lying areas where cold air settles).
+1. **[[fukuoka-creating-natural-farm-site-selection-establishment]] is everything.** Plant on a north-facing slope in Zones 3–4 to delay bud break and avoid late spring frosts. Avoid frost pockets (low-lying areas where [[hemenway-cold-air-drainage-and-frost-management]] settles).
 
 2. **Protect young vines.** For the first 1–2 winters, mulch heavily (15–20 cm of straw or leaves around the base) and consider wrapping the trunk with burlap or tree wrap.
 
-3. **Snow is [[faires-city-desert-and-cold-climate-garden-strategies]]
+3. **Snow is faires-city-desert-and-cold-climate-garden-strategies
 
 ## See Also
 

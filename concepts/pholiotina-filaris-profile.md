@@ -5,14 +5,14 @@ tags: [pholiotina, conocybe, toxic-mushroom, mycology, mushroom-profile]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "~/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources: []
 type: concept
 ---
 # Pholiotina filaris Profile
 
 ## Taxonomy and Synonyms
 
-Pholiotina filaris (Fries) Singer is a deadly poisonous mushroom
+Pholiotina filaris (Fries) Singer is a deadly [[growing-gourmet-poisonous-mushroom-lookalikes]]
 with a complex taxonomic history. It has been known by several
 synonyms including Pholiota filaris Fries and Conocybe filaris
 Fries. The transfer from Conocybe to Pholiotina reflects ongoing
@@ -36,7 +36,7 @@ potentially be confused with some [[alpha-amanitin]] and beta-amanitin, which in
 polymerase II, leading to severe hepatotoxicity and potentially
 fatal liver failure. Symptoms typically begin 6 to 24 hours after
 ingestion with a delayed onset that can provide a false sense of
-security. The mortality rate from amatoxin poisoning is significant
+security. The mortality rate from [[bloomfield-amatoxin-poisoning-mechanism]] is significant
 without prompt medical intervention, including liver transplant in
 severe cases.
 
@@ -46,12 +46,12 @@ The variety commonly found in western Washington has a movable
 membranous annulus that can degrade into an annular zone, bringing
 its overall appearance very close to that of other Conocybes.
 Since there is potential for misidentification, collectors could
-conceivably confuse P. filaris with psilocybin mushrooms if they
-did not heed the requirement for a Psilocybin Mushroom Bluing  Reaction Chemistry and other identification guidelines.
+conceivably confuse P. filaris with [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] if they
+did not heed the requirement for a Psilocybin [[psilocybin-mushroom-bluing-reaction-chemistry]]  [[fenton-reaction-chemistry-and-biochemistry]] and other identification guidelines.
 
 Stamets emphasizes: learn to recognize Pholiotinas and Galerinas,
 and avoid them. The rusty brown spore print, absence of any
-bluing reaction, and habitat on wood chips versus grassland or
+[[field-guide-psilocybin-bluing-reaction-identification]], and habitat on wood chips versus grassland or
 dung can all help distinguish P. filaris from active species.
 Collectors should always make spore prints and verify spore color
 before consuming any small, conic-capped mushroom.

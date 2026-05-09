@@ -14,7 +14,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Duke, J.A. (2002). Handbook of Medicinal Herbs, 2nd Ed. CRC Press."
+  - "Duke, J.A. (2002). Handbook of permaculture-plants-medicinal-herbs-healing, 2nd Ed. CRC Press."
   - "Mills, S. & Bone, K. (2005). The Essential Guide to Herbal Safety. Elsevier."
   - "USDA, NRCS. (2024). The PLANTS Database. plants.usda.gov."
   - "Upton, R. et al. (2001). Goldenseal Root: Analytical, Quality Control, and Therapeutic Monograph. American Herbal Pharmacopoeia."
@@ -25,7 +25,7 @@ sources:
 
 ## Overview
 
-Goldenseal is a perennial herb native to eastern North American deciduous forests, valued for its rhizome containing berberine, hydrastine, and canadine.
+Goldenseal is a perennial herb native to [[polypore-fungi-eastern-north-america]] American deciduous forests, valued for its rhizome containing berberine, hydrastine, and canadine.
 Overharvested in the wild to near commercial extinction, cultivated supply chains are essential.
 Berberine receives significant clinical attention for metabolic and antimicrobial applications.
 
@@ -61,7 +61,7 @@ Vegetative propagation via rhizome division is standard commercial practice.
 
 - **Range:** Eastern North America, Ontario to Arkansas, south to Georgia/Alabama
 - **Habitat:** Rich, moist deciduous forests; north- or east-facing slopes, 60–80% canopy
-- **Soil:** Deep loam, 5–10% organic matter; pH 5.5–6.5
+- **Soil:** Deep loam, 5–10% [[hamilton-composting-and-organic-matter-management]]; pH 5.5–6.5
 - **Associates:** Ginseng (*Panax quinquefolius*), bloodroot (*Sanguinaria canadensis*), black cohosh
 - **Conservation:** CITES Appendix II; threatened in many US states
 
@@ -138,8 +138,11 @@ Vegetative propagation via rhizome division is standard commercial practice.
 ## See Also
 
 - [[sanguinaria-canadensis]] — Fellow woodland medicinal
-- [[actaea-racemosa]] — Black cohosh, shade-loving forest medicinal
+- actaea-racemosa — Black cohosh, shade-loving forest medicinal
 
 ## See Also
 
-- [[native-american-planting-methods-and-indigenous-agriculture]]
+- [[natives-vs-exotics]]
+- [[coptis-chinensis]]
+- [[juglans-nigra]]
+- [[berberis-vulgaris]]

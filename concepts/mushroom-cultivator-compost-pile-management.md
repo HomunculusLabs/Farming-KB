@@ -1,11 +1,11 @@
 ---
-title: "Compost Pile Management Turning and Temperature"
+title: "mushroom cultivator compost pile management Management Turning and Temperature"
 created: 2026-04-28
-tags: [[mycology]], composting, temperature-management, phase-i, aeration,
+tags: [mycology], composting, temperature-management, phase-i, aeration,
       mushroom-cultivator]
 date: 2026-04-25
 updated: 2026-04-25
-sources: [~/wiki/raw/papers/the-mushroom-cultivator-stamets.md]
+sources: sources: []
 type: concept
 ---
 
@@ -44,7 +44,7 @@ acting chemical reactions in zone 3 (150-180 degrees). Advantages
 include shorter preparation time and greater preservation of dry
 matter and nutrients.
 
-For horse manure compost (Formula I), the process takes approximately
+For [[falconer-horse-manure-varieties]] compost (Formula I), the process takes approximately
 7 days from make-up to filling. For synthetic compost (Formula II),
 pre extends to 10 days before make-up, with the full
 process requiring 13 or more days.
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

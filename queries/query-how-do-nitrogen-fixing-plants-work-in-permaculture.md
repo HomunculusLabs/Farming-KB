@@ -1,10 +1,11 @@
 ---
-title: "How Do Nitrogen Fixing Plants Work in Permaculture?"
+title: "How Do comparison-rhizobia-vs-free-living-nitrogen-fixing-bacteria Plants Work in Permaculture?"
 created: 2026-04-28
 tags: [query, permaculture, nitrogen-fixing, soil-health, legumes]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -24,9 +25,9 @@ Inside each nodule, the bacteria use an enzyme called nitrogenase to split atmos
 This is remarkable because most plants cannot access atmospheric nitrogen directly.
 The [[permplant-alder-alnus-nitrogen-fixing-non-legume]] page documents important non-legume fixers like alder trees.
 The [[legume-nitrogen-dynamics]] provides detailed data on how much nitrogen different legume species actually fix.
-Not all nitrogen is equal, and the timing of release matters significantly for companion planting.
+Not all nitrogen is equal, and the timing of release matters significantly for [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]].
 Some legumes fix more nitrogen during their lifecycle than others.
-The [[gaias-garden-nitrogen-fixers-guild-design]] page demonstrates how to integrate fixers into plant guilds.
+The gaias-garden-nitrogen-fixers-guild-design page demonstrates how to integrate fixers into plant guilds.
 Common food forest nitrogen fixers include black locust, Siberian pea shrub, seaberry, and autumn olive.
 The [[permaculture-plants-nitrogen-fixing-trees]] resource provides a comprehensive species list for various climates.
 Shrubby nitrogen fixers can serve dual purposes as windbreaks, wildlife habitat, and sources of biomass for mulch.
@@ -40,13 +41,13 @@ The [[permplant-leucaena-tropical-nitrogen-fixing-tree]] covers the tropical equ
 The [[urban-permaculture-nitrogen-fixing-green-manures]] page covers using clovers, vetch, and field peas as cover crops.
 The [[permaculture-nitrogen-fixing-trees-guide]] shows how to place nitrogen fixers strategically across a property.
 The [[nitrogen-fixing-trees-and-shrubs]] resource covers both perennial and annual options for every climate zone.
-Every plant guild in a permaculture design should include at least one nitrogen fixing member.
-Nitrogen fixers work best when combined with dynamic accumulator plants and deep-rooted species in polycultures.
+Every plant guild in a [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] should include at least one nitrogen fixing member.
+Nitrogen fixers work best when combined with [[nutrient-dynamic-accumulator-reference]] plants and deep-rooted species in polycultures.
 The [[legume-nitrogen-fixation-mechanism]] explains the biochemical pathway that makes this symbiosis possible
 - Non-legume fixers like [[permplant-black-locust-nitrogen-fixing-timber]] produces valuable lumber while building soil fertility
 - [[nitrogen-fixing-trees-and-shrubs]] provides species selection guidance for every climate
 - Green manure cover crops fix nitrogen while protecting soil from erosion between plantings
-- Every permaculture guild should include at least one nitrogen fixing species for long-term fertility
+- Every [[query-what-is-a-permaculture-guild-and-how-do-i-design-one]] should include at least one nitrogen fixing species for long-term fertility
 
 ## Related Questions
 - [[query-how-do-i-use-cover-crops-to-improve-soil-health]]
@@ -68,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

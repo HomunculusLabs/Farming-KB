@@ -1,6 +1,6 @@
 ---
-title: Icaros — Shamanic Power Songs
-source: [[ayahuasca-visions]]
+title: Icaros — icaros shamanic power songs Songs
+source: ayahuasca-visions
 topics:
   - icaros
   - shamanic-songs
@@ -91,13 +91,13 @@ can develop.
 
 ### Controlling the Visionary Experience
 
-During ayahuasca ceremonies, icaros function as steering mechanisms for
+During [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]], icaros function as steering mechanisms for
 the visionary experience. The vegetalista uses different songs to
 intensify visions, calm overwhelming experiences, redirect attention
 toward healing content, or help participants navigate challenging
 spiritual terrain. Amaringo's paintings show how the icaro shapes the
 visionary landscape — mountains rise and fall, rivers change course,
-and spirit beings transform in response to the shaman's song.
+and [[metzner-spirit-beings-multiple-realities-entheogens]] transform in response to the shaman's song.
 
 ## Structure and Performance
 
@@ -142,4 +142,4 @@ across generations of practitioners.
 ## See Also
 
 - [[ayahuasca-plant-spirits]]
-- [[ayahuasca-plant-spirits]]
+- [[shipibo-icaros-healing-songs]]

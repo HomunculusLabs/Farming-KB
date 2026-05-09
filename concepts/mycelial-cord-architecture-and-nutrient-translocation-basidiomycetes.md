@@ -1,5 +1,5 @@
 ---
-title: "Mycelial Cord Network Architecture and Nutrient Translocation in Basidiomycetes"
+title: "Mycelial Cord Network Architecture and dighton-fungal-nutrient-translocation-element-redistribution in Basidiomycetes"
 tags:
   - mycology
   - basidiomycetes
@@ -19,7 +19,7 @@ type: concept
 
 # Mycelial Cord Network Architecture and Nutrient Translocation in Basidiomycetes
 
-Basidiomycete fungi are among the most significant decomposition agents in forest ecosystems, responsible for breaking down lignocellulosic woody material and redistributing nutrients across soil horizons. Their capacity to translocate resources over considerable distances derives from their ability to form differentiated mycelial networks, particularly **mycelial cords** — specialized, high-conductivity channels assembled from aggregated hyphae that can extend from meters to hectares in scale. Understanding how these networks form, reconfigure, and move materials is central to fungal ecology and has implications for carbon cycling, plant-mycorrhizal interactions, and ecosystem resilience.
+[[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] are among the most significant decomposition agents in forest ecosystems, responsible for breaking down lignocellulosic woody material and redistributing nutrients across soil horizons. Their capacity to translocate resources over considerable distances derives from their ability to form differentiated [[fungal-mycelial-networks-nutrient-translocation]], particularly **mycelial cords** — specialized, high-conductivity channels assembled from aggregated hyphae that can extend from meters to hectares in scale. Understanding how these networks form, reconfigure, and move materials is central to [[gadd-fungal-ecology-endophytes]] and has implications for carbon cycling, plant-mycorrhizal interactions, and ecosystem resilience.
 
 ## Cord Formation and Network Architecture
 
@@ -39,7 +39,7 @@ This reconfiguration is driven by both nutritional and environmental cues, inclu
 
 A central question in mycelial physiology is how nutrients and other solutes move over distances far exceeding those feasible by simple diffusion. The **pleiomorphic vacuolar system** has emerged as a key component of long-distance transport in basidiomycetes. Rather than a static organelle, the vacuolar system in these fungi is dynamic and reticulate, forming a continuous tubular network extending through hyphal segments and across septal pores. This tubular vacuolar system is motile and exhibits complex movements, including peristaltic-like waves and streaming along microtubule tracks.
 
-The vacuole in basidiomycetes serves multiple functions beyond its classical roles in storage and degradation: it acts as a conduit for long-distance transport of nutrients, it maintains turgor pressure, and it participates in sequestration and detoxification of harmful metabolites. The interconnected tubular vacuolar network effectively creates a low-resistance pathway through which solutes can traverse multiple hyphal compartments without repeatedly crossing plasma membranes.
+The vacuole in basidiomycetes serves multiple functions beyond its classical roles in storage and degradation: it acts as a conduit for long-distance transport of nutrients, it maintains [[bloomfield-turgor-pressure-and-hyphal-invasion]], and it participates in sequestration and detoxification of harmful metabolites. The interconnected tubular vacuolar network effectively creates a low-resistance pathway through which solutes can traverse multiple hyphal compartments without repeatedly crossing plasma membranes.
 
 ### FRAP and FLIP Techniques
 
@@ -60,7 +60,7 @@ Beyond these diffusion-limited distances, additional mechanisms must operate —
 
 ## Diffusion Versus Mass Flow Debate
 
-The relative contributions of diffusion and mass flow have been debated for decades in mycology. Mass flow, analogous to phloem transport in plants, would involve the generation of turgor pressure gradients along the mycelium to drive bulk fluid movement from source regions (where osmolytes are loaded) to sink regions (where osmolytes are unloaded). Evidence for mass flow includes the observation that translocation rates in cord-forming fungi are orders of magnitude faster than predicted by diffusion alone, and that translocation can occur against concentration gradients under certain conditions.
+The relative contributions of diffusion and mass flow have been debated for decades in mycology. Mass flow, analogous to [[xylem-and-phloem-transport-systems-in-plants]] in plants, would involve the generation of turgor pressure gradients along the mycelium to drive bulk fluid movement from source regions (where osmolytes are loaded) to sink regions (where osmolytes are unloaded). Evidence for mass flow includes the observation that translocation rates in cord-forming fungi are orders of magnitude faster than predicted by diffusion alone, and that translocation can occur against concentration gradients under certain conditions.
 
 The mass flow hypothesis is supported by measurements showing that water uptake and transpiration can create significant pressure differentials across mycelial networks, particularly in cords that bridge moist and dry substrates. Furthermore, the anatomical differentiation of cords into vessel-like conducting hyphae is consistent with a function in bulk flow.
 
@@ -111,10 +111,13 @@ Conversely, the speed and specificity of certain translocation responses — suc
 
 ## Related Concepts
 
-- [[fungal-nutrient-translocation-mycelial-systems]] — nutrient movement mechanisms across fungal systems
+- fungal-nutrient-translocation-mycelial-systems — nutrient movement mechanisms across fungal systems
 - [[dighton-fungal-nutrient-translocation-element-redistribution]] — element-level redistribution in ecosystems
 - [[fungal-woronin-bodies-and-septal-pore-organization]] — Woronin body function in compartmentalization
 
 ## References
 
 Bebber, D.P., Tlalka, M., Hynes, J., Darrah, P.R., Ashford, A., Watkinson, S.C., Boddy, L., & Fricker, M.D. (2007). Functional resource exploration by mycelial networks. In G.M. Gadd, S.C. Watkinson, & P.S. Dyer (Eds.), *Fungi in the Environment* (Chapter 1). Cambridge University Press.
+- [[decomposition]]
+- [[mycelial-networks]]
+- [[stropharia-caerulea]]

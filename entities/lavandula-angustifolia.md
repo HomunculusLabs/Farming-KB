@@ -13,7 +13,7 @@ updated: 2026-05-08
 sources:
   - Lis-Balchin, M. (2002). "Lavender: The Genus Lavandula." Taylor & Francis.
   - Upson, T.M. & Andrews, S. (2004). "The Genus Lavandula." Royal Botanic Gardens, Kew.
-  - Cavanagh, H.M.A. & Wilkinson, J.M. (2002). "Biological activities of lavender essential oil." Phytotherapy Research.
+  - Cavanagh, H.M.A. & Wilkinson, J.M. (2002). "Biological activities of lavender [[permaculture-designers-manual-essential-oil-plants]]." Phytotherapy Research.
   - European Medicines Agency (2013). "Assessment report on Lavandula angustifolia Mill." EMA/HMPC/5892/2009.
   - Prashar, A. et al. (2004). "Chemical composition of essential oil of Lavandula angustifolia." Phytotherapy Research.
 ---
@@ -24,7 +24,7 @@ sources:
 
 Native to the western Mediterranean, it is the most commercially important Lavandula species for essential oil production.
 
-Lavender essential oil is among the top-selling essential oils globally, valued in aromatherapy, cosmetics, pharmaceuticals, and food flavoring.
+Lavender essential oil is among the top-selling [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] globally, valued in aromatherapy, cosmetics, pharmaceuticals, and food flavoring.
 
 The species has been cultivated for over 2,500 years, used by Romans for bathing and by medieval monks in medicinal gardens.
 
@@ -56,7 +56,7 @@ Several cultivars exist, including 'Hidcote' (deep purple), 'Munstead' (blue-vio
 
 *L. angustifolia* is native to the mountainous regions of the western Mediterranean, including southern France, northern Italy, and eastern Spain.
 
-The species is naturalized across temperate Europe, the British Isles, North America, and parts of Australia.
+The species is naturalized across temperate Europe, the British Isles, [[psilocybin-north-america-pacific-northwest]], and parts of Australia.
 
 It grows naturally on dry, stony, calcareous soils at elevations of 300–1500 m.
 
@@ -106,17 +106,17 @@ Commercial propagation is primarily through semi-hardwood cuttings taken in late
 
 Seed-grown plants exhibit genetic variability in oil composition; cuttings ensure chemotype uniformity.
 
-Plants are spaced 30–40 cm apart in rows 1.0–1.5 m wide on well-drained raised beds.
+Plants are spaced 30–40 cm apart in rows 1.0–1.5 m wide on well-drained [[comparison-raised-beds-vs-hugelkultur]].
 
 Flower harvest occurs at full bloom when linalyl acetate content is highest, typically mid-summer.
 
 Yield of dried flowers ranges from 1–3 tonnes per hectare; essential oil yield is 10–25 kg/ha.
 
-Distillation is performed within 24 hours of harvest using steam distillation for 60–90 minutes.
+Distillation is performed within 24 hours of harvest using [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] for 60–90 minutes.
 
 Plants require replacement every 10–15 years as productivity declines with age.
 
-Lavender serves as an excellent pollinator plant, attracting bees, butterflies, and beneficial insects.
+Lavender serves as an excellent pollinator plant, attracting bees, butterflies, and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]].
 
 ## See Also
 

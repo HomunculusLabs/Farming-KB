@@ -1,5 +1,5 @@
 ---
-title: Reflective Materials for Grow Room Walls
+title: cervantes reflective materials grow room walls for cannabis-grow-room-setup Walls
 created: 2026-04-28
 tags:
   - cannabis
@@ -10,14 +10,15 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Reflective Materials for Grow Room Walls
 
 Covering grow room surfaces with reflective materials is one of the
-most cost-effective ways to increase light available to cannabis
+most cost-effective [[query-what-are-the-best-ways-to-increase-soil-organic-matter-quickly]] light available to cannabis
 plants. Jorge Cervantes evaluates common reflective materials and
 explains how proper wall treatment can increase effective HID lamp
 coverage by 10 to 20 percent.
@@ -90,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

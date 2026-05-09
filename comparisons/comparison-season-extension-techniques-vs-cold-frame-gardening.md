@@ -1,5 +1,5 @@
 ---
-title: "Season Extension Techniques vs Cold Frame Gardening"
+title: "Season season-extension-techniques vs Cold Frame Gardening"
 created: 2026-04-28
 tags: [comparison, season-extension, cold-frame, gardening, homesteading]
 date: 2026-04-25
@@ -14,7 +14,7 @@ type: comparison
 Season extension is a broad category of techniques that modify microclimates
 to extend the productive growing period, while cold frames are a single,
 specific structure within that toolkit. Understanding both helps growers
-choose the right protection level for their climate, space, and crop
+[[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] protection level for their climate, space, and crop
 requirements. The distinction matters because a grower who only knows about
 cold frames may overlook simpler or more scalable options, while a grower
 focused only on general techniques may never achieve the precision that a
@@ -24,7 +24,7 @@ dedicated cold frame provides.
 [[cold-frame-gardening]]
 A cold frame is a bottomless box with a transparent lid that captures solar
 energy to create a warm, protected microclimate. It provides 10 to 20 degrees
-F of frost protection and extends the growing season by 4 to 8 weeks in both
+F of [[holzer-frost-protection-techniques]] and extends the [[savory-growing-season-and-non-growing-season-management]] by 4 to 8 weeks in both
 spring and fall. Cold frames are the most basic, affordable, and accessible
 season extension structure available, making them an ideal entry point for new
 gardeners.
@@ -69,8 +69,8 @@ Growers managing larger areas or diverse crops benefit most from a multi-
 technique approach. A market farmer might use high tunnels for tomatoes, low
 tunnels for early brassicas, and row covers for insect exclusion on leafy
 greens. The ability to combine and layer methods provides fine-grained control
-over microclimates. Succession planting as part of a broader season extension
-strategy maximizes productivity from every square foot of growing space across
+over microclimates. [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] as part of a broader season extension
+strategy maximizes productivity from every square foot of [[cotter-growing-space-design-fruiting-rooms]] across
 the full calendar year. For homesteaders seeking self-sufficiency, combining
 season extension methods with preserved food stores ensures year-round food
 availability.

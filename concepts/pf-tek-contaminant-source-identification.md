@@ -25,7 +25,7 @@ If contamination appears in the control jars:
 
 - The sterilization technique needs to be checked
 - Most likely the sterilization time was too short
-- Lengthen the steam sterilization time and repeat
+- Lengthen the [[pf-tek-steam-sterilization-pot-method-common-pottery]] time and repeat
 - Check that the pot lid fits tightly and maintains a gentle boil
 
 If the control jars remain clean and unchanged:
@@ -42,9 +42,9 @@ When contamination appears after successful inoculation of properly sterilized j
 
 The spore syringe itself may carry contaminant organisms. This can occur from:
 
-- Improper syringe preparation using non sterile water or technique
+- Improper [[mushroom-spore-printing-syringe-preparation-pf-tek]] using non sterile water or technique
 - Syringe needle exposure to contaminated surfaces before or during use
-- Reusing a needle without flame sterilization between jars
+- Reusing a needle without [[flammability-hazard-alcohol-lysol-flame-sterilization-mycology]] between jars
 - Syringes that have been stored too long or at improper temperatures
 
 If multiple jars inoculated from the same syringe show similar contamination patterns at similar times, the syringe is the likely source.
@@ -92,12 +92,12 @@ While spore syringes can survive freezing, extreme low temperatures below freezi
 
 A distinctive pattern in PF TEK troubleshooting is growth that begins normally but then halts without any visible contamination. This is almost always caused by substrate that has dried out during the steam sterilization process. The diagnostic signs include:
 
-- Successful spore germination (white growth appears)
+- Successful [[growing-gourmet-spore-germination-strain-isolation]] (white growth appears)
 - Mycelium spreads for a period then stops
 - No colored contaminant growths appear
-- The halt point correlates with substrate moisture level
+- The halt point correlates with [[pf-tek-substrate-moisture-diagnosis-and-correction]] level
 
-The remedy is to increase the water content of the substrate formula. Different brands and grades of vermiculite hold different amounts of water, so the formula may need adjustment for the specific vermiculite being used.
+The remedy is to increase the water content of the [[pf-tek-measurement-calibration-and-substrate-formula-precision]]. Different brands and grades of vermiculite hold different amounts of water, so the formula may need adjustment for the specific vermiculite being used.
 
 ## Sterilization Time and Pot Lid Quality
 

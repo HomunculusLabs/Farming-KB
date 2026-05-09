@@ -1,5 +1,5 @@
 ---
-title: Ayahuasquero Practitioner Profiles and Ethics in the Ucayali Region
+title: Ayahuasquero ayahuasquero practitioner profiles ethics ucayali region and Ethics in the Ucayali Region
 source: stuart-r-ayahuasca-tourism.md
 tags: [ayahuasca, shaman, ayahuasquero, ethics, peru, ucayali, pucallpa, tourism]
 created: 2026-05-08
@@ -17,7 +17,7 @@ R. Stuart's firsthand observations during a visit to the Ucayali region in Novem
 
 ### Background and Practice
 
-Practitioner "B" was an elderly shaman based in Yarina, a town near Pucallpa. His son served as the director of the family's religious practice and was giving workshops in the United States at the time of observation. During the son's absence, "B" assumed leadership of the nightly ayahuasca ceremonies held in the ceremonial hut in his backyard.
+Practitioner "B" was an elderly shaman based in Yarina, a town near Pucallpa. His son served as the director of the family's religious practice and was giving workshops in the United States at the time of observation. During the son's absence, "B" assumed leadership of the nightly [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] held in the ceremonial hut in his backyard.
 
 These nightly ceremonies attracted up to a couple dozen visitors and served both local community members and foreign tourists. The ceremonial hut provided a dedicated space for regular practice, suggesting an established operation with a stable client base.
 
@@ -25,7 +25,7 @@ These nightly ceremonies attracted up to a couple dozen visitors and served both
 
 Despite his position as a ceremonial leader, "B" was described as a frequent liar and a shoplifter who regularly asked for money or gifts at every opportunity. These character traits — dishonesty and opportunism — stand in tension with the spiritual authority he claimed through his shamanic practice.
 
-The observation that "B" was a habitual liar raises questions about the authenticity of his ceremonial practice and the trustworthiness of any guidance he might offer during ceremonies. It also illustrates a fundamental challenge of ayahuasca tourism: the spiritual authority claimed by practitioners is largely self-assigned, and the tourist has limited means of verification.
+The observation that "B" was a habitual liar raises questions about the authenticity of his ceremonial practice and the trustworthiness of any guidance he might offer during ceremonies. It also illustrates a fundamental challenge of [[stuart-r-ayahuasca-tourism-cautionary-ethnography]]: the spiritual authority claimed by practitioners is largely self-assigned, and the tourist has limited means of verification.
 
 ### Training Context
 
@@ -39,7 +39,7 @@ In the Shipibo town of San Francisco — which proclaimed itself the "Centro Cer
 
 ### Practice Characteristics
 
-"E" was observed conducting private services for his family, singing icaros in the darkness of his home at night. This practice of holding private family ceremonies alongside any tourist services suggests that his ayahuasca practice was rooted in genuine community and family tradition rather than being exclusively oriented toward commercial exploitation.
+"E" was observed conducting private services for his family, [[metzner-shamanic-singing-icaros-rhythm-and-entrainment]] in the darkness of his home at night. This practice of holding private family ceremonies alongside any tourist services suggests that his ayahuasca practice was rooted in genuine community and family tradition rather than being exclusively oriented toward commercial exploitation.
 
 His pricing was relatively modest — about ten dollars to give ayahuasca to a tourist — compared to the thirty dollars charged by some other practitioners in the region. This lower price point, combined with his reputation for honor, suggests a practitioner whose primary commitment was to the ceremonial tradition rather than to maximizing revenue.
 
@@ -93,7 +93,7 @@ The variation in practitioner ethics and competence has several implications for
 
 ## Training and Knowledge Transmission
 
-The presence of visiting ayahuasqueros at "B's" compound for two-week training sessions reveals something about how shamanic knowledge is transmitted in the contemporary tourism context. Traditional apprenticeship in Amazonian shamanism typically involved years of intensive study under a master practitioner, including extended periods of dieting with plant medicines, learning icaros, and developing diagnostic and healing abilities.
+The presence of visiting ayahuasqueros at "B's" compound for two-week training sessions reveals something about how shamanic knowledge is transmitted in the contemporary tourism context. Traditional apprenticeship in [[mckenna-food-gods-amazonian-shamanism-ayahuasca]] typically involved years of intensive study under a master practitioner, including extended periods of dieting with plant medicines, learning icaros, and developing diagnostic and healing abilities.
 
 The two-week training format described in the observations represents a compressed, modernized version of this traditional educational model. While such short courses can provide an introduction to ceremonial techniques, they cannot replicate the depth of knowledge and experience that traditional apprenticeship provides. Practitioners trained through abbreviated courses may lack the comprehensive understanding of plant medicine that would enable them to respond appropriately to unusual or challenging situations during ceremonies.
 
@@ -103,7 +103,7 @@ This training compression has implications for tourist safety and experience qua
 
 One of the most common questions among prospective ayahuasca tourists is: "How do I find a good ayahuasquero?" The observations from the Ucayali region suggest that this question has no simple answer. The variation in practitioner character is wide, and the signals that might help a tourist identify a quality practitioner — reputation, community standing, price, facility quality — can all be misleading.
 
-Community reputation, while valuable, is not always accessible to tourists who do not speak the local language or have connections within the community. Price is an unreliable indicator, as both the honorable "E" (charging ten dollars) and the dishonest "A" operated within the same general price range. Facility quality may reflect investment in tourism infrastructure rather than genuine shamanic competence.
+Community reputation, while valuable, is not always accessible to tourists who do not speak the local language or have connections within the community. Price is an unreliable indicator, as both the honorable "E" (charging ten dollars) and the dishonest "A" operated within the same general price range. Facility quality may reflect investment in [[ayahuasca-tourism-infrastructure-peruvian-amazon]] rather than genuine shamanic competence.
 
 The most reliable approach appears to be extended personal observation — spending time in the community, speaking with multiple practitioners and previous participants, and gradually building enough context to make an informed judgment. However, this approach requires time and cultural fluency that most tourists do not possess, creating a fundamental tension between the desire for an authentic experience and the practical constraints of travel.
 

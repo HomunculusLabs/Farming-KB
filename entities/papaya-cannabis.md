@@ -1,5 +1,5 @@
 ---
-title: Papaya (Cannabis Strain)
+title: Papaya (blesching-cannabis-strain-selection-receptor-targeting)
 created: 2026-04-28
 type: strain
 tags:
@@ -26,7 +26,7 @@ sources:
 
 ### Parent Strains
 
-- **Citral #13:** An indica-dominant strain known for its strong citrus and tropical aroma. Pakistani and Afghani landrace ancestry provides the dominant flavor characteristics, resin production, and physical sedation traits.
+- **Citral #13:** An indica-dominant strain known for its strong citrus and tropical aroma. Pakistani and Afghani landrace ancestry provides the dominant flavor characteristics, [[cannabis-glandular-trichome-types-resin-production-clarke]], and physical sedation traits.
 - **Ice #2:** A hybrid selected for high trichome production and frosty appearance. Contributes increased potency, resin yield, and a subtle sweetness that rounds out Citral #13's sharp citrus notes. The "Ice" lineage also adds structural vigor and disease resistance.
 
 **Genetic ratio:** Approximately 75% indica / 25% sativa, clearly expressed in plant morphology, flowering time, and effects profile.
@@ -56,7 +56,7 @@ Smooth, sweet smoke with prominent tropical fruit on inhalation — ripe papaya 
 
 ## Medicinal Applications
 
-- **Chronic pain:** Effective analgesic for musculoskeletal, neuropathic, and inflammatory pain conditions
+- **[[cannabis-chronic-pain-management]]:** Effective analgesic for musculoskeletal, neuropathic, and inflammatory pain conditions
 - **Insomnia:** Sedative properties make it useful as a sleep aid (consume 1–2 hours before bed)
 - **Anxiety and stress:** Calming effects help reduce generalized anxiety and stress-related symptoms
 - **Appetite loss:** Strong stimulation benefits patients with nausea, medication-induced suppression, or eating disorders
@@ -89,7 +89,7 @@ Several distinct phenotypes of Papaya circulate among growers, showing variation
 
 - **Color expression:** Some phenotypes develop deep purple hues in cooler nighttime temperatures (below 15°C), particularly in the last 2–3 weeks of flowering. This anthocyanin production is aesthetic and does not significantly affect potency or flavor.
 - **Trichome density:** Select phenotypes produce exceptionally heavy resin coverage, visible as a thick frosty layer. These are often preferred for concentrate production (hash, rosin, BHO).
-- **Growth structure:** Some cuts are more compact and squat, while others stretch slightly more during early flowering. The more compact phenotypes are generally preferred for indoor cultivation with limited headroom.
+- **Growth structure:** Some cuts are more compact and squat, while others stretch slightly more during early flowering. The more compact phenotypes are generally preferred for [[cannabis-sativa-indoor-cultivation-techniques]] with limited headroom.
 - **Terpene expression:** While all Papaya phenotypes share the core tropical fruit character, the relative proportions of myrcene, caryophyllene, and limonene vary, producing subtle differences in flavor between cuts.
 
 ## Comparison with Similar Strains
@@ -117,7 +117,7 @@ The heavy resin production of Papaya makes it a popular choice for extract produ
 
 ## Availability
 
-Seeds available from several established seed banks including Nirvana Seeds (original breeder) and others. Popular in legal cannabis markets across North America and Europe — California, Colorado, Oregon, Canada, Netherlands, Spain. The strain has also appeared in various crossbreeds, with Papaya used as a flavor-contributing parent in new hybrids.
+Seeds available from several established [[cannabis-seed-banks-and-genetics]] including Nirvana Seeds (original breeder) and others. Popular in legal cannabis markets across [[psilocybin-north-america-pacific-northwest]] and Europe — California, Colorado, Oregon, Canada, Netherlands, Spain. The strain has also appeared in various crossbreeds, with Papaya used as a flavor-contributing parent in new hybrids.
 
 ## See Also
 

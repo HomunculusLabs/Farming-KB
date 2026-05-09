@@ -12,7 +12,7 @@ type: concept
 # Mushroom-Induced Apoptosis Mechanisms in Cancer Cells
 
 Apoptosis, or programmed cell death, is a critical mechanism through
-which several medicinal mushroom compounds exert their anticancer
+which several [[gourmet-medicinal-mushroom-casing-layer-techniques]] compounds exert their anticancer
 effects. Unlike necrosis, apoptosis does not result in inflammation and
 is characterised by cell shrinkage, chromatin condensation, DNA
 fragmentation, membrane blebbing and formation of apoptotic bodies which
@@ -26,7 +26,7 @@ properties.
 Maitake D-fraction (GD, Grifron-D), a purified beta-glucan from
 [[ganoderma-lucidum]]
 
-Ganoderma lucidum extracts have been shown to induce apoptosis in
+[[stamets-reishi-ganoderma-lucidum-cultivation]] extracts have been shown to induce apoptosis in
 leukaemic cell lines through multiple interconnected mechanisms:
 
 - CR3 receptors on human macrophages bind beta-D-glucans and become
@@ -58,7 +58,8 @@ reducing radiation-related side effects.
 ## Apoptosis via [[cancer-medicinal-mushrooms-maitake-d-fraction]]
 - [[cancer-medicinal-mushrooms-turkey-tail-psk-and-psp]]
 - [[mushroom-immune-cell-activation-mechanisms]]
-- cancer medicinal mushrooms apoptosis mechanisms
+- cancer [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] apoptosis mechanisms
+
 ## Practical Considerations
 
 Successful implementation of Mushroom-Induced Apoptosis Mechanisms in Cancer Cells requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

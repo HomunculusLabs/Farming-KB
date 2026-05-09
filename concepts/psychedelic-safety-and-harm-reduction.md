@@ -9,7 +9,7 @@ sources:
 ---
 # Psychedelic Safety and Harm Reduction
 
-Throughout most of history, natural psychedelics have been considered gifts of the Gods, associated with healing of body, mind, and soul. Problems from psychedelic use are rare when proper precautions are observed. DM Turner's Essential Psychedelics Guide provides a comprehensive safety framework.
+Throughout most of history, natural psychedelics have been considered gifts of the Gods, associated with healing of body, mind, and soul. Problems from psychedelic use are rare when proper precautions are observed. DM Turner's [[turner-essential-psychedelics-5-meo-dmt-void-experience]] Guide provides a comprehensive safety framework.
 
 ## Historical Context
 
@@ -42,7 +42,7 @@ Contrary to popular belief, many psychedelic scare stories from the 1960s-70s we
 ### Driving and Activity Warnings
 - While high, it is dangerous to drive, fly a plane, or operate machinery
 - At large doses, users may have difficulty recalling their name; the world undergoes massive changes each moment
-- The psychedelic experience is not compatible with split-second decisions required while driving
+- The [[leary-psychedelic-experience-bardo-mapping]] is not compatible with split-second decisions required while driving
 - Smaller doses produce similar but milder changes in consciousness
 - Have a designated driver, take a cab, or stay put
 
@@ -78,7 +78,7 @@ The "recreational" use of smaller amounts in social settings (raves, concerts, p
 Psychedelics can "reimprint the mind" — they dissolve identity and perceptual framework ("ego death"), then the user reassembles a new (hopefully improved) personality. This powerful process underscores why careful [[psychedelic-integration-guide]] are essential.
 
 ### Long-Term Mental Effects
-- Turner has never heard of anyone experiencing long-term adverse effects through natural psychedelics (mushrooms, mescaline cacti) — users seem to "take it in stride and come back to center"
+- Turner has never heard of anyone experiencing long-term [[blesching-cannabis-safety-adverse-effects-evidence]] through natural psychedelics (mushrooms, [[trichocereus-mescaline-cacti-san-pedro-peruvian-torch-halpern]]) — users seem to "take it in stride and come back to center"
 - People with schizophrenia or mental disorders beyond common neurosis should exercise extreme caution
 
 ### Integration
@@ -90,7 +90,7 @@ Psychedelics can "reimprint the mind" — they dissolve identity and perceptual 
 
 - Personal or family history of psychosis or schizophrenia
 - Current use of certain medications (especially [[mao-inhibitors-and-psychedelics]] — MAOI interactions
-- [[hallucinogenic-mushroom-health-risks-and-harm-reduction]] — mushroom-specific safety
+- hallucinogenic-mushroom-health-risks-and-harm-reduction — mushroom-specific safety
 - [[psychedelic-harm-reduction-guide]] — comprehensive harm reduction
 - [[psychedelic-dose-response]] — dose-response relationships
 - [[dmt-dimethyltryptamine-experience-guide]] — DMT experience guide
@@ -103,7 +103,7 @@ An Australian physician suggested that the general public and the drug-using sub
 
 A survey conducted in Southern Queensland during 1969 relied on interviews with 51 people belonging to the "surfer subculture at local beach resorts." The physician reported that use of psychoactive mushrooms, along with 21 other drugs, "was well demonstrated" during this survey. While the survey involved surfers and their friends, the physician noted there was no suggestion that use was confined to this group, which constituted only a proportion of Australia's young drug-taking community.
 
-Word-of-mouth communication thus made a significant contribution to the increasing use of "magic mushrooms" in both Australia and New Zealand. Information about mushroom locations, identification, and effects spread through informal networks that paralleled traditional ethnomycological knowledge transmission.
+Word-of-mouth communication thus made a significant contribution to the increasing use of "[[guzman-magic-mushrooms-african-species]]" in both Australia and New Zealand. Information about mushroom locations, identification, and effects spread through informal networks that paralleled traditional ethnomycological knowledge transmission.
 
 ## The Role of the Popular Press
 
@@ -111,7 +111,7 @@ Many early users of psychoactive mushrooms in Australia became aware of their mi
 
 One 1972 newspaper report from Brisbane provided an account that functioned as a de facto foraging guide: "Children at a suburban school are getting high on mushrooms called 'Gold Tops.' The mushrooms are common along the Brisbane River near Toowing High School, and children in search of 'kicks' have been experimenting with them."
 
-As Allen observed, it would be obvious to anyone reading such a report that those searching for hallucinogenic mushrooms would be able to find them if they so desired. The media thus played an unintentional but significant role in promoting mushroom use by publishing specific location information.
+As Allen observed, it would be obvious to anyone reading such a report that those searching for [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] would be able to find them if they so desired. The media thus played an unintentional but significant role in promoting mushroom use by publishing specific location information.
 
 ## The Wasson Effect
 

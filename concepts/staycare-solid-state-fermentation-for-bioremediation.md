@@ -20,7 +20,7 @@ Solid-state fermentation (SSF) is a process in which microorganisms grow on mois
 | Amylases | Starch hydrolysis | A. oryzae, A. foetidus |
 | Pectinases | Pectin degradation | A. niger (4-6x higher in SSF than submerged) |
 
-**Pectinase example**: A. niger pectinesterase and polygalacturonase production were 4 and 6 times higher, respectively, in SSF than submerged fermentation, requiring shorter production time (Maldonado & Strasser de Saad, 1998).
+**Pectinase example**: A. niger pectinesterase and polygalacturonase production were 4 and 6 times higher, respectively, in SSF than [[cancer-medicinal-mushrooms-submerged-fermentation-production]], requiring shorter production time (Maldonado & Strasser de Saad, 1998).
 
 ### Lignin-Degrading Enzyme Production
 
@@ -29,7 +29,7 @@ White rot fungi on lignocellulosic substrates under SSF produce oxidative enzyme
 | Fungal Group | Species | Enzymes Produced | SSF Applications |
 |-------------|---------|-----------------|------------------|
 | White rot fungi | Phanerochaete, Phlebia, Trametes, Pleurotus, Ceriporiopsis | LiP, MnP, laccase | Animal feed, enzyme production, bioremediation |
-| Edible mushrooms | [[pleurotus-eryngii]] under SSF**: Secretes five peroxidases (two in liquid media, three during lignin degradation under SSF) that efficiently oxidize Mn²⁺ to Mn³⁺ but differ from P. chrysosporium MnP in their manganese-independent activity on aromatic substrates (Martinez et al., 1996).
+| [[palmer-edible-mushrooms-north-america]] | [[pleurotus-eryngii]] under SSF**: Secretes five peroxidases (two in liquid media, three during [[query-how-does-lignin-degradation-by-fungi-work]] under SSF) that efficiently oxidize Mn²⁺ to Mn³⁺ but differ from P. chrysosporium MnP in their manganese-independent activity on aromatic substrates (Martinez et al., 1996).
 
 ## Substrates for SSF Bioremediation
 
@@ -47,12 +47,12 @@ White rot fungi degrade ALL major components of wood and are the main agents of 
 
 For in situ bioremediation, SSF on straw or wood chips serves as:
 - **Growth substrate**: Supports fungal biomass production
-- **Enzyme production platform**: Fungi produce ligninolytic enzymes on the lignocellulosic substrate
+- **Enzyme production platform**: Fungi produce [[singh-ligninolytic-enzymes-fungal-bioremediation]] on the lignocellulosic substrate
 - **Physical matrix**: Provides structure for contaminated soil contact
 - **Nutrient source**: Contains carbon, nitrogen, and mineral nutrients
 - **Moisture retention**: Helps maintain appropriate water activity
 
-This approach is considered one of the most promising for scaling up fungal bioremediation (see [[staycare-laccase-enzymes-in-bioremediation]]
+This approach is considered one of the most promising for scaling up [[staycare-composting-as-a-fungal-bioremediation-strategy]] (see [[staycare-laccase-enzymes-in-bioremediation]]
 - [[staycare-scale-up-challenges-in-fungal-bioremediation]]
 - [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]]
 ## Practical Considerations
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: Baby Leaf Salad Mix Quality Standards and Composition
+title: Baby Leaf coleman salad mix quality standards aact-compost-quality-standards-ingham and Composition
 tags:
   - farming
   - winter-harvest
@@ -7,7 +7,7 @@ tags:
   - quality-standards
   - mesclun
   - organic-farming
-  - eliot-coleman
+  - [[eliot-coleman]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -18,7 +18,7 @@ type: concept
 
 # Baby Leaf Salad Mix Quality Standards and Composition
 
-Baby-leaf salad mix (mesclun) is the signature crop of the winter harvest system. [[coleman-salad-and-braising-mix-production]]), rather than being incorporated into the raw salad. This separation allows each product to serve its best culinary purpose and each group of greens to reach its peak quality for its intended use.
+Baby-leaf salad mix (mesclun) is the signature crop of the [[coleman-claytonia-winter-harvest-cultivation]] system. [[coleman-salad-and-braising-mix-production]]), rather than being incorporated into the raw salad. This separation allows each product to serve its best culinary purpose and each group of greens to reach its peak quality for its intended use.
 
 ## Leaf Size Standards
 
@@ -56,7 +56,7 @@ The most extreme variations included one mix that was fifty percent claytonia an
 The cool conditions of winter greenhouses benefit salad quality in several ways that cannot be replicated in warm-season production:
 
 - Arugula and watercress remain mild and peppery rather than becoming overly strong and biting
-- Lettuce stays tender and sweet rather than developing bitterness from heat stress
+- Lettuce stays tender and sweet rather than developing bitterness from [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]]
 - The deep red color of 'Bull's Blood' beet leaves intensifies under cold stress
 - All ingredients maintain the delicate textures expected of baby leaves
 - Leaves grow more slowly, producing denser, more flavorful foliage
@@ -67,7 +67,7 @@ Coleman states that quality should be the primary concern of any baby-leaf salad
 
 ## The Stir-Fry Pak Innovation
 
-One winter, the farm created a value-added product called the "Stir-Fry Pak," a 10-by-15-inch cellophane bag containing whole ingredients: a head of 'Mei Qing Choi' pak choi, a head of young tatsoi, one 'Shunkyo' semi-long pink radish, one 'Hakurei' turnip with greens, one 'Tadorna' extra-hardy leek, and a large carrot. The contrasting colors and shapes of root, stem, and leaf made it visually appealing, and the convenience of having all stir-fry ingredients in one bag made it a market success. The trial plantings sold out by mid-December before the mature leafy greens received a true cold-weather testing.
+One winter, the farm created a value-added product called the "Stir-Fry Pak," a 10-by-15-inch cellophane bag containing whole ingredients: a head of 'Mei Qing Choi' pak choi, a head of young tatsoi, one 'Shunkyo' semi-long pink radish, one 'Hakurei' turnip with greens, one 'Tadorna' extra-hardy leek, and a large carrot. The contrasting colors and shapes of root, stem, and leaf made it visually appealing, and the convenience of having all stir-fry ingredients in one bag made it a market success. The trial plantings sold out by mid-December before the mature [[solomon-leafy-greens-growing]] received a true cold-weather testing.
 
 The known cold-hardiness of tatsoi, leeks, and carrots confirmed that the concept had real potential for midwinter sales. The 'Shunkyo' radish and 'Hakurei' turnip required further testing but showed promise in the cool conditions of the cold house.
 
@@ -93,7 +93,7 @@ The February 15 salad trial also included sweet inner leaves from a September 1 
 
 Swiss chard had been a difficult crop to sell in traditional form because of its large chewy leaves and long thick stems. The solution was to harvest only young, tender leaves no bigger than a hand, without stems, using succession plantings of Fordhook chard. Four consecutive cuts were possible before the leaf texture began to toughen.
 
-The product was renamed "butter chard" and within two weeks of introduction, half the restaurants receiving it had added a "butter chard" salad to their menus. This example illustrates the power of imaginative marketing to transform the perceived value of a crop through presentation, naming, and proper harvest timing.
+The product was renamed "butter chard" and within two weeks of introduction, half the restaurants receiving it had added a "butter chard" salad to their menus. This example illustrates the power of imaginative marketing to transform the perceived value of a crop through presentation, naming, and proper [[cannabis-harvest-timing-visual-cues]].
 
 ## Continuous Improvement Process
 
@@ -109,6 +109,8 @@ The salad mix program is never considered finished. Ongoing activities include:
 This commitment to continuous improvement reflects the broader philosophy that the winter harvest has endless potential and that growers are barely scratching the surface of what year-round protected cultivation can supply.
 
 ## See Also
+
+- [[coleman-baby-leaf-salad-mix-quality-standards]]
 
 - [[coleman-winter-greens-variety-selection]]
 

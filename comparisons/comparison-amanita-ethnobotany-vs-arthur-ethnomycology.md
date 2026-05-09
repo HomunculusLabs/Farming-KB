@@ -1,5 +1,5 @@
 ---
-title: Amanita Muscaria Ethnobotany vs Arthur: Mushrooms and Mankind
+title: allegro-amanita-muscaria-properties-and-pharmacology comparison amanita ethnobotany vs arthur ethnomycology: arthur-mushrooms-and-mankind-ethnomycology-and-religion
 created: 2026-04-28
 tags:
   - amanita-muscaria
@@ -37,7 +37,7 @@ ethnographers from the eighteenth century onward, providing a robust evidential
 foundation.
 Key practices include the well-attested phenomenon of urine recycling — consuming
 the urine of someone who has already ingested the mushroom to receive refined
-muscimol without the gastrointestinal distress caused by ibotenic acid. This
+muscimol without the gastrointestinal distress caused by [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]]. This
 practice is documented across multiple Siberian cultures and represents a
 sophisticated pharmacological understanding achieved without modern chemistry.
 Practitioners also consistently report the sensation of flying during
@@ -58,7 +58,7 @@ muscaria*, and suggests the mushroom may have contributed to their development.
 But it stops short of claiming the mushroom is the sole or primary origin of any
 widely distributed myth.
 Arthur reads virtually every recurring mythological motif as a mushroom reference.
-The Holy Grail is the cup that holds the mushroom; the Feathered Serpent is its
+The Holy Grail is the cup that holds the mushroom; the [[amanita-muscaria-feathered-serpent-phoenix]] is its
 emergence from the universal veil; the Cosmic Egg is the immature fruiting body;
 the Phoenix is the mushroom rising from the ashes of fire-based preparation. Each
 identification draws on genuine visual parallels, and each can be defended
@@ -70,7 +70,7 @@ The distinction between these works illuminates the broader contrast between
 [[comparison-ethnobotany-vs-ethnomycology]] as intellectual traditions.
 Ethnobotany proceeds by documenting plant-human relationships through verified
 ethnographic and historical evidence. Its claims are bounded by what can be
-substantiated through cross-cultural comparison, chemical analysis, and
+substantiated through cross-cultural comparison, [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]], and
 linguistic reconstruction. When evidence for a connection is suggestive but
 inconclusive, this uncertainty is explicitly acknowledged. The discipline values
 precision over ambition and prefers an honest gap to a speculative bridge.

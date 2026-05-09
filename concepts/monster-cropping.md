@@ -3,6 +3,7 @@ title: Monster-Cropping
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
@@ -11,7 +12,7 @@ tags: [reference]
 
 # Monster-Cropping
 
-Monster-cropping is a cannabis cultivation technique that involves taking clones from a flowering female plant and reverting them to vegetative growth. The re-vegged clones exhibit extreme branching and bushy growth patterns, producing unusually large, multi-cola plants. The technique is sometimes called "monster cropping" because the resulting plants grow into massive, heavily branched specimens. While the specific term "monster-cropping" does not appear in Cervantes' text, he provides detailed coverage of all the underlying principles and techniques that comprise this method.
+Monster-cropping is a [[query-how-does-no-till-cannabis-cultivation-work]] technique that involves taking clones from a flowering female plant and reverting them to [[cannabis-vegetative-growth-stage]]. The re-vegged clones exhibit extreme branching and bushy growth patterns, producing unusually large, multi-cola plants. The technique is sometimes called "[[query-what-is-monster-cropping-and-should-i-try-it]]" because the resulting plants grow into massive, heavily branched specimens. While the specific term "monster-cropping" does not appear in Cervantes' text, he provides detailed coverage of all the underlying principles and techniques that comprise this method.
 
 ## Core Concept
 
@@ -113,4 +114,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

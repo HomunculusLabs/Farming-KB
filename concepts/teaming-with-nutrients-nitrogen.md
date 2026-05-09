@@ -17,7 +17,7 @@ Nitrogen (N) is arguably the most important mineral nutrient for plant growth. M
 
 **Protein building:** Nitrogen is the backbone of [[photosynthesis-and-chloroplast-function]]. A lack of nitrogen means less green pigment — which is why nitrogen deficiency causes yellowing of leaves.
 
-**Membrane function:** Proteins in cellular membranes act as channels, carriers, and motors necessary for water and nutrient transport. These proteins require nitrogen for their structure.
+**Membrane function:** Proteins in cellular membranes act as channels, carriers, and motors necessary for water and [[mycelial-network-nutrient-transport-imaging-gadd]]. These proteins require nitrogen for their structure.
 
 ## Mobility and Deficiency Symptoms
 
@@ -25,7 +25,7 @@ Nitrogen remains mobile inside plants, meaning it can be transported to where it
 
 ## Nitrogen and Soil pH
 
-Nitrogen also has a great influence on the [[fungal-keratin-decomposition-processes]] provides over half a billion tons of artificial fertilizers annually, requiring 5 percent of global natural gas production and sustaining more than a third of world food production.
+Nitrogen also has a great influence on the fungal-keratin-decomposition-processes provides over half a billion tons of artificial fertilizers annually, requiring 5 percent of global natural gas production and sustaining more than a third of world food production.
 
 ## Biological Nitrogen Fixation
 
@@ -36,9 +36,9 @@ Frankia (actinomycetes) associate with actinorhizal plants including alders, bay
 ## Denitrification Losses
 
 When soil becomes anaerobic, certain microbes use nitrogen compounds as their energy source, converting nitrates back to atmospheric nitrogen gas (N2) or nitrous oxide (N2O). This denitrification represents a significant nitrogen loss for gardeners. Poorly aerated, compacted, or waterlogged soils are particularly susceptible. Maintaining good [[permaculture-plants-nitrogen-fixing-trees]] as cover crops or companion plants
-- Applying nitrogen-rich organic amendments (blood meal, fish emulsion, alfalfa meal)
+- Applying nitrogen-rich [[cervantes-organic-amendments-chart]] (blood meal, fish emulsion, alfalfa meal)
 - Maintaining aerobic soil conditions to prevent denitrification losses
-- Using [[ozier-pdc-composting-and-soil-building]], where much of it is brought to plants by mycorrhizal fungi. Gardeners can collect nodules from established legumes, open them, and roll seeds in the pink material to inoculate new plantings.
+- Using [[ozier-pdc-composting-and-soil-building]], where much of it is brought to plants by [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]. Gardeners can collect nodules from established legumes, open them, and roll seeds in the pink material to inoculate new plantings.
 
 Source: Teaming with Nutrients (Lowenfels), Chapter 4
 
@@ -54,7 +54,7 @@ Phosphorus (P) is one of the three primary macronutrients (alongside nitrogen an
 
 **DNA and RNA:** Phosphorus is a structural component of the nucleotide molecules that store and translate the genetic code — the same role as nitrogen in these molecules.
 
-**Energy currency (ATP):** Phosphorus is the base of adenosine triphosphate (ATP), the universal energy molecule. There are two bonds between the three phosphorus atoms in ATP. The bonds contain lots of energy, which is released when they are broken. Plant cells have enzymes that split off phosphorus from ATP molecules and rebind them onto its precursor molecule, adenosine diphosphate (ADP). Breaking these phosphorus bonds produces energy, and making these bonds stores it. Without phosphorus, there is no energy to sustain growth. Stunted growth is the classic sign of phosphorus deficiency.
+**Energy currency (ATP):** Phosphorus is the base of adenosine triphosphate (ATP), the universal energy molecule. There are two bonds between the three phosphorus atoms in ATP. The bonds contain lots of energy, which is released when they are broken. Plant cells have enzymes that split off phosphorus from ATP molecules and rebind them onto its precursor molecule, adenosine diphosphate (ADP). Breaking these phosphorus bonds produces energy, and making these bonds stores it. Without phosphorus, there is no energy to sustain growth. Stunted growth is the classic sign of [[query-how-to-fix-phosphorus-deficiency-in-cannabis]].
 
 **Cell membranes:** Phosphorus is a major component of phospholipids, which form cell membranes. It is a key element in the cellular gate-keeping system, absolutely necessary to build and maintain the integrity of every plant cell.
 
@@ -81,4 +81,4 @@ Because phosphorus becomes tied up in the soil, tremendous amounts are applied t
 
 ## Phosphorus and Soil pH
 
-Phosphorus availability is particularly sensitive to soil-ph-management|soil pH. When the pH gets below 6, phosphorus in the form HPO4-2 becomes much less available because at lower pH this anion bonds more strongly to the cations of iron and aluminum. It is fixed, meaning it is not usable by plants. On the other side, if the pH gets above 7, too much becomes fixed by reacting with calcium and forming calcium phosphate, rendering phosphorus increasingly unavailable.
+[[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] is particularly sensitive to soil-ph-management|soil pH. When the pH gets below 6, phosphorus in the form HPO4-2 becomes much less available because at lower pH this anion bonds more strongly to the cations of iron and aluminum. It is fixed, meaning it is not usable by plants. On the other side, if the pH gets above 7, too much becomes fixed by reacting with calcium and forming [[bionutrients-lab-calcium-phosphate-calamansi]], rendering phosphorus increasingly unavailable.

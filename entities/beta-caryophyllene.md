@@ -34,7 +34,7 @@ sources:
 
 ## Overview
 
-β-Caryophyllene (BCP) is a bicyclic sesquiterpene found in the essential oils of numerous plants, most notably black pepper (*[[syzygium-aromaticum]]*), cinnamon (*Cinnamomum* spp.), rosemary (*[[humulus-lupulus]]*), and cannabis (*[[beta-caryophyllene-dietary-cannabinoid]]
+β-Caryophyllene (BCP) is a bicyclic sesquiterpene found in the [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] of numerous plants, most notably [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]] (*[[syzygium-aromaticum]]*), cinnamon (*Cinnamomum* spp.), rosemary (*[[humulus-lupulus]]*), and cannabis (*[[beta-caryophyllene-dietary-cannabinoid]]
 - [[cannabis-terpene-profiles]]
 ## Practical Applications
 
@@ -114,3 +114,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[guaiene]]

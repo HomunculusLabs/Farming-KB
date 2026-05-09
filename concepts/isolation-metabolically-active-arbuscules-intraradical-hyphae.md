@@ -1,5 +1,5 @@
 ---
-title: Isolation of Metabolically Active Arbuscules and Intraradical Hyphae
+title: Isolation of isolation metabolically active arbuscules intraradical hyphae Arbuscules and arbuscule-intraradical-hyphae-isolation-mycorrhizal-roots
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -11,11 +11,11 @@ sources: []
 
 ## Overview
 
-The isolation of arbuscules from host tissue and examination of their biochemical activities are required to clarify the mechanisms of nutrient exchange in the arbuscular mycorrhizal symbiotic system. Since arbuscules cannot be independently cultured in vitro, their isolation from host tissue is essential for studying phosphorus and carbon exchange at the arbuscular interface.
+The isolation of arbuscules from host tissue and examination of their biochemical activities are required to clarify the mechanisms of [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] in the [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] symbiotic system. Since arbuscules cannot be independently cultured in vitro, their isolation from host tissue is essential for studying phosphorus and carbon exchange at the arbuscular interface.
 
 ## Historical Development
 
-Early methods (Capaccio and Callow 1982; Smith et al. 1985; Hepper et al. 1986) used enzymic digestion of root tissue with cellulase and pectinase followed by hand-sorting of hyphae under a dissecting microscope. These were laborious, and enzymic digestion for more than 12 hours reduced the metabolic activity of hyphae as evaluated by succinate dehydrogenase (SDH) staining (McGee and Smith 1990).
+Early methods (Capaccio and Callow 1982; Smith et al. 1985; Hepper et al. 1986) used enzymic digestion of root tissue with cellulase and pectinase followed by hand-sorting of hyphae under a dissecting microscope. These were laborious, and enzymic digestion for more than 12 hours reduced the [[arbuscule-isolation-metabolic-activity-assays]] of hyphae as evaluated by succinate dehydrogenase (SDH) staining (McGee and Smith 1990).
 
 Saito (1995) improved this by reducing digestion to 1-2 hours, preserving SDH activity and allowing collection of intraradical hyphae nearly free from plant debris via Percoll gradient centrifugation.
 
@@ -72,7 +72,7 @@ The isolation of metabolically active arbuscules enables:
 - Direct biochemical investigation of nutrient (phosphorus and carbon) exchange at the arbuscular interface
 - Measurement of enzyme activities specific to fungal vs. plant contributions
 - Assessment of how isolation procedures affect arbuscule viability
-- Future research into the molecular mechanisms of mycorrhizal nutrient transfer
+- Future research into the molecular mechanisms of [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] transfer
 
 ## Related Topics
 

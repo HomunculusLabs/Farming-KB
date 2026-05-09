@@ -11,7 +11,7 @@ type: concept
 
 # Predator-Prey Relationships and Herding Behavior
 
-In [[savory-brittle-environments]]. Savory argues that
+In . Savory argues that
 the removal of predators from ecosystems has been a primary driver of
 desertification, as it eliminated the natural soil disturbance that herding
 animals once provided under threat of predation.

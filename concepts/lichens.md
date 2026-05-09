@@ -72,7 +72,7 @@ The traditional view of lichens as "mutualism" (both partners benefit) has been 
 
 Layers from top to bottom:
 
-1. **Upper cortex**: Dense layer of tightly packed fungal hyphae. Protective, often pigmented. May contain crystals of secondary metabolites
+1. **Upper cortex**: Dense layer of tightly packed fungal hyphae. Protective, often pigmented. May contain crystals of [[antifungal-secondary-metabolites-coprophilous-fungi]]
 2. **Algal/photobiont layer**: The photobiont cells are arranged in a distinct zone just below the upper cortex, where they receive filtered light
 3. **Medulla**: Loosely woven fungal hyphae. Functions in gas exchange, water storage, and structural support. The thickest layer
 4. **Lower cortex**: Dense hyphal layer on the underside (absent in fruticose lichens). May have rhizines for attachment
@@ -91,7 +91,7 @@ Layers from top to bottom:
 Lichens are often the first organisms to colonize bare rock, soil, or disturbed surfaces:
 
 - **Rock weathering**: Lichen acids (oxalic acid, usnic acid) slowly dissolve rock minerals, contributing to soil formation over centuries
-- **Nitrogen fixation**: Cyanobacterial lichens convert atmospheric N2 into bioavailable forms, fertilizing the developing ecosystem
+- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]**: Cyanobacterial lichens convert atmospheric N2 into bioavailable forms, fertilizing the developing ecosystem
 - **Soil stabilization**: Crustose lichens bind soil particles, reducing erosion
 - **Succession**: Lichens create conditions that allow mosses and eventually vascular plants to establish
 
@@ -109,7 +109,7 @@ Lichens are among the most sensitive biological indicators of air quality:
 - **Sensitive species**: Usnea, Lobaria, Evernia — disappear in polluted areas
 - **Tolerant species**: Xanthoria, Candelariella, Physcia — thrive in polluted urban areas
 - **Pollution effects**: Sulfur dioxide, nitrogen oxides, ozone, and heavy metals damage or kill sensitive lichens
-- **Lichen biomonitoring**: Used in Europe and North America to map air quality. The Lichen Community Index (LCI) quantifies air quality based on lichen species composition
+- **Lichen biomonitoring**: Used in Europe and [[psilocybin-north-america-pacific-northwest]] to map air quality. The Lichen Community Index (LCI) quantifies air quality based on lichen species composition
 - **Bioaccumulation**: Lichens absorb heavy metals and radioactive isotopes from the atmosphere. Used to monitor radionuclide deposition after nuclear incidents (e.g., Chernobyl, Fukushima)
 
 ### Carbon Cycling
@@ -117,7 +117,7 @@ Lichens are among the most sensitive biological indicators of air quality:
 - Arctic and subarctic lichens cover vast areas (reindeer lichen mats can cover millions of hectares)
 - Contribute to global carbon fixation through their photobionts
 - Slow decomposition rates contribute to long-term carbon storage in tundra soils
-- Climate change is shifting lichen-dominated tundra toward shrub-dominated landscapes
+- [[dighton-fungi-climate-change-feedback]] is shifting lichen-dominated tundra toward shrub-dominated landscapes
 
 ## Lichen Secondary Metabolites
 
@@ -134,38 +134,11 @@ Functions of secondary metabolites:
 - Anti-herbivore defense (toxicity, bitterness)
 - Antimicrobial protection
 - Metal chelation (detoxification)
-- Drought tolerance (crystallization alters water relations)
+- [[dighton-fungal-drought-tolerance-plant-water-relations]] (crystallization alters water relations)
 
 ## Lichens in Human Culture
 
 ### Traditional Uses
-
-- **Dyes**: Orchil (Roccella) produces purple dye (orcein). Used since ancient Mediterranean civilizations. Cudbear (Ochrolechia) produces red-purple. Historically significant before synthetic dyes
-- **Food**: Umbilicaria (rock tripe) eaten by indigenous peoples and during famines. Iwatake (rock tripe) is a delicacy in Japanese cuisine
-- **Medicine**: Usnic acid used in traditional medicine across cultures. Lobaria pulmonaria used for lung ailments (doctrine of signatures — it resembles lung tissue)
-- **Fiber**: Some lichens produce durable fiber (Icelandic "candles" from Cetraria islandica burned as wicks)
-
-### Modern Research
-
-- **Antibiotics**: Usnic acid, evernic acid studied for antimicrobial properties
-- **Anti-cancer**: Several lichen compounds show cytotoxic activity in laboratory studies
-- **UV protection**: Lichen compounds investigated for sunscreen formulations
-- **Traditional knowledge**: Ethnolichenology studies the relationship between humans and lichens across cultures
-
-## Lichen Growth and Longevity
-
-- **Growth rate**: Typically 1-10 mm per year for foliose and fruticose species. Crustose species grow even slower
-- **Longevity**: Some lichen thalli are estimated to be 1,000-9,000+ years old (Rhizocarpon geographicum in arctic/alpine environments)
-- **Radial growth**: Lichenometry — measuring lichen size to date rock surfaces (glacier retreat, landslides, building construction)
-- **Reproduction**: Primarily asexual (soredia, isidia). Sexual reproduction through fungal spores requires re-association with a compatible photobiont — a low-probability event
-
-## Threats and Conservation
-
-- **Air pollution**: The primary threat to lichens. SO2 from fossil fuels is particularly damaging
-- **Habitat loss**: Old-growth forests support the highest lichen diversity. Logging removes substrate
-- **Climate change**: Shifting temperature and moisture regimes alter lichen distributions. Warming threatens arctic lichen communities
-- **Overharvesting**: Commercial collection of Usnea for natural products in some regions
-- **Nitrogen deposition**: Excess atmospheric nitrogen favors nitrophilic species (Xanthoria) over sensitive old-growth species (Lobaria)
 
 ## See Also
 
@@ -173,4 +146,4 @@ Functions of secondary metabolites:
 - [[fungal-ecology]] for fungi in ecological systems
 - [[fungal-biodiversity]] for lichen diversity in the fungal kingdom
 - [[mycorrhizal-fungi]] for the other major fungal symbiosis type
-- [[fungal-evolution]] for the evolutionary origins of lichen symbiosis
+- [[fungal-evolution]] for the evolutionary origins of [[comparison-lichen-symbiosis-vs-mycorrhizal-symbiosis]]

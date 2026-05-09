@@ -1,7 +1,7 @@
 
 # Pressure Cooker Sterilisation for Fungal Substrate Jars
 
-Sterilisation is arguably the most critical step in [[inoculation-methods]], when hidden bacterial endospores germinate and overgrow the mycelium.
+Sterilisation is arguably the most critical step in [[inoculation-methods]], when hidden bacterial endospores germinate and overgrow the [[mycelium]].
 
 ## Post-Sterilisation Handling
 
@@ -17,7 +17,7 @@ Sterilisation is arguably the most critical step in [[inoculation-methods]], whe
 
 **Insufficient time** leaves endospores alive. These may not show immediately but outcompete mycelium during colonisation, causing stunted or failed cultures. When in doubt, sterilise longer.
 
-**Skipping the shake** leaves stratified substrate with dry tops and waterlogged bottoms, creating uneven conditions that slow growth dramatically. The shake should be vigorous enough to hear kernels clicking.
+**Skipping the shake** leaves stratified substrate with dry tops and waterlogged bottoms, creating uneven conditions that [[holmgren-long-rotation-forestry-slow-growth]] dramatically. The shake should be vigorous enough to hear kernels clicking.
 
 **Opening too early** while pressurised creates rapid pressure differentials that shatter glass jars. Always wait for the pressure indicator to return to zero.
 
@@ -52,7 +52,7 @@ For cultivators working with larger batches, several scaling factors apply:
 
 ## Pressure Cooker Selection
 
-When choosing a pressure cooker for fungal cultivation work, several factors matter:
+When choosing a pressure cooker for [[brassinosteroids-in-fungal-cultivation]] work, several factors matter:
 
 - **Capacity**: Larger cookers process more jars per cycle but take longer to pressurise and depressurise. A 12-16 quart cooker is a good starting size for most home cultivators.
 - **PSI rating**: 15 PSI is the minimum effective pressure. Some cookers operate at lower pressures and should be avoided. Higher-pressure models (e.g., 20 PSI) can reduce sterilisation times but are less common.
@@ -67,14 +67,14 @@ Sterilisation sits between [[inoculation-methods]] in the cultivation workflow. 
 
 ## See Also
 
-- [[fungal-carbon-storage-mycorrhizal-pathways]]-substrate-utilization-efficiency
+- fungal-carbon-storage-mycorrhizal-pathways-substrate-utilization-efficiency
 
 ## See Also
 
 - [[pressure-cooker-sterilization-of-grain-jars]]
 ## Practical Considerations
 
-Successful implementation of Pressure Cooker Sterilisation Fungal Substrate requires attention to
+Successful implementation of Pressure Cooker pressure cooker sterilisation fungal substrate Substrate requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

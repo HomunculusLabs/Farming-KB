@@ -1,5 +1,5 @@
 ---
-title: Ancient Greek Mystery Cults Comparison
+title: Ancient ancient greek mystery cults comparison Cults Comparison
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -43,7 +43,7 @@ Unlike Eleusis, the Samothracian rites did not involve a dramatic culminating vi
 
 The Egyptian cult of Isis spread throughout the Mediterranean world during the Hellenistic and Roman periods, becoming one of the most popular mystery cults in the Roman Empire.
 
-Isis was a goddess of magic, fertility, and motherhood whose mythology involved the death and resurrection of her husband-brother Osiris. Initiation into the Isaic mysteries involved periods of purification, fasting, and waiting, culminating in a vision of the goddess.
+Isis was a goddess of magic, fertility, and motherhood whose mythology involved the [[allegro-death-and-resurrection-in-the-mushroom-cult]] of her husband-brother Osiris. Initiation into the Isaic mysteries involved periods of purification, fasting, and waiting, culminating in a vision of the goddess.
 
 The Isaic mysteries were notable for their emphasis on personal devotion and the emotional relationship between the initiate and the goddess. They also involved elaborate nocturnal rites and processions.
 
@@ -71,7 +71,7 @@ The Mithraic rites were conducted in underground temples called mithraea, which 
 
 ## Comparison with Entheogenic Practices
 
-The mystery cults shared with shamanic traditions worldwide the use of altered states of consciousness as a means of contacting the divine. The question of whether specific cults employed psychoactive substances to induce these states remains debated.
+The mystery cults shared with shamanic traditions worldwide the use of [[weil-the-natural-mind-altered-states-normalcy]] of consciousness as a means of contacting the divine. The question of whether specific cults employed psychoactive substances to induce these states remains debated.
 
 The [[harner-cross-cultural-patterns-shamanic-plant-use]] of psychoactive plant use in religious contexts suggest that the mystery cults' emphasis on secrecy may, in some cases, have served to protect the knowledge of psychoactive preparations.
 

@@ -1,5 +1,5 @@
 ---
-title: "The Pine Forest Collapse and Mycorrhizal Cascade"
+title: "The fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake Collapse and Mycorrhizal Cascade"
 tags: [fukuoka, pine-forest, matsutake, mycorrhiza, acid-rain, ecosystem-collapse, plant-pathology]
 date: 2026-04-28
 updated: 2026-04-28
@@ -83,7 +83,7 @@ the themes in [[fukuoka-pine-environment-collapse-japan]].
 
 ## The Matsutake as Ecological Barometer
 
-Fukuoka noted that the matsutake mushroom had long been a prized element of
+Fukuoka noted that the [[pine-disease-and-matsutake-mushroom-decline]] had long been a prized element of
 Japanese cuisine and culture. Its disappearance was not merely a culinary
 loss but a signal that the entire pine forest ecosystem was unraveling. The
 matsutake's sensitivity to soil conditions made it a biological indicator
@@ -93,8 +93,8 @@ insecticide application.
 ## Mycorrhiza and Natural Farming
 
 This research validated Fukuoka's natural farming approach, which relies on
-maintaining healthy soil microbiology including mycorrhizal fungi. His citrus
+maintaining healthy soil microbiology including [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]. His citrus
 orchard, described in [[fukuoka-pine-blight-matsutake-portent]]
-- fukuoka pine rot ecosystem collapse
+- fukuoka [[fukuoka-pine-rot-root-cause]] [[fukuoka-textdoc-pine-rot-ecosystem-collapse-chain]]
 - [[fukuoka-mycorrhiza-collapse-cascade-ecosystem-failure]]
-- [[fukuoka-soil-microbiology]]
+- [[soil-microbiology-in-natural-farming]]

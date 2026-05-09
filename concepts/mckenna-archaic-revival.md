@@ -1,5 +1,5 @@
 ---
-title: McKenna on the Archaic Revival
+title: McKenna on the mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -22,16 +22,16 @@ McKenna outlines several principles for the Archaic Revival:
 1. Re-establish a symbiotic relationship with the natural world and its plant intelligence
 2. Recover the techniques of ecstasy — shamanic plant use, drumming, trance, dance
 3. Dismantle the dominator model of social organization
-4. End the suppression of psychedelic research and the demonization of plant medicines
+4. End the suppression of [[mckenna-suppression-psychedelic-research-lsd-therapy]] and the demonization of plant medicines
 5. Recognize the primacy of the feminine and the values of partnership
-6. Create a new language adequate to the dimensions of the psychedelic experience
+6. Create a new language adequate to the dimensions of the [[leary-psychedelic-experience-bardo-mapping]]
 7. Face the possibility that the universe is far more complex and alive than materialist science allows
 
 ## The Imagination as a Tool
 
 The Archaic Revival is a reminder that imagination is not mere fantasy but a tool for the remodeling of experience. The boundary between "reality" and "imagination" is a construct of the dominator worldview. The shamanic perspective dissolves this boundary, revealing a universe in which mind and matter, self and other, are intimately interconnected.
 
-McKenna drew on the work of psychologist Carl Jung to argue that what Western culture dismisses as "imagination" is actually a mode of perception that gives access to archetypal realities — patterns of meaning that exist independently of any individual consciousness. The shamanic journey, whether induced by psychoactive plants, drumming, fasting, or sensory deprivation, is a technology for accessing this imaginal realm with sufficient clarity and intentionality to bring back useful information. The [[mckenna-food-of-the-gods-thesis]]
+McKenna drew on the work of psychologist Carl Jung to argue that what Western culture dismisses as "imagination" is actually a mode of perception that gives access to archetypal realities — patterns of meaning that exist independently of any individual consciousness. The [[harner-shamanic-journey-and-altered-states]], whether induced by psychoactive plants, drumming, fasting, or sensory deprivation, is a technology for accessing this imaginal realm with sufficient clarity and intentionality to bring back useful information. The [[mckenna-food-of-the-gods-thesis]]
 - [[mckenna-drug-war-and-human-freedom]]
 - [[mckenna-fall-of-partnership-society]]
 - [[consciousness-and-psychedelics]]
@@ -55,8 +55,8 @@ While much of McKenna's Archaic Revival framework is philosophical and speculati
 
 - [[mckenna-food-of-the-gods-thesis]], which traces the relationship between humans and psychoactive plants from prehistory to the present. The themes explored here connect directly to his discussions of [[hyperspace-logos-consciousness]]
 
-- mckenna dmt phenomenology and cognitive dissonance of wonder
-- mckenna tryptamine transtemporal consciousness and nunc stans
+- mckenna dmt phenomenology and [[mckenna-cognitive-dissonance-translinguistic-object]] of wonder
+- mckenna [[mckenna-tryptamine-transtemporal-eternity-and-nunc-stans]] consciousness and nunc stans
 - [[mckenna-cacao-chocolate-mesoamerican-religion]]
 - McKenna, T. (1992). *Food of the Gods: The Search for the Original Tree of Knowledge*. Bantam Books.
 - Strassman, R. (2001). *DMT: The Spirit Molecule*. Park Street Press.
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

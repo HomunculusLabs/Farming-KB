@@ -10,12 +10,12 @@ sources:
 ---
 # Psilocybin and Mystical Experience
 
-The [[wasson-hofmann-ruck-collaboration]]'s ethnomycological investigations in the 1950s brought knowledge of the sacred mushroom to the Western world. His 1957 Life magazine article "Seeking the Magic Mushroom" introduced millions to the existence of these ceremonies. Wasson's experience with the Mazatec curandera Maria Sabina was transformative -- he found himself "awed by its transcendental visionary effects."
+The [[wasson-hofmann-ruck-collaboration]]'s ethnomycological investigations in the 1950s brought knowledge of the [[allegro-the-sacred-mushroom-amanita-identification]] to the Western world. His 1957 Life magazine article "Seeking the [[australian-magic-mushroom-common-names]]" introduced millions to the existence of these ceremonies. Wasson's experience with the Mazatec curandera [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]] was transformative -- he found himself "awed by its transcendental visionary effects."
 
 ### Ancient Traditions
 Powell traces the use of visionary mushrooms (and other entheogens) across multiple ancient cultures:
 - The [[psilocybin-and-death-anxiety]], and [[psilocybin-mushroom-potency-and-dosage-guide]]
-- [[consciousness-and-psychedelics]] See Also: [[philosophical-implications-of-psychedelics]] See Also: psilocybin and mystical experience See Also: [[mckenna-discovery-and-impact-of-lsd]] placed these substances in the most restrictive legal categories, making even basic research extraordinarily difficult. Leading the resurgence are two American organisations that Powell profiles in detail: the Multidisciplinary Association for Psychedelic Studies ([[fukuoka-heart-sutra-and-illusion-of-life-death]], [[iboga-and-ibogaine-profile]], [[philosophical-implications-of-psychedelics]]
+- [[consciousness-and-psychedelics]] See Also: [[philosophical-implications-of-psychedelics]] See Also: psilocybin and mystical experience See Also: [[mckenna-discovery-and-impact-of-lsd]] placed these substances in the most restrictive legal categories, making even basic research extraordinarily difficult. Leading the resurgence are two American organisations that Powell profiles in detail: the [[maps-multidisciplinary-association-for-psychedelic-studies]] for Psychedelic Studies ([[fukuoka-heart-sutra-and-illusion-of-life-death]], [[iboga-and-ibogaine-profile]], [[philosophical-implications-of-psychedelics]]
 ## Merged: Psychedelic Phenomenology
 Psychedelic phenomenology is the systematic study of the direct conscious experiences produced by psychedelic substances. The term phenomenology refers to the philosophical investigation of experience itself, what it is like to undergo particular states of awareness. See Also: psilocybin and mystical experience See Also: [[psychedelic-consciousness-models]] See Also: psilocybin and mystical experience See Also: [[5-meo-dmt-compound-profile]] See Also: [[turner-cydelikspace-and-psychedelic-reality]] Applied to psychedelics, it concerns the detailed characterization of visionary, somatic, emotional, and cognitive dimensions of the psychedelic state.
 ## Practical Applications
@@ -95,4 +95,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

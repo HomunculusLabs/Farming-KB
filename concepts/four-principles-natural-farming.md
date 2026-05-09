@@ -1,5 +1,5 @@
 ---
-title: The Four Principles of Natural Farming
+title: The Four four-principles-of-natural-farming Farming
 created: 2026-05-06
 tags:
 type: concept
@@ -56,7 +56,7 @@ had been effective only for weed control.
 
 **Nature already works the soil.** Soil is worked by moles, earthworms,
 insects, and plant roots producing excellent porosity. Seeds do not
-require plowed fields; plants have always grown by direct seeding.
+require plowed fields; plants have always grown by [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]].
 
 Fukuoka's own field had not been plowed in over thirty years, yet
 consistently produced close to 22 bushels of winter grain and 22 bushels
@@ -65,7 +65,7 @@ without man having to lift a finger.
 
 ## 2. No Fertilizer
 
-Chemical fertilizers have been thought indispensable for only the last
+[[cervantes-chemical-fertilizers-guide]] have been thought indispensable for only the last
 fifty years. Before that, manure and compost were used, which speed crop
 growth but also deplete the land from which the organic material is taken.
 
@@ -110,7 +110,7 @@ undesirable weeds with clover. Ladino clover eliminates weeds within two
 to three years and improves soil to 16 to 18 inches depth without
 re-seeding for six to eight years.
 
-In rice and barley cultivation, he seeds barley together with clover over
+In rice and [[fukuoka-textdoc-barley-cultivation-three-stage-no-tillage-evolution]], he seeds barley together with clover over
 standing rice, and scatters rice seed and green manure while the barley
 is up, eliminating weeding entirely. Rice, barley, and vegetables can all
 be grown without weeding while attaining yields comparable to normal
@@ -122,7 +122,7 @@ harmful.
 Although a thousand diseases attack plants in fields and forests, nature
 strikes a balance without any need for pesticides. The concept of "insect
 pests" is a human construct. From the perspective of the natural order,
-the categories of "pest" and "beneficial insect" are meaningless.
+the categories of "pest" and "[[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]" are meaningless.
 
 **Pesticides destroy the natural order.** Many insects harmless in a
 direct sense are harmful indirectly. When one beneficial insect feeds on
@@ -146,4 +146,4 @@ is nonexistent.
 ## See Also
 
 - [[energy-efficiency-natural-farming]]
-- Mahayana vs Hinayana Natural Farming
+- Mahayana vs [[fukuoka-mahayana-and-hinayana-natural-farming]] Farming

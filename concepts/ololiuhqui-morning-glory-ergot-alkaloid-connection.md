@@ -1,5 +1,5 @@
 ---
-title: Ololiuhqui, Morning Glory, and the Ergot Alkaloid Connection
+title: Ololiuhqui, golden-guide-morning-glory-and-ololiuqui, and the kykeon-composition-and-ergot-alkaloid-hypothesis Connection
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Ololiuhqui, Morning Glory, and the Ergot Alkaloid Connection
 
-**Source:** The Road to Eleusis, Chapter II — Albert Hofmann
+**Source:** The [[the-road-to-eleusis-wasson-hofmann-ruck]], Chapter II — Albert Hofmann
 
 ## Overview
 
@@ -27,7 +27,7 @@ This discovery was critical because it established that water-soluble, hallucino
 
 3. The same alkaloid families used in Mesoamerican rituals were chemically accessible to ancient Greeks
 
-The [[kykeon-composition-and-ergot-alkaloid-hypothesis]] pharmacologically plausible.
+The  pharmacologically plausible.
 
 ## Relative Potency
 
@@ -41,9 +41,9 @@ The difficulty of obtaining authentic material reflected a broader pattern: the 
 
 ## The Ergot Fungus in Morning Glories
 
-The presence of ergot alkaloids in morning glory seeds was initially puzzling. Hofmann hypothesized that a Claviceps-like fungus symbiotic with the morning glory plant was responsible for producing the alkaloids — a hypothesis later confirmed when researchers identified a sclerotium-producing fungus associated with Turbina corymbosa. This fungal symbiont was distinct from but related to the Claviceps species that infect grasses.
+The presence of ergot alkaloids in morning glory seeds was initially puzzling. Hofmann hypothesized that a Claviceps-like fungus symbiotic with the morning glory plant was responsible for producing the alkaloids — a hypothesis later confirmed when researchers identified a sclerotium-producing fungus associated with [[plants-of-the-gods-turbina-corymbosa-ololiuqui]]. This fungal symbiont was distinct from but related to the Claviceps species that infect grasses.
 
-This discovery expanded the known range of ergot alkaloid-producing fungi beyond the grass family (Poaceae) to include the morning glory family (Convolvulaceae). It demonstrated that the evolutionary capacity to produce lysergic acid derivatives had arisen independently in multiple fungal lineages — a remarkable case of convergent biochemistry.
+This discovery expanded the known range of ergot alkaloid-producing fungi beyond the grass family (Poaceae) to include the morning glory family (Convolvulaceae). It demonstrated that the evolutionary capacity to produce [[ergot-and-lysergic-acid-history]] derivatives had arisen independently in multiple fungal lineages — a remarkable case of convergent biochemistry.
 
 ## Related Concepts
 
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

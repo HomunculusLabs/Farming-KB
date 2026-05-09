@@ -1,5 +1,5 @@
 ---
-title: Broadscale Restoration and Watershed Repair
+title: urban-broadscale-restoration-watershed-repair and Watershed Repair
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -59,7 +59,7 @@ turn into streams.
 - Low leaky check dams of rocks or brush
 - Straw bales to plug small flows
 - Rock gabions for larger streams
-- Natural materials that blend with the landscape
+- [[building-with-natural-materials]] that blend with the landscape
 Check dams work in first and second order streams. If structures blow out, key
 them in and try again, or move higher in the watershed.
 ## Microcatchments

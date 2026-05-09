@@ -1,6 +1,6 @@
 ---
-title: Dryland Vegetable Gardening
-source: Gardening When It Counts - [[steve-solomon]]
+title: Dryland home-vegetable-garden-planning
+source: Gardening When It Counts - steve-solomon
 source_author: Steve Solomon
 tags: [gardening, dryland, water-conservation, irrigation, vegetable-production]
 created: 2026-05-08
@@ -10,7 +10,7 @@ created: 2026-05-08
 
 ## Overview
 
-Dryland vegetable gardening is the practice of growing vegetables with
+Dryland vegetable gardening is the practice of [[container-growing-vegetables-herbs]] with
 little or no supplemental irrigation, relying primarily on natural
 rainfall and soil moisture conservation techniques. Steve Solomon
 researched and mastered this nearly lost art, documenting his approach
@@ -40,7 +40,7 @@ matter retain significantly more plant-available water than compacted,
 sandy, or low-organic-matter soils.
 
 Key soil preparation practices include deep cultivation to break up
-compaction layers, incorporation of organic matter to improve water-
+compaction layers, incorporation of [[hamilton-composting-and-organic-matter-management]] to improve water-
 holding capacity, and maintenance of good soil structure through minimal
 tillage once the garden is established. The goal is a soil that acts
 like a sponge, absorbing rainfall and releasing it gradually to plant
@@ -49,7 +49,7 @@ roots over weeks or months.
 ## Climate Considerations
 
 Dryland gardening works best in regions with reliable, well-distributed
-rainfall during the growing season. Mediterranean climates with wet
+rainfall during the [[savory-growing-season-and-non-growing-season-management]]. Mediterranean climates with wet
 winters and dry summers are particularly suited because the soil profile
 recharges during winter rains, providing a moisture reservoir that
 sustains crops through the dry months.
@@ -80,7 +80,7 @@ Some crops are genuinely difficult to grow without irrigation. Celery,
 lettuce, and other leafy greens have shallow root systems and high water
 content, making them poor choices for dryland gardens. Solomon recommends
 that gardeners in truly water-limited situations focus on calorie-dense
-crops rather than salad vegetables.
+crops rather than [[hamilton-salad-vegetables-organic]].
 
 ## Mulching Strategies
 
@@ -103,7 +103,7 @@ require less fertilizer. Excess nitrogen is particularly problematic in
 dryland conditions because it promotes rapid, lush growth that the
 limited water supply cannot sustain.
 
-Solomon's complete organic fertilizer works well for dryland gardens
+Solomon's complete [[complete-organic-fertilizer-cof-recipe-solomon]] works well for dryland gardens
 when applied at reduced rates compared to irrigated plantings. The
 emphasis shifts from pushing maximum growth to supporting steady,
 measured development within the constraints of available moisture.
@@ -138,3 +138,4 @@ may again become a limiting factor in food production.
 
 - [[complete-organic-fertilizer-cof]]
 - [[seed-saving-and-variety-selection]]
+- [[teaming-with-microbes-no-till-gardening-soil-health]]

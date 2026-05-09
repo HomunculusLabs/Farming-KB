@@ -1,5 +1,5 @@
 ---
-title: Evergreen State Permaculture Conference 1986
+title: fukuoka evergreen state permaculture conference Permaculture Conference 1986
 created: 2026-04-28
 tags: [fukuoka, permaculture, conference, bill-mollison, wes-jackson]
 date: 2026-04-28
@@ -20,7 +20,7 @@ presented a no-tillage system using perennial plants and trees to create
 abundant farms and resilient human communities designed after natural landscapes.
 Permaculture farms are intended to perpetuate themselves indefinitely without
 bringing in materials from outside. The system is based on organic agriculture
-and had developed a substantial following in Australia, the United States, and
+and had developed a substantial following in Australia, the [[dmt-containing-plants-united-states-halpern]], and
 internationally. Mollison's approach shared significant common ground with
 Fukuoka's methods, particularly in its emphasis on no-tillage, perennial
 polyculture, and self-sustaining systems.
@@ -28,7 +28,7 @@ polyculture, and self-sustaining systems.
 ### Wes Jackson and The Land Institute
 
 Jackson, founder of The Land Institute in Salina, Kansas, aimed to develop
-farming methods using minimal fossil fuel. He argued that without limiting
+[[natural-farming-methods-comparison]] using minimal [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]]. He argued that without limiting
 fossil fuel use, there would be no future for agriculture. Jackson was working
 to develop native perennial grasses into food crops that would eliminate the
 need for plowing. While he fundamentally accepted the scientific approach,
@@ -51,7 +51,7 @@ penetrating Oriental languages and expressions.
 The comedic climax came when Fukuoka drew his famous illustration of Don
 Quixote's donkey. On its back rode a blind Bill Mollison and a deaf Wes
 Jackson, both facing backward, with Fukuoka clinging desperately to the
-donkey's swishing tail. The three Don Quixotes, hoping to return to nature,
+donkey's swishing tail. The three Don Quixotes, hoping to [[emcdda-return-to-nature-megatrend-mushroom-appeal]],
 were trying to stop the donkey from rushing toward the brink of disaster, but
 it seemed hopeless. When someone asked what would happen, Fukuoka drew
 President Reagan sitting frontward on the donkey, dangling a carrot before its
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

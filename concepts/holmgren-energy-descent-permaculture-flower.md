@@ -18,19 +18,19 @@ draws heavily on the **energy systems thinking** of H.T. Odum, whose work on eme
 and systems ecology provided Holmgren with a scientific foundation for understanding how energy flows
 shape the structure and resilience of both natural and human systems.
 
-Permaculture design, in Holmgren's view, is fundamentally about capturing, storing, and cycling energy
+[[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], in Holmgren's view, is fundamentally about capturing, storing, and cycling energy
 more effectively at every scale — from the household garden to the bioregion. In an energy-descent
 future, systems that depend on high and continuous energy inputs will become brittle, while systems
 designed around **energy literacy** — understanding energy sources, sinks, and pathways — will prove
-more adaptable. See [[holmgren-ethical-philosophical-framework]])
+more adaptable. See holmgren-ethical-philosophical-framework)
 
 The Flower demonstrates that permaculture is not a discipline but a **connecting framework** linking
-disparate domains into a coherent whole. Any petal can be an entry point; the design principles apply
+disparate domains into a coherent whole. Any petal can be an entry point; the [[holmgren-permaculture-twelve-design-principles-framework]] apply
 equally to all of them.
 
 ## Origins of the Permaculture Concept
 
-Permaculture was co-created by **[[permaculture-design-principles]]** in
+Permaculture was co-created by **[[permaculture-design-principles-beginners]]** in
 the 1970s at the **Environmental Design School** in Hobart, Tasmania, producing *Permaculture One*
 (1978) — a synthesis of ecology, agriculture, architecture, and systems theory into an integrated
 framework for designing sustainable human settlements.
@@ -38,7 +38,7 @@ framework for designing sustainable human settlements.
 While Mollison became the public face of the movement — traveling the world, teaching Permaculture
 Design Courses, and producing the encyclopedic *Permaculture: A Designers' Manual* (1988) — Holmgren
 took a quieter path. He focused on **practical application** at **Melliodora**, his home and
-demonstration site at Hepburn Springs in central Victoria, Australia. Over more than two decades of
+[[holmgren-melliodora-permaculture-demonstration-site-hepburn-springs]] at Hepburn Springs in central Victoria, Australia. Over more than two decades of
 hands-on design and living, Holmgren refined his understanding of permaculture's theoretical
 foundations, developing insights that diverged from Mollison's more prescriptive approach and
 culminating in *Principles & Pathways* as a mature, independent articulation of their co-created system.
@@ -56,15 +56,15 @@ cultural crises.
 ## The 12 Principles as Doors into Whole-Systems Thinking
 
 Holmgren's **12 design principles** — see
-[[holmgren-catch-and-store-energy-detailed|Catch and Store Energy]], and the broader
-[[holmgren-ethical-philosophical-framework]] — the ethical foundations of Holmgren's permaculture
+[[permaculture-principle-catch-and-store-energy]] Energy, and the broader
+holmgren-ethical-philosophical-framework — the [[bill-mollison-permaculture-a-designers-manual-ethical-foundations-in-permaculture]] of Holmgren's permaculture
 - [[holmgren-observe-and-interact-detailed]] — detailed treatment of the first design principle
-- [[energy-circuit-models-permaculture-design]] — Odum-inspired energy models in design practice
-- [[permaculture-design-principles]] — Mollison's design
+- energy-circuit-models-permaculture-design — Odum-inspired energy models in design practice
+- [[permaculture-design-principles-beginners]] — Mollison's design
   principles and their relationship to Holmgren's framework
 ## Practical Considerations
 
-Successful implementation of Holmgren Energy Descent Permaculture Flower requires attention to
+Successful implementation of Holmgren Energy holmgren energy descent permaculture flower Flower requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -80,4 +80,5 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[permaculture-design]]

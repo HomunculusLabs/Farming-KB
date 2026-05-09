@@ -1,5 +1,5 @@
 ---
-title: Fly-Agaric in Victorian Fairy Paintings and Popular Culture
+title: Fly-Agaric in fly agaric victorian fairy paintings Paintings and Popular Culture
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -12,7 +12,7 @@ tags: [agar]
 
 ## The Fly-Agaric as Cultural Icon
 
-The fly-agaric (Amanita muscaria) is the red-and-white-spotted mushroom so
+The fly-agaric ([[allegro-amanita-muscaria-properties-and-pharmacology]]) is the red-and-white-spotted mushroom so
 familiar to us from childhood, where it appears ubiquitously in storybook
 illustrations as the preferred seating of gnomes. Beyond its botanical
 identity, this mushroom has exerted an extraordinary hold on the Western
@@ -56,10 +56,10 @@ Since the 1960s, Alice has been read by members of the psychedelic underground
 as a knowing pharmacological odyssey, representing not-so-hidden drug
 references and, not least, hints that the author had a taste for magic
 mushrooms. The most famous instance of this reading must be "White Rabbit" by
-San Francisco band Jefferson Airplane, a song that played a part in
+[[shipibo-san-francisco-ceremonial-center-ucayali]] band Jefferson Airplane, a song that played a part in
 broadcasting to the world the news about mushrooms. Backed by a classic
 sixties West Coast psychedelic guitar, banshee-like Grace Slick extols the
-virtues of the psychedelic experience in a thinly disguised code: "You've
+virtues of the [[leary-psychedelic-experience-bardo-mapping]] in a thinly disguised code: "You've
 just had some kind of mushroom, and your mind is moving slow... Go ask Alice,
 I think she'll know."
 
@@ -135,6 +135,7 @@ in popular culture long after its psychoactive properties became widely known.
 
 ## See Also
 
-- [[victorian-mycology-and-fairy-rings]]
+- victorian-mycology-and-fairy-rings
 - [[fly-agaric-literary-history]]
 - [[siberian-fly-agaric-tradition]]
+- [[amanita-muscaria]]

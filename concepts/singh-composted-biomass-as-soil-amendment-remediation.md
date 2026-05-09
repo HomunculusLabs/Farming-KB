@@ -1,5 +1,5 @@
 ---
-title: "Composted Biomass as Soil Amendment Remediation"
+title: "singh composted biomass as soil amendment remediation as Soil Amendment Remediation"
 created: 2026-04-28
 tags: [compost, spent-mushroom-substrate, soil-amendment, biosorption, soil-health]
 date: 2026-04-25
@@ -13,11 +13,11 @@ type: concept
 
 ## Overview
 
-Composted fungal biomass and spent mushroom substrate (SMS) represent
+Composted fungal biomass and spent [[gourmet-medicinal-mushroom-substrate-preparation]] (SMS) represent
 valuable byproducts of fungal cultivation repurposed for soil remediation.
-Singh's treatment of [[cancer-medicinal-mushrooms-pleurotus-ostreatus]], Agaricus bisporus, [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]]: Organic matter adsorbs PAHs,
+Singh's treatment of [[cancer-medicinal-mushrooms-pleurotus-ostreatus]], [[genetic-improvement-agaricus-bisporus-molecular-approaches]], [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]]: Organic matter adsorbs PAHs,
   reducing bioavailability and toxicity
-- **Pesticide residues**: Compost organic matter adsorbs and partially
+- **Pesticide residues**: [[solomon-compost-organic-matter]] matter adsorbs and partially
   degrades pesticides through retained microbial activity
 
 ### Radionuclide Binding
@@ -61,9 +61,9 @@ Singh's treatment of [[cancer-medicinal-mushrooms-pleurotus-ostreatus]], Agaricu
 - **Direct amendment**: 10-50 metric tons per hectare, tilled into top
   15-30 cm of soil before planting remediation crops
 - **Compost biofilters**: SMS as biofilter media for contaminated water
-  or air; effective for volatile organic compound biodegradation
+  or air; effective for [[fungal-volatile-organic-compounds-communication]] compound biodegradation
 - **Vermicomposting**: SMS processed through earthworms produces
-  vermicast with enhanced nutrient availability
+  vermicast with enhanced [[ph-and-nutrient-availability-garden-soils]]
 
 ### Combined Remediation Approaches
 
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

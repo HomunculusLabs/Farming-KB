@@ -1,5 +1,5 @@
 ---
-title: Functional Mushroom Products
+title: Functional cotter-mushroom-products-and-value-added-applications
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Functional mushroom products encompass a wide range of formats including tinctures, powders, capsules, extracts, teas, and food products. The functional mushroom market has grown rapidly, with global sales exceeding $50 billion and projected continued expansion. However, product quality, labeling accuracy, and consumer understanding vary enormously. This page covers product types, extraction methods, quality assessment, and practical guidance for consumers and practitioners.
+Functional mushroom products encompass a wide range of formats including tinctures, powders, capsules, extracts, teas, and food products. The functional [[hallucinogenic-mushroom-market-in-europe]] has grown rapidly, with global sales exceeding $50 billion and projected continued expansion. However, product quality, labeling accuracy, and consumer understanding vary enormously. This page covers product types, extraction methods, quality assessment, and practical guidance for consumers and practitioners.
 
 ## Product Formats
 
@@ -63,13 +63,13 @@ Concentrated preparations that isolate or concentrate specific compounds:
 
 - Hot water extracts: Best for beta-glucans and polysaccharides
 - Alcohol extracts: Best for triterpenes, hericenones, ergothioneine
-- Dual extracts: Sequential water and alcohol extraction, capturing both classes
-- Liposomal extracts: Encapsulated in lipid molecules for enhanced bioavailability
+- Dual extracts: Sequential water and [[pf-tek-alcohol-extraction-method]], capturing both classes
+- Liposomal extracts: Encapsulated in lipid molecules for [[staycare-surfactant-enhanced-bioavailability-in-fungal-bioremediation]]
 - Standardized extracts: Guaranteed minimum levels of specific compounds (e.g., "30% beta-glucans")
 
 ### Teas and Decoctions
 
-Traditional preparation methods:
+[[kava-traditional-preparation-ceremonial-context]] methods:
 
 - Simple hot water extraction — steep mushroom powder or dried pieces in hot water
 - Decoction: Simmer for 20-60 minutes for tougher, woody mushrooms (reishi, chaga)
@@ -139,58 +139,11 @@ Critical quality issue:
 Third-party testing should verify:
 
 - Heavy metals (lead, arsenic, cadmium, mercury)
-- Pesticide residues
-- Microbial contamination (E. coli, Salmonella, mold, yeast)
-- Aflatoxins and other mycotoxins
-- Solvent residues (for alcohol-extracted products)
-- Radiation (relevant for products from certain regions)
-
-## Labeling: Reading Between the Lines
-
-### Key Labeling Terms
-
-| Label Claim | Meaning | Caveat |
-|-------------|---------|--------|
-| "Full spectrum" | Multiple compound classes | Not standardized; verify with COA |
-| "Fruiting body only" | Mushroom cap, not mycelium | Generally preferred for potency |
-| "Mycelium on grain" | Grown on rice/oat substrate | May contain mostly starch |
-| "10:1 extract" | 10g concentrated to 1g | Verify starting material quality |
-| "Standardized to 30% beta-glucans" | Guaranteed beta-glucan minimum | Good quality indicator |
-| "Organic" | No synthetic pesticides | Meaningful but not sufficient alone |
-| "DNA-verified" | Species confirmed by DNA | Strong quality indicator |
-
-### The Mycelium vs. Fruiting Body Debate
-
-- Fruiting body proponents: Higher active compound concentrations, different compound profiles
-- Mycelium proponents: Unique compounds (e.g., erinacines), more sustainable production
-- Reality: Both have merit; transparency about what the product contains is key
-
-## Dosage Guidelines
-
-Starting doses for common functional mushrooms (adult):
-
-| Mushroom | Powder (g/day) | Extract (mg/day) | Tincture (ml/day) |
-|----------|---------------|-------------------|-------------------|
-| Reishi | 1.5-3 | 500-1,500 | 2-4 |
-| Lion's Mane | 1-3 | 500-1,500 | 2-4 |
-| Turkey Tail | 2-4 | 1,000-3,000 | 2-4 |
-| Cordyceps | 1-3 | 500-1,500 | 2-4 |
-| Chaga | 2-4 | 1,000-3,000 | 2-4 |
-| Shiitake | 1-3 | 500-1,500 | 1-3 |
-| Maitake | 1-3 | 500-1,500 | 2-4 |
-
-## Storage
-
-- Store in cool, dark, dry place; reseal immediately after opening
-- Tinctures: 2-5 year shelf life; Powders/Capsules: 1-2 years
-- Watch for mold growth in powders exposed to humidity
-
 ## See Also
 
-- [[medicinal-mushroom-guide]] — the bioactive compounds these products deliver
-- [[medicinal-mushroom-guide]] — evidence behind product claims
+- [[medicinal-mushroom-guide]] — the [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] these products deliver
 - [[mushroom-nutrition-guide]] — nutritional content of whole mushroom products
+
 ## Related
 
 - [[turkey-tail-trametes-versicolor]]
-

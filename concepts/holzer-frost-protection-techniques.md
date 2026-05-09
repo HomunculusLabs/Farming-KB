@@ -1,5 +1,5 @@
 ---
-title: Holzer Frost Protection Techniques
+title: Holzer holzer frost protection techniques Techniques
 created: 2026-04-26
 tags:
   - frost-protection
@@ -87,7 +87,7 @@ would otherwise kill them.
 ## Mulch for Ground Insulation
 
 A thick layer of organic mulch protects the ground underneath from freezing:
-- Materials: straw, leaves, or any organic matter
+- Materials: straw, leaves, or any [[hamilton-composting-and-organic-matter-management]]
 - The mulch layer acts as insulation, preventing heat loss from the soil
 - Ground remains unfrozen even when air temperatures drop well below zero
 - Plants can regrow from roots even if above-ground parts die back
@@ -105,8 +105,8 @@ insulating benefit.
    for thermal mass
 3. **Stone placement:** Distribute rocks strategically throughout growing
    areas
-4. **Wind protection:** Use [[holzer-intercropping-by-height-suntraps]] to shelter shorter, sensitive ones
-6. **Mulch:** Maintain organic ground cover through plants or manual
+4. **[[cervantes-wind-protection-outdoor-cannabis]]:** Use [[holzer-intercropping-by-height-suntraps]] to shelter shorter, sensitive ones
+6. **Mulch:** Maintain organic [[fukuoka-citrus-orchard-ground-cover-cultivation]] through plants or manual
    application
 7. **Suntrap orientation:** Position frost-sensitive plants away from
    eastern exposure to avoid rapid morning warming
@@ -116,5 +116,5 @@ insulating benefit.
 Holzer's achievement of growing lemons at 1,100 to 1,500 metres altitude
 in the Austrian Alps demonstrates the cumulative effect of these
 techniques. By combining water bodies, rock placement, mulch, wind
-protection, and careful site selection, plants from Mediterranean and
+protection, and careful [[fukuoka-creating-natural-farm-site-selection-establishment]], plants from Mediterranean and
 even tropical climates can be grown in extremely challenging conditions.

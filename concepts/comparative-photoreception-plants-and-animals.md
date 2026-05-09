@@ -15,7 +15,7 @@ systems that, while differing in their anatomical organization, share
 remarkable similarities at the molecular level. Both kingdoms use
 light-absorbing proteins coupled to signalling cascades that convert
 photonic energy into biochemical information. Understanding these parallels
-reveals deep evolutionary convergence in how living organisms perceive and
+reveals deep evolutionary convergence in how [[savory-living-organisms-as-tools]] perceive and
 respond to their light environment, and challenges the anthropocentric
 assumption that vision is uniquely the domain of animals.
 
@@ -25,11 +25,11 @@ Human vision relies on photoreceptor cells in the retina, which contains
 approximately 125 million rods and 6 million cones in an area the size of
 a passport photo. Rods are sensitive to all visible wavelengths and enable
 low-light vision without colour discrimination. Cones come in three types
-responding preferentially to red, green, and blue light, enabling colour
+responding preferentially to red, green, and [[chamovitz-julius-von-sachs-blue-light-phototropism]], enabling colour
 vision. Each photoreceptor contains a light-absorbing chemical: rhodopsin
 in rods and photopsins in cones. These chemicals have specific molecular
 structures tuned to absorb particular wavelengths. Blue light at
-approximately 450nm is the shortest visible wavelength, while red light at
+approximately 450nm is the shortest visible wavelength, while [[phytochrome-red-far-red-light-switch]] at
 approximately 700nm is the longest. Once absorbed, light energy triggers a
 conformational change in the photoreceptor protein that initiates a
 neural signal processed by the brain into a coherent visual image.
@@ -38,9 +38,9 @@ neural signal processed by the brain into a coherent visual image.
 
 Plants lack eyes, brains, and neural tissue, yet they possess multiple
 families of photoreceptor proteins that collectively provide a
-comprehensive picture of their light environment. The major classes include
+comprehensive picture of their light environment. The [[ascomycota-phylogeny-major-classes-lineages]] include
 phytochromes, which detect red and far-red light and regulate flowering,
-seed germination, and shade avoidance; phototropins, which detect blue
+[[cannabis-seed-germination-methods]], and shade avoidance; phototropins, which detect blue
 light and mediate phototropic bending, chloroplast movement, and stomatal
 opening; cryptochromes, which detect blue and UV-A light and regulate
 circadian rhythms and de-etiolation; and UV-B receptors (UVR8), which
@@ -89,7 +89,7 @@ which humans cannot perceive at all. This far-red sensitivity allows plants
 to detect shade from neighbouring vegetation, since canopy shade is
 enriched in far-red light relative to direct sunlight. Plants also
 integrate light signals over time in ways that humans cannot, measuring
-day length through phytochrome ratios to determine seasonal timing for
+[[coleman-winter-day-length-and-persephone-months]] through phytochrome ratios to determine seasonal timing for
 flowering. A single leaf can perceive a flash of red light lasting only
 seconds during the night and use that information to regulate flowering
 across the entire organism through mobile signalling molecules.

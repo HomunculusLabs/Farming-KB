@@ -1,5 +1,5 @@
 ---
-title: Cannabis Terpene Profiles in Sativa Strains
+title: Cannabis cannabis terpene profiles sativa in Sativa Strains
 source: Cannabis Sativa Volume 3 - S.T. Oner, The Rev (2014)
 tags: [cannabis, sativa, terpenes, aroma, flavor, chemistry]
 created: 2026-05-08
@@ -66,7 +66,7 @@ with modern commercial varieties.
 
 ## Breeding for Terpene Diversity
 
-Modern sativa breeding increasingly focuses on terpene profiles as
+Modern [[cannabis-sativa-breeding-evolution]] increasingly focuses on terpene profiles as
 a primary selection criterion alongside potency and yield. Spanish
 breeders have been particularly active in this area, developing
 strains with complex multi-layered terpene profiles. Philosopher Seeds
@@ -75,13 +75,13 @@ reveals new facets with each inhalation. Resin Seeds' Afghan Kush x
 World Seeds' Amnesia Haze cross produces a lemon and woody aroma
 with spicy incense undertones. The Rev argues that terpene complexity
 is what separates premium sativa from mediocre commercial cannabis,
-and that organic cultivation methods better preserve and express
+and that organic [[synthetic-log-cultivation-methods-guide]] better preserve and express
 these complex terpene profiles than synthetic nutrient programs.
 
 ## Environmental Influence on Terpene Expression
 
 The terpene profile of any cannabis strain is not fixed but varies significantly
-based on growing conditions. Light spectrum, temperature, nutrient availability,
+based on growing conditions. Light spectrum, temperature, [[ph-and-nutrient-availability-garden-soils]],
 and soil biology all influence terpene production. The Rev notes that organic
 cultivation methods tend to produce more complex and pronounced terpene
 profiles compared to synthetic nutrient programs. Stress techniques such as
@@ -108,11 +108,11 @@ cannabinoids, and flavonoids.
 
 ## Preserving Terpene Diversity
 
-As cannabis breeding continues to push toward higher THC percentages, there
+As [[oner-cannabis-breeding-fundamentals]] continues to push toward higher THC percentages, there
 is a real risk of losing terpene diversity. Many commercial breeding programs
 prioritize potency and yield over aromatic complexity, leading to a narrowing
 of the terpene gene pool. Landrace sativas from regions like Africa, Southeast
-Asia, and Central America represent irreplaceable reservoirs of terpene
+Asia, and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] represent irreplaceable reservoirs of terpene
 diversity. Organizations and breeders who preserve these genetics perform an
 essential service for the future of cannabis. The Rev and other advocates
 argue that the cannabis community should value terpene diversity as highly

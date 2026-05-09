@@ -12,11 +12,11 @@ essentially unsurveyed.
 
 ## Biogeographic Patterns
 
-The most striking pattern in the distribution of psilocybin mushrooms is their
+The most striking pattern in the distribution of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] is their
 concentration in and near the Austral (Southern) hemisphere, particularly in subtropical
 humid forests. This distribution correlates with the regions where indigenous use of
 neurotropic fungi is best documented. The authors noted that "the majority of the species
-[of *Psilocybe*] are found in or near the Austral hemisphere, mainly in the subtropical
+[of *Psilocybe*] are found in or near the [[biogeography-austral-hemisphere-fungi]], mainly in the subtropical
 humid forests."
 
 Mexico stands as the single most significant country for neurotropic fungal diversity,
@@ -24,7 +24,7 @@ with 76 documented species — more than any other nation. Of these, 44 belong t
 *Psilocybe*, representing 39% of the world's known psilocybin-containing species. This
 concentration of diversity in southern Mexico, particularly in the states of Oaxaca,
 Puebla, and the highlands of central Mexico, corresponds precisely with the regions where
-indigenous mushroom ceremonies have been documented since the 1950s.
+indigenous [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]] have been documented since the 1950s.
 
 Other significant centers of diversity include Brazil, Colombia, and other tropical South
 American countries; Southeast Asia (particularly Thailand, where *[[psilocybe-semilanceata]]* and a few other species).
@@ -41,8 +41,8 @@ wherever zebu-type cattle graze. This ecological association with pastoral anima
 been proposed (notably by Terence McKenna) as the basis for the co-evolutionary
 relationship between humans, cattle, and psychoactive mushrooms.
 
-**Grassland species**: *Psilocybe semilanceata* (the liberty cap) is the most widely
-distributed [[psilocybe-aztecorum]]* grows in the high mountains of
+**Grassland species**: *[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]* (the liberty cap) is the most widely
+distributed [[psilocybe-aztecorum-entity-the-mushroom-cultivator]]* grows in the high mountains of
 central Mexico at elevations up to 4,000 meters, making it one of the highest-elevation
 psilocybin mushrooms known. At the other extreme, tropical species like *Psilocybe
 cubensis* and *[[panaeolina-foenisecii]]*,
@@ -50,11 +50,11 @@ commonly known as the haymaker's mushroom or mowers' mushroom, is cosmopolitan i
 temperate grasslands worldwide, though its psychoactive status remains debated. Most
 *Panaeolus* species are also widely distributed in warm and temperate regions.
 
-*Claviceps purpurea* (ergot), an Ascomycete rather than a mushroom, infects grasses and
+*[[bloomfield-ergot-claviceps-purpurea-ergotism]]* (ergot), an Ascomycete rather than a mushroom, infects grasses and
 cereals across temperate regions worldwide and has caused significant historical episodes
 of mass poisoning. Its distribution is effectively coextensive with its grass hosts.
 
-*Amanita muscaria* has a circumboreal distribution in the Northern Hemisphere, growing
+*[[allegro-amanita-muscaria-properties-and-pharmacology]]* has a circumboreal distribution in the Northern Hemisphere, growing
 in mycorrhizal association with pine (*Pinus*) and birch (*Betula*) in temperate and boreal
 forests. It has also been introduced to pine plantations in tropical regions, including
 Brazil, Colombia, Tanzania, Australia, and New Zealand, sometimes naturalizing outside its

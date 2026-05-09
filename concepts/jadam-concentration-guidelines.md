@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-Any material, when abused, will cause concentration stress. Understanding proper dilution rates and crop sensitivity is essential for safe and effective use of JADAM natural pesticides. The concentration problem must be carefully addressed because damage from strong homemade pesticide is already done, while weak pesticide can simply be strengthened next time.
+Any material, when abused, will cause concentration stress. Understanding proper dilution rates and crop sensitivity is essential for safe and effective use of JADAM [[jadam-pest-control-with-natural-pesticides-jhs]]. The concentration problem must be carefully addressed because damage from strong homemade pesticide is already done, while weak pesticide can simply be strengthened next time.
 
 ## The Fundamental Principle
 
@@ -21,7 +21,7 @@ Homemade pesticides require more attention to concentration than commercial prod
 
 ### JADAM Wetting Agent (JWA)
 - Normal range: 3-8 L (0.8-2.1 gal)
-- Mild pest problem: 3 L
+- Mild [[fukuoka-textdoc-pesticide-creates-pest-problem-citrus-orchard]]: 3 L
 - Growing pest problem: 5 L
 - Serious infestation: up to 15 L (but only once)
 - After control achieved: reduce back to 3 L
@@ -45,9 +45,9 @@ Homemade pesticides require more attention to concentration than commercial prod
 
 ### JADAM Microorganism Solution (JMS)
 - Range: 10-20 L (2.6-5.3 gal)
-- Maximum: 20 L (above this, microbes break down JWA)
+- Maximum: 20 L (above this, microbes [[query-can-fungi-break-down-plastic-pollution]] JWA)
 - Always use with JWA (without it, microbes leave marks on plants)
-- For foliar application, use soft water
+- For [[ultra-low-cost-foliar-application-methods]], use soft water
 
 ## Crop Sensitivity
 
@@ -66,7 +66,7 @@ Homemade pesticides require more attention to concentration than commercial prod
 ### Mixed Sensitivity Notes
 - Grapes: sensitive to JS; take caution increasing dose
 - Persimmons, walnuts: also sulfur-sensitive
-- Fruit trees during flowering: avoid high JWA doses (can damage white coating)
+- [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] during flowering: avoid high JWA doses (can damage white coating)
 
 ## Application Timing and Frequency
 
@@ -96,7 +96,7 @@ Homemade pesticides require more attention to concentration than commercial prod
 
 ### Incompatible (poor foam, clotting)
 - Vinegar, wood vinegar: do NOT mix with JNP directly
-- Sea water, sea salt: do NOT mix
+- Sea water, [[jadam-sea-salt-and-mineral-solutions]]: do NOT mix
 - Sugar/molasses inputs: do NOT mix
 - If necessary, dilute incompatible inputs to 1,000x
 

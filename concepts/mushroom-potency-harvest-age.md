@@ -1,5 +1,5 @@
 ---
-title: Mushroom Potency and Harvest Age
+title: pf-tek-mushroom-potency-and-age-relationship and Harvest Age
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 author: Robert "Psylocybe Fanaticus" McPherson
 tags: [potency, harvest, aborts, primordia, veil, timing, cultivation]
@@ -7,7 +7,7 @@ tags: [potency, harvest, aborts, primordia, veil, timing, cultivation]
 
 # Mushroom Potency and Harvest Age
 
-The relationship between harvest timing and psychedelic potency
+The relationship between [[cannabis-harvest-timing-visual-cues]] and psychedelic potency
 is one of the most debated topics in mycological cultivation.
 This page examines the evidence and practical guidance from the
 PF TEK and related cultivation literature.
@@ -36,7 +36,7 @@ concentration per gram is lower.
 remaining small and undeveloped. They are widely regarded as the
 most potent material per gram:
 
-- Aborts form when the [[agar]] work and strain isolation is an advanced technique beyond
+- Aborts form when the agar work and strain isolation is an advanced technique beyond
   basic PF TEK but represents the path to potency optimization
 
 ### Flush Number
@@ -52,12 +52,13 @@ Harvest timing is only half the equation; proper drying preserves
 the potency achieved at harvest:
 
 - Heat degrades psilocybin and especially psilocin
-- Desiccant drying preserves maximum alkaloid content
+- [[mushroom-desiccant-drying-methods]] preserves maximum alkaloid content
 - Rapid drying minimizes enzymatic degradation that occurs
   during the slow evaporation period
 - See [[mushroom-desiccant-drying-methods]] - Drying for preservation
-- [[pf-tek-jar-preparation-steam-sterilization]] - Jar preparation
-- [[psilocybin-metabolism-psilocin-conversion]] - Alkaloid chemistry
+- [[pf-tek-jar-preparation-steam-sterilization]] - [[pf-tek-jar-preparation-steam-sterilization]]
+- [[psilocybin-metabolism-psilocin-conversion]] - [[ergot-alkaloid-chemistry-history]]
+
 ## Practical Considerations
 
 Successful implementation of Mushroom Potency and Harvest Age requires attention to
@@ -76,4 +77,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

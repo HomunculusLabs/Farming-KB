@@ -5,12 +5,13 @@ updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # The Living Soil
 
-Masanobu Fukuoka's understanding of soil is foundational to his [[soil-food-web|soil organisms]], fungi, earthworms, and organic matter that maintains its own fertility.
+Masanobu Fukuoka's understanding of soil is foundational to his [[soil-food-web|soil organisms]], fungi, earthworms, and [[hamilton-composting-and-organic-matter-management]] that maintains its own fertility.
 
 ## The Soil Teems with Life
 
@@ -24,9 +25,9 @@ Farmers usually plow the soil to a depth of about four to eight inches, whereas 
 
 ## The Humus Cycle
 
-When leaves fall and plants die back, they form a layer of organic matter on the soil surface. The [[permaculture|permaculture]] principle of returning outputs as inputs.
+When leaves fall and plants die back, they form a layer of organic matter on the soil surface. The permaculture principle of returning outputs as inputs.
 
-In Fukuoka's [[fukuoka-compost-unnecessary-philosophy]] arose from direct observation of how nature manages soil fertility.
+In Fukuoka's [[fukuoka-compost-unnecessary-philosophy]] arose from [[fukuoka-direct-observation-method]] of how nature manages soil fertility.
 
 ## Earthworms and Soil Animals
 
@@ -36,19 +37,19 @@ The soil lives of its own accord and plows itself. It needs no help from man. In
 
 ## Mycorrhizal Networks
 
-Beneath the visible soil surface, vast networks of [[arbuscular-mycorrhizal-fungi|Arbuscular mycorrhizal fungi]] are the most widespread of these symbionts and play a central role in nutrient cycling.
+Beneath the visible soil surface, vast networks of [[arbuscular-mycorrhizal-fungi|Arbuscular mycorrhizal fungi]] are the most widespread of these symbionts and play a central role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
-When soil is repeatedly disturbed by tillage, these mycorrhizal networks are severed and destroyed. The plants lose access to this underground nutrient exchange system and become dependent on applied fertilizers -- creating the very dependency that [[teaming-with-microbes-no-till-gardening-soil-health|No-till gardening]] principles align with Fukuoka's observation that undisturbed soil self-enriches.
+When soil is repeatedly disturbed by tillage, these mycorrhizal networks are severed and destroyed. The plants lose access to this underground [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] system and become dependent on applied fertilizers -- creating the very dependency that [[teaming-with-microbes-no-till-gardening-soil-health|No-till gardening]] principles align with Fukuoka's observation that undisturbed soil self-enriches.
 
 The key insight is that soil fertility is not something that must be added from outside. Under natural conditions, the soil produces its own fertility through the activity of its living inhabitants. The farmer's role is not to feed the soil but to avoid destroying the mechanisms by which the soil feeds itself.
 
 ## The Soil in Rice and Barley Cultivation
 
-Fukuoka's [[fukuoka-barley-clover-cultivation]] provided nitrogen fixation, while the rice straw mulch maintained the humus layer and suppressed weeds.
+Fukuoka's [[fukuoka-barley-clover-cultivation]] provided [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], while the rice straw mulch maintained the humus layer and suppressed weeds.
 
 ## Soil and Natural Succession
 
-When vegetation is cut and allowed to decompose on site, as Fukuoka practiced in his orchard establishment, the soil receives a massive input of organic matter that feeds microbial communities and initiates a cascade of soil-building processes. The large trunks, branches, and leaves of felled trees are arranged or buried in trenches running along hill contours, covered with earth, and allowed to decompose naturally.
+When vegetation is cut and allowed to decompose on site, as Fukuoka practiced in his [[fukuoka-citrus-orchard-establishment-bare-hillside]], the soil receives a massive input of organic matter that feeds microbial communities and initiates a cascade of soil-building processes. The large trunks, branches, and leaves of felled trees are arranged or buried in trenches running along hill contours, covered with earth, and allowed to decompose naturally.
 
 [[fukuoka-soil-building-approach]] that results is self-reinforcing: better soil supports more vegetation, which produces more organic matter, which further improves the soil.
 
@@ -81,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

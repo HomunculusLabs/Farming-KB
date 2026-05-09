@@ -1,5 +1,5 @@
 ---
-title: "3-TM (3-THIOMESCALINE; 3,4-DIMETHOXY-5-METHYLTHIOPHENETHYLAMINE) -- PIHKAL Entry #155"
+title: "3-TM (3-THIOMESCALINE; 3,4-DIMETHOXY-5-METHYLTHIOPHENETHYLAMINE) -- 2c-b-pihkal-entry-20 #155"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 3-TM
 
-PIHKAL entry #155. 3-THIOMESCALINE; 3,4-DIMETHOXY-5-METHYLTHIOPHENETHYLAMINE.
+[[2c-b-pihkal-entry-20]] #155. 3-THIOMESCALINE; 3,4-DIMETHOXY-5-METHYLTHIOPHENETHYLAMINE.
 
 ## Chemical Name
 
@@ -139,7 +139,7 @@ H2SO4, followed by a solution of 0.7 g
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent and psychoactive substances that may carry unknown risks. Mckenna [[mme-entity-pihkal]]
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. Mckenna [[mme-entity-pihkal]]
 
 - [[shulgin-safety-principles-self-experimentation]]
 

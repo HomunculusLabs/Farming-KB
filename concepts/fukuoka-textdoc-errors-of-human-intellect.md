@@ -11,10 +11,10 @@ type: concept
 
 # Errors of the Human Intellect
 
-Fukuoka's epistemological critique of scientific agriculture begins with an
+Fukuoka's epistemological [[fukuoka-critique-of-scientific-agriculture]] agriculture begins with an
 examination of how the human intellect fundamentally misapprehends nature. He
 traces this error to the Western philosophical tradition that placed man in
-opposition to nature, using discriminating knowledge to attempt a detached
+opposition to nature, using [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]] to attempt a detached
 interpretation of the natural world.
 
 ## The Western Man-Nature Dichotomy
@@ -34,7 +34,7 @@ destruction and reconstruction arose the natural sciences.
 
 ## Nature Must Not Be Dissected
 
-Scientific farming first arose when man, observing plants as they grew, came
+[[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] first arose when man, observing plants as they grew, came
 to know these and later grew convinced that he could raise them himself. Yet
 has man really known nature? Man believes that to know a stalk of wheat, he
 must first take it in his hand, dissect it, and analyze it. He thinks that
@@ -53,7 +53,7 @@ were originally not divided and separate. All were joined in perfect order
 under a single conductor's baton and resonated together in exquisite harmony.
 Yet, when science inserted its scalpel, a complex and horrendously chaotic
 array of elements appeared. All science has succeeded in doing is to peel the
-skin off a beautiful woman and reveal a bloody mass of tissue.
+skin off a [[fukuoka-scalpel-beautiful-woman-science-nature]] and reveal a bloody mass of tissue.
 
 ## The Danger of Synthesis
 
@@ -62,7 +62,7 @@ has challenged the mystery of life itself. Following his interests blindly,
 he is intently at work on the synthesis of life without knowing what the
 successful creation of living cells means or the repercussions it might have.
 Scientists have even begun venturing into chromosome synthesis. Man can
-already create and alter living organisms like the Creator.
+already create and alter [[savory-living-organisms-as-tools]] like the Creator.
 
 This connects to Fukuoka's warnings in [[fukuoka-biotechnology-computers-warning]] about the dangers of playing
 with forces beyond human comprehension.
@@ -73,12 +73,12 @@ Just as the world known to a frog in a well is not the entire world but only
 the world within that well, so the nature that man can perceive and know is
 only that nature which he has been able to grasp with his own hands and his
 own subjectivity. But of course, this is not true nature. This connects to
-[[fukuoka-soil-microbiology]] and
+[[soil-microbiology-in-natural-farming]] and
 [[fukuoka-theory-discriminating-vs-nondiscriminating-knowledge]].
 
 ## The Limits of Analytical Knowledge
 
-The scientific method begins with research that discriminates, breaks down,
+The [[fukuoka-limits-scientific-method-agriculture]] begins with research that discriminates, breaks down,
 and analyzes, so the truths it grasps can never be absolute and universal.
 Scientific knowledge is by definition fragmented and incomplete; no matter
 how many bits of incomplete knowledge are collected together, they can never

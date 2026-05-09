@@ -5,6 +5,7 @@ tags: [query, permaculture, herb-spiral, garden-design, microclimate]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: query
 ---
@@ -13,7 +14,7 @@ type: query
 
 ## Short Answer
 A herb spiral is a compact, vertical garden structure shaped like a rising spiral that
-grows a wide variety of culinary and medicinal herbs in a small footprint. It is one
+grows a wide variety of culinary and [[permaculture-plants-medicinal-herbs-healing]] in a small footprint. It is one
 of the most iconic elements of [[herb-spiral-microclimate-design]] page explores these microclimate
 zones in greater depth.
 
@@ -24,7 +25,7 @@ course of stones or bricks in a spiral pattern beginning at the perimeter, and t
 stacking successive courses upward toward the center. Good drainage is critical, so
 a base layer of gravel or rubble is often laid down before adding topsoil enriched
 with compost. The stones also serve as a thermal mass, absorbing heat during the
-day and releasing it slowly at night, which extends the growing season for
+day and releasing it slowly at night, which extends the [[savory-growing-season-and-non-growing-season-management]] for
 frost-sensitive herbs. For step-by-step building instructions, the
 [[permaculture-principles]], most notably the principle to [[mollison-designers-herb-spiral-design-construction]], emphasize the functional
 rationale behind every dimension of the spiral.
@@ -32,18 +33,18 @@ rationale behind every dimension of the spiral.
 Water management is another important consideration. Herb spirals can be designed
 with a small pond or bog garden at the base where the spiral meets the ground.
 This pond collects runoff from the spiral above, creating a wetland microzone that
-supports water-loving plants and attracts frogs and beneficial insects. The
+supports water-loving plants and attracts frogs and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. The
 water then slowly infiltrates back into the surrounding soil, reducing overall
 irrigation needs. This integration of water features is a hallmark of thoughtful
 [[comparison-herb-spiral-vs-keyhole-beds]]. Similarly,
 [[herb-garden-design]] context.
-The herb spiral works best when integrated into a larger kitchen garden layout near
+The herb spiral works best when integrated into a larger [[holzer-kitchen-garden-herbs-and-medicinal-plants]] layout near
 the house, since the most frequently harvested herbs should be the most accessible.
 It also pairs well with [[herb-spiral-microclimate-design]] for details.
 - Construction involves stacking stones or bricks in a rising spiral with a gravel
   drainage base and compost-enriched soil; full instructions are on the
-  [[use-edges-and-value-the-marginal]]
-  by maximizing edge effect and stacking multiple functions into one element.
+  use-edges-and-value-the-marginal
+  by maximizing [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]] and stacking multiple functions into one element.
 - Herb spirals can be compared to other permaculture garden features such as keyhole
   beds and banana circles to determine the best fit for a given site; see
   [[comparison-banana-circle-vs-herb-spiral]].
@@ -68,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: "Foliar Spots, Blight, and Fungal Leaf Diseases (Cervantes)"
+title: "cervantes foliar spots blight fungal leaf diseases, Blight, and Fungal Leaf Diseases (Cervantes)"
 created: 2026-04-28
 tags:
   - cannabis
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -29,7 +30,7 @@ bacteria, nematodes, and environmental stress.
 
 ### Identification
 
-Leaf and stem fungi, including leaf spot, attack foliage
+Leaf and stem fungi, including [[jadam-canker-leaf-spot-pesticide]], attack foliage
 producing brown, gray, black, or yellow to white spots or
 blotches on leaves and stems. Leaves and stems discolor and
 develop spots that impair plant fluid flow and other life
@@ -55,7 +56,7 @@ To avoid temperature-stress spots, move HID lamps away from
 the garden canopy about 30 minutes before spraying so plants
 will not be too hot. Do not spray within four hours of turning
 lights off, as excess moisture sitting on foliage fosters
-fungal growth.
+[[brassinosteroid-fungal-growth-promotion]].
 
 ### Control
 
@@ -87,7 +88,7 @@ fungal leaf diseases:
 
 1. Cleanliness: Remove all debris, dead leaves, and potential
    hiding places for fungi
-2. Low humidity: Maintain 40-50 percent relative humidity
+2. [[pf-tek-low-humidity-symptoms-and-remediation]]: Maintain 40-50 percent relative humidity
 3. Ventilation: Install adequate fans and venting to keep air
    moving
 4. Proper spacing: Allow enough room between plants for air
@@ -102,7 +103,7 @@ fungal leaf diseases:
 
 Cervantes provides a troubleshooting chart that maps specific
 symptoms to likely causes. The fundamental principle is that
-problems in vegetative growth will continue through flowering
+problems in [[cannabis-vegetative-growth-stage]] will continue through flowering
 and must be remedied early. During flowering, only the first
 two to three weeks allow effective intervention. Problems that
 persist through flowering substantially diminish yield.
@@ -113,4 +114,4 @@ persist through flowering substantially diminish yield.
 - [[cervantes-fusarium-vascular-wilt-diseases]] - Fusarium
   wilt
 - [[cervantes-damping-off-seedling-disease-prevention]] -
-  seedling disease
+  [[cervantes-damping-off-seedling-disease-prevention]]

@@ -12,9 +12,9 @@ tags:
   - haze
 sources:
   - Green, D. (2021). "Cannabis: Evolution and Ethnobotany." University of California Press.
-  - Smart, R. et al. (2017). "Cannabinoid and terpene profiles of popular cannabis strains." Cannabis and Cannabinoid Research, 2(1), 47-54.
+  - Smart, R. et al. (2017). "Cannabinoid and [[cannabis-terpene-profiles-sativa]] of popular cannabis strains." Cannabis and Cannabinoid Research, 2(1), 47-54.
   - Clarke, R.C. & Merlin, M.D. (2013). Cannabis: Evolution and Ethnobotany. UC Press.
-  - ElSohly, M.A. et al. (2016). "Changes in cannabis potency over the last two decades." Biological Psychiatry, 79(7), 613-619.
+  - ElSohly, M.A. et al. (2016). "Changes in [[green-cannabis-potency-maximizing]] over the last two decades." Biological Psychiatry, 79(7), 613-619.
 ---
 
 # Blue Dream
@@ -41,7 +41,7 @@ The Blueberry parent contributes dense bud structure, sweet flavor, and physical
 - **Secondary notes:** Vanilla, floral, slight pepper
 - **Taste:** Smooth, berry-forward with a subtle earthy exhale
 
-The aroma is dominated by sweet, fruity notes inherited from the Blueberry parent. A floral undertone comes from the Haze lineage. The flavor profile is considered exceptionally smooth among cannabis users, contributing to its broad popularity.
+The aroma is dominated by sweet, fruity notes inherited from the Blueberry parent. A floral undertone comes from the [[sativa-haze-lineage-breeding-history]]. The flavor profile is considered exceptionally smooth among cannabis users, contributing to its broad popularity.
 
 Blue Dream's terpene profile is dominated by myrcene, which accounts for the berry sweetness and relaxing body component. The presence of caryophyllene adds a subtle peppery spice, while pinene contributes a faint pine note on the exhale.
 
@@ -76,9 +76,9 @@ The balanced nature of Blue Dream means moderate doses are often sufficient for 
 - **Difficulty:** Moderate
 - **Climate:** Warm, Mediterranean preferred; tolerates slightly cooler autumn
 
-Blue Dream is relatively forgiving for growers with moderate experience. It responds well to SCROG (Screen of Green) and LST (Low Stress Training) techniques. The plants develop large, dense colas that may require support in later flowering.
+Blue Dream is relatively forgiving for growers with moderate experience. It responds well to SCROG ([[cannabis-screen-of-green-scrog-guide]]) and LST (Low Stress Training) techniques. The plants develop large, dense colas that may require support in later flowering.
 
-Nutrient requirements are moderate. The strain is susceptible to powdery mildew in humid conditions and should be managed with adequate airflow. Pest resistance is average. Resin production is high, with visible trichome coverage by week 7 of flowering.
+Nutrient requirements are moderate. The strain is susceptible to [[cervantes-powdery-mildew-prevention-treatment]] in humid conditions and should be managed with adequate airflow. Pest resistance is average. [[cannabis-glandular-trichome-types-resin-production-clarke]] is high, with visible trichome coverage by week 7 of flowering.
 
 ## Terpene Profile
 

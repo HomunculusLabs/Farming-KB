@@ -24,7 +24,7 @@ sources:
 - **Subfamily:** Cactoideae
 - **Tribe:** Trichocereeae
 - **Genus:** Echinopsis (formerly *Trichocereus*; the genus was expanded to include Trichocereus following molecular phylogenetic studies by Ritz et al. in 2007)
-- **Distribution:** Andean cordillera from approximately 2,000 to 3,000 m elevation in Ecuador, Peru, Bolivia, and northern Chile. Widely cultivated and naturalized in other regions including the Canary Islands, the Mediterranean, East Africa, parts of the United States, and Australia.
+- **Distribution:** Andean cordillera from approximately 2,000 to 3,000 m elevation in Ecuador, Peru, Bolivia, and northern Chile. Widely cultivated and naturalized in other regions including the Canary Islands, the Mediterranean, East Africa, parts of the [[dmt-containing-plants-united-states-halpern]], and Australia.
 - **Common names:** San Pedro (Spanish), Wachuma (Quechua), Aguacolla, Huachuma, Cactus de San Pedro, Gigantón.
 
 The species was originally described as *Cereus pachanoi* by Britton & Rose in 1920, based on specimens collected near Cuenca, Ecuador. It was later transferred to *Trichocereus* and more recently to *Echinopsis* following molecular phylogenetic revisions of the Cactaceae. The taxonomic reclassification remains controversial among horticulturists and ethnobotanists, many of whom continue to use *Trichocereus pachanoi*. Related species used similarly in traditional and contemporary contexts include *Echinopsis peruviana* (Peruvian torch) and *Echinopsis bridgesii* (Bolivian torch).
@@ -37,7 +37,7 @@ E. pachanoi is a large columnar cactus that can reach 3–6 meters in height and
 
 - **Stems:** Light to dark green, cylindrical, with 4–8 (typically 6–7) ribs that are broad and rounded. The epidermis is smooth with a slight glaucous bloom. The cortical layer beneath the skin is thick and is the primary site of alkaloid storage.
 - **Areoles:** Spaced approximately 1–2 cm apart along the ribs, bearing 1–4 small yellowish-brown central spines (up to 2 cm long) and 7–15 radial spines that are shorter and lighter colored. Some cultivated clones are nearly spineless, which is a desirable trait for ornamental cultivation.
-- **Flowers:** Large, showy, white, funnel-shaped, 19–24 cm long, opening at night and remaining open through the following morning. Blooms primarily during the warm season (spring and summer in the Southern Hemisphere). Flowers are pollinated by bats and large moths.
+- **Flowers:** Large, showy, white, funnel-shaped, 19–24 cm long, opening at night and remaining open through the following morning. Blooms primarily during the warm season (spring and summer in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]). Flowers are pollinated by bats and large moths.
 - **Fruit:** Ovoid, green to yellowish, 5–6 cm long, edible, containing numerous small black seeds. The fruit is mildly sweet and eaten locally.
 
 The species is characterized by its rapid growth rate—up to 30–60 cm per year under optimal conditions. Mature specimens produce lateral branches (pups) that can be removed and rooted as new plants. Individual specimens can live for decades or longer. The root system is relatively shallow and spreading, adapted to the well-drained volcanic soils of the Andean slopes.
@@ -63,13 +63,13 @@ San Pedro is one of the oldest known psychoactive plants in the Americas. Archae
 
 In the Andean worldview, San Pedro is considered a sacred being—a teacher and healer with its own consciousness and personality. The cactus is personified as *Abuelo San Pedro* (Grandfather San Pedro) and is addressed with prayers and offerings in traditional ceremonies. The relationship between the curandero and the cactus is understood as one of mutual respect and reciprocity.
 
-Traditional preparation methods include:
+[[kava-traditional-preparation-ceremonial-context]] methods include:
 
 - **Brewing (the most common method):** Slicing the fresh cactus into sections, boiling for extended periods (2–8 hours or longer), and reducing the liquid to a concentrated, intensely bitter-tasting beverage. The brew is often boiled multiple times to extract maximum alkaloids and reduce volume.
 - **Drying:** Cutting the cactus into thin slices ("chips" or "buttons") and sun-drying or dehydrating for later use. Dried material can be reconstituted into a brew or powdered and encapsulated.
 - **Powdering:** Dried material is ground into a fine powder, which may be encapsulated or mixed with water. This method is more common in modern non-traditional use.
 
-In contemporary Andean curanderismo (folk healing), San Pedro ceremonies (mesadas) are conducted by curanderos for purposes including:
+In contemporary Andean curanderismo ([[entheogen-cimora-folk-healing-ceremony]]), San Pedro ceremonies (mesadas) are conducted by curanderos for purposes including:
 
 - Physical healing (treatment of various ailments, especially those attributed to spiritual causes such as *susto* or *mal aire*)
 - Divination and diagnosis of illness through the visionary states induced by the cactus
@@ -81,9 +81,9 @@ The ceremony typically involves the consumption of the cactus brew, often accomp
 
 ## Cultivation
 
-E. pachanoi is among the easiest and fastest-growing columnar cacti. It is widely cultivated by ethnobotanical enthusiasts, spiritual practitioners, cactus collectors, and commercial nurseries. Propagation methods include:
+E. pachanoi is among the easiest and fastest-growing columnar cacti. It is widely cultivated by ethnobotanical enthusiasts, spiritual practitioners, cactus collectors, and commercial nurseries. [[vegetative-propagation-methods-mollison]] include:
 
-- **Cuttings** (most common): Sections of stem are cut, allowed to callus for 1–4 weeks, then placed in well-draining soil. Rooting typically occurs in 2–6 weeks during the warm growing season.
+- **Cuttings** (most common): Sections of stem are cut, allowed to callus for 1–4 weeks, then placed in well-draining soil. Rooting typically occurs in 2–6 weeks during the warm [[savory-growing-season-and-non-growing-season-management]].
 - **Seed** (less common): Seeds germinate readily in warm, moist conditions but seedlings are slow-growing for the first year or two. Seed-grown plants exhibit greater genetic diversity than clones.
 
 The cactus tolerates a wide range of conditions but prefers full sun to partial shade, moderate water during the growing season (with dry rest periods in winter), and protection from hard frost (can tolerate brief exposure to -5°C but sustained freezing is fatal). Well-draining, slightly acidic to neutral soil is ideal. Fertilization during the growing season promotes vigorous growth.

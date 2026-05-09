@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-**Lithospermum erythrorhizon** is a perennial herbaceous plant in the family Boraginaceae, widely known as purple gromwell or Zicao (紫草) in traditional Chinese medicine. The species is renowned for producing shikonin and alkannin, red naphthoquinone pigments concentrated in its root bark that have been used for centuries as dyes and medicinals.
+**Lithospermum erythrorhizon** is a perennial herbaceous plant in the family Boraginaceae, widely known as purple gromwell or Zicao (紫草) in traditional Chinese medicine. The species is renowned for producing shikonin and alkannin, red naphthoquinone pigments concentrated in its [[iboga-root-bark-preparation]] that have been used for centuries as dyes and medicinals.
 
 In East Asian pharmacopoeias, the dried root of L. erythrorhizon is prescribed for its anti-inflammatory, antimicrobial, and wound-healing properties. Modern research has validated several of these traditional uses and identified shikonin as the principal bioactive compound responsible for most pharmacological effects.
 
@@ -45,7 +45,7 @@ The species prefers well-drained, sandy or loamy soils in open woodland margins,
 
 Optimal growth occurs in partial shade to full sun with moderate moisture. Wild populations have declined in parts of China and Japan due to overharvesting for medicinal use, leading to cultivation programs in several provinces.
 
-The plant is winter-hardy and capable of surviving temperatures below −20°C when dormant. It requires a cold stratification period for seed germination, with optimal germination occurring after 4–6 weeks at 2–5°C.
+The plant is winter-hardy and capable of surviving temperatures below −20°C when dormant. It requires a cold stratification period for [[cannabis-seed-germination-methods]], with optimal germination occurring after 4–6 weeks at 2–5°C.
 
 ## Bioactive Compounds and Pharmacology
 
@@ -55,7 +55,7 @@ Shikonin exhibits broad-spectrum antimicrobial activity against Gram-positive ba
 
 Anti-inflammatory effects are mediated through inhibition of NF-κB signaling, TNF-α suppression, and cyclooxygenase-2 (COX-2) downregulation. Topical preparations of shikonin accelerate wound healing in animal models by promoting fibroblast proliferation and angiogenesis.
 
-Recent studies have identified anticancer properties of shikonin, including induction of apoptosis in various cancer cell lines via reactive oxygen species (ROS) generation and inhibition of the PI3K/Akt/mTOR pathway. However, clinical evidence remains limited to in vitro and animal models.
+Recent studies have identified anticancer properties of shikonin, including induction of apoptosis in various [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines via reactive oxygen species (ROS) generation and inhibition of the PI3K/Akt/mTOR pathway. However, clinical evidence remains limited to in vitro and animal models.
 
 Other bioactive compounds isolated from the root include lithospermic acid, rosmarinic acid derivatives, and various caffeic acid oligomers, which contribute antioxidant and hepatoprotective effects.
 
@@ -67,7 +67,7 @@ Classical indications include eruptive skin diseases such as measles, eczema, an
 
 In the Japanese Kampo tradition, the herb is known as Shikon and is included in formulas such as Shiunkō, an ointment used for burns, wounds, and hemorrhoids. The vivid red pigment of the root gives Shiunkō its characteristic purple color.
 
-Korean traditional medicine also employs Zicao for similar indications, particularly for inflammatory skin conditions and as a hemostatic agent. Contemporary Korean research has focused on standardizing shikonin content in commercial preparations.
+Korean traditional medicine also employs Zicao for similar indications, particularly for inflammatory [[cannabis-for-skin-conditions-detailed]] and as a hemostatic agent. Contemporary Korean research has focused on standardizing shikonin content in commercial preparations.
 
 Dosage in TCM formulas typically ranges from 3–10 g of dried root per decoction. The root is harvested in autumn when pigment content peaks, then dried slowly to preserve naphthoquinone integrity.
 
@@ -77,7 +77,7 @@ Cultivation of L. erythrorhizon has become increasingly important as wild popula
 
 Seeds require cold stratification and light for germination. Sowing is typically done in spring in prepared seedbeds with well-drained, slightly acidic soil (pH 5.5–7.0). Germination rates are moderate at 40–60% under optimal conditions.
 
-Transplanting to field positions occurs when seedlings reach 5–10 cm in height, usually 6–8 weeks after sowing. Spacing of 30–40 cm between plants allows adequate root development. Partial shade during the first growing season improves survival rates.
+Transplanting to field positions occurs when seedlings reach 5–10 cm in height, usually 6–8 weeks after sowing. Spacing of 30–40 cm between plants allows adequate root development. Partial shade during the first [[savory-growing-season-and-non-growing-season-management]] improves survival rates.
 
 Root harvest typically begins 2–3 years after planting. Maximum shikonin content is reached during the autumn of the second or third year. Yields of dried root range from 200–400 kg per hectare under cultivated conditions.
 
@@ -97,7 +97,7 @@ Wild populations of L. erythrorhizon have declined significantly across much of 
 
 In Japan, wild harvest is strictly regulated under the national endangered species framework. Cultivation programs have been established in Hokkaido and northern Honshu to supply pharmaceutical demand while reducing pressure on wild populations.
 
-Korean conservation efforts have focused on both in situ protection of wild habitats and ex situ germplasm conservation. Tissue culture protocols for mass propagation have been developed to support commercial cultivation and species conservation.
+Korean conservation efforts have focused on both in situ protection of wild habitats and ex situ germplasm conservation. [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] protocols for mass propagation have been developed to support commercial cultivation and species conservation.
 
 Habitat loss from agricultural expansion and urbanization poses an additional threat to remaining wild populations. Protected area designations in mountainous regions of Gansu, Shaanxi, and Sichuan provinces provide some safeguard for key populations in China.
 

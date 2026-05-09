@@ -1,5 +1,5 @@
 ---
-title: Ayahuasca Tourism Economics and the Commodification of Ceremony in Peru
+title: Ayahuasca ayahuasca tourism economics commodification peru and the Commodification of Ceremony in Peru
 created: 2026-04-28
 tags: [ayahuasca, tourism, peru, commodification, economics, shamanism, shipibo, ceremony, ethics, amazon]
 date: 2026-04-28
@@ -15,7 +15,7 @@ type: concept
 
 The economic dynamics of [[ayahuasca-tourism]] - General overview of ayahuasca tourism
 - [[icaros-power-songs]] - The ceremonial songs integral to authentic ayahuasca practice
-- [[ayahuasca-tourism-ethics-and-commodification]] - Ethical dimensions of spiritual tourism
+- [[ayahuasca-tourism-ethics-and-commodification]] - Ethical dimensions of [[western-spiritual-tourism-chronology]]
 ## Background and Context
 
 Ayahuasca Tourism Economics and the Commodification of Ceremony in Peru is an important subject that has garnered significant attention
@@ -143,5 +143,8 @@ include primary research literature, established reference works,
 practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
-area and contributing to its ongoing development and refinement.
+## See Also
 
+- [[ayahuasca-tourism-cost-analysis-peru-vs-homebrew]]
+
+- [[ayahuasca-tourism-peru]]

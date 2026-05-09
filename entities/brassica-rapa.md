@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Warwick, S.I. et al. (2000). "Brassica rapa." In: Brassicaceae, CRC Press.
   - Prakash, S. & Hinata, K. (1980). "Taxonomy, cytogenetics and origin of Brassica." Advances in Agronomy 33: 237–276.
-  - Song, K. et al. (1990). "Molecular marker analysis of Brassica rapa." Theoretical and Applied Genetics 79: 499–506.
+  - Song, K. et al. (1990). "[[rapd-molecular-marker-techniques-fungi]] analysis of Brassica rapa." Theoretical and Applied Genetics 79: 499–506.
   - Toxopeus, H. & Jansen, R. (1975). "Brassica rapa L." In: Crop Genetic Resources for Today and Tomorrow, Cambridge University Press.
 ---
 
@@ -33,7 +33,7 @@ to the formation of two important polyploid crop species: B. napus
 (rapeseed/canola) and B. juncea (Indian mustard).
 
 The species exhibits remarkable morphological diversity across its cultivated
-forms, ranging from swollen root vegetables to leafy greens to oilseed crops.
+forms, ranging from swollen [[growing-root-vegetables-guide]] to [[solomon-leafy-greens-growing]] to oilseed crops.
 This plasticity has made it a model organism for studying plant domestication.
 
 ## Taxonomy and Morphology
@@ -76,7 +76,7 @@ morphotypes tolerate light frost, and some turnip varieties are winter-hardy
 to -10°C.
 
 Turnips mature rapidly, reaching harvestable size in 35–60 days from sowing.
-This fast growth makes them valuable as catch crops and for succession planting
+This fast growth makes them valuable as catch crops and for [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]]
 in temperate regions.
 
 Chinese cabbage and bok choy require 50–80 days to maturity. These crops
@@ -95,7 +95,7 @@ brassicae), cabbage root fly (Delia radicum), and diamondback moth (Plutella
 xylostella).
 
 Diseases of concern include clubroot (Plasmodiophora brassicae), black rot
-(Xanthomonas campestris pv. campestris), and downy mildew (Hyaloperonospora
+(Xanthomonas campestris pv. campestris), and [[cervantes-downy-mildew-fungal-blight]] (Hyaloperonospora
 parasitica).
 
 ## Nutritional Value
@@ -128,7 +128,7 @@ prized for their sweetness and tenderness.
 
 Chinese cabbage is the basis of kimchi, the fermented Korean national dish.
 It is also used in stir-fries, soups, and hot pot preparations throughout
-East and Southeast Asia.
+East and [[psilocybe-southeast-asia-pacific]].
 
 Bok choy is a staple in Chinese stir-fries and is also used in soups,
 steamed dishes, and braised preparations. Both stalks and leaves are eaten,

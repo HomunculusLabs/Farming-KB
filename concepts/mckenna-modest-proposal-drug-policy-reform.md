@@ -1,5 +1,5 @@
 ---
-title: A Modest Proposal for Drug Policy Reform
+title: A mckenna modest proposal drug policy reform for Drug Policy Reform
 created: 2026-04-28
 tags: [drug-policy, legalization, McKenna, food-of-the-gods, prohibition, reform, psychedelics]
 date: 2026-04-28
@@ -10,11 +10,11 @@ type: concept
 
 # A Modest Proposal for Drug Policy Reform
 
-In the closing chapters of Food of the Gods, McKenna moves from historical analysis to political prescription. His nine-point proposal for drug policy reform represents his most concrete attempt to translate the archaic revival into legislative action, grounding legalization in democratic principle and practical pharmacology.
+In the closing chapters of Food of the Gods, McKenna moves from historical analysis to political prescription. His nine-point proposal for drug policy reform represents his most concrete attempt to translate the [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]] into legislative action, grounding legalization in democratic principle and practical pharmacology.
 
 ## The Fundamentalist Contribution
 
-In the United States, the federal government's zeal to appear to wish to eradicate drugs is directly linked to the degree to which the government has been co-opted by the values of fundamentalist Christianity. We entertain the illusion of constitutional separation of church and state, but the reality is more complex.
+In the [[dmt-containing-plants-united-states-halpern]], the federal government's zeal to appear to wish to eradicate drugs is directly linked to the degree to which the government has been co-opted by the values of [[mckenna-food-gods-fundamentalist-christianity-drug-war]]. We entertain the illusion of constitutional separation of church and state, but the reality is more complex.
 
 When the government prohibited alcohol during Prohibition, when it interfered with reproductive freedom, or with the use of [[shamanism]] that heralds the abandonment of the monkey body and tribal group that has always been our context. The age of the imagination is dawning.
 
@@ -108,4 +108,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

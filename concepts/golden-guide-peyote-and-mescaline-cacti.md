@@ -1,5 +1,5 @@
 ---
-title: "Golden Guide: Peyote and Mescaline Cacti"
+title: "Golden Guide: golden guide peyote and mescaline cacti Cacti"
 created: 2026-04-28
 tags: [hallucinogenic-plants, peyote, mescaline, cactaceae, lophophora,
   trichocereus, san-pedro, ethnobotany, native-american-church]
@@ -66,7 +66,7 @@ indicate that a variety of other plants may sometimes be added to the brew,
 including *Neoraimondia macrostibas*, *Pedilanthus tithymaloides*, and
 *Isotoma longiflora*. On occasion, Datura is added.
 
-Cimora is the basis of a folk healing ceremony that combines ancient
+Cimora is the basis of a [[entheogen-cimora-folk-healing-ceremony]] ceremony that combines ancient
 indigenous ritual with imported Christian elements. An observer has described
 the plant as "the catalyst that activates all the complex forces at work in
 a folk healing session, especially the visionary and divinatory powers" of
@@ -95,7 +95,7 @@ one of contentment and extrasensitivity, followed by artificial calm and
 muscular sluggishness. Before visions appear, some three hours after eating
 peyote, there are flashes and scintillations in colors.
 
-Use of peyote in the United States first came to public attention about 1880
+Use of peyote in the [[dmt-containing-plants-united-states-halpern]] first came to public attention about 1880
 when the Kiowa and Comanche Indians established a peyote ceremony. By 1920,
 the peyote cult numbered over 13,000 faithful in more than 30 tribes. It was
 legally organized into the Native American Church, which now claims 250,000

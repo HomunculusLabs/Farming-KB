@@ -63,7 +63,7 @@ Up to 1 hour (smoked/i.v.); effects peak within minutes and resolve rapidly.
 
 DMT and 5-MeO-DMT are the mainstay chemicals in most Amazonian snuffs. A major plant source for cohoba is the ground beans of Piptadenia peregrina (also classified as Anadenanthera or Mimosa). The alkaloid content among species is most variable. With P. peregrina and P. macrocarpa, the major contents of the beans and their pods appears to be bufotenine, its N-oxide, and the oxide of DMT.
 
-The roots of Mimosa hostilis are reputed to be the source of the drink jumera, or vinho de jurema. The only alkaloid present, originally called nigerine, has proved to be DMT. Pasture grasses such as reed canarygrass (Phalaris tuberosa, P. arundinacea) have also revealed the presence of alkaloids like DMT and 5-MeO-DMT.
+The roots of [[entheogen-jurema-mimosa-hostilis-ethnobotany]] are reputed to be the source of the drink jumera, or vinho de jurema. The only alkaloid present, originally called nigerine, has proved to be DMT. Pasture grasses such as reed canarygrass (Phalaris tuberosa, P. arundinacea) have also revealed the presence of alkaloids like DMT and 5-MeO-DMT.
 
 ## Extensions and Commentary
 
@@ -83,14 +83,14 @@ Multiple melting point values exist in the literature (all °C): 44, 44.6–46.8
 
 ## Synthesis
 
-DMT can be synthesized by multiple routes: from indole via oxalyl chloride/dimethylamine/LAH reduction (91% yield), from tryptamine via ethyl formate/LAH (the Manske route), or by demethylation of N,N,N-trimethyltryptammonium iodide (the DMT methiodide salt) using LiEt3BH or by pyrolysis of the chloride salt.
+DMT can be synthesized by multiple routes: from indole via [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]]/dimethylamine/LAH reduction (91% yield), from tryptamine via ethyl formate/LAH (the Manske route), or by demethylation of N,N,N-trimethyltryptammonium iodide (the DMT methiodide salt) using LiEt3BH or by pyrolysis of the chloride salt.
 
 ## See Also
 
 - [[psilocin-entity-tihkal]] — the 4-hydroxy analogue (psilocybin's active metabolite)
 - [[det-entity-tihkal]] — the diethyl homologue, orally active
 - [[5-meo-dmt-compound-profile]] — additional compound profile
-- [[ayahuasca-brewing-guide]] — traditional preparation using DMT-containing plants
+- [[ayahuasca-brewing-guide]] — [[kava-traditional-preparation-ceremonial-context]] using DMT-containing plants
 
 ## Related
 

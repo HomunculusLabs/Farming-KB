@@ -16,7 +16,7 @@ sources:
 
 # Fusarium graminearum
 
-**Fusarium graminearum** is a major [[agar]], producing fluffy, aerial mycelium with a carmine red to reddish-brown pigmentation on the reverse side
+**Fusarium graminearum** is a major agar, producing fluffy, aerial mycelium with a carmine red to reddish-brown pigmentation on the reverse side
 - **Macroconidia:** Slender, curved (falcate), typically 5-septate (occasionally 3 to 7 septate), measuring 25 to 65 by 3 to 6 μm, with a distinctive foot-shaped basal cell and a pointed apical cell
 - **Microconidia:** Rarely produced, unicellular, ovoid to ellipsoidal, 5 to 10 by 2 to 3 μm, produced on monophialides or polyphialides
 - **Chlamydospores:** Thick-walled survival structures, globose to subglobose, produced singly or in pairs, important for long-term survival in soil
@@ -41,7 +41,7 @@ The disease cycle of *F. graminearum* involves both sexual and asexual reproduct
 
 - **Primary Hosts:** Wheat (*Triticum aestivum*), barley (*Hordeum vulgare*), maize (*Zea mays*), and triticale
 - **Secondary Hosts:** Oats, rye, rice, and various grass species
-- **Geographic Range:** Nearly worldwide in temperate and subtropical cereal-growing regions. Particularly prevalent in humid and semi-humid areas, including the Midwestern United States, eastern Canada, the Pampas of Argentina, the Po Valley of Italy, and the lower Yangtze River Valley of China
+- **Geographic Range:** Nearly worldwide in temperate and subtropical cereal-growing regions. Particularly prevalent in humid and semi-humid areas, including the Midwestern [[dmt-containing-plants-united-states-halpern]], eastern Canada, the Pampas of Argentina, the Po Valley of Italy, and the lower Yangtze River Valley of China
 
 ## Mycotoxins
 
@@ -53,9 +53,9 @@ The genome of *F. graminearum* PH-1 was one of the first Fusarium genomes to be 
 
 - **Genome Size:** Approximately 36 Mb, containing approximately 13,300 predicted protein-coding genes
 - **Chromosome Number:** 4 chromosomes
-- **Gene Clusters:** Contains numerous secondary metabolite biosynthetic gene clusters, including the TRI (trichothecene) gene cluster spanning approximately 26 kb and containing 15 core genes
+- **Gene Clusters:** Contains numerous [[fungal-elicitors-enhanced-secondary-metabolite-production]] biosynthetic gene clusters, including the TRI (trichothecene) gene cluster spanning approximately 26 kb and containing 15 core genes
 - **Transposable Elements:** A significant portion of the genome consists of transposable elements, which contribute to genome plasticity and the evolution of virulence and toxin profiles
-- **Comparative Genomics:** Comparison with other *Fusarium* species has revealed both shared and unique virulence factors, providing insights into the evolution of plant pathogenicity
+- **Comparative Genomics:** Comparison with other *Fusarium* species has revealed both shared and unique [[fungal-virulence-factors-host-immune-evasion]], providing insights into the evolution of plant pathogenicity
 
 ## Management and Control
 
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

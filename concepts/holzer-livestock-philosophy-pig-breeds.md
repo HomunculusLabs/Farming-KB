@@ -1,11 +1,12 @@
 ---
-title: Holzer Livestock Philosophy and Old Pig Breeds
+title: Holzer holzer-livestock-philosophy-paddock-system and Old Pig Breeds
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Livestock Philosophy and Old Pig Breeds
@@ -25,7 +26,7 @@ Sepp Holzer's philosophy on livestock keeping and detailed descriptions of old p
 
 ### Against Intensive Farming
 
-Holzer considers intensive livestock farming "torture of large numbers of animals." Issues with modern production:
+Holzer considers intensive [[fukuoka-textdoc-natural-livestock-farming-open-grazing]] "torture of large numbers of animals." Issues with modern production:
 
 - Growth hormones, antibiotics, and sedatives are very common
 - Animals transported for days at a time, stress hormones passed into meat
@@ -86,7 +87,7 @@ Old domestic breeds are:
 
 #### Duroc
 
-- Emerged in north-eastern United States from crossing Spanish pig breeds (mid-19th century)
+- Emerged in north-eastern [[dmt-containing-plants-united-states-halpern]] from crossing Spanish pig breeds (mid-19th century)
 - Reddish coat, medium to large-framed with arched back and small lop ears
 - Calm, docile temperament
 - Strong resistance to stress
@@ -109,11 +110,11 @@ Holzer has successfully bred: mouflon, chamois, ibexes, red/roe/fallow deer, yak
 
 ## Marketing Benefits
 
-The strikingly coloured and less well-known old breeds with their piglets fascinate visitors and passers-by. This positive impression encourages acceptance of and interest in endangered domestic breeds and makes direct marketing of products easier.
+The strikingly coloured and less well-known old breeds with their piglets fascinate visitors and passers-by. This positive impression encourages acceptance of and interest in endangered domestic breeds and makes [[coleman-direct-marketing-and-csa-models]] of products easier.
 
 ## See Also
 
-- [[holzer-pig-integration]] — pig integration overview
+- [[holzer-pig-integration]] — [[mollison-guinea-pig-integration-in-permaculture-gardens]] overview
 - holzer livestock philosophy pig breeds — detailed pig integration methods
-- [[mollison-animal-integration-in-permaculture]] — Mollison's animal integration
+- mollison-animal-integration-in-permaculture — Mollison's [[mollison-animal-integration-permaculture-design]]
 - [[sepp-holzer-method]]. This ethical approach to animal husbandry connects to [[permaculture-animal-integration]]. This connects to [[permaculture-farm-design-principles]], [[permaculture-farm-design-principles]], [[permaculture-community-resilience]]

@@ -1,5 +1,5 @@
 ---
-title: "Garden Calendar and Checklist"
+title: "cervantes garden calendar checklist and Checklist"
 created: 2026-04-28
 tags:
   - cannabis-cultivation
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "/Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md"
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -26,7 +27,7 @@ average indoor clone life cycle from rooting through harvest.
 
 The calendar covers a three-month indoor cycle:
 - Two weeks for clones to root
-- Two weeks of vegetative growth
+- Two weeks of [[cannabis-vegetative-growth-stage]]
 - Eight weeks of flowering
 
 This calendar can be started any day of the year. Gardens using CO2
@@ -39,7 +40,7 @@ using CO2 or hydroponics.
 Check the following every week to ensure a successful crop:
 
 - **Air ventilation** functioning properly
-- **Air circulation** adequate throughout the room
+- **[[stamets-growing-room-air-circulation-co2-management]]** adequate throughout the room
 - **Humidity** at 40-50 percent
 - **Temperature:** Day 70-75F (21-24C); Night 55-60F (13-16C)
 - **Soil moisture** checked for dry pockets; water as needed
@@ -47,7 +48,7 @@ Check the following every week to ensure a successful crop:
 - **Check pH** of soil and water
 - **Rotate plants** for even light exposure
 - **Check for spider mites** under leaves and fungi on foliage
-- **Check for nutrient deficiencies** in new growth
+- **Check for [[hamilton-nutrient-deficiencies-and-treatment]]** in new growth
 - **Maintain regular fertilization schedule**
 - **Check HID system** for excessive heat at connections and ballast
 - **Cleanup** the grow room thoroughly
@@ -58,7 +59,7 @@ Check the following every week to ensure a successful crop:
 
 ### Week 1-2 (e.g., January 1)
 - Sow seeds; ensure warm conditions for speedy germination
-- Mix dolomite lime into soil before planting
+- Mix [[cervantes-dolomite-lime-ph-buffering]] into soil before planting
 - Set timer for 18-hour days and 6-hour nights
 - Fertilize seedlings and clones with an all-purpose fertilizer
 - Start regular fertilization schedule
@@ -90,7 +91,7 @@ Check the following every week to ensure a successful crop:
 - Increase air circulation and ventilation
 - Mist the garden with water to wash leaves
 - Watch for iron, magnesium, and nitrogen deficiencies
-- Apply supplemental trace element mix as needed
+- Apply supplemental [[fukuoka-textdoc-fertilizer-acidification-trace-element-deficiency]] mix as needed
 - **Watch out for diseases and pests**
 - **Plants need plenty of light to flower well**
 
@@ -137,15 +138,13 @@ Check the following every week to ensure a successful crop:
 ## Key Principles
 
 - Much of gardening is simply watching and paying attention
-- Light intensity diminishes substantially beyond four feet from the
-  bulb
-- Always examine plants under magnification to check harvest readiness
-- A well-maintained calendar prevents most problems before they start
 ## See Also
+
+- [[seasonal-garden-tasks-calendar]]
 
 - [[cervantes-flowering-phase]]
 - [[cervantes-harvest-timing-trichome-ripeness]]
 
 ## See Also
 
-- [[gaias-garden-forest-garden-installation-phased-design]]
+- gaias-garden-forest-garden-installation-phased-design

@@ -63,19 +63,19 @@ Major urban plantings include London, Paris, New York City, Philadelphia, Buenos
 
 ## Environmental Tolerance
 
-The London plane's dominance in urban forestry derives from its exceptional stress tolerance:
+The London plane's dominance in urban forestry derives from its exceptional [[fungal-lichen-stress-tolerance-and-poikilohydry]]:
 
 - **Air pollution:** Exfoliating bark continuously sheds trapped particulates. Leaves show tolerance to sulfur dioxide, ozone, and nitrogen dioxide at concentrations that damage most tree species.
 - **Soil compaction:** Produces deep, aggressive root systems capable of penetrating compacted urban soils.
 - **Drought:** Once established, tolerates extended dry periods. Deep taproot accesses groundwater unavailable to shallow-rooted species.
 - **Root restriction:** Survives in constrained planting pits with as little as 10–15 m³ of soil volume, though growth is reduced.
-- **Temperature range:** Hardy in USDA zones 5–9. Tolerates winter lows to -25°C and summer highs above 40°C.
+- **[[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]:** Hardy in USDA zones 5–9. Tolerates winter lows to -25°C and summer highs above 40°C.
 - **Pruning tolerance:** Responds well to pollarding, crown reduction, and [[salvia-hispanica]]
 
 - platanus x hispanica — American sycamore, parent species
 - platanus x hispanica — Oriental plane, parent species
 - acer saccharum — sugar maple, similar leaf shape
-- [[tilia-cordata]] — little-leaf linden, urban shade tree
+- [[tilia-cordata]] — little-leaf linden, urban [[mollison-designers-legume-shade-tree-pasture-systems]]
 ## Practical Considerations
 
 Successful implementation of Platanus × hispanica requires attention to
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

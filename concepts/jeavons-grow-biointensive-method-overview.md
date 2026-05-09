@@ -11,7 +11,7 @@ updated: 2026-04-26
 
 # GROW BIOINTENSIVE Method Overview and History
 
-The GROW BIOINTENSIVE method of horticulture is a quiet, vitally alive art of organic gardening that relinks people with the whole universe. It was developed by Ecology Action, patterned after nature's own intensive biological plantings and based on over 10,000 years of field trials.
+The GROW BIOINTENSIVE method of horticulture is a quiet, vitally alive art of [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] that relinks people with the whole universe. It was developed by Ecology Action, patterned after nature's own intensive biological plantings and based on over 10,000 years of field trials.
 
 ## Historical Roots
 
@@ -24,7 +24,7 @@ Other civilizations also independently developed miniaturized forms of agricultu
 Developed outside Paris in the 1700s and 1800s. Crops were grown on 18 inches of horse manure. The crops were grown so close together that when mature, their leaves would barely touch. The close spacing provided a mini-climate and a living mulch that reduced weed growth and helped hold moisture in the soil. Gardeners grew up to nine crops each year and could even grow melon plants during winter.
 
 ### Biodynamic Techniques (1920s)
-Developed by Rudolf Steiner, an Austrian genius, philosopher, and educator. Noting a decline in the nutritive value and yields of crops in Europe, Steiner traced the cause to the use of newly introduced synthetic chemical fertilizers and pesticides. He stressed the holistic growing environment for plants: their rate of growth, the synergistic balance of their environments and nutrients, their proximity to other plants, and their companion relationships.
+Developed by Rudolf Steiner, an Austrian genius, philosopher, and educator. Noting a decline in the nutritive value and yields of crops in Europe, Steiner traced the cause to the use of newly introduced synthetic [[cervantes-chemical-fertilizers-guide]] and pesticides. He stressed the holistic [[cannabis-growing-environment-setup]] for plants: their rate of growth, the synergistic balance of their environments and nutrients, their proximity to other plants, and their companion relationships.
 
 The biodynamic method also brought back raised planting beds. Two thousand years ago, the Greeks noticed that plant life thrives in landslides. The loose soil allows air, moisture, warmth, nutrients, and roots to properly penetrate the soil.
 
@@ -37,13 +37,13 @@ As the biodynamic/French intensive method continued to evolve and be simplified 
 
 ## Eight Key Features of GROW BIOINTENSIVE
 
-1. **Deep soil preparation** — Develops good soil structure. Once established, it may be maintained for several years with 2-inch-deep surface cultivation.
+1. **Deep soil preparation** — Develops good soil structure. Once established, it may be maintained for several years with 2-inch-deep [[jeavons-surface-cultivation-technique]].
 
 2. **Compost (humus) for soil fertility and nutrients** — The use of cured compost provides slow-release biological nutrition.
 
 3. **Close plant spacing, as in nature** — Plants are spaced so their leaves barely touch, creating a living mulch and mini-climate.
 
-4. **Synergistic planting of crop combinations** — Plants grown together enhance each other (companion planting).
+4. **Synergistic planting of crop combinations** — Plants grown together enhance each other ([[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]).
 
 5. **Carbon-efficient crops** — Approximately 60% of the growing area in dual-purpose seed and grain crops for carbonaceous compost material and dietary calories.
 
@@ -121,7 +121,7 @@ The progression from gardener to mini-farmer involves learning increasingly soph
 - [[jeavons-flat-preparation-seedling-raising]] — Seedling production and transplanting
 - [[jeavons-companion-planting]] — Synergistic plant relationships
 - [[jeavons-calorie-farming]] — Calorie-efficient crop selection
-- [[jeavons-soil-fertility]] — Nutrient management and sustainability
+- [[jeavons-soil-fertility]] — [[green-cannabis-grow-bible-nutrient-management-ppm]] and sustainability
 - [[jeavons-biointensive-spacing]] — Close plant spacing technique
 - [[jeavons-water-management-irrigation]] — Water-efficient growing techniques
 - [[jeavons-beneficial-herbs-nutrition]]

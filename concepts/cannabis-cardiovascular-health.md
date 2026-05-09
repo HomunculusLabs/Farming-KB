@@ -15,7 +15,7 @@ Research reveals that the [[cannabis-anti-inflammatory-applications]]
 - [[cannabis-for-diabetes-and-metabolic-syndrome]]
 
 ## Merged: Cannabis for Macular Degeneration
-Age-related macular degeneration (AMD) is a painless eye disease characterized by loss of accurate sight in the center of the field of vision. Most common in seniors, AMD is due to damage of the retina (the tissue lining the inner surface of the eye). The [[cannabis-cannabinoid-receptor-pharmacology]] and CB2. The [[cannabis-endocannabinoid-system]], [[blesching-cannabis-glaucoma]], cannabis cardiovascular health,
+Age-related macular degeneration (AMD) is a painless eye disease characterized by loss of accurate sight in the center of the field of vision. Most common in seniors, AMD is due to damage of the retina (the tissue lining the inner surface of the eye). The [[cannabis-cannabinoid-receptor-pharmacology]] and CB2. The [[cannabis-endocannabinoid-system]], [[blesching-cannabis-glaucoma]], [[blesching-cannabis-cardiovascular-health]] health,
 ## Background and Context
 
 Cannabis for Cardiovascular Health is an important subject that has garnered significant attention
@@ -144,4 +144,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

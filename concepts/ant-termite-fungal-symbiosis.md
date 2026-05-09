@@ -1,5 +1,5 @@
 ---
-title: Ant and Termite Fungal Symbiosis
+title: Ant and Termite gadd-beetle-gut-fungal-symbiosis-and-coevolution
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -57,13 +57,13 @@ Fungus-growing ants (Attini) and fungus-growing termites (Macrotermitinae) repre
 Some Cyphomyrmex species cultivate yeasts:
 - 1-4mm diameter pellets develop short (1mm) hyphal tips but stop growing within 48 hours
 - Pellets must be broken into smaller pieces and strewn over isolation plate
-- After repeated subculturing, yeasts return to mycelial growth
+- After repeated subculturing, yeasts return to [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
 
 ### Nest Microbiota
 
 Attine nests maintained under axenic or quasi-axenic conditions -- mostly a single basidiomycete strain. Other fungi are uncommon and of two types:
 
-1. **Endophytic fungi** (e.g., xylariaceous species): Probably introduced with leaf substrata
+1. **[[comparison-endophytic-fungi-vs-mycorrhizal-fungi]]** (e.g., xylariaceous species): Probably introduced with leaf substrata
 2. **Specialized parasites**: Escovopsis -- a recently described genus, restricted to attine fungus gardens, rarely isolated
 
 ### Collection Preservation
@@ -87,7 +87,7 @@ Attine nests maintained under axenic or quasi-axenic conditions -- mostly a sing
 - Termites construct "combs" of fecal pellets on which the fungus grows (the "fungus garden")
 - Fungal associates are species of Termitomyces (Basidiomycota, Lepiotaceae) -- same family as most attine ant fungi
 - Most species form basidiocarps annually at onset of rainy season
-- Fungal inoculum dispersed in guts of alates (winged reproductives) in some species
+- [[ingham-fungal-inoculum-sourcing]] dispersed in guts of alates (winged reproductives) in some species
 - Workers of some species observed foraging on basidiocarps
 
 ### Cultivation and Collection
@@ -97,7 +97,7 @@ Attine nests maintained under axenic or quasi-axenic conditions -- mostly a sing
 - Excavation of nest to reveal combs may take several days
 - Insects preserved in 70% alcohol
 - Combs carried to laboratory in plastic bags; studied immediately
-- Cultures established from basidiospores or combs; common media (oatmeal flakes, Sabouraud glucose, malt extract, yeast extract agars)
+- Cultures established from basidiospores or combs; common media (oatmeal flakes, Sabouraud glucose, malt extract, [[marmite-yeast-extract-straw-substrate]] agars)
 
 ### Comb Microbiota
 
@@ -118,7 +118,7 @@ Attine nests maintained under axenic or quasi-axenic conditions -- mostly a sing
 These symbioses are important for:
 
 - Understanding coevolution between insects and fungi
-- Ecosystem-level carbon and nutrient cycling
+- Ecosystem-level carbon and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 - Tropical forest ecology (20% of Neotropical photosynthate turnover)
 - Agricultural pest management
 - Discovery of novel antibiotics from nest microbiomes
@@ -126,9 +126,11 @@ These symbioses are important for:
 
 ## See Also
 
+- [[mckenna-leafcutter-ant-fungal-agriculture]]
+
 - [[termite-ant-fungus-gardens]]
 
 - [[cordyceps-and-entomopathogenic-fungi]]
 - [[fungal-symbiosis-types]]
 - [[fungal-insect-interactions-diversity]]
-- [[insect-associated-fungi-sampling-diversity]]
+- insect-associated-fungi-sampling-diversity

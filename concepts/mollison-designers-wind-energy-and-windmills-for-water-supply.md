@@ -1,5 +1,5 @@
 ---
-title: Wind Energy and Windmills for Water Supply
+title: mollison designers wind energy and windmills for water supply and Windmills for Water Supply
 created: 2026-04-26
 tags:
   - wind-energy
@@ -20,7 +20,7 @@ Wind energy may be used to lift water to other zones, or other
 dependable technology used. In permaculture systems, windmills have
 long served as the primary means of pumping water from wells, bores,
 and aquifers to elevated tanks for gravity-fed distribution. The
-integration of wind power into site design follows the same principles
+integration of [[holmgren-wind-power-and-renewable-energy-debate]] into site design follows the same principles
 as any energy system: local, non-polluting, affordable, and locally
 maintainable.
 
@@ -32,7 +32,7 @@ needs of the household, pasture or range. Where water is stored, it
 may be as dams only, with piped input to other zones. Wind energy may
 be used to lift water to other areas, making it available for zones 1
 through 3 via gravity feed. This is a critical function for sites
-lacking reliable grid electricity or where diesel fuel is expensive or
+lacking reliable [[off-grid-electricity-basics]] or where diesel fuel is expensive or
 unavailable.
 
 ## Wind and Solar Complementarity
@@ -47,7 +47,7 @@ for battery storage.
 
 ## Wadi and Settlement Water Supply
 
-In wadi settlement design, a windmill over a well or bore close to the
+In wadi [[cool-climate-settlement-design-mollison]], a windmill over a well or bore close to the
 scarp lifts fresh water to high tanks above houses or settlements. An
 accessory windmill is placed above houses or settlements, and the
 tanks are raised on a stand, so that the windmill lifts to the tank
@@ -62,14 +62,14 @@ conditions where surface water is ephemeral.
 
 ## Integration with Dam Systems
 
-Windmills serve a complementary role to dam and swale systems in the
+Windmills serve a complementary role to dam and [[swale]] systems in the
 broader landscape. While dams collect surface runoff, windmills can
 pump from groundwater to supplement surface storage. In flat areas
 where gravity-fed irrigation from upland dams is not possible,
 windmills provide the lift needed to distribute water from lower
 storage to higher fields or settlement areas.
 
-In the zone planning table, Zone 4 water provision includes dams,
+In the [[mollison-course-zone-planning-and-design]] table, Zone 4 water provision includes dams,
 rivers, and wind pumps, reflecting the remote nature of this zone
 where mechanical pumping is appropriate and grid power is typically
 absent.
@@ -89,7 +89,7 @@ Scale provides a standard measure of wind speed and effect:
 The energy winds (16-40 km/h) that blow on two out of seven windy
 days provide the most useful power for water pumping. These come from
 15-20 degrees off the direction of the prevalent winds. Design must
-account for these patterns to maximise energy capture.
+account for these patterns to maximise [[fukuoka-three-dimensional-solar-energy-capture-rice-paddy]].
 
 ## Design Considerations
 
@@ -118,9 +118,11 @@ maintainable.
 
 ## Related Topics
 
-- [[mollison-designers-rainwater-tanks-and-roof-catchment-systems]]
+- mollison-designers-rainwater-tanks-and-roof-catchment-systems
   - Domestic water collection
-- [[mollison-zone-planning-frequency-distance-and-placement]]
+- mollison-zone-planning-frequency-distance-and-placement
   - Zone system overview
 - [[mollison-designers-precipitation-types-and-design-effects]]
   - Climate factors in design
+## See Also
+- [[mollison-designers-water-purification-and-storage-principles]]

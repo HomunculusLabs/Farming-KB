@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Moore, M.O. (1991). "Classification and Systematics of Eastern North American Vitis." University of Michigan Herbarium.
+  - Moore, M.O. (1991). "Classification and Systematics of polypore-fungi-eastern-north-america American Vitis." University of Michigan Herbarium.
   - Wan, Y. et al. (2008). "The Vitis Genome: Sequencing and Annotation." Nature Genetics.
   - Einset, J. & Pratt, C. (1975). "Grapes." In Janick, J. & Moore, J.N. (eds.), Advances in Fruit Breeding. Purdue University Press.
   - Galet, P. (1979). A Practical Ampelography: Grapevine Identification. Cornell University Press.
@@ -61,7 +61,7 @@ Riverbank grape is considered weedy or invasive in some regions outside its nati
 
 Vitis riparia is primarily cultivated as a rootstock rather than for fruit production. Its own fruit, while abundant, is too acidic for fresh consumption without processing. It has been used in jelly production and occasionally in winemaking where high acidity is desired.
 
-As a rootstock, V. riparia confers excellent phylloxera resistance, outstanding cold hardiness, and good adaptation to moist soils. Riparia rootstocks such as 'Riparia Gloire' and 'Riparia de Couderc' remain commercially important in cool-climate wine regions.
+As a rootstock, V. riparia confers excellent phylloxera resistance, outstanding [[coleman-cold-hardiness-testing-ratings]], and good adaptation to moist soils. Riparia rootstocks such as 'Riparia Gloire' and 'Riparia de Couderc' remain commercially important in cool-climate wine regions.
 
 The primary limitation of pure riparia rootstocks is their susceptibility to drought and their tendency to induce excessive vigor in scions on fertile soils. For this reason, riparia is most commonly used in hybrid rootstocks combined with V. rupestris or V. berlandieri genetics.
 
@@ -69,19 +69,19 @@ Graft compatibility with V. vinifera scions is generally excellent, though some 
 
 The species roots easily from hardwood cuttings taken during dormancy. Propagation is straightforward, with high rooting percentages achieved under mist systems. Vines establish quickly and grow vigorously.
 
-Vines trained on trellis systems produce shoots 3–6 meters per growing season under optimal conditions. Flowering occurs in late spring (May–June), with fruit ripening in late summer to early fall (August–September).
+Vines trained on trellis systems produce shoots 3–6 meters per [[savory-growing-season-and-non-growing-season-management]] under optimal conditions. Flowering occurs in late spring (May–June), with fruit ripening in late summer to early fall (August–September).
 
 ## Pest and Disease Resistance
 
 Vitis riparia is the primary source of phylloxera resistance in commercial grape rootstocks worldwide. When the phylloxera louse devastated European vineyards in the late 19th century, V. riparia was among the first North American species used for resistant rootstock breeding.
 
-The species also exhibits significant resistance to downy mildew (*Plasmopara viticola*), a major pathogen in humid growing regions. This resistance has been incorporated into numerous breeding programs targeting disease-resistant cultivars.
+The species also exhibits significant resistance to [[cervantes-downy-mildew-fungal-blight]] (*Plasmopara viticola*), a major pathogen in humid growing regions. This resistance has been incorporated into numerous breeding programs targeting disease-resistant cultivars.
 
 Downy mildew resistance in V. riparia operates through both structural leaf characteristics (dense pubescence on abaxial surfaces) and inducible biochemical defense pathways involving phytoalexins and pathogenesis-related proteins.
 
 Field trials have shown V. riparia hybrids require 60–80% fewer fungicide applications compared to susceptible V. vinifera cultivars in humid climates. This trait is increasingly valued in sustainable and organic viticulture systems.
 
-Fungal diseases that do affect V. riparia include powdery mildew (*Uncinula necator*) and botrytis bunch rot (*Botrytis cinerea*), though susceptibility is generally lower than in *V. vinifera*. The open, loose cluster architecture of riparia reduces humidity within clusters, limiting botrytis development.
+Fungal diseases that do affect V. riparia include [[cervantes-powdery-mildew-prevention-treatment]] (*Uncinula necator*) and botrytis bunch rot (*Botrytis cinerea*), though susceptibility is generally lower than in *V. vinifera*. The open, loose cluster architecture of riparia reduces humidity within clusters, limiting botrytis development.
 
 Insect pests include grape berry moth, Japanese beetle, and various leafhopper species. However, the species shows good general tolerance compared to cultivated varieties, and many insect-resistant traits have been transferred to hybrid progeny.
 
@@ -95,7 +95,7 @@ Riparia germplasm is preserved in USDA grape collections at Davis, California an
 
 Molecular markers developed from V. riparia genomic resources have accelerated marker-assisted selection for phylloxera and cold tolerance traits. The species has a diploid chromosome number of 2n = 38, consistent with other Vitis species.
 
-In hybrid wine programs, V. riparia contributes aromatics often described as herbaceous, foxy, or wild, alongside high acidity. Breeding strategies typically backcross riparia hybrids with V. vinifera over multiple generations to reduce these characters while retaining cold and pest resistance.
+In hybrid wine programs, V. riparia contributes aromatics often described as herbaceous, foxy, or wild, alongside high acidity. Breeding strategies typically backcross riparia hybrids with V. vinifera over multiple generations to reduce these characters while retaining cold and [[cannabis-disease-pest-resistance-breeding-clarke]].
 
 The species has also been used in ecological restoration and conservation plantings due to its wildlife value. Birds consume the fruit extensively, and the dense vine thickets provide cover for numerous species.
 
@@ -108,7 +108,7 @@ The species has also been used in ecological restoration and conservation planti
 - [[ceratocystis-fimbriata]]
 - [[coffea-arabica]]
 - [[citrus-sinensis]]
-- [[punica-granatum]]
+- punica-granatum
 - [[ficus-carica]]
 - [[corylus-avellana]]
 - [[pistacia-vera-entity]]

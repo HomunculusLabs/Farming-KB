@@ -29,7 +29,7 @@ producers.
 
 In permaculture and agroforestry, hazel is valued as a productive
 multi-purpose species providing nuts, biomass, wildlife habitat, wind
-protection, and erosion control. Its reliability and low maintenance
+protection, and [[permplant-willows-salix-erosion-control-fodder]]. Its reliability and low maintenance
 requirements make it a staple of temperate food forest designs.
 
 ## Taxonomy and Morphology
@@ -60,7 +60,7 @@ August–September.
 
 Native to Europe from the British Isles east to the Caucasus and
 western Russia, and to Turkey and northern Iran. Introduced and
-widely cultivated in North America, Chile, Australia, and New Zealand.
+widely cultivated in [[psilocybin-north-america-pacific-northwest]], Chile, Australia, and New Zealand.
 
 Grows naturally in woodland margins, hedgerows, and scrubland on
 well-drained loamy to clay soils, pH 5.5–7.5. Hardy to -25°C or
@@ -107,7 +107,7 @@ epidemiological and clinical studies:
 - **Cardiovascular protection**: High monounsaturated fat and
   phytosterol content lowers LDL cholesterol.
 - **Antioxidant activity**: Vitamin E and phenolic compounds
-  reduce oxidative stress markers.
+  reduce [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] markers.
 - **Anti-inflammatory**: Phenolic extracts inhibit NF-κB pathway
   activation in vitro.
 - **Blood sugar regulation**: High fiber and magnesium content
@@ -130,14 +130,14 @@ back thousands of years.
 Hazel is one of the most versatile species in temperate permaculture:
 
 - **Canopy/shrub layer**: Productive nut crop in food forests and
-  forest gardens; bears in partial shade beneath taller trees.
-- **Windbreak**: Dense growth provides effective wind protection for
+  [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]; bears in partial shade beneath taller trees.
+- **Windbreak**: Dense growth provides effective [[cervantes-wind-protection-outdoor-cannabis]] for
   gardens, orchards, and livestock.
 - **Coppice system**: Renewable poles and biomass on a 7–15 year
   rotation; integrates with silvopasture and fuelwood production.
 - **Erosion control**: Extensive root system stabilizes slopes and
   riparian zones.
-- **Companion planting**: Compatible with apple, pear, chestnut,
+- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]**: Compatible with apple, pear, chestnut,
   walnut, and berry understory crops.
 
 In silvopasture systems, hazel provides shade, fodder, and shelter
@@ -146,3 +146,5 @@ hazel stabilizes banks while providing wildlife habitat.
 ## See Also
 
 - [[juglans-nigra]] · [[food-forest-permaculture]] · [[agroforestry]]
+
+- [[corylus-maxima]]

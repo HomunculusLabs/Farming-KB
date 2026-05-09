@@ -10,7 +10,7 @@ tags: [gardening, plants]
 
 # Multipurpose Plants for the Ecological Garden
 
-The concept of [[hemenway-ecological-garden-design]]. Nothing in nature has only one function. A shrub does not just cast shade; it feeds winter-starved birds with its berries, offers shelter, [[gaias-garden-backyard-ecosystem]].
+The concept of hemenway-ecological-garden-design. Nothing in nature has only one function. A shrub does not just cast shade; it feeds winter-starved birds with its berries, offers shelter, gaias-garden-backyard-ecosystem.
 
 ## The Many Roles of a Tree
 
@@ -28,10 +28,10 @@ The concept of [[hemenway-ecological-garden-design]]. Nothing in nature has only
 
 ## Categories of Plant Functions
 
-Plants in the ecological garden serve many interconnected roles. Understanding these roles helps in [[comparison-perennial-vegetables-vs-cover-crops]] are especially valuable as they produce food year after year with minimal maintenance. When selecting food plants, consider not just yield but also nutritional value, storage capacity, and harvest timing.
+Plants in the ecological garden serve many interconnected roles. Understanding these roles helps in [[comparison-perennial-vegetables-vs-cover-crops]] are especially valuable as they produce food year after year with minimal maintenance. When selecting food plants, consider not just yield but also nutritional value, storage capacity, and [[cannabis-harvest-timing-visual-cues]].
 
 ### Habitat Creation
-Plants provide shelter, nesting sites, and food for [[comfrey-multifunctional-guild-plant]] like comfrey concentrate specific nutrients in their leaves, which can be cut and used as nutrient-rich mulch. [[hemenway-soil-food-web-garden]] health through root exudates -- the sugars and carbohydrates that roots release into the soil to feed beneficial microorganisms.
+Plants provide shelter, nesting sites, and food for [[comfrey-multifunctional-guild-plant]] like comfrey concentrate specific nutrients in their leaves, which can be cut and used as nutrient-rich mulch. hemenway-soil-food-web-garden health through root exudates -- the sugars and carbohydrates that roots release into the soil to feed beneficial microorganisms.
 
 ### Microclimate Modification
 Trees, shrubs, and even tall perennials modify [[gaias-garden-living-plant-systems-insectary]] strategies.
@@ -40,10 +40,10 @@ Trees, shrubs, and even tall perennials modify [[gaias-garden-living-plant-syste
 [[gaias-garden-water-harvesting-swales-and-greywater]] stabilize banks and transpire stored groundwater. Deep-rooted perennials access water beyond the reach of annual crops. Plants also improve soil structure, increasing the soil's water-holding capacity.
 
 ### Erosion Control
-Root systems of grasses, shrubs, and trees hold soil on slopes and in drainage areas. [[gaias-garden-backyard-wetland-design]] demonstrates how plants can stabilize and rebuild degraded landscapes.
+Root systems of grasses, shrubs, and trees hold soil on slopes and in drainage areas. gaias-garden-backyard-wetland-design demonstrates how plants can stabilize and rebuild degraded landscapes.
 
 ### Nutrient Accumulation
-Some plants are exceptional at gathering specific nutrients from soil and concentrating them in their tissues. Comfrey accumulates potassium, phosphorus, and calcium from deep soil layers. Yarrow accumulates potassium and phosphorus. Buckwheat accumulates phosphorus from otherwise unavailable soil forms. These dynamic accumulators can be strategically placed and harvested as nutrient-rich mulch for neighboring plants.
+Some plants are exceptional at gathering specific nutrients from soil and concentrating them in their tissues. Comfrey accumulates potassium, phosphorus, and calcium from deep soil layers. Yarrow accumulates potassium and phosphorus. Buckwheat accumulates phosphorus from otherwise unavailable soil forms. These [[comparison-dynamic-accumulators-vs-cover-crops]] can be strategically placed and harvested as nutrient-rich mulch for neighboring plants.
 
 ### Beauty and Aesthetics
 Flowers, foliage color, bark texture, plant form, fragrance, and seasonal interest contribute to the garden's visual and sensory appeal. Beauty is not frivolous in the ecological garden -- a beautiful landscape is one that people will care for, spend time in, and share with others.
@@ -80,7 +80,7 @@ When selecting plants for the ecological garden, evaluate each candidate against
 9. Does it produce useful materials?
 10. Can it serve as a nurse plant for more desirable species?
 
-The best plants score highly across several categories. A mediocre fruit tree that also fixes nitrogen, attracts birds, and provides wind protection is far more valuable in the ecological garden than a superior fruit tree that does nothing else.
+The best plants score highly across several categories. A mediocre fruit tree that also fixes nitrogen, attracts birds, and provides [[cervantes-wind-protection-outdoor-cannabis]] is far more valuable in the ecological garden than a superior fruit tree that does nothing else.
 
 ## Evaluating New Plants: A Checklist
 
@@ -89,8 +89,8 @@ When considering a new plant for the garden, score it on each of these functions
 1. **Food value**: Does it produce edible fruit, nuts, leaves, roots, flowers, or seeds? How much? How reliably?
 2. **Wildlife support**: Does it provide food, shelter, or nesting sites for birds, insects, amphibians, or other wildlife?
 3. **Soil building**: Does it fix nitrogen, accumulate nutrients, produce mulch, or improve soil structure?
-4. **Microclimate**: Does it provide shade, wind protection, humidity, or frost protection?
-5. **Pest management**: Does it attract beneficial insects, repel pests, or serve as a trap crop?
+4. **Microclimate**: Does it provide shade, wind protection, humidity, or [[holzer-frost-protection-techniques]]?
+5. **Pest management**: Does it attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], repel pests, or serve as a trap crop?
 6. **Water management**: Does it slow runoff, increase infiltration, transpire excess water, or tolerate wet/dry conditions?
 7. **Erosion control**: Does it hold soil on slopes or along waterways?
 8. **Beauty**: Does it provide flowers, foliage color, bark interest, form, or fragrance?
@@ -99,21 +99,23 @@ When considering a new plant for the garden, score it on each of these functions
 
 ## Multipurpose Plants and the Food Forest
 
-In a [[gaias-garden-food-forest-layers]] of the forest contains plants selected for multiple functions:
+In a gaias-garden-food-forest-layers of the forest contains plants selected for multiple functions:
 
 - **Canopy trees**: Food (nuts, fruit), shade, microclimate, bird habitat, timber, leaf mulch
 - **Understory trees**: Food (fruit), partial shade, bird perches, pollinator forage
 - **Shrubs**: Food (berries), privacy screening, bird habitat, erosion control, mulch production
 - **Herbaceous layer**: Food (vegetables, herbs), insectary plants, nutrient accumulators, ground cover
-- **Ground cover**: Soil protection, weed suppression, nitrogen fixation, moisture retention
+- **Ground cover**: Soil protection, weed suppression, [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], moisture retention
 - **Root layer**: Food (root crops), soil aeration, nutrient mining from deep layers
 - **Vine layer**: Food (fruit), seasonal shade, pollinator attraction, vertical space utilization
 
 By selecting multipurpose plants for each layer, the food forest becomes a self-maintaining, highly productive ecosystem that requires minimal external inputs.
 
-## Related Concepts
+## Related
 
-- [[gaias-garden-berry-bushes-guide]] as multipurpose food and habitat plants
-- [[hemenway-cover-crops-guide]] for soil-building multipurpose plants
-- [[gaias-garden-food-forest-layers]] for vertical stacking of multipurpose plants
+- [[gaias-garden-weeds-pioneer-plants]] Concepts
+
+- gaias-garden-berry-bushes-guide as multipurpose food and habitat plants
+- hemenway-cover-crops-guide for soil-building multipurpose plants
+- gaias-garden-food-forest-layers for vertical stacking of multipurpose plants
 - [[comparison-perennial-vegetables-vs-cover-crops]] for multipurpose food crops

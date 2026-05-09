@@ -1,5 +1,5 @@
 ---
-title: "Veratryl Alcohol as Lignin Peroxidase Mediator"
+title: "staycare veratryl alcohol as lignin peroxidase mediator as fungal-lignin-peroxidase-veratryl-alcohol Mediator"
 created: 2026-04-28
 tags: [lignin-peroxidase, redox-mediator, white-rot-fungi, enzyme-mechanism]
 date: 2026-04-28
@@ -13,18 +13,18 @@ type: concept
 Veratryl alcohol (VA; 3,4-dimethoxybenzyl alcohol) is a secondary
 metabolite produced naturally by [[white-rot-fungi]] that plays a central
 role in the catalytic mechanism of lignin peroxidase (LiP). VA serves as
-both a substrate and a diffusible redox mediator, enabling LiP to
+both a substrate and a diffusible [[staycare-fungal-redox-mediator-chemistry-pollutant-degradation]], enabling LiP to
 oxidize compounds that are otherwise beyond its direct enzymatic reach.
 Understanding the VA-mediated mechanism is essential for comprehending
 how Lignin Peroxidase and Pollutant Degradation degrades recalcitrant environmental pollutants
-including polycyclic aromatic hydrocarbons and chlorinated aromatics.
+including [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons and [[fungal-biodegradation-chlorinated-aromatics-and-btex]].
 
 ## Chemical Properties of Veratryl Alcohol
 
 Veratryl alcohol is a dimethoxylated aromatic compound with the
 chemical formula C8H10O3. It has a standard redox potential of
 approximately 1.36 V/NHE, which places it at the upper boundary of
-substrates that can be directly oxidized by Laccase Enzymes in Bioremediation but well within the
+substrates that can be directly oxidized by [[laccase]] Enzymes in Bioremediation but well within the
 range accessible to LiP. VA is produced as a natural secondary
 metabolite by many white rot fungi simultaneously with LiP production,
 suggesting a coordinated functional relationship between the metabolite
@@ -45,7 +45,7 @@ mediator. The mechanism proceeds through the following steps:
    intermediate of LiP (formed during the catalytic cycle) back to
    the native enzyme state. By forming a Compound II-VA+. intermediate,
    the reduction by a further VA molecule is facilitated over the
-   alternative reaction of Compound II with hydrogen peroxide, which
+   alternative reaction of Compound II with [[cervantes-hydrogen-peroxide-sterilization]], which
    would drive the enzyme into the catalytically inactive Compound
    III state.
 
@@ -123,7 +123,7 @@ the effective reach of the enzymatic degradation system. This mediator
 mechanism is a key factor in the broad-spectrum degradative capability
 of white rot fungi.
 
-See also: [[fungal-bioremediation]],
+See also: fungal-bioremediation,
 and Lignin Peroxidase and Pollutant Degradation.
 
 ## See Also

@@ -9,12 +9,12 @@ sources: [raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md]
 
 # Maitake Cultivation Guide
 
-Grifola frondosa (maitake / hen of the woods) is a prized edible and medicinal mushroom of temperate climates. It is highly aerobic, forms enormous fruiting clusters, and requires more attention to detail than oyster or shiitake. This guide is based on Alice W. Chen's 1999 practical guide for synthetic-log cultivation.
+[[maitake-grifola-frondosa-comprehensive-profile]] (maitake / hen of the woods) is a prized edible and [[gourmet-medicinal-mushroom-casing-layer-techniques]] of temperate climates. It is highly aerobic, forms enormous fruiting clusters, and requires more attention to detail than oyster or shiitake. This guide is based on Alice W. Chen's 1999 practical guide for synthetic-log cultivation.
 
 ## Key Characteristics
 
 - Temperate climate species, fruits in autumn
-- Highly aerobic -- requires more oxygen than most cultivated mushrooms
+- Highly aerobic -- requires more oxygen than most [[fungi-cultivated-mushrooms-pathogens-competitors]]
 - Short, chunky, highly branched stems with numerous overlapping caps
 - Fruit body can be very large in nature
 - Narrow fruiting temperature range
@@ -24,7 +24,7 @@ Grifola frondosa (maitake / hen of the woods) is a prized edible and medicinal m
 
 Strain selection is crucial. Unlike oyster or reishi, a high percentage of G. frondosa strains do not fruit well, if at all. There are considerable differences among strains in growth rate, yield, temperature requirements, and fruiting body features (cap color and shape). Always test a new strain before full production.
 
-- Fast-growing strains: spawn run of 30 days before primordia initiation
+- Fast-growing strains: spawn run of 30 days before [[chen-maitake-primordia-initiation-fruiting]]
 - Many strains require 60-90+ days of mycelial growth and maturation
 - ~90% of strains from culture collections and wild isolates do not fruit well
 - Always verify the strain has been tested as a good fruiting strain
@@ -69,7 +69,7 @@ Wheat bran provides thiamine (vitamin B1), essential for fruiting body formation
 
 ## Types of Spawn
 
-1. Liquid spawn -- labor-saving with special inoculator; industrial scale via submerged fermentation
+1. Liquid spawn -- labor-saving with special inoculator; industrial scale via [[cancer-medicinal-mushrooms-submerged-fermentation-production]]
 2. Grain spawn -- millet, rye, wheat, sorghum, milo
 3. Sawdust spawn -- supplemented sawdust-bran substrates
 4. Wooden stick (skewer) spawn -- easy to manipulate
@@ -114,7 +114,7 @@ Production ~3.5 months.
 ### Spawn Run (Growth + Maturation)
 1. Day 9: Undifferentiated white mycelia colonize substrate
 2. Day 17: White young mycelia penetrate to substrate surface
-3. Day 30: Orange-brown exudates appear (metabolic activity), discoloration of white mycelia
+3. Day 30: Orange-brown exudates appear ([[arbuscule-isolation-metabolic-activity-assays]]), discoloration of white mycelia
 4. Surface mycelial coat forms -- tighter growth on substrate surface
 5. Topography becomes uneven with grayish amorphous mass
 6. Day ~42: Grayish primordia (2.5-5 cm diameter) form in closed bag
@@ -138,53 +138,6 @@ Harvest when the cluster flower stage is reached:
 - Color has lightened from dark gray-brown
 - Caps no longer have whitish margins of new growth
 - Minute pores appear at the back/underside of petals (not at margin or base)
-- Pleasant mushroom aroma detectable
-- Harvest BEFORE petals droop or curve downward
-- Harvest BEFORE white basidiospores are released
-- Stop misting 1 day before harvest to prevent bacterial intrusion
-
-To harvest: hold base, support cluster weight, cut thick base with small sharp knife. Rotate gently and pull upward if soil casing is used. Trim debris. Wrap in rice paper, store at 12C -- expected shelf life 2 weeks.
-
-## Problem-Solving
-
-### Shortening Spawn Run
-1. Select a vigorous fast-growing fruiting strain
-2. Use highest optimal temperature during spawn run
-3. Use generous amount of quality spawn (1:10 to 1:20 ratio); through-spawning recommended
-4. Use wide-bore bags with ample air space above substrate
-5. Use effective aeration formula (fine + coarse sawdust 3:1)
-
-### Primordia Failure
-- Check strain genotype -- some strains simply cannot fruit
-- No cold shock needed for maitake primordia
-- Too much light during early/mid spawn run = undesirable grayish-brown coat
-- Prolonged spawn run without light = overly thick mycelial coat (delays/prevents primordia)
-- Low light (50 lux) throughout spawn run recommended
-
-### Primordia Death
-- Best: primordia form at 1-2 sites only
-- Avoid numerous minute primordia scattered across surface
-- Timing of bag opening is critical -- too early = fragile primordia die; too late = arrested development
-
-### Temperature Control
-- Substrate temperature can be 2-3C higher than ambient air due to respiration
-- Japanese growers maintain strict control within 2C range (16-18C)
-- Minimize fluctuation to avoid condensation
-
-### Moisture and Humidity
-- Do NOT remove entire bag during transition -- open top only
-- Wait 2-3 days after transfer before opening bags
-- RH below 80% = drought death of fruiting bodies
-- RH near 100% = rot
-- Direct water contact on fruiting bodies invites bacterial growth
-
-### Increasing Yield
-- Larger substrate amounts (15.4 kg vs 11 kg)
-- Soil casing produces higher yield (treated humus-rich hardwood forest soil)
-- Sandy soil or clay is not beneficial
-- Second flush possible by embedding spent substrate in sawdust, covering with soil
-- Record maitake >10 lbs obtained with soil casing
-
 ## Related
 
 - [[mushroom-species-guide]] — Overview of cultivated mushroom species

@@ -1,7 +1,7 @@
 ---
 title: Spawn and Grain-to-Grain Transfer
 created: 2026-04-28
-tags: [[mycology, cultivation, spawn, inoculation]
+tags: [mycology, cultivation, spawn, inoculation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -10,90 +10,86 @@ type: concept
 
 # Spawn and Grain-to-Grain Transfer
 
-Spawn is the living mycelial culture expanded onto a nutritious substrate, most
-commonly grain, that serves as the inoculum for bulk substrate colonization. The
-process of multiplying spawn through grain-to-grain (G2G) transfer is one of the
-most efficient and widely used techniques in both home and commercial mushroom
-cultivation.
+Spawn is the living mycelial culture expanded onto a nutritious substrate,
+most commonly grain, that serves as inoculum for bulk substrate
+colonization. The process of multiplying spawn through grain-to-grain
+(G2G) transfer is one of the most efficient and widely used techniques
+in both home and commercial [[accessible-mushroom-cultivation-for-disabilities]].
 
 ## Grain Spawn Preparation
 
-The standard grain for spawn is organic rye, though millet, sorghum, wheat, and
-brown rice also work well. The grain must be hydrated to the correct moisture
-content, typically 48-52% by weight after boiling or simmering. Over-hydrated
-grain becomes mushy and prone to bacterial contamination, while under-hydrated
-grain slows colonization and yields less nutritious spawn.
+The standard grain for spawn is organic rye, though millet, sorghum,
+wheat, and brown rice also work well. The grain must be hydrated to
+48-52% moisture content by weight after boiling or simmering.
+Over-hydrated grain becomes mushy and prone to bacterial contamination;
+under-hydrated grain slows colonization and yields less nutritious spawn.
 
-After hydration, the grain is drained, loaded into jars or spawn bags, and
-sterilized. Pressure canning at 15 PSI for 90-120 minutes is the standard
-sterilization protocol. A short drying period after sterilization, where grain
-is shaken to distribute residual moisture, helps prevent wet spots that invite
-contamination. Some cultivators add a small amount of gypsum (calcium sulfate)
-to the grain before sterilization to prevent clumping and provide calcium.
+After hydration, grain is drained, loaded into jars or spawn bags, and
+sterilized. [[comparison-pressure-canning-vs-water-bath-canning]] at 15 PSI for 90-120 minutes is the
+standard protocol. A short drying period after sterilization, where
+grain is shaken to distribute residual moisture, helps prevent wet
+spots. Some cultivators add gypsum (calcium sulfate) before
+sterilization to prevent clumping and provide calcium.
 
 ## Inoculation of Master Spawn
 
-Master spawn jars are inoculated from an agar culture or a liquid culture (LC).
-Agar-to-grain inoculation involves transferring a small wedge or several plugs
-of colonized agar into the sterilized grain jar inside a still-air box or in
-front of a laminar flow hood. Liquid culture, typically a sugar or malt broth
-colonized by mycelium, allows inoculation via syringe, which is faster and
-exposes the grain to less open air.
+Master spawn jars are inoculated from an agar culture or [[comparison-liquid-culture-vs-grain-spawn]]
+(LC). Agar-to-grain involves transferring a wedge or plugs of
+colonized agar into the sterilized grain jar inside a still-air box or
+laminar flow hood. Liquid culture allows inoculation via syringe, which
+is faster and exposes grain to less open air.
 
-After inoculation, jars are incubated at the species-appropriate temperature,
-usually 22-26 degrees C for gourmet species. Full colonization of a quart jar
-typically takes 10-21 days depending on species, inoculation method, and
-incubation conditions. Jars should be shaken once or twice during colonization
-to distribute growth and speed up the process.
+After inoculation, jars are incubated at 22-26 degrees C. Full
+colonization of a quart jar typically takes 10-21 days depending on
+species, inoculation method, and conditions. Jars should be shaken once
+or twice during colonization to distribute growth and speed the process.
+See [[spawn-production]] for comprehensive [[growing-gourmet-sawdust-spawn-production-use]] protocols.
 
 ## Grain-to-Grain Transfer Technique
 
-G2G transfer involves taking a fully colonized master jar and distributing its
-grain into multiple sterilized recipient jars, multiplying the spawn volume by
-10-100x depending on the transfer ratio. A common ratio is one quart of master
-spawn to ten quart jars of fresh grain.
+G2G transfer involves taking a fully colonized master jar and
+distributing its grain into multiple sterilized recipient jars,
+multiplying spawn volume by 10-100x. A common ratio is one quart of
+master spawn to ten quart jars of fresh grain.
 
-The procedure requires strict sterile technique. The master jar lid is removed
-and a measured quantity of colonized grain, often using a sterilized measuring
-cup or spoon, is deposited into each recipient jar. Working quickly in front of
-a flow hood minimizes contamination risk. Each recipient jar is immediately
-sealed and shaken to distribute the inoculated grain throughout the fresh grain.
+The procedure requires strict [[cultivator-sterile-technique-and-agar-culture]]. The master jar lid is
+removed and a measured quantity of colonized grain is deposited into
+each recipient jar using a sterilized measuring cup or spoon. Working
+quickly in front of a flow hood minimizes contamination risk. Each
+recipient jar is immediately sealed and shaken to distribute the
+inoculated grain throughout the fresh grain.
 
-G2G transfer dramatically accelerates the spawn production pipeline. Instead of
-waiting weeks for each jar to colonize from agar, dozens of jars can be started
-simultaneously and will colonize in roughly 7-14 days since the mycelium is
-already vigorous and widely distributed. This makes G2G essential for any
-cultivation operation beyond a small hobby scale.
+G2G dramatically accelerates the spawn pipeline. Instead of waiting
+weeks for each jar to colonize from agar, dozens can be started
+simultaneously and will colonize in roughly 7-14 days since the mycelium
+is already vigorous and widely distributed. See
+[[cultivator-sterile-technique-and-agar-culture]] for sterile procedure
+details.
 
 ## Contamination Risks and Monitoring
 
-The primary risk of G2G transfer is spreading contamination from a single
-compromised master jar across dozens of recipient jars. For this reason, master
-spawn should be carefully inspected before transfer. Signs of contamination
-include off-colors (green, pink, black, or vivid yellow patches), sour or
-rotten odors, slimy or wet-looking grain, and unusually slow or stalled
-colonization.
+The primary risk is spreading contamination from a single compromised
+master jar across dozens of recipients. Master spawn should be carefully
+inspected before transfer. Signs of contamination include off-colors
+(green, pink, black, vivid yellow), sour or rotten odors, slimy grain,
+and unusually slow colonization. Cultivators often sniff each master jar
+since bacterial contamination produces a distinctive sour smell.
 
-Cultivators often sniff each master jar before opening, since bacterial
-contamination frequently produces a distinctive sour or fermented smell. Visual
-inspection through the glass should reveal uniform white mycelium with no
-discolored zones. Some species produce metabolites that appear as yellowish
-liquid droplets, which is normal and distinct from contamination.
+Some species produce metabolites appearing as yellowish liquid droplets,
+which is normal and distinct from contamination. Visual inspection
+should reveal uniform white mycelium with no discolored zones. See
+[[contamination-identification]] for a detailed guide to identifying
+common contaminants.
 
 ## Liquid Culture as an Alternative
 
-Liquid culture offers a faster, more scalable alternative to G2G transfer for
-large operations. A small amount of LC can inoculate hundreds of grain bags via
-syringe. LC is prepared by sterilizing a nutrient solution (malt extract, light
-malt extract, honey, or dextrose in water) and inoculating with agar. Once the
-mycelium has colonized the liquid, it can be stored in the refrigerator for
-months and used to inoculate grain whenever needed.
-
-LC reduces the risk of cross-contamination since each jar or bag receives fresh
-inoculum rather than being opened to receive grain from a shared source.
-However, LC itself can harbor hidden bacterial contamination that is not visible
-to the naked eye, making agar testing of the LC before large-scale use a
-recommended precaution.
+Liquid culture offers a faster, more scalable alternative. A small
+amount of LC can inoculate hundreds of grain bags via syringe. LC is
+prepared by sterilizing a [[cannabis-nutrient-solution-preparation]] (malt extract, honey, or
+dextrose in water) and inoculating with agar. Once colonized, it can be
+stored refrigerated for months. LC reduces cross-contamination risk
+since each jar receives fresh inoculum, but can harbor hidden bacterial
+contamination. Agar testing before large-scale use is recommended.
 
 ## See Also
 

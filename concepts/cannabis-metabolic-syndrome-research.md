@@ -1,5 +1,5 @@
 ---
-title: Cannabis and Metabolic Syndrome Research
+title: Cannabis and cannabis metabolic syndrome research Research
 created: 2026-04-18
 updated: 2026-04-19
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 # Cannabis and Metabolic Syndrome Research
 
-**Source:** The Cannabis Health Index (Uwe Blesching, 2017)
+**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]] (Uwe Blesching, 2017)
 
 **Last Updated:** 2026-04-18
 
@@ -38,7 +38,7 @@ The CHI database addresses several MetS-related conditions individually:
 - Epidemiological data paradoxically shows lower rates of obesity among cannabis users despite known appetite stimulation (munchies)
 - Endocannabinoid system (CB1) is involved in lipogenesis and energy storage
 - Blocking CB1 (as in rimonabant) reduced weight but caused severe psychiatric side effects
-- CBD may modulate CB1 activity without adverse effects
+- CBD may modulate CB1 activity without [[blesching-cannabis-safety-adverse-effects-evidence]]
 
 ### Anti-Inflammatory Action
 
@@ -65,7 +65,7 @@ No randomized controlled trials specifically evaluating cannabis or CBD for meta
 
 For metabolic syndrome management, CBD-dominant preparations are preferred due to THC's appetite-stimulating effects (the "munchies") and its potential to raise blood sugar acutely. CBD doses of 25-100 mg/day may provide cumulative metabolic benefits through anti-inflammatory and CB1-modulating effects.
 
-For diabetes management specifically, higher CBD doses (100-600 mg/day) have been studied in clinical trials and may improve glycemic control and reduce diabetic complications. These doses should be introduced gradually and monitored with regular blood glucose testing.
+For diabetes management specifically, higher CBD doses (100-600 mg/day) have been studied in [[mushroom-cancer-clinical-trials-overview]] and may improve glycemic control and reduce diabetic complications. These doses should be introduced gradually and monitored with regular blood glucose testing.
 
 Oral administration (tinctures, capsules) provides consistent daily dosing for the chronic management required in metabolic syndrome. Consistent dosing schedules are important, as the metabolic effects of cannabinoids may build over weeks of regular use rather than providing immediate results.
 
@@ -73,7 +73,7 @@ THC should generally be avoided or minimized in metabolic syndrome patients due 
 
 ## Mind-Body Medicine Perspective
 
-Metabolic syndrome may reflect an overall metabolic, behavioral, and lifestyle environment. Contributing factors include chronic stress (elevating cortisol), sedentary behavior, poor diet, and disrupted sleep -- all modifiable through awareness and lifestyle change. The mind-body connection suggests that emotional stress, when chronic, directly drives insulin resistance and central adiposity through HPA axis activation.
+Metabolic syndrome may reflect an overall metabolic, behavioral, and lifestyle environment. [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]] include chronic stress (elevating cortisol), sedentary behavior, poor diet, and disrupted sleep -- all modifiable through awareness and lifestyle change. The mind-body connection suggests that emotional stress, when chronic, directly drives insulin resistance and central adiposity through HPA axis activation.
 
 ## See Also
 

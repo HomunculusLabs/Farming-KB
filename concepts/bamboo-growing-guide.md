@@ -1,15 +1,16 @@
 ---
-title: Bamboo Growing Guide
+title: Bamboo comparison-bean-growing-guide-vs-pepper-growing-guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cultivation, plants, design, permaculture, water-management]
-sources: []
+sources:
+  sources: []
 ---
 
 # Bamboo Growing Guide
 
-Bamboo is among the fastest-growing plants on Earth, capable of adding 24-36 inches per day during peak growth. It provides poles, edible shoots, erosion control, privacy screens, and carbon sequestration. However, its aggressive spreading habit demands careful planning and containment, especially with running varieties.
+Bamboo is among the fastest-growing plants on Earth, capable of adding 24-36 inches per day during peak growth. It provides poles, edible shoots, [[permplant-willows-salix-erosion-control-fodder]], privacy screens, and [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]. However, its aggressive spreading habit demands careful planning and containment, especially with running varieties.
 
 ## Running vs Clumping Bamboo
 
@@ -72,7 +73,7 @@ Less common due to cost and potential for rhizomes to exploit cracks. Suitable f
 
 ## Planting and Establishment
 
-- **Site selection**: Full sun to part shade (depends on species), well-drained soil
+- **[[fukuoka-creating-natural-farm-site-selection-establishment]]**: Full sun to part shade (depends on species), well-drained soil
 - **Soil preparation**: Incorporate 4-6 inches of compost into planting area; bamboo is heavy feeder
 - **Planting**: Dig hole twice the width of root ball, set crown at soil level, backfill, water deeply
 - **Spacing**: 3-8 feet apart for screening; single specimen plantings for focal points
@@ -100,7 +101,7 @@ Many Phyllostachys species produce edible shoots in spring:
 ## Maintenance
 
 - **Thinning**: Remove older, yellowing culms at ground level each year to maintain airflow
-- **Fertilizing**: Apply balanced organic fertilizer in early spring; nitrogen-rich for shoot production
+- **Fertilizing**: Apply balanced [[complete-organic-fertilizer-cof-recipe-solomon]] in [[coleman-overwintered-onions-and-early-spring-crops]]; nitrogen-rich for shoot production
 - **Pest monitoring**: Watch for bamboo mites, aphids, and mealybugs
 - **Winter protection**: Mulch heavily in cold zones; Fargesia is naturally cold-hardy
 

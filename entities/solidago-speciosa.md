@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Semple, J.C. et al. (2017). "Solidago." In Flora of North America North of Mexico, Vol. 20-21.
+  - Semple, J.C. et al. (2017). "Solidago." In Flora of psilocybin-north-america-pacific-northwest North of Mexico, Vol. 20-21.
   - USDA NRCS (2024). "Solidago speciosa Nutt." PLANTS Database.
   - Great Plains Flora Association (1986). Flora of the Great Plains. University Press of Kansas.
 ---
@@ -39,7 +39,7 @@ Blooming occurs from August through October, making it one of the latest-floweri
 
 The root system features a deep caudex with thick, fleshy roots extending 0.5–1 meter into the soil. This deep root system provides excellent drought resistance.
 
-Achenes are small, compressed, and topped with a white pappus of bristly hairs that facilitates wind dispersal. Seed viability remains high for 2–3 years under dry storage conditions.
+Achenes are small, compressed, and topped with a white pappus of bristly hairs that facilitates wind dispersal. Seed viability remains high for 2–3 years under dry [[vegetable-storage-conditions-by-temperature-and-humidity]].
 
 ## Distribution and Habitat
 
@@ -49,9 +49,9 @@ The species inhabits open woodlands, prairies, savannas, glades, and roadside ma
 
 It is less aggressive than many goldenrod species and does not typically form monocultures. Showy goldenrod is hardy in USDA zones 3–8.
 
-The species is found in both calcareous and acidic soils. Its broad ecological tolerance contributes to its wide geographic distribution across eastern North America.
+The species is found in both calcareous and acidic soils. Its broad ecological tolerance contributes to its wide geographic distribution across [[polypore-fungi-eastern-north-america]] America.
 
-The species is adapted to fire-prone ecosystems and resprouts readily from its caudex after prescribed burns. This fire tolerance makes it a valuable component of prairie restoration seed mixes.
+The species is adapted to fire-prone ecosystems and resprouts readily from its caudex after prescribed burns. This fire tolerance makes it a valuable component of [[comparison-prairie-restoration-vs-silvopasture]] seed mixes.
 
 In the southern portion of its range, S. speciosa occurs in open pine woodlands and rocky barrens. Northern populations are typically found in mesic tallgrass prairies and oak savannas.
 
@@ -87,7 +87,7 @@ Deer and rabbit browsing is generally minimal, making it suitable for unfenced n
 
 ## Ethnobotanical Uses
 
-Native American tribes used goldenrod species medicinally for various ailments. The Ojibwa prepared a root decoction for fever, while the Cherokee used leaf infusions for urinary complaints.
+[[halpern-sacramental-peyote-and-native-american-church]] tribes used goldenrod species medicinally for various ailments. The Ojibwa prepared a root decoction for fever, while the Cherokee used leaf infusions for urinary complaints.
 
 The specific ethnobotanical record for S. speciosa is limited, as many tribal uses were documented at the genus level rather than for individual species.
 
@@ -103,11 +103,11 @@ Thomas Jefferson grew goldenrod species at Monticello, reflecting the plant's ea
 
 In modern herbalism, S. speciosa is occasionally used as a substitute for the European S. virgaurea in tinctures and teas. However, clinical evidence remains limited compared to its better-studied European relative.
 
-Commercially, showy goldenrod seed is available from numerous native plant nurseries and seed suppliers. The species is recommended for rain gardens, bioswales, and erosion control plantings due to its deep root system.
+Commercially, showy goldenrod seed is available from numerous native plant nurseries and seed suppliers. The species is recommended for rain gardens, bioswales, and [[permplant-willows-salix-erosion-control-fodder]] plantings due to its deep root system.
 
 ## See Also
 
-- [[solidago-virgaurea]]
+- solidago-virgaurea
 - [[echinacea-purpurea]]
 - [[monarda-fistulosa]]
 - [[verbascum-thapsus]]

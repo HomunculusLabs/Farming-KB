@@ -1,5 +1,5 @@
 ---
-title: Chiric-Caspi - Brunfelsia South American Hallucinogen
+title: Chiric-Caspi - chiric caspi brunfelsia [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]] hallucinogen American Hallucinogen
 created: 2026-04-28
 tags: [ethnobotany, solanaceae, colombia, ecuador, peru, brazil,
   hallucinogenic-plants, schultes, jivaro, kofan]
@@ -14,7 +14,7 @@ type: concept
 
 Chiric-caspi and chiric sanango are the most common of the native names for
 several species of shrubs in the genus Brunfelsia that appear to have been
-important hallucinogens among some South American Indian tribes. The use of
+important hallucinogens among some South [[harner-american-indian-peyote-rituals]] tribes. The use of
 the name borrachero, meaning "intoxicator," indicates that the natives of
 Colombia, Ecuador, and Peru recognize the shrub's narcotic properties. The
 special care taken in its cultivation suggests a former religious or magical
@@ -28,7 +28,7 @@ source of a hallucinogenic drink or as an additive to other hallucinogenic
 preparations. Among the Kachinaua of Brazil, Brunfelsia serves as the
 primary ingredient in a hallucinogenic beverage. Among the Jivaro and Kofan
 Indians of Ecuador, Brunfelsia is used as an additive to other
-hallucinogenic drinks, likely including ayahuasca preparations, to alter
+hallucinogenic drinks, likely including [[schultes-ayahuasca-preparations]], to alter
 or increase their potency.
 
 The distribution of Brunfelsia use across a wide geographic area, from
@@ -88,8 +88,8 @@ of many Solanaceous plants in South American traditional medicine.
 
 The medicinal applications of Brunfelsia may be related to the same
 compounds responsible for its psychoactive effects, or they may involve
-entirely different chemical constituents. Many plants that are psychoactive
-at higher doses have useful medicinal properties at lower doses, a
+entirely different [[guzman-magic-mushrooms-chemical-constituents]]. Many plants that are psychoactive
+at higher doses have useful [[ginseng-cultivation-and-medicinal-properties]] at lower doses, a
 phenomenon that is well-documented across the ethnopharmacological
 literature.
 
@@ -99,7 +99,7 @@ Chemical investigation of the active compounds in Brunfelsia species is
 still in the initial stage, and what the active principles may be has not
 yet been determined according to Schultes' account. This is a significant
 gap in knowledge given the widespread use of these plants as hallucinogens
-and medicines across multiple indigenous cultures. The absence of
+and medicines across multiple [[guzman-allen-gartz-sacred-puffballs-gasteromycetes-indigenous-cultures]]. The absence of
 identified psychoactive compounds means that the mechanism of action,
 toxicity profile, and pharmacological classification of Brunfelsia's
 psychoactive effects all remain unknown.

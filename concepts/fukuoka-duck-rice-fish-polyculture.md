@@ -5,14 +5,15 @@ updated: 2026-04-19
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka Duck Rice Fish Polyculture
 
 Updated: 2026-04-19
 
-Masanobu Fukuoka advocates integrating ducks and fish into rice paddies as part of his natural farming system in *The Natural Way of Farming*, presenting it as an alternative to chemical fertilizers and pesticides through three-dimensional use of the field.
+Masanobu Fukuoka advocates integrating ducks and fish into rice paddies as part of his [[comparison-natural-farming-vs-permaculture]] system in *The Natural Way of Farming*, presenting it as an alternative to [[cervantes-chemical-fertilizers-guide]] and pesticides through three-dimensional use of the field.
 
 This polyculture approach embodies Fukuoka's principle that [[duck-rice-paddy]] traditions and the [[fukuoka-rice-barley-dual-culture]].
 
@@ -20,21 +21,23 @@ This polyculture approach embodies Fukuoka's principle that [[duck-rice-paddy]] 
 
 The duck-fish-rice system replaces three major categories of agricultural chemicals:
 
-1. **Herbicides** — ducks handle weed control
+1. **Herbicides** — ducks handle [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
 
 2. **Insecticides** — ducks consume pest insects
 
-3. **Fertilizers** — duck and fish manure, plus the soil-turning action that improves nutrient availability
+3. **Fertilizers** — duck and fish manure, plus the soil-turning action that improves [[ph-and-nutrient-availability-garden-soils]]
 
 This connects to [[fukuoka-natural-soil-fertility]] approaches. From the standpoint of pure natural farming, the duck-rice-fish polyculture is the ideal — more natural than even the chicken manure applications described in the [[fukuoka-natural-farming-philosophy]] — a farm that functions as a complete ecosystem where every element supports every other element without human management.
 
 ## Relevance to Modern Natural Farming
 
-The duck-rice-fish polyculture exemplifies Fukuoka's principle that natural farming systems work as integrated wholes where each element supports the others. It contrasts with conventional monoculture rice production that requires separate applications of fertilizer, herbicide, and pesticide.
+The duck-rice-fish polyculture exemplifies Fukuoka's principle that natural farming systems work as integrated wholes where each element supports the others. It contrasts with conventional monoculture [[fukuoka-energy-analysis-rice-production-natural-vs-mechanized]] that requires separate applications of fertilizer, herbicide, and pesticide.
 
 Modern adaptations of this method have been adopted throughout Asia and are being explored in other rice-growing regions worldwide. The system demonstrates that high productivity and ecological sustainability are not mutually exclusive. See [[fukuoka-critique-modern-agriculture]] and [[fukuoka-nature-transcends-human-knowledge]].
 
 ## See Also
+
+- [[fukuoka-textdoc-duck-carp-rice-paddy-polyculture]]
 
 - [[fukuoka-rice-barley-step-by-step-method]]
 
@@ -59,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +104,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

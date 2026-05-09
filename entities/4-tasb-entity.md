@@ -8,7 +8,7 @@ sources: []
 ---
 # 4-TASB
 
-4-TASB (4-thioasymbescaline; 3-ethoxy-4-ethylthio-5-methoxyphenethylamine) is a phenethylamine described in PiHKAL entry #147.
+4-TASB (4-thioasymbescaline; 3-ethoxy-4-ethylthio-5-methoxyphenethylamine) is a phenethylamine described in [[2c-b-pihkal-entry-20]] #147.
 
 It carries both ethoxy and ethylthio substituents on the benzene ring, making it a member of the thioasymbescaline (TASB) family.
 
@@ -64,7 +64,7 @@ The synthesis was notably challenging, involving benzyne chemistry, lithium-halo
 
 Gas chromatographic analysis confirmed isomeric purity of the final product.
 
-The synthesis route passed through 3-ethoxy-2-(ethylthio)anisole, bromination, benzyne-mediated cyanation with acetonitrile, and final reduction with lithium aluminum hydride.
+The [[four-hydroxyindole-psilocin-synthesis-route-shirota]] passed through 3-ethoxy-2-(ethylthio)anisole, bromination, benzyne-mediated cyanation with acetonitrile, and final reduction with lithium aluminum hydride.
 
 ## Commentary
 
@@ -94,4 +94,4 @@ Active compound with significant physical side effects.
 
 The "DO NOT REPEAT" assessment from an experienced subject, combined with reports of heartbeat and respiration irregularities, neurological hyperreflexia, water retention, and extreme negative imagery, places 4-TASB among the more physically threatening compounds in the PiHKAL collection.
 
-While psychedelic activity is confirmed, the therapeutic index appears unfavorable and the compound serves primarily as a cautionary data point in structure-activity relationship studies.
+While psychedelic activity is confirmed, the [[cannabis-therapeutic-index-overview]] appears unfavorable and the compound serves primarily as a cautionary data point in structure-activity relationship studies.

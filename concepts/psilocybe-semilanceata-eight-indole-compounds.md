@@ -1,5 +1,5 @@
 ---
-title: Psilocybe Semilanceata Eight Indole Compounds
+title: Psilocybe psilocybe semilanceata eight indole compounds Compounds
 created: 2026-04-19
 updated: 2026-04-18
 type: concept
@@ -25,7 +25,7 @@ The full complement of eight indole compounds in P. semilanceata includes variou
 
 ### Baeocystin-Rich Species
 
-[[mushroom-identification-taxonomic-confusion]] that surrounds many psychoactive mushroom species complicates the interpretation of chemical analyses.
+mushroom-identification-taxonomic-confusion that surrounds many psychoactive mushroom species complicates the interpretation of [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]].
 
 ## Baeocystin Synthesis Controversy
 
@@ -33,7 +33,7 @@ Gartz notes that there are "substantial doubts over whether the synthesis of Bae
 
 ### Geographic Distribution of Baeocystin
 
-Baeocystin appears to be an alkaloid primarily found in mushrooms from temperate climate zones, and it is less common in tropical species. This geographic pattern may reflect evolutionary adaptations or ecological factors that favor the production of this particular compound.
+Baeocystin appears to be an alkaloid primarily found in mushrooms from [[permaculture-designers-manual-temperate-climate-design]] zones, and it is less common in tropical species. This geographic pattern may reflect evolutionary adaptations or ecological factors that favor the production of this particular compound.
 
 ## Future Research Directions
 
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

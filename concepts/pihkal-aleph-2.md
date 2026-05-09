@@ -63,7 +63,7 @@ more manageable than longer-acting thioether compounds.
 
 ## Effects Profile
 
-Aleph-2 produces a psychedelic experience that combines elements of both
+Aleph-2 produces a [[leary-psychedelic-experience-bardo-mapping]] that combines elements of both
 the 2C-T series and compounds with fluorine substituents. Visual effects
 include moderate geometric patterning, color enhancement, and perceptual
 sharpening. The visual character has been described as "clean" and
@@ -110,7 +110,7 @@ understood is inferred from structural analogies to the 2C-T compounds.
 ## Safety and Harm Reduction
 
 As with all psychedelic phenethylamines, careful dosing and appropriate
-set and setting are essential. The 5 to 10 mg range should be respected,
+[[lsd-set-and-setting-framework]] are essential. The 5 to 10 mg range should be respected,
 and inexperienced users should begin at the lower end. The thioether
 group raises theoretical concerns about the formation of reactive
 metabolites through sulfur oxidation, though no specific toxicity has been

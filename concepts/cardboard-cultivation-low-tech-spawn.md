@@ -17,9 +17,9 @@ type: concept
 # Cardboard Cultivation and Low-Tech Spawn Creation
 
 Cardboard is one of the most universally available waste materials and serves
-as both a fruiting substrate and a low-tech spawn production medium for
+as both a [[pf-tek-maximum-fruiting-substrate-formula]] and a low-tech [[growing-gourmet-sawdust-spawn-production-use]] medium for
 wood-loving mushroom species. Tradd Cotter documents two distinct but related
-applications: cardboard as a fruiting substrate for oyster mushrooms, and
+applications: cardboard as a fruiting substrate for [[query-how-to-grow-oyster-mushrooms-at-home]], and
 cardboard as a primitive spawn expansion system that requires no laboratory
 equipment. Both methods are accessible to off-grid growers, those on tight
 budgets, and anyone interested in sustainable, low-energy cultivation.
@@ -28,7 +28,7 @@ budgets, and anyone interested in sustainable, low-energy cultivation.
 
 Cardboard cultivation for fruiting is best suited to [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] or laboratory equipment. This method,
 called cardboard inoculation, is suitable for species that grow readily on
-wood, including oysters, blewits, and king stropharia. It is not effective
+wood, including oysters, blewits, and [[cotter-king-stropharia-cultivation]]. It is not effective
 for secondary decomposers like almond portabella, or mycorrhizal species.
 
 ### Using Stem Bases for Inoculation
@@ -52,7 +52,7 @@ fully colonized, the mycelium is expanded by layering colonized sheets with
 fresh cardboard in plastic tubs or buckets. Each expansion takes days to a
 week. Repeating this process builds a volume of "sheet spawn" that can
 inoculate logs, stumps, wood chips, and pasteurized media in place of
-laboratory-produced plug, sawdust, or grain spawn.
+laboratory-produced plug, sawdust, or [[comparison-grain-spawn-vs-grain-to-grain-transfer]].
 
 ## Clothing and Textile Cultivation
 
@@ -70,7 +70,7 @@ mycoremediation of indigo carmine dyes from textile mill waste.
 - Works off-grid with minimal energy inputs
 - Produces spawn that can inoculate logs and wood chip beds
 - Diverts cardboard from waste streams
-- Spent substrate becomes excellent [[vermicomposting]] feed
+- [[oyster-mushroom-spent-substrate-recycling]] becomes excellent [[vermicomposting]] feed
 
 ## Contamination Awareness
 
@@ -80,4 +80,4 @@ transferring mold to an entire operation can be catastrophic. Cultivators
 should familiarize themselves with common contaminants like [[oyster-mushroom-outdoor-low-tech-cultivation]]
 
 - [[mushroom-classroom-education-demos]] for educational applications
-- [[spawn-generation-techniques]] for laboratory spawn production methods
+- [[shiitake-mushroom-cultivation]] for laboratory spawn production methods

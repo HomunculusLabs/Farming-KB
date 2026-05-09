@@ -9,15 +9,15 @@ sources:
 ---
 # Hamilton: Ornamental Trees — Selection, Planting, and Care
 
-**Source:** Geoff Hamilton, *Organic Gardening* (Nick Hamilton edition)
+**Source:** Geoff Hamilton, *[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]* (Nick Hamilton edition)
 
 **Updated:** 2026-04-21
 
 Ornamental trees serve multiple purposes in the organic garden. They provide shade, extending the range of plants that can be grown beneath them. Along with [[hamilton-organic-lawn-care]], they form the framework of the garden and can be planted as windbreaks. Most importantly for the organic gardener, they attract wildlife—birds use them for perching, nesting, and food (especially berrying and fruiting trees), and trees with deeply furrowed or flaking bark (such as birches, Betula sp.) provide homes for insects that in turn feed birds. Flowering trees attract pollinating insects, essential for fruit production.
 
-[[hamilton-garden-layout-beds-borders-paths]] as it matures. A tree planted too close to a border may eventually cast such dense shade that only [[mollison-aquaculture-harvest-and-fish-nutrition]].
+[[hamilton-garden-layout-beds-borders-paths]] as it matures. A tree planted too close to a border may eventually cast such dense shade that only mollison-aquaculture-harvest-and-fish-nutrition.
 
-4. Mix soil and compost around the hole edge. Cover the root ball, firming gently with the ball of your foot. Do not use spent mushroom compost (contains lime, harmful to lime-haters like Amelanchier lamarckii).
+4. Mix soil and compost around the hole edge. Cover the root ball, firming gently with the ball of your foot. Do not use [[staycare-spent-mushroom-compost-bioremediation]] compost (contains lime, harmful to lime-haters like Amelanchier lamarckii).
 
 5. Build a small soil retaining wall around the tree for thorough watering.
 
@@ -37,7 +37,7 @@ Plant only in the dormant season, never in freezing or waterlogged conditions. I
 
 3. Drive stake 18in (45cm) into soil.
 
-4. Cover dug-out soil with a bucketful of organic matter and two handfuls of bone meal.
+4. Cover dug-out soil with a bucketful of [[hamilton-composting-and-organic-matter-management]] and two handfuls of bone meal.
 
 5. Place tree in hole, put fine soil over roots, jerk stem up and down to settle soil around roots.
 
@@ -68,7 +68,7 @@ Native trees support the greatest diversity of insect species, which in turn sup
 - [[geoff-hamilton-organic-techniques]]
 
 ## Merged: Hamilton: Propagation Techniques — Seed Sowing
-**Source:** Geoff Hamilton, *Organic Gardening* (Nick Hamilton edition) **Updated:** 2026-04-18 Growing plants from seed is the primary method of organic propagation because it gives the gardener complete control over the growing conditions from the very start. For the organic gardener, raising plants from seed is not merely economical—it is often the only way to ensure that plants have been cultivated entirely without chemical sprays or synthetic fertilizers. On [[cold-frame-construction]] allows outdoor sowing to begin in early spring by warming the soil two weeks beforehand. Wide bands are used in [[hamilton-greenhouse-management-organic]], [[cold-frame-gardening]], [[crop-rotation-principles]]
+**Source:** Geoff Hamilton, *Organic Gardening* (Nick Hamilton edition) **Updated:** 2026-04-18 Growing plants from seed is the primary method of organic propagation because it gives the gardener complete control over the growing conditions from the very start. For the organic gardener, raising plants from seed is not merely economical—it is often the only way to ensure that plants have been cultivated entirely without chemical sprays or synthetic fertilizers. On [[cold-frame-construction]] allows outdoor sowing to begin in [[coleman-overwintered-onions-and-early-spring-crops]] by warming the soil two weeks beforehand. Wide bands are used in [[hamilton-greenhouse-management-organic]], [[cold-frame-gardening]], [[crop-rotation-principles]]
 ## Practical Considerations
 
 Successful implementation of Hamilton: Ornamental Trees — Selection, Planting, and Care requires attention to
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

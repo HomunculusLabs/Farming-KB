@@ -1,17 +1,18 @@
 ---
-title: Humidity Control and Dehumidification
+title: cervantes humidity control dehumidification and Dehumidification
 created: 2026-04-26
 tags: [cannabis, humidity, environment, climate-control, indoor-growing]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Humidity Control and Dehumidification
 
-Relative humidity management is critical to preventing pest infestations,
+Relative [[stamets-cultivator-humidity-management-fogging-systems]] is critical to preventing pest infestations,
 fungal diseases, and ensuring healthy transpiration in cannabis gardens. Jorge
 Cervantes covers humidity control as an integral part of environmental
 management that directly impacts plant health and yield.
@@ -24,7 +25,7 @@ air to lower humidity, additional measures are needed:
 ### Ventilation Fan on Humidistat
 
 The HID lamp and ballast radiate heat, which naturally lowers humidity. For
-most grow rooms, the HID lighting system combined with a vent fan on a
+most grow rooms, the [[cannabis-hid-lighting-specifications]] system combined with a vent fan on a
 thermostat/humidistat provides sufficient humidity control. As soon as
 humidity (or temperature) exceeds the acceptable range, the fan activates to
 vent humid air outdoors.
@@ -44,7 +45,7 @@ points:
 ### Air Conditioners
 
 Air conditioners function as dehumidifiers and are ideal to dial in both
-temperature and humidity in warm climates. They use more electricity but
+[[greg-green-temperature-and-humidity-control]] in warm climates. They use more electricity but
 provide dual climate control. The condensed water from air conditioners
 carries the fragrance of cannabis and should be managed discreetly.
 
@@ -59,6 +60,7 @@ solution.
 
 See also: [[cervantes-indoor-grow-room-setup]],
 cervantes-cloning|Cloning, [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]
+
 ## Practical Considerations
 
 Successful implementation of Humidity Control and Dehumidification requires attention to
@@ -77,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

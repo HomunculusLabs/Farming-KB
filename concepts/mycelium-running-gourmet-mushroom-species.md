@@ -5,11 +5,12 @@ updated: 2026-04-21
 type: concept
 tags: [gardening]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Gourmet Mushroom Species
 
-Source: Mycelium Running by Paul Stamets (2005), Chapters 3, 12, 14
+Source: [[woodlovers-mycelium-running-pathway-technique]] by Paul Stamets (2005), Chapters 3, 12, 14
 
 updated: 2026-04-21
 
@@ -37,7 +38,7 @@ Shiitake is one of the most cultivated mushrooms worldwide, prized in Asian cuis
 
 It is a primary decomposer and wood decomposer, traditionally grown on oak logs in Asia. Shiitake produces cortinellin (an antibiotic) and antiviral compounds. Suzuki and others (1990) discovered an antiviral water-soluble lignin in extracts of shiitake mycelium grown on rice bran and sugarcane bagasse. Sarkar and others (1993) identified antiviral substances extracted from shiitake mushrooms.
 
-Pioneers in shiitake cultivation long ago discovered that woods other than oaks can serve as substrates. Shiitake cultivation on sawdust blocks is common, and spent blocks can be recycled for mycofiltration purposes. The [shiitake log method remains popular among home growers, while commercial operations increasingly use supplemented sawdust blocks for faster production cycles.
+Pioneers in shiitake cultivation long ago discovered that woods other than oaks can serve as substrates. Shiitake cultivation on sawdust blocks is common, and spent blocks can be recycled for mycofiltration purposes. The [shiitake log method remains popular among home growers, while commercial operations increasingly use [[oyster-mushroom-supplemented-sawdust-blocks]] blocks for faster production cycles.
 
 ## Maitake (Grifola frondosa)
 
@@ -77,7 +78,7 @@ Chanterelles are mycorrhizal mushrooms found in 40-year-old Douglas fir forests 
 
 They are among the most prized wild edible mushrooms. Cantharellus cibarius and allies form ectomycorrhizae with oaks and firs. Stamets recommends picking no more than 25 percent of the mushrooms of a wild patch, leaving young ones, and when encountering pairs, cutting only one.
 
-Chanterelles are notoriously difficult to cultivate because of their mycorrhizal dependency. While mycorrhizal inoculation techniques have advanced, commercial chanterelle cultivation remains elusive. This makes sustainable wild harvesting practices all the more important for maintaining these valuable [ectomycorrhizal populations.
+Chanterelles are notoriously difficult to cultivate because of their mycorrhizal dependency. While mycorrhizal [[cotter-inoculation-techniques-and-hygiene]] have advanced, commercial chanterelle cultivation remains elusive. This makes sustainable wild harvesting practices all the more important for maintaining these valuable [ectomycorrhizal populations.
 
 ## Other Notable Species
 
@@ -91,13 +92,13 @@ Chanterelles are notoriously difficult to cultivate because of their mycorrhizal
 
 ## Ecological Value of Gourmet Mushrooms
 
-Beyond their culinary and medicinal importance, gourmet mushrooms provide essential ecosystem services.
+Beyond their culinary and medicinal importance, gourmet mushrooms provide essential [[biodiversity-of-fungi-ecosystem-services-agriculture]].
 
-As decomposers, they recycle nutrients and build soil. As mycorrhizal partners, they support forest health. Many species also produce [fungal secondary metabolites that influence the broader microbial community, suppressing pathogens and creating conditions favorable for plant growth.
+As decomposers, they recycle nutrients and build soil. As mycorrhizal partners, they support forest health. Many species also produce [fungal [[antifungal-secondary-metabolites-coprophilous-fungi]] that influence the broader [[edaphic-factors-microbial-community-structure]], suppressing pathogens and creating conditions favorable for plant growth.
 
 ## See Also
 
-- [[oyster-mushroom-varieties]]
+- oyster-mushroom-varieties
 
 - [[reishi-cultivation-methods]]
 
@@ -106,3 +107,5 @@ As decomposers, they recycle nutrients and build soil. As mycorrhizal partners, 
 - [[medicinal-mushroom-health-benefits]]
 
 - [[mycoforestry-forest-restoration]]
+
+- [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]

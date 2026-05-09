@@ -34,7 +34,7 @@ freezes, the water expands, forcing the rock to split open.
 
 Soil is made up of three layers: topsoil, subsoil, and the soil parent
 matter. Topsoil is formed over the years by the addition of organic
-matter. It is inhabited by a wide range of living organisms, and it is
+matter. It is inhabited by a wide range of [[savory-living-organisms-as-tools]], and it is
 in this layer that the majority of the feeding roots of plants exist.
 Topsoils can be improved and deepened by the regular addition of organic
 matter through [[cannabis-organic-fertilizers]].
@@ -43,7 +43,7 @@ matter through [[cannabis-organic-fertilizers]].
 Silt particles are between 0.002mm and 0.02mm, making silt smooth and
 silky to the touch. When wet, it has a tendency to pack down, leaving
 the soil cold, heavy, and badly drained. Silt is fertile but requires
-careful management with regular additions of organic matter to maintain
+careful management with regular additions of [[hamilton-composting-and-organic-matter-management]] to maintain
 good structure.
 
 ### Chalk Soil

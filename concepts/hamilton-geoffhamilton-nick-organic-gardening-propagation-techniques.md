@@ -21,7 +21,7 @@ Second, it can be difficult to find plants that have been raised
 organically.
 
 By following a few simple rules and taking sensible precautions, your
-success rate with home-raised seed will be gratifying. By using other
+[[maitake-fruiting-body-success-rate-management]] with home-raised seed will be gratifying. By using other
 methods of propagation such as division, cuttings, layering, budding,
 and grafting, you can make sure of a constant and inexpensive supply of
 organically raised plants for the entire garden.
@@ -30,7 +30,7 @@ organically raised plants for the entire garden.
 
 The best way to ensure that everything in your garden has been
 cultivated organically is to grow as much as possible from seed. Either
-sow directly into your garden, or start seeds in the
+sow directly into your garden, or [[query-what-is-seed-starting-and-when-should-i-start-seeds-indoors]] in the
 [[mollison-designers-composting-toilets-and-humanure]] if you are sowing in
 containers.
 
@@ -83,7 +83,7 @@ this, it cannot manufacture any more food. The general rule is to make
 
 It is also important to space the seeds and rows correctly to avoid
 overcrowding. Some seeds can be thinned and transplanted later, others,
-such as those of root crops, will "fork" if transplanted.
+such as those of [[permaculture-plants-root-crops-and-tubers]], will "fork" if transplanted.
 
 ### Sowing Techniques
 
@@ -102,9 +102,14 @@ water or even prevent young seedlings breaking through to the light.
 
 By sowing seeds in trays or pots inside you can start much earlier in
 the year. Vegetables can be sown in midwinter and planted out under
-cloches in early spring. A [[hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers]]
+cloches in [[coleman-overwintered-onions-and-early-spring-crops]]. A [[hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 - [[plant-propagation-methods]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]] for controlled environment growing
-- [[mollison-designers-composting-toilets-and-humanure]] for making your own potting compost
+- [[mollison-designers-composting-toilets-and-humanure]] for making your own [[hamilton-potting-compost-recipes-and-growing-media]]
+
+## See Also
+
+- [[organic-propagation-hamilton]]
+- [[organic-mulching-techniques]]

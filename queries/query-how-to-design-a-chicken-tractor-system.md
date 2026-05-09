@@ -1,5 +1,5 @@
 ---
-title: How to Design a Chicken Tractor System
+title: How to Design a comparison-chicken-tractor-vs-free-range System
 created: 2026-04-28
 tags:
   - chicken-tractor
@@ -9,14 +9,15 @@ tags:
   - livestock-integration
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 # How to Design a Chicken Tractor System
 A chicken tractor is a mobile, floorless enclosure that lets chickens
 forage on fresh ground while remaining protected from predators.
 It is one of the most practical tools available in [[hamilton-animal-manure-types-and-use]] directly onto the soil surface.
-This query page covers the core design principles and management
+This query page covers the core [[holmgren-permaculture-twelve-design-principles-framework]] and management
 considerations for building and running an effective chicken tractor
 system on a homestead or small farm.
 ## What Is a Chicken Tractor?
@@ -66,13 +67,13 @@ Electric net fencing around the tractor adds another layer of defense
 for nighttime use if you cannot fully enclose the roof.
 Review [[chicken-keeping]] resources.
 ## Garden Bed Integration
-Chicken tractors excel as a tool for garden bed preparation and
+[[mollison-designers-chicken-tractors-egg-production]] excel as a tool for garden [[azurescens-outdoor-bed-preparation-woodchips]] and
 cleanup. After harvesting a crop, move the tractor onto the spent bed
 for 1 to 2 weeks.
 The birds will eat remaining plant material, scratch up weed seeds,
 consume soil-dwelling pest larvae, and fertilize the bed with their
 droppings. This creates a ready-to-plant surface with minimal effort.
-This practice is a cornerstone of [[chicken-integration-permaculture-guide]]
+This practice is a cornerstone of chicken-integration-permaculture-guide
 frameworks, replacing fossil-fuel inputs with animal labor.
 By cycling birds through food forests, annual vegetable beds, orchard
 alleys, and cover-cropped fallow areas, a tractor system closes
@@ -83,9 +84,9 @@ support the next crop cycle, creating a regenerative feedback loop.
 - Provide 3 to 4 sq ft per bird indoors plus 8 to 10 sq ft of run.
 - Use 1/2-inch hardware cloth, not chicken wire, and secure edges.
 - Keep total weight under 100 lbs for manageable daily moves.
-- Rotate every 1 to 3 days in the growing season to prevent nitrogen
+- Rotate every 1 to 3 days in the [[savory-growing-season-and-non-growing-season-management]] to prevent nitrogen
   buildup and overgrazing.
-- Integrate with garden beds post-harvest for pest control and soil
+- Integrate with garden beds post-harvest for [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] and soil
   building without mechanical tilling.
 - Design for seasonal extremes with shade, wind blocks, drainage,
   and freeze protection for waterers.

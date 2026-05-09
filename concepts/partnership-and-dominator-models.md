@@ -26,11 +26,11 @@ These models describe two fundamentally different approaches to social structure
 
 Eisler proposed that "partnership" models of society preceded and later competed with, and were oppressed by, "dominator" forms of social organization.
 
-Her analysis was based on archaeological evidence from ancient Near Eastern and European sites, particularly the Neolithic settlement of Qatal Huyuk in central Anatolia.
+Her analysis was based on archaeological evidence from [[allegro-fertility-philosophy-of-the-ancient-near-east]] Eastern and European sites, particularly the Neolithic settlement of Qatal Huyuk in central Anatolia.
 
 She demonstrated that over vast areas and for many centuries, partnership societies existed without warfare and upheaval. Warfare and patriarchy arrived with the appearance of dominator values.
 
-McKenna integrated this framework into his pharmacological history, arguing that the transition from partnership to dominator culture was directly linked to the abandonment of psychedelic mushroom use in human societies.
+McKenna integrated this framework into his pharmacological history, arguing that the transition from partnership to [[mckenna-dominator-culture-and-suppression-of-ecstasy]] was directly linked to the abandonment of [[archaeology-of-psychedelic-mushroom-use]] use in human societies.
 
 ## The Partnership Model
 
@@ -52,7 +52,7 @@ Children are raised by extended networks of cousins, siblings, aunts, uncles, an
 
 This provides children with many different relationships and a variety of role models.
 
-Group values are not usually at odds with individual or family interests. Adolescent sexual experimentation is expected and encouraged, reflecting a fundamentally different attitude toward the developing person from that found in dominator cultures.
+Group values are not usually at odds with individual or family interests. Adolescent sexual experimentation is expected and encouraged, reflecting a fundamentally different attitude toward the developing person from that found in [[partnership-and-dominator-cultures-in-human-history]].
 
 ### Gender Relations
 
@@ -116,7 +116,7 @@ Mellaart noted that its religious art appeared "three or four thousand years ahe
 
 McKenna interpreted the Genesis story of the expulsion from Eden as a cultural memory of the transition from partnership to dominator society.
 
-The "fruit of the Tree of Knowledge" was identified with the psilocybin mushroom that catalyzed the Tassili partnership Eden. The story records that "the eyes of both of them were opened and they discovered that they were naked," suggesting attainment of consciousness of self and other.
+The "fruit of the Tree of Knowledge" was identified with the [[emcdda-psilocybin-mushroom-dose-and-effects]] that catalyzed the Tassili partnership Eden. The story records that "the eyes of both of them were opened and they discovered that they were naked," suggesting attainment of consciousness of self and other.
 
 The "angel with flashing sword" guarding the return to Eden symbolized the harshness of desert drought conditions that disrupted the pastoralists' Saharan paradise.
 
@@ -142,4 +142,4 @@ The ultimate consequence of this drift is the fatal ennui that now permeates Wes
 - [[psilocybin-mushroom]]
 - [[stoned-ape-hypothesis]]
 - [[tassili-n-ajjer-and-the-saharan-eden]]
-- Archaic Revival
+- [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]

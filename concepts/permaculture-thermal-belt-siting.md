@@ -1,22 +1,19 @@
 ---
-title: Permaculture Thermal Belt Siting
+title: Permaculture mollison-frost-protection-and-thermal-belt-design Siting
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[permaculture, design]
-sources: []
+tags: [permaculture, design]
+sources:
+  sources: []
 ---
-# Permaculture Thermal Belt Siting
-
-Permaculture thermal belt siting is the practice of placing houses, gardens, and sensitive crops in the midslope thermal belt zone of hills and mountains, where temperatures are most moderate and frost risk is minimized. This is one of the most powerful yet often overlooked strategies in permaculture land design.
-
-[[permaculture-design]] methodology uses several approaches for this assessment.
+# Permaculture Thermal Belt Siting Permaculture thermal belt siting is the practice of placing houses, gardens, and sensitive crops in the midslope thermal belt zone of hills and mountains, where temperatures are most moderate and frost risk is minimized. This is one of the most powerful yet often overlooked strategies in permaculture land design. [[permaculture-design]] methodology uses several approaches for this assessment.
 
 Local anecdotes from long-term residents often provide the best guide to frost-free and frost-prone areas on a property.
 
 Observation of existing vegetation is another powerful indicator. Frost-susceptible species growing in a particular zone indicate that zone is in the thermal belt.
 
-Dense autumn fogs are a visible indicator of winter frost extent and can be observed from high vantage points to map cold air drainage patterns.
+Dense autumn fogs are a visible indicator of winter frost extent and can be observed from high vantage points to map [[hemenway-cold-air-drainage-and-frost-management]] drainage patterns.
 
 Trial plantings of frost-susceptible species provide direct evidence of thermal belt location and frost risk at specific points on a site.
 
@@ -40,7 +37,7 @@ The [[permaculture-climate-zones]] framework helps designers understand when the
 
 The primary source for this article includes established reference works in mycology, plant pathology, and the history of science. Readers seeking deeper engagement with the primary literature are encouraged to consult the sources listed in the article header.
 
-Additional context has been drawn from peer-reviewed scientific literature, historical records, and contemporary field guides. The interplay between fungal biology and human civilization continues to be an active area of scholarly inquiry with important implications for agriculture, medicine, and environmental management.
+Additional context has been drawn from peer-reviewed scientific literature, historical records, and contemporary field guides. The interplay between [[bloomfield-fungal-biology-and-hyphal-growth]] and human civilization continues to be an active area of scholarly inquiry with important implications for agriculture, medicine, and environmental management.
 
 ## Further Reading and References
 
@@ -71,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

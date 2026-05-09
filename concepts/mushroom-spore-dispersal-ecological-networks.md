@@ -1,5 +1,5 @@
 ---
-title: Mushroom Spore Dispersal and Ecological Networks
+title: Mushroom aquatic-fungi-spore-dispersal-ingold and Ecological Networks
 created: 2026-04-28
 tags: [spores, mycology, fungal-ecology, dispersal, mycelium-running]
 date: 2026-04-25
@@ -29,8 +29,8 @@ Bears scratch trees to mark their territories, creating apt habitats for
 spore entry in the process. Mycelium and mushrooms sprout from these
 scratchings, attracting more beetles and bugs in a self-reinforcing
 cycle. These intersecting cycles of animal-fungal interaction sustain
-biodiversity across forest ecosystems. Many polypore mushrooms coexist
-within such trees, creating multi-species fungal communities.
+biodiversity across forest ecosystems. Many [[growing-gourmet-polypore-mushrooms-cultivation-overview]] coexist
+within such trees, creating multi-species [[biodiversity-of-fungi-soil-fungal-communities-agriculture]].
 
 ### Spore Trapping for Ecological Survey
 
@@ -70,7 +70,7 @@ Spore trapping methods allow researchers to inventory fungal
 biodiversity in ecosystems without relying on fruiting body surveys,
 which are seasonal and weather-dependent. This approach is valuable for
 tracking endangered fungal species and assessing ecosystem health
-through fungal community composition.
+through fungal [[core-endorhiza-bacterial-community-composition-cannabis]].
 
 ### Mycoremediation Seeding
 
@@ -85,15 +85,18 @@ sites yields the highest colonization rates.
 
 ## References
 
-- Stamets, P. Mycelium Running: How Mushrooms Can Help Save the World.
+- Stamets, P. [[woodlovers-mycelium-running-pathway-technique]]: How Mushrooms Can Help Save the World.
   Ten Speed Press, 2005. Chapters on spore dispersal and inoculation
   methods.
 - James, T.Y. and Vilgalys, R. (2001). Spore trap methodology for
-  detection of ectomycorrhizal fungi in forest soils.
+  detection of [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] in forest soils.
 - Danell, E. and Camacho, F. (1997). First reported growth of
   chanterelles with Pinus sylvestris seedlings.
 
 ## See Also
 
-- [[psilocybin-mushroom-image-guide-spore-color-chart]]
+- psilocybin-mushroom-image-guide-spore-color-chart
 - [[ingoldian-hyphomycetes-spore-dispersal-in-water]]
+- [[spore-dispersal]]
+- [[ectomycorrhiza]]
+- [[pinus-sylvestris]]

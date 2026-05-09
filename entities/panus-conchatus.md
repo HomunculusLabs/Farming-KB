@@ -20,7 +20,7 @@ created: 2026-04-28
 
 Panus conchatus, commonly known as the violet oysterling, is a basidiomycete fungus in the family Polyporaceae.
 
-It is a lignicolous species found on dead hardwood across temperate and subtropical regions of Europe, Asia, and North America.
+It is a lignicolous species found on dead hardwood across temperate and subtropical regions of Europe, Asia, and [[psilocybin-north-america-pacific-northwest]].
 
 The species is notable for its lilac-to-violet coloration when fresh, which fades to brown or tan with age.
 
@@ -46,7 +46,7 @@ The stipe is 1–3 cm long, lateral or eccentric, and shares the violet colorati
 
 Spores are cylindrical to ellipsoid, measuring 5–7 × 2–3 µm, smooth, and hyaline.
 
-Spore print is white to pale pink.
+[[comparison-spore-print-collection-vs-spore-syringe-production]] is white to pale pink.
 
 ## Distribution and Habitat
 
@@ -72,7 +72,7 @@ Like other Panus species, it readily colonizes sawdust-based substrates suppleme
 
 Fruiting requires high humidity and cooler temperatures, similar to conditions for Pleurotus species.
 
-Biological efficiency is moderate, estimated at 30–50% on hardwood sawdust.
+[[stamets-biological-efficiency-yield]] is moderate, estimated at 30–50% on hardwood sawdust.
 
 Interest in cultivation is primarily academic, as the species has no significant commercial demand.
 
@@ -98,7 +98,7 @@ As a white-rot fungus, Panus conchatus plays an important role in forest carbon 
 
 It degrades lignin and cellulose in dead hardwood, contributing to nutrient recycling.
 
-The species is part of the saprotrophic fungal community on fallen timber in mixed forests.
+The species is part of the saprotrophic [[air-pollution-fungal-community-responses]] on fallen timber in mixed forests.
 
 It may compete with other wood-decay fungi for substrate colonization.
 
@@ -112,7 +112,7 @@ Panus lecomtei is a tropical Asian species with a more consistently violet color
 
 Lentinus crinitus shares the lignicolous habit but has conspicuous hairy caps.
 
-Pleurotus ostreatus (oyster mushroom) occupies a similar ecological niche.
+Pleurotus ostreatus ([[cotter-oyster-mushroom-cultivation]]) occupies a similar ecological niche.
 
 Panus conchatus is distinguished from Pleurotus species by its tougher, leathery flesh.
 
@@ -121,5 +121,5 @@ Panus conchatus is distinguished from Pleurotus species by its tougher, leathery
 - [[pleurotus-ostreatus]]
 - [[trametes-versicolor-entity]]
 - [[laetiporus-sulphureus]]
-- [[coprinus-comatus-detailed]]
+- [[coprinus-comatus]]
 - [[agaricus-bisporus]]

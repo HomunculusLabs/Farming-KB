@@ -1,5 +1,5 @@
 ---
-title: "How Do I Design Planting Guilds for a Food Forest?"
+title: "How Do I query how do i design planting guilds for a food forest Guilds for a Food Forest?"
 created: 2026-04-28
 tags:
   - food-forest
@@ -23,8 +23,8 @@ type: query
 
 # How Do I Design Planting Guilds for a [[plant-guild]] or companion guild) is a community of plants that support each other through mutual benefits — nutrient cycling, pest management, pollination, and microclimate creation. In [[dynamic-accumulators]]**: Deep-rooted plants that mine minerals from subsoil and bring them to the surface
 - **Insectary plants**: Flowers that attract pollinators and predatory insects
-- **Ground covers**: Living mulches that suppress weeds, retain moisture, and protect soil
-- **Root crops**: Plants that occupy different soil horizons to reduce competition
+- **[[permaculture-plants-food-forest-ground-covers-bamboos]]**: Living mulches that suppress weeds, retain moisture, and protect soil
+- **[[permaculture-plants-root-crops-and-tubers]]**: Plants that occupy different soil horizons to reduce competition
 - **Mulch producers**: Plants that generate biomass for [[agroforestry]]
 - [[caragana-arborescens]]
 ## Practical Applications
@@ -104,4 +104,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -3,9 +3,9 @@
 
 *Psilocybe mexicana* holds a unique and central place in the history of psychedelic science as the species from which
 [[psilocybin-mushrooms]] to Western awareness and launched the modern
-era of [[nutrient-storage-cycling-terrestrial-ecosystems]] organs. Sclerotia (commonly called "truffles" or "philosopher's
+era of nutrient-storage-cycling-terrestrial-ecosystems organs. Sclerotia (commonly called "truffles" or "philosopher's
 stones" in commercial contexts) can reach 1–2 cm in diameter and contain significant concentrations of psilocybin and
-psilocin, often comparable to or exceeding the concentrations found in the fruiting bodies. Sclerotia formation is an
+psilocin, often comparable to or exceeding the concentrations found in the fruiting bodies. [[growing-gourmet-sclerotia-formation-biology-mushrooms]] is an
 adaptation to environmental stress, allowing the organism to survive periods of unfavorable conditions (drought,
 temperature extremes) in a dormant, resistant state. When conditions improve, the sclerotia can resume growth or
 produce fruiting bodies. This survival strategy is shared with relatively few other *Psilocybe* species, most notably
@@ -31,12 +31,12 @@ caerulescens* and possibly other species in her healing rituals, which involved 
 chanting, prayer, and the consumption of fresh mushrooms. The global attention that followed Wasson's *Life* magazine
 article brought thousands of visitors to the Mazatec region, which Sabina later described as a disruption of the sacred
 tradition. Her testimony highlights the complex ethical dimensions of the cross-cultural appropriation of indigenous
-psychedelic practices. Despite the controversies, the [[pre-columbian-mushroom-use]] mushroom cults of Mesoamerica, as documented in the Codex Vindobonensis and other Nahua codices
+psychedelic practices. Despite the controversies, the pre-columbian-mushroom-use mushroom cults of Mesoamerica, as documented in the Codex Vindobonensis and other Nahua codices
 depicting mushroom deities. The Mazatec, Mixtec, Nahuatl, and other indigenous peoples of the region have used *P.
 mexicana* and related species continuously for divination, healing, and communal ritual for at least several centuries.
 The isolation of psilocybin from this species in 1958 was a watershed moment in the history of psychopharmacology,
 opening the door to decades of research into the neuroscience and therapeutic potential of classical psychedelics.
-Modern clinical trials using synthetic psilocybin are, in a very direct sense, working with the chemical legacy of *P.
+Modern [[mushroom-cancer-clinical-trials-overview]] using synthetic psilocybin are, in a very direct sense, working with the chemical legacy of *P.
 mexicana* and the indigenous traditions that preserved its use for centuries.
 ## Practical Considerations
 
@@ -54,7 +54,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -96,4 +96,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

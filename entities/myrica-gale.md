@@ -15,7 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Fernald, M.L. (1950). Gray's Manual of Botany, 8th ed. American Book Co."
-  - "Moerman, D. (1998). Native American Ethnobotany. Timber Press."
+  - "Moerman, D. (1998). [[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany. Timber Press."
   - "Hegnauer, R. (1966). Chemotaxonomie der Pflanzen. Birkhäuser Verlag."
   - "Sprent, J.I. (2009). Legume Nodulation. Wiley-Blackwell."
   - "Mills, S.Y. (1991). The Essential Book of Herbal Medicine. Penguin Arkana."
@@ -31,7 +31,7 @@ subarctic regions worldwide. It is one of the most ecologically important
 shrubs in boreal wetland ecosystems, notable for its actinorhizal nitrogen
 fixation via *Frankia* symbiosis, its aromatic resinous foliage used
 traditionally in brewing and insect repellency, and its value in wetland
-restoration and permaculture design.
+restoration and [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]].
 
 Sweetgale was a primary flavoring agent in European gruit beers before the
 adoption of hops (*Humulus lupulus*) in the 15th–16th centuries, contributing
@@ -53,7 +53,7 @@ irregularly toothed in the upper half. Dark green above, glandular-
 dotted beneath. Distinctive spicy-aromatic resinous scent when crushed.
 
 **Flowers:** Dioecious. Male catkins cylindrical, 8–15 mm, brownish-
-yellow, appearing before leaves in early spring. Female catkins shorter,
+yellow, appearing before leaves in [[coleman-overwintered-onions-and-early-spring-crops]]. Female catkins shorter,
 4–6 mm, with reddish stigmas. Wind-pollinated.
 
 **Fruit:** Small drupelike nutlets (3–5 mm) enclosed in waxy, resinous
@@ -62,7 +62,7 @@ rendered for candle-making.
 
 ## Distribution and Habitat
 
-*Myrica gale* has a circumboreal distribution across North America
+*Myrica gale* has a circumboreal distribution across [[psilocybin-north-america-pacific-northwest]]
 (Labrador to Alaska, south to New Jersey and Oregon), Europe (British
 Isles to northern Russia), and Asia (northern Japan to eastern Siberia).
 
@@ -74,7 +74,7 @@ of acidic bog habitats.
 
 ## Phytochemistry and Ethnobotany
 
-**Essential oil** (0.5–2.0% of fresh foliage):
+**[[permaculture-designers-manual-essential-oil-plants]]** (0.5–2.0% of fresh foliage):
 - α-pinene (20–35%), β-pinene (10–20%), 1,8-cineole (8–15%)
 - Limonene (5–12%), myrcene (3–8%), bornyl acetate, caryophyllene
 
@@ -93,7 +93,7 @@ use during pregnancy and use under qualified supervision.
 
 ## Ecological Role
 
-**Nitrogen fixation** via actinorhizal *Frankia* root nodules contributes
+**[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]** via actinorhizal *Frankia* root nodules contributes
 an estimated 2–8 kg N/ha/year, enriching nitrogen-poor bog soils. This
 makes sweetgale a keystone species in nitrogen-limited northern wetlands.
 
@@ -115,6 +115,8 @@ roots is the easiest method. Hardy to USDA Zone 2.
 
 ## See Also
 
+- [[myrica-pensylvanica]]
+
 - [[alnus-glutinosa]] — Alder, fellow actinorhizal nitrogen fixer
 - [[shepherdia-canadensis]] — Soapberry, N-fixing permaculture shrub
-- [[arctostaphylos-uva-ursi]] — Bearberry, companion acid-soil plant
+- arctostaphylos-uva-ursi — Bearberry, companion acid-soil plant

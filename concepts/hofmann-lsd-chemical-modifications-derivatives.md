@@ -1,5 +1,5 @@
 ---
-title: Chemical Modifications of LSD and Derivative Compounds
+title: hofmann [[lsd-chemical-modifications-and-analogs]] modifications derivatives of LSD and Derivative Compounds
 created: 2026-04-28
 tags:
   - lsd-derivatives
@@ -35,12 +35,12 @@ stroke of luck.
 Soon after the discovery of LSD's psychic effects, two coworkers were
 assigned to join Hofmann in carrying out the chemical modification of
 LSD on a broader basis and in further investigations in the field of
-ergot alkaloids. Work on the chemical structure of peptide-type ergot
+[[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]. Work on the chemical structure of peptide-type ergot
 alkaloids, to which ergotamine and the alkaloids of the ergotoxine
 group belong, continued with Dr. Theodor Petrzilka. Working with Dr.
 Franz Troxler, Hofmann produced a great number of chemical modifications
 of LSD and attempted to gain further insights into the structure of
-lysergic acid.
+[[ergot-and-lysergic-acid-history]].
 
 ## Correcting the Lysergic Acid Structure
 
@@ -73,7 +73,7 @@ modifications diminished rather than enhanced its psychoactive potency.
 
 There are four different possibilities of spatial arrangement of atoms
 in the LSD molecule, differentiated by the prefix "iso-" and the letters
-D and L. Besides D-lysergic acid diethylamide (LSD itself), Hofmann
+D and L. Besides D-lysergic [[lsd-d-lysergic-acid-diethylamide]] (LSD itself), Hofmann
 produced and tested the three other spatially different forms:
 D-isolysergic acid diethylamide (iso-LSD), L-lysergic acid
 diethylamide (L-LSD), and L-isolysergic acid diethylamide (L-iso-LSD).
@@ -101,7 +101,7 @@ occurring active principle of the Mexican magic drug ololiuqui.
 ## BOL-148: From Hallucinogen to Migraine Medicine
 
 Certain results of the chemical modification of LSD proved valuable to
-medicinal research. LSD derivatives were found that were only weakly or
+[[cordyceps-cultivation-and-medicinal-research]]. LSD derivatives were found that were only weakly or
 not at all hallucinogenic but exhibited other LSD effects to an
 increased extent. Such an effect was LSD's blocking effect on the
 neurotransmitter serotonin. Since serotonin plays a role in
@@ -123,11 +123,11 @@ separate its various pharmacological effects, yielding compounds useful
 for entirely different therapeutic purposes than the parent substance.
 LSD, originally investigated for its hallucinogenic properties, thus
 indirectly led to the development of important non-hallucinogenic
-medicaments. The ergot alkaloid research program that began with
+medicaments. The ergot alkaloid [[sandoz-delysid-research-program]] that began with
 ergobasine synthesis and passed through LSD produced not only
 psychoactive compounds but also Methergine (obstetrics), Hydergine
 (geriatrics), and Deseril (migraine), demonstrating how a single line
-of chemical investigation can yield diverse therapeutic applications.
+of chemical investigation can yield diverse [[psilocybin-therapeutic-applications]].
 
 ## Related Topics
 

@@ -9,21 +9,21 @@ sources:
 ---
 # Worm Ecology and Soil Building
 
-Earthworms are among the most beneficial of all soil animals and the most visible of the primary decomposers. Their work -- tunneling, feeding, casting, and aerating -- is the foundation of soil fertility. Understanding worm ecology reveals how the soil food web transforms organic matter into the rich humus that sustains plant life.
+Earthworms are among the most beneficial of all soil animals and the most visible of the primary decomposers. Their work -- tunneling, feeding, casting, and aerating -- is the foundation of soil fertility. Understanding worm ecology reveals how the soil food web transforms [[hamilton-composting-and-organic-matter-management]] into the rich humus that sustains plant life.
 
 ## The Leaf Decomposition Cascade
 
 A single fallen leaf illustrates the entire soil-building process:
 
-1. **Moisture and bacteria**: Dew or rain wets the leaf, leaching out protective polyphenols. Dormant bacteria on the leaf surface bloom, secreting enzymes that tear apart the long chains of sugar molecules in plant cell walls.
+1. **Moisture and bacteria**: Dew or rain wets the leaf, leaching out protective polyphenols. Dormant bacteria on the [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] bloom, secreting enzymes that tear apart the long chains of sugar molecules in plant cell walls.
 
 2. **Fungi arrive**: Wind-borne spores germinate, and white fungal threads (hyphae) knit a lacework across the leaf. Fungi hold enzymes that digest lignin and other hard-to-break-down components -- without them, the earth might be neck-deep in undecomposed tree trunks.
 
-3. **Invertebrate primary decomposers**: Millipedes, pill bugs, fly larvae, springtails, mites, and earthworms arrive to feed on the softened tissue. They shred the leaf into small scraps (comminution), exposing more surface area for microbial attack.
+3. **Invertebrate primary decomposers**: Millipedes, pill bugs, [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]], springtails, mites, and earthworms arrive to feed on the softened tissue. They shred the leaf into small scraps (comminution), exposing more surface area for microbial attack.
 
 4. **The earthworm's work**: The worm grabs a leaf chunk, pulls it into its burrow, and pulverizes it with rasping mouthparts while sucking in soil. The mixture passes to the gizzard, where muscles grind it to a fine paste. Bacteria in the gut help digest it. The worm excretes the remains -- worm casts -- rich in nutrients and dead gut bacteria. These casts coat the burrow with fertile, organically enriched earth.
 
-5. **Secondary decomposition**: Bacteria, fungi, and other microbes descend on the remains, using enzymes to snap large molecules into small, edible fragments -- the real alchemy of converting leaf litter into humus and plant food.
+5. **Secondary decomposition**: Bacteria, fungi, and other microbes descend on the remains, using enzymes to snap large molecules into small, edible fragments -- the real alchemy of converting [[dighton-fungal-decomposition-leaf-litter-dynamics]] into humus and plant food.
 
 ## What Worms Do
 
@@ -45,7 +45,7 @@ Worms are part of a vast pyramid of life. Their casts feed bacteria, fungi, prot
 
 ## Building Worm Populations
 
-Worms thrive under [[sheet-mulching-lasagna-gardening]] and [[soil-food-web-nutrient-cycling]] and [[fungal-roles-soil-food-webs]] for the critical fungal contribution to humus formation.
+Worms thrive under [[sheet-mulching-lasagna-gardening]] and [[soil-food-web-nutrient-cycling]] and [[fungal-roles-soil-food-webs]] for the critical fungal contribution to [[lowenfels-humus-formation-benefits]].
 
 ## Soil Structure and the Role of Microbes
 
@@ -66,7 +66,7 @@ Vermicompost tea — a liquid extract of worm castings — can be applied as a f
 
 ## Related Concepts
 
-- [[cover-crop-multifunction-design]] -- cover crop roots feed soil organisms including worms
+- [[cover-crop-multifunction-design]] -- [[coleman-cover-crop-rotation-and-soil-health]] roots feed soil organisms including worms
 - [[keyline-design]] -- the soil food web pioneer
 - [[soil-health-indicators]] -- signs of a healthy, worm-rich soil
 ## Practical Considerations
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -22,7 +22,7 @@ exists, with a single volunteer.
 ## Natural Occurrence
 
 Tetrahydroharmine is one of the three principal beta-carboline alkaloids
-found in [[harmine-entity-tihkal]] and [[peganum-harmala]] (Syrian rue) and [[psychotria-viridis]]. In one
+found in [[harmine-entity-tihkal]] and [[peganum-harmala]] ([[golden-guide-syrian-rue-and-maoi-plants]]) and [[psychotria-viridis]]. In one
 analyzed brew using C. pentandra, a component initially identified as DMT
 by HPLC proved to be tetrahydroharmine upon GCMS analysis — yet the brew
 still exhibited psychopharmacological activity.
@@ -124,4 +124,4 @@ active compounds interact synergistically
 Tetrahydroharmine is not specifically scheduled in most jurisdictions. As a
 component of ayahuasca preparations, its legal status is often tied to the
 regulatory treatment of ayahuasca itself. In the US, ayahuasca use is permitted
-under limited religious exemptions (UDV, Santo Daime), but the individual
+under limited religious exemptions (UDV, [[metzner-brazilian-ayahuasca-churches-structural-comparison-santo-daime-udv-barquinha]]), but the individual

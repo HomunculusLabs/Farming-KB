@@ -1,6 +1,6 @@
 ---
 
-title: Natural Building
+title: query-how-do-i-choose-a-natural-building-method-for-my-climate
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -34,7 +34,7 @@ Natural building uses locally sourced, minimally processed materials — earth, 
 Monolithic earthen building: subsoil + sand + straw, sculpted by hand in lifts.
 - **Soil test:** Drop a 4" ball from waist height — cracks but holds shape = works
 - **Mix ratio:** ~1 clay soil : 2 sand : 1 straw (by volume)
-- **Wall thickness:** 18–24" load-bearing; thinner for timber frame infill
+- **Wall thickness:** 18–24" load-bearing; thinner for [[comparison-bamboo-construction-vs-timber-frame-basics]] infill
 - **Foundation:** Rubble trench + stone stem wall 12–18" above grade
 - **Drying:** Each lift (6–8") dries 1–2 weeks
 - **Best for:** Curved walls, ovens, small cabins, garden walls
@@ -45,7 +45,7 @@ Monolithic earthen building: subsoil + sand + straw, sculpted by hand in lifts.
 Stacked bales as load-bearing ("Nebraska style") or infill within structural frame.
 - **Bales:** 2-string (14"×18"×36") standard; must be dry, dense, <14% moisture
 - **Compression:** Pre-compress with strapping; use threaded rod through wall
-- **Plaster:** 3-coat earthen or lime plaster, min 1" per side — this IS the weatherproofing
+- **Plaster:** 3-coat earthen or [[comparison-lime-plaster-vs-earthen-plaster]], min 1" per side — this IS the weatherproofing
 - **Foundation:** Raised stem wall, bales 6–12" above grade, moisture barrier critical
 - **Best for:** Rectangular buildings, high insulation (R-30–R-50)
 - **Pros:** Superb insulation, fast wall raising, good fire resistance when plastered
@@ -107,7 +107,7 @@ Short logs laid in mortar to form walls.
 | Recycled shingles | Low | 15–25 yrs | Quick, available everywhere |
 | Earth-sheltered/bermed | Medium | Very long | Root cellars, animal shelters |
 
-See [[greenhouse-design]] for passive solar roof integration.
+See [[greenhouse-design]] for [[comparison-passive-solar-vs-earth-sheltered]] roof integration.
 
 ## Passive Solar Design
 
@@ -132,9 +132,9 @@ Natural buildings integrate passive solar via thermal mass:
 
 **Earthen floors:** 4–6" compacted gravel base + vapor barrier + 1:3 clay:sand troweled in ½" layers. Seal with linseed oil, hemp oil, or beeswax. Warm underfoot, beautiful, repairable.
 
-**Earthen plaster:** 1 clay : 3 sand + chopped straw. Three coats (scratch → brown → finish). Breathable — critical for straw bale and cob. Patch annually.
+**Earthen plaster:** 1 clay : 3 sand + chopped straw. Three coats (scratch → brown → finish). Breathable — critical for [[how-do-i-choose-between-straw-bale-and-earthbag-construction]] cob. Patch annually.
 
-**Lime plaster:** 1 hydrated lime : 3 sand + fiber. Carbon-negative (absorbs CO₂). Better for exterior/wet areas. Caustic — wear protection.
+**Lime plaster:** 1 [[cervantes-hydrated-lime-quicklime-ph-adjustment]] : 3 sand + fiber. Carbon-negative (absorbs CO₂). Better for exterior/wet areas. Caustic — wear protection.
 
 ## Building Codes
 
@@ -143,52 +143,6 @@ See [[homesteading-legal-considerations]] for broader context.
 - **Engineer stamp:** Cob, straw bale, earthbag may need structural review ($1,000–3,000)
 - **Strategy:** Start with <120 sq ft (no permit), use farm exemptions for ag structures
 - **Insurance:** Difficult for non-standard construction — factor in for primary residences
-
-## Small Homestead Structures
-
-### Duck/Chicken Coop
-- Cob or timber frame; 4 sq ft/bird inside, 8–10 sq ft in run
-- Hardware cloth predator protection, high ventilation, easy clean-out
-- See [[duck-keeping]] for duck-specific needs
-
-### Goat Shelter
-- Pole barn or timber frame 3-sided run-in shed; 20–30 sq ft/goat
-- Dry, draft-free but ventilated, deep bedding, separate kidding area
-- See [[goat-keeping]]
-
-### Root Cellar
-- Earthbag dome or earth-bermed timber frame; target 32–40°F, 85–95% humidity
-- North-facing hillside or excavated; insulated ceiling, uninsulated earth walls
-- Two-pipe passive ventilation (cool intake low, warm exhaust high)
-- See [[food-preservation-canning]] and [[homestead-water-systems]] for drainage
-
-### Tool Shed / Workshop
-- Timber frame + light clay straw, or pole barn; 100–200 sq ft
-- South windows for natural light, see [[homesteading-infrastructure]]
-
-### Greenhouse
-- Timber frame + polycarbonate; integrate with [[composting-systems]] for bottom heat
-- See [[greenhouse-design]]
-
-## Material Costs
-
-| Material | Cost | Source |
-|---|---|---|
-| Subsoil (cob) | Free | On-site |
-| Straw bales | $5–10/bale | Local farm |
-| Lime (Type S) | $15–20/bag | Building supply |
-| Rough-sawn timber | $2–5/bd ft | Local sawmill |
-| Metal roofing | $3–6/sq ft | Farm supply |
-
-**200 sq ft outbuilding:** $500–2,000 materials (vs. $10,000–20,000 conventional). Labor is the main cost — budget 200–400 person-hours for a first project.
-
-## Seasonal Planning
-
-See [[seasonal-planning]] for annual integration.
-- **Spring:** Foundations, timber harvesting
-- **Summer:** Wall building, plastering (needs dry/warm weather)
-- **Fall:** Roof, interior finish, earthen floors
-- **Winter:** Planning, design, indoor finish work
 
 ## Related
 

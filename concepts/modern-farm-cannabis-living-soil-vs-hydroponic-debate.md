@@ -1,5 +1,5 @@
 ---
-title: Cannabis Living Soil vs Hydroponic Debate - LAB and Hexanoate Hypothesis
+title: modern farm cannabis living soil vs hydroponic debate Soil vs Hydroponic Debate - LAB and Hexanoate Hypothesis
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
@@ -16,10 +16,10 @@ The hypothesis that lactic acid bacteria (LAB) in living soil systems enhance ca
 Lactic acid bacteria have documented agricultural benefits beyond biofertilization:
 
 - Yield increases of 13-21% in greenhouse tomatoes when LAB-containing biofertilizers were applied (Tringovska)
-- Yield increases of 19-21% with soil application and 13-14% with foliar application
+- Yield increases of 19-21% with soil application and 13-14% with [[ultra-low-cost-foliar-application-methods]]
 - Antifungal activity demonstrated across environmental LAB isolates (Magnusson et al.)
-- Effective Microorganisms (EM/EM1) concept introduced by Higa and Wididana
-- EM describes multi-species inoculants for pathogen suppression, mineral solubilization, nitrogen fixation, and photosynthetic efficiency
+- [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]] (EM/EM1) concept introduced by Higa and Wididana
+- EM describes multi-species inoculants for pathogen suppression, mineral solubilization, [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], and photosynthetic efficiency
 - Original EM blend: lactic acid bacteria, purple bacteria, yeast, actinomycetes, fermenting fungi
 - Later revised to: lactic acid bacteria, purple bacteria, and yeast only
 
@@ -39,11 +39,11 @@ The curd byproduct can be used as a soil drench, compost additive, or animal fee
 
 ## The Hexanoate Hypothesis
 
-The central hypothesis proposes that homemade LAB serum contains hexanoate (caproic acid), a short-chain fatty acid produced as a byproduct of microbial esterification during fermentation of ruminant milk fats. This hexanoate acts as a catalyst for increased cannabinoid and terpene biosynthesis through two mechanisms:
+The central hypothesis proposes that homemade LAB serum contains hexanoate (caproic acid), a short-chain fatty acid produced as a byproduct of microbial esterification during fermentation of ruminant milk fats. This hexanoate acts as a catalyst for increased cannabinoid and [[clarke-marijuana-botany-terpene-biosynthesis-aromatic-profiles]] through two mechanisms:
 
 ### Mechanism 1: Direct Biosynthetic Precursor
 
-Hexanoate feeds directly into the cannabinoid biosynthesis pathway:
+Hexanoate feeds directly into the [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]] pathway:
 
 - Hexanoyl-CoA is derived from hexanoate by the acyl-activating enzyme CsAAE1
 - Hexanoyl-CoA serves as the primer for polyketide synthase (PKS) that forms olivetolic acid (OA)

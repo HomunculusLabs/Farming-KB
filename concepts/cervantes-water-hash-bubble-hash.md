@@ -5,7 +5,8 @@ created: 2026-04-25
 type: concept
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 tags: [cannabis, hash, water-extraction, bubble-hash, ice]
 ---
 
@@ -20,11 +21,11 @@ quality grade achievable through water extraction.
 
 ## Sadu Sam's Secret
 
-Modern water hash extraction started with "Sadu Sam's Secret"
+Modern [[cervantes-15-bag-water-hash-extraction]] started with "Sadu Sam's Secret"
 published in HASHISH! by Robert Connell Clarke. The principle
 is simple physics: resin is oil-based and cannabis foliage is
 water-based. This difference makes separating the two in
-aqueous solution easy. Heavy, oil-soluble resin glands will not
+aqueous solution easy. Heavy, oil-soluble [[greg-green-trichomes-and-resin-glands]] will not
 dissolve in water; they are heavier than water so they sink.
 Water-soluble material dissolves in liquid, and foliage is
 lighter than water, which makes it float.
@@ -103,7 +104,7 @@ water on plants.
 
 ## Terpene Loss in Water Extraction
 
-Water-soluble terpinoids found in cannabis resin contribute
+Water-soluble terpinoids found in [[cannabis-resin-production-and-quality-traits-clarke]] contribute
 to fragrance and taste. The majority of these soluble
 terpinoids dissolve and are washed out when extracting resin
 with water. The result is often hash with less flavor and
@@ -112,7 +113,7 @@ aroma compared to dry-sieved hash, despite higher purity.
 ## Yield Comparison
 
 From 100 grams of leaf material:
-- Dry sieve extraction: 4-6 grams of hash
+- [[cervantes-dry-sieve-hash-pollinator]] extraction: 4-6 grams of hash
 - Water extraction: 6-10 grams of hash
 
 Water extraction consistently yields 50-100 percent more than

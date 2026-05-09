@@ -1,5 +1,5 @@
 ---
-title: Fermented Fruit Juice Preparation (Cho's Method)
+title: bionutrients-lab-fermented-fruit-juice-ffj fermented-plant-juice-preparation-and-application (Cho's Method)
 created: 2026-04-28
 tags: [knf, input-preparation, fermentation]
 date: 2026-04-28
@@ -11,14 +11,14 @@ type: concept
 
 Fermented Fruit Juice (FFJ) is described by Dr. Cho as "an artificial
 honey" and a nutritional activation enzyme that is very effective in
-natural farming. FFJ is a kind of [[cho-nutritive-cycle-theory]]
+[[comparison-natural-farming-vs-permaculture]]. FFJ is a kind of [[cho-nutritive-cycle-theory]]
 by providing appropriate nutrients at the changeover and reproductive
-growth stages. The selection of fruit ripeness corresponds to the
+growth stages. The selection of [[knf-fruit-ripeness-crack-prevention]] corresponds to the
 plant's shifting nutritional demands.
 
 ## See Also
 
-- [[knf-fermented-fruit-juice]] - general KNF FFJ reference
+- [[knf-fermented-fruit-juice]] - general [[cannabis-knf-ffj-ripeness-progression]] reference
 - [[cho-oriental-herbal-nutrient-preparation]] - combined with FFJ
   in many applications
 - [[cho-plant-growth-stage-treatments]] - specific treatment recipes
@@ -99,4 +99,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

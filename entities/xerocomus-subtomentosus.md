@@ -22,7 +22,7 @@ sources:
   - Kibby, G. (2011). "Boletes of Europe." self-published.
   - Watling, R. (2004). "The Bolete Checklist of the British Isles." Royal Botanic Garden Edinburgh.
   - Knudsen, H. & Vesterholt, J. (2012). "Funga Nordica." Nordsvamp.
-  - Bessette, A.E. et al. (2016). "Boletes of Eastern North America." Syracuse University Press.
+  - Bessette, A.E. et al. (2016). "Boletes of [[polypore-fungi-eastern-north-america]] America." Syracuse University Press.
 created: 2026-05-07
 ---
 
@@ -86,7 +86,7 @@ It is not commercially cultivated and is exclusively a wild-foraged species, tho
 
 ## Ecological Role
 
-As an ectomycorrhizal fungus, *X. subtomentosus* plays a significant role in forest nutrient cycling, facilitating nutrient and water exchange between host trees and the soil environment.
+As an ectomycorrhizal fungus, *X. subtomentosus* plays a significant role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], facilitating nutrient and water exchange between host trees and the soil environment.
 
 The species contributes to soil aggregation through hyphal networks that bind soil particles, improving soil structure in forest ecosystems.
 

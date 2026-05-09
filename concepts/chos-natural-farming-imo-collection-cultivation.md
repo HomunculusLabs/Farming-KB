@@ -1,5 +1,5 @@
 ---
-title: Indigenous Microorganisms (IMO) Collection and Cultivation in Cho's Natural Farming
+title: beneficial-indigenous-microorganisms-bim (IMO) Collection and Cultivation in Cho's comparison-natural-farming-vs-permaculture
 source: chos-global-natural-farming.md
 tags: [natural-farming, IMO, microorganisms, soil-health, cho-han-kyu, KNF]
 ---
@@ -14,7 +14,7 @@ pressure from chemical industry lobbies, but KNF has since spread to over 15 cou
 
 ## Why IMOs Matter
 
-Microorganisms serve two critical functions. First, they decompose complex organic compounds
+Microorganisms serve two critical functions. First, they decompose complex [[fungal-volatile-organic-compounds-communication]]
 — dead plant and animal matter, crop residues, and wastes — converting them into nutrients
 plants can absorb. Second, they produce antibiotic substances, enzymes, and lactic acids
 that suppress plant diseases. In KNF, farmers do not feed plants directly; they nurture the
@@ -83,7 +83,7 @@ is added before field application to provide trace minerals optimizing microbial
 
 ## Storage and Preservation
 
-IMO-3 is stored in shaded, cool places with good air circulation. Ventilated containers
+IMO-3 is stored in shaded, cool places with good [[stamets-growing-room-air-circulation-co2-management]]. Ventilated containers
 such as jute or gunny bags are ideal — airtight plastic must never be used because it
 creates anaerobic conditions that kill the aerobic microbes. Rice straw or leaf litter is
 placed at the bottom of each container before adding IMO-3, creating a buffer layer that
@@ -117,7 +117,7 @@ Third, include "tough guys" — microbes collected from high mountains or uncont
 regions that have survived extreme conditions. These hardy organisms add resilience to the
 mixture. Since the sunny side of a field hosts different microbes than the shaded side, and
 altitude affects microbial composition at every level, sampling broadly ensures the IMO
-preparation can handle whatever conditions the growing season brings.
+preparation can handle whatever conditions the [[savory-growing-season-and-non-growing-season-management]] brings.
 
 ## Practical Notes
 
@@ -126,5 +126,5 @@ alternative local materials as ingredients for various preparations. This flexib
 lends scope for innovation and makes the system accessible across different ecosystems.
 The technology has been recognized for its ability to produce more, at better quality,
 with lower cost than chemical-intensive agriculture, while simultaneously accomplishing
-the dream of "zero emission" in livestock management — no wastewater emitted, and all
+the dream of "[[cho-zero-emission-livestock-natural-farming]]" in livestock management — no wastewater emitted, and all
 wastes recycled and converted to resources.

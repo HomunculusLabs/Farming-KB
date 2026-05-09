@@ -1,10 +1,11 @@
 ---
-title: Cannabis Flowering Stage
+title: green-cannabis-flowering-management Stage
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, flowering, indoor, plant-growth, nutrients, harvesting, lighting]
-sources: []
+sources:
+  sources: []
 ---
 
 ## Overview
@@ -32,7 +33,7 @@ After the flip, plants enter a rapid vegetative stretch phase, often growing 50-
 Managing height during stretch is critical. Techniques include:
 
 - Tying down tall branches with LST
-- Super cropping overly vertical shoots
+- [[cannabis-super-cropping-technique]] overly vertical shoots
 - Adjusting light height to manage stretch rate
 
 ### Bud Development (Weeks 4-6)
@@ -85,7 +86,7 @@ When in doubt, feed less. Plants need less than most growers assume during late 
 Flushing involves feeding only plain water (or lightly amended water) for the final 1-2 weeks before harvest. The intent is to allow the plant to use stored nutrients, producing a smoother smoke.
 
 - **Debate**: Scientific evidence on flushing's effectiveness is mixed. Many growers report smoother flavor; controlled studies show minimal difference in ash color or combustion quality.
-- **Living soil**: Flushing is generally unnecessary in [[cannabis-living-soil-guide]] beds where the plant feeds on-demand from the biology. The soil buffer naturally tapers nutrient availability.
+- **Living soil**: Flushing is generally unnecessary in [[cannabis-living-soil-guide]] beds where the plant feeds on-demand from the biology. The soil buffer naturally tapers [[ph-and-nutrient-availability-garden-soils]].
 - **Hydroponics**: More important in inert media where nutrient salts accumulate. Run plain water for 5-7 days minimum.
 
 ## Environmental Conditions in Flower
@@ -96,13 +97,13 @@ Ideal flower temperatures are 68-80 F (20-27 C) lights on. Night temps should no
 
 ### Humidity
 
-Humidity must be progressively lowered during flowering to prevent bud rot and powdery mildew:
+Humidity must be progressively lowered during flowering to prevent bud rot and [[cervantes-powdery-mildew-prevention-treatment]]:
 
 - **Early flower (weeks 1-3)**: 55-65% RH
 - **Mid flower (weeks 4-6)**: 45-55% RH
 - **Late flower (weeks 7+)**: 40-45% RH (critical to avoid mold on dense buds)
 
-Dehumidifiers are often essential during late flower. See [[cannabis-environment-control]] for VPD-targeted humidity management.
+Dehumidifiers are often essential during late flower. See [[cannabis-environment-control]] for VPD-targeted [[stamets-cultivator-humidity-management-fogging-systems]].
 
 ### Light Spectrum
 
@@ -113,7 +114,7 @@ Many growers shift to warmer light spectrums (more red/far-red, less blue) durin
 - **Hermaphroditism**: Caused by light leaks, stress, or genetics. Remove pollen sacs immediately or discard the plant if heavily affected.
 - **Bud rot (botrytis)**: Gray mold inside dense buds. Cut away affected areas, increase airflow, reduce humidity. See [[cannabis-disease-guide]].
 - **Foxtailing**: Can be genetic or caused by light stress and heat. Reduces bag appeal but bud is still usable.
-- **Slow development**: Often caused by low temperatures, excessive defoliation, or nutrient lockout.
+- **Slow development**: Often caused by low temperatures, excessive defoliation, or [[cannabis-nutrient-lockout-and-ph]].
 
 ## Transition to Harvest
 

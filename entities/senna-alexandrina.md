@@ -62,7 +62,7 @@ The active constituents are anthraquinone glycosides known as sennosides, which 
 
 *Senna alexandrina* is native to the Upper Nile region of Egypt, Sudan, and the Arabian Peninsula.
 
-It has been naturalized extensively across tropical and subtropical Africa, the Indian subcontinent, and Southeast Asia.
+It has been naturalized extensively across tropical and subtropical Africa, the Indian subcontinent, and [[psilocybe-southeast-asia-pacific]].
 
 Major commercial cultivation occurs in India (Tamil Nadu, Rajasthan, Gujarat), Egypt, Sudan, and Pakistan.
 
@@ -82,7 +82,7 @@ The primary active constituents are **anthraquinone glycosides**, collectively k
 
 - **Sennoside A and B** (dianthrone glycosides) — the principal laxative agents.
 - **Sennoside C and D** — structurally related glycosides with similar but weaker activity.
-- **Aloe-emodin** and **rhein** — anthraquinone aglycones with documented anti-inflammatory and antimicrobial properties.
+- **Aloe-emodin** and **rhein** — anthraquinone aglycones with documented anti-inflammatory and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
 - **Kaempferol** and other flavonoids — contribute antioxidant activity.
 - **Mucilage polysaccharides** — provide a soothing coating effect on the gastrointestinal tract.
 
@@ -117,12 +117,12 @@ Onset of action typically occurs 6–12 hours after oral administration.
 **Safety and precautions:**
 
 - Long-term use or overuse can lead to electrolyte imbalance, hypokalemia, and melanosis coli.
-- Contraindicated in patients with intestinal obstruction, acute inflammatory bowel disease, or severe dehydration.
+- Contraindicated in patients with intestinal obstruction, acute [[blesching-cannabis-inflammatory-bowel-disease]] disease, or severe dehydration.
 - Not recommended for use during pregnancy or lactation without medical supervision.
 
 ## Cultivation
 
-Senna is cultivated as an annual or biennial crop, with leaves harvested 2–3 times during the growing season.
+Senna is cultivated as an annual or biennial crop, with leaves harvested 2–3 times during the [[savory-growing-season-and-non-growing-season-management]].
 
 Leaflets are typically hand-picked, dried in shade to preserve sennoside content, and then processed for pharmaceutical extraction.
 
@@ -130,12 +130,14 @@ Pods are harvested when fully mature and dried similarly.
 
 India is the world's largest producer, with the Tinnevelly district of Tamil Nadu being the traditional center of cultivation.
 
-Average sennoside content in dried leaves ranges from 1.5–3.0%, with quality standards requiring minimum 2.5% for pharmaceutical grade.
+Average sennoside content in dried leaves ranges from 1.5–3.0%, with [[aact-compost-quality-standards-ingham]] requiring minimum 2.5% for pharmaceutical grade.
 
 ## See Also
 
+- [[senna-alata]]
+
 - [[rheum-palmatum]]
 - [[hypericum-perforatum]]
-- [[ocimum-sanctum]]
+- ocimum-sanctum
 - [[ziziphus-jujuba]]
 - tinospora-cordifolia

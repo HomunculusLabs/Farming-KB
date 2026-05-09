@@ -61,7 +61,7 @@ Cannabinoids address Parkinson's through multiple pathways:
 
 - **CB1 receptors** modulate dopamine release in the basal ganglia, relevant to motor control
 - **CB2 receptors** provide anti-inflammatory neuroprotection, slowing disease progression
-- **CBD** acts as an antioxidant, protecting neurons from oxidative stress
+- **CBD** acts as an antioxidant, protecting neurons from [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]
 - **THC** may help reduce levodopa-induced dyskinesias (repetitive spastic motions)
 - The [[cannabis-cannabinoid-receptor-pharmacology]]
 - Indica and indica-dominant strains tend to contain lower THC:CBD ratios, favoring CB2 signaling

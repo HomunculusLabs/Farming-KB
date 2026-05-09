@@ -1,5 +1,5 @@
 ---
-title: Key of the Kingdom and Peter as Mushroom (Allegro)
+title: Key of the allegro key of the kingdom and peter as mushroom as Mushroom (Allegro)
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 # Key of the Kingdom and Peter as Mushroom
 
-Allegro identifies the New Testament as a deliberately encoded text in which secret names of the sacred mushroom are concealed within Aramaic phrases and their appended Greek "translations." The most revealing examples cluster around the figure of Peter and the concept of the "key of the kingdom."
+Allegro identifies the New Testament as a deliberately encoded text in which secret names of the [[allegro-the-sacred-mushroom-amanita-identification]] are concealed within Aramaic phrases and their appended Greek "translations." The most revealing examples cluster around the figure of Peter and the concept of the "key of the kingdom."
 
 ## Skandalon and Mörios: A Double Word-Play
 
@@ -28,7 +28,7 @@ The famous passage about the keys: "I will give you the keys of the kingdom of h
 
 ## The Rock: Petros and Petra
 
-The well-known word-play "you are Peter (Petros), and upon this rock (petra) I shall build my church" (Matt 16:18) can now be seen as of much greater relevance to the cult than a mere pun on Peter's title Cephas and the Aramaic word for "stone," kepha'. The real point is the word-play on the names of the sacred fungus that "Peter" represented. The sacred fungus was the "bolt" or "key" that gave access to heaven and to hell — a double reference to its shape and to its ability to open the way to mystical experiences.
+The well-known word-play "you are Peter (Petros), and upon this rock (petra) I shall build my church" (Matt 16:18) can now be seen as of much greater relevance to the cult than a mere pun on Peter's title Cephas and the Aramaic word for "stone," kepha'. The real point is the word-play on the names of the sacred fungus that "Peter" represented. The sacred fungus was the "bolt" or "key" that gave access to heaven and to hell — a double reference to its shape and to its ability to open the way to [[psilocybin-mystical-experiences-personality-change]].
 
 ## The Shekel in the Fish's Mouth
 
@@ -38,7 +38,7 @@ Pliny supports the connection: he says a Roman official in Spain once bit into a
 
 ## Belshazzar's Writing on the Wall
 
-The Old Testament also contains a mushroom story based on the tiqla' word-play. The mysterious words MENE, MENE, TEKEL, and PARSIN written on Belshazzar's wall (Dan 5:5-25) are decoded as: MENE refers to the Semitic god of fate Meni (Isa 65:11), equivalent of the Sumerian NAM-TAR, source of the mushroom designations Nectar and Mandrake. TEKEL is the "bolt-fungus." PARSIN is Sumerian BAR-SIL, "womb," a reference to the mushroom volva.
+The [[allegro-old-testament-figures-as-fertility-deities]] also contains a mushroom story based on the tiqla' word-play. The mysterious words MENE, MENE, TEKEL, and PARSIN written on Belshazzar's wall (Dan 5:5-25) are decoded as: MENE refers to the Semitic god of fate Meni (Isa 65:11), equivalent of the Sumerian NAM-TAR, source of the mushroom designations Nectar and Mandrake. TEKEL is the "bolt-fungus." PARSIN is Sumerian BAR-SIL, "womb," a reference to the mushroom volva.
 
 ## Peter as Satan and Cephas
 
@@ -46,17 +46,17 @@ Calling Peter "Satan" aligns with his other title Cephas. Both names are plays o
 
 ## The Cryptographic Method
 
-The Belshazzar story demonstrates that the device used so often in the New Testament — following a genuine name for the sacred fungus with a false translation for the sake of the plot — was an established part of mushroom mythology long before the writer of Mark's gospel "explained" Boanerges as "Sons of Thunder." This cryptographic method pervades the entire New Testament, encoding mushroom names within Aramaic phrases given deliberately misleading Greek translations.
+The Belshazzar story demonstrates that the device used so often in the New Testament — following a genuine name for the sacred fungus with a false translation for the sake of the plot — was an established part of mushroom mythology long before the writer of Mark's gospel "explained" Boanerges as "Sons of Thunder." This cryptographic method pervades the entire New Testament, encoding [[sacred-mushroom-names-cross-cultural-synonyms]] within Aramaic phrases given deliberately misleading Greek translations.
 
 ## Scholarly Significance and Criticism
 
-Allegro's interpretation of death and resurrection mythology as mushroom-derived remains one of the most contested aspects of [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
+Allegro's interpretation of [[allegro-death-and-resurrection-in-the-mushroom-cult]] mythology as mushroom-derived remains one of the most contested aspects of [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
 
 ## See Also
 
 - [[allegro-philological-methodology]]
 - [[allegro-fungal-iconography-in-ancient-art]]
-- [[controversy-sacred-mushroom-theory]]
+- controversy-sacred-mushroom-theory
 - [[sacred-mushroom-and-the-cross]], which proposed that the major religions of the ancient Near East and Mediterranean world were ultimately derived from a proto-historical mushroom cult. While this thesis has not gained acceptance in mainstream scholarship, it continues to be discussed in the field of entheogenic studies and has influenced contemporary debates about the role of psychoactive substances in the development of religious ideas.
 
 The question of whether ancient peoples used psychoactive mushrooms in religious contexts is separate from the question of whether Allegro's specific philological claims are correct. Archaeological evidence for psychoactive plant use in antiquity has grown substantially since Allegro's work was published, and the [[psychedelic-therapy-current-research]], has renewed interest in the historical relationship between psychoactive substances and religious experience. While Allegro's specific claims about Sumerian and Hebrew philology remain controversial, his broader argument that psychoactive plants played a significant role in the development of human religious consciousness has found new support from researchers investigating the neuroscience of mystical experience and the anthropology of shamanism.
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

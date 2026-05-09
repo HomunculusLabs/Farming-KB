@@ -22,19 +22,19 @@ Applying cold shock to these species is unnecessary and does not meaningfully
 improve fruiting outcomes. The guide explicitly identifies the following species as
 not requiring cold shock:
 
-- **Psilocybe cubensis (Ecuador strain)** — Described as an easy fruiting strain
+- **[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] (Ecuador strain)** — Described as an easy fruiting strain
   that will pin and fruit reliably without temperature manipulation. Ecuador
   cubensis is considered one of the most straightforward species for indoor
   cultivation.
-- **Psilocybe mexicana** — Does not respond positively to cold shock. This species
+- **[[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]** — Does not respond positively to cold shock. This species
   has its own distinct fruiting pattern and environmental preferences.
-- **Psilocybe tampanensis** — Also does not benefit from cold shock. Known primarily
+- **[[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]]** — Also does not benefit from cold shock. Known primarily
   for producing sclerotia (truffles) in addition to fruiting bodies.
-- **Panaeolus subbalteatus** — A coprophilous (dung-inhabiting) species that does
+- **[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]** — A coprophilous (dung-inhabiting) species that does
   not require cold shock to initiate fruiting.
 
 Cultivators working with any of these species can skip the refrigeration step
-entirely and move directly from colonization to the fruiting chamber, saving time
+entirely and move directly from colonization to the [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]], saving time
 and simplifying the workflow.
 
 ## Fruiting Timeline
@@ -55,7 +55,7 @@ Most cultivated species produce **three flushes** under standard cultivation
 conditions. However, properly maintained casings that receive adequate watering
 throughout the fruiting cycle may yield **5–6 flushes** before the substrate is
 fully exhausted. The total number of flushes depends heavily on moisture management
-and the overall health of the mycelial network.
+and the overall health of the [[gadd-mycelial-network-dynamics]].
 
 ### Flush Patterns by Species
 
@@ -65,7 +65,7 @@ Different species exhibit distinct flush patterns:
   **smaller second flush**. This concentrated fruiting pattern means that the bulk
   of the harvest comes from the first event, and subsequent flushes diminish
   rapidly.
-- **Other species** (including most [[casing-layer-materials-and-formulas]] is critical throughout the entire
+- **Other species** (including most casing-layer-materials-and-formulas is critical throughout the entire
 fruiting cycle:
 
 - **Daily misting**: The casing surface should be misted daily and **never allowed
@@ -79,7 +79,7 @@ fruiting cycle:
 
 - cold shock technique mycology
 - casing layer preparation grass seed
-- [[psilocybe-cubensis-fruiting-optimization]]-chamber
+- psilocybe-cubensis-fruiting-optimization-chamber
 - flush harvesting moisture management
 - pinning conditions humidity fae
 - [[contamination-prevention-in-mushroom-cultivation]]

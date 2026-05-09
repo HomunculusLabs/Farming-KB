@@ -1,5 +1,5 @@
 ---
-title: Fungal Nutrient Immobilization and Turnover in Decomposition
+title: dighton fungal nutrient immobilization turnover Immobilization and Turnover in Decomposition
 created: 2026-04-26
 tags:
   - mycology
@@ -45,7 +45,7 @@ Fungal immobilization of nutrients can be considerable. Stark (1972) showed
 that hyphae had 193-272% greater nitrogen content and 104-223% greater
 phosphorus content than the pine needle litter on which they were found. Fogel
 and Hunt (1983) demonstrated the importance of fungal biomass in a temperate
-Douglas fir forest ecosystem, where fungi represented approximately 2% of the
+Douglas fir [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]], where fungi represented approximately 2% of the
 total standing stock of organic matter. For all nutrients except calcium,
 roots and mycorrhizae contained greater stocks than the forest floor fungi.
 
@@ -68,7 +68,7 @@ plants for available nutrients.
 
 ## Immobilization in Tropical Forest Ecosystems
 
-Lodge (1993) discussed the role of fungi in nutrient cycling in tropical forest
+Lodge (1993) discussed the role of fungi in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in tropical forest
 ecosystems, which have large nutrient capital in plant biomass but are
 frequently limited by nutrient supply from soil. Much of this limitation is
 caused by phosphorus binding to aluminum and iron oxides. Fungal biomass in
@@ -87,7 +87,7 @@ nutrient retention and release.
 
 Many basidiomycetes form rhizomorphs and are associated with decomposing wood.
 These fungi have the ability to translocate nutrients from decomposed leaf
-litter to freshly fallen leaf litter to improve resource quality and enhance
+litter to freshly fallen leaf litter to improve [[fungal-decomposition-resource-quality-determinants]] and enhance
 decomposition rates. Lodge demonstrated that phosphorus content of recently
 fallen leaf litter could increase by 120-140% during the first 6 weeks of
 decomposition, and nitrogen by 110-160%, through activities of cord-forming
@@ -103,10 +103,10 @@ to newly colonized wood through mycelial cord systems.
 Marumoto et al. (1982) demonstrated a longer turnover time for fungi than
 bacteria in experimental decomposition studies. Using 14C and 15N labeling
 techniques, they showed that the rate of carbon loss as CO2 was similar
-between microbe sources, but the rate of nitrogen mineralization as both NH4
+between microbe sources, but the rate of [[fungal-nitrogen-mineralization-pathways]] as both NH4
 and NO3-N was slower in the decomposition of fungal cells. This slower
 mineralization from fungal biomass has important implications for the temporal
-dynamics of nutrient availability in ecosystems.
+dynamics of [[ph-and-nutrient-availability-garden-soils]] in ecosystems.
 
 ## See Also
 

@@ -28,10 +28,10 @@ at the base of hardwood trees or on stumps and roots.
 ## Distribution and Habitat
 
 Widely distributed across temperate Europe (Scandinavia to the Mediterranean),
-eastern North America, and parts of Asia (Japan, Korea). Strong preference
+[[polypore-fungi-eastern-north-america]] America, and parts of Asia (Japan, Korea). Strong preference
 for **beech** (*Fagus sylvatica*) in Europe, where it is one of the most
 important beech pathogens, but also commonly attacks oaks (*Q. robur*, *Q.
-petraea*) and occasionally elm, birch, sweet chestnut, and walnut. Fruits at
+petraea*) and occasionally elm, birch, [[holzer-sweet-chestnut-and-nut-trees]], and walnut. Fruits at
 the base of living trees, on stumps, or on buried roots in mature deciduous
 forests and old parkland. Prefers well-drained soils with moderate to high
 rainfall.
@@ -44,7 +44,7 @@ brown wood. The fungus enters through root wounds, root grafts, or the root
 collar, progressively decaying heartwood and butt. Key impacts include:
 
 - **Structural failure:** Infected trees develop brittle heartwood at the
-  base, susceptible to windthrow or stem breakage. Brown rot extends 3–5 m
+  base, susceptible to windthrow or stem breakage. [[comparison-brown-rot-vs-white-rot-bioremediation]] extends 3–5 m
   up the trunk.
 - **Crown decline:** Progressive root death leads to reduced water uptake,
   chlorosis, crown thinning, and tree death over 10–30 years.
@@ -71,18 +71,17 @@ activities include moderate **antimicrobial** effects against *S. aureus* and
 extracts showing DPPH and ABTS radical scavenging), and preliminary
 **antitumor** effects against human leukemia cell lines (HL-60) in vitro.
 The brown-rot mechanism involves Fenton chemistry — extracellular hydrogen
-peroxide and iron reduction generating hydroxyl radicals that depolymerize
+peroxide and [[bioremediation-fungal-iron-reduction-chelation-metal-solubilization]] generating hydroxyl radicals that depolymerize
 cellulose — of interest in industrial biomass processing.
 
 ## Ecological Role
 
-A major agent of coarse woody debris decomposition in temperate hardwood
+A major agent of [[fungal-diversity-leaf-litter-coarse-woody-debris]] debris decomposition in temperate hardwood
 forests. By killing weakened or over-mature trees, it creates canopy gaps
-driving forest succession and structural diversity. Large, long-lasting
+driving [[mollison-designers-food-forest-succession-design]] and structural diversity. Large, long-lasting
 basidiocarps provide habitat for [[bondarzewia-berkeleyi]]*** — Similar habitat (hardwood [[grifola-frondosa]]*** (Maitake) — Superficially similar multi-capped
   structure; smaller; pores do not bruise black; highly valued edible.
 
 ## See Also
 
-- [[decomposition]]
 - [[decomposition]]

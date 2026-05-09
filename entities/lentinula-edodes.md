@@ -18,11 +18,11 @@ Lentinula edodes produces medium to large agaric basidiocarps with convex to pla
 
 ## Traditional and Culinary Use
 
-Shiitake has been cultivated in China for approximately 1,000 years and in Japan since the 17th century, making it one of the oldest deliberately cultivated mushrooms. It is a staple of East Asian cuisine valued for its rich umami flavor, attributed to guanylic acid and glutamic acid content. Traditional medicinal uses include treatment of colds, poor circulation, liver ailments, and general fatigue. Shiitake is also used in traditional Japanese medicine as a tonic and for promoting longevity.
+Shiitake has been cultivated in China for approximately 1,000 years and in Japan since the 17th century, making it one of the oldest deliberately [[fungi-cultivated-mushrooms-pathogens-competitors]]. It is a staple of East Asian cuisine valued for its rich umami flavor, attributed to guanylic acid and glutamic acid content. Traditional medicinal uses include treatment of colds, poor circulation, liver ailments, and general fatigue. Shiitake is also used in traditional Japanese medicine as a tonic and for promoting longevity.
 
 ## Lentinan
 
-The most significant bioactive compound from L. edodes is **lentinan**, a high-molecular-weight (approximately 500 kDa) beta-(1,3)-D-glucan with beta-(1,6)-glucan branches. Lentinan is a purified polysaccharide extracted from the fruiting body and is classified as a biological response modifier (BRM). It was first isolated and characterized by Chihara and colleagues in Japan in the late 1960s. Lentinan has been approved as an anticancer drug in Japan since 1985 and is administered intravenously as an adjunct to chemotherapy.
+The most significant bioactive compound from L. edodes is **lentinan**, a high-molecular-weight (approximately 500 kDa) beta-(1,3)-D-glucan with beta-(1,6)-glucan branches. Lentinan is a purified polysaccharide extracted from the fruiting body and is classified as a [[medicinal-mushrooms-biological-response-modifiers]] modifier (BRM). It was first isolated and characterized by Chihara and colleagues in Japan in the late 1960s. Lentinan has been approved as an anticancer drug in Japan since 1985 and is administered intravenously as an adjunct to chemotherapy.
 
 ### Mechanism of Action
 
@@ -52,7 +52,7 @@ Beyond lentinan, L. edodes contains:
 
 ## Cultivation
 
-Shiitake cultivation traditionally uses hardwood logs inoculated with spawn, requiring 6-18 months of mycelial colonization before fruiting. Modern cultivation increasingly employs supplemented sawdust blocks in synthetic log bags, reducing the growth cycle to 2-4 months. Optimal fruiting requires cool temperatures (10-18°C), high humidity (85-95%), adequate ventilation, and light. Submerged fermentation is used for mycelial biomass production for extraction purposes. Global production of shiitake exceeds 2 million metric tons annually, with China accounting for the vast majority of output. Japan, South Korea, and the United States are also significant producers. The shift from log-based to sawdust-based cultivation has dramatically increased production efficiency while raising concerns about the sustainability of wood sourcing for substrate production.
+Shiitake cultivation traditionally uses hardwood logs inoculated with spawn, requiring 6-18 months of mycelial colonization before fruiting. Modern cultivation increasingly employs [[oyster-mushroom-supplemented-sawdust-blocks]] blocks in synthetic log bags, reducing the growth cycle to 2-4 months. Optimal fruiting requires cool temperatures (10-18°C), high humidity (85-95%), adequate ventilation, and light. [[cancer-medicinal-mushrooms-submerged-fermentation-production]] is used for mycelial [[dighton-fungal-biomass-production-aquatic-ecosystems]] for extraction purposes. Global production of shiitake exceeds 2 million metric tons annually, with China accounting for the vast majority of output. Japan, South Korea, and the United States are also significant producers. The shift from log-based to sawdust-based cultivation has dramatically [[fukuoka-textdoc-increased-production-not-increased-yields]] efficiency while raising concerns about the sustainability of wood sourcing for substrate production.
 
 ## Nutritional Composition
 
@@ -74,6 +74,8 @@ In nature, *L. edodes* fruits in spring and autumn, triggered by temperature dro
 
 ## See Also
 
+- [[cryptoporus-volvatus]]
+
 - [[trametes-versicolor-entity]]
 - [[schizophyllum-commune]]
-- [[beta-glucan-receptor-binding]]
+- kappa opioid receptor

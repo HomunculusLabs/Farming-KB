@@ -1,11 +1,11 @@
 ---
-title: Tilling Damage to Fungal Networks — Teaming with Microbes
+title: teaming with microbes tilling damage to fungal networks to Fungal Networks — Teaming with Microbes
 created: 2026-04-23
 updated: 2026-04-23
 type: concept
 tags: [tillage, no-till, fungal-networks, soil-structure]
 sources:
-  - "raw/papers/teaming-with-microbes-lowenfels.md"
+  sources: []
 ---
 
 # Tilling Damage to Fungal Networks
@@ -21,7 +21,7 @@ Worm tunnels and the pores between soil particles are all blown apart. The soil 
 The community of organisms is disrupted. Microorganisms that depended on specific microenvironments are killed or scattered. Larger organisms ([[teaming-with-microbes-overview]], [[teaming-with-microbes-bacteria-the-smallest-workers]] and [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]. With fewer fungi, soils become bacterially dominant — a boon to vegetables and row crops in the short term, but a long-term loss of soil health and [[teaming-with-microbes-compost-biology]]
 - This method produces fewer weeds because buried weed seeds are not exposed to the light required for germination
 
-The only exception is when establishing a new garden bed in fungally dominated soils (such as converting lawn to vegetable garden), where some initial soil disruption may be needed to shift the [[teaming-with-microbes-mulch-and-soil-food-web]] (grass clippings, straw) to promote bacteria
+The only exception is when establishing a new garden bed in fungally dominated soils (such as converting lawn to [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]), where some initial soil disruption may be needed to shift the [[teaming-with-microbes-mulch-and-soil-food-web]] (grass clippings, straw) to promote bacteria
 - The finer the green mulch, the higher the bacterial growth
 - Keep mulch damp but not wet — anaerobic conditions kill beneficial bacteria
 - Apply bacterially dominated [[teaming-with-microbes-cover-crops-soil-health]] to maintain living roots and soil biology between plantings
@@ -108,4 +108,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

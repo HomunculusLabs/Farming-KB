@@ -1,5 +1,5 @@
 ---
-title: "Piper methysticum: Kava-Kava — Pacific Island Narcotic"
+title: "plants of the gods piper methysticum kava: Kava-Kava — Pacific Island Narcotic"
 created: 2026-04-28
 tags:
   - ethnobotany
@@ -28,7 +28,7 @@ is classed as a hypnotic rather than a hallucinogen.
 ## Botanical Background
 
 Piper methysticum belongs to the Piperaceae (pepper family), the
-same family that includes black pepper (Piper nigrum). Kava is a
+same family that includes [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]] (Piper nigrum). Kava is a
 cultivar — a plant known only in cultivation, never found in the
 wild. It is believed to have been domesticated from its wild
 progenitor Piper wichmannii, native to Vanuatu and Papua New
@@ -58,7 +58,7 @@ disputes, installing chiefs, and celebrating community events.
 
 ## Preparation
 
-The traditional preparation involves chewing or pounding the fresh
+The [[kava-traditional-preparation-ceremonial-context]] involves chewing or pounding the fresh
 or dried root and rhizome into a pulp, which is then mixed with
 water and strained to produce the kava beverage. In some
 traditions, young men or virgin girls chew the root, as the
@@ -107,7 +107,7 @@ visionary states induced by true hallucinogens.
 
 ## Geographic Distribution
 
-Kava cultivation extends across the Pacific, from Vanuatu (its
+[[kava-kava-ethnobotany-chemistry]] extends across the Pacific, from Vanuatu (its
 probable center of origin) through Fiji, Samoa, Tonga, and
 Hawaii. Vanuatu produces the highest-quality kava varieties,
 with the greatest kavalactone content. Different Pacific cultures

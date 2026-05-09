@@ -1,11 +1,12 @@
 ---
-title: "Reactive Oxygen Species and Oxidative Stress"
+title: "Reactive Oxygen Species and blesching-cannabis-oxidative-stress-and-antioxidant-defense"
 created: 2026-04-28
 updated: 2026-05-06
 aliases: [ROS, oxidative stress, free radicals, redox biology, lipid peroxidation, antioxidant defense]
 tags: [biochemistry, molecular-biology, toxicology, pharmacology, cell-biology, redox-signaling]
 type: concept
-sources: []
+sources:
+  sources: []
 ---
 
 ## Overview
@@ -16,7 +17,7 @@ Reactive oxygen species (ROS) are chemically reactive molecules derived from mol
 
 **Superoxide anion (O₂•⁻)** — The primary ROS, formed by one-electron reduction of O₂. Negatively charged and membrane-impermeable. Produced mainly by mitochondrial Complex I and III, NADPH oxidases, and xanthine oxidase. Relatively low reactivity but serves as precursor to more damaging species.
 
-**Hydrogen peroxide (H₂O₂)** — Two-electron reduction product of O₂. Non-radical, membrane-permeable, and relatively stable (half-life ~1 ms to minutes depending on context). The primary signaling ROS due to its selective reactivity with cysteine residues. Substrate for catalase, glutathione peroxidase, and peroxiredoxins.
+**[[cervantes-hydrogen-peroxide-sterilization]] (H₂O₂)** — Two-electron reduction product of O₂. Non-radical, membrane-permeable, and relatively stable (half-life ~1 ms to minutes depending on context). The primary signaling ROS due to its selective reactivity with cysteine residues. Substrate for catalase, glutathione peroxidase, and peroxiredoxins.
 
 **Hydroxyl radical (•OH)** — The most reactive ROS with an oxidation potential of ~2.8 V. Extremely short half-life (~10⁻⁹ s). Generated via Fenton reaction (Fe²⁺ + H₂O₂) and causes indiscriminate damage to all biomolecules within diffusion distance. No enzymatic defense exists; prevention (iron sequestration) is the only protection.
 
@@ -42,7 +43,7 @@ Xanthine oxidase (XO) produces both O₂•⁻ and H₂O₂ during purine catabo
 
 ### Metal-Catalyzed ROS Generation
 
-The Fenton reaction (Fe²⁺ + H₂O₂ → Fe³⁺ + •OH + OH⁻) and the iron-driven Haber-Weiss cycle (Fe³⁺ + O₂•⁻ → Fe²⁺ + O₂) generate hydroxyl radicals from less reactive precursors. Copper can substitute for iron. Superoxide oxidizes [4Fe-4S]²⁺ clusters in dehydratases (e.g., aconitase), releasing Fe²⁺ that feeds Fenton chemistry. Labile iron pools are chelated by ferritin and transferrin; dysregulation amplifies Fenton-mediated damage in hemochromatosis and neurodegeneration.
+The Fenton reaction (Fe²⁺ + H₂O₂ → Fe³⁺ + •OH + OH⁻) and the iron-driven Haber-Weiss cycle (Fe³⁺ + O₂•⁻ → Fe²⁺ + O₂) generate hydroxyl radicals from less reactive precursors. Copper can substitute for iron. Superoxide oxidizes [4Fe-4S]²⁺ clusters in dehydratases (e.g., aconitase), releasing Fe²⁺ that feeds [[bioremediation-fenton-chemistry-brown-rot-fungi]]. Labile iron pools are chelated by ferritin and transferrin; dysregulation amplifies Fenton-mediated damage in hemochromatosis and neurodegeneration.
 
 ## Antioxidant Defense Systems
 
@@ -74,7 +75,7 @@ HIF-1α is hydroxylated by prolyl hydroxylases (PHD1-3) under normoxia, targetin
 
 ## Diseases Linked to Oxidative Stress
 
-**Neurodegenerative diseases** — In Alzheimer's, amyloid-β generates ROS via redox-active metal binding (Cu²⁺, Fe³⁺), and oxidative damage markers (8-OHdG, 4-HNE, protein carbonyls) are elevated even in mild cognitive impairment. In Parkinson's, dopamine auto-oxidation produces H₂O₂ and quinones; α-synuclein aggregates impair Complex I; glutathione depletion in substantia nigra is the earliest detectable biochemical change. Environmental Complex I inhibitors (MPTP, paraquat, rotenone) recapitulate Parkinson's pathology.
+**Neurodegenerative diseases** — In Alzheimer's, amyloid-β generates ROS via redox-active [[chelation-and-metal-binding-in-plants]] (Cu²⁺, Fe³⁺), and oxidative damage markers (8-OHdG, 4-HNE, protein carbonyls) are elevated even in mild cognitive impairment. In Parkinson's, dopamine auto-oxidation produces H₂O₂ and quinones; α-synuclein aggregates impair Complex I; glutathione depletion in substantia nigra is the earliest detectable biochemical change. Environmental Complex I inhibitors (MPTP, paraquat, rotenone) recapitulate Parkinson's pathology.
 
 **Cardiovascular disease** — Oxidized LDL is the central driver of atherosclerosis, activating endothelial NF-κB for monocyte recruitment. Superoxide reacts with nitric oxide to form peroxynitrite, reducing NO bioavailability and causing endothelial dysfunction. eNOS uncoupling (from BH₄ oxidation) further increases superoxide production.
 
@@ -90,7 +91,7 @@ F₂-isoprostanes in urine (GC-MS) are the gold-standard lipid peroxidation biom
 
 ## Therapeutic Antioxidants: Clinical Evidence
 
-Large [[green-cannabis-grow-bible-pest-disease-prevention]] in well-nourished populations. β-carotene increased lung cancer by 18-28% in smokers (ATBC and CARET trials). Vitamin E showed possible benefit in non-alcoholic steatohepatitis (PIVENS trial) but increased prostate cancer risk (SELECT trial).
+Large [[green-cannabis-grow-bible-pest-disease-prevention]] in well-nourished populations. β-carotene increased [[psk-breast-lung-cancer-clinical-trials]] by 18-28% in smokers (ATBC and CARET trials). Vitamin E showed possible benefit in non-alcoholic steatohepatitis (PIVENS trial) but increased prostate cancer risk (SELECT trial).
 
 Targeted approaches show more promise: N-acetylcysteine is the standard antidote for acetaminophen poisoning (GSH precursor) and has modest COPD benefit. Alpha-lipoic acid (600 mg/day) is approved in Germany for diabetic neuropathy. Coenzyme Q10 reduced major cardiac events in heart failure (Q-SYMBIO trial). Nrf2 activators (dimethyl fumarate approved for MS; sulforaphane in Phase II trials) represent a rational pharmacological approach to boosting endogenous defenses. NOX1/4 inhibitor setanaxib shows promise in liver fibrosis trials. Ferroptosis inhibitors (liproxstatin-1, iron chelators) represent a new therapeutic frontier for lipid peroxidation-driven cell death.
 

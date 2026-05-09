@@ -4,7 +4,9 @@ created: 2026-04-28
 tags: [comparison, permaculture, climate, landscape-design]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: comparison
 ---
 
@@ -19,13 +21,13 @@ primary limiting factor, tropical permaculture leverages abundant rainfall and
 year-round warmth to create highly productive multi-strata systems.
 
 ## Arid Permaculture
-[[tropical-permaculture-guide]]
+tropical-permaculture-guide
 
 Tropical permaculture addresses the extraordinary productivity and equally
 extraordinary challenges of the humid tropics, where year-round warmth (25-28
 degrees C average), high rainfall (2000-4000mm+ annually), and minimal seasonal
 variation in day length create conditions for continuous biological production.
-The central challenge is rapid nutrient cycling: organic matter decomposes 3-10
+The central challenge is rapid [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]: organic matter decomposes 3-10
 times faster than in temperate zones, meaning soil fertility is hard to
 maintain without continuous biomass inputs from fast-growing trees, leguminous
 species, and heavy mulching.
@@ -41,9 +43,9 @@ fixing trees such as Leucaena, Gliricidia, and Inga.
 
 High rainfall presents challenges of erosion, nutrient leaching, and
 waterlogging, addressed through contour planting, swales, terracing, dense
-ground covers, and raised beds in poorly drained areas. Pests and diseases are
+ground covers, and raised beds in poorly drained areas. [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] are
 managed through maximum diversity, predator habitat creation, and resistant
-varieties. Housing design prioritizes ventilation, shade, and passive cooling
+varieties. Housing design prioritizes ventilation, shade, and [[mollison-designers-solar-chimneys-and-passive-cooling-in-desert-housing]]
 through cross-ventilation, high ceilings, deep overhangs, and locally sourced
 materials like bamboo and thatch.
 
@@ -53,7 +55,7 @@ materials like bamboo and thatch.
 |--------|------|----------|
 | Primary limiting factor | Water availability | Nutrient retention |
 | Annual rainfall | Under 250mm | 2000-4000mm+ |
-| Soil fertility | Mineral-rich, unexploited | Low natural fertility, rapid cycling |
+| Soil fertility | Mineral-rich, unexploited | Low [[fukuoka-natural-fertility-cycle]], rapid cycling |
 | Organic matter decomposition | Very slow | 3-10x faster than temperate |
 | Dominant landform process | Erosion, wind deposition | Leaching, weathering |
 | Water strategy | Capture, store, minimize loss | Drain, slow, infiltrate, prevent erosion |
@@ -61,7 +63,7 @@ materials like bamboo and thatch.
 | Plant spacing | Wide spacing for root access | Dense planting for soil protection |
 | Canopy structure | Open, scattered, wind-sheltered | Multi-strata, vertically complex |
 | Key crops | Citrus, grapes, dates, pistachios | Banana, cassava, breadfruit, coconut |
-| Nitrogen fixation | Important but secondary | Essential for continuous fertility |
+| [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] | Important but secondary | Essential for continuous fertility |
 | Thermal design | Thermal mass, cliff shading | Ventilation, shade, passive cooling |
 | Pest pressure | Low (insects moisture-limited) | High (continuous breeding cycles) |
 | Growing season | Seasonal, triggered by rain | Year-round, continuous |
@@ -82,7 +84,7 @@ as water collection surfaces.
 Arid design principles increasingly apply to climate-adapted landscaping in
 regions facing prolonged drought, rising temperatures, and aquifer depletion.
 Even in non-desert areas, techniques like mulch-based moisture conservation,
-zoned planting by water availability, and passive thermal mass cooling drawn
+zoned planting by water availability, and [[coleman-soil-heat-mass-passive-thermal-storage]] mass cooling drawn
 from arid permaculture offer resilience against climate variability. See
 [[permaculture-earthworks-and-water-harvesting]] for water management approaches.
 
@@ -100,7 +102,7 @@ Tropical approaches also apply in subtropical regions and anywhere that high
 rainfall, rapid decomposition, and pest pressure dominate the growing
 conditions. The emphasis on nitrogen-fixing trees, continuous mulch cycling,
 and vertically stacked polycultures provides a model for productive perennial
-systems worldwide. See [[tropical-permaculture-guide]] for Mollison's treatment of humid
+systems worldwide. See tropical-permaculture-guide for Mollison's treatment of humid
 tropical systems.
 
 ## Hybrid Approaches
@@ -115,3 +117,6 @@ species adapted to seasonal moisture stress.
 ## See Also
 
 - [[permaculture-design]]
+- [[decomposition]]
+- [[water-management]]
+- [[desertification]]

@@ -5,14 +5,15 @@ tags: [cannabis, re-vegging, rejuvenation, harvest, vegetative-growth]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Rejuvenation and Re-vegging Harvested Cannabis
 
 Rejuvenation (also called re-vegging) is the process of returning a harvested
-cannabis plant back to vegetative growth for a second flowering cycle. Jorge
+cannabis plant back to [[cannabis-vegetative-growth-stage]] for a second [[cannabis-sativa-flowering-cycle-management]]. Jorge
 Cervantes documents this technique as a way to get additional harvests from
 favorite plants without starting entirely from seed.
 
@@ -111,4 +112,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -1,5 +1,5 @@
 ---
-title: "Woody Plant Encroachment and Succession"
+title: "savory woody plant encroachment and succession and Succession"
 created: 2026-04-28
 tags: [holistic-management, succession, woody-plants, brittle-environment]
 date: 2026-04-25
@@ -17,15 +17,15 @@ for anyone managing land where grass cover is giving way to shrubs and trees.
 
 ## Overview
 
-In holistic resource management, woody plant encroachment is understood not
+In [[savory-holistic-resource-management-animal-impact]] management, woody plant encroachment is understood not
 as a simple invasion but as a successional shift driven by changes in the
-four ecosystem foundation blocks: water cycle, mineral cycle, energy flow,
+four [[savory-ecosystem-foundation-blocks]] blocks: water cycle, mineral cycle, energy flow,
 and community dynamics. When these foundational processes are weakened,
 especially through prolonged rest or fire abuse, the plant community moves
 through predictable successional stages from perennial grass dominance toward
 woody plant dominance.
 
-Allan Savory documented this pattern across Africa, Australia, and the
+Allan Savory documented this [[psilocin-accumulation-pattern-across-flushes]] Africa, Australia, and the
 American West. In each case, the underlying mechanism was the same: a
 breakdown in the processes that maintain grassland communities, allowing
 woody species to establish and eventually dominate the landscape. This
@@ -52,7 +52,7 @@ overgrazing or prolonged rest without adequate disturbance, bare soil
 increases between plants. This bare ground reduces the effectiveness of
 the water cycle, meaning less moisture is available to sustain dense grass
 communities. Woody plant seedlings, which often have deeper root systems
-and greater drought tolerance, establish in the bare spaces.
+and greater [[dighton-fungal-drought-tolerance-plant-water-relations]], establish in the bare spaces.
 
 Once established, woody plants compete with grasses for both water and
 light. Many woody species, particularly in brittle environments, are
@@ -65,7 +65,7 @@ resprouting from established root systems.
 
 ### Chemical Suppression Between Species
 
-Research has revealed that plant communities engage in chemical warfare to
+Research has revealed that plant communities engage in [[solomon-root-exudates-and-allelopathy]] to
 maintain their preferred successional state. Some grasses exude allelopathic
 chemicals from their roots that inhibit the germination and growth of woody
 plant seedlings nearby. Conversely, some woody plants produce chemicals that

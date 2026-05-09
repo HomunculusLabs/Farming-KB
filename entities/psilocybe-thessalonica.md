@@ -10,14 +10,14 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 # Psilocybe thessalonica
 
-**Psilocybe thessalonica** is a bluing, psilocybin-containing mushroom species in the family strophariaceae, described from Thessaloniki in northern Greece. The species was formally named by Gastón Guzmán, a leading authority on psilocybian fungi, and contributes to the documented diversity of hallucinogenic mushrooms in the Mediterranean region.
+**Psilocybe thessalonica** is a bluing, psilocybin-containing mushroom species in the family strophariaceae, described from Thessaloniki in northern Greece. The species was formally named by Gastón Guzmán, a leading authority on psilocybian fungi, and contributes to the documented diversity of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] in the Mediterranean region.
 Greece is home to several Psilocybe species, reflecting the country's diverse climates and substrates that range from Mediterranean scrubland to temperate mountain forests.
 
 ## Taxonomy and Etymology
 
-The species epithet *thessalonica* honors the city of Thessaloniki and the broader region of Macedonia in northern Greece, from which the type collection was made. Guzmán described the species based on macroscopic and microscopic morphology, placing it within Psilocybe section psilocybe-sect.-psilocybe.
+The species epithet *thessalonica* honors the city of Thessaloniki and the broader region of Macedonia in northern Greece, from which the type collection was made. Guzmán described the species based on macroscopic and microscopic morphology, placing it within [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]] psilocybe-sect.-psilocybe.
 Molecular phylogenetic studies have since confirmed its placement among European and Mediterranean bluing Psilocybe species, with closest affinities to [[psilocybin]] and [[baeocystin]] is also likely present, as it commonly co-occurs with psilocybin in section Psilocybe species, though specific quantitative data are limited.
-Overall potency is considered comparable to [[psilocybe-serbica]], which occurs in the broader Balkan region and shares a similar macroscopic appearance. Reliable separation requires microscopic examination, particularly of spore dimensions and cystidial shapes.
+Overall potency is considered comparable to [[psilocybe-serbica]], which occurs in the broader Balkan region and shares a similar macroscopic appearance. Reliable separation requires [[fungal-microscopic-examination-mounting-media-techniques]], particularly of spore dimensions and cystidial shapes.
 It may also be confused with [[psilocybe-bohemica]], though these species have more northerly distributions and different ecological preferences. The calcareous soil association of *P. thessalonica* can serve as a supporting ecological character for identification in the field.
 Non-psychoactive lookalikes in Mediterranean grasslands include various species of Deconica and Agrocybe, none of which exhibit bluing reactions. The absence of blue bruising in these species provides a reliable field character for exclusion. Observers should note that some Deconica species may exhibit weak bluish discoloration on very old or damaged specimens, but this should not be confused with the strong, rapid blue bruising typical of Psilocybe section Psilocybe.
 
@@ -26,13 +26,13 @@ Given the morphological overlap with other Balkan Psilocybe species, herbarium d
 ## Cultural Significance
 
 There is no well-documented history of traditional use of *P. thessalonica* in Greek ethnobotany. While psychoactive mushrooms have been used in various cultures worldwide, the specific use of this species has not been recorded.
-Greece's mycological diversity in this regard was primarily documented through scientific surveys by Guzmán and collaborators. The species remains poorly known outside specialist mycological circles, and it is not among the psychoactive fungi commonly recognized by the Greek public.
+Greece's mycological diversity in this regard was primarily documented through scientific surveys by Guzmán and collaborators. The species remains poorly known outside specialist mycological circles, and it is not among the [[cattle-dispersal-psychoactive-fungi-australia]] commonly recognized by the Greek public.
 The legal status of psilocybin-containing mushrooms in Greece, as in most European countries, places constraints on the collection and study of these fungi. This legal framework may inadvertently hinder the scientific documentation and conservation assessment of species such as *P. thessalonica*.
 
 ## Conservation Status
 
 *Psilocybe thessalonica* has not been formally assessed for the IUCN Red List, and no official conservation status has been assigned. The species faces potential threats from habitat loss due to urban expansion around Thessaloniki and agricultural intensification in northern Greece.
-Mediterranean grasslands and olive groves, which constitute its primary habitat, have been declining across southern Europe due to land abandonment, conversion to monoculture plantations, and urban sprawl. Climate change may also pose a long-term threat, as altered precipitation patterns could disrupt the Mediterranean rainfall regime that triggers fruiting.
+Mediterranean grasslands and olive groves, which constitute its primary habitat, have been declining across southern Europe due to land abandonment, conversion to monoculture plantations, and urban sprawl. [[dighton-fungi-climate-change-feedback]] may also pose a long-term threat, as altered precipitation patterns could disrupt the Mediterranean rainfall regime that triggers fruiting.
 The species' restricted known range and apparent endemism to the southern Balkans make it particularly vulnerable to localized habitat destruction. Comprehensive population surveys and habitat mapping are needed to assess its conservation status accurately.
 The Mediterranean Basin biodiversity hotspot, in which *P. thessalonica* occurs, is one of the most significantly impacted regions globally in terms of habitat loss, with only a small fraction of original grassland and scrubland remaining in a relatively undisturbed state.
 
@@ -40,7 +40,7 @@ The Mediterranean Basin biodiversity hotspot, in which *P. thessalonica* occurs,
 
 - [[psilocybe-bohemica]]: Central European congener
 - [[psilocybin]]: primary psychoactive alkaloid
-- [[gartz-magic-mushrooms-global-distribution-patterns]]: source survey covering this species
+- gartz-magic-mushrooms-global-distribution-patterns: source survey covering this species
 ## Practical Considerations
 
 When working with Psilocybe thessalonica, several practical factors should be
@@ -57,7 +57,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,4 +99,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

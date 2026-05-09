@@ -9,13 +9,13 @@ tags:
   - plastic-degradation
   - permaculture
   - saprophyte
-  - [[endophytic-fungi]]." Applied and Environmental Microbiology 77(17):
+  - endophytic-fungi." Applied and Environmental Microbiology 77(17):
     6076-6084.
   - Barratt, S.R. et al. (2003). "Degradation of polyester polyurethane
     by fungi." Applied Microbiology and Biotechnology 61(4): 364-369.
   - Strobel, G.A. (2003). "Endophytes as sources of bioactive products."
     Microbes and Infection 5(6): 535-544.
-  - Wei, J. et al. (2022). "Fungal degradation of plastic waste: current
+  - Wei, J. et al. (2022). "[[singh-fungal-degradation-endocrine-disrupting-compounds]] of plastic waste: current
     status and future perspectives." Environmental Science & Technology
     56(16): 11485-11499.
 ---
@@ -26,7 +26,7 @@ tags:
 **Pestalotiopsis microspora** is an endophytic ascomycete fungus that gained
 international attention in 2011 when Yale University researchers demonstrated
 its ability to **biodegrade polyurethane (PU) plastic** — the first fungus
-shown to digest polyurethane in both aerobic and anaerobic conditions.
+shown to digest polyurethane in both [[query-what-is-the-difference-between-aerobic-and-anaerobic-composting]] conditions.
 Originally isolated from plant tissues in the Ecuadorian Amazon, this species
 represents a significant discovery .
 
@@ -75,11 +75,11 @@ Species-level identification requires .
 
 P. microspora has a **pantropical to subtropical distribution**:
 
-- **Range:**  (Amazon Basin), , Southeast Asia,
+- **Range:**  (Amazon Basin), , [[psilocybe-southeast-asia-pacific]],
   Africa, and Pacific islands
 - **Host plants:** Over 30 genera including Theobroma (cacao), Hevea (rubber),
   palms, orchids, and tropical hardwoods
-- **Substrates:** Living plant tissues (endophytic), leaf litter, decaying
+- **Substrates:** Living plant tissues (endophytic), [[dighton-fungal-decomposition-leaf-litter-dynamics]], decaying
   wood, soil
 - **Ecological niche:** Colonizes intercellular spaces of healthy tissues
   without causing disease symptoms
@@ -141,3 +141,4 @@ P. microspora has potential applications in designed ecological systems:
 ## See Also
 - [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]
 - [[teaming-with-nutrients-plant-nutrient-essentials-npk]]
+- [[singh-endophytic-fungi-plant-growth-promotion-contaminated-soils]]

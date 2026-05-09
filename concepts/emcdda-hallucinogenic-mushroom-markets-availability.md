@@ -1,5 +1,5 @@
 ---
-title: "EMCDDA Hallucinogenic Mushroom Markets and Availability"
+title: "EMCDDA emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative Markets and Availability"
 created: 2026-04-28
 tags:
   - drug-markets
@@ -18,16 +18,16 @@ type: concept
 
 ## Brand Names and User Terminology
 
-In the case of hallucinogenic mushrooms there is an overlap between brand
+In the case of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] there is an overlap between brand
 names of retailers and users' terms. The product name or users' terms
 sometimes reflect changing market strategies and new trends. Hallucinogenic
-mushrooms are commonly known as 'magic mushrooms' but they are also widely
+mushrooms are commonly known as '[[guzman-magic-mushrooms-african-species]]' but they are also widely
 known to the users as 'paddos' in the Netherlands, 'shrooms' in the UK,
 'Zauberpilze' in Germany, 'champignons hallucinogenes' or 'champis' in
 France, 'funghi magici' in Italy, and 'magiske svampe' in Danish.
 
 Other names in English include: mush, mushies, boomers, psilocybes, cubes,
-liberty caps, philosopher's stone, sacred mushrooms, teonanacatl (the Aztec
+liberty caps, philosopher's stone, [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]], teonanacatl (the Aztec
 name meaning 'divine flesh'), and Mexican mushrooms. At the end of the 1990s
 when hallucinogenic mushrooms started to be commercialised by smartshops, new
 labels appeared reflecting changes in the groups who sell and use these drugs.
@@ -41,7 +41,7 @@ magic mushrooms were 'popular when in season'.
 The information concerning hallucinogenic mushroom markets and availability is
 dominated by the Netherlands and the UK. In both countries markets for legal
 smart drugs emerged and expanded rapidly in the late 1990s and early 2000s.
-Available information suggests that users purchase magic mushroom products
+Available information suggests that users purchase magic [[cotter-mushroom-products-and-value-added-applications]]
 from smartshops and on the internet. According to a study conducted in 2001
 among a representative sample in the Netherlands, 64% of young people aged 18
 and older who used magic mushrooms in the last year purchased them in
@@ -54,7 +54,7 @@ In some areas 'paddo' cabs make home deliveries. Headshops and grow shops
 also sometimes sell hallucinogenic mushrooms. According to the Dutch Risk
 Assessment Report, magic mushrooms make up approximately 50% of smartshop
 turnover. The most commonly sold varieties are [[amanita-pantherina]], as well as Purple Ohms
-capsules which contain Hawaiian Baby Woodrose (Argyreia nervosa) with LSA.
+capsules which contain Hawaiian Baby Woodrose ([[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]]) with LSA.
 
 ## Criminological Evidence and Seizures
 
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

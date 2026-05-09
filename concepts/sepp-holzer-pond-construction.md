@@ -1,11 +1,12 @@
 ---
-title: Sepp Holzer Pond Construction
+title: Sepp Holzer holzer-pond-construction-and-aquaculture
 created: 2026-04-15
 updated: 2026-04-18
 type: concept
 tags: [reference]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Sepp Holzer Pond Construction
@@ -14,11 +15,11 @@ Updated: 2026-04-18
 
 Source: Sepp Holzer, *Sepp Holzer's Permaculture* (2010)
 
-Sepp Holzer has built dozens of ponds and lakes across the Krameterhof, ranging from small water gardens to large aquaculture systems. His approach emphasises working with natural soil conditions and creating water bodies that integrate with the broader permaculture landscape.
+Sepp Holzer has built dozens of ponds and lakes across the Krameterhof, ranging from small water gardens to large aquaculture systems. His approach emphasises working with natural soil conditions and creating water bodies that integrate with the broader [[holzer-permaculture-landscape-design]].
 
 ## Design Philosophy
 
-Water is life and must be treated with great care. Holzer tries to keep all water -- rainwater, spring water, and surface runoff -- on his land for as long as possible. Where there is wet soil, he creates a pond, water garden, or wetland. Water bodies serve multiple functions: aquaculture, microclimate creation, irrigation, wildlife habitat, and fire protection.
+Water is life and must be treated with great care. Holzer tries to keep all water -- rainwater, spring water, and surface runoff -- on his land for as long as possible. Where there is wet soil, he creates a pond, water garden, or wetland. Water bodies serve multiple functions: aquaculture, [[mollison-designers-microclimate-creation-frost-protection]], irrigation, wildlife habitat, and fire protection.
 
 Ponds are positioned to integrate with terraces and raised beds. The terraces and raised beds below water bodies are steadily supplied with water through seepage.
 
@@ -51,7 +52,7 @@ Water percolates over greater distances through dry, stony or sandy soil. Ditche
 
 Holzer integrates ponds with the broader water management system:
 - Ponds positioned at different elevations create cascading water flow
-- Humus storage ditches hold surplus water from heavy rainfall and snowmelt
+- [[holzer-humus-storage-ditches]] ditches hold surplus water from heavy rainfall and snowmelt
 - Roads and paths are crowned (higher in the middle) to disperse water rather than channel it
 - Streams and springs are diverted under paths through pipes or culverts
 - The middle of paths is made slightly higher than edges so water travels at its own speed
@@ -63,7 +64,7 @@ Holzer designs ponds with distinct planting zones around the perimeter:
 - **Deep water zone (below 1m):** Submerged aquatics like hornwort, water milfoil, and pondweed oxygenate the water and provide fish habitat
 - **Shallow water zone (0.3-1m):** Marginal plants like reeds, rushes, and irises filter water and stabilise banks
 - **Moisture zone (bank edge):** Moisture-loving plants like comfrey, mint, and watercress benefit from seepage
-- **Surrounding terrace zone:** Fruit trees and vegetables benefit from the elevated moisture and reflected light
+- **Surrounding terrace zone:** [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and vegetables benefit from the elevated moisture and reflected light
 
 ## Water Level Management
 
@@ -71,8 +72,8 @@ Holzer monitors water levels through natural indicators rather than mechanical g
 
 ## Fish and Aquaculture Integration
 
-Ponds are stocked with fish species that complement each other. Holzer avoids feeding fish artificially -- instead, he designs the pond ecosystem so that natural food (insects, plankton, aquatic plants) sustains the fish population. This approach requires lower stocking densities but produces healthier fish with no input costs. [[permaculture-pond-construction]], [[sepp-holzer-method]], [[sepp-holzer-terrace-systems-and-raised-beds]], [[sepp-holzer-water-gardens-and-aquatic-plants]]
-- [[holzer-fruit-tree-planting-method]]
+Ponds are stocked with fish species that complement each other. Holzer avoids [[solomon-foliar-feeding-fish-emulsion-and-kelp]] artificially -- instead, he designs the pond ecosystem so that natural food (insects, plankton, aquatic plants) sustains the fish population. This approach requires lower stocking densities but produces healthier fish with no input costs. [[permaculture-pond-construction]], [[sepp-holzer-method]], [[sepp-holzer-terrace-systems-and-raised-beds]], [[sepp-holzer-water-gardens-and-aquatic-plants]]
+- holzer-fruit-tree-planting-method
 ## Practical Considerations
 
 Successful implementation of Sepp Holzer Pond Construction requires attention to
@@ -91,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

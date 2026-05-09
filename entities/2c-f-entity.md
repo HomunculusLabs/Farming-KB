@@ -9,7 +9,7 @@ sources:
 ---
 # 2C-F
 
-**PIHKAL Entry #26** -- 2,5-Dimethoxy-4-fluorophenethylamine
+**[[2c-b-pihkal-entry-20]] #26** -- 2,5-Dimethoxy-4-fluorophenethylamine
 
 ## Chemical Name
 
@@ -41,7 +41,7 @@ The extreme inactivity of 2C-F contrasts sharply with its bromine, iodine, and s
 
 2C-F belongs to the 2C family of phenethylamines, characterized by the 2,5-dimethoxy-4-substituted pattern on the phenethylamine backbone. The 4-position substituent is the primary variable within this family, and its identity has a profound impact on both potency and qualitative effects.
 
-The 2C family compounds ordered by 4-position substituent potency demonstrate a clear trend:
+The 2C [[2c-family-compounds-overview]] ordered by 4-position substituent potency demonstrate a clear trend:
 
 - 2C-H (hydrogen): Inactive (not in PIHKAL as active)
 

@@ -1,5 +1,5 @@
 ---
-title: Specific Pest Management (Solomon)
+title: Specific cannabis-pest-management-guide (Solomon)
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -14,7 +14,7 @@ Updated: 2026-04-18
 
 Source: Gardening When It Counts, Steve Solomon, Chapter 9
 
-Beyond general insect philosophy, Solomon provides specific management strategies for common garden pests encountered in North America and similar climates.
+Beyond general insect philosophy, Solomon provides specific management strategies for common garden pests encountered in [[psilocybin-north-america-pacific-northwest]] and similar climates.
 
 ## Flea Beetles
 
@@ -27,7 +27,7 @@ The most detailed pest discussion in the book.
 **Management**:
 - Direct-sow 5 seeds per station, thin only as competition starts — gives beetles more to chew on while survivors establish
 - Don't sow at the earliest possible moment
-- Monitor leaf area loss: if exceeding 10%, foliar feed with fish emulsion (foul smell may also confuse beetles)
+- Monitor leaf area loss: if exceeding 10%, foliar feed with [[solomon-foliar-feeding-fish-emulsion-and-kelp]] (foul smell may also confuse beetles)
 - If exceeding 20%, spray every few days with rotenone or liquid pyrethrum
 - Once weather moderates, the problem should resolve
 - See also [[insects-and-plant-health-solomon]], [[aact-nematode-protozoa-management-ingham]]
@@ -111,4 +111,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

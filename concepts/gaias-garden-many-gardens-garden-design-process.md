@@ -10,7 +10,7 @@ tags: [design, gardening]
 
 # Designing the Ecological Garden
 
-An ecological garden design recognizes that nothing in nature stands alone. Any garden will reflect this connectedness, whether we want it to or not. The goal of ecological design is to consciously create these connections, producing landscapes that yield abundantly, need little labor, harbor no pollutants, and are ripe with habitat.
+An ecological garden design recognizes that nothing in nature stands alone. Any garden will reflect this connectedness, whether we want it to or not. The goal of [[williams-pdc-ecological-design-principles]] is to consciously create these connections, producing landscapes that yield abundantly, need little labor, harbor no pollutants, and are ripe with habitat.
 
 ## The Two Clients
 
@@ -42,12 +42,12 @@ Observation goes beyond noting objects. It means being immersed in the place: Wh
 
 With knowledge of the site, dream about what could be. Ask:
 - What do the human inhabitants want and need? (Food, herbs, wildlife habitat, privacy, play space)
-- What does the landscape and region need? (Soil rejuvenation, wildlife habitat, erosion control)
+- What does the landscape and region need? (Soil rejuvenation, wildlife habitat, [[permplant-willows-salix-erosion-control-fodder]])
 - What are your skills, resources, limitations?
 - How should the new landscape feel?
 - What products can the land provide sustainably?
 
-**Key technique**: Name design elements by function, not by inert description. "Barrier" instead of "fence" invites far more possibilities (hedge, rock wall, trench, moat). "Organic matter recycling" instead of "compost pile" keeps more options open.
+**Key technique**: Name design elements by function, not by inert description. "Barrier" instead of "fence" invites far more possibilities (hedge, rock wall, trench, moat). "[[hamilton-composting-and-organic-matter-management]] recycling" instead of "compost pile" keeps more options open.
 
 ### 3. Planning
 
@@ -57,7 +57,7 @@ This demanding phase has three segments:
 
 **Analysis**: List design elements that satisfy the vision. For each significant element, catalog its:
 - Products (leaves, fruit, pollen, oxygen, mulch, shade)
-- Activities (soil stabilization, nutrient transport, wildlife habitat)
+- Activities (soil stabilization, [[mycelial-network-nutrient-transport-imaging-gadd]], wildlife habitat)
 - Needs (water, nutrients, pollinators, protection from pests)
 - Intrinsic qualities (height, color, root depth, soil requirements)
 
@@ -99,7 +99,7 @@ Install the design in this order:
 
 Beyond the zone-and-sector framework, ecological design uses natural patterns to save space, reduce labor, and enhance habitat:
 
-- **Keyhole beds**: Circular beds with a path to the center, needing only 6 square feet of path per 50 square feet of planting (vs. 40 square feet for single rows)
+- **[[gaias-garden-keyhole-beds-and-mandala-gardens]]**: Circular beds with a path to the center, needing only 6 square feet of path per 50 square feet of planting (vs. 40 square feet for single rows)
 - **Mandala gardens**: Four to eight keyhole beds arranged in a circle, combining beauty and efficiency
 - **Herb spirals**: Spiral mounds that create multiple microclimates (dry/sunny top, moist/shady base) in a small footprint
 - **Branching patterns**: Paths and waterways that follow branching forms to maximize edge and access
@@ -107,7 +107,7 @@ Beyond the zone-and-sector framework, ecological design uses natural patterns to
 ## See Also
 
 - [[gaias-garden-keyhole-beds-and-mandala-gardens]]
-- gaias garden herb spiral and natural patterns
+- gaias garden [[mollison-designers-domestic-herb-spiral-and-kitchen-garden]] natural patterns
 - [[growing-vegetables-with-less-fertilizer]]
 - [[what-natural-farming-method-should-i-use]]
 - [[garden-myths-native-plants-and-invasive-species]]

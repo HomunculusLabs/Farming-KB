@@ -1,10 +1,11 @@
 ---
-title: "Swale vs Rainwater Harvesting"
+title: "comparison swale vs rainwater harvesting Harvesting"
 created: 2026-04-28
 tags: [comparison, water-management, permaculture, earthworks, water-harvesting]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -43,10 +44,10 @@ due to limited space, property boundaries, or municipal regulations. Captured ra
 municipal treatment chemicals, making it superior for irrigating food crops and supporting soil biology. Stored water
 provides a buffer against drought periods and can supplement municipal supply during water restrictions or emergencies.
 
-The versatility of rainwater harvesting extends beyond simple irrigation. Harvested water can be used for compost tea
+The versatility of rainwater harvesting extends beyond simple irrigation. Harvested water can be used for [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]]
 brewing, aquaponics, livestock watering, and even household non-potable uses with appropriate filtration. Graywater
 integration further amplifies system capacity by routing laundry, shower, and sink water through mulch basins or
-constructed wetlands before it recharges the soil. Brad Lancaster's eight principles of water harvesting emphasise
+[[comparison-constructed-wetlands-vs-bioswales]] before it recharges the soil. Brad Lancaster's eight principles of water harvesting emphasise
 starting with simple, small-scale interventions and expanding as observation and experience dictate.
 
 ## Key Differences
@@ -57,7 +58,7 @@ starting with simple, small-scale interventions and expanding as observation and
 | Storage Mechanism | Soil infiltration and groundwater recharge | Containers (drums, cisterns, tanks) |
 | Storage Duration | Weeks to months (in soil profile) | Months (in sealed containers) |
 | Space Required | Significant (contour earthworks) | Minimal (vertical storage) |
-| Construction Effort | High (earthmoving, contour surveying) | Low to moderate (plumbing, container setup) |
+| Construction Effort | High (earthmoving, [[mollison-designers-contour-surveying-a-frame-bunyip-level]]) | Low to moderate (plumbing, container setup) |
 | Primary Benefit | Rehydrates entire landscape | Provides discrete water supply |
 | Ideal Scale | Broadacre, slopes, orchards | Buildings, gardens, urban areas |
 | Irrigation Method | Passive (soil moisture for planted berms) | Active (gravity-fed or pumped distribution) |
@@ -87,7 +88,7 @@ supplemental watering during dry periods. Rainwater harvesting works effectively
 no benefit. For renters and those with limited land rights, portable rain barrel systems can be installed and removed
 without permanent modifications to the property.
 
-The chemical-free water quality of harvested rainwater makes it especially valuable for compost tea brewing, seedling
+The chemical-free water quality of harvested rainwater makes it especially valuable for compost [[compost-tea-brewing-equipment-ingham]], seedling
 irrigation, and sensitive biological applications where chlorine and other municipal treatment chemicals would harm soil
 microbiology. Brad Lancaster's framework prioritises rainwater harvesting as the first step in any water management
 strategy because it is accessible, scalable, and immediately beneficial regardless of property size, slope, or soil
@@ -103,7 +104,7 @@ and shower use can supplement both systems, providing additional water during dr
 depleted.
 
 Brad Lancaster's integrated approach demonstrates that even small urban lots can combine swales, rain barrels, cisterns,
-and graywater recycling for near-complete water self-sufficiency. The key principle is to create multiple pathways for
+and [[natfarm-graywater-recycling-systems]] for near-complete water self-sufficiency. The key principle is to create multiple pathways for
 water to enter and remain on the landscape, so that no single failure point can compromise the entire system. Starting
 with rain barrels and simple earthworks, designers can progressively add complexity as they observe how water moves
 across their site through seasons and years.
@@ -111,4 +112,7 @@ across their site through seasons and years.
 ## See Also
 
 - [[comparison-drip-irrigation-vs-passive-irrigation]]
-- [[water-catchment-permaculture]]
+- water-catchment-permaculture
+- [[rainwater-harvesting-systems]]
+- [[compost-tea-brewing]]
+- [[water-management]]

@@ -1,5 +1,5 @@
 ---
-title: Ancient Entheogenic Cults and the Religious Impulse
+title: powell ancient entheogenic cults and the religious impulse Cults and the Religious Impulse
 created: 2026-04-28
 tags: [entheogens, ancient-religion, eleusinian-mysteries, aztec,
   teotihuacan, religious-impulse, shamanism, theophany]
@@ -22,7 +22,7 @@ in direct encounters with numinous states of consciousness.
 
 The historical pattern in which indigenous visionary agents are consumed
 ritually to induce theophany and religious solidarity appears across
-cultures and epochs. In ancient Greece, the classic Eleusinian Mystery cult
+cultures and epochs. In ancient Greece, the classic [[mckenna-eleusinian-mystery-and-psychedelic-sacrament]] cult
 echoed the scenario occurring at Mesoamerican temples. The mystery rites at
 Eleusis near Athens centred around the drinking of a secret potion that
 granted a numinous vision to initiates, the entire sacred ceremony taking
@@ -38,7 +38,7 @@ were sacred sites where the ritual ingestion of entheogens took place.
 
 ## The Aztec Mushroom Cult
 
-The Aztec use of psilocybin mushrooms is the best documented of all
+The Aztec use of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] is the best documented of all
 Mesoamerican entheogenic practices. The mushrooms were referred to as
 teonanacatl, meaning "flesh of the gods," and were consumed in elaborate
 ceremonial contexts to induce visionary states and commune with the divine.
@@ -86,7 +86,7 @@ ideology. Their historical influence can never be overestimated.
 Powell traces a consistent pattern of fearful reactions to entheogenic
 knowledge throughout history. The Spanish friars who denounced Aztec mushroom
 use, the medieval Inquisitors who burned witches, and modern authorities
-who prohibited psychedelic research all share a common trait: they possess a
+who prohibited [[mckenna-suppression-psychedelic-research-lsd-therapy]] all share a common trait: they possess a
 rigidly established mental model of reality that is threatened by the
 entheogenic experience. An open-minded approach to psilocybin is therefore
 essential if it is to have a beneficial effect. The experience must be
@@ -100,7 +100,7 @@ statue of the Aztec god Xochipilli, or "The Prince of Flowers." The statue
 depicts a cross-legged male figure caught up in an ecstatic trance. Upon
 close examination by Wasson and ethnobotanist R.E. Schultes, the carved
 "flowers" were identified as psychoactive species including Nicotiana tabacum,
-Turbina corymbosa (morning glory), and Heimia salicifolia. Wasson regarded
+[[plants-of-the-gods-turbina-corymbosa-ololiuqui]] (morning glory), and [[sinicuichi-heimia-salicifolia-auditory-hallucinogen]]. Wasson regarded
 the statue as a "cultural Rosetta Stone," bypassing the theological
 preconceptions of the Spanish friars and speaking directly with the voice of
 the pre-Conquest Aztecs.

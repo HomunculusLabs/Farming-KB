@@ -1,5 +1,5 @@
 ---
-title: Natural Protective Forests for Farm Design
+title: Natural natural-farm-establishment-protective-forests-and-windbreaks for Farm Design
 created: 2026-04-28
 tags: [fukuoka, appendix, farm-design, agroforestry, windbreaks]
 date: 2026-04-28
@@ -12,7 +12,7 @@ type: concept
 # Natural Protective Forests for Farm Design
 
 Appendix A of *Sowing Seeds in the Desert* provides detailed guidance for
-creating natural protective forests as part of a [[fukuoka-soil-self-improvement-without-tillage]].
+[[fukuoka-creating-natural-farm-site-selection-establishment]] protective forests as part of a [[fukuoka-soil-self-improvement-without-tillage]].
 
 3. **Forest nutrient flow**: Causing rainwater to flow over the farm from
    wooded slopes above carries nutrients from the humus-rich forest soil. The
@@ -27,7 +27,7 @@ forested hills are present, new woods or bamboo thickets should be created. The
 protective forest should contain a mixture of trees, shrubs, and ground cover
 plants selected for multiple purposes:
 
-- **Fuel and building materials**: Trees providing wood for construction and
+- **Fuel and [[natural-building-materials-guide]]**: Trees providing wood for construction and
   heating
 - **Habitat**: Plants supporting birds, insects, and wildlife that contribute
   to [[fukuoka-black-wattle-fertilizer-tree-method]], though care
@@ -43,7 +43,7 @@ as bush clover (*Lespedeza spp.*) and *Eurya japonica* will grow densely.
 gradually replaced by a succession of other species. Miscellaneous trees begin
 growing from seeds deposited by plants, animals, birds, and wind.
 
-**Hillside tree selection:** Plant evergreens such as hinoki cypress
+**Hillside [[hamilton-fruit-tree-selection-pollination]]:** Plant evergreens such as hinoki cypress
 (*Chamaecyparis obtusa*) and camphor, mixed with Chinese nettle tree (*Celtis
 sinensis*), Japanese zelkova (*Zelkova serrata*), paulownia (*Paulownia
 tomentosa*), cherry, maple, and eucalyptus.
@@ -54,11 +54,11 @@ ginkgo among evergreens such as Japanese cedar (*Cryptomeria japonica*) and oak.
 ## The Role of Bamboo
 
 Bamboo groves are highlighted as especially valuable components of protective
-forests. Bamboo grows to full height from shoots in a single growing season,
+forests. Bamboo grows to full height from shoots in a single [[savory-growing-season-and-non-growing-season-management]],
 with a volume of growth exceeding that of typical woody trees. Moso bamboo
 (*Phyllostachys edulis*) shoots are edible. When dried, stalks are light and
 easy to carry. Most importantly, bamboo decomposes slowly when buried, making
-it very effective for holding water and air in the soil. The organic matter
+it very effective for holding water and air in the soil. The [[hamilton-composting-and-organic-matter-management]]
 produced by its decomposition is excellent for improving soil structure.
 
 ## Windbreaks

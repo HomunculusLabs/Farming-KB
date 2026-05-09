@@ -4,12 +4,13 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [soil, ph, minerals, fertility, nutrients, methods, plant-growth, troubleshooting]
-sources: []
+sources:
+  sources: []
 ---
 
 # Soil pH Management
 
-Soil pH is the master variable controlling nutrient availability, microbial activity, and root health. It measures hydrogen ion concentration on a scale of 0-14, with 7 being neutral. Most crops prefer a slightly acidic range of 6.0-7.0, but optimal ranges vary significantly by species and soil type. Managing pH is the single most impactful chemical adjustment a grower can make.
+Soil pH is the master variable controlling [[ph-and-nutrient-availability-garden-soils]], microbial activity, and root health. It measures hydrogen ion concentration on a scale of 0-14, with 7 being neutral. Most crops prefer a slightly acidic range of 6.0-7.0, but optimal ranges vary significantly by species and soil type. Managing pH is the single most impactful chemical adjustment a grower can make.
 
 ## Why pH Matters
 
@@ -17,7 +18,7 @@ Soil pH is the master variable controlling nutrient availability, microbial acti
 - **Microbial activity**: Soil bacteria peak around pH 6.3-6.8, while fungi tolerate a wider range. Extreme pH suppresses the [[soil-food-web-nutrient-cycling]] and decomposition rates.
 - **Toxic element solubility**: At low pH (<5.5), aluminum and manganese become toxic to roots. At high pH (>7.5), iron, zinc, and boron become deficient.
 - **Herbicide and pesticide efficacy**: Many agrochemicals perform differently at different pH levels.
-- **Mycorrhizal colonization**: Most arbuscular mycorrhizal fungi prefer pH 5.5-7.0. Outside this range, colonization rates drop significantly.
+- **[[arbuscular-mycorrhizal-colonization-patterns]]**: Most [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi prefer pH 5.5-7.0. Outside this range, colonization rates drop significantly.
 
 ## Ideal pH Ranges by Crop Category
 
@@ -81,7 +82,7 @@ KNF practitioners sometimes use diluted brown rice vinegar or [[brown-rice-vineg
 
 Buffering capacity is the soil's resistance to pH change. It is primarily determined by:
 
-- **CEC (Cation Exchange Capacity)**: High-CEC soils (clay, humus-rich) resist pH change more than low-CEC soils (sand). See [[interpreting-soil-test-results]].
+- **CEC ([[mollison-designers-tropical-soils-and-cation-exchange-management]] Capacity)**: High-CEC soils (clay, humus-rich) resist pH change more than low-CEC soils (sand). See [[interpreting-soil-test-results]].
 - **Organic matter content**: High OM soils have greater buffering. This is one reason [[composting-systems]] are critical for pH stability.
 - **Parent material**: Soils derived from limestone are naturally buffered at higher pH.
 - **Carbonate content**: Free calcium carbonates in the soil act as a pH buffer.
@@ -125,7 +126,7 @@ See [[soil-health-indicators]] for more biological indicators.
 In no-till and living soil approaches, pH is managed through biological processes rather than chemical amendments:
 
 - Microbial respiration produces CO2 which forms carbonic acid, slightly lowering pH in the root zone
-- Mycorrhizal exudates create localized pH conditions favorable to nutrient uptake
+- [[singh-mycorrhizal-exudates-root-exudate-interactions]] create localized pH conditions favorable to nutrient uptake
 - Organic matter decomposition releases organic acids that buffer soil pH
 - Regular [[compost-tea-aact]] applications support microbial communities that regulate pH
 
@@ -137,7 +138,7 @@ The goal is to build a self-regulating system where pH stays within the optimal 
 |---|---|---|
 | Interveinal chlorosis (yellow leaves, green veins) | High pH causing iron/manganese lockout | Lower pH with sulfur; foliar feed Fe |
 | Poor growth despite adequate NPK | pH outside optimal range | Test pH; adjust with lime or sulfur |
-| Nutrient deficiency symptoms in patches | Uneven liming or amendment distribution | Re-test affected areas; apply targeted correction |
+| [[cannabis-grow-nutrient-deficiency-problem-solving]] symptoms in patches | Uneven liming or amendment distribution | Re-test affected areas; apply targeted correction |
 | pH keeps dropping despite liming | High rainfall leaching Ca; low CEC sandy soil | Increase organic matter; use slower-release lime (oyster shell); split applications |
 | pH too high despite sulfur additions | High carbonate parent material; poor drainage | Address drainage; use acidifying organic matter (peat, pine); consider raised beds |
 

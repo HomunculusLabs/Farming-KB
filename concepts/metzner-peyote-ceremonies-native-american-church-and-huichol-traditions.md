@@ -1,5 +1,5 @@
 ---
-title: "Peyote Ceremonies: Native American Church and Huichol Traditions"
+title: "metzner peyote ceremonies native american church and huichol traditions: halpern-sacramental-peyote-and-native-american-church Church and Huichol Traditions"
 created: 2026-04-28
 tags:
   - peyote
@@ -54,7 +54,7 @@ take precedence over individual healing or divination.
 ## Huichol Peyote Pilgrimage and Ceremony
 
 The Huichol (Wixaritari) Indians of northern Mexico maintain a peyote
-tradition that follows a more explicitly shamanic healing model. Their
+tradition that follows a more explicitly [[metzner-shamanic-healing-and-divination-paradigm]] model. Their
 practice involves careful and lengthy apprenticeships for curanderos, and
 centers on an arduous group pilgrimage to the sacred land of Wirikuta to
 find and harvest the rare cactus. The actual ceremonies take place around
@@ -90,7 +90,7 @@ or low light, since participants may see visions while staring into the
 central fire.
 
 The ceremonial elements of the peyote traditions map directly onto the
-set and setting hypothesis that Metzner traces to Timothy Leary. The
+set and [[metzner-set-and-setting-hypothesis-origins-and-extensions]] that Metzner traces to Timothy Leary. The
 "set" is established through the spiritual intentions, prayers, and
 sacred context of the ceremony, while the "setting" is constructed through
 the physical arrangement of the tipi or ceremonial space, the fire, the
@@ -107,7 +107,7 @@ divination. The Huichol tradition aligns more closely with the second
 paradigm of shamanic rituals of healing and divination, involving
 careful apprenticeship and a direct relationship between healer and
 seeker. Both traditions share the foundational shamanic belief in
-multiple realities and spirit beings that Metzner identifies as the
+[[metzner-spirit-beings-multiple-realities-entheogens]] and spirit beings that Metzner identifies as the
 radical difference between indigenous and Western worldviews.
 
 ## See Also
@@ -115,7 +115,7 @@ radical difference between indigenous and Western worldviews.
 - [[halpern-sacramental-peyote-and-native-american-church]]
 - [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]]
 
-- Metzner Four Paradigms of Entheogenic Healing
+- Metzner Four Paradigms of [[shamanic-entheogenic-healing-rituals]]
 - [[metzner-syncretic-entheogenic-folk-ceremonies]]
 - Shamanic Healing and Divination
 - Set and Setting Hypothesis

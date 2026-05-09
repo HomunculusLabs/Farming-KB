@@ -1,5 +1,5 @@
 ---
-title: "Fungal Siderophore Detection and Analytical Methods"
+title: "Fungal fungal siderophore detection analytical methods and Analytical Methods"
 created: 2026-04-28
 tags: [siderophores, analytical-methods, mycorrhiza, HPLC, mass-spectrometry]
 date: 2026-04-25
@@ -12,7 +12,7 @@ type: concept
 # Fungal Siderophore Detection and Analytical Methods
 
 The identification and characterization of fungal siderophores requires a
-combination of bioassays, chemical detection methods, chromatographic
+combination of bioassays, chemical [[singh-detection-methods-degrading-fungi-environment]], chromatographic
 separation techniques, and spectroscopic structural elucidation. This
 methodological toolkit has been progressively refined to accommodate the
 diverse structural families of siderophores produced by mycorrhizal and
@@ -20,7 +20,7 @@ other fungi, ranging from peptidic hydroxamates to polycarboxylate
 compounds. Reliable detection methods are essential for understanding the
 role of siderophores in [[fungal-siderophore-structures-classification]] for structural families
 - [[siderophores-mycorrhizal-fungi]] for ecological context
-- [[ectomycorrhizal-fungal-ecology]] for fungal ecology applications
+- [[ectomycorrhizal-fungal-ecology]] for [[gadd-fungal-ecology-endophytes]] applications
 ## Practical Applications
 
 Fungal Siderophore Detection and Analytical Methods has a range of practical applications that make it relevant to
@@ -98,4 +98,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

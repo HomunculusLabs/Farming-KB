@@ -12,14 +12,14 @@ updated: 2026-04-26
 
 ## Overview
 
-Fungi are heterotrophic organisms that obtain their carbon and energy from organic matter produced by other organisms. Unlike animals, which ingest food internally before digestion, fungi digest their food externally by secreting enzymes into the surrounding environment and then absorbing the resulting small molecules across their cell membranes. This absorptive mode of nutrition, combined with the extensive surface area provided by the mycelial network, makes fungi extraordinarily efficient decomposers and recyclers of organic matter in virtually all ecosystems.
+Fungi are heterotrophic organisms that obtain their carbon and energy from organic matter produced by other organisms. Unlike animals, which ingest food internally before digestion, fungi digest their food externally by secreting enzymes into the surrounding environment and then absorbing the resulting small molecules across their cell membranes. This absorptive mode of nutrition, combined with the extensive surface area provided by the [[gadd-mycelial-network-dynamics]], makes fungi extraordinarily efficient decomposers and recyclers of organic matter in virtually all ecosystems.
 
 ## Modes of Nutrition
 
 Fungi employ three primary nutritional strategies:
 
 - **Saprotrophic nutrition**: The majority of described fungal species are saprotrophs, obtaining nutrients from dead organic matter. Saprotrophic fungi are the principal agents of decomposition in most terrestrial ecosystems, breaking down plant litter, wood, and other organic materials.
-- **Biotrophic (mutualistic) nutrition**: Mycorrhizal fungi and some endophytes form mutualistic associations with living plants, receiving carbohydrates from the host in exchange for mineral nutrients, water, or protection.
+- **Biotrophic (mutualistic) nutrition**: [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] and some endophytes form mutualistic associations with living plants, receiving carbohydrates from the host in exchange for mineral nutrients, water, or protection.
 - **Biotrophic (parasitic) nutrition**: Pathogenic fungi derive nutrients from living host organisms, often through specialized infection structures such as haustoria or appressoria.
 
 Many fungi can switch between nutritional modes depending on environmental conditions and substrate availability. Some species are obligate specialists, while others are facultative generalists capable of utilizing a wide range of substrates.
@@ -32,8 +32,8 @@ Fungi can utilize a remarkable diversity of carbon compounds as energy sources:
 - **Polysaccharides**: Starch, glycogen, pectin, hemicellulose, cellulose, and chitin require extracellular enzymatic degradation before their component sugars can be absorbed.
 - **Lignin**: The second most abundant biopolymer on Earth after cellulose, lignin is a complex, irregular polymer of phenylpropanoid units. Only certain basidiomycetes (white-rot and some brown-rot fungi) possess the enzymatic machinery to degrade lignin.
 - **Lipids and waxes**: Many soil fungi can degrade lipids through the production of lipases. Cutinases break down the waxy cuticle of plant surfaces.
-- **Aromatic compounds**: Some fungi can metabolize aromatic hydrocarbons, including polycyclic aromatic hydrocarbons (PAHs) and xenobiotic pollutants, making them important agents in bioremediation.
-- **Humic substances**: Highly recalcitrant organic compounds that accumulate in soil over centuries to millennia. Some specialized fungi can partially decompose humic acids.
+- **Aromatic compounds**: Some fungi can metabolize aromatic hydrocarbons, including [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs) and xenobiotic pollutants, making them important agents in bioremediation.
+- **Humic substances**: Highly recalcitrant [[fungal-volatile-organic-compounds-communication]] that accumulate in soil over centuries to millennia. Some specialized fungi can partially decompose humic acids.
 
 Fungi are fundamentally aerobic organisms, relying on oxidative phosphorylation for efficient ATP production. However, many fungi can also ferment sugars under anaerobic conditions, producing ethanol and other fermentation products. Obligate fermenting yeasts (e.g., Saccharomyces cerevisiae) have lost the ability to respire aerobically in the presence of excess glucose (the Crabtree effect). A few fungi are facultative anaerobes, while rumen chytrids are obligate anaerobes adapted to the oxygen-free environment of the animal digestive tract.
 
@@ -49,7 +49,7 @@ Cellulose, a linear polymer of beta-1,4-linked glucose units, is the most abunda
 - **Exoglucanases (cellobiohydrolases)**: Processively remove cellobiose (disaccharide) units from the reducing or non-reducing ends of cellulose chains.
 - **Beta-glucosidases**: Hydrolyze cellobiose and other short cello-oligosaccharides to glucose, relieving end-product inhibition of the other cellulase components.
 
-Phanerochaete chrysosporium and other white-rot fungi possess multiple genes encoding cellobiohydrolase isozymes (cel7D and related genes), which are differentially expressed depending on substrate and environmental conditions.
+[[staycare-phanerochaete-chrysosporium-in-bioremediation]] and other white-rot fungi possess multiple genes encoding cellobiohydrolase isozymes (cel7D and related genes), which are differentially expressed depending on substrate and environmental conditions.
 
 ### Lignin Degradation
 
@@ -71,7 +71,7 @@ Lignin degradation is largely restricted to white-rot basidiomycetes and require
 
 ## Nitrogen Metabolism
 
-Fungi can utilize a wide range of nitrogen sources. Most fungi preferentially assimilate ammonium and amino acids, but many can also use nitrate through nitrate reductase and nitrite reductase pathways. Some fungi are capable of fixing atmospheric nitrogen indirectly through associations with nitrogen-fixing bacteria, and mycorrhizal fungi play a critical role in nitrogen cycling by transferring nitrogen from soil to their host plants.
+Fungi can utilize a wide range of nitrogen sources. Most fungi preferentially assimilate ammonium and amino acids, but many can also use nitrate through nitrate reductase and nitrite reductase pathways. Some fungi are capable of fixing atmospheric nitrogen indirectly through associations with nitrogen-fixing bacteria, and mycorrhizal fungi play a critical role in [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]] by transferring nitrogen from soil to their host plants.
 
 ## Enzyme Gene Expression in the Environment
 
@@ -79,10 +79,10 @@ Studies using competitive RT-PCR have shown that fungal enzyme gene expression p
 
 ## See Also
 
-- [[cellulase-enzyme-systems-in-fungi]]
+- cellulase-enzyme-systems-in-fungi
 - [[soil-food-web-nutrient-cycling]]
 
-- [[fungal-chitin-decomposition-nutrient-cycling]]
-- [[fungal-lignocellulose-degradation-mechanisms]]
+- fungal-chitin-decomposition-nutrient-cycling
+- fungal-lignocellulose-degradation-mechanisms
 - [[gadd-fungal-ecology-saprotrophs]]
 - [[gadd-fungal-biodegradation-bioremediation]]

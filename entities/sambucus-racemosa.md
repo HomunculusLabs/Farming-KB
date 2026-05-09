@@ -11,16 +11,16 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada. New York Botanical Garden.
-  - Moerman, D.E. (1998). Native American Ethnobotany. Timber Press.
-  - Charlebois, D. & Byers, P.L. (2000). "Elderberry (Sambucus) production guide." University of Missouri Extension.
+  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern dmt-containing-plants-united-states-halpern and Adjacent Canada. New York Botanical Garden.
+  - Moerman, D.E. (1998). [[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany. Timber Press.
+  - Charlebois, D. & Byers, P.L. (2000). "Elderberry (Sambucus) [[comparison-biochar-production-guide-vs-biochar-soil-amendment]]." University of Missouri Extension.
   - USDA NRCS (2024). Plant Profile: Sambucus racemosa. plants.usda.gov.
   - Dirr, M.A. (2009). Manual of Woody Landscape Plants. Stipes Publishing.
 ---
 
 ## Overview
 
-**Sambucus racemosa**, commonly known as red elderberry, is a deciduous shrub in the family Adoxaceae native to cool-temperate regions of North America, Europe, and Asia. It is one of the most widely distributed elderberry species, with a circumboreal range.
+**Sambucus racemosa**, commonly known as red elderberry, is a deciduous shrub in the family Adoxaceae native to cool-temperate regions of [[psilocybin-north-america-pacific-northwest]], Europe, and Asia. It is one of the most widely distributed elderberry species, with a circumboreal range.
 
 The species is distinguished from the more familiar common elderberry (*Sambucus nigra* ssp. *canadensis*) by its earlier flowering time, cone-shaped flower clusters, and bright red fruits. Red elderberry typically blooms 2–4 weeks earlier than blue or black elderberry species.
 
@@ -48,7 +48,7 @@ The genus *Sambucus* contains approximately 25–30 species distributed across t
 
 Red elderberry has a broad circumboreal distribution. In North America, it ranges from Alaska across Canada to Newfoundland, south through the Rocky Mountains to New Mexico, and in the Appalachians to North Carolina and Tennessee.
 
-The species is also native to Europe, Siberia, and eastern Asia. Several varieties have been described, with North American plants sometimes treated as *Sambucus racemosa* var. *pubens*.
+The species is also native to Europe, Siberia, and eastern Asia. Several varieties have been described, with [[growing-gourmet-north-american-reishi-species]] plants sometimes treated as *Sambucus racemosa* var. *pubens*.
 
 Red elderberry grows in moist to mesic forests, forest openings, riparian corridors, subalpine meadows, and avalanche tracks. It is a common early-successional species along streambanks and roadcuts.
 
@@ -82,7 +82,7 @@ Red elderberry is occasionally cultivated for ornamental and wildlife plantings.
 
 Propagation is by seed (requires cold stratification), softwood cuttings, or division of root suckers. The species establishes readily and requires minimal maintenance once planted.
 
-It is valued in native plant landscaping for its early spring flowers, bright red fruit display, and wildlife attraction. The compact cultivar 'Sutherland Gold' has golden-yellow foliage.
+It is valued in native plant landscaping for its [[coleman-overwintered-onions-and-early-spring-crops]] flowers, bright red fruit display, and wildlife attraction. The compact cultivar 'Sutherland Gold' has golden-yellow foliage.
 
 Red elderberry is not widely grown commercially for fruit production, as the smaller berry size and earlier ripening make mechanical harvesting impractical compared to black elderberry species.
 

@@ -1,5 +1,5 @@
 ---
-title: "Golden Guide: Syrian Rue and MAOI Plants"
+title: "Golden Guide: golden guide syrian rue and maoi plants and MAOI Plants"
 created: 2026-04-28
 tags: [hallucinogenic-plants, syrian-rue, maoi, harmala, harmine, harmaline,
   peganum, zygophyllaceae, beta-carbolines, ethnobotany, ayahuasca]
@@ -99,14 +99,14 @@ profiles.
 This pharmacological parallel between Syrian Rue and ayahuasca represents
 one of the most fascinating examples of convergent discovery in
 ethnopharmacology. The peoples of the Amazon independently discovered that
-beta-carboline-containing plants could activate the oral activity of DMT,
+beta-carboline-containing plants could activate the [[tihkal-oral-activity-mao-inhibition]] of DMT,
 while peoples across Asia and the Middle East had access to a plant with
 the same class of compounds. Whether traditional cultures ever combined
 Syrian Rue with DMT-containing plants remains an open question.
 
 ## Other MAOI-Containing Plants
 
-While Syrian Rue is the most well-known Old World plant containing
+While Syrian Rue is the most well-known [[datura-metel-old-world-ethnobotany]] plant containing
 beta-carboline MAOI alkaloids, other plants in the same chemical category
 exist. *Banisteriopsis caapi* and related species from the Amazon are the
 most important New World MAOI plants, used as the basis of ayahuasca. See
@@ -117,5 +117,5 @@ most important New World MAOI plants, used as the basis of ayahuasca. See
 - [[beta-carboline-alkaloids]], [[ayahuasca-botany-and-preparation]], [[syrian-rue-peganum-harmala-ethnobotany]] for related chemistry and ethnobotany.
 
 [[mao-inhibitors-and-psychedelics]] — pharmacology of MAO inhibition and its interaction with psychedelic tryptamines
-[[naranjo-harmaline-yage-experiment]] — Claudio Naranjo's clinical research on harmaline and its visionary effects
+[[naranjo-harmaline-yage-experiment]] — Claudio Naranjo's [[hofmann-lsd-clinical-research-early-studies]] on harmaline and its visionary effects
 [[ethnobotany-of-psychedelic-fungi]] — broader ethnobotanical context for psychoactive plant use across cultures

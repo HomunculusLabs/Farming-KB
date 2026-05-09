@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Terence McKenna (1992). "Food of the Gods: The Search for the Original Tree of Knowledge." Bantam Books.
-  - R. Gordon Wasson, Albert Hofmann, Carl A. P. Ruck (1978). "The Road to Eleusis: Unveiling the Secret of the Mysteries." Harcourt Brace Jovanovich.
+  - R. Gordon Wasson, Albert Hofmann, Carl A. P. Ruck (1978). "The [[the-road-to-eleusis-wasson-hofmann-ruck]]: Unveiling the Secret of the Mysteries." Harcourt Brace Jovanovich.
 ---
 
 # Ergotized Beer Theory
@@ -19,10 +19,10 @@ sources:
 ## Overview
 
 The ergotized beer theory proposes that the kykeon — the sacred potion
-consumed during the Eleusinian Mysteries of ancient Greece — was a beer
+consumed during the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] of ancient Greece — was a beer
 brewed from barley infected with [[claviceps-paspali]]*, which preferentially infects barley instead
 of rye, may contain a higher proportion of psychoactive but less toxic
-simple ergot alkaloids (similar to those in morning glories) and a lower
+simple ergot alkaloids (similar to those in [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]]) and a lower
 proportion of the toxic peptide-containing ergot alkaloids.
 
 Second, macerating the ergotized grain in water would effectively
@@ -52,7 +52,7 @@ device.
 
 ## Legacy
 
-With the passing of Eleusis, the great river of partnership society,
+With the passing of Eleusis, the great river of [[mckenna-dominator-vs-partnership-society-model]],
 Goddess worship, and hallucinogenic ecstasy that had flowed for over ten
 thousand years sank into the chthonic realm of forgotten religions. The
 Christian triumph ended the glorification of nature as a supreme
@@ -63,7 +63,7 @@ and patriarchy in its place.
 - [[claviceps-purpurea]]
 - kykeon
 - [[lsd]]
-- dominator culture
+- [[mckenna-dominator-culture-and-suppression-of-ecstasy]]
 ## Practical Considerations
 
 Successful implementation of Ergotized Beer Theory requires attention to
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

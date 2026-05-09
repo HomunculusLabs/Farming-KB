@@ -9,7 +9,7 @@ sources: [raw/books/stamets-p-mycelium-running.md]
 
 # Mycofiltration Membrane Construction
 
-Building fungal filter membranes for water purification and erosion control
+Building fungal filter membranes for water purification and [[permplant-willows-salix-erosion-control-fodder]]
 
 ## Overview
 
@@ -66,7 +66,7 @@ and oysters commercially.
 
 Installation: Several truckloads of wood chips (from utility company tree
 trimming) were dumped into the depression. On top of each dump load,
-Stropharia rugoso annulata spawn was spread and raked into a foot-deep
+Stropharia [[stropharia-rugoso-annulata-mycofiltration]] spawn was spread and raked into a foot-deep
 layer. Springwater saturated the wood chips. Several months later, a garden
 giant mycelial bed approximately 50 feet wide and 200 feet long was
 established.
@@ -111,18 +111,18 @@ passing into downstream environments.
 
 ## Mycelium's Physical Properties
 
-The tenacity of mycelial networks is extraordinary. A single rhizomorph
+The tenacity of [[fungal-mycelial-networks-nutrient-translocation]] is extraordinary. A single rhizomorph
 thread weighing 0.002 grams can hold dowels weighing 6.079 grams, meaning
 the rhizomorph supported 3,029 times its mass. When 90 percent of the
 rhizomorph was cut away, it still supported the wooden dowels -- meaning
 it can hold more than 30,000 times its mass. This places into perspective
-how tenacious mycelial mats can be when they infuse habitats with their
+how tenacious [[singh-mycelial-mats-and-biological-soil-crusts]] can be when they infuse habitats with their
 cellular networks. They grip a habitat and hold it tightly, stabilizing and
 protecting it from erosion.
 
 ## Integration with Other Systems
 
-Mycofiltration is a natural upland complement to John Todd's "living
+Mycofiltration is a [[fukuoka-natural-upland-rice-minor-grains]] complement to John Todd's "living
 machine" (the use of estuary ecosystems to break down toxic wastes) and Bill
 Mollison's permaculture practices. All these systems use synergism of
 biological communities and gain strength from biodiversity. Mycorestoration,
@@ -131,7 +131,7 @@ model of habitat restoration.
 
 ## Source
 
-Mycelium Running by Paul Stamets, Chapter 5: Mycofiltration
+[[woodlovers-mycelium-running-pathway-technique]] by Paul Stamets, Chapter 5: Mycofiltration
 
 ## See Also
 

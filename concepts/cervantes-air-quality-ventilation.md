@@ -10,7 +10,7 @@ updated: 2026-04-26
 
 # Air Quality and Ventilation
 
-Good air quality and ventilation are essential for healthy cannabis growth. Plants need fresh air containing CO2 and oxygen. Stale, humid air promotes mold, disease, and slow growth. A well-designed ventilation system is as important as lighting and nutrients.
+Good air quality and ventilation are essential for [[query-how-to-manage-ph-for-healthy-cannabis-plants]] growth. Plants need fresh air containing CO2 and oxygen. Stale, humid air promotes mold, disease, and slow growth. A well-designed ventilation system is as important as lighting and nutrients.
 
 ## Importance of Ventilation
 
@@ -36,7 +36,7 @@ Oscillating fans circulating within the grow room are essential. They prevent ho
 
 Cannabis produces a strong, distinctive odor during flowering that can travel far. Carbon filters are the most effective odor control method. Connect a carbon filter to the exhaust fan so all air leaving the room passes through activated carbon. Carbon filters must be matched to the fan's cfm rating to work effectively. Replace carbon filters every 12-18 months depending on use. Inline carbon filters reduce airflow slightly; account for this when sizing fans.
 
-Other odor control methods include ozone generators, ONA (odor neutralizing agents), and negative ion generators. These can supplement carbon filtration but are generally less effective on their own. Sealing the grow room and maintaining negative air pressure (exhaust pulls harder than intake pushes) prevents odor from escaping through cracks and openings.
+Other odor control methods include [[cervantes-ozone-generators-negative-ion-odor]], ONA (odor neutralizing agents), and negative ion generators. These can supplement carbon filtration but are generally less effective on their own. Sealing the grow room and maintaining negative air pressure (exhaust pulls harder than intake pushes) prevents odor from escaping through cracks and openings.
 
 ## Temperature Control
 
@@ -44,7 +44,7 @@ Ventilation is the primary tool for temperature management. In warm climates, th
 
 ## Humidity Management
 
-Ventilation removes humid air and replaces it with drier fresh air. During vegetative growth, humidity can be higher (50-70 percent). During flowering, lower humidity (40-50 percent) is preferred to prevent bud mold. In humid climates, a dehumidifier may be necessary in addition to ventilation. In dry climates, humidifiers can add moisture. Avoid humidity extremes; both too high and too low cause problems.
+Ventilation removes humid air and replaces it with drier fresh air. During [[cannabis-vegetative-growth-stage]], humidity can be higher (50-70 percent). During flowering, lower humidity (40-50 percent) is preferred to prevent bud mold. In humid climates, a dehumidifier may be necessary in addition to ventilation. In dry climates, humidifiers can add moisture. Avoid humidity extremes; both too high and too low cause problems.
 
 ## CO2 and Ventilation
 
@@ -52,7 +52,7 @@ If using CO2 enrichment, ventilation timing must be coordinated carefully. CO2-e
 
 ## Greenhouse Ventilation
 
-Greenhouses require even more attention to ventilation because solar gain can cause rapid temperature spikes. Roof vents, side vents, and exhaust fans must work together. Calculate greenhouse ventilation capacity by multiplying floor area by height and aiming for 60 air changes per hour. Evaporative cooling systems work well in dry climates to supplement fan-based ventilation.
+Greenhouses require even more attention to ventilation because solar gain can cause rapid temperature spikes. Roof vents, side vents, and exhaust fans must work together. Calculate greenhouse ventilation capacity by multiplying floor area by height and aiming for 60 air changes per hour. [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]] systems work well in dry climates to supplement fan-based ventilation.
 
 ## Negative Pressure
 
@@ -72,7 +72,7 @@ For grow rooms, size the exhaust fan to provide at least one air exchange per mi
 
 ## Sealed Room vs. Ventilated Room
 
-Two main approaches to grow room ventilation exist: sealed rooms and ventilated rooms. Sealed rooms use air conditioning and CO2 supplementation with no air exchange to the outside, allowing precise control of temperature, humidity, and CO2 levels. Ventilated rooms exchange air with the outside, which is simpler and less expensive but offers less environmental control. Sealed rooms are preferred for commercial operations and growers using CO2 enrichment, while ventilated rooms work well for hobbyists and those on a budget. Hybrid approaches that use partial air exchange combined with supplemental dehumidification are also common.
+Two main approaches to grow [[growing-gourmet-growing-room-ventilation-air-exchange]] exist: sealed rooms and ventilated rooms. Sealed rooms use air conditioning and CO2 supplementation with no air exchange to the outside, allowing precise control of temperature, humidity, and CO2 levels. Ventilated rooms exchange air with the outside, which is simpler and less expensive but offers less [[eclss-environmental-control-life-support]]. Sealed rooms are preferred for commercial operations and growers using CO2 enrichment, while ventilated rooms work well for hobbyists and those on a budget. Hybrid approaches that use partial air exchange combined with supplemental dehumidification are also common.
 
 ## See Also
 

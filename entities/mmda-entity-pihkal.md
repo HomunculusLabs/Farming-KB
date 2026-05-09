@@ -1,5 +1,5 @@
 ---
-title: "MMDA (3-METHOXY-4,5-METHYLENEDIOXYAMPHETAMINE) -- PIHKAL Entry #132"
+title: "MMDA (3-METHOXY-4,5-METHYLENEDIOXYAMPHETAMINE) -- 2c-b-pihkal-entry-20 #132"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -92,7 +92,7 @@ synthesized it in 1962, had also named it MMDA, and had also begun
 exploring it. We made a date to meet and share ideas, and then he
 died, at the age of 62, in 1963.
 This is a material that might be a contributing factor to the
-pharmacology of nutmeg. The major essential oil from that spice is
+pharmacology of nutmeg. The major [[permaculture-designers-manual-essential-oil-plants]] from that spice is
 myristicin, and it is the easiest source of MMDA. It has been
 reported that the passage of this oil through the liver of a rabbit
 will generate MMDA in that animal. The only difference between the
@@ -123,7 +123,7 @@ elemental bromine. The reaction spontaneously heated to about 30 deg C
 and solids appeared in about 5 min. Stirring was continued for 1 h,
 and then the light gray solids that had formed were removed by
 filtration and lightly washed with acetic acid. These were air dried
-on the steam bath until free of acetic acid smell. The product,
+on the [[scythian-cannabis-steam-bath-ritual]] until free of acetic acid smell. The product,
 3-bromo-4,5-dihydroxybenzaldehde, weighed 11.7 g and had a mp of 222
 deg C.
 To a solution of 11.7 g 3-bromo-4,5-dihydroxybenzaldehyde in 36 mL

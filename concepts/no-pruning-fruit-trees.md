@@ -1,10 +1,11 @@
 ---
-title: No Pruning Fruit Trees
+title: No comparison-pruning-fruit-trees-vs-grafting-fruit-trees Trees
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, fruit-tree, pruning, orchard, philosophy, methods]
-sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md, raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # No Pruning Fruit Trees
@@ -28,7 +29,7 @@ During his travels in Europe described in "The Road Back to Nature," Fukuoka obs
 
 **In Holland**: At the Nelissen Farm, he encountered "several hundred enormous apple and pear trees" that "had been left alone and had not fallen prey to bad pruning, so it seemed likely that they could easily be brought around to an excellent natural form within two or three years."
 
-**On the Mediterranean coast**: Fruit tree cultivation was found to be "not more advanced than in Japan," but growers had a "more easy-going approach, so if it were suggested that the trees be grown in a natural form rather than in the existing form, they were able to make the switch rather easily, both mentally and technically."
+**On the Mediterranean coast**: Fruit [[holzer-sweet-chestnut-and-nut-trees]] was found to be "not more advanced than in Japan," but growers had a "more easy-going approach, so if it were suggested that the trees be grown in a natural form rather than in the existing form, they were able to make the switch rather easily, both mentally and technically."
 
 **Grape vines**: Grown on wire trellises as in Japan, but "the vines are not heavily pruned and sometimes they are even trained on one or two stems without using trellises at all."
 
@@ -38,7 +39,7 @@ Fukuoka visited a follower named Thomas who operated a 75-acre natural farm call
 
 ## Restoring Trees to Natural Form
 
-For trees that have already been subjected to pruning, Fukuoka's approach was gradual correction over 2-3 years, guiding the tree back toward its natural shape. Trees that had "not fallen prey to bad pruning" were easiest to restore. The process involves selectively allowing certain branches to develop while letting the tree's natural growth habit reassert itself.
+For trees that have already been subjected to pruning, Fukuoka's approach was gradual correction over 2-3 years, guiding the tree back toward its natural shape. Trees that had "not fallen prey to bad pruning" were easiest to restore. The process involves selectively allowing certain branches to develop while letting the tree's [[ingham-natural-growth-regulators-soil-microbes]] habit reassert itself.
 
 ## Related
 
@@ -61,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +104,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

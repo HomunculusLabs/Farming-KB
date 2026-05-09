@@ -1,5 +1,5 @@
 ---
-title: "Termite and Ant Mounds as Niche Garden Sites in the Tropics"
+title: "mollison designers termite and ant mound niche gardening Mounds as Niche Garden Sites in the Tropics"
 created: 2026-04-26
 tags:
   - permaculture
@@ -33,7 +33,7 @@ very active in the transport of rotted rock and subsoil to the
 surface, in opening up galleries for the infiltration of water,
 and in the breakdown of woody and leafy plant material. Some
 species create large mounds, others build underground compost
-heaps for fungal culture, and all are active burrowers and
+heaps for [[biodiversity-fungal-culture-preservation]], and all are active burrowers and
 builders.
 
 ### Erosion Control and Forest Spread
@@ -60,7 +60,7 @@ aeration.
 
 In humid areas, a natural succession develops on termite mounds:
 tall grasses (Pennisetum, Eragrostis) are followed by shrubs such
-as castor oil bean, Prosopis, and thorny legumes. Finally, an
+as [[permaculture-castor-oil-plant]] bean, Prosopis, and thorny legumes. Finally, an
 understory and forest may develop from larger trees such as
 tamarind, Vitex, Sapium, or dominant palms. This process connects
 directly to [[mollison-tropical-mulch-systems-and-materials]] for more detail.
@@ -71,7 +71,7 @@ Termite and ant mound gardening connects to several broader
 permaculture strategies:
 
 - [[mollison-designers-tropical-terrace-design-and-earth-shaping]]
-- [[mollison-mulching-and-soil-health]]
+- mollison-mulching-and-soil-health
 
 The key insight is that termites and ants are allies, not enemies,
 in the tropical landscape. By understanding their mounding
@@ -82,3 +82,5 @@ by observation and local report, which useful crops or trees are
 left alone on mounds, which are attacked but remain productive,
 and which actually benefit by association with a local termite or
 ant species.
+## See Also
+- [[mollison-designers-day-length-and-flowering-response]]

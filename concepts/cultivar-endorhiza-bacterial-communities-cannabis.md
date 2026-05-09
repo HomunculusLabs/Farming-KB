@@ -1,5 +1,5 @@
 ---
-title: Cultivar Endorhiza Bacterial Communities Cannabis
+title: Cultivar core-endorhiza-bacterial-community-composition-cannabis Communities Cannabis
 created: 2026-04-28
 tags: [cannabis-microbiome, endorhiza, endophytic-bacteria, plant-microbe, cultivar-specificity]
 date: 2026-04-25
@@ -27,7 +27,7 @@ crop plants, as has been demonstrated for wines.
 ## Cultivars Studied
 
 ### Experiment 1 Cultivars
-- **[[cannabis-sativa]], high THC:CBD ratio
+- **[[cannabis-sativa]], high THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]]
 - **BooKoo Kush:** Sativa-dominant hybrid (sativa x indica), moderately high
   THC:CBD ratio
 - **Burmese:** Balanced hybrid (sativa x indica), moderate THC:CBD ratio
@@ -64,14 +64,14 @@ the slow-growing oligotrophs that dominate bulk soils.
 ## Soil Physicochemical Parameters
 
 Soil texture across experiments was defined as sandy loam with significant
-differences in clay content and other edaphic factors:
+differences in clay content and other [[soil-edaphic-factors-microbial-communities]]:
 
 | Soil | pH | Salinity | Total N | Total C | Water Content |
 |------|-----|----------|---------|---------|--------------|
 | MB.1 | 6.8-6.9 | 7.1-7.4 | 1.3-1.5% | 3.3-5.0% | 10-18% |
 | OC.2 | 6.77 | 1.73 | 0.53% | 20.0% | 37.1% |
 
-Orange County soil had dramatically higher total organic carbon (20.0% vs
+Orange County soil had dramatically higher total [[dighton-fungal-dissolved-organic-carbon-production]] (20.0% vs
 3.3-5.0%) and water content (37.1% vs 10-18%), demonstrating the significant
 edaphic variation between growing locations.
 
@@ -80,7 +80,7 @@ edaphic variation between growing locations.
 Cannabis cultivars maintain significantly different endorhiza communities even
 when controlling for soil type, suggesting endophytic bacteria may contribute
 to unique terroir characteristics. This parallels viticulture findings where
-soil edaphic factors contribute to wine characteristics beyond gaias garden humus.
+soil edaphic factors contribute to wine characteristics beyond gaias [[gaias-garden-humus-soil-chemistry]].
 
 ## Future Research Directions
 

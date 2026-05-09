@@ -1,5 +1,5 @@
 ---
-title: "Microscope Identification of Soil Biology"
+title: "ingham microscope identification soil biology of Soil Biology"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -50,13 +50,13 @@ Activity stains are critical: they differentiate organisms that are alive and pe
 
 Morphological ID of nematodes requires DIC microscopy and training. SFI offers training and accepts samples for identification.
 
-**Mycorrhizal colonization**: Assessed on root samples. VAM (vesicular-arbuscular mycorrhizae) is differentiated from ericoid and ectomycorrhizal associations. The percentage of root system with mycorrhizal colonization is measured, and disease fungi or necrotic conditions in roots are identified where possible.
+**[[arbuscular-mycorrhizal-colonization-patterns]]**: Assessed on root samples. VAM (vesicular-arbuscular mycorrhizae) is differentiated from ericoid and ectomycorrhizal associations. The percentage of root system with mycorrhizal colonization is measured, and disease fungi or necrotic conditions in roots are identified where possible.
 
 ## Hyphal Diameter as Health Indicator
 
 Literally the most beneficial species of fungi tend to have the widest diameter hyphae. A few pathogenic species have wide hyphae, but those conditions typically also select for narrow-diameter fungi. A sick soil's fungal community generally lacks wide-diameter hyphae.
 
-The average hyphal diameter of 2.5 micrometers or greater is the target for compost. Below this threshold, the fungal community may not provide adequate disease suppression, nutrient retention, or soil structure benefits.
+The average hyphal diameter of 2.5 micrometers or greater is the target for compost. Below this threshold, the fungal community may not provide adequate [[aact-disease-suppression-mechanisms-ingham]], nutrient retention, or soil structure benefits.
 
 ## Nematode Extraction
 
@@ -72,9 +72,9 @@ Samples can also be sent to SFI or to Oregon State Plant Clinic for professional
 
 ## Molecular Methods (Future)
 
-Molecular approaches using probe replication and fluorescent excitation can identify beneficial bacterial and fungal species. The equipment currently costs about $190,000 and there are repeatability issues. PCR isolation and probe development with specificity testing are required.
+[[staycare-molecular-approaches-fungal-bioremediation]] using probe replication and fluorescent excitation can identify beneficial [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] species. The equipment currently costs about $190,000 and there are repeatability issues. PCR isolation and probe development with specificity testing are required.
 
-Molecular methods are already used by SFI for nitrogen-fixation assessment and beneficial organism assays. Most pathogenic bacteria have multiple names depending on which plant they infect, making molecular identification essential for accurate disease diagnosis.
+Molecular methods are already used by SFI for nitrogen-fixation assessment and beneficial organism assays. Most pathogenic bacteria have multiple names depending on which plant they infect, making [[biodiversity-fungal-molecular-identification-dna-barcoding]] essential for accurate disease diagnosis.
 
 ## Pleomorphism
 
@@ -96,6 +96,8 @@ Some microorganisms can assume different forms throughout their life cycles. Kil
 If root-feeding nematodes (particularly lesion nematode) are detected, use non-host cover crops to reduce populations. With proper tea applications and non-host crop rotation, root-feeder populations can drop from approximately 100 per gram to undetectable levels in about 6 months.
 
 ## See Also
+
+- [[ingham-pleomorphism-microorganism-identification]]
 
 - [[ingham-leaf-surface-biology-exudates]]
 

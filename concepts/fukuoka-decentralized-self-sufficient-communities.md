@@ -5,7 +5,8 @@ updated: 2026-04-16
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Agriculture for Tomorrow -- Decentralized Self-Sufficient Communities
 
@@ -37,7 +38,7 @@ During his travels through America, Fukuoka observed that farmers who "plow fiel
 
 ## Natural Farming Transcends Past and Future
 
-A striking phrase from this section is Fukuoka's claim that [[fukuoka-desert-greening-projects]] and by establishing a community on his own farm. He encouraged young people to "set up a self-sufficient life for yourselves with natural farming in these hills and demonstrating just how enjoyable life can be without electrical energy." These experiments demonstrated that communities could produce abundant food without purchased inputs, machinery, or specialized knowledge.
+A striking phrase from this section is Fukuoka's claim that [[fukuoka-desert-greening-projects]] and by establishing a community on his own farm. He encouraged young people to "set up a self-sufficient life for yourselves with [[fukuoka-natural-farming-in-arid-regions]] these hills and demonstrating just how enjoyable life can be without electrical energy." These experiments demonstrated that communities could produce abundant food without purchased inputs, machinery, or specialized knowledge.
 
 ## The Role of Education
 
@@ -66,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

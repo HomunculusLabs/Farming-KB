@@ -10,11 +10,11 @@ sources:
 
 # LSD - Molecule of Perfection
 
-LSD (Lysergic acid diethylamide) is described by D.M. Turner as the "most transparent" of the psychedelics, having the least "signature" of any psychedelic substance. Intensity ranges from 3 to 7 for most experiences.
+LSD ([[ergot-and-lysergic-acid-history]] diethylamide) is described by D.M. Turner as the "most transparent" of the psychedelics, having the least "signature" of any psychedelic substance. Intensity ranges from 3 to 7 for most experiences.
 
 ## Material and History
 
-LSD is a synthetic compound derived from lysergic acid, found in Hawaiian Woodrose and Morning Glory seeds, or Ergot fungus which grows on rye, wheat, and other grains. Lysergic acid itself is psychoactive and has been consumed for millennia through these plant sources.
+LSD is a synthetic compound derived from lysergic acid, found in Hawaiian Woodrose and [[golden-guide-morning-glory-and-ololiuqui]] seeds, or Ergot fungus which grows on rye, wheat, and other grains. Lysergic acid itself is psychoactive and has been consumed for millennia through these plant sources.
 
 LSD was first synthesized in 1938 by Dr. Albert Hofmann of Sandoz Pharmaceutical Company in Switzerland. Hofmann was the first human to experience LSD when he inadvertently absorbed some through his fingertips in 1943. Three days later he took the first intentional dose.
 
@@ -25,7 +25,7 @@ During the next 20 years, LSD was promoted as a psychiatric aid with numerous cl
 LSD is extremely potent by weight; the amount required for a single dose is barely visible to the naked eye. LSD is usually sold on blotter paper, in tablets, or in liquid. With all forms it is impossible to accurately determine the amount consumed without laboratory analysis.
 
 - **100 mcg:** Minimum psychedelic dose. Low-level experience, not overwhelming, without hallucinations.
-- **200 mcg:** Minimum dose for full psychedelic experience with visuals and hallucinations. Most people need more than this.
+- **200 mcg:** Minimum dose for full [[leary-psychedelic-experience-bardo-mapping]] with visuals and hallucinations. Most people need more than this.
 - **Average street dose:** 50-100 mcg range
 - **Experienced users:** 500 mcg typical; 1000+ mcg for large doses
 
@@ -68,7 +68,7 @@ With large doses of LSD (and less frequently with other psychedelics), one may e
 Harmala adds a mystical and ancient quality. While on acid alone one normally feels interfacing with one's own mind, with Harmala it feels like contact with the invisible world of Spirits.
 
 ### LSD + DMT
-Smoking N,N-DMT while on acid produces powerfully enlightening experiences. The DMT experience overwhelms the acid during its short duration. The acid provides a higher platform for launching into the DMT experience, and the "open mind" state allows experiencing DMT more fully.
+Smoking N,N-DMT while on acid produces powerfully enlightening experiences. The [[mckenna-dmt-experience-and-hyperspace]] overwhelms the acid during its [[savory-short-duration-grazing-and-cell-systems]]. The acid provides a higher platform for launching into the DMT experience, and the "open mind" state allows experiencing DMT more fully.
 
 ### LSD + Nitrous Oxide
 A single breath of nitrous produces a 1-2 minute "dissociative" state during which one feels somewhat out of body. Nitrous works well with every psychedelic. It can add an additional peak or "break up" a state of mind to switch focus.

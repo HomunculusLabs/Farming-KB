@@ -88,7 +88,7 @@ inactive.
 ## Resolution Methods
 Classical resolution (Pasteur, 1853) converts racemates to
 diastereomeric salts with chiral resolving agents (tartaric acid,
-brucine, quinine); fractional crystallization gives max 50% yield.
+[[brucine]], [[quinine]]); fractional crystallization gives max 50% yield.
 Chiral HPLC uses chiral stationary phases (polysaccharide derivatives,
 cyclodextrins, Pirkle phases) for analytical and preparative
 separation. SFC with supercritical CO2 is preferred for large-scale
@@ -96,4 +96,4 @@ work. Enzymatic resolution uses lipases (CAL-B, [[mescaline-entity]]
 
 - [[quantum-mechanics-fundamentals]]
 
-See also: [[tryptamine-chemistry-and-psychedelic-pharmacology]]
+See also: [[psilocybin-chemistry-and-pharmacology]]

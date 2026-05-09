@@ -3,12 +3,12 @@ title: Synthetic Log Cultivation Methods Guide
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - "A Practical Guide for Synthetic-Log Cultivation of Medicinal Mushroom Grifola frondosa (Maitake) - Alice W. Chen, 1999"
+  - "A Practical Guide for Synthetic-Log Cultivation of gourmet-medicinal-mushroom-casing-layer-techniques maitake-grifola-frondosa-comprehensive-profile (Maitake) - Alice W. Chen, 1999"
 type: concept
 tags: [cultivation]
 ---
 
-Synthetic-log cultivation is a modern methodology for growing edible and medicinal mushrooms on supplemented sawdust substrates enclosed in polypropylene bags, replacing traditional natural log inoculation. The method was developed for species like [[spawn-generation-techniques]] are commonly used:
+Synthetic-log cultivation is a modern methodology for growing edible and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] on [[oyster-mushroom-supplemented-sawdust-blocks]] substrates enclosed in polypropylene bags, replacing traditional natural log inoculation. The method was developed for species like [[shiitake-mushroom-cultivation]] are commonly used:
 
 1. **Liquid spawn** - produced by liquid-surface culture or submerged fermentation; labor-saving with specialized inoculators; scalable to industrial production.
 
@@ -22,7 +22,7 @@ A spawn-to-substrate ratio of 1:10 or 1:20 is generally adopted. Through-spawnin
 
 ## Growth Parameters by Stage
 
-Management of four environmental factors is critical: temperature, relative humidity, light, and ventilation (CO2 vs O2 levels).
+Management of four [[duggar-mushroom-environmental-factors-temperature-moisture-light]] is critical: temperature, relative humidity, light, and ventilation (CO2 vs O2 levels).
 
 ## Sterilization and Bag Preparation
 
@@ -30,7 +30,7 @@ Substrate-filled bags must be sterilized before inoculation. Proper sterilizatio
 
 ## Spawn Run (30-42 days)
 
-Temperature 20-25 C, relative humidity 60-70% within bags, low light (50 lux) throughout. Mycelia tolerate elevated CO2 levels (up to 2-4% in North American practice). A growth period is followed by a maturation period marked by orange-brown exudates indicating metabolic activity. A surface mycelial coat forms toward the later stage, which should not be grayish-brown or excessively thick. At approximately 40-42 days, grayish primordia reaching 2.5-5 cm diameter form on the substrate surface within the closed bag.
+Temperature 20-25 C, relative humidity 60-70% within bags, low light (50 lux) throughout. Mycelia tolerate elevated CO2 levels (up to 2-4% in North American practice). A growth period is followed by a maturation period marked by orange-brown exudates indicating [[arbuscule-isolation-metabolic-activity-assays]]. A surface mycelial coat forms toward the later stage, which should not be grayish-brown or excessively thick. At approximately 40-42 days, grayish primordia reaching 2.5-5 cm diameter form on the substrate surface within the closed bag.
 
 ### Primordia Initiation (7-20 days)
 
@@ -74,8 +74,8 @@ Harvest when the cluster flower stage is fully formed with caps at approximately
 - [[maitake-cultivation]]
 - [[holzer-mushroom-cultivation-methods]]
 - [[substrate-bag-preparation]]
-- [[spawn-generation-techniques]]
+- [[shiitake-mushroom-cultivation]]
 - [[mushroom-cultivation-grain-spawn]]
-- [[mushroom-cultivation-troubleshooting-guide]]
+- mushroom-cultivation-troubleshooting-guide
 - [[maitake-grifola-frondosa-comprehensive-profile]]
 - [[basidiomycete-phylum-guide]]

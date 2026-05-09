@@ -14,14 +14,14 @@ sources:
   - "Shulgin, A.T. & Shulgin, A. (1997). TiHKAL: The Continuation. Transform Press. Entry #33: 4-HO-MiPT."
   - "Dean, B.S., Stell, J.G., Repke, D.B., & Shulgin, A.T. (1988). \"Synthesis and pharmacological examination of 4-hydroxy-N-isopropyltryptamine and 4-hydroxy-N-isopropyl-N-methyltryptamine.\" Journal of Medicinal Chemistry, 31(2), 459–461."
   - "EMCDDA (2023). Europol-EMCDDA Joint Report on New Psychoactive Substances."
-  - "National Institute on Drug Abuse (NIDA). Tryptamine Pharmacology Research Summary."
+  - "National Institute on Drug Abuse (NIDA). [[mckenna-food-gods-tryptamine-pharmacology-indoles]] Research Summary."
 ---
 
 # Miprocin (4-HO-MiPT)
 
 ## Overview
 
-**Miprocin**, chemically known as **4-hydroxy-N-methyl-N-isopropyltryptamine** (4-HO-MiPT), is a synthetic psychedelic tryptamine compound closely related to psilocin (4-HO-DMT) and the other substituted tryptamines documented by Alexander Shulgin in *TiHKAL* (Tryptamines I Have Known and Loved). It acts primarily as a 5-HT₂A receptor agonist, producing effects broadly similar to those of psilocybin mushrooms — including visual hallucinations, altered perception of time, euphoria, and changes in thought patterns — but with a pharmacological and subjective profile that users consistently describe as more "recreational," color-rich, and less introspective than psilocin.
+**Miprocin**, chemically known as **4-hydroxy-N-methyl-N-isopropyltryptamine** (4-HO-MiPT), is a synthetic psychedelic tryptamine compound closely related to psilocin (4-HO-DMT) and the other substituted tryptamines documented by Alexander Shulgin in *TiHKAL* (Tryptamines I Have Known and Loved). It acts primarily as a 5-HT₂A receptor agonist, producing effects broadly similar to those of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] — including visual hallucinations, altered perception of time, euphoria, and changes in thought patterns — but with a pharmacological and subjective profile that users consistently describe as more "recreational," color-rich, and less introspective than psilocin.
 
 Miprocin is one of the more well-characterized members of the 4-hydroxy-N-substituted tryptamine family. Its isopropyl substitution pattern on the terminal amine nitrogen gives it a distinct pharmacokinetic and subjective character compared to the more familiar psilocin (dimethyl substitution) and 4-HO-MET (ethyl substitution). The compound exists both as a freebase and as a fumarate salt for research purposes.
 
@@ -73,7 +73,7 @@ Miprocin belongs to the **4-hydroxy tryptamine** subclass, which can be further 
 | 4-HO-DET | Ethocin | Diethyl | More visual, dreamy character |
 | 4-HO-PT | — | Methyl-n-propyl | Longer duration, stronger body load |
 
-The methyl-isopropyl substitution pattern is unique to miprocin among the commonly encountered 4-hydroxy tryptamines. The bulky isopropyl group is believed to affect receptor binding kinetics and metabolic stability relative to the smaller dimethyl substitution of psilocin.
+The methyl-isopropyl substitution pattern is unique to miprocin among the commonly encountered 4-hydroxy tryptamines. The bulky isopropyl group is believed to affect [[tihkal-receptor-binding-serotonin]] kinetics and metabolic stability relative to the smaller dimethyl substitution of psilocin.
 
 ## Pharmacology
 
@@ -130,13 +130,13 @@ Alexander Shulgin documented miprocin as **TiHKAL Entry #33**, with an active or
 ## Legal Status
 
 - **United States:** Not explicitly scheduled federally but may fall under the **Federal Analog Act** as a psilocin analog (Schedule I).
-- **United Kingdom:** Controlled as a Class A drug under the Psychoactive Substances Act 2016.
+- **United Kingdom:** Controlled as a Class A drug under the Psychoactive [[controlled-substances-act-and-psychedelic-research]] 2016.
 - **International:** Not scheduled by the UN Convention on Psychotropic Substances, but many countries have domestic controls covering substituted tryptamines.
 
 ## Harm Reduction Notes
 
-- Miprocin has no established therapeutic index or formal toxicology profile
-- Set and setting remain critical determinants of experience quality
+- Miprocin has no established [[cannabis-therapeutic-index-overview]] or formal toxicology profile
+- [[lsd-set-and-setting-framework]] remain critical determinants of experience quality
 - Serotonin syndrome risk is theoretical but low when used alone; combining with SSRIs, MAOIs, or other serotonergic drugs is strongly discouraged
 - Users with personal or family history of psychotic disorders should exercise caution with all classical psychedelics
 - Purity and identity of gray-market products cannot be guaranteed without analytical testing; trip sitting is recommended at doses above 20 mg

@@ -54,8 +54,8 @@ strategy.
 ### Soil-Lignocellulose Systems
 
 The combination of contaminated soil with lignocellulosic materials
-from mushroom cultivation creates soil-lignocellulose systems that
-support fungal growth and enzyme production. P. ostreatus is effective
+from [[accessible-mushroom-cultivation-for-disabilities]] creates soil-lignocellulose systems that
+support fungal growth and [[ligninolytic-enzyme-production-bioremediation]]. P. ostreatus is effective
 against a variety of PAHs in both liquid culture and soil-lignocellulose
 systems. In sterile sand microcosms amended with straw, P. ostreatus
 degraded pyrene, benzo[a]anthracene, and benzo[a]pyrene effectively.
@@ -73,7 +73,7 @@ combining SMC with other amendments to optimize remediation outcomes.
 The use of spent mushroom compost offers several practical advantages.
 It is an inexpensive and widely available waste material from the
 mushroom industry. It provides both fungal inoculum and nutritional
-support in a single application. The complex microbial community in SMC
+support in a single application. The complex [[edaphic-factors-microbial-community-structure]] in SMC
 may contribute synergistically to pollutant degradation. SMC improves
 soil physical properties including water retention and structure. The
 approach transforms an industrial waste into a value-added product.
@@ -90,13 +90,13 @@ performance.
 The effectiveness of SMC depends on factors including: the degree of
 substrate colonization by active mycelium; the age and composition of
 the compost; compatibility with local soil conditions; competition from
-indigenous microorganisms; and the nature and concentration of target
+[[beneficial-indigenous-microorganisms-bim]]; and the nature and concentration of target
 pollutants.
 
 ## Future Prospects
 
-The concept of using spent mushroom compost aligns with circular economy
-principles by converting agricultural waste into a bioremediation
+The concept of using spent mushroom compost aligns with [[zeri-circular-economy-systems]]
+principles by converting [[fungi-in-composting-and-agricultural-waste-conversion]] into a bioremediation
 resource. Future developments may include optimizing compost composition
 for specific contaminants, developing standardized SMC quality
 parameters, and combining SMC with other remediation technologies for

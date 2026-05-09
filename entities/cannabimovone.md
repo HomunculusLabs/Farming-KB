@@ -17,7 +17,7 @@ updated: 2026-04-28
 aliases:
   - CBM
 sources:
-  - Krejčí, Z. et al. (1975). "Isolation of cannabimovone from Cannabis sativa." Collection of Czechoslovak Chemical Communications, 40(1), 326–330.
+  - Krejčí, Z. et al. (1975). "Isolation of cannabimovone from comparison-cannabis-sativa-vs-cannabis-indica." Collection of Czechoslovak Chemical Communications, 40(1), 326–330.
   - Hanuš, L. et al. (2016). "Cannabimovone, a novel cannabinoid from Cannabis." Phytochemistry, 130, 21–25.
   - ElSohly, M.A. & Slade, D. (2005). "Chemical constituents of marijuana." Pharmacology & Therapeutics, 95(2), 137–152.created: 2026-05-07
 
@@ -54,13 +54,13 @@ The low natural abundance (typically <0.01% of total cannabinoid content) sugges
 
 ## Pharmacology
 
-Cannabimovone has undergone minimal pharmacological characterization. No published receptor binding data exist for CB₁, CB₂, TRPV1, or 5-HT₁A receptors, which are the primary targets of better-studied cannabinoids.
+Cannabimovone has undergone minimal pharmacological characterization. No published [[tihkal-receptor-binding-serotonin]] data exist for CB₁, CB₂, TRPV1, or 5-HT₁A receptors, which are the primary targets of better-studied cannabinoids.
 
-Its structural relationship to CBN (both are oxidized cannabinoid derivatives) suggests potential weak CB₁/CB₂ affinity, but this has not been experimentally confirmed. The rearranged skeleton may significantly alter receptor interaction profiles.
+Its [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to CBN (both are oxidized cannabinoid derivatives) suggests potential weak CB₁/CB₂ affinity, but this has not been experimentally confirmed. The rearranged skeleton may significantly alter receptor interaction profiles.
 
 In the broader context of minor cannabinoids, many structurally unique compounds show activity at orphan GPCRs, PPAR receptors, or nuclear hormone receptors rather than classical cannabinoid receptors. This remains speculative for cannabimovone specifically.
 
-The compound has not been evaluated in any published in vivo studies, animal models, or clinical trials. Any reported effects are anecdotal or extrapolated from related cannabinoid structures.
+The compound has not been evaluated in any published in vivo studies, animal models, or [[mushroom-cancer-clinical-trials-overview]]. Any reported effects are anecdotal or extrapolated from related cannabinoid structures.
 
 ## Analytical Detection
 
@@ -78,9 +78,9 @@ Cannabimovone has been primarily detected in fiber hemp (low-THC Cannabis sativa
 
 Modern analytical surveys of high-THC and high-CBD cultivars have rarely reported cannabimovone, suggesting it may be more prevalent in fiber-type chemotypes that accumulate higher proportions of CBN-related oxidation products.
 
-Environmental stress factors including UV exposure, oxidative stress, and pathogen attack may increase production of oxidized cannabinoid derivatives including cannabimovone, though systematic studies are lacking.
+Environmental stress factors including UV exposure, [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], and pathogen attack may increase production of oxidized cannabinoid derivatives including cannabimovone, though systematic studies are lacking.
 
-The compound has not been identified as a significant metabolite in any commercial cannabis product. It is of interest primarily to natural products chemists studying the full diversity of cannabis secondary metabolites.
+The compound has not been identified as a significant metabolite in any commercial cannabis product. It is of interest primarily to natural products chemists studying the full diversity of cannabis [[antifungal-secondary-metabolites-coprophilous-fungi]].
 
 ## Legal Status
 
@@ -111,7 +111,6 @@ Other rare cannabinoids with non-classical structures include cannabichromene (C
 ## See Also
 
 - [[cannabis-minor-cannabinoids]] — principal psychoactive cannabinoid
-- [[cannabis-minor-cannabinoids]] — non-classical cyclized cannabinoid
 - [[cannabis-terpene-profiles]] — sesquiterpene with CB₂ receptor affinity
 - [[cannabis-blue-dream]] — high-THC cultivar with complex cannabinoid profiles
-- [[wedding-cake-cannabis]] — modern hybrid with elevated minor cannabinoids
+- [[wedding-cake]] — modern hybrid with elevated minor cannabinoids

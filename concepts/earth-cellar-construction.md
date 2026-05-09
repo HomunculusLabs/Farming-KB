@@ -9,15 +9,15 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 
 # Earth Cellar Construction
 
-Earth cellars use the natural temperature-balancing properties of soil to create ideal storage conditions for fruit and vegetables without any additional energy input.
+[[sepp-holzer-earth-cellars-and-philosophy]] use the natural temperature-balancing properties of soil to create ideal [[vegetable-storage-conditions-by-temperature-and-humidity]] for fruit and vegetables without any additional energy input.
 
 ## Temperature and Humidity
 
-The high humidity of around 80 to 90 percent in earth cellars and their fairly steady temperature between 8 and 10°C is ideal for storing the majority of crops. Modern houses with heated cellars and concrete floors are disastrous for storing produce — the low humidity causes apples to wither and wrinkle in the shortest amount of time.
+The high humidity of around 80 to 90 percent in earth cellars and their fairly steady temperature between 8 and 10°C is ideal for storing the majority of crops. Modern houses with heated cellars and concrete floors are disastrous for storing produce — the [[pf-tek-low-humidity-symptoms-and-remediation]] causes apples to wither and wrinkle in the shortest amount of time.
 
 ## Construction Method
 
-Roundwood shelters and earth cellars are built using notched tree trunks:
+[[holzer-roundwood-shelters-earth-cellars]] and earth cellars are built using notched tree trunks:
 
 1. **Foundation**: Rough timber logs are placed at least one metre deep and cut to the same height.
 2. **Walls**: Notched tree trunks are used to construct the roof and walls. For stability, the back wall should fit closely with the top edge of the roof.
@@ -110,4 +110,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

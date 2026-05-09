@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-Tamarindus indica L., the tamarind tree, is a long-lived tropical fruit tree in the family Fabaceae, subfamily Detarioideae. It is the sole species in its genus, native to tropical Africa and widely naturalized across South and Southeast Asia.
+Tamarindus indica L., the tamarind tree, is a long-lived tropical [[comparison-berry-growing-vs-fruit-tree-pruning]] in the family Fabaceae, subfamily Detarioideae. It is the sole species in its genus, native to tropical Africa and widely naturalized across South and [[psilocybe-southeast-asia-pacific]].
 
 The tree produces pod-like fruits with an edible, highly acidic pulp that is a cornerstone ingredient in cuisines of India, Southeast Asia, the Middle East, and Latin America.
 
@@ -111,7 +111,7 @@ Trees begin bearing fruit at 5–7 years from seed, with full production at 15�
 
 ## See Also
 
-- [[gliricidia-sepium]] — multipurpose leguminous agroforestry tree
+- gliricidia-sepium — multipurpose leguminous agroforestry tree
 - [[moringa-oleifera]] — multi-purpose tropical tree with medicinal uses
 - [[glycyrrhiza-glabra]] — source of bioactive triterpenoid saponins
-- [[glycine-max-soybean-permaculture]] — nitrogen-fixing legume for agroforestry systems
+- [[glycine-max]] — nitrogen-fixing legume for agroforestry systems

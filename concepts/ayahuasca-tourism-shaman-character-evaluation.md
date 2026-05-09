@@ -1,5 +1,5 @@
 ---
-title: "Ayahuasca Tourism: Evaluating Shaman Character and Trustworthiness"
+title: "stuart-r-ayahuasca-tourism-cautionary-ethnography: Evaluating ayahuasca tourism shaman character evaluation and Trustworthiness"
 source: stuart-r-ayahuasca-tourism.md
 topics: [ayahuasca, tourism, shamanism, peru, ethics, safety]
 ---
@@ -12,7 +12,7 @@ Ayahuasca tourism in Peru presents significant challenges for visitors seeking a
 
 ## The Problem of Finding a "Good" Ayahuasquero
 
-Almost every shaman in Amazonia claims to be the only person who knows how to properly brew ayahuasca. This creates a paradox for tourists: with no reliable external verification system, visitors must rely on word of mouth, intuition, and limited personal interaction to evaluate practitioners. The linguistic barriers and cultural misunderstandings that confound communication even in ordinary consciousness make this evaluation even more precarious in altered states.
+Almost every shaman in Amazonia claims to be the only person who knows how to properly brew ayahuasca. This creates a paradox for tourists: with no reliable external verification system, visitors must rely on word of mouth, intuition, and limited personal interaction to evaluate practitioners. The linguistic barriers and cultural misunderstandings that confound communication even in ordinary consciousness make this evaluation even more precarious in [[weil-the-natural-mind-altered-states-normalcy]].
 
 The question foremost in many prospective tourists' minds is: "How do I find a good ayahuasquero?" Unfortunately, there is no simple answer. Stuart's fieldwork demonstrates that reputation within the local community is perhaps the most reliable indicator, but accessing that reputation requires time, language skills, and connections that most short-term tourists simply do not have.
 
@@ -36,7 +36,7 @@ Two ayahuasqueros visited B's group for a two-week training period:
 - One was described as "a sweet and wonderful guy" with genuine healing intent
 - His partner, however, "always hustled me for spare change"
 - This pairing demonstrates that even within training relationships, character varies dramatically
-- The contrast suggests that ethical conduct is individual rather than institutional in Amazonian shamanism
+- The contrast suggests that ethical conduct is individual rather than institutional in [[mckenna-food-gods-amazonian-shamanism-ayahuasca]]
 
 ### B's Nephew: The Enterprising Shaman
 
@@ -47,7 +47,7 @@ B's nephew represents the economic dimension of ayahuasca tourism:
 - Charged **$30 for tourists** vs. approximately **$2 for Peruvians** (15× markup)
 - His income came entirely from foreign visitors seeking traditional medicine
 
-This dramatic price disparity raises ethical questions about cultural extraction and whether traditional spiritual practices are being commodified for Western consumption. The income differential also creates social tensions within communities where one family's ayahuasca tourism income can dwarf their neighbors' entire livelihoods.
+This dramatic [[ayahuasca-ceremonial-economics-price-disparity-peru]] raises ethical questions about cultural extraction and whether traditional spiritual practices are being commodified for Western consumption. The income differential also creates social tensions within communities where one family's ayahuasca tourism income can dwarf their neighbors' entire livelihoods.
 
 ### "E" — The Honorable Practitioner (San Francisco)
 
@@ -85,7 +85,7 @@ Even without the complications of altered consciousness, tourists face:
 
 ### The Commercialization Effect
 
-Commercialized ayahuasca ceremonies differ fundamentally from authentic community rituals:
+Commercialized [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] differ fundamentally from authentic community rituals:
 
 - Doses tend to be **milder** as shamans err on the side of caution with foreigners
 - Ceremonial depth may be **shallower** than rituals conducted for family and community

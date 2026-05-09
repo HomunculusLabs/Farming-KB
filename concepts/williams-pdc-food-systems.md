@@ -1,15 +1,12 @@
 ---
-title: "Food Systems in Permaculture Design"
+title: "Food Systems in permaculture-design"
 created: 2026-04-28
-tags: [[permaculture, food-systems, gardening, edible-landscaping,
-       container-gardens, aquaponics, greenhouse, food-security]
+tags: [permaculture, food-systems, gardening, edible-landscaping, container-gardens, aquaponics, greenhouse, food-security]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+sources: [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-
 # Food Systems in [[appropriate-technology]] to create
 abundant, resilient sources of balanced nutrition.
 
@@ -27,7 +24,7 @@ alive. As you can see there is more than abundant space for food
 security within every city, town, and neighborhood.
 
 In America approximately ten thousand square miles of land are used for
-agricultural production, while about forty thousand square miles are used
+[[fukuoka-agricultural-production-net-energy-deduction]], while about forty thousand square miles are used
 for lawns and ornamental landscaping. Ornamental landscaping and edible
 food production can and should be one and the same. Municipal
 landscaping could be filled with fruit trees, berry bushes, and edible
@@ -73,7 +70,7 @@ out the top and along the side simultaneously.
 
 ## Mechanical and Architectural Food Systems
 
-Appropriate Technology can be used to create mechanical food systems
+[[mollison-designers-appropriate-technology-small-scale-tools]] can be used to create mechanical food systems
 that have many advantages over gardens. These systems allow crops to
 be better protected against critters and diseases, and you can
 control the environment better. Some mechanical food systems can
@@ -88,11 +85,11 @@ harder to maintain. Aquaponics combines growing fish with a
 hydroponics system, where fish water is siphoned off and used as the
 nutrient-rich water for plant growth.
 
-Architecture can also provide growing space for food systems. The
+Architecture can also provide [[cotter-growing-space-design-fruiting-rooms]] for food systems. The
 most common is the greenhouse. One of the simplest architectural
 food systems is the hoop house, made from rebar or PVC pipe formed
 into arches about eight feet tall with plastic stretched over it.
-Hoop houses greatly extend the growing season and protect crops. Cold
+Hoop houses greatly [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season and protect crops. Cold
 frames are essentially very small greenhouses that go over individual
 plants to protect them from freezing. Full bio-shelters and solar
 greenhouses represent more advanced options.
@@ -105,7 +102,7 @@ occasionally meat. Ponds can be used to grow fish. Bee hives can
 provide honey. Goats can provide milk. These animal systems can be
 integrated into the broader food production design to create
 additional yields while the animals perform other functions such as
-pest control, soil aeration, and nutrient cycling.
+[[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], soil aeration, and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 ## Beyond the Home Garden
 
@@ -120,7 +117,7 @@ infrastructure systems that will be needed.
 
 ## Key Principles
 
-- [[integrate-rather-than-segregate]]: food production should be woven
+- integrate-rather-than-segregate: food production should be woven
   throughout the entire design, from site edges to building interiors
 - Use and value diversity: the edible plant palette extends far
   beyond common garden vegetables to include dozens of wild edibles,
@@ -136,3 +133,5 @@ infrastructure systems that will be needed.
 - Replacing ornamental municipal landscaping with fruit trees, berry
   bushes, and edible ground covers
 - Building barrel systems with side plantings for maximum vertical
+## See Also
+- [[williams-pdc-food-forests]]

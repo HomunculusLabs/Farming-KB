@@ -9,7 +9,7 @@ sources:
 ---
 # Cannabis THC:CBD Ratio Guide for Conditions
 
-Understanding the ratio of THC to CBD is essential for effective therapeutic cannabis use. The Cannabis Health Index consistently shows that different conditions respond better to different cannabinoid ratios, based on the receptor systems involved (CB1 vs CB2) and the desired therapeutic effects.
+Understanding the ratio of THC to CBD is essential for effective therapeutic cannabis use. The [[blesching-cannabis-health-index-autoimmune-conditions]] consistently shows that different conditions respond better to different cannabinoid ratios, based on the receptor systems involved (CB1 vs CB2) and the desired therapeutic effects.
 
 ## Receptor Activation Basics
 
@@ -23,7 +23,7 @@ Understanding the ratio of THC to CBD is essential for effective therapeutic can
 ### CB2 Receptors
 - Concentrated in peripheral tissues, especially immune system
 - Not psychoactive (no "high" from CB2 activation)
-- Mediate: anti-inflammatory effects, immune modulation, peripheral analgesia
+- Mediate: anti-inflammatory effects, [[cancer-immune-modulation-mechanisms]], peripheral analgesia
 - Activated by THC, CBD, CBG, CBN, and beta-caryophyllene
 - Generally favored by lower THC:CBD ratios (indica strains)
 
@@ -47,13 +47,13 @@ The THC:CBD ratio falls on a spectrum from high-THC to high-CBD:
 - Favors CB2 activation
 - Minimal psychoactive effects
 - Relaxing, sedating, body-focused
-- Better for: sleep, anti-inflammatory, autoimmune conditions, anxiety reduction
+- Better for: sleep, anti-inflammatory, [[cannabis-autoimmune-conditions-detailed]], anxiety reduction
 
 ## Condition-Specific Ratio Recommendations
 
 ### Pain Management
 - **Acute pain**: Higher THC:CBD ratio for rapid, strong analgesia
-- **Chronic pain**: Balanced ratio (roughly 1:1 THC:CBD) for sustained relief
+- **[[cannabis-chronic-pain-management]]**: Balanced ratio (roughly 1:1 THC:CBD) for sustained relief
 - **Inflammatory pain**: Lower THC:CBD ratio favoring CB2 anti-inflammatory effects
 - **Neuropathic pain**: Higher THC:CBD ratio; THC is particularly effective for nerve pain
 - **Musculoskeletal pain**: Balanced to indica-dominant ratios
@@ -109,7 +109,7 @@ The THC:CBD ratio falls on a spectrum from high-THC to high-CBD:
 Beyond THC and CBD, other cannabinoids influence the effective ratio:
 
 - **CBG**: Activates both CB1 and CB2 relatively equally; may enhance antidepressant and anti-inflammatory effects
-- **CBN**: Higher CB2 affinity; contributes to sedative effects; increases with cannabis age
+- **CBN**: Higher CB2 affinity; contributes to sedative effects; increases with [[blesching-cannabis-age-related-macular-degeneration]]
 - **CBC**: May work independently of cannabinoid receptors; contributes to pain relief and neurogenesis
 - **THCV**: CB1 antagonist at low doses (reduces THC effects), CB1 agonist at high doses; may suppress appetite
 - **CBDV**: Promising anticonvulsant properties
@@ -120,10 +120,10 @@ Beyond THC and CBD, other cannabinoids influence the effective ratio:
 2. **Match ratio to primary symptom**: pain (balanced), anxiety (CBD-heavy), insomnia (THC-heavy), inflammation (CBD-heavy)
 3. **Consider time of day**: CBD-dominant for daytime, THC-dominant for evening/night
 4. **Use different ratios at different times**: Many patients use CBD during the day and THC at night
-5. **The entourage effect means isolated ratios are imprecise**: Whole-plant preparations with additional cannabinoids and terpenes may outperform theoretically ideal ratios
+5. **The [[cannabis-terpene-entourage-effect-profiles]] means isolated ratios are imprecise**: Whole-plant preparations with additional cannabinoids and terpenes may outperform theoretically ideal ratios
 6. **Track your response**: Journal dosing, ratio, strain, and effects to identify your personal optimal ratio
 7. **Ratios can shift**: Your optimal ratio may change over time with tolerance, condition changes, or other factors
 
 See also: doi entity, doi entity, doi entity, doi entity, [[fruit-tree-grafting-guide]], [[cannabis-anti-inflammatory-applications]]
 - [[cannabis-for-nausea-and-appetite-stimulation]]
-- [[cannabis-beta-caryophyllene-dietary-cannabinoid]]
+- [[beta-caryophyllene-dietary-cannabinoid]]

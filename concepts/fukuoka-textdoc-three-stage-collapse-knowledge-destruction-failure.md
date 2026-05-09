@@ -18,7 +18,7 @@ created: 2026-05-07
 ## Overview
 
 Fukuoka predicts three stages of human collapse that will inevitably follow
-from humanity's rejection of natural law in favor of scientific agriculture
+from humanity's rejection of natural law in favor of [[fukuoka-critique-scientific-agriculture-civilization]]
 and industrial expansion. He frames this collapse not as a possibility but as
 a certainty, rooted in the inherent contradictions of discriminating
 knowledge and energy-wasting technology. This page examines each stage in
@@ -49,14 +49,14 @@ about.
 ## Stage One: Breakdown of Human Knowledge
 
 "The first stage of this collapse will be the breakdown of human knowledge."
-Fukuoka argues that human knowledge is merely discriminating knowledge.
+Fukuoka argues that human knowledge is merely [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]].
 "Having no way of knowing that this knowledge is really unknowable, man
 founders ever deeper into confusion through the collection and advancement
 of unknowable and mistaken knowledge."
 
 Unable to extricate himself from what Fukuoka calls schizophrenic
 development, "he ultimately brings upon himself spiritual derangement and
-collapse." The scientific method begins with research that discriminates,
+collapse." The [[fukuoka-limits-scientific-method-agriculture]] begins with research that discriminates,
 breaks down, and analyzes. The truths it grasps can never be absolute and
 universal. No matter how many bits of incomplete knowledge are collected
 together, they can never form a complete whole.
@@ -73,7 +73,7 @@ an organic synthesis of these two elements, is being broken down and divided
 up by man." This is gradually depriving the natural world on the earth's
 surface of its equilibrium.
 
-"Destruction of the natural order and the natural ecosystem will rob matter
+"Destruction of the [[fukuoka-textdoc-natural-order-food-chain-unity]] and the [[fukuoka-natural-ecosystem-food-chain-interconnection]] will rob matter
 and life of their proper functions." Nor will man be spared. "Either he
 will lose his adaptability to the natural environment and meet with self-
 destruction or he will succumb to instant ruin under a slight pressure
@@ -109,7 +109,7 @@ accelerate the speed at which man heads toward destruction.
 ## Contraction and Revival Through Natural Farming
 
 The same decline in energy efficiency appears in agriculture. "Farming with
-small machinery was more energy efficient than modern large-scale agriculture
+small machinery was more [[cervantes-case-study-energy-efficient-sea-of-green]] than modern large-scale agriculture
 using large implements, while farming with animal power was even more
 efficient." And no form of agriculture has better energy efficiency than
 natural farming.
@@ -122,6 +122,8 @@ barest farming essential for sustaining life. Once this becomes clear,
 lies in the future. Natural farming is the only future for man."
 
 ## Related
+
+- [[fukuoka-textdoc-barley-cultivation-three-stage-no-tillage-evolution]]
 
 - [[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]]
 - [[fukuoka-textdoc-nondiscriminating-knowledge-child-intuition]]

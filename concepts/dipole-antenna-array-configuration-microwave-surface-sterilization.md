@@ -1,8 +1,8 @@
-# Dipole Antenna Array Configuration for Microwave Surface Sterilization
+# Dipole Antenna Array Configuration for [[microwave-surface-sterilization]]
 
 ## Overview
 
-The microwave surface sterilization system described in NASA Technical Support Package MSC-22484 employs a dipole antenna array configuration to deliver 2.45 GHz microwave energy to contaminated surfaces. The antenna system, fed by a magnetron oscillator through a waveguide and coaxial power splitter, provides controlled irradiation of surfaces for microbial decontamination. This configuration represents a specific engineering solution for the challenge of evenly irradiating complex surface geometries within closed systems.
+The [[challenge-microorganisms-microwave-surface-sterilization]] sterilization system described in NASA Technical Support Package MSC-22484 employs a dipole antenna array configuration to deliver 2.45 GHz microwave energy to contaminated surfaces. The antenna system, fed by a magnetron oscillator through a waveguide and coaxial [[coaxial-power-splitter-waveguide-microwave-sterilization]], provides controlled irradiation of surfaces for microbial decontamination. This configuration represents a specific engineering solution for the challenge of evenly irradiating complex surface geometries within closed systems.
 
 ## System Architecture
 
@@ -18,7 +18,7 @@ The complete signal chain from power supply to irradiated surface consists of:
 
 4. **Coaxial power splitter**: Divides the single magnetron output into multiple paths feeding individual antennas. This allows a single magnetron to drive multiple antennas simultaneously, ensuring more uniform coverage of the target surface area.
 
-5. **Antenna array**: Multiple dipole antennas positioned to irradiate the contaminated surfaces from various angles. The array configuration is designed to ensure that all surface areas receive sufficient microwave exposure for sterilization.
+5. **Antenna array**: Multiple dipole antennas positioned to irradiate the contaminated surfaces from various angles. The array configuration is designed to ensure that all surface areas receive sufficient [[microbial-kill-curve-microwave-exposure-dose-response]] for sterilization.
 
 ### Antenna Types
 
@@ -91,8 +91,8 @@ The coaxial power splitter and distribution lines allow flexible routing of micr
 
 Once the microwave energy leaves the antennas, it propagates through free space to the contaminated surfaces. In the sterilization chamber:
 
-- **Reflective materials**: Chamber walls may incorporate microwave-reflective materials to direct energy toward the target surfaces and reduce waste.
-- **Transparent materials**: The system uses a combination of reflective and transparent materials to control radiation patterns and ensure sufficient surface exposure.
+- **[[cervantes-reflective-materials-grow-room-walls]]**: Chamber walls may incorporate microwave-reflective materials to direct energy toward the target surfaces and reduce waste.
+- **[[microwave-reflective-transparent-materials-surface-sterilization]]**: The system uses a combination of reflective and transparent materials to control radiation patterns and ensure sufficient surface exposure.
 - **Standing waves**: Multiple reflections within the chamber can create standing wave patterns that cause hot spots (areas of high energy density) and cold spots (areas of low energy density). The antenna array configuration helps mitigate this by providing illumination from multiple directions.
 
 ## Applications Beyond the Original NASA System
@@ -109,7 +109,7 @@ The dipole antenna array approach to microwave surface sterilization has potenti
 
 ### Thermal Management
 
-At 3.6 W/cm², the microwave energy deposited on surfaces generates significant heat. The system must manage this heat to prevent thermal damage to sensitive materials while still achieving the microbial kill. The trace-water-enhanced sterilization method helps by localizing heating to the thin water layer rather than bulk-heating the substrate.
+At 3.6 W/cm², the microwave energy deposited on surfaces generates significant heat. The system must manage this heat to prevent thermal damage to sensitive materials while still achieving the [[microwave-microbial-kill-curves]]. The trace-water-enhanced sterilization method helps by localizing heating to the thin water layer rather than bulk-heating the substrate.
 
 ### Impedance Matching
 
@@ -125,6 +125,8 @@ For a sterilization system to be reliable, it must produce consistent results ac
 
 ## See Also
 
+- [[thermally-gentle-microwave-surface-sterilization]]
+
 - [[coaxial-power-splitter-waveguide-microwave-sterilization]]
-- [[microwave-sterilizable-access-port]]
+- [[microwave-sterilizable-access-port-nasa-space-biology]]
 - [[trace-water-enhanced-microwave-sterilization]]

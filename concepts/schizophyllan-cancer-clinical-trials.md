@@ -1,16 +1,16 @@
 ---
-title: Schizophyllan Cancer Clinical Trials
+title: Schizophyllan maitake-cancer-clinical-research Trials
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - Cancer Treatments and Medicinal Mushrooms
+  - Cancer Treatments and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive
 type: concept
 tags: [reference]
 ---
 
 # Schizophyllan Cancer Clinical Trials
 
-Schizophyllan (Sonifilan, Sizofiran, SPG) is a [[beta-glucan-receptor-binding]] compounds
+Schizophyllan (Sonifilan, Sizofiran, SPG) is a kappa opioid receptor compounds
 
 ## Clinical Trials in Gastric Cancer
 
@@ -30,7 +30,7 @@ more extensively studied gastrointestinal cancers.
 
 In a randomised controlled study combining Schizophyllan with
 radiotherapy, survival was significantly prolonged for Stage II
-cervical cancer patients (Okamura et al., 1986, 1989) but not Stage III.
+cervical [[cannabis-for-cancer-patients]] (Okamura et al., 1986, 1989) but not Stage III.
 This differential effect may relate to immune competence preserved in
 earlier-stage disease.
 
@@ -58,18 +58,18 @@ efficacy, consistent with observations for [[psk-psp-polysaccharide-peptides]] |
 - Many Japanese clinical trials were not blinded
 - Sample sizes sometimes inadequate for firm conclusions
 - Biomarker-guided patient selection not yet routine
-- Standardisation of treatment protocols varied across studies
+- Standardisation of [[cho-plant-growth-stage-treatment-protocols]] varied across studies
 - Reproducibility challenged by mixed gastric cancer results
 
 ## Future Directions
 
 - Identification of immune biomarkers predicting response
 - Optimisation of combination protocols with conventional therapies
-- Development of formulations enabling oral bioavailability
+- Development of formulations enabling [[first-pass-metabolism-and-oral-bioavailability]]
 
 ## See Also
 
-- [[mushroom-polysaccharide-chemotherapy-synergy]]
+- mushroom-polysaccharide-chemotherapy-synergy
 - [[mushroom-cancer-clinical-trials-overview]]
 - [[psk-gastric-cancer-clinical-trials]]
 - [[lentinan-gastric-cancer-combination-therapy]]
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

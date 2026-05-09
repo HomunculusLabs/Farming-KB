@@ -15,7 +15,7 @@ sources:
   - "Mudge, E. et al. (2019). \"Cannabinoid and terpene profiling of commercial Cannabis strains.\" ACS Omega, 4(6), 10052-10060."
   - "European Cannabis Flower Cup (2016-2017). Official results."
   - "PubMed. (2018). \"Cannabidiol and THC interactions: a review.\" Pharmacology & Therapeutics, 186, 62-77."
-  - "Black, D. et al. (2021). \"Terpene profiles in Cannabis sativa L.\" Molecules, 26(9), 2670."
+  - "Black, D. et al. (2021). \"[[cannabis-terpene-profiles-sativa]] in Cannabis sativa L.\" Molecules, 26(9), 2670."
 ---
 
 # Royal Gorilla
@@ -36,7 +36,7 @@ report potent, long-lasting euphoria with substantial physical relaxation.
 ## Lineage
 
 - **Chem's Sister** (Chemdawg phenotype) — provides fuel-like aroma and
-  heavy resin production
+  heavy [[cannabis-glandular-trichome-types-resin-production-clarke]]
 - **Sour Dubb** (Sour Diesel lineage) — contributes energetic cerebral
   onset and sour terpene profile
 - **Chocolate Diesel** — adds chocolate-coffee undertones and hybrid vigor
@@ -65,7 +65,7 @@ the touch. Some phenotypes express purple hues in cooler growing conditions.
 - **Myrcene** (0.8–1.5%) — Dominant; contributes sedative body effects and
   earthy-musky aroma
 - **Caryophyllene** (0.5–1.0%) — Peppery spice, anti-inflammatory activity
-  via CB2 receptor binding
+  via CB2 [[tihkal-receptor-binding-serotonin]]
 - **Limonene** (0.4–0.8%) — Citrus notes, mood elevation, anxiolytic
   properties
 - **Humulene** (0.2–0.5%) — Woody, earthy; appetite suppressant effects
@@ -114,8 +114,8 @@ psychoactive effects while potentially enhancing therapeutic benefits.
   Hemisphere)
 - **Height:** Medium-tall (100–150 cm indoors); responds well to LST and
   ScrOG training methods
-- **Difficulty:** Moderate. Requires nutrient management during mid-flowering
-  when calyx production peaks. Susceptible to powdery mildew in humid
+- **Difficulty:** Moderate. Requires [[green-cannabis-grow-bible-nutrient-management-ppm]] during mid-flowering
+  when calyx production peaks. Susceptible to [[cervantes-powdery-mildew-prevention-treatment]] in humid
   conditions. Terpene profile benefits from a 2-week flush before harvest.
 - **Climate:** Prefers temperate to warm, Mediterranean-like conditions.
   Thrives between 20–28°C during the day.
@@ -125,7 +125,7 @@ psychoactive effects while potentially enhancing therapeutic benefits.
 The balanced THC:CBD profile makes Royal Gorilla notable for medical use.
 Anecdotal reports and limited clinical evidence suggest efficacy for:
 - Chronic pain (neuropathic and inflammatory)
-- Treatment-resistant anxiety and PTSD symptoms
+- Treatment-resistant [[cannabis-anxiety-and-ptsd-treatment]] symptoms
 - Insomnia, particularly when sedation is desired
 - Appetite stimulation in chemotherapy patients
 - Muscle spasticity

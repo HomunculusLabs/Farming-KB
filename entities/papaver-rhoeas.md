@@ -28,7 +28,7 @@ Beyond its symbolic importance, the corn poppy has a documented history of use i
 
 - **Rhoeadine:** Major isoquinoline alkaloid, mild sedative
 - **Rhoeagenine:** Related benzylisoquinoline alkaloid
-- **Protopine:** Benzylisoquinoline alkaloid with antimicrobial properties
+- **Protopine:** Benzylisoquinoline alkaloid with [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]
 - **Allocryptopine:** Minor constituent
 - **Magnoflorine:** Quaternary aporphine alkaloid
 
@@ -60,14 +60,14 @@ Poultices of fresh petals have been applied to minor skin irritations, burns, an
 
 ## Permaculture and Ecological Applications
 
-*P. rhoeas* provides multiple ecosystem services in agricultural and permaculture contexts.
+*P. rhoeas* provides multiple [[biodiversity-of-fungi-ecosystem-services-agriculture]] in agricultural and permaculture contexts.
 
 - **Pollinator support:** Flowers are highly attractive to bees, hoverflies, and beetles, providing nectar and pollen resources during early to mid-summer
 - **Biodiversity indicator:** Presence indicates arable land with low herbicide pressure
-- **Soil health:** Annual root systems contribute to soil organic matter turnover
-- **Edible seeds:** Nutty-flavored seeds used in baking and cooking; rich in unsaturated fatty acids
+- **Soil health:** Annual root systems contribute to soil [[hamilton-composting-and-organic-matter-management]] turnover
+- **Edible seeds:** Nutty-flavored seeds used in baking and cooking; rich in unsaturated [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]
 
-In permaculture design, corn poppy can be integrated into annual polyculture beds and wildflower margins as a self-seeding component of disturbed-soil successions.
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], corn poppy can be integrated into annual polyculture beds and wildflower margins as a self-seeding component of disturbed-soil successions.
 
 ## See Also
 
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

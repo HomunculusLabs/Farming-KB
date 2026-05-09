@@ -1,5 +1,5 @@
 ---
-title: Hallucinogenic Mushroom Dose and Clinical Effects
+title: emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative Dose and Clinical Effects
 source: carolina-mushrooms_08qxp.md
 author: Hillebrand, Olszewski, Sedefov (EMCDDA)
 tags: [psilocybin, dose, effects, onset, duration, clinical, emcdda]
@@ -8,7 +8,7 @@ tags: [psilocybin, dose, effects, onset, duration, clinical, emcdda]
 # Hallucinogenic Mushroom Dose and Clinical Effects
 
 This page summarizes the clinical pharmacology of psilocybin-
-containing mushrooms as documented in the EMCDDA 2006 thematic
+[[psilocybin-containing-mushrooms-in-us]] as documented in the EMCDDA 2006 thematic
 paper. Effects depend on dose, individual sensitivity, prior
 experience, and set and setting.
 
@@ -20,11 +20,11 @@ EMCDDA report provides the following approximate potency ranges:
 
 | Species | Max Psilocybin Content |
 |---|---|
-| *Psilocybe semilanceata* | ~1% (highest commonly available) |
-| *Psilocybe azurescens* | ~1.8% (reported in specific specimens) |
+| *[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]* | ~1% (highest commonly available) |
+| *[[stamets-psi-psilocybe-azurescens-species-guide]]* | ~1.8% (reported in specific specimens) |
 | *Psilocybe bohemica* | ~1.5% |
-| *Psilocybe cubensis* | ~0.6% |
-| *Panaeolus cyanescens* | ~0.8% |
+| *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* | ~0.6% |
+| *[[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]* | ~0.8% |
 
 These values are orientation estimates only. Individual specimens
 can vary widely. More than one active compound is typically present,

@@ -15,7 +15,7 @@ sources:
 
 ## Overview
 
-Macronutrients are the mineral elements that plants require in relatively large quantities for growth, development, and reproduction. The primary macronutrients -- nitrogen (N), phosphorus (P), and potassium (K) -- form the basis of the N-P-K fertilizer system that has dominated agriculture since Justus von Liebig's work in the mid-1800s. Secondary macronutrients include calcium (Ca), magnesium (Mg), and sulfur (S).
+Macronutrients are the mineral elements that plants require in relatively large quantities for growth, development, and reproduction. The primary macronutrients -- nitrogen (N), phosphorus (P), and potassium (K) -- form the basis of the N-P-K fertilizer system that has dominated agriculture since Justus von Liebig's work in the mid-1800s. [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]] include calcium (Ca), magnesium (Mg), and sulfur (S).
 
 ## Nitrogen (N)
 
@@ -27,7 +27,7 @@ Nitrogen is arguably the most critical nutrient for plant growth. It serves as:
 - **Essential for enzymes:** All cellular activities require enzyme catalysis, and all enzymes are proteins. Nothing happens on a cellular level without nitrogen-based enzymes.
 - **Component of nucleotides:** The building blocks of DNA and RNA. Much of a plant's cellular activity is devoted to ensuring an adequate supply of nitrogen-based enzymes.
 - **Part of chlorophyll:** The chlorophyll molecule (C55H72MgN4O5) contains four nitrogen atoms. Without them, there is no photosynthesis, which is why nitrogen deficiency causes yellowing (loss of the green chlorophyll pigment).
-- **Cell membrane function:** Proteins serve as channels, carriers, and motors for nutrient and water transport across cell membranes.
+- **[[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] function:** Proteins serve as channels, carriers, and motors for nutrient and water transport across cell membranes.
 
 ### Deficiency Symptoms
 
@@ -37,7 +37,7 @@ Nitrogen is arguably the most critical nutrient for plant growth. It serves as:
 
 ### Excess
 
-- Excessive vegetative growth at the expense of flowering and fruiting
+- Excessive [[cannabis-vegetative-growth-stage]] at the expense of flowering and fruiting
 - Soft, succulent tissue susceptible to disease and pests
 - Environmental harm: nitrogen leaching contaminates groundwater and surface water
 
@@ -64,7 +64,7 @@ Atmospheric nitrogen (N2) is 78% of the atmosphere but unavailable to plants due
 
 ### Soil Behavior
 
-Phosphorus comes from weathering of apatite rock. In soil, it is so tightly adsorbed to clay particles and organic matter that 1 acre might have only 1 pound dissolved and available to plants. This immobility means tremendous amounts are applied (22+ million tons per year globally). Approximately 95% of plants associate with mycorrhizal fungi, which provide phosphorus to plants in exchange for carbon from root exudates.
+Phosphorus comes from weathering of apatite rock. In soil, it is so tightly adsorbed to clay particles and [[hamilton-composting-and-organic-matter-management]] that 1 acre might have only 1 pound dissolved and available to plants. This immobility means tremendous amounts are applied (22+ million tons per year globally). Approximately 95% of plants associate with mycorrhizal fungi, which provide phosphorus to plants in exchange for carbon from [[mycorrhizal-root-exudates-pathogen-interactions]].
 
 ### Peak Phosphorus Concern
 
@@ -98,7 +98,7 @@ Potassium is the eighth most abundant element in Earth's crust (about 2.5%). It 
 
 ### Role in Plants
 
-- **Cell wall structure:** A key structural component of cell walls, which form around every plant cell
+- **[[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] structure:** A key structural component of cell walls, which form around every plant cell
 - **Enzyme component:** Part of many enzyme systems
 - **Signaling molecule:** Under normal conditions, cytosol has very low calcium concentration with supplies sequestered in organelles. Increasing concentrations activate enzymes and speed up reactions.
 - **Cell division:** Found in large concentrations in dividing meristematic cells
@@ -141,14 +141,6 @@ Very abundant on Earth. Weathers from many minerals, most familiarly dolomite (C
 - **Plant defense:** Sulfur-containing compounds contribute to flavor molecules that protect plants from herbivory
 
 ### Deficiency Symptoms
-
-- Yellowing in younger leaves (sulfur is immobile in plants -- distinguishable from nitrogen deficiency, which yellows older leaves)
-- Reduced growth
-
-### Soil Behavior
-
-Released from organic material by microbial activity and weathered from gypsum rock. Historically, acid rain provided significant sulfur; stricter air pollution regulations have dramatically reduced atmospheric sulfur deposition, making sulfur deficiencies more common.
-
 ## See Also
 
 - [[plant-nutrient-mobility-in-soil|nutrient mobility]]

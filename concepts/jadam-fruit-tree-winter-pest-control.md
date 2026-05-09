@@ -1,5 +1,5 @@
 ---
-title: Fruit Tree Winter Pest Control (JADAM Recipe #13)
+title: Fruit Tree Winter comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol (JADAM Recipe #13)
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-JADAM pesticide recipe #13 is a dormant season spray for fruit trees. Applied after leaf fall and before bud break, this high-concentration treatment controls overwintering pests and diseases including scale insects, Valsa canker, moss disease, and pear sucker. The addition of fine red clay powder provides physical coating that enhances the pesticidal effect.
+JADAM pesticide recipe #13 is a dormant season spray for fruit trees. Applied after leaf fall and before bud break, this high-concentration treatment controls overwintering [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] including scale insects, Valsa canker, moss disease, and pear sucker. The addition of fine red clay powder provides physical coating that enhances the pesticidal effect.
 
 **Developed by:** Chanmo Gim
 
@@ -27,7 +27,7 @@ For 500 L (132 gal) of spray solution:
 ## Target Pests and Diseases
 
 - Valsa canker
-- Scale insects (arrowhead scale, other scale)
+- Scale insects ([[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]], other scale)
 - Pear sucker
 - Moss disease
 - Overwintering insect eggs and larvae
@@ -46,8 +46,8 @@ For fruit trees that do NOT shed leaves (evergreens):
 
 ## Enhancement Options
 
-- Add [[jadam-canker-leaf-spot-pesticide]] - Recipe #5 for in-season disease control
-- [[jadam-wetting-agent-jwa]] - How to make JADAM wetting agent
+- Add [[jadam-canker-leaf-spot-pesticide]] - Recipe #5 for in-season [[hamilton-pest-and-disease-control-organic]]
+- [[jadam-wetting-agent-jwa]] - How to make JADAM [[jadam-nutrient-management-wetting-agent-and-calcium]]
 - [[jadam-red-clay-powder-method]]
 - [[jadam-pesticide-for-fungal-diseases]]
 ## Practical Considerations
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

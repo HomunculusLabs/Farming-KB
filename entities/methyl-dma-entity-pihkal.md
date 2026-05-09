@@ -1,5 +1,5 @@
 ---
-title: "METHYL-DMA (DMMA; 2,5-DIMETHOXY-N-METHYLAMPHETAMINE) -- PIHKAL Entry #126"
+title: "METHYL-DMA (DMMA; 2,5-DIMETHOXY-N-METHYLAMPHETAMINE) -- 2c-b-pihkal-entry-20 #126"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # METHYL-DMA
 
-PIHKAL entry #126. DMMA; 2,5-DIMETHOXY-N-METHYLAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #126. DMMA; 2,5-DIMETHOXY-N-METHYLAMPHETAMINE.
 
 ## Chemical Name
 
@@ -117,7 +117,7 @@ METHYL-MDA with LAH.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

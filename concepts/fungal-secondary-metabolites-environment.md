@@ -1,20 +1,19 @@
 ---
-title: Fungal Secondary Metabolites in the Environment
+title: Fungal antifungal-secondary-metabolites-coprophilous-fungi in the Environment
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
-tags: [[mycology, fungi]
-sources: []
+tags: [mycology, fungi]
+sources:
+  sources: []
 ---
-# Fungal Secondary Metabolites in the Environment
-
-Fungal secondary metabolites are chemically diverse compounds not directly required for growth but conferring ecological advantages. They mediate interactions with other organisms, protect against environmental stress, and have profound effects on ecosystem processes and human health. These metabolites are central to [[fungal-biogeochemistry]] across all environments.
+# Fungal Secondary Metabolites in the Environment Fungal secondary metabolites are chemically diverse compounds not directly required for growth but conferring ecological advantages. They mediate interactions with other organisms, protect against environmental stress, and have profound effects on ecosystem processes and human health. These metabolites are central to [[fungal-biogeochemistry]] across all environments.
 
 ## Lichen Secondary Metabolites
 
 [[fungal-mineral-weathering]] and soil formation
 - **UV protection**: Polyphenolic compounds absorb UV radiation, transmitting longer wavelengths that support photosynthesis while protecting both fungal and photobiont cells
-- **Antimicrobial activity**: Lichen acids inhibit bacterial and fungal competitors
+- **Antimicrobial activity**: Lichen acids inhibit [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] competitors
 - **Herbivore deterrence**: Many lichen compounds are unpalatable or toxic to invertebrate herbivores
 - **Water relations**: Some metabolites influence thallus water retention and desiccation tolerance
 
@@ -22,7 +21,7 @@ In addition to crystalline secondary metabolites, some lichens employ hydrophobi
 
 ## Oxalic Acid and Calcium Oxalate
 
-Oxalic acid is one of the most environmentally significant fungal metabolites, closely linked to [[mycotoxins-and-human-health]] and [[fungal-antibiotics]] function as ecological weapons in soil and decaying wood, where fungi compete intensely with bacteria for nutrient resources. These compounds are important mediators of [[fungal-community-ecology]].
+Oxalic acid is one of the most environmentally significant fungal metabolites, closely linked to [[mycotoxins-and-human-health]] and [[fungal-antibiotics]] function as ecological weapons in soil and decaying wood, where fungi compete intensely with bacteria for nutrient resources. These compounds are important mediators of fungal-community-ecology.
 
 Antibiotic production is frequently regulated by nutrient limitation and quorum sensing, ensuring that metabolic investment in these costly compounds occurs primarily under competitive conditions.
 
@@ -30,9 +29,9 @@ Antibiotic production is frequently regulated by nutrient limitation and quorum 
 
 Hydrophobins are small (~100 amino acids), cysteine-rich proteins that self-assemble at hydrophobic/hydrophilic interfaces, forming highly stable amphipathic membranes. They are unique to filamentous fungi and serve diverse roles:
 
-- **Aerial hyphae formation**: Coat hyphal surfaces to break surface tension, enabling emergence into air
+- **Aerial hyphae formation**: Coat hyphal surfaces to break [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]], enabling emergence into air
 - **Spore hydrophobicity**: Render spores water-repellent, facilitating efficient aerial dispersal
-- **Fruiting body formation**: Line the air channels in basidiocarp and ascocarp tissues
+- **Fruiting [[suppressed-incomplete-fruit-body-formation-brassinosteroid-treatment]]**: Line the air channels in basidiocarp and ascocarp tissues
 - **Pathogenicity**: Some pathogenic fungi use hydrophobins to coat infection structures and mediate surface interactions
 
 Class 1 hydrophobins form highly insoluble rodlet layers similar to those described in lichens, while class 2 hydrophobins form less stable assemblies that are more readily solubilized. The ability of hydrophobins to reverse the wettability of surfaces has attracted interest for biotechnological applications.
@@ -42,7 +41,7 @@ Class 1 hydrophobins form highly insoluble rodlet layers similar to those descri
 Some fungi produce low-molecular-weight compounds that mediate enzymatic oxidation of recalcitrant substrates. These are relevant to [[fungal-decomposition-processes]]:
 
 - **3-Hydroxyanthranilate (HAA)**: Produced by the basidiomycete *Pycnoporus cinnabarinus*; enables laccase to oxidize non-phenolic lignin components
-- **Other mediators**: ABTS, HBT, and related compounds can be added to [[fungal-responses-climate-change]] and ecosystem-level processes. The ecological roles of secondary metabolites span nutrient acquisition, competition, defense, and communication, making them integral to the functioning of fungal-dominated ecosystems such as forest soils and [[fungal-roles-in-metal-biogeochemistry]], [[fungal-enzyme-systems]], [[fungal-enzymatic-capabilities]]
+- **Other mediators**: ABTS, HBT, and related compounds can be added to [[fungal-responses-climate-change]] and ecosystem-level processes. The ecological roles of secondary metabolites span nutrient acquisition, competition, defense, and communication, making them integral to the functioning of fungal-dominated ecosystems such as forest soils and fungal-roles-in-metal-biogeochemistry, [[fungal-enzyme-systems]], [[fungal-enzymatic-capabilities]]
 
 ## See Also
 
@@ -63,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +104,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

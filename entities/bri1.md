@@ -26,7 +26,7 @@ kinase (LRR-RLK) that serves as the primary cell surface receptor for
    cytoplasmic kinases (RLCKs) including BSK1 and CDG1.
 
 BAK1 also functions as a co-receptor for other LRR-RKs involved in plant
-immunity (FLS2) and cell death control, making it a shared signaling
+immunity (FLS2) and [[blesching-cannabis-apoptosis-and-cancer-cell-death]] control, making it a shared signaling
 component in multiple pathways.
 
 ## Downstream Signaling Cascade
@@ -47,7 +47,7 @@ component in multiple pathways.
 - **bri1 null mutants**: Extreme dwarfism (~10% of wild-type height),
   dark green leaves, reduced apical dominance, male sterility.
 - **bri1 weak alleles**: Moderate dwarfism, useful for dose-response
-  studies and agricultural applications where reduced height is desired.
+  studies and [[chamovitz-photoperiodism-agricultural-applications]] where reduced height is desired.
 - **bri1 overexpressors**: Enhanced brassinosteroid sensitivity and
   larger organ size.
 
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,17 +1,18 @@
 ---
-title: "Pest and Disease Prevention Overview"
+title: "Pest and cervantes pest disease prevention overview Overview"
 created: 2026-04-28
 tags: [pest-prevention, disease-control, cleanliness, IPM, sanitation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md]
+sources: sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Pest and Disease Prevention Overview
 
 Prevention is the foundation of integrated pest management in
-cannabis cultivation. Jorge Cervantes emphasizes in Chapter
+[[query-how-does-no-till-cannabis-cultivation-work]]. Jorge Cervantes emphasizes in Chapter
 Fourteen that "an ounce of prevention is worth a pound of cure"
 when it comes to insects, fungi, and diseases. The key principle
 is straightforward: preventing infestations is far easier and less
@@ -56,7 +57,7 @@ shoes, before entering an indoor garden.
 Used potting soil or soilless mix should be discarded after each
 crop cycle. Some growers attempt to reuse soil to save money, but
 this practice often leads to diminished harvests and increased pest
-pressure. Used soil may harbor harmful pests and diseases that
+pressure. Used soil may harbor harmful [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] that
 have developed resistance to sprays. New potting soil costs more
 upfront but eliminates many potential problems.
 
@@ -78,7 +79,7 @@ humidity, which is critical because mold and fungal diseases
 thrive in stagnant, moist air.
 
 A vent fan connected to a humidistat is often the most effective
-form of humidity control. Cervantes documents a case where a grow
+form of [[cervantes-humidity-control-dehumidification]]. Cervantes documents a case where a grow
 room without ventilation had humidity near 100 percent, causing
 roots to grow from stems. Installing a vent fan dropped humidity
 to around 50 percent, eliminated the mold problem, and increased
@@ -90,7 +91,7 @@ Planting insect-resistant and fungus-resistant cannabis strains
 provides a significant advantage. Cannabis indica tends to be
 more resistant to pests, while sativa varieties show greater
 resistance to fungal attacks. Mother plants known to be resistant
-should be selected as the foundation of any breeding program.
+should be selected as the foundation of any [[cervantes-breeding-program-design-goal-setting]].
 
 Maintaining plants in vigorous, fast-growing condition is crucial.
 Diseases attack sick plants first, and strong plants tend to
@@ -108,7 +109,7 @@ Cervantes outlines a logical progression of control measures:
 2. Manual removal: fingers, sponges, water sprays
 3. Organic sprays: insecticidal soap, neem, pyrethrin,
    biological controls
-4. Natural predators: beneficial insects released to
+4. Natural predators: [[coleman-beneficial-insects-and-ecological-pest-control]] released to
    prey on pests
 5. Chemical controls: synthetic pesticides as a last
    resort
@@ -120,6 +121,9 @@ from 100 to 100 million in a single month. This exponential growth
 is why early detection and immediate response are essential.
 
 ## See Also
+
+- [[beer-styles-overview]]
+- [[cervantes-rejuvenation-re-vegging]]
 
 - [[cervantes-biological-pest-control-predators]]
 - [[cervantes-spider-mites-identification-control]]

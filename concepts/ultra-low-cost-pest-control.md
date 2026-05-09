@@ -18,7 +18,7 @@ Modern agriculture has relied on increasingly toxic chemical pesticides, yet pes
 
 ## Why Pests Attack
 
-JADAM frames pest problems as symptoms of underlying crop weakness rather than enemies to be destroyed. Pests and diseases primarily attack crops that are already stressed, malnourished, or growing in unfavorable conditions. A healthy crop with balanced nutrition, strong roots, and a diverse microbial community has natural resistance that makes pesticides largely unnecessary. This is why JADAM emphasizes soil management and nutritional balance as the first line of defense against pests.
+JADAM frames pest problems as symptoms of underlying crop weakness rather than enemies to be destroyed. [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] primarily attack crops that are already stressed, malnourished, or growing in unfavorable conditions. A healthy crop with balanced nutrition, strong roots, and a diverse [[edaphic-factors-microbial-community-structure]] has natural resistance that makes pesticides largely unnecessary. This is why JADAM emphasizes soil management and [[jadam-nutritional-balance-fertilizer]] as the first line of defense against pests.
 
 Key factors that weaken crops and invite pest attacks:
 - Soil compaction preventing proper root development
@@ -33,7 +33,7 @@ JADAM Natural Pesticide is a homemade, ultra-low-cost alternative to commercial 
 
 **Base ingredients:**
 - JADAM Wetting Agent (JWA) — a surfactant made from canola oil and caustic potash that ensures the pesticide coats and penetrates target surfaces
-- JADAM Indigenous Microorganism Solution (JMS) — provides biological activity
+- JADAM Indigenous [[jadam-microorganism-solution-culturing]] (JMS) — provides biological activity
 - Herbal active ingredients — selected based on the target pest
 
 **Herbal ingredients for specific pests:**
@@ -73,11 +73,11 @@ JADAM's website (en.jadam.kr) contains thousands of farmer-contributed case stud
 
 Beyond sprayed pesticides, JADAM employs several physical and cultural methods:
 
-**Mulching for pest suppression:** Leaving grass cut at 5 cm height between crop rows helps stop the spread of aphids and mites. The grass creates a physical barrier and harbors beneficial insects that prey on pests.
+**Mulching for pest suppression:** Leaving grass cut at 5 cm height between crop rows helps stop the spread of aphids and mites. The grass creates a physical barrier and harbors [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] that prey on pests.
 
 **Cover crop integration:** Growing cover crops in orchards and between rows reduces pest incidence by increasing biodiversity. A diverse plant community supports diverse insect populations, preventing any single pest species from dominating.
 
-**Soil temperature management:** Hot soil temperatures stress crops and make them susceptible to pests. JADAM's mulching and cover crop methods maintain moderate soil temperatures, keeping crops healthy and pest-resistant.
+**Soil temperature management:** Hot soil temperatures stress crops and make them susceptible to pests. JADAM's [[solomon-mulching-and-cover-cropping]] crop methods maintain moderate soil temperatures, keeping crops healthy and pest-resistant.
 
 **Proper spacing:** Leaving ample space between crop rows allows grass to grow without competing with crops, while providing the biodiversity benefits that suppress pest populations.
 

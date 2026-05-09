@@ -1,21 +1,21 @@
 ---
-title: Psilocybe baeocystis
+title: stamets-psi-psilocybe-baeocystis-knobby-tops
 created: 2026-04-28
 type: species
 tags: [psilocybin, entheogenic, agaricales, pacific-northwest, baeocystin]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md]
+sources: sources: []
 ---
 
 # Psilocybe baeocystis
 
 **Psilocybe baeocystis** Singer & Smith is a moderately to highly potent psilocybin
-mushroom native to the Pacific Northwest of North America. Common names include baeos
+mushroom native to the Pacific Northwest of [[psilocybin-north-america-pacific-northwest]]. Common names include baeos
 and knobby tops. The species epithet derives from the Greek words "baion" (small) and
 "kystis" (bladder), referring to the shape of the spores, which are characteristically
 mango-shaped. P. baeocystis is taxonomically significant as the species from which the
-alkaloid baeocystin was first identified, lending its name to this lesser-studied
+[[gartz-psilocybin-alkaloid-baeocystin-chemistry]] was first identified, lending its name to this lesser-studied
 psychoactive compound.
 
 ## Taxonomy and Classification
@@ -95,9 +95,9 @@ present in significant concentrations.
 In 1960 and 1961, eight individuals in the Pacific Northwest experienced unintended
 intoxication from mushrooms identified as P. baeocystis. One child died after three days
 of hospitalization with a 106 degree F fever and cerebral edema, symptoms consistent
-with amatoxin poisoning from Galerina or Amanita species. Subsequent review by Paul
+with [[bloomfield-amatoxin-poisoning-mechanism]] from Galerina or Amanita species. Subsequent review by Paul
 Stamets revealed that photographs of the mushrooms in question showed specimens
-resembling Psilocybe cyanescens rather than P. baeocystis. The identifying mycologist,
+resembling [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]] rather than P. baeocystis. The identifying mycologist,
 Alexander Smith, upon confrontation with the photographic discrepancy, retracted his
 identification and noted that other mushroom species were present in the yard but were
 not preserved. The child's death spurred the search for and discovery of baeocystin as
@@ -130,4 +130,4 @@ sawdust or wood chip substrates supplemented with bran, similar to methods used 
 cyanescens, but fruiting initiation appears to require specific environmental conditions
 that are difficult to replicate indoors. The species may benefit from outdoor bed
 cultivation using conifer duff or bark mulch in shaded, humid environments, mirroring
-its natural habitat. Sclerotia production has not been documented for this species.
+its natural habitat. [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] has not been documented for this species.

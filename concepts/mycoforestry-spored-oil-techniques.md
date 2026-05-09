@@ -3,7 +3,7 @@ title: Mycoforestry Spored Oil Techniques
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "Stamets - Mycelium Running"
+  - "Stamets - woodlovers-mycelium-running-pathway-technique"
 type: concept
 tags: [forest-garden, mycology]
 ---
@@ -18,13 +18,13 @@ When a tree is felled, cut surfaces are enormous entry wounds for fungi. In conv
 
 Spored oils reverse this dynamic by:
 
-- Saturating chain saw bar oil with mushroom spores
+- Saturating chain saw bar oil with [[query-how-to-store-mushroom-spores-long-term]]
 - Depositing spores into wood tissue with every cut
 - Driving spores deep into wood through the chain's cutting action
 - Providing immediate inoculation before competitors arrive
 - Jump-starting decomposition and habitat recovery upon cutting
 
-When spored oil makes contact with cut wood, mycelial colonies of species like oyster mushrooms (Pleurotus ostreatus) soon develop. By choosing aggressive saprophytic species, parasitic fungi are confronted in a form of mycelial combat, lessening their resurgence.
+When spored oil makes contact with cut wood, mycelial colonies of species like [[query-how-to-grow-oyster-mushrooms-at-home]] (Pleurotus ostreatus) soon develop. By choosing aggressive saprophytic species, parasitic fungi are confronted in a form of mycelial combat, lessening their resurgence.
 
 ## How Spored Oils Work
 
@@ -43,8 +43,8 @@ The method is particularly effective combined with chipping. Chipping creates en
 Recommended aggressive saprophytic species for spored oil formulations:
 
 - **Oyster mushrooms** (Pleurotus ostreatus): Fast colonizers competing aggressively; first species to show results from spored oil inoculation
-- **Turkey tail** (Trametes versicolor): Hardy competitor with medicinal properties; tolerates wide range of wood types
-- **Wood lovers** (Hypholoma capnoides): Persistent stump colonizers fruiting for more than a decade
+- **Turkey tail** ([[staycare-trametes-versicolor-bioremediation-applications]]): Hardy competitor with medicinal properties; tolerates wide range of wood types
+- **Wood lovers** ([[growing-gourmet-hypholoma-capnoides-cultivation]]): Persistent stump colonizers fruiting for more than a decade
 - **Reishi** (Ganoderma species): Medicinal species competing effectively against pathogens
 
 The goal is to occupy the ecological niche with beneficial decomposers before pathogens establish themselves.
@@ -62,10 +62,10 @@ Wood fragments with greater surface area are more likely to contact spores or my
 
 ## Integration with QIM
 
-Spored oils are one component of the [[mycoforestry]] -- broader context of fungal forest management
+Spored oils are one component of the [[mycoforestry]] -- broader context of fungal [[mollison-pdc-forest-management-products]]
 - [[mycoforestry-practices]] -- comprehensive mycoforestry techniques
 - [[mycorestoration-overview]] -- restoration applications
-- [[mycoforestry-forest-management-with-fungi]] -- integrated forest management approach
+- mycoforestry-forest-management-with-fungi -- integrated forest management approach
 ## Practical Considerations
 
 Successful implementation of Mycoforestry Spored Oil Techniques requires attention to
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

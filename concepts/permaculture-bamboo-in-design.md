@@ -1,5 +1,5 @@
 ---
-title: Bamboo in Permaculture Design
+title: Bamboo in bill-mollison-permaculture-a-designers-manual-permaculture-design-principles
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -29,11 +29,11 @@ Bamboo's dense rhizome network binds soil on steep slopes and waterway banks. Sw
 
 ### Structural and Construction Uses
 
-Bamboo poles serve as scaffolding, trellis material, fencing, and building elements. The Manual references bamboo-and-straw lean-to structures for season extension in cold climates. Chinese composting systems use bamboo poles placed in heaps to create air tunnels for aerobic decomposition. In the humid tropics, bamboo is a primary building material for houses, trellises, and garden structures.
+Bamboo poles serve as scaffolding, trellis material, fencing, and building elements. The Manual references bamboo-and-straw lean-to structures for [[comparison-season-extension-techniques-vs-cold-frame-gardening]] in cold climates. Chinese composting systems use bamboo poles placed in heaps to create air tunnels for aerobic decomposition. In the humid tropics, bamboo is a primary [[fungal-building-material-deterioration]] for houses, trellises, and garden structures.
 
 ### Mulch and Soil Building
 
-Bamboo leaves provide a constant supply of mulch. Fallen leaves from bamboo groves contribute to humus creation, which is especially critical in tropical soils where nutrients are rapidly leached. The high silica content of bamboo leaves also benefits soil structure.
+Bamboo leaves provide a constant supply of mulch. Fallen leaves from bamboo groves contribute to humus creation, which is especially critical in [[mollison-designers-tropical-soils-and-cation-exchange-management]] where nutrients are rapidly leached. The high silica content of bamboo leaves also benefits soil structure.
 
 ### Craft and Income
 
@@ -57,8 +57,9 @@ Bamboo integrates with [[permaculture-woody-mulch-systems]] through leaf litter 
 ## Related Concepts
 
 - [[permaculture-forestry-systems]] -- Bamboo as a structural element in multi-strata systems
-- [[permaculture-design-process]] -- Bamboo in natural building
-- [[permaculture-climate-strategies]] -- Bamboo's primary climate zone
+- [[permaculture-design-process]] -- Bamboo in [[query-how-do-i-choose-a-natural-building-method-for-my-climate]]
+- [[permaculture-climate-strategies]] -- Bamboo's primary [[holzer-climate-zone-microclimate-creation]]
+
 ## Practical Considerations
 
 Successful implementation of Bamboo in Permaculture Design requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -4,13 +4,14 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [water, conservation]
-sources: []
+sources:
+  sources: []
 ---
 # Oomycetes (Water Molds) — Biology and Freshwater Diversity
 
 ## Taxonomic Placement
 
-Oomycetes are now classified in **Kingdom Straminipila** (heterokont organisms), **NOT** as true Fungi. This reclassification reflects fundamental differences in cell wall composition, flagellar structure, and molecular phylogeny that separate them from the fungal kingdom. Despite their traditional treatment in mycological texts, they are more closely related to brown algae and diatoms than to true fungi.
+Oomycetes are now classified in **Kingdom Straminipila** (heterokont organisms), **NOT** as true Fungi. This reclassification reflects fundamental differences in [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] composition, flagellar structure, and molecular phylogeny that separate them from the fungal kingdom. Despite their traditional treatment in mycological texts, they are more closely related to brown algae and diatoms than to true fungi.
 
 ## Diversity and Classification
 
@@ -27,7 +28,7 @@ Several key features separate oomycetes from true fungi:
 - **Cell walls** contain cellulose rather than chitin
 - **Zoospores** bear two flagella of different types: one tinsel (mastigonemate) and one whiplash (smooth) — a heterokont condition
 - Diploid somatic condition (unlike the haploid-dominant true fungi)
-- Oogamous sexual reproduction
+- Oogamous [[fungal-life-cycles-sexual-reproduction-metamorphosis]]
 
 ## Ecological Roles
 
@@ -37,15 +38,15 @@ Oomycetes include some of the most devastating plant pathogens known. Most famou
 
 ### Freshwater Saprobes
 
-Many oomycetes function as saprobes in freshwater ecosystems, playing important roles in the decomposition of organic material. Their zoospores allow rapid colonization of submerged substrates, making them significant contributors to [[fungal-pathogens-in-agriculture]] research and drive ongoing efforts in disease resistance breeding and chemical control.
+Many oomycetes function as saprobes in freshwater ecosystems, playing important roles in the decomposition of organic material. Their zoospores allow rapid colonization of submerged substrates, making them significant contributors to [[fungal-pathogens-in-agriculture]] research and drive ongoing efforts in disease [[cannabis-disease-pest-resistance-breeding-clarke]] and chemical control.
 
 ### Aquatic Ecosystems
 
-In freshwater habitats, saprolegnialean oomycetes contribute to the decomposition of submerged plant material and animal remains, facilitating nutrient cycling. Their ability to rapidly colonize fresh substrates via zoospore swimming gives them a competitive advantage in flowing water systems. However, pathogenic species such as *Saprolegnia parasitica* cause significant mortality in aquaculture and wild fish populations, particularly affecting salmonid eggs and juveniles.
+In freshwater habitats, saprolegnialean oomycetes contribute to the decomposition of submerged plant material and animal remains, facilitating [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. Their ability to rapidly colonize fresh substrates via zoospore swimming gives them a competitive advantage in flowing water systems. However, pathogenic species such as *Saprolegnia parasitica* cause significant mortality in aquaculture and wild fish populations, particularly affecting salmonid eggs and juveniles.
 
 ### Emerging Diseases
 
-Several oomycete species have emerged as significant threats to biodiversity in recent decades. *Batrachochytrium dendrobatidis* (a chytrid, not an oomycete, but often studied alongside oomycete pathogens) and oomycete-like pathogens of amphibians highlight the vulnerability of aquatic organisms to these microorganisms. Climate change and global trade are facilitating the spread of introduced oomycete pathogens into naive ecosystems.
+Several oomycete species have emerged as significant threats to biodiversity in recent decades. *Batrachochytrium dendrobatidis* (a chytrid, not an oomycete, but often studied alongside oomycete pathogens) and oomycete-like pathogens of amphibians highlight the vulnerability of aquatic organisms to these microorganisms. [[dighton-fungi-climate-change-feedback]] and global trade are facilitating the spread of introduced oomycete pathogens into naive ecosystems.
 
 ## Molecular Detection
 
@@ -53,7 +54,7 @@ The cellulose-containing cell walls and distinct ribosomal RNA sequences of oomy
 
 The morphological similarities between oomycetes and true fungi historically led to their inclusion in mycological studies, and many [[fungal-pathogens-in-agriculture]]
 
-- [[fungal-chitin-decomposition-nutrient-cycling]]
+- fungal-chitin-decomposition-nutrient-cycling
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 ## Practical Considerations
 
@@ -71,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,11 +1,12 @@
 ---
-title: Sepp Holzer Fruit Tree Varieties
+title: Sepp sepp holzer fruit tree varieties Tree Varieties
 created: 2026-04-15
 updated: 2026-04-18
 type: concept
 tags: [reference]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Sepp Holzer Fruit Tree Varieties for Mountain Climates
@@ -14,7 +15,7 @@ Updated: 2026-04-18
 
 Source: Sepp Holzer, *Sepp Holzer's Permaculture* (2010)
 
-Sepp Holzer cultivates a large variety of fruit trees at altitudes up to 1,500m above sea level on the Krameterhof, despite expert opinion that fruit growing ends at 1,000m in the Lungau region.
+Sepp Holzer cultivates a large variety of [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] at altitudes up to 1,500m above sea level on the Krameterhof, despite expert opinion that [[holzer-fruit-growing-marginal-climates]] ends at 1,000m in the Lungau region.
 
 ## Altitude Adaptation Principle
 
@@ -70,7 +71,7 @@ Holzer also cultivates cherries, plums, and other stone fruit:
 ## Browse Protection
 
 To protect young fruit trees from deer and other browsers, Holzer uses a salve made from:
-- Bone salve (intense, long-lasting odour that repels deer)
+- [[holzer-bone-salve-rock-dust]] (intense, long-lasting odour that repels deer)
 - Linseed oil (binds ingredients, adheres to bark)
 - Slaked lime (emits heat, combines ingredients)
 - Fine quartz sand (unpleasant sensation between teeth when odour fades)
@@ -80,7 +81,7 @@ The salve is either brushed onto trees or sprinkled over them. Alternative prote
 
 ## Stone Fruits at Altitude
 
-Despite conventional wisdom, Holzer successfully grows apricots, peaches, plums, and cherries at high altitudes. The key is site selection: south-facing slopes with stone walls behind the trees to absorb and radiate heat. Apricots are particularly successful when planted against stone walls that create a warm microclimate. He recommends planting multiple varieties for cross-pollination and staggered harvest. See [[permaculture-fruit-tree-guide]] covers general fruit tree protection strategies.
+Despite conventional wisdom, Holzer successfully grows apricots, peaches, plums, and cherries at high altitudes. The key is [[fukuoka-creating-natural-farm-site-selection-establishment]]: south-facing slopes with stone walls behind the trees to absorb and radiate heat. Apricots are particularly successful when planted against stone walls that create a warm microclimate. He recommends planting multiple varieties for cross-pollination and staggered harvest. See [[permaculture-fruit-tree-guide]] covers general fruit tree protection strategies.
 
 ## Seed-Grown vs Grafted Trees
 

@@ -24,13 +24,13 @@ sources:
 
 **Undaria pinnatifida** (Harvey) Suringar, commonly known as **wakame**, is a large brown alga (Phaeophyceae) native to the northwest Pacific. It is one of the most commercially significant seaweeds globally, with annual production exceeding 2 million tonnes, primarily from China, Japan, and Korea.
 
-The species is a staple ingredient in East Asian cuisine, valued for its tender texture and mild, slightly sweet flavor. It appears most commonly in miso soup, sunomono salads, and pickled preparations. Wakame is rich in **fucoidan**, **alginate**, and **fucoxanthin** — bioactive compounds with documented health benefits.
+The species is a staple ingredient in East Asian cuisine, valued for its tender texture and mild, slightly sweet flavor. It appears most commonly in miso soup, sunomono salads, and pickled preparations. Wakame is rich in **fucoidan**, **alginate**, and **fucoxanthin** — [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] with documented health benefits.
 
 Outside its native range, U. pinnatifida is one of the most widespread marine invasive species, established on every continent except Antarctica. Its rapid growth rate, high reproductive output, and broad environmental tolerance make eradication virtually impossible once introduced. Spread occurs primarily via hull fouling and aquaculture stock transfers.
 
 ## Taxonomy and Morphology
 
-**Undaria pinnatifida** belongs to the order Laminariales (kelps) and is the sole species in its genus. It is closely related to *Alaria esculenta* (winged kelp) and *Saccharina* species, sharing a heteromorphic life cycle with microscopic gametophyte and macroscopic sporophyte phases.
+**Undaria pinnatifida** belongs to the order Laminariales (kelps) and is the sole species in its genus. It is closely related to *Alaria esculenta* (winged kelp) and *Saccharina* species, sharing a heteromorphic [[bloomfield-fungal-life-cycle-spiral-versus-circle]] with microscopic gametophyte and macroscopic sporophyte phases.
 
 - **Division:** Ochrophyta
 - **Class:** Phaeophyceae
@@ -86,11 +86,11 @@ Beyond direct consumption, wakame is processed into chips, noodles, and condimen
 
 **Undaria pinnatifida** is classified among the 100 worst invasive species by the Global Invasive Species Database. Its invasive success stems from rapid growth (up to 2 cm/day), high fecundity (millions of spores per sporophyll), broad environmental tolerance, and the ability to colonize artificial structures in harbors and marinas.
 
-Ecological impacts include displacement of native macroalgae through competition for space and light, alteration of benthic community composition, and modification of habitat structure. In New Zealand, Undaria invasion has been linked to declines in native coralline algae and changes in invertebrate communities on invaded wharf structures.
+Ecological impacts include displacement of native macroalgae through competition for space and light, alteration of benthic [[core-endorhiza-bacterial-community-composition-cannabis]], and modification of habitat structure. In New Zealand, Undaria invasion has been linked to declines in native coralline algae and changes in invertebrate communities on invaded wharf structures.
 
 In naturalized regions, the species can reach densities of 5–15 kg wet weight per m², forming dense canopies that modify local hydrodynamics and light penetration. Competitive displacement of native fucoids (*Fucus* and *Ascophyllum* species) has been documented in European harbors.
 
-Despite negative ecological impacts, some studies suggest Undaria may provide ecosystem services including nutrient cycling, carbon sequestration, and habitat for juvenile fish. Management strategies focus on preventing new introductions through hull cleaning regulations and ballast water treatment, as eradication of established populations is considered impractical.
+Despite negative ecological impacts, some studies suggest Undaria may provide [[biodiversity-of-fungi-ecosystem-services-agriculture]] including [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]], and habitat for juvenile fish. Management strategies focus on preventing new introductions through hull cleaning regulations and ballast water treatment, as eradication of established populations is considered impractical.
 
 Economic impacts of Undaria invasion include increased maintenance costs for aquaculture facilities and harbor infrastructure, where fouling by the kelp reduces water flow through mussel and oyster cages. The species also competes directly with commercially cultivated mussels for settlement space on aquaculture gear, reducing mussel spat settlement efficiency by 30–50% in heavily infested areas.
 

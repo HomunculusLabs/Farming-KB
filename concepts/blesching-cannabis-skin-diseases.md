@@ -25,9 +25,9 @@ removal, wrinkle reduction, or liposuction. Dermatological treatment options
 include pharmaceuticals, radiation (including laser and UVB), and surgery
 (cryosurgery, mole removal, hair transplants).
 
-According to the Cannabis Health Index, the evidence for cannabis in treating
+According to the [[blesching-cannabis-health-index-autoimmune-conditions]], the evidence for cannabis in treating
 skin diseases is based on 4 studies reviewed with a total CHI value of 10,
-yielding a CHI score of 2.50.
+yielding a [[blesching-cannabis-chi-score-methodology]] of 2.50.
 
 See also: [[blesching-cannabis-psoriasis]],
 [[blesching-cannabis-skin-cancer-non-melanoma]],
@@ -109,4 +109,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

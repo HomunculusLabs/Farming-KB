@@ -1,5 +1,5 @@
 ---
-title: Cannabis Sleep Disorders
+title: Cannabis cannabis-sleep-disorders-and-insomnia
 created: 2026-04-13
 updated: 2026-04-15
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Cannabis Sleep Disorders
 
-Cannabis has been used for centuries as a sleep aid, and modern research is beginning to clarify the mechanisms and optimal applications. The Cannabis Health Index (CHI) includes insomnia as a specific therapeutic category, and cannabis's effects on sleep intersect with its applications for pain management, anxiety, and neurological conditions.
+Cannabis has been used for centuries as a sleep aid, and modern research is beginning to clarify the mechanisms and optimal applications. The [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI) includes insomnia as a specific therapeutic category, and cannabis's effects on sleep intersect with its applications for [[cannabis-pain-management-protocols]], anxiety, and neurological conditions.
 
 ## The Endocannabinoid System and Sleep
 
@@ -18,7 +18,7 @@ The endocannabinoid system plays a significant role in sleep regulation:
 - Anandamide (the "bliss molecule") levels fluctuate with the sleep-wake cycle, rising during sleep deprivation
 - The ECS interacts with the circadian system, which governs the sleep-wake cycle, hunger, and thirst
 - Environmental signals such as light, dark, and temperature entrain circadian rhythms, and the ECS helps translate these signals into physiological responses
-- Cannabinoid receptor signaling is one factor directly and indirectly responsible for sleep patterns
+- [[cannabis-cannabinoid-receptor-pharmacology]] signaling is one factor directly and indirectly responsible for sleep patterns
 
 ## How Cannabis Affects Sleep
 
@@ -52,7 +52,7 @@ Whole-plant cannabis products that contain THC, CBD, and therapeutic terpenes ma
 
 ### Insomnia Secondary to Pain
 - Cannabis's analgesic properties make it particularly effective for pain-related insomnia
-- Patients with chronic pain who use cannabis often report improved sleep as a primary benefit
+- Patients with [[cannabis-chronic-pain-management]] who use cannabis often report improved sleep as a primary benefit
 - This application overlaps significantly with [[cannabis-anti-inflammatory-applications]] pathways, as anxiety and inflammation are closely linked
 
 ### PTSD-Related Sleep Disturbances

@@ -5,7 +5,7 @@ type: species
 tags: [psilocybin-mushroom, agaricales, hymenogastraceae, south-america, annulate]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md]
+sources: sources: []
 ---
 
 # Psilocybe caeruleoannulata
@@ -28,7 +28,7 @@ The species was described by Mexican mycologist [[psilocybe-stuntzii]], a Pacifi
 
 ## Microscopic Features
 
-Detailed microscopic examination reveals additional diagnostic characters. Basidia are four-spored, clavate, 14–20 × 4–6 µm. Cheilocystidia are abundant, ventricose to lageniform, sometimes with a slight capitate apex, 15–30 × 5–10 µm. Pleurocystidia are less common but similar in morphology to cheilocystidia. The pileipellis is a cutis of filamentous, hyaline to pale brown hyphae. The combination of the distinctive blue annular zone, spore dimensions, and cheilocystidia morphology separates *P. caeruleoannulata* from other annulate Psilocybe species found in the same geographic region.
+Detailed [[fungal-microscopic-examination-mounting-media-techniques]] reveals additional diagnostic characters. Basidia are four-spored, clavate, 14–20 × 4–6 µm. Cheilocystidia are abundant, ventricose to lageniform, sometimes with a slight capitate apex, 15–30 × 5–10 µm. Pleurocystidia are less common but similar in morphology to cheilocystidia. The pileipellis is a cutis of filamentous, hyaline to pale brown hyphae. The combination of the distinctive blue annular zone, spore dimensions, and cheilocystidia morphology separates *P. caeruleoannulata* from other annulate Psilocybe species found in the same geographic region.
 
 ## Distribution and Habitat
 
@@ -40,10 +40,10 @@ Detailed microscopic examination reveals additional diagnostic characters. Basid
 
 ## Ethnobotanical Significance
 
-While not as well-documented ethnobotanically as species like [[psilocybe-caerulescens]], *P. caeruleoannulata* is part of the rich diversity of psychoactive mushrooms native to Mexico and Central America. The region has the highest known diversity of psilocybin mushrooms worldwide, with over 50 species described from Mexico alone. Indigenous communities including the Mazatec, Mixtec, Nahuatl, and Zapotec have utilized various *Psilocybe* species in traditional healing and divinatory ceremonies for centuries. [[psilocybe-zapotecorum]].
-- **Psilocybe cubensis**: Much larger and more common in pasture settings, with a more persistent annulus that does not characteristically bruise blue. See [[psilocybe-hoogshagenii]].
+While not as well-documented ethnobotanically as species like [[psilocybe-caerulescens]], *P. caeruleoannulata* is part of the rich diversity of psychoactive mushrooms native to Mexico and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. The region has the highest known diversity of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] worldwide, with over 50 species described from Mexico alone. Indigenous communities including the Mazatec, Mixtec, Nahuatl, and Zapotec have utilized various *Psilocybe* species in traditional healing and divinatory ceremonies for centuries. [[psilocybe-zapotecorum]].
+- **[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]**: Much larger and more common in pasture settings, with a more persistent annulus that does not characteristically bruise blue. See [[psilocybe-hoogshagenii]].
 - **Psilocybe mulgrewii**: A species from New Zealand with some morphological similarities but different geographic distribution.
-- **Psilocybe stuntzii**: A North American species with a bluing annulus, but found in the Pacific Northwest on woodchip substrates.
+- **[[stamets-psi-psilocybe-stuntzii-blue-ringers]]**: A North American species with a bluing annulus, but found in the Pacific Northwest on woodchip substrates.
 
 ## Legal Status
 
@@ -65,7 +65,7 @@ The conservation status of *P. caeruleoannulata* has not been formally assessed.
 - [[psilocybin]]: Primary psychoactive alkaloid
 - [[gaston-guzman]]: Described this species and many other Psilocybe taxa
 - [[norbaeocystin]]: Additional tryptamine alkaloid present in related Mexican species
-- [[psilocybin-biosynthesis-pathway]]: Genetic basis of psilocybin production across the genus
+- [[psilocybin-biosynthesis-pathway]]: Genetic basis of [[gottlieb-psilocybin-production-extraction-methods]] across the genus
 ## Practical Considerations
 
 Successful implementation of Psilocybe caeruleoannulata requires attention to
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

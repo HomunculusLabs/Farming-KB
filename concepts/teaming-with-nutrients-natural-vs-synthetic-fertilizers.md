@@ -1,5 +1,5 @@
 ---
-title: Natural vs Synthetic Fertilizers
+title: teaming with nutrients natural vs synthetic fertilizers Fertilizers
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
@@ -15,9 +15,9 @@ The choice between natural (organic) and synthetic fertilizers has profound cons
 
 ## Why Natural Fertilizers Are Superior
 
-**Soil food web support:** Natural fertilizers feed the [[photosynthesis-and-chloroplast-function]] is used to synthesize root exudates that influence pH, microbial diversity, nutrient uptake, plant defense, and soil structure. Synthetic fertilizers disrupt these relationships.
+**Soil food web support:** Natural fertilizers feed the [[photosynthesis-and-chloroplast-function]] is used to synthesize [[mycorrhizal-root-exudates-pathogen-interactions]] that influence pH, microbial diversity, [[plant-nutrient-uptake-mechanisms]], plant defense, and soil structure. Synthetic fertilizers disrupt these relationships.
 
-**Cation exchange capacity:** Organic fertilizers add organic matter that increases the [[plant-micronutrients-and-their-essential-functions]], trace minerals, cofactors for enzymatic reactions, and organic bulk that feeds the entire soil ecosystem. Natural fertilizers contain their nutrients in bulk, so their use also increases the [[teaming-with-nutrients-composting-and-nutrient-cycling]]
+**[[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity:** [[hamilton-organic-fertilizers-and-plant-nutrition]] add [[hamilton-composting-and-organic-matter-management]] that increases the [[plant-micronutrients-and-their-essential-functions]], trace minerals, cofactors for enzymatic reactions, and organic bulk that feeds the entire soil ecosystem. Natural fertilizers contain their nutrients in bulk, so their use also increases the [[teaming-with-nutrients-composting-and-nutrient-cycling]]
 - [[fertilizer-pollution-environmental-impact]]
 - [[soil-food-web-nutrient-cycling]]
 
@@ -99,4 +99,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

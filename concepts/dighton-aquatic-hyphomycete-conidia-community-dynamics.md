@@ -1,5 +1,5 @@
 ---
-title: Aquatic Hyphomycete Conidia and Community Dynamics
+title: dighton aquatic hyphomycete conidia community dynamics Conidia and Community Dynamics
 created: 2026-04-26
 tags:
   - mycology
@@ -16,8 +16,8 @@ type: concept
 
 # Aquatic Hyphomycete Conidia and Community Dynamics
 
-Aquatic hyphomycetes are a specialized group of fungi that play dominant roles
-in plant litter decomposition in freshwater ecosystems. Their conidia
+[[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]] are a specialized group of fungi that play dominant roles
+in plant [[dighton-pine-needle-litter-decomposition-fungal-succession]] in freshwater ecosystems. Their conidia
 (asexual spores), often tetraradiate or sigmoid in shape, are morphologically
 adapted for dispersal and colonization in flowing water. More than 600 species
 of aquatic fungi have been described, many with specific adaptations for life
@@ -87,7 +87,7 @@ the ecosystem remain areas for further investigation.
 ## Resource Allocation Between Growth and Reproduction
 
 Suberkropp (1995) demonstrated the ability of aquatic fungi to allocate
-resources between growth and reproduction depending on environmental factors.
+resources between growth and reproduction depending on [[duggar-mushroom-environmental-factors-temperature-moisture-light]].
 Fungal biomass was higher in streams with higher nitrogen content, but
 additional nitrogen had a more pronounced effect on the production of spores
 than on mycelial biomass. This resource allocation strategy allows fungi to
@@ -113,7 +113,7 @@ species in softwater streams, not occurring in hardwater streams.
 Gulis (2001) performed multivariate analysis of 146 samples from 92 aquatic
 systems showing that fungal species assemblages on wood and grass leaves had
 different composition from those on tree leaf litter. However, the
-relationship between fungal community differences, resource quality, and
+relationship between fungal community differences, [[fungal-decomposition-resource-quality-determinants]], and
 decomposition rates was not correlated with physiological function of
 individual species or communities, representing an important gap in
 understanding aquatic decomposition systems.
@@ -125,7 +125,7 @@ physical structure of leaf substrates to allow faunal penetration (Suberkropp,
 1992). Graca et al. (1993) demonstrated that some faunal shredders prefer to
 feed on leaves already colonized by fungi, while others consume fungal
 mycelia selectively. The palatability of the resource is enhanced during
-fungal decomposition by the increase in nitrogen content during initial stages
+[[dighton-fungal-decomposition-nutrient-cycling]] by the increase in nitrogen content during initial stages
 of fungal attack.
 
 ## See Also

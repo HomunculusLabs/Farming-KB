@@ -12,7 +12,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Clerc, P. (1998). "Species pairs in the genus Usnea." The Bryologist, 101(3), 458-466.
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of North America. Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of [[psilocybin-north-america-pacific-northwest]]. Yale University Press.
   - Halici, M.G. et al. (2012). "Antimicrobial activity of Usnea hirta and its usnic acid." Journal of Applied Pharmaceutical Science, 2(5), 29-33.
   - Ohmura, Y. (2001). "Taxonomic study of the genus Usnea in Japan." Journal of the Hattori Botanical Laboratory, 90, 1-96.
   - Kokubun, T. et al. (2007). "Usnic acid derivatives from Usnea hirta." Journal of Natural Products, 70(3), 492-494.
@@ -57,7 +57,7 @@ America, Europe, and Asia. In North America it ranges from Alaska to
 northern Mexico, and in Europe from the Mediterranean to the Arctic Circle.
 
 The species is epiphytic, growing primarily on the bark of deciduous and
-coniferous trees in forests with good air quality. Preferred hosts include
+coniferous trees in forests with good [[cervantes-air-quality-ventilation]]. Preferred hosts include
 oak (*Quercus* spp.), maple (*Acer* spp.), birch (*Betula* spp.), and
 various conifers including pine and spruce.
 
@@ -71,7 +71,7 @@ areas. It also colonizes fence posts and weathered wood in rural settings.
 
 ## Bioactive Compounds
 
-The primary secondary metabolite of *Usnea hirta* is **usnic acid**, which
+The primary [[fungal-elicitors-enhanced-secondary-metabolite-production]] of *Usnea hirta* is **usnic acid**, which
 constitutes 1-4% of dry weight and is concentrated in the cortical
 tissues. Usnic acid exists in both (+)- and (-)-enantiomeric forms, with
 the (+)-enantiomer being more pharmacologically active.
@@ -82,9 +82,9 @@ Additional compounds include **diffractaic acid**, **evernic acid**, and
 Usnic acid exhibits potent antibacterial activity against Gram-positive
 bacteria including *Staphylococcus aureus*, *Streptococcus* spp., and
 *Mycobacterium tuberculosis*. The mechanism involves inhibition of
-bacterial RNA polymerase and disruption of cell membrane integrity.
+bacterial RNA polymerase and disruption of [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] integrity.
 
-Antifungal activity has been demonstrated against *Candida albicans* and
+Antifungal activity has been demonstrated against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and
 dermatophyte species, though with lower potency than the antibacterial
 effects.
 
@@ -122,7 +122,7 @@ The species is a recognized bioindicator for forest continuity and air
 quality. Its presence indicates long-term ecological stability and low
 levels of atmospheric pollutants.
 
-Conservation concerns include habitat loss from forestry practices and
+Conservation concerns include habitat loss from [[mycelium-running-forestry-practices-and-mushrooms]] and
 decline due to air pollution in urban and industrial areas. The species
 is protected under conservation legislation in several European countries.
 

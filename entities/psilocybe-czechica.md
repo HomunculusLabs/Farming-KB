@@ -13,7 +13,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 **Psilocybe czechica** is a bluing [[psilocybin]]: 0.2 to 0.6% dry weight (estimated)
 - [[baeocystin]]: present in small quantities
 
-The psychoactive potency appears moderate, comparable to other European grassland Psilocybe species such as [[psilocybe-semilanceata]]** — the most common European liberty cap; larger, more conical cap, different spore dimensions, typically more potent.
+The psychoactive potency appears moderate, comparable to other European grassland Psilocybe species such as [[psilocybe-semilanceata]]** — the most common European [[peter-mantle-liberty-cap-chromatographic-discovery-1969]]; larger, more conical cap, different spore dimensions, typically more potent.
 - **[[psilocybe-liniformans]]** — distinguished by its gelatinous partial veil appendages on the gill edges.
 - **[[psilocybin]]-containing mushrooms, **P. czechica** is controlled under drug legislation. In the Czech Republic, psilocybin and psilocin are scheduled substances, and the collection and possession of psychoactive mushrooms is restricted.
 
@@ -99,4 +99,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

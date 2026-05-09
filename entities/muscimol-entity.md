@@ -15,21 +15,21 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Waser, P.G. (1967). "The pharmacology of Amanita muscaria." In: Ethnopharmacologic Search for Psychoactive Drugs. Public Health Service Publication.
-  - Chilton, W.S. et al. (1979). "Ibotenic acid and muscimol: chemistry, pharmacology, biology, and clinical significance." Research Communications in Psychology, Psychiatry and Behavior.
+  - Waser, P.G. (1967). "The pharmacology of allegro-amanita-muscaria-properties-and-pharmacology." In: Ethnopharmacologic Search for Psychoactive Drugs. Public Health Service Publication.
+  - Chilton, W.S. et al. (1979). "[[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] and muscimol: chemistry, pharmacology, biology, and clinical significance." Research Communications in Psychology, Psychiatry and Behavior.
   - https://pubchem.ncbi.nlm.nih.gov/compound/4265 (muscimol CID 4265)
   - Bowden, K. & Drysdale, A.C. (1965). "The structure of muscimol." Tetrahedron Letters.
-  - Deltas, D. et al. (2023). "Muscimol: pharmacology, toxicology, and emerging therapeutic potential." Frontiers in Pharmacology.
+  - Deltas, D. et al. (2023). "Muscimol: pharmacology, toxicology, and emerging [[metzner-ayahuasca-therapeutic-potential]]." Frontiers in Pharmacology.
 ---
 
 # Muscimol
 
 ## Overview
 
-**Muscimol** (5-aminomethyl-3-hydroxyisoxazole) is a naturally occurring psychoactive compound and the principal pharmacologically active constituent of **[[fly-agaric]]) and related *Amanita* species. It is a **potent and selective GABA_A receptor agonist**, making it pharmacologically distinct from all classical psychedelics, which act primarily on serotonin receptors. Muscimol produces sedative, hypnotic, dissociative, and oneirogenic (dream-enhancing) effects, and has recently attracted significant commercial interest as an ingredient in psychoactive edibles and wellness products.
+**Muscimol** (5-aminomethyl-3-hydroxyisoxazole) is a naturally occurring psychoactive compound and the principal pharmacologically active constituent of **[[fly-agaric]]) and related *Amanita* species. It is a **potent and selective GABA_A receptor agonist**, making it pharmacologically distinct from all classical psychedelics, which act primarily on [[psilocybin-pharmacology-and-serotonin-receptors]]. Muscimol produces sedative, hypnotic, dissociative, and oneirogenic (dream-enhancing) effects, and has recently attracted significant commercial interest as an ingredient in psychoactive edibles and wellness products.
 
 Muscimol was first isolated in 1964 by Japanese chemists and independently by Swiss researchers. It is formed biosynthetically from **[[amanita-muscaria-entity]]
-- [[ibotenic-acid-entity]]
+- ibotenic-acid-entity
 ## Practical Applications
 
 Muscimol has a range of practical applications that make it relevant to
@@ -47,7 +47,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -97,7 +97,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -107,4 +107,5 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[4-ho-dpt-entity-tihkal]]

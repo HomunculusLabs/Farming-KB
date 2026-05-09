@@ -15,7 +15,7 @@ sources:
 
 # Permaculture Wildlife Corridors
 
-Wildlife conservation is integral to permaculture design. Mollison's Manual treats wildlife habitat not as a separate reserve but as an essential component of productive landscapes, integrated through corridors, refuges, and deliberate design for biodiversity.
+Wildlife conservation is integral to [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]. Mollison's Manual treats wildlife habitat not as a separate reserve but as an essential component of productive landscapes, integrated through corridors, refuges, and deliberate design for biodiversity.
 
 ## Wildlife in the Permaculture Landscape
 
@@ -29,7 +29,7 @@ Boulders serve as coarse mulch, wildlife refuge, and walling/windbreak material 
 
 ### Forest Systems
 
-Multi-strata tree systems provide habitat complexity that supports diverse wildlife. The design of windbreaks, shelterbelts, and forest gardens always includes wildlife habitat as a co-benefit. Pioneer species and wildlife indicator species are noted -- aspen strips, for instance, indicate avalanche history in mountainous terrain.
+Multi-strata tree systems provide habitat complexity that supports diverse wildlife. The design of windbreaks, shelterbelts, and [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] always includes wildlife habitat as a co-benefit. Pioneer species and wildlife indicator species are noted -- aspen strips, for instance, indicate avalanche history in mountainous terrain.
 
 ## Wildlife Corridors
 
@@ -44,7 +44,7 @@ Corridors are not set aside from productive use but integrated with:
 - Riparian zones along waterways (providing both filtration and movement corridors)
 - Windbreak and shelterbelt plantings (serving farm animals, crops, and wildlife simultaneously)
 - Hedgerow systems between fields (habitat, windbreak, and fodder production)
-- Steep slope forests (erosion control, timber, and wildlife movement)
+- Steep slope forests ([[permplant-willows-salix-erosion-control-fodder]], timber, and wildlife movement)
 - Road and track verges (planted with wildlife-friendly species)
 
 ### Land Trusts and Conservation
@@ -71,8 +71,8 @@ Reasons people gift land include:
 
 - **Zone 4-5**: Large forest reserves, wetlands, and primary wildlife areas
 - **Zone 3**: Integrated orchard and pasture systems with hedgerow corridors
-- **Zone 2**: Garden ponds, bird boxes, insect habitat plantings, small rock piles
-- **Zone 1**: Companion planting for beneficial insects, small water features
+- **Zone 2**: Garden ponds, bird boxes, [[hemenway-insectary-plants-and-beneficial-insects]] plantings, small rock piles
+- **Zone 1**: [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] for [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], small water features
 
 ## Related Concepts
 

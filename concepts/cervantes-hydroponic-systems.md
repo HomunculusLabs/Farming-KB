@@ -1,5 +1,5 @@
 ---
-title: Hydroponic Growing Systems
+title: cannabis-grow-hydroponic-growing-systems Systems
 created: 2026-04-26
 sources: Marijuana Horticulture (Cervantes)
 synonyms: hydroponics, soilless growing, water culture
@@ -14,7 +14,7 @@ Hydroponic growing systems deliver nutrient-rich water directly to plant roots w
 
 ## Overview
 
-Hydroponic cannabis cultivation uses an inert growing medium to anchor roots while a nutrient solution provides all essential elements. Because nutrients are delivered directly in solution, plants expend less energy searching for food and can redirect that energy into rapid vegetative growth and heavy flowering. The absence of soil also eliminates many soil-borne pests and diseases.
+Hydroponic [[query-how-does-no-till-cannabis-cultivation-work]] uses an inert growing medium to anchor roots while a [[cannabis-nutrient-solution-preparation]] provides all essential elements. Because nutrients are delivered directly in solution, plants expend less energy searching for food and can redirect that energy into rapid vegetative growth and heavy flowering. The absence of soil also eliminates many soil-borne [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]].
 
 ## Deep Water Culture (DWC)
 
@@ -26,7 +26,7 @@ NFT systems pump a thin film of nutrient solution through enclosed gullies or ch
 
 ## Flood and Drain (Ebb and Flow)
 
-Flood and drain systems work by flooding a growing tray with nutrient solution at regular intervals, then draining it back into a reservoir. A timer controls a submersible pump that floods the tray several times per day. This system provides good oxygenation to roots during the drain cycle. Growing mediums like expanded clay pebbles, rockwool, or coconut fiber are used to anchor plants. Flood and drain is versatile and works well for plants of various sizes.
+Flood and drain systems work by flooding a growing tray with nutrient solution at regular intervals, then draining it back into a reservoir. A timer controls a submersible pump that floods the tray several times per day. This system provides good oxygenation to roots during the drain cycle. [[cervantes-growing-mediums-comparison]] like expanded clay pebbles, rockwool, or coconut fiber are used to anchor plants. Flood and drain is versatile and works well for plants of various sizes.
 
 ## Aeroponics
 
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

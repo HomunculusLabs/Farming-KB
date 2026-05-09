@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Hayden H.S. et al. (2003). "Cryptic Species of Ulva (Ulvales, Ulvophyceae) in the British Isles." Journal of Phycology, 39(2), 369-377.
   - Steentoft M. et al. (1995). "A Checklist of Marine Benthic Green Algae (Chlorophyta) in the British Isles." Seaweeds of the British Isles, Vol. 1. HMSO.
-  - Løvstad Holdt S. & Kraan S. (2011). "Bioactive Compounds in Seaweed: Functional Food Applications." Journal of Applied Phycology, 23(3), 543-597.
+  - Løvstad Holdt S. & Kraan S. (2011). "[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] in Seaweed: Functional Food Applications." Journal of Applied Phycology, 23(3), 543-597.
   - Fletcher R.L. (1996). "The Occurrence of 'Green Tides' — A Review." Marine Benthic Vegetation, Springer, 7-43.
 ---
 
@@ -48,7 +48,7 @@ The thallus is two cell layers thick, with each layer being a single cell thick.
 
 Cells are approximately 10–15 μm in diameter, arranged in a regular pattern. Each cell contains a single parietal chloroplast with one or more pyrenoids.
 
-When growing in still water, fronds are long, inflated, and freely floating. In wave-exposed habitats, the tubes are shorter, narrower, and more tightly compressed, sometimes making identification difficult without microscopic examination.
+When growing in still water, fronds are long, inflated, and freely floating. In wave-exposed habitats, the tubes are shorter, narrower, and more tightly compressed, sometimes making identification difficult without [[fungal-microscopic-examination-mounting-media-techniques]].
 
 ## Distribution and Habitat
 
@@ -60,7 +60,7 @@ Gutweed tolerates extreme salinity fluctuations, from nearly freshwater (5 PSU) 
 
 The species readily colonizes artificial substrates including seawalls, pier pilings, boat hulls, and aquaculture gear. This opportunistic behavior makes it both ecologically successful and a nuisance in some coastal infrastructure.
 
-Massive blooms of *U. intestinalis* and related species create "green tides" in eutrophic bays and estuaries. These events can deplete dissolved oxygen, smother benthic communities, and create hydrogen sulfide as the algae decompose.
+Massive blooms of *U. intestinalis* and related species create "green tides" in eutrophic bays and estuaries. These events can deplete [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]], smother benthic communities, and create hydrogen sulfide as the algae decompose.
 
 ## Ecology
 
@@ -68,7 +68,7 @@ Massive blooms of *U. intestinalis* and related species create "green tides" in 
 
 During bloom events, however, it becomes ecologically disruptive. The accumulation and decomposition of massive biomass degrades water quality, causes hypoxia, and releases hydrogen sulfide that can kill benthic organisms.
 
-The species is an efficient nutrient scavenger, rapidly absorbing ammonium, nitrate, and phosphate from the water column. This ability has led to research into its use for integrated bioremediation in aquaculture and wastewater treatment.
+The species is an efficient nutrient scavenger, rapidly absorbing ammonium, nitrate, and phosphate from the water column. This ability has led to research into its use for integrated bioremediation in aquaculture and [[mollison-designers-wastewater-treatment-wetlands]].
 
 Grazers include various gastropods (periwinkles, limpets), amphipods, and small crustaceans. The isopod *Idotea* species and several amphipods are significant consumers in intertidal habitats.
 
@@ -96,7 +96,7 @@ The rapid growth rate of *Ulva intestinalis* (up to 10% per day under optimal co
 
 In IMTA setups, *U. intestinalis* is cultivated adjacent to finfish or shrimp farms. The seaweed absorbs dissolved nitrogen and phosphorus from farm effluent, converting waste nutrients into harvestable algal biomass.
 
-Harvested biomass can be processed into animal feed, organic fertilizer, or biogas through anaerobic digestion. Research has demonstrated effective nutrient removal rates of 60–90% in pilot-scale systems.
+Harvested biomass can be processed into animal feed, [[complete-organic-fertilizer-cof-recipe-solomon]], or biogas through [[biogas-digester-basics]]. Research has demonstrated effective nutrient removal rates of 60–90% in pilot-scale systems.
 
 The species has also been investigated for heavy metal accumulation, though this limits its use as food in contaminated environments. Clean-cultivated biomass from monitored sites remains suitable for human consumption.
 

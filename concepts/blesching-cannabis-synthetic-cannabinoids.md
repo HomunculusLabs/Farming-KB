@@ -1,5 +1,5 @@
 ---
-title: "Synthetic Cannabinoids Versus Natural Cannabis"
+title: "Synthetic Cannabinoids fukuoka-organic-versus-natural-farming Cannabis"
 created: 2026-04-28
 tags: [synthetic-cannabinoids, dronabinol, nabilone, nabiximols, marinol]
 date: 2026-04-25
@@ -31,7 +31,7 @@ but they may not replicate the full therapeutic profile of whole-plant cannabis.
 The distinction between FDA-approved synthetic cannabinoid medications and
 unregulated synthetic cannabinoids sold as recreational drugs is critical.
 Approved medications like dronabinol and nabilone contain precise doses of
-specific cannabinoids and have undergone clinical trials demonstrating safety
+specific cannabinoids and have undergone [[mushroom-cancer-clinical-trials-overview]] demonstrating safety
 and efficacy for particular indications. In contrast, unregulated synthetic
 cannabinoids such as those sold as Spice, K2, or Black Mamba are novel
 psychoactive substances of unknown composition and potency that have been
@@ -40,7 +40,7 @@ associated with severe toxicity, hospitalization, and death.
 Whole-plant cannabis contains over 100 identified cannabinoids, hundreds of
 terpenes, and numerous other compounds that interact through the entourage
 effect to produce a therapeutic profile that single-molecule pharmaceuticals
-cannot fully replicate. The Cannabis Health Index consistently notes that
+cannot fully replicate. The [[blesching-cannabis-health-index-autoimmune-conditions]] consistently notes that
 while synthetic cannabinoid medications have value in specific clinical
 contexts, the broader therapeutic potential of whole-plant cannabis often
 exceeds what isolated synthetic compounds can achieve.
@@ -54,7 +54,7 @@ exceeds what isolated synthetic compounds can achieve.
 - Unregulated synthetic cannabinoids (Spice, K2) are dangerous novel
   psychoactive substances unrelated to medical cannabinoid pharmaceuticals
 - Whole-plant cannabis contains over 100 cannabinoids and hundreds of
-  terpenes that interact through the entourage effect
+  terpenes that interact through the [[cannabis-terpene-entourage-effect-profiles]]
 - Single-molecule synthetic cannabinoids cannot fully replicate the
   therapeutic profile of whole-plant cannabis
 - Synthetic cannabinoid medications have narrower indications than
@@ -78,7 +78,7 @@ Nabilone (Cesamet) is a synthetic cannabinoid structurally similar to THC
 but with greater potency and a longer duration of action. It is approved for
 the treatment of chemotherapy-induced nausea and vomiting that has not
 responded adequately to conventional antiemetic therapy. Nabilone has also
-shown promise in clinical studies for fibromyalgia, chronic pain, and
+shown promise in clinical studies for fibromyalgia, [[cannabis-chronic-pain-management]], and
 post-traumatic stress disorder, though these remain off-label uses.
 
 Nabiximols (Sativex) is a whole-plant extract rather than a fully synthetic
@@ -104,7 +104,7 @@ Additionally, synthetic cannabinoid medications typically contain only THC
 or THC plus CBD, missing the therapeutic contributions of CBC, CBG, THCV,
 CBDV, and the numerous other cannabinoids present in whole-plant cannabis.
 Each of these minor cannabinoids has demonstrated unique therapeutic
-properties in preclinical and clinical research. The development of
+properties in preclinical and [[hofmann-lsd-clinical-research-early-studies]]. The development of
 synthetic cannabinoid medications also requires enormous financial
 investment in clinical trials, which limits the number of conditions that
 can be pursued and keeps drug prices high.

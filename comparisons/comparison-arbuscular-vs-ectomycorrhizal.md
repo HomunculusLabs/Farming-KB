@@ -1,17 +1,14 @@
 ---
 title: Arbuscular vs Ectomycorrhizal Fungi
 created: 2026-04-28
-tags: [[mycology, soil-biology, fungal-ecology, plant-nutrition]
+tags: [mycology, soil-biology, fungal-ecology, plant-nutrition]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
-# Arbuscular vs Ectomycorrhizal Fungi
-
-## Overview
-
-Arbuscular mycorrhizal fungi (AMF) and [[mycelial-networks]] extending meters from root tips. Diversity spans Amanita,
+# Arbuscular vs Ectomycorrhizal Fungi ## Overview Arbuscular mycorrhizal fungi (AMF) and [[mycelial-networks]] extending meters from root tips. Diversity spans Amanita,
 Boletus, Cortinarius, Lactarius, Russula, and Pisolithus. Host specificity
 varies from single-genus specialists to broad generalists.
 
@@ -24,11 +21,11 @@ varies from single-genus specialists to broad generalists.
 | **Host range** | Broad: 80-90% of plant species | Narrow: ~8,000 mostly woody species |
 | **Primary nutrient strength** | Phosphorus (60-200% increase) | Organic nitrogen via enzymatic mining |
 | **Soil exploration range** | 10-25 cm from root | Meters from root |
-| **Carbon cost to plant** | 10-20% of net photosynthate | 10-30% of net primary production |
+| **Carbon cost to plant** | 10-20% of net photosynthate | 10-30% of net [[lichens-primary-production-soil-formation-dighton]] |
 | **Soil carbon influence** | Glomalin; moderate C storage | Chitin/melanin; recalcitrant C pools |
 | **Decomposition impact** | Neutral to positive | Gadgil effect: suppresses saprotrophs |
 | **[[cover-crop]] rotations**: Maintaining host plants sustains AMF populations
-- **Organic farming**: AMF inoculants approved and reduce soluble fertilizer
+- **[[coleman-deep-organic-farming-philosophy]]**: AMF inoculants approved and reduce soluble fertilizer
   dependence
 
 ## When to Choose ECM
@@ -37,12 +34,12 @@ varies from single-genus specialists to broad generalists.
   seedlings benefit enormously from ECM inoculation
 - **Organic-matter-rich soils**: ECM enzymes unlock organic N that AMF cannot
   access, especially valuable in forest soils
-- **Carbon sequestration**: ECM stands accumulate more soil organic matter
+- **[[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]**: ECM stands accumulate more soil organic matter
   via the Gadgil effect
-- **Heavy metal remediation**: Some ECM species sequester toxic metals
+- **Heavy [[heavy-metal-remediation-fungi]]**: Some ECM species sequester toxic metals
 - **Mine reclamation**: ECM tree plantings standard on harsh substrates
-- **Nursery seedling production**: ECM inoculation improves survival rates
-- **Truffle cultivation**: ECM species (Tuber spp.) grown commercially
+- **[[mollison-designers-plant-nursery-seedling-production]] production**: ECM inoculation improves survival rates
+- **[[comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation]]**: ECM species (Tuber spp.) grown commercially
 
 ## Hybrid Approaches
 
@@ -62,10 +59,12 @@ The most resilient plant communities leverage both symbioses. AMF excel at
 rapid phosphorus delivery and soil stabilization, while ECM provide organic
 nutrient access and long-term carbon storage. The practical question is not
 "AMF or ECM?" but "how do I support the mycorrhizal type matching my plants?"
+
 ## See Also
 
 - [[ectomycorrhizal-ecology]] — ECM anatomy, diversity, and forest dynamics
 - [[mycorrhizal-networks-common-mycelial-network]] — shared fungal networks
+
 ## Practical Considerations
 
 Successful implementation of Arbuscular vs Ectomycorrhizal Fungi requires attention to
@@ -84,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

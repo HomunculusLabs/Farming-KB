@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-**Alpinia calcarata** is a rhizomatous perennial herb in the family Zingiberaceae, widely distributed across South Asia and Southeast Asia. Commonly known as **Indian cardamom** or **heen araththa** in Sri Lanka, it is valued both as a spice and a medicinal plant.
+**Alpinia calcarata** is a rhizomatous perennial herb in the family Zingiberaceae, widely distributed across South Asia and [[psilocybe-southeast-asia-pacific]]. Commonly known as **Indian cardamom** or **heen araththa** in Sri Lanka, it is valued both as a spice and a medicinal plant.
 
 The species holds particular importance in Ayurveda and Siddha medicine, where the rhizome is prescribed for respiratory ailments, digestive disorders, and rheumatic conditions. It is cultivated commercially in Sri Lanka, southern India, and Malaysia.
 
@@ -38,7 +38,7 @@ Rhizomes are tuberous, 1.5–3 cm in diameter, with a pale brown exterior and wh
 
 ## Bioactive Compounds
 
-The essential oil yield from dried rhizome ranges from 1.0–3.0% by steam distillation. Major volatile constituents include **1,8-cineole** (eucalyptol, 30–50%), **α-pinene** (5–10%), **β-pinene** (3–8%), **limonene**, **linalool**, and **camphor**.
+The [[permaculture-designers-manual-essential-oil-plants]] yield from dried rhizome ranges from 1.0–3.0% by [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]]. Major volatile constituents include **1,8-cineole** (eucalyptol, 30–50%), **α-pinene** (5–10%), **β-pinene** (3–8%), **limonene**, **linalool**, and **camphor**.
 
 ### Non-volatile Constituents
 
@@ -48,7 +48,7 @@ Diterpene lactones and steroidal saponins have also been isolated. Total phenoli
 
 ## Pharmacology
 
-Antimicrobial screening has shown broad-spectrum activity against Gram-positive bacteria, Gram-negative bacteria, and yeasts. The essential oil demonstrates particularly strong activity against *Streptococcus mutans* and *Candida albicans*, supporting traditional use in oral and respiratory infections.
+Antimicrobial screening has shown broad-spectrum activity against Gram-positive bacteria, Gram-negative bacteria, and yeasts. The essential oil demonstrates particularly strong activity against *Streptococcus mutans* and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*, supporting traditional use in oral and respiratory infections.
 
 Anti-inflammatory activity is mediated through inhibition of COX-2 and 5-LOX pathways, with alpinetin identified as a key active compound. In carrageenan-induced paw edema models, the ethanolic extract showed 40–60% inhibition at 200 mg/kg.
 
@@ -92,7 +92,7 @@ The rhizome morphology also differs: *A. calcarata* has smaller, more cylindrica
 
 Sri Lanka is the largest commercial producer, with an estimated 500 hectares under cultivation as of 2020. The species is intercropped with coconut, rubber, and tea plantations as a shade-tolerant understory crop.
 
-Major pests include rhizome weevils (*Dicladispa armigera*) and shoot borers. Fungal diseases include leaf spot (*Phyllosticta* spp.) and rhizome rot (*Fusarium* spp.). Integrated pest management using neem-based preparations is common among organic growers.
+Major pests include rhizome weevils (*Dicladispa armigera*) and shoot borers. Fungal diseases include [[jadam-canker-leaf-spot-pesticide]] (*Phyllosticta* spp.) and rhizome rot (*Fusarium* spp.). [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management using neem-based preparations is common among organic growers.
 
 Post-harvest processing involves washing, slicing, and sun-drying for 5–7 days. Dried rhizome loses approximately 70% of fresh weight. Quality grading is based on aroma intensity, color, and freedom from mold.
 

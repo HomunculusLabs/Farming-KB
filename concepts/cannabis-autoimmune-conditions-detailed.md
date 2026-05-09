@@ -1,5 +1,5 @@
 ---
-title: Cannabis for Autoimmune Conditions
+title: Cannabis for cannabis autoimmune conditions detailed
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -16,11 +16,11 @@ Autoimmune diseases occur when the body's immune system mistakenly attacks its o
 - Cannabinoids reduce colitis in animal models
 - CBD normalizes hypermotility in inflammatory conditions
 - FAAH blockers enhance endocannabinoid system action in the gut
-- See [[blesching-cannabis-cannabinoid-terpene-entourage-effect]] for comprehensive immune modulation
+- See [[blesching-cannabis-cannabinoid-terpene-entourage-effect]] for comprehensive [[cancer-immune-modulation-mechanisms]]
 
 ## Mind-Body Connection
 
-The Cannabis Health Index notes that "autoimmune diseases may mirror an intense and likely longstanding conflict" involving emotions like guilt, shame, betrayal, humiliation, or fear. The ECS's role in bridging body and mind suggests that emotional healing may complement cannabinoid therapy in autoimmune conditions.
+The [[blesching-cannabis-health-index-autoimmune-conditions]] notes that "autoimmune diseases may mirror an intense and likely longstanding conflict" involving emotions like guilt, shame, betrayal, humiliation, or fear. The ECS's role in bridging body and mind suggests that emotional healing may complement cannabinoid therapy in autoimmune conditions.
 
 ## Related Topics
 
@@ -114,4 +114,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

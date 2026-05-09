@@ -43,7 +43,7 @@ dry causes splitting.
 Leafy crops such as lettuce and spinach suffer badly from drought,
 becoming tough and prone to bolting. Fruiting vegetables like tomatoes
 and [[hamilton-perennial-flowers-organic]]
-need careful watering in their first growing season while their root
+need careful watering in their first [[savory-growing-season-and-non-growing-season-management]] while their root
 systems establish. Once established, many ornamental plants are
 remarkably drought-tolerant, especially if the soil has been improved
 with [[hamilton-mulching-materials-and-techniques]].
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: Bark and Xylotropic Endophytes - Woody Tissue Colonization
+title: Bark and bark xylotropic endophytes woody tissue colonization - Woody Tissue Colonization
 created: 2026-04-26
 tags:
   - endophytes
@@ -35,7 +35,7 @@ frequently colonized by nonlichenized members of the
 Arthopyreniaceae, including Arthopyrenia plumbaria, Mycoglaena
 subcoerulescens, and Mycoglaena species ("Pseudoplea").
 
-In eastern North America, Arthonia impolita, another nonlichenized
+In [[polypore-fungi-eastern-north-america]] America, Arthonia impolita, another nonlichenized
 member of a normally [[nonsystemic-endophytic-fungi-nongrass-hosts]]
 that colonize healthy young tissue and fruit only on necrotic
 tissue. Species such as Therrya pini and T. fuli on Pinus,
@@ -104,10 +104,12 @@ Dark septate endophytes dominated the mycobiota isolated from fine
 roots of several species of forest trees and shrubs in Europe and
 western Canada. A large proportion proved to be [[nonsystemic-endophytic-fungi-nongrass-hosts]]
 - [[fungal-endophytes-grass-crop-systems]]
-- [[mycorrhizal-pathogen-resistance]]
+- mycorrhizal-pathogen-resistance
 
 ## Merged: Endophytic Fungal Galls and Plant Deformities
 
-Endophytic fungi that colonize living plant tissue without causing immediate, overt negative effects occupy a fascinating position between mutualism and parasitism. When these cryptic colonizers do eventually express pathogenic behavior, they often produce distinctive symptoms including galls, cankers, and witches brooms. Understanding the spectrum from asymptomatic endophytism to visible deformity is essential for plant pathology and fungal ecology.
+[[comparison-endophytic-fungi-vs-mycorrhizal-fungi]] that colonize living plant tissue without causing immediate, overt negative effects occupy a fascinating position between mutualism and parasitism. When these cryptic colonizers do eventually express pathogenic behavior, they often produce distinctive symptoms including galls, cankers, and witches brooms. Understanding the spectrum from asymptomatic endophytism to visible deformity is essential for plant pathology and [[gadd-fungal-ecology-endophytes]].
 
 ## Definition and Circumscription
+## See Also
+- [[fungal-ecology]]

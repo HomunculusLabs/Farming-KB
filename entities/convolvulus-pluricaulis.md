@@ -69,7 +69,7 @@ roadsides. It prefers sandy or loamy soils with good drainage and thrives in
 open, sunny locations with moderate rainfall.
 
 It is commonly found in dry deciduous forests and wastelands, often forming
-extensive ground cover during the monsoon season. The species is tolerant of
+extensive [[fukuoka-citrus-orchard-ground-cover-cultivation]] during the monsoon season. The species is tolerant of
 poor soils and moderate drought conditions.
 
 ## Traditional Uses
@@ -117,7 +117,7 @@ seed, sown directly in prepared beds after the onset of monsoon rains.
 
 The crop requires minimal inputs and is well suited to marginal agricultural
 land. Harvesting of the aerial parts occurs 90–120 days after sowing, during
-the flowering stage when bioactive alkaloid content is highest.
+the [[cannabis-flowering-stage-management]] when bioactive alkaloid content is highest.
 
 Post-harvest processing involves shade-drying the whole plant, followed by
 powdering or extraction. Average dry herb yield is approximately 2,000–3,000
@@ -125,9 +125,11 @@ kg/ha under rainfed conditions.
 
 ## See Also
 
+- [[convolvulus-prostratus]]
+
 - [[centella-asiatica]]
 - [[withania-somnifera]]
 - tinospora-cordifolia
-- [[ocimum-sanctum]]
+- ocimum-sanctum
 - [[passiflora-incarnata]]
 - [[scutellaria-baicalensis]]

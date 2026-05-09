@@ -5,7 +5,8 @@ type: species
 tags: [panaeolus, psilocybin-mushroom, dung-inhabiting, grassland-fungi, weakly-active]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3erpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md]
+sources: sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # Panaeolus castaneifolius
@@ -52,7 +53,7 @@ compounds.
 ## Habitat and Distribution
 
 Panaeolus castaneifolius grows scattered to gregariously in grassy areas
-across the North and South American continents. It is possibly more widely
+across the North and [[chiric-caspi-brunfelsia-south-american-hallucinogen]] continents. It is possibly more widely
 distributed than currently reported in the literature. The species favors
 open grasslands, pastures, and meadows, often appearing alongside other
 Panaeolus species. It does not appear to be directly coprophilous, unlike
@@ -66,7 +67,7 @@ Ola'h (1969). This means that some collections contain psilocybin while
 others do not, and when present, concentrations are weak. The variable
 presence of psychoactive alkaloids makes this species unreliable for
 ethnobotanical purposes. The inconsistency in chemistry may relate to
-environmental factors, substrate composition, or genetic variation between
+[[duggar-mushroom-environmental-factors-temperature-moisture-light]], substrate composition, or genetic variation between
 populations.
 
 ## Identification Notes
@@ -86,7 +87,7 @@ gill pattern from uneven spore maturation is a key generic feature.
   and generally considered nonactive.
 - [[panaeolus-cyanescens-entity]]: A dung-inhabiting species that is strongly
   active and bruises bluish. Much more robust and readily identifiable by
-  its bluing reaction.
+  its [[field-guide-psilocybin-bluing-reaction-identification]].
 - [[archaeology-of-psychedelic-mushroom-use]]
 
 - [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]
@@ -97,9 +98,9 @@ gill pattern from uneven spore maturation is a key generic feature.
 - [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]
 - psilocybin
 
-The type specimen was originally collected in North America. Ola'h's 1969
+The type specimen was originally collected in [[psilocybin-north-america-pacific-northwest]]. Ola'h's 1969
 monograph of the genus Panaeolus remains the primary taxonomic reference
-for this species. Further chemical analyses using modern methods such as
+for this species. Further [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] using modern methods such as
 HPLC or LC-MS could help clarify the frequency and range of psilocybin
 content across different populations and geographic regions. Field
 collectors should be aware that the weak and inconsistent activity makes
@@ -109,7 +110,7 @@ potent Panaeolus species.
 Collectors should exercise caution when identifying any Panaeolus species
 in the field. While P. castaneifolius itself is not considered dangerous,
 the genus contains species that can be confused with toxic lookalikes.
-Microscopic examination is often necessary for definitive identification.
+[[fungal-microscopic-examination-mounting-media-techniques]] is often necessary for definitive identification.
 The species is of primarily academic interest due to its variable and
 generally weak psychoactivity.
 

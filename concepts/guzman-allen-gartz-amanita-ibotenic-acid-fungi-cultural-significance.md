@@ -1,5 +1,5 @@
 ---
-title: Amanita Ibotenic Acid Fungi and Their Cultural Significance
+title: guzman allen gartz amanita ibotenic acid fungi cultural significance Acid Fungi and Their ethnomycology-cultural-significance-sacred-fungi
 created: 2026-04-28
 tags:
   - amanita
@@ -28,7 +28,7 @@ world.
 
 ## The Three Ibotenic Acid Species
 
-Amanita muscaria, the fly agaric, is the most iconic of all
+[[allegro-amanita-muscaria-properties-and-pharmacology]], the fly agaric, is the most iconic of all
 neurotropic fungi. The worldwide analysis recognizes it with several
 forms, subspecies and varieties including A. muscaria ssp. muscaria,
 ssp. americana, ssp. flavivolvata, ssp. kamtschatica with var. alba,
@@ -52,7 +52,7 @@ muscaria forms mycorrhizal associations primarily with Pinus and
 Betula in the boreal and temperate forests of the northern hemisphere.
 This mycorrhizal dependency restricts the species to regions where
 its host trees grow, explaining its natural distribution across
-Europe, Asia and North America, including Mexico.
+Europe, Asia and [[psilocybin-north-america-pacific-northwest]], including Mexico.
 
 Amanita muscaria has been introduced far beyond its natural range
 through pine plantations. It is documented from Brazil, Colombia,
@@ -61,7 +61,7 @@ pines were planted for forestry. In Tanzania, Härkönen (1995) and
 Härkönen et al. (1994) documented naturalized populations. In
 Australia, Cleland (1976) reported the species, and Hongo and
 Yokoyama (1978) documented it from New Zealand. These records
-demonstrate how human forestry practices have inadvertently
+demonstrate how human [[mycelium-running-forestry-practices-and-mushrooms]] have inadvertently
 distributed a neurotropic fungus across the globe.
 
 ## The Siberian Sacred Mushroom Tradition
@@ -115,7 +115,7 @@ It is documented from virtually every European country, most U.S.
 states, all Canadian provinces, Mexico, numerous South American
 countries, Japan, China, India, Australia, New Zealand, Tanzania,
 South Africa and many other regions. This distribution reflects
-both its natural range in boreal forests and its introduction
+both its natural range in [[fungal-diversity-boreal-forests-taiga]] and its introduction
 through pine plantations.
 
 Amanita pantherina shows a somewhat more restricted distribution,

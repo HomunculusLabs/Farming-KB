@@ -2,7 +2,7 @@
 title: Troubleshooting Guide
 created: 2026-04-26
 sources: Marijuana Horticulture (Cervantes)
-synonyms: problem diagnosis, nutrient deficiencies, nutrient excesses, environmental stress
+synonyms: problem diagnosis, [[hamilton-nutrient-deficiencies-and-treatment]], nutrient excesses, environmental stress
 type: concept
 tags: [cannabis]
 updated: 2026-04-26
@@ -14,7 +14,7 @@ Diagnosing cannabis plant problems requires careful observation and systematic e
 
 ## Diagnostic Approach
 
-When plants show problems, examine them systematically. Check leaves for discoloration, spots, curling, or wilting. Inspect stems, branches, and buds for abnormalities. Check the root zone for odors, discoloration, or pests. Test the growing medium pH and nutrient solution EC. Review environmental conditions: temperature, humidity, light intensity, and air circulation. Most problems have multiple possible causes; eliminate possibilities one by one.
+When plants show problems, examine them systematically. Check leaves for discoloration, spots, curling, or wilting. Inspect stems, branches, and buds for abnormalities. Check the root zone for odors, discoloration, or pests. Test the growing medium pH and [[cannabis-nutrient-solution-preparation]] EC. Review environmental conditions: temperature, humidity, light intensity, and air circulation. Most problems have multiple possible causes; eliminate possibilities one by one.
 
 ## Nitrogen Deficiency
 
@@ -22,7 +22,7 @@ Nitrogen deficiency is the most common nutrient problem. Symptoms appear first o
 
 ## Nitrogen Excess
 
-Too much nitrogen causes dark green, overly lush foliage that is susceptible to pest and disease attack. Leaves may curl downward like a praying mantis claw. Excess nitrogen delays flowering and reduces bud production. Stems become soft and brittle. Flush with plain water and reduce nitrogen in the feeding regimen.
+Too much nitrogen causes dark green, overly lush foliage that is susceptible to [[hamilton-pest-and-disease-control-organic]] attack. Leaves may curl downward like a praying mantis claw. Excess nitrogen delays flowering and reduces bud production. Stems become soft and brittle. Flush with plain water and reduce nitrogen in the feeding regimen.
 
 ## Phosphorus Deficiency
 
@@ -30,7 +30,7 @@ Phosphorus deficiency causes dark green or purplish leaves, particularly on the 
 
 ## Potassium Deficiency
 
-Potassium deficiency causes older leaves to develop brown, scorched edges and tips. Necrotic spots may appear between leaf veins. Stems become weak and brittle. Plants are more susceptible to disease. Potassium is critical during flowering for bud development and resin production. Brown leaf tips during flowering often indicate potassium deficiency.
+Potassium deficiency causes older leaves to develop brown, scorched edges and tips. Necrotic spots may appear between leaf veins. Stems become weak and brittle. Plants are more susceptible to disease. Potassium is critical during flowering for bud development and [[cannabis-glandular-trichome-types-resin-production-clarke]]. Brown leaf tips during flowering often indicate potassium deficiency.
 
 ## Calcium Deficiency
 
@@ -70,7 +70,7 @@ pH outside the optimal range (5.8-6.8 for hydroponics, 6.5-7.0 for soil) locks o
 
 ## Salt Buildup
 
-Excess fertilizer salts accumulate in growing mediums over time, causing nutrient lockout, leaf burn, and stunted growth. EC/TDS readings will be high. Leaves develop burnt edges and tips. Flush with two to three times the container volume of plain water, then resume feeding at reduced strength.
+Excess fertilizer salts accumulate in [[cervantes-growing-mediums-comparison]] over time, causing [[cannabis-nutrient-lockout-and-ph]], leaf burn, and stunted growth. EC/TDS readings will be high. Leaves develop burnt edges and tips. Flush with two to three times the container volume of plain water, then resume feeding at reduced strength.
 
 ## See Also
 

@@ -1,5 +1,5 @@
 ---
-title: Soil Protozoa vs Nematodes in Nutrient Cycling
+title: Soil comparison soil protozoa vs nematodes in nutrient cycling in Nutrient Cycling
 created: 2026-05-06
 tags:
   - soil-biology
@@ -48,26 +48,26 @@ Both soil protozoa and nematodes function as key bacterial and fungal grazers in
 
 Protozoa consume bacteria at extraordinary rates. A single flagellate can consume 100–1,000 bacterial cells per hour. Because protozoan biomass has a much lower carbon-to-nitrogen ratio (C:N ≈ 5–8:1) compared to bacteria (C:N ≈ 4–8:1), they must excrete a large fraction of consumed nitrogen as ammonium to maintain their internal stoichiometry. This "microbial loop"—wherein bacteria immobilize nutrients and protozoa remineralize them—can release 20–80 kg N/ha/year in agricultural soils.
 
-Protozoa are particularly active in the rhizosphere, where root exudates fuel bacterial growth, creating a "hot spot" of grazing activity. Studies using ¹⁵N-labeled bacteria have shown that protozoan-grazed nitrogen is taken up by plant roots within hours of mineralization, representing one of the fastest nutrient turnover pathways in soil.
+Protozoa are particularly active in the rhizosphere, where [[root-exudates]] fuel bacterial growth, creating a "hot spot" of grazing activity. Studies using ¹⁵N-labeled bacteria have shown that protozoan-grazed nitrogen is taken up by plant roots within hours of mineralization, representing one of the fastest nutrient turnover pathways in soil.
 
 ### Nematode Grazing
 
 Bacterial-feeding nematodes mineralize nitrogen through the same stoichiometric mechanism as protozoa but operate at larger spatial and temporal scales. Their generation times of days to weeks mean they respond more slowly to changes in bacterial populations, but their larger body size means each individual contributes more biomass and mineralizes more total nitrogen per feeding event. Nematode fecal pellets also serve as hotspots for bacterial recolonization, creating a patchy but persistent cycle of mineralization.
 
-Fungal-feeding nematodes fill an analogous role for the fungal decomposition channel, mineralizing nitrogen immobilized in fungal biomass. This dual-channel mineralization (bacterial-feeding nematodes + protozoa on the bacterial channel; fungal-feeding nematodes on the fungal channel) gives nematodes a broader influence on overall nutrient cycling than protozoa, which are restricted to the bacterial channel.
+Fungal-feeding nematodes fill an analogous role for [[fungal-decomposition]] tion channel, mineralizing nitrogen immobilized in fungal biomass. This dual-channel mineralization (bacterial-feeding nematodes + protozoa on the bacterial channel; fungal-feeding nematodes on the fungal channel) gives nematodes a broader influence on overall nutrient cycling than protozoa, which are restricted to the bacterial channel.
 
 ## Ecological Roles Beyond Mineralization
 
 ### Protozoa-Specific Functions
 
-- **Bacterial community structuring**: Protozoan selective grazing shapes bacterial community composition, preferentially consuming large, fast-growing bacteria and allowing slower-growing, stress-tolerant species to persist. This "top-down" control influences which bacterial functional groups dominate in a given soil.
+- **[[core-endorhiza-bacterial-community-composition-cannabis]] structuring**: Protozoan [[dighton-selective-grazing-fungal-community-shifts]] shapes bacterial community composition, preferentially consuming large, fast-growing bacteria and allowing slower-growing, stress-tolerant species to persist. This "top-down" control influences which bacterial functional groups dominate in a given soil.
 - **Root growth stimulation**: Protozoan grazing in the rhizosphere stimulates bacterial production of plant growth-promoting compounds including auxins and siderophores. Experiments show that plants grown in the presence of protozoa allocate more biomass to roots, an effect mediated by protozoan-induced changes in bacterial metabolite profiles.
 - **Disease suppression**: Some protozoa consume pathogenic bacteria (e.g., *Ralstonia*, *Pseudomonas* syringae), providing biological control. However, other protozoa can harbor pathogenic bacteria intracellularly, protecting them from environmental stress—a complex dual role.
-- **Horizontal gene transfer**: Protozoan feeding vacuoles can bring unrelated bacterial cells into close proximity, potentially facilitating horizontal gene transfer events that spread antibiotic resistance or metabolic capabilities through soil bacterial communities.
+- **Horizontal gene transfer**: Protozoan feeding vacuoles can bring unrelated bacterial cells into close proximity, potentially facilitating horizontal gene transfer events that spread antibiotic resistance or metabolic capabilities through soil [[cultivar-endorhiza-bacterial-communities-cannabis]].
 
 ### Nematode-Specific Functions
 
-- **Fungal channel regulation**: Fungal-feeding nematodes are the primary grazers of saprotrophic fungi, regulating fungal biomass and decomposition rates. Without nematode grazing, fungal hyphae can over-accumulate, sequestering nutrients in living fungal tissue.
+- **Fungal channel regulation**: Fungal-feeding nematodes are the primary grazers saprotrophic fungi ungi, regulating fungal biomass and decomposition rates. Without nematode grazing, [[fungal-hyphae]] can over-accumulate, sequestering nutrients in living fungal tissue.
 - **Soil structure engineering**: Nematode movement through soil creates biopores that improve water infiltration and aeration. Their sinusoidal locomotion through water films redistributes bacteria and organic particles, physically mixing the soil at the microscale.
 - **Omnivorous and predatory regulation**: Predatory nematodes (mononchids, dorylaimids) feed on other nematodes, including plant-parasitic species, providing a natural biocontrol mechanism. Omnivorous nematodes bridge trophic levels, feeding on both fungi and animals.
 - **Plant parasitism**: Unlike protozoa, many nematodes are plant parasites that cause significant agricultural damage. Root-knot (*Meloidogyne*), cyst (*Globodera*, *Heterodera*), and lesion (*Pratylenchus*) nematodes directly reduce crop yields, representing the negative side of nematode diversity.
@@ -97,7 +97,7 @@ Protozoa are active only in water films thicker than ~3 μm, making them highly 
 |---|---|---|
 | **N mineralization rate** | Very fast (hours) | Moderate (days to weeks) |
 | **Annual N contribution** | 10–40 kg N/ha | 10–60 kg N/ha |
-| **P mineralization** | Significant via phosphatase activity | Moderate; some species excrete excess P |
+| **P mineralization** | Significant via [[mycorrhizal-phosphatase-activity-elf97-detection]] | Moderate; some species excrete excess P |
 | **Spatial scale** | Rhizosphere hotspots (<1 mm) | Soil aggregate to profile scale (mm–cm) |
 | **Temporal scale** | Pulsed, event-driven | Sustained, seasonal |
 | **Plant uptake efficiency** | High (directly adjacent to roots) | Moderate (distributed throughout soil) |
@@ -106,13 +106,13 @@ Protozoa are active only in water films thicker than ~3 μm, making them highly 
 
 For **annual vegetable crops** where rapid nutrient availability is critical, management should focus on maximizing protozoan activity: maintain adequate soil moisture, avoid tillage, apply low-C:N compost, and minimize fungicide use. Protozoa provide the "fast-release" nitrogen component of the soil food web.
 
-For **perennial systems** (orchards, pastures, no-till grain) where sustained nutrient supply and soil stability are priorities, supporting a balanced nematode community is equally important. Diverse rotations, cover crops, and minimal soil disturbance promote both bacterial-feeding nematodes (for mineralization) and fungal-feeding nematodes (for decomposition channel regulation).
+For **perennial systems** (orchards, pastures, no-till grain) where sustained nutrient supply and soil stability are priorities, supporting a balanced nematode community is equally important. Diverse rotations, [[cover-crops]], and minimal soil disturbance promote both bacterial-feeding nematodes (for mineralization) and fungal-feeding nematodes (for decomposition channel regulation).
 
 For **biological disease suppression**, encouraging both protozoa (which graze pathogenic bacteria) and predatory nematodes (which consume plant-parasitic nematodes) creates complementary biocontrol. The key is maintaining overall soil food web complexity rather than targeting individual groups.
 
 ## Summary
 
-Protozoa and nematodes are complementary rather than redundant agents of nutrient cycling. Protozoa provide rapid, localized, bacteria-driven mineralization in the rhizosphere; nematodes provide sustained, spatially distributed mineralization across both bacterial and fungal decomposition channels. Healthy, productive soils need both groups functioning. Management practices that reduce physical disturbance, maintain soil moisture, provide diverse organic inputs, and minimize pesticide use support the full spectrum of microbial grazers and the ecosystem services they provide.
+Protozoa and nematodes are complementary rather than redundant agents of nutrient cycling. Protozoa provide rapid, localized, bacteria-driven mineralization in the rhizosphere; nematodes provide sustained, spatially distributed mineralization across both bacterial and fungal decomposition channels. Healthy, productive soils need both groups functioning. Management practices that reduce physical disturbance, maintain soil moisture, provide diverse organic inputs, and minimize pesticide use support the full spectrum of microbial grazers and the [[biodiversity-of-fungi-ecosystem-services-agriculture]] they provide.
 
 ## See Also
 

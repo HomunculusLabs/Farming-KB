@@ -1,16 +1,17 @@
 ---
-title: Holzer Fig and Mediterranean Species
+title: Holzer holzer fig and mediterranean species Species
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Fig and Mediterranean Species
 
-One of Sepp Holzer's most dramatic demonstrations of permaculture principles is the cultivation of Mediterranean and subtropical species in alpine Austria. Through careful microclimate design -- using suntraps, stone heat storage, water reflection, wind protection, and terracing -- Holzer has grown figs, grapes, kiwi, lemons, sweet chestnuts, apricots, and even prickly pear cactus at altitudes and in climates where conventional agriculture considers them impossible. This work proves that with creative design, the range of productive species can be greatly extended beyond their natural climatic limits.
+One of Sepp Holzer's most dramatic demonstrations of permaculture principles is the cultivation of Mediterranean and subtropical species in alpine Austria. Through careful microclimate design -- using suntraps, stone heat storage, water reflection, [[cervantes-wind-protection-outdoor-cannabis]], and terracing -- Holzer has grown figs, grapes, kiwi, lemons, sweet chestnuts, apricots, and even [[comparison-agave-vs-prickly-pear-cultivation]] cactus at altitudes and in climates where conventional agriculture considers them impossible. This work proves that with creative design, the range of productive species can be greatly extended beyond their natural climatic limits.
 
 ## The Suntrap Concept
 
@@ -18,7 +19,7 @@ The foundation of Mediterranean species cultivation at the Krameterhof is the su
 
 ### Stone Heat Storage
 
-Large stones placed on hillsides store heat like a masonry stove and release it slowly into the surrounding area. This thermal mass effect buffers temperature extremes, reducing the impact of cold nights and extending the effective growing season. Plants that need a lot of heat are placed next to these stones.
+Large stones placed on hillsides store heat like a masonry stove and release it slowly into the surrounding area. This thermal mass effect buffers temperature extremes, reducing the impact of cold nights and extending the effective [[savory-growing-season-and-non-growing-season-management]]. Plants that need a lot of heat are placed next to these stones.
 
 ### Water Reflection
 
@@ -41,9 +42,9 @@ Figs are among the most surprising successes of Holzer's Mediterranean cultivati
 While Holzer does not provide extensive detailed instructions for fig cultivation specifically, the principles that enable fig growing in cold climates are clear:
 
 1. Maximum heat accumulation: Position figs in the warmest microclimate available, typically against a south-facing stone wall or within a suntrap
-2. Frost protection: Fig wood is relatively frost-sensitive. In marginal climates, the plant may die back to the ground in severe winters but regrow from the roots in spring
+2. [[holzer-frost-protection-techniques]]: Fig wood is relatively frost-sensitive. In marginal climates, the plant may die back to the ground in severe winters but regrow from the roots in spring
 3. Well-drained soil: Figs tolerate poor, rocky soils but require excellent drainage
-4. Root restriction: In cold climates, restricting the root zone (by planting in a contained area or against a wall) can encourage the plant to focus energy on fruit production rather than excessive vegetative growth
+4. Root restriction: In cold climates, restricting the root zone (by planting in a contained area or against a wall) can encourage the plant to focus energy on fruit production rather than excessive [[cannabis-vegetative-growth-stage]]
 5. Variety selection: Cold-hardy varieties such as Brown Turkey, Hardy Chicago, and Celeste are most likely to succeed in marginal conditions
 
 ### Fig Integration in the Landscape

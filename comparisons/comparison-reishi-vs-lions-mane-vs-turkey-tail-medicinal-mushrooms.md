@@ -1,5 +1,5 @@
 ---
-title: Reishi vs Lion's Mane vs Turkey Tail — Medicinal Mushroom Comparison
+title: Reishi vs Lion's Mane vs Turkey Tail — gourmet-medicinal-mushroom-casing-layer-techniques Comparison
 created: 2026-04-28
 tags:
   - medicinal-mushrooms
@@ -13,17 +13,17 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Wasser, S.P., "medicinal-mushrooms as a Source of Antitumor and Immunomodulating Polysaccharides," Applied Microbiology and Biotechnology, vol. 60, 2002.
-  - Hobbs, C., "Medicinal Mushrooms: An Exploration of Tradition, Healing, and Culture," Botanica Press, 1995.
+  - Hobbs, C., "[[cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides]]: An Exploration of Tradition, Healing, and Culture," Botanica Press, 1995.
   - Stamets, P., "Growing Gourmet and Medicinal Mushrooms," 3rd ed., Ten Speed Press, 2000.
   - Pillai, T.G. et al., "An Updated Review of Turkey Tail Mushroom," Phytochemistry, vol. 188, 2022.
-  - Li, I.W. et al., "Health Benefits of the Lion's Mane Mushroom and Its Bioactive Compounds," Molecules, vol. 25, 2020.
+  - Li, I.W. et al., "Health Benefits of the Lion's Mane Mushroom and Its [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]," Molecules, vol. 25, 2020.
 type: comparison
 ---
 # Reishi vs Lion's Mane vs turkey tail mushroom cultivation and medicinal properties
 
 ## Overview
 
-Reishi (*Ganoderma lingzhi* / *G. lucidum*), Lionturkey-tail-trametes-versicolorerinaceus*), and Turkey Tail (*[[hericium-erinaceus]]* | *Trametes versicolor* (syn. *[[spore-print]]** | Brown | White to cream | White |
+Reishi (*Ganoderma lingzhi* / *G. lucidum*), Lionturkey-tail-trametes-versicolorerinaceus*), and Turkey Tail (*[[hericium-erinaceus]]* | *[[staycare-trametes-versicolor-bioremediation-applications]]* (syn. *[[spore-print]]** | Brown | White to cream | White |
 
 ## Primary Bioactive Compounds
 
@@ -39,7 +39,7 @@ Reishi (*Ganoderma lingzhi* / *G. lucidum*), Lionturkey-tail-trametes-versicolor
 
 - **Reishi**: Dual extraction (hot water + ethanol) is essential. Water extracts polysaccharides; ethanol extracts triterpenoids (ganoderic acids). Products using only hot water extraction miss the triterpenoid fraction. Spore oil is a specialty product containing concentrated triterpenoids.
 - **Lion's Mane**: Hot water extraction captures β-glucans from fruiting body. Mycelium products (often grown on grain) may contain erinacines but should be tested for β-glucan content. Dual extraction is preferred for full-spectrum products.
-- **Turkey Tail**: Hot water extraction captures PSK and PSP. Most clinical research uses hot water extracts. Some products use fermented mycelium biomass. Check for verified β-D-glucan content (>30% for quality products).
+- **Turkey Tail**: Hot water extraction captures PSK and PSP. Most [[hofmann-lsd-clinical-research-early-studies]] uses hot water extracts. Some products use fermented mycelium biomass. Check for verified β-D-glucan content (>30% for quality products).
 
 ### Quality Markers
 
@@ -66,7 +66,7 @@ Reishi (*Ganoderma lingzhi* / *G. lucidum*), Lionturkey-tail-trametes-versicolor
 |---|---|---|---|
 | **General safety** | Very safe; used as food in some cultures | Very safe; culinary mushroom when fresh | Very safe; widespread traditional use |
 | **Blood thinning** | May enhance anticoagulant/antiplatelet effects | Minimal risk | Minimal risk |
-| **Autoimmune conditions** | May be contraindicated (immune-stimulating in some contexts) | Generally safe | May overstimulate immune system |
+| **[[cannabis-autoimmune-conditions-detailed]]** | May be contraindicated (immune-stimulating in some contexts) | Generally safe | May overstimulate immune system |
 | **Surgery** | Discontinue 2 weeks before surgery (bleeding risk) | Minimal concern | Minimal concern |
 | **Pregnancy/lactation** | Insufficient data; traditional use suggests caution | Insufficient data; generally avoided | Insufficient data; generally avoided |
 | **Side effects** | Dry mouth, throat irritation, dizziness, GI upset (rare) | Skin rash, GI discomfort (rare) | Darkened stools, GI discomfort (rare) |
@@ -96,4 +96,4 @@ Reishi (*Ganoderma lingzhi* / *G. lucidum*), Lionturkey-tail-trametes-versicolor
 
 ## See Also
 
-- [[comparison-lions-mane-vs-turkey-tail-medicinal-mushrooms]]
+- comparison-lions-mane-vs-turkey-tail-medicinal-mushrooms

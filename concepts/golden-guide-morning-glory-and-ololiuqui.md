@@ -1,11 +1,12 @@
 ---
-title: "Golden Guide: Morning Glory and Ololiuqui (LSA-Containing Plants)"
+title: "Golden Guide: golden guide morning glory and ololiuqui and Ololiuqui (LSA-Containing Plants)"
 created: 2026-04-28
 tags: [hallucinogenic-plants, lsa, morning-glory, ololiuqui, ethnobotany,
   convolvulaceae, aztec, mescaline]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 type: concept
 ---
 
@@ -29,7 +30,7 @@ from a vine called coatl-xoxouhqui ("snake plant"), with heart-shaped leaves
 and white flowers. Tlitliltzin is a black, angular seed. These were
 identified respectively as the seeds of *Rivea corymbosa* and *Ipomoea
 violacea*. Since botanical nomenclature in this family is not always clear,
-these two species are sometimes called *Turbina corymbosa* and *Ipomoea
+these two species are sometimes called *[[plants-of-the-gods-turbina-corymbosa-ololiuqui]]* and *Ipomoea
 tricolor*, respectively. Whereas much was written about ololiuqui, tlitliltzin
 was merely mentioned in the ancient writings.
 
@@ -94,10 +95,10 @@ to that potently hallucinogenic synthetic compound.
 
 His astonishing discovery met with widespread disbelief, partly because these
 lysergic-acid derivatives had hitherto been known in nature only in the
-primitive fungus ergot (*Claviceps purpurea*), a parasite on the grains of rye
+primitive fungus ergot (*[[bloomfield-ergot-claviceps-purpurea-ergotism]]*), a parasite on the grains of rye
 in Europe. Half a dozen of these ergoline alkaloids have been found in seeds
 of *Rivea corymbosa* and *Ipomoea violacea*. The main hallucinogenic
-constituents of both seeds are ergine (d-lysergic acid amide) and isoergine,
+constituents of both seeds are ergine (d-lysergic [[lysergic-acid-amide-containing-plants-halpern]]) and isoergine,
 but other related bases occur in minor amounts, chiefly chanoclavine,
 elymoclavine, and lysergol. The total alkaloid content of *Ipomoea violacea*
 is five times that of *Rivea corymbosa*, which explains why the natives use

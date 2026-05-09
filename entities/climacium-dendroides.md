@@ -46,13 +46,13 @@ Leaves on the creeping stolons are smaller, more widely spaced, and appressed to
 
 Capsules are rare but distinctive when present. They are cylindrical, slightly curved, and borne on a long, red seta arising from the tip of the erect stem. Spore release occurs in autumn.
 
-The peristome consists of two rows of teeth — an inner endostome and outer exostome — that respond to humidity changes to regulate spore discharge. Spores are 12–18 μm in diameter, finely papillose, and dispersed by wind.
+The peristome consists of two rows of teeth — an inner endostome and outer exostome — that respond to humidity changes to regulate [[bloomfield-fungal-spore-discharge-and-dispersal]]. Spores are 12–18 μm in diameter, finely papillose, and dispersed by wind.
 
 The creeping stolons can extend 10–20 cm, forming extensive interwoven networks that anchor the colony. New erect shoots arise at intervals along the stolon, producing dense stands of tree-like shoots over time.
 
 ## Distribution and Habitat
 
-*Climacium dendroides* is distributed across Europe, northern Asia, and North America. It occurs from temperate regions to the southern edge of the boreal zone, with scattered populations in mountainous tropical areas.
+*Climacium dendroides* is distributed across Europe, northern Asia, and [[psilocybin-north-america-pacific-northwest]]. It occurs from temperate regions to the southern edge of the boreal zone, with scattered populations in mountainous tropical areas.
 
 The species is strongly associated with wet habitats. It grows on swampy ground, marsh margins, stream banks, ditches, and in damp hollows within coniferous and mixed forests. Consistently high humidity is essential for its survival.
 
@@ -66,7 +66,7 @@ The dendroid growth form of *C. dendroides* provides unique microhabitat structu
 
 The species is a reliable indicator of wet, undisturbed habitat conditions. Its presence typically indicates consistently high water tables and minimal disturbance from drainage or land conversion.
 
-In boreal wetlands, *C. dendroides* contributes to peat accumulation through slow decomposition of its robust stems. The species produces recalcitrant litter that decomposes more slowly than many other mosses, contributing to long-term carbon storage.
+In boreal wetlands, *C. dendroides* contributes to peat accumulation through slow decomposition of its robust stems. The species produces recalcitrant litter that decomposes more slowly than many other mosses, contributing to long-term [[holmgren-soil-humus-carbon-storage-rebuilding]].
 
 The creeping stolons play an important role in substrate stabilization. They form extensive networks that bind saturated organic soils and reduce erosion along stream banks and wetland margins.
 
@@ -75,7 +75,7 @@ Microfaunal communities within *C. dendroides* colonies include nematodes, tardi
 The species occasionally co-occurs with [[sphagnum-palustre]]
 - [[polytrichum-commune]]
 - [[pleurozium-schreberi]]
-- [[peltigera-apthosa]]
+- [[peltigera-aphthosa]]
 - [[sticta-sylvatica]]
 - [[equisetum-arvense]]
 - [[pinus-sylvestris]]

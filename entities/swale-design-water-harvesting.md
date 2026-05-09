@@ -23,7 +23,7 @@ created: 2026-04-28
 
 # Swale Design and Water Harvesting Earthworks
 
-**Swales** are level trenches excavated along the contour lines of a landscape, designed to capture, slow, spread, and sink surface water runoff into the soil profile. They are one of the most foundational and widely implemented earthwork techniques in permaculture and regenerative agriculture design. By transforming destructive erosion flows into beneficial infiltration, swales simultaneously address water scarcity, soil degradation, desertification, and food production challenges.
+**Swales** are level trenches excavated along the contour lines of a landscape, designed to capture, slow, spread, and sink surface water runoff into the soil profile. They are one of the most foundational and widely implemented earthwork techniques in permaculture and [[regenerative-agriculture]] design. By transforming destructive erosion flows into beneficial infiltration, swales simultaneously address water scarcity, soil degradation, desertification, and food production challenges.
 
 ## Core Principles
 
@@ -92,16 +92,16 @@ The berm and associated planting zones represent the most productive areas in a 
 
 ### Canopy Layer (Berm Top)
 - Deep-rooted fruit and nut trees: oak, chestnut, pecan, apple, pear, plum, fig, olive (climate-dependent)
-- Nitrogen-fixing canopy trees: black locust (*Robinia pseudoacacia*), honey locust (*Gleditsia triacanthos*), mesquite (*Prosopis* spp.)
+- Nitrogen-fixing canopy trees: black locust (*[[robinia-pseudoacacia]]*), honey locust (*[[gleditsia-triacanthos]]*), mesquite (*Prosopis* spp.)
 - Timber and fodder trees (in larger systems)
 
 ### Understory Layer (Berm Sides)
 - Fruit shrubs: currant, gooseberry, blueberry, aronia, elderberry, hazelnut
-- Nitrogen-fixing shrubs: seaberry (*Hippophae rhamnoides*), goumi (*Elaeagnus multiflora*), Siberian pea shrub (*Caragana arborescens*)
+- Nitrogen-fixing shrubs: seaberry (*Hippophae rhamnoides*), goumi (*[[elaeagnus-multiflora]]*), Siberian pea shrub (*[[caragana-arborescens]]*)
 - Berry bushes: raspberry, blackberry, boysenberry
 
 ### Herbaceous Layer (Berm Base and Swale Edge)
-- Comfrey (*Symphytum officinale*) — dynamic accumulator, biomass producer
+- Comfrey (*[[symphytum-officinale]]*) — dynamic accumulator, biomass producer
 - Daikon radish — soil-busting taproot
 - Yarrow (*Achillea millefolium*) — insectary, medicinal
 - Chicory, dandelion — deep-rooted accumulators

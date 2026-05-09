@@ -3,30 +3,13 @@ title: Dogwood (Cornus capitata)
 created: 2026-04-18
 updated: 2026-04-22
 type: concept
-tags: [[permaculture, food-forest, tree-crop]
+tags: [permaculture, food-forest, tree-crop]
 sources: [raw/papers/a-selection-permaculture-plants.md]
 ---
-
-# Dogwood (Cornus capitata)
-
-The Himalayan strawberry tree or evergreen dogwood (Cornus capitata) is an attractive evergreen shrub or small tree native to the Himalayas and southwestern China. It is valued in permaculture systems for its ornamental qualities, wildlife habitat, and edible fruit.
-
-## Botany and Growth Habit
-
-An evergreen shrub or small tree reaching 6-12 meters, with leathery dark green leaves that provide year-round cover. The large, showy flower heads are surrounded by conspicuous creamy-white bracts in summer, giving a display similar to the better-known flowering dogwoods. The strawberry-like red fruits follow in autumn and persist into winter, providing extended visual interest and wildlife food during the lean season.
-
-The bark is smooth and gray-brown when young, becoming rougher with age. The branching pattern is naturally spreading and architectural, making it an excellent specimen tree. Growth rate is moderate — expect 30-60 cm per year in favorable conditions.
-
-The species is sometimes referred to as thammal or thanboi in its native range. It should not be confused with Arbutus unedo, which also bears the common name "strawberry tree."
-
-## Fruit and Uses
-
-The round, red, strawberry-like fruits are about 2-3 cm in diameter, produced in late autumn. While not as flavorful as true strawberries, they are edible raw, with a mildly sweet, mealy texture. They can also be cooked into preserves or used in baking. More significantly, the fruits are eagerly consumed by birds and small mammals, making this tree a valuable wildlife food source.
-
-In [[cornus-mas]] Topics
+# Dogwood (Cornus capitata) The Himalayan strawberry tree or evergreen dogwood (Cornus capitata) is an attractive evergreen shrub or small tree native to the Himalayas and southwestern China. It is valued in permaculture systems for its ornamental qualities, wildlife habitat, and edible fruit. ## Botany and Growth Habit An evergreen shrub or small tree reaching 6-12 meters, with leathery dark green leaves that provide year-round cover. The large, showy flower heads are surrounded by conspicuous creamy-white bracts in summer, giving a display similar to the better-known flowering dogwoods. The strawberry-like red fruits follow in autumn and persist into winter, providing extended visual interest and wildlife food during the lean season. The bark is smooth and gray-brown when young, becoming rougher with age. The branching pattern is naturally spreading and architectural, making it an excellent specimen tree. Growth rate is moderate — expect 30-60 cm per year in favorable conditions. The species is sometimes referred to as thammal or thanboi in its native range. It should not be confused with Arbutus unedo, which also bears the common name "strawberry tree." ## Fruit and Uses The round, red, strawberry-like fruits are about 2-3 cm in diameter, produced in late autumn. While not as flavorful as true strawberries, they are edible raw, with a mildly sweet, mealy texture. They can also be cooked into preserves or used in baking. More significantly, the fruits are eagerly consumed by birds and small mammals, making this tree a valuable wildlife food source. In [[cornus-mas]] Topics
 
 - [[permaculture-tree-crop-systems]]
-- [[permaculture-zone-planning]]
+- permaculture-zone-planning
 - [[fukuoka-natural-fruit-tree-pest-control]]
 - [[hamilton-pruning-and-training-fruit-trees]]
 ## Practical Applications
@@ -46,7 +29,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -96,7 +79,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -106,4 +89,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

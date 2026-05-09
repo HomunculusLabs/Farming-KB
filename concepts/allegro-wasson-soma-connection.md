@@ -1,5 +1,5 @@
 ---
-title: Allegro and the Wasson Soma Connection
+title: Allegro and the allegro wasson soma connection Connection
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Allegro and the Wasson Soma Connection
 
-The relationship between [[john-allegro]]'s [The Sacred Mushroom and the Cross (1970) and [Gordon Wasson's SOMA: Divine Mushroom of
+The relationship between [[john-allegro]]'s [The [[allegro-the-sacred-mushroom-amanita-identification]] and the Cross (1970) and [Gordon Wasson's SOMA: Divine Mushroom of
 Immortality (1968) is one of the most curious episodes in the history of
 psychedelic scholarship. While Allegro's book was clearly influenced by Wasson's
 earlier work, the nature and extent of that influence, and the relationship
@@ -17,7 +17,7 @@ between the two men's theories, remain contested.
 
 ## Wasson's SOMA (1968)
 
-Wasson's SOMA proposed that the mysterious Vedic Soma, praised throughout the
+Wasson's SOMA proposed that the mysterious [[mckenna-vedic-soma-indo-european-mysteries]], praised throughout the
 Rig Veda, was the [flyic mushroom ([[amanita-muscaria-entity]]). Published in an expensive
 limited edition and subsequently as a trade paperback, the book argued that
 Soma's description in the Rig Veda matched the fly-agaric's properties and that
@@ -26,7 +26,7 @@ consumption, documented among Siberian peoples, confirmed the identification.
 
 The book gained immediate academic support from influential figures including
 Claude Levi-Strauss, Joseph Needham, Weston La Barre, and Wasson's
-collaborators Roger Heim and Richard Evans Schultes. It also captured the imagination of the [psychedelic counterculture.
+collaborators Roger Heim and Richard [[richard-evans-schultes-updated]]. It also captured the imagination of the [psychedelic counterculture.
 
 ## Allegro's Response
 
@@ -37,7 +37,7 @@ radical.
 
 While Wasson argued that the fly-agaric was the Vedic Soma (a claim restricted
 to ancient Indian religion), Allegro extended the mushroom theory to encompass
-the origins of Christianity itself. Where Wasson saw a mushroom cult in ancient
+the origins of Christianity itself. Where Wasson saw a [[african-mushroom-cult-history]] in ancient
 India, Allegro saw one underlying all of Western religion.
 
 ## Was Allegro Inspired by Wasson?
@@ -73,7 +73,7 @@ Despite surface similarities, the two theories differ profoundly:
 
 **Scope**: Wasson restricted his fly-agaric thesis to the Vedic Soma question.
 Allegro extended it to encompass Judaism, Christianity, and the entire
-religious history of the ancient Near East.
+religious history of the [[allegro-fertility-philosophy-of-the-ancient-near-east]] East.
 
 **Method**: Wasson relied primarily on ethnographic comparison, textual
 analysis, and some archaeology. Allegro relied almost entirely on his

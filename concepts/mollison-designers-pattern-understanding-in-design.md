@@ -1,5 +1,5 @@
 ---
-title: Pattern Understanding in Permaculture Design
+title: bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture in bill-mollison-permaculture-a-designers-manual-permaculture-design-principles
 created: 2026-04-28
 tags:
   - permaculture
@@ -24,7 +24,7 @@ analytical skill.
 Mollison argues that conventional design is pattern-illiterate -- it imposes
 straight lines, grids, and uniformity on landscapes that naturally express
 complex, efficient patterns. Natural patterns have evolved over billions of
-years to maximize energy capture, minimize energy loss, distribute resources
+years to maximize [[fukuoka-three-dimensional-solar-energy-capture-rice-paddy]], minimize energy loss, distribute resources
 efficiently, and create resilience through diversity and redundancy. By
 emulating these patterns, permaculture design achieves the same efficiencies
 in human systems.
@@ -57,7 +57,7 @@ In design, branching patterns inform:
 
 Spirals appear in nautilus shells, sunflower seed heads, pinecones, weather
 systems, galaxy arms, and the arrangement of leaves on stems (phyllotaxis).
-The spiral is nature's solution to compact growth with maximum exposure and
+The spiral is nature's solution to [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] with maximum exposure and
 access.
 
 Design applications include:
@@ -84,14 +84,14 @@ Design applications include:
 Nets appear in spider webs, fungal mycelium, and social networks. They
 provide maximum connectivity with minimum material -- every point connects
 through multiple paths, creating redundancy and resilience. Design
-applications include plant guilds, community organization, water
+applications include plant guilds, [[savory-community-organization-and-shared-grazing]], water
 distribution, and information networks.
 
 ### Scatter and Distribution Patterns
 
 Scatter patterns describe how organisms distribute in space: random, uniform,
 clumped, or gradient. Design applications include scatter planting of tree
-crops (more natural, better wind protection), scatter housing for privacy and
+crops (more natural, better [[cervantes-wind-protection-outdoor-cannabis]]), scatter housing for privacy and
 habitat, and distributions following mathematical optimization principles.
 
 ### Edge Patterns

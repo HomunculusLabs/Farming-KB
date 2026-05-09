@@ -9,13 +9,13 @@ sources:
 ---
 # Lactarius Cultivation Attempts
 
-Cultivation of Lactarius species, the milk caps, has been pursued for several edible members of this large genus, most notably Lactarius deliciosus (the saffron milk cap). While mycorrhizal formation on host tree seedlings has been achieved in laboratory and nursery settings, consistent commercial fruiting remains elusive for most Lactarius species.
+Cultivation of Lactarius species, the milk caps, has been pursued for several edible members of this large genus, most notably Lactarius deliciosus (the saffron milk cap). While mycorrhizal formation on [[ectomycorrhizal-host-tree-partnerships]] seedlings has been achieved in laboratory and nursery settings, consistent commercial fruiting remains elusive for most Lactarius species.
 
 ## Overview
 
 The genus Lactarius contains approximately 400 described species of ectomycorrhizal mushrooms found worldwide. Several species are excellent edibles, including Lactarius deliciosus (saffron milk cap), Lactarius sanguifluus (blood-red milk cap), Lactarius deterrimus (false saffron milk cap), and Lactarius quieticolor. These species are commercially harvested in Europe, Asia, and elsewhere, creating economic incentive for cultivation research.
 
-All Lactarius species are obligate ectomycorrhizal fungi that require living host trees to complete their life cycle. This fundamental biological constraint means that cultivation necessarily involves growing host trees with the fungal symbiont, a process measured in years rather than the weeks or months typical of saprotrophic mushroom cultivation. See [[truffle-cultivation-basics]] and [[mycoforestry-forest-management-with-fungi]] and agroforestry.
+All Lactarius species are obligate [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] that require living host trees to complete their [[bloomfield-fungal-life-cycle-spiral-versus-circle]]. This fundamental biological constraint means that cultivation necessarily involves growing host trees with the fungal symbiont, a process measured in years rather than the weeks or months typical of saprotrophic [[accessible-mushroom-cultivation-for-disabilities]]. See [[truffle-cultivation-basics]] and mycoforestry-forest-management-with-fungi and agroforestry.
 
 ## See Also
 
@@ -27,7 +27,7 @@ All Lactarius species are obligate ectomycorrhizal fungi that require living hos
 
 - [[ectomycorrhizal-morphological-structures]]
 
-- [[mycoforestry-forest-management-with-fungi]]
+- mycoforestry-forest-management-with-fungi
 ## Practical Applications
 
 Lactarius Cultivation Attempts has a range of practical applications that make it relevant to
@@ -105,4 +105,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

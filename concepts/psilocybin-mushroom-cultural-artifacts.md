@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Mushroom Cultural Artifacts
+title: emcdda-psilocybin-mushroom-dose-and-effects Cultural Artifacts
 psilocybin-mushroomMushroom Cultural Artifacts"
 tags:
   - mushroom-art
@@ -22,7 +22,7 @@ Mesoamerica, anthropological evidence suggests that psychoactive
 mushrooms have also been used in various African cultural and
 spiritual contexts. These figurines may represent ceremonial objects,
 depict deities or spirits associated with mushrooms, or serve as
-artistic representations of psychoactive fungi that played roles in
+artistic representations of [[cattle-dispersal-psychoactive-fungi-australia]] that played roles in
 traditional practices.
 
 The inclusion of one figurine from Campbell's "The Way of the Animal
@@ -34,7 +34,7 @@ to the role of entheogenic substances in human cultural evolution.
 
 ## Mexican Terra Cotta Mushroom Figurines
 
-The image guide documents two terra cotta mushroom figurines dating
+The [[psilocybin-mushroom-image-guide-habitat-clues]] documents two terra cotta mushroom figurines dating
 to approximately A.D. 100 from Mexico. These figurines were
 discovered by the ethnobotanist and anthropologist Peter T. Furst,
 a pioneering researcher in the study of psychoactive plant use in
@@ -50,7 +50,7 @@ helped transform understanding of psychoactive mushrooms into a subject
 of serious anthropological and historical richard evans schultesushroom Stones (1000 B.C. to 500 A.D.)
 
 The image guide includes two separate photographs, each showing
-four mushroom stones from Mexico, dating to the period between
+four [[mckenna-mushroom-stones-of-guatemala]] from Mexico, dating to the period between
 1000 B.C. and 500 A.D. Both photographs are sourced from "Food
 of the Gods" by Richard Evans Schultes and gordon-wasson, two
 of the most important figures in ethnobotany and psychedelic
@@ -64,7 +64,7 @@ These carved stone objects, dating back as far as 1000 B.C.,
 represent the earliest known sculptural depictions of mushrooms
 in the archaeological record. They were created by the indigenous
 cultures of highland Guatemala and southern Mexico, regions where
-several species of psilocybin mushrooms are native.
+several species of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] are native.
 
 The mushroom stones vary in style, ranging from simple abstract forms
 to elaborate sculptures featuring human or animal figures atop
@@ -93,7 +93,7 @@ then the fabric is dyed. Multiple layers create complex, multicolored
 designs. The mushroom batik from Bali fuses this ancient art form with
 mycological subject matter. John W.
 Allen's documentation of these batik works during his travels in
-Southeast Asia highlights the intersection of mycological interest
+[[psilocybe-southeast-asia-pacific]] highlights the intersection of mycological interest
 and local artistic traditions.
 
 ### Cultural Bridges

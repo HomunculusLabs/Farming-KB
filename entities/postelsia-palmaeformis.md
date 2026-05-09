@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-**Postelsia palmaeformis**, commonly known as the sea palm, is a brown alga in the family Laminariaceae. It is one of the most distinctive seaweeds on the Pacific coast of North America, resembling a miniature palm tree with its thick, flexible stipe and frond-like blades.
+**Postelsia palmaeformis**, commonly known as the sea palm, is a brown alga in the family Laminariaceae. It is one of the most distinctive seaweeds on the Pacific coast of [[psilocybin-north-america-pacific-northwest]], resembling a miniature palm tree with its thick, flexible stipe and frond-like blades.
 
 The species is restricted to the most wave-exposed rocky intertidal zones from central California to British Columbia. Its peculiar morphology and ecological specialization have made it a classic model organism for intertidal ecology and succession studies.
 
@@ -46,7 +46,7 @@ Sea palms occupy the mid-intertidal zone of the most wave-exposed rocky headland
 
 The species requires a narrow set of environmental conditions: heavy surf, rocky substrate, moderate slope, and the presence of mussel beds (Mytilus californianus) that provide the attachment surface for newly settled sporophytes.
 
-Postelsia is an annual species, completing its entire life cycle within a single year. Populations are maintained by a balance between local spore recruitment and disturbance-driven colonization of newly available space in mussel beds.
+Postelsia is an annual species, completing its entire [[bloomfield-fungal-life-cycle-spiral-versus-circle]] within a single year. Populations are maintained by a balance between local spore recruitment and disturbance-driven colonization of newly available space in mussel beds.
 
 ## Chemistry and Bioactivity
 
@@ -76,13 +76,13 @@ The species has been investigated as a source of fucoidan and mannitol but has n
 
 P. palmaeformis has a heteromorphic life cycle with alternation between macroscopic sporophytes and microscopic gametophytes. Mature sporophytes release zoospores from sori on the blade surfaces during spring and early summer.
 
-Zoospores settle on bare rock surfaces within mussel bed gaps, germinate into filamentous gametophytes, and undergo sexual reproduction. Fertilized eggs develop into juvenile sporophytes that grow rapidly through summer and reach full size by early fall.
+Zoospores settle on bare rock surfaces within mussel bed gaps, germinate into filamentous gametophytes, and undergo [[fungal-life-cycles-sexual-reproduction-metamorphosis]]. Fertilized eggs develop into juvenile sporophytes that grow rapidly through summer and reach full size by early fall.
 
 The entire sporophyte generation dies during winter storms. Gametophytes persist in protected microhabitats and can remain viable for extended periods, enabling recruitment when suitable substrate becomes available.
 
 ## Conservation
 
-Postelsia is not currently listed as threatened or endangered, but local populations face pressure from coastal development, harvest, and climate change. Sea-level rise may reduce available intertidal habitat.
+Postelsia is not currently listed as threatened or endangered, but local populations face pressure from coastal development, harvest, and [[dighton-fungi-climate-change-feedback]]. Sea-level rise may reduce available intertidal habitat.
 
 The species' dependence on wave-exposed mussel beds makes it vulnerable to changes in mussel bed distribution. Oil spills, ocean acidification, and warming waters could all negatively impact populations at the southern edge of its range.
 

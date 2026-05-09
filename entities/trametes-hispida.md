@@ -22,7 +22,7 @@ Trametes hispida is a white-rot poroid basidiomycete in the family Polyporaceae,
 
 The species is a competent decomposer of lignin and cellulose, contributing significantly to nutrient cycling in forest ecosystems. Its hirsute upper surface — covered in stiff, projecting hairs — is a key diagnostic feature distinguishing it from the morphologically similar Trametes hirsuta.
 
-While not commercially cultivated, T. hispida has attracted research interest for its production of lignin-modifying enzymes and potential bioremediation applications. It has also been investigated for antimicrobial and antioxidant secondary metabolites.
+While not commercially cultivated, T. hispida has attracted research interest for its production of lignin-modifying enzymes and potential bioremediation applications. It has also been investigated for antimicrobial and antioxidant [[antifungal-secondary-metabolites-coprophilous-fungi]].
 
 The specific epithet *hispida* refers to the conspicuously hairy upper surface, derived from the Latin *hispidus* meaning bristly or rough. This characteristic, combined with its small pore size and white context, allows field identification with practice.
 
@@ -64,7 +64,7 @@ The species is relatively tolerant of a range of moisture conditions compared to
 
 ## Bioactive Compounds
 
-T. hispida produces a range of extracellular lignin-modifying enzymes including laccase, manganese peroxidase (MnP), and lignin peroxidase (LiP). These enzymes are central to its white-rot decay strategy and have been studied for industrial biopulping and bioremediation applications.
+T. hispida produces a range of extracellular lignin-modifying enzymes including laccase, [[fungal-manganese-peroxidase-remediation]] (MnP), and lignin peroxidase (LiP). These enzymes are central to its white-rot decay strategy and have been studied for industrial biopulping and bioremediation applications.
 
 Research has identified phenolic compounds with antioxidant activity in fruiting body extracts. These include hispidin derivatives, which are also found in related Polyporales species and exhibit free-radical scavenging properties in DPPH and ABTS assays.
 
@@ -82,9 +82,9 @@ The genome of T. hispida has been partially sequenced, revealing an expanded rep
 
 As a white-rot decomposer, T. hispida is a primary agent of lignin degradation in its forest habitats. Its ability to decompose recalcitrant lignin makes it a key contributor to carbon cycling in temperate woodland ecosystems.
 
-The species frequently co-occurs with other wood-inhabiting fungi including Trametes versicolor, Bjerkandera adusta, and Stereum hirsutum on the same substrate. Successional patterns suggest T. hispida is an early-to-middle colonizer of freshly fallen hardwood.
+The species frequently co-occurs with other wood-inhabiting fungi including [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]], Bjerkandera adusta, and Stereum hirsutum on the same substrate. Successional patterns suggest T. hispida is an early-to-middle colonizer of freshly fallen hardwood.
 
-Laboratory studies have demonstrated that T. hispida can degrade polycyclic aromatic hydrocarbons (PAHs) and synthetic dyes. This highlights its potential for mycoremediation of contaminated soils and wastewater treatment.
+Laboratory studies have demonstrated that T. hispida can degrade [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs) and synthetic dyes. This highlights its potential for mycoremediation of contaminated soils and [[mollison-designers-wastewater-treatment-wetlands]].
 
 Its enzyme systems also contribute to the delignification of woody debris, facilitating subsequent colonization by cellulolytic and humus-forming microorganisms. This positions T. hispida as an important facilitator of broader decomposer community succession.
 
@@ -94,7 +94,7 @@ Studies using molecular barcoding have revealed that T. hispida harbors a divers
 
 ## Cultivation
 
-T. hispida is not commercially cultivated for food or medicine. However, it has been grown in laboratory settings for enzyme production using submerged fermentation on various lignocellulosic substrates.
+T. hispida is not commercially cultivated for food or medicine. However, it has been grown in laboratory settings for enzyme production using [[cancer-medicinal-mushrooms-submerged-fermentation-production]] on various lignocellulosic substrates.
 
 Optimal laccase production occurs at pH 4.5–5.5 and temperatures of 25–28 °C. Supplementation with aromatic inducers such as guaiacol or veratryl alcohol significantly boosts enzyme yields. Wheat straw and oak sawdust serve as effective basal substrates.
 

@@ -1,5 +1,5 @@
 ---
-title: "How to Grow Sugarcane at Home"
+title: "How to query how to grow sugarcane at home at Home"
 tags:
   - query
   - sugarcane
@@ -16,15 +16,15 @@ sources:
   - https://www.sare.org/publications/building-soils-for-better-crops/
 type: query
 ---
-# How query what are the best mushrooms for beginners to grow Sugarcane query how do you grow and process tea at home
+# How [[query-what-are-the-best-mushrooms-for-beginners-to-grow]] Sugarcane [[query-how-do-you-grow-and-process-tea-at-home]]
 
 ## Short Answer
 
-Sugarcane is a tall perennial grass that thrives in warm, humid climates (USDA zones 9–11) but can be grown in containers in cooler zones with proper overwintering. Plant healthy cane setts (stem sections with 2–3 nodes) horizontally in rich, well-draining soil after all frost danger has passed. Provide full sun, consistent moisture, and regular organic fertilizer. Stalks mature in 12–18 months. Harvest by cutting stalks at ground level, then use the top portions as setts for next season. See sugarcane cultivation and uses for deeper background.
+Sugarcane is a tall [[savory-perennial-grass-and-desertification]] that thrives in warm, humid climates (USDA zones 9–11) but can be grown in containers in cooler zones with proper overwintering. Plant healthy cane setts (stem sections with 2–3 nodes) horizontally in rich, well-draining soil after all frost danger has passed. Provide full sun, consistent moisture, and regular [[complete-organic-fertilizer-cof-recipe-solomon]]. Stalks mature in 12–18 months. Harvest by cutting stalks at ground level, then use the top portions as setts for next season. See sugarcane cultivation and uses for deeper background.
 
 ## Climate Requirements
 
-Sugarcane needs a long, warm growing season with temperatures consistently above 50°F (10°C) and ideally between 70–95°F (21–35°C). It is hardy in USDA zones 9–11:
+Sugarcane needs a long, warm [[savory-growing-season-and-non-growing-season-management]] with temperatures consistently above 50°F (10°C) and ideally between 70–95°F (21–35°C). It is hardy in USDA zones 9–11:
 
 - **Zone 9:** Can be grown in-ground with mulch protection during brief cold snaps.
 - **Zone 10–11:** Ideal — plant directly in the ground year-round.
@@ -68,7 +68,7 @@ Sugarcane is a heavy feeder. Prepare a planting bed with:
 4. Water thoroughly after planting and keep soil consistently moist.
 
 For more on soil fertility, see [[neem]] oil or insecticidal soap.
-- **Rust (fungal):** Orange pustules on leaves. Improve air circulation and remove affected foliage.
+- **Rust (fungal):** Orange pustules on leaves. Improve [[stamets-growing-room-air-circulation-co2-management]] and remove affected foliage.
 - **Root rot:** Caused by waterlogged soil. Ensure excellent drainage.
 
 ## Extracting Juice at Home
@@ -86,9 +86,9 @@ Save the top 2–3 feet of harvested stalks. Cut into setts with 2–3 nodes eac
 
 Sugarcane benefits from a polyculture approach. Good companions include:
 
-- **Beans (especially cowpeas):** Fix nitrogen for the heavy-feeding cane.
+- **Beans (especially cowpeas):** [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] for the heavy-feeding cane.
 - **Sweet potato:** Grows as a ground cover, suppressing weeds and reducing soil erosion.
-- **[[turmeric]] or ginger:** Share similar soil and moisture needs in tropical beds.
+- **turmeric or ginger:** Share similar soil and moisture needs in tropical beds.
 
 See [[mollison-designers-companion-planting-charts-and-principles]] for detailed polyculture designs.
 

@@ -19,9 +19,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Kibby, G. (2016). "Boletes of North America: A Compendium." CreateSpace.
+  - Kibby, G. (2016). "Boletes of psilocybin-north-america-pacific-northwest: A Compendium." CreateSpace.
   - Watling, R. (2010). "Boletes and their allies." Field Mycology.
-  - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "North American Boletes." Syracuse University Press.
+  - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "[[growing-gourmet-north-american-reishi-species]] Boletes." Syracuse University Press.
   - Assyov, B. & Denchev, C.M. (2023). "Checklist of the Boletes of Europe." MycoKeys.
   - Arora, D. (1986). "Mushrooms Demystified." Ten Speed Press.
 ---
@@ -32,7 +32,7 @@ sources:
 bolete**, is a highly prized edible pored mushroom in the Boletaceae,
 closely related to the porcini (*B. edulis*). Native to southern Europe
 and the Mediterranean basin, it is one of the most commercially valuable
-wild mushrooms in Italy, France, and Spain, where it is gathered for
+[[edible-wild-mushrooms-by-region]] in Italy, France, and Spain, where it is gathered for
 both fresh market and processing into dried products.
 
 The species is distinguished by its dark brown to almost black cap, white
@@ -76,7 +76,7 @@ especially at the apex. Solid, firm.
 **Flesh:** White, firm, unchanging when exposed. Odor pleasant, nutty.
 Taste mild, slightly sweet.
 
-**Spore print:** Olivaceous-brown.
+**[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Olivaceous-brown.
 
 **Spores:** 12–17 × 4.5–6 µm, smooth, elliptical-fusiform, inamyloid.
 
@@ -84,7 +84,7 @@ Taste mild, slightly sweet.
 
 B. aereus is primarily a Mediterranean species, found across southern
 France, Italy, Spain, Portugal, Greece, Turkey, and North Africa. It
-also occurs in the Caucasus, and has been reported from Central America
+also occurs in the Caucasus, and has been reported from [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]
 and Asia under oak.
 
 The species forms ectomycorrhizal associations with broadleaf trees,

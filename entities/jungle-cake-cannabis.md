@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly Staff (2023). "Jungle Cake Cannabis Strain Information." Leafly.
+  - Leafly Staff (2023). "Jungle Cake blesching-cannabis-strain-selection-receptor-targeting Information." Leafly.
   - AllBud (2023). "Jungle Cake Strain Review." AllBud.
   - Seedsman (2022). "Jungle Cake Feminized Seeds." Seedsman Ltd.
   - Weedmaps (2023). "Jungle Cake Strain." Weedmaps.
@@ -43,7 +43,7 @@ notes, and increased trichome production. The genetic ratio is approximately
 ## Appearance
 
 Jungle Cake produces medium to large, densely packed flowers with a conical
-to chunky structure. The buds are a vibrant forest green with occasional
+to chunky structure. The buds are a vibrant [[trichoderma-forest-green-mold-guide]] with occasional
 deep purple undertones, especially when exposed to cooler nighttime temperatures
 during late flowering.
 
@@ -87,9 +87,9 @@ experience is cerebral — euphoric and slightly focused — before transitionin
 into a deeply relaxing body stone. Most users report a balanced experience
 suitable for late afternoon or evening use.
 
-Common therapeutic applications include stress relief, mild pain management,
+Common therapeutic applications include stress relief, mild [[cannabis-pain-management-protocols]],
 appetite stimulation, and insomnia. The strain is popular among medical
-cannabis patients dealing with chronic pain and anxiety, though high THC
+cannabis patients dealing with [[cannabis-chronic-pain-management]] and anxiety, though high THC
 content may provoke anxiety in sensitive individuals.
 
 Cultivation difficulty is rated as moderate. Flowering time is 8–9 weeks
@@ -102,7 +102,7 @@ common pests but can be sensitive to high humidity during late flowering.
 
 Several notable phenotypes and cuts have circulated among cultivators since
 the strain's release. The most sought-after is the "Jungle Cake #22" cut,
-selected for its exceptional resin production and fuel-forward aroma.
+selected for its exceptional [[cannabis-glandular-trichome-types-resin-production-clarke]] and fuel-forward aroma.
 
 Cross-breeding derivatives include Jungle Cake × (various Runtz selections),
 producing strains like Jungle Runtz that combine Jungle Cake's potency with

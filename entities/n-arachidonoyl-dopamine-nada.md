@@ -12,7 +12,7 @@ type: entity
 
 **Type:** Chemical Compound (Endocannabinoid)
 **Category:** Endogenous Cannabinoid / Endovanilloid
-**Also known as:** NADA, arachidonoyl dopamine
+**Also known as:** NADA, n arachidonoyl dopamine nada
 
 ## Overview
 N-Arachidonoyl-dopamine (NADA) is one of five identified endogenous
@@ -49,7 +49,7 @@ receptor agonist, making it a dual-function signaling molecule.
   actually more potent than its CB1 activity
 - **Dual signaling:** The ability to activate both CB1 and TRPV1
   receptors positions NADA at the intersection of cannabinoid and
-  vanilloid signaling pathways
+  vanilloid [[plant-signaling-pathways]]
 
 ### Physiological Functions
 - **Pain modulation:** Through both CB1 and TRPV1 receptor
@@ -62,7 +62,7 @@ receptor agonist, making it a dual-function signaling molecule.
   cannabinoid and vanilloid receptor-mediated pathways
 - **Inflammation:** TRPV1-mediated effects of NADA may contribute
   to the regulation of inflammatory responses in peripheral tissues
-- **Body temperature regulation:** Via TRPV1 receptor activation,
+- **Body [[blesching-cannabis-fever-temperature-regulation]]:** Via TRPV1 receptor activation,
   NADA may participate in thermoregulatory processes
 - **Neurotransmitter interaction:** The dopamine moiety of NADA
   suggests potential interactions with dopaminergic signaling
@@ -83,7 +83,7 @@ the endocannabinoid system and the dopaminergic and vanilloid
 neurotransmitter systems. Its dual-receptor pharmacology (CB1 + TRPV1)
 makes it relevant to understanding pain processing, neuroinflammation,
 and neuroprotection. For cannabis therapeutics, NADA's existence
-suggests that some of cannabis's therapeutic effects may involve
+suggests that some of cannabis's [[cervantes-terpenoid-pharmacology-therapeutic-effects]] may involve
 modulation of multiple receptor systems beyond just CB1 and CB2,
 including the TRPV1 pathway.
 

@@ -1,5 +1,5 @@
 ---
-title: Compost Tea Brewing
+title: Compost compost-tea-brewing-equipment-ingham
 created: 2026-04-28
 tags:
   - compost-tea
@@ -17,16 +17,16 @@ type: concept
 # Compost Tea Brewing
 
 Compost tea is a liquid extract of compost that is actively brewed to multiply
-beneficial microorganisms. In "Teaming With Microbes," [[fungal-soil-food-web]]
+beneficial microorganisms. In "Teaming With Microbes," fungal-soil-food-web
 provides the ecological context for how these organisms interact once applied.
 
 ## Actively Aerated Compost Tea (AACT)
 
 The distinction between actively aerated compost tea and anaerobic compost tea
-is critical. AACT uses continuous aeration to maintain dissolved oxygen levels
+is critical. AACT uses continuous aeration to maintain [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] levels
 above 6 parts per million, ensuring that aerobic microorganisms dominate the
 brew. Anaerobic teas, in contrast, can produce compounds toxic to plants and
-beneficial organisms. AACT produces a microbial community that mirrors the
+beneficial organisms. AACT produces a [[edaphic-factors-microbial-community-structure]] that mirrors the
 biology found in healthy compost, but at concentrations many times higher per
 unit volume.
 
@@ -50,12 +50,12 @@ A basic AACT setup requires several components:
   compost must be biologically active and free of pathogens. Compost from
   diverse feedstocks provides the broadest microbial inoculum.
 - **Food sources:** To fuel microbial reproduction during the brew. Common
-  food sources include unsulfured molasses (feeds bacteria), fish hydrolysate
+  food sources include unsulfured molasses (feeds bacteria), [[comparison-fish-hydrolysate-vs-fish-emulsion]]
   (feeds both bacteria and fungi), kelp meal (provides micronutrients and
   microbial stimulants), and humic acids. See [[teaming-with-microbes-bacterial-vs-fungal-dominance]].
 - **Fungal-dominant tea:** Includes fish hydrolysate, kelp, and small amounts
   of humic acid, with minimal simple sugars. Suitable for perennials, trees,
-  and soils needing more fungal biomass for
+  and soils needing more [[bioremediation-fungal-biomass-biosorbent-material]] for
   [[teaming-with-microbes-bacteria-and-archaea-in-soil]].
 
 ## Disease Suppression Mechanisms
@@ -68,7 +68,7 @@ Compost tea suppresses plant diseases through several mechanisms:
   antimicrobial compounds that inhibit pathogen growth.
 - **Predation:** Protozoa and nematodes in compost tea consume pathogenic
   bacteria and fungal spores.
-- **Induced systemic resistance:** Exposure to beneficial microbes primes
+- **[[endophytic-mycorrhizal-induced-systemic-resistance]] resistance:** Exposure to beneficial microbes primes
   the plant's immune system, making it more resistant to subsequent pathogen
   attack.
 - **Enzyme activity:** Microbial enzymes in tea can degrade pathogen

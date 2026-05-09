@@ -15,25 +15,25 @@ present it as a valuable complement to traditional
 kill the worms. The worms and the bacteria inside their digestive systems do the
 work of breaking down materials. Special earthworms, typically red wigglers
 (*Eisenia fetida*), are kept in simple wooden or plastic bins where they process
-organic waste into castings. The process is slower than hot composting but
+organic waste into castings. The process is slower than [[comparison-bokashi-vs-hot-composting-method]] but
 requires less space and physical effort.
 
 ## Feedstocks for Vermicomposting
 
 Good starting materials for vermicompost include food wastes (excluding fats and
-meats), paper, cardboard, leaves, and green grass clippings. The same materials
-used for a normal compost pile work, with some precautions. Weedy materials
+meats), paper, cardboard, leaves, and [[knf-green-grass-liquid-fertilizer]] clippings. The same materials
+used for a normal [[mushroom-cultivator-compost-pile-management]] work, with some precautions. Weedy materials
 should be thermally composted first before adding to the worm bin to prevent
 unwanted seedlings. Brown materials need to be shredded or broken up so worms
 can ingest them more quickly.  Placing bins outdoors encourages microarthropod
-and insect activity that helps physically break down matter for the worms. A
-diverse mix of feedstocks supports a more diverse microbial community in the
+and insect activity that helps physically [[query-can-fungi-break-down-plastic-pollution]] matter for the worms. A
+diverse mix of feedstocks supports a more diverse [[edaphic-factors-microbial-community-structure]] in the
 finished product.
 
 ## Vermicastings: Nutrient Profile
 
 The castings produced by vermicomposting are extraordinary soil amendments. They
-are 50 percent higher in organic matter than unprocessed soil, which
+are 50 percent higher in [[hamilton-composting-and-organic-matter-management]] than unprocessed soil, which
 dramatically increases [[lowenfels-bacterial-fungal-dominance]], making
 vermicompost an excellent amendment for these plantings. It can be applied as a
 top dressing, mixed into planting holes, or used as an ingredient in

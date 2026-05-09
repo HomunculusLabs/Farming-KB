@@ -1,11 +1,11 @@
 ---
-title: Cannabis Phenotypes and Genetic Expression
+title: oner cannabis phenotypes genetic expression and Genetic Expression
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
 tags: [cannabis, genetics, phenotypes, breeding]
 sources:
-  - "S.T. Oner - Cannabis Sativa Volume 3: The Essential Guide"
+  - "S.T. Oner - comparison-cannabis-sativa-vs-cannabis-indica Volume 3: The Essential Guide"
 ---
 
 # Cannabis Phenotypes and Genetic Expression
@@ -24,7 +24,7 @@ can produce plants that differ significantly in:
 - Growth structure (height, branching pattern, leaf shape)
 - Flowering time
 - Bud density, size, and color
-- Resin production
+- [[cannabis-glandular-trichome-types-resin-production-clarke]]
 - Aroma and flavor profile
 - Potency and cannabinoid ratios
 - Resistance to pests and disease
@@ -92,7 +92,7 @@ Oner repeatedly notes that growing conditions affect how genetics express:
   produce more bud under intense lighting
 - **Growing medium**: Organic soil grows are recommended for sativas to bring out the
   best flavors, as sativas are "wild-ish and highly adaptable plants" that "don't
-  really like being force fed synthetic nutrients"
+  really like being force fed [[query-organic-vs-synthetic-nutrients-cannabis]]"
 - **Training**: [[cannabis-phenotype-selection]]
 - [[oner-cannabis-terpene-profiles-effects]]
 - [[cannabis-backcrossing]]

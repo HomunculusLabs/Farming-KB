@@ -1,5 +1,5 @@
 ---
-title: Marine Fungal Diversity and Ecology
+title: Marine arbuscular-mycorrhizal-fungal-diversity-patterns-distribution and Ecology
 created: 2026-04-28
 tags:
   - mycology
@@ -17,17 +17,17 @@ type: concept
 # Marine Fungal Diversity and Ecology
 
 Marine fungi represent one of the most poorly documented components of global
-fungal biodiversity. The oceans cover more than 70 percent of Earth's surface,
+[[biodiversity-fungal-biodiversity-estimation-methods]]. The oceans cover more than 70 percent of Earth's surface,
 yet fewer than 2,000 marine fungal species have been formally described,
 representing a tiny fraction of the estimated diversity in marine environments.
-Recent environmental DNA surveys have revealed that marine habitats harbor
-extensive fungal communities dominated by lineages that are largely absent from
+Recent [[fungal-dark-taxa-environmental-dna-sequencing]] surveys have revealed that marine habitats harbor
+extensive [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] dominated by lineages that are largely absent from
 terrestrial ecosystems, suggesting that the marine fungal biosphere constitutes a
 vast reservoir of [[biodiversity-ascomycete-diversity-taxonomy]] species that can
 tolerate saline conditions, while later successional stages are dominated by
 obligate marine fungi adapted to permanent submersion. These lignicolous marine
-fungi play critical roles in marine carbon cycling by decomposing woody debris
-that would otherwise persist indefinitely in marine sediments. The [[biodiversity-fungi-leaf-litter-decomposition]]
+fungi play critical roles in marine carbon cycling by decomposing [[fungal-succession-woody-debris-ecology]]
+that would otherwise persist indefinitely in marine sediments. The biodiversity-fungi-leaf-litter-decomposition
 pathway in mangroves is heavily mediated by fungi, which process enormous
 quantities of tannin-rich mangrove foliage. Molecular surveys of mangrove
 sediments have revealed additional fungal diversity in the rhizosphere and
@@ -50,13 +50,13 @@ metabolic activities and ecological roles remain almost entirely unknown.
 
 Fungi associated with coral reefs represent a growing area of research interest.
 Endolithic fungi bore into coral skeletons, contributing to bioerosion and
-reef structure modification. The [[biodiversity-fungi-molecular-methods]] and reference databases is urgently needed to address the massive knowledge gap in marine mycology.
+reef structure modification. The biodiversity-fungi-molecular-methods and reference databases is urgently needed to address the massive knowledge gap in marine mycology.
 
 ## See Also
 
-- [[biodiversity-fungi-aquatic-environments]]
+- biodiversity-fungi-aquatic-environments
 - [[fungal-dark-taxa-environmental-dna-sequencing]]
-- [[biodiversity-fungi-wood-decay-succession]]
+- biodiversity-fungi-wood-decay-succession
 ## Practical Considerations
 
 When working with Marine Fungal Diversity and Ecology, several practical factors should be
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,6 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+- [[marine-fungal-diversity]]
+- [[decomposition]]
+- [[fungal-biodiversity]]

@@ -1,5 +1,5 @@
 ---
-title: Cannabis Nutrient Deficiency Guide
+title: Cannabis cannabis-grow-nutrient-deficiency-problem-solving Guide
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -12,7 +12,7 @@ tags: [cannabis, nutrients]
 
 ## Overview
 
-Nutrient deficiencies in cannabis are a common challenge for growers. Understanding the difference between mobile and immobile nutrients is the first step to accurate diagnosis. This guide covers the identification, progression, and treatment of all major nutrient deficiencies based on research from Cervantes' Marijuana Horticulture and the scientific team at Canna Coco.
+[[hamilton-nutrient-deficiencies-and-treatment]] in cannabis are a common challenge for growers. Understanding the difference between mobile and immobile nutrients is the first step to accurate diagnosis. This guide covers the identification, progression, and treatment of all major nutrient deficiencies based on research from Cervantes' Marijuana Horticulture and the scientific team at Canna Coco.
 
 ## Mobile vs. Immobile Nutrients
 
@@ -106,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

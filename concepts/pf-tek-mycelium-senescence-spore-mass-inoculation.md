@@ -8,7 +8,7 @@ tags: [pf-tek, mycelium, senescence, spore-mass, inoculation, genetics, cloning,
 
 ## Overview
 
-A critical biological concept in mushroom cultivation is the distinction between mycelium propagated through **cloning** (vegetative reproduction) and mycelium derived from **spore mass inoculation** (sexual reproduction). The PF TEK methodology explicitly favors spore mass inoculation as a strategy to avoid the degenerative effects of mycelial senescence, which progressively reduces vigor, yield, and fruiting capacity with each successive generational clone.
+A critical biological concept in [[accessible-mushroom-cultivation-for-disabilities]] is the distinction between mycelium propagated through **cloning** (vegetative reproduction) and mycelium derived from **spore mass inoculation** ([[fungal-life-cycles-sexual-reproduction-metamorphosis]]). The PF TEK methodology explicitly favors spore mass inoculation as a strategy to avoid the degenerative effects of mycelial senescence, which progressively reduces vigor, yield, and fruiting capacity with each successive generational clone.
 
 ## What Is Mycelial Senescence?
 
@@ -27,7 +27,7 @@ The practical consequence is that mycelium becomes progressively slower to colon
 
 ### Timeline of Senescence
 
-The rate at which senescence manifests depends on the species, strain, and cultivation conditions, but for Psilocybe cubensis cultivated using standard methods:
+The rate at which senescence manifests depends on the species, strain, and cultivation conditions, but for [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] cultivated using standard methods:
 
 - **Early generations (1–3 transfers)**: Full vigor, rapid colonization, robust fruiting
 - **Mid-range generations (4–8 transfers)**: Noticeable slowdown in colonization speed, slight reduction in yield
@@ -44,9 +44,9 @@ Each cloning event represents one additional "generation" of vegetative propagat
 
 ### Spore Mass Inoculation (Sexual Reproduction)
 
-Spore mass inoculation, as practiced in the PF TEK, involves collecting spores from a mature mushroom cap, creating a spore syringe from millions of spores, and using that syringe to inoculate fresh substrate. Because mushroom spores are produced through **meiosis** — a sexual reproduction process — each spore represents a genetically unique individual.
+Spore mass inoculation, as practiced in the PF TEK, involves collecting spores from a mature mushroom cap, creating a spore syringe from millions of spores, and using that syringe to inoculate fresh substrate. Because [[query-how-to-store-mushroom-spores-long-term]] are produced through **meiosis** — a sexual reproduction process — each spore represents a genetically unique individual.
 
-When a spore mass (containing millions of genetically distinct spores) is injected into a substrate jar, multiple spores germinate and their mycelial threads fuse (a process called **anastomosis**), creating a new, genetically diverse mycelial network. This genetic recombination effectively "resets" the senescence clock.
+When a spore mass (containing millions of genetically distinct spores) is injected into a substrate jar, multiple spores germinate and their mycelial threads fuse (a process called **anastomosis**), creating a new, genetically diverse [[gadd-mycelial-network-dynamics]]. This genetic recombination effectively "resets" the senescence clock.
 
 ## Why the PF TEK Prefers Spore Mass Inoculation
 
@@ -57,7 +57,7 @@ The PF TEK's emphasis on spore mass inoculation is one of its defining character
 3. **Contamination resistance**: Young, vigorous mycelium from spores outcompetes contaminants more effectively than aged, senescent mycelium
 4. **Genetic diversity**: Spore mass inoculation introduces genetic variation that can produce unexpected and sometimes superior fruiting characteristics
 
-The PF TEK documentation notes that spore germination is "massive and quick when the spores are fresh," emphasizing the importance of using fresh spore prints or syringes for optimal results.
+The PF TEK documentation notes that [[growing-gourmet-spore-germination-strain-isolation]] is "massive and quick when the spores are fresh," emphasizing the importance of using fresh spore prints or syringes for optimal results.
 
 ## Spore Degradation Over Time
 
@@ -113,4 +113,7 @@ Cultivators face a fundamental tension between consistency and longevity. Clonin
 
 - [[pf-tek-perlite-humidification-technique]]
 - [[mckenna-abandonment-of-mystery-four-stages]]
-- [[emcdda-hallucinogenic-mushroom-dose-effects-acute-pharmacology]]
+- emcdda-hallucinogenic-mushroom-dose-effects-acute-pharmacology
+- [[tissue-culture-cloning]]
+- [[spore-syringe]]
+- [[mushroom-cultivation]]

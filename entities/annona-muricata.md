@@ -20,7 +20,7 @@ created: 2026-04-28
 
 ## Overview
 
-**Annona muricata** L., commonly known as soursop, graviola, guanábana, or sirsak, is a tropical fruit tree in the family Annonaceae.
+**Annona muricata** L., commonly known as soursop, graviola, guanábana, or sirsak, is a tropical [[comparison-berry-growing-vs-fruit-tree-pruning]] in the family Annonaceae.
 
 It is native to the tropical regions of the Americas and the Caribbean but is now cultivated pantropically for its edible fruit and medicinal properties.
 
@@ -53,7 +53,7 @@ The skin is green, covered with soft, curved spines. The white, fibrous pulp has
 
 ## Distribution and Cultivation
 
-The species is native to the Caribbean, Central America, and northern South America. It is now widely naturalized and cultivated throughout the tropics.
+The species is native to the Caribbean, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], and northern South America. It is now widely naturalized and cultivated throughout the tropics.
 
 Major producing countries include Brazil, Mexico, Peru, the Philippines, Indonesia, Vietnam, and several West African nations.
 
@@ -91,13 +91,13 @@ The fruit pulp is eaten for its antipyretic and digestive properties. Crushed se
 
 ### Anticancer Research
 
-Acetogenins from *A. muricata* have demonstrated selective cytotoxicity against multiple cancer cell lines in vitro, including breast, prostate, pancreatic, and colon cancer cells.
+Acetogenins from *A. muricata* have demonstrated selective cytotoxicity against multiple cancer cell lines in vitro, including breast, prostate, pancreatic, and [[cannabis-and-colon-cancer-research]] cells.
 
 Annonacin, the most studied compound, shows IC50 values in the low micromolar to nanomolar range against various tumor lines.
 
 These effects are attributed to inhibition of mitochondrial complex I and induction of apoptosis through the intrinsic pathway.
 
-**Important caveat:** Despite promising in vitro data, no clinical trials have demonstrated efficacy of *A. muricata* extracts against cancer in humans. The consumption of soursop products as cancer treatment is not evidence-based.
+**Important caveat:** Despite promising in vitro data, no [[mushroom-cancer-clinical-trials-overview]] have demonstrated efficacy of *A. muricata* extracts against cancer in humans. The consumption of soursop products as cancer treatment is not evidence-based.
 
 ### Neurotoxicity Concerns
 
@@ -117,7 +117,9 @@ Soursop nectar and juice are commercially produced in many tropical countries. T
 
 ## See Also
 
-- [[acacia-confusa]]
+- [[annona-squamosa]]
+
+- acacia-confusa
 - [[moringa-oleifera]]
 - [[camellia-sinensis-entity]]
 - [[eschscholzia-californica]]

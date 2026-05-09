@@ -52,7 +52,7 @@ translucent skin.
 
 Red currant is native to Belgium, France, Germany, the Netherlands, and
 northern Italy. It has been widely naturalized across temperate Europe
-and introduced to North America, New Zealand, and parts of Asia.
+and introduced to [[psilocybin-north-america-pacific-northwest]], New Zealand, and parts of Asia.
 
 The species prefers cool, moist climates and is hardy to USDA zones
 3–7. It grows naturally in woodland margins, stream banks, and rocky
@@ -66,7 +66,7 @@ sun. Optimal soil pH ranges from 5.5 to 7.0.
 Red currant propagation is primarily through hardwood cuttings taken in
 late autumn or early winter. Softwood cuttings and layering are also
 practiced. Certified virus-free planting material is essential, as
-Ribes species are susceptible to several viral diseases.
+Ribes species are susceptible to several [[cervantes-viral-diseases-cannabis]].
 
 Bushes are typically planted 1.2–1.5 m apart in rows. Pruning focuses
 on removing older wood to maintain productive young shoots. Fruiting
@@ -91,7 +91,7 @@ The berries contain high levels of anthocyanins, primarily cyanidin
 3-glucoside and cyanidin 3-rutinoside. These compounds contribute to
 the red pigmentation and have documented antioxidant properties.
 
-Organic acid content is dominated by citric acid (approximately 2% of
+[[fungal-organic-acid-metal-solubilization]] content is dominated by citric acid (approximately 2% of
 fresh weight), which gives the berries their characteristic tartness.
 Ascorbic acid, malic acid, and trace amounts of quinic acid are also
 present.
@@ -103,7 +103,7 @@ content ranges from 200–400 mg per 100 g fresh weight.
 ## Culinary Use
 
 Red currants are primarily used in processed products due to their tart
-flavor. Jelly is the most traditional preparation, valued for its clear,
+flavor. Jelly is the most [[kava-traditional-preparation-ceremonial-context]], valued for its clear,
 bright-red color and balanced sweetness.
 
 The berries are also used in tarts, pies, and summer puddings. In
@@ -120,6 +120,8 @@ berries also freeze well, retaining their texture and flavor for up to 12
 months.
 
 ## See Also
+
+- [[embelia-ribes]]
 
 - [[vaccinium-myrtillus]]
 - [[vaccinium-corymbosum-entity]]

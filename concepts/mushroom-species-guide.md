@@ -18,7 +18,8 @@ tags:
 - lighting
 
 sources:
-- raw/papers/the-mushroom-cultivator-stamets.md
+sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 - raw/papers/unknown-oyster-mushroom-cultivation.md
 - raw/papers/unknown-mycelium-running.md
@@ -27,7 +28,7 @@ sources:
 
 # Mushroom Species Guide
 
-A practical reference for the most accessible edible and medicinal mushrooms for home cultivation. Parameters drawn from Stamets, Oei, and grower sources. This page covers the five core species most suitable for home growers. For additional specialty species (agarikon, enokitake, pioppino, shaggy mane, and others), see [[specialty-mushroom-species]].
+A practical reference for the most accessible edible and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] for home cultivation. Parameters drawn from Stamets, Oei, and grower sources. This page covers the five core species most suitable for home growers. For additional specialty species (agarikon, enokitake, pioppino, shaggy mane, and others), see [[specialty-mushroom-species]].
 
 Related: [[mushroom-cultivation-basics]], [[mushroom-substrates]], [[medicinal-mushroom-guide]]
 
@@ -36,13 +37,13 @@ Related: [[mushroom-cultivation-basics]], [[mushroom-substrates]], [[medicinal-m
 | Parameter | Value |
 |-----------|-------|
 | **Difficulty** | Beginner — easiest species to grow |
-| **Substrate** | Pasteurized wheat straw, hardwood sawdust, paper waste, coffee grounds, cotton waste, corncobs |
+| **Substrate** | Pasteurized wheat straw, hardwood sawdust, paper waste, [[oyster-mushroom-coffee-grounds-cultivation]], cotton waste, corncobs |
 | **Fruiting temp** | 55-75F (12-24C); optimum 60-68F |
 | **Humidity** | 85-95% RH |
 | **Light** | Indirect natural or fluorescent 12h/day |
 | **CO2** | < 1000 ppm for fruiting |
 | **Time to fruit** | 14-21 days from inoculation on straw |
-| **Yield** | Biological efficiency 50-100% on straw |
+| **Yield** | [[stamets-biological-efficiency-yield]] 50-100% on straw |
 | **Flushes** | 3-5 flushes, 7-10 day intervals |
 
 Oysters are classic saprophytes and the most forgiving species. They grow on an enormous range of cellulose-rich substrates. Multiple varieties available: blue (P. ostreatus var. columbinus), golden (P. citrinopileatus), pink (P. djamor), king (P. eryngii). Pasteurize straw at 160F for 20-30 minutes. No casing required.
@@ -54,7 +55,7 @@ Oysters are classic saprophytes and the most forgiving species. They grow on an 
 | Parameter | Value |
 |-----------|-------|
 | **Difficulty** | Intermediate |
-| **Substrate** | Oak or alder logs (traditional); supplemented sawdust blocks (4:1 sawdust:bran + 0.2% CaCO3) |
+| **Substrate** | Oak or alder logs (traditional); [[oyster-mushroom-supplemented-sawdust-blocks]] blocks (4:1 sawdust:bran + 0.2% CaCO3) |
 | **Fruiting temp** | 59-68F (15-20C) |
 | **Humidity** | 85-90% RH |
 | **Light** | Ambient natural or 10 lux at 370-420nm; 550 lux optimal for yield |
@@ -126,21 +127,7 @@ Large, thick-fleshed mushroom with dark reddish-brown cap (50-400mm diameter). S
 Understanding a species' ecological role helps match it to the right substrate and growing method:
 - **Primary decomposers**: First to colonize fresh wood, straw, grass. Fast-growing, produce ropey mycelium. Examples: Oyster (Pleurotus), Shiitake (Lentinula), King Stropharia (Stropharia). Best for fresh substrates.
 - **Secondary decomposers**: Colonize after other fungi/bacteria have partially broken down substrate. Grow from composted material. Example: Button mushroom (Agaricus brunnescens).
-- **Tertiary decomposers**: Soil dwellers in habitats years in the making. Often difficult to cultivate. Examples: Aleuria aurantia, Panaeolus subbalteatus (grows on discarded button mushroom compost).
-
-Temperature-tolerant varieties are more forgiving for beginners. In warmer climates, moisture is rapidly lost, narrowing the growing window. Mushrooms grow most prolifically where shade and dappled sunlight combine, not in the darkest depths of woodlands.
-
-## Suitable Tree Species for Log and Sawdust Cultivation (Stamets)
-
-Recommended hardwoods: alders, birches, hornbeans, chestnuts, beeches, ashes, larches, sweetgums, tanoaks, cottonwoods, willows, ironwoods, walnuts, elms, maples. Suggested softwoods: Douglas firs and hemlocks.
-
-Avoid: most pines (ponderosa, lodgepole), cedars, redwood (anti-rotting compounds stifle mycelium), aromatic hardwoods like eucalyptus. Red alder is a favored "weed tree" — fast-decomposing with high sapwood:heartwood ratio, encouraging rapid colonization.
-
-## Decomposition Succession Concept (Stamets)
-
-Multiple mushroom species can be grown sequentially on the same substrate. Once one species has exhausted its preferred compounds, a different species with complementary enzymes can further reduce the substrate mass. The remaining material that does not evolve into gases becomes humus — this is how nature builds soil. A simple 50:50 mixture (by volume) of sawdust and wood chips of varying particle sizes provides the best structure: smaller particles stimulate quick "leap-off" growth; larger chips become nutritional bases and fruiting platforms, enabling super-large specimens.
-
-**Heavy metal warning**: Avoid wood chips from trees along busy roadways — automobile exhaust contaminates surrounding soil with lead and aluminum, which mushrooms can concentrate. Source wood from larger-diameter trees at sawmills. Test mushrooms if growing near industrial areas ($50-125 per analysis).
+- **Tertiary decomposers**: Soil dwellers in habitats years in the making. Often difficult to cultivate. Examples: Aleuria aurantia, [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]] (grows on discarded button [[staycare-spent-mushroom-compost-bioremediation]]).
 
 ## See Also
 

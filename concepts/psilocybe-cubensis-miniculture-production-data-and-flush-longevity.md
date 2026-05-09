@@ -1,5 +1,5 @@
 ---
-title: Psilocybe Cubensis Miniculture Production Data and Flush Longevity
+title: Psilocybe Cubensis rye-grain-miniculture-production-parameters Data and Flush Longevity
 source: variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
 tags: [psilocybe-cubensis, cultivation, miniculture, flush, yield, rye-grain, fruiting]
 created: 2026-05-08
@@ -19,7 +19,7 @@ The miniculture system used wide-mouth half-pint jars (~250 ml) as the cultivati
 
 ### Inoculation and Colonization
 
-Under sterile conditions, each jar was inoculated with mycelium culture grown on agar. The strain used in the study originated from a spore print collected in the Amazon basin near Pucallpa, Peru (the same region where R. Stuart would later observe ayahuasca tourism). The spore print was documented by Repke et al. (1977).
+Under sterile conditions, each jar was inoculated with mycelium culture grown on agar. The strain used in the study originated from a spore print collected in the Amazon basin near Pucallpa, Peru (the same region where R. Stuart would later observe [[stuart-r-ayahuasca-tourism-cautionary-ethnography]]). The spore print was documented by Repke et al. (1977).
 
 During the colonization phase, the jars were shaken every four days over a 28-day period to distribute the growing mycelium evenly across the rye grain. This regular agitation prevented the mycelium from colonizing only the top portion of the grain and ensured even colonization throughout the substrate.
 
@@ -34,7 +34,7 @@ The casing layer was approximately 2 cm deep. Casing serves to create a microcli
 
 ### Maintenance
 
-The minicultures were watered once every two days with 1 ml of sterile water delivered via syringe. This precise watering schedule prevented both desiccation and waterlogging, maintaining optimal moisture conditions for fruiting.
+The minicultures were watered once every two days with 1 ml of sterile water delivered via syringe. This precise [[cannabis-watering-schedule-and-frequency]] prevented both desiccation and waterlogging, maintaining optimal moisture conditions for fruiting.
 
 ## Production Timeline
 
@@ -60,7 +60,7 @@ The researchers were generally able to obtain **up to 5 flushes** before the myc
 
 ### Average Yield Per Miniculture
 
-Each miniculture yielded an average of **2.7 grams dry weight** across all flushes. Given that each jar contained only 10 grams of rye grain, this represents a biological efficiency of approximately 27% (dry mushroom weight per dry substrate weight). While this efficiency is modest compared to optimized bulk cultivation methods, it was sufficient for the research purposes of analyzing alkaloid content across flushes.
+Each miniculture yielded an average of **2.7 grams dry weight** across all flushes. Given that each jar contained only 10 grams of rye grain, this represents a [[stamets-biological-efficiency-yield]] of approximately 27% (dry mushroom weight per dry substrate weight). While this efficiency is modest compared to optimized bulk cultivation methods, it was sufficient for the research purposes of analyzing alkaloid content across flushes.
 
 ### Harvest Timing
 
@@ -74,7 +74,7 @@ Immediately after harvest, mushrooms were freeze-dried, sealed in plastic, and s
 
 ### Contamination as the Primary Limiting Factor
 
-The study noted that minicultures continued producing "at least 20 weeks provided they remained uncontaminated." This phrasing suggests that contamination, rather than substrate exhaustion or mycelium senescence, was the primary factor limiting production longevity. In a perfectly sterile environment, the cultures might have continued producing beyond the 20-week observation period.
+The study noted that minicultures continued producing "at least 20 weeks provided they remained uncontaminated." This phrasing suggests that contamination, rather than substrate exhaustion or [[pf-tek-mycelium-senescence-spore-mass-inoculation]], was the primary factor limiting production longevity. In a perfectly sterile environment, the cultures might have continued producing beyond the 20-week observation period.
 
 ### Substrate Depletion
 
@@ -96,7 +96,7 @@ The researchers noted that only one flush could be obtained from agar plates, wh
 
 ### Commercial Cultivation
 
-Modern commercial cultivation of Psilocybe cubensis typically uses bulk substrate methods (such as spawned straw, compost, or manure-based substrates) that offer significantly higher yields per unit of starter material. The miniculture method described by Bigwood and Beug is best understood as a research tool rather than a production method.
+Modern commercial [[grass-seed-cultivation-of-psilocybe-mushrooms]] cubensis typically uses bulk substrate methods (such as spawned straw, compost, or manure-based substrates) that offer significantly higher yields per unit of starter material. The miniculture method described by Bigwood and Beug is best understood as a research tool rather than a production method.
 
 ## Research Applications
 

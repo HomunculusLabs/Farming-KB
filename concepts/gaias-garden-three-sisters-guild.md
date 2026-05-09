@@ -10,7 +10,7 @@ tags: [gardening, plant-systems]
 
 # Three Sisters Guild
 
-The gaias garden three sisters guild is one of the oldest and most well-known examples of [[gaias-garden-ecology-for-gardeners]] of mutual support and interconnected plant communities. The Three Sisters demonstrates how [[gaias-garden-net-and-pan-water-harvesting]] of higher humidity and lower soil temperature that benefits all three plants. The prickly squash vines also deter raccoons and other pests from approaching the corn.
+The gaias gaias garden three sisters guild guild is one of the oldest and most well-known examples of [[gaias-garden-ecology-for-gardeners]] of mutual support and interconnected plant communities. The Three Sisters demonstrates how [[gaias-garden-net-and-pan-water-harvesting]] of higher humidity and lower soil temperature that benefits all three plants. The prickly squash vines also deter raccoons and other pests from approaching the corn.
 
 ## Yield Advantages
 
@@ -18,7 +18,7 @@ Together, the Three Sisters produce more food, with less water and fertilizer, t
 
 ## The Fourth Sister
 
-In the Southwest, a fourth "sister" is traditionally found in the guild: Rocky Mountain bee plant (Cleome serrulata). Often growing near former Anasazi settlements, it is virtually an indicator plant for ancient ruins. This 2- to 5-foot-tall, pink-flowered annual is a powerful attractant for beneficial insects that pollinate beans and squash. The young leaves, flowers, and seedpods are edible, and native people boiled and ate them or made a paste for later use. Bee plant also accumulates iron and is the source of a deep-hued paint used to create the characteristic black designs on Anasazi pottery. Songs and blessings of New Mexico's Tewa people mention corn, beans, squash, and bee plant, indicating this multifunctional flower is an integral member of a sacred plant pantheon.
+In the Southwest, a fourth "sister" is traditionally found in the guild: Rocky Mountain bee plant (Cleome serrulata). Often growing near former Anasazi settlements, it is virtually an indicator plant for ancient ruins. This 2- to 5-foot-tall, pink-flowered annual is a powerful attractant for [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] that pollinate beans and squash. The young leaves, flowers, and seedpods are edible, and native people boiled and ate them or made a paste for later use. Bee plant also accumulates iron and is the source of a deep-hued paint used to create the characteristic black designs on Anasazi pottery. Songs and blessings of New Mexico's Tewa people mention corn, beans, squash, and bee plant, indicating this multifunctional flower is an integral member of a sacred plant pantheon.
 
 By extending the Three Sisters with bee plant, the guild's connections strengthen further, drawing insects into the network. This moves the guild into three kingdoms: animal, plant, and bacterial -- creating connectedness that draws upon billions of years of life's wisdom.
 
@@ -37,16 +37,16 @@ The basic Three Sisters pattern can be adapted to many climates and conditions:
 
 ## Design Principles Illustrated
 
-The Three Sisters demonstrates several core [[gaias-garden-stacking-functions-detailed]]**: Each plant performs multiple roles -- structural support, nutrient cycling, pest deterrence, soil protection, and food production
-- **[[gaias-garden-mature-garden-creation]]**: The combined canopy creates a distinct microclimate that benefits all members
+The Three Sisters demonstrates several core [[gaias-garden-stacking-functions-detailed]]**: Each plant performs multiple roles -- structural support, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], pest deterrence, soil protection, and food production
+- **gaias-garden-mature-garden-creation**: The combined canopy creates a distinct microclimate that benefits all members
 
 ## Historical and Cultural Significance
 
-The Three Sisters is not merely a gardening technique but a cultural institution among many Native American peoples. The Iroquois consider corn, beans, and squash to be three sisters who can only thrive together, and their creation story features the Three Sisters as gifts from the Creator. Traditional planting ceremonies and harvest festivals celebrate the guild. The Hidatsa, Mandan, and Arikara peoples of the Upper Missouri River developed sophisticated variations that included sunflowers and other species. This cultural depth reflects the deep ecological understanding that the Three Sisters embodies -- an understanding that [[apple-centered-guild-design]] and eventually [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]] for broader guild-building methodology
-- [[hemenway-guild-design-roles-and-assembly]] for the design process
+The Three Sisters is not merely a gardening technique but a cultural institution among many [[halpern-sacramental-peyote-and-native-american-church]] peoples. The Iroquois consider corn, beans, and squash to be three sisters who can only thrive together, and their creation story features the Three Sisters as gifts from the Creator. Traditional planting ceremonies and harvest festivals celebrate the guild. The Hidatsa, Mandan, and Arikara peoples of the Upper Missouri River developed sophisticated variations that included sunflowers and other species. This cultural depth reflects the deep ecological understanding that the Three Sisters embodies -- an understanding that [[apple-centered-guild-design]] and eventually [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]] for broader guild-building methodology
+- hemenway-guild-design-roles-and-assembly for the [[hemenway-garden-design-process-observation-and-visioning]]
 - [[polyculture-design-hemenway]] for multi-species planting strategies
-- [[gaias-garden-nurse-plants]] for species that support establishment
-- [[gaias-garden-interplanting-polyculture]] for combining multiple species
+- gaias-garden-nurse-plants for species that support establishment
+- gaias-garden-interplanting-polyculture for combining multiple species
 ## Practical Considerations
 
 When working with Three Sisters Guild, several practical factors should be
@@ -63,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,3 +106,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[gaias-garden-super-guild-design]]

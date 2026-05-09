@@ -1,5 +1,5 @@
 ---
-title: Raised Bed Gardening Methods
+title: comparison-chinampas-vs-raised-bed-gardening Gardening Methods
 updated: 2026-04-24
 sources:
   - raw/papers/gardening-when-it-counts-steve-solomon.md
@@ -9,10 +9,10 @@ created: 2026-04-24
 ---
 
 # [[steve-solomon]] directly challenges the intensive gardening orthodoxy that
-advocates closely spaced, deeply double-dug raised beds with vegetables planted
+advocates closely spaced, deeply double-dug [[comparison-raised-beds-vs-hugelkultur]] with vegetables planted
 in precise hexagonal patterns. He states flatly that claims of much higher
 yields and less water use per unit of production from intensive beds "are not
-true." He has used those difficult intensive methods himself and found easier
+true." He has used those difficult [[row-gardening-vs-intensive-methods-solomon]] himself and found easier
 approaches that produce higher quality from a given area, with one quarter the
 watering effort -- or none at all.
 
@@ -56,7 +56,7 @@ to emerge. On flat ground, raking creates a valley of fine soil edged by ridges
 of clods that smother seedlings. When beds are raised a few inches, clods and
 lumps can be rapidly raked down into the paths, creating a uniform fine surface.
 
-**Weed control:** Raised beds remind people to stay off the growing areas.
+**[[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]:** Raised beds remind people to stay off the growing areas.
 Plants grow better because the soil stays looser -- walking on loosened soil
 compacts it, making it difficult for vegetables to develop root systems.
 
@@ -72,7 +72,7 @@ next planting. This is far less work than initial preparation. For a
 100-square-foot (10-square-meter) bed, the process takes about 30 minutes. A
 quarter-inch (6 mm) layer of manure or compost spread over the surface and
 lightly dug in is usually sufficient. For high-demand vegetables, a half-inch
-layer or an application of Complete Organic Fertilizer should be added.
+layer or an application of Complete [[complete-organic-fertilizer-cof-recipe-solomon]] should be added.
 
 ## Hills for Large Plants
 
@@ -94,7 +94,7 @@ climate and expected rainfall.
 ## Survival Gardening with Hills
 
 When starting a garden from scratch in spring with sod, no prepared soil, and
-limited tools, Solomon recommends the Native American approach: mark out hill
+limited tools, Solomon recommends the [[halpern-sacramental-peyote-and-native-american-church]] approach: mark out hill
 positions on four-foot (120 cm) centers, dig 18-inch (45 cm) diameter holes at
 each spot, and add whatever fertilizer is available -- fish, road kill, cow
 pats, or compost. This requires far less initial effort than preparing entire

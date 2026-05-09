@@ -1,11 +1,11 @@
 ---
-title: Fukuoka Desert Greening Projects
+title: Fukuoka fukuoka-desert-greening-plant-irrigation Projects
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources: []
 ---
 # Fukuoka's Desert Greening Projects
 
@@ -23,7 +23,7 @@ See also:
 
 - [[fukuoka-desert-reclamation]] and [[fukuoka-agriculture-run-amok]]. See [[fukuoka-desert-cause-vegetation]], fukuoka desert greening projects, [[fukuoka-clay-pellet-desert-greening]]
 ## Merged: Fukuoka Reviving the Soul of the Thousand Fields
-In one of his most lyrical pieces, written for the Asahi Shimbun in 1983, Fukuoka presents his vision for reviving Japan's traditional rice paddy culture as a path to restoring the relationship between humans, nature, and God. "The thousand rice fields built up with such toil by our ancestors over thousands of years are a study in miniature of Japan. Come to think of it, they'll be passing by the Westerners, who have doubled back and are now moving in the opposite direction." "The first sign we have is the epidemic of [[fukuoka-natural-farming-method]] - fukuoka desert greening projects - [[fukuoka-do-nothing-farming-and-spiritual-life]]
+In one of his most lyrical pieces, written for the Asahi Shimbun in 1983, Fukuoka presents his vision for reviving Japan's traditional [[fukuoka-textdoc-creating-rice-paddy-natural-methods]] culture as a path to restoring the relationship between humans, nature, and God. "The thousand rice fields built up with such toil by our ancestors over thousands of years are a study in miniature of Japan. Come to think of it, they'll be passing by the Westerners, who have doubled back and are now moving in the opposite direction." "The first sign we have is the epidemic of [[fukuoka-natural-farming-method]] - fukuoka desert greening projects - [[fukuoka-do-nothing-farming-and-spiritual-life]]
 ## Practical Applications
 
 Fukuoka Desert Greening Projects has a range of practical applications that make it relevant to
@@ -101,4 +101,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

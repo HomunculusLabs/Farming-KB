@@ -10,7 +10,7 @@ sources:
 
 # Mycorestoration Overview
 
-[[paul-stamets]]' umbrella concept for using fungi to heal the environment. Coined in *Mycelium Running* (2005), mycorestoration encompasses four branches: mycoremediation, mycofiltration, mycoforestry, and mycopesticides.
+[[paul-stamets]]' umbrella concept for using fungi to heal the environment. Coined in *[[woodlovers-mycelium-running-pathway-technique]]* (2005), mycorestoration encompasses four branches: mycoremediation, mycofiltration, mycoforestry, and mycopesticides.
 
 ## The Four Branches
 
@@ -20,7 +20,7 @@ Using fungi to degrade or sequester environmental toxins:
 - PCBs, PAHs, dioxins
 - Heavy metals (arsenic, cadmium, lead, mercury)
 - Radioactive elements (cesium-134, cesium-137)
-- Chemical warfare agents (VX, sarin, soman surrogates)
+- [[solomon-root-exudates-and-allelopathy]] agents (VX, sarin, soman surrogates)
 - Pesticides and herbicides
 - See: [[mycoremediation-basics]], [[mycoremediation-of-oil-spills]], [[mycoremediation-of-heavy-metals]]
 
@@ -56,10 +56,10 @@ Using entomopathogenic fungi to control insect pests:
 
 Stamets proposes that mycelium is the Earth's biological internet — a sentient, information-sharing membrane:
 
-- **The mycelial archetype**: Branching network patterns seen in mycelium mirror neurons, the Internet, dark matter filaments, and galactic structures
+- **The [[mycelium-running-mycelial-archetype-nature]]**: Branching network patterns seen in mycelium mirror neurons, the Internet, dark matter filaments, and galactic structures
 - **A digestive cellular membrane**: Mycelium is "a fusion between a stomach and a brain, a nutritional and informational sharing network"
 - **An archetype of matter and life**: "Our universe is based upon these networking structures"
-- **Information sharing**: Mycelial networks sense and respond to environmental conditions, share nutrients between organisms, and coordinate biological activity across landscapes
+- **Information sharing**: [[fungal-mycelial-networks-nutrient-translocation]] sense and respond to environmental conditions, share nutrients between organisms, and coordinate biological activity across landscapes
 
 ### The 6th Mass Extinction
 
@@ -82,7 +82,7 @@ A mycelium grower is "a mycelial herdsman" — success is temporary, requiring c
 
 Research by Tornberg, Baatli, and Olsson (2003) supports Stamets' hypothesis that:
 - Most saprophytic fungi predestine and steer subsequent biological communities
-- Mushrooms select for specific bacterial communities through their antibiotic secretions
+- Mushrooms select for specific [[cultivar-endorhiza-bacterial-communities-cannabis]] through their antibiotic secretions
 - These bacterial communities influence all other organisms in the food web, particularly plants
 - Mushrooms have a vested interest in developing plant communities that fuel their future life cycles
 
@@ -116,7 +116,7 @@ Mycorestoration vs. conventional remediation:
 - The skill of a mushroom cultivator is critical — many scientific mycoremediation trials fail because scientists lack cultivation skills (Sasek 2003)
 - Patent landscape is complex — multiple overlapping patents can hinder practitioners
 - In situ trials have been less successful than laboratory studies
-- Regulatory frameworks don't yet accommodate biological remediation approaches
+- Regulatory frameworks don't yet accommodate [[combined-biological-remediation-approaches]] approaches
 - Long-term monitoring data is still being collected
 
 ## Integration with Homestead Design

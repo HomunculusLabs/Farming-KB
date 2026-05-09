@@ -3,7 +3,7 @@ title: Silica Cannabis
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -14,7 +14,7 @@ tags: [cannabis]
 Silicon (Si), commonly referred to as silica in the context of plant cultivation, is a
 beneficial element for cannabis that strengthens cell walls, improves structural
 integrity, and enhances resistance to environmental stress. While not classified as an
-essential nutrient (plants can complete their life cycle without it), silicon
+essential nutrient (plants can complete their [[bloomfield-fungal-life-cycle-spiral-versus-circle]] without it), silicon
 supplementation provides significant benefits for cannabis growth and health.
 
 Silicon is readily available in most soils and water, and does not cause cannabis any
@@ -24,17 +24,17 @@ complications due to deficiencies or excesses under normal conditions.
 
 Silicon is absorbed by plants as silicic acid. It is found mainly in the epidermal
 cell walls where it collects in the form of hydrated amorphous silica. It also
-accumulates in the walls of other cells. The silica-cuticle double layer it forms:
+accumulates in the walls of other cells. The silica-cuticle [[coleman-cold-greenhouse-double-layer-protection]] it forms:
 
 - Strengthens cell walls, making stems and branches sturdier
-- Creates a physical barrier against fungal pathogens and insect pests
+- Creates a physical barrier against [[bloomfield-fungal-pathogens-and-parasites]] and insect pests
 - Reduces transpiration water loss by strengthening the cuticle
 - Improves resistance to heat, drought, and UV stress
 - Enhances the plant's structural rigidity to support heavier buds
 - Assists in keeping iron and manganese levels consistent
 
 Adequate and soluble silicon guarantees stronger cell walls that resist pest attacks
-and increase heat and drought tolerance.
+and increase heat and [[dighton-fungal-drought-tolerance-plant-water-relations]].
 
 ## Benefits for Cannabis
 
@@ -53,7 +53,7 @@ micronutrients that would otherwise be toxic.
 ## Deficiency and Excess
 
 A lack of silicon has been proven to decrease yields of some fruits and cause new leaves
-to deform. However, silicon deficiency is uncommon in cannabis cultivation because
+to deform. However, silicon deficiency is uncommon in [[query-how-does-no-till-cannabis-cultivation-work]] because
 silicon is readily available in most soils, water, and growing media. Excess silicon
 has not been reported to cause problems in cannabis gardens.
 
@@ -63,7 +63,7 @@ Silicon is classified as an immobile nutrient. Immobile nutrients -- calcium (Ca
 boron (B), chlorine (Cl), cobalt (Co), copper (Cu), iron (Fe), manganese (Mn),
 molybdenum (Mo), silicon (Si), and sulfur (S) -- do not translocate to new growing
 areas as needed. They remain deposited in their original place in older leaves. This
-means silicon must be available continuously in the nutrient solution or growing medium.
+means silicon must be available continuously in the [[cannabis-nutrient-solution-preparation]] or growing medium.
 
 ## Sources of Silicon
 

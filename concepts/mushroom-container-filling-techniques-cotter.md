@@ -1,5 +1,5 @@
 ---
-title: Mushroom Container Filling Techniques and Spy Bags
+title: Mushroom mushroom container filling techniques cotter Techniques and Spy Bags
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -19,7 +19,7 @@ container selection, packing density, labeling, and the clever use of
 
 ### Indoor Cultivation
 
-Most common containers for indoor growing:
+Most common containers for [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]]:
 - **Plastic bags:** most popular — cheap, disposable, autoclavable
 - **Pots:** reusable, good for small-scale operations
 - **Trays:** reusable, excellent surface-area-to-volume ratio
@@ -52,7 +52,7 @@ One of Cotter's most practical innovations for contamination detection:
   batch
 - Allow visual monitoring of colonization progress without opening
   containers
-- Enable early detection of contamination as spawn run nears completion
+- Enable early detection of contamination as [[mushroom-spawn-run-thermogenesis-cotter]] nears completion
 
 ### Why Spy Bags Matter
 
@@ -66,7 +66,7 @@ One of Cotter's most practical innovations for contamination detection:
 
 - Distribute spy bags throughout the batch (top, middle, bottom of
   stacks)
-- They represent the range of conditions in the growing space
+- They represent the range of conditions in the [[cotter-growing-space-design-fruiting-rooms]]
 - If a spy bag at the bottom shows contamination, check all lower
   containers
 - If only top spy bags are contaminated, the issue may be airflow or
@@ -128,19 +128,13 @@ For trays, pots, and other reusable containers:
 
 - Clean containers **a day ahead** of inoculation
 - If using diluted bleach solution, allow time to dry completely
-- Bleach residue can inhibit mycelial growth
+- Bleach residue can inhibit [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
 - Inspect for cracks, scratches, or damage that could harbor contaminants
 - Replace containers that are heavily scratched or degraded
 
 ## Automation Considerations
 
 Container filling is one of the most labor-intensive steps:
-- "If you see a way to automate any of your steps, I recommend it"
-  — Cotter
-- Commercial equipment: substrate elevators, bagging machines, tray
-  fillers
-- Even simple innovations (funnels, hoppers, pre-measured scoops) reduce
-  labor
 ## See Also
 
 - [[mushroom-spawn-run-thermogenesis-cotter]]
@@ -148,4 +142,7 @@ Container filling is one of the most labor-intensive steps:
 
 ## See Also
 
-- [[cotter-cropping-containers-for-mushroom-cultivation]]
+- cotter-cropping-containers-for-mushroom-cultivation
+- [[permanent-marker]]
+- [[mycoremediation]]
+- [[cotter-inoculation-techniques-and-hygiene]]

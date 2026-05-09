@@ -5,7 +5,7 @@ updated: 2026-04-23
 type: concept
 tags: [soil-biology, protozoa, nematodes, mineralization]
 sources:
-  - "raw/papers/teaming-with-microbes-lowenfels.md"
+  sources: []
 ---
 
 # Protozoa and Nematodes — Nutrient Mineralizers
@@ -44,13 +44,13 @@ Nematodes are classified by eating habits, each with specialized mouthparts:
 
 **Bacterivores** have hollow tubes and consume multitudes of tiny bacteria per hour. They are essential nutrient cyclers in bacterially dominated soils.
 
-**Fungivores** have stylets for puncturing chitin cell walls of fungal hyphae. They contribute to nutrient cycling in fungally dominated soils.
+**Fungivores** have stylets for puncturing chitin cell walls of fungal hyphae. They contribute to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in fungally dominated soils.
 
-**Predatory nematodes** feed on protozoa, algae, grubs, other nematodes, and small invertebrates — preventing overgrazing of bacteria and fungi and keeping destructive herbivore nematode populations down. Some were among the first beneficial nematodes sold for gardening (slug control).
+**Predatory nematodes** feed on protozoa, algae, grubs, other nematodes, and small invertebrates — preventing overgrazing of bacteria and fungi and keeping destructive herbivore nematode populations down. Some were among the first [[ingham-beneficial-nematodes-soil-food-web]] sold for gardening (slug control).
 
 **Herbivore nematodes** have needle-like stylets to puncture plant cells. Some are ectoparasitic (feeding on root surface); others are endoparasitic (entering roots). They create lesions, cysts, and root knots that damage crops.
 
-**Omnivores** eat any and all of the above, including organic matter, and are directly responsible for some decomposition.
+**Omnivores** eat any and all of the above, including [[hamilton-composting-and-organic-matter-management]], and are directly responsible for some decomposition.
 
 ### Mineralization by nematodes
 
@@ -91,3 +91,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[lowenfels-protozoa-nematodes]]

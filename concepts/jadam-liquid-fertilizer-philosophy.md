@@ -1,5 +1,5 @@
 ---
-title: Jadam Liquid Fertilizer Philosophy
+title: Jadam jadam-liquid-fertilizer-nutritional-perspective Philosophy
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -9,13 +9,13 @@ sources:
 ---
 # JADAM Liquid Fertilizer Philosophy and Traditional Wisdom
 
-JADAM's approach to liquid fertilizer challenges many modern organic farming assumptions. Youngsang Cho argues that the modern prejudice against "smelly" fertilizers has destroyed the very foundation of traditional organic farming.
+JADAM's approach to liquid fertilizer challenges many modern [[coleman-deep-organic-farming-philosophy]] assumptions. Youngsang Cho argues that the modern prejudice against "smelly" fertilizers has destroyed the very foundation of traditional organic farming.
 
 ## The Smell Prejudice
 
 JADAM identifies several ideas that have become common sense but make no sense:
 
-- Liquid fertilizers should not smell bad
+- [[solomon-liquid-fertilizers-and-foliar-feeding]] should not smell bad
 - There should be no maggots in the fermentation
 - Black mold should not form
 - Using smelly liquid fertilizer will cause problems
@@ -27,7 +27,7 @@ Cho responds: "Our ancestors who did organic farming for millennia certainly did
 All famous local produce throughout history was made from quite unsweet-smelling inputs:
 
 - Human manure
-- Green manure
+- [[comparison-green-manure-guide-vs-mulch-types-and-effects]]
 - Organic waste
 - Food scraps
 
@@ -44,14 +44,14 @@ The criterion that "bad smell is bad and good smell is good" has enormous commer
 
 This connects directly to the [[jadam-liquid-fertilizer]] reverses this trend by returning to traditional, locally sourced materials:
 
-- [[jadam-human-manure-liquid-fertilizer]] reclaims traditional nutrient cycling
+- [[jadam-human-manure-liquid-fertilizer]] reclaims traditional [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 - [[jadam-calcium-fertilizer]] and [[jadam-potassium-fertilizer]] uses plant ash and wood ash
 
 All of these can be made for a fraction of commercial product costs, using materials that are freely available on or near any farm.
 
 ## The Rice Bran Problem
 
-JADAM specifically critiques the overuse of rice bran in modern organic farming. Many farmers rely on rice bran, perilla press cake, oil cake, sawdust, and livestock manure as their primary organic inputs. These bring in organic matter that is totally different from the nutrients that crops have taken out of the soil.
+JADAM specifically critiques the overuse of rice bran in modern organic farming. Many farmers rely on rice bran, perilla press cake, oil cake, sawdust, and livestock manure as their primary organic inputs. These bring in [[hamilton-composting-and-organic-matter-management]] that is totally different from the nutrients that crops have taken out of the soil.
 
 The problem: these popular materials feed a narrow range of soil organisms while neglecting the full spectrum needed for healthy soil ecology. Over-reliance on any single input type creates imbalanced soil biology.
 
@@ -61,7 +61,7 @@ Liquid fertilizers work best when combined with [[jadam-healthy-living-guideline
 
 ## Related Concepts
 
-- [[ultra-low-jadam-fertilizer-program]]
+- [[jadam-fertilizer-program]]
 - [[jadam-ultra-low-cost-methods]]
 - [[fukuoka-natural-soil-fertility]]
 - [[jadam-fertilizer-program-examples]]
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

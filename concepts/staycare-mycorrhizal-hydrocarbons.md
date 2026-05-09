@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Fungi and Hydrocarbon Contamination
+title: arbuscular-mycorrhizal-fungi-biology-symbiosis and Hydrocarbon Contamination
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -61,8 +61,8 @@ Mycorrhizal fungi establish degradative consortia in the root zone of contaminat
 Long-term environmental consequences of oil spills in agricultural and forest areas are less severe than in coastal ecosystems, likely because:
 - Soil fungi and bacteria catalyze bioremediation processes
 - Certain ECM fungi survive and utilize crude oil as a nutrient
-- Soil organic matter provides co-substrates for co-metabolic degradation
-- Higher microbial diversity in soil supports more complete degradation pathways
+- Soil [[hamilton-composting-and-organic-matter-management]] provides co-substrates for co-metabolic degradation
+- Higher microbial diversity in soil supports more complete [[staycare-chlorophenol-degradation-pathways-white-rot-fungi]]
 
 ## Knowledge Gaps and Research Needs
 
@@ -80,14 +80,17 @@ Key areas requiring further investigation:
 
 - **Low-cost approach**: Natural mycorrhizal associations can be enhanced through inoculation without expensive soil treatment
 
-- **Forestry applications**: Contaminated land can be turned over to forestry (timber or biomass production) while mycorrhizal associations facilitate gradual degradation
+- **Forestry applications**: Contaminated land can be turned over to forestry (timber or [[dighton-fungal-biomass-production-aquatic-ecosystems]]) while mycorrhizal associations facilitate gradual degradation
 
 - **Sewage sludge application**: Established forests receiving sewage sludge can benefit from mycorrhizal-mediated waste incorporation into surface organic soil horizons
 
 ## Related Topics
 
-- [[mycoremediation-of-petroleum-hydrocarbons]]
-- [[fungal-bioremediation]]
+- mycoremediation-of-petroleum-hydrocarbons
+- fungal-bioremediation
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- [[fungal-nitrogen-deposition-fungal-community-responses]]
+- fungal-nitrogen-deposition-fungal-community-responses
 - [[mycorrhiza-soil-bioremediation]]
+- [[populus-nigra]]
+- [[ectomycorrhiza]]
+- [[pinus-sylvestris]]

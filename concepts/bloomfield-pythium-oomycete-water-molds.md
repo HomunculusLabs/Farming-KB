@@ -20,7 +20,7 @@ Pythium and its relatives the oomycetes are among the most consequential
 but poorly understood groups of microorganisms. Although traditionally
 studied by mycologists and called "water molds," oomycetes are not true
 fungi at all. They belong to the stramenopile lineage, sharing closer
-evolutionary [[integrate-rather-than-segregate]] the chitin that
+evolutionary integrate-rather-than-segregate the chitin that
 characterizes [[hyphal-growth-kinetics]] in blood and
 lymph vessel walls, and lung and intestinal infections.
 
@@ -57,14 +57,14 @@ ergosterol, the usual antifungal drugs are ineffective. In a few cases
 these medicines have been prescribed and the patient survived, but the
 immune system may have arrested the infection regardless. Iodine,
 included in the original nineteenth-century treatment regimens, may
-actually interfere with cellulose synthesis in the Pythium cell wall,
+actually interfere with cellulose synthesis in the Pythium [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]],
 suggesting a mechanistic basis for its historical use.
 
 Vaccines developed by Leonel Mendoza at Michigan State University have
 shown success in treating pythiosis in horses and even cured a Thai boy
 with an arterial infection. The small number of human cases has limited
 attention to this work, but pythiosis may become more prevalent as
-climate change expands the range of warm, wet conditions favorable to
+[[dighton-fungi-climate-change-feedback]] expands the range of warm, wet conditions favorable to
 oomycete propagation.
 
 ## Ecological Roles of Oomycetes
@@ -73,7 +73,7 @@ Beyond their pathogenic significance, oomycetes play vital ecological
 roles. Saprolegnia, the most beautiful of oomycete genera, produces
 elaborate branching zoosporangia that release successive waves of
 swimming spores. Saprolegnia species are water molds that decompose dead
-organic matter in freshwater habitats and are significant pathogens of
+[[hamilton-composting-and-organic-matter-management]] in freshwater habitats and are significant pathogens of
 fish eggs and amphibians. Their role in the decline of western toad
 populations, linked to UV-B exposure and climate change, illustrates
 how environmental disruption amplifies the impact of opportunistic

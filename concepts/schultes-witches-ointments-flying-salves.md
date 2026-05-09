@@ -1,5 +1,5 @@
 ---
-title: "Witches Ointments and Flying Salves"
+title: "schultes witches ointments flying salves and Flying Salves"
 created: 2026-04-28
 tags: [ethnobotany, witches-ointment, flying-salve, solanaceae, europe, medieval, tropane, scopolamine]
 date: 2026-04-28
@@ -21,7 +21,7 @@ notorious witches' sabbat.
 ## The Solanaceous Ingredients
 
 The primary ingredients of witches' ointments were four plants of the
-Nightshade family (Solanaceae): Henbane (*Hyoscyamus niger* and *H.
+Nightshade family (Solanaceae): Henbane (*[[henbane-hyoscyamus-niger-ethnobotany]]* and *H.
 albus*), Belladonna or Deadly Nightshade (*[[plants-of-the-gods-nightshade-hexing-herbs]],
 [[schultes-mandrake-mandragora-officinarum]].
 
@@ -67,7 +67,7 @@ narcosis in which hallucinations occur during the transition state
 between consciousness and sleep. The user remembers nothing
 experienced during the intoxication, losing all sense of reality and
 falling into a deep sleep. The sensation of levitation and flight is
-characteristic of this twilight state of consciousness.
+characteristic of this [[mckenna-food-gods-twilight-state-thinking]] of consciousness.
 
 ## Induction into Witchcraft
 

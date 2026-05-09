@@ -1,10 +1,11 @@
 ---
-title: "Lollipopping vs Cannabis Pruning and Defoliation"
+title: "Lollipopping vs Cannabis cannabis-pruning-and-defoliation-guide"
 created: 2026-04-28
 tags: [comparison, cannabis, plant-training, pruning]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -14,9 +15,9 @@ type: comparison
 Lollipopping is a specific, aggressive pruning technique within the
 broader category of cannabis pruning and defoliation. While general
 pruning and defoliation encompasses a range of methods from light leaf
-thinning to structural training like topping and [[lollipopping]]
+thinning to structural training like topping and 
 Lollipopping is a targeted cannabis pruning technique performed just
-before or during the early flowering stage (typically weeks one to two
+before or during the early [[cannabis-flowering-stage-management]] (typically weeks one to two
 of flower) that involves removing the lower 30 to 40 percent of each
 branch's foliage and small bud sites. The result leaves bare stems below
 a dense canopy of top colas, resembling a lollipop. The technique's
@@ -30,7 +31,7 @@ unlit lower growth and has become a standard practice among indoor
 growers running high-intensity lighting systems. Lollipopping offers
 several practical benefits beyond energy redirection: it dramatically
 improves airflow through the lower canopy, reducing humidity pockets
-that favor mold and mildew, simplifies maintenance by eliminating
+that favor [[cannabis-mold-and-mildew-prevention]], simplifies maintenance by eliminating
 crowded lower growth, and streamlines harvest by reducing the number of
 small "popcorn" buds that require trimming. The removed material can
 also serve as quality material for making extracts or edibles.
@@ -40,7 +41,7 @@ foliage at once stresses the plant, slows growth, and reduces its
 capacity for photosynthesis. Most experienced growers limit lollipopping
 to a single session and avoid removing more than 30 to 40 percent of
 total foliage. Timing is also critical: performing the technique too
-early in vegetative growth can trigger excessive branching, while doing
+early in [[cannabis-vegetative-growth-stage]] can trigger excessive branching, while doing
 it too late into flowering wastes the plant's energy on bud sites that
 will never mature.
 
@@ -111,7 +112,7 @@ main colas through topping, or training plants to fill specific light
 footprints. This broader toolkit is essential for scrog (screen of
 green) grows where branches must be woven through a net, outdoor grows
 where plants need wind resistance and structural integrity, and any
-situation where the plant's natural growth habit does not match the grow
+situation where the plant's [[ingham-natural-growth-regulators-soil-microbes]] habit does not match the grow
 environment.
 
 Growers running their first few harvests should start with light

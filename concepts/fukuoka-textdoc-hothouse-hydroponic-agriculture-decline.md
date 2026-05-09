@@ -1,5 +1,5 @@
 ---
-title: Hothouse and Hydroponic Agriculture Decline
+title: Hothouse and fukuoka textdoc hothouse hydroponic agriculture decline Decline
 created: 2026-04-28
 tags:
   - fukuoka
@@ -22,7 +22,7 @@ Fukuoka documented the progressive degradation of agriculture from open-field cu
 
 He traced a clear trajectory: from growing crops under open skies, to hothouse horticulture, to soilless hydroponics, and ultimately to the complete chemical synthesis of food.
 
-Each step, he argued, represented a further departure from the natural order and a decline in the quality of food produced.
+Each step, he argued, represented a further departure from the [[fukuoka-textdoc-natural-order-food-chain-unity]] and a decline in the quality of food produced.
 
 ## The Transition from Soil to Sand Culture
 
@@ -64,7 +64,7 @@ This inferiority arises because the products are "grown unnaturally."
 
 Nature has responded to this affront with "increased insect damage," which has predictably led to "an agriculture increasingly dependent on pesticides and fertilizers."
 
-The artificial growing environment, despite its apparent sterility, actually creates new vulnerabilities that did not exist in the natural soil ecosystem.
+The artificial [[cannabis-growing-environment-setup]], despite its apparent sterility, actually creates new vulnerabilities that did not exist in the natural soil ecosystem.
 
 ## The Vegetable Factory Concept
 
@@ -86,7 +86,7 @@ When a highly efficient robot is developed, people applaud, saying that efficien
 
 But their joy is short-lived, for soon they are dissatisfied again and demanding even more advanced and efficient technology.
 
-"Everyone seems intent on lowering production costs, yet these costs have skyrocketed nevertheless."
+"Everyone seems intent on lowering [[fukuoka-textdoc-production-costs-not-coming-down]], yet these costs have skyrocketed nevertheless."
 
 The same fallacy applies to microorganisms such as chlorella and yeast.
 
@@ -120,7 +120,7 @@ Further progress in photosynthesis research would enable the synthesis of starch
 
 He noted that man had learned to synthesize nucleic acid and cellular proteins and nuclei, and was beginning to synthesize and recombine genes and chromosomes.
 
-"He has even begun thinking that he can control life itself."
+"He has even begun thinking that he can [[eclss-environmental-control-life-support]] itself."
 
 Yet all that science performs and creates is "a mere imitation of nature and propels him further along the path to suicidal self-destruction."
 
@@ -139,6 +139,8 @@ Each stage removed the crop further from the conditions in which it evolved to t
 ## The Vicious Cycle of Artificial Growing
 
 ## See Also
+
+- [[fukuoka-textdoc-trajectory-hothouse-agriculture-to-total-food-synthesis]]
 
 - [[fukuoka-textdoc-critique-mechanization-agriculture]]
 - [[fukuoka-textdoc-basic-agriculture-law-japan-food-self-sufficiency-crisis]]

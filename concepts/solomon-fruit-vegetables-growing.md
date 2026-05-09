@@ -1,5 +1,5 @@
 ---
-title: "Solomon Fruit Vegetables Growing"
+title: "Solomon hamilton-fruit-vegetables-organic Growing"
 created: 2026-04-28
 updated: 2026-05-06
 type: concept
@@ -16,14 +16,14 @@ Source: [[cover-crops]]
 - Climbing varieties (Alderman/Tall Telephone, Sugar Snap): superior flavor, extended harvest, need 6-foot trellis
 - Solomon makes trellis by weaving baling twine into 9-inch square mesh
 - Sow successive patches every 10 days for month-long harvest
-- Also sow large areas as edible green manure on idle spring beds
+- Also sow large areas as edible [[comparison-green-manure-guide-vs-mulch-types-and-effects]] on idle spring beds
 
 ### Snap Beans (French Beans)
 
 - Not frost-tolerant; sow after soil reaches 60F (16C)
 - Bush varieties: yield for ~1 month, far less drought-tolerant than climbers
 - Climbing varieties: take 1-2 weeks longer to start bearing but continue as long as roots have room
-- Climbing beans have superior flavor and far better drought tolerance
+- Climbing beans have superior flavor and far better [[dighton-fungal-drought-tolerance-plant-water-relations]]
 - Solomon uses a quick-maturing bush variety to fill the gap before climbers start
 - Support climbing beans on tripods of 8-foot poles or wire-and-string trellis
 - Runner beans (Phaseolus coccineus): more aggressive, cool-climate crop; British varieties produce excellent snap beans
@@ -61,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

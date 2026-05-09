@@ -1,5 +1,5 @@
 ---
-title: Holzer Urban Gardening and the Rubbish Hugelkultur
+title: Holzer holzer urban gardening rubbish hugelkultur and the Rubbish hugelkultur
 created: 2026-04-26
 tags:
   - urban-permaculture
@@ -14,14 +14,14 @@ sources:
 type: concept
 ---
 
-# Holzer Urban Gardening and the Rubbish [[permaculture]] offers solutions for growing food even in the most
+# Holzer Urban Gardening and the Rubbish permaculture offers solutions for growing food even in the most
 challenging urban environments. From rooftops and balconies to rubbish tips
 and [[holzer-crater-gardens-hugelkultur]] with one key difference: the core is filled
-with collected waste materials rather than wood and organic matter:
+with collected waste materials rather than wood and [[hamilton-composting-and-organic-matter-management]]:
 
 1. Collect old clothes, paper, cardboard, half-rotten wooden boxes, and
    kitchen waste
-2. Break down items that are too large
+2. [[query-can-fungi-break-down-plastic-pollution]] items that are too large
 3. Build up the mound maintaining a rough and loose structure
 4. Water each layer thoroughly
 5. Cover everything with soil, sand, straw, or grass
@@ -80,7 +80,7 @@ Built during a Tamera workshop from materials found at a junkyard:
 - Small holes in the geotextile receive seeds of melons, tomatoes,
   cabbages, and other vegetables
 
-Watering can be done from the top via ladder or with a small hand pump from
+Watering can be done from the top via ladder or with a small [[mollison-designers-hand-pump-and-water-lifting-devices]] from
 a container on the ground. As internal material rots and sinks, the tower is
 refilled with organic matter from the top.
 
@@ -91,7 +91,7 @@ A multifunctional structure conceived in a dream:
 - Landscape experiment and garden
 - Up to 7 metres high with a mushroom head of 14 metres diameter
 - Trunk approximately 4 metres, filled with earth and watered from inside
-- Roof grows herbs, flowers, and soft fruit
+- Roof grows herbs, flowers, and [[growing-soft-fruit-organically]]
 - Climbers (cucumbers, tomatoes, kiwis, grapes, melons) grow from the
   trunk and cover the mushroom cap underside
 - Shaded grassy area underneath triples cultivation area
@@ -118,3 +118,5 @@ into the earth. Filled with soil and humus with artificial banks creating
 a protected, warm interior.
 
 ### Roof Gardens
+## See Also
+- [[hugelkultur]]

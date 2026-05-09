@@ -1,5 +1,5 @@
 ---
-title: "Translinguistic Matter and the Exteriorized Soul — McKenna"
+title: "mckenna translinguistic matter and exteriorized soul and the mckenna-exteriorized-soul-and-psychedelic-bar-mitzvah — McKenna"
 type: concept
 tags:
   - consciousness
@@ -11,7 +11,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - McKenna, T. (1983/1992). "Tryptamine Hallucinogens and Consciousness." The Archaic Revival, HarperSanFrancisco.
+  - McKenna, T. (1983/1992). "mckenna-tryptamine-hallucinogens-and-consciousness and Consciousness." The mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained, HarperSanFrancisco.
   - McKenna, T. (1992). Food of the Gods. New York: Bantam Books.
   - Dick, P.K. (1981). VALIS. New York: Bantam Books.
 ---
@@ -24,7 +24,7 @@ In his 1983 Esalen lecture, Terence McKenna articulated one of his most
 radical visions: the future exteriorization of the human soul as a
 "superconducting lens of translinguistic matter."
 
-This concept, drawn from psychedelic experience, proposes that human
+This concept, drawn from [[leary-psychedelic-experience-bardo-mapping]], proposes that human
 consciousness will eventually transcend biological embodiment through a
 critical transformation at what McKenna called a "psychedelic Bar
 Mitzvah."
@@ -39,7 +39,7 @@ McKenna used the term "translinguistic matter" to describe a substance or
 medium that lies beyond ordinary language but carries meaning. In the DMT
 state, he reported encountering objects that are "feeling-toned, meaning-
 toned, three-dimensional rotating complexes of transforming light and
-color" — translinguistic objects that convey information that "cannot be
+color" — [[mckenna-translinguistic-objects-cognitive-dissonance-tryptamine]] that convey information that "cannot be
 Englished." McKenna proposed that language may be merely a shadow or
 lower-dimensional projection of this deeper translinguistic capacity.
 

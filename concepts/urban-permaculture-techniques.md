@@ -16,7 +16,7 @@ sources:
 
 # Urban Permaculture Techniques
 
-Urban and suburban environments present unique challenges for permaculture design: limited space, contaminated soils, restricted sunlight, and regulations. However, they also offer unique opportunities -- high population density, abundant waste resources, and infrastructure to leverage. Both Hemenway and Williams address urban permaculture extensively.
+Urban and suburban environments present unique challenges for [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]: limited space, contaminated soils, restricted sunlight, and regulations. However, they also offer unique opportunities -- high population density, abundant waste resources, and infrastructure to leverage. Both Hemenway and Williams address urban permaculture extensively.
 
 ## The Urban Permaculture Advantage
 
@@ -45,7 +45,7 @@ Growing upward multiplies usable space dramatically:
 
 - Trellises for climbing vegetables (beans, cucumbers, tomatoes)
 - Living walls and green facades
-- Hanging baskets and upside-down planters
+- [[hamilton-hanging-baskets-organic]] and upside-down planters
 - Stacked container systems
 - Espalier fruit trees against walls and fences
 
@@ -54,9 +54,9 @@ Growing upward multiplies usable space dramatically:
 [[square-foot-gardening|Square foot gardening]], [[intensive-planting-spacing|intensive spacing]], and [[raised-bed-gardening|raised beds]] maximize yield per square foot:
 
 - Deep, well-prepared beds with intensive planting
-- Succession planting and [[succession-planting|succession cropping]] for continuous harvest
+- [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] and [[succession-planting|succession cropping]] for continuous harvest
 - Interplanting and [[intercropping-systems|intercropping]] to use all available space and light
-- Season extension with [[cold-frame-gardening|cold frames]] and [[season-extension-techniques|season extension]]
+- [[comparison-season-extension-techniques-vs-cold-frame-gardening]] with [[cold-frame-gardening|cold frames]] and [[season-extension-techniques|season extension]]
 
 ## Community Gardens
 
@@ -90,7 +90,7 @@ Urban soils often contain lead, heavy metals, or other contaminants:
 
 ## Urban Zone Analysis
 
-Williams notes that urban sites rarely have all five permaculture zones. A typical urban yard may only have:
+Williams notes that urban sites rarely have all five [[query-what-are-permaculture-zones-and-how-do-i-use-them]]. A typical urban yard may only have:
 
 - Zone 0: The house or apartment
 - Zone 1: Immediate outdoor area (patio, small yard)
@@ -110,7 +110,7 @@ Zone 4 (managed grazing) and Zone 5 (wilderness) are essentially absent in dense
 
 Cities are full of microclimates created by buildings, pavement, and infrastructure:
 
-- Heat islands from asphalt and concrete can extend the growing season
+- Heat islands from asphalt and concrete can [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season
 - Building walls create warm, sheltered microclimates (especially south-facing)
 - Courtyards and enclosed spaces can be frost-free when surrounding areas are not
 - Rooftops experience more wind, sun, and temperature extremes
@@ -130,5 +130,5 @@ Cities are full of microclimates created by buildings, pavement, and infrastruct
 - [[container-gardening-guide]]
 - [[vertical-gardening-guide]]
 - [[square-foot-gardening]]
-- [[permaculture-zone-and-sector-analysis]]
+- [[zone-sector-analysis-guide]]
 - [[keyhole-garden-design]]

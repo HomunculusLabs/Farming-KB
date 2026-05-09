@@ -1,5 +1,5 @@
 ---
-title: Cannabis Health Index Chi Scoring
+title: blesching-cannabis-health-index-autoimmune-conditions blesching-cannabis-chi-scoring-evidence-based-medicine
 created: 2026-05-08
 source: "Uwe Blesching, PhD, The Cannabis Health Index, North Atlantic Books, 2015"
 tags:
@@ -17,7 +17,7 @@ tags:
 
 The Cannabis Health Index (CHI) is an evidence-based rating system developed
 by Uwe Blesching, PhD, that shows degrees of confidence in cannabis as an
-effective treatment for specific conditions. The CHI score takes into account
+effective treatment for specific conditions. The [[blesching-cannabis-chi-score-methodology]] takes into account
 both the type of research study (which impacts reliability of conclusions) and
 the study's findings, which may be positively or negatively associated with
 medical use of cannabis. The CHI provides patients, caregivers, and healthcare
@@ -69,7 +69,7 @@ research has been conducted for that condition.
 ## Strain-Specific Considerations
 
 Different cannabis strains present with different cannabinoid profiles.
-Sativas and sativa-dominant strains typically have a higher THC to CBD ratio,
+Sativas and sativa-dominant strains typically have a higher THC to [[cannabis-thc-cbd-ratio-guide-for-conditions]],
 favoring CB1 receptor activation. Indicas and indica-dominant strains have a
 lower THC to CBD ratio, favoring CB2 receptor activation. Selecting the
 appropriate strain is important for targeting specific receptor pathways. Most
@@ -91,6 +91,6 @@ daily as a commonly recommended dose.
 
 ## The Setting
 
-The CHI emphasizes the importance of [[blesching-endocannabinoid-system-overview]]
-- [[mind-body-medicine-endocannabinoid-system]]
+The CHI emphasizes the importance of [[endocannabinoid-system-overview]]
+- [[mind-body-medicine-and-endocannabinoid-system]]
 - [[uwe-blesching]]

@@ -1,15 +1,15 @@
 ---
-title: Cannabis Terpenoid Profiles
+title: Cannabis cannabis terpenoid profiles detailed
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 # Cannabis Terpenoid Profiles
 
-Terpenoids (also called terpenes) are the aromatic compounds responsible for the distinctive scents and flavors of cannabis strains. Beyond their sensory qualities, terpenoids play a significant role in the therapeutic effects of cannabis through their interaction with the endocannabinoid system and other physiological pathways. More than 200 terpenoids have been identified in cannabis, contributing to the entourage effect whereby the whole plant produces effects greater than the sum of its individual cannabinoid components.
+Terpenoids (also called terpenes) are the aromatic compounds responsible for the distinctive scents and flavors of cannabis strains. Beyond their sensory qualities, terpenoids play a significant role in the therapeutic effects of cannabis through their interaction with the endocannabinoid system and other physiological pathways. More than 200 terpenoids have been identified in cannabis, contributing to the [[cannabis-terpene-entourage-effect-profiles]] whereby the whole plant produces effects greater than the sum of its individual cannabinoid components.
 
 The terpenoid profile of a cannabis strain is an increasingly important factor in strain selection for medical use, as different terpenoids produce different therapeutic effects and modify how cannabinoids interact with receptors.
 
@@ -27,9 +27,9 @@ The presence of myrcene in mango has led to the popular belief that eating mango
 
 ### Beta-Caryophyllene
 
-Beta-caryophyllene (BCP) is a sesquiterpene found in black pepper, cloves, cinnamon, oregano, and copaiba balsam. It has a spicy, peppery, woody aroma and is unique among terpenoids in its ability to selectively activate the CB2 cannabinoid receptor, making it functionally a dietary cannabinoid.
+Beta-caryophyllene (BCP) is a sesquiterpene found in black pepper, cloves, cinnamon, oregano, and copaiba balsam. It has a spicy, peppery, woody aroma and is unique among terpenoids in its ability to selectively activate the CB2 [[cannabis-cannabinoid-receptor-pharmacology]], making it functionally a dietary cannabinoid.
 
-As a CB2 agonist, beta-caryophyllene produces anti-inflammatory and analgesic effects without psychoactivity. Researchers have suggested that CB2 activation via this plant-based cannabinoid might present a new therapeutic strategy for treating diseases associated with inflammation and oxidative stress. Beta-caryophyllene also has gastroprotective properties and may be beneficial for gastrointestinal conditions.
+As a CB2 agonist, beta-caryophyllene produces anti-inflammatory and analgesic effects without psychoactivity. Researchers have suggested that CB2 activation via this plant-based cannabinoid might present a new therapeutic strategy for treating diseases associated with inflammation and [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]. Beta-caryophyllene also has gastroprotective properties and may be beneficial for gastrointestinal conditions.
 
 The distinction between calling beta-caryophyllene a terpenoid versus a cannabinoid has little practical significance for patients who benefit from its use. Its presence in a cannabis strain contributes significantly to the anti-inflammatory therapeutic profile.
 
@@ -73,7 +73,7 @@ Terpinolene has antioxidant and sedative properties. While some sativa terpenoid
 
 The entourage effect refers to the synergistic interaction between cannabinoids, terpenoids, and other cannabis constituents that produces therapeutic effects greater than the sum of their individual contributions. This concept explains why whole-plant cannabis preparations often produce better therapeutic outcomes than isolated THC or CBD alone.
 
-Terpenoids modify the effects of cannabinoids in several ways. They can enhance cannabinoid absorption through the blood-brain barrier and cell membranes. They can modulate receptor binding affinity and activity at CB1 and CB2 receptors. They can activate non-cannabinoid receptors (serotonin, GABA, TRP channels) that contribute to therapeutic effects. They can alter the metabolism of cannabinoids by liver enzymes.
+Terpenoids modify the effects of cannabinoids in several ways. They can enhance cannabinoid absorption through the blood-brain barrier and cell membranes. They can modulate [[tihkal-receptor-binding-serotonin]] affinity and activity at CB1 and CB2 receptors. They can activate non-cannabinoid receptors (serotonin, GABA, TRP channels) that contribute to therapeutic effects. They can alter the metabolism of cannabinoids by liver enzymes.
 
 Pharmaceuticals containing only THC lack the other biologically active components of cannabis that may play important therapeutic roles. The combination of specific terpenoid profiles with cannabinoid ratios is what gives each strain its unique therapeutic character.
 
@@ -83,11 +83,11 @@ Modern cannabis testing laboratories can quantify the terpenoid profile of canna
 
 When selecting strains, patients should consider the terpenoid profile alongside the cannabinoid ratio. A strain with high myrcene and linalool content may be optimal for sleep and relaxation, while a strain high in limonene and pinene may be better for daytime energy and focus. A strain high in beta-caryophyllene may be particularly suitable for inflammatory conditions.
 
-The terpenoid content of cannabis is influenced by genetics (strain selection), growing conditions (light, temperature, nutrients), harvest timing, and post-harvest handling (drying, curing, storage). Proper curing preserves terpenoid content, while excessive heat or UV exposure degrades them.
+The terpenoid content of cannabis is influenced by genetics (strain selection), growing conditions (light, temperature, nutrients), [[cannabis-harvest-timing-visual-cues]], and post-harvest handling (drying, curing, storage). Proper curing preserves terpenoid content, while excessive heat or UV exposure degrades them.
 
 ## See Also
 
 - [[cannabis-terpene-profile]] — detailed terpene information
 - [[cannabis-strain-selection-guide]] — choosing strains by terpenoid profile
 - [[cannabis-minor-cannabinoids]] — non-THC/CBD cannabinoids
-- [[cannabis-beta-caryophyllene-dietary-cannabinoid]]
+- [[beta-caryophyllene-dietary-cannabinoid]]

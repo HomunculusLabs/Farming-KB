@@ -1,22 +1,23 @@
 ---
-title: "Seed Starting vs Direct Seeding"
+title: "Seed Starting vs fukuoka-direct-seeding-rice-barley-cultivation"
 created: 2026-04-28
 tags: [comparison, propagation, seeds, growing-techniques]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/steve-solomon-gardening-when-it-counts.md"
 type: comparison
 ---
 # Seed Starting vs Direct Seeding
 Two fundamental approaches to getting vegetables growing, each with distinct trade-offs in
-vigor, season extension, labor, and cost. Steve Solomon's *Gardening When It Counts*
+vigor, [[comparison-season-extension-techniques-vs-cold-frame-gardening]], labor, and cost. Steve Solomon's *Gardening When It Counts*
 provides the primary reference for both methods, arguing that most gardeners over-rely
 on transplants when direct seeding would produce stronger plants.
 ## Seed Starting Indoors
 [[direct-seeding-techniques]]
 Sowing seeds directly in the garden where they will grow to maturity. Solomon argues
 this produces healthier, hardier plants than transplants for most crops, and should
-be the default method for the majority of vegetable gardening.
+be the default method for the majority of [[home-vegetable-garden-planning]].
 ### Seed Quality and Sourcing
 - Emphasizes high-quality seed from ethical mail-order suppliers.
 - Poor germination rates from old or improperly stored seed undermine the entire
@@ -43,7 +44,7 @@ re-establishment after transplanting. For many crops, this lost time negates the
 indoor head-start entirely, meaning the direct-seeded crop catches up or surpasses
 the transplant by mid-season.
 ### Advantages
-- Stronger, undisturbed root systems with zero transplant shock.
+- Stronger, undisturbed root systems with zero [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]].
 - Lower cost (no pots, soil mix, lights, or heating equipment needed).
 - Better variety control than buying commercial transplants from a nursery.
 - Some crops fundamentally cannot be transplanted: beets, carrots, corn, radishes,
@@ -64,8 +65,8 @@ the transplant by mid-season.
 | **Crop Suitability** | Heat-loving and long-season crops | Most vegetables; required for taproot crops |
 | **Cost** | Higher (equipment, media, containers) | Minimal (seed and soil only) |
 | **Risk Factors** | Damping-off, leggy growth, hardening-off failure | Poor germination, pest pressure from bad timing |
-| **Skill Level** | Moderate to high (environmental control) | Moderate (timing and thinning discipline) |
-| **Space Requirements** | Dedicated indoor growing area needed | Garden beds only |
+| **Skill Level** | Moderate to high ([[eclss-environmental-control-life-support]]) | Moderate (timing and thinning discipline) |
+| **Space Requirements** | Dedicated [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]] area needed | Garden beds only |
 ## When to Choose Seed Starting Indoors
 - Short-season climates where heat-loving crops need every possible growing day.
 - Crops requiring a long season: tomatoes, peppers, eggplant, melons, winter squash.

@@ -1,5 +1,5 @@
 ---
-title: Green Grass Liquid Fertilizer (GGLF)
+title: Green Grass jadam-liquid-fertilizer-nutritional-perspective (GGLF)
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 **Updated:** 2026-04-18
 
-Green Grass Liquid Fertilizer (GGLF) is a [[knf-indigenous-microorganism-culture]] and organic fertilizers. GGLF extracts and solubilizes chlorophylls, nutrients, and bioactive compounds from green plants into a liquid form that is highly effective for soil building and plant nutrition. Unlike other KNF inputs that use brown sugar extraction, GGLF uses a unique fermentation process where IMO-produced weak alcohol extracts chlorophyll from plant material.
+Green Grass Liquid Fertilizer (GGLF) is a [[knf-indigenous-microorganism-culture]] and [[hamilton-organic-fertilizers-and-plant-nutrition]]. GGLF extracts and solubilizes chlorophylls, nutrients, and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] from green plants into a liquid form that is highly effective for soil building and plant nutrition. Unlike other KNF inputs that use brown sugar extraction, GGLF uses a unique fermentation process where IMO-produced weak alcohol extracts chlorophyll from plant material.
 
 ## What GGLF Is
 
@@ -30,11 +30,11 @@ The key innovation is that chlorophyll, which is normally insoluble in water, is
 1. **Excellent soil permeation:** GGLF penetrates soil readily, distributing its nutrients and biological activity throughout the root zone
 2. **Soil aggregation:** GGLF promotes the formation of aggregated soil structure (crumb structure), improving aeration, water infiltration, and root penetration
 3. **Soil ventilation:** Improves air exchange in the soil, supporting aerobic microbial activity
-4. **Organic matter decomposition:** Facilitates the breakdown of existing organic matter in the soil
+4. **[[hamilton-composting-and-organic-matter-management]] decomposition:** Facilitates the breakdown of existing organic matter in the soil
 5. **CO2 emission increase:** Stimulates CO2 release from soil microbial activity, which enhances photosynthesis when absorbed by plants (CO2 enrichment of the root zone)
 6. **Reduces EC and pH:** Lowers electrical conductivity and pH levels in the soil, creating more favorable conditions for many crops
 7. **Increases soil temperature:** Slightly raises soil temperature, which enhances root development and microbial activity
-8. **Greenhouse humidity management:** GGLF can supply water and nutrients without increasing humidity in greenhouse environments (unlike overhead irrigation)
+8. **Greenhouse [[stamets-cultivator-humidity-management-fogging-systems]]:** GGLF can supply water and nutrients without increasing humidity in greenhouse environments (unlike overhead irrigation)
 9. **Efficient fertilization:** Only small amounts of GGLF are needed because it is highly concentrated and readily absorbed
 10. **Disease and insect resistance:** Reduces crop damage from diseases and insects when used as part of a regular program
 
@@ -48,7 +48,7 @@ GGLF cannot be stored for long periods. It must be made fresh when needed and us
 
 - **Various weeds** (cut into small pieces approximately 10 cm long) -- use a diverse mixture of green plants
 - **Organic fertilizers** such as: oil cake (5-10 kg), fowl droppings (5-10 kg), fish meal (5-10 kg)
-- **[[knf-fish-amino-acid]], [[knf-water-soluble-calcium]] alongside GGLF to balance vegetative growth with calcium-mediated growth regulation
+- **[[knf-fish-amino-acid]], [[knf-water-soluble-calcium]] alongside GGLF to balance [[cannabis-vegetative-growth-stage]] with calcium-mediated growth regulation
 - Time GGLF applications for periods when vigorous vegetative growth is desired (early growth stages)
 
 ## Plant Material Selection
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

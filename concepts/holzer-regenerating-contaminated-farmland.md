@@ -1,5 +1,5 @@
 ---
-title: Holzer Regenerating Contaminated Farmland
+title: Holzer holzer regenerating contaminated farmland Farmland
 created: 2026-04-26
 tags:
   - soil-regeneration
@@ -38,7 +38,7 @@ with toxins and groundwater has become polluted.
 2. If the soil is open and loose, no further cultivation is needed after
    ploughing
 3. If the soil is compacted with high clay content, plough before winter
-   and allow frost to break down the topsoil, then sow in spring and harrow
+   and allow frost to [[query-can-fungi-break-down-plastic-pollution]] the topsoil, then sow in spring and harrow
    the seeds in
 
 ### The Science of Soil Detoxification
@@ -55,10 +55,10 @@ The degradation of toxins in soil requires three elements:
 
 **Red Clover:**
 - Excellent nitrogen fixer
-- Attracts bees and other beneficial insects
+- Attracts bees and other [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 - Supports root growth of neighbouring plants
 
-**Root Vegetables:**
+**[[growing-root-vegetables-guide]]:**
 - Carrots, daikon, and Jerusalem artichokes
 - Left to rot and decompose in fields for the first few years
 - Activate soil life and aid the purification process
@@ -94,7 +94,7 @@ high acidity:
 1. **Mechanical loosening:** Dig 50cm deep with a mini-digger and mix,
    bringing unaffected soil higher up to help balance the soil profile
 
-2. **Biological balancing:** Plant red and white clover, foxglove,
+2. **Biological balancing:** Plant red and [[fukuoka-white-clover-cover-crop-system]], foxglove,
    comfrey, and lupin to root and activate the soil
 
 3. **Polyculture approach:** Add vegetables, especially root vegetables,
@@ -103,7 +103,7 @@ high acidity:
 ## Managing Insect Overpopulation
 
 Insect overpopulation is a visible sign of incorrect cultivation, usually
-indicating the use of agricultural chemicals. The fukuoka straw pest has been
+indicating the use of agricultural chemicals. The fukuoka [[fukuoka-straw-pest-control-natural-balance]] has been
 disturbed.
 
 ### The Pesticide Trap

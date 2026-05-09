@@ -1,16 +1,13 @@
 ---
 title: Mycelial Colonization
 created: 2026-04-28
-tags: [[mycology, mycelium, colonization, cultivation]
+tags: [mycology, mycelium, colonization, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
 type: concept
 ---
-
-# Mycelial Colonization
-
-Mycelial colonization is the phase in [[mushroom-spawn-production]] and precedes [[substrate-contamination]].
+# Mycelial Colonization Mycelial colonization is the phase in mushroom-spawn-production and precedes [[substrate-contamination]].
 - **Ropy, thick growth** — vigorous mycelium forms thick strands that bind
   the substrate tightly. Thin, wispy, or cottony growth may indicate
   suboptimal genetics or environmental stress.
@@ -37,7 +34,7 @@ more production cycles per year. Key levers:
 
 - Use liquid culture instead of grain spawn for faster, more uniform
   inoculation.
-- Maintain substrate at the upper end of the optimal temperature range.
+- Maintain substrate at the upper end of the optimal [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]].
 - Use high inoculation rates (10-15%) for fast-growing species.
 - Ensure substrate particle size is uniform — fine sawdust (2-5mm) colonizes
   faster than coarse chips.
@@ -46,14 +43,17 @@ more production cycles per year. Key levers:
 
 ## See Also
 
+- [[bark-xylotropic-endophytes-woody-tissue-colonization]]
+- [[mycelium-colonization]]
+
 - [[fruiting-initiation]] — transitioning to the fruiting phase
 - [[substrate-contamination]] — threats to successful colonization
 
-See also [[sterile-technique-mushroom-cultivation]], [[grain-spawn-preparation]] for related cultivation topics.
+See also [[mushroom-cultivation-sterile-technique]], [[grain-spawn-preparation]] for related cultivation topics.
 
-[[spore-syringe-and-inoculation]] — spore-based inoculation techniques and sterile syringe preparation
+[[spore-syringe-and-inoculation]] — spore-based [[cotter-inoculation-techniques-and-hygiene]] and sterile [[mushroom-spore-printing-syringe-preparation-pf-tek]]
 [[mushroom-strain-preservation-species-banking]] — long-term strain storage and genetic preservation methods
-[[fungal-hyphae]] — hyphal growth mechanics, branching, and anastomosis underlying mycelial network formation
+[[fungal-hyphae]] — hyphal [[hyphal-growth-mechanics-and-invasion]], branching, and anastomosis underlying [[gadd-mycelial-network-dynamics]] formation
 ## Practical Considerations
 
 When working with Mycelial Colonization, several practical factors should be
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

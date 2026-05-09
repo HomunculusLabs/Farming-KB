@@ -1,5 +1,5 @@
 ---
-title: "EMCDDA Hallucinogenic Mushroom Clubbing Surveys and Prevalence"
+title: "EMCDDA emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative Clubbing Surveys and Prevalence"
 created: 2026-04-28
 tags:
   - emcdda
@@ -42,7 +42,7 @@ prevalence estimates ranging from 9% to 55%:
 | Italy (Bologna)          | 2003 | 2,015       | Rave parade                              |
 
 The lowest prevalence (9%) was found among clubbers in Budapest, while the
-highest (55%) was reported in France. Despite differences in survey methods
+highest (55%) was reported in France. Despite differences in [[mycetozoan-survey-methods-substratum-plating]]
 and settings, the common finding across all clubbing surveys was that
 substantially higher drug prevalence estimates were found compared to general
 or school population surveys.
@@ -88,7 +88,7 @@ Mixmag (2000 to 2005):
   2004.
 - The average age for first use was between 18 and 19 years according to the
   2004 Mixmag sample.
-- Among the 305 individuals who had used hallucinogenic mushrooms, over half
+- Among the 305 individuals who had used [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]], over half
   planned to take them again.
 - The most commonly used variety was the "Mexican" type.
 
@@ -98,7 +98,7 @@ from year to year may account for some of the sudden increase.
 
 ## Post-Ban Availability Impact
 
-The UK Mixmag survey conducted in 2005, shortly after the imposition of
+The UK [[emcdda-mixmag-survey-magic-mushroom-prevalence-trends-2000-2005]] conducted in 2005, shortly after the imposition of
 stricter controls over the sale and use of hallucinogenic mushrooms (July
 2005), found that 67% of survey respondents reported that mushrooms were
 less available than they had been previously. This suggests that the legal
@@ -126,6 +126,8 @@ year olds, and the drug use associated with it was considered unlikely to
 diffuse widely.
 
 ## See Also
+
+- [[hallucinogenic-mushroom-european-prevalence-polydrug-clustering-barriers-emcdda-2006]]
 
 - [[hallucinogenic-mushroom-prevalence-europe]]
 - [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]]

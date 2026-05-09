@@ -1,5 +1,5 @@
 ---
-title: Shade Garden Plants
+title: hamilton shade garden plants Plants
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 updated: 2026-04-18
 
-Shady areas in the garden -- under trees, against north-facing walls, between buildings -- present a design challenge but also an opportunity. Many beautiful and useful plants thrive in shade, and a well-designed shade garden can be one of the most tranquil and attractive areas of any garden. In the organic garden, shade-loving plants play an important role because many also attract wildlife and provide the ground cover that suppresses weeds and retains moisture.
+Shady areas in the garden -- under trees, against north-facing walls, between buildings -- present a design challenge but also an opportunity. Many beautiful and useful plants thrive in shade, and a well-designed shade garden can be one of the most tranquil and attractive areas of any garden. In the organic garden, shade-loving plants play an important role because many also attract wildlife and provide the [[fukuoka-citrus-orchard-ground-cover-cultivation]] that suppresses weeds and retains moisture.
 
 ## Understanding Shade
 
@@ -38,14 +38,14 @@ The most challenging condition -- shade combined with dry soil, typically under 
 - **Solomon's seal** (Polygonatum hybridum): Elegant arching stems with dangling white flowers; roots should be shaded.
 - **Bugle** (Ajuga reptans "Burgundy Glow"): Useful ground cover; requires moist soil.
 - **Astrantia** (Masterwort): Attractive flower shapes; spreads by underground runners.
-- **Hellebores**: Late winter and early spring flowers; tolerate dry shade under trees.
+- **Hellebores**: Late winter and [[coleman-overwintered-onions-and-early-spring-crops]] flowers; tolerate dry shade under trees.
 - **Foxglove** (Digitalis purpurea): Tall flower spikes; can be grown as a biennial or left year after year in peaty soil.
 - **Bittersweet** (Solanum dulcamara "Variegata"): Climber with variegated foliage; berries are poisonous so avoid in gardens with children.
 
 ### Shrubs for Shade
 
 - **Periwinkle** (Vinca minor): Rapidly spreading ground cover; can become invasive. Height up to 12 inches (30cm), unlimited spread.
-- **Rhododendrons**: Grow in a raised bed if your soil is alkaline. Many varieties available.
+- **Rhododendrons**: Grow in a [[comparison-chinampas-vs-raised-bed-gardening]] if your soil is alkaline. Many varieties available.
 - **Camellias**: Shade-loving evergreens with beautiful flowers.
 - **Pieris** ("Forest Flame"): Leaves pass from red through pink to creamy white to green; needs acid soil.
 - **Euonymus** (Euonymus fortunei varieties): Shade-tolerant evergreens with variegated foliage.
@@ -75,7 +75,7 @@ Ferns and grasses make an attractive change from the usual choices, particularly
 - **Use variegation**: White or yellow variegated foliage brightens dark corners.
 - **Layer planting**: Combine tall, medium, and low plants for a naturalistic look.
 - **Use containers**: If tree roots make planting difficult, use containers and pots in the shady area.
-- **Improve soil**: Add organic matter to shade areas; tree roots deplete soil rapidly.
+- **Improve soil**: Add [[hamilton-composting-and-organic-matter-management]] to shade areas; tree roots deplete soil rapidly.
 - **Water in dry shade**: Areas under trees need supplemental watering, especially when establishing new plants.
 
 ## Related Concepts

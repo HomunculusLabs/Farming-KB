@@ -12,7 +12,7 @@ tags: [cannabis]
 
 ## Overview
 
-Manicuring is the process of removing leaves from cannabis buds after harvest to produce clean, visually appealing flower ready for consumption or [[cannabis-hashish-production]].
+Manicuring is the process of removing leaves from [[query-what-causes-airy-loose-cannabis-buds-and-how-to-prevent-them]] after harvest to produce clean, visually appealing flower ready for consumption or [[cannabis-hashish-production]].
 
 ## When to Manicure
 
@@ -56,7 +56,7 @@ Several factors degrade THC during and after manicuring:
 - Damp, humid conditions promote mold growth
 - Rough handling bruises and knocks off resin glands
 
-Keep temperatures below 70F (21C) during manicuring so essential oils do not volatilize and release unwanted fragrances. Filter air before expelling from manicuring rooms using a carbon filter. Contain cannabis fragrance in sealed manicuring rooms.
+Keep temperatures below 70F (21C) during manicuring so [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] do not volatilize and release unwanted fragrances. Filter air before expelling from manicuring rooms using a [[cervantes-ventilation-fan-carbon-filter-setup]]. Contain cannabis fragrance in sealed manicuring rooms.
 
 ## Pre-Harvest Preparation
 

@@ -31,7 +31,7 @@ Creating and managing habitat for native bees, butterflies, hummingbirds, and ot
 
 ## Native Bees
 
-North America has ~4000 native bee species. Most are solitary, non-aggressive, and far more efficient per-visit than honeybees for many crops.
+[[psilocybin-north-america-pacific-northwest]] has ~4000 native bee species. Most are solitary, non-aggressive, and far more efficient per-visit than honeybees for many crops.
 
 | Species | Nesting | Forage | Life Cycle | Notes |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ Managed pollinators with social colony structure. See [[beekeeping-basics]] for 
 
 - Provide diverse, uninterrupted bloom from early spring through late fall
 - Avoid insecticide application during bloom periods
-- Place hives with morning sun, afternoon shade, wind protection
+- Place hives with morning sun, afternoon shade, [[cervantes-wind-protection-outdoor-cannabis]]
 - Access to clean water within 0.25 miles
 - Forage needs: 2-4 acres of diverse bloom per hive for surplus honey
 
@@ -104,7 +104,7 @@ Plant both host plants (for caterpillars) and nectar plants (for adults). Avoid 
 - **Broad-spectrum sprays** (pyrethroids, organophosphates): kill pollinators directly. Never spray during bloom.
 - **Fungicides**: generally lower toxicity but some (captan, chlorothalonil) harm bee larvae in combination with other chemicals.
 - **Timing**: if spraying is necessary, apply after dusk when bees are inactive. Use products with short residual toxicity.
-- **Alternatives**: see [[insect-allies]] for biological controls (Bt, spinosad, neem — use with caution); [[cannabis-pest-management]] for IPM framework; hand-picking, row covers, companion planting.
+- **Alternatives**: see [[insect-allies]] for biological controls (Bt, spinosad, neem — use with caution); [[cannabis-pest-management]] for IPM framework; hand-picking, row covers, [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]].
 
 ## Seasonal Needs
 
@@ -123,8 +123,8 @@ Plant both host plants (for caterpillars) and nectar plants (for adults). Avoid 
 
 ## Integrating with Garden and Orchard
 
-- **Vegetable garden**: interplant flowers (calendula, borage, alyssum) between rows. Leave some crops to bolt (arugula, radish, cilantro) as bee forage.
-- **Orchard**: underplant with clover, dandelion, wildflowers as living mulch. See [[orchard-management]] for orchard floor management. Avoid tillage that destroys ground nests.
+- **[[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]**: interplant flowers (calendula, borage, alyssum) between rows. Leave some crops to bolt (arugula, radish, cilantro) as bee forage.
+- **Orchard**: underplant with clover, dandelion, wildflowers as living mulch. See [[orchard-management]] for [[fukuoka-orchard-floor-management]] management. Avoid tillage that destroys ground nests.
 - **Food forest**: diverse flowering layers provide continuous forage. See [[food-forest-layers-and-species]] for species lists.
 - **Companion planting**: specific pollinator-attracting companions per crop. See [[companion-planting-reference]].
 
@@ -132,6 +132,6 @@ Plant both host plants (for caterpillars) and nectar plants (for adults). Avoid 
 
 - [[beekeeping-basics]] — managed honeybee colonies, hive management, seasonal calendar
 - [[insect-allies]] — beneficial predatory insects, insectary plants, biological controls
-- [[companion-planting-reference]] — pollinator companion combinations, polyculture design
+- [[companion-planting-reference]] — pollinator companion combinations, [[aquatic-polyculture-design-mollison]]
 - [[food-forest-layers-and-species]] — flowering species across all 7 food forest layers
 - [[bee-products-beyond-honey]]

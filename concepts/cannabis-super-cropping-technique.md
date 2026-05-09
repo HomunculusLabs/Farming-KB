@@ -1,5 +1,5 @@
 ---
-title: Cannabis Super Cropping Technique
+title: Cannabis cannabis super cropping technique Technique
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Cannabis Grow Bible, Greg Green (Ch. 8, 9)
+Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, Greg Green (Ch. 8, 9)
 
 Super cropping is a high-stress training (HST) technique that involves intentionally damaging the stem to create a knuckle joint. This strengthens the branch, controls height, and can increase overall yield by creating a more even canopy and promoting lateral growth.
 
@@ -28,7 +28,7 @@ Super cropping is the practice of gently crushing and bending the stem of a cann
 
 ## When to Super Crop
 
-- **Timing**: During the vegetative stage, typically 3–6 weeks into growth
+- **Timing**: During the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]], typically 3–6 weeks into growth
 - **Plant readiness**: The plant should be healthy and actively growing with stems that are flexible but established
 - **Branch thickness**: Select branches that are thick enough to handle the technique — pencil thickness or greater
 - **Do NOT super crop**: Seedlings, sick or stressed plants, or plants in flowering (though mild bending is possible in early flower)
@@ -97,6 +97,6 @@ Green advises against super cropping during flowering, but notes:
 
 - [[cannabis-topping-training]] — topping and FIMing techniques
 - cannabis lst low stress training — low-stress training
-- [[cannabis-vegetative-stage]] — vegetative growth management
+- [[cannabis-vegetative-stage]] — [[cannabis-vegetative-growth-stage]] management
 - [[teaming-with-microbes-plant-control]]
 - [[first-time-grower-common-mistakes]]

@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and Colon Cancer (Colorectal Cancer)"
+title: "Cannabis and cannabis-and-colon-cancer-research (Colorectal Cancer)"
 created: 2026-04-26
 tags: [cannabis, colon-cancer, colorectal, oncology, endocannabinoid]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: concept
 
 # Cannabis and Colon Cancer (Colorectal Cancer)
 
-The Cannabis Health Index (CHI) provides an evidence-based rating system
+The [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI) provides an evidence-based rating system
 for evaluating the therapeutic potential of cannabis across various
 conditions. For colon cancer (colorectal cancer), the CHI scores 3
 studies with a combined CHI value of 4, indicating emerging but
@@ -38,7 +38,7 @@ exhibit similar symptoms.
 
 Hypothesized causes include cellular mutations by inheritance or dietary
 exposure to carcinogens. Other known aspects that increase the risk of
-developing colon cancer are the presence of colon polyps, irritable bowel
+developing colon cancer are the presence of colon polyps, [[blesching-cannabis-irritable-bowel-syndrome]]
 syndrome, and ulcerative colitis. Additional risk factors include smoking
 tobacco, use of alcohol, aged 50 or over, male gender, obesity, a
 sedentary lifestyle, the presence of other environmental carcinogens,
@@ -56,7 +56,7 @@ radiation, or surgery.
 ## Cannabis and Colon Cancer
 
 While other cancer-related studies have shown how cannabinoids can
-induce cancer cell death through apoptosis, both the Uppsala (2011) and
+induce [[blesching-cannabis-apoptosis-and-cancer-cell-death]] death through apoptosis, both the Uppsala (2011) and
 Bristol (2005) experiments indicated another possible mechanism involving
 the inhibition of the enzyme cyclooxygenase 2 (COX-2). The genetic and
 pharmacologic studies from Nashville (2008) demonstrated in part that
@@ -82,7 +82,7 @@ body's own) anandamide inhibited colon cancer cell proliferation in the
 laboratory. CB1 activation has been shown to reduce colon cancer in mice.
 
 Anandamide and THC activate both CB1 and CB2, while CBD has a greater
-affinity for CB2. Sativa strains with a higher THC:CBD ratio tend to
+affinity for CB2. Sativa strains with a higher THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]] tend to
 activate CB1 in greater proportions than indica strains with a generally
 lower THC:CBD ratio.
 
@@ -126,7 +126,7 @@ others.
 - **Saffron**: May possess anticancer activity including against colon
   adenocarcinoma
 - **Turmeric**: Anti-inflammatory properties supporting healing of
-  inflammatory bowel disease, ulcerative colitis, and adenomatous polyposis
+  [[blesching-cannabis-inflammatory-bowel-disease]] disease, ulcerative colitis, and adenomatous polyposis
 
 ## See Also
 

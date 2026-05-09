@@ -1,17 +1,14 @@
 ---
-title: "Williams Pdc Soils"
+title: "[[williams-pdc-additional-permaculture-principles]] Soils"
 created: 2026-05-02
 updated: 2026-05-02
 type: concept
-tags: [[permaculture]] design"
-tags: [[permaculture, soils, topsoil, erosion, earthen-construction,
-       soil-sampling, nutrient-cycle, microclimate]
+tags: bill-mollison-permaculture-a-designers-manual-permaculture-design-principles"
+tags: [permaculture, soils, topsoil, erosion, earthen-construction, soil-sampling, nutrient-cycle, microclimate]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+sources: [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 ---
-
 # Soils in [[composting]] old food, mulching prunings and clippings, and
 even harvesting their own human waste in sanitary fashion.
 
@@ -37,8 +34,8 @@ materials and stacked like bricks.
 
 ## Soil Sampling Techniques
 
-To determine soil types on your site, use a clear glass jar like a
-mason jar. Fill it about half way with soil, then fill the rest with
+To determine soil types on your site, use a clear [[sterile-spore-print-collection-glass-jar-technique]] like a
+[[mason-jar-preserving-guide]]. Fill it about half way with soil, then fill the rest with
 water, close the lid tight, and shake vigorously. After a day or so
 the soil will settle into layers with heavier types at the bottom.
 Measure each layer with a ruler to determine the percentages of each
@@ -54,7 +51,7 @@ samples remember to clearly mark where each sample is from.
 Soils affect the microclimate of your site. Good agricultural soil
 supports plant life which provides shading and cooling by
 evapotranspiration. Soils that will not support life tend to be bare
-and compacted, functioning as thermal mass. Soft, healthy soils
+and compacted, functioning as [[comparison-windbreak-vs-thermal-mass]]. Soft, healthy soils
 absorb water and slow its movement, while dry compacted soils cause
 water runoff. Understanding these effects allows the designer to
 harness them for ecological health.
@@ -65,7 +62,7 @@ harness them for ecological health.
   insects, mycelia, and nutrients that cycle continuously
 - Topsoil takes centuries to form but can be lost in moments:
   protecting this thin layer is one of the highest priorities in
-  permaculture design
+  [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
 ## Practical Considerations
 
 Successful implementation of Williams Pdc Soils requires attention to
@@ -84,4 +81,7 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[composting]]
+- [[rammed-earth]]
+- [[teaming-with-microbes-mulch-and-soil-food-web]]

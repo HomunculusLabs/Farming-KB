@@ -1,116 +1,149 @@
----
-title: Mushroom Contamination Control
-created: 2026-04-28
-tags: [[mycology, contamination, hygiene, mushroom-cultivation]
-date: 2026-04-28
-updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
-type: concept
----
-
 # Mushroom Contamination Control
 
-Contamination by competing microorganisms is the primary challenge in mushroom
-cultivation. Fungi, bacteria, and occasionally insects can colonize substrates and
-spawns, reducing or destroying yields. Effective contamination control combines
-preventive hygiene practices, proper [[trichoderma-harzianum]]* (green
-mold) is the most widespread, appearing as rapidly expanding green patches on substrate
-surfaces. It thrives in the same conditions as mushroom mycelium and is particularly
-damaging in supplemented substrates. *Aspergillus* and *Penicillium* species produce
-characteristic green, blue-green, or yellow spore masses. *Neurospora* (red bread mold)
-produces orange-red mycelium that spreads rapidly in warm, humid conditions.
+**Source:** PF TEK - [[pf-tek-psilocybe-fanaticus]]
+**Category:** Mycology
+**Tags:** mushroom-cultivation, contamination, sterilization, sterile-technique, pf-tek
 
-Bacterial contamination typically manifests as slimy, foul-smelling patches on grain
-spawn or substrate. *Bacillus* species are the most common bacterial contaminants,
-producing a distinctive sour or rotten odor. Bacterial wet spot in grain spawn is often
-caused by excessive moisture during grain preparation or inadequate sterilization.
+## Overview
 
-Yeast contaminants appear as white, creamy, or pinkish colonies on the substrate
-surface. While generally less aggressive than molds, heavy yeast contamination can
-impede mycelial growth and reduce yields. They are often introduced through poor
-hygiene or contaminated water sources.
+Contamination is the primary cause of failure [[contamination-prevention-in-mushroom-cultivation]]. Contaminant organisms — molds, bacteria, and yeasts — compete with the desired fungal mycelium for nutrients and space. In the PF TEK, several layered defenses work together to prevent contamination: the dry vermiculite barrier, steam sterilization, [[inoculation-technique-and-alcohol-flaming]] technique, and careful handling procedures. Understanding contaminant sources and how to identify them is essential for successful cultivation.
 
 ## Sources of Contamination
 
-Contaminant organisms are ubiquitous in the environment. Airborne spores are the most
-common vector, present in dust, on clothing, and in unfiltered air. Grain used for
-spawn preparation harbors its own load of spores and bacteria. Equipment, tools,
-containers, and work surfaces can harbor residual organisms if not properly cleaned and
-sanitized. Insects, particularly fungus gnats and mites, physically transport spores
-between substrates and can introduce contamination into otherwise clean growing areas.
+Contaminants can enter the cultivation process at multiple points:
 
-## Clean Room Design
+### Airborne Contaminants
+The most common source. Mold spores and bacteria are ubiquitous in indoor air. They settle on exposed substrates, especially during:
+- Substrate mixing and jar loading
+- Opening jars for inoculation
+- Removing cakes from jars for fruiting
+- Any procedure where sterile materials are exposed to open air
 
-Dedicated clean areas significantly reduce contamination rates. A laminar flow hood
-provides a localized zone of HEPA-filtered air for spawn preparation and inoculation,
-reducing airborne spore counts by 99.97% or greater. For facilities without laminar
-flow, still-air boxes (glove boxes) provide a rudimentary barrier against airborne
-contaminants. Walls and floors in clean areas should be smooth, non-porous, and easily
-cleanable. Positive air pressure with HEPA filtration keeps external air from entering
-the clean zone.
+### Equipment Contaminants
+- Unsterilized syringes or needles
+- Contaminated water used in the substrate
+- Dirty tools, surfaces, or containers
+- Non-sterile vermiculite or brown rice powder (rare but possible)
 
-## Sanitation Protocols
+### Operator-Introduced Contaminants
+- Breathing directly over open jars
+- Touching the needle tip or jar interior
+- Working in drafty or dusty environments
+- Failing to flame-sterilize the needle between jars
 
-A 70% isopropyl alcohol solution is the standard surface sanitizer for tools, containers,
-and work surfaces in [[oyster-mushroom-substrates]]
-- [[mushroom-cultivation-environments]]
-- [[biological-efficiency]]
-## Practical Considerations
+### Endogenous Contaminants
+- Surviving organisms from incomplete sterilization
+- Contaminants present in the substrate ingredients (particularly soil-contaminated vermiculite)
 
-When working with Mushroom Contamination Control, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
+## Identifying Contamination
 
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
+### Visual Signs
 
-Resource management encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
+Contaminant invaders appear in **various colors from pastels to black**. Common contaminant types:
 
-## Common Challenges and Solutions
+| Contaminant | Appearance | Stage | Notes |
+|---|---|---|---|
+| **Green mold** (Trichoderma) | Fast-spreading green patches | Any | Most common; very aggressive |
+| **Black mold** | Dark black spots or patches | Any | Often appears as pinpoints |
+| **Pink/bacteria** | Pinkish slimy areas | Early | Indicates bacterial contamination |
+| **Blue** | Bluish staining on mycelium/cake | Fruiting | May be bruising, not contamination |
+| **Yellow** | Yellowish slime or discoloration | Early | Often bacterial metabolites |
+| **White mold** | Thick white growth different from mycelium | Any | Cobweb mold; less aggressive |
+| **Orange/rust** | Orange-colored growth | Any | Less common but serious |
 
-Several recurring challenges tend to arise in work related to this
-topic. These include variability in environmental conditions, the
-complexity of multi-variable interactions, and the difficulty of
-predicting outcomes with certainty in dynamic systems. Anticipating
-these challenges enables more proactive and effective management.
+### Olfactory Signs
 
-Building resilience into implementations through diversity, redundancy,
-and adaptive capacity helps buffer against unpredictable events and
-conditions. This approach recognizes that some degree of uncertainty is
-inherent in working with natural systems and plans accordingly rather
-than assuming perfect predictability or control over outcomes.
+**Bacteria contamination** is detectable through the top dry vermiculite layer as a **sour foul odor** within two days after inoculation (accompanied by no spore germination). The rancid smell of bacteria can be easily detected by loosening the jar lid and checking for odor.
 
-Documentation and record-keeping support continuous improvement by
-creating a reference base of observations, interventions, and results.
-This accumulated knowledge enables progressively better decision-making
-and helps identify patterns that might otherwise be overlooked in the
-complexity of day-to-day management and observation activities.
+### Distinguishing Bruising from Contamination
 
-## Future Directions
+Psilocybe cubensis mycelium and fruiting bodies **bruise blue** when handled or injured. This bluing is a chemical reaction (oxidation of psilocin) and is not contamination. Key differences:
 
-Ongoing developments in research and practice continue to expand our
-understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
-that can enhance both the effectiveness and efficiency of implementation.
+- **Bruising:** Blue/blue-green color, localized to areas of physical contact, no fuzzy growth
+- **Contamination:** Other colors (green, black, pink), fuzzy or slimy texture, spreads over time
 
-Integration with other disciplines and approaches creates synergies that
-advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single domain.
+## Sterilization Methods
 
-For continued learning, recommended resources include current research
-publications, established practitioner networks, hands-on experimentation,
-and systematic observation of outcomes across different conditions and
-approaches. The combination of study and practice provides the strongest
-foundation for developing deep expertise and contributing to the field.
+### Steam Sterilization (PF TEK Standard)
 
+The PF TEK uses steam sterilization rather than [[comparison-pressure-canning-vs-water-bath-canning]]. This works because:
+
+- There is no grain to cook up — the substrate is airy and penetrable by steam
+- The dry vermiculite top layer provides additional protection
+- 1/2 pint jars are small enough for steam to fully penetrate
+
+**Procedure:**
+1. Place jars in a pot with a vegetable steamer insert to keep them off the bottom
+2. The jars can sit in water but boiling water must not slosh into them
+3. Heat to a boil, then turn heat down and **gently steam at the lowest possible boil**
+4. Steam for **1 hour** in a **tightly covered pot**
+5. A good tight-fitting pot lid is essential — gas stoves are easiest to control
+6. After steaming, let jars cool before inoculation
+
+**Important:** Be careful not to overheat the jars. Overheating dries the substrate, evidenced by OK spore germination but halted growth. The fungus will spread but stop at a certain point depending on how dry the substrate has become. Generally, any halted growth with no contamination is a sign of dried substrate.
+
+### Pressure Canner (Optional)
+
+A pressure canner can be used for more thorough sterilization but is not required for the PF TEK. It provides an extra margin of safety and is recommended when scaling up or when contamination rates are high.
+
+## The Control Jar Technique
+
+A diagnostic method to identify the source of contamination:
+
+1. After jars are steam sterilized, let them cool
+2. Tighten the lids and let them sit **uninoculated for several days**
+3. Watch for any colored growths or changes in substrate appearance
+4. Loosen jar lid and check for rancid bacterial odor
+
+**Interpreting results:**
+- **Contamination at this stage:** The [[boil-a-bag-pressure-sterilization-technique]] needs checking. Most likely the sterilization time was too short. Lengthen sterilization time.
+- **Jars remain clean:** They are ready for spore syringe inoculation
+- **Contamination after inoculation:** The syringe was contaminated, or the dry vermiculite layer was breached during inoculation
+
+## The Dry Vermiculite Barrier
+
+The PF TEK's most important contamination defense is the dry vermiculite layer at the top of each jar. This layer:
+
+- Physically blocks contaminant spores from reaching the wet nutritious substrate
+- Absorbs moisture that transpires upward from the substrate
+- Allows gas exchange through its porous structure
+- Regulates condensation within the jar
+
+During inoculation, the needle passes through this barrier to deliver spores to the substrate below. The barrier must be disturbed as little as possible during this process. After the needle is withdrawn, any disturbed vermiculite should be carefully moved back into place to ensure the substrate is not exposed to air.
+
+## Alcohol Flaming Technique
+
+Used to sterilize the syringe needle between inoculations:
+
+1. Place a tequila shotglass upside down
+2. Using an eyedropper, put a few drops of denatured alcohol fuel on the hollow bottom
+3. Touch it with a match or lighter to produce a short blue flame
+4. An alcohol flame is clean; butane lighters leave soot residue
+5. Heat the needle in the flame for a few seconds to re-sterilize
+6. There may be a few "pops" of boiling water from the needle, but spores within the syringe are safe
+
+## Safe Handling of Contaminated Jars
+
+If contamination is detected:
+
+1. **Do not open contaminated jars** — this releases spores into the [[cannabis-growing-environment-setup]]
+2. **Keep a safe distance** from contaminated substrate
+3. **Do not inhale** near contaminated jars
+4. **Wash hands thoroughly** after touching contaminated materials
+5. **Bacteria can be dangerous** — treat bacterial contamination with particular caution
+6. Dispose of contaminated jars by sealing them in plastic bags before discarding
+
+Contaminated jars should ideally be buried or disposed of far from the cultivation area to prevent spore buildup in the growing environment.
+
+## Prevention Best Practices
+
+- Work in a clean, draft-free area (a still-air box is ideal but not required)
+- Flame-sterilize the needle before each jar inoculation
+- Tape over needle holes during sterilization and incubation
+- Don't rush the inoculation process
+- Keep jars out of direct sunlight during incubation
+- Monitor jars daily for early signs of contamination
+## See Also
+- [[mushroom-cultivation-contamination-control]]
+- [[mushroom-growing-room-environmental-control]]
+- [[mushroom-training-environmental-control]]

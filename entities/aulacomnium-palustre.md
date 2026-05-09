@@ -50,7 +50,7 @@ The species is dioicous, with male and female reproductive structures on separat
 
 ## Distribution and Habitat
 
-Aulacomnium palustre has a circumboreal distribution across Europe, Asia, and North America. In Europe, it occurs from Scandinavia and the British Isles southward to the Alps and Carpathians, and eastward across Siberia.
+Aulacomnium palustre has a circumboreal distribution across Europe, Asia, and [[psilocybin-north-america-pacific-northwest]]. In Europe, it occurs from Scandinavia and the British Isles southward to the Alps and Carpathians, and eastward across Siberia.
 
 In North America, it ranges from Alaska across Canada to Newfoundland and the Great Lakes region, extending southward in mountainous areas to the Rocky Mountains and Appalachians. It is most abundant in boreal and subarctic regions.
 
@@ -64,7 +64,7 @@ The species also colonizes disturbed wetland sites including drainage ditches, p
 
 ## Ecology and Interactions
 
-Aulacomnium palustre contributes to peat formation in boreal wetlands. Although less productive than Sphagnum, its persistent stems and slow decomposition rate add to the organic matter accumulation that characterizes northern peatland ecosystems.
+Aulacomnium palustre contributes to peat formation in boreal wetlands. Although less productive than Sphagnum, its persistent stems and slow decomposition rate add to the [[hamilton-composting-and-organic-matter-management]] accumulation that characterizes northern peatland ecosystems.
 
 The species provides important microhabitat for wetland invertebrates including water mites, nematodes, and various insect larvae. Its turfs create elevated platforms above the water table that serve as feeding and refuge sites for small arthropods.
 

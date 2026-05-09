@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Brodo, I.M., Sharnoff, S.D., & Sharnoff, S. (2001). Lichens of North America. Yale University Press."
+  - "Brodo, I.M., Sharnoff, S.D., & Sharnoff, S. (2001). Lichens of psilocybin-north-america-pacific-northwest. Yale University Press."
   - "Vitikainen, O. (1994). Taxonomic revision of Peltigera (Lichenes) in Europe. Acta Botanica Fennica, 152, 1-96."
   - "Miadlikowska, J. et al. (2003). Phylogenetic placement of the Peltigeraceae. Mycologia, 95(6), 1036-1050."
 ---
@@ -45,7 +45,7 @@ The cyanobacterial partner *Nostoc* is localized in dark cephalodia on the upper
 
 ## Distribution and Habitat
 
-*Peltigera leucophlebia* has a circumboreal distribution across the Northern Hemisphere. It occurs throughout Canada, Alaska, the northern continental United States, Scandinavia, northern Europe, and Siberia.
+*Peltigera leucophlebia* has a circumboreal distribution across the Northern Hemisphere. It occurs throughout Canada, Alaska, the northern continental [[dmt-containing-plants-united-states-halpern]], Scandinavia, northern Europe, and Siberia.
 
 The species is found in moist, shaded habitats including coniferous and mixed forests, stream banks, mossy rock outcrops, and damp ground in subalpine meadows. It prefers areas with consistent moisture and moderate light levels.
 
@@ -59,11 +59,11 @@ Elevation range extends from lowland forests at sea level to approximately 2,500
 
 *Peltigera leucophlebia* is a tripartite lichen, hosting both a trebouxioid green alga in the main thallus and *Nostoc* cyanobacteria in specialized cephalodia. The green alga provides the majority of photosynthate under normal conditions.
 
-The cyanobacterial partner enables atmospheric nitrogen fixation, converting atmospheric N₂ into bioavailable ammonia. Nitrogen fixation rates in *Peltigera* species can reach 1–3 kg N per hectare per year in productive stands.
+The cyanobacterial partner enables atmospheric [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], converting atmospheric N₂ into bioavailable ammonia. Nitrogen fixation rates in *Peltigera* species can reach 1–3 kg N per hectare per year in productive stands.
 
 Nitrogen fixation activity is strongly temperature-dependent, with optimal rates occurring between 15–25°C. Activity ceases below 5°C and declines sharply above 30°C due to cyanobacterial thermal sensitivity.
 
-Moisture is critical for metabolic activity in all *Peltigera* species. *P. leucophlebia* is particularly sensitive to desiccation and requires sustained periods of hydration for active photosynthesis and nitrogen fixation.
+Moisture is critical for [[arbuscule-isolation-metabolic-activity-assays]] in all *Peltigera* species. *P. leucophlebia* is particularly sensitive to desiccation and requires sustained periods of hydration for active photosynthesis and nitrogen fixation.
 
 Gas exchange measurements indicate that net photosynthesis resumes within minutes of rewetting after moderate desiccation events. However, prolonged drought periods exceeding several weeks can cause permanent photobiont damage.
 
@@ -71,11 +71,11 @@ The species contributes significantly to forest nitrogen budgets, particularly i
 
 ## Chemistry and Traditional Uses
 
-*Peltigera leucophlebia* contains tenuiorin and methyl gyrophorate as primary secondary metabolites. These depsidones are detectable by thin-layer chromatography and serve as chemotaxonomic markers.
+*Peltigera leucophlebia* contains tenuiorin and methyl gyrophorate as primary [[antifungal-secondary-metabolites-coprophilous-fungi]]. These depsidones are detectable by thin-layer chromatography and serve as chemotaxonomic markers.
 
 Spot test reactions are typically K−, C−, KC−, Pd+ yellow to orange. The chemistry is relatively simple compared to other *Peltigera* species that may contain peltigerin or other complex metabolites.
 
-The species has documented use in traditional Chinese medicine as a treatment for digestive ailments and hemorrhoids. Preparations typically involve boiling dried thalli to extract bioactive compounds.
+The species has documented use in traditional Chinese medicine as a treatment for digestive ailments and hemorrhoids. Preparations typically involve boiling dried thalli to extract [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]].
 
 Indigenous peoples of northern Europe historically used *Peltigera* species as food during famines, though the lichens require extensive leaching to remove bitter triterpenes and lichen acids. They were sometimes mixed with flour in bread preparations.
 

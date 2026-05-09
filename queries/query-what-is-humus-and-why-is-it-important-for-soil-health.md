@@ -11,9 +11,9 @@ type: query
 # What Is Humus and Why Is It Important for Soil Health
 
 ## Short Answer
-Humus is the dark, stable, carbon-rich organic matter that remains after plant
+Humus is the dark, stable, carbon-rich [[hamilton-composting-and-organic-matter-management]] that remains after plant
 and animal residues have been fully decomposed by soil organisms. It is the
-cornerstone of soil fertility, providing cation exchange capacity for nutrient
+cornerstone of soil fertility, providing [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity for nutrient
 retention, improving soil structure and water-holding capacity, supporting
 microbial life, and sequestering carbon for decades to centuries.
 
@@ -27,9 +27,9 @@ process, humus represents the fully decomposed, stable end product. It is a
 complex mixture of large carbon-based molecules that resist further breakdown,
 persisting in soil for hundreds or even thousands of years. The
 [[teaming-with-microbes-humus-formation-and-glomalin]], fungal hyphae break
-down complex organic compounds and reassemble them into humic substances,
+down complex [[fungal-volatile-organic-compounds-communication]] and reassemble them into humic substances,
 including humic acids, fulvic acids, and humin. A particularly important fungal
-contribution is glomalin, a glycoprotein produced by arbuscular mycorrhizal
+contribution is glomalin, a glycoprotein produced by [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]]
 fungi that acts as a biological glue binding soil particles into stable
 aggregates. Glomalin is remarkably persistent, contributing to soil structure
 for decades after the fungi that produced it have died.
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

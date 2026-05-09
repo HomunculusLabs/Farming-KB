@@ -1,5 +1,5 @@
 ---
-title: Zone 3 - Farm Forestry and Broadacre Systems
+title: Zone 3 - mollison-farm-forestry-and-woodlot-design and Broadacre Systems
 created: 2026-04-28
 tags:
   - permaculture
@@ -16,14 +16,14 @@ type: concept
 
 # Zone 3 - Farm Forestry and Broadacre Systems
 
-Zone 3 in the [[holmgren-food-forests-agroforestry]] for
+Zone 3 in the holmgren-food-forests-agroforestry for
 the broader context.
 
 ## Pasture and Grazing Systems
 
-Mollison advocates managed rotational grazing as the primary pasture system.
+Mollison advocates managed [[comparison-rotational-grazing-vs-continuous-grazing]] as the primary pasture system.
 Key principles include:
-- High stock density for short periods, followed by long recovery periods
+- High [[savory-fencing-economics-and-stock-density-curve]] for short periods, followed by long recovery periods
 - Moving stock frequently (daily to weekly) using electric fencing
 - Rest periods long enough for grass recovery (30-90 days depending on
   season)
@@ -32,7 +32,7 @@ Key principles include:
 Pasture species mixes include clovers (white, red, subterranean), lucerne,
 chicory, plantain, cocksfoot, and native grasses adapted to local conditions.
 Diversity in pasture composition improves animal nutrition, extends the
-growing season, and builds soil carbon. This connects to holistic grazing
+[[savory-growing-season-and-non-growing-season-management]], and builds soil carbon. This connects to holistic grazing
 and soil building practices.
 
 ## Livestock Integration
@@ -58,13 +58,13 @@ disturbance.
 
 Zone 3 crops are typically staple foods and animal feeds: grains, legumes,
 root crops, and oilseeds. Mollison recommends:
-- Alley cropping: rows of trees (nut, timber, or fodder) with crops in
+- [[comparison-alley-cropping-vs-silvopasture]]: rows of trees (nut, timber, or fodder) with crops in
   between
 - Pasture cropping: direct-drilling annual crops into living perennial
   pasture
 - Strip cropping: alternating strips of different crops to reduce pest and
   disease spread
-- Cover cropping and green manuring between cash crops
+- [[fukuoka-clover-cover-cropping-soil-ecology]] and green manuring between cash crops
 
 Perennial staple crops like chestnuts, acorns, and edible bamboos reduce the
 need for annual tillage. See perennial agriculture for expanded
@@ -84,7 +84,7 @@ cover crops. Windbreak protection is essential -- see [[farm-forestry-design-mol
 ## Dams and Water Storage
 
 Zone 3 is the primary location for large-scale water storage. Dams are sited
-in valleys using [[permaculture-slope-analysis-and-reading]] and [[mollison-windbreak-design]] for regional
+in valleys using [[permaculture-slope-analysis-and-reading]] and mollison-windbreak-design for regional
 recommendations.
 
 ## Fencing, Infrastructure and Nutrient Cycling
@@ -95,3 +95,9 @@ paddocks to handling facilities, water points, and the Zone 2/3 boundary.
 Zone 3 aims for closed nutrient cycles: livestock manure returned to pasture,
 crop residues composted, legumes fixing nitrogen, deep-rooted plants mining
 subsoil, and water carrying nutrients from upper to lower zones. External
+## See Also
+- [[mollison-designers-climate-zone-4-forage-gathering]]
+- [[mollison-designers-climate-zone-5-wilderness-conservation]]
+- [[mollison-designers-climate-zone-1-intensive-garden]]
+- [[mollison-designers-climate-zone-2-orchard-food-forest]]
+- [[alley-cropping]]

@@ -14,7 +14,7 @@ sources:
 
 # Cactus Alkaloids Reference
 
-A comprehensive reference to the alkaloids found in psychoactive cacti, primarily those of the genus peyote-cultivation|lophophora (peyote), [[san-pedro-cactus-preparation]] (*Trichocereus pachanoi*), and several other [[mescaline-compound-profile]] and [[psychoactive-cacti-of-central-mexico]] species. Also found in *Acacia* species. Has pressor action with low toxicity.
+A comprehensive reference to the alkaloids found in [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]], primarily those of the genus peyote-cultivation|lophophora (peyote), [[san-pedro-cactus-preparation]] (*Trichocereus pachanoi*), and several other [[mescaline-compound-profile]] and [[psychoactive-cacti-of-central-mexico]] species. Also found in *Acacia* species. Has pressor action with [[fukuoka-low-toxicity-pesticide-deception]].
 
 - **Synephrine** (N-methyl-4-hydroxy-β-phenethylamine): Found in citrus plants, some cacti, and human urine. A well-known sympathomimetic agent and probable intermediary in the phytosynthesis of macromerine.
 
@@ -38,7 +38,7 @@ Several cactus alkaloids are classified as sympathomimetic amines, meaning they 
 
 - **N-methyltyramine**: Found in some cacti and mutated barley roots. Probably an intermediate step in the methylation of tyramine to form candicine.
 
-- **3-methoxytyramine**: A phenolic β-phenethylamine first identified in the plant kingdom in San Pedro cactus.
+- **3-methoxytyramine**: A phenolic β-phenethylamine first identified in the plant kingdom in San [[san-pedro-cactus-history]].
 
 - **Metanephrine**: A weak sympathomimetic found in *Coryphantha* species.
 
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

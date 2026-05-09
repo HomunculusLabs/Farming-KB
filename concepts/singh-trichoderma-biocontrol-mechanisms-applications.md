@@ -1,5 +1,5 @@
 ---
-title: Trichoderma Biocontrol Mechanisms and Applications
+title: ingham-trichoderma-biocontrol-fungi-aact Mechanisms and Applications
 created: 2026-04-28
 tags: [biocontrol, Trichoderma, mycoparasitism, induced-resistance]
 date: 2026-04-25
@@ -15,21 +15,21 @@ Trichoderma species represent the most widely studied and commercially
 deployed fungal biocontrol agents worldwide. Singh's treatment of
 Trichoderma within the mycoremediation framework emphasizes the genus as
 a multifunctional organism combining direct pathogen suppression with
-plant growth promotion and soil bioremediation capabilities. Species
+plant [[brassinosteroid-growth-promotion-psilocybe-cubensis]] and soil bioremediation capabilities. Species
 including [[trichoderma-viride]],
 [[integrated-pest-management]] and soil
-bioremediation strategies.
+[[comparison-bioremediation-strategies-vs-biostimulation-techniques]].
 
 ## See Also
 
 - [[singh-entomopathogenic-fungi-biocontrol-agents]]
 
 - [[singh-fungal-consortia-synergistic-biodegradation]] - Trichoderma in mixed
-  culture systems for enhanced pollutant degradation
-- fungal enzyme production induction - Regulation of hydrolytic enzyme
+  culture systems for [[staycare-fungal-consortia-for-enhanced-pollutant-removal]] degradation
+- fungal [[ligninolytic-enzyme-production-bioremediation]] induction - Regulation of hydrolytic enzyme
   systems in Trichoderma biocontrol activity
 - bioremediation technologies overview - Context for biocontrol within
-  broader biological remediation frameworks
+  broader [[combined-biological-remediation-approaches]] frameworks
 ## Practical Applications
 
 Trichoderma Biocontrol Mechanisms and Applications has a range of practical applications that make it relevant to
@@ -107,4 +107,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

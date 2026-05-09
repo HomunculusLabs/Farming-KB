@@ -10,7 +10,7 @@ tags: [composting]
 
 # Compost Tea Microscope Analysis (Ingham Field Guide)
 
-The Ingham Field Guide strongly advocates direct microscopy over plate count methods for assessing compost tea biology. The Soil Foodweb Inc. (SFI) approach uses direct observation to measure active and total biomass of all organism groups.
+The Ingham Field Guide strongly advocates direct microscopy over plate count methods for assessing compost tea biology. The Soil Foodweb Inc. (SFI) approach uses [[fukuoka-direct-observation-method]] to measure active and total biomass of all organism groups.
 
 ## Direct Microscopy vs. Plate Counts
 
@@ -31,18 +31,18 @@ Dr. Eric Nelson at Cornell University has documented that there is no relationsh
 The SFI direct microscopy assay provides:
 
 - Active and total bacterial biomass (micrograms per ml)
-- Active and total fungal biomass (micrograms per ml), with hyphal diameter and length measurements
+- Active and total [[bioremediation-fungal-biomass-biosorbent-material]] (micrograms per ml), with hyphal diameter and length measurements
 - Fungal levels above 2 micrograms per ml provide good control of mildew, Verticillium, and blight
 - Protozoa numbers (flagellates, amoebae, ciliates)
 - Nematode numbers, identified by functional group (bacterial-feeders, fungal-feeders, root-feeders, predators)
-- Mycorrhizal colonization percentage, differentiating VAM from ericoid or ectomycorrhizal types
+- [[arbuscular-mycorrhizal-colonization-patterns]] percentage, differentiating VAM from ericoid or ectomycorrhizal types
 - Root disease assessment -- percent of root system with unknown fungi or necrotic conditions
 
 ## Activity Staining
 
 The activity stain is critical: it differentiates organisms that are alive and performing their functions from dormant or dead organisms. This distinction matters because:
 - Total biomass includes both active and inactive organisms
-- Only active organisms provide disease suppression, nutrient cycling, and soil building
+- Only active organisms provide [[aact-disease-suppression-mechanisms-ingham]], [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and soil building
 - Organisms that have gone "to sleep" (dormant) are not effectively protecting the plant
 
 ## Nematode Identification
@@ -76,13 +76,15 @@ To determine sprayer effects on organisms:
 
 ## SFI Lab Testing
 
-SFI offers microbiological analysis ($252 as of the Field Guide) covering active and total bacterial and fungal biomass, protozoa, and nematodes. Samples are sent to SFI labs in Corvallis, OR or Port Jefferson Station, NY. Each sample includes 15 minutes of consulting time.
+SFI offers microbiological analysis ($252 as of the Field Guide) covering active and total [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] biomass, protozoa, and nematodes. Samples are sent to SFI labs in Corvallis, OR or Port Jefferson Station, NY. Each sample includes 15 minutes of consulting time.
 
 ## Future: Beneficial Organism Assay
 
 SFI was developing a Beneficial Organism Assay to determine whether specific beneficial bacterial species are present in soil, compost, or tea, directing users to companies selling inocula for missing organisms. Molecular methods for bacterial and fungal species identification were also in development.
 
 ## See Also
+
+- [[ingham-field-guide-compost-tea-application-rates]]
 
 - [[aact-compost-organism-levels]]
 - [[aact-compost-quality-standards-ingham]]

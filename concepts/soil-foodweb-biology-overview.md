@@ -2,7 +2,7 @@
 
 ## Overview
 The soil foodweb is the complex community of organisms living in soil that interact
-through predation, competition, and symbiosis to drive nutrient cycling, disease
+through predation, competition, and symbiosis to drive [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], disease
 suppression, and soil structure formation. Dr. [[actively-aerated-compost-tea]] (AACT) application.
 
 ## The Foodweb Concept
@@ -18,7 +18,7 @@ and ecological roles.
 
 ### Bacteria
 Bacteria are the most numerous organisms in most soils, typically numbering in the
-billions per gram. They are the primary decomposers of simple organic compounds
+billions per gram. They are the primary decomposers of simple [[fungal-volatile-organic-compounds-communication]]
 (sugars, amino acids, proteins) and play a dominant role in the initial stages of
 organic matter breakdown. Bacterial biomass is particularly important in agricultural
 soils and in the rhizosphere (the zone of soil immediately surrounding plant roots),
@@ -38,7 +38,7 @@ and cellulose. [[endophytic-fungi]] that colonize plant tissues. Pathogenic fung
 but are normally held in check by competition and predation from other foodweb
 organisms when the foodweb is balanced. Calcium availability is particularly
 important for fungal growth — soils deficient in calcium tend to have suppressed
-fungal communities.
+[[biodiversity-of-fungi-soil-fungal-communities-agriculture]].
 
 ### Protozoa
 Protozoa are single-celled predators that feed on bacteria, releasing plant-available
@@ -62,12 +62,12 @@ adequate numbers of predators and competitors.
 A healthy soil should contain diverse communities of all three feeding types.
 Ingham recommends a minimum of six species of bacterial-feeding nematodes, six
 species of fungal-feeding nematodes, and two species of predatory nematodes for
-adequate biological control and nutrient cycling.
+adequate [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] and nutrient cycling.
 
 ### Microarthropods and Earthworms
 Microarthropods (springtails, mites) and earthworms are the larger organisms in the
 soil foodweb, functioning as shredders and predators. They break down coarse organic
-matter, creating surface area for bacterial and fungal colonization, and their
+matter, creating surface area for [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] colonization, and their
 burrowing activity creates channels that improve soil aeration and water infiltration.
 Earthworms are particularly important in no-till systems, where their populations
 can become very large and contribute significantly to soil structure and fertility.
@@ -119,6 +119,6 @@ active fungi, protozoa (by group), and nematodes (by feeding type).
 - [[fungal-mycelial-networks-nutrient-translocation]]
 
 ## Sources
-- Ingham, E.R. (2004). The Field Guide for actively aerated compost tea (AACT).
+- Ingham, E.R. (2004). The Field Guide for actively [[actively-aerated-compost-tea-aact-brewing]] tea (AACT).
   Sustainable Studies Institute.
 - Ingham, E.R. & Rollins, C.A. Soil Foodweb Inc. publications.

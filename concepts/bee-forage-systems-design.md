@@ -8,7 +8,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/a-guide-to-home-scale-permaculture-gaias-
 ---
 # Bee Forage Systems Design
 
-A bee forage system is a deliberately designed assemblage of plants that provides nectar and pollen across as many months of the year as possible. In [[berry-fruit-production-in-permaculture]].
+A bee forage system is a deliberately designed assemblage of plants that provides nectar and pollen across as many months of the year as possible. In berry-fruit-production-in-permaculture.
 
 ## Seasonal Flowering Calendar
 
@@ -23,12 +23,12 @@ A bee forage system is a deliberately designed assemblage of plants that provide
 ### Spring (September-November)
 - **Prunus spp**: Nectar and pollen
 - **Eucalyptus**: E. camaldulensis, E. cornuta, E. diversicolor, E. globulus, E. patens
-- **Clovers**: Up to 400 kg/ha nitrogen yield; crimson clover particularly high
+- **Clovers**: Up to 400 kg/ha nitrogen yield; [[comparison-lupin-vs-crimson-clover-green-manure]] particularly high
 - **Lucerne**: Very long flowering period begins; 78-285 kg/ha/day
 - **Tagasaste**: Nectar and pollen through winter into spring
 - **Willows**: Nectar/pollen depending on sex of tree
 - **Citrus**: High honey producers
-- **Japanese raisin tree**: Spring honey plant
+- **[[permaculture-japanese-raisin-tree-hovenia-dulcis]] tree**: Spring honey plant
 
 ### Summer (December-February)
 - **Eucalyptus**: E. calophylla (marri -- major WA producer), E. cornuta, E. diversifolia, E. dumosa, E. eremophila, E. ficifolia
@@ -61,7 +61,7 @@ Introduce bee forage plants directly into pasture:
 - These also serve as [[nitrogen-fixing-trees-and-shrubs]]
 
 ### Orchard Understory
-Plant bee forage beneath fruit trees:
+Plant bee forage beneath [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]:
 - Tagasaste and lucerne as universal fruit tree companions
 - Garlic, chives, and herbs for additional bee attraction
 - Allow some herbs to flower (see [[edible-aquatic-plants]] at pond edges provide additional forage:
@@ -79,11 +79,11 @@ Plant bee forage beneath fruit trees:
 
 ## Integration Notes
 
-- Progressive rotational grazing of tagasaste maximizes its flowering period
+- Progressive [[comparison-rotational-grazing-vs-continuous-grazing]] of tagasaste maximizes its flowering period
 - Willows flower when few other plants are blooming -- critical for early-season bee support
 - Deciduous trees allow understorey bee plants to grow over winter
-- Combine bee forage design with [[pollinator-habitat]] for habitat design principles
+- Combine bee [[free-range-poultry-forage-design-mollison]] with [[pollinator-habitat]] for habitat [[holmgren-permaculture-twelve-design-principles-framework]]
 
 ## See Also
 
-- [[faires-pasture-forage-tree-systems]]
+- faires-pasture-forage-tree-systems

@@ -11,7 +11,7 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - TGA Subcool Seeds breeding documentation and strain descriptions.
+  - TGA Subcool Seeds breeding documentation and cannabis-african-indian-strain-descriptions-clarke.
   - Leafly Strain Database. "Agent Orange." https://www.leafly.com/strains/agent-orange
   - AllBud Strain Reviews. "Agent Orange." https://www.allbud.com/
   - Mudge, E.M. et al. (2018). "Cannabis: Evolution and Ethnobotany."
@@ -20,10 +20,10 @@ sources:
 
 ## Overview
 
-Agent Orange is a sativa-dominant hybrid cannabis strain bred by TGA Subcool
+Agent Orange is a sativa-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] bred by TGA Subcool
 Seeds (Subcool's The Green Avengers). It was created by crossing Orange Velvet
 Skunk with Jack the Ripper, two strains known for their potency and distinct
-terpene profiles.
+[[cannabis-terpene-profiles-sativa]].
 
 The strain earned its name from its signature bright orange aroma and its
 powerful, fast-acting effects rather than any connection to the defoliant.
@@ -70,7 +70,7 @@ the most reliably orange-flavored cultivars available.
 
 **Myrcene** (dominant, ~0.8–1.2%): Contributes to the relaxing body
 effects and herbal undertone. Modulates the overall psychoactive
-experience through entourage effects with cannabinoids.
+experience through [[beta-caryophyllene-entourage-effects-cannabis]] with cannabinoids.
 
 **Limonene** (prominent, ~0.6–1.0%): Primary driver of the citrus aroma
 and flavor. Limonene is associated with mood elevation, stress relief,
@@ -129,10 +129,11 @@ approximately 350–450 g/m² indoors.
 
 The strain responds well to LST (low-stress training) and SCROG methods.
 It is relatively resistant to mold and pests but can be sensitive to
-nutrient burn, particularly nitrogen excess in late flowering.
+[[cannabis-nutrient-burn-and-toxicity]], particularly nitrogen excess in late flowering.
 
 ## See Also
 
-[[chemdawg]], [[tangie]],
-[[green-crack]], [[cinex]]
+[[chemdawg]], tangie,
+[[green-crack]], cinex
 for comparison with other citrus-aroma and sativa-dominant strains.
+- [[jadam-nutrient-management-wetting-agent-and-calcium]]

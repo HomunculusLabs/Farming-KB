@@ -1,5 +1,5 @@
 ---
-title: Beneficial Insects Guide
+title: comparison-beneficial-insects-guide-vs-integrated-pest-management Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Beneficial Insects Guide
 
-Beneficial insects are predatory, parasitic, or pollinating insects that provide essential services in the garden and farm. They control pest populations, pollinate crops, and contribute to a balanced ecosystem. Attracting and conserving beneficial insects is a cornerstone of integrated pest management (IPM) and organic growing.
+Beneficial insects are predatory, parasitic, or pollinating insects that provide essential services in the garden and farm. They [[query-how-do-parasitoid-wasps-control-pest-populations]] populations, pollinate crops, and contribute to a balanced ecosystem. Attracting and conserving beneficial insects is a cornerstone of [[natural-farming-guide-integrated-pest-management]] management (IPM) and organic growing.
 
 ## Predatory Insects
 
@@ -18,7 +18,7 @@ Beneficial insects are predatory, parasitic, or pollinating insects that provide
 Both adults and larvae are voracious predators of aphids, mealybugs, scale insects, and soft-bodied pests. A single ladybug can consume 50-60 aphids per day; larvae consume up to 1,000 aphids during their development.
 
 **Species to Know:**
-- **Convergent ladybug (Hippodamia convergens)**: Most common released species. Native to North America. Migratory — many released ladybugs fly away within days.
+- **Convergent ladybug (Hippodamia convergens)**: Most common released species. Native to [[psilocybin-north-america-pacific-northwest]]. Migratory — many released ladybugs fly away within days.
 - **Multicolored Asian lady beetle (Harmonia axyridis)**: Very effective predator but can become a nuisance indoors in fall. Not native; may outcompete native species.
 
 **How to Attract and Retain:**
@@ -79,11 +79,11 @@ Tiny (1/16 inch) but extremely effective predators of thrips, spider mites, aphi
 
 ### predatory Mites (Phytoseiidae)
 
-Microscopic predators of spider mites, thrips, and other small arthropods. Essential for greenhouse and indoor growing where spider mites are a chronic problem.
+Microscopic predators of spider mites, thrips, and other small arthropods. Essential for greenhouse and [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]] where spider mites are a chronic problem.
 
 **Key Species:**
 - **Phytoseiulus persimilis**: Specialized spider mite predator. Consumes 5-20 spider mites per day. Prefers humid conditions (60-90% RH).
-- **Neoseiulus californicus**: More generalist; tolerates wider temperature and humidity ranges. Survives on pollen when prey is scarce.
+- **Neoseiulus californicus**: More generalist; tolerates wider [[greg-green-temperature-and-humidity-control]] ranges. Survives on pollen when prey is scarce.
 - **Amblyseius cucumeris**: Primary thrips predator. Also feeds on spider mites.
 
 **How to Attract and Maintain:**
@@ -139,51 +139,6 @@ Over 4,000 species of native bees in North America. Many are more efficient poll
 - **Mason bees (Osmia spp.)**: Solitary bees that nest in hollow stems or holes. Extremely efficient pollinators — 250 mason bees can pollinate as many apples as 20,000 honeybees. Provide mason bee houses (blocks with 5/16 inch holes).
 - **Sweat bees (Halictidae)**: Small, often metallic-colored bees attracted to human sweat. Excellent generalist pollinators.
 - **Leafcutter bees (Megachile spp.)**: Solitary bees that cut circular pieces from leaves to line their nests. Excellent alfalfa pollinators.
-
-### How to Attract Pollinators
-
-- **Provide continuous bloom**: Plant flowers that bloom from early spring through late fall
-- **Plant native species**: Native bees co-evolved with native plants and are most attracted to them
-- **Provide nesting habitat**: Leave some bare ground for ground-nesting bees; provide hollow stems, dead wood, and mason bee houses for cavity nesters
-- **Avoid pesticides**: Even organic pesticides can harm bees. Apply sprays only in the evening when bees are not foraging.
-- **Provide water**: A shallow dish with pebbles (bees need landing platforms) provides drinking water
-- See [[insectary-plantings]] for detailed plant lists
-
-## Creating Beneficial Insect Habitat
-
-### The Insectary Garden
-
-Dedicate a portion of the garden (5-10%) to plants that support beneficial insects year-round. See [[insectary-plantings]] for plant selection.
-
-### General Habitat Principles
-
-1. **Plant diversity**: Include flowers from multiple plant families, especially umbellifers (Apiaceae) and composites (Asteraceae)
-2. **Continuous bloom**: Something flowering from March through November
-3. **Minimize disturbance**: Reduce tilling, mowing, and clean-up that destroys overwintering habitat
-4. **Provide water**: Shallow water sources with landing platforms
-5. **Provide shelter**: Leaf litter, log piles, stone walls, insect hotels, and perennial grasses
-6. **Eliminate pesticides**: Accept some pest damage as the cost of supporting beneficial populations
-
-### Insect Hotels
-
-Constructed shelters that provide nesting sites for solitary bees, ladybugs, lacewings, and other beneficial insects.
-
-- Fill with hollow bamboo stems, drilled wood blocks, pinecones, and straw
-- Hang in a sheltered, south-facing location
-- 5/16 inch holes for mason bees; smaller holes (1/8 inch) for leafcutter bees
-- Replace nesting materials annually to prevent disease buildup
-
-## Purchasing Beneficial Insects
-
-When to purchase vs. attract:
-
-| Situation | Recommended Action |
-|-----------|-------------------|
-| Chronic greenhouse pest | Purchase and release specific predators |
-| Occasional outdoor pest outbreak | Focus on attracting and conserving natives |
-| Heavy infestation | Purchase for immediate control, plant insectaries for long-term prevention |
-| New garden with no established insect populations | Purchase and release while building habitat |
-
 ## Related Topics
 
 - [[insectary-plantings]] for plant selection to attract beneficials

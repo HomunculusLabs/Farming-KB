@@ -5,7 +5,7 @@
 
 Elaine Ingham describes soil biological succession as a predictable progression
 from bacterial-dominated to fungal-dominated communities following disturbance.
-This succession parallels classical ecological succession theory but operates at
+This succession parallels classical [[holmgren-ecological-succession-and-pulsing]] theory but operates at
 the microbial scale. Understanding where a soil sits on this successional
 gradient is essential for managing soil health and selecting appropriate
 amendments, including compost tea formulations.
@@ -19,7 +19,7 @@ Soil food web development follows a general pattern:
    present initially, building the foundation for subsequent community assembly.
 
 2. **Adding bacterial species** — Bacterial diversity increases as different
-   species colonize available niches. The bacterial community becomes more complex
+   species colonize available niches. The [[core-endorhiza-bacterial-community-composition-cannabis]] becomes more complex
    and competitive.
 
 3. **Protozoa arrive** — Flagellates, amoebae, and ciliates begin grazing on
@@ -57,7 +57,7 @@ Different crops prefer different successional stages:
 
 - **Early successional crops** (annual vegetables, weeds, row crops) thrive
   in bacterial-dominated soils. These plants evolved in disturbed environments
-  and their root systems are adapted to bacterial-dominated nutrient cycling.
+  and their root systems are adapted to bacterial-dominated [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 - **Late successional plants** (perennials, trees, shrubs) require
   fungal-dominated soils. Their root systems depend on mycorrhizal associations
@@ -77,13 +77,13 @@ AACT can be formulated to either maintain or shift the successional position:
   dominance, appropriate for vegetable crops and disturbed sites.
 - **Fungal teas** (fish hydrolysate, [[soil-foodweb-balancing-protocol-ingham]] Inc. (SFI) labs to
 assess the current biological state and track changes over time. The assessment
-includes total and active bacterial and fungal biomass, protozoan counts, and
-nematode community analysis. This data guides both compost tea formulation and
+includes total and active [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] biomass, protozoan counts, and
+nematode [[rhizosphere-fungal-community-analysis-rrna-rdna]]. This data guides both compost tea formulation and
 broader soil management decisions.
 
 ## See Also
 
-- [[bacterial-vs-fungal-compost-teas]]-[[field-guide-psilocybin-bluing-reaction-identification]] for Actively Aerated Compost Tea (AACT)*.
+- [[bacterial-vs-fungal-compost-teas]]-[[field-guide-psilocybin-bluing-reaction-identification]] for Actively [[actively-aerated-compost-tea]] Tea (AACT)*.
   Soil Foodweb Inc.
 - Ingham, E. et al. (2000). Soil food web analysis as a tool for assessing
   [[soil-quality-fungal-bioindicators]]. *Applied Soil Ecology* 15: 233-242.

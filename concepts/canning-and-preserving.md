@@ -9,7 +9,7 @@ sources: []
 
 # Canning and Preserving
 
-Canning is a heat-based food preservation method that destroys microorganisms and creates a vacuum seal in jars, making food shelf-stable at room temperature for 1-5 years. There are two primary methods: water bath canning for high-acid foods and pressure canning for low-acid foods. Understanding which method to use for each food is critical for safety.
+Canning is a heat-based food preservation method that destroys microorganisms and creates a vacuum seal in jars, making food shelf-stable at room temperature for 1-5 years. There are two primary methods: water [[water-bath-canning-guide]] for high-acid foods and [[comparison-pressure-canning-vs-water-bath-canning]] for low-acid foods. Understanding which method to use for each food is critical for safety.
 
 ## Botulism Safety
 
@@ -74,7 +74,7 @@ Water bath canning is appropriate for high-acid foods with a pH of 4.6 or below.
 
 ## Pressure Canning
 
-Pressure canning is required for all low-acid foods. A pressure canner reaches 240-250 F (at 10-15 PSI), which is hot enough to destroy C. botulinum spores.
+Pressure canning is required for all low-acid foods. A [[pf-tek-pressure-canner-sterilization]] reaches 240-250 F (at 10-15 PSI), which is hot enough to destroy C. botulinum spores.
 
 ### Foods Requiring Pressure Canning
 
@@ -125,7 +125,7 @@ Weighted gauge canners: Use 15 PSI for altitudes above 1000 ft.
 
 ## Storage
 
-Store canned goods in a cool, dark, dry place (50-70 F). Avoid temperature fluctuations. Shelf life is 1 year for best quality, though properly canned food is safe for much longer. Discard any jars with broken seals, bulging lids, mold, off-odors, or spurting liquid when opened.
+Store canned goods in a cool, dark, dry place (50-70 F). Avoid temperature fluctuations. [[psilocybin-shelf-life-stability]] is 1 year for best quality, though properly canned food is safe for much longer. Discard any jars with broken seals, bulging lids, mold, off-odors, or spurting liquid when opened.
 
 ## Related Topics
 

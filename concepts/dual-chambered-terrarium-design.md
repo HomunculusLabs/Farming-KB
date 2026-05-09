@@ -1,5 +1,5 @@
 ---
-title: Dual Chambered Terrarium Design
+title: Dual dual chambered terrarium design Design
 created: 2026-04-28
 tags: [terrarium, humidity, fruiting, aquarium, cultivation]
 date: 2026-04-28
@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-The dual chambered terrarium is the fruiting chamber at the heart of the PF
+The dual chambered terrarium is the [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]] at the heart of the PF
 TEK. Built from a standard 10-gallon aquarium, it uses a spray shield
 partition to create two distinct zones: a primary chamber that receives direct
 spraying, and a secondary chamber where the fungus cakes are bathed in finely
@@ -30,7 +30,7 @@ terrarium is designed to achieve and maintain these conditions.
 
 The first rule of humidification is to never directly spray the fungus itself.
 Water droplets from a spray bottle are giant ponds of water relative to the
-fine mycelial networks. Direct contact drowns the fungal micro-structures and
+fine [[fungal-mycelial-networks-nutrient-translocation]]. Direct contact drowns the fungal micro-structures and
 can inhibit or contaminate growth. Only airborne molecularized water (evaporated
 water) should reach the fungus.
 
@@ -139,8 +139,10 @@ floor. Perlite absorbs water and gradually evaporates it through its porous
 structure, providing sustained humidification. Unlike vermiculite, perlite
 does not absorb and hold water but instead wicks it upward for gradual
 evaporation over weeks. Cakes can be placed directly on the perlite, where
-wick-like action transfers moisture directly to the cakes.
 ## See Also
 - [[community-garden-design]]
-- [[pf-tek-overview-and-history]]
+- pf-tek-overview-and-history
 - [[fruiting-conditions-and-harvesting]]
+- [[dual-chambered-terrarium-fruiting]]
+- [[mycelial-networks]]
+- [[fruiting-chamber]]

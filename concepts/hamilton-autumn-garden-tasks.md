@@ -1,5 +1,5 @@
 ---
-title: Autumn Garden Tasks
+title: hamilton autumn garden tasks Tasks
 created: 2026-04-28
 tags:
   - organic-gardening
@@ -23,7 +23,7 @@ time of harvest and reflection, of clearing away the old and making
 ready for the new. The [[hamilton-digging-and-cultivation]]
 heavy soils. Work in manure or [[hamilton-green-manure-crops-and-cover-cropping]] to cover vacant land through winter, preventing nutrient
 leaching and protecting soil structure from rain damage. Dig in any
-spring-sown green manure crops that have finished.
+spring-sown green [[green-manure-crops-detailed]] that have finished.
 
 Start collecting fallen leaves for [[hamilton-animal-manure-types-and-use]].
 
@@ -43,7 +43,7 @@ canker and cut out any affected wood. Plant bare-root trees, bushes,
 and rootstocks.
 
 Inspect fruit in storage regularly and remove any showing signs of
-deterioration. Check and repair fruit cage netting. Cover soft fruit
+deterioration. Check and repair fruit cage netting. Cover [[growing-soft-fruit-organically]]
 bushes with bird netting as berries ripen.
 
 ## Greenhouse Tasks

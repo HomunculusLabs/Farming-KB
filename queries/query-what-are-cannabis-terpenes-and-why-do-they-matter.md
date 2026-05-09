@@ -1,20 +1,21 @@
 ---
-title: "What Are Cannabis Terpenes and Why Do They Matter?"
+title: "What Are query what are cannabis terpenes and why do they matter and Why Do They Matter?"
 created: 2026-04-28
 tags: [query, cannabis, terpenes, flavor, entourage-effect]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
 # What Are Cannabis Terpenes and Why Do They Matter?
 
 ## Short Answer
-Terpenes are aromatic organic compounds produced by cannabis and many other
+Terpenes are aromatic [[fungal-volatile-organic-compounds-communication]] produced by cannabis and many other
 plants that give each strain its unique smell, flavor, and therapeutic
 character. Beyond sensory qualities, terpenes interact with cannabinoids
-like THC and CBD to modify their effects through the entourage effect,
+like THC and CBD to modify their effects through the [[cannabis-terpene-entourage-effect-profiles]],
 meaning the terpene profile of a strain is just as important as its
 cannabinoid content in determining the overall experience and potential
 medical benefits.
@@ -32,13 +33,13 @@ the tiny crystal-like structures visible on well-grown cannabis flowers.
 Trichome density and maturity directly affect terpene content. Harvesting
 too early results in underdeveloped terpenes and a grassy or hay-like aroma,
 while harvesting too late can cause terpene degradation through oxidation.
-Proper harvest timing based on trichome observation is essential for
+Proper [[cannabis-harvest-timing-visual-cues]] based on trichome observation is essential for
 maximizing terpene expression.
 
 Growing conditions significantly influence terpene production. Factors that
 enhance terpene expression include moderate environmental stress during late
 flowering (such as slight temperature drops or controlled water stress),
-proper nutrient management with adequate sulfur and magnesium, and the use
+proper [[green-cannabis-grow-bible-nutrient-management-ppm]] with adequate sulfur and magnesium, and the use
 of full-spectrum light sources that include ultraviolet wavelengths.
 Interestingly, the [[query-what-are-endophytic-fungi-and-why-do-they-matter]] Questions
 - [[query-how-to-identify-and-fix-cannabis-iron-deficiency]]
@@ -58,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -100,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

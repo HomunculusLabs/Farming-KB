@@ -3,9 +3,9 @@
 
 ## Introduction
 
-Mycorrhizal networks are underground fungal networks formed by the symbiotic association between mycorrhizal fungi and plant roots. These networks create a biological internet — often called the **"Wood Wide Web"** — through which plants can exchange nutrients, water, carbon compounds, and chemical signals. First hypothesized in the 1990s by forest ecologist Suzanne Simard and colleagues, the concept has revolutionized our understanding of forest ecology, revealing that trees are not isolated organisms but interconnected members of a cooperative underground community.
+Mycorrhizal networks are underground fungal networks formed by the symbiotic association between mycorrhizal fungi and plant roots. These networks create a biological internet — often called the **"Wood Wide Web"** — through which plants can exchange nutrients, water, carbon compounds, and [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]. First hypothesized in the 1990s by forest ecologist Suzanne Simard and colleagues, the concept has revolutionized our understanding of forest ecology, revealing that trees are not isolated organisms but interconnected members of a cooperative underground community.
 
-The term "Wood Wide Web" was coined in a 1997 *Nature* paper by Simard et al. that demonstrated carbon transfer between birch (*Betula papyrifera*) and Douglas-fir (*Pseudotsuga menziesii*) trees through shared ectomycorrhizal fungal networks. This landmark study provided the first field evidence that inter-tree resource sharing via mycorrhizal connections is real, measurable, and ecologically significant.
+The term "Wood Wide Web" was coined in a 1997 *Nature* paper by Simard et al. that demonstrated carbon transfer between birch (*Betula papyrifera*) and Douglas-fir (*Pseudotsuga menziesii*) trees through shared ectomycorrhizal fungal networks. This landmark study provided the first field evidence that inter-tree [[mycelial-network-resource-sharing-plants]] via mycorrhizal connections is real, measurable, and ecologically significant.
 
 ## Mycorrhizal Associations: Types and Biology
 
@@ -43,7 +43,7 @@ ECM networks are particularly important for nitrogen cycling in forest ecosystem
 
 **[[ericoid-mycorrhizae-types-and-ecology]]** associate with plants in the Ericaceae family (heaths, heathers, blueberries, cranberries, rhododendrons). They form coils within root epidermal cells and are critical for nutrient uptake in acidic, nutrient-poor soils. They can decompose complex organic matter and are key to bog and heathland ecology.
 
-**Orchid Mycorrhizae** are required for orchid seed germination — orchid seeds are microscopic and contain no endosperm, so they depend entirely on [[fungal-carbon-storage-mycorrhizal-pathways]] supply until they produce photosynthetic leaves. Some orchids remain fully mycoheterotrophic (non-photosynthetic) throughout their lives, including *Neottia nidus-avis* (bird's-nest orchid).
+**Orchid Mycorrhizae** are required for orchid seed germination — orchid seeds are microscopic and contain no endosperm, so they depend entirely on fungal-carbon-storage-mycorrhizal-pathways supply until they produce photosynthetic leaves. Some orchids remain fully mycoheterotrophic (non-photosynthetic) throughout their lives, including *Neottia nidus-avis* (bird's-nest orchid).
 
 **Ectendomycorrhizae** show characteristics of both ECM and AMF associations, found in some conifers like *Larix* (larch) and *Pinus sylvestris* seedlings.
 
@@ -114,7 +114,7 @@ When a plant is attacked by herbivores or pathogens, it can produce chemical sig
 Beyond defense, CMNs appear to transmit signals related to abiotic stress:
 
 - **Drought signaling:** Plants experiencing water stress produce abscisic acid (ABA) and other stress hormones that may be transmitted to neighbors through CMNs, allowing preemptive stomatal closure and drought preparation
-- **Nutrient stress signals:** Plants under phosphorus deficiency may signal to neighbors, triggering changes in root architecture and exudate production in connected plants
+- **Nutrient stress signals:** Plants under [[query-how-to-fix-phosphorus-deficiency-in-cannabis]] may signal to neighbors, triggering changes in root architecture and exudate production in connected plants
 - **Oxidative stress signals:** [[reactive-oxygen-species-and-oxidative-stress]] species (ROS) signaling cascades initiated in one plant can prime antioxidant defenses in connected plants
 
 ### Mechanisms of Signal Transmission
@@ -136,180 +136,15 @@ Mycorrhizal networks play critical roles in forest succession:
 - **Mid-succession:** As woody species establish, ECM networks begin to form, gradually replacing AMF dominance in the soil community
 - **Late succession:** Mature forests develop extensive ECM networks that connect canopy trees, understory plants, and seedlings into a single integrated system
 
-This mycorrhizal succession is one reason why converting old-growth forests to monoculture plantations causes such dramatic ecological disruption — the centuries-old CMN is destroyed.
-
-### Biodiversity and Ecosystem Stability
-
-CMNs contribute to biodiversity maintenance through several mechanisms:
-
-- **Facilitating seedling establishment** under canopy, preventing competitive exclusion
-- **Maintaining plant species diversity** by reducing the competitive advantage of dominant species
-- **Connecting different trophic levels** — fungal networks support fungal grazers (springtails, mites), which in turn support higher predators
-- **Enhancing belowground biodiversity** by creating habitat complexity for bacteria, archaea, nematodes, and other soil organisms
-
-### Carbon Sequestration
-
-Mycorrhizal fungi are critical players in global carbon cycling:
-
-- Approximately **5–20 billion tonnes of carbon** are stored in mycorrhizal mycelium globally — more than is stored in all aboveground vegetation in some ecosystems
-- ECM fungi produce recalcitrant compounds (glomalin-related soil proteins from AMF, melanin from ECM) that contribute to stable soil organic matter pools
-- CMNs facilitate the transfer of labile carbon from canopy trees to deeper soil layers through hyphal translocation and turnover
-- Mycorrhizal decomposition pathways (particularly by ECM fungi) can either accelerate or decelerate soil carbon turnover depending on the ecosystem
-
-## Agricultural Implications
-
-### Benefits to Crop Systems
-
-The potential of mycorrhizal networks to enhance agricultural productivity is enormous:
-
-- **Nutrient uptake:** Mycorrhizal crops access significantly more phosphorus, zinc, copper, and other immobile nutrients. AMF can supply up to 80% of a plant's phosphorus needs
-- **Water relations:** Mycorrhizal plants show improved drought tolerance through enhanced hydraulic conductivity and osmotic adjustment
-- **Disease resistance:** Mycorrhizal colonization primes plant immune systems (induced systemic resistance), reducing susceptibility to soilborne pathogens
-- **Soil structure:** Glomalin produced by AMF acts as a biological glue, binding soil particles into stable aggregates that resist erosion
-- **Heavy metal tolerance:** Some mycorrhizal fungi sequester heavy metals in their tissues, reducing plant uptake and enabling phytoremediation
-
-### Threats from Conventional Agriculture
-
-Modern agricultural practices are devastating to mycorrhizal networks:
-
-| Threat | Mechanism | Impact |
-|--------|-----------|--------|
-| **Tillage** | Physically severs hyphal networks and destroys soil aggregates | 40–70% reduction in [[amf-hyphal-anastomosis-self-recognition]] length per tillage event |
-| **Fungicides** | Directly kills mycorrhizal fungi | Can reduce colonization by 50–90% depending on product |
-| **Phosphorus fertilizers** | Reduces plant dependency on mycorrhizae, causing plants to reduce carbon allocation to fungal partners | AMF colonization declines linearly with increasing P availability |
-| **Nitrogen fertilizers** | Shifts plant-fungal carbon exchange economics; excess N favors bacterial decomposition over fungal pathways | Reduces ECM abundance in forests; shifts AMF community composition |
-| **Monoculture** | Reduces diversity of root exudates and host plants, simplifying fungal community | 30–50% reduction in AMF species richness in monocultures vs. polycultures |
-| **Fallow periods** | Removes living root hosts, causing mycorrhizal networks to collapse within weeks | AMF spore banks decline by 60–80% after 1 year of bare fallow |
-| **Soil compaction** | Reduces soil porosity, limiting hyphal exploration and gas exchange | Hyphal growth reduced by 50%+ in compacted soils |
-| **Pesticides** | Many synthetic pesticides have sublethal effects on mycorrhizal function | Reduced colonization rates, impaired nutrient transport |
-
-### Restoring Mycorrhizal Networks in Farming
-
-Practical approaches to maintaining or restoring mycorrhizal networks in agricultural systems:
-
-**Reduced or zero tillage:** The single most impactful practice. No-till systems typically show 2–5× higher AMF colonization rates than conventional tillage. Even strip-till or reduced tillage provides significant benefits.
-
-**Cover cropping:** Living roots year-round maintain mycorrhizal host continuity. Multi-species cover crop mixes with diverse root architectures support more diverse fungal communities. Especially effective: mycorrhizal host species like oats, rye, clover, vetch, buckwheat, and radish.
-
-**Diversified rotations:** Including mycorrhizal crops (most broadacre crops except brassicas and chenopods) and avoiding long periods of non-host crops (canola, mustard, sugar beet) maintains network integrity.
-
-**Reduced phosphorus application:** Soil testing to apply only the phosphorus needed, avoiding luxury applications that suppress mycorrhizal colonization. Banding P fertilizer rather than broadcasting minimizes the area of mycorrhizal suppression.
-
-**Mycorrhizal inoculation:** Commercial AMF inoculants (*Rhizoglomus irregulare*, *Funneliformis mosseae*) can establish networks in degraded soils, particularly for high-value crops and transplant production. Inoculation is most effective when applied to seedlings or at transplanting, and when soil conditions are favorable (adequate moisture, low available P, compatible host species).
-
-**Companion planting for mycorrhiza:** In food forests and polyculture systems, interplanting mycorrhizal-dependent species with known strong hosts (many legumes, grasses) extends the network to benefit all connected plants.
-
-**Organic matter management:** Adding compost, [[biochar]], and organic mulches provides habitat and food for the broader soil food web that supports mycorrhizal function, while avoiding the high nutrient concentrations that suppress colonization.
-
-## Research Frontiers and Controversies
-
-### Kin Selection Debate
-
-Whether plants preferentially share resources with genetic relatives through CMNs remains one of the most contentious questions. While Simard's group has demonstrated kin-biased carbon transfer in Douglas-fir, other researchers have failed to replicate these findings in different species and conditions. The debate centers on whether the observed patterns reflect plant kin selection or fungal mediation of resource flow toward more responsive sinks.
-
-### Scale of Carbon Transfer
-
-The ecological significance of carbon transfer through CMNs is debated. Some researchers argue that the amounts transferred (typically 1–10% of plant carbon budgets) are too small to meaningfully affect forest dynamics, while others point out that even small transfers can have outsized effects on seedling survival in competitive environments.
-
-### Network Stability
-
-How stable are CMNs over time? Seasonal fluctuations in root exudation, soil moisture, and temperature cause continuous remodeling of mycorrhizal networks. Some researchers estimate that AMF hyphal networks turn over every 5–10 days during the growing season, while ECM rhizomorphs may persist for months to years. The implications for signal transmission and resource sharing over meaningful timescales are still being worked out.
-
-### Human Microbiome Parallels
-
-Increasingly, researchers are drawing parallels between mycorrhizal networks and the human gut microbiome — both are complex, multi-species symbiotic systems that profoundly affect host health, both can be disrupted by external inputs, and both show promise for targeted manipulation. This cross-disciplinary thinking is driving new experimental approaches.
-
-### Molecular Tools
-
-Advances in metagenomics, metatranscriptomics, and stable isotope probing are allowing researchers to trace nutrient and signal flow through CMNs with unprecedented resolution. DNA metabarcoding of soil samples can now identify the full suite of mycorrhizal fungi in a network, while quantum dots and nanoSIMS imaging can track individual nutrient molecules as they move between plants through hyphae.
-
-## Mycorrhizal Networks in Different Ecosystems
-
-### Temperate Forests
-
-Temperate forests are dominated by ECM networks, with a single hectare potentially hosting hundreds of ECM [[fungal-species-accumulation-rarefaction-estimators]]. The network architecture is highly stratified:
-
-- **Canopy layer:** ECM networks of dominant tree species (oak, beech, pine, Douglas-fir) form the primary backbone
-- **Understory layer:** A mixture of ECM and AMF networks connect shrubs, herbaceous plants, and seedlings to the canopy network
-- **Forest floor:** Saprotrophic fungi decompose litter, releasing nutrients that are then captured by mycorrhizal fungi and transported to host plants
-
-In old-growth temperate forests, CMNs can persist for centuries. The age structure of ECM networks mirrors the age structure of the forest itself, with the oldest, most extensive networks centered on the largest, oldest trees. When these "hub" trees die, the network fragments, triggering cascading effects on forest regeneration patterns.
-
-### Tropical Forests
-
-Tropical forests present a more complex picture. While ECM networks dominate in some tropical forests (notably dipterocarp forests of Southeast Asia), many tropical forests are AMF-dominated. The higher plant diversity in tropical forests creates more intricate network topologies:
-
-- Individual AMF networks in tropical soils may connect 50+ plant species simultaneously
-- Network topology shifts seasonally with wet-dry cycles
-- Epiphytic mycorrhizal associations (particularly in orchids) add a vertical dimension to tropical mycorrhizal networks
-- Anthropogenic disturbance (logging, fragmentation) causes more rapid and severe CMN disruption in tropical systems due to the higher dependency of tropical trees on mycorrhizal partners for nutrient acquisition in highly weathered soils
-
-### Grasslands and Prairies
-
-Grassland ecosystems are AMF-dominated, with extensive hyphal networks connecting hundreds of individual grass plants and forbs. These networks are particularly important for:
-
-- **Phosphorus cycling:** Highly weathered grassland soils often have abundant total phosphorus but low available phosphorus; AMF networks access P from otherwise unavailable pools
-- **Drought resilience:** Grassland AMF networks extend root access to water during dry periods, and glomalin produced by AMF improves soil water-holding capacity
-- **Community composition:** Studies have shown that AMF networks can shift competitive outcomes between grass species, maintaining diversity by preventing any single species from dominating
-- **Grazing response:** Moderate grazing stimulates AMF hyphal growth through increased root exudation and the creation of root turnover that feeds the fungal network. Heavy grazing, however, can deplete carbon reserves and reduce mycorrhizal function
-
-### Agricultural Fields
-
-In agricultural systems, CMNs are typically severely degraded compared to natural ecosystems. Conventional tillage, high fertilizer inputs, and monoculture have reduced AMF colonization rates from typical wild levels of 60–80% to 10–30% in intensively farmed soils. However, even in these degraded systems, residual mycorrhizal networks persist and can provide significant benefits:
-
-- **Inter-crop nutrient transfer:** In intercropping systems, CMNs can facilitate nutrient sharing between companion crops (e.g., cereals and legumes)
-- **Crop sequence effects:** The mycorrhizal legacy of a preceding crop can affect the performance of the following crop, a phenomenon called "pre-crop effects" or "mycorrhizal carryover"
-- **Pest and disease suppression:** CMNs in agricultural fields contribute to soilborne disease suppression through induced systemic resistance and competition for infection sites
-
-## Practical Observation and Monitoring
-
-For growers and land managers interested in understanding and supporting mycorrhizal networks on their land, several practical observation methods are available:
-
-### Visual Assessment
-
-- **[[mycorrhizal-root-exudates-pathogen-interactions]] staining:** A simple root clearing and staining protocol (using trypan blue or ink-vinegar) reveals AMF colonization under a microscope. This is the standard method used in research and can be adapted for farm use with basic microscopy equipment
-- **Ectomycorrhizal morphology:** ECM root tips are visibly different from non-mycorrhizal roots — they are shorter, thicker, often forked or coral-shaped, and may be colored white, yellow, brown, or black depending on the fungal species
-- **Mycelium in soil:** White, thread-like fungal hyphae visible in healthy soil (especially around organic matter and root zones) are often mycorrhizal. However, visual identification cannot distinguish mycorrhizal from saprotrophic hyphae
-- **Fruiting bodies:** ECM mushrooms (boletes, russulas, amanitas, lactarius) fruiting near trees indicate active ECM networks. AMF rarely produce visible fruiting bodies
-
-### Soil Testing
-
-- **PLFA (Phospholipid Fatty Acid) analysis:** Measures fungal and bacterial biomass in soil; a high fungal:bacterial ratio (>1:1) indicates healthy mycorrhizal function
-- **DNA metabarcoding:** Soil samples can be sent to laboratories for DNA analysis that identifies the full suite of mycorrhizal fungi present. This is increasingly affordable and provides the most detailed picture of mycorrhizal community composition
-- **Glomalin testing:** Glomalin-related soil protein (GRSP) is a biochemical marker for AMF activity. Higher GRSP levels correlate with better soil aggregation and mycorrhizal function
-
-### Simple Field Indicators
-
-- **Soil structure:** Well-aggregated, crumbly soil with earthy smell indicates active mycorrhizal and biological activity
-- **Plant performance:** If non-mycorrhizal plants (brassicas, chenopods) and mycorrhizal plants grow similarly well, soil phosphorus may be too high for mycorrhizal benefits to be expressed
-- **After rainfall:** Healthy mycorrhizal soils absorb water rapidly and resist surface crusting and erosion
-
-## Mycorrhizal Fungi in Climate Change
-
-Mycorrhizal fungi are both affected by climate change and potential mitigators of it:
-
-### Vulnerability
-
-- **Warming:** Soil warming experiments show mixed effects — some AMF species respond positively to moderate warming, while ECM associations in boreal forests may decline as warming pushes climatic conditions beyond their optimal range
-- **Drought:** Severe drought can reduce mycorrhizal colonization by limiting carbon supply from stressed hosts. However, moderate drought stress can increase plant dependency on mycorrhizae for water acquisition
-- **Elevated CO₂:** Higher atmospheric CO₂ typically stimulates photosynthesis and root exudation, potentially benefiting mycorrhizal fungi. However, the "CO₂ fertilization effect" on mycorrhizae may be limited by nitrogen and phosphorus availability
-- **Nitrogen deposition:** Chronic atmospheric nitrogen deposition (from industrial pollution) is shifting forest mycorrhizal communities from ECM-dominated toward AMF and saprotrophic-dominated, with cascading effects on carbon cycling
-
-### Mitigation Potential
-
-- **Carbon storage:** Mycorrhizal mycelium and glomalin contribute significantly to stable soil carbon pools. Promoting mycorrhizal function through reduced tillage and diversified cropping could enhance agricultural carbon sequestration
-- **Reduced fertilizer dependency:** Mycorrhizal crops require less phosphorus fertilizer, reducing the energy-intensive mining and processing of phosphate rock
-- **Drought adaptation:** As droughts become more frequent and severe, maintaining mycorrhizal networks will be critical for crop resilience
-
 ## See Also
 
 - The Soil Food Web — the broader community of organisms that mycorrhizal networks are embedded within
 - Nitrogen Fixing Bacteria and Biological Nitrogen Fixation — complementary nutrient-providing symbioses
 - Endophytic Fungi: Hidden Symbionts Within Plants — fungal partners living inside plant tissues
-- Lichen Biology and Ecological Significance — another ancient and widespread fungal symbiosis
+- Lichen [[lichen-biology-and-ecological-significance]] Significance — another ancient and widespread fungal symbiosis
 - Biochar in Regenerative Agriculture — soil amendment that can support mycorrhizal function
 - No Till Farming and Conservation Agriculture — farming practices that preserve mycorrhizal networks
 - Forest Gardening and Food Forests — designed ecosystems that leverage mycorrhizal networks
-- Syntropic Agriculture Design and Practice — succession-based agriculture that depends on mycorrhizal succession
-- Composting Toilets and Humanure Systems — phosphorus recycling that can feed mycorrhizal networks
+- [[query-what-is-syntropic-agriculture-and-how-do-i-start]] Design and Practice — succession-based agriculture that depends on mycorrhizal succession
+- Composting [[composting-toilets-and-humanure-systems]] Systems — phosphorus recycling that can feed mycorrhizal networks
 - Cover Crops and Green Manures — maintaining living roots for mycorrhizal host continuity

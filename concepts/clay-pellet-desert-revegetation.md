@@ -1,5 +1,5 @@
 ---
-title: Clay Pellet Desert Revegetation
+title: Clay Pellet fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique
 created: 2026-04-28
 tags: [natural-farming, desert-revegetation, clay-pellets, seed-balls, ecology, fukuoka, restoration, sustainability]
 date: 2026-04-28
@@ -17,10 +17,10 @@ Masanobu Fukuoka proposed a method for revegetating deserts and degraded
 grasslands by scattering seed-bearing clay pellets from the air or by hand.
 This technique, which builds directly on his farming practice of enclosing
 rice seeds in clay pellets for no-till planting, represents one of the most
-ambitious applications of natural farming philosophy. Rather than attempting
+ambitious applications of natural [[fukuoka-do-nothing-farming-philosophy-and-practice]]. Rather than attempting
 to understand and reverse desertification through scientific analysis, Fukuoka
 advocated blanketing barren land rapidly with a green cover and allowing
-nature's self-organizing processes to restore ecological balance.
+nature's self-organizing processes to restore [[fukuoka-ecological-balance-principles]].
 
 ## The Clay Pellet Technique
 
@@ -28,7 +28,7 @@ The revegetation pellets are prepared by mixing seeds of green manure trees
 and cover crops with soil and clay. Fukuoka specified several seed types
 suitable for arid conditions. Black wattle, a leguminous tree, can grow in
 areas receiving less than two inches of annual rainfall. Clover, alfalfa, and
-bur clover provide ground cover and nitrogen fixation. Grain and vegetable
+bur clover provide ground cover and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. Grain and vegetable
 seeds are added to the mixture for broader ecological diversity.
 
 The seed mixture is first coated with a layer of soil containing beneficial
@@ -77,7 +77,7 @@ in an endless chain of interwoven events and factors beyond human comprehension.
 Suppose scientists identified which plant had been the first to die off in a
 land turning to desert. They would still not know whether to begin
 revegetation by planting the first species to disappear or the last to
-survive. The reason is that, in nature, there is no cause and effect in the
+survive. The reason is that, in nature, there is no [[fukuoka-textdoc-no-cause-and-effect-in-nature]] in the
 scientific sense. Attempting to trace causal chains backward leads only to
 deeper confusion rather than actionable knowledge.
 
@@ -107,7 +107,7 @@ that raise acidity, but this triggers mold growth, which is followed by
 fungal decomposition that returns the soil toward neutral. This self-
 correcting dynamic suggests that even severely degraded desert soils
 contain latent biological potential that could be reactivated by introducing
-organic matter and living organisms.
+organic matter and [[savory-living-organisms-as-tools]].
 
 ## The Potential of Plant Diversity
 
@@ -139,8 +139,6 @@ that crops can be grown without plowing, fertilizing, or spraying, the clay
 pellet method demonstrates that vegetation can be restored without scientific
 analysis, irrigation, or ongoing human management.
 
-The method embodies the principle of non-causality: rather than attempting to
-understand why the desert formed and addressing specific causes, it simply
 ## See Also
 
 - [[natural-ground-cover-and-straw-mulching]]

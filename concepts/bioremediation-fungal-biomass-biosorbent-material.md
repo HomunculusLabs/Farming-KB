@@ -1,5 +1,5 @@
 ---
-title: "Fungal Biomass as Biosorbent Material for Metal Removal"
+title: "bioremediation fungal biomass biosorbent material as Biosorbent Material for Metal Removal"
 created: 2026-04-28
 tags: [bioremediation, heavy-metals, biosorption, wastewater-treatment]
 date: 2026-04-25
@@ -10,19 +10,19 @@ type: concept
 
 # Fungal Biomass as Biosorbent Material for Metal Removal
 
-Fungal biosorption is the non-metabolic binding of metal ions to
+[[dighton-fungal-biosorption-heavy-metal-remediation]] is the non-metabolic binding of metal ions to
 fungal cell wall components. This process offers potential for removing
 toxic metals and radionuclides from industrial effluents and
 contaminated water. Unlike metabolism-dependent bioaccumulation,
 biosorption works equally well with living, denatured, or dead biomass,
-making it a versatile and cost-effective approach for [[fungal-bioremediation]] of wastewater.
+making it a versatile and cost-effective approach for fungal-bioremediation of wastewater.
 
 ## Definition and Distinction from Bioaccumulation
 
 Biosorption strictly refers to non-active, non-directed physicochemical
 interactions between metal species and cellular components. It should be
 distinguished from bioaccumulation, which involves metabolism-dependent
-active transport of metals into the cell interior. In most filamentous
+[[diffusion-osmosis-and-active-transport-in-plants]] of metals into the cell interior. In most filamentous
 fungi, metabolism-dependent uptake is small or negligible compared to
 biosorption, so the term biosorption is generally adopted for fungal
 metal uptake studies. Non-active binding typically occurs first, with
@@ -31,7 +31,7 @@ cell interior.
 
 ## Biosorption Capacity and Performance
 
-Current interest in fungal metal biosorption dates from the 1980s, when
+Current interest in fungal [[fungal-heavy-metal-biosorption-and-detoxification]] dates from the 1980s, when
 Rhizopus arrhizus was shown to achieve uranium and thorium uptake levels
 exceeding those of commercial ion-exchange resins. Maximum uptake levels
 for cationic metals generally fall in the range of 0.1 to 1.0 mmol
@@ -94,7 +94,7 @@ low pH in the presence of biosorbent material.
 ## Organic and Organometal Biosorption
 
 Recent developments include biosorption of metal complexes, biocides,
-phenol derivatives, textile dyes, and organometallic compounds.
+phenol derivatives, [[fungal-treatment-of-textile-dyes-mechanisms]], and organometallic compounds.
 Triphenyltin and tributyltin compounds showed maximum loadings of 0.5
 to 0.6 mmol per gram dry weight, equivalent to typical cationic metal
 values. The organic character of organometals increases their
@@ -117,6 +117,12 @@ R. arrhizus caused no loss in copper uptake capacity.
 Despite numerous patents and laboratory demonstrations, industrial
 adoption of fungal biosorption remains limited. Current state-of-the-art
 work is research-based rather than application-based, though the
-technology shows considerable promise for wastewater treatment.
+technology shows considerable promise for [[mollison-designers-wastewater-treatment-wetlands]].
 
 See also: [[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]], [[metal-biotransformation-fungi]].
+## See Also
+- [[rhizopus-arrhizus]]
+- [[saccharomyces-cerevisiae]]
+- [[penicillium-chrysogenum]]
+- [[singh-cost-analysis-fungal-bioremediation]]
+- [[bioremediation-fungal-iron-reduction-chelation-metal-solubilization]]

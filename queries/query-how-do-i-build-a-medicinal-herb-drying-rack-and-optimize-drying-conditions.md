@@ -1,5 +1,5 @@
 ---
-title: "How Do I Build a Medicinal Herb Drying Rack and Optimize Drying Conditions?"
+title: "How Do I Build a query how do i build a medicinal herb drying rack and optimize drying conditions Drying Rack and Optimize Drying Conditions?"
 created: 2026-04-28
 tags:
   - herbalism
@@ -9,7 +9,8 @@ tags:
   - permaculture
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -17,15 +18,15 @@ type: query
 
 ## Why Proper Drying Matters for Medicinal Herbs
 
-Drying is the single most critical post-harvest step for preserving medicinal potency. Fresh herbs contain 70–90% water, and the speed and method of moisture removal directly affect the concentration and stabilidecompositioncompounds—alkaloids, essential oils, flavonoids, and terpenes. Poor drying leads to mold, loss of volatile oils, [[blesching-cannabis-terpenoids-and-flavonoids]] |
+Drying is the single most critical post-harvest step for preserving medicinal potency. Fresh herbs contain 70–90% water, and the speed and method of moisture removal directly affect the concentration and stabilidecompositioncompounds—alkaloids, [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]], flavonoids, and terpenes. Poor drying leads to mold, loss of volatile oils, [[blesching-cannabis-terpenoids-and-flavonoids]] |
 | **Time** | 3–14 days (species-dependent) | Rushing with heat destroys quality; slow drying in humid conditions invites mold |
 
 Different herb categories have different sensitivities:
 
-- **High-volatile-oil herbs** (lavender, chamomile, lemon balm, peppermint): Dry at the cooler end (70–80°F). These lose their medicine if dried too hot.
+- **High-volatile-oil herbs** (lavender, chamomile, [[comparison-lemon-balm-vs-passionflower]], peppermint): Dry at the cooler end (70–80°F). These lose their medicine if dried too hot.
 - **Leafy herbs** (nettle, mullein, comfrey leaf): Tolerate the standard range (75–90°F) and dry relatively quickly.
 - **Roots and barks** (dandelion root, ashwagandha, echinacea root): Often benefit from lower heat (85–100°F) and longer drying times due to dense tissue.
-- **Flowers** (calendula, elderflower, yarrow): Keep cool (70–80°F) and dark to preserve color and volatile compounds.
+- **Flowers** (calendula, elderflower, yarrow): Keep cool (70–80°F) and dark to preserve color and [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]].
 
 ## How Do I Build a Simple Wall-Mounted Herb Drying Rack?
 
@@ -43,7 +44,7 @@ Different herb categories have different sensitivities:
 1. **Cut frame pieces**: Four boards to your desired size. A 24"×36" rack dries a substantial harvest while fitting most walls. For larger operations, build multiple racks.
 2. **Assemble the frame**: Butt-joint the corners and secure with 2-inch wood screws. Pre-drill to prevent splitting. Add a center cross-brace for racks wider than 30" to prevent sagging.
 3. **Attach the mesh**: Staple hardware cloth tightly across the frame. Pull it taut—sagging mesh causes herbs to touch and blocks airflow. For fine herbs like thyme or chamomile flowers, layer window screening over the hardware cloth.
-4. **Mount the rack**: Install screw eyes into the top corners. Use S-hooks to hang from a wall-mounted bracket, ceiling hook, or closet rod. The rack should hang freely for air circulation on all sides.
+4. **Mount the rack**: Install screw eyes into the top corners. Use S-hooks to hang from a wall-mounted bracket, ceiling hook, or closet rod. The rack should hang freely for [[stamets-growing-room-air-circulation-co2-management]] on all sides.
 
 ### Tiered Hanging Rack (for large harvests)
 

@@ -44,17 +44,17 @@ and ecological roles.
 
 **Taxonomy and Systematics:** Classification of fungi based on morphological,
 molecular, and ecological criteria. DNA barcoding, particularly using the ITS
-region, has revolutionized fungal identification.
+region, has revolutionized [[pcr-methods-fungal-identification-monitoring]].
 
-**Medical Mycology:** Study of fungal pathogens affecting humans, including
+**Medical Mycology:** Study of [[bloomfield-fungal-pathogens-and-parasites]] affecting humans, including
 Candida, Aspergillus, and Cryptococcus species. Opportunistic infections in
 immunocompromised patients remain a major clinical challenge.
 
 **Plant Pathology:** Fungi are the most destructive plant pathogens, causing
-diseases like wheat rust, potato blight, and Dutch elm disease. Understanding
+diseases like wheat rust, [[bloomfield-potato-blight-phytophthora-infestans]], and Dutch elm disease. Understanding
 fungal virulence mechanisms is critical for food security.
 
-**Industrial Mycology:** Exploitation of fungal metabolism for antibiotics
+**Industrial Mycology:** Exploitation of [[singh-fungal-metabolism-pahs]] for antibiotics
 (penicillin), enzymes, organic acids (citric acid), and fermented foods.
 
 ## Ecological Significance
@@ -70,10 +70,10 @@ carbon.
 
 ## Modern Frontiers
 
-Environmental DNA sampling has revealed that the vast majority of fungal
+[[fungal-dark-taxa-environmental-dna-sequencing]] sampling has revealed that the vast majority of fungal
 diversity remains undocumented. Metagenomic studies of soil, water, and air
 samples regularly uncover entirely novel lineages. Meanwhile, fungal
-secondary metabolites continue to yield new pharmaceuticals, and mycoremediation
+[[antifungal-secondary-metabolites-coprophilous-fungi]] continue to yield new pharmaceuticals, and mycoremediation
 (the use of fungi to degrade environmental pollutants) is emerging as a
 practical biotechnology. The interdisciplinary nature of modern mycology
 connects it to fields from climate science to drug discovery.
@@ -83,4 +83,4 @@ connects it to fields from climate science to drug discovery.
 - [[contamination-prevention-mycology]]
 - [[mycology-modern-era]]
 
-See also: [[fungal-identification-and-biodiversity-assessment]]
+See also: [[dighton-soil-fungal-biodiversity-assessment]]

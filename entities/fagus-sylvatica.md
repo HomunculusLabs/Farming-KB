@@ -23,7 +23,7 @@ sources:
 
 **Fagus sylvatica**, the European beech or common beech, is a large deciduous tree native to central and southern Europe. It is one of the most ecologically and economically important hardwood species on the continent, forming extensive climax forests and producing highly valued timber.
 
-Beech forests are biodiversity hotspots in temperate Europe, supporting over 6,000 associated species including rare fungi, lichens, insects, and cavity-nesting birds. The species also has significant permaculture and agroforestry applications as a multipurpose tree producing timber, fuel, edible nuts, and leaf litter for soil building.
+Beech forests are biodiversity hotspots in temperate Europe, supporting over 6,000 associated species including rare fungi, lichens, insects, and cavity-nesting birds. The species also has significant permaculture and agroforestry applications as a [[mollison-designers-chestnut-as-multipurpose-tree-crop]] producing timber, fuel, edible nuts, and leaf litter for soil building.
 
 ## Taxonomy and Nomenclature
 
@@ -57,7 +57,7 @@ Notable cultivars include *F. sylvatica* 'Purpurea' (copper beech), 'Pendula' (w
 ## Distribution and Habitat
 
 - **Native range:** Central and southern Europe, from southern England and northern Spain eastward to western Poland, southward to central Italy and the Balkans
-- **Introduced range:** Widely planted in northern Europe, eastern North America, New Zealand, and temperate regions worldwide
+- **Introduced range:** Widely planted in northern Europe, [[polypore-fungi-eastern-north-america]] America, New Zealand, and temperate regions worldwide
 - **Habitat:** Moist, well-drained soils of loam, clay, or sandy loam; pH 4.5–7.5
 - **Altitude:** 0–1,800 m (submontane to montane in southern parts of range)
 - **Climate:** Temperate oceanic to subcontinental; mean annual temperature 6–12°C; precipitation 600–1,500 mm
@@ -68,9 +68,9 @@ Beech reaches its northern range limit in southern Scandinavia and the British I
 
 F. sylvatica is a climax dominant in much of central Europe, forming beech forests (Fagetum) that represent the potential natural vegetation across millions of hectares. These forests are characterized by a closed canopy with only 2–5% light transmission, creating a specialized understory community.
 
-Beech exhibits irregular masting cycles, producing heavy seed crops at 5–10 year intervals with minimal seed production in intervening years. This predator-saturation strategy reduces seed predation by rodents and birds during mast years. Mast years have cascading ecosystem effects, driving population cycles in rodents and their predators.
+Beech exhibits irregular masting cycles, producing heavy seed crops at 5–10 year intervals with minimal [[cervantes-seed-production-storage]] in intervening years. This predator-saturation strategy reduces seed predation by rodents and birds during mast years. Mast years have cascading ecosystem effects, driving population cycles in rodents and their predators.
 
-The dense canopy suppresses ground vegetation, resulting in a relatively open forest floor dominated by shade-tolerant herbs. Key understory associates include *Anemone nemorosa*, *Oxalis acetosella*, *Luzula sylvatica*, and *Maianthemum bifolium*.
+The dense canopy suppresses [[fukuoka-rain-falls-from-ground-vegetation-rainfall-cycle]], resulting in a relatively open forest floor dominated by shade-tolerant herbs. Key understory associates include *Anemone nemorosa*, *Oxalis acetosella*, *Luzula sylvatica*, and *Maianthemum bifolium*.
 
 ## Permaculture and Agroforestry Applications
 
@@ -79,7 +79,7 @@ European beech has several applications in designed ecosystems:
 - **Timber production:** High-value hardwood for furniture, flooring, tool handles, and veneer; rotation lengths of 80–120 years
 - **Fuel wood:** Excellent firewood with high energy density (~18 MJ/kg dry weight); burns hot with low smoke
 - **Beechnuts:** Edible when processed; high in oil (~40% by weight) and protein; historically used for oil extraction
-- **Leaf litter:** Produces nutrient-rich leaf mold; decomposes moderately fast, contributing to humus formation
+- **Leaf litter:** Produces nutrient-rich leaf mold; decomposes moderately fast, contributing to [[lowenfels-humus-formation-benefits]]
 - **Shelter:** Effective windbreak and shade tree when planted on the north or west side of gardens
 - **Pollarding:** Responds to pollarding, producing fuelwood and fodder on a 10–15 year cycle
 
@@ -99,7 +99,7 @@ Beech is the most commonly used hardwood in Europe for furniture framing, plywoo
 
 ## Associated Fungi
 
-- **Mycorrhizal partners:** *Laccaria laccata*, *Cortinarius* spp., *Amanita muscaria*, *Russula* spp.
+- **Mycorrhizal partners:** *Laccaria laccata*, *Cortinarius* spp., *[[allegro-amanita-muscaria-properties-and-pharmacology]]*, *Russula* spp.
 - **Saprotrophs on dead beech:** *Fomes fomentarius*, *Hypoxylon fragiforme*, *Meripilus giganteus*, *Armillaria mellea*
 - **Parasitic:** *Armillaria mellea* (butt rot), *Heterobasidion annosum* (root and butt rot)
 

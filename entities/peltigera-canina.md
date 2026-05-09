@@ -46,7 +46,7 @@ The photobiont has access to water and dissolved nutrients only via passive apop
 
 The mycobiont-derived hydrophobin layer (or hydrophobin-like compounds) overlies the interface.
 
-The photobiont cell wall layers form the inner boundary.
+The photobiont [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] layers form the inner boundary.
 
 The mycobiont-derived rodlet layer of hydrophobin controls water movement between the symbiotic partners.
 
@@ -76,7 +76,7 @@ Some Peltigera species are cephalodiate lichens with a green algal partner provi
 
 In such triple symbioses, the fungal partner creates microaerobic conditions around the cyanobacterial colony.
 
-This results in increased heterocyst frequencies and enhanced nitrogen fixation.
+This results in increased heterocyst frequencies and enhanced [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
 
 ## Distribution and Habitat
 
@@ -112,11 +112,11 @@ This microenvironment is critical for maintaining the balance between CO2 supply
 
 Like many lichen species, P. canina has declined in areas affected by air pollution and habitat destruction.
 
-The genus Peltigera is sensitive to changes in air quality and forest management practices.
+The genus Peltigera is sensitive to changes in [[cervantes-air-quality-ventilation]] and [[mollison-pdc-forest-management-products]] practices.
 
 Conservation of Peltigera species requires maintaining suitable habitat with adequate moisture, light, and substrate availability.
 
 ## See Also
 
 - [[xanthoria-parietina]] for another hydrophobin-producing lichen
-- [[hymenoscyphus-ericae]] for a fungal symbiont studied for nutrient exchange
+- [[hymenoscyphus-ericae]] for a fungal symbiont studied for [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]

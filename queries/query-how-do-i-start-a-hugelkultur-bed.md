@@ -1,5 +1,5 @@
 ---
-title: "How Do I Start a Hugelkultur Bed?"
+title: "How Do I query how do i start a hugelkultur bed Bed?"
 created: 2026-04-28
 tags: [query, permaculture, hugelkultur, soil-building, raised-beds]
 date: 2026-04-25
@@ -46,7 +46,7 @@ nitrogen-rich material such as fresh grass clippings, manure, or green yard
 waste to balance the high carbon content of the wood. This carbon-to-nitrogen
 ratio is critical; without sufficient nitrogen, the decomposing wood can
 temporarily lock up soil nitrogen, stunting young plants. Continue layering
-smaller twigs, more organic matter, and finally a thick layer (6 to 12 inches)
+smaller twigs, more [[hamilton-composting-and-organic-matter-management]], and finally a thick layer (6 to 12 inches)
 of topsoil and finished compost on the surface. The finished mound should be
 roughly 3 to 6 feet wide at the base and 2 to 4 feet tall, with gently sloped
 sides to prevent erosion. If building on a slope, stagger the logs across the

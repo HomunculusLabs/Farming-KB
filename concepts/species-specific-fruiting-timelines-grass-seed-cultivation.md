@@ -30,7 +30,7 @@ Based on the grass seed cultivation guide, pinhead (primordia) appearance ranges
 
 - **Flush pattern**: Typically produces one large flush followed by a small second flush, unlike the more consistent multi-flush pattern of *P. cubensis*.
 - **Cold shock response**: Does not benefit from cold shock treatment, similar to *P. tampanensis*.
-- **Fruiting difficulty**: Generally considered a moderate-to-difficult species for fruiting body production, though sclerotia production is relatively straightforward.
+- **Fruiting difficulty**: Generally considered a moderate-to-difficult species for fruiting body production, though [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] is relatively straightforward.
 - **Timeline**: Comparable to *P. cubensis* for initial colonization but may have a longer latency before pinning.
 - **Primary value**: Often cultivated primarily for sclerotia ("magic truffles") rather than mushrooms, as sclerotia production is more reliable and prolific.
 
@@ -40,7 +40,7 @@ Based on the grass seed cultivation guide, pinhead (primordia) appearance ranges
 
 - **Fruiting body production**: Less reliable than *P. cubensis*, with variable success rates.
 - **Cold shock**: Does not benefit from cold shock treatment.
-- **Sclerotia timeline**: Sclerotia continue to enlarge until approximately 4 months after inoculation when left in jars.
+- **[[psilocybe-mexicana-sclerotia-timeline-dark-incubation-flush-pattern]]**: Sclerotia continue to enlarge until approximately 4 months after inoculation when left in jars.
 - **Mushroom timeline**: When fruiting does occur, the timeline from casing to harvest is within the 6–15 day range.
 - **Dual production**: Sclerotia can form simultaneously in both colonized jars and in the casing layer of cased trays.
 
@@ -56,7 +56,7 @@ Based on the grass seed cultivation guide, pinhead (primordia) appearance ranges
 ## Factors Affecting Timeline Variation
 
 ### Temperature
-Room temperature (20°C) or slightly higher is recommended for colonization. Higher temperatures accelerate colonization but may stress the mycelium, triggering metabolite excretion. The fruiting environment temperature also influences pinning speed — cooler temperatures (18–22°C) generally promote faster and more even pinning.
+Room temperature (20°C) or slightly higher is recommended for colonization. Higher temperatures accelerate colonization but may stress the mycelium, triggering [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]]. The fruiting environment temperature also influences pinning speed — cooler temperatures (18–22°C) generally promote faster and more even pinning.
 
 ### Inoculation Method
 The choice of inoculant affects colonization speed:
@@ -67,7 +67,7 @@ The choice of inoculant affects colonization speed:
 ### Substrate Preparation
 The moisture content of the grass seed significantly affects colonization speed:
 - **Too wet**: Slimy, anaerobic conditions slow or stall mycelial growth.
-- **Too dry**: Insufficient moisture limits metabolic activity and hyphal extension.
+- **Too dry**: Insufficient moisture limits [[arbuscule-isolation-metabolic-activity-assays]] and hyphal extension.
 - **Overnight soak method**: Produces more homogeneous moisture distribution, potentially reducing variability in colonization speed between jars.
 - **Direct addition method**: Simpler but may produce less consistent results due to variable water absorption between seed batches.
 
@@ -79,7 +79,7 @@ The moisture content of the grass seed significantly affects colonization speed:
 
 ## Fruiting Environment Setup
 
-The guide uses a simple fruiting chamber design that contributes to reliable timelines:
+The guide uses a simple [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]] design that contributes to reliable timelines:
 
 - **Container**: Clear plastic bins covered with polyethylene sheeting.
 - **Air exchange**: Melted holes in bin sides, optionally covered with mesh to exclude insects.
@@ -92,7 +92,7 @@ The guide uses a simple fruiting chamber design that contributes to reliable tim
 When fruiting does not begin within the expected 6–15 day window:
 
 1. **Verify environmental triggers**: Ensure adequate light exposure and fresh air exchange are present.
-2. **Check casing moisture**: Dry casing will not support pinning. Mist lightly if surface appears dry.
+2. **Check [[mushroom-casing-moisture-management]]**: Dry casing will not support pinning. Mist lightly if surface appears dry.
 3. **Assess temperature**: High temperatures (>28°C) can inhibit fruiting; reduce to 20–25°C.
 4. **Evaluate mycelial health**: Yellow metabolites indicate stress; the culture may need more time to recover.
 5. **Consider cold shock**: For strains known to benefit, 12–24 hours at 4°C may trigger fruiting.
@@ -123,6 +123,8 @@ Grass seed offers a good balance of colonization speed and versatility across mu
 
 ## See Also
 
+- [[species-specific-flush-patterns-psilocybe-panaeolus-grass-seed]]
+
 - [[sclerotia-timeline-psilocybe-tampanensis-mexicana-grass-seed-jar]]
 - [[cold-shocking-mushrooms]]
-- [[pinhead-initiation-fruiting-triggers]]
+- [[stamets-pinning-initiation-stages-environmental-control]]

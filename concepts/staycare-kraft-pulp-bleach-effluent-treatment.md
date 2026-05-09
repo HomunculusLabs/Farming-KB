@@ -30,7 +30,7 @@ and aquatic ecosystems.
 The high temperature and alkaline pH of these effluents during
 production can kill most contaminating microorganisms, providing a
 natural degree of sterility. Some effluents also contain sodium sulfite,
-which has antimicrobial properties. These characteristics may favor
+which has [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. These characteristics may favor
 white rot fungi, which tolerate conditions inhibitory to many bacteria.
 
 ## Enzyme Systems in BPE Decolorization
@@ -38,11 +38,11 @@ white rot fungi, which tolerate conditions inhibitory to many bacteria.
 ### Phanerochaete chrysosporium
 
 The ligninolytic white rot fungus P. chrysosporium has been known to
-decolorize BPEs for some time. Manganese peroxidase (MnP) plays the
+decolorize BPEs for some time. [[fungal-manganese-peroxidase-remediation]] (MnP) plays the
 primary role in BPE decolorization by this organism. The oxidation of
 BPE is mediated by Mn(III) chelated to lactate or other organic acids.
 Purified P. chrysosporium MnP catalyzed BPE decolorization in the
-presence of lactate, Mn(II), and hydrogen peroxide, confirming that
+presence of lactate, Mn(II), and [[cervantes-hydrogen-peroxide-sterilization]], confirming that
 Mn(III)-organic acid chelates are primarily responsible for BPE
 decolorization in vivo.
 
@@ -94,8 +94,8 @@ solutions.
 Multiple bioreactor configurations have been applied to BPE treatment.
 Packed bed bioreactors using Pycnoporus cinnabarinus achieved effective
 decolorization of pigment plant effluents. Fluidized bed reactors with
-immobilized fungal pellets have shown good performance for continuous
-treatment. The ability to maintain active fungal biomass over prolonged
+[[singh-immobilized-fungal-bioreactors-wastewater-treatment]] pellets have shown good performance for continuous
+treatment. The ability to maintain active [[bioremediation-fungal-biomass-biosorbent-material]] over prolonged
 periods is important for commercial viability.
 
 Eaton et al. considered that the combination of temperature, pH, and
@@ -107,7 +107,7 @@ fungi.
 
 ## Advantages of Fungal Treatment
 
-Fungal treatment of BPEs offers several advantages: simultaneous
+[[staycare-fungal-treatment-of-molasses-wastewater]] BPEs offers several advantages: simultaneous
 decolorization and detoxification through multiple enzyme systems;
 ability to degrade both chlorinated and non-chlorinated components;
 potential for enzyme reuse and biomass regeneration; and compatibility

@@ -1,18 +1,19 @@
 ---
-title: Photoperiod Interruption and Light Leak Stress
+title: cervantes photoperiod interruption light leak and Light Leak Stress
 created: 2026-04-26
 tags: [cannabis, photoperiod, light-stress, flowering, hermaphrodism]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Photoperiod Interruption and Light Leak Stress
 
 The photoperiod -- the duration of light and dark periods -- is the
-primary signal that controls cannabis flowering. Jorge Cervantes
+primary signal that controls [[green-cannabis-flowering-management]]. Jorge Cervantes
 stresses that marijuana must have 12 hours of uninterrupted, total
 darkness to flower properly. Any light leak during the critical dark
 period can confuse plants, delay flowering, reduce yield, and trigger
@@ -27,7 +28,7 @@ flowers. Under a 24/0 photoperiod, pre-flowers may be less visible.
 Once pre-flowers are distinguishable as male or female, plants are
 induced to flower with a 12/12 day/night photoperiod.
 
-Indica-dominant plants will revert to vegetative growth within three
+Indica-dominant plants will revert to [[cannabis-vegetative-growth-stage]] within three
 days if the dark period is disrupted. Sativa-dominant plants take
 four to five days to revert. Once re-vegetation begins, it takes four
 to six additional weeks to re-induce flowering -- a costly setback.
@@ -71,9 +72,9 @@ notes this prolongs flowering without increasing yield.
 
 ## The Green Light Solution
 
-The smart way to visit a grow room during the dark period is to
+The smart way to visit a [[cannabis-grow-room-setup]] during the dark period is to
 illuminate it with a green light. Marijuana does not respond to the
-green portion of the light spectrum, so a green bulb is usable at
+green portion of the [[cannabis-light-spectrum-and-color-bands]], so a green bulb is usable at
 night with no ill effects on flowering. This allows growers to
 perform maintenance, check plants, and handle emergencies without
 disrupting the photoperiod.

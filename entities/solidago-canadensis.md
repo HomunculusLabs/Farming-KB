@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Semple JC, Ringius GS, Zhang J (1999). "The goldenrods of Ontario: Solidago L. and Euthamia Nutt." University of Waterloo Biology Series 39.
-  - Bauer N, Schmid B, Matthies D et al. (2010). "Invasive Solidago canadensis affects litter decomposition and nutrient cycling." Biological Invasions 12(11): 3689-3700.
+  - Bauer N, Schmid B, Matthies D et al. (2010). "Invasive Solidago canadensis affects litter decomposition and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]." Biological Invasions 12(11): 3689-3700.
   - European Medicines Agency (2014). "Assessment report on Solidago virgaurea." EMA/HMPC/139530/2010.
   - Werner PA, Bradbury IK, Gross RS (1980). "The biology of Canadian weeds: Solidago canadensis." Canadian Journal of Plant Science 60(4): 1393-1409.
 ---
@@ -22,9 +22,9 @@ sources:
 
 **Solidago canadensis**, commonly known as Canada goldenrod, is a perennial herbaceous plant in the family Asteraceae.
 
-It is native to North America and has become widely naturalized in Europe and parts of Asia, where it is considered an invasive species.
+It is native to [[psilocybin-north-america-pacific-northwest]] and has become widely naturalized in Europe and parts of Asia, where it is considered an invasive species.
 
-Canada goldenrod is one of the most important late-season nectar sources for pollinators in eastern North America.
+Canada goldenrod is one of the most important late-season nectar sources for pollinators in [[polypore-fungi-eastern-north-america]] America.
 
 The species has a long history of medicinal use, particularly in European phytotherapy for urinary and kidney conditions.
 
@@ -74,7 +74,7 @@ In its introduced range, it forms dense monocultures that suppress native plant 
 
 ## Medicinal Properties
 
-The aerial parts of Solidago canadensis contain a range of bioactive compounds including flavonoids, saponins, phenolic acids, and essential oils.
+The aerial parts of Solidago canadensis contain a range of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] including flavonoids, saponins, phenolic acids, and essential oils.
 
 Key constituents include quercetin, kaempferol, rutin, chlorogenic acid, and the triterpene saponin virgaureasaponin.
 
@@ -108,7 +108,7 @@ The dense foliage provides cover for small mammals, birds, and insects during la
 
 In permaculture systems, Canada goldenrod serves multiple functions despite its reputation as an aggressive colonizer.
 
-Its deep root system mines nutrients from subsoil layers, making it a dynamic accumulator of potassium, phosphorus, and trace minerals.
+Its deep root system mines nutrients from subsoil layers, making it a [[nutrient-dynamic-accumulator-reference]] of potassium, phosphorus, and trace minerals.
 
 The aerial biomass can be cut and used as nutrient-rich mulch or compost material (chop-and-drop technique).
 
@@ -116,7 +116,7 @@ The extensive root network stabilizes soil on disturbed sites and helps prevent 
 
 Goldenrod attracts large numbers of predatory insects (assassin bugs, spiders, parasitic wasps) that provide biological pest control.
 
-The dried flower stalks provide structural habitat for overwintering beneficial insects.
+The dried flower stalks provide structural habitat for overwintering [[comparison-beneficial-insects-guide-vs-integrated-pest-management]].
 
 In systems where space allows, a managed goldenrod patch can serve as a dedicated pollinator refuge and nutrient-cycling zone.
 
@@ -132,8 +132,10 @@ Solidago virgaurea (European goldenrod) is smaller, with a less branched inflore
 
 ## See Also
 
+- [[solidago-speciosa]]
+
 - [[plantago-major]]
 - [[hypericum-perforatum]]
-- [[permaculture]]
+- permaculture
 - [[dynamic-accumulators-overview]]
 - [[rumex-acetosa]]

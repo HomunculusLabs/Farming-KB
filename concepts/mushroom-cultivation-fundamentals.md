@@ -7,8 +7,8 @@ mushrooms do not perform photosynthesis — they obtain nutrients by
 decomposing organic matter. This fundamental biological difference
 means that mushroom cultivation operates on entirely different
 principles than plant agriculture, requiring specialized knowledge
-of fungal biology, sterile technique, substrate preparation, and
-environmental control. Paul Stamets' Growing Gourmet and Medicinal
+of fungal biology, [[cultivator-sterile-technique-and-agar-culture]], [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]], and
+[[eclss-environmental-control-life-support]]. Paul Stamets' Growing Gourmet and Medicinal
 Mushrooms provides a comprehensive framework for understanding and
 practicing mushroom cultivation, from laboratory-scale petri dish
 work to commercial production and outdoor mycological landscaping.
@@ -31,7 +31,7 @@ The colonized grain spawn is then used to inoculate the final
 fruiting substrate — the bulk material on which the mushrooms will
 grow and produce fruiting bodies. Suitable substrates vary by
 species and include straw, wood chips, sawdust, composted manure,
-supplemented sawdust blocks, and hardwood logs. After the substrate
+[[oyster-mushroom-supplemented-sawdust-blocks]] blocks, and hardwood logs. After the substrate
 is fully colonized by mycelium (a process called the spawn run or
 vegetative growth phase), environmental conditions are altered to
 trigger fruiting — typically by reducing temperature, increasing
@@ -115,14 +115,15 @@ substrates and therefore have different cultivation requirements.
 The most commonly cultivated gourmet and medicinal species span a
 wide range of ecological strategies and substrate preferences:
 
-- **Shiitake (Lentinula edodes)**: Traditionally cultivated on hardwood logs (oak, beech, chestnut), shiitake is now also widely grown on supplemented sawdust blocks. Log cultivation involves drilling holes in freshly cut logs, filling them with spawn, and sealing with wax. Fruiting typically begins 6-18 months after inoculation and can continue for several years. Shiitake is one of the most commercially important cultivated mushrooms worldwide, valued for its rich umami flavor, meaty texture, and well-documented medicinal properties including immune system modulation and cholesterol-lowering effects.
+- **Shiitake (Lentinula edodes)**: Traditionally cultivated on hardwood logs (oak, beech, chestnut), shiitake is now also widely grown on supplemented sawdust blocks. Log cultivation involves drilling holes in freshly cut logs, filling them with spawn, and sealing with wax. Fruiting typically begins 6-18 months after inoculation and can continue for several years. Shiitake is one of the most commercially important [[fungi-cultivated-mushrooms-pathogens-competitors]] worldwide, valued for its rich umami flavor, meaty texture, and well-documented medicinal properties including immune system modulation and cholesterol-lowering effects.
 
 - **Oyster mushrooms (Pleurotus species)**: Among the easiest mushrooms to cultivate, oyster mushrooms grow on a wide variety of substrates including straw, sawdust, paper waste, coffee grounds, and agricultural residues. They are fast-growing, aggressive colonizers that compete well against contaminants. The genus Pleurotus includes many species with different temperature preferences, colors, and flavors, making oyster cultivation accessible to growers in diverse climates.
 
 - **King Stropharia (Stropharia rugosoannulata)**: Also known as the wine cap mushroom, King Stropharia is well-suited to outdoor cultivation in wood chip beds. It is a vigorous grower that can produce large crops and is valued both as an edible mushroom and as a soil-building organism that enhances soil structure and suppresses plant pathogens.
 
-- **Reishi (Ganoderma lucidum)**: A medicinal mushroom with a long history of use in traditional Chinese medicine, Reishi is cultivated on supplemented hardwood sawdust. It is valued for its immune-modulating, anti-inflammatory, and adaptogenic properties. Reishi produces distinctive bracket-shaped fruiting bodies with a glossy, varnished appearance and a tough, woody texture ideal for extraction into teas and tinctures.
+- **Reishi ([[stamets-reishi-ganoderma-lucidum-cultivation]])**: A medicinal mushroom with a long history of use in traditional Chinese medicine, Reishi is cultivated on supplemented hardwood sawdust. It is valued for its immune-modulating, anti-inflammatory, and adaptogenic properties. Reishi produces distinctive bracket-shaped fruiting bodies with a glossy, varnished appearance and a tough, woody texture ideal for extraction into teas and tinctures.
 
 ## See Also
 - [[mycorrhizal-mushroom-cultivation-challenges]]
 - [[outdoor-mushroom-cultivation-and-polyculture]]
+- [[mushroom-cultivation-grain-spawn]]

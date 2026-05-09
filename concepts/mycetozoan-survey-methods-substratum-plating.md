@@ -1,5 +1,5 @@
 ---
-title: Mycetozoan Survey Methods and Substratum Plating
+title: Mycetozoan mycetozoan survey methods substratum plating and Substratum Plating
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -11,7 +11,7 @@ sources: []
 
 Updated: 2026-04-18
 
-Mycetozoans (slime molds and protostelids) are fungus-like protists found on dead plant material, soil, dung, and living plant surfaces. They comprise three major groups: Myxogastria (plasmodial slime molds), Dictyostelia (cellular slime molds), and Protostelia (protostelids). Their fruiting bodies are typically small, ephemeral, and nocturnal, making specialized collection methods essential.
+Mycetozoans ([[bloomfield-slime-molds-myxomycetes-plasmodial-protists]] and protostelids) are fungus-like protists found on dead plant material, soil, dung, and living plant surfaces. They comprise three major groups: Myxogastria (plasmodial slime molds), Dictyostelia (cellular slime molds), and Protostelia (protostelids). Their fruiting bodies are typically small, ephemeral, and nocturnal, making specialized collection methods essential.
 
 ## Substratum Plating Technique
 
@@ -21,7 +21,7 @@ The primary method for surveying mycetozoans is the substratum plating technique
 
 Mycetozoans colonize a wide range of organic materials:
 - Decaying wood and bark (logs, branches, twigs)
-- Leaf litter from forest floors
+- [[dighton-fungal-decomposition-leaf-litter-dynamics]] from forest floors
 - Dung of herbivorous mammals
 - Soil humus layers
 - Living plant surfaces (bark, leaves, flowers)
@@ -58,7 +58,7 @@ When fruiting bodies are found, isolation to clonal culture is important for doc
 ## Direct Field Observation
 
 Some larger myxomycetes (particularly those in the Physarales, Trichiales, and Stemonitales) can be found by direct field search:
-- Search decaying logs, stumps, and coarse woody debris
+- Search decaying logs, stumps, and coarse [[fungal-succession-woody-debris-ecology]]
 - Check leaf litter surfaces after rain events
 - Look on living tree bark, especially after extended wet periods
 - Search dung shortly after deposition
@@ -81,13 +81,13 @@ A crude abundance index can be constructed by recording the number of substratum
 
 - **Myxomycetes:** Air-dry fruiting structures on substratum; store in boxes with desiccant. For microscopic features, mount in PVLG or lactophenol on permanent slides.
 - **Protostelids:** Because structures are minute, photograph in situ before preservation. Fix with 2-3% glutaraldehyde for electron microscopy if needed.
-- **Dictyostelids:** Maintain in active culture; preserve spores in silica gel or by lyophilization.
+- **Dictyostelids:** Maintain in active culture; preserve spores in [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] or by lyophilization.
 
 ## Challenges
 
 - Many species are rare and may not fruit in every collection period
 - Taxonomic expertise is limited; few active systematists for these groups
-- Molecular identification methods are still being developed
+- [[biodiversity-fungal-molecular-identification-dna-barcoding]] methods are still being developed
 - Fruitihng may be inhibited by bacterial or fungal overgrowth in moist chambers
 - Species concepts are in flux as molecular data become available
 

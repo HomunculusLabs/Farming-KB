@@ -1,6 +1,6 @@
 ---
 
-title: Indigenous Microorganisms (IMO) — Collection and Cultivation
+title: beneficial-indigenous-microorganisms-bim (IMO) — Collection and Cultivation
 created: 2026-04-10
 updated: 2026-04-12
 type: concept
@@ -27,10 +27,10 @@ sources:
 
 # Indigenous Microorganisms (IMO)
 
-IMO is the foundation of Korean Natural Farming. It captures and multiplies the native beneficial microorganisms from your local environment and reintroduces them to your soil. These are the microbes already adapted to your climate and ecosystem. As Master Cho states: "In non-chemical agriculture we do not feed the plant. We nurture the soil and the soil nurtures the plant through the IMOs."
+IMO is the foundation of Korean [[comparison-natural-farming-vs-permaculture]]. It captures and multiplies the native beneficial microorganisms from your local environment and reintroduces them to your soil. These are the microbes already adapted to your climate and ecosystem. As Master Cho states: "In non-chemical agriculture we do not feed the plant. We nurture the soil and the soil nurtures the plant through the IMOs."
 
 Microorganisms have two major functions in farming:
-1. Decompose complex organic compounds (dead plants/animals, wastes) into nutrients absorbable by plants
+1. Decompose complex [[fungal-volatile-organic-compounds-communication]] (dead plants/animals, wastes) into nutrients absorbable by plants
 2. Create antibiotic substances, enzymes, and lactic acids that suppress diseases and promote healthy soil
 
 ## The 4-Stage Process
@@ -58,7 +58,7 @@ Microorganisms have two major functions in farming:
    - At 20C: 5-6 days
    - At 30-35C: 2-3 days
 
-**Method 2 — Bamboo Stump Collection**:
+**Method 2 — [[cho-imo-collection-bamboo-stump-and-paddy-field]] Collection**:
 1. Choose a bamboo bush in the center of a bamboo grove
 2. Cut a healthy bamboo shoot ~10 cm from the ground
 3. Trim the cut stump edges so inner edge slants toward hollow (prevents juice leakage)
@@ -66,7 +66,7 @@ Microorganisms have two major functions in farming:
 5. Cover with the wooden box, then dry leaves, then plastic sheet with weight
 6. In 3-5 days, red, white, yellow, and black microorganisms will be collected along with bamboo juice
 
-**Method 3 — Paddy Field Collection**:
+**Method 3 — Paddy [[psilocybin-mushroom-field-collection-techniques]]**:
 1. After paddy harvest, place rice-filled wooden boxes face-down on cut rice stumps
 2. Cover with steel wire net (mice/rat protection) and plastic sheet
 3. IMOs gather in ~1 week; mostly anaerobic microbes including:
@@ -135,53 +135,12 @@ Microorganisms have two major functions in farming:
 - Optional: seawater and diluted NF inputs for moisture adjustment
 
 **Process**:
-1. Mix 1 part IMO-3 with 1 part soil total
-2. Soil composition: 50% field soil + 20% anthill/termite mound soil + 30% additional field soil
-3. Mix on soil floor (NOT concrete)
-4. Create heap not more than 20 cm high
-5. Adjust moisture to 65-75% with diluted NF inputs (FPJ, FFJ, FAA, LAB at 1:1000)
-6. Add seawater for IMOs to work best when inoculated into soil
-7. Cover for 2 days
-8. Ready to apply — moisture may need adjusting before use (add nutrient liquids if dried)
-
-**Application**: Scatter IMO-4 in small lumps over the field (minimum 1500 kg per acre). Do not bury deeply — the deeper the soil, the richer it is, so don't bury IMO. Apply 2-3 hours before sunset. The lumps help soil build aggregated structure rapidly.
-
-## IMO Diversity Principles
-
-From Cho's book:
-- **Collect from multiple environments**: sunny vs. shaded, high altitude vs. low, mountain summit vs. valley
-- **Collect from all four directions** of the field
-- **Mix different types**: forest, bamboo, paddy field microorganisms
-- **Use the "tough guys"**: collect from high mountains or uncontaminated regions for resilient microbes
-- **Culture at different weather conditions** and mix
-- **Use continuously**: collect and prepare IMOs every year, maintain them in the soil
-
-## Alternative: Carandang BIM Method
-
-Gil Carandang's Philippine approach uses simpler equipment (plastic OK), shorter fermentation (1 week vs 3-5), and a single blended serum rather than sequential stages. Composition: 50% lactic acid bacteria + 50% other microorganisms (forest, bamboo, plant-specific). See [[beneficial-indigenous-microorganisms-bim]] for the full BIM method, recipes, and a detailed comparison with Cho's IMO.
-
-## Storage
-
-- IMO-2 liquid: store in glass bottles in cool dark place, lasts 6-12 months
-- IMO-3: keep in ventilated jute/cloth bags, shaded and cool. Can enter dormancy at 20-30% moisture
-- IMO-4: use promptly; adjust moisture with NF inputs before applying
-- Never store in airtight containers while actively fermenting
-
-## Application Rates
-
-- Soil drench: IMO-2 at 1:500-1000 dilution, apply every 2-4 weeks
-- Compost activation: add IMO-2 at 1:100 to compost pile
-- Seed treatment: use SES solution (see [[knf-preparations]])
-- Transplant: dip roots in 1:100 IMO-2 solution
-- Field application: IMO-4 at 1500+ kg per acre, in small lumps
-- With LAB: IMO mixed with LAB sprayed on field recovers fertility and makes soil soft/fluffy
-
 ## See Also
 
 - [[knf-preparations]] — all KNF inputs overview
 - [[bionutrients-guide]] — Carandang's bionutrient system pairing with BIM
 - [[soil-food-web-nutrient-cycling]] — what IMO does in the soil
-- [[jadam-methods]] — JADAM's alternative microorganism solution (JMS)
+- [[jadam-methods]] — JADAM's alternative [[jadam-microorganism-solution-culturing]] (JMS)
 - [[lactic-acid-bacteria-lab]] — LAB serum recipe (key component of BIM)
 - [[fermented-mixed-compost-fmc]] — FMC uses IMO-4 as base
 

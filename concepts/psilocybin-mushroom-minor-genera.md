@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Mushroom Minor Genera
+title: emcdda-psilocybin-mushroom-dose-and-effects Minor Genera
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Psilocybin Mushroom Minor Genera
 
-The psilocybin-containing mushroom genera beyond Psilocybe and Panaeolus, including Conocybe, Gymnopilus, Inocybe, Pluteus, Copelandia, Hypholoma, Gerronema, and others, which collectively contain dozens of psychoactive species.
+The psilocybin-containing mushroom [[psilocybin-containing-genera-beyond-psilocybe]] Psilocybe and Panaeolus, including Conocybe, Gymnopilus, Inocybe, Pluteus, Copelandia, Hypholoma, Gerronema, and others, which collectively contain dozens of psychoactive species.
 
 ## Overview
 
@@ -29,7 +29,7 @@ Habitats range from lawn and grass to decayed wood substratum.
 
 Species with well-developed partial veils are placed in the subgenus Pholiotina.
 
-Confirmed active species: [[conocybe-cyanopus-profile]] (probably active, up to 0.80% baeocystin), Conocybe kuehneriana (active, reported from Finland), Conocybe siligineoides (used by Mazatecs, unconfirmed).
+Confirmed active species: [[conocybe-cyanopus-profile]] (probably active, up to 0.80% baeocystin), Conocybe kuehneriana (active, reported from Finland), [[guzman-conocybe-siligineoides-lost-sacred-mushroom-oaxaca-never-recollected]] (used by Mazatecs, unconfirmed).
 
 Cap cuticles are composed of inflated rounded cells resembling cobblestones, distinguishing them from Galerinas and Psilocybes which have filamentous cap cuticles.
 
@@ -39,7 +39,7 @@ Four species are listed in the Guzman/Allen/Gartz worldwide checklist.
 
 Medium to large mushrooms with rusty orange to yellow-orange spore prints, preferring wood, with dry caps and well-developed veils.
 
-Approximately 75 species in North America, less than 150 worldwide.
+Approximately 75 species in [[psilocybin-north-america-pacific-northwest]], less than 150 worldwide.
 
 Eleven species confirmed or suspected psilocybin-active: [[gymnopilus-purpuratus-profile]], [[gymnopilus-purpuratus-profile]], G. braendlei, G. intermedius, G. luteoviridis, G. liquiritiae, G. luteus, G. validipes, G. viridans.
 
@@ -47,7 +47,7 @@ G. subpurpuratis from Mexico is suspected active due to green bruising.
 
 Fourteen species are listed in the Guzman/Allen/Gartz worldwide checklist.
 
-The bitter taste common to many Gymnopilus species may indicate additional bioactive compounds beyond psilocybin.
+The bitter taste common to many Gymnopilus species may indicate additional [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] beyond psilocybin.
 
 ## The Genus Inocybe (Cortinariaceae)
 
@@ -61,7 +61,7 @@ The active species are extremely rare compared to the poisonous ones.
 
 Six species are listed in the Guzman/Allen/Gartz worldwide checklist.
 
-The alkaloid aeruginascin, found only in Inocybe aeruginascens, serves as a chemical fingerprint for identification.
+The alkaloid aeruginascin, found only in [[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]], serves as a chemical fingerprint for identification.
 
 ## The Genus Pluteus (Pluteaceae)
 

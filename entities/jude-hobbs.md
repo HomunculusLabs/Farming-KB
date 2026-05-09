@@ -14,7 +14,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Hobbs, J. (2020). "Agroforestry and Permaculture Design." Cascadia Permaculture Institute.
+  - Hobbs, J. (2020). "Agroforestry and bill-mollison-permaculture-a-designers-manual-permaculture-design-principles." Cascadia Permaculture Institute.
   - Hemenway, T. (2009). Gaia's Garden: A Guide to Home-Scale Permaculture, 2nd ed. Chelsea Green. (references Hobbs' design philosophy)
   - Holmgren, D. (2002). Permaculture: Principles and Pathways Beyond Sustainability. Holmgren Design Services.
   - Wilson, E.O. (1992). The Diversity of Life. Harvard University Press. (context for Hobbs' biodiversity advocacy)
@@ -22,7 +22,7 @@ sources:
 
 # Jude Hobbs
 
-Jude Hobbs is an American permaculture designer, educator, and ecological land-use consultant based in the Pacific Northwest (Cascadia bioregion). She is the founder and director of **Cascadia Permaculture Institute** and has been teaching permaculture design courses (PDCs) since the early 1990s, making her one of the most experienced permaculture educators in North America.
+Jude Hobbs is an American permaculture designer, educator, and ecological land-use consultant based in the Pacific Northwest (Cascadia bioregion). She is the founder and director of **Cascadia Permaculture Institute** and has been teaching permaculture design courses (PDCs) since the early 1990s, making her one of the most experienced permaculture educators in [[psilocybin-north-america-pacific-northwest]].
 
 Hobbs is particularly recognized for her integration of **native plant ecology** with permaculture design, her work in **agroforestry systems**, and her advocacy for **women in permaculture**.
 Her teaching emphasizes hands-on, site-specific design grounded in careful observation of existing ecological patterns rather than imposition of preconceived templates.
@@ -34,7 +34,7 @@ With over three decades of teaching experience, Hobbs has influenced several gen
 Hobbs began her career in horticulture and landscape design before encountering permaculture in the late 1980s. She completed her Permaculture Design Certificate (PDC) and subsequently studied with Bill Mollison and other pioneering permaculture designers.
 
 She established her design and consulting practice in the Willamette Valley of Oregon, where she has lived and worked for most of her career.
-Her home site in the southern Willamette Valley serves as a demonstration property showcasing integrated food forests, native plant hedgerows, water harvesting earthworks, and wildlife habitat corridors.
+Her home site in the southern Willamette Valley serves as a demonstration property showcasing integrated food forests, native plant hedgerows, water [[pdc-water-harvesting-earthworks-design]], and wildlife habitat corridors.
 
 Hobbs holds qualifications in permaculture design, horticulture, and landscape architecture. She has served on the board of several permaculture organizations and has been an active voice in the professionalization of permaculture design as a discipline.
 
@@ -57,7 +57,7 @@ She has taught at the University of Oregon, Oregon State University, and numerou
 
 ## Major Contributions
 
-**Agroforestry advocacy:** Hobbs has been a leading voice for integrating agroforestry practices (alley cropping, silvopasture, windbreaks, riparian buffers) into permaculture design. Her work bridges the gap between academic agroforestry research and practical permaculture application.
+**Agroforestry advocacy:** Hobbs has been a leading voice for integrating agroforestry practices ([[comparison-alley-cropping-vs-silvopasture]], silvopasture, windbreaks, riparian buffers) into permaculture design. Her work bridges the gap between academic agroforestry research and practical permaculture application.
 
 **Native plant integration:** Her emphasis on using native plants as structural elements in permaculture systems has influenced a generation of designers to move beyond food-production-centric models toward designs that simultaneously support ecological function, wildlife habitat, and human needs.
 
@@ -69,9 +69,9 @@ Her work bridges the gap between academic agroforestry research and practical pe
 
 ## Published Works and Projects
 
-Hobbs is the author and co-author of several influential works in permaculture education:
+Hobbs is the author and co-author of several influential works in [[holmgren-permaculture-education-training-and-pdc]]:
 
-- **"A Guide to Multi-Functional Hedgerows"** — A practical manual for designing and establishing hedgerow systems that serve multiple functions including wind protection, wildlife habitat, nitrogen fixation, and food production.
+- **"A Guide to Multi-Functional Hedgerows"** — A practical manual for designing and establishing hedgerow systems that serve multiple functions including wind protection, wildlife habitat, [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], and food production.
 - **"Farming with the Wild: Enhancing Biodiversity on Farms and Ranches"** (contributor) — A collection of case studies demonstrating integrated conservation and agricultural practices.
 - **"Oregon Tilth Organic Standards"** (contributor) — Contributed agroforestry and ecological design sections.
 - **Permaculture Design Course curricula** — Developed comprehensive PDC teaching materials used by numerous instructors.

@@ -1,5 +1,5 @@
 ---
-title: JADAM Customized Liquid Fertilizer
+title: JADAM jadam customized liquid fertilizer Fertilizer
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -17,7 +17,7 @@ One of JADAM's most innovative concepts is crop-specific liquid fertilizer: maki
 
 Key points:
 - Do not worry about diseased fruits -- once microbial diversity is established, disease-causing organisms cannot gain dominance
-- A handful of leaf mold is sufficient regardless of container size
+- A handful of [[comparison-leaf-mold-composting-vs-hot-composting-method]] is sufficient regardless of container size
 - The older the fertilizer, the better (like soy sauce)
 - You can make next year's fertilizer as you go through this year's farming
 

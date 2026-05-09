@@ -20,7 +20,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Cannabis Cup Archives. "High Times Cannabis Cup Winners 1994–1999." https://hightimes.com
-  - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency Over the Last 2 Decades." Biological Psychiatry, 79(7), 613–619.
+  - ElSohly, M.A. et al. (2016). "Changes in [[green-cannabis-potency-maximizing]] Over the Last 2 Decades." Biological Psychiatry, 79(7), 613–619.
   - Mudge, E.M. et al. (2018). "Cannabinoid and Terpene Chemotypes of Cannabis." Botany, 96(5), 387–394.
   - Smart, R. et al. (2017). "The Taxonomy of Cannabis." American Journal of Botany, 104(7), 985–993.
 ---
@@ -29,9 +29,9 @@ sources:
 
 ## Overview
 
-Bubblegum is a classic indica-dominant hybrid cannabis strain with a
+Bubblegum is a classic indica-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] with a
 legendary status among cannabis enthusiasts. Originally developed in the
-United States during the 1970s and refined in the Netherlands during the
+[[dmt-containing-plants-united-states-halpern]] during the 1970s and refined in the Netherlands during the
 1990s, Bubblegum earned three consecutive High Times Cannabis Cup awards
 (1994, 1995, 1996), cementing its reputation as one of the most awarded
 strains of its era. The strain is named for its unmistakable sweet, fruity
@@ -110,7 +110,7 @@ Bubblegum suitable for daytime or evening use depending on dosage.
 
 - **Stress and anxiety relief** — the balanced effects and limonene
   content make this a popular choice for generalized anxiety.
-- **Pain management** — moderate analgesic effects for chronic pain,
+- **[[cannabis-pain-management-protocols]]** — moderate analgesic effects for [[cannabis-chronic-pain-management]],
   muscle spasms, and tension headaches.
 - **Insomnia** — higher doses promote sleep onset.
 - **Appetite stimulation** — typical indica effect, useful for nausea

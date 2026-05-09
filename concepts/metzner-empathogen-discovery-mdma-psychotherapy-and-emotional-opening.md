@@ -1,5 +1,5 @@
 ---
-title: "Empathogen Discovery: MDMA Psychotherapy and Emotional Opening"
+title: "metzner empathogen discovery mdma psychotherapy and emotional opening: MDMA Psychotherapy and Emotional Opening"
 source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 tags: [ralph-metzner, alexander-shulgin, mdma, mda, empathogen,
   phenethylamine, psychotherapy, emotional-opening, relationship-communication,
@@ -21,7 +21,7 @@ These compounds included MDA, MDMA, and 2-CB, among others.
 
 Shulgin's systematic exploration of these substances, documented in
 _Pihkal_ (with Ann Shulgin, 1991), opened a new frontier in
-psychedelic research distinct from the classical hallucinogens.
+[[mckenna-suppression-psychedelic-research-lsd-therapy]] distinct from the classical hallucinogens.
 
 ## The Empathogen Concept
 
@@ -85,8 +85,8 @@ of techno music, represents one end of the spectrum of set-and-
 setting rituals using psychoactive substances in the modern world.
 
 Metzner contrasted the recreational rave context with the more
-structured neoshamanic medicine circles he studied, noting that
-both represent intentional arrangements of set and setting.
+structured [[metzner-neoshamanic-medicine-circles-structure-and-practice]] circles he studied, noting that
+both represent intentional arrangements of [[lsd-set-and-setting-framework]].
 
 ## Position Within the Four Paradigms
 
@@ -97,14 +97,14 @@ psychotherapy, including the primacy of set and setting and the
 necessity of experienced guides.
 
 However, the empathogens' unique profile, centered on emotional
-opening rather than consciousness expansion, created a distinct
+opening rather than [[mckenna-consciousness-expansion-and-drug-war]], created a distinct
 therapeutic modality that complemented the psycholytic and
 psychedelic approaches.
 
 ## Significance for the Field
 
 The discovery of empathogens expanded the toolkit of psychoactive-
-assisted therapy beyond the classical hallucinogens.
+[[metzner-mdma-assisted-therapy-research]] beyond the classical hallucinogens.
 It demonstrated that therapeutic benefit could be achieved without
 the full-blown altered state of consciousness induced by LSD or
 psilocybin.
@@ -117,6 +117,6 @@ experience, while still accessing deep emotional material.
 
 [[metzner-set-and-setting-hypothesis-origins-and-extensions]]
 [[metzner-talking-staff-and-preparation-integration-in-hybrid-ceremonies]]
-[[mdma]]
+mdma
 [[2c-b-compound-profile]]
 empathogen

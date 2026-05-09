@@ -1,108 +1,124 @@
 ---
-title: "MDMA (3,4-Methylenedioxymethamphetamine)"
-created: 2026-04-28
+title: "3,4-Methylenedioxymethamphetamine (MDMA)"
 type: chemical
 tags:
-  - psychedelic
-  - entactogen
   - empathogen
+  - entactogen
   - phenethylamine
-  - amphetamine
+  - substituted-amphetamine
   - serotonergic
-  - monoamine-releaser
-  - psychotherapy
-  - clinical-research
-  - scheduled-substance
-date: 2026-04-28
-updated: 2026-04-28
+date: 2026-05-09
+updated: 2026-05-09
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/ — MDMA clinical trial literature
-  - Shulgin, A. & Shulgin, A. (1991). PIHKAL: A Chemical Love Story. Transform Press.
-  - https://[[serotonin]].
+  - Shulgin, A. & Shulgin, A. (1991). "PIHKAL: A Chemical Love Story." Transform Press.
+  - Nichols, D.E. (1986). "Differences between the mechanism of action of MDMA, MBDB, and the classic hallucinogens." Journal of Psychoactive Drugs, 18(4), 305-313.
+  - Green, A.R. et al. (2003). "MDMA, ecstasy and related drugs: a review of their pharmacology." Pharmacology & Therapeutics, 98(2), 147-161.
+  - Parrott, A.C. (2001). "Human psychopharmacology of ecstasy (MDMA)." Pharmacology & Biochemistry of Behavior, 61(2), 143-156.
+---
+
+## Overview
+
+**3,4-Methylenedioxymethamphetamine (MDMA)** is a synthetic psychoactive compound of the substituted amphetamine class, known for its empathogenic and entactogenic effects.
+
+It was first synthesized by Merck in 1912 and later popularized as a recreational substance under street names including ecstasy, molly, and E. MDMA is the most widely used empathogen worldwide.
+
+MDMA acts primarily as a serotonin-norepinephrine-dopamine releasing agent (SNDRA), producing feelings of emotional openness, increased sociability, and heightened sensory perception.
+
+It is classified as a Schedule I substance under the United States Controlled [[controlled-substances-act-and-psychedelic-research]] and is regulated internationally under the UN Convention on Psychotropic Substances.
+
+## Chemical Properties
+
+MDMA has the molecular formula **C₁₁H₁₅NO₂** and a molar mass of 193.24 g/mol.
+
+Its systematic IUPAC name is (RS)-1-(1,3-benzodioxol-5-yl)-N-methylpropan-2-amine.
+
+The compound features a methylenedioxy group attached to the phenyl ring at positions 3 and 4, and an N-methyl substitution on the amine nitrogen.
+
+MDMA exists as two enantiomers, with the (S)-(+)-enantiomer being more pharmacologically active in producing the characteristic empathogenic effects.
+
+It appears as a white crystalline powder at room temperature, with a melting point of approximately 147–148 °C.
+
+The hydrochloride salt form is the most common preparation for both research and illicit distribution, owing to its improved water solubility and stability.
+
+MDMA is structurally related to both amphetamine and mescaline, sharing the phenethylamine backbone with a methylenedioxy substitution pattern also found in the  family of compounds.
 
 ## Pharmacology
 
-### Mechanism of Action
+MDMA functions as a non-selective monoamine transporter substrate, reversing the normal direction of serotonin (SERT), norepinephrine (NET), and dopamine (DAT) transporters.
 
-MDMA acts primarily as a **releasing agent and reuptake inhibitor** of three monoamine neurotransmitters:
+Its primary mechanism is the induction of serotonin release via SERT, which accounts for its characteristic emotional and prosocial effects.
 
-1. **Serotonin (5-HT):** Primary mechanism — MDMA enters serotonergic neurons via the serotonin transporter (SERT) and causes massive, non-exocytotic serotonin release by reversing the transporter's normal direction. It also inhibits [[alexander-shulgin]]
+The compound binds to SERT with high affinity, triggering vesicular serotonin depletion through interaction with VMAT2.
+
+This leads to a massive increase in extracellular serotonin concentrations, estimated at 3–8 times baseline in animal models.
+
+Dopamine and norepinephrine release are secondary but contribute to the stimulant and cardiovascular effects observed during intoxication.
+
+MDMA also has weak direct agonist activity at 5-HT₂A and trace amine-associated receptor 1 (TAAR1), though these contribute minimally to its primary effects.
+
+The acute pharmacological profile distinguishes MDMA from classical psychedelics like [[lsd]], which act primarily as 5-HT₂A agonists.
+
+It also differs from pure stimulants like [[essential-amphetamines-and-natural-precursors]], which predominantly affect dopamine and norepinephrine systems without significant serotonergic release.
+
+## Effects
+
+The subjective effects of MDMA at recreational doses (80–150 mg) typically last 3–6 hours and include pronounced emotional openness, enhanced empathy, and feelings of interpersonal closeness.
+
+Sensory enhancement, particularly in music appreciation and tactile perception, is commonly reported by users.
+
+Physical effects include mild stimulant symptoms: pupillary dilation, increased heart rate (20–30 bpm elevation), elevated blood pressure, bruxism, and hyperthermia.
+
+The thermoregulatory disruption is the most clinically significant acute risk, particularly in crowded dance environments where dehydration compounds the danger.
+
+Onset occurs within 30–60 minutes of oral administration, with peak effects at 90–150 minutes.
+
+The experience is typically described as a "come-up" phase, a plateau of 2–3 hours, and a gradual comedown lasting 1–2 hours.
+
+[[blesching-cannabis-safety-adverse-effects-evidence]] include anxiety, depression, and fatigue during the post-acute period (24–72 hours), attributed to transient serotonergic depletion.
+
+Long-term heavy use has been associated with serotonergic neurotoxicity in animal studies, though the clinical significance in humans remains debated.
+
+## Synthesis and Legal Status
+
+MDMA is synthesized from safrole or its isosafrole derivative through a three-step process: isomerization to isosafrole, oxidation to MDP2P, followed by reductive amination with methylamine.
+
+Safrole, a natural precursor found in sassafras oil, is itself internationally controlled under the UN Convention Against Illicit Traffic in Narcotic Drugs.
+
+In the United States, MDMA is classified as Schedule I (no accepted medical use, high abuse potential).
+
+In 2024, the FDA declined to approve MDMA-assisted therapy for PTSD, maintaining its controlled status despite Phase III [[mushroom-cancer-clinical-trials-overview]] demonstrating significant therapeutic potential.
+
+Internationally, MDMA is listed in Schedule I of the UN Convention on Psychotropic Substances (1971).
+
+Several countries, including the Netherlands and Canada, permit limited research use under special licensing frameworks.
+
+Australia reclassified MDMA as a Schedule III controlled substance for therapeutic use in 2023, becoming one of the first nations to formally recognize its medical potential.
+
+## History
+
+MDMA was first synthesized by the German pharmaceutical company Merck in 1912 as an intermediate compound in the synthesis of hygrine, a potential styptic agent.
+
+It was not pharmacologically evaluated at that time and remained largely forgotten for decades.
+
+The compound was independently rediscovered and tested in the 1950s–1960s by the US Army as part of the Edgewood Arsenal experiments investigating potential [[solomon-root-exudates-and-allelopathy]] agents.
+
+Alexander Shulgin resynthesized MDMA in 1965 and later introduced it to psychotherapists in the 1970s as an adjunct to talk therapy, estimating its therapeutic dose range at 80–150 mg.
+
+During the 1980s, MDMA transitioned from a therapeutic tool to a recreational drug, gaining widespread popularity in the dance music scene.
+
+The DEA emergency-scheduled it in 1985, and it was permanently placed in Schedule I in 1988 despite limited hearings and opposition from psychiatrists.
+
+[[hofmann-lsd-clinical-research-early-studies]] into MDMA-assisted psychotherapy resumed in the 2000s, with the [[maps-multidisciplinary-association-for-psychedelic-studies]] for Psychedelic Studies (MAPS) sponsoring Phase II and III trials for PTSD treatment.
+
+These trials demonstrated significant reductions in PTSD symptom severity compared to placebo, with approximately 67% of participants no longer meeting diagnostic criteria after treatment.
+
+## See Also
+
+- [[mda]]
+- [[mdea]]
+- [[lsd]]
+- [[psilocybin]]
 - [[mescaline-entity]]
-## Practical Applications
-
-MDMA (3,4-Methylenedioxymethamphetamine) has a range of practical applications that make it relevant to
-both researchers and practitioners. Understanding these applications
-requires familiarity with the underlying principles and their
-manifestation in real-world contexts. The breadth of applications
-reflects the fundamental importance of this topic across disciplines.
-
-Implementation varies based on scale, available resources, and
-specific objectives. Small-scale applications may be relatively
-straightforward, while larger implementations require more careful
-planning and coordination. Adaptation to local conditions is always
-essential for achieving optimal results regardless of scale.
-
-Documented case studies provide valuable reference points, though
-each situation presents unique combinations of opportunities and
-constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
-creative adaptation to local conditions and emerging challenges.
-
-## Key Considerations
-
-Several important considerations should guide approach and decision-
-making when working with this topic. These include environmental
-factors, resource availability, timing, and the specific goals of the
-implementation. Careful attention to these factors improves outcomes
-and reduces the likelihood of common problems and setbacks.
-
-Environmental conditions play a particularly significant role in
-determining outcomes. Factors such as temperature, moisture, light
-exposure, and seasonal timing can substantially affect results.
-Monitoring these conditions and adapting practices accordingly is
-a hallmark of experienced and effective practice in this area.
-
-Resource considerations include not only material inputs but also
-knowledge, skills, time, and ongoing management capacity. Realistic
-assessment of available resources helps prevent overcommitment and
-enables more sustainable and successful long-term implementations.
-
-## Common Challenges
-
-Practitioners commonly encounter several challenges when working with
-MDMA (3,4-Methylenedioxymethamphetamine). These include both technical difficulties and broader systemic
-issues that require adaptive management and creative problem-solving.
-Awareness of these common challenges enables more proactive planning
-and faster resolution when issues do arise during implementation.
-
-Technical challenges often relate to the complexity of interactions
-between multiple variables and the difficulty of predicting outcomes
-with certainty. Building in redundancy, monitoring key indicators, and
-maintaining flexibility in approach all help manage this inherent
-uncertainty and improve the resilience of implementations over time.
-
-Learning from both successes and failures is essential for continuous
-improvement. Maintaining records of observations, interventions, and
-outcomes creates a valuable knowledge base that supports progressively
-better results with each iteration of practice and experimentation.
-
-## Integration and Future Development
-
-The greatest value from this topic often comes through integration
-with other systems and approaches. Rather than treating it in isolation,
-considering how it connects with and enhances other elements creates
-more robust and productive overall systems. This integrative approach
-is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-
+- [[serotonin]]
+- [[2c-b]]
+- [[blesching-cannabis-dopamine-endocannabinoid-system]]

@@ -44,7 +44,7 @@ Traditional healers across sub-Saharan Africa and parts of Southeast Asia use th
 
 **Synonyms:** Entada pursaetha DC., Entada gigas (L.) Fawc. & Rendle, Entada scandens (L.) Roxb., Acacia rheedii (Spreng.) Roxb.
 
-**Etymology:** The genus name *Entada* is derived from a local name used in tropical regions. The species epithet *rheedii* honors Hendrik Adriaan van Rheede tot Drakenstein (1636-1691), a Dutch colonial administrator and botanist who compiled the monumental *Hortus Malabaricus*.
+**Etymology:** The genus name *Entada* is derived from a local name used [[fukuoka-natural-farming-in-tropical-regions]]. The species epithet *rheedii* honors Hendrik Adriaan van Rheede tot Drakenstein (1636-1691), a Dutch colonial administrator and botanist who compiled the monumental *Hortus Malabaricus*.
 
 **Common names:** African dream herb, sea heart, snuff-box bean, cacoon vine, elephant's dream, kwata (Zulu), insimbi (Xhosa), kalumpang (Philippines).
 
@@ -78,7 +78,7 @@ The phytochemistry of Entada rheedii seeds remains incompletely characterized, w
 **Identified constituents:**
 
 - **Saponins:** Present in seed tissue; may contribute to mild psychoactive and dream-enhancing effects. Saponin content is reported as moderate by thin-layer chromatography (TLC).
-- **Tryptamine alkaloids:** Trace amounts of dimethyltryptamine (DMT) and 5-methoxy-DMT have been anecdotally reported but not conclusively confirmed in peer-reviewed literature for this species.
+- **[[hplc-analysis-of-tryptamine-alkaloids]]:** Trace amounts of dimethyltryptamine (DMT) and 5-methoxy-DMT have been anecdotally reported but not conclusively confirmed in peer-reviewed literature for this species.
 - **Tannins:** Proanthocyanidins and condensed tannins present in seed coat and cotyledon.
 - **Flavonoids:** Quercetin, kaempferol derivatives detected in leaf tissue.
 - **Proteins:** Seeds are protein-rich (approximately 25-30% crude protein by dry weight).
@@ -104,7 +104,7 @@ The cotyledon is consumed raw, powdered and mixed with water, or steeped as a te
 **General tonic:** Seeds consumed as a strengthening tonic, particularly after illness.
 **Wound healing:** Seed paste applied topically to wounds and skin lesions.
 **Anti-inflammatory:** Leaf decoctions used for joint pain and swelling.
-**Antifungal:** Crude extracts active against Candida albicans and dermatophytes in vitro.
+**Antifungal:** Crude extracts active against [[candida-albicans]] and dermatophytes in vitro.
 **Stomach ailments:** Seed preparations for digestive complaints in some traditions.
 **Fishing:** Crushed seeds used as ichthyotoxin in parts of Southeast Asia to immobilize fish.
 
@@ -114,13 +114,13 @@ The cotyledon is consumed raw, powdered and mixed with water, or steeped as a te
 Germination occurs within 2-6 weeks after scarification in warm, moist conditions.
 Soaking in water for 24-48 hours after scarification improves germination rates (reported 50-70%).
 
-**Growing conditions:** Tropical to subtropical climate. Requires consistent warmth (minimum 15°C), high humidity, and well-drained soil.
+**Growing conditions:** Tropical to [[query-how-do-i-grow-bananas-in-a-subtropical-climate]]. Requires consistent warmth (minimum 15°C), high humidity, and well-drained soil.
 Full sun to partial shade. Rapid growth in ideal conditions (1-3 m/year).
 
 **Support:** Requires a substantial trellis, tree, or structure to climb. Not suitable for container cultivation long-term due to massive size.
 
 **Hardiness:** Not frost-tolerant. USDA zones 10-12 only.
-In temperate climates, may be grown as an annual ornamental but will not reach flowering size.
+In [[fukuoka-natural-farming-temperate-climates]], may be grown as an annual ornamental but will not reach flowering size.
 
 ## Ecological Role
 
@@ -133,7 +133,7 @@ In temperate climates, may be grown as an annual ornamental but will not reach f
 - **Large-scale ornamental vine:** Dramatic presence in tropical food forests and permaculture gardens.
 - **Seed harvest:** Sustainable seed collection for traditional medicine or personal use.
 - **Nitrogen fixation:** Potential nitrogen input in tropical agroforestry systems.
-- **Coastal restoration:** Useful in stabilizing coastal dunes and forest margins.
+- **[[dighton-fungi-mangrove-coastal-ecosystems]]:** Useful in stabilizing coastal dunes and forest margins.
 - **Companions:** Grows well with [[banisteriopsis-caapi]], and other tropical vines and trees.
 ## Related Species
 

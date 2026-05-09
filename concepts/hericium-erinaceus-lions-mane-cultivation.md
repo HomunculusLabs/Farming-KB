@@ -1,5 +1,5 @@
 ---
-title: Hericium Erinaceus Lions Mane Cultivation
+title: Hericium hericium erinaceus lions mane cultivation Mane Cultivation
 tags: [hericium-erinaceus, lions-mane, mushroom-cultivation, medicinal-mushrooms, sawdust-cultivation, nerve-growth-factor]
 date: 2026-04-28
 updated: 2026-04-28
@@ -31,8 +31,8 @@ considerable appeal as a culinary ingredient.
 ## Outdoor Cultivation
 
 Outdoor cultivation of H. erinaceus follows the familiar log and stump
-[[inoculation-methods]] common to many gourmet mushrooms. Logs or stumps are
-inoculated with either sawdust spawn or plug spawn. This species is notable
+[[inoculation-methods]] common to many [[growing-gourmet-mushrooms-civilization-history]]. Logs or stumps are
+inoculated with either [[growing-gourmet-sawdust-spawn-production-use]] or plug spawn. This species is notable
 for being one of the few mushrooms that produces well on walnut logs, making
 it an excellent choice for growers with access to walnut wood. Other suitable
 hardwood species include oaks, beech, elm, and various other hardwoods.
@@ -45,11 +45,11 @@ from a single inoculation.
 ## Indoor Cultivation
 
 Indoor cultivation of Hericium erinaceus employs sterilized sawdust and bran
-substrates using the same general methods as Shiitake cultivation. The
+substrates using the same general methods as [[gourmet-medicinal-mushroom-shiitake-cultivation-logs]]. The
 substrate is supplemented with bran, sterilized, and then inoculated with
 grain or sawdust spawn. However, H. erinaceus requires greater attention to
 mycelial mat luxuriance than many other cultivated species, meaning that a
-thick, healthy, fully colonized mycelial network is essential for good
+thick, healthy, fully colonized [[gadd-mycelial-network-dynamics]] is essential for good
 fruiting. A substrate pH of 6.5 to 7.0 is considered ideal. Maintaining
 strict hygiene during inoculation and incubation is important, as the rich
 substrate can be susceptible to contamination.
@@ -58,7 +58,7 @@ substrate can be susceptible to contamination.
 
 Fruiting is initiated by puncturing polypropylene bags with 10 to 20 small
 holes after the substrate is fully colonized, typically 25 to 40 days
-post-inoculation. These minute holes localize primordia formation, directing
+post-inoculation. These minute holes localize [[growing-gourmet-primordia-formation-pinning]], directing
 the mushroom to form at specific sites rather than across the entire surface.
 This technique produces cleaner, more manageable fruitbodies that snap off
 at the base with minimal debris. Typical yields reach 550 grams fresh from 5
@@ -94,4 +94,7 @@ Hericium erinaceus ranks as one of the Stamets family's favorite gourmet
 
 ## See Also
 
-- [[lions-mane-mushroom-hericium-erinaceus]]
+- hericium erinaceus lions mane cultivation
+- [[lions-mane-cultivation]]
+- [[hericium-erinaceus]]
+- [[lions-mane-hericium-erinaceus]]

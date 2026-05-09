@@ -49,9 +49,9 @@ Growth is optimal in warm (20–30°C), shallow, nutrient-rich waters with fine 
 
 ## Ecology and Invasiveness
 
-Hydrilla forms dense surface mats and subsurface canopies that can reduce dissolved oxygen to critically low levels through nighttime respiration. This oxygen depletion can cause fish kills and degrade habitat for invertebrates and other aquatic organisms.
+Hydrilla forms dense surface mats and subsurface canopies that can reduce [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] to critically low levels through nighttime respiration. This oxygen depletion can cause fish kills and degrade habitat for invertebrates and other aquatic organisms.
 
-The species outcompetes native vegetation through multiple mechanisms including shading, nutrient preemption, and allelopathy. Hydrilla releases bioactive compounds that inhibit growth of competing algal and plant species, a trait documented in both laboratory and field studies.
+The species outcompetes native vegetation through multiple mechanisms including shading, nutrient preemption, and allelopathy. Hydrilla releases [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] that inhibit growth of competing algal and plant species, a trait documented in both laboratory and field studies.
 
 Vegetative reproduction is extraordinarily prolific. A single stem fragment with one node can produce a new colony. Subterranean turions are produced at densities of up to 5,000 per square meter of sediment, creating a persistent propagule bank that frustrates eradication efforts.
 
@@ -61,15 +61,15 @@ Both biotypes produce turions, but the monoecious form also produces abundant ax
 
 Herbicide treatment is the most widely used management approach, with fluridone, endothall, diquat, penoxsulam, and bispyribac-sodium all registered for hydrilla control. Fluridone applied at low concentrations (10–20 ppb) over 8–12 weeks is the standard systemic treatment.
 
-Grass carp (*Ctenopharyngodon idella*) have been used for biological control since the 1970s, with triploid (sterile) fish stocked at rates of 15–30 fish per vegetated hectare. Grass carp can provide long-term hydrilla suppression but are non-selective and may eliminate all submersed vegetation if overstocked.
+Grass carp (*Ctenopharyngodon idella*) have been used for [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] since the 1970s, with triploid (sterile) fish stocked at rates of 15–30 fish per vegetated hectare. Grass carp can provide long-term hydrilla suppression but are non-selective and may eliminate all submersed vegetation if overstocked.
 
-Mechanical harvesting provides immediate open-water relief but is labor-intensive, generates fragments, and must be repeated throughout the growing season. Bottom barriers (benthic covers) are effective in small areas such as boat ramps and swimming areas but are impractical for large water bodies.
+Mechanical harvesting provides immediate open-water relief but is labor-intensive, generates fragments, and must be repeated throughout the [[savory-growing-season-and-non-growing-season-management]]. Bottom barriers (benthic covers) are effective in small areas such as boat ramps and swimming areas but are impractical for large water bodies.
 
 The hydrilla leaf-mining fly (*Hydrellia pakistanae*) and hydrilla stem-boring weevil (*Bagous affinis*) have been investigated as biological control agents with limited success. None have achieved the population levels needed for effective landscape-scale suppression in U.S. infestations.
 
 ## Physiological Characteristics
 
-*H. verticillata* exhibits C₃ photosynthesis with high rates of carbon fixation, particularly at elevated temperatures. The species can supplement photosynthesis with bicarbonate uptake, conferring advantage in alkaline waters where dissolved CO₂ is depleted.
+*H. verticillata* exhibits C₃ photosynthesis with high rates of [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]], particularly at elevated temperatures. The species can supplement photosynthesis with bicarbonate uptake, conferring advantage in alkaline waters where dissolved CO₂ is depleted.
 
 Nitrogen assimilation occurs through both nitrate and ammonium uptake pathways. Under low-nitrogen conditions, hydrilla shifts to a more efficient ammonium uptake system and can reduce nitrate to ammonium internally. Phosphorus is stored in leaf tissue at concentrations exceeding growth requirements.
 
@@ -81,7 +81,7 @@ Genetic studies using RAPD markers and DNA sequencing have revealed distinct gen
 
 The monoecious biotype shows greater genetic diversity, suggesting multiple introductions from different source populations in Asia. This genetic variation may contribute to the broader environmental tolerance and more aggressive colonization behavior observed in monoecious populations.
 
-Hybridization between biotypes has not been documented in natural populations. The two forms differ in turion production patterns, flowering phenology, and herbicide susceptibility, which has practical implications for management program design.
+Hybridization between biotypes has not been documented in natural populations. The two forms differ in turion production patterns, flowering phenology, and herbicide susceptibility, which has practical implications for management [[cervantes-breeding-program-design-goal-setting]].
 
 ## Cultural and Research Significance
 

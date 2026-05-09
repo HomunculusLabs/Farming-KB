@@ -1,10 +1,11 @@
 ---
-title: "How to Set Up a Backyard Pond for Wildlife"
+title: "How to Set Up a comparison-aquaculture-in-permaculture-vs-backyard-pond-building for Wildlife"
 created: 2026-04-28
 tags: [query, water-management, wildlife-habitat, permaculture, backyard-ecology]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -12,15 +13,15 @@ type: query
 
 ## Short Answer
 
-A backyard wildlife pond can be created by digging a shallow basin with varying depths, adding a waterproof liner, filling with rainwater, and planting native aquatic vegetation around the edges.
+A [[hemenway-backyard-wildlife-habitat]] pond can be created by digging a shallow basin with varying depths, adding a waterproof liner, filling with rainwater, and planting native aquatic vegetation around the edges.
 
-Even a small pond of one to two square meters can attract frogs, dragonflies, birds, and beneficial insects within the first season.
+Even a small pond of one to two square meters can attract frogs, dragonflies, birds, and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] within the first season.
 
 ## Why Build a Wildlife Pond
 
 Wildlife ponds are one of the most effective single features you can add to a garden for supporting biodiversity. Freshwater habitats are among the most threatened ecosystems globally, and even tiny garden ponds serve as critical stepping stones for aquatic species moving across the landscape.
 
-Ponds provide drinking water for birds and mammals, breeding habitat for amphibians, and hunting grounds for dragonflies and other predatory insects. They also create a microclimate that moderates temperature and humidity for surrounding garden plants.
+Ponds provide drinking water for birds and mammals, breeding habitat for amphibians, and hunting grounds for dragonflies and other predatory insects. They also create a microclimate that moderates [[greg-green-temperature-and-humidity-control]] for surrounding garden plants.
 
 ## Choosing the Right Location
 
@@ -80,7 +81,7 @@ Leave some surrounding grass uncut to provide cover for creatures traveling to a
 
 Wildlife ponds require surprisingly little maintenance compared to ornamental ponds.
 
-Avoid cleaning the pond too thoroughly, as the organic matter on the bottom supports a complex food web of microorganisms and invertebrates.
+Avoid cleaning the pond too thoroughly, as the [[hamilton-composting-and-organic-matter-management]] on the bottom supports a complex food web of microorganisms and invertebrates.
 
 Remove excess algae or duckweed only if it covers more than half the surface area.
 
@@ -94,10 +95,12 @@ During winter, never break ice by hitting it, as the shock waves can harm hibern
 - Varying depth zones with gently sloping sides ensure safe access for all creatures
 - Native aquatic plants provide oxygen, cover, and food for pond inhabitants
 - Rainwater is preferred over tap water to prevent algae problems
-- Minimal maintenance preserves the natural ecological balance of the pond
+- Minimal maintenance preserves the natural [[fukuoka-ecological-balance-principles]] of the pond
 
-## Related Pages
+## Related
+
+- [[query-how-do-i-design-a-farm-pond-for-irrigation-and-wildlife]] Pages
 
 - [[wetland-ecology]]
-- [[permaculture-designers-manual-aquatic-plants]]
+- permaculture-designers-manual-aquatic-plants
 - [[permaculture-design]]

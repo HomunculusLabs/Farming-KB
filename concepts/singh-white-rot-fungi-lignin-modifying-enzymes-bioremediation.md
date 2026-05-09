@@ -32,7 +32,7 @@ Lignin peroxidase (EC 1.11.1.14) is a heme-containing glycoprotein
 that catalyzes the H2O2-dependent oxidation of non-phenolic aromatic
 substrates with high ionization potentials. Key features include:
 
-- Veratryl alcohol acts as a redox mediator, shuttling electrons
+- [[staycare-veratryl-alcohol-as-lignin-peroxidase-mediator]] acts as a [[staycare-fungal-redox-mediator-chemistry-pollutant-degradation]], shuttling electrons
   between LiP compound I/II and the aromatic substrate.
 
 - LiP can oxidize phenolic and non-phenolic lignin model compounds,
@@ -41,7 +41,7 @@ substrates with high ionization potentials. Key features include:
 - The enzyme operates optimally at pH 2.5-3.5, which is relevant for
   certain industrial effluent treatments.
 
-- Phanerochaete chrysosporium is the canonical LiP producer, though
+- [[staycare-phanerochaete-chrysosporium-in-bioremediation]] is the canonical LiP producer, though
   many WRF species produce LiP isoforms with varying substrate
   specificities.
 
@@ -80,7 +80,7 @@ in WRF but also in ascomycetes, plants, bacteria, and insects:
 - Catalyzes both polymerization (useful in dye decolorization) and
   depolymerization of aromatic pollutants.
 
-- Trametes versicolor laccase is among the most studied for
+- [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] laccase is among the most studied for
   bioremediation applications.
 
 ## Hydrogen Peroxide Production
@@ -95,7 +95,7 @@ generate H2O2 through several metabolic pathways:
   dismutation reactions.
 
 - Intracellular peroxisomal oxidases contribute to the H2O2 pool
-  that diffuses to extracellular enzyme sites.
+  that diffuses to [[dighton-fungal-extracellular-enzyme-systems-decomposition]] sites.
 
 Regulation of H2O2 supply is a critical control point for the
 overall oxidative capacity of the ligninolytic system.
@@ -138,6 +138,6 @@ the target molecule simultaneously:
 - [[singh-ligninolytic-enzymes-fungal-bioremediation]]
 - [[singh-arbuscular-mycorrhizal-fungi-soil-remediation]]
 - [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]]
-- basidiomycete fungi petroleum hydrocarbon cleanup
+- basidiomycete fungi [[singh-petroleum-hydrocarbon-fungal-remediation-technologies]] cleanup
 - fungal enzyme systems environmental applications
 - [[singh-bioaugmentation-vs-biostimulation-fungal-strategies]]

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 
-Decomposition is the process by which organic matter is broken down into
+Decomposition is the process by which [[hamilton-composting-and-organic-matter-management]] is broken down into
 simpler compounds, ultimately forming [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]].
 
 ## The Hierarchy of Decomposability
@@ -45,10 +45,10 @@ in the mesophilic stage (68-104F).
 
 ### Fungal Role
 
-Fungi excel at cellulose decomposition because of their hyphal growth
-strategy. Using apical growth (extension at the hyphal tip), fungi can
+Fungi excel at cellulose decomposition because of their [[bloomfields-orchard-hyphal-growth-and-invasive-biology]]
+strategy. Using apical growth (extension at the [[gadd-hyphal-tip-growth-and-branching-mechanisms]]), fungi can
 physically penetrate plant cell walls and access cellulose that bacteria
-cannot reach. Brown rot fungi (basidiomycetes) are particularly
+cannot reach. [[comparison-brown-rot-vs-white-rot-bioremediation]] fungi (basidiomycetes) are particularly
 important cellulose decomposers in wood and forest litter.
 
 ## Lignin Decomposition
@@ -68,7 +68,7 @@ carbon dioxide and water.
 
 Brown rot fungi primarily attack cellulose but also modify lignin,
 leaving behind a brown, crumbly residue. They use a non-enzymatic
-Fenton chemistry (hydrogen peroxide plus iron) to depolymerize
+Fenton chemistry ([[cervantes-hydrogen-peroxide-sterilization]] plus iron) to depolymerize
 cellulose.
 
 ### Actinomycetes

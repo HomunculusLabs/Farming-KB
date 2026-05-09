@@ -1,5 +1,5 @@
 ---
-title: "Food Preservation and Storage"
+title: "Food lacto-fermentation-and-food-preservation-methods"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
@@ -13,17 +13,17 @@ Source: Steve Solomon, "Gardening When It Counts" (2005)
 
 ## The Goal: Fresh Food Year-Round
 
-Solomon argues that for a body in robust health, you must feed it a sizeable amount of fresh food, preferably raw. The nutritional quality of canned and frozen foods has been massively reduced, especially if blanched during processing. Fortunately, in cold-winter climates it is possible to store fresh vegetables in living condition for many months without electricity. This is accomplished by cellaring.
+Solomon argues that for a body in robust health, you must feed it a sizeable amount of fresh food, preferably raw. The [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of canned and frozen foods has been massively reduced, especially if blanched during processing. Fortunately, in cold-winter climates it is possible to store fresh vegetables in living condition for many months without electricity. This is accomplished by cellaring.
 
 ## Root Cellaring
 
-Root cellaring is the most important and underutilized food preservation method. The concept: imagine having the makings for a fresh salad throughout winter; eating bins of root vegetables, your own cabbage, and Brussels sprouts (still on the stalk) in midwinter.
+Root cellaring is the most important and underutilized food preservation method. The concept: imagine having the makings for a fresh salad throughout winter; eating bins of [[growing-root-vegetables-guide]], your own cabbage, and Brussels sprouts (still on the stalk) in midwinter.
 
 ### Requirements
 
 - Temperature: 32-40F (0-4C), stable
 - Humidity: high for root vegetables (damp packing)
-- Ventilation: some air circulation to prevent mold
+- Ventilation: some [[stamets-growing-room-air-circulation-co2-management]] to [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]]
 - Darkness: prevents sprouting and greening
 
 ### Making a Root Cellar
@@ -132,7 +132,7 @@ Not emphasized by Solomon, who considers root cellaring superior for most vegeta
 
 Solomon's approach to food self-sufficiency involves:
 1. Growing calorie staples (potatoes, winter squash, dry beans) in quantity
-2. Growing a wide variety of leafy greens and root vegetables
+2. Growing a wide variety of [[solomon-leafy-greens-growing]] and root vegetables
 3. Using root cellaring to maintain fresh food supply through winter
 4. Saving seed from biennial crops stored through winter
 5. Planning succession plantings so something is always ready to harvest

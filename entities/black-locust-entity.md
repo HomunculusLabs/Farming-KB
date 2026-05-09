@@ -18,8 +18,8 @@ type: entity
 Black locust is a fast-growing, nitrogen-fixing legume tree reaching
 up to 25 m in height with a lifespan of up to 200 years. Native to the
 Appalachian and Ozark mountains of the United States, it is widely
-planted worldwide for erosion control, shelter belts, timber, fodder,
-and honey production. Its extremely durable wood makes it one of the
+planted worldwide for [[permplant-willows-salix-erosion-control-fodder]], shelter belts, timber, fodder,
+and [[mollison-designers-beekeeping-honey-production-permaculture]]. Its extremely durable wood makes it one of the
 most valued rot-resistant timbers in temperate regions.
 
 ## Key Details
@@ -29,7 +29,7 @@ most valued rot-resistant timbers in temperate regions.
 - **Height:** Up to 25 m
 - **Lifespan:** Up to 200 years
 - **Origin:** Appalachian and Ozark mountains, USA
-- **Nitrogen fixation:** Yes, leguminous
+- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]:** Yes, leguminous
 
 ### Growth Characteristics
 - Rapid growth rate, especially in early years
@@ -42,20 +42,20 @@ most valued rot-resistant timbers in temperate regions.
 - Hard, heavy, durable, strong, and very rot resistant
 - One of the most durable timbers available without treatment
 - Excellent firewood: slow to ignite but burns like coal
-- Well suited to charcoal production
+- Well suited to [[mollison-designers-charcoal-production-biochar-soil-amendment]]
 
 ### Uses
 - **Timber:** Mine timbers, fence posts, poles, railway sleepers,
   stakes, electrical insulator pegs
 - **Fodder:** Foliage readily eaten by livestock; seed suitable as
-  poultry feed
+  [[knf-poultry-feed-preparation]]
 - **Honey:** Produces honey regarded as one of the finest in the world
 - **Erosion control:** Commonly planted for slope stabilisation and
   shelter belts
 - **Firewood:** Exceptional quality; burns with coal-like intensity
 - **Wildlife habitat:** Provides cover and food for various species
 - **Nitrogen fixation:** Improves soil fertility for neighbouring plants
-- **Carbon sequestration:** Fast growth captures significant carbon
+- **[[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]:** Fast growth captures significant carbon
 
 ### Cautions
 - Suckering habit can make it a pest if not managed
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

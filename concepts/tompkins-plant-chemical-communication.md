@@ -1,7 +1,7 @@
 ---
-title: Plant Chemical Communication
+title: Plant bloomfield-siren-songs-fungal-chemical-communication-reproduction-chapter-7
 created: 2026-04-26
-aliases: [allelopathy, plant signaling, chemical warfare between plants]
+aliases: [allelopathy, plant signaling, [[solomon-root-exudates-and-allelopathy]] between plants]
 tags: [botany, biochemistry, ecology, chemical-ecology]
 related: [tompkins-plant-roots-intelligence, tompkins-plant-animal-relationships, tompkins-plant-growth-regulators]
 sources: Tompkins & Bird, The Secret Life of Plants (1973)
@@ -62,7 +62,7 @@ camomile becomes counterproductive.
 ## Soil Chemistry and Plant Communication
 
 Sir E.J. Russell documented that one gram of soil treated with farmyard
-manure contains some 29 million bacteria; where chemical fertilizers were
+manure contains some 29 million bacteria; where [[cervantes-chemical-fertilizers-guide]] were
 used, the number was cut almost in half. In an acre of rich earth,
 bacteria weigh more than a quarter of a ton. As they die, their bodies
 become humus, enriching soil naturally.
@@ -134,6 +134,8 @@ Traditional farming knowledge encoded chemical plant interactions:
   agronomists?" -- V. Soloukhin
 
 ## See Also
+
+- [[tompkins-lawrence-biological-interstellar-communication]]
 
 - [[plant-hormones-and-chemical-signaling-systems]]
 - [[plant-perception]]

@@ -1,5 +1,5 @@
 ---
-title: Bionutrients Lab — Calcium Phosphate
+title: Bionutrients Lab — bionutrients lab calcium phosphate calamansi
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
@@ -10,7 +10,7 @@ sources: ["raw/papers/beneficial-indigenous-microorganisms-bionutrients.md"]
 
 **Updated:** 2026-04-24
 
-Calcium phosphate is a targeted bionutrient used in natural farming to support plants during the critical changeover period between vegetative growth and reproductive development. Based on the theory of Nutrioperiodism developed by Japanese horticulturist Yasushi Inoue in the 1930s, calcium phosphate addresses a specific nutritional need that occurs at a transitional stage of plant development, analogous to "morning sickness" in pregnancy. This preparation is part of the broader [[beneficial-indigenous-microorganisms-bim|indigenous microorganism]] inoculations.
+Calcium phosphate is a targeted bionutrient used in [[comparison-natural-farming-vs-permaculture]] to support plants during the critical changeover period between [[cannabis-vegetative-growth-stage]] and reproductive development. Based on the theory of Nutrioperiodism developed by Japanese horticulturist Yasushi Inoue in the 1930s, calcium phosphate addresses a specific nutritional need that occurs at a transitional stage of plant development, analogous to "[[cho-morning-sickness-and-plant-cross-over-period]]" in pregnancy. This preparation is part of the broader [[beneficial-indigenous-microorganisms-bim|indigenous microorganism]] inoculations.
 
 Related preparations include [[bionutrients-lab-fermented-fruit-juice-ffj]], [[bionutrients-lab-fish-aminos]], and [[cannabis-vegetative-stage|vegetative growth]] to [[cannabis-flowering-stage|flowering]] can improve bud quality and reduce transition stress.
 ## Background and Context
@@ -141,4 +141,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

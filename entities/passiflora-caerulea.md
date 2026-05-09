@@ -69,7 +69,7 @@ It prefers full sun and warm temperatures but can survive light frost, hardy to 
 
 It has naturalized across southern Europe, the Mediterranean basin, and parts of Africa.
 
-In the United States, it is established in California, Texas, Florida, and the Southeast.
+In the [[dmt-containing-plants-united-states-halpern]], it is established in California, Texas, Florida, and the Southeast.
 
 ## Cultivation
 
@@ -77,9 +77,9 @@ Blue passionflower is one of the easiest Passiflora species to cultivate in temp
 
 It is propagated from seed (stratification aids germination) or from semi-ripe cuttings in summer.
 
-Plants flower prolifically in full sun and require regular watering during the growing season.
+Plants flower prolifically in full sun and require regular watering during the [[savory-growing-season-and-non-growing-season-management]].
 
-Pruning in early spring controls size and removes dead or weak growth.
+Pruning in [[coleman-overwintered-onions-and-early-spring-crops]] controls size and removes dead or weak growth.
 
 In cooler climates, it dies back to the ground in winter and regrows from the rootstock in spring.
 
@@ -87,7 +87,7 @@ The species is widely available in the nursery trade and is a standard conservat
 
 ## Chemistry and Uses
 
-The aerial parts of P. caerulea contain flavonoids (vitexin, isovitexin, orientin) and harmala alkaloids.
+The aerial parts of P. caerulea contain flavonoids (vitexin, isovitexin, orientin) and [[turner-harmala-alkaloids-preparation-and-dosage]].
 
 Harman and harmaline are present in trace amounts, contributing to mild sedative activity.
 
@@ -97,7 +97,7 @@ Clinical studies support modest anxiolytic effects comparable to low-dose oxazep
 
 The fruit is edible but is considered inferior to commercial passionfruit (P. edulis) for culinary use.
 
-It is occasionally used in jams and beverages, often combined with sweeter fruit varieties.
+It is occasionally used in jams and beverages, often combined with sweeter [[holzer-stone-fruit-varieties-and-growing]].
 
 ## Ecological Role
 
@@ -126,4 +126,4 @@ It received the Royal Horticultural Society's Award of Garden Merit.
 - [[passiflora-edulis]] — purple passionfruit, the commercially important fruit-bearing species
 - [[lonicera-japonica]] — Japanese honeysuckle, a twining vine with edible flowers
 - [[parthenocissus-tricuspidata]] — Boston ivy, a climbing plant for architectural coverage
-- [[rubus-idaeus-entity]] — red raspberry, a fruit-bearing plant with edible berries like passionfruit
+- rubus-idaeus-entity — red raspberry, a fruit-bearing plant with edible berries like passionfruit

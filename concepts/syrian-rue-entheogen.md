@@ -1,5 +1,5 @@
 ---
-title: Syrian Rue Entheogen
+title: golden-guide-syrian-rue-and-maoi-plants Entheogen
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -32,7 +32,7 @@ Afghanistan, and Central Asia to northern India and Pakistan. The
 plant thrives in arid and semi-arid environments, often growing as a
 weed in disturbed ground and along roadsides. Its adaptability to
 harsh conditions has allowed it to spread widely, and it has been
-naturalized in parts of the western United States and Australia.
+naturalized in parts of the western [[dmt-containing-plants-united-states-halpern]] and Australia.
 
 ## Traditional Uses
 
@@ -55,7 +55,7 @@ synergy.
 
 ## Cultural Significance
 
-The Zoroastrian Haoma and the Vedic Soma are among the most debated
+The Zoroastrian Haoma and the [[mckenna-vedic-soma-indo-european-mysteries]] are among the most debated
 identifications in ethnobotany. Some scholars have proposed that
 Syrian Rue may be the original Haoma plant, given its known
 psychoactive properties, its distribution in the Iranian plateau, and
@@ -66,7 +66,7 @@ sacred Haoma.
 
 The identification of Syrian Rue with Haoma is not universally
 accepted; other candidates include Ephedra and various other plants.
-However, the psychoactive properties of Peganum harmala and its
+However, the psychoactive properties of [[mckenna-food-gods-peganum-harmala-soma]] and its
 cultural distribution make it a strong candidate. See
 [[golden-guide-syrian-rue-and-maoi-plants]]
 ## Practical Considerations
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

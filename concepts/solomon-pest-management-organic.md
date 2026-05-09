@@ -14,9 +14,9 @@ Source: Steve Solomon, "Gardening When It Counts" (2005)
 
 ## Solomon's Pest Philosophy: Questioning the Doctrine
 
-The organic gardening movement has long promoted the idea that properly balanced, organically grown plants are resistant to insects and disease. Solomon tested this claim through years of observation at Territorial Seed Company and in his own gardens. His conclusion: it is largely a myth.
+The [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] movement has long promoted the idea that properly balanced, organically grown plants are resistant to insects and disease. Solomon tested this claim through years of observation at Territorial Seed Company and in his own gardens. His conclusion: it is largely a myth.
 
-Well-fertilized plants with balanced minerals do grow more vigorously and can tolerate some pest damage, but they are not immune. Insects and diseases will attack any plant they can reach. The "resistant through organic methods" doctrine is dangerous because it causes gardeners to be unprepared, losing crops when simple, timely interventions would have saved them.
+Well-fertilized plants with balanced minerals do grow more vigorously and can tolerate some pest damage, but they are not immune. [[solomon-insects-and-diseases-integrated-approach]] will attack any plant they can reach. The "resistant through organic methods" doctrine is dangerous because it causes gardeners to be unprepared, losing crops when simple, timely interventions would have saved them.
 
 Exceptions exist: some insect damage is purely cosmetic and does not affect yield. But much pest damage is genuinely destructive.
 
@@ -26,7 +26,7 @@ Solomon advocates a pragmatic, escalating approach:
 
 1. **Prevention through cultural practices**: rotation, variety selection, proper spacing, clean cultivation
 2. **Mechanical controls**: handpicking, row covers, trap crops
-3. **Biological controls**: Bt, beneficial insects, nematodes
+3. **Biological controls**: Bt, [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], nematodes
 4. **Least-toxic sprays**: insecticidal soap, pyrethrum/rotenone, neem
 5. **Stronger measures**: only when absolutely necessary
 
@@ -57,14 +57,14 @@ Usually worst in early spring before predator populations build. Control:
 Two species: large green larvae of white butterflies (day-flying) and smaller larvae of brown moths (night-flying). Both can defoliate brassicas rapidly.
 
 - **Handpicking**: effective in small gardens
-- **Bt (Bacillus thuringiensis)**: the most effective control. Marketed as Dipel. Harmless to mammals, bees, and most beneficials. Lethal only to caterpillars.
+- **Bt ([[cervantes-bacillus-thuringiensis-bt-control]])**: the most effective control. Marketed as Dipel. Harmless to mammals, bees, and most beneficials. Lethal only to caterpillars.
 - Spray Bt every few days during peak season. Add 1/4 teaspoon dishwashing liquid per quart as a spreader-sticker.
 - Spray undersides of leaves as much or more than tops.
 - Bt remains active on leaves about one week; even a single spray maintains infection in the garden population.
 
 ### Colorado Potato Beetle
 
-Devastating in eastern North America. Adults overwinter 12-18 inches deep near potato plots and emerge in late spring.
+Devastating in [[polypore-fungi-eastern-north-america]] America. Adults overwinter 12-18 inches deep near potato plots and emerge in late spring.
 
 - **New ground**: fewer beetles emerge; row covers effective
 - **Straw mulch** (wheat or rye): provides habitat for ground predators that eat beetle eggs and larvae (but hilling for potato production conflicts with mulching)
@@ -82,7 +82,7 @@ Attack seedlings of all cucurbits; adults transmit a virus wilt that kills seedl
 - **Row covers** until flowering (remove for bee pollination)
 - **Reseeding**: if seedlings die from predation or virus, sow replacements
 - Avoid excessive soil nutrients that make seedlings more succulent
-- Beneficial nematodes can control soil-dwelling larvae
+- [[ingham-beneficial-nematodes-soil-food-web]] can control soil-dwelling larvae
 
 ### Corn Earworm
 
@@ -124,6 +124,9 @@ Solomon emphasizes cultural practices over sprays for disease:
 Solomon acknowledges the value of beneficial insects but is pragmatic. Creating habitat around the vegetable garden helps maintain predator populations. However, relying solely on biological control without intervention often means accepting significant crop losses.
 
 ## See Also
+
+- [[solomon-organic-root-maggot-management]]
+- [[organic-greenhouse-pest-management]]
 
 - [[organic-pest-and-disease-management]]
 - [[beneficial-insects-cannabis]]

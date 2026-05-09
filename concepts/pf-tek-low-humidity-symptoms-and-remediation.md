@@ -29,10 +29,10 @@ droplets. Molecularized water is water that has evaporated into the air and exis
 as individual water molecules floating amongst air atoms.
 
 At 100% humidity, the maximum number of water molecules are present in the air,
-creating the ideal micro-environment for developing mushroom fruiting bodies. For
+creating the ideal micro-environment for developing [[ectomycorrhizal-mushroom-fruiting-ecology]] bodies. For
 the best growth, the humidity has to be very high.
 
-The dual chambered terrarium is specifically designed to achieve and maintain these
+The dual [[dual-chambered-terrarium-design]] is specifically designed to achieve and maintain these
 conditions through the spray shield system. The shield breaks coarse spray into a
 fine mist before it reaches the fruiting chamber, ensuring that the fungus receives
 humidity in the microscopic form it can absorb.
@@ -46,7 +46,7 @@ mushrooms may develop fuzzy white mycelium growing on the tops of their caps. Th
 cap takes on an appearance like it has a crown of white hair.
 
 This is one of the most commonly observed humidity-related symptoms and is often the
-first indicator that humidity management needs attention. It is a mild symptom that
+first indicator that [[stamets-cultivator-humidity-management-fogging-systems]] needs attention. It is a mild symptom that
 is easily corrected.
 
 ### Diagnosis
@@ -82,7 +82,7 @@ body. The fungus is struggling to develop properly in a dry environment.
 ### Diagnosis
 
 Compare the developing mushrooms to photographs of properly grown PF TEK specimens.
-Normal Psilocybe Cubensis should have straight, upright stems with smooth, evenly
+Normal [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] should have straight, upright stems with smooth, evenly
 shaped conical caps.
 
 Deformities that deviate significantly from this pattern, appearing across multiple
@@ -116,7 +116,7 @@ across multiple fruiting bodies simultaneously on different cakes, environmental
 humidity is the likely culprit.
 
 Genetic mutations typically affect individual mushrooms rather than entire crops at
-once. Environmental factors that affect all cakes simultaneously point to a systemic
+once. [[duggar-mushroom-environmental-factors-temperature-moisture-light]] that affect all cakes simultaneously point to a systemic
 issue like humidity rather than a localized problem.
 
 ### Remediation
@@ -126,7 +126,7 @@ performance to ensure it produces a fine, forceful mist. Verify the spray shield
 properly positioned and undamaged.
 
 Ensure the terrarium is adequately sealed with no gaps or air leaks. Consider
-switching to or supplementing with the perlite humidification technique for more
+switching to or supplementing with the [[pf-tek-perlite-humidification-evaporation-dynamics]] technique for more
 consistent moisture output over extended periods.
 
 ## Symptom 4: Withering and Desiccation

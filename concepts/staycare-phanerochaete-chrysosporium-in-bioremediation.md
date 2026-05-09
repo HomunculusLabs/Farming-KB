@@ -1,5 +1,5 @@
 ---
-title: Phanerochaete chrysosporium in Bioremediation
+title: staycare phanerochaete chrysosporium in bioremediation in Bioremediation
 created: 2026-04-26
 synonyms:
   - P. chrysosporium bioremediation
@@ -15,7 +15,7 @@ updated: 2026-04-26
 
 ## Overview
 
-Phanerochaete chrysosporium (syn. Sporotrichum pulverulentum) is a white rot basidiomycete and the most extensively studied fungal organism for bioremediation applications. Originally isolated and characterized for its ability to degrade lignin, P. chrysosporium has become the model organism for understanding fungal biodegradation of environmental pollutants. Its ligninolytic enzyme system — comprising lignin peroxidase (LiP), manganese peroxidase (MnP), and H₂O₂-generating oxidases — has been shown to degrade an extraordinarily wide range of xenobiotic compounds.
+Phanerochaete chrysosporium (syn. Sporotrichum pulverulentum) is a white rot basidiomycete and the most extensively studied fungal organism for bioremediation applications. Originally isolated and characterized for its ability to degrade lignin, P. chrysosporium has become the model organism for understanding fungal biodegradation of environmental pollutants. Its ligninolytic enzyme system — comprising [[fungal-lignin-peroxidase-veratryl-alcohol]] (LiP), [[fungal-manganese-peroxidase-remediation]] (MnP), and H₂O₂-generating oxidases — has been shown to degrade an extraordinarily wide range of xenobiotic compounds.
 
 ## Biological Characteristics
 
@@ -25,13 +25,13 @@ Phanerochaete chrysosporium (syn. Sporotrichum pulverulentum) is a white rot bas
 - **Growth form**: Filamentous fungus forming cottony white mycelial mats
 - **Temperature**: Unusual optimum at 37-40°C (most white rots: 27-30°C); thermotolerance advantageous for large-scale reactors (reduced cooling costs)
 - **pH**: Optimal growth at acidic pH; reduces medium pH to 2-3 during growth on carbohydrates
-- **Nutrition**: Secondary metabolism and ligninolytic enzyme production are triggered under nitrogen limitation (Kirk et al., 1978); this distinguishes P. chrysosporium from many other white rot fungi
+- **Nutrition**: Secondary metabolism and ligninolytic [[ligninolytic-enzyme-production-bioremediation]] are triggered under nitrogen limitation (Kirk et al., 1978); this distinguishes P. chrysosporium from many other white rot fungi
 - **Habitat**: Wood-decaying fungus found on dead hardwood and softwood
 
 ### Unique Physiological Features
 
 1. **Nitrogen-dependent regulation**: Unlike most white rot fungi, P. chrysosporium requires nitrogen limitation for maximal ligninolytic activity. Other fungi (B. adusta, P. flavido-alba) produce more peroxidases under nitrogen-sufficient conditions.
-2. **LiP-dependent ligninolysis**: LiP is essential for lignin degradation by P. chrysosporium, as MnP alone is not sufficient (Pérez & Jeffries, 1992; Hammel et al., 1993).
+2. **LiP-dependent ligninolysis**: LiP is essential for [[query-how-does-lignin-degradation-by-fungi-work]] by P. chrysosporium, as MnP alone is not sufficient (Pérez & Jeffries, 1992; Hammel et al., 1993).
 3. **Low laccase production**: Unlike most white rot fungi, P. chrysosporium produces little or no laccase under standard conditions. Laccase production has been reported only with cellulose as carbon source (Srinivasan et al., 1995).
 4. **Temperature optimum**: Higher than typical white rot fungi, which reduces cooling requirements in bioreactors.
 
@@ -82,7 +82,7 @@ P. chrysosporium degrades multiple PAHs through its ligninolytic system:
 
 ### Pesticides
 
-- **Atrazine**: Transformed to hydroxylated and N-dealkylated metabolites (Mougin et al., 1994); approximately 30% immobilized as bound residue (Hickey, Fuster & Lamar, 1994)
+- **Atrazine**: Transformed to hydroxylated and N-dealkylated metabolites (Mougin et al., 1994); approximately 30% immobilized as [[fungal-bound-residue-formation]] (Hickey, Fuster & Lamar, 1994)
 - **Alachlor**: Co-metabolic transformation with ~10% degradation (Ferry et al., 1994)
 - **Anilazine**: Aided biodegradation and remobilization in humic soil fractions (Liebich, Buranel & Fuhr, 1999)
 
@@ -113,6 +113,8 @@ P. chrysosporium degrades multiple PAHs through its ligninolytic system:
 | Best studied | Most studied | Very well | Moderate | Moderate |
 
 ## See Also
+
+- [[staycare-phanerochaete-sordida-in-bioremediation]]
 
 - [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]]
 - [[staycare-trametes-versicolor-bioremediation-applications]]

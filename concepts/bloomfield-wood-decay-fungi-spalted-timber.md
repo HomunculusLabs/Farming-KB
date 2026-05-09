@@ -83,12 +83,12 @@ in addition to conventional cellulase enzymes.
 
 Wood decay is ecologically essential. Without fungi to break down woody
 material, the world's forests would be buried under mountains of dead wood,
-and the carbon cycle would grind to a halt. Standing dead trees — snags —
+and the [[photosynthesis-carbon-cycle-plants]] would grind to a halt. Standing dead trees — snags —
 are critical habitat for cavity-nesting birds, bats, and insects. The
 progressive decay of snags and fallen logs creates a succession of
 microhabitats, each supporting different communities of organisms. Wood
 decay fungi thus occupy a central position in forest ecosystems, mediating
-the flow of carbon from living trees into soil organic matter and
+the flow of carbon from living trees into soil [[hamilton-composting-and-organic-matter-management]] and
 atmospheric carbon dioxide.
 
 ## Insect-Fungus Connections
@@ -98,8 +98,8 @@ Beetles that bore into trees carry fungal spores on their bodies,
 inoculating new wounds as they feed. Bracket fungi that grow on the
 surfaces of dead trees attract swarms of midges and other insects, which
 feed on fungal liquids and dispersing spores. The commotion of insects
-around fungal fruiting bodies serves both the insects, which gain food
-and habitat, and the fungi, which benefit from spore dispersal and the
+around [[brassinosteroid-fungal-fruiting-body-morphology]] bodies serves both the insects, which gain food
+and habitat, and the fungi, which benefit from [[aquatic-fungi-spore-dispersal-ingold]] and the
 creation of new entry wounds in nearby trees.
 
 ## Bioluminescent Fungi
@@ -120,8 +120,8 @@ The zone lines that separate decay columns are rich in melanin — the same
 dark pigment found in human skin — deposited by fungi at the boundaries of
 their territories. These melanin barriers are chemically resistant and
 physically tough, functioning as defensive walls. Beyond melanin, fungi
-produce a vast arsenal of toxic secondary metabolites — antibiotics,
-volatile organic compounds, and enzymes — that inhibit or kill competing
+produce a vast arsenal of toxic [[antifungal-secondary-metabolites-coprophilous-fungi]] — antibiotics,
+[[fungal-volatile-organic-compounds-communication]] compounds, and enzymes — that inhibit or kill competing
 organisms. The outcome of fungal territorial disputes is governed by
 vegetative compatibility loci — genetic systems that allow fungi to
 recognize self from non-self and respond accordingly, either fusing
@@ -130,8 +130,10 @@ compatible mycelia or rejecting incompatible ones with defensive barriers.
 ## See Also
 
 - [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]
-- [[bloomfield-ascobolus-ascomycete-fruiting-body-evolution]]
+- bloomfield-ascobolus-ascomycete-fruiting-body-evolution
 
 ## See Also
 
 - [[singh-wood-rot-fungi-structural-timber-decay]]
+- [[wood-decay-fungi]]
+- [[bioluminescent-fungi]]

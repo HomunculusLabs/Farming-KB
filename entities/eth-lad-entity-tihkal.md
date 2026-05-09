@@ -62,7 +62,7 @@ The 6-position on ring D is critical for activity in this series:
 | C3H5 (allyl) | AL-LAD | Active, 80-160 ug |
 | C3H7 (propyl) | PRO-LAD | Active, with distinct character |
 
-"What a difference a single atom makes" — the progression from inactive (H) to powerfully psychoactive (CH3, C2H5) to distinct variations (allyl, propyl) demonstrates the exquisite sensitivity of the lysergamide receptor binding to this single substitution.
+"What a difference a single atom makes" — the progression from inactive (H) to powerfully psychoactive (CH3, C2H5) to distinct variations (allyl, propyl) demonstrates the exquisite sensitivity of the lysergamide [[tihkal-receptor-binding-serotonin]] to this single substitution.
 
 ## Comparison with LSD
 
@@ -84,4 +84,4 @@ ETH-LAD differs from LSD in several clinically significant ways:
 
 - [[al-lad-entity-tihkal]] — 6-allyl analogue, 80–160 ug
 - [[dmt-entity-tihkal]] — tryptamine psychedelic for comparison of dose-response patterns
-- [[psychedelic-therapy-models-comparison]] — clinical applications of psychedelic compounds
+- [[psychedelic-therapy-models-comparison]] — clinical applications of [[psychedelic-compounds-reference]]

@@ -1,10 +1,11 @@
 ---
-title: "Biogas Digesters vs Composting Toilets"
+title: "Biogas Digesters vs comparison-composting-toilets-vs-greywater-systems-detailed"
 created: 2026-04-28
 tags: [comparison, biogas, composting-toilet, waste-management, sanitation, energy]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: comparison
 ---
@@ -23,11 +24,11 @@ biological mechanisms and serve different primary purposes.
 
 ## Biogas Digesters
 
-[[permaculture-designers-manual-biogas-digester]] details how Bill
+permaculture-designers-manual-biogas-digester details how Bill
 Mollison integrated biogas into broader permaculture sewage treatment
 systems. He described sealed pond digesters 3 meters wide by 30 meters long
 serving 1,000 people, with remarkable pathogen destruction: 90 to 94 percent
-of worm eggs eliminated, and heavy metals precipitated at rates of 87 to 97
+of worm eggs eliminated, and [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] precipitated at rates of 87 to 97
 percent for copper, zinc, and lead.
 
 ## Composting Toilets
@@ -48,10 +49,10 @@ Human excreta contains roughly 4.5 kilograms of nitrogen, 1.5 kilograms
 of phosphorus, and 1 kilogram of potassium per person per year. Mollison
 calculated that these nutrients could fertilize enough food to feed the
 person who produced them, creating a genuine closed-loop nutrient cycle.
-The [[mollison-sewage-biogas-systems]] page describes how community-scale
+The mollison-sewage-biogas-systems page describes how community-scale
 systems can offset substantial energy costs while simultaneously treating
 sewage. The digestate liquid is a potent fertilizer that retains nitrogen
-more effectively than composted manure because the anaerobic process
+more effectively than [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]] because the anaerobic process
 prevents volatilization losses.
 
 ## When to Choose a Composting Toilet
@@ -65,7 +66,7 @@ carbon cover material, making it accessible to virtually any household.
 Composting toilets excel in cold climates where digester performance would
 suffer, and in situations where energy independence is less critical than
 nutrient recycling. They produce a dry, stable compost that can be directly
-applied to fruit trees, ornamental plantings, and field crops. For
+applied to [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], ornamental plantings, and field crops. For
 permaculture systems focused on closing nutrient loops, composting toilets
 offer the most straightforward path from human waste back to productive
 soil.
@@ -73,8 +74,8 @@ soil.
 ## Hybrid Approaches
 
 The most sophisticated permaculture waste systems combine both technologies.
-A biogas digester processes kitchen scraps, animal manure, and graywater
-for cooking gas and liquid fertilizer, while a composting toilet handles
+A biogas digester processes kitchen scraps, [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]], and graywater
+for cooking gas and [[jadam-liquid-fertilizer-nutritional-perspective]], while a composting toilet handles
 human excreta separately for compost production. This avoids pathogen
 concerns of putting human waste in biogas systems while still capturing
 energy from other organic waste streams.
@@ -88,5 +89,7 @@ food and every element should perform multiple functions.
 ## See Also
 
 - [[composting-toilets]]
-- [[mollison-sewage-biogas-systems]]
-- [[permaculture-designers-manual-biogas-digester]]
+- mollison-sewage-biogas-systems
+- permaculture-designers-manual-biogas-digester
+- [[decomposition]]
+- [[comparison-vermicomposting-vs-composting-organic-garden]]

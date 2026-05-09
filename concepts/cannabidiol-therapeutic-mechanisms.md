@@ -13,11 +13,11 @@ created: 2026-04-28
 
 ## Overview
 
-Cannabidiol (CBD) is a non-psychoactive phytocannabinoid found in cannabis that has emerged as one of the most therapeutically promising compounds in modern pharmacology. Unlike THC, CBD does not produce intoxicating effects, yet it influences a broad spectrum of physiological processes through multiple molecular pathways. CBD's therapeutic versatility stems from its ability to modulate the [[endocannabinoid-system]] through several indirect mechanisms that are central to its therapeutic action.
+Cannabidiol (CBD) is a non-psychoactive phytocannabinoid found in cannabis that has emerged as one of the most therapeutically promising compounds in modern pharmacology. Unlike THC, CBD does not produce intoxicating effects, yet it influences a broad spectrum of physiological processes through multiple molecular pathways. CBD's therapeutic versatility stems from its ability to modulate the [[cannabis-health-endo-cannabinoid-system]] through several indirect mechanisms that are central to its therapeutic action.
 
 ### FAAH inhibition
 
-The most significant mechanism is the inhibition of fatty acid amide hydrolase (FAAH), the enzyme responsible for breaking down anandamide, the body's endogenous "bliss molecule." By suppressing FAAH activity, CBD elevates anandamide levels, extending and amplifying its therapeutic effects including pain relief, mood enhancement, and anti-inflammatory action. This FAAH inhibition is the primary explanation for how CBD, despite having minimal direct receptor binding, produces such broad therapeutic effects.
+The most significant mechanism is the inhibition of fatty acid amide hydrolase (FAAH), the enzyme responsible for breaking down anandamide, the body's endogenous "bliss molecule." By suppressing FAAH activity, CBD elevates anandamide levels, extending and amplifying its therapeutic effects including pain relief, mood enhancement, and anti-inflammatory action. This FAAH inhibition is the primary explanation for how CBD, despite having minimal direct [[tihkal-receptor-binding-serotonin]], produces such broad therapeutic effects.
 
 ### CB1 negative allosteric modulation
 
@@ -49,11 +49,11 @@ CBD has demonstrated particular promise in treating neurological conditions. It 
 
 ### Epilepsy
 
-CBD received FDA approval (as Epidiolex) for treatment of Dravet syndrome and Lennox-Gastaut syndrome, two severe pediatric epileptic conditions resistant to conventional anticonvulsants. Clinical trials demonstrated significant reductions in seizure frequency, with some patients experiencing greater than 50 percent reduction in convulsive seizures.
+CBD received FDA approval (as Epidiolex) for treatment of Dravet syndrome and Lennox-Gastaut syndrome, two severe pediatric epileptic conditions resistant to conventional anticonvulsants. [[mushroom-cancer-clinical-trials-overview]] demonstrated significant reductions in seizure frequency, with some patients experiencing greater than 50 percent reduction in convulsive seizures.
 
 ### Neuroprotection
 
-CBD's antioxidant and anti-inflammatory properties protect neurons from oxidative stress, excitotoxicity, and inflammatory damage. These neuroprotective mechanisms have documented relevance to Alzheimer's disease, Parkinson's disease, multiple sclerosis, and amyotrophic lateral sclerosis. The endocannabinoid system initiates neurogenesis (the production of new nerve cells), which is essential to recovery from brain damage and crucial to protecting nerve cells and enhancing memory function.
+CBD's antioxidant and anti-inflammatory properties protect neurons from [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], excitotoxicity, and inflammatory damage. These neuroprotective mechanisms have documented relevance to Alzheimer's disease, Parkinson's disease, multiple sclerosis, and amyotrophic lateral sclerosis. The endocannabinoid system initiates neurogenesis (the production of new nerve cells), which is essential to recovery from brain damage and crucial to protecting nerve cells and enhancing memory function.
 
 ### Anxiety and psychiatric disorders
 
@@ -63,7 +63,7 @@ Through 5-HT1A receptor activation and endocannabinoid modulation, CBD has shown
 
 CBD modulates immune function through multiple pathways, producing significant anti-inflammatory effects without the broad immunosuppression associated with corticosteroids. It reduces pro-inflammatory cytokine production (including TNF-alpha, IL-1beta, and IFN-gamma), inhibits T-cell proliferation, and promotes the shift from pro-inflammatory Th1 to anti-inflammatory Th2 immune responses.
 
-These immunomodulatory properties make CBD relevant to autoimmune conditions, inflammatory bowel disease, rheumatoid arthritis, and chronic inflammatory states that underlie many degenerative diseases. Unlike broad-spectrum immunosuppressants, CBD appears to modulate immune function toward homeostasis rather than simply suppressing it.
+These immunomodulatory properties make CBD relevant to [[cannabis-autoimmune-conditions-detailed]], [[blesching-cannabis-inflammatory-bowel-disease]] disease, rheumatoid arthritis, and chronic inflammatory states that underlie many degenerative diseases. Unlike broad-spectrum immunosuppressants, CBD appears to modulate immune function toward homeostasis rather than simply suppressing it.
 
 ## Anti-Cancer Properties
 
@@ -76,6 +76,6 @@ CBD's activation of PPAR-gamma receptors and modulation of endocannabinoid signa
 Beyond THC and CBD, cannabis produces over 111 identified cannabinoids, many of which may interact with CBD's therapeutic pathways. [[cannabis-endocannabinoid-system]]
 - [[anandamide-and-the-endocannabinoid-system]]
 - THC
-- [[endocannabinoid-system]]
+- [[cannabis-health-endo-cannabinoid-system]]
 - cannabis
-- entourage effect
+- [[cannabis-terpene-entourage-effect-profiles]]

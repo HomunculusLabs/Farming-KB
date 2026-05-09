@@ -3,14 +3,14 @@ title: "Permaculture Water Harvesting Strategies"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
-  - "Nicole Faires, The Ultimate Guide to Natural Farming and Sustainable Living"
+  - "Nicole Faires, The Ultimate Guide to comparison-natural-farming-vs-permaculture and natural-farming-sustainable-living-principles"
 type: concept
 tags: [culture, harvesting, permaculture, water]
 ---
 
 # Permaculture Water Harvesting Strategies
 
-Permaculture water harvesting captures, stores, and directs water across a property using gravity, terrain, and ecological design rather than pumps and pipes. The goal is to make every property as self-reliant in water as possible.
+Permaculture water harvesting captures, stores, and directs water across a property using gravity, terrain, and [[williams-pdc-ecological-design-principles]] rather than pumps and pipes. The goal is to make every property as self-reliant in water as possible.
 
 Water is the most important element on a piece of land. No other factor impacts so many other things or is affected by so many other elements. The first step is deciding where water comes from and devising storage using gravity. The second step is using species that need less water in hard-to-reach places.
 
@@ -41,7 +41,7 @@ For human consumption, divert the first gallon per 100 sq ft of roof area (a roo
 
 Storage tanks: a single person needs at least 1,000 gallons; a family needs a minimum of 2,500 gallons. Tanks can be made from concrete, compacted clay, metal, or plastered dirt. Place tanks at the top of hills for gravity-fed distribution. A large water tank at the top of a hill can even act as the foundation for a building, with the roof collecting rainwater.
 
-Thick green algae will grow on tank sides — this is beneficial as it helps clean the water. The outlet pipe should be 3 inches above the bottom so algae remain undisturbed.
+Thick [[cervantes-green-algae-growing-medium]] will grow on tank sides — this is beneficial as it helps clean the water. The outlet pipe should be 3 inches above the bottom so algae remain undisturbed.
 
 ## Diversion Drains
 
@@ -70,9 +70,9 @@ Ponds can segregate fish of different ages when several are connected in success
 
 ## Irrigation Design
 
-Permaculture irrigation is half species choice and half terrain. Only a small part involves piping or pumps. Gravity directs water to gardens, and species are chosen for specific drought tolerance. The barn roof harvests rainwater stored in a tank and gravity-fed to gardens below.
+Permaculture irrigation is half species choice and half terrain. Only a small part involves piping or pumps. Gravity directs water to gardens, and species are chosen for specific [[dighton-fungal-drought-tolerance-plant-water-relations]]. The barn roof harvests rainwater stored in a tank and gravity-fed to gardens below.
 
-**Desert irrigation**: Recycle all graywater to wetland marshes. Use buried drip hoses at least 6 inches under mulch. Make your own with earthenware ollas, bottles with holes, or pipes filled with gravel. Water only in early morning, late evening, or at night. Mulch and swales are the secret to desert gardening success.
+**Desert irrigation**: Recycle all graywater to wetland marshes. Use buried drip hoses at least 6 inches under mulch. Make your own with earthenware ollas, bottles with holes, or pipes filled with gravel. Water only in early morning, late evening, or at night. Mulch and swales are the secret to [[comparison-desert-gardening-vs-drought-gardening]] success.
 
 In the orchard, sprinklers can mist over roots but only in shady tree areas to avoid evaporation problems.
 
@@ -92,9 +92,9 @@ Marsh construction: layer gravel, sand, 6-inch sticks, and finally 8+ inches of 
 
 ## See Also
 
-- [[faires-swales-and-water-conservation]]
-- [[faires-water-sources-and-catchment]]
+- faires-swales-and-water-conservation
+- faires-water-sources-and-catchment
 - [[graywater-systems]]
 - [[urban-permaculture-rainwater-harvesting-graywater]]
-- [[faires-water-sources-and-catchment]]
+- faires-water-sources-and-catchment
 - [[gaias-garden-cover-crops-soil-building]]

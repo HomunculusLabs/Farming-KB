@@ -1,16 +1,12 @@
 ---
-title: Fungal Diversity in Mediterranean Ecosystems
+title: arbuscular-mycorrhizal-fungal-diversity-patterns-distribution in Mediterranean Ecosystems
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Diversity in Mediterranean Ecosystems
-
-Mediterranean-type ecosystems, characterized by hot dry summers and cool wet winters, harbor distinctive fungal communities adapted to pronounced seasonality and periodic drought stress. These ecosystems occur in five Mediterranean climate regions worldwide.
-
-[[soil-food-web-nutrient-cycling]] [[fungal-environmental-sensing]] [[soil-food-web-nutrient-cycling]] [[ectomycorrhizal-ecology]] [[fungal-diversity-fire-ecology]] [[fungal-diversity-deserts-arid-lands]] [[fungal-community-assembly]] [[fungal-endemism-and-biogeography]] [[fungal-biodiversity-soil-seasonal]] [[fungal-responses-climate-change]] ethnomycology
+# Fungal Diversity in Mediterranean Ecosystems Mediterranean-type ecosystems, characterized by hot dry summers and cool wet winters, harbor distinctive fungal communities adapted to pronounced seasonality and periodic drought stress. These ecosystems occur in five Mediterranean climate regions worldwide. [[soil-food-web-nutrient-cycling]] fungal-environmental-sensing [[soil-food-web-nutrient-cycling]] [[ectomycorrhizal-ecology]] [[fungal-diversity-fire-ecology]] [[fungal-diversity-deserts-arid-lands]] [[fungal-community-assembly]] [[fungal-endemism-and-biogeography]] [[fungal-biodiversity-soil-seasonal]] [[fungal-responses-climate-change]] ethnomycology
 
 ## Research Needs
 
@@ -145,4 +141,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

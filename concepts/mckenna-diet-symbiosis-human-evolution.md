@@ -1,5 +1,5 @@
 ---
-title: "McKenna's Diet Symbiosis and Human Evolution"
+title: "McKenna's mckenna diet symbiosis human evolution and Human Evolution"
 created: "2026-04-22"
 updated: "2026-04-22"
 type: "concept"
@@ -35,11 +35,11 @@ McKenna explicitly rejects this interpretation. His argument is firmly grounded 
 
 - Over millions of years, these selective pressures would have favored populations with increasingly complex and tryptamine-sensitive neural architecture
 
-In this framework, psilocybin functions as an **environmental selective pressure** — analogous to climate change, predation pressure, or food scarcity — rather than as a direct agent of genetic change. The mushrooms shaped evolution not by rewriting DNA but by altering the fitness landscape in ways that favored neural complexity.
+In this framework, psilocybin functions as an **environmental selective pressure** — analogous to [[dighton-fungi-climate-change-feedback]], predation pressure, or food scarcity — rather than as a direct agent of genetic change. The mushrooms shaped evolution not by rewriting DNA but by altering the fitness landscape in ways that favored neural complexity.
 
 ## Key Concepts and Terminology
 
-**Dietary Symbiosis**: The mutually beneficial relationship between early hominids and psilocybin-containing mushrooms, in which spore dispersal was traded for psychoactive benefits.
+**Dietary Symbiosis**: The mutually beneficial relationship between early hominids and psilocybin-containing mushrooms, in which [[aquatic-fungi-spore-dispersal-ingold]] was traded for psychoactive benefits.
 
 **Chemical Dependency Syndrome**: McKenna's term for the co-evolutionary integration of a psychoactive substance into a species' ecological strategy — not addiction, but mutualistic dependence.
 
@@ -59,7 +59,7 @@ McKenna's diet symbiosis theory remains one of the most provocative and widely d
 
 - Stimulating interdisciplinary discussion about the co-evolution of humans and psychoactive plants
 
-- Encouraging serious consideration of the role of altered states of consciousness in prehistoric human life
+- Encouraging serious consideration of the role of [[weil-the-natural-mind-altered-states-normalcy]] of consciousness in prehistoric human life
 
 - Providing a narrative framework for understanding humanity's deep and ancient relationship with entheogenic fungi
 
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

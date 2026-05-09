@@ -12,7 +12,7 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Kerrigan, R.W. (2016). Agaricus of North America. Memoirs of the New York Botanical Garden.
+  - Kerrigan, R.W. (2016). Agaricus of psilocybin-north-america-pacific-northwest. Memoirs of the New York Botanical Garden.
   - Wasser, S.P. (2014). "Mushrooms as a Source of Nutraceuticals." Current Pharmaceutical Design, 20(19), 3208-3224.
   - https://www.firstnature.com/fungi/agaricus-silvaticus.php
   - Cappelli, A. (1984). "Agaricus L.: Fungi Europaei." Giovanna Biella.
@@ -26,7 +26,7 @@ Agaricus silvaticus, commonly known as the wood mushroom, scaly wood mushroom, o
 
 The species is an excellent edible with a distinctive almond-like aroma when fresh, similar to its close relative A. campestris but with a more robust and complex flavor profile. It is collected commercially in some European countries, particularly in Scandinavia and Central Europe.
 
-A. silvaticus has attracted attention for its nutritional composition and bioactive compounds. Studies have documented significant antioxidant, antimicrobial, and immunomodulatory activities, positioning it as a promising species for both culinary and nutraceutical applications.
+A. silvaticus has attracted attention for its [[dighton-fungal-nutritional-composition-animal-diets]] and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]. Studies have documented significant antioxidant, antimicrobial, and immunomodulatory activities, positioning it as a promising species for both culinary and nutraceutical applications.
 
 ## Taxonomy and Morphology
 
@@ -80,7 +80,7 @@ A. silvaticus contains several bioactive constituents with documented pharmacolo
 
 **Phenolic compounds:** Total phenolic content is significant, with strong DPPH and ABTS radical scavenging activity. Specific phenolics include gallic acid, protocatechuic acid, and p-hydroxybenzoic acid derivatives.
 
-**Antimicrobial activity:** Methanolic extracts demonstrate inhibitory activity against Staphylococcus aureus, Escherichia coli, and Candida albicans, with Gram-positive bacteria showing greater sensitivity.
+**Antimicrobial activity:** Methanolic extracts demonstrate inhibitory activity against Staphylococcus aureus, Escherichia coli, and [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]], with Gram-positive bacteria showing greater sensitivity.
 
 **Nutritional profile:** The species is rich in protein (20–25% dry weight), dietary fiber, and essential minerals including potassium, phosphorus, and selenium. It contains B vitamins (particularly riboflavin and niacin) and vitamin D2 (ergocalciferol) in amounts comparable to other Agaricus species.
 
@@ -98,7 +98,7 @@ Accurate identification of A. silvaticus requires distinguishing it from several
 
 ## Ecological Role
 
-A. silvaticus contributes to forest ecosystem functioning through its role in nutrient cycling. As a decomposer of needle litter and organic forest floor material, it mobilizes nitrogen and minerals from recalcitrant coniferous debris. This decomposition process converts complex organic compounds into forms accessible to plants and soil microorganisms.
+A. silvaticus contributes to forest ecosystem functioning through its role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. As a decomposer of needle litter and organic forest floor material, it mobilizes nitrogen and minerals from recalcitrant coniferous debris. This decomposition process converts complex [[fungal-volatile-organic-compounds-communication]] into forms accessible to plants and soil microorganisms.
 
 The species is frequently among the first Agaricus species to colonize recently cleared or disturbed forest areas, suggesting a role in early successional decomposition pathways.
 

@@ -27,11 +27,11 @@ Biofertilizers are preparations of living microorganisms that enhance plant nutr
 biological processes rather than direct nutrient addition. The major categories include
 nitrogen-fixing bacteria (Rhizobia for legumes, Azotobacter and Azospirillum for free-living
 fixation), phosphate-solubilizing bacteria and fungi (Bacillus, Pseudomonas, Penicillium, and
-Aspergillus species), mycorrhizal fungi (arbuscular mycorrhizal fungi for most crops and
+Aspergillus species), mycorrhizal fungi ([[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi for most crops and
 ectomycorrhizal fungi for trees), and plant growth-promoting rhizobacteria (PGPR) that suppress
 disease, trigger systemic resistance, and produce growth hormones. Together these organisms
 contribute an estimated 40 to 60 million tons of nitrogen to global agriculture annually and
-dramatically improve phosphorus availability in locked soils.
+dramatically improve [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] in locked soils.
 
 Unlike biochar, biofertilizers are biologically active inputs that require living roots and
 suitable environmental conditions to function. Rhizobia must form a specific symbiotic match
@@ -39,12 +39,12 @@ with their host legume species, forming root nodules that convert atmospheric ni
 plant-available ammonium. Mycorrhizal fungi extend hyphal networks far beyond the root zone,
 effectively increasing root absorptive surface area by 100 to 1,000 times and delivering
 phosphorus, copper, zinc, and other immobile nutrients in exchange for plant carbon. PGPR
-colonize root surfaces and provide disease suppression, stress tolerance, and hormone
+colonize root surfaces and provide [[aact-disease-suppression-mechanisms-ingham]], stress tolerance, and hormone
 production benefits that go beyond direct nutrition.
 
 The effectiveness of biofertilizers depends heavily on soil conditions, temperature, moisture,
 existing microbial communities, and the presence of living roots. High-phosphorus synthetic
-fertilizers suppress mycorrhizal colonization, and disturbed or degraded soils may lack the
+fertilizers suppress [[arbuscular-mycorrhizal-colonization-patterns]], and disturbed or degraded soils may lack the
 microbial foundation needed for inoculants to establish. Biofertilizers are living products
 with shelf-life limitations and require proper storage, handling, and application timing to
 ensure viable organisms reach the root zone.
@@ -79,9 +79,9 @@ or verified carbon removal will find biochar to be the more quantifiable and dur
 
 ## When to Choose Biofertilizer
 
-Biofertilizers are the better choice when the limiting factor is biological nutrient availability
+Biofertilizers are the better choice when the limiting factor is biological [[ph-and-nutrient-availability-garden-soils]]
 rather than soil physical properties. They are essential for legume-based cropping systems where
-Rhizobia inoculation enables nitrogen fixation, and for soils where phosphorus is abundant but
+Rhizobia inoculation enables [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], and for soils where phosphorus is abundant but
 biologically unavailable. Biofertilizers are particularly valuable in compost-based potting mixes,
 newly established gardens, and transplanted crops where native microbial communities are
 insufficient. They are also the preferred input for gardeners focused on reducing or eliminating

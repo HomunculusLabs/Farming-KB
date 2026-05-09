@@ -12,8 +12,8 @@ updated: 2026-04-28
 sources:
   - "California Avocado Society — Growing Avocados: A Grower's Guide (2023)"
   - "University of Florida IFAS Extension — Mango Growing in the Florida Home Landscape (2024)"
-  - "Martin Crawford, Creating a Forest Garden, 2nd ed., Green Books (2022)"
-  - "FAO — Ecological Orchard Management for Subtropical Fruits (2023)"
+  - "Martin Crawford, Creating a [[mollison-designers-forest-garden-layer-canopy-understory]], 2nd ed., Green Books (2022)"
+  - "FAO — Ecological [[fukuoka-orchard-management-detailed]] for Subtropical Fruits (2023)"
 type: comparison
 ---
 
@@ -27,7 +27,7 @@ Both avocado (*Persea americana*) and mango (*[[integrated-pest-management]] and
 
 ### Permaculture Integration
 
-**Avocado strengths:** Dense leaf litter for mulch, windbreak potential, pairs well with citrus, banana, and sweet potato guilds. Shade-tolerant understory plants thrive beneath avocado canopy.
+**Avocado strengths:** Dense [[dighton-fungal-decomposition-leaf-litter-dynamics]] for mulch, windbreak potential, pairs well with citrus, banana, and [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]] guilds. Shade-tolerant understory plants thrive beneath avocado canopy.
 
 **Mango strengths:** Deep root architecture brings up minerals, pruned wood is excellent fuel or biochar feedstock, tolerant of polyculture settings, interplants well with leguminous trees (e.g., *Leucaena*, *Gliricidia*) for nitrogen support.
 
@@ -37,7 +37,7 @@ Both can be grown in containers using dwarf or semi-dwarf cultivars. Avocados ar
 
 ### Propagation
 
-Grafting is the standard for both commercial and homestead planting, ensuring true-to-type fruit and earlier bearing. Avocado rootstocks are typically grown from seed (Mexican race for cold tolerance, West Indian for salt tolerance). Mango propagation uses veneer grafting or cleft grafting onto seedling rootstock. Both are achievable with basic grafting skills, making them accessible to homesteaders.
+Grafting is the standard for both commercial and homestead planting, ensuring true-to-type fruit and earlier bearing. Avocado rootstocks are typically grown from seed (Mexican race for cold tolerance, West Indian for [[fungal-salt-tolerance-and-ion-homeostasis]]). Mango propagation uses veneer grafting or cleft grafting onto seedling rootstock. Both are achievable with basic grafting skills, making them accessible to homesteaders.
 
 ### Pollination Considerations
 
@@ -59,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

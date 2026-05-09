@@ -1,5 +1,5 @@
 ---
-title: Bulb Vegetables and the Onion Family
+title: hamilton bulb vegetables onion family organic and the Onion Family
 created: 2026-04-28
 tags:
   - organic-gardening
@@ -35,7 +35,7 @@ exposed, support the stems to keep them from breaking off in the wind.
 
 Dig up the bulbs in summer, clean them, and dry them in the sun before
 stringing or storing in nets in a frost-free place. Garlic is generally
-trouble free from pests and diseases.
+trouble free from [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]].
 
 ## Onions - *Allium cepa*
 

@@ -18,15 +18,15 @@ cellulose, and hemicellulose, leaving behind a bleached, fibrous residue. Brown
 rot fungi primarily attack cellulose and hemicellulose while leaving lignin
 largely intact, producing a brittle, brown crumbly residue. These different
 decay mechanisms have profound implications for wood ecology, bioremediation
-potential, mushroom cultivation, and forest management.
+potential, [[accessible-mushroom-cultivation-for-disabilities]], and forest management.
 
 ## White Rot Fungi
-[[brown-rot-fungi-biodegradation]]
+brown-rot-fungi-biodegradation
 
 Brown rot fungi employ a fundamentally different decay strategy, using a non-
 enzymatic Fenton chemistry system to rapidly depolymerize cellulose while
 largely leaving lignin intact. The process involves generating hydroxyl radicals
-through the Fenton reaction (hydrogen peroxide + iron), which aggressively
+through the Fenton reaction ([[cervantes-hydrogen-peroxide-sterilization]] + iron), which aggressively
 attacks cellulose chains and causes rapid strength loss in wood. Brown rot fungi
 produce oxalic acid to lower the local pH and create conditions favorable for
 Fenton chemistry, and they generate hydrogen peroxide through extracellular
@@ -35,7 +35,7 @@ degradation, causing significant wood damage in a relatively short time.
 
 The result of brown rot decay is characteristic: wood becomes brown, cracked,
 and crumbly as cellulose is removed but the brown lignin matrix remains. The
-decayed wood loses most of its structural strength while retaining its
+decayed wood loses most of its [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]] while retaining its
 approximate shape, eventually crumbling into a brown cubical fracture pattern.
 Common brown rot genera include Serpula (the notorious dry rot fungus, S.
 lacrymans), Gloeophyllum, Postia, and Wolfiporia. Brown rot fungi are primarily
@@ -56,7 +56,7 @@ poles.
 ## Key Differences
 | Aspect | White Rot Fungi | Brown Rot Fungi |
 |--------|----------------|-----------------|
-| Decay Strategy | Enzymatic lignin degradation | Fenton chemistry cellulose attack |
+| Decay Strategy | Enzymatic [[query-how-does-lignin-degradation-by-fungi-work]] | Fenton chemistry cellulose attack |
 | Lignin Degradation | Complete, all components | Minimal, lignin left intact |
 | Residue Appearance | Bleached, white, fibrous | Brown, cracked, crumbly |
 | Primary Enzymes | LiP, MnP, Laccase | Cellulases + Fenton reagents |
@@ -70,7 +70,7 @@ compounds. Their lignin-modifying enzyme system provides unmatched versatility
 for degrading chemically diverse contaminants. For mushroom cultivation, white
 rot species like oyster mushrooms and shiitake are among the easiest and most
 productive species to grow on hardwood substrates. In research and commercial
-bioremediation, Phanerochaete chrysosporium and Trametes versicolor are the most
+bioremediation, [[staycare-phanerochaete-chrysosporium-in-bioremediation]] and [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] are the most
 extensively characterized and widely applied species for environmental cleanup
 applications.
 

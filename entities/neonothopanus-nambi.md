@@ -13,8 +13,8 @@ created: 2026-04-28
 updated: 2026-04-28
 sources:
   - Desjardin, D.E., et al. (2008). "Neonothopanus nambi sp. nov., a new bioluminescent agaric from the Atlantic Forest." Mycologia, 100(6), 883–889.
-  - Oliveira, A.G., et al. (2015). "The decay of wood luminescence in bioluminescent fungi." Fungal Biology, 119(8), 739–746.
-  - Kotlobay, A.A., et al. (2018). "Genetic engineering of hispidin biosynthesis in yeast." Proceedings of the National Academy of Sciences, 115(6), 1276–1281.
+  - Oliveira, A.G., et al. (2015). "The decay of wood luminescence in [[bloomfield-bioluminescent-fungi-overview]]." [[bloomfield-fungal-biology-and-hyphal-growth]], 119(8), 739–746.
+  - Kotlobay, A.A., et al. (2018). "[[fukuoka-textdoc-genetic-engineering-critique-warning]] of hispidin biosynthesis in yeast." Proceedings of the National Academy of Sciences, 115(6), 1276–1281.
   - Stevani, C.V., et al. (2013). "Bioluminescent fungi." In: Bioluminescence: Fundamentals and Applications in Biotechnology. Springer, pp. 271–296.
   - Weitz, H.J., et al. (2019). "The fungal luciferase from Neonothopanus nambi." Nature Chemical Biology, 15, 1057–1063.
 ---
@@ -88,15 +88,15 @@ who identified the complete four-enzyme cascade:
    3-hydroxyhispidin, the fungal luciferin.
 3. **Luz luciferase** catalyzes the oxidation of 3-hydroxyhispidin in
    the presence of molecular oxygen and ATP, emitting light at 530 nm.
-4. **Caffeic acid cycle** recycles the oxidized product back to hispidin
+4. **Caffeic [[citric-acid-cycle-tca-krebs-cycle]]** recycles the oxidized product back to hispidin
    via a caffeyl alcohol intermediate.
 
 The bioluminescence is continuous (circadian, with peak intensity during
 nighttime hours) and requires no exogenous substrate addition, making it
 energetically favorable compared to firefly luciferase systems. The
 physiological function of fungal bioluminescence remains debated, with
-current evidence supporting roles in spore dispersal (attracting nocturnal
-insects) and oxidative stress management.
+current evidence supporting roles in [[aquatic-fungi-spore-dispersal-ingold]] (attracting nocturnal
+insects) and [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] management.
 
 ## Applications in Biotechnology
 

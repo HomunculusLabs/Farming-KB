@@ -15,7 +15,7 @@ those days, the vast majority of vegetable gardens were grown without running
 water. After a few weeks without rain, some gardeners would complain of drought,
 but others in the same vicinity would not.
 
-He cites John Widstoe's 1911 book "Dry Farming," which defined drought not as a
+He cites John Widstoe's 1911 book "[[comparison-dry-farming-vs-xeriscaping]]," which defined drought not as a
 weather phenomenon but as a condition caused by the farmer: "Drouth may be
 defined as a condition under which crops fail to mature because of an
 insufficient supply of water." Widstoe identified four causes of crop failure
@@ -36,7 +36,7 @@ almost daily watering. Solomon does not recommend this approach.  - **Column 2
 there is some irrigation or reliable rainfall.  - **Column 3 (Extensive, good
 rainfall):** Even wider spacings on raised rows or flat ground, where the soil
 moisture from winter rains and snowmelt can comfortably support crops through
-the growing season.  - **Column 4 (Extensive, little rain):** The widest
+the [[savory-growing-season-and-non-growing-season-management]].  - **Column 4 (Extensive, little rain):** The widest
 spacings, for areas with minimal rainfall and no irrigation.
 
 The shift from intensive to extensive spacing is not a sacrifice. Solomon found
@@ -62,9 +62,9 @@ about 5 gallons every three weeks is appropriate; for sandy soils, perhaps 2.5
 gallons every ten days.
 
 **Fertigation solutions:** The simplest fertigation solution is manure or
-compost tea -- a barrel filled with water and a bucketful of fresh manure or
-compost, brewed for a week. Fish emulsion fertilizer (diluted 1:100) also works
-excellently. Soluble chemical fertilizers containing trace elements as well as
+[[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]] -- a barrel filled with water and a bucketful of fresh manure or
+compost, brewed for a week. [[solomon-foliar-feeding-fish-emulsion-and-kelp]] fertilizer (diluted 1:100) also works
+excellently. Soluble [[cervantes-chemical-fertilizers-guide]] containing trace elements as well as
 NPK are effective when applied in highly dilute form and do not damage soil
 life.
 
@@ -74,7 +74,7 @@ When drought threatens, Solomon recommends this sequence:
 
 1. Thoroughly hoe weeds to eliminate competition for soil moisture.  2. Begin
 fertigation to help plants access deeper soil moisture.  3. Recognize that much
-apparent drought damage is actually nutrient deficiency from dry surface soil.
+apparent drought damage is actually [[cannabis-grow-nutrient-deficiency-problem-solving]] from dry surface soil.
 Fertigation addresses both problems simultaneously.
 
 ## Soil Assessment for Water Retention

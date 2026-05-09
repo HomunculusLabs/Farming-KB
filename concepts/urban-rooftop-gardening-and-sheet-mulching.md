@@ -1,5 +1,5 @@
 ---
-title: Urban Rooftop Gardening and Sheet Mulching
+title: Urban urban rooftop gardening and sheet mulching and comparison-sheet-mulching-vs-chop-and-drop-mulching
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Urban Rooftop Gardening and Sheet Mulching
 
-The urban permaculture reader provides practical techniques for growing food in cities, including rooftop gardens and sheet mulching methods that can transform urban spaces into productive food systems.
+The [[pdc-urban-permaculture-design-principles]] reader provides practical techniques for growing food in cities, including rooftop gardens and sheet [[sheet-mulching-methods-urban-permaculture]] that can transform urban spaces into productive food systems.
 
 ## Rooftop Gardens
 
@@ -69,14 +69,16 @@ Almond, black locust, carob, fig, mesquite, olive, pomegranate, rosemary, prickl
 
 The urban permaculture reader is subtitled "A Reader Compiled for the DIY Skillshare Conference" and includes the ethos of guerilla gardening — reclaiming neglected urban spaces for food production. This connects to the broader [[reciprocal-roof-frame]]
 
-- [[permaculture-farm-design-principles]] — core design principles
-- [[cho-fermented-mixed-compost-methods]] — composting methods
+- [[permaculture-farm-design-principles]] — core [[holmgren-permaculture-twelve-design-principles-framework]]
+- [[cho-fermented-mixed-compost-methods]] — [[natural-farming-guide-composting-methods-and-techniques]]
 
 ## Related
 
+- [[sheet-mulching-methods-urban-permaculture]]
+
 - [[urban-permaculture-cows-bamboo-integration]]
 
-- [[urban-permaculture-fodder-trees-livestock]]
+- [[urban-permaculture-trees-water-cycling]]
 
 - [[urban-permaculture-nitrogen-fixing-green-manures]]
 

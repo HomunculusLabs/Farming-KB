@@ -1,11 +1,11 @@
 ---
-title: Sepp Holzer Soil Fertility and Green Manure
+title: Sepp sepp holzer soil fertility and green manure and comparison-green-manure-guide-vs-mulch-types-and-effects
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources: []
 ---
 
 Updated: 2026-04-18
@@ -40,9 +40,9 @@ For steep slopes and embankments:
 - Sweet clover, lucerne, vetch, peas, lupins, sunflowers
 - Jerusalem artichokes and turnips (tubers)
 - Deep-rooted plants stabilise slopes (roots metres long vs centimetres for grass)
-- This method improved poor, dry slope soil enough for demanding fruit trees in only 2-3 years
+- This method improved poor, dry slope soil enough for demanding [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] in only 2-3 years
 
-For supporting beneficial insects:
+For supporting [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]:
 - Cornflowers (Centaurea cyanus), yarrow (Achillea millefolium), calendula (Calendula officinalis)
 - Golden marguerites (Anthemis tinctoria), scented mayweed (Matricaria chamomilla)
 - Spreading bellflowers (Campanula patula), comfrey (Symphytum officinale)
@@ -93,3 +93,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[holzer-green-manure-soil-fertility]]

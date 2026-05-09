@@ -11,7 +11,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of North America." Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Goward, T., McCune, B. & Meidinger, D. (1994). "The Lichens of British Columbia." Ministry of Forests, Victoria.
   - James, P.W. et al. (1977). "New or interesting British lichens IV." "Lichenologist" 9(2): 161–179.
   - McCune, B. & Geiser, L. (2009). "Macrolichens of the Pacific Northwest." 2nd ed. Oregon State University Press.
@@ -21,7 +21,7 @@ sources:
 
 **Sticta limbata** is a large foliose cyanolichen in the family Lobariaceae, commonly known as the **eyed finger-leaf lichen**. It forms broad, deeply lobed thalli up to 20 cm across with conspicuous cyphellae on the lower surface.
 
-The species is distinctive for its dual photobiont system — both a green alga and a cyanobacterium (*Nostoc*) — housed in separate structures. It occurs in humid oceanic and montane forests across the southern hemisphere and disjunctly in the northern hemisphere.
+The species is distinctive for its dual photobiont system — both a green alga and a cyanobacterium (*Nostoc*) — housed in separate structures. It occurs in humid oceanic and montane forests across the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] and disjunctly in the northern hemisphere.
 
 ## Taxonomy and Morphology
 
@@ -31,7 +31,7 @@ The upper surface is gray-green to brown when dry, becoming dark green and gelat
 
 Lobes are broad and rounded, 1–4 cm wide, with crenulate margins. The lower surface is pale tan with a dense tomentum and prominent cyphellae — small, round pore structures 0.3–0.8 mm in diameter that function in gas exchange.
 
-Cephalodia containing the cyanobacterial partner *Nostoc* are found on the upper surface as dark brown to black raised warts, 1–3 mm across. These structures enable nitrogen fixation. Apothecia are rare, with red-brown discs up to 5 mm diameter on short stalks.
+Cephalodia containing the cyanobacterial partner *Nostoc* are found on the upper surface as dark brown to black raised warts, 1–3 mm across. These structures enable [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. Apothecia are rare, with red-brown discs up to 5 mm diameter on short stalks.
 
 ## Distribution and Habitat
 
@@ -47,7 +47,7 @@ The tripartite association between the fungal partner, a green algal photobiont,
 
 In old-growth forests, *S. limbata* contributes substantially to epiphyte biomass and canopy nitrogen input. Studies in Chilean *Nothofagus* forests have found *Sticta* species among the most important contributors to fixed nitrogen in the canopy system.
 
-The species is sensitive to desiccation and air pollution, particularly sulfur dioxide and excess nitrogen deposition. It serves as a bioindicator of forest continuity and atmospheric purity in the regions where it occurs.
+The species is sensitive to desiccation and air pollution, particularly sulfur dioxide and excess [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]. It serves as a bioindicator of forest continuity and atmospheric purity in the regions where it occurs.
 
 Invertebrate communities associated with *S. limbata* include specialized mites and springtails that inhabit the water-retaining thallus mats. These microhabitats maintain humidity during dry periods and support diverse mesofaunal assemblages.
 
@@ -79,7 +79,7 @@ European herbal traditions attributed expectorant and demulcent properties to lu
 
 *Sticta limbata* reproduces primarily through vegetative means. Isidia — small outgrowths of the thallus surface — break off and establish new colonies when they land on suitable bark substrates. The isidiate propagation strategy allows relatively efficient local colonization.
 
-Apothecia are produced sporadically and contain spores that require capture of compatible algal cells for successful establishment. This dual requirement limits the efficiency of sexual reproduction and contributes to the species' preference for continuous forest habitats.
+Apothecia are produced sporadically and contain spores that require capture of compatible algal cells for successful establishment. This dual requirement limits the efficiency of [[fungal-life-cycles-sexual-reproduction-metamorphosis]] and contributes to the species' preference for continuous forest habitats.
 
 Fragmentation of the thallus during windstorms or animal disturbance also serves as a dispersal mechanism. Large thallus fragments can survive desiccation and rehydrate when conditions improve, eventually attaching to new substrates.
 
@@ -89,14 +89,14 @@ Fragmentation of the thallus during windstorms or animal disturbance also serves
 
 Old-growth forest clearance represents the primary threat to the species. Because *S. limbata* requires mature trees with established bark communities and stable microclimatic conditions, logged or fragmented forests provide unsuitable habitat.
 
-Climate change poses an additional long-term threat through altered precipitation patterns and increased frequency of drought events. The species' dependence on consistent atmospheric humidity makes it particularly vulnerable to warming and drying trends.
+[[dighton-fungi-climate-change-feedback]] poses an additional long-term threat through altered precipitation patterns and increased frequency of drought events. The species' dependence on consistent atmospheric humidity makes it particularly vulnerable to warming and drying trends.
 
 Conservation efforts focus on preserving old-growth forest stands, maintaining canopy continuity, and reducing atmospheric pollution in key habitat areas. Translocation experiments have shown limited success due to the species' exacting habitat requirements.
 
 ## See Also
 
 - [[sticta-fuliginosa]]
-- [[peltigera-apthosa]]
+- [[peltigera-aphthosa]]
 - [[peltigera-membranacea]]
 - [[nephroma-expansible]]
 - [[nephroma-laevigatum]]

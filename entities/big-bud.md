@@ -29,13 +29,13 @@ created: 2026-04-28
 
 ## Overview
 
-Big Bud is a classic indica-dominant cannabis strain renowned for its exceptional yield potential, making it one of the most commercially significant strains in the history of cannabis cultivation. Originally developed in the United States during the 1980s from Afghani genetics, it was stabilized and popularized by Sensi Seeds of the Netherlands.
+Big Bud is a classic indica-dominant cannabis strain renowned for its exceptional yield potential, making it one of the most commercially significant strains in the history of [[query-how-does-no-till-cannabis-cultivation-work]]. Originally developed in the United States during the 1980s from Afghani genetics, it was stabilized and popularized by Sensi Seeds of the Netherlands.
 
 The strain earned its name from its massive, dense colas that can reach extraordinary sizes under optimal growing conditions. It remains a staple for commercial growers seeking maximum output and has served as a genetic parent for numerous high-yielding hybrid varieties.
 
 ## Lineage
 
-Big Bud is an indica-dominant hybrid derived primarily from **Afghani** landrace genetics, with additional Skunk #1 influence introduced during its stabilization phase in the Netherlands. The exact breeder of the original American cut is unknown, but the strain was brought to Amsterdam in the 1980s and refined by Sensi Seeds' breeding program.
+Big Bud is an indica-dominant hybrid derived primarily from **Afghani** landrace genetics, with additional Skunk #1 influence introduced during its stabilization phase in the Netherlands. The exact breeder of the original American cut is unknown, but the strain was brought to Amsterdam in the 1980s and refined by Sensi Seeds' [[cervantes-breeding-program-design-goal-setting]].
 
 Genetic ratio is approximately **85% indica / 15% sativa**. The Afghani parentage contributes the heavy resin production, compact structure, and sedative effects, while the Skunk influence adds vigor, disease resistance, and a slight elongation of the flowering period.
 
@@ -72,7 +72,7 @@ The terpene profile is typical of heavy Afghani-dominant indicas — myrcene-for
 - **CBD:** Low, typically below 0.1–0.3%.
 - **Other cannabinoids:** Trace amounts of CBG and CBC.
 
-While not the highest-THC strain by modern standards, Big Bud delivers potent effects due to its heavy indica profile and full-spectrum terpene entourage. The moderate THC range makes it accessible to intermediate consumers while still satisfying experienced users.
+While not the highest-THC strain by modern standards, Big Bud delivers potent effects due to its heavy indica profile and full-spectrum [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]. The moderate THC range makes it accessible to intermediate consumers while still satisfying experienced users.
 
 ## Effects
 
@@ -84,17 +84,19 @@ The cerebral component is minimal — users report mild euphoria and mood elevat
 
 ## Cultivation
 
-Big Bud is prized by commercial growers primarily for its **extraordinary yield potential**. Indoor yields of 500–650 g/m² are achievable under optimal conditions, with outdoor plants producing 500–1000 g each. The strain responds well to all growing mediums including soil, hydroponics, and coco fiber.
+Big Bud is prized by commercial growers primarily for its **extraordinary yield potential**. Indoor yields of 500–650 g/m² are achievable under optimal conditions, with outdoor plants producing 500–1000 g each. The strain responds well to all [[cervantes-growing-mediums-comparison]] including soil, hydroponics, and coco fiber.
 
 **Flowering time:** 8–9 weeks indoors.
 
 **Height:** Medium-tall (100–150 cm indoors), with significant stretch during early flowering.
 
-The heavy colas require structural support — bamboo stakes, netting, or SCROG systems are essential. The dense bud structure makes the strain susceptible to bud rot (Botrytis cinerea) in humid environments, requiring good airflow management and humidity control during late flowering.
+The heavy colas require structural support — bamboo stakes, netting, or SCROG systems are essential. The dense bud structure makes the strain susceptible to bud rot (Botrytis cinerea) in humid environments, requiring good airflow management and [[cervantes-humidity-control-dehumidification]] during late flowering.
 
-Difficulty is rated as moderate. The strain is resilient and forgiving of minor nutrient fluctuations but demands attention to structural support and humidity management. It is not recommended for humid outdoor climates without preventive fungicide measures.
+Difficulty is rated as moderate. The strain is resilient and forgiving of minor nutrient fluctuations but demands attention to structural support and [[stamets-cultivator-humidity-management-fogging-systems]]. It is not recommended for humid outdoor climates without preventive fungicide measures.
 
 ## See Also
+
+- [[god-bud]]
 
 - [[white-widow-entity]]
 - [[afghan-kush]]
@@ -107,5 +109,5 @@ Difficulty is rated as moderate. The strain is resilient and forgiving of minor 
 - [[cannabis-living-soil-guide]]
 - flowering
 - [[girl-scout-cookies]]
-- [[gelato-cannabis]]
+- [[gelato]]
 - [[runtz-entity]]

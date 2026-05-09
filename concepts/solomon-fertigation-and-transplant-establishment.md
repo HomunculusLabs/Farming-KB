@@ -34,7 +34,7 @@ Fertigation is the practice of applying [[complete-organic-fertilizer-cof]] fert
 The slurry technique addresses several problems that commonly plague
 transplanted seedlings:
 
-- **Air gaps**: When a rootball from a potting mix meets [[kelp-meal-fertilizer]]. When
+- **Air gaps**: When a rootball from a [[solomon-potting-mix-and-seedling-soil-recipe]] meets [[kelp-meal-fertilizer]]. When
 dissolved or suspended in water, it creates a viable fertigation solution.
 
 Commercial hydroponic fertilizers can also work, provided they include
@@ -63,7 +63,7 @@ transplants.
 ## See Also
 
 - [[solomon-transplanting-and-hardening-off]]
-- [[solomon-transplanting-and-hardening-off]]
+
 ## Practical Considerations
 
 Successful implementation of Solomon Fertigation And Transplant Establishment requires attention to
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

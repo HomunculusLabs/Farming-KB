@@ -1,36 +1,13 @@
 ---
 title: agar culture media
 created: 2026-04-28
-tags: [[mycology, agar, tissue-culture, cultivation]
+tags: [mycology, agar, tissue-culture, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
 type: concept
 ---
-
-# Agar Culture Media
-
-Agar media serve as the foundation of mushroom mycology, providing a solid
-surface for isolating, maintaining, and propagating fungal cultures. The use
-of agar in mycology traces back to early plant pathology, and it remains the
-standard method for working with pure fungal cultures. Every cultivated
-mushroom begins its journey on an agar plate.
-
-## What Is Agar
-
-Agar is a polysaccharide derived from red algae (primarily Gelidium and
-Gracilaria species). It forms a gel at temperatures below approximately
-42°C and melts at temperatures above 85°C, creating a convenient solid
-growth medium that can be sterilized without decomposition. At
-concentrations of 1.5--2.0%, agar provides a firm, stable surface that
-retains moisture while allowing gas exchange. Importantly, most fungi
-cannot metabolize agar itself, making it an inert structural component.
-
-## Standard Agar Formulations
-
-### Malt Extract Agar (MEA)
-
-The most widely used general-purpose medium in [[pleurotus-ostreatus]]. It is simple, reliable, and inexpensive.
+# Agar Culture Media Agar media serve as the foundation of mushroom mycology, providing a solid surface for isolating, maintaining, and propagating fungal cultures. The use of agar in mycology traces back to early plant pathology, and it remains the standard method for working with pure fungal cultures. Every cultivated mushroom begins its journey on an agar plate. ## What Is Agar Agar is a polysaccharide derived from red algae (primarily Gelidium and Gracilaria species). It forms a gel at temperatures below approximately 42°C and melts at temperatures above 85°C, creating a convenient solid growth medium that can be sterilized without decomposition. At concentrations of 1.5--2.0%, agar provides a firm, stable surface that retains moisture while allowing gas exchange. Importantly, most fungi cannot metabolize agar itself, making it an inert structural component. ## Standard Agar Formulations ### Malt Extract Agar (MEA) The most widely used general-purpose medium in [[pleurotus-ostreatus]]. It is simple, reliable, and inexpensive.
 The 2% concentration of malt extract provides sufficient nutrition without
 encouraging bacterial overgrowth.
 
@@ -53,7 +30,7 @@ species but is otherwise similar in performance.
 An enriched formulation for demanding species or slow-growing cultures:
 
 - **Malt extract**: 10 g
-- **Yeast extract**: 2--4 g
+- **[[marmite-yeast-extract-straw-substrate]]**: 2--4 g
 - **Agar**: 15--20 g
 - **Water**: 1000 mL
 
@@ -65,9 +42,62 @@ from wild specimens and for maintaining finicky species.
 
 Used for species that benefit from more complex carbohydrates. Oats are
 boiled, the broth strained, and used as the base with 15--20 g/L agar.
-Oatmeal agar produces exceptionally rhizomorphic mycelium for many
+Oatmeal agar produces exceptionally [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]] for many
 [[mushroom-spawn-preparation]]
 - [[mushroom-contamination-control]]
+
+## Preparation Procedure
+
+Preparing agar media involves dissolving dry ingredients in water, adjusting
+pH if necessary, dispensing into containers, and sterilizing. The standard
+procedure begins by combining all dry ingredients in cold water and stirring
+to suspend. The mixture is heated with constant stirring until it reaches a
+rolling boil and all components are fully dissolved. For PDA made from whole
+potatoes, diced potatoes are boiled for 30 minutes, the broth is strained
+through cheesecloth, and agar and dextrose are added to the resulting liquid.
+
+pH adjustment is important for selectivity. Most fungal cultures prefer
+slightly acidic conditions around pH 5.5-6.0. Lowering pH to 4.5-5.0 using
+citric acid or lactic acid can suppress bacterial growth while still allowing
+fungal colonization. Conversely, raising pH can help select against certain
+molds. After preparation, media is dispensed into containers (Petri dishes,
+slant tubes, or jars) and sterilized by autoclaving at 121C for 15-20
+minutes for shallow dispensing, or 30 minutes for larger volumes.
+
+## Selective and Diagnostic Media
+
+Beyond general-purpose formulations, mycologists use selective media to
+isolate specific fungi from mixed samples. Antibiotic-amended agar
+containing chloramphenicol or gentamicin suppresses bacterial growth without
+affecting fungi, making it essential for isolating from soil or dung
+samples where bacteria vastly outnumber fungi. Benomyl-amended agar
+suppresses many molds while allowing basidiomycete mushrooms to grow,
+aiding in the isolation of wood-decomposing fungi from contaminated wood
+surfaces.
+
+## Working with Agar Cultures
+
+Proper aseptic technique when working with agar plates prevents
+cross-contamination between cultures. Inoculation loops should be
+flame-sterilized until red-hot and cooled before contacting tissue or
+spores. Plates should be opened only briefly and at an angle that
+minimizes airborne particle settlement. Cultures are incubated in the dark
+at species-appropriate temperatures, typically 20-28C for most cultivated
+mushroom species. Inverted incubation prevents condensation from dripping
+onto the culture surface.
+
+## Storage and Long-Term Maintenance
+
+Short-term storage of agar cultures is typically at 4C in sealed bags
+to prevent desiccation. Most mushroom cultures remain viable for 6-12
+months under refrigeration. For long-term preservation, several methods
+are available. Slant cultures in screw-cap tubes with parafilm seals last
+1-2 years. Distilled water storage, where small agar plugs are placed in
+sterile distilled water, can preserve cultures for 5+ years. Cryopreservation
+in liquid nitrogen at -196C provides the longest-term storage and is the
+gold standard for culture collections. Lyophilization (freeze-drying) works
+for sporulating species but is less reliable for vegetative mycelium.
+
 ## Practical Considerations
 
 Successful implementation of agar culture media requires attention to
@@ -86,4 +116,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

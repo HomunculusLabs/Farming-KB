@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [query, soil-biology, protozoa, soil-food-web, microorganisms]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
 type: query
 ---
 
@@ -23,7 +24,7 @@ As described in the research on [[teaming-with-microbes-protozoa-and-nematodes]]
 Protozoa stimulate bacterial activity and turnover, preventing any single bacterial population from dominating.
 This competitive stimulation means that pathogenic bacteria have difficulty establishing themselves in soils with active protozoan populations.
 The [[aact-nematode-protozoa-management-ingham]] protocols were developed by Elaine Ingham.
-They emphasize that a healthy compost tea should contain diverse protozoan populations.
+They emphasize that a healthy [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]] should contain diverse protozoan populations.
 Protozoa are sensitive to aeration conditions and food sources during the brewing process.
 Bacterial-dominant teas tend to favor flagellates due to the dispersed bacterial food source.
 Fungal-dominant teas support larger amoebae that feed on bacteria associated with fungal hyphae.
@@ -31,8 +32,8 @@ The [[teaming-with-microbes-tilling-damage-to-fungal-networks]], disrupts the so
 Protozoa depend on water-filled pore spaces for movement and feeding.
 Tillage breaks apart these pore networks and desiccates protozoa exposed at the soil surface.
 Bare soil exposed to UV radiation kills surface-dwelling protozoa rapidly.
-Synthetic fertilizers and pesticides also reduce protozoan populations by disrupting the bacterial communities they feed on.
-Conversely, practices that maintain soil moisture and organic matter create ideal conditions for protozoan proliferation.
+Synthetic fertilizers and pesticides also reduce protozoan populations by disrupting the [[cultivar-endorhiza-bacterial-communities-cannabis]] they feed on.
+Conversely, practices that maintain soil moisture and [[hamilton-composting-and-organic-matter-management]] create ideal conditions for protozoan proliferation.
 The [[teaming-with-microbes-no-till-gardening-soil-health]] preserves the pore structure protozoa depend on.
 
 ### Protozoa and Nematode Interactions
@@ -57,7 +58,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,4 +100,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

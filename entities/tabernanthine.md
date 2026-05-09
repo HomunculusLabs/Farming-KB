@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Taylor, W.I. (1957). "The alkaloids of Tabernanthe iboga. Part III. The isolation of tabernanthine, ibogamine, ibogaïne, and voacangine." Journal of the Chemical Society, 1957, 1624-1632.
+  - Taylor, W.I. (1957). "The alkaloids of plants-of-the-gods-tabernanthe-iboga-chemistry. Part III. The isolation of tabernanthine, ibogamine, ibogaïne, and voacangine." Journal of the Chemical Society, 1957, 1624-1632.
   - Popik, P. & Glick, S.D. (1996). "Ibogaine and its analogs as anti-addictive agents." In Luisada, P.V. (ed.), The Ibogaine Story. ISBN 0-9656874-0-4.
   - Glick, S.D. et al. (2001). "Ibogaine: Anti-addictive effects and therapeutic potential." CNS Drug Reviews, 7(2), 153-162.
   - Alper, K.R. et al. (2001). "Ibogaine: A review." The Alkaloids: Chemistry and Biology, 56, 1-38.
@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-**Tabernanthine** is an indole alkaloid found in the root bark of *Tabernanthe iboga* (Apocynaceae) and related species including *Voacanga africana* and *Tabernaemontana* spp. It is a close structural relative of **ibogaine** and **ibogamine**, belonging to the iboga class of monoterpene indole alkaloids.
+**Tabernanthine** is an [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] found in the root bark of *Tabernanthe iboga* (Apocynaceae) and related species including *Voacanga africana* and *Tabernaemontana* spp. It is a close structural relative of **ibogaine** and **ibogamine**, belonging to the iboga class of monoterpene indole alkaloids.
 
 The compound was first isolated from *T. iboga* root bark by Raymond-Hamet in 1939 and subsequently characterized by Taylor and colleagues in 1957. While less studied than ibogaine, tabernanthine shares the characteristic iboga skeleton and exhibits pharmacological activity at multiple receptor systems.
 
@@ -52,9 +52,9 @@ The pharmacology of tabernanthine has been less extensively characterized than t
 - **Sigma receptors:** Moderate binding affinity; role in the anti-addictive mechanism remains speculative
 - **Sodium channels:** Weak blockade of voltage-gated sodium channels; lower potency than ibogaine at this target
 
-The compound's overall pharmacological profile is qualitatively similar to ibogaine but with significantly reduced potency across most targets. This lower potency may result in a more favorable safety profile, though systematic toxicological studies have not been conducted.
+The compound's overall pharmacological profile is qualitatively similar to ibogaine but with significantly reduced potency across most targets. This lower potency may result in a more favorable [[cannabis-safety-profile-and-overdose-risk]], though systematic toxicological studies have not been conducted.
 
-The therapeutic index of tabernanthine has not been established in human subjects. In the absence of controlled clinical data, any assessment of safety must be extrapolated from animal studies and the broader iboga alkaloid literature.
+The [[cannabis-therapeutic-index-overview]] of tabernanthine has not been established in human subjects. In the absence of controlled clinical data, any assessment of safety must be extrapolated from animal studies and the broader iboga alkaloid literature.
 
 ## Natural Occurrence
 
@@ -90,7 +90,7 @@ In animal studies, tabernanthine has shown preliminary evidence of reducing morp
 
 Tabernanthine is not individually scheduled under international drug control conventions. However, as a naturally occurring constituent of *Tabernanthe iboga*, it is indirectly regulated wherever iboga and ibogaine are controlled.
 
-In the United States, ibogaine is listed as a Schedule I controlled substance. Tabernanthine itself is not explicitly scheduled but may fall under the Federal Analog Act due to its structural similarity to ibogaine. In Belgium, ibogaine and iboga are banned, while other countries vary in their approach to regulating iboga alkaloids individually versus the whole plant.
+In the [[dmt-containing-plants-united-states-halpern]], ibogaine is listed as a Schedule I controlled substance. Tabernanthine itself is not explicitly scheduled but may fall under the Federal Analog Act due to its structural similarity to ibogaine. In Belgium, ibogaine and iboga are banned, while other countries vary in their approach to regulating iboga alkaloids individually versus the whole plant.
 
 ## Related Compounds
 
@@ -103,14 +103,14 @@ The iboga alkaloid family includes several structurally related compounds of pha
 - **Coronaridine** (C₂₁H₂₆N₂O₂, MW 338.44): iboga alkaloid from *Voacanga* and *Pandaca*, GABA modulator
 - **Voacamine** (C₄₃H₅₀N₄O₅, MW 706.86): a dimeric iboga-vobasine alkaloid from *Voacanga africana*, studied for anti-malarial and cardioprotective properties
 
-The structural similarity between these compounds arises from shared biosynthetic precursors in the strictosidine pathway. Small modifications to the methoxylation pattern and nitrogen substitution pattern produce significant differences in receptor binding affinity and pharmacological profiles.
+The structural similarity between these compounds arises from shared biosynthetic precursors in the strictosidine pathway. Small modifications to the methoxylation pattern and nitrogen substitution pattern produce significant differences in [[tihkal-receptor-binding-serotonin]] affinity and pharmacological profiles.
 
 ## See Also
 
 - [[ibogamine]]
 - [[voacangine-entity]]
 - [[coronaridine]]
-- [[ibotenic-acid-entity]]
+- ibotenic-acid-entity
 - [[harmaline]]
 - [[tetrahydroharmine]]
 - [[5-meo-dmt-entity]]

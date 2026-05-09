@@ -22,7 +22,7 @@ Shulgin documented thousands of potential morphine/heroin substitutes across mul
 - **Oripavine derivatives** (from thebaine, ~1% of raw opium) -- exceed morphine potency by four orders of magnitude. Ethorphine (M-99) used for immobilizing wild animals
 - **Morphinans** -- phenethylamine analogs showed 20-40x morphine potency in primate evaluation; submilligram amounts could serve as heroin substitutes
 - **Benzomorphans** -- pentazocine (Talwin) was marketed without narcotic controls but showed hallucinogenic side effects
-- **Meperidine family** -- over 4,000 chemical modifications described in the literature; some thousands of times more potent than morphine
+- **Meperidine family** -- over 4,000 [[hofmann-lsd-chemical-modifications-derivatives]] described in the literature; some thousands of times more potent than morphine
 - **Methadone family** -- piperidinyl analogs 1,500x more potent than methadone; Fentanyl active at ~25 micrograms IV
 
 **Key prediction:** As heroin import restriction increases, economically driven synthesis of domestic substitutes becomes inevitable. The underground chemist needs only commercially available, uncontrolled starting materials.

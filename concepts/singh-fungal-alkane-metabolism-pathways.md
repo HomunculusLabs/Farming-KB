@@ -1,5 +1,5 @@
 ---
-title: Fungal Alkane Metabolism Pathways
+title: singh fungal alkane metabolism pathways Metabolism Pathways
 created: 2026-04-26
 tags: [alkane-metabolism, fungal-enzymes, petroleum-biodegradation, monoxygenase, hydrocarbon-oxidation]
 date: 2026-04-25
@@ -25,7 +25,7 @@ process requires a mixed-function alkane monoxygenase system along with
 NAD-dependent alcohol and aldehyde dehydrogenases. The initial attack
 occurs at the terminal methyl group by alkane monoxygenase, involving
 insertion of molecular oxygen and an electron transfer system that
-combines [[singh-fungal-petroleum-hydrocarbon-metabolism]]
+combines singh-fungal-petroleum-hydrocarbon-metabolism
 - [[singh-fungal-oxidation-petroleum-enzymes]]
 - [[white-rot-fungi-in-pesticide-and-btex-bioremediation]]
 ## Practical Applications
@@ -105,4 +105,9 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[mycoremediation]]
+- [[singh-fungal-metabolism-pahs]]
+- [[fungal-nitrogen-mineralization-pathways]]
+- [[singh-fungal-bioreactor-types-configurations]]
+- [[gadd-fungal-nutrition-metabolism]]

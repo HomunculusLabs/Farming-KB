@@ -36,7 +36,7 @@ plant material.
 ## Overview
 
 Fusarium lateritium is a saprotrophic fungus that plays a
-role in the decomposition of organic matter in soil
+role in the decomposition of [[hamilton-composting-and-organic-matter-management]] in soil
 ecosystems. The species has attracted particular research
 attention for its interactions with soil fauna, especially
 earthworms. Studies have revealed a complex and somewhat
@@ -66,7 +66,7 @@ colonized substrates that are palatable or attractive to
 earthworms.
 
 The preference exhibited by earthworms for F. lateritium
-colonized material may relate to the nutritional quality of
+colonized material may relate to the [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of
 the fungal mycelium, the degree of substrate modification by
 fungal enzyme activity, or specific chemical cues produced
 during the [[chaetomium-globosum]] exhibited even
@@ -93,7 +93,7 @@ from other fungal species.
 Fusarium lateritium contributes to soil decomposition processes
 through its enzymatic modification of organic substrates,
 particularly plant litter and straw material. The species
-produces a range of extracellular enzymes that break down
+produces a range of extracellular enzymes that [[query-can-fungi-break-down-plastic-pollution]]
 complex plant polymers, releasing nutrients that become
 available to other soil organisms and plants. Its role as a
 decomposer, combined with its susceptibility to earthworm gut

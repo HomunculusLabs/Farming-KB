@@ -1,5 +1,5 @@
 ---
-title: Malt Agar vs Dung/Grain Comparative Cultivation of Psilocybe cubensis
+title: Malt Agar vs Dung/Grain Comparative grass-seed-cultivation-of-psilocybe-mushrooms cubensis
 source: growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md
 topic: mycology cultivation substrate comparison
 created: 2026-05-08
@@ -27,7 +27,7 @@ Key characteristics of the malt agar system:
 
 ### Horse Dung/Rice Grain Mixture in Water
 
-The second system utilized a horse dung and rice grain mixture prepared in water for fruiting production. This substrate mimics the natural coprophilous (dung-inhabiting) ecology of Psilocybe cubensis, which in nature colonizes the dung of herbivorous animals in subtropical and tropical grassland environments.
+The second system utilized a horse dung and rice grain mixture prepared in water for fruiting production. This substrate mimics the natural coprophilous (dung-inhabiting) ecology of Psilocybe cubensis, which in nature colonizes the dung of herbivorous animals in subtropical and [[bill-mollison-permaculture-a-designers-manual-tropical-grassland-rehabilitation]] environments.
 
 Key characteristics of the dung/grain system:
 - More complex nutritional profile including cellulose, lignin, hemicellulose, and micronutrients
@@ -35,7 +35,7 @@ Key characteristics of the dung/grain system:
 - Horse dung contributes partially decomposed organic matter with diverse microbial ecology
 - More closely resembles natural growth conditions for this species
 - Supports both vegetative mycelial growth and complete fruiting body production
-- Both substrates were supplemented with 5 g KH2PO4 per liter to ensure adequate phosphorus availability
+- Both substrates were supplemented with 5 g KH2PO4 per liter to ensure adequate [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]]
 
 ## Brassinosteroid Application Protocol
 
@@ -54,7 +54,7 @@ The pronounced effect on malt agar suggests that brassinosteroids directly stimu
 On the dung/grain substrate, the brassinosteroid effects were even more complex and multifaceted:
 - First flush appeared in 3-3.5 weeks (versus 4-5 weeks in control) — roughly 25-30% faster initiation
 - First flush yielded 4-7 mushrooms (versus 1-3 in control) — approximately 2-3x greater productivity
-- Total dry mass was 3.4-3.9 g per 10 g substrate (versus 2.3-2.9 g control) — roughly 40% increase in biological efficiency
+- Total dry mass was 3.4-3.9 g per 10 g substrate (versus 2.3-2.9 g control) — roughly 40% increase in [[stamets-biological-efficiency-yield]]
 - Formation of incomplete fruit bodies was almost completely suppressed
 - The fruiting bodies showed morphological changes including loss of the typical membranous annulus
 
@@ -69,7 +69,7 @@ The different response patterns between the two substrates provide insight into 
 
 ## Relevance to Cultivation Practice
 
-The comparison illustrates an important principle in mycological research: testing bioactive compounds on multiple substrate types reveals different facets of their activity. A compound that accelerates mycelial growth on simple agar may have additional effects on fruiting morphology and yield that only become apparent on a production substrate.
+The comparison illustrates an important principle in mycological research: testing [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] on multiple substrate types reveals different facets of their activity. A compound that accelerates mycelial growth on simple agar may have additional effects on fruiting morphology and yield that only become apparent on a production substrate.
 
 For cultivators, the study suggests that brassinosteroid supplementation could be beneficial across a range of substrate types, from simple grain-based preparations to complex composted substrates. The effect appears robust regardless of the nutritional complexity of the growth medium.
 
@@ -124,11 +124,13 @@ The responsiveness of Psilocybe cubensis to brassinosteroids suggests that eithe
 2. The fundamental biophysical effects of brassinosteroids on cell membrane properties are conserved across kingdoms
 3. Steroid compounds in general can modulate fungal growth regardless of their evolutionary origin
 
-This cross-kingdom activity has implications for understanding fungal ecology in natural environments where fungi are constantly exposed to plant-produced secondary metabolites and hormones.
+This cross-kingdom activity has implications for understanding fungal ecology in natural environments where fungi are constantly exposed to plant-produced [[antifungal-secondary-metabolites-coprophilous-fungi]] and hormones.
 
 ## See Also
 
-- [[brassinosteroid-effects-on-fungal-growth]]
+- [[psilocybe-cubensis-fruiting-timeline-flush-patterns-dung-grain-substrate]]
+
+- brassinosteroid-effects-on-fungal-growth
 - [[psilocybe-cubensis-malt-agar-dung-grain-cultivation]]
 - [[brassinosteroid-psilocybe-cubensis-growth-promotion-gartz-1990]]
 - [[22s-23s-homobrassinolide]]

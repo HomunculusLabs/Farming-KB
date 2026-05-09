@@ -1,11 +1,12 @@
 ---
-title: Psilocybe azurescens Profile
+title: stamets-psi-psilocybe-azurescens-species-guide Profile
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [species-profiles, species-identification, mycology, psilocybin, potency, distribution, coastal, temperate]
 sources:
-  - raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # Psilocybe azurescens Profile
@@ -40,12 +41,12 @@ Psilocybe azurescens is one of the most potent psilocybin-containing mushrooms k
 
 ## Potency
 
-One of the most potent psilocybin mushrooms in the world:
+One of the most potent [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] in the world:
 - Up to 1.78% psilocybin
 - 0.38% psilocin
 - 0.35% baeocystin
 
-After six months of storage, analyses revealed that this species retained most of its original potency. The baeocystin content is roughly on par with Psilocybe semilanceata.
+After six months of storage, analyses revealed that this species retained most of its original potency. The baeocystin content is roughly on par with [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]].
 
 ## Habitat and Distribution
 
@@ -53,13 +54,13 @@ After six months of storage, analyses revealed that this species retained most o
 - **Mycelial mat**: Forms an extensive, dense, and tenacious mycelial mat that causes the whitening of wood.
 - **Geographic range**: Naturally grows along the northern Oregon coast near Astoria, favoring the land adjacent to the shoreline.
 - **Fruiting season**: Late September through late December and early January. A cold weather-tolerant species that fruits well after the first frost.
-- **Cultivation**: Outdoor beds have been established with ease in the United States.
+- **Cultivation**: Outdoor beds have been established with ease in the [[dmt-containing-plants-united-states-halpern]].
 
 ## Distinguishing Features
 
-- Extremely strong bluing reaction -- flesh becomes indigo black where damaged.
+- Extremely strong [[field-guide-psilocybin-bluing-reaction-identification]] -- flesh becomes indigo black where damaged.
 - Silky white stem, caramel-colored cap, relatively large stature.
-- Non-undulating cap margin (distinguishes it from Psilocybe cyanescens).
+- Non-undulating cap margin (distinguishes it from [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]).
 - Broad but pronounced umbo.
 - Extremely bitter taste.
 
@@ -70,6 +71,8 @@ After six months of storage, analyses revealed that this species retained most o
 - Psilocybe subaeruginosa, Psilocybe serbica, Psilocybe venenata
 
 ## See Also
+
+- [[psilocybe-subcubensis-profile]]
 
 - [[psilocybe-cubensis-profile]]
 - [[psilocybe-cyanescens-profile]]
@@ -92,4 +95,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -13,7 +13,7 @@ sources:
 In *Teaming with Microbes*, Lowenfels and Lewis present soil bacteria as the foundation of the [[solomon-root-exudates-and-allelopathy]] are favorite foods for soil bacteria:
 - Huge bacterial populations concentrate in the rhizosphere
 - Bacteria also find nutrition from cells sloughed off during root-tip growth
-- Not all soil bacteria live in the rhizosphere — organic matter is nearly ubiquitous
+- Not all soil bacteria live in the rhizosphere — [[hamilton-composting-and-organic-matter-management]] is nearly ubiquitous
 
 ## Biofilm Formation
 
@@ -111,4 +111,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

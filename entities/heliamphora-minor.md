@@ -64,11 +64,11 @@ Cool greenhouse conditions with daytime temperatures of 15–22°C and nighttime
 
 A growing medium of live sphagnum moss or a sphagnum-perlite mix works well. Constant moisture through the tray system is required, and the use of chilled, purified water is recommended.
 
-Strong lighting, including supplemental LED or fluorescent light, promotes compact growth and red pigmentation. Under lower light, plants produce greener, more elongated pitchers.
+Strong lighting, including supplemental LED or fluorescent light, promotes [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] and red pigmentation. Under lower light, plants produce greener, more elongated pitchers.
 
 ## Conservation
 
-H. minor has a naturally restricted distribution on a small number of tepui summits. While the remote location provides some protection, the species faces potential threats from climate change.
+H. minor has a naturally restricted distribution on a small number of tepui summits. While the remote location provides some protection, the species faces potential threats from [[dighton-fungi-climate-change-feedback]].
 
 Rising temperatures and altered precipitation patterns could disrupt the cool, wet conditions that H. minor requires. Tepui ecosystems are considered highly vulnerable to global warming.
 
@@ -78,7 +78,7 @@ Collection for the horticultural trade is limited by the remoteness of the habit
 
 H. minor plays a role in the nutrient-poor tepui ecosystem by capturing insect prey and converting it into absorbable nutrients. This carnivorous adaptation is essential for survival in substrates with negligible available nitrogen.
 
-The pitchers serve as microhabitats for aquatic invertebrate communities. Protozoa, nematodes, and fly larvae have been recorded living within the pitcher fluid of Heliamphora species.
+The pitchers serve as microhabitats for aquatic invertebrate communities. Protozoa, nematodes, and [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]] have been recorded living within the pitcher fluid of Heliamphora species.
 
 Several species of spiders build webs on or near H. minor pitchers. These web-building spiders may prey on insects attracted to the nectar spoons, effectively kleptoparasitizing the plant's trapping mechanism.
 

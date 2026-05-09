@@ -1,5 +1,5 @@
 ---
-title: Mineral Leaching and Sea Salt Replenishment in JADAM Farming
+title: jadam-natural-mineral-leaching-and-replenishment and Sea Salt Replenishment in query-what-is-jadam-farming-and-how-does-it-work
 created: 2026-04-28
 tags: [mineral-leaching, sea-salt, phyllite, soil-minerals, nutrient-balance,
       JADAM, organic-farming, ultra-low-cost, trace-elements, soil-fertility]
@@ -28,16 +28,16 @@ There are two types of mineral loss:
 Taking a macro-view, minerals taken from soil through leaching eventually end
 up in the sea. To date, 83 elements have been found present in sea water. The
 mineral content of sea water is strikingly similar to that of amniotic fluid.
-The mineral balance of blood plasma is very similar to that of plant fluid and
+The [[holmgren-mineral-balance-soil-fertility]] of blood plasma is very similar to that of plant fluid and
 sea water. Biologists claim that both fauna and flora came from the sea.
 ## Sea Salt as [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]]
 with JMS and phyllite solution.
 Sea salt provides a broad spectrum of trace minerals that match the
 requirements of plants. JADAM also recommends eating small amounts of sea salt
-for human health, and using JADAM wetting agent (made with sea salt) to wash
+for human health, and using JADAM [[jadam-nutrient-management-wetting-agent-and-calcium]] (made with sea salt) to wash
 hair, body, and dishes as part of a holistic health approach.
 ## Organic Matter and Mineral Interaction
-Organic matter in soil should be abundant, like leaf mold in mountains. If the
+[[maintaining-organic-matter-in-vegetable-gardens]] soil should be abundant, like leaf mold in mountains. If the
 soil is barren, just putting in microorganisms will not secure the nutrients
 needed for plant growth. Certain elements must be present:
 - **Organic nutrients:** Carbon (C), hydrogen (H), oxygen (O) from
@@ -56,7 +56,7 @@ These rock-based minerals provide slow-release inorganic nutrients that
 microorganisms break down into plant-available forms, mimicking how nature
 breaks down rock sediments below leaf mold layers in forests.
 ## The Importance of Nutritional Balance
-Organic farming is not simply about adding good things to soil. The principle
+[[coleman-deep-organic-farming-philosophy]] is not simply about adding good things to soil. The principle
 of "the good and the bad are one" means finding balance rather than tilting
 toward either extreme. Putting in nutritionally unbalanced food (like skin
 fertilizers from rice bran or perilla pulp) disrupts nutrient balance.

@@ -21,7 +21,7 @@ type: concept
 Soil casing is a [[grifola-frondosa]] (maitake) yield significantly. The method
 involves applying a layer of treated soil on top of the colonized
 substrate, providing minerals and microbial benefits that enhance
-fruiting body production.
+[[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] production.
 
 ## What Is Soil Casing
 
@@ -49,7 +49,7 @@ potential for producing exceptionally large specimens.
 ## Calcium and Differentiation
 
 Wheat bran serves as a source of thiamine (vitamin B1), which is
-essential for fruiting body formation. Calcium, provided through
+essential for fruiting [[suppressed-incomplete-fruit-body-formation-brassinosteroid-treatment]]. Calcium, provided through
 lime (CaCO3) or gypsum (CaSO4) in the substrate and through soil
 casing, contributes to differentiation of the basidiocarps. The
 combination of these nutrients creates conditions favorable for
@@ -65,8 +65,8 @@ remove soil debris before storage or sale.
 ## References
 
 Chen, A.W. (1999). A Practical Guide for Synthetic-Log Cultivation
-of Medicinal Mushroom Grifola frondosa (Maitake). International
-Journal of Medicinal Mushrooms, Vol. 1, pp. 153-167.
+of [[gourmet-medicinal-mushroom-casing-layer-techniques]] [[maitake-grifola-frondosa-comprehensive-profile]] (Maitake). International
+Journal of [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]], Vol. 1, pp. 153-167.
 
 ## See Also
 
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

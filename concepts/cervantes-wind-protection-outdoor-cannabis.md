@@ -1,11 +1,12 @@
 ---
-title: Wind Protection for Outdoor Cannabis
+title: cervantes [[coleman-cold-house-wind-protection-microclimate]] [[indoor-vs-outdoor-cannabis]] for Outdoor Cannabis
 created: 2026-04-26
 tags: [cannabis, outdoor-growing, wind, environment, cervantes]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -42,7 +43,7 @@ water needs.
 
 ## Desert and Coastal Winds
 
-Southern Spain and other arid regions are subject
+Southern Spain and other [[fukuoka-natural-farming-in-arid-regions]] are subject
 to strong desert winds that transport abrasive
 sand and other particles. These winds can destroy
 crops by physically damaging foliage and rapidly
@@ -59,7 +60,7 @@ proper garden placement.
 
 Properly designed windbreaks protect plants while
 maintaining adequate airflow. Cervantes outlines
-four windbreak configurations:
+four [[mollison-designers-windbreak-configurations-for-crops-and-orchards]]:
 
 1. A solid wall causes air to drop and whirl on
    the protected side, creating turbulence close

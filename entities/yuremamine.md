@@ -49,7 +49,7 @@ Yuremamine possesses an unprecedented skeletal structure among natural products:
   imidazopyridine nitrogen.
 - **Relationship to DMT**: Despite being isolated alongside DMT from the same plant, yuremamine is not a simple
   derivative of DMT. It is biosynthetically distinct and considerably more complex, likely arising from
-  condensation of a tryptamine unit with additional metabolic precursors.
+  condensation of a tryptamine unit with additional [[primary-metabolic-precursors-to-the-shikimate-pathway]].
 - **Stability**: The compound is sensitive to acidic conditions and elevated temperatures, which may explain why
   standard acid-base extraction protocols used to isolate DMT from *M. tenuiflora* destroy or transform yuremamine,
   causing it to go undetected in earlier analyses.
@@ -60,10 +60,10 @@ Pharmacological characterization of yuremamine remains incomplete, and much of w
 structural analysis and ethnographic context:
 
 - **Psychoactive potential**: Given its presence as a major alkaloid in a traditionally psychoactive plant and its
-  structural relationship to tryptamine, yuremamine is strongly suspected to contribute to the visionary effects of
+  [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to tryptamine, yuremamine is strongly suspected to contribute to the visionary effects of
   Vinho de Jurema. Whether it is intrinsically psychoactive or acts as a synergistic potentiator of DMT (similar to
-  β-carboline harmala alkaloids in ayahuasca) has not been definitively established.
-- **Receptor activity**: No published receptor binding data exists as of 2026. The structural novelty of the
+  β-carboline [[turner-harmala-alkaloids-preparation-and-dosage]] in ayahuasca) has not been definitively established.
+- **Receptor activity**: No published [[tihkal-receptor-binding-serotonin]] data exists as of 2026. The structural novelty of the
   imidazopyridine ring system makes prediction difficult; it could potentially interact with 5-HT₂A receptors or
   trace amine-associated receptors (TAARs), but this is speculative.
 - **MAOI activity**: No evidence of monoamine oxidase inhibition, which distinguishes it from the β-carboline
@@ -77,8 +77,8 @@ The identification of yuremamine has profound implications for understanding tra
   of root bark, conditions that would preserve yuremamine. This contrasts with the harsh acid-base extractions used
   in laboratory settings, which destroy the compound.
 - **Synergistic hypothesis**: The co-occurrence of DMT, yuremamine, and trace β-carbolines (harmine, harmaline) in
-  *M. tenuiflora* root bark suggests a multi-compound entourage effect that may potentiate and modulate the
-  psychedelic experience beyond what DMT alone would produce.
+  *M. tenuiflora* root bark suggests a multi-compound [[cannabis-terpene-entourage-effect-profiles]] that may potentiate and modulate the
+  [[leary-psychedelic-experience-bardo-mapping]] beyond what DMT alone would produce.
 - **Methodological lesson**: Yuremamine's discovery highlighted how standard extraction methodologies can fail to
   detect novel, labile compounds, potentially causing researchers to underestimate the pharmacological complexity of
   traditional plant medicines.

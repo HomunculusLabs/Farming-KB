@@ -15,7 +15,7 @@ sources:
   - Martínez, D. et al. (2004). "Genome sequence of the lignocellulose degrading fungus Ceriporiopsis subvermispora." Nature Biotechnology, 22(6), 679-684.
   - Rayner, A.D.M. & Boddy, L. (1988). Fungal Decomposition of Wood. Cambridge University Press.
   - Otjen, L. & Blanchette, R.A. (1986). "A discussion of lignocellulose degradation by Ceriporiopsis subvermispora." Biodeterioration Research, 1, 403-415.
-  - Fernández-Fueyo, E. et al. (2012). "Comparative genomics of Ceriporiopsis subvermispora and Phanerochaete chrysosporium." Applied and Environmental Microbiology, 78(15), 5398-5410.
+  - Fernández-Fueyo, E. et al. (2012). "Comparative genomics of Ceriporiopsis subvermispora and [[staycare-phanerochaete-chrysosporium-in-bioremediation]]." Applied and Environmental Microbiology, 78(15), 5398-5410.
 created: 2026-04-28
 ---
 
@@ -57,7 +57,7 @@ Optimal growth occurs at temperatures of 25–30°C on a range of wood substrate
 
 ## Enzymatic System and Biopulping
 
-*Ceriporiopsis subvermispora* produces a distinctive ligninolytic enzyme system dominated by manganese peroxidase (MnP) and laccase, while notably lacking lignin peroxidase (LiP), which distinguishes it from the model white-rot fungus *Phanerochaete chrysosporium*.
+*Ceriporiopsis subvermispora* produces a distinctive ligninolytic enzyme system dominated by [[fungal-manganese-peroxidase-remediation]] (MnP) and laccase, while notably lacking lignin peroxidase (LiP), which distinguishes it from the model white-rot fungus *Phanerochaete chrysosporium*.
 
 The genome of *C. subvermispora* strain PST-78, sequenced in 2004, revealed a compact repertoire of 11 manganese peroxidase genes and 17 laccase genes, along with genes encoding several dye-decolorizing peroxidases.
 
@@ -77,7 +77,7 @@ Among the dozens of white-rot fungi screened for biopulping suitability, *C. sub
 
 ## Bioremediation Applications
 
-The species has demonstrated significant capacity for the degradation of environmental pollutants, including polycyclic aromatic hydrocarbons (PAHs), polychlorinated biphenyls (PCBs), and various xenobiotic compounds.
+The species has demonstrated significant capacity for the degradation of environmental pollutants, including [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs), polychlorinated biphenyls (PCBs), and various xenobiotic compounds.
 
 Its extracellular lignin-modifying enzymes, particularly MnP and laccase, can oxidize a broad range of recalcitrant aromatic pollutants through nonspecific radical-mediated reactions. Studies have shown effective degradation of anthracene, phenanthrene, and pyrene in contaminated soil systems.
 
@@ -91,15 +91,15 @@ The fungus colonizes wood chip substrates relatively slowly compared to competin
 
 In biopulping trials, inoculation is typically performed using a grain spawn or liquid culture homogenate applied to wood chips at 5–10% w/w moisture content. Pretreatment periods of 2–8 weeks are standard, depending on the target application.
 
-Strain improvement through mutagenesis and genetic engineering has been explored to enhance MnP production and accelerate colonization rates for commercial-scale deployment.
+Strain improvement through mutagenesis and [[fukuoka-textdoc-genetic-engineering-critique-warning]] has been explored to enhance MnP production and accelerate colonization rates for commercial-scale deployment.
 
 ## Related Species
 
 *Ceriporiopsis subvermispora* is most closely compared to other white-rot species within Polyporales:
 
 - **Phanerochaete chrysosporium** — the canonical white-rot model; differs by producing LiP and showing less selective lignin degradation.
-- **Bjerkandera adusta** — a co-occurring white-rot species with a broader enzyme repertoire including versatile peroxidase.
-- **Trametes versicolor** — a common polypore with strong laccase activity; less selective in lignin removal.
+- **Bjerkandera adusta** — a co-occurring white-rot species with a broader enzyme repertoire including [[singh-versatile-peroxidase-vp-multifunctional]].
+- **[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]** — a common polypore with strong laccase activity; less selective in lignin removal.
 - **Irpex lacteus** — a resupinate white-rot fungus with potent MnP activity and bioremediation potential.
 
 ## See Also

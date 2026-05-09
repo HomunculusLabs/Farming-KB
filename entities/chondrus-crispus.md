@@ -45,11 +45,11 @@ Reproduction involves a triphasic life cycle with tetrasporophyte, gametophyte, 
 
 ## Distribution and Habitat
 
-*Chondrus crispus* occurs along the Atlantic coasts of Europe and North America, from Iceland and Norway south to Portugal, and from the Canadian Maritimes to New Jersey.
+*Chondrus crispus* occurs along the Atlantic coasts of Europe and [[psilocybin-north-america-pacific-northwest]], from Iceland and Norway south to Portugal, and from the Canadian Maritimes to New Jersey.
 
 The species inhabits the lower intertidal to shallow subtidal zone (0–20 m depth) on rocky substrates with moderate wave exposure. It prefers firm attachment surfaces including bedrock, boulders, and mussel shells.
 
-Optimal growth occurs at 8–15°C and salinities of 25–35 ppt. It tolerates a wider temperature range than many kelps, persisting through summer temperatures up to 20°C in sheltered locations.
+Optimal growth occurs at 8–15°C and salinities of 25–35 ppt. It tolerates a wider [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] than many kelps, persisting through summer temperatures up to 20°C in sheltered locations.
 
 ## Carrageenan Chemistry
 
@@ -91,7 +91,7 @@ The species itself is sold dried as a whole-food thickener for home cooking, par
 
 *Chondrus crispus* provides substrate and shelter for small invertebrates including amphipods, isopods, and juvenile gastropods. It is an important food source for sea urchins and grazing mollusks.
 
-The species plays a role in nutrient cycling within intertidal communities. Carrageenan exudation releases dissolved organic carbon into surrounding waters, fueling microbial productivity.
+The species plays a role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within intertidal communities. Carrageenan exudation releases [[dighton-fungal-dissolved-organic-carbon-production]] carbon into surrounding waters, fueling microbial productivity.
 
 Wild harvest occurs primarily in Nova Scotia, Prince Edward Island, and Ireland. Hand-raking from small boats is the traditional method, cutting fronds above the holdfast to allow regrowth.
 
@@ -101,11 +101,13 @@ Sustainable management requires rotation of harvest beds with 6–12 month recov
 
 ## See Also
 
+- [[potamogeton-crispus]]
+
 - [[laminaria-digitata]] — brown alga with alginate chemistry parallel to carrageenan
 - [[pleurotus-ostreatus]] — edible fungus for cross-kingdom comparison of structural polysaccharides
-- bioremediation — seaweed cultivation for coastal water nutrient management
-- [[permaculture]] — coastal permaculture systems incorporating Irish moss harvesting
+- bioremediation — seaweed cultivation for coastal water [[green-cannabis-grow-bible-nutrient-management-ppm]]
+- permaculture — coastal permaculture systems incorporating Irish moss harvesting
 - [[glycine-max]] — soybean-derived emulsifiers compared with carrageenan as food stabilizers
 - [[phytoremediation]] — algal nutrient extraction complements terrestrial phytoremediation
-- [[mollison-marine-aquaculture]] — marine aquaculture design from Mollison permaculture manual
-- [[fungal-bioremediation]] — fungal approaches to water quality parallel algal systems
+- mollison-marine-aquaculture — marine aquaculture design from [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] manual
+- fungal-bioremediation — fungal approaches to water quality parallel algal systems

@@ -1,5 +1,5 @@
 ---
-title: McKenna Inquisition Suppression of Plant Knowledge
+title: McKenna mckenna inquisition suppression of plant knowledge of Plant Knowledge
 created: 2026-04-28
 tags: [history, inquisition, witchcraft, ethnobotany, suppression]
 date: 2026-04-25
@@ -32,7 +32,7 @@ sensations of flight, transformation, and contact with supernatural
 beings. Hans Baldung's artistic treatments of witches leave no doubt
 about the terror the medieval mind projected onto the image of
 intoxicated women. The plants involved included thorn apple (Datura),
-deadly nightshade (Atropa belladonna), and monkshood (Aconitum), all
+deadly nightshade ([[belladonna-atropa-belladonna-ethnobotany]]), and monkshood (Aconitum), all
 well-known for their psychoactive properties.
 
 ## The Motive for Suppression
@@ -69,8 +69,8 @@ McKenna frames the Inquisition's suppression of plant knowledge as part
 of a larger pattern of "suppression of the feminine and of knowledge of
 the natural world" that has been "the hallmark of the intervening
 centuries." This pattern extends from the destruction of the Eleusinian
-Mysteries through the witch burnings to the modern War on Drugs. In
-each case, McKenna argues, institutions of dominator culture have
+Mysteries through the witch burnings to the modern [[cervantes-war-on-drugs-statistics]]. In
+each case, McKenna argues, institutions of [[mckenna-dominator-culture-and-suppression-of-ecstasy]] have
 suppressed access to boundary-dissolving experiences mediated by plants
 because such experiences undermine the hierarchical authority structures
 that dominator culture depends upon.
@@ -94,11 +94,11 @@ independent visionary experience possible.
 McKenna draws explicit parallels between the Inquisition's suppression
 of plant knowledge and modern drug prohibition, arguing that both serve
 to maintain institutional control over consciousness. The suppression
-of plant knowledge about [[schultes-ergot-st-anthonys-fire]] represents an
+of plant knowledge about  represents an
 early chapter in what McKenna sees as a continuous campaign by
 dominator culture against the vegetable mind and the Gaian consciousness
 it mediates. Understanding this history is, in his view, essential to
-the Archaic Revival and the recovery of humanity's symbiotic
+the [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]] and the recovery of humanity's symbiotic
 relationship with the plant kingdom.
 
 ## The Physiological Mechanism
@@ -121,7 +121,7 @@ suppressed.
 
 McKenna's analysis highlights the gendered dimension of the suppression.
 The persecution targeted predominantly women, who were the primary
-custodians of herbal knowledge in medieval European society. Midwives,
+custodians of herbal knowledge in [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] society. Midwives,
 healers, and wise women who understood the properties of psychoactive
 plants were systematically eliminated. This destruction of women's
 botanical knowledge served a dual purpose: it removed an alternative

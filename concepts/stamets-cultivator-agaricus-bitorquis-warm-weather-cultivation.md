@@ -1,5 +1,5 @@
 ---
-title: "Agaricus bitorquis (Rodman's Agaricus) Cultivation"
+title: "stamets cultivator agaricus bitorquis warm weather cultivation (Rodman's Agaricus) Cultivation"
 created: 2026-04-28
 tags:
   - mushroom-cultivation
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/the-mushroom-cultivator-stamets.md
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
 
@@ -46,15 +47,15 @@ bitorquis fruits primarily in the spring and to a lesser degree in the fall.
 
 ## Spawn Preparation
 
-Rye grain buffered with calcium carbonate and/or calcium sulfate serves as the
-standard spawn medium. See [[stamets-compost-preparation]].
+[[bigwood-beug-miniculture-rye-grain-flush-variation-method]] buffered with calcium carbonate and/or calcium sulfate serves as the
+standard spawn medium. See stamets-compost-preparation.
 
 ## Pasteurization Method
 
 Pasteurization is achieved through exposure to live steam for 2 hours at
 140 degrees Fahrenheit throughout the substrate. Compost should be filled to a
 depth of 6 to 12 inches. For more on pasteurization vs. sterilization, see
-[[stamets-casing-layer-design]] for casing preparation details.
+stamets-casing-layer-design for casing preparation details.
 
 ## Post-Casing and Pre-Pinning
 
@@ -74,7 +75,7 @@ depth of 6 to 12 inches. For more on pasteurization vs. sterilization, see
 - Fresh Air Exchanges: 2 to 4 per hour
 - Watering: Regular misting (once to twice daily) stimulates primordia
 - See [[stamets-mushroom-disease-pathogens-contaminants]]
-for disease management information.
+for [[plant-disease-management-solomon]] information.
 ## Warm-Weather Cultivation Strategy
 
 Agaricus bitorquis represents an important option for cultivators in warm
@@ -84,5 +85,8 @@ to cultivate during seasons when other Agaricus species would fail. See
 [[stamets-mushroom-genetics-mating-systems-reproduction]].
 ## Related Topics
 
-- [[stamets-casing-layer-design]]
-- [[stamets-cultivator-agaricus-bisporus-commercial-methods]]
+- stamets-casing-layer-design
+- stamets-cultivator-agaricus-bisporus-commercial-methods
+- [[agaricus-bitorquis]]
+- [[agaricus-campestris]]
+- [[spawn-preparation]]

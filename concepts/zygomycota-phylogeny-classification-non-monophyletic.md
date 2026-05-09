@@ -46,7 +46,7 @@ centrioles, known only among chytrids in the fungi.
 
 Several traditional zygomycete lineages are confirmed as
 monophyletic by molecular data:
-- **Entomophthorales**: insect pathogens with distinctive
+- **Entomophthorales**: [[bloomfield-cordyceps-insect-pathogens-behavior]] with distinctive
   forcibly discharged conidia
 - **Trichomycetes (Harpellales)**: gut commensals of
   arthropods, excluding Amoebidiales
@@ -97,7 +97,7 @@ evolutionary relationships.
 
 ## Glomales and Crown Fungi
 
-The Glomales (arbuscular mycorrhizal fungi) has been placed in
+The Glomales ([[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi) has been placed in
 a monophyletic clade basal to the Ascomycota-Basidiomycota clade,
 a placement supported by multiple studies. The Glomales includes
 two major lineages, Glomaceae and Gigasporaceae, and two previously
@@ -116,9 +116,12 @@ As a group, the Zygomycota (excluding Glomales) represent the loss
 of the flagellated stage, possibly from a blastocladialean
 ancestor. This loss of motility was accompanied by the evolution
 of the zygospore as a resistant sexual structure and diverse
-asexual sporulation mechanisms including forcible spore discharge.
+asexual sporulation mechanisms including forcible [[bloomfield-fungal-spore-discharge-and-dispersal]].
 
 The ancestor of the Glomales and the other crown fungi among the
-more basal lineages of Zygomycota and [[fungal-phylogeny-kingdom-classification]]
-- [[glomales-taxonomy-arbuscular-mycorrhizal-genera]]
+more basal lineages of Zygomycota and fungal-phylogeny-kingdom-classification
+- glomales-taxonomy-arbuscular-mycorrhizal-genera
 - [[fungal-evolution]]
+## See Also
+- [[arbuscular-mycorrhizal-fungi]]
+- [[mycorrhizal-fungi]]

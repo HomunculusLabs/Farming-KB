@@ -52,10 +52,10 @@ use and ecological integration.
 | **Water quality feel** | Soft, non-irritating; no chlorine smell or red eyes; water may have slight color or natural particles | Can vary; well-maintained pools are clear but may cause skin/eye irritation, chlorine odor |
 | **Visual aesthetic** | Pond-like, lush, integrates with landscape design; changes seasonally with plant growth | Classic clean blue look; consistent appearance year-round; more standardized design |
 | **Winter care** | Can be allowed to freeze naturally; plants go dormant; minimal winterization | Requires winterization in cold climates (draining, antifreeze, cover); freeze damage risk |
-| **Wildlife habitat** | Yes; supports frogs, dragonflies, beneficial insects, birds; acts as a micro-ecosystem | No; chemicals are toxic to most wildlife; may attract insects but does not support ecology |
-| **Heating options** | Solar heaters, geothermal; black bottom for passive solar gain | Gas heaters, heat pumps, solar covers, electric heaters; wider range of options |
+| **[[hemenway-backyard-wildlife-habitat]]** | Yes; supports frogs, dragonflies, [[beneficial-insects-guide]], birds; acts as a micro-ecosystem | No; chemicals are toxic to most wildlife; may attract insects but does not support ecology |
+| **[[query-what-are-the-best-heating-options-for-an-off-grid-homestead]]** | Solar heaters, geothermal; black bottom for passive solar gain | Gas heaters, heat pumps, solar covers, electric heaters; wider range of options |
 | **Lifespan** | 20–50+ years with proper maintenance; liner may need replacement after 15–20 years | 20–40 years; plaster/liner resurfacing needed every 10–15 years |
-| **Climate suitability** | Best in temperate climates with distinct growing seasons; tropical climates require careful species selection | Works in all climates with appropriate equipment |
+| **Climate suitability** | Best in [[fukuoka-natural-farming-temperate-climates]] with distinct growing seasons; [[fukuoka-natural-farming-tropical-climates]] require careful species selection | Works in all climates with appropriate equipment |
 | **Size flexibility** | Requires a regeneration zone 50–100% the area of the swimming zone, so overall footprint is larger | Can be any size; more flexible for small yards |
 
 ## Water Treatment: How They Work
@@ -114,7 +114,7 @@ Conventional pools maintain water quality through a chemical-mechanical system:
 ## Environmental Impact
 
 - **Chemical pollution**: Conventional pools discharge chlorinated water during
-  backwashing and draining, which can harm aquatic ecosystems. NSPs produce no
+  backwashing and draining, which can harm [[dighton-fungal-biomass-production-aquatic-ecosystems]]. NSPs produce no
   chemical runoff.
 - **Energy use**: NSPs typically use smaller, lower-energy pumps because flow
   rates are lower and the biological system provides most of the filtration.

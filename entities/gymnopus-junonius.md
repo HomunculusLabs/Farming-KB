@@ -40,7 +40,7 @@ Spores are broadly ellipsoid to amygdaliform, measuring 6–8.5 × 3.5–5 µm, 
 
 ## Distribution and Habitat
 
-Gymnopus junonius has a broad distribution across Europe, Asia, and North America, with scattered reports from South America and Australasia. It is particularly common in mixed deciduous and coniferous forests of temperate zones.
+Gymnopus junonius has a broad distribution across Europe, Asia, and [[psilocybin-north-america-pacific-northwest]], with scattered reports from South America and Australasia. It is particularly common in mixed deciduous and coniferous forests of temperate zones.
 
 The species is strongly lignicolous, fruiting almost exclusively on dead or dying hardwood. Preferred hosts include oak (*Quercus* spp.), beech (*Fagus* spp.), and maple (*Acer* spp.). It can also colonize buried roots and may appear terrestrial when the host wood has fully decomposed.
 
@@ -48,7 +48,7 @@ Fruiting occurs from late summer through autumn in temperate regions. Basidiocar
 
 In warmer climates, fruiting may extend into winter months during wet periods. The species is rarely found above 1500 m elevation, favoring lowland and foothill forest types.
 
-Collections from Mediterranean climates show broader phenological ranges, with some populations fruiting nearly year-round following autumn rains. Populations in East Asia tend to fruit slightly earlier in the season compared to European conspecifics.
+Collections from Mediterranean climates show broader phenological ranges, with some populations fruiting nearly year-round following autumn rains. Populations in [[neurotropic-fungi-japan-east-asia-species-cultural-context]] tend to fruit slightly earlier in the season compared to European conspecifics.
 
 ## Toxicity and Chemistry
 
@@ -56,13 +56,13 @@ Gymnopus junonius is generally regarded as inedible due to its tough texture and
 
 The specific toxic compounds responsible have not been definitively identified. Some authors have suggested the presence of gastrointestinal irritants such as sesquiterpenes or unidentified proteinaceous toxins, though analytical confirmation remains limited in the published literature.
 
-Despite its common name suggesting psychoactivity, G. junonius does not contain psilocybin, psilocin, baeocystin, or other classical tryptamine hallucinogens. Analytical studies using HPLC and GC-MS have failed to detect any tryptamine derivatives in confirmed collections.
+Despite its common name suggesting psychoactivity, G. junonius does not contain psilocybin, psilocin, baeocystin, or other classical [[mckenna-tryptamine-hallucinogens-and-consciousness]]. Analytical studies using HPLC and GC-MS have failed to detect any tryptamine derivatives in confirmed collections.
 
 Confusion with genuinely psychoactive Gymnopus species in other regions may account for some of the folklore. Some Asian Gymnopus species reportedly contain gyromitrin-like compounds, though this has not been documented in G. junonius specifically.
 
 Caution is warranted because G. junonius can occur in the same habitat as several toxic species. Most notably, [[omphalotus-olearius]]
 - [[mycena-cyanorrhiza]]
-- [[coprinus-comatus-detailed]]
+- [[coprinus-comatus]]
 - [[psilocybe-genus-diversity-and-taxonomy]]
 - [[laccaria-laccata]]
 - [[boletus-edulis-entity]]
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

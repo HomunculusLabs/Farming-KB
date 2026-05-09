@@ -1,5 +1,5 @@
 ---
-title: Sericulture and the Entanglement of Natural and Scientific Farming
+title: Sericulture and the Entanglement of Natural and fukuoka-illusions-scientific-farming-centrifugal-centripetal-model
 created: 2026-04-28
 tags: [fukuoka, natural-farming, sericulture, silk, silkworm, mulberry, scientific-farming, entanglement, centrifugal-centripetal]
 date: 2026-04-28
@@ -12,7 +12,7 @@ type: concept
 # Sericulture and the Entanglement of Natural and Scientific Farming
 
 Fukuoka used the history of sericulture as a detailed case study of his
-central thesis: natural farming and scientific farming move in opposite
+central thesis: [[comparison-natural-farming-vs-permaculture]] and scientific farming move in opposite
 directions, never crossing. Scientific farming spirals centrifugally away
 from nature, periodically appearing to return but always pushing further
 outward. Sericulture illustrates this pattern with remarkable clarity across
@@ -68,7 +68,7 @@ Once growers learned that such a crude method works for young silkworms as
 well as fully grown larvae, the next thought was to raise them outdoors in a
 small shed, under the eaves, or in a sort of hotbed. On trying this out,
 growers found that silkworms are really quite hardy and never had to be raised
-under constant temperature and humidity conditions. Originally a creature of
+under constant [[greg-green-temperature-and-humidity-control]] conditions. Originally a creature of
 nature, the silkworms thrived outdoors day and night; only people feared the
 evening dew.
 
@@ -104,7 +104,7 @@ from petrochemicals.
 
 Fukuoka depicted the relationship between natural and scientific farming as
 intertwining strands that never actually cross. Narrowly defined natural
-farming, which includes organic farming, proceeds centripetally inward toward
+farming, which includes [[coleman-deep-organic-farming-philosophy]], proceeds centripetally inward toward
 a state of nothingness (Mu) by the elimination of human labor; it compresses
 and freezes time and space.
 
@@ -128,7 +128,7 @@ overall trajectory of scientific intensification. Each spiral outward consumes
 more energy, requires more capital investment, and produces a product that is
 further removed from its natural state.
 
-The same pattern can be observed in rice cultivation, livestock raising, and
+The same pattern can be observed in [[jadam-rice-cultivation-methods]], livestock raising, and
 fruit production. Farmers who believe they are moving toward sustainability
 by adopting reduced-input methods may find themselves on a brief plateau before
 the next wave of technological intensification carries them further from

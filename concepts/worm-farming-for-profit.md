@@ -4,12 +4,13 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, compost, composting, economics, business, cultivation, biology, nutrients]
-sources: []
+sources:
+  sources: []
 ---
 
 # Worm Farming for Profit
 
-Vermicomposting -- raising earthworms to process organic waste into nutrient-rich castings -- can become a profitable homestead business. Worm castings (vermicast) are among the finest organic fertilizers available, and the worms themselves have multiple markets.
+Vermicomposting -- raising earthworms to process organic waste into nutrient-rich castings -- can become a profitable homestead business. Worm castings (vermicast) are among the finest [[hamilton-organic-fertilizers-and-plant-nutrition]] available, and the worms themselves have multiple markets.
 
 ## Getting Started
 
@@ -29,12 +30,12 @@ Begin with 1-2 pounds of worms (roughly 1,000 worms per pound) for a small bin. 
 
 ## Feedstock Management
 
-Worms eat most organic matter but have preferences:
+Worms eat most [[hamilton-composting-and-organic-matter-management]] but have preferences:
 
-- Preferred: fruit and vegetable scraps, coffee grounds, crushed eggshells, aged manure (horse, cow, rabbit -- not fresh)
+- Preferred: fruit and vegetable scraps, [[oyster-mushroom-coffee-grounds-cultivation]], crushed eggshells, aged manure (horse, cow, rabbit -- not fresh)
 - Acceptable: shredded newspaper, cardboard, leaves, garden waste
 - Avoid: meat, dairy, oily foods, citrus (in excess), spicy foods, pet waste (disease risk)
-- Toxic: anything treated with pesticides, herbicides, or chemical fertilizers
+- Toxic: anything treated with pesticides, herbicides, or [[cervantes-chemical-fertilizers-guide]]
 
 Feed in thin layers (1-2 inches) rather than burying deep. Overfeeding causes anaerobic conditions and foul odors. If the bin smells bad, stop feeding until the worms catch up. Maintain a carbon-to-nitrogen ratio of roughly 30:1 using bedding materials.
 
@@ -47,7 +48,7 @@ Feed in thin layers (1-2 inches) rather than burying deep. Overfeeding causes an
 10-20 bins or a small flow-through system. Begin processing waste from local businesses (coffee shops, restaurants, produce stands). Start selling castings at farmers markets and online. Expected revenue: $200-800/month.
 
 ### Phase 3: Commercial Scale (18+ months)
-Dedicated worm facility with flow-through systems or windrows. Process waste on contract for municipalities or composting operations. Wholesale castings to garden centers and nurseries. Expected revenue: $1,000-5,000+/month.
+Dedicated worm facility with flow-through systems or windrows. Process waste on contract for municipalities or composting operations. Wholesale castings to [[solomon-garden-centers-seedling-traps]] and nurseries. Expected revenue: $1,000-5,000+/month.
 
 ## Products and Revenue Streams
 
@@ -57,7 +58,7 @@ The primary product. Retail price: $15-40 per cubic foot bag. Wholesale: $200-60
 Premium markets: organic farmers, cannabis growers, greenhouse operations, high-end garden centers, golf courses, vineyards.
 
 ### Worm Tea (Compost Tea)
-Brew castings in aerated water for 24-48 hours. Sells for $10-20 per gallon as a liquid fertilizer. Requires aeration equipment and proper brewing protocols. Shelf life is short (hours, not days) -- best sold fresh.
+Brew castings in aerated water for 24-48 hours. Sells for $10-20 per gallon as a [[jadam-liquid-fertilizer-nutritional-perspective]]. Requires aeration equipment and proper brewing protocols. Shelf life is short (hours, not days) -- best sold fresh.
 
 ### Live Worms
 - Bait market: $25-40 per pound to fishing supply stores and online

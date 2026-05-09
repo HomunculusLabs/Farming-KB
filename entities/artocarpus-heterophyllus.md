@@ -26,7 +26,7 @@ created: 2026-04-28
 
 Individual fruits can weigh up to 55 kg and reach 90 cm in length, making it a remarkable example of botanical gigantism.
 
-Native to South and Southeast Asia, the species has become naturalized across tropical regions worldwide.
+Native to South and [[psilocybe-southeast-asia-pacific]], the species has become naturalized across tropical regions worldwide.
 
 Every part of the tree has economic value: fruit, seeds, timber, latex, and leaves all serve distinct purposes.
 
@@ -70,7 +70,7 @@ Now widely cultivated throughout tropical Asia, Africa, the Caribbean, and Centr
 
 Optimal growth occurs at elevations below 1000 meters with annual rainfall of 1500-2500 mm.
 
-The tree tolerates a wide range of tropical soils but performs best in deep, well-drained alluvial or loamy soils.
+The tree tolerates a wide range of [[mollison-designers-tropical-soils-and-cation-exchange-management]] but performs best in deep, well-drained alluvial or loamy soils.
 
 It is moderately drought-tolerant once established but is sensitive to waterlogging and frost.
 
@@ -118,7 +118,7 @@ Leaves serve as fodder for cattle and goats during dry seasons when other forage
 
 The sticky latex has traditional applications as a waterproofing agent and adhesive.
 
-Fallen leaves and fruit rinds contribute substantially to mulch and soil organic matter.
+Fallen leaves and fruit rinds contribute substantially to mulch and soil [[hamilton-composting-and-organic-matter-management]].
 
 ## See Also
 

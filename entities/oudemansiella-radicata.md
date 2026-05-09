@@ -75,9 +75,9 @@ The epithet *radicata* refers to the characteristically long rooting stipe.
 
 ## Distribution and Habitat
 
-- **Range:** Widely distributed across Europe, North America, East Asia,
+- **Range:** Widely distributed across Europe, [[psilocybin-north-america-pacific-northwest]], [[neurotropic-fungi-japan-east-asia-species-cultural-context]],
   and parts of Australasia
-- **Habitat:** Decaying hardwood stumps, buried roots, and coarse woody debris
+- **Habitat:** Decaying hardwood stumps, buried roots, and [[fungal-diversity-leaf-litter-coarse-woody-debris]] debris
   in deciduous and mixed forests
 - **Substrate:** Saprotrophic on Quercus, Fagus, Acer, Betula; occasionally conifers
 - **Season:** Summer through autumn (June–November in Northern Hemisphere)
@@ -102,9 +102,9 @@ The epithet *radicata* refers to the characteristically long rooting stipe.
 
 ## Ecological Role
 
-- **Wood decay type:** White rot — degrades both cellulose and lignin via
+- **[[bloomfield-wood-decay-fungi-spalted-timber]] type:** [[comparison-brown-rot-vs-white-rot-bioremediation]] — degrades both cellulose and lignin via
   peroxidase and laccase enzyme systems
-- **Nutrient cycling:** Mobilizes carbon and nitrogen from woody substrates
+- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]:** Mobilizes carbon and nitrogen from woody substrates
 - **Soil interactions:** Deep rooting stipe colonizes buried wood inaccessible
   to surface-decomposing fungi
 

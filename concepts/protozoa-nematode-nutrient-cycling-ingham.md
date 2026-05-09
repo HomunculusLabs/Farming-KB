@@ -1,5 +1,5 @@
 # Protozoa and Nematode [[soil-food-web-nutrient-cycling]]
-that drive nutrient cycling by consuming bacteria and fungi and releasing
+that drive [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by consuming bacteria and fungi and releasing
 plant-available nutrients, primarily ammonium. Without these micro-predators,
 nutrients remain locked in microbial biomass and are unavailable to plants. Dr.
 [[root-exudates]]. Bacterial biomass has a
@@ -51,13 +51,13 @@ Nematodes are classified by their feeding habits into four functional groups:
   an imbalanced soil food web.
 
 When root-feeding nematodes are present, Ingham recommends improving beneficial
-nematode populations, mycorrhizal colonization, and total fungal biomass.
+nematode populations, [[arbuscular-mycorrhizal-colonization-patterns]], and total [[bioremediation-fungal-biomass-biosorbent-material]].
 Growers should note the organism levels that allowed the problem and beware if
 those levels dip to those points again.
 
 ## Assessing Protozoa and Nematode Levels
 
-Soil foodweb analysis through direct microscopic examination is the primary
+Soil foodweb analysis through direct [[fungal-microscopic-examination-mounting-media-techniques]] is the primary
 method for assessing protozoa and nematode populations. SFI (Sustainable
 Studies Institute) uses direct counting to quantify total and active bacteria,
 total and active fungi, protozoa numbers (flagellates, amoebae, ciliates), and
@@ -72,7 +72,7 @@ deficiencies (Steps Nine through Eleven) with specific inoculum recommendations.
 ## How AACT Introduces and Boosts These Populations
 
 AACT is a primary tool for introducing or boosting protozoa and nematode
-populations. Aerobic compost teas contain the protozoa and nematodes which
+populations. [[ingham-anaerobic-vs-aerobic-compost-tea]] teas contain the protozoa and nematodes which
 consume and release nutrients from bacteria and fungi, returning them to
 plant-available forms. Protozoa — particularly flagellates and amoebae — can
 be extracted from good compost into the tea during brewing. Nematodes, being
@@ -98,7 +98,11 @@ describes as nature's slow-release fertilizer system. Unlike synthetic
 fertilizers that release nutrients rapidly and then are gone (or leached, or
 volatilized), the biological nutrient cycling system provides a steady,
 matched supply of nutrients that responds to plant demand. The plant signals
-its needs through root exudates; microbes respond; predators cycle nutrients;
+its needs through [[mycorrhizal-root-exudates-pathogen-interactions]]; microbes respond; predators cycle nutrients;
 the plant absorbs what it needs. This self-regulating loop is the foundation of
 sustainable soil fertility and the primary reason Ingham advocates building the
 full soil food web rather than relying on external nutrient inputs.
+
+## See Also
+
+- [[ingham-protozoa-nutrient-cycling]]

@@ -91,7 +91,7 @@ Sage has an extensive history of medicinal use spanning over 2,000 years, docume
   Clinical trials support memory-enhancing effects, particularly in older adults with mild cognitive impairment.
 - **Menopausal symptoms:** Sage extracts show efficacy in reducing hot flashes and night sweats.
   A meta-analysis confirmed significant reductions in menopausal symptom scores compared to placebo.
-- **Oral health:** Antimicrobial activity against Streptococcus mutans, Candida albicans, and periodontal pathogens.
+- **Oral health:** Antimicrobial activity against Streptococcus mutans, [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]], and periodontal pathogens.
   Sage mouthwashes reduce gingival inflammation and oral bacterial load in clinical settings.
 - **Gastrointestinal:** Antispasmodic and carminative properties. Traditionally used for indigestion, bloating, and appetite stimulation.
 - **Anti-inflammatory:** Topical application for sore throats (as a gargle), minor wounds, and inflammatory skin conditions.
@@ -113,13 +113,13 @@ Sage has an extensive history of medicinal use spanning over 2,000 years, docume
 - **Lifespan:** Plants become woody and less productive after 3–5 years. Replacement through cuttings is recommended.
 
 ## Permaculture and Ecological Functions
-- **Pollinator plant:** Flowers attract bees, butterflies, and beneficial insects. Extended bloom period from late spring to mid-summer.
-- **Companion planting:** Repels cabbage moths, carrot flies, and flea beetles. Good companion for rosemary, cabbage, beans, and carrots.
+- **Pollinator plant:** Flowers attract bees, butterflies, and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. Extended bloom period from late spring to mid-summer.
+- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:** Repels cabbage moths, carrot flies, and flea beetles. Good companion for rosemary, cabbage, beans, and carrots.
 - **Ground cover:** Low, spreading habit provides living mulch in herb spirals and Mediterranean-style plantings.
-- **Erosion control:** Extensive root system stabilizes soil on slopes and banks.
-- **Dynamic accumulator:** Deep roots mine minerals from subsoil, bringing calcium, potassium, and trace minerals to the surface.
+- **[[permplant-willows-salix-erosion-control-fodder]]:** Extensive root system stabilizes soil on slopes and banks.
+- **[[nutrient-dynamic-accumulator-reference]]:** Deep roots mine minerals from subsoil, bringing calcium, potassium, and trace minerals to the surface.
 - **Drought resilience:** Once established, sage requires minimal irrigation, making it highly suitable for xeriscaping.
-- **Wildlife habitat:** Provides shelter for beneficial predatory insects such as ground beetles and predatory mites.
+- **Wildlife habitat:** Provides shelter for beneficial predatory insects such as ground beetles and [[comparison-predatory-mites-vs-ladybugs-biocontrol]].
 
 ## Safety and Contraindications
 - **Thujone content:** Primary safety concern. Thujone is a GABA_A receptor antagonist. Culinary use is safe; therapeutic doses require caution.

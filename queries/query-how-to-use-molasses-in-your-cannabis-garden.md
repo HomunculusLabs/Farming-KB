@@ -5,6 +5,7 @@ tags: [query, cannabis, organic-fertilizer, soil-health, molasses]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: query
 ---
@@ -14,14 +15,14 @@ type: query
 ## Short Answer
 Molasses is a carbohydrate-rich byproduct of sugar refining that feeds 
 beneficial soil
-microbes, improves nutrient availability, and enhances terpene production in 
+microbes, improves [[ph-and-nutrient-availability-garden-soils]], and enhances terpene production in 
 cannabis. Use
-unsulfured blackstrap molasses at one tablespoon per gallon of water as a soil 
+unsulfured [[ingham-blackstrap-molasses-compost-tea-concentration-osmotic-effects]] at one tablespoon per gallon of water as a soil 
 drench every
 two weeks during flowering, or add it to compost tea recipes to supercharge 
 microbial
 activity. The [[cervantes-compost-tea-organic-brewing]] pages
-cover molasses use in compost tea brewing for cannabis cultivation.
+cover molasses use in compost tea brewing for [[query-how-does-no-till-cannabis-cultivation-work]].
 
 ## Detailed Explanation
 
@@ -33,7 +34,7 @@ and potassium, and it serves as an instant food source for the beneficial
 microorganisms
 that drive living soil systems. By feeding the soil food web, molasses 
 indirectly feeds your
-plants through improved nutrient cycling, disease suppression, and enhanced root
+plants through improved nutrient cycling, [[aact-disease-suppression-mechanisms-ingham]], and enhanced root
  zone
 biology that supports vigorous growth throughout the entire life cycle.
 
@@ -54,7 +55,7 @@ that feed a
 narrower range of microorganisms. The [[aact-bacterial-dominant-tea]] and [[teaming-with-microbes-compost-tea-brewing-guide]] and
 [[calcium-magnesium-secondary-nutrients]] page covers the importance of 
 secondary nutrients
-in cannabis nutrition and how organic amendments contribute to overall nutrient 
+in cannabis nutrition and how [[cervantes-organic-amendments-chart]] contribute to overall nutrient 
 balance.
 
 One of the most commonly reported benefits of molasses in cannabis cultivation 
@@ -65,7 +66,7 @@ carbohydrates fed to soil microbes stimulate the plant's metabolic pathways,
 including
 terpene synthesis pathways. Many growers who use molasses during late flowering 
 report more
-aromatic, flavorful buds with richer terpene profiles. While scientific research
+aromatic, flavorful buds with richer [[cannabis-terpene-profiles-sativa]]. While scientific research
 specifically on molasses and cannabis terpenes is limited, the general principle
  that
 well-fed microbial communities support healthier, more biochemically active 
@@ -76,6 +77,9 @@ established in soil microbiology. The [[cervantes-compost-tea-organic-brewing]],
 - Avoid molasses in hydroponic systems; best suited for soil and coco coir grows with active soil biology
 
 ## Related
+
+- [[query-how-do-i-use-cover-crops-in-a-no-till-cannabis-garden]]
+- [[query-how-to-use-rock-dust-in-your-garden]]
 
 - [[query-how-to-make-compost-tea-for-my-plants]]
 - [[query-organic-vs-synthetic-nutrients-cannabis]]

@@ -25,14 +25,14 @@ sources:
 
 # Granddaddy Purple
 
-Granddaddy Purple (GDP) is an iconic indica-dominant cannabis strain bred by
-Ken Estes in the San Francisco Bay Area during the late 1990s to early 2000s.
+Granddaddy Purple (GDP) is an iconic indica-dominant [[blesching-cannabis-strain-selection-receptor-targeting]] bred by
+Ken Estes in the [[shipibo-san-francisco-ceremonial-center-ucayali]] Bay Area during the late 1990s to early 2000s.
 
 A cross between Purple Urkle and Big Bud, GDP became one of the most
 recognizable cannabis strains in the world, synonymous with the "purple
 cannabis" aesthetic and deeply relaxing body effects.
 
-Its fame exploded during California's medical marijuana era, where it became
+Its fame exploded during California's [[cervantes-medical-marijuana-pharmacology]] era, where it became
 a staple dispensary offering and set the template for purple indica strains
 that followed.
 
@@ -92,7 +92,7 @@ full-body relaxation.
 ## Medical Applications
 
 - **Insomnia:** Commonly recommended for sleep; myrcene promotes drowsiness
-- **Pain management:** Chronic pain, muscle spasms, neuropathic discomfort
+- **[[cannabis-pain-management-protocols]]:** [[cannabis-chronic-pain-management]], muscle spasms, neuropathic discomfort
 - **Anxiety and stress:** Linalool and myrcene provide anxiolytic effects
 - **Appetite stimulation:** Strong munchies effect
 
@@ -137,6 +137,8 @@ The strain popularized purple cannabis aesthetics worldwide, spawning
 countless imitators and establishing the "purple strain" market category.
 Its name became synonymous with premium indica cannabis.
 ## See Also
+
+- [[zkittlez]]
 
 - [[purple-urkle]]
 - [[purple-haze-cannabis]]

@@ -1,5 +1,5 @@
 ---
-title: Qualitative Comments Methodology in PiHKAL
+title: Qualitative qualitative comments methodology pihkal in PiHKAL
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -39,7 +39,7 @@ Many compound entries include reports from different individuals at different do
 
 Example from 2C-B: four reports spanning 16 mg to 24 mg show a range from "museum level" visual enhancement to "totally into my body" erotic intensity.
 
-This multi-reporter approach anticipates modern clinical trial methodology, where aggregated subjective reports are used to characterize drug effects across populations. The difference is that PiHKAL's reporters were typically experienced with multiple psychoactive compounds, providing a more nuanced comparative framework than naive subjects could offer.
+This multi-reporter approach anticipates modern [[psilocybin-clinical-trial-landscape-2020-2025]] methodology, where aggregated subjective reports are used to characterize drug effects across populations. The difference is that PiHKAL's reporters were typically experienced with multiple psychoactive compounds, providing a more nuanced comparative framework than naive subjects could offer.
 
 ## The Overdose Reports
 
@@ -55,7 +55,7 @@ The interplay between the scale and the comments creates a two-dimensional descr
 
 ## Ann Shulgin's Contributions
 
-Ann Shulgin made significant contributions to the qualitative comments sections. Her reports are often noted for their emphasis on emotional and relational dimensions of the psychedelic experience, complementing Sasha's more cognitively-oriented descriptions. Her perspective was particularly valuable for characterizing compounds with empathogenic qualities, as documented in discussions of [[shulgin-designer-drugs-analysis]] that Shulgin contributed to the field.
+Ann Shulgin made significant contributions to the qualitative comments sections. Her reports are often noted for their emphasis on emotional and relational dimensions of the [[leary-psychedelic-experience-bardo-mapping]], complementing Sasha's more cognitively-oriented descriptions. Her perspective was particularly valuable for characterizing compounds with empathogenic qualities, as documented in discussions of [[shulgin-designer-drugs-analysis]] that Shulgin contributed to the field.
 
 ## Legacy and Influence
 
@@ -67,7 +67,7 @@ The qualitative comments methodology has influenced several areas of contemporar
 
 ## Dosage as an Independent Variable
 
-A distinctive feature of PiHKAL's methodology is the systematic variation of dosage across reports for the same compound. By presenting multiple reports at ascending doses — for example, 2C-B at 12 mg, 16 mg, 20 mg, and 24 mg — Shulgin created dose-response curves from subjective experience rather than from animal models or receptor binding assays. This approach maps the nonlinear relationship between dose and experiential intensity that characterizes most psychedelics: small dose increases can produce disproportionately large changes in effect at certain thresholds. The [[tihkal-shulgin-rating-scale]]
+A distinctive feature of PiHKAL's methodology is the systematic variation of dosage across reports for the same compound. By presenting multiple reports at ascending doses — for example, 2C-B at 12 mg, 16 mg, 20 mg, and 24 mg — Shulgin created dose-response curves from subjective experience rather than from animal models or [[tihkal-receptor-binding-serotonin]] assays. This approach maps the nonlinear relationship between dose and experiential intensity that characterizes most psychedelics: small dose increases can produce disproportionately large changes in effect at certain thresholds. The [[tihkal-shulgin-rating-scale]]
 - [[shulgin-safety-principles-self-experimentation]]
 - [[psychedelic-dosage-titration-methodology]]
 - [[pihkal-qualitative-effects-themes]]
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

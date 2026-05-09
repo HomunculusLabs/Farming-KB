@@ -22,7 +22,7 @@ sources:
 
 **Morus alba**, commonly known as the **white mulberry**, is a fast-growing deciduous tree in the family Moraceae, native to northern China and widely naturalized across temperate and subtropical regions worldwide.
 It is one of the most ecologically versatile and culturally significant trees in human history, serving as the exclusive food source for the domesticated silkworm (*Bombyx mori*) — the foundation of the global silk industry for over 5,000 years.
-Beyond sericulture, *M. alba* produces edible, sweet fruits; its leaves, bark, and roots have extensive applications in traditional Chinese medicine (TCM); and it has emerged as a valuable multi-functional tree in modern permaculture, agroforestry, and food forest design due to its rapid growth, deep root system, nitrogen contribution, wildlife support, and remarkable ecological resilience.
+Beyond sericulture, *M. alba* produces edible, sweet fruits; its leaves, bark, and roots have extensive applications in traditional Chinese medicine (TCM); and it has emerged as a valuable multi-functional tree in modern [[permaculture]], food forest design t design due to its rapid growth, deep root system, nitrogen contribution, wildlife support, and remarkable ecological resilience.
 
 ## Taxonomy and Classification
 
@@ -41,13 +41,13 @@ Beyond sericulture, *M. alba* produces edible, sweet fruits; its leaves, bark, a
 The genus *Morus* contains approximately 16 species distributed across Asia, Africa, and the Americas.
 *Morus alba* was first formally described by Linnaeus in 1753.
 Several varieties are recognized: var. *alba* (typical white-fruited form), var. *multicaulis* (large-leaved cultivated form selected for sericulture), and var. *tatarica* (Russian mulberry, cold-hardy central Asian form).
-The species readily hybridizes with other *Morus* species, particularly *M. nigra* (black mulberry) and *M. rubra* (red mulberry, native to eastern North America), producing fertile hybrids that complicate taxonomic identification in areas where species overlap.
+The species readily hybridizes with other *Morus* species, particularly *M. nigra* (black mulberry) and *M. rubra* (red mulberry, native to [[polypore-fungi-eastern-north-america]] America), producing fertile hybrids that complicate taxonomic identification in areas where species overlap.
 
 ## Description and Morphology
 
 *Morus alba* is a medium-sized deciduous tree typically reaching 10–20 meters in height, though exceptional specimens can exceed 25 meters.
 The trunk is short, often leaning or multi-stemmed, with grayish-brown, rough, and fissured bark on mature trees.
-The root system is extensive and aggressive, with deep taproots (reportedly reaching 6+ meters in well-drained soils) and widespread lateral roots that contribute to soil stabilization and drought tolerance.
+The root system is extensive and aggressive, with deep taproots (reportedly reaching 6+ meters in well-drained soils) and widespread lateral roots that contribute to soil stabilization and [[dighton-fungal-drought-tolerance-plant-water-relations]].
 The leaves are simple, alternate, 8–20 cm long, broadly ovate to cordate, with serrated margins and a pointed apex.
 Leaf morphology is highly polymorphic — leaves on young shoots and rapidly growing branches may be deeply lobed (3–5 lobes), while mature branches typically bear unlobed or shallowly lobed leaves.
 This variability is exploited in sericulture, where cultivars are selected for large, tender, unlobed leaves preferred by silkworm larvae.
@@ -77,7 +77,7 @@ All parts of *Morus alba* contain bioactive phytochemicals, with the leaves bein
 ### Leaves
 
 - **1-Deoxynojirimycin (DNJ)** (C₆H₁₃NO₄; CAS 19130-96-2) — a potent α-glucosidase inhibitor that slows carbohydrate digestion and absorption, reducing postprandial blood glucose spikes. DNJ is the primary hypoglycemic compound in mulberry leaves, with concentrations of 0.1–1.5% dry weight in cultivated varieties. DNJ is structurally similar to glucose and competitively inhibits intestinal α-glucosidases (sucrase, maltase, isomaltase).
-- **Quercetin** and **kaempferol** — flavonol glycosides with antioxidant, anti-inflammatory, and cardioprotective properties.
+- **[[quercetin]]** an kaempferol erol** — flavonol glycosides with antioxidant, anti-inflammatory, and cardioprotective properties.
 - **Chlorogenic acid** — a hydroxycinnamic acid with documented effects on glucose and lipid metabolism.
 - **GABA** (γ-aminobutyric acid) — present at 100–250 mg/100g dry weight, contributing to antihypertensive effects.
 - **Moracins** (A through N) — benzofuran derivatives with antimicrobial and anti-inflammatory activity.
@@ -106,7 +106,7 @@ All parts of *Morus alba* contain bioactive phytochemicals, with the leaves bein
 
 ### Modern Clinical Evidence
 
-Multiple clinical trials support the antidiabetic efficacy of mulberry leaf preparations:
+Multiple [[mushroom-cancer-clinical-trials-overview]] support the antidiabetic efficacy of mulberry leaf preparations:
 A 2007 meta-analysis of randomized controlled trials (7 studies, n=399) found that mulberry leaf extract significantly reduced fasting blood glucose (−18.7 mg/dL, 95% CI −27.1 to −10.3) and postprandial blood glucose (−30.4 mg/dL) compared to placebo or baseline.
 A 2018 RCT (n=120) comparing mulberry leaf DNJ extract (100 mg DNJ/day) with acarbose (100 mg/day) over 12 weeks found comparable reductions in HbA1c (−0.9% vs −1.0%) with significantly fewer gastrointestinal side effects in the mulberry group.
 A 2020 systematic review confirmed modest but consistent hypolipidemic effects, with reductions in total cholesterol (−8.3 mg/dL) and LDL cholesterol (−7.1 mg/dL).
@@ -115,11 +115,11 @@ A 2020 systematic review confirmed modest but consistent hypolipidemic effects, 
 
 *Morus alba* is increasingly recognized as a multi-functional tree in permaculture and sustainable agriculture systems:
 
-- **Rapid biomass production**: Exceptionally fast growth (2–4 meters/year under favorable conditions), making it an excellent coppice and pollard species for fodder, mulch, and biomass production.
+- **Rapid [[dighton-fungal-biomass-production-aquatic-ecosystems]]**: Exceptionally fast growth (2–4 meters/year under favorable conditions), making it an excellent coppice and pollard species for fodder, mulch, and biomass production.
 - **Animal fodder**: Mulberry leaves are a high-quality fodder for livestock, with crude protein content of 15–28% (comparable to alfalfa). Widely used in silvopastoral systems in tropical and subtropical regions, with demonstrated improvements in dairy cattle and goat productivity.
-- **Soil improvement**: Deep taproots break compacted subsoil layers and bring up nutrients from deep soil horizons. Leaf litter decomposes rapidly, contributing organic matter to surface soils.
+- **Soil improvement**: Deep taproots break compacted subsoil layers and bring up nutrients from deep soil horizons. Leaf litter decomposes rapidly, contributing [[hamilton-composting-and-organic-matter-management]] to surface soils.
 - **Wildlife support**: Fruit is highly attractive to birds, which serve as seed dispersal agents. Foliage provides browse for deer and other wildlife. The tree supports a diverse insect community including silkworms.
-- **Erosion control**: Extensive root systems stabilize slopes, stream banks, and degraded lands.
+- **[[permplant-willows-salix-erosion-control-fodder]]**: Extensive root systems stabilize slopes, stream banks, and degraded lands.
 - **Food forest integration**: Functions as a canopy or mid-canopy tree in food forest designs, providing fruit, fodder, and mulch while supporting understory growth through dappled shade.
 - **Drought resilience**: Once established, white mulberry is remarkably drought-tolerant, making it suitable for dryland agroforestry and climate-adapted landscapes.
 

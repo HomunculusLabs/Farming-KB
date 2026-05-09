@@ -16,7 +16,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
 
 OHN is composed of five traditional medicinal herbs, each selected for specific plant-beneficial properties:
 
-1. **Garlic** (*Allium sativum*): Antimicrobial, antifungal, insect-repellent. Contains allicin and other sulfur compounds that provide natural pest and disease protection. Acts as a "heat" element in traditional Asian medicine, stimulating circulation and metabolic activity.
+1. **Garlic** (*Allium sativum*): Antimicrobial, antifungal, insect-repellent. Contains allicin and other sulfur compounds that provide natural pest and disease protection. Acts as a "heat" element in traditional Asian medicine, stimulating circulation and [[arbuscule-isolation-metabolic-activity-assays]].
 
 2. **Ginger** (*Zingiber officinale*): Warming, stimulates growth, enhances nutrient uptake. Contains gingerols and shogaols that promote enzymatic activity and improve plant vigor. Helps plants recover from stress and damage.
 
@@ -55,10 +55,10 @@ Some KNF practitioners also add **Asian plum extract** (*maesil*) or **honey** t
 OHN works through multiple complementary mechanisms:
 
 - **Direct antimicrobial activity**: Allicin from garlic, cinnamaldehyde from cinnamon, and glycyrrhizin from licorice directly inhibit bacteria, fungi, and some viruses on plant surfaces
-- **Induced systemic resistance (ISR)**: The complex mixture of bioactive compounds stimulates the plant's innate immune system, activating defense pathways (including the jasmonic acid and salicylic acid signaling cascades)
+- **[[endophytic-mycorrhizal-induced-systemic-resistance]] resistance (ISR)**: The complex mixture of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] stimulates the plant's innate immune system, activating defense pathways (including the jasmonic acid and salicylic acid signaling cascades)
 - **Reproductive stimulation**: Cinnamon and angelica promote flowering, fruit set, and seed development through phytohormone-like activity
 - **Stress tolerance**: Ginger and licorice enhance plant resilience to environmental stresses including drought, temperature extremes, and nutrient deficiency
-- **Pest deterrence**: Volatile compounds from garlic and cinnamon repel insect pests through olfactory masking and direct irritant effects
+- **Pest deterrence**: [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] from garlic and cinnamon repel insect pests through olfactory masking and direct irritant effects
 - **Nutrient enhancement**: The fermentation process produces organic acids, amino acids, and vitamins that supplement plant nutrition
 
 ## Application
@@ -80,9 +80,9 @@ OHN is typically applied in the late afternoon to maximize absorption and minimi
 
 In the KNF input system, OHN complements the other core preparations:
 
-- **FPJ** (Fermented Plant Juice) provides growth hormones and amino acids for vegetative growth — OHN is applied later, during reproductive stages
+- **FPJ** ([[bionutrients-lab-fermented-plant-juice-fpj]]) provides growth hormones and amino acids for vegetative growth — OHN is applied later, during reproductive stages
 - **LABS** (Lactic Acid Bacteria Serum) provides microbial inoculation and pathogen suppression — OHN provides chemical/immune-based protection
-- **IMO** (Indigenous Microorganisms) builds soil biology — OHN provides above-ground plant protection
+- **IMO** ([[beneficial-indigenous-microorganisms-bim]]) builds soil biology — OHN provides above-ground plant protection
 - **WCA** (Water-Soluble Calcium) provides calcium for cell wall strength — OHN provides immune stimulation
 
 The KNF principle of "feed the plant what it needs when it needs it" means that OHN is not applied continuously but rather at specific developmental stages and stress events.

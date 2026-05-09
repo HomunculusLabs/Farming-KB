@@ -1,21 +1,21 @@
 ---
-title: Fukuoka's Visit to Africa — Greening the Desert
+title: Fukuoka's fukuoka-visit-to-africa-detailed — Greening the Desert
 created: 2026-04-24
 updated: 2026-04-25
 type: concept
 tags: [africa, somalia, desert, revegetation, farming, fukuoka, refugees]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
+  sources: []
 ---
 # Fukuoka's Visit to Africa — Greening the Desert
 
-In [[natural-farming-fukuoka]] devotes an entire chapter, "Forty Days in Africa," to his 1985 trip to Somalia, where he attempted to introduce natural farming methods to African refugees and explore the potential for desert revegetation. This represents the most dramatic application of his [[fukuoka-road-seed-ball-experiments]], clay is the essential binding ingredient for seed balls. The presence of clay meant that his technique could be applied directly. "If there is clay, then there is hope," he declared.
+In  devotes an entire chapter, "[[fukuoka-forty-days-africa]] in Africa," to his 1985 trip to Somalia, where he attempted to introduce [[comparison-natural-farming-vs-permaculture]] methods to African refugees and explore the potential for [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]]. This represents the most dramatic application of his [[fukuoka-road-seed-ball-experiments]], clay is the essential binding ingredient for [[comparison-seed-balls-vs-direct-seeding]]. The presence of clay meant that his technique could be applied directly. "If there is clay, then there is hope," he declared.
 
 ## Political Obstacles from the Somali Government
 
 Fukuoka's efforts were repeatedly hampered by the Somali government. Donations of seeds and his aim of "peasant self-sufficiency through natural farming" went counter to national policy, which encouraged "the production of cash crops on large plantations." In the eyes of the government, his proposals amounted to rebellion. He received threats: "If the secret police find that you've taken even one photo, you won't be allowed to return to Japan."
 
-Visa delays were lengthy. Even within the country, he discovered that "without the cooperation of the government, one can do nothing." His ultimate desire was to test scattering drought-hardy clover seeds over arid lands by airplane, but "this was not understood in Somalia." The country lacked even a postal system, having developed a system of writing only about twelve years prior, making communications virtually impossible.
+Visa delays were lengthy. Even within the country, he discovered that "without the cooperation of the government, one can do nothing." His ultimate desire was to test scattering drought-hardy clover seeds over [[mollison-arid-lands-aquatic-species]] by airplane, but "this was not understood in Somalia." The country lacked even a postal system, having developed a system of writing only about twelve years prior, making communications virtually impossible.
 
 ## The UN Garden Project
 
@@ -35,7 +35,9 @@ He also cited agricultural modernization: "Native farms have been replaced with 
 
 Fukuoka outlined his strategy for Somalia: scatter drought-hardy vegetable seeds over arid lands by airplane, and within three years establish basic vegetation cover. He argued that "revegetating the desert is totally out of the question unless one sows seed simultaneously over the entire desert by airplane. Also, desertification is proceeding at such a pace that any other approach is too little too late." This vision — fantastic as it seemed — gained concrete support from a French U.N. official and the promise of airplane access from American supporters.
 
-## Related Concepts
+## Related
+
+- [[fukuoka-visit-to-africa-detailed]] Concepts
 ## Practical Applications
 
 Fukuoka's Visit to Africa — Greening the Desert has a range of practical applications that make it relevant to
@@ -113,4 +115,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -18,7 +18,7 @@ The specific epithet inebrians means "intoxicating" in Latin, directly referenci
 
 ## Traditional Preparation and Use
 
-The leaves of Lagochilus inebrians are gathered in October and prepared through a specific process. They are toasted, sometimes mixed with stems, fruits, and flowers of the plant. Drying and storage increase their aromatic fragrance, suggesting that some form of fermentation or aging process may enhance the psychoactive properties.
+The leaves of Lagochilus inebrians are gathered in October and prepared through a specific process. They are toasted, sometimes mixed with stems, fruits, and flowers of the plant. [[psilocybin-mushroom-drying-and-storage-methods]] increase their aromatic fragrance, suggesting that some form of fermentation or aging process may enhance the psychoactive properties.
 
 Honey and sugar are often added to the preparation to reduce the intense bitterness of the leaves. This sweetening process may serve both to make the preparation more palatable and to standardize the dosage, as the sweetened preparation would be consumed in a more predictable manner than the raw bitter leaves.
 
@@ -64,7 +64,7 @@ The plant remains relatively understudied by Western standards, partly due to th
 
 [[sinicuichi-heimia-salicifolia-auditory-hallucinogen]] — a Mexican plant with auditory effects.
 
-[[syrian-rue-peganum-harmala-ethnobotany]] — Syrian rue and its traditional uses.
+[[syrian-rue-peganum-harmala-ethnobotany]] — [[golden-guide-syrian-rue-and-maoi-plants]] and its traditional uses.
 
 [[turner-harmala-alkaloids-preparation-and-dosage]]
 - [[cultural-evolution-and-psychoactive-substances]]
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

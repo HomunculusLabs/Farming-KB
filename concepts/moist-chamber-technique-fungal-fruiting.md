@@ -1,5 +1,5 @@
 ---
-title: Moist Chamber Technique — Inducing Fungal Fruiting
+title: Moist moist chamber technique fungal fruiting — Inducing brassinosteroid-fungal-fruiting-body-morphology
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -71,7 +71,7 @@ The moist chamber technique is one of the most versatile and widely used methods
 ### Perithecia and Stromata Maturation
 - Wrap in moistened paper toweling
 - Place in heavy glass bowls
-- Line with moistened Perlite or wood chips for increased humidity
+- Line with moistened Perlite or [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]] for increased humidity
 - Closed plastic bags also effective
 
 ### Spore Prints
@@ -103,8 +103,10 @@ A succession of fungi appears over time. The chamber should be examined frequent
 
 ## See Also
 
-- [[fungal-culture-media-formulas-applications]]
+- [[myxomycete-sampling-collection-moist-chamber-culturing]]
+
+- fungal-culture-media-formulas-applications
 - [[coprophilous-fungi-ecology-diversity]]
 - [[water-activity-osmophilic-fungal-media-preparation]]
-- [[coprophilous-fungi-ecology-succession]]
+- coprophilous-fungi-ecology-succession
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

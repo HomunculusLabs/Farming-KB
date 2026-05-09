@@ -1,15 +1,14 @@
 ---
-title: Mushroom Cultivation History -- Early Methods (Palmer, 1894)
+title: accessible-mushroom-cultivation-for-disabilities History -- Early Methods (Palmer, 1894)
 created: 2026-04-26
 sources: About Mushrooms - Julius Auboineau Palmer (1894)
 author: Julius Auboineau Palmer
 year: 1894
-tags: [[mycology, mushroom-cultivation, agricultural-history, spawn, horticulture]
+tags: [mycology, mushroom-cultivation, agricultural-history, spawn, horticulture]
 related: [palmer-edible-mushrooms-north-america, palmer-mushroom-folklore-cultural-significance]
 type: concept
 updated: 2026-04-26
 ---
-
 # [[mushroom-cultivation-methods]]. His observations are particularly valuable because he combined theoretical knowledge from European sources with his own extensive practical experiments.
 
 ## The Unique Cultivability of the Common Mushroom
@@ -59,6 +58,7 @@ Palmer witnessed spawn during earth-moving work opposite the Brunswick Hotel in 
 
 - [[palmer-mushroom-folklore-cultural-significance]] -- How folklore affected cultivation beliefs
 - [[history-of-mushroom-cultivation]]
+
 ## Practical Considerations
 
 Successful implementation of Mushroom Cultivation History -- Early Methods (Palmer, 1894) requires attention to
@@ -78,3 +78,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[mushroom-cultivation-basics-spawn-biology-palmer]]

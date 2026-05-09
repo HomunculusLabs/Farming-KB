@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo IM, Sharnoff SD, Sharnoff S. (2001). "Lichens of North America." Yale University Press.
+  - Brodo IM, Sharnoff SD, Sharnoff S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - James PW, White FJ, Coppins BJ. (2006). "Nephroma" in Purvis OW, Coppins BJ, Hawksworth DL, et al. (eds.), "The Lichen Flora of Great Britain and Ireland." Natural History Museum, London.
   - Goward T, McCune B, Meidinger D. (1994). "The Lichens of British Columbia." British Columbia Ministry of Forests, Special Report Series 8.
   - White FJ, James PW. (1988). "Studies on the genus Nephroma. I. The European and North American species." The Lichenologist 20(2): 131–181.
@@ -39,7 +39,7 @@ The lower surface between the veins is pale tan to cream-colored with a sparse t
 
 Apothecia are produced on the lower surface, which is unusual among foliose lichens. They are reddish-brown, 2–5 mm in diameter, and borne on short stalks arising from the vein margins.
 
-The photobiont is the cyanobacterium *Nostoc*, housed in a distinct layer within the upper medulla. This cyanobacterial partnership enables atmospheric nitrogen fixation.
+The photobiont is the cyanobacterium *Nostoc*, housed in a distinct layer within the upper medulla. This cyanobacterial partnership enables atmospheric [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
 
 Vegetative reproduction occurs through thallus fragmentation, as soredia and isidia are absent in *N. expansum*. This limits its dispersal ability compared to sorediate lichens.
 
@@ -61,9 +61,9 @@ Elevation ranges from near sea level to approximately 1,500 meters. It is most c
 
 The species is slow-growing, with annual radial growth rates estimated at 1–3 mm per year. This slow growth makes it sensitive to disturbance and limits its ability to recolonize logged or fragmented habitats.
 
-The thallus provides microhabitat for diverse invertebrate communities, including mites, springtails, and nematodes. These organisms contribute to decomposition and nutrient cycling on the forest floor.
+The thallus provides microhabitat for diverse invertebrate communities, including mites, springtails, and nematodes. These organisms contribute to decomposition and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] on the forest floor.
 
-*N. expansum* is moderately sensitive to air pollution, particularly sulfur dioxide and nitrogen deposition. Populations have declined in parts of Europe where atmospheric quality has deteriorated.
+*N. expansum* is moderately sensitive to air pollution, particularly sulfur dioxide and [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]. Populations have declined in parts of Europe where atmospheric quality has deteriorated.
 
 The production of apothecia on the lower surface is thought to protect spores from desiccation and UV radiation. This reproductive strategy may be an adaptation to the humid, shaded habitats the species prefers.
 
@@ -71,11 +71,11 @@ The production of apothecia on the lower surface is thought to protect spores fr
 
 *Nephroma expansum* has a documented history of use in traditional medicine across several cultures. In Nordic folk medicine, it was used as a treatment for kidney ailments, likely influenced by the kidney-like shape of the thallus.
 
-The Sámi people of northern Scandinavia reportedly used *Nephroma* species in wound healing. The lichen was applied as a poultice to cuts and skin infections, leveraging its antimicrobial properties.
+The Sámi people of northern Scandinavia reportedly used *Nephroma* species in wound healing. The lichen was applied as a poultice to cuts and skin infections, leveraging its [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
 
 In traditional Chinese medicine, related *Nephroma* species have been used to treat coughs, fever, and inflammation. Preparations typically involve boiling the dried lichen to extract water-soluble polysaccharides.
 
-Modern chemical studies have identified several bioactive compounds in *Nephroma* species, including nephroarctin and various phenolic acids. These compounds show moderate antimicrobial and antioxidant activity in laboratory assays.
+Modern chemical studies have identified several [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] in *Nephroma* species, including nephroarctin and various phenolic acids. These compounds show moderate antimicrobial and antioxidant activity in laboratory assays.
 
 ## Chemistry and Secondary Metabolites
 

@@ -1,5 +1,5 @@
 ---
-title: KNF Poultry Feed Preparation
+title: KNF knf poultry feed preparation Preparation
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # KNF Poultry Feed Preparation
 
-Korean Natural Farming (KNF) emphasizes the use of homemade chicken feed as a cornerstone of its poultry management system.
+Korean [[comparison-natural-farming-vs-permaculture]] (KNF) emphasizes the use of homemade chicken feed as a cornerstone of its poultry management system.
 
 Developed by [[knf-poultry-natural-farming]].
 
@@ -37,7 +37,7 @@ One of the key insights of KNF poultry feeding is that any material except miner
 
 This opens up a wide range of locally available, low-cost feed options.
 
-Fresh green grass is an excellent feed source and makes up approximately one-third of the total feed for adult chickens.
+Fresh [[knf-green-grass-liquid-fertilizer]] is an excellent feed source and makes up approximately one-third of the total feed for adult chickens.
 
 Green grass provides essential vitamins, minerals, and roughage that commercial feeds cannot replicate.
 
@@ -48,9 +48,9 @@ Along with soil rich in [[fermented-plant-extract-fpe]] and [[knf-lactic-acid-ba
 
 - [[knf-preparations]] — overview of all KNF input preparations
 
-- [[fermented-plant-extract-fpe]] — fermented plant extract for plant and animal use
+- [[fermented-plant-extract-fpe]] — [[comparison-compost-tea-guide-vs-fermented-plant-extract-fpe]] for plant and animal use
 
-- [[fermented-mixed-compost-fmc]] — fermented mixed compost production
+- [[fermented-mixed-compost-fmc]] — [[cho-fermented-mixed-compost-methods]] compost production
 ## Practical Considerations
 
 When working with KNF Poultry Feed Preparation, several practical factors should be
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

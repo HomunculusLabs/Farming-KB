@@ -13,7 +13,7 @@ type: concept
 
 The study of fungi has attracted a remarkable cast of characters — from
 gentleman naturalists and eccentric collectors to revolutionary biochemists
-and ecological pioneers. The history of mycology reflects the broader
+and ecological pioneers. The [[bloomfield-history-of-mycology-pioneers]] reflects the broader
 story of how science itself evolved, from amateur observation to molecular
 genetics.
 
@@ -35,7 +35,7 @@ first comprehensive classification system for mushrooms. His three-volume
 that dominated mycology for over a century. Fries described thousands of
 species based on macroscopic characteristics — cap shape, gill attachment,
 spore color, and stem features — many of which remain valid today. His
-system was so influential that mushroom identification guides still carry
+system was so influential that [[psilocybin-mushroom-identification-guide]] guides still carry
 "Friesian" terminology.
 
 ## Anton de Bary (1831-1888)
@@ -52,7 +52,7 @@ devastating potato blight (*Phytophthora infestans*).
 
 Before she wrote the Peter Rabbit stories, Beatrix Potter was a serious
 mycologist. She produced hundreds of detailed watercolor paintings of
-mushrooms and made important observations about fungal spore germination
+mushrooms and made important observations about fungal [[growing-gourmet-spore-germination-strain-isolation]]
 and hybridization. Her theory that lichens were symbiotic associations
 anticipated de Bary's conclusions. Frustratingly, the male-dominated
 scientific establishment of Victorian England repeatedly rejected her
@@ -75,14 +75,14 @@ Though best known for discovering transposable elements ("jumping genes")
 in maize, McClintock's work intersected with mycology through her studies
 of fungal genetics in *Neurospora crassa*. This red bread mold became a
 model organism for genetic research, and McClintock's cytogenetic techniques
-laid groundwork for understanding fungal reproduction. She received the
+laid groundwork for understanding [[bloomfield-fungal-reproduction-and-chemical-communication]]. She received the
 1983 Nobel Prize in Physiology or Medicine.
 
 ## Paul Stamets (b. 1955)
 
 A contemporary American mycologist and entrepreneur who has done more than
 anyone to bring mycology to public attention. Stamets's books, including
-*Mycelium Running* and *Growing Gourmet and Medicinal Mushrooms*, have
+*[[woodlovers-mycelium-running-pathway-technique]]* and *Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]*, have
 inspired a new generation of citizen scientists. He has pioneered research
 into medicinal mushrooms (particularly for immune support and antiviral
 properties), [[mycelium]] as a sustainable material. His TED talk "6 Ways

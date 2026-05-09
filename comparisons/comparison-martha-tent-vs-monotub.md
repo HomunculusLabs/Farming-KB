@@ -13,7 +13,7 @@ type: comparison
 ## Overview
 Martha tents and monotubs are the two most popular fruiting setups for home mushroom
 cultivators, occupying different positions on the spectrum from simplicity to capacity. A
-monotub is a single modified plastic bin that serves as both colonization vessel and fruiting
+monotub is a single modified [[passive-humidity-fruiting-chamber-stackable-plastic-bin-design]] that serves as both colonization vessel and fruiting
 chamber, offering maximum simplicity and self-containment. A Martha tent is a freestanding
 greenhouse enclosure equipped with environmental controls, offering larger capacity and more
 uniform conditions for multiple fruiting blocks. The choice depends on scale goals, species,
@@ -23,7 +23,7 @@ budget, and cultivation experience.
 [[monotub-cultivation]]
 A monotub is a single plastic storage bin (50-110 quart) modified with two sizes of holes: 2-inch
 holes near the bottom stuffed loosely with polyfill for fresh air exchange, and 1-inch holes
-near the top stuffed tightly for humidity balance. Grain spawn is mixed with a bulk substrate
+near the top stuffed tightly for humidity balance. Grain spawn is mixed with a [[gottlieb-psilocybin-cultivation-bulk-substrate-preparation]]
 (typically coconut coir, vermiculite, and gypsum — "CVG") at a 1:2 to 1:3 ratio, colonized in
 the sealed tub for 7-14 days, then the polyfill holes are opened for fruiting. Typical yields
 are 4-10 ounces dry over 2-3 flushes, all from a single self-contained unit costing $20-30 in
@@ -37,7 +37,7 @@ daily maintenance (optional misting and fanning), are highly scalable (run as ma
 space allows), and produce impressive yields from a low-cost, low-effort setup. The
 self-contained design also means one contaminated tub is unlikely to spread problems to others.
 
-The primary limitation is species specificity: monotubs work well for Psilocybe cubensis and
+The primary limitation is species specificity: monotubs work well for [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] and
 similar coprophilous species but are not well-suited to species requiring precise environmental
 triggers (shiitake cold shock, oyster high FAE). Side pinning — mushrooms forming on the
 substrate edges rather than the top surface — can reduce yields if surface conditions are
@@ -61,7 +61,7 @@ and results depend heavily on the quality and cleanliness of the initial spawn.
 
 ## When to Choose a Martha Tent
 Martha tents are the right choice for cultivators working with multiple fruiting blocks or trays,
-especially supplemented sawdust blocks for gourmet species (oysters, lion's mane, shiitake).
+especially [[oyster-mushroom-supplemented-sawdust-blocks]] blocks for gourmet species (oysters, lion's mane, shiitake).
 They suit growers who need to manage multiple species with different environmental requirements,
 who want more precise control over humidity and fresh air exchange, and who have outgrown the
 capacity of individual monotubs. Martha tents also serve well as a transition between basic
@@ -78,7 +78,7 @@ Martha tent provides the consistency needed to evaluate results reliably across 
 
 ## When to Choose a Monotub
 Monotubs are ideal for beginners due to their simplicity, low cost, and forgiving nature. They
-are the standard choice for Psilocybe cubensis cultivation, where the CVG substrate and
+are the standard choice for Psilocybe [[psilocybe-cubensis-cultivation-miniculture]], where the CVG substrate and
 self-contained design provide reliable results with minimal equipment. Monotubs suit cultivators
 who value low maintenance, who want to avoid the complexity of environmental control systems,
 and who are scaling gradually (adding one tub at a time). They are also the best choice for
@@ -91,12 +91,13 @@ fruiting, combining the contamination resistance of monotub colonization with th
 environmental control of the tent. This is particularly effective for species that benefit from
 higher humidity or more precise fresh air exchange than polyfill can provide. Monotubs can also
 be placed on the shelves of a Martha tent alongside loose substrate blocks, mixing both
-cultivation methods within a single controlled environment. Some growers use Martha tents for
+[[synthetic-log-cultivation-methods-guide]] within a single controlled environment. Some growers use Martha tents for
 gourmet species and monotubs simultaneously for actives, dedicating each system to its best-suited
 use.
 
 ## See Also
 
-- [[fruiting-chamber-design]]
+- fruiting-chamber-design
 - [[monotub-cultivation]]
 - [[martha-tent-mushroom-growing]]
+- [[comparison-monotub-vs-martha-tent]]

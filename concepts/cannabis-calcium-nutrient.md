@@ -24,7 +24,7 @@ Toxic levels of calcium exacerbate deficiencies of cannabis-potassium|potassium,
 
 - Wilting foliage
 - Exacerbated deficiencies of potassium, magnesium, manganese, and iron
-- If excessive soluble calcium is applied early in life, it can stunt growth
+- If excessive [[cho-water-soluble-calcium-and-potassium]] is applied early in life, it can stunt growth
 - In hydroponics, excess calcium precipitates with [[cannabis-magnesium-nutrient]]
 - [[cannabis-boron-nutrient]]
 - [[cannabis-nutrient-toxicity]]
@@ -106,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

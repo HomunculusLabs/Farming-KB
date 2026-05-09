@@ -1,5 +1,5 @@
 ---
-title: "Elephant Culling and Wildlife Population Policy"
+title: "savory elephant culling and wildlife population policy and Wildlife Population Policy"
 created: 2026-04-28
 tags: [holistic-management, elephant-culling, wildlife-population,
       national-parks, overbrowsing, predator-prey, brittle-environments]
@@ -79,7 +79,7 @@ subordinated to ecological health?
 
 ## Lessons for Game Ranching
 
-The game ranching and wildlife conversion concept -- substituting
+The [[savory-game-ranching-and-wildlife-conversion]] wildlife conversion concept -- substituting
 game for livestock -- was one of Savory's early ideas. However, game
 without natural predators does not behave naturally and can be as
 damaging as domestic stock. Game ranching must account for the time
@@ -92,10 +92,10 @@ The elephant culling story illustrates a universal principle:
 addressing symptoms (too many animals) while ignoring causes (loss of
 predator-induced movement) leads to policies that fail even with
 massive effort over decades. The same pattern appears in
-[[savory-overgrazing-vs-overrest]], where partial rest combined with
+[[savory-overgrazing-vs-overrest]], where [[savory-partial-rest-and-algal-crusts]] combined with
 overgrazing creates the very conditions that justify destocking in
 the minds of conventional managers, yet destocking worsens the
-underlying problem by further reducing animal impact.
+underlying problem by further reducing [[savory-animal-impact-and-herd-effect]].
 
 ## Implications for Wildlife-Livestock Integration
 

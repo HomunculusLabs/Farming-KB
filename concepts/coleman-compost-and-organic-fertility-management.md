@@ -1,5 +1,5 @@
 ---
-title: Compost and Organic Fertility Management
+title: Compost and coleman compost and organic fertility management Management
 created: 2026-04-28
 tags:
   - soil-fertility
@@ -20,7 +20,7 @@ Eliot Coleman considers compost the single most important input for
 maintaining soil fertility on a small organic farm. His approach blends
 traditional practices inherited from the Parisian maraichers with modern
 understanding of soil biology and mineral nutrition. The result is what he
-calls "deeper organic farming," where every possible factor affecting crop
+calls "deeper [[coleman-deep-organic-farming-philosophy]]," where every possible factor affecting crop
 quality is optimized.
 
 ## Compost Production
@@ -37,13 +37,13 @@ ahead. The end result is a thoroughly decomposed, crumbly product.
 Historical precedent supports this approach. The nineteenth-century Parisian
 market gardeners maintained legendary soil fertility using composted horse
 manure, delivered to the beds in willow baskets along lightweight rail
-tracks. Coleman notes that composted horse manure (without wood shavings,
+tracks. Coleman notes that composted [[falconer-horse-manure-varieties]] (without wood shavings,
 which he considers detrimental in vegetable soils) was a key ingredient in
 their success.
 
 ## The Four-Season Compost Supply
 
-One of the practical challenges of winter harvesting is maintaining access
+One of the practical challenges of [[coleman-winter-harvesting-techniques]] is maintaining access
 to compost during frozen months. Coleman solves this by erecting a
 temporary plastic-covered A-frame structure over one of the compost
 windrows each fall. The frame is built from leftover greenhouse pipe (or
@@ -80,12 +80,12 @@ constant production of varying crops. The steps are: clearing away the old
 crop, aerating the soil with a [[coleman-small-farm-equipment-and-tools]], and applying a layer of
 compost. Compost applications are made as a surface topdressing that gets
 turned into the soil at the end of each crop cycle. This approach keeps
-organic matter concentrated at the surface where it benefits soil
+[[hamilton-composting-and-organic-matter-management]] concentrated at the surface where it benefits soil
 structure and biological activity most.
 
 For the [[coleman-deep-organic-history-and-philosophy]] Concepts
 
-- [[coleman-cover-crop-rotation-and-soil-health]] — green manures and
+- [[coleman-cover-crop-rotation-and-soil-health]] — [[jeavons-green-manures-cover-crops]] and
   rotation as complementary fertility builders
 - [[coleman-bed-preparation-and-minimal-tillage]] — tools and methods for
   incorporating fertility amendments

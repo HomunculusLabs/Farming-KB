@@ -1,5 +1,5 @@
 ---
-title: "Case Study: Energy-Efficient Organic Sea of Green"
+title: "Case Study: Energy-Efficient Organic comparison-sea-of-green-vs-screen-of-green"
 created: 2026-04-28
 tags:
   - cannabis-cultivation
@@ -10,7 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "/Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 type: concept
 ---
 
@@ -56,10 +56,10 @@ dramatically increase yield per watt and per square meter.
 
 Nigel and Terry converted a farm shed storage area into a grow room.
 They built two benches (16'6" x 4' each), lined walls with white
-laminated wood paneling, and used 100 five-liter plastic pots with
+laminated wood paneling, and used 100 five-liter [[query-fabric-pots-vs-plastic-pots-vs-air-pots-for-cannabis]] with
 premixed organic potting soil. Equipment included ten 600W HPS kits,
 a multi-output electrical control board with timers, a 3200 cu/hr
-inline fan, a carbon filter, and two pedestal fans.
+inline fan, a [[cervantes-ventilation-fan-carbon-filter-setup]], and two pedestal fans.
 
 The first crop revealed several key problems:
 
@@ -94,14 +94,14 @@ six key improvements:
    double-parabolic reflectors (Adjust-a-Wings) and Super Spreaders,
    down from twenty lamps, covering 4'8" x 3'11" per lamp
 6. **Switched to cocopeat slabs** in Danish plastic trays (2 x 1 m
-  each) with drip irrigation, replacing individual pots
+  each) with [[comparison-drip-irrigation-vs-passive-irrigation]], replacing individual pots
 
 ### Results of the Redesign
 
 - Temperature maintained at 80-82F (27-28C) even with dense canopy
 - Even growth across the entire room, resembling a true "sea of green"
-- Spider mites from purchased clones were dealt with organically using
-  Ecolizer "Bugs Away" foliar feed containing essential oils
+- [[cervantes-spider-mites-identification-control]] from purchased clones were dealt with organically using
+  Ecolizer "Bugs Away" foliar feed containing [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]
 - Final yield: 12.5 kg of A+ quality bud
 
 ## Third Crop: Reaping the Rewards

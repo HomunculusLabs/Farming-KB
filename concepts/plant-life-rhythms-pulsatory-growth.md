@@ -1,5 +1,5 @@
 ---
-title: Plant Life Rhythms and Pulsatory Growth
+title: Plant plant life rhythms pulsatory growth and Pulsatory Growth
 created: 2026-04-28
 tags: [plant-physiology, growth-rhythms, bose, secret-life-of-plants, crescograph]
 date: 2026-04-25
@@ -15,7 +15,7 @@ type: concept
 Plants do not grow continuously but rather in rhythmic pulses, each
 exhibiting a rapid uplift followed by a slower partial recoil of about
 one-fourth the distance gained. This fundamental discovery was made by
-the Indian physicist and biologist Sir Jagadis Chandra Bose using his
+the Indian physicist and biologist Sir Jagadis [[jagadis-chandra-bose-plant-research]] using his
 invention, the crescograph - an instrument capable of magnifying plant
 movement up to 100 million times and recording growth changes in periods
 as short as one minute. In Calcutta, Bose found that growth pulses in
@@ -33,7 +33,7 @@ grasping how plants perceive and respond to their environment.
 
 The [[cho-plant-growth-stage-treatments]] rhythms allows farmers to time
 interventions - irrigation, fertilization, harvesting - to coincide
-with periods of maximum metabolic activity. Bose showed that the
+with periods of maximum [[arbuscule-isolation-metabolic-activity-assays]]. Bose showed that the
 action of fertilizers, food, and electric currents on plants could be
 fully determined in less than a quarter hour using the crescograph.
 
@@ -59,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: Weil — Cultural Attitudes Toward Altered States
+title: Weil — weil cultural attitudes toward altered states Toward Altered States
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -11,20 +11,20 @@ tags: [reference]
 
 ## The Central Observation
 
-A major thread in *The Natural Mind* (1972) is the striking contrast between Western and non-Western cultural attitudes toward altered states of consciousness. Andrew Weil argues that Western industrial society is unique among human cultures in its systematic rejection and pathologization of non-ordinary consciousness. This rejection, he suggests, is not based on scientific evidence but on deep cultural assumptions that are rarely examined and widely taken for granted as universal truths.
+A major thread in *The Natural Mind* (1972) is the striking contrast between Western and non-Western cultural attitudes toward altered states of consciousness. [[andrew-weil]] argues that Western industrial society is unique among human cultures in its systematic rejection and pathologization of non-ordinary consciousness. This rejection, he suggests, is not based on scientific evidence but on deep cultural assumptions that are rarely examined and widely taken for granted as universal truths.
 
 ## Cross-Cultural Evidence
 
 Weil surveys a wide range of non-Western societies and finds that every one of them values and institutionalizes some form of consciousness alteration. His survey includes:
 
-- **Amazonian societies** use ayahuasca, a DMT-containing brew prepared from Banisteriopsis caapi and Psychotria viridis, in shamanic ceremonies for healing, divination, communal bonding, and the acquisition of knowledge. The practice is widespread across the western Amazon basin, spanning dozens of distinct ethnic groups and linguistic families.
+- **Amazonian societies** use ayahuasca, a DMT-containing brew prepared f banisteriopsis caapi aapi psychotria viridis idis, in shamanic ceremonies for healing, divination, communal bonding, and the acquisition of knowledge. The practice is widespread across the western Amazon basin, spanning dozens of distinct ethnic groups and linguistic families.
 - **North American indigenous peoples** use peyote in the Native American Church, a legally recognized religious practice that combines Christian and indigenous elements. Peyote use predates European contact among the Huichol, Tarahumara, and other peoples of the Mexican desert.
-- **Mesoamerican cultures** used psilocybin mushrooms (teonanacatl, "flesh of the gods") and morning glory seeds (ololiuqui) in ritual contexts for centuries before European contact, as documented in pre-Columbian codices and early colonial accounts.
+- **Mesoamerican cultures  ushrooms (teonanacatl, "flesh of the gods") and morning glory seeds (ololiuqui) in ritual contexts for centuries before European contact, as documented in pre-Columbian codices and early colonial accounts.
 - **West African societies** use iboga in Bwiti initiation ceremonies — multi-day rituals that involve consuming large doses of the root bark to produce visions, confront fears, and undergo symbolic death and rebirth.
 - **Pacific cultures** use kava in social and ceremonial contexts across Polynesia, Melanesia, and Micronesia. Kava ceremonies serve functions of conflict resolution, community bonding, and the transmission of cultural knowledge.
 - **Asian cultures** use cannabis, opium, and various meditation practices to alter consciousness. Cannabis has been used in Indian religious practice for millennia; opium was widely accepted in traditional Chinese medicine.
-- **Siberian cultures** use Amanita muscaria mushrooms in shamanic practice. Shamans consume the mushrooms to enter trance states for divination, healing, and journeying to the spirit world.
-- **East African cultures** use chat (khat, Catha edulis) for social and religious purposes.
+- **Siberian cultures** [[allegro-amanita-muscaria-properties-and-pharmacology]] aria mushrooms in shamanic practice. Shamans consume the mushrooms to enter trance states for divination, healing, and journeying to the spirit world.
+- **East African cultures** use chat (kh catha edulis ulis) for social and religious purposes.
 - **South American cultures** use coca leaves for energy, social bonding, and ritual purposes — a practice that predates the Inca empire.
 
 In all of these societies, consciousness-altering practices are embedded in cultural frameworks that give them meaning, regulate their use, and integrate their effects into daily life. The experiences produced are typically interpreted as valuable — as sources of healing, knowledge, spiritual insight, or social cohesion. Problematic use exists but is generally managed through cultural mechanisms rather than through prohibition.
@@ -51,7 +51,7 @@ Weil also observes that Western culture has developed its own forms of conscious
 - **Prescription stimulants** (amphetamines, methylphenidate) are prescribed to children and adults to enhance focus and productivity, reflecting the cultural value placed on sustained attention and task completion. The increasing prescription of these drugs to children for "ADHD" represents, in Weil's framework, a culturally sanctioned form of consciousness alteration that serves the demands of the educational system.
 - **Prescription sedatives and antidepressants** are used to manage the psychological distress produced by the very social conditions that pathologize non-ordinary consciousness. The epidemic of antidepressant use in Western societies can be understood, in Weil's framework, as a culturally sanctioned form of consciousness alteration — one that smooths over the distress caused by the suppression of the intoxication drive rather than addressing its root cause.
 
-The difference, Weil suggests, is not pharmacological but cultural: these substances are approved because they facilitate (or at least do not disrupt) the dominant mode of economic and social organization. Psychedelics, by contrast, tend to produce experiences that challenge the assumptions underlying that organization — the primacy of the individual ego, the reality of materialist metaphysics, the value of competitive achievement, the legitimacy of existing social hierarchies.
+The difference, Weil suggests, is not pharmacological but cultural: these substances are approved because they facilitate (or at least do not disrupt) the dominant mode of [[holmgren-economic-and-social-succession]] organization. Psychedelics, by contrast, tend to produce experiences that challenge the assumptions underlying that organization — the primacy of the individual ego, the reality of materialist metaphysics, the value of competitive achievement, the legitimacy of existing social hierarchies.
 
 ## Cultural Change and Drug Policy
 
@@ -75,8 +75,8 @@ The destruction of these frameworks — through colonialism, missionary activity
 
 Weil places Western attitudes in historical perspective, noting that they are relatively recent and culturally anomalous:
 
-- Ancient Greek society incorporated the Eleusinian Mysteries, which likely involved the use of ergot-derived psychoactive substances (kykeon) and were the most important religious initiation in the Hellenic world for nearly 2,000 years.
-- Medieval European society tolerated and sometimes valued various forms of consciousness alteration, including the use of psychoactive plants in folk medicine and witchcraft practices.
+- Ancient Greek society i [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] sinian Mysteries, which likely involved the use of ergot-derived psychoactive substances (kykeon) and were the most important religious initiation in the Hellenic world for nearly 2,000 years.
+- [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] society tolerated and sometimes valued various forms of consciousness alteration, including the use of psychoactive plants in folk medicine and witchcraft practices.
 - The deliberate narrowing of Western consciousness began with the Reformation and the Scientific Revolution, which established rational, empirical awareness as the only legitimate mode of knowing.
 - The full criminalization of consciousness-altering substances is a 20th-century phenomenon, driven largely by American foreign policy and international drug control treaties.
 
@@ -110,7 +110,7 @@ This paradox is explained by Weil's framework: prohibition does not eliminate th
 
 ## Reclaiming Non-Ordinary Consciousness
 
-Weil's cultural analysis is ultimately hopeful. If Western attitudes toward altered consciousness are culturally constructed rather than based on objective truth, then they can be changed. The growing interest in mindfulness, meditation, psychedelic therapy, and other consciousness practices in Western societies suggests that this change is already underway. The task, in Weil's view, is not to reject Western civilization but to expand its understanding of consciousness to include the full spectrum of human experience.
+Weil's cultural analysis is ultimately hopeful. If Western attitudes toward altered consciousness are culturally constructed rather than based on objective truth, then they can be changed. The growing interest in mindfulness, meditation, [[metzner-psycholytic-psychedelic-therapy-models]], and other consciousness practices in Western societies suggests that this change is already underway. The task, in Weil's view, is not to reject Western civilization but to expand its understanding of consciousness to include the full spectrum of human experience.
 
 This reclamation involves several steps:
 

@@ -12,7 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-Prion diseases (transmissible spongiform encephalopathies) are rare, fatal neurodegenerative conditions including Creutzfeldt-Jakob disease (CJD), variant CJD ("mad cow disease"), kuru, and fatal familial insomnia. Research from The Cannabis Health Index documents that CBD prevents prion accumulation and protects neurons against prion toxicity.
+Prion diseases (transmissible spongiform encephalopathies) are rare, fatal neurodegenerative conditions including Creutzfeldt-Jakob disease (CJD), variant CJD ("mad cow disease"), kuru, and fatal familial insomnia. Research from The [[blesching-cannabis-health-index-autoimmune-conditions]] documents that CBD prevents prion accumulation and protects neurons against prion toxicity.
 
 ## Key Clinical Studies
 
@@ -55,7 +55,7 @@ The patent notes that CBD is:
 ## Mechanism of Action
 
 ### Antioxidant Protection
-Prion diseases involve oxidative stress as a key mechanism of neuronal death. CBD's potent antioxidant activity (US Patent 6630507) provides direct neuroprotection against this oxidative damage.
+Prion diseases involve [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] as a key mechanism of neuronal death. CBD's potent antioxidant activity (US Patent 6630507) provides direct neuroprotection against this oxidative damage.
 
 ### Anti-Inflammatory
 Prion diseases involve significant neuroinflammation. CBD's CB2-mediated anti-inflammatory effects may slow the inflammatory cascade that accompanies prion accumulation.
@@ -69,7 +69,7 @@ Prion diseases are caused by misfolded prion proteins that induce normal protein
 Given that prion diseases have a long incubation period (years to decades), CBD could theoretically be used preventively in individuals with known exposure (e.g., variant CJD from contaminated beef in the UK during the 1980s-1990s BSE epidemic).
 
 ### Treatment
-There are currently no effective treatments for prion diseases. CBD represents a promising research direction, though clinical trials would be challenging given the rarity and rapid progression of these diseases.
+There are currently no effective treatments for prion diseases. CBD represents a promising research direction, though [[mushroom-cancer-clinical-trials-overview]] would be challenging given the rarity and rapid progression of these diseases.
 
 ### Safety Profile
 CBD's excellent safety profile (no known lethal dose, well-tolerated even at high doses) makes it an attractive candidate for prion disease research, where the lack of alternatives means the risk-benefit ratio heavily favors investigation.

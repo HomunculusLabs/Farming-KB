@@ -1,5 +1,5 @@
 ---
-title: "Mitosporic Fungi Diversity and Species Estimates"
+title: "Mitosporic freshwater-fungi-diversity-and-sampling and Species Estimates"
 created: 2026-04-26
 tags:
   - mycology
@@ -31,14 +31,14 @@ in most ecological studies. Questions about the
   are replaced by later colonizers as the substrate
   chemistry changes.
 - **Moisture and temperature**: Environmental gradients
-  create distinct fungal communities even on the same
+  create distinct [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] even on the same
   substrate type.
 - **Geographic location**: Tropical, temperate, and
   boreal regions each support characteristic assemblages
   of mitosporic fungi.
 ## Methods for Estimating Mitosporic Diversity
 ### Direct Observation and Culturing
-The most common approach to estimating mitosporic growing gourmet global involves placing surface-sterilized or washed
+The most common approach to estimating mitosporic growing [[growing-gourmet-global-environmental-shift-loss-fungal-diversity]] involves placing surface-sterilized or washed
 substrate particles on nutrient media and identifying the
 fungi that grow out. This method captures only the
 culturable fraction of the community, which may represent
@@ -55,8 +55,8 @@ time of collection. Many microfungi that occur on ferns
 or higher plants are discovered through this approach.
 ### Molecular Methods
 DNA-based methods, including metabarcoding of
-environmental samples using ITS rDNA primers, have
-revealed vastly more fungal diversity than culture-based
+environmental samples using ITS [[fungal-rdna-primers-molecular-identification]], have
+revealed vastly more [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] than culture-based
 methods. These approaches detect species that cannot be
 cultured or that fail to sporulate under laboratory
 conditions. However, molecular methods situ also have

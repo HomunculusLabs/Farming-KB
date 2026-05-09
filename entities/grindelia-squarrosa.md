@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - Moore, M. (1979). "Medicinal Plants of the Mountain West." Museum of New Mexico Press.
   - Kindscher, K. (1992). "Medicinal Wild Plants of the Prairie." University Press of Kansas.
-  - Foster, S. & Duke, J.A. (2014). "Peterson Field Guide to Medicinal Plants and Herbs." Houghton Mifflin.
+  - Foster, S. & Duke, J.A. (2014). "Peterson [[ghouled-field-guide-historical-context]] to Medicinal Plants and Herbs." Houghton Mifflin.
   - Timmermann, B.N. (1987). "Chemistry of Grindelia." Economic Botany 41(4): 498–507.
 ---
 
@@ -22,7 +22,7 @@ sources:
 
 *Grindelia squarrosa*, known as curlycup gumweed, is a perennial
 herbaceous plant in the family Asteraceae native to western and central
-North America.
+[[psilocybin-north-america-pacific-northwest]].
 
 It is one of the most important traditional respiratory remedies of the
 Plains and Inter-Mountain West, used by both Indigenous peoples and
@@ -92,13 +92,13 @@ surfaces, forming the characteristic sticky exudate.
 
 Grindelic acid has demonstrated bronchial smooth muscle relaxant
 activity in vitro and acts as an expectorant by increasing mucosal
-secretions and reducing surface tension of respiratory fluids.
+secretions and reducing [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] of respiratory fluids.
 
 Flavonoids present include quercetin, kaempferol, and luteolin
 derivatives, contributing to anti-inflammatory and antioxidant effects.
 
 Traditional use as an anti-asthmatic and antitussive has partial
-pharmacological support, though clinical trials in humans are limited.
+pharmacological support, though [[mushroom-cancer-clinical-trials-overview]] in humans are limited.
 
 ## Traditional and Modern Use
 
@@ -129,9 +129,11 @@ low to moderate water. It is drought-tolerant once established.
 
 Flower heads are harvested at peak bloom (mid-summer to early fall)
 when resin content is highest. They are dried quickly in a
-well-ventilated area to prevent mold development.
+well-ventilated area to [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]] development.
 
 ## See Also
+
+- [[grindelia-robusta]]
 
 - [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]
 - [[herbal-salves-and-balms]]

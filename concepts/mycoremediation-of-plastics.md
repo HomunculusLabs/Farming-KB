@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycoremediation, pollution, fungi, decomposition, mycology, ecology, environment, sustainability]
-sources: []
+sources:
+  - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
 ## Overview
@@ -27,7 +28,7 @@ In 2011, Yale University researchers led by Scott Strobel discovered Pestalotiop
 
 ### Mechanism
 - Produces a serine hydrolase enzyme that cleaves polyurethane bonds
-- Degrades PUR under both aerobic and anaerobic conditions
+- Degrades PUR under both [[query-what-is-the-difference-between-aerobic-and-anaerobic-composting]] conditions
 - Can survive on polyurethane as its sole carbon source
 - Enzyme secretion occurs extracellularly, breaking down plastic outside the fungal cells
 
@@ -50,8 +51,8 @@ In 2011, Yale University researchers led by Scott Strobel discovered Pestalotiop
 
 ### White-rot Basidiomycetes
 - **Pleurotus ostreatus**: Degrades polystyrene when pre-treated or co-metabolized with lignocellulosic material
-- **Trametes versicolor**: Laccase enzymes partially oxidize bisphenol A (BPA) and phthalate plasticizers
-- **Phanerochaete chrysosporium**: Lignin peroxidase attacks aromatic structures in some plastics
+- **[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]**: [[singh-fungal-laccase-enzymes-bioremediation]] partially oxidize bisphenol A (BPA) and phthalate plasticizers
+- **[[staycare-phanerochaete-chrysosporium-in-bioremediation]]**: Lignin peroxidase attacks aromatic structures in some plastics
 - **Schizophyllum commune**: Degrades polyethylene under pre-oxidation conditions
 
 ### Other Notable Species
@@ -108,7 +109,7 @@ Fungi often degrade plastics more effectively when alternative carbon sources ar
 ### Environmental Cleanup
 - Inoculation of plastic-polluted soils (agricultural film residues)
 - Marine plastic debris treatment in controlled facilities
-- Microplastic degradation in wastewater treatment
+- Microplastic degradation in [[mollison-designers-wastewater-treatment-wetlands]]
 
 ### Material Design
 - Understanding fungal degradation pathways to design more easily biodegradable plastics
@@ -117,7 +118,7 @@ Fungi often degrade plastics more effectively when alternative carbon sources ar
 ## Future Directions
 
 - Metagenomic surveys to discover novel plastic-degrading fungi from extreme environments
-- Genetic engineering to enhance enzyme expression and activity
+- [[fukuoka-textdoc-genetic-engineering-critique-warning]] to enhance enzyme expression and activity
 - Consortium approaches combining multiple fungal and bacterial species
 - Life cycle assessment comparing fungal degradation to conventional disposal methods
 
@@ -126,4 +127,4 @@ Fungi often degrade plastics more effectively when alternative carbon sources ar
 - [[mycoremediation-of-oil-spills]] -- established fungal remediation of petroleum hydrocarbons
 - [[mycoremediation-of-heavy-metals]] -- fungal biosorption and immobilization of toxic metals
 
-See also: [[bioremediation-using-fungi]]
+See also: [[fungal-bioremediation-case-studies]]

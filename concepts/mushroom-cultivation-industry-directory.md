@@ -1,42 +1,47 @@
 ---
-title: Mushroom Cultivation Information Sources and Industry Directory
+title: Mushroom Cultivation Industry Directory
 created: 2026-04-19
-updated: 2026-04-19
+updated: 2026-05-09
 type: concept
-tags: [[mycology, mushrooms, cultivation]
-sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
+tags: [mycology, mushrooms, cultivation, industry]
+sources:
+  [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
 ---
-
 # Mushroom Cultivation Information Sources and Industry Directory
 
-Updated: 2026-04-18
+## Overview
 
-A comprehensive directory of organizations, suppliers, and information sources for mushroom cultivation worldwide. Compiled from MushWorld 2004, this reference covers spawn suppliers, compost producers, growing equipment, mushroom producers, consultants, and research institutions across Asia, Europe, and the Americas.
+A comprehensive directory of organizations, suppliers, and information
+sources [[grass-seed-substrate-for-mushroom-cultivation]] worldwide. Compiled from MushWorld
+2004, this reference covers spawn suppliers, compost producers,
+growing equipment, mushroom producers, consultants, and research
+institutions across Asia, Europe, and the Americas.
+
+See [[accessible-mushroom-cultivation-for-disabilities]] for
+accessibility considerations.
 
 ## Research Institutions and Mycological Societies
 
-| Organization | Country | Website |
-|-------------|---------|---------|
-| Forestry Agency (Japan) | Japan | rinya.maff.go.jp |
-| Fujian Edible Fungi Research Station | China | edible-mushrooms.com |
-| German Mycological Society | Germany | dgfm-ev.de |
-| Horticulture Research International | UK | hri.ac.uk |
-| Institute of Microbiology | Czech Republic | biomed.cas.cz |
-| Katholieke Hogeschool Sint-Lieven | Belgium | kahosl.be |
-| Kinokonet | Japan | kinokonet.com |
-| Korean Society of Mycology | Korea | mycology.or.kr |
-| Mycological Society of San Francisco | USA | mssf.org |
-| The International Society for Mushroom Science | UK | hri.ac.uk/isms |
-| USDA Mushroom Production Report | USA | usda.mannlib.cornell.edu |
-| The American Mushroom Institute | USA | americanmushroom.org |
-| The Australasian Mycological Society | Australia | munchkinsoftware.com/mycology |
-| Swedish Mycological Society | Sweden | svampar.se |
-| WWW Virtual Library: Mycology | USA | mycology.cornell.edu |
+| Organization | Country | Focus |
+|---|---|---|
+| Forestry Agency | Japan | Forest mushroom resources |
+| Fujian Edible Fungi Research Station | China | Edible fungi R&D |
+| German Mycological Society | Germany | Mycology research |
+| Horticulture Research International | UK | Mushroom science |
+| Institute of Microbiology | Czech Republic | Applied mycology |
+| Korean Society of Mycology | Korea | Mycological research |
+| Mycological Society of San Francisco | USA | Amateur mycology |
+| International Society for Mushroom Science | UK | Global coordination |
+| USDA Mushroom Production Report | USA | Industry statistics |
+| American Mushroom Institute | USA | Industry advocacy |
+| Australasian Mycological Society | Australia | Regional mycology |
+| Swedish Mycological Society | Sweden | Nordic mycology |
+| WWW Virtual Library: Mycology | USA | Online resources |
 
 ## Spawn Suppliers
 
 | Supplier | Country | Specialty |
-|----------|---------|-----------|
+|---|---|---|
 | Amycel | USA | Commercial spawn |
 | Field and Forest Products | USA | Specialty mushrooms |
 | Golden Oak Spawn | USA | Oak spawn |
@@ -47,84 +52,98 @@ A comprehensive directory of organizations, suppliers, and information sources f
 | Mycelia | Belgium | Spawn and mycelium |
 | Northwest Mycological Consultants | USA | Consultancy |
 | Sylvan Inc. | USA | Global spawn supplier |
-| Wylie Mycologicals | Canada | Specialty spawn |
 
-## Compost and Supplement Suppliers
+## Compost and Substrate Suppliers
 
-| Supplier | Country | Products |
-|----------|---------|----------|
-| McArdle Group | Ireland | Mushroom compost |
-| McGeary's Group | Ireland | Compost production |
-| Sylvan Inc. | USA | Compost |
-| Thilot Holland | Netherlands | Compost |
-| Walsh Mushrooms | Ireland | Compost |
-| Bas Van Buuren | Netherlands | Supplements, casing |
-| Champfood | Netherlands | Supplements |
-| Fafard | Canada | Peat and casing |
-| Harte Peat | Ireland | Peat products |
-| Stockosorb | Germany | Water-retaining polymers |
-| Sun Gro | Canada | Growing media |
-| Trouw Nutrition | Netherlands | Supplements |
+Compost quality is critical for successful mushroom cultivation.
+Professional compost producers supply prepared substrates optimized
+for specific mushroom species. Key suppliers operate in the
+Netherlands, the UK, the USA, and Poland, where large-scale button
+mushroom industries demand consistent, high-quality compost.
 
-## Growing Equipment
+Specialty substrate suppliers provide sterilized or pasteurized
+bags of supplemented sawdust, straw, or grain for small-scale and
+hobbyist growers. These products eliminate the need for home compost
+preparation and reduce contamination risk. Many spawn suppliers also
+offer ready-to-inoculate substrate blocks as a turnkey solution.
 
-| Supplier | Country | Equipment |
-|----------|---------|-----------|
-| Alcoa | USA | Materials |
-| Christiaens Group | Belgium | Complete systems |
-| Dalsem | Netherlands | Growing rooms |
-| DLV | Netherlands | Climate control |
-| Dofra | Netherlands | Climate systems |
-| Fancom | Netherlands | Automation |
-| Gicom | Netherlands | Composting technology |
-| Grundfos | Denmark | Pumps and water systems |
-| Modern Mushroom Farms | USA | Growing equipment |
-| Steam Engineering | Canada | Sterilization |
-| Unicorn Bag | USA | Filter bags |
-| SACO2 Microsac | Belgium | Growing bags |
+Organic certification of compost and substrates is increasingly
+important as consumer demand for organically grown mushrooms grows.
+Certified organic substrates must use organic raw materials and
+comply with strict processing standards throughout production.
 
-## Spawn Production Key Considerations
+## Equipment and Technology Providers
 
-When selecting a spawn supplier:
-- Verify strain quality and purity
-- Check for appropriate strain for your climate and substrate
-- Confirm production capacity meets your needs
-- Evaluate shipping logistics and cold chain management
-- Ask about spawn storage recommendations and shelf life
-- Consider cooperative spawn production for small-scale growers
+### Growing Room Systems
 
-## Bag and Container Suppliers
+Modern mushroom cultivation requires controlled environment systems
+for temperature, humidity, and air exchange management. Major
+equipment suppliers provide complete growing room packages including
+climate control systems, shelving, lighting, and automated harvesting
+equipment. European manufacturers dominate this market, with
+companies in the Netherlands and Germany leading innovation.
 
-- Fardis: Mushroom cultivation bags
-- MycoBag: Filtered growing bags
-- Norseman Plastics: Container solutions
-- SACO2 Microsac: Filtered spawn bags
-- Unicorn Bag: Gas-exchange filter bags
+### Sterilization and Pasteurization Equipment
 
-## Mushroom Producers
+Autoclaves, steam pasteurization units, and substrate preparation
+machinery represent significant capital investments for commercial
+growers. Tunnel pasteurization systems are standard for large-scale
+button mushroom operations, while smaller growers typically use batch
+autoclaves or pressure cookers. Equipment suppliers offer systems
+scaled from laboratory to industrial production levels.
 
-Major commercial mushroom producers include: All Seasons Mushrooms, Continental Mushroom Corporation, Garden City Fungi, Golden Gourmet Mushrooms, Highline Mushrooms, Monterey Mushrooms, and Shanghai Edible Mushroom.
+### Post-Harvest Processing
 
-## Consultants
+Fresh mushroom packaging, cold storage, drying equipment, and
+processing machinery (canning, pickling, powdering) complete the
+cultivation supply chain. Modified atmosphere packaging (MAP)
+technology extends shelf life of fresh mushrooms by slowing
+respiration and moisture loss. Freeze-drying equipment preserves
+medicinal mushrooms for the nutraceutical market.
 
-- Blaak: Mushroom cultivation consultancy
-- C point: Technical consulting
-- Northwest Mycological Consultants: Research and consulting
+## Regional Cultivation Guides
 
-## Wild Mushroom Resources
+### Asia
 
-- Mykoweb: mykoweb.com
-- Tom Volk's Fungi: botit.botany.wisc.edu/toms_fungi
-- The Hidden Forest: hiddenforest.co.nz
-- Mushroom Photo Gallery: mushworld.com
+China is the world's largest mushroom producer, cultivating species
+including *Lentinula edodes*, *Pleurotus* spp., *Auricularia* spp.,
+and *[[flammulina-velutipes]]*. Japan leads in *Pleurotus eryngii*
+(eringi) and *[[hypsizygus-marmoreus]]* (bunashimeji) production. Korea
+and Taiwan have well-developed cultivation industries for both
+edible and medicinal mushrooms.
 
-## Certification
+### Europe
 
-- Skal: Organic mushroom production certification (skal.com)
+The Netherlands is Europe's largest mushroom producer, specializing
+in *Agaricus bisporus* (button mushroom) grown in highly
+mechanized indoor facilities. France, Poland, Spain, and Italy also
+have significant cultivation sectors. [[emcdda-wild-mushroom-foraging-misidentification-hazards]]
+remains culturally important across much of Europe, particularly in
+Eastern and Mediterranean countries.
 
+### Americas
+
+The United States produces primarily button mushrooms in
+Pennsylvania, with growing specialty mushroom sectors in California,
+Oregon, and the [[psilocybin-north-america-pacific-northwest]]. Mexico and Brazil have emerging
+cultivation industries. Latin American countries with favorable
+climates are developing export-oriented mushroom cultivation
+programs for both fresh and dried products.
+
+## Certification and Quality Standards
+
+### Food Safety Standards
+
+Mushroom cultivation facilities must comply with food safety
+regulations including HACCP (Hazard Analysis and Critical Control
+Points) and GMP (Good Manufacturing Practices). These standards
+address contamination risks from heavy metals, pesticides, and
+microbial pathogens. Testing for heavy metals is particularly
+important for mushrooms grown on agricultural waste substrates.
+
+### Organic Certification
+
+[[query-what-is-integrated-pest-management-for-organic-mushroom-cultivation]] requires certified organic substrates,
 ## See Also
-
-- [[shiitake-strain-classification-and-substrate-formulas]]
-- [[pleurotus-tuberregium-sclerotia-cultivation]]
-- [[grain-cultivation-small-scale]]
-- [[mushroom-cultivation-grain-spawn]]
+- [[nineteenth-century-mushroom-cultivation]]
+- [[stamets-substrate-supplementation-strategies-mushroom-cultivation]]

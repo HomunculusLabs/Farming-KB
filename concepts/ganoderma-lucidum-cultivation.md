@@ -1,5 +1,5 @@
 ---
-title: Ganoderma Lucidum Cultivation
+title: stamets-reishi-ganoderma-lucidum-cultivation Cultivation
 created: 2026-04-28
 tags:
   - ganoderma
@@ -17,12 +17,12 @@ type: concept
 # Ganoderma Lucidum Cultivation
 
 Ganoderma lucidum, known as Reishi in Japan and Ling Zhi in China, is the
-number one medicinal mushroom in Chinese tradition with a history dating back
+number one [[gourmet-medicinal-mushroom-casing-layer-techniques]] in Chinese tradition with a history dating back
 over two thousand years. It is renowned as an immune system enhancer and
 modulator. Dr. B.K. Kim's research in Korea demonstrated anti-AIDS properties.
 The mushroom is safe for long-term use, with LD50 in rodents as high as 38g/kg.
-Two primary cultivation methods exist: synthetic log (bag) cultivation and
-natural log cultivation.
+Two primary [[synthetic-log-cultivation-methods-guide]] exist: synthetic log (bag) cultivation and
+natural [[comparison-mushroom-log-cultivation-vs-monotub-cultivation]].
 
 ## Strain Selection Criteria
 
@@ -37,10 +37,10 @@ include:
 - **Hymenium layer**: Thick fertile layer with long spore-producing tubes,
   indicating high triterpenoid and spore yield
 - **Size and weight**: Basidiocarps of 9-12cm width and 15-30g or above
-- **Growth rate**: Vigorous and fast mycelial growth
+- **Growth rate**: Vigorous and fast [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
 - **Contamination resistance**: Ability to resist weed molds
 
-Good strains are available from Japan, China, Korea, and North America.
+Good strains are available from Japan, China, Korea, and [[psilocybin-north-america-pacific-northwest]].
 
 ## Synthetic Log (Bag) Cultivation
 
@@ -60,7 +60,7 @@ Alternative formulations use 75-93% sawdust with varying bran levels
 (5-25%) and supplements. Wood chips soaked in molasses-enriched water also
 work well. See also [[shiitake-cultivation-log-method]]
 - [[oyster-mushroom-spawn-production]]
-- [[oyster-mushroom-substrate-materials-guide]]
+- oyster-mushroom-substrate-materials-guide
 ## Practical Considerations
 
 Successful implementation of Ganoderma Lucidum Cultivation requires attention to
@@ -80,3 +80,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[ganoderma-sinense]]

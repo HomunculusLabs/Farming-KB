@@ -8,7 +8,7 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 ---
 # Cannabis for Fibromyalgia
 
-Fibromyalgia is a chronic pain condition characterized by widespread musculoskeletal pain combined with psychiatric symptoms, affecting nearly 2% of the general population in the United States, with the majority being middle-aged females. It remains one of the more challenging conditions to treat with conventional medicine.
+Fibromyalgia is a [[cannabis-chronic-pain-management]] condition characterized by widespread musculoskeletal pain combined with psychiatric symptoms, affecting nearly 2% of the general population in the [[dmt-containing-plants-united-states-halpern]], with the majority being middle-aged females. It remains one of the more challenging conditions to treat with conventional medicine.
 
 ## Evidence-Based Confidence Level
 
@@ -79,7 +79,7 @@ Some researchers hypothesize that fibromyalgia may involve endocannabinoid defic
 
 ### The Psychiatric Component
 
-The Cannabis Health Index notes that fibromyalgia is "characterized by chronic pain combined with some form of psychiatric diagnosis." Cannabis's ability to address both pain and mood simultaneously (unlike most pain medications) makes it particularly suited for this condition.
+The [[blesching-cannabis-health-index-autoimmune-conditions]] notes that fibromyalgia is "characterized by chronic pain combined with some form of psychiatric diagnosis." Cannabis's ability to address both pain and mood simultaneously (unlike most pain medications) makes it particularly suited for this condition.
 
 ## Study Summary
 

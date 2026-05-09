@@ -27,7 +27,7 @@ decomposition.
 
 ## Canopy Litter Retention Mechanisms
 
-Fungal hyphae and rhizomorphs trap leaf litter in tropical forest
+Fungal hyphae and rhizomorphs trap leaf litter [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]]
 canopies. These structures have adapted to desiccating environments by
 producing copious amounts of mucilage and growing at low moisture
 potentials (minus 4 to minus 8 MPa). Hedger et al. (1993) investigated
@@ -48,16 +48,16 @@ As canopy litter decomposes, mineralization releases nutrients that wash
 to the forest floor in throughfall rain. The formation of "soil" in the
 tree canopy is a reality with significant impact on tropical forest
 fertility. This suspended soil system shares many characteristics with
-ground-level soil: organic matter accumulation, microbial decomposition,
+ground-level soil: [[hamilton-composting-and-organic-matter-management]] accumulation, microbial decomposition,
 nutrient mineralization, and water retention. The canopy soil system
-effectively extends the soil volume available for nutrient cycling.
+effectively extends the soil volume available for [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 ## Forest Floor Litter Binding
 
 Lodge and Asbury (1988) demonstrated that fungal hyphae and cords bind
 leaf litter together on the forest floor, preventing downslope loss of
 organic matter containing nutrients for plant growth. The action of
-basidiomycete fungi in binding litter increases with ground slope.
+[[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] in binding litter increases with ground slope.
 
 Species of Collybia, Marasmiellus, Marasmius, and Mycena are the main
 fungi involved in forest floor litter trapping. Field manipulation
@@ -72,7 +72,7 @@ rainfall periods.
 In temperate forests, changes in stemflow water chemistry provide
 suitable habitat for epiphytic lichen communities. Knops et al. (1996)
 demonstrated that the epiphytic lichen Ramalina menziesii on blue oak
-altered throughfall chemistry, modifying nutrient availability in
+altered throughfall chemistry, modifying [[ph-and-nutrient-availability-garden-soils]] in
 forest soil. Lichen biomass of 590 kg per hectare compared to 958 kg
 per hectare of oak leaves. Trees with lichens had higher deposition of
 total N, organic N, Ca, Mg, Na, and Cl in throughfall rain than trees
@@ -105,7 +105,7 @@ otherwise lead to rapid nutrient export.
 
 The litter-trapping function of canopy fungi creates a unique above-
 ground decomposition system that parallels below-ground processes. This
-system supports specialized fungal communities adapted to periodic
+system supports specialized [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] adapted to periodic
 desiccation, high UV exposure, and the physical challenges of canopy
 life. The rhizomorph-forming ability of Marasmius and Marasmiellus
 species is central to this function, providing both structural support
@@ -115,5 +115,8 @@ translocation within the retained litter.
 ## See Also
 
 - [[fungal-leaf-litter-succession]]
-- [[fungal-soil-aggregation]]
+- fungal-soil-aggregation
 - [[dighton-fungal-roles-in-nutrient-cycling]]
+- [[decomposition]]
+- [[fungal-hyphae]]
+- [[dighton-pine-needle-litter-decomposition-fungal-succession]]

@@ -15,13 +15,13 @@ sources:
   - https://www.leafly.com/strains/lambs-bread
   - https://www.wikileaf.com/strain/lambs-bread/
   - Clarke, R.C. (1998). Hashish! Red Eye Press.
-  - Emboden, W. (1972). "Ritual Use of [[cannabis-sativa]] L." Economic Botany.
+  - Emboden, W. (1972). "Ritual Use of cannabis-sativa L." Economic Botany.
   - Schultes, R.E. & Hofmann, A. (1980). The Botany and Chemistry of Hallucinogens. C.C. Thomas.
 ---
 
 # Lambs Bread
 
-**Lambs Bread** (also spelled **Lamb's Bread**, and sometimes called **Lamb's Breath**) is a legendary sativa-dominant cannabis landrace originating from Jamaica. One of the most culturally significant cannabis strains in the world, it is deeply intertwined with Rastafarian spiritual practice and Jamaican musical heritage. Bob Marley famously referenced it in his music, and it remains a touchstone strain for cannabis historians and landrace preservationists.
+**Lambs Bread** (also spelled **Lamb's Bread**, and sometimes called **Lamb's Breath**) is a legendary sativa-dominant [[cannabis-landrace-and-heirloom-varieties]] originating from Jamaica. One of the most culturally significant [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] in the world, it is deeply intertwined with Rastafarian spiritual practice and Jamaican musical heritage. Bob Marley famously referenced it in his music, and it remains a touchstone strain for cannabis historians and landrace preservationists.
 
 The strain is often confused with or conflated with **Lamb's Breath**, which may represent a distinct but closely related Jamaican lineage. The naming is debated — some assert "bread" and "breath" refer to the same population, while others maintain they are separate accessions with subtle phenotypic differences.
 
@@ -80,7 +80,7 @@ Effects onset within 5–15 minutes when smoked or vaporized; duration is notabl
 - **Stress and anxiety:** Despite being a sativa, Lambs Bread is notably low-anxiety for most users — likely due to the terpinolene content and moderate THC levels
 - **Migraines:** Some users report symptom relief
 
-Adverse effects are mild: dry mouth and dry eyes (common to most cannabis), rare paranoia at high doses, occasional dizziness in sensitive individuals, and insomnia if consumed too late in the day due to the long duration of effects.
+[[adverse-effects-and-harm-reduction-psilocybin]] are mild: dry mouth and dry eyes (common to most cannabis), rare paranoia at high doses, occasional dizziness in sensitive individuals, and insomnia if consumed too late in the day due to the long duration of effects.
 
 ## Cultural Significance
 
@@ -90,11 +90,11 @@ Bob Marley was its most famous proponent, reportedly smoking it daily and attrib
 
 ## Growing Information
 
-Moderate to difficult indoors due to long flowering time (12–16 weeks), tall stature (150–250+ cm outdoors, can exceed 3 meters in tropical climates), and low yield relative to modern hybrids (200–350 g/m² indoor; 400–700 g/plant outdoor). The plant exhibits significant stretch during early flowering (2–3× height increase) with long, stretchy branches and wide internodal spacing. Best suited to outdoor cultivation in tropical/subtropical climates.
+Moderate to difficult indoors due to long flowering time (12–16 weeks), tall stature (150–250+ cm outdoors, can exceed 3 meters in [[fukuoka-natural-farming-tropical-climates]]), and low yield relative to modern hybrids (200–350 g/m² indoor; 400–700 g/plant outdoor). The plant exhibits significant stretch during early flowering (2–3× height increase) with long, stretchy branches and wide internodal spacing. Best suited to outdoor cultivation in tropical/subtropical climates.
 
 Requires full sun, well-drained soil, 24–30°C optimal, and light to moderate feeding — sensitive to nitrogen overload during flowering. LST (low-stress training), topping, and scrog techniques help manage height indoors. The extensive, aggressive root system requires large containers or in-ground planting.
 
-As a landrace adapted to Jamaican conditions, Lambs Bread shows above-average resistance to powdery mildew, botrytis (bud rot), spider mites, and fungal pathogens, though it can be susceptible to thrips and whiteflies in indoor environments. Clones of authentic mother plants exist in small Jamaican collections but are rarely available commercially — authentic genetics are increasingly rare due to hybridization of Jamaican cultivation.
+As a landrace adapted to Jamaican conditions, Lambs Bread shows above-average resistance to [[cervantes-powdery-mildew-prevention-treatment]], botrytis (bud rot), spider mites, and fungal pathogens, though it can be susceptible to thrips and whiteflies in indoor environments. Clones of authentic mother plants exist in small Jamaican collections but are rarely available commercially — authentic genetics are increasingly rare due to hybridization of Jamaican cultivation.
 
 ## Genetic Relatives and Authenticity
 
@@ -109,7 +109,7 @@ Several breeders have crossed Lambs Bread with modern genetics:
 - **Lambs Breath F2:** Stabilized inbred line from original Jamaican stock
 - Various backcrosses aimed at preserving landrace traits while improving yield and flowering time
 
-Authentic Lambs Bread has become increasingly rare due to introduction of foreign hybrid genetics into Jamaica (particularly from North American and European seed companies), government suppression of cultivation (decriminalized 2015, but large-scale cultivation remains restricted), and loss of traditional growing knowledge as younger generations adopt modern hybrids. Genuine material is best sourced from Jamaican landrace preservation breeders.
+Authentic Lambs Bread has become increasingly rare due to introduction of foreign hybrid genetics into Jamaica (particularly from [[growing-gourmet-north-american-reishi-species]] and European seed companies), government suppression of cultivation (decriminalized 2015, but large-scale cultivation remains restricted), and loss of traditional growing knowledge as younger generations adopt modern hybrids. Genuine material is best sourced from Jamaican landrace preservation breeders.
 
 ## Legal Status
 
@@ -119,3 +119,4 @@ Cannabis remains illegal in Jamaica for recreational use, though decriminalizati
 
 - [[blue-dream-strain]]
 - [[acdc-cannabis-strain]]
+- [[african-landrace-sativa-modern-hybrids]]

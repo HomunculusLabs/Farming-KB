@@ -9,7 +9,7 @@ sources:
 ---
 # HOT-17 (2,5-Dimethoxy-4-(s)-butylthio-N-hydroxyphenethylamine)
 
-HOT-17 is a phenethylamine compound and the N-hydroxylated derivative of 2C-T-17. It belongs to the HOT (Hydroxylated Ortho-Thio) family of psychedelic substances. The compound is listed as PIHKAL entry #89.
+HOT-17 is a phenethylamine compound and the N-hydroxylated derivative of 2C-T-17. It belongs to the HOT (Hydroxylated Ortho-Thio) family of psychedelic substances. The compound is listed as [[2c-b-pihkal-entry-20]] #89.
 
 ## Chemical Classification
 
@@ -27,7 +27,7 @@ It is part of the broader 2C-T family, which features 2,5-dimethoxy-4-alkylthio 
 
 HOT-17 is a psychedelic phenethylamine with documented human activity.
 
-The compound represents the N-hydroxylated version of the [[2c-t-2]] has an ethylthio group.
+The compound represents the N-hydroxylated version of the  has an ethylthio group.
 
 [[2c-t-7-entity]] has an n-propylthio group.
 
@@ -60,7 +60,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +102,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

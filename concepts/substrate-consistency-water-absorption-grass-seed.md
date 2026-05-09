@@ -6,9 +6,9 @@ Achieving the correct moisture content in [[mushroom-cultivation]]. Different va
 
 ## The Central Challenge
 
-Grass seed substrates rely on the seed kernels absorbing water to create a moist but not waterlogged medium for mycelial growth. The ideal substrate must satisfy several competing requirements simultaneously:
+Grass seed substrates rely on the seed kernels absorbing water to create a moist but not waterlogged medium for [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]. The ideal substrate must satisfy several competing requirements simultaneously:
 
-- Moist enough to support vigorous mycelial growth and metabolic activity
+- Moist enough to support vigorous mycelial growth and [[arbuscule-isolation-metabolic-activity-assays]]
 - Free-flowing enough to be shaken and redistributed in jars for faster colonization
 - Not so wet that it forms a compact, anaerobic mass that cannot be aerated
 - Not so dry that colonization stalls, slows dramatically, or fails entirely
@@ -42,7 +42,7 @@ How the seed has been processed before purchase affects hydration behavior:
 - **Hulled vs. unhulled**: Removing the hull exposes the kernel for faster water uptake
 - **Cracked vs. whole**: Cracked seed absorbs water rapidly and may become mushy
 - **Cleaning degree**: Dust and chaff can absorb water and affect the overall moisture balance
-- **Storage conditions**: Age, humidity exposure, and temperature during storage affect seed viability and water absorption
+- **[[vegetable-storage-conditions-by-temperature-and-humidity]]**: Age, humidity exposure, and temperature during storage affect seed viability and water absorption
 
 ### Species Composition
 
@@ -60,7 +60,7 @@ When too much water is added, the substrate becomes problematic in several ways:
 - **Bacterial contamination**: Wet substrates are far more susceptible to bacterial growth, particularly Bacillus species that produce characteristic sour smells
 - **Sour odor**: Anaerobic bacteria produce butyric acid and other foul-smelling metabolites
 - **Stalled colonization**: Mycelium growth slows or stops entirely in waterlogged areas, leaving uncolonized pockets
-- **Mycelial metabolite excretion**: The stressed mycelium may excrete yellowish metabolites as a stress response
+- **Mycelial [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]]**: The stressed mycelium may excrete yellowish metabolites as a stress response
 
 ### Overly Dry Substrate
 
@@ -118,13 +118,16 @@ After sterilization and cooling, the substrate quality can be assessed by gently
 
 ## Impact on Colonization Speed
 
-Substrate moisture directly and significantly affects colonization time. A well-hydrated substrate with proper consistency allows complete colonization in 5-20 days depending on species and temperature, while poorly hydrated substrates may take significantly longer or fail to colonize entirely. The ability to shake and redistribute colonized kernels — a key technique for accelerating colonization — is only possible when substrate moisture is within the correct range. Overly wet substrates cannot be shaken, forcing the mycelium to grow outward from the inoculation point rather than being distributed throughout the jar.
+[[pf-tek-substrate-moisture-diagnosis-and-correction]] directly and significantly affects colonization time. A well-hydrated substrate with proper consistency allows complete colonization in 5-20 days depending on species and temperature, while poorly hydrated substrates may take significantly longer or fail to colonize entirely. The ability to shake and redistribute colonized kernels — a key technique for accelerating colonization — is only possible when substrate moisture is within the correct range. Overly wet substrates cannot be shaken, forcing the mycelium to grow outward from the inoculation point rather than being distributed throughout the jar.
 
 ## Related Topics
 
 - [[grass-seed-substrate-preparation]]
-- [[mycelial-metabolite-excretion-stress-response-grain-jars]]
+- mycelial-metabolite-excretion-stress-response-grain-jars
 
 ---
 
-*Source: Gartz et al., grass seed cultivation guidance for Psilocybe species*
+*Source: Gartz et al., grass [[grass-seed-cultivation-of-psilocybe-mushrooms]] guidance for Psilocybe species*
+- [[grass-seed-substrate]]
+- [[grass-seed-water-absorption-variability-substrate-preparation]]
+- [[grass-seed-substrate-water-absorption-variability-and-calibration]]

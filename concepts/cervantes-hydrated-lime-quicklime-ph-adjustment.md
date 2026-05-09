@@ -1,18 +1,19 @@
 ---
-title: Hydrated Lime and Quicklime for pH Adjustment
+title: cervantes hydrated lime quicklime ph adjustment and Quicklime for pH Adjustment
 created: 2026-04-26
 tags: [cannabis, ph, lime, soil, cervantes]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Hydrated Lime and Quicklime for pH Adjustment
 
 Lime products are essential tools for managing soil
-pH in cannabis cultivation. Different forms of lime
+pH in [[query-how-does-no-till-cannabis-cultivation-work]]. Different forms of lime
 act at different speeds, have different chemical
 properties, and serve different purposes. Cervantes
 provides critical guidance on choosing and using
@@ -29,7 +30,7 @@ and apply with each watering for fast results.
 ### Application Rates
 
 Many growers use a mix of 0.25 cup hydrated lime
-and 0.75 cup (18 cl) dolomite lime. Hydrated lime
+and 0.75 cup (18 cl) [[cervantes-dolomite-lime-ph-buffering]]. Hydrated lime
 is immediately available, whereas the slower-acting
 dolomite buffers the pH over the long term. Do not
 use more than 0.5 cup (12 cl) of hydrated lime per
@@ -48,7 +49,7 @@ soil has become too acidic during a grow cycle.
 Hydrated lime is also used as a grow room
 fungicide. Sprinkle it on the floor and around the
 room. It kills fungus on contact, providing a
-sanitary growing environment.
+sanitary [[cannabis-growing-environment-setup]].
 
 ## Quicklime (Calcic Lime)
 
@@ -110,9 +111,9 @@ daily to make sure it remains stable.
 ## Gypsum Interaction
 
 When calcium from one source combines with sulfur
-from another in the nutrient solution, they can
+from another in the [[cannabis-nutrient-solution-preparation]], they can
 form crude, insoluble gypsum (calcium sulfate).
-This residue can affect nutrient availability.
+This residue can affect [[ph-and-nutrient-availability-garden-soils]].
 Be mindful of combining calcium-rich and sulfur-
 rich amendments or nutrient solutions.
 

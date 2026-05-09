@@ -5,16 +5,16 @@ tags: [comparison, hydroponics, dwc, ebb-and-flow, cannabis]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 type: comparison
 ---
 # DWC vs Ebb and Flow
 ## Overview
-Deep water culture (DWC) and ebb and flow (also called flood and drain) are
-two of the most popular active hydroponic systems for cannabis cultivation.
+[[cannabis-deep-water-culture-guide]] (DWC) and ebb and flow (also called flood and drain) are
+two of the most popular active hydroponic systems for [[query-how-does-no-till-cannabis-cultivation-work]].
 Both deliver nutrient-rich water directly to plant roots, but they differ
 fundamentally in how water and oxygen interact with the root zone. DWC
-submerges roots in continuously aerated nutrient solution, while ebb and
+submerges roots in continuously aerated [[cannabis-nutrient-solution-preparation]], while ebb and
 flow periodically floods a growing tray and then drains away, drawing fresh
 oxygen into the root zone with each cycle. Understanding these differences
 helps growers select the right system for their space, experience level,
@@ -24,7 +24,7 @@ and cultivation goals.
 single-bucket setups to multi-bucket recirculating configurations.
 The continuous submersion of roots in nutrient solution means plants have
 constant access to water and nutrients, which can produce very fast growth
-rates, particularly in the vegetative stage. The high dissolved oxygen
+rates, particularly in the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]. The high [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]]
 levels maintained by the air pumps support vigorous root development and
 nutrient uptake. DWC is frequently compared favorably to hand-watering in
 [[ebb-and-flow]]
@@ -78,7 +78,7 @@ setups are inexpensive, easy to build, and require no timer programming
 or drain plumbing. They are an excellent starting point for growers
 transitioning from soil or hand-watered coco to active hydroponics.
 DWC also excels in dedicated vegetative spaces where maximizing growth
-rate is the primary goal. The continuous nutrient availability and high
+rate is the primary goal. The continuous [[ph-and-nutrient-availability-garden-soils]] and high
 dissolved oxygen levels support rapid biomass accumulation. Growers
 running [[cervantes-top-feed-hydroponic-systems]] for supplemental top-feeding.
 ## Hybrid Approaches
@@ -88,6 +88,8 @@ Others use ebb and flow tables with supplementary air stones in the
 reservoir to maintain higher dissolved oxygen levels. Both approaches
 capture benefits of each system while mitigating individual weaknesses.
 ## See Also
+
+- [[comparison-kratky-vs-dwc]]
 - [[comparison-nft-vs-dwc]]
 - [[comparison-living-soil-vs-hydroponic]]
 - [[hydroponic-growing-basics]]

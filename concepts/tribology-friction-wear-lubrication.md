@@ -1,11 +1,12 @@
 ---
 title: "Tribology: Friction, Wear, and Lubrication"
-aliases: [tribology, friction wear lubrication, tribosystem]
+aliases: [tribology, tribology friction wear lubrication lubrication, tribosystem]
 tags: [engineering, materials-science, mechanics, lubrication, reliability]
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
-sources: []
+sources:
+  sources: []
 ---
 
 ## Overview
@@ -24,7 +25,7 @@ A tribosystem is the complete system of bodies, surfaces, environment, motion, l
 
 The same material pair can behave differently under dry air, water, vacuum, oil, dust, high temperature, or corrosive chemistry.
 
-Surface roughness, hardness, oxide layers, contaminants, temperature, sliding speed, vibration, and load history all affect the interface.
+[[casing-surface-roughness-technique-mushroom-fruiting]], hardness, oxide layers, contaminants, temperature, sliding speed, vibration, and load history all affect the interface.
 
 For this reason, tribology rarely reduces to a single material property comparable to density or elastic modulus.
 
@@ -95,7 +96,7 @@ Common laboratory tests include pin-on-disk, ball-on-disk, block-on-ring, four-b
 
 Friction is measured with force or torque sensors, while wear may be measured by mass loss, profilometry, microscopy, dimensional change, or debris analysis.
 
-Surface characterization uses roughness metrics, hardness testing, scanning electron microscopy, spectroscopy, and chemical analysis of tribofilms.
+Surface characterization uses roughness metrics, hardness testing, scanning electron microscopy, spectroscopy, and [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of tribofilms.
 
 Accelerated tests are useful, but they can change the dominant mechanism if load, speed, or temperature are pushed beyond realistic ranges.
 
@@ -106,7 +107,7 @@ In engines, tribology governs piston rings, cylinder liners, cam followers, bear
 
 In manufacturing, it affects cutting tool wear, forming friction, die life, surface finish, rolling, extrusion, machining energy, and process stability.
 
-In renewable energy, gearboxes, yaw bearings, blade pitch systems, hydraulic equipment, and generators all contain tribological contacts.
+In [[holmgren-wind-power-and-renewable-energy-debate]], gearboxes, yaw bearings, blade pitch systems, hydraulic equipment, and generators all contain tribological contacts.
 
 In electronics, sliding connectors and microelectromechanical systems face wear, stiction, oxidation, and contact resistance problems.
 
@@ -140,4 +141,4 @@ Failure analysis should ask whether the root cause was material selection, surfa
 - Wikipedia, "Wear," accessed 2026-05-02.
 - Wikipedia, "Lubrication," accessed 2026-05-02.
 
-See also: [[natural-building-techniques]]
+See also: [[natural-building]]

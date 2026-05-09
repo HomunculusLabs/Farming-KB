@@ -1,93 +1,144 @@
 ---
-title: "punica granatum"
-created: 2026-04-28
+title: "Punica granatum"
 type: species
 tags:
-  - pomegranate
-  - herbal-plant
+  - lythraceae
+  - subtropical-fruit
   - medicinal-plant
-  - [[medicinal-plant-preparations-tinctures-salves-teas]], and ornamental
-species. Its rich polyphenol content — particularly punicalagins, ellagic acid, and
-anthocyanins — underpins a substanbill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculturearmacological research. In permaculture
-design, pomegranate serves as a drought-hardy, multi-use element in [[quercetin]], [[luteolin]], and naringenin glycosides.
-- **Fatty acids:** Seed oil contains punicic acid (C18:3 cis-9, trans-11, cis-13), a
-  conjugated linolenic acid with anti-inflammatory activity.
-- **Alkaloids:** Pelletierine in bark; citric, malic, and succinic acids in juice.
+  - edible-fruit
+  - ornamental
+date: 2026-05-08
+updated: 2026-05-08
+sources:
+  - Levin, G.M. (2006). "Pomegranate Roads: A Soviet Botanist's Exile from Eden." Floreant Press.
+  - Jurenka, J. (2008). "Therapeutic Applications of Pomegranate." Alternative Medicine Review 13(2): 128-144.
+  - Stover, E. & Mercure, E.W. (2007). "The Pomegranate: A New Look at a Fruit Full of Promise." Pomology Research & Extension, UF-IFAS.
+  - Lansky, E.P. & Newman, R.A. (2007). "Punica granatum (Pomegranate) and Its Potential for Prevention and Treatment of Inflammation and Cancer." Journal of Ethnopharmacology 109(2): 177-206.
+---
 
-## Pharmacology and Medicinal Use
+## Overview
 
-**Cardiovascular effects:** Reduces oxidative LDL, increases paraoxonase-1 activity,
-and inhibits platelet aggregation. Meta-analyses show significant reductions in systolic
-and diastolic blood pressure with 8 oz/day over 2+ weeks.
+**Punica granatum** (pomegranate) is a deciduous shrub or small tree in the
+family Lythraceae, cultivated for its large, leathery fruits filled with
+juicy arils. Native to the region spanning Iran to northern India, it has
+been cultivated for over 5,000 years.
 
-**Anti-cancer activity:** In vitro and animal studies show inhibition of proliferation in
-breast, prostate, colon, and lung cancer cell lines. Punicalagins induce apoptosis via
-mitochondrial pathways and inhibit NF-κB signaling. Human trials remain preliminary.
+The species is the sole member of its genus and holds profound cultural
+significance across Mediterranean, Middle Eastern, and South Asian
+civilizations. Global production exceeds 3 million metric tons annually,
+with India, Iran, Turkey, and China as leading producers.
 
-**Anti-inflammatory:** Ellagitannin metabolites (urolithins A and B) suppress TNF-α,
-IL-6, and COX-2 expression. Urolithin A, produced by gut microbiota, has gained attention
-for mitophagy induction and potential anti-aging effects.
+Pomegranate fruit, juice, peel, and seeds are rich in polyphenols,
+particularly punicalagins and anthocyanins, which have been extensively
+studied for antioxidant, anti-inflammatory, and cardioprotective effects.
 
-**Antimicrobial:** Rind extract shows activity against *S. aureus*, *E. coli*, *C. albicans*,
-and *A. niger*. Traditional use for GI infections is supported by in vitro evidence.
+## Taxonomy and Morphology
 
-**Traditional medicine:** Used in Ayurveda ("dadima") as hemostatic and digestive; in Unani
-medicine as heart and liver tonic; in TCM for tapeworm expulsion (alkaloid-rich root bark).
-The rind is a traditional astringent for diarrhea across Middle Eastern traditions.
+**Taxonomy:** Lythraceae, subfamily Punicoideae, genus *Punica*.
 
-## Nutritional Profile
+- **Authority:** L. (1753)
+- **Synonyms:** *Punica malus*, *Punica nana*, *Granatum officinale*
+- **Chromosomes:** 2n = 16, 17, or 18 (dysploid)
 
-Per 100 g raw arils: 83 kcal, 1.7 g protein, 1.2 g fat, 18.7 g carbohydrates (13.7 g
-sugars), 4.0 g fiber. Rich in vitamin C (10.2 mg), vitamin K (16.4 μg), folate (38 μg),
-and potassium (236 mg). ORAC antioxidant capacity ranks among the highest of common fruits.
+Plants grow as multi-stemmed shrubs or small trees reaching 3-7 m in
+height. Bark is smooth and gray-brown, becoming fissured with age.
+
+Leaves are opposite or sub-opposite, glossy dark green, narrowly oblong
+to lanceolate, 3-7 cm long. In deciduous forms, foliage turns yellow in
+autumn before abscission.
+
+Flowers are bright orange-red, 3-5 cm diameter, with 5-8 crumpled petals
+and numerous stamens. Flowering occurs over an extended period from spring
+through summer.
+
+The fruit is a large berry (balausta), 5-12 cm diameter, with a thick,
+leathery, reddish-yellow pericarp. Interior chambers (locules) contain
+200-1400 arils, fleshy juice-filled sacs surrounding individual seeds.
+
+## Distribution and Habitat
+
+*Punica granatum* originated in the region from Iran to the Himalayas of
+northern India. Wild populations persist in Turkmenistan, Afghanistan, and
+the Transcaucasus.
+
+The species was spread throughout the Mediterranean basin by Phoenician,
+Greek, and Roman traders. Spanish missionaries introduced it to the
+Americas in the 16th century, where it naturalized widely in California,
+Arizona, and Latin America.
+
+It thrives in semi-arid Mediterranean and subtropical climates with hot
+summers and mild winters. Optimal growth occurs in USDA zones 7-10, with
+a chilling requirement of 100-500 hours below 7 degrees C.
+
+The plant is remarkably drought-tolerant once established, surviving on
+250-500 mm annual rainfall. It tolerates saline and alkaline soils but
+requires good drainage to prevent root rot.
 
 ## Cultivation
 
-Propagated by hardwood cuttings (15–25 cm, IBA-treated) or seed (variable). Trees begin
-bearing 2–3 years from cuttings. Yields of 15–25 kg per mature tree typical; commercial
-orchards produce 15–20 tonnes/ha. Key parameters: spacing 4–6 × 5–7 m; drip irrigation
-preferred (800–1200 mm annually); fruit on current year's growth. Harvest September–February
-in Northern Hemisphere; fruit does not ripen off-tree.
+Commercial pomegranate orchards are typically planted at 3-6 m spacing
+within rows 5-7 m apart, yielding 150-400 trees per hectare. Trees begin
+bearing 2-3 years after planting and reach full production by years 5-7.
 
-## Permaculture and Agroforestry Applications
+Major commercial cultivars include 'Wonderful' (California standard),
+'Bhagwa' (India), 'Hicaznar' (Turkey), and 'Mollar de Elche' (Spain).
+Cultivar selection depends on aril color, juice content, seed softness,
+and market preference.
 
-- **Drought tolerance:** Requires 40–50% less water than citrus; ideal for dryland food
-  forests and xeriscaped guilds.
-- **Windbreak:** Dense, thorny growth provides effective wind protection.
-- **Root architecture:** Shallow, non-competitive roots allow interplanting with herbs,
-  legumes, and groundcovers.
-- **Guild associates:** Olive, fig, grapevine, rosemary, lavender, nitrogen-fixing
-  understory (alfalfa, clover).
-- **Income diversification:** Fruit, juice, seed oil, rind extract (cosmetics/pharma),
-  and ornamental forms provide multiple yield streams.
+Propagation is primarily by hardwood cuttings, which maintain true-to-type
+characteristics. Softwood cuttings under mist and [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] are used
+for large-scale nursery production.
 
-## Cultivars
+Key pests include pomegranate butterfly (*Virachola livia*), pomegranate
+fruit moth (*Ectomyelois ceratoniae*), and bacterial blight (*Xanthomonas
+axonopodis*). [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management combines orchard sanitation,
+pheromone traps, and targeted sprays.
 
-- **Wonderful:** Large, deep red; dominant California variety; thick rind, tart-sweet.
-- **Haku-Botan:** Japanese white-fleshed; softer seeds, lower acidity.
-- **Mollar de Elche:** Spanish PDO; soft seeds, sweet, pink arils.
-- **Ambrosia:** Very large (1–1.5 kg); pink arils, popular home garden variety.
-- **Salavatski:** Cold-hardy Russian selection; tolerates −15°C.
+## Chemistry and Pharmacology
+
+Pomegranate is exceptionally rich in **ellagitannins**, with punicalagins
+(alpha and beta isomers) comprising roughly 50% of the fruit's total
+polyphenol content. These hydrolyzable tannins are unique to pomegranate.
+
+The aril juice contains anthocyanins (cyanidin, delphinidin, and
+pelargonidin glycosides), flavonoids (quercetin, kaempferol), and
+ascorbic acid. Pomegranate seed oil is a significant source of punicic
+acid (C18:3), a conjugated linolenic acid.
+
+[[mushroom-cancer-clinical-trials-overview]] have demonstrated that pomegranate juice consumption
+reduces [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] markers, lowers systolic blood pressure, and
+improves lipid profiles. Meta-analyses support modest cardiovascular
+benefits at doses of 200-500 mL juice per day.
+
+In vitro and animal studies show anti-proliferative effects against
+prostate, breast, and [[cannabis-and-colon-cancer-research]] cell lines. Ellagic acid and
+urolithin metabolites (gut-derived) are the primary [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]
+investigated for chemopreventive potential.
+
+## Culinary and Cultural Significance
+
+Pomegranate arils are consumed fresh, used as garnish, or pressed for
+juice. The juice is reduced to make grenadine syrup and pomegranate
+molasses, a key ingredient in Middle Eastern cuisine.
+
+Dried arils (anardana) are used as a souring agent in Indian and
+Pakistani cooking. Pomegranate seed oil is used in cosmetics and as a
+dietary supplement for its anti-inflammatory properties.
+
+The fruit has deep symbolic meaning in Judaism, Christianity, Islam,
+Hinduism, and Zoroastrianism. It represents fertility, abundance, and
+righteousness across these traditions and features prominently in art,
+mythology, and ritual.
 
 ## See Also
 
-- [[agroforestry]]
-## Practical Considerations
-
-Successful implementation of punica granatum requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-
+- [[citrus-sinensis]]
+- [[citrus-limon]]
+- [[olea-europaea]]
+- [[vitis-vinifera]]
+- [[morus-nigra]]
+- [[quercetin]]
+- [[kaempferol]]
+- [[quercus-robur]]
+- cardiovascular health
+- anti-inflammatory

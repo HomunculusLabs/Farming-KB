@@ -1,5 +1,5 @@
 ---
-title: Partnership Versus Dominator Culture
+title: Partnership Versus mckenna-dominator-culture-and-suppression-of-ecstasy
 created: 2026-05-06
 tags:
   - cultural-evolution
@@ -52,13 +52,13 @@ dynamic equilibrium with nature, with each other, and within themselves.
 
 Warfare and patriarchy arrived with the appearance of dominator values.
 In the prehistoric but post-Archaic times of approximately 5000 to 3000
-BCE, suppression of partnership society by patriarchal invaders set the
+BCE, suppression of [[mckenna-dominator-vs-partnership-society-model]] by patriarchal invaders set the
 stage for the suppression of the open-ended experimental investigation
 of nature carried on by shamans. In highly organized societies, the
 Archaic tradition was replaced by dogma, priestcraft, patriarchy,
 warfare, and eventually rational and scientific dominator values.
 
-The archaeological record at sites such as Catal Huyuk in Anatolian
+The archaeological record at sites such as [[mckenna-catal-huyuk-natufian-link]] in Anatolian
 Turkey suggests that this transition was not gradual but cataclysmic.
 Catal Huyuk, one of the places where agriculture may have first arisen,
 is also identified as a place where the old goddess culture died. At
@@ -68,7 +68,7 @@ separate from the life of untamed nature.
 
 ## Characteristics of Dominator Culture
 
-Dominator cultures exhibit a consistent pattern of characteristics that
+[[partnership-and-dominator-cultures-in-human-history]] exhibit a consistent pattern of characteristics that
 stand in stark contrast to partnership societies:
 
 - **Hierarchical organization**: Power concentrates at the top of rigid
@@ -112,7 +112,7 @@ has wandered into a state of prolonged neurosis because of the absence
 of a connection to the unconscious. The estrangement from nature became
 entrenched roughly two thousand years ago, during the shift from the
 Age of the Great God Pan to that of Pisces. The psychological shift
-that ensued left European civilization facing two millennia of religious
+that ensued left [[fukuoka-european-civilization-standstill]] facing two millennia of religious
 mania, persecution, warfare, materialism, and rationalism.
 
 The monstrous forces of scientific industrialism and global politics
@@ -130,7 +130,7 @@ partnership values that characterized pre-dominator human societies.
 This revival would restore the near-symbiotic relationship with
 psychoactive plants and the sense of nature as a living mystery. Such a
 restoration requires confronting the consequences of denying nature's
-spiritual dimension and seeing nature as nothing more than a resource
+spiritual dimension and [[fukuoka-textdoc-seeing-nature-wholistically-fuji-hokusai-analysis]] as nothing more than a resource
 to be plundered.
 
 ## See Also

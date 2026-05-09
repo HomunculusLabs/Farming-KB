@@ -13,7 +13,7 @@ type: comparison
 ## Overview
 
 White rot and brown rot fungi represent the two major physiological strategies
-for wood decomposition among basidiomycete fungi. They differ fundamentally in
+for wood decomposition among [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]]. They differ fundamentally in
 which components of wood they can degrade: white rot fungi break down all wood
 polymers including the recalcitrant lignin, leaving behind bleached cellulose,
 while brown rot fungi rapidly depolymerize cellulose and hemicellulose while
@@ -28,19 +28,19 @@ bioremediation applications, forest ecology, and the global carbon cycle.
 Brown rot fungi primarily degrade cellulose and hemicellulose while only
 modifying lignin through a non-enzymatic Fenton-type chemistry. Rather than
 producing the lignin-degrading peroxidase enzymes of white rot fungi, brown rots
-generate hydroxyl radicals through iron reduction by fungal metabolites. These
+generate hydroxyl radicals through [[bioremediation-fungal-iron-reduction-chelation-metal-solubilization]] by fungal metabolites. These
 powerful, non-specific radicals depolymerize cellulose rapidly from a distance,
 which is why brown rot fungi can cause extensive structural damage to wood long
 before any visible fungal growth appears. The brown, crumbly residue left behind
 is primarily modified lignin that resists further decay.
 
-Brown rot fungi probably coevolved with conifers in boreal forests, and their
+Brown rot fungi probably coevolved with conifers in [[fungal-diversity-boreal-forests-taiga]], and their
 unique decay strategy is highly effective against the resinous, lignin-rich wood
-of conifer species. Serpula lacrymans (the dry rot fungus) and Coniophora
+of conifer species. [[fungal-serpula-lacrymans-dry-rot-buildings]] (the dry rot fungus) and Coniophora
 puteana are among the most studied brown rot species, particularly for their
 destructive impact on building timber. Despite not producing ligninolytic
 enzymes, brown rot fungi have demonstrated significant bioremediation potential,
-particularly for chlorophenols, PAHs, nitroaromatics, and chlorinated aromatic
+particularly for chlorophenols, PAHs, nitroaromatics, and [[fungal-chlorinated-aromatic-degradation]]
 compounds.
 
 The Fenton chemistry employed by brown rot fungi offers advantages for
@@ -55,7 +55,7 @@ contaminated sites.
 
 | Aspect | White Rot Fungi | Brown Rot Fungi |
 |--------|----------------|-----------------|
-| Lignin Degradation | Complete depolymerization | Modification only (demethylation) |
+| [[query-how-does-lignin-degradation-by-fungi-work]] | Complete depolymerization | Modification only (demethylation) |
 | Cellulose Degradation | Enzymatic (cellulases) | Non-enzymatic (Fenton radicals) |
 | Primary Enzymes | LiP, MnP, laccase | Iron-reducing metabolites |
 | Wood Appearance | Bleached, white, fibrous | Brown, cracked, crumbly |
@@ -98,6 +98,8 @@ fungi for thorough lignin and pollutant degradation, can be more effective than
 either approach alone.
 
 ## See Also
+
+- [[comparison-white-rot-fungi-vs-brown-rot-fungi-biodegradation]]
 
 - [[comparison-white-rot-fungi-vs-trichoderma]]
 

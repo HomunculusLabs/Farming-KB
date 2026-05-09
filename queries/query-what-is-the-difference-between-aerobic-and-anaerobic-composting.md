@@ -17,7 +17,7 @@ sources: []
 # What Is the Difference Between Aerobic and Anaerobic Composting?
 
 ## Short Answer
-Aerobic composting uses oxygen-loving microorganisms to break down organic
+Aerobic composting uses oxygen-loving microorganisms to [[query-can-fungi-break-down-plastic-pollution]] organic
 matter quickly at higher temperatures, producing carbon dioxide, heat, and
 finished compost in weeks to months. Anaerobic composting occurs without
 oxygen, produces methane and other gases, works more slowly, and yields a
@@ -25,10 +25,10 @@ different end product that is wetter and more acidic, as seen in bokashi
 fermentation.
 
 ## Detailed Explanation
-Composting is the biological decomposition of organic matter into a stable,
+Composting is the biological decomposition of [[hamilton-composting-and-organic-matter-management]] into a stable,
 humus-rich soil amendment, but the process unfolds very differently depending
 on whether oxygen is present. Understanding the distinction between
-composting methods that rely on aerobic (with oxygen) versus anaerobic
+[[natural-farming-guide-composting-methods-and-techniques]] that rely on aerobic (with oxygen) versus anaerobic
 (without oxygen) decomposition is fundamental to choosing the right approach
 for your situation. Both pathways occur in nature and can be harnessed by
 growers, but they produce different results in terms of speed, odor, nutrient
@@ -37,7 +37,7 @@ retention, and end-product quality.
 Aerobic composting is the most widely practiced method and involves creating
 conditions where oxygen-dependent bacteria, fungi, and actinomycetes can
 thrive. As described in [[thermal-composting-vs-aact]] comparison
-shows that traditional hot composting produces finished material in 2 to 12
+shows that traditional [[comparison-bokashi-vs-hot-composting-method]] produces finished material in 2 to 12
 weeks, depending on management intensity.
 
 Anaerobic composting, in contrast, relies on microorganisms that function in
@@ -45,7 +45,7 @@ the absence of oxygen. This process is much slower and produces intermediate
 compounds including organic acids, hydrogen sulfide, and methane, which cause
 the characteristic foul odors associated with anaerobic conditions. The most
 well-managed form of anaerobic composting is [[aact-definitions-and-types-ingham]] framework distinguishes between
-traditional aerobic composting, aerated compost teas, and anaerobic fermented
+traditional aerobic composting, [[actively-aerated-compost-tea-aact-brewing]] teas, and anaerobic fermented
 extracts, each serving different purposes in soil management.
 
 Space and management requirements differ significantly between the two
@@ -60,7 +60,7 @@ practical solution that aerobic composting cannot match.
 Both methods have their place in a comprehensive soil management strategy.
 Many experienced growers combine approaches, using bokashi fermentation for
 kitchen scraps and aerobic hot composting for yard waste and larger material.
-The [[bokashi-composting]] is a controlled anaerobic fermentation that retains
+The [[bokashi-composting]] is a controlled [[jadam-anaerobic-fermentation-principles]] that retains
   more nutrients but requires soil burial to finish
 - Aerobic methods produce more mature compost; anaerobic methods preserve
   more nitrogen
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

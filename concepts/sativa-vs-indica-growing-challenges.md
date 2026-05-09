@@ -1,6 +1,6 @@
 ---
-title: Sativa vs Indica Growing Challenges
-source: Cannabis Sativa Volume 3 - S.T. Oner, The Rev
+title: cannabis-sativa-vs-indica-guide Growing Challenges
+source: [[comparison-cannabis-sativa-vs-cannabis-indica]] Volume 3 - S.T. Oner, The Rev
 created: 2026-05-08
 tags: [cannabis, sativa, indica, growing, cultivation, indoor, outdoor]
 ---
@@ -9,11 +9,11 @@ tags: [cannabis, sativa, indica, growing, cultivation, indoor, outdoor]
 
 ## Overview
 
-The cultivation of [[cannabis-indica]] dica, differences that have shaped the trajectory of modern cannabis breeding and the preferences of growers worldwide. Since the advent of widespread indoor growing in the 1980s and 1990s, indica varieties have dominated commercial cultivation due to their compact stature, rapid flowering, and heavy yields. Sativa varieties, by contrast, require significantly more skill, patience, and growing space to reach their potential. Understanding these differences is essential for any cultivator.
+The cultivation of  dica, differences that have shaped the trajectory of modern [[oner-cannabis-breeding-fundamentals]] and the preferences of growers worldwide. Since the advent of widespread indoor growing in the 1980s and 1990s, indica varieties have dominated commercial cultivation due to their compact stature, rapid flowering, and heavy yields. Sativa varieties, by contrast, require significantly more skill, patience, and growing space to reach their potential. Understanding these differences is essential for any cultivator.
 
 ## The Indoor Revolution and Sativa's Decline
 
-The shift to indoor cultivation fundamentally altered the cannabis landscape. Indoor growers prioritize plants that stay short (typically under 4-5 feet), flower quickly (8-9 weeks), and produce dense, heavy buds. Indica plants naturally meet all these criteria: their compact, bushy structure suits confined grow spaces, their 8-10 week flowering cycle allows multiple harvests per year, and their dense bud formation maximizes yield per square foot.
+The shift to [[cannabis-sativa-indoor-cultivation-techniques]] fundamentally altered the cannabis landscape. Indoor growers prioritize plants that stay short (typically under 4-5 feet), flower quickly (8-9 weeks), and produce dense, heavy buds. Indica plants naturally meet all these criteria: their compact, bushy structure suits confined grow spaces, their 8-10 week [[cannabis-sativa-flowering-cycle-management]] allows multiple harvests per year, and their dense bud formation maximizes yield per square foot.
 
 Sativa plants are the opposite in nearly every respect. They can reach 14 feet or more in height, require 12-16 weeks of flowering, and produce airy, less dense buds relative to their massive overall size. As S.T. Oner observed, sativa became "the second child of the cannabis family," waving its arms for attention while indica received all the focus.
 
@@ -25,7 +25,7 @@ This preference for indica was not merely aesthetic or economic; it was driven b
 
 The most obvious challenge with sativa cultivation is plant height. Sativa plants naturally exhibit extreme apical dominance, growing upward with long internodal spacing. Left untrained, a sativa plant can easily double or triple in height during the flowering stretch. A plant that is 3 feet tall at the onset of flowering may reach 7-9 feet by harvest.
 
-Indoor growers face this challenge acutely. Grow rooms typically have 7-8 foot ceilings, and with lighting, pots, and the need to maintain distance between the canopy and lamps, effective growing height may be only 4-5 feet. This means sativas must be aggressively managed through training techniques.
+Indoor growers face this challenge acutely. Grow rooms typically have 7-8 foot ceilings, and with lighting, pots, and the need to maintain distance between the canopy and lamps, effective growing height may be only 4-5 feet. This means sativas must be aggressively managed through [[cannabis-training-techniques-comparison]].
 
 ### Training Techniques for Sativas
 
@@ -108,4 +108,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

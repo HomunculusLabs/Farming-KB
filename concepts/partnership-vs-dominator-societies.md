@@ -1,5 +1,5 @@
 ---
-title: partnership vs dominator societies
+title: archaic-revival-partnership-vs-dominator-cultures societies
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -38,7 +38,7 @@ advanced.
 - Male dominance and suppression of the feminine
 - Nature viewed as a resource to be exploited
 - Emphasis on competition, conquest, and control
-- Fear and suppression of altered states of consciousness
+- Fear and suppression of [[weil-the-natural-mind-altered-states-normalcy]] of consciousness
 - Sky-god worship and transcendent spirituality
 - Warfare as an instrument of policy and social organization
 
@@ -84,13 +84,13 @@ Psychoactive drugs challenge the Christian assumption of the
 inviolability and special ontological status of the soul. Similarly,
 they challenge the modern idea of the ego and its inviolability and
 control structures. Encounters with psychedelic plants throw into
-question the entire worldview of the dominator culture.
+question the entire worldview of the [[mckenna-dominator-culture-and-suppression-of-ecstasy]].
 
 ## Implications for Drug Policy
 
 McKenna used the partnership-dominator framework to argue that the
-"war on drugs" is not fundamentally about public health or social order
-but about maintaining the dominator cultural style. The suppression of
+"[[cervantes-war-on-drugs-statistics]]" is not fundamentally about public health or social order
+but about maintaining the dominator [[mckenna-cannabis-cultural-style-and-feminine-plant]]. The suppression of
 access to shamanic ecstasy closes off the refreshing waters of emotion
 that flow from having a deeply bonded, almost symbiotic relationship to
 the earth.

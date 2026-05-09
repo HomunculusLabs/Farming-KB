@@ -1,17 +1,17 @@
 ---
-title: "Green Roof vs Earth-Sheltered Structures"
+title: "comparison green roof vs earth sheltered vs Earth-Sheltered Structures"
 tags: [comparison, natural-building, permaculture, passive-climate-control]
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
+  sources: []
 ---
 
 # Green Roof vs Earth-Sheltered Structures
 
 ## Overview
 
-Green roofs and earth-sheltered structures both integrate buildings with
+[[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]] and earth-sheltered structures both integrate buildings with
 natural systems to reduce energy consumption, manage water, and create
 habitat, but they approach this from opposite directions. A green roof
 places living vegetation on top of a conventional building envelope,
@@ -22,7 +22,7 @@ exists or is still being designed.
 
 ## Green Roofs
 
-[[earth-sheltered-structures-permaculture]]
+earth-sheltered-structures-permaculture
 
 Earth-sheltered construction uses the ground itself as a thermal
 mass and protective envelope around a building. This ranges from
@@ -64,7 +64,7 @@ light wells to bring light indoors.
 | **Fire Protection** | Minimal direct benefit | Excellent refuge capability |
 | **Noise Insulation** | Some reduction from soil layer | Very high from earth mass |
 | **Best Climate** | Urban, temperate to hot | Extreme heat, extreme cold, windy |
-| **Cost Range** | $15-60 per square foot | Varies; lower material, higher excavation |
+| **Cost Range** | $15-60 per [[comparison-biointensive-vs-square-foot-gardening]] | Varies; lower material, higher excavation |
 | **Lifespan** | 40-50+ years membrane life | Can exceed 100 years with good drainage |
 
 ## When to Choose a Green Roof
@@ -103,7 +103,7 @@ absorption and habitat value of a vegetated roof. The sod-roof
 tradition described by Mollison is essentially this hybrid: an earth-
 covered roof that supports grass or groundcover. Modern designs
 sometimes pair a bermed north wall with a fully glazed south-facing
-greenhouse roof, creating a passive solar earth-sheltered home with
+greenhouse roof, creating a [[comparison-passive-solar-vs-earth-sheltered]] earth-sheltered home with
 integrated food production. Even on conventional buildings, combining
 a green roof with earth-bermed foundation walls captures benefits
 from both approaches without the full commitment of either.
@@ -113,3 +113,5 @@ from both approaches without the full commitment of either.
 - [[cob-construction]]
 - [[passive-solar-design]]
 - [[root-cellaring-guide]]
+
+- [[comparison-passive-solar-vs-earth-sheltered]]

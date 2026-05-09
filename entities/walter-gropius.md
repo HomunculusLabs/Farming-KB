@@ -9,7 +9,7 @@ aliases:
 birth_date: 1883-05-18
 death_date: 1969-07-05
 birth_place: Berlin, Kingdom of Prussia, German Empire
-death_place: Boston, Massachusetts, United States
+death_place: Boston, Massachusetts, [[dmt-containing-plants-united-states-halpern]]
 nationality:
 - German
 - American
@@ -43,11 +43,11 @@ updated: 2026-05-02
 - He is best known as the founder and first director of the Bauhaus.
 - He helped define modernist architecture as a social and educational project.
 - His work linked art, craft, technology, industrial production, and architecture.
-- He is a key entity for the [[permaculture-tools-and-technology]], a new unity.
+- He is a key entity for the permaculture-tools-and-technology, a new unity.
 - That phrase summarizes his mature educational program.
 
 ## Educational philosophy
-- Gropius treated design as collaborative and problem solving.
+- Gropius treated design as collaborative and [[maitake-problem-solving-troubleshooting]].
 - Workshop training mattered more than passive academic imitation.
 - Students learned by testing materials directly.
 - The preliminary course trained perception before specialization.
@@ -96,5 +96,7 @@ updated: 2026-05-02
 - Gropius recruited teachers including Paul Klee and Wassily Kandinsky.
 - He helped create the environment in which [[bauhaus-movement]].
 ## Related
+
+- [[walter-pahnke]]
 
 - [[walter-stoll]]

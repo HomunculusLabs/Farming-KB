@@ -34,15 +34,15 @@ Commercial astaxanthin production from *H. pluvialis* began in the 1990s and has
 
 In its vegetative (green) phase, cells are spherical to ovoid, 10–50 μm in diameter, with two equal-length flagella. A single large cup-shaped chloroplast occupies most of the cell volume, giving the characteristic green color.
 
-Under stress, cells undergo a dramatic transformation into aplanospores (hematocysts). Flagella are lost, the cell wall thickens extensively, and large lipid droplets containing astaxanthin accumulate in the cytoplasm.
+Under stress, cells undergo a dramatic transformation into aplanospores (hematocysts). Flagella are lost, the [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] thickens extensively, and large lipid droplets containing astaxanthin accumulate in the cytoplasm.
 
-The astaxanthin in cysts is esterified with fatty acids and sequestered in lipid globules, which can occupy most of the cell volume. The cell wall of mature cysts is notably thick and resistant, containing acetolysis-resistant sporopollenin-like material.
+The astaxanthin in cysts is esterified with [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] and sequestered in lipid globules, which can occupy most of the cell volume. The cell wall of mature cysts is notably thick and resistant, containing acetolysis-resistant sporopollenin-like material.
 
 ## Biochemical Composition
 
 Astaxanthin is the signature compound, accumulating to 1–5% of dry weight in stressed cysts. This represents the highest astaxanthin concentration known in any organism. The molecule exists primarily as the 3S,3'S enantiomer, which is the biologically most active form.
 
-In the green vegetative phase, lutein and beta-carotene are the primary carotenoids. Under stress, the carotenoid pathway shifts dramatically toward ketolation, converting beta-carotene to canthaxanthin and then to astaxanthin via beta-carotene ketolase (BKT).
+In the green [[green-cannabis-grow-bible-vegetative-phase-management]], lutein and beta-carotene are the primary carotenoids. Under stress, the carotenoid pathway shifts dramatically toward ketolation, converting beta-carotene to canthaxanthin and then to astaxanthin via beta-carotene ketolase (BKT).
 
 Total lipid content ranges from 15–35% of dry weight, with significant increases during encystment. Protein constitutes 25–40% of dry weight in vegetative cells but decreases as nitrogen is remobilized during cyst formation.
 
@@ -82,7 +82,7 @@ Its ability to quench singlet oxygen and scavenge free radicals surpasses that o
 
 The species is distributed worldwide in temperate and tropical regions.
 
-It often appears as red blooms in small water bodies during late summer when conditions become stressful for vegetative growth. These blooms are conspicuous and have been noted historically as "blood rain" or "red snow" phenomena.
+It often appears as red blooms in small water bodies during late summer when conditions become stressful for [[cannabis-vegetative-growth-stage]]. These blooms are conspicuous and have been noted historically as "blood rain" or "red snow" phenomena.
 
 Birds and wind serve as primary dispersal vectors, carrying cysts between isolated freshwater habitats. The cyst's resistance to digestive enzymes allows passage through avian gastrointestinal tracts intact.
 
@@ -102,7 +102,7 @@ CRISPR-Cas9 editing is under development for *H. pluvialis*, with early reports 
 
 *Chlamydomonas nivalis* is a snow alga (Chlorophyceae) that also accumulates red carotenoid pigments as a UV protection strategy. Unlike *H. pluvialis*, it accumulates astaxanthin in extracellular vesicles rather than intracellular lipid droplets.
 
-*Dunaliella salina* is another carotenoid-accumulating green alga, though it primarily produces beta-carotene rather than astaxanthin. The two species occupy different ecological niches and market segments.
+*[[dunaliella-salina]]* is another carotenoid-accumulating green alga, though it primarily produces beta-carotene rather than astaxanthin. The two species occupy different ecological niches and market segments.
 
 ## See Also
 
@@ -110,7 +110,7 @@ CRISPR-Cas9 editing is under development for *H. pluvialis*, with early reports 
 - [[saccharomyces-cerevisiae]]
 - [[permaculture]]
 - sustainability
-- climate change
+- [[dighton-fungi-climate-change-feedback]]
 - photosynthesis
 - [[cannabis-anti-inflammatory-applications]]
 - nutrition

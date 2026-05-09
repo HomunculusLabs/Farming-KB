@@ -1,5 +1,5 @@
 ---
-title: Earthbag Construction
+title: comparison-earthbag-construction-vs-cob-construction
 created: 2026-04-18
 updated: 2026-04-19
 type: concept
@@ -9,7 +9,7 @@ sources: [articles/nicole-faires-the-ultimate-guide-to-natural-farming-and.md]
 
 # Earthbag Construction
 
-Earthbag construction is a low-cost, extremely durable building method using stacked bags filled with soil to create walls. The technique creates substantial thermal mass, is earthquake-resistant (due to flexible monolithic walls), and requires no specialized skills or expensive equipment. Earthbag building has been used for emergency shelters, homes, domes, root cellars, and retaining walls worldwide. It is one of the most versatile [[straw-bale-construction]] and [[cob-building]]:** Earthbag construction is faster and works better in seismic zones. Cob offers more sculptural freedom for organic shapes. Both use similar earth materials but different forming techniques.
+Earthbag construction is a low-cost, extremely durable [[query-how-do-i-choose-a-natural-building-method-for-my-climate]] using stacked bags filled with soil to create walls. The technique creates substantial thermal mass, is earthquake-resistant (due to flexible monolithic walls), and requires no specialized skills or expensive equipment. Earthbag building has been used for emergency shelters, homes, domes, root cellars, and retaining walls worldwide. It is one of the most versatile [[straw-bale-construction]] and [[cob-building]]:** Earthbag construction is faster and works better in seismic zones. Cob offers more sculptural freedom for organic shapes. Both use similar earth materials but different forming techniques.
 
 - **vs. [[natfarm-earthbag-construction-method]]
 
@@ -18,7 +18,7 @@ Earthbag construction is a low-cost, extremely durable building method using sta
 - [[passive-solar-design]]
 
 - [[homesteading-infrastructure]]
-- [[permaculture-cold-climate-strategies]]
+- permaculture-cold-climate-strategies
 ## Practical Applications
 
 Earthbag Construction has a range of practical applications that make it relevant to
@@ -96,4 +96,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

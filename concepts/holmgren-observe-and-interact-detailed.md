@@ -6,7 +6,7 @@
 
 ## Overview
 
-**Observe and Interact** is the first of David Holmgren's twelve permaculture design principles, articulated in *Permaculture: Principles & Pathways Beyond Sustainability* (2002). It establishes that good design depends on a **free and harmonious relationship to nature and people**, where **careful observation and thoughtful interaction** provide the design inspiration, repertoire, and patterns upon which all sustainable systems are built.
+**Observe and Interact** is the first of David Holmgren's twelve [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] principles, articulated in *Permaculture: Principles & Pathways Beyond Sustainability* (2002). It establishes that good design depends on a **free and harmonious relationship to nature and people**, where **careful observation and thoughtful interaction** provide the design inspiration, repertoire, and patterns upon which all sustainable systems are built.
 
 This principle is **foundational to all permaculture design work**. Every other principle in Holmgren's framework rests on the capacity to see clearly and respond appropriately to the systems we inhabit.
 
@@ -67,7 +67,7 @@ These guidelines function as heuristics rather than rigid rules. They support th
 
 ## Masanobu Fukuoka and the Philosophy of Doing Nothing
 
-Holmgren connects the principle of minimal intervention to the philosophy of **Masanobu Fukuoka**, the Japanese farmer and philosopher whose "do-nothing" approach to agriculture (*natural farming*) demonstrates that the most productive systems often result from **stepping back rather than adding inputs**.
+Holmgren connects the principle of minimal intervention to the philosophy of **Masanobu Fukuoka**, the Japanese farmer and philosopher whose "do-nothing" approach to agriculture (*[[comparison-natural-farming-vs-permaculture]]*) demonstrates that the most productive systems often result from **stepping back rather than adding inputs**.
 
 Fukuoka's practice of scattering seed balls, avoiding ploughing, and allowing weeds to coexist with crops is not laziness but the outcome of decades of **attentive observation** — learning what the land wants to do and removing obstacles rather than imposing will.
 
@@ -103,7 +103,7 @@ The loop ensures that design remains responsive rather than rigid, adapting to n
 
 ## Melliodora: Holmgren's Own Demonstration
 
-At **Melliodora**, his property in Hepburn Springs, Victoria, Australia, Holmgren has spent decades applying these principles in practice. The property demonstrates how prolonged, intimate observation of a specific site yields designs that are uniquely suited to local conditions — from passive solar house design to food forest systems to water harvesting earthworks.
+At **Melliodora**, his property in Hepburn Springs, Victoria, Australia, Holmgren has spent decades applying these principles in practice. The property demonstrates how prolonged, intimate observation of a specific site yields designs that are uniquely suited to local conditions — from [[comparison-passive-solar-vs-earth-sheltered]] [[mollison-designers-house-design-climate-zones]] to food forest systems to water [[pdc-water-harvesting-earthworks-design]].
 
 Melliodora shows that **observe and interact** is not a one-time exercise but a lifelong practice of deepening relationship with place. The property itself has evolved through countless cycles of the action learning loop, each refinement building on decades of accumulated local knowledge and seasonal watching.
 
@@ -113,7 +113,7 @@ What began as a degraded smallholding has become one of the most well-documented
 
 Holmgren acknowledges a **spiritual dimension** to observation. Direct, sustained attention to the natural world connects **rational and intuitive understanding** — the analytical mind and the felt sense work together to produce insights that neither could reach alone.
 
-This integration of ways of knowing is essential to the kind of wholistic design permaculture aspires to. Observation becomes not just data collection but a form of **participation** in the living world — a practice that changes the observer as much as the observed.
+This integration of ways of knowing is essential to the kind of [[holmgren-wholistic-design-thinking]] permaculture aspires to. Observation becomes not just data collection but a form of **participation** in the living world — a practice that changes the observer as much as the observed.
 
 The process deepens both ecological literacy and a sense of belonging within the larger community of life.
 
@@ -131,7 +131,10 @@ This is why observation must precede and follow every design action. The designe
 
 ## See Also
 
-- [[holmgren-catch-and-store-energy-detailed]]
-- [[apply-self-regulation-permaculture-principle]]
-- [[permaculture-design-principles]]
+- holmgren-catch-and-store-energy-detailed
+- apply-self-regulation-permaculture-principle
+- [[permaculture-design-principles-beginners]]
 - [[zone-and-sector-analysis]]
+- [[david-holmgren]]
+- [[permaculture-design]]
+- [[masanobu-fukuoka]]

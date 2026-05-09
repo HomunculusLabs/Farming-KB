@@ -4,7 +4,9 @@ created: 2026-04-28
 tags: [comparison, fermentation, japanese-food, soybean, probiotics]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: comparison
 ---
 
@@ -19,7 +21,7 @@ condiment used in soups, marinades, and sauces. Natto is made by fermenting
 steamed soybeans with Bacillus subtilis natto, a bacterium that produces a
 characteristic sticky, stringy texture and strong aroma. Both are rich in
 probiotics, enzymes, and bioavailable nutrients, but their fermentation
-processes, culinary uses, and cultural significance differ markedly.
+processes, culinary uses, and [[ethnomycology-cultural-significance-sacred-fungi]] differ markedly.
 
 ## Miso
 [[natto-making]]
@@ -45,7 +47,7 @@ The primary barrier to natto is its acquired taste and challenging texture.
 The strong aroma and sticky consistency make it one of the most polarizing
 foods, even in Japan where it is a traditional staple. Home natto
 production requires a specialized natto starter culture and careful
-temperature control during fermentation. The short shelf life of fresh
+temperature control during fermentation. The short [[psilocybin-shelf-life-stability]] of fresh
 natto (about one week refrigerated) compared to miso's years-long
 keeping quality also limits its practicality for some home fermenters.
 
@@ -64,7 +66,7 @@ keeping quality also limits its practicality for some home fermenters.
 ## When to Choose Miso
 Miso is the better choice for home fermenters seeking a versatile, long-
 keeping condiment that enhances a wide variety of dishes. Its umami richness
-makes it an essential ingredient in Japanese cooking and an increasingly
+makes it an essential ingredient in [[fukuoka-japanese-cooking-culture-disappearing]] and an increasingly
 popular flavor enhancer in Western fusion cuisine. Miso making is rewarding
 for those who appreciate the craft of slow fermentation and enjoy
 experimenting with different aging times and grain combinations to produce
@@ -87,7 +89,7 @@ both, with miso aging in the pantry while fresh natto is produced weekly.
 The byproducts of each fermentation can complement the other: miso-making
 produces a liquid byproduct (tamari-like) that can be used to season natto,
 while the bacteria from natto production may contribute to a diverse
-household microbial ecology that benefits other fermentation projects.
+household [[fukuoka-microbial-ecology-decomposition]] that benefits other fermentation projects.
 
 ## See Also
 - [[comparison-kombucha-vs-kefir]]

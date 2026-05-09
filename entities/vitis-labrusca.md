@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-Vitis labrusca is a species of grapevine native to eastern North America, commonly known as the fox grape. It is the parent species of many important American grape cultivars, most notably the Concord grape.
+Vitis labrusca is a species of grapevine native to [[polypore-fungi-eastern-north-america]] America, commonly known as the fox grape. It is the parent species of many important American grape cultivars, most notably the Concord grape.
 
 The species is distinguished by its characteristic "foxy" aroma, a musky scent attributed to methyl anthranilate, which sets it apart from the European wine grape *Vitis vinifera*. It served as a critical genetic resource during the phylloxera crisis of the late 19th century.
 
@@ -33,7 +33,7 @@ The species is distinguished by its characteristic "foxy" aroma, a musky scent a
 
 The species was first described by Carl Linnaeus in 1753. The epithet *labrusca* derives from the Latin word for a wild or rustic vine, referencing its uncultivated origins.
 
-The specific epithet has been applied broadly in the past, but modern taxonomy restricts *V. labrusca* to populations from the Atlantic coastal region. Many North American grapes once classified under this species have since been reassigned to other taxa.
+The specific epithet has been applied broadly in the past, but modern taxonomy restricts *V. labrusca* to populations from the Atlantic coastal region. Many [[growing-gourmet-north-american-reishi-species]] grapes once classified under this species have since been reassigned to other taxa.
 
 Vines are vigorous, climbing woody lianas that can reach 15–20 meters in length when supported by trees or structures. The bark on mature stems peels in long, fibrous strips.
 
@@ -51,7 +51,7 @@ Leaf margins are coarsely dentate, and the petiolar sinus is typically shallow a
 
 *V. labrusca* is native to the eastern United States and parts of southeastern Canada. Its range extends from Maine and Ontario south to Georgia and west to the Mississippi River Valley.
 
-The species thrives in mixed deciduous forests, forest edges, riparian corridors, and disturbed sites. It prefers well-drained, acidic soils (pH 5.0–6.5) with good organic matter content.
+The species thrives in mixed deciduous forests, forest edges, riparian corridors, and disturbed sites. It prefers well-drained, acidic soils (pH 5.0–6.5) with good [[hamilton-composting-and-organic-matter-management]] content.
 
 It is most commonly found in the Appalachian foothills and the Atlantic coastal plain, at elevations from sea level to approximately 600 meters. Natural populations often grow along stream banks and fence rows.
 
@@ -67,7 +67,7 @@ The species shows strong resistance to phylloxera (*Daktulosphaira vitifoliae*),
 
 However, the intense foxy aroma is undesirable in most wine styles, limiting *V. labrusca*'s direct use in winemaking. Most modern American wine grapes are *V. vinifera* × *V. labrusca* hybrids that moderate the aroma.
 
-Major pests include grape berry moth (*Paralobesia viteana*), Japanese beetle (*Popillia japonica*), and several species of downy and powdery mildew. The species is more disease-tolerant than *V. vinifera* but still benefits from fungicide programs in commercial settings.
+Major pests include grape berry moth (*Paralobesia viteana*), Japanese beetle (*Popillia japonica*), and several species of downy and [[cervantes-powdery-mildew-prevention-treatment]]. The species is more disease-tolerant than *V. vinifera* but still benefits from fungicide programs in commercial settings.
 
 Yields range from 8–15 tonnes per hectare for juice grapes under standard management. Harvest typically occurs in September through early October in the northeastern United States.
 
@@ -103,13 +103,13 @@ The North American grape juice industry is valued at over $1 billion annually, w
 
 The species has been central to grape breeding programs since the 19th century. Over 200 named cultivars trace significant ancestry to *V. labrusca*, spanning table grapes, juice grapes, wine grapes, and rootstock varieties.
 
-Beyond juice, *V. labrusca* cultivars are processed into jams, jellies, preserves, and flavoring agents. Grape pomace from juice pressing is used for animal feed, compost, and extraction of bioactive compounds including resveratrol and proanthocyanidins.
+Beyond juice, *V. labrusca* cultivars are processed into jams, jellies, preserves, and flavoring agents. Grape pomace from juice pressing is used for animal feed, compost, and extraction of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] including resveratrol and proanthocyanidins.
 
 ## See Also
 
 - [[humulus-lupulus]] — Hops, another vine crop in temperate agriculture
 - [[glycine-max]] — Soybean, another major agricultural crop with extensive breeding
 - [[trifolium-repens]] — White clover, common groundcover in vineyard interrows
-- [[musa-acuminata]] — Banana, fruit crop with distinct aroma chemistry
+- [[musa-acuminata]] — Banana, fruit crop with distinct [[cannabis-terpene-and-aroma-chemistry-clarke]]
 - [[prunus-armeniaca]] — Apricot, stone fruit crop sharing similar temperate cultivation zones
 - [[ribes-nigrum]] — Blackcurrant, small fruit crop with important juice industry parallels

@@ -1,5 +1,5 @@
 ---
-title: "Magic Mushrooms in Ancient Mesoamerican Civilization"
+title: "guzman-magic-mushrooms-african-species in Ancient Mesoamerican Civilization"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
@@ -63,12 +63,12 @@ and senseless were they that many of them took their own lives."
 Mesoamerican codices, the indigenous texts written in pictographic
 language, portray mushrooms. The Codex Vindobonensis, a Mixtec work
 dealing with the mythological origins of the world, shows several gods
-including the feathered serpent god Quetzalcoatl clutching mushrooms.
+including the [[amanita-muscaria-feathered-serpent-phoenix]] god Quetzalcoatl clutching mushrooms.
 The Lienzo de Zacatepec shows a man with mushrooms in his hair, while
 another codex depicts a man eating mushrooms with a supernatural figure
 behind him, possibly Mictlantecuhtli, the Aztec Lord of the Underworld.
 
-Throughout Central America, approximately three hundred stone and
+Throughout [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], approximately three hundred stone and
 pottery "mushroom" effigies have been uncovered, originating mainly in
 the highlands of Guatemala. These sculptures, about a foot high and
 free-standing, are mushroom-shaped with a stem and domed cap, often
@@ -108,5 +108,5 @@ observances.
 
 ## Source
 
-Letcher, Andy. Shroom: A Cultural History of the Magic Mushroom.
+Letcher, Andy. Shroom: A [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the Magic Mushroom.
 HarperCollins, 2006. Lines 3500-3720.

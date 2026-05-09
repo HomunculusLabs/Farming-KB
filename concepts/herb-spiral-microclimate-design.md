@@ -1,5 +1,5 @@
 ---
-title: Herb Spiral Microclimate Design
+title: Herb herb spiral microclimate design Design
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
@@ -17,7 +17,7 @@ An herb spiral begins as a mound of good soil about 3 feet high and 5 feet acros
 
 ## The Problem It Solves
 
-Imagine planting an herb garden along a path starting at the back door. Oregano, thyme, chives, parsley, mint, sage -- soon about twenty-five plants are dotted along the path, stretching well into the backyard. Those sage plants are far from the kitchen. The herb garden needs about 30 feet of path to give easy access, and every inch of path is one less inch of growing space. A rectangular raised bed would save space but offers a dull, monotonous solution.
+Imagine planting an [[hamilton-herb-garden-design]] along a path starting at the back door. Oregano, thyme, chives, parsley, mint, sage -- soon about twenty-five plants are dotted along the path, stretching well into the backyard. Those sage plants are far from the kitchen. The herb garden needs about 30 feet of path to give easy access, and every inch of path is one less inch of [[cotter-growing-space-design-fruiting-rooms]]. A rectangular [[comparison-chinampas-vs-raised-bed-gardening]] would save space but offers a dull, monotonous solution.
 
 The herb spiral solves this by folding up the path. It coils 20 or 30 linear feet of pathside plants into a roundish pattern about 5 feet across, with all herbs accessible right outside the door.
 
@@ -25,7 +25,7 @@ The herb spiral solves this by folding up the path. It coils 20 or 30 linear fee
 
 The key insight of the herb spiral is that it creates distinct microclimates within a single small structure:
 
-- **South-facing slope**: Hotter and drier -- ideal for Mediterranean herbs like oregano, rosemary, and thyme
+- **South-facing slope**: Hotter and drier -- ideal for [[query-best-mediterranean-herbs-for-beginner-herb-garden]] like oregano, rosemary, and thyme
 - **North-facing slope**: Cooler and moister -- suited to parsley, chives, and cilantro
 - **East-facing side**: Gets morning sun, dries earlier in the day -- good for coriander and plants that bolt in afternoon heat
 - **West-facing side**: Gets afternoon sun -- suited to heat-loving varieties
@@ -67,10 +67,10 @@ Numbered from bottom to top, a typical spiral might include:
 
 The herb spiral illustrates several key [[mandala-garden-design]] -- another circular, space-efficient Zone 1 pattern
 - [[forest-garden-seven-layers]] -- the spiral creates a mini version of vertical stacking
-- [[permaculture-pattern-language]] -- using natural patterns in design
+- permaculture-pattern-language -- using natural patterns in design
 - [[anemopsis-californica]]
 
-[[faires-climate-zones-and-microclimate-design]]
+faires-climate-zones-and-microclimate-design
 ## Practical Considerations
 
 Successful implementation of Herb Spiral Microclimate Design requires attention to
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

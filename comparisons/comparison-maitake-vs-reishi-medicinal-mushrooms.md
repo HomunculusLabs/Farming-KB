@@ -1,5 +1,5 @@
 ---
-title: "Maitake vs Reishi: Medicinal Mushroom Comparison"
+title: "comparison maitake vs reishi medicinal mushrooms: Medicinal Mushroom Comparison"
 created: 2026-04-28
 tags:
   - medicinal-mushrooms
@@ -16,18 +16,18 @@ sources:
   - "Mayell, M. (2001). Maitake extracts and their therapeutic potential. Alternative Medicine Review, 6(1), 48–60."
   - "Paterson, R.R.M. (2006). Ganoderma – a therapeutic fungal biofactory. Phytochemistry, 67(18), 1985–2001."
   - "Boh, B., Berovic, M., et al. (2007). Ganoderma lucidium and the lingzhi mushroom. Acta Pharmaceutica, 57(2), 1–14."
-  - "Wasser, S.P. (2014). Medicinal mushroom science: history, current status, future trends, and unsolved problems. International Journal of Medicinal Mushrooms, 16(1), 1–16."
+  - "Wasser, S.P. (2014). Medicinal mushroom science: history, current status, future trends, and unsolved problems. International Journal of [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]], 16(1), 1–16."
   - "Inoue, A., et al. (2002). Maitake D-fraction: healing and preventive potential. Explore: The Journal of Science and Healing, 13(4), 283–288."
 type: comparison
 ---
 
 # Maitake vs Reishi: Medicinal Mushroom Comparison
 
-**Maitake** (*[[medicinal-mushrooms]] in both traditional Asian medicine and modern clinical research. Despite overlapping therapeutic claims, they differ significantly in their bioactive compound profiles, traditional applications, culinary roles, and practical considerations.
+**Maitake** (*[[medicinal-mushrooms]] in both traditional Asian medicine and modern [[hofmann-lsd-clinical-research-early-studies]]. Despite overlapping therapeutic claims, they differ significantly in their bioactive compound profiles, traditional applications, culinary roles, and practical considerations.
 
 ## Taxonomy and Appearance
 
-| Feature | Maitake (*Grifola frondosa*) | Reishi (*Ganoderma lingzhi*) |
+| Feature | Maitake (*[[maitake-grifola-frondosa-comprehensive-profile]]*) | Reishi (*Ganoderma lingzhi*) |
 |---|---|---|
 | **Family** | Meripilaceae | Ganodermataceae |
 | **Common names** | Hen of the woods, dancing mushroom | Lingzhi, mannentake, reishi |
@@ -64,7 +64,7 @@ Reishi is classified as a premier adaptogen in TCM, with traditional and emergin
 | **Fruiting temperature** | 15–20°C (cool) | 25–30°C (warm) |
 | **Time to harvest** | 8–12 weeks from inoculation | 6–8 weeks for antler form; 12+ weeks for conks |
 | **Cultivation difficulty** | Moderate — sensitive to contamination, requires cool fruiting | Moderate to easy — widely cultivated commercially |
-| **Yield** | Good biological efficiency on supplemented substrates | Lower yield; longer cycle |
+| **Yield** | Good [[stamets-biological-efficiency-yield]] on supplemented substrates | Lower yield; longer cycle |
 
 Both are commercially cultivated at scale, though wild-harvested specimens are still prized, especially in Japan.
 
@@ -95,7 +95,7 @@ Both are commercially cultivated at scale, though wild-harvested specimens are s
 
 ## Safety and Contraindications
 
-- **Maitake:** Generally well-tolerated. May lower blood glucose — caution in diabetics on hypoglycemic medications. Potential immune stimulation warrants caution in autoimmune conditions or immunosuppressive therapy. Rare reports of GI upset.
+- **Maitake:** Generally well-tolerated. May lower blood glucose — caution in diabetics on hypoglycemic medications. Potential immune stimulation warrants caution in [[cannabis-autoimmune-conditions-detailed]] or immunosuppressive therapy. Rare reports of GI upset.
 - **Reishi:** Generally safe at standard doses. May have mild anticoagulant effects — discontinue 2 weeks before surgery. Can interact with antihypertensive and immunosuppressive drugs. Prolonged high-dose use has been associated with rare hepatotoxicity case reports. Not recommended during pregnancy (limited safety data).
 
 ## Availability and Cost
@@ -124,6 +124,8 @@ Both are commercially cultivated at scale, though wild-harvested specimens are s
 Maitake and reishi represent complementary approaches to medicinal mushroom use. Maitake offers the unique advantage of dual culinary and medicinal value, with strong evidence for immune cell activation via its distinctive β-glucan profile. Reishi stands out for its unparalleled traditional pedigree, broad adaptogenic profile, and the added therapeutic dimension of triterpenes. For immune-focused protocols, both are supported by reasonable evidence; for stress, sleep, and anti-inflammatory applications, reishi has a stronger rationale. Choosing between them often depends on whether culinary use is desired, sensitivity to bitterness, and specific therapeutic goals.
 
 ## See Also
+
+- [[medicinal-mushrooms-reishi-and-maitake]]
 
 - [[ergosterol]]
 - [[ganoderic-acids]]

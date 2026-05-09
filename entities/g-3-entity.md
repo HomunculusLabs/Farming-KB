@@ -8,7 +8,7 @@ sources: []
 ---
 # G-3
 
-G-3 (2,5-dimethoxy-3,4-(trimethylene)amphetamine; 5-(2-aminopropyl)-4,7-dimethoxyindane) is a psychedelic amphetamine and a member of the Ganesha family described in PiHKAL entry #82.
+G-3 (2,5-dimethoxy-3,4-(trimethylene)amphetamine; 5-(2-aminopropyl)-4,7-dimethoxyindane) is a psychedelic amphetamine and a member of the Ganesha family described in [[2c-b-pihkal-entry-20]] #82.
 
 It is the three-carbon (amphetamine) homologue of [[2c-g-entity]] and [[2c-g-3-entity]] - the phenethylamine homologue, generally preferred over G-3
 
@@ -102,4 +102,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

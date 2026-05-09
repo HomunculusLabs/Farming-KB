@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo IM, Sharnoff SD, Sharnoff S (2001). *Lichens of North America*. Yale University Press.
+  - Brodo IM, Sharnoff SD, Sharnoff S (2001). *Lichens of psilocybin-north-america-pacific-northwest*. Yale University Press.
   - Hale ME (1979). "How to Know the Lichens." 2nd ed. Wm. C. Brown Company.
   - Nash TH III (2008). *Lichen Biology*. 2nd ed. Cambridge University Press.
   - Huneck S, Yoshimura I (1996). *Identification of Lichen Substances*. Springer.
@@ -27,7 +27,7 @@ The species is immediately recognizable by its broad, pale green to yellow-green
 with a distinctive pattern of white macules (pseudocyphellae) on the upper surface. It
 forms extensive rosettes up to 20 cm in diameter on trunks and branches.
 
-*F. caperata* is widely used as a bioindicator of air quality and forest continuity. Its
+*F. caperata* is widely used as a bioindicator of [[cervantes-air-quality-ventilation]] and forest continuity. Its
 presence and abundance correlate with atmospheric purity and the availability of stable
 substrates on mature trees.
 
@@ -93,7 +93,7 @@ additional antimicrobial protection.
 
 Minor constituents may include atranorin and caperatic acid in some populations. Chemical
 variation has been documented across geographic range, with Mediterranean material
-occasionally differing from North American populations.
+occasionally differing from [[growing-gourmet-north-american-reishi-species]] populations.
 
 ## Ecological Role
 
@@ -102,10 +102,10 @@ contributes significantly to canopy epiphyte biomass. It provides shelter and fo
 substrate for diverse invertebrate communities including mites, nematodes, and insects.
 
 The species is an established bioindicator of air quality. Its tolerance threshold for
-sulfur dioxide is well documented, and its distribution patterns are used in national
+sulfur dioxide is well documented, and its [[guzman-global-distribution-patterns-neurotropic-fungi]] are used in national
 lichen monitoring programs across Europe and North America.
 
-*F. caperata* plays a role in forest nutrient cycling by intercepting atmospheric
+*F. caperata* plays a role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by intercepting atmospheric
 deposition and canopy throughfall. Leached minerals and trapped particulates are slowly
 released to the forest floor during rain events.
 
@@ -128,6 +128,10 @@ population recoveries in previously depauperate areas. This recovery is document
 long-term lichen resurvey studies.
 
 ## See Also
+
+- [[physconia-distorta]]
+
+- [[flavoparmelia-soredians]]
 
 - [[normandina-pulchella]]
 

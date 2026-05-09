@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [regenerative, permaculture, soil-building, no-till, compost, gardening, vegetables]
-sources: []
+sources:
+  sources: []
 ---
 
 # Hugelkultur Guide
@@ -30,11 +31,11 @@ Hugelkultur ("hill culture" in German) is a raised-bed technique that buries woo
 - **Black walnut** — contains juglone, toxic to many garden plants (tomatoes, peppers, potatoes, eggplant)
 - **Black locust** — extremely rot-resistant, takes decades to break down
 - **Treated or painted lumber** — chemicals leach into soil and food crops
-- **Eucalyptus** — allelopathic oils inhibit seed germination
+- **Eucalyptus** — allelopathic oils inhibit [[cannabis-seed-germination-methods]]
 
 ## Construction Steps
 
-1. **Site selection**: Choose a spot with good drainage. Full sun preferred. Orient mounds north-south for even light.
+1. **[[fukuoka-creating-natural-farm-site-selection-establishment]]**: Choose a spot with good drainage. Full sun preferred. Orient mounds north-south for even light.
 2. **Size**: Typical mounds are 3-6 feet wide, 3-5 feet tall, any length. Smaller versions (2 ft tall) work for annual beds.
 3. **Base layer (bottom)**: Lay large logs and branches (6-12 inch diameter) directly on ground or in a shallow trench.
 4. **Fill gaps**: Pack smaller branches, twigs, and brush into voids between large logs.
@@ -68,13 +69,13 @@ Hugelkultur ("hill culture" in German) is a raised-bed technique that buries woo
 
 - New mounds need regular watering for the first 4-6 weeks to establish microbial activity.
 - Once established, hugel beds hold 3-5x more water than conventional raised beds.
-- Drip irrigation laid under the mulch layer is ideal for dry climates.
+- [[comparison-drip-irrigation-vs-passive-irrigation]] laid under the mulch layer is ideal for dry climates.
 
 ## Troubleshooting
 
-- **Nitrogen deficiency (yellowing leaves)**: Top-dress with blood meal, composted manure, or fish emulsion. More common in year 1 with high-wood-volume mounds.
+- **Nitrogen deficiency (yellowing leaves)**: Top-dress with blood meal, [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]], or [[solomon-foliar-feeding-fish-emulsion-and-kelp]]. More common in year 1 with high-wood-volume mounds.
 - **Excessive settling**: Pack layers firmly during construction; add more soil/compost in year 2.
-- **Slugs and pests**: The moist environment attracts slugs. Use beer traps, diatomaceous earth, or encourage predator populations (ducks, ground beetles).
+- **Slugs and pests**: The moist environment attracts slugs. Use beer traps, [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]], or encourage predator populations (ducks, ground beetles).
 - **Dry spots**: Large logs can create air pockets; water deeply and slowly to saturate.
 
 ## Hugelkultur vs. Conventional Raised Beds

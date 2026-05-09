@@ -16,7 +16,7 @@ Building long-term soil fertility is the ultimate goal of the organic gardener. 
 
 ## The Foundation: The Soil Food Web
 
-The single most important long-term strategy is to build and maintain a healthy [[mycorrhizal-fungi-basics-lowenfels]] are the largest single source of carbon in soils, and nitrogen-fixing bacteria are a free source of nitrogen -- a macronutrient most often in short supply. The carbon deposited by mycorrhizal fungi as [[teaming-with-nutrients-composting-and-nutrient-cycling]], allowing soil to hold more nutrients
+The single most important long-term strategy is to build and maintain a healthy mycorrhizal-fungi-basics-lowenfels are the largest single source of carbon in soils, and nitrogen-fixing bacteria are a free source of nitrogen -- a macronutrient most often in short supply. The carbon deposited by [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] as [[teaming-with-nutrients-composting-and-nutrient-cycling]], allowing soil to hold more nutrients
 - Improves soil structure, creating pore spaces for air and water
 - Provides food for the entire soil food web
 - Buffers pH, reducing the need for lime or sulfur amendments
@@ -31,21 +31,21 @@ Long-term fertility requires attention to the full spectrum of essential nutrien
 
 **Rock dusts and mineral powders:** Finely ground rock powders (basalt, granite, glacial dust) contain a broad spectrum of minerals and trace elements that are slowly released through weathering. These are particularly valuable in soils that have been cropped for many years and may be depleted in trace elements. Greensand (glauconite), an ancient sea-bed mineral, contains more than thirty elements including calcium, magnesium, iron, and other micronutrients. It weathers slowly and lasts 2 to 3 years.
 
-**Kelp and seaweed products:** Seaweeds contain up to sixty elements, including all the trace minerals that plants need. Kelp meal lasts 4 to 5 months as it decays. While many of these nutrients may already be in the soil, trace elements are essential even though needed in minute quantities.
+**[[hamilton-kelp-and-seaweed-in-organic-gardening]] products:** Seaweeds contain up to sixty elements, including all the trace minerals that plants need. Kelp meal lasts 4 to 5 months as it decays. While many of these nutrients may already be in the soil, trace elements are essential even though needed in minute quantities.
 
 **Limestone and mineral amendments:** Regular liming (with calcitic or dolomitic limestone, as appropriate based on [[fertilizer-pollution-environmental-impact]]. Nitrogen from soluble sources leaches quickly; phosphorus binds tightly to soil but can be lost through erosion.
 
 **Prevent erosion:** Maintain soil cover through mulches, cover crops, or permanent ground covers. Bare soil loses topsoil (and the nutrients it contains) to wind and water erosion.
 
-**Minimize tillage:** Rototilling destroys soil structure and greatly reduces mycorrhizal fungi and many other beneficial soil food web organisms. This leads to more compacted soil and less efficient nutrient cycling. Surface applications of organic matter are preferable for established gardens. When it comes to gardening in clay soils, rototilling to mix in organic matter may be required until enough is added for adequate drainage, but thereafter surface applications should suffice.
+**Minimize tillage:** Rototilling destroys soil structure and greatly reduces mycorrhizal fungi and many other beneficial soil food web organisms. This leads to more compacted soil and less efficient [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. Surface applications of organic matter are preferable for established gardens. When it comes to gardening in clay soils, rototilling to mix in organic matter may be required until enough is added for adequate drainage, but thereafter surface applications should suffice.
 
-**Manage water wisely:** Both too much and too little water affect nutrient availability. Well-drained soils with good structure (maintained by organic matter and the soil food web) optimize the balance of air and water needed for efficient nutrient uptake.
+**Manage water wisely:** Both too much and too little water affect [[ph-and-nutrient-availability-garden-soils]]. Well-drained soils with good structure (maintained by organic matter and the soil food web) optimize the balance of air and water needed for efficient nutrient uptake.
 
 ## The Biological Approach
 
 The biological approach to soil fertility means working with nature's systems rather than against them:
 
-1. Test your soil and follow recommendations, adjusting with organic amendments
+1. Test your soil and follow recommendations, adjusting with [[cervantes-organic-amendments-chart]]
 2. Add organic matter regularly through compost, mulches, and green manures
 3. Grow [[soil-testing-and-interpretation]]
 - [[glomalin-and-soil-carbon]]
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

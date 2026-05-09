@@ -13,13 +13,13 @@ The most technically significant aspect of [[natural-farming]] was his developme
 
 ## The Role of White Clover
 
-White clover (*[[soil-food-web]], including earthworms, springtails, and beneficial fungi, all of which contribute to nutrient cycling and plant health.
+White clover (*[[soil-food-web]], including earthworms, springtails, and beneficial fungi, all of which contribute to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and plant health.
 
 ## The Annual Cycle in Detail
 
 ### Phase 1: Rice Growing Season (June–October)
 
-The rice grows through the clover mat, which has been temporarily weakened by flooding. During the main growing season, the clover is partially suppressed by the rice canopy and the standing water, but it survives in the understory. The rice draws on nutrients mineralized from the decomposing straw mulch and from the clover's nitrogen fixation. No fertilizer is applied; no pesticides are sprayed; no weeding is performed.
+The rice grows through the clover mat, which has been temporarily weakened by flooding. During the main growing season, the clover is partially suppressed by the rice canopy and the standing water, but it survives in the understory. The rice draws on nutrients mineralized from the decomposing straw mulch and from the clover's [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. No fertilizer is applied; no pesticides are sprayed; no weeding is performed.
 
 ### Phase 2: Harvest and Transition (October–November)
 
@@ -47,7 +47,7 @@ The return of all crop straw to the field is essential to the system's sustainab
 
 - Rice straw returned in autumn feeds the winter grain crop and the soil microbiome.
 - Barley/wheat straw returned in spring feeds the rice crop and the soil microbiome.
-- The continuous cycle of straw addition and decomposition maintains soil organic matter levels and supports the diverse microbial community that makes the system function.
+- The continuous cycle of straw addition and decomposition maintains soil organic matter levels and supports the diverse [[edaphic-factors-microbial-community-structure]] that makes the system function.
 
 Fukuoka emphasized that the straw should be scattered uncut — not chopped or incorporated into the soil. The long straw forms a loose mat that protects the soil surface without smothering the growing crops, and it breaks down gradually over the course of the growing season, providing a steady supply of organic matter.
 
@@ -58,7 +58,7 @@ Fukuoka reported consistent yields of approximately 22 bushels (1,300 pounds) of
 The labor requirement was dramatically reduced compared to conventional farming. Fukuoka estimated that the labor of one or two people was more than enough to grow crops on a quarter-acre. The essential tasks were:
 
 1. Broadcasting winter grain and clover seed over the rice crop in autumn
-2. Harvesting, threshing, and scattering straw in autumn
+2. Harvesting, threshing, and [[fukuoka-scattering-straw-technique]] in autumn
 3. Preparing and scattering clay pellets containing rice seed in winter
 4. Harvesting, threshing, and scattering straw in late spring
 5. Briefly flooding the field in June
@@ -75,8 +75,12 @@ Fukuoka's clover-based system embodies several key ecological principles that ha
 The relationship between the clover, the grain crops, and the soil microbiome is fundamentally mutualistic. The clover provides nitrogen; the grain crops provide carbon through [[water-management]] techniques may be unfamiliar.
 - On sloping land, the system would need modification to prevent water runoff and erosion.
 
-Despite these limitations, the core principles — living mulch, biological nitrogen fixation, straw return, minimal disturbance — are universally applicable and have been successfully adapted to many different climates and cropping systems around the world.
+Despite these limitations, the core principles — living mulch, [[biological-nitrogen-fixation-agriculture]] fixation, straw return, minimal disturbance — are universally applicable and have been successfully adapted to many different climates and cropping systems [[fungi-around-the-world-species-distribution]].
 
 ## References
 
 - Fukuoka, M. (1985). *The Natural Way of Farming: The Theory and Practice of [[fukuoka-no-till-rice-barley-clover-succession]]
+
+## See Also
+
+- fukuoka-rice-barley-clover-succession-method-details

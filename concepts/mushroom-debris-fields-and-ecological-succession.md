@@ -1,5 +1,5 @@
 ---
-title: Mushroom Debris Fields and Ecological Succession
+title: Mushroom Debris Fields and holmgren-ecological-succession-and-pulsing
 created: 2026-04-28
 tags:
   - ecology
@@ -24,7 +24,7 @@ clear-cutting, storms, fires, landslides, or human construction activity.
 Wherever a catastrophe creates a field of debris, whether from downed trees
 or an oil spill, many fungi respond with waves of mycelium. This adaptive
 ability reflects the deep-rooted ancestry and diversity of fungi, which have
-evolved to become the primary recyclers of organic matter on Earth.
+evolved to become the primary recyclers of [[hamilton-composting-and-organic-matter-management]] on Earth.
 
 ## The Debris Field as a Fungal Frontier
 
@@ -61,7 +61,7 @@ that follow.
 
 Fungi do not merely decompose organic matter passively. They actively
 engineer their environments in ways that benefit entire biological
-communities. Mycelial networks hold soils together and aerate them. Fungal
+communities. [[fungal-mycelial-networks-nutrient-translocation]] hold soils together and aerate them. Fungal
 enzymes, acids, and antibiotics dramatically affect soil condition and
 structure, creating physical channels that improve water infiltration and
 gas exchange.
@@ -73,8 +73,8 @@ that cleans water passing through it. This has been demonstrated with
 [[arbuscular-mycorrhizal-fungi]]
 populations shifts dramatically when habitats are disturbed. Deforestation
 causes a rise in saprophytes and a decline in mycorrhizal mushrooms,
-delaying forest regeneration because mycorrhizal fungi are essential
-partners for tree seedlings. The loss of mycorrhizal networks can delay
+delaying forest regeneration because [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] are essential
+partners for tree seedlings. The loss of [[dighton-mycorrhizal-networks-carbon-transfer]] can delay
 natural reforestation for decades.
 
 ## Human-Caused Debris Fields
@@ -118,7 +118,7 @@ between the two.
 Year-round, fungi decompose and recycle plant debris, filter microbes and
 sediments from runoff, and restore soil. Life-sustaining soil is created
 from debris, particularly dead wood. Mushrooms themselves are nourishment
-for worms, insects, mammals, bacteria, and parasitic fungi. Without fungi,
+for worms, insects, mammals, bacteria, and [[escovopsis-parasitic-fungi-attine-ant-gardens]]. Without fungi,
 dead plant material would accumulate indefinitely and soil would become
 progressively impoverished. The mycelial network is the circulatory system
 of the land, continuously moving nutrients from dead organisms to living

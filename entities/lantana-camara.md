@@ -15,7 +15,7 @@ tags:
 sources:
   - Ghisalberti, E.L. (2000). "Lantana camara — A Review of Its Phytochemistry and Toxicology." Phytochemistry, 57(5), 689-697.
   - Sharma, O.P. et al. (2007). "Lantana camara Linn.: A review." Pharmacognosy Reviews, 1(2), 348-355.
-  - Day, M.D. et al. (2003). "Lantana camara: A Global Weed." In: Biological Control of Weeds, CSIRO Publishing.
+  - Day, M.D. et al. (2003). "Lantana camara: A Global Weed." In: [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] of Weeds, CSIRO Publishing.
   - Bhadoria, B.S.S. (2012). "Lantana weed (Lantana camara) and its management." Scientific Publishers.
   - https://www.cabi.org/isc/datasheet/30936
 ---
@@ -46,7 +46,7 @@ Fruit is a small, fleshy drupe, 5–8 mm in diameter, green when immature, turni
 
 ## Distribution and Invasive Biology
 
-Native range extends from southern Texas (USA) through Central America and the Caribbean to northern Argentina and southern Brazil, primarily in tropical lowland and premontane habitats.
+Native range extends from southern Texas (USA) through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and the Caribbean to northern Argentina and southern Brazil, primarily in tropical lowland and premontane habitats.
 
 L. camara has been introduced to over 60 countries across Africa, Asia, Oceania, and Pacific islands. In many regions it has become the dominant woody weed of pastures, forests, and disturbed land.
 
@@ -76,7 +76,7 @@ African traditional medicine employs L. camara roots for snakebite, leaf infusio
 
 In vivo studies have confirmed anti-inflammatory activity of leaf extracts in carrageenan-induced paw edema models, with potency comparable to indomethacin at equivalent doses.
 
-Antimicrobial activity has been demonstrated against Staphylococcus aureus, Escherichia coli, Pseudomonas aeruginosa, and Candida albicans, with MIC values ranging from 100–500 µg/mL.
+Antimicrobial activity has been demonstrated against Staphylococcus aureus, Escherichia coli, Pseudomonas aeruginosa, and [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]], with MIC values ranging from 100–500 µg/mL.
 
 Antioxidant activity (DPPH IC₅₀ = 45–80 µg/mL for leaf extracts) is attributed primarily to the flavonoid and phenolic acid content. Hepatoprotective effects against CCl₄-induced liver damage have also been documented.
 
@@ -94,7 +94,7 @@ Lantana poisoning in cattle is treated with supportive care (fluid therapy, hepa
 
 Despite its invasive reputation, L. camara has niche applications in permaculture systems where containment is possible. It serves as a drought-hardy, low-maintenance barrier hedge and ornamental.
 
-In its native range, it provides nectar for butterflies and hummingbirds, and its dense thickets offer shelter for small birds and beneficial insects.
+In its native range, it provides nectar for butterflies and hummingbirds, and its dense thickets offer shelter for small birds and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]].
 
 Some permaculture practitioners use chipped L. camara as a mulch, noting that allelopathic compounds degrade during composting. However, this practice carries risk of spreading viable stem fragments.
 
@@ -104,7 +104,7 @@ Several biological control agents have been deployed against L. camara with vary
 
 The leaf-mining beetle Octotoma scabripennis and the seed-feeding fly Ophiomyia lantanae have been released in Australia, South Africa, and India, contributing to localized population reductions.
 
-The fungal pathogen Mycovellosiella lantanae causes leaf spot disease and has shown promise as a bioherbicide, though field efficacy has been inconsistent across climatic zones.
+The [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] Mycovellosiella lantanae causes leaf spot disease and has shown promise as a bioherbicide, though field efficacy has been inconsistent across [[permaculture-designers-manual-climatic-zones-tropical]].
 
 Integrated management combining biological control with mechanical clearing and replanting of competitive native species is considered the most sustainable approach for large-scale L. camara management.
 
@@ -113,4 +113,4 @@ Integrated management combining biological control with mechanical clearing and 
 - [[artemisia-annua]] — medicinal plant with antimalarial properties
 - [[silybum-marianum]] — hepatoprotective plant for liver support
 - [[moringa-oleifera]] — multi-purpose tropical medicinal plant
-- [[glycine-max-soybean-permaculture]] — nitrogen-fixing plant for tropical systems
+- [[glycine-max]] — nitrogen-fixing plant for tropical systems

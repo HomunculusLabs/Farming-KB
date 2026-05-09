@@ -18,7 +18,7 @@ Panaeolus subbalteatus does not benefit from cold shock. This species initiates 
 
 ### Easy-Fruiting Strains of Psilocybe cubensis
 
-Not all cubensis strains require cold shock. Easy-fruiting varieties such as the "Ecuador" strain pin readily under standard fruiting conditions with adequate light, humidity, and air exchange. For these strains, cold shock is an unnecessary step that adds time to the cultivation cycle without providing any benefit. The Ecuador strain in particular is noted for its reliable fruiting without temperature manipulation.
+Not all [[cap-vs-stem-alkaloid-distribution-psilocybe-cubensis-strains-bigwood-beug]] require cold shock. Easy-fruiting varieties such as the "Ecuador" strain pin readily under standard fruiting conditions with adequate light, humidity, and air exchange. For these strains, cold shock is an unnecessary step that adds time to the cultivation cycle without providing any benefit. The Ecuador strain in particular is noted for its reliable fruiting without temperature manipulation.
 
 ## Practical Decision Framework
 
@@ -47,17 +47,17 @@ Cold shock can be safely omitted when:
 For strains that do benefit from cold shock, the procedure is straightforward:
 
 1. Ensure the substrate is fully colonized with no visible uncolonized areas
-2. If cased, ensure the mycelium has colonized through the casing layer
+2. If cased, ensure the mycelium has colonized through the [[gourmet-medicinal-mushroom-casing-layer-techniques]]
 3. Place the cased tray or jar in a refrigerator at 2-4°C for 12-24 hours
-4. Remove and immediately transfer to the [[pinhead-initiation-fruiting-triggers]]
-- [[mushroom-flush-dynamics-variation-fruiting-cycles]]
+4. Remove and immediately transfer to the [[stamets-pinning-initiation-stages-environmental-control]]
+- mushroom-flush-dynamics-variation-fruiting-cycles
 
 ---
 
 *Source: Gartz et al., cultivation guidance on fruiting parameters for Psilocybe and Panaeolus species*
 ## Practical Considerations
 
-When working with Species Specific Cold Shock Fruiting Guide, several practical factors should be
+When working with Species Specific Cold [[cold-shock-fruiting-selectivity-psilocybe-species]] Guide, several practical factors should be
 carefully considered to achieve optimal results. These include
 the specific conditions of the implementation context, available
 resources, timing requirements, and the interactions between this
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

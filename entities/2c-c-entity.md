@@ -11,8 +11,8 @@ sources:
 
 **Chemical name:** 2,5-Dimethoxy-4-chlorophenethylamine
 
-**PiHKAL #22** | [[2c-family-compounds-overview]] and the halogen series. It is the chlorine analogue in the halogen series (2C-F, 2C-C, 2c-b-entity|2C-B, 2C-I), positioned between the theoretical fluorine analogue and the widely-used bromine compound. First synthesized and bioassayed by [[psychedelic-harm-reduction]] for general harm reduction guidelines
-- Legal status: Scheduled in many countries
+**PiHKAL #22** | [[2c-family-compounds-overview]] and the halogen series. It is the chlorine analogue in the halogen series (2C-F, 2C-C, 2c-b-entity|2C-B, 2C-I), positioned between the theoretical fluorine analogue and the widely-used bromine compound. First synthesized and bioassayed by [[psychedelic-harm-reduction]] for general [[adverse-effects-and-harm-reduction-psilocybin]] guidelines
+- [[ayahuasca-tourism-legal-status-by-country]]: Scheduled in many countries
 
 ## Related Compounds
 
@@ -96,4 +96,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

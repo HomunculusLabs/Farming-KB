@@ -1,5 +1,5 @@
 ---
-title: "Tomato vs Pepper Growing"
+title: "comparison tomato vs pepper growing Growing"
 created: 2026-04-28
 tags:
   - vegetables
@@ -9,7 +9,8 @@ tags:
   - peppers
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -26,12 +27,12 @@ Tomatoes and peppers are two of the most popular garden crops, sharing some grow
 - Select resistant varieties labeled with V, F, N codes
 
 **Common pepper problems:**
-- Blossom end rot (calcium deficiency or uneven watering)
+- Blossom end rot ([[knf-calcium-deficiency-symptoms]] or uneven watering)
 - Sunscald on exposed fruit
 - Flower drop in high heat
 - Aphids are a frequent pest, especially on new growth
 
-Both crops benefit from good air circulation, proper spacing, and avoiding overhead watering to minimize disease pressure. Rotate crops each season to prevent soil-borne pathogen buildup.
+Both crops benefit from good [[stamets-growing-room-air-circulation-co2-management]], proper spacing, and avoiding overhead watering to minimize disease pressure. Rotate crops each season to prevent soil-borne pathogen buildup.
 
 ## Harvesting
 
@@ -50,7 +51,7 @@ Grow **tomatoes** if you want high yields, continuous harvests, and versatile fr
 
 Grow **peppers** if you have limited space, prefer lower-maintenance plants, or want to explore the wide world of heat levels and flavors. They are excellent candidates for container growing (5+ gallon minimum) and pair well with tomatoes in the garden layout.
 
-Many gardeners grow both successfully, and companion planting tomatoes alongside peppers and [[bean-growing-guide]] can create a productive and diverse garden bed. Both crops benefit from crop rotation to prevent soil-borne disease buildup.
+Many gardeners grow both successfully, and [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] tomatoes alongside peppers and [[bean-growing-guide]] can create a productive and diverse garden bed. Both crops benefit from [[comparison-crop-rotation-vs-cover-cropping]] to prevent soil-borne disease buildup.
 ## Practical Considerations
 
 When working with Tomato vs Pepper Growing, several practical factors should be
@@ -67,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

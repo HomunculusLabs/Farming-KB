@@ -1,11 +1,12 @@
 ---
-title: Grow Room Electricity Basics
+title: cannabis-grow-room-setup Electricity Basics
 created: 2026-04-28
 tags: [cannabis, electricity, safety, wiring, indoor-growing]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -14,7 +15,7 @@ type: concept
 You don't need to understand the basics of electricity to grow indoors
 or in a greenhouse, but understanding the fundamentals will save you
 money, time, and possibly the shock of your life. This page covers
-essential electrical concepts for setting up a safe indoor cannabis garden. See also [[cervantes-ballasts-hid-electrical]].
+essential electrical concepts for setting up a safe [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]] garden. See also [[cervantes-ballasts-hid-electrical]].
 
 ## Safety First
 
@@ -51,7 +52,7 @@ Example: A halide lamp that draws about 9.2 amperes x 120 volts =
 
 ### Hertz
 Irregular fluctuations or cycles in electricity within a conductor. In
-the United States, electricity runs at 60 hertz (Hz), or cycles, per
+the [[dmt-containing-plants-united-states-halpern]], electricity runs at 60 hertz (Hz), or cycles, per
 second.
 
 ## Circuit Overload Chart
@@ -65,7 +66,7 @@ second.
 | 40             | 32        | 33       |
 
 Connect only one 1000-watt HID to a 15, 20, or 25 ampere 120-volt
-(North American) circuit. Connect two 1000-watt HID's to a 15 ampere
+([[growing-gourmet-north-american-reishi-species]]) circuit. Connect two 1000-watt HID's to a 15 ampere
 240-volt (European) circuit.
 
 ## Safety Components

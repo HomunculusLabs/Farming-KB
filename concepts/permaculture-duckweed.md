@@ -3,15 +3,13 @@ title: Duckweed
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[permaculture, design]
-sources: []
+tags: [permaculture, design]
+sources:
+  sources: []
 ---
+Updated: 2026-04-18 Duckweed (Lemna spp.) is a tiny floating aquatic plant that is extremely high in protein — even more than soybeans. It serves as animal feed, human food in some cultures, and pond management tool. It plays a unique role in [[compost-building-guide]] ingredient when harvested
 
-Updated: 2026-04-18
-
-Duckweed (Lemna spp.) is a tiny floating aquatic plant that is extremely high in protein — even more than soybeans. It serves as animal feed, human food in some cultures, and pond management tool. It plays a unique role in [[compost-building-guide]] ingredient when harvested
-
-- Wastewater treatment and water purification
+- [[mollison-designers-wastewater-treatment-wetlands]] and water purification
 
 ## Growing
 
@@ -25,7 +23,7 @@ Duckweed (Lemna spp.) is a tiny floating aquatic plant that is extremely high in
 
 ## Water Purification
 
-Duckweed is remarkably effective at removing excess nutrients, heavy metals, and contaminants from water. It has been used in constructed wetlands and wastewater treatment systems worldwide. The plants absorb nitrogen and phosphorus from the water, preventing algal blooms and eutrophication.
+Duckweed is remarkably effective at removing excess nutrients, [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]], and contaminants from water. It has been used in [[comparison-constructed-wetlands-vs-bioswales]] and wastewater treatment systems worldwide. The plants absorb nitrogen and phosphorus from the water, preventing algal blooms and eutrophication.
 
 ## Harvesting and Processing
 
@@ -37,7 +35,7 @@ Duckweed is remarkably adaptable and grows in climates from tropical to temperat
 
 ## Human Consumption
 
-In parts of Southeast Asia, duckweed is harvested and eaten as a vegetable. It has a mild, slightly nutty flavor when fresh. It can be added to soups, stir-fries, and salads. The high protein and mineral content make it an excellent survival food. Some varieties have been selected specifically for human food use.
+In parts of [[psilocybe-southeast-asia-pacific]], duckweed is harvested and eaten as a vegetable. It has a mild, slightly nutty flavor when fresh. It can be added to soups, stir-fries, and salads. The high protein and mineral content make it an excellent survival food. Some varieties have been selected specifically for human food use.
 
 ## See Also
 
@@ -61,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: Bean Growing Guide
+title: Bean comparison-pepper-growing-guide-vs-tomato-growing-guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Beans are one of the most productive and versatile crops in the home garden. They fix nitrogen from the air through a symbiotic relationship with rhizobia bacteria, improving soil fertility while producing abundant harvests. This guide covers pole vs bush beans, inoculation, succession planting, trellis systems, and drying beans for storage.
+Beans are one of the most productive and versatile crops in the home garden. They fix nitrogen from the air through a symbiotic relationship with rhizobia bacteria, improving soil fertility while producing abundant harvests. This guide covers pole vs bush beans, inoculation, [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]], trellis systems, and drying beans for storage.
 
 ## Pole vs Bush Beans
 
@@ -42,7 +42,7 @@ Beans are one of the most productive and versatile crops in the home garden. The
 
 ## Inoculation
 
-Bean inoculation introduces rhizobia bacteria to the soil, enabling nitrogen fixation.
+Bean inoculation introduces rhizobia bacteria to the soil, enabling [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
 
 ### Why Inoculate
 - Rhizobia bacteria form nodules on bean roots
@@ -76,14 +76,14 @@ Bean inoculation introduces rhizobia bacteria to the soil, enabling nitrogen fix
 ### Sowing
 - Direct sow only — beans dislike transplanting
 - Plant 1-2 inches deep, 2-4 inches apart in rows
-- Row spacing: 18-24 inches for bush beans, 30-36 inches for pole beans with trellis
+- [[wide-row-spacing-intensive-gardening-comparison]]: 18-24 inches for bush beans, 30-36 inches for pole beans with trellis
 - Germination: 5-10 days in warm soil
 - For pole beans on trellis: sow 3-4 seeds at the base of each support
 
 ### Seed Treatment
 - Do not pre-soak seeds — they crack easily when over-soaked
 - Some gardeners dust with inoculant only
-- Treat seeds with diatomaceous earth if seed corn maggots are a known pest
+- Treat seeds with [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]] if seed corn maggots are a known pest
 
 ## Succession Planting
 
@@ -131,7 +131,7 @@ Succession planting extends the bean harvest over many weeks.
 ### Corn Stalks (Three Sisters)
 - Pole beans climbing corn stalks as part of the traditional Three Sisters planting
 - Plant beans 2-3 weeks after corn to avoid competition
-- See [[food-forest-design]] for companion planting concepts
+- See [[food-forest-design]] for [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] concepts
 
 ## Drying Beans
 
@@ -140,42 +140,9 @@ Drying beans are left on the plant until fully mature and dry, then shelled and 
 ### Growing Dry Beans
 - Most pole and bush bean varieties can be dried, but some are specifically bred for it
 - Dry bean varieties: Black Turtle, Pinto, Navy (Pea Bean), Cranberry, Jacob's Cattle, Good Mother Stallard, Red Kidney, Anasazi
-- Allow pods to dry completely on the plant (brown, brittle, rattling)
-- If frost threatens before pods are dry, pull entire plants and hang indoors to finish drying
-
-### Harvesting and Processing
-- Shell beans by hand or thresh by beating pods in a bag
-- Winnow to separate chaff (pour between bowls in a light breeze)
-- Spread beans on screens to dry further for 1-2 weeks
-- Beans are dry enough for storage when a thumbnail cannot dent them
-
-### Storage
-- Store in airtight containers (mason jars, mylar bags)
-- Cool, dark, dry location
-- Properly dried beans store for 1-3+ years
-- Freezing for 48 hours kills any bean weevil eggs
-
-## Pests and Diseases
-
-### Common Pests
-- **Mexican bean beetle**: Orange-yellow ladybug-like beetle; larvae defoliate plants. Handpick, use row covers, or spray with kaolin clay
-- **Aphids**: Hose off, encourage ladybugs and lacewings
-- **Spider mites**: Common in hot, dry conditions; increase humidity, use insecticidal soap
-- **Seed corn maggot**: Damages sprouting seeds; avoid planting in recently tilled soil with fresh organic matter
-
-### Common Diseases
-- **Anthracnose**: Dark lesions on pods and leaves; use certified disease-free seed, rotate crops
-- **Root rot**: Caused by overly wet soil; ensure good drainage
-- **Bean common mosaic virus**: Mottled leaves, stunted growth; use resistant varieties, control aphids
-
-## Companion Planting
-
-- Good companions: corn, cucumbers, potatoes, carrots, cabbage, marigolds
-- Avoid planting near onions, garlic, or other alliums (may inhibit growth)
-- Beans benefit potatoes and corn; legume nitrogen fixation helps heavy feeders
-- See [[brassica-growing-guide]] for interplanting with cabbage family
-
 ## See Also
+
+- [[jilly-bean]]
 
 - [[cucumber-growing-guide]] for companion trellis crops
 - [[seasonal-gardening-calendar]] for bean planting dates

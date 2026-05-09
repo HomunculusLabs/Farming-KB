@@ -27,7 +27,7 @@ Chop and drop is a permaculture soil management technique in which fast-growing 
 
 The technique is one of the core practices in permaculture and regenerative agriculture, serving simultaneously as a mulching strategy, nutrient cycling method, and weed suppression tool. It eliminates the need to transport, compost, or store plant material separately.
 
-Chop and drop is used in food forests, broad-acre agroforestry, home gardens, and ecological restoration projects worldwide. It is particularly valued in tropical and subtropical systems where rapid biomass production allows for frequent cycling.
+Chop and drop is used in food forests, broad-acre agroforestry, home gardens, and ecological restoration projects worldwide. It is particularly valued in tropical and subtropical systems where rapid [[dighton-fungal-biomass-production-aquatic-ecosystems]] allows for frequent cycling.
 
 ## Principles
 
@@ -67,11 +67,11 @@ Chop and drop can be applied at several scales, from backyard gardens to broad-a
 
 **Weed suppression:** A 5–10 cm layer of fresh chop-and-drop mulch shades out weed seeds and prevents germination. This dramatically reduces weeding labor compared to bare soil management.
 
-**Erosion control:** The mulch layer absorbs the kinetic energy of rainfall, reducing surface runoff and preventing soil erosion on slopes and in high-rainfall areas.
+**[[permplant-willows-salix-erosion-control-fodder]]:** The mulch layer absorbs the kinetic energy of rainfall, reducing surface runoff and preventing soil erosion on slopes and in high-rainfall areas.
 
 **Thermal regulation:** Mulch insulates the soil surface, reducing temperature fluctuations. In hot climates, it keeps soil cooler; in cold climates, it provides frost protection for shallow roots.
 
-**Microbial habitat:** The decomposing mulch layer provides food and habitat for beneficial soil microorganisms, earthworms, and other macrofauna that drive soil health and nutrient cycling.
+**Microbial habitat:** The decomposing mulch layer provides food and [[query-how-do-i-design-habitat-for-beneficial-insects]] soil microorganisms, earthworms, and other macrofauna that drive soil health and nutrient cycling.
 
 **Pest and disease management:** A diverse chop-and-drop mulch layer supports predatory insects and ground beetles that control pest populations. Some chop-and-drop species, such as comfrey and tansy, produce allelopathic compounds that suppress certain soil-borne pathogens.
 
@@ -79,13 +79,13 @@ Chop and drop can be applied at several scales, from backyard gardens to broad-a
 
 ## Plant Selection
 
-Effective chop-and-drop species share several characteristics: rapid growth, high biomass production, ability to regrow after cutting, and ideally nitrogen fixation.
+Effective chop-and-drop species share several characteristics: rapid growth, high biomass production, ability to regrow after cutting, and ideally [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
 
 **Leguminous species:** Comfrey, pigeon pea, lablab bean, scarlet runner bean, cowpea, and various vetch species. These are preferred for their nitrogen-fixing ability.
 
-**Dynamic accumulators:** Comfrey (*Symphytum officinale*), yarrow (*Achillea millefolium*), and daikon radish are valued for their deep taproots that mine minerals from subsoil layers and deposit them in surface biomass.
+**[[comparison-dynamic-accumulators-vs-cover-crops]]:** Comfrey (*Symphytum officinale*), yarrow (*Achillea millefolium*), and daikon radish are valued for their deep taproots that mine minerals from subsoil layers and deposit them in surface biomass.
 
-**Tropical perennials:** Moringa (*Moringa oleifera*), leucaena (*Leucaena leucocephala*), tithonia (*Tithonia diversifolia*), and gliricidia (*Gliricidia sepium*) are widely used in tropical chop-and-drop systems.
+**Tropical perennials:** Moringa (*[[comparison-moringa-oleifera-vs-moringa-stenopetala]]*), leucaena (*Leucaena leucocephala*), tithonia (*Tithonia diversifolia*), and gliricidia (*Gliricidia sepium*) are widely used in tropical chop-and-drop systems.
 
 **Grasses:** Guinea grass, napier grass, and sorghum provide high-carbon mulch that decomposes more slowly than legume material, providing longer-lasting weed suppression and erosion control.
 
@@ -108,4 +108,4 @@ In [[biochar]] systems: woody chop-and-drop material can be charred before appli
 - [[silvopasture]]
 - [[guild-planting]]
 - [[no-till-grain-strategy]]
-- [[permaculture]]
+- permaculture

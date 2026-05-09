@@ -1,5 +1,5 @@
 ---
-title: Master Planning and Mini-Farm Design
+title: jeavons master planning mini farms and Mini-Farm Design
 created: 2026-04-26
 sources:
   - path: /Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.md
@@ -16,7 +16,7 @@ GROW BIOINTENSIVE sustainable mini-farming is a whole-system approach to food pr
 
 ## The Whole System Principle
 
-The GROW BIOINTENSIVE method is a whole system, and its components must be used together for optimum effect. Deep soil preparation, compost, close spacing, companion planting, carbon-efficient crops, calorie-efficient crops, open-pollinated seeds, and integrated farming system design all work synergistically. If any component is missing — particularly the recycling of all wastes and the growing of sufficient organic matter — the high yields can rapidly deplete the soil.
+The GROW BIOINTENSIVE method is a whole system, and its components must be used together for optimum effect. Deep soil preparation, compost, close spacing, [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]], carbon-efficient crops, calorie-efficient crops, open-pollinated seeds, and integrated farming system design all work synergistically. If any component is missing — particularly the recycling of all wastes and the growing of sufficient [[hamilton-composting-and-organic-matter-management]] — the high yields can rapidly deplete the soil.
 
 This means that planning a mini-farm is not simply deciding what vegetables to plant where. It is designing a closed-loop system that produces food, carbon, calories, seeds, and soil fertility simultaneously.
 
@@ -98,7 +98,7 @@ Consider spacing and maturation times when developing the plan. Plant both early
 
 ## Planning for Soil Fertility
 
-A key planning consideration is producing enough compost to maintain soil fertility. The standard application rate is approximately 4 to 12 five-gallon buckets of compost per 100 square feet per 4-month growing season. Each 100-square-foot bed requires about 3 to 9 cubic feet of cured compost.
+A key planning consideration is producing enough compost to maintain soil fertility. The standard application rate is approximately 4 to 12 five-gallon buckets of compost per 100 square feet per 4-month [[savory-growing-season-and-non-growing-season-management]]. Each 100-square-foot bed requires about 3 to 9 cubic feet of cured compost.
 
 The first trench of a double-dig provides soil for making compost (about 6 five-gallon buckets) and flat soil (about 1 bucket). This soil is returned to the bed in the form of finished compost, completing the nutrient cycle.
 
@@ -106,7 +106,7 @@ The first trench of a double-dig provides soil for making compost (about 6 five-
 
 Within each bed, you can create sections for heavy feeders, heavy givers, and light feeders. This is effectively companion planting both in space and in time, since root systems extend 1 to 4 feet around each plant. An easier approach than intermingling different crops is to create separate sections within each bed.
 
-Some universally beneficial companion plants include lemon balm, marjoram, oregano, stinging nettle, valerian, chamomile, and dandelion. These are traditionally planted in a section along one end of the bed so they need not be replanted each season.
+Some universally beneficial companion plants include lemon balm, marjoram, oregano, [[comparison-stinging-nettle-vs-horsetail]], valerian, chamomile, and dandelion. These are traditionally planted in a section along one end of the bed so they need not be replanted each season.
 
 ## Local Information Gathering
 
@@ -129,4 +129,4 @@ Ecology Action has developed a complete 21-bed mini-farm plan designed to produc
 - [[jeavons-calorie-farming]] — Calorie-efficient crop selection
 - [[jeavons-composting-methods]] — Compost production for soil fertility
 - [[jeavons-flat-preparation-seedling-raising]] — Seedling production
-- [[jeavons-soil-fertility]] — Nutrient management
+- [[jeavons-soil-fertility]] — [[green-cannabis-grow-bible-nutrient-management-ppm]]

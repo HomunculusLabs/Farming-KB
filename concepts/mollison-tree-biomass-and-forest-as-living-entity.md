@@ -1,5 +1,5 @@
 ---
-title: Tree Biomass and the Forest as Living Entity
+title: mollison tree biomass and forest as living entity and the Forest as Living Entity
 created: 2026-04-26
 tags:
   - permaculture
@@ -126,7 +126,7 @@ sources, trees actively mine the base rock and soils for minerals.
 
 Understanding the forest as a living entity transforms how we design:
 
-- **Forest gardens**: Design as integrated bodies, not collections of
+- **[[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]**: Design as integrated bodies, not collections of
   separate species. Each element supports the whole.
 
 - **Wind indicators**: The condition of older trees is the best guide
@@ -134,14 +134,15 @@ Understanding the forest as a living entity transforms how we design:
   intensity through their deformation patterns (the Griggs and
   Putnam index).
 
-- **Nutrient cycling**: Design systems where every output is an
+- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]**: Design systems where every output is an
   input, mimicking the closed-loop nutrient cycles of a forest.
 
 - **Guild planting**: Assemble plant communities that function as
-  integrated organisms, with each species performing multiple
-  roles for the benefit of the whole assembly.
 ## See Also
 
-- [[mollison-guild-design]]
+- mollison-guild-design
 - [[mollison-tree-crop-systems-permaculture]]
 - [[cynara-scolymus-entity]]
+- [[decomposition]]
+- [[forest-gardens]]
+- [[guild-planting]]

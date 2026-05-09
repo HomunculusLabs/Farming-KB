@@ -101,6 +101,6 @@ those better suited for managing hyperactivity:
 
 ## Key References
 
-Blesching, U. (2017). *The Cannabis Health Index*. North Atlantic Books.
+Blesching, U. (2017). *The [[blesching-cannabis-health-index-autoimmune-conditions]]*. North Atlantic Books.
 See Chapter on neurocognitive and attention disorders for full study
-citations and CHI scoring methodology.
+citations and [[blesching-cannabis-chi-scoring-evidence-based-medicine]] methodology.

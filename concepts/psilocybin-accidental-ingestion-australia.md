@@ -1,5 +1,5 @@
 ---
-title: Accidental Psilocybin Mushroom Ingestion in Australia
+title: Accidental emcdda-psilocybin-mushroom-dose-and-effects Ingestion in Australia
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 # Accidental Psilocybin Mushroom Ingestion in Australia
 
-Ancient or historic evidence of cerebral mycetisms induced by the accidental ingestion of hallucinogenic mushrooms has been documented in various parts of the world. Early reports come from China in the 3rd century A.D., Japan during the eleventh century, Great Britain in 1799, the United States in the early 1900s, and France in the early 1960s. Australia has its own distinctive history of accidental ingestions, documented from the early 20th century onward.
+Ancient or historic evidence of cerebral mycetisms induced by the psilocybin accidental ingestion australia of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] has been documented in various parts of the world. Early reports come from China in the 3rd century A.D., Japan during the eleventh century, Great Britain in 1799, the United States in the early 1900s, and France in the early 1960s. Australia has its own distinctive history of accidental ingestions, documented from the early 20th century onward.
 
 ## Early Australian Reports (1934)
 
@@ -22,7 +22,7 @@ Between 1941 and 1945, numerous reports appeared in Australian journals regardin
 
 ## Dr. A.E. Stocks and the Brisbane Hospital Cases (1963)
 
-According to Dr. A.E. Stocks (1963), between 1957 and 1963, eleven patients were admitted to the Princess Alexandra Hospital in Brisbane due to complications from poisoning by various species of toxic and/or mind-altering fungi. Five of these cases were definitively caused by psilocybian mushrooms (*Psilocybe cubensis*), and two other patients were also probably affected by psilocybian intoxication. Stocks failed to mention whether the ingestions were accidental or deliberate, and he inadvertently misattributed an unpleasant experience to Wasson when he was likely referring to Albert Hofmann's or Dr. Sam Stein's accounts.
+According to Dr. A.E. Stocks (1963), between 1957 and 1963, eleven patients were admitted to the Princess Alexandra Hospital in Brisbane due to complications from poisoning by various species of toxic and/or mind-altering fungi. Five of these cases were definitively caused by psilocybian mushrooms (*[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*), and two other patients were also probably affected by psilocybian intoxication. Stocks failed to mention whether the ingestions were accidental or deliberate, and he inadvertently misattributed an unpleasant experience to Wasson when he was likely referring to Albert Hofmann's or Dr. Sam Stein's accounts.
 
 Stocks's paper presented two detailed case histories of psilocybian intoxication:
 
@@ -54,10 +54,10 @@ A particularly notable case involved a 3-year-old girl from Campbelltown, a subu
 
 The inherent danger from ingesting wild mushrooms lies not so much in consuming a hallucinogenic variety, but in picking and eating a toxic species that resembles a psychoactive one. Notable risks include:
 
-- **Galerina autumnalis** — a deadly poisonous species. A 16-year-old girl from Whidbey Island, Washington died in December 1981 after accidentally eating several fresh specimens she and her companions believed were psilocybin mushrooms. They delayed seeking medical help for two days due to fear of prosecution.
-- **Chlorophyllum molybdites** ("green gills" or "Morgan's Lepiota") — considered toxic but not deadly. Common in Australia and occasionally mistaken for *Psilocybe cubensis*. In Tampa, Florida, over 90% of mushroom poisonings were reportedly caused by this species.
+- **Galerina autumnalis** — a deadly poisonous species. A 16-year-old girl from Whidbey Island, Washington died in December 1981 after accidentally eating several fresh specimens she and her companions believed were [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]. They delayed seeking medical help for two days due to fear of prosecution.
+- **[[guzman-chlorophyllum-molybdites-toxic-edible-paradox-yoruba-divinatory-use]]** ("green gills" or "Morgan's Lepiota") — considered toxic but not deadly. Common in Australia and occasionally mistaken for *Psilocybe cubensis*. In Tampa, Florida, over 90% of mushroom poisonings were reportedly caused by this species.
 
-For a comprehensive overview of these dangers, see [[mushroom-poisoning-and-lookalikes]].
+For a comprehensive overview of these dangers, see mushroom-poisoning-and-lookalikes.
 
 ## Treatment Approaches
 
@@ -77,8 +77,12 @@ Tranquilizers need only be used in extreme situations. Diazepam, 0.1 mg/kg in ch
 
 ### Warning Against Anti-Cholinergic Anti-Psychotics
 
-Dr. Rick Strassman of the University of New Mexico warned that anti-psychotics have gone out of favour for treating bad trips. Specifically, medicines with anti-cholinergic side effects, such as chlorpromazine, should not be given, as psilocybian mushrooms can have marked anti-cholinergic effects of their own. This is an important harm-reduction consideration documented in [[mushroom-poisoning-and-lookalikes]] — Comprehensive guide to toxic mushroom lookalikes
+Dr. Rick Strassman of the University of New Mexico warned that anti-psychotics have gone out of favour for treating bad trips. Specifically, medicines with anti-cholinergic side effects, such as chlorpromazine, should not be given, as psilocybian mushrooms can have marked anti-cholinergic effects of their own. This is an important harm-reduction consideration documented in mushroom-poisoning-and-lookalikes — Comprehensive guide to toxic mushroom lookalikes
 - [[psilocybin-mushroom-legal-history]] — Legal context surrounding psilocybin in Australia
-- [[australian-nz-psychoactive-mushroom-species]] — Species identification reference
+- australian-nz-psychoactive-mushroom-species — Species identification reference
 - [[insect-allies]] — Author documenting these case studies
-- [[hallucinogenic-mushroom-health-risks-and-harm-reduction]]
+- hallucinogenic-mushroom-health-risks-and-harm-reduction
+
+## See Also
+
+- [[psilocybin-accidental-ingestion-cases]]

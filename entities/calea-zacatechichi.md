@@ -12,8 +12,8 @@ sources:
 # Calea zacatechichi
 
 Calea zacatechichi is a flowering plant in the aster family (Asteraceae),
-native to montane regions of southern Mexico and Central America. It is
-widely known as "dream herb" or "leaf of God" (hoja de Dios) for its
+native to montane regions of southern Mexico and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. It is
+widely known as "[[calea-zacatechichi-dream-herb-ethnobotany]]" or "leaf of God" (hoja de Dios) for its
 traditional use among the Chontal people of Oaxaca, who consume dried
 leaves as tea or smoke them to induce vivid, lucid, and prophetic dreams.
 The species is one of the few plants with well-documented ethnobotanical
@@ -25,7 +25,7 @@ and cholinergic system effects.
 
 The plant was first described by Carl Friedrich Philipp von Martius in the
 19th century. Its ethnopharmacological significance was established
-through the fieldwork of Richard Evans Schultes and chemical investigations
+through the fieldwork of Richard [[richard-evans-schultes-updated]] and chemical investigations
 by Leander et al. in the 1980s-2000s. The dream-modifying compounds remain
 incompletely characterized, though sesquiterpene lactones and flavonoids
 are considered primary candidates.
@@ -92,7 +92,7 @@ The Chontal classify the plant as a "dream clarifier" rather than a
 hallucinogen. Users report increased dream recall, more vivid dreams,
 and sometimes the ability to consciously direct dream content. Traditional
 use is oriented toward problem-solving and receiving prophetic guidance.
-The plant is also used for stomach pain, fever, skin conditions, and
+The plant is also used for stomach pain, fever, [[cannabis-for-skin-conditions-detailed]], and
 respiratory ailments.
 
 ## Chemistry and Active Compounds
@@ -105,7 +105,7 @@ respiratory ailments.
 | Quercetagetin | Flavonol | 0.05-0.2% | Antioxidant |
 | Luteolin | Flavone | Trace-0.1% | Anxiolytic, antioxidant |
 | Apigenin | Flavone | Trace | Mild anxiolytic; GABA-A modulation |
-| Pinene | Monoterpene | Essential oil | Bronchodilator, memory-enhancing |
+| Pinene | Monoterpene | [[permaculture-designers-manual-essential-oil-plants]] | Bronchodilator, memory-enhancing |
 
 No single compound has been definitively identified as the primary
 dream-modifying agent. Effects may result from synergistic interactions
@@ -121,7 +121,7 @@ Research has focused on three main areas:
 - **Hypnotic activity:** Animal studies demonstrate dose-dependent
   sedative effects with prolonged sleep duration.
 - **Antimicrobial/cytotoxic:** Moderate activity against Gram-positive
-  bacteria and cytotoxic effects against certain cancer cell lines.
+  bacteria and cytotoxic effects against certain [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines.
 
 ## Cultivation
 

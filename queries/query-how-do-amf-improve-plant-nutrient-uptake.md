@@ -1,5 +1,5 @@
 ---
-title: "How Do Arbuscular Mycorrhizal Fungi (AMF) Improve Plant Nutrient Uptake?"
+title: "How Do comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi Fungi (AMF) query how do amf improve plant nutrient uptake Uptake?"
 created: 2026-04-28
 tags: [query, mycorrhiza, soil-biology, plant-nutrition, symbiosis]
 date: 2026-04-25
@@ -33,7 +33,7 @@ This extension can be up to 1,000-fold compared to roots alone.
 During drought conditions, this extended hyphal network allows plants to access water from deeper soil layers.
 AMF hyphae also access water from micropores too small for root hairs to penetrate.
 The [[fungi-in-the-environment-symbiotic-relationships]] research demonstrates that AMF triggers systemic defense responses.
-Plants colonized by AMF show increased resistance to soilborne diseases including root rot and Fusarium wilt.
+Plants colonized by AMF show increased resistance to soilborne diseases including [[cannabis-root-rot-prevention-and-treatment]] and Fusarium wilt.
 The [[teaming-with-microbes-humus-formation-and-glomalin]].
 Better soil aggregation improves root aeration and drainage, further reducing disease pressure.
 
@@ -51,7 +51,7 @@ Key practices that support AMF include minimizing tillage, avoiding excessive ph
 - AMF extend the effective root zone by up to 1,000-fold through microscopic hyphal networks
 - They are especially effective at mobilizing immobile phosphorus and micronutrients from soil micropores
 - AMF hyphae improve drought resilience by accessing water from soil pores too small for roots
-- Mycorrhizal colonization triggers systemic plant defense responses against soilborne pathogens
+- [[arbuscular-mycorrhizal-colonization-patterns]] triggers systemic plant defense responses against soilborne pathogens
 - Soil tillage, high-phosphorus fertilizers, and fungicides reduce AMF diversity and colonization
 - Diverse AMF communities provide broader benefits than any single species
 - AMF contribute to soil aggregation through glomalin production, improving soil structure
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

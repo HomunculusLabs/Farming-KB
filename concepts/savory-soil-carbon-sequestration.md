@@ -12,7 +12,7 @@ updated: 2026-04-26
 
 # Soil Carbon Sequestration Through Holistic Grazing
 
-Soil is the largest carbon reservoir in the terrestrial system. The mineral cycle—one of the four ecosystem foundation blocks—depends critically on maintaining and building soil carbon through biological processes. Holistic management provides a framework for accelerating soil carbon accumulation through properly managed grazing.
+Soil is the largest carbon reservoir in the terrestrial system. The mineral cycle—one of the four [[savory-ecosystem-foundation-blocks]] blocks—depends critically on maintaining and building soil carbon through biological processes. [[savory-holistic-management-overview]] provides a framework for accelerating soil carbon accumulation through properly managed grazing.
 
 ## Soil as a Living System
 
@@ -33,8 +33,8 @@ Humus is the end product of biological decomposition. It is a complex, relativel
 - **Improves soil structure**: Binds mineral particles into crumb aggregates with good porosity
 - **Increases water-holding capacity**: Humus can hold four to five times its weight in water
 - **Buffers pH**: Moderates both acid and alkaline conditions
-- **Holds nutrients**: Provides cation exchange capacity that makes minerals available to plants
-- **Feeds soil life**: Provides energy and habitat for beneficial organisms
+- **Holds nutrients**: Provides [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity that makes minerals available to plants
+- **Feeds soil life**: Provides energy and [[query-how-do-i-design-habitat-for-beneficial-insects]] organisms
 - **Sequesters carbon**: Locks atmospheric carbon into stable soil organic matter for long periods
 
 The loss of humus through oxidation, erosion, or leaching is a primary driver of soil degradation. Its restoration is central to reversing desertification.
@@ -97,7 +97,7 @@ Practical indicators of soil carbon change include:
 
 ## Carbon Sequestration as a Management Outcome
 
-Soil carbon sequestration is not the primary goal of holistic management—it is an inevitable outcome of restoring effective ecosystem processes. When the water cycle, mineral cycle, energy flow, and community dynamics are all functioning effectively, soil carbon increases naturally.
+Soil carbon sequestration is not the primary goal of holistic management—it is an inevitable outcome of restoring effective [[fungal-ecosystem-processes-overview]]. When the water cycle, mineral cycle, energy flow, and community dynamics are all functioning effectively, soil carbon increases naturally.
 
 This distinction matters because managing specifically for carbon—through practices that may optimize one process at the expense of others—can produce unintended consequences. The holistic framework ensures that management decisions consider all four ecosystem foundation blocks simultaneously.
 
@@ -105,10 +105,13 @@ The potential magnitude of carbon sequestration through restored grasslands is s
 
 ## Sources
 
-- Savory, Allan. *Holistic Resource Management*, Chapters 10, 11. Island Press, 1988.
+- Savory, Allan. *[[savory-holistic-resource-management-animal-impact]] Management*, Chapters 10, 11. Island Press, 1988.
 
 ## See Also
 
-- [[mycorrhizal-carbon-cycling-soil-sequestration]]
+- mycorrhizal-carbon-cycling-soil-sequestration
 - [[permaculture-grazing-and-pasture]]
 - [[fukuoka-natural-livestock-integration-philosophy]]
+- [[decomposition]]
+- [[building-soil]]
+- [[cation-exchange-capacity]]

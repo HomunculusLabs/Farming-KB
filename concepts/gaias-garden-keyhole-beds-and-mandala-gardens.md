@@ -1,5 +1,5 @@
 ---
-title: Gaia's Garden Keyhole Beds and Mandala Gardens
+title: Gaia's gaias garden keyhole beds and mandala gardens Beds and Mandala Gardens
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -51,19 +51,19 @@ Keyholes can extend left and right from a central walkway. An undulating path fl
 
 ## Mandala Garden
 
-A mandala garden is a set of four to eight keyhole beds arranged in a circle with one more bed in the center, and a single path entering from one side.
+[[query-what-is-a-mandala-garden-in-permaculture]] is a set of four to eight keyhole beds arranged in a circle with one more bed in the center, and a single path entering from one side.
 
 ### Benefits
 
 - Combines beauty and efficiency with a magical, spiritual aesthetic
-- Few designs fit more growing space into less area
+- Few designs fit more [[cotter-growing-space-design-fruiting-rooms]] into less area
 - Creates multiple microclimates within a compact footprint
 - Central bed serves as a focal point
 - Single entrance path minimizes path area
 
 ### Design Considerations
 
-- The circular pattern creates natural wind protection in the center
+- The circular pattern creates natural [[cervantes-wind-protection-outdoor-cannabis]] in the center
 - Each wedge-shaped bed can be dedicated to different plant families
 - The central bed often features a small fruit tree or a specimen plant
 - Paths between beds provide access without compacting growing areas
@@ -72,8 +72,8 @@ A mandala garden is a set of four to eight keyhole beds arranged in a circle wit
 
 Keyhole and mandala beds demonstrate the [[comparison-mandala-garden-design-vs-keyhole-garden-design]]
 
-- [[permaculture-designers-manual-keyhole-garden]] — alternative keyhole garden approaches
-- [[zone-sector-analysis-guide]] — zone system for garden layout
+- permaculture-designers-manual-keyhole-garden — alternative [[comparison-keyhole-garden-vs-raised-bed]] approaches
+- [[zone-sector-analysis-guide]] — zone system for [[hamilton-garden-layout-beds-borders-paths]]
 - [[permaculture-edge-effect-design]] — edge effects in design
 ## Practical Considerations
 
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

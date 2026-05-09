@@ -1,5 +1,5 @@
 ---
-title: Chestnut as Multipurpose Tree Crop
+title: Chestnut as mollison designers chestnut as multipurpose tree crop Crop
 created: 2026-04-26
 tags:
   - permaculture
@@ -17,9 +17,9 @@ type: concept
 # Chestnut as Multipurpose Tree Crop
 
 The chestnut (Castanea spp., including C. sativa, C. dentata, and C.
-pumila/chinquapin) is cited throughout the Permaculture Designers Manual
+pumila/chinquapin) is cited throughout the Permaculture [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]
 as a multipurpose tree serving critical functions in slope stabilisation,
-nut production, soil building, and livestock forage. Mollison treats
+nut production, soil building, and [[permaculture-livestock-forage-systems]]. Mollison treats
 chestnut as one of the most valuable temperate tree crops for permaculture
 systems.
 
@@ -46,7 +46,7 @@ drawing water from deep layers and cycling it through the system.
 ## Companion Planting
 
 Chestnuts and citrus may need to be planted on nearby but distinct soil
-types, as their pH requirements differ. In the guild analysis section,
+types, as their pH requirements differ. In the [[mollison-guild-analysis-and-species-interaction]] section,
 Mollison provides criteria for scoring companion plantings, and chestnut
 appears as a species that can be integrated into mixed nut orchards with
 walnut, pecan, and other nut-producing trees.
@@ -59,7 +59,7 @@ The Manual lists several Castanea species:
 
 Different species are suited to different climates. The European
 chestnut (C. sativa) prefers Mediterranean climates, the American
-chestnut (C. dentata) was dominant in eastern North American forests
+chestnut (C. dentata) was dominant in [[polypore-fungi-eastern-north-america]] American forests
 before the chestnut blight, and the Chinese chestnut (C. mollissima) is
 blight-resistant and widely planted.
 

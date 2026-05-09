@@ -1,5 +1,5 @@
 ---
-title: "Sea of Green vs Screen of Green"
+title: "comparison sea of green vs screen of green vs cannabis-screen-of-green-scrog-guide"
 created: 2026-04-28
 tags: [comparison, cannabis, plant-training, yield-optimization]
 date: 2026-04-25
@@ -10,7 +10,7 @@ type: comparison
 # Sea of Green vs Screen of Green
 ## Overview
 Sea of Green (SOG) and Screen of Green (SCROG) are two canopy-management strategies
-that maximize indoor cannabis yield by filling the light footprint with bud-producing
+that maximize [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]] yield by filling the light footprint with bud-producing
 sites. SOG achieves this through sheer plant numbers, flowering many small clones
 immediately after rooting with minimal training investment per plant. SCROG achieves
 it through physical training of fewer plants across a horizontal screen, weaving and
@@ -19,7 +19,7 @@ flat, even canopy that maximizes light interception, but they differ dramaticall
 plant count, labor intensity, skill requirements, equipment needs, and the type of
 yield they produce per plant.
 ## Sea of Green
-[[screen-of-green]]
+
 Screen of Green (SCROG) uses a horizontal mesh screen or trellis installed above the
 growing medium to physically constrain plant growth into an even canopy. As branches
 grow upward through the screen openings, they are woven or tucked back under to spread
@@ -29,7 +29,7 @@ the preferred approach for growers operating under legal plant-count restriction
 those who want to invest more care into each individual plant.
 The screen is installed at a height of 8-20 inches above the growing medium using a
 frame made from PVC pipe, wooden dowels, or other rigid material. During the
-vegetative phase, branches are trained through the screen until it is approximately
+[[green-cannabis-grow-bible-vegetative-phase-management]], branches are trained through the screen until it is approximately
 70-80 percent full, at which point the light cycle is switched to 12/12 for flowering.
 Once flowering begins, all lower growth below the screen is removed to concentrate the
 plant's energy on the exposed canopy. The screen itself provides structural support
@@ -44,7 +44,7 @@ throughout the plant, promoting lateral growth that fills the screen more comple
 The main drawback of SCROG is the ongoing labor required during the vegetative phase.
 Branches must be woven and tucked every few days as the plant grows, and mistakes in
 placement can create uneven canopy gaps that reduce yield. Unlike SOG, SCROG does not
-lend itself easily to perpetual harvest because each plant requires a sustained
+lend itself easily to [[cervantes-perpetual-harvest-cycle]] because each plant requires a sustained
 vegetative training period. However, the hands-on nature of SCROG gives growers more
 control over final plant shape and allows them to adapt to the specific growth patterns
 of each individual plant, something that SOG's cookie-cutter approach cannot offer.
@@ -91,10 +91,12 @@ food web.
 ## Hybrid Approaches
 Some growers combine both methods using a moderate number of plants (8-16 per light)
 with minimal screen training. Clones are topped once or twice, then placed under a
-screen for the final two weeks of vegetative growth, reducing SCROG labor while
+screen for the final two weeks of [[cannabis-vegetative-growth-stage]], reducing SCROG labor while
 providing more yield per plant than pure SOG. Another variation uses SOG-density
 numbers with a screen to ensure perfectly even canopy height across the grow area.
 ## See Also
+
+- [[comparison-main-lining-vs-screen-of-green]]
 - [[main-lining]] for a structural training approach that creates symmetrical manifolds
 - [[cannabis-vegetative-stage]] for timing and training during the growth phase
 - [[cannabis-flowering-stage]] for managing the transition and stretch period

@@ -31,10 +31,10 @@ sources:
 ## Overview
 
 Humulus lupulus, the common hop, is a dioecious perennial climbing vine in the
-Cannabaceae family. Native to Europe, western Asia, and North America, it is
+Cannabaceae family. Native to Europe, western Asia, and [[psilocybin-north-america-pacific-northwest]], it is
 cultivated worldwide as the primary flavoring and stability agent in beer. The
 female cones (strobili) contain lupulin glands rich in alpha acids (humulone,
-cohumulone, adhumulone), beta acids, and essential oils that impart bitterness,
+cohumulone, adhumulone), beta acids, and [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] that impart bitterness,
 aroma, and antimicrobial preservation. Beyond brewing, hops have documented
 medicinal uses as sedatives, anxiolytics, and digestive aids, and the plant has
 emerging permaculture applications as a fast-growing vertical element.
@@ -48,7 +48,7 @@ emerging permaculture applications as a fast-growing vertical element.
 ## Botanical Description
 
 - **Growth habit:** Vigorous climbing vine (bines), 5–10 m or more in a single
-  growing season; dies back to the crown in winter
+  [[savory-growing-season-and-non-growing-season-management]]; dies back to the crown in winter
 - **Stem:** Tough, flexible, rough-textured with downward-pointing hooked
   trichomes that aid climbing; green to brown
 - **Leaves:** Opposite, palmately lobed with 3–5 deep lobes, serrate margins,
@@ -113,7 +113,7 @@ emerging permaculture applications as a fast-growing vertical element.
   growth
 - **Soil:** Deep, fertile, well-drained loam, pH 6.0–7.5; heavy nitrogen feeder
 - **Light:** Full sun (6+ hours daily); shade reduces cone production significantly
-- **Propagation:** Rhizome division in early spring; softwood cuttings; tissue
+- **Propagation:** Rhizome division in [[coleman-overwintered-onions-and-early-spring-crops]]; softwood cuttings; tissue
   culture for commercial cultivars
 - **Support:** Requires trellis, fence, or pole structure (4–6 m height);
   bines grow 15–30 cm per day at peak season
@@ -122,7 +122,7 @@ emerging permaculture applications as a fast-growing vertical element.
 - **Permaculture role:** Rapid vertical biomass producer for shade, privacy
   screens, and trellis systems; edible shoots in spring (prepared like
   asparagus); chop-and-drop mulch; wildlife habitat
-- **Companion planting:** Beneficial with cannabis (related family), beans,
+- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:** Beneficial with cannabis (related family), beans,
   and corn; may inhibit some vegetable growth due to allelopathic compounds
 
 ## Safety and Contraindications

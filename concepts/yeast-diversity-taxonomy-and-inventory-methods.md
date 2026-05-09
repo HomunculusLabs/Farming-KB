@@ -1,5 +1,5 @@
 ---
-title: Yeast Diversity, Taxonomy, and Inventory Methods
+title: biodiversity-yeast-diversity-ecology, Taxonomy, and Inventory Methods
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -15,7 +15,7 @@ Yeasts are a polyphyletic group of ascomycetous and basidiomycetous fungi charac
 
 ## Taxonomic Status
 
-One of the major impediments to determining yeast distributions and ecological functions is the poor taxonomic resolution provided by currently used identification methods. Species and genera are often defined on phenotypic characters such as cell morphology and growth tests, but molecular comparisons show many of these characters vary among strains of the same species.
+One of the major impediments to determining yeast distributions and ecological functions is the poor taxonomic resolution provided by currently used [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]. Species and genera are often defined on phenotypic characters such as cell morphology and growth tests, but molecular comparisons show many of these characters vary among strains of the same species.
 
 The definition of yeast has changed markedly in recent decades. rRNA and rDNA analyses have shown that ascomycetous yeasts form a sister group to euascomycetes rather than representing a more primitive group. Basidiomycetous yeasts are a distinct group including Rhodosporidium, Filobasidiella, and Tremella. Schizosaccharomyces, Taphrina, Protomyces, Pneumocystis, and Saitoella comprise a divergent group phylogenetically basal to both ascomycetous yeasts and euascomycetes.
 
@@ -38,7 +38,7 @@ The definition of yeast has changed markedly in recent decades. rRNA and rDNA an
 
 Yeasts are ubiquitous throughout the biosphere. Soil populations of 10^5-10^6 colony-forming units per gram suggest active growth. Some species (Debaryomyces occidentalis, Lipomyces species, Schizoblastosporion starkeyi-henricii, certain Cryptococcus species) are isolated exclusively from soils. Aquatic populations are highest in fresh waters and decrease with depth and distance from land in marine waters, but may increase to 10^3 cells/g near plankton blooms, current boundaries, surface slicks, thermoclines, or pollutants.
 
-The majority of yeast species are collected from fallen plant materials and other organic matter. The highest densities are associated with concentrations of assimilatable sugars and carbon sources. Leaf surface tissues and plant exudates sustain 10^5-10^7 viable cells/g of fresh foliage. Flowers and decaying fruits support wide spectra of species at up to 10^6 cells/g.
+The majority of yeast species are collected from fallen plant materials and other [[hamilton-composting-and-organic-matter-management]]. The highest densities are associated with concentrations of assimilatable sugars and carbon sources. [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] tissues and plant exudates sustain 10^5-10^7 viable cells/g of fresh foliage. Flowers and decaying fruits support wide spectra of species at up to 10^6 cells/g.
 
 Insects represent rich sources, especially wood-borers and Drosophila species.
 
@@ -68,11 +68,11 @@ Antibiotics: Chloramphenicol at 200 mg/liter added before autoclaving, or penici
 
 ### Common Problems
 
-Overgrowth by filamentous fungi is constant. Solutions include shake culture (pellet formation), incubation at lower temperatures (12°C for temperate/tropical samples slows filamentous fungi), daily plate examination, and pH manipulation (most yeasts tolerate pH 3.5-3.8).
+Overgrowth by filamentous fungi is constant. Solutions include shake culture ([[singh-fungal-pellet-formation-bioremediation]]), incubation at lower temperatures (12°C for temperate/tropical samples slows filamentous fungi), daily plate examination, and pH manipulation (most yeasts tolerate pH 3.5-3.8).
 
 ## Characterization of Organisms
 
-Standard description includes fermentation rates on 7-8 sugars; growth rates on ~40 carbon sources and 1-2 nitrogen compounds; temperature growth ranges; vegetative growth and sexual state descriptions.
+Standard description includes fermentation rates on 7-8 sugars; growth rates on ~40 carbon sources and 1-2 nitrogen compounds; temperature growth ranges; [[cannabis-vegetative-growth-stage]] and sexual state descriptions.
 
 The diazonium-blue-B (DBB) test discriminates ascomycetes from basidiomycetes. Despite comprehensive phenotypic work, isolates are often misidentified. Many systematists now rely on molecular characterizations for accurate species identification.
 
@@ -102,5 +102,5 @@ Investigators should construct computer databases including phenotypic character
 
 - [[ribosomal-rna-sequencing-yeast-identification]]
 - [[aquatic-fungi-and-ingoldian-spores]]
-- [[fungal-morphology-growth-and-pellet-formation]]
+- fungal-morphology-growth-and-pellet-formation
 - [[fungal-rdna-primers-molecular-identification]]

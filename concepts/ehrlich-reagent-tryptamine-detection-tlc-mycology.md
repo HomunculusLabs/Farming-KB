@@ -1,5 +1,5 @@
 ---
-title: Ehrlich Reagent Tryptamine Detection Tlc Mycology
+title: Ehrlich ehrlich reagent tryptamine detection tlc mycology Detection Tlc Mycology
 source: concise-large-scale-synthesis-of-and-shirota-hakamata-goda.md
 topic: analytical-chemistry
 tags: [analytical-chemistry, tryptamine, ehrlich-reagent, tlc, psilocin, psilocybin, detection, forensic]
@@ -20,7 +20,7 @@ The reagent should be prepared fresh or stored in amber glass bottles at low tem
 
 The detection mechanism relies on a condensation reaction between the aldehyde group of p-DMAB and the indole ring system present in tryptamine compounds. When the reagent contacts an indole derivative, the electrophilic carbonyl carbon of the aldehyde undergoes nucleophilic attack at the C-3 position of the indole ring. This initial addition is followed by proton transfer and elimination of water, ultimately forming a colored chromophore through a vinyllogous iminium system.
 
-For psilocin and psilocybin specifically, the hydroxyl group at the C-4 position of the indole ring enhances the electron density and reactivity at the C-3 position through resonance donation. This makes 4-substituted indole compounds particularly responsive to Ehrlich's reagent detection. The resulting chromophore absorbs light in the visible spectrum, producing the characteristic violet-to-blue coloration. The exact hue and intensity depend on the specific substitution pattern on the indole ring and the amine side chain.
+For [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] specifically, the hydroxyl group at the C-4 position of the indole ring enhances the [[mckenna-fungal-fossil-gap-spore-electron-density-and-metal-hardness]] and reactivity at the C-3 position through resonance donation. This makes 4-substituted indole compounds particularly responsive to Ehrlich's reagent detection. The resulting chromophore absorbs light in the visible spectrum, producing the characteristic violet-to-blue coloration. The exact hue and intensity depend on the specific substitution pattern on the indole ring and the amine side chain.
 
 The reaction produces color within seconds to minutes after application, making it suitable for real-time analytical screening during chromatographic runs. The color is stable for several hours under normal laboratory conditions, allowing adequate time for documentation and comparison.
 
@@ -63,8 +63,8 @@ The use of Ehrlich's reagent for detecting psychoactive compounds in mushrooms g
 ## See Also
 
 - [[psilocybin-synthesis]] from 4-hydroxyindole
-- Zwitterionic phosphate intermediate in psilocybin synthesis
-- Chromatographic identification of hallucinogenic mushrooms
+- [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]] intermediate in [[psilocin-psilocybin-synthesis-shirota]]
+- Chromatographic identification of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]
 - Japanese regulation of psilocybin-containing fungi
 ## Practical Considerations
 
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

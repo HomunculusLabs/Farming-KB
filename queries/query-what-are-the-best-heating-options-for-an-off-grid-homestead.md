@@ -1,13 +1,13 @@
 ---
-title: "What Are the Best Heating Options for an Off-Grid Homestead?"
+title: "What Are the query what are the best heating options for an off grid homestead Options for an Off-Grid Homestead?"
 created: 2026-04-28
 tags: [off-grid, homesteading, heating, wood-heat, rocket-mass-heater, masonry-heater, passive-solar, thermal-mass, propane, appropriate-technology]
 date: 2026-05-03
 updated: 2026-05-03
 sources:
-  - Ianto Evans & Leslie Jackson, "Rocket Mass Heaters" (2006)
+  - Ianto Evans & Leslie Jackson, "query-what-is-a-rocket-mass-heater-and-how-does-it-work Heaters" (2006)
   - John G. Holmgren, "Passive Annual Heat Storage" principles
-  - Builder's guides from Masonry Heater Association of North America
+  - Builder's guides from Masonry Heater Association of [[psilocybin-north-america-pacific-northwest]]
   - Paul Wheaton, Permies.com off-grid heating discussions
   - USDA Rural Development, off-grid housing technical guides
 type: query
@@ -105,7 +105,7 @@ type: query
 **Cons**:
 - Ongoing fuel cost (propane $2–4/gallon in rural areas)
 - Supply chain dependency — tanks must be delivered/refilled
-- Fossil fuel — not renewable or self-sufficient
+- [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]] — not renewable or self-sufficient
 - CO risk requires ventilation and detectors
 - Cost escalates with extreme cold
 **Best for**: Backup heating, mild climates, busy homesteaders who can't tend a fire daily, tiny homes and cabins.
@@ -135,3 +135,7 @@ type: query
 |--------|--------------------|--------------|
 | Small rocket mass heater (6") | 20,000–40,000 BTU/hr | 400–800 sq ft, well-insulated |
 | Large rocket mass heater (8") | 40,000–70,000 BTU/hr | 800–1,500 sq ft |
+
+## See Also
+
+- [[query-what-are-the-best-chicken-breeds-for-a-backyard-flock]]

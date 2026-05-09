@@ -1,5 +1,5 @@
 ---
-title: Cervantes Medical Cannabis Contamination Prevention
+title: Cervantes Medical cervantes cannabis contamination prevention Prevention
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -21,7 +21,7 @@ optimal cultivation eliminates the possibility of these contaminants.
 ## The Contamination Problem
 
 Because marijuana remains illegal under federal law in many jurisdictions, its
-source often remains the black market. Patients must obtain medicine from
+source often remains the [[hofmann-lsd-black-market-and-dangers]]. Patients must obtain medicine from
 unregulated producers, making the grower's commitment to cleanliness and
 organic practices the primary safeguard. Cervantes entreats all growers to supply
 only the best organically grown marijuana, noting that dishonorable laws create
@@ -79,13 +79,13 @@ dehumidifiers, ventilation, and adequate plant spacing. Keep temperatures at
 ### Biological Controls
 
 Cervantes strongly promotes the use of biocontrols—commercially available
-organisms that combat pests and diseases. The classic example is ladybugs versus
+organisms that combat [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. The classic example is ladybugs versus
 aphids. Biocontrols include:
 
-- **Predatory mites**: Phytoseiulus persimilis for spider mite control.
+- **[[comparison-predatory-mites-vs-ladybugs-biocontrol]]**: Phytoseiulus persimilis for spider mite control.
 - **Ladybugs**: Hippodamia convergens for aphid control.
-- **Beneficial nematodes**: Steinernema and Heterorhabditis species for soil
-  pest control.
+- **[[ingham-beneficial-nematodes-soil-food-web]]**: Steinernema and Heterorhabditis species for soil
+  [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]].
 - **[[cannabis-drying-and-curing-guide]]
 - [[cannabis-pest-management-guide]]
 - [[cannabis-grow-room-setup]]

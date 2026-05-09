@@ -1,5 +1,5 @@
 ---
-title: Vermiculite Grading and Water Retention in PF TEK Substrate
+title: pf tek vermiculite grading and water retention and Water Retention in PF pf-tek-substrate-formula-details
 tags: [pf-tek, vermiculite, substrate, water-retention, cultivation, mycology]
 date: 2026-04-28
 updated: 2026-04-28
@@ -10,9 +10,9 @@ sources: [fanaticus-pf-tek-psilocybe-fanaticus]
 
 ## Overview
 
-Vermiculite is the foundational ingredient of the [[pf-tek-guide|PF TEK]] substrate formula assumes fine grade vermiculite is being used. The proportions are:
+Vermiculite is the foundational ingredient of the [[pf-tek-guide|PF TEK]] [[pf-tek-measurement-calibration-and-substrate-formula-precision]] assumes fine grade vermiculite is being used. The proportions are:
 
-- 1/8 cup brown rice powder
+- 1/8 cup [[cho-brown-rice-vinegar-preparation]] powder
 - 1/2 to 2/3 cup fine vermiculite
 - 40 to 45 cc water (slightly less than 1/4 cup, approximately 1.5 ounces or 3 tablespoons plus 1 teaspoon)
 
@@ -38,7 +38,7 @@ When using the maximum fruiting formula with fine vermiculite, the jar lid shoul
 
 2. **Aeration**: Unlike pure grain substrates where mycelium grows into a dense mass with little air space, vermiculite creates physical gaps throughout the substrate. Mycelial threads stretch across and between vermiculite particles, maintaining access to oxygen which is essential for healthy mycelial respiration and growth.
 
-3. **Contaminant barrier**: A layer of plain dry vermiculite on top of the wet substrate protects against airborne contaminants entering through the inoculation holes. See [[pf-tek-cake-birthing-technique|birthing]]. Without vermiculite's structural contribution, the substrate would be too fragile to handle without crumbling.
+3. **Contaminant barrier**: A layer of plain [[pf-tek-dry-vermiculite-contaminant-barrier]] on top of the wet substrate protects against airborne contaminants entering through the inoculation holes. See [[pf-tek-cake-birthing-technique|birthing]]. Without vermiculite's structural contribution, the substrate would be too fragile to handle without crumbling.
 
 5. **Moisture regulation**: The dry vermiculite top layer absorbs and regulates moisture transpiration and condensation within the jar, preventing excess moisture buildup while maintaining humidity at the substrate surface where the mycelium meets the barrier.
 
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

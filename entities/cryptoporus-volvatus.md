@@ -10,7 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Gilbertson, R.Y. & Ryvarden, L. (1987). "North American Polypores." Fungiflora, Oslo.
+  - Gilbertson, R.Y. & Ryvarden, L. (1987). "growing-gourmet-north-american-reishi-species Polypores." Fungiflora, Oslo.
   - Burdsall, H.H. & Banik, M.T. (2001). "Forest Pathology and Wood Decay of Cryptoporus volvatus." Mycologia, 93(1), 1-7.
   - Spirin, W. et al. (2018). "Polyporales of the USA." Institute of Microbiology, Russian Academy of Sciences.
   - Kuo, M. (2023). "Cryptoporus volvatus — the Veiled Polypore." MushroomExpert.com.
@@ -36,7 +36,7 @@ The cap surface is smooth or slightly velvety, sometimes with radial wrinkles ne
 
 **Veil:** The most diagnostic feature. A thin, papery membrane stretches across the entire pore surface, completely enclosing the hymenium. A small opening or pore near the stipe attachment allows spores to escape.
 
-This veil is unique among North American polypores and serves to retain moisture within the fruiting body. It persists through maturity but can tear or collapse as the specimen ages.
+This veil is unique among North American polypores and serves to retain moisture within the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]. It persists through maturity but can tear or collapse as the specimen ages.
 
 **Pore surface:** Concealed beneath the veil. Pores are circular, 4–6 per mm, white to cream. The tube layer is 3–8 mm deep.
 
@@ -80,7 +80,7 @@ The species is occasionally confused with young specimens of *Ganoderma* species
 
 ## Cultivation
 
-*C. volvatus* is not commercially cultivated. Its requirement for freshly killed conifer sapwood with specific bark beetle-associated conditions makes artificial cultivation impractical.
+*C. volvatus* is not commercially cultivated. Its requirement for freshly killed conifer sapwood with specific bark beetle-associated conditions makes [[fukuoka-matsutake-artificial-cultivation-attempt]] impractical.
 
 Laboratory cultures can be maintained on standard fungal media such as malt extract agar. The mycelium is white, initially cottony, becoming more zonate and compact with age. Growth is moderately slow at room temperature.
 
@@ -92,7 +92,7 @@ Young specimens of **ganoderma applanatum** can appear similarly pale and convex
 
 **Fomes fomentarius** has a hoof-shaped fruiting body with a gray to black crust. Its pores are open and visible, and it typically fruits on hardwoods rather than conifers.
 
-**Trametes versicolor** is much smaller, thinner, and displays distinct concentric color zones. It has an exposed pore surface and is far more common on hardwood logs and stumps.
+**[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]** is much smaller, thinner, and displays distinct concentric color zones. It has an exposed pore surface and is far more common on hardwood logs and stumps.
 
 **Tyromyces chioneus** can appear similar when young due to its whitish cap, but it lacks a veil and has much larger, angular pores. It also tends to fruit on hardwoods.
 
@@ -102,7 +102,7 @@ Young specimens of **ganoderma applanatum** can appear similarly pale and convex
 
 Forest pathologists use the presence of *C. volvatus* as a field indicator of recent beetle-induced mortality. Its appearance helps managers assess the timing and extent of bark beetle damage in forest health surveys.
 
-The species contributes to the early stages of wood decomposition in conifer ecosystems. By breaking down the sapwood of killed trees, it facilitates the entry of later-succession decay fungi and accelerates nutrient cycling. This process is important for maintaining soil fertility and forest regeneration after disturbance events.
+The species contributes to the early stages of [[fungal-wood-decomposition-spatial-variation]] in conifer ecosystems. By breaking down the sapwood of killed trees, it facilitates the entry of later-succession decay fungi and accelerates [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. This process is important for maintaining soil fertility and forest regeneration after disturbance events.
 
 ## See Also
 

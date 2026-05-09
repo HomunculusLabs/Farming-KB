@@ -1,10 +1,11 @@
 ---
-title: Australia Fruit Fly Incident
+title: fukuoka australia fruit fly incident Fly Incident
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [regenerative, troubleshooting]
-sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Australia Fruit Fly Incident
@@ -42,7 +43,7 @@ local official. Over the next ten days, they worked night and day
 trying to track down the Australian visitor and combing Fukuoka's
 orchard for signs of the fruit fly.
 
-About fifty monitor traps were set up in fruit trees and huts near
+About fifty monitor traps were set up in [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and huts near
 where the Australian had spent the night. The danger was that, given
 another ten days, the maggots would emerge as adults. Once they had
 taken wing, it would be too late to do anything.
@@ -99,6 +100,8 @@ first known instance of a major fruit fly pest actually being brought
 into the country past the quarantine barrier.
 
 ## See Also
+
+- [[fukuoka-japan-fruit-fly-free-quarantine-vulnerability]]
 
 - [[fukuoka-textdoc-loquat-incident-microbial-mutation]]
 

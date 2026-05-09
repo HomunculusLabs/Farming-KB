@@ -1,5 +1,5 @@
 ---
-title: "Companion Planting vs Trap Cropping"
+title: "comparison-companion-planting-reference-vs-jadam-monoculture-critique vs comparison-trap-cropping-vs-beneficial-insects"
 created: 2026-04-28
 tags: [comparison, pest-management, organic-gardening, permaculture]
 date: 2026-04-25
@@ -12,8 +12,8 @@ type: comparison
 
 ## Overview
 Companion planting leverages synergistic relationships between plants to
-improve growth, repel pests, attract beneficial insects, and maximize space.
-Trap cropping is a targeted pest management strategy that grows sacrificial
+improve growth, repel pests, attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], and maximize space.
+Trap cropping is a targeted [[cannabis-pest-management-guide]] strategy that grows sacrificial
 plants specifically to attract pests away from main crops. Companion planting
 is a broad design philosophy, while trap cropping is a focused technique
 within integrated pest management. Both reduce pest pressure without
@@ -79,13 +79,15 @@ active management but delivers more predictable results for specific problems.
 
 ## Hybrid Approaches
 The most effective pest management combines both: companion planting provides
-broad-spectrum pest deterrence and beneficial insect habitat, while trap crops
+broad-spectrum pest deterrence [[mollison-designers-insectary-plants-and-beneficial-insect-habitat]] habitat, while trap crops
 handle specific, persistent pest problems. Nasturtiums serve as both a
-companion plant (repelling some pests through volatile compounds) and a trap
+companion plant (repelling some pests through [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]) and a trap
 crop (attracting aphids). This dual function is common in well-designed
 gardens where many plants serve multiple roles simultaneously.
 
 ## See Also
+
+- [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]
 - [[comparison-companion-planting-vs-intercropping]]
 - [[comparison-trap-cropping-vs-companion-planting]]
 - [[query-what-is-integrated-pest-management-for-organic-gardens]]

@@ -37,7 +37,7 @@ The amide group at position 8 is the primary site for chemical modification, and
 
 The compound exists as two stereoisomers at C-8 (α and β). The 8β-isomer is the naturally occurring and pharmacologically active form found in all ergot-derived alkaloids. The 8α-isomer is biologically inactive.
 
-Additional stereochemistry at C-5 defines the absolute configuration of natural lysergamides as 5R,8R. This stereochemical arrangement is conserved across all naturally occurring ergot alkaloids and is essential for receptor binding activity. Epimerization at either center abolishes psychoactive properties while retaining some peripheral pharmacological effects.
+Additional stereochemistry at C-5 defines the absolute configuration of natural lysergamides as 5R,8R. This stereochemical arrangement is conserved across all naturally occurring ergot alkaloids and is essential for [[tihkal-receptor-binding-serotonin]] activity. Epimerization at either center abolishes psychoactive properties while retaining some peripheral pharmacological effects.
 
 The ergoline ring system is planar with slight puckering in the D-ring, facilitating intercalation with receptor binding sites.
 
@@ -65,7 +65,7 @@ Psychoactive lysergamides produce a characteristic spectrum of subjective effect
 
 The subjective effects profile is highly dose-dependent, with lower doses (25 to 75 µg LSD) producing primarily stimulant and mood-elevating effects, while higher doses (100 to 200 µg) produce full psychedelic experiences with pronounced visual and cognitive alterations. Doses above 300 µg are associated with increasingly overwhelming experiences and are not recommended for therapeutic or recreational contexts.
 
-Sublingual and buccal administration routes have been explored as alternatives to oral dosing, offering slightly faster onset (15 to 45 minutes) and reduced first-pass metabolism. Intravenous administration has been used in clinical research settings, producing onset within seconds, but this route is exclusively confined to controlled medical environments due to the extreme potency and unpredictable dose-response relationship.
+Sublingual and buccal administration routes have been explored as alternatives to oral dosing, offering slightly faster onset (15 to 45 minutes) and reduced first-pass metabolism. Intravenous administration has been used in [[hofmann-lsd-clinical-research-early-studies]] settings, producing onset within seconds, but this route is exclusively confined to controlled medical environments due to the extreme potency and unpredictable dose-response relationship.
 
 Dose ranges vary enormously across the lysergamide family. LSD is active at 25 to 200 µg orally, making it the most potent commonly used psychedelic.
 
@@ -73,13 +73,13 @@ Other lysergamides such as LSA (ergine) require doses of 0.5 to 3 mg, representi
 
 Physical effects include mydriasis, increased body temperature, elevated heart rate, elevated blood pressure, and reduced appetite.
 
-The therapeutic index of LSD is exceptionally high, with the lethal dose estimated at approximately 12,000 times the effective dose, making it one of the safest psychoactive substances from a toxicological perspective. No confirmed human fatalities from LSD overdose have been documented in the medical literature, though accidental intravenous administration of extremely high doses has produced prolonged but non-fatal adverse reactions.
+The [[cannabis-therapeutic-index-overview]] of LSD is exceptionally high, with the lethal dose estimated at approximately 12,000 times the effective dose, making it one of the safest psychoactive substances from a toxicological perspective. No confirmed human fatalities from LSD overdose have been documented in the medical literature, though accidental intravenous administration of extremely high doses has produced prolonged but non-fatal adverse reactions.
 
-Acute adverse effects are primarily psychological and include anxiety, confusion, and in rare cases, prolonged psychotic reactions in predisposed individuals. The risk of such reactions can be mitigated through proper set and setting, appropriate dosing, and the presence of a trusted guide or sitter. Chronic use does not produce physical dependence, and tolerance develops rapidly with diminishing returns after consecutive daily doses.
+Acute [[blesching-cannabis-safety-adverse-effects-evidence]] are primarily psychological and include anxiety, confusion, and in rare cases, prolonged psychotic reactions in predisposed individuals. The risk of such reactions can be mitigated through proper [[lsd-set-and-setting-framework]], appropriate dosing, and the presence of a trusted guide or sitter. Chronic use does not produce physical dependence, and tolerance develops rapidly with diminishing returns after consecutive daily doses.
 
 ## Synthesis and Derivatives
 
-Natural lysergamides are produced biosynthetically by the ergot fungus Claviceps purpurea and related species through a pathway beginning with L-tryptophan and proceeding through chanoclavine-I, agroclavine, and lysergic acid as intermediates.
+Natural lysergamides are produced biosynthetically by the ergot fungus [[bloomfield-ergot-claviceps-purpurea-ergotism]] and related species through a pathway beginning with L-tryptophan and proceeding through chanoclavine-I, agroclavine, and lysergic acid as intermediates.
 
 The biosynthetic pathway involves four key enzymes: dmaW (dimethylallyltryptophan synthase), easF (N-methyltransferase), cloA (cytochrome P450 oxidase), and lpsA (lysergyl peptide synthetase). This pathway is encoded on a gene cluster within the Claviceps genome and has been successfully expressed heterologously in Aspergillus nidulans for biotechnological production of lysergic acid derivatives.
 

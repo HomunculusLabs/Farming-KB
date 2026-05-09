@@ -1,5 +1,5 @@
 ---
-title: Crater Garden Design
+title: holzer crater garden design Design
 created: 2026-04-26
 tags:
   - landscape-design
@@ -17,7 +17,7 @@ type: concept
 
 The crater garden is a creative landscape design concept developed by Sepp
 Holzer that transforms flat or gently sloping land into a bowl-shaped
-planting area. By creating a sunken garden surrounded by raised beds arranged
+planting area. By creating a sunken garden surrounded by [[comparison-raised-beds-vs-hugelkultur]] arranged
 in a circular or semi-circular pattern, the crater garden generates a humid
 microclimate ideal for growing a wide range of crops. It exemplifies the
 free-thinking approach central to [[holzer-permaculture-landscape-design]].
@@ -37,12 +37,12 @@ environment within the depression.
 
 Raised beds have a substantial advantage over normal beds at ground level.
 They create [[holzer-pond-construction-and-aquaculture]] or small water garden. This
-combines the benefits of raised bed cultivation with the moisture-retaining
+combines the benefits of raised [[comparison-deep-bed-cultivation-vs-square-foot-gardening]] with the moisture-retaining
 properties of a sunken feature.
 
 ## Design Freedom and Creativity
 
-There is no template for the perfect raised bed in Holzer permaculture,
+There is no template for the perfect raised bed in [[holzer-rebel-farmer-philosophy]],
 because the beds can have very different dimensions. During the planning
 stage, Holzer considers the local conditions and the individual requirements
 of the people that will be managing it. Although the beds can vary
@@ -74,8 +74,8 @@ and purposes. Possible variations include:
 
 ## Climate Benefits
 
-The crater garden creates a protected growing environment that buffers
-against extreme weather. The raised edges provide wind protection, reducing
+The crater garden creates a protected [[cannabis-growing-environment-setup]] that buffers
+against extreme weather. The raised edges provide [[cervantes-wind-protection-outdoor-cannabis]], reducing
 evaporation and physical damage to plants. The depression collects rainwater
 and dew, reducing or eliminating the need for supplementary irrigation. In
 colder climates, the sunken position can protect plants from late and early

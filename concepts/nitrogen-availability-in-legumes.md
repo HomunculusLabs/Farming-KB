@@ -17,18 +17,18 @@ type: concept
 # Nitrogen Availability in Legume Plants
 
 A widespread misconception in gardening is that legumes generously share
-their nitrogen with neighboring plants during the growing season. In
+their nitrogen with neighboring plants during the [[savory-growing-season-and-non-growing-season-management]]. In
 reality, the availability of fixed nitrogen in legume plants follows a
 precise and somewhat counterintuitive pattern that is governed by the
 plant's growth stage. Understanding when and how nitrogen becomes
 available is critical for making effective use of legumes in garden
-planning and crop rotation.
+planning and [[comparison-crop-rotation-vs-cover-cropping]].
 
 ## The Myth of Beans Feeding Corn
 
 Many gardening books recommend planting corn and beans together so that
 the nitrogen-loving corn will prosper from the association. The
-Encyclopedia of Organic Gardening (Rodale Press, 1978) states that "the
+Encyclopedia of [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] (Rodale Press, 1978) states that "the
 roots of legumes take large amounts of nitrogen out of the air and make
 it available to the roots of other plants." While it is true that
 legumes improve soil by adding nitrogen to it, very little if any of
@@ -58,7 +58,7 @@ cover crop and incorporate it into the soil. The green, nitrogen-rich
 foliage will decompose relatively quickly, releasing a substantial
 pulse of plant-available nitrogen for the subsequent crop. The
 nitrogen is most accessible to other plants at this stage because it
-has not yet been mobilized for seed production.
+has not yet been mobilized for [[cervantes-seed-production-storage]].
 
 ## Flowering and Seed Production: Nitrogen Redistribution
 
@@ -123,7 +123,7 @@ such as soybeans or Dutch white clover.
 - [[cannabis-nitrogen]]
 - [[legume-nitrogen-yields-by-species]] provides specific data on the
   nitrogen-fixing capacity of common legume crops.
-- Green manure and cover cropping strategies detail how to integrate
+- [[holzer-green-manure-and-soil-building-plants]] [[fukuoka-clover-cover-cropping-soil-ecology]] strategies detail how to integrate
   legumes into a soil-building rotation plan.
 
 ## See Also

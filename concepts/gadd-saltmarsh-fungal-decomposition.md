@@ -1,5 +1,5 @@
 ---
-title: Fungal Laccase Genes in Saltmarsh Decomposition
+title: singh-fungal-laccase-enzymes-bioremediation Genes in Saltmarsh Decomposition
 created: 2026-04-28
 tags:
   - laccase
@@ -19,8 +19,8 @@ type: concept
 Saltmarsh ecosystems are dominated by smooth cordgrass (Spartina
 alterniflora), whose shoots undergo standing decay in the intertidal
 zone before becoming incorporated into sediments. A specialised
-ascomycete fungal community drives lignocellulose degradation in this
-system, using laccase enzymes rather than the lignin peroxidases
+ascomycete [[air-pollution-fungal-community-responses]] drives lignocellulose degradation in this
+system, using [[staycare-laccase-enzymes-in-bioremediation]] rather than the lignin peroxidases
 characteristic of white-rot basidiomycetes.
 
 ## The saltmarsh decomposition system
@@ -38,7 +38,7 @@ microscopy.
 
 The major members of the smooth-cordgrass decomposer community are
 Phaeosphaeria spartinicola, P. halima, and Mycosphaerella sp.2.
-These were identified by direct observation of ascomata and capture of
+These were identified by [[fukuoka-direct-observation-method]] of ascomata and capture of
 expelled ascospores from standing-decaying blades. At sites with low
 grazing pressure from periwinkle snails, the percentage area of
 decaying blades occupied by at least one of these three species exceeded
@@ -65,7 +65,7 @@ key discovery by Eggert et al. (1997) showed that if a redox-mediator
 molecule is present alongside laccase, non-phenolic portions of lignin
 can be oxidised, enabling extensive lignin breakdown. The basidiomycete
 Pycnoporus cinnabarinus uses only laccase plus self-produced
-3-hydroxyanthranilate (HAA) as a redox mediator.
+3-hydroxyanthranilate (HAA) as a [[staycare-fungal-redox-mediator-chemistry-pollutant-degradation]].
 
 ## Laccase activity screening
 
@@ -119,7 +119,7 @@ enzymes, coupling lignin oxidation with cellulose degradation.
 
 The laccase-based lignocellulolysis pathway has significant implications
 for carbon cycling in saltmarsh ecosystems. Saltmarshes are major
-carbon sinks, and the efficiency of fungal decomposition determines how
+carbon sinks, and the efficiency of [[dighton-fungal-decomposition-leaf-litter-dynamics]] determines how
 much fixed carbon is mineralised versus exported to marine sediments.
 The ascomycete community's ability to rapidly mineralise lignocellulose
 during standing decay affects both marsh food webs and long-term carbon

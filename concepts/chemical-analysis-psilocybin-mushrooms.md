@@ -1,5 +1,5 @@
 ---
-title: Chemical Analysis of Psilocybin Mushrooms
+title: Chemical hplc-analysis-of-psilocybin-and-psilocin Mushrooms
 created: 2026-04-28
 tags: [psilocybin, HPLC, chromatography, alkaloid-analysis, analytical-methods]
 date: 2026-04-25
@@ -17,7 +17,7 @@ chromatography in 1963, analytical methods have evolved from simple
 chromatographic techniques to sophisticated High Performance Liquid
 Chromatography (HPLC) systems capable of precise quantification of multiple
 alkaloids simultaneously. These analytical capabilities have been crucial for
-establishing species alkaloid profiles, assessing potency variation, and
+establishing species alkaloid profiles, assessing [[psilocybe-cubensis-potency-variation-by-flush]], and
 investigating the chemical stability of psychoactive compounds over time.
 
 The primary psychoactive alkaloids found in psilocybin mushrooms include
@@ -43,7 +43,7 @@ alkaloids in complex mushroom extracts.
 
 ### Paper and Thin-Layer Chromatography
 
-The earliest chemical analyses of psilocybin mushrooms employed paper
+The earliest [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] of psilocybin mushrooms employed paper
 chromatography. In 1963, a research team including [[field-guide-psilocybin-mushroom-species-identification]] when
 morphological characteristics are ambiguous. In field research, Gartz
 reports that "chromatography testing was needed to confirm the species"
@@ -65,7 +65,7 @@ clinical investigations into the therapeutic potential of psilocybin.
 
 ## References
 
-- Gartz, J. (1996). *Magic Mushrooms Around the World*. MIT Press.
+- Gartz, J. (1996). *[[guzman-magic-mushrooms-african-species]] [[fungi-around-the-world-species-distribution]]*. MIT Press.
   On HPLC methodology, alkaloid profiles, and chemical stability.
 - Hofmann, A., Heim, R. & Furrer, C. (1963). Paper chromatography
   detection of psilocybin in European P. semilanceata. Cited in Gartz.
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

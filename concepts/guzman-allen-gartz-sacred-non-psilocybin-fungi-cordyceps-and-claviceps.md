@@ -1,5 +1,5 @@
 ---
-title: Sacred Non-Psilocybin Fungi Cordyceps and Claviceps
+title: Sacred Non-Psilocybin guzman allen gartz sacred non psilocybin fungi cordyceps and claviceps and Claviceps
 created: 2026-04-28
 tags:
   - cordyceps
@@ -16,11 +16,11 @@ type: concept
 
 # Sacred Non-Psilocybin Fungi: Cordyceps and Claviceps
 
-Among the neurotropic fungi catalogued by Guzmán, Allen and Gartz (1998/2000),
+Among the [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] catalogued by Guzmán, Allen and Gartz (1998/2000),
 the ergot fungi occupy a unique position. Unlike the psilocybin-containing
 mushrooms of the Agaricales, these Ascomycotina produce ergot alkaloids rather
 than indole compounds. Five species of Claviceps and two of Cordyceps are
-recognized, with deep cultural significance in Mexican indigenous traditions
+recognized, with deep [[ethnomycology-cultural-significance-sacred-fungi]] in Mexican indigenous traditions
 and a long history of human interaction worldwide.
 
 ## Claviceps: The Classical Ergot Fungi
@@ -30,7 +30,7 @@ nigricans, C. paspali, C. rolfesii, and C. tripsicii. [[lsd]]. The history of er
 poisoning is covered in
 [[ascomycete-phylum-guide]].
 The broader context of Cordyceps biology is covered in
-[[neurotropic-fungi-in-mexico]].
+neurotropic-fungi-in-mexico.
 
 ## Cultural Significance Beyond Chemistry
 
@@ -47,7 +47,7 @@ ethnobotany, chemistry, and cultural anthropology in
 
 - [[guzman-allen-gartz-sacred-boletes-russula-and-gasteromycetes]]
 - [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]]
-- [[neurotropic-fungi-in-mexico]]
+- neurotropic-fungi-in-mexico
 ## Practical Considerations
 
 When working with Sacred Non-Psilocybin Fungi Cordyceps and Claviceps, several practical factors should be
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

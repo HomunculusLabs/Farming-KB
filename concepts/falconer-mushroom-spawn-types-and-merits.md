@@ -1,21 +1,17 @@
 ---
-title: Falconer Mushroom Spawn Types and Merits
+title: Falconer cuthill-mushroom-spawn-preparation-historical Types and Merits
 created: 2026-04-28
 tags:
-  [[mushroom-cultivation, mushroom-spawn, mycelium, victorian-gardening, agaricus]
+  [mushroom-cultivation, mushroom-spawn, mycelium, victorian-gardening, agaricus]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  [
-    /Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md,
-  ]
+sources: [ /Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md, ]
 type: concept
 ---
-# Mushroom Spawn Types and Their Merits
-What practical mushroom growers call spawn, botanists
-term [[falconer-mushroom-spawn-preparation]] now manufactured by our best makers will
+# Mushroom Spawn Types and Their Merits What practical mushroom growers call spawn, botanists term [[falconer-mushroom-spawn-preparation]] now manufactured by our best makers will
 produce as good a crop of mushrooms as the old
 mill-track natural spawn used to do.
+
 ## Flake Spawn (French)
 The flake spawn is what is generally known as French
 spawn, and is imported into this country from France.
@@ -24,16 +20,17 @@ boxes, each containing two or three pounds of spawn,
 and also loose in bulk when it is sold by weight or
 measure.
 There is marked difference between the mushrooms
-raised from the French flake spawn and those from the
+raised from the [[french-flake-spawn-vs-brick-spawn]] and those from the
 English brick spawn, but this is regarded as the result of
 cultural conditions rather than of true varietal
 differences.
+
 ## Virgin Spawn
 Virgin spawn is what we call natural spawn or wild
 spawn; that is, the spawn that occurs naturally in the
 fields, in manure piles, or elsewhere, and without any
 artificial aid. It is supposed to be produced directly
-from the mushroom spores, and is not a new growth of
+from the [[query-how-to-store-mushroom-spores-long-term]], and is not a new growth of
 surviving parts of old spawn that may have lived over in
 the ground.
 It is far more vigorous than "made" spawn, and spawn
@@ -44,6 +41,7 @@ for spawning beds, larger and heavier mushrooms have
 been obtained than from "made" spawn, and the beds
 lasted longer in good bearing, but the weight of the
 whole crop has not been more than from artificial spawn.
+
 ## Distinguishing Good from Poor Spawn
 Mushroom spawn should have a decided smell of
 mushrooms, and whatever cobweb-like mold may be
@@ -52,12 +50,13 @@ fine threads clear white. Prominent yellowish threads or
 veins are a sign that the mycelium has started to grow
 and been killed. Distinct white mold patches on the
 surface of the bricks indicate the presence of some other
-fungous parasite on the mushroom mycelium.
+fungous parasite on the [[growing-gourmet-iconic-types-mushroom-mycelium]].
 Healthy bricks are usually of a dusty brown color, and
 of light weight. Black colored spawn is to be avoided, as
 a rule, and when the black appearance is very prevalent
 in a cargo of bricks it is a strong indication that the
 spawn has not run its course.
+
 ## Keeping Spawn
 Spawn should be kept in a dry, airy place, somewhat
 dark if convenient, and in a temperature between 35 and
@@ -65,11 +64,13 @@ dark if convenient, and in a temperature between 35 and
 or cupboard against a wall, or in a close, damp building,
 is a very poor place for keeping spawn. Hard frost
 destroys the vitality of both brick and flake spawn.
+
 ## American [[victorian-mushroom-spawn-types]]
 - [[falconer-steeped-spawn-and-transplanting]]
+
 ## Practical Considerations
 
-Successful implementation of Falconer Mushroom Spawn Types and Merits requires attention to
+Successful implementation of [[falconer-mushroom-bed-boxing-and-protection]] Spawn Types and Merits requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -85,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

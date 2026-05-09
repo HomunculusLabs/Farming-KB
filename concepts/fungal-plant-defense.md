@@ -17,7 +17,7 @@ symbiosis with most land plants, through which growth and resistance to
 abiotic and biotic stresses are generally increased. Bioprotection by these
 fungi has been shown in many agricultural systems invaded by pathogenic
 soilborne protists, fungi, and nematodes, as well as by insects. This
-biological control is explained through diverse, interrelated, and often
+[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] is explained through diverse, interrelated, and often
 synergistic mechanisms.
 
 Some mycorrhizal fungi secrete antibiotics which may help protect their host
@@ -35,7 +35,7 @@ network can similarly limit pathogen contact with root surfaces.
 
 ## Induction of Plant Defense Pathways
 
-The stimulation of plant defense pathways following mycorrhizal colonization
+The stimulation of plant defense pathways following [[arbuscular-mycorrhizal-colonization-patterns]]
 has been well documented. Constitutive synthesis of beta-1,3-glucanase and
 new isoforms of beta-1,3-glucanase and chitinase have been detected within
 roots colonized with *Glomus mosseae*. These pathogenesis-related (PR)
@@ -45,7 +45,7 @@ pathogens.
 Local cell wall modifications such as the accumulation of callose around
 cortical cells containing arbuscules have been identified. Additionally,
 the accumulation of PR-1 proteins and cell wall thickenings rich in pectin
-characteristic of induced systemic resistance (ISR) have been observed in
+characteristic of [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance (ISR) have been observed in
 non-mycorrhizal roots of mycorrhizal plants infected by pathogens.
 
 ## Jasmonic Acid and Defense Signaling
@@ -60,7 +60,7 @@ play a role in reducing pathogen proliferation.
 Notably, hyphae of *Phytophthora nicotianae* were never observed in the
 same cells as those containing *G. mosseae* arbuscules, suggesting that
 JA-mediated defense responses in arbuscule-containing cells create a
-localized zone of pathogen resistance. However, a definitive demonstration
+localized zone of [[mycorrhizal-pathogen-resistance-mechanisms]]. However, a definitive demonstration
 that AMF induce biocontrol via JA-mediated reactions has yet to be published.
 
 ## Antibiotic Production
@@ -80,7 +80,7 @@ other resources may limit the biomass available for pathogen proliferation.
 AMF may also compete for colonization sites on root surfaces, reducing the
 area available for pathogen establishment.
 
-Siderophore production by mycorrhizal fungi represents a form of nutritional
+[[singh-fungal-siderophore-production-iron-acquisition]] by mycorrhizal fungi represents a form of nutritional
 competition. By chelating iron in the rhizosphere, mycorrhizal fungi can
 limit iron availability to competing microorganisms, including pathogens.
 
@@ -98,7 +98,7 @@ tissues but also in non-colonized parts of the root system.
 Mycorrhizal colonization modifies root exudation patterns, which can affect
 pathogen behavior. Exudates from mature mycorrhizal roots attracted
 significantly fewer *P. nicotianae* zoospores than exudates from
-non-mycorrhizal roots in vitro. Accumulation of the secondary metabolite
+non-mycorrhizal roots in vitro. Accumulation of the [[fungal-elicitors-enhanced-secondary-metabolite-production]]
 blumenin in mycorrhizal roots may play a role in this effect.
 
 Carotenoid-derived compounds including blumenin, mycorradicin, and

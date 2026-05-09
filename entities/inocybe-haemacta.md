@@ -14,7 +14,7 @@ sources:
   - /Users/t3erpz/wiki/raw/papers/field-guide-to-the-psilocybin-mushroom.md
 ---
 # Inocybe haemacta
-**Inocybe haemacta** is a mycorrhizal mushroom in the family Inocybaceae
+**Inocybe haemacta** is a [[mycelium-running-mycorrhizal-mushroom-gardens]] in the family Inocybaceae
 reported to contain [[psilocybin]], placing it among the
 minority of Inocybe species known to be psychoactive. This is significant
 because the genus is predominantly associated with toxic compounds, particularly
@@ -31,7 +31,7 @@ species in the genus may be virtually indistinguishable without microscopic
 examination.
 ## Cultivation
 I. haemacta has not been cultivated and is unlikely to be amenable to
-cultivation due to its obligate mycorrhizal ecology. Mycorrhizal fungi
+cultivation due to its obligate mycorrhizal ecology. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
 require living host plants and cannot be grown on standard agar or grain-based
 substrates.
 ## Legal Status
@@ -63,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +105,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

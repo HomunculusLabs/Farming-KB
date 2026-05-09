@@ -10,7 +10,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Esslinger, T.L. (1977). "A chemosystematic revision of the brown Parmeliae." Journal of the Hattori Botanical Laboratory, 43: 1–164.
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens of North America. Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens of [[psilocybin-north-america-pacific-northwest]]. Yale University Press.
   - Purvis, O.W. et al. (1992). The Lichen Flora of Great Britain and Ireland. Natural History Museum Publications.
   - Wirth, V., Hauck, M., Schulz, M. (2013). Die Flechten Deutschlands. Eugen Ulmer KG.
 ---
@@ -21,11 +21,11 @@ sources:
 
 The species was long known as *Parmelia fuliginosa* before being transferred to the segregate genus Melanelia by Theodore Esslinger in 1978. It is one of the most frequently encountered melanized foliose lichens in Europe and North America.
 
-Like other Melanelia species, it produces atranorin and various depsidones as secondary metabolites. The dark pigmentation results from melanins in the upper cortex that provide protection against ultraviolet radiation.
+Like other Melanelia species, it produces atranorin and various depsidones as [[antifungal-secondary-metabolites-coprophilous-fungi]]. The dark pigmentation results from melanins in the upper cortex that provide protection against ultraviolet radiation.
 
 ## Taxonomy and Morphology
 
-Melanelia fuliginosa was first described as *Lichen fuliginosus* by Dufour in 1822. It was subsequently treated within Parmelia for most of the twentieth century. Esslinger's revision of the brown Parmeliae established Melanelia as a distinct genus based on cortical chemistry and ascus structure.
+Melanelia fuliginosa was first described as *Lichen fuliginosus* by Dufour in 1822. It was subsequently treated within Parmelia for most of the [[coleman-louis-savier-twentieth-century-maraicher]]. Esslinger's revision of the brown Parmeliae established Melanelia as a distinct genus based on cortical chemistry and ascus structure.
 
 The thallus is foliose, forming adnate to loosely attached rosettes 3 to 10 cm in diameter. Lobes are irregularly rounded to sublinear, 1 to 4 mm wide, with entire to slightly crenulate margins.
 
@@ -81,7 +81,7 @@ Extracts containing stictic acid have demonstrated antiviral activity in some sc
 
 Melanelia fuliginosa contributes to the biodiversity of epiphytic and saxicolous lichen communities across temperate forests. It provides substrate and shelter for diverse microarthropod communities including oribatid mites and collembolans.
 
-The species participates in nutrient cycling through the fixation of atmospheric nitrogen and the accumulation of mineral nutrients. Its thallus retains moisture that benefits surrounding cryptogamic communities including mosses and liverworts.
+The species participates in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] through the fixation of atmospheric nitrogen and the accumulation of mineral nutrients. Its thallus retains moisture that benefits surrounding cryptogamic communities including mosses and liverworts.
 
 Lichen-associated microfauna found on M. fuliginosa include tardigrades, nematodes, and various protozoan species. These communities contribute to decomposition processes and nutrient mineralization within the lichen microhabitat.
 
@@ -89,7 +89,7 @@ As an intermediate bioindicator species, M. fuliginosa provides valuable informa
 
 The species plays a role in primary succession on rock surfaces, facilitating the establishment of mosses and vascular plants. It is among the earlier colonizers of fresh stone and concrete surfaces in urban and rural settings.
 
-Melanelia fuliginosa often forms mixed thalli with other foliose species on well-developed bark communities. Its presence indicates relatively stable environmental conditions with moderate nutrient availability and light levels.
+Melanelia fuliginosa often forms mixed thalli with other foliose species on well-developed bark communities. Its presence indicates relatively stable environmental conditions with moderate [[ph-and-nutrient-availability-garden-soils]] and light levels.
 
 ## Uses and Significance
 
@@ -101,7 +101,7 @@ The species is of taxonomic importance as a representative of the brown Parmelia
 
 In ecological research, M. fuliginosa serves as a standard reference species for comparative studies of lichen communities. Its wide distribution and consistent morphology make it a reliable species for monitoring long-term environmental change.
 
-Molecular studies have used M. fuliginosa to investigate population genetics and phylogeography of widespread lichen fungi. These studies have revealed significant genetic structure between European and North American populations.
+Molecular studies have used M. fuliginosa to investigate population genetics and phylogeography of widespread lichen fungi. These studies have revealed significant genetic structure between European and [[growing-gourmet-north-american-reishi-species]] populations.
 
 ## See Also
 

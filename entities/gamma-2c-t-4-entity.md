@@ -9,7 +9,7 @@ sources:
 ---
 # gamma-2C-T-4 (2,6-Dimethoxy-4-isopropylthiophenethylamine)
 
-gamma-2C-T-4 is a phenethylamine compound and a member of the 2C-T family of psychedelic substances. It is notable as a "pseudo-psychedelic," representing the 2,4,6-trisubstitution pattern rather than the classic 2,4,5 pattern. The compound is listed as PIHKAL entry #42.
+gamma-2C-T-4 is a phenethylamine compound and a member of the 2C-T family of psychedelic substances. It is notable as a "pseudo-psychedelic," representing the 2,4,6-trisubstitution pattern rather than the classic 2,4,5 pattern. The compound is listed as [[2c-b-pihkal-entry-20]] #42.
 
 ## Chemical Classification
 
@@ -25,7 +25,7 @@ It is a sulfur-containing phenethylamine in the 2C-T series.
 
 gamma-2C-T-4 is an active compound, though the exact effective dosage has not been fully established.
 
-At 8 mg, subjects reported a plus one level with a very good feeling that faded away, possibly of short duration.
+At 8 mg, subjects reported a plus one level with a very good feeling that faded away, possibly of [[savory-short-duration-grazing-and-cell-systems]].
 
 At 12 mg, subjects noted awareness of activity beginning around 25 minutes with progression over the following quarter hour, but without a distinct "sparkle."
 
@@ -39,7 +39,7 @@ There is no prominent body load or nausea reported at the explored doses.
 
 The experience is described as gentle and smooth but lacking in dramatic psychedelic qualities.
 
-The compound appears to produce a subtle intoxication rather than a full psychedelic experience at the doses explored.
+The compound appears to produce a subtle intoxication rather than a full [[leary-psychedelic-experience-bardo-mapping]] at the doses explored.
 
 ## The Concept of Pseudo-Psychedelics
 

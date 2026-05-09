@@ -9,7 +9,7 @@ sources: []
 
 # Underground Greenhouse (Walipini)
 
-A walipini (from the Aymara word for "place of warmth") is an underground or earth-sheltered greenhouse that uses the earth's thermal mass to maintain stable growing temperatures year-round. By digging the growing area into the ground and covering it with a glazed roof, the walipini harnesses passive solar heating combined with geothermal insulation to grow food through winter in climates that would otherwise be too cold for outdoor production.
+A walipini (from the Aymara word for "place of warmth") is an underground or earth-sheltered greenhouse that uses the earth's thermal mass to maintain stable growing temperatures year-round. By digging the growing area into the ground and covering it with a glazed roof, the walipini harnesses [[comparison-passive-solar-vs-earth-sheltered]] heating combined with geothermal insulation to grow food through winter in climates that would otherwise be too cold for outdoor production.
 
 ## How It Works
 
@@ -21,7 +21,7 @@ The earth below the frost line maintains a constant temperature of approximately
 
 ### 2. Passive Solar Heating
 
-A south-facing (in the Northern Hemisphere) angled roof covered with glazing captures low-angle winter sunlight. The sunlight enters, warms the interior air and soil, and the heat is absorbed by the earth floor and back wall (thermal mass). At night, this stored heat radiates back into the growing space.
+A south-facing (in the Northern Hemisphere) angled roof covered with glazing captures low-angle winter sunlight. The sunlight enters, warms the interior air and soil, and the heat is absorbed by the earth floor and back wall (thermal mass). At night, this stored heat radiates back into the [[cotter-growing-space-design-fruiting-rooms]].
 
 ### 3. Thermal Mass
 
@@ -47,7 +47,7 @@ The earth walls, floor, and any additional thermal mass (water barrels, stone wa
 - **Above-grade height:** 4-6 feet at the front (south) wall, increasing to 8-10 feet at the back (north) wall
 - **Total height:** 10-16 feet at the back wall
 - **Width:** 10-20 feet. Wider is more stable but harder to span with the roof glazing.
-- **Length:** 20-60+ feet. Longer walipinis provide more growing space and better air circulation.
+- **Length:** 20-60+ feet. Longer walipinis provide more growing space and better [[stamets-growing-room-air-circulation-co2-management]].
 
 ### The Roof Angle
 
@@ -123,8 +123,8 @@ Water is the enemy of underground structures. Install drainage before building a
 
 ### Inside the Walipini
 
-- **Humidity:** Underground greenhouses tend to have high humidity due to evaporation from the earth floor. Provide adequate ventilation to prevent mold and fungal issues.
-- **Watering:** The earth floor can provide some moisture to plant roots from below, but supplemental watering is usually needed. Use drip irrigation or water by hand.
+- **Humidity:** Underground greenhouses tend to have high humidity due to evaporation from the earth floor. Provide adequate ventilation to [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]] and fungal issues.
+- **Watering:** The earth floor can provide some moisture to plant roots from below, but supplemental watering is usually needed. Use [[comparison-drip-irrigation-vs-passive-irrigation]] or water by hand.
 - **Condensation:** Condensation will form on the glazing. Direct it to drainage channels so it doesn't drip on plants.
 
 ### Outside Drainage
@@ -137,34 +137,12 @@ Water is the enemy of underground structures. Install drainage before building a
 
 ### Winter Crops
 
-- **Leafy greens:** Spinach, kale, lettuce, chard, Asian greens, arugula, mustard
+- **[[solomon-leafy-greens-growing]]:** Spinach, kale, lettuce, chard, Asian greens, arugula, mustard
 - **Root crops:** Carrots, beets, radishes, turnips, parsnips
 - **Alliums:** Garlic, onions, leeks, scallions
-- **Herbs:** Parsley, cilantro, chives, mint, rosemary (if warm enough)
+## Related
 
-### Summer Management
-
-- **Ventilation:** Open all vents and doors. Consider removing sections of glazing.
-- **Shade cloth:** 50-70% shade cloth over the glazing reduces heat load
-- **Crop selection:** Switch to heat-loving crops (tomatoes, peppers, cucumbers) or use the walipini as a propagation area
-- **Night ventilation:** Leave vents open at night in summer to release accumulated heat
-
-### Temperature Management
-
-- **Monitor:** Place min/max thermometers at plant height and near the ceiling
-- **Heating backup:** In extreme cold (-20°F and below), a small space heater or rocket mass heater (see [[rocket-mass-heater-design]]) may be needed
-- **Thermal mass enhancement:** Add water barrels (painted black) along the back wall to increase heat storage capacity
-
-## Common Problems and Solutions
-
-- **Water infiltration:** Improve drainage. This is the most common and most serious problem — address it before building.
-- **Poor ventilation and mold:** Increase vent size, add a fan, ensure the top vent is high enough for effective chimney effect
-- **Summer overheating:** Increase ventilation, add shade cloth, consider removable roof panels for summer
-- **Poor light levels in winter:** Keep glazing clean, use reflective surfaces on the back wall, prune any vegetation that shades the structure
-- **Insect pests:** Screen all vents and doors; introduce beneficial insects (ladybugs, parasitic wasps)
-- **Soil-borne diseases:** Rotate crops, practice good sanitation, avoid overhead watering
-
-## Related Concepts
+- [[walipini-underground-greenhouse]] Concepts
 
 - [[geodesic-greenhouse-design]] for an above-ground alternative with excellent structural efficiency
 - [[rocket-mass-heater-design]] for a supplementary heating system in very cold climates

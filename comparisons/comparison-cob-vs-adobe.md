@@ -39,7 +39,7 @@ minimal when soil is available on-site.
 
 The limitations of adobe include its vulnerability to water erosion (even more than cob, because
 mortar joints between bricks are potential infiltration points), poor seismic performance due to
-weak tensile and shear strength at mortar joints, and the slow brick production process (2-4
+weak tensile and shear strength at mortar joints, and the slow brick [[directed-inoculum-production-process-for-amf]] (2-4
 weeks of drying per batch, weather-dependent). Adobe walls are inherently rectilinear, offering
 less design flexibility than cob for curved or organic forms. Very wet climates present
 significant challenges unless stabilized adobe bricks are used, and the weight of thick adobe
@@ -63,7 +63,7 @@ walls requires substantial foundations.
 ## When to Choose Cob
 Cob is the better choice when design freedom is a priority — curves, organic shapes, built-in
 furniture, sculptural elements, and personalized spaces. It suits builders who want to work
-intuitively and sculpturally rather than with modular precision, community building workshops
+intuitively and sculpturally rather than with modular precision, [[urban-permaculture-community-building-social-design]] workshops
 where hands-on participation is valued, and sites in moderate climates with suitable clay soil.
 Cob excels for small structures (garden walls, studios, guest houses, outdoor ovens) where its
 sculptural qualities can be fully expressed. It is also the better choice for additions to

@@ -4,7 +4,7 @@
 ## Overview
 
 Understanding human photoreception provides the essential baseline
-against which [[electromagnetic-spectrum-and-light-wave-properties]]. This system enables colour
+against which electromagnetic-spectrum-and-light-wave-properties. This system enables colour
 discrimination, low-light vision, and high-resolution spatial
 awareness, capabilities that plants achieve through entirely
 different molecular mechanisms.
@@ -47,7 +47,7 @@ that a person born totally blind, granted only the ability to
 distinguish light from shadow, would gain rudimentary sight, the
 parallels with [[what-a-plant-knows-plant-vision-and-light-perception]]
 work. Phytochromes absorb red and far-red light, cryptochromes
-absorb blue and UV light, and phototropins respond to blue light.
+absorb blue and UV light, and phototropins respond to [[chamovitz-julius-von-sachs-blue-light-phototropism]].
 In both systems, the molecular structure of the photoreceptive
 pigment determines which wavelengths can be detected, and the
 information is then transduced into a biochemical signal that
@@ -68,12 +68,12 @@ Beyond the visible spectrum, ultraviolet light has shorter
 ## See Also
 
 - [[phytochrome-photoreception]] - Phytochrome photoreceptor systems
-- phytochrome and plant light perception - Plant light sensing
+- phytochrome and plant [[plant-vision-and-light-perception-mechanisms]] - Plant light sensing
 - [[darwin-phototropism-discovery-plant-light-perception]] - Darwin's
   phototropism experiments
 ## Practical Considerations
 
-Successful implementation of Human Photoreception Rods Cones And Visual Pigments requires attention to
+Successful implementation of Human human photoreception rods cones and visual pigments Cones And Visual Pigments requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

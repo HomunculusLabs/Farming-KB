@@ -1,5 +1,5 @@
 ---
-title: "Natural Farming Principles"
+title: "Natural natural-farming-principles-fukuoka"
 type: concept
 tags:
   - natural-farming
@@ -57,7 +57,7 @@ of which become unnecessary under the natural farming framework.
 
 ### No Fertilizer
 
-Chemical fertilizers and prepared compost are both rejected. Applying
+[[cervantes-chemical-fertilizers-guide]] and prepared compost are both rejected. Applying
 organic matter harvested from one area to another merely transfers
 fertility, ultimately depleting the source land. Instead, his system
 relies on returning all crop residues to the field and maintaining a
@@ -68,7 +68,7 @@ gram of soil on his farm, making external fertility inputs unnecessary.
 
 ### No Pesticides
 
-Rather than attempting to eliminate insect pests and diseases, natural
+Rather than attempting to eliminate insect [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]], natural
 farming accepts their presence as part of a balanced ecosystem. Fukuoka
 argued that nature maintains its own equilibrium, and that disease and
 pest outbreaks are symptoms of an imbalanced system created by human
@@ -77,7 +77,7 @@ intervention.
 The diverse plant community in his fields — rice, barley, clover, and
 various weeds — supported a correspondingly diverse insect population that
 kept individual species from reaching damaging levels. Predatory insects
-thrived alongside herbivorous ones, creating natural biological control.
+thrived alongside herbivorous ones, [[fukuoka-creating-natural-farm-site-selection-establishment]] [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]].
 
 ### No Weeding
 
@@ -121,7 +121,7 @@ winter grain per quarter-acre, exceeding the local average.
 
 Natural farming is rooted in what Fukuoka called "green philosophy" —
 the recognition that human knowledge and intervention have caused more
-ecological destruction than benefit. He viewed scientific agriculture as
+ecological destruction than benefit. He viewed [[fukuoka-critique-scientific-agriculture-civilization]] as
 reductionist, studying isolated variables while missing the holistic
 relationships that sustain natural systems.
 
@@ -138,7 +138,9 @@ human design compared to his ideal of complete non-interference.
 Critics note that Fukuoka's system is highly adapted to the climate of
 ## See Also
 
-- [[permaculture]]
+- [[natural-farming-sustainable-living-principles]]
+
+- permaculture
 - [[hamilton-green-manure-crops-and-cover-cropping]]
 - [[soil-food-web-nutrient-cycling]]
 - forest gardening and food forests

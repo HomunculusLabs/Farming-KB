@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Wu ZY, Raven PH, Hong DY (2008). "Flora of China, Vol. 5." Science Press.
   - Hegi G (1965). "Illustrierte Flora von Mitteleuropa." Carl Hanser Verlag.
-  - Duke JA (2002). "Handbook of Medicinal Herbs." CRC Press.
+  - Duke JA (2002). "Handbook of [[permaculture-plants-medicinal-herbs-healing]]." CRC Press.
   - Valentini G, Bella S, Ferro S (2002). "Essential oil composition of Asarum europaeum." Flavour and Fragrance Journal 17(1): 65-67.
 ---
 
@@ -20,7 +20,7 @@ sources:
 
 **Asarum europaeum** (European wild ginger) is a low-growing perennial herb in the family Aristolochiaceae, native to broadleaf forests of Europe. The plant forms dense mats of glossy, kidney-shaped leaves and produces small, bell-shaped flowers at ground level.
 
-It is closely related to North American wild ginger (*Asarum canadense*) but is distinguished by its evergreen foliage and more potent aromatic oils. European wild ginger has a long history of use in European folk medicine and as a culinary spice, though modern use is limited due to aristolochic acid concerns.
+It is closely related to [[growing-gourmet-north-american-reishi-species]] wild ginger (*Asarum canadense*) but is distinguished by its evergreen foliage and more potent aromatic oils. European wild ginger has a long history of use in European folk medicine and as a culinary spice, though modern use is limited due to aristolochic acid concerns.
 
 The species is valued in horticulture as a shade-tolerant ground cover, particularly in woodland gardens and shaded borders.
 
@@ -30,7 +30,7 @@ The species is valued in horticulture as a shade-tolerant ground cover, particul
 
 The genus name derives from the Greek *asaron*, an ancient name for wild ginger used by Dioscorides.
 
-The specific epithet *europaeum* refers to its European distribution.
+The specific epithet *europaeum* refers to its [[fukuoka-european-distribution-system-critique]].
 
 Growth habit is a creeping rhizomatous perennial reaching 5–10 cm in height.
 
@@ -60,7 +60,7 @@ Its northern range extends to southern Scandinavia and the Baltic states.
 
 The species is absent from the Mediterranean region and the Iberian Peninsula.
 
-It has been widely naturalized outside its native range, including parts of eastern North America.
+It has been widely naturalized outside its native range, including parts of [[polypore-fungi-eastern-north-america]] America.
 
 Preferred habitat is deciduous or mixed forest understory on moist, well-drained, calcareous or neutral soils.
 
@@ -68,7 +68,7 @@ It thrives in deep to partial shade, often forming extensive colonies on forest 
 
 The plant is found at elevations from sea level to approximately 1,500 meters in montane forests.
 
-Optimal growth occurs in areas with consistent moisture and cool temperatures during the growing season.
+Optimal growth occurs in areas with consistent moisture and cool temperatures during the [[savory-growing-season-and-non-growing-season-management]].
 
 ## Chemistry and Pharmacology
 
@@ -116,7 +116,7 @@ The ground-level flowers of *A. europaeum* are adapted for pollination by ground
 
 The flowers emit a faint, slightly putrid odor that attracts these specific pollinators.
 
-Slugs and snails are the primary herbivores, feeding on both leaves and flowers.
+[[query-how-to-get-rid-of-slugs-and-snails-organically]] are the primary herbivores, feeding on both leaves and flowers.
 
 The dense, evergreen leaf mats provide habitat for soil invertebrates and help retain forest floor moisture.
 

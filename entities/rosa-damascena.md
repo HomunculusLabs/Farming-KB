@@ -20,11 +20,11 @@ tags:
   - pollinator
   - hedgerow
 sources:
-  - Weiss, E.A. (1997). Essential Oil Crops. CAB International.
+  - Weiss, E.A. (1997). permaculture-designers-manual-essential-oil-plants Crops. CAB International.
   - Baydar, H. & Gürel, A. (2013). "Agricultural and economical characteristics of rose oil." In: Essential Oil-Bearing Grasses, 2nd ed. CRC Press.
   - Kumar, N. et al. (2019). "Rosa damascena: A comprehensive review." Phytotherapy Research, 33(7), 1657–1684.
   - Rusanov, K. et al. (2005). "Molecular markers for rose cultivar identification." Molecular Breeding, 16, 171–179.
-  - Lawrence, B.M. (2005). "The isolation of rose oil." In: Progressive Essential Oils. Allured Publishing.
+  - Lawrence, B.M. (2005). "The isolation of rose oil." In: Progressive [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]. Allured Publishing.
 ---
 
 # Rosa damascena
@@ -35,7 +35,7 @@ Rosa damascena, the Damask rose, is a deciduous flowering shrub cultivated prima
 
 The species is a natural hybrid, believed to originate from crosses between *R. gallica* and *R. moschata*, or *R. gallica* and *R. phoenicea*. Two main varieties are recognized: the summer Damask (*R. damascena* var. *damascena*, flowering once) and the autumn Damask (*R. damascena* var. *trigintipetala*, the Kazanlik rose, flowering twice).
 
-Damask rose cultivation has been documented for over 2000 years, centered historically in the Middle East, Persia, and the Balkans. The town of Kazanlâk in Bulgaria remains the world's primary production region.
+Damask rose cultivation has been documented for over 2000 years, centered historically in the Middle East, Persia, and the Balkans. The town of Kazanlâk in Bulgaria remains the world's [[lichens-primary-production-soil-formation-dighton]] region.
 
 ## Taxonomy and Morphology
 
@@ -51,7 +51,7 @@ Stems are armed with abundant prickles (thorns), which are stout, curved, and pa
 
 **Flowers** are borne in corymbose clusters of 3–7. Each flower is 5–8 cm in diameter with 30–40 petals.
 
-Petals are pink to deep rose-red, with a velvety texture and intensely fragrant. The characteristic Damask rose fragrance is a complex blend of over 300 volatile compounds.
+Petals are pink to deep rose-red, with a velvety texture and intensely fragrant. The characteristic Damask rose fragrance is a complex blend of over 300 [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]].
 
 **Fruit** is a globose to ovoid hip, 1.5–2 cm diameter, orange-red when ripe, containing numerous achenes.
 
@@ -69,7 +69,7 @@ Propagation is through softwood cuttings, hardwood cuttings, or suckers. Own-roo
 
 ## Essential Oil Chemistry
 
-Rose oil is obtained by steam distillation of fresh petals, producing a pale yellow to yellow liquid with a deep, sweet, floral aroma.
+Rose oil is obtained by [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] of fresh petals, producing a pale yellow to yellow liquid with a deep, sweet, floral aroma.
 
 The major constituents are citronellol (18–35%), geraniol (12–25%), nerol (5–15%), nonadecane (7–15%), and heneicosane (7–15%). The paraffin hydrocarbons contribute to the oil's waxy character and fixative properties.
 
@@ -109,7 +109,7 @@ The flowers attract diverse pollinators — bees, butterflies, and hoverflies �
 
 Rose hips provide winter food for birds and are rich in vitamin C for human consumption. The dense, thorny growth offers nesting sites and protective cover for small fauna.
 
-In multistrata systems, Damask rose occupies the shrub layer beneath fruit trees and above ground covers. Its root system helps prevent soil erosion on slopes.
+In multistrata systems, Damask rose occupies the shrub layer beneath fruit trees and above [[permaculture-plants-food-forest-ground-covers-bamboos]]. Its root system helps prevent soil erosion on slopes.
 
 ## See Also
 
@@ -117,4 +117,4 @@ In multistrata systems, Damask rose occupies the shrub layer beneath fruit trees
 - [[melissa-officinalis]]
 - [[rosmarinus-officinalis-entity]]
 - [[calendula-officinalis]]
-- [[hippophae-rhamnoides]]
+- hippophae-rhamnoides

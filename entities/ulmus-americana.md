@@ -10,10 +10,10 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of North America: Volume 2, Hardwoods." USDA Forest Service Agriculture Handbook 654.
+  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 2, Hardwoods." USDA Forest Service Agriculture Handbook 654.
   - Sinclair, W.A. & Campana, R.J. (1978). "Dutch Elm Disease: Perspectives after 60 Years." Search Agriculture, Cornell University Agricultural Experiment Station, 8(5).
   - Smalley, E.B. & Guries, R.P. (1993). "Breeding elms for disease resistance." Annual Review of Phytopathology, 31, 325-352.
-  - Dunn, C.P. (2000). "The elms: breeding, conservation, and disease management." Kluwer Academic Publishers.
+  - Dunn, C.P. (2000). "The elms: breeding, conservation, and [[plant-disease-management-solomon]]." Kluwer Academic Publishers.
 ---
 
 ## Overview
@@ -22,7 +22,7 @@ sources:
 
 It was once among the most abundant and beloved street trees in North America, valued for its graceful vase-shaped form, rapid growth, and tolerance of urban conditions.
 
-The species was devastated by Dutch elm disease (DED) in the mid-20th century, which killed an estimated 77 million elms in the United States and Canada between 1930 and 1980.
+The species was devastated by Dutch elm disease (DED) in the mid-20th century, which killed an estimated 77 million elms in the [[dmt-containing-plants-united-states-halpern]] and Canada between 1930 and 1980.
 
 American elm remains a culturally and ecologically important species, and disease-resistant cultivars are now enabling its reintroduction in urban forestry and ecological restoration.
 
@@ -32,7 +32,7 @@ American elm remains a culturally and ecologically important species, and diseas
 
 **Authority:** Linnaeus (1753)
 
-American elm is one of approximately 30–40 species in the genus *Ulmus*, closely related to other North American elms including slippery elm (*U. rubra*) and rock elm (*U. thomasii*).
+American elm is one of approximately 30–40 species in the genus *Ulmus*, closely related to other [[growing-gourmet-north-american-reishi-species]] elms including slippery elm (*U. rubra*) and rock elm (*U. thomasii*).
 
 **Bark:** Gray to dark gray-brown, deeply furrowed with broad, irregular ridges and a characteristic diamond-shaped pattern of intersecting fissures.
 
@@ -42,7 +42,7 @@ Inner bark is mucilaginous, a trait shared with slippery elm though less pronoun
 
 The leaf base is a distinctive diagnostic feature of elm species — one side of the blade is noticeably longer than the other at the point of attachment.
 
-**Flowers:** Perfect, apetalous, appearing in loose clusters before leaf emergence in early spring. Flowers are reddish-purple and approximately 5 mm across.
+**Flowers:** Perfect, apetalous, appearing in loose clusters before leaf emergence in [[coleman-overwintered-onions-and-early-spring-crops]]. Flowers are reddish-purple and approximately 5 mm across.
 
 **Fruit:** A flat, oval samara approximately 12–18 mm long with a membranous wing surrounding the central seed. Samaras mature in spring and are dispersed by wind.
 
@@ -68,7 +68,7 @@ The fungus spreads through the xylem vessels, causing wilting, yellowing, and ev
 
 The disease was first identified in the Netherlands in 1921 and arrived in North America circa 1930 on infected elm veneer logs shipped from Europe.
 
-Between 1930 and 1980, Dutch elm disease killed an estimated 75–80% of all mature American elms across the species' range, fundamentally altering the composition of eastern North American forests and urban landscapes.
+Between 1930 and 1980, Dutch elm disease killed an estimated 75–80% of all mature American elms across the species' range, fundamentally altering the composition of [[polypore-fungi-eastern-north-america]] American forests and urban landscapes.
 
 The disease continues to spread and kill susceptible trees, though at a reduced rate as resistant cultivars and management programs have been implemented.
 

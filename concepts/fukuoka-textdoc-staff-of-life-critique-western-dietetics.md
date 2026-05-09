@@ -1,5 +1,5 @@
 ---
-title: Staff of Life and Critique of Western Dietetics
+title: [[fukuoka-textdoc-absence-no-fertilizer-tests]] staff of life [[fukuoka-critique-western-dietetics]] dietetics and Critique of fukuoka-critique-western-dietetics-nutritional-science
 created: 2026-04-28
 tags:
   - fukuoka
@@ -16,12 +16,12 @@ type: concept
 
 ## Overview
 
-Masanobu Fukuoka delivers a sustained critique of Western dietetics and
+[[masanobu-fukuoka]] delivers a sustained critique of Western dietetics and
 its foundational premise that health requires a scientifically calculated
 balanced diet. He argues that taste and nutrition must be one, that the
 analytical approach to food fragments what should be whole, and that the
 four-group scoring method used at Japanese nutrition colleges exemplifies
-everything wrong with modern nutritional science. This page examines his
+everything wrong with modern [[fukuoka-critique-western-dietetics-nutritional-science]]. This page examines his
 argument that the quest for nutritional completeness through science has
 produced the opposite of its intended result.
 
@@ -34,7 +34,7 @@ the same as saying we nourish ourselves so we can work harder and live
 longer. Fukuoka insists that what is nourishing and good for the human
 body should stimulate the appetite of its own accord and serve as
 delicious food. Flavor and nutrition must be one. He contrasts the simple
-Eastern diet of brown rice and vegetables, which provides everything the
+Eastern diet of [[cho-brown-rice-vinegar-preparation]] and vegetables, which provides everything the
 body needs, with Western dietetics that teaches health cannot be
 maintained without a full complement of nutrients.
 
@@ -58,7 +58,7 @@ Fukuoka uses a vivid metaphor to illustrate the limits of analytical
 science: man can dissect a butterfly and examine it in the greatest
 detail, but he cannot make it fly. And even were this possible, he
 cannot know the heart of the butterfly. Unmindful of the simple truth
-that the whole is greater than the parts, modern science commits blunder
+that the whole is greater than the parts, [[fukuoka-road-critique-of-modern-science]] commits blunder
 after blunder. No matter how the scientist may attempt to assemble a
 full array of ingredients, this will never approach a complete diet. The
 powers of the intellect will succeed only in creating an incomplete diet
@@ -110,7 +110,7 @@ highly yang and acidic, while potato is a very yin vegetable. Fukuoka
 declares none of these agree with the Japanese people. He proposes an
 alternative: grow rice suited to the Japanese climate, stop importing
 wheat, grow early-maturing naked barley harvestable in May before the
-summer rains, and revive the practices of eating brown rice and
+summer rains, and revive the practices of eating [[brown-rice-flour-substrate]] and
 rice-and-barley. If all this is too much for modern man, he recommends
 at least making brown rice bread or bread from naked barley.
 

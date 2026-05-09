@@ -1,19 +1,20 @@
 ---
-title: Biological Pest Control - Predators and Parasites
+title: cervantes biological pest control predators Control - Predators and Parasites
 created: 2026-04-26
 tags: [cannabis, pest-control, IPM, biological-control, predators]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Biological Pest Control - Predators and Parasites
 
-Biological controls use living organisms - predators and parasites - to manage
+Biological controls use [[savory-living-organisms-as-tools]] - predators and parasites - to manage
 pest populations in cannabis gardens. Jorge Cervantes documents this approach
-as an integral part of integrated pest management (IPM), emphasizing that
+as an integral part of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management (IPM), emphasizing that
 predators work best as preventative control but are slower to stop an active
 infestation.
 
@@ -44,8 +45,8 @@ details with the supplier:
 
 1. **Latin name** of the organism to avoid confusion
 2. **Specific pests attacked** by the predator
-3. **Complete life cycle** information
-4. **Preferred climate** including temperature and humidity ranges
+3. **Complete [[bloomfield-fungal-life-cycle-spiral-versus-circle]]** information
+4. **Preferred climate** including [[greg-green-temperature-and-humidity-control]] ranges
 5. **Application rate and method** of introduction
 
 Reliable suppliers ship predators via special delivery and provide detailed
@@ -73,11 +74,15 @@ Predatory mites are among the most effective controls for [[cervantes-pyrethrum-
 ### Garden Conditions
 
 - Gardens with [[cervantes-sticky-traps-pest-monitoring]],
-proper [[cervantes-companion-planting-pest-deterrent]] for pest deterrence.
+proper [[cervantes-companion-planting-pest-deterrent]] for [[foliar-pest-deterrence-aact-mechanisms]].
 
-See also: [[gaias-garden-host-plants-beneficial-insects]], [[biological-pest-control-balance]]
+See also: gaias-garden-host-plants-beneficial-insects, [[biological-pest-control-balance]]
 
 - [[cervantes-caterpillars-budworms]]
 - [[cervantes-slugs-snails]]
 
 - [[cervantes-humidity-control-dehumidification]]
+
+## See Also
+
+- [[cervantes-outdoor-vertebrate-pest-control]]

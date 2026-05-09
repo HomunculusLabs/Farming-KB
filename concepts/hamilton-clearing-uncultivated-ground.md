@@ -1,5 +1,5 @@
 ---
-title: "Clearing Uncultivated Ground"
+title: "hamilton clearing uncultivated ground Ground"
 created: 2026-04-28
 tags: [land-clearing, weed-control, new-garden, soil-preparation, organic-gardening]
 date: 2026-04-25
@@ -48,7 +48,7 @@ full clearance.
 
 After initial digging, cover the cleared ground to suppress any remaining
 weeds. Black plastic sheeting is a cheap and effective covering for
-vegetable areas. Heavy-duty landscape fabric allows water through while
+vegetable areas. Heavy-duty [[comparison-mulch-types-and-effects-vs-landscape-fabric-alternatives]] allows water through while
 blocking light. For ornamental areas, a layer of coarse gravel at least
 2in (5cm) thick provides an attractive and effective weed barrier. Bark
 chippings also work well and last for several years.
@@ -115,7 +115,7 @@ genuinely clean, and no harmful residues remain to affect future crops.
 - Dig out dandelions and docks completely; no shortcut works
 - Be patient with bindweed and couch grass; they require multiple seasons
 - Install root barriers along fence lines to prevent encroachment
-- Regular cultivation is the single most effective organic weed control
+- Regular cultivation is the single most effective organic [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
 
 ## Related Concepts
 

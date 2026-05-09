@@ -1,5 +1,5 @@
 ---
-title: "Cannabis Breeding Selection Principles"
+title: "Cannabis cannabis breeding selection principles clarke Principles"
 created: 2026-04-28
 tags: [cannabis, breeding, selection, genetics, Clarke]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: concept
 # Cannabis Breeding Selection Principles
 
 Selection is the first and most important step in the breeding of any
-plant. The work of the great breeder and plant wizard Luther Burbank
+plant. The work of the great breeder and plant wizard [[tompkins-luther-burbank-intuitive-breeding]]
 stands as a beacon to breeders of exotic strains. His success in
 improving hundreds of flower, fruit, and vegetable crops was the result
 of his meticulous selection of parents from hundreds of thousands of
@@ -45,9 +45,9 @@ pollinations by early-flowering or overlooked staminate plants and by
 hermaphrodite pistillate plants. Many of these random pollen-parents may
 be undesirable for breeding since they may pass on tendencies toward
 premature maturation, retarded maturation, or hermaphrodism. The
-collected hybrid seeds produce, on the average, larger and more
+collected [[heirloom-vs-hybrid-seeds-comparison]] produce, on the average, larger and more
 desirable offspring than the first season. This condition is called
-hybrid vigor and results from the hybrid crossing of two diverse gene
+[[cannabis-hybrid-vigor-and-phenotypes-clarke]] and results from the hybrid crossing of two diverse gene
 pools.
 
 ## Hybrid Vigor and Its Pitfalls
@@ -62,7 +62,7 @@ characteristics in the F2 offspring.
 
 Hybrid vigor may also mask inferior qualities due to abnormally rapid
 growth. During the second season, random pollinations again account for
-a few seeds. By the third season the gene pool is tending toward
+a few seeds. By the third season the [[cannabis-gene-pool-preservation-acclimatization-clarke]] is tending toward
 early-maturing plants that are acclimatized to their new conditions
 instead of the drug-producing conditions of their native environment.
 
@@ -139,7 +139,6 @@ first, and later selections focus on the most desirable characteristics
 exhibited by juvenile or adult plants. Many important traits to be
 selected for in Cannabis floral clusters cannot be judged until long
 after the parents are gone, so many crosses are made early and
-selection of seeds made at a later date.
 ## See Also
 
 - [[clarke-marijuana-botany-genetics-breeding]]

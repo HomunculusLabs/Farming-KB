@@ -1,5 +1,5 @@
 ---
-title: "Lysergic Acid"
+title: "ergot-and-lysergic-acid-history"
 created: 2026-04-28
 type: chemical
 tags:
@@ -33,7 +33,7 @@ derivatives — particularly ergine (LSA) and LSD — exhibit profound serotoner
 activity.
 
 The compound occurs naturally in several species of the Clavicipitaceae family,
-including ergot fungi and certain morning glory species.
+including ergot fungi and certain [[golden-guide-morning-glory-and-ololiuqui]] species.
 
 ## Chemical Properties
 
@@ -67,7 +67,7 @@ The pathway proceeds through several key intermediates:
 3. Chanoclavine-I → *agroclavine* → *elymoclavine* via series of oxidations
 4. Elymoclavine → **lysergic acid** via oxidation and isomerization
 
-This pathway is encoded by the *erg* gene cluster, found in *Claviceps purpurea*
+This pathway is encoded by the *erg* gene cluster, found in *[[bloomfield-ergot-claviceps-purpurea-ergotism]]*
 (ergot fungus) and epichloë endophytes associated with grasses.
 
 In plants such as *Ipomoea tricolor* (morning glory), a convergent pathway
@@ -99,12 +99,12 @@ though natural fermentation remains the industrial standard.
 - **Hofmann route:** Partial synthesis from ergotamine via alkaline hydrolysis,
   yielding lysergic acid hydrate. This is the practical industrial method.
 - **Fermentation:** *Claviceps purpurea* or engineered strains cultured on rye
-  or submerged fermentation produce ergot alkaloids at scale.
+  or [[cancer-medicinal-mushrooms-submerged-fermentation-production]] produce ergot alkaloids at scale.
 
 ## Legal Status
 
-- **United States:** Lysergic acid is listed as a Schedule III precursor chemical
-  under the Controlled Substances Act (21 CFR 1310.02).
+- **[[dmt-containing-plants-united-states-halpern]]:** Lysergic acid is listed as a Schedule III precursor chemical
+  under the Controlled [[controlled-substances-act-and-psychedelic-research]] (21 CFR 1310.02).
 - **International:** Monitored under the UN Convention Against Illicit Traffic
   in Narcotic Drugs and Psychotropic Substances (1988).
 - **Research:** Regulated precursor; requires DEA registration for procurement

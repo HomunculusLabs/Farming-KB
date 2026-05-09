@@ -1,10 +1,12 @@
 ---
-title: Fruit Tree Pruning
+title: Fruit fruit-tree-pruning-training-hamilton
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [gardening, homesteading, methods, plant-growth, design]
-sources: []
+sources:
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # Fruit Tree Pruning
@@ -14,8 +16,8 @@ Pruning is the selective removal of branches, shoots, and roots to shape fruit t
 ## Why Prune Fruit Trees
 
 - **Improve fruit quality**: More light and air reach the fruiting wood, producing larger, sweeter, better-colored fruit.
-- **Increase yield**: Proper pruning balances vegetative growth with fruit production.
-- **Disease prevention**: Open canopy improves airflow, reducing fungal diseases (apple scab, brown rot, powdery mildew).
+- **Increase yield**: Proper pruning balances [[cannabis-vegetative-growth-stage]] with fruit production.
+- **[[cervantes-pest-disease-prevention-overview]]**: Open canopy improves airflow, reducing fungal diseases (apple scab, brown rot, [[cervantes-powdery-mildew-prevention-treatment]]).
 - **Manage tree size**: Keep trees accessible for pruning, spraying, thinning, and harvesting.
 - **Remove dead/diseased wood**: Prevent the spread of pathogens and structural weakness.
 - **Renew bearing wood**: Fruit trees produce best on young wood. Pruning stimulates new growth.
@@ -106,7 +108,7 @@ Performed when the tree is leafless and dormant — typically February-March in 
 
 ### Summer Pruning (June - August)
 
-Performed during the active growing season when trees are in full leaf.
+Performed during the active [[savory-growing-season-and-non-growing-season-management]] when trees are in full leaf.
 
 **Best for**:
 - Removing watersprouts (vigorous, upright shoots from the trunk or scaffolds)
@@ -141,31 +143,8 @@ Performed during the active growing season when trees are in full leaf.
 - Open center training is standard for peaches and nectarines.
 - Remove 40-50% of last year's growth on peaches annually.
 - Sweet cherries are prone to bacterial canker — prune during dry summer conditions when possible.
-
-### Fig Trees
-- Produce fruit on current season's growth and on 1-year-old wood.
-- Tolerate heavy pruning well. Often grown as open center or multi-stemmed bushes.
-- In cold climates, may be grown as "knockout" figs — grown in containers and stored in a garage or shed over winter.
-
-## Disease Prevention Through Pruning
-
-- **Sanitize tools**: Dip pruners in 70% isopropyl alcohol or 10% bleach solution between cuts when working on diseased trees. Clean tools before moving to a different tree.
-- **Remove diseased wood immediately**: Cut 6-12 inches below visible symptoms of canker, fire blight, or other infections.
-- **Destroy prunings**: Burn, chip (hot compost), or bag and dispose of diseased wood. Do not leave it on the ground near the tree.
-- **Improve airflow**: The most effective disease prevention strategy is maintaining an open canopy that dries quickly after rain.
-- **Paint large wounds**: For cuts larger than 2 inches in diameter, some arborists recommend wound dressing or tree paint to prevent desiccation and pathogen entry (this is debated — many modern arborists advise against wound sealants, preferring to let the tree compartmentalize naturally).
-
-## Tools
-
-- **Hand pruners (bypass)**: For cuts up to 3/4 inch. Bypass (scissor-type) cuts are cleaner than anvil cuts.
-- **Loppers**: For cuts 3/4 to 2 inches. Bypass type preferred.
-- **Pruning saw**: For cuts larger than 2 inches. Folding saws are convenient for orchard work.
-- **Pole pruner**: For high branches without a ladder.
-- **Hedge shears**: Not recommended for fruit trees — they make heading cuts indiscriminately.
-
 ## See Also
 
 - [[food-forest-design]] — Integrating fruit trees into perennial polycultures
 - [[season-extension-techniques]] — Protecting blossoms from late frost
 - [[companion-planting-reference]] — Beneficial understory plantings beneath fruit trees
-- [[homesteading]] — Orchard management as part of homestead food production

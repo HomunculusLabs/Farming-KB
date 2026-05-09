@@ -5,6 +5,7 @@ tags: [query, mushroom-cultivation, shiitake, logs, outdoor]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: query
 ---
@@ -12,21 +13,21 @@ type: query
 # How to Grow Mushrooms on Logs?
 
 ## Short Answer
-Growing mushrooms on logs involves inoculating freshly cut hardwood logs with mushroom
-spawn (either plug spawn or sawdust spawn), sealing the inoculation sites with wax, and
+[[falconer-growing-mushrooms-in-sheds]] on logs involves inoculating freshly cut hardwood logs with mushroom
+spawn (either plug spawn or [[growing-gourmet-sawdust-spawn-production-use]]), sealing the inoculation sites with wax, and
 waiting 6 to 18 months for the mycelium to fully colonize the wood before fruiting
-begins. Shiitake and oyster mushrooms are the most popular species for log cultivation,
+begins. [[query-difference-between-shiitake-and-oyster-mushrooms]] mushrooms are the most popular species for log cultivation,
 and a single inoculated log can produce mushrooms for 3 to 7 years with proper management.
 
 ## Detailed Explanation
 
 Log cultivation is one of the oldest and most reliable methods for growing gourmet and
-medicinal mushrooms. It mimics the natural lifecycle of wood-decomposing fungi and
+[[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]. It mimics the natural lifecycle of wood-decomposing fungi and
 produces high-quality mushrooms with minimal equipment and ongoing cost. The
 [[log-cultivation-methods]] page compares different approaches including
 traditional log inoculation, wedge techniques, and totem methods.
 
-Selecting the right wood species is critical for success. Most cultivated mushrooms
+Selecting the right wood species is critical for success. Most [[fungi-cultivated-mushrooms-pathogens-competitors]]
 prefer hardwood logs, with oak, maple, beech, birch, and alder being the most commonly
 recommended species. Softwoods like pine and cedar contain resins and compounds that
 inhibit fungal growth and are generally unsuitable. The [[shiitake-cultivation-guide]] page covers the specific timing
@@ -42,7 +43,7 @@ rainfall or regular watering. Stacking logs in a crib or lean-to arrangement pro
 air circulation while maintaining humidity. The [[shiitake-log-vs-sawdust-cultivation]] page compares the log method
 to indoor sawdust cultivation, noting that log-grown shiitake generally have better
 flavor, longer shelf life, and higher market value despite lower overall yields.
-The [[mushroom-log-stump-cultivation-tree-species-guide]]
+The mushroom-log-stump-cultivation-tree-species-guide
 - Inoculate within 2 to 6 weeks of cutting using plug spawn for beginners or sawdust
   spawn for efficiency [[stamets-outdoor-natural-culture-methods]]
 - Colonization takes 6 to 18 months in a shaded, moist location with good air
@@ -71,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

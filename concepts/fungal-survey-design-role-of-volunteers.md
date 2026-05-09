@@ -1,7 +1,7 @@
 
 # Fungal Survey Design and the Role of Volunteers
 
-Effective [[fungal-inventory-methods]] programs while maintaining data quality standards.
+Effective fungal-inventory-methods programs while maintaining data [[aact-compost-quality-standards-ingham]].
 
 ## Survey Goals and Baseline Data
 
@@ -11,7 +11,7 @@ design approaches:
 - **Baseline documentation**: Establishing the species composition
   and abundances of fungi at particular sites, providing the
   foundation for measuring future changes
-- **Environmental monitoring**: Using [[fungal-indicators-soil-quality-ecosystem-health]] and responses to management
+- **[[singh-fungal-biosensors-environmental-monitoring]]**: Using [[fungal-indicators-soil-quality-ecosystem-health]] and responses to management
 - **Conservation assessment**: Identifying rare, endemic, or
   threatened species for protection priority
 - **Impact assessment**: Evaluating the effects of development,
@@ -23,7 +23,7 @@ design approaches:
    relevant environmental variables
 
 4. **Temporal replication**: fungal monitoring fungal [[fungal-monitoring-long-term-studies]] methods studies studies (at least 5 years,
-   preferably 10) are needed to account for annual variation in
+   preferably 10) are needed to account for [[macrofungi-seasonality-annual-variation]] in
    fruiting patterns
 
 5. **Voucher specimens**: All species reported should be supported
@@ -54,7 +54,7 @@ Survey data must be managed and disseminated effectively:
 
 - Both hard copy and electronic versions of raw data should be
   archived in standard formats
-- Reports should include descriptions of [[mollison-native-seed-forage-systems-and-arid-species-lists]] seed should report names of experts consulted and
+- Reports should include descriptions of mollison-native-seed-forage-systems-and-arid-species-lists seed should report names of experts consulted and
   taxonomic authorities followed
 - Voucher specimen locations must be documented
 - Electronic formats should be chosen with translatability as a
@@ -70,7 +70,7 @@ Comprehensive fungal surveys benefit from integrating multiple methods:
 ## See Also
 ## Practical Considerations
 
-Successful implementation of Fungal Survey Design Role Of Volunteers requires attention to
+Successful implementation of Fungal fungal survey design role of volunteers Of Volunteers requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

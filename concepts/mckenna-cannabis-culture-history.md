@@ -14,7 +14,7 @@ sources:
   - mckenna_t-food_of_the_gods.md (Ch.10, L3948-4331)
 ---
 # Cannabis and Culture: McKenna's Historical Survey
-Chapter 10 of [[scythian-cannabis-steam-bath-ritual]]: Scythians threw cannabis seeds onto hot stones inside enclosed tents, then shouted with the vapor that filled the space.
+Chapter 10 of [[scythian-cannabis-steam-bath-ritual]]: Scythians threw [[query-how-to-store-cannabis-seeds-for-long-term-viability]] onto hot stones inside enclosed tents, then shouted with the vapor that filled the space.
 They also burned cannabis fruit in campfire circles, dancing and singing around the flames.
 These descriptions, preserved in one of the foundational texts of Western historiography, establish cannabis use in Europe far earlier than is commonly assumed.
 ## India, China, and Religious Use
@@ -23,10 +23,10 @@ The physician Hoa-tho (~220 AD) used hemp as an anaesthetic, demonstrating sophi
 In India, cannabis was known by 1000 BC as both a euphoriant and a remedy.
 By the 10th century AD, it had become widespread in religious contexts, closely associated with esoteric Hindu spirituality, yogic saddhus, and the pursuit of direct transcendent experience.
 Shivites and Sufis both relied on cannabis for religious inspiration, placing the plant at the heart of devotional practice across religious traditions.
-This connection between cannabis and [[archaic-revival-philosophy]] — the innate human drive to restore partnership society values and reconnect with the plant-based spiritual practices of our ancestors.
+This connection between cannabis and [[archaic-revival-philosophy]] — the innate human drive to restore [[mckenna-dominator-vs-partnership-society-model]] values and reconnect with the plant-based spiritual practices of our ancestors.
 ## Recreational vs. Ritual Use
 McKenna draws a crucial distinction between recreational cannabis use, which he sees as trivializing the plant's potential, and Archaic ritual use, which is genuinely transformative.
-When employed in a ritual context with proper [[mckenna-opium-history-demeter-poppy]] — companion chapter on opium and cultural history
+When employed in a ritual context with proper [[mckenna-opium-history-demeter-poppy]] — companion chapter on opium and [[shroom-cultural-history-hippie-revolution-and-counterculture]]
 - [[mckenna-tryptamine-psilocybin-consciousness-evolution]] — McKenna's psilocybin theories
 - [[cannabis-ancient-history]] — broader cannabis history context
 - [[mckenna-lumsden-wilson-gene-culture-coevolution]]
@@ -107,4 +107,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

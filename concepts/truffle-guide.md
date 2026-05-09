@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mushrooms, foraging, species, mycorrhizae, ecology, cultivation, food]
-sources: []
+sources:
+  sources: []
 ---
 
 # Truffle Guide
@@ -60,14 +61,14 @@ Truffles are hypogeous (underground) fungi that produce their spores below the s
 
 ### Site Selection
 
-Successful truffle orchards require careful site assessment:
+Successful truffle orchards require careful [[mollison-designers-design-client-interview-and-site-assessment-process]]:
 
 - Soil: well-drained, calcareous (pH 7.5-8.3 for T. melanosporum)
 - Climate: moderate winters, warm (not hot) summers, adequate rainfall
 - Elevation: typically 300-1000m for European species
 - Aspect: north or east facing preferred in warmer regions
 - Drainage: critical — truffles rot in waterlogged soils
-- Previous land use: avoid former agricultural land with residual herbicides
+- Previous land use: avoid former [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] with residual herbicides
 
 ### Host Trees
 
@@ -82,10 +83,10 @@ Successful truffle orchards require careful site assessment:
 1. Obtain inoculated seedlings from certified nurseries
 2. Soil test and amend as needed (lime to raise pH, ensure drainage)
 3. Plant trees on a grid: typically 5-8 meters apart (150-400 trees/hectare)
-4. Irrigation system installation (drip irrigation preferred)
-5. Weed control (mowing or mulching, not herbicides near tree roots)
+4. Irrigation system installation ([[comparison-drip-irrigation-vs-passive-irrigation]] preferred)
+5. [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]] (mowing or mulching, not herbicides near tree roots)
 6. Protect from livestock and wildlife
-7. Monitor mycorrhizal colonization through root sampling
+7. Monitor [[arbuscular-mycorrhizal-colonization-patterns]] through root sampling
 
 ### Maintenance
 
@@ -141,27 +142,9 @@ Truffle-hunting dogs are essential for finding ripe truffles underground. While 
 - Unripe truffles are soft, light-colored, and have minimal aroma
 - Use a trained dog to locate; gentle extraction with a trowel
 - Handle minimally — skin oils and rough handling degrade quality
-- Clean gently with a soft brush (never wash)
-- Store at 35-40 F in paper towels, in an airtight container
-- Consume within 5-7 days of harvest — aroma diminishes rapidly
-- Freeze for longer storage (whole, wrapped tightly)
-
-## Foraging Safety
-
-- All true Tuber species are edible when properly identified
-- The primary risk is misidentification with toxic underground fungi (rare but possible)
-- Most dangerous: some species in the genera Hebeloma and Inocybe can be found underground
-- Work with experienced foragers initially
-- Always verify the marbled interior pattern characteristic of Tuber
-- See [[chanterelle-guide]] for general wild mushroom foraging safety principles
-
-## Economics
-
-The global truffle market is estimated at several billion dollars annually. European production has declined significantly over the past century due to habitat loss, deforestation, and climate change, driving prices upward. Truffle cultivation is a long-term investment with high potential returns but significant risk and uncertainty.
-
 ## Related Topics
 
 - [[matsutake-mushroom]] for another mycorrhizal fungus that cannot be cultivated
 - [[porcini-boletus-guide]] for another high-value wild foraged mushroom
-- [[chanterelle-guide]] for wild mushroom foraging methods and safety
+- [[chanterelle-guide]] for wild [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]] methods and safety
 - [[mycorrhizal-networks]]

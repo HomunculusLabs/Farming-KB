@@ -62,7 +62,7 @@ The Sachamama is part of a broader family of serpent beings in Amazonian cosmolo
 - sachamama the mother of the forest -- another forest spirit
 
 - [[shipibo-icaros-healing-songs]]
-- [[ayahuasca-vision-art-and-Shipibo-tradition]]
+- [[ayahuasca-vision-art-and-shipibo-tradition]]
 ## Practical Considerations
 
 Successful implementation of Sachamama the Mother of the Forest requires attention to
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

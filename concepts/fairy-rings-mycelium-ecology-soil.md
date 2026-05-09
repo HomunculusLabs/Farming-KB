@@ -16,7 +16,7 @@ type: concept
 
 # Fairy Rings and Mycelial Soil Ecology
 
-Fairy rings are circular or arc-shaped patterns of mushroom fruiting that
+Fairy rings are circular or arc-shaped patterns of [[ectomycorrhizal-mushroom-fruiting-ecology]] that
 appear on lawns, pastures, and in forests. These striking formations have
 captured human imagination for centuries, featuring prominently in European
 folklore as the dancing places of fairies. Beneath the folklore, however,
@@ -46,7 +46,7 @@ the surrounding vegetation. Type I rings produce a zone of dead grass inside
 the ring, caused by the mycelium forming a dense mat that makes the soil
 water-repellent and deprives plant roots of moisture. A zone of stimulated
 grass growth may appear outside the dead zone where the mycelium releases
-nitrogen and other nutrients as it decomposes organic matter.
+nitrogen and other nutrients as it decomposes [[hamilton-composting-and-organic-matter-management]].
 
 Type II rings produce a ring of dark green, stimulated grass without a zone
 of dead grass. The enhanced growth results from the release of nitrogen
@@ -59,12 +59,12 @@ only by the presence of mushrooms.
 Several fungal species are known to produce fairy rings. The most common on
 lawns in temperate regions include species of Marasmius (especially Marasmius
 oreades, the fairy ring mushroom), Lepista (tricholoma), and Agaricus. In
-forests, species of Laccaria, Tricholoma, and other mycorrhizal fungi can
+forests, species of Laccaria, Tricholoma, and other [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] can
 produce rings that are visible as arcs or complete circles of mushrooms
 among the trees.
 
 The fairy ring mushroom, Marasmius oreades, is one of the best-known ring-
-forming species and is also an edible mushroom prized by foragers. It
+forming species and is also an [[bloomfield-boletus-satanus-edible-mushroom-hazards]] prized by foragers. It
 typically produces Type II rings on lawns and pastures, forming rings of
 dark green grass that expand gradually each year.
 
@@ -73,7 +73,7 @@ dark green grass that expand gradually each year.
 Some fairy rings attain enormous sizes, spanning hundreds of meters in
 diameter. A famous fairy ring in Belfort, France, was estimated to be
 approximately 700 meters in diameter and over 500 years old. Such giant
-rings represent some of the largest and oldest known living organisms,
+rings represent some of the largest and oldest known [[savory-living-organisms-as-tools]],
 comparable in scale to clonal colonies of trees such as the quaking aspen
 "Pando" in Utah.
 
@@ -114,7 +114,7 @@ wonder that fairy rings inspire.
 ## Ecological Significance
 
 Beyond their aesthetic and cultural interest, fairy rings illustrate
-fundamental principles of fungal ecology. They demonstrate the capacity of
+fundamental principles of [[gadd-fungal-ecology-endophytes]]. They demonstrate the capacity of
 fungal mycelia for indefinite radial growth, the ability of fungi to modify
 soil chemistry and hydrology over large areas, and the intimate connections
 between fungi and plant communities. Fairy rings are visible expressions

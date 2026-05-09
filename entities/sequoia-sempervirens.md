@@ -22,7 +22,7 @@ sources:
 
 **Sequoia sempervirens**, the coast redwood, is an evergreen conifer in
 the family Cupressaceae and the tallest tree species on Earth. It is
-endemic to a narrow coastal strip of the western United States.
+endemic to a narrow coastal strip of the western [[dmt-containing-plants-united-states-halpern]].
 
 Individual specimens regularly exceed 100 meters in height, with the
 tallest recorded reaching 115.92 meters. Coast redwoods are also among
@@ -35,7 +35,7 @@ growth forest remaining.
 
 Coast redwood timber is exceptionally resistant to decay due to high
 tannin content. The heartwood is among the most valuable commercial
-softwoods in North America.
+softwoods in [[psilocybin-north-america-pacific-northwest]].
 
 ## Taxonomy and Morphology
 
@@ -81,11 +81,11 @@ any terrestrial ecosystem, estimated at over 3,000 tonnes per hectare.
 
 ## Ecology and Mycorrhizal Relationships
 
-Unlike most conifers, coast redwoods form arbuscular mycorrhizal
+Unlike most conifers, coast redwoods form [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]]
 associations rather than ectomycorrhizae. This reflects the ancient
 evolutionary lineage of the Sequoioideae.
 
-Endophytic fungal communities in foliage and bark may contribute to the
+Endophytic [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] in foliage and bark may contribute to the
 tree's remarkable disease resistance and longevity.
 
 Redwood forests provide critical habitat for the endangered marbled
@@ -93,7 +93,7 @@ murrelet, northern spotted owl, Roosevelt elk, and Pacific giant
 salamander. Epiphytic communities in the canopy include ferns, mosses,
 lichens, and vascular plants on massive branch platforms.
 
-Coarse woody debris from fallen redwoods creates habitat complexity
+[[fungal-diversity-leaf-litter-coarse-woody-debris]] debris from fallen redwoods creates habitat complexity
 persisting for centuries. Large logs in stream channels provide critical
 aquatic habitat for salmonids.
 
@@ -118,7 +118,7 @@ worldwide, including the British Isles, New Zealand, and southern Chile.
 Growth in cultivation can exceed native range rates in areas with
 abundant moisture and mild temperatures.
 
-Seed germination requires light and consistent moisture. Cuttings from
+[[cannabis-seed-germination-methods]] requires light and consistent moisture. Cuttings from
 juvenile foliage root readily under mist propagation. The species is
 sensitive to prolonged freezing and drought outside its native fog belt.
 

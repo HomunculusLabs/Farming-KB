@@ -1,5 +1,5 @@
 ---
-title: Darwin's Phototropism Discovery and Plant Light Perception
+title: Darwin's darwin phototropism discovery plant light perception and Plant plant-vision-and-light-perception-mechanisms
 created: 2026-04-28
 tags: [darwin, phototropism, plant-biology, light-perception, photoperiodism, phytochrome, sachs, garner, allard, maryland-mammoth, borthwick, butler, plant-sentience, blue-light, far-red]
 date: 2026-04-28
@@ -13,7 +13,7 @@ type: concept
 
 ## Darwin the Botanist
 
-It is not widely known that for the twenty years following his publication of On the Origin of Species, Charles Darwin conducted a series of experiments on plants that still influence research to this day. Darwin was fascinated by the effects of light on plant growth, as was his son Francis. In his final book, The Power of Movement in Plants, Darwin established foundational principles of plant photobiology that would shape the field for over a century.
+It is not widely known that for the twenty years following his publication of On the Origin of Species, Charles Darwin conducted a series of experiments on plants that still influence research to this day. Darwin was fascinated by the effects of light on plant growth, as was his son Francis. In his final book, The [[darwin-power-of-movement-in-plants]] in Plants, Darwin established foundational principles of plant photobiology that would shape the field for over a century.
 
 ## The Five-Seedling Phototropism Experiment
 
@@ -33,7 +33,7 @@ In 1864, a contemporary of Darwin, Julius von Sachs, discovered that blue light 
 
 ### The Significance of Blue Light Sensitivity
 
-The fact that plants use blue light specifically for directional growth responses shows a level of sensory sophistication that goes beyond simple energy capture. Blue light is the dominant wavelength in open sky, making it an ideal signal for detecting the direction of unshaded sunlight. This discovery laid the groundwork for understanding that plants possess specialized photoreceptors analogous to animal eyes.
+The fact that plants use blue light specifically for directional growth responses shows a level of sensory sophistication that goes beyond simple [[fukuoka-three-dimensional-solar-energy-capture-rice-paddy]]. Blue light is the dominant wavelength in open sky, making it an ideal signal for detecting the direction of unshaded sunlight. This discovery laid the groundwork for understanding that plants possess specialized photoreceptors analogous to animal eyes.
 
 ## The Decoupling of Perception From Response
 
@@ -73,8 +73,12 @@ Surprisingly, the "eye" for photoperiodism is not in the tip of the plant as Dar
 
 ## The Legacy for Modern Plant Biology
 
-Darwin's phototropism experiments opened an entire field of inquiry into plant sensory biology. From Sachs's blue light discovery to Garner and Allard's photoperiodism, from Borthwick's red-far-red experiments to Butler's phytochrome, each finding built upon the last. Modern plant biology now recognizes multiple photoreceptor families including phototropins, cryptochromes, and [[julius-von-sachs-blue-light-phototropism-discovery]]
+Darwin's phototropism experiments opened an entire field of inquiry into plant [[plant-sensory-biology-smell-touch-hearing]]. From Sachs's blue light discovery to Garner and Allard's photoperiodism, from Borthwick's red-far-red experiments to Butler's phytochrome, each finding built upon the last. Modern plant biology now recognizes multiple photoreceptor families including phototropins, cryptochromes, and [[julius-von-sachs-blue-light-phototropism-discovery]]
 
 - [[phytochrome-red-far-red-switch-and-photoperiodism]] -- red/far-red molecular switch
 - phytochrome mobile signal leaf flowering regulation -- leaf-based flowering signals
-- [[photoperiod-cannabis]] -- photoperiodism in cannabis cultivation
+- [[photoperiod-cannabis]] -- photoperiodism in [[query-how-does-no-till-cannabis-cultivation-work]]
+
+## See Also
+
+- [[phototropism-darwin-plant-light-response]]

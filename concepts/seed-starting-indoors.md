@@ -1,5 +1,5 @@
 ---
-title: Seed Starting Indoors
+title: Seed seed-starting-indoors-solomon
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Seed Starting Indoors
 
-How to raise your own vegetable transplants indoors, from Steve Solomon's *Gardening When It Counts*. Solomon prefers direct seeding for most crops but acknowledges that raising your own seedlings is essential for tomatoes, peppers, eggplant, and other heat-loving crops in shorter-season areas.
+How to raise your own vegetable transplants indoors, from Steve Solomon's *Gardening When It Counts*. Solomon prefers [[fukuoka-direct-seeding-rice-barley-cultivation]] for most crops but acknowledges that raising your own seedlings is essential for tomatoes, peppers, eggplant, and other heat-loving crops in shorter-season areas.
 
 ## Why Raise Your Own
 
@@ -24,7 +24,7 @@ Garden center transplants are deeply suspect for several reasons:
 ## Container Selection
 
 Use pots that hold slightly more than a half pint (250 ml) of soil. Options include:
-- Clean plastic pots from earlier purchases
+- Clean [[query-fabric-pots-vs-plastic-pots-vs-air-pots-for-cannabis]] from earlier purchases
 - **Newspaper pots**: 3-inch-wide (8 cm) strip of newspaper rolled into a squat cylinder, filled with soil mix, held together with a rubber band and/or string. The entire pot can be planted without disturbing roots.
 
 For fast-growing cucurbits (melons, squash, cucumbers) that have delicate roots and are grown indoors for no more than one week, newspaper pots are ideal — the whole thing goes into the ground.
@@ -53,8 +53,8 @@ Use soil at the ready-to-till moisture content (as described for garden beds in 
 ### Fertilizer Strategy
 
 - **Before first true leaf**: Minimal NPK (nitrogen-phosphorus-potassium) but plenty of calcium. Excess soil nutrients encourage damping-off diseases that attack emerging seedlings.
-- **After first true leaf**: Begin fertilizing. Organic liquid fertilizers are often deficient in phosphorus — look for fish emulsion that has been fortified with phosphoric acid or use a complete liquid fertilizer.
-- **Coffee grounds**: Worth reckoning as about half-strength chicken manure. Free espresso grounds from restaurants are an excellent amendment.
+- **After first true leaf**: Begin fertilizing. Organic [[solomon-liquid-fertilizers-and-foliar-feeding]] are often deficient in phosphorus — look for [[solomon-foliar-feeding-fish-emulsion-and-kelp]] that has been fortified with phosphoric acid or use a complete liquid fertilizer.
+- **[[oyster-mushroom-coffee-grounds-cultivation]]**: Worth reckoning as about half-strength chicken manure. Free espresso grounds from restaurants are an excellent amendment.
 
 ## Sowing Procedure
 

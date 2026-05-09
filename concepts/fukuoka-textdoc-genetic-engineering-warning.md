@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Warning Against Genetic Engineering"
+title: "Fukuoka's Warning Against fukuoka-textdoc-genetic-engineering-critique-warning"
 type: concept
 tags:
   - genetic-engineering
@@ -10,12 +10,12 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Masanobu Fukuoka, "The Natural Way of Farming: The Theory and Practice of Green Philosophy" (1985)
+  - Masanobu Fukuoka, "The Natural Way of Farming: The Theory and Practice of fukuoka-sowing-green-philosophy-one-grain-revolution" (1985)
 ---
 
 # Fukuoka's Warning Against Genetic Engineering
 
-In "The Natural Way of Farming," Masanobu Fukuoka issued one of the earliest philosophical critiques of genetic engineering from a natural farming perspective, written before biotechnology became a mainstream agricultural tool.
+In "The Natural Way of Farming," Masanobu Fukuoka issued one of the earliest philosophical critiques of genetic engineering from a [[comparison-natural-farming-vs-permaculture]] perspective, written before biotechnology became a mainstream agricultural tool.
 
 His objections were not based on technical risk assessment but on a fundamental epistemological argument about the limits of human knowledge and the arrogance of attempting to redesign living systems.
 
@@ -37,7 +37,7 @@ While acknowledging that farmers would eagerly adopt such innovations, he questi
 
 Fukuoka extended his critique beyond plants to the genetic manipulation of insects and animals.
 
-He predicted the creation of hybrid creatures such as bee-flies and butterfly-dragonflies that would blur the line between beneficial insects and pests.
+He predicted the creation of hybrid creatures such as bee-flies and butterfly-dragonflies that would blur the line between [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] and pests.
 
 Such organisms would destabilize the ecological relationships that natural systems depend upon.
 

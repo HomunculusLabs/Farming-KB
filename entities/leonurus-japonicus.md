@@ -42,7 +42,7 @@ The calyx is tubular with 5 prominent teeth and persists after flowering. The co
 
 Fruits are small nutlets (schizocarps), approximately 2-3 mm long, dark brown to black, and trigonal in cross-section. Each nutlet contains one seed. The nutlets are the medicinal part in some traditional formulations.
 
-Seed production is prolific, with individual plants producing several thousand seeds. The small, lightweight seeds are dispersed by wind and water, contributing to the species weedy colonizing behavior.
+[[cervantes-seed-production-storage]] is prolific, with individual plants producing several thousand seeds. The small, lightweight seeds are dispersed by wind and water, contributing to the species weedy colonizing behavior.
 
 ## Distribution and Habitat
 
@@ -50,7 +50,7 @@ Seed production is prolific, with individual plants producing several thousand s
 
 In China, the species is distributed across most provinces, with wild populations found in fields, roadsides, wastelands, and riverbanks from sea level to 2,000 meters elevation. It is particularly abundant in the Yangtze River basin.
 
-The plant has been introduced to Europe, North America, and other temperate regions where it often naturalizes as a weed.
+The plant has been introduced to Europe, [[psilocybin-north-america-pacific-northwest]], and other temperate regions where it often naturalizes as a weed.
 
 In traditional Chinese medicine, the herb is classified as acrid, bitter, and slightly cold in nature. It is said to enter the heart, liver, and bladder meridians, reflecting its effects on blood circulation and fluid metabolism. In parts of eastern Europe and the United States, it is considered an invasive species in disturbed habitats.
 
@@ -64,11 +64,11 @@ The primary bioactive alkaloid in *L. japonicus* is leonurine (4-guanidino-n-but
 
 Additional alkaloids include stachydrine and leonuridine, which are structurally related quaternary ammonium compounds. Stachydrine has demonstrated uterotonic and cardiovascular protective activities in preclinical studies.
 
-Diterpenoids of the labdane and clerodane types are characteristic secondary metabolites of the genus. Specific compounds include leoheterin, leonurin, and prehispanolone, which exhibit various pharmacological activities.
+Diterpenoids of the labdane and clerodane types are characteristic [[antifungal-secondary-metabolites-coprophilous-fungi]] of the genus. Specific compounds include leoheterin, leonurin, and prehispanolone, which exhibit various pharmacological activities.
 
 Flavonoids identified in the aerial parts include rutin, quercetin, hyperoside, and kaempferol glycosides. These compounds contribute to the antioxidant and anti-inflammatory properties of motherwort extracts.
 
-Volatile oil components include germacrene D, beta-caryophyllene, and various sesquiterpenes. The essential oil composition varies with harvest stage, geographic origin, and processing method.
+Volatile oil components include germacrene D, beta-caryophyllene, and various sesquiterpenes. The [[permaculture-designers-manual-essential-oil-plants]] composition varies with harvest stage, geographic origin, and processing method.
 
 Organic acid constituents include caffeic acid, chlorogenic acid, and rosmarinic acid. Rosmarinic acid is a major water-soluble phenolic compound with documented anti-inflammatory and antioxidant activities.
 
@@ -94,13 +94,15 @@ Antioxidant activity is attributed to both the alkaloid and flavonoid constituen
 
 The crop adapts to a wide range of soil types but performs best on fertile, well-drained loams. Optimal pH is 6.0-7.5. Nitrogen fertilization increases biomass yield but may reduce alkaloid content in the aerial parts.
 
-Harvest timing significantly affects phytochemical composition. The aerial parts are typically harvested at the flowering stage, when alkaloid and flavonoid content is at its peak. Drying is performed at temperatures below 40 degrees Celsius to preserve thermolabile compounds.
+[[cannabis-harvest-timing-visual-cues]] significantly affects phytochemical composition. The aerial parts are typically harvested at the [[cannabis-flowering-stage-management]], when alkaloid and flavonoid content is at its peak. Drying is performed at temperatures below 40 degrees Celsius to preserve thermolabile compounds.
 
 Commercial cultivation in China follows standardized good agricultural practice guidelines. Major production areas include Anhui, Sichuan, and Zhejiang provinces, with both wild-harvested and cultivated supplies entering the market.
 
 Quality control standards in the Chinese Pharmacopoeia specify minimum stachydrine content and limit heavy metal and pesticide residue levels. Compliance with these standards is mandatory for commercial batches.
 
 ## See Also
+
+- [[ophiopogon-japonicus]]
 
 - [[vitex-agnus-castus]]
 - [[scutellaria-baicalensis]]

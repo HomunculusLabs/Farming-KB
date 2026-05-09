@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/the-metabolic-pathway-of-psilocybin-produ
 
 # Aeruginascin
 
-Aeruginascin is a naturally occurring indole alkaloid found in certain **Psilocybe** mushroom species, most notably *Psilocybe aeruginosa* from which it derives its name. It is a trimethylammonium analogue of psilocybin, distinguished by a permanently charged quaternary ammonium group on the ethylamine side chain in place of psilocybin's dimethylamine.
+Aeruginascin is a naturally occurring [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] found in certain **Psilocybe** mushroom species, most notably *Psilocybe aeruginosa* from which it derives its name. It is a trimethylammonium analogue of psilocybin, distinguished by a permanently charged quaternary ammonium group on the ethylamine side chain in place of psilocybin's dimethylamine.
 
 ## Chemical Structure
 
@@ -32,7 +32,7 @@ Aeruginascin is produced via the same pathway as psilocybin, likely diverging th
 
 ## Pharmacology
 
-Unlike psilocybin, aeruginascin shows minimal classical psychedelic activity. The quaternary ammonium group prevents efficient passage across the blood-brain barrier. However, anecdotal reports from mushroom hunters consuming *Inocybe aeruginascens* have described effects that differ qualitatively from typical psilocybin experiences, including reports of **euphoric and predominantly pleasant effects** without the anxiety or dysphoria sometimes associated with psilocybin mushrooms. Gartz hypothesized that aeruginascin might act as a **modulator** of psilocybin's effects when co-ingested, potentially reducing negative psychological reactions.
+Unlike psilocybin, aeruginascin shows minimal classical psychedelic activity. The quaternary ammonium group prevents efficient passage across the blood-brain barrier. However, anecdotal reports from mushroom hunters consuming *[[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]]* have described effects that differ qualitatively from typical psilocybin experiences, including reports of **euphoric and predominantly pleasant effects** without the anxiety or dysphoria sometimes associated with [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]. Gartz hypothesized that aeruginascin might act as a **modulator** of psilocybin's effects when co-ingested, potentially reducing negative psychological reactions.
 
 ## Significance
 
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

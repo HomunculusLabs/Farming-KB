@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/the-modern-farm-why-cannabis-grown-with-l
 
 # Pinene
 
-Pinene (bicyclo[3.1.1]hept-2-ene, 2,6,6-trimethyl-) is a bicyclic monoterpene that exists as two structural isomers: α-pinene and β-pinene. It is the most abundant terpene in the global biosphere and a significant constituent of cannabis (*Cannabis sativa*) essential oil. Pinene is distinguished among cannabis terpenes for its bronchodilatory, memory-enhancing, anti-inflammatory, and antimicrobial properties, and is of particular interest for its ability to counteract the short-term memory impairment associated with THC consumption.
+Pinene (bicyclo[3.1.1]hept-2-ene, 2,6,6-trimethyl-) is a bicyclic monoterpene that exists as two structural isomers: α-pinene and β-pinene. It is the most abundant terpene in the global biosphere and a significant constituent of cannabis (*Cannabis sativa*) essential oil. Pinene is distinguished among [[query-what-are-cannabis-terpenes-and-why-do-they-matter]] for its bronchodilatory, memory-enhancing, anti-inflammatory, and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]], and is of particular interest for its ability to counteract the short-term memory impairment associated with THC consumption.
 
 ## Chemical Properties
 
@@ -22,13 +22,13 @@ Both isomers are colorless liquids at room temperature with characteristic pine 
 
 Pinene is the single most abundant terpene released by vegetation worldwide and plays a major role in atmospheric chemistry. Conifer trees (pine, fir, spruce, and cedar) are the primary natural source. In cannabis, pinene is a significant terpene in many cultivars, particularly those with piney, earthy aromas such as OG Kush, Jack Herer, and Blue Dream. Rosemary, eucalyptus, juniper, dill, and parsley are additional notable sources.
 
-Global biogenic emission of pinene is estimated at tens of millions of tons per year, making it one of the most important biogenic volatile organic compounds (BVOCs) in the atmosphere.
+Global biogenic emission of pinene is estimated at tens of millions of tons per year, making it one of the most important biogenic [[fungal-volatile-organic-compounds-communication]] compounds (BVOCs) in the atmosphere.
 
 ## Role in Cannabis
 
 ### Aroma and Flavor Contribution
 
-Pinene is responsible for the distinctive pine, fir, and earthy aromas found in many cannabis cultivars. Its sharp, fresh, resinous scent is one of the most immediately recognizable terpene profiles in cannabis.
+Pinene is responsible for the distinctive pine, fir, and earthy aromas found in many cannabis cultivars. Its sharp, fresh, resinous scent is one of the most immediately recognizable [[cannabis-terpene-profiles-sativa]] in cannabis.
 
 ### Counteracting THC-Induced Memory Impairment
 
@@ -46,7 +46,7 @@ Pinene demonstrates significant anti-inflammatory effects through COX-1 and COX-
 
 ### Antimicrobial Activity
 
-Pinene exhibits broad-spectrum antimicrobial activity against Gram-positive bacteria including *Staphylococcus aureus* and *Streptococcus pneumoniae*, fungi including *Candida albicans* and *[[cannabis-health-endo-cannabinoid-system]].
+Pinene exhibits broad-spectrum antimicrobial activity against Gram-positive bacteria including *Staphylococcus aureus* and *Streptococcus pneumoniae*, fungi including *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and *[[cannabis-health-endo-cannabinoid-system]].
 
 ### Anticancer Properties
 
@@ -54,7 +54,7 @@ Emerging evidence suggests anticancer potential for pinene, including induction 
 
 ## Cultivation Factors Affecting Pinene Content
 
-Pinene levels in cannabis are influenced by genetics (strong genetic determination), temperature (cooler conditions favor higher pinene production), light exposure (adequate light intensity supports terpene biosynthesis), harvest timing (pinene may peak earlier in the flowering cycle compared to myrcene), and curing conditions (proper low-temperature, slow-drying preserves pinene content).
+Pinene levels in cannabis are influenced by genetics (strong genetic determination), temperature (cooler conditions favor higher pinene production), light exposure (adequate light intensity supports [[clarke-marijuana-botany-terpene-biosynthesis-aromatic-profiles]]), harvest timing (pinene may peak earlier in the flowering cycle compared to myrcene), and curing conditions (proper low-temperature, slow-drying preserves pinene content).
 
 ## Safety Profile
 
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

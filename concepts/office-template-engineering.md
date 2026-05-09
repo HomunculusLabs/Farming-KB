@@ -127,4 +127,4 @@ created from previous template versions.
 - [[document-automation-administration]] for the administrative context
 - [[office-open-xml]] for the XML schema governing templates
 
-See also: [[natural-building-techniques]]
+See also: [[natural-building]]

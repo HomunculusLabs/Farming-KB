@@ -38,7 +38,7 @@ The male inflorescences are many-flowered, usually brown- or gold-hairy, shorter
 
 ## Distribution
 
-V. theiodora occurs in the tropical zones of Central America and South America, with its primary use documented among indigenous peoples of the western Amazon basin. The species is found in Brazil, Colombia, Ecuador, and Peru, growing in lowland tropical rainforest. It is particularly abundant in the interfluvial regions between the Rio Negro and the Rio Solimoes.
+V. theiodora occurs in the tropical zones of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and South America, with its primary use documented among indigenous peoples of the western Amazon basin. The species is found in Brazil, Colombia, Ecuador, and Peru, growing in lowland tropical rainforest. It is particularly abundant in the interfluvial regions between the Rio Negro and the Rio Solimoes.
 
 ## Ethnobotanical Uses
 
@@ -54,7 +54,7 @@ The Waika (Yanomami) people are among the best-documented users of Virola snuffs
 
 Multiple Amazonian indigenous groups use Virola snuffs, including:
 
-- **Yanomami** (Waika) — use Epena for healing and divination
+- **Yanomami** (Waika) — use Epena for [[metzner-shamanic-healing-and-divination-paradigm]]
 - **Bora** and **Miraña** — use Parica snuff in ceremonial contexts
 - **Maku** — use Virola snuff for hunting magic and spiritual purposes
 - **Barasana** — include Virola resin in their psychoactive snuff preparations
@@ -92,7 +92,7 @@ Other minor constituents may include:
 
 ## Pharmacology
 
-DMT is a potent agonist at serotonin 5-HT2A receptors, the primary receptor responsible for classical psychedelic effects. 5-MeO-DMT acts as a non-selective serotonin receptor agonist with particular affinity for 5-HT1A and 5-HT2A receptors, producing a more intense but less visually oriented experience compared to DMT alone. The combination of DMT and 5-MeO-DMT in Virola snuffs creates a complex psychedelic experience with both visual and somatic components.
+DMT is a potent agonist at serotonin 5-HT2A receptors, the primary receptor responsible for classical psychedelic effects. 5-MeO-DMT acts as a non-selective serotonin receptor agonist with particular affinity for 5-HT1A and 5-HT2A receptors, producing a more intense but less visually oriented experience compared to DMT alone. The combination of DMT and 5-MeO-DMT in Virola snuffs creates a complex [[leary-psychedelic-experience-bardo-mapping]] with both visual and somatic components.
 
 ## Safety Considerations
 

@@ -46,17 +46,17 @@ Optimal growth occurs at 15–21°C with consistent irrigation. Water stress cau
 
 Common pests include celery leaf miner (*Euleia heraclei*), carrot rust fly (*Psila rosae*), and aphids. Fusarium yellows and late blight (*Septoria apiicola*) are the most significant diseases. Resistant cultivars and crop rotation with non-Apiaceae species are primary management strategies.
 
-Celery has moderate nutrient requirements, with nitrogen being the most critical input for stalk development. Excessive nitrogen produces lush but brittle growth prone to lodging. Organic production relies on composted manures and cover cropping, with biological controls including *Bacillus thuringiensis* for lepidopteran pests. Hydroponic celery production is practiced commercially in controlled environments, reducing water usage by 80–90% compared to field cultivation.
+Celery has moderate nutrient requirements, with nitrogen being the most critical input for stalk development. Excessive nitrogen produces lush but brittle growth prone to lodging. Organic production relies on composted manures and cover cropping, with biological controls including *[[cervantes-bacillus-thuringiensis-bt-control]]* for lepidopteran pests. Hydroponic celery production is practiced commercially in controlled environments, reducing water usage by 80–90% compared to field cultivation.
 
 ## Chemistry and Pharmacology
 
-Celery contains a diverse array of bioactive compounds. The essential oil (0.1–0.5% of fresh weight) is dominated by **limonene** (60–70%), with significant contributions from **beta-selinene**, **sedanolide**, and **3-n-butylphthalide** (3nB). Phenylpropanoid compounds include **apiin**, **apigenin**, and **luteolin** glycosides.
+Celery contains a diverse array of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]. The essential oil (0.1–0.5% of fresh weight) is dominated by **limonene** (60–70%), with significant contributions from **beta-selinene**, **sedanolide**, and **3-n-butylphthalide** (3nB). Phenylpropanoid compounds include **apiin**, **apigenin**, and **luteolin** glycosides.
 
-3-n-Butylphthalide (3nB) is the most pharmacologically significant constituent. It has demonstrated vasodilatory activity, reducing blood pressure in multiple animal models and human clinical trials at doses of 75–150 mg/day. Sedanolide and sedanonic anhydride exhibit chemopreventive activity against hepatic and colon carcinogenesis in rodent studies.
+3-n-Butylphthalide (3nB) is the most pharmacologically significant constituent. It has demonstrated vasodilatory activity, reducing blood pressure in multiple animal models and human [[mushroom-cancer-clinical-trials-overview]] at doses of 75–150 mg/day. Sedanolide and sedanonic anhydride exhibit chemopreventive activity against hepatic and colon carcinogenesis in rodent studies.
 
 The flavonoid fraction, primarily **apigenin** and **luteolin**, contributes anti-inflammatory and antioxidant effects. Apigenin inhibits NF-κB signaling and TNF-α production in vitro.
 
-Luteolin glycosides from celery demonstrate neuroprotective effects in animal models, reducing oxidative stress markers in brain tissue. Both flavonoids show synergistic antioxidant activity with vitamin C and other polyphenols present in the plant matrix.
+Luteolin glycosides from celery demonstrate neuroprotective effects in animal models, reducing [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] markers in brain tissue. Both flavonoids show synergistic antioxidant activity with vitamin C and other polyphenols present in the plant matrix.
 
 Celery seed extracts show COX-2 inhibitory activity comparable to non-steroidal anti-inflammatory drugs at standardized concentrations.
 
@@ -86,7 +86,7 @@ Celery was introduced to China via the Silk Road and is now one of the most wide
 
 ## Notable Cultivars and Varieties
 
-The three major cultivar groups of celery reflect distinct selection pressures. Stalk celery (var. *dulce*) includes green varieties like 'Pascal' and self-blanching gold types like 'Golden Self-Blanching'. Modern hybrid varieties such as 'Tango' and 'Conquistador' offer improved disease resistance, uniformity, and reduced stringiness.
+The three major cultivar groups of celery reflect distinct selection pressures. Stalk celery (var. *dulce*) includes green varieties like 'Pascal' and self-blanching gold types like 'Golden Self-Blanching'. Modern [[cervantes-hybrid-varieties-types]] such as 'Tango' and 'Conquistador' offer improved disease resistance, uniformity, and reduced stringiness.
 
 Celeriac (var. *rapaceum*) cultivars include 'Mars', 'Prague', and 'Diamant', selected for root size, smoothness, and keeping quality. Leaf celery (var. *secalinum*) is closer to the wild type and is widely used in East Asian and Southeast Asian cuisines for its intensely flavored leaves. Chinese celery (*qin cai*) is a distinct leaf celery type with thinner stalks and stronger aroma than Western varieties.
 
@@ -94,7 +94,7 @@ Celeriac (var. *rapaceum*) cultivars include 'Mars', 'Prague', and 'Diamant', se
 
 Celery contains bioactive peptides with documented antihypertensive activity. Hydrolyzed celery protein exhibits angiotensin-converting enzyme (ACE) inhibitory effects in vitro, suggesting a mechanism for the traditional use of celery in managing hypertension beyond the phthalide contribution.
 
-Recent metabolomic studies have identified over 40 volatile compounds in celery essential oil using GC-MS analysis. The composition varies significantly by cultivar, plant part, and geographic origin. Stalks are richest in phthalides, while seeds contain higher concentrations of terpenes (limonene, selinene). Seasonal variation affects the ratio of these constituents.
+Recent metabolomic studies have identified over 40 [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] in celery essential oil using GC-MS analysis. The composition varies significantly by cultivar, plant part, and geographic origin. Stalks are richest in phthalides, while seeds contain higher concentrations of terpenes (limonene, selinene). Seasonal variation affects the ratio of these constituents.
 
 Celery polyacetylenes, particularly falcarinol and falcarindiol, have attracted research interest for their cytotoxic activity against certain cancer cell lines. These compounds also contribute to the characteristic bitter aftertaste of wild celery and are reduced in modern sweet cultivars through selective breeding.
 

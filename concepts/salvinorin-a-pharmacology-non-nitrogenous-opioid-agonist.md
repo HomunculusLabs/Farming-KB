@@ -2,7 +2,7 @@
 
 ## Overview
 
-Salvinorin-A is the principal psychoactive compound in Salvia divinorum,
+Salvinorin-A is the principal psychoactive compound in [[golden-guide-salvia-divinorum-and-diviner-sage]],
 a mint family (Lamiaceae) plant traditionally used by the Mazatec people of Oaxaca, Mexico.
 Salvinorin-A is remarkable in pharmacology because it is the first known naturally occurring
 non-nitrogenous opioid receptor agonist.
@@ -85,7 +85,7 @@ Common effects include:
 
 - Complete disruption of normal consciousness and perception
 - Strong dissociative sensations including feelings of merging with objects
-- Altered sense of self and ego dissolution
+- Altered sense of self and [[psilocybin-ego-dissolution-mechanisms]]
 - Visual distortions and closed-eye imagery
 - Uncontrollable laughter or crying
 - Synesthetic experiences
@@ -108,7 +108,7 @@ The duration varies significantly by method of administration:
 The brevity of the smoked experience is notable
 and contrasts sharply with other hallucinogens,
 which typically last 4-12 hours.
-This short duration may contribute to the substance's appeal
+This [[savory-short-duration-grazing-and-cell-systems]] may contribute to the substance's appeal
 as it limits the time window for potentially distressing experiences.
 
 ## Legal Status and Regulatory Concerns
@@ -131,11 +131,9 @@ Many other Lamiaceae ornamentals may ultimately prove
 to be psychoactive similar to Salvia divinorum.
 Coleus spp. plants, popular in gardens for their intense leaf colors,
 are sometimes chewed by Mazatec Indians as a Salvia substitute.
-However, only Salvia divinorum has been confirmed to contain salvinorin-A.
-A more determined search for a Salvia substitute
-could be triggered by scheduling of Salvia divinorum,
-potentially creating legal challenges if psychoactive compounds were found in common houseplants.
 ## See Also
+
+- [[salvinorin-b]]
 
 - [[salvia-divinorum-profile]]
 - [[amanita-muscaria-chemistry-and-pharmacology]]
@@ -143,7 +141,7 @@ potentially creating legal challenges if psychoactive compounds were found in co
 
 - Halpern, J.H. (2004). Hallucinogens and dissociative agents naturally growing in the US. Pharmacology & Therapeutics, 102, 131-138.
 - Roth, B.L. et al. (2002). Salvinorin A: a potent naturally occurring nonnitrogenous kappa opioid selective agonist. PNAS, 99(18), 11934-11939.
-- Siebert, D.J. (1994). Salvia divinorum and salvinorin A. Journal of Psychoactive Drugs.
+- Siebert, D.J. (1994). Salvia [[salvia-divinorum-and-salvinorin-a]] A. Journal of Psychoactive Drugs.
 - Valdes, L.J. et al. (1983). Two new neoclerodane diterpenoids from Salvia divinorum. Journal of Natural Products.
 
 ## See Also

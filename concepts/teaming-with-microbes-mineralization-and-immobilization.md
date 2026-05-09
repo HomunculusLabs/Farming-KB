@@ -10,14 +10,14 @@ sources:
 
 Mineralization and immobilization are the two complementary processes
 by which nutrients move between organic and inorganic forms in soil.
-Together, they form the core nutrient cycling mechanism of the
+Together, they form the core [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] mechanism of the
 [[root-exudates]], they
 retain nutrients in their cellular structures. These nutrients are
 temporarily unavailable to plants because they are locked inside living
 microbial biomass.
 
 Immobilization serves a critical function: it prevents nutrients from
-leaching out of the soil. Chemical fertilizers applied to soil
+leaching out of the soil. [[cervantes-chemical-fertilizers-guide]] applied to soil
 typically bypass this biological lock-up mechanism. A small fraction
 reaches the rhizosphere where roots can absorb it, but most continues
 draining through soil until it reaches the water table. In contrast,
@@ -82,8 +82,8 @@ nematode mineralization:
   digesting and releasing fungal nutrients
 - Their waste products contain ammonium that is immediately
   available to plant roots
-- Fungal grazing by nematodes can actually increase overall fungal
-  populations by freeing resources and stimulating fungal growth
+- [[dighton-fungal-grazing-feedbacks-decomposition]] by nematodes can actually increase overall fungal
+  populations by freeing resources and stimulating [[brassinosteroid-fungal-growth-promotion]]
 
 ## Why Chemical Fertilizers Disrupt This System
 
@@ -104,7 +104,7 @@ quick nutrient boost, it has several negative consequences:
 
 Gardeners can support the mineralization-immobilization cycle by:
 
-- Maintaining soil organic matter to feed bacteria and fungi
+- Maintaining soil [[hamilton-composting-and-organic-matter-management]] to feed bacteria and fungi
 - Avoiding tillage that destroys fungal hyphae and disrupts microbial
   habitats
 - Using [[teaming-with-microbes-compost-tea-and-microbial-inoculants]] to introduce diverse microbial populations

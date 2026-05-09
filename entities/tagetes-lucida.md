@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-**Tagetes lucida** is a perennial herbaceous plant in the aster family (Asteraceae), native to Mexico and Central America. Known by many common names — Mexican tarragon, sweet marigold, sweet mace, yerba anís, pericón, and Texas tarragon — it has been used for centuries as a culinary herb, medicinal plant, ritual entheogen, and insect-repelling companion plant. It is a versatile species with significant applications in permaculture, traditional medicine, and ethnobotany.
+**Tagetes lucida** is a perennial herbaceous plant in the aster family (Asteraceae), native to Mexico and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. Known by many common names — Mexican tarragon, sweet marigold, sweet mace, yerba anís, pericón, and Texas tarragon — it has been used for centuries as a culinary herb, medicinal plant, ritual entheogen, and insect-repelling companion plant. It is a versatile species with significant applications in permaculture, traditional medicine, and ethnobotany.
 
 ## Taxonomy
 
@@ -40,7 +40,7 @@ sources:
 ### Related Species
 
 - **Tagetes erecta** (African marigold): Larger ornamental, used in Day of the Dead celebrations
-- **Tagetes patula** (French marigold): Common companion planting species
+- **Tagetes patula** (French marigold): Common [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] species
 - **Tagetes minuta** (Huacatay): South American culinary herb and pest repellent
 - **Tagetes tenuifolia** (Signet marigold): Edible flowers, compact ornamental
 
@@ -53,7 +53,7 @@ sources:
 - **Roots**: Fibrous root system with moderate taproot development
 - **Aroma**: Strongly anise-scented (from estragole), sweet and warm; leaves release fragrance when brushed or crushed
 - **Hardiness**: USDA Zones 8–11; dies back to ground in frost but returns from roots
-- **Pollinators**: Attracts butterflies, bees, and beneficial insects
+- **Pollinators**: Attracts butterflies, bees, and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 
 ## Chemical Composition
 
@@ -84,7 +84,7 @@ The essential oil of *T. lucida* is complex and varies by chemotype and growing 
 - **Violeta ceremony**: In some Mesoamerican traditions, the dried herb is prepared as a tea or smoked to induce vivid dreams, altered perception, and mild trance states
 - **Day of the Dead (Día de los Muertos)**: Used alongside other marigold species (*cempasúchil*) to honor deceased ancestors; believed to guide spirits with its fragrance
 - **Rain ceremonies**: Aztec priests used *yauhtli* in rituals dedicated to Tlaloc, the rain god
-- **Shamanic divination**: Huichol and other indigenous Mexican groups have used the herb in vision quests and healing ceremonies
+- **Shamanic divination**: Huichol and other [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]] groups have used the herb in vision quests and healing ceremonies
 
 ### Traditional Medicine
 
@@ -128,18 +128,14 @@ The essential oil of *T. lucida* is complex and varies by chemotype and growing 
 
 ### Permaculture Functions
 
-1. **Dynamic accumulator**: Deep-rooted habit brings up minerals from subsoil; leaves can be used as nutrient-rich mulch
+1. **[[nutrient-dynamic-accumulator-reference]]**: Deep-rooted habit brings up minerals from subsoil; leaves can be used as nutrient-rich mulch
 2. **Pollinator attractant**: Long blooming period provides nectar and pollen for beneficial insects
 3. **Chop-and-drop mulch**: Foliage contains pest-deterring compounds that persist in mulch, creating a protective barrier
-4. **Erosion control**: Dense root system stabilizes soil on slopes and in food forest understories
+4. **[[permplant-willows-salix-erosion-control-fodder]]**: Dense root system stabilizes soil on slopes and in food forest understories
 5. **Ornamental value**: Attractive golden flowers enhance aesthetic diversity in polycultures
 6. **Living fence/hedge**: Can be planted as a low hedge that doubles as a pest barrier
 
 ### Soil Improvement
-
-- **Organic matter**: Regular cutting contributes significant biomass to soil
-- **Mycorrhizal associations**: Supports beneficial mycorrhizal networks in polyculture systems
-- **Soil aeration**: Deep taproot opens compacted subsoil layers
 ## See Also
 
 - [[artemisia-dracunculus]]
@@ -147,4 +143,6 @@ The essential oil of *T. lucida* is complex and varies by chemotype and growing 
 
 ## See Also
 
-- [[permaculture-companion-planting]]
+- permaculture-companion-planting
+- [[root-exudates]]
+- [[tagetes-minuta]]

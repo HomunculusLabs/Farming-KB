@@ -17,7 +17,7 @@ specific quantitative analyses of P. subcubensis are limited.
 
 ## Relevance
 Psilocybe subcubensis is a cryptic species that demonstrates how
-microscopic examination is essential for accurate identification within
+[[fungal-microscopic-examination-mounting-media-techniques]] is essential for accurate identification within
 the Psilocybe genus. Its nearly identical appearance to P. cubensis
 means it is likely frequently encountered but misidentified by casual
 observers. The distinction between these two species rests entirely on
@@ -33,7 +33,7 @@ outdoor cultivated specimens rather than naturalized populations.
 
 For cultivators and researchers, P. subcubensis represents an
 understudied close relative of the most widely cultivated psilocybin
-mushroom. Its growth parameters, potency profile, and cultivation
+mushroom. Its [[chen-maitake-growth-parameters-environmental-control]], potency profile, and cultivation
 characteristics remain largely undocumented, presenting opportunities
 for further investigation.
 
@@ -41,7 +41,7 @@ for further investigation.
 
 - [[psilocybe-cubensis]]
 - [[psilocybe-natalensis]]
-- [[psilocybe-cubensis]]
+
 ## Practical Considerations
 
 When working with Psilocybe subcubensis, several practical factors should be
@@ -58,7 +58,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -100,4 +100,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

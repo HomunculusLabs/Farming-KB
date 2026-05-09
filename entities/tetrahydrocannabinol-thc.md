@@ -11,7 +11,7 @@ type: entity
 # Tetrahydrocannabinol (THC)
 
 **Type:** Chemical / Phytocannabinoid
-**Category:** Major cannabis cannabinoid (primary psychoactive)
+**Category:** Major [[blesching-cannabis-cannabinoid-terpene-entourage-effect]] (primary psychoactive)
 **Also known as:** THC, delta-9-THC, dronabinol (synthetic isomer),
 Marinol
 
@@ -51,8 +51,8 @@ stimulates appetite through hypothalamic pathways.
   AIDS-related anorexia and cachexia. Causes weight gain and increases
   walking distance in COPD patients.
 - **Anti-emetic:** Approved for nausea and vomiting from chemotherapy.
-- **Anti-cancer:** Reduces human breast cancer cell proliferation through
-  CB2 activation; induces apoptosis. THC and CBN retard lung cancer cell
+- **Anti-cancer:** Reduces human breast [[blesching-cannabis-apoptosis-and-cancer-cell-death]] proliferation through
+  CB2 activation; induces apoptosis. THC and CBN retard [[psk-breast-lung-cancer-clinical-trials]] cell
   growth and reduce tumor size.
 - **Antibacterial:** Potent activity against MRSA strains alongside other
   major cannabinoids.
@@ -76,12 +76,14 @@ stimulates appetite through hypothalamic pathways.
 THC is the cornerstone of medical cannabis pharmacology and the most
 extensively researched phytocannabinoid. Its discovery in 1964 by
 Mechoulam and Gaoni opened the field of cannabinoid science. THC's dual
-CB1/CB2 receptor binding makes it a uniquely versatile therapeutic
+CB1/CB2 [[tihkal-receptor-binding-serotonin]] makes it a uniquely versatile therapeutic
 agent, though its psychoactive properties limit dosing in some patient
-populations. The entourage effect between THC and other cannabinoids
+populations. The [[cannabis-terpene-entourage-effect-profiles]] between THC and other cannabinoids
 (particularly CBD) is a key principle in whole-plant cannabis medicine.
 
 ## See Also
+
+- [[noladin-ether]]
 - [[anandamide-aea]]
 - [[cannabigerol-cbg]]
 - [[dronabinol]]

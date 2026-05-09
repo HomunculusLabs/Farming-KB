@@ -23,7 +23,7 @@ sources:
 
 The species produces dense spikes of fragrant, pale yellow to cream-colored flowers. It has become naturalized and invasive in several tropical and subtropical regions, particularly in Hawai'i, New Zealand, and parts of Australia.
 
-Despite its invasive tendencies, *H. flavescens* has a long history of use in traditional medicine across the Himalayan region and Southeast Asia. Its rhizomes contain bioactive compounds with documented anti-inflammatory and antimicrobial properties.
+Despite its invasive tendencies, *H. flavescens* has a long history of use in traditional medicine across the Himalayan region and Southeast Asia. Its rhizomes contain [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] with documented anti-inflammatory and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
 
 ## Taxonomy and Morphology
 
@@ -45,11 +45,11 @@ Pollination is primarily carried out by butterflies and long-tongued moths attra
 
 *Hedychium flavescens* is native to the eastern Himalayas, with its primary range extending from Nepal and northern India through Bhutan, Bangladesh, and Myanmar into southern China (Yunnan, Guangxi). It grows naturally in subtropical montane forests at elevations of 600–2000 meters.
 
-The species prefers moist, shaded or semi-shaded environments along stream banks, forest margins, and disturbed areas. It thrives in rich, well-draining loamy soils with high organic matter content and consistent moisture.
+The species prefers moist, shaded or semi-shaded environments along stream banks, forest margins, and disturbed areas. It thrives in rich, well-draining loamy soils with high [[hamilton-composting-and-organic-matter-management]] content and consistent moisture.
 
 Outside its native range, *H. flavescens* has become widely naturalized. In Hawai'i, it is considered a significant invasive species in mesic to wet forests on Kaua'i, Maui, and the Big Island. It forms dense monocultures that displace native understory vegetation.
 
-Naturalized populations also occur in New Zealand, eastern Australia, southern Africa, and several Pacific islands. The combination of ornamental planting and aggressive rhizomatous spread has facilitated its establishment across disparate climatic zones.
+Naturalized populations also occur in New Zealand, eastern Australia, southern Africa, and several Pacific islands. The combination of ornamental planting and aggressive rhizomatous spread has facilitated its establishment across disparate [[permaculture-designers-manual-climatic-zones-tropical]].
 
 Rainfall requirements are moderate to high, with optimal growth above 1500 mm annually. The species tolerates brief dry periods through dormancy of above-ground growth while the rhizome remains viable underground.
 
@@ -87,7 +87,7 @@ In Hawai'i, the species forms extensive monocultures in mesic and wet forest und
 
 The flowers are highly attractive to nectar-feeding birds and insects, potentially altering pollination networks. In invaded habitats, the abundant nectar source may draw pollinators away from native plant species with specialized pollination relationships.
 
-Control methods include manual removal of rhizomes, herbicide application to cut stems, and biological control research. Complete eradication is difficult due to the deep and extensive rhizome network, which resprouts from small fragments.
+Control methods include manual removal of rhizomes, herbicide application to cut stems, and [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] research. Complete eradication is difficult due to the deep and extensive rhizome network, which resprouts from small fragments.
 
 New Zealand classifies *H. flavescens* as an unwanted organism under the Biosecurity Act. The species is included in regional pest management plans that mandate control on public and private land where it occurs.
 
@@ -97,7 +97,7 @@ In Nepal and northern India, *H. flavescens* rhizomes are used in traditional me
 
 The Khasi people of Meghalaya, India, use the species as a component of traditional remedies for digestive complaints and respiratory ailments. The flowers are occasionally used in religious offerings and as a source of natural fragrance.
 
-In Bhutanese traditional medicine (gSo-ba Rig-pa), *Hedychium* species are classified among aromatic medicinal herbs. The rhizomes are included in formulations intended to balance the "rlung" (wind) humor.
+In Bhutanese traditional medicine (gSo-ba Rig-pa), *Hedychium* species are classified among aromatic [[permaculture-plants-medicinal-herbs-healing]]. The rhizomes are included in formulations intended to balance the "rlung" (wind) humor.
 
 Young shoots are occasionally consumed as a vegetable in some Himalayan communities, though culinary use is limited compared to true gingers. The flowers are sometimes steeped as an herbal tea in Nepal and northeastern India.
 

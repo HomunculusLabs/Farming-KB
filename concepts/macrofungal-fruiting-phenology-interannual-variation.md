@@ -47,7 +47,7 @@ Given the extreme interannual variation, the evidence strongly supports the foll
 | Survey Goal | Minimum Duration | Recommended |
 |------------|-----------------|-------------|
 | Preliminary inventory | 2-3 years | 3-5 years |
-| Baseline diversity assessment | 3-5 years | 5-10 years |
+| Baseline [[ingham-soil-food-web-diversity-assessment-dna-molecular-methods]] | 3-5 years | 5-10 years |
 | Population monitoring | 5-10 years | 10+ years |
 | Species accumulation curve asymptote | 8-12 years | Ongoing |
 
@@ -57,7 +57,7 @@ Ideally, fleshy macrofungi should be sampled in an area **every 1–2 weeks** th
 
 ### Annual Variation vs. Succession
 
-A critical complication is that annual variation in species recorded due to variable fruiting patterns is difficult to distinguish from actual ecological succession — the progressive replacement of species in a community over time. Long-term studies are needed to disentangle these two processes.
+A critical complication is that annual variation in species recorded due to variable fruiting patterns is difficult to distinguish from actual [[holmgren-ecological-succession-and-pulsing]] — the progressive replacement of species in a community over time. Long-term studies are needed to disentangle these two processes.
 
 ### Herbarium Records
 
@@ -67,14 +67,14 @@ Some data on seasonality can be gleaned from herbarium records, although these r
 
 Beyond interannual variation, successional patterns occur on specific substrata:
 
-- **Dung**: Characteristic fungi fruit consecutively over time as the resource decomposes
+- **Dung**: Characteristic [[mycorrhizal-fungi-fruit-trees]] consecutively over time as the resource decomposes
 - **Fallen logs**: Early-decay species are replaced by late-decay species (Lange 1992; Renvall 1995; Heilmann-Clausen 2001)
-- **Leaf litter**: Some Lepiota species only grow on litter previously decomposed by other fungi, such as Marasmius species
+- **[[dighton-fungal-decomposition-leaf-litter-dynamics]]**: Some Lepiota species only grow on litter previously decomposed by other fungi, such as Marasmius species
 
 Chronosequence studies — examining logs of known different ages — can document successional changes in macrofungal communities. Heilmann-Clausen (2001) used a 30-year record of aerial photographs to assign beech logs to age cohorts and track [[macrofungi-fruiting-phenology-interannual-variation]]
 ## Practical Considerations
 
-Successful implementation of Macrofungal Fruiting Phenology Interannual Variation requires attention to
+Successful implementation of Macrofungal Fruiting macrofungal fruiting phenology interannual variation Variation requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

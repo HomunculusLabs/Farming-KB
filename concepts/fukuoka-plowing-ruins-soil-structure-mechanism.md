@@ -2,7 +2,7 @@
 
 ## Overview
 
-Masanobu Fukuoka's first principle of natural farming — no cultivation — was
+Masanobu Fukuoka's first principle of [[comparison-natural-farming-vs-permaculture]] — no cultivation — was
 based on decades of careful observation of what happens to soil when it is
 tilled. In "The Natural Way of Farming," he provided a detailed mechanistic
 explanation of how plowing destroys soil structure, disrupts soil biology,
@@ -47,10 +47,10 @@ Second, tillage exposes soil organisms that live below the surface to
 sunlight, drying, and temperature extremes. Many soil microorganisms are
 sensitive to ultraviolet light and desiccation. When the plow brings them
 to the surface, they die. The microbial biomass of the soil — the living
-component that drives nutrient cycling, disease suppression, and soil
+component that drives [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], [[aact-disease-suppression-mechanisms-ingham]], and soil
 structure maintenance — is reduced with each tillage pass.
 
-Third, tillage stimulates the breakdown of soil organic matter. When soil
+Third, tillage stimulates the breakdown of soil [[hamilton-composting-and-organic-matter-management]]. When soil
 is inverted and aerated, the organic matter that was protected in
 anaerobic microsites is exposed to oxygen, accelerating its decomposition.
 This releases a burst of nutrients that can stimulate crop growth in the
@@ -102,14 +102,14 @@ aggregates, maintaining the pore spaces that allow gas exchange.
 ## The Clay Pellet Seed Ball as No-Till Tool
 
 Fukuoka's clay pellet technique was developed partly as a tool for
-establishing crops without tillage. Seeds enclosed in clay pellets can
+establishing crops without tillage. Seeds enclosed in [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] can
 be broadcast onto untilled soil, where the clay protects them from
 predation and desiccation until conditions are right for germination.
 When the seeds germinate, their roots penetrate the existing soil
 structure rather than a tilled seedbed. This is how Fukuoka established
 both field crops and vegetable gardens without ever turning the soil.
 
-For rice cultivation, Fukuoka developed an even more elegant no-till
+For [[jadam-rice-cultivation-methods]], Fukuoka developed an even more elegant no-till
 system. He seeded clover into the rice paddy, then scattered rice seed
 and barley seed onto the living clover mat. The clover provided nitrogen
 fertilizer, weed suppression, and soil protection. The rice and barley
@@ -138,6 +138,8 @@ with no-till methods would come to appreciate the living, covered soil
 surface as the true measure of soil health.
 
 ## See Also
+
+- [[fukuoka-textdoc-plowing-ruins-soil-compaction-bread-dough-analogy]]
 
 - [[fukuoka-no-cultivation-principle-soil-self-tillage]]
 - [[fukuoka-textdoc-soil-self-plowing-natural-root-action]]

@@ -9,7 +9,7 @@ sources:
 ---
 # JADAM Vision: Four Aims and the Farming Expert
 
-The opening chapter of JADAM Organic Farming presents a radical vision for agriculture's future, built on four practical aims and a fundamental shift in who holds agricultural knowledge.
+The opening chapter of JADAM [[coleman-deep-organic-farming-philosophy]] presents a radical vision for agriculture's future, built on four practical aims and a fundamental shift in who holds agricultural knowledge.
 
 ## The Four Aims of JADAM
 
@@ -24,7 +24,7 @@ Only when organic farming achieves all four aims will it replace conventional ag
 
 ## Reclaiming Agricultural Independence
 
-The four aims are ultimately about reclaiming independence. When farmers can make their own inputs, understand their own soil, and control their own pest management, they are no longer subject to the economic pressures of input manufacturers. This independence is both economic and psychological -- it restores the farmer's dignity and sense of agency.
+The four aims are ultimately about reclaiming independence. When farmers can make their own inputs, understand their own soil, and control their own [[cannabis-pest-management-guide]], they are no longer subject to the economic pressures of input manufacturers. This independence is both economic and psychological -- it restores the farmer's dignity and sense of agency.
 
 The [[jadam-sese-philosophy]]
 - [[jadam-natural-farming-philosophy]]
@@ -52,9 +52,9 @@ Methods of production, processing, storage, and transportation should all change
 
 ## Global Food Crisis
 
-Grain prices will rise during global food crises and importation of food staples will become difficult. Climate change, desertification, soil erosion, and other environmental degradation will decrease total available arable land and reduce productivity. Cultivation of staple food crops -- rice, wheat, beans, and other grains -- will become increasingly important.
+Grain prices will rise during global food crises and importation of food staples will become difficult. [[dighton-fungi-climate-change-feedback]], desertification, soil erosion, and other environmental degradation will decrease total available arable land and reduce productivity. Cultivation of staple food crops -- rice, wheat, beans, and other grains -- will become increasingly important.
 
-JADAM's response: crop residues and wild grass as fertilizer means grain production does not depend on expensive imported inputs. Self-sufficient farming means food security regardless of global markets.
+JADAM's response: crop residues and [[jadam-cover-crop-wild-grass-symbiosis]] as fertilizer means [[fukuoka-no-till-grain-production-method]] does not depend on expensive imported inputs. Self-sufficient farming means food security regardless of global markets.
 
 ## Rising Sea Levels
 

@@ -5,12 +5,13 @@ updated: 2026-04-18
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # The Specter of Food Scarcity
 
-In *The Road Back to Nature*, [[fukuoka-natural-diet-philosophy]], [[fukuoka-deficit-farming]], [[fukuoka-food-as-strategic-weapon]], [[fukuoka-machine-culture-doomed]], [[fukuoka-road-back-to-nature-overview]], [[food-dehydration-guide]], [[fukuoka-deficit-farming]] describes Fukuoka's broader critique of modern agriculture's dependency on external inputs, which is the root cause of the food insecurity he warns about.
+In *The Road Back to Nature*, [[fukuoka-natural-diet-philosophy]], [[fukuoka-deficit-farming]], [[fukuoka-food-as-strategic-weapon]], [[fukuoka-machine-culture-doomed]], [[fukuoka-road-back-to-nature-overview]], [[food-dehydration-guide]], [[fukuoka-deficit-farming]] describes Fukuoka's broader [[fukuoka-road-critique-of-modern-science]] agriculture's dependency on external inputs, which is the root cause of the food insecurity he warns about.
 
 [[natural-farming-fukuoka]] outlines the core philosophy and methods that Fukuoka argues could make countries self-sufficient without industrial agriculture.
 
@@ -143,4 +144,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

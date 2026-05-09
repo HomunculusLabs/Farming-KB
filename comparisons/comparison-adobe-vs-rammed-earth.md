@@ -1,5 +1,5 @@
 ---
-title: "Adobe vs Rammed Earth"
+title: "comparison adobe vs rammed earth Earth"
 created: 2026-04-28
 tags: [comparison, natural-building, adobe, rammed-earth, earth-architecture]
 date: 2026-04-25
@@ -97,7 +97,7 @@ Adobe bricks can be used as infill within a rammed earth frame, or rammed earth 
 foundation and structural walls with adobe partition walls. Stabilized adobe bricks are
 sometimes used for veneers or decorative elements on rammed earth buildings. Both materials
 pair well with natural plasters, and either can be combined with insulated wall systems (such as
-straw bale or rigid foam) for climates where thermal mass alone is insufficient. A rammed earth
+[[comparison-cob-construction-vs-straw-bale-construction]] or rigid foam) for climates where thermal mass alone is insufficient. A rammed earth
 core with adobe exterior veneer can combine the structural advantages of monolithic
 construction with the traditional aesthetic of brickwork.
 

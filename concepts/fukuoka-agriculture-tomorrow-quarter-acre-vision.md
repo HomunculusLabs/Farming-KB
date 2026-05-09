@@ -9,7 +9,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
@@ -19,12 +20,12 @@ Fukuoka's vision for the future of agriculture extends beyond farming
 methods to encompass a fundamental reorganization of human settlement,
 economics, and relationship to the natural world. His proposal for
 quarter-acre self-sufficient homesteads represents a practical blueprint
-for a post-industrial civilization grounded in natural farming principles.
+for a post-industrial civilization grounded in natural [[natural-farming-principles-fukuoka]].
 
 ## Natural Farming Is Not Primitive
 
 Natural farming is not a primitive form of agriculture. It is neither a
-type of organic farming nor a farming method from the past. Natural
+type of [[coleman-deep-organic-farming-philosophy]] nor a farming method from the past. Natural
 farming is a way of farming that transcends past and future. It is, in
 Fukuoka's belief, a way of farming practiced from the days of Gautama,
 from the days of Gandhi. Only, it has not yet emerged in any concrete
@@ -48,7 +49,7 @@ acre for each family.
 
 Without using machinery, people could build a house on their plot of
 land and grow everything they need there: vegetables, fruit, grains. If,
-in order to create a surrounding green belt, they planted a single black
+in order to create a surrounding [[fukuoka-green-belt-projects]], they planted a single black
 wattle seed or sapling each year, then in ten years' time, even without
 a single drop of petroleum, everyone would have plenty of fuel for the
 winter.
@@ -70,13 +71,13 @@ from the cares of the world.
 True human life is found in natural farming in the family vegetable
 garden. That is the life that Fukuoka envisions. The vision is not
 utopian but practical, based on decades of proven results on his own
-farm and in the natural farming communities he inspired around the world.
+farm and in the natural farming communities he inspired [[fungi-around-the-world-species-distribution]].
 
 ## The Green Belt Strategy
 
 A key element of Fukuoka's vision is the establishment of green belts
 around human settlements. These belts serve multiple functions: they
-provide fuel, building materials, food, habitat for wildlife, and
-protection from wind and erosion. The black wattle ([[fukuoka-decentralized-self-sufficient-communities]]
+provide fuel, [[natural-building-materials-guide]], food, habitat for wildlife, and
+protection from wind and erosion. The [[fukuoka-black-wattle-fertilizer-tree-method]] ([[fukuoka-decentralized-self-sufficient-communities]]
 - [[fukuoka-do-nothing-farming-philosophy-and-practice]]
 - [[fukuoka-four-principles-natural-farming]]

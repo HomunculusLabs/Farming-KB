@@ -1,5 +1,5 @@
 ---
-title: Drought Gardening and Water-Wise Strategies
+title: comparison-drought-gardening-vs-rainwater-harvesting and Water-Wise Strategies
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -21,7 +21,7 @@ Soil with high organic matter content holds significantly more water than deplet
 
 ### Mulch Heavily
 
-Mulch is the single most effective water conservation tool. A 3-4 inch layer of organic mulch (straw, leaves, wood chips, compost) reduces evaporation by up to 70%, suppresses weed competition for water, and moderates soil temperature. In hot weather, unmulched soil can reach lethal temperatures for plant roots.
+Mulch is the single most effective water conservation tool. A 3-4 inch layer of organic mulch (straw, leaves, [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]], compost) reduces evaporation by up to 70%, suppresses weed competition for water, and moderates soil temperature. In hot weather, unmulched soil can reach lethal temperatures for plant roots.
 
 ### Choose Appropriate Plants
 
@@ -31,7 +31,7 @@ Select plants adapted to dry conditions. Many beautiful garden plants are natura
 - **Rosemary** (Rosmarinus officinalis): Attractive shrub, thrives in well-drained soil
 - **Yarrow** (Achillea filipendulina): Grows particularly well in chalky, well-drained soils
 - **Cotoneaster**: Drought-tolerant once established; berries attract birds
-- **Periwinkle** (Vinca minor): Ground cover that tolerates dry shade
+- **Periwinkle** (Vinca minor): [[fukuoka-citrus-orchard-ground-cover-cultivation]] that tolerates dry shade
 - **Hosta**: Once established, the large leaves shade the soil surface
 
 ### Water Deeply and Infrequently
@@ -42,7 +42,7 @@ Frequent light watering encourages shallow root systems that are vulnerable to d
 
 - **Group plants by water need**: Put thirsty plants together near water sources; drought-tolerant plants in drier areas
 - **Create shade**: Use trees, structures, and taller plants to shade smaller, more vulnerable plants
-- **Reduce lawn area**: Lawns are the most water-intensive element of most gardens. Replace with drought-tolerant ground covers, wildflower meadows, or productive gardens
+- **Reduce lawn area**: Lawns are the most water-intensive element of most gardens. Replace with drought-tolerant [[permaculture-plants-food-forest-ground-covers-bamboos]], wildflower meadows, or productive gardens
 - **Use windbreaks**: Wind accelerates evaporation; windbreaks reduce water loss
 - **Capture rainwater**: Install rain barrels and tanks on all downspouts
 
@@ -93,7 +93,7 @@ Containers dry out much faster than garden soil. In summer, containers may need 
 
 ## Related Concepts
 
-- [[pdc-climate-and-microclimate]]
+- pdc-climate-and-microclimate
 - [[hamilton-wildflower-meadow]]
 - [[gaias-garden-cover-crops-soil-building]]
 - [[hamilton-shade-garden-plants]]

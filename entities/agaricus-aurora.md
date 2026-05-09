@@ -10,10 +10,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Kerrigan, R.W. (2016). Agaricus of North America. Memoirs of the New York Botanical Garden.
+  - Kerrigan, R.W. (2016). Agaricus of psilocybin-north-america-pacific-northwest. Memoirs of the New York Botanical Garden.
   - Parra, L.A. (2013). "Agaricus L. s.l. (Fungi, Agaricaceae) in Spain." Bibliotheca Mycologica 209.
   - Callac, P. & Guinberteau, J. (2005). "Mushrooms of the Agaricus genus: genetic resources and breeding." In: Mushroom Science XVII.
-  - Chen, J. et al. (2021). "A revision of Agaricus subgenus Spissicaules." Fungal Diversity 109: 1-62.
+  - Chen, J. et al. (2021). "A revision of Agaricus subgenus Spissicaules." [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] 109: 1-62.
 created: 2026-05-07
 ---
 
@@ -21,7 +21,7 @@ created: 2026-05-07
 
 **Agaricus aurora** is a temperate woodland mushroom in the family Agaricaceae, noted for its cream-to-pale-golden cap and mild, nutty flavor.
 
-It is a less commercially cultivated relative of the button mushroom (*A. bisporus*) and the almond mushroom (*A. subrufescens*).
+It is a less commercially cultivated relative of the [[growing-gourmet-button-mushroom-agaricus-cultivation]] (*A. bisporus*) and the almond mushroom (*A. subrufescens*).
 
 The species is of growing interest to small-scale growers due to its competitive fruiting on a range of lignocellulosic substrates.
 
@@ -55,9 +55,9 @@ Cheilocystidia are clavate to ventricose, 15–25 × 8–12 µm.
 
 It fruits from late summer through early autumn, typically August to October in northern latitudes.
 
-The species prefers well-drained loam or sandy loam soils rich in organic matter, often along forest edges and meadow-woodland transitions.
+The species prefers well-drained loam or sandy loam soils rich in [[hamilton-composting-and-organic-matter-management]], often along forest edges and meadow-woodland transitions.
 
-It is primarily a litter-decomposing saprotroph, fruiting from decomposing leaf litter, grass thatch, and woody debris.
+It is primarily a litter-decomposing saprotroph, fruiting from decomposing leaf litter, grass thatch, and [[fungal-succession-woody-debris-ecology]].
 
 Collections have been documented in France, Spain, Germany, the British Isles, and the Carpathian region.
 
@@ -77,7 +77,7 @@ Casing layer is a peat-vermiculite mix (3:1 ratio), applied at 3–4 cm depth, w
 
 Fruiting is triggered by dropping air temperature to 16–18°C, maintaining 90–95% relative humidity, and introducing fresh air exchange.
 
-First flush appears 14–21 days after casing; biological efficiency typically reaches 60–80% over 2–3 flushes.
+First flush appears 14–21 days after casing; [[stamets-biological-efficiency-yield]] typically reaches 60–80% over 2–3 flushes.
 
 The species shows moderate resistance to *Verticillium* and *Mycogone* compared to *A. bisporus*, though standard hygiene protocols remain essential.
 

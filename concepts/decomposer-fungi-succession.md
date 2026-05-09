@@ -3,14 +3,14 @@ title: Decomposer Fungi Succession
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "Stamets - Mycelium Running"
+  - "Stamets - woodlovers-mycelium-running-pathway-technique"
 type: concept
 tags: [ecology, fungi]
 ---
 
 # Decomposer Fungi Succession
 
-Decomposer fungi succession is the sequential process by which different communities of saprophytic mushrooms colonize and break down organic matter over time. As one group partially decomposes a substrate, it creates conditions favorable for the next group, driving predictable ecological succession from fresh material to mature soil.
+Decomposer fungi succession is the sequential process by which different communities of [[growing-gourmet-saprophytic-mushrooms-decomposers]] colonize and break down organic matter over time. As one group partially decomposes a substrate, it creates conditions favorable for the next group, driving predictable [[holmgren-ecological-succession-and-pulsing]] from fresh material to mature soil.
 
 Paul Stamets organizes decomposer mushrooms into three key groups -- primary, secondary, and tertiary -- though some species cross categories depending on circumstances. All three groups can coexist in one location simultaneously.
 
@@ -22,7 +22,7 @@ Primary decomposers are typically the first fungi to grow on fresh organic mater
 - Typically fast-growing, sending out rapidly extending strands of mycelium
 - Quickly attach to and decompose plant tissue
 - Primary and secondary decomposers are the easiest to cultivate
-- Foundation of [[fungal-enzyme-systems-and-nutrient-cycling]] to break down plant matter. Different primary decomposers specialize in different substrates -- fresh lignin, cellulose, grasses, or softer materials. This enzymatic specialization allows diverse communities to coexist.
+- Foundation of fungal-enzyme-systems-and-nutrient-cycling to break down plant matter. Different primary decomposers specialize in different substrates -- fresh lignin, cellulose, grasses, or softer materials. This enzymatic specialization allows diverse communities to coexist.
 
 ## Secondary Decomposers
 
@@ -34,9 +34,9 @@ Secondary decomposers rely on primary fungi that initially break down plant and 
 - Once microorganisms complete their life cycles, temperature drops
 - This temperature drop encourages the new wave of secondary decomposers
 
-Cultivators exploit this sequence to grow Agaricus bisporus, the most widely cultivated mushroom worldwide. Other competing secondary saprophytes include:
+Cultivators exploit this sequence to grow [[genetic-improvement-agaricus-bisporus-molecular-approaches]], the most widely cultivated mushroom worldwide. Other competing secondary saprophytes include:
 
-- Inky caps (Coprinus comatus and other Coprinaceae)
+- Inky caps ([[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]] and other Coprinaceae)
 - Ambiguous Stropharia (Stropharia ambigua) in outdoor wood chip beds
 - Industrial growers heat-steam composts to thwart unwanted competitors
 
@@ -73,10 +73,12 @@ Some mushrooms blur the line between categories through dual strategies:
 - Honey mushrooms (Armillaria) are the classic example
 - Saprophytes that can take advantage of dying trees are termed facultative parasites
 - Oyster mushrooms are classic saprophytes but found on dying cottonwood, oak, poplar, birch, maple, and alder
-- Reishi (Ganoderma lucidum) is considered saprophytic but classified as parasitic in some jurisdictions
+- Reishi ([[stamets-reishi-ganoderma-lucidum-cultivation]]) is considered saprophytic but classified as parasitic in some jurisdictions
 
-This crossover means some species function as both destructive agents and critical agents of [[mycoforestry]], mycorestoration-ecology|restoration, and sustainable [[fungicolous-fungi-succession-sporocarps]]
+This crossover means some species function as both destructive agents and critical agents of [[mycoforestry]], mycorestoration-ecology|restoration, and sustainable fungicolous-fungi-succession-sporocarps
 
 - [[fungal-ecology-decomposition-cycles]] -- broader decomposition ecology
 - [[mycoforestry]] -- managing decomposition in forest ecosystems
-- [[fungal-enzyme-systems-and-nutrient-cycling]] -- enzymatic basis of decomposition
+- fungal-enzyme-systems-and-nutrient-cycling -- enzymatic basis of decomposition
+## See Also
+- [[decomposition]]

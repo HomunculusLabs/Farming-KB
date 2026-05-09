@@ -1,5 +1,5 @@
 ---
-title: Dynamic Accumulators
+title: comparison-dynamic-accumulators-vs-cover-crops
 created: 2026-04-28
 type: species
 tags:
@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - title: "Plants For A Future — Dynamic Accumulators"
     url: "https://pfaf.org/user/Plant.aspx?LatinName=Symphytum+officinale"
-  - title: "Toensmeier, Eric. Perennial Vegetables. Chelsea Green, 2007."
+  - title: "Toensmeier, Eric. [[comparison-perennial-vegetables-vs-cover-crops]]. Chelsea Green, 2007."
     url: "https://www.chelseagreen.com/product/perennial-vegetables"
   - title: "Jacke, Dave. Edible Forest Gardens, Vol. 1 & 2. Chelsea Green, 2005."
     url: "https://www.chelseagreen.com/product/edible-forest-gardens-vol-1"
@@ -33,7 +33,7 @@ Dynamic accumulators are plants whose roots mine nutrients from deep subsoil lay
 concentrate them in their leaves, stems, and root zones. Through leaf fall, root exudates,
 and decomposition, they deposit accumulated minerals at the soil surface — making
 otherwise inaccessible nutrients available to neighboring plants. The concept is
-foundational in permaculture, biodynamic agriculture, and ecological restoration.
+foundational in permaculture, [[query-what-is-biodynamic-agriculture-and-how-does-it-differ-from-organic]], and ecological restoration.
 
 ## Key Accumulators by Nutrient
 
@@ -54,7 +54,7 @@ subsoil horizons, absorbing calcium, iron, silica, and other minerals that shall
 crops cannot reach.
 
 **Mycorrhizal associations.** Accumulator plants form symbiotic relationships with
-arbuscular mycorrhizal fungi (AMF). The fungal hyphal network extends the effective root
+[[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi (AMF). The fungal hyphal network extends the effective root
 surface area, enabling nutrient exchange across soil horizons and direct inter-plant
 nutrient transfer ("common mycorrhizal networking").
 
@@ -91,7 +91,7 @@ widely accepted in permaculture, mainstream soil science offers a more nuanced v
 
 **Supporting evidence.** Controlled studies confirm deep-rooted species accumulate higher
 mineral concentrations in leaf tissue. Comfrey shows 2–3× the potassium of common green
-manures. Nitrogen fixation by leguminous accumulators (clover, vetch, lupine) is
+manures. [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] by leguminous accumulators (clover, vetch, lupine) is
 extensively validated in agronomic literature.
 
 **Criticisms and limitations:**
@@ -99,7 +99,7 @@ extensively validated in agronomic literature.
 - **Bioavailability:** Minerals locked in structural compounds (e.g., silica in cell walls)
   may decompose slowly, limiting immediate availability.
 - **Soil-specific:** Accumulation profiles vary by soil type, pH, parent material, and
-  microbial ecology. Results are not universally transferable.
+  [[fukuoka-microbial-ecology-decomposition]]. Results are not universally transferable.
 - **Rate limitations:** Total nutrient flux is modest compared to synthetic fertilization;
   accumulators complement but rarely replace other fertility strategies.
 - **Limited peer-reviewed data:** Many claims derive from single-source tissue analysis.
@@ -137,6 +137,9 @@ minerals from construction-exposed subsoil. Chicory and dandelion are effective 
   phosphorus from soil mineral complexes.
 - **Yarrow** (*A. millefolium*): Copper accumulator (up to 35 mg/kg). Deep fibrous roots
 ## See Also
+
+- [[ajuga-reptans]]
+- [[helichrysum-italicum]]
 
 - [[rumex-crispus]]
 

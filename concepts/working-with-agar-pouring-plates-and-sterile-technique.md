@@ -1,5 +1,5 @@
 ---
-title: "Working with Agar: Pouring Plates and Sterile Technique"
+title: "Working with Agar: Pouring Plates and cultivator-sterile-technique-and-agar-culture"
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -82,16 +82,16 @@ Dishes are incubated upside down so that any condensation forming on the lid
 drips onto the lid rather than onto the mycelial surface, preventing disturbance
 of growth.
 
-Incubation temperature depends on the species being cultured. Most gourmet mushroom mycelium grows well at 70-78 F (21-26 C). Temperatures above 82 F (28 C) can stress mycelium and promote bacterial growth, while temperatures below 65 F (18 C) slow colonization significantly. For cold-loving species such as some shiitake varieties or winter oyster, incubation at 60-65 F is preferred. A dedicated incubator or a warm spot on top of a refrigerator can provide consistent temperatures. Light should be excluded during incubation — dark conditions promote rapid mycelial colonization, while premature light exposure can trigger early fruiting before the plate is fully colonized.
+Incubation temperature depends on the species being cultured. Most [[growing-gourmet-mushroom-dehydration-methods-equipment]] mycelium grows well at 70-78 F (21-26 C). Temperatures above 82 F (28 C) can stress mycelium and promote bacterial growth, while temperatures below 65 F (18 C) slow colonization significantly. For cold-loving species such as some shiitake varieties or winter oyster, incubation at 60-65 F is preferred. A dedicated incubator or a warm spot on top of a refrigerator can provide consistent temperatures. Light should be excluded during incubation — dark conditions promote rapid mycelial colonization, while premature light exposure can trigger early fruiting before the plate is fully colonized.
 
 ## Common Agar Media Formulations
 
-The choice of agar medium affects mycelial growth rate, morphology, and selectivity. Common formulations used in mushroom cultivation include:
+The choice of agar medium affects mycelial growth rate, morphology, and selectivity. Common formulations used in [[accessible-mushroom-cultivation-for-disabilities]] include:
 
-- **Malt Extract Agar (MEA)**: The most versatile all-purpose medium. Made with malt extract (10-20 g/L), agar (15-20 g/L), and water. Supports robust growth across most gourmet and medicinal mushroom species. Good for general culture maintenance and spore germination.
+- **Malt Extract Agar (MEA)**: The most versatile all-purpose medium. Made with malt extract (10-20 g/L), agar (15-20 g/L), and water. Supports robust growth across most gourmet and [[gourmet-medicinal-mushroom-casing-layer-techniques]] species. Good for general culture maintenance and spore germination.
 - **Potato Dextrose Agar (PDA)**: Made by steeping sliced potatoes (200-300 g) in water, adding dextrose (10-20 g) and agar. Similar performance to MEA but slightly less nutrient-rich. Widely available in powdered pre-mixed form.
 - **Yeast Malt Agar (YMA)**: Adds yeast extract (2-5 g/L) to the malt base, providing additional B vitamins and growth factors. Useful for slow-growing species or revitalizing aged cultures.
-- **Selective media**: Antibiotics (gentamicin, chloramphenicol) can be added after autoclaving (when agar cools below 50 C) to suppress bacterial contamination during isolation from wild specimens. This is distinct from the sterile technique described above — antibiotics supplement but do not replace proper aseptic procedures.
+- **Selective media**: Antibiotics (gentamicin, chloramphenicol) can be added after autoclaving (when agar cools below 50 C) to suppress bacterial contamination during [[strain-isolation-from-wild-specimens]] specimens. This is distinct from the sterile technique described above — antibiotics supplement but do not replace proper aseptic procedures.
 
 ## Troubleshooting Contamination
 
@@ -99,12 +99,12 @@ Even with careful technique, contamination occasionally occurs. Identifying the 
 
 - **Bacterial contamination** (cloudy, slimy, or iridescent patches): Usually introduced during pouring (agar too cool, allowing airborne bacteria to settle) or from improperly sterilized tools. Bacterial colonies often appear within 24-48 hours, faster than most mushroom mycelium.
 - **Green mold** (Trichoderma, Aspergillus): Fast-growing green or blue-green colonies. Typically introduced from airborne spores during inoculation. Indicates a need for better airflow management or workspace sanitation.
-- **Yeast contamination** (circular, creamy, raised colonies): Often present on the tissue or spore sample itself. Surface sterilization of specimens before transfer can reduce incidence.
+- **Yeast contamination** (circular, creamy, raised colonies): Often present on the tissue or spore sample itself. [[challenge-organisms-nasa-microwave-surface-sterilization-testing]] of specimens before transfer can reduce incidence.
 - **Pink/orange mold**: Often Neurospora or other Neurospora-like fungi, common in warm environments. Indicates the workspace may be too humid or poorly ventilated.
 
 When a plate shows contamination, seal it immediately with parafilm and remove it from the workspace. Never open a contaminated dish, as this releases spores that compromise future work. See [[cultivator-sterile-technique-and-agar-culture]]
 
 - [[working-with-agar-guide]]
 - [[working-with-agar-guide]]
-- [[stamets-spore-germination-and-tissue-culture]]
+- stamets-spore-germination-and-tissue-culture
 - [[laminar-flow-hood-diy-construction]]

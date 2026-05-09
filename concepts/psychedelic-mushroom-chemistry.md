@@ -1,10 +1,11 @@
 ---
-title: Psychedelic Mushroom Chemistry
+title: archaeology-of-psychedelic-mushroom-use Chemistry
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycology, fungi, chemistry, biochemistry, psychopharmacology, entheogen, entheogen-research]
-sources: []
+sources:
+  sources: []
 ---
 
 # Psychedelic Mushroom Chemistry
@@ -29,7 +30,7 @@ Psilocin is present in smaller quantities in fresh mushrooms but can increase as
 
 ### Baeocystin
 
-Baeocystin (4-phosphoryloxy-N-methyltryptamine) is a structural analog of psilocybin with a mono-methylated terminal amine instead of dimethyl. It is found in most psilocybin-containing species, typically at 10-50% of the psilocybin concentration. Its pharmacological activity is less well characterized but it appears to have weak psychoactive properties, possibly contributing to the overall effect profile. The compound was first isolated from Psilocybe baeocystis.
+Baeocystin (4-phosphoryloxy-N-methyltryptamine) is a structural analog of psilocybin with a mono-methylated terminal amine instead of dimethyl. It is found in most psilocybin-containing species, typically at 10-50% of the psilocybin concentration. Its pharmacological activity is less well characterized but it appears to have weak psychoactive properties, possibly contributing to the overall effect profile. The compound was first isolated from [[stamets-psi-psilocybe-baeocystis-knobby-tops]].
 
 ### Norbaeocystin
 
@@ -48,20 +49,20 @@ This gene cluster has been identified in multiple distantly related fungal gener
 
 ## The Blueing Reaction
 
-When psilocybin mushroom tissue is damaged, a characteristic blue-to-blue-black coloration develops. This reaction is caused by the oxidation of psilocin and related phenolic compounds:
+When [[emcdda-psilocybin-mushroom-dose-and-effects]] tissue is damaged, a characteristic blue-to-blue-black coloration develops. This reaction is caused by the oxidation of psilocin and related phenolic compounds:
 
 1. Tissue damage exposes cellular contents to air
 2. Endogenous phosphatases dephosphorylate psilocybin to psilocin
 3. Psilocin is oxidized by polyphenol oxidase (PPO) enzymes to quinone intermediates
 4. These quinones polymerize into blue-colored compounds
 
-The intensity of blueing does not reliably correlate with potency. Some highly potent species (like Psilocybe semilanceata) blue weakly, while some weaker species blue strongly. Blueing is primarily a qualitative indicator, not a quantitative one.
+The intensity of blueing does not reliably correlate with potency. Some highly potent species (like [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]) blue weakly, while some weaker species blue strongly. Blueing is primarily a qualitative indicator, not a quantitative one.
 
 ## Stability and Degradation
 
 ### Psilocybin Stability
 
-Psilocybin is relatively stable compared to psilocin. Under proper storage conditions, it degrades slowly:
+Psilocybin is relatively stable compared to psilocin. Under proper [[vegetable-storage-conditions-by-temperature-and-humidity]], it degrades slowly:
 
 - **Room temperature, dry, dark**: Minimal degradation over 6-12 months
 - **Refrigerated (2-4°C), desiccant**: Near-complete preservation for 1-2 years
@@ -90,7 +91,7 @@ The conversion of psilocybin to psilocin (dephosphorylation) can occur through s
 - **Enzymatic**: Alkaline phosphatase in the GI tract is the primary in vivo pathway
 - **Chemical (acidic)**: Strong acids (pH < 3) can hydrolyze the phosphate ester. Lemon tek and similar acidic preparation methods may partially convert psilocybin to psilocin before ingestion
 - **Thermal**: Moderate heat in the presence of moisture accelerates enzymatic conversion
-- **Endogenous fungal enzymes**: Some residual phosphatase activity persists in dried material, slowly converting psilocybin over time
+- **Endogenous fungal enzymes**: Some residual [[mycorrhizal-phosphatase-activity-elf97-detection]] persists in dried material, slowly converting psilocybin over time
 
 ## Analytical Methods
 

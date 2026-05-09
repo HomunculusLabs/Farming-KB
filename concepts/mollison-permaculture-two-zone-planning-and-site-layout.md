@@ -86,9 +86,11 @@ The simple way to check on any design is to ask: Why did you put that structure 
 
 ## See Also
 
+- [[mollison-pdc-zone-two-livestock-integration]]
+
 - [[mollison-earthworks-planning-and-post-earthworks-planting]]
 
 - [[permaculture-design]]
-- [[mollison-orchard-poultry-integration-and-woodlot-design]]
+- mollison-orchard-poultry-integration-and-woodlot-design
 - [[sepp-holzer-water-gardens-and-aquatic-plants]]
-- [[mollison-earth-resources-from-excavation]]
+- mollison-earth-resources-from-excavation

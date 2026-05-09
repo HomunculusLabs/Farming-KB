@@ -12,17 +12,17 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 
 **Type:** Species (Fungus)
 **Category:** Necrotrophic Filamentous Ascomycete
-**Also known as:** Gray mold, bunch rot
+**Also known as:** [[cervantes-gray-mold-botrytis-prevention]], bunch rot
 
 ## Overview
 Botrytis cinerea is a ubiquitous necrotrophic plant pathogen and
-saprobe with one of the broadest host ranges of any fungal pathogen.
+saprobe with one of the broadest host ranges of any [[alpha-1-3-glucan-fungal-pathogen-cell-walls]].
 It causes gray mold disease on more than 200 plant species, affecting
 fruits, vegetables, ornamental flowers, and field crops. The species
 is notable for its ability to attack both living plant tissues and
-dead organic matter, transitioning between biotrophic and necrotrophic
+dead [[hamilton-composting-and-organic-matter-management]], transitioning between biotrophic and necrotrophic
 phases during infection. B. cinerea is also extensively studied in the
-context of biological control, as numerous mycoparasitic fungi target
+context of [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]], as numerous mycoparasitic fungi target
 it as a host.
 
 ## Taxonomy and Classification
@@ -100,7 +100,7 @@ it as a host.
 - Selective isolation on PDA plates overgrown with host fungi
 - Mulligan and Deacon (1992) developed methods using PDA plates
   with various host fungi to recover mycoparasites
-- Molecular identification via ITS sequencing, with B. cinerea
+- [[biodiversity-fungal-molecular-identification-dna-barcoding]] via ITS sequencing, with B. cinerea
   belonging to species clade 2 within the genus
 - Quantitative PCR assays for detection on infected plant material
 

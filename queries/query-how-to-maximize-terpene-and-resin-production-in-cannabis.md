@@ -1,10 +1,11 @@
 ---
-title: "How to Maximize Terpene and Resin Production in Cannabis"
+title: "How to query-how-do-i-maximize-terpene-and-resin-production-in-cannabis and cannabis-glandular-trichome-types-resin-production-clarke in Cannabis"
 created: 2026-04-28
 tags: [query, cannabis, terpenes, resin, quality]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -12,7 +13,7 @@ type: query
 
 ## Short Answer
 
-Maximizing terpene and resin production in cannabis requires a combination of genetic selection, environmental stress during late flowering, proper light spectrum, and careful harvest timing. UV-B light exposure, temperature stress (specifically cool nights), controlled drought stress, and harvesting when trichomes are mostly milky with some amber all contribute to peak resin and terpene production. The plant produces trichomes as a defense mechanism, so mild stress triggers greater production.
+Maximizing terpene and resin production in cannabis requires a combination of genetic selection, environmental stress during late flowering, proper [[cannabis-light-spectrum-and-color-bands]], and careful [[cannabis-harvest-timing-visual-cues]]. UV-B light exposure, temperature stress (specifically cool nights), controlled drought stress, and harvesting when trichomes are mostly milky with some amber all contribute to peak resin and terpene production. The plant produces trichomes as a defense mechanism, so mild stress triggers greater production.
 
 ## The Biology of Trichomes and Resin
 
@@ -59,7 +60,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +102,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

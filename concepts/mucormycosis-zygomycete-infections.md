@@ -82,9 +82,9 @@ Mucormycetes are angioinvasive fungi — they invade and destroy blood vessels:
 4. Angioinvasion causes thrombosis, tissue necrosis, and infarction
 5. Dissemination occurs via hematogenous spread
 
-Key virulence factors:
+Key [[fungal-virulence-factors-host-immune-evasion]]:
 - **Ketone reductase:** Allows growth in high-glucose, acidic (ketoacidotic) environments
-- **Iron acquisition:** Produces siderophores and uses host iron; iron overload is a major
+- **[[fungal-siderophores-iron-acquisition-mycorrhiza]]:** Produces siderophores and uses host iron; iron overload is a major
   risk factor
 - **Rhizopus oryzae uses a fungal CotH protein** that binds to host GRP78 receptor on
   endothelial cells, facilitating invasion
@@ -116,9 +116,9 @@ Diagnosis is notoriously difficult:
 - **Surgical debridement:** Essential — necrotic tissue must be removed; repeat surgeries often
   needed
 - **Liposomal amphotericin B:** Primary antifungal therapy ([[amphotericin-b-antifungal]] - Primary treatment drug
-- [[melanized-fungal-pathogens]] - Overview of human fungal pathogens
+- [[melanized-fungal-pathogens]] - Overview of human [[bloomfield-fungal-pathogens-and-parasites]]
 - [[cryptococcus-neoformans-pathogenesis]] - Another serious fungal pathogen
-- [[fungal-spore-biology]] - Cell wall differences from other fungi
+- [[fungal-spore-biology]] - [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] differences from other fungi
 
 Source: Nicholas P. Money, "Mr. Bloomfield's Orchard" (Oxford University Press, 2002), Chapter 4.
 - [[bloomfield-fungal-biology-and-hyphal-growth]]

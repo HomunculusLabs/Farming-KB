@@ -1,5 +1,5 @@
 ---
-title: Centrifugal and Centripetal Directions of Natural and Scientific Farming
+title: Centrifugal and Centripetal Directions of Natural and fukuoka-illusions-scientific-farming-centrifugal-centripetal-model
 created: 2026-04-28
 tags:
   - natural-farming
@@ -20,7 +20,7 @@ type: concept
 
 ## Overview
 
-Masanobu Fukuoka describes the fundamental divergence between natural farming and
+Masanobu Fukuoka describes the fundamental divergence between [[comparison-natural-farming-vs-permaculture]] and
 scientific farming as a movement in opposite directions within the same dimension.
 Natural farming proceeds centripetally inward toward a state of nothingness (Mu) by
 the elimination of human labor; it compresses and freezes time and space. Modern
@@ -77,15 +77,15 @@ address the same reality but from fundamentally different directions.
 ## Entanglement as a Feature, Not a Bug
 
 The fact that natural and scientific farming appear intertwined does not mean they
-are compatible. A farmer practicing organic farming may believe they are moving
-toward natural farming when they eliminate chemical fertilizers, but if they still
-apply compost, rotate crops by intellectual design, and actively manage the soil,
+are compatible. A farmer practicing [[coleman-deep-organic-farming-philosophy]] may believe they are moving
+toward natural farming when they eliminate [[cervantes-chemical-fertilizers-guide]], but if they still
+apply compost, [[query-what-is-the-best-way-to-rotate-crops-in-a-vegetable-garden]] by intellectual design, and actively manage the soil,
 they are merely on a slower version of the centrifugal path.
 
 The entanglement is deceptive because at any given cross-section — say, a field
 that uses no pesticides — both approaches may look identical. The difference
 becomes apparent only over time, as the direction of movement reveals itself. The
-organic farmer who eliminates one input tends to add another (compost, cover crop
+organic farmer who eliminates one input tends to add another (compost, [[coleman-cover-crop-rotation-and-soil-health]]
 management schedules, biological sprays), while the natural farmer continuously
 removes inputs, approaching the point of doing nothing.
 
@@ -115,6 +115,8 @@ then plowing, then weeding. The movement is gradual but the direction is clear a
 consistent.
 
 ## See Also
+
+- [[fukuoka-textdoc-civilizational-collapse-centrifugal-centripetal-cycle]]
 
 - [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]
 

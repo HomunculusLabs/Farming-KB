@@ -1,5 +1,5 @@
 ---
-title: "Amanita muscaria"
+title: "allegro-amanita-muscaria-properties-and-pharmacology"
 created: 2026-04-28
 type: species
 tags:
@@ -17,7 +17,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Rubel, A. & Camarda, L. (2022). "Amanita muscaria: A comprehensive review of its phytochemistry, pharmacology, toxicology, and ethnobotany." Journal of Ethnopharmacology.
-  - Stamets, P. (2005). Mycelium Running. Ten Speed Press.
+  - Stamets, P. (2005). [[woodlovers-mycelium-running-pathway-technique]]. Ten Speed Press.
   - https://www.mycobank.org/ (taxonomic classification)
   - Benjamin, D.R. (1995). Mushrooms: Poisons and Panaceas. W.H. Freeman.
   - Ott, J. (1976). "Pharmacognosy of Amanita muscaria." Journal of Psychoactive Drugs.
@@ -27,7 +27,7 @@ sources:
 
 ## Overview
 
-**Amanita muscaria** is a basidiomycete mushroom of the family *Amanitaceae*, instantly recognizable by its bright red cap covered with white warts. One of the most iconic fungi in human culture, it has a deep history of use as an entheogen across Siberia, northern Europe, and parts of Asia. Unlike psilocybin mushrooms, its primary psychoactive constituents are **ibotenic acid** and its decarboxylation product **muscimol**, which act as GABAergic agents rather than serotonergic ones.
+**Amanita muscaria** is a basidiomycete mushroom of the family *Amanitaceae*, instantly recognizable by its bright red cap covered with white warts. One of the most iconic fungi in human culture, it has a deep history of use as an entheogen across Siberia, northern Europe, and parts of Asia. Unlike [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]], its primary psychoactive constituents are **ibotenic acid** and its decarboxylation product **muscimol**, which act as GABAergic agents rather than serotonergic ones.
 
 Despite its notoriety, *A. muscaria* is rarely lethal to healthy adults — its toxicity is frequently overstated. Proper preparation (parboiling and discarding the water) significantly reduces ibotenic acid content, making it safely edible and even culinary in some traditions.
 
@@ -93,7 +93,7 @@ Effects typically onset within 30–90 minutes and last 4–10 hours. The experi
 
 ## Preparation and Edibility
 
-Raw *A. muscaria* contains high levels of ibotenic acid and is unpleasant or toxic. Traditional preparation methods effectively convert ibotenic acid to muscimol:
+Raw *A. muscaria* contains high levels of ibotenic acid and is unpleasant or toxic. [[kava-traditional-preparation-ceremonial-context]] methods effectively convert ibotenic acid to muscimol:
 
 1. **Parboiling** — slice caps and boil in abundant water for 15–20 minutes; discard the water (which contains leached ibotenic acid)
 2. **Drying** — air drying at warm temperatures promotes decarboxylation
@@ -105,7 +105,7 @@ After proper preparation, the mushroom is edible with a mild flavor. It is comme
 
 *Amanita muscaria* is a **mycorrhizal species** forming ectomycorrhizal associations primarily with **Betula** (birch) and **Pinus** (pine), and also with *Picea*, *Pseudotsuga*, *Eucalyptus*, and *Quercus*. It has been widely introduced outside its native range through association with planted timber trees and is now found on every continent except Antarctica.
 
-In permaculture and forest garden design, *A. muscaria* serves as a visible indicator of healthy ectomycorrhizal networks. Its presence signals functional belowground fungal partnerships that benefit tree health and nutrient cycling.
+In permaculture and forest garden design, *A. muscaria* serves as a visible indicator of healthy [[symbiotic-fungi-ectomycorrhizal-networks-overview]]. Its presence signals functional belowground fungal partnerships that benefit tree health and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 ## Toxicology
 
@@ -121,12 +121,15 @@ In permaculture and forest garden design, *A. muscaria* serves as a visible indi
 
 ## See Also
 
+- [[oudenansiella-mucida]]
+
 - [[muscimol-entity]] — primary psychoactive compound of *Amanita muscaria*
 - [[ectomycorrhiza]] — symbiotic root-fungus associations
 - GABA-Receptors — target of muscimol and related depressant compounds
 - amanita muscaria entity
-- [[ectomycorrhiza]]
 
 ## See Also
+
+- [[oudenansiella-mucida]]
 
 - [[amanita-muscaria-pantherina-ibotenic-acid-muscimol-pharmacology]]

@@ -1,6 +1,6 @@
 # Plant Sensory Perception
 
-Based on [[what-a-plant-knows-plant-vision-and-light-perception]]: A Field Guide to the Senses* (2012).
+Based on [[what-a-plant-knows-plant-vision-and-light-perception]]: A [[ghouled-field-guide-historical-context]] to the Senses* (2012).
 
 ## The Broader Thesis
 
@@ -12,7 +12,7 @@ The key insight is that plants and animals evolved different solutions to the sa
 
 Where animals developed nervous systems, plants developed decentralized signaling networks rooted in biochemistry.
 
-Understanding [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] by herbivores, it releases volatile compounds that neighboring plants can detect.
+Understanding [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] by herbivores, it releases [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] that neighboring plants can detect.
 
 These neighbors then ramp up their own chemical defenses in anticipation of an attack, even before any herbivore reaches them.
 
@@ -85,3 +85,24 @@ Plants compensate for their immobility with a degree of developmental plasticity
 An animal cannot reshape its body plan in response to environmental conditions. A plant does so routinely.
 
 Both systems are elegant solutions to the universal challenge of surviving in a changing world. Chamovitz's work invites us to appreciate plants not as passive organisms but as active, perceptive participants in their environments.
+
+## Controversies and Debates
+
+The field of plant sensory perception has generated heated scientific debate,
+particularly around the concept of "plant neurobiology" proposed by researchers
+such as Stefano Mancuso and Frantisek Baluska. Critics including Lincoln Taiz
+have argued forcefully that plants lack neurons, synapses, and any structure
+analogous to a nervous system, making the term "neurobiology" misleading when
+applied to plants. A widely cited 2007 critique warned that anthropomorphic
+language about plant "intelligence" risks undermining the credibility of
+legitimate plant signaling research. The debate centers on definitions:
+proponents argue that plants exhibit problem-solving, learning, and adaptive
+behavior that qualifies as intelligence regardless of mechanism; opponents
+counter that without a nervous system these are better described as complex
+stimulus-response programs. Most mainstream plant biologists occupy a middle
+ground, acknowledging sophisticated signaling capabilities while rejecting
+claims of plant cognition or consciousness.
+
+## See Also
+
+- [[plant-sensory-biology-smell-touch-hearing]]

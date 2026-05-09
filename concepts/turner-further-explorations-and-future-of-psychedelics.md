@@ -1,5 +1,5 @@
 ---
-title: Turner Further Explorations and Future of Psychedelics
+title: Turner turner further explorations and future of psychedelics and Future of Psychedelics
 created: 2026-04-13
 updated: 2026-04-15
 type: concept
@@ -29,9 +29,9 @@ For one's life to be strongly affected by psychedelics, it is usually necessary 
 
 - [[psychedelic-combination-guide]] — combinations
 - [[ecstasy-mdma-guide]] — MDMA
-- [[psychedelic-consciousness-expansion]] — consciousness expansion
+- [[psychedelic-consciousness-expansion]] — [[mckenna-consciousness-expansion-and-drug-war]]
 - [[psilocybin-and-mystical-experience]] — psilocybin and creativity
-- [[hofmann-lsd-psychiatric-research]] — clinical research
+- [[hofmann-lsd-psychiatric-research]] — [[hofmann-lsd-clinical-research-early-studies]]
 
 ## Related
 
@@ -114,4 +114,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

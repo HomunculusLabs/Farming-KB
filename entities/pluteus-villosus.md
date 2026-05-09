@@ -5,13 +5,13 @@ type: species
 tags: [fungi, pluteus, wood-inhabiting, psychoactive, temperate]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md]
+sources: sources: []
 ---
 
 # Pluteus villosus
 
 **Pluteus villosus** is a species of pluteus mushroom found on decaying hardwood
-in temperate forests of North America and Europe. It belongs to the section Hispidoderma
+in temperate forests of [[psilocybin-north-america-pacific-northwest]] and Europe. It belongs to the section Hispidoderma
 of the genus Pluteus, characterized by hairy or fuzzy cap surfaces. While not one of
 the more prominently psychoactive species in the genus, P. villosus has been reported
 to contain low levels of psilocybin and related tryptamine alkaloids.
@@ -74,7 +74,7 @@ the hairy cap surface. Clamp connections are present.
 ## Distribution and Habitat
 
 Pluteus villosus is found across temperate regions of North America and Europe. In
-North America, it is most commonly reported from the eastern United States and
+North America, it is most commonly reported from the eastern [[dmt-containing-plants-united-states-halpern]] and
 southeastern Canada, with scattered records from the Pacific Northwest. European records
 span from Scandinavia to the Mediterranean region.
 
@@ -91,7 +91,7 @@ ambient light.
 
 ## Psychoactive Properties
 
-Chemical analyses of Pluteus villosus have detected the presence of psilocybin and
+[[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] of Pluteus villosus have detected the presence of psilocybin and
 psilocin, though at concentrations considerably lower than those found in the more
 strongly psychoactive members of the genus such as [[archaeology-of-psychedelic-mushroom-use]]. Total tryptamine content is estimated at less than 0.01% per
 dry weight, making it impractical to produce significant psychoactive effects from
@@ -105,7 +105,7 @@ The detection of psilocybin in P. villosus is of mycochemical interest because i
 expands the known range of psychoactive species within Pluteus. The genus appears to
 have independently evolved psilocybin biosynthesis, as the Pluteaceae are only
 distantly related to the Hymenogastraceae (which includes psilocybe, gymnopilus,
-and panaeolus). This suggests that the genetic machinery for psilocybin production
+and panaeolus). This suggests that the genetic machinery for [[gottlieb-psilocybin-production-extraction-methods]]
 has evolved multiple times across the Agaricales, or was present in a common ancestor
 and subsequently lost in many lineages.
 
@@ -125,13 +125,13 @@ other Pluteus species share similar cap textures. The free gills and salmon-pink
 print are reliable genus-level characters but do not distinguish between Pluteus
 species. Because P. villosus has low or negligible psychoactive content, its
 identification is primarily of taxonomic and ecological interest rather than practical
-importance for foragers. Microscopic examination of the cheilocystidia (clavate to
+importance for foragers. [[fungal-microscopic-examination-mounting-media-techniques]] of the cheilocystidia (clavate to
 utriform with refractive contents) and pleurocystidia is essential for definitive
 identification. The species is also easily confused with small Entoloma species growing
 on wood, which have sinuate gills and angular spores visible under magnification. DNA
 barcoding of the ITS region is increasingly used for accurate Pluteus species
 
-psilocybe and amanita, and systematic chemical analysis of its many species
+psilocybe and amanita, and systematic [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of its many species
 - [[archaeology-of-psychedelic-mushroom-use]] — another psychoactive Pluteus species with darker
 - [[psilocybin]] — the primary psychoactive compound found in this species
 - [[pluteus-glaucotinctus]] — a Pluteus species with distinctive blue-green coloration

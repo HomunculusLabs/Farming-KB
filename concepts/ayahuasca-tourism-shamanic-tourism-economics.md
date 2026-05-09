@@ -1,5 +1,5 @@
 ---
-title: Ayahuasca Tourism Shamanic Tourism Economics
+title: Ayahuasca ayahuasca tourism shamanic tourism economics ayahuasca-tourism-economics-commodification-peru
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -32,7 +32,7 @@ The low price point reflects both the local abundance of raw materials and the c
 
 When the same practitioners host foreign tourists, prices rise to ten to thirty dollars per session.
 
-In San Francisco, a respected practitioner known as "E" charged about ten dollars to give ayahuasca to a tourist, maintaining a modest premium over local rates while preserving accessibility.
+In [[shipibo-san-francisco-ceremonial-center-ucayali]], a respected practitioner known as "E" charged about ten dollars to give ayahuasca to a tourist, maintaining a modest premium over local rates while preserving accessibility.
 
 In Yarina, the going rate reached thirty dollars -- fifteen times the local price.
 
@@ -42,7 +42,7 @@ The price variation within this tier likely reflects differences in practitioner
 
 ### Premium American-Led Retreats (Hundreds to Thousands)
 
-Significantly more expensive operations led by North American facilitators offer four-star accommodations alongside ceremonial experiences.
+Significantly more expensive operations led by [[growing-gourmet-north-american-reishi-species]] facilitators offer four-star accommodations alongside ceremonial experiences.
 
 While the article does not specify exact prices for these retreats, they are described as "more expensive" and likely cost hundreds or thousands of dollars per week.
 
@@ -78,7 +78,7 @@ When tourism income vastly exceeds what can be earned serving local populations,
 
 ### Community vs. Individual Economics
 
-Traditional Shipibo ayahuasca practice operates within kinship networks of mutual obligation, where ceremonial exchange is embedded in social relationships rather than monetary transactions.
+Traditional [[san-francisco-shipibo-ayahuasca-ceremonial-center]] practice operates within kinship networks of mutual obligation, where ceremonial exchange is embedded in social relationships rather than monetary transactions.
 
 A practitioner might serve their extended family and community for years without direct payment, sustained by reciprocity and social standing.
 

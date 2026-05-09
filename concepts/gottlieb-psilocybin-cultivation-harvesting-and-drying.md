@@ -1,5 +1,5 @@
 ---
-title: Gottlieb Psilocybin Cultivation Harvesting and Drying
+title: Gottlieb gottlieb-psilocybin-cultivation-bulk-substrate-preparation Harvesting and Drying
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -11,18 +11,18 @@ tags: [cultivation, harvesting, psilocybin]
 # Gottlieb Psilocybin Cultivation Harvesting and Drying
 
 In Gottlieb's "The Psilocybin Producer's Guide" (1976), harvesting and
-drying refer to collecting and preserving mycelial mats from liquid broth
-cultures, not picking mushroom fruiting bodies. The guide's entire
+drying refer to collecting and preserving [[singh-mycelial-mats-and-biological-soil-crusts]] from liquid broth
+cultures, not picking [[ectomycorrhizal-mushroom-fruiting-ecology]] bodies. The guide's entire
 cultivation model is built around extracting alkaloids from submerged
 mycelium rather than consuming carpophores directly. This approach
 produces a consistent, extractable product in a 10-12 day cycle and
-avoids the complexities of fruiting chamber management.
+avoids the complexities of [[mushroom-fruiting-chamber-design-parameters]] management.
 
 ## Determining Harvest Time
 
 - Growth cycle: 10-12 days at 70-75 degrees F in PDY broth.
 - A saccharimeter can be used to track sugar consumption in the broth.
-- Maximum mycelial growth and highest psilocybin content occur approximately
+- Maximum [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] and highest psilocybin content occur approximately
   four days after all broth sugar has been consumed.
 - Jars must be harvested at this peak for maximum alkaloid yield.
 - If harvesting cannot be done on the same day, refrigerate jars until
@@ -52,7 +52,7 @@ avoids the complexities of fruiting chamber management.
 3. Check dishes periodically during the drying process.
 4. When material first appears dry, shut off heat but leave dishes in the
    oven as it cools. This ensures complete evaporation of residual moisture.
-5. Each cultivation jar yields 50-100 grams of wet mycelium.
+5. Each [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]] yields 50-100 grams of wet mycelium.
 6. Fresh mycelium is approximately 90% water; drying produces 5-10 grams of
    crumbly material per jar.
 

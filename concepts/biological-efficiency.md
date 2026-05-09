@@ -1,22 +1,18 @@
 ---
-title: Biological Efficiency
+title: stamets-biological-efficiency-yield
 created: 2026-04-28
-tags: [[mycology, metrics, cultivation, mushroom-yield]
+tags: [mycology, metrics, cultivation, mushroom-yield]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
 type: concept
 ---
-
-# Biological Efficiency
-
-Biological efficiency (BE) is the standard metric for measuring yield performance in
-[[pleurotus-ostreatus]]* typically achieves 60-100% BE on supplemented
+# Biological Efficiency Biological efficiency (BE) is the standard metric for measuring yield performance in [[pleurotus-ostreatus]]* typically achieves 60-100% BE on supplemented
 sawdust and 50-80% on straw. *Pleurotus eryngii* (king oyster) generally yields 40-70%
 BE, reflecting its longer growth cycle and denser fruiting bodies. *Pleurotus
 pulmonarius* can achieve 80-120% BE under optimal conditions. Button mushroom
-(*Agaricus bisporus*) commercially achieves 60-100% BE on composted substrates.
-Shiitake (*Lentinula edodes*) typically achieves 50-80% BE on supplemented hardwood
+(*[[genetic-improvement-agaricus-bisporus-molecular-approaches]]*) commercially achieves 60-100% BE on composted substrates.
+Shiitake (*[[staycare-lentinula-edodes-in-bioremediation]]*) typically achieves 50-80% BE on supplemented hardwood
 sawdust.
 
 ## Factors Affecting Biological Efficiency
@@ -42,7 +38,7 @@ shows reduced vigor and lower BE.
 ### Environmental Conditions
 
 Temperature during colonization and fruiting phases significantly affects BE.
-Temperatures outside the optimal range for a given species slow mycelial growth and
+Temperatures outside the optimal range for a given species slow [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] and
 can reduce yield. Relative humidity during fruiting, typically 85-95%, affects
 evaporation rates and mushroom development. Carbon dioxide concentration influences
 fruiting body morphology and can impact yield when levels are too high or too low.
@@ -53,7 +49,7 @@ Fresh air exchange is essential for removing metabolic gases and supplying oxyge
 Most oyster mushroom strains produce 2-4 flushes of fruiting bodies. The first flush
 typically accounts for 50-70% of total yield, with subsequent flushes declining
 progressively. Proper management of the period between flushes, including maintaining
-substrate moisture and allowing mycelium to recover, maximizes total BE. Some growers
+[[pf-tek-substrate-moisture-diagnosis-and-correction]] and allowing mycelium to recover, maximizes total BE. Some growers
 choose to harvest only the first or second flush to maximize throughput and reduce
 contamination risk, accepting a lower total BE in exchange for faster crop turnover.
 
@@ -72,11 +68,13 @@ Biological efficiency serves as a benchmark for evaluating new strains, substrat
 or cultivation techniques. When comparing BE values, it is essential to account for
 differences in measurement methodology, number of flushes harvested, and whether the
 substrate includes supplements. A BE of 80% on unsupplemented straw represents a
-significantly different achievement than 80% on heavily supplemented sawdust. Some
+significantly different achievement than 80% on heavily [[oyster-mushroom-supplemented-sawdust-blocks]]. Some
 researchers advocate for reporting BE on both a total substrate basis and a base
 material-only basis to enable fairer comparisons.
 
 ## See Also
+
+- [[stamets-biological-efficiency-yield]]
 
 - [[oyster-mushroom-species]]
 - [[mushroom-cultivation-environments]]

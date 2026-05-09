@@ -1,20 +1,21 @@
 ---
-title: "Cannabis Indoor Grow Room Setup and Ventilation"
+title: "comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing Grow Room Setup and Ventilation"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
 tags: [cannabis]
 sources:
-  - raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # [[green-grow-room-environment]] Setup and Ventilation
 
-**Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible — Jorge Cervantes
+**Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible — [[jorge-cervantes]]
 
 ## Grow Room Design Fundamentals
 
-The most productive setups utilize two rooms: a vegetative room (about one-quarter the size of the flowering room) for mothers, clones, and vegetative growth, plus a separate flowering room. Super productivity is achieved with a perpetual crop where several clones are taken every day or week, and every day a few plants are harvested.
+The most productive setups utilize two rooms: a vegetative room (about one-quarter the size of the flowering room) for mothers, clones, and [[cannabis-vegetative-growth-stage]], plus a separate flowering room. Super productivity is achieved with a perpetual crop where several clones are taken every day or week, and every day a few plants are harvested.
 
 A 1000-watt HID, properly set up, efficiently illuminates up to a 6 x 6-foot (1.8 x 1.8 m) room. The ceiling should be at least five feet (1.5 m) high. Plants in containers are set up at least one foot (30 cm) off the ground, and the lamp needs about a foot (80 cm) of space to hang from the ceiling, leaving about three feet (90 cm) of space for plants to grow.
 
@@ -65,7 +66,7 @@ Keep ducting as short as possible. A 30-degree curve cuts up to 20 percent of ai
 
 ## Temperature Control
 
-Ideal temperature range: 72-76°F (22-24°C). At night, temperature can drop 5-10°F with little effect. Daytime temperatures above 85°F (29°C) or below 60°F (15°C) slow growth.
+[[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] range: 72-76°F (22-24°C). At night, temperature can drop 5-10°F with little effect. Daytime temperatures above 85°F (29°C) or below 60°F (15°C) slow growth.
 
 When CO2 is enriched to 1200-1500 ppm, a temperature of 85°F (29°C) promotes more rapid gas exchange and faster growth.
 
@@ -84,15 +85,15 @@ CO2 can be supplied from:
 
 ## Odor Control
 
-Cannabis produces strong odors during flowering, particularly in the last weeks. An activated carbon filter connected to the exhaust system is the most common and effective odor control method. Carbon filters must be matched to the exhaust fan's CFM rating. Ozone generators can also neutralize odors but must be used carefully, as ozone is harmful to humans and plants at high concentrations.
+Cannabis produces strong odors during flowering, particularly in the last weeks. An activated carbon filter connected to the exhaust system is the most common and effective odor control method. Carbon filters must be matched to the exhaust fan's CFM rating. [[cervantes-ozone-generators-negative-ion-odor]] can also neutralize odors but must be used carefully, as ozone is harmful to humans and plants at high concentrations.
 
 Air purification should be a closed system — all air exiting the grow room should pass through the carbon filter before being vented outside. Negative pressure (more air exhausting than entering) ensures that odorous air does not escape through unfiltered openings.
 
 ## Temperature and Humidity Control
 
 Ideal temperature ranges for cannabis are:
-- **Vegetative stage**: 70-85°F (21-29°C) day, 60-70°F (15-21°C) night
-- **Flowering stage**: 65-80°F (18-26°C) day, slightly cooler at night
+- **[[comparison-cannabis-vegetative-stage-vs-flowering-stage]]**: 70-85°F (21-29°C) day, 60-70°F (15-21°C) night
+- **[[cannabis-flowering-stage-management]]**: 65-80°F (18-26°C) day, slightly cooler at night
 
 Temperatures above 90°F (32°C) can cause heat stress, slow growth, and reduce potency. Below 60°F (15°C), growth slows dramatically. The temperature differential between day and night should not exceed 15°F (8°C) to prevent stress.
 

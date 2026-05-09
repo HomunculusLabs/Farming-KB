@@ -21,8 +21,8 @@ mushrooms evolved and how they dispersed across continents.
 The authors divided neurotropic fungi into four groups:
 
 1. Species containing psilocybin and related indoles (the largest group)
-2. Species containing ibotenic acid (Amanita muscaria, A. pantherina, A. regalis)
-3. Ergot fungi (Claviceps purpurea and allies, Cordyceps)
+2. Species containing ibotenic acid ([[allegro-amanita-muscaria-properties-and-pharmacology]], A. pantherina, A. regalis)
+3. Ergot fungi ([[bloomfield-ergot-claviceps-purpurea-ergotism]] and allies, Cordyceps)
 4. Species used as sacred fungi without reliable chemical studies
 
 Within the psilocybin-containing group, Psilocybe dominates with 116 species (54% of
@@ -41,7 +41,7 @@ hemisphere being far more thoroughly explored mycologically.
 The authors conclude: "It is concluded in the distribution of the neurotropic
 species of Psilocybe, that these fungi may have their origin in the southern
 hemisphere, mainly in South America, based in the high diversity there, and from
-that region reached the northern parts (North America and Europe)."
+that region reached the northern parts ([[psilocybin-north-america-pacific-northwest]] and Europe)."
 
 ## Mexico as a Biodiversity Crossroads
 
@@ -64,7 +64,7 @@ mesophytic forests, only 4 with tropical forests, and 4 with coniferous forests
 
 The authors identified nine distribution types (following Hongo, 1978):
 
-- **Cosmopolitan**: Panaeolus spp., Panaeolina foenisecii
+- **Cosmopolitan**: Panaeolus spp., [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]
 - **Northern hemisphere**: Amanita spp., Cordyceps spp., P. pelliculosa, P. silvatica
 - **Tropical and subtropical**: P. cubensis, P. subcubensis, Copelandia cyanescens
 - **Alpine/subalpine**: P. aztecorum (Mexico, up to 4,000 m elevation)
@@ -81,7 +81,7 @@ Notable distribution patterns:
 - The majority of Psilocybe species favor subtropical, mesophytic, cloud, or
   deciduous humid forests
 - Africa has very few records (only 6-8 neurotropic Psilocybe species) despite
-  high overall biodiversity, reflecting scarce mycological exploration
+  high overall biodiversity, reflecting scarce [[guzman-allen-gartz-mycological-exploration-bias-and-underexplored-regions]]
 
 ## Trans-Pacific Connections
 
@@ -92,7 +92,7 @@ and Southeast Asian agarics, and the authors extended this to Psilocybe:
   both in Section Mexicanae
 - P. makarorae (New Zealand) is also related to P. mexicana
 - P. aucklandii (New Zealand) is closely related to P. zapotecorum (Mexico and
-  South America), both in Section Zapotecorum
+  South America), both in [[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]]
 - Similarly, American species (P. graveolens, P. muliercula, P. pintonii, P.
   zapotecorum) are closely related to Japanese species (P. argentipes, P.
   subcaerulipes)
@@ -136,7 +136,7 @@ the famous "teonanacatl" (divine mushroom).
 
 ## See Also
 
-- [[neotropical-psilocybin-mushrooms]]
+- neotropical-psilocybin-mushrooms
 - [[ethnomycology-as-discipline]]
 - [[gymnopilus-purpuratus-profile]]
 - [[ergot-fungus]]

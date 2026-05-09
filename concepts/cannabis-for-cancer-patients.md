@@ -41,16 +41,16 @@ Cannabis has a well-established role in managing cancer symptoms, and emerging (
 
 ### Preclinical Evidence
 - In vitro and animal studies show cannabinoids can: induce apoptosis (programmed cell death) in cancer cells, inhibit angiogenesis (tumor blood supply), inhibit metastasis (spread), inhibit cell proliferation
-- CBD shows particularly promising anti-tumor properties in breast cancer, glioma, and colon cancer models
+- CBD shows particularly promising anti-tumor properties in breast cancer, glioma, and [[cannabis-and-colon-cancer-research]] models
 
 ### Important Caveats
-- NO clinical trials have yet demonstrated that cannabis cures cancer in humans
+- NO [[mushroom-cancer-clinical-trials-overview]] have yet demonstrated that cannabis cures cancer in humans
 - The preclinical evidence is promising but cannot be extrapolated to clinical recommendations
 - Patients should NOT replace conventional cancer treatment with cannabis
 - Cannabis should be used as a complementary therapy alongside, not instead of, standard oncology treatment
 
 ### Rick Simpson Oil (RSO) Controversy
-- RSO is a full-extract cannabis oil with very high THC
+- RSO is a full-extract [[cervantes-hash-cannabis-oil-production]] with very high THC
 - Widely promoted as a cancer cure on the internet
 - NO clinical evidence supports RSO as a cancer cure
 - The anecdotal reports may reflect symptom improvement rather than tumor regression
@@ -58,14 +58,14 @@ Cannabis has a well-established role in managing cancer symptoms, and emerging (
 
 ## Integration with Conventional Treatment
 - Cannabis can be used alongside chemotherapy, radiation, and surgery
-- No known negative drug interactions with common chemotherapy agents
+- No known negative [[cannabis-drug-interactions-and-contraindications]] with common chemotherapy agents
 - May improve quality of life and treatment tolerance
 - Always inform your oncologist about cannabis use
 
 ## Related
 - [[cannabis-therapeutic-index-overview]] — for evidence framework
 - [[cannabis-endocannabinoid-system]] — for mechanism
-- [[cannabis-for-chronic-pain]] — for pain management
+- [[cannabis-for-chronic-pain]] — for [[cannabis-pain-management-protocols]]
 - [[turkey-tail-mushroom-cancer-research]] — for another complementary approach
 ## Practical Considerations
 
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

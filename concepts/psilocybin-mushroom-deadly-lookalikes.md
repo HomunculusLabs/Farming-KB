@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Mushroom Deadly Lookalikes
+title: emcdda-psilocybin-mushroom-dose-and-effects Deadly Lookalikes
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -8,11 +8,11 @@ sources: [papers/field-guide-to-the-psilocybin-mushroom.md]
 ---
 # Psilocybin Mushroom Deadly Lookalikes
 
-The poisonous mushrooms most commonly confused with psilocybin-containing species, with detailed identification guidance for avoiding lethal mistakes.
+The [[palmer-poisonous-mushrooms-deadly-species]] most commonly confused with psilocybin-containing species, with detailed identification guidance for avoiding lethal mistakes.
 
 ## The Fundamental Safety Rule
 
-The Stametsian rule for targeting psilocybin mushrooms states that if a gilled mushroom has purplish brown to black spores AND the flesh bruises bluish, it is very likely a psilocybin-producing species.
+The Stametsian rule for targeting [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] states that if a gilled mushroom has purplish brown to black spores AND the flesh bruises bluish, it is very likely a psilocybin-producing species.
 
 While there are few exceptions, the critical safety distinction is spore color: psilocybin mushrooms have dark purplish brown to black spores, while the most deadly lookalikes have rusty brown spores.
 
@@ -70,7 +70,7 @@ Galerinas can also resemble psilocybin mushroom deadly lookalikes and other Gymn
 
 Both are orangish brown and produce rusty spores.
 
-Because some Gymnopilus are psilocybin-active, eager hunters might see the blackening reaction of some Galerinas as a bluing reaction.
+Because some Gymnopilus are psilocybin-active, eager hunters might see the blackening reaction of some Galerinas as a [[field-guide-psilocybin-bluing-reaction-identification]].
 
 Confusing a Gymnopilus with a Galerina could be deadly.
 
@@ -96,7 +96,7 @@ Amanita and Galerina: typically whitish spores.
 
 Galerina: rusty brown spores.
 
-Within the minor psilocybin genera (Conocybe, Gymnopilus, Inocybe, Pluteus), there are other members that are poisonous, a feature not shared with Psilocybe and Panaeolus.
+Within the minor [[stamets-psilocybin-genera-beyond-psilocybe]] (Conocybe, Gymnopilus, Inocybe, Pluteus), there are other members that are poisonous, a feature not shared with Psilocybe and Panaeolus.
 
 ## The Mythicomyces Bridge Species
 
@@ -108,7 +108,7 @@ This bridge species illustrates just how closely Psilocybes and Galerinas can re
 
 ## Inocybe aeruginascens: Special Case
 
-[[mushroom-poisoning-and-lookalikes]], [[psilocybin-mushroom-identification]], [[conocybe-cyanopus-profile]]
+mushroom-poisoning-and-lookalikes, [[psilocybin-mushroom-identification]], [[conocybe-cyanopus-profile]]
 
 ## Merged: Gymnopilus aeruginosus
-A large psilocybin-containing mushroom commonly known as "magic blue gym," notable for its bluish-gray-green coloration and preference for woody debris in temperate forests. Originally described as Pholiota aeruginosa Peck, the species was later reclassified into the genus Gymnopilus. See also: [[gymnopilus-purpuratus-profile]], [[psilocybin-mushroom-minor-genera]], psilocybin mushroom deadly lookalikes It is one of approximately 75 Gymnopilus species in North America and one of at least 11 species worldwide confirmed to contain psilocybin.
+A large psilocybin-containing mushroom commonly known as "magic blue gym," notable for its bluish-gray-green coloration and preference for woody debris in temperate forests. Originally described as Pholiota aeruginosa Peck, the species was later reclassified into the genus Gymnopilus. See also: [[gymnopilus-purpuratus-profile]], [[psilocybin-mushroom-minor-genera]], psilocybin mushroom deadly lookalikes It is one of approximately 75 Gymnopilus species in [[psilocybin-north-america-pacific-northwest]] and one of at least 11 species worldwide confirmed to contain psilocybin.

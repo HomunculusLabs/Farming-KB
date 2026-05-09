@@ -1,5 +1,5 @@
 ---
-title: Ecological Polyculture Design - The Meadow Garden Method
+title: Ecological aquatic-polyculture-design-mollison - The gaias-garden-meadow-garden-polyculture Method
 source: a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md
 author: Toby Hemenway
 topics: polyculture, garden-design, succession, interplanting, permaculture
@@ -26,8 +26,8 @@ Each plant serves multiple functions:
 - **Parsnips** send deep taproots to access subsoil nutrients
 - **Calendula** repels pests, attracts pollinators, provides medicine
 - **Lettuce** provides rapid leaf canopy that suppresses weeds
-- **Fava beans** fix nitrogen, provide protein-rich food
-- **Buckwheat** provides fast cover, attracts beneficial insects, accumulates
+- **Fava beans** [[query-how-to-fix-nitrogen-toxicity-in-cannabis]], provide protein-rich food
+- **Buckwheat** provides fast cover, attracts [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], accumulates
   phosphorus
 
 ### Temporal Stacking
@@ -40,7 +40,7 @@ The dense, diverse planting creates its own checks and balances:
 - Pest outbreaks are limited by predator insects attracted by dill and
   buckwheat flowers
 - Weeds are suppressed by rapid canopy closure from lettuce and buckwheat
-- Soil fertility is maintained by fava bean nitrogen fixation and buckwheat
+- Soil fertility is maintained by fava bean [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] and buckwheat
   phosphorus accumulation
 - Moisture is conserved by continuous ground cover
 
@@ -59,7 +59,7 @@ What does your garden need? Consider:
 Choose species that serve at least two functions each. Prioritize:
 - **Fast growers** for quick canopy closure
 - **Legumes** for nitrogen fixation
-- **Deep-rooted plants** for nutrient cycling
+- **Deep-rooted plants** for [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 - **Flowering plants** for pollinator and predator attraction
 - **Edible plants** at multiple harvest times
 
@@ -83,3 +83,7 @@ even more species into a single bed:
    polyculture largely manages itself
 5. **Observe and adapt** — Each site and climate produces different results;
    modify the species mix based on your observations
+
+## See Also
+
+- [[gaias-garden-meadow-garden-polyculture]]

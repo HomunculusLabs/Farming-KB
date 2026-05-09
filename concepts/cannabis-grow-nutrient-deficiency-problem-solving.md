@@ -1,5 +1,5 @@
 ---
-title: Cannabis Nutrient Deficiency and Problem Solving
+title: Cannabis cannabis grow nutrient deficiency problem solving and maitake-problem-solving-troubleshooting
 created: 2026-04-28
 tags: [cannabis, nutrients, deficiency, NPK, pH, troubleshooting, grow-bible]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: concept
 # Cannabis Nutrient Deficiency and Problem Solving
 
 Identifying and resolving nutrient problems is one of the most critical
-skills for cannabis cultivators. [[nutrient-lockout]]
+skills for cannabis cultivators. 
 
 Lockout occurs when the plant cannot access a nutrient or group of
 nutrients. This could be caused by the absence of nutrients, or by a
@@ -23,7 +23,7 @@ types and even the water source itself.
 The most common cause of lockout is adding a large amount of one single
 nutrient, which can lock out other nutrients and prevent the plant from
 using them. When lockout is suspected, the best solution is to flush the
-soil or transplant into fresh medium. Nutrient lockout is a chemical
+soil or transplant into fresh medium. [[cannabis-nutrient-lockout-and-ph]] is a chemical
 reaction among nutrients in the soil and is one of the most frustrating
 problems growers encounter.
 
@@ -47,7 +47,7 @@ recovery.
 
 When a plant has outgrown its container, the entire root mass grows to
 its maximum capacity within the pot. This causes stress and a variety of
-problems that can mimic nutrient deficiencies. The only cure for a root
+problems that can mimic [[hamilton-nutrient-deficiencies-and-treatment]]. The only cure for a root
 bound condition is transplanting to a larger pot. Growers should monitor
 root growth and upgrade container sizes before the root bound condition
 stresses the plant.
@@ -56,7 +56,7 @@ stresses the plant.
 
 Growers need different feeding solutions for different growth stages. A
 bottle with equal or higher levels of nitrogen than phosphorus and
-potassium is used during vegetative growth. A bottle with higher levels
+potassium is used during [[cannabis-vegetative-growth-stage]]. A bottle with higher levels
 of phosphorus than nitrogen and potassium is used during flowering. A
 third bottle of secondary nutrients should be kept on hand. Feeding
 should never exceed 50 percent of the manufacturer's recommended dosage.
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

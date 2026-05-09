@@ -19,7 +19,7 @@ Nutrient cycling follows a sequential process:
 2. **Fungi follow**, producing complex "waste products" — what we call humus or humic acid
 3. **Protozoa eat bacteria**, releasing plant-available nitrogen (ammonium)
 4. **Fungal-feeding nematodes eat fungi**, releasing plant-available nitrogen
-5. **Predatory nematodes eat bacterial and fungal feeders**, further cycling nutrients
+5. **Predatory nematodes eat [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] feeders**, further cycling nutrients
 
 Real humic acid production requires ALL organism groups to be present: fungi, bacteria, protozoa, nematodes, earthworms, and microarthropods.
 
@@ -56,9 +56,9 @@ The nutrients in kelp cannot be accessed by plants directly — soil biology mus
 
 ## Inorganic Fertilizer Interaction
 
-When inorganic fertilizers must be used, Ingham recommends:
+When [[ingham-inorganic-fertilizers-soil-biology-damage]] must be used, Ingham recommends:
 - Always add fertilizer with microbial foods (fish hydrolysate, compost tea) to hold nutrients in soil
-- Apply compost tea immediately after fertilizer application
+- Apply compost tea immediately after [[cervantes-fertilizer-application-strain-feeding]]
 - Rates below 100 lbs/acre are generally safe for soil biology
 - Above 100 lbs/acre, apply water first to move fertilizer into soil, then follow with compost tea
 - All inorganic amendments are salts with osmotic shock potential — they can kill organisms
@@ -84,7 +84,7 @@ Ingham's work emphasizes that different soils and different plant communities ar
 
 ## Chemical Agriculture and the Soil Food Web
 
-Ingham is particularly critical of the effects of synthetic chemical inputs on the soil food web. Synthetic nitrogen fertilizers provide plant-available nitrogen directly, bypassing the biological nitrogen cycling pathway and causing bacterial-feeding organisms to starve as their food source (bacteria processing organic nitrogen) is eliminated. Broad-spectrum fungicides applied to soil devastate fungal communities, disrupting mycorrhizal partnerships and fungal decomposition pathways. Pesticides and herbicides have both direct toxic effects on non-target soil organisms and indirect effects through the disruption of food web relationships. Repeated applications of these chemicals progressively simplify the soil food web, reducing biodiversity and creating dependency on continued chemical inputs.
+Ingham is particularly critical of the effects of synthetic chemical inputs on the soil food web. Synthetic nitrogen fertilizers provide plant-available nitrogen directly, bypassing the [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] cycling pathway and causing bacterial-feeding organisms to starve as their food source (bacteria processing organic nitrogen) is eliminated. Broad-spectrum fungicides applied to soil devastate fungal communities, disrupting mycorrhizal partnerships and fungal decomposition pathways. Pesticides and herbicides have both direct toxic effects on non-target soil organisms and indirect effects through the disruption of food web relationships. Repeated applications of these chemicals progressively simplify the soil food web, reducing biodiversity and creating dependency on continued chemical inputs.
 
 ## Compost Tea and Biological Inoculants
 
@@ -108,7 +108,7 @@ Ingham's model incorporates the concept of the microbial loop — a mechanism by
 
 ## Mycorrhizal Networks and Nutrient Sharing
 
-Ingham places particular emphasis on mycorrhizal fungi as the keystone organisms connecting plants to the broader soil food web. Arbuscular mycorrhizal fungi (AMF) form symbiotic associations with the roots of most crop plants, extending fungal hyphae far beyond the root zone to access phosphorus, zinc, copper, and other immobile nutrients that plant roots cannot reach. In exchange, the plant provides the fungus with carbohydrates produced through photosynthesis. Ingham's work highlights a less widely appreciated function of mycorrhizal networks: they can serve as conduits for nutrient and carbon sharing between plants. Through common mycorrhizal networks (CMNs), nutrients can be transferred from older, established plants to younger seedlings, and carbon can move from sun-exposed plants to shaded individuals. This network-mediated sharing may help explain why polyculture plantings often outperform monocultures even when individual plants receive the same nutrient inputs — the mycorrhizal network creates a shared resource pool that buffers against local nutrient deficiencies.
+Ingham places particular emphasis on mycorrhizal fungi as the keystone organisms connecting plants to the broader soil food web. [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi (AMF) form symbiotic associations with the roots of most crop plants, extending fungal hyphae far beyond the root zone to access phosphorus, zinc, copper, and other immobile nutrients that plant roots cannot reach. In exchange, the plant provides the fungus with carbohydrates produced through photosynthesis. Ingham's work highlights a less widely appreciated function of mycorrhizal networks: they can serve as conduits for nutrient and carbon sharing between plants. Through common mycorrhizal networks (CMNs), nutrients can be transferred from older, established plants to younger seedlings, and carbon can move from sun-exposed plants to shaded individuals. This network-mediated sharing may help explain why polyculture plantings often outperform monocultures even when individual plants receive the same nutrient inputs — the mycorrhizal network creates a shared resource pool that buffers against local [[hamilton-nutrient-deficiencies-and-treatment]].
 
 ## Related
 

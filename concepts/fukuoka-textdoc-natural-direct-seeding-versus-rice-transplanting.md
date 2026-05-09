@@ -1,5 +1,5 @@
 ---
-title: Natural Direct Seeding Versus Rice Transplanting
+title: Natural comparison-seed-starting-indoors-vs-direct-seeding-techniques Versus Rice Transplanting
 created: 2026-04-28
 tags: [fukuoka, natural-farming, rice, direct-seeding, transplanting, no-tillage, rice-barley-succession, cultivation-method]
 date: 2026-04-28
@@ -46,7 +46,7 @@ natural approach. The seed did not survive the winter, making the attempt a
 total failure. Modern rice varieties had lost their natural overwintering
 ability through centuries of breeding for transplant culture.
 
-Rather than giving up because overwintering rice seed is difficult, Fukuoka
+Rather than giving up because [[fukuoka-textdoc-overwintering-rice-seed-clay-pellet-method]] seed is difficult, Fukuoka
 set his sights on understanding why rice does not overwinter and how to
 approximate natural conditions while working with improved varieties. This
 persistence led eventually to his clay pellet method for protecting seed
@@ -62,7 +62,7 @@ of heads per square yard was consistently about four hundred to five hundred,
 and grains per head ranged from sixty to one hundred twenty. Yields were
 therefore about the same regardless of planting density.
 
-Problems included poor germination where soil was rich in organic matter and
+Problems included poor germination where soil was rich in [[hamilton-composting-and-organic-matter-management]] and
 bad water collected, and a tendency for plants grown in deeply flooded fields
 to lodge easily. Despite these issues, rice generally grew well when
 direct-seeded on plowed and irrigated paddies.
@@ -101,7 +101,7 @@ the principle of direct seeding without tilling of any sort.
 Fukuoka's key realization was that since he was using the same method for
 growing both rice and barley, and growing these two crops in succession, both
 could be managed as a single cropping system. He called this direct-seeding,
-no-tillage rice and barley succession.
+no-tillage rice and [[direct-seeded-no-tillage-rice-barley-succession-in-clover]].
 
 The system works because rice and barley are complementary: barley grows
 through the cooler months while rice occupies the warmer season. The barley
@@ -116,10 +116,10 @@ Fukuoka's direct seeding work illustrates his broader philosophical point:
 one thing is all things. To resolve one matter, one must resolve all matters.
 Changing one thing changes all things. Once he made the decision to sow rice
 in the fall, he found that he could simultaneously stop transplanting, stop
-plowing, stop applying chemical fertilizers, stop preparing compost, and stop
+plowing, stop applying [[cervantes-chemical-fertilizers-guide]], stop preparing compost, and stop
 spraying pesticides.
 
-Natural farming treats everything as part of a whole. Preparing the field,
+[[comparison-natural-farming-vs-permaculture]] treats everything as part of a whole. Preparing the field,
 sowing seed, tilling, covering seed with soil, fertilizing, weeding, and
 pest control are all organically interrelated. No problem in any one area is
 truly solved unless a common solution is found for all areas.
@@ -127,6 +127,5 @@ truly solved unless a common solution is found for all areas.
 ## See Also
 
 - [[fukuoka-textdoc-creating-rice-paddy-natural-methods]]
-- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-textdoc-critique-inductive-deductive-reasoning-agriculture]]

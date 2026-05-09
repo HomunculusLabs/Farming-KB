@@ -5,12 +5,13 @@ updated: 2026-04-12
 type: concept
 tags: [permaculture, principles, ecology, plant-systems, food-forest, agriculture]
 sources:
-  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+  sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 
 # Permaculture Principle 10 — Use and Value Diversity
 
-The tenth of David Holmgren's twelve permaculture design principles. The great diversity of forms, functions, and interactions in nature and humanity are the source for evolved systemic complexity. Diversity needs to be seen as a result of the balance and tension between variety and possibility on one hand, and productivity and power on the other.
+The tenth of David Holmgren's twelve [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] principles. The great diversity of forms, functions, and interactions in nature and humanity are the source for evolved systemic complexity. Diversity needs to be seen as a result of the balance and tension between variety and possibility on one hand, and productivity and power on the other.
 
 > "Don't put all your eggs in one basket: Diversity provides insurance against the vagaries of nature and everyday life." — David Holmgren
 
@@ -18,7 +19,7 @@ The tenth of David Holmgren's twelve permaculture design principles. The great d
 
 Holmgren is careful to distinguish diversity as more than just variety — a collection of different things. True diversity involves functional connections between different elements. A polyculture of ten unrelated plants is less valuable than a guild of five plants that actively support each other through nutrient sharing, pest protection, and complementary growth habits.
 
-It is now widely recognized that monoculture is a major cause of vulnerability to pests and diseases. Polyculture is one of the most important applications of this principle, but by no means the only one.
+It is now widely recognized that monoculture is a major cause of vulnerability to [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. Polyculture is one of the most important applications of this principle, but by no means the only one.
 
 ## Diversity as Resilience, Not Just Variety
 
@@ -69,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

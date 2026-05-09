@@ -1,5 +1,5 @@
 ---
-title: "Garden Planning and Four-Year Rotation"
+title: "hamilton-garden-planning-and-site-assessment and Four-Year Rotation"
 created: 2026-04-26
 sources: "Jeavons, John. How to Grow More Vegetables. Ten Speed Press."
 tags: [biointensive, garden-planning, rotation, mini-farm, jeavons]
@@ -16,11 +16,11 @@ permanent plantings, protein crops, and fiber crops as soil health improves.
 
 ## The Simple Mini-Garden
 
-The starting point is a 100 to 140+ square foot garden with a 6-month growing
+The starting point is a 100 to 140+ [[comparison-biointensive-vs-square-foot-gardening]] garden with a 6-month growing
 season. This plan includes the easiest crops to grow based on yields expected of
 a good gardener. Crops include head lettuce, leaf lettuce, parsley, carrots,
 potatoes, chard, bush peas, bunching onions, and cherry tomatoes. An optional
-bare-root dwarf fruit tree can be planted as early as possible in spring.
+bare-root dwarf [[comparison-berry-growing-vs-fruit-tree-pruning]] can be planted as early as possible in spring.
 
 The simple mini-garden teaches fundamental skills: starting seedlings in flats,
 pricking out seedlings, transplanting at the correct time, and maintaining beds.
@@ -57,14 +57,14 @@ After three or four years, with improved gardening skills, the vegetable crop
 area can be condensed from 200 square feet back to 100 square feet, leaving 100
 square feet of improved soil for protein crops (wheat, rye, peanuts, lentils,
 soybeans, and rice), fibers (cotton or flax), or special interest crops
-(chicken, goat, or bee forage; grapes; blueberries; bamboo; herbs; nut trees).
+(chicken, goat, or [[mollison-designers-bee-forage-tree-planting]]; grapes; blueberries; bamboo; herbs; [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]]).
 
 ## The Four-Person Family Food Garden
 
 The family plan covers approximately 1,302 square feet including paths. Jeavons
 recommends a similar 3- to 4-year progression, starting with approximately 300
 square feet in the first year and adding 300 more square feet each year until
-the entire garden is developed. The family plan includes 7 dwarf fruit trees
+the entire garden is developed. The family plan includes 7 dwarf [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
 occupying 448 square feet, plus a full range of vegetables including broccoli,
 Brussels sprouts, cabbage, cauliflower, celery, multiple lettuce varieties,
 tomatoes, peppers, eggplant, spinach, beets, and bush peas.

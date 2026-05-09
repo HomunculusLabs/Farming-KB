@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Jennings, D.L. (1988). "Raspberries and Blackberries: Their Breeding, Diseases and Growth." Academic Press.
   - Hall, H.K. et al. (2009). "Blackberries." In: "The Encyclopedia of Fruit and Nuts." CABI.
-  - dos Santos, P.H. et al. (2021). "Chemical composition and bioactive compounds of blackberries (Rubus spp.)." Food Research International, 140, 109917.
+  - dos Santos, P.H. et al. (2021). "Chemical composition and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] of blackberries (Rubus spp.)." Food Research International, 140, 109917.
   - Sarma, A.D. & Sharma, R. (1999). "Anthocyanin-DNA Copigmentation Complexes." Journal of Biosciences, 24(1), 37-41.
 ---
 
@@ -32,7 +32,7 @@ In European folklore, blackberry brambles were associated with protective magic.
 
 **Classification:** Plantae → Tracheophyta → Magnoliopsida → Rosales → Rosaceae → *Rubus* L. → *R. fruticosus* L. agg.
 
-The *R. fruticosus* aggregate is not a single biological species but a group of hundreds of apomictic microspecies. These reproduce primarily through agamospermy (asexual seed production), maintaining distinct but closely related lineages.
+The *R. fruticosus* aggregate is not a single biological species but a group of hundreds of apomictic microspecies. These reproduce primarily through agamospermy (asexual [[cervantes-seed-production-storage]]), maintaining distinct but closely related lineages.
 
 Blackberry plants are perennial shrubs with biennial canes (floricanes). Primocanes emerge in the first year and produce leaves but no flowers; floricanes develop lateral shoots bearing flowers and fruit in the second year before dying back.
 
@@ -42,13 +42,13 @@ Blackberry plants are perennial shrubs with biennial canes (floricanes). Primoca
 
 **Flowers** are pentamerous, 20–30 mm in diameter, with white or pale pink petals. Blooming occurs from late spring through midsummer depending on latitude and microspecies. Flowers are hermaphroditic and insect-pollinated.
 
-**Fruit** is an aggregate of drupelets, 1–3 cm long, initially red and ripening to glossy black-purple. Each drupelet contains a single seed (pyrene). Wild aggregate fruits typically contain 20–80 drupelets, while cultivated varieties may exceed 100.
+**Fruit** is an aggregate of drupelets, 1–3 cm long, initially red and ripening to glossy black-purple. Each drupelet contains a [[cervantes-selfing-single-seed-descent]] (pyrene). Wild aggregate fruits typically contain 20–80 drupelets, while cultivated varieties may exceed 100.
 
 ## Distribution, Habitat, and Ecology
 
 *R. fruticosus* agg. is native across Europe, the British Isles, North Africa (Morocco, Algeria), and temperate western Asia through the Caucasus. It has been widely naturalized in the Americas, Australasia, and southern Africa.
 
-The species complex occupies a broad ecological range, from sea level to approximately 1,800 meters elevation. It thrives in disturbed habitats, forest edges, hedgerows, riparian corridors, and abandoned agricultural land.
+The species complex occupies a broad ecological range, from sea level to approximately 1,800 meters elevation. It thrives in disturbed habitats, forest edges, hedgerows, riparian corridors, and abandoned [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]].
 
 Blackberry brambles are notably shade-tolerant compared to other *Rubus* species. They establish readily on nitrogen-rich soils and are often among the first woody colonizers of disturbed ground, making them ecologically significant pioneer species.
 
@@ -66,7 +66,7 @@ Modern cultivars are predominantly thornless, derived from natural mutations or 
 
 **Trellising** is standard for commercial production, using a V-trellis or T-bar system to support floricanes and manage primocane growth. Spacing ranges from 1.5 to 3 meters between plants in hedgerow configurations.
 
-Blackberries are typically propagated through tip-layering, root cuttings, or tissue culture. Root cuttings produce true-to-type plants due to the apomictic reproductive mode of most *R. fruticosus* germplasm.
+Blackberries are typically propagated through tip-layering, root cuttings, or [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]. Root cuttings produce true-to-type plants due to the apomictic reproductive mode of most *R. fruticosus* germplasm.
 
 Harvest occurs over a 3–5 week window during mid-to-late summer for floricane-fruiting types. Primocane-fruiting cultivars (primocane-bearing or "everbearing") produce a second crop on current-season canes in autumn.
 
@@ -94,7 +94,7 @@ Additional phenolic compounds include **ellagic acid**, gallic acid, quercetin, 
 
 ORAC (Oxygen Radical Absorbance Capacity) values for blackberry range from 20 to 60 µmol TE/g fresh weight, depending on cultivar, maturity, and growing conditions. Antioxidant capacity correlates strongly with anthocyanin and ellagitannin content.
 
-Emerging research suggests blackberry polyphenols may support cardiovascular health, modulate gut microbiome composition, and exhibit neuroprotective properties. Human clinical trials remain limited, with most evidence drawn from in vitro and animal models.
+Emerging research suggests blackberry polyphenols may support cardiovascular health, modulate gut microbiome composition, and exhibit neuroprotective properties. Human [[mushroom-cancer-clinical-trials-overview]] remain limited, with most evidence drawn from in vitro and animal models.
 
 ## Ecological Role
 
@@ -107,7 +107,7 @@ The dense, thorny canopy structure of mature bramble thickets offers nesting sit
 ## See Also
 
 - [[vaccinium-myrtillus]]
-- [[rosa-canina]]
+- rosa-canina
 - [[mentha-piperita]]
 - [[fagopyrum-esculentum]]
 - [[glycine-max]]

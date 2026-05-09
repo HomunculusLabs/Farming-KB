@@ -1,5 +1,5 @@
 ---
-title: Fungal Life Cycles as Spirals Rather Than Circles
+title: Fungal bloomfield-rust-fungi-life-cycles-barberry-wheat as Spirals Rather Than Circles
 created: 2026-04-28
 tags:
   - mycology
@@ -29,7 +29,7 @@ rotation through the cycle.
 ## The Problem with Circular Life Cycle Diagrams
 
 Generations of biology students have dreaded the life cycle diagrams
-that accompany descriptions of rust fungi and other organisms with
+that accompany descriptions of [[biodiversity-rust-fungi-urediniomycetes]] and other organisms with
 complex reproductive strategies. These diagrams typically show a
 circle of interconnected stages, with arrows connecting spore types,
 infection structures, and mating phases. The visual implication is
@@ -95,7 +95,7 @@ recombination, producing the variation that allows the rust to
 evolve new races capable of overcoming plant resistance genes.
 
 The alternation between clonal proliferation and sexual
-recombination is a fundamental pattern in fungal biology. It
+recombination is a fundamental pattern in [[bloomfield-fungal-biology-and-hyphal-growth]]. It
 balances the advantages of rapid multiplication with the long-term
 necessity of genetic diversity. Understanding this requires
 thinking in terms of a spiral, where each asexual turn may be
@@ -127,4 +127,10 @@ the spiral forward.
 
 - [[bloomfield-rust-fungus-life-cycles-puccinia-haustoria-spermatia]]
 - [[bloomfield-plant-hypersensitive-response-rust-arms-race]]
-- [[bloomfield-gymnosporangium-cedar-apple-rust-hawthorn-teleospores]]
+- bloomfield-gymnosporangium-cedar-apple-rust-hawthorn-teleospores
+## See Also
+- [[fungal-life-cycles]]
+- [[nicholas-money]]
+- [[bloomfield-rust-fungus-life-cycles-puccinia-haustoria-spermatia]]
+- [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]]
+- [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]

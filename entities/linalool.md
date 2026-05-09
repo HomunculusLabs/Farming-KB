@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/the-modern-farm-why-cannabis-grown-wcanna
 
 # Linalool
 
-Linalool (3,7-dimethyl-1,6-octadien-3-ol) is a monoterpene alcohol widely distributed in the plant kingdom and recognized as one of the most therapeutically significant terpenes in cannabis (*and plant architecture*). Known for its distinctive floral, lavender-like aroma, linalool contributes calming, sedative, anxiolytic, analgesic, and anti-inflammatory properties to cannabis preparations and has an extensive body of preclinical and clinical research supporting its therapeutic potential.
+Linalool (3,7-dimethyl-1,6-octadien-3-ol) is a monoterpene alcohol widely distributed in the plant kingdom and recognized as one of the most therapeutically significant terpenes in cannabis (*and plant architecture*). Known for its distinctive floral, lavender-like aroma, linalool contributes calming, sedative, anxiolytic, analgesic, and anti-inflammatory properties to cannabis preparations and has an extensive body of preclinical and [[hofmann-lsd-clinical-research-early-studies]] supporting its therapeutic potential.
 
 ## Chemical Properties
 
@@ -20,7 +20,7 @@ Both enantiomers are present in most cannabis cultivars, though the relative pro
 
 ## Natural Occurrence
 
-Linalool is one of the most prevalent terpenes in aromatic plants worldwide. Lavender (*Lavandula* spp.) is the quintessential source, with linalool comprising 20–50% of lavender essential oil. In cannabis, linalool is a significant terpene in many cultivars, particularly those with floral or lavender aromas such as Lavender, Amnesia Haze, and LA Confidential. Coriander (*Coriandrum sativum*) contains high levels of S-(+)-linalool, while sweet orange, bergamot, rosewood, sweet basil, and ho wood are additional significant sources.
+Linalool is one of the most prevalent terpenes in aromatic plants worldwide. Lavender (*Lavandula* spp.) is the quintessential source, with linalool comprising 20–50% of lavender [[permaculture-designers-manual-essential-oil-plants]]. In cannabis, linalool is a significant terpene in many cultivars, particularly those with floral or lavender aromas such as Lavender, Amnesia Haze, and LA Confidential. Coriander (*Coriandrum sativum*) contains high levels of S-(+)-linalool, while sweet orange, bergamot, rosewood, sweet basil, and ho wood are additional significant sources.
 
 Linalool is extensively used in the fragrance, cosmetic, food, and pharmaceutical industries, with annual global production estimated in the thousands of metric tons.
 
@@ -32,17 +32,17 @@ Linalool is a primary contributor to the floral, sweet, and slightly spicy aroma
 
 ### Synergy with Cannabinoids
 
-Linalool plays a distinctive role in the entourage effect through several mechanisms. It may attenuate some of the adverse psychological effects of THC, including anxiety and paranoia, while preserving its therapeutic benefits. Its anxiolytic and sedative properties complement and may potentiate the anxiolytic effects of CBD, creating a synergistic anti-anxiety effect. Linalool's analgesic effects may enhance the pain-relieving properties of both THC and CBD through complementary mechanisms.
+Linalool plays a distinctive role in the [[cannabis-terpene-entourage-effect-profiles]] through several mechanisms. It may attenuate some of the adverse [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] of THC, including anxiety and paranoia, while preserving its therapeutic benefits. Its anxiolytic and sedative properties complement and may potentiate the anxiolytic effects of CBD, creating a synergistic anti-anxiety effect. Linalool's analgesic effects may enhance the pain-relieving properties of both THC and CBD through complementary mechanisms.
 
 ### Therapeutic Applications
 
-Linalool-rich cannabis preparations are commonly used for anxiety and stress relief, and insomnia, pain management (especially neuropathic pain), seizure management (potential anti-convulsant properties), and inflammation-related conditions.
+Linalool-rich cannabis preparations are commonly used for anxiety and stress relief, and insomnia, [[cannabis-pain-management-protocols]] (especially neuropathic pain), seizure management (potential anti-convulsant properties), and inflammation-related conditions.
 
 ## Pharmacological Properties
 
 ### Anxiolytic and Sedative Effects
 
-Linalool is one of the most extensively studied anxiolytic terpenes, with robust preclinical evidence. It enhances GABAergic neurotransmission by positive allosteric modulation of GABA_A receptors, similar to the mechanism of benzodiazepines but with a more favorable safety profile. Linalool also inhibits excessive glutamatergic excitation, which iserotoninted in anxiety, seizures, and excitotoxicity. This dual action on both GABA (inhibitory) and glutamate (excitatory) systems gives linalool a unique ability to restore neurotransmitter balance. Additionally, linalool modulates serotonin 5-HT1A receptor activity, contributing to its anxiolytic and antidepressant effects.
+Linalool is one of the most extensively studied anxiolytic terpenes, with robust preclinical evidence. It enhances GABAergic neurotransmission by positive allosteric modulation of GABA_A receptors, similar to the mechanism of benzodiazepines but with a more favorable [[cannabis-safety-profile-and-overdose-risk]]. Linalool also inhibits excessive glutamatergic excitation, which iserotoninted in anxiety, seizures, and excitotoxicity. This dual action on both GABA (inhibitory) and glutamate (excitatory) systems gives linalool a unique ability to restore neurotransmitter balance. Additionally, linalool modulates serotonin 5-HT1A receptor activity, contributing to its anxiolytic and antidepressant effects.
 
 ### Analgesic Activity
 
@@ -105,4 +105,8 @@ linalool-rich cultivars with other sedating compounds.
 
 Related: [[oner-cannabis-terpene-profiles-effects]]
 
-See also: [[cannabis-as-medicine-clinical-reference]]
+See also: [[cannabis-evidence-based-medicine-chi-methodology]]
+
+## See Also
+
+- [[la-confidential]]

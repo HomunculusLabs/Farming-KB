@@ -1,5 +1,5 @@
 ---
-title: "Turkey Tail (Trametes versicolor): PSK and PSP in Cancer Treatment"
+title: "comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive (staycare-trametes-versicolor-bioremediation-applications): PSK and PSP in Cancer Treatment"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -42,7 +42,7 @@ Clinical profile of PSK:
     in an antigen-specific manner (Okazaki et al., 1995)
   - Local (intra-tumoural) administration is more efficient than systemic use
 
-Phase I, II, and III clinical trials demonstrated efficacy in cancers of the
+Phase I, II, and III [[mushroom-cancer-clinical-trials-overview]] demonstrated efficacy in cancers of the
 stomach, oesophagus, nasopharynx, colon, rectum, lung, and subsets of breast
 cancer. PSK gave protection against immunosuppression associated with surgery
 and long-term chemotherapy. In 1987, Krestin accounted for 25% of total
@@ -70,7 +70,7 @@ Clinical profile of PSP:
   - Recognised as a drug by the Chinese Ministry of Public Health
   - Well-tolerated and compatible with chemotherapy and radiation
   - Tens of thousands of patients treated; many taking PSP for over 10 years
-    with no serious adverse effects
+    with no serious [[blesching-cannabis-safety-adverse-effects-evidence]]
 
 ## Structural Comparison: PSK vs PSP
 
@@ -83,7 +83,7 @@ both are protein-bound polysaccharides, key differences exist:
     linkages; PSP has mainly beta linkages
   - In PSP, polysaccharides and peptides are clearly bound, not separated:
     where there is polysaccharide there is polypeptide
-  - PSP polysaccharide is connected with a small molecular weight protein
+  - [[psk-psp-polysaccharide-peptides]] is connected with a small molecular weight protein
 
 Up to 10 protein-bound polysaccharides have been isolated (coriolan I and II
 among them), most covered by US and Japanese patents. Only PSK and PSP have
@@ -105,7 +105,7 @@ restores immune potential after depression.
 
 ## Key Source
 
-Smith, Rowan and Sullivan (2002). Medicinal Mushrooms: Their therapeutic
+Smith, Rowan and Sullivan (2002). [[cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides]]: Their therapeutic
 properties and current medical usage with special emphasis on cancer
 treatments. University of Strathclyde.
 - [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
@@ -114,6 +114,8 @@ treatments. University of Strathclyde.
 - [[cancer-medicinal-mushrooms-reishi-ganoderma-research]]
 
 ## See Also
+
+- [[cancer-medicinal-mushrooms-psk-gastric-cancer]]
 
 - [[comparison-reishi-vs-turkey-tail-medicinal-mushrooms]]
 

@@ -1,5 +1,5 @@
 ---
-title: KNF Livestock Feeding Natural
+title: KNF knf livestock feeding natural Natural
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 updated: 2026-18
 
-Korean Natural Farming (KNF) emphasizes homemade livestock feed that is carefully balanced according to the [[knf-oriental-herbal-nutrient]]:** Provides herbal medicine benefits, boosts immunity, and prevents disease
+Korean [[comparison-natural-farming-vs-permaculture]] (KNF) emphasizes homemade livestock feed that is carefully balanced according to the [[knf-oriental-herbal-nutrient]]:** Provides herbal medicine benefits, boosts immunity, and prevents disease
 - **[[lactic-acid-bacteria-knf]]:** Added to drinking water to maintain gut health, prevent diarrhea, and improve digestion
 - **[[knf-water-soluble-calcium-phosphate]]:** Used as drinking water (1:500 dilution) for livestock that are pregnant or ovulating
 - **[[knf-brown-rice-vinegar]]:** Aids calcium absorption, supports liver function, prevents disease; added to water at specified dilutions
@@ -21,9 +21,9 @@ Korean Natural Farming (KNF) emphasizes homemade livestock feed that is carefull
 
 The feeding protocol adjusts based on the animal's growth stage:
 
-**Early stage (vegetative growth):** Emphasis on nitrogen-rich inputs. [[master-cho-knf-ffj-fermented-fruit-juice-guide]] provide sugars and growth-promoting compounds. FAA provides protein. OHN strengthens the immune system.
+**Early stage ([[cannabis-vegetative-growth-stage]]):** Emphasis on nitrogen-rich inputs. [[master-cho-knf-ffj-fermented-fruit-juice-guide]] provide sugars and growth-promoting compounds. FAA provides protein. OHN strengthens the immune system.
 
-**Cross-over period:** Phosphorus-rich inputs become important. [[knf-water-soluble-potassium-detailed]] supports overall production and quality.
+**Cross-over period:** Phosphorus-rich inputs become important. [[knf-water-soluble-potassium-detailed]] supports overall [[cannabis-resin-production-and-quality-traits-clarke]].
 
 ## General Livestock Principles
 
@@ -34,7 +34,7 @@ The KNF approach to livestock feeding extends beyond poultry to all animals:
 - The right material at the right amount and at the right stage is the guiding principle
 - Locally available materials should be used rather than expensive commercial feeds
 - The microbial health of the animal's gut is maintained through LAB and other biological inputs
-- Animals should have access to soil contact for natural mineral supplementation and microbial exposure
+- Animals should have access to soil contact for [[jadam-natural-mineral-leaching-and-replenishment]] supplementation and microbial exposure
 
 ## Cost Benefits
 
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

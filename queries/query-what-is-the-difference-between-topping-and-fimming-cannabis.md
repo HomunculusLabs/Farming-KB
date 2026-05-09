@@ -1,5 +1,5 @@
 ---
-title: "What Is the Difference Between Topping and Fimming Cannabis?"
+title: "What Is the query what is the difference between topping and fimming cannabis and Fimming Cannabis?"
 created: 2026-04-28
 tags: [query, cannabis, training, topping, fimming, plant-shaping]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: query
 # What Is the Difference Between Topping and Fimming Cannabis?
 
 ## Short Answer
-Topping and FIMing are both high-stress training techniques that cut the apical
+Topping and FIMing are both high-stress [[cannabis-training-techniques-comparison]] that cut the apical
 dominance of a cannabis plant to encourage lateral branching and a wider canopy.
 Topping cleanly removes the entire top growth tip between nodes, creating two
 symmetrical colas. FIMing (an acronym for "Fuck, I Missed") involves pinching or
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

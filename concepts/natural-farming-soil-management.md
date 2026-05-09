@@ -1,5 +1,5 @@
 ---
-title: Natural Farming Soil Management
+title: comparison-natural-farming-vs-permaculture Soil Management
 created: 2026-04-28
 tags: [soil-management, natural-farming, soil-health, no-till]
 date: 2026-04-25
@@ -21,8 +21,8 @@ healthy soil biology is the foundation of healthy crops.
 ## Fukuoka's Soil Philosophy
 
 Masanobu Fukuoka demonstrated that soil fertility can be
-maintained indefinitely without chemical fertilizers,
-compost, or tillage. His four principles of natural farming
+maintained indefinitely without [[cervantes-chemical-fertilizers-guide]],
+compost, or tillage. His four [[four-principles-of-natural-farming]] farming
 include "no cultivation" and "no fertilizer," which together
 form the basis of his soil management approach.
 
@@ -47,7 +47,7 @@ Fukuoka's key insights about soil include:
 microorganisms play an essential role in making soil good
 for crop production. The IMO process:
 
-1. Collects indigenous microorganisms from the local
+1. Collects [[beneficial-indigenous-microorganisms-bim]] from the local
    environment (typically from forest leaf litter)
 2. Multiplies them through successive stages using
    natural media
@@ -72,9 +72,9 @@ The most effective natural farming soil management
 combines insights from multiple traditions. Fukuoka's
 demonstration that no-tillage with mulch and cover crops
 maintains fertility pairs well with KNF's active microbial
-inoculation and JADAM's mineral supplementation strategies.
+inoculation and JADAM's mineral [[stamets-substrate-supplementation-strategies-mushroom-cultivation]].
 Together, these approaches address soil physical structure,
-biological activity, and mineral availability.
+biological activity, and [[chelation-microbial-mineral-availability-ingham]].
 
 ## See Also
 

@@ -1,5 +1,5 @@
 ---
-title: Sativa Terpene Profiles and Aromatic Diversity
+title: Sativa cannabis-terpene-profiles-sativa and Aromatic Diversity
 created: 2026-04-28
 tags: [cannabis, terpenes, sativa, aromatics, chemistry]
 date: 2026-04-28
@@ -12,12 +12,12 @@ type: concept
 
 ## Overview
 
-Cannabis sativa varieties are distinguished not only by their
+[[comparison-cannabis-sativa-vs-cannabis-indica]] varieties are distinguished not only by their
 morphology and effects but by their remarkably diverse terpene profiles.
 The aromatic compounds produced by sativa-dominant strains span a
 wide spectrum from sweet and fruity to pungent and fuel-like. These
 terpenes contribute significantly to the therapeutic effects through
-the entourage effect and serve as important markers for strain
+the [[cannabis-terpene-entourage-effect-profiles]] and serve as important markers for strain
 identification and quality assessment.
 
 ## Primary Sativa Terpenes
@@ -56,7 +56,7 @@ sativa-leaning profile.
 ### Pinene (Alpha and Beta)
 
 Pinene is abundant in many sativa landraces, particularly those from
-Southeast Asia and Africa. It produces the characteristic pine aroma
+[[psilocybe-southeast-asia-pacific]] and Africa. It produces the characteristic pine aroma
 and contributes to alertness, memory retention, and bronchodilation.
 Beta-pinene is more common in cannabis than alpha-pinene, though both
 are typically present. Strains like Dutch Treat and many pure Hazes
@@ -109,7 +109,7 @@ and fermented. The famous "Thai stick" aroma combines sweet floral
 notes with an earthy, almost cheesy undertone.
 
 **South and Central American (Colombian, Mexican, Jamaican):** Often
-high in limonene, pinene, and myrcene. Colombian Gold expresses sweet,
+high in limonene, pinene, and myrcene. [[cannabis-colombian-gold-landrace-sativa]] expresses sweet,
 lemony, and herbal notes. Mexican landraces tend toward earthy, skunky
 profiles with significant myrcene and caryophyllene.
 
@@ -139,7 +139,6 @@ modulate the psychoactive experience toward alertness and creative
 engagement, while caryophyllene adds anti-inflammatory benefits
 through CB2 receptor activation. This synergy underscores the
 importance of preserving full-spectrum terpene profiles.
-
 ## See Also
 
 - [[cannabis-sativa-morphology-and-plant-architecture]]

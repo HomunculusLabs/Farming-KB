@@ -2,7 +2,7 @@
 
 ## Overview
 
-Kava ([[amanita-preparation-methods]]on-methods]] and ceremonial contexts evolving in different island cultures. While modern commercialization has introduced standardized extracts and capsules, traditional kava preparation remains the gold standard for both safety and subjective experience quality. Understanding traditional methods is essential for appreciating kava's cultural significance and for optimizing preparation in contemporary contexts.
+Kava ([[amanita-muscaria-preparation-methods]] and ceremonial contexts evolving in different island cultures. While modern commercialization has introduced standardized extracts and capsules, traditional kava preparation remains the gold standard for both safety and subjective experience quality. Understanding traditional methods is essential for appreciating kava's cultural significance and for optimizing preparation in contemporary contexts.
 
 ## Origins and Distribution
 
@@ -23,12 +23,12 @@ The most common traditional method across Polynesia and Vanuatu:
 
 1. **Root preparation**: Fresh or dried lateral roots are selected, cleaned, and pounded into a coarse powder using a mortar and pestle or by chewing
 2. **Water extraction**: The powdered root is placed in a woven basket (typically from Hibiscus tiliaceus fiber) or a cloth sack, and cold or room-temperature water is added gradually
-3. **Kneading**: The fiber bundle containing the root material is repeatedly kneaded, squeezed, and twisted in the water, extracting the[[cannabis-solvent-extraction]]
+3. **Kneading**: The fiber bundle containing the root material is repeatedly kneaded, squeezed, and twisted in the water, extracting the
 - **Root-only material**: Traditional preparation uses only the lateral root (and sometimes the basal stump), not aerial parts, peel, or stem material that may contain higher levels of potentially hepatotoxic compounds (pipermethystine, flavokavains)
 - **Noble cultivars only**: Traditional kava cultures exclusively use noble kava varieties; tudei (two-day) kava was historically discarded or used only for medicinal purposes
 - **Fresh preparation**: Kava should be consumed immediately after preparation, as the aqueous emulsion degrades over time (within hours), potentially producing bitter off-flavors and altered pharmacological properties
 
-See also: [[kava-kava-cultivation-ethnobotany-and-chemistry]]
+See also: [[comparison-kava-vs-kratom-cultivation-chemistry-and-uses]]
 ## Practical Applications
 
 Kava Traditional Preparation Ceremonial Context has a range of practical applications that make it relevant to
@@ -107,3 +107,9 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+- [[shamanic-entheogenic-ceremony-structure-common-elements]]
+- [[turner-multiple-combinations-specific-reports]]
+- [[urban-permaculture-community-building-social-design]]
+- [[weil-cultural-attitudes-toward-altered-states]]
+- [[duggar-mushroom-environmental-factors-temperature-moisture-light]]

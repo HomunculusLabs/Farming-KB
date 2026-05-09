@@ -11,12 +11,12 @@ type: concept
 
 # Bamboo in Permaculture Systems
 
-Bamboo occupies a unique position in permaculture design as both
+Bamboo occupies a unique position in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] as both
 a structural material and a multi-functional plant element. Bill
 Mollison identifies bamboo throughout Permaculture: A Designers'
 Manual as one of the most versatile and underutilised resources
 in tropical and subtropical systems, serving roles in
-construction, erosion control, mulch production, and wind
+construction, [[permplant-willows-salix-erosion-control-fodder]], mulch production, and wind
 protection.
 
 ## Species and Mulch Production
@@ -45,7 +45,7 @@ Bamboo not only holds landslides, but for light structures
 provides an earthquake-proof mattress of roots.
 
 Trees are a danger on dam walls; if they fall they take part of
-the wall with them, but bamboos, ginger, sweet potato, pepino,
+the wall with them, but bamboos, ginger, [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]], pepino,
 and clump grasses assist bank stabilisation. Divisions of
 bamboo, banna grass, pampas grass, aloes, agave, and New
 Zealand hemp are all recommended for immediate planting on
@@ -54,7 +54,7 @@ unwanted volunteer plants.
 
 ## Hurricane and Wind Protection
 
-In hurricane areas, large bamboo groves placed to the windward
+In hurricane areas, large [[fukuoka-textdoc-bamboo-groves-wood-preserves-soil-fertility]] placed to the windward
 will bend to the wind without breaking, protecting the house.
 Screening plantings with bamboo groves are part of a
 comprehensive strategy for limiting hurricane damage, along
@@ -70,7 +70,7 @@ and house frames, furniture, and household mats or articles.
 Bamboo is regarded as a forest product for many farms, with
 multiple end uses. In some climates, many structures are formed
 of the natural environment, and will in time return to it:
-bamboo and rattan, wattle and daub, thatch, and
+bamboo and rattan, [[comparison-wattle-and-daub-vs-cob-construction]], thatch, and
 earth-covered or sheltered structures.
 
 Bamboo on borders provides trellis material for vine crop off
@@ -99,4 +99,7 @@ erosion and invasion by unwanted volunteer plants.
 ## See Also
 
 - [[mollison-hedgerow-barrier-species-selection]]
-- [[mollison-terracing-slope-management]]
+- mollison-terracing-slope-management
+- [[permaculture-design]]
+- [[mollison-tree-crop-systems-permaculture]]
+- [[mollison-goats-and-browsing-systems-in-permaculture]]

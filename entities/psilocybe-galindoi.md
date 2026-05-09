@@ -5,7 +5,7 @@ type: species
 tags: [psilocybin-mushroom, agaricales, strophariaceae, subtropical, mexico]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md]
+sources: sources: []
 ---
 
 # Psilocybe galindoi
@@ -23,19 +23,19 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 
 ## Cultural Significance
 
-- Part of the indigenous mushroom traditions of central Mexico
+- Part of the indigenous [[sacred-mushroom-traditions-in-mexico]] of central Mexico
 - The [[psilocybe-mexicana]] primarily by microscopic features including spore size and shape, and the morphology of pleurocystidia
 - The conic to campanulate cap shape and slender stipe are characteristic of the mexicana complex
 - More robust than [[psilocybe-cubensis]]
-- The bluing reaction on the stipe base is helpful for field identification
-- Microscopic examination is generally required for definitive identification
+- The [[field-guide-psilocybin-bluing-reaction-identification]] on the stipe base is helpful for field identification
+- [[fungal-microscopic-examination-mounting-media-techniques]] is generally required for definitive identification
 
 ## Sclerotia Production
 
 - Notable for its ability to form sclerotia, hardened masses of mycelium that serve as nutrient storage organs
 - Sclerotia form underground in the substrate and can survive adverse environmental conditions
 - In cultivation, sclerotia can be harvested without triggering fruitbody formation
-- The sclerotia of P. galindoi are among the most commercially cultivated psychoactive mushroom products in the Netherlands
+- The sclerotia of P. galindoi are among the most commercially cultivated psychoactive [[cotter-mushroom-products-and-value-added-applications]] in the Netherlands
 - Sclerotia typically require 8 to 12 weeks of colonization before harvest
 
 ## Ecology and Natural History
@@ -49,7 +49,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 ## Taxonomic Notes
 
 - The [[psilocybe-mexicana]] based on molecular data
-- The sclerotia producing ability varies within the complex and may not be a reliable taxonomic character
+- The [[psilocybe-sclerotia-producing-species-comparison-mexicana-tampanensis]] ability varies within the complex and may not be a reliable taxonomic character
 - Further phylogenetic studies using modern molecular techniques are needed to clarify species boundaries
 
 ## Similar Species
@@ -64,7 +64,7 @@ Named in honor of Teofilo Galindo, a Mexican scientist who contributed to the un
 ## Legal Status
 
 - Controlled in Mexico under federal law
-- Sclerotia were legally sold in the Netherlands until the 2008 ban on fresh psilocybin mushrooms; legal status of sclerotia since then has been contested
+- Sclerotia were legally sold in the Netherlands until the 2008 ban on fresh [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]; legal status of sclerotia since then has been contested
 - Classified as a controlled substance in most other jurisdictions
 ## Practical Considerations
 
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

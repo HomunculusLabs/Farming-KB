@@ -1,5 +1,5 @@
 ---
-title: Companion Planting Charts and Principles
+title: comparison-companion-planting-reference-vs-jadam-monoculture-critique Charts and Principles
 created: 2026-04-28
 tags:
   - hamilton-geoffhamilton-nick-organic-gardening-companion-planting
@@ -18,7 +18,7 @@ type: concept
 
 Companion planting is the practice of placing plant species in proximity for
 mutual benefit, drawing on observed and researched interactions between plants
-regarding nutrient exchange, pest deterrence, pollination support, and
+regarding [[arbuscule-isolation-and-nutrient-exchange-mechanisms]], pest deterrence, pollination support, and
 microclimate modification. Mollison treats companion planting as a simplified
 subset of the broader [[mollison-co-action-analysis-and-species-interaction-in-guild-design]] framework provides a structured method for evaluating interactions.
 
@@ -30,8 +30,8 @@ benefits between species:
 
 - **Legumes with non-legumes**: Beans or peas interplanted with corn,
    cereals, or leafy greens provide nitrogen through root exudation and
-   nodule decomposition. The [[mollison-comfrey-waste-recycling-soil-building]].
-- **Dynamic accumulator mulch**: Cutting accumulator plants and applying
+   nodule decomposition. The mollison-comfrey-waste-recycling-soil-building.
+- **[[nutrient-dynamic-accumulator-reference]] mulch**: Cutting accumulator plants and applying
    their leaves as mulch around nutrient-demanding crops transfers minerals
    directly. This is more reliable than relying on root exudate transfer alone.
 
@@ -49,16 +49,16 @@ Companion planting for pest control operates through several mechanisms:
 - **Insectary plants**: Species that attract predatory and parasitic insects.
   Umbelliferous flowers (dill, fennel, coriander, parsley, yarrow, Queen
   Anne's lace) attract ladybirds, lacewings, parasitic wasps, and syrphid
-   flies. These predators control aphids, caterpillars, and other pests across
+   flies. These predators [[query-how-do-i-identify-and-control-aphids-on-cannabis]], caterpillars, and other pests across
    the garden.
-- **Masking scent**: Strongly aromatic plants may mask the chemical signals
+- **Masking scent**: Strongly aromatic plants may mask the [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]
    that pests use to locate host plants. Onions interplanted with carrots
    (the classic combination) may deter carrot fly by masking carrot scent,
    though research results are inconsistent.
 - **Nurse plant protection**: Taller or more pest-resistant plants shelter
    vulnerable seedlings. Sunflowers shade lettuce; casuarinas shelter young
-   fruit trees from wind and sun. See [[mollison-microclimate-creation]].
-- **Wind protection**: Taller or denser plants shelter wind-sensitive species.
+   fruit trees from wind and sun. See mollison-microclimate-creation.
+- **[[cervantes-wind-protection-outdoor-cannabis]]**: Taller or denser plants shelter wind-sensitive species.
    Perennial hedges protect garden beds. See
    [[permaculture-polycultures]]
 ## Practical Considerations
@@ -79,4 +79,9 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[companion-planting]]
+- [[mollison-designers-companion-planting-science]]
+- [[root-exudates]]
+- [[decomposition]]
+- [[trap-cropping]]

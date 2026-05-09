@@ -1,5 +1,5 @@
 ---
-title: "Soil Rehabilitation Timeline and Orchard Cover Crop Management"
+title: "Soil fukuoka textdoc soil rehabilitation timeline orchard cover crop management and fukuoka-orchard-cover-crop-black-wattle-system Crop Management"
 created: 2026-04-28
 tags: [fukuoka, natural-farming, soil-management, cover-crops, ladino-clover, alfalfa, black-wattle, orchard, soil-building]
 date: 2026-04-28
@@ -22,7 +22,7 @@ biological activity without any chemical inputs.
 
 ## The Starting Point: Depleted Orchard Soil
 
-Fukuoka inherited a citrus orchard from his father and
+Fukuoka inherited a [[fukuoka-citrus-orchard-establishment-bare-hillside]] from his father and
 discovered that, despite its reputation as one of the best
 local orchards, it had not made a net profit over more than
 forty years of operation. The first thirteen years the
@@ -130,14 +130,16 @@ a minimum.
 Five to ten years are needed to build up six inches of topsoil
 through soil improvement by the cultivation of cover crops. To
 current economic perceptions, one disadvantage of natural
-farming methods is that they take too long. But if farmland
+[[natural-farming-methods-comparison]] is that they take too long. But if farmland
 were to be correctly understood as a legacy to be preserved for
-future generations, the general opinion of natural farming
+future generations, the general opinion of [[comparison-natural-farming-vs-permaculture]]
 would improve.
 ## See Also
+
+- [[fukuoka-textdoc-citrus-orchard-soil-rehabilitation-timeline]]
 
 - [[fukuoka-textdoc-ladino-clover-lifecycle-weed-succession]]
   for detailed clover lifecycle analysis
 - [[fukuoka-textdoc-clover-decline-and-weed-succession-orchard]]
-  for the weed succession process
+  for the [[fukuoka-textdoc-clover-decline-and-weed-succession-orchard]] process
 - [[fukuoka-natural-farming-philosophy]] for

@@ -1,5 +1,5 @@
 ---
-title: Cannabis and Schizophrenia Research
+title: Cannabis and cannabis schizophrenia research detailed
 created: 2026-04-18
 updated: 2026-04-19
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 # Cannabis and Schizophrenia Research
 
-**Source:** The Cannabis Health Index (Uwe Blesching, 2017)
+**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]] (Uwe Blesching, 2017)
 
 **Last Updated:** 2026-04-18
 
@@ -24,7 +24,7 @@ Schizophrenia is a severe mental disorder characterized by distortions in thinki
 
 ### Key Findings
 
-- **CBD as antipsychotic (2006, University of Cologne, Germany):** 42 acute schizophrenia patients in a double-blind, 4-week randomized clinical trial comparing CBD (800 mg/day) with the atypical antipsychotic amisulpride. CBD showed "no difference in clinical efficacy" but with "far fewer extrapyramidal symptoms, less weight gain, and lower prolactin increase." This landmark study established CBD as a potential antipsychotic.
+- **CBD as antipsychotic (2006, University of Cologne, Germany):** 42 acute schizophrenia patients in a double-blind, 4-week randomized [[psilocybin-clinical-trial-landscape-2020-2025]] comparing CBD (800 mg/day) with the atypical antipsychotic amisulpride. CBD showed "no difference in clinical efficacy" but with "far fewer extrapyramidal symptoms, less weight gain, and lower prolactin increase." This landmark study established CBD as a potential antipsychotic.
 
 - **Anandamide deficiency in schizophrenia (2000, Italy):** Significantly elevated levels of anandamide found in cerebrospinal fluid of acute schizophrenia patients, suggesting the body may be upregulating endogenous cannabinoids as a compensatory mechanism.
 
@@ -63,7 +63,7 @@ A significant limitation is the difficulty of studying CBD in a condition where 
 
 For schizophrenia, CBD-only preparations are strongly recommended. THC should be avoided entirely due to its potential to trigger or exacerbate psychotic symptoms. The clinical trial dose of 800 mg/day (Cologne study) is substantially higher than typical CBD wellness doses, reflecting the severity of the condition being treated.
 
-Lower CBD doses (200-400 mg/day) have shown benefit in some studies, and may be appropriate as adjunctive therapy alongside standard antipsychotics. Dosing should be initiated under psychiatric supervision with clear monitoring parameters for both therapeutic response and adverse effects.
+Lower CBD doses (200-400 mg/day) have shown benefit in some studies, and may be appropriate as adjunctive therapy alongside standard antipsychotics. Dosing should be initiated under psychiatric supervision with clear monitoring parameters for both therapeutic response and [[blesching-cannabis-safety-adverse-effects-evidence]].
 
 Oral administration (capsules, tinctures) provides the most reliable and consistent dosing for schizophrenia patients. Extended-release formulations may help maintain stable blood levels. Vaping and smoking are strongly discouraged due to the risk of inadvertently consuming THC-containing products and the potential for respiratory complications.
 

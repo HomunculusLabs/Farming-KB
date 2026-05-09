@@ -1,5 +1,5 @@
 ---
-title: "Chaga vs Reishi Medicinal Profile"
+title: "comparison chaga vs reishi medicinal Medicinal Profile"
 created: 2026-04-28
 tags:
   - medicinal-mushrooms
@@ -9,7 +9,8 @@ tags:
   - comparison
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -17,13 +18,13 @@ type: comparison
 
 ## Overview
 
-Chaga (*Inonotus obliquus*) and Reishi (*Ganoderma lucidum*) are two of the most revered medicinal fungi in global herbal traditions. Despite sharing broad immune-modulating and anti-inflammatory properties, they differ substantially in their biochemistry, mechanisms of action, ecological requirements, and historical use. Chaga is a wild-harvested sclerotium from boreal birch forests with direct tumoricidal potential, while Reishi is a widely cultivable bracket fungus that functions primarily as a biological response modifier. Understanding these distinctions is essential for selecting the right fungus for a given therapeutic goal.
+Chaga (*[[chaga-inonotus-obliquus-medicinal-profile]]*) and Reishi (*[[stamets-reishi-ganoderma-lucidum-cultivation]]*) are two of the most revered medicinal fungi in global herbal traditions. Despite sharing broad immune-modulating and anti-inflammatory properties, they differ substantially in their biochemistry, mechanisms of action, ecological requirements, and historical use. Chaga is a wild-harvested sclerotium from boreal birch forests with direct tumoricidal potential, while Reishi is a widely cultivable bracket fungus that functions primarily as a [[medicinal-mushrooms-biological-response-modifiers]] modifier. Understanding these distinctions is essential for selecting the right fungus for a given therapeutic goal.
 
 ### Shared Properties
 
 Both fungi share several overlapping therapeutic domains that make them foundational in integrative and functional medicine:
 
-- **Immune modulation**: Each stimulates immune function, though through different mechanisms and cell targets.
+- **[[cancer-immune-modulation-mechanisms]]**: Each stimulates immune function, though through different mechanisms and cell targets.
 - **Anti-inflammatory activity**: Both reduce pro-inflammatory cytokines and modulate inflammatory pathways.
 - **Adaptogenic qualities**: Each helps the body manage physiological stress and maintain homeostasis.
 - **Long historical use**: Both have centuries of documented traditional use spanning different cultures and continents.
@@ -60,7 +61,7 @@ Unlike Chaga, Reishi is a cosmopolitan saprophyte that grows on a wide range of 
 | Species | *Inonotus obliquus* | *Ganoderma lucidum* |
 | Growth form | Sclerotium (sterile mass) | Fruiting body (bracket fungus) |
 | Substrate | Living birch trees only | Wide range of hardwoods |
-| Habitat | Boreal forests | Cosmopolitan |
+| Habitat | [[fungal-diversity-boreal-forests-taiga]] | Cosmopolitan |
 | Cultivation | Must be wild-harvested | Easily cultivated |
 | Primary actives | Betulin, lanostanes | Ganoderic acids, beta-glucans |
 | Anticancer mechanism | Direct tumoricidal activity | Biological response modifier |

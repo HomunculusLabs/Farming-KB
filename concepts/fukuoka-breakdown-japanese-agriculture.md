@@ -5,7 +5,8 @@ updated: 2026-04-21
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # The Breakdown of Japanese Agriculture
@@ -52,9 +53,9 @@ In losing this knowledge, farmers lost not just a skill set but an entire way of
 
 No country has experienced such a sudden and dramatic transformation as Japan following World War II. The country rose rapidly from the ruins of war to become a major economic power. As this was going on, its farming and fishing populations -- the seedbed of the Japanese people -- fell from fifty percent of the overall population at the end of the war to less than twenty percent today.
 
-The first step was the arrival of the motorized transport-tiller in the farming village, a major turning point in Japanese agriculture. With this wave of change from labor-intensive to capital-intensive farming came the replacement of the horse-drawn plow with tillers, and later, tractors. Methods of pesticide and fertilizer application underwent major revisions, with motorized hand sprayers being abandoned in favor of helicopter spraying.
+The first step was the arrival of the motorized transport-tiller in the farming village, a major turning point in Japanese agriculture. With this wave of change from labor-intensive to capital-intensive farming came the replacement of the horse-drawn plow with tillers, and later, tractors. Methods of pesticide and [[cervantes-fertilizer-application-strain-feeding]] underwent major revisions, with motorized hand sprayers being abandoned in favor of helicopter spraying.
 
-The rapid mechanization of agriculture lit the fires for the revival and precipitous growth of the machine industry, while the adoption of pesticides, chemical fertilizers, and petroleum-based farming materials laid the foundation for development of the chemical industry.
+The rapid mechanization of agriculture lit the fires for the revival and precipitous growth of the machine industry, while the adoption of pesticides, [[cervantes-chemical-fertilizers-guide]], and petroleum-based farming materials laid the foundation for development of the chemical industry.
 
 The transformation was not merely technological but economic and psychological. Farmers who had once been self-sufficient producers became consumers of manufactured inputs -- seeds, fertilizers, pesticides, machinery, and fuel.
 
@@ -68,7 +69,7 @@ This paradox is at the heart of Fukuoka's critique: every labor-saving device in
 
 ## The Ecological Cost
 
-Beyond the economic and cultural losses, the breakdown of Japanese agriculture has carried enormous ecological consequences. Soil that was maintained for generations through careful management of organic matter has been compacted, chemically degraded, and stripped of its biological diversity.
+Beyond the economic and cultural losses, the breakdown of Japanese agriculture has carried enormous ecological consequences. Soil that was maintained for generations through careful management of [[hamilton-composting-and-organic-matter-management]] has been compacted, chemically degraded, and stripped of its biological diversity.
 
 Rivers that once ran clear from mountain forests now carry sediment and agricultural runoff. The insect populations that once pollinated crops and controlled pests naturally have been decimated by broad-spectrum pesticides.
 
@@ -84,13 +85,13 @@ Fukuoka's vision of [[fukuoka-japan-postwar-agriculture]] | [[fukuoka-natural-fa
 
 ## Key Points
 
-1. Central to Fukuoka Breakdown Japanese Agriculture is the idea that nature already possesses perfect wisdom and human intervention often disrupts natural balance.
+1. Central to Fukuoka fukuoka breakdown japanese agriculture Agriculture is the idea that nature already possesses perfect wisdom and human intervention often disrupts natural balance.
 2. Fukuoka's approach emphasizes observation over action — understanding natural patterns before making any changes to the landscape.
 3. The principle of 'doing nothing' (mu) means eliminating unnecessary human labor, not abandoning the land entirely.
-4. Natural farming seeks to create conditions where crops, weeds, insects, and microorganisms coexist in a self-regulating ecosystem.
+4. [[comparison-natural-farming-vs-permaculture]] seeks to create conditions where crops, weeds, insects, and microorganisms coexist in a self-regulating ecosystem.
 5. Soil health is the foundation — building rich, living soil through natural mulching and decomposition rather than imported fertilizers.
 6. Seed balls (tsuchi dango) allow natural dispersal and germination without tilling or transplanting.
-7. The interplay between ground cover plants, crops, and trees creates a multi-layered productive system.
+7. The interplay between [[fukuoka-citrus-orchard-ground-cover-cultivation]] plants, crops, and trees creates a multi-layered productive system.
 8. Success in natural farming comes from long-term patience and trust in ecological processes rather than quick technological fixes.
 9. Fukuoka demonstrated that yields comparable to or exceeding conventional methods are achievable through natural farming practices.
 10. The philosophy extends beyond agriculture to encompass a broader relationship between humans and the natural world.

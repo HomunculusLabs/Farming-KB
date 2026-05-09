@@ -1,5 +1,5 @@
 ---
-title: Backyard and Small-Scale Cannabis Cultivation
+title: Backyard and Small-Scale query-how-does-no-till-cannabis-cultivation-work
 created: 2026-04-28
 tags:
   - backyard-growing
@@ -9,13 +9,14 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 synonyms:
   - home cannabis garden
   - backyard marijuana
   - small garden cannabis
-  - vegetable garden cannabis
-  - residential cannabis growing
+  - [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] cannabis
+  - residential [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]]
 type: concept
 ---
 
@@ -24,7 +25,7 @@ type: concept
 For growers fortunate enough to live in countries or regions that tolerate
 cannabis, backyard cultivation offers the opportunity to give plants the
 tender loving care they deserve. Cervantes describes the advantages and
-techniques for integrating cannabis into existing home garden setups.
+techniques for integrating cannabis into existing [[cool-climate-home-garden-mollison]] setups.
 
 ## Advantages of Backyard Growing
 
@@ -49,7 +50,7 @@ Prepare soil in the fall for spring planting:
 - Always put a heavy layer of mulch on any soil that will be planted
 - A 12-inch-plus layer of mulch retains moisture and suppresses weeds
 
-Fall soil preparation allows amendments to break down and integrate
+Fall soil preparation allows amendments to [[query-can-fungi-break-down-plastic-pollution]] and integrate
 during winter months, creating optimal growing conditions by spring.
 
 ## Garden Integration
@@ -57,7 +58,7 @@ during winter months, creating optimal growing conditions by spring.
 Cannabis can be integrated into existing gardens alongside vegetables,
 flowers, and herbs. When planted among other garden plants:
 
-- Cannabis benefits from the biodiversity of a healthy garden ecosystem
+- Cannabis benefits from the biodiversity of a [[query-how-to-build-healthy-garden-soil]] ecosystem
 - Companion plants can deter pests (see
   [[cervantes-season-extension-cloches-row-covers]] protect from early and
   late frost
@@ -87,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

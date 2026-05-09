@@ -1,5 +1,5 @@
 ---
-title: Soursop vs Cherimoya — Cultivation Comparison
+title: comparison soursop vs cherimoya cultivation — Cultivation Comparison
 tags:
   - soursop
   - cherimoya
@@ -28,7 +28,7 @@ Both soursop (*Annona muricata*) and cherimoya (*Annona cherimola*) belong to th
 
 | Feature | Soursop (*A. muricata*) | Cherimoya (*A. cherimola*) |
 |---------|-------------------------|---------------------------|
-| **Native range** | Caribbean, Central America, northern South America | Andean valleys of Ecuador, Peru, Colombia, Bolivia |
+| **Native range** | Caribbean, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], northern South America | Andean valleys of Ecuador, Peru, Colombia, Bolivia |
 | **Common names** | Guanábana, graviola, guyabano, pawpaw soursop | Cherimoya, chirimoya, custard apple, ice cream fruit |
 | **Growth habit** | Semi-evergreen to evergreen small tree, 5–10 m | Deciduous small tree, 5–9 m |
 | **Fruit size** | 10–30 cm long, 1–4 kg | 10–20 cm, 0.3–1.5 kg |
@@ -48,7 +48,7 @@ This is the single most important differentiator between the two species:
 
 **Cherimoya** is a cool-loving subtropical species adapted to the misty highland valleys of the Andes at 1,500–2,000 m elevation. Optimal temperatures are 15–25°C. It requires cool nights (below 15°C) for proper fruit set but cannot tolerate hard freezes. Prolonged temperatures above 30°C, especially during flowering, cause flower drop, poor pollination, and misshapen fruit. This makes it poorly suited to true tropical lowlands.
 
-**Climate zone summary:**
+**[[holzer-climate-zone-microclimate-creation]] summary:**
 - Hot tropical lowlands → **Soursop** (cherimoya will fail)
 - Mediterranean/subtropical with cool nights → **Cherimoya** (soursop may struggle with cool winters)
 - Warm temperate with mild frost → **Cherimoya only** (with protection)
@@ -62,10 +62,10 @@ Both species prefer well-drained, slightly acidic to neutral soils but differ in
 |-------------|---------|-----------|
 | **pH** | 5.5–6.5 optimal; tolerates 5.0–7.5 | 6.0–7.0 optimal; more sensitive to acidity |
 | **Texture** | Sandy loam to clay loam; tolerates heavier soils | Deep, well-drained loam preferred; sensitive to waterlogging |
-| **Drainage** | Moderate to good; tolerates periodic waterlogging | Must be excellent; root rot is a major cause of death |
-| **Fertility** | Moderate; responds to organic matter | Moderate to high; heavier feeder than soursop |
+| **Drainage** | Moderate to good; tolerates periodic waterlogging | Must be excellent; [[cannabis-root-rot-prevention-and-treatment]] is a major cause of death |
+| **Fertility** | Moderate; responds to [[hamilton-composting-and-organic-matter-management]] | Moderate to high; heavier feeder than soursop |
 | **Salinity** | Low tolerance | Very low tolerance |
-Both species develop relatively shallow root systems compared to many fruit trees. [[drip-irrigation-cannabis]] is strongly recommended. Avoid waterlogging at all costs.
+Both species develop relatively shallow root systems compared to many [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]. [[drip-irrigation-cannabis]] is strongly recommended. Avoid waterlogging at all costs.
 
 ## Pests and Diseases
 

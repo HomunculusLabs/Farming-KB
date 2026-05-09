@@ -1,5 +1,5 @@
 ---
-title: How to Process Acorns for Food
+title: How to query how to process acorns for food for Food
 tags:
   - acorns
   - oak
@@ -20,7 +20,7 @@ created: 2026-05-03
 
 ## Overview
 
-Acorns — the nuts of oak trees (*Quercus* spp.) — were a staple food for indigenous peoples across North America, Europe, and Asia for thousands of years. They are nutritious, abundant, and widely available, yet they require processing to remove bitter tannins before consumption. With proper leaching, acorns yield a versatile, nutty flour that can be used in breads, porridges, pancakes, and more.
+Acorns — the nuts of oak trees (*Quercus* spp.) — were a staple food for indigenous peoples across [[psilocybin-north-america-pacific-northwest]], Europe, and Asia for thousands of years. They are nutritious, abundant, and widely available, yet they require processing to remove bitter tannins before consumption. With proper leaching, acorns yield a versatile, nutty flour that can be used in breads, porridges, pancakes, and more.
 
 ## Are All Acorns Edible?
 
@@ -106,7 +106,7 @@ Acorns are highly nutritious — they were not merely a survival food but a genu
 | **Potassium** | 500–700 mg |
 | **Vitamin B6** | 0.5–0.8 mg |
 
-Acorns are rich in complex carbohydrates, healthy unsaturated fats, and minerals. White oak acorns tend to be higher in carbohydrates; red oak acorns are higher in fats and protein. The fat content is predominantly monounsaturated (oleic acid) and polyunsaturated (linoleic acid) — similar to olive oil's fatty acid profile.
+Acorns are rich in complex carbohydrates, healthy unsaturated fats, and minerals. White oak acorns tend to be higher in carbohydrates; red oak acorns are higher in fats and protein. The fat content is predominantly monounsaturated (oleic acid) and polyunsaturated (linoleic acid) — similar to [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]]'s fatty acid profile.
 
 ## Troubleshooting
 
@@ -128,14 +128,15 @@ Acorns are rich in complex carbohydrates, healthy unsaturated fats, and minerals
 
 ## Preservation and Storage
 
-| Method | Shelf Life | Notes |
+| Method | [[psilocybin-shelf-life-stability]] | Notes |
 |--------|-----------|-------|
 | **Dried flour, room temp** | 6–12 months | Airtight container, cool and dark |
 | **Dried flour, frozen** | 1–2 years | Best long-term storage |
 | **Leached whole acorn meats, frozen** | 6–12 months | Freeze in portion bags |
-| **Canned acorn mush** | 1+ year | Pressure canning required (low acid) |
+| **Canned acorn mush** | 1+ year | [[comparison-pressure-canning-vs-water-bath-canning]] required (low acid) |
 | **Dried, unprocessed shelled acorns** | 6 months | Process before they become rancid |
 ## Related Topics
 
-- [[food-forest-layers-and-species|Forest Gardening and Food Forests]]
-- [[query-how-to-grow-and-use-stinging-nettle|Stinging Nettle Foraging and Nutrition]]
+- [[food-forest-layers-and-species]]
+- [[query-how-to-grow-and-use-stinging-nettle]]
+- [[permaculture-oak-acorn-processing]]

@@ -20,9 +20,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - von Rudloff E (1975). "Volatile leaf oil analysis in chemosystematic studies of North American conifers." Biochemical Systematics and Ecology, 2(3), 131-144.
+  - von Rudloff E (1975). "Volatile leaf oil analysis in chemosystematic studies of growing-gourmet-north-american-reishi-species conifers." Biochemical Systematics and Ecology, 2(3), 131-144.
   - O'Neil J et al. (2002). "Thuja occidentalis." The Review of Natural Products, Facts & Comparisons.
-  - Foster S, Hobbs C (1999). "A Field Guide to Western Medicinal Plants and Herbs." Houghton Mifflin.
+  - Foster S, Hobbs C (1999). "A [[ghouled-field-guide-historical-context]] to Western Medicinal Plants and Herbs." Houghton Mifflin.
   - https://pfaf.org/user/Plant.aspx?LatinName=Thuja+occidentalis
   - https://www.ncbi.nlm.nih.gov/books/NBK537047/
 ---
@@ -33,11 +33,11 @@ sources:
 
 **Thuja occidentalis**, northern white cedar or arborvitae ("tree of life"), is an evergreen
 coniferous tree in the family Cupressaceae, native to eastern Canada and the northeastern
-and north-central United States. It typically grows 12–20 m tall with a conical to columnar
+and north-central [[dmt-containing-plants-united-states-halpern]]. It typically grows 12–20 m tall with a conical to columnar
 crown and can live 400–800+ years in favorable conditions.
 
-The species holds profound cultural significance among Indigenous peoples of northeastern
-North America, who used it as medicine, building material, and ceremonial incense. In Western
+The species holds profound [[ethnomycology-cultural-significance-sacred-fungi]] among Indigenous peoples of northeastern
+North America, who used it as medicine, [[fungal-building-material-deterioration]], and ceremonial incense. In Western
 herbalism, *Thuja* preparations are valued for antiviral, immunostimulant, and topical
 applications. In [[sabinene]], terpinene-4-ol, bornyl acetate:** Minor constituents with synergistic effects.
 - **Flavonoids:** [[kaempferol]], and myricetin derivatives (antioxidant).
@@ -59,7 +59,7 @@ emergency food.
 - **Respiratory:** Steam inhalation or tea for bronchitis, sinusitis, and dry cough.
 - **Lymphatic:** Lymphatic decongestant for chronic congestion, tonsillitis, and adenoid
   hypertrophy in European phytotherapy.
-- **Antifungal:** Essential oil active against *C. albicans*, *Trichophyton* spp., and
+- **Antifungal:** [[permaculture-designers-manual-essential-oil-plants]] active against *C. albicans*, *Trichophyton* spp., and
   dermatophytes.
 
 **Safety:** Internal use of thujone-rich essential oil contraindicated in pregnancy, epilepsy,
@@ -89,6 +89,8 @@ ethanol) at 1–3 mL/day are considered safe; the oil itself should not be taken
 - **'Tiny Tim':** Dwarf globe form, 60–90 cm at maturity; rock garden specimen.
 
 ## See Also
+
+- [[thuja-standishii]]
 
 - [[dom]]
 - [[food-forest]]

@@ -22,8 +22,8 @@ sources:
 
 *Gomphus clavatus* is an edible ectomycorrhizal fungus in the family
 Gomphaceae, recognized by its distinctive vase-shaped to club-shaped
-fruiting body with wrinkled, pale buff to pinkish-orange hymenium.
-Once widespread across temperate North American and European coniferous
+[[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] with wrinkled, pale buff to pinkish-orange hymenium.
+Once widespread across temperate [[growing-gourmet-north-american-reishi-species]] and European coniferous
 forests, it has experienced significant population decline and is now
 considered rare or threatened throughout much of its historical range.
 
@@ -63,7 +63,7 @@ Surface smooth to finely fibrillose, whitish to pale pink.
 **Flesh:** Firm and whitish, with a mild to slightly fruity odor.
 Taste mild, not distinctive.
 
-**Spore Print:** Pale yellowish to ochre.
+**[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Pale yellowish to ochre.
 
 **Spores:** Ellipsoid, smooth, 8–11 × 4–5.5 µm, inamyloid,
 non-dextrinoid.
@@ -90,7 +90,7 @@ in montane and subalpine forests.
 coniferous trees, forming mutualistic root associations with
 *Picea*, *Abies*, and *Tsuga* species.
 
-The fungus facilitates nutrient exchange, particularly phosphorus
+The fungus facilitates [[arbuscule-isolation-and-nutrient-exchange-mechanisms]], particularly phosphorus
 uptake for host trees in exchange for photosynthetic carbon.
 Its decline has been correlated with habitat loss from logging of
 old-growth coniferous forests.
@@ -127,4 +127,4 @@ identification is essential.
 
 - [[craterellus-tubaeformis]] — Yellowfoot chanterelle, related Gomphales species
 - [[hydnum-repandum]] — Hedgehog mushroom, toothed hymenium alternative
-- [[trametes-versicolor-entity]] — Turkey tail, a contrasting polypore from similar habitats
+- [[trametes-versicolor-entity]] — [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]], a contrasting polypore from similar habitats

@@ -1,5 +1,5 @@
 ---
-title: Juncao Grass Substrate Technique for Mushroom Cultivation
+title: Juncao Grass Substrate Technique for accessible-mushroom-cultivation-for-disabilities
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -9,13 +9,13 @@ sources:
 ---
 # Juncao Grass Substrate Technique
 
-**Juncao** (菌草) is a revolutionary approach to mushroom substrate preparation that replaces traditional wood-based materials with fast-growing herbaceous plants. The name comes from Chinese: **Jun** (菌) means "fungi" and **Cao** (草) means "grass."
+**Juncao** (菌草) is a revolutionary approach to mushroom [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] that replaces traditional wood-based materials with fast-growing herbaceous plants. The name comes from Chinese: **Jun** (菌) means "fungi" and **Cao** (草) means "grass."
 
 ## Origin and Development
 
 Juncao techniques were invented in **China in 1983** by **Professor Zhanxi Lin**, director of the Fujian Agriculture & Forestry University and the JUNCAO Research Institute. The technology was developed to address a critical problem: the over-exploitation of broad-leaf trees for mushroom production in major growing countries like Japan and China.
 
-Before Juncao, many species of edible and medicinal fungi — including shiitake (*Lentinula edodes*) and wood ear (*Auricularia* spp.) — were primarily cultivated on sawdust or logs. The rapid expansion of mushroom production resulted in severe shortages of raw substrate materials and ecological damage from deforestation.
+Before Juncao, many species of edible and medicinal fungi — including shiitake (*[[staycare-lentinula-edodes-in-bioremediation]]*) and wood ear (*Auricularia* spp.) — were primarily cultivated on sawdust or logs. The rapid expansion of mushroom production resulted in severe shortages of raw [[growing-gourmet-substrate-materials-wood-types]] and ecological damage from deforestation.
 
 ## Definition
 
@@ -67,7 +67,7 @@ By 2003, **45 species of fungi** had been successfully cultivated using Juncao s
 - **Oyster mushrooms** (*Pleurotus* spp.) — particularly well-suited due to their wide adaptability
 - **Shiitake** (*Lentinula edodes*)
 - **Wood ear** (*Auricularia* spp.)
-- **Button mushroom** (*Agaricus bisporus*)
+- **Button mushroom** (*[[genetic-improvement-agaricus-bisporus-molecular-approaches]]*)
 - **Straw mushroom** (*Volvariella volvacea*)
 - **Many medicinal fungi**
 
@@ -88,7 +88,7 @@ The invention of Juncao techniques represents a paradigm shift in mushroom culti
 - **Utilizes marginal lands** — many Juncao species grow on degraded or marginal soils
 - **Controls invasive plants** — species like water hyacinth can be harvested for substrate
 - **Carbon sequestration** — fast-growing grasses capture atmospheric CO2
-- **Circular economy** — spent Juncao substrate can be recycled as animal feed or fertilizer
+- **[[zeri-circular-economy-systems]]** — spent Juncao substrate can be recycled as animal feed or fertilizer
 
 ## Research and Institutional Support
 
@@ -97,6 +97,9 @@ The **JUNCAO Research Institute** was established at Fujian Agriculture & Forest
 ## Related Topics
 
 - [[mushroom-substrates]] — comprehensive guide to mushroom substrate materials
-- [[edible-wild-mushroom-guide]]
+- edible-wild-mushroom-guide
 - [[medicinal-mushroom-guide-shiitake]]
-- [[fungal-carbon-substrate-utilization-efficiency]]
+- fungal-carbon-substrate-utilization-efficiency
+- [[agaricus-bisporus]]
+- [[oyster-mushroom]]
+- [[mushroom-substrate-preparation]]

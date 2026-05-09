@@ -5,7 +5,8 @@ tags: [cannabis, plant-support, trellis, training, flowering]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -82,7 +83,7 @@ especially useful for large, bushy plants with many flowering sites.
 ## Support Timing
 
 Cervantes advises installing support structures early in the
-flowering phase, before buds become heavy. Waiting too long means
+[[green-cannabis-grow-bible-flowering-phase-and-harvest]], before buds become heavy. Waiting too long means
 trying to prop up branches that have already bent, which can cause
 additional stress or breakage. Support should be adjusted as plants
 grow -- trellis netting can be raised in layers, and stakes can be
@@ -90,8 +91,8 @@ extended as needed.
 
 ## Integrating Support with Training
 
-Plant support works synergistically with training techniques.
-SCROG (Screen of Green) inherently provides support as plants grow
+Plant support works synergistically with [[cannabis-training-techniques-comparison]].
+SCROG ([[cannabis-screen-of-green-scrog-guide]]) inherently provides support as plants grow
 through the screen. In supercropping, bent branches may need stakes
 to hold their new position while the knuckle heals. Low-stress
 training with tie-downs often requires a trellis or net to create

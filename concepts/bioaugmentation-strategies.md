@@ -8,17 +8,17 @@ sources: [/Users/t3rpz/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal
 ---
 # Bioaugmentation Strategies
 
-Bioaugmentation is a bioremediation strategy that involves the controlled addition of specific microorganisms to contaminated environments to enhance the degradation, transformation, or immobilization of pollutants. The introduced organisms augment (supplement) the metabolic capabilities of the indigenous microbial community, providing catabolic pathways or enzymatic activities that may be absent or insufficient in the native population.
+Bioaugmentation is a bioremediation strategy that involves the controlled addition of specific microorganisms to contaminated environments to enhance the degradation, transformation, or immobilization of pollutants. The introduced organisms augment (supplement) the metabolic capabilities of the indigenous [[edaphic-factors-microbial-community-structure]], providing catabolic pathways or enzymatic activities that may be absent or insufficient in the native population.
 
-Bioaugmentation differs from [[fungal-bioaugmentation-inoculation]] for more on formulation and delivery of fungal inocula for bioaugmentation.
+Bioaugmentation differs from [[fungal-bioaugmentation-inoculation]] for more on formulation and [[formulation-and-delivery-of-fungal-inocula]] inocula for bioaugmentation.
 
 ## Ex Situ Bioaugmentation
 
 Many of the challenges of in situ bioaugmentation can be overcome by using ex situ (off-site) treatment systems where environmental conditions are controlled. Bioreactors, biofilters, bioslurry reactors, and composting systems provide controlled environments where introduced organisms can function under optimal conditions.
 
-Compost bioreactors are among the most promising ex situ systems for hazardous soil treatment. Composting stimulates the growth of diverse consortia of bacteria and fungi through the addition of organic amendments. The composting environment provides elevated temperatures (40 to 65 degrees Celsius), adequate moisture, and nutrient-rich conditions that support vigorous microbial activity.
+Compost bioreactors are among the most promising ex situ systems for hazardous soil treatment. Composting stimulates the growth of diverse consortia of bacteria and fungi through the addition of [[cervantes-organic-amendments-chart]]. The composting environment provides elevated temperatures (40 to 65 degrees Celsius), adequate moisture, and nutrient-rich conditions that support vigorous microbial activity.
 
-The white-rot fungus Phanerochaete chrysosporium removed approximately 45% of initial benzo[a]pyrene in a compost bioreactor system. When compost bioaugmentation was combined with fungal inoculation, removal efficiencies reached 62.8% for fungal-amended and 65.6% for unamended systems, with bound residue formation being the primary removal mechanism.
+The white-rot fungus [[staycare-phanerochaete-chrysosporium-in-bioremediation]] removed approximately 45% of initial benzo[a]pyrene in a compost bioreactor system. When compost bioaugmentation was combined with fungal inoculation, removal efficiencies reached 62.8% for fungal-amended and 65.6% for unamended systems, with [[fungal-bound-residue-formation]] formation being the primary removal mechanism.
 
 ## Monitoring and Evaluation
 
@@ -30,7 +30,7 @@ Bioaugmentation should be considered when site characterization indicates that i
 
 - [[fungal-bioaugmentation-inoculation]] — fungal inoculation for bioaugmentation
 - [[mycoremediation]] — comparison of remediation organisms
-- [[fungal-enzyme-systems-in-bioremediation]] — enzyme-based remediation
+- fungal-enzyme-systems-in-bioremediation — enzyme-based remediation
 - [[constructed-wetlands-wastewater-treatment]]
 - [[chlorinated-solvent-bioremediation]]
 - [[petroleum-hydrocarbon-bioremediation]]
@@ -111,4 +111,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

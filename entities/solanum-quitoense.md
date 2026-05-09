@@ -14,7 +14,7 @@ sources:
   - Bohs, L. (2007). "Phylogeny of the Solanum section Lasiocarpa." Systematic Botany, 32(2), 361-374.
   - National Research Council (1989). "Lost Crops of the Incas." National Academies Press, Washington, D.C.
   - Angulo, R. et al. (2007). "Postharvest behavior of naranjilla fruits." Postharvest Biology and Technology, 45(1), 20-27.
-  - France's, A. et al. (2014). "Pest management in Solanum quitoense cultivation." Crop Protection, 65, 30-38.
+  - France's, A. et al. (2014). "[[cannabis-pest-management-guide]] in Solanum quitoense cultivation." Crop Protection, 65, 30-38.
 ---
 
 ## Overview
@@ -111,18 +111,18 @@ jam-making. The acidity (pH 3.0–3.5) limits microbial spoilage naturally.
 ## Pests and Diseases
 
 The species is highly susceptible to root-knot nematodes (*Meloidogyne* spp.),
-which are the primary production constraint. Infested plants show stunted
+which are the [[lichens-primary-production-soil-formation-dighton]] constraint. Infested plants show stunted
 growth, yellowing, and root galling that can kill the plant within months.
 
-Major insect pests include the naranjilla fruit fly (*Neosilba pendula*),
+Major insect pests include the naranjilla [[fukuoka-australia-fruit-fly-incident]] (*Neosilba pendula*),
 aphids (*Myzus persicae*), and whiteflies (*Trialeurodes vaporariorum*). The
 pubescent leaves provide some protection against leaf-chewing insects.
 
 Fungal diseases include anthracnose (*Colletotrichum gloeosporioides*) causing
-fruit rot, and powdery mildew (*Oidium* spp.) on leaves. Botrytis gray mold
+fruit rot, and [[cervantes-powdery-mildew-prevention-treatment]] (*Oidium* spp.) on leaves. Botrytis gray mold
 affects fruit in cool, humid conditions.
 
-Integrated pest management relies on resistant rootstocks, crop rotation,
+[[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management relies on resistant rootstocks, [[comparison-crop-rotation-vs-cover-cropping]],
 nematicides, and biological controls. Grafting onto nematode-resistant
 *Solanum torvum* rootstock has shown promise in extending plant lifespan.
 
@@ -132,4 +132,4 @@ nematicides, and biological controls. Grafting onto nematode-resistant
 - [[physalis-peruviana]]
 - [[mangifera-indica]]
 - ananas
-- [[punica-granatum]]
+- punica-granatum

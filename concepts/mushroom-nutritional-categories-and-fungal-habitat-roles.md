@@ -1,5 +1,5 @@
 ---
-title: Mushroom Nutritional Categories and Fungal Habitat Roles
+title: Mushroom mushroom nutritional categories and fungal habitat roles and Fungal Habitat Roles
 tags:
   - mycology
   - fungal-ecology
@@ -23,7 +23,7 @@ Fungi occupy virtually every ecological niche on Earth, and their nutritional st
 define how they interact with the living and nonliving world. Paul Stamets, in *Mycelium
 Running*, organizes mushrooms into four broad nutritional categories based on how they
 obtain carbon and energy: **saprophytic**, **parasitic**, **mycorrhizal**, and
-**endophytic**. Each plays a distinct role in habitat dynamics, nutrient cycling, and
+**endophytic**. Each plays a distinct role in habitat dynamics, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and
 plant community health.
 
 ## The Four Categories of Mushrooms
@@ -40,7 +40,7 @@ Saprophytic decomposers are further subdivided into three successional stages:
 
 **Primary decomposers** are the first fungi to colonize fresh organic material,
 specializing in relatively intact plant tissues including cellulose and lignin.
-Examples include the [[shiitake-cultivation-guide|shiitake]] (*Lentinula edodes*), and [[agaricus-bisporus|Agaricus bisporus]] (the common button
+Examples include the [[shiitake-cultivation-guide|shiitake]] (*[[staycare-lentinula-edodes-in-bioremediation]]*), and [[agaricus-bisporus|Agaricus bisporus]] (the common button
 mushroom) and [[armillaria-mellea-entity|Armillaria]]
 (honey mushroom), which can kill trees, the line between parasitism and saprophytism is
 often blurred. Many parasitic fungi continue decomposing their host after death,
@@ -58,7 +58,7 @@ individual plants into shared nutrient networks sometimes called the
 [[tricholoma-matsutake|matsutake]], and [[mycorrhizal-networks-common-mycelial-network|mycorrhizal network]]. When Douglas fir seedlings were
 experimentally shaded, Simard found that carbon was transferred from the sun-exposed
 paper birch to the shaded Douglas fir through the shared fungal network. This revealed
-that mycorrhizal networks serve as conduits for resource redistribution across species
+that [[dighton-mycorrhizal-networks-carbon-transfer]] serve as conduits for resource redistribution across species
 boundaries. Mother trees may use these networks to support their own seedlings in the
 understory, reshaping our understanding of forest competition and cooperation.
 
@@ -74,10 +74,10 @@ and [[plant-defense-mechanisms|plant defense]] stimulation. Its broad host range
 promising candidate for sustainable agriculture.
 
 **Cumilara sp.** is an endophytic fungus isolated from the geothermal zones of Yellowstone
-National Park that confers remarkable heat and drought tolerance to its host plants,
+National Park that confers remarkable heat and [[dighton-fungal-drought-tolerance-plant-water-relations]] to its host plants,
 enabling survival under normally lethal conditions. Organisms from extreme environments
 represent an untapped reservoir of stress-conferring endophytes with potential
-applications in climate adaptation.
+applications in [[jeavons-climate-adaptation-growing-seasons]].
 
 **Fomes fomentarius**, commonly known as the tinder polypore, is best
 known as a shelf fungus growing on dead or dying hardwoods, but can also operate as an

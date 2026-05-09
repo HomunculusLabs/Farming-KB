@@ -1,16 +1,16 @@
 ---
-title: Fukuoka's Soil Microbiome and Natural Balance
+title: Fukuoka's Soil fukuoka soil microbiome and natural balance Balance
 source: administrator-microsoft-word-fukuoka-textdoc.md
-topics: soil ecology, microorganisms, pest management, ecosystem balance
+topics: soil ecology, microorganisms, [[cannabis-pest-management-guide]], ecosystem balance
 ---
 # Fukuoka's Soil Microbiome and Natural Balance
 
 [[natural-farming]] rests on a profound understanding of
 soil ecology that anticipated modern microbiome science by decades. His
-observations about the role of microorganisms, natural pest balance, and
+observations about the role of microorganisms, [[cho-natural-pest-control-methods]] balance, and
 the interconnectedness of [[mycorrhizal-networks]], the role
-of soil bacterial communities in plant health, and the importance of
-biodiversity for natural pest control have all validated his core
+of soil [[cultivar-endorhiza-bacterial-communities-cannabis]] in plant health, and the importance of
+biodiversity for natural [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] have all validated his core
 insights. His work demonstrates that careful, patient observation of
 natural systems can yield understanding that formal scientific
 methodology, when applied reductively, may miss entirely.
@@ -95,4 +95,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

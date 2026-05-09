@@ -1,5 +1,5 @@
 ---
-title: Neurotropic Fungi of Japan and East Asia Species and Cultural Context
+title: challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification of Japan and East Asia Species and Cultural Context
 created: 2026-04-28
 tags:
   - mycology
@@ -21,9 +21,9 @@ type: concept
 
 # Neurotropic Fungi of Japan and East Asia Species and Cultural Context
 Japan and East Asia represent a significant yet often overlooked center
-of neurotropic fungal diversity. The region's complex topography, ranging
+of [[mexico-center-neurotropic-fungal-biodiversity]]. The region's complex topography, ranging
 from subtropical islands to subarctic mountains, creates numerous ecological
-niches for psychoactive fungi. Japan in particular has a remarkably rich
+niches for [[cattle-dispersal-psychoactive-fungi-australia]]. Japan in particular has a remarkably rich
 neurotropic mycoflora that spans multiple genera.
 
 ## Japan's Neurotropic Fungi Diversity
@@ -49,7 +49,7 @@ Asia:
 
 ### Himalaya and Tibet
 
-- **Amanita muscaria**: Wasson (1968), Singer (1978) from the Himalaya.
+- **[[allegro-amanita-muscaria-properties-and-pharmacology]]**: Wasson (1968), Singer (1978) from the Himalaya.
 - **Amanita muscaria**: Heim (1978) from Tibet.
 
 The Himalayan A. muscaria is particularly significant in the context of
@@ -61,13 +61,13 @@ identity of the sacred Soma plant described in the Rig Veda (Wasson,
 
 India has a notably rich neurotropic mycoflora, with particular
 diversity in Psilocybe and Copelandia:
-- **Psilocybe cubensis**: Wasson (1982), Natarajan and Raman (1983).
+- **[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]**: Wasson (1982), Natarajan and Raman (1983).
 - **Psilocybe indica**: Sathe and Daniel (1980), Guzmán (1995).
 - **Psilocybe natarajanii**: Natarajan and Raman (1983, 1985).
-- **[[neurotropic-fungi-asia-oceania-distribution-cultural-use]]
+- **neurotropic-fungi-asia-oceania-distribution-cultural-use
 
-- [[neurotropic-fungi-in-asia]]([[guzman-allen-gartz-neurotropic-fungi-asia]].md)
-- [Amanita Muscaria and Ibotenic Acid Fungi](amanita-muscaria-and-ibotenic-acid-fungi.md)
+- neurotropic-fungi-in-asia([[guzman-allen-gartz-neurotropic-fungi-asia]].md)
+- [Amanita Muscaria and [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] Fungi](amanita-muscaria-and-ibotenic-acid-fungi.md)
 - [Psilocybe Venenata](psilocybe-venenata-profile.md)
 ## Practical Considerations
 
@@ -87,4 +87,9 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[neurotropic-fungi]]
+- [[soma-hypothesis]]
+- [[panaeolus-sphinctrinus]]
+- [[amanita-muscaria]]
+- [[psilocybe-venenata]]

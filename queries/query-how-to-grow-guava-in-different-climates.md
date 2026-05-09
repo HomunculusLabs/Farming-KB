@@ -1,20 +1,19 @@
-
 # How to Grow Guava in Different Climates
 
 A practical FAQ guide covering guava cultivation across tropical, subtropical, Mediterranean, and temperate/container climates.
 
 ## Overview
 
-Guava (*[[fruit-tree-grafting-guide]] prized for its aromatic, vitamin C–rich fruit. It tolerates a wide range of soils and conditions but performs best with intentional site selection and care. Mature trees can produce 50–200+ lbs of fruit annually depending on variety and climate.
+Guava (*[[fruit-tree-grafting-guide]] prized for its aromatic, vitamin C–rich fruit. It tolerates a wide range of soils and conditions but performs best with intentional [[fukuoka-creating-natural-farm-site-selection-establishment]] and care. Mature trees can produce 50–200+ lbs of fruit annually depending on variety and climate.
 
 ## Climate Zone Breakdown
 
 ### Tropical (USDA 10b–13)
 
-- **Growing season:** Year-round; multiple harvests possible.
-- **Temperature range:** 60–100°F ideal; no frost.
-- **Key advantage:** Maximum fruit set and fastest growth (3–6 ft/year).
-- **Challenge:** Fruit fly pressure and fungal diseases in high humidity.
+- **[[savory-growing-season-and-non-growing-season-management]]:** Year-round; multiple harvests possible.
+- **[[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]:** 60–100°F ideal; no frost.
+- **Key advantage:** [[query-how-do-i-prune-brambles-for-maximum-fruit-production]] set and fastest growth (3–6 ft/year).
+- **Challenge:** [[fukuoka-australia-fruit-fly-incident]] pressure and fungal diseases in high humidity.
 
 ### Subtropical (USDA 9a–10b)
 
@@ -40,7 +39,7 @@ Guava (*[[fruit-tree-grafting-guide]] prized for its aromatic, vitamin C–rich 
 - **Soil pH:** 5.5–7.0 (slightly acidic to neutral preferred).
 - **Drainage:** Critical — guava roots rot in standing water. Raise beds 6–12" in heavy clay.
 - **Sunlight:** Minimum 6–8 hours of direct sun daily.
-- **Wind protection:** Young trees benefit from windbreaks; mature trees tolerate moderate wind.
+- **[[cervantes-wind-protection-outdoor-cannabis]]:** Young trees benefit from windbreaks; mature trees tolerate moderate wind.
 - **Amendments:** Mix 2–4 inches of compost into planting area; avoid heavy nitrogen at planting.
 
 ## Planting Instructions
@@ -60,6 +59,7 @@ Guava (*[[fruit-tree-grafting-guide]] prized for its aromatic, vitamin C–rich 
 | Mediterranean | Thrips, aphids, [[fungus-gnats-cannabis]], scale | [[query-how-do-i-grow-figs-in-cold-climates]]
 - [[query-how-to-grow-passionfruit-in-different-climates]]
 - [[query-how-do-i-grow-figs-in-cold-climates]]
+
 ## Practical Considerations
 
 Successful implementation of Query How To Grow Guava In Different Climates requires attention to
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

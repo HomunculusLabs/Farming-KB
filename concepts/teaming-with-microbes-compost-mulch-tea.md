@@ -1,5 +1,5 @@
 ---
-title: Teaming with Microbes — Compost, Mulch, and Compost Tea
+title: Teaming with Microbes — Compost, Mulch, and comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -16,7 +16,7 @@ In *Teaming with Microbes*, Lowenfels and Lewis present three tools as the pract
 
 "It's simple. Compost, mulch, and compost tea are the soil food web gardener's tools." The approach involves:
 1. Applying the proper kind of compost
-2. Mulching the right way, with the right kinds of organic matter
+2. Mulching the right way, with the right kinds of [[hamilton-composting-and-organic-matter-management]]
 3. Applying [[compost-tea-aact]], [[teaming-with-microbes-overview]], [[compost-tea-guide]], [[compost-tea-aact]], [[teaming-with-microbes-overview]], [[teaming-with-microbes-classic-soil-science]], [[compost-tea-brewing-methods]]
 
 ## Practical Applications
@@ -24,7 +24,7 @@ In *Teaming with Microbes*, Lowenfels and Lewis present three tools as the pract
 The principles outlined on this page connect directly to hands-on work in gardens,
 farms, and homesteads. Integrating these concepts with complementary techniques from
 related disciplines can significantly improve outcomes. Start with small-scale
-implementation and scale up as understanding deepens through direct observation.
+implementation and scale up as understanding deepens through [[fukuoka-direct-observation-method]].
 
 ## Research Background
 
@@ -39,7 +39,7 @@ fundamentally a biological phenomenon, not merely a chemical one.
 
 Understanding these microbial dynamics has direct practical implications for
 soil management. Practices that support diverse microbial communities, such as
-minimal tillage, cover cropping, and organic matter additions, tend to produce
+minimal tillage, [[fukuoka-clover-cover-cropping-soil-ecology]], and organic matter additions, tend to produce
 healthier soils and more resilient plants. Conversely, practices that disrupt
 soil biology, such as excessive tillage and chemical inputs, can take years
 to recover from. The key insight is to feed the soil organisms and let them
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

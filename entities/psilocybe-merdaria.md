@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-**Psilocybe merdaria** is a small, coprophilous mushroom in the family Hymenogastraceae, known from temperate regions of Europe and North America. The species name *merdaria* comes from Latin *merda* (dung), unambiguously referencing its substrate preference. It was included in Bigwood and Beug's 1992 survey of psilocybin and psilocin concentrations and is considered among the weaker psychoactive members of the Psilocybe genus.
+**Psilocybe merdaria** is a small, coprophilous mushroom in the family Hymenogastraceae, known from temperate regions of Europe and [[psilocybin-north-america-pacific-northwest]]. The species name *merdaria* comes from Latin *merda* (dung), unambiguously referencing its substrate preference. It was included in Bigwood and Beug's 1992 survey of psilocybin and psilocin concentrations and is considered among the weaker psychoactive members of the Psilocybe genus.
 
 ## Taxonomy and Classification
 
@@ -33,7 +33,7 @@ The taxonomic history of *P. merdaria* is intertwined with several other small, 
 
 - **Cap (Pileus):** Very small, typically 3 to 15 mm in diameter. Conic to hemispherical when young, expanding to convex with age but rarely becoming fully plane. Surface is smooth, hygrophanous, and brownish ochre to reddish brown when moist, fading to a pale straw color or nearly white when dry. The cap margin is often translucent-striate when wet.
 - **Gills (Lamellae):** Adnate to broadly adnate. Pale gray to brownish when young, darkening with maturity to a dark purplish brown. Gill spacing is close to subdistant.
-- **Stipe (Stem):** Very slender, 15 to 45 mm long and 0.5 to 1.5 mm thick. Surface is smooth, whitish to pale brown, sometimes with a slight pruinose coating near the apex. The base may have a small mycelial tuft attached to the dung substrate.
+- **Stipe (Stem):** Very slender, 15 to 45 mm long and 0.5 to 1.5 mm thick. Surface is smooth, whitish to pale brown, sometimes with a slight pruinose coating near the apex. The base may have a small mycelial tuft attached to the [[psilocybe-cubensis-cattle-dung-substrate-introduction-americas-guzman-1998]].
 - **[[psilocybe-coprophila]]** — Very similar dung-inhabiting species; the two are frequently confused in the field
 - **[[psilocybe-cubensis]]** — Much larger and more potent dung-inhabiting species; the most well-known psychoactive coprophilous mushroom
 - **deconica coprophila** — A non-psychoactive dung species that may be confused with inactive Psilocybe specimens
@@ -44,7 +44,7 @@ The taxonomic history of *P. merdaria* is intertwined with several other small, 
 
 ## Cultivation
 
-No cultivation protocols exist for *P. merdaria*. Its coprophilous nature would require dung-based substrates, but there has been no interest in cultivating it due to its lack of psychoactivity. Any hypothetical cultivation attempt would face the additional challenge of the species' small fruiting body size, which would make harvest impractical even if successful.
+No cultivation protocols exist for *P. merdaria*. Its coprophilous nature would require dung-based substrates, but there has been no interest in cultivating it due to its lack of psychoactivity. Any hypothetical cultivation attempt would face the additional challenge of the species' small [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] size, which would make harvest impractical even if successful.
 
 ## References
 
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

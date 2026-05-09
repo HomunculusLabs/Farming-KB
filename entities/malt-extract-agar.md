@@ -16,18 +16,18 @@ sources:
 
 # Malt Extract Agar
 
-Malt extract agar (MEA) is a standard microbiological growth medium widely used in mycology for the cultivation, isolation, and maintenance of fungal cultures. It provides a nutrient-rich, semi-solid surface that supports the growth of a broad range of fungi, making it the preferred medium for germinating spores and establishing pure mycelial cultures of species such as [[fungal-cultivation-methods]].
+Malt extract agar (MEA) is a standard microbiological growth medium widely used in mycology for the cultivation, isolation, and maintenance of fungal cultures. It provides a nutrient-rich, semi-solid surface that supports the growth of a broad range of fungi, making it the preferred medium for germinating spores and establishing pure mycelial cultures of species such as fungal-cultivation-methods.
 
 ## Composition
 
 Malt extract agar is composed of the following ingredients:
 
 - **Malt extract**: 30 g per liter, providing a complex mixture of carbohydrates (maltose, glucose, dextrins), amino acids, peptides, vitamins (particularly B vitamins including thiamine, riboflavin, and niacin), and minerals (potassium, magnesium, phosphorus, [[sterilization]] is essential to eliminate contaminant organisms that would otherwise outcompete the desired fungal species. The foil cover prevents the medium from boiling over while allowing steam penetration.
-5. **Cool and pour**: After autoclaving, allow the medium to cool to approximately 45-55 degrees C (warm but not hot to the touch), then pour 20-25 mL into each sterile Petri dish in a [[psilocybe-azurescens]] are deposited onto the agar surface (typically using a sterile spore syringe or spore print), the nutrients support hyphal emergence and initial growth. The moisture-retaining gel surface maintains high local humidity around the spores, which is critical for germination. Germination typically occurs within 3 to 14 days depending on species, spore viability, and incubation conditions. Fresh spores from recently collected specimens typically germinate faster than older spores from stored prints.
+5. **Cool and pour**: After autoclaving, allow the medium to cool to approximately 45-55 degrees C (warm but not hot to the touch), then pour 20-25 mL into each sterile Petri dish in a [[psilocybe-azurescens]] are deposited onto the agar surface (typically using a sterile [[comparison-spore-print-collection-vs-spore-syringe-production]] or [[comparison-spore-print-vs-agar-culture]]), the nutrients support hyphal emergence and initial growth. The moisture-retaining gel surface maintains high local humidity around the spores, which is critical for germination. Germination typically occurs within 3 to 14 days depending on species, spore viability, and incubation conditions. Fresh spores from recently collected specimens typically germinate faster than older spores from stored prints.
 
 ### Mycelium Isolation
 
-When working with wild specimens, spore prints, or multi-spore cultures, mycologists use MEA to isolate individual mycelial strains with desired characteristics. Fast-growing, rhizomorphic (cord-like, organized) sectors of [[psilocybe-azurescens]], contaminant organisms can easily outcompete the desired mycelium on MEA unless strict [[mycelium]]: the vegetative body of fungi that grows on agar media as a visible white network
+When working with wild specimens, spore prints, or multi-spore cultures, mycologists use MEA to isolate individual mycelial strains with desired characteristics. Fast-growing, rhizomorphic (cord-like, organized) sectors of [[psilocybe-azurescens]], contaminant organisms can easily outcompete the desired mycelium on MEA unless strict [[mycelium]]: the vegetative body of fungi that grows on [[growing-gourmet-agar-media-formulas-preparation]] as a visible white network
 - [[psilocybe-azurescens]]: a species commonly germinated on MEA as the first step in its cultivation process
 - [[tryptamine]]: the class of alkaloids produced by fungi grown from MEA-isolated cultures
 ## Practical Applications
@@ -107,4 +107,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

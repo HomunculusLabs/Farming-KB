@@ -1,5 +1,5 @@
 ---
-title: "Hugelkultur vs Syntropic Agriculture"
+title: "comparison hugelkultur vs syntropic agriculture Agriculture"
 created: 2026-04-28
 tags: regenerative-agriculture, hugelkultur, syntropic-agriculture, soil-building, permaculture, food-forests, agroforestry, comparison
 date: 2026-04-28
@@ -29,7 +29,7 @@ A comparison of two regenerative agriculture systems that build soil fertility a
 | **Space Requirement** | Small-scale friendly; works in backyard beds | Scales from garden plots to large farms; benefits from larger areas |
 | **Labor** | High initial effort (digging, piling); low ongoing maintenance | Regular pruning, replanting, and canopy management required |
 | **Climate Suitability** | Temperate to cold climates; arid regions with irrigation | Tropical to subtropical; adapted versions for temperate zones |
-| **Biodiversity** | Moderate — attracts soil organisms and beneficial insects | High — multi-strata polycultures with 20–40+ species per area |
+| **Biodiversity** | Moderate — attracts soil organisms and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] | High — multi-strata polycultures with 20–40+ species per area |
 | **Economic Model** | Low-input, low-cost (uses waste wood and biomass) | Higher initial investment; ongoing yields from diverse production |
 
 ## Overview
@@ -48,9 +48,9 @@ Syntropic agriculture manages water through dense canopy cover (reducing evapora
 
 ## Planting Strategies and Species Selection
 
-Hugelkultur is relatively flexible — most garden vegetables, herbs, berries, and small fruit trees perform well on hugel mounds. The decomposing wood favors plants that prefer well-drained, moisture-retentive soils. Perennial vegetables and food forests integrate naturally.
+Hugelkultur is relatively flexible — most garden vegetables, herbs, berries, and small fruit trees perform well on hugel mounds. The decomposing wood favors plants that prefer well-drained, moisture-retentive soils. [[comparison-perennial-vegetables-vs-cover-crops]] and food forests integrate naturally.
 
-Syntropic agriculture requires deliberate species selection based on **succession phase** and **functional role**. Every species serves at least one purpose: biomass production, nitrogen fixation, pest confusion, microclimate creation, or direct harvest. Common syntropic species include eucalyptus, inga, banana, papaya, manioc, beans, and various timber trees — though species lists are adapted to local ecology and climate.
+Syntropic agriculture requires deliberate species selection based on **succession phase** and **functional role**. Every species serves at least one purpose: [[dighton-fungal-biomass-production-aquatic-ecosystems]], [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], pest confusion, [[mollison-designers-microclimate-creation-frost-protection]], or direct harvest. Common syntropic species include eucalyptus, inga, banana, papaya, manioc, beans, and various timber trees — though species lists are adapted to local ecology and climate.
 
 ## Time to Maturity and Productivity
 
@@ -110,7 +110,8 @@ Yes — these systems are complementary. A hugel mound can serve as the foundati
 
 ## See Also
 
+- [[syntropic-agriculture]]
+
 - [[agroforestry]]
 - [[keyline-design]]
-- [[agroforestry]]
 - [[decomposition]]

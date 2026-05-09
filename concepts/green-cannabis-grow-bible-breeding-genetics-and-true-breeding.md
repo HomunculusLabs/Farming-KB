@@ -1,5 +1,5 @@
 ---
-title: Cannabis Breeding, Genetics, and True Breeding - greg-green's Cannabis Grow Bible
+title: oner-cannabis-breeding-fundamentals, Genetics, and cannabis-true-breeding-ibl-strains - greg-green's [[green-cannabis-cola-development-bud-architecture]] grow bible breeding genetics and [[cannabis-true-breeding-ibl-strains]] Bible
 created: 2026-04-26
 tags:
   - breeding
@@ -27,7 +27,7 @@ To continue a purchased strain, keep only males and females from the
 same strain batch together. However, unless the strain is an IBL
 (In-Bred Line), you will lose some parental features in offspring.
 ### Making a Simple Hybrid
-Cross a male from one strain with a female from another (e.g., Big Bud
+Cross a male from one strain with a female from another (e.g., [[big-bud]]
 x Skunk). Offspring will vary: some lean toward one parent, others
 toward the other. Uniform plants require more advanced breeding.
 ## Genetic Terminology
@@ -97,7 +97,7 @@ Important caveats:
 ### Backcrossing
 Backcrossing involves crossing offspring back to a cloned parent to
 increase the frequency of a desired trait:
-1. Make an F1 hybrid cross (e.g., Master Kush x Silver Haze).
+1. Make an F1 hybrid cross (e.g., [[master-kush]] x [[super-silver-haze]]).
 2. Clone the parent plant (MM).
 3. Cross the cloned parent with the Mm offspring.
 4. Result: 50% MM (homozygous) and 50% Mm (heterozygous).
@@ -112,4 +112,4 @@ The second backcross (using the same cloned parent) is called
 
 ## See Also
 
-- [[cannabis-breeding-and-genetics]]
+- [[cannabis-genetics-and-breeding]]

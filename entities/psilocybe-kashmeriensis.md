@@ -18,7 +18,7 @@ type: entity
 Psilocybe kashmeriensis is a Psilocybe species first described from
 Kashmir, India, by Abraham (1995). It grows gregariously on the cut
 aerial clumps of lemon grass (Cymbopogon jawarancusa), an economically
-important plant for citronella and other essential oils. The species is
+important plant for citronella and other [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]. The species is
 especially prolific the second and third year after planting. Activity
 has not been documented but is considered possible, as it does not
 exhibit bluing despite its affinity for tall grass habitats.
@@ -55,7 +55,7 @@ Cymbopogon jawarancusa (lemon grass) is highly specialized, growing
 on cut aerial clumps of this economically important plant. The
 species is especially prolific during the second and third year after
 grass planting, suggesting the mycelium requires time to establish
-extensive networks in the grass root zone. The lemon grass substrate
+extensive networks in the grass root zone. The lemon [[juncao-grass-substrate-technique]]
 provides a unique combination of nutrients from decomposing grass
 tissues and the microclimate created by dense grass clumps.
 
@@ -70,7 +70,7 @@ play a role in decomposition of grassy substrates in tropical
 and subtropical Asian environments. Its relationship to P.
 squamosa and the absence of bluing despite possible activity
 parallels patterns seen in other grassland Psilocybe species,
-reinforcing that bluing reaction alone is an unreliable indicator
+reinforcing that [[field-guide-psilocybin-bluing-reaction-identification]] alone is an unreliable indicator
 of psychoactive content.
 
 ## See Also

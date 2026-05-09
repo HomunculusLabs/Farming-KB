@@ -1,5 +1,5 @@
 ---
-title: "William James Radical Empiricism and the Plurality of Consciousness Forms"
+title: "metzner william james radical empiricism multiple consciousness Radical Empiricism and the Plurality of Consciousness Forms"
 source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 author: Ralph Metzner
 tags: [william-james, radical-empiricism, consciousness, multiple-worlds, varieties, nitrous-oxide]
@@ -10,11 +10,11 @@ created: 2026-05-08
 
 ## Overview
 
-[[nitrous-oxide]] xide,
+ xide,
 that "no account of the universe in its totality can be final which leaves
 these other forms of consciousness quite disregarded." Metzner used this
 century-old observation to frame the convergence he saw between Western
-psychedelic therapy and indigenous shamanic practice: both traditions, despite
+[[metzner-psycholytic-psychedelic-therapy-models]] and indigenous shamanic practice: both traditions, despite
 their profound differences, recognize that ordinary waking consciousness is
 but one form among many.
 
@@ -23,7 +23,7 @@ but one form among many.
 William James (1842–1910), the father of American psychology, conducted
 personal experiments with nitrous oxide (laughing gas) in the 1870s and 1880s.
 These experiences led him to conclusions that anticipated many of the findings
-of twentieth-century psychedelic research. James found that the gas produced
+of twentieth-century [[mckenna-suppression-psychedelic-research-lsd-therapy]]. James found that the gas produced
 states of consciousness in which the boundaries of the self dissolved, in
 which metaphysical insights appeared with overwhelming certainty, and in which
 the relationship between mind and matter appeared fundamentally different from
@@ -56,10 +56,10 @@ certain approved forms of religious experience are valid.
 Metzner used James's framework to bridge the gap between Western psychotherapy
 and indigenous shamanism. The shamanic worldview, which recognizes "multiple
 worlds" accessible in expanded states of consciousness and affirms the reality
-of "spirit beings" encountered in dreams and visions, has been considered
+of "[[metzner-spirit-beings-multiple-realities-entheogens]]" encountered in dreams and visions, has been considered
 "completely beyond the pale of both reason and science."
 
-Yet Metzner argued that the Western psychedelic therapy tradition, despite
+Yet Metzner argued that the [[shamanic-vs-western-psychedelic-healing]] therapy tradition, despite
 operating within a materialist paradigm, had independently arrived at
 conclusions that support the shamanic worldview. The discovery of transpersonal
 re [[set-and-setting]] and setting are more
@@ -118,6 +118,8 @@ states into a comprehensive understanding of human nature and the nature of
 reality.
 
 ## See Also
+
+- [[metzner-consciousness-expansion-versus-contraction-addiction]]
 
 - [[metzner-transpersonal-dimensions-psychedelic-therapy]]
 - [[hallucinogenic-drugs]] ogenic Drugs and Plants in Psychotherapy and

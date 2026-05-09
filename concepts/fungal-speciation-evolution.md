@@ -3,14 +3,11 @@ title: Fungal Speciation and Evolution
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
-tags: [[mycology, fungi]
-sources: []
+tags: [mycology, fungi]
+sources:
+  sources: []
 ---
-# Fungal Speciation and Evolution
-
-## Overview
-
-Fungi have evolved over approximately 400 million years since their origin, with molecular evidence from arbuscular mycorrhizal fossils dating fungal-plant symbioses to the Ordovician. Fungal speciation operates through mechanisms both familiar to and distinct from those in plants and animals, including sexual recombination, clonal divergence, host shifts, and adaptation to extreme environments. Understanding fungal speciation is central to [[fungal-biodiversity]].
+# Fungal Speciation and Evolution ## Overview Fungi have evolved over approximately 400 million years since their origin, with molecular evidence from arbuscular mycorrhizal fossils dating fungal-plant symbioses to the Ordovician. Fungal speciation operates through mechanisms both familiar to and distinct from those in plants and animals, including sexual recombination, clonal divergence, host shifts, and adaptation to extreme environments. Understanding fungal speciation is central to [[fungal-biodiversity]].
 
 ## Phylogenetic Context
 
@@ -27,9 +24,9 @@ Coevolution of green algae and fungi may have produced parallel mycelial charact
 Several major character transitions mark fungal evolutionary history:
 
 - **Loss of flagella**: The transition from flagellated zoospores (retained in Chytridiomycota) to non-flagellated spores accompanied the colonization of terrestrial habitats
-- **Modes of sexual reproduction**: Transitions between sexual and asexual reproduction, and the evolution of complex mating systems, have occurred repeatedly across fungal lineages — see [[ectomycorrhizal-ecology]]
+- **Modes of [[fungal-life-cycles-sexual-reproduction-metamorphosis]]**: Transitions between sexual and asexual reproduction, and the evolution of complex mating systems, have occurred repeatedly across fungal lineages — see [[ectomycorrhizal-ecology]]
 - **Parenthesome/septal pore structure**: This ultrastructural feature distinguishes major lineages within Basidiomycota and provides phylogenetically informative characters
-- **Lamellate hymenophores**: The gilled mushroom morphology has evolved convergently multiple times independently, illustrating the limits of morphology-based classification
+- **Lamellate hymenophores**: The gilled [[pf-tek-mushroom-morphology-and-lifecycle-stages]] has evolved convergently multiple times independently, illustrating the limits of morphology-based classification
 
 ## Rates of Speciation
 
@@ -39,15 +36,15 @@ The sequestrate fungi provide a striking example: in Australia, approximately 60
 
 ### Geographic Isolation
 
-Sequestrate fungi illustrate how geographic barriers (oceans, deserts, mountain ranges) restrict dispersal and promote endemism. In North America and Australia, north-south mountain ranges permitted fungal and host migrations during Ice Ages, while east-west ranges in Europe impeded them — contributing to higher sequestrate species richness in North America and Australia than in Europe. These patterns connect to [[fungal-symbiosis-types]].
+Sequestrate fungi illustrate how geographic barriers (oceans, deserts, mountain ranges) restrict dispersal and promote endemism. In [[psilocybin-north-america-pacific-northwest]] and Australia, north-south mountain ranges permitted fungal and host migrations during Ice Ages, while east-west ranges in Europe impeded them — contributing to higher sequestrate species richness in North America and Australia than in Europe. These patterns connect to [[fungal-symbiosis-types]].
 
-Ectomycorrhizal associations evolved independently multiple times from saprotrophic ancestors. Plant defense mechanisms reveal the ongoing evolutionary tension in these symbioses: mycorrhiza-resistant mutants in otherwise mycorrhizal plant species demonstrate that the symbiosis can be lost. Sequestrate fungi show host specificity to individual ectomycorrhizal tree genera, and *Tuber melanosporum* (the black Périgord truffle) produces herbicidal compounds that reduce weed competition around host trees — illustrating how [[endophytic-fungal-diversity]] and [[mycorrhizal-fungi]] and [[fungal-functional-diversity]] and have important implications for [[fungal-phylogeny-systematics]] — phylogenetic methods and classification
-- [[fungal-biogeography]] — geographic distribution patterns
+Ectomycorrhizal associations evolved independently multiple times from saprotrophic ancestors. Plant defense mechanisms reveal the ongoing evolutionary tension in these symbioses: mycorrhiza-resistant mutants in otherwise mycorrhizal plant species demonstrate that the symbiosis can be lost. Sequestrate fungi show host specificity to individual ectomycorrhizal tree genera, and *Tuber melanosporum* (the black Périgord truffle) produces herbicidal compounds that reduce weed competition around host trees — illustrating how [[endophytic-fungal-diversity]] and [[mycorrhizal-fungi]] and fungal-functional-diversity and have important implications for [[fungal-phylogeny-systematics]] — phylogenetic methods and classification
+- [[fungal-biogeography]] — geographic [[guzman-global-distribution-patterns-neurotropic-fungi]]
 - [[fungal-evolution]] — broader patterns of fungal evolution
 - [[fungal-biodiversity]] — patterns and scales of fungal diversity
 - [[ascomycete-phylum-guide]] — the largest fungal phylum
 - [[sequestrate-fungi-diversity]] — diversity of sequestrate (truffle-like) fungi
-- [[endophytic-fungi]] — fungal endophytes and their ecology
+- [[endophytic-fungi]] — [[fungi-in-the-environment-fungal-endophytes-plant-communities]] and their ecology
 - [[fungal-symbiosis-types]] — types and evolution of fungal symbioses
 ## Practical Considerations
 
@@ -65,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +104,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

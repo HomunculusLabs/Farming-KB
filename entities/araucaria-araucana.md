@@ -1,7 +1,7 @@
 ---
 title: "araucaria araucana"
 created: 2026-04-28
-tags: [species, tree, nut-tree, food, permaculture]
+tags: [species, tree, nut-tree, food, permaculture|permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [a-selection-permaculture-plants.md]
@@ -34,7 +34,7 @@ of the most recognisable trees in the world.
 - **Common relatives:** A. bidwillii (bunya pine), A. angustifolia
   (Parana pine), A. heterophylla (Norfolk Island pine)
 
-## Key Details
+## Key [[det|Det]]ails
 - **Growth rate:** Slow growing, very long lived
 - **Height:** 15-35 m, spread 8 m
 - **Climate:** Prefers cool, moist, loamy soils; intolerant of hot
@@ -66,7 +66,7 @@ maritime climates with reliable rainfall and moderate summers.
 ## Ecological Context
 The species is considered a living fossil, with the Araucariaceae
 family dating back to the Mesozoic era. It occupies a unique
-ecological niche in the southern Andes as a dominant canopy tree in
+ecological niche in the southern Andes as a [[dom|dom]]inant canopy tree in
 mixed conifer-broadleaf forests. The seeds are an important food
 source for native wildlife including birds and rodents.
 
@@ -81,4 +81,4 @@ hardiness and wind resistance make it a valuable species for
 - pinus cembra
 - [[juglans-regia]]
 
-See also: [[hazelnut-cultivation-and-variety-guide]]
+See also: hazelnut-corylus-spp

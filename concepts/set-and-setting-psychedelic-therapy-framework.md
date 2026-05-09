@@ -1,5 +1,5 @@
 ---
-title: "Set and Setting as the Primary Determinants of Psychedelic Experience"
+title: "lsd-set-and-setting-framework as the Primary Determinants of leary-psychedelic-experience-bardo-mapping"
 source: "metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md"
 tags: [metzner, set-and-setting, psychedelic, therapy, context, environment]
 created: 2026-05-08
@@ -9,11 +9,11 @@ created: 2026-05-08
 
 ## Overview
 
-The concept of "set and setting" is one of the most important contributions of psychedelic research to the understanding of human consciousness.
+The concept of "set and setting" is one of the most important contributions of [[mckenna-suppression-psychedelic-research-lsd-therapy]] to the understanding of human consciousness.
 
 It holds that the character of a psychedelic experience is determined not primarily by the pharmacological properties of the drug but by the psychological set of the individual and the physical and social setting in which the experience occurs.
 
-The concept was developed in the 1950s and 1960s by researchers including Timothy Leary, Ralph Metzner, and Richard Alpert, and it remains a foundational principle of contemporary psychedelic therapy.
+The concept was developed in the 1950s and 1960s by researchers including Timothy Leary, Ralph Metzner, and Richard Alpert, and it remains a foundational principle of contemporary [[metzner-psycholytic-psychedelic-therapy-models]].
 
 Set refers to the individual's expectations, intentions, personality, mood, and preparation for the experience.
 
@@ -75,7 +75,7 @@ The shaman functions as both guide and setting: their presence, their songs, the
 
 The ceremonial context also provides a framework for integrating the experience afterward, giving meaning to what might otherwise be overwhelming or disorienting.
 
-Metzner argues that the shamanic approach to set and setting represents a sophisticated understanding of the psychology of altered states that has been refined over thousands of years.
+Metzner argues that the shamanic approach to set and setting represents a sophisticated understanding of the psychology of [[weil-the-natural-mind-altered-states-normalcy]] that has been refined over thousands of years.
 
 ## Implications for Safety
 
@@ -85,7 +85,7 @@ Most adverse reactions to psychedelics can be traced to inadequate attention to 
 
 Individuals who take psychedelics without preparation, in chaotic or unsupportive environments, or with inappropriate expectations are at significantly higher risk for difficult or dangerous experiences.
 
-Conversely, even very high doses of psychedelics can be administered safely when set and setting are carefully managed, as demonstrated by the clinical research of the 1950s and 1960s.
+Conversely, even very high doses of psychedelics can be administered safely when set and setting are carefully managed, as demonstrated by the [[hofmann-lsd-clinical-research-early-studies]] of the 1950s and 1960s.
 
 The set-and-setting framework suggests that the harm reduction approach to psychedelic use should focus primarily on education, preparation, and the creation of supportive contexts rather than on prohibition.
 
@@ -120,6 +120,8 @@ The concept continues to evolve as researchers develop more sophisticated unders
 Metzner's original formulation remains the foundation, but contemporary work has added nuance and specificity to our understanding of this critical framework.
 
 ## See Also
+
+- [[set-and-setting-universal-framework-altered-states]]
 
 - [[metzner-hallucinogenic-drugs-psychotherapy-shamanism]]
 

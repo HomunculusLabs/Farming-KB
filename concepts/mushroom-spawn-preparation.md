@@ -1,45 +1,33 @@
 ---
-title: Mushroom Spawn Preparation
+title: Mushroom spawn-preparation
 created: 2026-04-28
-tags: [[mycology, cultivation, spawn, grain-spawn]
+tags: [mycology, cultivation, spawn, grain-spawn]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
 type: concept
 ---
-
-# Mushroom Spawn Preparation
-
-Spawn is the living fungal inoculum used to start [[agar]]-to-grain transfer) or injected directly into substrate bags.
-Advantages include rapid colonization and precise dosing. Disadvantages
-include shorter shelf life (1--4 weeks) and less tolerance of rough
-handling.
-
-## Spawn Production Workflow
-
-### 1. Culture Maintenance
-
-The process begins with a pure culture on [[sterilization]] time required to ensure core temperature
+# Mushroom Spawn Preparation Spawn is the living fungal inoculum used to start agar-to-grain transfer) or injected directly into substrate bags. Advantages include rapid colonization and precise dosing. Disadvantages include shorter shelf life (1--4 weeks) and less tolerance of rough handling. ## Spawn Production Workflow ### 1. Culture Maintenance The process begins with a pure culture on [[sterilization]] time required to ensure core temperature
    is reached.
 
 ### 3. Inoculation
 
 Inoculation must occur in a clean environment to prevent contamination:
 
-- **Flow hood (laminar flow cabinet)**: Gold standard. HEPA-filtered air
+- **[[comparison-laminar-flow-hood-vs-fruiting-chamber]] (laminar flow cabinet)**: Gold standard. HEPA-filtered air
   creates a sterile workspace.
-- **Still air box (SAB)**: A simple enclosure that reduces air currents
+- **Still [[query-how-to-make-a-diy-still-air-box-for-mushroom-cultivation]] (SAB)**: A simple enclosure that reduces air currents
   carrying contaminants. Effective for home cultivators.
 - **Glove box**: Enclosed workspace with arm ports. Provides good protection
   but limits maneuverability.
 
 An agar wedge or small piece of colonized grain is transferred to each
-sterilized grain jar under sterile conditions. The jar is shaken to
+sterilized [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] under sterile conditions. The jar is shaken to
 distribute the inoculum throughout the grain, then incubated.
 
 ### 4. Incubation
 
-Grain spawn jars are incubated at the species-appropriate temperature
+[[comparison-grain-spawn-vs-grain-to-grain-transfer]] jars are incubated at the species-appropriate temperature
 (typically 22--26°C for [[mushroom-contamination-control]] for detailed prevention strategies.
 ## Practical Considerations
 
@@ -57,7 +45,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,4 +87,5 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+## See Also
+- [[duggar-mushroom-spawn-preparation]]

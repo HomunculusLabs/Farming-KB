@@ -5,7 +5,8 @@ tags: [fukuoka, natural-farming, soil-biology, no-tillage, ecological-principles
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
@@ -33,17 +34,17 @@ Man talks of "the right crop for the right land,"[[cannabis-chemical-fertilizers
 structure that extends along the topsoil. [[fukuoka-natural-farming]] from
 [[fukuoka-natural-soil-fertility]] works itself
 is self-sustaining and that [[fukuoka-four-principles-natural-farming]] that
-lies at the heart of natural farming.
+lies at the heart of [[comparison-natural-farming-vs-permaculture]].
 
 ## The Farmer's Field vs. the Mountain Forestmycorrhizal-fungitween cultivated fields and mountain forests reveals a
 fundamental truth. In the forest, deep humus layers accumulate naturally as
-leaf litter decomposes. Root systems penetrate deeply, aerating the soil and
-bringing minerals from below. Mycorrhizal fungi form vast networks connecting
-trees and plants, facilitating nutrient exchange. No onesoil-food-weblizes,
+[[dighton-fungal-decomposition-leaf-litter-dynamics]] decomposes. Root systems penetrate deeply, aerating the soil and
+bringing minerals from below. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] form vast networks connecting
+trees and plants, facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]. No onesoil-food-weblizes,
 or sprays the forest, yet it produces enormous biomasdecompositionyear.
 
 The farmer's field, by contrast, is stripped of its natural vegetation,
-compacted by machinery, and depleted of organic matter through continuous
+compacted by machinery, and depleted of [[hamilton-composting-and-organic-matter-management]] through continuous
 harvesting. The [[ozier-pdc-composting-and-soil-building]] is disrupted by chemical inputs, and the
 natural cycles of decomposition and renewal are broken. Then the farmer
 wonders why the soil "needs" plowing and fertilization, not realizing that
@@ -79,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

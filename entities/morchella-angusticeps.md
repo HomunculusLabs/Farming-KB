@@ -12,16 +12,16 @@ type: entity
 
 **Type:** Species
 **Category:** Ascomycete
-**Also known as:** Black Morel
+**Also known as:** [[growing-gourmet-black-morel-sclerotia-life-cycle]]
 
 ## Overview
 
 Morchella angusticeps, the Black Morel, is one of the most sought-after
-wild edible mushrooms in the world. Found throughout temperate regions
+wild [[palmer-edible-mushrooms-north-america]] in the world. Found throughout temperate regions
 globally, it fruits in spring and early summer in diverse habitats
 ranging from burned forests to suburban wood chip mulch. Its
 cultivation remains one of the great challenges in mycology, with
-sclerotia formation being the key biological process that must be
+[[growing-gourmet-sclerotia-formation-biology-mushrooms]] being the key biological process that must be
 understood and controlled for reliable indoor production.
 
 ## Key Details
@@ -54,23 +54,23 @@ per ascus.
 Widely distributed throughout temperate regions worldwide. Common in
 spring in mixed woods along rivers, sandy soils, and burned areas 1 to
 2 years after fire. On the west coast, frequently found in newly laid
-wood chips ("beauty bark"), under cottonwoods, and near neglected apple
+[[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]] ("beauty bark"), under cottonwoods, and near neglected apple
 trees. In Colorado, fruiting occurs in spring on the Front Range but as
 late as August in the mountains around Telluride under spruce.
 
 ### Cultivation
 
-Indoor cultivation is extremely difficult. The only documented
+[[cannabis-sativa-indoor-cultivation-techniques]] is extremely difficult. The only documented
 successful method is the Ower et al. (1986, 1988) patent. [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] with cottonwoods, elms, oaks, firs, and
 apples, especially hybrid cottonwoods, is recommended for outdoor
-cultivation efforts. The false morel Gyromitra esculenta and Early Morel
+cultivation efforts. The [[bloomfield-false-morel-gyromitrin-volatile-toxin-cooking-risk]] Gyromitra esculenta and Early Morel
 Verpa bohemica precede Black Morels by more than 2 weeks, serving as
 timing indicators.
 
 ## See Also
 - [[boletus-edulis-entity]]
 - [[morchella-deliciosa]]
-- [[morchella-sextelata]]
+- morchella-sextelata
 ## Practical Considerations
 
 Successful implementation of Morchella angusticeps requires attention to
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

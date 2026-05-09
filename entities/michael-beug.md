@@ -5,7 +5,8 @@ updated: 2026-04-12
 type: entity
 tags: [person, mycology, lab-technique, psychopharmacology, academia]
 sources:
-  - raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
   - raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
   - raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md
   - raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
@@ -13,7 +14,7 @@ sources:
 
 # Michael W. Beug
 
-Michael W. Beug is an American mycologist and chemist at The Evergreen State College (Olympia, Washington), known for his collaborative analytical work with [[jeremy-bigwood]] on psilocybin and psilocin quantification, and for his extensive contributions to mushroom toxicity education and identification.
+Michael W. Beug is an American mycologist and chemist at The Evergreen State College (Olympia, Washington), known for his collaborative analytical work with [[jeremy-bigwood]] on psilocybin and [[reversed-phase-hplc-psilocybin-psilocin-quantification-bigwood-beug]], and for his extensive contributions to mushroom toxicity education and identification.
 
 ## Key Research
 
@@ -22,7 +23,6 @@ Michael W. Beug is an American mycologist and chemist at The Evergreen State Col
 **Beug & Bigwood (1982):** "Psilocybin and Psilocin Levels in Twenty Species from Seven Genera of Wild Mushrooms in the Pacific Northwest, U.S.A." (*Journal of Ethnopharmacology* 5:271-285) — The first systematic quantitative survey of psychoactive alkaloid levels across multiple species of wild mushrooms. Surveyed 20 species from 7 genera, establishing baseline potency data.
 
 **Bigwood & Beug (1982):** "Variation of Psilocybin and Psilocin Levels with Repeated Flushes" (*Journal of Ethnopharmacology* 5:287-291) — Demonstrated that psilocybin levels vary unpredictably across flushes while psilocin builds from zero to maximum by the fourth flush. Found 4× variation in controlled cultures and 10× variation in street samples.
-
 
 ### Key Findings from Flush Variation Study
 
@@ -36,15 +36,15 @@ Michael W. Beug is an American mycologist and chemist at The Evergreen State Col
 ### Species Survey (20 species, 7 genera)
 
 - Surveyed Pacific Northwest wild mushrooms for psilocybin and psilocin levels using HPLC calibrated against NIDA standards
-- Confirmed *Psilocybe semilanceata* as the most potent Pacific Northwest species (up to 0.93% psilocybin in Northwestern US samples)
-- *Conocybe cyanopus* contained 0.33–0.55% psilocybin with trace psilocin (confirmed by Norwegian researchers 1982/83)
+- Confirmed *[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]* as the most potent Pacific Northwest species (up to 0.93% psilocybin in Northwestern US samples)
+- *[[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]]* contained 0.33–0.55% psilocybin with trace psilocin (confirmed by Norwegian researchers 1982/83)
 ### Earlier Biosynthetic Work
 
 Co-authored "Psilocin, Bufotenine and Serotonin: Historical and Biosynthetic Observations" (Chilton, Bigwood & Beug 1979, *Journal of Psychedelic Drugs* 11:61-69) — tracing the biosynthetic relationships between these indole compounds.
 
 ## Mushroom Toxicity Expertise
 
-Beug has been a prominent educator on mushroom poisoning and identification safety. His photographic contributions appear in [[paul-stamets]]'s *Psilocybin Mushrooms of the World*. He has served as a resource for poison control centers and mycological societies on the identification of toxic mushroom species.
+Beug has been a prominent educator on [[european-mushroom-poisoning-history]] and identification safety. His photographic contributions appear in [[paul-stamets]]'s *[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World*. He has served as a resource for poison control centers and mycological societies on the identification of toxic mushroom species.
 
 ## Analytical Methods
 
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

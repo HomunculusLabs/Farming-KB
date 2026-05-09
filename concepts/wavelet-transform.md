@@ -1,8 +1,9 @@
 ---
-title: Wavelet Transform
+title: query-what-is-a-wavelet-transform-used-for
 created: 2026-04-28
 updated: 2026-05-06
-sources: []
+sources:
+  sources: []
 type: concept
 tags: [reference]
 ---
@@ -64,7 +65,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +107,9 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+## See Also
+- [[savory-growing-season-and-non-growing-season-management]]
+- [[savory-holistic-resource-management-decision-framework]]
+- [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]
+- [[kalman-filter-vs-wavelet-transform]]
+- [[query-what-is-a-wavelet-transform-used-for]]

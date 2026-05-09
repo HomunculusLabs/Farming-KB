@@ -4,12 +4,13 @@ created: 2026-04-16
 updated: 2026-04-16
 type: entity
 tags: [psychedelics]
-sources: []
+sources:
+  sources: []
 ---
 # DOAM
 
 **Chemical name:** 2,5-Dimethoxy-4-(n)-amylamphetamine
-**PiHKAL entry:** #61
+**[[2c-b-pihkal-entry-20]]:** #61
 
 ## Overview
 
@@ -18,7 +19,7 @@ DOAM is a member of the [[doet-compound-profile]] | C2H5 | 2-5 | 14-20 h |
 | DOAM | C5H11 | >10 | Unknown |
 | dopr-entity|DOPR | C3H7 | 2.5-5.0 | 20-30 h |
 
-The potency does not follow a simple pattern with chain length, reflecting the complex interplay of lipophilicity, steric factors, and metabolic stability.
+The potency does not follow a simple pattern with [[phenethylamine-chain-length-effects]], reflecting the complex interplay of lipophilicity, steric factors, and metabolic stability.
 
 ## Synthesis Notes
 
@@ -58,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -100,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

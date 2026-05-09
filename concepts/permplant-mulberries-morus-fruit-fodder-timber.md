@@ -1,5 +1,5 @@
 ---
-title: Mulberries as Fruit Fodder and Timber Trees
+title: Mulberries as permplant mulberries morus fruit fodder timber and Timber Trees
 created: 2026-04-28
 tags:
   - permaculture
@@ -64,7 +64,7 @@ fence posts. Additional wood uses include:
 - Tool handles (can be pruned to shape when young)
 - Turnery, spokes, shafts, and cart parts
 - Bark used in China and Europe for paper making
-- Bark yields a fibre suitable for the textile industry
+- Bark yields a fibre suitable for the [[staycare-fungal-treatment-of-textile-industry-wastewater]]
 
 The black mulberry timber is particularly prized for turnery and
 carving.
@@ -91,10 +91,10 @@ lowest-risk tree plantings in [[comparison-sheet-mulching-vs-chop-and-drop]].
 
 ## Culinary and Integration
 
-In [[permaculture-plant-stacking-vertical-guilds]]. The combination of fruit, fodder, timber, and poultry forage
+In . The combination of fruit, fodder, timber, and [[free-range-poultry-forage-design-mollison]]
 from a single long-lived tree represents exceptional functional stacking.
 Fresh fruit is eaten raw, dried, made into preserves, jellies, and pies,
-or used as self-harvest pig and poultry feed.
+or used as self-harvest pig and [[knf-poultry-feed-preparation]].
 ## See Also
 
 - [[ben-law]]

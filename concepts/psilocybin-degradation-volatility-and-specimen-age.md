@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Degradation, Volatility, and Specimen Age
+title: Psilocybin Degradation, Volatility, and guzman-allen-gartz-psilocybin-volatility-specimen-age-degradation
 created: 2026-04-28
 tags:
   - mycology
@@ -20,8 +20,8 @@ type: concept
 
 The psychoactive potency of psilocybin-containing fungi is not fixed at
 the time of collection but declines significantly with specimen age,
-storage conditions, and handling. This phenomenon has implications for
-ethnobotanical practice, chemical analysis reliability, and the
+[[vegetable-storage-conditions-by-temperature-and-humidity]], and handling. This phenomenon has implications for
+ethnobotanical practice, [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] reliability, and the
 practical potency of mushrooms used in both traditional and modern
 contexts.
 
@@ -46,7 +46,7 @@ upon leaving the room for fresh air.
 ## Implications for Chemical Studies
 
 The volatility and degradation of these compounds has significant
-implications for reliability of published chemical analyses. Many
+implications for reliability of published [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]]. Many
 studies may have failed to detect active compounds because analyzed
 specimens were too old. When Hofmann analyzed Cordyceps capitata
 and Cordyceps ophioglossoides (reported in Heim and Wasson, 1958),
@@ -76,7 +76,7 @@ Temperature is a primary variable, with higher storage temperatures
 accelerating decomposition. Light exposure causes photosensitive
 degradation. Moisture content affects enzymatic dephosphorylation of
 psilocybin to psilocin and subsequent oxidation. Fresh specimens in
-humid conditions appear to release volatile compounds into surrounding
+humid conditions appear to release [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] into surrounding
 air. Oxidation of psilocin is the most rapid degradation pathway,
 converting the active compound to inactive blue-colored quinone
 polymers. This same oxidative pathway, operating more slowly, is

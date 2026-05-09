@@ -1,5 +1,5 @@
 ---
-title: "Siderophore Production for Iron Acquisition in Mycorrhizal Fungi"
+title: "singh-fungal-siderophore-production-iron-acquisition for fungal-siderophores-iron-acquisition-mycorrhiza in arbuscular-mycorrhizal-fungi-biology-symbiosis"
 created: 2026-04-28
 tags:
   - siderophores
@@ -17,12 +17,12 @@ type: concept
 # Siderophore Production for Iron Acquisition in [[mycorrhizal-types]],
 though significant knowledge gaps remain:
 
-**Ericoid mycorrhizal fungi** produce ferricrocin or fusigen as their main
+**[[dighton-ericoid-mycorrhizal-nutrient-acquisition]] fungi** produce ferricrocin or fusigen as their main
 siderophores. These ascomycetes associate with plants in the Ericaceae family
 growing in acidic, nutrient-poor soils where iron chemistry is particularly
 challenging.
 
-**Ectomycorrhizal fungi:** Ferricrocin is the main siderophore of the
+**[[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]:** Ferricrocin is the main siderophore of the
 widespread [[hebeloma-crustuliniforme]], a basidiomycetous
 ectomycorrhizal fungus. Wilcoxina species forming ectendomycorrhizae also
 produce ferricrocin.
@@ -35,7 +35,7 @@ group, representing one of the most significant gaps in current knowledge.
 
 ### Chrome Azurol S (CAS) Assay
 
-The CAS assay is the most widely used method for siderophore detection. It
+The CAS assay is the most widely used method for [[fungal-siderophore-detection-analytical-methods]]. It
 exploits the high formation constant of siderophores for ferric iron: strong
 chelators remove iron from the blue ternary complex of chrome azurol S-iron
 (III)-detergent complex, decolorizing the solution. The assay works both in
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

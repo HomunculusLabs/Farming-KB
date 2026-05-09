@@ -1,5 +1,5 @@
 ---
-title: Natural Livestock Farming as Pursuit of Unconditional Truth
+title: fukuoka-natural-livestock-farming Farming as Pursuit of Unconditional Truth
 tags:
   - fukuoka
   - livestock
@@ -17,10 +17,10 @@ created: 2026-05-07
 
 ## Overview
 
-Fukuoka extends his critique of scientific agriculture to livestock farming,
+Fukuoka extends his [[fukuoka-critique-of-scientific-agriculture]] agriculture to livestock farming,
 framing the difference between scientific and natural approaches as a
-fundamental philosophical divide. "Scientific farming is content to think of
-conditional truth as the truth, but natural farming makes every effort to
+fundamental philosophical divide. "[[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] is content to think of
+conditional truth as the truth, but [[comparison-natural-farming-vs-permaculture]] makes every effort to
 discard all premises and conditions and seek out a truth without conditions."
 This page explores how Fukuoka applies this distinction to the raising of
 animals, arguing that true animal husbandry requires abandoning the very
@@ -78,7 +78,7 @@ consequence of the method used, and "certainly is not an immutable truth."
 Fukuoka makes a striking philosophical claim about the nature of
 temperature. "Although high and low temperatures exist in nature, the
 notions of hot and cold do not." One will never be wrong in starting with
-the assumption that the temperature and humidity are everywhere and at all
+the assumption that the [[greg-green-temperature-and-humidity-control]] are everywhere and at all
 times just right for the animals living there.
 
 The size, height, frame, construction, windows, and floor of animal

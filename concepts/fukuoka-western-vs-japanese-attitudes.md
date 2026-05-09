@@ -1,11 +1,12 @@
 ---
-title: Fukuoka on Western vs Japanese Attitudes to Nature
+title: Fukuoka on fukuoka western vs japanese attitudes Attitudes to Nature
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Western vs Japanese Attitudes Toward Natural Farming
 
@@ -33,7 +34,7 @@ Fukuoka's dilemma illustrates a classic paradox: how do you teach people to stop
 
 Fukuoka resolved this paradox pragmatically: he provided [[fukuoka-seed-ball-methods-advanced]] as provisional tools, hoping practitioners would eventually transcend them. He noted that Westerners were more likely to use the tools and then discard them, while Japanese practitioners tended to become attached to the tools themselves.
 
-This paradox is not unique to Fukuoka. It appears in Zen Buddhism (teaching non-attachment through practices that require attachment), in Taoism (writing the Tao Te Ching about the unspeakable Tao), and in many other traditions that point toward a reality beyond concepts using conceptual means.
+This paradox is not unique to Fukuoka. It appears in Zen Buddhism (teaching non-attachment through practices that require attachment), in Taoism (writing the [[metzner-leary-bardo-thodol-and-tao-te-ching-adaptation]] about the unspeakable Tao), and in many other traditions that point toward a reality beyond concepts using conceptual means.
 
 ## Implications for Natural Farming Spread
 
@@ -41,13 +42,13 @@ This cultural difference has practical consequences for how [[fukuoka-natural-fo
 
 - Western adaptations of natural farming (such as permaculture) often incorporated Fukuoka's principles while departing from his anti-knowledge philosophy
 
-- In developing countries, Fukuoka's ideas were sometimes received as a form of appropriate technology -- simple, low-cost, locally adaptable -- which captured some of his intent while missing the philosophical dimension
+- In developing countries, Fukuoka's ideas were sometimes received as a form of [[mollison-designers-appropriate-technology-small-scale-tools]] -- simple, low-cost, locally adaptable -- which captured some of his intent while missing the philosophical dimension
 
 ## Observations from Fukuoka's Travels
 
 During his [[fukuoka-european-travels-natural-farming]], he encountered both deep understanding and persistent misunderstanding
 
-- In Africa, the principles of natural farming aligned well with traditional land management practices that colonial agriculture had disrupted
+- In Africa, the [[four-principles-of-natural-farming]] farming aligned well with traditional land management practices that colonial agriculture had disrupted
 
 ## The Question of Cultural Translation
 
@@ -57,7 +58,7 @@ However, the different receptions in Japan and the West suggest that cultural co
 
 ## Contemporary Relevance
 
-The East-West comparison in Fukuoka's work remains relevant as interest in natural farming and regenerative agriculture grows globally:
+The East-West comparison in Fukuoka's work remains relevant as interest in [[query-what-is-korean-natural-farming-and-how-does-it-work]] regenerative agriculture grows globally:
 
 - The tension between method-seeking and philosophy-receiving continues in how natural farming is taught online
 
@@ -68,6 +69,8 @@ The East-West comparison in Fukuoka's work remains relevant as interest in natur
 - Fukuoka's observation that beginners often understand better than experts has implications for agricultural education
 
 ## See Also
+
+- [[fukuoka-western-cooking-taste-numbing-japanese-food-boom]]
 
 - [[fukuoka-natural-farming-philosophy]]
 
@@ -94,4 +97,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

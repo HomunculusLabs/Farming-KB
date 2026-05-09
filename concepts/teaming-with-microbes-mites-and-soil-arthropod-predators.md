@@ -70,9 +70,11 @@ and fungi. [[teaming-with-microbes-mineralization-and-immobilization]].
 
 ## See Also
 
+- [[teaming-with-microbes-protists-and-nematode-predators]]
+
 - [[teaming-with-microbes-springtails-and-collembola]]
 - [[teaming-with-microbes-decomposition-pathways]]
-- [[fungal-chitin-decomposition-nutrient-cycling]]
+- fungal-chitin-decomposition-nutrient-cycling
 ## Practical Considerations
 
 Successful implementation of Mites and Soil Arthropod Predators requires attention to
@@ -91,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

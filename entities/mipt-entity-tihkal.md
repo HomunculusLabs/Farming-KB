@@ -8,7 +8,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 # MIPT (N-Isopropyl-N-Methyltryptamine)
 
-TIHKAL entry #47. The simplest tryptamine with the "magical" methyl-isopropyl nitrogen substitution pattern that allows oral activity despite the presence of a methyl group (which normally makes tryptamines susceptible to rapid MAO destruction). Produces a mild, primarily cognitive psychedelic experience with minimal visual effects.
+TIHKAL entry #47. The simplest tryptamine with the "magical" methyl-isopropyl nitrogen substitution pattern that allows [[tihkal-oral-activity-mao-inhibition]] despite the presence of a methyl group (which normally makes tryptamines susceptible to rapid MAO destruction). Produces a mild, primarily cognitive [[leary-psychedelic-experience-bardo-mapping]] with minimal visual effects.
 
 ## Chemical Names
 
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: Fungal Symbiosis
+title: gadd-beetle-gut-fungal-symbiosis-and-coevolution
 created: 2026-04-28
 tags: [biology, ecology, fungi, symbiosis]
 date: 2026-04-28
@@ -46,7 +46,7 @@ gongylophorus*) in dedicated gardens. The ants weed out contaminant
 fungi, tend the fungal crop, and even carry fungal fragments to new nests
 when colonies divide. This mutualism is over 50 million years old.
 
-Similar fungus-growing behavior evolved independently in Old World
+Similar fungus-growing behavior evolved independently in [[datura-metel-old-world-ethnobotany]]
 termites (Macrotermitinae), ambrosia beetles, and certain gall wasps.
 
 ## Parasitic Fungi
@@ -54,13 +54,13 @@ termites (Macrotermitinae), ambrosia beetles, and certain gall wasps.
 Not all fungal symbioses are benign. Parasitic fungi extract nutrients from
 living hosts, causing diseases of plants, animals, and even other fungi.
 Cordyceps fungi parasitize insects, replacing the host's tissue with
-fungal biomass and eventually producing fruiting bodies from the dead
-insect's body. *Candida albicans* is a commensal fungus in humans that
+[[bioremediation-fungal-biomass-biosorbent-material]] and eventually producing fruiting bodies from the dead
+insect's body. *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* is a commensal fungus in humans that
 can become pathogenic when the immune system is compromised.
 
 ## See Also
 
-- [[mycelium-network]] — How fungal networks connect organisms
+- mycelium-network — How fungal networks connect organisms
 - [[myxomycete-mycetozoan-slime-mold-diversity-ecology]] — Decomposer fungi in ecosystems
 ## Practical Considerations
 
@@ -80,4 +80,6 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+- [[candida-albicans]]
+- [[fungal-symbiosis-with-plants]]
+- [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]

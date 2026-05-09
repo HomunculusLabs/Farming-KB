@@ -1,6 +1,6 @@
 ---
 
-title: Dynamic Accumulator Quick Reference
+title: nutrient-dynamic-accumulator-reference Quick Reference
 created: 2026-04-11
 updated: 2026-04-12
 type: query
@@ -37,7 +37,7 @@ Plants that mine nutrients from deep subsoil layers and concentrate them in abov
 | Plant | Nutrients | N-Fix | Root Depth | How to Use |
 |-------|-----------|-------|------------|------------|
 | Alfalfa | N (~250 lbs/acre), P, K, Ca, traces | Yes | 6+ ft | Perennial mulch, FPJ, [[cover-cropping-guide]] |
-| Sweet white clover | N (~160 lbs/acre), K | Yes | 4-6 ft | Biennial, bio-drilling, bee forage |
+| Sweet [[fukuoka-white-clover-cover-crop-system]] | N (~160 lbs/acre), K | Yes | 4-6 ft | Biennial, bio-drilling, bee forage |
 | Red clover | N (~140 lbs/acre), P, K | Yes | 3-5 ft | Chop-and-drop, green manure |
 | White clover | N (~100 lbs/acre), Ca | Yes | 1-3 ft | Living mulch, [[companion-planting-reference]] |
 | Hairy vetch | N (~80 lbs/acre), K | Yes | 3-5 ft | Winter annual, crimp at flowering |
@@ -48,16 +48,16 @@ Plants that mine nutrients from deep subsoil layers and concentrate them in abov
 | Plant | Nutrients | N-Fix | Root Depth | How to Use |
 |-------|-----------|-------|------------|------------|
 | Buckwheat | P (dissolves mineral P), Ca, K | No | 1-2 ft | Quick summer cover, FPJ material |
-| Mustards | P (root exudates), S, K | No | 3-4 ft | Biofumigant, chop-and-drop |
+| Mustards | P ([[mycorrhizal-root-exudates-pathogen-interactions]]), S, K | No | 3-4 ft | Biofumigant, chop-and-drop |
 | Alfalfa | P (slow-release), N, K, Ca | Yes | 6+ ft | Perennial mulch, compost |
 | Lupines | P (acid exudates), N | Yes | 2-3 ft | Acid-loving beds, green manure |
-| Comfrey | P (deep-rooted), N, K, Ca | No | 6-10 ft | Mulch, compost tea, [[fermented-plant-extract-fpe]] |
+| Comfrey | P (deep-rooted), N, K, Ca | No | 6-10 ft | Mulch, [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]], [[fermented-plant-extract-fpe]] |
 
 ### Potassium Accumulators
 
 | Plant | Nutrients | N-Fix | Root Depth | How to Use |
 |-------|-----------|-------|------------|------------|
-| Bracken fern | K (25-55% potash) | No | 2-4 ft | Ash as potash source (use sparingly) |
+| [[dynamic-accumulator-bracken-fern-potash]] | K (25-55% potash) | No | 2-4 ft | Ash as potash source (use sparingly) |
 | Comfrey | K (very high), N, P, Ca | No | 6-10 ft | Mulch, liquid feed, compost activator |
 | Borage | K, Ca, trace minerals | No | 2-3 ft | Chop-and-drop, bee forage |
 | Nettles | K, Fe, N, Ca, Mg, S | No | 3-5 ft | Compost activation, [[knf-preparations]] FPJ |
@@ -96,7 +96,7 @@ Plants that mine nutrients from deep subsoil layers and concentrate them in abov
 
 ## Key Rules
 
-1. **Cut legumes before flowering** -- leaves hold ~60% of plant N at vegetative stage, only 3-6% after seed set. Mow at bud stage for maximum N transfer.
+1. **Cut legumes before flowering** -- leaves hold ~60% of plant N at [[comparison-cannabis-vegetative-stage-vs-flowering-stage]], only 3-6% after seed set. Mow at bud stage for maximum N transfer.
 2. **Comfrey cut 4-5x/season** -- first cut at ~2 ft tall, subsequent cuts every 4-6 weeks. Leaves decompose rapidly as surface mulch.
 3. **Nettles for compost activation** -- a layer of fresh nettles between brown layers heats the pile quickly. Also excellent as [[fermented-plant-extract-fpe]] material.
 4. **Harvest at dawn for FPJ** -- peak sugar content in early morning. Ferment within hours for best results.

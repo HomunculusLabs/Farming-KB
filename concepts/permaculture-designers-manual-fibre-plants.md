@@ -3,25 +3,20 @@ title: Fibre Plants
 created: 2026-04-15
 updated: 2026-04-21
 type: concept
-tags: [[permaculture, design]
+tags: [permaculture, design]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
-
-# Fibre Plants
-
-updated: 2026-04-18
-
-From: [[permaculture-designers-manual-rattan-and-cane]])
+# Fibre Plants updated: 2026-04-18 From: [[permaculture-designers-manual-rattan-and-cane]])
 
 ### Other Fibre Sources
 - **Agave** species - fibre for rope and textiles; listed as ornamental food plant
 - **Pina** (from pineapple leaves) - fine textile fibre
 - **Kapok** (Ceiba pentandra) - seed fibre for stuffing and insulation
-- **Ramie** (Boehmeria nivea) - strong bast fibre
+- **Ramie** ([[boehmeria-nivea]]) - strong bast fibre
 
 ## Fibre in Integrated Design
 
-In the permaculture garden design, the front yard includes "a fibre plant or two (to help the trellis)" alongside traditional flowers, basic medicinals, pleasant scents, and ornamental food plants. Fibre plants thus serve both practical and aesthetic functions in Zone 1.
+In the permaculture [[comparison-mandala-garden-design-vs-keyhole-garden-design]], the front yard includes "a fibre plant or two (to help the trellis)" alongside traditional flowers, basic medicinals, pleasant scents, and ornamental food plants. Fibre plants thus serve both practical and aesthetic functions in Zone 1.
 
 Fences for animal runs can be made of woven bamboo, palm rib, banana grass stalks, or wire netting, demonstrating the integration of fibre-producing plants with animal management systems.
 
@@ -32,9 +27,9 @@ Permaculture encourages local processing of fibre crops:
 - Decortication (for sisal, abaca)
 - Spinning and weaving at community scale
 - Paper-making from fibre residues (see [[permaculture-designers-manual-rattan-and-cane]] - cane species and uses
-- [[permaculture-designers-manual-paper-making]] - paper from plant fibres
+- permaculture-designers-manual-paper-making - paper from plant fibres
 - [[permaculture-designers-manual-soil-rehabilitation]] - rehabilitation of contaminated fibre crop land
-- [[permaculture-designers-manual-windbreak-species]]
+- permaculture-designers-manual-windbreak-species
 ## Practical Applications
 
 Fibre Plants has a range of practical applications that make it relevant to
@@ -52,7 +47,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -102,7 +97,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -112,4 +107,5 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[permaculture-designers-manual-beverage-plants]]

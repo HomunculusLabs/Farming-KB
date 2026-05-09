@@ -76,7 +76,7 @@ sources:
 - **Other constituents:**
   - Polysaccharides (panaxans) — immunomodulatory
   - Polyacetylenes (panaxynol, panaxydol) — antitumor activity
-  - Essential oil (trace amounts)
+  - [[permaculture-designers-manual-essential-oil-plants]] (trace amounts)
 
 ## Traditional & 
 
@@ -95,8 +95,8 @@ sources:
 
 ### Modern Pharmacological Evidence
 - **Adaptogenic activity:** Modulates HPA axis; reduces stress-induced cortisol elevation
-- **Cognitive enhancement:** Improved working memory and attention in clinical trials
-- **Immune modulation:** Enhanced natural killer cell activity; improved vaccine response
+- **Cognitive enhancement:** Improved working memory and attention in [[mushroom-cancer-clinical-trials-overview]]
+- **[[cancer-immune-modulation-mechanisms]]:** Enhanced natural killer cell activity; improved vaccine response
 - **Blood sugar regulation:** Reduces postprandial glycemia; potential adjunct in type 2 diabetes
 - **Anti-inflammatory:** NF-κB pathway inhibition via ginsenosides
 - **Safety:** Generally well tolerated; possible interactions with anticoagulants and hypoglycemics
@@ -110,7 +110,7 @@ sources:
 - **Temperature:** Cold stratification required; winter dormancy essential
 
 ### Cultivation Methods
-- **Wild-simulated:** Seeds planted in natural forest habitat; minimal intervention; 7–10 year crop; highest market value
+- **Wild-simulated:** Seeds planted in natural forest habitat; minimal intervention; 7–10 [[hamilton-three-year-crop-rotation]]; highest market value
 - **Woods-cultivated:** Tilled forest beds with some fertilization; 5–7 years
 - **Artificial shade:** Intensive field production under shade cloth; 3–4 years; lower ginsenoside content
 - **Stratification:** Seeds require 18–22 months cold-moist stratification before germination
@@ -126,14 +126,11 @@ sources:
 - **IUCN Red List:** Endangered (EN)
 - **CITES:** Appendix II (international trade regulated since 1975)
 - **USFWS:** Harvest of wild plants prohibited on federal lands; permits required on some state lands
-- **Threats:** Overharvesting, habitat loss (deforestation, urbanization), poaching, climate change
+- **Threats:** Overharvesting, habitat loss (deforestation, urbanization), poaching, [[dighton-fungi-climate-change-feedback]]
 - **Wild population decline:** Estimated 60–80% reduction over the past century
 
 ## Wiki Relevance
 
-- **Category:** Medicinal plant species
-- **Intersection with wiki topics:**
-  - Medicinal herbs and ethnobotanical knowledge
 ## See Also
 
 -  — Asian ginseng (*[[panax-notoginseng]]*)

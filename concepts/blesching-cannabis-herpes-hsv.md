@@ -68,7 +68,7 @@ to the genesis of cancer.
 ### Strain-Specific Considerations
 
 THC binds with CB1 and CB2 receptors relatively equally. Sativas and
-sativa-dominant hybrids have a higher THC:CBD ratio.
+sativa-dominant hybrids have a higher THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]].
 
 ## Mind-Body Medicine and Herpes
 
@@ -100,7 +100,7 @@ themselves and others.
   research.
 - **Clove**: Eugenine, a compound from clove, inhibits viral DNA
   synthesis in several strains of herpes (I and II), including
-  acyclovir-resistant HSV-1. Essential oil of clove also has antiviral
+  acyclovir-resistant HSV-1. [[permaculture-designers-manual-essential-oil-plants]] of clove also has antiviral
   properties against herpes.
 - **Coconut**: A crude extract of coconut husk fiber inhibits
   acyclovir-resistant Herpes simplex virus type 1 (HSV-1-ACVr).

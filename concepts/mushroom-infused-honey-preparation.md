@@ -29,9 +29,9 @@ growers.
 Raw honey is naturally antibiotic and resists spoilage due to its low moisture
 content, high acidity (pH 3.2-4.5), and the enzymatic production of hydrogen
 peroxide. These properties make it an excellent medium for preserving
-[[turkey-tail-trametes-versicolor]] (*Trametes versicolor*) for immune modulation
-- [[maitake-hen-of-the-woods-cultivation]] (*Grifola frondosa*) for immune system support
-- [[agaricus-brasiliensis-almond-mushroom-medicinal-profile]] (*Agaricus blazei*) for immune enhancement
+[[turkey-tail-trametes-versicolor]] (*[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]*) for [[cancer-immune-modulation-mechanisms]]
+- [[maitake-hen-of-the-woods-cultivation]] (*[[maitake-grifola-frondosa-comprehensive-profile]]*) for immune system support
+- agaricus-brasiliensis-almond-mushroom-medicinal-profile (*[[cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides]]*) for immune enhancement
 
 Using multiple species in combination has been shown to be more effective than
 any single species alone, likely due to synergistic effects between different
@@ -57,7 +57,7 @@ The preparation is straightforward:
 
 The honey will keep indefinitely without refrigeration. Raw, unfiltered honey
 is preferred over processed honey because it retains its natural enzymatic
-activity and antimicrobial properties.
+activity and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
 
 ## Daily Use and Dosage
 
@@ -81,7 +81,7 @@ a dual-action remedy.
 
 Mushroom honey works well on minor cuts and scrapes as a substitute for
 commercial antibiotic ointments. The antimicrobial properties of both the
-honey and the mushroom compounds provide broad-spectrum protection against
+honey and the [[medicinal-mushroom-compounds-and-health-benefits]] provide broad-spectrum protection against
 infection while promoting wound healing.
 
 ### Herd Immunity Through Sharing

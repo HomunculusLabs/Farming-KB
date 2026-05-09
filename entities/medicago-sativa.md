@@ -25,7 +25,7 @@ aliases:
 sources:
   - Small, E. & Jomphe, M. (1989). "A synopsis of the genus Medicago." Canadian Journal of Botany 67(11).
   - Barnes, D.K. et al. (1988). "Alfalfa and relatives." In: Fehr, W.R. (ed.) "Breeding Methods for Self-Pollinated Crops." Crop Sci. Soc. America.
-  - Bao, Y. et al. (2016). "Chemical composition and bioactive compounds of alfalfa." Journal of the Science of Food and Agriculture 96(15).
+  - Bao, Y. et al. (2016). "Chemical composition and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] of alfalfa." Journal of the Science of Food and Agriculture 96(15).
   - Putnam, D.H. et al. (2001). "Alfalfa." University of Wisconsin Extension.
   - Julian, M.R. et al. (2009). "Medicinal properties of Medicago sativa." Phytotherapy Research 23(2).
 created: 2026-04-28
@@ -51,7 +51,7 @@ Beyond its role as forage, alfalfa possesses documented medicinal properties inc
 
 **Flowers:** Purple to blue-violet, 6–12 mm long, arranged in dense axillary racemes. Each flower is papilionaceous, typical of the Faboideae, with a standard, two wings, and a keel. Flowering occurs from June through September.
 
-**Roots:** Deep taproot system extending 3–6 meters in well-drained soils, with extensive lateral branching. Root nodules contain *Sinorhizobium meliloti* for biological nitrogen fixation, contributing 200–500 kg N/ha/year.
+**Roots:** Deep taproot system extending 3–6 meters in well-drained soils, with extensive lateral branching. Root nodules contain *Sinorhizobium meliloti* for [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation, contributing 200–500 kg N/ha/year.
 
 **Fruit:** A spirally coiled legume pod, 2–6 mm in diameter, containing 2–6 small kidney-shaped seeds. Seeds are 1.5–2.5 mm, yellowish to olive-green.
 
@@ -77,7 +77,7 @@ Alfalfa performs poorly in acidic, waterlogged, or compacted soils. It requires 
 
 ## Permaculture and Agroforestry Applications
 
-Alfalfa is a foundational species in permaculture and regenerative agriculture systems. Its deep taproot acts as a dynamic accumulator, drawing minerals from deep soil layers and depositing them in surface leaf litter when cut.
+Alfalfa is a foundational species in permaculture and regenerative agriculture systems. Its deep taproot acts as a [[nutrient-dynamic-accumulator-reference]], drawing minerals from deep soil layers and depositing them in surface leaf litter when cut.
 
 As a nitrogen-fixing legume, alfalfa can contribute 200–500 kg N/ha annually through biological fixation. This makes it an excellent preceding crop in rotation systems, reducing or eliminating synthetic nitrogen fertilizer requirements for subsequent crops.
 
@@ -85,7 +85,7 @@ In food forest design, alfalfa serves as a groundcover or herbaceous layer benea
 
 The species is a premier nectar and pollen source for honeybees and native pollinators. Alfalfa fields support diverse pollinator communities and are valued in beekeeping for producing light, mild-flavored honey.
 
-Alfalfa is an effective winter cover crop in temperate regions, providing soil protection, weed suppression, and organic matter addition. Its winter-hardiness varies by cultivar, with dormant types surviving temperatures below -30°C.
+Alfalfa is an effective winter cover crop in temperate regions, providing soil protection, weed suppression, and [[hamilton-composting-and-organic-matter-management]] addition. Its winter-hardiness varies by cultivar, with dormant types surviving temperatures below -30°C.
 
 ## Cultivation
 
@@ -97,11 +97,11 @@ Harvest frequency is typically 3–5 cuts per year, with each cut timed at early
 
 ## Pests, Diseases, and Challenges
 
-Alfalfa is susceptible to several significant pests and diseases that limit stand productivity and longevity. The alfalfa weevil (*Hypera postica*) is the most damaging insect pest in many production regions, with larvae skeletonizing leaves and reducing yield by 20–50% in severe infestations.
+Alfalfa is susceptible to several significant [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] that limit stand productivity and longevity. The alfalfa weevil (*Hypera postica*) is the most damaging insect pest in many production regions, with larvae skeletonizing leaves and reducing yield by 20–50% in severe infestations.
 
 Verticillium wilt (*Verticillium albo-atrum*) is the most serious disease threat, causing progressive vascular discoloration, stunting, and plant death. Resistant cultivars are available and are essential in areas where the pathogen is established.
 
-Phytophthora root rot (*Phytophthora megasperma*) affects alfalfa in poorly drained soils, causing root and crown rot that leads to stand thinning. Genetic resistance and improved drainage are the primary management strategies.
+[[amf-biocontrol-phytophthora-root-exudate-modification]] rot (*Phytophthora megasperma*) affects alfalfa in poorly drained soils, causing root and crown rot that leads to stand thinning. Genetic resistance and improved drainage are the primary management strategies.
 
 Potato leafhopper (*Empoasca fabae*) causes hopperburn symptoms through feeding on vascular tissue, reducing both yield and forage quality. Economic thresholds for insecticide application are established at 0.2 leafhoppers per sweep when plants are less than 15 cm tall.
 
@@ -113,5 +113,5 @@ Autumn dormancy rating is a key cultivar selection criterion, with dormancy rati
 - [[lotus-corniculatus]]
 - [[comfrey-symphytum-officinale]]
 - [[azadirachta-indica]]
-- [[glycine-max-soybean-permaculture]]
-- [[arachis-pintoi-entity]]
+- [[glycine-max]]
+- arachis-pintoi-entity

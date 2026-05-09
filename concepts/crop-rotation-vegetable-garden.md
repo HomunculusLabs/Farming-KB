@@ -1,5 +1,5 @@
 ---
-title: "Crop Rotation in the Vegetable Garden"
+title: "comparison-crop-rotation-vs-cover-cropping in the fukuoka-dutch-priest-vegetable-garden-spiritual-renewal"
 created: 2026-04-28
 tags: [crop-rotation, vegetable-gardening, soil-fertility,
       disease-prevention, organic-gardening]
@@ -19,12 +19,12 @@ This practice is known as crop rotation.
 
 ## Benefits of Crop Rotation
 
-Crop rotation helps guard against pest and disease attacks
+Crop rotation helps guard against [[hamilton-pest-and-disease-control-organic]] attacks
 by promoting healthier, more robust plants. Moving crops
-annually allows the mineral balance of the soil to be
+annually allows the [[holmgren-mineral-balance-soil-fertility]] of the soil to be
 maintained and significantly delays the build-up of disease
 spores in the soil. It also ensures the most efficient use
-of fertilizer and organic matter. Divide your vegetable plot
+of fertilizer and [[hamilton-composting-and-organic-matter-management]]. Divide your vegetable plot
 into three sections and you only need to manure one-third
 each year.
 
@@ -34,7 +34,7 @@ Divide the vegetable garden into three plots and group
 crops into three categories based on their soil needs:
 
 ### Plot A: Heavy Feeders
-These crops benefit from double digging with manure
+These crops benefit from [[comparison-double-digging-vs-no-till]] with manure
 incorporated into upper and lower levels, plus two
 handfuls of blood, fish, and bone meal per square
 yard/meter.

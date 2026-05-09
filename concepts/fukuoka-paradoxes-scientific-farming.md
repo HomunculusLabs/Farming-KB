@@ -1,5 +1,5 @@
 ---
-title: Fukuoka on the Paradoxes of Scientific Farming
+title: Fukuoka on the Paradoxes of fukuoka-illusions-scientific-farming-centrifugal-centripetal-model
 created: 2026-04-28
 tags: [fukuoka, natural-farming, scientific-agriculture, philosophy, critique]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: concept
 # Fukuoka on the Paradoxes of Scientific Farming
 
 Masanobu Fukuoka identified a fundamental paradox at the heart of
-scientific agriculture: the problems it claims to solve are problems it
+[[fukuoka-critique-scientific-agriculture-civilization]]: the problems it claims to solve are problems it
 created in the first place. His analysis reveals a self-perpetuating cycle
 where each intervention necessitates further intervention, trapping farmers
 in an escalating spiral of dependence on chemical inputs and machinery.
@@ -25,7 +25,7 @@ their apparent value. For example, the reason a field must be plowed is that
 man has created the conditions that require it. The farmer feels as a result
 that doing so is worthwhile.
 
-The farmer floods his rice paddy for six months and runs a tiller through
+The farmer floods his [[fukuoka-textdoc-creating-rice-paddy-natural-methods]] for six months and runs a tiller through
 it, turning the soil into something akin to adobe mud. The constant
 activity kills the microbes and drives the air from the earth. As the soil
 is kneaded, it breaks down into smaller and smaller particles. Eventually,
@@ -36,7 +36,7 @@ year.
 
 ## The Fertilizer Trap
 
-The reason chemical fertilizers have to be applied is that the paddies are
+The reason [[cervantes-chemical-fertilizers-guide]] have to be applied is that the paddies are
 filled with water and the roots of the rice are allowed to rot so that the
 plants become weak. With the roots half-rotted, the crop will be lost unless
 quick-acting chemical fertilizers are used. That and only that is why
@@ -90,7 +90,7 @@ unnatural conditions.
 
 Agricultural progress has really consisted of nothing more than resorting
 to passive rescue efforts through agriculture when the rice grew diseased
-and unhealthy and yields fell. Although natural farming was capable of
+and unhealthy and yields fell. Although [[comparison-natural-farming-vs-permaculture]] was capable of
 growing eight and even twelve bushels per quarter-acre, man destroyed the
 soil and he destroyed the rice by breeding new, weaker varieties.
 
@@ -116,10 +116,12 @@ the farmer. The labor-saving methods being developed by armies of
 researchers are squeezing the farmer tighter and tighter.
 
 The entrepreneurs have found themselves a new way of making money. We
-are seeing a golden age of farmer-less farming. Farming methods today
+are seeing a golden age of farmer-less farming. [[natural-farming-methods-comparison]] today
 have done nothing but torment and squeeze the life out of the farmer.
 
 ## See Also
+
+- [[scientific-farming-paradoxes-according-to-fukuoka]]
 
 - [[fukuoka-critique-laws-agricultural-science]]
 - [[fukuoka-natural-farming-philosophy-of-mu]]

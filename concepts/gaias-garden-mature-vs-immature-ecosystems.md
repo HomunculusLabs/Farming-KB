@@ -1,5 +1,5 @@
 ---
-title: Ecological Garden Design - Mature vs Immature Ecosystems
+title: Ecological comparison-mandala-garden-design-vs-keyhole-garden-design - gaias garden mature vs immature ecosystems Ecosystems
 source: a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md
 author: Toby Hemenway
 topics: ecology, succession, garden-design, permaculture, ecosystems, maturity
@@ -19,7 +19,7 @@ distinct characteristics that directly inform garden design choices.
 
 ## Immature Ecosystems
 
-Immature ecosystems are the early stages of ecological succession. They are
+Immature ecosystems are the early stages of [[holmgren-ecological-succession-and-pulsing]]. They are
 characterized by:
 
 - **Fast growth** — Pioneer species grow rapidly to colonize open ground
@@ -32,7 +32,7 @@ characterized by:
 
 Most conventional gardens are immature ecosystems. Tilling creates bare soil,
 monocultures invite pest outbreaks, and the gardener must constantly
-intervene with watering, fertilizing, weeding, and pest control. This is why
+intervene with watering, fertilizing, weeding, and [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]. This is why
 conventional gardening is so much work — it maintains the system in a
 perpetually immature state.
 
@@ -45,7 +45,7 @@ self-regulating communities like old-growth forests, prairies, and wetlands:
 - **Complex structure** — Multiple vegetation layers from canopy to ground
 - **Closed nutrient loops** — Nutrients are captured and recycled internally
 - **High biodiversity** — Many species filling many niches
-- **Self-regulation** — Pests and diseases are naturally controlled
+- **Self-regulation** — [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] are naturally controlled
 - **Self-maintaining** — Minimal external inputs required
 - **No bare soil** — Every surface is covered with living or dead plant matter
 
@@ -59,7 +59,7 @@ model ecological gardeners strive to emulate.
 |---|---|---|
 | Growth rate | Rapid | Slow but steady |
 | Species diversity | Low | High |
-| Nutrient cycling | Open, leaky | Closed, tight |
+| [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] | Open, leaky | Closed, tight |
 | Soil exposure | Bare soil common | Fully covered |
 | Pest pressure | High outbreaks | Naturally controlled |
 | Water efficiency | Poor | Excellent |

@@ -1,5 +1,5 @@
 ---
-title: Windbreak Configurations for Crops and Orchards
+title: mollison designers windbreak configurations for crops and orchards for Crops and Orchards
 created: 2026-04-26
 tags:
   - windbreak
@@ -61,7 +61,7 @@ Echium fastuosum, wormwood. Shrubs: Coprosma repens. Trees: Lycium,
 Cedrus, Cupressus, some pines.
 
 **D. Permeable low hedgerow of Acacia or legumes.** Effects: Good
-effects on grass and crop growth, allows air movement to reduce frosts.
+effects on grass and [[coleman-sunlight-and-winter-crop-growth-rates]], allows air movement to reduce frosts.
 Species: Acacia, Leucaena, Prosopis, Albizia, Glyricidia, tagasaste
 and like tree legumes.
 
@@ -75,7 +75,7 @@ Prosopis.
 
 **E2. Complete or almost-complete crown cover in tree crop.** Effects:
 Excellent frost-free sub-tropic and tropic lowland configuration where
-fruit trees are interplanted with leguminous trees as shelter and mulch,
+[[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] are interplanted with leguminous trees as shelter and mulch,
 with Casuarinas as borders. Suited to humid climates, or irrigated
 areas. Species: Fruits from palms, avocado, Inga, banana, citrus.
 Legumes of tagasaste, Acacia, Albizia, Inga, Glyricidia, Leucaena.
@@ -93,7 +93,7 @@ such as citrus, avocado and macadamia nuts or chestnuts, using a
 protective interplant of hardy Acacia, Casuarina, Glyricidia,
 tagasaste, or Prosopis spaced within the crop.
 
-As all of the windbreak species mentioned fix nitrogen or phosphates,
+As all of the windbreak species mentioned [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] or phosphates,
 provide firewood, radiate heat, and shelter crop, it is sensible and
 beneficial to fully interplant any susceptible tree crops behind
 barriers of front-line windbreak. Windbreak in this instance is
@@ -130,6 +130,8 @@ suitable species in the first place.
 
 ## Related
 
+- mollison-designers-arid-area-grasses-and-forbs-for-range-management
+
 - [[mollison-designers-avocado-mango-and-subtropical-tree-crops]] Topics
 
 - [[mollison-designers-shelterbelt-economics-for-livestock-and-croplands]]
@@ -137,4 +139,4 @@ suitable species in the first place.
 - [[mollison-shade-systems-and-canopy-architecture]] - Shade management
   for crops
 - [[mollison-trophic-pyramids-food-webs-and-energy-cycling]]
-  - Energy flow in designed systems
+  - [[savory-energy-flow-and-solar-capture]] in designed systems

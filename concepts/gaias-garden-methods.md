@@ -15,7 +15,7 @@ Toby Hemenway's "Gaia's Garden" (2001, updated 2009) is the most accessible guid
 
 1. **Each element performs multiple functions** — A chicken provides eggs, manure, pest control, soil cultivation, and enjoyment. Design so every component serves 3+ functions.
 
-2. **Each function is supported by multiple elements** — Food comes from many sources: fruit trees, garden beds, chickens, perennial vegetables. Redundancy creates resilience.
+2. **Each function is supported by multiple elements** — Food comes from many sources: fruit trees, garden beds, chickens, [[comparison-perennial-vegetables-vs-cover-crops]]. Redundancy creates resilience.
 
 3. **Efficient use of resources** — Place elements so they harvest, store, and cycle energy. A greenhouse attached to a house captures heat; a compost pile near the kitchen receives scraps easily.
 
@@ -73,7 +73,7 @@ Timing: Start in fall for spring planting. Sheet mulch builds 1-2" of topsoil pe
 - Use biodegradable soap only; avoid kitchen sink water (grease issues)
 - Greywater "nets minerals and organic matter that would otherwise be lost down the sewer"
 - Humus-rich soil captures these nutrients and feeds them to plants
-- A greywater system is a direct application of the "catch and store energy" principle
+- A greywater system is a direct application of the "[[permaculture-principle-catch-and-store-energy]] energy" principle
 - See [[graywater-systems]] for detailed system designs (branched drain, laundry-to-landscape, mulch basins)
 
 ### Rain Gardens
@@ -94,14 +94,14 @@ A 3D permaculture element that creates multiple microclimates in a small footpri
 - Circular raised bed with a wedge-shaped path to the center
 - Maximizes growing area while minimizing path space
 - Center compost basket feeds the bed with nutrients and moisture
-- Ideal for intensive vegetable production in Zone 1
+- Ideal for intensive [[dry-gardening-unirrigated-vegetable-production-solomon]] in Zone 1
 
 ## Plant Communities and Polycultures
 
 Hemenway emphasizes that plants grow better in communities than alone:
 - **The Three Sisters**: Corn (support), beans (nitrogen fixer), squash (living mulch)
 - **Understory guilds**: Fruit trees with companion shrubs, herbs, and ground covers
-- **Succession planting**: Spring crops followed by summer crops followed by fall covers
+- **[[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]]**: Spring crops followed by summer crops followed by fall covers
 
 ## Creating a Food Forest for Small Yards
 
@@ -117,11 +117,11 @@ See [[food-forest-design]] for the full framework. Hemenway's approach:
 - [[food-forest-design]] — Food forest design framework
 - [[permaculture-design-methods]] — Broader permaculture design toolkit
 - [[permaculture-zones-in-practice]] — Detailed zone planning
-- [[mulching-guide]] — Mulching materials and techniques
+- [[mulching-guide]] — [[hamilton-mulching-materials-and-techniques]] and techniques
 - [[sheet-mulching]] — Detailed sheet mulching guide
 - [[gaia-garden-plant-guilds]] — Detailed guild design from Gaia's Garden
 - [[permaculture-animal-integration]] — Chickens, ducks, and wildlife in the garden
-- [[permaculture-succession]] — Ecological succession and garden assembly
+- [[permaculture-succession]] — [[holmgren-ecological-succession-and-pulsing]] and garden assembly
 - [[toby-hemenway]] — Author of "Gaia's Garden," permaculture educator
 
 ## Related

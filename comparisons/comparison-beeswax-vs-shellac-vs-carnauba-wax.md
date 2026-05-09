@@ -1,5 +1,5 @@
 ---
-title: "Comparison: Beeswax vs Shellac vs Carnauba Wax"
+title: "Comparison: comparison beeswax vs shellac vs carnauba wax vs Carnauba Wax"
 tags: [comparison, beeswax, shellac, carnauba-wax, natural-finish, wood-finishing, food-coating, sustainable-materials, wax, resin]
 date: 2026-04-28
 updated: 2026-04-28
@@ -19,13 +19,13 @@ created: 2026-04-28
 
 | Feature | Beeswax | Shellac | Carnauba Wax |
 |---|---|---|---|
-| **Source** | Honey bees (*Apis mellifera*) — wax glands | Lac insect (*Kerria lacca*) — resinous secretion | Copernicia palm (*Copernicia prunifera*) — leaf coating |
-| **Type** | Wax (ester of fatty acid + long-chain alcohol) | Resin (polyester of aleuritic + shellolic acids) | Hard wax (ester of hydroxyl fatty acids) |
+| **Source** | [[comparison-honey-bees-vs-native-solitary-bees]] (*Apis mellifera*) — wax glands | Lac insect (*Kerria lacca*) — resinous secretion | Copernicia palm (*Copernicia prunifera*) — leaf coating |
+| **Type** | Wax (ester of fatty acid + long-chain alcohol) | Resin (polyester of aleuritic + shellolic acids) | Hard wax (ester of hydroxyl [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]) |
 | **Origin** | Global (temperate & tropical beekeeping) | India, Thailand, SE Asia | Northeastern Brazil (primarily Piauí, Ceará) |
 | **Annual production** | ~60,000 metric tons | ~25,000 metric tons | ~20,000 metric tons |
 | **Color** | Yellow to white (bleached) | Dark amber to nearly clear | Pale yellow to brown (refined = near-white) |
 | **Melting point** | 62–65°C | 75–85°C | 82–86°C |
-| **Shelf life (raw)** | Indefinite | Indefinite (flakes) | Indefinite |
+| **[[psilocybin-shelf-life-stability]] (raw)** | Indefinite | Indefinite (flakes) | Indefinite |
 
 ## Physical Properties
 
@@ -70,7 +70,7 @@ created: 2026-04-28
 | **Biodegradable** | Yes — fully biodegradable | Yes — fully biodegradable | Yes — fully biodegradable |
 | **Labor intensity** | Moderate (beekeeping management) | High (insect cultivation, harvesting, processing) | High (manual leaf cutting, processing) |
 | **Worker welfare** | Variable — depends on beekeeping practices | Generally good — smallholder livelihood support | Concerns — historically exploitative labor in Brazil |
-| **Organic available** | Yes (certified organic apiaries) | Yes (organic host tree management) | Limited (few certified organic sources) |
+| **Organic available** | Yes (certified organic apiaries) | Yes (organic [[ectomycorrhizal-host-tree-partnerships]] management) | Limited (few certified organic sources) |
 | **Transport footprint** | Low to moderate (produced globally) | Moderate (India → global markets) | High (Brazil → global markets) |
 | **Biodiversity impact** | Positive (pollination services) | Neutral to positive (maintains tree cover) | Concerns (monoculture palm plantations) |
 | **Climate vulnerability** | High (colony collapse, habitat loss) | Moderate (host tree climate sensitivity) | Moderate (drought in NE Brazil) |
@@ -122,7 +122,7 @@ Many finishers combine these materials to leverage their complementary propertie
 
 - [[fukuoka-textdoc-three-types-farming-comparison-yields]]
 
-- query what is shellac and how is it produced from lac insects — deep dive into shellac production
-- [[natural-dye-plants]]-and-textile-fiber-crops]] — other natural coating materials
+- query what is shellac and how is it [[query-what-is-shellac-and-how-is-it-produced-from-lac-insects]] insects — deep dive into shellac production
+- [[natural-dye-plants-and-textile-fiber-crops]] — other natural coating materials
 
-See also: [[lac-insect-and-shellac]]
+See also: [[query-what-is-shellac-and-how-is-it-produced-from-lac-insects]]

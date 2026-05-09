@@ -1,5 +1,5 @@
 ---
-title: "Ayahuasca Ceremonial Economics and Price Disparity in Peru"
+title: "Ayahuasca ayahuasca ceremonial economics price disparity peru and Price Disparity in Peru"
 source: stuart-r-ayahuasca-tourism.md
 topics: [ayahuasca, tourism, economics, peru, pricing, commodification]
 ---
@@ -8,7 +8,7 @@ topics: [ayahuasca, tourism, economics, peru, pricing, commodification]
 
 ## Overview
 
-The economics of ayahuasca tourism in Peru reveal a stark two-tiered pricing system that creates significant social dynamics within indigenous and mestizo communities. R. Stuart's 2001 fieldwork in the Ucayali region documented dramatic price disparities between what foreign tourists and local Peruvians pay for ayahuasca ceremonies, raising questions about cultural commodification, economic inequality, and the transformation of traditional spiritual practice into commercial enterprise.
+The economics of [[stuart-r-ayahuasca-tourism-cautionary-ethnography]] in Peru reveal a stark two-tiered pricing system that creates significant social dynamics within indigenous and mestizo communities. R. Stuart's 2001 fieldwork in the Ucayali region documented dramatic price disparities between what foreign tourists and local Peruvians pay for [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]], raising questions about cultural commodification, economic inequality, and the transformation of traditional spiritual practice into commercial enterprise.
 
 ## The Two-Tier Pricing System
 
@@ -19,7 +19,7 @@ Stuart documented specific pricing that illustrates the economic divide:
 | Practitioner | Tourist Price | Local Price | Multiplier |
 |---|---|---|---|
 | B's nephew (Yarina) | $30 | ~$2 | 15× |
-| "E" (San Francisco) | ~$10 | Not recorded | — |
+| "E" ([[shipibo-san-francisco-ceremonial-center-ucayali]]) | ~$10 | Not recorded | — |
 | Typical Peruvian rate | — | ~$2 | Baseline |
 
 The 15× markup for foreign visitors is not merely a reflection of relative purchasing power — it represents a fundamental restructuring of the ceremonial economy around external capital flows. When a single shaman earns "a couple hundred dollars per month" from tourists while his neighbors cannot afford a thirty-cent taxi ride, the economic distortions become clear.
@@ -95,12 +95,12 @@ A commercialized ceremony for tourists is inherently different from a community 
 
 - Tourist ceremonies may be **shorter and less intensive** than authentic practice
 - The shaman's focus may shift from deep healing work to **providing an acceptable experience** that satisfies paying customers
-- The communal and familial dimensions that give ayahuasca ceremonies their cultural significance may be reduced or absent
+- The communal and familial dimensions that give ayahuasca ceremonies their [[ethnomycology-cultural-significance-sacred-fungi]] may be reduced or absent
 - Icaros (healing songs) may still be performed, providing an authentic sonic element even in commercialized settings
 
 ## The DIY Alternative
 
-Stuart suggests that for tourists interested specifically in the ayahuasca experience rather than cross-cultural immersion, home brewing may be more cost-effective and potentially more profound:
+Stuart suggests that for tourists interested specifically in the ayahuasca experience rather than cross-cultural immersion, [[ayahuasca-diy-home-brewing-as-tourism-alternative]] may be more cost-effective and potentially more profound:
 
 - Ingredients can be ordered from **ethnobotanical suppliers**
 - With an **experienced friend as a sitter**, one could have "an intense entheogenic experience in the safety and comfort of home"

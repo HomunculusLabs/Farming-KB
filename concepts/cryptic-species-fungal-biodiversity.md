@@ -1,5 +1,5 @@
 ---
-title: Cryptic Species in Fungal Biodiversity
+title: Cryptic Species in biodiversity-fungal-biodiversity-estimation-methods
 created: 2026-04-26
 tags:
   - cryptic-species
@@ -19,7 +19,7 @@ type: concept
 Cryptic species are two or more species that are morphologically
 similar or identical but reproductively isolated and genetically
 distinct. In mycology, cryptic species represent one of the most
-significant challenges to accurate biodiversity assessment, as
+significant challenges to accurate [[fungal-biodiversity-assessment-methods]], as
 traditional morphology-based identification consistently
 underestimates true species richness. The recognition of cryptic
 fungal species has profound implications for ecology, conservation,
@@ -53,7 +53,7 @@ Cryptic species may be rare and threatened without being
 recognized. Conservation assessments based solely on morphological
 identification may miss endangered cryptic taxa. The inability
 of an expert to name a species may indicate a high degree of
-taxonomic uniqueness or endemism. Molecular approaches are
+taxonomic uniqueness or endemism. [[staycare-molecular-approaches-fungal-bioremediation]] are
 increasingly necessary for comprehensive conservation planning.
 
 ## Taxonomic Practice
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

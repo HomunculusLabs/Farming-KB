@@ -12,7 +12,7 @@ updated: 2026-04-28
 sources:
   - Bernicchia, A. (2005). "Fungi Europaei: Polyporaceae s.l." Edizioni Candusso.
   - Ryvarden, L. & Gilbourn, L. (2004). "European Polyporaceae: Part 2." Synopsis Fungorum 21.
-  - Dai, Y.C. (2010). "Hymenochaetaceae (Basidiomycota) in China." Fungal Diversity 45: 131–343.
+  - Dai, Y.C. (2010). "Hymenochaetaceae (Basidiomycota) in China." [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] 45: 131–343.
   - Kirk, P.M. et al. (2008). "Dictionary of the Fungi." 10th ed. CABI Publishing.
 created: 2026-04-28
 ---
@@ -26,8 +26,8 @@ Hymenochaetaceae, order Hymenochaetales. It is a white-rot decomposer and
 facultative plant pathogen primarily associated with broadleaf hardwood trees,
 especially species of *Prunus*, *Malus*, and *Pyrus*.
 
-The fungus causes a slow-progressing white rot of living wood and has been
-implicated in branch dieback and decline of fruit trees across temperate
+The fungus causes a slow-progressing [[comparison-brown-rot-vs-white-rot-bioremediation]] of living wood and has been
+implicated in branch dieback and decline of [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] across temperate
 regions of Europe and Asia.
 
 ## Taxonomy and Morphology
@@ -93,7 +93,7 @@ established within the wood.
 ## Bioactive Compounds
 
 Like other members of the Hymenochaetaceae, *P. pomaceus* produces a range of
-bioactive secondary metabolites. Polysaccharides extracted from the fruiting
+bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]]. Polysaccharides extracted from the fruiting
 body have demonstrated immunomodulatory activity in vitro, including
 stimulation of murine macrophage phagocytosis.
 
@@ -111,10 +111,10 @@ igniarius*.
 
 As a white-rot fungus, *P. pomaceus* plays a role in the decomposition of
 hardwood in temperate forest ecosystems. Its ability to degrade lignin
-contributes to nutrient cycling and carbon mineralization in dead wood.
+contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and carbon mineralization in dead wood.
 
 The fungus serves as a microhabitat for invertebrates, including beetle larvae
-that bore into the woody basidiocarps. Fungal fruiting bodies on standing dead
+that bore into the woody basidiocarps. [[brassinosteroid-fungal-fruiting-body-morphology]] bodies on standing dead
 wood also provide perching and foraging substrate for birds.
 
 In forest pathology, *P. pomaceus* contributes to the natural pruning process

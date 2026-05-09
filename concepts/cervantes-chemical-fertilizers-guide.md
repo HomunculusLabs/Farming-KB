@@ -1,5 +1,5 @@
 ---
-title: "Chemical Fertilizers Guide"
+title: "cervantes chemical fertilizers guide Guide"
 created: 2026-04-28
 tags:
   - cannabis-nutrients
@@ -10,13 +10,14 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "/Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md"
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Chemical Fertilizers Guide
 
-Chemical fertilizers play a central role in indoor cannabis cultivation.
+Chemical fertilizers play a central role in indoor [[query-how-does-no-till-cannabis-cultivation-work]].
 Jorge Cervantes covers fertilizers extensively in Chapter 11 of
 *Marijuana Horticulture* (page 270), comparing soluble, granular, and
 time-release options alongside organic alternatives.
@@ -50,7 +51,7 @@ Chemical granular fertilizers work well but carry significant risks:
 - Can easily be over-applied, creating toxic soil conditions
 - Are almost impossible to leach out fast enough to save the plant
 - Best used by experienced growers who can precisely measure
-  application rates
+  [[ingham-compost-tea-application-rates-and-timing]]
 
 ## Time-Release Fertilizers (Osmocote)
 
@@ -102,7 +103,7 @@ The following values are suggested for indoor cannabis cultivation:
 ### Organic Mix Components
 Most indoor organic gardens use potting soil high in worm castings
 (about 20%), peat moss, sand, manure, leaf mold, compost, and fine
-dolomite lime. Nutrients such as blood meal, bone meal, bat guano,
+[[cervantes-dolomite-lime-ph-buffering]]. Nutrients such as blood meal, bone meal, bat guano,
 and worm castings release at different rates.
 
 ## Organic Teas
@@ -113,10 +114,10 @@ microbes:
 - A quarter teaspoon of well-made compost tea holds more than a
   billion bacteria and 15+ feet of fungi strands
 - Contains thousands of species of protozoa, nematodes, and
-  mycorrhizal fungi
+  [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
 - Disease-causing organisms cannot compete with beneficial bacteria
   and fungi
-- Beneficial bacteria break down plant residues and toxic materials,
+- Beneficial bacteria [[query-can-fungi-break-down-plastic-pollution]] plant residues and toxic materials,
   and improve soil structure
 
 ### Brewing Compost Tea

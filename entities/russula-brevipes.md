@@ -11,11 +11,11 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Miller, S.L. et al. (2012). \"Molecular phylogeny of the genus Russula in North America.\" Mycologia, 104(3), 647-665."
-  - "Buyck, B. et al. (2018). \"The genus Russula in tropical Africa.\" Fungal Diversity, 89, 267-349."
+  - "Miller, S.L. et al. (2012). \"Molecular phylogeny of the genus Russula in psilocybin-north-america-pacific-northwest.\" Mycologia, 104(3), 647-665."
+  - "Buyck, B. et al. (2018). \"The genus Russula in tropical Africa.\" [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]], 89, 267-349."
   - "Arora, D. (1986). Mushrooms Demystified, 2nd ed. Ten Speed Press."
   - "Kuo, M. (2022). Russula brevipes. MushroomExpert.com."
-  - "Smith, A.H. & Thiers, H.D. (1964). A Contribution toward a Monograph of North American Species of Russula. University of Michigan Press."
+  - "Smith, A.H. & Thiers, H.D. (1964). A Contribution toward a Monograph of [[growing-gourmet-north-american-reishi-species]] Species of Russula. University of Michigan Press."
 ---
 
 # Russula brevipes (*Short-Stalked Russula*)
@@ -26,7 +26,7 @@ sources:
 Russulaceae, widely distributed across coniferous and mixed forests of North
 America and Europe.
 
-It is best known as the host species for the prized edible mushroom
+It is best known as the host species for the prized [[bloomfield-boletus-satanus-edible-mushroom-hazards]]
 *Lactarius rubidus*, which parasitizes *R. brevipes* fruiting bodies, transforming
 them into the commercially valuable "candy cap" mushroom.
 
@@ -99,9 +99,9 @@ groups on forest floors with thick duff layers.
 ## Ecology and Permaculture Value
 
 As an ectomycorrhizal partner of major timber and reforestation species,
-*R. brevipes* plays a significant role in forest nutrient cycling.
+*R. brevipes* plays a significant role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
-- **Nutrient exchange:** Facilitates phosphorus and nitrogen uptake for host
+- **[[arbuscule-isolation-and-nutrient-exchange-mechanisms]]:** Facilitates phosphorus and nitrogen uptake for host
   trees in exchange for photosynthetic carbon.
 - **Soil health:** Contributes to soil aggregation and organic matter
   decomposition through enzymatic activity.

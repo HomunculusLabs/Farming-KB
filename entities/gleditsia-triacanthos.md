@@ -12,13 +12,13 @@ type: entity
 
 **Type:** Species
 **Category:** Deciduous leguminous tree
-**Also known as:** Honey locust, sweet locust, honey shuck
+**Also known as:** [[permaculture-honey-locust-pod-fodder-system]], sweet locust, honey shuck
 
 ## Overview
 Gleditsia triacanthos is a moderately fast-growing, long-lived leguminous
-tree native to North America. It reaches heights of 24-30 meters and
+tree native to [[psilocybin-north-america-pacific-northwest]]. It reaches heights of 24-30 meters and
 produces nutritious pods relished by livestock. Its deep root system
-confers exceptional drought tolerance, while its deciduous habit allows
+confers exceptional [[dighton-fungal-drought-tolerance-plant-water-relations]], while its deciduous habit allows
 light through to pasture or understory crops in winter months.
 
 ## Key Details
@@ -50,7 +50,7 @@ light through to pasture or understory crops in winter months.
 ### Yield Performance
 - Year 12: 9 t/ha/yr at 36 trees/ha density
 - Year 15: 18 t/ha/yr
-- Mature groves: 50-60 t/ha/yr in selected North American plantings
+- Mature groves: 50-60 t/ha/yr in selected [[growing-gourmet-north-american-reishi-species]] plantings
 - Pigs, sheep, cattle, and goats all readily feed on fallen pods
 
 ### Timber Properties
@@ -61,7 +61,7 @@ light through to pasture or understory crops in winter months.
 - Good fuelwood
 
 ### Other Uses
-- Pods usable for human food and alcohol fuel production
+- Pods usable for human food and [[permaculture-on-farm-alcohol-fuel-production]] production
 - Deciduous canopy allows winter light to understory/pasture
 - Thornless branches protect against ring-barking by stock
 - Propagation from seed (similar to carob) or root suckers
@@ -69,7 +69,7 @@ light through to pasture or understory crops in winter months.
 ### Propagation
 - Propagation from seed is similar to carob methods
 - Seed requires scarification; hot water treatment effective
-- Can also be propagated by transplanting root suckers
+- Can also be propagated by [[green-cannabis-transplanting-root-bound-management]] suckers
 - Thornless cultivars available but offspring may revert to thorny
 
 ## Relevance

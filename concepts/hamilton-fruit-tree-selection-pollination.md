@@ -1,5 +1,5 @@
 ---
-title: Fruit Tree Selection, Pollination, and Rootstocks
+title: comparison-berry-growing-vs-fruit-tree-pruning Selection, Pollination, and Rootstocks
 created: 2026-04-28
 tags: [fruit-trees, pollination, rootstocks, organic-gardening, hamilton]
 date: 2026-04-25
@@ -15,7 +15,7 @@ Growing fruit organically offers obvious advantages: your apples will
 not be drenched with insecticide or coated with preservatives, and the
 organically grown crop is usually large enough to withstand a few bird
 attacks. Geoff Hamilton provides detailed guidance on selecting,
-pollinating, and planting fruit trees for the home garden.
+pollinating, and planting [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] for the [[cool-climate-home-garden-mollison]].
 
 ## Growing Fruit in a Small Garden
 
@@ -92,7 +92,7 @@ very dwarfing rootstock.
 
 ## Site Considerations
 
-Frost is one of the main problems. In a frost pocket, you may be
+Frost is one of the main problems. In a [[mollison-designers-sun-trap-and-frost-pocket-design]], you may be
 limited to late-flowering varieties. Strong winds destroy foliage,
 damage flowers, and discourage pollinating insects. If your site is
 exposed, erect a temporary plastic windbreak and plant a hedge nearby.
@@ -110,7 +110,7 @@ and reduces the likelihood of introducing problems into your garden.
 
 ## Trained Fruit Forms
 
-Beyond standard trees and bushes, consider training fruit into
+Beyond standard trees and bushes, consider [[hamilton-pruning-and-training-fruit-trees]] into
 decorative forms. Cordons are single-stemmed trees planted at 45
 degrees, 2 to 3 feet apart, forming an edible hedge. Espaliers have a
 central stem with horizontal branches trained at regular intervals.

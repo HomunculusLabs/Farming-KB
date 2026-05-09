@@ -23,7 +23,7 @@ The species is closely related to garden rhubarb (*Rheum rhabarbarum*) and share
 
 The plant has a long history of use in European folk medicine as a digestive aid, laxative, and blood purifier. It was widely cultivated in medieval monastery gardens, which accounts for the common name "monk's rhubarb."
 
-Patience dock has naturalized widely in North America, where it is sometimes considered an introduced weed. It persists in old fields, roadsides, and waste areas near former homesteads.
+Patience dock has naturalized widely in [[psilocybin-north-america-pacific-northwest]], where it is sometimes considered an introduced weed. It persists in old fields, roadsides, and waste areas near former homesteads.
 
 ## Taxonomy and Morphology
 
@@ -49,13 +49,13 @@ Flowering occurs from June to August. The fruit is a brown, three-angled achene 
 
 **Microscopic features:**
 
-Leaf epidermis has anomocytic stomata on both surfaces. Calcium oxalate druses are abundant in leaf mesophyll tissues. Root cortex contains anthraquinone pigments.
+Leaf epidermis has anomocytic stomata on both surfaces. [[fungal-calcium-oxalate-crystals]] druses are abundant in leaf mesophyll tissues. Root cortex contains anthraquinone pigments.
 
 ## Distribution and Habitat
 
 **Rumex patientia** is native to Europe, western Siberia, and Central Asia. Its native range extends from France eastward to the Altai Mountains and from Scandinavia southward to the Mediterranean.
 
-The species has been introduced to North America, Australia, and parts of South America. In North America, it is established in the northeastern United States and adjacent Canada, particularly in the Great Lakes region.
+The species has been introduced to North America, Australia, and parts of South America. In North America, it is established in the northeastern [[dmt-containing-plants-united-states-halpern]] and adjacent Canada, particularly in the Great Lakes region.
 
 It grows in a wide range of habitats including moist meadows, riverbanks, lake shores, roadsides, waste ground, and cultivated fields. It prefers rich, moist, well-drained soils but tolerates clay and moderately acidic conditions.
 
@@ -65,7 +65,7 @@ In its introduced range, patience dock is most commonly found near old homestead
 
 ## Nutritional Value
 
-**Rumex patientia** leaves are rich in vitamins, minerals, and bioactive compounds. They are among the most nutritious of wild and semi-wild leaf vegetables.
+**Rumex patientia** leaves are rich in vitamins, minerals, and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]. They are among the most nutritious of wild and semi-wild leaf vegetables.
 
 The leaves contain significant amounts of vitamin C, vitamin A (as beta-carotene), vitamin K, and several B vitamins. Mineral content is high, particularly iron, potassium, magnesium, and calcium.
 
@@ -81,7 +81,7 @@ Patience dock is easily cultivated from seed or root division. Seeds require col
 
 Plants prefer deep, fertile soil with consistent moisture. A spacing of 60–90 cm between plants allows adequate room for the large leaf rosettes. Full sun produces the largest leaves, though partial shade is tolerated.
 
-Harvest of outer leaves can begin in the second year after planting. Young, tender leaves are preferred for culinary use. The plant is productive and can be harvested repeatedly throughout the growing season.
+Harvest of outer leaves can begin in the second year after planting. Young, tender leaves are preferred for culinary use. The plant is productive and can be harvested repeatedly throughout the [[savory-growing-season-and-non-growing-season-management]].
 
 Division of established clumps every 3–4 years maintains plant vigor. The thick taproot makes transplanting of mature plants challenging but not impossible.
 
@@ -91,7 +91,7 @@ The species is relatively pest-free, though slugs and leaf beetles may damage yo
 
 **Rumex patientia** serves as a host plant for several butterfly and moth species. The leaves provide food for caterpillars of the small copper butterfly (*Lycaena phlaeas*) and several Rumex-feeding moths.
 
-The deep taproot improves soil structure and brings nutrients from subsoil layers to the surface. This makes patience dock a useful dynamic accumulator in permaculture designs and food forest understories.
+The deep taproot improves soil structure and brings nutrients from subsoil layers to the surface. This makes patience dock a useful [[nutrient-dynamic-accumulator-reference]] in permaculture designs and food forest understories.
 
 In traditional European medicine, the root was used as a gentle laxative and digestive tonic. Preparations were made as decoctions, tinctures, or dried powders. The root's anthraquinone content is lower than senna or cascara, making it a milder alternative.
 

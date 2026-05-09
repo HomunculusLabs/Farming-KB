@@ -106,3 +106,15 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## Merged: Mushroom Substrate Supplementation
+
+---
+
+Source: The Mushroom Cultivator (Stamets & Chilton, 1983), Chapters III, XI
+Updated: 2026-04-18
+## See Also
+- [[coprinus-atrementarius-entity-the-mushroom-cultivator]]
+- [[pseudomonas-putida-entity-the-mushroom-cultivator]]
+- [[mucor-racemosus-entity-the-mushroom-cultivator]]
+- [[mycogone-perniciosa-entity-the-mushroom-cultivator]]
+- [[psilocybe-mexicana-entity-the-mushroom-cultivator]]

@@ -1,5 +1,5 @@
 ---
-title: Master Cho's FFJ (Fermented Fruit Juice) Guide
+title: Master Cho's FFJ (bionutrients-lab-fermented-fruit-juice-ffj Juice) Guide
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,7 +10,7 @@ tags: [fermentation, fruit-tree, knf]
 
 # Master Cho's FFJ (Fermented Fruit Juice) Guide
 
-In Master Cho's Korean Natural Farming (KNF) recipe book, Fermented Fruit Juice is treated as a specialized form of Fermented Plant Juice (FPJ). When FPJ is made from ripe fruits, it is called a "fruit enzyme." FFJ provides energy-rich nutrients during the reproductive and maturity stages of crop growth.
+In Master Cho's Korean [[comparison-natural-farming-vs-permaculture]] (KNF) recipe book, Fermented Fruit Juice is treated as a specialized form of [[bionutrients-lab-fermented-plant-juice-fpj]] (FPJ). When FPJ is made from ripe fruits, it is called a "fruit enzyme." FFJ provides energy-rich nutrients during the reproductive and maturity stages of crop growth.
 
 ## Principles (Shared with FPJ)
 
@@ -31,10 +31,10 @@ Promotes flower bud formation after the cross-over period and increases sugar co
 FPJ of ripe fruits is called fruit enzyme. Divide fruit into four parts (do not use whole). It is good to use FPJ that has matured for 1 year. Apply in the late reproductive period.
 
 ### Other Fruits
-- **Apple, peach, grape**: Common ripe fruits for fruit enzyme production.
+- **Apple, peach, grape**: Common ripe fruits for fruit [[ligninolytic-enzyme-production-bioremediation]].
 - **Strawberry, kiwi**: Fruiting vegetables with high enzyme content.
 - **Mulberry, raspberry**: More acidic (less ripe) fruits for cross-over period use.
-- **Pear**: Used in fermented seawater preparation (FPJ of pear).
+- **Pear**: Used in [[knf-fermented-seawater-preparation]] preparation (FPJ of pear).
 - **Seaweeds**: Effective for plant growth and reinforcing fruit color. Use a light stone weight to press brown seaweed for faster extraction.
 
 ## Collection and Preparation
@@ -67,7 +67,7 @@ FPJ of ripe fruits is called fruit enzyme. Divide fruit into four parts (do not 
 | Stage | FFJ Use | Dilution |
 |---|---|---|
 | Cross-over period | Less-ripe fruits (mulberry, grape, raspberry) | x1/500 |
-| Reproductive growth | Ripe fruit enzymes (chocolate vine, apple, peach, grape) | less than x1/2000 |
+| [[knf-reproductive-growth-stage]] | Ripe fruit enzymes (chocolate vine, apple, peach, grape) | less than x1/2000 |
 | Maturity | Purslane FPJ (not technically a fruit, used at harvest) | less than x1/5000 |
 
 ### Key Application Notes

@@ -31,7 +31,7 @@ is very heavy cropping, Cumlaude RZ grows in unheated greenhouses, and
 Athene suits slightly cooler conditions. All share the same and humidity requirements as tomatoes, so they can share the greenhouse.
 
 Sow from midwinter if the greenhouse can be heated to about 50 degrees
-F (10 degrees C), or in mid-spring for a cold house. Sow individually
+F (10 degrees C), or in mid-spring for a [[coleman-cold-house-wind-protection-microclimate]]. Sow individually
 in 3in (8cm) pots at 75 to 80 degrees F (24 to 27 degrees C) in a
 propagator. When germinated, move to 60 to 65 degrees F (15 to 18
 degrees C). Prepare the border soil and plant as for tomatoes. Handle
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

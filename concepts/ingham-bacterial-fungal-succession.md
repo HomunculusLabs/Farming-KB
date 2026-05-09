@@ -16,15 +16,15 @@ In natural soil systems, bacterial dominance is the first stage of
 succession after disturbance. When soil is disturbed through tilling,
 compaction, chemical application, or other disruption, the bacterial
 community recovers first because bacteria reproduce more rapidly than
-fungi. As the system matures, fungal biomass gradually increases
+fungi. As the system matures, [[bioremediation-fungal-biomass-biosorbent-material]] gradually increases
 until a more balanced bacterial-to-fungal ratio is achieved. This
-progression from bacterial to fungal dominance is a fundamental
+progression from [[ingham-bacterial-to-fungal-succession-soil-food-web]] dominance is a fundamental
 principle of soil ecology.
 
 ## Early Successional Stage
 
 The earliest stage after disturbance is dominated by bacteria, with
-fungal biomass at its lowest point. In this stage, bacterial biomass
+[[dighton-fungal-biomass-nutrient-reservoir-ecosystems]] at its lowest point. In this stage, bacterial biomass
 can exceed fungal biomass by a wide margin. The bacteria present are
 typically opportunistic species that grow rapidly on readily available
 carbon sources. The [[bacterial-to-fungal-soil-succession]]
@@ -50,7 +50,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -100,7 +100,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -110,4 +110,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

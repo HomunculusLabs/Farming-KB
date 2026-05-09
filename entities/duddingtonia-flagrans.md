@@ -13,7 +13,7 @@ sources:
 
 **Duddingtonia flagrans** is a predacious ascomycete fungus that captures and destroys nematodes using adhesive three-dimensional networks of hyphae.
 
-It is one of the most promising biological control agents against gastrointestinal nematode parasites of livestock.
+It is one of the most promising [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents against gastrointestinal nematode parasites of livestock.
 
 The species has been extensively investigated for use in sustainable parasite management programmes.
 

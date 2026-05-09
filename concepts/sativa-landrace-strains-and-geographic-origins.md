@@ -1,5 +1,5 @@
 ---
-title: Sativa Landrace Strains and Geographic Origins
+title: Sativa sativa landrace strains and geographic origins and Geographic Origins
 created: 2026-04-28
 tags: [cannabis, landrace, sativa, genetics, strain-history]
 date: 2026-04-28
@@ -12,7 +12,7 @@ type: concept
 
 ## Overview
 
-Landrace cannabis strains are naturally evolved populations that have
+[[cervantes-landrace-cannabis-populations]] strains are naturally evolved populations that have
 adapted to specific geographic regions over centuries or millennia of
 selection. Sativa landraces originate primarily from equatorial,
 tropical, and subtropical regions between approximately 30°N and 30°S
@@ -53,7 +53,7 @@ numerous modern hybrids.
 
 ### Congolese
 
-Congolese landraces produce some of the most complex terpene profiles
+Congolese landraces produce some of the most complex [[cannabis-terpene-profiles-sativa]]
 in cannabis, with aromas ranging from sweet and tropical to earthy
 and spicy. Congolese genetics influenced the "Chocolate" lineages.
 
@@ -77,7 +77,7 @@ plants.
 
 Many sativa landrace populations face existential threats including
 government eradication, hybrid genetic contamination, habitat
-destruction, and climate change. Landrace genetics remain invaluable:
+destruction, and [[dighton-fungi-climate-change-feedback]]. Landrace genetics remain invaluable:
 unique terpene profiles, natural disease resistance, extended
 flowering for sustained cannabinoid production, and genetic diversity
 essential for breeding. Breeders face challenges with long flowering

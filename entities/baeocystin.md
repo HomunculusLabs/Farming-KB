@@ -10,7 +10,7 @@ tags:
   - alkaloid
   - pharmacology
 sources:
-  - Leung, A.Y. & Paul, A.G. (1968). "Baeocystin and norbaeocystin: New analogs of psilocybin from Psilocybe baeocystis." Journal of Pharmaceutical Sciences.
+  - Leung, A.Y. & Paul, A.G. (1968). "Baeocystin and norbaeocystin: New analogs of psilocybin from stamets-psi-psilocybe-baeocystis-knobby-tops." Journal of Pharmaceutical Sciences.
   - Gartz, J. (1989). "Biotransformation of tryptamine derivatives in mycelial cultures of Psilocybe cubensis." Planta Medica.
   - Tsujikawa, K. et al. (2003). "Determination of psilocin, psilocybin, and baeocystin in mushroom samples." Forensic Science International.
   - Jensen, M.P. et al. (2021). "Pharmacology of baeocystin: A comprehensive review of preclinical evidence." ACS Pharmacology & Translational Science.
@@ -23,7 +23,7 @@ sources:
 
 The compound was first isolated and characterized in 1968 by Leung and Paul from *Psilocybe baeocystis* Singer & Smith, the species from which it derives its name. It has since been detected in numerous species across the genera *Psilocybe*, *Panaeolus*, *Gymnopilus*, *Inocybe*, and *Pluteus*.
 
-Despite its ubiquity in psychedelic mushrooms, baeocystin remains significantly less studied than psilocybin. Its pharmacological profile, subjective effects, and contribution to the overall psychedelic experience of mushroom consumption are still subjects of active investigation.
+Despite its ubiquity in psychedelic mushrooms, baeocystin remains significantly less studied than psilocybin. Its pharmacological profile, subjective effects, and contribution to the overall [[leary-psychedelic-experience-bardo-mapping]] of mushroom consumption are still subjects of active investigation.
 
 ## Chemical Properties
 
@@ -35,7 +35,7 @@ Despite its ubiquity in psychedelic mushrooms, baeocystin remains significantly 
 
 **Molecular weight:** 270.22 g/mol.
 
-**Structural relationship to psilocybin:**
+**[[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to psilocybin:**
 
 Baeocystin differs from psilocybin by a single methyl group on the terminal amine. Psilocybin is 4-phosphoryloxy-N,N-dimethyltryptamine (two methyl groups), while baeocystin is 4-phosphoryloxy-N-methyltryptamine (one methyl group). This makes baeocystin the N-desmethyl analog of psilocybin and the phosphorylated prodrug of 4-hydroxy-N-methyltryptamine (4-HO-NMT).
 
@@ -47,7 +47,7 @@ Baeocystin is soluble in water and polar organic solvents. It is stable under ac
 
 The pharmacology of baeocystin remains incompletely characterized, though research has accelerated since 2020. Key findings include:
 
-- **Receptor binding**: Limited in vitro data suggest baeocystin's active metabolite (4-HO-NMT) binds to 5-HT2A receptors with lower affinity than psilocin, but the precise binding affinity (Ki) has not been definitively established in published literature.
+- **[[tihkal-receptor-binding-serotonin]]**: Limited in vitro data suggest baeocystin's active metabolite (4-HO-NMT) binds to 5-HT2A receptors with lower affinity than psilocin, but the precise binding affinity (Ki) has not been definitively established in published literature.
 - **5-HT2A partial agonism**: Like psilocin, 4-HO-NMT is believed to act as a partial agonist at the 5-HT2A receptor, the primary site of action for classical psychedelic effects.
 - **Serotonergic activity**: The compound likely interacts with a broader serotonergic receptor profile including 5-HT1A, 5-HT2C, and 5-HT7 receptors, though these interactions remain poorly quantified.
 - **Pharmacokinetics**: As a prodrug, baeocystin requires dephosphorylation to become pharmacologically active. This conversion is rapid, with onset of effects likely occurring within 20–40 minutes of oral administration.
@@ -105,7 +105,7 @@ Baeocystin is part of a family of phosphorylated tryptamine alkaloids with share
 - **Psilocybin** (4-PO-DMT): The N,N-dimethyl analog; primary psychoactive component of psychedelic mushrooms. Approximately 5–20× more abundant in most species.
 - **Psilocin** (4-HO-DMT): The dephosphorylated active metabolite of psilocybin; also present in smaller quantities in fresh fungal tissue.
 - **Norbaeocystin** (4-PO-T): The N-desmethyl analog of baeocystin, lacking the methyl group entirely. Detected at trace levels in many psilocybin-containing species.
-- **Aeruginascin** (4-PO-TMT): The N,N,N-trimethyl analog, found notably in *Inocybe aeruginascens*. Reported to produce atypical effects compared to psilocybin.
+- **Aeruginascin** (4-PO-TMT): The N,N,N-trimethyl analog, found notably in *[[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]]*. Reported to produce atypical effects compared to psilocybin.
 
 This structural series demonstrates a clear structure-activity relationship: increasing N-methylation correlates with increasing 5-HT2A receptor affinity and psychoactive potency. Baeocystin occupies an intermediate position in this series between norbaeocystin (least active) and psilocybin (most active).
 
@@ -116,10 +116,10 @@ Several significant knowledge gaps remain regarding baeocystin:
 - **Isolated human pharmacology**: No controlled clinical trials have administered baeocystin alone to human subjects. All current understanding of its effects is derived from whole-mushroom studies or animal models.
 - **Quantitative receptor binding**: Full receptor binding profiles (Ki values across 5-HT receptor subtypes, dopamine receptors, and sigma receptors) have not been published for baeocystin or its metabolite 4-HO-NMT.
 - **Pharmacokinetic data**: Absorption, distribution, metabolism, and excretion parameters are unknown for isolated baeocystin administration.
-- **Entourage effects**: The contribution of baeocystin to the overall psychoactive profile of whole mushrooms remains speculative. Controlled comparisons of purified psilocybin versus full-spectrum fungal extracts are needed.
+- **[[beta-caryophyllene-entourage-effects-cannabis]]**: The contribution of baeocystin to the overall psychoactive profile of whole mushrooms remains speculative. Controlled comparisons of purified psilocybin versus full-spectrum fungal extracts are needed.
 
 Recent interest in "naturally sourced" psychedelics for therapeutic use has increased attention on the full complement of alkaloids in psilocybin mushrooms. As regulatory frameworks evolve to accommodate therapeutic psilocybin use, standardized quantification of baeocystin and other minor alkaloids may become relevant for quality control and batch consistency in pharmaceutical fungal preparations.
 
 ## See Also
 
-[[psilocin]] | [[psilocybe-azurescens]] | [[pluteus-cyanopus]] | [[tetrahydroharmine]] | [[ergoline]] | [[lsd-entity-tihkal]]
+[[psilocin]] | [[psilocybe-azurescens]] | [[pluteus-cyanopus]] | [[tetrahydroharmine]] | ergoline | [[lsd-entity-tihkal]]

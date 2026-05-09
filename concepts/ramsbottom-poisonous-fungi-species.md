@@ -1,6 +1,6 @@
 ---
 
-title: Ramsbottom Poisonous Fungi Species
+title: Ramsbottom ramsbottom-poisonous-fungi-identification-guide Species
 created: 2026-04-12
 updated: 2026-04-12
 type: summary
@@ -48,7 +48,7 @@ Complete species descriptions from [[john-ramsbottom]]'s 1945 "Poisonous Fungi" 
 
 **Habitat**: Woods, especially beech. Summer and early autumn. Despite the name (verna = spring), rarely appears in spring.
 
-**Notes**: J. Bauhin called it *Fungus stultorum* -- "the fungus of fools," presumably because in its young stage it was mistaken for A. caesarea. Rare in Britain. Just as poisonous as A. phalloides but more dangerous because being white, it is more readily mistaken for edible mushrooms.
+**Notes**: J. Bauhin called it *Fungus stultorum* -- "the fungus of fools," presumably because in its young stage it was mistaken for A. caesarea. Rare in Britain. Just as poisonous as A. phalloides but more dangerous because being white, it is more readily mistaken for [[palmer-edible-mushrooms-north-america]].
 
 ## AMANITA VIROSA -- Destroying Angel
 
@@ -90,7 +90,7 @@ Complete species descriptions from [[john-ramsbottom]]'s 1945 "Poisonous Fungi" 
 
 **Toxins**: Muscarine (small amounts, NOT matching actual symptoms), mycetoatropine/muscaridine (atropine-like CNS effects), choline (large amounts, probably causes GI symptoms). Poison resides principally in skin of the cap; considerable variation in amount.
 
-**Ethnobotanical use**: Koryak tribes of northeast Siberia eat it for "excessive emotion." Urine recycling prolongs effects. Price in barren Steppes: 3-4 reindeer for a single specimen. Vikings said to eat it before battle ("berserk"). The name refers to Albertus Magnus (13th century) observation that the fungus broken up in milk kills flies.
+**Ethnobotanical use**: Koryak tribes of northeast Siberia eat it for "excessive emotion." [[siberian-fly-agaric-shamanism-urine-recycling]] prolongs effects. Price in barren Steppes: 3-4 reindeer for a single specimen. Vikings said to eat it before battle ("berserk"). The name refers to Albertus Magnus (13th century) observation that the fungus broken up in milk kills flies.
 
 **Homeopathic use**: Agaricus (Aga), formerly one of the antipsorics.
 
@@ -120,7 +120,7 @@ Complete species descriptions from [[john-ramsbottom]]'s 1945 "Poisonous Fungi" 
 
 **Habitat**: Amongst grass, autumn. Rare in Britain.
 
-**Poisoning**: Mild Amanita phalloides-type symptoms. Much less dangerous than the Amanitas.
+**Poisoning**: Mild [[amanita-phalloides]]-type symptoms. Much less dangerous than the Amanitas.
 
 ## LACTARIUS TORMINOSUS -- Woolly Milk Cap
 
@@ -143,61 +143,6 @@ Complete species descriptions from [[john-ramsbottom]]'s 1945 "Poisonous Fungi" 
 **Stem**: 3" tall, 1" wide. Rigid, white or pink-tinged.
 
 **Flesh**: Firm, white, pink under cap skin. Very acrid taste after a few seconds (persistent). Pleasant smell.
-
-**Habitat**: Woods, summer and autumn.
-
-**Notes**: Acrid substance dispersed in cooking, but best avoided.
-
-## ENTOLOMA LIVIDUM -- Leaden Entoloma
-
-**Cap**: 5" wide. Tawny or greyish, often turning white here and there. Hard and compact. Roundish at first with thin mealy inrolled edge, then flattened except central fleshy disk.
-
-**Gills**: Yellowish then pink, often with yellow edge.
-
-**Stem**: 3" tall, 1" wide. Shining white, firm, somewhat swollen above or below. Mealy apex, fine striations.
-
-**Flesh**: White, fragile. First agreeable smell and taste of meal, but pleasantness not lasting.
-
-**Habitat**: Grassy places in autumn, especially deciduous woods.
-
-**Poisoning**: Often causes violent sickness and diarrhoea, occasional death. Known around Dijon as "le grand empoisonneur de la Cote d'Or" (the great poisoner of the Cote d'Or).
-
-## INOCYBE PATOUILLARDI -- Red Staining Inocybe
-
-**Cap**: 2" wide. At first wholly creamy white, then pinky yellow, finally vermilion or brownish red. Immediately stains red on handling.
-
-**Stem**: 3.5" tall, 0.5" wide. Stout, solid, slightly swollen at base. Mealy at top. Firm white flesh reddens slightly, especially in stem.
-
-**Smell**: Rather strong and fruity. Taste mild.
-
-**Habitat**: Summer, deciduous woods (especially beech).
-
-**Poisoning**: Amanita muscaria-type. Fatalities recorded (Surrey 1937). Others who partook "in a more reasonable manner" had giddiness, profuse sweats, and vomiting.
-
-## GYROMITRA ESCULENTA -- Gyromitra
-
-**Cap**: 5" wide. Fawn then dark chestnut-brown. Characteristically brain-like -- irregularly folded and grooved, turned in on the stem.
-
-**Stem**: 2" tall, 2" wide. Whitish, smooth, flattened, grooved, sometimes branched above. Both cap and stem show irregular cavities when sectioned.
-
-**Flesh**: White, waxy, very brittle. Pleasant taste and smell.
-
-**Habitat**: Coniferous woods, spring. Often appearing under snow, particularly in burnt or open places. Also in wet "slacks" of sand dunes.
-
-**Poisoning**: PERFECTLY SAFE WHEN COOKED OR DRIED. Serious accidents and death when eaten RAW. Usually attributed to helvellic acid (acts on red blood corpuscles), but German poisonings showed the action is "not simple haemolysis."
-
-**Commercial**: Large quantities exported annually from Poland (principally to Germany) for factory processing. Factory workers suffer eye trouble from spores or finger-irritation by poison.
-
-## Not Poisonous (Commonly Suspected)
-
-| Species | Actual Status | Why Suspected |
-|---------|--------------|---------------|
-| Amanita mappa | Harmless (inedible) | Confused with A. phalloides |
-| Volvaria gloiocephala | Harmless, widely eaten | Formerly thought deadly |
-| Lepiota cristata | Not poisonous | Disagreeable smell/taste |
-| Boletus Satanas | Overrated danger | Probably just very indigestible |
-| Boletus luridus | Edible | Blue colour change when broken |
-| Boletus erythropus | Edible | Same blue colour myth |
 
 ## See Also
 

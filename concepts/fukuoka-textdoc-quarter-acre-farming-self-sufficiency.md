@@ -18,7 +18,7 @@ type: concept
 # Quarter-Acre Farming and Self-Sufficiency
 One of [[natural-farming]]. Because he has no use for various
 chemical-based farming materials and does not reckon household labor into
-his expenses, his production costs are zero.
+his expenses, his [[fukuoka-textdoc-production-costs-not-coming-down]] are zero.
 If all farmers thought along these lines, crop prices everywhere would
 settle to the same level and would no longer be needed. Prices are a
 man-made device that do not exist in nature. Nothing has less to do with
@@ -27,10 +27,10 @@ the crops of nature than money.
 ## Mu Economics
 
 Fukuoka proposed a new economics founded on Mu — the state where
-willful human actions are cast aside. Crops grown by natural farming
+willful human actions are cast aside. Crops grown by [[comparison-natural-farming-vs-permaculture]]
 should be assessed on a natural economy, not a monetary one. Establishing
 Mu economics requires discarding false values and unearthing the true
-value of agriculture. Mu natural farming must be supported with Mu
+value of agriculture. Mu [[cho-loess-powder-in-natural-farming]] must be supported with Mu
 economics and Mu government.
 In a nation of small farmers, some consignment farming, sharecropping,
 or cooperative cultivation might arise, but trade would be limited to
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: Peruvian Drug War and Ayahuasca Acceptance
+title: Peruvian mckenna-drug-war-and-human-freedom and Ayahuasca Acceptance
 created: 2026-04-28
 tags: [ayahuasca, peru, drug-policy, legalization, shamanism]
 date: 2026-04-28
@@ -11,7 +11,7 @@ type: concept
 
 # Peruvian Drug War and Ayahuasca Acceptance
 
-Peru occupies a unique position in global drug policy, simultaneously
+Peru occupies a unique position in global [[mckenna-modest-proposal-drug-policy-reform]], simultaneously
 waging an aggressive war against cocaine trafficking while fully
 embracing ayahuasca as a legitimate cultural and spiritual practice.
 This paradox reveals fundamental differences between Peruvian and
@@ -57,7 +57,7 @@ President Toledo's participation in an ayahuasca ceremony represents
 the highest level of institutional acceptance. When a sitting head of
 state publicly engages in an indigenous shamanic ritual, it signals
 that ayahuasca is actively embraced rather than merely tolerated.
-This stands in stark contrast to the United States, where DMT is
+This stands in stark contrast to the [[dmt-containing-plants-united-states-halpern]], where DMT is
 classified as a Schedule I substance with no accepted medical use.
 
 Peruvians generally regard ayahuasca as an herbal tonic rather than
@@ -87,7 +87,7 @@ States classifies substances by pharmacological properties and abuse
 potential, Peru classifies them by cultural context, traditional use,
 and social function.
 
-Coca leaf maintains legal status for traditional uses despite being
+Coca leaf maintains [[ayahuasca-tourism-legal-status-by-country]] for traditional uses despite being
 cocaine's precursor. Ayahuasca is openly consumed despite containing
 DMT. The distinction is not between "dangerous" and "safe" substances
 but between traditional cultural practices and industrial drug
@@ -96,7 +96,7 @@ trafficking.
 This cultural logic creates space for indigenous and mestizo
 communities to maintain relationships with psychoactive plants without
 the stigma and criminalization prevalent in Western contexts. It also
-enables ayahuasca tourism as a legitimate industry.
+enables [[stuart-r-ayahuasca-tourism-cautionary-ethnography]] as a legitimate industry.
 
 ## Implications for Tourism
 

@@ -17,7 +17,7 @@ type: concept
 # Ergot Fungi Claviceps and Ergot Alkaloids
 
 ## [[ergot-fungus]], parasitic on grasses and cereals worldwide. Unlike
-the basidiomycete neurotropic fungi (mushrooms), Claviceps is an
+the basidiomycete [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] (mushrooms), Claviceps is an
 ascomycete that produces dark, hard sclerotia (ergots) in place of grain
 kernels in infected grass heads. The paper by Guzman, Allen, and Gartz
 includes C. purpurea in its catalog of neurotropic fungi due to the potent
@@ -56,7 +56,7 @@ into several structural groups:
 
 - **Lysergic acid amides**: Lysergic acid amide (LSA, also called
   ergine) and isolysergic acid amide are found in C. purpurea and
-  several morning glory species (Convolvulaceae). LSA is
+  several [[golden-guide-morning-glory-and-ololiuqui]] species (Convolvulaceae). LSA is
   approximately 1/10th as potent as LSD but produces qualitatively
   similar effects at appropriate doses.
 
@@ -82,9 +82,9 @@ trials of 1692, though this hypothesis remains debated.
 The most significant pharmacological legacy of ergot is the synthesis of
 lysergic acid diethylamide (LSD-25) by gordon-wasson at Sandoz
 Laboratories in 1938. LSD was first synthesized from ergotamine, an
-alkaloid produced by Claviceps purpurea. Hofmann's accidental discovery
+alkaloid produced by [[bloomfield-ergot-claviceps-purpurea-ergotism]]. Hofmann's accidental discovery
 of LSD's psychoactive properties in 1943 launched the modern era of
-psychedelic research and had enormous cultural consequences throughout
+[[mckenna-suppression-psychedelic-research-lsd-therapy]] and had enormous cultural consequences throughout
 the 20th century. All subsequent synthetic ergoline psychoactives are
 derived from or modeled on the ergot alkaloid framework.
 
@@ -112,10 +112,10 @@ serotonergic action of psilocybin.
 
 Claviceps purpurea is cosmopolitan, found wherever its host grasses grow.
 It is most common in cool, humid climates, particularly in rye-growing
-regions of Europe, Russia, and North America. C. paspali is tropical and
+regions of Europe, Russia, and [[psilocybin-north-america-pacific-northwest]]. C. paspali is tropical and
 subtropical. C. fusiformis is primarily African and South Asian. The
 genus as a whole demonstrates the broad ecological adaptability of
-ergot fungi across diverse climatic zones and grass hosts.
+ergot fungi across diverse [[permaculture-designers-manual-climatic-zones-tropical]] and grass hosts.
 
 ## See Also
 

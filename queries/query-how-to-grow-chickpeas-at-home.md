@@ -16,8 +16,8 @@ type: query
 ## Why Grow Chickpeas?
 
 - **High protein**: 19g protein per 100g cooked — among the highest of all garden legumes.
-- **Nitrogen fixation**: Form symbiotic relationships with rhizobia bacteria, fixing 30–60 lb N/acre for subsequent crops.
-- **Drought tolerant**: Once established, chickpeas require less water than most garden legumes.
+- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]**: Form symbiotic relationships with rhizobia bacteria, fixing 30–60 lb N/acre for subsequent crops.
+- **[[permplant-carob-drought-tolerant-food-tree]]**: Once established, chickpeas require less water than most garden legumes.
 - **Soil improvement**: Deep taproot breaks compaction; nitrogen fixation feeds the soil.
 - **Versatile in the kitchen**: Hummus, curries, salads, roasted snacks, falafel, flour.
 - **Good for crop rotation**: Breaks disease cycles for solanaceous and brassica crops.
@@ -31,7 +31,7 @@ type: query
 | **Season** | Spring planting; needs 90–100 days to maturity for dry beans |
 | **Day length** | Neutral to long-day for most varieties; short-day types exist for lower latitudes |
 | **Heat tolerance** | Poor — temperatures above 85°F (29°C) during flowering reduce pod set |
-| **Drought tolerance** | Good once established; deep taproot accesses subsoil moisture |
+| **[[dighton-fungal-drought-tolerance-plant-water-relations]]** | Good once established; deep taproot accesses subsoil moisture |
 
 ## Site Selection and Soil
 
@@ -72,7 +72,7 @@ Chickpeas do not transplant well — direct seeding is strongly preferred.
 - **Establishment**: Once plants are 4–6 inches tall, reduce watering. Chickpeas are among the most drought-tolerant garden legumes.
 - **Flowering and pod fill**: Provide consistent moisture (1 inch per week) during flowering and pod development. Drought stress during this period reduces yield significantly.
 - **Drying down**: Stop watering 2–3 weeks before harvest for dry beans to allow pods to dry on the plant.
-- **Avoid overhead watering**: Wet foliage promotes ascochyta blight and other fungal diseases. Drip irrigation or soaker hoses are preferred.
+- **Avoid overhead watering**: Wet foliage promotes ascochyta blight and other fungal diseases. [[comparison-drip-irrigation-vs-passive-irrigation]] or soaker hoses are preferred.
 
 ## Fertilization
 
@@ -82,7 +82,7 @@ Chickpeas need minimal nitrogen fertilizer when properly inoculated — that's t
 - **Phosphorus**: If a soil test indicates deficiency, add rock phosphate or bone meal at planting.
 - **Potassium**: Greensand or kelp meal if deficient.
 - **Nitrogen**: Do NOT add nitrogen fertilizer unless plants show clear deficiency symptoms (pale, stunted growth) after 4–6 weeks, which indicates inoculation failure.
-- **Micronutrients**: Chickpeas are sensitive to boron deficiency. If your soil is boron-deficient, a light application of borax (1 tablespoon per 100 sq ft) can help.
+- **Micronutrients**: Chickpeas are sensitive to [[query-how-to-fix-boron-deficiency-in-cannabis]]. If your soil is boron-deficient, a light application of borax (1 tablespoon per 100 sq ft) can help.
 
 ## Pest Management
 
@@ -98,7 +98,7 @@ Chickpeas need minimal nitrogen fertilizer when properly inoculated — that's t
 
 ### Common Diseases
 
-- **Ascochyta blight**: Brown lesions on leaves, stems, pods. Use certified seed; avoid overhead watering; good air circulation.
+- **Ascochyta blight**: Brown lesions on leaves, stems, pods. Use certified seed; avoid overhead watering; good [[stamets-growing-room-air-circulation-co2-management]].
 - **Fusarium wilt**: Yellowing, wilting from lower leaves. Crop rotation (4+ years); resistant varieties.
 - **Root rot**: Stunting, dark roots, plant collapse. Ensure well-drained soil; avoid overwatering.
 - **Botrytis gray mold**: Gray fuzzy growth on pods. Good air circulation; remove infected plants.
@@ -142,7 +142,6 @@ Chickpeas fix 30–60 lb N/acre and break subsoil compaction with a 3–4 foot t
 | **Harvest** | 90–110 days for dry; 60–70 days for green |
 | **Yield** | 1–3 lb dry chickpeas per 10-foot row |
 | **Rotation** | 4+ years between chickpea plantings |
-
 ## See Also
 
 ## See Also

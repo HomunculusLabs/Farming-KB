@@ -3,8 +3,9 @@ title: "Molecular Methods In Situ Fungal Diversity Monitoring"
 created: 2026-05-02
 updated: 2026-05-02
 type: concept
-tags: [[fungal-ecology]], mycology, research-methods]
-sources: []
+tags: [fungal ecology], mycology, research-methods]
+sources:
+  sources: []
 ---
 ---
 title: Molecular Methods for In-Situ growing gourmet global Monitoring
@@ -77,10 +78,10 @@ Key features of apPCR for fungal applications:
 
 ## Dual-Primer and Nested-Primer PCR
 
-More targeted genetic improvement agaricus include:
+More targeted genetic [[genetic-improvement-agaricus-bisporus-molecular-approaches]] include:
 
 - **Dual-primer PCR (dpPCR)**: Uses two specific primers to amplify a
-  defined region of fungal DNA, providing higher specificity than
+  defined region of [[fungal-dna-barcoding]], providing higher specificity than
   arbitrarily primed methods
 - **Nested-primer PCR (npPCR)**: Uses two rounds of amplification
   with nested primer sets, dramatically increasing sensitivity for
@@ -105,7 +106,7 @@ studies:
   broad taxonomic placement) and variable regions (for species-level
   discrimination)
 - Direct sequencing of PCR-generated amplicons has enabled rapid
-  assessment of mycorrhizal effects plant
+  assessment of [[dighton-aboveground-herbivory-mycorrhizal-effects]] plant
 
 ## Nuclear and Mitochondrial Genome Analysis
 
@@ -116,7 +117,7 @@ Two compartmentalized pools of DNA provide complementary information:
   between closely related species
 - **Nuclear DNA**: Very large genomes (1.5 x 10(7) to 820 x 10(7)
   bp), containing thousands of genetic loci; excellent for measuring
-  genetic diversity and deriving molecular fingerprints
+  [[biodiversity-fungal-genetic-diversity]] and deriving molecular fingerprints
 
 Nuclear genomes contain both single-copy and repetitive DNA, making
 them macromolecules well suited for measuring genetic diversity and
@@ -124,7 +125,7 @@ deriving molecular fingerprints for taxonomic purposes.
 
 ## Advantages for Conservation and Monitoring
 
-Molecular methods offer several advantages for fungal conservation
+Molecular methods offer several advantages for [[fungal-conservation-biology]]
 monitoring:
 
 - **Minimal impact**: PCR allows extensive genetic analysis from very
@@ -139,13 +140,10 @@ monitoring:
   population changes over time at specific sites
 
 ## Monitoring Species in Complex Substrata
-
-Molecular methods are particularly valuable for monitoring fungi in
-complex substrata such as soil, wood, and plant roots where
-traditional methods fail:
 ## See Also
 - [[microfungal-biodiversity-ecology-wood-debris-sampling]]
 
 ## See Also
 
 - [[molecular-methods-fungal-taxonomy-and-diversity]]
+- [[molecular-methods-fungal-diversity]]

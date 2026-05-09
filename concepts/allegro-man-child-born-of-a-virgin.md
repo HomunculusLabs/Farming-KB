@@ -10,7 +10,7 @@ sources:
 
 # Man-Child Born of a Virgin — Mushroom Parthenogenesis
 
-A central pillar of Allegro's thesis is that the Christian doctrine of the virgin birth, far from being unique to Christianity, derives directly from ancient observations of the mushroom's growth cycle. The Amanita muscaria, emerging from its volva without visible seed, was the original "man-child born of a virgin."
+A central pillar of Allegro's thesis is that the Christian doctrine of the virgin birth, far from being unique to Christianity, derives directly from ancient observations of the mushroom's growth cycle. The [[allegro-amanita-muscaria-properties-and-pharmacology]], emerging from its volva without visible seed, was the original "man-child born of a virgin."
 
 ## Pliny on Mushroom Birth
 
@@ -20,7 +20,7 @@ Of the Amanita phalloides, a mycologist notes: "Before the volva breaks the fung
 
 ## The Mystery of Seedless Generation
 
-It was the fertilization of the "womb" that most puzzled the ancients, remaining a mystery until the end of the nineteenth century. To Pliny the fungus had to be reckoned among "the greatest of the marvels of nature," since it "belonged to a class of things that spring up spontaneously and cannot be grown from seed." It was "among the most wonderful of all things" in that it could "spring up and live without a root."
+It was the fertilization of the "womb" that most puzzled the ancients, remaining a mystery until the end of the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]]. To Pliny the fungus had to be reckoned among "the greatest of the marvels of nature," since it "belonged to a class of things that spring up spontaneously and cannot be grown from seed." It was "among the most wonderful of all things" in that it could "spring up and live without a root."
 
 Until the invention of the microscope, the function of the spore could not be appreciated. The mushroom has no seed in the accepted sense. The result is neither animal nor vegetable, and the mystery of its classification persisted until relatively modern times. A sixteenth-century naturalist wrote: "They are a sort of intermediate existence between plants and inanimate nature."
 
@@ -40,7 +40,7 @@ The slimy juice of the mushroom which, in some phalloidic species, spills over t
 
 ## Anointing with the Holy Plant
 
-To be rubbed with the "Holy Plant" was to receive divine knowledge. The Christian, the "smeared or anointed one," received "knowledge of all things" by his "anointing from the Holy One" (I John 2:20). The anointing oil contained myrrh, aromatic cane, cinnamon, and cassia — all representing the powerful semen of the god. The atmosphere of the oracular chamber was charged with incense consisting of "sweet spices, stacte, and onycha, and galbanum, sweet spices with pure frankincense" (Exod 30:34).
+To be rubbed with the "Holy Plant" was to receive divine knowledge. The Christian, the "smeared or anointed one," received "knowledge of all things" by his "anointing from the Holy One" (I John 2:20). The [[cannabis-anointing-oil-blessing-rituals]] contained myrrh, aromatic cane, cinnamon, and cassia — all representing the powerful semen of the god. The atmosphere of the oracular chamber was charged with incense consisting of "sweet spices, stacte, and onycha, and galbanum, sweet spices with pure frankincense" (Exod 30:34).
 
 ## Knowledge, Healing, and the Seed of Life
 
@@ -52,14 +52,14 @@ Embalming corpses with ointments and spices was not expected to halt decompositi
 
 ## Scholarly Significance and Criticism
 
-Allegro's interpretation of death and resurrection mythology as mushroom-derived remains one of the most contested aspects of [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
+Allegro's interpretation of [[allegro-death-and-resurrection-in-the-mushroom-cult]] mythology as mushroom-derived remains one of the most contested aspects of [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
 
 ## See Also
 
 - [[allegro-philological-methodology]]
 - [[allegro-fungal-iconography-in-ancient-art]]
-- [[controversy-sacred-mushroom-theory]]
-- [[sacred-mushroom-and-the-cross]], which proposed that the major religions of the ancient Near East and Mediterranean world were ultimately derived from a proto-historical mushroom cult. While this thesis has not gained acceptance in mainstream scholarship, it continues to be discussed in the field of entheogenic studies and has influenced contemporary debates about the role of psychoactive substances in the development of religious ideas.
+- controversy-sacred-mushroom-theory
+- [[sacred-mushroom-and-the-cross]], which proposed that the major religions of the [[allegro-fertility-philosophy-of-the-ancient-near-east]] East and Mediterranean world were ultimately derived from a proto-historical [[african-mushroom-cult-history]]. While this thesis has not gained acceptance in mainstream scholarship, it continues to be discussed in the field of entheogenic studies and has influenced contemporary debates about the role of psychoactive substances in the development of religious ideas.
 
 The question of whether ancient peoples used psychoactive mushrooms in religious contexts is separate from the question of whether Allegro's specific philological claims are correct. Archaeological evidence for psychoactive plant use in antiquity has grown substantially since Allegro's work was published, and the [[psychedelic-therapy-current-research]], has renewed interest in the historical relationship between psychoactive substances and religious experience. While Allegro's specific claims about Sumerian and Hebrew philology remain controversial, his broader argument that psychoactive plants played a significant role in the development of human religious consciousness has found new support from researchers investigating the neuroscience of mystical experience and the anthropology of shamanism.
 ## Practical Considerations
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: "Shamanic Singing, Icaros, and Rhythmic Entrainment in Entheogenic Ceremonies"
+title: "metzner shamanic singing icaros rhythm and entrainment, Icaros, and Rhythmic Entrainment in metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti"
 type: concept
 tags:
   - entheogens
@@ -24,12 +24,12 @@ sources:
 
 Shamanic singing is a nearly universal element of entheogenic ceremonies
 across cultures. The songs — known as icaros in the Amazon, peyote songs
-among the Native American Church, and ndzamba among the Bwiti — serve as
-both navigational guides through altered states and active agents in the
+among the [[halpern-sacramental-peyote-and-native-american-church]] Church, and ndzamba among the Bwiti — serve as
+both navigational guides through [[weil-the-natural-mind-altered-states-normalcy]] and active agents in the
 healing process itself.
 
 Ralph Metzner identified the continuous use of song as one of the key
-distinguishing features of shamanic entheogenic ceremonies, noting that
+distinguishing features of [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] ceremonies, noting that
 the rhythmic, percussive driving quality of the singing helps to sustain
 the altered state and deepen the experience.
 
@@ -122,7 +122,7 @@ sustaining entheogenic experience.
 
 ## Modern Applications
 
-Contemporary psychedelic therapy has begun to incorporate musical
+Contemporary [[metzner-psycholytic-psychedelic-therapy-models]] has begun to incorporate musical
 elements into clinical sessions, though the integration of active shamanic
 singing remains limited.
 
@@ -135,6 +135,8 @@ secular adaptation of an ancient technology that shamans refined over
 millennia.
 
 ## See Also
+
+- [[metzner-shamanic-darkness-and-low-light-ceremonial-design]]
 
 - [[metzner-four-paradigms-entheogenic-healing]]
 - [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]]

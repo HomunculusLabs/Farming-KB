@@ -1,5 +1,5 @@
 ---
-title: Teaming with Microbes: Algae, Slime Molds, and Their Roles
+title: Teaming with Microbes: Algae, bloomfield-slime-molds-myxomycetes-plasmodial-protists, and Their Roles
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -15,13 +15,13 @@ sources:
 
 Though often overlooked, algae and slime molds play supporting roles in the [[ozier-pdc-composting-and-soil-building]] for food. However, they lack the specialization of higher plants: no true roots, leaves, stems, or vascular system.
 
-Their role in the [[fungal-fungal-community-assembly]] on bare substrates. After algae establish the first thin soil layer, fungi and other organisms follow, building increasingly complex soil ecosystems over time.
+Their role in the fungal-fungal-community-assembly on bare substrates. After algae establish the first thin soil layer, fungi and other organisms follow, building increasingly complex soil ecosystems over time.
 
 ### Lichens: Algae-Fungi Symbiosis
 
 Lichens represent the symbiotic relationship between certain algae and fungi.
 
-The fungus provides a humid, protected environment for the alga; the alga provides photosynthesized food to the fungus. Together they accelerate rock weathering considerably. Lichens also contribute nitrogen to soil through their cyanobacterial partners.
+The fungus provides a humid, protected environment for the alga; the alga provides photosynthesized food to the fungus. Together they accelerate [[dighton-fungal-rock-weathering-mineral-dissolution]] considerably. Lichens also contribute nitrogen to soil through their cyanobacterial partners.
 
 Lichens are among the most resilient organisms on Earth, capable of surviving extreme temperatures, desiccation, and UV radiation. Their role in primary succession -- colonizing bare rock and beginning the process of soil formation -- makes them essential pioneers in [[ozier-pdc-composting-and-soil-building]] benefits significantly from cyanobacterial activity, particularly in flooded agricultural systems and in soils where other nitrogen-fixing organisms are limited.
 
@@ -59,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

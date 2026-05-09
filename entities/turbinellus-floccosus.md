@@ -13,10 +13,10 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Corner, E.J.H. (1966). A Monograph of Cantharellus and Allied Genera. J. Cramer."
-  - "Petersen, R.H. (1971). \"The genus Gomphus (Cantharellaceae) in North America.\"
+  - "Petersen, R.H. (1971). \"The genus Gomphus (Cantharellaceae) in [[psilocybin-north-america-pacific-northwest]].\"
     Nova Hedwigia, 21, 1–114."
   - "Buyck, B. et al. (2014). \"Turfungi of the African oak woodlands.\"
-    Fungal Diversity, 67(1), 1–36."
+    [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]], 67(1), 1–36."
   - "Yang, Z.L. (2005). \"Fungal diversity of tropical and subtropical China.\"
     Biodiversity and Conservation, 14, 697–707."
   - "Arora, D. (1986). Mushrooms Demystified. 2nd ed. Ten Speed Press."
@@ -29,7 +29,7 @@ sources:
 *Turbinellus floccosus* is a large, vase-shaped ectomycorrhizal fungus in the
 family Gomphaceae. Known commonly as the scaly chanterelle, woolly chanterelle,
 or pine cone mushroom, it is found in coniferous forests across North America,
-Central America, Europe, and Asia. The species forms mycorrhizal associations
+[[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], Europe, and Asia. The species forms mycorrhizal associations
 primarily with *Pinus* (pine) and occasionally with *Pseudotsuga* (Douglas-fir).
 
 Historically classified in *Gomphus* or *Cantharellus*, molecular phylogenetics
@@ -54,7 +54,7 @@ southern China.
 - *Gomphus floccosus* (Schwein.) Singer (1945) — widely used mid-20th century name
 - *Craterellus floccosus* (Schwein.) Quel. (1888)
 
-**Morphology — fruiting body:**
+**Morphology — [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]:**
 - **Cap:** 5–25 cm broad when mature, funnel-shaped to deeply vase-shaped;
   margin inrolled when young, becoming irregularly wavy with age
 - **Upper surface:** Dry, finely tomentose when young; developing coarse,
@@ -84,7 +84,7 @@ southern China.
 - Ectomycorrhizal, forming obligate associations with conifers
 - Primary hosts: *Pinus ponderosa*, *P. lambertiana*, *P. jeffreyi* (western
   NA); *Pinus hartwegii* (Mexico); *Pinus sylvestris* (Europe); *P. yunnanensis*
-- Fruiting singly or scattered on forest floor, often in needle litter
+- Fruiting singly or scattered on forest floor, often in [[dighton-pine-needle-litter-decomposition-fungal-succession]]
 - Season: July–October (northern hemisphere); post-monsoon in Himalayas
 - Elevation: 1,500–3,500 m (Asia); 500–2,500 m (North America)
 
@@ -141,4 +141,4 @@ cooking) and not alcohol-soluble, suggesting a peptide or labile terpenoid.
 - [[tangerine-dream]]
 - [[trametes-versicolor-entity]] — Polypore with well-characterized medicinal properties
 - [[polyporus-umbellatus]] — Ectomycorrhizal fungus of Asian coniferous forests
-- [[lentinula-edodes]] — Cultivated edible mushroom for culinary comparison
+- [[lentinula-edodes]] — Cultivated [[bloomfield-boletus-satanus-edible-mushroom-hazards]] for culinary comparison

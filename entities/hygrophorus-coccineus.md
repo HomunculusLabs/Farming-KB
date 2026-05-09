@@ -80,7 +80,7 @@ The species is relatively uncommon and local in most of its range, so collection
 
 Limited pharmacological investigation has been conducted on *H. coccineus*. Extracts from related *Hygrophorus* species have demonstrated antimicrobial and antioxidant properties, suggesting similar potential in this species.
 
-The vivid red pigmentation of the cap is due to carotenoid compounds, primarily beta-carotene and related xanthophylls. These pigments have documented antioxidant activity and may contribute to the mushroom's ecological interactions with fungivorous organisms.
+The vivid red pigmentation of the cap is due to carotenoid compounds, primarily beta-carotene and related xanthophylls. These pigments have documented antioxidant activity and may contribute to the mushroom's [[king-stropharia-ecological-interactions-permaculture]] with fungivorous organisms.
 
 Some *Hygrophorus* species produce fatty acid derivatives with antifungal properties that help defend the fruiting body against competing microorganisms. Similar compounds may be present in *H. coccineus* but have not been specifically characterized.
 
@@ -88,13 +88,13 @@ Some *Hygrophorus* species produce fatty acid derivatives with antifungal proper
 
 As an ectomycorrhizal species, *H. coccineus* forms mutualistic associations with the fine root systems of coniferous trees. The fungal mycelium extends the effective absorptive surface area of host roots, facilitating enhanced uptake of water, phosphorus, and micronutrients from the soil.
 
-In return, the host tree supplies the fungus with photosynthetically derived carbon compounds, primarily as glucose and fructose. This exchange is fundamental to forest nutrient cycling and tree health, particularly in nutrient-poor acidic soils.
+In return, the host tree supplies the fungus with photosynthetically derived carbon compounds, primarily as glucose and fructose. This exchange is fundamental to forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and tree health, particularly in nutrient-poor acidic soils.
 
-H. coccineus may play a role in maintaining soil aggregation and structure in coniferous forest floors through hyphal network development and organic matter decomposition of the mycorrhizosphere.
+H. coccineus may play a role in maintaining soil aggregation and structure in coniferous forest floors through hyphal network development and [[hamilton-composting-and-organic-matter-management]] decomposition of the mycorrhizosphere.
 
-The species appears to be sensitive to nitrogen deposition and atmospheric pollution, showing reduced fruiting frequency in forests subjected to high levels of anthropogenic nitrogen input. This sensitivity has been documented across multiple European forest monitoring programs.
+The species appears to be sensitive to [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] and atmospheric pollution, showing reduced fruiting frequency in forests subjected to high levels of anthropogenic nitrogen input. This sensitivity has been documented across multiple European forest monitoring programs.
 
-In permaculture and forest garden design, *H. coccineus* could serve as an indicator species for healthy coniferous mycorrhizal networks. Its presence suggests functioning ectomycorrhizal communities that benefit associated trees and understory plants through shared nutrient pathways.
+In permaculture and forest garden design, *H. coccineus* could serve as an indicator species for healthy coniferous [[dighton-mycorrhizal-networks-carbon-transfer]]. Its presence suggests functioning ectomycorrhizal communities that benefit associated trees and understory plants through shared nutrient pathways.
 
 ## Similar Species
 
@@ -112,4 +112,4 @@ The key field distinction between *H. coccineus* and the superficially similar *
 - `[[laccaria-amethystina]]` — Ectomycorrhizal agaric sharing similar habitat and season
 - `[[suillus-luteus]]` — Conifer-associated mycorrhizal mushroom with overlapping range
 - `[[boletus-edulis-entity]]` — Iconic mycorrhizal mushroom of conifer and hardwood forests
-- `[[amanita-jacksonii]]` — Red-capped edible mushroom for comparison of identification features
+- `[[amanita-jacksonii]]` — Red-capped [[bloomfield-boletus-satanus-edible-mushroom-hazards]] for comparison of identification features

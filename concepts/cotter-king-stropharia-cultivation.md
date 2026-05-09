@@ -1,5 +1,5 @@
 ---
-title: "King Stropharia Cultivation"
+title: "cotter king stropharia cultivation Cultivation"
 created: 2026-04-28
 tags: [king-stropharia, wine-cap, garden-giant, wood-chips, outdoor-cultivation]
 date: 2026-04-25
@@ -12,7 +12,7 @@ type: concept
 # King Stropharia Cultivation
 
 King stropharia (Stropharia rugoso-annulata), also known as the wine cap or
-garden giant, is one of the top three mushrooms for beginners alongside oysters
+garden giant, is one of the top three [[query-what-are-the-best-mushrooms-for-beginners-to-grow]] alongside oysters
 and shiitakes. This easy-to-grow, easy-to-identify species thrives on hardwood
 chips and agricultural by-products, producing massive flushes in outdoor beds.
 Its sweet-smelling mycelium and resilience make it ideal for gardens,
@@ -25,13 +25,13 @@ on overcolonized substrates with a characteristically sweet smell. The cap is
 tan to dark burgundy, centered on the stem, with smaller buttons being darker
 and more firm. As mushrooms mature, pigments spread and the cap lightens to
 reddish brown. The spore print is dark purple-black. Wild strains are easily
-collected and cloned or propagated through spore germination, and they are
+collected and cloned or propagated through [[growing-gourmet-spore-germination-strain-isolation]], and they are
 highly aggressive saprophytes adapted to diverse substrates from beauty bark
 to composting grasses.
 
 This mushroom is resilient to drier conditions and needs only minimal misting
 even during primordial formation. Saturating outdoor beds is critical to timing
-of primordia formation, and more abundant fruitings result from careful
+of [[growing-gourmet-primordia-formation-pinning]], and more abundant fruitings result from careful
 observation of watering schedules. Reduce watering as mushrooms mature since
 larger specimens rot quickly, with the cap liquefying if kept too wet. Harvest
 at mid-button stage as the cap separates from the stem for firm, bug-free
@@ -59,7 +59,7 @@ flush as mycelium redirects energy to colonizing new substrate.
 
 Step-by-step: build a frame from 6 to 8 inch diameter hardwood logs (which can
 also be inoculated with log-loving species). Cover the area with saturated
-cardboard, sprinkle sawdust spawn in small islands, add 2 to 3 inches of fresh
+cardboard, sprinkle [[growing-gourmet-sawdust-spawn-production-use]] in small islands, add 2 to 3 inches of fresh
 hardwood chips, scatter more spawn, rake and pack down, cover with cardboard
 or newspaper, and repeat until 6 to 8 inches deep. Top with 1 to 2 inches of
 straw or leaves for moisture retention and shade.
@@ -93,7 +93,7 @@ in a jar in the refrigerator for months.
 
 In the laboratory, this genus clones easily from cap tissue (stem tissue is
 stringy and less reliable). Spore germinations are very reliable. Commercial
-spawn is usually available as supplemented sawdust; grain spawn exists but is
+spawn is usually available as [[oyster-mushroom-supplemented-sawdust-blocks]]; grain spawn exists but is
 hard to find. For maximum yields outdoors, use supplemented sawdust spawn at
 generous inoculation rates. Expect approximately 20 pounds of fresh mushrooms
 per cubic yard of wood chips, with more if chips are mixed with agricultural
@@ -130,4 +130,7 @@ water quality concerns.
 
 - [[cotter-outdoor-mushroom-garden-mulch-beds]]
 - [[cotter-mycoremediation-techniques]]
-- [[cotter-seven-stages-of-mushroom-cultivation]]
+- cotter-seven-stages-of-mushroom-cultivation
+- [[mycoremediation]]
+- [[growing-gourmet-king-stropharia-cultivation]]
+- [[cotter-reishi-ganoderma-cultivation]]

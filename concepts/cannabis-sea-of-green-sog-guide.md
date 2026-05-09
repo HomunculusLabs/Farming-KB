@@ -1,5 +1,5 @@
 ---
-title: Cannabis Sea of Green (SOG) Technique
+title: Cannabis comparison-sea-of-green-vs-screen-of-green (SOG) Technique
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Cannabis Grow Bible, Greg Green (Ch. 9)
+Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, Greg Green (Ch. 9)
 
 Sea of Green (SOG) is a growing technique that maximizes yield per unit of time and space by cultivating many small plants with short vegetative periods. The grow space becomes a dense "sea" of green bud tops.
 
@@ -21,7 +21,7 @@ Instead of growing fewer large plants over a long period, SOG grows many small p
 ## How SOG Works
 
 1. **Many plants**: Fill the grow space with a high number of plants (1 plant per 1–2 square feet, or even more densely)
-2. **Minimal vegetative time**: Plants are flowered after just 2–3 weeks of vegetative growth (or when they have 4–6 nodes)
+2. **Minimal vegetative time**: Plants are flowered after just 2–3 weeks of [[cannabis-vegetative-growth-stage]] (or when they have 4–6 nodes)
 3. **Single cola focus**: Each plant develops primarily one main bud (the apical cola) with minimal side branching
 4. **Even canopy**: All plants are roughly the same height, creating a uniform canopy
 5. **Fast turnover**: Multiple harvests per year are possible due to short total cycle time
@@ -30,7 +30,7 @@ Instead of growing fewer large plants over a long period, SOG grows many small p
 
 - **Faster harvests**: Short vegetative period means faster crop cycles
 - **High yield per time**: Multiple fast harvests can produce more annually than fewer large-plant cycles
-- **Efficient use of space**: Maximizes production per square foot
+- **Efficient use of space**: Maximizes production per [[comparison-biointensive-vs-square-foot-gardening]]
 - **Efficient use of light**: An even canopy ensures all light reaches bud sites
 - **Simplified training**: No complex training required — just grow and flip
 - **Good for indica-dominant strains**: Naturally compact plants work well in SOG

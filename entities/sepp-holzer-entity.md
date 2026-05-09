@@ -42,9 +42,9 @@ Holzer has conducted consulting and demonstration projects worldwide, including 
 
 Holzer's approach is rooted in observation of natural systems rather than adherence to a formal design framework.
 
-**Key principle — no plowing:** Holzer argues that tilling destroys soil structure, mycorrhizal networks, and microbial communities. He practices no-till seeding and mulching exclusively.
+**Key principle — no plowing:** Holzer argues that tilling destroys soil structure, [[dighton-mycorrhizal-networks-carbon-transfer]], and microbial communities. He practices no-till seeding and mulching exclusively.
 
-**Terraced earthworks:** He constructs contour terraces, swales, and retention ponds to manage water, prevent erosion, and create microclimates on steep slopes.
+**Terraced earthworks:** He constructs contour terraces, swales, and retention ponds to manage water, prevent erosion, and [[query-how-do-i-create-microclimates-in-my-garden]] on steep slopes.
 
 **Raised bed systems:** Large raised beds (2–5 m wide, 1–2 m tall) using hugelkultur principles (buried wood), stone, and organic material create deep, self-fertilizing soil profiles.
 
@@ -56,7 +56,7 @@ Holzer's approach is rooted in observation of natural systems rather than adhere
 
 The Krameterhof is a 45-hectare farm at 1,100–1,500 m elevation in the Austrian Alps, a climate conventionally considered marginal for agriculture.
 
-Holzer cultivates stone fruits (peaches, apricots, cherries), grapes, kiwis, and Mediterranean herbs at altitudes far above their usual range by exploiting microclimates created by stone terraces and water bodies.
+Holzer cultivates stone fruits (peaches, apricots, cherries), grapes, kiwis, and [[query-best-mediterranean-herbs-for-beginner-herb-garden]] at altitudes far above their usual range by exploiting microclimates created by stone terraces and water bodies.
 
 The farm includes over 70 ponds and lakes of varying sizes, interconnected to regulate water flow, provide irrigation, and support fish and duck production.
 
@@ -84,9 +84,9 @@ He emphasizes that risk is distributed across dozens of species rather than conc
 
 **Tuva Republic, Russia:** Restoration of degraded steppe land using Holzer's pond-terrace systems, converting barren terrain to productive agriculture over a multi-year period.
 
-**Thailand:** Permaculture demonstration projects incorporating rice paddies with aquaculture and fruit tree integration, adapted for tropical monsoon conditions.
+**Thailand:** [[holmgren-melliodora-permaculture-demonstration-site-hepburn-springs]] projects incorporating rice paddies with aquaculture and fruit tree integration, adapted for tropical monsoon conditions.
 
-**Portugal:** Reforestation and water management on degraded, fire-prone landscapes using earthworks and succession planting.
+**Portugal:** Reforestation and water management on degraded, fire-prone landscapes using earthworks and [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]].
 
 **Colombia:** Urban permaculture and food forest establishment in tropical highland environments near Bogotá.
 
@@ -104,7 +104,7 @@ Holzer has authored several influential books, published primarily in German wit
 
 **"Desert or Paradise"** (2012) — focused on water management and landscape restoration in arid and degraded environments.
 
-**"Holzer Happiness"** (2014) — autobiographical reflections on farming philosophy and personal relationship with the land.
+**"Holzer Happiness"** (2014) — autobiographical reflections on [[cho-natural-farming-philosophy-of-non-interference]] and personal relationship with the land.
 
 ## Influence and Legacy
 
@@ -115,3 +115,7 @@ His approach is more practical and less systematically codified, emphasizing ind
 [[geoff-lawton]] — Australian permaculture designer who builds on Holzer's water management techniques
 - [[david-holmgren]] — Co-originator emphasizing permaculture principles and peri-urban applications
 - [[ben-falk]] — Vermont-based permaculture designer applying Holzer-inspired earthwork strategies in cold climates
+
+## See Also
+
+- [[darren-doherty]]

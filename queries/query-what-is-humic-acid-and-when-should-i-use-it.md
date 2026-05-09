@@ -5,7 +5,7 @@ tags: [query, soil-science, organic-farming, soil-amendments, cannabis]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 type: query
 ---
 
@@ -13,7 +13,7 @@ type: query
 
 ## Short Answer
 
-Humic acid is an organic compound derived from decomposed plant and animal matter that improves soil structure, enhances nutrient availability, and stimulates microbial activity. It is most beneficial in degraded or compacted soils, in hydroponic systems where biological activity is limited, and as a chelating agent to keep micronutrients available for plant uptake.
+Humic acid is an [[plant-olfaction-volatile-organic-compound-signaling]] derived from decomposed plant and animal matter that improves soil structure, enhances [[ph-and-nutrient-availability-garden-soils]], and stimulates microbial activity. It is most beneficial in degraded or compacted soils, in hydroponic systems where biological activity is limited, and as a chelating agent to keep micronutrients available for plant uptake.
 
 ## What Humic Acid Actually Is
 
@@ -50,7 +50,7 @@ It is particularly useful during transitions between growth phases when nutrient
 
 ## Humic Acid vs Fulvic Acid
 
-While often sold together, humic and fulvic acids serve different functions:
+While often sold together, [[teaming-with-microbes-humic-and-fulvic-acids]] acids serve different functions:
 
 **Humic acid:**
 - Larger molecular weight and more complex structure
@@ -66,7 +66,7 @@ While often sold together, humic and fulvic acids serve different functions:
 
 The [[biochar-in-agriculture]]:** Pre-charge biochar with humic acid to enhance its effectiveness
 - **Compost tea:** Serves as a food source for the microorganisms being brewed
-- **Mycorrhizal inoculants:** Improves colonization rates when combined with fungal inoculants
+- **[[pgpr-mycorrhizal-inoculants-microplant-establishment]]:** Improves colonization rates when combined with fungal inoculants
 - **Mineral amendments:** Keeps nutrients from rock dusts and phosphate in plant-available forms longer
 - **Worm castings:** Enhances the biological activity already present in vermicompost
 
@@ -77,13 +77,13 @@ Humic acid provides the greatest benefit in specific situations:
 - New gardens with low organic matter and poor soil structure
 - Compacted or degraded soils needing rehabilitation
 - Hydroponic systems where natural humic substances are absent
-- Cannabis plants showing micronutrient deficiency symptoms despite adequate fertilization
+- Cannabis plants showing [[cervantes-micronutrient-deficiency-chelation]] symptoms despite adequate fertilization
 - Soils with high pH where iron and other micronutrients become unavailable
 
 ## Key Points
 
 - Humic acid is a natural chelator that keeps micronutrients available for plant uptake
-- It improves soil structure by promoting aggregate formation in both clay and sandy soils
+- It improves soil structure by promoting [[soil-aggregate-formation-fungal-contributions]] in both clay and sandy soils
 - [[soil-food-web]] activity and pairs well with biochar and compost tea
 
 ## Related Questions

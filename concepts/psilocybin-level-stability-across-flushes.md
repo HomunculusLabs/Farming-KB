@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Level Stability Across Flushes in Psilocybe Cubensis
+title: Psilocybin Level psilocybin level stability across flushes Flushes in brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting
 tags:
   - psilocybin
   - psilocybin-stability
@@ -34,7 +34,7 @@ content actually increases across the flush cycle. See [[psilocybin-biosynthesis
 
 2. The accumulation of psilocin likely reflects progressive dephosphorylation of psilocybin over time, mediated by phosphatase enzymes whose activity increases as the mycelium ages or as substrate nutrients are depleted and the organism shifts metabolic priorities.
 
-3. Alternatively, the two compounds may be independently regulated, with psilocybin synthesis maintaining homeostatic levels while psilocin synthesis ramps up independently through a different branch of the tryptamine biosynthetic pathway.
+3. Alternatively, the two compounds may be independently regulated, with [[psilocin-psilocybin-synthesis-shirota]] maintaining homeostatic levels while [[acetylation-protection-psilocin-synthesis-4-hydroxyindole]] ramps up independently through a different branch of the tryptamine biosynthetic pathway.
 
 The data alone cannot distinguish between these mechanisms, but the pattern is consistent and reproducible across three independent
 cultures, suggesting a robust biological phenomenon rather than a stochastic artifact.
@@ -52,7 +52,7 @@ material.
 Since psilocybin content does not systematically decline with flush number, cultivators should not assume that later flushes are necessarily
 weaker in psilocybin. The total alkaloid profile does shift however, as psilocin increases substantially in later flushes. The combined
 psilocybin plus psilocin content may actually peak at flushes 3 through 4, even though psilocybin alone remains relatively stable. This has
-implications for harvest timing decisions and for maximizing total tryptamine yield from a given culture. Cultivators who discard later
+implications for [[cannabis-harvest-timing-visual-cues]] decisions and for maximizing total tryptamine yield from a given culture. Cultivators who discard later
 flushes as weak may be throwing away material with higher total alkaloid content than their first flush produced.
 
 ## Related Concepts
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

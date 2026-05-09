@@ -1,6 +1,6 @@
 ---
 
-title: JADAM Fertilizer Program
+title: JADAM jadam-fertilizer-program-design
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -22,7 +22,7 @@ sources:
 
 # JADAM Fertilizer Program
 
-JADAM rejects the conventional approach of dividing growth into N-P-K stages and applying different fertilizers for each. Instead, use wild grass and crop residue JLF (GC-JLF) throughout the entire season -- it already contains the optimal nutritional balance. The real focus is on JMS soil foundation before planting.
+JADAM rejects the conventional approach of dividing growth into N-P-K stages and applying different fertilizers for each. Instead, use wild grass and [[jadam-crop-residue-fertilizer]] JLF (GC-JLF) throughout the entire season -- it already contains the optimal [[jadam-nutritional-balance-fertilizer]]. The real focus is on JMS soil foundation before planting.
 
 ## Core Principle
 
@@ -66,7 +66,7 @@ Same as basic + add:
 ### 5. Reproductive Growth Promoter (Weak Flowering/Fruiting)
 
 Same as basic + add:
-- Calcium phosphate JLF: 60L
+- [[bionutrients-lab-calcium-phosphate-calamansi]] JLF: 60L
 
 ### 6. Fruit Growth Promoter (Fruit Development)
 
@@ -100,11 +100,11 @@ To control excessive growth: remove potassium JLF, increase calcium JLF.
 
 **Spring**: Prepare JLF containers, apply soil foundation builder, begin basic additional fertilizer program
 
-**Summer**: Peak growth -- apply basic additional fertilizer 3-4x/month, increase JLF if growth is slow, pest control intensifies
+**Summer**: Peak growth -- apply basic additional fertilizer 3-4x/month, increase JLF if growth is slow, [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] intensifies
 
 **Autumn**: Continue fertilizer through harvest, prepare JLF for next year (fill containers now, age through winter)
 
-**Winter**: JLF ages in containers, apply dormant spray on fruit trees (JWA 10L + JS 5L + clay 2kg)
+**Winter**: JLF ages in containers, apply dormant spray on [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] (JWA 10L + JS 5L + clay 2kg)
 
 ## Foliar Application Notes
 

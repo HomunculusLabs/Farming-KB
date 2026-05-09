@@ -12,7 +12,7 @@ sources: []
 ## Overview
 
 Hawthorn is a genus of deciduous trees and large shrubs in the rose family,
-widely distributed across North America, Europe, and Asia. Revered as a
+widely distributed across [[psilocybin-north-america-pacific-northwest]], Europe, and Asia. Revered as a
 heart tonic in European [[herbal-medicine|herbal medicine]] for centuries (referenced by
 Dioscorides in the 1st century AD), hawthorn berries, leaves, and flowers
 are among the most important cardiovascular herbs in modern herbal practice.
@@ -35,10 +35,10 @@ Common species for cultivation:
   medicinal properties
 - C. laevigata (Midland hawthorn): European species, often used in herbal
   medicine
-- C. phaenopyrum (Washington hawthorn): North American native, ornamental,
+- C. phaenopyrum (Washington hawthorn): [[growing-gourmet-north-american-reishi-species]] native, ornamental,
   good fruit production
 - C. douglasii (Douglas hawthorn): Western North American native
-- C. crus-galli (Cockspur hawthorn): Eastern North America, large thorns
+- C. crus-galli (Cockspur hawthorn): [[polypore-fungi-eastern-north-america]] America, large thorns
 
 ## Medicinal Uses
 
@@ -48,7 +48,7 @@ rutin, vitexin), and triterpenoid acids.
 
 Key medicinal applications:
 
-- Heart failure support: The most well-researched use. Clinical trials and
+- Heart failure support: The most well-researched use. [[mushroom-cancer-clinical-trials-overview]] and
   meta-analyses show hawthorn improves symptoms of mild to moderate
   congestive heart failure (NYHA class I-II), including exercise tolerance,
   shortness of breath, and fatigue. Effects develop gradually over weeks to
@@ -87,7 +87,7 @@ Preparation methods:
 Hawthorns are adaptable and hardy. They prefer full sun but tolerate partial
 shade. Soil requirements are minimal -- they grow in clay, loam, sandy, and
 even rocky soils. Best growth occurs in deep, well-drained loam with a pH
-of 6.0-7.5. Excellent drought tolerance once established. Wind-resistant
+of 6.0-7.5. Excellent [[dighton-fungal-drought-tolerance-plant-water-relations]] once established. Wind-resistant
 and suitable for hedgerows and windbreaks.
 
 ### Planting
@@ -112,7 +112,7 @@ Hawthorns tolerate heavy pruning and are excellent candidates for hedgerows:
 - Prune in late winter or early spring while dormant
 - Remove dead, diseased, or crossing branches
 - For hedges, shear to desired shape after flowering
-- For specimen trees, maintain a central leader and remove lower branches
+- For specimen trees, maintain a [[comparison-central-leader-vs-open-center-fruit-tree-training]] and remove lower branches
   gradually to expose the trunk if desired
 - Wear heavy gloves -- most hawthorns have sharp thorns (1-3 inches)
 - Fruit is produced on short spurs on 2+ year old wood; avoid removing all
@@ -141,32 +141,6 @@ Tincture:
 - Combine dried berries with alcohol (1:5 ratio, 45-60% alcohol)
 - Macerate for 4-6 weeks, shaking daily
 - Strain and bottle in amber glass
-
-Hawthorn vinegar:
-- Fill a jar with dried berries
-- Cover with apple cider vinegar
-- Steep 4-6 weeks in a cool, dark place
-- Strain and bottle; use as a daily tonic (1 tablespoon in water)
-
-## Pests and Diseases
-
-- Cedar-hawthorn rust: Requires nearby juniper to complete lifecycle. Remove
-  nearby junipers or use resistant varieties.
-- Fire blight: Can affect hawthorns; prune out affected branches well below
-  the infection.
-- Aphids: Occasionally affect new growth; generally not serious.
-- Borers: Rare in healthy, well-maintained trees.
-- Birds: Birds relish the berries; netting may be needed for a serious harvest.
-
-## Additional Uses
-
-- Windbreaks: Dense, thorny growth makes excellent windbreaks and livestock
-  barriers
-- Wildlife habitat: Provides food and nesting sites for birds
-- Pollinator plant: Spring flowers attract bees and other pollinators
-- [[edible-landscaping|Edible landscaping]]: Attractive in all seasons (flowers, berries, fall color)
-- Living fence: Thorny branches create an impenetrable hedge
-
 ## See Also
 
 - [[elderberry-growing-guide]] -- pair with hawthorn berries in cardiovascular

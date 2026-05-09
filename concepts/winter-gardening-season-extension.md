@@ -1,5 +1,5 @@
 ---
-title: Winter Gardening and Season Extension
+title: Winter solomon-greenhouse-and-season-extension-basics Extension
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Winter gardening ranges from difficult to impossible depending on climate, but in many regions it can significantly extend the fresh food supply. Steve Solomon and the permaculture design course both provide practical strategies for growing food through the cold months.
+Winter gardening ranges from difficult to impossible depending on climate, but in many regions it can significantly extend the fresh food supply. Steve Solomon and the [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] course both provide practical strategies for growing food through the cold months.
 
 ## Climate Zones for Winter Gardening
 
@@ -38,7 +38,7 @@ Southern US states, eastern Australia north from Sydney:
 Middle American states, east coast of Australia south of Sydney:
 - Soil freezes solid at least 12 inches (30 cm) deep.
 - Winter gardening requires protection (cold frames, row covers, greenhouses).
-- Growing season is more than 120 days frost-free.
+- [[savory-growing-season-and-non-growing-season-management]] is more than 120 days frost-free.
 
 ### Short-Season Climates
 
@@ -63,7 +63,7 @@ Northern US and Canada:
 
 Cover crops planted in autumn protect soil through winter and provide green manure in spring:
 - Winter rye
-- Crimson clover
+- [[comparison-lupin-vs-crimson-clover-green-manure]]
 - Field peas
 - Fava beans
 - Hairy vetch
@@ -74,7 +74,7 @@ These prevent erosion, suppress weeds, fix nitrogen, and add organic matter when
 
 ### Spun-Fabric Row Covers (Reemay)
 
-- Provides a few degrees of frost protection.
+- Provides a few degrees of [[holzer-frost-protection-techniques]].
 - Enhances springtime and autumn growth by moderating temperatures.
 - Provides protection against flying insect pests without needing to spray.
 - Available in widths of 5-6 feet (150-180 cm).
@@ -94,7 +94,7 @@ These prevent erosion, suppress weeds, fix nitrogen, and add organic matter when
 - Provide the most control over growing conditions.
 - Unheated greenhouses can extend the season significantly.
 - Heated greenhouses allow year-round production in any climate.
-- Solomon cautions that greenhouse-grown seedlings are always lush and succulent, making them vulnerable to transplant shock and pests.
+- Solomon cautions that greenhouse-grown seedlings are always lush and succulent, making them vulnerable to [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]] and pests.
 
 ## Pests and Diseases in Winter
 
@@ -116,9 +116,12 @@ Solomon's perspective is practical:
 
 ## Related Concepts
 
-- [[permaculture-cold-climate-strategies]]
+- permaculture-cold-climate-strategies
 - [[composting-methods-comparison]]
 
 Sources: Steve Solomon, *Gardening When It Counts*; William Ozier Williams, *PDC: A Permaculture Design Course*
 - [[soil-erosion-control]]
-- [[permaculture-designers-manual-seed-saving-varieties]]
+- permaculture-designers-manual-seed-saving-varieties
+- [[william-ozier-williams]]
+- [[permaculture-design]]
+- [[steve-solomon]]

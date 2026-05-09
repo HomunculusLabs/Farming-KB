@@ -1,6 +1,6 @@
 ---
 
-title: Siberian Shamanism and Amanita Muscaria
+title: Siberian Shamanism and allegro-amanita-muscaria-properties-and-pharmacology
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -39,7 +39,7 @@ Per Harner's anthology "Hallucinogens and Shamanism" (1973), which quotes Jochel
 
 ## The Urine Recycling Practice
 
-The Koryak practiced drinking the urine of persons intoxicated with Amanita to prolong hallucinations, a practice documented across multiple Siberian tribes. This works because muscimol (the primary psychoactive compound) passes through the body largely unchanged, while ibotenic acid is metabolized. "The drunkard himself drinks it to prolong his hallucinations, or he offers it to others as a treat" (Jochelson, via Harner).
+The Koryak practiced drinking the urine of persons intoxicated with Amanita to prolong hallucinations, a practice documented across multiple Siberian tribes. This works because muscimol (the primary psychoactive compound) passes through the body largely unchanged, while [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] is metabolized. "The drunkard himself drinks it to prolong his hallucinations, or he offers it to others as a treat" (Jochelson, via Harner).
 
 ## Letcher's Critical Analysis
 
@@ -68,9 +68,9 @@ Michael Harner, in his introduction to "Hallucinogens and Shamanism" (1973), emp
 ## See Also
 
 - [[amanita-muscaria-guide]] — Identification, chemistry, and preparation of Amanita muscaria
-- [[psychedelic-mushroom-history]] — Broader timeline of psychedelic mushroom use
-- [[mushroom-folklore-and-culture]] — Folklore and cultural significance of mushrooms
-- [[r-gordon-wasson]] — Wasson's role in popularizing Siberian mushroom traditions
+- [[psychedelic-mushroom-history]] — Broader timeline of [[archaeology-of-psychedelic-mushroom-use]] use
+- [[mushroom-folklore-and-culture]] — Folklore and [[ethnomycology-cultural-significance-sacred-fungi]] of mushrooms
+- [[r-gordon-wasson]] — Wasson's role in popularizing Siberian [[sacred-mushroom-traditions-in-mexico]]
 ## Practical Considerations
 
 Successful implementation of Siberian Shamanism and Amanita Muscaria requires attention to
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

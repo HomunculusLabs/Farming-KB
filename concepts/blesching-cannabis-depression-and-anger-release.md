@@ -13,7 +13,7 @@ type: concept
 
 ## Evidence-Based Confidence Level
 
-The [[endocannabinoid-system]] offers a fundamentally different therapeutic
+The [[cannabis-health-endo-cannabinoid-system]] offers a fundamentally different therapeutic
 pathway through neurochemical modulation and processing of suppressed
 emotions. The hippocampus, central to memory and emotion, is rich in CB1
 receptors and plays a critical role in depression.

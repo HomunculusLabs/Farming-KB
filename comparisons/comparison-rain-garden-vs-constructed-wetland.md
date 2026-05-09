@@ -18,12 +18,12 @@ sources: []
 # Rain Garden vs Constructed Wetland
 
 ## Overview
-Rain gardens and constructed wetlands both use vegetation and soil to
+Rain gardens and [[comparison-constructed-wetlands-vs-bioswales]] both use vegetation and soil to
     manage water quality and quantity, but at vastly different scales and for
     different purposes. Rain gardens are shallow, residential-scale
     depressions capturing stormwater runoff from roofs and driveways.
     Constructed wetlands are engineered treatment systems designed to remove
-    specific contaminants from wastewater, mine drainage, and industrial
+    specific contaminants from wastewater, [[acid-mine-drainage-treatment]], and industrial
     effluent. The choice between them depends on the water source, contaminant
     load, available land, and treatment objectives.
 
@@ -81,8 +81,8 @@ Choose a rain garden for residential or small commercial stormwater
 
 ## When to Choose a Constructed Wetland
 Choose a constructed wetland when treating contaminated water to
-    specific quality standards. Constructed wetlands handle wastewater, acid
-    mine drainage, petroleum hydrocarbons, textile dyes,
+    specific [[aact-compost-quality-standards-ingham]]. Constructed wetlands handle wastewater, acid
+    mine drainage, petroleum hydrocarbons, [[fungal-treatment-of-textile-dyes-mechanisms]],
     pharmaceutical-contaminated effluent, and agricultural runoff at scales
     from single households to municipal systems. The engineering design
     ensures reliable treatment performance with minimal energy input, and the
@@ -102,6 +102,8 @@ The two systems work together in integrated stormwater treatment
     greywater flows.
 
 ## See Also
+
+- [[comparison-rain-garden-vs-bioswale]]
 
 - [[comparison-mangrove-restoration-vs-constructed-wetlands]]
 

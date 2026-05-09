@@ -66,7 +66,7 @@ contains the four core structural genes along with associated regulatory
 elements. The genes are organized in a coordinated manner, often transcribed
 as a polycistronic unit or with tightly linked promoters. The expression of
 psiD and the other genes in the cluster is developmentally regulated, with
-highest expression occurring during the fruiting body stage of mushroom
+highest expression occurring during the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] stage of mushroom
 growth.
 
 The gene cluster has been found in multiple [[psilocybin]]
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

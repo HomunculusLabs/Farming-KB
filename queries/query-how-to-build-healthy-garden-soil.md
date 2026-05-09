@@ -1,5 +1,5 @@
 ---
-title: "How Do I Build Healthy Soil for a Vegetable Garden?"
+title: "How Do I query how to build healthy garden soil Soil for a fukuoka-dutch-priest-vegetable-garden-spiritual-renewal?"
 created: 2026-04-28
 tags: [query, soil-health, compost, organic-gardening, vegetable-growing]
 date: 2026-04-25
@@ -12,7 +12,7 @@ type: query
 
 ## Short Answer
 
-Building healthy garden soil is a long-term process that involves adding organic matter through composting, maintaining biological diversity with cover crops, and minimizing disturbance through reduced tilling. The foundation is the soil food web: the complex community of bacteria, fungi, protozoa, nematodes, and earthworms that cycle nutrients and create soil structure. Feed the soil biology, and it will feed your plants.
+Building healthy garden soil is a long-term process that involves adding [[hamilton-composting-and-organic-matter-management]] through composting, maintaining biological diversity with cover crops, and minimizing disturbance through reduced tilling. The foundation is the soil food web: the complex community of bacteria, fungi, protozoa, nematodes, and earthworms that cycle nutrients and create soil structure. Feed the soil biology, and it will feed your plants.
 
 ## The Soil Food Web
 
@@ -36,7 +36,7 @@ Understanding [[cover-crop-guide-detailed]] explains how different species serve
 
 | Cover Crop | Primary Benefit | When to Plant |
 |---|---|---|
-| Crimson clover | Nitrogen fixation | Fall (zones 6-9) |
+| [[comparison-lupin-vs-crimson-clover-green-manure]] | [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] | Fall (zones 6-9) |
 | Hairy vetch | Nitrogen fixation, biomass | Fall |
 | Cereal rye | Soil structure, weed suppression | Fall |
 | Oats | Quick biomass, scavenges nutrients | Fall or spring |
@@ -51,7 +51,7 @@ Benefits of cover cropping:
 - Break up compacted soil with deep root systems
 - Add carbon to soil through root exudates and biomass
 - Prevent erosion and suppress weeds
-- Provide habitat for beneficial organisms
+- Provide [[query-how-do-i-design-habitat-for-beneficial-insects]] organisms
 
 ## Biochar for Long-Term Soil Improvement
 

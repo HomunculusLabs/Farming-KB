@@ -1,5 +1,5 @@
 ---
-title: Fermented Plant Juice (FPJ) Preparation
+title: bionutrients-lab-fermented-plant-juice-fpj (FPJ) Preparation
 created: 2026-04-24
 tags: [agriculture, natural-farming, KNF, FPJ, fermentation, foliar-fertilizer]
 type: concept
@@ -9,12 +9,12 @@ updated: 2026-04-26
 
 # Fermented Plant Juice (FPJ) Preparation
 
-Fermented Plant Juice (FPJ) is a fermented extract of a plant's sap and chlorophylls. It is a rich enzyme solution full of microorganisms such as lactic acid bacteria and yeast that invigorates plants and animals. FPJ is one of the most important and versatile inputs in Korean Natural Farming.
+Fermented Plant Juice (FPJ) is a fermented extract of a plant's sap and chlorophylls. It is a rich enzyme solution full of microorganisms such as lactic [[lactic-acid-bacteria-knf]] and yeast that invigorates plants and animals. FPJ is one of the most important and versatile inputs in Korean [[comparison-natural-farming-vs-permaculture]].
 
 ## What FPJ Does
 
 FPJ provides plants with:
-- Natural growth hormones (gibberellins, auxins, cytokinins)
+- [[ingham-natural-growth-regulators-soil-microbes]] hormones (gibberellins, auxins, cytokinins)
 - Enzymes that promote metabolic processes
 - Microorganisms that support plant health
 - Chlorophyll and sap nutrients extracted through fermentation
@@ -70,7 +70,7 @@ Thinned-out fruits have lots of gibberellins which make plants healthier with th
 ## When to Use FPJ
 
 ### By Growth Stage
-- **Germination to early vegetative growth**: Mugwort and bamboo shoot FPJs at 1:1000 dilution -- helps crops resist cold and grow fast and strong
+- **Germination to early [[cannabis-vegetative-growth-stage]]**: Mugwort and bamboo shoot FPJs at 1:1000 dilution -- helps crops resist cold and grow fast and strong
 - **Vegetative growth**: Arrowroot, bamboo shoot, and reed FPJs at 1:800-1:1000 -- helps crops obtain needed nitrogen
 
 ### For Pest Management
@@ -107,7 +107,7 @@ FPJ is normally used at a dilution of **1:800 to 1:1000** in water. When combine
 ## Sources
 
 - Cho, H.K. (2011). Dr. Cho's Global Natural Farming. SARRA.
-- Carandang, G.A. (2003). Indigenous Microorganisms: Grow Your Own. Herbana Farms.
+- Carandang, G.A. (2003). [[beneficial-indigenous-microorganisms-bim]]: Grow Your Own. Herbana Farms.
 
 ## See Also
 

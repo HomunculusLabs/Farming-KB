@@ -14,7 +14,7 @@ type: query
 Chop and drop mulching is a permaculture technique where you cut annual
 plants, cover crop residues, or pruned branches and leave them in place as a
 surface mulch layer. As the material decomposes, it feeds soil organisms,
-adds organic matter, suppresses weeds, retains moisture, and builds humus,
+adds [[hamilton-composting-and-organic-matter-management]], suppresses weeds, retains moisture, and builds humus,
 creating a self-fertilizing garden system that requires minimal external
 inputs and improves with each passing season.
 
@@ -35,19 +35,19 @@ mulch material, they produce nutrient-rich castings and humus that improve
 soil structure, water retention, and [[soil-food-web]] and the foundation of
 long-term soil fertility in any organic growing system.
 
-The timing of chop and drop matters significantly for nutrient cycling
+The timing of chop and drop matters significantly for [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 efficiency. Cutting plants when they are still green and actively growing
 provides a nitrogen-rich mulch that decomposes quickly, feeding a
-bacterial-dominant soil food web ideal for annual vegetable production.
+bacterial-dominant soil food web ideal for annual [[dry-gardening-unirrigated-vegetable-production-solomon]].
 Cutting after plants have flowered and begun to senesce provides more
-carbon-rich material that favors fungal decomposition, which is better suited
+carbon-rich material that favors [[dighton-fungal-decomposition-leaf-litter-dynamics]], which is better suited
 for perennial systems and [[cover-crops]] like
 buckwheat when green for a quick nitrogen boost, and leave woody prunings
 from fruit trees to decompose slowly as a long-term mulch.
 
 Comfrey is perhaps the most celebrated chop and drop plant because it is a
-[[cover-crops|cover crop]]), and various legumes like crimson clover
-and hairy vetch that fix atmospheric nitrogen through their [[mollison-designers-dynamic-accumulators-comfrey|Comfrey]] is the premier chop and drop
+[[cover-crops|cover crop]]), and various legumes like [[comparison-lupin-vs-crimson-clover-green-manure]]
+and hairy vetch that fix atmospheric nitrogen through their Comfrey is the premier chop and drop
   plant, mining subsoil minerals with deep taproots
 - The mulch layer suppresses weeds, retains moisture, moderates
   temperature, and prevents erosion simultaneously
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

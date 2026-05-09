@@ -12,17 +12,17 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Hasing, T., et al. (1966). "Alkaloids of Peganum harmala L." Planta Medica 14(3): 236-243.
+  - Hasing, T., et al. (1966). "Alkaloids of mckenna-food-gods-peganum-harmala-soma L." Planta Medica 14(3): 236-243.
   - Buckholtz, N.S. & Boggan, W.O. (1977). "Monoamine Oxidase Inhibition." Psychopharmacology 53(3): 253-259.
   - Samoylenko, V., et al. (2010). "Harmine and Harmaline." Current Drug Discovery Technologies 7(1): 45-51.
   - Shulgin, A. & Shulgin, A. (1997). "TIHKAL: The Continuation." Transform Press.
-  - Pegington, C. (2021). "Pharmacology of the Harmala Alkaloids." Journal of Psychopharmacology.
+  - Pegington, C. (2021). "Pharmacology of the [[turner-harmala-alkaloids-preparation-and-dosage]]." Journal of Psychopharmacology.
 ---
 
 ## Overview
 
 Harmalol is a β-carboline alkaloid found in several plant species, most notably
-*Peganum harmala* (Syrian rue) and *Banisteriopsis caapi* (ayahuasca). It is a
+*Peganum harmala* ([[golden-guide-syrian-rue-and-maoi-plants]]) and *Banisteriopsis caapi* (ayahuasca). It is a
 close structural analogue of harmine and harmaline, differing by the position
 of a single hydroxyl group on the aromatic ring system.
 
@@ -78,7 +78,7 @@ typical oral doses. Its psychoactive contribution in ayahuasca is primarily
 through MAO inhibition rather than direct serotonergic agonism.
 
 **Neuroprotective effects:** In vitro studies have demonstrated that harmalol
-exerts antioxidant and neuroprotective activity, reducing oxidative stress in
+exerts antioxidant and neuroprotective activity, reducing [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in
 neuronal cell models exposed to reactive oxygen species. The hydroxyl group at
 the 7-position is thought to contribute to free radical scavenging capacity,
 giving harmalol stronger antioxidant activity than harmine or harmaline.
@@ -145,4 +145,4 @@ on *Peganum harmala* preparations.
 
 ## See Also
 
-- [[tryptamine-chemistry-and-psychedelic-pharmacology]]
+- [[psilocybin-chemistry-and-pharmacology]]

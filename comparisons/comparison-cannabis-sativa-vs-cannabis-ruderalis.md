@@ -1,10 +1,12 @@
 ---
-title: "Cannabis Sativa vs Cannabis Ruderalis"
+title: "Cannabis Sativa vs cervantes-cannabis-ruderalis-autoflowering"
 created: 2026-04-28
 tags: [comparison, cannabis, species, genetics, taxonomy]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: comparison
 ---
 
@@ -18,7 +20,7 @@ most widely cultivated species, prized for its tall stature, long flowering
 times, and uplifting psychoactive effects. C. ruderalis is a small, hardy
 species from Central Asia and Eastern Europe that has gained importance
 primarily through its autoflowering trait, which has been bred into modern
-hybrid varieties to create the autoflowering cannabis category.
+[[cervantes-hybrid-varieties-types]] to create the [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]] category.
 
 ## Cannabis Sativa
 [[cannabis-ruderalis]]
@@ -40,7 +42,7 @@ on age, typically 2-4 weeks after germination. This adaptation allows the plant
 to complete its entire life cycle within the brief window of the Central Asian
 summer.
 
-In modern cannabis breeding, ruderalis serves almost exclusively as a genetic
+In modern [[oner-cannabis-breeding-fundamentals]], ruderalis serves almost exclusively as a genetic
 donor for the autoflowering trait. Beginning in the early 2000s, breeders began
 crossing ruderalis with high-potency sativa and indica lines to create
 autoflowering hybrids that combined rapid flowering with meaningful THC
@@ -66,7 +68,7 @@ flowering times are acceptable or desirable. In tropical and subtropical outdoor
 environments, pure or near-pure sativas can reach enormous sizes and produce
 exceptional yields. Sativa effects, characterized by cerebral stimulation and
 creative energy, are sought after for daytime use. Breeders value sativa
-landraces for their genetic diversity and complex terpene profiles, which
+landraces for their genetic diversity and complex [[cannabis-terpene-profiles-sativa]], which
 contribute important variation to modern hybrid development. Industrial hemp
 cultivars are also predominantly C. sativa, selected for fiber and seed
 production rather than cannabinoid content.
@@ -74,7 +76,7 @@ production rather than cannabinoid content.
 ## When to Choose Ruderalis Genetics
 Pure ruderalis is rarely cultivated for its own merits due to low potency and
 small yields. However, ruderalis genetics are essential when the autoflowering
-trait is needed in a breeding program. Breeders targeting the autoflowering
+trait is needed in a [[cervantes-breeding-program-design-goal-setting]]. Breeders targeting the autoflowering
 market must incorporate ruderalis ancestry to achieve age-based flowering. In
 cold-climate outdoor cultivation at high latitudes, ruderalis hybrids
 (autoflowers) may be the only viable option due to the short growing season.

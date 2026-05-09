@@ -60,7 +60,7 @@ The species was originally described by Jacob Christian Schaeffer in 1774 under 
 
 **Flesh:** Thick, firm, white, slowly turning ochraceous to brownish when cut or exposed to air. Odor is mild and fruity, reminiscent of ripe apples or green fruit.
 
-**Spore print:** Cream to pale ochre (IIb–IIc on the Romagnesi color scale).
+**[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Cream to pale ochre (IIb–IIc on the Romagnesi color scale).
 
 **Spores:** Globose to broadly ellipsoid, 7–9 × 6–8 µm, ornamented with isolated warts and short ridges, partially connected by fine lines forming a partial reticulum. Amyloid reaction (dextrinoid to amyloid).
 

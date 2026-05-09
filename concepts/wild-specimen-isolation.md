@@ -85,7 +85,7 @@ If sporulating mold colonies develop adjacent to growing mycelium, the culture s
 
 - [[contamination-identification-prevention]]
 
-- [[sterile-technique-mushroom-cultivation]]
+- [[mushroom-cultivation-sterile-technique]]
 
 ---
 

@@ -24,7 +24,7 @@ sources:
 ## Overview
 
 Ergocristine is a peptide ergoline alkaloid of the ergotamine group, produced
-naturally by the sclerotium of *Claviceps purpurea* (ergot fungus).
+naturally by the sclerotium of *[[bloomfield-ergot-claviceps-purpurea-ergotism]]* (ergot fungus).
 It is one of four major ergopeptine alkaloids found in ergot, alongside
 ergotamine, ergocryptine, and ergocornine.
 
@@ -57,7 +57,7 @@ ergot alkaloid pathway:
    (DMATS) to form 4-dimethylallyl-L-tryptophan.
 2. **Oxidative ring closure** to produce chanoclavine-I, then
    agroclavine via the enzyme cloA (cytochrome P450).
-3. **Hydroxylation** of agroclavine at C-17 to yield lysergic acid.
+3. **Hydroxylation** of agroclavine at C-17 to yield [[ergot-and-lysergic-acid-history]].
 4. **Activation** of lysergic acid as lysergyl-adenylate by the
    non-ribosomal peptide synthetase (NRPS) complex, followed by
    sequential incorporation of alanine, phenylalanine, and proline
@@ -111,7 +111,7 @@ postpartum hemorrhage, though dosing was imprecise and dangerous.
 ## Legal Status and Safety
 
 - **DEA scheduling:** Ergocristine is a Schedule III substance under
-  the US Controlled Substances Act, classified as a "depressant"
+  the US Controlled [[controlled-substances-act-and-psychedelic-research]], classified as a "depressant"
   alongside other ergot alkaloids.
 - **UN Convention:** Not individually scheduled under the 1971
   Convention on Psychotropic Substances, but falls under national

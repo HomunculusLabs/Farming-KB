@@ -5,6 +5,7 @@ tags: [query, soil, ph, amendments]
 date: 2026-05-02
 updated: 2026-05-02
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: query
 ---
@@ -16,7 +17,7 @@ type: query
 Adjust soil pH naturally by testing first, changing slowly, and using biologically friendly amendments rather than quick chemical swings.
 Most garden soils are easiest to manage when pH sits near the range where nutrients, microbes, and roots all function well.
 To raise acidic soil, use calcium-rich amendments such as [[cervantes-dolomite-lime-ph-buffering]] at measured rates.
-To lower alkaline soil, rely on organic matter, sulfur where appropriate, and crop choices described in [[jeavons-soil-ph-testing-balancing]] emphasizes measuring before amending.
+To lower alkaline soil, rely on [[hamilton-composting-and-organic-matter-management]], sulfur where appropriate, and crop choices described in [[jeavons-soil-ph-testing-balancing]] emphasizes measuring before amending.
 The biological interpretation in [[nutrient-lockout]].
 The chemistry overview in [[cervantes-dolomite-lime-ph-buffering]] is useful because container mixes respond faster than field soil.
 The broader mineral discussion in [[sulfur-plant-nutrition]] helps distinguish sulfur as a nutrient from sulfur as an acidifying amendment.
@@ -28,7 +29,7 @@ Compost and mulch do not instantly set soil pH to a perfect number.
 Their main value is buffering, feeding biology, and improving root access to nutrients.
 Soils with more organic matter tend to resist sudden pH swings.
 They also support microbes that cycle nutrients in plant-available forms.
-The biological perspective in [[cannabis-ph-management-and-soil-flushing]] describes how pH interacts with flushing and nutrient lockout.
+The biological perspective in [[cannabis-ph-management-and-soil-flushing]] describes how pH interacts with flushing and [[cannabis-nutrient-lockout-and-ph]].
 The broader vegetable framing in [[solomon-lime-calcium-ph-management]] | Acidic mineral soil | Test first to avoid overliming |
 | Raise and add magnesium | [[sulfur-plant-nutrition]] | Alkaline soil with biological activity | Works slowly and needs moisture |
 | Buffer swings | [[soil-ph-management-for-vegetable-gardens]] | Mixed garden beds | Crop needs vary |
@@ -56,7 +57,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -98,4 +99,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

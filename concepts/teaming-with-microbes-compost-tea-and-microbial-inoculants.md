@@ -10,10 +10,10 @@ tags: [composting, sterile-technique]
 
 # Compost Tea and Microbial Inoculants
 
-Actively aerated compost tea (AACT) is a liquid concentrate of beneficial,
+Actively [[actively-aerated-compost-tea]] tea (AACT) is a liquid concentrate of beneficial,
 aerobic microbes extracted from compost. Along with compost and mulch, it is
 one of the three primary tools of the soil food web gardener. AACTs replace
-conventional chemical fertilizers by feeding the microbes that feed plants.
+conventional [[cervantes-chemical-fertilizers-guide]] by feeding the microbes that feed plants.
 Once established, soil food webs are maintained using these same tools, either
 alone or in combination.
 
@@ -38,7 +38,7 @@ it smells bad, it is going anaerobic.
 AACTs are easier to make and much easier to apply than bulk compost. They
 contain higher concentrations of microbes, so less volume is needed to
 inoculate an area. Unlike compost, tea can be sprayed on leaf surfaces
-(foliar application), where beneficial microbes outcompete pathogens for food
+([[ultra-low-cost-foliar-application-methods]]), where beneficial microbes outcompete pathogens for food
 and space. Foliar application also means tea can reach the phyllosphere
 (leaf surface ecosystem), something compost cannot do.
 
@@ -74,7 +74,7 @@ anaerobic conditions and pathogenic microbes.
   home setups. The bigger the pump, the better. Smaller bubbles increase
   surface-to-air ratio for better exchange.
 - **Cleaning:** Bacterial slime (bioslime) clogs air holes and tubing. Clean
-  immediately after each brew while still wet, or use hydrogen peroxide
+  immediately after each brew while still wet, or use [[cervantes-hydrogen-peroxide-sterilization]]
   (3%) or baking soda (5%) for dried slime.
 
 ## Tailoring the Tea
@@ -85,7 +85,7 @@ additives during brewing:
 - **Bacterial dominance:** Add molasses (nonsulfured, so as not to kill
   microbes) as a bacterial food source. Bacterial teas suit annuals,
   vegetables, lawns, and grasses that prefer nitrates.
-- **Fungal dominance:** Add kelp, humic and fulvic acids, fish hydrolysate,
+- **Fungal dominance:** Add kelp, [[teaming-with-microbes-humic-and-fulvic-acids]] acids, fish hydrolysate,
   or aloe vera extract (without preservatives) to encourage fungal growth.
   Fungal teas suit perennials, shrubs, and trees that prefer ammonium.
 - **Protozoa and nematodes:** Present naturally in good compost; they carry
@@ -97,7 +97,7 @@ multiply before extraction.
 
 ## Mycorrhizal Inoculants
 
-Mycorrhizal fungal inoculants (particularly endomycorrhizal spores) can be
+[[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] inoculants (particularly endomycorrhizal spores) can be
 mixed with seeds at planting time or applied to roots at transplanting. Rule
 #19 requires soil food web gardeners to always use endomycorrhizal fungi with
 annuals and vegetables. The longer the season, the bigger their role, as
@@ -119,6 +119,8 @@ brewing eliminates this step). Soil drenching can be done weekly to monthly
 depending on plant performance.
 
 ## See Also
+
+- [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]]
 
 - [[teaming-with-microbes-compost-tea-brewing-guide]]
 - [[teaming-with-microbes-compost-mulch-tea]]

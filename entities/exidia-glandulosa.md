@@ -22,11 +22,11 @@ created: 2026-04-28
 Exidia glandulosa is a jelly fungus in the family Auriculariaceae, commonly
 known as black witch's butter or black jelly roll. It is one of the most
 frequently encountered saprotrophic fungi on dead hardwood branches in
-temperate forests of Europe and North America.
+temperate forests of Europe and [[psilocybin-north-america-pacific-northwest]].
 
-The fruiting body is gelatinous when wet, shriveling to a dark crust in dry
+The [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] is gelatinous when wet, shriveling to a dark crust in dry
 conditions and reviving with rain. Despite its unremarkable appearance, E.
-glandulosa plays an important role in early-stage wood decomposition.
+glandulosa plays an important role in early-stage [[fungal-wood-decomposition-spatial-variation]].
 
 ## Taxonomy
 
@@ -46,7 +46,7 @@ E. plana and E. truncata, now recognized as distinct species.
 ## Morphology
 
 The basidiocarp is a gelatinous, irregular cushion or effused patch forming on
-dead wood, ranging from 1 to 5 cm across. Colonies can coalesce into larger
+[[fungal-dead-wood-diversity]], ranging from 1 to 5 cm across. Colonies can coalesce into larger
 patches covering extensive bark areas.
 
 The upper surface is dark brown to black, densely covered with small raised
@@ -85,7 +85,7 @@ Its ecological niche overlaps with [[auricularia-auricula-judae]].
 
 ## See Also
 
-- [[tremella-fuciformis-entity]]
+- [[tremella-fuciformis]]
 - [[lentinula-edodes]]
 - [[coriolopsis-gallica]]
 - [[pleurotus-ostreatus]]

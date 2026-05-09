@@ -1,23 +1,24 @@
 ---
-title: Fukuoka America Revisited and Agricultural Revolution
+title: Fukuoka fukuoka america revisited agricultural revolution and Agricultural Revolution
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka America Revisited and Agricultural Revolution
 
 ## Overview
 
-Fukuoka's second visit to America in 1986, seven years after his first trip, confirmed his warnings about American agriculture and revealed surprising signs of change. He found a nation in which one-third of the land was already desert or approaching desert conditions, yet also sensed the emergence of an agricultural and cultural revolution rooted in Eastern thought.
+Fukuoka's second visit to America in 1986, seven years after his first trip, confirmed his warnings about [[fukuoka-american-agriculture-fields-of-death]] and revealed surprising signs of change. He found a nation in which one-third of the land was already desert or approaching desert conditions, yet also sensed the emergence of an agricultural and cultural revolution rooted in Eastern thought.
 
 ## Confirmation of Earlier Warnings
 
 In 1979, Fukuoka had warned that American nature was artificial and farm crops were petroleum-based products. He predicted the decline of American agriculture. By 1986:
 
-- About 30% of North America consisted of arid land
+- About 30% of [[psilocybin-north-america-pacific-northwest]] consisted of arid land
 - The central grain belt had been severely depleted (another 30%)
 - Only about 30% remained as green plains
 - Forests with trees large enough for lumber covered perhaps 10% of the land area
@@ -32,7 +33,7 @@ Fukuoka coined a devastating phrase: "petroleum rain." American farmers produce 
 
 Despite the grim situation, Fukuoka sensed "the first signs of an agricultural revolution emerging among the farmers" of the Pacific coast:
 
-- Farmers had relinquished the tendency toward very large farms and begun moving toward Eastern thought and natural farming
+- Farmers had relinquished the tendency toward very large farms and begun moving toward Eastern thought and [[comparison-natural-farming-vs-permaculture]]
 - Natural farming had become more than simply a means for shaking themselves out of a depression
 - At most lectures, Fukuoka received a big welcome as the author of The One-Straw Revolution
 - A revolution in awareness appeared underway not only in agriculture but in all other areas
@@ -54,7 +55,7 @@ Fukuoka was particularly struck by the Sunday morning markets in American cities
 
 ## Japanese Cuisine Takes Root
 
-Fukuoka was astonished by how thoroughly Japanese cooking had established itself:
+Fukuoka was astonished by how thoroughly [[fukuoka-japanese-cooking-culture-disappearing]] had established itself:
 
 - In some areas, it was second only in popularity to Chinese cooking
 - The raw materials were so good that sushi and tempura in big-city shops might be better than in Japan
@@ -70,7 +71,7 @@ Fukuoka connected this to a broader sensory awakening:
 - The same varieties of California tomatoes and oranges sold everywhere through the entire United States
 - Americans who could eat the same food day after day without concern, and farmers who believed monoculture was the height of rationality, were fundamentally the same phenomenon
 
-"Such might be shrugged off as a continental temperament, but it cannot be denied that many have begun turning to the delicate and subtle Oriental flavors, farming methods, cooking, and way of life."
+"Such might be shrugged off as a continental temperament, but it cannot be denied that many have begun turning to the delicate and subtle Oriental flavors, [[natural-farming-methods-comparison]], cooking, and way of life."
 
 ## The Breitenbush Natural Garden Workshop
 

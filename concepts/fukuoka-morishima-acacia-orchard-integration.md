@@ -1,5 +1,5 @@
 ---
-title: Morishima Acacia Orchard Integration
+title: fukuoka morishima acacia orchard integration Orchard Integration
 created: 2026-04-28
 tags:
   - agroforestry
@@ -35,12 +35,12 @@ immediately through its root development and canopy formation.
 
 ## Nitrogen Fixation in Deep Soil Strata
 
-One of the acacia's most important functions is biological nitrogen fixation.
+One of the acacia's most important functions is [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation.
 Rhizobium bacteria living within the tree's root system fix atmospheric
 nitrogen, converting it into forms available to surrounding plants. Fukuoka
-recommends planting six to ten acacia trees per quarter acre. At this
+recommends planting six to ten acacia trees per [[fukuoka-agriculture-tomorrow-quarter-acre-vision]]. At this
 density, soil improvement through nitrogen fixation extends into the deep
-soil strata, eliminating the need to break one's back hauling organic matter
+soil strata, eliminating the need to break one's back hauling [[hamilton-composting-and-organic-matter-management]]
 down from the mountain.
 
 This deep-soil nitrogen fixation complements the surface-layer soil building
@@ -49,7 +49,7 @@ achieved through [[fukuoka-fertilizer-critique-detailed]].
 ## Windbreak Function
 
 The Morishima acacia serves as a windbreak for the citrus trees in
-Fukuoka's orchard. Wind protection is critical for fruit production, as
+Fukuoka's orchard. [[cervantes-wind-protection-outdoor-cannabis]] is critical for fruit production, as
 strong winds can damage blossoms, strip fruit from branches, and increase
 water loss through transpiration. The rapid growth of the acacia means that
 windbreak protection is established relatively quickly compared to slower-
@@ -70,7 +70,7 @@ suitable for fodder, providing a secondary yield from trees whose primary
 function is ecological support.
 
 This multi-yield characteristic exemplifies Fukuoka's principle that a well-
-designed natural farm produces multiple outputs from the same space. The
+designed [[fukuoka-creating-natural-farm-site-selection-establishment]] produces multiple outputs from the same space. The
 acacia is not a "waste tree" taking up space that could grow citrus; it is
 a productive member of the orchard ecosystem that happens to perform
 essential infrastructure services.
@@ -95,3 +95,7 @@ orchard ecosystem.
 This design reflects Fukuoka's understanding that [[fukuoka-black-wattle-fertilizer-tree-method]]
 - [[fukuoka-orchard-floor-management]]
 - [[fukuoka-natural-tree-form-argument]]
+
+## See Also
+
+- [[fukuoka-mixed-grazing-pig-cow-chicken-orchard-integration]]

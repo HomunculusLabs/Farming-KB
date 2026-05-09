@@ -9,11 +9,11 @@ sources:
 ---
 # Psilocybe Global Biogeography
 
-The worldwide distribution patterns of psilocybin-containing mushrooms, analyzed from the comprehensive Guzman, Allen, and Gartz study of 216 neurotropic fungal species across all continents.
+The worldwide [[guzman-global-distribution-patterns-neurotropic-fungi]] of psilocybin-containing mushrooms, analyzed from the comprehensive Guzman, Allen, and Gartz study of 216 neurotropic fungal species across all continents.
 
 ## Overview
 
-The worldwide geographical distribution of neurotropic fungi reveals striking patterns of species concentration in the subtropical and temperate regions, with the highest diversity in the Austral hemisphere despite less mycological exploration.
+The worldwide geographical [[global-distribution-of-neurotropic-fungi]] fungi reveals striking patterns of species concentration in the subtropical and temperate regions, with the highest diversity in the [[biogeography-austral-hemisphere-fungi]] despite less [[guzman-allen-gartz-mycological-exploration-bias-and-underexplored-regions]].
 
 Mexico has the highest number of neurotropic species with 76 species, of which 44 belong to Psilocybe (39% of the world total).
 
@@ -33,11 +33,11 @@ South America, New Guinea, eastern Australia, and New Zealand present high diver
 
 Following Hongo's (1978) classification of Japanese fungi, nine types of distribution can be observed among neurotropic fungi worldwide.
 
-Cosmopolitan species: [[panaeolus-subbalteatus-profile]], Panaeolina foenisecii.
+Cosmopolitan species: [[panaeolus-subbalteatus-profile]], [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]].
 
 Northern hemisphere species: [[psilocybin-liquid-culture]], Psilocybe silvatica, Cordyceps species.
 
-Eurasian species: Amanita muscaria.
+Eurasian species: [[allegro-amanita-muscaria-properties-and-pharmacology]].
 
 North American and Eastern Asiatic species: ties exist between Psilocybe graveolens, P. muliercula, P. pintonii, and P. zapotecorum from the Americas, which are closely related to P. argentipes and P. subcaerulipes from Japan.
 
@@ -73,7 +73,7 @@ In Mexico, of 42 neurotropic Psilocybe species, 34 are from mesophytic forests, 
 
 Coprophilous species on cow dung include [[copelandia-genus-species-guide]] species.
 
-Temperate species include [[psilocybin-mushroom-global-distribution]], [[neotropical-psilocybin-mushrooms]], [[psilocybe-semperviva]]
+Temperate species include [[psilocybin-mushroom-global-distribution]], neotropical-psilocybin-mushrooms, [[psilocybe-semperviva]]
 
-- [[magic-mushrooms-southeast-asia-pacific]]
+- magic-mushrooms-southeast-asia-pacific
 - [[psilocybin-mushroom-evolution]]

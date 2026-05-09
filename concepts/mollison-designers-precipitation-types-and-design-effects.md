@@ -1,5 +1,5 @@
 ---
-title: "Precipitation Types and Their Effects on Permaculture Design"
+title: "Precipitation Types and Their Effects on bill-mollison-permaculture-a-designers-manual-permaculture-design-principles"
 created: 2026-04-26
 tags:
   - climatology
@@ -34,7 +34,7 @@ of temperate and sub-polar regions. It is less predictable
 than orographic rainfall and more associated with seasonal
 storm patterns.
 Frontal rainfall design considerations include the need for
-[[mollison-pdc-swale-design-water-harvesting]] that can absorb intense downpours, and the
+mollison-pdc-swale-design-water-harvesting that can absorb intense downpours, and the
 recognition that between convective events, long dry periods
 may prevail.
 ## Precipitation as a Design Limiting Factor
@@ -57,14 +57,16 @@ fifteen times the amount in channel storage in rivers.
 This means that the designer's primary task is often not to
 capture rain directly but to ensure that precipitation enters
 the soil where it can be stored and released slowly. The
-[[mollison-zone-planning-frequency-distance-and-placement]]
+mollison-zone-planning-frequency-distance-and-placement
 - CONVECTIVE zones: emphasise rapid infiltration via
   swales and contour earthworks, plan for extended dry
   periods between intense events
 - FOG zones: deploy [[mollison-tropical-mulch-systems-and-materials]] suited to the local precipitation
 regime.
 ## See Also
-- [[mollison-designers-precipitation-and-global-weather]]
+
+- mollison-designers-wind-effects-and-design
+- mollison-designers-precipitation-and-global-weather
 ## Practical Considerations
 
 Successful implementation of Precipitation Types and Their Effects on Permaculture Design requires attention to
@@ -83,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

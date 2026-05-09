@@ -29,7 +29,7 @@ sources:
 The most distinctive physiological characteristic of *Malassezia* species is their absolute requirement for exogenous lipids:
 
 - **Culture Requirements:** Cannot be cultured on standard mycological media. Requires supplementation with lipid sources such as Tween, oleic acid, or cholesterol for growth
-- **Mechanism:** The genus has lost the ability to synthesize fatty acids de novo due to the loss of the fatty acid synthase gene. Lipids must be obtained from the environment (sebum in the case of skin-associated species)
+- **Mechanism:** The genus has lost the ability to synthesize [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] de novo due to the loss of the fatty acid synthase gene. Lipids must be obtained from the environment (sebum in the case of skin-associated species)
 - **Lipase Activity:** *Malassezia* species produce extracellular lipases and phospholipases that hydrolyze complex lipids in sebum into simpler fatty acids that can be taken up and utilized
 
 ## Ecology and Habitat
@@ -65,7 +65,7 @@ The most distinctive physiological characteristic of *Malassezia* species is the
 - **Immune Activation:** *Malassezia* cell wall components (mannans, beta-glucans) can activate innate immune responses through pattern recognition receptors
 - **Biofilm Formation:** Some *Malassezia* species can form biofilms on skin surfaces, potentially contributing to pathogenicity and antifungal resistance. See [[fungal-commensal-vertebrate-associations]].
 - **Strain-Level Diversity:** Multilocus typing and whole-genome sequencing are revealing previously unrecognized strain-level diversity within *M. restricta*
-- **Functional Genomics:** RNA sequencing and proteomic studies are characterizing the gene expression programs of *M. restricta* under different skin conditions
+- **[[magnaporthe-grisea-functional-genomics-rice-blast]]:** [[ribosomal-rna-sequencing-yeast-identification]] and proteomic studies are characterizing the gene expression programs of *M. restricta* under different [[cannabis-for-skin-conditions-detailed]]
 - **Probiotic Approaches:** Investigation of bacterial probiotics that can modulate *Malassezia* populations on the skin
 
 ## Notable Strains and Genetic Diversity
@@ -73,8 +73,8 @@ The most distinctive physiological characteristic of *Malassezia* species is the
 Research has revealed significant strain-level variation within *M. restricta*:
 
 - **Genome-Referenced Strains:** The type strain CBS 7877 and the genome-sequenced strain have provided reference data for population studies. Whole-genome comparisons reveal that strains from different individuals can differ by up to 1 to 2% in nucleotide sequence
-- **Geographic Variation:** Strains isolated from individuals in East Asia, Europe, and North America show detectable phylogenetic structure, suggesting some geographic population differentiation, though human migration and global travel complicate these patterns
-- **Scalp versus Body Sites:** Strains isolated from the scalp may exhibit genetic and physiological differences from those found on other body sites, reflecting adaptation to the specific microenvironment of the scalp (high sebum production, hair coverage, distinct temperature and humidity)
+- **Geographic Variation:** Strains isolated from individuals in East Asia, Europe, and [[psilocybin-north-america-pacific-northwest]] show detectable phylogenetic structure, suggesting some geographic population differentiation, though human migration and global travel complicate these patterns
+- **Scalp versus Body Sites:** Strains isolated from the scalp may exhibit genetic and physiological differences from those found on other body sites, reflecting adaptation to the specific microenvironment of the scalp (high sebum production, hair coverage, distinct [[greg-green-temperature-and-humidity-control]])
 
 ## Biochemical Compounds and Metabolites
 

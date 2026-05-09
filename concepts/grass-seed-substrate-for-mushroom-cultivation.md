@@ -1,5 +1,5 @@
 ---
-title: "Grass Seed Substrate For Mushroom Cultivation"
+title: "Grass Seed Substrate For accessible-mushroom-cultivation-for-disabilities"
 ---
 
 # Grass Seed Substrate for Mushroom Cultivation
@@ -20,7 +20,7 @@ Grass seed offers several benefits over traditional grain substrates:
 - **Shakeable**: Small seeds allow [[low-cost-mushroom-growing-house-construction-developing-countries]]**: Available from animal feed stores as bird seed
 - **Versatile**: Supports both [[rye-grain-miniculture-production-parameters]] is preferred
   for this species, but grass seed works adequately)
-- **Panaeolus subbalteatus**: Produces mushrooms
+- **[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]**: Produces mushrooms
 
 For *P. cubensis*, rye grain is generally preferred due to larger kernel
 size and higher nutrient content, but grass seed works adequately.
@@ -51,7 +51,7 @@ even between batches of the same variety:
 3. Check jars for cracks before shaking (hot glass is fragile)
 4. Allow jars to cool to room temperature with lids loose (tight lids
    will pull a vacuum as jars cool)
-5. Inoculate only when jars are at ambient temperature
+5. Inoculate only when jars are at [[jadam-ambient-temperature-principle]]
 
 ## Colonization Timeline
 
@@ -60,8 +60,8 @@ colonize in 5–20 days depending on:
 
 - **Species**: *P. cubensis* is generally faster than *P. mexicana*
   or *P. tampanensis*
-- **Inoculation method**: Mycelium syringe or agar wedge inoculation
-  is faster than spore syringe
+- **Inoculation method**: [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]] or agar wedge inoculation
+  is faster than [[comparison-spore-print-collection-vs-spore-syringe-production]]
 - **Temperature**: Higher temperatures (up to 28°C) accelerate
   colonization but increase contamination risk
 - **Shaking**: Shaking jars when mycelium first appears in several
@@ -77,7 +77,7 @@ possible to prevent further degradation.
 
 - Casing Soil Preparation and Application — Next step for mushroom
   production from colonized grass seed
-- Sclerotia Formation in Psilocybe Species — Direct sclerotia
+- Sclerotia [[sclerotia-formation-in-psilocybe-species]] Species — Direct sclerotia
   production from grass seed without casing
 - [[mushroom-fruiting-chamber-design]] — Environment for fruiting
   cased grass seed trays

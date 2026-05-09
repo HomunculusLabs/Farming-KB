@@ -8,7 +8,8 @@ tags:
   - comparison
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -16,11 +17,11 @@ type: comparison
 
 ## Overview
 
-Morels and chanterelles are two of the most prized wild mushrooms in
+Morels and chanterelles are two of the most prized [[edible-wild-mushrooms-by-region]] in
 foraging and fine cooking. Both command premium prices and inspire
 dedicated seasonal hunts, yet they differ significantly in biology,
 habitat, flavor, and availability. Morels belong to the *Morchella*
-genus and are saprotrophic, meaning they decompose organic matter and
+genus and are saprotrophic, meaning they decompose [[hamilton-composting-and-organic-matter-management]] and
 can be semi-cultivated. Chanterelles belong to *Cantharellus* and
 *Craterellus* genera and are mycorrhizal, forming obligate
 symbiotic relationships with tree roots, making commercial
@@ -75,7 +76,7 @@ considerably longer than that of morels.
 
 - You want a bold, earthy flavor that stands up to cream sauces,
   stuffing, or frying in butter.
-- You are foraging in early spring and targeting hardwood forests or
+- You are foraging in [[coleman-overwintered-onions-and-early-spring-crops]] and targeting hardwood forests or
   recent burn areas.
 - You want a mushroom that can be dried and stored long-term with
   excellent flavor retention.

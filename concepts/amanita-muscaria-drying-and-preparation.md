@@ -10,7 +10,7 @@ tags: [amanita-muscaria, mycology]
 
 # Amanita Muscaria Drying and Preparation Guide
 
-The preparation of [[amanita-muscaria-chemistry-and-pharmacology]] contains mainly ibotenic acid, with only a trace of [[agar]]in): alpha-amino-3-hydroxy-5-isoxazoloacetic acid, C5H6N2O4, MW 158.11, water-soluble, mp 150-152 C with [[muscimol-and-amanita-muscaria]] can apparently be reconverted into ibotenic acid in the presence of carbonated water. This reverses the effects of drying where ibotenic acid loses CO2 and becomes muscimol. The resulting effect is similar to fresh Amanita muscaria ingestion: nausea, vomiting, stomach cramps, stupor, coma-like sleep, excess salivation, and no hallucinogenic effect.
+The preparation of [[amanita-muscaria-chemistry-and-pharmacology]] contains mainly ibotenic acid, with only a trace of agarin): alpha-amino-3-hydroxy-5-isoxazoloacetic acid, C5H6N2O4, MW 158.11, water-soluble, mp 150-152 C with [[muscimol-and-amanita-muscaria]] can apparently be reconverted into ibotenic acid in the presence of carbonated water. This reverses the effects of drying where ibotenic acid loses CO2 and becomes muscimol. The resulting effect is similar to fresh Amanita muscaria ingestion: nausea, vomiting, stomach cramps, stupor, coma-like sleep, excess salivation, and no hallucinogenic effect.
 
 ## Dosage Guidelines
 

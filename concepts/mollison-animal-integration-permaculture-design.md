@@ -1,5 +1,5 @@
 ---
-title: Animal Integration in Permaculture Design
+title: Animal mollison-guinea-pig-integration-in-permaculture-gardens Design
 created: 2026-04-26
 updated: 2026-04-24
 sources: Bill Mollison, Permaculture Two: Practical Design for Town and Country (Tagari Books, 1979)
@@ -13,7 +13,7 @@ Animal integration is a fundamental principle of Mollison's
 permaculture design. Rather than treating animals as separate from
 the plant system, Permaculture Two weaves them into the landscape as
 essential components that perform multiple functions: forage
-harvesting, fertilisation, pest control, weed management, and
+harvesting, fertilisation, pest control, [[fukuoka-weed-management-and-green-manure]], and
 product yield.
 
 ## The Interaction of Plants and Animals
@@ -58,7 +58,7 @@ primary forage production.
 ## Poultry Integration and Forage Systems
 
 Permaculture Two provides one of the most extensive listings of
-poultry forage species in permaculture literature. The goal is to
+[[free-range-poultry-forage-design-mollison]] species in permaculture literature. The goal is to
 reduce or eliminate purchased feed by designing landscapes that
 produce poultry forage year-round.
 
@@ -71,7 +71,7 @@ Celtis spp., wild rye (moderate salinity tolerance)
 (Actinostemma lobatum)
 
 **Root crops:** Nut-grass (Eleocharis), sour-grass (Oxalis), oca,
-Jerusalem artichoke under oak forest or on poor soil
+[[comparison-jerusalem-artichoke-vs-potato]] under oak forest or on poor soil
 
 **Herb layer:** Clovers, medics, lucerne, chicory, asparagus,
 plantain, fennel, shepherd's purse, cleavers, partridge berry,
@@ -103,7 +103,7 @@ Poultry and livestock pens should be sited near ponds for manurial
 input. The intensive pond culture system integrates fish, crayfish,
 plants, molluscs, waterfowl, edge plants, and penned land animals.
 Livestock pens near ponds provide continuous nutrient input, while
-ducks on ponds (approximately eight per quarter acre) contribute
+ducks on ponds (approximately eight per [[fukuoka-agriculture-tomorrow-quarter-acre-vision]]) contribute
 manure, consume pests, and provide eggs and meat as additional
 yields.
 
@@ -116,7 +116,7 @@ for land crops, completing the nutrient cycle.
 
 Wild rice (Zizania aquatica) is specifically recommended for duck
 ponds. Seed is planted in mud balls and thrown into shallow water
-(18 inches to 3 feet depth). The rice grows in the vegetative stage
+(18 inches to 3 feet depth). The rice grows in the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]
 above duck height, providing a four-to-five-day harvest window before
 the remaining crop drops as superb duck food. This creates a
 self-maintaining forage system requiring minimal human intervention.
@@ -135,17 +135,14 @@ not like, which closes the landscape off to cattle. Some of those
 plants are poisonous to cattle, creating a self-regulating system.
 
 ## The Role of Feral Animals
-
-In tropical Australian settlement design, camp dogs in and near
-settlements keep feral grazing species at bay. The interaction
-between domestic, feral, and native animals must be considered in
-design, with strategies developed for each context.
-
 ## See Also
 
-- [[permaculture-animal-integration-design]]
+- permaculture-animal-integration-design
 - [[mollison-designers-pattern-understanding-in-design]]
 
 ## See Also
 
 - [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]
+- [[permaculture-design]]
+- [[mollison-designers-domestic-animal-integration-design]]
+- [[galium-aparine]]

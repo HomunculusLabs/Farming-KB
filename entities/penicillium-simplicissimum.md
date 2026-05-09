@@ -28,7 +28,7 @@ sources:
 - **Genus:** Penicillium
 - **Section:** Simplicissima (or Aspergilloides)
 
-The taxonomy of *Penicillium* has undergone extensive revision, with many species reclassified based on molecular phylogenetic data. *P. simplicissimummalt-extract-agarof the major clades within the genus and is distinguished from related species by its morphological characteristics, growth patterns, and secondary metabolite profile.
+The taxonomy of *Penicillium* has undergone extensive revision, with many species reclassified based on molecular phylogenetic data. *P. simplicissimummalt-extract-agarof the major clades within the genus and is distinguished from related species by its morphological characteristics, growth patterns, and [[fungal-elicitors-enhanced-secondary-metabolite-production]] profile.
 
 ## Morphology
 
@@ -39,7 +39,7 @@ The taxonomy of *Penicillium* has undergone extensive revision, with many specie
 
 Like many *Penicillium* species, *P. simplicissimum* produces various secondary metabolites:
 
-- **Organic Acids:** Oxalic acid, citric acid, gluconic acid (primary metabolites with roles in mineral weathering)
+- **Organic Acids:** Oxalic acid, citric acid, gluconic acid (primary metabolites with roles in [[mycorrhizal-mineral-weathering-nutrient-acquisition]])
 - **Antibiotics:** Some strains produce antibacterial compounds
 - **Other Metabolites:** Various species-specific secondary metabolites, the full profile of which remains to be characterized
 
@@ -48,7 +48,7 @@ Like many *Penicillium* species, *P. simplicissimum* produces various secondary 
 The bio-weathering capabilities of *P. simplicissimum* have practical applications:
 
 - **Soil Remediation:** Potential use in bioremediation of metal-contaminated soils through bioleaching of metals from mineral matrices
-- **Biofertilizers:** Could be developed as a soil inoculant to enhance mineral nutrient availability in agricultural systems
+- **Biofertilizers:** Could be developed as a soil inoculant to enhance mineral [[ph-and-nutrient-availability-garden-soils]] in agricultural systems
 - **Geomicrobiology:** Serves as a model organism for understanding the role of fungi in geological processes and landscape evolution
 - **Biomining:** Principles of fungal bioleaching may be applied to extraction of valuable metals from low-grade ores
 
@@ -56,7 +56,7 @@ The bio-weathering capabilities of *P. simplicissimum* have practical applicatio
 
 Standard protocols for isolating and studying *P. simplicissimum* include:
 
-- **Isolation from Soil:** Soil dilution plating on Czapek-Dox agar supplemented with chloramphenicol (50 mg/L) to suppress bacterial growth. Incubation at 25°C for 5 to 7 days yields characteristic gray-green colonies
+- **Isolation from Soil:** Soil [[particle-filtration-dilution-plating-microfungal-isolation]] on Czapek-Dox agar supplemented with chloramphenicol (50 mg/L) to suppress bacterial growth. Incubation at 25°C for 5 to 7 days yields characteristic gray-green colonies
 - **Mineral Weathering Assays:** Quantification of mineral dissolution is measured by incubating fungal cultures with powdered mineral substrates (feldspar, mica, apatite) in liquid medium, followed by analysis of dissolved cations (Ca, Mg, K, Si, P) in the filtrate using ICP-OES or AAS
 - **Organic Acid Quantification:** HPLC analysis of culture filtrates for oxalic, citric, and gluconic acids. Oxalate concentrations in *P. simplicissimum* cultures can reach 10 to 30 mM, depending on the mineral substrate and nitrogen source
 - **Identification:** ITS rDNA sequencing and beta-tubulin gene sequencing provide reliable species-level identification within the genus *Penicillium*
@@ -64,8 +64,8 @@ Standard protocols for isolating and studying *P. simplicissimum* include:
 
 ## Conservation Status and Environmental Concerns
 
-- **Soil Health Indicator:** *P. simplicissimum* and related soil *Penicillium* species serve as bioindicators of soil health, with their abundance and diversity reflecting organic matter content, pH, and agricultural management practices
-- **Heavy Metal Mobiodiversity-fungi-soil-fungal-communities mineral-solubilizing ability is beneficial for nutrient cycling, it can also mobilize toxic heavy metals (lead, cadmium, uranium) from contaminated soils into the bioavailable fraction, with implications for environmental remediation and food safety
+- **Soil Health Indicator:** *P. simplicissimum* and related soil *Penicillium* species serve as bioindicators of soil health, with their abundance and diversity reflecting [[hamilton-composting-and-organic-matter-management]] content, pH, and agricultural management practices
+- **Heavy Metal Mobiodiversity-fungi-soil-fungal-communities mineral-solubilizing ability is beneficial for [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], it can also mobilize toxic heavy metals (lead, cadmium, uranium) from contaminated soils into the bioavailable fraction, with implications for environmental remediation and food safety
 - **Climate Sensitivity:** [[penicillium-chrysogenum]]
 - [[penicillium-expansum]]
 - Bio-Weathering
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

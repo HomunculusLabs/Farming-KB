@@ -21,7 +21,7 @@ type: concept
 
 Fukuoka identifies four major types of diet, arranged along a spectrum from the
 most degraded to the most enlightened. This classification parallels his broader
-framework of natural farming versus scientific farming, with diet serving as the
+framework of [[comparison-natural-farming-vs-permaculture]] versus [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]], with diet serving as the
 personal expression of one's relationship with nature. Each successive type
 represents a movement centripetally inward, approaching the ideal of Mu
 (non-discrimination).
@@ -32,7 +32,7 @@ The first and lowest type of diet is a lax, self-indulgent diet influenced by th
 external world that submits to cravings and fancies. Directed by the mind, this
 might be called an empty diet. It is the diet of most people in modern consumer
 societies — eating whatever appeals to the senses without consideration of
-nutrition, seasonality, or natural order.
+nutrition, seasonality, or [[fukuoka-textdoc-natural-order-food-chain-unity]].
 
 This diet is the root of a thousand diseases. It follows no principle, responds
 only to advertising, convenience, and immediate gratification. Fukuoka considers
@@ -62,16 +62,16 @@ is both scientifically naive and culturally inappropriate.
 ## Type 3: The Diet of Principle
 
 The third type is the diet of natural man based on spiritual laws. Extending
-beyond Western science and centered on Eastern philosophy, it places restrictions
+beyond Western science and centered on [[fukuoka-western-eastern-philosophy-agriculture]], it places restrictions
 on foods, aiming for centripetal convergence. This could be called a diet of
-principle and includes what is normally referred to as a natural diet.
+principle and includes what is normally referred to as a [[fukuoka-natural-diet-as-foundation]].
 
 This diet draws on the yin-yang framework to guide food choices: in summer (yang),
 one should eat yin foods; in winter (yin), one should eat yang foods. Grains serve
 as the staple intermediate food, with yin vegetables consumed alongside and meat
 (very yang) avoided. However, Fukuoka warns that too much concern over yin and
 yang, acidity or alkalinity, and vitamin and mineral content leads one right back
-into the realm of science and discriminating knowledge.
+into the realm of science and [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]].
 
 The diet of principle is a necessary intermediate step but is not the final goal.
 It still relies on human intellectual frameworks to make food choices, and thus

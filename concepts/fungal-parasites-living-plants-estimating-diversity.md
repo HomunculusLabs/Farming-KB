@@ -1,5 +1,5 @@
 ---
-title: Fungal Parasites on Living Plants - Estimating Diversity
+title: bloomfield-fungal-parasites-of-insects on Living Plants - Estimating Diversity
 created: 2026-04-26
 tags:
   - fungal-ecology
@@ -18,7 +18,7 @@ type: concept
 Estimating the diversity of fungal parasites on living plants
 is one of the most challenging problems in mycology. Fungi
 that attack healthy, living plant tissues (as distinct from
-saprobes that colonize dead organic matter) represent a major
+saprobes that colonize dead [[hamilton-composting-and-organic-matter-management]]) represent a major
 component of [[rust-fungi-biodiversity-life-cycles]], [[biodiversity-powdery-mildews]]
 - **Hemibiotrophs** -- initially biotrophic then switch to
   a necrotrophic phase; many species in this category
@@ -48,7 +48,7 @@ parasites per host. Key considerations include:
 
 Another approach uses the relationship between sampling
 effort and known diversity in well-studied regions:
-- Temperate regions (especially Europe and North America)
+- Temperate regions (especially Europe and [[psilocybin-north-america-pacific-northwest]])
   have been relatively well surveyed
 - Tropical regions, which harbor the greatest plant
   diversity, are severely undercollected
@@ -61,7 +61,7 @@ effort and known diversity in well-studied regions:
 
 Different fungal groups have characteristic patterns of
 diversity:
-- **Rust fungi** -- estimated 7,000+ species on roughly
+- **[[biodiversity-rust-fungi-urediniomycetes]]** -- estimated 7,000+ species on roughly
   5,000 host species; one of the best-surveyed groups
 - **Smuts** -- approximately 1,500 described species with
   perhaps 4,000-5,000 total

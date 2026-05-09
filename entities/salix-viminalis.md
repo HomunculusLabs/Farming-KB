@@ -26,7 +26,7 @@ The species exhibits remarkable phenotypic plasticity, adapting its growth form 
 
 Several cultivars have been selected for bioenergy production, including 'Tora', 'Jorr', and 'Gudrun'. These varieties differ in growth rate, disease resistance, stem yield, and susceptibility to leaf rust (*Melampsora* spp.).
 
-Beyond its traditional craft uses, osier willow has gained attention for phytoremediation of contaminated soils, wastewater treatment, and as a dedicated bioenergy crop. Its rapid growth and tolerance of heavy metals make it valuable in environmental engineering.
+Beyond its traditional craft uses, osier willow has gained attention for phytoremediation of contaminated soils, [[mollison-designers-wastewater-treatment-wetlands]], and as a dedicated bioenergy crop. Its rapid growth and tolerance of heavy metals make it valuable in environmental engineering.
 
 ## Taxonomy and Morphology
 
@@ -42,7 +42,7 @@ Catkins appear with the leaves in early to mid-spring. Male catkins are 2–4 cm
 
 Seeds are tiny, each enclosed in a tuft of white cottony hairs for wind dispersal. Unlike many *Salix* species, *S. viminalis* seeds retain viability for slightly longer, but establishment from seed remains rare in the wild.
 
-The root system is extensive and fibrous, with both deep anchor roots and a dense surface mat. This dual root architecture contributes to both drought tolerance once established and effective soil binding.
+The root system is extensive and fibrous, with both deep anchor roots and a dense surface mat. This dual root architecture contributes to both [[dighton-fungal-drought-tolerance-plant-water-relations]] once established and effective soil binding.
 
 ## Distribution and Habitat
 
@@ -70,9 +70,9 @@ European basket-making guilds maintained strict standards for osier cultivation 
 
 In modern short-rotation coppice (SRC) bioenergy systems, *S. viminalis* is planted at high density (10,000–25,000 plants per hectare) and harvested on 2–4 year cycles. Dry matter yields reach 10–15 tonnes per hectare per year on suitable sites.
 
-The species shows excellent potential for phytoremediation. Its root system accumulates heavy metals including cadmium, zinc, and copper from contaminated soils, and it tolerates petroleum hydrocarbons and landfill leachate.
+The species shows excellent potential for phytoremediation. Its root system accumulates heavy metals including cadmium, zinc, and copper from contaminated soils, and it tolerates petroleum hydrocarbons and [[singh-landfill-leachate-fungal-treatment]].
 
-Living willow structures such as windbreaks, fencing, and erosion control installations use *S. viminalis* cuttings for rapid establishment. The species is also planted in constructed wetlands for wastewater treatment.
+Living willow structures such as windbreaks, fencing, and [[permplant-willows-salix-erosion-control-fodder]] installations use *S. viminalis* cuttings for rapid establishment. The species is also planted in [[comparison-constructed-wetlands-vs-bioswales]] for wastewater treatment.
 
 Establishment from hardwood cuttings is straightforward, with 20–30 cm sections planted vertically in spring. Weed control during the first growing season is critical for survival, as the species is highly sensitive to competition.
 
@@ -92,7 +92,7 @@ Bark extracts have been investigated for potential use in herbal medicine, thoug
 
 Osier willow catkins provide early-season pollen and nectar for bumblebees and other long-tongued pollinators. The species is one of the first shrubs to flower in spring, making it a critical resource for emerging queen bumblebees.
 
-The dense, bushy growth habit provides nesting habitat and cover for small birds including warblers, finches, and buntings. Coppiced stools create structural diversity that supports a range of ground-dwelling invertebrates.
+The dense, bushy growth habit provides nesting habitat and cover for small birds including warblers, finches, and buntings. Coppiced stools [[query-how-do-photonic-crystals-create-structural-color]] diversity that supports a range of ground-dwelling invertebrates.
 
 Over 150 Lepidoptera species have been recorded feeding on *Salix* in Europe, with several specialists associated with *S. viminalis*. The larvae of the emperor moth (*Saturnia pavonia*) and the sallow kitten (*Furcula furcula*) commonly feed on its foliage.
 

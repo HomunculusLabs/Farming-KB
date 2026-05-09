@@ -5,6 +5,7 @@ updated: 2026-04-21
 type: concept
 tags: [gardening]
 sources:
+  sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Bulk Substrate Spawning and Spawn Running in The Mushroom Cultivator
@@ -21,7 +22,7 @@ The inoculation of compost or bulk substrates is called spawning. The colonizati
 ### 1. Moisture Content
 
 Mushroom mycelium does not grow in substrate that is either too dry or too wet:
-- **Dry substrate**: Produces fine wispy mycelial growth and poor mushroom formation because water essential for nutrient transport is lacking
+- **Dry substrate**: Produces fine wispy mycelial growth and poor [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] because water essential for [[mycelial-network-nutrient-transport-imaging-gadd]] is lacking
 - **Over-wet substrate**: Inhibits mycelial growth, produces overly stringy mycelia
 - Controlled experiments with Agaricus brunnescens showed yield depressions when moisture deviated more than 2% from optimum
 - Deviations greater than 5% generally prevent fruitbody production entirely
@@ -31,7 +32,7 @@ Mushroom mycelium does not grow in substrate that is either too dry or too wet:
 
 The substrate temperature must be monitored closely with thermometers placed both in the center (hottest) and in the room atmosphere:
 - Agaricus brunnescens grows fastest at 77°F
-- Psilocybe cubensis prefers 86°F
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] prefers 86°F
 - The metabolism of growing mycelium generates tremendous heat
 - Substrate temperatures normally peak on the 7th-9th days after spawning and can easily reach 90°F
 - At 90°F thermophilic microorganisms become active, potentially driving temperatures above 100°F
@@ -88,13 +89,13 @@ After spawning, level and compress the substrate to avoid dehydration from exces
 
 ## Super Spawning (Active Mycelium Spawning)
 
-Also called the Hunke-Till process. A set amount of substrate is fully colonized, then used as inoculum for increased amounts of similar substrate. Theoretically, a small quantity of inoculum can be pyramided into considerable amounts of fully colonized substrate. This requires the primary substrate to be contaminant-free. An excellent example is propagation of Psilocybe cyanescens on wood chips.
+Also called the Hunke-Till process. A set amount of substrate is fully colonized, then used as inoculum for increased amounts of similar substrate. Theoretically, a small quantity of inoculum can be pyramided into considerable amounts of fully colonized substrate. This requires the primary substrate to be contaminant-free. An excellent example is propagation of [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]] on wood chips.
 
 ## Supplementation
 
 ### At Spawning
 
-Delayed release nutrients specially formulated in a denatured protein coat, designed to become available during the first three flushes:
+[[mushroom-delayed-release-supplements]] nutrients specially formulated in a denatured protein coat, designed to become available during the first three flushes:
 - Application rate: 5-7% of substrate dry weight
 - Yield increases: 1/2 to 1 lb/sq ft
 - Complete mixing is essential
@@ -110,7 +111,9 @@ Supplementation at casing uses soy bean meal, cottonseed meal, ground rye, wheat
 
 ## See Also
 
+- [[oil-drum-sterilizer-mushroom-substrate-bags]]
+
 - [[mushroom-cultivator-grain-spawn-production]] -- producing grain spawn
 - [[mushroom-cultivator-casing-soil]] -- applying casing after spawn run
-- [[mushroom-substrate-supplementation]] -- substrate supplementation techniques
+- [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] -- [[stamets-substrate-supplementation-strategies-mushroom-cultivation]] techniques
 - [[lichens-primary-production-soil-formation-dighton]]

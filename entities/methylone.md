@@ -82,7 +82,7 @@ The elimination half-life is approximately 2–3 hours, shorter than MDMA (7–9
 
 Methylone is internationally controlled as a Schedule I substance under the UN Convention on Psychotropic Substances (since 2020). National controls include:
 
-- **United States:** Emergency scheduled in 2011, permanently placed in Schedule I in 2021 under the cathinone class.
+- **[[dmt-containing-plants-united-states-halpern]]:** Emergency scheduled in 2011, permanently placed in Schedule I in 2021 under the cathinone class.
 - **European Union:** Controlled across all member states, with most scheduling actions occurring 2010–2013.
 - **United Kingdom:** Class B under the Misuse of Drugs Act (controlled as a cathinone).
 - **China:** Scheduled as a narcotic drug since 2015.

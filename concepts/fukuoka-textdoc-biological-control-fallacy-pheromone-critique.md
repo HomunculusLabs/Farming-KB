@@ -1,5 +1,5 @@
 ---
-title: Biological Control Fallacy and Pheromone Pesticide Critique
+title: fukuoka textdoc biological control fallacy pheromone critique Fallacy and Pheromone Pesticide Critique
 created: 2026-04-28
 tags: [fukuoka, natural-farming, pesticides, biological-control, pheromones, ecological-balance, predator-prey]
 date: 2026-04-28
@@ -18,7 +18,7 @@ concerns that would later emerge in mainstream environmental science.
 
 Fukuoka challenged the very distinction between "beneficial" and "harmful" insects
 that underpins most biological control programs. He argued that "to someone who
-understands the chain of being that links together the world of living organisms,
+understands the chain of being that links together the world of [[savory-living-organisms-as-tools]],
 there is no way of telling which organisms are beneficial predators and which are
 pests." This position rests on several key observations drawn from his farming
 experience and philosophical reflection.
@@ -34,7 +34,7 @@ single species in isolation inevitably misses these indirect effects.
 
 ### Trophic Complexity Defies Categorization
 
-When ecological relationships become complex, as when "one beneficial insect feeds
+When ecological relationships become complex, as when "one [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] feeds
 on a pest that kills another beneficial insect which feeds on another pest," any
 attempt to draw sharp distinctions between beneficial and harmful organisms becomes
 futile. Selective pesticide application based on such categories is therefore
@@ -56,7 +56,7 @@ escalating spiral of technological dependency.
 
 Fukuoka discussed the antibiotics blasticidin S and kasugamycin, which were
 released as new pesticides marketed as meeting the criteria for non-polluting
-control agents. These were used widely as preventive measures against rice blast
+control agents. These were used widely as preventive measures against [[bloomfield-rice-blast-appressorium-mechanics]]
 disease "amid great clamor and publicity." Fukuoka viewed this enthusiasm as
 misplaced, as these substances still represent intervention in natural systems
 regardless of their biological origin. The fact that a substance is produced by
@@ -67,7 +67,7 @@ quantities ecologically benign.
 
 Another category Fukuoka addressed includes pesticides prepared from biological
 components already present [[fukuoka-textdoc-leave-nature-alone-philosophy]]. If nature is
-fundamentally self-regulating, then any form of pest control, whether chemical or
+fundamentally self-regulating, then any form of [[biological-pest-control-balance]], whether chemical or
 biological, represents an unwarranted intervention that generates more problems
 than it solves. Fukuoka position implies that the correct response to pest
 problems is not to develop better control methods but to examine and correct the

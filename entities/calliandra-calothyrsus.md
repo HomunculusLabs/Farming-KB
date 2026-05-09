@@ -22,11 +22,11 @@ created: 2026-04-28
 
 # Calliandra calothyrsus
 
-Calliandra calothyrsus is a fast-growing, nitrogen-fixing leguminous tree native to Central America and widely adopted across tropical agroforestry systems worldwide.
+Calliandra calothyrsus is a fast-growing, nitrogen-fixing leguminous tree native to [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and widely adopted across tropical agroforestry systems worldwide.
 
 Commonly known as red calliandra or pajón, it has become one of the most important multipurpose trees in tropical permaculture and smallholder farming systems.
 
-The species is valued for its rapid biomass production, high-quality fodder, soil improvement capacity, and utility as a shade tree for coffee and cocoa plantations.
+The species is valued for its rapid [[dighton-fungal-biomass-production-aquatic-ecosystems]], high-quality fodder, soil improvement capacity, and utility as a shade tree for coffee and cocoa plantations.
 
 ## Taxonomy and Morphology
 
@@ -66,7 +66,7 @@ It is shade-intolerant in early growth but tolerates moderate shade once establi
 
 As a nitrogen-fixing legume, C. calothyrsus forms associations with Rhizobium bacteria, contributing 40–100 kg N/ha/year to soil systems.
 
-The tree produces substantial leaf litter (5–10 t dry matter/ha/year) that decomposes rapidly, cycling nutrients and improving soil organic matter.
+The tree produces substantial leaf litter (5–10 t dry matter/ha/year) that decomposes rapidly, cycling nutrients and improving soil [[hamilton-composting-and-organic-matter-management]].
 
 Its dense root system and coppicing habit make it excellent for stabilizing slopes and controlling soil erosion on degraded hillsides.
 
@@ -84,7 +84,7 @@ In coffee and cocoa agroforestry systems, C. calothyrsus provides dappled shade 
 
 Its pruning cycle of 3–6 months generates mulch that suppresses weeds, retains soil moisture, and adds organic matter around crop root zones.
 
-The tree also serves as a windbreak and boundary marker on smallholder farms, providing additional ecosystem services beyond direct production.
+The tree also serves as a windbreak and boundary marker on smallholder farms, providing additional [[biodiversity-of-fungi-ecosystem-services-agriculture]] beyond direct production.
 
 Beekeeping benefits from its abundant nectar production during flowering periods, supporting honey yields in tropical apiaries.
 
@@ -94,7 +94,7 @@ Propagation is primarily from seed, which requires scarification (hot water or a
 
 Seed viability is high (80-95% germination after treatment) and seeds can be stored for 1–2 years under cool, dry conditions.
 
-Direct seeding is possible but nursery seedling transplants (2–3 months old) have significantly higher establishment rates.
+[[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] is possible but [[mollison-designers-plant-nursery-seedling-production]] transplants (2–3 months old) have significantly higher establishment rates.
 
 Spacing of 1×1 m to 3×3 m is used depending on purpose — closer spacing for hedge rows and soil conservation, wider for shade trees.
 
@@ -113,4 +113,4 @@ The species coppices vigorously, with 3–5 harvest rotations per year possible 
 - [[moringa-oleifera]]
 - [[acacia-mearnsii]]
 - [[medicago-sativa]]
-- [[tithonia-diversifolia]]
+- tithonia-diversifolia

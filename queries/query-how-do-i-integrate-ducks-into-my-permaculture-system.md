@@ -1,10 +1,11 @@
 ---
-title: "How Do I Integrate Ducks Into My Permaculture System?"
+title: "How Do I query how do i integrate ducks into my permaculture system Into My Permaculture System?"
 created: 2026-04-28
 tags: [query, permaculture, poultry, ducks, integration]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: query
 ---
@@ -16,21 +17,21 @@ Ducks are among the most useful animals to integrate into a permaculture system 
 They excel at controlling slugs, snails, and insects in garden areas, and their manure is a valuable nitrogen source for compost and soil building.
 Successful [[duck-keeping-guide-detailed]] covers breed selection, daily care routines, and integration strategies for various scales of permaculture systems.
 
-One of the most famous examples of duck integration in permaculture comes from Masanobu Fukuoka's natural farming methods in Japan.
-In his rice paddies, ducks were released after the rice seedlings had established themselves to control pests and fertilize the crop.
+One of the most famous examples of duck [[mollison-guinea-pig-integration-in-permaculture-gardens]] comes from Masanobu Fukuoka's [[comparison-natural-farming-vs-permaculture]] methods in Japan.
+In his rice paddies, ducks were released after the rice seedlings had established themselves to [[query-how-to-control-pests-without-chemicals]] and fertilize the crop.
 The ducks ate insects and golden snails that would otherwise damage the rice, their droppings fertilized the paddies, and their swimming activity oxygenated the water and prevented weed growth.
 This system eliminated the need for pesticides, herbicides, and synthetic fertilizers while producing rice, duck eggs, and duck meat from the same land area.
 The [[fukuoka-duck-rice-fish-symbiosis]], which details how the three elements complement each other to create a self-regulating ecosystem.
 Even without rice paddies, similar principles can be applied to pond systems in permaculture designs of any scale.
 
-For garden-based permaculture systems without rice paddies, ducks can be managed through rotational grazing with portable fencing.
+For garden-based permaculture systems without rice paddies, ducks can be managed through [[comparison-rotational-grazing-vs-continuous-grazing]] with portable fencing.
 By enclosing ducks in portable electric netting and moving them every few days, you can concentrate their pest control efforts and fertilizer deposition where they are most needed.
 Moving ducks through fallow garden beds before planting cycles deposits manure and removes overwintering pests.
 They can also be run through fruit orchards after harvest to clean up fallen fruit that would otherwise harbor disease.
-The [[mollison-poultry-duck-integration]] framework provides specific design guidelines for zone planning, water management, and integrating duck foraging with annual and perennial food production.
+The mollison-poultry-duck-integration framework provides specific design guidelines for zone planning, water management, and integrating duck foraging with annual and perennial food production.
 
 Toby Hemenway, in Gaia's Garden, adapted these principles for suburban and small-scale permaculture applications.
-He describes how even a small flock of two to four ducks can make a significant impact on slug and snail populations in a typical backyard food forest.
+He describes how even a small flock of two to four ducks can make a significant impact on slug and snail populations in a typical [[comparison-backyard-food-forest-vs-urban-permaculture]].
 The [[query-how-do-i-raise-rabbits-in-a-permaculture-system]]
 - [[query-how-to-start-beekeeping-in-your-backyard]]
 ## Practical Applications
@@ -110,4 +111,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

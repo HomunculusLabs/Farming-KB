@@ -22,7 +22,7 @@ sources:
 
 **Curcuma aromatica** (wild turmeric, aromatic turmeric, or Kasturi haldi) is a perennial herbaceous plant in the family Zingiberaceae. It is closely related to common turmeric (*Curcuma longa*) but is distinguished by its intensely aromatic rhizome and distinctive camphor-like fragrance.
 
-The species has a long history of use in traditional medicine systems across South and Southeast Asia, particularly in Ayurveda, Siddha, and folk medicine. Its rhizomes are valued for skin care, anti-inflammatory applications, and as a natural dye.
+The species has a long history of use in traditional medicine systems across South and [[psilocybe-southeast-asia-pacific]], particularly in Ayurveda, Siddha, and folk medicine. Its rhizomes are valued for skin care, anti-inflammatory applications, and as a natural dye.
 
 Unlike common turmeric, wild turmeric is rarely used as a culinary spice in main dishes. Instead, it finds primary use in traditional cosmetics, perfumery, and ritualistic preparations throughout the Indian subcontinent.
 
@@ -38,7 +38,7 @@ The inflorescence arises from the rhizome before or alongside the leaf shoot. It
 
 The rhizome is ovoid to oblong, 3–8 cm in diameter, with a rough brownish exterior. Internally it is bright yellow to orange-yellow, similar to common turmeric but with a markedly more aromatic and camphoraceous scent.
 
-**Key morphological distinctions from *C. longa*:** smaller rhizome size, more pronounced camphor aroma, narrower leaf blades, and earlier flowering period. The rhizome also contains lower curcuminoid content but higher essential oil concentration.
+**Key morphological distinctions from *C. longa*:** smaller rhizome size, more pronounced camphor aroma, narrower leaf blades, and earlier flowering period. The rhizome also contains lower curcuminoid content but higher [[permaculture-designers-manual-essential-oil-plants]] concentration.
 
 ## Distribution and Habitat
 
@@ -46,7 +46,7 @@ Wild turmeric is native to the Indian subcontinent, ranging from the Himalayan f
 
 The species grows in tropical and subtropical moist deciduous forests, often as an understory herb. It thrives in shaded to partially shaded conditions at elevations from 100 to 1500 meters.
 
-Preferred soils are well-drained loamy to sandy loam with high organic matter content. The plant is adapted to regions with 1200–2500 mm annual rainfall and a distinct dry season that triggers dormancy.
+Preferred soils are well-drained loamy to sandy loam with high [[hamilton-composting-and-organic-matter-management]] content. The plant is adapted to regions with 1200–2500 mm annual rainfall and a distinct dry season that triggers dormancy.
 
 Wild populations are typically found along forest margins, stream banks, and disturbed areas within forested landscapes. The species is less commonly cultivated at commercial scale compared to *C. longa*, though small-scale cultivation exists.
 
@@ -80,11 +80,11 @@ In Siddha medicine, the rhizome is prescribed for respiratory conditions, digest
 
 Culinary use is limited compared to common turmeric. In parts of Odisha and Assam, the rhizome is occasionally used in pickles and chutneys. In Thailand, young rhizomes are sometimes added to local curry preparations for their aromatic quality.
 
-The species holds cultural significance in Hindu rituals, where it is used in religious ceremonies alongside other *Curcuma* species. The aromatic rhizomes are placed in temple offerings and used to prepare sacred pastes.
+The species holds [[ethnomycology-cultural-significance-sacred-fungi]] in Hindu rituals, where it is used in religious ceremonies alongside other *Curcuma* species. The aromatic rhizomes are placed in temple offerings and used to prepare sacred pastes.
 
 ## Cultivation
 
-*Curcuma aromatica* is propagated primarily through rhizome division. Seed propagation is possible but uncommon due to low germination rates and slow growth of seedlings.
+*Curcuma aromatica* is propagated primarily through rhizome division. [[jeavons-seed-propagation-techniques]] is possible but uncommon due to low germination rates and slow growth of seedlings.
 
 Rhizome pieces weighing 25–40 g with 2–3 active buds are planted at 5–7 cm depth. Planting is typically done at the onset of the monsoon season in South Asia, during April to June.
 
@@ -107,6 +107,10 @@ Compared to *C. longa*, wild turmeric produces smaller rhizomes with lower curcu
 The species can hybridize with other *Curcuma* species in cultivation, producing intermediate morphological forms. Natural hybrids have been reported in overlapping distribution zones in northeastern India and northern Thailand.
 
 ## See Also
+
+- [[curcuma-angustifolia]]
+- [[curcuma-kwangsiensis]]
+- [[limnophila-aromatica]]
 
 - [[curcuma-longa]]
 - [[curcuma-zedoaria]]

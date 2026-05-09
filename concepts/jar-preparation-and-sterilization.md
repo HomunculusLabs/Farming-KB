@@ -1,5 +1,5 @@
 ---
-title: Jar Preparation and Sterilization
+title: pf-tek-jar-preparation-steam-sterilization and sterilization
 created: 2026-04-28
 tags: [sterilization, canning, steam, mycology, preparation]
 date: 2026-04-28
@@ -28,7 +28,7 @@ and the absence of whole grain make [[cho-brown-rice-vinegar-preparation]] flour
 ## Steaming Equipment
 
 A 3-piece vegetable steamer (pot, basket insert, and lid) is the preferred
-setup for steam sterilization. Stainless steel vegetable steamers that fold
+setup for [[pf-tek-steam-sterilization-pot-method-common-pottery]]. Stainless steel vegetable steamers that fold
 out and stand on the bottom of the pot also work well. The essential
 requirement is that the steamer keeps the jar bottoms off the pot bottom,
 where high direct temperatures will crack the glass. Anything that elevates
@@ -38,7 +38,7 @@ the jars above the pot bottom is acceptable.
 
 ### Step 1: Mixing the Substrate
 
-Place 1/2 cup of vermiculite into a mixing bowl. Add the brown rice powder on
+Place 1/2 cup of vermiculite into a mixing bowl. Add the [[cho-brown-rice-vinegar-preparation]] powder on
 top of the vermiculite. Slowly add the water directly onto the brown rice
 powder, wetting it first. Thoroughly mix all three ingredients together. The
 mixture should feel damp and cohesive when properly combined. More or less
@@ -55,11 +55,11 @@ space at the top of the jar. Level the substrate surface. With a tissue or
 fingertip, wipe the inside walls of the jar down to the substrate level to
 remove any substrate that may have stuck above the fill line.
 
-Next, fill the top of the jar with plain dry vermiculite and level it off
+Next, fill the top of the jar with plain [[pf-tek-dry-vermiculite-contaminant-barrier]] and level it off
 flush with the jar rim. This upper dry vermiculite layer serves as the
-[[pf-tek-substrate-jar-preparation-and-steam-sterilization]]
+pf-tek-substrate-jar-preparation-and-steam-sterilization
 
-- [[pf-tek-overview-and-history]]
+- pf-tek-overview-and-history
 - [[inoculation-technique-and-alcohol-flaming]]
 ## Practical Considerations
 
@@ -79,4 +79,5 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[sterilization]]

@@ -12,8 +12,8 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Gruen, M. (2014). "Jasmine: The genus Jasminum." In Medicinal and Aromatic Plants – Industrial Profiles, CRC Press.
-  - Shukla, A. et al. (2008). "Essential oil composition of Jasminum grandiflorum." Journal of Essential Oil Research, 20(4), 285–287.
-  - CBI Ministry of Foreign Affairs (2021). "CBI Trade Statistics: Essential Oils and Oleoresins." CBI, The Hague.
+  - Shukla, A. et al. (2008). "[[permaculture-designers-manual-essential-oil-plants]] composition of Jasminum grandiflorum." Journal of Essential Oil Research, 20(4), 285–287.
+  - CBI Ministry of Foreign Affairs (2021). "CBI Trade Statistics: [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] and Oleoresins." CBI, The Hague.
 ---
 
 ## Overview
@@ -37,7 +37,7 @@ Beyond its commercial importance, *J. grandiflorum* holds deep cultural and reli
 * **Genus:** Jasminum
 * **Species:** J. grandiflorum
 
-The genus *Jasminum* contains approximately 200 species distributed across tropical and temperate regions of the Old World. Several species are commercially important, but *J. grandiflorum* and *J. sambac* (Arabian jasmine) dominate the international jasmine trade.
+The genus *Jasminum* contains approximately 200 species distributed across tropical and temperate regions of the [[datura-metel-old-world-ethnobotany]]. Several species are commercially important, but *J. grandiflorum* and *J. sambac* (Arabian jasmine) dominate the international jasmine trade.
 
 *J. grandiflorum* is a vigorous, scrambling, deciduous shrub or weak climber, typically reaching 2–4 meters in height with support. Stems are slender, angular, and trailing, with opposite, pinnate leaves composed of 5–7 leaflets.
 
@@ -49,7 +49,7 @@ The fragrance is exceptionally strong and sweet, particularly in the evening and
 
 ## Essential Oil Chemistry
 
-Jasmine fragrance is extracted through solvent extraction rather than steam distillation, because the delicate floral compounds degrade under high heat. The primary commercial products are jasmine concrete (a waxy solid) and jasmine absolute (obtained by washing the concrete with alcohol).
+Jasmine fragrance is extracted through solvent extraction rather than [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]], because the delicate floral compounds degrade under high heat. The primary commercial products are jasmine concrete (a waxy solid) and jasmine absolute (obtained by washing the concrete with alcohol).
 
 The chemical composition of jasmine absolute is extremely complex, with over 300 identified constituents. Key odor-active compounds include benzyl acetate (15–25%), linalool (5–15%), farnesene (10–15%), indole (2–5%), benzyl benzoate (5–10%), and methyl anthranilate (1–3%).
 
@@ -91,7 +91,7 @@ Preclinical studies on *J. grandiflorum* extracts have demonstrated several biol
 
 Benzyl acetate, the principal constituent of jasmine absolute, exhibits antispasmodic activity on smooth muscle tissue. Linalool contributes to the overall sedative effect through modulation of GABAergic neurotransmission, a mechanism shared with many other Lamiaceae and Oleaceae essential oils.
 
-Topical application of jasmine extracts demonstrates anti-inflammatory and wound-healing properties in animal studies. The extracts show moderate antimicrobial activity against skin pathogens including *Staphylococcus aureus* and *Candida albicans*.
+Topical application of jasmine extracts demonstrates anti-inflammatory and wound-healing properties in animal studies. The extracts show moderate antimicrobial activity against skin pathogens including *Staphylococcus aureus* and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*.
 
 Methanolic extracts of *J. grandiflorum* leaves exhibit antioxidant activity through free radical scavenging mechanisms. Flavonoids and phenolic compounds identified in the leaves include luteolin, apigenin, and quercetin glycosides.
 
@@ -107,10 +107,12 @@ The distinction between *J. grandiflorum* and *J. officinale* in commercial perf
 
 ## See Also
 
+- [[epimedium-grandiflorum]]
+
 - [[pelargonium-graveolens]]
 - [[cymbopogon-citratus]]
 - [[pogostemon-cablin]]
 - citrus aurantium
-- [[ocimum-sanctum]]
+- ocimum-sanctum
 - [[matricaria-chamomilla]]
 - [[calendula-officinalis]]

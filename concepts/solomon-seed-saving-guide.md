@@ -1,5 +1,5 @@
 ---
-title: Solomon Seed Saving Guide
+title: Solomon comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques Guide
 created: 2026-04-18
 updated: 2026-04-18
 sources: Gardening When It Counts (Steve Solomon)
@@ -144,4 +144,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

@@ -1,5 +1,5 @@
 ---
-title: Jadam Making Organic Farming Inputs
+title: Jadam Making coleman-deep-organic-farming-philosophy Inputs
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -18,7 +18,7 @@ JADAM frames organic farming not as something new but as a continuation of tradi
 - When farming began on the Korean Peninsula millennia ago, everyone used organic inputs
 - Ancestors knew that crops extracted nutrients from soil, so they developed know-how using readily available materials
 - This system was low-cost, efficacious, and evolved over thousands of years
-- Then came chemical fertilizers and pesticides, and traditional knowledge was forgotten
+- Then came [[cervantes-chemical-fertilizers-guide]] and pesticides, and traditional knowledge was forgotten
 - After 40-50 years of chemical agriculture, people realized the problems and tried to return to organic
 - The shocking truth: nobody remembered they had been organic all along
 
@@ -35,10 +35,10 @@ The result: organic farming is sustained only through the purchasing power of th
 
 JADAM's guiding principles for organic inputs:
 - "Microbial balance and diversity is the key to soil health"
-- "Nutritional balance and diversity is the key to crop growth"
+- "[[jadam-nutritional-balance-fertilizer]] and diversity is the key to [[coleman-sunlight-and-winter-crop-growth-rates]]"
 - Once these are understood, farming is freed from the perception of being "complicated"
 
-JADAM's approach makes even pesticides -- which farmers never dreamed of making themselves -- producible at home at very low cost. The key insight: this change is not even that difficult.
+JADAM's approach makes even pesticides -- which farmers never dreamed of making themselves -- producible at home at very [[jadam-ultra-low-cost-agriculture]]. The key insight: this change is not even that difficult.
 
 ## Three Categories of JADAM Inputs
 
@@ -47,7 +47,7 @@ The foundational input, made by culturing indigenous soil microorganisms on a gr
 
 ### 2. JADAM Natural Pesticide (JNP)
 A plant-oil-based pesticide that can be made for approximately $0.10-0.15 per liter. See [[jadam-liquid-fertilizer]] and [[jadam-herb-solution-jhs]] -- herbal solutions
-- [[jadam-seed-treatment-leaf-mold]] -- seed and seedling treatment
+- [[jadam-seed-treatment-leaf-mold]] -- [[cho-seed-and-seedling-vitality-restoration]] treatment
 - [[jadam-sese-philosophy]] for the full explanation.
 
 ## The Independence Goal
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

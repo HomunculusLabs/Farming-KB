@@ -1,15 +1,16 @@
 ---
-title: Holzer Alpine Farming Techniques
+title: Holzer holzer alpine farming techniques Techniques
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 ## Farming at 1,100-1,500m Altitude
 
-The Krameterhof operates at elevations where conventional agriculture has been largely abandoned. Holzer has developed specific techniques that make productive farming possible in these marginal conditions where winters reach -25C and the growing season is short.
+The Krameterhof operates at elevations where conventional agriculture has been largely abandoned. Holzer has developed specific techniques that make productive farming possible in these marginal conditions where winters reach -25C and the [[savory-growing-season-and-non-growing-season-management]] is short.
 
 ## Microclimate Creation
 
@@ -25,7 +26,7 @@ Microclimates are the single most important tool for extending the range of what
 ### Frost Protection
 - Blanket of leaves from nearby trees protects sensitive plants through winter
 - Mulch layer prevents soil from freezing quickly; soil life works into late autumn
-- Green manure crops left standing create an insulating quilt over the soil
+- Green [[green-manure-crops-detailed]] left standing create an insulating quilt over the soil
 - Water bodies moderate temperature fluctuations on adjacent land
 
 ### Altitude-Shifting Results
@@ -75,13 +76,13 @@ Large-scale earthworks are done gradually over years:
 ### Year-Round Outdoor Living
 Animals on the Krameterhof live outside in all conditions:
 - **Pigs**: Earth shelter pigsties stay warm enough at -25C; windfall fruit supplements feed
-- **Cattle**: Scottish Highland cattle tolerate extreme cold; roundwood shelters provide wind protection
+- **Cattle**: Scottish Highland cattle tolerate extreme cold; [[holzer-roundwood-shelters-earth-cellars]] provide [[cervantes-wind-protection-outdoor-cannabis]]
 - **Poultry**: Ducks and geese need open water access (steep-angled inflow prevents ice formation)
 - **Natural feed**: Polyculture paddocks of cereals, legumes, and root crops; animals can survive winter in the field if snow is not too deep
 
 ## Polyculture Feed Systems
 
-Holzer sows paddocks with mixed crops that provide complete livestock nutrition:
+Holzer sows paddocks with mixed crops that provide complete [[savory-livestock-nutrition-and-supplementation]]:
 
 - **Jerusalem artichokes, kale, and turnips**: Artichoke tubers survive winter; turnips withstand some frost; kale survives extended freezing
 - **Cereals with legumes and root crops**: Harvested together as forage

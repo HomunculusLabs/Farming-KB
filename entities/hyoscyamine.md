@@ -25,7 +25,7 @@ created: 2026-04-28
 
 **Hyoscyamine** (C₁₇H₂₃NO₃) is a tropane alkaloid and the levorotatory enantiomer of atropine.
 
-It is the primary active constituent of several medicinally important Solanaceae plants, including **deadly nightshade** (*Atropa belladonna*), **henbane** (*Hyoscyamus niger*), and **datura** (*Datura stramonium*).
+It is the primary active constituent of several medicinally important Solanaceae plants, including **deadly nightshade** (*[[belladonna-atropa-belladonna-ethnobotany]]*), **henbane** (*[[henbane-hyoscyamus-niger-ethnobotany]]*), and **datura** (*Datura stramonium*).
 
 Hyoscyamine is a competitive antagonist at muscarinic acetylcholine receptors, producing anticholinergic effects.
 
@@ -87,7 +87,7 @@ The lethal dose is estimated at 10–20 mg for adults.
 
 ## Medical Applications
 
-Hyoscyamine sulfate is approved for treatment of gastrointestinal disorders including irritable bowel syndrome, peptic ulcer disease, and functional dyspepsia.
+Hyoscyamine sulfate is approved for treatment of gastrointestinal disorders including [[blesching-cannabis-irritable-bowel-syndrome]] syndrome, peptic ulcer disease, and functional dyspepsia.
 
 It is used as an antispasmodic in genitourinary conditions including bladder spasm and ureteral colic.
 
@@ -111,7 +111,7 @@ The chemical structure was elucidated by **Richard Willstätter** in the early 2
 
 The name derives from *Hyoscyamus* (henbane), one of its principal plant sources.
 
-Tropane alkaloids from Solanaceae were central to European witchcraft and shamanic practices throughout the medieval period.
+Tropane alkaloids from Solanaceae were central to [[harner-european-witchcraft-hallucinogens]] and shamanic practices throughout the medieval period.
 
 ## Source Organisms
 
@@ -124,7 +124,7 @@ Major plant sources and approximate alkaloid content:
 - *Datura stramonium* — leaves 0.2–0.5%, seeds 0.2–0.5%
 - *Datura metel* — leaves and seeds, variable content
 - *Brugmansia* species — leaves and flowers, highly variable
-- *Mandragora officinarum* — roots 0.3–0.5%
+- *[[mandrake-mandragora-officinarum-in-european-folklore]]* — roots 0.3–0.5%
 
 ## Legal Status
 

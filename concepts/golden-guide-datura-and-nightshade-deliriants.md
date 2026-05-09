@@ -1,5 +1,5 @@
 ---
-title: "Golden Guide: Datura and Nightshade Deliriants"
+title: "Golden Guide: golden guide datura and nightshade deliriants Deliriants"
 created: 2026-04-28
 tags: [hallucinogenic-plants, datura, nightshade, solanaceae, deliriants,
   tropane-alkaloids, scopolamine, atropine, belladonna, henbane, mandrake,
@@ -28,10 +28,10 @@ hallucinations, often accompanied by dangerous physical effects.
 The several solanaceous ingredients of medieval witches' brews, henbane,
 nightshade, belladonna, and mandrake, greatly influenced European folklore.
 Belladonna (*[[datura-stramonium]]*) is an ill-scented weedy
-annual with white to purplish flowers. Probably native to North America, it
-now grows in temperate and subtropical regions around the world. Toloache
+annual with white to purplish flowers. Probably native to [[psilocybin-north-america-pacific-northwest]], it
+now grows in temperate and subtropical regions [[fungi-around-the-world-species-distribution]]. Toloache
 (*Datura inoxia*), a coarser climbing annual native to Mexico and
-southwestern United States, has a long history of use. The Aztecs called it
+southwestern [[dmt-containing-plants-united-states-halpern]], has a long history of use. The Aztecs called it
 toloatzin. The Tarahumare still add its roots, seeds, and leaves to their
 maize beer. Zunis value the plant as a narcotic, an anesthetic, and a
 poultice for treating wounds. The Luiseños use an infusion in an initiation
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

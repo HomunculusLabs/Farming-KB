@@ -1,11 +1,12 @@
 ---
-title: Fukuoka Western Eastern Philosophy Agriculture
+title: Fukuoka fukuoka western eastern philosophy agriculture Philosophy Agriculture
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka on Western and Eastern Philosophy in Agriculture
 
@@ -24,7 +25,7 @@ This became the starting point for sciences that serve man. Using such science, 
 
 Fukuoka observed during his interactions with Western visitors to his farm:
 
-- Westerners have started to notice the fallacies of Western philosophy
+- Westerners have started to notice the fallacies of [[fukuoka-descartes-western-philosophy-nature]]
 - They say "We see something is wrong, but we have no idea which way to go"
 - They have begun to notice new possibilities in Eastern philosophy and Buddhism
 - They are not abandoning Christianity for Buddhism, but recognizing value in Eastern thought
@@ -62,7 +63,7 @@ Fukuoka noted that dietary changes were moving in opposite directions:
 - This is different from trying something uncertain -- they commit to the change
 - The Japanese, meanwhile, turned increasingly to a bread-and-meat-based diet, distorting their sense of taste
 - Japanese try a natural diet only when their health fails, returning to Western food as soon as they recover
-- A visiting American nutrition expert and his students found Fukuoka's simple brown rice gruel with wild greens to be "great" -- evidence that the Western palate had changed
+- A visiting American nutrition expert and his students found Fukuoka's simple [[cho-brown-rice-vinegar-preparation]] gruel with wild greens to be "great" -- evidence that the Western palate had changed
 
 ## The Road Back to Nature
 
@@ -83,6 +84,8 @@ These philosophical observations underpin Fukuoka's agricultural methods:
 
 ## Related
 
+- [[fukuoka-eastern-western-medicine-healing-world-crisis]]
+
 - [[fukuoka-western-vs-japanese-attitudes]]
 - [[fukuoka-natural-orchard-management]]
 - [[fukuoka-natural-farming-philosophy-of-mu]]. The intellectual recognition of failure must precede the practical adoption of alternatives.
@@ -99,7 +102,7 @@ Impressed by the fact that Westerners had once conquered the world, the Japanese
 
 Westerners say: "The Japanese have all but forgotten Eastern philosophy. But we will probably go in, mine this forgotten wisdom, and use it to progress in a new direction."
 
-This passage reveals Fukuoka's view that Japan had traded its own spiritual heritage for Western materialism, only to find that the West itself was now looking eastward for what Japan had discarded. The irony is that Japan's most valuable export to the West — natural farming philosophy — was something Japan itself had largely abandoned.
+This passage reveals Fukuoka's view that Japan had traded its own spiritual heritage for Western materialism, only to find that the West itself was now looking eastward for what Japan had discarded. The irony is that Japan's most valuable export to the West — natural [[fukuoka-do-nothing-farming-philosophy-and-practice]] — was something Japan itself had largely abandoned.
 
 ## Zen and Natural Farming
 
@@ -107,7 +110,7 @@ Many young foreigners who visit Fukuoka's farm come after stopping by a Zen temp
 
 Fukuoka considered this a very small distinction, but the one where the big difference between Japanese and Westerners lies. The Westerners pursue Zen and Eastern philosophy knowing full well that what they are doing may be little more than imitation — yet they have a wonderful simplicity of heart that allows them to commit fully regardless.
 
-For Fukuoka, this capacity to sustain uncertainty — to remain in a state of "not knowing" — is essential to both Zen practice and natural farming. [[fukuoka-natural-farming-philosophy]] that Fukuoka advocates — food is not merely nutrition but a pathway to perceiving nature correctly.
+For Fukuoka, this capacity to sustain uncertainty — to remain in a state of "not knowing" — is essential to both Zen practice and natural farming. [[fukuoka-natural-farming-philosophy]] that Fukuoka advocates — food is not merely nutrition but a pathway to [[fukuoka-natural-perceiving-nature-without-relativism]] correctly.
 
 ## "Do-Nothing" Nature
 

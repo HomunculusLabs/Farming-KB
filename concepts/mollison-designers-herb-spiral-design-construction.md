@@ -1,5 +1,5 @@
 ---
-title: "Herb Spiral Design and Construction"
+title: "Herb herb-spiral-design-guide and Construction"
 created: 2026-04-28
 tags:
   - permaculture
@@ -25,7 +25,7 @@ designing from patterns to details.
 
 The herb spiral is a three-dimensional mound built in a rising spiral
 from ground level to approximately 1-1.5 meters in height. The spiral
-form compresses a linear herb garden (which might stretch 5-10 meters
+form compresses a linear [[hamilton-herb-garden-design]] (which might stretch 5-10 meters
 in a row) into a circular footprint of roughly 1.5-2 meters diameter,
 dramatically increasing the edge-to-area ratio and creating varied
 conditions for different plants along its length.
@@ -35,7 +35,7 @@ growing conditions -- some prefer full sun and dry soil, others prefer
 shade and moisture, and most fall somewhere between. A spiral naturally
 creates this gradient: the top of the spiral is sunny, warm, and
 well-drained; the bottom is cooler, shadier, and wetter. The north
-side (in the southern hemisphere, south side) receives less sun than
+side (in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], south side) receives less sun than
 the south face, adding a second gradient.
 
 ## Construction Materials
@@ -72,7 +72,7 @@ Step-by-step construction:
    maximum height.
 
 2. **Prepare the base:** Excavate 10-15cm of topsoil from the circle.
-   Fill the base with gravel, rubble, or coarse organic matter for
+   Fill the base with gravel, rubble, or coarse [[hamilton-composting-and-organic-matter-management]] for
    drainage. This layer connects to the broader [[backyard-water-harvesting]] systems, ensuring the moist base zone receives adequate
 water even during dry periods.
 ## Practical Considerations
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

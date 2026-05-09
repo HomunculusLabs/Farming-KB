@@ -87,7 +87,7 @@ dysphoria.
 hypertension, nystagmus, perspiration, vasoconstriction. Pupil dilation
 is common but not pronounced.
 
-**Cognitive/headspace effects:** Deep dissociation, ego dissolution at
+**Cognitive/headspace effects:** Deep dissociation, [[psilocybin-ego-dissolution-mechanisms]] at
 higher doses, conceptual thinking, derealization, depersonalization.
 Thought loops are common and can become distressing.
 
@@ -116,10 +116,10 @@ slowing, and craving. The compulsive redose potential is notably high.
 ## Legal Status
 
 3-MeO-PCP is controlled as a Schedule I substance in several jurisdictions:
-- **United States:** Not federally scheduled but covered under the
+- **[[dmt-containing-plants-united-states-halpern]]:** Not federally scheduled but covered under the
   Federal Analog Act when intended for human consumption. Several states
   have explicitly scheduled it.
-- **United Kingdom:** Class B under the Psychoactive Substances Act 2016.
+- **United Kingdom:** Class B under the Psychoactive [[controlled-substances-act-and-psychedelic-research]] 2016.
 - **Germany:** Controlled under BtMG (NPS scheduling).
 - **China:** Scheduled as a narcotic.
 - **Japan:** Controlled substance.
@@ -140,6 +140,8 @@ It is commonly encountered online despite legal restrictions.
 - **DXM (Dextromethorphan):** OTC dissociative, sigma-1 biased, lower potency.
 
 ## See Also
+
+- [[pcp]]
 
 - [[ketamine]]
 - [[methoxetamine]]

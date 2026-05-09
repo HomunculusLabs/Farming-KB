@@ -9,7 +9,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 # Dig vs No-Dig Gardening
 
-The question of whether to dig the soil or adopt a no-dig approach is one of the great debates in gardening. Both methods have their advocates, and the choice depends on your soil type, the crops you want to grow, and your personal preferences. The [[hamilton-animal-manure-types-and-use]] or compost is spread on the surface and then buried as the soil is turned. This is the standard preparation for most vegetable beds and is used in the second and third years of the [[garden-bed-preparation]] — detailed bed preparation techniques
+The question of whether to dig the soil or adopt a no-dig approach is one of the great debates in gardening. Both methods have their advocates, and the choice depends on your soil type, the crops you want to grow, and your personal preferences. The [[hamilton-animal-manure-types-and-use]] or compost is spread on the surface and then buried as the soil is turned. This is the standard preparation for most vegetable beds and is used in the second and third years of the [[garden-bed-preparation]] — detailed [[azurescens-outdoor-bed-preparation-woodchips]] techniques
 - [[crop-rotation-benefits]] — planning cultivation across the garden
 - [[organic-vegetable-garden-rotation-deep-beds]]
 - [[solomon-crop-rotation-and-garden-planning]]
@@ -141,4 +141,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

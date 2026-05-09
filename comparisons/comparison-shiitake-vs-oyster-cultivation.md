@@ -1,5 +1,5 @@
 ---
-title: "Shiitake vs Oyster Mushroom Cultivation"
+title: "comparison shiitake vs oyster cultivation accessible-mushroom-cultivation-for-disabilities"
 created: 2026-04-28
 tags: [comparison, mushroom-cultivation, gourmet-mushrooms]
 date: 2026-04-25
@@ -13,7 +13,7 @@ type: comparison
 
 ## Overview
 
-Shiitake and oyster mushrooms are two of the most popular gourmet mushrooms for home
+[[query-difference-between-shiitake-and-oyster-mushrooms]] mushrooms are two of the most popular [[growing-gourmet-mushrooms-civilization-history]] for home
 and commercial cultivation, but they differ dramatically in difficulty, timeline, and
 methods. Shiitake is the second most cultivated mushroom worldwide with over 1,000
 years of cultivation history in East Asia, while oyster mushrooms are widely regarded
@@ -79,7 +79,7 @@ because it requires no sterilization equipment or climate-controlled environment
 Once logs are inoculated and stacked in a shaded outdoor area, nature does most of the
 work. Sawdust block methods reduce the wait time to weeks rather than months but
 increase the need for controlled indoor conditions, a laminar flow hood or still air
-box, and pressure sterilization equipment. For homesteaders and permaculture-focused
+box, and [[boil-a-bag-pressure-sterilization-technique]] equipment. For homesteaders and permaculture-focused
 growers, shiitake logs integrate naturally into food forest designs alongside fruit
 and nut trees.
 
@@ -94,7 +94,7 @@ experimenting with just a bag of straw, some spawn, and a large pot for pasteuri
 
 The wide substrate acceptance means oyster growers can use inexpensive or waste
 materials such as straw, shredded paper, coffee grounds, and agricultural byproducts.
-This low input cost, combined with high biological efficiency, makes oyster
+This low input cost, combined with high [[stamets-biological-efficiency-yield]], makes oyster
 cultivation an excellent entry point into mushroom farming with strong potential for
 quick profitability. The diversity of species also keeps the hobby interesting as
 growers experiment with different colors, flavors, and temperature ranges. Schools and

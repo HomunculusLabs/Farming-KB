@@ -8,13 +8,13 @@ sources: []
 ---
 # Cantharellus tubaeformis (Winter Chanterelle / Yellowfoot)
 
-Cantharellus tubaeformis, commonly known as the winter chanterelle, yellowfoot, funnel chanterelle, or trumpet chanterelle, is a small but highly prized edible mushroom found in coniferous and mixed forests across the Northern Hemisphere. Despite its small size, it is commercially important in northern Europe and is increasingly valued by foragers in North America.
+Cantharellus tubaeformis, commonly known as the winter chanterelle, yellowfoot, funnel chanterelle, or trumpet chanterelle, is a small but highly prized [[bloomfield-boletus-satanus-edible-mushroom-hazards]] found in coniferous and mixed forests across the Northern Hemisphere. Despite its small size, it is commercially important in northern Europe and is increasingly valued by foragers in [[psilocybin-north-america-pacific-northwest]].
 
 ## Overview
 
-Cantharellus tubaeformis is a close relative of the golden chanterelle (Cantharellus cibarius) but differs in several important respects. It is significantly smaller, with caps typically 1-5 cm in diameter compared to the golden chanterelle's 3-15 cm. It fruits much later in the season, often well into autumn and winter when few other edible mushrooms are available. And it typically grows in different forest types, favoring coniferous forests and mossy habitats.
+Cantharellus tubaeformis is a close relative of the golden chanterelle (Cantharellus cibarius) but differs in several important respects. It is significantly smaller, with caps typically 1-5 cm in diameter compared to the golden chanterelle's 3-15 cm. It fruits much later in the season, often well into autumn and winter when few other [[palmer-edible-mushrooms-north-america]] are available. And it typically grows in different forest types, favoring coniferous forests and mossy habitats.
 
-The winter chanterelle is widely distributed across Europe, North America, and Asia. In Scandinavia, it is one of the most commercially important wild mushrooms, with extensive harvests exported across Europe. In North America, it is found across the northern tier of the continent from the Pacific Northwest to New England.
+The winter chanterelle is widely distributed across Europe, North America, and Asia. In Scandinavia, it is one of the most commercially important [[edible-wild-mushrooms-by-region]], with extensive harvests exported across Europe. In North America, it is found across the northern tier of the continent from the Pacific Northwest to New England.
 
 ## Identification Features
 
@@ -24,7 +24,7 @@ The gills (technically false gills, as in all Cantharellus species) are well-dev
 
 The stem is slender, hollow, and yellow to orange-yellow, particularly at the base. The yellow stem contrasting with the brown cap and pale gills creates a distinctive three-color pattern that aids identification. The stem is typically 3-8 cm tall.
 
-The flesh is thin and pale yellowish. The odor is mildly fruity, and the taste is mild and pleasant, with a slightly peppery note. The spore print is white to pale yellow.
+The flesh is thin and pale yellowish. The odor is mildly fruity, and the taste is mild and pleasant, with a slightly peppery note. The [[comparison-spore-print-collection-vs-spore-syringe-production]] is white to pale yellow.
 
 Cantharellus tubaeformis should not be confused with the true chanterelle (C. cibarius), which is larger, uniformly yellow-orange, and fruits in summer and autumn. It should also be distinguished from the deadly toxic Omphalotus olearius (jack-o'-lantern mushroom), though the two species differ markedly in habitat, size, and gill structure. See [[chanterelle-guide]] for identification guidance.
 
@@ -36,7 +36,7 @@ It has a strong preference for mossy habitats, particularly beds of Hylocomium s
 
 Winter chanterelles often fruit in large numbers, forming extensive troops or lines in suitable habitat. They can be remarkably abundant in productive years, with foragers collecting kilograms per hour in prime locations.
 
-Fruiting typically begins in late autumn (October in most areas) and continues through winter into early spring. In mild winters, they can be found fruiting well into December and January. The late fruiting season makes them an important food resource when few other wild mushrooms are available.
+Fruiting typically begins in late autumn (October in most areas) and continues through winter into [[coleman-overwintered-onions-and-early-spring-crops]]. In mild winters, they can be found fruiting well into December and January. The late fruiting season makes them an important food resource when few other wild mushrooms are available.
 
 ## Culinary Value
 
@@ -64,13 +64,15 @@ Craterellus tubaeformis is a taxonomic synonym used in some references, reflecti
 
 ## See Also
 
+- [[cantharellus-cinereus]]
+
 - [[mushroom-market-and-economics]]
 
 ## Related
 
 - [[mushroom-foraging-safety]]
 
-- [[edible-wild-mushroom-guide]]
+- edible-wild-mushroom-guide
 - [[cantharellus-lateritius]]
 ## Practical Considerations
 
@@ -90,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

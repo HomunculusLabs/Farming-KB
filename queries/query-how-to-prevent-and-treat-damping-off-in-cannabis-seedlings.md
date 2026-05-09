@@ -1,10 +1,11 @@
 ---
-title: "How to Prevent and Treat Damping Off in Cannabis Seedlings"
+title: "How to query-how-do-i-identify-prevent-and-treat-fusarium-wilt cervantes-damping-off-seedling-disease-prevention in query-what-causes-cannabis-seedlings-to-die-and-how-to-save-them"
 created: 2026-04-28
 tags: [query, cannabis, seedlings, disease, prevention]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: query
 ---
@@ -12,7 +13,7 @@ type: query
 # How to Prevent and Treat Damping Off in Cannabis Seedlings
 
 ## Short Answer
-Damping off is a fungal disease that kills cannabis seedlings by attacking the 
+Damping off is a [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] that kills cannabis seedlings by attacking the 
 stem at the
 soil line, causing them to topple over and die. It is caused primarily by 
 Pythium, Fusarium,
@@ -41,10 +42,10 @@ normal seedling development for comparison with damping off symptoms.
 
 Prevention starts with your seed-starting medium. Use a sterile, well-draining 
 mix
-specifically formulated for seed starting. Avoid using garden soil or compost 
+specifically formulated for [[comparison-cannabis-cloning-vs-seed-starting-indoors]]. Avoid using garden soil or compost 
 for seed
 starting, as these contain the very organisms that cause damping off. Commercial
-seed-starting mixes based on peat moss or coco coir with perlite or vermiculite 
+seed-starting mixes based on peat moss or [[comparison-coco-coir-cannabis-vs-peat-free-gardening]] with perlite or vermiculite 
 provide
 good drainage while retaining adequate moisture for germination. The 
 [[substrate-pasteurization]] pages cover medium sterilization techniques for

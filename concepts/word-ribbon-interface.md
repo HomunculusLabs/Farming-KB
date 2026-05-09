@@ -15,7 +15,7 @@ type: concept
 
 # Word Ribbon Interface
 
-The Ribbon interface was introduced in Microsoft Word 2007 as a replacement for
+The Ribbon interface was introduced in [[microsoft-word]] 2007 as a replacement for
 the traditional menu and toolbar paradigm that had been used since the earliest
 versions of the application. It represents one of the most significant user
 interface changes in desktop software history and remains the primary navigation

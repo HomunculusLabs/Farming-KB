@@ -51,7 +51,7 @@ and tyramine, with subsequent oxidative deamination by MAO.
 ## Effects
 
 **Dose ranges:**
-- **Low dose (25–50 mg):** Mild alertness, subtle mood elevation,
+- **[[ultra-low-dose-brassinosteroid-response-psilocybe-cubensis]] (25–50 mg):** Mild alertness, subtle mood elevation,
   increased physical energy.
 - **Moderate dose (50–150 mg):** Noticeable stimulant effects, increased
   heart rate, mild anorexia, enhanced focus. Peripheral effects may
@@ -81,13 +81,13 @@ contains the highest concentrations as germination activates the pathway.
 
 ## Biosynthesis
 
-In plants, hordenine is biosynthesized from the amino acid tyrosine via
+In plants, hordenine is biosynthesized from the [[cho-fish-amino-acid-preparation]] tyrosine via
 the pathway: L-tyrosine → tyramine (by tyrosine decarboxylase) →
 N-methyltyramine (by SAM-dependent N-methyltransferase) → hordenine
 (second N-methylation). The pathway parallels that of other plant
 phenethylamine alkaloids and is upregulated during [[controlled-substances-act-and-psychedelic-research]]. It is sold as a dietary
 supplement in many countries, often marketed as a pre-workout or weight
-loss ingredient. Its legal status varies by jurisdiction — some
+loss ingredient. Its [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction — some
 countries regulate it under pharmaceutical or food safety laws.
 
 ## Related Compounds

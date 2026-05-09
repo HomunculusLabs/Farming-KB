@@ -1,5 +1,5 @@
 ---
-title: Binary Document Format Reverse Engineering
+title: Binary binary [[document-format-conversion-fidelity]] reverse engineering Reverse Engineering
 created: 2026-04-28
 tags: [reverse-engineering, file-formats, document-processing,
       data-recovery, legacy-systems]
@@ -69,7 +69,7 @@ through version 2003, add a layer of container complexity with internal
 filesystem structures, stream allocation tables, and directory entries that
 must be parsed before document content becomes accessible.
 
-Japanese and other non-Latin document formats introduce encoding challenges.
+Japanese and other non-Latin [[word-document-formats]] introduce encoding challenges.
 Shift-JIS byte sequences can contain bytes that resemble OLE2 structural
 markers, leading to false positives in automated parsing.
 

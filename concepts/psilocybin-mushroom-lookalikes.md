@@ -1,17 +1,18 @@
 ---
-title: Psilocybin Mushroom Lookalikes and Deadly Identification Warnings
+title: emcdda-psilocybin-mushroom-dose-and-effects Lookalikes and Deadly Identification Warnings
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [psilocybin, mushrooms]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Psilocybin Mushroom Lookalikes and Deadly Identification Warnings
 
-Source: Psilocybin Mushrooms of the World (Stamets, 1996, Ch. 4)
+Source: [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World (Stamets, 1996, Ch. 4)
 
-Mistakes in mushroom identification can be lethal. Since few little brown mushrooms have ever been sought after as food, little was known about their biochemistry until recently. As more people sought psilocybin varieties, poisonings from mistaken identifications increased.
+Mistakes in [[psilocybin-mushroom-identification-guide]] can be lethal. Since few little brown mushrooms have ever been sought after as food, little was known about their biochemistry until recently. As more people sought psilocybin varieties, poisonings from mistaken identifications increased.
 
 ## Deadly Galerina Species
 
@@ -59,7 +60,7 @@ Other brown-spored genera with abundant poisonous species:
 ## See Also
 
 - [[psilocybin-mushroom-distribution-worldwide]]
-- deadly fungi identification guide
+- deadly [[ramsbottom-poisonous-fungi-identification-guide]] guide
 - amanita poisoning types
 - [[psychedelic-mushroom-set-and-setting]]
 - [[mycorrhizal-edible-mushroom-species-overview]]
@@ -82,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: Holzer Symbiotic Interaction Theory - Plant Communication and Exchange
+title: Holzer holzer symbiotic interaction theory Theory - Plant Communication and Exchange
 created: 2026-04-26
 tags: [soil-biology, mycorrhiza, polyculture, plant-physiology, holzer]
 date: 2026-04-25
@@ -19,7 +19,7 @@ fundamentally flawed.
 ## The Underground Network
 
 Plants are not isolated individuals competing for resources. They are connected
-through an underground network of fungal hyphae -- mycorrhizal networks --
+through an underground network of fungal hyphae -- [[dighton-mycorrhizal-networks-carbon-transfer]] --
 that link root systems across entire plant communities. Through this network:
 
 - Plants share water, nutrients, and information.
@@ -34,7 +34,7 @@ Different plants occupy different soil layers and root depths. A tree with
 deep roots accesses water and minerals far below the surface. A shallow-rooted
 herb accesses nutrients near the top. Through the mycorrhizal network, these
 plants exchange what they have gathered. Deep-rooting plants like clover bring
-nitrogen up from deeper layers. Legumes fix atmospheric nitrogen and share it
+nitrogen up from deeper layers. [[query-which-legumes-fix-the-most-nitrogen-for-gardens-and-farms]] atmospheric nitrogen and share it
 with neighbouring plants. The result is that the whole community has access to
 more resources than any individual plant could access alone.
 
@@ -54,7 +54,7 @@ isolation.
 
 In a monoculture, all plants compete for the same nutrients at the same soil
 depth. There is no symbiotic network support. The soil is degraded, pesticides
-kill the mycorrhizal fungi, and plants become dependent on artificial inputs.
+kill the [[arbuscular-mycorrhizal-fungi-biology-symbiosis]], and plants become dependent on artificial inputs.
 Plant monocultures create animal monocultures -- removing a single food source
 eliminates the insects, birds, and other animals that depend on it.
 
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

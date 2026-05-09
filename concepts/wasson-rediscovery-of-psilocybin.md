@@ -1,9 +1,9 @@
 ---
-title: Wasson and the Rediscovery of Psilocybin Mushrooms
+title: Wasson and the Rediscovery of forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "Letcher - Shroom: A Cultural History of the Magic Mushroom"
+  - "Letcher - Shroom: A shroom-cultural-history-hippie-revolution-and-counterculture of the australian-magic-mushroom-common-names"
 type: concept
 tags: [psilocybin]
 ---
@@ -55,13 +55,13 @@ linguist Robert J. Weitlaner conducted research amongst the [Mazatec Indians in 
 epicentre of a global magic mushroom craze -- and discovered that mushrooms were indeed used in curative
 divinatory rites.
 
-In 1938, Reko was joined by the brilliant young Harvard ethnobotanist Richard Evans Schultes, who made the first formal identification of the mushrooms from collected samples. In the
+In 1938, Reko was joined by the brilliant young Harvard ethnobotanist Richard [[richard-evans-schultes-updated]], who made the first formal identification of the mushrooms from collected samples. In the
 same year, a party led by Jean Bassett Johnson became the first outsiders to witness an indigenous mushroom
 curing ceremony, in which a curandero "divined the patient's illness" under the influence of the mushrooms.
 
 ## Wasson's Expeditions to Huautla
 
-In 1952, Wasson received two letters alerting him to the existence of Mesoamerican mushroom stones and the
+In 1952, Wasson received two letters alerting him to the existence of Mesoamerican [[mckenna-mushroom-stones-of-guatemala]] and the
 fact that teonanacatl had been a genuine mushroom. He immediately wrote to Reko expressing his interest.
 Wasson made ten successive trips to Mexico. On his first trip in late 1953, accompanied by his photographer
 daughter Masha and guided by Weitlaner, he reached Huautla, where he discovered that his local guide, Aurelio
@@ -72,7 +72,7 @@ only Carreras consumed mushrooms.
 
 Wasson's third trip, in 1955, with society photographer Allan Richardson, proved far more momentous. They
 met the curandera [Maria Sabina, who agreed to let both Wasson
-and Richardson consume the sacred mushrooms. They became the first Westerners ever intentionally to do so.
+and Richardson consume the [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]]. They became the first Westerners ever intentionally to do so.
 
 Wasson's written accounts drew comparison with Aldous Huxley. He described geometric
 patterns giving way to "architectural structures, with colonnades and architraves, patios of regal splendour,

@@ -1,5 +1,5 @@
 ---
-title: "What Is Cation Exchange Capacity and Why Does It Matter?"
+title: "What Is mollison-designers-tropical-soils-and-cation-exchange-management Capacity and Why Does It Matter?"
 created: 2026-04-28
 tags: [query, soil-science, cec, nutrients, soil-health, chemistry]
 date: 2026-04-25
@@ -18,8 +18,8 @@ more nutrients against leaching and buffer against rapid pH changes, making them
 more forgiving and productive growing environments. Understanding CEC is
 fundamental to grasping
 [[cannabis-ph-management-and-soil-flushing]] is closely related, as pH adjustments
-in cannabis cultivation are essentially managing the balance of cations on soil
-exchange sites to optimize nutrient availability.
+in [[query-how-does-no-till-cannabis-cultivation-work]] are essentially managing the balance of cations on soil
+exchange sites to optimize [[ph-and-nutrient-availability-garden-soils]].
 
 [[cannabis-soil-and-nutrient-requirements]] are closely tied to CEC,
 as cannabis is a heavy feeder that benefits greatly from a soil with sufficient
@@ -30,7 +30,7 @@ fertilization than clay soils. Sand has very low CEC (often below 3 meq/100g)
 because sand particles are primarily quartz, which carries no electrical charge.
 Nutrients applied to sandy soils are highly susceptible to leaching with each
 irrigation event, meaning growers must either feed more frequently at lower
-concentrations or incorporate significant amounts of organic matter and clay to
+concentrations or incorporate significant amounts of [[hamilton-composting-and-organic-matter-management]] and clay to
 increase the soil's nutrient-holding capacity. Conversely, high-CEC clay soils can
 hold large nutrient reserves but may make those nutrients less immediately available
 to plants, requiring careful pH management and sometimes chelated nutrient
@@ -55,6 +55,8 @@ simple cation competition.
 
 ## Related
 
+- [[query-why-do-periodical-cicadas-emerge-in-13-and-17-year-cycles]]
+
 - query-what-is-ecological-succession-and-why-does-it-matter Questions
 - [[cannabis-ph-management-and-soil-flushing]]
 - [[teaming-with-microbes-soil-minerals-cation-exchange]]
@@ -77,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

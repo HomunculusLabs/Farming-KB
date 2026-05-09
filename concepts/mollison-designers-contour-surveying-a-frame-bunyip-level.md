@@ -1,5 +1,5 @@
 ---
-title: Contour Surveying with A-Frame and Bunyip Level
+title: mollison designers contour surveying a frame bunyip level with A-Frame and Bunyip Level
 created: 2026-04-28
 tags:
   - permaculture
@@ -16,7 +16,7 @@ type: concept
 
 # Contour Surveying with A-Frame and Bunyip Level
 
-Contour surveying is a foundational skill in [[permaculture-earthworks-design]] depends on accurate contour identification.
+Contour surveying is a foundational skill in permaculture-earthworks-design depends on accurate contour identification.
 
 ## The A-Frame Level
 
@@ -40,7 +40,7 @@ mark where the plumb line crosses the cross-brace. This is the level mark.
 To find contour: place one foot of the A-frame at your starting point. Swing
 the other foot uphill or downhill until the plumb line aligns with the level
 mark. Mark the position of both feet with pegs. Move the A-frame so one foot
-is at the second peg, and repeat. The series of pegs marks a contour line
+is at the second peg, and repeat. The series of pegs marks a [[comparison-swale-vs-contour-line-water-management]]
 across the landscape. Accuracy depends on the precision of construction and
 the care taken in aligning the plumb line at each step.
 
@@ -57,7 +57,7 @@ Bunyips are more accurate than A-frames over longer distances and can measure
 around obstacles such as rocks, trees, and existing structures. They are ideal
 for pegging swales, checking levels across dams, and establishing grades for
 drainage channels. The water level in the tubes must be read carefully, and
-the operator must account for the meniscus formed by surface tension.
+the operator must account for the meniscus formed by [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]].
 
 ## Laser Levels
 
@@ -66,7 +66,7 @@ a perfectly level reference line or plane. They offer superior accuracy and
 speed for large-scale earthworks. A rotating laser level set on a tripod can
 establish level across hundreds of metres, with a detector on a staff reading
 the height difference. While laser levels require significant investment
-compared to hand tools, they are justified on large earthworks projects where
+compared to [[garden-hand-tools-solomon]], they are justified on large earthworks projects where
 accuracy directly affects cost and performance.
 
 Mollison notes that while laser levels are excellent tools, the underlying
@@ -85,3 +85,5 @@ ground, widely spaced lines indicate gentle slopes.
 
 For [[mollison-designers-broadacre-grain-and-pasture-design]] for farm-scale
 application of contour principles, and [[mollison-designers-sea-level-change-coastal-zones]]
+## See Also
+- [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]]

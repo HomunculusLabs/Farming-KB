@@ -31,7 +31,7 @@ A hierarchical, patriarchal social structure characterized by the suppression of
 
 ### The Partnership Model
 
-An egalitarian social structure characterized by gender balance, harmony with nature, and the sacramental use of psychoactive plants. McKenna associated this model with nomadic hunter-gatherer cultures, shamanic societies, and the "Archaic" way of being.
+An egalitarian social structure characterized by [[holmgren-gender-balance-and-sustainability]], harmony with nature, and the sacramental use of psychoactive plants. McKenna associated this model with nomadic hunter-gatherer cultures, shamanic societies, and the "Archaic" way of being.
 
 ## The Role of Psychoactive Plants
 
@@ -45,7 +45,7 @@ Key elements of his argument:
 
 3. **Cultures of addiction vs. shamanic cultures**: He contrasted societies built around psychoactive plants that "dissolve boundaries and encourage community" with those built around alcohol, which he argued "reinforces hierarchy, social stratification, and male dominance."
 
-4. **The Archaic Revival**: McKenna saw late 20th-century interest in psychedelics, shamanism, and indigenous wisdom as a potential return to partnership values -- a "reconnection with the Archaic" that might redirect civilization away from ecological and social catastrophe.
+4. **The [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]**: McKenna saw late 20th-century interest in psychedelics, shamanism, and indigenous wisdom as a potential return to partnership values -- a "reconnection with the Archaic" that might redirect civilization away from ecological and social catastrophe.
 
 ## Shamanism and the Lost Archaic World
 
@@ -72,7 +72,11 @@ McKenna's thesis has been criticized as:
 
 Despite these criticisms, McKenna's work has been enormously influential in popularizing the idea that psychoactive plants deserve serious consideration in understanding human cultural evolution. His concept of the "Archaic Revival" has resonated with movements toward ecological consciousness, indigenous rights, and psychedelic renaissance.
 
-## Related Topics
+## Related
+
+- [[qatal-huyuk-kurgan-invasions-fall-of-partnership-society]]
+
+- [[mckenna-vegetable-mind-gaian-holism-plant-intelligence]] Topics
 
 - [[terence-mckenna-stoned-ape-hypothesis]] for the evolutionary component
 - [[psychedelic-plants-in-ancient-cultures]] for historical evidence

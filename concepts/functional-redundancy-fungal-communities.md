@@ -27,10 +27,10 @@ Under a Type B response, loss of diversity is inconsequential to ecosystem funct
 
 The response varies between different measures of ecosystem function:
 
-- **Plant shoot biomass** saturated at approximately 50% of arbuscular mycorrhizal diversity added to roots of an old-field plant community -- a Type B response (van der Heijden et al., 1998)
+- **Plant shoot biomass** saturated at approximately 50% of [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] diversity added to roots of an old-field plant community -- a Type B response (van der Heijden et al., 1998)
 - **Root biomass** continued to increase as mycorrhizal diversity increased -- a Type A response
 
-This demonstrates that the relationship between fungal diversity and ecosystem function is not uniform but depends on which ecosystem process is being measured. The critical question becomes whether individual measures like shoot and root biomass are truly indicative of broader ecosystem processes like net primary productivity.
+This demonstrates that the relationship between fungal diversity and ecosystem function is not uniform but depends on which ecosystem process is being measured. The critical question becomes whether individual measures like shoot and root biomass are truly indicative of broader [[fungal-ecosystem-processes-overview]] like net primary productivity.
 
 ## Fungal Diversity Estimates
 
@@ -65,9 +65,9 @@ O'Neill et al. (1991) showed that ecosystem components are organized hierarchica
 
 Several methodological approaches help bridge the gap between taxonomic and functional diversity:
 
-- **BIOLOG microtitre plate enzyme analysis**: Adapted from bacterial community analysis to investigate enzyme expression of fungal communities in microhabitats (Dobranic et al., 1999; Zak, 1993)
+- **BIOLOG microtitre plate enzyme analysis**: Adapted from [[core-endorhiza-bacterial-community-composition-cannabis]] analysis to investigate enzyme expression of fungal communities in microhabitats (Dobranic et al., 1999; Zak, 1993)
 - **Infrared microspectroscopy**: Measures microscale changes in carbon substrates of decomposing leaves, detecting fungal activity at the hyphal scale (Mascarenhas et al., 2000; Dighton et al., 2001)
-- **Molecular identification methods**: PCR-based tools (Gardes et al., 1991; Horton et al., 1998; Hirsch et al., 2000; Pennanen et al., 2001) identify who is present but cannot yet quantify relative abundance at each point in space and time
+- **[[biodiversity-fungal-molecular-identification-dna-barcoding]] methods**: PCR-based tools (Gardes et al., 1991; Horton et al., 1998; Hirsch et al., 2000; Pennanen et al., 2001) identify who is present but cannot yet quantify relative abundance at each point in space and time
 
 ## Climate Change and Functional Redundancy
 
@@ -75,7 +75,7 @@ Wolters et al. (2000) discuss how different groups of soil organisms respond var
 
 ## 21 Ecosystem Functions of Fungi
 
-Miller (1995) catalogued the range of fungal ecosystem functions, underscoring why the functional redundancy question is so complex. With at least 21 distinct functions ranging from decomposition to interplant nutrient transport to soil aggregate formation, the probability that all functions show the same diversity-function relationship is vanishingly small. Some functions may show Type A responses (requiring high diversity) while others show Type B responses (saturating at lower diversity).
+Miller (1995) catalogued the range of fungal ecosystem functions, underscoring why the functional redundancy question is so complex. With at least 21 distinct functions ranging from decomposition to interplant [[mycelial-network-nutrient-transport-imaging-gadd]] to soil [[soil-aggregate-formation-fungal-contributions]], the probability that all functions show the same diversity-function relationship is vanishingly small. Some functions may show Type A responses (requiring high diversity) while others show Type B responses (saturating at lower diversity).
 
 ## Implications for Conservation and Management
 
@@ -89,6 +89,6 @@ The functional redundancy debate has direct practical implications:
 
 Sources: Dighton, Fungi in Ecosystem Processes (Springer), Ch. 7.
 
-See also: [[fungal-biodiversity-ecosystem-function]], [[fungal-succession-patterns]]
+See also: [[fungal-biodiversity-ecosystem-function]], fungal-succession-patterns
 - [[dighton-mycorrhizal-diversity-ecosystem-function]]
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]

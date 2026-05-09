@@ -25,7 +25,7 @@ duration and subtly different experiential character.
 The core modification from LSD is replacement of the diethylamide
 group with a 2,4-dimethylazetidinyl amide. This four-membered
 azetidine ring constrains amide substituent geometry, potentially
-affecting receptor binding affinity and selectivity. The N6-propionyl
+affecting [[tihkal-receptor-binding-serotonin]] affinity and selectivity. The N6-propionyl
 group further distinguishes LSZ from LSD at the molecular level.
 
 ## Pharmacology
@@ -87,9 +87,9 @@ or specific bans.
 
 ## Legal Status
 
-- **United States:** Prosecutable under the Federal Analogue Act
+- **[[dmt-containing-plants-united-states-halpern]]:** Prosecutable under the Federal Analogue Act
   (Schedule I). Some states have specifically scheduled LSZ.
-- **United Kingdom:** Covered under the Psychoactive Substances Act
+- **United Kingdom:** Covered under the Psychoactive [[controlled-substances-act-and-psychedelic-research]]
   2016, prohibiting production, supply, and importation.
 - **EU:** Status varies; many states explicitly scheduled LSZ or
   covered it under broader lysergamide controls.
@@ -98,13 +98,13 @@ or specific bans.
 
 ## Harm Reduction
 
-- **Set and setting:** Mental state, environment, and trusted
+- **[[lsd-set-and-setting-framework]]:** Mental state, environment, and trusted
   companions are critical. Adverse reactions correlate with poor
   set and setting.
 - **Psychological risks:** Individuals with personal or family
   history of psychotic disorders or bipolar disorder should avoid
   psychedelics. HPPD is a rare but documented risk.
-- **Drug interactions:** Contraindicated with lithium, tramadol,
+- **[[cannabis-drug-interactions-and-contraindications]]:** Contraindicated with lithium, tramadol,
   MAOIs, and certain antidepressants. Serotonin syndrome risk
   increases with serotonergic combinations.
 - **Purity:** Unregulated research chemical — may be misidentified,

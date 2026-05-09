@@ -1,29 +1,13 @@
 ---
-title: "Oss & Oeric: Contamination Troubleshooting"
+title: "Oss & Oeric: [[mushroom-cultivation-contamination-troubleshooting]]"
 created: 2026-04-28
-tags: [[mycology, contamination, sterile-technique, oss-oeric]
+tags: [mycology, contamination, sterile-technique, oss-oeric]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md]
 type: concept
 ---
-
-# Oss & Oeric: Contamination Troubleshooting
-
-Contamination represents the most persistent challenge in amateur
-mushroom cultivation, and the Oss & Oeric guide devotes considerable
-attention to identifying, preventing, and managing it. The authors
-characterize the rye grain stage (Step III) as "the most difficult
-and discouraging step in the whole procedure," noting that rye is
-a suitable medium for a great variety of competing organisms. Their
-practical experience provides a detailed contamination taxonomy and
-prevention strategies.
-
-## Why Contamination Matters at the Rye Stage
-
-The rye grain stage is particularly vulnerable because rye is a
-nutrient-rich medium that supports a wide variety of organisms. While
-[[oss-oeric-rice-cake-tek-methodology]] for sterilization methods
+# Oss & Oeric: Contamination Troubleshooting Contamination represents the most persistent challenge in amateur mushroom cultivation, and the Oss & Oeric guide devotes considerable attention to identifying, preventing, and managing it. The authors characterize the rye grain stage (Step III) as "the most difficult and discouraging step in the whole procedure," noting that rye is a suitable medium for a great variety of competing organisms. Their practical experience provides a detailed contamination taxonomy and prevention strategies. ## Why Contamination Matters at the Rye Stage The rye grain stage is particularly vulnerable because rye is a nutrient-rich medium that supports a wide variety of organisms. While [[oss-oeric-rice-cake-tek-methodology]] for sterilization methods
 - [[oss-oeric-equipment-and-materials-list]] for supplies
 - [[oss-oeric-growing-parameters-cubensis]]
 ## Practical Applications
@@ -43,7 +27,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -93,7 +77,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -103,4 +87,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

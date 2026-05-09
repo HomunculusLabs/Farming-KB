@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - Dutch Passion Seed Company. "Chocolope Strain Profile." dutchpassion.com.
   - Leafly Staff (2023). "Chocolope Weed Strain Information." Leafly.
-  - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency 1995-2014." Biological Psychiatry.
+  - ElSohly, M.A. et al. (2016). "Changes in [[green-cannabis-potency-maximizing]] 1995-2014." Biological Psychiatry.
   - Mudge, E.M. et al. (2018). "Cannabinoid and Terpene Chemometrics." ACS Omega.
   - Hazekamp, A. et al. (2016). "The Cannabis Inventory." Cannabis and Cannabinoid Research.
 created: 2026-04-28
@@ -30,7 +30,7 @@ The strain is renowned for its distinctive chocolate and coffee aroma profile, c
 
 Chocolope is approximately 95% sativa and 5% indica. The maternal line is Chocolate Thai, a pure Thai landrace known for its dark, resinous flowers and cocoa-like flavor. The paternal line is Cannalope Haze, contributing Haze genetics and a slightly shorter flowering time.
 
-Chocolate Thai itself was prized in the 1980s but had nearly disappeared from cultivation by the late 1990s due to its extremely long flowering period (14+ weeks) and low yield. Dutch Passion's breeding program aimed to preserve its flavor while improving its agronomic traits.
+Chocolate Thai itself was prized in the 1980s but had nearly disappeared from cultivation by the late 1990s due to its extremely long flowering period (14+ weeks) and low yield. Dutch Passion's [[cervantes-breeding-program-design-goal-setting]] aimed to preserve its flavor while improving its agronomic traits.
 
 The Cannalope Haze parent contributes increased vigor and a reduced flowering time of approximately 8–9 weeks, making Chocolope far more viable for commercial and home cultivation than its Thai ancestor.
 
@@ -68,17 +68,17 @@ Physical effects are minimal due to the low indica content, though some users re
 
 Chocolope has a flowering time of 8–9 weeks indoors, significantly shorter than its Chocolate Thai parent. It responds well to SCROG and LST techniques due to its tall, stretchy growth pattern during early flowering.
 
-Indoor yields range from 400–500 g/m². The strain prefers moderate to high nutrient levels during vegetative growth, with reduced nitrogen during flowering. It is moderately resistant to mold and pests but requires attention to humidity control due to its airy bud structure.
+Indoor yields range from 400–500 g/m². The strain prefers moderate to high nutrient levels during vegetative growth, with reduced nitrogen during flowering. It is moderately resistant to mold and pests but requires attention to [[cervantes-humidity-control-dehumidification]] due to its airy bud structure.
 
 Outdoor cultivation is best suited to Mediterranean or tropical climates with a long growing season. Plants can reach heights of 2+ meters outdoors and should be planted after the last frost risk has passed.
 
 ## Medical Applications
 
-Chocolope's uplifting and focus-enhancing effects have made it a popular choice among medical cannabis patients. The most commonly reported applications include management of chronic fatigue, depression, and attention deficit symptoms.
+Chocolope's uplifting and focus-enhancing effects have made it a popular choice among medical cannabis patients. The most commonly reported applications include management of [[cannabis-chronic-fatigue-research]], depression, and attention deficit symptoms.
 
 The strain's energizing properties contrast with the sedating effects of many indica-dominant medical strains, making it suitable for daytime symptom management. Patients with treatment-resistant depression frequently report mood elevation and increased motivation.
 
-Some patients use Chocolope for mild pain management and tension headache relief, though its analgesic properties are generally considered moderate. The cerebral stimulation may also help with nausea and appetite stimulation, particularly in patients undergoing treatments that suppress appetite.
+Some patients use Chocolope for mild pain management and tension headache relief, though its analgesic properties are generally considered moderate. The cerebral stimulation may also help with [[cannabis-for-nausea-and-appetite-stimulation]] stimulation, particularly in patients undergoing treatments that suppress appetite.
 
 ## Notable Phenotypes and Crosses
 
@@ -100,7 +100,7 @@ Chocolope was developed by Dutch Passion in the early 2000s as part of a deliber
 
 The strain gained significant recognition in cannabis competitions and community reviews throughout the 2000s and 2010s. It has been consistently praised for its unique flavor profile and remains one of the most widely available chocolate-aroma strains in European dispensaries.
 
-Chocolope represents an important chapter in cannabis breeding history, exemplifying the movement to preserve and reintroduce landrace genetics into modern commercial lines before these genetic resources were lost to hybridization.
+Chocolope represents an important chapter in [[oner-cannabis-breeding-fundamentals]] history, exemplifying the movement to preserve and reintroduce landrace genetics into modern commercial lines before these genetic resources were lost to hybridization.
 
 ## See Also
 
@@ -109,4 +109,4 @@ Chocolope represents an important chapter in cannabis breeding history, exemplif
 - [[cannabis-blue-dream]]
 - haze
 - [[lambsbread]]
-- [[thai-stick-entity]]
+- thai-stick-entity

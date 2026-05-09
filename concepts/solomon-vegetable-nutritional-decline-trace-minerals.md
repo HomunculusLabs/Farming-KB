@@ -1,5 +1,5 @@
 ---
-title: "Vegetable Nutritional Decline and Trace Minerals - Steve Solomon"
+title: "[[solomon-vegetable-demand-classification-low-medium-high]] nutritional decline [[dynamic-accumulator-plants-trace-minerals]] Decline and Trace Minerals - [[steve-solomon]]"
 created: 2026-04-26
 tags:
   - gardening
@@ -27,12 +27,12 @@ Solomon's [[solomon-liquid-fertilizers-and-foliar-feeding]].
 
 ## Calcium, Magnesium, and pH
 
-Vegetables need calcium and magnesium in balance. The lime in COF provides
+Vegetables need [[dynamic-accumulator-plants-calcium-and-magnesium]] in balance. The lime in COF provides
 both. Solomon's approach: forget about pH, focus on balanced nutrition
-through COF. Over time, soil pH corrects itself as organic matter increases.
+through COF. Over time, soil pH corrects itself as [[hamilton-composting-and-organic-matter-management]] increases.
 See [[solomon-choosing-seeds-and-catalogs]].
 - Use COF consistently for balanced major and trace minerals.
-- Build soil organic matter through compost and rotation. See
+- Build soil [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] through compost and rotation. See
   [[solomon-liquid-fertilizers-and-foliar-feeding]].
 - Save seed from the healthiest, best-tasting plants to gradually
   re-select for nutrition. See
@@ -103,7 +103,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -113,4 +113,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

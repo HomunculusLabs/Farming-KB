@@ -1,11 +1,12 @@
 ---
-title: Natural Farming Transcends Time and Space
+title: comparison-natural-farming-vs-permaculture Transcends Time and Space
 created: 2026-04-18
 updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Natural Farming Transcends Time and Space
@@ -14,9 +15,9 @@ Masanobu Fukuoka argued that [[fukuoka-view-of-nature-and-human-hubris]].
 
 ## The Timeless Principle
 
-Natural farming is not a new invention or a modern innovation. It is, in Fukuoka's view, the original way of farming -- the way humans have always farmed before the development of civilization and scientific agriculture. "The natural way of farming existed long before the advent of the 'improved' techniques of the modern age."
+Natural farming is not a new invention or a modern innovation. It is, in Fukuoka's view, the original way of farming -- the way humans have always farmed before the development of civilization and [[fukuoka-critique-scientific-agriculture-civilization]]. "The natural way of farming existed long before the advent of the 'improved' techniques of the modern age."
 
-The principles of natural farming are embedded in the deepest layers of human consciousness. They are the instincts that guided our hunter-gatherer ancestors and the early agriculturalists who first settled the earth. They are not learned but remembered.
+The [[four-principles-of-natural-farming]] farming are embedded in the deepest layers of human consciousness. They are the instincts that guided our hunter-gatherer ancestors and the early agriculturalists who first settled the earth. They are not learned but remembered.
 
 ## Adaptation to Local Conditions
 
@@ -28,13 +29,13 @@ This principle of local adaptation is key to Fukuoka's [[fukuoka-natural-farming
 
 ## Beyond Cultural Boundaries
 
-Fukuoka's travels convinced him that the principles of natural farming were recognized in every culture. Traditional farming systems in India, Africa, Europe, and the Americas all contained elements of natural farming -- mixed cropping, composting, seed saving, integration of livestock and crops.
+Fukuoka's travels convinced him that the principles of natural farming were recognized in every culture. Traditional farming systems in India, Africa, Europe, and the Americas all contained elements of natural farming -- mixed cropping, composting, [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]], integration of livestock and crops.
 
 The destruction of these traditional systems by Western-style industrial agriculture was, in Fukuoka's view, a civilizational catastrophe. It replaced locally adapted, ecologically sound systems with globally standardized, ecologically destructive ones.
 
 ## The Mahayana and Hinayana of Farming
 
-Fukuoka used Buddhist terminology to distinguish between two levels of farming. Hinayana farming is the path of gradual improvement. It seeks to reduce inputs, minimize damage, and move closer to nature through incremental changes. Organic farming, sustainable agriculture, and conservation agriculture all fall into this category.
+Fukuoka used Buddhist terminology to distinguish between two levels of farming. Hinayana farming is the path of gradual improvement. It seeks to reduce inputs, minimize damage, and move closer to nature through incremental changes. [[coleman-deep-organic-farming-philosophy]], sustainable agriculture, and conservation agriculture all fall into this category.
 
 Mahayana farming is the path of sudden enlightenment. It recognizes that nature is perfect and that all human intervention is unnecessary. It seeks not to improve farming but to transcend farming entirely -- to reach a state where the farmer does nothing and nature does everything.
 
@@ -65,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

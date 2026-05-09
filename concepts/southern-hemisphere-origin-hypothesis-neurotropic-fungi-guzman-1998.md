@@ -1,5 +1,5 @@
 ---
-title: Southern Hemisphere Origin Hypothesis for Neurotropic Fungi
+title: guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi Origin Hypothesis for challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification
 created: 2026-05-06
 tags:
   - biogeography
@@ -46,7 +46,7 @@ features support this:
 
 ## Endemism Patterns
 
-A striking feature of the South American neurotropic mycoflora is the high
+A striking feature of the [[chiric-caspi-brunfelsia-south-american-hallucinogen]] neurotropic mycoflora is the high
 degree of endemism. Many species recorded from South American countries have
 not been found elsewhere:
 
@@ -56,7 +56,7 @@ not been found elsewhere:
 
 This high endemism suggests long-term evolutionary presence. Mexico, while
 diverse (76 total species, 44 Psilocybe), shows many species in sections that
-also occur in South America, such as Section Zapotecorum, suggesting
+also occur in South America, such as [[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]], suggesting
 northward migration. Mexico also has distinctive endemics in Sections
 Aztecorum and Mexicanae, reflecting secondary diversification following
 dispersal.
@@ -109,7 +109,7 @@ implications:
 3. Dispersal to other continents occurred through a combination of Gondwanan
    vicariance (for old lineages) and more recent long-distance dispersal
 
-4. The current pantropical distribution of species like P. cubensis and
+4. The current [[copelandia-cyanescens-pantropical-distribution-and-ecology]] of species like P. cubensis and
    Copelandia cyanescens represents relatively recent range expansions
 
 5. Temperate species like P. semilanceata represent secondary adaptations to
@@ -127,7 +127,9 @@ The authors acknowledge several caveats to this hypothesis:
 
 ## See Also
 
+- [[guzman-transcontinental-species-pairs-southern-hemisphere-origins]]
+
 - [[psilocybe-southern-hemisphere-origin-hypothesis]]
 - [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]
 - [[psilocybe-zapotecorum]]
-- Neurotropic Fungi Diversity and Vegetation Types
+- Neurotropic [[freshwater-fungi-diversity-and-sampling]] and Vegetation Types

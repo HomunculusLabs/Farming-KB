@@ -28,7 +28,7 @@ sources:
 - **Genus:** Aspergillus
 - **Section:** Flavi
 
-*A. oryzae* is closely related to *Aspergillus flavus* and *Aspergillus parasiticus*, both of which can produce the carcinogenic aflatoxins. *A. oryzae* itself does not produce aflatoxins, and genomic studies have revealed loss-of-function mutations in the aflatoxin biosynthetic gene cluster that distinguish it from its toxic relatives.
+*A. oryzae* is closely related to *[[aspergillus-flavus]]* and *Aspergillus parasiticus*, both of which can produce the carcinogenic aflatoxins. *A. oryzae* itself does not produce aflatoxins, and genomic studies have revealed loss-of-function mutations in the aflatoxin biosynthetic gene cluster that distinguish it from its toxic relatives.
 
 ## Morphology and Growth
 
@@ -48,7 +48,7 @@ One of the key industrial values of *A. oryzae* lies in its ability to secrete l
 - **Cellulases and Hemicellulases:** For plant cell wall degradation
 - **Phytases:** For phytic acid dephosphorylation
 
-These native enzymes have been exploited for centuries in food fermentation. In modern biotechnology, *A. oryzae* is used as a host for heterologous protein production, with numerous industrial enzymes being manufactured using this organism.
+These native enzymes have been exploited for centuries in food fermentation. In modern biotechnology, *A. oryzae* is used as a host for heterologous [[fungal-single-cell-protein-production]], with numerous industrial enzymes being manufactured using this organism.
 
 ## Genome and Molecular Biology
 
@@ -57,9 +57,9 @@ The genome of *A. oryzae* strain RIB40 was sequenced in 2005, revealing:
 - **Genome Size:** Approximately 37 Mb, containing approximately 12,000 predicted genes
 - **Expansion:** The *A. oryzae* genome is significantly larger than that of the related *A. nidulans* (30 Mb) and *A. fumigatus* (29 Mb), largely due to expansion of gene families related to secondary metabolism and secreted hydrolytic enzymes
 - **Secretory Pathway:** An expanded repertoire of genes involved in protein secretion, including the unfolded protein response pathway, supporting its role as an industrial enzyme producer
-- **Secondary Metabolism:** Contains numerous secondary metabolite gene clusters, though the aflatoxin cluster is non-functional due to deletions and mutations
+- **Secondary Metabolism:** Contains numerous [[fungal-elicitors-enhanced-secondary-metabolite-production]] gene clusters, though the aflatoxin cluster is non-functional due to deletions and mutations
 
-The availability of efficient transformation systems, including protoplast-mediated transformation and gene targeting, has made *A. oryzae* an important model for functional genomics studies in filamentous fungi.
+The availability of efficient transformation systems, including protoplast-mediated transformation and gene targeting, has made *A. oryzae* an important model for [[functional-genomics-arbuscular-mycorrhiza]] studies in filamentous fungi.
 
 ## Industrial Applications
 
@@ -72,7 +72,7 @@ Beyond traditional food fermentation, *A. oryzae* has numerous modern industrial
 
 ## Ecological Niche
 
-In nature, *A. oryzae* is thought to be primarily a soil fungus, though it is rarely isolated from natural environments. This has led to the hypothesis that it evolved through domestication from a wild ancestor similar to *A. flavus*, with human selection for desirable fermentation characteristics over thousands of years resulting in the loss of virulence factors and toxin production.
+In nature, *A. oryzae* is thought to be primarily a soil fungus, though it is rarely isolated from natural environments. This has led to the hypothesis that it evolved through domestication from a wild ancestor similar to *A. flavus*, with human selection for desirable fermentation characteristics over thousands of years resulting in the loss of [[fungal-virulence-factors-host-immune-evasion]] and toxin production.
 
 ## Safety Considerations
 
@@ -108,7 +108,7 @@ Standard techniques for isolating and maintaining *A. oryzae* in the laboratory 
 - **Culturing:** Grows readily on Czapek-Dox agar, malt extract agar (MEA), and potato dextrose agar (PDA) at 25 to 30°C. Conidia are harvested by flooding mature colonies with sterile 0.01% Tween 80 solution and gently scraping the surface
 - **Strain Preservation:** Conidial suspensions in 15 to 25% glycerol stored at -80°C provide long-term viability. Periodic subculturing every 2 to 4 weeks on solid media is also practiced, though genetic drift can accumulate
 - **Transformation:** Protoplast-mediated transformation using cell wall-digesting enzymes (Novozyme 234 or Driselase) is well-established. Agrobacterium tumefaciens-mediated transformation (ATMT) has also been adapted for *A. oryzae*, offering higher efficiency and fewer copy-number issues
-- **Identification:** ITS rDNA sequencing, calmodulin gene sequencing, and beta-tubulin gene sequencing are used for molecular identification. MALDI-TOF mass spectrometry databases are increasingly available for rapid species confirmation
+- **Identification:** ITS rDNA sequencing, calmodulin gene sequencing, and beta-tubulin gene sequencing are used for [[biodiversity-fungal-molecular-identification-dna-barcoding]]. MALDI-TOF mass spectrometry databases are increasingly available for rapid species confirmation
 
 ## See Also
 

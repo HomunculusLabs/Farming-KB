@@ -1,5 +1,5 @@
 ---
-title: Mescaline Peyote and San Pedro Cactus
+title: turner-mescaline-peyote-san-pedro-experience and San san-pedro-cactus-history
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -27,7 +27,7 @@ T. peruvianus is reported to be several times as potent by weight as other speci
 
 Peyote was used throughout Mexico to as far north as Texas. San Pedro was used in the Andes mountain region of South America. The earliest known depiction of San Pedro is on a stone tablet from Peru dating to 1300 B.C. Ritual objects containing Peyote images date back to 500 B.C.
 
-Mescaline was the first psychedelic compound extracted and isolated (1896) and the first synthesized (1919). Aldous Huxley brought it to public attention through The Doors of Perception (1953). The Native American Church was formed in 1918 to preserve the right to use Peyote.
+Mescaline was the first psychedelic compound extracted and isolated (1896) and the first synthesized (1919). Aldous Huxley brought it to public attention through The Doors of Perception (1953). The [[halpern-sacramental-peyote-and-native-american-church]] Church was formed in 1918 to preserve the right to use Peyote.
 
 ## Dosage and Preparation
 
@@ -66,7 +66,7 @@ Turner considers mescaline the favorite of the traditional psychedelics, combini
 
 ## Legal Status and Conservation
 
-Peyote is classified as a Schedule I controlled substance in the United States, though the Native American Church has protected religious use rights through the American Indian Religious Freedom Act (1978, amended 1994). San Pedro and other Trichocereus species are legal to grow in most countries but become controlled when prepared for consumption.
+Peyote is classified as a Schedule I controlled substance in the [[dmt-containing-plants-united-states-halpern]], though the Native American Church has protected religious use rights through the [[harner-american-indian-peyote-rituals]] Religious Freedom Act (1978, amended 1994). San Pedro and other Trichocereus species are legal to grow in most countries but become controlled when prepared for consumption.
 
 Wild peyote populations in Texas and northern Mexico have declined significantly due to overharvesting and habitat loss. The cactus grows extremely slowly — a single button may take 5-10 years to reach maturity from seed. Several Trichocereus species grow much faster and can serve as sustainable alternatives for ceremonial use.
 
@@ -82,3 +82,7 @@ Wild peyote populations in Texas and northern Mexico have declined significantly
 - [[5-meo-dmt-compound-profile]]
 - [[psychedelic-research-legal-history-united-states]]
 - [[turner-brief-history-psychedelics-ancient-to-modern]]
+
+## See Also
+
+- [[peyote-mescaline-cactus-pharmacology]]

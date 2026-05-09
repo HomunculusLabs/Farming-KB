@@ -2,14 +2,12 @@
 title: Agaricus subrufescens
 created: 2026-04-28
 type: species
-tags: [[mycology, cultivation, medicinal-mushrooms, agaricus]
+tags: [mycology, cultivation, medicinal-mushrooms, agaricus]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 ---
-# Agaricus subrufescens
-
-Agaricus subrufescens, commonly known as the Almond Agaricus or the Brazil Mushroom, is a gourmet and medicinal mushroom distinguished by its pronounced almond aroma. Originally described from North America, this species has gained significant attention for both its culinary qualities and its medicinal properties, particularly its immune-enhancing beta-glucan content. It is closely related to [[agaricus-blazei]], a name often used interchangeably in commercial contexts. See [[ganoderma-lucidum]] for another widely studied medicinal mushroom.
+# Agaricus subrufescens Agaricus subrufescens, commonly known as the Almond Agaricus or the Brazil Mushroom, is a gourmet and medicinal mushroom distinguished by its pronounced almond aroma. Originally described from North America, this species has gained significant attention for both its culinary qualities and its medicinal properties, particularly its immune-enhancing beta-glucan content. It is closely related to [[agaricus-blazei]], a name often used interchangeably in commercial contexts. See [[ganoderma-lucidum]] for another widely studied medicinal mushroom.
 
 ## Taxonomy and Description
 
@@ -35,7 +33,7 @@ Agaricus subrufescens, commonly known as the Almond Agaricus or the Brazil Mushr
 
 ## Medicinal Properties
 
-A. subrufescens has become one of the most studied medicinal mushrooms in recent decades:
+A. subrufescens has become one of the most studied [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] in recent decades:
 
 - **Beta-glucans:** Contains high concentrations of beta-1,3/1,6-D-glucans, polysaccharides known to modulate immune function
 - **Anti-tumor activity:** Numerous studies have demonstrated anti-tumor effects in vitro and in animal models, particularly against sarcoma 180
@@ -50,7 +48,7 @@ The species is widely marketed as a dietary supplement, particularly in Japan wh
 
 A. subrufescens is a secondary decomposer and requires composted substrates similar to those used for [[ganoderma-lucidum]] (Reishi) and [[ganoderma-lucidum]] (Reishi) and [[agaricus-brunnescens]]:
 
-- **Substrate preparation:** Requires a composting process involving microbial succession of primary and secondary decomposers. Phase I composting takes 7-14 days, with thermophilic temperatures reaching 160°F (71°C).
+- **[[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]:** Requires a composting process involving microbial succession of primary and secondary decomposers. Phase I composting takes 7-14 days, with thermophilic temperatures reaching 160°F (71°C).
 - **Phase II pasteurization:** Compost is pasteurized at 140°F (60°C) for several hours, then conditioned at lower temperatures to select for beneficial microorganisms.
 - **Spawning:** Grain spawn is mixed into the compost at approximately 1 quart per 10-15 square feet of growing surface.
 - **Spawn run:** Mycelium colonizes the compost over 14-21 days at 75-85°F (24-29°C) with high CO2 levels (>5,000 ppm).
@@ -58,7 +56,7 @@ A. subrufescens is a secondary decomposer and requires composted substrates simi
 - **Fruiting temperature:** Prefers warmer growing conditions than A. brunnescens, typically 70-80°F (21-27°C) for fruiting initiation.
 - **pH:** Optimal pH range around 6.5-7.0
 - **Yield:** Commercial yields are lower than for A. brunnescens, typically 2-4 lbs per square foot over 2-3 flushes.
-- **Challenges:** Susceptible to various competitors and diseases common in Agaricus cultivation, including Trichoderma green mold, bacterial blotch, and virus diseases.
+- **Challenges:** Susceptible to various competitors and diseases common in Agaricus cultivation, including [[growing-gourmet-trichoderma-green-mold-management]] mold, [[growing-gourmet-bacterial-blotch-disease-management]], and virus diseases.
 
 ## Market and Commercial Significance
 
@@ -77,9 +75,9 @@ The taxonomy of this species has been contentious. Originally described by Peck 
 
 ## Related Species
 
-- **Agaricus brunnescens** — Commercial Button Mushroom; see [[agaricus-arvensis]]
+- **Agaricus brunnescens** — Commercial [[growing-gourmet-button-mushroom-agaricus-cultivation]]; see [[agaricus-arvensis]]
 - **Agaricus blazei** — Often used as a synonym in commercial contexts
-- **Agaricus sylvicola** — Sylvan Agaricus, also with almond notes; see [[agaricus-brunnescens]] — Button mushroom composting and cultivation
+- **Agaricus sylvicola** — Sylvan Agaricus, also with almond notes; see [[agaricus-brunnescens]] — Button [[singh-mushroom-composting-and-lignocellulose-degradation]] and cultivation
 - [[grifola-frondosa]] — Maitake, another immune-enhancing mushroom
 - [[agaricus-arvensis]] — Horse Mushroom, another aromatic Agaricus species
 - [[trametes-versicolor-entity]] — Turkey Tail, comparison of medicinal mushroom research

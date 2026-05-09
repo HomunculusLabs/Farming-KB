@@ -1,5 +1,5 @@
 ---
-title: "Hugelkultur vs Keyline Design"
+title: "comparison hugelkultur vs keyline design Design"
 created: 2026-04-28
 tags:
   - permaculture
@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - "Holzer, Sepp. Sepp Holzer's Permaculture. Chelsea Green Publishing, 2011."
   - "Yeomans, P.A. Water for Every Farm: Yeomans Keyline Plan. Second Edition, 2008."
-  - "Jacke, Dave, and Eric Toensmeier. Edible Forest Gardens. Chelsea Green Publishing, 2005."
+  - "Jacke, Dave, and Eric Toensmeier. Edible [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]. Chelsea Green Publishing, 2005."
   - "Mollison, Bill. Permaculture: A Designers' Manual. Tagari Publications, 1988."
   - "Shepard, Mark. Restoration Agriculture. Acres U.S.A., 2013."
 type: comparison
@@ -28,7 +28,7 @@ Hugelkultur and Keyline Design are two of the most influential land-management t
 
 ## What is Hugelkultur
 
-Hugelkultur (German for "mound culture") involves constructing raised beds or mounds from woody debris, branches, logs, and organic matter, topped with soil and compost. As the buried wood decomposes, it acts as a sponge — absorbing and slowly releasing water, providing aeration, and fostering a rich [[biochar-in-agriculture|biochar]] amendment within mounds
+Hugelkultur (German for "mound culture") involves constructing raised beds or mounds from [[fungal-succession-woody-debris-ecology]], branches, logs, and [[hamilton-composting-and-organic-matter-management]], topped with soil and compost. As the buried wood decomposes, it acts as a sponge — absorbing and slowly releasing water, providing aeration, and fostering a rich [[biochar-in-agriculture|biochar]] amendment within mounds
 - **Best suited for:** Temperate to continental climates, homesteads, market gardens, food forests
 - **Typical dimensions:** 1–2 m wide, 0.5–1.5 m tall, any length; often built along contour on slopes
 - **Wood selection:** Deciduous hardwoods decompose faster and are preferred; avoid allelopathic species (e.g., black walnut) and highly rot-resistant woods (e.g., cedar, locust) for the core — reserve those for surface mulch or structural elements
@@ -41,7 +41,7 @@ Hugelkultur (German for "mound culture") involves constructing raised beds or mo
 - Not practical on very steep slopes (>30%) without terracing or additional earthworks
 - Wood-heavy beds can create excessive warmth in hot climates, stressing cool-season crops
 
-Hugelkultur beds are often paired with [[mollison-designers-cover-crops-and-green-manure-species|cover crops]] during establishment. See also [[water-harvesting-techniques-comparison|water harvesting strategies]] and is frequently integrated with [[mollison-designers-cover-crops-and-green-manure-species]], [[query-what-is-syntropic-agriculture-and-how-do-i-start]], rotational grazing |
+Hugelkultur beds are often paired with [[mollison-designers-cover-crops-and-green-manure-species|cover crops]] during establishment. See also [[water-harvesting-techniques-comparison|water harvesting strategies]] and is frequently integrated with [[mollison-designers-cover-crops-and-green-manure-species]], [[query-what-is-syntropic-agriculture-and-how-do-i-start]], [[comparison-rotational-grazing-vs-continuous-grazing]] |
 
 ## When to Use Each
 
@@ -75,7 +75,7 @@ A practical integration approach:
 
 ## Key Differences Summary
 
-The fundamental distinction is **scope and mechanism**. Hugelkultur is a point-source technique — it creates highly fertile, water-retentive microsites using concentrated organic matter. Keyline Design is a systems-level technique — it reorganizes how water moves across an entire property using geomorphic principles and mechanical cultivation. Hugelkultur works from the bottom up (building soil on a spot); Keyline works from the top down (managing water across a landscape). Both are essential tools in the permaculture designer's repertoire, and the most resilient farms use both at appropriate scales.
+The fundamental distinction is **scope and mechanism**. Hugelkultur is a point-source technique — it creates highly fertile, water-retentive microsites using [[hamilton-concentrated-organic-fertilizer-products]] matter. Keyline Design is a systems-level technique — it reorganizes how water moves across an entire property using geomorphic principles and mechanical cultivation. Hugelkultur works from the bottom up (building soil on a spot); Keyline works from the top down (managing water across a landscape). Both are essential tools in the permaculture designer's repertoire, and the most resilient farms use both at appropriate scales.
 ## Practical Considerations
 
 Successful implementation of Hugelkultur vs Keyline Design requires attention to
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

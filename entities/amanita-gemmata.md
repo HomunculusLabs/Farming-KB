@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
 
 # Amanita gemmata
 
-*Amanita gemmata*, commonly known as the gemmed amanita or jeweled deathcap, is a species of basidiomycete fungus in the family Amanitaceae. It is closely related to the iconic fly agaric (*Amanita muscaria*) and, like that species, contains the psychoactive compounds ibotenic acid and muscimol. While its reputation and bioactive profile are less extensively documented than those of *A. muscaria*, *A. gemmata* represents an important member of the psychoactive Amanita group and has been the subject of increasing phytochemical and pharmacological interest.
+*Amanita gemmata*, commonly known as the gemmed amanita or jeweled deathcap, is a species of basidiomycete fungus in the family Amanitaceae. It is closely related to the iconic fly agaric (*[[allegro-amanita-muscaria-properties-and-pharmacology]]*) and, like that species, contains the psychoactive compounds [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] and muscimol. While its reputation and bioactive profile are less extensively documented than those of *A. muscaria*, *A. gemmata* represents an important member of the psychoactive Amanita group and has been the subject of increasing phytochemical and pharmacological interest.
 
 ## Taxonomy and Description
 
@@ -20,11 +20,11 @@ The universal veil remnants appear as small, white to cream-colored warts or pat
 
 The gills are free from the stem, crowded, and white to cream-colored. The stem is 5–10 cm tall and 0.8–1.5 cm thick, white, cylindrical or slightly tapering upward, and bears a membranous, pendant annulus (ring) near the apex. The base of the stem is typically bulbous and enclosed in a sac-like volva.
 
-The spore print is white. Spores are broadly ellipsoid, smooth, non-amyloid, and measure 8–10 × 6–8 µm.
+The [[comparison-spore-print-collection-vs-spore-syringe-production]] is white. Spores are broadly ellipsoid, smooth, non-amyloid, and measure 8–10 × 6–8 µm.
 
 ## Distribution and Habitat
 
-*Amanita gemmata* has a wide distribution across temperate regions of the Northern Hemisphere. It is found throughout Europe, from the Mediterranean to Scandinavia, and extends into parts of Asia and North America. The species is associated with both coniferous and deciduous forests, forming ectomycorrhizal associations with various tree species including pines, spruces, oaks, and beeches.
+*Amanita gemmata* has a wide distribution across temperate regions of the Northern Hemisphere. It is found throughout Europe, from the Mediterranean to Scandinavia, and extends into parts of Asia and [[psilocybin-north-america-pacific-northwest]]. The species is associated with both coniferous and deciduous forests, forming ectomycorrhizal associations with various tree species including pines, spruces, oaks, and beeches.
 
 Fruiting occurs from late summer through autumn, typically from August through October. The mushroom is found in a variety of forest types, from lowland woodlands to montane and subalpine forests.
 
@@ -46,7 +46,7 @@ Ibotenic acid is a polar, water-soluble compound that is structurally related to
 
 Muscimol (5-aminomethyl-3-hydroxyisoxazole) is the decarboxylated derivative of ibotenic acid and is formed through dehydration of ibotenic acid during drying, heating, or extraction. Muscimol is the primary psychoactive compound in dried *A. gemmata* preparations and is significantly more potent than ibotenic acid.
 
-Unlike ibotenic acid, muscimol acts as a potent and selective GABA_A receptor agonist. This mechanism of action is shared with benzodiazepines, barbiturates, and alcohol, though muscimol's receptor binding profile and functional effects are distinct from these classical sedative-hypnotics. The GABAergic activity of muscimol accounts for the sedative, hypnotic, and dissociative effects reported by users of *Amanita* species.
+Unlike ibotenic acid, muscimol acts as a potent and selective GABA_A receptor agonist. This mechanism of action is shared with benzodiazepines, barbiturates, and alcohol, though muscimol's [[tihkal-receptor-binding-serotonin]] profile and functional effects are distinct from these classical sedative-hypnotics. The GABAergic activity of muscimol accounts for the sedative, hypnotic, and dissociative effects reported by users of *Amanita* species.
 
 ### Muscarine
 
@@ -76,7 +76,7 @@ Accurate identification is critical, as *A. gemmata* can be confused with other 
   of scales around the bulbous stem base rather than a membranous sac.
 - **A. flavoconia** (yellow patches) has a bright yellow cap with powdery
   yellow warts and a more fragile volva. It is found primarily in eastern
-  North American hardwood forests.
+  [[growing-gourmet-north-american-reishi-species]] hardwood forests.
 
 ## See Also
 
@@ -84,4 +84,4 @@ Accurate identification is critical, as *A. gemmata* can be confused with other 
 - [[amanita-muscaria-guide]]
 - ethnomycology
 
-See also: [[amanita-mushrooms-history-chemistry-and-cultural-significance]]
+See also: [[guzman-allen-gartz-amanita-ibotenic-acid-fungi-cultural-significance]]

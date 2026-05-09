@@ -1,5 +1,5 @@
 ---
-title: Conocybe cyanopus Profile
+title: gartz-conocybe-cyanopus-rare-psychoactive-mushroom Profile
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -32,7 +32,7 @@ due to its lack of attractiveness and the difficulty of preserving specimens.
   smooth to faintly roughened, reddish-brown in deposit
 - **Basidia:** 4-spored, pleurocystidia absent, cheilocystidia present,
   18–25 × 6.5–10 micrometers
-- **Spore print:** Rusty brown to dark brown
+- **[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Rusty brown to dark brown
 
 The bluish discoloration at the stem base is the most reliable field
 identification characteristic, as no other European Conocybe species display
@@ -59,8 +59,8 @@ Gartz's analysis of five European mushrooms collected in 1989 near Potsdam revea
 
 Concentrations of psilocybin were strikingly similar to those found in
 [[psilocybe-semilanceata]] and [[psilocybe-semilanceata]] — Europe's most common psychoactive species
-- [[psilocybe-tampanensis-cultivation]] — Species known for sclerotia formation
-- [[gartz-european-psychoactive-mushroom-species]]
+- psilocybe-tampanensis-cultivation — Species known for [[growing-gourmet-sclerotia-formation-biology-mushrooms]]
+- gartz-european-psychoactive-mushroom-species
 - [[fungi-around-the-world-species-distribution]]
 - [[psychedelic-research-legal-history-united-states]]
 ## Practical Considerations
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

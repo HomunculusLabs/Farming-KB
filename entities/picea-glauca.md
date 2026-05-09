@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Nienstaedt, H. & Zasada, J.C. (1990). "Picea glauca (Moench) Voss." In: Burns, R.M. & Honkala, B.H. (eds.), Silvics of North America, Vol. 1. USDA Forest Service.
+  - Nienstaedt, H. & Zasada, J.C. (1990). "Picea glauca (Moench) Voss." In: Burns, R.M. & Honkala, B.H. (eds.), Silvics of psilocybin-north-america-pacific-northwest, Vol. 1. USDA Forest Service.
   - Viereck, L.A. & Johnston, W.F. (1990). "Picea mariana." In: Burns, R.M. & Honkala, B.H. (eds.), Silvics of North America, Vol. 1. USDA Forest Service.
   - Mackay, J. & Comeau, P.G. (2020). "Biomass and volume equations for tree species in the boreal forest of Canada." Forestry Chronicle 96(2): 145-156.
   - Li, P. et al. (2017). "Ecological genomics of adaptation in white spruce (Picea glauca)." Ecology and Evolution 7(16): 6414-6427.
@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-**Picea glauca**, commonly known as the white spruce, is a coniferous tree native to the boreal forests of northern North America. It spans from Alaska across Canada to the Atlantic provinces, extending southward into the northern tier of the United States.
+**Picea glauca**, commonly known as the white spruce, is a coniferous tree native to the [[fungal-diversity-boreal-forests-taiga]] of northern North America. It spans from Alaska across Canada to the Atlantic provinces, extending southward into the northern tier of the United States.
 
 White spruce is one of the most economically important tree species in the boreal forest, providing timber, pulpwood, and specialty products. It is also widely planted as an ornamental and windbreak tree across temperate regions of North America and Europe.
 
@@ -50,7 +50,7 @@ The root system is shallow and widespread, with the majority of fine roots conce
 
 ## Distribution and Habitat
 
-White spruce has the largest latitudinal range of any North American spruce, extending from the tree line in Alaska and northwestern Canada to the Atlantic provinces of Newfoundland and Nova Scotia. The southern limit of continuous distribution extends through the northern Great Lakes states to New England.
+White spruce has the largest latitudinal range of any [[growing-gourmet-north-american-reishi-species]] spruce, extending from the tree line in Alaska and northwestern Canada to the Atlantic provinces of Newfoundland and Nova Scotia. The southern limit of continuous distribution extends through the northern Great Lakes states to New England.
 
 The species occupies an elevational range from near sea level in the north to approximately 1,800 meters in the southern Rocky Mountains. At its northern limits, it grows at or near the arctic tree line, where it assumes a dwarfed, krummholz growth form.
 
@@ -80,7 +80,7 @@ White spruce provides critical habitat and food resources for boreal forest wild
 
 The dense, conical crown provides winter cover and thermal protection for moose, snowshoe hare, and numerous bird species. Old-growth white spruce stands support cavity-nesting birds and provide denning sites for martens and fishers.
 
-White spruce forms ectomycorrhizal associations with a diverse community of fungal symbionts, including species of Suillus, Laccaria, Cortinarius, and Hebeloma. These associations are essential for nutrient uptake, particularly nitrogen and phosphorus, in nutrient-poor boreal soils.
+White spruce forms ectomycorrhizal associations with a diverse community of fungal symbionts, including species of Suillus, Laccaria, Cortinarius, and Hebeloma. These associations are essential for [[plant-nutrient-uptake-mechanisms]], particularly nitrogen and phosphorus, in nutrient-poor boreal soils.
 
 The species is susceptible to several damaging insect pests, with the spruce budworm (Choristoneura fumiferana) being the most significant defoliator in eastern boreal forests. Outbreaks can cause widespread growth reduction and tree mortality over millions of hectares.
 
@@ -90,13 +90,13 @@ White spruce is also attacked by the white pine weevil (Pissodes strobi), which 
 
 White spruce wood is light, straight-grained, and moderately strong, with a pale yellowish-white color. It is widely used for dimensional lumber, structural panels, and pulp, and its tonal qualities make it a preferred wood for sounding boards in musical instruments.
 
-The species has deep cultural significance for Indigenous peoples across the boreal forest region. The roots were used for basketry and sewing, the gum was chewed as medicine, and the wood was used for canoe frames, snowshoes, and other utilitarian items.
+The species has deep [[ethnomycology-cultural-significance-sacred-fungi]] for Indigenous peoples across the boreal forest region. The roots were used for basketry and sewing, the gum was chewed as medicine, and the wood was used for canoe frames, snowshoes, and other utilitarian items.
 
 White spruce foliage and branches were traditionally used as bedding, insulation, and flooring in winter dwellings by Cree, Dene, and other northern Indigenous peoples. The aromatic boughs were placed inside boots and mittens for warmth and fragrance.
 
 The essential oil of white spruce has commercial applications in aromatherapy, cleaning products, and traditional medicine. The oil contains high concentrations of α-pinene, β-pinene, and camphene, contributing to its characteristic fresh, resinous fragrance.
 
-As climate change rapidly transforms the boreal forest, white spruce is experiencing range shifts northward and upward in elevation. Understanding its capacity for adaptation and migration is critical for predicting the future composition and productivity of boreal ecosystems.
+As [[dighton-fungi-climate-change-feedback]] rapidly transforms the boreal forest, white spruce is experiencing range shifts northward and upward in elevation. Understanding its capacity for adaptation and migration is critical for predicting the future composition and productivity of boreal ecosystems.
 
 ## See Also
 

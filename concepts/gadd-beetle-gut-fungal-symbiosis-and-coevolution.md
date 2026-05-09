@@ -1,5 +1,5 @@
 
-# Beetle Gut [[fungal-diversity-agricultural-systems]].
+# Beetle Gut fungal-diversity-agricultural-systems.
 The authors isolated 650 yeasts from digestive tracts of beetles, discovering
 more than 200 undescribed taxa — a finding that gains significance given that
 fewer than 700 ascomycete yeast species had been described from all Earth's
@@ -36,7 +36,7 @@ Several yeast-insect interactions have documented functional significance:
 
 - **Resource amelioration**: The cactophilic yeast-*Drosophila* association
   studied by Starmer and colleagues demonstrates how yeasts improve the
-  nutritional quality of decaying cactus substrates for fly larvae.
+  [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of decaying cactus substrates for [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]].
 
 - **Termite associations**: Multiple yeast species have been found in termite
   guts (Prillinger et al., 1996; Schäfer et al., 1996), though their specific
@@ -59,7 +59,7 @@ has major implications for estimating global [[fungal-biodiversity]]. Because al
 all dissected beetles in superfamilies Cucujoidea and Tenebrionoidea bore yeasts,
 the untapped diversity of beetles themselves supports very high estimates of
 undiscovered yeasts. The ~200 undescribed yeasts from beetle guts represent a
-substantial fraction of all known ascomycete yeast diversity.
+substantial fraction of all known ascomycete [[biodiversity-yeast-diversity-ecology]].
 
 The question of whether gut yeasts drive rapid beetle radiation (by providing
 essential digestive services) or whether beetle lineages diversify when freed
@@ -69,8 +69,8 @@ endosymbionts.
 
 ## See Also
 
-- insect fungal symbiosis
-- yeast biodiversity and ecology
+- insect [[fungal-symbiosis]]
+- [[rhodotorula-yeast-biodiversity-ecology]] and ecology
 - ambrosia beetle fungal farming
 - fungal endosymbionts in arthropods
 

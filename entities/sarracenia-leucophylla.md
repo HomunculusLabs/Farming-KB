@@ -9,7 +9,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Schnell, D.E. (2002). *Carnivorous Plants of the United States and Canada*. 2nd ed. Timber Press.
+  - Schnell, D.E. (2002). *Carnivorous Plants of the dmt-containing-plants-united-states-halpern and Canada*. 2nd ed. Timber Press.
   - McPherson, S. (2007). *Pitcher Plants of the Americas*. The Green House Publishing.
   - Ellison, A.M. & Gotelli, N.J. (2001). "Evolutionary ecology of carnivorous plants." *Trends in Ecology & Evolution*, 16(11), 623–629.
   - USDA NRCS (2024). *Sarracenia leucophylla Raf.* Natural Resources Conservation Service PLANTS Database.
@@ -22,7 +22,7 @@ sources:
 
 It is native to the southeastern United States, primarily the Gulf Coast plain from Mississippi to the Florida Panhandle, with isolated populations in southwestern Georgia and southeastern Alabama.
 
-The species is distinguished by its tall, prominently white-lidded pitchers with contrasting red or green venation, making it one of the most visually striking North American pitcher plants.
+The species is distinguished by its tall, prominently white-lidded pitchers with contrasting red or green venation, making it one of the most visually striking [[growing-gourmet-north-american-reishi-species]] pitcher plants.
 
 It is listed as a species of conservation concern due to habitat loss, poaching, and the degradation of seepage bogs and wet pine savannas across its limited range.
 
@@ -62,7 +62,7 @@ The white areoles on the hood and upper pitcher function as visual attractants. 
 
 Downward-pointing hairs on the interior surface impede escape once insects descend into the tube. The waxy cuticle on the upper interior further reduces traction.
 
-The lower third of the pitcher contains a pool of digestive fluid composed of water and enzymes including proteases, chitinases, and phosphatases. Bacterial communities in the fluid also contribute to prey decomposition.
+The lower third of the pitcher contains a pool of digestive fluid composed of water and enzymes including proteases, chitinases, and phosphatases. [[cultivar-endorhiza-bacterial-communities-cannabis]] in the fluid also contribute to prey decomposition.
 
 The digestive enzymes break down insect prey over 2–7 days, releasing nitrogen, phosphorus, and other nutrients that are absorbed through the pitcher wall. This carnivory supplements the plant's nutritional intake in nutrient-poor soils.
 
@@ -76,9 +76,9 @@ Plants require full sun, acidic soil (peat or sphagnum-based mixes), and consist
 
 They are cold-hardy to approximately -5°C (USDA Zone 7) and require a distinct winter dormancy period of 3–4 months at reduced temperatures. During dormancy, pitchers die back and are replaced by compact phyllodia.
 
-Propagation is typically by rhizome division in late winter or early spring. Seed germination requires stratification at 4°C for 4–6 weeks. Tissue culture is also used for commercial mass production.
+Propagation is typically by rhizome division in late winter or early spring. [[cannabis-seed-germination-methods]] requires stratification at 4°C for 4–6 weeks. [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] is also used for commercial mass production.
 
-The species is susceptible to fungal infections (particularly *Sclerotinia sclerotiorum*) in poorly ventilated conditions. Aphids, scale insects, and botrytis can also affect cultivated plants.
+The species is susceptible to [[blesching-cannabis-fungal-infections-candida]] (particularly *Sclerotinia sclerotiorum*) in poorly ventilated conditions. Aphids, scale insects, and botrytis can also affect cultivated plants.
 
 ## Ecological Role
 

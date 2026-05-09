@@ -1,5 +1,5 @@
 ---
-title: Winter Succession Planting
+title: Winter query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule
 tags: [winter-harvest, succession-planting, scheduling, season-extension, eliot-coleman]
 date: 2026-04-28
 updated: 2026-04-28
@@ -20,7 +20,7 @@ possible.
 
 The winter planting season begins August 1, which Coleman calls the "second
 spring." This is not an extension of summer cropping but a dedicated planting
-window with its own logic. The seasons are effectively reversed: day length is
+window with its own logic. The seasons are effectively reversed: [[coleman-winter-day-length-and-persephone-months]] is
 contracting rather than expanding, and temperatures are becoming cooler rather
 than warmer. In spring, every day brings a tailwind of more light and warmth;
 in fall, every day brings a headwind of less light and more cold. The grower
@@ -81,7 +81,7 @@ A typical succession schedule for Zone 5 includes multiple planting windows:
   for harvest beginning in late October
 - **Late August to early September**: second round of the above plus radicchio,
   endive, and pak choi. This is often the busiest planting period.
-- **September**: root crops like carrots and leeks that need longer growing
+- **September**: [[permaculture-plants-root-crops-and-tubers]] like carrots and leeks that need longer growing
   periods to reach harvestable size
 - **October**: final plantings of spinach and claytonia that grow slowly through
   November for late winter harvest in January and February
@@ -109,7 +109,7 @@ the soil is re-prepared with compost, and a new crop is immediately planted.
 Careful records ensure varied crop rotation across beds, preventing soil-borne
 disease buildup and maintaining fertility. The goal is to never leave a
 greenhouse bed unplanted; empty beds represent wasted capital and missed
-revenue in the most expensive growing space per square foot on the farm.
+revenue in the most expensive [[cotter-growing-space-design-fruiting-rooms]] per [[comparison-biointensive-vs-square-foot-gardening]] on the farm.
 
 ## Planning Considerations
 
@@ -137,6 +137,6 @@ intensive winter production are universally applicable.
 
 - [[coleman-succession-planting]]
 - [[unheated-greenhouse-winter-harvest]]
-- season extension
+- [[comparison-season-extension-techniques-vs-cold-frame-gardening]]
 - parisian market gardening
 - [[eliot-coleman]]

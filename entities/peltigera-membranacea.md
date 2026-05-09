@@ -13,7 +13,7 @@ sources:
   - Vitikainen O (1994). "Taxonomic revision of Peltigera (lichenized Ascomycotina) in Europe." Acta Botanica Fennica, 152.
   - Miadlikowska J et al. (2018). "A phylogenetic framework for the Peltigerales (Ascomycota)." Mycologia, 110(5), 806–818.
   - Goward T, McCune B, Meidinger D (1994). "The Lichens of British Columbia." BC Ministry of Forests, Special Report Series 8.
-  - Brodo IM, Sharnoff SD, Sharnoff S (2001). "Lichens of North America." Yale University Press.
+  - Brodo IM, Sharnoff SD, Sharnoff S (2001). "Lichens of [[psilocybin-north-america-pacific-northwest]]." Yale University Press.
   - Nash TH III (2008). "Lichen Biology." Cambridge University Press, 2nd edition.
 ---
 
@@ -21,7 +21,7 @@ sources:
 
 **Peltigera membranacea** (Ach.) Nyl., commonly known as the **membranous pelt lichen**, is a large foliose lichen in the family Peltigeraceae. It forms broad, semi-erect thalli up to 20 cm across, typically found on mossy ground, soil, and decaying wood in humid forest ecosystems.
 
-The species is notable for its association with the cyanobacterium *Nostoc* as its primary photobiont, making it an important contributor to nitrogen fixation in temperate and boreal forest soils.
+The species is notable for its association with the cyanobacterium *Nostoc* as its primary photobiont, making it an important contributor to [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] in temperate and boreal forest soils.
 
 It is circumpolar in distribution, occurring across Europe, North America, and parts of Asia.
 
@@ -55,7 +55,7 @@ As a cyanolichen, *P. membranacea* fixes atmospheric nitrogen through its *Nosto
 
 The species is an indicator of old-growth forest conditions in some regions, particularly in the Pacific Northwest of North America. Its presence correlates with forest continuity, high humidity, and minimal disturbance.
 
-Grazing by gastropods has been documented on *Peltigera* species, though *P. membranacea* is less frequently consumed than related taxa due to secondary metabolites in its cortex.
+Grazing by gastropods has been documented on *Peltigera* species, though *P. membranacea* is less frequently consumed than related taxa due to [[antifungal-secondary-metabolites-coprophilous-fungi]] in its cortex.
 
 The thallus provides microhabitat for various invertebrates, including tardigrades, nematodes, and collembolans. These communities contribute to decomposition processes within the lichen mat.
 
@@ -75,11 +75,11 @@ No toxicologically significant concentrations of secondary compounds have been r
 
 *Peltigera membranacea* has limited direct economic use. It has been used historically as a source of brown dye in Scandinavian textile traditions, alongside other *Peltigera* species.
 
-In ecological monitoring, the species serves as a bioindicator of forest habitat quality and atmospheric purity. Its sensitivity to air pollution, particularly sulfur dioxide and nitrogen deposition, makes it useful for environmental assessment.
+In ecological monitoring, the species serves as a bioindicator of forest habitat quality and atmospheric purity. Its sensitivity to air pollution, particularly sulfur dioxide and [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]], makes it useful for environmental assessment.
 
 Conservation status varies by region. It is considered rare or declining in parts of central and southern Europe due to habitat loss and atmospheric pollution. In Scandinavia and the Pacific Northwest, populations remain relatively stable.
 
-Collection for scientific study should be minimal, as the species is slow-growing. Large thalli may represent decades of growth, and removal significantly impacts local nitrogen cycling.
+Collection for scientific study should be minimal, as the species is slow-growing. Large thalli may represent decades of growth, and removal significantly impacts local [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]].
 
 Reproduction occurs through both sexual and vegetative means. Apothecia produce ascospores that require contact with compatible *Nostoc* strains to establish a functional thallus.
 
@@ -99,11 +99,13 @@ From *P. horizontalis*, it is separated by conspicuous rhizines along the lower 
 
 The species has served as a model organism for studying lichen-cyanobacteria symbiosis, particularly the specificity of the *Nostoc* partnership and molecular signals involved in thallus establishment.
 
-Nitrogen fixation rates of 0.5 to 3.0 μmol C₂H₄ g⁻¹ h⁻¹ have been measured via acetylene reduction assays, depending on moisture and temperature. These rates make *Peltigera* species among the most significant biological nitrogen fixers in temperate forest floor ecosystems.
+Nitrogen fixation rates of 0.5 to 3.0 μmol C₂H₄ g⁻¹ h⁻¹ have been measured via acetylene reduction assays, depending on moisture and temperature. These rates make *Peltigera* species among the most significant [[biological-nitrogen-fixation-agriculture]] fixers in temperate forest floor ecosystems.
 
 Genomic studies of *P. membranacea* have contributed to understanding of lichen evolution and the repeated transitions between green algal and cyanobacterial photobionts within the Peltigerales.
 
 ## See Also
+
+- [[peltigera-leucophlebia]]
 
 - [[lobaria-pulmonaria]]
 - [[cladonia-portentosa]]

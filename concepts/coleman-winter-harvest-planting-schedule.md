@@ -1,5 +1,5 @@
 ---
-title: "Winter Harvest Planting Schedule"
+title: "coleman-claytonia-winter-harvest-cultivation Planting Schedule"
 created: 2026-04-28
 tags: [planting, calendar, succession, timing, winter-harvest]
 date: 2026-04-25
@@ -14,13 +14,13 @@ type: concept
 
 ## October Planting Window
 
-October is the latest practical planting window for most winter crops.
+October is the latest practical planting window for most [[coleman-semi-hibernating-winter-crops-harvest-extension]].
 Only the fastest-growing and most cold-tolerant species can still
 produce a harvestable crop if planted this late:
 - **Mache:** Late plantings may not mature until February but
-  contribute to early spring harvests.
+  contribute to [[coleman-overwintered-onions-and-early-spring-crops]] harvests.
 - **Radishes:** Quick-maturing varieties like 'Cherry Belle' for
-  winter root crops.
+  winter [[permaculture-plants-root-crops-and-tubers]].
 - **Pea shoots:** For micro-greens and shoot production.
 - **Overwintering onions:** Seed for spring bulb production.
 
@@ -31,7 +31,7 @@ before the Persephone Period begins.
 
 ## Spring Transition Planting
 
-As day length increases past 10 hours in February, growth resumes
+As [[coleman-winter-day-length-and-persephone-months]] increases past 10 hours in February, growth resumes
 rapidly. Coleman uses this period to begin the spring transition:
 - **February:** Seed early carrots, radishes, turnips, and
   additional salad greens. Transplant early lettuce and brassica
@@ -62,7 +62,7 @@ trays with 128 or 200 cells per flat are used for greens transplants,
 with seedlings moved to the field at the 4 to 6 leaf stage.
 
 Transplanting is preferred for crops that require a long growing
-season to reach full size. Direct seeding is preferred for
+season to reach full size. [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] is preferred for
 quick-growing crops like radishes and salad greens where the
 disturbance of transplanting would delay harvest.
 
@@ -84,5 +84,9 @@ tracks each planting's performance. Over several seasons, this data
 reveals optimal planting windows for each crop in the local climate.
 
 ## See Also
+
+- [[coleman-leek-deep-planting-technique]]
+
+- [[coleman-winter-harvest-three-components]]
 
 - [[coleman-winter-harvest-philosophy]]

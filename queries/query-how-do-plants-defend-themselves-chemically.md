@@ -1,5 +1,5 @@
 ---
-title: How Do Plants Defend Themselves Chemically?
+title: How Do Plants query how do plants defend themselves chemically Chemically?
 created: 2026-04-28
 tags: plants, chemical-defenses, alkaloids, terpenes, phenolics, companion-planting, growing-tips
 date: 2026-04-28
@@ -20,7 +20,7 @@ that keeps plants alive — and how you can work with it.
 ## What Are Chemical Defenses and Why Do Plants Need Them?
 
 Plants are sessile — they can't run from herbivores, pathogens, or stress.
-Instead, they evolved **secondary metabolites**: compounds that deter pests,
+Instead, they evolved **[[antifungal-secondary-metabolites-coprophilous-fungi]]**: compounds that deter pests,
 inhibit microbes, and signal danger to neighbors. They aren't involved in
 growth directly, but are critical to survival.
 
@@ -67,7 +67,7 @@ pathways, making future defenses stronger and faster — called *defense priming
 - **Tobacco** — produces nicotine, a powerful insect neurotoxin
 - **Deadly nightshade** — loaded with atropine and [[companion-planting]] Relate to Chemical Defenses?
 
-Many companion planting effects are driven by chemistry:
+Many [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] effects are driven by chemistry:
 
 - **Marigolds** release thiophenes from roots that repel root-knot nematodes
 - **Basil** emits volatile terpenes that mask tomatoes from whiteflies and aphids
@@ -80,14 +80,14 @@ Understanding the chemistry helps you choose companions intentionally.
 
 - **Allow mild stress** — Light drought or controlled herbivory primes defenses.
   Don't overwater or over-fertilize.
-- **Use compost and organic matter** — Healthy soil microbiomes improve nutrition,
+- **Use [[coleman-compost-and-organic-fertility-management]] matter** — Healthy soil microbiomes improve nutrition,
   and well-nourished plants produce more secondary metabolites.
 - **Apply silica (silicon)** — Silicon accumulates in cell walls, creating a
   physical barrier that complements chemical defenses and triggers phenolic
   production. Use potassium silicate sprays or diatomaceous earth amendments.
 - **Inoculate with [[mycorrhizal-fungi]] form symbioses with over 80% of plant species. Beyond
-nutrient exchange, they serve as an underground communication network. When one
-plant is attacked, it sends chemical signals through the common mycorrhizal
+[[arbuscule-isolation-and-nutrient-exchange-mechanisms]], they serve as an underground communication network. When one
+plant is attacked, it sends [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] through the common mycorrhizal
 network, prompting neighbors to pre-activate defenses — a process called "plant
 eavesdropping." This is one of the strongest arguments for maintaining healthy
 soil fungal populations.
@@ -104,5 +104,4 @@ soil fungal populations.
 
 ## See Also
 
-- [[mycorrhiza]]
 - [[mycorrhiza]]

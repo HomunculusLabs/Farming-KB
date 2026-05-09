@@ -20,7 +20,7 @@ The same enzyme systems that white-rot fungi use to degrade lignin -- lignin per
 
 ### Lignin Peroxidase (LiP)
 
-Lignin peroxidase is a heme-containing glycoprotein that catalyzes the oxidation of non-phenolic aromatic compounds with redox potentials exceeding 1.4 V, making it one of the most powerful biological oxidants known. LiP can oxidize polycyclic aromatic hydrocarbons (PAHs), chlorinated phenols, and various other aromatic pollutants. The enzyme requires hydrogen peroxide as a co-substrate and veratryl alcohol as a redox mediator for optimal activity against some substrates.
+Lignin peroxidase is a heme-containing glycoprotein that catalyzes the oxidation of non-phenolic aromatic compounds with redox potentials exceeding 1.4 V, making it one of the most powerful biological oxidants known. LiP can oxidize [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs), chlorinated phenols, and various other aromatic pollutants. The enzyme requires [[cervantes-hydrogen-peroxide-sterilization]] as a co-substrate and [[staycare-veratryl-alcohol-as-lignin-peroxidase-mediator]] as a redox mediator for optimal activity against some substrates.
 
 ### Manganese Peroxidase (MnP)
 
@@ -38,7 +38,7 @@ PAHs are widespread environmental contaminants derived from fossil fuel combusti
 
 ### Pentachlorophenol (PCP)
 
-PCP is a broad-spectrum wood preservative that has caused extensive soil and groundwater contamination. Phanerochaete chrysosporium and other white-rot fungi can degrade PCP through MnP-mediated oxidation. Competitive RT-PCR studies have shown that specific lignin peroxidase genes are not necessarily expressed during PCP degradation in soil, highlighting the importance of MnP and other enzyme systems.
+PCP is a broad-spectrum wood preservative that has caused extensive soil and groundwater contamination. [[staycare-phanerochaete-chrysosporium-in-bioremediation]] and other white-rot fungi can degrade PCP through MnP-mediated oxidation. Competitive RT-PCR studies have shown that specific lignin peroxidase genes are not necessarily expressed during PCP degradation in soil, highlighting the importance of MnP and other enzyme systems.
 
 ### Chlorinated Dioxins and Furans
 
@@ -54,7 +54,7 @@ Fungi contribute to the natural attenuation of many pesticide compounds in soil.
 
 ### Textile Dyes and Industrial Effluents
 
-Laccases from white-rot fungi (especially Trametes versicolor and Trametes hirsuta) are effective at decolorizing and degrading synthetic dyes used in the textile industry. This application of fungal biodegradation has been commercialized for treatment of dye-laden wastewater.
+Laccases from white-rot fungi (especially [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] and Trametes hirsuta) are effective at decolorizing and degrading synthetic dyes used in the [[staycare-fungal-treatment-of-textile-industry-wastewater]]. This application of fungal biodegradation has been commercialized for treatment of dye-laden wastewater.
 
 ## Gene Expression During Bioremediation
 
@@ -78,9 +78,8 @@ Several mycoremediation strategies have been developed:
 - [[biochemistry-of-ligninolytic-fungi-bioremediation]]
 - [[mycoremediation]]
 
-- [[biochemistry-of-ligninolytic-fungi-bioremediation]]
 - [[brown-rot-and-white-rot-fungi-in-mycoremediation]]
 - [[brown-rot-white-rot-fungi-remediation]]
-- [[mycelium-running-bioremediation-mushroom-projects]]
+- mycelium-running-bioremediation-mushroom-projects
 - [[gadd-fungal-nutrition-metabolism]]
 - [[gadd-fungal-ecology-saprotrophs]]

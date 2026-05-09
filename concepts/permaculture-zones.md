@@ -29,11 +29,11 @@ Zone 3 is visited monthly or seasonally. It contains larger-scale production sys
 - Large-scale composting
 - Firewood production (coppice)
 - Nut trees
-- Grain production
+- [[fukuoka-no-till-grain-production-method]]
 - Seasonal vegetables (potatoes, squash, corn)
 - Sweat lodges or seasonal structures
 
-Zone 3 is managed with broad patterns rather than individual plant attention. Cover cropping, rotational grazing, and tree crop systems dominate. The scale allows for mechanized or semi-mechanized approaches where appropriate, but [[permaculture-design]] emphasizes biological methods over fossil-fuel-intensive techniques.
+Zone 3 is managed with broad patterns rather than individual plant attention. [[fukuoka-clover-cover-cropping-soil-ecology]], [[comparison-rotational-grazing-vs-continuous-grazing]], and tree crop systems dominate. The scale allows for mechanized or semi-mechanized approaches where appropriate, but [[permaculture-design]] emphasizes biological methods over fossil-fuel-intensive techniques.
 
 ## Zone 4: Managed Wild
 
@@ -63,17 +63,17 @@ Zone 5 is true wilderness — an unmanaged area where natural processes proceed 
 - Offers spiritual and psychological renewal through wild nature
 - Demonstrates the ecological baseline from which all other zones deviate
 
-Zone 5 is not a city park or a managed conservation area — it is land allowed to follow its own ecological trajectory. Even small Zone 5 areas contribute significantly to overall property health by providing reservoirs of beneficial insects, birds, and other organisms that spill over into managed zones.
+Zone 5 is not a city park or a managed conservation area — it is land allowed to follow its own ecological trajectory. Even small Zone 5 areas contribute significantly to overall property health by providing reservoirs of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], birds, and other organisms that spill over into managed zones.
 
 ## Using Zones as a Design Tool
 
-Zones function as both an analytical lens and a design overlay. During site analysis, designers observe existing patterns of movement, current element placement, and frequency of use, then map these as zones. The resulting zone map reveals inefficiencies — a compost bin at the far end of the property, for example, violates zone principles because it requires carrying materials across the entire site daily.
+Zones function as both an analytical lens and a design overlay. During [[mollison-climate-site-analysis-permaculture]], designers observe existing patterns of movement, current element placement, and frequency of use, then map these as zones. The resulting zone map reveals inefficiencies — a compost bin at the far end of the property, for example, violates zone principles because it requires carrying materials across the entire site daily.
 
 When creating a new design, zones are overlaid on the site map first, before individual elements are placed. This top-down approach ensures that elements are positioned according to their maintenance needs and the energy flows of the site. The result is a design where the most energy-intensive elements are closest to where people already are, reducing wasted effort and increasing the likelihood that the system will be well maintained.
 
 ## Zone Overlay with Other Design Tools
 
-Zones work in combination with other permaculture design tools:
+Zones work in combination with other [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] tools:
 
 - **Sectors**: While zones organize by frequency of use, sectors map external energies (sun, wind, fire, water, wildlife, noise) flowing across the site. Together they create a comprehensive spatial framework.
 - **Slope**: Steep land may shift zones — Zone 1 gardens are easier to maintain on flat ground near the house, while slopes naturally lend themselves to Zone 3-4 tree crops.

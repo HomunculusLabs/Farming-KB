@@ -53,9 +53,9 @@ Plants are spaced 30–45 cm apart in rows 60 cm wide. Regular irrigation is ess
 
 Harvesting occurs in late autumn after the first frosts, which convert starches to sugars and improve flavor. Roots can be stored in damp sand or soil in a cool location for several months.
 
-Pests include carrot fly larvae, which tunnel into roots, and slugs that feed on young shoots. The species is generally disease-resistant but can suffer from powdery mildew in humid conditions with poor air circulation.
+Pests include carrot fly larvae, which tunnel into roots, and slugs that feed on young shoots. The species is generally disease-resistant but can suffer from [[cervantes-powdery-mildew-prevention-treatment]] in humid conditions with poor air circulation.
 
-No commercial cultivars are currently available; all grown material consists of heritage strains maintained by gardeners and small-scale growers. Selection for improved tuber size and reduced fiber content is ongoing among heirloom vegetable enthusiasts.
+No commercial cultivars are currently available; all grown material consists of heritage strains maintained by gardeners and small-scale growers. Selection for improved tuber size and reduced fiber content is ongoing among [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]] enthusiasts.
 
 ## Culinary and Nutritional Value
 
@@ -71,7 +71,7 @@ Modern interest in skirret centers on its potential as a perennial root vegetabl
 
 ## History
 
-Skirret was among the most important root vegetables in Europe from Roman times through the 17th century. It was widely grown in monastery gardens and was a staple of medieval European cuisine.
+Skirret was among the most important root vegetables in Europe from Roman times through the 17th century. It was widely grown in monastery gardens and was a staple of [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] cuisine.
 
 The plant appears in the writings of Pliny the Elder, who described its cultivation in Roman gardens. Medieval herbals consistently recommend skirret as a nutritious and easily digested food.
 
@@ -83,7 +83,7 @@ Tudor and Stuart-era banquets frequently featured skirret among the root vegetab
 
 ## Ecological Role
 
-Skirret provides nectar and pollen for a range of beneficial insects including hoverflies, parasitic wasps, and small bees. The umbelliferous flower structure is particularly attractive to these pollinator groups.
+Skirret provides nectar and pollen for a range of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] including hoverflies, parasitic wasps, and small bees. The umbelliferous flower structure is particularly attractive to these pollinator groups.
 
 The plant's deep root system helps improve soil structure in heavy clay soils. The fibrous root mass breaks up compacted layers and increases water infiltration rates.
 
@@ -93,7 +93,7 @@ As a perennial vegetable, skirret contributes to year-round ground cover in poly
 
 The genus *Sium* includes several other edible and medicinal species. *Sium latifolium* (greater water-parsnip) is native to European wetlands and was historically consumed as a vegetable.
 
-*Sium suave* (water parsnip) is native to North America and was an important food plant for indigenous peoples of the Great Plains and prairie regions. Its tubers were harvested in autumn and stored for winter use.
+*Sium suave* (water parsnip) is native to [[psilocybin-north-america-pacific-northwest]] and was an important food plant for indigenous peoples of the Great Plains and prairie regions. Its tubers were harvested in autumn and stored for winter use.
 
 Skirret is closely related to other root vegetables in Apiaceae including parsnip, carrot, and parsley root. These species share similar cultivation requirements and nutritional profiles.
 
@@ -101,7 +101,7 @@ Modern breeding efforts focus on selecting clones with larger, less fibrous tube
 
 Renewed interest in skirret has been driven by the permaculture and perennial vegetable movements, which value its low-maintenance growth habit and perennial nature. Several small-scale market gardeners now offer skirret at farmers' markets and through community-supported agriculture programs.
 
-Research into the inulin content and prebiotic properties of skirret roots has identified potential health benefits for gut microbiome health. The specific fructooligosaccharide profile differs from that of Jerusalem artichoke and chicory.
+Research into the inulin content and prebiotic properties of skirret roots has identified potential health benefits for gut microbiome health. The specific fructooligosaccharide profile differs from that of [[comparison-jerusalem-artichoke-vs-potato]] and chicory.
 
 ## See Also
 

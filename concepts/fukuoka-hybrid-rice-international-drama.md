@@ -1,10 +1,11 @@
 ---
-title: Fukuoka Hybrid Rice International Drama
+title: Fukuoka fukuoka hybrid rice international drama International Drama
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [rice]
-sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka Hybrid Rice International Drama
@@ -142,4 +143,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

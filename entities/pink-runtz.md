@@ -11,8 +11,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Leafly Staff (2020). \"Pink Runtz Strain Information.\" Leafly.com."
-  - "AllBud (2021). \"Pink Runtz Cannabis Strain Review.\" AllBud.com."
-  - "Dumestre, V. et al. (2021). \"Cannabis terpene profiles of popular commercial strains.\" Journal of Cannabis Research, 3(1), 32."
+  - "AllBud (2021). \"Pink Runtz [[blesching-cannabis-strain-selection-receptor-targeting]] Review.\" AllBud.com."
+  - "Dumestre, V. et al. (2021). \"Cannabis [[cannabis-terpene-profiles-sativa]] of popular commercial strains.\" Journal of Cannabis Research, 3(1), 32."
   - "https://www.wikileaf.com/strain/pink-runtz"
 created: 2026-05-07
 ---
@@ -21,7 +21,7 @@ created: 2026-05-07
 
 ## Overview
 
-Pink Runtz is a highly sought-after hybrid cannabis strain created through crossing [[runtz-entity]] genetic line, itself a cross of [[gelato-cannabis]].
+Pink Runtz is a highly sought-after hybrid cannabis strain created through crossing [[runtz-entity]] genetic line, itself a cross of [[gelato]].
 
 The specific "pink" phenotype is believed to be a selected cut expressing enhanced anthocyanin production, responsible for the vivid purple-pink coloration.
 
@@ -31,7 +31,7 @@ Genetic ratio is approximately 50% indica / 50% sativa, though phenotypic expres
 
 Buds are dense, medium to large, with a chunky structure typical of the Runtz line.
 
-Colors range from deep forest green to vibrant shades of pink, magenta, and purple, particularly when exposed to cooler nighttime temperatures during late flowering.
+Colors range from deep [[trichoderma-forest-green-mold-guide]] to vibrant shades of pink, magenta, and purple, particularly when exposed to cooler nighttime temperatures during late flowering.
 
 Trichome coverage is exceptionally heavy, giving the flowers a frosted, almost sugar-coated appearance.
 
@@ -50,7 +50,7 @@ The flavor closely mirrors the aroma, delivering a smooth, sugary smoke with tro
 - **Limonene** — Dominant; citrus notes, mood elevation, stress relief
 - **[[myrcene]]** — Earthy, herbal base; sedative, muscle relaxation
 - **[[runtz-entity]] — Parent genetic line
-- [[gelato-cannabis]] — Grandparent strain contributing creamy terpenes
+- [[gelato]] — Grandparent strain contributing creamy terpenes
 - [[granddaddy-purple]] — Classic purple strain for comparison
 - [[thin-mint-cookies]] — Related Cookie family strain
 - [[cereal-milk]] — Another candy-forward modern hybrid
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

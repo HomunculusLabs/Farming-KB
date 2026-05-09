@@ -1,5 +1,5 @@
 ---
-title: "The Logos and Translinguistic Matter"
+title: "The the logos and translinguistic matter Matter"
 created: 2026-04-28
 tags: [logos, translinguistic-matter, tryptamines, language,
       consciousness, mckenna]
@@ -31,7 +31,7 @@ The concept draws on multiple intellectual traditions: the Logos of
 Heraclitus, the Word of Christian theology, the Ursprache of Kabbalistic
 mysticism, and the "language of alien meaning" described in Philip K.
 Dick's Valis. McKenna's contribution was to locate this phenomenon within
-the specific phenomenology of tryptamine hallucinogens.
+the specific phenomenology of [[mckenna-tryptamine-hallucinogens-and-consciousness]].
 
 ## Translinguistic Matter and Hyperspace
 
@@ -44,13 +44,13 @@ through a language that cannot be translated into ordinary speech.
 This translinguistic matter operates at a level prior to and more
 fundamental than ordinary language. McKenna described it as "the assembly
 language that lies behind language," comparable to Robert Graves's concept
-of the primal language in The White Goddess or the Kabbalistic language
+of the [[mckenna-glossolalia-and-primal-language-tryptamine-states]] in The [[mckenna-primal-ursprache-kabbalistic-zohar-and-white-goddess-glossolalia]] or the Kabbalistic language
 described in the Zohar. It is a "Ursprache" that emerges from within the
 self yet seems to originate from elsewhere.
 
 ## The Transition from Hearing to Beholding
 
-McKenna drew on Philo Judaeus's description of the Logos: a transition
+McKenna drew on [[mckenna-philo-judaeus-logos-hearing-to-beholding]]'s description of the Logos: a transition
 "from things heard to things beheld." In the tryptamine state, language
 becomes visible. One does not merely hear the Logos; one sees it
 manifesting as three-dimensional forms, as evolving surfaces, as
@@ -119,7 +119,7 @@ attempts to articulate the phenomenology of the tryptamine experience in
 philosophical terms. Whether understood as a literal intelligence, a
 metaphor for the self-organizing dynamics of consciousness, or a
 transcendental reality accessed through psychedelic states, the Logos
-remains a central and compelling feature of the DMT experience that
+remains a central and compelling feature of the [[mckenna-dmt-experience-and-hyperspace]] that
 demands further investigation.
 
 ## Related Concepts

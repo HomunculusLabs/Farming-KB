@@ -11,7 +11,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo IM, Sharnoff SD, Sharnoff S (2001). "Lichens of North America." Yale University Press.
+  - Brodo IM, Sharnoff SD, Sharnoff S (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Purvis OW, Coppins BJ, Hawksworth DL, James PW, Moore DM (1992). "The Lichen Flora of Great Britain and Ireland." Natural History Museum Publications.
   - Hawksworth DL, Rose F (1970). "Qualitative scale for estimating sulphur dioxide air pollution in England and Wales using epiphytic lichens." Nature 227: 145–148.
   - Seaward MRD (2004). "The use of lichens for environmental monitoring in Europe." Bibliotheca Lichenologica 91: 47–69.
@@ -25,7 +25,7 @@ It became one of the most abundant lichens in industrial regions of Europe durin
 
 The species is characterized by its gray-white, granular thallus, abundant soredia, and distinctive concolorous apothecia.
 
-L. conizaeoides has become a key case study in lichen recolonization dynamics as air quality has improved in formerly polluted areas.
+L. conizaeoides has become a key case study in lichen recolonization dynamics as [[cervantes-air-quality-ventilation]] has improved in formerly polluted areas.
 
 ## Taxonomy and Morphology
 
@@ -49,7 +49,7 @@ The species is morphologically similar to Lecanora dispersa but can be distingui
 
 ## Distribution and Habitat
 
-L. conizaeoides has a predominantly European distribution, with populations extending into western Russia and Scandinavia.
+L. conizaeoides has a predominantly [[fukuoka-european-distribution-system-critique]], with populations extending into western Russia and Scandinavia.
 
 It has been reported from North America but is less common there than in Europe.
 

@@ -11,23 +11,23 @@ tags:
   - enzyme-production
   - bracket-fungus
   - saprotrophic
-  - mycology
-  - permaculture
+  - mycology|mycology
+  - permaculture|permaculture
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Ryvarden, L. & Gilbertoni-Lyman, T. (2004). "Pycnoporus P. Karst. (Polyporaceae)." Synopsis Fungorum, 19, 1–85.
   - Martins, L.O. et al. (2002). "Production and biotechnological applications of laccases from Pycnoporus cinnabarinus." Enzyme and Microbial Technology, 30(6), 745-751.
-  - Eggert, C. et al. (1996). "Manganese peroxidase from the white-rot fungus Pycnoporus cinnabarinus." Applied Microbiology and Biotechnology, 45(5), 628-632.
+  - Eggert, C. et al. (1996). "[[fungal-manganese-peroxidase-remediation]] from the white-rot fungus Pycnoporus cinnabarinus." Applied Microbiology and Biotechnology, 45(5), 628-632.
   - https://www.mycobank.org/ (taxonomic classification)
-  - Dai, Y.C. (2012). "Polyporaceae s.l. (Basidiomycota) in China." Fungal Diversity, 52, 49-93.
+  - Dai, Y.C. (2012). "Polyporaceae s.l. (Basidiomycota) in China." [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]], 52, 49-93.
 ---
 
 # Pycnoporus cinnabarinus (Cinnabar Polypore)
 
 ## Overview
 
-**Pycnoporus cinnabarinus** is a striking bracket fungus in the family Polyporaceae, instantly recognizable by its brilliant **orange-red to cinnabar-colored pore surface**. It is a white-rot saprotroph found on dead and dying hardwoods across temperate and tropical regions worldwide. The species has attracted considerable biotechnological interest for its ability to produce high levels of **laccase enzymes** used in bioremediation, biobleaching, and organic synthesis. It also possesses antimicrobial and anti-inflammatory compounds with potential pharmaceutical applications.
+**Pycnoporus cinnabarinus** is a striking bracket fungus in the family Polyporaceae, instantly recognizable by its brilliant **orange-red to cinnabar-colored pore surface**. It is a white-rot saprotroph found on dead and dying hardwoods across temperate and tropical regions worldwide. The species has attracted considerable biotechnological interest for its ability to produce high levels of **[[singh-fungal-laccase-enzymes-bioremediation]]** used in bioremediation, biobleaching, and organic synthesis. It also possesses antimicrobial and anti-inflammatory compounds with potential pharmaceutical applications.
 
 ## Taxonomy
 
@@ -43,19 +43,19 @@ sources:
 
 - *Boletus cinnabarinus* Jacq. — original basionym (1774)
 - *Polyporus cinnabarinus* (Jacq.) Fr.
-- *Trametes cinnabarina* (Jacq.) Fr.
+- *[[trametes-cinnabarina|Trametes cinnabarina]]* (Jacq.) Fr.
 - *Fomes cinnabarinus* (Jacq.) Cooke
 - *Coriolopsis cinnabarinus* (Jacq.) Murrill — used in some American mycological literature
-- The genus *Pycnoporus* currently contains 4 recognized species: *P. cinnabarinus*, *P. sanguineus* (tropical), *P. coccineus* (Australasia), and *P. puniceus* (Southeast Asia)
+- The genus *Pycnoporus* currently contains 4 recognized species: *P. cinnabarinus*, *P. sanguineus* (tropical), *P. coccineus* (Australasia), and *P. puniceus* ([[psilocybe-southeast-asia-pacific]])
 
 ## Morphology
 
-Fruiting bodies are semicircular to fan-shaped bracket conks, typically 3–12 cm wide and 1–3 cm thick at the base, occasionally forming imbricate (overlapping) clusters. The upper surface is azonate to faintly zonate, smooth to finely velvety, orange-red to brick-red, often fading to dull orange or tan with age. The pore surface is the most distinctive feature: brilliant cinnabar-red to orange, with circular to angular pores 2–4 per mm. The context (flesh) is tough, corky, and orange to orange-red, with a distinctly fibrous texture. Spores are cylindrical to allantoid, 5–8 × 2–3 µm, smooth, hyaline. [[lignin-degradation-mechanisms-wood-rot-fungi]] capability and broad substrate range.
+Fruiting bodies are semicircular to fan-shaped bracket conks, typically 3–12 cm wide and 1–3 cm thick at the base, occasionally forming imbricate (overlapping) clusters. The upper surface is azonate to faintly zonate, smooth to finely velvety, orange-red to brick-red, often fading to dull orange or tan with age. The pore surface is the most distinctive feature: brilliant cinnabar-red to orange, with circular to angular pores 2–4 per mm. The context (flesh) is tough, corky, and orange to orange-red, with a distinctly fibrous texture. Spores are cylindrical to allantoid, 5–8 × 2–3 µm, smooth, hyaline. lignin-degradation-mechanisms-wood-rot-fungi capability and broad substrate range.
 
 ## Bioactive Compounds
 
-- **Cinnabarinic acid:** A red pigment and bioactive compound with reported antimicrobial, antioxidant, and immunomodulatory properties. It is a quinone derivative formed through [[southeast-asian-mushroom-tourism-bali]] species; larger fruiting body with a more deeply zonate upper surface; found on dipterocarp wood in lowland tropical forests.
-- *P. cinnabarinus* is distinguished from all relatives by its more northern temperate distribution, intensely cinnabar-red pore surface, and preference for oak and other temperate hardwoods.
+- **Cinnabarinic acid:** A red pigment and bioactive compound with reported antimicrobial, antioxidant, and immunomodulatory properties. It is a quinone derivative formed through southeast-asian-mushroom-tourism-bali species; larger [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] with a more deeply zonate upper surface; found on dipterocarp wood in lowland tropical forests.
+- *P. cinnabarinus* is distinguished from all relatives by its more northern [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]], intensely cinnabar-red pore surface, and preference for oak and other temperate hardwoods.
 
 ## Seasonality and Fruiting Patterns
 
@@ -63,7 +63,7 @@ Fruiting bodies are semicircular to fan-shaped bracket conks, typically 3–12 c
 
 ## Ethnobotanical and Historical Notes
 
-While not a traditional food or [[agar]]
+While not a traditional food or agar
 - [[candida-albicans]]
 ## Practical Considerations
 
@@ -83,4 +83,5 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[lignin-degradation]]

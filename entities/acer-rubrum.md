@@ -11,16 +11,16 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of North America: Volume 2 — Hardwoods." USDA Forest Service.
+  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 2 — Hardwoods." USDA Forest Service.
   - Dirr, M.A. (1998). "Manual of Woody Landscape Plants." Stipes Publishing.
   - Walters, R.S. & Yawney, H.W. (1990). "Acer rubrum." In: Silvics of North America, Vol. 2. USDA.
-  - Little, E.L. (1979). "Checklist of United States Trees." USDA Forest Service Agricultural Handbook 541.
+  - Little, E.L. (1979). "Checklist of [[dmt-containing-plants-united-states-halpern]] Trees." USDA Forest Service Agricultural Handbook 541.
 ---
 
 ## Overview
 
 **Acer rubrum**, commonly known as red maple, swamp maple, or soft maple, is
-one of the most abundant and widespread deciduous trees in eastern North
+one of the most abundant and widespread deciduous trees in [[polypore-fungi-eastern-north-america]]
 America. It belongs to the family Sapindaceae and ranges from southeastern
 Canada to Florida and west to eastern Texas and Minnesota.
 
@@ -41,7 +41,7 @@ twigs, buds, flowers, and fall foliage. It is classified in section *Rubra*
 within the genus *Acer*.
 
 Leaves are 5–10 cm long and wide, palmately lobed with 3–5 lobes and coarsely
-serrate margins. The leaf surface is medium green above and pale green with
+serrate margins. The [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is medium green above and pale green with
 a glaucous bloom below. Leaf petioles are typically reddish, a useful field
 identification character distinguishing it from [[quercus-rubra]], [[fagus-grandifolia]],
 and [[acer-saccharum]]), and 'October Glory'.
@@ -71,8 +71,8 @@ heartwood decay that creates suitable cavities for denning mammals
 including raccoons and flying squirrels.
 
 The species is a host plant for the rosy maple moth (*Dryocampa rubicunda*)
-and the imperial moth (*Eacles imperialis*). Its early spring flowers are
-an important nectar source for emerging native bees and other pollinators.
+and the imperial moth (*Eacles imperialis*). Its [[coleman-overwintered-onions-and-early-spring-crops]] flowers are
+an important nectar source for emerging [[query-how-to-attract-native-bees-and-beneficial-insects]] and other pollinators.
 
 ## Timber and Uses
 

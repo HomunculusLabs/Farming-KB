@@ -8,7 +8,7 @@ itself serves as the primary heat storage medium. Unlike heated greenhouses
 that depend on furnaces, heat pumps, or thermal mass walls, the cold house
 system stores heat in the soil mass beneath the growing beds and releases it
 slowly through the winter months. This passive thermal storage is the
-foundation upon which the entire winter harvest system is built, yet it
+foundation upon which the entire [[coleman-claytonia-winter-harvest-cultivation]] system is built, yet it
 requires no technology, no fuel, and no maintenance beyond keeping the soil
 covered and protected.
 
@@ -28,10 +28,10 @@ The key to effective soil heat storage is moisture. Water has one of the
 highest specific heat capacities of any common substance — it takes
 approximately five times as much energy to raise the temperature of water
 as it does to raise the temperature of an equal mass of dry soil. A
-well-moistened soil with high organic matter content can store
+well-moistened soil with high [[hamilton-composting-and-organic-matter-management]] content can store
 significantly more heat than a dry, sandy soil. This is one reason why
 Coleman's deep-organic approach to soil preparation — building soil with
-compost, green manures, and minimal disturbance — contributes directly
+compost, [[jeavons-green-manures-cover-crops]], and minimal disturbance — contributes directly
 to the effectiveness of the winter harvest system.
 
 ## How the System Works Through Winter
@@ -62,7 +62,7 @@ preventing the heat stored in the soil from escaping.
 ## Comparison with Active Thermal Storage Systems
 
 The passive soil heat storage approach contrasts sharply with the active
-thermal storage systems promoted during the 1970s solar energy movement.
+thermal storage systems promoted during the 1970s [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] movement.
 These systems typically involved water tanks, rock beds, or masonry walls
 designed to capture and store heat during the day for release at night.
 They required pumps, fans, thermostats, and control systems. They were
@@ -80,7 +80,7 @@ simplest solution is usually the most reliable.
 
 ## The Role of Green Manures in Heat Storage
 
-During the years when green manure crops are planted on greenhouse beds
+During the years when green [[green-manure-crops-detailed]] are planted on greenhouse beds
 that are rotated out of production (every other year in the mobile
 greenhouse system), the green manure contributes to soil heat storage in
 two ways. First, the growing crop captures solar energy through
@@ -106,7 +106,7 @@ theoretical. Rather than calculating the thermal properties of his soil and
 predicting its behavior, he simply monitored soil temperatures with
 thermometers and observed how the crops responded. Over years of
 record-keeping, he developed an intuitive understanding of how soil
-temperatures related to outdoor temperatures, day length, and crop
+temperatures related to outdoor temperatures, [[coleman-winter-day-length-and-persephone-months]], and crop
 performance. This practical knowledge allowed him to make management
 decisions — when to move the greenhouse, when to add an inner layer,
 when to expect regrowth on cut-and-come-again crops — based on direct
@@ -134,5 +134,8 @@ essential for optimal thermal performance.
 ## See Also
 
 - [[coleman-unheated-greenhouse-design]]
-- [[coleman-greenhouse-soil-management]]
+- coleman-greenhouse-soil-management
 - [[coleman-winter-soil-health]]
+- [[building-soil]]
+- [[eliot-coleman]]
+- [[green-manure-crops]]

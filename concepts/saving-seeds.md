@@ -14,14 +14,14 @@ sources: []
 ## Why Save Seeds
 
 - Cost savings: never buy seed for your staple crops again
-- Adaptation: plants become better adapted to your soil, climate, and growing methods over generations
+- Adaptation: plants become better adapted to your soil, climate, and [[mushroom-growing-methods-comparison]] over generations
 - Genetic diversity: preserve heirloom and open-pollinated varieties that may disappear from commercial catalogs
 - Self-reliance: independence from seed companies and supply chain disruptions
 - Community: share and trade seeds with other local growers
 
 ## Open-Pollinated vs Hybrid
 
-Only save seeds from open-pollinated (OP) varieties. Open-pollinated plants reproduce true to type -- the offspring will closely resemble the parent. Hybrid seeds (labeled F1) are crosses between two distinct parent lines. Seeds saved from hybrids will not breed true and may produce inferior or unpredictable offspring. Check seed packets or catalogs -- if it says F1 or hybrid, do not save seed from it.
+Only [[query-how-do-i-save-seeds-from-biennial-vegetables]] open-pollinated (OP) varieties. Open-pollinated plants reproduce true to type -- the offspring will closely resemble the parent. Hybrid seeds (labeled F1) are crosses between two distinct parent lines. Seeds saved from hybrids will not breed true and may produce inferior or unpredictable offspring. Check seed packets or catalogs -- if it says F1 or hybrid, do not save seed from it.
 
 Heirloom varieties are open-pollinated varieties that have been passed down for generations. All heirlooms are open-pollinated, but not all OP varieties are heirlooms.
 
@@ -33,7 +33,7 @@ Choose the best plants for seed saving, not the best vegetables. Select for:
 - Vigor and growth habit
 - Flavor and yield
 - Adaptation to your conditions
-- Seed production (plants that set seed readily)
+- [[cervantes-seed-production-storage]] (plants that set seed readily)
 - Physical characteristics you want to preserve (color, size, shape)
 
 Mark your best plants early in the season and let them go to seed rather than harvesting for food.
@@ -140,18 +140,10 @@ Some crops (carrots, beets, onions, cabbage, kale, parsnips) are biennials -- th
 
 1. Grow the crop in year one and select the best roots/plants at harvest
 2. Store selected roots in a cool, humid location over winter (root cellar, refrigerator in damp sand, or mulched in the ground)
-3. Replant in early spring of year two
+3. Replant in [[coleman-overwintered-onions-and-early-spring-crops]] of year two
 4. Allow plants to flower and set seed
-5. Harvest seed when dry
-
-This requires planning a year in advance and dedicated garden space in year two.
-
-## Seed Libraries and Sharing
-
-Many communities have seed libraries where members can borrow seeds, grow them, save seeds, and return some. This is an excellent way to access new varieties and build local seed sovereignty. Always follow the library's guidelines and return clean, well-labeled seed.
-
 ## Related Concepts
 
-- [[small-scale-grain-growing]] -- grain seed saving and selection
+- [[small-scale-grain-growing]] -- grain [[holzer-seed-saving-and-variety-preservation]] selection
 - [[fruit-tree-propagation]] -- vegetative propagation as an alternative to seed saving for fruit trees
-- [[medicinal-herb-growing]] -- save seeds from your best medicinal herb plants
+- [[medicinal-herb-growing]] -- save seeds from your best [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]] plants

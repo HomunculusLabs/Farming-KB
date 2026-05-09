@@ -1,5 +1,5 @@
 ---
-title: Livestock Behavior and Grazing Styles
+title: [[savory-livestock-grazing-planning]] behavior and grazing styles and Grazing Styles
 created: 2026-04-28
 tags: [livestock-behavior, grazing-styles, diet-selection, animal-ecology]
 date: 2026-04-25
@@ -60,11 +60,11 @@ When mankind domesticated cattle, horses, sheep, and goats and protected them fr
 predators, the natural herding behavior that once maintained landscape health was
 largely lost. Even where people herded livestock, as opposed to merely fencing them in,
 the animals did not behave as they would if naturally herding under threat of predation.
-This is why planned grazing through many paddocks with short grazing periods is
+This is why planned grazing through many paddocks with short [[savory-recovery-and-grazing-periods]] is
 necessary to replicate the beneficial effects that predators once induced naturally.
 The periodic concentration and movement of herds, whether by fence or herder, is the
 key to restoring the [[savory-predator-prey-and-herding-behavior]] dynamic that
-brittle environments evolved with.
+[[savory-brittle-environments]] evolved with.
 ## Practical Considerations
 
 Successful implementation of Livestock Behavior and Grazing Styles requires attention to
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

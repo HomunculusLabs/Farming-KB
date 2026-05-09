@@ -1,5 +1,5 @@
 ---
-title: Spore Discharge Mechanisms in Fungi
+title: Spore bloomfield-ascospore-discharge-mechanisms-ascomycetes in Fungi
 created: 2026-04-28
 updated: 2026-04-28
 type: concept
@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-Fungal spore discharge is one of the most remarkable
+[[bloomfield-stokes-law-fungal-spore-sedimentation]] discharge is one of the most remarkable
 physical processes in biology. Mushrooms, molds, yeasts,
 and other fungi have evolved diverse mechanisms to launch
 their reproductive cells into the air, onto insects, or
@@ -42,12 +42,12 @@ transport to find new substrates.
 The entire life strategy of a mushroom is directed
 toward this single purpose: launching millions or
 trillions of spores into a favorable airstream.
-[[mushroom-hunting-and-identification]]
+mushroom-hunting-and-identification
 
 ## See Also
 
-- [[fungal-spores]]
-- mushroom hunting and identification
+- fungal-spores
+- [[emcdda-magic-mushroom-hunting-europe]] and identification
 
 ## See Also
 
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,6 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+- [[fungal-spore-discharge-mechanisms]]
+- [[bloomfields-orchard-gasteromycetes-and-stinkhorn-fungi]]
+- [[bloomfield-fungal-spore-discharge-and-dispersal]]

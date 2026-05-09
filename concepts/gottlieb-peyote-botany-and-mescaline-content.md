@@ -1,5 +1,5 @@
 ---
-title: "Peyote Botany and Mescaline Content"
+title: "gottlieb peyote botany and mescaline content and Mescaline Content"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -98,7 +98,7 @@ Alkaloid content is influenced by environmental conditions:
 ## Mescaline Chemistry
 
 Mescaline is a nonphenolic beta-phenethylamine (3,4,5-trimethoxy-beta-phenethylamine).
-It is the main psychoactive component of peyote, San Pedro, and several other
+It is the main psychoactive component of peyote, [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]], and several other
 Trichocereus species. It is also found in traces in Pelecyphora.
 
 ## Biosynthetic Pathway

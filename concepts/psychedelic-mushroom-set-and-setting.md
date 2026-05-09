@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Mushroom Set and Setting
+title: archaeology-of-psychedelic-mushroom-use lsd-set-and-setting-framework
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-The concepts of "set" and "setting" are foundational principles in psychedelic use, first articulated by Timothy Leary and popularized through the counterculture movement. Set refers to the internal psychological state of the person, while setting refers to the external physical and social environment. Together, they are the most significant determinants of the quality, safety, and therapeutic value of a psychedelic experience — often more so than the dose itself.
+The concepts of "set" and "setting" are foundational principles in psychedelic use, first articulated by Timothy Leary and popularized through the counterculture movement. Set refers to the internal psychological state of the person, while setting refers to the external physical and social environment. Together, they are the most significant determinants of the quality, safety, and therapeutic value of a [[leary-psychedelic-experience-bardo-mapping]] — often more so than the dose itself.
 
 ## Set: Mental Preparation
 
@@ -61,7 +61,7 @@ The physical space profoundly influences the experience:
 - **Familiar spaces**: Home or a well-known location provides safety and reduces anxiety
 - **Nature**: Natural environments (forests, gardens, beaches) are consistently rated as positive settings — connection to nature is often enhanced
 - **Dedicated ceremony spaces**: Rooms intentionally prepared with meaningful objects, art, and altars
-- **Clinical settings**: Structured, comfortable rooms designed for psychedelic therapy — increasingly used in clinical trials
+- **Clinical settings**: Structured, comfortable rooms designed for [[metzner-psycholytic-psychedelic-therapy-models]] — increasingly used in [[mushroom-cancer-clinical-trials-overview]]
 - **Avoid**: Unfamiliar, chaotic, crowded, or institutional environments
 
 ### Environmental Controls
@@ -82,7 +82,7 @@ Sensory input is amplified during psychedelic experiences:
 
 - **Music**: Often considered the most important element of setting. Instrumental music is generally preferred. A well-curated playlist should include gentle beginning pieces, more intense middle sections, and calming resolution music. Total duration should exceed the expected trip length
 - **Visual art**: Meaningful images, mandalas, or visually rich environments can be stimulating or overwhelming — gauge based on expected dose
-- **Incense or essential oils**: Subtle aromas can enhance the atmosphere; avoid overpowering scents
+- **Incense or [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]**: Subtle aromas can enhance the atmosphere; avoid overpowering scents
 - **Textures**: Soft fabrics, comfortable surfaces, and tactile objects can be grounding
 
 ## The Trip Sitter
@@ -141,11 +141,9 @@ Integration is the process of making sense of and incorporating the insights, em
 
 - Start with lower doses and increase gradually
 - Always have a trusted trip sitter, especially at moderate to high doses
-- Test substances when possible — see [[fungal-toxins-reference]] for risks of misidentification
-- Never combine with alcohol, stimulants, or other psychoactive substances without expert guidance
-- Avoid driving or operating machinery during and for at least 12 hours after the experience
-- Have a plan for difficult experiences — breathing techniques, change of setting, grounding objects
-- Know your limits and respect them
-- Leave adequate time between experiences (minimum 1-2 weeks; ideally 1-3 months)
+## See Also
 
-See [[psychedelic-assisted-therapy-protocol]] for structured clinical approaches to set and setting and [[psychedelic-mushroom-effects-guide]] for what to expect at various dose levels.
+- [[psychedelic-mushroom-music-and-culture]]
+- [[fungal-toxins-reference]]
+- [[weil-psychedelic-experience-set-and-setting]]
+- [[psychedelic-experience-preparation]]

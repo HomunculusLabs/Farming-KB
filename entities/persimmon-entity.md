@@ -12,13 +12,13 @@ type: entity
 
 **Type:** Species (Plant)
 **Category:** Fruit-producing deciduous tree
-**Also known as:** Diospyros kaki, Chinese persimmon, kaki, Sharon
+**Also known as:** [[permplant-persimmon-diospyros-kaki-fruit-tree]], Chinese persimmon, kaki, Sharon
 fruit, date plum
 
 ## Overview
 Persimmon is a deciduous, round-headed tree growing to 5 m height with
 strikingly coloured autumn foliage, making it both an attractive
-ornamental and productive fruit tree. The fruit is orange, slightly
+ornamental and productive [[comparison-berry-growing-vs-fruit-tree-pruning]]. The fruit is orange, slightly
 larger than a tomato, and must be fully ripe before eating as unripe
 fruit is highly astringent due to tannic acid content. Several species
 exist, with the Chinese persimmon being most widely cultivated, while
@@ -29,7 +29,7 @@ the American persimmon and date plum offer regional alternatives.
 ### Botanical Profile
 - **Family:** Ebenaceae
 - **Height:** Up to 5 m (seedling trees grow taller)
-- **Origin:** China (D. kaki); also D. virginiana (North America),
+- **Origin:** China (D. kaki); also D. virginiana ([[psilocybin-north-america-pacific-northwest]]),
   D. lotus (Mediterranean)
 - **Habit:** Deciduous tree
 - **Frost tolerance:** Hardy to -10 degrees C when mature
@@ -43,13 +43,13 @@ the American persimmon and date plum offer regional alternatives.
   fruit; higher nutritional value (127 cal/100 g fresh)
 - **D. lotus** (date plum): Small (1-2 cm) purple-black fruit
 - **D. dignya** (black sapote, chocolate pudding fruit): Evergreen
-  from Central America; very sweet fruit with chocolate brown flesh
+  from [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]; very sweet fruit with chocolate brown flesh
 
 ### Growth Requirements
 - Soil: Prefers medium loam; tolerates most soils if kept moist
 - Does not thrive in dry or acid soils
 - Tolerates some waterlogging
-- Needs plenty of water during growing season; benefits from mulching
+- Needs plenty of water during [[savory-growing-season-and-non-growing-season-management]]; benefits from mulching
 - Dioecious: requires male and female plants (though some trees are
   bisexual)
 
@@ -75,7 +75,7 @@ finished producing. Its ornamental autumn foliage adds aesthetic value
 to [[loquat-entity]]
 - [[sapodilla-entity]]
 
-See also: [[persimmon-cultivation-and-variety-guide]]
+See also: [[comparison-pomegranate-vs-persimmon-cultivation]]
 ## Practical Considerations
 
 Successful implementation of persimmon requires attention to
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

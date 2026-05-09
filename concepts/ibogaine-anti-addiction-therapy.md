@@ -18,11 +18,11 @@ sources:
 
 # Ibogaine Anti-Addiction Therapy
 
-Ibogaine is an indole alkaloid derived from the root bark [[tabernanthe-iboga]]. It has attracted significant attention for its reported
+Ibogaine is an [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] derived from the [[iboga-root-bark-preparation]] [[tabernanthe-iboga]]. It has attracted significant attention for its reported
 ability to interrupt opioid dependence, reduce withdrawal symptoms, and
 facilitate long-term abstinence from addictive substances. Despite promising
 anecdotal and observational evidence, ibogaine remains controversial due to
-safety concerns [[antiviral-properties-of-mushrooms]]
+safety concerns antiviral-properties-of-mushrooms
 ibogaine were first described in Western scientific literature [[allegro-plants-and-drugs-in-the-ancient-world]]
 1960s by Howard Lotsof, a heroin-dependent young man who observed that a
 single ibogaine experience eliminated his cravings and withdrawal symptoms.
@@ -68,7 +68,7 @@ agonism may regulate the dysphoric and stress-related components of withdrawal
 and craving. NMDA receptor antagonism may facilitate the resetting of
 maladaptive neural circuits that underlie addictive behavior.
 
-Ibogaine also produces a profound psychedelic experience lasting 12 to 36
+Ibogaine also produces a profound [[leary-psychedelic-experience-bardo-mapping]] lasting 12 to 36
 hours, during which users frequently report vivid autobiographical memories
 and emotional processing of traumatic experiences. This psychological
 component may contribute to therapeutic outcomes by facilitating insight into
@@ -97,8 +97,8 @@ consistently indicate significant reductions in opioid withdrawal symptoms
 and drug cravings, with some studies reporting sustained abstinence rates
 of 50 to 80 percent at follow-up periods of months to years.
 
-However, controlled clinical trials are extremely limited due to regulatory
-obstacles and the ethical complexities of conducting psychedelic research
+However, controlled [[mushroom-cancer-clinical-trials-overview]] are extremely limited due to regulatory
+obstacles and the ethical complexities of conducting [[mckenna-suppression-psychedelic-research-lsd-therapy]]
 with potentially life-threatening risk. A few small studies have been
 conducted in Mexico and other countries where ibogaine treatment is legally
 available, but larger randomized controlled trials are needed to establish
@@ -117,7 +117,7 @@ The quality and safety of ibogaine treatment facilities varies considerably.
 Some clinics operate with comprehensive medical screening, cardiac monitoring
 during treatment, and experienced clinical staff. Others operate with minimal
 medical infrastructure. The lack of standardized treatment protocols and
-quality standards represents a significant concern for patient safety.
+[[aact-compost-quality-standards-ingham]] represents a significant concern for patient safety.
 
 ## Proposed Mechanisms Beyond Neurochemistry
 

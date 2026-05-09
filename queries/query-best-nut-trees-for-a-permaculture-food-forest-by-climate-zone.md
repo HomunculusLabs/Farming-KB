@@ -1,5 +1,5 @@
 ---
-title: FAQ — Best Nut Trees for a Permaculture Food Forest by Climate Zone
+title: FAQ — Best Nut Trees for a urban-permaculture-food-forest-succession by holzer-climate-zone-microclimate-creation
 created: 2026-04-28
 tags:
   - nut-trees
@@ -13,17 +13,17 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - J. Russell Smith, "Tree Crops: A Permanent Agriculture" (1953)
-  - Martin Crawford, "Creating a Forest Garden" (2010)
+  - Martin Crawford, "Creating a [[mollison-designers-forest-garden-layer-canopy-understory]]" (2010)
   - Mark Shepard, "Restoration Agriculture" (2013)
   - Eric Toensmeier, "The Carbon Farming Solution" (2016)
   - USDA Plant Hardiness Zone Map and NRCS Plant Guides
-  - North American Nut Growers Association (NNGA) cultivar recommendations
+  - [[growing-gourmet-north-american-reishi-species]] Nut Growers Association (NNGA) cultivar recommendations
 type: query
 ---
 
 # FAQ — Best Nut Trees for a Permaculture Food Forest by Climate Zone
 
-Choosing the right nut trees for your climate zone is one of the most important decisions in food forest design. This guide matches nut tree species and recommended cultivars to USDA Hardiness Zones, covering cold tolerance, heat requirements, chill hours, and site-specific considerations.
+Choosing the right nut trees for your climate zone is one of the most important decisions in food [[comparison-food-forest-design-vs-backyard-orchard-design]]. This guide matches nut tree species and recommended cultivars to USDA Hardiness Zones, covering cold tolerance, heat requirements, chill hours, and site-specific considerations.
 
 ## Quick Reference: Nut Trees by Zone
 
@@ -33,7 +33,7 @@ Choosing the right nut trees for your climate zone is one of the most important 
 | **3–4** | All Zone 2–3 plus: black walnut, shagbark hickory, bur oak, Chinese chestnut (selected), American chestnut hybrids |
 | **4–5** | All above plus: heartnut, butternut, shellbark hickory, most oak species, hybrid hazels |
 | **5–6** | All above plus: English walnut, European filbert (blight-resistant cultivars), northern pecans, Chinese chestnut, yellowhorn |
-| **6–7** | All above plus: pecan (northern cultivars), almond (with frost protection), chestnut (European × Japanese hybrids) |
+| **6–7** | All above plus: pecan (northern cultivars), almond (with [[holzer-frost-protection-techniques]]), chestnut (European × Japanese hybrids) |
 | **7–8** | All above plus: pistachio (with caveats), southern pecans, macadamia (marginal), carob |
 | **8–9** | All above plus: almond (reliable), pistachio, macadamia (protected sites), pecan (all cultivars) |
 | **9–10** | Macadamia, pistachio, pecan, almond, chestnut (Chinese), avocado (subtropical zones) |

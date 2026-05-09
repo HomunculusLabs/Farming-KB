@@ -12,12 +12,12 @@ type: entity
 
 **Type:** Species (Plant)
 **Category:** Nitrogen-fixing leguminous tree
-**Also known as:** Leucaena leucocephala, ipil-ipil, lead tree, giant
+**Also known as:** [[leucaena-leucocephala]], ipil-ipil, lead tree, giant
 leucaena
 
 ## Overview
 Leucaena is a genus of 10 species of fast-growing trees native to
-southern North America and Central America. The most commercially
+southern [[psilocybin-north-america-pacific-northwest]] and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. The most commercially
 exploited species, *Leucaena leucocephala*, is often claimed to be the
 fastest growing tree in the tropics. It serves as a multi-purpose
 species used for fodder, fuelwood, timber, soil improvement, and human
@@ -57,7 +57,7 @@ food across tropical regions worldwide.
   sugar maple; excellent for paper pulp and rayon manufacture
 - **Fuelwood**: Heating value of 4,600 kcal/kg (wood), 7,000 kcal/kg
   (charcoal)
-- **Soil improvement**: Classic nurse tree for cacao; alley cropping
+- **Soil improvement**: Classic nurse tree for cacao; [[alley-cropping]]
   with corn, tobacco, yams, and rice
 - **Firebreak**: Stands 10 m or wider suppress fire spread
 
@@ -67,12 +67,12 @@ food across tropical regions worldwide.
 - Heavy frosts can kill the plant
 
 ## Relevance
-Leucaena is one of the most important multi-purpose agroforestry trees
-in the tropics. Its rapid growth, nitrogen fixation ability, and
+Leucaena is one of the most important multi-purpose [[agroforestry]] trees
+in the tropics. Its rapid growth, [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] ability, and
 multiple yields (fodder, fuel, timber, food) make it a cornerstone
-species for sustainable tropical farming systems, alley cropping, and
+species for sustainable tropical farming systems, [[comparison-alley-cropping-vs-silvopasture]], and
 reforestation projects. Its use as a nurse tree for cacao and other
-crops demonstrates excellent [[tagasaste]]
+crops demonstrates excellent tagasaste
 - [[acacia]]
 - [[ice-cream-bean-entity]]
 ## Practical Considerations
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

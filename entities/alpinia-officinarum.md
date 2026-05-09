@@ -42,13 +42,13 @@ Lesser galangal should not be confused with greater galangal (*Alpinia galanga*)
 
 *A. officinarum* is native to the humid subtropical forests of southern China, particularly Guangxi, Guangdong, Hainan, and Yunnan provinces. It also occurs naturally in northern Vietnam and Laos.
 
-The plant is cultivated extensively in southern China for both medicinal and culinary markets. It has been introduced to other tropical and subtropical regions, including India, Indonesia, Thailand, and parts of Africa, where it grows in similar warm, humid conditions.
+The plant is cultivated extensively in southern China for both [[holzer-medicinal-and-culinary-herbs-compendium]] markets. It has been introduced to other tropical and subtropical regions, including India, Indonesia, Thailand, and parts of Africa, where it grows in similar warm, humid conditions.
 
-It thrives in partial shade to full sun in rich, well-draining loamy soils with high organic matter. Optimal growth occurs at temperatures of 20–30°C with consistent moisture.
+It thrives in partial shade to full sun in rich, well-draining loamy soils with high [[hamilton-composting-and-organic-matter-management]]. Optimal growth occurs at temperatures of 20–30°C with consistent moisture.
 
 ## Bioactive Compounds
 
-The rhizome of *A. officinarum* contains a diverse array of secondary metabolites. The most pharmacologically significant include:
+The rhizome of *A. officinarum* contains a diverse array of [[antifungal-secondary-metabolites-coprophilous-fungi]]. The most pharmacologically significant include:
 
 **Flavonoids:** Galangin (3,5,7-trihydroxyflavone) is the signature compound. It demonstrates potent anti-inflammatory, antioxidant, and anticancer activities. Kaempferide, alpinetin, and pinocembrin are also present in significant quantities.
 
@@ -62,11 +62,11 @@ The rhizome of *A. officinarum* contains a diverse array of secondary metabolite
 
 Modern pharmacological research has validated several traditional uses of lesser galangal. Galangin has demonstrated inhibition of NF-κB and MAPK signaling pathways, providing a mechanistic basis for its anti-inflammatory effects. It also shows COX-2 selective inhibition at higher concentrations.
 
-Antioxidant assays consistently show strong DPPH and ABTS radical scavenging activity for galangin and diarylheptanoid fractions. The flavonoid content contributes significantly to cellular protection against oxidative stress.
+Antioxidant assays consistently show strong DPPH and ABTS radical scavenging activity for galangin and diarylheptanoid fractions. The flavonoid content contributes significantly to cellular protection against [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]].
 
 Gastroprotective effects include reduction of gastric acid secretion, enhancement of gastric mucosal defense, and inhibition of *Helicobacter pylori* growth. These activities support the traditional use for digestive complaints and stomach disorders.
 
-Anticancer research has identified galangin as a promising candidate, with in vitro studies showing induction of apoptosis and cell cycle arrest in breast, liver, and colon cancer cell lines. Clinical trials are limited but preclinical data are encouraging.
+Anticancer research has identified galangin as a promising candidate, with in vitro studies showing induction of apoptosis and cell cycle arrest in breast, liver, and colon cancer cell lines. [[mushroom-cancer-clinical-trials-overview]] are limited but preclinical data are encouraging.
 
 ## Traditional and Culinary Uses
 
@@ -98,7 +98,7 @@ In TCM, greater galangal is classified as a different herb (红豆蔻, *hong dou
 
 Recent research on *A. officinarum* has expanded beyond its traditional uses. Galangin has shown neuroprotective effects in animal models of Alzheimer's disease, reducing amyloid-beta accumulation and improving cognitive function.
 
-Antimicrobial studies have demonstrated activity against oral pathogens, including *Streptococcus mutans* and *Porphyromonas gingivalis*, suggesting potential applications in oral health products. The essential oil also shows antifungal activity against *Candida albicans*.
+Antimicrobial studies have demonstrated activity against oral pathogens, including *Streptococcus mutans* and *Porphyromonas gingivalis*, suggesting potential applications in oral health products. The essential oil also shows antifungal activity against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*.
 
 In dermatological research, topical formulations containing galangin have shown promise for UV-induced skin damage protection and wound healing acceleration. These findings have prompted interest in cosmetic and pharmaceutical applications.
 

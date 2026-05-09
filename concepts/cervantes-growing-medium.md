@@ -1,11 +1,12 @@
 ---
-title: "Cannabis Growing Medium — Soil vs Hydro vs Coco"
+title: "query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work Medium — Soil vs Hydro vs Coco"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
 tags: [cannabis]
 sources:
-  - raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # Cannabis Growing Medium — Soil vs Hydro vs Coco
@@ -16,11 +17,11 @@ sources:
 
 Potting soil fresh out of the bag often fulfills all requirements: good texture for root penetration, water retention, good drainage, stable pH between 6 and 7, and a minimum supply of nutrients.
 
-Premium fast-draining soils with good texture that will not break down quickly are the best choice. Potting soils found at nurseries are often formulated with a wetting agent and retain water and air evenly, drain well, and allow easy root penetration. Organic potting soils are very popular, often fortified with organic nutrients including readily available high-nitrogen worm castings.
+Premium fast-draining soils with good texture that will not break down quickly are the best choice. Potting soils found at nurseries are often formulated with a [[jadam-nutrient-management-wetting-agent-and-calcium]] and retain water and air evenly, drain well, and allow easy root penetration. Organic potting soils are very popular, often fortified with organic nutrients including readily available high-nitrogen worm castings.
 
 ## Hydroponic Growing Mediums
 
-Hydroponic systems are distinguished by how the nutrient solution is applied:
+Hydroponic systems are distinguished by how the [[cannabis-nutrient-solution-preparation]] is applied:
 
 ### Passive Systems
 Rely on capillary action to transfer nutrient solution. Absorbent mediums like vermiculite, sawdust, peat moss work well. Wick systems have no moving parts, low initial cost and low maintenance. Dutch growers line the floor with heavy plastic, fill pots with absorbent soilless mix, and flood the garden with 2-3 inches of nutrient solution. Roots absorb it in 2-5 days.
@@ -56,7 +57,7 @@ Most popular because of proven low-maintenance track records. Individual plants 
 ## pH Management
 
 - Ideal soil pH: 6.0-7.0
-- Dolomite lime (magnesium + calcium) keeps pH stable and buffers long-term
+- [[cervantes-dolomite-lime-ph-buffering]] (magnesium + calcium) keeps pH stable and buffers long-term
 - Hydrated lime raises pH quickly (fast-acting) — max 0.5 cup per cubic foot
 - Raise pH: add calcium carbonate, potassium hydroxide, or sodium hydroxide
 - Lower pH: add phosphoric acid (hydroponic), nitric acid, or distilled white vinegar (1 tsp/gallon)
@@ -73,7 +74,7 @@ Coco coir is made from the husks of coconuts. It has excellent water retention w
 Perlite is expanded volcanic glass that is extremely light and provides excellent aeration. It holds very little water on its own. Vermiculite is expanded mica that holds large quantities of water and nutrients but compacts over time. They are often mixed together (50/50) to create a balanced medium, or perlite is mixed into soil or coco coir to improve drainage. Perlite can also be used alone in hydroponic systems, but requires frequent watering because of its low water-holding capacity.
 
 ### Expanded Clay (Hydroton)
-Expanded clay pebbles (often sold as Hydroton) are lightweight, pH-neutral clay balls that provide excellent aeration and drainage. They are reusable after cleaning and sterilizing. Used primarily in hydroponic systems such as flood-and-drain and drip irrigation, they provide a stable, clean growing environment but require frequent irrigation cycles.
+Expanded clay pebbles (often sold as Hydroton) are lightweight, pH-neutral clay balls that provide excellent aeration and drainage. They are reusable after cleaning and sterilizing. Used primarily in hydroponic systems such as flood-and-drain and drip irrigation, they provide a stable, clean [[cannabis-growing-environment-setup]] but require frequent irrigation cycles.
 
 ### Water Culture (Deep Water Culture / NFT)
 Water culture systems dispense with solid growing mediums entirely. In deep water culture (DWC), plant roots are submerged in oxygenated nutrient solution. Nutrient film technique (NFT) runs a thin film of nutrient solution over plant roots in a shallow channel. These systems offer the fastest growth rates but also the least margin for error — pump failures or nutrient imbalances can kill plants quickly.
@@ -88,7 +89,7 @@ Containers must have drainage holes at the bottom. Elevating pots on small block
 
 Water quality is fundamental to growing success. Chlorine in municipal water can harm beneficial soil organisms. Letting tap water sit for 24 hours or using a carbon filter removes chlorine. Reverse osmosis (RO) systems produce the purest water but also strip beneficial minerals.
 
-pH affects nutrient availability across the growing medium. Most nutrients are available to cannabis roots at pH 6.0-6.5 in soil and 5.5-6.0 in hydroponic systems. Outside these ranges, essential nutrients become "locked out" — present but unavailable to roots. pH should be checked regularly and adjusted with pH-up (potassium hydroxide) or pH-down (phosphoric acid) products.
+pH affects [[ph-and-nutrient-availability-garden-soils]] across the growing medium. Most nutrients are available to cannabis roots at pH 6.0-6.5 in soil and 5.5-6.0 in hydroponic systems. Outside these ranges, essential nutrients become "locked out" — present but unavailable to roots. pH should be checked regularly and adjusted with pH-up (potassium hydroxide) or pH-down (phosphoric acid) products.
 
 ## Related Topics
 - [[cervantes-indoor-grow-room-setup]] — Grow room configuration

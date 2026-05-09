@@ -26,18 +26,18 @@ These nitrifying bacteria do not like acidic environments. Their numbers diminis
 
 ## Denitrifying Bacteria
 
-Denitrifying bacteria convert nitrogen salts back to N2 gas, which escapes into the atmosphere. While they do not directly help soil fertility, they are essential for keeping the [[mycorrhizal-fungi-basics-lowenfels]] establish symbiotic relationships with plant roots. In return for exudates, they provide water, phosphorus, calcium, magnesium, zinc, and iron to the plant. Any nutrient compounds not delivered to plant roots are locked up in the fungi and released when the fungi die and are decayed.
+Denitrifying bacteria convert nitrogen salts back to N2 gas, which escapes into the atmosphere. While they do not directly help soil fertility, they are essential for keeping the mycorrhizal-fungi-basics-lowenfels establish symbiotic relationships with plant roots. In return for exudates, they provide water, phosphorus, calcium, magnesium, zinc, and iron to the plant. Any nutrient compounds not delivered to plant roots are locked up in the fungi and released when the fungi die and are decayed.
 
 ### Pathogenic Fungi
-A long list of fungal pathogens impacts crops:
-- **Smut fungi**: Infect cereal grain flowers
+A long list of [[bloomfield-fungal-pathogens-and-parasites]] impacts crops:
+- **[[biodiversity-smut-fungi-diversity]]**: Infect cereal grain flowers
 - **Rust fungi**: Cause diseases on wheat, oats, rye, fruits, and pines
-- **Downy mildew** (Plasmopara spp., Sclerophthora spp.)
+- **[[cervantes-downy-mildew-fungal-blight]]** (Plasmopara spp., Sclerophthora spp.)
 - **Root rots** (Phytophthora spp.)
 - **Botrytis** (gray mold)
-- **Powdery mildew**: Airborne spores germinate at 60-80F with high humidity
+- **[[cervantes-powdery-mildew-prevention-treatment]]**: Airborne spores germinate at 60-80F with high humidity
 - **Fusarium oxysporum**: Causes wilt on tomatoes; soil-borne, survives in dormant stages for a decade or more
-- **Armillaria mellea** (oak root fungus): Causes sudden oak death by decaying lignin and cellulose
+- **Armillaria mellea** (oak root fungus): Causes [[bloomfield-sudden-oak-death-phytophthora-species-diversity]] death by decaying lignin and cellulose
 
 Pathogenic fungi enter plants through stomata, wounds, and even by dissolving the cuticle and cell walls.
 
@@ -63,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +105,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

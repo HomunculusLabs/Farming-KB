@@ -3,6 +3,7 @@ title: CMH Grow Lights
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
@@ -11,10 +12,10 @@ tags: [reference]
 
 # CMH Grow Lights
 
-Ceramic Metal Halide (CMH) lamps, also known as Light Emitting Ceramic (LEC) lamps, are
+Ceramic [[cervantes-metal-halide-lighting-systems]] (CMH) lamps, also known as Light Emitting Ceramic (LEC) lamps, are
 a refinement of traditional [[cannabis-hid-lighting-specifications]] (HID) family. CMH lamps use a ceramic arc tube similar to that in HPS lamps,
 which allows them to operate at higher temperatures and produce a broader, more balanced
-light spectrum than standard metal halide.
+[[cannabis-light-spectrum-and-color-bands]] than standard metal halide.
 
 ## Technology Overview
 
@@ -55,8 +56,8 @@ results without the complexity of LED systems.
 
 ## Common Setups
 
-A typical CMH grow room uses multiple 315-watt fixtures to cover the canopy. Like other
-HID systems, reflective hoods maximize light delivery to plants. The coverage area of a
+A typical CMH [[cannabis-grow-room-setup]] uses multiple 315-watt fixtures to cover the canopy. Like other
+HID systems, [[cervantes-reflective-hoods-light-distribution]] maximize light delivery to plants. The coverage area of a
 315-watt CMH is roughly equivalent to a 400-watt HPS. Multiple fixtures provide more
 even light distribution than a single larger HPS lamp. Using several 315-watt lamps
 rather than one large HPS creates more point sources of light for better coverage.
@@ -75,7 +76,7 @@ reflected, increasing efficiency.
 As with all HID lamps, light intensity from CMH fixtures diminishes with distance
 according to the inverse square law. A 315-watt CMH should typically be hung 18-24
 inches above the plant canopy. Following manufacturer guidelines ensures optimal PAR
-delivery without heat stress to foliage.
+delivery without [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]] to foliage.
 
 ## Ballasts for CMH
 

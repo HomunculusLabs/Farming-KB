@@ -4,12 +4,13 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [reference]
-sources: []
+sources:
+  sources: []
 ---
 
 # Rammed Earth Construction
 
-Rammed earth construction is a building technique that creates dense, monolithic walls by compacting damp earth between temporary formwork. One of the oldest building methods in human history, rammed earth has been used for millennia across China, the Mediterranean, North Africa, the Middle East, and Europe. Modern rammed earth combines ancient techniques with contemporary engineering, producing walls of exceptional strength, durability, and thermal performance. In permaculture design, rammed earth is valued for its minimal processing, local material sourcing, longevity, and thermal mass properties.
+Rammed earth construction is a building technique that creates dense, monolithic walls by compacting damp earth between temporary formwork. One of the oldest building methods in human history, rammed earth has been used for millennia across China, the Mediterranean, North Africa, the Middle East, and Europe. Modern rammed earth combines ancient techniques with contemporary engineering, producing walls of exceptional strength, durability, and thermal performance. In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], rammed earth is valued for its minimal processing, [[jadam-local-material-collection-and-use]] sourcing, longevity, and thermal mass properties.
 
 ## Historical Background
 
@@ -49,13 +50,13 @@ Openings for doors and windows are formed by boxing out within the formwork or b
 
 Stabilised rammed earth includes a small percentage of cement, typically 5-10 percent by weight, mixed with the earth. The cement acts as a binder, significantly increasing compressive strength and water resistance. Stabilised rammed earth is suitable for wetter climates where unstabilised walls would be vulnerable to erosion.
 
-Lime stabilisation is an alternative to cement, using 5-8 percent hydrated lime. Lime stabilised walls gain strength slowly through carbonation over months and years. Lime provides good water resistance and flexibility, and is more environmentally benign than cement in terms of embodied energy and carbon emissions.
+Lime stabilisation is an alternative to cement, using 5-8 percent [[cervantes-hydrated-lime-quicklime-ph-adjustment]]. Lime stabilised walls gain strength slowly through carbonation over months and years. Lime provides good water resistance and flexibility, and is more environmentally benign than cement in terms of embodied energy and carbon emissions.
 
 ## Thermal Performance
 
 Rammed earth walls have excellent thermal mass properties. Their high density allows them to absorb, store, and slowly release heat energy. This thermal lag effect, typically 8-12 hours depending on wall thickness, significantly reduces indoor temperature fluctuations.
 
-In hot climates, rammed earth walls absorb daytime heat and release it at night, keeping interiors cool during the day. In cold climates, combined with passive solar design, walls capture winter sunlight and release stored heat overnight. The thermal mass effect reduces both heating and cooling energy requirements.
+In hot climates, rammed earth walls absorb daytime heat and release it at night, keeping interiors cool during the day. In cold climates, combined with [[comparison-passive-solar-vs-earth-sheltered]] design, walls capture winter sunlight and release stored heat overnight. The thermal mass effect reduces both heating and cooling energy requirements.
 
 For optimal thermal performance in cold climates, rammed earth walls may be insulated externally. External insulation allows the wall mass to remain inside the insulation envelope, where it contributes to indoor thermal comfort. Internal insulation negates the thermal mass benefit.
 
@@ -73,9 +74,9 @@ If surface erosion does occur, it can be repaired by applying a lime wash or ear
 
 ## Environmental Benefits
 
-Rammed earth has very low embodied energy compared to conventional building materials. The primary energy input is in soil extraction, mixing, and compaction, which can be done with minimal mechanical equipment. If cement stabiliser is used, embodied energy increases, but remains lower than concrete or brick construction.
+Rammed earth has very low embodied energy compared to conventional [[natural-building-materials-guide]]. The primary energy input is in soil extraction, mixing, and compaction, which can be done with minimal mechanical equipment. If cement stabiliser is used, embodied energy increases, but remains lower than concrete or brick construction.
 
-The material is non-toxic, breathable, and at end of life can be returned to the earth or crushed and reused as aggregate. Local sourcing of materials minimises transport emissions. The longevity of rammed earth buildings means that the energy invested in construction is amortised over a very long service life.
+The material is non-toxic, breathable, and at [[powell-psilocybin-end-of-life-anxiety]] can be returned to the earth or crushed and reused as aggregate. Local sourcing of materials minimises transport emissions. The longevity of rammed earth buildings means that the energy invested in construction is amortised over a very long service life.
 
 ## See Also
 
@@ -85,4 +86,4 @@ The material is non-toxic, breathable, and at end of life can be returned to the
 
 [[permaculture-zone-0-house-design]]
 
-[[permaculture-designers-manual-timber-construction]]
+permaculture-designers-manual-timber-construction

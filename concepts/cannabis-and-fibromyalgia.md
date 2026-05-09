@@ -12,7 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-Fibromyalgia is a chronic pain condition characterized by widespread musculoskeletal pain, fatigue, sleep disturbances, and cognitive difficulties. Research from The Cannabis Health Index documents the potential of cannabinoids, particularly nabilone (a synthetic cannabinoid), for fibromyalgia symptom management.
+Fibromyalgia is a [[cannabis-chronic-pain-management]] condition characterized by widespread musculoskeletal pain, fatigue, sleep disturbances, and cognitive difficulties. Research from The [[blesching-cannabis-health-index-autoimmune-conditions]] documents the potential of cannabinoids, particularly nabilone (a synthetic cannabinoid), for fibromyalgia symptom management.
 
 ## Key Clinical Studies
 
@@ -48,7 +48,7 @@ Fibromyalgia may involve a deficiency in endocannabinoid signaling. The endocann
 - Inflammation (via CB2 receptors in immune cells)
 - Sleep-wake cycles
 - Mood and emotional processing
-- Stress response
+- [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]]
 
 If the ECS is underactive (clinical endocannabinoid deficiency), supplementing with phytocannabinoids may help restore balance.
 
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

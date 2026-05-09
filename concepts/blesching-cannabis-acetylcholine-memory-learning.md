@@ -18,7 +18,7 @@ type: concept
 
 The relationship between cannabis, acetylcholine, memory, and learning
 represents a fascinating intersection of neuroscience and cannabinoid
-pharmacology. [[cannabis-health-index]] explores this connection
+pharmacology.  explores this connection
 through the lens of the "Biology of Emotions," where acetylcholine is
 characterized by the emotional keyword: "I remember."
 
@@ -42,7 +42,7 @@ effect has not been confirmed in human trials. This dose-response relationship
 has important implications for therapeutic cannabis use, particularly for
 cognitive applications.
 
-The CB1 cannabinoid receptor, found on neurons throughout the body, mediates
+The CB1 [[cannabis-cannabinoid-receptor-pharmacology]], found on neurons throughout the body, mediates
 this interaction between cannabinoids and acetylcholine systems. The
 endocannabinoid system's ability to modulate acetylcholine release represents
 one mechanism by which cannabis affects cognitive function.
@@ -119,7 +119,7 @@ apply:
 - High doses of THC may impair short-term memory and attention
 - CBD appears to have neuroprotective properties without impairing cognition
 - Individual response varies based on genetics, tolerance, and condition
-- The therapeutic window for cognitive benefits may differ from that for other
+- The [[blesching-cannabis-therapeutic-window-dosing]] for cognitive benefits may differ from that for other
   applications
 
 ## Key Takeaways
@@ -128,7 +128,7 @@ apply:
   attention, and reward.
 - Low to medium THC doses may increase brain acetylcholine levels, supporting
   cognitive function.
-- The endocannabinoid system promotes neurogenesis and neuroplasticity,
+- The endocannabinoid system promotes [[blesching-cannabis-neurogenesis-and-neuroplasticity]],
   essential for learning and memory.
 - The hippocampus, rich in CB1 receptors, is a key site for cannabinoid
   effects on memory.

@@ -54,7 +54,7 @@ The most distinctive field character is the blushing reaction: when the pore sur
 
 ## Distribution and Habitat
 
-Daedaleopsis confragosa has a broad distribution across temperate and boreal regions of the Northern Hemisphere, including Europe, North America, and parts of Asia. It is one of the most commonly encountered polypores on hardwood in European forests.
+Daedaleopsis confragosa has a broad distribution across temperate and boreal regions of the Northern Hemisphere, including Europe, [[psilocybin-north-america-pacific-northwest]], and parts of Asia. It is one of the most commonly encountered polypores on hardwood in European forests.
 
 The species is almost exclusively found on dead or dying hardwood, with a strong preference for Betula (birch), Alnus (alder), and Salix (willow).
 
@@ -68,17 +68,17 @@ It typically grows on standing dead trunks, fallen logs, and large branches in v
 
 Daedaleopsis confragosa is a primary white-rot decomposer of hardwood. It secretes lignin-modifying enzymes including laccases, manganese peroxidases, and lignin peroxidases, breaking down lignin and cellulose in the wood substrate.
 
-The species is a late-stage colonizer, typically establishing after initial colonizers such as Trametes versicolor and Bjerkandera adusta.
+The species is a late-stage colonizer, typically establishing after initial colonizers such as [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] and Bjerkandera adusta.
 
-It plays an important role in nutrient cycling by facilitating the release of carbon and minerals locked in woody biomass back into the forest ecosystem.
+It plays an important role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by facilitating the release of carbon and minerals locked in woody biomass back into the forest ecosystem.
 
-White-rot fungi like D. confragosa are of significant interest in bioremediation research due to their ability to degrade a wide range of environmental pollutants including polycyclic aromatic hydrocarbons (PAHs), polychlorinated biphenyls (PCBs), and synthetic dyes.
+White-rot fungi like D. confragosa are of significant interest in bioremediation research due to their ability to degrade a wide range of environmental pollutants including [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs), polychlorinated biphenyls (PCBs), and synthetic dyes.
 
 ## Edibility and Uses
 
 Daedaleopsis confragosa is not considered edible due to its tough, corky texture. It has no significant culinary applications.
 
-The species has not been investigated for medicinal compounds to the extent of other polypores, though general white-rot fungi produce various secondary metabolites.
+The species has not been investigated for medicinal compounds to the extent of other polypores, though general white-rot fungi produce various [[antifungal-secondary-metabolites-coprophilous-fungi]].
 
 In forest management, the presence of D. confragosa on standing timber indicates advanced decay and structural compromise. It is not considered a serious pathogen of living trees, typically only colonizing already-weakened or dead wood.
 
@@ -90,7 +90,7 @@ Extracts of D. confragosa have demonstrated antioxidant activity in vitro, attri
 
 Antimicrobial activity against Gram-positive bacteria has also been reported in preliminary screening studies.
 
-The species produces laccase enzymes of interest to biotechnology for applications in bioremediation, textile dye decolorization, and biosensor development. The lignin-modifying enzyme system is similar to that of other white-rot polypores but shows distinct pH and temperature optima that may suit certain industrial applications.
+The species produces [[singh-fungal-laccase-enzymes-bioremediation]] of interest to biotechnology for applications in bioremediation, textile dye decolorization, and biosensor development. The lignin-modifying enzyme system is similar to that of other white-rot polypores but shows distinct pH and temperature optima that may suit certain industrial applications.
 
 ## Similar Species
 

@@ -1,5 +1,5 @@
 ---
-title: Ascospore Extreme Resilience and Electron Microscope Survival
+title: bloomfield ascospore extreme resilience electron microscope survival Resilience and Electron Microscope Survival
 created: 2026-04-28
 tags:
   - mycology
@@ -18,7 +18,7 @@ type: concept
 
 Ascospores, the sexual spores produced by ascomycete fungi inside
 their flask-shaped asci, are among the most resilient biological
-structures known. While the explosive discharge mechanisms of these
+structures known. While the explosive [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]] of these
 spores have attracted considerable attention from mycologists,
 their capacity to withstand extreme environmental insults is
 equally remarkable and far less widely appreciated. The work of
@@ -48,7 +48,7 @@ The combination of extreme desiccation, deep freezing, and
 cells, plant tissues, and even most bacterial spores. The fact
 that fungal ascospores survived all of these insults and
 retained their viability speaks to the extraordinary robustness
-of their cell wall architecture.
+of their [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] architecture.
 
 ## Cell Wall Structure and Protection
 
@@ -84,7 +84,7 @@ identifies a specific vulnerability in what is otherwise an
 almost invulnerable structure.
 
 The lethal effect of alcohol dehydration likely stems from the
-solvent properties of ethanol, which can dissolve or disrupt
+[[lemon-cannabis-alchemy-solvent-properties-and-selection-guide]] of ethanol, which can dissolve or disrupt
 lipid membranes within the spore wall. While the dry vacuum of
 an electron microscope removes water without attacking the
 structural polymers themselves, alcohol actively disrupts the
@@ -137,4 +137,8 @@ protective pigmentation and wall chemistry of the fungal hyphae,
 
 - [[bloomfield-lichens-symbiosis-extreme-survival]]
 - [[bloomfield-fungal-spore-discharge-and-dispersal]]
-- [[bloomfield-morel-morchella-ascocarp-cup-fungi-truffle-evolution]]
+- bloomfield-morel-morchella-ascocarp-cup-fungi-truffle-evolution
+## See Also
+- [[fungal-hyphae]]
+- [[bloomfield-lichens-symbiosis-extreme-survival]]
+- [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]]

@@ -26,7 +26,7 @@ Giant kelp is a foundational ecosystem engineer that creates three-dimensional h
 
 The species achieves extraordinary growth rates of up to 60 cm per day under optimal conditions. Its rapid growth and high productivity make it one of the fastest-growing organisms on the planet.
 
-Giant kelp forests are among the most biodiverse and productive marine ecosystems, rivaling tropical coral reefs and rainforests. The species is harvested commercially for alginates and is cultivated for abalone feed and bioremediation.
+Giant kelp forests are among the most biodiverse and productive [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]], rivaling tropical coral reefs and rainforests. The species is harvested commercially for alginates and is cultivated for abalone feed and bioremediation.
 
 ## Taxonomy and Morphology
 
@@ -46,7 +46,7 @@ Growth occurs primarily at the frond apex through a specialized meristematic reg
 
 Giant kelp is distributed along the eastern Pacific from Baja California to southeast Alaska, and along the western Pacific from Peru to southern Chile. Populations also exist in the Southern Ocean near South America, South Africa, Australia, and New Zealand.
 
-The species occupies subtidal rocky reefs from 2–30 m depth, requiring hard substrates for holdfast attachment. Optimal conditions include cool water (5–20°C), moderate wave action, and high nutrient availability.
+The species occupies subtidal rocky reefs from 2–30 m depth, requiring hard substrates for holdfast attachment. Optimal conditions include cool water (5–20°C), moderate wave action, and high [[ph-and-nutrient-availability-garden-soils]].
 
 Kelp forests thrive in areas of coastal upwelling where deep, nutrient-rich waters reach the photic zone. Seasonal nutrient limitation, particularly during warm El Niño events, can cause widespread deforestation.
 
@@ -64,7 +64,7 @@ Vitamins A, C, E, and B-complex are present, along with carotenoids including fu
 
 ## Ecology and Ecosystem Role
 
-Giant kelp forests are among the most productive marine ecosystems, with net primary production reaching 1.5–3 kg carbon per m² per year. This productivity supports complex food webs from plankton to marine mammals.
+Giant kelp forests are among the most productive marine ecosystems, with net [[lichens-primary-production-soil-formation-dighton]] reaching 1.5–3 kg carbon per m² per year. This productivity supports complex food webs from plankton to marine mammals.
 
 The three-dimensional structure of kelp forests provides habitat, shelter, and nursery grounds for over 800 species of marine organisms. Fish assemblages in kelp forests include commercially important species such as rockfish, kelp bass, and sheephead.
 
@@ -84,20 +84,20 @@ Cultivation is practiced in Chile, China, and New Zealand for abalone feed and a
 
 Bioremediation applications leverage the species' capacity for nutrient absorption. Integrated aquaculture systems co-locate giant kelp with finfish farms to reduce dissolved nitrogen and phosphorus loads.
 
-Research is ongoing into using giant kelp for carbon sequestration through offshore cultivation and deep-water sinking. The economic viability and ecological risks of large-scale ocean afforestation remain under investigation.
+Research is ongoing into using giant kelp for [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] through offshore cultivation and deep-water sinking. The economic viability and ecological risks of large-scale ocean afforestation remain under investigation.
 
-The species has been proposed as a source of biomethane through anaerobic digestion of harvested biomass. Feasibility studies suggest that giant kelp could supplement natural gas supplies in coastal regions.
+The species has been proposed as a source of biomethane through [[biogas-digester-basics]] of harvested biomass. Feasibility studies suggest that giant kelp could supplement natural gas supplies in coastal regions.
 
 Conservation efforts focus on restoring sea otter populations to control urchin grazing pressure. Urchin culling programs and kelp replanting initiatives have shown localized success in southern California.
 
-Climate change poses the greatest long-term threat to giant kelp forests through ocean warming, acidification, and increased storm frequency. Marine protected areas have been established to preserve remaining kelp forest habitats.
+[[dighton-fungi-climate-change-feedback]] poses the greatest long-term threat to giant kelp forests through ocean warming, acidification, and increased storm frequency. Marine protected areas have been established to preserve remaining kelp forest habitats.
 
 ## See Also
 
 - [[saccharina-latissima]]
 - [[porphyra-umbilicalis]]
 - [[chondrus-crispus]]
-- [[agar]]
+- agar
 - [[agaricus-bisporus]]
 - [[ganoderma-lucidum]]
 - [[daucus-carota]]

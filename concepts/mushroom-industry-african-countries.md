@@ -35,8 +35,8 @@ tons per annum, which is far below estimated potential of over 100,000 tons.
 Four major commercial farms account for the bulk of production: Agridutt Ltd.,
 Rift Valley Mushrooms, Olive Mushrooms, and Devani and Kanchan Mushrooms.
 
-Button mushroom (Agaricus bisporus) dominates at over 95% of production volume.
-Oyster mushroom cultivation is not yet popular, with only four small farms
+Button mushroom ([[genetic-improvement-agaricus-bisporus-molecular-approaches]]) dominates at over 95% of production volume.
+Oyster [[accessible-mushroom-cultivation-for-disabilities]] is not yet popular, with only four small farms
 producing approximately 120kg each per week. Shiitake production is similarly
 limited, with some farms producing around 20kg per week.
 
@@ -86,7 +86,7 @@ Kenya has three main cultivation zones:
 
 The Zimbabwe mushroom industry is dominated by small-scale producers and a few
 well-established companies. Approximately ten large-scale producers account
-for about 300 tons of button mushrooms and 50 tons of oyster mushrooms
+for about 300 tons of button mushrooms and 50 tons of [[query-how-to-grow-oyster-mushrooms-at-home]]
 annually. Small-scale producers concentrate on oyster mushroom, accounting for
 about 60% of total annual production of that species.
 
@@ -100,7 +100,7 @@ Africa and Italy.
 Zimbabwe's climate varies from subtropical Lowveld (exceeding 35C in summer) to
 temperate Eastern Highlands (18C average, 2,500mm+ annual rainfall). The
 diversity in soils and climate allows production of various crops with residues
-suitable as mushroom substrates. Common substrates include wheat straw, grass,
+suitable as [[query-what-are-the-best-mushroom-substrates-for-different-species]]. Common substrates include wheat straw, grass,
 banana leaves, sawdust, water hyacinth, and groundnut shells.
 
 ### Mushroom Prices and Marketing
@@ -112,7 +112,7 @@ food chains, hotels, restaurants, supermarkets, and exporting companies.
 
 ### Key Organizations
 
-The Biotechnology Trust of Zimbabwe (BTZ) and the Intermediate Technology
+The Biotechnology Trust of Zimbabwe (BTZ) and the [[holmgren-gigantism-intermediate-technology-and-small-scale]]
 Development Group (ITDG) have been instrumental in training rural farmers and
 promoting mushroom adoption. BTZ has cultured high-quality spawn at the
 University of Zimbabwe, while ITDG focuses on hands-on farmer training.
@@ -130,7 +130,7 @@ regions.
 
 Across both Kenya and Zimbabwe, shared challenges include:
 
-- Widespread fear of mushroom poisoning among urban populations
+- Widespread fear of [[european-mushroom-poisoning-history]] among urban populations
 - Lack of dedicated mushroom research institutions
 - High cost and limited availability of quality spawn
 - Poor information exchange between farmers and researchers

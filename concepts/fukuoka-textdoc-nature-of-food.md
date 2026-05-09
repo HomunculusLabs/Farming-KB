@@ -38,7 +38,7 @@ spirit is matter. Both are one.
 Nature provided man with a vast array of foods. Discerning what he thought were
 good and bad qualities, he picked and chose, thinking he had to create
 harmonious combinations. This has been the root of his errors. Human knowledge
-can never compare with the greatness of the natural order. The colors of
+can never compare with the greatness of the [[fukuoka-textdoc-natural-order-food-chain-unity]]. The colors of
 nature remain constant and immutable, but to man they appear to change as
 readily as hydrangea blossoms.
 
@@ -72,9 +72,9 @@ food itself eat only with the tip of the tongue and so are easily deceived.
 ## The White Rice Delusion
 
 An adult who has lost his instinctive sense of taste no longer appreciates the
-taste of rice. He eats white rice prepared by polishing brown rice to remove
+taste of rice. He eats white rice prepared by polishing [[cho-brown-rice-vinegar-preparation]] to remove
 the bran. To make up for the loss, he adds meat sauce or eats it with
-sashimi. Tasty rice thus becomes rice that is easy to flavor and season, and
+sashimi. [[fukuoka-tasty-rice-illusion-food-processing]] thus becomes rice that is easy to flavor and season, and
 people delude themselves into thinking of white rice as high-grade rice.
 
 Nowadays people believe that protein is protein and vitamin B is vitamin B
@@ -88,15 +88,15 @@ their entire diet has been converted into an artificial diet.
 All we have to do is stop trying to create delicious food and we will be
 surrounded by it. People today who cannot eat wild herbs without removing
 their natural astringency are unable to enjoy the flavors of nature. The
-practical wisdom of early man who sun-dried root vegetables and pickled them
+practical wisdom of early man who sun-dried [[growing-root-vegetables-guide]] and pickled them
 in salt, enjoying their special taste and aroma, touches the essence of
 natural flavor.
 
 Culture is seen as a human product created through human invention by the
 separation of man from nature. But true culture always originates in a return
-to the source of nature, forming of itself when nature and man fuse into a
+to the source of nature, forming of itself when [[fukuoka-god-nature-and-man-as-one]] fuse into a
 single whole. A culture born of human vanity divorced from nature cannot
-become true culture. When mankind forsakes a natural diet for a civilized
+become true culture. When mankind forsakes a [[fukuoka-natural-diet-as-foundation]] for a civilized
 diet, he turns away from true culture and sets off on the road to decline.
 
 ## The Critique of Western Dietetics

@@ -13,12 +13,12 @@ sources:
   - "Leafly. 'Chemdawg 91 Strain Information.' https://www.leafly.com/strains/chemdawg-91"
   - "AllBud. 'Chemdawg 91.' https://www.allbud.com/marijuana-strains/hybrid/chemdawg-91"
   - "SeedFinder. 'Chemdawg 91.' https://en.seedfinder.eu/strain-info/Chemdawg-91/"
-  - Smart R, Marks D, Vandrey R (2019). "Emerging trends in cannabis potency." Addiction 114(6): 1020-1026.
+  - Smart R, Marks D, Vandrey R (2019). "Emerging trends in [[green-cannabis-potency-maximizing]]." Addiction 114(6): 1020-1026.
 ---
 
 ## Overview
 
-Chemdawg 91 (also written Chemdog 91) is a legendary hybrid cannabis strain and one of the most influential parent lines in modern cannabis breeding.
+Chemdawg 91 (also written Chemdog 91) is a legendary hybrid cannabis strain and one of the most influential parent lines in modern [[oner-cannabis-breeding-fundamentals]].
 
 The strain originated in the early 1990s from a now-famous seed found in a bag of Chemdog purchased at a Grateful Dead concert.
 
@@ -48,7 +48,7 @@ Colors range from bright to forest green with occasional flashes of deep purple,
 
 Pistils are copper-orange to rust-colored, abundant, and curling through the resinous bud surface.
 
-Resin production is notably heavy, with trichomes often extending onto the sugar leaves and small surrounding foliage.
+[[cannabis-glandular-trichome-types-resin-production-clarke]] is notably heavy, with trichomes often extending onto the sugar leaves and small surrounding foliage.
 
 ## Aroma and Flavor
 
@@ -102,9 +102,9 @@ Flowering time is approximately 8–9 weeks indoors, with outdoor harvest finish
 
 Indoor yields are moderate at 12–16 ounces per square meter under optimal conditions.
 
-The strain is considered moderately difficult to cultivate, requiring attention to humidity and nutrient management.
+The strain is considered moderately difficult to cultivate, requiring attention to humidity and [[green-cannabis-grow-bible-nutrient-management-ppm]].
 
-Plants are susceptible to powdery mildew and botrytis in high-humidity environments.
+Plants are susceptible to [[cervantes-powdery-mildew-prevention-treatment]] and botrytis in high-humidity environments.
 
 Chemdawg 91 responds well to low-stress training (LST) and scrog methods to manage its indica-leaning growth structure.
 
@@ -112,7 +112,7 @@ The strain is available as clones from the original cut, which is tightly held b
 
 ## Notable Progeny
 
-Chemdawg 91 is one of the most influential parent lines in modern cannabis genetics.
+Chemdawg 91 is one of the most influential parent lines in modern [[vic-high-cannabis-genetics-mendelian-inheritance]].
 
 Sour Diesel (Chemdawg 91 × unknown) became one of the best-selling strains of the 2000s.
 
@@ -126,6 +126,6 @@ Numerous Chemdawg 91 crosses exist, including Stardawg,Underdawg, and various Ch
 
 - [[og-kush]]
 - [[northern-lights]]
-- [[wedding-cake-cannabis]]
+- [[wedding-cake]]
 - [[girl-scout-cookies]]
 - [[myrcene]]

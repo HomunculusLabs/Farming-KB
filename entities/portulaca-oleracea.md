@@ -93,7 +93,7 @@ sources:
 ### Growth Characteristics
 - **Photosynthesis:** C4/CAM intermediate — rare metabolic flexibility
   - C4 pathway in full sun; shifts toward CAM at night; exceptional water-use efficiency
-- **Drought tolerance:** Survives prolonged dry periods; revives rapidly after rain
+- **[[dighton-fungal-drought-tolerance-plant-water-relations]]:** Survives prolonged dry periods; revives rapidly after rain
 - **Growth rate:** Seed to harvest in 6–8 weeks
 - **Reproduction:** Self-pollinating; 50,000–200,000 seeds/plant; viable 5–40+ years
 - **Soil:** Extremely adaptable; thrives in poor, compacted soils (pH 5.5–8.0)
@@ -104,19 +104,19 @@ sources:
 - **Harvest:** Cut above ground; regrows; best before flowering
 - **Pests:** Generally pest-free
 ### Ecological Role
-- Pioneer species colonizing disturbed ground; living mulch prevents erosion
+- Pioneer species colonizing disturbed ground; [[comparison-living-mulch-vs-cover-crops]] prevents erosion
 - Flowers attract small pollinators; seeds feed birds
 
 ## Permaculture Relevance
 ### Functions
-- **Ground cover / living mulch:** Suppresses weeds, retains moisture, moderates temperature
-- **Dynamic accumulator:** Deep taproot mines potassium, magnesium, iron, calcium, phosphorus
+- **[[fukuoka-citrus-orchard-ground-cover-cultivation]] / living mulch:** Suppresses weeds, retains moisture, moderates temperature
+- **[[nutrient-dynamic-accumulator-reference]]:** Deep taproot mines potassium, magnesium, iron, calcium, phosphorus
 - **Edible biomass:** Dual-purpose ground cover + nutritious harvestable crop
 - **Drought resilience:** Functional in water-scarce designs and xeriscaping
 - **Self-seeding volunteer:** Minimal management once established
 ### Design Applications
 - Guild component under fruit trees and in polyculture beds
-- Spontaneous accumulator in food forest ground layers
+- Spontaneous accumulator in food [[permaculture-plants-food-forest-ground-covers-bamboos]] layers
 - Emergency food source — ubiquitous, nutritious, easily identified
 - Phytoremediation potential for lightly contaminated soils
 
@@ -126,7 +126,7 @@ sources:
 - **Weed-food dichotomy:** Illustrates cultural bias in food plant classification
 - **Phytochemical richness:** Melatonin, dopamine, glutathione relevant to herbalism
 - **Permaculture index:** Dual function as dynamic accumulator + edible crop
-- **C4/CAM photosynthesis:** Rare metabolic pathway of botanical interest
+- **C4/[[comparison-c3-c4-and-cam-photosynthesis-pathways]]:** Rare metabolic pathway of botanical interest
 
 ## See Also
 - [[glutathione-conjugation]] — Tripeptide antioxidant found at high levels in purslane

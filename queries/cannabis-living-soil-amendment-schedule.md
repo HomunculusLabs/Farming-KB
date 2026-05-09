@@ -1,6 +1,6 @@
 ---
 
-title: Cannabis Living Soil Amendment Schedule
+title: Cannabis cannabis living soil amendment schedule Schedule
 created: 2026-04-11
 updated: 2026-04-12
 type: query
@@ -75,11 +75,11 @@ A synthesized week-by-week schedule combining [[knf-preparations]], [[nutritive-
 
 ## Flower Weeks 1-2 (Stretch + Changeover)
 
-- **KNF \u2014 Changeover inputs**: WS-CaPo 1:500-1000 (calcium phosphate). WS-PA 1:30. Sour FFJ 1:1000 (unripe fruit). BRV 1:200-500. WS-Ca 1:1000
+- **KNF \u2014 Changeover inputs**: WS-CaPo 1:500-1000 ([[bionutrients-lab-calcium-phosphate-calamansi]]). WS-PA 1:30. Sour FFJ 1:1000 (unripe fruit). BRV 1:200-500. WS-Ca 1:1000
 - **STOP**: FAA (nitrogen). Reduce FPJ. Reduce LAB
 - **Compost tea**: Continue, but no nitrogen-rich additives
 - **Environment**: Begin lowering humidity to 50-55%. PPFD 800-1000 \u00b5mol
-- **Observe**: Stretch rate, early pistil formation, leaf yellowing (normal \u2014 "morning sickness")
+- **Observe**: Stretch rate, early pistil formation, leaf yellowing (normal \u2014 "[[cho-morning-sickness-and-plant-cross-over-period]]")
 
 ## Flower Weeks 3-4 (Early Bud, P/K Top-Dress)
 
@@ -97,7 +97,7 @@ A synthesized week-by-week schedule combining [[knf-preparations]], [[nutritive-
 - **Top-dress**: Langbeinite + oyster shell flour if needed
 - **Stop**: All nitrogen inputs, LAB (promotes leaf growth over flowers)
 - **Environment**: VPD 1.0-1.5 kPa. Cooler nights (60-65\u00b0F) boost terpenes
-- **Observe**: Bud density, trichome development, aroma intensity
+- **Observe**: Bud density, [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]], aroma intensity
 
 ## Flower Weeks 7-8+ (Late Flower)
 
@@ -135,8 +135,8 @@ A synthesized week-by-week schedule combining [[knf-preparations]], [[nutritive-
 - [[knf-preparations]] \u2014 complete input guide with dilution rates
 - [[nutritive-cycle-theory]] \u2014 Cho's growth stage framework explained
 - [[cannabis-living-soil-guide]] \u2014 soil mix recipe and no-till cycle
-- [[cannabis-vegetative-stage]] \u2014 training techniques and environment
+- [[cannabis-vegetative-stage]] \u2014 [[cannabis-training-techniques-comparison]] and environment
 - [[cannabis-flowering-stage]] \u2014 bud development and harvest timing
 - [[cannabis-plant-nutrition]] \u2014 deficiency diagnosis and organic sources
-- [[compost-tea-aact]] \u2014 aerated compost tea method
+- [[compost-tea-aact]] \u2014 [[actively-aerated-compost-tea]] tea method
 - [[soil-food-web-nutrient-cycling]] \u2014 why biological inputs work

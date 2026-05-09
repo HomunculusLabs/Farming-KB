@@ -20,7 +20,7 @@ A quality living soil starts with a well-considered base recipe:
 
 **Core components (roughly equal parts by volume):**
 - High-quality topsoil or loam as the mineral foundation
-- Finished composting for microbial diversity and organic matter
+- Finished composting for microbial diversity and [[hamilton-composting-and-organic-matter-management]]
 - Worm castings ([[soil-food-web-nutrient-cycling]] process converts locked minerals into plant-available forms as microbes process the organic components.
 
 ## Adding Mineral Amendments
@@ -29,12 +29,12 @@ Living soil needs a broad spectrum of minerals to support plant nutrition and mi
 
 - **Rock phosphate** for slow-release phosphorus
 - **Greensand or langbeinite** for potassium
-- **Azomite or glacial rock dust** for trace minerals
+- **Azomite or glacial [[basalt-rock-dust-agriculture]]** for trace minerals
 - **Gypsum** for calcium and sulfur
-- **Kelp meal** for micronutrients and plant growth hormones
+- **[[comparison-kelp-meal-vs-rock-dust]]** for micronutrients and plant growth hormones
 - **Crab or insect frass** for chitin and additional nitrogen
 
-These minerals break down slowly through microbial and fungal activity, providing a steady nutrient supply over months. The [[arbuscular-mycorrhizal-fungi]] form symbiotic relationships with plant roots, extending the root network and improving nutrient and water uptake
+These minerals [[query-can-fungi-break-down-plastic-pollution]] slowly through microbial and fungal activity, providing a steady nutrient supply over months. The [[arbuscular-mycorrhizal-fungi]] form symbiotic relationships with plant roots, extending the root network and improving nutrient and water uptake
 - Beneficial bacteria like Bacillus species decompose organic matter and suppress pathogens
 - [[compost-tea-aact]] can be brewed and applied as a liquid inoculant to boost microbial populations
 
@@ -57,11 +57,11 @@ Proper curing is essential before planting:
 - The temperature should be similar to growing conditions (65-80F) during curing
 - Once planted, living soil beds can be reused for multiple grows with minimal amendment
 
-Many living soil growers report that their soil actually improves with each growing cycle as microbial diversity increases. This is because each plant added to the cycle contributes unique root exudates that support different microbial communities, progressively enriching the soil ecosystem.
+Many living soil growers report that their soil actually improves with each growing cycle as microbial diversity increases. This is because each plant added to the cycle contributes unique [[mycorrhizal-root-exudates-pathogen-interactions]] that support different microbial communities, progressively enriching the soil ecosystem.
 
 ## Key Points
 
-- Living soil relies on the [[arbuscular-mycorrhizal-fungi]] and beneficial bacteria are essential inoculants for nutrient cycling
+- Living soil relies on the [[arbuscular-mycorrhizal-fungi]] and beneficial bacteria are essential inoculants for [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 - Rock dusts, phosphate, and potassium minerals provide slow-release nutrition as microbes break them down
 - Properly maintained living soil improves with each growing cycle and can be reused indefinitely
 
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

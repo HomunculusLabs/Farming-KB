@@ -1,5 +1,5 @@
 ---
-title: Cannabis Sativa vs. Indica Guide
+title: comparison-cannabis-sativa-vs-cannabis-indica vs. Indica Guide
 created: 2026-04-12
 updated: 2026-05-02
 type: concept
@@ -11,9 +11,9 @@ sources:
 Cannabis sativa and Cannabis indica are the two primary species used in medicinal and recreational cannabis. While both contain the cannabinoids necessary to engage the human endocannabinoid system, they differ significantly in their morphology, growth patterns, cannabinoid ratios, and therapeutic effects. Understanding these differences helps cultivators choose appropriate genetics and patients select strains for specific conditions. Modern taxonomy, as discussed by [[cannabis-sativa-morphology-and-plant-architecture]] and [[cannabis-terpene-entourage-effect]] research suggests that terpenes play an equally important role in determining subjective effects, potentially more so than cannabinoid ratios alone.
 
 ## Terpene Profiles and Effects
-Sativa-dominant strains typically contain higher levels of terpinolene, ocimene, and limonene, which are associated with energetic, creative, and focus-enhancing effects. Indica-dominant strains tend to be richer in myrcene, linalool, and beta-caryophyllene, which contribute to relaxation, sedation, and anti-inflammatory properties. The [[cannabis-scrog-and-sog-methods|SCROG]] can manage sativa height indoors. Indica plants are better suited to confined indoor spaces due to their compact structure and faster flowering. They typically produce higher yields per square foot than sativas of the same age. Ruderalis genetics, discussed in [[cannabis-for-chronic-pain-comprehensive|comprehensive pain research]] and [[green-cannabis-grow-bible-species-indica-sativa-ruderalis|grow bible]] notes that hybrid vigor (heterosis) in F1 crosses often
+Sativa-dominant strains typically contain higher levels of terpinolene, ocimene, and limonene, which are associated with energetic, creative, and focus-enhancing effects. Indica-dominant strains tend to be richer in myrcene, linalool, and beta-caryophyllene, which contribute to relaxation, sedation, and anti-inflammatory properties. The [[cannabis-scrog-and-sog-methods|SCROG]] can manage sativa height indoors. Indica plants are better suited to confined indoor spaces due to their compact structure and faster flowering. They typically produce higher yields per [[comparison-biointensive-vs-square-foot-gardening]] than sativas of the same age. Ruderalis genetics, discussed in [[cannabis-for-chronic-pain-comprehensive|comprehensive pain research]] and [[green-cannabis-grow-bible-species-indica-sativa-ruderalis|grow bible]] notes that [[cannabis-hybrid-vigor-and-phenotypes-clarke]] (heterosis) in F1 crosses often
 produces higher yields and greater disease resistance than either parent,
-which is one reason pure landrace strains have become rare in commercial
+which is one reason pure [[sativa-landrace-strains-and-geographic-origins]] have become rare in commercial
 cultivation.
 
 ## Endocannabinoid System Interaction

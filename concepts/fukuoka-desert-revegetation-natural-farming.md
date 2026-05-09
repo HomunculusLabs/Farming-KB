@@ -5,7 +5,8 @@ updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Desert Revegetation by Natural Farming
@@ -94,6 +95,8 @@ His greatest fear was that nature would be made the plaything of the human intel
 Source: Fukuoka, Sowing Seeds in the Desert (2012), and Natural Way of Farming
 
 ## See Also
+
+- [[fukuoka-stopping-desert-advance-natural-revegetation]]
 
 - [[fukuoka-green-belt-projects]]
 - [[fukuoka-european-travels-natural-farming]]

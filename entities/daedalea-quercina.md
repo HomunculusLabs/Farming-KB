@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Ryvarden, L. & Gilb, G. (2004). "Mycena Species of the Northern Hemisphere." Fungiflora.
-  - Gilbertson, R.L. & Ryvarden, L. (1987). "North American Polypores." Fungiflora.
+  - Gilbertson, R.L. & Ryvarden, L. (1987). "[[growing-gourmet-north-american-reishi-species]] Polypores." Fungiflora.
   - Dai, Y.C. (2012). "Climatic constraints on the distribution of polypores in China." Mycosystema.
   - Krief, A. et al. (2008). "Antimalarial compounds of the mushrooms Daedalea quercina." Journal of Ethnopharmacology 118(3): 331-335.
   - Hernández, J.C. et al. (2003). "Antimicrobial activity of extracts from the white-rot fungus Daedalea quercina." Revista Iberoamericana de Micología 20(4): 153-156.
@@ -63,7 +63,7 @@ It shows moderate substrate specificity, preferring heartwood of large-diameter 
 Research has identified several bioactive constituents in *D. quercina* fruiting bodies:
 
 - **Daedaleol A and B**: Triterpenoid compounds with demonstrated anti-inflammatory activity in vitro, isolated from methanolic extracts of the basidiocarp.
-- **Quercinic acid**: A fatty acid derivative exhibiting mild antimicrobial properties against Gram-positive bacteria including *Staphylococcus aureus* and *Bacillus subtilis*.
+- **Quercinic acid**: A fatty acid derivative exhibiting mild [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] against Gram-positive bacteria including *Staphylococcus aureus* and *Bacillus subtilis*.
 - **Polysaccharides**: β-glucan fractions have shown immunomodulatory activity, stimulating macrophage activation and cytokine production in murine models.
 - **Antimalarial compounds**: Krief et al. (2008) isolated sesquiterpenes from *D. quercina* that showed in vitro activity against *Plasmodium falciparum*, though potency was moderate compared to standard antimalarials.
 - **Phenolic compounds**: Various phenolic acids contribute to the brown-rot mechanism and show free-radical scavenging activity.
@@ -77,14 +77,14 @@ Cultivation of *D. quercina* is rarely practiced commercially but is feasible on
 - **Substrate**: Oak or mixed hardwood sawdust supplemented with 10–20% wheat bran or rice bran. Moisture content at 60–65%. pH range 5.0–6.5.
 - **Spawn**: Grain spawn (rye or millet) inoculated from agar culture. Colonization at 22–25°C takes 3–4 weeks.
 - **Fruiting**: Initiation requires a cold shock (drop to 12–15°C for 48–72 hours) followed by elevated humidity (85–95%) and ambient light. Fruiting temperature 16–22°C.
-- **Yield**: Biological efficiency is low (10–25%) compared to cultivated gourmet polypores. The primary value is in research and bioactive compound extraction rather than food production.
-- **Cycle time**: Spawn run 3–4 weeks, primordia formation 1–2 weeks, maturation 2–3 weeks.
+- **Yield**: [[stamets-biological-efficiency-yield]] is low (10–25%) compared to cultivated gourmet polypores. The primary value is in research and bioactive compound extraction rather than food production.
+- **Cycle time**: Spawn run 3–4 weeks, [[growing-gourmet-primordia-formation-pinning]] 1–2 weeks, maturation 2–3 weeks.
 
 ## Ecological Role
 
 As a brown-rot fungus, *D. quercina* plays a critical role in forest carbon cycling by selectively degrading cellulose and hemicellulose while leaving lignin largely intact. This produces a characteristic brown, cubical-rot pattern in infected wood.
 
-The brown-rot mechanism involves Fenton chemistry — the fungus generates hydroxyl radicals via extracellular hydrogen peroxide and ferrous iron, which depolymerize cellulose chains. This non-enzymatic system is more efficient at degrading crystalline cellulose than white-rot enzymatic pathways.
+The brown-rot mechanism involves [[bioremediation-fenton-chemistry-brown-rot-fungi]] — the fungus generates hydroxyl radicals via extracellular [[cervantes-hydrogen-peroxide-sterilization]] and ferrous iron, which depolymerize cellulose chains. This non-enzymatic system is more efficient at degrading crystalline cellulose than white-rot enzymatic pathways.
 
 In forest ecosystems, *D. quercina* contributes to snag decomposition, cavity creation for wildlife habitat, and nutrient release. Its preference for oak heartwood makes it a late-stage successional decomposer, often following initial colonization by white-rot species.
 

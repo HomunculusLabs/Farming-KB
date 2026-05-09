@@ -18,7 +18,7 @@ tags:
 - species
 
 sources:
-- raw/papers/teaming-with-microbes-lowenfels.md
+sources: []
 - raw/papers/teaming-with-fungi-lowenfels.md
 - raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 - raw/jeff-lowenfels-teaming-with-fungi.md
@@ -31,13 +31,13 @@ American garden writer, columnist, and attorney based in Anchorage, Alaska. Best
 
 ## Overview
 
-Jeff Lowenfels writes a weekly garden column for the Anchorage Daily News that has run for over 40 years — one of the longest-running garden columns in America. His "Teaming With" trilogy covers the complete picture of how soil biology, plant nutrition, and mycorrhizal fungi work together to support plant health. He is the longest-running garden columnist in North America.
+Jeff Lowenfels writes a weekly garden column for the Anchorage Daily News that has run for over 40 years — one of the longest-running garden columns in America. His "Teaming With" trilogy covers the complete picture of how soil biology, plant nutrition, and [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] work together to support plant health. He is the longest-running garden columnist in [[psilocybin-north-america-pacific-northwest]].
 
 ## Key Contributions
 
 - **"Teaming With Microbes" (2006, with Wayne Lewis):** The landmark book that introduced millions of gardeners to the [[soil-food-web-nutrient-cycling]]. Explains soil bacteria, fungi, protozoa, nematodes, and how they cycle nutrients to plants. Includes practical "Soil Food Web Gardening Rules" for managing bacterial vs. fungal dominance in different garden contexts. Covers composting, mulching, and [[compost-tea-aact]] brewing in detail. Reframed gardening from a chemical-input mindset to a biological-input mindset.
 
-- **"Teaming With Nutrients" (2013):** Deep dive into plant nutrition — how plants absorb NPK and micronutrients at the molecular level, the role of soil biology in making nutrients available, and how to feed the soil rather than the plant. Covers the nitrogen cycle, phosphorus chemistry, and photosynthesis in accessible detail.
+- **"Teaming With Nutrients" (2013):** Deep dive into plant nutrition — how plants absorb NPK and micronutrients at the molecular level, the role of soil biology in making nutrients available, and how to feed the soil rather than the plant. Covers the [[query-how-does-the-nitrogen-cycle-work-in-a-garden]], phosphorus chemistry, and photosynthesis in accessible detail.
 
 - **"Teaming With Fungi" (2017):** The most comprehensive book for growers on [[mycorrhizal-fungi]]. Covers all mycorrhizal types (arbuscular, ectomycorrhizal, ericoid, orchid, arbutoid, monotropoid, ectendomycorrhizal, sebacinoid). Details how mycorrhizae form, their benefits in agriculture, horticulture, silviculture, hydroponics, and lawns. Dispels mycorrhizal myths and provides rules for establishing and maintaining mycorrhizal populations.
 
@@ -71,12 +71,11 @@ The "Teaming With" trilogy has become essential reading for organic and regenera
 
 - [[wayne-lewis]] — Co-author of Teaming With Microbes
 - [[soil-food-web-nutrient-cycling]] — The soil food web in detail
-- [[soil-food-web-nutrient-cycling]] — Advanced soil biology topics
 - [[mycorrhizal-fungi]] — Mycorrhizal relationships
-- [[compost-tea-aact]] — Compost tea brewing
+- [[compost-tea-aact]] — Compost [[compost-tea-brewing-equipment-ingham]]
 - [[composting-systems]] — Compost methods
 - [[mulching-guide]] — Mulch for soil biology
-- [[glomalin]] — Mycorrhizal soil carbon compound
-- [[soil-fertility-management]] — Nutrient management
-- [[vermicomposting]] — Worm composting
+- [[glomalin-and-soil-carbon]] — Mycorrhizal soil carbon compound
+- [[soil-fertility-management]] — [[green-cannabis-grow-bible-nutrient-management-ppm]]
+- [[vermicomposting]] — [[hamilton-worm-composting-manure]]
 - [[no-till-gardening-method]] — Protecting fungal networks

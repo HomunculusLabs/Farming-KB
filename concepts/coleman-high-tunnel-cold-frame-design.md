@@ -1,5 +1,5 @@
 ---
-title: "High Tunnel and Cold Frame Design"
+title: "High Tunnel and comparison-cold-frame-gardening-vs-container-gardening-guide Design"
 created: 2026-04-28
 tags: [greenhouse, season-extension, construction, winter-harvest, structures]
 date: 2026-04-25
@@ -12,7 +12,7 @@ type: concept
 affordable structures that maximize [[coleman-moveable-greenhouse-system]] for how Coleman integrates
 multiple structure types into a cohesive production plan.
 
-The design principles extend to [[coleman-soil-preparation-for-winter]] ensures that the protected
+The [[holmgren-permaculture-twelve-design-principles-framework]] extend to [[coleman-soil-preparation-for-winter]] ensures that the protected
 environment translates directly into productive winter growing.
 
 ## Cost and Accessibility
@@ -21,7 +21,7 @@ A key philosophy in Coleman's work is that protected cultivation
 should not require massive capital investment. His high tunnel designs
 can be built for a fraction of the cost of commercial glasshouses,
 using readily available materials and basic construction skills. This
-democratization of season extension technology has enabled countless
+democratization of [[cervantes-season-extension-cloches-row-covers]] technology has enabled countless
 small farms to extend their growing seasons profitably.
 
 ## See Also
@@ -104,4 +104,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

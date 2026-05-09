@@ -1,8 +1,8 @@
 ---
-title: LSD Therapy and Psychiatric Research in the 1950s-60s
+title: [[mckenna-suppression-psychedelic-research-lsd-therapy]] and Psychiatric Research in the 1950s-60s
 created: 2026-04-26
 updated: 2026-04-24
-sources: "Albert Hofmann, LSD - My Problem Child"
+sources: "albert-hofmann, LSD - My Problem Child"
 wikilinks: "hofmann-lsd-discovery-bicycle-day hofmann-lsd-pharmacology-and-effects hofmann-lsd-sandoz-research-program hofmann-lsd-mazatec-and-psilocybin hofmann-lsd-consciousness-and-philosophy"
 type: concept
 tags: [lsd]
@@ -59,7 +59,7 @@ integration.
 
 ## Psychedelic Therapy
 
-Psychedelic therapy, the favored treatment approach in the United States,
+Psychedelic therapy, the favored treatment approach in the [[dmt-containing-plants-united-states-halpern]],
 involved administering a single very high LSD dose (0.3 to 0.6 mg) after
 correspondingly intensive psychological preparation of the patient. This method
 attempted to induce a mystical-religious experience through the shock effects of
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

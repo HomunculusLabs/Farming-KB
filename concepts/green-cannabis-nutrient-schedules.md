@@ -1,5 +1,5 @@
 ---
-title: Cannabis Nutrient Schedules - Greg Green's Cannabis Grow Bible
+title: green [[cannabis-nutrient-burn-and-toxicity]] schedules Schedules - [[greg-green]]'s green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible
 created: 2026-04-26
 updated: 2026-04-25
 sources:
@@ -10,11 +10,11 @@ tags: [cannabis, nutrients]
 
 # Cannabis Nutrient Schedules
 
-From [[nutrient-lockout]]
+From 
 
 Lockout occurs when a large amount of one single nutrient is added,
 preventing the plant from using other nutrients. This chemical reaction
-in the soil blocks nutrient uptake.
+in the soil blocks [[plant-nutrient-uptake-mechanisms]].
 
 Causes of lockout:
 - pH problems
@@ -44,7 +44,7 @@ The part may wither and die but should NOT look burnt.
    Nitrogen (N).
 3. **Flowering plant looks red or dark green/yellow (not dying):** Need
    more Phosphorus (P).
-4. **Leaves curling up, twisting, yellow:** Check for light burn or air
+4. **Leaves curling up, twisting, yellow:** Check for [[query-how-to-prevent-and-treat-cannabis-light-burn-and-heat-stress]] or air
    circulation issues first. If fine, add Magnesium (Mg) -- 1/4 to 1/3
    tablespoon Epsom salts per 3 gallons water.
 5. **Leaf tips brown and curling slightly:** Potassium (K) problem.
@@ -78,7 +78,7 @@ when no real deficiency exists. Solution: get new genetics.
 - [[green-cannabis-soil-flushing-nutrient-leaching]]
 ## Practical Considerations
 
-Successful implementation of Cannabis Nutrient Schedules - Greg Green's Cannabis Grow Bible requires attention to
+Successful implementation of Cannabis Nutrient Schedules - Greg Green's [[cannabis-grow-harvesting-drying-curing]] Bible requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

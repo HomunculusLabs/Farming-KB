@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [query, composting, vermicomposting, soil-building]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -15,12 +16,12 @@ Starting a worm compost bin (vermicomposting) requires a container with drainage
 ventilation, bedding material like shredded newspaper or coconut coir, composting
 red wiggler worms (Eisenia fetida), and regular feeding with kitchen scraps. A properly
 managed bin processes food waste into nutrient-rich worm castings that are among the
-finest organic fertilizers available, and the system works indoors year-round with
+finest [[hamilton-organic-fertilizers-and-plant-nutrition]] available, and the system works indoors year-round with
 minimal space and no odor.
 
 ## Detailed Explanation
 
-Vermicomposting uses composting earthworms to break down organic matter into worm
+Vermicomposting uses composting earthworms to break down [[hamilton-composting-and-organic-matter-management]] into worm
 castings (vermicast), a dark, crumbly material that is extremely rich in plant-available
 nutrients, beneficial microorganisms, and plant growth hormones. Unlike traditional
 hot composting, vermicomposting is a mesophilic process that operates at moderate
@@ -34,7 +35,7 @@ how bedding interacts with the worm gut microbiome to produce the beneficial org
 found in finished vermicompost.
 
 Feeding your worms properly is the key to a healthy, odor-free bin. Worms can process
-most fruit and vegetable scraps, coffee grounds, tea bags, and crushed eggshells. They
+most fruit and vegetable scraps, [[oyster-mushroom-coffee-grounds-cultivation]], tea bags, and crushed eggshells. They
 should not be fed meat, dairy, oily foods, or excessive citrus, which can attract pests
 and create acidic conditions. Food should be buried under the bedding to prevent fruit
 flies. The [[natural-farm-composting-vermicomposting]] page offers practical
@@ -43,8 +44,8 @@ feeding schedules and portion guidelines.
 Worm castings are chemically different from conventional compost. They contain higher
 concentrations of plant-available nutrients, a diverse community of beneficial
 microorganisms, humic acids that improve soil structure, and plant growth hormones
-including cytokinins and auxins. The [[vermicompost-tea]] page explains how to brew aerated compost tea from worm castings
-for use as a liquid fertilizer and foliar spray.
+including cytokinins and auxins. The [[vermicompost-tea]] page explains how to brew [[actively-aerated-compost-tea-aact-brewing]] tea from worm castings
+for use as a [[jadam-liquid-fertilizer-nutritional-perspective]] and foliar spray.
 
 Harvesting castings is straightforward with the right technique. In a stackable tray
 system, worms naturally migrate upward toward fresh food in upper trays, leaving
@@ -55,7 +56,7 @@ castings as worms burrow downward to escape. The [[earthworm-ecology]]
   [[ozier-pdc-composting-and-soil-building]]
 - Feed fruit and vegetable scraps buried under bedding; avoid meat, dairy, and excess
   citrus [[ingham-vermicompost-worm-castings]]
-- Castings can be brewed into aerated compost tea for liquid fertilizer application
+- Castings can be brewed into aerated compost tea for liquid [[cervantes-fertilizer-application-strain-feeding]]
   [[worm-farming-for-profit]] page discusses commercial
 scaling considerations including market pricing for castings, worm sales, and
 vermicompost tea production as revenue streams.
@@ -82,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

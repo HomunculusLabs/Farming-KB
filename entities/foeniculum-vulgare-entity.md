@@ -56,7 +56,7 @@ The genus name *Foeniculum* derives from the Latin *faeniculum* ("little hay"), 
 
 ## Distribution and Origin
 
-*F. vulgare* is native to the Mediterranean Basin (southern Europe, North Africa, and western Asia). It has been spread worldwide through cultivation and naturalization and now grows wild across much of Europe, North America, South America, Australia, and Asia. In many regions (particularly California, Australia, and parts of South Africa), fennel has become an invasive species, forming dense monocultures that displace native vegetation.
+*F. vulgare* is native to the Mediterranean Basin (southern Europe, North Africa, and western Asia). It has been spread worldwide through cultivation and naturalization and now grows wild across much of Europe, [[psilocybin-north-america-pacific-northwest]], South America, Australia, and Asia. In many regions (particularly California, Australia, and parts of South Africa), fennel has become an invasive species, forming dense monocultures that displace native vegetation.
 
 ## History
 
@@ -85,7 +85,7 @@ The essential oil (0.5–6% in seeds) is the primary source of fennel's bioactiv
 ### Other Constituents
 
 - **Phenolic compounds:** Chlorogenic acid, rosmarinic acid, quercetin, apigenin, kaempferol (and their glycosides)
-- **Fatty acids:** Petroselinic acid, oleic acid, linoleic acid
+- **[[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]:** Petroselinic acid, oleic acid, linoleic acid
 - **Vitamins:** Vitamin C, vitamin A (as carotenoids), B vitamins (folate, niacin, riboflavin)
 - **Minerals:** Potassium, calcium, magnesium, iron, manganese, phosphorus
 - **Fiber:** High dietary fiber content, especially in the bulb
@@ -101,7 +101,7 @@ The essential oil (0.5–6% in seeds) is the primary source of fennel's bioactiv
 - **Expectorant:** Used for coughs and bronchitis; loosens respiratory mucus
 - **Diuretic:** Mild diuretic effect promotes kidney function
 - **Menstrual regulation:** Phytoestrogens help regulate menstrual cycles and reduce dysmenorrhea
-- **Antimicrobial:** Essential oil active against *Staphylococcus aureus*, *Escherichia coli*, *Candida albicans*, *Aspergillus niger*, and various oral pathogens
+- **Antimicrobial:** Essential oil active against *Staphylococcus aureus*, *Escherichia coli*, *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*, *Aspergillus niger*, and various oral pathogens
 - **Anti-inflammatory:** Inhibits COX-2 and iNOS expression; reduces TNF-α and IL-6 production
 - **Antioxidant:** High radical scavenging capacity from phenolic compounds
 - **Hepatoprotective:** Protects liver cells from toxin-induced damage in animal models
@@ -118,7 +118,7 @@ The essential oil (0.5–6% in seeds) is the primary source of fennel's bioactiv
 
 ### Florence Fennel (Finocchio)
 
-- The bulbous base is eaten raw in salads, shaved thinly and dressed with olive oil and lemon
+- The bulbous base is eaten raw in salads, shaved thinly and dressed with [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]] and lemon
 - Grilled, roasted, or braised as a vegetable side dish
 - Pairs well with fish, pork, chicken, and citrus
 - Classic Italian preparations: finocchio gratin, finocchio al forno

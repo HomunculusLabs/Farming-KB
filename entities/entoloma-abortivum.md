@@ -22,15 +22,15 @@ updated: 2026-04-28
 sources:
   - "Arora, D. (1986). Mushrooms Demystified. Ten Speed Press."
   - "Kuo, M. (2023). Entoloma abortivum. MushroomExpert.com."
-  - "Bessette, A.E. et al. (1997). Mushrooms of Northeastern North America. Syracuse University Press."
-  - "Lincoff, G.H. (1981). National Audubon Society Field Guide to North American Mushrooms. Knopf."
+  - "Bessette, A.E. et al. (1997). Mushrooms of Northeastern [[psilocybin-north-america-pacific-northwest]]. Syracuse University Press."
+  - "Lincoff, G.H. (1981). National Audubon Society [[ghouled-field-guide-historical-context]] to [[growing-gourmet-north-american-reishi-species]] Mushrooms. Knopf."
   - "Halling, R.E. (1993). \"Molecular systematics of the Entolomataceae.\" Mycologia 85(5): 735-745."
 ---
 
 ## Overview
 
 *Entoloma abortivum*, commonly known as the aborted entoloma or shrimp of
-the woods, is an edible mushroom in the family Entolomataceae. It is most
+the woods, is an [[bloomfield-boletus-satanus-edible-mushroom-hazards]] in the family Entolomataceae. It is most
 notable for its unusual parasitic relationship with *Armillaria mellea*
 (honey fungus), which causes some fruiting bodies to develop as deformed,
 irregular masses called "aborted" forms. These aborted specimens are
@@ -61,7 +61,7 @@ pale gray, and the interior is solid and marbled. These aborted forms are
 the result of *Armillaria mellea* hyphal invasion disrupting normal
 development.
 
-Spore print is pinkish. Spores are angular to ellipsoid, measuring
+[[comparison-spore-print-collection-vs-spore-syringe-production]] is pinkish. Spores are angular to ellipsoid, measuring
 7.5–10.5 × 6–8 µm, with 5–7 angles, which is characteristic of the
 genus *Entoloma*.
 
@@ -86,7 +86,7 @@ location.
 The aborted entoloma's most distinctive ecological feature is its
 parasitic interaction with honey fungus (*Armillaria mellea*). Research
 has established that *E. abortivum* actively parasitizes *A. mellea*
-rhizomorphs and fruiting body primordia. When *Entoloma* hyphae invade
+rhizomorphs and [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] primordia. When *Entoloma* hyphae invade
 developing *Armillaria* mushrooms, they disrupt cellular organization,
 causing the arrested, malformed growth recognized as the aborted form.
 

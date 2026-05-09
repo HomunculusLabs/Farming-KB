@@ -1,11 +1,11 @@
 ---
-title: Africa's Underexplored Neurotropic Fungi Diversity
+title: Africa's guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi freshwater-fungi-diversity-and-sampling
 source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 authors: Gastón Guzmán, John W. Allen, Jochen Gartz
 year: 1998
 topics: neurotropic fungi, Africa, psilocybe, mycology, biodiversity, biogeography, distribution
 ---
-# Africa's Underexplored [[southern-hemisphere-origin-of-neurotropic-fungi]]. Guzmán, Allen, and
+# Africa's Underexplored southern-hemisphere-origin-of-neurotropic-fungi. Guzmán, Allen, and
 Gartz's landmark 1998/2000 survey, *"A Worldwide Geographical Distribution of
 the Neurotropic Fungi,"* documents only **6–8 known neurotropic species** of
 *Psilocybe* across the entire continent — a strikingly low figure given Africa's
@@ -17,7 +17,7 @@ nations where no records exist whatsoever.
 
 ### East Africa: Kenya
 
-*[[gartz-magic-mushrooms-species-central-america]], and South America, where it grows abundantly on cow dung. Yet
+*gartz-magic-mushrooms-species-central-america, and South America, where it grows abundantly on cow dung. Yet
 cattle were only introduced to the Americas by the Spanish in the 16th–17th
 centuries, and *P. cubensis* does not grow in Europe. Guzmán proposes a
 fascinating hypothesis: the species may have been **introduced to the Americas
@@ -31,7 +31,7 @@ one of the world's most widely known [[ceremonial-shamanic-use-psychoactive-mush
 Beyond the formal taxonomic record, cultural evidence suggests neurotropic fungi
 may have a deeper history in Africa than science has documented:
 
-- **Chlorophyllum molybdites** is considered neurotropic in parts of West
+- **[[guzman-chlorophyllum-molybdites-toxic-edible-paradox-yoruba-divinatory-use]]** is considered neurotropic in parts of West
   Africa based on its Yoruba common name, *"a jegba ariwo-orun"* — literally
   "eat and hear voices from heaven." However, other reports classify this
   species as poisonous rather than psychoactive, leaving its true status
@@ -54,7 +54,7 @@ at every level:
 - **Geographic bias:** Mycological research has concentrated in Europe, North
   America, and a few tropical research stations. Africa's vast interior — the
   Congo Basin, the Sahel, the Horn of Africa, Madagascar — has seen
-  comparatively little systematic fungal survey work.
+  comparatively little systematic [[am-fungal-survey-methods]] work.
 
 - **Taxonomic bias:** Even where general mycological surveys have occurred,
   specialist blind spots persist. Mueller and Halling (1995), in their major
@@ -71,7 +71,7 @@ at every level:
 ## Global Context
 
 To appreciate how anomalous Africa's underrepresentation is, consider the
-global distribution documented by Guzmán et al.:
+[[guzman-global-distribution-patterns-neurotropic-fungi]] documented by Guzmán et al.:
 
 | Region           | Neurotropic *Psilocybe* species |
 |------------------|--------------------------------|
@@ -80,7 +80,7 @@ global distribution documented by Guzmán et al.:
 | Europe           | 14 species                     |
 | **Africa**       | **6–8 species**                |
 
-Mexico alone accounts for 76 total neurotropic fungal species. The disparity
+Mexico alone accounts for 76 total [[mexico-center-neurotropic-fungal-biodiversity]] species. The disparity
 between Mexico's intensely studied mycoflora and Africa's near-total absence of
 records does not reflect biological reality — it reflects the distribution of
 mycologists, research funding, and institutional infrastructure.
@@ -95,3 +95,9 @@ certainly constitute a small fraction of what actually exists. Systematic
 field surveys across Africa's diverse ecosystems, combined with ethnomycological
 research into indigenous fungal knowledge, would likely transform our
 understanding of the global distribution of psychoactive mushrooms.
+## See Also
+- [[neurotropic-fungi]]
+- [[guzman-allen-gartz-africa-underexplored-neurotropic-fungi]]
+- [[guzman-allen-gartz-neurotropic-fungi-africa]]
+- [[giorgio-samorini]]
+- [[guzman-allen-gartz-neurotropic-fungi-australasia]]

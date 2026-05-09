@@ -1,10 +1,11 @@
 ---
-title: "How to Fix Phosphorus Deficiency in Cannabis"
+title: "How to query how to fix phosphorus deficiency in cannabis Deficiency in Cannabis"
 created: 2026-04-28
 tags: [query, cannabis, nutrients, deficiency, troubleshooting]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -22,7 +23,7 @@ zone.
 
 Overwatering can also trigger phosphorus deficiency symptoms by reducing root 
 oxygen levels
-and impairing nutrient uptake. When roots are waterlogged, they cannot 
+and impairing [[plant-nutrient-uptake-mechanisms]]. When roots are waterlogged, they cannot 
 efficiently absorb
 phosphorus even when it is abundant in the medium. If you suspect overwatering, 
 allow the
@@ -55,7 +56,7 @@ grow.
 ## Key Points
 - Check root zone pH first; phosphorus lockout from improper pH is more common than actual deficiency
 - Cold root zone temperatures (below 60 degrees Fahrenheit) severely limit phosphorus uptake rates
-- Organic amendments like bone meal and bat guano provide slow-release phosphorus for soil grows
+- [[cervantes-organic-amendments-chart]] like bone meal and bat guano provide slow-release phosphorus for soil grows
 - Phosphorus demand peaks during mid-flowering when plants are actively building bud mass
 - Avoid over-correcting, as excess phosphorus causes [[query-what-are-the-most-common-cannabis-nutrient-deficiencies]]
 - [[query-what-is-cal-mag-and-when-do-cannabis-plants-need-it]]
@@ -78,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

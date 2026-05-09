@@ -1,5 +1,5 @@
 ---
-title: Potassium Yield Versus Nutrition Tradeoff in Vegetable Production
+title: solomon potassium yield versus nutrition tradeoff Versus Nutrition Tradeoff in dry-gardening-unirrigated-vegetable-production-solomon
 created: 2026-04-28
 tags:
   - soil-fertility
@@ -19,7 +19,7 @@ type: concept
 
 ## Overview
 
-Steve Solomon identifies a critical but widely ignored inverse relationship between [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]] along with nitrogen and phosphorus. It plays essential roles in plant physiology: regulating stomatal opening, activating enzymes, maintaining turgor pressure, and facilitating water transport through the plant. Adequate potassium is necessary for healthy plant growth and cannot be omitted from a fertility program.
+Steve Solomon identifies a critical but widely ignored inverse relationship between [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]] along with nitrogen and phosphorus. It plays essential roles in plant physiology: regulating stomatal opening, activating enzymes, maintaining [[bloomfield-turgor-pressure-and-hyphal-invasion]], and facilitating water transport through the plant. Adequate potassium is necessary for healthy plant growth and cannot be omitted from a fertility program.
 
 However, when potassium is supplied in excess, plants respond by accumulating it in their tissues. This drives cellular expansion and increases water uptake, resulting in larger cells and greater overall plant mass. The effect is most visible in root crops and leafy vegetables, where additional potassium produces noticeably larger roots and more voluminous leaves.
 
@@ -29,11 +29,11 @@ The mechanism is analogous to inflating a balloon: the volume increases, but the
 
 Solomon identifies why this tradeoff is systematically ignored in commercial agriculture. "Most commercial growers, be they chemical or organic growers, push soil potassium to high levels for the sake of profit." The economics are clear: produce is sold by weight, and larger vegetables command higher prices at market regardless of nutritional content.
 
-This creates a perverse incentive structure. The grower who produces nutritionally superior but smaller vegetables earns less money than the grower who produces nutritionally inferior but larger ones. The consumer cannot distinguish between them by appearance and has no practical way to assess nutritional quality at the point of purchase. The market rewards weight, not nutrition.
+This creates a perverse incentive structure. The grower who produces nutritionally superior but smaller vegetables earns less money than the grower who produces nutritionally inferior but larger ones. The consumer cannot distinguish between them by appearance and has no practical way to assess [[coleman-winter-greens-nutritional-quality-cold-sweetening]] at the point of purchase. The market rewards weight, not nutrition.
 
 Organic growers are not exempt from this dynamic. Solomon notes that "even organic growers" push potassium, often through heavy applications of compost or [[solomon-soil-mineral-depletion]], the selection of commercial varieties for yield and shipping qualities rather than nutritional content, and the harvesting of produce before full ripeness, the systematic over-application of potassium is a significant and often overlooked contributor. The decline has been most pronounced for vitamins and minerals, which are precisely the nutrients displaced by potassium-driven starch and fiber accumulation.
 
-This nutritional decline is not merely a matter of academic interest. Solomon frames it as a public health concern: vegetables that were once reliable sources of essential minerals and vitamins have become progressively less nourishing, contributing to widespread mineral deficiencies even among people who eat diets rich in fresh produce.
+This [[solomon-vegetable-nutritional-decline-trace-minerals]] is not merely a matter of academic interest. Solomon frames it as a public health concern: vegetables that were once reliable sources of essential minerals and vitamins have become progressively less nourishing, contributing to widespread mineral deficiencies even among people who eat diets rich in fresh produce.
 
 ## The COF Approach to Potassium Management
 
@@ -59,7 +59,7 @@ If the food "never tasted so good" with COF-grown vegetables, this may be becaus
 
 Solomon's analysis applies with particular force to certain vegetable categories. Root crops such as carrots, beets, and potatoes respond strongly to potassium by accumulating more starch and water, making them larger but less nutrient-dense per calorie. A potato grown in high-potassium soil may weigh twice as much as one grown in balanced soil, but the larger potato will contain proportionally less vitamin C, B vitamins, and minerals per gram.
 
-Leafy greens show a similar pattern. Lettuce and spinach pushed with excess potassium produce larger, more voluminous leaves with higher water content. The additional volume is primarily water and structural fiber, not nutritionally significant compounds. A head of lettuce that looks impressive at market may provide fewer vitamins and minerals per serving than a smaller, more slowly grown head from a garden with balanced potassium.
+[[solomon-leafy-greens-growing]] show a similar pattern. Lettuce and spinach pushed with excess potassium produce larger, more voluminous leaves with higher water content. The additional volume is primarily water and structural fiber, not nutritionally significant compounds. A head of lettuce that looks impressive at market may provide fewer vitamins and minerals per serving than a smaller, more slowly grown head from a garden with balanced potassium.
 
 Tomatoes present a more nuanced case. Excess potassium can increase tomato size and total yield but may reduce the concentration of lycopene and other antioxidants that make tomatoes nutritionally valuable. The fruit becomes more watery and less intensely flavored, a change that most gardeners have noticed but few connect to potassium management. The gardener seeking the most nutritious tomato may need to accept somewhat lower total yield.
 

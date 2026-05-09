@@ -18,8 +18,8 @@ type: concept
 
 Mycofiltration uses fungal mycelium as a biological filter medium to
 remove contaminants from water, including stormwater runoff, agricultural
-effluent, and industrial wastewater. Harnessing the adsorptive, absorptive,
-and degradative properties of mycelial mats, mycofiltration intercepts and
+effluent, and [[fungal-industrial-wastewater-treatment]]. Harnessing the adsorptive, absorptive,
+and degradative properties of [[singh-mycelial-mats-and-biological-soil-crusts]], mycofiltration intercepts and
 treats waterborne pollutants before they reach sensitive receiving waters.
 
 ## Principles of Mycofiltration
@@ -39,9 +39,9 @@ Fungal mycelium is an exceptionally effective filtration medium:
 
 ### Mycelial Mats and Barriers
 
-Dense mycelial mats grown on organic substrates (straw, wood chips) serve
+Dense mycelial mats grown on organic substrates (straw, [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]]) serve
 as permeable barriers: stream bank installations filtering agricultural
-runoff, swale liners treating stormwater, and check dam inserts filtering
+runoff, swale liners treating stormwater, and [[mollison-designers-check-dam-types-and-landscape-placement]] inserts filtering
 concentrated flows.
 
 ### Mycelial Sacks and Booms
@@ -60,7 +60,7 @@ integrates with [[singh-fungal-bioreactor-types-configurations]] treatment train
 
 ### Sediments and Biological Contaminants
 
-Mycelial networks physically trap particles while
+[[fungal-mycelial-networks-nutrient-translocation]] physically trap particles while
 [[singh-fungal-biosorption-heavy-metals]] removes dissolved metals through ion exchange,
 complexation with cell wall groups, and precipitation with fungal
 metabolites. Removal efficiencies exceed 80% for copper, lead, zinc,

@@ -1,5 +1,5 @@
 ---
-title: Descartes and the Western Philosophy of Nature
+title: Descartes and the fukuoka descartes western philosophy nature of Nature
 source: masanobu-fukuoka-the-road-back-to-nature.md
 author: Masanobu Fukuoka
 tags: [fukuoka, philosophy, descartes, western-philosophy, nature, anthropocentrism, eastern-philosophy]
@@ -111,10 +111,10 @@ Fukuoka believed the philosophical crisis could not be resolved through more phi
 
 Westerners who came to his farm did not find answers through intellectual understanding.
 
-They found them through practice — through eating brown rice, working in the fields, and
+They found them through practice — through eating [[cho-brown-rice-vinegar-preparation]], working in the fields, and
 living simply.
 
-When the body changed through natural diet and physical labor in nature, everything became
+When the body changed through [[fukuoka-natural-diet-as-foundation]] and physical labor in nature, everything became
 clear of itself.
 
 This was why Fukuoka emphasized that both body and mind must agree: intellectual commitment

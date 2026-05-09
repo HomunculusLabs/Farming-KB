@@ -9,7 +9,7 @@ sources:
 ---
 # MEM (2,5-Dimethoxy-4-ethoxyamphetamine)
 
-MEM is a substituted amphetamine compound and one of the ethoxy homologues of the TMA series. It played a watershed role in the development of psychedelic phenethylamine chemistry. The compound is listed as PIHKAL entry #122.
+MEM is a substituted amphetamine compound and one of the [[tweetio-series-ethoxy-homologues-pihkal]] of the TMA series. It played a watershed role in the development of psychedelic phenethylamine chemistry. The compound is listed as [[2c-b-pihkal-entry-20]] #122.
 
 ## Chemical Classification
 
@@ -17,13 +17,13 @@ MEM belongs to the amphetamine class of chemical compounds.
 
 It is formally named 2,5-dimethoxy-4-ethoxyamphetamine.
 
-MEM is one of three possible mono-ethoxy homologues of [[mdma]], the transition was very smooth with no loss of the MDMA experience.
+MEM is one of three possible mono-ethoxy homologues of mdma, the transition was very smooth with no loss of the MDMA experience.
 
 The intimate closeness with others was maintained and the experience continued to grow more profound and euphoric.
 
 At 25 mg taken 2 hours after 120 mg [[tma-entity]] (3,4,5-trimethoxyamphetamine) was the original trimethoxy compound.
 
-[[mdma]] had been taken shortly before.
+mdma had been taken shortly before.
 
 The combination of MDMA followed by MEM appeared to produce particularly profound and long-lasting experiences.
 
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

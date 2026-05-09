@@ -1,5 +1,5 @@
 ---
-title: "metzner Amplifier and Microscope Metaphors for Psychedelic Therapy"
+title: "metzner Amplifier and metzner amplifier microscope metaphors psychedelic therapy for metzner-psycholytic-psychedelic-therapy-models"
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 
 # Amplifier and Microscope Metaphors for Psychedelic Therapy
 
-In his 1998 review "Hallucinogenic Drugs and Plants in Psychotherapy and
+In his 1998 review "[[metzner-hallucinogenic-drugs-psychotherapy-shamanism]] and Plants in Psychotherapy and
 Shamanism," Ralph Metzner identified two persistent analogies that have
 been used across both the psycholytic and psychedelic therapy
 paradigms: the **amplifier** and the **microscope**. These metaphors
@@ -37,7 +37,7 @@ occur:
    acknowledges these are "not-yet-understood," the action of compounds
    like [[psilocybin]], and [[stanislav-grof]], Humphrey Osmond, and the Harvard
   team — were uniformly experienced with the substances themselves.
-- It suggests that the current wave of clinical psychedelic research,
+- It suggests that the current wave of clinical [[mckenna-suppression-psychedelic-research-lsd-therapy]],
   which often involves therapists without personal psychedelic
   experience, may be operating at a significant disadvantage.
 
@@ -61,7 +61,7 @@ methodology and its own instruments.
 ## See Also
 
 - [[metzner-psychedelic-psychotherapy-clinical-history]]
-- metzner psycholytic psychedelic therapy models comparison
+- metzner [[metzner-psycholytic-psychedelic-psychotherapy-models-comparison]] [[psychedelic-therapy-models-comparison]] comparison
 - [[lsd-set-and-setting-framework]]
 ## Practical Considerations
 
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

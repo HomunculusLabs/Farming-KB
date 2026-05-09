@@ -82,7 +82,7 @@ sources:
 - **Yunnan Baiyao**: Proprietary hemostatic powder; *P. notoginseng* is primary active ingredient
 - **Xuesaitong Injection**: Standardized extract for cardiovascular/cerebrovascular conditions (approved in China)
 - **Fufang Danshen Diwan**: Combination with *[[cylindrocarpon-destructans]]*
-- Wenshan Prefecture, Yunnan — primary production region (~90% of global supply)
+- Wenshan Prefecture, Yunnan — [[lichens-primary-production-soil-formation-dighton]] region (~90% of global supply)
 - Harvest in autumn (September–November); post-harvest: cleaning, drying, grading
 ### Ecological Status
 - Wild populations rare and declining due to overharvesting and habitat loss

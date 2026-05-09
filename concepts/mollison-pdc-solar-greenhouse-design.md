@@ -1,5 +1,5 @@
 ---
-title: Mollison Pdc Solar Greenhouse Design
+title: Mollison Pdc passive-solar-design Design
 created: 2026-04-28
 tags:
   - permaculture
@@ -18,12 +18,12 @@ type: concept
 
 ## House and Glasshouse Integration
 
-The [[mollison-greenhouse-design-solar-inventions]]
+The mollison-greenhouse-design-solar-inventions
 - [[mollison-pdc-low-island-design]]
 
 ## See Also
 
-- [[passive-solar-greenhouse-design-and-energy-systems]]
+- [[query-how-to-build-a-passive-solar-greenhouse]]
 ## Practical Applications
 
 Mollison Pdc Solar Greenhouse Design has a range of practical applications that make it relevant to
@@ -101,4 +101,6 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+- [[greenhouse-design]]
+- [[appropriate-technology]]
+- [[mollison-designers-passive-solar-heating-building-design]]

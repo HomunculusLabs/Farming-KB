@@ -37,12 +37,12 @@ oil rich in (-)-α-bisabolol, chamazulene, and [[luteolin]] and luteolin-7-gluco
    comparable to 0.25% hydrocortisone in atopic dermatitis models.
 2. **Spasmolytic:** Apigenin and herniarin relax intestinal
    smooth muscle via calcium channel antagonism and cAMP-mediated
-   mechanisms. Supported by clinical trials for dyspepsia and IBS.
+   mechanisms. Supported by [[mushroom-cancer-clinical-trials-overview]] for dyspepsia and IBS.
 3. **Anxiolytic:** Apigenin binds central benzodiazepine receptors
    without sedation or tolerance. Trials show significant anxiety
    reduction with standardized extract (500 mg TID).
 4. **Wound healing:** α-Bisabolol stimulates fibroblast
-   proliferation and collagen synthesis. Essential oil shows broad-
+   proliferation and collagen synthesis. [[permaculture-designers-manual-essential-oil-plants]] shows broad-
    spectrum activity against Gram-positive bacteria and Candida.
 5. **Antioxidant:** Apigenin and luteolin scavenge reactive oxygen
    species and inhibit lipid peroxidation. Chamomile tea increases
@@ -65,7 +65,7 @@ Thrives in full sun to partial shade in well-drained sandy or
 loamy soils (pH 6.0-7.5). Adaptable to poor soils; considered a
 pioneer species. Seeds are extremely small (~2,000 per gram) and
 require light for germination. Optimal germination at 15-21°C
-with emergence in 7-14 days. Direct sowing in early spring is
+with emergence in 7-14 days. Direct sowing in [[coleman-overwintered-onions-and-early-spring-crops]] is
 preferred. Flowering begins 60-70 days after sowing. Major
 producers: Egypt, Germany, Hungary, Argentina.
 
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

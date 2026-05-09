@@ -1,5 +1,5 @@
 ---
-title: "Biomass Fuels and Energy Yield Ratios"
+title: "holmgren biomass fuels and energy yield ratios and Energy Yield Ratios"
 created: 2026-04-26
 tags:
   - biomass
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "~/wiki/raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
+  sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: concept
 ---
 
@@ -24,7 +25,7 @@ intensively managed annual and short-rotation crops.
 
 ## EMERGY Yield Ratios of Biomass Fuels
 
-EMERGY analysis compares the embodied solar energy invested in producing a
+EMERGY analysis compares the embodied [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] invested in producing a
 fuel against the energy that fuel delivers. Holmgren presents Odum's data
 showing a clear relationship between replacement time and yield ratio:
 
@@ -39,7 +40,7 @@ showing a clear relationship between replacement time and yield ratio:
 - Palm oil (annual): 1.06
 
 Annual crops have yield ratios barely above 1, meaning they deliver almost
-no net energy after accounting for all inputs. Wood plantations yield 1.5
+no [[fukuoka-agricultural-production-net-energy-deduction]] after accounting for all inputs. Wood plantations yield 1.5
 to 4, while 300-year-old rainforest yields 12. The pattern is clear: the
 more work is left to nature, the greater the net yield, but the longer the
 time required.
@@ -53,7 +54,7 @@ its own tail" -- a failure to recognise the basic pattern that the most
 apparently productive and high-yielding sources of energy often involve
 substantial activity for very little return.
 
-This has direct implications for energy descent planning. Rather than
+This has direct implications for [[holmgren-energy-descent-permaculture-flower]] planning. Rather than
 allocating fertile farmland to intensively managed annual biomass fuels,
 it may be better to rely on modest use of fossil fuels while investing in
 long-term naturally grown forests.
@@ -64,9 +65,9 @@ Holmgren argues that trees are the ultimate biological capture and storage
 system for solar energy. Forest trees most efficiently convert dilute solar
 energy into wood that can substitute for many current uses of fossil fuel.
 Modern wood gasifier and micro-gas turbine technology appears to be a much
-more economical pathway for electricity production than [[holmgren-renewable-resources-detailed]],
-[[permaculture-emergy-accounting]],
-[[holmgren-forest-management-sustainable-yield]].
+more economical pathway for electricity production than holmgren-renewable-resources-detailed,
+permaculture-emergy-accounting,
+holmgren-forest-management-sustainable-yield.
 ## Practical Considerations
 
 Successful implementation of Biomass Fuels and Energy Yield Ratios requires attention to
@@ -85,4 +86,9 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[david-holmgren]]
+- [[holmgren-energy-descent-planning]]
+- [[holmgren-built-environment-household-energy-storage]]
+- [[holmgren-obtain-a-yield-detailed]]
+- [[holmgren-wind-power-and-renewable-energy-debate]]

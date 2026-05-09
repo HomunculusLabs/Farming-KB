@@ -14,7 +14,7 @@ in nature infects the pupae and larvae of Lepidoptera (butterflies and
 moths). Unlike the famous Ophiocordyceps sinensis, which remains 
 wild-harvested and extremely expensive, C. militaris can be reliably 
 cultivated on artificial substrates, making it accessible to both commercial 
-growers and home cultivators. It produces the same bioactive compounds as C. 
+growers and home cultivators. It produces the same [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] as C. 
 
 sinensis, including cordycepin and cordycepic acid, at comparable or even 
 higher concentrations.
@@ -23,7 +23,7 @@ higher concentrations.
 Cordyceps militaris is a bright orange to reddish-orange club-shaped fungus 
 that emerges from its host insect in the wild. The fruiting body is 2-6 cm 
 tall, cylindrical, and slightly widened at the top. It is one of the most 
-visually distinctive cultivated mushrooms, with a vivid color that makes it 
+visually distinctive [[fungi-cultivated-mushrooms-pathogens-competitors]], with a vivid color that makes it 
 popular for ornamental and culinary applications as well as medicinal use.
 
 The species has gained significant commercial interest because it can be 
@@ -36,7 +36,7 @@ extracts are all commercially produced for the dietary supplement market.
 Cordyceps militaris is unique among commonly cultivated mushrooms in that it 
 fruits directly on grain substrates without requiring a separate bulk 
 substrate. Brown rice, white rice, and various grains serve as both the spawn 
-medium and the fruiting substrate. The grain provides sufficient nutrition 
+medium and the [[pf-tek-maximum-fruiting-substrate-formula]]. The grain provides sufficient nutrition 
 for both mycelial colonization and fruiting body production.
 
 Standard substrate recipes use brown rice or a combination of rice and other 
@@ -51,7 +51,7 @@ C. militaris is typically inoculated with liquid culture rather than
 grain-to-grain transfer or agar wedge. Liquid culture provides faster and 
 more even colonization of the grain substrate. The liquid culture medium for 
 C. militaris often contains a small amount of specific nutrients that promote 
-robust mycelial growth and subsequent fruiting. A clean, vigorously growing 
+robust [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] and subsequent fruiting. A clean, vigorously growing 
 liquid culture is essential because C. militaris is particularly susceptible 
 to bacterial contamination during the early colonization phase.
 
@@ -71,7 +71,7 @@ Colonization typically takes 14-21 days. The mycelium of C. militaris is
 relatively slow-growing compared to species like Pleurotus or Psilocybe, and 
 patience during this phase is important. The fully colonized substrate 
 appears densely white with orange tints beginning to form at the surface, 
-indicating the onset of primordia formation.
+indicating the onset of [[growing-gourmet-primordia-formation-pinning]].
 
 ## Fruiting Conditions
 Fruiting of C. militaris is triggered by exposure to light, fresh air 
@@ -83,7 +83,7 @@ orientation, C. militaris requires light for proper fruiting body
 development, and specimens grown in darkness produce abnormal, elongated 
 fruiting bodies with poor color.
 Fresh air exchange should be provided through filtered openings in the jars 
-or by transferring the colonized substrate to a fruiting chamber. CO2 levels 
+or by transferring the colonized substrate to a [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]]. CO2 levels 
 should be maintained below 1000 ppm for optimal fruiting. Humidity during 
 fruiting should be maintained at 85-95% to prevent the fruiting bodies from 
 drying out before they mature.
@@ -131,4 +131,4 @@ many other cultivated species, and precise control of temperature, light, and
 air exchange is necessary for reliable results.
 
 See also: [[medicinal-mushroom-guide-cordyceps]], [[mushroom-liquid-culture]], [[medicinal-mushroom-compound-extraction]]
-- [[mushroom-lighting-and-environmental-requirements]]
+- mushroom-lighting-and-environmental-requirements

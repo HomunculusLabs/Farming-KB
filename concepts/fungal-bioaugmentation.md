@@ -1,5 +1,5 @@
 ---
-title: Fungal Bioaugmentation
+title: singh-fungal-bioaugmentation-contaminated-soils
 created: 2026-04-28
 tags:
   - bioremediation
@@ -22,8 +22,8 @@ persistent organic pollutants. Laboratory-based studies have shown that fungi
 are able to degrade a wide range of organic pollutants, and fungal bioaugmentation
 has great potential for use as an inoculant strategy. However, soil is a
 heterogeneous environment, and field applications using [[fungal-bioremediation-mechanisms]]
-- [[mycoremediation-species-selection-guide]]
-- [[fungal-ecology-mycoremediation]]
+- mycoremediation-species-selection-guide
+- fungal-ecology-mycoremediation
 ## Practical Applications
 
 Fungal Bioaugmentation has a range of practical applications that make it relevant to
@@ -101,4 +101,9 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[mycoremediation]]
+- [[singh-fungal-bioaugmentation-contaminated-soils]]
+- [[staycare-bioaugmentation-versus-biostimulation-fungal-bioremediation]]
+- [[fungal-bioaugmentation-inoculation]]
+- [[singh-bioaugmentation-vs-biostimulation-fungal-strategies]]

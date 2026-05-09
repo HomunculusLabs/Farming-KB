@@ -50,15 +50,15 @@ The most commercially significant finding was the advancement of the first fruit
 
 ### Increased Flush Size
 
-The first flush showed a remarkable increase in the number of fruit bodies produced. Control cultures produced **1 to 3 mushrooms** in the first flush, while brassinosteroid-treated cultures produced **4 to 7 mushrooms** — a two- to three-fold increase in first-flush yield. This larger initial flush suggests that the brassinosteroid promotes more uniform and extensive primordia formation across the substrate surface. In standard cultivation, primordia density is often limited by the availability of nutrients and moisture at the casing-substrate interface, and it is possible that the faster mycelial growth and improved metabolic activity under brassinosteroid treatment allows the mycelium to support a larger number of simultaneously developing fruit bodies.
+The first flush showed a remarkable increase in the number of fruit bodies produced. Control cultures produced **1 to 3 mushrooms** in the first flush, while brassinosteroid-treated cultures produced **4 to 7 mushrooms** — a two- to three-fold increase in first-flush yield. This larger initial flush suggests that the brassinosteroid promotes more uniform and extensive [[growing-gourmet-primordia-formation-pinning]] across the substrate surface. In standard cultivation, primordia density is often limited by the availability of nutrients and moisture at the casing-substrate interface, and it is possible that the faster mycelial growth and improved [[arbuscule-isolation-metabolic-activity-assays]] under brassinosteroid treatment allows the mycelium to support a larger number of simultaneously developing fruit bodies.
 
 ### Higher Total Dry Mass
 
-The steroid-treated cultures afforded a remarkably higher dry mass than the control cultivations: **3.4–3.9 g versus 2.3–2.9 g per 10 g of substrate**. This represents an approximately 30–50% increase in biological efficiency (dry mass of mushrooms relative to dry mass of substrate). The increase is consistent with both the larger flush size and the likelihood of more flushes within a given time frame. The authors report observing results across five flushes during the fruiting period, with the brassinosteroid-treated cultures producing more total fruit bodies across all flushes compared to the control. This cumulative effect means that the yield advantage compounds over the entire cropping cycle, not just in the first flush.
+The steroid-treated cultures afforded a remarkably higher dry mass than the control cultivations: **3.4–3.9 g versus 2.3–2.9 g per 10 g of substrate**. This represents an approximately 30–50% increase in [[stamets-biological-efficiency-yield]] (dry mass of mushrooms relative to dry mass of substrate). The increase is consistent with both the larger flush size and the likelihood of more flushes within a given time frame. The authors report observing results across five flushes during the fruiting period, with the brassinosteroid-treated cultures producing more total fruit bodies across all flushes compared to the control. This cumulative effect means that the yield advantage compounds over the entire cropping cycle, not just in the first flush.
 
 ### Suppression of Aborted Fruit Bodies
 
-Incomplete fruit bodies (aborts) are a common problem in mushroom cultivation, where primordia initiate but fail to develop into mature mushrooms. The formation of such incomplete fruit bodies was **almost completely suppressed** by the brassinosteroid treatment. This is a particularly valuable effect because aborts represent wasted metabolic resources that the mycelium invested in initiating primordia, and they can serve as entry points for contamination by moulds and bacteria. The near-elimination of aborts suggests that the brassinosteroid promotes more uniform and vigorous development of initiated primordia, possibly by improving nutrient transport to developing fruit bodies or by enhancing the coordination between the mycelial network and individual fruit body primordia.
+Incomplete fruit bodies (aborts) are a common problem in mushroom cultivation, where primordia initiate but fail to develop into mature mushrooms. The formation of such incomplete fruit bodies was **almost completely suppressed** by the brassinosteroid treatment. This is a particularly valuable effect because aborts represent wasted metabolic resources that the mycelium invested in initiating primordia, and they can serve as entry points for contamination by moulds and bacteria. The near-elimination of aborts suggests that the brassinosteroid promotes more uniform and vigorous development of initiated primordia, possibly by improving nutrient transport to developing fruit bodies or by enhancing the coordination between the [[gadd-mycelial-network-dynamics]] and individual fruit body primordia.
 
 ## Morphological Changes: Suppressed Annulus
 
@@ -83,7 +83,7 @@ However, the morphological changes (suppressed annulus) may be undesirable for c
 
 The study was a short communication in *Naturwissenschaften* and as such presents limited experimental detail. It was conducted with only one brassinosteroid (22S,23S-homobrassinolide) at one concentration (10⁻² ppm) on one fungal strain of one species. No statistical analysis (standard deviations, p-values) was reported for the quantitative data. Key unanswered questions include:
 
-- Whether the effect is generalisable to other *Psilocybe* species, to other psilocybin-containing fungi, or to commercially cultivated edible mushrooms (e.g., *Agaricus bisporus*, *Pleurotus ostreatus*).
+- Whether the effect is generalisable to other *Psilocybe* species, to other psilocybin-containing fungi, or to commercially cultivated edible mushrooms (e.g., *[[genetic-improvement-agaricus-bisporus-molecular-approaches]]*, *Pleurotus ostreatus*).
 - The optimal dose range and whether higher concentrations produce diminishing returns, toxicity, or more pronounced morphological changes.
 - Whether brassinosteroids are naturally produced by fungi as endogenous signalling molecules.
 - The molecular mechanism of action — whether brassinosteroid receptors exist in fungi (analogous to BRI1 in plants) or whether the effect is mediated through non-specific membrane effects.
@@ -104,10 +104,14 @@ This 1990 study was published during a period of active brassinosteroid research
 
 ## Related
 
+- [[brassinosteroid-experimental-methodology-gartz-1990]]
+
+- [[naturwissenschaften-1990-brassinosteroid-psilocybe-landmark-study]]
+
 - [[22s-23s-homobrassinolide-chemistry-and-synthesis]] — Chemistry and preparation of the brassinosteroid used
-- [[pinhead-initiation-fruiting-triggers]] — General fruiting initiation in mushrooms
+- [[stamets-pinning-initiation-stages-environmental-control]] — General fruiting initiation in mushrooms
 - [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]] — Other Gartz mycological studies
-- [[bulk-substrate-preparation]] — Substrate preparation for mushroom cultivation
+- [[bulk-substrate-preparation]] — [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] for mushroom cultivation
 
 ## References
 

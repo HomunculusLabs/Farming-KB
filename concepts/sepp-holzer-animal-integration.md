@@ -1,11 +1,12 @@
 ---
-title: Sepp Holzer Animal Integration
+title: Sepp Holzer mollison-animal-integration-permaculture-design
 created: 2026-04-15
 updated: 2026-04-18
 type: concept
 tags: [reference]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Sepp Holzer Animal Integration (Pigs, Cattle, Poultry)
@@ -67,16 +68,16 @@ Holzer keeps old breeds of cattle that thrive under near-natural conditions. His
 
 ## Poultry
 
-Chickens and other poultry play a role in the nutrient cycling system:
+Chickens and other poultry play a role in the [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] system:
 - Chicken feed is collected from plant material processing
 - Bulky material (stalks, small stones) left for chickens to scratch through
 - Deer and hare droppings attract insects that poultry then consume
-- Poultry help process organic matter into manure
+- Poultry help process [[hamilton-composting-and-organic-matter-management]] into manure
 - Free-range system allows natural foraging behaviour
 
 ## Philosophy of Animal Husbandry
 
-Holzer strongly condemns intensive livestock farming as "torture of large numbers of animals." He argues that:
+Holzer strongly condemns intensive [[fukuoka-textdoc-natural-livestock-farming-open-grazing]] as "torture of large numbers of animals." He argues that:
 - Food from intensive systems is of very low nutritional value
 - Growth hormones, antibiotics, and sedatives are commonly used
 - Stress hormones from transport are passed into meat
@@ -86,11 +87,11 @@ Holzer strongly condemns intensive livestock farming as "torture of large number
 
 ## Wild Boar Crossbreeding
 
-Holzer has crossed domestic pigs with wild boar to create hardy, self-sufficient animals that thrive on mountain pasture. These crosses require minimal supplemental feeding, are excellent foragers, and produce high-quality meat. The animals develop thick coats and strong immune systems from their wild genetics. He emphasises that breeding should favour resilience and self-sufficiency over maximum weight gain.
+Holzer has crossed domestic pigs with wild boar to create hardy, self-sufficient animals that thrive on mountain pasture. These crosses require minimal [[savory-supplemental-feeding-and-winter-management]], are excellent foragers, and produce high-quality meat. The animals develop thick coats and strong immune systems from their wild genetics. He emphasises that breeding should favour resilience and self-sufficiency over maximum weight gain.
 
 ## Fish and Waterfowl
 
-Beyond the pond construction described in [[permaculture-domestic-animals]] for broader discussion.
+Beyond the [[holzer-pond-construction-and-aquaculture]] described in [[permaculture-domestic-animals]] for broader discussion.
 
 See also: [[permaculture-domestic-animals]], [[permaculture-integrated-animal-systems]], [[holzer-natural-animal-husbandry]]
 

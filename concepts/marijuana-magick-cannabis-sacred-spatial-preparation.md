@@ -12,7 +12,7 @@ tags: [cannabis, religion]
 
 ## Overview
 
-Throughout "A Practitioner's Guide to Marijuana Magick," sacred space functions as a prerequisite for effective ritual. The guide describes multiple methods for creating, configuring, and closing ritual spaces, each adapted to the specific working being performed. Cannabis plays a dual role in spatial preparation: it is both prepared within the sacred space and consumed to deepen the practitioner's connection to the consecrated environment.
+Throughout "A Practitioner's Guide to [[marijuana-magick-scrying-and-divination-cannabis]]," sacred space functions as a prerequisite for effective ritual. The guide describes multiple methods for creating, configuring, and closing ritual spaces, each adapted to the specific working being performed. Cannabis plays a dual role in spatial preparation: it is both prepared within the sacred space and consumed to deepen the practitioner's connection to the consecrated environment.
 
 ## Drawing the Circle
 
@@ -65,7 +65,7 @@ Designed for anointing and healing work, this arrangement emphasizes the pentagr
 - Pentagram drawn with rosemary on the ground before the altar
 - Yellow candle at each pentagram point (five total) -- each lit slowly and thoughtfully
 - Incense stand near the head of the pentagram
-- Chalice containing cannabis-infused olive oil at the altar center
+- Chalice containing cannabis-infused [[permaculture-olive-guide]] at the altar center
 
 The use of rosemary to draw the pentagram adds an herbal dimension to the spatial preparation. Rosemary has its own folklore associations with protection, memory, and healing, layering additional meaning onto the sacred geometry.
 
@@ -125,7 +125,7 @@ All rituals follow a four-direction invocation pattern that structures the pract
 - **East**: Fire, energy, warmth, knowledge, the gift of Prometheus
 - **West**: Water, life, emotional power, healing, the oceans and rivers
 
-Each direction is addressed with specific incantations, and the practitioner physically turns to face each cardinal point during the ritual sequence. This directional structure ensures that the sacred space is activated in all dimensions, creating a fully consecrated environment.
+Each direction is addressed with specific incantations, and the practitioner physically turns to face each cardinal point during the [[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]]. This directional structure ensures that the sacred space is activated in all dimensions, creating a fully consecrated environment.
 
 ## Closing the Space
 

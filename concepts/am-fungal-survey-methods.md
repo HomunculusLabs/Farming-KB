@@ -1,5 +1,5 @@
 ---
-title: AM Fungal Survey Methods — Trap Cultures and Spore Analysis
+title: AM Fungal mycetozoan-survey-methods-substratum-plating — Trap Cultures and Spore Analysis
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,14 +9,14 @@ sources: []
 
 # AM Fungal Survey Methods — Trap Cultures and Spore Analysis
 
-Surveying arbuscular mycorrhizal (AM) fungi presents unique challenges because these organisms cannot be cultured apart from their plant hosts. Specialized methods have been developed for quantifying their diversity and abundance.
+Surveying [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] (AM) fungi presents unique challenges because these organisms cannot be cultured apart from their plant hosts. Specialized methods have been developed for quantifying their diversity and abundance.
 
 ## Sampling Procedures
 
 ### Sample Size
 No standard sampling size exists. General guidelines:
 - Unknown areas: 250-1000 cm3 soil collected initially
-- Prairie soils (high organic matter): low spore numbers but high species richness; need >200 cm3
+- Prairie soils (high [[hamilton-composting-and-organic-matter-management]]): low spore numbers but high species richness; need >200 cm3
 - Low-organic-matter sand dunes: high spore numbers; 50-100 cm3 sufficient
 - Spores have aggregated distribution — mix subsamples thoroughly
 
@@ -33,7 +33,7 @@ Used to induce production of healthy spores for accurate identification, since f
 1. Collect field soil and establish pot cultures with host plants
 2. Grow for 3-4 months until signs of cessation of shoot growth
 3. At harvest: sample roots for mycorrhizal development estimates; extract spores for abundance measure
-4. If colonization and spore abundance are high, terminate watering and dry slowly
+4. If colonization and spore abundance are high, terminate [[solomon-watering-and-dry-farming]] slowly
 5. If spore numbers are low, reseed with same host for second propagation cycle
 
 ### Single-Spore Cultures

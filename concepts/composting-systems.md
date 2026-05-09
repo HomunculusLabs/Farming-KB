@@ -18,7 +18,7 @@ tags:
 
 sources:
 - raw/sepp-holzer-practical-guide-to-small-scale-integrative.md
-- raw/a-guide-to-home-scale-permaculture-gaias-[[fungi-in-garden-ecosystems|garden]]-a-guide-to-home-scale-permacultu.md
+- raw/a-guide-to-home-scale-permaculture-gaias-fungi-in-garden-ecosystems|garden-a-guide-to-home-scale-permacultu.md
 - raw/a-new-indoor-growing-technique-tech-main-doc-a4-sizeindd.md
 - https://rodaleinstitute.org/why-organic/composting/
 - https://attra.ncat.org/attra-pub/summaries/summary.php?pub=5
@@ -59,7 +59,7 @@ Worm-based composting ideal for kitchen scraps and small spaces. See [[vermicomp
 
 ## Bokashi Fermentation
 
-Anaerobic pre-composting using effective microorganisms. See [[bokashi]] for full details: bran inoculation, two-week fermentation, soil burial of finished pre-compost.
+Anaerobic pre-composting using [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]]. See [[bokashi]] for full details: bran inoculation, two-week fermentation, soil burial of finished pre-compost.
 
 ## [[sheet-composting|sheet]] Mulching / Lasagna Gardening
 
@@ -97,7 +97,7 @@ Human manure can be composted but requires strict protocols:
 
 ## Compost Tea (AACT)
 
-Actively Aerated Compost Tea extracts and multiplies beneficial microbes. See [[compost-tea-aact]] for full brewing method and [[compost-tea-guide]] for the complete AACT manual.
+Actively [[actively-aerated-compost-tea-aact-brewing]] Tea extracts and multiplies beneficial microbes. See [[compost-tea-aact]] for full brewing method and [[compost-tea-guide]] for the complete AACT manual.
 
 ### Compost Tea and Composting Systems Integration
 
@@ -105,10 +105,10 @@ Different compost types produce different biology for AACT (per Ingham):
 
 | Compost Type | Bacteria:Fungi | Best Tea Use |
 |-------------|---------------|--------------|
-| Thermal compost (green-heavy) | Bacterial | Vegetable/annual crops |
+| [[ingham-thermal-compost-versus-worm-compost]] (green-heavy) | Bacterial | Vegetable/annual crops |
 | Thermal compost (brown-heavy) | Fungal | Perennials, trees |
 | Worm castings | Highly bacterial | General inoculant, seedlings |
-| Forest humus | Highly fungal | Trees, shrubs, cannabis flower |
+| Forest humus | Highly fungal | Trees, shrubs, [[cervantes-cannabis-flower-anatomy]] |
 | Static compost | Mixed (may be anaerobic inside) | Use with caution — test |
 
 ### Key Compost Tea Principles (from Ingham's Guide)
@@ -117,40 +117,17 @@ Different compost types produce different biology for AACT (per Ingham):
 - Compost tea is NOT leachate, NOT manure tea, NOT anaerobic fermented tea
 - Tea biology peaks at 18-36 hours then declines — use immediately
 - Cannot be stored long-term — brew fresh on-site for each application
-- Food resources (molasses, kelp, fish hydrolysate) select for specific organism groups
+- Food resources (molasses, kelp, [[comparison-fish-hydrolysate-vs-fish-emulsion]]) select for specific organism groups
 
 ## Carbon Sources (Browns)
 
 | Material | C:N Ratio | Notes |
 |---|---|---|
 | Dry leaves | 40-80:1 | Excellent, widely available |
-| Straw | 80-100:1 | Good structure, slower breakdown |
-| Wood chips | 200-500:1 | Long-lasting, good for mulch paths |
-| Shredded paper/cardboard | 150-200:1 | Avoid glossy/coated paper |
-| Sawdust | 300-500:1 | Use sparingly; can mat and exclude air |
-
-## Pile Troubleshooting
-
-| Symptom | Likely Cause | Fix |
-|---|---|---|
-| Foul odor (ammonia/sulfur) | Too much nitrogen, too wet, anaerobic | Add browns, turn pile, improve drainage |
-| Pile not heating | Insufficient nitrogen, too small, too dry | Add greens, increase pile size, moisten |
-| Pile too dry | Not enough moisture, hot weather | Water while turning, cover pile |
-| Pests (flies, rodents) | Food scraps exposed, meat/dairy | Bury greens 6-12 inches under browns, no meat |
-| Slow decomposition | Large pieces, low moisture, poor C:N | Shred/chop materials, adjust moisture, balance C:N |
-
-## Testing Compost Maturity
-
-Finished compost is dark brown, crumbly, smells like forest floor (earthy, not sour), and original materials are unrecognizable:
-- **Temperature test:** Pile has cooled to ambient.
-- **Germination test:** Sprout radish or cress seeds in compost — >80% germination indicates maturity. Low germination suggests phytotoxicity (unfinished compost).
-- **C:N ratio:** Below 20:1 when finished.
-- **Visual:** No recognizable original materials; dark brown to black color.
-
 ## Related
 
 - [[vermicomposting]] — Worm-based composting system
-- [[bokashi]] — Anaerobic fermentation pre-compost
+- [[bokashi]] — [[jadam-anaerobic-fermentation-principles]] pre-compost
 - [[compost-tea-aact]] — Actively aerated compost tea brewing
 - [[sepp-holzer-methods]] — Hugelkultur and holistic land management
 - [[soil-food-web-nutrient-cycling]] — Biology that drives decomposition
@@ -165,7 +142,7 @@ Finished compost is dark brown, crumbly, smells like forest floor (earthy, not s
 - [[hot-composting-vs-vermicompost-vs-bokashi]] — comparison
 - [[humanure-composting]] — thermophilic composting of human manure
 - [[vermicomposting]] — advanced worm farming: species, bin designs, troubleshooting
-- [[biochar-in-agriculture|biochar]]]
+- [[biochar-in-agriculture|biochar]]
 - [[composting-systems-design-comparison]]
 - [[permaculture-history-timeline]]
 - [[garden-soil-basics]]

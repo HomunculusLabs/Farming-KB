@@ -28,8 +28,8 @@ This is done by adding lime. The effect is slow — do not expect dramatic chang
 ### Types of Lime
 
 1. **Slaked lime (calcium oxide):** Most readily available; sometimes sold as "garden lime." Lasts longer than builder's lime.
-2. **Hydrated lime (builder's lime):** Works perfectly well but must be replaced at least annually.
-3. **Ground limestone (Dolomite lime):** Best type to use. More expensive but lasts several years in the soil and contains magnesium.
+2. **[[cervantes-hydrated-lime-quicklime-ph-adjustment]] (builder's lime):** Works perfectly well but must be replaced at least annually.
+3. **Ground limestone ([[cervantes-dolomite-lime-ph-buffering]]):** Best type to use. More expensive but lasts several years in the soil and contains magnesium.
 4. **Calcified seaweed:** Contains several plant foods as well as lime; lasts 2-3 years; reasonably priced. (Note: harvesting natural coral is now illegal; replaced by a similar seaweed-based material.)
 
 ### How Much Lime to Apply
@@ -60,16 +60,16 @@ This is more difficult than raising pH. Few garden soils are so limy they will n
 ### For Vegetable Gardens
 - Liberal doses of compost and manure will usually lower pH sufficiently
 - For very chalky soil: use the deep-bed system (see [[garden-bed-preparation]]) to raise the growing area, preventing surrounding alkaline water from draining in
-- Treat beds with heavy annual applications of organic matter (manure/compost dug in) and regular mulches
+- Treat beds with heavy annual applications of [[hamilton-composting-and-organic-matter-management]] (manure/compost dug in) and regular mulches
 
 ### For Ornamental Gardens
 - Raise borders above lawn/path level using organic matter
 - Use acid materials: peat, grass cuttings, compost, manure as mulch to counteract alkalinity
 
 ### For Acid-Loving Plants on Chalky Soil
-The only option is growing them in pots or building a raised bed (ideally of railroad ties):
+The only option is growing them in pots or building a [[comparison-chinampas-vs-raised-bed-gardening]] (ideally of railroad ties):
 - Fill with half acid soil + half peat-substitute, OR three parts peat-substitute to one part sharp sand
-- Plant as for shrubs; spread chipped pine bark around the bed
+- Plant as for shrubs; spread chipped [[fukuoka-pine-bark-weevil-ecology]] around the bed
 
 ## Related
 
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

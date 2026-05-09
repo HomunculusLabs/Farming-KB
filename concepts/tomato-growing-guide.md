@@ -1,15 +1,16 @@
 ---
-title: Tomato Growing Guide
+title: comparison-pepper-growing-guide-vs-tomato-growing-guide Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cultivation, gardening, vegetables, pruning, pest-control, plant-growth, troubleshooting]
-sources: []
+sources:
+  sources: []
 ---
 
 # Tomato Growing Guide
 
-Tomatoes (Solanum lycopersicum) are the most popular home garden crop. This guide covers the key distinctions between varieties, pruning techniques, support systems, disease management, and harvesting for maximum productivity.
+Tomatoes (Solanum lycopersicum) are the most popular home garden crop. This guide covers the key distinctions between varieties, pruning techniques, support systems, [[plant-disease-management-solomon]], and harvesting for maximum productivity.
 
 ## Determinate vs. Indeterminate
 
@@ -52,7 +53,7 @@ Suckers are the small shoots that grow in the "V" between the main stem and a br
 - Stop pruning 30 days before expected first frost (allow plant to finish ripening existing fruit).
 
 ### Why Prune
-- Improves air circulation (reduces disease).
+- Improves [[stamets-growing-room-air-circulation-co2-management]] (reduces disease).
 - Redirects energy to fruit production rather than excess foliage.
 - Larger, earlier fruit on pruned plants.
 - Easier to manage and harvest.
@@ -84,11 +85,11 @@ Suckers are the small shoots that grow in the "V" between the main stem and a br
 
 ## Nutrient Needs
 
-- **Nitrogen**: Important early for vegetative growth, but excess N after flowering produces lush foliage with few fruits.
+- **Nitrogen**: Important early for [[cannabis-vegetative-growth-stage]], but excess N after flowering produces lush foliage with few fruits.
 - **Phosphorus**: Critical for flowering and fruit set — add bone meal at planting.
 - **Potassium**: Essential for fruit quality and disease resistance — kelp meal or wood ash.
 - **Calcium**: Prevents blossom end rot — gypsum or crushed eggshells.
-- Side-dress with compost or balanced organic fertilizer when first fruits set.
+- Side-dress with compost or balanced [[complete-organic-fertilizer-cof-recipe-solomon]] when first fruits set.
 - Avoid high-nitrogen liquid feeds after flowering begins.
 
 ## Watering
@@ -121,7 +122,7 @@ Suckers are the small shoots that grow in the "V" between the main stem and a br
 
 ### Blossom End Rot
 - Black sunken spot on blossom end of fruit.
-- Caused by calcium deficiency or inconsistent watering (calcium cannot move through the plant).
+- Caused by [[knf-calcium-deficiency-symptoms]] or inconsistent watering (calcium cannot move through the plant).
 - Prevention: consistent watering, adequate calcium (gypsum, eggshells), mulch.
 
 ## Harvesting
@@ -141,8 +142,6 @@ Suckers are the small shoots that grow in the "V" between the main stem and a br
 | Cherry | Sungold, Sweet Million, Black Cherry, Snow White |
 | Paste/Sauce | San Marzano, Roma, Amish Paste, Opalka |
 | Salad | Green Zebra, Paul Robeson, Marvel Stripe |
-| Containers | Patio, Tiny Tim, Bush Early Girl |
-
 ## Related Concepts
 
 - [[companion-planting-reference]] — basil, marigolds, borage as tomato companions

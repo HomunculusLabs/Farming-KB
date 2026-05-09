@@ -1,5 +1,5 @@
 ---
-title: Organic Weed Management Strategies
+title: Organic fukuoka-weed-management-and-green-manure Strategies
 created: 2026-04-26
 author: Geoff Hamilton
 sources: hamilton-geoffhamilton-nick_-organic-gardening.md
@@ -11,7 +11,7 @@ tags: [reference]
 # Organic [[geoff-hamilton]] strongly advises against chemical
 weedkillers, finding them more time-consuming and awkward to apply between
 cultivated plants than traditional organic methods. The organic approach
-uses hoeing, mulching, ground cover, and careful soil preparation.
+uses hoeing, mulching, [[fukuoka-citrus-orchard-ground-cover-cultivation]], and careful soil preparation.
 
 ## Clearing Uncultivated Ground
 
@@ -51,7 +51,7 @@ soil surface to avoid damaging shallow crop roots.
 
 ### Wheel Hoe
 A hand-pushed tool with a single wheel and cutting blade. Much quicker
-than a Dutch hoe once the soil is loosened. Adjust row spacing to suit
+than a Dutch hoe once the soil is loosened. Adjust [[wide-row-spacing-intensive-gardening-comparison]] to suit
 the hoe width -- if rows would be too close, widen them and reduce
 in-row spacing to compensate.
 
@@ -73,12 +73,12 @@ garden areas:
 One of the most effective mulches for eradicating perennial weeds. No
 light can reach the leaves and the weeds die. Watch for weeds appearing
 at the edges and remove them. The sheeting must be anchored securely.
-Ideal for the vegetable garden. Can be covered with gravel or soil for
+Ideal for the [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]. Can be covered with gravel or soil for
 ornamental use. Lay a seep hose underneath for watering.
 
 ### Organic Mulches
-Well-rotted manure, compost, straw, spent mushroom compost, and pine
-bark chippings all suppress weeds while adding organic matter to the
+Well-rotted manure, compost, straw, [[staycare-spent-mushroom-compost-bioremediation]] compost, and pine
+bark chippings all suppress weeds while adding [[hamilton-composting-and-organic-matter-management]] to the
 soil. Apply 2-3 inches thick in spring when the soil is moist. Pine bark
 lasts several years and looks attractive in ornamental borders.
 

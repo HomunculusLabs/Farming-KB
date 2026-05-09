@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Wu, D. & Larsen, K. (2000). "Zingiberaceae." In: Flora of China, Vol. 24. Science Press & Missouri Botanical Garden Press.
-  - Xia, Q. et al. (2018). "Chemical composition and antibacterial activity of essential oil from Amomum tsao-ko." Chemistry & Biodiversity, 15(7), e1800121.
+  - Xia, Q. et al. (2018). "Chemical composition and antibacterial activity of [[permaculture-designers-manual-essential-oil-plants]] from Amomum tsao-ko." Chemistry & Biodiversity, 15(7), e1800121.
   - Li, H. et al. (2014). "Ethnobotanical study of Amomum tsao-ko in Yunnan, China." Journal of Ethnopharmacology, 151(2), 1095–1100.
   - Chen, J. et al. (2010). "Phytochemical and biological studies of Amomum species." Natural Product Communications, 5(9), 1457–1462.
 ---
@@ -99,7 +99,7 @@ Unlike green cardamom, tsao-ko is rarely used in desserts due to its strong, sav
 
 Commercial cultivation is centered in Yunnan Province, China, which accounts for the majority of global production.
 
-Plants are propagated primarily by division of rhizome clumps, with seed propagation used less frequently.
+Plants are propagated primarily by division of rhizome clumps, with [[jeavons-seed-propagation-techniques]] used less frequently.
 
 Cultivation occurs at elevations of 1,000–2,000 meters in shaded or semi-shaded forest environments.
 

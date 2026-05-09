@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - González-Burgos, E. et al. (2011). "Antidepressant effects of Sideritis scardica." Journal of Ethnopharmacology 134(3): 1023-1029.
-  - Petreska, J. et al. (2011). "Analysis of the essential oil of Sideritis scardica." Natural Product Communications 6(2): 275-278.
+  - Petreska, J. et al. (2011). "Analysis of the [[permaculture-designers-manual-essential-oil-plants]] of Sideritis scardica." Natural Product Communications 6(2): 275-278.
   - Alipieva, K. et al. (2014). "Recent advances in Sideritis research." Phytochemistry Reviews 13(2): 361-378.
   - Todorova, M. & Trendafilova, A. (2014). "Sideritis species: a review of their chemistry and biological activities." Chemistry & Biodiversity 11(6): 934-969.
 created: 2026-05-07
@@ -84,7 +84,7 @@ Antioxidant capacity (DPPH IC50) is comparable to green tea, primarily attributa
 
 Anti-inflammatory activity has been demonstrated in vitro via inhibition of COX-2, iNOS, and NF-κB signaling pathways.
 
-The methanolic extract shows neuroprotective effects in cellular models of oxidative stress, reducing ROS accumulation by 40–60%.
+The methanolic extract shows neuroprotective effects in cellular models of [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], reducing ROS accumulation by 40–60%.
 
 Animal studies indicate memory-enhancing effects, potentially mediated by acetylcholinesterase inhibition and increased BDNF expression.
 
@@ -98,7 +98,7 @@ Antimicrobial activity has been documented against Gram-positive bacteria includ
 
 Greek mountain tea (*τσάι του βουνού*) is one of the most popular traditional beverages in Greece, consumed daily by millions.
 
-Traditional preparation involves steeping the dried flowering aerial parts in boiling water for 5–10 minutes, often with honey and lemon.
+[[kava-traditional-preparation-ceremonial-context]] involves steeping the dried flowering aerial parts in boiling water for 5–10 minutes, often with honey and lemon.
 
 It is traditionally used for colds, respiratory infections, digestive complaints, and as a general tonic for fatigue and low mood.
 
@@ -114,15 +114,15 @@ Seeds require cold stratification (4°C for 30–60 days) and light for germinat
 
 Plants prefer full sun to partial shade, well-drained calcareous soils, and moderate watering.
 
-Harvest occurs during full flowering (July–August); aerial parts are dried at 35–40°C to preserve volatile compounds.
+Harvest occurs during full flowering (July–August); aerial parts are dried at 35–40°C to preserve [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]].
 
 Yields of dried herb range from 200–400 kg/ha under cultivation, with essential oil content of 0.3–0.8% v/w.
 
-The species is suitable for organic cultivation and shows good pest resistance due to its high terpenoid content.
+The species is suitable for organic cultivation and shows good [[cannabis-disease-pest-resistance-breeding-clarke]] due to its high terpenoid content.
 
 ## See Also
 
 - [[verbena-officinalis]]
 - [[rosmarinus-officinalis-entity]]
 - [[origanum-vulgare-entity]]
-- [[ocimum-sanctum]]
+- ocimum-sanctum

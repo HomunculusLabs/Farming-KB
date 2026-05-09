@@ -11,7 +11,7 @@ updated: 2026-05-08
 sources:
   - Ahti T. (1961). "Taxonomic studies on reindeer lichens (Cladonia, subgenus Cladina)." Annales Botanici Societatis Zoologicae Botanicae Fennicae 32(1).
   - Hammer S. (2001). "A morphological and molecular revision of the Cladonia furcata complex." The Bryologist 104(4): 573-594.
-  - Brodo I.M., Sharnoff S.D., Sharnoff S. (2001). "Lichens of North America." Yale University Press.
+  - Brodo I.M., Sharnoff S.D., Sharnoff S. (2001). "Lichens of [[psilocybin-north-america-pacific-northwest]]." Yale University Press.
   - Purvis O.W. et al. (1992). "The Lichen Flora of Great Britain and Ireland." Natural History Museum Publications, London.
 ---
 
@@ -19,7 +19,7 @@ sources:
 
 Cladonia cristatella, commonly known as the British Soldiers lichen, is a
 small fruticose lichen in the family Cladoniaceae. It is one of the most
-recognizable lichens in eastern North America due to the bright red
+recognizable lichens in [[polypore-fungi-eastern-north-america]] America due to the bright red
 apothecia on its gray-green podetia.
 
 The species name "cristatella" refers to the crested appearance of its
@@ -60,7 +60,7 @@ isidia are absent in typical specimens.
 Cladonia cristatella is found throughout eastern North America, from
 Nova Scotia and Quebec south to Georgia and west to Minnesota and
 Arkansas. It is most abundant in the Appalachian region and the
-northeastern United States.
+northeastern [[dmt-containing-plants-united-states-halpern]].
 
 The species grows on soil, decaying wood, tree bases, and stumps in a
 wide range of forest types. It is tolerant of disturbance and is commonly
@@ -77,7 +77,7 @@ declined.
 
 ## Ecology and Symbiosis
 
-Cladonia cristatella associates with green algae of the genus
+Cladonia cristatella associates with [[cervantes-green-algae-growing-medium]] of the genus
 Asterochloris as its primary photobiont. The algal partner provides
 photosynthate to the fungal mycobiont in exchange for protection and
 mineral nutrients.
@@ -85,9 +85,9 @@ mineral nutrients.
 The species is an early colonizer of disturbed substrates, often
 appearing on bare soil, burned areas, and decaying wood within a few
 years of disturbance. It plays a role in soil stabilization and the
-early stages of ecological succession.
+early stages of [[holmgren-ecological-succession-and-pulsing]].
 
-In temperate forests, C. cristatella contributes to nutrient cycling
+In temperate forests, C. cristatella contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 through the slow decomposition of its thallus. Its ability to grow on
 poor soils makes it important in primary succession on rocky outcrops
 and glacial deposits.

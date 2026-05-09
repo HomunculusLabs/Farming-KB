@@ -1,11 +1,11 @@
 ---
-title: "Trace Water Enhanced Microwave Sterilization"
+title: "Trace Water trace water enhanced microwave sterilization Sterilization"
 tags:
   - sterilization
   - microwave
   - microbiology
   - water-activity
-  - spore-inactivation
+  - spore|spore-inactivation
   - physics
 created: 2026-04-28
 updated: 2026-04-28
@@ -16,7 +16,7 @@ type: concept
 
 # Trace Water Enhanced Microwave Sterilization
 
-Trace water enhanced [[microwave-water-interaction-2.45-GHz]]
+Trace water enhanced [[microwave-water-interaction-2.45-ghz]]
 
 - [[microwave-surface-sterilization]] for the overall technology
 - [[microwave-sterilization-of-enclosed-systems]] for penetration through barriers
@@ -98,3 +98,12 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[microwave-water-interaction-2.45-ghz]]
+
+- [[nasa-microwave-sterilization-challenge-organisms-kill-kinetics]]
+
+- [[bacterial-spore-microwave-resistance]]
+
+- [[microwave-water-interaction-2.45-ghz]]

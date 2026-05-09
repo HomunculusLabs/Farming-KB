@@ -15,13 +15,13 @@ The Stoned Ape Theory is Terence McKenna's controversial hypothesis that the con
 
 ## Core Hypothesis
 
-McKenna argued that when early hominids descended from the forest canopy onto the African grasslands, they followed herds of ungulates and encountered the mushrooms growing in their dung. Among the candidate species, McKenna identified *Stropharia cubensis* (also known as *Psilocybe cubensis*) as the most likely "Ur plant" — the original catalyst — because it is the only psilocybin-containing mushroom that occurs in concentrated amounts in dung, is free of nausea-producing compounds, and is pandemic across tropical regions wherever zebu-type cattle graze.
+McKenna argued that when early hominids descended from the forest canopy onto the African grasslands, they followed herds of ungulates and encountered the mushrooms growing in their dung. Among the candidate species, McKenna identified *[[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]* (also known as *Psilocybe cubensis*) as the most likely "Ur plant" — the original catalyst — because it is the only psilocybin-containing mushroom that occurs in concentrated amounts in dung, is free of nausea-producing compounds, and is pandemic across tropical regions wherever zebu-type cattle graze.
 
 The relationship between early humans, cattle, and dung-loving mushrooms created what McKenna called "a deep-rooted custom, an extremely powerful natural habit" that he estimated to be no more than a million years old, with the most culturally significant period spanning the last 100,000 years.
 
 Whatever this relationship is called, he insisted, "it has not been a static relationship, but rather a dynamic through which we have been bootstrapped to higher and higher cultural levels and levels of individual self-awareness."
 
-He proposed that "the use of hallucinogenic mushrooms on the grasslands of Africa gave us the model for all religions to follow. And when, after long centuries of slow forgetting, migration, and climatic change, the knowledge of the mystery was finally lost, we in our anguish traded partnership for dominance, traded harmony with nature for rape of nature, traded poetry for the sophistry of science."
+He proposed that "the use of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] on the grasslands of Africa gave us the model for all religions to follow. And when, after long centuries of slow forgetting, migration, and climatic change, the knowledge of the mystery was finally lost, we in our anguish traded partnership for dominance, traded harmony with nature for rape of nature, traded poetry for the sophistry of science."
 
 ## Three Phases of Mushroom Use
 
@@ -56,7 +56,7 @@ McKenna made a detailed case for *Stropharia cubensis* as the specific mushroom 
 - Its presence wherever human populations and cattle evolved together suggests a very ancient association
 - It is the only candidate that combines palatability, concentrated psychoactivity, and wide geographic distribution
 
-He contrasted this with the Wassons' *Amanita muscaria* theory for the Vedic Soma, arguing that *Amanita* does not grow in grasslands, is ambiguous in its psychoactivity, and requires elaborate processing (such as urine drinking by Siberian tribes) that is unlikely to have characterized the original human-mushroom interaction.
+He contrasted this with the Wassons' *[[allegro-amanita-muscaria-properties-and-pharmacology]]* theory for the Vedic Soma, arguing that *Amanita* does not grow in grasslands, is ambiguous in its psychoactivity, and requires elaborate processing (such as urine drinking by Siberian tribes) that is unlikely to have characterized the original human-mushroom interaction.
 
 Wasson himself expressed private doubts about the Amanita theory, writing to McKenna in 1977: "Inebriation from Str. cubensis and the other psilocybin species is clearly, in my opinion, superior to Amanita muscaria."
 
@@ -88,7 +88,7 @@ McKenna systematically eliminated other candidates for the role of consciousness
 
 - **Tabernanthe iboga**: Not a grassland plant, no evidence of use before the 19th century, at low doses diminishes ordinary vision by facilitating afterimages and visual "streaking"
 - **DMT-containing grasses**: Cannot supply sufficient amounts without extraction and concentration, which was beyond the technical reach of early humans
-- **Peganum harmala**: No record of hallucinogenic use in Africa; must be concentrated and/or combined with DMT to activate its visionary potential
+- **[[mckenna-food-gods-peganum-harmala-soma]]**: No record of hallucinogenic use in Africa; must be concentrated and/or combined with DMT to activate its visionary potential
 - **LSD-type compounds**: No known plants containing these compounds are native to Africa, nor are there striking examples of plants rich in these compounds
 - **Dioscorea (sweet potato) species**: Several contain compounds that interfere with ovulation, demonstrating how plants can dramatically affect primate populations, but these are not hallucinogenic
 
@@ -96,13 +96,13 @@ McKenna systematically eliminated other candidates for the role of consciousness
 
 McKenna noted a striking pattern: the longer an environment has been exposed to human beings, the fewer its native hallucinogens, and the fewer species of plants generally occurring within it. He cited the geographer Carl Saur, who argued that "there is no such thing as a natural grassland" and that all grasslands were human artifacts resulting from seasonal burning.
 
-This progressive loss of plant diversity as humans expanded their range meant that the original mushroom-rich environments were gradually depleted. Today Africa supports almost no native plants that are good candidates for catalysis of consciousness among evolving hominids. Grasslands have far fewer plant species than forests, making it highly likely that a hominid would test any grassland plant encountered for its food potential — including the dung-growing psilocybin mushrooms that McKenna identified as the Ur plant.
+This progressive loss of plant diversity as humans expanded their range meant that the original mushroom-rich environments were gradually depleted. Today Africa supports almost no native plants that are good candidates for catalysis of consciousness among evolving hominids. Grasslands have far fewer plant species than forests, making it highly likely that a hominid would test any grassland plant encountered for its food potential — including the dung-growing [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] that McKenna identified as the Ur plant.
 
 ## Catalyzing Consciousness
 
 McKenna argued that plant hallucinogens do not cause consciousness, "which is a generalized function present in some degree in all life forms." Rather, they catalyze consciousness — "a speeding up of processes that are already present." He noted that "one can hardly doubt that consciousness, like the ability to resist disease, confers an immense adaptive advantage on any individual who possesses it."
 
-The search for a causal agent capable of synergizing cognitive activity "might long ago have looked to plant hallucinogens were it not for our strong, almost compulsive avoidance of the idea that our exalted position in the hierarchy of nature might be somehow due to the power of plants or natural forces of any sort." McKenna framed this avoidance as the latest chapter in humanity's long history of denying its dependence on the natural world: "Even as the nineteenth century had to come to terms with the notion of human descent from apes, we must now come to terms with the fact that those apes were stoned apes. Being stoned seems to have been our unique characteristic."
+The search for a causal agent capable of synergizing cognitive activity "might long ago have looked to plant hallucinogens were it not for our strong, almost compulsive avoidance of the idea that our exalted position in the hierarchy of nature might be somehow due to the power of plants or natural forces of any sort." McKenna framed this avoidance as the latest chapter in humanity's long history of denying its dependence on the natural world: "Even as the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] had to come to terms with the notion of human descent from apes, we must now come to terms with the fact that those apes were stoned apes. Being stoned seems to have been our unique characteristic."
 
 ## Criticisms and Limitations
 

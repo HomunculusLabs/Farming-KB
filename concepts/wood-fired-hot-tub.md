@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, equipment, engineering, construction, water, safety]
-sources: []
+sources:
+  sources: []
 ---
 
 # Wood-Fired Hot Tub
@@ -82,10 +83,10 @@ This requires welding skills but costs as little as $100-200 in materials.
 Wood-fired tubs typically do not use conventional pool chemicals (chlorine is unpleasant and unnecessary for a non-circulating tub). Options include:
 
 ### Non-Chemical Methods
-- **Drain and refill** — the simplest approach. Drain every 1-3 weeks depending on use. At 250-400 gallons, this is practical if you have a water source. See [[water-management|water]] systems.
-- **Enzyme treatment** — commercial enzyme products (like Spa Marvel) break down body oils and organic matter. Add weekly. Extends water life to 2-4 weeks.
-- **Hydrogen peroxide** — 1 cup of 3% hydrogen peroxide per 100 gallons helps oxidize contaminants. Safer than chlorine and breaks down to water and oxygen.
-- **Ozone generators** — small 12V ozone units reduce contaminants. Effective but require electricity.
+- **Drain and refill** — the simplest approach. Drain every 1-3 weeks depending on use. At 250-400 gallons, this is practical if you have a water source. See [[water-management]] systems.
+- **Enzyme treatment** — commercial enzyme products (like Spa Marvel) [[query-can-fungi-break-down-plastic-pollution]] body oils and [[hamilton-composting-and-organic-matter-management]]. Add weekly. Extends water life to 2-4 weeks.
+- **[[cervantes-hydrogen-peroxide-sterilization]]** — 1 cup of 3% hydrogen peroxide per 100 gallons helps oxidize contaminants. Safer than chlorine and breaks down to water and oxygen.
+- **[[cervantes-ozone-generators-negative-ion-odor]]** — small 12V ozone units reduce contaminants. Effective but require electricity.
 
 ### Filtration
 - A simple cartridge filter run periodically keeps water clearer
@@ -105,7 +106,7 @@ A full tub weighs 2,000-4,000+ pounds. The foundation must support this weight.
 - **Compacted gravel** — 6 inches of compacted crushed stone, leveled
 - **Concrete pad** — 4-inch reinforced concrete, slightly larger than the tub
 - **Concrete blocks** — level block pavers on compacted ground
-- **Timber frame** — treated 6x6 beams on a gravel bed
+- **[[comparison-bamboo-construction-vs-timber-frame-basics]]** — treated 6x6 beams on a gravel bed
 
 ### Drainage
 - Install a drain valve at the bottom of the tub (bulkhead fitting)
@@ -142,4 +143,4 @@ A cover is essential — it retains heat between uses (reducing heating time and
 
 A wood-fired hot tub is one of the most rewarding homestead additions. It costs little to operate, requires no grid connection, and provides genuine therapeutic benefit after hard physical work.
 
-See also: [[natural-building-techniques]]
+See also: [[natural-building]]

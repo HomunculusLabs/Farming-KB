@@ -13,7 +13,7 @@ sources:
 
 Houttuynia cordata, commonly known as fish mint, chameleon plant, or
 dokudami, is a perennial herbaceous plant in the family Saururaceae.
-Native to East and Southeast Asia, it has been used for centuries in
+Native to East and [[psilocybe-southeast-asia-pacific]], it has been used for centuries in
 traditional Chinese, Japanese, Korean, and Vietnamese medicine and
 cuisine. The plant is distinguished by its heart-shaped leaves, its
 characteristic fishy odor when crushed, and its remarkable ability to
@@ -41,12 +41,12 @@ as unique alkylamide compounds called houttuyfonates.
 
 The species is the sole member of its genus, making it a
 monotypic taxon. It belongs to the same order (Piperales) as
-black pepper (Piper nigrum), though it is not closely related
+[[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]] (Piper nigrum), though it is not closely related
 to true mints (Lamiaceae).
 
 ## Description
 ### Growth Habit and Size
-Houttuynia cordata is a creeping, rhizomatous perennial herb growing
+Houttuynia cordata is a creeping, rhizomatous perennial [[medicinal-herb-growing]]
 15-50 cm tall. It spreads rapidly via an extensive network of
 underground rhizomes, forming dense mats of vegetation that can
 quickly dominate an area. The above-ground stems are erect to
@@ -81,7 +81,7 @@ established.
   Southeast Asia (Vietnam, Thailand, Myanmar, India, Nepal,
   Bhutan). Widely distributed across forest margins, stream banks,
   moist meadows, and disturbed areas up to 2500 meters elevation.
-- **Introduced range:** Naturalized in eastern North America,
+- **Introduced range:** Naturalized in [[polypore-fungi-eastern-north-america]] America,
   parts of Europe, and Australia. Often escapes cultivation due to
   aggressive rhizomatous spread.
 - **Habitat:** Moist to wet environments including stream banks,
@@ -127,13 +127,13 @@ established.
 | Chlorogenic acid | Phenolic acid | Antioxidant, hepatoprotective |
 ## Cultivation Notes
 - **Propagation:** Easily propagated from rhizome divisions or
-  stem cuttings. Seed germination is possible but slow and
+  stem cuttings. [[cannabis-seed-germination-methods]] is possible but slow and
   unreliable compared to vegetative methods.
 - **Planting:** Space plants 30-60 cm apart. Warning: plant in
   contained areas or use root barriers to prevent uncontrolled
   spread. Invasiveness is a significant concern in garden settings.
 - **Harvest:** Above-ground parts can be harvested throughout the
-  growing season. For medicinal use, aerial parts are typically
+  [[savory-growing-season-and-non-growing-season-management]]. For medicinal use, aerial parts are typically
   harvested during flowering and dried.
 - **Invasiveness:** Houttuynia cordata is considered an invasive
   species in many regions outside its native range. Its aggressive

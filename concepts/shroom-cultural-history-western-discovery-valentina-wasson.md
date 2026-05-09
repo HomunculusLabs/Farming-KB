@@ -1,5 +1,5 @@
 ---
-title: Western Discovery and the Wassons — Shroom
+title: shroom cultural history western discovery valentina wasson and the Wassons — Shroom
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -14,7 +14,7 @@ tags: [history]
 
 ## Robert Gordon Wasson (1898-1986)
 
-Robert Gordon Wasson was born on 22 September 1898, the son of an Episcopalian minister. After serving in the First World War, he graduated from Harvard with a bachelor's in literature and began his career as a journalist, eventually crossing into banking at J. P. Morgan & Co., where he was vice-president from 1943 until his retirement twenty years later. "On paper there could not have been a more unlikely person than this upright and buttoned-up Wall Street banker to investigate and popularise the hallucinogenic mushrooms of Mexico."
+Robert Gordon Wasson was born on 22 September 1898, the son of an Episcopalian minister. After serving in the First World War, he graduated from Harvard with a bachelor's in literature and began his career as a journalist, eventually crossing into banking at J. P. Morgan & Co., where he was vice-president from 1943 until his retirement twenty years later. "On paper there could not have been a more unlikely person than this upright and buttoned-up Wall Street banker to investigate and popularise the [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] of Mexico."
 
 ## The Honeymoon Incident (1926)
 
@@ -30,7 +30,7 @@ The Wassons coined the terms *mycophilic* (mushroom-loving) and *mycophobic* (mu
 
 As the Wassons amassed evidence from folklore, art history, etymology, and philology, they developed a revolutionary theory. What if mycophilia and mycophobia were "residual and half-forgotten cultural memories of some strictures or taboos placed upon the eating of mushrooms"? If something as powerful as a religious prohibition would be "awe-imposing enough to have endured for so long," could not the mycophilic/mycophobic axis be "the last surviving cultural imprint of an ancient mushroom-worshipping religion"?
 
-Wasson came to imagine that European ancestors had consumed magic mushrooms in "the original and archaic form of shamanism." As this loosened and gradually became institutionalised, mushroom consumption was restricted to a powerful priesthood who placed "a terrible taboo upon its profane usage." The taboo survived in "vestigial fashion" as cultural attitudes towards mushrooms.
+Wasson came to imagine that European ancestors had consumed magic mushrooms in "the original and archaic form of shamanism." As this loosened and gradually became institutionalised, mushroom consumption was restricted to a powerful priesthood who placed "a terrible taboo upon its profane usage." The taboo survived in "vestigial fashion" as [[weil-cultural-attitudes-toward-altered-states]] towards mushrooms.
 
 ## The Quest for the Living Cult
 
@@ -53,7 +53,7 @@ Wasson enlisted two notable scientists:
 - **Roger Heim** (1900-1979), Professor of Mycology at the Muséum National d'Histoire Naturelle in Paris, identified and described the mushrooms (primarily Psilocybe, Conocybe, and Stropharia species)
 - **Albert Hofmann** (1906-), the Swiss chemist who discovered LSD, isolated the psychoactive alkaloids: in 1958, while working for Sandoz, he successfully synthesised **psilocybin and psilocin**, named after the mushrooms' Latin epithet
 
-The team also discovered that the Aztec *Ololiuhqui* was Morning Glory (Turbina corymbosa), whose active compounds Hofmann found to be LSD-like. Wasson and Hofmann identified Salvia divinorum.
+The team also discovered that the Aztec *Ololiuhqui* was Morning Glory ([[plants-of-the-gods-turbina-corymbosa-ololiuqui]]), whose active compounds Hofmann found to be LSD-like. Wasson and Hofmann identified Salvia divinorum.
 
 ## "Seeking the Magic Mushroom" (1957)
 
@@ -63,7 +63,7 @@ Wasson popularised his discoveries in a Life magazine article published on 13 Ma
 
 After Valentina's death in 1958, Wasson promoted influential theories about:
 - **Soma**: That the mysterious plant praised in the Rig Veda was the fly-agaric (published as *SOMA: Divine Mushroom of Immortality*, 1968)
-- **Eleusis**: That the potion at the heart of the Eleusinian mysteries contained an infusion of ergot (Claviceps purpurea)
+- **Eleusis**: That the potion at the heart of the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] contained an infusion of ergot ([[bloomfield-ergot-claviceps-purpurea-ergotism]])
 
 ## Letcher's Assessment
 

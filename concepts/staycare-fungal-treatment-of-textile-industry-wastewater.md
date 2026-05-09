@@ -1,5 +1,5 @@
 ---
-title: Fungal Treatment of Textile Industry Wastewater
+title: Fungal fungal-treatment-of-textile-dyes-mechanisms Industry Wastewater
 created: 2026-04-26
 synonyms:
   - fungal decolorization of dyes
@@ -16,7 +16,7 @@ updated: 2026-04-26
 
 ## Overview
 
-Textile dyeing and manufacturing generate large volumes of colored wastewater containing synthetic dyes, many of which are recalcitrant to conventional wastewater treatment. Dyes of concern include azo dyes, triphenylmethanes, anthraquinones, metal phthalocyanins, and indigoids. White rot fungi have emerged as promising bioremediation agents due to their non-specific ligninolytic enzyme systems capable of degrading a wide range of chromophoric structures.
+Textile dyeing and manufacturing generate large volumes of colored wastewater containing [[singh-fungal-degradation-of-synthetic-dyes-and-textile-waste]], many of which are recalcitrant to conventional [[mollison-designers-wastewater-treatment-wetlands]]. Dyes of concern include azo dyes, triphenylmethanes, anthraquinones, metal phthalocyanins, and indigoids. White rot fungi have emerged as promising bioremediation agents due to their non-specific ligninolytic enzyme systems capable of degrading a wide range of chromophoric structures.
 
 ## Types of Textile Effluents and Chromophores
 
@@ -40,7 +40,7 @@ Table 10.2 from the source lists the following genera and species of white rot f
 - Hericium erinaceum
 - Lentinus (Lentinula) edodes
 - Merulius tremellosus
-- Phanerochaete chrysosporium, P. flavido-alba
+- [[staycare-phanerochaete-chrysosporium-in-bioremediation]], P. flavido-alba
 - Phlebia radiata
 - Pleurotus ostreatus, P. eryngii, P. sajor-caju
 - Pycnoporus cinnabarinus
@@ -51,7 +51,7 @@ Table 10.2 from the source lists the following genera and species of white rot f
 ## References
 
 - Ben Hamman, O., de la Rubia, T. & Martínez, J. (1997). Ligninase production by Phanerochaete flavido-alba.
-- Heinfling, A. et al. (1998). Mineralization of 14C-labeled synthetic lignin (DHP) by manganese peroxidase from the white-rot fungus Bjerkandera adusta.
+- Heinfling, A. et al. (1998). Mineralization of 14C-labeled synthetic lignin (DHP) by [[fungal-manganese-peroxidase-remediation]] from the white-rot fungus Bjerkandera adusta.
 - Jäger, A., Croan, S. & Kirk, T.K. (1985). Production of ligninases by Phanerochaete chrysosporium in agitated cultures.
 - Knapp, J.S., Vantoch-Wood, E.J. & Zhang, F. Chapter 10: Wood-rotting fungi for decolorization. In Staycare.
 - Pointing, G.B., Bucher, V.V.C. & Vrijmoed, L.L.P. (2000). Laccase and manganese peroxidase production by tropical white-rot fungi.
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,3 +115,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[fungal-silage-wastewater-treatment]]

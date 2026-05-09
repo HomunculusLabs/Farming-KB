@@ -18,7 +18,7 @@ type: concept
 
 ## European Neurotropic Mycoflora Overview
 
-Europe hosts approximately 30 documented species of neurotropic fungi,
+Europe hosts approximately 30 documented species of [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]],
 distributed across the genera Psilocybe, Panaeolus, Gymnopilus, Pluteus,
 Inocybe, Conocybe, and Copelandia. While Europe has fewer species than
 the Neotropics or Southeast Asia, the continent has a long history of
@@ -30,7 +30,7 @@ well-known and widely distributed neurotropic fungi in the world.
 The following Psilocybe species are documented from Europe:
 
 - **[[psilocybe-cyanescens]]**: Originally described from the Pacific
-  Northwest of North America, this species has been widely introduced
+  Northwest of [[psilocybin-north-america-pacific-northwest]], this species has been widely introduced
   to Western Europe through the movement of wood chips and garden
   mulch. It is now naturalized in the Netherlands, Germany, France,
   Belgium, Great Britain, and other countries. It is a large, robust
@@ -47,7 +47,7 @@ G. liquiritiae, G. sapineus, G. aeruginosus, and G. dilepis are also
 present. G. spectabilis has been used historically in Europe and Japan
 as an intoxicating species.
 
-**Inocybe**: Europe is the center of diversity for neurotropic Inocybe
+**Inocybe**: Europe is the center of diversity for [[guzman-allen-gartz-neurotropic-inocybe-species]]
 species. I. aeruginascens (containing the unique compound aeruginascin),
 I. haemacta, and I. tricolor are all primarily European in distribution.
 These species are mycorrhizal and grow in association with various trees.
@@ -78,7 +78,7 @@ is less well studied but is likely to have significant diversity.
 
 European neurotropic fungi follow predictable seasonal patterns. The
 primary fruiting season is autumn (September to November), when cool,
-wet conditions favor fungal growth. Psilocybe semilanceata is the
+wet conditions favor fungal growth. [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] is the
 classic autumn species, fruiting after the first autumn rains. P.
 cyanescens fruits later in autumn and into early winter, sometimes
 persisting through mild winters. Spring fruiting is less common but
@@ -90,10 +90,10 @@ requires unusually wet conditions.
 
 The legal status of neurotropic fungi varies significantly across
 European countries. The Netherlands famously tolerated the sale of
-fresh "magic mushrooms" in "smart shops" until a 2007 ban. Other
+fresh "[[guzman-magic-mushrooms-african-species]]" in "smart shops" until a 2007 ban. Other
 countries have various restrictions, ranging from complete prohibition
 to unregulated status. The legal landscape continues to evolve as
-scientific and public attitudes toward psychedelic fungi change.
+scientific and public [[weil-cultural-attitudes-toward-altered-states]] psychedelic fungi change.
 
 ## See Also
 

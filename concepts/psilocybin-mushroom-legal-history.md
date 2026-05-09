@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Mushroom Legal History
+title: emcdda-psilocybin-mushroom-dose-and-effects psychedelic-research-legal-history-united-states
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -16,7 +16,7 @@ sources:
 
 # Psilocybin Mushroom Legal History
 
-The legal status of psilocybin mushrooms has shifted dramatically from unrestricted traditional indigenous use to global prohibition, and now to early movements toward decriminalization and medical legalization.
+The [[ayahuasca-tourism-legal-status-by-country]] of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] has shifted dramatically from unrestricted traditional indigenous use to global prohibition, and now to early movements toward decriminalization and medical legalization.
 
 ## Pre-Prohibition Era (Pre-1960s)
 
@@ -39,8 +39,8 @@ The transformation of LSD and psilocybin from research tools to "inebriating dru
 
 ## United States (1970-Present)
 
-- **1970**: The Controlled Substances Act placed psilocybin and psilocin in **Schedule I**, defined as having "no currently accepted medical use" and "a high potential for abuse." This made possession, cultivation, and distribution of the mushrooms or their active compounds federal crimes.
-- The scheduling effectively ended clinical psychedelic research in the United States for decades. What research continued shifted to mycology (describing new species), ethnobotany (studying indigenous use in distant cultures), and pharmacology -- disciplines that could proceed without censure.
+- **1970**: The Controlled [[controlled-substances-act-and-psychedelic-research]] placed psilocybin and psilocin in **Schedule I**, defined as having "no currently accepted medical use" and "a high potential for abuse." This made possession, cultivation, and distribution of the mushrooms or their active compounds federal crimes.
+- The scheduling effectively ended clinical [[mckenna-suppression-psychedelic-research-lsd-therapy]] in the United States for decades. What research continued shifted to mycology (describing new species), ethnobotany (studying indigenous use in distant cultures), and pharmacology -- disciplines that could proceed without censure.
 
 ## International Scheduling (1971)
 
@@ -70,7 +70,9 @@ A growing movement seeks to reverse prohibition:
 - **2023**: Colorado passed Proposition 122, legalizing supervised psilocybin use and decriminalizing personal possession and cultivation.
 - **2023**: Australia's Therapeutic Goods Administration approved psilocybin for prescribed use in treatment-resistant depression, making it the first country to legally prescribe the drug.
 
-## Related Topics
+## Related
+
+- psilocybin-mushroom-cultivation-photo-history Topics
 
 - [[magic-mushroom-history-timeline]] for the full chronological context
 - [[psilocybin-in-the-counter-culture]] for the cultural forces that drove prohibition
@@ -93,4 +95,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

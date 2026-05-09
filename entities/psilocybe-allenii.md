@@ -31,7 +31,7 @@ sources:
 
 ## Overview
 
-**Psilocybe allenii** is a psilocybin-containing mushroom in the family Hymenogastraceae, found along the Pacific coast of North America. First described scientifically in 2012 by mycologists Jan Borovička, Alan Rockefeller, and Peter G. Werner, it was named in honor of mycologist and ethnobotanist John W. Allen, who first recognized the species as distinct through decades of field work in the Pacific Northwest. The species was long conflated with [[psilocybe-cyanescens]], [[psilocybe-subaeruginosa]].
+**Psilocybe allenii** is a psilocybin-containing mushroom in the family Hymenogastraceae, found along the Pacific coast of [[psilocybin-north-america-pacific-northwest]]. First described scientifically in 2012 by mycologists Jan Borovička, Alan Rockefeller, and Peter G. Werner, it was named in honor of mycologist and ethnobotanist John W. Allen, who first recognized the species as distinct through decades of field work in the Pacific Northwest. The species was long conflated with [[psilocybe-cyanescens]], [[psilocybe-subaeruginosa]].
 
 ## Morphology
 
@@ -40,7 +40,7 @@ sources:
 - Convex to broadly convex, becoming plane with age; sometimes with a slight umbo
 - Hygrophanous: caramel-brown to ochraceous when moist, drying to pale buff or nearly white
 - Surface smooth, slightly viscid when wet
-- Margin typically **straight to slightly incurved**—not wavy or undulating (a key field mark distinguishing it from [[psilocybe-cyanescens]] in the same wood chip beds.
+- Margin typically **straight to slightly incurved**—not wavy or undulating (a key field mark distinguishing it from [[psilocybe-cyanescens]] in the same [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] beds.
 
 ## Chemistry
 
@@ -58,12 +58,12 @@ Total tryptamine content places *P. allenii* in the **moderate to high** potency
 - Colonization takes 3–6 months before first fruiting
 - Established beds may produce for several successive seasons
 
-Indoor cultivation is challenging due to the cool temperature requirements and wood-based substrate preference. Colonized wood chip spawn is typically used to establish outdoor beds.
+[[cannabis-sativa-indoor-cultivation-techniques]] is challenging due to the cool temperature requirements and wood-based substrate preference. Colonized wood chip spawn is typically used to establish outdoor beds.
 
 ## Legal Status
 
 As a psilocybin-containing species, *P. allenii* is illegal to possess, cultivate, or distribute in most jurisdictions:
-- **United States:** Schedule I controlled substance under the Controlled Substances Act
+- **[[dmt-containing-plants-united-states-halpern]]:** Schedule I controlled substance under the Controlled [[controlled-substances-act-and-psychedelic-research]]
 - **Canada:** Controlled under the Controlled Drugs and Substances Act
 - **Oregon (USA):** Legal for supervised therapeutic use under Measure 109 (2020)
 - **Colorado (USA):** Decriminalized under Proposition 122 (2022)
@@ -71,7 +71,7 @@ As a psilocybin-containing species, *P. allenii* is illegal to possess, cultivat
 
 ## See Also
 
-- [[psilocybe-azurescens]] — the most potent known psilocybin mushroom, coastal Oregon
+- [[psilocybe-azurescens]] — the most potent known [[emcdda-psilocybin-mushroom-dose-and-effects]], coastal Oregon
 - [[psilocybe-cubensis]] — the most commonly cultivated psilocybin mushroom
 - [[psilocybin]] — the primary psychoactive compound
 ## Practical Considerations
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

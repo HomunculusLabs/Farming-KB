@@ -1,5 +1,5 @@
 ---
-title: "How do I design habitat for beneficial insects?"
+title: "How do I query how do i design habitat for beneficial insects for comparison-beneficial-insects-guide-vs-integrated-pest-management?"
 created: 2026-04-28
 tags: [query, beneficial-insects, ipm, biodiversity]
 date: 2026-05-02
@@ -13,18 +13,18 @@ type: query
 
 ## Short Answer
 
-Design beneficial insect habitat by providing food, shelter, water, overwintering sites, and reduced pesticide disturbance throughout the season.
+Design beneficial [[hemenway-insectary-plants-and-beneficial-insects]] by providing food, shelter, water, overwintering sites, and reduced pesticide disturbance throughout the season.
 The goal is not simply to attract insects for one bloom period, but to support complete life cycles of predators, parasitoids, and pollinators.
 Use diverse flowering plants, hedgerows, beetle banks, mulch, perennial edges, and undisturbed refuges near the crops you want protected.
 Connect this habitat to an [[hamilton-beneficial-insects-and-biological-pest-control]] is the broad starting point for understanding those roles.
 Predators need prey and shelter.
-Parasitoid wasps often need small flowers with accessible nectar.
+[[comparison-parasitoid-wasps-vs-chemical-pesticides]] often need small flowers with accessible nectar.
 Pollinators need continuous bloom, nesting habitat, and protection from insecticides.
 
 ### Provide continuous bloom
 
 Many beneficial adults need nectar or pollen even when their larvae eat pests.
-Design the planting so something is flowering from early spring through late fall.
+Design the planting so something is flowering from [[coleman-overwintered-onions-and-early-spring-crops]] through late fall.
 Use different flower shapes because tiny parasitoids, hoverflies, bees, beetles, and butterflies do not feed from the same floral architecture.
 [[beneficial-insect-habitat]] and [[hedgerow-planting]] and [[lowenfels-earthworms-soil-food-web]] is not only about worms because surface litter supports the wider soil food web that insects use.
 Excessive tillage, constant mowing, and total sanitation remove overwintering sites.
@@ -36,7 +36,7 @@ Beneficial insect habitat fails when broad-spectrum sprays kill the organisms th
 Even organic sprays can harm predators and parasitoids if applied broadly or during bloom.
 [[query-what-is-integrated-pest-management-for-organic-gardens]] frame sprays as one tool inside monitoring and thresholds.
 If a spray is necessary, choose narrow materials, spray at dusk when pollinators are absent, and leave unsprayed refuges where possible.
-The least disruptive pest control is usually the one that preserves the next generation of beneficial insects.
+The least disruptive [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] is usually the one that preserves the next generation of beneficial insects.
 
 ### Design for pests, not just beauty
 
@@ -49,7 +49,7 @@ Let the pest history of the site shape plant selection and habitat placement.
 
 Diversity helps, but a random seed mix is not automatically a habitat design.
 Choose plants by bloom window, height, root habit, water needs, attractiveness to beneficials, and compatibility with farm operations.
-[[gaias-garden-hedgerows-and-windbreaks]] connects insect habitat to wind reduction and whole-site design.
+gaias-garden-hedgerows-and-windbreaks connects insect habitat to wind reduction and whole-site design.
 In arid climates, irrigation timing and refuge shade may decide whether beneficial insects remain during pest outbreaks.
 Habitat is partly a climate buffer at insect scale.
 
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

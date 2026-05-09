@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Mushroom Coprophilous Ecology and Bovine Symbiosis
+title: emcdda-psilocybin-mushroom-dose-and-effects mckenna psilocybin coprophilous ecology and bovine symbiosis and Bovine Symbiosis
 created: 2026-04-28
 tags:
   - mycology
@@ -25,15 +25,15 @@ In "Food of the Gods," Terence McKenna develops the argument that the relationsh
 
 Coprophilous (dung-loving) fungi are a specialized ecological group that have evolved to colonize the nutrient-rich substrate of herbivore droppings. The dung of grazing ruminants provides an ideal growth medium: it is rich in partially digested plant cellulose, nitrogen, minerals, and moisture, while being relatively free of competing microorganisms during the initial phases of decomposition. The passage through the animal's digestive system effectively pasteurizes the plant material, creating a selective environment that favors coprophilous species.
 
-[[symbiosis-in-fungi]], which he defines as "a relationship between two species that confers mutual benefit upon their members." He distinguishes this from parasitism and notes that symbiotic relationships can range from genetically tightly bound to more open and behavioral.
+symbiosis-in-fungi, which he defines as "a relationship between two species that confers mutual benefit upon their members." He distinguishes this from parasitism and notes that symbiotic relationships can range from genetically tightly bound to more open and behavioral.
 
-He illustrates the concept with two key examples from nature. The first is the clown anemone fish (Amphiprion ocellaris), which lives in proximity to sea anemones. The fish gain protection from predators, while the anemone's food supply expands because the fish attract larger prey into the area. The second, more directly relevant example, is the relationship between leafcutter ants and a cultivated [[psilocybe-cubensis]] to spread far beyond its original range. And just as the fungus provided the ants with food, the mushrooms provided humans with altered states of consciousness that shaped culture, religion, and social organization.
+He illustrates the concept with two key examples from nature. The first is the clown anemone fish (Amphiprion ocellaris), which lives in proximity to sea anemones. The fish gain protection from predators, while the anemone's food supply expands because the fish attract larger prey into the area. The second, more directly relevant example, is the relationship between leafcutter ants and a cultivated [[psilocybe-cubensis]] to spread far beyond its original range. And just as the fungus provided the ants with food, the mushrooms provided humans with [[weil-the-natural-mind-altered-states-normalcy]] of consciousness that shaped culture, religion, and social organization.
 
 ## The Pastoral Revolution and Fungal Availability
 
-McKenna argues that the domestication of cattle, beginning roughly 10,000 years ago in the Near East and independently in Africa, created a dramatic increase in the availability of psilocybin mushrooms for human populations. Before domestication, contact between hominids and Psilocybe species was limited to chance encounters with the dung of wild ungulates on the African savannah.
+McKenna argues that the domestication of cattle, beginning roughly 10,000 years ago in the Near East and independently in Africa, created a dramatic increase in the availability of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] for human populations. Before domestication, contact between hominids and Psilocybe species was limited to chance encounters with the dung of wild ungulates on the African savannah.
 
-With the advent of pastoralism, cattle were kept in close proximity to human settlements. Their dung accumulated in and around villages, creating ideal conditions for prolific mushroom fruiting. Humans living among cattle herds would have encountered psilocybin mushrooms regularly and predictably, rather than sporadically. McKenna describes this as the "human-mushroom interspecies codependency" being "enhanced and deepened" by domestication.
+With the advent of pastoralism, cattle were kept in close proximity to human settlements. Their dung accumulated in and around villages, creating ideal conditions for prolific [[ectomycorrhizal-mushroom-fruiting-ecology]]. Humans living among cattle herds would have encountered psilocybin mushrooms regularly and predictably, rather than sporadically. McKenna describes this as the "human-mushroom interspecies codependency" being "enhanced and deepened" by domestication.
 
 This ecological change coincides with, and McKenna argues helped cause, several major developments in human culture: the emergence of religious ritual, calendar making, and natural magic. The regular availability of visionary fungi in pastoral communities provided the experiential basis for shamanic practices and cosmological systems that persist in modified forms to this day.
 
@@ -53,7 +53,7 @@ The parallel with ant architecture is deliberate. Just as leafcutter ants build 
 
 The distribution of coprophilous psilocybin mushrooms follows the distribution of cattle herding. In Africa, where cattle were first domesticated and where bovine pastoralism has the deepest history, the diversity of psilocybin-containing species is highest. As pastoralism spread into Europe, the Middle East, and South Asia, Psilocybe species spread with it.
 
-The subsequent spread of cattle herding across Eurasia and into the Americas created new zones of psilocybin mushroom distribution. The famous mushrooms of southern Mexico, [[psilocybe-mexicana]], likely benefited from the introduction of cattle to Mesoamerica by the Spanish in the sixteenth century, supplementing whatever indigenous coprophilous species may have been associated with native deer or other herbivores.
+The subsequent spread of cattle herding across Eurasia and into the Americas created new zones of psilocybin [[psilocybin-mushroom-distribution-worldwide]]. The famous mushrooms of southern Mexico, [[psilocybe-mexicana]], likely benefited from the introduction of cattle to Mesoamerica by the Spanish in the sixteenth century, supplementing whatever indigenous coprophilous species may have been associated with native deer or other herbivores.
 
 ## Psilocybe Cubensis: Species Profile
 
@@ -92,3 +92,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[mckenna-psilocybin-generic-religion-humanity]]

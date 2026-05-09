@@ -24,13 +24,13 @@ in the Americas.
 
 ## Pre-Columbian Use
 
-The use of sacred mushrooms in Mesoamerica extends back at least
+The use of [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]] in Mesoamerica extends back at least
 3,000 years.
-Archaeological evidence from Guatemala includes "mushroom stones"
+Archaeological evidence from Guatemala includes "[[mckenna-mushroom-stones-of-guatemala]]"
 dating to
 approximately 1000 B.C., which are interpreted as ceremonial objects
 associated
-with a mushroom cult. These stone sculptures, depicting stylized
+with a [[african-mushroom-cult-history]]. These stone sculptures, depicting stylized
 mushroom forms
 with human or animal faces beneath the cap, have been found
 throughout the
@@ -47,16 +47,16 @@ living tradition.
 The modern rediscovery of teonanacatl began with the fieldwork of
 American
 anthropologist Jean Basset Johnson in 1938, who observed the use of
-"hallucinogenic mushrooms" among the Mazatec of Huautla de Jimenez.
+"[[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]" among the Mazatec of Huautla de Jimenez.
 Johnson's
 research was cut short by his death in World War II.
 
 The definitive rediscovery came through R. Gordon Wasson, who
 traveled to
 Huautla de Jimenez in 1955 and 1956. Wasson participated in a mushroom
-velada conducted by the Mazatec curandera Maria Sabina. His 1957
+velada conducted by the Mazatec curandera [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]]. His 1957
 article in
-Life magazine, "Seeking the Magic Mushroom," brought the sacred
+Life magazine, "Seeking the [[australian-magic-mushroom-common-names]]," brought the sacred
 mushrooms to
 worldwide attention.
 
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -18,25 +18,25 @@ Plant signaling pathways are the biochemical and electrical
 communication systems through which plants perceive environmental
 stimuli and coordinate adaptive responses. Unlike animals, plants lack
 a nervous system, yet they have evolved sophisticated signaling
-networks involving phytohormones, secondary metabolites, reactive
-oxygen species, calcium ions, electrical impulses, and volatile organic
+networks involving phytohormones, [[antifungal-secondary-metabolites-coprophilous-fungi]], reactive
+oxygen species, calcium ions, electrical impulses, and [[fungal-volatile-organic-compounds-communication]]
 compounds. These pathways regulate virtually every aspect of plant
 biology, from seed germination and root development to defense against
 pathogens and communication with neighboring organisms including
-[[mycorrhizal-symbiosis]]. In mycorrhizal roots,
+mycorrhizal-symbiosis. In mycorrhizal roots,
 JA accumulates within cortical cells containing arbuscules, the
-interface structures where nutrient exchange occurs between the fungus
+interface structures where [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] occurs between the fungus
 and the plant. This JA accumulation may reduce pathogen proliferation
 within colonized cells, as hyphae of pathogens such as Phytophthora
 nicotianae have never been observed in the same cells as those
 containing the mycorrhizal fungus [[root-exudates]] are a complex mixture of organic compounds released by
 plant roots into the rhizosphere, including sugars, amino acids,
 organic acids, phenolics, flavonoids, and secondary metabolites. These
-compounds serve as chemical signals that mediate interactions between
+compounds serve as [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] that mediate interactions between
 plants and soil microorganisms, including mycorrhizal fungi,
 rhizobacteria, and pathogens.
 
-Mycorrhizal colonization causes significant quantitative and
+[[arbuscular-mycorrhizal-colonization-patterns]] causes significant quantitative and
 qualitative changes in root exudation. Among 27 sugars, amino acids,
 and organic acids quantified within root exudates, proline and
 isocitric acid concentrations differed significantly between
@@ -60,7 +60,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +102,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

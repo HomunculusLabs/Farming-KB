@@ -1,5 +1,5 @@
 ---
-title: Cannabis THC Acetate Preparation
+title: Cannabis cannabis thc acetate preparation Preparation
 created: 2026-04-14
 updated: 2026-04-18
 type: concept
@@ -39,7 +39,7 @@ This conversion uses acetic anhydride, an extremely dangerous chemical. A safety
 ### Refluxing
 
 1. Place measured cannabis extract in the boiling flask
-2. Add acetic anhydride equal to 3× the volume of the cannabis oil
+2. Add acetic anhydride equal to 3× the volume of the [[cervantes-hash-cannabis-oil-production]]
 3. Assemble apparatus: flask in oil bath, condenser secured above, thermometer visible through safety glass
 4. Fill condenser with circulating ice water via immersion pump
 5. Heat oil bath slowly, monitoring temperature

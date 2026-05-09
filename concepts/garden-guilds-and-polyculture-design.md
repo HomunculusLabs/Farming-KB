@@ -2,9 +2,9 @@
 
 ## What Are Guilds and Polycultures?
 
-A guild is a group of plants and animals that work together in mutually beneficial relationships, mimicking the structure and function of natural plant communities. Rather than planting species in isolation, guild design groups them so that each member supports the others through shared resources, pest control, nutrient cycling, and physical structure.
+A guild is a group of plants and animals that work together in mutually beneficial relationships, mimicking the structure and function of natural plant communities. Rather than planting species in isolation, guild design groups them so that each member supports the others through shared resources, pest control, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and physical structure.
 
-Polycultures are mixed plantings of multiple species grown together, as opposed to monocultures where a single crop occupies an entire area. Polycultures harness ecological interactions between species to create self-regulating, productive systems that require fewer external inputs over time. They represent a fundamental shift from extraction-based agriculture toward regenerative ecosystem design.
+Polycultures are mixed plantings of multiple species grown together, as opposed to monocultures where a single crop occupies an entire area. Polycultures harness [[king-stropharia-ecological-interactions-permaculture]] between species to create self-regulating, productive systems that require fewer external inputs over time. They represent a fundamental shift from extraction-based agriculture toward regenerative ecosystem design.
 
 The distinction between guilds and polycultures is subtle but useful. A polyculture describes the physical arrangement of multiple species together. A guild adds the intentional design of functional relationships — every member has a defined role within the community, and the system is engineered for mutual support.
 
@@ -20,9 +20,9 @@ Even leaf shape and branching pattern influence how light filters through to low
 
 ### Biochemical Factors
 
-Biochemical interactions involve nutrient cycling and soil chemistry. Nitrogen fixers such as legumes convert atmospheric nitrogen into plant-available forms through symbiotic relationships with rhizobial bacteria in their root nodules. [[three-sisters]]
+Biochemical interactions involve nutrient cycling and soil chemistry. Nitrogen fixers such as legumes convert atmospheric nitrogen into plant-available forms through symbiotic relationships with rhizobial bacteria in their root nodules. three-sisters
 
-The Three Sisters is a Native American polyculture that demonstrates spatial, temporal, and functional complementarity. Corn, beans, and squash have been grown together for millennia across eastern North America, forming one of the world's oldest and most successful [[companion-planting]] can achieve outcomes that exceed the sum of individual parts.
+The Three Sisters is a Native American polyculture that demonstrates spatial, temporal, and functional complementarity. Corn, beans, and squash have been grown together for millennia across [[polypore-fungi-eastern-north-america]] America, forming one of the world's oldest and most successful [[companion-planting]] can achieve outcomes that exceed the sum of individual parts.
 
 ## Guild Design Process
 
@@ -37,11 +37,11 @@ Designing an effective guild follows a systematic process rooted in permaculture
 
 ## Benefits of Guilds Over Monocultures
 
-Guilds and polycultures offer several advantages over conventional monoculture plantings. Biodiversity reduces pest and disease pressure, as pests struggle to locate preferred hosts amid a diverse planting and predatory insects maintain stable populations.
+Guilds and polycultures offer several advantages over conventional monoculture plantings. Biodiversity reduces [[hamilton-pest-and-disease-control-organic]] pressure, as pests struggle to locate preferred hosts amid a diverse planting and predatory insects maintain stable populations.
 
 There is less need for external inputs such as synthetic fertilizers and pesticides, since the guild's own members supply nutrients and pest regulation internally. Total yield per unit area is typically higher in polycultures because multiple species occupy complementary niches above and below ground.
 
-Resilience increases as well — if one species fails due to drought, disease, or pest outbreak, the others continue producing, ensuring a reliable harvest. Diverse root systems and continuous organic matter inputs improve soil health over time, building humus and increasing water-holding capacity. Dense layered plantings create habitat for beneficial organisms, and guilds offer aesthetic beauty and seasonal interest that monocultures rarely achieve.
+Resilience increases as well — if one species fails due to drought, disease, or pest outbreak, the others continue producing, ensuring a reliable harvest. Diverse root systems and continuous organic matter inputs improve soil health over time, building humus and increasing water-holding capacity. Dense layered plantings create [[query-how-do-i-design-habitat-for-beneficial-insects]] organisms, and guilds offer aesthetic beauty and seasonal interest that monocultures rarely achieve.
 
 ## Polyculture Design Principles
 
@@ -49,7 +49,7 @@ Effective polyculture design rests on a set of interrelated principles that guid
 
 - Combine species with different root depths — shallow, medium, and deep — to access nutrients and moisture from all soil layers without direct competition.
 - Mix nitrogen fixers with heavy feeders so that nutrient demand is balanced by on-site nutrient production throughout the growing season.
-- Include plants that flower at different times to provide continuous forage for pollinators and beneficial insects from early spring through late autumn.
+- Include plants that flower at different times to provide continuous forage for pollinators and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] from early spring through late autumn.
 - Layer vertically across canopy, understory, herbaceous, ground cover, and root zones to maximize light capture and space use in every dimension.
 - Use temporal stacking by selecting species that produce harvests at different times of year, spreading labor and extending the season of availability.
 - Aim for functional redundancy so that multiple species perform the same
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: Beneficial Nematodes in the Soil Food Web
+title: ingham [[query-how-to-use-beneficial-nematodes-for-soil-pest-control]] soil food web in the Soil Food Web
 created: 2026-04-26
 tags: [nematodes, soil-food-web, nutrient-cycling, compost-tea, ingham]
 date: 2026-04-25
@@ -12,7 +12,7 @@ type: concept
 # Beneficial Nematodes in the Soil Food Web
 
 Nematodes are microscopic roundworms that occupy critical positions
-in the [[compost-tea-aact]] for brewing methods that preserve nematodes
+in the [[compost-tea-aact]] for [[compost-tea-brewing-methods-aact]] that preserve nematodes
 - [[ingham-vermicompost-worm-castings]] as best nematode source
 - [[teaming-with-microbes-soil-food-web-overview]] for foodweb
   context
@@ -66,7 +66,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -144,4 +144,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

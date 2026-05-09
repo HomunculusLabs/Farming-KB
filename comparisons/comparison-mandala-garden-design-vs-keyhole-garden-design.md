@@ -1,11 +1,13 @@
 ---
-title: Mandala Garden Design vs Keyhole Garden Design
+title: comparison mandala garden design vs keyhole garden design Design vs Keyhole Garden Design
 created: 2026-04-28
 date: 2026-04-25
 updated: 2026-04-25
 tags: [comparison, permaculture, garden-design, intensive-gardening, 
 small-space]
-sources: []
+sources:
+  sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: comparison
 ---
 
@@ -13,7 +15,7 @@ type: comparison
 
 ## Overview
 
-The [[permaculture-designers-manual-keyhole-garden]] both draw on 
+The permaculture-designers-manual-keyhole-garden both draw on 
 circular geometry to maximize growing efficiency, but they operate at 
 fundamentally different scales and serve different design contexts. The mandala 
 garden is a landscape-scale pattern incorporating multiple beds, radiating 
@@ -32,7 +34,7 @@ beds at intervals, creating a pattern of circular and petal-shaped growing
 areas. This approach increases usable growing area by 30-50 percent compared to 
 rectangular bed layouts with the same perimeter, because circular geometry 
 maximizes the edge-to-area ratio. Mandala gardens are typically established 
-through sheet mulching directly over lawn or compacted ground, making them 
+through [[comparison-sheet-mulching-vs-chop-and-drop-mulching]] directly over lawn or compacted ground, making them 
 accessible to gardeners without heavy equipment. The design works well for 
 front-yard installations where aesthetics are important, as the geometric 
 patterns create an attractive and inviting landscape. Multiple mandala beds can 
@@ -84,12 +86,12 @@ Choose a mandala garden when you are designing an entire garden area from
 scratch and want to maximize both productivity and visual appeal. The mandala 
 layout excels in front-yard food gardens where neighbors and visitors will 
 appreciate the geometric beauty of the design. It is ideal for demonstration 
-gardens, permaculture education centers, and public spaces that need to 
-communicate sustainable design principles through their layout. The sheet 
+gardens, [[holmgren-permaculture-education-training-and-pdc]] centers, and public spaces that need to 
+communicate sustainable [[holmgren-permaculture-twelve-design-principles-framework]] through their layout. The sheet 
 mulching establishment method makes it accessible without tilling, and the 
 multiple bed arrangement supports crop rotation across seasons. Larger 
 properties benefit from the scalable nature of mandala patterns, which can 
-incorporate perennial plantings, annual beds, and companion planting guilds 
+incorporate perennial plantings, annual beds, and [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] guilds 
 within the radiating geometry.
 
 ## When to Choose a Keyhole Garden
@@ -120,8 +122,10 @@ improved moisture management in dry climates.
 
 ## See Also
 
-- [[permaculture-designers-manual-keyhole-garden]] for detailed building instructions
+- permaculture-designers-manual-keyhole-garden for detailed building instructions
 - [[gaias-garden-keyhole-beds-and-mandala-gardens]] for Hemenway's integrated 
 approach
 - [[mandala-garden-design]] for the original design 
-manual reference
+[[permaculture-designers-manual-reference-trees]]
+- [[keyhole-garden-design]]
+- [[companion-planting-guilds]]

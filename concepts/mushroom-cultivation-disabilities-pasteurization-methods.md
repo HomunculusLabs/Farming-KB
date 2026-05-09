@@ -1,20 +1,20 @@
 ---
-title: "Mushroom Cultivation for Disabilities - Pasteurization Methods"
+title: "Mushroom mushroom-cultivation-for-disabilities-training-program - Pasteurization Methods"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
-  - "A Training Manual: Mushroom Cultivation by People with Disabilities (FAO RAP Publication 2001/12)"
+  - "A mushroom-cultivation-disabilities-training-manual-overview: Mushroom Cultivation by People with Disabilities (FAO RAP Publication 2001/12)"
 type: concept
 tags: [cultivation, mushroom-cultivation]
 ---
 
 # Mushroom Cultivation for Disabilities - Pasteurization Methods
 
-Pasteurization is a critical step in mushroom cultivation, necessary to eliminate competing microorganisms from substrate bags before inoculation. If bags are not properly pasteurized, contamination will destroy the mushroom crop. The FAO training manual describes three methods suitable for different scales of operation and resource availability, all of which can be performed by people with disabilities.
+Pasteurization is a critical step in mushroom cultivation, necessary to eliminate competing microorganisms from substrate bags before inoculation. If bags are not properly pasteurized, contamination will destroy the [[sustaining-mushroom-crop-flushing-harvesting]]. The FAO training manual describes three methods suitable for different scales of operation and resource availability, all of which can be performed by people with disabilities.
 
 ## Why Pasteurization Matters
 
-Substrate bags contain organic materials (sawdust, rice bran, calcium compounds) that harbor naturally occurring bacteria, fungi, and other microorganisms. Without pasteurization, these organisms would outcompete the mushroom mycelium after inoculation. The goal is to destroy pathogens and competitor organisms while preserving a substrate environment suitable for mushroom growth.
+Substrate bags contain organic materials (sawdust, rice bran, calcium compounds) that harbor naturally occurring bacteria, fungi, and other microorganisms. Without pasteurization, these organisms would outcompete the mushroom mycelium after inoculation. The goal is to destroy pathogens and competitor organisms while preserving a substrate environment suitable for [[pf-tek-mushroom-growth-timeline]].
 
 ## Country-Type Pasteurization
 
@@ -76,7 +76,7 @@ This method uses a dedicated pasteurization chamber for larger-scale production.
 
 ## Solar Heating Pasteurization
 
-An optional method that can replace steam pasteurization, using solar energy.
+An optional method that can replace steam pasteurization, using [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]].
 
 **Procedure:**
 1. Fill substrate bags into the solar chamber
@@ -101,7 +101,7 @@ An optional method that can replace steam pasteurization, using solar energy.
 
 ## Post-Pasteurization Handling
 
-After pasteurization and cooling, bags must be transferred to the inoculation area which must be kept very clean and free of diseases. The inoculation room should be disinfected, free of air movement, and ideally equipped with a laminar flow cabinet. Contamination at this stage wastes the entire pasteurization effort, so hygiene is paramount.
+After pasteurization and cooling, bags must be transferred to the inoculation area which must be kept very clean and free of diseases. The inoculation room should be disinfected, free of air movement, and ideally equipped with a [[comparison-laminar-flow-hood-vs-fruiting-chamber]] cabinet. Contamination at this stage wastes the entire pasteurization effort, so hygiene is paramount.
 
 ## Adaptations for Disabilities
 
@@ -109,8 +109,10 @@ All three pasteurization methods have been performed by disabled trainees. The c
 
 ## See Also
 
+- [[pasteurization-in-mushroom-cultivation]]
+
 - [[mushroom-cultivation-disabilities-training-manual-overview]]
 - [[mushroom-pasteurization]]
 - [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
-- [[mushroom-cultivation-inoculation-methods]]
+- mushroom-cultivation-inoculation-methods
 - [[mushroom-substrates]]

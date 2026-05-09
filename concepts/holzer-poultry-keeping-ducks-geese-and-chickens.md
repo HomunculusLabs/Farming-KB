@@ -1,19 +1,20 @@
 ---
-title: Holzer Poultry Keeping Ducks Geese and Chickens
+title: Holzer holzer poultry keeping ducks geese and chickens Ducks Geese and Chickens
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Poultry Keeping: Ducks, Geese and Chickens
 
-Sepp Holzer keeps poultry extensively at the Krameterhof, with an emphasis on natural breeding, habitat creation, and bird conservation. This page expands on [[holzer-permaculture-landscape-design]] provides cavity nesters with hollow old trees
+[[comparison-sepp-holzer-vs-biodynamic]] keeps poultry extensively at the Krameterhof, with an emphasis on natural breeding, habitat creation, and bird conservation. This page expands on [[holzer-permaculture-landscape-design]] provides cavity nesters with hollow old trees
 - Varied nest box sizes and entrance holes prevent dominance by competitive species like great tits
-- Piles of brushwood and thick hedges provide winter insect habitat
-- Birds in a diverse permaculture system find enough food even in winter without supplemental feeding
+- Piles of brushwood and thick hedges provide winter [[hemenway-insectary-plants-and-beneficial-insects]]
+- Birds in a diverse permaculture system find enough food even in winter without [[savory-supplemental-feeding-and-winter-management]]
 
 ## Poultry Breeds and Natural Breeding
 
@@ -32,7 +33,7 @@ For poultry enclosures, Holzer plants thorny hedge barriers using:
 - Dog rose (Rosa canina) -- easy to cultivate, excellent medicinal plant, fruit rich in vitamin C, makes delicious jam and fruit tea
 - Japanese rose (Rosa rugosa) -- large red shiny rose hips, very tasty, corrugated leaves
 
-These hedges serve multiple functions: shelter from predators, food source (rose hips), beauty, fragrance, and [[holzer-pond-construction-and-aquaculture]], irrigation, and microclimate creation
+These hedges serve multiple functions: shelter from predators, food source (rose hips), beauty, fragrance, and [[holzer-pond-construction-and-aquaculture]], irrigation, and [[mollison-designers-microclimate-creation-frost-protection]]
 - Protective hedges produce rose hips for [[holzer-cattle-poultry-management]]
 - [[holzer-livestock-philosophy-paddock-system]]
 - [[holzer-beekeeping-and-honey-production]]
@@ -114,4 +115,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

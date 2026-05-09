@@ -1,5 +1,5 @@
 ---
-title: "Tree Daturas (Brugmansia): South American Ethnobotany"
+title: "Tree Daturas (Brugmansia): chiric-caspi-brunfelsia-south-american-hallucinogen Ethnobotany"
 created: "2026-04-17"
 updated: "2026-04-17"
 type: concept
@@ -15,7 +15,7 @@ Tree daturas (genus Brugmansia) are large, trumpet-flowered shrubs or small tree
 
 The genus Brugmansia comprises about seven species of shrubs or small trees native to the Andean highlands and surrounding regions of South America. The plants produce large, trumpet-shaped flowers that hang pendulously from the branches and are often intensely fragrant, especially in the evening. The flowers range in color from white to yellow, pink, orange, and red, depending on the species and variety.
 
-Tree daturas were formerly classified in the genus Datura but are now placed in the separate genus Brugmansia. The distinction is based primarily on growth habit: Brugmansia species are woody shrubs or trees, while Datura species are herbaceous annuals or short-lived perennials. Both genera belong to the nightshade family, Solanaceae, and share the characteristic tropane alkaloid chemistry.
+Tree daturas were formerly classified in the genus Datura but are now placed in the separate genus Brugmansia. The distinction is based primarily on growth habit: Brugmansia species are woody shrubs or trees, while Datura species are herbaceous annuals or short-lived perennials. Both genera belong to the nightshade family, Solanaceae, and share the characteristic tropane [[ergot-alkaloid-chemistry-history]].
 
 ## Indigenous Uses
 
@@ -29,7 +29,7 @@ The indigenous use of tree daturas spans a wide range of purposes, including div
 
 Like all members of the nightshade family, tree daturas contain tropane alkaloids, primarily scopolamine (hyoscine) and hyoscyamine, with atropine as a minor component. The alkaloid content varies considerably depending on the species, plant part, growing conditions, and time of harvest. The leaves and seeds typically contain the highest concentrations.
 
-The [[datura-metel-old-world-ethnobotany]] are primarily Old World species used in Asia and the Middle East, the tree daturas are predominantly New World species native to the Andean region.
+The [[datura-metel-old-world-ethnobotany]] are primarily [[datura-metel-old-world-ethnobotany]] species used in Asia and the Middle East, the tree daturas are predominantly New World species native to the Andean region.
 
 The cultural context of their use also differs. Old World datura use is characterized by relatively pragmatic applications — medicine, crime, and occasional recreational intoxication — while South American tree datura use is typically embedded in elaborate shamanic and ceremonial contexts. This difference parallels the broader pattern distinguishing New World from Old World hallucinogen use.
 
@@ -47,7 +47,7 @@ Despite these dangers, or perhaps because of them, tree daturas have maintained 
 
 Tree daturas have become popular ornamental plants in tropical and subtropical gardens worldwide, valued for their spectacular flowers and intoxicating fragrance. This ornamental cultivation has sometimes led to accidental poisonings when children or pets consume the flowers, leaves, or seeds.
 
-The spread of tree daturas beyond their native Andean range through horticultural trade represents an interesting example of how a traditionally sacred and dangerous plant can become widely available through commercial channels. Garden centers in many countries sell Brugmansia plants with little or no warning about their toxicity.
+The spread of tree daturas beyond their native Andean range through horticultural trade represents an interesting example of how a traditionally sacred and dangerous plant can become widely available through commercial channels. [[solomon-garden-centers-seedling-traps]] in many countries sell Brugmansia plants with little or no warning about their toxicity.
 
 ## Modern Research
 
@@ -65,9 +65,14 @@ Throughout the Andean region, from Colombia to Chile, various Brugmansia species
 
 Brugmansia species remain important in South American traditional medicine and shamanic practice, though their use carries significant risks due to the narrow margin between therapeutic and toxic doses of tropane alkaloids. Modern phytochemical research has confirmed the complexity of the alkaloid profiles across different Brugmansia species, with significant variation in the ratios of scopolamine, hyoscyamine, and other tropanes depending on species, plant part, and growing conditions.
 
-The plants have also attracted horticultural interest worldwide for their large, fragrant, trumpet-shaped flowers. Many Brugmansia species are now cultivated as ornamentals in tropical and subtropical gardens, and hybrid varieties have been developed for the commercial nursery trade.
+The plants have also attracted horticultural interest worldwide for their large, fragrant, trumpet-shaped flowers. Many Brugmansia species are now cultivated as ornamentals in tropical and subtropical gardens, and [[cervantes-hybrid-varieties-types]] have been developed for the commercial nursery trade.
 
 ## See Also
+
+- [[plate-tectonics]]
+
+- [[psilocybe-subyungensis-south-american-mesophytic-distribution]]
+- [[sananga-eye-medicine-amazonian-ethnobotany]]
 
 [[henbane-hyoscyamus-niger-ethnobotany]] — European henbane and its traditional uses.
 
@@ -93,4 +98,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

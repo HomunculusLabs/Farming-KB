@@ -1,5 +1,5 @@
 ---
-title: "Systemic Fungal Pathogens of Vertebrates - Ecology and Distribution"
+title: "Systemic bloomfield-fungal-pathogens-and-parasites of Vertebrates - Ecology and Distribution"
 created: 2026-04-26
 tags:
   - mycology
@@ -33,7 +33,7 @@ related to this order is the anamorph species [[blastomyces-dermatitidis]]**: Sp
 
 - **[[paracoccidioides-brasiliensis]]**: Seldom isolated except from
   infected humans, associated with moist soils in the humid,
-  forested areas of southern Mexico, Central America, and South
+  forested areas of southern Mexico, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], and South
   America east of the Andes and north of the Argentine pampas.
 
 - **Coccidioides immitis**: Occurs primarily in desert soils of the
@@ -45,7 +45,7 @@ related to this order is the anamorph species [[blastomyces-dermatitidis]]**: Sp
 
 Emmonsia crescens, recently shown through mating to be the anamorph
 of Ajellomyces crescens, a species closely related to the virulent
-Ajellomyces species, occurs in temperate and tropical soils. E. parva,
+Ajellomyces species, occurs in temperate and [[mollison-designers-tropical-soils-and-cation-exchange-management]]. E. parva,
 a species with no known teleomorph but confirmed by DNA-sequence
 analysis to be closely related to E. crescens, has a similar
 distribution. The conidia of these fungi may swell after inhalation
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

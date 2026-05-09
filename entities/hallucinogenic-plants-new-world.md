@@ -1,29 +1,8 @@
 ---
 
-title: Golden Guide — Hallucinogenic Plants of the New World
-created: 2026-04-12
-updated: 2026-04-12
-type: entity
-
-tags:
-- ethnobotany
-- plants
-- new-world
-- amazon
-- mesoamerica
-- species-profiles
-- old-world
-- plant-systems
-- species
-- ph
-
-sources:
-- raw/papers/a-golden-guide-to-hallucinogenic-plants.md
----
-
 # Hallucinogenic Plants of the New World
 
-Based on [[richard-evans-schultes-updated]]'s Golden Guide. The New World has far more hallucinogenic species in active cultural use (90+) than the Old World (15-20). This disparity is not explained by botanical distribution — Old World plants like Cannabis and Amanita have been largely abandoned for hallucinogenic use. See hallucinogenic plants new world for Old World species.
+Based on richard-evans-schultes-updated's Golden Guide. The New World has far more hallucinogenic species in active cultural use (90+) than the Old World (15-20). This disparity is not explained by botanical distribution — Old World plants like Cannabis and Amanita have been largely abandoned for hallucinogenic use. See hallucinogenic plants new world for Old World species.
 
 ---
 
@@ -68,13 +47,13 @@ Based on [[richard-evans-schultes-updated]]'s Golden Guide. The New World has fa
 
 ### Psilocybin Mushrooms — Psilocybe, Stropharia, Conocybe, Panaeolus
 - **Distribution**: Cosmopolitan; highest diversity in subtropical and tropical Americas
-- **Use**: Mesoamerican mushroom cult (teonanacatl — "flesh of the gods") documented from pre-Columbian times through present among Mazatec, Mixtec, Zapotec, Chatino, and other Oaxacan peoples. Richard Evans Schultes identified teonanacatl as a mushroom in 1938. See [[r-gordon-wasson]] for the famous 1955 Velada Maria Sabina experience.
-- **Species**: Psilocybe mexicana (Schultes's original identification), P. caerulescens, P. zapotecorum, P. cubensis, Stropharia cubensis, Conocybe cyanopus, Panaeolus sphinctrinus, among others
+- **Use**: Mesoamerican mushroom cult (teonanacatl — "flesh of the gods") documented from pre-Columbian times through present among Mazatec, Mixtec, Zapotec, Chatino, and other Oaxacan peoples. Richard [[richard-evans-schultes-updated]] identified teonanacatl as a mushroom in 1938. See [[r-gordon-wasson]] for the famous 1955 Velada Maria Sabina experience.
+- **Species**: [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] (Schultes's original identification), P. caerulescens, P. zapotecorum, P. cubensis, [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]], [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]], Panaeolus sphinctrinus, among others
 - **Chemistry**: Psilocybin (O-phosphoryl-4-hydroxy-N,N-dimethyltryptamine) and psilocin. Psilocybin is an acidic phosphoric acid ester — a completely new type of natural structure. First isolated from European P. semilanceata by [[albert-hofmann]] in 1958
 - **Effects**: Similar to LSD; colorful visual hallucinations. Dosage varies by species and preparation
 
 ### Fly Agaric — Amanita muscaria
-- **Distribution**: Boreal and temperate Northern Hemisphere; Siberia, North America, Europe
+- **Distribution**: Boreal and temperate Northern Hemisphere; Siberia, [[psilocybin-north-america-pacific-northwest]], Europe
 - **Use**: Used by Siberian tribes (Koryak, Kamchadal, Chukchi) — see hallucinogenic plants new world. Also used in Oaxaca, Mexico by Mazatec peoples. The Siberian and Mexican use are culturally independent, representing convergent discovery
 - **Chemistry**: Ibotenic acid, muscimol (muscazone). Not tryptamine-based — unique chemistry
 - **Effects**: Narcotic, intoxicating, inebriating. The dried mushroom is eaten or boiled in water to make an intoxicating beverage
@@ -126,44 +105,13 @@ Based on [[richard-evans-schultes-updated]]'s Golden Guide. The New World has fa
 - **Family**: Convolvulaceae
 - **Distribution**: Native to Mexican tropics; cultivated widely
 - **Use**: One of the most important Mesoamerican hallucinogens since pre-Columbian times. Aztec priests consumed seeds in rituals. Spanish chroniclers confused it with Datura. Still used by Oaxacan healers (curanderos). The name "ololiuqui" is Nahuatl, from "ololiuhqui" (round thing)
-- **Chemistry**: Ergine (d-lysergic acid amide), isoergine, chanoclavine, elymoclavine, lysergol. First identified as hallucinogenic morning glory in 1937 by Schultes; alkaloids identified by Hofmann in 1960 — a "sensational discovery" that these compounds previously known only from ergot fungus existed in plants
+- **Chemistry**: Ergine (d-lysergic acid amide), isoergine, chanoclavine, elymoclavine, lysergol. First identified as hallucinogenic [[golden-guide-morning-glory-and-ololiuqui]] in 1937 by Schultes; alkaloids identified by Hofmann in 1960 — a "sensational discovery" that these compounds previously known only from ergot fungus existed in plants
 
 ### Badoh Negro — Ipomoea violacea L.
 - **Family**: Convolvulaceae
 - **Distribution**: Mexican tropics; widely cultivated ornamental (Heavenly Blue, Pearly Gates varieties)
 - **Use**: Known to the Aztecs as "tlitliltzin" (black thing). Seeds used similarly to ololiuqui, often preferred by Zapotec curanderos
 - **Chemistry**: Same ergoline alkaloids as T. corymbosa but total alkaloid content is 5 times greater (0.06% vs 0.012% in T. corymbosa)
-
----
-
-## Lamiaceae
-
-### Salvia divinorum Epling et Jativa
-- **Family**: Lamiaceae (mint family)
-- **Distribution**: Endemic to Sierra Mazateca, Oaxaca, Mexico; found only in a few localities at 1000-1800 ft elevation
-- **Use**: Used by Mazatec curanderos for divination and healing. Called "ska María Pastora" (leaves of Mary the Shepherdess). Often used as a substitute when psilocybin mushrooms are unavailable. See [[salvia-divinorum]]
-- **Chemistry**: Salvinorin A (neoclerodane diterpene) — the first non-alkaloid, non-nitrogenous plant hallucinogen known (before cannabinoid mechanisms were fully understood). Not a tryptamine, ergoline, or tropane. Discovered as psychoactive in the 1960s by Wasson; chemical structure identified by Ortega et al. (1982); salvinorin A isolated by Valdes (1994)
-- **Cultivation**: Propagated vegetatively; rarely sets seed.极易 propagated from cuttings
-
----
-
-## Piperaceae
-
-### Jurema — Mimosa hostilis Benth.
-- **Synonyms**: Mimosa tenuiflora
-- **Distribution**: Northeast Brazil; also found in Central America
-- **Use**: Used in Brazilian northeast as "vinho de jurema" (jurema wine) for ceremonial purposes. Recent revival of use in ayahuasca analogs
-- **Chemistry**: DMT in root bark (up to 1%)
-
----
-
-## Beans and Seeds (Quinolizidine Alkaloids)
-
-### Mescal Bean — Sophora secundiflora (Ortega) Lagasca ex DC.
-- **Family**: Leguminosae
-- **Distribution**: Texas, New Mexico, northern Mexico
-- **Use**: Important in Plains Indian and southwestern US tribal ceremonies (peyote substitute in some cases). The "red bean" or "mescal bean" was used before peyote spread northward; the word "mescal" was originally applied to this bean, not the cactus
-- **Chemistry**: Cytisine (a toxic quinolizidine alkaloid). Though used ceremonially, its hallucinogenic properties are not well demonstrated; may have been used for its stimulant or purgative effects
 
 ---
 

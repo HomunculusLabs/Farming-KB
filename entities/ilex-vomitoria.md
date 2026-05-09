@@ -13,14 +13,14 @@ updated: 2026-05-08
 sources:
   - USDA NRCS (2024). Plant Profile: Ilex vomitoria. plants.usda.gov.
   - Edwards, A.L. & Bennett, B.C. (2005). "Diversity of use of Ilex vomitoria (Yaupon) by Native Americans." Economic Botany 59(3): 263–274.
-  - Duke, J.A. (2002). Handbook of Medicinal Herbs. CRC Press.
+  - Duke, J.A. (2002). Handbook of [[permaculture-plants-medicinal-herbs-healing]]. CRC Press.
   - Taylor, L. (2005). The Healing Power of Rainforest Herbs. Square One Publishers.
   - Dirr, M.A. (2009). Manual of Woody Landscape Plants. Stipes Publishing.
 ---
 
 ## Overview
 
-**Ilex vomitoria**, commonly known as yaupon, is an evergreen shrub or small tree in the family Aquifoliaceae native to the southeastern United States. It is the only North American plant species native to the continent that contains significant concentrations of caffeine.
+**Ilex vomitoria**, commonly known as yaupon, is an evergreen shrub or small tree in the family Aquifoliaceae native to the southeastern [[dmt-containing-plants-united-states-halpern]]. It is the only [[growing-gourmet-north-american-reishi-species]] plant species native to the continent that contains significant concentrations of caffeine.
 
 The species ranges from coastal Virginia south to central Florida and west to eastern Texas and southeastern Oklahoma. Yaupon is remarkably adaptable, thriving in coastal dunes, pine flatwoods, hardwood hammocks, and inland sandy soils.
 
@@ -64,9 +64,9 @@ Yaupon provides important cover and food for wildlife. The persistent red fruits
 
 Yaupon leaves and young stems contain caffeine, theobromine, and theophylline in ratios similar to those found in yerba mate (*Ilex paraguariensis*) and guayusa (*Ilex guayusa*).
 
-Caffeine content ranges from 0.8–1.5% dry weight, comparable to commercial tea (*Camellia sinensis*) and exceeding some yerba mate preparations. Theobromine content is approximately 0.2–0.3%.
+Caffeine content ranges from 0.8–1.5% dry weight, comparable to commercial tea (*[[camellia-sinensis-entity]]*) and exceeding some yerba mate preparations. Theobromine content is approximately 0.2–0.3%.
 
-Caffeine concentrations vary with harvest timing, leaf age, and processing method. Young leaves and apical shoots contain the highest concentrations.
+Caffeine concentrations vary with [[cannabis-harvest-timing-visual-cues]], leaf age, and processing method. Young leaves and apical shoots contain the highest concentrations.
 
 The leaves also contain polyphenolic compounds including chlorogenic acid, rutin, and various flavonoids. These contribute antioxidant activity and are responsible for the tea's astringent flavor.
 
@@ -100,7 +100,7 @@ The species tolerates severe pruning, shearing, and neglect. It is highly resist
 
 Numerous cultivars exist including 'Schillings Dwarf' (compact, 1 m), 'Stokes Dwarf' (dense, low), 'Will Fleming' (columnar), 'Pendula' (weeping), and 'Shadow's Female' (heavy fruiting).
 
-Yaupon's salt tolerance makes it particularly valuable for coastal landscaping, where few evergreen broadleaf shrubs perform reliably.
+Yaupon's [[fungal-salt-tolerance-and-ion-homeostasis]] makes it particularly valuable for coastal landscaping, where few evergreen broadleaf shrubs perform reliably.
 
 ## See Also
 
@@ -110,5 +110,5 @@ Yaupon's salt tolerance makes it particularly valuable for coastal landscaping, 
 - [[kalmia-latifolia]]
 - [[gaylussacia-baccata]]
 - [[picea-abies]]
-- [[arctostaphylos-uva-ursi]]
+- arctostaphylos-uva-ursi
 - [[vaccinium-myrtillus]]

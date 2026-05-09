@@ -43,7 +43,7 @@ psychoactive species include:
   and Central Europe, relatively easy to identify by its wavy
   brown cap. It is very closely related to P. azurescens and
   P. bohemica, both also very powerful hallucinogens.
-- Psilocybe semilanceata (Liberty Cap) — cosmopolitan
+- [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] (Liberty Cap) — cosmopolitan
   except Mexico, the most common psychoactive mushroom in
   the Psilocybe genus. It may have been used in Central
   Europe for about 12,000 years.
@@ -79,7 +79,7 @@ Psilocybe semilanceata is the most common psychoactive mushroom
 in the Psilocybe genus. It is possible that this fungus has been
 used for psychoactive purposes in Central Europe for about 12,000
 years. Earlier, it was used as a hallucinogen by the Alpen nomads
-and has also been used in European witchcraft. The species is
+and has also been used in [[harner-european-witchcraft-hallucinogens]]. The species is
 cosmopolitan except for Mexico.
 
 ## Archaeological Evidence: Mushroom Stones
@@ -91,7 +91,7 @@ from the first millennium B.C. Although the majority are
 Guatemalan, some have been unearthed in El Salvador and Honduras
 and others as far north as Veracruz and Guerrero in Mexico. These
 artifacts indicate the great antiquity of a sophisticated sacred
-use of hallucinogenic mushrooms.
+use of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]].
 
 The Xochipilli statue, Aztec Prince of Flowers, discovered on the
 slopes of Mt. Popocatepetl, is engraved with stylized flowers
@@ -122,10 +122,14 @@ between 0.2 and 0.6% psilocybine in dried material, with P.
 cyanescens reaching approximately 1% total tryptamines. The
 mushrooms cause both visual and auditory hallucinations.
 
-## Related Topics
+## Related
+
+- [[plants-of-the-gods-nutmeg-myristica]]
+- [[plants-of-the-gods-mushroom-stone-artifacts]]
+- [[plants-of-the-gods-conocybe-psychoactive-mushrooms]] Topics
 
 - [[plants-of-the-gods-chemical-structures-hallucinogens]] —
-  chemical structures of psilocybin and psilocin
+  [[plants-of-the-gods-chemical-structures-hallucinogens]] of psilocybin and psilocin
 - [[plants-of-the-gods-claviceps-ergot-alkaloids]] — ergot,
-  which shares alkaloid chemistry with morning glories
+  which shares [[ergot-alkaloid-chemistry-history]] with [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]]
 - [[plants-of-the-gods-datura-species-toloache]]

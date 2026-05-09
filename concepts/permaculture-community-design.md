@@ -1,6 +1,6 @@
 ---
 
-title: Permaculture Community Design
+title: urban-permaculture-community-building-social-design Design
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -21,7 +21,7 @@ sources:
 
 # Permaculture Community Design
 
-Practical framework for designing and organizing permaculture communities, from William Ozier Williams' PDC course. Covers governance, communication, and social structures alongside physical design. See [[permaculture-design-methods]] for the technical design process and [[permaculture-design]] for zone/sector basics.
+Practical framework for designing and organizing permaculture communities, from William Ozier Williams' PDC course. Covers governance, communication, and social structures alongside physical design. See [[permaculture-design-methods]] for the technical [[hemenway-garden-design-process-observation-and-visioning]] and [[permaculture-design]] for zone/sector basics.
 
 ## The Ten-Step Community Building Process
 
@@ -31,7 +31,7 @@ Every community needs a clearly articulated shared purpose. This is not a detail
 
 ### 2. Create Organizational Mandala
 
-The community organization mandala is a circular diagram where each "lobe" represents a functional domain of the community. Unlike hierarchical org charts, the mandala is a living pattern that can scale:
+The [[savory-community-organization-and-shared-grazing]] mandala is a circular diagram where each "lobe" represents a functional domain of the community. Unlike hierarchical org charts, the mandala is a living pattern that can scale:
 
 - Each lobe represents a function (food production, housing, governance, education, etc.)
 - Each lobe is empowered with a mission, function, and purpose
@@ -113,8 +113,8 @@ Arcosanti, Auroville, Damanhur, The Farm, Findhorn -- all studied as models with
 ## Links
 
 - [[permaculture-design-methods]] -- Technical design process
-- [[permaculture-design]] -- Zone/sector analysis
-- [[permaculture-principles]] -- Ethics and principles
+- [[permaculture-design]] -- Zone/[[mollison-designers-sector-analysis-wind-sun-fire]]
+- [[permaculture-principles]] -- [[williams-pdc-permaculture-ethics-and-principles-in-practice]]
 - [[permaculture-zones-in-practice]] -- Zone application
 - [[seasonal-planning]] -- Implementation timeline
 

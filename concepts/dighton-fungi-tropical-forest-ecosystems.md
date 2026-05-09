@@ -1,5 +1,5 @@
 ---
-title: "Fungi in Tropical Forest Ecosystems"
+title: "Fungi in arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration Ecosystems"
 created: 2026-04-26
 tags:
   - mycology
@@ -18,16 +18,16 @@ type: concept
 
 ## Overview
 
-Tropical forests harbor exceptionally diverse fungal communities that
-play central roles in nutrient cycling, organic matter decomposition,
+Tropical forests harbor exceptionally diverse [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] that
+play central [[dighton-fungal-roles-in-nutrient-cycling]] cycling, organic matter decomposition,
 and ecosystem stability. With high plant biomass, continuous litter
 input, and warm humid conditions, tropical forest ecosystems present
 unique opportunities and challenges for fungal activity. Fungi in these
 systems are critical mediators of fungal-decomposition|decomposition
-and [[fungal-mineral-nutrient-immobilization]].
+and fungal-mineral-nutrient-immobilization.
 Fungi represent significant proportions of extractable soil nutrients:
 22.2% of phosphorus and 23.6% of calcium are contained in fungal
-biomass in wet tropical soils (Lodge, 1993).
+biomass in wet [[mollison-designers-tropical-soils-and-cation-exchange-management]] (Lodge, 1993).
 
 ## Seasonal Dynamics
 
@@ -69,10 +69,10 @@ steeper slopes, preventing soil erosion during high rainfall periods.
 
 ## Nutrient Translocation
 
-Basidiomycete fungi that form rhizomorphs and are associated with
+[[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] that form rhizomorphs and are associated with
 decomposing wood in tropical forests have the ability to translocate
 nutrients from decomposed leaf litter to freshly fallen leaf litter,
-improving resource quality by lowering the C:nutrient ratio and
+improving [[fungal-decomposition-resource-quality-determinants]] by lowering the C:nutrient ratio and
 enhancing decomposition rates. Lodge demonstrated that phosphorus
 content of recently fallen leaf litter could increase by 120 to 140%
 during the first 6 weeks of decomposition. Similarly, nitrogen could

@@ -1,5 +1,5 @@
 ---
-title: Companion Cultivation of Mushrooms with Garden Vegetables
+title: Companion companion cultivation of mushrooms with garden vegetables with Garden Vegetables
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -8,11 +8,11 @@ sources:
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 ---
 
-**Source:** Mycelium Running (Paul Stamets, Ch. 7) | **Updated:** 2026-04-18
+**Source:** [[woodlovers-mycelium-running-pathway-technique]] (Paul Stamets, Ch. 7) | **Updated:** 2026-04-18
 
 ## Overview
 
-Garden vegetables benefit from the activities of both saprophytic and mycorrhizal mushrooms. Saprophytic mushrooms decompose organic matter, recycle nutrients, and create soil structure. Mycorrhizal fungi extend root systems, improve water uptake, and protect against disease. See also [[antiviral-properties-of-mushrooms]].
+Garden vegetables benefit from the activities of both saprophytic and mycorrhizal mushrooms. [[growing-gourmet-saprophytic-mushrooms-decomposers]] decompose [[hamilton-composting-and-organic-matter-management]], recycle nutrients, and create soil structure. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] extend root systems, improve water uptake, and protect against disease. See also antiviral-properties-of-mushrooms.
 
 ## The Mycelial Wave Method
 
@@ -23,7 +23,7 @@ The preferred method for projecting mycelium across an expansive landscape:
 4. Once a mycelial wave begins, cellular momentum crosses inhospitable barriers
 5. You can steer mycelium through an ecosystem by incorporating its favored debris into your landscape design
 
-## Garden Giant (Stropharia rugoso-annulata) [[king-stropharia-wine-cap-cultivation]]
+## Garden Giant (Stropharia rugoso-annulata) king-stropharia-wine-cap-cultivation
 - vitamin-d-from-sun-exposed-mushrooms
 - [[medicinal-mushroom-extraction-preparation]]
 - mycorestoration
@@ -106,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

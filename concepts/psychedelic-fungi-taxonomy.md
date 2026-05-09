@@ -1,7 +1,7 @@
 ---
 title: Psychedelic Fungi Taxonomy
 created: 2026-04-28
-tags: [[mycology, taxonomy, chemistry, ethnobotany]
+tags: [mycology, taxonomy, chemistry, ethnobotany]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/mckenna_t-food_of_the_gods.md]
@@ -10,111 +10,91 @@ type: concept
 
 # Psychedelic Fungi Taxonomy
 
-Psychedelic fungi encompass a diverse group of mushroom-forming species that
-produce psychoactive tryptamine compounds, primarily psilocybin and psilocin.
-These fungi are distributed across multiple genera within the order
-Agaricales and have evolved their psychoactive properties independently on
-several occasions. The taxonomy of psychedelic fungi has been complicated
-by their morphological similarity to non-psychoactive species and by
-frequent revisions as molecular phylogenetic methods have clarified
-evolutionary relationships within this group.
+Psychedelic fungi encompass a diverse group of mushroom-forming species
+that produce psychoactive tryptamine compounds, primarily psilocybin
+and psilocin. These fungi are distributed across multiple genera within
+the order Agaricales and have evolved their psychoactive properties
+independently on several occasions. The taxonomy has been complicated
+by morphological similarity to non-psychoactive species and by frequent
+revisions as molecular phylogenetic methods have clarified evolutionary
+relationships.
 
 ## Psilocybe and Related Genera
 
-The genus Psilocybe is the largest and best-known group of psychedelic
-fungi, containing approximately 200 described species. Within Psilocybe,
-species have historically been divided into two main sections based on
-morphology and habitat. Section Psilocybe includes species that typically
-have dark-spored prints and grow on dung or enriched soils in tropical and
-subtropical regions. Section Cyanescens includes species with hygrophanous
-caps that change color when drying and typically grow on woody debris or
-in grasslands in temperate regions.
+The genus *Psilocybe* is the largest group of psychedelic fungi, with
+approximately 200 described species. Within *Psilocybe*, species have
+historically been divided into two main sections:
 
-Molecular phylogenetic studies have revealed that Psilocybe, as
-traditionally defined, is not monophyletic. Some species previously placed
-in Psilocybe have been transferred to other genera based on genetic
-evidence. The genus Deconica was resurrected to accommodate non-bluing
-species that were previously classified in Psilocybe but do not produce
-psilocybin. This taxonomic revision has improved the classification of
-psychedelic fungi by aligning taxonomy with evolutionary relationships
-rather than superficial morphological similarity.
+- **Section Psilocybe**: Dark-spored species growing on dung or enriched
+  soils in tropical and subtropical regions.
+- **Section Cyanescens**: Species with hygrophanous caps, typically
+  growing on woody debris or in temperate grasslands.
+
+Molecular phylogenetic studies revealed that *Psilocybe*, as
+traditionally defined, is not monophyletic. Some species have been
+transferred to other genera based on genetic evidence. The genus
+*Deconica* was resurrected to accommodate non-bluing species previously
+classified in *Psilocybe* that do not produce psilocybin. This revision
+improved classification by aligning taxonomy with evolutionary
+relationships. See [[psilocybin-mushrooms-biology]] for details on the
+biology and chemistry of these organisms.
 
 ## Other Psychoactive Genera
 
-Several genera outside of Psilocybe contain species that produce psilocybin
-or related psychoactive compounds. Gymnopilus, a genus of wood-inhabiting
-fungi, includes several species that contain psilocybin and are commonly
-known as "big laughing gym" mushrooms. Panaeolus species, particularly
-Panaeolus cyanescens (blue meanies), are potent psychedelic mushrooms
-found in tropical and subtropical pastures worldwide. Conocybe and Inocybe
-genera also contain psilocybin-producing species, though many of these
-are difficult to identify safely due to their small size and similarity
-to toxic lookalike species.
+Several genera outside *Psilocybe* contain psilocybin-producing species:
 
-The genus Amanita contains species that produce ibotenic acid and
-muscimol rather than psilocybin, producing a qualitatively different
-psychoactive experience. Amanita muscaria (fly agaric) and Amanita
-pantherina are the most well-known species in this group. Their
-chemistry, effects, and cultural significance are distinct from those
-of the psilocybin-containing fungi and they are generally classified
-separately in discussions of psychoactive mushrooms despite their
-shared cultural context as entheogenic fungi.
+- **Gymnopilus**: Wood-inhabiting fungi including species known as
+  "big laughing gym" mushrooms.
+- **Panaeolus**: *[[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]* (blue meanies) are potent
+  species found in tropical and subtropical pastures worldwide.
+- **Conocybe** and **Inocybe**: Contain psilocybin-producing species
+  difficult to identify safely due to similarity to toxic lookalikes.
+
+The genus *Amanita* produces ibotenic acid and muscimol rather than
+psilocybin, yielding a qualitatively different experience. *Amanita
+muscaria* (fly agaric) and *A. pantherina* are well-known. Their
+chemistry, effects, and [[ethnomycology-cultural-significance-sacred-fungi]] are distinct from
+psilocybin-containing fungi.
 
 ## Identification Challenges
 
-Accurate identification of psychedelic fungi is essential for safety,
-as several deadly poisonous species resemble psilocybin mushrooms and
-grow in similar habitats. Species of Galerina, particularly Galerina
-marginata, contain lethal amatoxins identical to those found in death
-cap mushrooms and can be fatal if consumed. Several Inocybe species
-contain dangerous levels of muscarine. The small brown mushrooms of the
-genus Conocybe that produce psilocybin are easily confused with
-non-psychoactive but potentially toxic species in the same genus.
+Accurate identification is essential for safety. Several deadly
+poisonous species resemble [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]. *Galerina marginata*
+contains lethal amatoxins identical to those in death cap mushrooms.
+Several *Inocybe* species contain dangerous levels of muscarine.
 
-Key identification features for Psilocybe species include the
-bluing reaction (many but not all psilocybin mushrooms develop blue
-bruising when damaged), spore print color (typically dark purple-brown
-to nearly black), the presence of a separable gelatinous pellicle on the
-cap, and microscopic features of the spores and cystidia. However, no
-single feature is reliable for distinguishing all psychoactive from
-non-psychoactive species, and accurate identification requires
-familiarity with the specific species known to occur in a given region
-and careful attention to multiple diagnostic characters simultaneously.
+Key identification features for *Psilocybe* include the [[field-guide-psilocybin-bluing-reaction-identification]],
+dark purple-brown to nearly black spore prints, a separable gelatinous
+pellicle on the cap, and microscopic features of spores and cystidia.
+No single feature reliably distinguishes all psychoactive from
+non-psychoactive species. Accurate identification requires familiarity
+with local species and attention to multiple diagnostic characters.
 
 ## Geographic Distribution
 
 Psychedelic fungi are found on every continent except Antarctica. The
 highest species diversity occurs in tropical and subtropical regions,
-particularly in Central and South America, Southeast Asia, and
-sub-Saharan Africa. Temperate regions also support significant
-diversity, with notable concentrations of species in the Pacific
-Northwest of North America, Western Europe, and Australia. Many species
-have been introduced to new regions through human activity, particularly
-Psilocybe cubensis, which now has a pantropical distribution likely
-linked to cattle ranching and the movement of livestock between
-continents over the past several centuries.
+particularly Central and South America, Southeast Asia, and sub-Saharan
+Africa. Temperate regions also support significant diversity, with
+notable concentrations in the Pacific Northwest, Western Europe, and
+Australia. Many species have been introduced through human activity.
 
-## Molecular Phylogenetics and Classification
+## Molecular Phylogenetics
 
-Molecular phylogenetic studies using DNA sequencing have revolutionized
-the taxonomy of psychedelic fungi. Multi-locus sequence analyses have
-revealed that psilocybin production has evolved independently at least
-four times within the Agaricales, in the lineages leading to Psilocybe,
-Gymnopilus, Panaeolus, and Inocybe. This repeated evolution of the same
-biochemical pathway in unrelated fungal groups is strong evidence that
-psilocybin production confers a selective advantage, though the nature
-of this advantage remains unclear and is the subject of ongoing
-scientific investigation and debate.
+DNA sequencing has revolutionized psychedelic fungi taxonomy. Multi-locus
+analyses reveal that [[gottlieb-psilocybin-production-extraction-methods]] evolved independently at
+least four times within the Agaricales, in lineages leading to
+*Psilocybe*, *Gymnopilus*, *Panaeolus*, and *Inocybe*. This repeated
+evolution of the same pathway is strong evidence that psilocybin
+production confers a selective advantage, though the nature of this
+advantage remains under investigation.
 
-The horizontal gene transfer hypothesis for the origin of the psilocybin
-biosynthetic pathway is supported by the observation that the genes are
-clustered in the genome, a pattern more typical of bacterial secondary
-metabolite pathways than of fungal ones. The donor organism has not been
-definitively identified, but the compact genetic organization of the
-psilocybin gene cluster suggests acquisition from a bacterial source
-followed by integration into the fungal genome. This genetic insight has
-practical implications for both taxonomy and the biotechnological
-production of psilocybin and related compounds.
+The horizontal gene transfer hypothesis is supported by the compact
+genetic organization of the psilocybin gene cluster, a pattern more
+typical of bacterial [[fungal-elicitors-enhanced-secondary-metabolite-production]] pathways. This insight has
+practical implications for both taxonomy and biotechnological production
+of psilocybin and related compounds. See [[fungal-biodiversity]] for
+broader context on fungal evolutionary patterns.
 
 ## See Also
 

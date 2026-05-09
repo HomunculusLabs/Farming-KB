@@ -1,11 +1,12 @@
 ---
-title: "How do I graft fruit trees in a home orchard?"
+title: "How do I query how do i graft fruit trees in a home orchard trees in a home orchard?"
 created: 2026-04-28
 tags: [query, grafting, fruit-trees, propagation]
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 type: query
 ---
 
@@ -13,9 +14,9 @@ type: query
 
 ## Short Answer
 
-Grafting fruit trees means joining a desired scion variety onto a compatible root system so the two tissues heal into one plant.
+[[holzer-grafting-fruit-forest]] trees means joining a desired scion variety onto a compatible root system so the two tissues heal into one plant.
 For a home orchard, the most reliable path is to learn one or two simple cuts, work during the right season, keep cambium layers aligned, and protect the union until callus forms.
-The core technique is covered in [[grafting-fruit-trees]], while broader propagation context appears in [[mollison-designers-grafting-fruit-tree-propagation]] frames grafting as a way to preserve useful varieties across generations.
+The core technique is covered in [[grafting-fruit-trees]], while broader propagation context appears in mollison-designers-grafting-fruit-tree-propagation frames grafting as a way to preserve useful varieties across generations.
 The page [[hamilton-grafting-budding-techniques]] is useful because budding and grafting both depend on living cambium contact.
 The comparison page [[fruit-tree-grafting-guide]].
 
@@ -42,7 +43,7 @@ Remove shoots that grow from below the graft so the rootstock does not outcompet
 
 Grafting lets a small orchard hold more diversity than tree spacing alone would allow.
 A single established tree can sometimes be top-worked to carry several compatible varieties.
-This can improve pollination, stretch harvest timing, and preserve rare cultivars.
+This can improve pollination, stretch [[cannabis-harvest-timing-visual-cues]], and preserve rare cultivars.
 The permaculture treatment in [[mollison-designers-grafting-and-budding-fruit-trees]] treats grafting as a tool for matching plants to place.
 This is different from buying random nursery trees and hoping each one fits the site.
 Grafting gives you more control over cultivar, structure, and long-term function.

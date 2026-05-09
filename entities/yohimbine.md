@@ -15,7 +15,7 @@ sources:
   - Tam, S.W. et al. (2001). "Yohimbine: A clinical review." Pharmacology & Therapeutics, 91(3), 215–243.
   - Andrianne, R. et al. (1988). "Yohimbine and erectile dysfunction." British Journal of Urology, 62(4), 362–365.
   - Fontenot, M.B. et al. (2003). "Yohimbine effects on anxiety in humans." Psychopharmacology, 170(4), 418–425.
-  - Corazza, O. et al. (2014). "Adverse effects of yohimbine-containing products." Drug Testing and Analysis, 6(6), 578–582.
+  - Corazza, O. et al. (2014). "[[blesching-cannabis-safety-adverse-effects-evidence]] of yohimbine-containing products." Drug Testing and Analysis, 6(6), 578–582.
   - Fraser, G.L. (2011). "Revisiting yohimbine pharmacology." CNS Drug Reviews, 17(3), 190–197.created: 2026-05-07
 
 created: 2026-05-07
@@ -51,7 +51,7 @@ This disinhibition of noradrenergic transmission produces effects across multipl
 - **Adrenal:** Increased adrenal medullary catecholamine release elevates heart rate and blood pressure.
 - **Serotonergic:** Weak 5-HT₁A receptor antagonism contributes to anxiogenic effects.
 
-**Receptor binding profile:**
+**[[tihkal-receptor-binding-serotonin]] profile:**
 - α₂-adrenergic: Kᵢ ≈ 1–10 nM (potent antagonist)
 - α₁-adrenergic: Kᵢ ≈ 100–1000 nM (weak antagonist)
 - 5-HT₁A: Kᵢ ≈ 200–500 nM (weak antagonist)
@@ -68,9 +68,9 @@ This disinhibition of noradrenergic transmission produces effects across multipl
 
 **Physical effects:** Increased heart rate (10–20 bpm), elevated blood pressure, mild tremor, sweating, flushing, piloerection (goosebumps), and genital vasodilation. Some users report increased salivation and mild nausea at higher doses.
 
-**Psychological effects:** Heightened alertness, mild euphoria, increased libido, and sensory amplification. At moderate doses, anxiogenic effects become prominent — restlessness, anxiety, and in some cases panic attacks.
+**[[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]]:** Heightened alertness, mild euphoria, increased libido, and sensory amplification. At moderate doses, anxiogenic effects become prominent — restlessness, anxiety, and in some cases panic attacks.
 
-**Adverse effects:** Anxiety, agitation, tachycardia, hypertension, headache, dizziness, insomnia, and gastrointestinal distress. At doses above 30 mg, severe reactions including hypertensive crisis and psychosis have been documented. The compound has a narrow therapeutic index.
+**Adverse effects:** Anxiety, agitation, tachycardia, hypertension, headache, dizziness, insomnia, and gastrointestinal distress. At doses above 30 mg, severe reactions including hypertensive crisis and psychosis have been documented. The compound has a narrow [[cannabis-therapeutic-index-overview]].
 
 ## History
 
@@ -78,7 +78,7 @@ Yohimbe bark has been used for centuries in West African traditional medicine, p
 
 The active alkaloid was first isolated in 1896 by the German chemist Ludwig Spiegel. Yohimbine hydrochloride was approved by the FDA in the 1930s as a treatment for organic erectile dysfunction. It was one of the few pharmacological options for the condition before sildenafil (Viagra) was introduced in 1998.
 
-Today, yohimbine prescription use has declined significantly due to the superior efficacy and safety profile of PDE5 inhibitors. However, it remains widely available as an over-the-counter dietary supplement and is popular in fitness communities as a purported fat-burning agent, despite limited clinical evidence for this application.
+Today, yohimbine prescription use has declined significantly due to the superior efficacy and [[cannabis-safety-profile-and-overdose-risk]] of PDE5 inhibitors. However, it remains widely available as an over-the-counter dietary supplement and is popular in fitness communities as a purported fat-burning agent, despite limited clinical evidence for this application.
 
 ## Legal Status
 
@@ -99,7 +99,7 @@ Yohimbine belongs to the yohimbane class of indole alkaloids, a structural famil
 
 ## Toxicology
 
-Yohimbine has a relatively narrow therapeutic window. Toxic doses produce excessive sympathetic activation that can manifest as severe hypertension (systolic >180 mmHg), tachycardia, palpitations, and anxiety attacks. Case reports document seizures and hallucinations at doses exceeding 40 mg in sensitive individuals.
+Yohimbine has a relatively narrow [[blesching-cannabis-therapeutic-window-dosing]]. Toxic doses produce excessive sympathetic activation that can manifest as severe hypertension (systolic >180 mmHg), tachycardia, palpitations, and anxiety attacks. Case reports document seizures and hallucinations at doses exceeding 40 mg in sensitive individuals.
 
 Contraindications include cardiovascular disease, hypertension, anxiety disorders, bipolar disorder, and concurrent use of MAO inhibitors or tricyclic antidepressants. The compound should not be combined with other stimulants or sympathomimetic drugs due to additive cardiovascular effects.
 

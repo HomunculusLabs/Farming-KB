@@ -42,25 +42,25 @@ In a northern forest, researchers found that of 365 kg of calcium in one hectare
 
 ## Sheet Mulching: Instant Soil Building
 
-Sheet mulching (also called lasagna gardening) is the fastest method to convert barren ground into fertile soil without tilling. The process layers organic materials directly on top of existing soil or lawn: first a weed-suppressing layer of overlapping cardboard or newspaper (4-6 sheets, thoroughly wetted), followed by alternating 2-3 inch layers of nitrogen-rich material (compost, manure, coffee grounds) and 4-6 inch layers of carbon-rich material (leaves, straw, wood chips). Within months, worms and soil organisms break down the layers into rich, dark loam. Sheet mulching can be planted into immediately by punching holes through the cardboard and filling with compost. This technique preserves existing soil structure and fungal networks that tilling would destroy.
+Sheet mulching (also called lasagna gardening) is the fastest method to convert barren ground into fertile soil without tilling. The process layers organic materials directly on top of existing soil or lawn: first a weed-suppressing layer of overlapping cardboard or newspaper (4-6 sheets, thoroughly wetted), followed by alternating 2-3 inch layers of nitrogen-rich material (compost, manure, [[oyster-mushroom-coffee-grounds-cultivation]]) and 4-6 inch layers of carbon-rich material (leaves, straw, wood chips). Within months, worms and soil organisms break down the layers into rich, dark loam. Sheet mulching can be planted into immediately by punching holes through the cardboard and filling with compost. This technique preserves existing soil structure and fungal networks that tilling would destroy.
 
 ## Building Soil Life
 
 ### Cover Crops
 
-Cover crops are one of the primary tools for building living soil. They serve multiple functions:
+[[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil]] one of the primary tools for [[soil-food-web-and-building-living-soil]] soil. They serve multiple functions:
 
-- **Nitrogen fixation**: Legumes and certain other species (alder, Russian olive, ceanothus) host symbiotic bacteria that fix atmospheric nitrogen
+- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]**: Legumes and certain other species (alder, Russian olive, ceanothus) host symbiotic bacteria that fix atmospheric nitrogen
 - **Carbon addition**: Grasses and non-legumes add carbon and build soil structure. Soil organisms consume 10 to 50 times more carbon than nitrogen, so cover crop mixes should be 60-90 percent non-legume
 - **Mineral mining**: Deep-rooted species like chicory bring potassium, sulfur, calcium, and magnesium from subsoil to the surface
 - **Soil opening**: Rapeseed, mustard, daikon radish, and alfalfa punch through compacted subsoil
-- **Insect attraction**: Buckwheat, phacelia, fava beans, clovers, and vetch blossoms attract beneficial insects
+- **Insect attraction**: Buckwheat, phacelia, fava beans, clovers, and vetch blossoms attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 
 A blend of 5 to 10 cover crop varieties can build humus, add nitrogen, mine minerals, break up heavy soil, and attract helpful insects simultaneously. Diversity in cover crops means diversity in soil life, which suppresses disease and boosts plant growth.
 
 ### The Wet/Dry Cycle and Root Dieback
 
-Roots are strongly influenced by wet/dry cycles. After heavy rain, root hairs die from lack of oxygen. As soil dries, air flows in and new root hairs surge into pockets of nutrients. During this cycle, plants shed huge masses of roots constantly -- hourly, daily -- not just in fall. This decaying organic matter builds humus deep in the soil -- something no plow can ever achieve. Many cover crops send roots 3 to 6 feet deep.
+Roots are strongly influenced by wet/dry cycles. After heavy rain, root hairs die from lack of oxygen. As soil dries, air flows in and new root hairs surge into pockets of nutrients. During this cycle, plants shed huge masses of roots constantly -- hourly, daily -- not just in fall. This decaying [[hamilton-composting-and-organic-matter-management]] builds humus deep in the soil -- something no plow can ever achieve. Many cover crops send roots 3 to 6 feet deep.
 
 Interlocked loops like this reveal nature's complexity: the wet/dry cycle drives root-dieback, which in turn tempers the rhythm of plant and soil organism growth. The thirsty plants themselves, as they consume soil water, alter the wet/dry cycle. Wheels within wheels spin as humus, soil life, and plants all grow together.
 
@@ -77,7 +77,7 @@ A living, fertile soil is the cornerstone of a sustainable garden. By packing th
 ## See Also
 
 - [[gaias-garden-cover-crops-soil-building]]
-- [[hemenway-soil-food-web-garden]]
+- hemenway-soil-food-web-garden
 - [[teaming-with-microbes-mulch-and-soil-food-web]]
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
 - [[fungal-diversity-leaf-litter-coarse-woody-debris]]

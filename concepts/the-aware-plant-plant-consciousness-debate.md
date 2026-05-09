@@ -1,5 +1,5 @@
 ---
-title: "The Aware Plant: Plant Consciousness Debate"
+title: "The Aware Plant: Plant the-aware-plant-plant-consciousness-debate-chamovitz"
 created: 2026-04-28
 tags: [plant-biology, consciousness, philosophy-of-mind, plant-intelligence]
 date: 2026-04-28
@@ -29,7 +29,7 @@ dangerous anthropomorphism that misrepresents both the science and the
 philosophy of mind.
 
 Chamovitz takes a carefully measured position. He acknowledges the
-remarkable sophistication of plant sensory biology, but he is cautious about
+remarkable sophistication of plant [[plant-sensory-biology-smell-touch-hearing]], but he is cautious about
 extending the language of awareness and consciousness to organisms that lack
 nervous systems, brains, or any known analogue of cognitive processing. His
 view is that plants are biologically sophisticated in ways that have been
@@ -71,7 +71,7 @@ complexity. Plants have no neurons, no synapses, no ganglia, no brain.
 
 Chamovitz emphasises that the information-processing mechanisms in plants,
 while sophisticated, are fundamentally different from neural computation.
-Plant signalling relies on diffusion of chemical signals, slow ion fluxes,
+Plant signalling relies on diffusion of [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]], slow ion fluxes,
 and gene expression changes, processes that operate on timescales of seconds
 to hours. Neural signalling operates on timescales of milliseconds. The
 bandwidth and speed of plant information processing are orders of magnitude
@@ -137,6 +137,8 @@ sophisticated organisms worthy of deeper scientific and ethical
 consideration.
 
 ## See Also
+
+- [[the-aware-plant-plant-consciousness-debate-chamovitz]]
 
 - [[plant-olfaction-what-a-plant-smells]]
 - [[plant-response-to-sound-and-vibration]]

@@ -1,5 +1,5 @@
 ---
-title: Salad Vegetables Organic Growing
+title: hamilton salad vegetables organic Organic Growing
 created: 2026-04-28
 tags:
   - organic-gardening
@@ -20,14 +20,14 @@ Growing your own salad vegetables is particularly beneficial because
 their quality and flavor depends on freshness. They take up
 comparatively little space and most can be grown all year-round if
 some protection against frost is provided. Salad crops are fast-growing
-and are not usually troubled by many pests and diseases. They all
+and are not usually troubled by many [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. They all
 require a moisture-retentive soil.
 
 ## Choosing Salad Vegetables
 
 Salad vegetables deteriorate rapidly after harvesting. Leaf crops are
 not nearly as crisp and fresh when bought from a shop compared to
-those picked fresh from the garden. Sweet corn starts to turn its
+those picked fresh from the garden. [[growing-sweet-corn-organically]] starts to turn its
 sugar into starch the very instant it is picked. Growing your own
 salads ensures peak quality and flavor that cannot be matched by
 store-bought produce.
@@ -61,7 +61,7 @@ growing in the [[hamilton-three-year-crop-rotation]], which receives single digg
 ## Pest and Disease Management
 
 Salad crops are relatively trouble-free in the organic garden. The
-main threats are slugs and snails, which can be managed through
+main threats are [[query-how-to-get-rid-of-slugs-and-snails-organically]], which can be managed through
 physical barriers, hand-picking, and encouraging natural predators.
 Aphids occasionally affect lettuce but are generally less problematic
 than on other crops. Good [[hamilton-fruit-vegetables-organic]] Topics
@@ -87,3 +87,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[hamilton-pod-seed-vegetables-organic]]

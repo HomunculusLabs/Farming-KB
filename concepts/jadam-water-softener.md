@@ -69,7 +69,7 @@ The softer the water, the less JWA you need. With very soft water, JWA 3L per 50
 ## See Also
 
 - [[jadam-natural-pesticide-jnp]] -- the complete pesticide system that depends on soft water
-- jadam pesticide dosage guide -- dosage adjustments based on water quality
+- jadam [[jadam-pesticide-dosage-guide]] guide -- dosage adjustments based on water quality
 
 ## Related
 
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

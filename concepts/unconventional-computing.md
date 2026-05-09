@@ -18,7 +18,7 @@ what computation means at its most fundamental level.
 Moore's Law has slowed significantly, and energy consumption of data centers
 is growing unsustainably. Unconventional approaches offer potential advantages
 that address these mounting challenges:
-- **Energy efficiency**: Biological and physical computations often operate at
+- **[[fukuoka-textdoc-energy-efficiency-agricultural-labor]]**: Biological and physical computations often operate at
   room temperature with minimal energy input, compared to the megawatts
   consumed by modern GPU clusters.
 - **Parallelism**: Physical processes are inherently parallel at molecular or
@@ -32,7 +32,7 @@ that address these mounting challenges:
   that are expensive to emulate digitally.
 ## Major Paradigms
 ### Biological Computing
-Uses living organisms or biological molecules as computational elements. This
+Uses [[savory-living-organisms-as-tools]] or biological molecules as computational elements. This
 is perhaps the most diverse category, spanning molecular to organismal scales.
 Subtypes include:
 - **DNA computing**: Encodes information in DNA strands; uses hybridization
@@ -56,7 +56,7 @@ analog computing revivals focus on [[mycelial-network-computation]]
 - biological computing
 - reservoir computing
 - quantum computing fundamentals
-- [[fungal-mycelial-network-architecture]]
+- fungal-mycelial-network-architecture
 ## Practical Considerations
 
 When working with Unconventional Computing, several practical factors should be
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

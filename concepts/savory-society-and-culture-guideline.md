@@ -1,5 +1,5 @@
 ---
-title: Society and Culture Guideline
+title: savory society and culture guideline Guideline
 created: 2026-04-28
 tags: [ethics, community, quality-of-life, social-impact, testing-guidelines]
 date: 2026-04-25
@@ -13,7 +13,7 @@ type: concept
 
 The society and culture guideline tests all actions and their associated tools for how
 they serve the [[savory-holistic-management-overview]] are aimed at the quality of
-life, so this guideline governs holistic management in its broadest sense. Will an
+life, so this guideline governs [[savory-holistic-management-overview]] in its broadest sense. Will an
 action really lead to the quality of life we seek, and what will it do to that of
 others?
 
@@ -96,7 +96,7 @@ The lack of attention to the quality of life factor in our national goals has re
 in numerous tragedies. The American government undertook to increase production solely
 in terms of quantity. The message was get big or get out. Production boomed, but at the
 cost of a polluted environment, massive soil erosion, and enormous social dislocation.
-Thousands of family farms vanished, dissipating generations of practical knowledge. The
+Thousands of [[fukuoka-lundberg-family-farms-natural-rice-transition]] vanished, dissipating generations of practical knowledge. The
 churches, small businesses, and cultural centers in the small towns that served those
 people withered away.
 
@@ -109,7 +109,7 @@ progressive farmers flounder, they continue to flourish.
 
 ## Summary
 
-The society and culture guideline holds a prime place in resource management at all
+The society and culture guideline holds a prime place in [[savory-holistic-resource-management-animal-impact]] at all
 levels. If you can foresee that any tool or action could affect your quality of life
 adversely, or that of your community or society as a whole, seek alternatives. If money
 you consider putting to work in one direction could yield a higher marginal reaction
@@ -120,7 +120,7 @@ toward the quality of life you seek, then take heed and act accordingly.
 Private operators, more often than most like to believe, must exercise similar
 sensitivity to the society around them. Even in America where private rights have long
 standing, the rancher who ignores local opinion does so at his peril. So do those who
-lease Native American land or move on a grand scale into any long-established local
+lease [[halpern-sacramental-peyote-and-native-american-church]] land or move on a grand scale into any long-established local
 culture. Under such circumstances, pleasing everybody may seem impossible, but one goes
 a long way by vigorously embracing the holistic principle that the health of your
 particular interest is not distinct from the health of the whole. Even where resentments

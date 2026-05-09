@@ -1,5 +1,5 @@
 ---
-title: "Soil Formation Rates and the Cost of Erosion"
+title: "Soil mollison soil formation rates and erosion costs and the Cost of Erosion"
 created: 2026-04-26
 tags:
   - permaculture
@@ -102,7 +102,7 @@ bureaucracies to pay for the destruction of our world, regardless of
 the long-term costs to be borne by our children and our societies.
 
 John Jeavons estimates that, based on garden productivity, we could
-return perhaps 94% of agricultural land to nature. Our largest job is
+return perhaps 94% of [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] to nature. Our largest job is
 the restoration of soils and forests for the sake of a healthy earth
 itself. It is most definitely not to clear, deforest, or ruin any more
 land, but first to put in order what we have destroyed.
@@ -122,10 +122,10 @@ The permaculture approach to soil is guided by several values:
 
 ## Integration with Permaculture Systems
 
-- [[mollison-soil-rehabilitation]] for restoring degraded soils.
-- [[mollison-green-manure-soil-fertility]] for biological soil
+- mollison-soil-rehabilitation for restoring degraded soils.
+- mollison-green-manure-soil-fertility for biological soil
   improvement.
-- [[mollison-no-tillage-grain-systems]] for cropping without tillage.
+- mollison-no-tillage-grain-systems for cropping without tillage.
 
 ## Key Principles
 
@@ -139,3 +139,9 @@ The permaculture approach to soil is guided by several values:
 5. Permaculture seeks to restore soils and forests, not to exploit more
   land.
 6. Our largest job is rehabilitation of what we have already destroyed.
+## See Also
+- [[mollison-soil-erosion-control]]
+- [[soil-erosion-control]]
+- [[mollison-designers-soil-water-storage-in-forest-systems]]
+- [[chisel-plough-soil-conditioning-mollison]]
+- [[fungal-microaggregate-formation-and-soil-stability]]

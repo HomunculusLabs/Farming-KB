@@ -17,9 +17,9 @@ DOB (2,5-dimethoxy-4-bromoamphetamine) is a potent [[psychedelic-microdosing]] w
 
 - **Chemical name:** 2,5-Dimethoxy-4-bromoamphetamine
 - **Molecular formula:** C11H16BrNO2
-- **PIHKAL entry:** #62
+- **[[2c-b-pihkal-entry-20]]:** #62
 - **Family:** DOx (2,5-dimethoxy-4-substituted amphetamines)
-- **Legal status:** Schedule I (US) / Class A (UK) / Controlled in most jurisdictions
+- **[[ayahuasca-tourism-legal-status-by-country]]:** Schedule I (US) / Class A (UK) / Controlled in most jurisdictions
 
 ## Synthesis (Summary)
 

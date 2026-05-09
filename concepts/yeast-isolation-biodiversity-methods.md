@@ -4,16 +4,17 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [reference]
-sources: []
+sources:
+  sources: []
 ---
 # Yeast Isolation and Biodiversity Methods
 
-Source: Biodiversity of Fungi (Hyde et al., Ch. 16)
+Source: [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]] (Hyde et al., Ch. 16)
 
 ## Collection Methods
 
 ### Soil and Sediment
-- Soil particles placed directly on agar medium, incubated 24+ hours
+- Soil particles placed directly on [[agar-medium-preparation]], incubated 24+ hours
 - Examined microscopically in situ under low power for yeast growth at particle/medium interface
 - Confirmed colonies transferred to growth medium; streak cultures for purification
 
@@ -44,7 +45,7 @@ Soil/samples in flasks with tailored nutrient medium:
 - Salinity adjusted for marine species
 - Substratum levels manipulated for osmophilic species
 - Incubated 12-24+ hours with continuous shaking
-- Shake culture causes filamentous fungi to grow in pellets; yeasts remain free cells
+- Shake culture causes [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] to grow in pellets; yeasts remain free cells
 - Highly selective — cannot enumerate natural populations
 
 ## Isolation Media
@@ -79,9 +80,9 @@ Soil/samples in flasks with tailored nutrient medium:
 
 Standard yeast description includes:
 - Fermentation rates on 7-8 different sugars
-- Growth rates on ~40 carbon sources, 1-2 nitrogen compounds (nitrate, lysine)
+- [[coleman-sunlight-and-winter-crop-growth-rates]] on ~40 carbon sources, 1-2 nitrogen compounds (nitrate, lysine)
 - Growth at various temperatures
-- Vegetative growth description and sexual state
+- [[cannabis-vegetative-growth-stage]] description and sexual state
 - **DBB test** (diazonium-blue-B): Discriminates Ascomycetes from Basidiomycetes
 
 ## Molecular Identification
@@ -95,7 +96,7 @@ Standard yeast description includes:
 
 - **CBS** (Netherlands): Centraalbureau voor Schimmelcultures, Yeast Division
 - **ATCC** (USA): American Type Culture Collection
-- **NRRL** (USA): Agricultural Research Service Culture Collection
+- **NRRL** (USA): [[fukuoka-inductive-deductive-intuitive-reasoning-agricultural-research]] Service Culture Collection
 - **DBVPG** (Italy): Industrial Yeasts Collection, University of Perugia
 - **IFO/JCM** (Japan): Institute for Fermentation / Japan Collection of Microorganisms
 - **NCYC** (UK): National Collection of Yeast Cultures
@@ -107,6 +108,6 @@ Standard yeast description includes:
 ## See Also
 
 - [[freshwater-fungi-diversity-and-sampling]]
-- [[moist-chamber-techniques-fungi]]
+- moist-chamber-techniques-fungi
 - [[tropical-vs-temperate-fungal-diversity]]
 - [[biodiversity-of-fungi-biomass-carbon-soil-structure]]

@@ -34,23 +34,23 @@ The absence of metabolic pathways in cell-free enzyme systems means that toxic i
 
 Ligninolytic enzymes produced by white-rot fungi are the most extensively studied enzyme systems for environmental bioremediation.
 
-These enzymes include lignin peroxidase (LiP), manganese peroxidase (MnP), and laccase, each of which has broad substrate specificity for aromatic pollutants.
+These enzymes include lignin peroxidase (LiP), [[fungal-manganese-peroxidase-remediation]] (MnP), and laccase, each of which has broad substrate specificity for aromatic pollutants.
 
 Lignin peroxidase is a heme-containing glycoprotein that oxidizes substrates through one-electron oxidation, generating radical intermediates that undergo subsequent non-enzymatic reactions.
 
-LiP can oxidize phenolic and non-phenolic aromatic compounds, including polycyclic aromatic hydrocarbons, chlorinated phenols, and azo dyes.
+LiP can oxidize phenolic and non-phenolic aromatic compounds, including [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons, chlorinated phenols, and azo dyes.
 
-The enzyme requires hydrogen peroxide as a co-substrate and veratryl alcohol as a redox mediator for optimal activity against non-phenolic substrates.
+The enzyme requires [[cervantes-hydrogen-peroxide-sterilization]] as a co-substrate and veratryl alcohol as a [[staycare-fungal-redox-mediator-chemistry-pollutant-degradation]] for optimal activity against non-phenolic substrates.
 
 Manganese peroxidase oxidizes Mn(II) to Mn(III), which forms stable complexes with organic acids such as oxalate and malonate.
 
 These Mn(III)-organic acid complexes act as diffusible oxidants that can attack phenolic compounds and initiate lipid peroxidation chains that degrade non-phenolic pollutants.
 
-The detailed mechanisms of ligninolytic enzymes in bioremediation are described in [[fungal-lignin-degradation-enzymology]].
+The detailed mechanisms of ligninolytic enzymes in bioremediation are described in fungal-lignin-degradation-enzymology.
 
 Laccase is a multicopper oxidase that uses molecular oxygen as an electron acceptor to oxidize phenolic and aniline substrates.
 
-Laccase has a wide range of environmental applications including degradation of textile dyes, phenolic pollutants, and polycyclic aromatic hydrocarbons, as detailed in [[fungal-cytochrome-p450-biodegradation]], catalyze the oxidation of diverse organic pollutants including polycyclic aromatic hydrocarbons, pesticides, and pharmaceuticals.
+Laccase has a wide range of environmental applications including [[fungal-degradation-of-textile-dyes]] dyes, phenolic pollutants, and polycyclic aromatic hydrocarbons, as detailed in [[fungal-cytochrome-p450-biodegradation]], catalyze the oxidation of diverse organic pollutants including polycyclic aromatic hydrocarbons, pesticides, and pharmaceuticals.
 
 These intracellular enzymes can be applied in cell-free systems after extraction and purification, though their requirement for NADPH as a cofactor presents practical challenges for large-scale application.
 
@@ -84,8 +84,8 @@ Free enzymes can be delivered to contaminated sites through injection into groun
 
 Enzyme encapsulation in liposomes or polymeric nanoparticles can protect enzyme activity during delivery and provide controlled release at the target contamination zone.
 
-[[fungal-bioreactor-effluent-treatment]] and [[fungal-bioremediation-mechanisms]], can create synergistic treatment trains that address the limitations of individual approaches.
+fungal-bioreactor-effluent-treatment and [[fungal-bioremediation-mechanisms]], can create synergistic treatment trains that address the limitations of individual approaches.
 
 Development of robust enzyme formulations that maintain activity during storage, transport, and application is essential for practical deployment of enzyme-based remediation technologies.
 
-The ability to tailor enzyme specificity through genetic engineering, combined with improved delivery and stabilization technologies, positions enzyme-based bioremediation as a growing component of the environmental remediation toolkit.
+The ability to tailor enzyme specificity through [[fukuoka-textdoc-genetic-engineering-critique-warning]], combined with improved delivery and stabilization technologies, positions enzyme-based bioremediation as a growing component of the environmental remediation toolkit.

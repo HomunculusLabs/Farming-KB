@@ -1,5 +1,5 @@
 ---
-title: Mycelium Materials vs Synthetic Bioplastics (PLA/PHA)
+title: comparison mycelium materials vs bioplastics pla pha vs Synthetic Bioplastics (PLA/PHA)
 created: 2026-04-28
 tags: [biomanufacturing, materials-science, sustainability, mycelium, bioplastics, PLA, PHA, packaging, biomaterials, lifecycle-assessment]
 date: 2026-04-28
@@ -53,9 +53,9 @@ Production is a purely biological polymerization:
 | Application | Best Choice | Rationale |
 |-------------|-------------|-----------|
 | **Protective packaging inserts** | Mycelium | Excellent cushioning, custom moldable, fully compostable |
-| **Food service containers** | PLA | Low cost, food-safe certified, clear/translucent options |
+| **Food service containers** | PLA | [[jadam-ultra-low-cost-agriculture]], food-safe certified, clear/translucent options |
 | **Marine-degradable items** | PHA | Only bioplastic with verified marine biodegradation |
-| **Building insulation** | Mycelium | Superior thermal insulation (lower k-value), fire resistant, carbon-negative |
+| **Building insulation** | Mycelium | Superior thermal insulation (lower k-value), [[mollison-designers-fire-resistant-landscape-design]], carbon-negative |
 | **3D printing filament** | PLA | Standard material, widely available, good printability |
 | **Fashion leather** | Mycelium | Texture and hand closest to leather, unique aesthetic |
 | **Flexible films/wraps** | PHA | Elastomeric grades available, good barrier properties |
@@ -81,7 +81,7 @@ Production is a purely biological polymerization:
 - [[query-what-are-mycelium-materials-and-how-are-they-made]]
 - [[woodlovers-mycelium-running-pathway-technique]]
 
-- [Mycelium Materials and Fungal Biomanufacturing](mycelium-materials-and-fungal-biomanufacturing.md)
-- [Pasteurization vs Sterilization](../comparisons/pasteurization-vs-sterilization.md)
+- [Mycelium mycelium materials and fungal biomanufacturing Biomanufacturing](mycelium-materials-and-fungal-biomanufacturing.md)
+- [[stamets-cultivator-pasteurization-vs-sterilization-methods]](../comparisons/pasteurization-vs-sterilization.md)
 - [Biochar vs Biofertilizer](../comparisons/biochar-vs-biofertilizer.md)
 - [Bioremediation Using Fungi](../topics/bioremediation-using-fungi.md)

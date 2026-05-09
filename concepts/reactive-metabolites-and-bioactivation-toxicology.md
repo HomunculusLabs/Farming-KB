@@ -1,5 +1,5 @@
 ---
-title: "Reactive Metabolites and Bioactivation Toxicology"
+title: "Reactive reactive metabolites and bioactivation toxicology Toxicology"
 created: 2026-04-28
 updated: 2026-05-06
 aliases: [reactive metabolites, bioactivation, metabolic activation, covalent binding, hapten hypothesis]
@@ -16,7 +16,7 @@ type: concept
 ---
 ## Overview
 Reactive metabolites are short-lived electrophilic or radical species formed when normal
-drug metabolism converts a stable molecule into a more chemically aggressive product.
+[[cytochrome-p450-enzymes-drug-metabolism]] converts a stable molecule into a more chemically aggressive product.
 This process is called bioactivation, metabolic activation, or toxication. It is the
 opposite of detoxication, even though the same enzymes can perform both roles depending on
 the substrate.

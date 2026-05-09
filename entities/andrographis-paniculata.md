@@ -28,7 +28,7 @@ traditional Chinese medicine.
 
 The species derives its common name from its intensely bitter taste, attributed to
 diterpenoid lactones — primarily andrographolide — which constitute its principal
-bioactive compounds. Clinical evidence supports its efficacy in treating upper
+[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]. Clinical evidence supports its efficacy in treating upper
 respiratory tract infections and as an immunomodulatory agent.
 
 ## Taxonomy and Morphology
@@ -57,8 +57,8 @@ small, yellowish-brown seeds with longitudinal ridges.
 ## Distribution and Habitat
 
 A. paniculata is native to the Indian subcontinent, Sri Lanka, southern China,
-and mainland Southeast Asia. It has been introduced and naturalized in the
-Caribbean, Central America, and parts of tropical Africa.
+and mainland [[psilocybe-southeast-asia-pacific]]. It has been introduced and naturalized in the
+Caribbean, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], and parts of tropical Africa.
 
 The species grows in a variety of habitats including forest margins, disturbed
 ground, riverbanks, and cultivated fields. It prefers moist, well-drained loamy
@@ -102,7 +102,7 @@ and paracetamol-induced hepatotoxicity. Andrographolide reduces elevated serum
 transaminases and improves hepatic histopathology.
 
 Anticancer properties are an active area of research. Andrographolide induces
-cell cycle arrest at G0/G1 phase and apoptosis in multiple cancer cell lines
+cell cycle arrest at G0/G1 phase and apoptosis in multiple [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines
 including breast, prostate, and colorectal carcinoma, with relatively low
 toxicity to normal cells.
 

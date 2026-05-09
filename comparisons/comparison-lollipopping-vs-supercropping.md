@@ -4,7 +4,9 @@ created: 2026-04-28
 tags: [comparison, pruning, training, defoliation, hst]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: comparison
 ---
 
@@ -12,7 +14,7 @@ type: comparison
 
 ## Overview
 
-Lollipopping and supercropping are two popular cannabis cultivation techniques that serve very
+Lollipopping and supercropping are two popular [[query-how-does-no-till-cannabis-cultivation-work]] techniques that serve very
 different purposes in the grow cycle. Lollipopping is a defoliation and pruning strategy that
 redirects plant energy toward the upper canopy by removing lower growth, while supercropping
 is a high-stress training method that manipulates plant structure to increase branching and
@@ -29,7 +31,7 @@ lower branches" to improve overall bud quality and reduce the plant's maintenanc
 
 Beyond energy redirection, lollipopping offers several additional benefits. The removal of
 lower foliage dramatically improves airflow through the plant's base, which reduces humidity
-trapping and lowers the risk of mold and powdery mildew during flowering. It also makes
+trapping and lowers the risk of mold and [[cervantes-powdery-mildew-prevention-treatment]] during flowering. It also makes
 maintenance tasks like watering, [[cannabis-training-techniques-comparison]]
 
 Supercropping is an advanced high-stress training (HST) technique that involves deliberate,
@@ -53,12 +55,12 @@ plant, all without the permanent tissue removal required by topping or fimming.
 A more aggressive variation of supercropping involves partial branch breaking, where the
 stem is bent until it partially snaps but remains connected. This method is riskier but
 can produce even more dramatic branching when combined with a FIM (Fuck I Missed) cut at
-the bend point. Supercropping should only be performed during the vegetative stage, ideally
+the bend point. Supercropping should only be performed during the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]], ideally
 between weeks 3 and 6 when stems are flexible enough to bend without fully breaking. Growers
 should allow 3 to 7 days of recovery between supercropping sessions and should never damage
 more than 20 percent of the plant's foliage at once to avoid excessive stress that could
 slow growth or invite disease. Properly executed, supercropping is one of the most effective
-ways to increase yield without adding more plants or extending the vegetative period.
+[[query-what-are-the-best-ways-to-increase-soil-organic-matter-quickly]] yield without adding more plants or extending the vegetative period.
 
 ## Key Differences
 
@@ -83,7 +85,7 @@ third of your plants that never receive adequate light, lollipopping will elimin
 wasted energy expenditure and redirect those resources to the top colas where they produce
 measurable results. The technique is especially valuable in indoor grows with limited vertical
 space, where every inch of canopy height matters and lower growth simply cannot compete for
-light. It is also an excellent preventative measure against mold and bud rot in humid grow
+light. It is also an excellent preventative measure against mold and [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]] in humid grow
 environments, as the improved airflow around the plant base significantly reduces disease risk.
 
 Lollipopping is also ideal for growers who want to simplify their harvest process. By removing

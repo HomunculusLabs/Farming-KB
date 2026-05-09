@@ -1,9 +1,9 @@
 ---
-title: Sunlight and Winter Crop Growth Rates
+title: Sunlight and coleman sunlight and winter crop growth rates Growth Rates
 created: 2026-05-08
 sources:
   - path: /Users/t3rpz/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md
-    title: The Winter Harvest Handbook - Eliot Coleman
+    title: The [[coleman-claytonia-winter-harvest-cultivation]] Handbook - Eliot Coleman
     author: Eliot Coleman
 updated: 2026-05-08
 type: concept
@@ -16,7 +16,7 @@ tags: [reference]
 
 In Greek mythology, Persephone's descent into the underworld brought
 winter to the world. Eliot Coleman adopted this concept to describe
-the period each year when day length drops below ten hours, during
+the period each year when [[coleman-winter-day-length-and-persephone-months]] drops below ten hours, during
 which plant growth slows dramatically regardless of temperature. At
 his farm in coastal Maine (latitude 44 degrees north), this
 threshold is crossed around November 5 and not reached again until
@@ -36,7 +36,7 @@ Coleman's research demonstrates that days-to-harvest for any given
 crop varies dramatically depending on the date of sowing. A crop
 that requires 40 days to mature when sown on September 1 or June 1
 may require 80 days from a midwinter sowing in a cool greenhouse
-and up to 120 days in a cold greenhouse. The relationship between
+and up to 120 days in a [[coleman-cold-greenhouse-double-layer-protection]]. The relationship between
 sowing date and days to maturity follows a predictable curve.
 
 For fall plantings, as the days shorten, each successive sowing
@@ -96,7 +96,7 @@ summer and early fall provides continuous harvest through winter.
 
 ## Latitude Considerations
 
-The relationship between latitude and winter day length is the most
+The relationship between latitude and [[coleman-persephone-months-winter-day-length]] length is the most
 important geographic factor for winter growing. At 30 degrees north
 latitude (roughly the latitude of southern California or North
 Africa), the shortest day of the year is about 10 hours long,
@@ -108,7 +108,7 @@ At 60 degrees north (southern Alaska, Helsinki), the shortest day
 drops below 6 hours, creating a much longer period of minimal
 growth. Growers at higher latitudes face greater challenges and
 must plant earlier and rely more heavily on protected growing
-environments. Conversely, growers in the southern United States or
+environments. Conversely, growers in the southern [[dmt-containing-plants-united-states-halpern]] or
 Mediterranean climates may find that winter growing requires
 minimal protection due to naturally longer winter days.
 

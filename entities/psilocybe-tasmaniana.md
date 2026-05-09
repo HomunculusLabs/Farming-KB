@@ -14,16 +14,16 @@ sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-of-australia-newzealand-b
 
 ## Identification Notes
 
-*Psilocybe tasmaniana* can be confused with several non-psychoactive or toxic species found in similar grassland habitats. The most critical lookalike is [[panaeolina-foenisecii]] (the haymaker's mushroom), which is not psychoactive and has a dark brown spore print, and various inactive Psilocybe species that share the same grassland habitat but lack the characteristic bluing reaction.
+*Psilocybe tasmaniana* can be confused with several non-psychoactive or toxic species found in similar grassland habitats. The most critical lookalike is [[panaeolina-foenisecii]] (the haymaker's mushroom), which is not psychoactive and has a dark brown spore print, and various inactive Psilocybe species that share the same grassland habitat but lack the characteristic [[field-guide-psilocybin-bluing-reaction-identification]].
 
-The bluing reaction in *P. tasmaniana* is typically most pronounced at the base of the stipe and may be subtle in dried or older specimens. Fresh, young specimens collected during cool, wet conditions show the strongest bruising response. Microscopic examination of spore dimensions and cheilocystidia morphology is recommended for definitive identification.
+The bluing reaction in *P. tasmaniana* is typically most pronounced at the base of the stipe and may be subtle in dried or older specimens. Fresh, young specimens collected during cool, wet conditions show the strongest bruising response. [[fungal-microscopic-examination-mounting-media-techniques]] of spore dimensions and cheilocystidia morphology is recommended for definitive identification.
 
 ## Taxonomic History
 
-*Psilocybe tasmaniana* was identified as part of the broader mycoflora survey work conducted in Tasmania during the mid-20th century, when Australian mycologists began cataloguing the continent's psychoactive fungi. The species epithet refers to its Tasmanian provenance. The species was documented by Dr. Malcolm Hall and other Australian mycologists who surveyed the psychoactive mushroom species occurring in Tasmania and the Australian mainland. It appears in comprehensive field guides to Australian and New Zealand psychoactive fungi. The relationship of *P. tasmaniana* to other Southern Hemisphere Psilocybe species, including [[psilocybe-collybioides]], and [[psilocybe-subcubensis]] and [[galerina-marginata]], which contains lethal amatoxins. Distinguished by rusty-brown spore print.
-- **Panaeolina foenisecii**: The haymaker's mushroom, common in lawns and pastures but not psychoactive. Has a dark brown spore print.
+*Psilocybe tasmaniana* was identified as part of the broader mycoflora survey work conducted in Tasmania during the mid-20th century, when Australian mycologists began cataloguing the continent's [[cattle-dispersal-psychoactive-fungi-australia]]. The species epithet refers to its Tasmanian provenance. The species was documented by Dr. Malcolm Hall and other Australian mycologists who surveyed the psychoactive mushroom species occurring in Tasmania and the Australian mainland. It appears in comprehensive field guides to Australian and New [[allen-new-zealand-psychoactive-fungi]] fungi. The relationship of *P. tasmaniana* to other [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] Psilocybe species, including [[psilocybe-collybioides]], and [[psilocybe-subcubensis]] and [[galerina-marginata]], which contains lethal amatoxins. Distinguished by rusty-brown spore print.
+- **[[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]**: The haymaker's mushroom, common in lawns and pastures but not psychoactive. Has a dark brown spore print.
 - **Psilocybe subaeruginosa**: Much more potent wood-inhabiting species. Usually larger with stronger bluing. See [[psilocybe-subaeruginosa]] — the most potent and commonly encountered psychoactive Psilocybe in southeastern Australia
-* [[psilocybe-australiana]] — another Australian native psychoactive species
+* psilocybe-australiana — another Australian native psychoactive species
 * [[copelandia-cyanescens]] — known as "blue meanies" in Australia
 * [[baeocystin]] — secondary alkaloid present in related species
 ## Practical Applications
@@ -103,4 +103,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

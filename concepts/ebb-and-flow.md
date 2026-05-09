@@ -3,6 +3,7 @@ title: Ebb and Flow (Flood and Drain) for Cannabis
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
@@ -11,11 +12,11 @@ tags: [reference]
 
 # Ebb and Flow (Flood and Drain) for Cannabis
 
-Ebb and flow, also known as flood and drain, is one of the most popular and proven active recovery hydroponic systems for cannabis cultivation. These systems have an excellent track record as low-maintenance, easy-to-use gardens that are versatile, simple by design, and highly efficient.
+Ebb and flow, also known as flood and drain, is one of the most popular and proven active recovery hydroponic systems for [[query-how-does-no-till-cannabis-cultivation-work]]. These systems have an excellent track record as low-maintenance, easy-to-use gardens that are versatile, simple by design, and highly efficient.
 
 ## How Ebb and Flow Works
 
-In an ebb and flow system, individual plants in pots or rockwool-cannabis|rockwool cubes are set on a special table that serves as a growing bed. The table is designed to hold one to four inches (3 to 10 cm) of nutrient solution. A pump floods the table by pumping nutrient solution from a reservoir into the growing bed. The containers or rockwool blocks are flooded from the bottom, which pushes oxygen-poor air out of the growing medium.
+In an ebb and flow system, individual plants in pots or rockwool-cannabis|rockwool cubes are set on a special table that serves as a growing bed. The table is designed to hold one to four inches (3 to 10 cm) of [[cannabis-nutrient-solution-preparation]]. A pump floods the table by pumping nutrient solution from a reservoir into the growing bed. The containers or rockwool blocks are flooded from the bottom, which pushes oxygen-poor air out of the growing medium.
 
 Once the nutrient solution reaches a set level, an overflow pipe drains the excess back to the reservoir. When the pump turns off and the growing medium drains, the draining action draws fresh oxygen-rich air into contact with the roots. A maze of drainage gullies in the bottom of the table directs runoff solution back to the catchment tank or reservoir. This flood-and-drain cycle is repeated several times a day.
 
@@ -38,7 +39,7 @@ Once the nutrient solution reaches a set level, an overflow pipe drains the exce
 
 Ebb and flow works best with growing mediums that drain rapidly and hold plenty of air:
 - [[coco-coir-cannabis]] in pots or grow bags
-- Cannabis Growing Mediums in containers
+- [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]] Mediums in containers
 
 Avoid lightweight mediums such as [[rockwool-cannabis]] holds a lot of moisture, so irrigation frequency may need adjustment. Irrigation regimens will need to change substantially when temperatures cool and light levels drop.
 
@@ -47,12 +48,12 @@ Avoid lightweight mediums such as [[rockwool-cannabis]] holds a lot of moisture,
 Flood and drain irrigation cycles typically run five to ten times daily. The exact frequency depends on:
 - The growing medium used (fast-draining mediums need more frequent flooding)
 - Plant size and water consumption
-- Ambient temperature and humidity
+- Ambient [[greg-green-temperature-and-humidity-control]]
 - Stage of growth (vegetative plants may need more frequent flooding than flowering plants)
 
 ## Reservoir Management
 
-The reservoir must hold a large volume of water to fill the entire table. Make sure it has enough solution to flood the table and still retain a minimum of 25 percent extra capacity. Replenish the reservoir daily if necessary. Change the nutrient solution every one to two weeks to prevent salt buildup and maintain nutrient balance.
+The reservoir must hold a large volume of water to fill the entire table. Make sure it has enough solution to flood the table and still retain a minimum of 25 percent extra capacity. Replenish the reservoir daily if necessary. Change the nutrient solution every one to two weeks to prevent [[cervantes-salt-buildup-leaching-management]] and maintain nutrient balance.
 
 ## Air Tables
 
@@ -62,7 +63,7 @@ Air tables work well with [[coco-coir-cannabis]], peat, or composite growing med
 
 ## Nutrient Solution
 
-The pH should be maintained between 5.5 and 6.5, with 5.8 to 6.0 being ideal for most hydroponic applications. EC levels should be monitored and adjusted based on plant growth stage. During and soon after irrigation, the nutrient content of the bed and the reservoir are at the same concentration. As time passes between irrigations, the EC and pH gradually change.
+The pH should be maintained between 5.5 and 6.5, with 5.8 to 6.0 being ideal for most hydroponic applications. EC levels should be monitored and adjusted based on plant [[cho-plant-growth-stage-treatment-protocols]]. During and soon after irrigation, the nutrient content of the bed and the reservoir are at the same concentration. As time passes between irrigations, the EC and pH gradually change.
 
 ## Maintenance Tips
 

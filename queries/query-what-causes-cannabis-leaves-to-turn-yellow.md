@@ -5,14 +5,14 @@ tags: [query, cannabis, nutrients, troubleshooting]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 type: query
 ---
 
 # What Causes Cannabis Leaves to Turn Yellow?
 
 ## Short Answer
-Yellowing cannabis leaves (chlorosis) is most commonly caused by nutrient deficiencies,
+Yellowing cannabis leaves (chlorosis) is most commonly caused by [[hamilton-nutrient-deficiencies-and-treatment]],
 overwatering, or pH imbalances that prevent nutrient uptake. Nitrogen deficiency is the
 single most frequent cause, especially during the flowering stage when the plant mobilizes
 nitrogen from older leaves to developing buds. The pattern and location of yellowing provides
@@ -21,14 +21,14 @@ critical diagnostic clues for identifying the underlying cause.
 ## Detailed Explanation
 
 Yellowing leaves on cannabis plants are one of the most common problems growers encounter,
-and the causes range from simple environmental factors to complex nutrient interactions.
+and the causes range from simple [[duggar-mushroom-environmental-factors-temperature-moisture-light]] to complex nutrient interactions.
 Understanding the pattern of yellowing, where it starts on the plant, and what stage of
 growth the plant is in are all critical clues for accurate diagnosis. A systematic approach
 to troubleshooting will save time and prevent misdiagnosis that could worsen the problem.
 
 The most prevalent cause of yellowing is nitrogen deficiency, which typically begins on
 the oldest, lowest leaves and progresses upward as the plant redistributes mobile nitrogen
-to new growth. During the vegetative stage, nitrogen deficiency usually indicates the grower
+to new growth. During the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]], nitrogen deficiency usually indicates the grower
 needs to increase nitrogen availability through either soil amendments or adjusted feeding
 schedules. However, during late flowering some yellowing of lower fan leaves is perfectly
 normal and expected as the plant naturally cannibalizes its own foliage to fuel bud
@@ -37,7 +37,7 @@ page explains this mechanism in detail, and the [[cervantes-nutrient-mobility-de
 resource for understanding these patterns and using them to narrow down the specific
 nutrient that is lacking. For example, interveinal chlorosis (yellowing between the veins
 while veins remain green) on new leaves points to iron deficiency, while the same pattern
-on older leaves suggests magnesium deficiency.
+on older leaves suggests [[query-how-to-fix-magnesium-deficiency-in-cannabis]].
 
 Light stress can also cause yellowing, particularly when leaves are positioned too close
 to intense grow lights. This type of yellowing usually appears as bleaching, whitening, or
@@ -47,13 +47,13 @@ with light stress accelerates the damage and can cause widespread canopy yellowi
 corrected. Reviewing the [[cannabis-plant-stress-types-and-recovery]] page covers the full spectrum of environmental
 stressors and their solutions.
 
-Nutrient toxicity, particularly nitrogen toxicity from overfeeding during early
+Nutrient toxicity, particularly [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] from overfeeding during early
 vegetative growth, can also cause yellowing leaves, though the pattern differs from
 deficiency. Nitrogen toxicity typically causes extremely dark green leaves with a shiny
 waxy appearance and downward leaf curling (clawing) before progressing to yellowing and
 necrosis on the leaf tips. Excessive phosphorus can cause zinc and iron lockout, which
 then presents as interveinal chlorosis. The [[cannabis-nutrient-deficiency-guide]]
-- pH imbalance causes nutrient lockout even when nutrients are abundant in the medium
+- pH imbalance causes [[cannabis-nutrient-lockout-and-ph]] even when nutrients are abundant in the medium
   [[cannabis-lighting-guide]]
 - Mobile nutrients show deficiency on old leaves first; immobile nutrients affect new
   growth [[heat-stress-cannabis]]
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

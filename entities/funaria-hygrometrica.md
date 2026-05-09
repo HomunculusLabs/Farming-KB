@@ -13,7 +13,7 @@ sources:
   - Crum, H. (2004). "Mosses of the Great Lakes Forest." University of Michigan Herbarium.
   - Glime, J.M. (2017). "Bryophyte Ecology." Michigan Technological University, Vol. 1.
   - Shaw, A.J. & Goffinet, B. (2000). "Bryophyte Biology." Cambridge University Press.
-  - Magill, R.E. (1990). "Flora of North America, Vol. 1: Bryophytes." Oxford University Press.
+  - Magill, R.E. (1990). "Flora of [[psilocybin-north-america-pacific-northwest]], Vol. 1: Bryophytes." Oxford University Press.
 ---
 
 ## Overview
@@ -70,7 +70,7 @@ Its dense protonemal mats bind loose soil particles, reducing erosion on recentl
 
 The species contributes to initial soil formation by trapping organic debris and facilitating microbial colonization.
 
-Spore dispersal is aided by the hygroscopic seta, which twists in dry conditions to scatter spores over greater distances.
+[[aquatic-fungi-spore-dispersal-ingold]] is aided by the hygroscopic seta, which twists in dry conditions to scatter spores over greater distances.
 
 The capsule's asymmetric shape and operculum mechanism further enhance dispersal efficiency during dry, windy conditions.
 
@@ -84,13 +84,13 @@ The hygroscopic movement of the seta has made this species a historical curiosit
 
 In traditional European folk medicine, *F. hygrometrica* was occasionally used as a mild diuretic and anti-inflammatory agent.
 
-Some Native American groups used the moss as a poultice for minor wounds, though documentation is limited.
+Some [[halpern-sacramental-peyote-and-native-american-church]] groups used the moss as a poultice for minor wounds, though documentation is limited.
 
-The species has been investigated for its ability to accumulate heavy metals, particularly lead and copper, from contaminated soils.
+The species has been investigated for its ability to accumulate [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]], particularly lead and copper, from contaminated soils.
 
 Bioaccumulation studies suggest potential utility as a passive biomonitor for atmospheric heavy metal deposition.
 
-Its rapid life cycle (germination to sporophyte maturation in 8–12 weeks) makes it a model organism for bryological research.
+Its rapid [[bloomfield-fungal-life-cycle-spiral-versus-circle]] (germination to sporophyte maturation in 8–12 weeks) makes it a model organism for bryological research.
 
 The species has been used in laboratory studies of gravitropism, phototropism, and spore dormancy in bryophytes.
 
@@ -98,7 +98,7 @@ The species has been used in laboratory studies of gravitropism, phototropism, a
 
 *Funaria hygrometrica* is easy to cultivate and is sometimes grown as a laboratory specimen for teaching and research.
 
-Cultivation requires minimal substrate preparation — spores germinate readily on damp soil, peat, or even filter paper.
+Cultivation requires minimal [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] — spores germinate readily on damp soil, peat, or even filter paper.
 
 Optimal conditions include moderate light, high humidity, and temperatures between 15–25 °C.
 

@@ -1,5 +1,5 @@
 ---
-title: Set and Setting Framework
+title: lsd-set-and-setting-framework Framework
 created: 2026-04-12
 updated: 2026-04-18
 type: concept
@@ -14,7 +14,7 @@ Metzner, and Richard Alpert in the 1960s, it posits that the character of a
 psychedelic experience is determined primarily by two factors: "set" (the
 internal state and expectations of the person) and "setting" (the external
 environment, social context, and cultural framework). This deceptively simple
-framework has been validated by decades of clinical research and remains the
+framework has been validated by decades of [[hofmann-lsd-clinical-research-early-studies]] and remains the
 single most important concept for safe, beneficial psychedelic use.
 
 ## Set: Internal Factors
@@ -85,7 +85,7 @@ therapeutic models.
 
 ## Clinical Application
 
-In modern psychedelic therapy, set and setting are carefully optimized as part of
+In modern [[metzner-psycholytic-psychedelic-therapy-models]], set and setting are carefully optimized as part of
 the treatment protocol. Preparation sessions (typically 1-3 meetings before the
 psychedelic session) address the "set" component: building therapeutic alliance,
 discussing intentions, managing expectations, and providing education about what
@@ -103,7 +103,7 @@ post-experience distress — are almost always attributable to inadequate attent
 to set or setting: proceeding despite fear or instability (poor set), using in
 chaotic or threatening environments (poor setting), or lacking adequate support
 during difficult experiences. See psychedelic-harm-reduction for comprehensive
-safety guidelines based on the set and setting principle.
+[[psychedelic-safety-guidelines-turner]] based on the set and setting principle.
 
 ## Cross-Cultural Validation
 

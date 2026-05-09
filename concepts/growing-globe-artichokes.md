@@ -36,7 +36,7 @@ Artichokes are perennial in mild climates (USDA zones 7-11) but can be grown as 
 
 - Start from seed or offsets (suckers from established plants).
 - Space plants 3-4 feet (90-120 cm) apart in all directions.
-- Need rich, fertile soil with abundant organic matter.
+- Need rich, fertile soil with abundant [[hamilton-composting-and-organic-matter-management]].
 - Regular moisture is essential -- artichokes are not drought-tolerant despite being perennials.
 - Mulch heavily to retain moisture and keep soil cool.
 
@@ -59,16 +59,16 @@ When artichokes fail, the cause is almost always poor soil conditions rather tha
 
 There are two primary ways to propagate globe artichokes, each with distinct advantages:
 
-**Seed propagation:** Growing from seed allows access to a wider range of varieties and avoids transferring soil-borne diseases from established plants. However, seed-grown plants show considerable genetic variation, and not all will produce high-quality buds. Open-pollinated varieties like 'Green Globe' produce about 70% plants meeting quality standards. Start seeds indoors in February under protection, sowing 1/4 inch deep. Germination takes 10-21 days at 20-25°C. Transplant to individual pots when seedlings have two true leaves. For annual production in cold climates (zone 6 and below), vernalization is required: expose young plants (8-10 weeks old) to temperatures below 10°C for 2-4 weeks to trigger the flowering response. Without this cold treatment, plants may not produce buds in their first year.
+**[[jeavons-seed-propagation-techniques]]:** Growing from seed allows access to a wider range of varieties and avoids transferring soil-borne diseases from established plants. However, seed-grown plants show considerable genetic variation, and not all will produce high-quality buds. Open-pollinated varieties like 'Green Globe' produce about 70% plants meeting [[aact-compost-quality-standards-ingham]]. Start seeds indoors in February under protection, sowing 1/4 inch deep. Germination takes 10-21 days at 20-25°C. Transplant to individual pots when seedlings have two true leaves. For annual production in cold climates (zone 6 and below), vernalization is required: expose young plants (8-10 weeks old) to temperatures below 10°C for 2-4 weeks to trigger the flowering response. Without this cold treatment, plants may not produce buds in their first year.
 
-**Vegetative propagation (offsets/suckers):** This is the preferred method for maintaining named varieties and ensuring uniform bud quality. In early spring, select vigorous suckers (offsets) with 2-3 visible leaf buds and attached root sections from the base of established plants. Cut them away with a sharp knife, taking care to include some root material. Dust cut surfaces with sulfur to prevent fungal infection. Plant offsets directly into prepared beds at the same depth they were growing. Offset-grown plants are genetically identical to the parent and typically produce harvestable buds in the same growing season, unlike seed-grown plants which may need a full season of vegetative growth before flowering.
+**Vegetative propagation (offsets/suckers):** This is the preferred method for maintaining named varieties and ensuring uniform bud quality. In early spring, select vigorous suckers (offsets) with 2-3 visible leaf buds and attached root sections from the base of established plants. Cut them away with a sharp knife, taking care to include some root material. Dust cut surfaces with sulfur to prevent fungal infection. Plant offsets directly into prepared beds at the same depth they were growing. Offset-grown plants are genetically identical to the parent and typically produce harvestable buds in the same growing season, unlike seed-grown plants which may need a full season of [[cannabis-vegetative-growth-stage]] before flowering.
 
 ## Nutrition and Watering
 
-Artichokes are among the heaviest feeders in the vegetable garden. Their large, deeply lobed leaves require abundant nitrogen and consistent moisture:
+Artichokes are among the heaviest feeders in the [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]. Their large, deeply lobed leaves require abundant nitrogen and consistent moisture:
 - Apply 4-6 inches of well-rotted compost or aged manure before planting, worked deeply into the top 12 inches of soil
 - Top-dress with compost in spring and again in midsummer for perennial plantings
-- A balanced organic fertilizer (e.g., 5-5-5) applied at planting and again monthly during the growing season supports continuous bud production
+- A balanced [[complete-organic-fertilizer-cof-recipe-solomon]] (e.g., 5-5-5) applied at planting and again monthly during the growing season supports continuous bud production
 - Artichokes have shallow root systems despite their large above-ground size, making them vulnerable to drought stress. Water deeply 2-3 times per week during dry spells, providing 1-2 inches of water per week total
 - Mulch with 4-6 inches of organic material to conserve moisture and suppress weeds; avoid placing mulch directly against the crown to prevent rot
 
@@ -112,8 +112,11 @@ The opposite problem exists with Brussels sprouts, which dislike light soils. In
 ## Related Concepts
 
 - [[building-soil-fertility-long-term]]
-- [[permaculture-climate-zones-and-strategies]]
+- permaculture-climate-zones-and-strategies
 
 Sources: Steve Solomon, *Gardening When It Counts*
 - [[transplanting-techniques-low-input]]
-- [[permaculture-cold-climate-strategies]]
+- permaculture-cold-climate-strategies
+- [[cynara-cardunculus]]
+- [[steve-solomon]]
+- [[companion-planting]]

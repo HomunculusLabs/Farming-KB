@@ -1,5 +1,5 @@
 ---
-title: Hallucinogenic Mushroom Markets and Retail
+title: emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative Markets and Retail
 created: 2026-04-28
 tags:
   - markets
@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-The market for hallucinogenic mushrooms emerged and expanded rapidly in
+The market for [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] emerged and expanded rapidly in
 the late 1990s and early 2000s, primarily driven by smartshops in the
 Netherlands and the UK. Most recreationally used mushrooms are
 cultivated rather than picked wild. The cubensis varieties are
@@ -35,7 +35,7 @@ synthetic drugs which have not yet been placed under control.
 
 In the Netherlands, an estimated 120-150 smartshops exist, concentrated
 in Amsterdam. They sell legal and predominately natural products,
-including magic mushrooms, which are also sold in some coffee shops. In
+including [[guzman-magic-mushrooms-african-species]], which are also sold in some coffee shops. In
 some areas, "paddo cabs" make home deliveries. Headshops (drug
 paraphernalia) and grow shops (marijuana home growing) also sometimes
 sell hallucinogenic mushrooms.
@@ -47,7 +47,7 @@ cubensis* varieties, most notably the Mexican variety.
 ## UK Retail Market
 
 About 300 shops and market stalls across the UK sold hallucinogenic
-mushrooms until the change in legal status in July 2005 prohibited
+mushrooms until the change in [[ayahuasca-tourism-legal-status-by-country]] in July 2005 prohibited
 sales. The UK Treasury collected sales tax estimated at up to GBP
 175,000 (EUR 255,421) per year on turnover estimated at around GBP 1
 million (EUR 1.46 million) per annum.
@@ -59,7 +59,7 @@ got them via the internet.
 ## Online Internet Shops
 
 A January 2006 snapshot using Google and AltaVista searches identified
-39 online shops selling hallucinogenic mushroom products. Analysis of
+39 online shops selling hallucinogenic [[cotter-mushroom-products-and-value-added-applications]]. Analysis of
 contact addresses revealed that 82% were based in the Netherlands. The
 remaining 18% included four Austrian online shops, two German sites, a
 UK site linked to a Dutch shop, and a Polish site (selling mainly
@@ -83,7 +83,7 @@ Online shops sell a variety of products:
 | Spore prints | 1 print/syringe | 9-28 |
 
 Users can also obtain various strains for EUR 1 per print from the Free
-Spore Ring Europe (fsre.org). Instructions on growing mushrooms using
+Spore Ring Europe (fsre.org). Instructions on [[falconer-growing-mushrooms-in-sheds]] using
 spore prints and substrate are easily found online.
 
 ## Legal Loopholes in Retail

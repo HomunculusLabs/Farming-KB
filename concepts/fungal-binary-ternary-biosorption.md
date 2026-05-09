@@ -3,16 +3,15 @@ title: Fungal Binary and Ternary Biosorption Systems
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
-tags: [[mycology, fungi]
-sources: []
+tags: [mycology, fungi]
+sources:
+  sources: []
 ---
-# Fungal Binary and Ternary Biosorption Systems
-
-Real-world contaminated wastewaters rarely contain single metal ions. [[fungal-metal-biosorption-comparative]] show distinct selectivity patterns:
+# Fungal Binary and Ternary Biosorption Systems Real-world contaminated wastewaters rarely contain single metal ions. [[fungal-metal-biosorption-comparative]] show distinct selectivity patterns:
 
 - **Rhizopus arrhizus** — Shows preferential uptake of Pb over Cu, Cd, and Zn in binary systems
 - **Aspergillus niger** — Demonstrates high selectivity for Pb and Cu in competitive environments
-- **Trametes versicolor** — Dead mycelia show higher uptake than live for Cu(II), Pb(II), and Zn(II) in binary systems; Cu uptake capacity of 1.84 mM (heat-inactivated) vs. 1.51 mM (live)
+- **[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]** — Dead mycelia show higher uptake than live for Cu(II), Pb(II), and Zn(II) in binary systems; Cu uptake capacity of 1.84 mM (heat-inactivated) vs. 1.51 mM (live)
 - **Saccharomyces cerevisiae** — Effective for Cr(III) and Cr(VI) binary removal with 96-97% efficiency
 
 ## Ternary Biosorption Systems
@@ -21,7 +20,7 @@ Ternary systems with three competing metal ions add further complexity. Predicti
 
 - **Cu-Pb-Zn ternary systems** — Lead remains the dominant competitor; copper and zinc uptake are suppressed more severely than in binary combinations
 - **Cd-Pb-Zn systems** — Competitive effects are additive rather than simply multiplicative, creating non-linear uptake patterns
-- **Multi-metal industrial effluents** — Real wastewater containing 5-10+ metals simultaneously presents the greatest challenge; fungal biosorbents must be screened against actual effluent compositions
+- **Multi-metal industrial effluents** — Real wastewater containing 5-10+ metals simultaneously presents the greatest challenge; [[singh-fungal-biosorbents-mycosorption-mechanisms]] must be screened against actual effluent compositions
 
 ## Effect of Co-cations
 
@@ -35,21 +34,23 @@ Regeneration efficiency varies by metal-fungus combination. Funalia trogii heat-
 
 ## Implications for Reactor Design
 
-Binary and ternary system data are essential for designing effective [[fungal-bioaccumulation-heavy-metals]] processes using live fungal cultures, biosorption systems can achieve very low residual metal concentrations, but at the cost of greater operational complexity and sensitivity to environmental conditions.
+Binary and ternary system data are essential for designing effective fungal-bioaccumulation-heavy-metals processes using live fungal cultures, biosorption systems can achieve very low residual metal concentrations, but at the cost of greater operational complexity and sensitivity to environmental conditions.
 
 ## Biosorbent Pretreatment and Enhancement Strategies
 
-The performance of fungal biosorbents in binary and ternary systems can be substantially improved through physical and chemical pretreatment. Heat inactivation (autoclaving), chemical modification with crosslinking agents (glutaraldehyde, epichlorohydrin), and treatment with polycations (polyethylenimine, APTES) alter the density and accessibility of binding sites on the fungal cell wall. Pretreatment with alkali solutions (NaOH) removes surface impurities and exposes additional carboxyl and amino groups, while acid pretreatment can protonate binding sites and alter surface charge distribution.
+The performance of fungal biosorbents in binary and ternary systems can be substantially improved through physical and chemical pretreatment. Heat inactivation (autoclaving), chemical modification with crosslinking agents (glutaraldehyde, epichlorohydrin), and treatment with polycations (polyethylenimine, APTES) alter the density and accessibility of binding sites on the [[gadd-fungal-cell-structure]] wall. Pretreatment with alkali solutions (NaOH) removes surface impurities and exposes additional carboxyl and amino groups, while acid pretreatment can protonate binding sites and alter surface charge distribution.
 
-Immobilization of fungal biomass on solid supports — including alginate beads, polyurethane foam, cellulose, and activated carbon — improves mechanical stability, facilitates separation from treated water, and enables use in continuous-flow [[fungal-bioaccumulation-heavy-metals]] of metals into intracellular compartments, and the ability to express stress-responsive genes that may enhance metal tolerance and binding over time. In continuous-flow systems, live cultures can adapt to the metal composition of the wastewater over successive generations, potentially improving performance through physiological acclimation.
+Immobilization of [[bioremediation-fungal-biomass-biosorbent-material]] on solid supports — including alginate beads, polyurethane foam, cellulose, and activated carbon — improves mechanical stability, facilitates separation from treated water, and enables use in continuous-flow fungal-bioaccumulation-heavy-metals of metals into intracellular compartments, and the ability to express stress-responsive genes that may enhance [[fungal-metal-tolerance-mechanisms]] and binding over time. In continuous-flow systems, live cultures can adapt to the metal composition of the wastewater over successive generations, potentially improving performance through physiological acclimation.
 
 ## See Also
 
+- [[singh-binary-ternary-fungal-biosorption-systems]]
+
 - [[fungal-heavy-metal-biosorption-detailed]] for single-metal biosorption fundamentals
-- [[fungal-biosorption-desorption-regeneration]] for regeneration protocols
+- fungal-biosorption-desorption-regeneration for regeneration protocols
 - [[fungal-bioreactor-types]] for reactor design considerations
 - [[fungal-heavy-metal-anion-biosorption]]
-- [[fungal-heavy-metal-interactions]] between metals in these systems require empirical characterization rather than extrapolation from single-metal data.
+- fungal-heavy-metal-interactions between metals in these systems require empirical characterization rather than extrapolation from single-metal data.
 ## Practical Considerations
 
 When working with Fungal Binary and Ternary Biosorption Systems, several practical factors should be
@@ -66,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

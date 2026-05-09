@@ -1,5 +1,5 @@
 ---
-title: Cannabis and Inflammatory Bowel Disease (IBD/IBS)
+title: Cannabis and blesching-cannabis-inflammatory-bowel-disease Disease (IBD/IBS)
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Cannabis and Inflammatory Bowel Disease (IBD/IBS)
 
-**Source:** Uwe Blesching, The Cannabis Health Index
+**Source:** Uwe Blesching, The [[blesching-cannabis-health-index-autoimmune-conditions]]
 **Last Updated:** 2026-04-19
 
 ## Overview
@@ -38,7 +38,7 @@ Inflammatory Bowel Disease encompasses both IBS (syndrome) and IBD (disease incl
 
 1. **CBD reduces hypermotility** (2008, University of Naples, Italy): CBD reduced hypermotility in mice, suggesting CBD normalizes motility in inflammatory bowel disease. CHI=2
 
-2. **FAAH blocker reduces colitis** (2008, University of Calgary, Canada): EC membrane transport inhibitor VDM11 enhanced endocannabinoid system action; cannabinoids reduced colitis. Scientists concluded drugs targeting EC degradation offer therapeutic potential for IBD. CHI=3
+2. **FAAH blocker reduces colitis** (2008, University of Calgary, Canada): EC [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] inhibitor VDM11 enhanced endocannabinoid system action; cannabinoids reduced colitis. Scientists concluded drugs targeting EC degradation offer therapeutic potential for IBD. CHI=3
 
 3. **Cannabinoids reduce inflammation** (2006, Northeastern University, Boston): Novel molecules acting through the ECS showed therapeutic potential on inflammatory diseases including IBD. CHI=3
 
@@ -60,9 +60,9 @@ Additional conventional approaches include low-FODMAP diets, cognitive behaviora
 
 - IBS-C associated with "holding on without change" — grim determination despite unsolvable problems
 
-- IBS-D associated with wanting to "get rid of something or somebody" — desire to be done with a situation
+- IBS-D associated with wanting to "[[query-how-to-get-rid-of-slugs-and-snails-organically]] of something or somebody" — desire to be done with a situation
 
-- Nausea/vomiting linked to preoccupation with past mistakes and wishing to "undo" something
+- Nausea/vomiting linked to preoccupation with [[holzer-past-mistakes-modern-agriculture]] and wishing to "undo" something
 
 The gut-brain axis is increasingly recognized as central to IBS pathophysiology. Stress activates the hypothalamic-pituitary-adrenal axis, which directly affects gut function through neural, hormonal, and immune pathways. Cannabis may modulate the gut-brain axis through both central nervous system effects and peripheral receptor activation.
 
@@ -72,7 +72,7 @@ The gut-brain axis is increasingly recognized as central to IBS pathophysiology.
 
 - **Turmeric/curcumin**: meta-study shows promise for adenomatous polyposis, IBD, and ulcerative colitis; double-blind RCT showed curcumin safe for maintaining remission from UC
 
-- **(E)-beta-Caryophyllene**: FDA-approved dietary cannabinoid activating CB2 with potent anti-inflammatory action; found in black pepper, basil, cinnamon, rosemary, oregano, clove
+- **(E)-beta-Caryophyllene**: FDA-approved dietary cannabinoid activating CB2 with potent anti-inflammatory action; found in [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], basil, cinnamon, rosemary, oregano, clove
 
 - **Peppermint oil**: Natural antispasmodic with evidence for IBS symptom relief
 

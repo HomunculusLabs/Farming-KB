@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-When metal ions combine with organic compounds, a chelate is formed. The term comes from the Greek word for "claw" -- chelating molecules literally grab and surround metal ions, preventing them from participating in unwanted chemical reactions. This process makes otherwise unavailable nutrients soluble and mobile in soil, and is particularly important for [[micronutrient-deficiency-symptoms|micronutrient]] delivery.
+When metal ions combine with [[fungal-volatile-organic-compounds-communication]], a chelate is formed. The term comes from the Greek word for "claw" -- chelating molecules literally grab and surround metal ions, preventing them from participating in unwanted chemical reactions. This process makes otherwise unavailable nutrients soluble and mobile in soil, and is particularly important for [[micronutrient-deficiency-symptoms|micronutrient]] delivery.
 
 ## How Chelation Works
 
@@ -36,11 +36,11 @@ Plant roots exude organic acids that can chelate metals, gathering them up and m
 
 ### Glomalin
 
-Arbuscular mycorrhizal fungi secrete glomalin, a compound that ties up metals (including heavy metals) in the soil, sequestering them so they won't harm their symbiotic plant partner.
+[[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi secrete glomalin, a compound that ties up metals (including [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]) in the soil, sequestering them so they won't harm their symbiotic plant partner.
 
 ### Humic and Fulvic Acids
 
-Humic substances naturally present in compost and organic matter act as natural chelators. This is one reason compost is so effective at making micronutrients available.
+Humic substances naturally present in [[coleman-compost-and-organic-fertility-management]] matter act as natural chelators. This is one reason compost is so effective at making micronutrients available.
 
 ## Synthetic Chelating Agents
 
@@ -52,7 +52,7 @@ EDTA is the most common synthetic chelating agent used in commercial micronutrie
 
 - **DTPA** (Diethylenetriaminepentaacetic acid): More stable than EDTA at higher pH
 - **EDDHA** (Ethylenediamine-N,N'-bis(2-hydroxyphenylacetic acid)): Most stable for iron at high pH (alkaline soils)
-- **Citric acid**: A natural chelator used in some foliar sprays
+- **Citric acid**: A natural chelator used in some [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]]
 
 ## Foliar Application
 

@@ -1,5 +1,5 @@
 ---
-title: Maria Sabina and the Mazatec Tradition — Shroom
+title: shroom cultural history maria sabina and mazatec tradition and the Mazatec Tradition — Shroom
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -44,7 +44,7 @@ If the spirits indicated the patient was beyond help, the curandera experience w
 
 ## Wasson's Arrival (1955)
 
-Gordon Wasson met Sabina in 1955 on his third trip to Mexico. He described her as possessing "purity" and being "a woman of rare moral and spiritual power." She agreed to let both Wasson and photographer Allan Richardson eat the sacred mushrooms — they became "the first Westerners ever intentionally to do so."
+Gordon Wasson met Sabina in 1955 on his third trip to Mexico. He described her as possessing "purity" and being "a woman of rare moral and spiritual power." She agreed to let both Wasson and photographer Allan Richardson eat the [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]] — they became "the first Westerners ever intentionally to do so."
 
 Wasson's account of his experience is vivid: visions of "brilliant colours, gold and onyx and ebony, all most harmoniously and ingeniously contrived, in richest magnificence." He felt himself a "disembodied eye" hovering above strange landscapes, then a witness to the Platonic realm of forms. He felt he understood "the true, awful meaning of the word 'ecstasy'."
 
@@ -71,7 +71,7 @@ In later life, Sabina lamented that the power of the mushrooms had been corrupte
 Letcher argues that Maria Sabina "has always been misrepresented by Western writers":
 
 - For **Eunice Pike**, the missionary, her utterances were "the work of the devil"
-- For **Wasson**, she was the last priestess of an ancient mushroom cult — "Religion Incarnate"
+- For **Wasson**, she was the last priestess of an ancient [[african-mushroom-cult-history]] — "Religion Incarnate"
 - For **mushroom enthusiasts worldwide**, she became the "quintessential psychedelic shaman" — "a term she never used"
 - In **academic circles**, she is honoured as an ethno-poet of distinction
 - She has inspired **feminist poetry** — American Ann Teplick freely reworked Sabina's transcribed utterances
@@ -83,4 +83,4 @@ Sabina's autobiography was compiled by Alvaro Estrada from interviews conducted 
 ## Related Concepts
 
 - [[shroom-cultural-history-hippie-revolution-and-counterculture]] — The counterculture movement that overwhelmed Huautla
-- [[shroom-cultural-history-mushroom-in-ancient-civilizations]] — The Aztec roots of Mazatec mushroom traditions
+- [[shroom-cultural-history-mushroom-in-ancient-civilizations]] — The Aztec roots of Mazatec [[sacred-mushroom-traditions-in-mexico]]

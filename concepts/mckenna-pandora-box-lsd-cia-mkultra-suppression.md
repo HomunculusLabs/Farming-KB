@@ -1,5 +1,5 @@
 ---
-title: Pandora's Box, LSD, CIA Operations, and the Suppression of Psychedelic Research
+title: Pandora's Box, LSD, CIA Operations, and the Suppression of mckenna-suppression-psychedelic-research-lsd-therapy
 created: 2026-05-06
 tags: [lsd, cia, mkultra, suppression, 1960s, psychopharmacology, deconditioning, drug-war]
 date: 2026-04-28
@@ -15,7 +15,7 @@ The period between 1947 and 1970 saw the characterization, purification, and inv
 turbulent decade in American cultural life in a
 hundred years. McKenna frames this sequence as the opening of Pandora's box: the sudden availability of extraordinarily powerful consciousness-
 altering compounds collided with the institutional
-structures of dominator culture, producing a conflict that reshaped American society and effectively halted legitimate scientific research into
+structures of [[mckenna-dominator-culture-and-suppression-of-ecstasy]], producing a conflict that reshaped American society and effectively halted legitimate scientific research into
 psychedelics for a generation.
 
 ## The Cascade of Discovery (1947 to 1960)
@@ -28,7 +28,7 @@ oriental motifs and wonderful scenes altering very
 rapidly.
 
 A year later, in May 1957, Valentina and Gordon Wasson published their now-famous article in Life magazine announcing the discovery of the
-psilocybin mushroom complex. The tone of the Life article
+[[emcdda-psilocybin-mushroom-dose-and-effects]] complex. The tone of the Life article
 contrasts sharply with the hysteria and distortion that the American media would later fan; it was both fair and detailed, both open-minded and
 scientific. The chemical loose ends of the Wassons'
 discoveries were tidied up by Hofmann, who chemically isolated [[blesching-cannabis-alcoholism]] and concluded that 45
@@ -39,9 +39,9 @@ experiments were never designed and the work could not be repeated because of it
 
 Psychiatry's promising new uses of LSD to treat pain, addiction, alcoholism, and depression during terminal illness were put on indefinite hold. It
 fell to the humble science of botany to advance our
-understanding of hallucinogenic plants, as the clinical research community was effectively silenced by Schedule I classification and the
+understanding of hallucinogenic plants, as the [[hofmann-lsd-clinical-research-early-studies]] community was effectively silenced by Schedule I classification and the
 associated stigma. The suppression of psychedelic research
-represents one of the great intellectual tragedies of the twentieth century.
+represents one of the great intellectual tragedies of the [[coleman-louis-savier-twentieth-century-maraicher]].
 
 ## See Also
 
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

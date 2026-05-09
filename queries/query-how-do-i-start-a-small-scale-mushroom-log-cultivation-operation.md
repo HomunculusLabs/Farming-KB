@@ -1,5 +1,5 @@
 ---
-title: "How Do I Start a Small-Scale Mushroom Log Cultivation Operation?"
+title: "How Do I Start a Small-Scale Mushroom pleurotus-natural-log-cultivation-methods Operation?"
 tags:
   - mushroom-cultivation
   - log-inoculation
@@ -38,13 +38,13 @@ A practical guide for beginners looking to [[query-how-do-i-grow-king-oyster-mus
 | Reishi | Oak, maple | 10–18 months | 0.1–0.3 lbs | Moderate |
 | Maitake (Hen of Woods) | Oak | 12–24 months | 0.25–0.5 lbs | Hard |
 
-**Recommendation for beginners:** Start with shiitake and oyster — reliable fruiters, strong market demand, forgiving of small errors.
+**Recommendation for beginners:** Start with [[query-difference-between-shiitake-and-oyster-mushrooms]] — reliable fruiters, strong market demand, forgiving of small errors.
 
 ## Inoculation Steps
 
 ### Tools and Materials Needed
-- Drill with 5/16" bit (for plug spawn) or 12mm inoculation tool (for sawdust)
-- Plug spawn or sawdust spawn (purchased from reputable suppliers)
+- Drill with 5/16" bit (for [[growing-gourmet-plug-spawn-production]]) or 12mm inoculation tool (for sawdust)
+- Plug spawn or [[growing-gourmet-sawdust-spawn-production-use]] (purchased from reputable suppliers)
 - Food-grade cheese wax or beeswax + small brush or wax dauber
 - Clean workspace and gloves (not required but recommended)
 
@@ -59,9 +59,9 @@ A practical guide for beginners looking to [[query-how-do-i-grow-king-oyster-mus
 
 ## Stacking Methods
 
-- **Lincoln Log (criss-cross):** Most common. Good airflow, easy to manage. Stack in alternating perpendicular layers, 4–6 logs per layer.[[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]] sed; compost or use as garden mulch |
+- **Lincoln Log (criss-cross):** Most common. Good airflow, easy to manage. Stack in alternating perpendicular layers, 4–6 logs per layer.[[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]] sed; compost or use as [[cotter-outdoor-mushroom-garden-mulch-beds]] |
 
-**Force fruiting (shiitake):** Submerge colonized logs in cold water (50–60°F) for 24 hours to trigger fruiting. Repeat every 8–10 weeks during the growing season for reliable harvests.
+**Force fruiting (shiitake):** Submerge colonized logs in cold water (50–60°F) for 24 hours to trigger fruiting. Repeat every 8–10 weeks during the [[savory-growing-season-and-non-growing-season-management]] for reliable harvests.
 
 ## Yield Expectations
 
@@ -91,6 +91,8 @@ A practical guide for beginners looking to [[query-how-do-i-grow-king-oyster-mus
 | Tags/labeling | $10 |
 | Logs (if free from arborist) | $0 |
 ## See Also
+
+- [[cervantes-backyard-small-scale-cultivation]]
 
 - [[query-how-to-start-a-small-scale-snail-farm]]
 - [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]]

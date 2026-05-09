@@ -1,5 +1,5 @@
 ---
-title: Controlled Substances Act and Psychedelic Research
+title: Controlled controlled substances act and psychedelic research and mckenna-suppression-psychedelic-research-lsd-therapy
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -9,13 +9,13 @@ sources:
 ---
 # Controlled Substances Act and Psychedelic Research
 
-**Source:** PiHKAL cautionary note; historical context
+**Source:** PiHKAL [[pihkal-cautionary-note-and-legal-context]]; historical context
 
 **Updated:** 2026-04-19
 
 ## Overview
 
-The Controlled Substances Act (CSA) of 1970 (Title II of the Comprehensive Drug Abuse Prevention and Control Act) established the legal framework that governs psychedelic research in the United States to this day. By placing most classical psychedelics in Schedule I, the CSA effectively ended legitimate human research for nearly three decades and created the legal environment described in the [[psychedelic-research-legal-history-united-states]].
+The Controlled Substances Act (CSA) of 1970 (Title II of the Comprehensive Drug Abuse Prevention and Control Act) established the legal framework that governs psychedelic research in the [[dmt-containing-plants-united-states-halpern]] to this day. By placing most classical psychedelics in Schedule I, the CSA effectively ended legitimate human research for nearly three decades and created the legal environment described in the [[psychedelic-research-legal-history-united-states]].
 
 ## Legislative Background
 
@@ -45,7 +45,7 @@ The scheduling decisions were made through a combination of scientific review an
 
 ## The Shulgin Context
 
-Alexander Shulgin's DEA Schedule I license was an exception to the general prohibition. His ability to continue research — documented in [[shulgin-designer-drugs-analysis]] concept emerged from this legal ambiguity, creating an ongoing tension between chemical innovation and legal prohibition.
+Alexander Shulgin's DEA Schedule I license was an exception to the general prohibition. His ability to continue research — documented in [[shulgin-designer-drugs-analysis]] concept emerged from this legal ambiguity, creating an ongoing tension between chemical innovation and [[emcdda-hallucinogenic-mushroom-legal-prohibition-impact-uk-netherlands]].
 
 ## Modern Reassessment
 
@@ -69,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

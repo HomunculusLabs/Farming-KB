@@ -10,7 +10,7 @@ sources: ["raw/papers/beneficial-indigenous-microorganisms-bionutrients.md"]
 
 **Updated:** 2026-04-24
 
-Oriental Herbal Nutrients (OHN) is a natural antibiotic and tonic preparation used in Korean Natural Farming, originally derived from a recipe using ginger, garlic, and traditional Chinese herbs. OHN serves as both a preventive medicine and a treatment for fungal, bacterial, and pest problems in plants and animals. The preparation method involves alcohol extraction similar to herbal tinctures in homeopathy, which extracts the final active ingredients after an initial fermentation stage.
+Oriental Herbal Nutrients (OHN) is a natural antibiotic and tonic preparation used in Korean Natural Farming, originally derived from a recipe using ginger, garlic, and traditional Chinese herbs. OHN serves as both a preventive medicine and a treatment for fungal, bacterial, and pest problems in plants and animals. The preparation method involves [[pf-tek-alcohol-extraction-method]] similar to herbal tinctures in homeopathy, which extracts the final active ingredients after an initial fermentation stage.
 
 Related preparations include [[bionutrients-lab-fermented-plant-juice-fpj]], [[bionutrients-lab-fish-aminos]], and [[bionutrients-lab-calcium-phosphate-calamansi]].
 
@@ -73,11 +73,11 @@ The two-stage process (fermentation followed by alcohol extraction) is deliberat
 - **Digestive aid:** Stimulates digestion and nutrient absorption
 - **Anti-inflammatory:** Reduces inflammation in plants and animals
 - **Warming herb:** In traditional medicine, promotes circulation and vitality
-- **Antimicrobial:** Contains gingerol and other compounds with antimicrobial properties
+- **Antimicrobial:** Contains gingerol and other compounds with [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]
 
 ### Chinese Herbs (when used)
 
-- **Angelica acutiloba:** Blood tonic, supports circulation and nutrient transport
+- **Angelica acutiloba:** Blood tonic, supports circulation and [[mycelial-network-nutrient-transport-imaging-gadd]]
 - **Glycyrrhiza uralensis:** Harmonizes the formula, supports digestive function
 - **Cinnamomum loureirii:** Aromatic, antimicrobial, supports digestive warmth
 
@@ -88,8 +88,8 @@ The two-stage process (fermentation followed by alcohol extraction) is deliberat
 - **Fungal control:** Applied to plants with fungal problems — garlic's sulfur compounds are particularly effective
 - **Pest and disease prevention:** Regular application strengthens plant defenses
 - **General tonic:** Improves overall plant health and vigor
-- **Combined with BIM:** Mixed with beneficial indigenous microorganisms for enhanced pest and disease control
-- **Whole-farm application:** For persistent pest/disease problems, spray not only on affected plants but across the entire farm to restore ecological balance
+- **Combined with BIM:** Mixed with beneficial [[beneficial-indigenous-microorganisms-bim]] for enhanced pest and disease control
+- **Whole-farm application:** For persistent pest/disease problems, spray not only on affected plants but across the entire farm to restore [[fukuoka-ecological-balance-principles]]
 
 ### Animal Applications
 
@@ -110,7 +110,7 @@ The two-stage process (fermentation followed by alcohol extraction) is deliberat
 
 OHN is one of several bionutrients that natural farmers combine with beneficial indigenous microorganisms:
 
-- **Standard combination:** BIM + fermented plant extracts (FPJ/FFJ) + ginger-garlic extract (OHN) + brown rice vinegar + fish amino acid (FAA)
+- **Standard combination:** BIM + [[query-how-do-i-use-fermented-plant-extracts-in-my-garden]] (FPJ/FFJ) + ginger-garlic extract (OHN) + brown rice vinegar + fish amino acid (FAA)
 - **Synergistic effect:** The combination is more effective than any single input
 - **OHN's role:** Provides antibiotic and tonic properties to the overall formulation
 - **Ecological balance:** When combined with BIM proliferation, OHN helps restore the microbial balance that keeps pathogens in check

@@ -1,5 +1,5 @@
 ---
-title: "Ladino Clover, Alfalfa, and Bur Clover as Orchard Ground Cover Crops"
+title: "Ladino Clover, Alfalfa, and Bur Clover as fukuoka-citrus-orchard-ground-cover-cultivation Cover Crops"
 created: 2026-04-28
 tags: [natural-farming, cover-crops, clover, alfalfa, orchard-management, weed-control, soil-fertility, legumes, fukuoka]
 date: 2026-04-28
@@ -14,11 +14,11 @@ type: concept
 
 ## Overview
 
-Fukuoka's ground cover system using leguminous plants is central to his natural orchard management. By replacing conventional weeding with strategic cover crop management, he eliminates the need for both herbicides and fertilizers while building soil fertility. The three primary cover crops in his system are ladino clover as the mainstay, alfalfa for deep soil improvement, and bur clover for seasonal weed suppression, each serving distinct and complementary functions in the orchard ecosystem.
+Fukuoka's ground cover system using leguminous plants is central to his natural [[fukuoka-orchard-management-detailed]]. By replacing conventional weeding with strategic cover crop management, he eliminates the need for both herbicides and fertilizers while building soil fertility. The three primary cover crops in his system are ladino clover as the mainstay, alfalfa for deep soil improvement, and bur clover for seasonal weed suppression, each serving distinct and complementary functions in the orchard ecosystem.
 
 ## Why Use a Ground Cover: The Problem with Clean Cultivation
 
-Soil management as normally practiced today consists basically of clean cultivation that turns the soil into mere mineral matter. Of course, there is a reason for this: repeated weeding, the application of chemical fertilizers, and careful management increase yields and provide a good product. The soil in many orchards has become depleted with constant plowing and weeding, so some farmers haul rice and barley straw from their paddy fields up into their hillside orchards and spread it below the fruit trees. This began more as a means of reducing weeding work than as a fundamental change in soil management.
+Soil management as normally practiced today consists basically of clean cultivation that turns the soil into mere mineral matter. Of course, there is a reason for this: repeated weeding, the application of [[cervantes-chemical-fertilizers-guide]], and careful management increase yields and provide a good product. The soil in many orchards has become depleted with constant plowing and weeding, so some farmers haul rice and barley straw from their paddy fields up into their hillside orchards and spread it below the fruit trees. This began more as a means of reducing weeding work than as a fundamental change in soil management.
 
 However, relying on straw from the field as the ground cover is hardly an ideal approach. All it does is keep the farmer busy hauling straw from the paddy up the hill and carrying weeds from the hillside down into the fields. Soil management divorced from the field, garden, and hillside is meaningless; only a method that enriches all at the same time makes any sense.
 
@@ -45,7 +45,7 @@ This empirical approach, testing thirty species under actual orchard conditions 
 ### Features and Advantages
 
 1. When used as a cover crop, this eliminates weeds. Annual weeds are displaced in one year, and biennials disappear in two years. After two to three years, almost all garden weeds have vanished, leaving a solid field of clover.
-2. Improves soil down to a depth of sixteen to eighteen inches through root penetration and nitrogen fixation.
+2. Improves soil down to a depth of sixteen to eighteen inches through root penetration and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
 3. Seed does not have to be sown again for another six to eight years, making it a long-term investment in soil health.
 4. Does not compete strongly with fruit trees for fertilizer or moisture, a critical consideration for interplanting in orchards.
 5. Grows back easily after being cut, and remains healthy and hardy even when trampled upon, making it compatible with foot traffic during harvesting.
@@ -86,7 +86,7 @@ Alfalfa fills the ecological niche that clover cannot occupy. While clover impro
 
 ## Bur Clover: Seasonal Weed Suppression
 
-Bur clover is useful in controlling spring weeds. It withers in the summer but grows back again in the fall and suppresses winter weeds as well. A useful orchard cover crop, it is also valuable in the rotation as a crop preceding summer vegetables.
+Bur clover is useful in controlling spring weeds. It withers in the summer but grows back again in the fall and suppresses winter weeds as well. A useful [[fukuoka-textdoc-soil-rehabilitation-timeline-orchard-cover-crop-management]] crop, it is also valuable in the rotation as a crop preceding summer vegetables.
 
 The seasonal pattern of bur clover complements the other cover crops. It is most vigorous during the seasons when clover may be weakened, providing continuous ground coverage throughout the year. Its ability to suppress both spring and winter weeds makes it a valuable bridge between the clover's periods of maximum and minimum growth.
 
@@ -111,8 +111,10 @@ This complementary relationship means that no single species can be replaced wit
 - Proper seeding technique, including not covering clover seed with soil, is critical for success
 - Failure to manage clover leads to dominance reversal within five to six years
 
-## Related Topics
+## Related
+
+- [[fukuoka-ladino-clover-ground-cover-management]] Topics
 
 - [[fukuoka-natural-farming-philosophy]] for companion tree planting
-- [[fukuoka-textdoc-clover-decline-and-weed-succession-orchard]] for managing clover decline
+- [[fukuoka-textdoc-clover-decline-and-weed-succession-orchard]] for managing [[fukuoka-cover-crop-lifespan-clover-decline-weed-reemergence]]
 - [[fukuoka-textdoc-soil-rehabilitation-timeline-orchard-cover-crop-management]] for the full rehabilitation timeline

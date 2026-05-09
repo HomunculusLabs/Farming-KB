@@ -14,7 +14,7 @@ sources:
   - Leafly Strain Database. "Starfighter." leafly.com.
   - AllBud Strain Reviews. "Starfighter." allbud.com.
   - SeedFinder Database. "Starfighter." seedfinder.eu.
-  - Dutch Passion Seed Co. "Strain breeding notes." dutch-passion.com.
+  - Dutch Passion Seed Co. "[[cannabis-strain-breeding-techniques]] notes." dutch-passion.com.
   - "Cannabis chemotype analysis of Chemdawg-derived hybrids." (2019). Journal of Cannabis Research.
 created: 2026-04-28
 ---
@@ -23,7 +23,7 @@ created: 2026-04-28
 
 ## Overview
 
-**Starfighter** is a balanced indica-dominant hybrid cannabis strain created by crossing **Chemdawg 91** (also known as Alien Dawg) with **Lemon OG** (also called Lemon Alien).
+**Starfighter** is a balanced indica-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] created by crossing **Chemdawg 91** (also known as Alien Dawg) with **Lemon OG** (also called Lemon Alien).
 
 The strain was developed by Alien Genetics and gained recognition for its exceptionally resinous buds and complex citrus-fuel aroma.
 
@@ -51,11 +51,11 @@ Starfighter has been used as a parent in subsequent crosses, most notably **Star
 
 Buds are medium to large, densely packed, and taper from a rounded base to a conical tip.
 
-Coloration ranges from deep forest green to olive, with occasional purple highlights in cooler conditions.
+Coloration ranges from deep [[trichoderma-forest-green-mold-guide]] to olive, with occasional purple highlights in cooler conditions.
 
 The most notable visual feature is the extraordinary trichome coverage — buds appear frosted or sugar-coated even under modest magnification.
 
-Pistils are orange to amber, relatively sparse compared to the dominant glandular trichome layer.
+Pistils are orange to amber, relatively sparse compared to the dominant [[cannabis-glandular-trichome-types-resin-production-clarke]] layer.
 
 The resin is thick and sticky, clinging to scissors and grinders, making Starfighter popular for solvent extraction.
 
@@ -122,7 +122,7 @@ Cool nighttime temperatures (below 18°C) in the final two weeks of flowering ca
 
 ## Medical Applications
 
-Starfighter is commonly used for chronic pain management, including neuropathic pain and muscle spasms.
+Starfighter is commonly used for [[cannabis-chronic-pain-management]] management, including neuropathic pain and muscle spasms.
 
 The relaxing body effects aid with insomnia at larger doses.
 
@@ -139,6 +139,6 @@ The strong cerebral onset can be disorienting for novice users.
 
 - [[sfv-og]]
 - [[sour-diesel]]
-- [[gelato-cannabis]]
+- [[gelato]]
 - [[jack-herer-cannabis-strain]]
 - [[tangie-cannabis]]

@@ -43,7 +43,7 @@ The species has been used traditionally in Andean shamanic ceremonies for centur
 
 **Synonyms:** *Cereus lageniformis* Forst., *Trichocereus lageniformis* (Forst.) Britton & Rose, *Trichocereus bridgesii* Salm-Dyck (contested — see notes).
 
-**Note on nomenclature:** There is ongoing taxonomic confusion between *E. lageniformis* and *E. bridgesii*. Some authorities treat them as conspecific, while others maintain them as separate species. The cactus sold commercially as "Bolivian torch" is generally *E. lageniformis*.
+**Note on nomenclature:** There is ongoing [[neurotropic-fungi-taxonomic-confusion-and-identification]] between *E. lageniformis* and *E. bridgesii*. Some authorities treat them as conspecific, while others maintain them as separate species. The cactus sold commercially as "Bolivian torch" is generally *E. lageniformis*.
 
 **Stem:** Columnar, upright, 3–5 m tall in habitat (smaller in cultivation), 8–12 cm diameter. Surface is green to blue-green with 4–8 ribs (typically 4–6). Ribs are broad and rounded, with areoles spaced 1.5–2.5 cm apart.
 
@@ -74,7 +74,7 @@ Alkaloid content is highest in the outer green cortical layer (chlorenchyma) and
 
 **Propagation:** Primarily from seed, though cuttings root readily. Cuttings should be allowed to callus for 2–4 weeks before planting in well-drained substrate. Seed germination requires warmth (25–30°C) and light; germination occurs in 1–4 weeks.
 
-**Growing conditions:** Full sun to partial shade. Standard cactus soil mix (50% mineral grit, 50% organic). Water thoroughly during active growth (spring–autumn), withhold water during winter dormancy. Fertilize monthly during growing season with low-nitrogen cactus fertilizer.
+**Growing conditions:** Full sun to partial shade. Standard cactus soil mix (50% mineral grit, 50% organic). Water thoroughly during active growth (spring–autumn), withhold water during winter dormancy. Fertilize monthly during [[savory-growing-season-and-non-growing-season-management]] with low-nitrogen cactus fertilizer.
 
 **Pests:** Susceptible to mealybugs, scale insects, and spider mites. Root rot is the most common problem, caused by overwatering or poor drainage.
 
@@ -84,7 +84,7 @@ The Bolivian torch has documented use in indigenous Andean ceremonial contexts, 
 
 The species is less well-documented ethnographically than *E. pachanoi*, partly due to Bolivia's more restrictive access for foreign researchers during much of the 20th century. Nevertheless, its ceremonial use is confirmed by multiple ethnographic sources and continues in contemporary Bolivian traditional medicine.
 
-In the Western psychedelic community, *E. lageniformis* is valued as a mescaline source due to its potency and lower incidence of nausea compared to *E. pachanoi* preparations. The traditional preparation method involves boiling sections of the cactus for several hours to produce a bitter tea.
+In the [[shamanic-vs-western-psychedelic-healing]] community, *E. lageniformis* is valued as a mescaline source due to its potency and lower incidence of nausea compared to *E. pachanoi* preparations. The [[kava-traditional-preparation-ceremonial-context]] method involves boiling sections of the cactus for several hours to produce a bitter tea.
 
 ## Comparison with Related Mescaline Cacti
 
@@ -96,8 +96,8 @@ In the Western psychedelic community, *E. lageniformis* is valued as a mescaline
 
 ## Legal Status
 
-- **United States:** Legal to cultivate; mescaline is Schedule I under the Controlled Substances Act. The cactus itself is not scheduled, but extraction of mescaline constitutes a federal offense.
-- **United Kingdom:** Legal to grow and possess; extraction and preparation for consumption is controlled under the Psychoactive Substances Act 2016.
+- **United States:** Legal to cultivate; mescaline is Schedule I under the Controlled [[controlled-substances-act-and-psychedelic-research]]. The cactus itself is not scheduled, but extraction of mescaline constitutes a federal offense.
+- **United Kingdom:** Legal to grow and possess; [[gottlieb-peyote-extraction-and-preparation-methods]] for consumption is controlled under the Psychoactive Substances Act 2016.
 - **Australia:** *Echinopsis* species are not specifically scheduled, though some states restrict cultivation. Mescaline is a Schedule 9 prohibited substance.
 - **Bolivia:** Protected under national biodiversity law. Wild collection is restricted; cultivated specimens are legal.
 

@@ -1,5 +1,5 @@
 ---
-title: Mollison PDC Small Pond and Frog Habitat Design
+title: Mollison PDC Small Pond and mollison pdc small pond frog habitat design Design
 created: 2026-04-28
 tags:
   - permaculture
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-design-course.md
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
 
@@ -18,11 +19,11 @@ type: concept
 
 ## Overview
 
-In Pamphlet IX of the Permaculture Design Course, Bill Mollison describes
+In Pamphlet IX of the [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] Course, Bill Mollison describes
 small pond systems as essential components of zone one and zone two
 designs. Beyond their obvious role in water storage and irrigation, small
 ponds serve as critical habitat for frogs and other aquatic organisms
-that provide biological pest control for the surrounding garden. Mollison
+that provide [[cervantes-biological-pest-control-predators]] control for the surrounding garden. Mollison
 argues that every home garden should include at least one small pond,
 positioned to maximize both its ecological function and its convenience
 for the gardener.
@@ -35,12 +36,12 @@ ecosystem. A single frog consumes enormous quantities of slugs, beetles,
 mosquitoes, flies, and other insect pests. Mollison states that a
 well-placed pond can attract enough frogs to provide complete biological
 pest control for the surrounding garden, eliminating or drastically
-reducing the need for any chemical pest management.
+reducing the need for any chemical [[cannabis-pest-management-guide]].
 
 The key insight is that frogs need water for breeding and for maintaining
 their skin moisture. Without a permanent water body nearby, frogs cannot
 survive in a garden. By providing even a small pond, the gardener invites
-a resident frog population that works continuously to control pests.
+a resident frog population that works continuously to [[query-how-to-control-pests-without-chemicals]].
 
 ## Mosquito Control Paradox
 
@@ -108,7 +109,7 @@ for frogs moving between the pond and the garden.
 
 In permaculture design, the pond should be fed primarily by runoff from
 roofs, paths, and other hard surfaces. Mollison describes swales and
-diversion drains that channel rainwater into the pond, creating a
+[[mollison-designers-diversion-drains-and-interceptor-banks]] that channel rainwater into the pond, creating a
 self-filling system that requires no external water input once
 established. The pond level will fluctuate seasonally, which is natural
 and beneficial, as it prevents stagnation and creates seasonally
@@ -139,6 +140,11 @@ within the overall permaculture design.
 
 ## See Also
 
-- [[mollison-pdc-dam-construction-water-systems]]
-- [[permaculture-zone-one-design]]
+- [[mollison-pdc-community-legal-structure]]
+
+- mollison-pdc-dam-construction-water-systems
+- permaculture-zone-one-design
 - [[mollison-salicornia-flats-and-estuarine-aquaculture]]
+- [[composting-systems]]
+- [[permaculture-design]]
+- [[bill-mollison]]

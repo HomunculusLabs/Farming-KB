@@ -50,13 +50,13 @@ Ayurvedic rasayana (rejuvenative) herb used for over 3,000 years. One of the mos
 ## Rhodiola (Rhodiola rosea)
 
 ### Overview
-Arctic/alpine herb used in Scandinavian, Russian, and traditional Chinese medicine. Vikings reportedly used it for endurance. Known as "golden root" or "arctic root." Grows in cold, high-altitude environments across Europe, Asia, and North America.
+Arctic/alpine herb used in Scandinavian, Russian, and traditional Chinese medicine. Vikings reportedly used it for endurance. Known as "golden root" or "arctic root." Grows in cold, high-altitude environments across Europe, Asia, and [[psilocybin-north-america-pacific-northwest]].
 
 ### Key Compounds
 - **Salidroside:** Primary adaptogenic glycoside. Anti-fatigue, neuroprotective, anti-inflammatory.
 - **Rosavin:** Signature compound (used for standardization along with salidroside). Found only in R. rosea among Rhodiola species.
 - **Rosin, rosinarin:** Related cinnamyl alcohol glycosides.
-- **Tyrosol:** Amino acid derivative with antioxidant effects.
+- **Tyrosol:** [[cho-fish-amino-acid-preparation]] derivative with antioxidant effects.
 
 ### Mechanisms
 - Modulates cortisol and stress hormone release.
@@ -121,7 +121,7 @@ Also known as Siberian ginseng (though not a true Panax ginseng). Woody shrub na
 - **Lignans:** Including syringaresinol with antioxidant activity.
 
 ### Mechanisms
-- Modulates HPA axis stress response.
+- Modulates HPA axis [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]].
 - Enhances cellular metabolism and ATP production.
 - Improves oxygen utilization and athletic endurance.
 - Stimulates immune function: enhances NK cell activity, T-cell proliferation, and antibody production.
@@ -136,58 +136,11 @@ Also known as Siberian ginseng (though not a true Panax ginseng). Woody shrub na
 - Take consistently for 4-8 weeks for full adaptogenic effects.
 
 ### Contraindications
-- Caution with cardiovascular conditions and hypertension (some reports of palpitations). Autoimmune conditions. May interact with digoxin, barbiturates, and antidiabetic drugs. Avoid in children without professional guidance.
+- Caution with cardiovascular conditions and hypertension (some reports of palpitations). [[cannabis-autoimmune-conditions-detailed]]. May interact with digoxin, barbiturates, and antidiabetic drugs. Avoid in children without professional guidance.
 
 ---
 
 ## Maca (Lepidium meyenii)
-
-### Overview
-Root vegetable from the high Andes of Peru, cultivated at altitudes above 3,500 meters. Used as food and medicine by indigenous Andean peoples for over 2,000 years. Not a true adaptogen by strict definition (lacks HPA axis modulation) but commonly classified as one due to its stress-resistance and vitality-enhancing properties. Three main varieties: yellow (most common), red, and black (each with slightly different properties).
-
-### Key Compounds
-- **Macaenes and macamides:** Unique fatty acid amides. Believed responsible for many of maca's effects, particularly on sexual function and mood.
-- **Glucosinolates:** Sulfur-containing compounds (also found in cruciferous vegetables).
-- **Alkaloids:** Including macaridine.
-- **Sterols:** Beta-sitosterol, campesterol, stigmasterol.
-- **Amino acids:** Rich in arginine and histidine.
-
-### Mechanisms
-- Does not directly affect hormones but may support endocrine function indirectly.
-- Enhances libido and sexual function (mechanism unclear — possibly central nervous system effects).
-- Mood enhancement: may increase serotonin and dopamine receptor sensitivity.
-- Improves energy and reduces fatigue (non-stimulant mechanism).
-- Antioxidant properties reduce oxidative stress.
-- Black maca shows the strongest effects on sperm quality and memory; red maca shows the strongest effects on prostate health.
-
-### Dosing
-- **Gelatinized powder (preferred):** 1.5-3g per day.
-- **Raw powder:** 3-6g per day (higher dose needed due to reduced bioavailability).
-- **Extract:** 500-1000mg daily.
-- Start with lower dose and increase gradually.
-- Cycling recommended: daily use for 6-8 weeks, then 2-4 week break.
-
-### Contraindications
-- Pregnancy and breastfeeding. Thyroid conditions (glucosinolates may affect thyroid function, particularly with iodine deficiency). Hormone-sensitive conditions (controversial — evidence is mixed). Caution with blood pressure medications.
-
----
-
-## Choosing the Right Adaptogen
-
-| Goal | Primary | Secondary |
-|------|---------|-----------|
-| Stress/anxiety | Ashwagandha, Holy Basil | Rhodiola |
-| Fatigue/energy | Rhodiola, Eleuthero | Maca |
-| Athletic performance | Rhodiola, Eleuthero | Maca |
-| Sexual health | Maca, Ashwagandha | — |
-| Cognitive focus | Rhodiola, Ashwagandha | Eleuthero |
-| Sleep improvement | Ashwagandha, Holy Basil | — |
-| Immune support | Eleuthero, Holy Basil | Ashwagandha |
-
-## Combining Adaptogens
-
-Adaptogens can generally be combined safely. Start with one adaptogen for 2-4 weeks before adding another to assess individual response. Common pairings: Ashwagandha + Rhodiola (comprehensive stress), Holy Basil + Ashwagandha (anxiolytic), Eleuthero + Rhodiola (endurance), Maca + Ashwagandha (sexual health).
-
 ## Related Topics
 
 - [[medicinal-mushroom-guide-reishi]] for mushroom adaptogens

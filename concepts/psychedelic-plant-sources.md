@@ -19,15 +19,15 @@ Over 200 species of fungi are known to contain psilocybin and related indole alk
 ## DMT Snuff Plants
 
 - **Virola** species (V. theiodora, V. calophylla, V. elongata) -- bark resin prepared as snuff (Psychedelic Plant Sources) by indigenous peoples of the Amazon basin
-- **Anadenanthera peregrina** (yopo, cohoba) -- seeds ground into snuff; contains DMT, 5-MeO-DMT, and bufotenin
+- **[[yopo-anadenanthera-peregrina-snuff]]** (yopo, cohoba) -- seeds ground into snuff; contains DMT, 5-MeO-DMT, and bufotenin
 - **Anadenanthera colubrina** (cebil) -- similar use in southern Amazon and Argentina
 
 ## Mescaline-Containing Cacti
 
-- **Lophophora williamsii** (peyote) -- 1-6% mescaline; see [[psilocybin-mushroom-identification]] -- Mushroom identification guide
+- **Lophophora williamsii** (peyote) -- 1-6% mescaline; see [[psilocybin-mushroom-identification]] -- [[psilocybin-mushroom-identification-guide]] guide
 - [[beta-carboline-chemistry]] -- Ayahuasca pharmacokinetics
-- [[salvia-divinorum-profile]] — Salvia Divinorum Profile
-- [[gartz-magic-mushrooms-global-distribution-patterns]]
+- [[salvia-divinorum-profile]] — [[golden-guide-salvia-divinorum-and-diviner-sage]] Profile
+- gartz-magic-mushrooms-global-distribution-patterns
 ## Practical Applications
 
 Psychedelic Plant Sources has a range of practical applications that make it relevant to
@@ -105,4 +105,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

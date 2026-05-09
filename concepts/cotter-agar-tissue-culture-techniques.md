@@ -1,5 +1,5 @@
 ---
-title: Agar and Tissue Culture Techniques
+title: Agar and Tissue agar-culture-techniques-detailed
 created: 2026-04-26
 tags: [tissue-culture, agar, laboratory, strain-isolation, cloning]
 date: 2026-04-25
@@ -13,8 +13,8 @@ type: concept
 
 ## Overview
 
-Working with agar plates is the foundation of mushroom cultivation. Agar is a
-gelatinous seaweed extract used as a substrate for tissue cultures. Petri plates
+Working with agar plates is the foundation of [[accessible-mushroom-cultivation-for-disabilities]]. Agar is a
+gelatinous [[comparison-seaweed-extract-vs-fish-hydrolysate]] used as a substrate for tissue cultures. Petri plates
 (available in glass for reuse or disposable plastic) hold the agar. Agar
 powder can be purchased from mycological supply companies or most Asian markets.
 
@@ -39,7 +39,7 @@ metal-to-metal seals. Fill the cooker with water per manufacturer's directions.
 Plug the flask top with cotton or polyester fill, cover with aluminum foil, and
 process at 15 PSI for twenty minutes.
 
-Critical: Open the cooker only in a clean room or in front of the laminar flow
+Critical: Open the cooker only in a clean room or in front of the [[comparison-laminar-flow-hood-vs-fruiting-chamber]]
 hood, when internal pressure is still slightly above 0 PSI. If pressure drops
 below 0, a vacuum forms and sucks in contaminated air. If opened too hot, agar
 boils out of the flask. Sanitize the work area thoroughly before opening.
@@ -75,7 +75,7 @@ library of dried, powdered substrate samples in the lab.
 
 ## Enrichment Medium (Substrate Agar)
 
-Adding a tablespoon of the mushroom's preferred fruiting substrate (finely
+Adding a tablespoon of the mushroom's preferred [[pf-tek-maximum-fruiting-substrate-formula]] (finely
 ground sawdust or screened wheat straw powder) to agar helps cultures adapt and
 express needed enzymes. This "enrichment medium" is useful for hard-to-clone or
 picky fungi.
@@ -138,4 +138,7 @@ purified strain.
 
 - [[cotter-laboratory-setup]] -- lab design and equipment
 - [[cotter-culture-storage-senescence]] -- preserving cultures long-term
-- [[cotter-mushroom-life-cycle-mycelium-biology]] -- understanding fungal biology
+- cotter-mushroom-life-cycle-mycelium-biology -- understanding [[bloomfield-fungal-biology-and-hyphal-growth]]
+- [[mycoremediation]]
+- [[mushroom-cultivation]]
+- [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]

@@ -1,5 +1,5 @@
 ---
-title: McKenna on the Fall of Partnership Society
+title: McKenna on the Fall of mckenna-dominator-vs-partnership-society-model
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -14,7 +14,7 @@ sources:
 
 If the partnership society was so wonderful, why did it ever end? McKenna attributes the ending of the partnership society and the rise of the dominator society to climatic catastrophe. Between 10,000 and 8,000 B.C. the climate was warming, sea levels were rising, and forests were moving north. Glacial meltwater flooded the Persian Gulf, the Black Sea, and the Mediterranean, and the Great Lakes of North America.
 
-The climate was changing dramatically and not in ways that encouraged partnership. The Sahara was drying out, and the grasslands of the Tassili plateau that had supported millions of cattle were being reduced to desert. The partnership cultures that had thrived in the benign climate of the early Holocene found themselves in a world of increasing competition for diminishing resources.
+The climate was changing dramatically and not in ways that encouraged partnership. The Sahara was drying out, and the grasslands of the [[mckenna-tassili-plateau-round-head-civilization]] that had supported millions of cattle were being reduced to desert. The partnership cultures that had thrived in the benign climate of the early Holocene found themselves in a world of increasing competition for diminishing resources.
 
 ## From Abundance to Scarcity
 
@@ -26,7 +26,7 @@ This transition from abundance to scarcity set the stage for a profound transfor
 
 As conditions worsened, a new kind of social organization emerged — one based on the control of resources, the accumulation of surplus, and the exercise of force. The dominator model, which had always been present as a potential within human societies, now gained the upper hand.
 
-The patriarchal takeover was not a sudden event but a long process that unfolded over several thousand years. It involved the suppression of goddess worship, the destruction of the partnership's sacred relationship with psychedelic plants, and the establishment of hierarchical power structures based on male dominance and military force.
+The patriarchal takeover was not a sudden event but a long process that unfolded over several thousand years. It involved the suppression of goddess worship, the destruction of the partnership's sacred [[i-thou-relationship-with-psychedelic-entities]] plants, and the establishment of hierarchical power structures based on male dominance and military force.
 
 ## The Indo-European Invasion
 
@@ -36,7 +36,7 @@ The Kurgan culture, as Marija Gimbutas named these people, left a trail of destr
 
 ## The Descent into History
 
-What followed was what we call "history" — the long, grim record of warfare, slavery, empire, and exploitation that characterizes dominator culture. The partnership model did not disappear entirely; it survived in marginalized forms — in mystery cults, in folk traditions, in the practices of indigenous peoples, and in the persistent human longing for a lost golden age.
+What followed was what we call "history" — the long, grim record of warfare, slavery, empire, and exploitation that characterizes [[mckenna-dominator-culture-and-suppression-of-ecstasy]]. The partnership model did not disappear entirely; it survived in marginalized forms — in mystery cults, in folk traditions, in the practices of indigenous peoples, and in the persistent human longing for a lost golden age.
 
 The memory of the lost paradise — the partnership Eden — survives in our myths and our dreams. The Genesis story of the Fall, the expulsion from the Garden, and the curse of labor is a dim cultural memory of the actual historical transition from partnership to dominator society.
 
@@ -52,7 +52,7 @@ See also:
 
 ## Significance in Psychedelic Thought
 
-McKenna's work represents one of the most ambitious attempts to construct a comprehensive theory of the role of psychoactive plants in human history and culture. While academic anthropologists have been skeptical of many specific claims, his ideas have been enormously influential in psychedelic culture and continue to inspire research into the relationship between psychoactive substances and human consciousness. The concept of an Archaic Revival — the recovery of ancient plant-based wisdom — has resonated with the growing interest in ethnobotany, ecological consciousness, and the therapeutic potential of psychedelic substances documented in [[mckenna-food-of-the-gods-thesis]], which traces the relationship between humans and psychoactive plants from prehistory to the present. The themes explored here connect directly to his discussions of [[mckenna-archaic-revival]] as counter-movements to the suppression of plant-based ecstatic religion.
+McKenna's work represents one of the most ambitious attempts to construct a comprehensive theory of the role of psychoactive plants in human history and culture. While academic anthropologists have been skeptical of many specific claims, his ideas have been enormously influential in psychedelic culture and continue to inspire research into the relationship between psychoactive substances and human consciousness. The concept of an [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]] — the recovery of ancient plant-based wisdom — has resonated with the growing interest in ethnobotany, ecological consciousness, and the therapeutic potential of psychedelic substances documented in [[mckenna-food-of-the-gods-thesis]], which traces the relationship between humans and psychoactive plants from prehistory to the present. The themes explored here connect directly to his discussions of [[mckenna-archaic-revival]] as counter-movements to the suppression of plant-based ecstatic religion.
 
 ## See Also
 - [[mckenna-archaic-revival]]
@@ -64,7 +64,7 @@ This analysis is part of McKenna's larger project, articulated most fully in [[p
 
 ## Contemporary Relevance
 
-McKenna's ideas about the relationship between psychoactive plants and human consciousness have found new relevance in the context of the modern psychedelic renaissance. Research into psychedelic-assisted therapy, documented in [[psychedelic-therapy-mechanisms]], has demonstrated that substances like psilocybin can produce mystical-type experiences that have lasting positive effects on personality, well-being, and attitudes toward death. These findings lend some empirical support to McKenna's argument that psychoactive plants have played a significant role in shaping human consciousness and culture.
+McKenna's ideas about the relationship between psychoactive plants and human consciousness have found new relevance in the context of the modern psychedelic renaissance. Research into psychedelic-assisted therapy, documented in [[psychedelic-therapy-mechanisms]], has demonstrated that substances like psilocybin can produce mystical-type experiences that have lasting positive effects on personality, well-being, and [[weil-cultural-attitudes-toward-altered-states]] death. These findings lend some empirical support to McKenna's argument that psychoactive plants have played a significant role in shaping human consciousness and culture.
 ## Practical Considerations
 
 Successful implementation of McKenna on the Fall of Partnership Society requires attention to
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

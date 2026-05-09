@@ -1,5 +1,5 @@
 ---
-title: Natural Farming Inputs in Cho's System
+title: comparison-natural-farming-vs-permaculture Inputs in Cho's System
 source: Dr. Cho Han Kyu's Korean Natural Farming System
 topics:
   - natural-farming
@@ -14,9 +14,9 @@ topics:
 
 # [[korean-natural-farming]] system relies on a suite of
 naturally fermented inputs that replace synthetic fertilizers, pesticides,
-and growth regulators. These inputs are produced on-farm from locally
+and [[ingham-natural-growth-regulators-soil-microbes]]. These inputs are produced on-farm from locally
 available materials using simple fermentation techniques. Each input
-serves a specific purpose in the nutritive cycle, and together they
+serves a specific purpose in the [[cho-nutritive-cycle-theory]], and together they
 provide plants with a complete nutritional and protective program.
 
 ## [[oriental-herbal-nutrient]] (OHN)
@@ -50,7 +50,7 @@ diluted 1000:1 for application.
 
 WCA strengthens cell walls, improves fruit firmness, prevents cracking,
 and enhances disease resistance. Since calcium is immobile in plants,
-consistent external supply through foliar application is essential during
+consistent external supply through [[ultra-low-cost-foliar-application-methods]] is essential during
 rapid cell division such as fruit set and early fruit development.
 
 WCA is produced from eggshells, animal bones, or oyster shells. The source
@@ -81,5 +81,5 @@ combinations and rates based on local conditions.
 ## See Also
 
 - [Nutritive Cycle Theory]([[cho-nutritive-cycle-theory]].md)
-- [Indigenous Microorganisms (IMO)](indigenous-microorganisms-imo.md)
-- [Cho's Natural Farming Philosophy](cho-natural-farming-philosophy.md)
+- [[beneficial-indigenous-microorganisms-bim]] (IMO)](indigenous-microorganisms-imo.md)
+- [Cho's Natural [[fukuoka-do-nothing-farming-philosophy-and-practice]](cho-natural-farming-philosophy.md)

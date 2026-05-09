@@ -4,12 +4,13 @@ created: 2026-04-17
 updated: 2026-04-20
 type: concept
 tags: [reference]
-sources: []
+sources:
+  sources: []
 ---
 
 # Straw Pasteurization Methods
 
-Straw is one of the most productive and accessible bulk substrates for mushroom cultivation. Wheat straw in particular supports vigorous fruiting of Pleurotus ostreatus, Stropharia rugoso-annulata, Panaeolus cyanescens, and Psilocybe cubensis. Proper pasteurization is essential to prepare straw for inoculation by reducing competitor organisms while maintaining the structural and nutritional qualities that make straw an excellent mushroom substrate.
+Straw is one of the most productive and accessible bulk substrates for [[accessible-mushroom-cultivation-for-disabilities]]. Wheat straw in particular supports vigorous fruiting of Pleurotus ostreatus, Stropharia rugoso-annulata, [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]], and [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]. Proper pasteurization is essential to prepare straw for inoculation by reducing competitor organisms while maintaining the structural and nutritional qualities that make straw an excellent [[gourmet-medicinal-mushroom-substrate-preparation]].
 
 ## Why Straw Needs Pasteurization
 
@@ -77,8 +78,8 @@ For medium-scale operations, a 55-gallon drum provides an efficient pasteurizati
 - **Inconsistent hydration** causes dry pockets where mycelium cannot colonize and wet pockets where anaerobic bacteria thrive. Always check field capacity in multiple spots after draining.
 - **Recontamination during cooling** is the most common failure point. Cool in a clean environment with filtered air or a covered space. Never cool on dirty ground or near compost piles.
 
-For the complete substrate preparation workflow, see [[grain-spawn-preparation]]. For contamination identification after pasteurization, see [[mushroom-pasteurization]]
-- [[mushroom-substrate-supplementation]]
+For the complete [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] workflow, see [[grain-spawn-preparation]]. For [[mushroom-cultivation-contamination-troubleshooting]] after pasteurization, see [[mushroom-pasteurization]]
+- [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]
 - [[pasteurization-vs-sterilization]]
 - [[monotub-cultivation]]
 - [[bulk-substrate-field-capacity]]

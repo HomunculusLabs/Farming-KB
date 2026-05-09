@@ -1,11 +1,11 @@
 ---
-title: "Grape vs Hardy Kiwi [[basic-plumbing-for-homestead]] Trellising"
+title: "Grape vs Hardy Kiwi basic-plumbing-for-homestead Trellising"
 tags: [grape, hardy-kiwi, trellising, homesteading, permaculture, fruit]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Cornell University College of Agriculture and Life Sciences – Grape Growing Guide"
-  - "University of Minnesota Extension – Hardy Kiwi (Actinidia arguta)"
+  - "Cornell University College of Agriculture and Life Sciences –  Guide"
+  - "University of Minnesota Extension – Hardy Kiwi ([[actinidia-arguta]])"
   - "Missouri Botanical Garden – Actinidia arguta Plant Profile"
   - "USDA Natural Resources Conservation Service – Plant Guides for Vitis and Actinidia"
   - "California Rare Fruit Growers – Hardy Kiwi Fact Sheet"
@@ -34,7 +34,7 @@ Hardy kiwi is significantly more vigorous than grape. A single mature hardy kiwi
 
 ## Hardiness and Climate Suitability
 
-- **Grapes:** USDA Zones 3–10 depending on cultivar. American and hybrid varieties handle cold best; European (*V. vinifera*) prefers Zones 6–10 and is prone to winter damage in colder zones. Grapes require significant heat units for full ripening.
+- **Grapes:** USDA Zones 3–10 depending on cultivar. American and [[cervantes-hybrid-varieties-types]] handle cold best; European (*V. vinifera*) prefers Zones 6–10 and is prone to winter damage in colder zones. Grapes require significant heat units for full ripening.
 - **Hardy Kiwi:** USDA Zones 3–8. Extremely cold-hardy once established (to -25°F or colder). However, hardy kiwi breaks dormancy early, making it vulnerable to late spring frosts that can kill new growth and reduce yield. It performs best where spring arrives gradually.
 
 ## Trellis Requirements
@@ -73,7 +73,7 @@ Hardy kiwi can be extraordinarily productive once established, often outyielding
 
 ## Pest and Disease Profiles
 
-- **Grapes:** Susceptible to powdery mildew, downy mildew, black rot, botrytis, Japanese beetles, grape berry moth, and birds. Disease pressure is highest in humid regions. Organic management requires vigilant spray schedules.
+- **Grapes:** Susceptible to [[cervantes-powdery-mildew-prevention-treatment]], downy mildew, black rot, botrytis, Japanese beetles, grape berry moth, and birds. Disease pressure is highest in humid regions. [[organic-pest-and-disease-management]] requires vigilant spray schedules.
 - **Hardy Kiwi:** Relatively pest-free in most regions. The primary concern is late frost damage to emerging shoots. Cats are attracted to the vines and can damage bark. Root-knot nematodes can be problematic in sandy soils. Few foliar diseases of note.
 
 ## Nutritional Value
@@ -113,7 +113,7 @@ Hardy kiwi produces exceptionally dense shade, creating a thick canopy that is i
 
 **Grapes** integrate well into food forests as mid-canopy vines on established trees, or on dedicated trellis lines. Their deep root systems are relatively non-competitive.
 
-**Hardy kiwi** excels as a multipurpose permaculture element. Its dense shade supports shade-tolerant guilds beneath. The vigorous root system helps with erosion control on slopes. However, its overwhelming growth habit means it must be positioned carefully — never near structures, trees, or plantings you don't want engulfed.
+**Hardy kiwi** excels as a multipurpose permaculture element. Its dense shade supports shade-tolerant guilds beneath. The vigorous root system helps with [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]] on slopes. However, its overwhelming growth habit means it must be positioned carefully — never near structures, trees, or plantings you don't want engulfed.
 
 ## Pros and Cons Summary
 
@@ -139,4 +139,4 @@ Hardy kiwi produces exceptionally dense shade, creating a thick canopy that is i
 ## See Also
 
 - [[comparison-hardy-kiwi-vs-fuzzy-kiwi-vs-grape-for-trellising]]
-- [[comparison-fruit-tree-guilds-vs-companion-planting]]
+- comparison-fruit-tree-guilds-vs-companion-planting

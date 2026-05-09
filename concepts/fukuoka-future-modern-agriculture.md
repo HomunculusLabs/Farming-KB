@@ -5,7 +5,8 @@ updated: 2026-04-21
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # What Lies Ahead for Modern Agriculture
@@ -16,7 +17,7 @@ From "The Natural Way of Farming: The Theory" by Masanobu Fukuoka.
 
 In 1979, Fukuoka visited the United States and was astounded by what he saw. He had thought that desertification and the disappearance of native peoples were stories from ancient history, but he learned that the very same thing has happened repeatedly in the U.S.
 
-Because meat is the food staple in America, agriculture is dominated by livestock farming. Grazing has destroyed the ecology of natural grasses, devastating the land. Land that has lost its fertility is barren of nature's strength. This accounts for the development of a modern agriculture totally reliant on petroleum energy.
+Because meat is the food staple in America, agriculture is dominated by [[fukuoka-textdoc-natural-livestock-farming-open-grazing]]. Grazing has destroyed the ecology of natural grasses, devastating the land. Land that has lost its fertility is barren of nature's strength. This accounts for the development of a modern agriculture totally reliant on petroleum energy.
 
 The low productivity of the land drives farmers to large-scale operations. Large operations require mechanization with machinery of increasing size. This "big iron" breaks down the structure of the soil, setting up a negative cycle. Agriculture that ignores the forces of nature and relies solely on the human intellect and human effort is unprofitable.
 
@@ -24,13 +25,13 @@ The low productivity of the land drives farmers to large-scale operations. Large
 
 To get an idea of just how fragile commercial agriculture is with its large-scale, subcontractor-type monoculture farming, just consider that U.S. farmers working 500 to 700 acres have smaller net incomes than Japanese farmers on 3 to 5 acres.
 
-These faults of modern farming were rooted in the basic illusions of Western philosophy that support the foundations of scientific agriculture. Mistaken ideology had led man astray in how he lived his life and secured his essentials of food, clothing, and shelter. Confusion over food had bred confusion over farming, which had destroyed nature.
+These faults of modern farming were rooted in the basic illusions of [[fukuoka-descartes-western-philosophy-nature]] that support the foundations of [[fukuoka-critique-scientific-agriculture-civilization]]. Mistaken ideology had led man astray in how he lived his life and secured his essentials of food, clothing, and shelter. Confusion over food had bred confusion over farming, which had destroyed nature.
 
 ## The Future of Natural Farming
 
-Fukuoka does not merely wish to expose and attack the current state of modern agriculture, but to point out the errors of Western thought and call for observance of the Eastern philosophy of Mu. Forty years ago, he predicted that the age of centrifugal expansion fed by the growing material desires of man would soon pass and be replaced by a period of contraction and convergence as man sought to improve his spiritual life. "I take it that I was wrong."
+Fukuoka does not merely wish to expose and attack the current state of modern agriculture, but to point out the errors of Western thought and call for observance of the [[fukuoka-western-eastern-philosophy-agriculture]] of Mu. Forty years ago, he predicted that the age of centrifugal expansion fed by the growing material desires of man would soon pass and be replaced by a period of contraction and convergence as man sought to improve his spiritual life. "I take it that I was wrong."
 
-Even organic farming, which has come into its own with the pollution problem, only serves as a temporary stopgap. Being part and parcel of scientific agriculture to begin with, it will be swallowed whole and assimilated by scientific agriculture.
+Even [[coleman-deep-organic-farming-philosophy]], which has come into its own with the pollution problem, only serves as a temporary stopgap. Being part and parcel of scientific agriculture to begin with, it will be swallowed whole and assimilated by scientific agriculture.
 
 ## Science on an Unending Rampage
 
@@ -53,7 +54,7 @@ In today's society, man is cut off from nature and human knowledge is arbitrary.
 
 ## Practical Applications
 
-- Start with a small area and observe natural vegetation patterns before introducing any cultivation.
+- Start with a small area and observe natural [[holmgren-vegetation-patterns-biomass-fertility]] before introducing any cultivation.
 - Use straw mulch and living ground covers (such as white clover) to suppress weeds and build soil organic matter.
 - Introduce seed balls in early spring or fall to establish crops without tilling the soil.
 - Allow beneficial weeds to grow alongside crops — they often serve important ecological functions.
@@ -91,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: "Medicinal Mushroom Uses in Historical Context"
+title: "gourmet-medicinal-mushroom-casing-layer-techniques Uses in Historical Context"
 created: 2026-04-28
 tags: [mushrooms, medicinal-fungi, history, toxicology, ethnobotany]
 date: 2026-04-28
@@ -63,7 +63,7 @@ even in its more advanced stages." Phthisis was the nineteenth-century
 term for pulmonary tuberculosis, a disease that would remain one of
 the leading causes of death for decades to come. The specific species
 of Lactarius involved were not always precisely identified, reflecting
-the broader taxonomic challenges of the period.
+the broader [[guzman-allen-gartz-psilocybe-taxonomic-challenges-and-synonymy]] of the period.
 
 ## Amanitine Toxicology and Absorption
 
@@ -92,4 +92,10 @@ requiring ingestion.
 
 The most significant therapeutic insight involved the use of atropine,
 derived from belladonna ([[palmer-mushroom-cooking-culinary-uses]]
-- [[agaricus-brasiliensis-almond-mushroom-medicinal-profile]]
+- agaricus-brasiliensis-almond-mushroom-medicinal-profile
+## See Also
+- [[palmer-mushroom-cooking-culinary-uses]]
+- [[mushroom-compost-preparation-historical]]
+- [[medicinal-mushroom-dietary-supplements]]
+- [[medicinal-mushroom-properties]]
+- [[gourmet-medicinal-mushroom-casing-layer-techniques]]

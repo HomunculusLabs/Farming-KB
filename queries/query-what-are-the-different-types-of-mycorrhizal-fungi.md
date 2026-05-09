@@ -1,5 +1,5 @@
 ---
-title: "What Are the Different Types of Mycorrhizal Fungi?"
+title: "What Are the Different Types of arbuscular-mycorrhizal-fungi-biology-symbiosis?"
 created: 2026-04-28
 tags: [query, mycology, mycorrhiza, soil-science, symbiosis]
 date: 2026-04-25
@@ -12,13 +12,13 @@ type: query
 
 ## Short Answer
 
-There are seven main types of mycorrhizal associations. Arbuscular mycorrhizal fungi (AMF) are the most common, found in roughly 80% of plant species. Ectomycorrhizal fungi (ECM) associate primarily with trees. Ericoid, orchid, arbutoid, monotropoid, and ectendomycorrhizal types specialize in specific plant families, each with distinct anatomical structures and ecological functions.
+There are seven main types of mycorrhizal associations. [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi (AMF) are the most common, found in roughly 80% of plant species. [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] (ECM) associate primarily with trees. Ericoid, orchid, arbutoid, monotropoid, and ectendomycorrhizal types specialize in specific plant families, each with distinct anatomical structures and ecological functions.
 
 ## Arbuscular Mycorrhizal Fungi (AMF)
 
 [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] reference covers their life cycle and colonization patterns
 
-AMF do not produce visible mushrooms and cannot be grown without a living plant host, which makes commercial cultivation dependent on root inoculation methods.
+AMF do not produce visible mushrooms and cannot be grown without a living plant host, which makes commercial cultivation dependent on root [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]].
 
 ## Ectomycorrhizal Fungi (ECM)
 
@@ -28,7 +28,7 @@ ectomycorrhizal-networks form primarily with woody plants:
 - Common partners include pines, oaks, beeches, birches, and walnuts
 - Unlike AMF, they do not penetrate root cells
 - They form a dense sheath or mantle around root tips
-- A network of hyphae between root cells called the Hartig net is the nutrient exchange site
+- A network of hyphae between root cells called the Hartig net is the [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] site
 - Many familiar edible mushroom species are ECM fungi: chanterelles, boletes, and truffles
 
 The [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] research shows they access nutrients from decomposing organic matter
@@ -44,7 +44,7 @@ Orchids have the most dependent mycorrhizal relationship:
 - They depend entirely on fungal partners for carbon and nutrients during the seedling stage
 - Some orchid species remain partially dependent on fungi throughout their lives
 - Non-photosynthetic orchids like Indian pipe are entirely dependent on fungi for carbon
-- The fungi obtain carbon from neighboring trees through shared mycorrhizal networks
+- The fungi obtain carbon from neighboring trees through shared [[dighton-mycorrhizal-networks-carbon-transfer]]
 
 ## Arbutoid Mycorrhizae
 
@@ -58,6 +58,7 @@ Orchids have the most dependent mycorrhizal relationship:
 
 - [[query-how-do-mushrooms-contribute-to-soil-health]]
 - [[query-how-to-build-healthy-garden-soil]]
+
 ## Practical Considerations
 
 Successful implementation of What Are the Different Types of Mycorrhizal Fungi? requires attention to
@@ -76,4 +77,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,10 +1,11 @@
 ---
-title: How Do I Propagate Woody Herbs from Cuttings?
+title: How Do I query how to propagate woody herbs from cuttings Herbs from Cuttings?
 created: 2026-04-28
 tags: [herbalism, propagation, cuttings, herbs, plant-reproduction]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -30,10 +31,10 @@ Taken in late autumn through winter from fully mature, hardened wood. These are 
 ## Step-by-Step Propagation Guide
 
 ### 1. Select and Prepare the Parent Plant
-Choose a healthy, disease-free mother plant with vigorous growth. Water the parent plant the day before taking cuttings to ensure the stems are fully hydrated. Take cuttings in the early morning when turgor pressure is highest.
+Choose a healthy, disease-free mother plant with vigorous growth. Water the parent plant the day before taking cuttings to ensure the stems are fully hydrated. Take cuttings in the early morning when [[bloomfield-turgor-pressure-and-hyphal-invasion]] is highest.
 
 ### 2. Take the Cuttings
-Cut 4 to 6 inch (10 to 15 cm) sections from non-flowering stems. Use clean, sharp pruners or a scalpel — a ragged cut invites infection and reduces rooting success. Make the cut at a 45-degree angle just below a node, which is where the highest concentration of rooting hormones naturally occurs.
+Cut 4 to 6 inch (10 to 15 cm) sections from non-flowering stems. Use clean, sharp pruners or a scalpel — a ragged cut invites infection and reduces rooting success. Make the cut at a 45-degree angle just below a node, which is where the highest concentration of [[cervantes-rooting-hormones-cloning]] naturally occurs.
 
 ### 3. Prepare the Cutting
 Strip the lower two-thirds of leaves from the cutting. Any foliage below the soil line will rot and introduce pathogens. For large-leaved herbs like sage, cut remaining leaves in half horizontally to reduce transpiration while preserving some photosynthetic capacity. Remove any flower buds — flowering diverts energy away from root formation.
@@ -41,7 +42,7 @@ Strip the lower two-thirds of leaves from the cutting. Any foliage below the soi
 ### 4. Apply Rooting Hormone (Optional)
 Dip the cut end into rooting hormone powder or gel. While many woody herbs will root without it, rooting hormone significantly increases success rates and speeds up the process. Use a formulation labeled for semi-hardwood or hardwood cuttings. [[ingham-vermicompost-worm-castings]] works well.
 
-Keep newly potted cuttings in bright indirect light for another 2 weeks before introducing them to direct sun or outdoor conditions. Feed with a diluted organic fertilizer at half strength once new growth appears — this confirms the cutting has established a functional root system.
+Keep newly potted cuttings in bright indirect light for another 2 weeks before introducing them to direct sun or outdoor conditions. Feed with a diluted [[complete-organic-fertilizer-cof-recipe-solomon]] at half strength once new growth appears — this confirms the cutting has established a functional root system.
 
 ## Timeline Summary
 
@@ -54,7 +55,7 @@ Keep newly potted cuttings in bright indirect light for another 2 weeks before i
 | Oregano | Spring | Softwood | 2 to 3 weeks |
 | Bay Laurel | Autumn | Hardwood | 8 to 16 weeks |
 
-With clean tools, the right medium, consistent humidity, and patience, you can build an entire herb garden from cuttings of plants you already love.
+With clean tools, the right medium, consistent humidity, and patience, you can build an entire [[hamilton-herb-garden-design]] from cuttings of plants you already love.
 
 ## See Also
 
@@ -81,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: Scientific Farming Paradoxes According to Fukuoka
+title: fukuoka-illusions-scientific-farming-centrifugal-centripetal-model Paradoxes According to Fukuoka
 created: 2026-04-28
 tags:
   - natural-farming
@@ -51,7 +51,7 @@ grow food.
 
 - [[four-principles-of-natural-farming]]
 - [[fukuoka-hybrid-rice-international-drama]]
-- natural farming as spiritual practice
+- [[comparison-natural-farming-vs-permaculture]] as spiritual practice
 
 ## See Also
 
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

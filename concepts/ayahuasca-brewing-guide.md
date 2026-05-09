@@ -30,7 +30,7 @@ The word "ayahuasca" comes from the Quechua language: "aya" (soul, spirit, dead)
 
 ### Alternative DMT Sources
 - Diplopterys cabrerana (chaliponga) — stronger than chacruna, 15–30 g dried
-- Mimosa hostilis root bark — used in Brazilian-style preparations
+- [[entheogen-jurema-mimosa-hostilis-ethnobotany]] [[iboga-root-bark-preparation]] — used in Brazilian-style preparations
 - Psychotria carthaginensis — less common substitute
 
 ## Proportions and Ratios
@@ -69,7 +69,7 @@ The ratio can be adjusted: more vine produces a heavier, more bodily experience 
 1. Combine all extracted liquid
 2. Return to low heat and reduce to a drinkable volume (100–200 ml per dose)
 3. The final brew should be dark, thick, and bitter — like a syrupy tea
-4. Store in glass bottles in a cool dark place; refrigeration extends shelf life to several weeks
+4. Store in glass bottles in a cool dark place; refrigeration extends [[psilocybin-shelf-life-stability]] to several weeks
 
 ## The Dieta
 
@@ -94,7 +94,7 @@ The dieta is considered essential for purification and sensitivity to the medici
 
 ## Ceremony Structure
 
-Traditional ayahuasca ceremonies follow a general structure that varies between indigenous groups:
+Traditional [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] follow a general structure that varies between indigenous groups:
 
 1. **Opening**: The curandero (healer) calls upon the spirits, smokes mapacho (jungle tobacco), and sets the ceremonial space (the "maloca" or ceremonial hut)
 2. **Invocation**: Icaros (sacred songs) are sung to call the medicine and protect participants
@@ -112,7 +112,7 @@ Traditional ayahuasca ceremonies follow a general structure that varies between 
 - Always have a sober sitter or experienced facilitator present
 - Pregnant and nursing women should not consume ayahuasca
 - See [[harmala-alkaloids]] for detailed information on beta-carboline pharmacology
-- See [[psychedelic-plants-legal-status]] for legal status by jurisdiction
+- See [[psychedelic-plants-legal-status]] for [[ayahuasca-tourism-legal-status-by-country]] by jurisdiction
 
 ## Related Topics
 

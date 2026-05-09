@@ -22,7 +22,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/bigwood-beug-variation-of-psilocybin-and-
 - **Genus:** Psilocybe
 - **Species:** P. rugosoannulata
 
-The species was described by the eminent mycologist Rolf Singer, who conducted extensive taxonomic work on Neotropical agarics during his career. The epithet "rugosoannulata" refers to the wrinkled or rugose annulus (ring) on the stipe, which is a distinctive macroscopic feature. It is placed within Psilocybe section Cordisporae, a group of primarily tropical species with thick-walled, heart-shaped (cordiform) spores.
+The species was described by the eminent mycologist [[rolf-singer]], who conducted extensive taxonomic work on Neotropical agarics during his career. The epithet "rugosoannulata" refers to the wrinkled or rugose annulus (ring) on the stipe, which is a distinctive macroscopic feature. It is placed within Psilocybe section Cordisporae, a group of primarily tropical species with thick-walled, heart-shaped (cordiform) spores.
 
 ## Description
 
@@ -60,7 +60,7 @@ The species was described by the eminent mycologist Rolf Singer, who conducted e
 - Basidiospores 9 to 12 by 6 to 7.5 µm
 - Subrhomboid to broadly ellipsoid, often with a heart-shaped (cordiform) tendency in face view
 - Thick-walled with a well-defined germ pore
-- Spore print dark purplish-brown to nearly black
+- [[spore-print]] dark purplish-brown to nearly black
 
 ### Microscopic Features
 - Cheilocystidia abundant, ventricose to lageniform with narrow necks, sometimes with a slight apical constriction
@@ -95,7 +95,7 @@ psilocybe rugosoannulata was described by Rolf Singer as part of his monumental 
 
 ## Toxicity and Safety
 
-psilocybe rugosoannulata is not physically toxic. The active compounds [[psilocin]] have low physiological toxicity, and no deaths have been attributed to psilocybin mushroom ingestion alone. However, foragers should exercise caution to distinguish it from potentially dangerous species. In tropical pastures, species of Galerina and other toxic genera may co-occur with psilocybin mushrooms. The blue bruising reaction provides a useful preliminary screening tool, though it is not infallible.
+psilocybe rugosoannulata is not physically toxic. The active compounds [[psilocin]] have low physiological toxicity, and no deaths have been attributed to [[psilocybin-mushroom]] ingestion alone. However, foragers should exercise caution to distinguish it from potentially dangerous species. In tropical pastures, species of Galerina and other toxic genera may co-occur with [[psilocybin-mushrooms]]. The blue bruising reaction provides a useful preliminary screening tool, though it is not infallible.
 
 ## Ethnobotanical Context
 
@@ -105,9 +105,9 @@ psilocybe rugosoannulata is not known to have significant documented use in indi
 
 psilocybe rugosoannulata follows the coprophilous (dung-inhabiting) life cycle strategy common to many tropical Psilocybe species. Basidiospores are dispersed onto vegetation and consumed by herbivores, passing through the digestive tract unharmed. Upon deposition in dung, spores germinate and the mycelium rapidly colonizes the nutrient-rich substrate.
 
-Colonization of fresh dung occurs quickly, with the mycelium of psilocybe rugosoannulata competing with numerous other coprophilous fungi, including species of Coprinus, Panaeolus, Sphaerobolus, and other Psilocybe species. The species occupies a secondary decomposer niche, fruiting after the initial flush of fast-colonizing species has depleted the most readily available nutrients.
+Colonization of fresh dung occurs quickly, with the mycelium of psilocybe rugosoannulata competing with numerous other [[coprophilous-fungi]], including species of Coprinus, Panaeolus, Sphaerobolus, and other Psilocybe species. The species occupies a secondary decomposer niche, fruiting after the initial flush of fast-colonizing species has depleted the most readily available nutrients.
 
-Fruiting typically occurs 2 to 4 weeks after dung deposition, depending on temperature and moisture conditions. Multiple fruitings from a single dung pat can occur over several weeks. The mushrooms are relatively robust compared to many other coprophilous species and can persist for several days under favorable conditions.
+Fruiting typically occurs 2 to 4 weeks after dung deposition, depending on [[mushroom-growing-temperature-and-moisture]] conditions. Multiple fruitings from a single dung pat can occur over several weeks. The mushrooms are relatively robust compared to many other coprophilous species and can persist for several days under favorable conditions.
 
 ## Ecology
 

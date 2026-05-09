@@ -5,7 +5,8 @@ updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka's Soil Management and Observations
@@ -37,7 +38,7 @@ Fukuoka repeatedly points to mountain forests as evidence that soil does not nee
 
 ### The Clearing Process
 
-Fukuoka describes the typical orchard establishment process and its destructive effects:
+Fukuoka describes the typical [[fukuoka-citrus-orchard-establishment-bare-hillside]] process and its destructive effects:
 
 1. Fell forest trees and carry off logs, branches, and leaves (removes humus source)
 2. Dig deep, pulling up tree and grass roots; burn them (destroys root channels and organic matter)
@@ -59,7 +60,7 @@ Conventional wisdom holds that plowing loosens soil. Fukuoka argues the opposite
 
 ### Chemical Fertilizer Damage
 
-The specific damages of chemical fertilizers to soil:
+The specific damages of [[cervantes-chemical-fertilizers-guide]] to soil:
 
 1. **Soil acidification:** More than 70% of the "big three" fertilizers is concentrated sulfuric acid. About 1.8 million tons of sulfuric acid are dumped annually onto Japanese farmlands.
 2. **Microbe destruction:** Acidic fertilizer suppresses and kills soil microorganisms, disrupting the soil's biological life.
@@ -72,7 +73,7 @@ The specific damages of chemical fertilizers to soil:
 Fukuoka documented his soil observations from decades of continuous no-tillage rice/barley succession cropping:
 
 - **No yield decline:** "During the entire period that I have used this method, I have never seen any sign of a decline in yields due to reduced soil fertility"
-- **No nutrient deficiency:** "I did not apply lime or any type of micronutrient, and yet noted no deficiencies. At no time did this ever become a problem"
+- **No [[cannabis-grow-nutrient-deficiency-problem-solving]]:** "I did not apply lime or any type of micronutrient, and yet noted no deficiencies. At no time did this ever become a problem"
 - **Constant soil change:** "The constant change in the conditions of the cover crop within the orchard showed only that the soil changes constantly and that the fruit trees growing within that soil adapt constantly to such changes"
 - **Soil darkening:** The soil becomes darker and richer each year through the return of all straw and organic matter
 - **Improved aggregation:** Soil structure improves progressively as microbial activity increases
@@ -112,7 +113,7 @@ Fukuoka discovered that weeds provide information about soil conditions:
 
 ### Scientific Soil Adjustment
 
-Scientific farming tries to adjust soil through targeted corrections:
+[[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] tries to adjust soil through targeted corrections:
 - If soil is acidic, apply lime
 - If excessive manganese uptake, prevent it
 - If phosphate or magnesia deficiency, add them
@@ -122,7 +123,7 @@ Scientific farming tries to adjust soil through targeted corrections:
 
 ### Natural Soil Adaptation
 
-In Fukuoka's natural orchard:
+In Fukuoka's [[fukuoka-natural-orchard-development]]:
 - No lime or micronutrient was applied
 - No deficiencies were observed
 - The fruit trees adapted constantly to changing soil conditions
@@ -136,4 +137,4 @@ Fukuoka's key insight about soil fertility:
 
 - "Land that grows fertile over time without plowing, weeding, or chemical fertilizers represents not only an accumulation of labor and capital, but an increase in intangibles as well"
 - Physical improvement and human effort alone have only temporary effect
-- Natural farming uses the forces of living organisms to physically and chemically improve the soil
+- [[comparison-natural-farming-vs-permaculture]] uses the forces of living organisms to physically and chemically improve the soil

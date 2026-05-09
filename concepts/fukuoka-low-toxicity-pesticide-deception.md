@@ -1,5 +1,5 @@
 ---
-title: Fukuoka on Low Toxicity Pesticide Deception
+title: Fukuoka on fukuoka low toxicity pesticide deception Pesticide Deception
 created: 2026-04-28
 tags: [fukuoka, pesticides, pollution, critique, organic-farming, natural-farming]
 date: 2026-04-25
@@ -22,7 +22,7 @@ Fukuoka stated plainly: There is no such thing as a non-polluting
 pesticide. This simple declaration cuts through decades of chemical
 industry marketing and government reassurances about pesticide safety.
 For Fukuoka, the very concept of a safe pesticide was an oxymoron,
-because any substance designed to kill living organisms inevitably
+because any substance designed to kill [[savory-living-organisms-as-tools]] inevitably
 disrupts the broader web of life.
 
 ## What "Low Toxicity" Really Means
@@ -30,7 +30,7 @@ disrupts the broader web of life.
 Farmers today are spraying so-called low-toxicity agents. "Low toxicity"
 does not mean only slightly toxic. What it really means is toxicity that
 is not immediately apparent to the human eye, toxicity that is difficult
-to discern through chemical analysis, even when examined at the microbial
+to discern through [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]], even when examined at the microbial
 level.
 
 The low toxicity of these pesticides provides a degree of latitude in
@@ -85,7 +85,7 @@ beyond science.
 ## Organic Farming versus Natural Farming
 
 Fukuoka drew an important distinction between organic farming and
-natural farming. On the surface, organic farming and natural farming
+natural farming. On the surface, organic farming [[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]]
 appear similar, but consider this carefully before you decide one way
 or another. It took Fukuoka twenty to thirty years to be able to say,
 "Scatter straw onto the fields." Scattering that straw makes composting

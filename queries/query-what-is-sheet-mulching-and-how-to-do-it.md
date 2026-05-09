@@ -1,10 +1,11 @@
 ---
-title: "What Is Sheet Mulching and How to Do It"
+title: "What Is comparison-sheet-mulching-vs-chop-and-drop-mulching and How to Do It"
 created: 2026-04-28
 tags: [query, sheet-mulching, no-till, soil-building, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/steve-solomon-gardening-when-it-counts.md"
 type: query
 ---
 
@@ -15,7 +16,7 @@ Sheet mulching, also known as lasagna gardening, is a no-dig soil-building
 technique where layers of organic materials are laid directly on top of
 existing vegetation (including weeds and lawn) to create rich, fertile garden
 beds without tilling. By smothering unwanted vegetation and creating ideal
-conditions for decomposition, sheet mulching converts bare ground or neglected
+conditions for decomposition, sheet mulching converts [[savory-bare-ground-and-soil-exposure]] or neglected
 areas into productive garden soil in a single season with minimal labor.
 
 ## Detailed Explanation
@@ -32,8 +33,8 @@ layer.
 ### The Nitrogen Layer
 Above the cardboard barrier, a two-to-four-inch layer of nitrogen-rich material
 is spread. This "green" layer provides the nitrogen that decomposer organisms
-need to break down the carbon-rich materials above and below it. Aged manure,
-compost, coffee grounds, grass clippings, or kitchen scraps all work. The
+need to [[query-can-fungi-break-down-plastic-pollution]] the carbon-rich materials above and below it. Aged manure,
+compost, [[oyster-mushroom-coffee-grounds-cultivation]], grass clippings, or kitchen scraps all work. The
 nitrogen layer is critical because without sufficient nitrogen, the
 decomposition process stalls and the sheet mulch becomes a nitrogen sink that
 can temporarily starve plants planted into it.
@@ -48,8 +49,8 @@ at sufficient depth.
 
 ### Soil Biology Benefits
 The soil biology benefits of sheet mulching are substantial and long-lasting.
-Unlike tilling, which destroys fungal networks and oxidizes organic matter,
-sheet mulching preserves and encourages soil fungal communities. The
+Unlike tilling, which destroys fungal networks and oxidizes [[hamilton-composting-and-organic-matter-management]],
+sheet mulching preserves and encourages soil [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]. The
 undisturbed soil beneath the cardboard retains its existing mycorrhizal
 networks, earthworm populations, and microbial communities. As the mulch layers
 decompose from below, organic matter is incorporated into the soil profile by
@@ -79,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

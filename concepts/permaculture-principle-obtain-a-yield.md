@@ -1,16 +1,17 @@
 ---
-title: Permaculture Principle 3 — Obtain a Yield
+title: Permaculture Principle 3 — holmgren-obtain-a-yield-detailed
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, principles, design, gardening, food-forest, agriculture]
 sources:
-  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+  sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 
 # Permaculture Principle 3 — Obtain a Yield
 
-The third of David Holmgren's twelve permaculture design principles. This principle reminds us that any system must produce useful yields to be sustainable. A system that only requires inputs without returning outputs will eventually be abandoned.
+The third of David Holmgren's twelve [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] principles. This principle reminds us that any system must produce useful yields to be sustainable. A system that only requires inputs without returning outputs will eventually be abandoned.
 
 > "The yield of a system is theoretically unlimited (or only limited by the imagination and information of the designer)." — David Holmgren
 
@@ -35,7 +36,7 @@ A yield that provides for genuine needs is also more resilient. Households and c
 Holmgren identifies several categories of yield that permaculture systems should aim to provide:
 
 - **Provision yields**: Food, water, fuel, fiber, medicine — the material necessities
-- **Regulating yields**: Erosion control, water purification, microclimate moderation, pest regulation — the ecosystem services
+- **Regulating yields**: [[permplant-willows-salix-erosion-control-fodder]], water purification, microclimate moderation, pest regulation — the [[biodiversity-of-fungi-ecosystem-services-agriculture]]
 - **Cultural yields**: Beauty, education, recreation, spiritual connection, community — the human wellbeing factors
 - **Financial yields**: Income from surplus production, reduced costs from self-reliance
 
@@ -66,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

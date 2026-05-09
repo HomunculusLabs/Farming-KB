@@ -32,7 +32,7 @@ Cardoon is a robust perennial herb reaching 1–1.5 meters in height. It forms a
 
 The stems are thick, fleshy, and ribbed, typically harvested when blanched for culinary use. Flower heads are large (5–10 cm diameter), globe-shaped, and composed of purple-blue florets surrounded by spiny bracts.
 
-The root system is deep and extensive, contributing to drought tolerance. Seeds are achenes, approximately 6–8 mm long, dark brown to black, and highly oil-rich.
+The root system is deep and extensive, contributing to [[dighton-fungal-drought-tolerance-plant-water-relations]]. Seeds are achenes, approximately 6–8 mm long, dark brown to black, and highly oil-rich.
 
 ## History and Ethnobotany
 
@@ -54,7 +54,7 @@ Blanching is essential for producing tender edible stalks. Plants are wrapped in
 
 Harvest of blanched stalks occurs from late autumn through winter, approximately 4–5 months after sowing. Yields of edible stalks range from 5–8 kg per plant under optimal conditions.
 
-Cardoon is relatively pest-resistant but can be affected by aphids, slugs, and fungal pathogens including Botrytis cinerea and powdery mildew. Crop rotation and good drainage minimize disease pressure.
+Cardoon is relatively pest-resistant but can be affected by aphids, slugs, and [[bloomfield-fungal-pathogens-and-parasites]] including Botrytis cinerea and [[cervantes-powdery-mildew-prevention-treatment]]. Crop rotation and good drainage minimize disease pressure.
 
 ## Culinary and Nutritional Use
 
@@ -88,13 +88,13 @@ Cardoon flowers are highly attractive to pollinators, particularly bees, butterf
 
 The deep root system improves soil structure and can help prevent erosion on slopes. As a member of the Asteraceae, cardoon contributes to plant biodiversity in semi-arid grassland communities.
 
-Cardoon residues and leaf litter add organic matter to the soil. The plant has been investigated as a phytoremediation agent for moderately contaminated soils due to its tolerance of heavy metals.
+Cardoon residues and leaf litter add [[hamilton-composting-and-organic-matter-management]] to the soil. The plant has been investigated as a phytoremediation agent for moderately contaminated soils due to its tolerance of heavy metals.
 
 ## Pharmacological Activities
 
 Extracts of Cynara cardunculus leaves have demonstrated hepatoprotective effects in animal models of chemical-induced liver injury. The mechanism involves antioxidant activity, membrane stabilization, and enhancement of bile flow.
 
-Hypolipidemic effects have been documented, with reductions in total cholesterol and LDL cholesterol observed in clinical trials using artichoke leaf extracts. Cardoon shares many bioactive constituents with globe artichoke.
+Hypolipidemic effects have been documented, with reductions in total cholesterol and LDL cholesterol observed in [[mushroom-cancer-clinical-trials-overview]] using artichoke leaf extracts. Cardoon shares many bioactive constituents with globe artichoke.
 
 Antimicrobial activity against Gram-positive bacteria and yeasts has been attributed to sesquiterpene lactones. Anti-inflammatory effects are mediated through inhibition of cyclooxygenase-2 (COX-2) and inducible nitric oxide synthase (iNOS).
 
@@ -102,7 +102,7 @@ Antimicrobial activity against Gram-positive bacteria and yeasts has been attrib
 
 Cynara cardunculus has been extensively researched as a dedicated bioenergy crop in Mediterranean climates. Its high biomass productivity (10–30 t dry matter per hectare per year) and low input requirements make it competitive with other lignocellulosic feedstocks.
 
-The plant produces significant quantities of lignocellulosic biomass suitable for direct combustion, anaerobic digestion, and bioethanol production. Seed oil has been evaluated as a biodiesel feedstock with promising fuel properties.
+The plant produces significant quantities of lignocellulosic biomass suitable for direct combustion, [[biogas-digester-basics]], and bioethanol production. Seed oil has been evaluated as a biodiesel feedstock with promising fuel properties.
 
 Life cycle assessments indicate cardoon bioenergy systems can achieve favorable energy return on investment in rainfed Mediterranean conditions. The crop requires minimal nitrogen fertilization and no irrigation once established.
 

@@ -29,7 +29,7 @@ Tryptamine, N-Isopropyl-4-Methoxy-N-Methyl
 
 4-MeO-MIPT is N-isopropyl-4-methoxy-N-methyltryptamine, a synthetic tryptamine carrying the methyl-isopropyl nitrogen substitution pattern combined with a methoxy group at the 4-position of the indole ring.
 
-Its full IUPAC designation is 3-[2-(isopropylmethylamino)ethyl]-4-methoxyindole. The compound represents an interesting hybrid in the tryptamine series, combining the nitrogen substitution pattern that appears to be most effective for oral activity with oxygenation at the aromatic 4-position.
+Its full IUPAC designation is 3-[2-(isopropylmethylamino)ethyl]-4-methoxyindole. The compound represents an interesting hybrid in the tryptamine series, combining the nitrogen substitution pattern that appears to be most effective for [[tihkal-oral-activity-mao-inhibition]] with oxygenation at the aromatic 4-position.
 
 The molecular formula is C15H22N2O, with a molecular weight of 246.35 g/mol. The free base has a melting point of 80-81 degrees Celsius.
 
@@ -43,7 +43,7 @@ The synthesis of 4-MeO-MIPT begins with 4-methoxytryptamine as the starting mate
 
 The protected tryptamine is then reduced with lithium aluminum hydride (LAH) in tetrahydrofuran. The reduction simultaneously removes the carbobenzyloxy protecting group and introduces the N-methyl group. The intermediate 4-methoxy-N-methyltryptamine is then reacted with acetone and subjected to catalytic hydrogenation over palladium on carbon to introduce the isopropyl group, yielding 4-MeO-MIPT with a melting point of 80-81 degrees Celsius.
 
-Mass spectral data shows the characteristic C5H12N+ fragment at m/z 86 (100%), with the parent ion at m/z 246 (6%).
+Mass [[shirota-psilocybin-crystal-form-spectral-data-and-analytical-characterization]] shows the characteristic C5H12N+ fragment at m/z 86 (100%), with the parent ion at m/z 246 (6%).
 ## Related Compounds
 
 4-MeO-MIPT is part of a series of four possible ring-methoxylated isomers of N-isopropyl-N-methyltryptamine. The 4-isomer is the subject of this entry. The 5-isomer is [[4-ho-mipt-entity-tihkal]] (moclobemide's lesser-known cousin in the psychedelic context) is substantially more active than 4-MeO-MIPT, supporting the hypothesis that a free hydroxyl at the 4-position is needed for full psychedelic activity in the tryptamine series.
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

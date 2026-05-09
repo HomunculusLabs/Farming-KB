@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Pharmacology and Chemistry
+title: emcdda psilocybin pharmacology and chemistry and Chemistry
 created: 2026-04-28
 tags:
   - pharmacology
@@ -79,7 +79,7 @@ called "psychotomimetic" (resembling psychosis), "psychodysleptic"
 
 ## Potency and Variation
 
-Mushroom potency depends on the species or variety used, their origin,
+[[pf-tek-mushroom-potency-and-age-relationship]] depends on the species or variety used, their origin,
 growing conditions, and age. The most potent species (e.g. *Psilocybe
 semilanceata*) could contain up to 1% psilocybin, with some higher
 potency reported in specific species (e.g. *[[psilocybe-bohemica]]*). In other species (*[[psilocybin-pharmacology-and-serotonin-receptors]]
@@ -88,3 +88,7 @@ potency reported in specific species (e.g. *[[psilocybe-bohemica]]*). In other s
   that contain these active compounds
 - [[emcdda-hallucinogenic-mushroom-health-risks]] for toxicity data
   and health consequences
+
+## See Also
+
+- [[click-chemistry]]

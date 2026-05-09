@@ -1,10 +1,11 @@
 ---
-title: "Keyline Design vs Swale Systems"
+title: "query-how-does-keyline-design-work-in-permaculture vs Swale Systems"
 created: 2026-04-28
 tags: [comparison, permaculture, water-management, earthworks]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/pa-yeomans-water-for-every-farm.md"
 type: comparison
 ---
 
@@ -28,7 +29,7 @@ soil, increase biological productivity, and create lasting drought resilience.
 
 ## Keyline Design
 
-Keyline design identifies a specific contour line on a landscape called the
+Keyline design identifies a specific [[comparison-swale-vs-contour-line-water-management]] on a landscape called the
 keypoint. This is located where the valley slope transitions from convex
 (steeper upper slope) to concave (flatter lower slope).
 
@@ -102,7 +103,7 @@ should be closer together to prevent excessive water velocity.
 | Scope | Whole landscape planning system | Individual water-harvesting feature |
 | Design Line | Keypoint contour, parallel cultivation | Strictly on contour, level bottom |
 | Water Strategy | Redistributes valley water to ridges | Captures and infiltrates water in place |
-| Primary Tool | Yeomans plow, deep ripping | Shovel, excavator, or chisel plow |
+| Primary Tool | Yeomans plow, deep ripping | Shovel, excavator, or [[soil-conditioning-chisel-plow-biological-methods]] |
 | Best Scale | Broadacre, large properties | Any scale including urban lots |
 | Maintenance | Periodic subsoiling as needed | Berm repair, spillway clearing |
 | Integration | Roads, trees, buildings, subdivision | Food forests and tree crops |
@@ -141,4 +142,5 @@ production is planned.
 
 ## See Also
 - [[keyline-design]]
-- [[pdc-water-harvesting-design]]
+- pdc-water-harvesting-design
+- [[permaculture-design]]

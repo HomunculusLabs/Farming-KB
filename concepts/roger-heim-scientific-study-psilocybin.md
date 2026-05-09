@@ -31,9 +31,9 @@ Heim's self-experiments were part of a broader tradition of self-experimentation
 
 ## Hofmann's Chemical Breakthrough
 
-Albert Hofmann identified and isolated the active principles, naming them psilocybin and psilocin. He also developed synthetic methods for their production, making them available for clinical research worldwide.
+Albert Hofmann identified and isolated the active principles, naming them psilocybin and psilocin. He also developed synthetic methods for their production, making them available for [[hofmann-lsd-clinical-research-early-studies]] worldwide.
 
-Hofmann's achievement was the culmination of a remarkable career. Having already discovered LSD in 1943, his isolation of psilocybin in 1958 gave the scientific community its second major psychedelic compound. The chemical structures of psilocybin and psilocin — closely related to serotonin — would prove crucial to understanding the neuropharmacology of psychedelic experience.
+Hofmann's achievement was the culmination of a remarkable career. Having already discovered LSD in 1943, his isolation of psilocybin in 1958 gave the scientific community its second major psychedelic compound. The [[plants-of-the-gods-chemical-structures-hallucinogens]] of psilocybin and psilocin — closely related to serotonin — would prove crucial to understanding the neuropharmacology of [[leary-psychedelic-experience-bardo-mapping]].
 
 ## The Research Team's Self-Experiments
 
@@ -43,7 +43,7 @@ One by one, members of Heim's and Hofmann's research teams made their own voyage
 
 Heim's laboratory assistant Roger Cailleux was unusually sensitive. On a high dose of Psilocybe semperviva one early morning in 1958, he watched cones of light with exact designs, felt he was witnessing evolution itself — then the perceived presence of "silent and invisible people" began to unsettle him. His personality felt like it was disintegrating, and he became terrified he might not return. Only the coming of dawn with its unusually intense greenery kept him clinging to sense of self.
 
-Cailleux's difficult experience prefigured a theme that would become central to psychedelic research: the critical importance of set and setting. The same compound that produced spiritual insight in one context could produce existential terror in another.
+Cailleux's difficult experience prefigured a theme that would become central to [[mckenna-suppression-psychedelic-research-lsd-therapy]]: the critical importance of set and setting. The same compound that produced spiritual insight in one context could produce existential terror in another.
 
 ## Transition to Clinical Research
 
@@ -53,7 +53,7 @@ Professor Jean Delay (1907-1987) and his team at Sainte-Anne Hospital in Paris c
 
 ## Species Identification
 
-Heim's taxonomic work was foundational. He identified and described several new species of psilocybin-containing mushrooms from Mexico, including [Psilocybe mexicana, Psilocybe caerulescens, and Psilocybe aztecorum. His collaboration with Wasson brought these species to international attention and established the scientific framework within which all subsequent psilocybin mushroom research would take place.
+Heim's taxonomic work was foundational. He identified and described several new species of psilocybin-containing mushrooms from Mexico, including [Psilocybe mexicana, Psilocybe caerulescens, and Psilocybe aztecorum. His collaboration with Wasson brought these species to international attention and established the scientific framework within which all subsequent [[emcdda-psilocybin-mushroom-dose-and-effects]] research would take place.
 
 ## Sandoz and the Distribution of Psilocybin
 
@@ -70,11 +70,11 @@ Following Hofmann's synthesis of psilocybin, Sandoz Laboratories began distribut
 
 ## Legacy
 
-The Heim-Hofmann research programme established psilocybin as a legitimate subject of scientific inquiry. Their work would inspire decades of clinical research, from the Harvard Psilocybin Project of the early 1960s to the modern renaissance of psychedelic therapy. The [relationship between psilocybin and consciousness that they first began to explore continues to yield insights in the twenty-first century.
+The Heim-Hofmann research programme established psilocybin as a legitimate subject of scientific inquiry. Their work would inspire decades of clinical research, from the Harvard Psilocybin Project of the early 1960s to the modern renaissance of [[metzner-psycholytic-psychedelic-therapy-models]]. The [relationship between psilocybin and consciousness that they first began to explore continues to yield insights in the twenty-first century.
 
 ## See Also
 
-- [[magic-mushroom-cultural-history]]
+- magic-mushroom-cultural-history
 - [[liberty-cap-psilocybe-semilanceata-history-biology]]
 - [[wasson-hofmann-ruck-theory]]
 - [[psychedelic-mushroom-set-and-setting]]

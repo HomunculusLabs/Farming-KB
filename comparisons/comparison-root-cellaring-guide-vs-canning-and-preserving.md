@@ -8,9 +8,9 @@ sources: []
 type: comparison
 ---
 
-# [[fungal-culture-preservation-methods]], each taking a fundamentally different approach to extending
+# fungal-culture-preservation-methods, each taking a fundamentally different approach to extending
 the harvest. Root cellaring stores whole foods in their natural state using the
-earth's stable temperature and humidity — no processing required. Canning
+earth's stable [[greg-green-temperature-and-humidity-control]] — no processing required. Canning
 transforms foods through heat processing into shelf-stable, room-temperature
 products sealed in jars. The choice between them shapes how homesteaders manage
 their harvest surplus, storage infrastructure, and food security strategy.
@@ -41,7 +41,7 @@ hours of preparation, processing, and cleanup. Equipment costs include a pressur
 canner (essential, not optional), canning jars, lids, and specialized tools.
 Single-use metal lids create ongoing cost, though reusable Tattler lids are
 available. Altitude adjustments must be calculated, and commercial jars cannot
-be safely reused for pressure canning.
+be safely reused for [[comparison-pressure-canning-vs-water-bath-canning]].
 
 ## Key Differences
 
@@ -49,9 +49,9 @@ be safely reused for pressure canning.
 |--------|---------------|---------|
 | Processing required | None — store whole foods as harvested | Heat processing in sealed jars |
 | Energy required | None (passive earth temperature) | Stove fuel for processing |
-| Equipment cost | One-time construction cost | Pressure canner, jars, lids, tools |
+| Equipment cost | One-time construction cost | [[pf-tek-pressure-canner-sterilization]], jars, lids, tools |
 | Ongoing cost | Minimal | Lids (single-use), fuel |
-| Storage conditions | Cool, humid, dark (cellar environment) | Room temperature, dark, dry |
+| [[vegetable-storage-conditions-by-temperature-and-humidity]] | Cool, humid, dark (cellar environment) | Room temperature, dark, dry |
 | Food safety risk | Low (spoilage visible, no botulism) | High if done incorrectly (botulism) |
 | Nutritional retention | Full (no heat processing) | Moderate (heat reduces some nutrients) |
 | Food types | Root vegetables, hard squash, apples, alliums | Nearly any food (vegetables, fruits, meats, soups) |
@@ -66,8 +66,8 @@ vegetables, hard squash, apples, onions, and garlic — and want the simplest,
 most energy-efficient preservation method. Homesteaders in temperate and cold
 climates with suitable terrain for cellar construction benefit most. Root
 cellaring is ideal when you want to preserve food without processing, maintain
-full nutritional quality, and avoid ongoing energy costs. It pairs naturally
-with winter vegetable production, providing a continuous supply of fresh whole
+full [[coleman-winter-greens-nutritional-quality-cold-sweetening]], and avoid ongoing energy costs. It pairs naturally
+with winter [[dry-gardening-unirrigated-vegetable-production-solomon]], providing a continuous supply of fresh whole
 foods through the cold months.
 
 ## When to Choose Canning
@@ -93,6 +93,8 @@ division maximizes both storage capacity and preservation diversity, ensuring
 food security even if one system fails.
 
 ## See Also
+
+- [[comparison-root-cellaring-vs-freezing]]
 
 - [[comparison-smoking-vs-canning]]
 

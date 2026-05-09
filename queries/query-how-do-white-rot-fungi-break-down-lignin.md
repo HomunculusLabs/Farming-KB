@@ -5,7 +5,7 @@ tags: [query, white-rot-fungi, lignin, bioremediation, mycology]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
+  sources: []
 type: query
 ---
 
@@ -14,8 +14,8 @@ type: query
 ## Short Answer
 White-rot fungi are the only organisms in nature capable of completely decomposing lignin.
 Lignin is the tough polymer that gives wood its structural rigidity and resistance to decay.
-They achieve this through a suite of extracellular enzymes including lignin peroxidase, manganese peroxidase, and laccase.
-These enzymes can break down even the most recalcitrant organic compounds beyond just lignin.
+They achieve this through a suite of extracellular enzymes including [[fungal-lignin-peroxidase-veratryl-alcohol]], [[fungal-manganese-peroxidase-remediation]], and laccase.
+These enzymes can break down even the most recalcitrant [[fungal-volatile-organic-compounds-communication]] beyond just lignin.
 This ability makes white-rot fungi invaluable for bioremediation, paper pulp processing, and sustainable waste treatment.
 
 ## Detailed Explanation
@@ -40,7 +40,7 @@ The bioremediation applications of white-rot fungi are extensive and growing rap
 The [[battelle-diesel-mycoremediation-study]] was a landmark demonstration.
 Conducted by Paul Stamets with the Battelle Marine Sciences Laboratory, it showed dramatic results.
 Oyster mushroom mycelium reduced diesel-contaminated soil concentration by over 95 percent in just 8 weeks.
-This study helped launch the field of [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]] shows white-rot fungi break down polycyclic aromatic hydrocarbons.
+This study helped launch the field of [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]] shows white-rot fungi break down [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons.
 PAHs are among the most hazardous and persistent environmental pollutants.
 They are produced by incomplete combustion of fossil fuels and are common at industrial sites.
 The [[staycare-fungal-degradation-of-explosives-and-nitroaromatics]] research reveals another surprising application.
@@ -57,7 +57,7 @@ Biobleaching reduces the environmental impact of paper manufacturing while maint
 ### Textile and Dye Degradation
 
 The [[staycare-fungal-degradation-of-synthetic-dyes]] applications are particularly valuable in developing countries.
-Textile industry effluent is a major source of water pollution in many regions of the world.
+[[staycare-fungal-treatment-of-textile-industry-wastewater]] effluent is a major source of water pollution in many regions of the world.
 The [[staycare-fungal-degradation-of-triazine-herbicides]] research shows white-rot fungi can break down atrazine and related compounds.
 Atrazine is one of the most widely used herbicides in the world and a persistent groundwater contaminant.
 The [[staycare-fungal-pesticide-pop-degradation]] research covers the most persistent organic pollutants.
@@ -69,11 +69,13 @@ These include DDT, dieldrin, and other organochlorine insecticides that were ban
 - Three key enzymes (LiP, MnP, laccase) use free radical chemistry to attack lignin non-specifically
 - These same enzymes degrade PAHs, PCBs, dioxins, explosives, petroleum, and synthetic dyes
 - The Battelle study showed oyster mushroom mycelium reduced diesel contamination by 95% in 8 weeks
-- Industrial applications include pulp biobleaching and textile wastewater treatment
+- Industrial applications include pulp biobleaching and textile [[mollison-designers-wastewater-treatment-wetlands]]
 - White-rot fungi can degrade persistent pesticides including atrazine and DDT
 - Their non-specific enzyme system makes them versatile tools for many types of bioremediation
 
-## Related Questions
+## Related
+
+- [[query-can-fungi-break-down-plastic-pollution]] Questions
 
 - [[query-can-fungi-clean-up-oil-spills]]
 - [[query-what-is-mycoremediation-and-how-does-it-work]]

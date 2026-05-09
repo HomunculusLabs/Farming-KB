@@ -10,7 +10,7 @@ sources:
 # DOPR
 
 **Chemical name:** 2,5-Dimethoxy-4-(n)-propylamphetamine
-**PiHKAL entry:** #71
+**[[2c-b-pihkal-entry-20]]:** #71
 
 ## Overview
 
@@ -107,4 +107,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

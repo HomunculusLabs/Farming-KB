@@ -1,5 +1,5 @@
 ---
-title: "JADAM Herb Solution (JHS)"
+title: "JADAM jadam-herb-solution-jhs (JHS)"
 created: 2026-04-28
 tags: [jadam, herbal-pesticide, plant-extract, pest-control, ultra-low-cost]
 date: 2026-04-28
@@ -10,7 +10,7 @@ type: concept
 
 # JADAM Herb Solution (JHS)
 
-JADAM Herb Solution (JHS) is a natural pesticide made by boiling specific
+JADAM Herb Solution (JHS) is a [[jadam-natural-pesticide-institute-and-research]] made by boiling specific
 herbs and extracting their pesticidal properties into water. It is the
 third key component of the JADAM pesticide system, alongside [[ultra-low-jadam-sulfur-js]]. JHS provides insecticidal power derived
 from plants, enabling farmers to create effective pest control without any
@@ -18,7 +18,7 @@ synthetic chemicals.
 
 ## Philosophy of Herbal Pest Control
 
-Plants have evolved chemical defenses against insects and diseases over
+Plants have evolved chemical defenses against [[solomon-insects-and-diseases-integrated-approach]] over
 hundreds of millions of years. These natural compounds, called secondary
 metabolites, include alkaloids, terpenoids, flavonoids, and phenolics.
 JADAM's approach is to extract these natural pesticides from plants that
@@ -31,7 +31,7 @@ JADAM has identified several key herbs with proven pesticidal effects.
 Different herbs target different pests, and they can be combined for
 broader spectrum control:
 
-- **Jerusalem artichoke**: Controls aphids, mites, and moths. The most
+- **[[comparison-jerusalem-artichoke-vs-potato]]**: Controls aphids, mites, and moths. The most
   commonly used herb in JADAM pesticide. Readily available, easy to grow,
   and highly effective.
 
@@ -82,7 +82,7 @@ hide. After 24 hours, aphids shrink and die as moisture evaporates.
 
 JADAM encourages farmers to discover locally available plants with
 pesticidal properties. Plants with strong scents often contain
-essential oils that repel or kill insects. The herbal smoker method
+[[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] that repel or kill insects. The herbal smoker method
 shows promise with gingko, peppermint, clove, Korean mint, and
 Japanese pepper. This is described as "a very interesting and
 promising area that remains to be studied." Farmers worldwide can
@@ -95,7 +95,7 @@ the farm or collected from the wild. Jerusalem artichoke is a hardy
 perennial that produces abundant biomass. Combined with self-made JWA,
 the total cost of JADAM pesticide per acre is approximately $100 per
 year. This represents a dramatic reduction compared to commercial
-organic or synthetic pesticide programs.
+organic or synthetic [[jadam-combined-pesticide-programs-jwa-js-jhs]].
 
 ## See Also
 

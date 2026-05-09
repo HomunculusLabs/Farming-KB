@@ -1,5 +1,5 @@
 ---
-title: Information Paradigm of Consciousness
+title: mind-body-problem-vs-information-paradigm-of-consciousness of Consciousness
 created: 2026-04-17
 updated: 2026-04-18
 type: concept
@@ -11,7 +11,7 @@ sources: [papers/the-psilocybin-solution-by-simon-g-powell.md]
 
 The information paradigm of consciousness proposes that mind is not a separate substance from matter but is rather a particular form of information embodied within the neuronal substrate of the brain.
 
-This framework, developed most thoroughly by Simon G. Powell in The Psilocybin Solution, draws upon the phenomenological evidence provided by [[psilocybin-and-mystical-experience]], particularly the vivid visionary experiences induced by substances like [[psilocybin-and-mystical-experience]] are not random noise but are richly structured, meaningful, and often organized around powerful symbolic patterns.
+This framework, developed most thoroughly by Simon G. Powell in The [[powell-psilocybin-solution-ecological-cognition-theory]], draws upon the phenomenological evidence provided by [[psilocybin-and-mystical-experience]], particularly the vivid visionary experiences induced by substances like [[psilocybin-and-mystical-experience]] are not random noise but are richly structured, meaningful, and often organized around powerful symbolic patterns.
 
 This suggests that large quantities of neuronal information are being integrated and cohered into structured forms, much as large numbers of water molecules organize themselves into the specific crystalline patterns of snowflakes under appropriate conditions.
 
@@ -19,7 +19,7 @@ The fact that these visionary patterns often exhibit universal features, appeari
 
 ## Implications for the Mind-Body Problem
 
-The information paradigm offers a potential resolution to the ancient [[psilocybin-neuroscience]] and brain imaging studies, supports the idea that expanded consciousness corresponds to expanded information processing and integration.
+The information paradigm offers a potential resolution to the ancient [[psilocybin-neuroscience]] and [[neurochemical-probes-brain-imaging-pihkal]] studies, supports the idea that expanded consciousness corresponds to expanded information processing and integration.
 
 ## Criticisms and Limitations
 
@@ -29,9 +29,11 @@ The challenge of defining information itself in a non-circular way remains signi
 
 Some philosophers argue that conflating consciousness with information merely substitutes one mystery for another, replacing the hard problem of consciousness with the equally puzzling question of what information fundamentally is.
 
-Despite these challenges, the information paradigm provides a uniquely useful framework for understanding the psychedelic experience and its implications for our understanding of consciousness and reality.
+Despite these challenges, the information paradigm provides a uniquely useful framework for understanding the [[leary-psychedelic-experience-bardo-mapping]] and its implications for our understanding of consciousness and reality.
 
 ## See Also
+
+- [[decentralizing-bender-perceiving-self-primary-datum-mckenna]]
 
 - [[consciousness-and-psychedelics]]
 - [[information-entropy]]
@@ -112,4 +114,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

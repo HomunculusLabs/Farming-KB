@@ -1,5 +1,5 @@
 ---
-title: Ayahuasca Tourism Western Seekers and Integration
+title: Ayahuasca ayahuasca tourism western seekers and integration Seekers and Integration
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -34,7 +34,7 @@ This serial pattern reflects what the author characterizes as a recurring quest 
 
 Each wave of adoption extracts spiritual techniques from their originating cultural contexts, driven partly by exoticism and partly by genuine dissatisfaction with inherited Judeo-Christian frameworks.
 
-The article speculates that "within a few years, the avant-garde of the United States will undergo a mass conversion to Islam" -- a prediction that captures the author's sense that Western spiritual seeking is serial and faddish.
+The article speculates that "within a few years, the avant-garde of the [[dmt-containing-plants-united-states-halpern]] will undergo a mass conversion to Islam" -- a prediction that captures the author's sense that Western spiritual seeking is serial and faddish.
 
 ## The Foremost Question for Seekers
 
@@ -90,7 +90,7 @@ Integration of the experience is further hampered when the seeker cannot verball
 
 The gap between Western expectations of spiritual experience and indigenous cosmological frameworks makes authentic participation difficult.
 
-Western seekers often approach ayahuasca through the lens of psychedelic therapy, personal growth, or mystical experience -- frameworks that map imperfectly onto Shipibo understandings of illness, spirits, plant allies, and cosmological order.
+Western seekers often approach ayahuasca through the lens of [[metzner-psycholytic-psychedelic-therapy-models]], personal growth, or mystical experience -- frameworks that map imperfectly onto Shipibo understandings of illness, spirits, plant allies, and cosmological order.
 
 A Western tourist interpreting their experience through Jungian psychology or transpersonal frameworks is engaging in a fundamentally different hermeneutic than the indigenous practitioner.
 
@@ -133,6 +133,8 @@ If specifically interested only in the brew, home-brewing with an experienced si
 This pragmatic framing acknowledges that ayahuasca tourism is not inherently valuable or worthless -- its value depends on what the seeker brings to it and what they hope to take away.
 
 ## See Also
+
+- [[western-spiritual-tourism-chronology]]
 
 - [[ayahuasca-tourism-practitioners-and-safety-considerations]]
 

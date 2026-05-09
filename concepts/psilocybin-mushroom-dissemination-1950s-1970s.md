@@ -1,37 +1,13 @@
 ---
-title: Psilocybin Mushroom Dissemination 1950s-1970s
+title: Psilocybin psilocybin mushroom dissemination 1950s 1970s 1950s-1970s
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "Letcher - Shroom: A Cultural History of the Magic Mushroom"
+  - "Letcher - Shroom: A shroom-cultural-history-hippie-revolution-and-counterculture of the Magic Mushroom"
 type: concept
-tags: [[mushroom-cultivation, psilocybin]
+tags: [mushroom-cultivation, psilocybin]
 ---
-
-# Psilocybin Mushroom Dissemination 1950s-1970s
-
-The period between [Wasson's discovery of Mexican mushroom ceremonies in
-1955 and the end of the 1970s saw [magic mushrooms transform from an obscure
-ethnographic curiosity into a globally distributed illicit drug. This dissemination occurred through several
-interconnected channels: scientific research, popular media, underground networks, and the
-psychedelic counterculture. For the first time in Western history, the effects of
-magic mushrooms -- the colours and hallucinations, the bodily perturbations, the sexual excitation -- had
-become desirable.
-
-## The Scientific Phase: Late 1950s to Early 1960s
-
-Wasson's findings were immediately seized upon by scientists keen to investigate the chemistry and
-psychology of the Mexican mushrooms. In the late 1950s, what we would call hallucinogenic drugs were not
-prohibited. LSD and mescaline were being eagerly employed in the rapidly expanding discipline of psychology.
-An almost utopian spirit prevailed: psychedelics would usher in a new era of understanding of the mind, as
-important a tool as the telescope and microscope had been for astronomy and biology.
-
-Albert Hofmann was approached by [Roger Heim to identify the active
-chemical ingredients of the Mexican mushrooms. When chemical extracts failed to produce unequivocal effects
-on animals, Hofmann reasoned that the only way to test was for a human volunteer to eat the mushrooms. In
-July 1957, he consumed thirty-two dried [Psilocybe mexicana in a clinical setting.
-He was not disappointed. The altered state commenced after approximately one and a half hours. The landscape
-changed and took on a Mexican character. By 1958, Hofmann had isolated [[psilocybin-neuroplasticity]], and
+# Psilocybin Mushroom Dissemination 1950s-1970s The period between [Wasson's discovery of Mexican mushroom ceremonies in 1955 and the end of the 1970s saw [magic mushrooms transform from an obscure ethnographic curiosity into a globally distributed illicit drug. This dissemination occurred through several interconnected channels: scientific research, popular media, underground networks, and the psychedelic counterculture. For the first time in Western history, the effects of magic mushrooms -- the colours and hallucinations, the bodily perturbations, the sexual excitation -- had become desirable. ## The Scientific Phase: Late 1950s to Early 1960s Wasson's findings were immediately seized upon by scientists keen to investigate the chemistry and psychology of the Mexican mushrooms. In the late 1950s, what we would call hallucinogenic drugs were not prohibited. LSD and mescaline were being eagerly employed in the rapidly expanding discipline of psychology. An almost utopian spirit prevailed: psychedelics would usher in a new era of understanding of the mind, as important a tool as the telescope and microscope had been for astronomy and biology. Albert Hofmann was approached by [Roger Heim to identify the active chemical ingredients of the Mexican mushrooms. When chemical extracts failed to produce unequivocal effects on animals, Hofmann reasoned that the only way to test was for a human volunteer to eat the mushrooms. In July 1957, he consumed thirty-two dried [Psilocybe mexicana in a clinical setting. He was not disappointed. The altered state commenced after approximately one and a half hours. The landscape changed and took on a Mexican character. By 1958, Hofmann had isolated [[psilocybin-neuroplasticity]], and
 Sandoz began marketing psilocybin as Indocybin for psychiatric research.
 
 ## The Paris Research: Hôpital Sainte-Anne
@@ -46,7 +22,7 @@ that psilocybin might produce a shift in painting style.
 
 This contrast is revealing. That the same drugs could be considered so differently by teams working in
 different countries suggests that these contrasting ideas were the products of their time and place, not --
-as Leary maintained -- of some inherent or essential quality of the psychedelic experience.
+as Leary maintained -- of some inherent or essential quality of the [[leary-psychedelic-experience-bardo-mapping]].
 
 ## Timothy Leary and the Harvard Psilocybin Project
 
@@ -60,8 +36,8 @@ MAPS to have produced no statistically significant effect upon recidivism rates.
 ## North American Spread: Florida and the Gulf States
 
 The earliest record of illicit magic mushroom use in North America was in Canada in 1965. The first proper
-waves of psilocybin consciousness arose in Florida. In 1972, researchers realised that
-[Psilocybe cubensis grows abundantly in the Gulf States. Fraternity parties were
+waves of [[mckenna-tryptamine-psilocybin-consciousness-evolution]] arose in Florida. In 1972, researchers realised that
+[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] grows abundantly in the Gulf States. Fraternity parties were
 reportedly livened with mushroom omelettes and tea, with perhaps hundreds of people partaking simultaneously.
 
 By 1976, a combination of word of mouth, academic publications, and press scare stories meant the magic
@@ -94,7 +70,7 @@ magazine. By the autumn of 1976, spores and growing kits were being advertised b
 Times. Academic conferences also played a vital role: Jonathan Ott organised the first conference on
 psychedelic mushrooms in Bellingham, Washington in 1976, attended by Richard Evans Schultes, Albert Hofmann,
 and Gordon Wasson. A larger conference in Port Townsend, Washington in 1977 brought together leading
-researchers. Proceedings were published as Teonanacatl: Hallucinogenic Mushrooms of North America (1978).
+researchers. Proceedings were published as Teonanacatl: [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] of North America (1978).
 
 The book sold well but became so coveted that in the British Library the cover had to be disguised lest
 anyone attempt to steal it. A chapter by Jeremy Bigwood explained the ins and outs of home cultivation.
@@ -115,5 +91,5 @@ irrepressible human desire for novel experience.
 
 - [[psilocybin-isolation-and-early-scientific-research]]
 - [[timothy-leary]]
-- [[magic-mushroom-british-underground-and-festivals]]
+- magic-mushroom-british-underground-and-festivals
 - [[psychedelic-mushroom-set-and-setting]]

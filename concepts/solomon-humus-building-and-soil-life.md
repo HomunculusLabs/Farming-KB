@@ -1,5 +1,5 @@
 ---
-title: "Humus Building and Soil Life"
+title: "composting-humus-building-holzer and Soil Life"
 created: 2026-04-28
 tags: [soil-biology, humus, earthworms, organic-matter, soil-health]
 date: 2026-04-28
@@ -27,7 +27,7 @@ from the soil, this happens very slowly.
 
 Soil humus has a carbon-nitrogen ratio of around 12:1 in every type of
 soil and every climate. This stable ratio is the target that all
-organic amendments move toward as they decompose.
+[[cervantes-organic-amendments-chart]] move toward as they decompose.
 
 ## The Carbon-Nitrogen Dynamic and Humus Formation
 
@@ -44,7 +44,7 @@ multiply. More of them means they more aggressively attack existing
 humus. The end result is a soil with a slightly lower quantity of
 organic matter. This loss of humus also happens when chemical
 fertilizers are added to soil, which is why Solomon is cautious about
-over-reliance on even organic fertilizers that are too nitrogen-rich.
+over-reliance on even [[hamilton-organic-fertilizers-and-plant-nutrition]] that are too nitrogen-rich.
 
 ## How Humus Improves Soil Structure
 
@@ -79,7 +79,7 @@ active microbial population.
 ## The Humus Depletion Problem
 
 Solomon warns that conventional gardening practices deplete soil humus.
-Intensive vegetable gardening, which removes large quantities of plant
+Intensive [[home-vegetable-garden-planning]], which removes large quantities of plant
 material from the garden, steadily mines soil organic matter. If
 nothing is returned to the soil, humus levels decline over time, tilth
 deteriorates, and the soil becomes increasingly dependent on external
@@ -95,7 +95,7 @@ deep, a manageable amount for most home gardeners.
 
 ## Balancing Humus Building with Fertilization
 
-Solomon advocates a dual approach: use complete organic fertilizer to
+Solomon advocates a dual approach: use [[solomon-complete-organic-fertilizer-guide]] fertilizer to
 supply plant nutrients, and separately maintain soil humus through
 regular additions of decomposed organic matter. The COF provides
 nutrients without depleting humus, while compost, manure, or other
@@ -118,7 +118,7 @@ these soils naturally productive.
 
 ## The Role of Cover Crops
 
-Cover crops and green manures contribute to humus building by adding
+[[mollison-designers-cover-crops-and-green-manure-species]] green manures contribute to humus building by adding
 organic matter directly to the soil. When turned under, their roots and
 top growth become food for soil organisms, eventually converting to
 humus. Leguminous cover crops additionally fix atmospheric nitrogen,

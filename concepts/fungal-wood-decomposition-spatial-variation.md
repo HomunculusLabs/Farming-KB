@@ -1,34 +1,12 @@
 ---
-title: Fungal Wood Decomposition and Spatial Variation
+title: Fungal fungal [[mycelium-running-rot-fungi-wood-decomposition]] spatial variation and Spatial Variation
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Wood Decomposition and Spatial Variation
-
-## Overview
-
-Wood decomposition by fungi exhibits significant spatial variation at multiple scales,
-from within individual wood pieces to across forest landscapes. This spatial
-heterogeneity arises from differences in fungal community composition, resource quality,
-microclimate, and the history of fungal interactions on each wood piece. Understanding
-spatial variation in wood decomposition is critical for scaling
-[[fungal-nutrient-translocation-mycelial-systems]], cord-forming fungi can redistribute nutrients across these
-spatially heterogeneous environments, partially homogenizing nutrient availability.
-
-## Implications for Carbon Accounting
-
-The spatial variation in wood decomposition rates has important implications for carbon
-accounting in forest ecosystems. Traditional models that apply average decomposition
-rates to total wood volumes may significantly over- or under-estimate actual carbon
-fluxes because they fail to account for the heterogeneity of decay rates within and among
-wood pieces. A more accurate approach would incorporate the probability distribution of
-decay rates and the spatial arrangement of decay classes within the forest landscape.
-
-The zones of interaction between competing fungi in wood represent areas where
-[[fungal-stable-isotope-ecology]]
+# Fungal Wood Decomposition and Spatial Variation ## Overview Wood decomposition by fungi exhibits significant spatial variation at multiple scales, from within individual wood pieces to across forest landscapes. This spatial heterogeneity arises from differences in fungal community composition, resource quality, microclimate, and the history of fungal interactions on each wood piece. Understanding spatial variation in wood decomposition is critical for scaling fungal-nutrient-translocation-mycelial-systems, cord-forming fungi can redistribute nutrients across these spatially heterogeneous environments, partially homogenizing nutrient availability. ## Implications for Carbon Accounting The spatial variation in wood decomposition rates has important implications for carbon accounting in forest ecosystems. Traditional models that apply average decomposition rates to total wood volumes may significantly over- or under-estimate actual carbon fluxes because they fail to account for the heterogeneity of decay rates within and among wood pieces. A more accurate approach would incorporate the probability distribution of decay rates and the spatial arrangement of decay classes within the forest landscape. The zones of interaction between competing fungi in wood represent areas where [[fungal-stable-isotope-ecology]]
 - [[fungi-in-the-environment-decomposition-wood-decay]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 ## Practical Applications
@@ -48,7 +26,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -98,7 +76,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -108,4 +86,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

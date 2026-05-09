@@ -1,5 +1,5 @@
 ---
-title: Pleurotus Substrate and Biological Efficiency
+title: Pleurotus Substrate and stamets-biological-efficiency-yield
 created: 2026-04-28
 tags: [substrate, oyster-mushroom, cultivation, biological-efficiency]
 date: 2026-04-25
@@ -11,11 +11,11 @@ type: concept
 # Pleurotus Substrate and Biological Efficiency
 
 Biological efficiency (BE) is the standard metric for evaluating
-substrate performance in mushroom cultivation. It is defined as the
+substrate performance in [[accessible-mushroom-cultivation-for-disabilities]]. It is defined as the
 fresh weight of harvested mushrooms divided by the dry weight of the
 substrate, multiplied by 100. A BE of 100% means the fresh mushroom
 yield equals the dry substrate weight. Pleurotus species are among
-the most versatile cultivated mushrooms in terms of substrate
+the most versatile [[fungi-cultivated-mushrooms-pathogens-competitors]] in terms of substrate
 utilization, producing crops on an enormous range of agricultural
 wastes and plant materials.
 
@@ -33,9 +33,9 @@ in mushroom quality, nutritional content, or number of flushes.
 
 ## Substrate Chemistry Fundamentals
 
-Oyster mushrooms require substrates with adequate carbon sources
+[[query-how-to-grow-oyster-mushrooms-at-home]] require substrates with adequate carbon sources
 (cellulose, hemicellulose, lignin), nitrogen, minerals, and
-moisture. Paddy straw, one of the most common substrates, contains
+moisture. [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]], one of the most common substrates, contains
 approximately 14% lignin, 37% cellulose, 0.4% P2O5, 0.55% total
 N, 1.6% K2O, 12% SiO2, and has a C/N ratio of about 70. Wheat
 straw contains 1% protein, 13% lignin, 39% hemicellulose, and 40%
@@ -77,7 +77,7 @@ Substrates with moderate biological efficiency include:
   performance depends on particle size and supplementation.
 - **Rubber tree sawdust**: Used successfully in Southeast Asian
   cultivation operations.
-- **Groundnut shells**: An agricultural waste product suitable
+- **Groundnut shells**: An [[fungi-in-composting-and-agricultural-waste-conversion]] product suitable
   for Pleurotus cultivation with proper preparation.
 
 ## Spent Substrate Recycling
@@ -89,6 +89,6 @@ though biological efficiency typically decreases with each cycle.
 ## Regional Substrate Adaptation
 
 [[pleurotus-natural-log-cultivation-methods]]
-- [[bulk-substrate-preparation]] preparation techniques
+-  preparation techniques
 - biological efficiency calculations
 - [[accessible-mushroom-cultivation-for-disabilities]] fundamentals

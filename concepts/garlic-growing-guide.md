@@ -1,5 +1,5 @@
 ---
-title: Garlic Growing Guide
+title: hamilton-garlic-growing-organic Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -62,7 +62,7 @@ Garlic (Allium sativum) is one of the easiest and most rewarding crops to grow. 
 ### Planting Depth and Spacing
 - Plant cloves 2-3 inches deep (pointy end up, flat end down).
 - Space cloves 4-6 inches apart in rows 12-18 inches apart.
-- In raised beds, can space 6 inches apart in all directions (9 per square foot in SFG).
+- In [[comparison-raised-beds-vs-hugelkultur]], can space 6 inches apart in all directions (9 per [[comparison-biointensive-vs-square-foot-gardening]] in SFG).
 
 ### Mulching After Planting
 - Apply 4-6 inches of straw or shredded leaves after planting.
@@ -72,7 +72,7 @@ Garlic (Allium sativum) is one of the easiest and most rewarding crops to grow. 
 ## Spring Care
 
 - **Remove mulch partially** in spring when new shoots emerge — pull back to 1-2 inches to let soil warm.
-- **Side-dress with nitrogen** when shoots are 6 inches tall: blood meal, composted manure, or fish emulsion. Repeat every 3-4 weeks until bulbing begins.
+- **Side-dress with nitrogen** when shoots are 6 inches tall: blood meal, [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]], or [[solomon-foliar-feeding-fish-emulsion-and-kelp]]. Repeat every 3-4 weeks until bulbing begins.
 - **Keep consistently watered** — garlic needs 1-2 inches of water per week during active growth.
 - **Stop watering** 2-3 weeks before expected harvest date (reduces disease and improves curing).
 - **Weed diligently** — garlic is a poor competitor against weeds.
@@ -134,7 +134,7 @@ Proper curing is essential for long storage. Garlic needs to dry slowly in a war
 |---------|-------|------------|
 | Small heads | Planted small cloves; too close; insufficient nitrogen | Plant largest cloves, space properly, fertilize |
 | Rotting in ground | Poor drainage, overwatering | Ensure well-drained soil, reduce watering late |
-| White rot | Soil-borne fungus (Sclerotium cepivorum) | Rotate alliums 4+ years; avoid planting near old allium beds |
+| [[comparison-brown-rot-vs-white-rot-bioremediation]] | Soil-borne fungus (Sclerotium cepivorum) | Rotate alliums 4+ years; avoid planting near old allium beds |
 | Bulb mites | Tiny mites in stored garlic | Cure thoroughly; inspect before storage; freeze seed garlic 48h before planting |
 
 ## Related Concepts

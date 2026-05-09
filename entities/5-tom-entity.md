@@ -1,5 +1,5 @@
 ---
-title: 5 Tom Entity
+title: 5 [[2-tom-entity-pihkal]]
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -64,7 +64,7 @@ The two TOM compounds (2-TOM and 5-TOM) demonstrate the critical importance of s
 Shulgin, A. & Shulgin, A. (1991). PIHKAL: A Chemical Love Story. Entry #172: 5-TOM.
 ## Practical Considerations
 
-Successful implementation of 5 Tom Entity requires attention to
+Successful implementation of 5 [[2-tom-entity]] requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

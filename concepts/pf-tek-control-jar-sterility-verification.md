@@ -14,7 +14,7 @@ The control jar technique is a quality assurance method used to verify that the 
 
 ## The Contamination Diagnosis Problem
 
-Contamination is the most common cause of failure in mushroom cultivation, and diagnosing its source can be surprisingly difficult. When contaminants appear in inoculated jars, the source could be either inadequate sterilization (the substrate was not rendered sterile during the steam cycle, allowing dormant organisms to survive and proliferate) or a contaminated inoculation event (the spore syringe itself contained contaminants, or the inoculation technique introduced them from the environment).
+Contamination is the most common cause of failure in [[accessible-mushroom-cultivation-for-disabilities]], and diagnosing its source can be surprisingly difficult. When contaminants appear in inoculated jars, the source could be either inadequate sterilization (the substrate was not rendered sterile during the steam cycle, allowing dormant organisms to survive and proliferate) or a contaminated inoculation event (the spore syringe itself contained contaminants, or the [[pf-tek-inoculation-technique-and-syringe-management]] introduced them from the environment).
 
 Without a control jar, these two failure modes are indistinguishable. The cultivator faces an impossible choice: should they improve their sterilization technique, or should they obtain a new spore syringe and improve their inoculation technique? Attempting to fix the wrong problem wastes time, money, and spore material. The control jar eliminates this ambiguity by isolating the sterilization variable and providing a definitive answer.
 
@@ -52,21 +52,21 @@ If the jar contains bacterial contamination, clean it carefully at a safe distan
 
 If the uninoculated control jar develops any colored growth or bacterial odor, the sterilization process itself is the confirmed problem. The spore syringe and inoculation technique may be perfectly fine, but they cannot compensate for substrate that was never rendered sterile in the first place.
 
-The most likely cause is a sterilization time that is too short. The standard PF TEK specifies a minimum of one hour of gentle steaming, but some situations may require longer. The remedy is to extend the [[pf-tek-pressure-canner-sterilization|pressure canner]] at 12 psi for 20 minutes, which provides more reliable sterilization than atmospheric steam.
+The most likely cause is a sterilization time that is too short. The standard PF TEK specifies a minimum of one hour of gentle steaming, but some situations may require longer. The remedy is to extend the [[pf-tek-pressure-canner-sterilization|pressure canner]] at 12 psi for 20 minutes, which provides more reliable sterilization than [[growing-gourmet-atmospheric-steam-sterilization]].
 
 ### Scenario B: Control Jar Clean, Production Jars Contaminated
 
 If the control jar stays completely clean and unchanged for several days but one or more of the inoculated jars develop contamination, the sterilization was successful and the contaminant was introduced during the inoculation procedure. This narrows the investigation to inoculation-specific causes.
 
-Possible inoculation contamination sources include: a contaminated spore syringe (the most common cause), failure to flame sterilize the needle between jars or after accidentally touching a non-sterile surface, touching the needle to the jar rim or other non-sterile surface during the inoculation process, breathing directly over the open jar during inoculation which introduces airborne organisms, disturbing the dry vermiculite barrier during needle insertion or withdrawal which exposes the wet substrate to air, or removing the tape from the inoculation holes too early before the needle is ready to insert.
+Possible inoculation [[stamets-contamination-sources-laboratory-hygiene]] include: a contaminated spore syringe (the most common cause), failure to flame sterilize the needle between jars or after accidentally touching a non-sterile surface, touching the needle to the jar rim or other non-sterile surface during the inoculation process, breathing directly over the open jar during inoculation which introduces airborne organisms, disturbing the dry vermiculite barrier during needle insertion or withdrawal which exposes the wet substrate to air, or removing the tape from the inoculation holes too early before the needle is ready to insert.
 
-See [[pf-tek-steam-sterilization-technique|steam sterilization]] kills organisms within the substrate. The [[pf-tek-inoculation-without-lids-and-alcohol-flaming|alcohol flaming technique]] ensures needle sterility during inoculation. Hand washing before sterile work and work surface sterilization with rubbing alcohol reduce cultivator-sourced contamination. Running a HEPA air cleaner (99.97% rated efficiency) in a closed room for several hours before performing sterile work reduces airborne contaminant levels.
+See [[pf-tek-steam-sterilization-technique|steam sterilization]] kills organisms within the substrate. The [[pf-tek-inoculation-without-lids-and-alcohol-flaming|alcohol flaming technique]] ensures needle sterility during inoculation. Hand washing before sterile work and work [[challenge-organisms-nasa-microwave-surface-sterilization-testing]] with rubbing alcohol reduce cultivator-sourced contamination. Running a HEPA air cleaner (99.97% rated efficiency) in a closed room for several hours before performing sterile work reduces airborne contaminant levels.
 
 The control jar verifies that the foundational sterilization layer is functioning. If it fails, all other layers are irrelevant because the substrate itself was never clean.
 
 ## Safety Precautions
 
-Bacterial contamination in nutrient-rich mushroom substrate can support the growth of potentially harmful bacterial species, some of which can produce toxins or cause infections in humans. The warm, moist, nutrient-rich environment of the substrate is ideal for many organisms, not just the target mushroom species.
+Bacterial contamination in nutrient-rich [[gourmet-medicinal-mushroom-substrate-preparation]] can support the growth of potentially harmful bacterial species, some of which can produce toxins or cause infections in humans. The warm, moist, nutrient-rich environment of the substrate is ideal for many organisms, not just the target mushroom species.
 
 When cleaning jars that show signs of bacterial contamination, maintain a safe distance from the open jar. Avoid inhaling any particles or aerosols that may be released when the substrate is disturbed. Wash hands thoroughly with soap and water after handling contaminated materials, even if gloves were worn.
 

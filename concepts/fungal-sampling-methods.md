@@ -13,10 +13,9 @@ type: concept
 updated: 2026-04-12
 ---
 
-
 # Fungal Sampling Methods
 
-Standardized methods for documenting fungal biodiversity across habitats. Fungal diversity assessment requires specialized techniques that differ markedly from plant or animal survey methods because most fungi are microscopic for much of their life cycle, and fruiting is often episodic.
+Standardized methods for documenting fungal biodiversity across habitats. Fungal [[ingham-soil-food-web-diversity-assessment-dna-molecular-methods]] requires specialized techniques that differ markedly from plant or animal survey methods because most fungi are microscopic for much of their life cycle, and fruiting is often episodic.
 
 ## General Principles
 
@@ -31,8 +30,8 @@ Standardized methods for documenting fungal biodiversity across habitats. Fungal
 - GPS, camera, field notebook, collection bags
 - Hand lens (10x), knife, pruning shears
 - Sterile collection containers (paper bags, not plastic for mushrooms)
-- Moist chamber supplies (Petri dishes, filter paper, distilled water)
-- Microscope slides, coverslips, mounting media
+- [[myxomycete-sampling-collection-moist-chamber-culturing]] supplies (Petri dishes, filter paper, distilled water)
+- Microscope slides, coverslips, [[fungal-microscopic-examination-mounting-media-techniques]]
 - Temperature/humidity data logger
 
 ## Habitat-Specific Methods
@@ -120,11 +119,11 @@ Standardized methods for documenting fungal biodiversity across habitats. Fungal
 
 ### Freshwater Fungi (see [[freshwater-fungi-biodiversity]])
 
-Chytrids: bait with chitin, cellulose, keratin, or pollen (in situ mesh bags 1 week-1 month); examine algae, aquatic plants, insect exuviae. Peronosporomycetes: hemp seed/snake skin baiting in water; dilution plating for Pythium. Ascomycetes/hyphomycetes: collect submerged wood and plant debris, stream leaf litter bags, bubble chamber for aquatic spores. See [[freshwater-fungi-biodiversity]] for detailed protocols.
+Chytrids: bait with chitin, cellulose, keratin, or pollen (in situ mesh bags 1 week-1 month); examine algae, aquatic plants, insect exuviae. Peronosporomycetes: hemp seed/snake skin baiting in water; [[particle-filtration-dilution-plating-microfungal-isolation]] for Pythium. Ascomycetes/hyphomycetes: collect submerged wood and plant debris, stream leaf litter bags, bubble chamber for aquatic spores. See [[freshwater-fungi-biodiversity]] for detailed protocols.
 
 ### Endophytic Fungi
 
-**Surface sterilization protocol**:
+**[[challenge-organisms-nasa-microwave-surface-sterilization-testing]] protocol**:
 1. Collect healthy-looking leaves/stems
 2. Wash in 70% ethanol (30 sec) - 2.5% sodium hypochlorite (2-5 min) - 70% ethanol (30 sec)
 3. Rinse in sterile distilled water
@@ -137,62 +136,12 @@ Chytrids: bait with chitin, cellulose, keratin, or pollen (in situ mesh bags 1 w
 **Moist chamber method**:
 - Standard for protostelids, dictyostelids, and smaller myxomycetes
 - Substrata placed in Petri dishes on moist filter paper
-- Incubate at ambient temperature
+- Incubate at [[jadam-ambient-temperature-principle]]
 - Examine microscopically for fruiting bodies over 4-12 weeks
 
 **Soil plating** (dictyostelids):
 - Soil/litter samples plated on weak nutrient agar with E. coli
 - Emerging colonies documented
-- Most clones isolated from surface humus layers
-
-## Quantitative Methods
-
-### Diversity Indices
-- Species richness (S): total number of species
-- Shannon-Wiener index (H'): accounts for evenness
-- Simpson's index (D): weights toward dominant species
-- Fisher's alpha: useful for species-rich communities
-
-### Abundance Measures
-- Colony-forming units (CFU) per gram (culturable fungi)
-- Most Probable Number (MPN) for chytrids and other zoosporic fungi
-- Fruiting body counts per unit area (macrofungi)
-- Spore counts (airborne, aquatic)
-
-### Community Analysis
-- Ordination (PCA, NMDS) to compare communities
-- Cluster analysis of sampling sites
-- Indicator species analysis
-- Seasonal and successional patterns
-
-## Molecular Approaches
-
-### Environmental DNA (eDNA)
-- DNA extracted from environmental samples (soil, water, air)
-- PCR amplification of barcode regions (ITS most common)
-- High-throughput sequencing (Illumina, PacBio, Oxford Nanopore)
-- Bioinformatic pipeline: quality filtering, OTU/ASV clustering, taxonomic assignment
-
-### Advantages over traditional methods:
-- Detects non-culturable and cryptic species
-- Quantitative (read counts approximate abundance)
-- Reproducible and standardized
-- Can compare across studies globally
-
-### Limitations:
-- DNA from dead organisms may inflate diversity estimates
-- Primer bias affects detection of some groups
-- Reference databases incomplete
-- Cannot distinguish active vs. dormant organisms
-
-## Documentation and Vouchering
-
-- Photograph all collections in situ
-- Preserve voucher specimens (herbarium for macrofungi, cultures for microfungi)
-- Deposit cultures in recognized collections (ATCC, CBS, national collections)
-- Record GPS coordinates, habitat, substrate, date, collector
-- Sequence voucher specimens for molecular reference
-
 ## Related Topics
 
 - [[fungal-biodiversity-biogeography]] — Global diversity patterns

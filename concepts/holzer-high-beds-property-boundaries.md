@@ -62,7 +62,7 @@ support and stabilise the banks.
 
 ### Fruit Tree Layer
 
-Fruit trees provide additional wind protection. Trees with deep roots are
+Fruit trees provide additional [[cervantes-wind-protection-outdoor-cannabis]]. Trees with deep roots are
 essential because shallow-rooted trees like apples would be blown over by
 strong winds. Recommended species:
 - Cherries
@@ -79,12 +79,12 @@ up compacted layers.
 
 ## Soil Improvement and Maintenance
 
-Several sources of organic matter are worth considering for building and
+Several sources of [[hamilton-composting-and-organic-matter-management]] are worth considering for building and
 maintaining the high bed:
 - Leaves collected by local councils
 - Kitchen waste from restaurants
 - Straw
-- Cow or horse manure from nearby farmers
+- Cow or [[falconer-horse-manure-varieties]] from nearby farmers
 
 Farmers are often happy to give manure away for free. The bank needs
 watering for the first few years until humus builds up and groundwater is
@@ -96,7 +96,7 @@ during the establishment phase.
 Collect stinging nettles, grass, leaves, kitchen waste, or any organic
 matter in a barrel with water. Cover with a lid and let it sit for one to
 two weeks. Dilute 1:3 or 1:5 with water for use as both fertiliser and
-protection against some insects and diseases.
+protection against some [[solomon-insects-and-diseases-integrated-approach]].
 
 ## Earthworm Integration
 
@@ -108,6 +108,6 @@ perimeter system of diverse growing environments.
 A boundary high bed is most effective when neighbours collaborate. A digger
 can be rented collectively and both sides of the high bed used. The
 property boundary can run along the top of the high bed, marked by a row of
-fruit trees. This cooperative approach mirrors [[sepp-holzer-terrace-systems-and-raised-beds]] - Raised bed design principles
-- [[holzer-microclimate-creation]] - Microclimate creation techniques
+fruit trees. This cooperative approach mirrors [[sepp-holzer-terrace-systems-and-raised-beds]] - Raised bed [[holmgren-permaculture-twelve-design-principles-framework]]
+- [[holzer-microclimate-creation]] - [[mollison-designers-microclimate-creation-frost-protection]] techniques
 - [[contour-line-water-management]] - Contour-based water management

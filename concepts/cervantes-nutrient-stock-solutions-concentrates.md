@@ -1,18 +1,19 @@
 ---
-title: Nutrient Stock Solutions and Concentrates
+title: cervantes nutrient stock solutions concentrates Solutions and Concentrates
 created: 2026-04-26
 tags: [cannabis, nutrients, hydroponics, mixing, fertilizer]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Nutrient Stock Solutions and Concentrates
 
 Proper preparation and management of nutrient stock solutions is a
-core skill in hydroponic cannabis cultivation. Jorge Cervantes covers
+core skill in hydroponic [[query-how-does-no-till-cannabis-cultivation-work]]. Jorge Cervantes covers
 the practical aspects of mixing, diluting, and maintaining
 concentrated nutrient solutions, including two-part and three-part
 formulas, EC/ppm monitoring, and common mistakes that lead to
@@ -104,7 +105,7 @@ For growers using organic nutrients in hydroponic systems, Cervantes
 notes that measuring content is difficult because organic nutrients
 have complex structures. Taking an accurate EC reading or mixing
 exact amounts is very challenging with organic hydroponics. Some
-manufacturers have managed to stabilize their organic fertilizers,
+manufacturers have managed to stabilize their [[hamilton-organic-fertilizers-and-plant-nutrition]],
 but experimentation with feeding amounts and schedules is still
 necessary to achieve optimal results.
 

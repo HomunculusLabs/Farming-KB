@@ -1,5 +1,5 @@
 ---
-title: "Leafcutter Ant Fungal Agriculture and Human-Plant Symbiosis"
+title: "mckenna leafcutter ant fungal agriculture Fungal Agriculture and Human-Plant Symbiosis"
 created: 2026-04-28
 tags: [symbiosis, mycology, ecology, evolution, agriculture, leafcutter-ants, mckenna]
 date: 2026-04-28
@@ -14,12 +14,12 @@ type: concept
 
 The relationship between leafcutter ants (genus *Atta* and *Acromyrmex*) and their cultivated basidiomycete fungus represents one 's most remarkable examples of interspecies symbiosis — a fungal agriculture system that evolved millions of years ago -mushrooms-species-south-america.
 
- used this relationship as a central analogy in *Food of the Gods* to illustrate how human-, particularly with psychoactive mushrooms, may have functioned as a form of **behavioral symbiosis** that conferred adaptive advantages and catalyzed [[mckenna-symbiosis-and-human-plant-relationships]]
-- [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]
+ used this relationship as a central analogy in *Food of the Gods* to illustrate how human-, particularly with [[ceremonial-shamanic-use-psychoactive-mushrooms]], may have functioned as a form of **behavioral symbiosis** that conferred adaptive advantages and catalyzed [[mckenna-symbiosis-and-human-plant-relationships]]
+- fungal-symbiosis-with-plants-beyond-mycorrhizae
 
 ## See Also
 
-- [[fungal-roles-in-agriculture]]
+- fungal-roles-in-agriculture
 ## Practical Applications
 
 Leafcutter Ant Fungal Agriculture and Human-Plant Symbiosis has a range of practical applications that make it relevant to
@@ -37,7 +37,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -87,7 +87,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -97,4 +97,6 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+- [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
+- [[mckenna-agriculture-and-the-fall-from-paradise]]
+- [[mckenna-fungal-fossil-gap-spore-electron-density-and-metal-hardness]]

@@ -1,5 +1,5 @@
 ---
-title: Green Rice Leafhopper Virus Dynamics
+title: fukuoka green rice leafhopper virus Leafhopper Virus Dynamics
 created: 2026-04-28
 tags:
   - pest-ecology
@@ -20,7 +20,7 @@ The green rice leafhopper and its role as a virus vector in rice paddies
 represent a critical case study in Masanobu Fukuoka's analysis of
 [[fukuoka-natural-pest-balance]]. If chemicals are not
 sprayed, he explains, there will be many spiders present in the field, and
-one can generally leave the work of pest control to them. The spiders prey
+one can generally leave the work of [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] to them. The spiders prey
 on the leafhoppers, keeping their populations below the threshold where
 virus transmission becomes a significant threat to the crop.
 
@@ -36,7 +36,7 @@ have eliminated.
 ## The Connection to [[fukuoka-rice-dry-field-cultivation]], which avoids the continuously flooded conditions
 that favor both certain weed species and certain insect pests. By reducing
 standing water, the farmer simultaneously addresses weed competition and
-pest pressure through a single management decision.
+pest pressure through a single [[savory-holistic-resource-management-decision-framework]].
 
 ## Chemical Dependency and the Five Percent Transition Cost
 
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

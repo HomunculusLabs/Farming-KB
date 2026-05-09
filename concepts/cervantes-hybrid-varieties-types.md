@@ -1,10 +1,11 @@
 ---
-title: "Hybrid Varieties and Population Types"
+title: "cervantes hybrid varieties types and Population Types"
 created: 2026-04-28
 tags: [hybrids, breeding, genetics, F1, varieties, cannabis-genetics]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md]
+sources: sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -23,11 +24,11 @@ selecting appropriate genetics for their cultivation goals.
 Hybrids are the product of a cross between genetically unlike
 parents. They retain their distinctive characteristics when
 reproduced asexually through cloning, but fail to reproduce these
-characters completely or reliably through sexual reproduction. The
+characters completely or reliably through [[fungal-life-cycles-sexual-reproduction-metamorphosis]]. The
 development of hybrid cultivars involves creating or selecting
 inbred lines, coupling selection with inbreeding for homozygosity,
 evaluating inbreds for combining ability in hybrid combinations,
-and multiplying selected inbred lines for hybrid seed production.
+and multiplying selected inbred lines for hybrid [[cervantes-seed-production-storage]].
 
 ## Types of Hybrid Varieties
 
@@ -36,7 +37,7 @@ and multiplying selected inbred lines for hybrid seed production.
 F1 hybrids are first-generation crosses between two unrelated,
 true-breeding parental varieties. They are unique in that plants
 grown from F1 seed are uniform in appearance and performance. The
-primary benefit of F1 seed is hybrid vigor, or heterosis, where
+primary benefit of F1 seed is [[cannabis-hybrid-vigor-and-phenotypes-clarke]], or heterosis, where
 the progeny exceed the performance of both parental lines in growth
 rate, yield, and environmental tolerance. Examples include Northern
 Lights crosses and the classic Skunk number 1 lineage.
@@ -97,12 +98,12 @@ demonstrating how far cannabis pollen can travel.
 ### Heirloom Varieties
 
 Heirloom varieties are the product of many years of selective
-planting and seed saving. The original seeds bore plants with
+planting and [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]]. The original seeds bore plants with
 particular traits the grower valued, typically flavor, color, or
 psychoactive effect. Seeds from desirable plants were saved and
 replanted across generations, often passed within families or
 shared among friends. Heirloom varieties are non-hybrid and
-breed relatively true, meaning growers can save seeds and
+breed relatively true, meaning growers can [[query-how-do-i-save-seeds-from-biennial-vegetables]] and
 expect offspring similar to the parent generation.
 
 ### Multi-Line Varieties

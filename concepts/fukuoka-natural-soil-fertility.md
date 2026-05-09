@@ -1,26 +1,27 @@
 ---
-title: Fukuoka Natural Soil Fertility
+title: masanobu-fukuoka-natural-farming-philosophy Soil Fertility
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka's Natural Soil Fertility
 
 ## Overview
 
 [[fukuoka-critique-soil-cultivation]].
-- **Chemical fertilizers:** Create dependency by disrupting biological nutrient cycling.
+- **[[cervantes-chemical-fertilizers-guide]]:** Create dependency by disrupting biological [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 Plants become lazy — mycorrhizal associations atrophy when phosphorus is supplied
 artificially. Nitrogen-fixing bacteria are outcompeted when synthetic nitrogen is
 abundant. The soil's biological fertility system degrades, requiring ever more external
 inputs.
 - **Removal of crop residues:** When straw, stalks, and other residues are removed
-(for burning, feeding, or sale), organic matter is exported from the field faster
+(for burning, feeding, or sale), [[hamilton-composting-and-organic-matter-management]] is exported from the field faster
 than it can be rebuilt.
-- **Monoculture:** Reduces the diversity of root exudates and plant residues that
+- **Monoculture:** Reduces the diversity of [[mycorrhizal-root-exudates-pathogen-interactions]] and plant residues that
 feed different soil organisms, simplifying the soil ecosystem.
 - **Pesticides:** Kill beneficial organisms along with target species, disrupting
 the soil food web.
@@ -29,7 +30,7 @@ the soil food web.
 
 In Fukuoka's system, fertility is maintained through:
 1. **No-till:** Preserves soil structure and biological communities. See [[fukuoka-straw-mulch-philosophy]]. See also [[fukuoka-white-clover-ground-cover]] and
-other ground covers fix nitrogen, protect the soil surface, and provide continuous
+other ground covers [[query-how-to-fix-nitrogen-toxicity-in-cannabis]], protect the soil surface, and provide continuous
 root exudates that feed soil biology.
 4. **Crop rotation:** The [[fukuoka-four-principles-natural-farming]] — the principles
 - [[fukuoka-straw-mulch-system]] — organic matter recycling
@@ -112,4 +113,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

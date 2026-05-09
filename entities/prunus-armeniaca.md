@@ -11,7 +11,7 @@ updated: 2026-05-08
 sources:
   - Faust, M. et al. (2011). "Apricot (Prunus armeniaca L.): A review of breeding and genetics." In: Janick, J. & Paull, R.E. (eds.), The Encyclopedia of Fruit & Nuts, CABI.
   - Ruiz, D. & Egea, J. (2008). "Phenotypic diversity and relationships among apricot (Prunus armeniaca L.) germplasm." Euphytica, 163, 335-346.
-  - Bortolini, C. et al. (2018). "Health benefits of apricots and their bioactive compounds." Foods, 7(11), 181.
+  - Bortolini, C. et al. (2018). "Health benefits of apricots and their [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]." Foods, 7(11), 181.
   - USDA-ARS GRIN Taxonomy. "Prunus armeniaca L." Taxon ID 26290.
 ---
 
@@ -47,13 +47,13 @@ The flesh is sweet, juicy, and aromatic, enclosing a single hard, woody endocarp
 
 The species is native to the mountainous regions of Central Asia, spanning the Tien Shan and Pamir-Alai ranges of Kazakhstan, Kyrgyzstan, Tajikistan, and western China (Xinjiang). Wild populations persist in these regions.
 
-It is widely cultivated across temperate regions between 35° and 55° latitude, from the Mediterranean basin and Central Asia through southern Europe to the western United States (California), South Africa, Australia, and Chile.
+It is widely cultivated across temperate regions between 35° and 55° latitude, from the Mediterranean basin and Central Asia through southern Europe to the western [[dmt-containing-plants-united-states-halpern]] (California), South Africa, Australia, and Chile.
 
 Turkey is the world's largest producer, accounting for approximately 20% of global supply. The Malatya region of Turkey is particularly famous for dried apricot production, with ideal climate conditions of hot, dry summers.
 
 Apricots require a specific chilling requirement of 300–1,000 chill hours (below 7°C) to break dormancy. They are adapted to continental climates with cold winters and warm, dry summers.
 
-Spring frost during bloom is the primary climatic risk, as even brief sub-zero temperatures during flowering can destroy the entire season's crop. Windbreaks and overhead sprinkler systems are used for frost protection in commercial orchards.
+Spring frost during bloom is the primary climatic risk, as even brief sub-zero temperatures during flowering can destroy the entire season's crop. Windbreaks and overhead sprinkler systems are used for [[holzer-frost-protection-techniques]] in commercial orchards.
 
 ## Cultivation
 
@@ -61,7 +61,7 @@ Apricot trees prefer well-drained, deep, loamy soils with a pH of 6.0–7.5. The
 
 Trees are typically propagated by budding or grafting onto rootstocks such as *Prunus armeniaca* seedling, *P. cerasifera* (myrobalan plum), or *P. persica* (peach).
 
-The choice of rootstock affects tree vigor, drought tolerance, and disease resistance. Myrobalan plum rootstock is preferred in heavier, wetter soils, while apricot seedling rootstock is used in drier, well-drained sites.
+The choice of rootstock affects tree vigor, [[dighton-fungal-drought-tolerance-plant-water-relations]], and disease resistance. Myrobalan plum rootstock is preferred in heavier, wetter soils, while apricot seedling rootstock is used in drier, well-drained sites.
 
 Trees begin bearing fruit 3–4 years after planting and reach full production by year 7–8. Average yields range from 10–25 tonnes per hectare depending on cultivar, rootstock, and management.
 
@@ -69,7 +69,7 @@ Major pests include the oriental fruit moth (*Grapholita molesta*), plum curculi
 
 Bacterial canker (*Pseudomonas syringae*) and brown rot (*Monilinia laxa*) are the most significant diseases. Brown rot is particularly damaging in humid climates, causing rapid fruit decay near harvest.
 
-Harvest timing is critical as apricots ripen rapidly and have a short window of optimal quality. Fruits are typically harvested when firm-ripe, as they continue to soften after harvest but do not develop additional sweetness off the tree.
+[[cannabis-harvest-timing-visual-cues]] is critical as apricots ripen rapidly and have a short window of optimal quality. Fruits are typically harvested when firm-ripe, as they continue to soften after harvest but do not develop additional sweetness off the tree.
 
 ## Nutritional Value
 
@@ -93,13 +93,15 @@ The lethal dose of amygdalin for adults is estimated at 0.5–3.5 mg/kg body wei
 
 Despite this hazard, apricot kernels have been used traditionally in Chinese medicine and as a flavoring agent in amaretto liqueur and apricot kernel oil production. Commercial food-grade kernel oil is obtained from sweet varieties through cold pressing.
 
-Laetrile (amygdalin purified for medical use) was promoted as an alternative cancer treatment in the 1970s but has been discredited by clinical trials showing no efficacy and significant toxicity risk.
+Laetrile (amygdalin purified for medical use) was promoted as an alternative cancer treatment in the 1970s but has been discredited by [[mushroom-cancer-clinical-trials-overview]] showing no efficacy and significant toxicity risk.
 
 ## See Also
 
+- [[prunus-domestica]]
+
 - [[carya-illinoinensis]]
 - [[corylus-avellana]]
-- [[rubus-idaeus-entity]]
+- rubus-idaeus-entity
 - [[ficus-carica]]
 - [[persea-americana]]
 - [[citrus-sinensis]]

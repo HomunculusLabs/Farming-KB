@@ -19,7 +19,7 @@ The claim that native plants require less maintenance, water, and pest managemen
 ### The Balanced View
 Native plants are an excellent choice for many garden situations and provide critical ecological services (pollinator support, wildlife habitat, regional character). However, plant selection should be based on matching the plant's requirements to the site conditions, not solely on nativity. A well-adapted non-native plant in the right conditions will outperform a poorly matched native plant every time.
 ### See Also
-- [[hemenway-nurse-plants-and-chaperone-species]]
+- hemenway-nurse-plants-and-chaperone-species
 - [[invasive-species-management]]
 ## Myth: Non-Native Plants Are Always Harmful to Wildlife
 The native-plant-only movement sometimes implies that any non-native plant provides no ecological value. This is not supported by research.
@@ -27,8 +27,8 @@ The native-plant-only movement sometimes implies that any non-native plant provi
 - **Many non-native plants support pollinators**: Research shows that some non-native ornamentals provide nectar and pollen resources comparable to native plants. The key factor is flower characteristics (tubular vs. flat, bloom time, nectar volume) rather than nativity
 - **Landscape context matters**: In highly urbanized areas where native plant communities have been almost entirely eliminated, non-native plants may be the primary nectar and pollen source available. Removing all non-natives without replacing them with natives can reduce total pollinator resources
 - **Not all non-natives are invasive**: The vast majority of non-native garden plants are not invasive. They may naturalize (persist without cultivation) but do not spread aggressively or displace native plant communities
-- **The "enemy release hypothesis" has limits**: While some non-native plants benefit from reduced herbivory and disease pressure in their introduced range, many quickly acquire new pests and diseases
-- **Functional diversity**: Some non-native plants provide ecological functions (erosion control, nitrogen fixation, biomass production, specific flower forms for long-tongued pollinators) that complement native plant communities
+- **The "enemy release hypothesis" has limits**: While some non-native plants benefit from reduced herbivory and disease pressure in their introduced range, many quickly acquire new [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]
+- **Functional diversity**: Some non-native plants provide ecological functions ([[permplant-willows-salix-erosion-control-fodder]], [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], [[dighton-fungal-biomass-production-aquatic-ecosystems]], specific flower forms for long-tongued pollinators) that complement native plant communities
 ### The Balanced View
 The goal should be to maximize ecological function, not to eliminate all non-native plants. Prioritize native plants for their documented ecological value, but recognize that well-chosen non-native plants can contribute to pollinator support, wildlife habitat, and garden resilience. The key distinction is between non-native plants (which may be ecologically neutral or positive) and invasive plants (which cause documented ecological harm).
 ## Myth: Invasive Plants Can Be Controlled by Pulling or Digging
@@ -43,12 +43,12 @@ Mechanical control (pulling, digging, cutting) is often presented as the "natura
 Effective invasive species management typically requires an integrated approach:
 1. **Correct identification**: Know exactly what species you are dealing with and its specific biology and ecology
 2. **Prioritize**: Focus on new invasions and high-value areas rather than attempting to eradicate well-established populations in low-priority areas
-3. **Integrated methods**: Combine mechanical, chemical, cultural, and biological control methods as appropriate for the specific species and site
+3. **Integrated methods**: Combine mechanical, chemical, cultural, and [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] methods as appropriate for the specific species and site
 4. **Timing matters**: Control efforts timed to the plant's phenological stage (pre-flowering, after seed set, during dormancy) are more effective
 5. **Monitor and follow up**: Single treatments rarely succeed. Plan for multi-year management with monitoring
 6. **Replace, don't just remove**: Fill the void left by invasive removal with desirable native plants that can compete for the released resources
 ### See Also
-- [[hemenway-nurse-plants-and-chaperone-species]]
+- hemenway-nurse-plants-and-chaperone-species
 - [[weed-management-strategies]]
 ## Myth: Native Plants Never Become Invasive
 The assumption that native plants are inherently well-behaved in garden settings ignores the reality that "native" refers to a geographic range, not a specific garden.
@@ -62,14 +62,14 @@ When selecting native plants for gardens, research their growth habits and sprea
 While drought-tolerant native plants do need less water than many ornamentals, the claim that they never need supplemental water after establishment is an oversimplification.
 ### The Nuanced Reality
 - **Establishment period matters**: ALL newly planted plants, including drought-tolerant natives, need regular watering during their first 1-3 growing seasons while root systems develop
-- **Drought tolerance varies by context**: A plant drought-tolerant in its native habitat may struggle if planted in a hotter, drier, or windier garden site
+- **[[dighton-fungal-drought-tolerance-plant-water-relations]] varies by context**: A plant drought-tolerant in its native habitat may struggle if planted in a hotter, drier, or windier garden site
 - **Extreme drought exceeds adaptation**: Even drought-adapted plants can suffer or die during unprecedented drought events
 - **Soil matters**: A plant adapted to sandy, well-drained soils may struggle in compacted clay even if the region is the same
 - **Competition**: In a garden setting with nearby lawn irrigation, drought-tolerant natives may actually suffer from excess water
 ### The Balanced View
 Drought-tolerant natives are an excellent choice for water-wise gardens, but they still require thoughtful site assessment, proper planting, establishment irrigation, and occasional supplemental water during extreme conditions. "Drought-tolerant" means they survive with less water, not zero water.
 ### See Also
-- [[hemenway-nurse-plants-and-chaperone-species]]
+- hemenway-nurse-plants-and-chaperone-species
 - [[drought-gardening-strategies]]
 - [[chelation-and-metal-binding-in-plants]]
 - [[invasive-species-management]]
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

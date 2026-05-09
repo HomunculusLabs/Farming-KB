@@ -1,5 +1,5 @@
 ---
-title: "2C-T-21 -- 2,5-DIMETHOXY-4-(2-FLUOROETHYLTHIO)PHENETHYLAMINE -- PIHKAL Entry #49"
+title: "2C-T-21 -- 2,5-DIMETHOXY-4-(2-FLUOROETHYLTHIO)PHENETHYLAMINE -- 2c-b-pihkal-entry-20 #49"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 2C-T-21
 
-PIHKAL entry #49. 2,5-DIMETHOXY-4-(2-FLUOROETHYLTHIO)PHENETHYLAMINE.
+[[2c-b-pihkal-entry-20]] #49. 2,5-DIMETHOXY-4-(2-FLUOROETHYLTHIO)PHENETHYLAMINE.
 
 ## Chemical Name
 

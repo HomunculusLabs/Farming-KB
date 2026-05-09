@@ -7,7 +7,7 @@ sources: amanita-muscaria-herb-of-immortality.md
 tags: [amanita-muscaria, mycology]
 ---
 
-# [[amanita-muscaria-drying-and-preparation]] mushroom possesses a uniamanita-muscariacal profile centered on two closely related isoxazole compounds -- ibotenic acid and muscimol -- along with several other bioactive constituents. Beyond its well-known psychoactive properties, [[agar]]in; alpha-amino-3-hydroxy-5-isoxazoloacetic acid
+# [[amanita-muscaria-drying-and-preparation]] mushroom possesses a uniamanita-muscariacal profile centered on two closely related isoxazole compounds -- ibotenic acid and muscimol -- along with several other bioactive constituents. Beyond its well-known psychoactive properties, agarin; alpha-amino-3-hydroxy-5-isoxazoloacetic acid
 - **Formula:** C5H6N2O4
 - **Molecular weight:** 158.11
 - **Properties:** Colorless crystals, mp 150-152 C (decomposition), readily soluble in cold water
@@ -133,3 +133,17 @@ The most detailed account spans 10+ years of personal use:
 ### David Schanzle (Gardens of the Ancients, Manor TX)
 
 Summary of observations from numerous individuals:
+
+## See Also
+
+- [[amanita-species-southeastern-us]]
+- amanita-poisoning-amanitine-toxicology
+- [[amanita-herb-maga-magic-great-gift]]
+- [[amanita-porphyria]]
+- [[amanita-muscaria-use-australia-nz]]
+- [[amanita-virosa]]
+- [[amanita-herb-norse-odin-berserkers]]
+- [[amanita-mappa]]
+- [[amanita-flavoconia]]
+- [[amanita-pantherina-regalis-neurotropic-ibotenic-acid]]
+- [[amanita-ceceliae]]

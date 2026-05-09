@@ -1,5 +1,5 @@
 ---
-title: Crimson Clover (Trifolium incarnatum)
+title: comparison-lupin-vs-crimson-clover-green-manure (Trifolium incarnatum)
 created: 2026-05-06
 type: species
 tags:
@@ -24,7 +24,7 @@ sources:
 
 # Crimson Clover (Trifolium incarnatum)
 
-**Trifolium incarnatum**, commonly known as **crimson clover**, **Italian clover**, or **carnation clover**, is an annual herbaceous legume in the family Fabaceae. Native to the Mediterranean region of southern Europe, it has become one of the most widely used cover crops and green manures in temperate agriculture and permaculture systems worldwide. Prized for its rapid growth, prolific nitrogen fixation, stunning crimson flower heads, and exceptional value as pollinator forage, crimson clover occupies a central role in sustainable and regenerative farming practices.
+**Trifolium incarnatum**, commonly known as **crimson clover**, **Italian clover**, or **carnation clover**, is an annual herbaceous legume in the family Fabaceae. Native to the Mediterranean region of southern Europe, it has become one of the most widely used cover crops and green manures in temperate agriculture and permaculture systems worldwide. Prized for its rapid growth, prolific [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], stunning crimson flower heads, and exceptional value as pollinator forage, crimson clover occupies a central role in sustainable and regenerative farming practices.
 
 The species epithet *incarnatum* (Latin for "flesh-colored" or "blood-red") refers to the intense crimson color of the flower heads, which create striking displays when planted in mass — a feature that has also made it popular as an ornamental.
 
@@ -68,7 +68,7 @@ Crimson clover is among the most efficient annual legume nitrogen fixers:
 | Parameter | Value |
 |---|---|
 | Nitrogen fixed (dry weight) | 50–150 kg N/ha (45–135 lb N/acre) |
-| Biomass production | 3–6 t/ha dry matter |
+| [[dighton-fungal-biomass-production-aquatic-ecosystems]] | 3–6 t/ha dry matter |
 | Carbon-to-nitrogen ratio (C:N) | 15:1 to 25:1 (low = rapid decomposition) |
 | Root zone nitrogen contribution | Significant; root nodules + root exudates add N to soil profile |
 
@@ -79,11 +79,11 @@ Small ovoid pods (3–5 mm) containing a single kidney-shaped, yellowish-brown s
 
 ## Distribution and Habitat
 
-Native to southern Europe (Mediterranean basin — Italy, Spain, Greece, Balkans, Turkey). Widely naturalized in North America (eastern/southeastern US, Pacific Northwest, California), South America (Argentina, Chile), Australia, New Zealand, and southern Africa. Found in grasslands, pastures, disturbed areas, and cultivated fields.
+Native to southern Europe (Mediterranean basin — Italy, Spain, Greece, Balkans, Turkey). Widely naturalized in [[psilocybin-north-america-pacific-northwest]] (eastern/southeastern US, Pacific Northwest, California), South America (Argentina, Chile), Australia, New Zealand, and southern Africa. Found in grasslands, pastures, disturbed areas, and cultivated fields.
 
 ## Ecological Functions
 
-Crimson clover is one of the most valuable early-season nectar and pollen sources for pollinators — honey bees produce a light, premium honey from its nectar (40–50% sugar concentration). Bumble bees, native bees, butterflies, hoverflies, and parasitic wasps are all frequent visitors. Rapid establishment (germination in 3–7 days) provides quick ground cover for erosion control on slopes, waterways, and disturbed sites. Dense growth provides cover for small mammals and ground-nesting birds; seeds are consumed by quail, dove, turkey, and songbirds.
+Crimson clover is one of the most valuable early-season nectar and pollen sources for pollinators — honey bees produce a light, premium honey from its nectar (40–50% sugar concentration). Bumble bees, native bees, butterflies, hoverflies, and parasitic wasps are all frequent visitors. Rapid establishment (germination in 3–7 days) provides quick ground cover for [[permplant-willows-salix-erosion-control-fodder]] on slopes, waterways, and disturbed sites. Dense growth provides cover for small mammals and ground-nesting birds; seeds are consumed by quail, dove, turkey, and songbirds.
 
 ## Cultivation
 
@@ -121,7 +121,7 @@ Crimson clover is highly palatable and nutritious as livestock forage (16–22% 
 - **Winter hardiness:** Less cold-tolerant than red clover or hairy vetch; may winterkill in Zones 5 and colder
 - **Drainage sensitivity:** Intolerant of waterlogged or poorly drained soils; susceptible to root rot under wet conditions
 - **Shade tolerance:** Low; requires full sun for optimal growth and nitrogen fixation
-- **Disease susceptibility:** Crown rot, southern anthracnose, powdery mildew, and root-knot nematode can reduce stands
+- **Disease susceptibility:** Crown rot, southern anthracnose, [[cervantes-powdery-mildew-prevention-treatment]], and root-knot nematode can reduce stands
 - **Annual lifecycle:** Must be replanted each year; does not provide multi-year ground cover like perennial clovers
 - **Volunteer management:** Hard seed (10–30%) can produce volunteer plants in subsequent crops — desirable for natural reseeding but potentially weedy in cash crops
 

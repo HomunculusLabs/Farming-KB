@@ -1,10 +1,12 @@
 ---
 title: "Blackberry vs Raspberry"
 created: 2026-04-28
-tags: [comparison, berries, bramble-fruit, [[permaculture]]
+tags: [comparison, berries, bramble-fruit, permaculture
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 type: comparison
 ---
 
@@ -13,10 +15,10 @@ type: comparison
 ## Overview
 
 Blackberries and raspberries are both members of the Rubus genus and are
-among the most productive and rewarding fruit crops for home growers. They
+among the most productive and rewarding uncommon specialty fruit crops for permaculture for home growers. They
 share many cultural requirements but differ significantly in growth habit,
 flavor, harvest window, and management needs. Understanding these differences
-helps growers choose the right bramble for their site, climate, and goals.
+helps growers [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] bramble for their site, climate, and goals.
 
 Both plants produce biennial canes that fruit in their second year before
 dying back. This shared growth pattern means the pruning fundamentals are
@@ -56,7 +58,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -98,4 +100,7 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+## See Also
+- [[jadam-fruit-tree-management]]
+- [[holzer-stone-fruit-varieties-and-growing]]
+- [[fukuoka-pruning-fruit-tree-natural-management]]

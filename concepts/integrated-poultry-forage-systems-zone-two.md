@@ -1,15 +1,14 @@
 ---
-title: "Integrated Poultry Forage Systems and Zone Two Animal Design"
+title: "Integrated free-range-poultry-forage-design-mollison Systems and Zone Two Animal Design"
 created: 2026-04-28
-tags: [[permaculture, poultry, forage, zone-two-design]
+tags: [permaculture, poultry, forage, zone-two-design]
 date: 2026-04-25
 updated: 2026-04-25
-sources: [~/wiki/raw/papers/bill-mollison-permaculture-design-course.md]
+sources: sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
-
-Bill Mollison asserts that never in the history of the world has
-anyone designed and implemented [[hamilton-organic-weed-management]] within an orchard. Chickens
+[[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] asserts that never in the history of the world has anyone designed and implemented [[hamilton-organic-weed-management]] within an orchard. Chickens
 cannot disturb small plants if those are protected with wire mesh,
 mulch, or brush piles. Later in the season, when the system is
 established, 200 chickens can be loaded into an area.
@@ -26,7 +25,7 @@ Before planting, chickens and ducks are released to dig out slugs
 and clean the ground. They will not eat many seeds but consume
 slugs and worms enthusiastically. Ducks are great fly catchers
 when baited with attractive flies. Chickens with plum and cherry
-trees reduce pest populations significantly.
+trees reduce [[query-how-do-parasitoid-wasps-control-pest-populations]] significantly.
 
 Ducks with sheep form an excellent combination. Ducks eat two
 things fatal to sheep: shallow water snails that carry fluke, and
@@ -60,7 +59,7 @@ honey-loving beetles and moths, bringing insects into the system.
 
 ## Native Forage Forests and Wildlife Ranges
 
-North America once had enormous wildfowl populations. Early
+[[psilocybin-north-america-pacific-northwest]] once had enormous wildfowl populations. Early
 explorers documented flocks of passenger pigeons darkening the sky
 from dawn to evening, and ducks by the thousands every half mile
 along rivers. These wildlife forages contain many pioneer plants
@@ -74,10 +73,10 @@ forage species prepare the site for larger tree species to follow.
 ## See Also
 
 - mollison-designers [[poultry-forage-days-mollison]]
-- [[mollison-forage-trees-in-livestock-systems]]
+- mollison-forage-trees-in-livestock-systems
 ## Practical Considerations
 
-Successful implementation of Integrated Poultry Forage Systems and Zone Two Animal Design requires attention to
+Successful implementation of [[mollison-geese-grass-control-and-integrated-poultry]] Forage Systems and Zone Two Animal Design requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -93,4 +92,4 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+- [[bill-mollison]]

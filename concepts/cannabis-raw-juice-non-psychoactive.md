@@ -1,5 +1,5 @@
 ---
-title: Cannabis Raw Juice and Non-Psychoactive Therapies
+title: Cannabis cannabis raw juice non psychoactive and Non-Psychoactive Therapies
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Cannabis Raw Juice and Non-Psychoactive Therapies
 
-One of the most significant insights from The Cannabis Health Index is the distinction between psychoactive and non-psychoactive cannabis preparations. Raw, unheated cannabis contains cannabinoids in their acid forms (THCA and CBDA) which are non-psychoactive yet retain significant therapeutic properties. This opens cannabis therapy to populations who cannot or will not experience THC's mind-altering effects.
+One of the most significant insights from The [[blesching-cannabis-health-index-autoimmune-conditions]] is the distinction between psychoactive and non-psychoactive cannabis preparations. Raw, unheated cannabis contains cannabinoids in their acid forms (THCA and CBDA) which are non-psychoactive yet retain significant therapeutic properties. This opens cannabis therapy to populations who cannot or will not experience THC's mind-altering effects.
 
 ## The Acid Cannabinoids
 
@@ -29,10 +29,10 @@ One of the most significant insights from The Cannabis Health Index is the disti
 
 The Cannabis Health Index extensively references the work of Dr. William L. Courtney, a physician who pioneered the use of fresh cannabis as a dietary essential. His key contributions include:
 
-- **Dietary cannabis concept**: Treating raw cannabis as a nutritional supplement similar to dark leafy greens
+- **Dietary cannabis concept**: Treating raw cannabis as a nutritional supplement similar to dark [[solomon-leafy-greens-growing]]
 - **Non-psychoactive delivery**: Fresh cannabis juice delivers high concentrations of cannabinoids without any psychoactive effect
 - **Dose advantage**: Raw cannabis can deliver much higher concentrations of CBD (as CBDA) before any mind-altering effect occurs, compared to decarboxylated preparations
-- **Full-spectrum nutrition**: Fresh cannabis contains cannabinoids, terpenes, essential fatty acids, amino acids, vitamins, minerals, and antioxidants
+- **Full-spectrum nutrition**: Fresh cannabis contains cannabinoids, terpenes, essential [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]], amino acids, vitamins, minerals, and antioxidants
 
 ## Raw Cannabis Juice Protocol
 
@@ -45,7 +45,7 @@ The Cannabis Health Index extensively references the work of Dr. William L. Cour
 ### Important Considerations
 - **No heating**: Any heat above approximately 220°F (105°C) will begin decarboxylation, converting acid cannabinoids to their psychoactive forms
 - **Start gradually**: Even non-psychoactive cannabis preparations can produce effects; begin with small amounts
-- **Strain selection**: Both indica and sativa varieties provide nutritional benefits; indica may be preferred for anti-inflammatory effects due to CB2-favoring profiles
+- **[[blesching-cannabis-strain-selection-receptor-targeting]]**: Both indica and sativa varieties provide nutritional benefits; indica may be preferred for anti-inflammatory effects due to CB2-favoring profiles
 - **Organic sourcing**: When consuming raw plant material, organic cultivation is especially important
 
 ## Populations Who May Benefit Most from Non-Psychoactive Cannabis
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

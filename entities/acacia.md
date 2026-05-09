@@ -33,13 +33,13 @@ poultry fodder.
   and the Americas
 
 ### Ecological Roles
-- **Nitrogen fixation:** Root nodules fix atmospheric nitrogen, improving
+- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]:** Root nodules fix atmospheric nitrogen, improving
   soil fertility for companion plants
 - **Pioneer species:** Rapid colonisers of disturbed and degraded land
-- **Soil stabilisation:** Many species excellent for erosion control on
+- **Soil stabilisation:** Many species excellent for [[permplant-willows-salix-erosion-control-fodder]] on
   sands, slopes, and degraded sites
 - **Shelter:** Fast growth provides quick windbreak and shade establishment
-- **Bee forage:** Usually a good source of pollen (less often nectar)
+- **[[mollison-designers-bee-forage-tree-planting]]:** Usually a good source of pollen (less often nectar)
 
 ### Notable Species
 
@@ -56,8 +56,8 @@ poultry fodder.
   production; 600-1000 mm rainfall
 - **A. decurrens (green wattle):** Fast coloniser to 9 m; bark used in
   tanning; excellent pioneer for pastured land
-- **A. baileyana (cootamundra wattle):** Ornamental shade tree to 5 m;
-  seed is good poultry feed
+- **A. baileyana (cootamundra wattle):** Ornamental [[mollison-designers-legume-shade-tree-pasture-systems]] to 5 m;
+  seed is good [[knf-poultry-feed-preparation]]
 
 #### Timber Species
 - **A. harpophyllia (brigalow):** 12-24 m; hard, elastic wood; excellent

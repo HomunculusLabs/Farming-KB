@@ -1,5 +1,5 @@
 ---
-title: Fukuoka Dry Field Rice and Compact Plant Theory
+title: Fukuoka fukuoka dry field rice compact plant theory Rice and Compact Plant Theory
 tags: [fukuoka, rice, no-till, dry-farming, plant-physiology, grain-production]
 date: 2026-04-28
 updated: 2026-04-28
@@ -16,11 +16,11 @@ every year.
 
 ## Disease Resistance Through Growing Conditions
 
-When Fukuoka first began, his red clay soil was weak and unsuited for rice. Brown spot disease
+When Fukuoka first began, his [[jadam-red-clay-powder-method]] soil was weak and unsuited for rice. Brown spot disease
 occurred frequently. As the field grew in fertility through [[cover-cropping-natural-farming|cover cropping]], brown spot disease
 decreased and eventually disappeared entirely.
 
-The three great rice diseases, stem rot, rice blast, and bacterial leaf blight, could all but
+The three great rice diseases, stem rot, [[bloomfield-rice-blast-appressorium-mechanics]], and bacterial leaf blight, could all but
 disappear if farmers stopped using weak improved varieties, stopped adding too much nitrogen to
 the soil, and reduced the amount of irrigation water so that strong roots could develop. Chemical
 sprays would become unnecessary. The approach connects directly to [[fukuoka-no-till-grain-production-method]], [[fukuoka-old-rice-variety-testing]], [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
@@ -101,4 +101,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -43,7 +43,7 @@ Flowers are borne in axillary racemes 15–30 cm long. Corollas are white to pal
 
 The species is native to the Amazon and Orinoco river basins, extending from Peru, Ecuador, and Colombia through Brazil, Venezuela, and the Guianas. It is found at low elevations (0–800 m) in humid tropical forests, forest margins, and disturbed areas.
 
-Cultivation extends beyond the native range to other tropical regions including Central America, the Caribbean, West Africa, Southeast Asia, and northern Australia. In some areas, it has naturalized in secondary growth forests and riverbank habitats.
+Cultivation extends beyond the native range to other tropical regions including [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], the Caribbean, West Africa, [[psilocybe-southeast-asia-pacific]], and northern Australia. In some areas, it has naturalized in secondary growth forests and riverbank habitats.
 
 P. tuberosus performs best in well-drained, fertile soils with pH 5.5–7.0 and annual rainfall of 1,500–3,000 mm. It requires full sun for optimal tuber production and is sensitive to frost and prolonged drought.
 
@@ -59,15 +59,15 @@ Protein content of the tuber (1–2%) is modest, but the seeds contain 24–30% 
 
 P. tuberosus forms effective nitrogen-fixing symbioses with Bradyrhizobium and Rhizobium strains. Nitrogen fixation rates of 100–200 kg N/ha/year have been reported, comparable to other tropical legumes. This capacity makes the species valuable as a green manure and cover crop in tropical agroforestry systems.
 
-The deep, extensive root system improves soil structure and reduces compaction. Leaf litter from the vigorous canopy contributes organic matter to the soil surface. In intercropping systems, P. tuberosus can provide significant nitrogen inputs to companion crops while producing a harvestable tuber yield.
+The deep, extensive root system improves soil structure and reduces compaction. Leaf litter from the vigorous canopy contributes [[hamilton-composting-and-organic-matter-management]] to the soil surface. In intercropping systems, P. tuberosus can provide significant nitrogen inputs to companion crops while producing a harvestable tuber yield.
 
 Studies in Brazil and Peru have demonstrated that P. tuberosus intercropped with cassava, maize, or fruit trees can increase total system productivity by 30–50% compared to monocultures, while reducing the need for external nitrogen fertilizer inputs.
 
 ## Cultivation
 
-Propagation is primarily by seed, though stem cuttings and tuber pieces can also be used. Seeds require scarification and pre-soaking for optimal germination, which occurs within 7–14 days at 25–30°C. Direct seeding at 1–2 m spacing on trellises or support structures is the standard practice.
+Propagation is primarily by seed, though stem cuttings and tuber pieces can also be used. Seeds require scarification and pre-soaking for optimal germination, which occurs within 7–14 days at 25–30°C. [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] at 1–2 m spacing on trellises or support structures is the standard practice.
 
-Tuber harvest typically occurs 8–14 months after planting, depending on cultivar and growing conditions. Yield ranges from 20 to 80 tonnes/ha fresh weight, with elite selections producing over 100 tonnes/ha under optimal conditions. The long growing season limits cultivation to frost-free tropical areas.
+Tuber harvest typically occurs 8–14 months after planting, depending on cultivar and growing conditions. Yield ranges from 20 to 80 tonnes/ha fresh weight, with elite selections producing over 100 tonnes/ha under optimal conditions. The long [[savory-growing-season-and-non-growing-season-management]] limits cultivation to frost-free tropical areas.
 
 Post-harvest tuber storage life is 2–4 weeks at ambient tropical temperatures and up to 2 months at 12–15°C. Cold storage below 10°C causes chilling injury. Processing into flour or starch extends shelf life significantly.
 
@@ -91,7 +91,7 @@ The species was first described to European science by Humboldt and Bonpland dur
 
 P. tuberosus is exceptionally well-suited to tropical permaculture systems due to its multiple yields and ecological functions. As a nitrogen-fixing climber, it can be integrated into food forest designs as a productive vine layer growing on support trees such as Inga, Gliricidia, or Leucaena species.
 
-The species serves several permaculture functions simultaneously: nitrogen fixation, biomass production, soil improvement through deep root penetration, edible tuber yield, and ground cover when allowed to sprawl. In a seven-layer food forest model, P. tuberosus occupies the vine layer while contributing to the root zone and soil layers.
+The species serves several permaculture functions simultaneously: nitrogen fixation, [[dighton-fungal-biomass-production-aquatic-ecosystems]], soil improvement through deep root penetration, edible tuber yield, and ground cover when allowed to sprawl. In a seven-layer food forest model, P. tuberosus occupies the vine layer while contributing to the root zone and soil layers.
 
 Agroforestry trials in Brazil, Peru, and West Africa have demonstrated successful integration with cocoa, coffee, banana, and timber tree systems. The vine provides shade regulation during establishment, nitrogen inputs to companion trees, and a supplementary root crop harvest. Establishment costs are low as the species readily establishes from direct seeding.
 

@@ -1,5 +1,5 @@
 ---
-title: "Pecan Tree Profile for Permaculture Systems"
+title: "permaculture pecan tree profile Profile for Permaculture Systems"
 created: 2026-04-28
 tags:
   - permaculture
@@ -17,7 +17,7 @@ type: concept
 # Pecan Tree Profile for Permaculture Systems
 
 The pecan (Carya illinoensis) is a long-lived deciduous nut tree native to
-North America, belonging to the Juglandaceae family alongside walnuts and
+[[psilocybin-north-america-pacific-northwest]], belonging to the Juglandaceae family alongside walnuts and
 hickories. It is cross-fertile with hickory species and represents one of
 the most valuable nut crops for [[permaculture-food-forests-design-course]] designs where
 intercropping with understory species maximizes productivity per unit
@@ -47,8 +47,8 @@ crops. The main challenge in Australia and similar regions is damage
 from parrots and cockatoos. This makes pecans a good candidate for
 integrated [[permaculture-food-forests-design-course]] systems as a
 upper canopy element. Their deep root systems improve soil structure
-and nutrient cycling. The deciduous canopy allows winter light through
-to understory crops. Leaf litter contributes to [[permaculture-plants-ground-covers-living-mulches]] creates a
+and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. The deciduous canopy allows winter light through
+to understory crops. [[dighton-fungal-decomposition-leaf-litter-dynamics]] contributes to [[permaculture-plants-ground-covers-living-mulches]] creates a
 productive, self-maintaining polyculture system.
 
 ## Related
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

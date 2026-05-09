@@ -9,10 +9,10 @@ type: concept
 ---
 
 # Substrate Fermentation for [[mushroom-cultivation]]. Though not
-essential for [[oyster-mushroom-ph-and-substrate-chemistry]]
+essential for oyster-mushroom-ph-and-substrate-chemistry
 - [[oyster-straw-substrate-preparation]]
-- Oyster Cottonseed Hull Substrate
-- Oyster Contamination Control
+- Oyster Cottonseed [[oyster-mushroom-sunflower-seed-hull-substrate]]
+- Oyster [[mushroom-contamination-control]]
 ## Background and Context
 
 Substrate Fermentation for oyster-mushrooms is an important subject that has garnered significant attention
@@ -63,7 +63,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -141,4 +141,5 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-
+## See Also
+- [[oyster-mushroom]]

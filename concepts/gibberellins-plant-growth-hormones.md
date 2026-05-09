@@ -6,11 +6,11 @@ tags: [plant-hormones, gibberellins, plant-physiology, plant-growth, agriculture
 date: 2026-05-02
 type: concept
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  sources: []
 ---
 
 Gibberellins (GAs) are a large family of diterpenoid plant hormones
-regulating stem elongation, comparison cannabis clone, flowering, and fruit
+regulating stem elongation, comparison [[comparison-cannabis-clone-rooting-and-transplanting-vs-seed-germination]], flowering, and fruit
 development. Over 136 gibberellin structures have been identified,
 though only a small subset — notably GA₁, GA₃, GA₄, and GA₇ — are
 biologically active. Gibberellins are among the five classical plant
@@ -97,7 +97,7 @@ GID1-GA-DELLA ternary complex is recognized by the SCFᵂᴿᴷʸ E3
 ubiquitin ligase (F-box proteins SLY1 in Arabidopsis, GID2 in rice),
 leading to DELLA polyubiquitination and 26S proteasome degradation.
 This releases growth-promoting transcription factors (PIFs, BZR1) from
-repression, activating cell elongation and division genes.
+repression, activating [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] and division genes.
 
 ## Deactivation and Homeostasis
 

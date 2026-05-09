@@ -1,5 +1,5 @@
 ---
-title: Pleurotus tuber-regium - The African Sclerotial Oyster Mushroom
+title: Pleurotus tuber-regium - The growing gourmet pleurotus tuber regium african sclerotial oyster Oyster Mushroom
 created: 2026-04-26
 tags:
   - mushroom-cultivation
@@ -35,7 +35,7 @@ by Fries. It was later transferred to the genus Pleurotus by Singer.
 The species epithet "tuber-regium" (royal tuber) refers to the
 impressively large sclerotia it produces. This species is one of the
 few Oyster mushrooms that reliably forms sclerotia, placing it in a
-category with species like Collybia tuberosa, Polyporus umbellatus,
+category with species like Collybia tuberosa, [[growing-gourmet-polyporus-umbellatus-zhu-ling-cultivation]],
 and various Morchella species that share this trait.
 
 ## Sclerotia Biology
@@ -51,7 +51,7 @@ A sclerotium is a hardened, asexual mass of cells roughly resembling
 a gold nugget or walnut in form and size. Mushrooms which form
 sclerotia tend to be soil-dwellers. The sclerotia can be dried to
 the point of flammability and, upon rehydration, spring back to life,
-transforming into either a mushroom or a new mycelial network.
+transforming into either a mushroom or a new [[gadd-mycelial-network-dynamics]].
 
 ## Cultivation Methods
 
@@ -63,21 +63,24 @@ watering systems and on various farm wastes.
 
 The species can be cultivated on a wide range of agricultural
 residues, making it especially valuable in tropical developing
-countries where substrate materials are abundant and inexpensive.
+countries where [[growing-gourmet-substrate-materials-wood-types]] are abundant and inexpensive.
 Farm wastes suitable for cultivation include various lignocellulosic
-materials common in West African agriculture.
+materials common in West [[fukuoka-african-agriculture-observations]].
 
 ## Medicinal Significance
 
-The sclerotia of P. tuber-regium contain bioactive compounds that
+The sclerotia of P. tuber-regium contain [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] that
 have drawn interest from the medicinal mushroom research community.
 Like other [[growing-gourmet-black-morel-sclerotia-life-cycle]], which also use underground
 structures to bridge unfavorable environmental periods.
 
 ## See Also
 
+- [[pleurotus-nebrodensis]]
+- [[pleurotus-euosmus]]
+
 - [[pleurotus-tuber-regium]]
 
 - [[growing-gourmet-black-morel-sclerotia-life-cycle]]
-- [[growing-gourmet-mushroom-life-cycle]]
+- growing-gourmet-mushroom-life-cycle
 - [[growing-gourmet-saprophytic-mushrooms-decomposers]]

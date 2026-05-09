@@ -70,7 +70,7 @@ This "missing magic" quality became a consistent theme in MDE reports and may ex
 | Duration (hours) | 6-10 | 3-5 | 3-5 |
 | "Magic" quality | No | Yes | No |
 
-MDE is also related to [[mmda-2-compound-profile]] through the shared methylenedioxy substitution pattern. See [[mdma-compound-profile]] for comprehensive harm reduction guidance
+MDE is also related to [[mmda-2-compound-profile]] through the shared methylenedioxy substitution pattern. See [[mdma-compound-profile]] for comprehensive [[adverse-effects-and-harm-reduction-psilocybin]] guidance
 - The 200 mg+ range shows diminishing returns with increased physical side effects
 - Prolonged appetite suppression (up to 72 hours reported at 200 mg) requires attention to nutrition
 - Word-finding difficulty and verbal impairment may be more pronounced than with MDMA
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

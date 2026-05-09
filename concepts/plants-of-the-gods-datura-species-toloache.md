@@ -1,5 +1,5 @@
 ---
-title: "Datura Species: Holy Flower of the North Star"
+title: "Datura Species: schultes-datura-holy-flower-north-star of the North Star"
 created: 2026-04-28
 tags:
   - ethnobotany
@@ -50,7 +50,7 @@ a good feeling and visions."
 
 ## Datura metel
 
-In the Old World, the most culturally important species for
+In the [[datura-metel-old-world-ethnobotany]], the most culturally important species for
 medicinal and hallucinogenic use is D. metel, native probably to
 the mountainous regions of Pakistan or Afghanistan westward. It
 is a spreading herb, sometimes becoming shrubby, 3-6 feet (1-2 m)
@@ -61,12 +61,12 @@ cm) long. The flowers are primarily violet.
 
 ## Datura stramonium: Thorn Apple
 
-Datura stramonium is an annual herb growing to about 4 feet (1.2
+Datura stramonium is an annual [[medicinal-herb-growing]] to about 4 feet (1.2
 m) with many-forked branches. The funnel-shaped flowers are
 5-pointed and among the smallest of the Datura species at 2-3
 inches (6-9 cm) long. The green egg-shaped fruit is covered with
 thorns and stands erect. Its origins are uncertain; some suggest
-the Caspian Sea region, others Mexico or North America.
+the Caspian Sea region, others Mexico or [[psilocybin-north-america-pacific-northwest]].
 
 The Algonquin Indians of Virginia used a toxic medicine called
 wysoccan in their Huskanawing initiation ceremony. Youths were
@@ -106,7 +106,7 @@ Physiological activity begins with a feeling of lassitude and
 progresses into a period of hallucinations followed by deep sleep
 and loss of consciousness. In excessive doses, death or permanent
 insanity may occur. The psychoactivity is so potent that it is
-clear why indigenous peoples around the world have classed
+clear why indigenous peoples [[fungi-around-the-world-species-distribution]] have classed
 Datura species as plants of the gods.
 
 ## Datura ceratocaula
@@ -122,6 +122,6 @@ Ololiuqui" and was held in great veneration.
 - [[plants-of-the-gods-nightshade-hexing-herbs]] — nightshade
   family hallucinogens including Atropa and Mandragora
 - [[plants-of-the-gods-chemical-structures-hallucinogens]] —
-  chemical structures of tropane alkaloids
+  [[plants-of-the-gods-chemical-structures-hallucinogens]] of tropane alkaloids
 - [[plants-of-the-gods-lophophora-peyote]] — contrasted with
   Peyote in Mexican indigenous use

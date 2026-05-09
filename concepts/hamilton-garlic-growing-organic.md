@@ -1,5 +1,5 @@
 ---
-title: Garlic Growing - Organic Methods
+title: hamilton garlic growing organic - Organic Methods
 created: 2026-04-28
 tags:
   - garlic
@@ -55,17 +55,17 @@ weeds and conserve moisture over winter.
 
 ## Maintenance
 
-Keep the rows weed free throughout the growing season. Garlic has
+Keep the rows weed free throughout the [[savory-growing-season-and-non-growing-season-management]]. Garlic has
 relatively shallow roots and competes poorly with weeds. If the site
 is exposed, support the stems to keep them from breaking off in the
 wind. Water during dry spells, particularly as the bulbs begin to
-swell in late spring. A light feed of liquid organic fertilizer can
+swell in late spring. A light feed of liquid [[complete-organic-fertilizer-cof-recipe-solomon]] can
 be applied in spring, but avoid excessive nitrogen, which promotes
 leaf growth at the expense of bulb development.
 
 ## Companion Planting Benefits
 
-Garlic has a long history as a companion plant in organic gardening.
+Garlic has a long history as a companion plant in [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]].
 It can be grown under rose bushes, where it is believed to help
 deter aphids and other pests. Planting garlic near tomatoes may
 also offer some protection. See
@@ -97,7 +97,7 @@ produce the most flavorful and nutritionally dense bulbs possible.
 Garlic is one of the simplest and most rewarding crops for the
 organic gardener. Its ease of cultivation, minimal pest problems,
 long storage life, and dual role as both food and companion plant
-make it an essential component of any vegetable garden. Success
+make it an essential component of any [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]. Success
 depends on selecting quality cloves, providing a sunny, well-drained
-site with plenty of organic matter, and harvesting at the right
+site with plenty of [[hamilton-composting-and-organic-matter-management]], and harvesting at the right
 time for proper curing and storage.

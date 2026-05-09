@@ -7,7 +7,7 @@ tags:
   - medicinal-plant
   - bitter
   - alpine
-  - permaculture
+  - [[permaculture]]
   - digestive
 date: 2026-04-28
 updated: 2026-04-28
@@ -70,7 +70,7 @@ The root contains some of the most bitter naturally occurring compounds known, w
 - **Native range:** Mountains of central and southern Europe: Alps, Pyrenees, Carpathians, Apennines, Balkans; extends from Spain to Turkey
 - **Altitude:** 800–2,500 m a.s.l.; most abundant between 1,000–2,000 m
 - **Habitat:** Alpine and subalpine meadows, open woodland clearings, rocky slopes, pasture edges
-- **Soil preference:** Well-drained, calcareous to neutral soils, pH 6.0–7.5; rich in organic matter
+- **Soil preference:** Well-drained, calcareous to neutral soils, pH 6.0–7.5; rich in [[hamilton-composting-and-organic-matter-management]]
 - **Light:** Full sun to partial shade
 - **Moisture:** Moderate; tolerates drought once established due to deep taproot
 
@@ -96,7 +96,7 @@ The bitter value (Bitterwert) of gentian root is standardized to 10,000–20,000
 
 ### Validated Bioactivities
 
-- **Digestive stimulant:** Bitter glycosides stimulate taste receptors (TAS2R) on the tongue, triggering the vagus nerve and increasing gastric acid secretion, bile flow, and pancreatic enzyme production
+- **Digestive stimulant:** Bitter glycosides stimulate taste receptors (TAS2R) on the tongue, triggering the vagus nerve and increasing gastric acid secretion, bile flow, and pancreatic [[ligninolytic-enzyme-production-bioremediation]]
   - Evidence level: Well-established clinical pharmacology; confirmed in human studies
 - **Anti-inflammatory:** Xanthones inhibit COX-2 and iNOS expression in vitro; gentiopicroside reduces TNF-α and IL-6 production
   - Evidence level: In vitro and animal studies
@@ -110,7 +110,7 @@ The bitter value (Bitterwert) of gentian root is standardized to 10,000–20,000
 - **Indigestion and dyspepsia:** Primary indication; approved by EMA/HMPC and German Commission E as a traditional herbal medicine for symptomatic relief of digestive complaints and loss of appetite
 - **Dosage:** 1–2 g of dried root daily as decoction, tincture (1:5, 45% ethanol), or standardized extract; taken 15–30 minutes before meals
 - **Contraindications:** ⚠️ Gastric ulcer, hyperacidity; pregnancy (uterine stimulant in animal studies); biliary obstruction
-- **Drug interactions:** May increase absorption of co-administered drugs due to enhanced gastric motility
+- **[[cannabis-drug-interactions-and-contraindications]]:** May increase absorption of co-administered drugs due to enhanced gastric motility
 
 ## Cultivation
 

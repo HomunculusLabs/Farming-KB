@@ -11,7 +11,7 @@ tags:
   - hymenogastraceae
 sources:
   - "Guzmán, G. (1983). The Genus Psilocybe: A Systematic Revision of the Known Species. Beihefte zur Nova Hedwigia 74."
-  - "Stamets, P. (1996). Psilocybin Mushrooms of the World. Ten Speed Press."
+  - "Stamets, P. (1996). [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World. Ten Speed Press."
   - "Guzmán, G. et al. (2000). A world monograph of the genus Psilocybe. Bibliotheca Mycologica 175."
   - "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=312453"
 ---
@@ -22,7 +22,7 @@ sources:
 
 *Psilocybe serotina* is a rare psilocybian mushroom in the family Hymenogastraceae, first described from temperate hardwood forests. It is a little-known member of the *Psilocybe* genus that produces psilocybin and psilocin as its primary bioactive alkaloids.
 
-The species remains poorly documented in modern mycological literature, with most original observations coming from mid-20th century European collections.
+The species remains poorly documented in [[telluride-mushroom-festival-modern-mycological-culture]] literature, with most original observations coming from mid-20th century European collections.
 
 Its significance lies primarily in mycochemical and taxonomic research, as it contributes to understanding the phylogenetic distribution of psilocybin biosynthesis across the Strophariaceae clade.
 
@@ -38,7 +38,7 @@ Its significance lies primarily in mycochemical and taxonomic research, as it co
 
 The specific epithet *serotina* derives from the Latin *serotinus*, meaning "late-appearing" or "autumnal," referring to the species' characteristic late-season fruiting habit.
 
-Guzmán's (1983) monographic treatment placed the species in section *Psilocybe* based on its dark spore print, hygrophanous pileus, and presence of pleurocystidia.
+Guzmán's (1983) monographic treatment placed the species in section *Psilocybe* based on its dark [[comparison-spore-print-collection-vs-spore-syringe-production]], hygrophanous pileus, and presence of pleurocystidia.
 
 ## Morphology
 
@@ -66,7 +66,7 @@ Spore dimensions: (9)10–12(13) × (5.5)6–7(7.5) µm. Q range: 1.5–1.8. Bas
 
 ## Distribution and Habitat
 
-*P. serotina* is known from scattered localities across temperate Europe, with additional unconfirmed reports from eastern North America. European collections have been documented from Germany, the Czech Republic, and Scandinavia.
+*P. serotina* is known from scattered localities across temperate Europe, with additional unconfirmed reports from [[polypore-fungi-eastern-north-america]] America. European collections have been documented from Germany, the Czech Republic, and Scandinavia.
 
 The species fruits in late autumn to early winter (October through December in the Northern Hemisphere), typically appearing after the first hard frosts when most other *Psilocybe* species have finished fruiting.
 
@@ -76,7 +76,7 @@ It grows gregariously or scattered on decaying hardwood debris, leaf litter, and
 
 ### Bioactive Compounds
 
-- **Psilocybin:** Primary indole alkaloid, present in measurable concentrations
+- **Psilocybin:** Primary [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]], present in measurable concentrations
 - **Psilocin:** Degradation product of psilocybin, also present in fresh tissue
 - **Baeocystin:** Minor alkaloid, typically 0.01–0.1% dry weight
 - **Norbaeocystin:** Trace constituent
@@ -85,7 +85,7 @@ Quantitative analyses of *P. serotina* are limited in published literature, owin
 
 The alkaloid profile is consistent with section *Psilocybe* members, though total tryptamine content is reported as low to moderate compared to better-known species like [[psilocybe-tampensis]]
 
-- [[psilocybe-semilanceata]] — Liberty cap, the most common wild psilocybian species in Europe
+- [[psilocybe-semilanceata]] — [[peter-mantle-liberty-cap-chromatographic-discovery-1969]], the most common wild psilocybian species in Europe
 - [[psilocybe-azurescens]] — The most potent known psilocybian mushroom
 - [[psilocin]] — Active metabolite of psilocybin
 - [[panaeolus-cyanescens-entity]] — Blue meanies, a tropical psilocybian coprophilous species

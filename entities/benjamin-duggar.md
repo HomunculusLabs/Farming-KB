@@ -28,15 +28,14 @@ American botanist and plant pathologist (1872-1956), author of "Mushroom Growing
 
 ## Overview
 
-Benjamin Minge Duggar was an American botanist who made contributions to both plant pathology and mushroom cultivation. His 1915 manual "Mushroom Growing" brought scientific rigor to the practical tradition of mushroom cultivation established by earlier authors like [[william-falconer]] (1891) and [[james-cuthill]]. Duggar is also best known for discovering the antibiotic aureomycin (chlortetracycline) in 1945 while working at Lederle Laboratories.
+Benjamin Minge Duggar was an American botanist who made contributions to both plant pathology and [[accessible-mushroom-cultivation-for-disabilities]]. His 1915 manual "Mushroom Growing" brought scientific rigor to the practical tradition of mushroom cultivation established by earlier authors like [[william-falconer]] (1891) and [[james-cuthill]]. Duggar is also best known for discovering the antibiotic aureomycin (chlortetracycline) in 1945 while working at Lederle Laboratories.
 
 ## Key Contributions
 
 - **Aureomycin discovery:** Discovered chlortetracycline (the first tetracycline antibiotic) from Streptomyces aureofaciens soil samples, revolutionizing antibiotic medicine.
-- **"Mushroom Growing" (1915):** A comprehensive manual that bridged the gap between the practical Victorian-era cultivation guides and modern scientific mycology. Duggar covered compost preparation, spawn management, environmental control, and pest management with more systematic rigor than earlier authors.
-- **Mushroom cultivation research:** Conducted early scientific studies on the growing conditions, substrate preferences, and environmental requirements for cultivated mushrooms.
+- **"Mushroom Growing" (1915):** A comprehensive manual that bridged the gap between the practical Victorian-era cultivation guides and modern scientific mycology. Duggar covered [[cultivator-compost-preparation-phase-methods]], spawn management, [[eclss-environmental-control-life-support]], and pest management with more systematic rigor than earlier authors.
+- **Mushroom cultivation research:** Conducted early scientific studies on the growing conditions, substrate preferences, and environmental requirements for [[fungi-cultivated-mushrooms-pathogens-competitors]].
 - **Plant pathology:** Made contributions to understanding plant diseases and their control.
-
 
 ## Mushroom Growing (1915) — Content Summary
 
@@ -44,9 +43,9 @@ Duggar's 295-page manual represents one of the most comprehensive early American
 
 - **Compost preparation:** Detailed recipes for horse manure-based compost, including the fermentation process, turning schedules, and moisture management
 - **Spawn preparation:** Methods for obtaining and maintaining pure mushroom spawn; the transition from imported European spawn to domestic production
-- **Environmental control:** Temperature management (optimal range 55-60°F for cropping), ventilation, humidity control in mushroom houses
+- **Environmental control:** Temperature management (optimal range 55-60°F for cropping), ventilation, [[cervantes-humidity-control-dehumidification]] in mushroom houses
 - **Bed construction:** Preparing and filling beds, casing materials, depth and spacing recommendations
-- **Pest management:** Identification and control of mushroom pests and diseases common in commercial operations
+- **Pest management:** Identification and control of mushroom [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] common in commercial operations
 - **Harvesting and marketing:** Picking techniques, grading standards, and market preparation
 
 The manual reflects the state of commercial mushroom farming in the northeastern United States, where most American mushroom production was concentrated in underground caves and cellars around Philadelphia and New York. Duggar's systematic approach — with attention to the biological basis of each step — distinguished his manual from earlier practical guides.
@@ -82,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -5,7 +5,8 @@ tags: [plant-physiology, agronomy, irrigation, drought, photosynthesis]
 date: 2026-05-02
 updated: 2026-05-02
 type: concept
-sources: []
+sources:
+  sources: []
 ---
 
 ## Overview
@@ -18,7 +19,7 @@ trait linking plant productivity to water availability and a
 critical
 consideration in crop breeding, irrigation management, and
 climate
-change adaptation. WUE is typically expressed as biomass
+[[mollison-designers-climate-change-adaptation-strategies]]. WUE is typically expressed as biomass
 produced per
 unit of water transpired or as the ratio of net CO2
 assimilation to
@@ -57,7 +58,7 @@ evaporative demand.
 influenced by both stomatal behavior and atmospheric
 conditions.
 - **Whole-plant WUE**:relates total biomass to total water consumed
-over a growing season, integrating physiological,
+over a [[savory-growing-season-and-non-growing-season-management]], integrating physiological,
 morphological,
 and phenological adaptations.
 - **Ecosystem WUE**:compares net primary productivity to
@@ -114,16 +115,16 @@ reducing
 unproductive soil evaporation.
 - **Mulching**:reduces soil evaporation, directing more water loss
 through productive transpiration.
-- **Row spacing and planting density**:affect canopy closure speed
+- **[[wide-row-spacing-intensive-gardening-comparison]] and planting density**:affect canopy closure speed
 and the partitioning of evapotranspiration into
 transpiration
 versus soil evaporation.
-- **Cover cropping**:during fallow periods maintains transpiration
+- **[[fukuoka-clover-cover-cropping-soil-ecology]]**:during fallow periods maintains transpiration
 and reduces unproductive water loss from bare soil.
 
 ## Climate Change Implications
 
-Rising temperatures increase vapor pressure deficit,
+Rising temperatures increase [[cervantes-vapor-pressure-deficit-transpiration]] deficit,
 potentially
 reducing WUE in water-limited environments. Elevated CO2
 partially
@@ -132,6 +133,8 @@ by region,
 crop, and management system.
 
 ## See Also
+
+- [[evapotranspiration-crop-water-use]]
 
 - [[stomata-transpiration-and-plant-water-regulation]]
 - [[photosynthesis-carbon-cycle-plants]]

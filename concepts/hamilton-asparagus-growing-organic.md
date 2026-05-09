@@ -1,5 +1,5 @@
 ---
-title: Asparagus Growing - Organic Methods
+title: hamilton asparagus growing organic - Organic Methods
 created: 2026-04-28
 tags:
   - asparagus
@@ -16,7 +16,7 @@ type: concept
 
 # Asparagus Growing - Organic Methods
 
-Asparagus is one of the most rewarding perennial vegetables an organic
+Asparagus is one of the most rewarding [[comparison-perennial-vegetables-vs-cover-crops]] an organic
 gardener can grow, though it requires patience. Plants need two to
 three years to establish before producing a full harvest of spears,
 but the unique flavour of fresh asparagus is well worth the time and
@@ -30,7 +30,7 @@ The American variety Mary Washington is strong-growing and reliable,
 producing thick shoots with good rust resistance. New European
 varieties like Jersey Knight Improved have the distinction of
 producing only male plants, so there is no reduction in yield brought
-about by seed production. Male-only varieties direct all their energy
+about by [[cervantes-seed-production-storage]]. Male-only varieties direct all their energy
 into spear production rather than developing berries. Other modern
 all-male hybrids include Jersey Giant and Jersey Supreme, which offer
 improved disease resistance alongside higher yields. For traditional
@@ -41,8 +41,8 @@ choice with good flavour and decent productivity for home gardeners.
 
 Good drainage and lots of sunshine are essential. If your soil is
 light, work in plenty of well-rotted manure or compost and grow the
-plants in flat beds rather than raised beds. If you have heavy soil,
-raise the beds by working plenty of organic matter into the soil in
+plants in flat beds rather than [[comparison-raised-beds-vs-hugelkultur]]. If you have heavy soil,
+raise the beds by working plenty of [[hamilton-composting-and-organic-matter-management]] into the soil in
 the same way you would make a [[hamilton-liming-and-ph-management]]
 for detailed pH adjustment guidance.
 
@@ -62,7 +62,7 @@ fill the trench as the shoots grow during the first season.
 ## Establishing the Bed
 
 Make sure the plants never go short of water, especially in the
-first year when the root system is developing. In early spring each
+first year when the root system is developing. In [[coleman-overwintered-onions-and-early-spring-crops]] each
 year, repeat the application of fertilizer. In the fall, spread
 well-rotted compost or manure around the plants. This annual
 mulching is the primary means of maintaining soil fertility and

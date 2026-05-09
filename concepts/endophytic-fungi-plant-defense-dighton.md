@@ -11,11 +11,11 @@ sources: [raw/papers/john-dighton-fungi-in-ecosystem-processes.md]
 
 Updated: 2026-04-18
 
-Source: John Dighton, *Fungi in Ecosystem Processes*, Chapter 3.
+Source: John Dighton, *Fungi in [[fungal-ecosystem-processes-overview]]*, Chapter 3.
 
 ## Overview
 
-Endophytic fungi live within plant tissues without causing apparent disease symptoms. Their roles in ecosystem processes extend beyond mere commensalism — many endophytes actively defend their host plants against herbivory and pathogens, thereby indirectly influencing primary productivity by reducing biomass loss to consumers. This defensive function has significant economic importance, particularly in grassland and agricultural ecosystems.
+Endophytic fungi live within plant tissues without causing apparent disease symptoms. Their roles in ecosystem processes extend beyond mere commensalism — many endophytes actively defend their host plants against herbivory and pathogens, thereby indirectly influencing primary productivity by reducing biomass loss to consumers. This defensive function has significant economic importance, particularly in grassland and [[fungi-grassland-agricultural-ecosystems-dighton]].
 
 ## Grass Endophytes (Clavicipitaceous)
 
@@ -40,7 +40,7 @@ Endophytic grass fungi produce several classes of defensive alkaloids:
 Belesky and Malinowski (2000) demonstrated that grass endophytes confer drought tolerance through loline alkaloid production, which acts as an osmoregulator. However, Cheplick et al. (2000) found no benefit of endophytes in *Lolium perenne* for drought tolerance — in fact, growth under both droughty and normal conditions was lower with the endophyte present. This suggests the effect of fungal endophytes is dependent upon a variety of environmental conditions and is not universally beneficial.
 
 ### Economic Significance
-The tension between endophyte benefits (insect resistance, drought tolerance) and costs (mammalian toxicity) has led to the development of "novel endophyte" strains that produce peramine and lolines for insect defense but not ergovaline for mammalian toxicity. These are now widely used in improved pasture grass cultivars.
+The tension between endophyte benefits (insect resistance, drought tolerance) and costs (mammalian toxicity) has led to the development of "novel endophyte" strains that produce peramine and lolines for [[endophytic-fungi-grass-symbiosis-insect-defense-alkaloids-epichloe-neotyphodium]] but not ergovaline for mammalian toxicity. These are now widely used in improved pasture grass cultivars.
 
 ## Dark Septate Endophytes
 
@@ -65,7 +65,7 @@ DSE occupy a functional intermediate position between saprotrophs and mycorrhiza
 Endophytic fungi are also found in:
 - Trees — where they may influence decomposition rates of living wood and provide protection against wood-boring insects
 - Agricultural crops — where they can affect both disease resistance and yield
-- Ericaceous plants — where they may complement ericoid mycorrhizal functions
+- Ericaceous plants — where they may complement [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] functions
 
 ## Saprotrophic Fungi as Plant Growth Promoters
 
@@ -86,12 +86,12 @@ This demonstrates that the boundary between endophyte, mycorrhizal partner, and 
 ## Ecosystem-Level Implications
 
 The defensive role of endophytes has cascading effects through ecosystems:
-- **Reduced herbivory** increases standing plant biomass and net primary production
+- **Reduced herbivory** increases standing plant biomass and net [[lichens-primary-production-soil-formation-dighton]]
 - **Altered palatability** changes grazing patterns and animal distribution
 - **Chemical defenses** can affect soil microbial communities when endophyte-infected litter decomposes
 - **Species interactions** may be modified, as endophyte-infected plants can outcompete uninfected neighbors
 
-These effects mean that endophytic fungi can indirectly influence plant community composition and ecosystem productivity, even though they operate through microscopic, often invisible interactions within plant tissues.
+These effects mean that endophytic fungi can indirectly influence plant [[core-endorhiza-bacterial-community-composition-cannabis]] and ecosystem productivity, even though they operate through microscopic, often invisible interactions within plant tissues.
 
 ## Significance for Agriculture
 
@@ -107,3 +107,7 @@ These effects mean that endophytic fungi can indirectly influence plant communit
 - [[arbuscular-mycorrhizal-fungi]]
 - [[fungal-biodiversity-ecosystem-function]]
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
+
+## See Also
+
+- [[endophytic-fungi-grass-symbiosis-insect-defense-alkaloids-epichloe-neotyphodium]]

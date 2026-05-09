@@ -17,7 +17,7 @@ There are two distinct types: milk kefir and water kefir. They use different gra
 
 ### Milk Kefir Grains
 
-Milk kefir grains are not actual cereal grains — they are gelatinous colonies of lactic acid bacteria (Lactobacillus, Lactococcus, Leuconostoc), yeasts (Kluyveromyces, Saccharomyces), and acetic acid bacteria bound together by a polysaccharide matrix called kefiran.
+Milk kefir grains are not actual cereal grains — they are gelatinous colonies of lactic [[lactic-acid-bacteria-knf]] (Lactobacillus, Lactococcus, Leuconostoc), yeasts (Kluyveromyces, Saccharomyces), and acetic acid bacteria bound together by a polysaccharide matrix called kefiran.
 
 Key characteristics:
 - Resemble small cauliflower florets, cream to white in color
@@ -37,7 +37,7 @@ Key characteristics:
 
 ### Fermentation Process
 
-1. Place 1-2 tablespoons of milk kefir grains in a clean glass jar
+1. Place 1-2 tablespoons of milk kefir grains in a clean [[sterile-spore-print-collection-glass-jar-technique]]
 2. Add 1-2 cups of milk (ratio: roughly 1 tablespoon grains per cup of milk)
 3. Cover loosely with a lid, cloth, or paper towel (not airtight — CO2 needs to escape)
 4. Ferment at room temperature (65-78F / 18-26C) for 12-36 hours
@@ -80,7 +80,7 @@ The microbe composition differs — water kefir grains contain fewer dairy-assoc
 4. Optionally add: 1/2 lemon wedge, a small piece of dried fig or raisin, or a slice of fresh ginger
 5. Cover loosely and ferment at room temperature for 24-48 hours
 6. Strain out grains and bottle the liquid
-7. Second ferment with fruit juice, herbs, or flavors for 1-3 days for carbonation
+7. Second ferment with [[bionutrients-lab-fermented-fruit-juice-ffj]], herbs, or flavors for 1-3 days for carbonation
 
 ### Sugar for Water Kefir
 

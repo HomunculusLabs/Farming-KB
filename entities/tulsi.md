@@ -13,7 +13,7 @@ sources:
 
 Tulsi, also known as holy basil or sacred basil, is an aromatic perennial
 herb in the family Lamiaceae, native to the Indian subcontinent and
-cultivated throughout Southeast Asia. It is one of the most revered
+cultivated throughout [[psilocybe-southeast-asia-pacific]]. It is one of the most revered
 plants in Ayurvedic medicine, where it is classified as a rasayana
 (rejuvenative) and has been used for over 3,000 years to promote
 longevity, reduce stress, and treat a wide range of ailments. The plant
@@ -29,7 +29,7 @@ properties. Primary bioactive constituents include eugenol, ursolic acid,
 rosmarinic acid, linalool, carvacrol, and beta-caryophyllene. Three
 distinct chemotypes exist: Krishna tulsi (purple-leaved), Rama tulsi
 (green-leaved), and Vana tulsi (wild-type, Ocimum gratissimum), each
-with a distinct essential oil profile and therapeutic emphasis.
+with a distinct [[permaculture-designers-manual-essential-oil-plants]] profile and therapeutic emphasis.
 
 ## Taxonomy and Classification
 
@@ -41,7 +41,7 @@ with a distinct essential oil profile and therapeutic emphasis.
 - **Genus:** Ocimum
 - **Species:** O. tenuiflorum (syn. O. sanctum)
 
-Taxonomic confusion exists between O. tenuiflorum, O. sanctum (synonym),
+[[neurotropic-fungi-taxonomic-confusion-and-identification]] exists between O. tenuiflorum, O. sanctum (synonym),
 and O. gratissimum (African basil, Vana tulsi). Molecular studies place
 O. tenuiflorum within the O. basilicum complex but distinguish it by
 chromosome number (2n=32 vs. 2n=48 for sweet basil). The genus Ocimum
@@ -102,7 +102,7 @@ Caribbean, and parts of Central and South America. The plant thrives in:
 ## Medicinal Uses
 
 In Ayurveda, tulsi treats respiratory infections, digestive disorders,
-skin conditions, fever, and stress. Modern research supports several
+[[cannabis-for-skin-conditions-detailed]], fever, and stress. Modern research supports several
 pharmacological activities:
 
 - **Adaptogenic:** Normalizes cortisol levels, reduces HPA axis
@@ -120,7 +120,7 @@ pharmacological activities:
 
 ## Cultivation
 
-Tulsi is among the easiest medicinal herbs to cultivate:
+Tulsi is among the easiest [[permaculture-plants-medicinal-herbs-healing]] to cultivate:
 - **Propagation:** Seed (germination 7-14 days at 20-25°C) or softwood
   cuttings rooted in moist sand or water
 - **Spacing:** 20-30 cm between plants in rows 30-40 cm apart
@@ -134,7 +134,7 @@ Tulsi is among the easiest medicinal herbs to cultivate:
 Tulsi excels in permaculture food forests and herb spirals for:
 - Pollinator attraction (bees, butterflies, beneficial wasps)
 - Pest repellent properties (aphids, whiteflies, mosquitoes)
-- Companion planting with tomatoes, peppers, and nightshades
+- [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] with tomatoes, peppers, and nightshades
 - Low input requirements and volunteer self-seeding behavior
 ## See Also
 

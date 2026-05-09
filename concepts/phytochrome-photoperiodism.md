@@ -2,19 +2,19 @@
 
 ## From *What a Plant Knows* by Daniel Chamovitz
 
-In the early twentieth century, two scientists at the U.S. Department of Agriculture made a discovery that would reshape our understanding of how plants perceive and respond to light.
+In the early [[coleman-louis-savier-twentieth-century-maraicher]], two scientists at the U.S. Department of Agriculture made a discovery that would reshape our understanding of how plants perceive and respond to light.
 
 Their work revealed that plants do not merely react to the quality or intensity of light. They actively measure its duration, using that information to time some of the most important decisions in their lives.
 
 ## The [[plants-of-the-gods-plant-kingdom-classification]]. Countless species time their flowering, dormancy, and other critical life events to seasonal changes in day length.
 
-Their discovery opened an entirely new field of plant physiology and earned them lasting recognition as pioneers in the study of plant environmental sensing.
+Their discovery opened an entirely new field of plant physiology and earned them lasting recognition as pioneers in the study of plant [[fungal-environmental-sensing-signal-transduction-read]].
 
 ## Plants Measure Night, Not Day
 
 Despite the term "photoperiodism" and the [[chamovitz-red-far-red-phytochrome-switch-and-plant-memory]] t single leaf is sufficient to direct the organism's entire reproductive transition.
 
-This means the leaf produces a mobile signal — a flowering hormone, long called **florigen** — that travels from the leaf to the shoot apical meristem, where flowers are formed. Phytochrome in the leaf measures the night length, and the resulting Pfr/Pr ratio determines whether florigen is synthesized and dispatched throughout the plant.
+This means the leaf produces a [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering]] — a flowering hormone, long called **florigen** — that travels from the leaf to the shoot apical meristem, where flowers are formed. Phytochrome in the leaf measures the night length, and the resulting Pfr/Pr ratio determines whether florigen is synthesized and dispatched throughout the plant.
 
 The existence of this systemic signal was suspected for many decades before the molecular identity of florigen was confirmed in the 2000s. Phytochrome, meanwhile, remains the primary sensor that initiates the entire signaling chain.
 
@@ -26,11 +26,11 @@ By covering greenhouse chrysanthemums with blackout cloth in the late afternoon 
 
 Conversely, long-day plants like lettuce can be kept in a vegetative state by extending the light period with artificial lighting, delaying bolting and extending the harvest window significantly.
 
-These techniques depend directly on the phytochrome system. A few minutes of red light at the wrong time can disrupt carefully planned flowering schedules — a fact that commercial growers must manage with great precision.
+These techniques depend directly on the phytochrome system. A few minutes of [[phytochrome-red-far-red-light-switch]] at the wrong time can disrupt carefully planned flowering schedules — a fact that commercial growers must manage with great precision.
 
 ## Phytochrome Beyond Photoperiodism
 
-Although photoperiodism is one of its most dramatic roles, phytochrome influences many other aspects of plant development. Seed germination in many species is triggered by red light and inhibited by far-red light.
+Although photoperiodism is one of its most dramatic roles, phytochrome influences many other aspects of plant development. [[cannabis-seed-germination-methods]] in many species is triggered by red light and inhibited by far-red light.
 
 This is an elegant adaptation that prevents seeds from germinating when they are buried too deeply under a canopy of leaves, where far-red light predominates. Only seeds near the surface, receiving unfiltered red-rich sunlight, receive the signal to sprout.
 
@@ -65,7 +65,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +107,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

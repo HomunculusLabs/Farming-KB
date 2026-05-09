@@ -1,5 +1,5 @@
 ---
-title: Wild Foraging Guide
+title: emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -44,7 +44,7 @@ Every part is edible. Young leaves (before flowering) are best for salads -- bit
 Young shoots (under 6 inches) are edible when cooked or blanched (cooking destroys the stinging hairs). One of the most nutritious wild greens available -- high in iron, calcium, protein, and vitamins. Dry for tea or make pesto. Wear gloves when harvesting. Also excellent for making nitrogen-rich fertilizer tea.
 
 ### Garlic Mustard (Alliaria petiolata)
-Young leaves taste like garlicky mustard. Invasive species in North America -- harvesting it is actually beneficial to native ecosystems. Flowers, seeds, and roots are all edible. Best harvested young before the leaves become tough and bitter.
+Young leaves taste like garlicky mustard. Invasive species in [[psilocybin-north-america-pacific-northwest]] -- harvesting it is actually beneficial to native ecosystems. Flowers, seeds, and roots are all edible. Best harvested young before the leaves become tough and bitter.
 
 ### Ramps (Allium tricoccum)
 Wild leeks with a strong garlic-onion flavor. Harvest only one leaf per plant (never the bulb) to allow regrowth. Overharvesting has decimated wild populations in many areas. Consider growing them instead.
@@ -67,7 +67,7 @@ Abundant in disturbed areas and field edges. Peak nutrition when fully ripe. Hig
 Nutritional powerhouse rivaling spinach. Young leaves and tips are excellent raw or cooked. Contains oxalates -- blanch before eating if oxalate-sensitive. Grows as a common weed in gardens and disturbed soil.
 
 ### Purslane (Portulaca oleracea)
-Succulent ground cover with a mild, slightly tangy flavor. Highest plant source of omega-3 fatty acids. Excellent raw in salads. Thrives in garden beds and disturbed soil. Red stems differentiate it from toxic look-alike spurge (which has milky sap).
+Succulent ground cover with a mild, slightly tangy flavor. Highest plant source of omega-3 [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]. Excellent raw in salads. Thrives in garden beds and disturbed soil. Red stems differentiate it from toxic look-alike spurge (which has milky sap).
 
 ### Mullein (Verbascum thapsus)
 Large fuzzy leaves used for respiratory tea. Flowers infused in oil make earache remedy. Biennial -- tall flower spike in second year. Easy to identify by the woolly leaves and tall yellow flower spike.
@@ -98,7 +98,7 @@ High in vitamin C (one of the richest plant sources). Harvest after first frost 
 Rich in vitamin C. Steep for tea. Avoid yew (Taxus), which is toxic and has flat needles. Pine needles are in bundles of 2-5; yew needles are arranged singly around the stem.
 
 ### Wintercress (Barbarea vulgaris)
-One of the few greens available in winter. Bitter but nutritious -- improve flavor by blanching or cooking with fat. Identify by the glossy dark green leaves and yellow flowers in early spring.
+One of the few greens available in winter. Bitter but nutritious -- improve flavor by blanching or cooking with fat. Identify by the glossy dark green leaves and yellow flowers in [[coleman-overwintered-onions-and-early-spring-crops]].
 
 ### Tree Bark (inner cambium layer)
 Emergency food from pine, birch, slippery elm, and willow. Harvest only strips from one side of the tree; never girdle (ring the tree completely). Dry and grind into flour. Pine cambium can be eaten raw in strips.
@@ -111,10 +111,10 @@ Emergency food from pine, birch, slippery elm, and willow. Harvest only strips f
 - Field guide specific to your region
 - Smartphone with offline plant ID app (as backup only)
 - Gloves for nettles, thorny plants, and unknown species
-- Basket for mushrooms (allows spore dispersal)
+- Basket for mushrooms (allows [[aquatic-fungi-spore-dispersal-ingold]])
 
 ## Related Concepts
 
-- [[mushroom-foraging-safety-guide]] for detailed mushroom identification and danger species
+- [[mushroom-foraging-safety-guide]] for detailed [[psilocybin-mushroom-identification-guide]] and danger species
 - [[medicinal-herb-growing]] for cultivated alternatives to wild medicinal plants
 - [[saving-seeds]] -- consider saving and scattering seeds of wild edibles you forage

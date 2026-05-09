@@ -1,5 +1,5 @@
 ---
-title: The Shulgin Rating Scale
+title: The tihkal-shulgin-rating-scale Scale
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -35,13 +35,13 @@ This level is particularly important in the [[qualitative-comments-methodology-p
 
 The ++ level is the "museum level" — strong enough to be unmistakably psychoactive, but manageable enough that the experienced user can maintain ordinary activities. Shulgin described a commonly used term for 2C-B at this level as "museum level" — a slightly-over-threshold state allowing public activities without attracting attention.
 
-This concept of retainable agency is important in the context of [[psychedelic-dose-response]]. For compounds with steep dose-response characteristics, this transition can occur with a very small increase in dosage. Shulgin's careful documentation of this transition for each compound was a key contribution to the field of [[mckenna-consciousness-expansion-and-drug-war]] and [[psilocybin-and-mystical-experience]], which distinguishes between ordinary altered states and genuinely transformative experiences.
+This concept of retainable agency is important in the context of [[psychedelic-dose-response]]. For compounds with steep dose-response characteristics, this transition can occur with a very small increase in dosage. Shulgin's careful documentation of this transition for each compound was a key contribution to the field of [[mckenna-consciousness-expansion-and-drug-war]] and [[psilocybin-and-mystical-experience]], which distinguishes between ordinary [[weil-the-natural-mind-altered-states-normalcy]] and genuinely transformative experiences.
 
 ## Usage in PiHKAL
 
 Every compound entry in PiHKAL Part 2 includes [[shulgin-dosage-guidelines]].
 
-The scale also appears in TiHKAL (tryptamine entries) and has been widely adopted by the broader psychedelic research and harm reduction communities as a standard communication tool.
+The scale also appears in TiHKAL (tryptamine entries) and has been widely adopted by the broader [[mckenna-suppression-psychedelic-research-lsd-therapy]] and [[adverse-effects-and-harm-reduction-psilocybin]] communities as a standard communication tool.
 
 ## Critiques and Limitations
 
@@ -53,7 +53,7 @@ The Shulgin Rating Scale has some recognized limitations:
 - Individual variation in sensitivity means the same dose can produce different scale levels in different people
 - The scale was designed for phenethylamines and tryptamines; its applicability to other classes (e.g., cannabinoids, dissociatives) is less established
 
-Despite these limitations, the scale remains the most widely recognized system for communicating psychedelic experience intensity, referenced extensively in [[shulgin-dosage-guidelines]]
+Despite these limitations, the scale remains the most widely recognized system for communicating [[leary-psychedelic-experience-bardo-mapping]] intensity, referenced extensively in [[shulgin-dosage-guidelines]]
 - [[qualitative-comments-methodology-pihkal]]
 - [[shulgin-safety-principles-self-experimentation]]
 - [[psychedelic-experience-stages]]

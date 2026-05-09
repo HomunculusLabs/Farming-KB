@@ -1,5 +1,5 @@
 ---
-title: "Mushroom Cult Destruction and Theophagic Rivalry in Colonial Mexico"
+title: "african-mushroom-cult-history Destruction and Theophagic Rivalry in Colonial Mexico"
 source: mckenna_t-tryptamines_consciousness.md
 author: Terence McKenna
 tags: [mushroom-cult, colonialism, theophagy, spanish-conquest, wasson, valentina, oaxaca]
@@ -54,7 +54,7 @@ been the work of centuries."
 
 ## The Wasson Rediscovery
 
-The survival of the mushroom cult into the twentieth century was due to the
+The survival of the mushroom cult into the [[coleman-louis-savier-twentieth-century-maraicher]] was due to the
 isolation of the Mazatec villages in the mountains of Oaxaca. In 1955, R.
 Gordon Wasson, a vice president of J.P. Morgan and amateur mycologist, traveled
 to Mexico and became the first Westerner to participate in a mushroom ceremony
@@ -66,9 +66,9 @@ int [[mckenna-stropharia-hypothesis]]
 
 ## References
 
-- McKenna,[[tryptamine-hallucinogens-and-consciousness]] onsciousness. Esalen.
-  Published 1992 in *The Archaic Revival*.
-- Wasson, R.G. (1957). Seeking the Magic Mushroom. *Life*, 42(19), 100-120.
+- McKenna, onsciousness. Esalen.
+  Published 1992 in *The [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]*.
+- Wasson, R.G. (1957). Seeking the [[australian-magic-mushroom-common-names]]. *Life*, 42(19), 100-120.
 - Estrada, A. (1981). *María Sabina: Her Life and Chants*. Ross-Erikson.
 ## Practical Considerations
 
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

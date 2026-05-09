@@ -12,7 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-Arthritis encompasses over 100 conditions affecting joints and connective tissue. Research from The Cannabis Health Index documents significant potential for cannabinoids in treating both osteoarthritis and rheumatoid arthritis, with CBD showing particular promise as an oral anti-arthritic therapeutic.
+Arthritis encompasses over 100 conditions affecting joints and connective tissue. Research from The [[blesching-cannabis-health-index-autoimmune-conditions]] documents significant potential for cannabinoids in treating both osteoarthritis and rheumatoid arthritis, with CBD showing particular promise as an oral anti-arthritic therapeutic.
 
 ## Key Clinical Studies
 
@@ -22,7 +22,7 @@ Arthritis encompasses over 100 conditions affecting joints and connective tissue
 Published in PNAS, this landmark study demonstrated that oral CBD effectively suppressed the progression of arthritis in mice. CBD reduced both inflammation and joint damage without psychoactive effects.
 
 ### Ajulemic Acid (Synthetic Cannabinoid)
-**Burstein (2005)**: "Ajulemic acid (IP-751): Synthesis, proof of principle, toxicity studies, and clinical trials." AAPS Journal 7(1):E143-E148.
+**Burstein (2005)**: "Ajulemic acid (IP-751): Synthesis, proof of principle, toxicity studies, and [[mushroom-cancer-clinical-trials-overview]]." AAPS Journal 7(1):E143-E148.
 
 Ajulemic acid is a synthetic cannabinoid derivative that showed promise in clinical trials for arthritis pain. It is a metabolite of THC that retains anti-inflammatory properties while minimizing psychoactivity.
 
@@ -108,7 +108,7 @@ CBD reduced bone resorption in periodontitis by inhibiting RANK/RANKL signaling 
 - Inhibit adhesion molecule expression (relevant to atherosclerosis)
 
 ### Endocannabinoid Enhancement
-Rather than introducing cannabinoids, inhibiting the enzymes that break down anandamide (FAAH inhibitors like URB597) can enhance the body's own anti-inflammatory and pain-relieving systems.
+Rather than introducing cannabinoids, inhibiting the enzymes that [[query-can-fungi-break-down-plastic-pollution]] anandamide (FAAH inhibitors like URB597) can enhance the body's own anti-inflammatory and pain-relieving systems.
 
 ## Strain Selection
 
@@ -129,5 +129,5 @@ Higher CBD ratios preferred due to stronger immunomodulatory effects. Consider 2
 - Cannabis For Inflammation
 - [[cannabis-and-fibromyalgia]]
 - [[cannabis-seed-selection-and-strain-types]]
-- [[mushroom-cytokine-production-immune-activation]]
+- mushroom-cytokine-production-immune-activation
 - [[cannabis-cannabinoid-receptor-pharmacology]]

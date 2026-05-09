@@ -1,5 +1,5 @@
 ---
-title: Bioaugmentation Versus Biostimulation in Fungal Bioremediation
+title: staycare bioaugmentation versus biostimulation fungal bioremediation Biostimulation in Fungal Bioremediation
 created: 2026-04-28
 tags: [bioremediation, bioaugmentation, biostimulation, soil-remediation, fungal-strategies]
 date: 2026-04-25
@@ -15,7 +15,7 @@ effectiveness of microbial bioremediation in field applications.
 Biostimulation involves stimulating indigenous microbial populations
 through delivery of limiting nutrients, while bioaugmentation involves
 the controlled addition of specific microorganisms to contaminated
-environments. Understanding the relative merits and limitations of each
+environments. Understanding the [[fukuoka-relative-merits-natural-scientific-agriculture]] and limitations of each
 approach is critical for designing effective fungal bioremediation
 protocols.
 
@@ -26,7 +26,7 @@ protocols.
 Biostimulation is the practice of stimulating the indigenous microbial
 population, usually through the delivery of a limiting nutrient such as
 nitrogen or phosphorus. Successful applications include treatment of
-marine oil spills and polycyclic aromatic hydrocarbon (PAH)-contaminated
+marine oil spills and [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbon (PAH)-contaminated
 soils. Composting represents another form of biostimulation, where
 mixtures of straw, manure, and agricultural wastes are blended with
 contaminated soils to stimulate growth of diverse consortia of bacteria
@@ -36,7 +36,7 @@ and fungi.
 
 The Exxon Valdez oil spill clean-up provided some of the most robust
 data comparing these strategies. Biostimulation of indigenous microbial
-consortia through nitrogen and fertilizer application proved more
+consortia through nitrogen and [[cervantes-fertilizer-application-strain-feeding]] proved more
 effective than bioaugmentation through seeding with exogenous organisms.
 While bioremediation enhanced petroleum biodegradation on contaminated
 shores, there was little evidence of similar effectiveness at sea.
@@ -44,7 +44,7 @@ shores, there was little evidence of similar effectiveness at sea.
 Similarly, in PAH-contaminated soils, the addition of wheat straw alone
 sometimes improved degradation more than inoculation with wood-rotting
 fungi. In one study, a colonizing fungus actually impeded radiolabeled
-pyrene degradation, indicating that suitable organic amendments can
+pyrene degradation, indicating that suitable [[cervantes-organic-amendments-chart]] can
 dramatically improve the capacity of indigenous microbial consortia to
 degrade PAHs without the need for introduced species.
 
@@ -93,7 +93,7 @@ corn cobs, sawdust, wood chips, peat, or wheat straw. These mycelia-
 impregnated substrates are mixed with contaminated soil.
 
 Pleurotus ostreatus inoculated on straw was found superior to P.
-chrysosporium and Trametes versicolor in soil colonization ability.
+chrysosporium and [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] in soil colonization ability.
 However, when screening 45 white rot and four brown rot fungi, none of
 the brown rots and 22 of the white rot species could colonize soil at
 all, highlighting the challenge of establishing introduced fungi.

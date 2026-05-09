@@ -1,5 +1,5 @@
 ---
-title: "Golden Guide: Salvia Divinorum and Diviner's Sage"
+title: "Golden Guide: golden guide salvia divinorum and diviner sage and Diviner's Sage"
 created: 2026-04-28
 tags: [hallucinogenic-plants, salvia-divinorum, salvia, labiatae, mazatec,
   divination, oaxaca, hojas-de-la-pastora, pipilzintzintli, mint-family]
@@ -23,11 +23,11 @@ filtered for drinking.
 
 The plant is not known in the wild and rarely, if ever, develops from seed.
 The Mazatecs plant this mint vegetatively in remote mountain ravines, and
-most families use it as a drug when the sacred mushrooms or morning glory
+most families use it as a drug when the [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]] or [[golden-guide-morning-glory-and-ololiuqui]]
 seeds are scarce. It is commonly believed to be the hallucinogenic
 pipilzintzintli of the ancient Aztecs. Salvia divinorum belongs to the mint
 family, Labiatae (Lamiaceae), a large family that includes many well-known
-culinary and medicinal herbs. Within the genus Salvia, which contains
+culinary and [[permaculture-plants-medicinal-herbs-healing]]. Within the genus Salvia, which contains
 approximately 700 species distributed worldwide, S. divinorum is unique in
 its psychoactive properties.
 
@@ -49,7 +49,7 @@ a curandera (shaman) typically leads the ritual, during which the patient
 consumes the prepared leaves. The curandera interprets the visions and
 experiences reported by the patient to diagnose illness, locate lost objects,
 or divine future events. The Mazatec use the plant as a backup or
-substitute when their preferred sacraments, psilocybin mushrooms and
+substitute when their preferred sacraments, [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] and
 ololiuqui seeds, are not available.
 
 The preparation methods are relatively simple. Fresh leaves may be chewed
@@ -106,7 +106,7 @@ extraction methods.
 
 The Mazatecs recognize the family relationship between Salvia divinorum and
 Coleus, both genera of the mint family (Labiatae). They refer to S.
-divinorum as la hembra ("the female") and to Coleus pumilus as el macho
+divinorum as la hembra ("the female") and to [[coleus-blumei-and-coleus-pumilus-potential-psychoactivity]] as el macho
 ("the male"). There are two forms of C. blumei, which they call el nino
 ("the child") and el ahijado ("the godson"). These two Coleus species are
 native to Asia, where they are valued in folk medicine but apparently have
@@ -114,6 +114,8 @@ not been used as hallucinogens. No hallucinogenic principle has been
 discovered in the 150 known Coleus species.
 
 ## See Also
+
+- [[salvia-divinorum-pharmacology]]
 
 - [[golden-guide-hallucinogenic-plants-overview]]
 - [[golden-guide-psilocybin-mushrooms-overview]]

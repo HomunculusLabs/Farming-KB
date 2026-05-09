@@ -1,5 +1,5 @@
 ---
-title: Moringa and Multipurpose Tropical Trees
+title: Moringa and mollison designers moringa and multipurpose tropical trees Trees
 created: 2026-04-26
 tags:
   - permaculture
@@ -16,8 +16,8 @@ type: concept
 
 # Moringa and Multipurpose Tropical Trees
 
-The horseradish tree or drumstick tree (Moringa oleifera, also spelled
-M. olitera in the Manual) is cited in the Permaculture Designers Manual as
+The horseradish tree or drumstick tree ([[comparison-moringa-oleifera-vs-moringa-stenopetala]], also spelled
+M. olitera in the Manual) is cited in the Permaculture [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] as
 a multipurpose tropical tree valued for food, fodder, and soil improvement.
 Mollison includes moringa within the broader context of multipurpose
 tropical trees that serve essential functions in permaculture systems.
@@ -35,7 +35,7 @@ readily from seed or cuttings.
 
 ## Role in Terrace Systems
 
-In the tropical terrace design section, moringa appears in the list of
+In the [[mollison-designers-tropical-terrace-design-and-earth-shaping]] design section, moringa appears in the list of
 crops suitable for garden terraces near homes, alongside banana, papaya,
 melons, chilies, peppers, cucurbits, sweet potato, cassava, maize, beans,
 edible Chrysanthemum, edible Hibiscus, rosella, coconut, and mango. This
@@ -57,7 +57,7 @@ appears alongside Leucaena, Glyricidia, Tipuana tipu, and other
 nitrogen-fixing or soil-improving species recommended for establishing
 tree crop systems. While moringa is not a true legume, its rapid leaf
 production and decomposition contribute significantly to soil organic
-matter and nutrient cycling.
+matter and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 ## Multipurpose Functions
 
@@ -103,7 +103,7 @@ Like many tropical multipurpose trees, moringa establishes readily from
 large cuttings. This propagation method enables rapid establishment of
 shade and wind protection in new systems. Cuttings of 1-2 metres in length
 and 5-10 cm diameter root readily in moist conditions and produce a
-usable tree within the first growing season.
+usable tree within the first [[savory-growing-season-and-non-growing-season-management]].
 
 ## Comparison with Other Multipurpose Trees
 

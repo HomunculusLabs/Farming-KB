@@ -1,6 +1,6 @@
 ---
 
-title: JADAM Mineral Water (JMW) — Rock and Leaf Mold Extraction
+title: JADAM Mineral Water (JMW) — Rock and comparison-leaf-mold-composting-vs-hot-composting-method Extraction
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -26,7 +26,7 @@ JMW is made by immersing leaf mold in water with rocks. It slowly extracts miner
 
 ## Why Mineral Water?
 
-Plants are ~95% water. The quality of water directly impacts cell formation and plant health. Purified water cannot sustain fish life; spring/mineral water can. JMW brings inorganic minerals (Ca, Mg, Fe, K, trace elements) in a form accessible to both plants and soil microorganisms. Combined with JMS and sea water, it provides complete nutritional balance.
+Plants are ~95% water. The quality of water directly impacts cell formation and plant health. Purified water cannot sustain fish life; spring/mineral water can. JMW brings inorganic minerals (Ca, Mg, Fe, K, trace elements) in a form accessible to both plants and soil microorganisms. Combined with JMS and sea water, it provides complete [[jadam-nutritional-balance-fertilizer]].
 
 ## Making JMW
 
@@ -35,7 +35,7 @@ Plants are ~95% water. The quality of water directly impacts cell formation and 
 - Leaf mold: 0.5-1 kg (from forest floor -- see [[jadam-microorganism-solution-jms]] for collection method)
 - Rocks: Several fist-sized rocks from your local area (see selection below)
 - Water: Non-chlorinated, preferably soft
-- Optional: sea salt 0.5 kg per 500L
+- Optional: [[jadam-sea-salt-and-mineral-solutions]] 0.5 kg per 500L
 
 ### Rock Selection
 
@@ -54,7 +54,7 @@ The principle: use rocks from your local environment, as their mineral profile m
 3. Fill container with water (200-500L)
 4. Put leaf mold in a mesh/cotton bag with rocks to sink it; hang in water
 5. Add additional rocks directly to the water
-6. Cover loosely, place in sun or ambient temperature
+6. Cover loosely, place in sun or [[jadam-ambient-temperature-principle]]
 7. Let steep for 1-2 weeks
 8. The water will gradually darken as minerals and humic substances extract
 9. Filter through fine net before use
@@ -84,7 +84,7 @@ When making JMS, you can add rocks directly to the culturing container. The rock
 ## When to Apply
 
 - Before transplanting seedlings (soil foundation)
-- Before lowering/sprouting of fruit trees
+- Before lowering/sprouting of [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
 - Throughout growth with every watering (greenhouse) or before rain (open field)
 - Combined with JMS for maximum soil biology activation
 
@@ -95,7 +95,7 @@ Keep in covered container at ambient temperature. No strict expiration if kept a
 ## Role in JADAM Nutrition Program
 
 JMW provides the inorganic mineral component of the JADAM nutrition triangle:
-1. **JMS** -- microbial workforce and nutrient cycling
+1. **JMS** -- microbial workforce and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 2. **Sea water / sea salt** -- 83+ trace elements from ocean
 3. **JMW / phyllite solution** -- local rock minerals, humic substances
 

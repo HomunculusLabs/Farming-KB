@@ -1,5 +1,5 @@
 ---
-title: Plasmodesmata and Intercellular Communication in Plants
+title: Plasmodesmata and plasmodesmata and intercellular communication in plants in Plants
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -55,7 +55,7 @@ The symplastic pathway is the continuous cytoplasmic space defined by the inner 
 The desmotubule connects the endoplasmic reticulum of adjacent cells. This suggests it may:
 - Provide structural support for the plasmodesma
 - Regulate the size of molecules allowed to pass
-- Allow ions another mode of transport between cells (alternative to transport proteins)
+- Allow ions another mode of transport between cells (alternative to [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]])
 - Permit the transport of large protein molecules between cells
 
 ### Regulation
@@ -98,7 +98,7 @@ The wider diameter and ER connection make plasmodesmata capable of transporting 
 
 ## The Water Exception
 
-Water is such a unique molecule that it can pass through all plant membranes. Because it doesn't need a plasmodesma tunnel or an aquaporin, water can go through all of them in a straight line along the intercellular pathway. This is the result of water's ability to slip in between phospholipid molecules forming a cell membrane -- a direct consequence of water's molecular properties.
+Water is such a unique molecule that it can pass through all plant membranes. Because it doesn't need a plasmodesma tunnel or an aquaporin, water can go through all of them in a straight line along the intercellular pathway. This is the result of water's ability to slip in between phospholipid molecules forming a [[plant-cell-membrane-transport-proteins]] -- a direct consequence of water's molecular properties.
 
 ## Related Topics
 

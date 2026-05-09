@@ -21,7 +21,7 @@ scientists, with results ranging from the remarkable to the puzzling.
 
 Selim Lemstrom, a Finnish professor at the University of Helsingfors,
 was among the earliest systematic researchers of electroculture. His
-extensive field experiments in the late nineteenth century demonstrated
+extensive field experiments in the late [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] demonstrated
 that plants exposed to atmospheric electricity grew more vigorously.
 Lemstrom reported his success in 1902, showing that plants growing
 under electrical stimulation not only produced more abundantly but in
@@ -39,7 +39,7 @@ presumably because the ferrous material improved conductivity.
 At Texas State University, Professor E. J. Lund devised a way to
 measure electrical potentials in plants. Over more than ten years of
 experiments, Lund showed that plant cells produce electric fields,
-currents, or impulses which, as Jagadis Chandra Bose had implied, could
+currents, or impulses which, as Jagadis [[jagadis-chandra-bose-plant-research]] had implied, could
 serve as "nervous systems."
 
 Lund made a revolutionary finding: plant growth is triggered by these
@@ -74,7 +74,7 @@ and philosopher F. S. C. Northrop boldly advanced the theory that
 electrical fields are the very organizers of life systems. This
 revitalized the rejected theories of Mesmer's animal magnetism and
 Galvani's animal electricity, providing a tangible underpinning for
-the concept of a vital force in living organisms.
+the concept of a vital force in [[savory-living-organisms-as-tools]].
 
 Burr and his colleagues constructed a voltmeter of new design that
 drew no current from life forms and thus could not disrupt their
@@ -88,12 +88,12 @@ without breaking it during the first day of incubation.
 ## Modern Applications
 
 In the mid-twentieth century, several researchers attempted to nourish
-plants electrically as an alternative to chemical fertilizers. With
+plants electrically as an alternative to [[cervantes-chemical-fertilizers-guide]]. With
 nitrate pollution from these fertilizers becoming a serious concern,
 the possibility of stimulating plant growth through electrical means
 gained renewed interest.
 
-Reports from around the world suggested that electrically stimulated
+Reports from [[fungi-around-the-world-species-distribution]] suggested that electrically stimulated
 plants showed increased growth rates, higher yields, and improved
 nutritional content. Sir Oliver Lodge noted that bread made from
 electrically treated wheat was superior in quality. These observations

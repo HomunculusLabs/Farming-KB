@@ -1,5 +1,5 @@
 ---
-title: "Entomopathogenic Fungi and Insect Pathogens"
+title: "singh-entomopathogenic-fungi-biocontrol-agents and bloomfield-cordyceps-insect-pathogens-behavior"
 created: 2026-04-28
 tags:
   - biodiversity-pathogens
@@ -74,7 +74,7 @@ harbor species of many genera, and carabid beetles host many
 Laboulbenia species. Success requires mass collections of varied hosts
 to ensure encountering infected individuals. Tropical collecting can
 proceed year-round, while temperate regions are best in spring or
-early fall. None has completed its life cycle in axenic culture.
+early fall. None has completed its [[bloomfield-fungal-life-cycle-spiral-versus-circle]] in axenic culture.
 
 ## Fungal Parasites of Rotifers and Nematodes
 
@@ -105,7 +105,7 @@ Molecular characters are especially valuable for arthropod-associated
 fungi where morphological convergence and lack of known teleomorphs
 obscure phylogenetic relationships. PCR-based methods can potentially
 glean characters from minute quantities of nonculturable types. For
-minute thalli, DNA extraction requires crushing three to five thalli
+minute thalli, [[fungal-dna-extraction-methods]] requires crushing three to five thalli
 between silanized slides, then using primers that discriminate between
 insect and fungal DNA. Coamplification of contaminating insect-borne
 yeast DNA can occur; cloning PCR products and screening for
@@ -130,5 +130,5 @@ divergence.
   nematode-attacking fungi
 - [[biodiversity-fungal-molecular-identification-dna-barcoding]] — DNA
   methods for identifying entomopathogenic taxa
-- [[biodiversity-fungal-secondary-metabolites]] — bioactive compounds
+- [[biodiversity-fungal-secondary-metabolites]] — [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]
   from entomopathogenic fungi used in biocontrol

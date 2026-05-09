@@ -1,5 +1,5 @@
 ---
-title: "Endophyte Alkaloid Production and Grass Herbivore Defense"
+title: "dighton endophyte alkaloid grass herbivore defense Production and Grass Herbivore Defense"
 created: 2026-04-28
 tags:
   - endophytes
@@ -16,7 +16,7 @@ type: concept
 
 # Endophyte Alkaloid Production and Grass Herbivore Defense
 
-Fungal endophytes of grasses produce a range of alkaloid secondary metabolites
+[[fungi-in-the-environment-fungal-endophytes-plant-communities]] of grasses produce a range of alkaloid [[antifungal-secondary-metabolites-coprophilous-fungi]]
 that deter herbivores, reduce insect feeding, and suppress pathogen attack. In
 [[fungal-ecology]], these endophyte-herbivore
 interactions illustrate how fungi can exert effects upward through entire
@@ -51,7 +51,7 @@ host plants and herbivores:
 
 Clay (1990) documented the effects of Clavicepitales endophytes on herbivore
 resistance and plant growth. Acremonium and Balansia (each from
-approximately 100 host species) increase vegetative growth and suppress
+approximately 100 host species) increase [[cannabis-vegetative-growth-stage]] and suppress
 reproduction while providing herbivore resistance. Atkinsoniella and
 Myriogenospora show similar patterns across fewer host species.
 
@@ -93,10 +93,10 @@ herbivores across multiple grass genera. Documented effects include:
   Festuca
 - **Reduced population growth**: Tribolium castaneum on Festuca and Lolium
 
-Prestidge and Ball (1997) cite evidence of adverse effects of
+Prestidge and Ball (1997) cite evidence of [[blesching-cannabis-safety-adverse-effects-evidence]] of
 Acremonium-infected tall fescue on 12 beetle species, two fly species, 16
 Hemiptera and Homoptera species, and eight lepidopteran larvae, suggesting
-endophytes could serve as biological control agents for agricultural pests.
+endophytes could serve as [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents for agricultural pests.
 
 ## Environmental Stability of Endophyte Protection
 

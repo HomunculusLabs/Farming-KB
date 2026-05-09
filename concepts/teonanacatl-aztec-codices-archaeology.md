@@ -33,7 +33,7 @@ Sahagun's Florentine Codex, compiled between approximately 1545 and 1590,
 is an encyclopedic work in twelve books covering Aztec religion, history,
 medicine, and natural history.
 
-Sahagun's native informants described mushroom ceremonies in vivid detail.
+Sahagun's native informants described [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]] in vivid detail.
 They reported that those who ate the mushrooms "saw visions" and "wept
 before God." The mushrooms were consumed during religious festivals and
 night-time ceremonies, often in darkness, and were believed to allow
@@ -81,7 +81,7 @@ Vindobonensis and Nuttall), which contain depictions of figures, often
 deities or priests, in association with mushroom-like objects. The
 iconographic evidence has been extensively debated, with some scholars
 interpreting the mushroom-shaped elements as literal depictions of
-psychoactive fungi and others arguing they represent other objects
+[[cattle-dispersal-psychoactive-fungi-australia]] and others arguing they represent other objects
 entirely.
 
 The so-called "mushroom stones" of highland Guatemala -- small stone
@@ -104,14 +104,14 @@ where he participated in a velada (night ceremony) led by the Mazatec
 curandera Maria Sabina, confirmed beyond doubt that psychoactive
 mushrooms were still being used in contemporary Mexico. This
 rediscovery -- and Wasson's 1957 Life magazine article "Seeking the
-Magic Mushroom" -- launched the Western psychedelic mushroom movement
+Magic Mushroom" -- launched the Western [[archaeology-of-psychedelic-mushroom-use]] movement
 and brought teonanacatl from the pages of colonial codices into global
 countercultural consciousness.
 
 ## Scholarly Debate and Controversies
 
 The identification of teonanacatl has not been without controversy. Some
-scholars, notably Richard Evans Schultes, argued that multiple
+scholars, notably Richard [[richard-evans-schultes-updated]], argued that multiple
 hallucinogenic plants may have been called by the same name, and that
 teonanacatl may have referred to peyote in some contexts. Others, including
 Wasson himself, maintained that the term specifically referred to
@@ -121,9 +121,15 @@ The debate is complicated by the fact that Sahagun's informants were
 describing practices that had already been driven underground by Spanish
 persecution, and that the Nahuatl terminology was being translated through
 multiple linguistic filters. Nonetheless, the scholarly consensus now
-strongly supports the mushroom identification, and the connection between
-teonanacatl and psilocybin mushrooms is widely accepted in both
+strongly supports the [[psilocybin-mushroom-identification-guide]], and the connection between
+teonanacatl and [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] is widely accepted in both
 anthropological and mycological circles.
 - [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
-- [[magic-mushroom-british-underground-and-festivals]]
-- [[mexican-mushroom-stones-archaeological-evidence]]
+- magic-mushroom-british-underground-and-festivals
+- mexican-mushroom-stones-archaeological-evidence
+## See Also
+- [[psilocybin-mushrooms]]
+- [[richard-evans-schultes]]
+- mushroom-identification
+- [[valentina-pavlovna-wasson]]
+- [[psilocybin-mushroom]]

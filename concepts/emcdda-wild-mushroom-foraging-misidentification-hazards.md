@@ -20,7 +20,7 @@ type: concept
 
 ## Overview
 
-The EMCDDA 2006 thematic paper documented evidence of wild hallucinogenic mushroom collection across several EU Member States, while highlighting the significant health risks posed by misidentification. Although most recreationally used mushrooms in Europe were cultivated rather than wild-picked, foraging remained an important component of the magic mushroom landscape, particularly in regions where psilocybin-containing species grow naturally.
+The EMCDDA 2006 thematic paper documented evidence of wild [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]] collection across several EU Member States, while highlighting the significant health risks posed by misidentification. Although most recreationally used mushrooms in Europe were cultivated rather than wild-picked, foraging remained an important component of the magic mushroom landscape, particularly in regions where psilocybin-containing species grow naturally.
 
 ## European Species Distribution
 
@@ -28,8 +28,8 @@ The EMCDDA 2006 thematic paper documented evidence of wild hallucinogenic mushro
 
 A variety of psilocybin-containing mushroom species are found growing wild in Europe, concentrated in central and northern European habitats including wet grassy fields and uncultivated pastures:
 
-- **Psilocybe semilanceata** (liberty caps): The most common wild European hallucinogenic mushroom, documented in the UK, Norway, Germany, and widely across temperate Europe
-- **Psilocybe cyanescens** (wavy caps): Found growing wild in several European countries
+- **[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]** (liberty caps): The most common wild European hallucinogenic mushroom, documented in the UK, Norway, Germany, and widely across temperate Europe
+- **[[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]** (wavy caps): Found growing wild in several European countries
 - **Psilocybe bohemica**: Particularly reported in the Czech Republic
 - **Psilocybe moravica**: Another Czech Republic species
 - **Conocybe**, **Panaeolus/Copelandia**, and **Inocybe** genera: Less commonly sought but containing psilocybin or psilocin
@@ -52,7 +52,7 @@ Representatives of local communities in the Kilkenny region reported that magic 
 
 ### Czech Republic
 
-Consumption of locally grown hallucinogenic mushrooms was reported in the Czech Republic, consistent with the presence of Psilocybe bohemica and Psilocybe moravica as documented Czech species. The Czech Republic also had the highest or near-highest prevalence estimates for mushroom use across multiple survey types, potentially reflecting cultural familiarity with local psychoactive fungi.
+Consumption of locally grown [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] was reported in the Czech Republic, consistent with the presence of Psilocybe bohemica and Psilocybe moravica as documented Czech species. The Czech Republic also had the highest or near-highest prevalence estimates for mushroom use across multiple survey types, potentially reflecting cultural familiarity with local psychoactive fungi.
 
 ### Norway
 
@@ -80,7 +80,7 @@ The primary distinguishable feature of most psilocybin-containing mushrooms is t
 Multiple websites provided foraging guidance that could either help or hinder safe identification:
 
 - **Shroommap** (UK): Combined location sharing with identification guidance
-- **The Shroomery**: Comprehensive mushroom identification resources including photo galleries
+- **The Shroomery**: Comprehensive [[psilocybin-mushroom-identification-guide]] resources including photo galleries
 - **Erowid**: Detailed species descriptions and identification tips
 - Country-specific sites: Copenhagen Mushroom Link (Denmark), Champis (France), Svampinfo (Sweden), Norshroom (Norway)
 
@@ -99,7 +99,7 @@ The risk of collecting non-psychoactive or inedible mushrooms is high given the 
 
 ### Deadly Amanita Confusion
 
-The EMCDDA drew specific attention to the Amanita genus as a misidentification hazard. While Amanita muscaria (fly agaric) contains different psychoactive compounds (muscimol, ibotenic acid, muscarine), some closely related Amanita species are highly toxic:
+The EMCDDA drew specific attention to the Amanita genus as a misidentification hazard. While [[allegro-amanita-muscaria-properties-and-pharmacology]] (fly agaric) contains different psychoactive compounds (muscimol, ibotenic acid, muscarine), some closely related Amanita species are highly toxic:
 
 - **Amanita phalloides** (death cap): Contains amatoxins that cause fatal liver failure
 - **Amanita virosa** (destroying angel): Similarly deadly
@@ -131,6 +131,9 @@ The ecological requirements of wild psilocybin species, particularly the need fo
 
 ## Related Pages
 
-- [[emcdda-hallucinogenic-mushroom-european-species-distribution]]
+- emcdda-hallucinogenic-mushroom-european-species-distribution
 - [[emcdda-hallucinogenic-mushroom-consequences-and-health-risks]]
 - [[liberty-cap-psilocybe-semilanceata-history-biology]]
+- [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]
+- [[psilocybe-bohemica]]
+- [[amanita-phalloides]]

@@ -3,7 +3,7 @@ title: Vermiculite for Cannabis
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -11,7 +11,7 @@ tags: [cannabis]
 
 # Vermiculite for Cannabis
 
-Vermiculite is a mica-based mineral that has been processed and expanded by heat to create a lightweight, absorbent Cannabis Growing Mediums and soil amendment. It is valued in cannabis cultivation for its exceptional water-holding capacity and its ability to buffer nutrients, making it a useful complement to faster-draining amendments like [[perlite-cannabis]] or pumice.
+Vermiculite is a mica-based mineral that has been processed and expanded by heat to create a lightweight, absorbent [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]] Mediums and soil amendment. It is valued in [[query-how-does-no-till-cannabis-cultivation-work]] for its exceptional water-holding capacity and its ability to buffer nutrients, making it a useful complement to faster-draining amendments like [[perlite-cannabis]] or pumice.
 - **Buffering capacity**: Has some cation-exchange capacity (CEC), allowing it to hold and slowly release nutrients.
 - **Nutrient content**: Contains traces of magnesium (Mg), phosphorus (P), aluminum (Al), and silicon (Si).
 - **pH**: Generally near neutral, though it varies slightly by source.
@@ -30,11 +30,11 @@ If fine vermiculite is not available for cloning mixes, crush coarse or medium v
 
 ## Vermiculite as a Soil Amendment
 
-Vermiculite is used to improve water retention and nutrient availability in soil and soilless mixes:
+Vermiculite is used to improve water retention and [[ph-and-nutrient-availability-garden-soils]] in soil and soilless mixes:
 - **Moisture retention**: Gives body to fast-draining soils and helps them retain water longer.
 - **Nutrient buffering**: With excellent buffering qualities, vermiculite holds nutrients and makes them available to roots over time.
 - **Soil lightening**: Lightens heavy soils while improving moisture retention (unlike perlite, which primarily improves drainage).
-- **Cation exchange**: Its CEC allows it to hold positively charged nutrient ions for root uptake.
+- **[[mollison-designers-tropical-soils-and-cation-exchange-management]]**: Its CEC allows it to hold positively charged nutrient ions for root uptake.
 
 ## Vermiculite in Wick Systems
 
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

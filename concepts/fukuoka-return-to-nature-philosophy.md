@@ -5,14 +5,15 @@ updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Return to Nature Philosophy
 
-The title of Masanobu Fukuoka's second major work, "The Road Back to Nature," encapsulates his deepest conviction: that human civilization has wandered far from its natural origins and must find its way back. This [[fukuoka-four-principles-natural-farming]] -- no tillage, no fertilizer, no pesticides, and no weeding -- are not merely agricultural techniques but a philosophy of non-intervention. "The trees and grasses release seeds that fall to the ground, there to germinate and grow into new plants. The seeds sown by nature are not so weak as to grow only in plowed fields. Plants have always grown by direct seeding, without tillage."
+The title of Masanobu Fukuoka's second major work, "The Road Back to Nature," encapsulates his deepest conviction: that human civilization has wandered far from its natural origins and must find its way back. This [[fukuoka-four-principles-natural-farming]] -- no tillage, no fertilizer, no pesticides, and no weeding -- are not merely agricultural techniques but a philosophy of non-intervention. "The trees and grasses release seeds that fall to the ground, there to germinate and grow into new plants. The seeds sown by nature are not so weak as to grow only in plowed fields. Plants have always grown by [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]], without tillage."
 
-He was candid about the limitations of even natural farming as a movement: "Of course, in a sense, natural farming will never be perfected. It will not see general application in its true form, and will serve only as a brake to slow the mad onslaught of scientific agriculture." This is not defeatism but realism -- the recognition that the return to nature must be a change of consciousness, not merely a change of technique.
+He was candid about the limitations of even [[comparison-natural-farming-vs-permaculture]] as a movement: "Of course, in a sense, natural farming will never be perfected. It will not see general application in its true form, and will serve only as a brake to slow the mad onslaught of [[fukuoka-critique-scientific-agriculture-civilization]]." This is not defeatism but realism -- the recognition that the return to nature must be a change of consciousness, not merely a change of technique.
 
 ## The Road Back in Practice
 
@@ -28,13 +29,13 @@ In practical terms, the road back to nature means:
 
 ## Nature as Absolute Reality
 
-For Fukuoka, the return to nature was ultimately a spiritual journey. He believed that nature is not just the physical world but the manifestation of an absolute reality that transcends human understanding. The Eastern philosophy of Mu -- nothingness, the void -- points toward this reality. See also [[fukuoka-natures-self-organizing-principles]] is what humanity must learn from and return to.
+For Fukuoka, the return to nature was ultimately a spiritual journey. He believed that nature is not just the physical world but the manifestation of an absolute reality that transcends human understanding. The [[fukuoka-western-eastern-philosophy-agriculture]] of Mu -- nothingness, the void -- points toward this reality. See also [[fukuoka-natures-self-organizing-principles]] is what humanity must learn from and return to.
 
 Even the disposal of death demonstrates nature's perfect system. Countless microbes and small animals in the soil engage in an assembly-line operation of decomposition, returning every living thing to the earth. Man, by contrast, disrupts this cycle with cremation and burial practices that prevent nature from completing its work. The return to nature means trusting these ancient processes rather than replacing them with human inventions.
 
 ## Beyond Organic Farming
 
-Fukuoka was clear that even organic farming, as commonly practiced, falls short of a true return to nature. "Even organic farming, which everyone is making such a big fuss over lately, is just another type of scientific farming. A lot of trouble is taken to move organic materials first here then there, to process and treat." The return to nature requires going beyond the mere substitution of organic inputs for chemical ones. It requires a fundamental shift in the [[fukuoka-compost-unnecessary-philosophy]] follows directly from this observation -- even well-meaning organic interventions can become forms of manipulation.
+Fukuoka was clear that even organic farming, as commonly practiced, falls short of a true return to nature. "Even organic farming, which everyone is making such a big fuss over lately, is just another type of [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]. A lot of trouble is taken to move organic materials first here then there, to process and treat." The return to nature requires going beyond the mere substitution of organic inputs for chemical ones. It requires a fundamental shift in the [[fukuoka-compost-unnecessary-philosophy]] follows directly from this observation -- even well-meaning organic interventions can become forms of manipulation.
 
 ## The Illusion of Control
 
@@ -60,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

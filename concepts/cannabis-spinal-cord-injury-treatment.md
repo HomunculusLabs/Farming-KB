@@ -1,9 +1,9 @@
 ---
-title: Cannabis Treatment for Spinal Cord Injuries
+title: Cannabis Treatment for blesching-cannabis-spinal-cord-injuries Injuries
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "Blesching - The Cannabis Health Index"
+  - "Blesching - The blesching-cannabis-health-index-autoimmune-conditions"
 type: concept
 tags: [cannabis]
 ---
@@ -11,7 +11,7 @@ tags: [cannabis]
 # Cannabis Treatment for Spinal Cord Injuries
 
 Spinal cord injuries represent one of the most devastating forms of
-trauma, often resulting in permanent paralysis, chronic pain, and
+trauma, often resulting in permanent paralysis, [[cannabis-chronic-pain-management]], and
 uncontrollable muscle spasms. Research compiled in The Cannabis Health
 Index assigns a [[cannabis-endocannabinoid-system]]. The spinal cord is a relatively thick bundle of nerves descending from the medulla oblongata through the center of the spine. Along its length, spinal cord nerves create junctions and exit between each vertebra to connect all parts of the body through ever-smaller branching nerve fibers.
 
@@ -88,7 +88,7 @@ effect is primarily attributed to THC, sativa-dominant strains may be
 preferred. However, some patients may benefit from the anti-inflammatory
 properties of CBD-rich strains to address concurrent inflammation.
 
-Clinical trials employed cannabinoids from various sources: whole-plant
+[[mushroom-cancer-clinical-trials-overview]] employed cannabinoids from various sources: whole-plant
 cannabis, isolated THC, and synthetic dronabinol. The use of whole-plant
 cannabis may provide additional therapeutic benefits through the
 [[cannabis-herpes-treatment]] Topics

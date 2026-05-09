@@ -10,9 +10,9 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Schnell, D.E. (2002). "Carnivorous Plants of the United States and Canada." 2nd ed. Timber Press.
-  - McPherson, S. (2011). "Sarraceniaceae of North America." Redfern Natural History Productions.
-  - Mellichamp, T.L. (2015). "Sarracenia: A Field Guide." WildAdventures Press.
+  - Schnell, D.E. (2002). "Carnivorous Plants of the dmt-containing-plants-united-states-halpern and Canada." 2nd ed. Timber Press.
+  - McPherson, S. (2011). "Sarraceniaceae of [[psilocybin-north-america-pacific-northwest]]." Redfern Natural History Productions.
+  - Mellichamp, T.L. (2015). "Sarracenia: A [[ghouled-field-guide-historical-context]]." WildAdventures Press.
   - Ellison, A.M. & Gotelli, N.J. (2009). "Ecological and Evolutionary Dynamics of Sarracenia." Ann. Bot. 103: 739–744.
 ---
 
@@ -64,7 +64,7 @@ S. minor is considered one of the easier Sarracenia species to cultivate outdoor
 
 **Dormancy:** A winter dormancy period of 3–5 months is required. Temperatures of 2–10°C during this period promote healthy spring growth and flowering.
 
-**Water:** The tray method works well, with pots sitting in 2–5 cm of distilled or rain water. Substrate should remain waterlogged during the growing season.
+**Water:** The tray method works well, with pots sitting in 2–5 cm of distilled or rain water. Substrate should remain waterlogged during the [[savory-growing-season-and-non-growing-season-management]].
 
 **Substrate:** A mix of sphagnum peat and sharp sand or perlite (1:1) provides adequate drainage while retaining moisture. Pure long-fiber sphagnum is also suitable.
 

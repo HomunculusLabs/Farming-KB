@@ -10,7 +10,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Argus, G.W. (1997). "Infrageneric classification of Salix (Salicaceae) in the New World." Systematic Botany Monographs, 52, 1–121.
-  - Peichl, M. et al. (2002). "Biomass production and nutrient use in short rotation willow." Canadian Journal of Forest Research, 32, 1763–1774.
+  - Peichl, M. et al. (2002). "[[dighton-fungal-biomass-production-aquatic-ecosystems]] and nutrient use in short rotation willow." Canadian Journal of Forest Research, 32, 1763–1774.
   - Newsholme, C. (1992). "Willows: The Genus Salix." B.T. Batsford Ltd, London.
   - Karp, A. et al. (2011). "Willow as a bioenergy crop." In: Halford, N. & Karp, A. (eds.), Energy Crops. Royal Society of Chemistry.
   - Wikberg, H. & Öberg, G. (2007). "Distribution of halogenated organic matter in a willow stand." Environmental Science & Technology, 41, 5878–5883.
@@ -74,7 +74,7 @@ Ornamental cultivars including 'Nana' (dwarf form) and 'Pendula' (weeping form) 
 
 In living willow structures, purple willow rods add color contrast alongside green-stemmed species. Garden designers frequently use it in mixed willow hedges and woven garden features.
 
-The wood has a density of approximately 450–500 kg/m³ and is used for small turned items, tool handles, and charcoal production. The flexible rods have historically been used for making coracles, fish traps, and cricket bats.
+The wood has a density of approximately 450–500 kg/m³ and is used for small turned items, tool handles, and [[mollison-designers-charcoal-production-biochar-soil-amendment]]. The flexible rods have historically been used for making coracles, fish traps, and cricket bats.
 
 ## Bioactive Compounds
 
@@ -82,7 +82,7 @@ The bark of *Salix purpurea* contains salicin and related phenolic glycosides, t
 
 Tannin content is relatively high at 6–12% by weight, making the bark a potential commercial source of vegetable tannins. The tannins are predominantly condensed catechin-type polymers.
 
-Recent research has identified novel phenolic compounds in *S. purpurea* bark with antioxidant and antimicrobial properties. These include specific flavonoid glycosides and phenolic acid derivatives not found in other *Salix* species.
+Recent research has identified novel phenolic compounds in *S. purpurea* bark with antioxidant and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. These include specific flavonoid glycosides and phenolic acid derivatives not found in other *Salix* species.
 
 The distinctive purple stem coloration results from anthocyanin pigments, primarily cyanidin-based compounds. Anthocyanin concentration increases with exposure to ultraviolet radiation and cold temperatures.
 
@@ -92,13 +92,13 @@ Willow leaf rust (*Melampsora* spp.) can affect purple willow, though it shows m
 
 Purple willow catkins provide early nectar and pollen for bees, particularly bumblebees and solitary bees. The species flowers slightly later than *S. caprea*, extending the early-season pollinator resource period.
 
-The dense, low-growing habit provides cover and nesting sites for ground-nesting birds and small mammals. Coppiced stools create structural diversity that supports invertebrate communities at multiple trophic levels.
+The dense, low-growing habit provides cover and nesting sites for ground-nesting birds and small mammals. Coppiced stools [[query-how-do-photonic-crystals-create-structural-color]] diversity that supports invertebrate communities at multiple trophic levels.
 
 Several Lepidoptera species use *S. purpurea* as a larval host plant, including the eyed hawk-moth and various geometrid moths. The foliage is relatively unpalatable to deer compared with other willow species due to higher tannin content.
 
-The fibrous root system stabilizes streambanks and tolerates periodic flooding. Purple willow is frequently planted in riparian restoration projects for its combined erosion control and wildlife habitat value.
+The fibrous root system stabilizes streambanks and tolerates periodic flooding. Purple willow is frequently planted in riparian restoration projects for its combined [[permplant-willows-salix-erosion-control-fodder]] and wildlife habitat value.
 
-In constructed wetland systems, purple willow contributes to nitrogen and phosphorus removal from wastewater. Its transpiration rates are among the highest of temperate shrubs, making it effective at reducing water volume in treatment systems.
+In [[comparison-constructed-wetland-vs-backyard-pond]] systems, purple willow contributes to nitrogen and phosphorus removal from wastewater. Its transpiration rates are among the highest of temperate shrubs, making it effective at reducing water volume in treatment systems.
 
 ## See Also
 

@@ -1,11 +1,12 @@
 ---
-title: Fukuoka: Village Without War and Peace
+title: Fukuoka: fukuoka-village-without-war-and-peace and Peace
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
 tags: [fukuoka, natural-farming]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
 ---
 
@@ -31,7 +32,7 @@ The calamity of war comes from the strengthening and magnifying of empty distinc
 
 There is no other road to peace than for all people to depart from the castle gate of relative perception, go down into the meadow, and return to the heart of non-active nature. That is, sharpening the sickle instead of the sword.
 
-The farmers of long ago were a peaceful people, but now they are arguing with Australia about meat, quarrelling with Russia over fish, and dependent on America for wheat and soybeans. Get rid of the aspects of inside and outside. Farmers everywhere in the world are at root the same farmers. Let us say that the key to peace lies close to the earth.
+The farmers of long ago were a peaceful people, but now they are arguing with Australia about meat, quarrelling with Russia over fish, and dependent on America for wheat and soybeans. [[query-how-to-get-rid-of-slugs-and-snails-organically]] of the aspects of inside and outside. Farmers everywhere in the world are at root the same farmers. Let us say that the key to peace lies close to the earth.
 
 This vision of peace through connection to the earth connects directly to Fukuoka's [[fukuoka-mu-nothingness-philosophy]].
 
@@ -60,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

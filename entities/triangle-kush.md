@@ -16,7 +16,7 @@ sources:
 
 ## Overview
 
-Triangle Kush is a pure indica cannabis strain that originated in Florida during the 1990s and is widely regarded as one of the most influential Kush varieties in modern cannabis breeding and genetics. Named after Florida's three most iconic cannabis-producing regions — Miami, Tampa, and Jacksonville — the strain emerged from a tight-knit community of underground growers who cultivated and refined it across the state's Gulf and Atlantic coasts. Its reputation as a potent, flavorful, and genetically stable indica made it a foundational building block for dozens of commercially successful crosses.
+Triangle Kush is a pure indica cannabis strain that originated in Florida during the 1990s and is widely regarded as one of the most influential Kush varieties in modern [[oner-cannabis-breeding-fundamentals]] and genetics. Named after Florida's three most iconic cannabis-producing regions — Miami, Tampa, and Jacksonville — the strain emerged from a tight-knit community of underground growers who cultivated and refined it across the state's Gulf and Atlantic coasts. Its reputation as a potent, flavorful, and genetically stable indica made it a foundational building block for dozens of commercially successful crosses.
 
 The strain is celebrated for its deeply relaxing physical effects and complex, pungent aroma that blends earthy, citrus, and hash-like qualities. With THC content typically ranging from 20% to 26%, Triangle Kush delivers a heavy-bodied sedation that has made it a favorite among medical patients seeking relief from chronic pain, insomnia, and muscle spasms. Despite its underground origins, it has achieved legendary status among cannabis enthusiasts and breeders worldwide, frequently appearing on "best Kush" lists and earning high ratings across major cannabis databases.
 
@@ -28,7 +28,7 @@ Triangle Kush is believed to descend from a Hindu Kush landrace brought to the U
 
 Phylos Bioscience's genetic testing has placed Triangle Kush within the broader "Kush" cluster of cannabis chemotypes, confirming its Old World indica heritage. The strain exhibits remarkable phenotypic consistency across different grow environments, a hallmark of stabilized genetics. Its role as a foundational clone-only strain places it alongside other legendary Florida varieties like OG Kush (with which it shares distant genetic ties through common Kush ancestry) and the original Miami-era Skunk varieties.
 
-Genetic stability is one of Triangle Kush's most valued traits. Because the strain has been maintained through vegetative cloning for over two decades, its expression of terpenes, cannabinoids, and growth characteristics remains highly predictable from generation to generation. This consistency has made it an ideal parent for breeding programs seeking reliable Kush-dominant offspring with predictable trait expression. The absence of sexual reproduction in its history means there is no seed line, and all authentic Triangle Kush plants are genetically identical clones tracing back to the original Florida mother plant.
+Genetic stability is one of Triangle Kush's most valued traits. Because the strain has been maintained through vegetative cloning for over two decades, its expression of terpenes, cannabinoids, and growth characteristics remains highly predictable from generation to generation. This consistency has made it an ideal parent for breeding programs seeking reliable Kush-dominant offspring with predictable trait expression. The absence of [[fungal-life-cycles-sexual-reproduction-metamorphosis]] in its history means there is no seed line, and all authentic Triangle Kush plants are genetically identical clones tracing back to the original Florida mother plant.
 
 ## Appearance
 
@@ -80,7 +80,7 @@ Due to its potency, novice consumers are advised to approach Triangle Kush with 
 
 Triangle Kush is considered a moderately difficult strain to cultivate, primarily because it is available only as a clone and requires attentive environmental management. Flowering time indoors is approximately 8 to 9 weeks, with outdoor harvests typically ready by mid to late October. The plants are relatively compact and bushy, making them suitable for indoor grows with adequate vertical space.
 
-Indoor yields range from 10 to 14 ounces per square meter, while outdoor plants can produce 12 to 16 ounces per plant under optimal conditions. The strain prefers warm, humid climates similar to its native Florida environment and responds well to training techniques including low-stress training (LST), screen of green (ScrOG), and topping to promote lateral branching. Nutrient requirements are moderate, with careful attention needed during the mid-flowering phase to prevent nutrient burn. Triangle Kush is resistant to most common molds but can be susceptible to spider mites in dry conditions.
+Indoor yields range from 10 to 14 ounces per square meter, while outdoor plants can produce 12 to 16 ounces per plant under optimal conditions. The strain prefers warm, humid climates similar to its native Florida environment and responds well to [[cannabis-training-techniques-comparison]] including low-stress training (LST), screen of green (ScrOG), and topping to promote lateral branching. Nutrient requirements are moderate, with careful attention needed during the mid-flowering phase to prevent nutrient burn. Triangle Kush is resistant to most common molds but can be susceptible to spider mites in dry conditions.
 
 Growers should maintain daytime temperatures between 70–80°F (21–27°C) and relative humidity of 50–60% during vegetative growth, reducing humidity to 40–50% during flowering to prevent bud rot and promote resin production. The strain responds well to organic soil cultivation and also performs admirably in hydroponic systems when pH and nutrient levels are carefully monitored.
 
@@ -100,7 +100,7 @@ Triangle Kush has been used extensively as a parent strain in modern breeding pr
 
 ## Cultural Significance
 
-Triangle Kush holds a central place in the history of Florida cannabis culture, representing the pinnacle of underground breeding in a state that was, during the 1990s and early 2000s, one of the most active hubs for illicit cannabis cultivation in the United States.
+Triangle Kush holds a central place in the history of Florida [[mckenna-cannabis-culture-history]], representing the pinnacle of underground breeding in a state that was, during the 1990s and early 2000s, one of the most active hubs for illicit [[query-how-does-no-till-cannabis-cultivation-work]] in the United States.
 
 The strain's name references the geographic triangle formed by Miami, Tampa, and Jacksonville — the three cities that constituted the backbone of Florida's underground cannabis trade and where the strain was most widely circulated among growers and consumers.
 
@@ -113,6 +113,6 @@ The strain's influence extended beyond Florida as cuttings made their way to Cal
 The following sources were consulted in the preparation of this article:
 
 1. Leafly. "Triangle Kush Strain Information." Leafly, 2024. https://leafly.com/strains/triangle-kush
-2. AllBud. "Triangle Kush [[cannabis-genetics-and-breeding]]. "Triangle Kush — Genetic Lineage and History." Cannabis Genetics Database, 2023. https://www.cannabisgenetics.io
+2. AllBud. "Triangle Kush [[cannabis-genetics-and-breeding]]. "Triangle Kush — Genetic Lineage and History." [[vic-high-cannabis-genetics-mendelian-inheritance]] Database, 2023. https://www.cannabisgenetics.io
 7. Mudge, E.M., et al. "Chemotaxonomic Analysis of [[cannabis-terpene-profiles]]." *Frontiers in [[cannabis-endocannabinoid-system]]
 - [[hindu-kush]]

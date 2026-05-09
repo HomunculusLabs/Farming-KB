@@ -1,18 +1,18 @@
 ---
-title: Wildlife and Livestock Integration
+title: Wildlife and faires-livestock-integration-permaculture
 created: 2026-04-26
 aliases: [predator-prey dynamics, wildlife management, mixed-species grazing]
 tags: [wildlife, livestock, integration, biodiversity, predator-prey]
-related: [savory-holistic-management-overview, savory-livestock-grazing-planning, savory-land-monitoring]
+related: [[savory-holistic-management-overview]], [[savory-livestock-grazing-planning]], [[savory-land-monitoring]]
 type: concept
 sources:
-  - raw/papers/holistic-management-allan-savory.md
+  sources: []
 updated: 2026-04-26
 ---
 
 # Wildlife and Livestock Integration
 
-Holistic management recognizes that wildlife and domestic livestock are not inherently in conflict. In fact, integrating wildlife management with livestock operations can enhance both ecological health and economic returns. The key lies in understanding how natural grazing ecosystems function and applying those principles to managed land.
+[[savory-holistic-management-overview]] recognizes that wildlife and domestic livestock are not inherently in conflict. In fact, integrating wildlife management with livestock operations can enhance both ecological health and economic returns. The key lies in understanding how natural grazing ecosystems function and applying those principles to managed land.
 
 ## The Natural Grazing Model
 
@@ -46,7 +46,7 @@ When predators are removed, herbivores tend to spread out, become sedentary, and
 
 ## Replicating Natural Dynamics with Livestock
 
-Since most ranches no longer have natural predator populations, the manager must replicate the effects of predator pressure through planned grazing:
+Since most ranches no longer have [[fukuoka-natural-predator-protection]] populations, the manager must replicate the effects of predator pressure through planned grazing:
 
 - **High stock density**: Concentrating animals in small areas for short periods simulates the herd effect and animal impact that predators would create
 - **Frequent moves**: Moving animals before plants are overgrazed simulates the constant movement that predators enforce
@@ -60,7 +60,7 @@ The goal is not to perfectly replicate nature, but to capture the ecosystem bene
 Wildlife can contribute significantly to ranch economics beyond livestock production:
 
 - **Diversified income streams**: Hunting, wildlife viewing, and eco-tourism can provide substantial additional revenue
-- **Reduced operating costs**: Wildlife requires no supplemental feeding, fencing, or health care
+- **Reduced operating costs**: Wildlife requires no [[savory-supplemental-feeding-and-winter-management]], fencing, or health care
 - **Risk diversification**: Wildlife income is often counter-cyclical to livestock markets
 - **Premium market access**: Properties with healthy wildlife populations command higher land values and attract conservation-minded buyers
 
@@ -72,7 +72,7 @@ The holistic goal explicitly includes landscape descriptions that define desired
 
 ## The Society and Culture Testing Guideline
 
-The holistic management testing guidelines include a specific check for **Society and Culture**. This guideline requires that any management decision be evaluated for its effect on the broader social and cultural context:
+The holistic management testing guidelines include a specific check for **Society and Culture**. This guideline requires that any [[savory-holistic-resource-management-decision-framework]] be evaluated for its effect on the broader social and cultural context:
 
 - Will this action contribute to or damage the social fabric of the community?
 - Does it maintain or undermine cultural values that sustain the community?
@@ -110,10 +110,11 @@ Wildlife, as a self-sustaining resource requiring no external energy inputs, sco
 
 ## Sources
 
-- Savory, Allan. *Holistic Resource Management*, Chapters 12, 38, 39. Island Press, 1988.
+- Savory, Allan. *[[savory-holistic-resource-management-animal-impact]] Management*, Chapters 12, 38, 39. Island Press, 1988.
 
 ## See Also
 
 - [[livestock-fencing-guide]]
-- [[permaculture-designers-manual-grazing-management]]
+- permaculture-designers-manual-grazing-management
 - [[glomalin-and-soil-carbon]]
+- [[permaculture-design]]

@@ -39,9 +39,9 @@ Continuation of [[history-of-mycology-timeline]]. Covers the post-WWII expansion
   [[r-gordon-wasson]] and Allan Richardson participate in
   Maria Sabina's velada in Huautla de Jimenez, Oaxaca —
   the first outsiders recorded to do so.
-  Wasson's 1957 Life magazine article brought psilocybin mushrooms
+  Wasson's 1957 Life magazine article brought [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]
   to global attention.
-  See [[maria-sabina-and-mazatec-mushroom-ceremony]].
+  See [[maria-sabina-mazatec-mushroom-ceremony]].
 
 - **1958 — Hofmann isolates psilocybin:**
   Identified and synthesized psilocybin and psilocin
@@ -49,7 +49,7 @@ Continuation of [[history-of-mycology-timeline]]. Covers the post-WWII expansion
   Sandoz marketed them as Indocybin for research.
   See [[psychedelic-mushroom-history]].
 
-- **1960-1963 — Harvard Psilocybin Project:**
+- **1960-1963 — [[leary-harvard-psilocybin-project]] Project:**
   [[timothy-leary]], [[ralph-metzner]], and Richard Alpert
   conducted experiments at Harvard using psilocybin and LSD on volunteers.
   Dismissed in 1963 after publicity.
@@ -66,7 +66,7 @@ Continuation of [[history-of-mycology-timeline]]. Covers the post-WWII expansion
 - **1976 — Oss and Oeric (McKenna brothers):**
   [[terence-mckenna]] and [[dennis-mckenna]] publish
   Magic Mushroom Grower's Guide under pseudonyms,
-  the first practical psilocybin cultivation manual.
+  the first practical [[gottlieb-psilocybin-cultivation-bulk-substrate-preparation]] manual.
 
 - **1979 — E.J.H. Corner:**
   Advanced understanding of bolete and agaric relationships
@@ -75,7 +75,7 @@ Continuation of [[history-of-mycology-timeline]]. Covers the post-WWII expansion
 - **1983 — Paul Stamets:**
   Published The Mushroom Cultivator (with J.S. Chilton),
   the definitive technical manual covering agar work, spawn production,
-  substrate preparation, and fruiting for multiple species.
+  [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]], and fruiting for multiple species.
   See [[paul-stamets]] and [[mushroom-cultivation-basics]].
 
 - **1983 — Gaston Guzman:**
@@ -85,7 +85,7 @@ Continuation of [[history-of-mycology-timeline]]. Covers the post-WWII expansion
 
 ## 21st Century Frontiers
 
-The modern era of mycology — from genomics and DNA phylogenetics through mycorrhizal network discoveries, mycoremediation deployment, medicinal mushroom clinical trials, and conservation concerns — is covered in detail on [[mycology-21st-century-frontiers]]. Key milestones include Simard's "wood wide web" research, Ingham's soil food web popularization, fungal genome sequencing, mycelium materials industry, and the recognition of fungi as ecosystem health indicators.
+The modern era of mycology — from genomics and DNA phylogenetics through [[arbuscular-mycorrhizal-network-visualization-anastomosis]] discoveries, mycoremediation deployment, medicinal mushroom clinical trials, and conservation concerns — is covered in detail on [[mycology-21st-century-frontiers]]. Key milestones include Simard's "wood wide web" research, Ingham's soil food web popularization, fungal genome sequencing, [[comparison-mycelium-materials-vs-bioplastics-pla-pha]] industry, and the recognition of fungi as ecosystem health indicators.
 
 ## Related Pages
 

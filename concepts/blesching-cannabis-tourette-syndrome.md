@@ -17,13 +17,13 @@ type: concept
 - Sleep disruption (see [[blesching-cannabis-neuroprotection]] - neuroprotective mechanisms
 - [[cannabis-for-epilepsy-and-seizure-disorders]] - other neurological cannabinoid
   applications
-- blesching cannabis pain management - for comorbid pain
+- blesching cannabis [[cannabis-pain-management-protocols]] - for comorbid pain
 
 ## Key References
 
-Blesching, U. (2017). *The Cannabis Health Index*. North Atlantic Books.
+Blesching, U. (2017). *The [[blesching-cannabis-health-index-autoimmune-conditions]]*. North Atlantic Books.
 See Chapter on movement disorders for full study citations and detailed
-CHI scoring analysis. Notable studies include work by Mueller-Vahl et al.
+[[blesching-cannabis-chi-scoring-evidence-based-medicine]] analysis. Notable studies include work by Mueller-Vahl et al.
 on THC in Tourette Syndrome.
 ## Practical Applications
 
@@ -102,4 +102,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

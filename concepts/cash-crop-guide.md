@@ -9,7 +9,7 @@ sources: [papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md
 
 Updated: 2026-04-18
 
-Source: The Ultimate Guide to Natural Farming and Sustainable Living, Nicole Faires
+Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]], Nicole Faires
 
 Choosing and managing cash crops is essential for farm profitability. A permaculture approach to cash cropping emphasizes polyculture, value-added products, and direct sales channels to maximize income while maintaining ecological integrity.
 
@@ -29,7 +29,7 @@ Choosing and managing cash crops is essential for farm profitability. A permacul
 |----------|----------|
 | Aquatic nursery | Fish, bee and duck forage, friendly insect plants, ornamentals |
 | Berries | Fruit, U-pick service, plant nursery |
-| Rare plants | Useful permaculture plants; bee, bird, and beneficial insect forage |
+| Rare plants | Useful permaculture plants; bee, bird, and [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] forage |
 | Seeds | Rare or unusual heirloom seeds |
 | Animals | Geese, silkworms, earthworms, bantams, milk goats, draft horses, heritage cows, specialty sheep, quail |
 | Hedges and trees | Local species, forest regeneration trees, windbreaks, animal forage, bamboo, food crops |
@@ -64,7 +64,7 @@ Birds can eat 30% of your berry cash crop:
 ### Irrigation
 
 - **Drip line**: Recommended — deposits water directly near roots, uses less water
-- **Sprinklers**: Common in North America but wasteful — require hours of running, water evaporates in sun, may not reach soil effectively
+- **Sprinklers**: Common in [[psilocybin-north-america-pacific-northwest]] but wasteful — require hours of running, water evaporates in sun, may not reach soil effectively
 - **Drip advantage**: During summer, drip lines need less frequent watering and conserve water
 
 ### Blackberry Management
@@ -72,7 +72,7 @@ Birds can eat 30% of your berry cash crop:
 Blackberries are invasive but can be managed:
 
 - **Small areas**: Cut back and cover with strong mulch (plastic weighed down with rocks) for 2 years, then dig out roots
-- **Large areas (quarter acre+)**: Fence off and rotate — 20 pigs per acre, then 12 goats per acre the next year, then pigs again
+- **Large areas ([[fukuoka-agriculture-tomorrow-quarter-acre-vision]]+)**: Fence off and rotate — 20 pigs per acre, then 12 goats per acre the next year, then pigs again
 - **Long-term control**: Keep something grazing (sheep, goats) or plant trees and hay cash crops
 - **Tree integration**: Plant apple, fig, pear, plum trees in the middle of blackberry areas 40 feet from the edge; after ~5 years, let cattle in to graze — they eat windfall fruit and trample blackberries
 
@@ -106,7 +106,7 @@ Blackberries are invasive but can be managed:
 
 - **Farmers markets**: Direct to consumer sales
 - **U-pick**: Customers harvest their own — reduces your labor
-- **CSA (Community Supported Agriculture)**: Families purchase a seasonal share for weekly produce boxes — fastest-growing direct sales method
+- **CSA (Community [[community-supported-agriculture-csa]])**: Families purchase a seasonal share for weekly produce boxes — fastest-growing direct sales method
 - **Restaurants**: Direct sales to local restaurants
 
 ### CSA Best Practices
@@ -122,4 +122,4 @@ Blackberries are invasive but can be managed:
 - [[community-supported-agriculture-csa]] — CSA details
 - [[strawberry-growing-guide]] — strawberry production
 - [[greenhouse-growing-guide]] — greenhouse cash crops
-- [[holzer-fruit-tree-planting-method]]
+- holzer-fruit-tree-planting-method

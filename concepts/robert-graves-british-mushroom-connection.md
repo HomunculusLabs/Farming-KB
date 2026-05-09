@@ -1,5 +1,5 @@
 ---
-title: "Robert Graves and the British Magic Mushroom Connection"
+title: "Robert Graves and the london-underground-and-british-magic-mushroom-discovery Mushroom Connection"
 created: 2026-04-26
 tags:
   - robert-graves
@@ -19,8 +19,8 @@ type: concept
 Robert Graves (1895-1985) occupies an idiosyncratic position in the
 story of the magic mushroom. The eccentric poet, novelist, and
 Professor of Poetry at Oxford played a vital if largely forgotten role
-in alerting gordon-wasson to the existence of Mexican mushroom rituals
-and subsequently in promoting the idea that hallucinogenic mushrooms
+in alerting gordon-wasson to the existence of [[gartz-wasson-mexican-mushroom-cult-rediscovery]] rituals
+and subsequently in promoting the idea that [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]
 had been used in ancient European cultures. His influence extended to
 the British psychedelic underground through his widely read books.
 
@@ -40,7 +40,7 @@ deification of reason.
 
 Graves's most consequential contribution to the mushroom story came in
 September 1952, when he forwarded Wasson an article from a
-pharmaceutical journal, Ciba Symposia, detailing Richard Schultes's
+pharmaceutical journal, Ciba Symposia, detailing [[mckenna-richard-schultes-harvard-ethnobotany-psychoactive-plants]]'s
 identification of teonanacatl. The delighted ethnomycologist
 immediately set about organising his first trip to Oaxaca. Though he
 has received little recognition for his part in the story, Graves
@@ -57,7 +57,7 @@ lightning conductor for these things on your behalf?"
 ## The White Goddess and Mushroom Speculation
 
 Graves became increasingly convinced, on the basis of leaps of faith
-dizzying even by Wasson's standards, that the fly-agaric had been used
+dizzying even by Wasson's standards, that the [[fly-agaric]] had been used
 as a sacrament in the cult of Dionysus, in Judaeo-Christian faiths,
 and by the Iron Age Druids. He placed mushroom speculation into the
 revised paperback editions of The White Goddess (1961) and The Greek
@@ -72,7 +72,7 @@ paperback in 1967, was a work entirely of his imagination, but his
 imperative style meant the book was eagerly accepted by an uncritical
 public as an accurate account of ancient Druidic religion. It became
 one of the foundational texts of the revived Pagan religions of the
-twentieth century, many of which diligently worship Graves's invented
+[[coleman-louis-savier-twentieth-century-maraicher]], many of which diligently worship Graves's invented
 goddess and beseech her for poetic inspiration.
 
 ## Graves's Own Mushroom Experience
@@ -113,7 +113,7 @@ underground members. Musicians Robert Wyatt from Soft Machine and
 Daevid Allen, visionary leader of the uber-hippy psychedelic band
 Gong, were among the more famous visitors received at Graves's home.
 Young, attractive "hippy-chicks" were especially welcomed. Graves was
-always happy to talk about magic mushrooms, and it seems probable that
-he led some people to the British [[gordon-wasson-mushroom-discovery]] - Wasson's Mexico expeditions
+always happy to talk about [[guzman-magic-mushrooms-african-species]], and it seems probable that
+he led some people to the British gordon-wasson-mushroom-discovery - Wasson's Mexico expeditions
 - [[wasson-mycophobia-mycophilia-theory]] - the theory Graves
   - championed

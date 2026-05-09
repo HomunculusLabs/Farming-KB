@@ -1,5 +1,5 @@
 ---
-title: Cannabis Terpene Biosynthesis and Aromatic Profiles
+title: Cannabis clarke marijuana botany terpene biosynthesis aromatic profiles and Aromatic Profiles
 created: 2026-04-28
 tags: [cannabis, terpenes, botany, aroma, breeding, clarke]
 date: 2026-04-25
@@ -52,7 +52,7 @@ cultivators. It is suspected that changes in aromatic terpene levels
 parallel changes in cannabinoid levels during maturation. As connections
 between aroma and psychoactivity are uncovered, the breeder will be
 better able to make field selections of prospective high-THC parents
-without complicated chemical analysis, using aroma as a proxy indicator.
+without complicated [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]], using aroma as a proxy indicator.
 
 ## Terpene Polymerization and Maturation
 
@@ -109,22 +109,22 @@ aroma in addition to breeding it. This dual strategy provides insurance
 in case the aroma is lost in the offspring by segregation and
 recombination of genes. The interplay between terpene biosynthesis and
 cannabinoid production remains one of the most promising frontiers in
-Cannabis breeding science.
+[[oner-cannabis-breeding-fundamentals]] science.
 
 ## Persistence and Shelf Life Considerations
 
 Cannabis resins deteriorate as they age, and the aromatic principles and
-cannabinoids break down slowly until they are hardly noticeable. Since
+cannabinoids [[query-can-fungi-break-down-plastic-pollution]] slowly until they are hardly noticeable. Since
 fresh Cannabis is only available once a year in temperate regions, an
 important breeding goal has been a strain that keeps well when packaged.
 Packageability and shelf life are important considerations in the
 breeding of fresh fruit species and will prove equally important if
 trade in Cannabis develops after legalization.
 
-Terpene profiles thus serve as both a sensory pleasure and a scientific
+[[cannabis-terpene-profiles-sativa]] thus serve as both a sensory pleasure and a scientific
 tool. Their biosynthetic connections to cannabinoids, their genetic
 complexity, and their role in the overall psychoactive experience make
-them an essential consideration for any serious Cannabis breeding program.
+them an essential consideration for any serious Cannabis [[cervantes-breeding-program-design-goal-setting]].
 The study of terpenes bridges the gap between the chemistry of the plant
 and the subjective experience of the consumer.
 

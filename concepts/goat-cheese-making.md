@@ -9,7 +9,7 @@ sources: []
 
 # Goat Cheese Making
 
-Goat milk cheese (chevre) is one of the most accessible and rewarding homestead dairy products. Goat milk is naturally homogenized (smaller fat globules), making it easier to curdle and produce a creamy cheese. This guide covers the fundamental cheeses that can be made at home: fresh chevre, feta, and aged gouda.
+Goat milk cheese (chevre) is one of the most accessible and rewarding [[homestead-dairy-guide]] products. Goat milk is naturally homogenized (smaller fat globules), making it easier to curdle and produce a creamy cheese. This guide covers the fundamental cheeses that can be made at home: fresh chevre, feta, and aged gouda.
 
 ## Milk Quality Fundamentals
 
@@ -122,7 +122,7 @@ Gouda is a washed-curd cheese that requires more equipment and time but produces
 -  **Mesophilic** — Work at 20-30 C. Used for chevre, feta, cottage cheese. Common strains: MA 4001, MM 100, Flora Danica.
 -  **Thermophilic** — Work at 35-45 C. Used for gouda, cheddar, parmesan. Common strains: TA 61, LH 100, Thermophilic B.
 -  **Direct-set (DVI)** — Single-use packets added directly to milk. Most convenient for beginners.
--  **Mother culture** — Perpetuated from batch to batch. More economical for frequent cheesemakers but requires sterile technique.
+-  **Mother culture** — Perpetuated from batch to batch. More economical for frequent cheesemakers but requires [[cultivator-sterile-technique-and-agar-culture]].
 
 ### Rennet
 
@@ -146,4 +146,4 @@ Gouda is a washed-curd cheese that requires more equipment and time but produces
 
 ## See Also
 
-- [[home-cheesemaking-and-dairy-fermentation]]
+- [[dairy-and-cheesemaking]]

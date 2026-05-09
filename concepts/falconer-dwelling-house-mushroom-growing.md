@@ -1,5 +1,5 @@
 ---
-title: Falconer Dwelling House Mushroom Growing
+title: Falconer falconer dwelling house mushroom growing duggar-mushroom-growing-history-and-methods
 created: 2026-04-28
 tags:
   [
@@ -29,7 +29,7 @@ a part of it with boards and make the beds in this.
 
 ## Preparing the Manure for Indoor Use
 
-The [[falconer-loam-for-mushroom-beds]] prevents the escape of any further steam or
+The falconer-loam-for-mushroom-beds prevents the escape of any further steam or
 odor from the manure.
 
 ## Odorless Cultivation
@@ -41,7 +41,7 @@ important consideration for domestic cultivation and was
 demonstrated by practical examples.
 
 Mr. W. Robinson, editor of the London Garden, described
-a remarkable case of growing mushrooms in the cellar
+a remarkable case [[query-what-are-the-benefits-of-growing-mushrooms-at-home]] in the cellar
 of a dwelling house: "I went out the other day to see
 Mr. Horace Cox, the manager of the Field newspaper,
 who lives at Harrow. His house is heated by a hot-water
@@ -108,7 +108,7 @@ a piece of old carpet or matting over the boxing.
 ## Advantages for Families
 
 The dwelling-house cellar offers several advantages for
-small-scale mushroom cultivation:
+small-scale [[mushroom-cultivation]]:
 
 - Minimal additional infrastructure required
 - Proximity to the kitchen for convenient harvesting
@@ -127,4 +127,6 @@ mushrooms throughout the winter months.
 ## See Also
 
 - [[mushroom-growing-house-construction-low-cost]]
-- [[oyster-mushroom-growing-house-site-selection]]
+- oyster-mushroom-growing-house-site-selection
+- [[low-cost-mushroom-growing-house-construction-developing-countries]]
+- [[oyster-mushroom-growing-house-types]]

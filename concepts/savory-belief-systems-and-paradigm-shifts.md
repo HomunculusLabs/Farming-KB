@@ -10,7 +10,7 @@ type: concept
 
 # Belief Systems and Paradigm Shifts
 
-Throughout Holistic Resource Management, Savory repeatedly emphasizes that
+Throughout [[savory-holistic-resource-management-animal-impact]] Management, Savory repeatedly emphasizes that
 deeply held beliefs and entrenched attitudes represent the greatest barriers
 to reversing environmental deterioration. The four missing keys he identifies
 were each discovered separately over sixty years but were ignored, forgotten,
@@ -56,7 +56,7 @@ fails catastrophically in others.
 ## Beliefs That Hinder Sound Management
 
 Several specific beliefs have impeded the development and acceptance of
-holistic management. A fundamental belief embraced throughout the world holds
+[[savory-holistic-management-overview]]. A fundamental belief embraced throughout the world holds
 that overstocking causes range deterioration and that reducing animal numbers
 will restore health. This belief, derived from experience in nonbrittle
 European environments, was applied universally despite its failure in brittle
@@ -66,7 +66,7 @@ Another deeply held belief is that all land damaged by grazing animals will
 recover if simply left undisturbed. Savory's own experience in Zimbabwe
 contradicted this: areas where game was removed and livestock excluded
 continued to deteriorate despite good rainfall, because the brittle
-environment required periodic disturbance from animal impact to maintain
+environment required periodic disturbance from [[savory-animal-impact-and-herd-effect]] to maintain
 soil health and [[savory-reductionist-vs-holistic-science]]
 - [[savory-holistic-decision-making]]
 - [[savory-testing-and-management-guidelines]]
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

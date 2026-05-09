@@ -15,7 +15,7 @@ sources: [mckenna_t-food_of_the_gods.md]
 ---
 # Archaic Sexuality and the Partnership Society
 In *Food of the Gods*, Terence McKenna develops a detailed contrast between the sexual politics of the archaic partnership society and the dominator society that replaced it.
-Drawing on ethnographic evidence from the Bwiti cults of West Africa, archaeological evidence from Neolithic goddess cultures, and the theoretical frameworks of Riane Eisler and Jean Baker Miller, McKenna argues that the shift from partnership to dominator models fundamentally transformed human sexuality, family structure, and the relationship between the sexes.
+Drawing on ethnographic evidence from the Bwiti cults of West Africa, archaeological evidence from Neolithic goddess cultures, and the theoretical frameworks of Riane Eisler and Jean Baker Miller, McKenna argues that the shift from partnership to dominator models fundamentally transformed human sexuality, [[md-family-structure-activity]], and the relationship between the sexes.
 ## The Partnership Model of Sexuality
 An open and nonproprietary approach to sexuality is fundamental to the partnership model.
 This tendency was synergized and strengthened by the orgiastic behavior that was certainly a part of the African Goddess and mushroom religion.
@@ -48,12 +48,12 @@ Family organization in the partnership model is not rigid and hierarchical. Chil
 In such a milieu, a child has many different relationships and a variety of role models. Group values are not usually at odds with that of the individual. Adolescent sexual experimentation is expected and encouraged.
 Couples may bond for any number of reasons related to themselves and the welfare of the group; such bonding may be but is not necessarily lifelong. Sexuality is rarely taboo in such societies, only becoming so as a result of contact with dominator values.
 ## The Dominator Suppression of Sexuality
-For easily discerned reasons, the dominator societies that arose to replace partnership societies were far less eager to suppress group sexual activities than they were to suppress the hallucinogenic mushroom religion.
+For easily discerned reasons, the dominator societies that arose to replace partnership societies were far less eager to suppress group sexual activities than they were to suppress the [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]] religion.
 Group sexual activity without the dissolution of the dominator ego would help the most ego-obsessed males gain power and rise in the social hierarchy. Since domination of others ultimately includes sexual domination as well, this would explain the persistence of orgies and group sexual activities in many of the mystery religions, at the festivals of Dionysus and the Roman Saturnalia.
 Eventually, however, the dominator anxiety about the establishing of clear lines of male paternity outweighed all other considerations. Then ego domination finally achieved complete preeminence.
 Through Christianity's ruthless extermination of all heterodoxy, orgies were recognized and suppressed as the subversive, boundary-dissolving activities that they are.
 The generally hostile attitude of dominator society toward sexual expression can be traced to the terror that the dominator ego feels in any situation in which boundaries are dissolved, even the most pleasurable and natural of situations.
-The French notion of orgasm as petit mort perfectly encapsulates the fear and fascination that boundary-dissolving orgasm holds for dominator cultures.
+The French notion of orgasm as petit mort perfectly encapsulates the fear and fascination that boundary-dissolving orgasm holds for [[partnership-and-dominator-cultures-in-human-history]].
 Since the abandonment of our sojourn with mushroom use in the African Eden, we have only become progressively more bestial in our treatment of one another.
 ## Power and Powerlessness
 McKenna draws on Jean Baker Miller's insight that the so-called need to control and dominate others is psychologically a function, not of a feeling of power, but of a feeling of powerlessness.
@@ -65,7 +65,7 @@ The suppression of the mushroom religion was therefore simultaneously the suppre
 See also: [[mckenna-fall-of-partnership-society]], [[mckenna-dioscorea-population-reproduction-effects]], [[mckenna-dominator-vs-partnership-society-model]], [[mckenna-food-gods-ibogaine-bwiti-fang]], [[mckenna-agriculture-and-the-fall-from-paradise]]
 ## Practical Considerations
 
-Successful implementation of Mckenna Archaic Sexuality And Partnership Society requires attention to
+Successful implementation of Mckenna Archaic mckenna archaic sexuality and partnership society Society requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: Fermented Plant Juice (FPJ)
+title: bionutrients-lab-fermented-plant-juice-fpj (FPJ)
 source: chos-global-natural-farming.md
 tags:
   - natural-farming
@@ -10,7 +10,7 @@ tags:
 ---
 # Fermented Plant Juice (FPJ)
 
-Fermented Plant Juice (FPJ) is a core natural farming input developed by [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]] while preserving their biological activity. The result is a dark amber liquid that contains:
+Fermented Plant Juice (FPJ) is a core [[comparison-natural-farming-vs-permaculture]] input developed by [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]] while preserving their biological activity. The result is a dark amber liquid that contains:
 
 - **Plant growth hormones** — auxins, gibberellins, cytokinins, and ethylene precursors that regulate cell division, elongation, and differentiation.
 - **Enzymes** — including amylases, proteases, and various oxidoreductases that support metabolic processes in the target crop.
@@ -21,7 +21,7 @@ FPJ is not a fertilizer in the conventional sense. It does not supply large quan
 
 ## Role in the Nutritive Cycle
 
-FPJ is closely tied to the [[holzer-stone-fruit-varieties-and-growing]] include: bamboo shoots (universal), sweet potato vines (tropical and subtropical), mugwort and comfrey (temperate), azolla (aquatic and wetland systems), and various leguminous plants (nitrogen-fixing species produce especially rich FPJ). The key is always freshness and vigor — wilted or stressed plant material will produce inferior FPJ.
+FPJ is closely tied to the [[holzer-stone-fruit-varieties-and-growing]] include: bamboo shoots (universal), sweet potato vines (tropical and subtropical), mugwort and comfrey (temperate), azolla ([[permaculture-plants-aquatic-and-wetland-species]] systems), and various leguminous plants (nitrogen-fixing species produce especially rich FPJ). The key is always freshness and vigor — wilted or stressed plant material will produce inferior FPJ.
 
 ## How FPJ Is Made
 
@@ -49,13 +49,13 @@ Brown sugar is preferred over refined white sugar because it contains trace mine
 7. **Storage**: Store FPJ in a glass or plastic container in a cool, dark place. When properly stored, FPJ can last 6–12 months. Refrigeration extends shelf life. Sediment settling at the bottom is normal and harmless — simply shake before use.
 
 The fermentation relies on naturally occurring microorganisms — particularly lactic acid bacteria — present on the plant surfaces. This is the same principle behind [[cho-han-kyu]]'s philosophy is that farmers should use locally available plant species. There is no single "best" plant for FPJ — the principle is to select vigorous, healthy, fast-growing local species.
-- **Observation over prescription**: Natural farming encourages careful observation of crop response. If plants show excessive vegetative growth (lush but weak), reduce FPJ application. If growth is sluggish, increase frequency slightly.
+- **Observation over prescription**: Natural farming encourages careful observation of crop response. If plants show excessive [[cannabis-vegetative-growth-stage]] (lush but weak), reduce FPJ application. If growth is sluggish, increase frequency slightly.
 - **Storage and quality**: Discard FPJ that develops an off-odor (putrid rather than sweet-sour), mold on the surface, or unusual coloration. Properly made FPJ has a pleasant sweet-sour smell and a dark amber to brown color. The liquid should be clear to slightly cloudy, never murky or opaque. Label each batch with the source plant species and harvest date for future reference.
 
 ## See Also
 
 - [[indigenous-microorganisms-imo]] — the microbial foundation of Korean Natural Farming
-- fermented fruit juice ffj — the reproductive-stage companion to FPJ
+- [[bionutrients-lab-fermented-fruit-juice-ffj]] juice ffj — the reproductive-stage companion to FPJ
 - [[cho-han-kyu]] — founder of Korean Natural Farming
 ## Practical Considerations
 
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

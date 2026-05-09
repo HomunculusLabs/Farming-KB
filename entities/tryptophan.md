@@ -34,7 +34,7 @@ Plants, fungi, and bacteria synthesize tryptophan de novo via the **shikimate pa
 4. Anthranilate undergoes phosphoribosyl transfer and a series of rearrangements to form **indole-3-glycerol phosphate**
 5. Tryptophan synthase catalyzes the final condensation with serine to yield tryptophan
 
-This pathway is absent in animals, which is why tryptophan is an essential amino acid for humans. The shikimate pathway is also the biosynthetic origin of many plant secondary metabolites and is the target of the herbicide glyphosate.
+This pathway is absent in animals, which is why tryptophan is an essential amino acid for humans. The shikimate pathway is also the biosynthetic origin of many plant [[antifungal-secondary-metabolites-coprophilous-fungi]] and is the target of the herbicide glyphosate.
 
 ### Mammalian Metabolism
 

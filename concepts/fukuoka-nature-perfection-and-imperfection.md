@@ -1,6 +1,6 @@
 ---
 title: "Fukuoka on Nature's Fundamental Perfection"
-aliases: [nature perfection imperfection, Darwin critique, natural farming philosophy nature]
+aliases: fukuoka nature perfection and imperfection imperfection, Darwin critique, natural [[fukuoka-do-nothing-farming-philosophy-and-practice]] nature]
 tags: [natural-farming, philosophy, ecology, fukuoka, nature-study]
 source: masanobu-fukuoka-the-road-back-to-nature.md
 ---
@@ -80,7 +80,7 @@ misunderstanding. Where Darwin saw progressive development from simple
 to complex forms, Fukuoka sees only changes in outward appearance. The
 underlying reality remains constant and perfect.
 
-He offers evidence from his fields: insects create new rice varieties.
+He offers evidence from his fields: [[fukuoka-insects-create-new-rice-varieties]] new rice varieties.
 This might support the idea of random creation and increasing abundance,
 but Fukuoka interprets it as evidence of nature's inherent capacity for
 thriving — not a progression from imperfection.
@@ -97,11 +97,11 @@ Nature's perfection yields Fukuoka's five principles: no tillage, no
 fertilizer, no pesticides, no pruning, no weeding. The farmer's role
 is not to improve nature but to step aside and allow it to express its
 inherent order. This "do-nothing farming" produces yields equal to or
-better than scientific farming while requiring a fraction of the labor.
+better than [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] while requiring a fraction of the labor.
 
 Every intervention by human knowledge moves the system away from its
 natural state. The irony is that eliminating human action entirely —
-reducing labor to essentially sowing seed and spreading straw —
+reducing labor to essentially [[fukuoka-sowing-seed-ball-desert-revegetation]] and spreading straw —
 produces superior results. Nature, not man, grows the rice and wheat.
 
 ## The Great Spirit

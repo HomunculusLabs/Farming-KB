@@ -1,5 +1,5 @@
 ---
-title: Cannabis Soil Mixes - Greg Green's Cannabis Grow Bible
+title: Cannabis Soil Mixes - Greg Green's green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible
 created: 2026-04-26
 updated: 2026-04-25
 sources:
@@ -15,7 +15,7 @@ successful. Don't be surprised to find a worm or green fly.
 
 Humus is also sometimes called compost. Compost is the final mixture
 of manure (organic origin), loam soil, and other mediums with added
-organic matter. Humus is the added organic matter itself.
+[[hamilton-composting-and-organic-matter-management]]. Humus is the added organic matter itself.
 
 ## Soil Amendments and Additives
 
@@ -33,7 +33,7 @@ soil. Treat the same way as perlite.
 
 ### Perlite and Vermiculite Benefits
 
-- Improve soil drainage
+- [[query-how-do-i-improve-soil-drainage-in-my-garden]]
 - Increase aeration for root breathing
 - Prevent soil compaction
 - Help maintain moisture balance
@@ -58,7 +58,7 @@ beginners who may over-water. However, drainage can leech nutrients.
 **Non-perforated pots:** Used by advanced growers who never over-water.
 No nutrient leeching occurs. Better control over moisture and feeding.
 
-**Double-potting technique:** During vegetative growth, cut the bottom
+**Double-potting technique:** During [[cannabis-vegetative-growth-stage]], cut the bottom
 away from the top pot and place on a new pot with fresh soil. Roots
 grow down into the next pot. This creates a thicker stem.
 
@@ -70,7 +70,7 @@ grow down into the next pot. This creates a thicker stem.
 4. Check pH before and during use
 5. Look for loose, medium-weight soil structure
 6. Consider perlite/vermiculite for improved drainage
-7. Match NPK ratio to growth stage
+7. Match NPK ratio to [[cho-plant-growth-stage-treatment-protocols]]
 8. Keep soil sterile -- no outdoor soil, sticks, or organic matter
    from outside
 

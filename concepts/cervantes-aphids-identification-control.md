@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -21,7 +22,7 @@ type: concept
 Aphids, also called plant lice, are about the size of a pinhead
 and easy to spot with the naked eye, though a 10X magnifying
 glass aids positive identification. Aphids are found in all
-climates and represent one of the most common indoor cannabis
+climates and represent one of the most common [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]]
 pests. Their rapid reproduction and ability to vector viruses
 make them a serious threat to any garden.
 
@@ -36,7 +37,7 @@ day. Each female reproduces between 40 and 100 offspring that
 start reproducing soon after birth.
 
 Aphids are most common indoors when they are plentiful outdoors.
-Install yellow sticky traps near the base of several plants and
+Install yellow [[cervantes-sticky-traps-pest-monitoring]] near the base of several plants and
 near the tops of others to monitor invasions of winged aphids,
 which are often the first to enter the garden.
 
@@ -106,7 +107,7 @@ control without introducing toxic chemicals to the garden.
 
 The best defense against aphids starts with garden hygiene:
 
-- Keep [[aphids-cannabis]] - general aphid management for cannabis
+- Keep [[aphids-cannabis]] - general [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]] for cannabis
 - [[cervantes-neem-oil-organic-pest-control]] - organic aphid
   control
 - [[cervantes-homemade-pest-disease-sprays]] - DIY spray recipes

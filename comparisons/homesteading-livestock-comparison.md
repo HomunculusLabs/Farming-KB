@@ -28,7 +28,7 @@ sources:
 
 Choosing livestock for a homestead depends on your goals (eggs, meat, milk, pollination), available space, budget, and experience level. Each species has distinct advantages and challenges. This comparison covers the most common homestead animals, synthesized from [[chicken-keeping]], [[duck-keeping]], [[rabbit-husbandry]], [[goat-husbandry]], and [[beekeeping-basics]].
 
-The most successful homesteads start with one species, learn the rhythms of daily animal care, then add species that complement existing systems. Chickens are the universal starting point — low cost, low space, quick return. From there, the choice depends on your priorities: efficient meat production (rabbits), dairy (goats), pest control and eggs (ducks), or pollination and honey (bees).
+The most successful homesteads start with one species, learn the rhythms of daily animal care, then add species that complement existing systems. Chickens are the universal starting point — [[jadam-ultra-low-cost-agriculture]], low space, quick return. From there, the choice depends on your priorities: efficient meat production (rabbits), dairy (goats), [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] and eggs (ducks), or pollination and honey (bees).
 
 ## Livestock Comparison Table
 
@@ -57,7 +57,7 @@ The most successful homesteads start with one species, learn the rhythms of dail
 
 **Quail** require the least space (1 sq ft/bird in cages) and produce the fastest — eggs in 6 weeks, meat in 6 weeks. They are ideal for urban and suburban homesteads where chickens or ducks may not be allowed. Coturnix quail are nearly silent.
 
-**Chickens and ducks** need similar space (3-4 sq ft indoor, 8-10 sq ft outdoor per bird). A chicken tractor allows rotational grazing without permanent infrastructure.
+**Chickens and ducks** need similar space (3-4 sq ft indoor, 8-10 sq ft outdoor per bird). A [[comparison-chicken-tractor-vs-free-range]] allows [[comparison-rotational-grazing-vs-continuous-grazing]] without permanent infrastructure.
 
 **Goats** need the most space due to their browsing behavior and fencing requirements. The real cost of goats is fencing — woven wire plus electric offset wire at top and bottom. Budget $500-1000+ for adequate fencing before purchasing any goats.
 
@@ -70,7 +70,7 @@ The most successful homesteads start with one species, learn the rhythms of dail
 ### Integration with Homestead Systems
 
 - **Chickens** accelerate [[composting-systems]] by scratching and mixing pile contents; their manure adds nitrogen
-- **Ducks** provide slug and snail control in gardens and orchards; their manure enriches [[soil-fertility-management]]
+- **Ducks** provide [[hamilton-slug-and-snail-control]] control in gardens and orchards; their manure enriches [[soil-fertility-management]]
 - **Rabbits** produce cold manure directly applicable to gardens; waste from [[cover-cropping-guide]] plants feeds them
 - **Goats** clear brush and invasive species in [[food-forest-design]]; manure composts into excellent soil amendment
 - **Bees** pollinate [[food-forest-design]], orchard crops, and vegetable gardens across the entire property

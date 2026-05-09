@@ -1,5 +1,5 @@
 ---
-title: Cannabis Extraction Solvents
+title: comparison-cannabis-extraction-basics-vs-extraction-methods Solvents
 created: 2026-04-28
 tags: [cannabis, solvents, extraction, chemistry, safety]
 date: 2026-04-28
@@ -33,7 +33,7 @@ waxes, and plant pigments. Key considerations include:
 
 ## Ethanol Extraction
 
-Ethanol (ethyl alcohol) is widely regarded as the safest and most versatile
+Ethanol ([[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]]) is widely regarded as the safest and most versatile
 cannabis extraction solvent. It is food-grade, non-toxic, and effective at
 dissolving a wide range of cannabis compounds. The FDA classifies ethanol as
 GRAS (Generally Recognized As Safe), making it the preferred solvent for

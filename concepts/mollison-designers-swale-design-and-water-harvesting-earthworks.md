@@ -1,5 +1,5 @@
 ---
-title: Swale Design and Water Harvesting Earthworks
+title: comparison-swale-design-vs-contour-swale-irrigation-design and Water pdc-water-harvesting-earthworks-design
 created: 2026-04-28
 tags:
   - permaculture
@@ -68,7 +68,7 @@ and should be immediately stabilized with mulch and planted with [[mollison-desi
 skeleton of the water management system, with each swale supporting a
 productive polyculture strip.
 
-On the uphill side of the swale trench, nitrogen-fixing ground covers and
+On the uphill side of the swale trench, nitrogen-fixing [[permaculture-plants-food-forest-ground-covers-bamboos]] and
 herbaceous plants help filter sediment from incoming water. The trench itself
 can be planted with species tolerant of periodic waterlogging, such as
 willows, tagasaste, or comfrey. The berm receives the driest and most
@@ -100,7 +100,7 @@ Other common failures include:
 ## Multi-Function Swale Systems
 
 Beyond water harvesting, swales serve multiple functions in a permaculture
-landscape. They create microclimates by modifying air drainage and temperature.
+landscape. They [[query-how-do-i-create-microclimates-in-my-garden]] by modifying [[hemenway-cold-air-drainage-and-frost-management]] and temperature.
 They provide access paths along contour for management activities. They can be
 integrated with [[mollison-designers-intensifying-small-farm-production]],
 swale systems dramatically increase the productive area available for crops.
@@ -110,13 +110,16 @@ swale systems dramatically increase the productive area available for crops.
 > **Definition:** A swale is a level trench excavated on contour, with the
 > excavated soil formed into a berm on the downhill side, designed to capture
 > surface runoff, infiltrate it into the soil, and distribute moisture across
-> the landscape. Swales are fundamental permaculture earthworks that reduce
+> the landscape. Swales are fundamental [[query-what-are-permaculture-earthworks-and-how-do-i-plan-them]] that reduce
 > erosion, recharge groundwater, support tree and crop establishment, and
 > increase landscape productivity when properly designed, constructed, and
 > maintained with appropriate spillways and vegetation.
 
 ## Merged: What Earthworks Should I Use For Water Harvesting?
-## Related Questions
+## Related
+
+- [[mollison-meadow-design-and-plant-assemblies]]
+- [[mollison-spiral-patterns-in-nature-and-design]] Questions
 
 - [[query-how-do-i-set-up-a-rainwater-harvesting-system-for-my-garden]]
 - [[query-how-do-i-design-a-windbreak-or-shelterbelt-for-my-property]]

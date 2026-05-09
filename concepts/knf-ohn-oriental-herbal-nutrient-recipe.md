@@ -1,5 +1,5 @@
 ---
-title: KNF Oriental Herbal Nutrient Recipe
+title: KNF bionutrients-lab-oriental-herbal-nutrients-ohn Nutrient Recipe
 created: 2026-04-28
 tags: [knf, ohn, herbal-nutrient, fermentation, korean-natural-farming]
 date: 2026-04-27
@@ -10,8 +10,8 @@ type: concept
 
 # KNF Oriental Herbal Nutrient Recipe
 
-Oriental Herbal Nutrient (OHN) is a core Korean Natural Farming (KNF) input
-made from a specific combination of medicinal herbs. Developed by Master
+Oriental Herbal Nutrient (OHN) is a core Korean [[comparison-natural-farming-vs-permaculture]] (KNF) input
+made from a specific combination of [[permaculture-plants-medicinal-herbs-healing]]. Developed by Master
 Han-Kyu Cho, OHN functions to increase plant robustness, sterilize against
 pathogens, and keep plants warm during cold periods. OHN revitalizes crops and
 activates their growth, making it one of the most versatile inputs in the KNF
@@ -123,6 +123,6 @@ times, dramatically increasing yield and reducing cost.
 ## Application Rates
 
 Standard dilution for OHN is 1:1,000 (1 part OHN to 1,000 parts water). OHN
-is commonly combined with other KNF inputs including [[knf-imo-four-stage-cultivation]], and [[knf-fermented-seawater-preparation]]
+is commonly combined with other [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]] including [[knf-imo-four-stage-cultivation]], and [[knf-fermented-seawater-preparation]]
 - [[knf-water-soluble-calcium]]
 - [[cho-natural-farming-inputs-overview]]

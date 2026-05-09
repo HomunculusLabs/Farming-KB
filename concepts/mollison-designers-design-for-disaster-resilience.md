@@ -1,5 +1,5 @@
 ---
-title: Design for Disaster Resilience
+title: mollison designers design for disaster resilience Resilience
 created: 2026-04-28
 tags:
   - disaster-resilience
@@ -32,10 +32,10 @@ Mollison's flood-resilient design strategies include:
 - **Site selection:** Avoid building in floodplains, natural drainage
   channels, and alluvial fans. Map historical flood levels and design
   above maximum recorded flood height plus a safety margin
-- **Water management:** Design [[gaias-garden-woody-soil-building-dead-wood-swale]] that slow, spread, and infiltrate water across the
+- **Water management:** Design gaias-garden-woody-soil-building-dead-wood-swale that slow, spread, and infiltrate water across the
   landscape rather than concentrating flow. Swales on contour prevent
   erosion and reduce peak runoff velocity
-- **Drainage infrastructure:** Construct diversion drains, spillways,
+- **Drainage infrastructure:** Construct [[mollison-designers-diversion-drains-and-interceptor-banks]], spillways,
   and overflow channels to safely route excess water around vulnerable
   areas. Key infrastructure (houses, animal shelters, storage) should
   have redundant drainage systems
@@ -47,7 +47,7 @@ Mollison's flood-resilient design strategies include:
   critical infrastructure above flood level using earth berms,
   raised foundations, or stilt construction
 - **Emergency water supply:** Store drinking water in elevated
-  locations accessible during floods. Design [[food-forest-design]] design inherently more flood-resilient
+  locations accessible during floods. Design  design inherently more flood-resilient
 than conventional agriculture.
 
 ## Fire-Resistant Landscapes
@@ -65,13 +65,13 @@ describes fire-resistant landscape design:
   side of a house provides effective protection
 - **Water access:** Ensure reliable water sources with sufficient
   pressure for firefighting
-- **Building materials:** Use fire-resistant materials -- metal roofs,
+- **[[natural-building-materials-guide]]:** Use fire-resistant materials -- metal roofs,
   earth walls ([[mollison-designers-straw-bale-building-techniques]] with
   non-combustible plaster. Avoid flammable cladding
 - **Access design:** Maintain wide access roads (minimum 4 meters) for
   firefighting vehicles
 
-Mollison emphasizes that fire is a natural ecosystem process. Design
+Mollison emphasizes that fire is a [[fukuoka-natural-ecosystem-food-chain-interconnection]] process. Design
 should accommodate fire as a periodic disturbance while protecting
 human life and critical infrastructure.
 
@@ -82,7 +82,7 @@ earthquake risks:
 
 - **Building design:** Use flexible, lightweight construction
   methods that absorb seismic energy rather than rigid structures
-  that fracture. Timber frame, bamboo, and earthen construction with
+  that fracture. Timber frame, bamboo, and [[pdc-earthen-construction-techniques]] with
   reinforcement perform well in earthquakes. [[rainwater-harvesting-systems]] tanks with flexible connections
 - **Infrastructure redundancy:** Distribute water storage, food
   storage, and energy systems across multiple locations so that no
@@ -100,7 +100,7 @@ Drought resilience is fundamental to permaculture design:
   nitrogen-fixers, and food-producing trees
 - **Soil development:** Build deep, organic-rich soils with high water
   holding capacity through [[soil-building-permaculture]]
-- **Microclimate creation:** Shade, windbreaks, and mulch reduce
+- **[[mollison-designers-microclimate-creation-frost-protection]]:** Shade, windbreaks, and mulch reduce
   evapotranspiration. [[food-forest-design]]
   systems and community gardens build food security
 - **Skill sharing:** Community workshops in first aid, construction,

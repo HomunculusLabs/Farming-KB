@@ -1,5 +1,5 @@
 ---
-title: Range Management and Wildlife Integration
+title: mollison pdc range management wildlife and Wildlife Integration
 created: 2026-04-28
 tags:
   - permaculture
@@ -18,7 +18,7 @@ type: concept
   behavior of grazing herbivores
 - This breaks parasite cycles as larvae die before animals return
 
-The PDC references Allan Savory's work with rotational grazing systems
+The PDC references Allan Savory's work with [[comparison-rotational-grazing-vs-continuous-grazing]] systems
 and the dramatic restoration of degraded grasslands through proper
 grazing management. The principle: "The land needs the animals, but the
 animals need to be managed."
@@ -28,7 +28,7 @@ animals need to be managed."
 Understanding grassland dynamics is essential for range management:
 
 - Grass plants need periodic defoliation to stimulate root dieback and
-  [[acacia]] pods, [[tagasaste]] (tree lucerne) produces protein-rich fodder year-round
+  [[acacia]] pods, tagasaste (tree lucerne) produces protein-rich fodder year-round
 - Cactus (Opuntia) provides emergency fodder and water in deserts
 
 ## Integration of Livestock Types
@@ -49,7 +49,7 @@ Permaculture fencing strategies minimize materials while achieving
 effective animal control:
 
 - Electric fencing enables rapid paddock subdivision and rotation
-- Living fences (hedges, woven branches) provide shelter and corridors
+- [[comparison-living-fences-vs-hedgerows]] (hedges, woven branches) provide shelter and corridors
 - Natural barriers (waterways, slopes, thorny thickets) reduce fencing
 - Permanent fencing should follow contours and waterways, not straight
 
@@ -61,7 +61,7 @@ Strategic water placement controls grazing distribution:
   congregate there causing severe overgrazing and erosion
 - Multiple water points distribute grazing pressure across the paddock
 - Water points should be moved periodically in extensive systems
-- Shade should be available near water to reduce heat stress
+- Shade should be available near water to reduce [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]]
 - Water reticulation (pipes, troughs) is cheaper than fencing in many
   situations and provides better animal distribution
 
@@ -92,3 +92,9 @@ Range design should incorporate wildlife needs:
 - Create pond and wetland areas for waterfowl and amphibians
 - Avoid monoculture pastures -- diverse plantings support more wildlife
   species
+## See Also
+- [[poultry-range-management-mollison]]
+- [[mollison-game-species-management-range]]
+- [[mollison-designers-winter-forest-foraging-wildlife-cooperation]]
+- [[mollison-designers-cloudburst-and-stormwater-management]]
+- [[mollison-designers-coppicing-management-of-legume-trees]]

@@ -1,5 +1,5 @@
 ---
-title: DNA Barcoding for Fungal Identification
+title: DNA Barcoding for pcr-methods-fungal-identification-monitoring
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # DNA Barcoding for Fungal Identification
 
-DNA barcoding uses short, standardized DNA sequences to identify fungal species. The Internal Transcribed Spacer (ITS) region has been adopted as the official fungal barcode, revolutionizing fungal identification and biodiversity assessment.
+DNA barcoding uses short, standardized DNA sequences to identify fungal species. The Internal Transcribed Spacer (ITS) region has been adopted as the official fungal barcode, revolutionizing fungal dna barcoding fungal identification assessment.
 
 ## The Fungal Barcode: ITS Region
 
@@ -44,13 +44,13 @@ DNA barcoding uses short, standardized DNA sequences to identify fungal species.
 
 ### Metabarcoding
 - High-throughput sequencing of ITS amplicons from environmental samples (soil, water, air)
-- Reveals fungal community composition without cultivation
+- Reveals fungal [[core-endorhiza-bacterial-community-composition-cannabis]] without cultivation
 - Can detect rare and unculturable species
-- Dramatically increases estimates of fungal diversity
+- Dramatically increases estimates of [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - Reveals that cultivation detects only a fraction of actual diversity
 
 ### Environmental Sampling
-Soil DNA extraction followed by ITS metabarcoding reveals fungal communities that are:
+Soil DNA extraction followed by ITS metabarcoding reveals [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] that are:
 - Far more diverse than culture-based surveys
 - Include many unculturable species
 - Include both active and dormant organisms
@@ -104,12 +104,12 @@ DNA barcoding and metabarcoding have revealed that:
 - Cultivation detects only a fraction of actual fungal diversity
 - Soil fungal communities are far more complex than previously thought
 - Many putatively cosmopolitan species are actually complexes of cryptic species
-- Tropical fungal diversity is vastly underestimated
+- [[biodiversity-fungi-tropical-fungal-diversity]] diversity is vastly underestimated
 - Fungal endophyte communities are extraordinarily diverse
 
 ## See Also
 
 - [[ribosomal-rna-sequencing-yeast-identification]]
-- [[fungal-phylogeny-kingdom-classification]]
+- fungal-phylogeny-kingdom-classification
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
 - [[rhizosphere-fungal-community-analysis-rrna-rdna]]

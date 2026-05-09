@@ -4,14 +4,15 @@ created: 2026-04-28
 tags: [query, biochar, soil-amendment, carbon, organic]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
 # What Is Biochar and Should I Use It in My Garden?
 
 ## Short Answer
-Biochar is a carbon-rich material produced by pyrolyzing biomass (burning organic matter
+Biochar is a carbon-rich material produced by pyrolyzing biomass (burning [[hamilton-composting-and-organic-matter-management]]
 in the absence of oxygen), resulting in a porous, stable charcoal that improves soil
 structure, water retention, and nutrient holding capacity. It can be a valuable long-term
 soil amendment when properly charged (pre-inoculated with nutrients and microbes), but
@@ -31,7 +32,7 @@ chemical mechanisms by which biochar modifies soil properties, and the
 [[comparison-biochar-vs-compost]] page discusses the synergy between biochar and compost,
 noting that biochar works best as a complement to rather than a replacement for compost.
 
-The long-term carbon sequestration potential of biochar is one of its most compelling
+The long-term [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] potential of biochar is one of its most compelling
 benefits. Unlike compost, which decomposes and releases its carbon back to the atmosphere
 within a few years, biochar is extremely stable and can persist in soil for hundreds to
 thousands of years. This makes biochar application a form of carbon-negative agriculture,
@@ -39,11 +40,11 @@ removing carbon dioxide from the atmosphere and locking it into a stable soil fo
 [[mollison-designers-charcoal-production-biochar-soil-amendment]] page discusses biochar in the context of permaculture
 design systems.
 
-Biochar also creates habitat for beneficial soil microorganisms. Its porous structure
-provides refuge for mycorrhizal fungi, beneficial bacteria, and protozoa, protecting
+Biochar also creates [[query-how-do-i-design-habitat-for-beneficial-insects]] soil microorganisms. Its porous structure
+provides refuge for [[arbuscular-mycorrhizal-fungi-biology-symbiosis]], beneficial bacteria, and protozoa, protecting
 them from predation and desiccation. The [[biochar-soil-remediation]] page covers this application
 in detail, noting that biochar's effectiveness varies depending on the specific
-contaminant, soil conditions, and biochar production parameters. While this is more
+contaminant, soil conditions, and [[comparison-biochar-production-guide-vs-biochar-soil-amendment]] parameters. While this is more
 relevant to contaminated industrial sites than home gardens, it demonstrates the
 remarkable versatility of this material.
 
@@ -56,7 +57,7 @@ remarkable versatility of this material.
 - Biochar provides habitat for mycorrhizal fungi and beneficial soil microorganisms
   [[comparison-biochar-vs-compost]]
 
-Application rates for biochar depend on your goals. For general soil improvement, a
+[[ingham-compost-tea-application-rates-and-timing]] for biochar depend on your goals. For general soil improvement, a
 rate of 5 to 10 percent by volume (about half to one inch mixed into the top six
 inches of soil) is commonly recommended. New research suggests that smaller, more
 frequent applications may be more effective than large single doses, as this allows
@@ -83,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

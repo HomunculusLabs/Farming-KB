@@ -1,5 +1,5 @@
 ---
-title: "Neem Oil vs Bacillus Thuringiensis"
+title: "Neem Oil vs cervantes-bacillus-thuringiensis-bt-control"
 tags: [comparison, pest-control, organic-agriculture, biocontrol, ipm]
 date: 2026-05-08
 updated: 2026-05-08
@@ -18,7 +18,7 @@ extract that disrupts insect hormone systems, while Bt is a soil bacterium
 that produces crystal proteins lethal only to specific insect orders after
 ingestion. Understanding these differences is essential for choosing the
 right tool for a given pest problem and for integrating both into an
-effective integrated pest management (IPM) strategy.
+effective [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management (IPM) strategy.
 
 ## Neem Oil
 
@@ -36,8 +36,8 @@ Bt's power lies in its narrow specificity. Different Bt strains target
 different insect orders: Btk (kurstaki) targets caterpillars (Lepidoptera),
 Bti (israelensis) targets mosquito and blackfly larvae (Diptera), and Btt
 (tenebrionis) targets beetles (Coleoptera). This means Bt can be applied
-without harming most beneficial insects, including pollinators, predatory
-mites, and parasitoid wasps. Mammals, birds, and fish are unaffected
+without harming most [[coleman-beneficial-insects-and-ecological-pest-control]], including pollinators, predatory
+mites, and [[comparison-parasitoid-wasps-vs-chemical-pesticides]]. Mammals, birds, and fish are unaffected
 because their acidic digestive systems do not activate the Cry proteins.
 
 The main limitation of Bt is that it must be ingested to work, so
@@ -69,11 +69,11 @@ repeatedly without rotation or refuge strategies.
 ## When to Choose Neem Oil
 
 Neem oil excels in situations requiring multi-pest coverage or where
-fungal disease accompanies insect pressure. Its antifeedant and
+[[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] accompanies insect pressure. Its antifeedant and
 repellent properties make it a strong preventive tool, especially early in
 the season when pest populations are low and the goal is deterrence rather
 than eradication. Neem is also the better choice for spider mite
-infestations and powdery mildew outbreaks, which Bt cannot address. In
+infestations and [[cervantes-powdery-mildew-prevention-treatment]] outbreaks, which Bt cannot address. In
 permaculture systems with high plant diversity, neem's broad but mild
 activity is often preferable to Bt's narrow lethality because it disrupts
 fewer non-target ecological relationships.
@@ -102,6 +102,8 @@ product leaves harmful residues on produce, and both are approved for
 organic certification under most programs.
 
 ## See Also
+
+- comparison-neem-oil-vs-pyrethrin
 
 - [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]
 - [[comparison-predatory-mites-vs-ladybugs-biocontrol]]

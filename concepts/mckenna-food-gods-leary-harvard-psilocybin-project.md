@@ -19,9 +19,9 @@ type: concept
 
 # McKenna on Leary at Harvard and the Psilocybin Project
 
-In [[mckenna-food-of-the-gods-thesis]], the Harvard years
+In , the Harvard years
 of the early 1960s represent a pivotal and paradoxical moment in the history of
-psychedelic research. Within the same institution, two radically different approaches to
+[[mckenna-suppression-psychedelic-research-lsd-therapy]]. Within the same institution, two radically different approaches to
 the study of psychoactive plants coexisted: the meticulous ethnobotany of Richard Evans
 Schultes and the explosive social experimentation of [[richard-evans-schultes]] was, in McKenna's telling, "the reticent Brahmin, scholar, and
 botanist/scientist" — a man of traditional academic disposition who had spent years in
@@ -37,7 +37,7 @@ that either Leary or Schultes saw much to like in the other," a tension that mir
 the broader cultural fault line between scientific caution and psychedelic enthusiasm.
 
 This contrast is not merely biographical for McKenna; it is emblematic of the fundamental
-choice facing anyone who encounters the psychedelic experience. One can approach it as
+choice facing anyone who encounters the [[leary-psychedelic-experience-bardo-mapping]]. One can approach it as
 Schultes did — with scholarly distance and methodological caution — or as Leary did, with
 total personal commitment and a willingness to let the experience reshape one's entire
 worldview. McKenna favours the latter, though he respects the former as a corrective.
@@ -45,7 +45,7 @@ worldview. McKenna favours the latter, though he respects the former as a correc
 ## Leary's Mushroom Origins
 
 McKenna is careful to situate Leary's psychedelic career within the broader context of
-the Mexican mushroom tradition. Leary's earliest psychedelic experience was not with LSD
+the [[gartz-wasson-mexican-mushroom-cult-rediscovery]] tradition. Leary's earliest psychedelic experience was not with LSD
 but with [[psilocybin-mushroom]] — not LSD — represents the more
 ancient and culturally integrated form of the psychedelic experience.
 
@@ -57,7 +57,7 @@ psychedelics are not merely recreational substances but agents of a deeper evolu
 and cultural purpose.
 
 Leary's initial enthusiasm for psilocybin, informed by his direct encounter with
-mushroom ceremonies in Oaxaca, established the direction of what became the Harvard
+[[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]] in Oaxaca, established the direction of what became the Harvard
 Psilocybin Project. The project was, in its original conception, an attempt to study the
 therapeutic and consciousness-expanding potential of psilocybin in controlled settings.
 McKenna presents this as a legitimate and promising research programme that was
@@ -66,7 +66,7 @@ fundamentally altered by external circumstances.
 ## The Politics of Expediency: LSD Displaces Psilocybin
 
 A central element of McKenna's narrative is the way in which practical considerations —
-availability and cost — reshaped the Harvard Psilocybin Project. Despite Leary's original
+availability and cost — reshaped the [[leary-harvard-psilocybin-project]] Project. Despite Leary's original
 commitment to psilocybin, "the politics of expediency were forced on the Harvard
 Psilocybin Project; LSD was more accessible and less expensive than psilocybin." This
 shift from psilocybin to LSD was, in McKenna's view, a fateful turning point that altered

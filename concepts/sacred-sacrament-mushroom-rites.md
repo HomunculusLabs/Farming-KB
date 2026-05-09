@@ -36,7 +36,7 @@ Across traditions, the same core elements recur:
 5. The ritual produces Gnosis — direct experiential knowledge of the divine
 
 ### "Horus is both the divine food and the sacrifice"
-This Egyptian text, noted by [[john-allegro]] in "The Sacred Mushroom and the Cross," encapsulates the duality: Jesus/the god is both the person and the mushroom (the food) and the sacrifice (the mushroom dying to be eaten). Arthur argues this duality appears in every tradition with a sacramental meal.
+This Egyptian text, noted by [[john-allegro]] in "The [[allegro-the-sacred-mushroom-amanita-identification]] and the Cross," encapsulates the duality: Jesus/the god is both the person and the mushroom (the food) and the sacrifice (the mushroom dying to be eaten). Arthur argues this duality appears in every tradition with a sacramental meal.
 
 ## Mithraism
 
@@ -68,9 +68,9 @@ This Egyptian text, noted by [[john-allegro]] in "The Sacred Mushroom and the Cr
 
 ### Alchemical Interpretation of Christian Art
 A 12th-century painting of "Jesus as Lord of Magical Plants" depicts five plants beneath a green vine:
-1. Red plant — Amanita muscaria (quickening of the spirit)
+1. Red plant — [[allegro-amanita-muscaria-properties-and-pharmacology]] (quickening of the spirit)
 2. Blue mushroom — Psilocybe species (opens the "third eye")
-3. Syrian Rue (Peganum harmala) — contains telepathine (MAO inhibitor), increases effects of other compounds
+3. Syrian Rue ([[mckenna-food-gods-peganum-harmala-soma]]) — contains telepathine (MAO inhibitor), increases effects of other compounds
 4. Opium Poppy (Papaver somniferum) — enables relaxation and letting go; note "Somniferum" / "Soma" linguistic link
 5. Green vine — Cannabis and other green plants (anti-nausea, neuro-pathway reactivation, DMT-containing grasses)
 
@@ -88,7 +88,7 @@ Arthur proposes this may be an alchemical recipe for the true Soma — a multi-p
 
 ### The Bardo Thodol (Tibetan Book of the Dead)
 - Not exclusively for the dead/dying but a map of out-of-body realms
-- [[timothy-leary]], [[ralph-metzner]], and [[richard-alpert]] (Ram Das) explored this in "The Psychedelic Experience" (1964)
+- [[timothy-leary]], [[ralph-metzner]], and [[richard-alpert]] (Ram Das) explored this in "The [[leary-psychedelic-experience-bardo-mapping]]" (1964)
 - Arthur argues the original entheogen was Amanita muscaria, not LSD as Leary et al. assumed
 - Cave darkness meditation: isolation in darkness for extended periods reactivates pineal gland production of pinoline (natural MAOI) and DMT — endogenous "ayahuasca"
 
@@ -96,7 +96,7 @@ Arthur proposes this may be an alchemical recipe for the true Soma — a multi-p
 - The Buddhist elixir of immortality, equivalent to Soma in Hinduism
 - Symbolized by torma cakes and the stupa
 - The churning-of-the-milky-ocean myth (at Angkor Wat, Cambodia): 54 gods and 54 demons pull the serpent Vasouki back and forth to churn the cosmic ocean, producing Amrita
-- The temple itself is a megalithic pine forest — monument to the trees and the fruit growing underneath
+- The temple itself is a megalithic pine forest — monument to the trees and the [[holzer-fruit-growing-marginal-climates]] underneath
 
 ## Hinduism and Soma
 
@@ -137,7 +137,7 @@ Arthur argues that shamanism — the indigenous practice of achieving death-and-
 ## See Also
 
 - [[mushrooms-and-mankind]] — Arthur's comprehensive framework
-- [[entheogen-culture]] — Entheogens across cultures (Eleusinian Mysteries, Soma, ayahuasca, peyote)
+- [[entheogen-culture]] — Entheogens across cultures ([[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]], Soma, ayahuasca, peyote)
 - [[soma-hypothesis]] — The Vedic Soma-Amanita identification
 - [[christmas-mushroom-symbolism]] — Christmas traditions as mushroom encoding
 - [[egyptian-mushroom-symbolism]] — Egyptian mystery school initiations

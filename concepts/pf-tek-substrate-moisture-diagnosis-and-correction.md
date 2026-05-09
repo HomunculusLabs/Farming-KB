@@ -19,19 +19,19 @@ Moisture management is one of the most critical variables in the PF TEK. Both
 excessive moisture and insufficient moisture can cause cultivation failure, and
 each produces distinct symptoms that allow the cultivator to diagnose and
 correct the problem. The PF TEK provides specific guidance for identifying
-moisture-related issues and adjusting the substrate formula.
+moisture-related issues and adjusting the [[pf-tek-measurement-calibration-and-substrate-formula-precision]].
 
 ## Dried Substrate Symptoms
 
 When substrate is too dry, a characteristic pattern emerges that serves as a
-reliable diagnostic signature. Spore germination occurs normally, indicating
+reliable diagnostic signature. [[growing-gourmet-spore-germination-strain-isolation]] occurs normally, indicating
 that the spores are viable and the substrate is not contaminated. However,
 after initial germination and some spreading of the mycelium, growth halts at
 a certain point.
 
 The extent of the halt depends on how dry the substrate has become. The
 mycelium simply stops expanding because it has exhausted the accessible
-moisture needed for continued metabolic activity. This pattern of normal
+moisture needed for continued [[arbuscule-isolation-metabolic-activity-assays]]. This pattern of normal
 germination followed by arrested growth with no visible contamination is the
 hallmark of dried substrate.
 
@@ -53,7 +53,7 @@ penetrates the jars and evaporates moisture from the substrate. Gas stoves
 are noted as being the easiest to control for maintaining a gentle boil.
 
 The PF TEK specifically warns against overheating and provides detailed
-guidance on maintaining the lowest possible boil. The sterilization pot must
+guidance on maintaining the lowest possible boil. The [[pf-tek-steam-sterilization-pot-method-common-pottery]] must
 have a tightly fitting lid to retain steam. A loose lid allows steam to
 escape freely, increasing the rate of moisture loss from the jars.
 
@@ -88,7 +88,7 @@ matted and dense rather than forming the desired airy structure.
 In severe cases, water collects in the bottom of the jar during incubation.
 Excessive moisture can also promote bacterial contamination because many
 bacteria thrive in wet conditions. Bacteria contamination is detectable through
-the top dry vermiculite layer as a sour foul odor within two days after
+the top [[pf-tek-dry-vermiculite-contaminant-barrier]] layer as a sour foul odor within two days after
 inoculation, accompanied by no spore germination.
 
 ## The Vermiculite Factor
@@ -127,7 +127,7 @@ jar, and the type of vermiculite used.
 
 ## Maximum Formula Moisture Considerations
 
-The maximum fruiting formula, which uses 1/4 cup of brown rice flour, 1/2 cup
+The [[pf-tek-maximum-fruiting-substrate-formula]] formula, which uses 1/4 cup of brown rice flour, 1/2 cup
 of vermiculite, and 60 cc of water per jar, is specifically noted as
 requiring a loose lid during incubation when used with finer vermiculite.
 

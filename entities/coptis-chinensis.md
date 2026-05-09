@@ -6,7 +6,7 @@ tags:
   - ranunculaceae
   - medicinal-plant
   - tcm
-  - [[medicinal-mushroom-antioxidant-anti-inflammatory]]
+  - medicinal-mushroom-antioxidant-anti-inflammatory
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -40,7 +40,7 @@ sources:
 - Coptis chinensis Franch. var. brevisepala W.T. Wang
 - Coptis omeiensis (C.Y. Cheng) C.Y. Cheng
 
-Three botanical sources are recognized in the Chinese Pharmacopoeia under the drug name "Huanglian":
+Three [[dmt-botanical-sources-pharmacology]] are recognized in the Chinese Pharmacopoeia under the drug name "Huanglian":
 Coptis chinensis Franch., Coptis deltoidea C.Y. Cheng et Hsiao, and Coptis teeta Wall.
 
 The genus name derives from Greek "kopto" (to cut), referring to the divided leaves.
@@ -74,7 +74,7 @@ The 5–7 year growth cycle suits permanent polyculture installations rather tha
 - **Coptis deltoidea** (川黄连, Chuan Huanglian) — restricted to Sichuan; rhizome with higher berberine content; considered the premium source in TCM
 - **Coptis teeta** (云连, Yun Lian) — Yunnan and NE India; smaller plant, thinner rhizome; wild-harvested, endangered
 - **Coptis japonica** — Japanese species used in Kampo medicine (Ōren); similar alkaloid profile
-- **Coptis trifolia** (Three-leaf Goldthread) — North American species; used by Native Americans for mouth sores
+- **Coptis trifolia** (Three-leaf Goldthread) — [[growing-gourmet-north-american-reishi-species]] species; used by Native Americans for mouth sores
 ## Practical Considerations
 
 Successful implementation of Coptis chinensis requires attention to
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

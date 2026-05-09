@@ -1,5 +1,5 @@
 ---
-title: Raised Bed and Intensive Gardening from Natural Farming
+title: comparison-chinampas-vs-raised-bed-gardening and solomon-wide-spacing-versus-intensive-gardening-debate from comparison-natural-farming-vs-permaculture
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,7 +10,7 @@ tags: [gardening, natural-farming]
 
 # Raised Bed and Intensive Gardening
 
-Raised beds and [[natural-farming-guide-composting-methods-and-techniques]]
+[[comparison-raised-beds-vs-hugelkultur]] and [[natural-farming-guide-composting-methods-and-techniques]]
 
 - [[natural-farming-guide-cover-cropping-and-green-manures]]
 - [[natural-farming-guide-seed-saving-and-heirloom-varieties]]
@@ -143,3 +143,6 @@ conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
 
+## See Also
+
+- [[urban-rooftop-farming-guide]]

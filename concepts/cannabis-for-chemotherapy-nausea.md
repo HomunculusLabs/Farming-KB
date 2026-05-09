@@ -14,7 +14,7 @@ Nausea and vomiting are among the most common and distressing side effects of ch
 ## Evidence-Based Confidence Level
 
 - **Total Studies Reviewed:** 24
-- **CHI Value:** 104 (one of the highest scores in the Cannabis Health Index)
+- **CHI Value:** 104 (one of the highest scores in the [[blesching-cannabis-health-index-autoimmune-conditions]])
 
 ## How Chemotherapy Nausea Works
 
@@ -22,7 +22,7 @@ Retching and vomiting occur when toxins are detected by the brain. A signal trav
 
 ## Historical Context
 
-Anecdotal evidence from patients who smoked marijuana before chemotherapy and encountered significantly less nausea and vomiting ultimately led to clinical trials demonstrating the therapeutic properties of cannabinoids. These studies span four decades of research.
+Anecdotal evidence from patients who smoked marijuana before chemotherapy and encountered significantly less nausea and vomiting ultimately led to [[mushroom-cancer-clinical-trials-overview]] demonstrating the therapeutic properties of cannabinoids. These studies span four decades of research.
 
 ## Comparative Effectiveness
 
@@ -67,7 +67,7 @@ A 1988 study of 56 cancer patients undergoing chemotherapy unresponsive to stand
 
 ### CBD Renal Protection (2009)
 
-Beyond antiemetic effects, CBD markedly reduced anticipated oxidative stress, inflammation, and cell death in the kidneys, improving renal function during cancer pathology. This represents a broader protective mechanism beyond simple symptom management.
+Beyond antiemetic effects, CBD markedly reduced anticipated [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], inflammation, and cell death in the kidneys, improving renal function during cancer pathology. This represents a broader protective mechanism beyond simple symptom management.
 
 ## Study Highlights
 
@@ -76,7 +76,7 @@ Beyond antiemetic effects, CBD markedly reduced anticipated oxidative stress, in
 | THC oral (Dronabinol) | 36 cancer patients | 23/36 had reduced nausea vs 1/36 placebo | 4 |
 | Inhaled cannabis | 56 refractory patients | 78% positive response | 4 |
 | Nabilone | 18 pediatric patients | Significantly reduced nausea/vomiting | 5 |
-| Nabilone | 24 lung cancer patients | Superior to prochlorperazine | 5 |
+| Nabilone | 24 [[psk-breast-lung-cancer-clinical-trials]] patients | Superior to prochlorperazine | 5 |
 | Nabilone | 34 lung cancer patients | Better nausea, retching, vomiting scores | 5 |
 | Nabilone | 38 cancer patients | Superior to domperidone | 5 |
 | THC (18mg oral) | Pediatric cancer | Complete vomiting prevention | 5 |
@@ -84,7 +84,7 @@ Beyond antiemetic effects, CBD markedly reduced anticipated oxidative stress, in
 
 ## Therapeutic Window Considerations
 
-Research suggests that a therapeutic window exists which may depend on individual tolerance. Either very high or very low doses could offer lack of antiemetic effects or adverse effects. Patients should follow advice from a licensed health care provider and their own subjective experience.
+Research suggests that a therapeutic window exists which may depend on individual tolerance. Either very high or very low doses could offer lack of antiemetic effects or [[blesching-cannabis-safety-adverse-effects-evidence]]. Patients should follow advice from a licensed health care provider and their own subjective experience.
 
 ## Strain-Specific Considerations
 
@@ -95,7 +95,7 @@ Research suggests that a therapeutic window exists which may depend on individua
 
 ## Key Considerations
 
-With a CHI value of 104 from 24 studies, cannabis for chemotherapy-induced nausea and vomiting has one of the strongest evidence bases in medical cannabis. This is one of the most well-established therapeutic applications, supported by decades of clinical research.
+With a CHI value of 104 from 24 studies, cannabis for chemotherapy-induced nausea and vomiting has one of the strongest evidence bases in medical cannabis. This is one of the most well-established therapeutic applications, supported by decades of [[hofmann-lsd-clinical-research-early-studies]].
 
 ## See Also
 

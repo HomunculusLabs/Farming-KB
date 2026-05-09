@@ -1,5 +1,5 @@
 ---
-title: Terence McKenna's Stoned Ape Hypothesis
+title: Terence McKenna's Stoned stoned-ape-hypothesis-mckenna-psychedelic-evolution
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -17,7 +17,7 @@ sources:
 
 # Terence McKenna's Stoned Ape Hypothesis
 
-Terence McKenna's speculative theory that psilocybin mushrooms played a catalytic role in the rapid evolution of human consciousness, language, and culture.
+Terence McKenna's speculative theory that [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] played a catalytic role in the rapid evolution of human consciousness, language, and culture.
 
 ## Overview
 
@@ -33,7 +33,7 @@ McKenna argued that psilocybin is unique in its dose-dependent effects, each of 
 
 ### Level 1: Increased Visual Acuity (Low Doses)
 
-At low doses, psilocybin improves visual acuity, particularly edge detection. McKenna cited research by Roland Fischer in the late 1960s in which small amounts of psilocybin given to graduate students measurably improved their ability to detect when previously parallel lines became skewed. For hunter-gatherers, this "chemical binoculars" effect would directly improve hunting success, conferring survival and reproductive advantages.
+At low doses, psilocybin improves visual acuity, particularly edge detection. McKenna cited research by [[mckenna-roland-fischer-psilocybin-visual-acuity]] in the late 1960s in which small amounts of psilocybin given to graduate students measurably improved their ability to detect when previously parallel lines became skewed. For hunter-gatherers, this "chemical binoculars" effect would directly improve hunting success, conferring survival and reproductive advantages.
 
 ### Level 2: Sexual Arousal and Social Bonding (Moderate Doses)
 
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

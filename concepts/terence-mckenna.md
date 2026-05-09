@@ -39,7 +39,7 @@ preparation reputedly containing DMT derived from the resin of
 (1975, co-authored with Dennis McKenna), became a foundational narrative
 in McKenna's intellectual development. The brothers experimented with
 various Amazonian psychoactive preparations and developed their early
-theoretical frameworks linking psychedelic experience to the nature of
+theoretical frameworks linking [[leary-psychedelic-experience-bardo-mapping]] to the nature of
 consciousness and time.
 
 During these expeditions, McKenna encountered the widespread use of
@@ -54,9 +54,9 @@ development.
 McKenna authored or co-authored several influential books. *Food of the
 Gods: The Search for the Original Tree of Knowledge* (1992) presented his
 most comprehensive argument for the centrality of psychoactive substances
-in human history, including the Stoned Ape Hypothesis and his analysis
+in human history, including the Stoned [[stoned-ape-hypothesis-mckenna-psychedelic-evolution]] and his analysis
 of "partnership" versus "dominator" cultural orientations. *The
-Archaic Revival* (1991) collected essays and lectures on the intersection
+[[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]* (1991) collected essays and lectures on the intersection
 of psychedelics, ecology, and spirituality. *True Hallucinations* (1993)
 was a narrative account of his Amazonian expeditions.
 
@@ -102,12 +102,12 @@ synthesis of ethnobotany, philosophy, and visionary experience provided
 a coherent narrative framework for the resurgence of psychedelic interest
 in the 1990s and 2000s. His advocacy contributed to the broader cultural
 reassessment of psychedelics that has accompanied the contemporary
-clinical research renaissance.
+[[hofmann-lsd-clinical-research-early-studies]] renaissance.
 
 Critics note that McKenna's speculative tendencies, particularly the
 Stoned Ape Hypothesis and Novelty Theory, have sometimes been presented
 as established fact within psychedelic communities, potentially
-undermining the credibility of more rigorous psychedelic research.
+undermining the credibility of more rigorous [[mckenna-suppression-psychedelic-research-lsd-therapy]].
 McKenna himself acknowledged the speculative nature of his grander
 theories while maintaining that they served as useful heuristic tools for
 exploring the relationship between consciousness and psychoactive
@@ -117,3 +117,4 @@ substances.
 
 - [[entheogens-and-cultural-evolution]]
 - [[psilocybin]]
+- [[mckenna-food-gods-set-setting-psychedelic-preparation]]

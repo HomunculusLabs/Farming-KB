@@ -1,10 +1,11 @@
 ---
-title: "What Is the Difference Between Biointensive and No-Till Gardening"
+title: "What Is the query what is the difference between biointensive and no till gardening and No-Till Gardening"
 created: 2026-04-28
 tags: [query, gardening, soil-health, biointensive, no-till]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: query
 ---
@@ -17,13 +18,13 @@ Biointensive gardening, developed by John Jeavons, focuses on deep soil preparat
 
 No-till gardening, inspired by Masanobu Fukuoka and modern soil ecology, avoids all soil disturbance to preserve fungal networks and soil structure.
 
-Both aim to build healthy soil, but they take fundamentally different approaches to achieving that goal.
+Both aim to [[query-how-to-build-healthy-garden-soil]] soil, but they take fundamentally different approaches to achieving that goal.
 
 ## Detailed Explanation
 
 ### The Biointensive Approach
 
-John Jeavons developed the Grow Biointensive method at Ecology Action in California.
+John Jeavons developed the [[jeavons-grow-biointensive-method-overview]] method at Ecology Action in California.
 
 This system uses double-dug raised beds to create loose, deep soil that allows roots to penetrate easily.
 
@@ -41,11 +42,11 @@ No-till gardening takes the opposite approach: it avoids all mechanical soil dis
 
 Masanobu Fukuoka pioneered this philosophy in Japan.
 
-The [[teaming-with-microbes-no-till-gardening-soil-health]] reference explains how tilling disrupts mycorrhizal fungal networks and damages soil aggregates.
+The [[teaming-with-microbes-no-till-gardening-soil-health]] reference explains how tilling disrupts [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] networks and damages soil aggregates.
 
 Tilling also releases stored soil carbon into the atmosphere as CO2.
 
-No-till methods rely on mulching, cover cropping, and surface composting to build soil from the top down.
+No-till methods rely on mulching, [[fukuoka-clover-cover-cropping-soil-ecology]], and surface composting to build soil from the top down.
 
 The [[comparison-double-digging-vs-no-till]] analysis highlights the key trade-offs between these two approaches.
 
@@ -75,7 +76,7 @@ No-till soil tends to be more fungal, which supports a wider range of plants and
 
 Research in soil microbiology supports both approaches in different contexts.
 
-Biointensive composting adds massive amounts of organic matter and beneficial microorganisms to the soil.
+Biointensive composting adds massive amounts of [[hamilton-composting-and-organic-matter-management]] and beneficial microorganisms to the soil.
 
 No-till mulching feeds existing soil life without disturbance.
 

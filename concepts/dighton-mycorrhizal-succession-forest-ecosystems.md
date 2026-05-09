@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Succession in Forest Ecosystems
+title: dighton mycorrhizal succession forest ecosystems in Forest Ecosystems
 created: 2026-04-26
 tags:
   - mycology
@@ -16,7 +16,7 @@ type: concept
 
 # Mycorrhizal Succession in Forest Ecosystems
 
-Mycorrhizal fungal communities change over time as forest ecosystems develop,
+[[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] communities change over time as forest ecosystems develop,
 reflecting shifts in resource availability, soil conditions, and the changing
 demands of host plants. The concept of mycorrhizal succession links the
 physiological capabilities of different fungal species to the changing
@@ -29,7 +29,7 @@ observations of concentric bands of different ectomycorrhizal fungal species
 around the base of birch trees as they aged. The outermost ring consists of
 "early-stage" fungi, whereas those nearer the tree base were classified as
 "late-stage" fungi. This spatial pattern reflects temporal changes in the
-mycorrhizal community as both the tree and its associated soil environment
+[[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] as both the tree and its associated soil environment
 develop.
 
 ## Succession Patterns in Conifer Stands
@@ -38,7 +38,7 @@ Surveys of ectomycorrhizal fruit body production in Sitka spruce and lodgepole
 pine stands of different ages revealed a general pattern of succession of
 dominant mycorrhizae (Dighton et al., 1986). This pattern was subsequently
 linked to changes in nutrient resources available in the forest floor and the
-physiological function of the mycorrhizal fungi (Dighton and Mason, 1985; Last
+physiological function of the [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] (Dighton and Mason, 1985; Last
 et al., 1987).
 
 The general pattern agrees with the dominance of mycorrhizae possessing higher
@@ -82,7 +82,7 @@ conditions through the year.
 
 After disturbance events such as forest harvesting or fire, mycorrhizal
 communities undergo succession. The surviving root systems and associated
-mycorrhizae of understory plants act as a source of mycorrhizal inoculum,
+mycorrhizae of understory plants act as a source of [[arbuscular-mycorrhizal-inoculum-production-best-practices]],
 maintaining species diversity in the new forest similar to what existed in the
 old (Baar et al., 1999; Jonsson et al., 1999b). However, changes in nutrient
 conditions influenced by fire and altered physical characteristics of the soil
@@ -103,7 +103,7 @@ ecosystem scale.
 
 ## Litter Manipulation Effects on Mycorrhizal Communities
 
-Repeated harvesting of forest floor leaf litter in a Swedish spruce forest
+Repeated harvesting of forest floor [[dighton-fungal-decomposition-leaf-litter-dynamics]] in a Swedish spruce forest
 reduced the abundance of ectomycorrhizae on roots but not the number of
 species (Mahmood et al., 1999). In contrast, complete removal of leaf litter
 on Scots pine forest floor in the Netherlands increased the diversity of
@@ -115,5 +115,8 @@ mycorrhizal community structure during forest development.
 ## See Also
 
 - [[dighton-fungal-succession-resource-decomposition]]
-- [[mycorrhizal-succession-primary-secondary]]
+- mycorrhizal-succession-primary-secondary
 - [[dighton-mycorrhizal-diversity-ecosystem-function]]
+- [[decomposition]]
+- [[ectomycorrhiza]]
+- [[laccaria-bicolor]]

@@ -33,7 +33,7 @@ Calcium is also used to transport other substances across the cellular membrane.
 important to cell division, it is found in large concentrations in young undifferentiated
 meristematic cells that are dividing. Calcium also plays a role in root hair growth: calcium
 moves into the root hair through the plasmalemma, and its presence is necessary to complete the
-process that causes root hair cells to grow downward. When a small rock or obstacle is
+process that [[query-what-causes-root-rot-in-cannabis-and-how-to-prevent-it]] hair cells to grow downward. When a small rock or obstacle is
 encountered, calcium uptake stops on that surface and elongation starts in another area where
 calcium continues to enter.
 ### Deficiency Symptoms
@@ -46,7 +46,7 @@ absorption sites on the roots. If you add too much of those nutrients, plants wi
 calcium.
 Calcitic limestone (CaCO3) is the standard source. When powdered and exposed to water and carbon
 dioxide, which form an acid, it breaks down. You can only raise pH a point or so per growing
-season. The best time to apply is in autumn for the following growing season.
+season. The best time to apply is in autumn for the following [[savory-growing-season-and-non-growing-season-management]].
 Dolomitic limestone (CaMg[CO3]2) provides both calcium and magnesium (about 10 percent). It
 tends to bind soils, and too much magnesium impacts the uptake of other nutrients, so ensure
 your soil test shows you actually need more magnesium before using it.
@@ -57,7 +57,7 @@ The key function of magnesium (Mg) is its role as the center of the chlorophyll 
 involved in the production and use of ATP, so it plays a key role in respiration as well.
 Finally, magnesium is needed for the creation of DNA and RNA.
 ### Deficiency Symptoms
-When plants develop a magnesium deficiency, chlorophyll can't be synthesized and photosynthesis
+When plants develop a [[query-how-to-fix-magnesium-deficiency-in-cannabis]], chlorophyll can't be synthesized and photosynthesis
 ceases. Leaves start to lose their green color in between the leaf veins, which are nearest the
 remaining sources of sugars, whereas the veins remain green, a condition known as interveinal
 chlorosis. Older leaves show the signs first, meaning magnesium is mobile in plants.
@@ -80,5 +80,5 @@ Apply too much ammonium, and you may end up with not enough of the other cations
 Potassium uptake is particularly affected by soil compaction. Well-aerated soils have lots of
 microscopic pore spaces that allow for air and water exchange. In poorly aerated soils, carbon
 dioxide from root respiration can build up, react with water to form acid, and combine with
-organic matter to form cell-killing alcohols. Unless soils are aerobic, [[teaming-with-nutrients-foliar-feeding-and-absorption]]
+[[hamilton-composting-and-organic-matter-management]] to form cell-killing alcohols. Unless soils are aerobic, [[teaming-with-nutrients-foliar-feeding-and-absorption]]
 See also: [[teaming-with-nutrients-micronutrients-and-trace-elements]].

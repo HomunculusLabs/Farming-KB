@@ -12,15 +12,15 @@ sources:
 In his 1983 Esalen lecture "[[terence-mckenna]] advanced one of his most provocative proposals: that
 *[[spore]] Biology as Evidence
 
-McKenna marshaled evidence from the biology of mushroom spores to
-support the extraterrestrial origin hypothesis.
+McKenna marshaled evidence from the biology of [[query-how-to-store-mushroom-spores-long-term]] to
+support the extraterrestrial [[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]].
 
-The spores of *stropharia cubensis* are deep purple in color, which
+The spores of *[[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]* are deep purple in color, which
 McKenna argued is an adaptation for absorbing deep ultraviolet
 radiation — the kind encountered in interstellar space.
 
 Their outer casing is among the hardest organic substances known, and
-their electron density approaches that of metal. These are not
+their [[mckenna-fungal-fossil-gap-spore-electron-density-and-metal-hardness]] approaches that of metal. These are not
 properties expected from an organism that evolved exclusively in the
 sheltered environment of Earth's surface.
 
@@ -30,11 +30,11 @@ temperatures, and the vacuum of space.
 
 ## Galactic Dispersal Strategy
 
-The proposed mechanism for interstellar dispersal is grounded in
+The proposed mechanism for [[spore-interstellar-dispersal-hypothesis]] is grounded in
 physical principles. Mushroom spores are incredibly light and numerous.
 
 A single fruiting body releases billions of spores. In the upper
-atmosphere, these would be subject to Brownian motion and the impulse
+atmosphere, these would be subject to [[mckenna-spore-brownian-motion-and-galactic-percolation]] and the impulse
 of energetic particles — cosmic rays, solar wind, and other
 high-energy phenomena.
 

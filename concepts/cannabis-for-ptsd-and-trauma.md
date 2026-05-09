@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-Post-traumatic stress disorder (PTSD) is characterized by persistent re-experiencing of traumatic events, hyperarousal, avoidance behaviors, and negative mood changes. The Cannabis Health Index (Blesching) presents evidence that cannabis, particularly when rich in CBD, can help modulate the neurobiological mechanisms underlying PTSD, including fear memory consolidation, HPA axis dysregulation, and endocannabinoid deficiency.
+Post-traumatic stress disorder (PTSD) is characterized by persistent re-experiencing of traumatic events, hyperarousal, avoidance behaviors, and negative mood changes. The [[blesching-cannabis-health-index-autoimmune-conditions]] (Blesching) presents evidence that cannabis, particularly when rich in CBD, can help modulate the neurobiological mechanisms underlying PTSD, including fear memory consolidation, HPA axis dysregulation, and endocannabinoid deficiency.
 
 ## The Endocannabinoid System and Trauma
 
@@ -29,7 +29,7 @@ CBD has demonstrated anxiolytic effects through multiple receptor systems: CB1 a
 
 ## Clinical Evidence and Approaches
 
-Observational studies show significant reductions in PTSD symptom severity with cannabis use. Patients report improvements in sleep quality, frequency of nightmares, and overall anxiety. Cannabis use is associated with reduced use of antidepressants, benzodiazepines, and opioids in PTSD populations. Clinical trials with CBD alone and THC:CBD combinations show promise for sleep and anxiety outcomes. Blood levels of anandamide may serve as a biomarker for PTSD severity and treatment response, though this remains an area of active research.
+Observational studies show significant reductions in PTSD symptom severity with cannabis use. Patients report improvements in sleep quality, frequency of nightmares, and overall anxiety. Cannabis use is associated with reduced use of antidepressants, benzodiazepines, and opioids in PTSD populations. [[mushroom-cancer-clinical-trials-overview]] with CBD alone and THC:CBD combinations show promise for sleep and anxiety outcomes. Blood levels of anandamide may serve as a biomarker for PTSD severity and treatment response, though this remains an area of active research.
 
 ### Integration with Therapy
 
@@ -39,7 +39,7 @@ Cannabis should not replace trauma-focused psychotherapy but can complement it. 
 
 The Blesching source documents a case from Cornell Medical Center of a 43-year-old woman whose severe, treatment-resistant hypertension was linked to repressed memories of sexual assault. After decades of suppression, nightmares triggered by a family encounter led to the emergence of traumatic memories. Through counseling that enabled emotional processing -- moving from numbness to feeling powerlessness, betrayal, and rage, and ultimately to identifying as a survivor -- her blood pressure normalized over 18 months with gradual reduction of pharmaceuticals.
 
-This case illustrates the deep psychosomatic connections between unresolved trauma and physical disease. Mental-emotional states directly affect the immune system, cardiovascular system, and endocrine system. A review and analysis of psychosomatic studies published since 1939 shows that negative emotions, hostility, and stressful experiences directly influence pro-inflammatory cytokine production, which is associated with slower healing and acceleration of age-related illness. Therapies modulating the stress response (including cannabinoid-based approaches) may have systemic benefits beyond the psychological domain.
+This case illustrates the deep psychosomatic connections between unresolved trauma and physical disease. Mental-emotional states directly affect the immune system, cardiovascular system, and endocrine system. A review and analysis of psychosomatic studies published since 1939 shows that negative emotions, hostility, and stressful experiences directly influence pro-inflammatory cytokine production, which is associated with slower healing and acceleration of age-related illness. Therapies modulating the [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] (including cannabinoid-based approaches) may have systemic benefits beyond the psychological domain.
 
 ## Dosing Approaches
 
@@ -48,7 +48,7 @@ This case illustrates the deep psychosomatic connections between unresolved trau
 - **Microdosing THC** during the day may provide anxiolytic benefits without intoxication
 - **Consistent dosing schedule** recommended over as-needed use for ECS stabilization
 - **Tolerance management**: regular breaks to maintain efficacy; tolerance develops primarily to THC's sedative effects
-- **Start low, go slow**: Infused oils or tinctures in dropper bottles allow precise dosing. Start with a few drops and wait at least one hour.
+- **Start low, go slow**: [[query-how-to-make-herbal-infused-oils-at-home]] or tinctures in dropper bottles allow precise dosing. Start with a few drops and wait at least one hour.
 
 ## Strain and Cannabinoid Selection
 
@@ -68,7 +68,7 @@ This case illustrates the deep psychosomatic connections between unresolved trau
 - VA healthcare systems are increasingly recognizing cannabis as a treatment option for veterans with PTSD, though policies vary by region
 - Cannabis may be most effective when combined with evidence-based therapies that address the root causes of trauma rather than just managing symptoms
 - Blood levels of anandamide may serve as a biomarker for PTSD severity and treatment response, though this remains an area of active research
-- A medium THC dose significantly decreased pain while a high dose increased it in clinical studies -- the therapeutic window is narrow and individual
+- A medium THC dose significantly decreased pain while a high dose increased it in clinical studies -- the [[blesching-cannabis-therapeutic-window-dosing]] is narrow and individual
 
 ## Mind-Body Integration
 
@@ -79,4 +79,4 @@ The Blesching framework emphasizes that healing from trauma involves both bioche
 - [[cannabis-for-anxiety-disorders]]
 - [[cannabis-for-mental-health]]
 - [[deep-relaxation-and-mind-body-healing]]
-- [[mushroom-cytokine-production-immune-activation]]
+- mushroom-cytokine-production-immune-activation

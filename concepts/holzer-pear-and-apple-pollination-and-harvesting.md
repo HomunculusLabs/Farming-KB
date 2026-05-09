@@ -1,16 +1,17 @@
 ---
-title: Holzer Pear and Apple Pollination and Harvesting
+title: Holzer Pear and holzer pear and apple pollination and harvesting and Harvesting
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Pear and Apple Pollination and Harvesting
 
-Successful fruit production in Holzer's permaculture system depends not only on variety selection and microclimate management but also on understanding pollination requirements and proper harvesting timing. These practical aspects of fruit growing are crucial for achieving reliable yields year after year, especially in marginal climates where the margin for error is small.
+Successful fruit production in Holzer's permaculture system depends not only on variety selection and microclimate management but also on understanding pollination requirements and proper harvesting timing. These practical aspects of [[holzer-fruit-growing-marginal-climates]] are crucial for achieving reliable yields year after year, especially in marginal climates where the margin for error is small.
 
 ## Pollination Requirements
 
@@ -26,7 +27,7 @@ The most elegant solution for small gardens is to graft multiple varieties onto 
 
 ### Fruit Forest Diversity
 
-In the fruit forest system, natural diversity ensures pollination. When hundreds or thousands of seedling trees are growing together, there is always a range of flowering times and genetic types present. The ungrafted seedlings serve as pollinators for the grafted cultivated varieties. This is one of the key advantages of the sowing method over planting grafted nursery trees in rows.
+In the fruit forest system, natural diversity ensures pollination. When hundreds or thousands of seedling trees are growing together, there is always a range of flowering times and genetic types present. The ungrafted seedlings serve as pollinators for the grafted cultivated varieties. This is one of the key advantages of the sowing method over planting [[fukuoka-natural-seedlings-versus-grafted-nursery-stock]] trees in rows.
 
 ### Wild Pollinators
 
@@ -71,7 +72,7 @@ Holzer recommends careful observation to determine the right harvest time:
 
 Holzer describes problems with the modern commercial apple industry. A farmer was asked by the marketing cooperative to harvest his apples within a set period. The rates paid were low, and the farmer was not happy with them. When Holzer asked why he was still harvesting and delivering green apples, the farmer explained that the apples had to be green, otherwise they would be discarded as cheap pressing apples.
 
-This illustrates a fundamental problem: the marketing system forces farmers to harvest before fruit is properly ripe, resulting in inferior quality for both the fresh market and processing. In Holzer's permaculture approach, harvesting at the correct time for each variety is a priority, and direct marketing to distilleries and specialty buyers allows him to command premium prices for properly ripened fruit.
+This illustrates a fundamental problem: the marketing system forces farmers to harvest before fruit is properly ripe, resulting in inferior quality for both the fresh market and processing. In Holzer's permaculture approach, harvesting at the correct time for each variety is a priority, and [[coleman-direct-marketing-and-csa-models]] to distilleries and specialty buyers allows him to command premium prices for properly ripened fruit.
 
 ## Pear Harvesting
 
@@ -106,7 +107,7 @@ Several of Holzer's recommended varieties have particular processing uses:
 
 ## Storage Conditions
 
-On the Krameterhof, fruit is stored in earth cellars and roundwood shelters that maintain cool, stable temperatures without energy input. The key factors for successful fruit storage are:
+On the Krameterhof, fruit is stored in [[sepp-holzer-earth-cellars-and-philosophy]] and [[holzer-roundwood-shelters-earth-cellars]] that maintain cool, stable temperatures without energy input. The key factors for successful fruit storage are:
 
 1. Temperature: Cool but not freezing (2-4 degrees C for most varieties)
 2. Humidity: High enough to prevent shrivelling (85-90%)
@@ -120,5 +121,5 @@ At high altitude, plums, pears, and apples develop a very intense flavour becaus
 
 The locations given for each variety are only general guidelines and should show where the best conditions for each variety can be found. The condition of poor soils can, however, be improved to a degree with green manure, by sowing supporting plants and creating microclimates. This can allow the majority of varieties to thrive on soils which first appear to be quite unsuitable.
 
-See also: [[holzer-fruit-growing-marginal-climates]], [[holzer-roundwood-shelters-earth-cellars]], [[holzer-fruit-tree-planting-method]]
+See also: [[holzer-fruit-growing-marginal-climates]], [[holzer-roundwood-shelters-earth-cellars]], holzer-fruit-tree-planting-method
 - [[permaculture-multi-purpose-plants]]

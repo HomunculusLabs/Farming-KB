@@ -1,5 +1,5 @@
 ---
-title: "Sheet Composting and Mulch Gardening - Steve Solomon"
+title: "solomon sheet composting mulch gardening and Mulch Gardening - Steve Solomon"
 created: 2026-04-26
 tags:
   - gardening
@@ -15,7 +15,7 @@ type: concept
 
 # Sheet Composting and Mulch Gardening
 
-Steve Solomon evaluates two popular organic gardening methods --
+Steve Solomon evaluates two popular [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] methods --
 [[solomon-complete-organic-fertilizer-guide]].
 
 ### Solomon's Criticisms of Permanent Mulch Gardening
@@ -66,13 +66,13 @@ The most practical approach for most gardeners combines elements of all
 these methods:
 
 - Use [[solomon-carbon-nitrogen-ratios]] with fresh
-  manure or green manure crops between plantings.
+  manure or green [[green-manure-crops-detailed]] between plantings.
 - Maintain a compost heap for steady humus production.
 - Apply COF for balanced nutrient supply.
 - Use light mulching (not permanent thick layers) for weed suppression
   around established plants.
 - Keep paths mulched heavily with low-quality materials to suppress
-  weeds and build organic matter over time.
+  weeds and build [[hamilton-composting-and-organic-matter-management]] over time.
 
 ## Related Topics
 ## Practical Considerations
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

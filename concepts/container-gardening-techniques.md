@@ -1,5 +1,5 @@
 ---
-title: Container Gardening Techniques
+title: comparison-cold-frame-gardening-vs-container-gardening-guide Techniques
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -9,13 +9,13 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 # Container Gardening Techniques
 
-Container gardening allows you to grow a wide range of plants in pots, tubs, window boxes, and hanging baskets. It is ideal for small gardens, patios, balconies, and for adding color and interest to any outdoor space. Correct compost choice and regular attention to watering and feeding are the keys to success.
+Container gardening allows you to grow a wide range of plants in pots, tubs, window boxes, and [[hamilton-hanging-baskets-organic]]. It is ideal for small gardens, patios, balconies, and for adding color and interest to any outdoor space. Correct compost choice and regular attention to watering and feeding are the keys to success.
 
 ## Choosing Containers
 
 ### Pots and Tubs
 
-Pots and tubs come in many materials — terracotta, plastic, wood, metal, and stone. Terracotta is porous and "breathes" through the sides, giving good air circulation around roots, but it absorbs moisture from the compost and plants may need more frequent watering. Plastic pots retain moisture better but can become waterlogged if drainage is inadequate.
+Pots and tubs come in many materials — terracotta, plastic, wood, metal, and stone. Terracotta is porous and "breathes" through the sides, giving good [[stamets-growing-room-air-circulation-co2-management]] around roots, but it absorbs moisture from the compost and plants may need more frequent watering. [[query-fabric-pots-vs-plastic-pots-vs-air-pots-for-cannabis]] retain moisture better but can become waterlogged if drainage is inadequate.
 
 Clay pots are porous and "breathe" through the sides but harbor more disease because they are difficult to clean thoroughly. Plastic pots are easier to sterilize and are preferred for peat-based and peat-free composts, which tend to dry out faster than soil-based mixes.
 
@@ -49,7 +49,7 @@ Begin planting at the center of the container with a height plant — a geranium
 
 ### Seasonal Plantings
 
-Seasonal plantings using annuals and tender perennials give the most colorful displays. Plant in spring for a summer display, and in fall for an early spring show. Annuals need careful watering when first planted and during dry weather until they are established.
+Seasonal plantings using annuals and tender perennials give the most colorful displays. Plant in spring for a summer display, and in fall for an [[coleman-overwintered-onions-and-early-spring-crops]] show. Annuals need careful watering when first planted and during dry weather until they are established.
 
 ### Winter Displays
 
@@ -66,7 +66,7 @@ Do not start spring planting until all danger of frost has passed. Frost-tender 
 
 ## Source
 
-Based on *Organic Gardening* by Geoff Hamilton.
+Based on *[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]* by Geoff Hamilton.
 - [[hamilton-kelp-and-seaweed-in-organic-gardening]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
 ## Practical Considerations
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

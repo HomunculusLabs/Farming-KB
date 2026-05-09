@@ -1,5 +1,5 @@
 ---
-title: Cho Pest Control Methods
+title: Cho comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol Methods
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -8,10 +8,10 @@ sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
-Natural Farming is completely chemical-free and environment-friendly.
+[[comparison-natural-farming-vs-permaculture]] is completely chemical-free and environment-friendly.
 Rather than using pesticides to kill pests, NF uses methods that
 distract, attract, and manage pest populations while maintaining
-ecological balance. The philosophy emphasizes co-existence and co-
+[[fukuoka-ecological-balance-principles]]. The philosophy emphasizes co-existence and co-
 relation with pests rather than eradication.
 
 ## Aromatic Insect Attractants (AIA)
@@ -38,12 +38,12 @@ plants.
 ### Timing is Critical
 AIA must be installed at the time when insects lay eggs. Once insects
 have already flown into the field and laid eggs, the traps are useless.
-The attractants work during the peak reproductive growth of fruit-
-bearing plants and the height of vegetative growth of leafy vegetables.
+The attractants work during the peak [[knf-reproductive-growth-stage]] of fruit-
+bearing plants and the height of [[cannabis-vegetative-growth-stage]] of leafy vegetables.
 
 ## Fluorescent Insect Attractants (FIA)
 
-FIA uses insects' natural attraction to light to control pest
+FIA uses insects' natural attraction to light to [[query-how-do-parasitoid-wasps-control-pest-populations]]
 populations.
 
 ### Materials
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

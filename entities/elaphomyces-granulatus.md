@@ -15,7 +15,7 @@ sources:
 ascomycete fungus in the family Elaphomycetaceae, commonly known as the
 deer truffle. It forms subterranean fruiting bodies and relies entirely
 on animal vectors for spore dispersal, representing a unique ecological
-strategy among ectomycorrhizal fungi.
+strategy among [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]].
 
 ## Taxonomy and Distribution
 
@@ -48,7 +48,7 @@ nutritional value compared to other fungal foods:
 - **Protein**: 17% (vs. Lactarius deliciosus and Boletus edulis at 30%)
 - **Phosphorus**: 0.21% (the lowest of all species tested; L. deliciosus
   0.60%)
-- **Potassium**: 0.6% (extremely low vs. Amanita muscaria at 7.9%)
+- **Potassium**: 0.6% (extremely low vs. [[allegro-amanita-muscaria-properties-and-pharmacology]] at 7.9%)
 - **Sodium**: 0.10% (the highest of all species tested)
 
 Fogel and Trappe (1978) showed that fungi generally consist of 70-94%
@@ -60,7 +60,7 @@ mammals.
 
 More than 80% of the nitrogen in E. granulatus sporocarps is in
 complex, indigestible forms, effectively immobilizing nitrogen within
-the fungal biomass and the mycorrhizal nutrient cycle rather than
+the fungal biomass and the [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] cycle rather than
 losing it to the broader soil food web. This nitrogen conservation
 strategy limits the nutritional return to mycophagists despite their
 consumption of the fruiting bodies.
@@ -78,7 +78,7 @@ Hypogeous fungi have evolved complete dependency on small mammals for
 spore dispersal. Animals locate underground fruiting bodies by scent,
 excavate and consume them, and deposit viable spores in feces. This
 assists colonization during initial phases of plant succession (Trappe,
-1988). Despite relatively low nutritional quality, E. granulatus is an
+1988). Despite relatively low [[coleman-winter-greens-nutritional-quality-cold-sweetening]], E. granulatus is an
 important food resource for mycophagous mammals including squirrels,
 chipmunks, deer mice, voles, and occasionally wild pigs, providing a
 reliable food source when above-ground fungi are scarce.
@@ -102,7 +102,7 @@ relationship with mycophagous mammals, who receive food in return for
 dispersal services. The species' nitrogen immobilization strategy
 conserves nutrients within the mycorrhizal cycle, while carbon
 sequestration through persistent sporocarps contributes to long-term
-soil carbon storage. The dependence of forest regeneration on
+soil [[holmgren-soil-humus-carbon-storage-rebuilding]]. The dependence of forest regeneration on
 animal-dispersed ectomycorrhizal inoculum underscores the importance of
 maintaining healthy populations of mycophagous mammals.
 
@@ -110,7 +110,7 @@ maintaining healthy populations of mycophagous mammals.
 
 | Year | Researchers | Finding |
 |------|------------|---------|
-| 1978 | Fogel and Trappe | General patterns of fungal nutritional composition |
+| 1978 | Fogel and Trappe | General patterns of [[dighton-fungal-nutritional-composition-animal-diets]] composition |
 | 1984 | Gronwall and Pehrson | Nutritional analysis of E. granulatus as squirrel food |
 | 1989 | Cork and Kenagy | Viable spore dispersal through rodent gut passage |
 

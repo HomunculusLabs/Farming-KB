@@ -1,14 +1,12 @@
 ---
-title: Appropriate Technology in Permaculture
+title: appropriate-technology in permaculture
 created: 2026-04-28
-tags: [[permaculture, appropriate-technology, sustainability, design, DIY]
+tags: [permaculture, appropriate-technology, sustainability, design, DIY]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  [/Users/t3rpz/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+sources: [/Users/t3rpz/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-
 # [[permaculture-design]] framework.
 
 ## What is Appropriate Technology?
@@ -39,7 +37,7 @@ systems can operate without electricity. Examples include bicycle-powered
 blenders or washing machines, solar cookers, solar hot water heaters,
 water wheels, and windmills.
 
-Passive solar power plays a greater role in AT than photovoltaics.
+[[comparison-passive-solar-vs-earth-sheltered]] power plays a greater role in AT than photovoltaics.
 Passive solar uses the ambient heat energy in sunlight to accomplish
 tasks without creating electricity. The most ubiquitous use is for
 heating, such as solar cookers that channel the sun's rays into an
@@ -57,7 +55,7 @@ and local ecological resources, citizens broke systems of oppression.
 AT as we envision it today was popularized in the 1970s by EF
 Schumacher, author of "Small is Beautiful" and creator of "Buddhist
 Economics." Schumacher proposed shifting toward local AT, which he
-called Intermediate Technology, as a means for developing countries to
+called [[holmgren-gigantism-intermediate-technology-and-small-scale]], as a means for developing countries to
 bolster themselves and for developed nations to build resilience.
 
 ## Current Examples
@@ -69,7 +67,7 @@ Popular appropriate technology solutions include:
 - **Water Systems**: Play pumps (water pumps powered by playground
   equipment), [[graywater-systems]], Eco-Machines, sand filters
 - **Composting**: Sun-Frost Scrap Eater, Green Cone systems
-- **Food Production**: DIY hydroponics, [[pdc-appropriate-technology-philosophy]]
+- **Food Production**: DIY hydroponics, pdc-appropriate-technology-philosophy
 ## Practical Considerations
 
 Successful implementation of Appropriate Technology in Permaculture requires attention to
@@ -88,4 +86,5 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[appropriate-technology]]

@@ -1,5 +1,5 @@
 ---
-title: "MPM (2,5-DIMETHOXY-4-(n)-PROPOXYAMPHETAMINE) -- PIHKAL Entry #138"
+title: "MPM (2,5-DIMETHOXY-4-(n)-PROPOXYAMPHETAMINE) -- 2c-b-pihkal-entry-20 #138"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -101,7 +101,7 @@ was added to 3 volumes of H2O. The excess acid was neutralized with
 solid K2CO3. The dark solution was extracted with 3x100 mL Et2O, the
 extracts pooled, and stripped of solvent under vacuum to give 59 g of
 crude 2,4-dimethoxyphenyl formate. This was suspended in 200 mL 10%
-NaOH, and the mixture heated on the steam bath for 1 h. On cooling,
+NaOH, and the mixture heated on the [[scythian-cannabis-steam-bath-ritual]] for 1 h. On cooling,
 the reaction mixture was washed with 2x200 mL methylene chloride,
 acidified with HCl, and extracted with 3x200 mL CH2Cl2. The extracts
 were pooled and the solvent removed under vacuum. There remained as
@@ -133,7 +133,7 @@ removed by filtration, water washed, and sucked as dry as possible.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

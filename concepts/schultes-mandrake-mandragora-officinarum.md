@@ -1,5 +1,5 @@
 ---
-title: Schultes Mandrake Mandragora Officinarum
+title: Schultes Mandrake mandrake-mandragora-officinarum-in-european-folklore
 created: 2026-04-28
 tags: [ethnobotany, mandrake, mandragora, europe, witchcraft, solanaceae, tropane, medieval]
 date: 2026-04-28
@@ -23,7 +23,7 @@ because of its anthropomorphic root.
 *Mandragora officinarum* L. belongs to the Solanaceae (Nightshade
 family), native to southern Europe, northern Africa, and western Asia
 to the Himalayas. While there are six species of *Mandragora*, it is
-*M. officinarum* of Europe and the Near East that has played the most
+*M. officinarum* of Europe and the [[ancient-cannabis-use-near-east-and-egypt]] that has played the most
 important role as a hallucinogen in magic and witchcraft.
 
 It is a stemless perennial herb up to 1 ft (30 cm) high, with a thick,
@@ -58,11 +58,11 @@ plant.
 Mandrake became famous in magic and witchcraft because of its powerful
 narcotic effects and the bizarre form of its root. It represents one of
 the best examples of the application of the Doctrine of Signatures in
-European botanical folklore. The plant's cultural significance
+European botanical folklore. The plant's [[ethnomycology-cultural-significance-sacred-fungi]]
 extended from classical antiquity through the medieval period, making
 it perhaps the most storied psychoactive plant in Western history.
 Many of its superstitions persisted in European folklore even into the
-nineteenth century, long after the herbalists had begun to reject the
+[[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], long after the herbalists had begun to reject the
 ancient legends surrounding this remarkable plant.
 
 ## See Also
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

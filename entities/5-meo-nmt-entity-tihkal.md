@@ -1,5 +1,5 @@
 ---
-title: 5 Meo Nmt (Tihkal)
+title: 5 5 meo nmt entity tihkal (Tihkal)
 created: 2026-04-16
 updated: 2026-04-16
 type: entity
@@ -40,7 +40,7 @@ The systematic table of 5-methoxylated tryptamines that Shulgin constructed
 represents one of the most comprehensive structure-activity relationship
 studies in psychedelic chemistry. By organizing compounds by increasing
 mass at the nitrogen atom, clear patterns emerge regarding the relationship
-between N-substitution and both potency and qualitative effects.
+between N-substitution and both potency and [[mdma-qualitative-effects-phenomenology]].
 
 ## Detailed Pharmacological Discussion
 
@@ -61,7 +61,7 @@ psychedelic, its affinity for melatonin receptors and its role in circadian
 rhythm regulation suggest that 5-MeO-NMT may have some cross-reactivity
 with these or related receptor systems.
 
-The compound's natural occurrence in plants suggests it serves as a
+The compound's [[brassinosteroid-natural-occurrence-plant-kingdoms]] in plants suggests it serves as a
 biosynthetic intermediate in the production of 5-MeO-DMT, via a second
 N-methylation step. This biosynthetic role may be its primary function
 in the plants where it occurs.

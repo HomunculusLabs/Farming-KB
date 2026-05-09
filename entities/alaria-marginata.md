@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Abbott IA, Hollenberg GJ (1976). "Marine Algae of California." Stanford University Press.
-  - Druehl LD (1970). "The distribution of the genus Alaria along the Pacific coast of North America." Syesis, 3, 251–261.
+  - Druehl LD (1970). "The distribution of the genus Alaria along the Pacific coast of [[psilocybin-north-america-pacific-northwest]]." Syesis, 3, 251–261.
   - Kelp Forest Monitoring Program (2023). "Species Profile: Alaria marginata." Partnership for Interdisciplinary Studies of Coastal Oceans.
   - Lindstrom SC (2009). "The biogeography of kelps (Laminariales, Phaeophyceae): a rhymed account." Botanica Marina, 52(3), 197–210.
 ---
@@ -74,7 +74,7 @@ Vitamin content includes significant amounts of vitamin K, folate, and vitamin C
 
 Dietary fiber from alginates, fucoidans, and laminarin constitutes 25–35% of dry weight. These soluble fibers have prebiotic properties and may support gut microbiome health.
 
-The species is very low in fat, with lipids comprising approximately 1–2% of dry weight. Omega-3 fatty acids, particularly EPA, are present in small but nutritionally meaningful quantities.
+The species is very low in fat, with lipids comprising approximately 1–2% of dry weight. Omega-3 [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]], particularly EPA, are present in small but nutritionally meaningful quantities.
 
 ## Culinary Use
 
@@ -88,7 +88,7 @@ The species is commercially available as dried whole fronds, flakes, and powder.
 
 ## Reproductive Biology
 
-Alaria marginata has a heteromorphic life cycle alternating between a large sporophyte and a microscopic gametophyte. Reproductive sporophylls at the stipe base produce motile zoospores during winter and early spring.
+Alaria marginata has a heteromorphic [[bloomfield-fungal-life-cycle-spiral-versus-circle]] alternating between a large sporophyte and a microscopic gametophyte. Reproductive sporophylls at the stipe base produce motile zoospores during winter and [[coleman-overwintered-onions-and-early-spring-crops]].
 
 Zoospores settle on suitable substrate and develop into microscopic male or female gametophytes. Fertilization produces a zygote that grows into the familiar macroscopic sporophyte.
 

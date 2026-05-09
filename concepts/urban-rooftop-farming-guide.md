@@ -1,5 +1,5 @@
 ---
-title: Urban Rooftop Farming Guide
+title: Urban urban rooftop farming guide Guide
 created: 2026-04-28
 tags: [urban-permaculture, rooftop-farming, container-gardening, urban-food-production, green-roof]
 date: 2026-04-25
@@ -14,11 +14,11 @@ type: concept
 
 Urban rooftop farming transforms unused building tops into productive growing
 spaces, replacing the ecological footprint that buildings remove from the
-landscape. In permaculture design, rooftops represent a significant
+landscape. In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], rooftops represent a significant
 underutilized resource in cities, offering sun exposure, airspace, and
 vertical positioning that ground-level gardens often lack. Tomatoes ripening
 on rooftops, onions framing sidewalks, and crops growing above balcony
-railings are examples of how urban permaculture reclaims vertical space for
+railings are examples of how [[pdc-urban-permaculture-design-principles]] reclaims vertical space for
 food production.
 
 ## Key Concepts
@@ -35,10 +35,10 @@ the productive area per square meter of footprint.
 
 ### Container Systems for Rooftops
 
-Container gardening is the primary method for rooftop food production.
+[[comparison-cold-frame-gardening-vs-container-gardening-guide]] is the primary method for rooftop food production.
 Raised beds made of sticks and other found materials can be adapted for
 rooftop use. Containers allow complete control over soil mix, drainage,
-and nutrient management. The depth and volume of containers determines
+and [[green-cannabis-grow-bible-nutrient-management-ppm]]. The depth and volume of containers determines
 which crops can be grown successfully. Shallow containers suit lettuce,
 herbs, and radishes while deeper beds support tomatoes, peppers, and even
 small fruit trees. See [[urban-rooftop-gardening-and-sheet-mulching]] for detailed sheet
@@ -82,7 +82,7 @@ demonstrate the economic viability of urban food production.
 
 ### Integration with Water Systems
 
-Rooftop farming naturally integrates with rainwater harvesting systems.
+Rooftop farming naturally integrates with [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]] systems.
 Growing beds can serve as bio-filtration for greywater when properly
 designed. The combination of food production and water management creates
 multi-functional systems that exemplify permaculture principles. See

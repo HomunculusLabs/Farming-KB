@@ -39,7 +39,7 @@ Fallen leaves in garden beds support a succession of fungal decomposers:
 
 - Early colonizers (sugar fungi) rapidly consume simple carbohydrates
 - Later successional species (white-rot fungi) break down tougher leaf components
-- This processing cycle converts raw leaf litter into stable humus that improves soil structure, water retention, and nutrient availability
+- This processing cycle converts raw leaf litter into stable humus that improves soil structure, water retention, and [[ph-and-nutrient-availability-garden-soils]]
 
 ## Mycorrhizal Partnerships
 
@@ -47,20 +47,20 @@ Fallen leaves in garden beds support a succession of fungal decomposers:
 
 Approximately 90-95% of garden plants form [[mycorrhizal-fungi|mycorrhizal associations]] with soil fungi. These symbiotic relationships are fundamental to garden plant health:
 
-- The fungal partner extends the plant's effective root system through a vast mycelial network
+- The fungal partner extends the plant's effective root system through a vast [[gadd-mycelial-network-dynamics]]
 - Fungi deliver water and nutrients (particularly [[phosphorus-availability|phosphorus]], which is highly immobile in soil) to the plant
 - In return, the plant provides the fungus with carbon compounds (sugars) produced through photosynthesis
 - This exchange can supply up to 50% of a garden's nitrogen and 80% of its phosphorus
 
 ### Types in Gardens
 
-- **Arbuscular mycorrhizal fungi (AMF):** The most common type, associated with most vegetables, flowers, grasses, and herbs
+- **[[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi (AMF):** The most common type, associated with most vegetables, flowers, grasses, and herbs
 - **Ectomycorrhizal fungi:** Associated with trees and shrubs (oak, pine, birch); relevant in gardens with mature trees
 
 ### Garden Practices and Mycorrhizae
 
-- **Tilling** disrupts mycorrhizal networks; no-till or reduced tillage preserves them
-- **Chemical fertilizers**, particularly high-phosphorus synthetic types, can suppress mycorrhizal formation (why form a partnership if phosphorus is freely available?)
+- **Tilling** disrupts [[dighton-mycorrhizal-networks-carbon-transfer]]; no-till or reduced tillage preserves them
+- **[[cervantes-chemical-fertilizers-guide]]**, particularly high-phosphorus synthetic types, can suppress mycorrhizal formation (why form a partnership if phosphorus is freely available?)
 - **[[cover-crop-guide-detailed|cover crops]]** maintain living roots that sustain mycorrhizal networks between main crops
 - **[[compost-building-guide|compost]]** applications support mycorrhizal fungi indirectly by nurturing the broader soil food web
 
@@ -79,7 +79,7 @@ Approximately 90-95% of garden plants form [[mycorrhizal-fungi|mycorrhizal assoc
 
 Various mushrooms commonly appear in lawns:
 
-- **Coprinus comatus (shaggy mane):** Tall, white mushrooms with campanulate caps that melt into black ink at maturity. Common in meadows, lawns, and open locations where bell-shaped caps are particularly effective at slowing air flow and promoting spore dispersal.
+- **[[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]] (shaggy mane):** Tall, white mushrooms with campanulate caps that melt into black ink at maturity. Common in meadows, lawns, and open locations where bell-shaped caps are particularly effective at slowing air flow and promoting spore dispersal.
 - **Conocybe species:** Smaller bell-capped lawn fungi, listed as both poisonous and hallucinogenic -- a profoundly dangerous combination
 - **Agaricus campestris (meadow mushroom):** Edible field mushroom; careful identification required to distinguish from toxic look-alikes
 

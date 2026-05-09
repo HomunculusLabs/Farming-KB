@@ -1,5 +1,5 @@
 ---
-title: Ololiuqui Investigation - Morning Glory Alkaloids
+title: Ololiuqui Investigation - golden-guide-morning-glory-and-ololiuqui Alkaloids
 created: 2026-04-28
 tags:
   - ololiuqui
@@ -19,7 +19,7 @@ type: concept
 ## Historical Background
 
 Ololiuhqui is the Aztec name for the seeds of certain climbing plants
-(Convolvulaceae) that, like the mescaline cactus peyotl and the
+(Convolvulaceae) that, like the [[peyote-mescaline-cactus-pharmacology]] peyotl and the
 teonanacatl mushrooms, were used in pre-Columbian times by the Aztecs
 and neighboring peoples in religious ceremonies and magical healing
 practices. Ololiuhqui is still used today by certain Indian tribes such
@@ -29,7 +29,7 @@ southern Mexico.
 
 ## Early Scholarly Documentation
 
-Richard Evans Schultes, director of the Harvard Botanical Museum,
+Richard [[richard-evans-schultes-updated]], director of the Harvard Botanical Museum,
 published an excellent study in 1941 entitled "A Contribution to Our
 Knowledge of Rivea corymbosa, the Narcotic Ololiuqui of the Aztecs."
 The earliest records about this drug were written by Spanish chroniclers
@@ -49,7 +49,7 @@ them."
 
 The botanical identification of ololiuhqui as seeds of Rivea corymbosa
 occasioned many discussions. Recently preference has been given to the
-synonym Turbina corymbosa. The Zapotec also utilize badoh negro, the
+synonym [[plants-of-the-gods-turbina-corymbosa-ololiuqui]]. The Zapotec also utilize badoh negro, the
 seeds of Ipomoea violacea. While Turbina corymbosa thrives only in
 tropical or subtropical climates, Ipomoea violacea grows as an
 ornamental plant dispersed over the whole earth in temperate zones. It
@@ -126,14 +126,14 @@ logical conclusion" in his hallucinogenic drug research, forming "a
 magic circle": the starting point had been the synthesis of lysergic
 acid amides including ergobasin. This led to the synthesis of LSD. The
 hallucinogenic properties of LSD led to the investigation of the sacred
-mushroom teonanacatl, from which psilocybin and psilocin were isolated.
+[[mckenna-mushroom-teonanacatl-franciscan-theophagy-and-oaxaca-survival]], from which psilocybin and psilocin were isolated.
 This proceeded to ololiuhqui, in which hallucinogenic lysergic acid
 amides were again encountered, including ergobasin, "with which the
 magic circle closed."
 
 ## Related Topics
 
-- [[hofmann-lsd-mazatec-and-psilocybin]] for the preceding Mexican mushroom
+- [[hofmann-lsd-mazatec-and-psilocybin]] for the preceding [[gartz-wasson-mexican-mushroom-cult-rediscovery]]
   investigation
 - [[hofmann-lsd-sandoz-research-program]] for the broader Sandoz research
   environment

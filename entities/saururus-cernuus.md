@@ -12,11 +12,11 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Godfrey, R.K. & Wooten, J.W. (1981). "Aquatic and Wetland Plants of Southeastern United States." University of Georgia Press.
-  - Moerman, D.E. (1998). "Native American Ethnobotany." Timber Press.
+  - Godfrey, R.K. & Wooten, J.W. (1981). "permaculture-plants-aquatic-and-wetland-species Plants of Southeastern United States." University of Georgia Press.
+  - Moerman, D.E. (1998). "[[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany." Timber Press.
   - USDA NRCS (2024). "Saururus cernuus Plant Guide." USDA Natural Resources Conservation Service.
   - Cook, C.D.K. (1996). "Aquatic and Wetland Plants of India." Oxford University Press.
-  - Crow, G.E. & Hellquist, C.B. (2000). "Aquatic and Wetland Plants of Northeastern North America." University of Wisconsin Press.
+  - Crow, G.E. & Hellquist, C.B. (2000). "Aquatic and Wetland Plants of Northeastern [[psilocybin-north-america-pacific-northwest]]." University of Wisconsin Press.
 ---
 
 ## Overview
@@ -27,7 +27,7 @@ The species grows in shallow water and saturated soils along stream banks, marsh
 
 Lizard's tail produces white, fragrant flowers arranged on a distinctive curved spike from June through September. The flowers attract a variety of insect pollinators and the foliage provides habitat for aquatic invertebrates.
 
-The plant has documented use in traditional medicine among Native American peoples and has shown phytoremediation potential for removing heavy metals from contaminated water. It is increasingly planted in constructed wetlands for water treatment.
+The plant has documented use in traditional medicine among Native American peoples and has shown phytoremediation potential for removing heavy metals from contaminated water. It is increasingly planted in [[comparison-constructed-wetlands-vs-bioswales]] for water treatment.
 
 ## Taxonomy and Morphology
 
@@ -65,7 +65,7 @@ Lizard's tail is easily propagated by division of rhizomes in spring or early su
 
 Seed propagation is possible but less reliable. Seeds require no cold stratification and germinate readily on moist soil surfaces. However, seedlings grow slowly compared to vegetative divisions.
 
-In constructed wetlands and stormwater treatment systems, *S. cernuus* is valued for its ability to tolerate fluctuating water levels and its capacity for nutrient uptake. It contributes to nitrogen and phosphorus removal.
+In constructed wetlands and stormwater treatment systems, *S. cernuus* is valued for its ability to tolerate fluctuating water levels and its capacity for [[plant-nutrient-uptake-mechanisms]]. It contributes to nitrogen and phosphorus removal.
 
 The species is hardy to USDA zone 4 and requires no winter protection. Foliage dies back to the rhizome after frost, and new growth emerges in mid-spring.
 
@@ -95,7 +95,7 @@ The Seminole used the plant as a mild diuretic and digestive aid. Various tribes
 
 Modern herbal literature mentions lizard's tail infrequently. Limited pharmacological studies suggest anti-inflammatory and diuretic properties, but research remains preliminary and the species is not commercially available as an herbal product.
 
-The Asian congener *Saururus chinensis* has been more extensively studied, with documented anti-inflammatory, antioxidant, and hepatoprotective activities. These findings have increased research interest in *S. cernuus* as a potential North American analogue.
+The Asian congener *Saururus chinensis* has been more extensively studied, with documented anti-inflammatory, antioxidant, and hepatoprotective activities. These findings have increased research interest in *S. cernuus* as a potential [[growing-gourmet-north-american-reishi-species]] analogue.
 
 ## See Also
 

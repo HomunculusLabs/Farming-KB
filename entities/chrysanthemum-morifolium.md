@@ -34,15 +34,15 @@ The inflorescence is a capitulum (flower head) 2–10 cm diameter depending on c
 
 ## Distribution and Habitat
 
-C. morifolium is native to China, where it has been cultivated for over 3,000 years. Wild populations are found in mountainous regions of central and eastern China. The species has been naturalized in Japan, Korea, and parts of Southeast Asia.
+C. morifolium is native to China, where it has been cultivated for over 3,000 years. Wild populations are found in mountainous regions of central and eastern China. The species has been naturalized in Japan, Korea, and parts of [[psilocybe-southeast-asia-pacific]].
 
-The plant grows in open fields, forest margins, and mountain slopes at elevations of 200–1,500 m. It prefers full sun, well-drained loamy soils, and a temperate climate. Cultivated forms are grown commercially across China, Japan, Korea, and increasingly in other countries.
+The plant grows in open fields, forest margins, and mountain slopes at elevations of 200–1,500 m. It prefers full sun, well-drained loamy soils, and a [[permaculture-designers-manual-temperate-climate-design]]. Cultivated forms are grown commercially across China, Japan, Korea, and increasingly in other countries.
 
 Major production regions in China include Tongxiang (Zhejiang), Bozhou (Anhui), Jiaozuo (Henan), and Huanggang (Hubei). Each region produces distinct medicinal varieties with characteristic chemical profiles.
 
 ## Cultivation
 
-Propagation is primarily through stem cuttings, division of rooted offsets, or tissue culture. Seed propagation is used mainly in breeding programs due to genetic variability. Cuttings root readily in 2–3 weeks under mist propagation.
+Propagation is primarily through stem cuttings, division of rooted offsets, or [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]. Seed propagation is used mainly in breeding programs due to genetic variability. Cuttings root readily in 2–3 weeks under mist propagation.
 
 Field planting occurs in spring after the last frost. Plants are spaced 30–50 cm apart in rows 60–80 cm apart, giving planting densities of 25,000–55,000 plants per hectare. Pinching back the growing tips promotes branching and increases flower yield.
 
@@ -60,7 +60,7 @@ Carotenoids (lutein, zeaxanthin, β-carotene) provide the yellow petal pigmentat
 
 Pharmacological studies confirm hepatoprotective effects against carbon tetrachloride and acetaminophen-induced liver injury. Anti-inflammatory activity is mediated through suppression of NF-κB and MAPK pathways. Cardiovascular benefits include vasodilation and blood pressure reduction.
 
-The flowers exhibit antimicrobial activity against Gram-positive bacteria and some fungi. Neuroprotective effects have been demonstrated in models of ischemic brain injury, attributed to flavonoid-mediated reduction of oxidative stress.
+The flowers exhibit antimicrobial activity against Gram-positive bacteria and some fungi. Neuroprotective effects have been demonstrated in models of ischemic brain injury, attributed to flavonoid-mediated reduction of [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]].
 
 ## Traditional Chinese Medicine
 
@@ -70,7 +70,7 @@ It is prescribed for headaches, dizziness, red and painful eyes, and sore throat
 
 Several regionally distinct varieties are recognized. *Hang Ju* from Zhejiang (white flowers) is used for calming the liver and improving vision. *Bo Ju* from Anhui (yellow flowers) is preferred for dispelling wind-heat. *Gong Ju* from Henan is used as both medicine and beverage.
 
-Daily dosage is 5–10 g in decoction. The flowers are also consumed as a daily health tea throughout China, often combined with goji berries, wolfberry, or rock sugar. Excessive consumption may cause digestive upset in cold-pattern constitutions.
+Daily dosage is 5–10 g in decoction. The flowers are also consumed as a daily health tea throughout China, often combined with [[query-how-do-i-grow-goji-berries-at-home]], wolfberry, or rock sugar. Excessive consumption may cause digestive upset in cold-pattern constitutions.
 
 ## Culinary Use
 
@@ -100,9 +100,11 @@ The flowers provide late-season nectar for pollinators when few other plants are
 
 Ornamental chrysanthemum breeding has produced thousands of cultivars in diverse forms: pompon, spider, quill, incurved, and decorative types. The global cut flower market for chrysanthemums exceeds $3 billion annually.
 
-The species has become invasive in some regions outside its native range, particularly in parts of Europe and North America. Its allelopathic compounds can suppress growth of neighboring plant species in wild settings.
+The species has become invasive in some regions outside its native range, particularly in parts of Europe and [[psilocybin-north-america-pacific-northwest]]. Its allelopathic compounds can suppress growth of neighboring plant species in wild settings.
 
 ## See Also
+
+- [[chrysanthemum-coronarium]]
 
 - [[taraxacum-officinale]]
 - achillea-millefolium

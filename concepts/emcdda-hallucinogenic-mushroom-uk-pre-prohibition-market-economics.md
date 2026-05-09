@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - EMCDDA Thematic Papers - Hallucinogenic Mushrooms: An Emerging Trend Case Study (Hillebrand, Olszewski, Sedefov, 2006)
+  - EMCDDA Thematic Papers - emcdda-hallucinogenic-mushrooms-emerging-trend-europe: An Emerging Trend Case Study (Hillebrand, Olszewski, Sedefov, 2006)
 type: concept
 ---
 
@@ -52,13 +52,13 @@ UK retailers sold a variety of hallucinogenic mushroom products. Based on pricin
 - Growkits: 25 to 100 euros per unit, depending on species and complexity.
 - Spore prints or syringes: 9 to 28 euros per item.
 
-The Free Spore Ring Europe, a non-profit organization, offered various strains including Psilocybe cubensis and Panaeolus cyanescens for approximately 1 euro per print, significantly undercutting commercial prices and facilitating home cultivation.
+The Free Spore Ring Europe, a non-profit organization, offered various strains including Psilocybe cubensis and [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]] for approximately 1 euro per print, significantly undercutting commercial prices and facilitating home cultivation.
 
 ## Transition to Alternative Products
 
-The prohibition of psilocybin-containing fungi in July 2005 triggered an immediate restructuring of the market. Online headshops such as EveryOneDoesIt.com and Allsalvia.co.uk ceased selling magic mushroom products and pivoted to legal alternatives. The most prominent substitute was Amanita muscaria (fly agaric), which does not contain psilocybin and was therefore unaffected by the new legislation.
+The prohibition of psilocybin-containing fungi in July 2005 triggered an immediate restructuring of the market. Online headshops such as EveryOneDoesIt.com and Allsalvia.co.uk ceased selling magic mushroom products and pivoted to legal alternatives. The most prominent substitute was [[allegro-amanita-muscaria-properties-and-pharmacology]] (fly agaric), which does not contain psilocybin and was therefore unaffected by the new legislation.
 
-Other products marketed as legal alternatives included Amanita pantherina (panther mushroom) and Purple Ohms capsules, whose primary active ingredient is Argyreia nervosa (Hawaiian Baby Woodrose), containing lysergic acid amide (LSA). The 2005 Mixmag survey confirmed the market impact, with 67% of respondents reporting decreased availability following the legal change.
+Other products marketed as legal alternatives included Amanita pantherina (panther mushroom) and Purple Ohms capsules, whose primary active ingredient is [[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]] (Hawaiian Baby Woodrose), containing lysergic acid amide (LSA). The 2005 Mixmag survey confirmed the market impact, with 67% of respondents reporting decreased availability following the legal change.
 
 One UK internet retailer, Allsalvia.co.uk, posted a "sold out" notice for mushroom growkits in July 2005 alongside a warning that fresh hallucinogenic mushrooms, truffles, and growkits were about to become Class A controlled drugs. The Irish online headshop THC (thc.ie) similarly posted a notice that their hallucinogenic mushroom products were no longer available since becoming illegal on 31 January 2006.
 
@@ -104,7 +104,7 @@ The pre-prohibition UK market presented several regulatory contradictions. The g
 Online retailers offered a broader range of products than physical retail outlets, catering to both casual users and dedicated cultivators. Product categories included:
 
 - **Fresh mushrooms**: The most common product type, sold in sealed packages with refrigerated shipping. Psilocybe cubensis varieties (Mexican, Thai, Colombian, Amazonian) dominated this category. Fresh mushrooms could be stored for 7 to 10 days due to their low water content, making them suitable for mail order.
-- **Truffles and sclerotia**: Psilocybe mexicana and Psilocybe tampanensis sclerotia, marketed as "Philosopher's stones" or "truffles," represented a premium product segment. Sclerotia are hardened masses of mycelium, more resistant to adverse environmental conditions, which some users preferred for their reportedly different subjective effects.
+- **Truffles and sclerotia**: Psilocybe mexicana and [[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]] sclerotia, marketed as "Philosopher's stones" or "truffles," represented a premium product segment. Sclerotia are hardened masses of mycelium, more resistant to adverse environmental conditions, which some users preferred for their reportedly different subjective effects.
 - **Spawnbags**: Sterile bags containing colonized woodchip substrate with mushroom mycelium for outdoor cultivation. Psilocybe azurescens spawnbags were available for 24 to 25 euros.
 - **Growkits**: Complete cultivation kits containing a box with colonized substrate, a filter bag, and accessories. Growkits were available for various species and ranged from 25 to 100 euros depending on complexity and species.
 - **Spore prints and syringes**: For home cultivators, spore prints (created by pressing mushroom gills onto paper) and spore syringes (spores suspended in sterile water) were available for 9 to 28 euros per item.
@@ -121,12 +121,15 @@ The EMCDDA conducted a snapshot assessment of 21 online shops in January 2006 to
 
 - **Contraindications**: The majority of shops warned against use when taking medication or in combination with alcohol or other drugs such as stimulants. However, only two thirds recommended against use by people suffering from depression or psychosis.
 - **Dosage information**: About half of the sites provided dosage guidance, and a similar proportion included information on safe use practices such as consuming on an empty stomach, drinking liquids during the experience, and consuming in a quiet, safe environment.
-- **Side effects**: The vast majority of sites excluded information on possible negative side effects. Only a minority explicitly mentioned nausea and sickness, which are among the most common adverse effects.
+- **Side effects**: The vast majority of sites excluded information on possible negative side effects. Only a minority explicitly mentioned nausea and sickness, which are among the most common [[blesching-cannabis-safety-adverse-effects-evidence]].
 - **Positive effects**: Most sites provided detailed information on sought-after effects, creating an imbalanced presentation that emphasized benefits while minimizing risks.
 - **Product labeling**: Information leaflets typically provided no information about maximum shelf life, the nature of possible side effects, or the proportion of active substances (psilocybin and psilocin) in the product.
 
 ## See Also
 
-- [[magic-mushroom-prohibition-britain-2005]]
+- magic-mushroom-prohibition-britain-2005
 - [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]]
 - [[smartshop-hallucinogenic-mushroom-market]]
+- [[emcdda-hallucinogenic-mushroom-legal-prohibition-impact-uk-netherlands]]
+- [[emcdda-hallucinogenic-mushroom-internet-shop-market-snapshot-2006]]
+- [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]]

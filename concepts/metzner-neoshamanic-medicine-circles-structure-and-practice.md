@@ -1,5 +1,5 @@
 ---
-title: "Neoshamanic Medicine Circles — Structure and Practice"
+title: "metzner neoshamanic medicine circles structure and practice Circles — Structure and Practice"
 source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 type: concept
 tags: [metzner, neoshamanism, medicine-circle, entheogenic-ceremony, hybrid-therapy, circle-ritual]
@@ -11,9 +11,9 @@ tags: [metzner, neoshamanism, medicine-circle, entheogenic-ceremony, hybrid-ther
 
 Ralph Metzner coined and extensively documented the phenomenon of "neoshamanic
 medicine circles" — hybrid ritual forms that blend elements of traditional
-shamanic healing ceremonies with Western psychotherapeutic approaches. Over
+[[metzner-shamanic-healing-and-divination-paradigm]] ceremonies with Western psychotherapeutic approaches. Over
 more than a decade of participant-observation research, Metzner attended over
-100 such circle rituals in both Europe and North America, involving several
+100 such circle rituals in both Europe and [[psilocybin-north-america-pacific-northwest]], involving several
 hundred participants, many of them repeatedly. His analysis provides the most
 detailed ethnographic account available of contemporary Western entheogenic
 practice outside of organized religious contexts.
@@ -22,11 +22,11 @@ practice outside of organized religious contexts.
 
 Neoshamanic medicine circles represent what Metzner called a "hybrid of the
 psychotherapeutic and traditional shamanic approaches." They are distinguished
-from both clinical psychedelic therapy sessions and traditional indigenous
+from both clinical [[metzner-psycholytic-psychedelic-therapy-models]] sessions and traditional indigenous
 ceremonies by their intentional synthesis of elements from multiple traditions.
 Participants in these circles tend to be experienced in one or more
 psychospiritual practices — including shamanic drum journeying, Buddhist
-vipassana meditation, tantra yoga, holotropic breathwork, and various forms of
+vipassana meditation, tantra yoga, [[metzner-holotropic-breathwork-and-grof-perinatal-matrices]], and various forms of
 psychotherapy and body-oriented therapy.
 
 ## Core Structural Elements
@@ -57,7 +57,7 @@ most neoshamanic medicine circles:
 
 - **Sacred space dedication**: The ritual space is dedicated through
   invocation of spirits of the four directions and elements, a practice
-  drawn from both Native American and European pagan ceremonial traditions.
+  drawn from both [[halpern-sacramental-peyote-and-native-american-church]] and European pagan ceremonial traditions.
 
 - **Respectful attitude**: Participants cultivate a spiritual, reverent
   approach to the experience, distinguishing it from recreational drug use.
@@ -139,7 +139,9 @@ be adequately accounted for within a purely materialist framework.
 ## Relation to William James's Pluralistic Universe
 ## Related
 
+- [[metzner-hybrid-circle-ritual-structure-and-council-practice]]
+
 - [[metzner-hybrid-shamanic-therapeutic-rituals]] — Metzner's broader analysis
 - [[hybrid-shamanic-therapy]] — the hybrid therapeutic model
-- [[talking-staff-and-council-practice-in-entheogenic-ceremonies]] — the
+- talking-staff-and-council-practice-in-entheogenic-ceremonies — the
   council practice tradition

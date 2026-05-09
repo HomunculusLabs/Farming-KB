@@ -1,5 +1,5 @@
 ---
-title: Lignin Degradation by Fungi
+title: mycoremediation-white-rot-fungi-lignin-degradation-enzymes by Fungi
 created: 2026-04-28
 tags:
   - mycology
@@ -20,7 +20,7 @@ Lignin is one of the most abundant organic polymers on Earth, accounting for
 approximately 20 gigatonnes of the annual terrestrial production of plant cell
 wall material. As a complex, irregular, three-dimensional aromatic polymer,
 lignin is remarkably resistant to microbial breakdown. Among all organisms,
-only certain groups of fungi, primarily the White Rot Fungi, possess the
+only certain groups of fungi, primarily the [[comparison-brown-rot-vs-white-rot-bioremediation]] Fungi, possess the
 enzymatic machinery necessary to depolymerize and mineralize lignin. This
 capability underpins much of [[mycoremediation-techniques]] for treating recalcitrant
 pollutants.
@@ -31,13 +31,13 @@ Most reviews of lignocellulose degradation have focused on the mechanisms of
 the process rather than the ecophysiology of the organisms involved. The
 Basidiomycota and Ascomycota are responsible for decomposition of a high
 proportion of the annual terrestrial production of lignocellulose-rich plant
-cell wall material. The basis of most studies has been economic rather than
+[[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] material. The basis of most studies has been economic rather than
 ecological, with focus on applied aspects including biodeterioration,
 bioremediation, and bioconversion.
 
 An important gap in knowledge is that comparatively few taxa have been
 studied, and nearly all originate from northern temperate forest and taiga
-biomes. In tropical forest, 74% of primary production is deposited as woody
+biomes. In [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]], 74% of [[lichens-primary-production-soil-formation-dighton]] is deposited as woody
 litter, and there are estimated to be three times more taxa of higher fungi
 than in other forest ecosystems, of which a much higher proportion are
 decomposers. Isolation and screening of wood and litter decomposing fungi
@@ -65,7 +65,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +107,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: Medicinal Mushrooms Compounds And Benefits
+title: comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive Compounds And Benefits
 created: 2026-04-28
 tags: [mushrooms, medicinal, health, compounds, mycology]
 date: 2026-04-28
@@ -13,7 +13,7 @@ type: concept
 Medicinal mushrooms have been used in traditional medicine for
 thousands of years, particularly in East Asian cultures. Modern research
 has begun to validate many traditional uses and has identified specific
-bioactive compounds responsible for therapeutic effects. The field
+[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] responsible for therapeutic effects. The field
 remains active, with new compounds and mechanisms being discovered
 regularly.
 
@@ -31,7 +31,7 @@ preparations generally contain higher triterpene concentrations.
 
 ### Ergothioneine
 
-Ergothioneine is a unique amino acid derivative and potent antioxidant
+Ergothioneine is a unique [[cho-fish-amino-acid-preparation]] derivative and potent antioxidant
 found in high concentrations in several mushroom species. The human
 body has a specific transporter protein (OCTN1) for ergothioneine,
 suggesting it plays an important physiological role. Unlike most
@@ -40,13 +40,13 @@ it does not become a pro-oxidant under certain conditions.
 
 Shiitake, oyster, and king [[hericium-erinaceus]])
 and have attracted significant attention for their potential
-neuroprotective effects. Hericenones are found in the fruiting body,
+neuroprotective effects. Hericenones are found in the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]],
 while erinacines are found primarily in the mycelium. Both stimulate
 nerve growth factor (NGF) synthesis, which is critical for the growth,
 maintenance, and survival of neurons.
 
 Research in animal models has shown improvements in cognitive function,
-memory, and nerve regeneration. Human clinical trials are ongoing but
+memory, and nerve regeneration. Human [[mushroom-cancer-clinical-trials-overview]] are ongoing but
 early results are promising, particularly for age-related cognitive
 decline and mild cognitive impairment.
 

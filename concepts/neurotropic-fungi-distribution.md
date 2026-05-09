@@ -1,5 +1,5 @@
 ---
-title: Worldwide Distribution of Neurotropic Fungi
+title: Worldwide  Fungi
 created: 2026-04-28
 tags:
   - mycology
@@ -17,7 +17,7 @@ type: concept
 
 # Worldwide Distribution of Neurotropic Fungi
 
-The worldwide distribution of neurotropic (hallucinogenic or psychotropic) fungi encompasses at least 216 known species distributed across all continents, with the greatest diversity concentrated in subtropical and tropical regions of the Southern Hemisphere. This concept page summarizes the taxonomic groups, biogeographic patterns, and ecological factors governing their distribution based on the comprehensive monograph by Guzman, Allen, and Gartz (1998).
+The worldwide distribution of neurotropic (hallucinogenic or psychotropic) fungi encompasses at least 216 known species distributed across all continents, with the greatest diversity concentrated in subtropical and tropical regions of the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]. This concept page summarizes the taxonomic groups, biogeographic patterns, and ecological factors governing their distribution based on the comprehensive monograph by Guzman, Allen, and Gartz (1998).
 
 ## Taxonomic Groups
 
@@ -27,7 +27,7 @@ Neurotropic fungi are divided into four major chemical groups:
 
 2. **Ibotenic acid-containing species**: Amanita muscaria, A. pantherina, and A. regalis. These contain muscimol and ibotenic acid rather than psilocybin. The Amanita genus is globally distributed and includes both neurotropic and deadly poisonous species.
 
-3. **Ergot fungi**: Claviceps purpurea and allies (5 species of Claviceps) plus 2 Cordyceps species. These produce ergot alkaloids including lysergic acid amide and related compounds that have been used medicinally and ritually.
+3. **Ergot fungi**: [[bloomfield-ergot-claviceps-purpurea-ergotism]] and allies (5 species of Claviceps) plus 2 Cordyceps species. These produce ergot alkaloids including lysergic acid amide and related compounds that have been used medicinally and ritually.
 
 4. **Sacred fungi without confirmed chemistry**: Several boletes (Boletus, Heimiella), Russula species, and gasteromycetes (Lycoperdales and Phallales) used traditionally but lacking reliable chemical analysis to confirm psychoactive properties.
 
@@ -35,15 +35,15 @@ Neurotropic fungi are divided into four major chemical groups:
 
 ### Southern Hemisphere Dominance
 
-The majority of Psilocybe species occur in or near the Austral hemisphere, primarily in subtropical humid forests. Of 85 neurotropic Psilocybe species surveyed, 59 are found in South America and Mexico, compared to 18 in the USA and Canada, and only 9 in Europe. This pattern persists despite the Northern Hemisphere being more thoroughly explored mycologically, suggesting it reflects genuine ecological and evolutionary factors rather than sampling bias.
+The majority of Psilocybe species occur in or near the [[biogeography-austral-hemisphere-fungi]], primarily in subtropical humid forests. Of 85 neurotropic Psilocybe species surveyed, 59 are found in South America and Mexico, compared to 18 in the USA and Canada, and only 9 in Europe. This pattern persists despite the Northern Hemisphere being more thoroughly explored mycologically, suggesting it reflects genuine ecological and evolutionary factors rather than sampling bias.
 
-Mexico is the global center of neurotropic fungal diversity, with 76 total neurotropic species, of which 44 belong to Psilocybe (39% of the world total). The most well-documented traditional use of these fungi also occurs in Mexico among indigenous peoples of Oaxaca and surrounding regions, including the Mazatec, Chinantec, Zapotec, Mixtec, and Nahuatl peoples.
+Mexico is the global  diversity, with 76 total neurotropic species, of which 44 belong to Psilocybe (39% of the world total). The most well-documented traditional use of these fungi also occurs in Mexico among indigenous peoples of Oaxaca and surrounding regions, including the Mazatec, Chinantec, Zapotec, Mixtec, and Nahuatl peoples.
 
 ### Distribution Types
 
 Following Hongo's (1978) classification, nine types of distribution patterns are observed:
 
-- **Cosmopolitan**: Panaeolus spp. and Panaeolina foenisecii
+- **Cosmopolitan**: Panaeolus spp. and [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]
 - **Northern hemisphere**: Amanita spp., Cordyceps spp., Psilocybe pelliculosa, P. silvatica
 - **Tropical and subtropical**: Psilocybe cubensis, P. subcubensis, Copelandia spp.
 - **Alpine and Arctic**: Psilocybe aztecorum at 4000 m elevation in Mexico
@@ -51,7 +51,7 @@ Following Hongo's (1978) classification, nine types of distribution patterns are
 
 ### Trans-Pacific Connections
 
-Species from Southeast Asia and the South Pacific show close relationships with Mesoamerican and South American species. Psilocybe samuiensis (Thailand) and P. makarorae (New Zealand) are closely related to P. mexicana (Mexico/Guatemala), all belonging to Section Mexicanae. Similarly, P. aucklandii (New Zealand) relates to P. zapotecorum (Mexico/South America) within Section Zapotecorum. These relationships suggest ancient dispersal events across the Pacific.
+Species from Southeast Asia and the South Pacific show close relationships with Mesoamerican and South American species. Psilocybe samuiensis (Thailand) and P. makarorae (New Zealand) are closely related to P. mexicana (Mexico/Guatemala), all belonging to Section Mexicanae. Similarly, P. aucklandii (New Zealand) relates to P. zapotecorum (Mexico/South America) within [[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]]. These relationships suggest ancient dispersal events across the Pacific.
 
 ## Ecological Factors
 
@@ -65,7 +65,7 @@ The blueing reaction (bluing of tissues upon bruising) is a key field indicator 
 
 ### Specimen Age and Potency
 
-The age of fungal specimens significantly affects chemical content. Psilocybin and psilocin are volatile compounds that degrade over time. Ohenoja et al. (1987) found 0.014%, 0.67%, and 0.84% psilocybin (dry weight) in herbarium specimens from 1869, 1954, and 1976, respectively. Mexican indigenous knowledge reflects this: specimens kept dried for more than one year are considered ineffective and are discarded.
+The age of fungal specimens significantly affects chemical content. [[hplc-analysis-of-psilocybin-and-psilocin]] are volatile compounds that degrade over time. Ohenoja et al. (1987) found 0.014%, 0.67%, and 0.84% psilocybin (dry weight) in herbarium specimens from 1869, 1954, and 1976, respectively. Mexican indigenous knowledge reflects this: specimens kept dried for more than one year are considered ineffective and are discarded.
 
 ### Psilocybe cubensis Introduction
 
@@ -87,7 +87,7 @@ The Mazatec name "nise" (little bird) is used for both Psilocybe mexicana (neuro
 
 ## Historical Periods
 
-The history of neurotropic fungi can be divided into five periods:
+The [[guzman-allen-gartz-history-of-neurotropic-fungi-discovery]] fungi can be divided into five periods:
 
 1. **Ancient use**: Traditional use by indigenous peoples in North America, Mesoamerica, Siberia, and New Guinea
 2. **Early studies (early 20th century)**: Uncertain or erroneous identification attempts by Schultes and Singer
@@ -101,13 +101,13 @@ Several individual species merit special attention due to their cultural signifi
 
 **Psilocybe aztecorum**: Found at high elevations (up to 4000 m) on the volcanoes of central Mexico (Popocatepetl, Iztaccihuatl). Known to the Aztecs as "teonanacatl" and used in ceremonial contexts for centuries. Its high-altitude distribution makes it one of the most ecologically specialized neurotropic fungi.
 
-**Psilocybe semilanceata** (liberty cap): One of the most widely distributed neurotropic species, found across temperate regions of Europe, North America, and parts of South America. Prefers grasslands, pastures, and dune systems. Despite its wide distribution, it contains relatively modest levels of psilocybin compared to tropical species.
+**[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]** (liberty cap): One of the most widely distributed neurotropic species, found across temperate regions of Europe, North America, and parts of South America. Prefers grasslands, pastures, and dune systems. Despite its wide distribution, it contains relatively modest levels of psilocybin compared to tropical species.
 
 **Psilocybe cubensis**: The most commonly cultivated neurotropic species worldwide, both legally in research contexts and through illicit cultivation. Its preference for herbivore dung (particularly cattle) has facilitated its global spread. A robust and fast-growing species that has become the standard for home cultivation.
 
-**Gymnopilus spectabilis**: A large, orange wood-inhabiting species found across North America, Europe, and Asia. Despite being one of the more visually conspicuous neurotropic fungi, its neurotropic status was confirmed relatively late due to variable potency between collections.
+**[[gymnopilus-spectabilis-entity]]**: A large, orange wood-inhabiting species found across North America, Europe, and Asia. Despite being one of the more visually conspicuous neurotropic fungi, its neurotropic status was confirmed relatively late due to variable potency between collections.
 
-**Panaeolus cyanescens** (blue meanies): A tropical and subtropical species found in dung-rich environments. Contains high concentrations of psilocin relative to psilocybin, giving it a particularly rapid onset. Distributed across the Americas, Africa, Asia, and Oceania.
+**[[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]** (blue meanies): A tropical and subtropical species found in dung-rich environments. Contains high concentrations of psilocin relative to psilocybin, giving it a particularly rapid onset. Distributed across the Americas, Africa, Asia, and Oceania.
 
 ## Underexplored Regions
 

@@ -1,5 +1,5 @@
 ---
-title: Salt Tolerant Plant Guide
+title: halotolerant-halophilic-fungi-salt-tolerant-diversity Plant Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -13,7 +13,7 @@ Salt-affected land can be rehabilitated by establishing a cover of salt-tolerant
 
 ## Benefits of Covering Salt-Affected Land
 
-1. Reduce evaporation from soil (shade + wind protection), which contributes to increased salt
+1. Reduce evaporation from soil (shade + [[cervantes-wind-protection-outdoor-cannabis]]), which contributes to increased salt
 2. Reduce soil erosion from otherwise bared earth
 3. Increase transpiration, thus lowering the water table
 
@@ -35,7 +35,7 @@ Salt-affected land can be rehabilitated by establishing a cover of salt-tolerant
 | Species | Notes |
 |---------|-------|
 | Trifolium fragiferum (Strawberry Clover) | Native to north Africa, 300+ mm rainfall. Creeping perennial adapted to heavy, poorly drained saline/alkaline soils. Summer dormant. Very salt tolerant |
-| Hedysarum carnosum (Fleshy Sulla) | Biennial from Libya/Tunisia/Algeria, 100-350 mm rainfall. High salt tolerance; tolerates irrigation with 8000-10,000 ppm salt |
+| Hedysarum carnosum (Fleshy Sulla) | Biennial from Libya/Tunisia/Algeria, 100-350 mm rainfall. High [[fungal-salt-tolerance-and-ion-homeostasis]]; tolerates irrigation with 8000-10,000 ppm salt |
 | Hedysarum coronarium (Sulla) | Biennial from north Africa/southern Italy. 350+ mm rainfall. Yields over 20 t DM/ha/yr recorded. Potential nectar producer |
 
 ## Saltbushes (Atriplex spp.)
@@ -49,7 +49,7 @@ Saltbushes concentrate salt onto their leaf surfaces and can remove salt from so
 | A. rhagodioides (River Saltbush) | To 1 m, 4 m spread | -- | Drought and frost hardy |
 | A. undulata (Wavy Leaf Saltbush) | 0.5 m tall, 2-3 m wide | -- | Provides 900 sheep grazing days/ha in 350 mm rainfall |
 | A. halimus (North African Saltbush) | -- | -- | -- |
-| A. canescens (Four Winged Saltbush) | 1-3 m | 18-20% | Endemic to North America, arid low toxicity |
+| A. canescens (Four Winged Saltbush) | 1-3 m | 18-20% | Endemic to [[psilocybin-north-america-pacific-northwest]], arid [[fukuoka-low-toxicity-pesticide-deception]] |
 
 ## Bluebush (Maireana spp.)
 

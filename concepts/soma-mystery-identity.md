@@ -1,5 +1,5 @@
 ---
-title: "Soma Mystery and Identity"
+title: "mckenna-soma-mystery-and-the-vedic-enigma and Identity"
 type: concept
 tags:
   - soma
@@ -52,7 +52,7 @@ its identity.
 
 The most influential modern hypothesis was proposed by R. Gordon Wasson
 in his 1968 book *Soma: Divine Mushroom of Immortality*. Wasson argued
-that Soma was the fly agaric mushroom, *Amanita muscaria*. This
+that Soma was the [[amanita-muscaria-fly-agaric-history-and-pharmacology]] mushroom, *[[allegro-amanita-muscaria-properties-and-pharmacology]]*. This
 brightly colored red-and-white mushroom is widely distributed across
 the northern hemisphere and has a long documented history of ritual use
 among Siberian peoples, particularly the Chukchee and Koryak.
@@ -72,7 +72,7 @@ Despite Wasson's persuasive argument, significant objections have been
 raised. The effects of A. muscaria — primarily deliriant and
 disorienting rather than consistently visionary — do not obviously match
 the ecstatic, illuminating experiences described in the Rigveda. The
-mushroom's toxic ibotenic acid content and variable potency make it an
+mushroom's toxic [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] content and variable potency make it an
 unreliable sacrament.
 
 Wasson himself eventually expressed doubts about his theory. In later
@@ -100,7 +100,7 @@ parallels Vedic descriptions of Soma-induced illumination than the
 deliriant effects of A. muscaria.
 
 However, the psilocybin hypothesis faces distribution challenges. The
-most commonly cited psilocybin species, *Psilocybe cubensis*, is a
+most commonly cited psilocybin species, *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*, is a
 tropical and subtropical species that does not naturally occur in the
 northwestern Indian mountains where Soma was traditionally gathered.
 
@@ -132,7 +132,7 @@ activity of DMT from another.
 ## The Indo-European Context
 
 The Soma/Haoma question connects to the broader mystery of
-Indo-European ritual practices. The close parallels between Vedic Soma
+Indo-European ritual practices. The close parallels between [[mckenna-vedic-soma-indo-european-mysteries]]
 and Iranian Haoma suggest a common proto-Indo-Iranian sacrament dating
 to perhaps 2000 BCE or earlier. If the identity of this original plant
 could be established, it would illuminate the ritual life of one of

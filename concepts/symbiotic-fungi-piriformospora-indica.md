@@ -15,9 +15,9 @@ Source: Symbiotic Fungi (Varma and Kharkwal, eds.), Chapter 1: Symbiosis - The A
 
 ## Introduction
 
-Piriformospora indica (Hymenomycetes, Basidiomycota, family Sebacinaceae) is the only cultivable endophyte that colonizes roots. Unlike arbuscular mycorrhizal fungi, which cannot be grown in the absence of a living plant, P. indica can grow on artificial medium and be multiplied in mass scale on cheap, industrially produced simplified nutrient medium. This makes it a unique tool for improving plant production systems.
+Piriformospora indica (Hymenomycetes, Basidiomycota, family Sebacinaceae) is the only cultivable endophyte that colonizes roots. Unlike [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi, which cannot be grown in the absence of a living plant, P. indica can grow on artificial medium and be multiplied in mass scale on cheap, industrially produced simplified nutrient medium. This makes it a unique tool for improving plant production systems.
 
-Inoculation with the fungus and application of fungal culture filtrate promotes plant growth and biomass production. Due to its ease of culture, P. indica provides a model organism for the study of beneficial plant-microbe interactions and a new tool for improving plant production systems.
+Inoculation with the fungus and application of fungal culture filtrate promotes plant growth and [[dighton-fungal-biomass-production-aquatic-ecosystems]]. Due to its ease of culture, P. indica provides a model organism for the study of beneficial plant-microbe interactions and a new tool for improving plant production systems.
 
 See also: [[fungal-endophytes-plant-fitness]]
 
@@ -76,7 +76,7 @@ The systemically altered "defense readiness" is associated with:
 
 Since P. indica can be easily propagated in the absence of a host plant, the fungus could be exploited to increase disease resistance as well as yield in crop plants (Waller et al. 2005).
 
-See also: [[mycorrhizal-pathogen-resistance]]
+See also: mycorrhizal-pathogen-resistance
 
 ### Stress Tolerance
 
@@ -97,11 +97,11 @@ P. indica interacts with plant hormonal systems:
 
 ### Soil Fertility
 
-The fungus preserves soil fertility and improves plant health. Through its role in nutrient cycling, stress tolerance, and disease suppression, P. indica contributes to overall soil ecosystem health.
+The fungus preserves soil fertility and improves plant health. Through its role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], stress tolerance, and [[aact-disease-suppression-mechanisms-ingham]], P. indica contributes to overall soil ecosystem health.
 
 ## The Lifestyle Question: Mutualism vs Biotrophic Pathogen
 
-To elucidate the lifestyle of P. indica, scientists have analyzed its symbiotic interaction and endophytic development in barley roots. The fungus has been described as a model organism to be used as a potential for biocontrol strategies. Its ability to increase biomass and grain yield of crop plants, combined with induced local and systemic resistance to fungal diseases and abiotic stress, positions it uniquely among root-associated fungi.
+To elucidate the lifestyle of P. indica, scientists have analyzed its [[holzer-symbiotic-interaction-theory]] and endophytic development in barley roots. The fungus has been described as a model organism to be used as a potential for biocontrol strategies. Its ability to increase biomass and grain yield of crop plants, combined with induced local and systemic resistance to fungal diseases and abiotic stress, positions it uniquely among root-associated fungi.
 
 The endophyte appears to interfere with the host cell death program to form a mutualistic interaction with plants. Fungal proliferation was strongly inhibited in transgenic barley overexpressing GFP-tagged HvBI-1, which shows that P. indica requires host cell death for proliferation in differentiated barley roots.
 
@@ -127,7 +127,7 @@ While P. indica shows enormous promise, several research areas need further inve
 - Long-term effects of P. indica on soil microbial communities
 - Field performance across diverse soil types and climates
 - Potential interactions with other beneficial microorganisms (AMF, PGPR)
-- Optimal inoculation methods and timing for different crops
+- Optimal [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]] and timing for different crops
 - Regulatory approval for commercial use as a bioinoculant
 - Potential for non-target effects in natural ecosystems
 

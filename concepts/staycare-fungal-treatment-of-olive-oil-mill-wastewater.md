@@ -1,5 +1,5 @@
 ---
-title: "Fungal Treatment of Olive Oil Mill Wastewater"
+title: "Fungal fungal-treatment-of-olive-mill-wastewater Oil fungal-olive-mill-wastewater-treatment"
 created: 2026-04-28
 tags: [mycoremediation, polyphenols, effluent-treatment, white-rot-fungi, olive-mill]
 date: 2026-04-28
@@ -28,16 +28,16 @@ properties that complicate conventional treatment:
 - **Intense dark colour**: The characteristic dark brown to black colour
   results from polyphenolic compounds and their oxidation products,
   including tannins, anthocyanins, and flavonoids derived from olive
-  fruit processing.
+  [[fukuoka-fruit-processing-and-natural-food-marketing]].
 - **High organic load**: OMW contains significant quantities of sugars,
   organic acids, lipids, and proteins that contribute to very high
   BOD and COD values.
 - **Phytotoxicity**: The polyphenolic constituents of OMW are
-  phytotoxic, inhibiting seed germination and plant growth at
+  phytotoxic, inhibiting [[cannabis-seed-germination-methods]] and plant growth at
   relatively low concentrations. This phytotoxicity limits the
   direct use of OMW for irrigation or land application.
 - **Antimicrobial activity**: Some polyphenolic compounds in OMW
-  possess antimicrobial properties that can inhibit the microbial
+  possess [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] that can inhibit the microbial
   communities needed for conventional biological treatment.
 - **Seasonal production**: OMW generation is concentrated in the
   olive harvesting season (typically autumn to winter), creating
@@ -53,7 +53,7 @@ rings with hydroxyl and methoxyl substituents, which makes them
 potential substrates for the oxidative enzyme systems of white rot
 fungi. The structural similarity between OMW polyphenolics and natural
 lignin subunits provides a theoretical basis for the application of
-ligninolytic fungi in OMW treatment.
+[[biochemistry-of-ligninolytic-fungi-bioremediation]] in OMW treatment.
 
 ## White Rot Fungi for OMW Treatment
 
@@ -63,7 +63,7 @@ relies on the non-specific oxidative enzyme systems of these fungi to
 degrade the polyphenolic chromophores and reduce the phytotoxicity of
 the effluent.
 
-Key species investigated include [[trametes-versicolor-entity]], [[fungal-bioremediation]],
+Key species investigated include [[trametes-versicolor-entity]], fungal-bioremediation,
 which catalyze the oxidation of phenolic compounds to phenoxy radicals.
 These radicals undergo subsequent non-enzymatic reactions leading to
 depolymerization, demethoxylation, and ring cleavage, ultimately
@@ -86,3 +86,7 @@ reduction in phenolic content measured by standard analytical methods.
 An attractive aspect of fungal OMW treatment is the potential for
 integration with commercial mushroom cultivation. [[staycare-fungal-treatment-of-molasses-wastewater]],
 and [[staycare-composting-as-a-fungal-bioremediation-strategy]].
+
+## See Also
+
+- [[singh-olive-mill-wastewater-fungal-treatment]]

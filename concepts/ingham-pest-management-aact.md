@@ -1,5 +1,5 @@
 ---
-title: Pest Management with AACT from Ingham Field Guide
+title: cannabis-pest-management-guide with AACT from Ingham ghouled-field-guide-historical-context
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 # Pest Management with AACT
 
-Extracted from Elaine Ingham's AACT Field Guide, covering insect pest
+Extracted from Elaine Ingham's AACT Field Guide, covering [[ingham-foliar-insect-pest-deterrence-mechanisms]]
 management through [[ingham-anaerobic-vs-aerobic-compost-tea]] -- anaerobic brews
 protect plants from pests by toxic compounds they produce, but these are
 not desirable and can be dangerous to human health.
@@ -59,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

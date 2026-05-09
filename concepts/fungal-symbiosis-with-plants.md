@@ -1,5 +1,5 @@
 ---
-title: Fungal Symbiosis with Plants
+title: gadd-beetle-gut-fungal-symbiosis-and-coevolution with Plants
 created: 2026-04-28
 tags:
   - mycology
@@ -20,7 +20,7 @@ Fungi engage in a remarkable diversity of symbiotic relationships with
 plants, ranging from mutually beneficial associations to lethal
 parasitism. These interactions are among the most ecologically
 significant biological relationships on Earth, influencing plant
-community structure, nutrient cycling, agricultural productivity, and
+community structure, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], agricultural productivity, and
 the evolution of both partners. Fungi cause more plant diseases than
 all other pathogens combined, including bacteria, viruses, and nematode
 worms.
@@ -30,16 +30,16 @@ worms.
 [[ectomycorrhizal-associations]], hyphae form a sheath around the root and
 penetrate between root cells. Endomycorrhizal fungi enter the root
 cells themselves, forming highly branched structures called arbuscules
-that facilitate nutrient exchange. The intimacy of this cellular
-interaction is remarkable: the plant cell membrane is dimpled to fit
+that facilitate [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]. The intimacy of this cellular
+interaction is remarkable: the plant [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] is dimpled to fit
 around the fungal structure like a glove, creating a placenta-like
 connection.
 
 ## [[magnaporthe-grisea]]*, is the most powerful
-fungal pathogen on the planet in mechanical terms. Its appressorium, a
+[[alpha-1-3-glucan-fungal-pathogen-cell-walls]] on the planet in mechanical terms. Its appressorium, a
 bulbous infection structure, becomes pressurized to more than 80
 atmospheres using osmotic pressure from accumulated glycerol, then
-punctures the rice leaf surface. This pressure exceeds that exerted by
+punctures the rice [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]]. This pressure exceeds that exerted by
 the toe of a 400-pound dancer and can penetrate bulletproof vest
 material.
 
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

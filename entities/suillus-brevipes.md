@@ -18,7 +18,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Smith, A.H. & Thiers, H.D. (1964). "A contribution toward a monograph of North American species of Suillus." Annales Cryptogamici et Phytopathologici.
+  - Smith, A.H. & Thiers, H.D. (1964). "A contribution toward a monograph of growing-gourmet-north-american-reishi-species species of Suillus." Annales Cryptogamici et Phytopathologici.
   - Kuo, M. (2024). "Suillus brevipes." MushroomExpert.com. https://www.mushroomexpert.com/suillus_brevipes.html
   - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "North American Boletes: A Color Guide to the Fleshy Pored Mushrooms." Syracuse University Press.
   - Arora, D. (1986). "Mushrooms Demystified." Ten Speed Press.
@@ -73,7 +73,7 @@ to pale yellow, sometimes with brownish streaks at the base. No ring.
 **Flesh:** White to pale yellow, soft, unchanging when cut. Mild odor and
 taste. Tubes sometimes slightly bitter in age.
 
-**Spore print:** Olive-brown to cinnamon-brown.
+**[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Olive-brown to cinnamon-brown.
 
 **Spores:** 7–10 × 3–4.5 µm, smooth, elliptical to oblong, inamyloid.
 
@@ -85,7 +85,7 @@ Ammonia on cap flesh negative.
 S. brevipes is found across much of North America, from the Pacific
 Northwest through the Rocky Mountains and into the northeastern United
 States and eastern Canada. It also occurs in Mexico and has been reported
-in Central America under introduced pine plantations.
+in [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] under introduced pine plantations.
 
 The species is obligately ectomycorrhizal, forming associations primarily
 with hard pines in subgenus *Pinus*: ponderosa pine (*P. ponderosa*),
@@ -124,7 +124,7 @@ feces.
 
 S. brevipes is not commercially cultivated due to its obligate
 mycorrhizal dependency. Attempts at axenic culture have produced only
-sparse mycelial growth without fruiting. Inoculation of pine seedling
+sparse [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] without fruiting. Inoculation of pine seedling
 root systems with spore slurries has been used experimentally in forestry
 to improve seedling establishment on nutrient-poor sites.
 

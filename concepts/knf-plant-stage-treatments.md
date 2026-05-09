@@ -11,13 +11,13 @@ sources:
 
 ## Overview
 
-Korean Natural Farming prescribes specific treatments at different stages of a plant's life cycle, based on the [[knf-preparations]].
+Korean [[comparison-natural-farming-vs-permaculture]] prescribes specific treatments at different stages of a plant's [[bloomfield-fungal-life-cycle-spiral-versus-circle]], based on the [[knf-preparations]].
 
 ## Stage 1: Vegetative Growth Treatment
 
 The [[fermented-plant-extract-fpe]] for amino acids and growth stimulants, [[water-soluble-potassium-wp]] for photosynthesis support. The NF inputs are diluted at a ratio of 1:1000 ml of water, adjusted depending on necessity. Consult [[knf-input-application-timing]].
 
-This treatment is given to supply the demand for phosphoric acid during this stage. Phosphorus-dominant inputs are the primary preparations used. The NF inputs are diluted at a ratio of 1:1000 ml of water. Timely application is critical — delaying treatment can result in weak flower formation and reduced fruit set.
+This treatment is given to supply the demand for [[cho-water-soluble-phosphoric-acid-preparation]] during this stage. Phosphorus-dominant inputs are the primary preparations used. The NF inputs are diluted at a ratio of 1:1000 ml of water. Timely application is critical — delaying treatment can result in weak flower formation and reduced fruit set.
 
 ## Stage 3: Reproductive Growth Treatment
 
@@ -47,7 +47,7 @@ The following principles apply across all KNF stage treatments:
 
 - Always dilute inputs with clean, non-chlorinated water.
 
-- Apply foliar sprays during early morning or late evening.
+- Apply [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] during early morning or late evening.
 
 - For preparation details, refer to [[knf-troubleshooting]] for diagnostic support.
 
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

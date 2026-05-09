@@ -1,5 +1,5 @@
 ---
-title: Seed Sowing Techniques in Organic Gardening
+title: hamilton seed sowing techniques Techniques in hamilton-geoffhamilton-nick-organic-gardening-companion-planting
 created: 2026-04-28
 tags: [seeds, propagation, organic-gardening, hamilton, cultivation]
 date: 2026-04-25
@@ -66,7 +66,7 @@ number and easy to recognize.
 
 By sowing in trays or pots inside, you can start much earlier.
 Vegetables can be sown in midwinter and planted out under cloches in
-early spring. A greenhouse is ideal, but a windowsill works too. Fill
+[[coleman-overwintered-onions-and-early-spring-crops]]. A greenhouse is ideal, but a windowsill works too. Fill
 a pot or tray with moist seed compost, firm it lightly, level the
 top, and sow seeds. Cover with vermiculite, then cover the container
 with opaque plastic in a warm place. Check daily and remove cover when
@@ -82,10 +82,10 @@ alginate gel and "sow" the mixture in a seed row.
 ## Thinning and Transplanting
 
 When seedlings are large enough to handle, thin to prevent
-overcrowding. Water rows well before thinning. Root crops should not
+overcrowding. Water rows well before thinning. [[permaculture-plants-root-crops-and-tubers]] should not
 be transplanted. For container seedlings, "prick out" into larger
 trays when they are large enough. Before planting out greenhouse-grown
-seedlings, harden them off gradually in a cold frame.
+seedlings, harden them off gradually in a [[comparison-cold-frame-gardening-vs-container-gardening-guide]].
 
 ## See Also
 

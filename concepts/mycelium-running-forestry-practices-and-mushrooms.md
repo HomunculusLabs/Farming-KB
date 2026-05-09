@@ -1,9 +1,10 @@
 ---
-title: "Mycoforestry: Forest Management with Mushrooms"
+title: "Mycoforestry: mollison-pdc-forest-management-products with Mushrooms"
 created: 2026-04-26
 updated: "2025-04-23"
 sources:
-  - "raw/papers/mycelium-running-stamets.md"
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 tags: [forest-garden, mushroom-cultivation, mushrooms, mycelium]
 ---
@@ -27,8 +28,8 @@ the short timeframe.
 
 ## Guiding Principles of Mycoforestry
 
-Stamets articulates these [[mycofiltration-silt-erosion-control]]
-- Only burn wood debris as a last-ditch disease control measure
+Stamets articulates these mycofiltration-silt-erosion-control
+- Only burn wood debris as a last-ditch [[hamilton-pest-and-disease-control-organic]] measure
 - Use mycorrhizal spore inoculum when replanting forestlands
 
 ## Fire Prevention Through Mycoforestry
@@ -38,7 +39,7 @@ increasing moisture retention and reducing fuel load. Moist wood does
 not easily burn. While chipping may slightly increase fire risk for the
 first few years, fire potential drops drastically as wood decomposes.
 
-Fungal decomposition releases cool carbon dioxide gradually over years,
+[[dighton-fungal-decomposition-leaf-litter-dynamics]] releases cool carbon dioxide gradually over years,
 unlike combustion which emits vast quantities of hot CO2 rapidly. Since
 CO2 is heavier than air and permeates soils, plants benefit from its
 close proximity, absorbing it as raw material for growth.
@@ -49,7 +50,7 @@ A study by Alexander and others (2002) found that harvesting timber and
 matsutake mushrooms each yielded close to the same economic benefit from
 the same land over the same time period in south-central Oregon. This
 evaluation does not factor in thickening soils, reducing erosion,
-improving stream health, increasing biodiversity, improving air quality,
+improving stream health, increasing biodiversity, improving [[cervantes-air-quality-ventilation]],
 or the experiential pleasure of wild mushrooming.
 
 Stamets argues that mushroom species from old-growth forests producing
@@ -60,7 +61,7 @@ dramatically increase forest value beyond timber.
 
 The preferred mycorrhizae for trees are Rhizopogons, Pisolithus, and
 Glomus species, which mycorrhize with about 80 percent of all trees in
-temperate climates. For gourmet mycorrhizal mushrooms, key pairings
+temperate climates. For [[growing-gourmet-mycorrhizal-gourmet-mushrooms]] mushrooms, key pairings
 include Boletus edulis with pines and Cantharellus cibarius with oaks
 and firs.
 
@@ -69,7 +70,7 @@ and firs.
 - [[mycoforestry]] -- existing related page
 - [[mycoforestry-spored-oil-techniques]] -- spored oil method
 - [[mycelium-running-conservation-biology-and-fungi]] -- conservation
-- [[forest-ecology-basics]] -- forest ecosystem fundamentals
+- [[forest-ecology-basics]] -- [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] fundamentals
 ## Practical Considerations
 
 Successful implementation of Mycoforestry: Forest Management with Mushrooms requires attention to
@@ -88,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

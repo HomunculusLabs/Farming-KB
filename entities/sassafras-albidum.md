@@ -19,17 +19,17 @@ tags:
   - dynamic-accumulator
 sources:
   - Hardin, J.W. (1973). "Sassafras albidum." Econ. Bot. 27(1): 45-48.
-  - Duke, J.A. (2002). "Handbook of Medicinal Herbs." 2nd ed. CRC Press.
+  - Duke, J.A. (2002). "Handbook of [[permaculture-plants-medicinal-herbs-healing]]." 2nd ed. CRC Press.
   - USDA Forest Service. "Sassafras albidum." www.fs.usda.gov
-  - Burrows, G.E. & Tyrl, R.J. (2013). "Toxic Plants of North America." 2nd ed. Wiley.
+  - Burrows, G.E. & Tyrl, R.J. (2013). "Toxic Plants of [[psilocybin-north-america-pacific-northwest]]." 2nd ed. Wiley.
   - Foster, S. & Duke, J.A. (2014). "Peterson Field Guide to Medicinal Plants." Houghton Mifflin.
 ---
 
 ## Overview
 
-**Sassafras albidum** is a deciduous tree native to eastern North America and the sole
-North American representative of the Lauraceae. Known for its aromatic roots, bark,
-and leaves, it has been used for centuries in Native American medicine, culinary
+**Sassafras albidum** is a deciduous tree native to [[polypore-fungi-eastern-north-america]] America and the sole
+[[growing-gourmet-north-american-reishi-species]] representative of the Lauraceae. Known for its aromatic roots, bark,
+and leaves, it has been used for centuries in [[halpern-sacramental-peyote-and-native-american-church]] medicine, culinary
 traditions, and commercial flavoring.
 
 The species is easily identified by its distinctive leaves, which occur in three shapes
@@ -120,7 +120,7 @@ North America. Its role as a pioneer species makes it useful for site stabilizat
 and early succession management.
 
 **Key permaculture functions:**
-- Dynamic accumulator of minerals from deep soil layers
+- [[nutrient-dynamic-accumulator-reference]] of minerals from deep soil layers
 - Early successional nurse tree that improves soil conditions for climax species
 - Nectar source for early-season pollinators (flowers in March–April)
 - Wildlife food — drupes consumed by songbirds, wild turkeys, and small mammals

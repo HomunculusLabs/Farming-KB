@@ -1,5 +1,5 @@
 ---
-title: Organic Greenhouse Management
+title: Organic hamilton greenhouse management organic
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -36,7 +36,7 @@ Spring is the busiest time in the greenhouse. The main tasks are:
 
 ### Summer
 
-**Temperature control**: Ventilation is critical. Overheating causes stress, reduces yields, and encourages pests and diseases. Automatic vent openers are a worthwhile investment. Shade paint or shade cloth can be applied to the glass during the hottest months.
+**Temperature control**: Ventilation is critical. Overheating causes stress, reduces yields, and encourages [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. Automatic vent openers are a worthwhile investment. Shade paint or shade cloth can be applied to the glass during the hottest months.
 
 **Watering**: In warm weather, greenhouse plants may need daily watering. Water early in the morning so foliage dries quickly, reducing fungal disease risk. Water at the base of plants, not overhead.
 
@@ -58,7 +58,7 @@ Spring is the busiest time in the greenhouse. The main tasks are:
 
 ### Winter
 
-**Frost protection**: In mild areas, an unheated greenhouse provides sufficient protection for hardy plants. In cold areas, use a heater (paraffin or electric) to keep temperatures above freezing. Only heat the minimum area needed.
+**[[holzer-frost-protection-techniques]]**: In mild areas, an [[coleman-unheated-greenhouse-design]] provides sufficient protection for hardy plants. In cold areas, use a heater (paraffin or electric) to keep temperatures above freezing. Only heat the minimum area needed.
 
 **Winter crops**: Winter salads (corn salad, winter lettuce, rocket), herbs, and early sowings of hardy vegetables can be grown in a cold greenhouse.
 
@@ -68,7 +68,7 @@ Spring is the busiest time in the greenhouse. The main tasks are:
 
 ### Prevention
 
-- Good ventilation prevents fungal diseases (botrytis, powdery mildew)
+- Good ventilation prevents fungal diseases (botrytis, [[cervantes-powdery-mildew-prevention-treatment]])
 - Clean growing conditions reduce pest habitat
 - Rotate crops to prevent soil-borne disease buildup
 - Use clean compost and sterile tools
@@ -79,7 +79,7 @@ Spring is the busiest time in the greenhouse. The main tasks are:
 - **Encarsia wasp**: Parasitic wasp that controls whitefly
 - **Ladybird larvae**: Control aphids
 - **Phytoseiulus mite**: Controls red spider mite
-- **Bacillus thuringiensis (Bt)**: Biological insecticide for caterpillars
+- **[[cervantes-bacillus-thuringiensis-bt-control]] (Bt)**: Biological insecticide for caterpillars
 - **Nematodes**: Control fungus gnat larvae in compost
 
 ### Companion Planting in the Greenhouse

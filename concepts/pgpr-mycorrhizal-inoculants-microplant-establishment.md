@@ -1,5 +1,5 @@
 ---
-title: PGPR and mycorrhizal Inoculants for Microplant Establishment
+title: PGPR and pgpr mycorrhizal inoculants microplant establishment for Microplant Establishment
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -30,7 +30,7 @@ PGPR are generally less sensitive to substrate phosphate concentration than AMF 
 
 ## Combined AMF and PGPR Inoculation
 
-Combined inoculation with AMF and PGPR can produce synergistic effects exceeding those of either organism alone. AMF and PGPR interact in the mycorrhizosphere: AMF hyphae release plant-derived carbon that supports PGPR populations, while PGPR can promote mycorrhizal colonization through production of stimulatory compounds. Combined inoculation may address a broader range of stresses (nutrient deficiency, drought, pathogen attack) simultaneously. However, compatibility between specific AMF and PGPR strains must be verified, as some combinations show antagonism rather than synergy.
+Combined inoculation with AMF and PGPR can produce synergistic effects exceeding those of either organism alone. AMF and PGPR interact in the mycorrhizosphere: AMF hyphae release plant-derived carbon that supports PGPR populations, while PGPR can promote [[arbuscular-mycorrhizal-colonization-patterns]] through production of stimulatory compounds. Combined inoculation may address a broader range of stresses ([[cannabis-grow-nutrient-deficiency-problem-solving]], drought, pathogen attack) simultaneously. However, compatibility between specific AMF and PGPR strains must be verified, as some combinations show antagonism rather than synergy.
 
 AMF and PGPR interact in the mycorrhizosphere: AMF hyphae release plant-derived carbon that supports PGPR populations, while PGPR can promote mycorrhizal colonization through production of stimulatory compounds.
 
@@ -54,7 +54,7 @@ Some researchers advocate seeking inoculants from pathogen-suppressive soils, wh
 
 ## Inoculation Timing and Methods
 
-The timing of inoculation significantly affects establishment success. AMF inoculation is most effective when applied during Stage 2 (rooting) or early Stage 3 (weaning) of micropropagation, allowing the symbiosis to establish before transplanting. PGPR can be applied as seed or cutting treatments, root dips, or substrate amendments. For AMF, inoculum can be mixed into the weaning substrate, applied as a root dip in spore suspensions, or placed below the root ball during transplanting. Coating of microplant roots with inoculant gels has also been investigated.
+The timing of inoculation significantly affects establishment success. AMF inoculation is most effective when applied during Stage 2 (rooting) or early Stage 3 (weaning) of micropropagation, allowing the symbiosis to establish before transplanting. PGPR can be applied as seed or cutting treatments, root dips, or substrate amendments. For AMF, inoculum can be mixed into the weaning substrate, applied as a root dip in [[spore]] suspensions, or placed below the root ball during transplanting. Coating of microplant roots with inoculant gels has also been investigated.
 
 AMF inoculation is most effective when applied during Stage 2 (rooting) or early Stage 3 (weaning) of micropropagation, allowing the symbiosis to establish before transplanting.
 

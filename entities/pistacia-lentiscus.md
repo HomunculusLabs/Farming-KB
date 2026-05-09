@@ -88,7 +88,7 @@ exuded resin hardens into translucent, pale yellow "tears" that are collected by
 ### Composition and Uses
 
 The resin contains approximately 60–70% triterpenic acids (mainly mastic acid, moronic acid,
-and oleanolic acid), 20–30% essential oils (alpha-pinene, beta-pinene, limonene, beta-myrcene),
+and oleanolic acid), 20–30% [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] (alpha-pinene, beta-pinene, limonene, beta-myrcene),
 and polymeric compounds.
 
 - **Traditional medicine:** Used for gastrointestinal disorders, wound healing, and oral hygiene.
@@ -106,13 +106,13 @@ Beyond the resin, the leaves and fruits contain a range of bioactive compounds:
   exhibit anti-inflammatory and hepatoprotective activities.
 - **Flavonoids:** Quercetin, kaempferol, and myricetin glycosides contribute antioxidant effects.
 - **Essential oils:** Leaf oils are rich in monoterpenes (alpha-pinene, limonene) with
-  antimicrobial properties.
-- **Fatty acids:** The fruit kernel contains approximately 45% oil, rich in oleic and linoleic
+  [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
+- **[[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]:** The fruit kernel contains approximately 45% oil, rich in oleic and linoleic
   acids.
 
 *Helicobacter pylori* eradication is the most clinically studied application. Mastic gum
 demonstrates bactericidal activity against H. pylori strains at concentrations of 0.06 mg/mL
-in vitro, with some clinical trials showing improvement in symptomatic patients.
+in vitro, with some [[mushroom-cancer-clinical-trials-overview]] showing improvement in symptomatic patients.
 
 ## Permaculture Applications
 

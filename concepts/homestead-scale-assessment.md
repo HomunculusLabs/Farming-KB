@@ -70,13 +70,13 @@ Determining the right scale for a homestead operation depends on goals, availabl
 | Eggs (50 hens) | 1,000 dozen | $6 | $6,000 |
 | Broilers (200 birds, 2 batches) | 200 | $25 | $5,000 |
 | Grass-fed beef (5 head) | 5 | $2,500 | $12,500 |
-| Pastured pork (10 pigs) | 10 | $900 | $9,000 |
+| [[pastured-pork-production]] (10 pigs) | 10 | $900 | $9,000 |
 | Vegetable CSA (30 members) | 30 shares | $600 | $18,000 |
-| Farmers market vegetables | 30 weeks | $300/week | $9,000 |
+| [[farmers-market-selling-guide]] vegetables | 30 weeks | $300/week | $9,000 |
 | Mushrooms (indoor, small) | 200 lbs/month | $12/lb | $28,800 |
 | Dried herbs and products | various | -- | $5,000-15,000 |
 | Bread (weekly baking) | 30 loaves/week | $8 | $12,480 |
-| Hot sauce (small batch) | 50 bottles/week | $10 | $26,000 |
+| [[fermented-hot-sauce-guide]] (small batch) | 50 bottles/week | $10 | $26,000 |
 
 Note: these are gross revenue estimates. Net profit is typically 30-60% of gross after expenses.
 
@@ -148,32 +148,3 @@ Total score interpretation:
 - Revenue target: $75,000+
 
 ## Common Pitfalls
-
-- Scaling too fast: debt and burnout are the biggest farm killers
-- Undercapitalization: not enough money to survive the learning curve (plan for 2 years of negative or break-even cash flow)
-- Ignoring the business side: farming is 50% production, 50% business (marketing, sales, accounting, planning)
-- Doing everything alone: burnout is real; ask for help early
-- Comparing to others: every farm is different; focus on your goals and timeline
-- Not tracking finances: you cannot improve what you do not measure
-
-## When to Scale Up
-
-Consider moving to the next level when:
-- Current scale is profitable for 2+ consecutive years
-- Demand exceeds supply (turning away customers)
-- You have systems in place (not just working harder but working smarter)
-- You have cash reserves (3-6 months of operating expenses)
-- You have reliable labor or a plan to get it
-- Market analysis supports expansion
-
-## When to Stay at Current Scale
-
-Stay or even scale back when:
-- You're not profitable after 2+ years
-- Farm work is negatively affecting health or relationships
-- You're not enjoying it (hobby farms should be fun)
-- Market saturation in your area
-- You don't have systems to handle increased production
-- Life circumstances change (family, health, career)
-
-Scale assessment should be revisited annually as part of [[homestead-financial-planning]] and business planning. Use the benchmarks above to set realistic goals and track progress.

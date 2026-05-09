@@ -35,7 +35,7 @@ Mordecai Cubitt Cooke was a prolific mycological writer and a member of the Wool
 
 Cooke's first and most unconventional book was a defense of drug use, written when he was in his mid-thirties. The book treated seven narcotic plants (tobacco, opium, hashish, betel, coca, belladonna, and fly-agaric) as "sisters" ruling over different parts of the world. Cooke argued for the "moral equivalence, and therefore legitimacy" of the world's regional drug preferences, a concept partly plagiarized from James Johnston's "The Chemistry of Common Life" (1855).
 
-Of most interest to mushroom history, Cooke devoted significant space to the fly-agaric (Amanita muscaria). He not only popularized the myths of Siberian Amanita use but retold the story of Mr Glen's encounter with a bemushroomed man staggering through Knightsbridge. He prophetically wrote that "if future generations do not deem it desirable to indulge in a narcotic of this kind for the purposes of producing pleasurable sensations... yet they may learn more than we do at present know of the peculiar characteristics which distinguish this [mushroom] from all the others of the 'Seven Sisters of Sleep.'"
+Of most interest to mushroom history, Cooke devoted significant space to the fly-agaric ([[allegro-amanita-muscaria-properties-and-pharmacology]]). He not only popularized the myths of Siberian Amanita use but retold the story of Mr Glen's encounter with a bemushroomed man staggering through Knightsbridge. He prophetically wrote that "if future generations do not deem it desirable to indulge in a narcotic of this kind for the purposes of producing pleasurable sensations... yet they may learn more than we do at present know of the peculiar characteristics which distinguish this [mushroom] from all the others of the 'Seven Sisters of Sleep.'"
 
 ### Mycological Works
 
@@ -43,7 +43,7 @@ Cooke authored "Rust, Smut, Mildew and Mould" (1865), "A Plain and Easy Account 
 
 ### Reversal on Psychoactive Mushrooms
 
-By the time Cooke published "Poisonous Mushrooms" in 1894, published by the Society for Promoting Christian Knowledge, he had completely reversed his earlier positions. Despite knowing how to identify Liberty Caps (Psilocybe semilanceata), he now warned the public to avoid them, reflecting the growing conservatism of his career.
+By the time Cooke published "[[palmer-poisonous-mushrooms-deadly-species]]" in 1894, published by the Society for Promoting Christian Knowledge, he had completely reversed his earlier positions. Despite knowing how to identify Liberty Caps ([[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]), he now warned the public to avoid them, reflecting the growing conservatism of his career.
 
 ## Legacy
 
@@ -52,8 +52,8 @@ Cooke represents a fascinating "what if" in the history of psychedelics — a br
 ## See Also
 
 - [[victorian-mycology]] — Broader context of Victorian fungal studies
-- [[psychedelic-mushroom-history]] — Timeline of psychedelic mushroom discovery
-- [[mushroom-identification]] — Modern identification methods descended from Victorian taxonomy
+- [[psychedelic-mushroom-history]] — Timeline of [[archaeology-of-psychedelic-mushroom-use]] discovery
+- mushroom-identification — Modern [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] descended from Victorian taxonomy
 - [[mushroom-folklore-and-culture]] — Mushrooms in fairy lore and popular culture
 ## Practical Considerations
 
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

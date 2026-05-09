@@ -1,10 +1,11 @@
 ---
-title: Heirloom Vegetable Varieties vs Seed Saving Techniques
+title: Heirloom solomon-vegetable-varieties-self-sufficiency vs Seed Saving Techniques
 created: 2026-04-28
 date: 2026-04-25
 updated: 2026-04-25
 tags: [comparison, seeds, plant-breeding, food-security, homesteading]
-sources: []
+sources:
+  - "raw/papers/steve-solomon-gardening-when-it-counts.md"
 type: comparison
 ---
 
@@ -29,7 +30,7 @@ Heirloom vegetable varieties are open-pollinated cultivars with a documented
 history of cultivation, typically tracing back 50 years or more. Because they 
 are open-pollinated, they breed true from seed, meaning that saved seeds will 
 produce offspring similar to the parent plant. This distinguishes them from F1 
-hybrid varieties, which produce inconsistent offspring in subsequent 
+[[cervantes-hybrid-varieties-types]], which produce inconsistent offspring in subsequent 
 generations. Heirlooms are valued for their exceptional flavor, diverse colors 
 and shapes, regional adaptation to local growing conditions, and the genetic 
 diversity they preserve. Varieties like Brandywine tomato, Moon and Stars 
@@ -50,7 +51,7 @@ crops like tomatoes, cucumbers, and squash. Key technical considerations
 include isolation distances to prevent cross-pollination (ranging from a few 
 feet for lettuce to over a mile for corn), proper harvesting timing, 
 fermentation of wet seeds to remove gelatinous coatings, thorough drying to 
-prevent mold, and appropriate storage conditions of cool, dark, and dry 
+prevent mold, and appropriate [[vegetable-storage-conditions-by-temperature-and-humidity]] of cool, dark, and dry 
 environments at consistent moisture levels. Germination testing ensures that 
 saved seeds remain viable season after season. Seed saving extends beyond 
 individual gardens into community seed libraries, seed exchanges, and regional 
@@ -65,7 +66,7 @@ populations.
 process) |
 | Focus | What you grow | How you preserve what you grow |
 | Key quality | Breeds true from seed | Maintains genetic purity |
-| Selection criteria | Flavor, adaptation, history | Isolation, processing, 
+| [[cannabis-breeding-traits-selection-criteria-clarke]] | Flavor, adaptation, history | Isolation, processing, 
 storage |
 | Relationship to F1 | Alternative to hybrid seed | Process irrelevant to 
 hybrid seed |
@@ -104,7 +105,7 @@ characteristics. Seed saving skills are essential for community seed library
 organizers, seed swap coordinators, and anyone participating in regional seed 
 networks. Homesteaders building long-term resilience need seed saving as a core 
 competency alongside food preservation and other self-reliance skills. The 
-techniques become increasingly important as climate change demands rapid 
+techniques become increasingly important as [[dighton-fungi-climate-change-feedback]] demands rapid 
 adaptation of varieties to shifting conditions, because saved seed from the 
 best-performing plants in your garden represents local adaptation in action.
 
@@ -128,4 +129,4 @@ community distribution.
 - [[seed-saving-techniques]] for detailed processing and storage methods
 - [[solomon-seed-saving-fundamentals]] for Solomon's practical guide
 - [[natural-farming-guide-seed-saving-and-heirloom-varieties]] for natural 
-farming methods
+[[natural-farming-methods-comparison]]

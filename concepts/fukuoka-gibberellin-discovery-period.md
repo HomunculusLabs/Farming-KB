@@ -1,5 +1,5 @@
 ---
-title: Gibberellin Discovery Period in Fukuoka's Life
+title: fukuoka gibberellin discovery period Period in Fukuoka's Life
 created: 2026-04-28
 tags:
   - history-of-science
@@ -30,7 +30,7 @@ grape, one of the first commercial applications of plant growth hormones.
 
 This pattern of Japanese innovation being ignored domestically while
 exploited abroad resonated with broader themes in Fukuoka's critique of
-Japanese agricultural institutions. The [[fukuoka-how-nature-should-be-perceived]].
+[[fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse]] institutions. The [[fukuoka-how-nature-should-be-perceived]].
 
 ## The Pneumonia Crisis and Spiritual Awakening
 
@@ -44,7 +44,7 @@ face with the fear of death.
 
 This hospitalization triggered the spiritual crisis that would ultimately
 lead Fukuoka away from scientific research and toward [[fukuoka-personal-journey]]
-from confident young scientist to doubting seeker to natural farming
+from confident young scientist to doubting seeker to [[comparison-natural-farming-vs-permaculture]]
 prophet begins here. The question of what he had placed his confidence in,
 and the nature of his complacency, became an agony of doubt about the
 nature of life and death.
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

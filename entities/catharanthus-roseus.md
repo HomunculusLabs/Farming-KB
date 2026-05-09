@@ -52,7 +52,7 @@ For pharmaceutical production, the plant is cultivated on a commercial scale in 
 
 The global market for vinblastine and vincristine is valued at hundreds of
 millions of dollars annually. Vincristine alone is estimated to be administered
-to over 10,000 cancer patients per year in the United States. The commercial
+to over 10,000 cancer patients per year in the [[dmt-containing-plants-united-states-halpern]]. The commercial
 cultivation of *C. roseus* for pharmaceutical extraction occurs primarily in
 India, Madagascar, China, and several European countries. India is the largest
 producer, supplying significant quantities of dried leaf material to
@@ -73,11 +73,11 @@ Australia, Pacific islands, and East Africa, where it displaces native
 vegetation in disturbed areas. Paradoxically, the plant's weedy invasiveness
 in non-native ranges has helped ensure a reliable pharmaceutical supply,
 while its native habitat in Madagascar's spiny thickets continues to
-diminish due to agricultural expansion and charcoal production.
+diminish due to agricultural expansion and [[mollison-designers-charcoal-production-biochar-soil-amendment]].
 
 ## Toxicity
 
-All parts of the plant are toxic if ingested in quantity. Symptoms of poisoning include nausea, vomiting, diarrhea, hypotension, and neurological symptoms including tremor and seizures. The plant should not be used in herbal self-medication due to the narrow therapeutic window of its active alkaloids.
+All parts of the plant are toxic if ingested in quantity. Symptoms of poisoning include nausea, vomiting, diarrhea, hypotension, and neurological symptoms including tremor and seizures. The plant should not be used in herbal self-medication due to the narrow [[blesching-cannabis-therapeutic-window-dosing]] of its active alkaloids.
 
 ## See Also
 Related: [[mckenna-heroin-cocaine-and-synthetic-drugs]] — another pharmacologically important alkaloid from a tropical plant

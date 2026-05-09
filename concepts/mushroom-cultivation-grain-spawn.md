@@ -1,10 +1,10 @@
 ---
-title: Mushroom Cultivation - Grain Spawn
+title: accessible-mushroom-cultivation-for-disabilities - Grain Spawn
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [mushroom-cultivation, grain-spawn, spawn, fungi, mycology, cultivation, sterile-technique, agar, inoculation]
-sources: [raw/papers/the-mushroom-cultivator-stamets.md]
+sources: sources: []
 ---
 
 # Mushroom Cultivation - Grain Spawn
@@ -13,7 +13,7 @@ Grain spawn is the primary inoculum used in mushroom cultivation, consisting of 
 
 ## History
 
-During the 1800s, Agaricus growers obtained spawn by gathering concentrations of mycelium from natural habitats ("virgin spawn"), supplemented with horse manure. With the advent of pure culture techniques, propagation by spore germination or tissue cloning completely superseded virgin spawn. In 1932, Dr. James Sinden patented a new spawn-making process using cereal grain as the mycelial carrier, setting the standard for modern spawn production.
+During the 1800s, Agaricus growers obtained spawn by gathering concentrations of mycelium from natural habitats ("virgin spawn"), supplemented with [[falconer-horse-manure-varieties]]. With the advent of pure [[agar-culture-techniques-detailed]], propagation by [[growing-gourmet-spore-germination-strain-isolation]] or tissue cloning completely superseded virgin spawn. In 1932, Dr. James Sinden patented a new spawn-making process using cereal grain as the mycelial carrier, setting the standard for modern [[growing-gourmet-sawdust-spawn-production-use]].
 
 ## Cereal Grains for Spawn
 
@@ -44,7 +44,7 @@ Chalk (CaCO3) and gypsum (CaSO4) can be added at 1-3 parts per 100 parts grain (
 
 ## Sterilization
 
-Sterilize grain spawn at 15 psi for a minimum of 1 hour. A single gram of commercial rye contains an estimated 50,000-100,000 bacteria, 200,000+ actinomycetes, 12,000 fungi, and many yeasts. A full hour at 15 psi is necessary to ensure steam penetrates the small air pockets and structural cavities in the grain. Do not exceed 250 F or the sugar will caramelize, inhibiting mycelial growth and promoting mutations.
+Sterilize grain spawn at 15 psi for a minimum of 1 hour. A single gram of commercial rye contains an estimated 50,000-100,000 bacteria, 200,000+ actinomycetes, 12,000 fungi, and many yeasts. A full hour at 15 psi is necessary to ensure steam penetrates the small air pockets and structural cavities in the grain. Do not exceed 250 F or the sugar will caramelize, inhibiting [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] and promoting mutations.
 
 At higher altitudes, increase pressure proportionally (e.g., at 5,000 feet, use 20 psi instead of 15 psi).
 
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

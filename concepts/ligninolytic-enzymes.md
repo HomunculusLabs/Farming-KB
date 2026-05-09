@@ -1,7 +1,7 @@
 ---
-title: Ligninolytic Enzymes
+title: singh-ligninolytic-enzymes-fungal-bioremediation
 created: 2026-04-28
-tags: [biochemistry, [[mycology]], enzymes, bioremediation]
+tags: [biochemistry, mycology, enzymes, bioremediation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
@@ -22,10 +22,10 @@ produce significant LiP activity.
 - Cofactors: Heme, calcium
 - Optimal pH: 2.5-3.5
 - Substrate range: Non-phenolic aromatic compounds with high redox potential
-  (veratryl alcohol as model substrate)
+  ([[staycare-veratryl-alcohol-as-lignin-peroxidase-mediator]] as model substrate)
 
 **Role in *Pleurotus*:** While *Pleurotus* species lack LiP, they compensate
-through a combination of laccase, MnP, and versatile peroxidase (VP) activity.
+through a combination of laccase, MnP, and [[singh-versatile-peroxidase-vp-multifunctional]] (VP) activity.
 This alternative enzyme system achieves comparable [[pleurotus-eryngii]]* and is considered the key ligninolytic enzyme in
 *Pleurotus* species.
 
@@ -51,13 +51,13 @@ Several accessory enzymes support the ligninolytic enzyme system:
   using H2O2 without manganese involvement.
 - **Glucose oxidase**: Generates H2O2 from glucose, providing peroxide in
   glucose-rich environments.
-- **Cellobiose dehydrogenase**: Links cellulose degradation to lignin
-  oxidation through redox mediator systems.
+- **Cellobiose dehydrogenase**: Links [[brown-rot-fungi-cellulose-degradation-wood-decay]] to lignin
+  oxidation through [[staycare-fungal-redox-mediator-chemistry-pollutant-degradation]] systems.
 
 ## Regulation of Enzyme Production
 
 Ligninolytic enzyme expression in *Pleurotus* species is regulated by multiple
-environmental factors:
+[[duggar-mushroom-environmental-factors-temperature-moisture-light]]:
 
 **Nitrogen levels:** Low nitrogen (nitrogen-limited conditions) strongly
 induces ligninolytic enzyme production, particularly laccase and MnP. This is
@@ -83,4 +83,4 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+- [[ligninolytic-enzyme-systems-white-rot-fungi]]

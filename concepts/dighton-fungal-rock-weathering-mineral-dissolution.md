@@ -34,7 +34,7 @@ Lichens produce organic acids including oxalic, citric, lichenic, and
 tartaric acids that solubilize rock. Carbon dioxide from lichen
 respiration mixes with condensed water to form carbonic acid, an
 important agent of calcite dissolution in limestone and marble. Oxalic
-acid dissolves solid muscovite to release soluble potassium and
+acid dissolves solid muscovite to release [[knf-water-soluble-potassium-detailed]] and
 chelated aluminum. These acids increase hydrogen ion concentration,
 lower pH, increase solubility of aluminum and silicon, and form
 chelation products releasing inorganic nutrient elements.
@@ -46,7 +46,7 @@ zone model. Zone 1 is the photosynthetic region generating lichen
 acids. Zone 2 is the area of biophysical disaggregation, where fungal
 hyphae and rhizomorphs penetrate rock fissures. Hyphal aggregations
 narrow with depth until only single hyphae exist. Zone 2 has the most
-intense mineral weathering with maximal contact among cells, secreted
+intense [[mycorrhizal-mineral-weathering-nutrient-acquisition]] with maximal contact among cells, secreted
 polymers, and mineral surfaces, forming complexes at the nanometer
 scale. Metal-lichen acid complexes form here, such as ferric oxide in
 Acarospora sinoptica and copper oxalate in Acarospora rugulosa.
@@ -73,7 +73,7 @@ Aspergillus niger, Penicillium, and yeasts release cations from
 amphibolite, biotite, orthoclase, limestone, marble, and calcium
 phosphate. The white rot fungus Resinicium bicolor solubilized
 strontianite sand, translocated strontium through mycelial cords, and
-secreted it in calcium oxalate crystals at advancing mycelium fronts,
+secreted it in [[fungal-calcium-oxalate-crystals]] crystals at advancing mycelium fronts,
 demonstrating movement of elements from parent mineral substrate into
 decomposing wood resources.
 
@@ -83,12 +83,12 @@ Cladosporium, Paecilomyces, Phoma, Penicillium, and Sporobolomyces.
 Jongmans et al. (1997) found fungi in 3 to 10 micrometer holes in
 feldspars and hornblende, produced by micromolar concentrations of
 succinic, citric, oxalic, formate, and malate acids secreted by
-saprotrophic and ectomycorrhizal fungi. Microscopy revealed fungal
+saprotrophic and [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]. Microscopy revealed fungal
 hyphae bearing cross walls in hyphal-generated tunnels in rock.
 
 ## Mycorrhizal Rock Weathering
 
-Mycorrhizal fungi in established soils contribute to parent rock
+[[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] established soils contribute to parent rock
 dissolution, often through evolved partnerships with bacteria. Azcon et
 al. (1976) showed synergistic interactions between bacteria and
 arbuscular mycorrhizae of lavender for phosphorus acquisition from rock
@@ -98,7 +98,7 @@ obtain phosphorus from rock phosphate than any organism alone.
 
 Chang and Li (1998) found that among seven ectomycorrhizal species,
 only Hysterangium setchellii, Rhizopogon vinicolor, and Suillus bovinus
-demonstrated limestone, marble, and calcium phosphate solubilization in
+demonstrated limestone, marble, and [[bionutrients-lab-calcium-phosphate-calamansi]] solubilization in
 plate-clearing assays. Cenococcum geophilum, Hebeloma
 crustuliniforme, Laccaria laccata, and Piloderma croceum did not clear
 the medium. The rhizosphere has 5 to 10 times greater fungal populations

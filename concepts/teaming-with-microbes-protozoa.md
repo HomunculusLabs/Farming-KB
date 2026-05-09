@@ -32,7 +32,7 @@ Soil protozoa fall into three categories based on how they move:
 - Move using temporary pseudopods (false feet)
 - Can squeeze through very small soil pores to reach bacteria
 - Include both naked amoebae and testate amoebae (with shells)
-- Major bacterial predators in most soils
+- Major [[fungal-bacterial-predators-nitrogen-acquisition-soil-ecology]] in most soils
 
 ### Ciliates
 - Move using hair-like cilia
@@ -60,7 +60,7 @@ All protozoa require moisture for active life:
 ## Ecological Significance
 
 Protozoa illustrate a core principle of soil food web gardening:
-- Plants don't get nutrients directly from organic matter
+- Plants don't get nutrients directly from [[hamilton-composting-and-organic-matter-management]]
 - They rely on the microbial loop: bacteria absorb nutrients, protozoa eat bacteria, protozoa excrete plant-available nutrients
 - This is why simply adding organic matter without supporting the food web doesn't optimize plant nutrition
 - The presence and diversity of protozoa indicates a functioning soil food web
@@ -76,14 +76,14 @@ See also: [[teaming-with-microbes-overview]], [[protozoa-in-soil]]
 The principles outlined on this page connect directly to hands-on work in gardens,
 farms, and homesteads. Integrating these concepts with complementary techniques from
 related disciplines can significantly improve outcomes. Start with small-scale
-implementation and scale up as understanding deepens through direct observation.
+implementation and scale up as understanding deepens through [[fukuoka-direct-observation-method]].
 
 ## Merged: Bacterial Biofilm and Slime - Teaming with Microbes
 
 # Bacterial Biofilm and Slime
 
 Bacterial slime, or biofilm, is a matrix of sugars, proteins, and DNA. It is one of the most important substances produced by soil bacteria, serving multiple critical functions in the [[teaming-with-microbes-bacteria]]
-- teaming with microbes protozoa
+- teaming with [[teaming-with-microbes-protozoa-and-nematodes]]
 - [[root-exudates]]
 - [[soil-food-web]]. Their consumption of bacteria and fungi -- and subsequent release of wastes -- is the primary mechanism by which nutrients are mineralized and made available to plants.
 

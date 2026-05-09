@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Moore, M.O. (1991). "Classification and systematics of eastern North American Vitis." Taxon, 40(4), 579-594.
+  - Moore, M.O. (1991). "Classification and systematics of polypore-fungi-eastern-north-america American Vitis." Taxon, 40(4), 579-594.
   - Galet, P. (1998). "A Practical Ampelography: Grapevine Identification." Cornell University Press.
   - Comeaux, B.L. et al. (1987). "Enological characteristics of selected Vitis aestivalis grape cultivars." American Journal of Enology and Viticulture, 38(2), 139-143.
   - USDA NRCS (2024). "Vitis aestivalis Michx. Plant Guide." USDA Natural Resources Conservation Service.
@@ -20,7 +20,7 @@ sources:
 
 **Vitis aestivalis** (summer grape) is a species of grape native to eastern and central North America. It is one of the most cold-hardy and disease-resistant North American grape species.
 
-The species is commercially significant as a parent in hybrid grape breeding programs. Its resistance to phylloxera and fungal pathogens makes it a valuable genetic resource for viticulture.
+The species is commercially significant as a parent in hybrid grape breeding programs. Its resistance to phylloxera and [[bloomfield-fungal-pathogens-and-parasites]] makes it a valuable genetic resource for viticulture.
 
 Summer grape produces small to medium clusters of dark, intensely flavored berries. The fruit is used in wine production, juice, and jelly, with some cultivars achieving notable commercial success.
 
@@ -32,7 +32,7 @@ Authority: André Michaux (1803). The species epithet "aestivalis" refers to its
 
 The plant is a vigorous deciduous woody vine capable of reaching 15–25 meters when climbing supporting structures. Young shoots are typically glabrous or lightly pubescent, becoming woody and brown with age.
 
-Leaves are large, cordate, and coarsely dentate, measuring 10–20 cm in length. The upper leaf surface is dark green and glabrous, while the lower surface may have light pubescence along the veins.
+Leaves are large, cordate, and coarsely dentate, measuring 10–20 cm in length. The upper [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is dark green and glabrous, while the lower surface may have light pubescence along the veins.
 
 Leaf tendrils are intermittent, a characteristic that distinguishes V. aestivalis from the continuous-tendril pattern of V. labrusca. This morphological trait is useful for field identification.
 
@@ -52,9 +52,9 @@ The species can tolerate partial shade but produces best fruit in full sun. It i
 
 The most commercially important cultivar is **'Norton'** (also known as 'Cynthiana'), a V. aestivalis selection that produces award-winning dry red wines. Norton is the state grape of Missouri and the foundation of the Missouri wine industry.
 
-Other notable cultivars include 'Bacon' and several hybrids bred at the University of Minnesota. These selections combine the disease resistance of V. aestivalis with improved cold hardiness and fruit quality.
+Other notable cultivars include 'Bacon' and several hybrids bred at the University of Minnesota. These selections combine the disease resistance of V. aestivalis with improved [[coleman-cold-hardiness-testing-ratings]] and fruit quality.
 
-In viticulture, V. aestivalis is primarily used as a rootstock and breeding parent rather than as a standalone cultivar. Its phylloxera resistance and tolerance to downy and powdery mildew are highly valued traits.
+In viticulture, V. aestivalis is primarily used as a rootstock and breeding parent rather than as a standalone cultivar. Its phylloxera resistance and tolerance to downy and [[cervantes-powdery-mildew-prevention-treatment]] are highly valued traits.
 
 The fruit is also used for juice, jam, and fresh eating, though its thick skin and tart flavor limit its appeal as a table grape. Wildlife, particularly birds and mammals, readily consume the fruit.
 
@@ -74,7 +74,7 @@ As a native species, V. aestivalis supports a specialized community of gall-form
 
 V. aestivalis is part of the "bunch grape" group of North American Vitis species, closely related to V. labrusca and V. cinerea.
 
-It hybridizes readily with other Vitis species in the wild, producing intermediates that can complicate field identification. The hybrid V. × champinii (V. mustangensis × V. aestivalis) is known for its extreme drought tolerance.
+It hybridizes readily with other Vitis species in the wild, producing intermediates that can complicate field identification. The hybrid V. × champinii (V. mustangensis × V. aestivalis) is known for its extreme [[dighton-fungal-drought-tolerance-plant-water-relations]].
 
 Key distinguishing features from V. labrusca include glabrous lower leaf surfaces (vs. tomentose in labrusca), intermittent tendrils (vs. continuous), and the absence of the characteristic "foxy" musk aroma in the fruit.
 

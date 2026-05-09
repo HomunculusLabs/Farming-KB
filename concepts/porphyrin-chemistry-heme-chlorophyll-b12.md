@@ -57,8 +57,8 @@ triggering the T-to-R conformational change. Myoglobin stores oxygen in muscle t
 hyperbolic binding. Cytochrome c transfers electrons between Complexes III and IV via covalently
 attached heme c (E approximately +250 mV). Cytochrome P450 uses a cysteine thiolate proximal
 ligand instead of histidine, enabling monoxygenation reactions through the reactive iron-oxo
-Compound I intermediate, central to drug metabolism and steroid synthesis. Catalase dismutates
-hydrogen peroxide with turnover approximately 10^7 s^-1, one of the fastest enzymes known.
+Compound I intermediate, central to [[cytochrome-p450-enzymes-drug-metabolism]] and steroid synthesis. Catalase dismutates
+[[cervantes-hydrogen-peroxide-sterilization]] with turnover approximately 10^7 s^-1, one of the fastest enzymes known.
 Peroxidases use H2O2 to oxidize organic substrates through the same Compound I mechanism.
 
 ## Chlorophyll
@@ -88,7 +88,7 @@ CoA mutase (propionate metabolism) and other radical rearrangement enzymes. The 
 unusually weak (approximately 30 kcal/mol), enabling homolytic cleavage to generate the
 5'-deoxyadenosyl radical. Cyanocobalamin (synthetic supplement) and hydroxocobalamin
 (pharmaceutical) are converted to MeCbl and AdoCbl in vivo. Deficiency causes megaloblastic
-anemia and subacute combined degeneration of the spinal cord.
+anemia and subacute combined degeneration of the [[blesching-cannabis-spinal-cord-injuries]].
 
 ## Other Biologically Important Tetrapyrroles
 
@@ -123,7 +123,7 @@ serve as tumor-targeted MRI contrast agents. Porphyrins are excellent chemosenso
 (NO, CO, O2), metal ions, and pH due to spectral shifts upon analyte binding.
 
 Metalloporphyrins (Fe, Mn, Co, Ru) serve as biomimetic catalysts for olefin epoxidation, CO2
-reduction, oxygen reduction in fuel cells, water oxidation, and C-H activation. Phthalocyanines,
+reduction, oxygen reduction in [[microbial-fuel-cells-remediation]], water oxidation, and C-H activation. Phthalocyanines,
 synthetic porphyrin analogs with four isoindole units, are used as dyes (Pigment Blue 15), in
 organic electronics, and as photocatalysts. Porphyrinic metal-organic frameworks enable
 heterogeneous catalysis with tunable active sites.
@@ -142,6 +142,6 @@ metalation monitoring, and aggregation state determination.
 
 ## See Also
 
-- [[electron-transport-chain-mitochondrial-respiration]] — Cytochromes in oxidative phosphorylation
+- [[electron-transport-chain-mitochondrial-respiration]] — Cytochromes in [[oxidative-phosphorylation-mitochondrial-respiration]]
 - [[glutathione-biochemistry-and-redox-biology]] — Redox interactions with heme and porphyrins
 - [[glycolysis-embden-meyerhof-parnas-pathway]] — Connection to tetrapyrrole precursor metabolism

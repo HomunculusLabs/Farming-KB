@@ -5,7 +5,7 @@ updated: 2026-04-23
 type: concept
 tags: [soil-biology, bacteria, decomposition]
 sources:
-  - "raw/papers/teaming-with-microbes-lowenfels.md"
+  sources: []
 ---
 
 # Bacteria — The Smallest Workers
@@ -36,7 +36,7 @@ Biofilms save bacteria from desiccation as soil dries. Bacteria often live insid
 
 ## Nutrient retention
 
-Bacteria play a major role in plant nutrition by locking up nutrients that might otherwise leach away. They do so by ingesting nutrients while decomposing organic matter and retaining them in their cellular structures. Since soil bacteria do not travel far and there is ample food in the root zone, nutrients ingested by bacteria are kept near roots.
+Bacteria play a major role in plant nutrition by locking up nutrients that might otherwise leach away. They do so by ingesting nutrients while decomposing [[hamilton-composting-and-organic-matter-management]] and retaining them in their cellular structures. Since soil bacteria do not travel far and there is ample food in the root zone, nutrients ingested by bacteria are kept near roots.
 
 [[teaming-with-microbes-soil-ph-and-biology]]
 
@@ -44,11 +44,11 @@ Bacterial slime raises soil pH, creating alkaline microenvironments. Nitrogen-fi
 ### Lytic Enzymes
 Bacteria produce chitinases, glucanases, and proteases that degrade the cell walls of pathogenic fungi. Chitinase-producing Bacillus and Serratia species can break down the chitin in fungal hyphae, directly lysing pathogenic organisms. These enzymes are the same tools that [[teaming-with-microbes-overview]] use in their own competitive interactions.
 ### Applications in Disease Suppression
-The disease-suppressive power of bacteria is the scientific basis for [[ingham-aact-disease-suppression]] for research on compost tea efficacy, and [[cervantes-bacillus-thuringiensis-bt-control]] for Bt application in cannabis pest management. Bacillus subtilis strains (e.g., QST 713, sold as Serenade) are registered as biofungicides and are applied to suppress powdery mildew, Botrytis, and other foliar diseases. Streptomyces lydicus (Actinovate) is marketed for suppression of soil-borne and foliar pathogens.
+The disease-suppressive power of bacteria is the scientific basis for [[ingham-aact-disease-suppression]] for research on compost tea efficacy, and [[cervantes-bacillus-thuringiensis-bt-control]] for Bt application in cannabis [[cannabis-pest-management-guide]]. Bacillus subtilis strains (e.g., QST 713, sold as Serenade) are registered as biofungicides and are applied to suppress [[cervantes-powdery-mildew-prevention-treatment]], Botrytis, and other foliar diseases. Streptomyces lydicus (Actinovate) is marketed for suppression of soil-borne and foliar pathogens.
 ### Bioremediation
-Certain soil bacteria can degrade environmental contaminants including petroleum hydrocarbons, pesticides, and heavy metals. Pseudomonas putida is well-known for its ability to metabolize organic solvents and is used in bioremediation of contaminated soils. These capabilities connect soil bacterial ecology directly to environmental restoration efforts, demonstrating that maintaining diverse bacterial communities has benefits far beyond agriculture.
+Certain soil bacteria can degrade environmental contaminants including petroleum hydrocarbons, pesticides, and heavy metals. Pseudomonas putida is well-known for its ability to metabolize organic solvents and is used in bioremediation of contaminated soils. These capabilities connect soil bacterial ecology directly to environmental restoration efforts, demonstrating that maintaining diverse [[cultivar-endorhiza-bacterial-communities-cannabis]] has benefits far beyond agriculture.
 ### Bacteria in the Compost Process
-Bacteria drive every stage of the composting process. During the initial mesophilic phase (ambient temperature to 40°C), mesophilic bacteria rapidly multiply and begin decomposing simple sugars and proteins. As their metabolic activity generates heat, thermophilic bacteria take over at temperatures above 45°C, some surviving up to 70°C. These heat-loving bacteria decompose cellulose, hemicellulose, and even some lignin — materials that mesophilic bacteria cannot process. The thermophilic phase is critical for pathogen destruction, as the sustained high temperatures kill weed seeds, human pathogens, and plant disease organisms. As the pile cools, mesophilic bacteria and [[teaming-with-microbes-decomposition-pathways]] for a detailed breakdown of the composting microbial succession.
+Bacteria drive every stage of the composting process. During the initial mesophilic phase ([[jadam-ambient-temperature-principle]] to 40°C), mesophilic bacteria rapidly multiply and begin decomposing simple sugars and proteins. As their [[arbuscule-isolation-metabolic-activity-assays]] generates heat, thermophilic bacteria take over at temperatures above 45°C, some surviving up to 70°C. These heat-loving bacteria decompose cellulose, hemicellulose, and even some lignin — materials that mesophilic bacteria cannot process. The thermophilic phase is critical for pathogen destruction, as the sustained high temperatures kill weed seeds, human pathogens, and plant disease organisms. As the pile cools, mesophilic bacteria and [[teaming-with-microbes-decomposition-pathways]] for a detailed breakdown of the composting microbial succession.
 ### Bacterial Quorum Sensing
 A relatively recently discovered mechanism called quorum sensing allows bacteria to communicate with each other using chemical signal molecules (autoinducers). When bacterial populations reach a critical density, these signals accumulate and trigger coordinated group behaviors — including biofilm formation, antibiotic production, virulence factor expression, and nutrient acquisition. Quorum sensing means that soil bacteria act not as isolated cells but as coordinated communities capable of collective decision-making. This discovery has transformed our understanding of how biocontrol bacteria operate: Pseudomonas fluorescens, for example, uses quorum sensing to time its production of antifungal compounds to coincide with peak pathogen populations, conserving metabolic resources. Research into quorum sensing disruption (quorum quenching) as a strategy for managing plant diseases is an active area of investigation.
 
@@ -59,6 +59,7 @@ The bacterial community in any given soil is extraordinarily diverse. A single g
 - [[teaming-with-microbes-bacterial-vs-fungal-dominance]]
 - [[teaming-with-microbes-soil-food-web-overview]]
 - [[teaming-with-microbes-soil-ph-and-biology]]
+
 ## Practical Considerations
 
 Successful implementation of Bacteria — The Smallest Workers requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

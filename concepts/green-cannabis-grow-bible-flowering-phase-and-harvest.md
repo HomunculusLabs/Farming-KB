@@ -1,5 +1,5 @@
 ---
-title: Flowering Phase and Harvest - Greg Green's Cannabis Grow Bible
+title: green cannabis grow bible flowering phase and harvest and Harvest - Greg Green's green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -11,14 +11,14 @@ tags: [cannabis, harvesting]
 # Flowering Phase and Harvest
 
 Greg Green's Cannabis Grow Bible provides comprehensive guidance on the
-flowering cycle, the critical 12/12 photoperiod, sexing plants, and
-harvesting and curing techniques.
+[[cannabis-sativa-flowering-cycle-management]], the critical 12/12 photoperiod, sexing plants, and
+[[cannabis-harvesting-and-curing-techniques]] techniques.
 
 ## The 12/12 Photoperiod
 
 Cannabis naturally flowers when days shorten to 12 hours of light and
 12 hours of darkness (outdoors, September through November). Indoors,
-the grower triggers flowering by switching to a 12/12 light schedule
+the grower triggers flowering by switching to a 12/12 [[query-best-light-schedule-for-cannabis]]
 using a timer.
 
 Critical requirements for successful 12/12:
@@ -62,7 +62,7 @@ Switch to flowering feed (higher P than N and K) once sex is confirmed.
 Under strict 12/12, the female plant:
 
 1. Fills out with more leaves, branches, and flowers, taking a
-  Christmas tree shape
+  [[arthur-christmas-tree-amanita-muscaria]] shape
 2. Fan leaves stretch outward to maximize light collection
 3. Pistils at flower tips swell and change color: white to orange to
   red to brown

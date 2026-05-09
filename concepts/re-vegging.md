@@ -3,6 +3,7 @@ title: Re-Vegging
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
@@ -11,11 +12,11 @@ tags: [reference]
 
 # Re-Vegging
 
-Re-vegging (re-vegetating) is the process of reversing a cannabis plant from the flowering stage back to vegetative growth. The plant, having completed or partially completed its flowering cycle, is stimulated by a new long-day photoperiod (typically 18 hours of light) to resume vegetative growth. Cervantes refers to this process as "rejuvenation" and defines it in his glossary as "a mature plant, having completed its life cycle (flowering) that is stimulated by a new 18-hour photoperiod, to rejuvenate or produce new vegetative growth."
+Re-vegging (re-vegetating) is the process of reversing a cannabis plant from the [[cannabis-flowering-stage-management]] back to [[cannabis-vegetative-growth-stage]]. The plant, having completed or partially completed its [[cannabis-sativa-flowering-cycle-management]], is stimulated by a new long-day photoperiod (typically 18 hours of light) to resume vegetative growth. Cervantes refers to this process as "rejuvenation" and defines it in his glossary as "a mature plant, having completed its life cycle (flowering) that is stimulated by a new 18-hour photoperiod, to rejuvenate or produce new vegetative growth."
 
 ## Core Concept
 
-Cannabis is a photoperiodic plant that flowers in response to 12 hours of uninterrupted darkness. When a flowering plant is returned to an 18/6 or 24/0 light schedule, the photoperiod signal shifts and the plant begins producing vegetative growth again. The plant stops developing flowers and reverts to producing leaves and branches. This process allows growers to harvest a plant and then keep it alive for a second (or subsequent) flowering cycle, or to take clones from a flowering plant.
+Cannabis is a photoperiodic plant that flowers in response to 12 hours of uninterrupted darkness. When a flowering plant is returned to an 18/6 or 24/0 [[query-best-light-schedule-for-cannabis]], the photoperiod signal shifts and the plant begins producing vegetative growth again. The plant stops developing flowers and reverts to producing leaves and branches. This process allows growers to harvest a plant and then keep it alive for a second (or subsequent) flowering cycle, or to take clones from a flowering plant.
 
 ## How Re-Vegging Works
 
@@ -111,7 +112,7 @@ A common problem for indoor growers is accidental re-vegging caused by light lea
 - "Marijuana must have 12 hours of uninterrupted, total darkness to flower properly"
 - "Less than one half of one foot-candle of light will prevent cannabis from flowering" -- that is slightly more light than a full moon on a clear night
 - Light leaks from doors, windows, or equipment indicators can trigger re-vegging
-- The smart way to visit a grow room during the dark period is to use a green light bulb, as "marijuana does not respond to the green portion of the light spectrum"
+- The smart way to visit a grow room during the dark period is to use a green light bulb, as "marijuana does not respond to the green portion of the [[cannabis-light-spectrum-and-color-bands]]"
 
 Accidental re-vegging is particularly problematic because:
 - The plant takes 4-6 additional weeks to re-enter flowering after re-vegetation
@@ -129,7 +130,7 @@ The transition from flowering back to vegetative growth requires a significant s
 
 - Switch from bloom nutrients (high P and K) to vegetative nutrients (high N)
 - "An increased dose of high-nitrogen fertilizer" promotes the desired green, leafy growth
-- Monitor for nutrient lockout during the transition, as the plant's uptake patterns change
+- Monitor for [[cannabis-nutrient-lockout-and-ph]] during the transition, as the plant's uptake patterns change
 - Consider using a rooting hormone like IBA to support new root and shoot growth
 - Gradual transition over 1-2 weeks may be easier on the plant than an abrupt nutrient switch
 

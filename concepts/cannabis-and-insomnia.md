@@ -9,7 +9,7 @@ sources:
 ---
 # Cannabis and Insomnia
 
-**Source:** The Cannabis Health Index, Uwe Blesching, PhD (2017)
+**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]], Uwe Blesching, PhD (2017)
 **Updated:** 2026-04-19
 
 ## Evidence-Based Therapeutic Potential
@@ -23,7 +23,7 @@ Insomnia is difficulty or inability to fall or stay asleep. Its preceding sympto
 
 Orthodox treatments include benzodiazepines (addictive), sedative-hypnotics like Ambien (addictive), opiates (addictive), and antidepressants (serious side effects). None cure chronic insomnia, which typically returns when medication stops.
 
-Chronic insomnia affects approximately 10–15% of the adult population and is associated with significant morbidity including increased risk of cardiovascular disease, diabetes, obesity, depression, and impaired cognitive function. The condition often co-occurs with other disorders such as chronic pain, anxiety, depression, and post-traumatic stress disorder, creating complex symptom interactions that are difficult to manage with conventional pharmacotherapy alone.
+Chronic insomnia affects approximately 10–15% of the adult population and is associated with significant morbidity including increased risk of cardiovascular disease, diabetes, obesity, depression, and impaired cognitive function. The condition often co-occurs with other disorders such as [[cannabis-chronic-pain-management]], anxiety, depression, and post-traumatic stress disorder, creating complex symptom interactions that are difficult to manage with conventional pharmacotherapy alone.
 
 ## Cannabis and Insomnia
 
@@ -74,7 +74,7 @@ Cognitive behavioral therapy for insomnia (CBT-I) is the gold standard non-pharm
 
 ## Limitations of Current Research
 
-The evidence base for cannabis and insomnia is limited, with few controlled clinical trials. Long-term use of THC for sleep may lead to tolerance, requiring dose escalation that increases side effect risk. The impact of regular cannabis use on sleep architecture, particularly deep (slow-wave) sleep, is not fully understood. Abrupt discontinuation of regular cannabis use can cause sleep disturbance as a withdrawal symptom. Cannabis should be used as part of a comprehensive sleep management approach, not as a standalone solution.
+The evidence base for cannabis and insomnia is limited, with few controlled [[mushroom-cancer-clinical-trials-overview]]. Long-term use of THC for sleep may lead to tolerance, requiring dose escalation that increases side effect risk. The impact of regular cannabis use on sleep architecture, particularly deep (slow-wave) sleep, is not fully understood. Abrupt discontinuation of regular cannabis use can cause sleep disturbance as a withdrawal symptom. Cannabis should be used as part of a comprehensive sleep management approach, not as a standalone solution.
 
 ## Related Topics
 

@@ -1,5 +1,5 @@
 ---
-title: Mulching Materials and Techniques
+title: hamilton mulching materials and techniques and Techniques
 created: 2026-04-28
 tags:
   - organic-gardening
@@ -16,7 +16,7 @@ type: concept
 
 # Mulching Materials and Techniques
 
-Mulching involves spreading a layer of organic matter over the soil
+Mulching involves spreading a layer of [[hamilton-composting-and-organic-matter-management]] over the soil
 where it cannot be dug into the ground because plants cannot be
 disturbed. Mulching is normally carried out in spring. Make sure the
 soil is moist before you apply the mulch because it will absorb
@@ -26,7 +26,7 @@ several materials.
 
 ## Benefits of Mulching
 
-Mulching serves multiple purposes in the organic garden. It suppresses
+Mulching serves multiple purposes in the [[comparison-vermicomposting-vs-composting-organic-garden]]. It suppresses
 weed growth by blocking light, helps retain soil moisture by reducing
 surface evaporation, improves soil structure as the material breaks
 down, moderates soil temperature, and adds nutrients as it decomposes.
@@ -66,7 +66,7 @@ chips, even though it takes some time to make enough.
 ### Grass Cuttings
 
 If applied thickly enough straight from the mower bag, grass cuttings
-are effective for weed control. However, they must be at least 6in
+are effective for [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]. However, they must be at least 6in
 (15cm) deep, and this can lead to problems. If the layer is too
 thick, no air will reach the bottom, and if rotted down anaerobically,
 they become a smelly, slimy mass. Grass cuttings do not look very

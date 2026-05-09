@@ -10,7 +10,7 @@ sources:
 
 ## The Bardo Thodol as Psychedelic Guide
 
-"The Psychedelic Experience" (1964) by Timothy Leary, Ralph Metzner, and Richard Alpert reinterprets the Tibetan Book of the Dead (Bardo Thodol) as a practical manual for navigating the stages of a psychedelic session. Rather than reading the Bardo Thodol literally as instructions for the dying, Leary's interpretation treats it as an esoteric guide for the living — a map of consciousness-expansion experiences that can be accessed through psychedelic substances.
+"The [[leary-psychedelic-experience-bardo-mapping]]" (1964) by Timothy Leary, Ralph Metzner, and Richard Alpert reinterprets the Tibetan Book of the Dead (Bardo Thodol) as a practical manual for navigating the stages of a psychedelic session. Rather than reading the Bardo Thodol literally as instructions for the dying, Leary's interpretation treats it as an esoteric guide for the living — a map of consciousness-expansion experiences that can be accessed through psychedelic substances.
 
 The manual's central insight is that the Bardo Thodol was "originally conceived to serve as a guide not only for the dying and the dead, but for the living as well." Lama Anagarika Govinda, whose commentary heavily influenced Leary's interpretation, wrote that it is "one of the oldest and most universal practices for the initiate to go through the experience of death before he can be spiritually reborn."
 
@@ -36,7 +36,7 @@ The manual emphasizes that these are "signs heralding transcendence" — not sym
 
 If the Primary Clear Light is not recognized, a Secondary Clear Light may follow. This stage is less intense but more conceptually accessible. Here, "an interesting dialogue occurs between pure transcendence and the awareness that this ecstatic vision is happening to oneself." The knowing self "hovers within that transcendent terrain from which it is usually barred."
 
-Leary frames this as the oldest debate in Eastern philosophy: "Is it better to be part of the sugar or to taste the sugar?" — the distinction between the mystic non-self experience and the mystic self experience. Both are possible in this stage, and the flashing back and forth between them produces "an intellectual ecstasy and understanding that defies description."
+Leary frames this as the oldest debate in [[fukuoka-western-eastern-philosophy-agriculture]]: "Is it better to be part of the sugar or to taste the sugar?" — the distinction between the mystic non-self experience and the mystic self experience. Both are possible in this stage, and the flashing back and forth between them produces "an intellectual ecstasy and understanding that defies description."
 
 ### Second Bardo: Chonyid Bardo — The Period of Hallucinations
 
@@ -64,9 +64,9 @@ The manual identifies four "basic trusts" that prepare a person for the experien
 
 ## Influence and Legacy
 
-Leary's psychedelic adaptation of the Bardo Thodol became one of the most influential texts of the 1960s counterculture. It established the framework of set and setting as the primary determinants of psychedelic experience quality, provided a vocabulary for describing ego-death and transcendence that persists in modern psychedelic research, and introduced Eastern contemplative concepts to a Western audience through the accessible medium of psychedelic experience.
+Leary's psychedelic adaptation of the Bardo Thodol became one of the most influential texts of the 1960s counterculture. It established the framework of [[lsd-set-and-setting-framework]] as the primary determinants of psychedelic experience quality, provided a vocabulary for describing ego-death and transcendence that persists in modern [[mckenna-suppression-psychedelic-research-lsd-therapy]], and introduced Eastern contemplative concepts to a Western audience through the accessible medium of psychedelic experience.
 
-The model's emphasis on the guide's role, on preparation and trust, and on the recognition that "all visions are created by your mind" prefigured many principles now validated by contemporary psychedelic therapy research. The distinction between peaceful and wrathful visions, and the instruction to neither pursue nor flee either, parallels modern therapeutic approaches to working with challenging psychedelic experiences.
+The model's emphasis on the guide's role, on preparation and trust, and on the recognition that "all visions are created by your mind" prefigured many principles now validated by contemporary [[metzner-psycholytic-psychedelic-therapy-models]] research. The distinction between [[leary-peaceful-and-wrathful-visions]] visions, and the instruction to neither pursue nor flee either, parallels modern therapeutic approaches to working with challenging psychedelic experiences.
 
 ## The Seven Vision Types of the Second Bardo
 

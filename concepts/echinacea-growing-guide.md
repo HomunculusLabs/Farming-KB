@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, permaculture, ethnobotany]
-sources: []
+sources:
+  sources: []
 ---
 
 # Echinacea Growing Guide (Echinacea purpurea / E. angustifolia)
@@ -12,8 +13,8 @@ sources: []
 ## Overview
 
 Echinacea, commonly known as purple coneflower, is one of the most
-commercially important medicinal herbs in North America. Native to the
-prairies and open woodlands of central and eastern North America, echinacea
+commercially important [[permaculture-plants-medicinal-herbs-healing]] in [[psilocybin-north-america-pacific-northwest]]. Native to the
+prairies and open woodlands of central and [[polypore-fungi-eastern-north-america]] America, echinacea
 has been used by Indigenous peoples for centuries and is now one of the most
 widely used immune-supporting herbs in Western herbal medicine. Three species
 are primarily used medicinally: E. purpurea, E. angustifolia, and E. pallida.
@@ -46,12 +47,12 @@ Primary applications:
 - Topical use for wounds, skin infections, and insect bites
 - Anti-inflammatory action for sore throats and swollen lymph nodes
 
-Traditional preparation methods:
+[[kava-traditional-preparation-ceremonial-context]] methods:
 - Tincture: Fresh root tincture (1:2 in 60-95% alcohol) is considered the
   gold standard. Dosage: 30-60 drops, 3-5 times daily at first sign of illness.
 - Decoction: Dried root simmered for 20-30 minutes
 - Tea: Dried aerial parts steeped 10-15 minutes
-- Double extraction: For maximum extraction of both water-soluble and alcohol-
+- [[query-how-do-i-make-a-medicinal-mushroom-double-extraction-tincture]]: For maximum extraction of both water-soluble and alcohol-
   soluble compounds
 
 Note: Echinacea is most effective when taken at the very first signs of illness
@@ -114,7 +115,7 @@ Echinacea is relatively trouble-free but watch for:
 - Aster yellows: A phytoplasma disease causing green, distorted flowers.
   Remove and destroy infected plants immediately.
 - Japanese beetles: May defoliate plants; handpick or use neem.
-- Powdery mildew: Improve air circulation and avoid overhead watering.
+- [[cervantes-powdery-mildew-prevention-treatment]]: Improve air circulation and avoid overhead watering.
 - Root rots: Prevent by ensuring excellent drainage.
 
 ## Harvesting
@@ -138,22 +139,6 @@ Roots:
 - Chop roots into small pieces (1/4 inch) while fresh
 - Spread on screens in a warm, dry, well-ventilated area
 - A dehydrator at 95-100 degrees F works well
-- Roots are fully dry when they snap rather than bend
-- Store in airtight glass jars in a cool, dark place
-
-Aerial parts:
-- Bundle stems and hang upside down to dry, or spread on screens
-- Dry away from direct sunlight to preserve compounds
-- Store dried herb in airtight containers
-- Properly stored echinacea retains potency for 1-2 years
-
-## Yields
-
-Under good conditions, expect approximately:
-- E. purpurea: 0.5-1 lb dried root per plant (3rd year)
-- E. angustifolia: 0.25-0.5 lb dried root per plant (3rd-4th year)
-- Aerial parts: 0.25-0.5 lb dried herb per plant per year
-
 ## See Also
 
 - [[yarrow-plant-guide]] -- excellent companion plant; combine in immune teas

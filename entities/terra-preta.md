@@ -12,9 +12,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Glaser, B. & Woods, W.I. (2004). "Amazonian Dark Earths: Explorations in Space and Time." Springer.
-  - Lehmann, J. et al. (2003). "Nutrient availability and leaching in an archaeological Anthrosol and a Ferralsol of the Central Amazon basin." Plant and Soil 249(2): 343-357.
+  - Lehmann, J. et al. (2003). "[[ph-and-nutrient-availability-garden-soils]] and leaching in an archaeological Anthrosol and a Ferralsol of the Central Amazon basin." Plant and Soil 249(2): 343-357.
   - Steiner, C. et al. (2007). "Long term effects of manure, charcoal and mineral fertilization on crop production and fertility on a highly weathered Central Amazonian upland soil." Plant and Soil 291(1-2): 275-290.
-  - Wiedner, K. & Glaser, B. (2015). "Traditional charcoal production—An opportunity for sustainable biochar production." Biochar in Soil 3: 59-73.
+  - Wiedner, K. & Glaser, B. (2015). "Traditional [[mollison-designers-charcoal-production-biochar-soil-amendment]]—An opportunity for sustainable [[comparison-biochar-production-guide-vs-biochar-soil-amendment]]." Biochar in Soil 3: 59-73.
 created: 2026-04-28
 ---
 
@@ -22,9 +22,9 @@ created: 2026-04-28
 
 Terra preta (Portuguese for "black soil"), also known as Amazonian Dark Earth (ADE), is a class of anthropogenic soils found predominantly in the Amazon Basin.
 
-These highly fertile, carbon-rich soils were created by pre-Columbian indigenous populations through deliberate amendment of naturally poor tropical soils with charcoal, organic waste, bone, and pottery sherds over periods spanning centuries to millennia.
+These highly fertile, carbon-rich soils were created by pre-Columbian indigenous populations through deliberate amendment of naturally poor [[mollison-designers-tropical-soils-and-cation-exchange-management]] with charcoal, organic waste, bone, and pottery sherds over periods spanning centuries to millennia.
 
-Terra preta soils are of intense scientific interest due to their exceptional fertility in a region characterized by some of the most nutrient-poor soils on Earth. They represent one of the few documented examples of large-scale, sustainable soil improvement in the humid tropics, and serve as the primary inspiration for modern [[permaculture]] design principles, [[dynamic-accumulators]] integration represents a comprehensive approach to carbon-negative agriculture. Integration with [[hugelkultur]] beds for biomass recycling further enhances the carbon sequestration potential of biochar-based agricultural systems.
+Terra preta soils are of intense scientific interest due to their exceptional fertility in a region characterized by some of the most nutrient-poor soils on Earth. They represent one of the few documented examples of large-scale, sustainable soil improvement in the humid tropics, and serve as the primary inspiration for modern [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] principles, [[dynamic-accumulators]] integration represents a comprehensive approach to carbon-negative agriculture. Integration with [[hugelkultur]] beds for biomass recycling further enhances the [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] potential of biochar-based agricultural systems.
 
 ## See Also
 
@@ -109,4 +109,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

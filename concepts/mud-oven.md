@@ -1,5 +1,5 @@
 ---
-title: Mud Oven Construction
+title: Mud comparison-cob-oven-construction-vs-rocket-stove
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -24,7 +24,7 @@ A mud oven (also called cob oven, earth oven, or clay oven) is a wood-fired baki
 
 | Material | Quantity | Purpose |
 |----------|----------|---------|
-| Clay soil | 150-200 lbs (test for clay content) | Primary building material |
+| Clay soil | 150-200 lbs (test for clay content) | Primary [[fungal-building-material-deterioration]] |
 | Sharp sand | 200-300 lbs | Thermal mass, prevents cracking |
 | Straw | 1-2 bales | Fiber reinforcement (tensile strength) |
 | Firebricks | 25-35 (for hearth floor) | Oven floor (cooking surface) |
@@ -56,7 +56,7 @@ Not all soil has enough clay. Test by:
 ### Step 1: Foundation and Base
 
 1. Choose a level site protected from rain (under a roof overhang or build a shelter later)
-2. Build a raised platform: concrete blocks, stone, or urbanite (reclaimed concrete chunks)
+2. [[query-how-to-build-a-raised-bed-garden]] platform: concrete blocks, stone, or urbanite (reclaimed concrete chunks)
 3. Platform should be 48-52 inches in diameter (for a 22-24 inch interior oven)
 4. Height: 36-40 inches (comfortable working height)
 5. Top the platform with a level bed of sand or gravel
@@ -115,7 +115,7 @@ Not all soil has enough clay. Test by:
 1. Mix a final coat of clay + sand (no straw) for a smooth finish
 2. Apply 1-2 inches over the insulation layer
 3. Smooth with wet hands or a trowel
-4. Optionally, add a lime plaster finish for weather resistance
+4. Optionally, add a [[comparison-lime-plaster-vs-earthen-plaster]] finish for weather resistance
 
 ### Step 9: Door
 
@@ -140,60 +140,9 @@ This is critical -- do not skip or rush.
 4. Increase fire size gradually over 5-7 days
 5. If you see steam or hear crackling, the oven is still drying -- reduce heat
 6. After a week of graduated fires, the oven is ready for full use
-7. Rushing this step causes cracks
-
-## Repairing Cracks
-
-- Small hairline cracks are normal and seal themselves during the next firing
-- Larger cracks: mix a small batch of clay slip (clay + water) and push it into the crack
-- Major cracking: usually caused by insufficient curing or wrong clay-to-sand ratio
-- Structural cracks: may need to rebuild the affected section
-
-## Using the Oven
-
-### Firing
-
-1. Build a fire in the back of the oven using dry hardwood
-2. Fire for 45-90 minutes until the dome is white-hot or blackened patches turn white
-3. Push coals to the sides or rake them out
-4. Sweep the hearth floor with a damp rag
-5. Test temperature: throw a handful of flour on the floor; if it browns in 10 seconds, the oven is about 500F
-
-### Baking Schedule (Temperature Drop)
-
-| Temp Range | Timing After Fire | What to Bake |
-|------------|-------------------|-------------|
-| 600-700F | Immediately | Pizza (2-3 min), flatbreads |
-| 500-600F | 15-30 min | Sourdough bread, rolls (20-30 min) |
-| 400-500F | 45-60 min | Quick breads, cookies, roasting |
-| 300-400F | 1-2 hours | Casseroles, baked beans, pies |
-| 200-300F | 3-6 hours | Slow-cooked soups, stews |
-| 150-200F | Overnight | Drying herbs, fruit, keeping food warm |
-
-### Maintenance
-
-- Cover the oven with a tarp or build a roof shelter to protect from rain
-- Re-plaster the exterior annually if exposed to weather
-- Clean ash from the hearth regularly
-- Inspect for cracks before each firing season
-
-## Cost Estimate
-
-| Item | Cost |
-|------|------|
-| Clay soil (if purchased) | $0-50 |
-| Sand | $0-30 |
-| Straw | $5-15 |
-| Firebricks | $30-60 |
-| Gravel/bottles/sawdust | $0-20 |
-| Door wood | $0-20 |
-| **Total** | **$35-195** |
-
-Most materials can be sourced free from the land or salvage.
-
 ## Related Pages
 
-- [[natural-building]] -- cob, straw bale, earthbag construction
+- [[natural-building]] -- cob, [[comparison-cob-construction-vs-straw-bale-construction]], [[comparison-earthbag-construction-vs-cob-construction]]
 - [[rocket-stove]] -- alternative efficient wood-burning design
 - [[homesteading-infrastructure]] -- overall homestead planning
 - [[food-fermentation-guide]] -- bread baking (sourdough)

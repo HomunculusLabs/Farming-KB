@@ -1,5 +1,5 @@
 ---
-title: "G-5 (3,6-DIMETHOXY-4-(2-AMINOPROPYL)BENZONORBORNANE) -- PIHKAL Entry #84"
+title: "G-5 (3,6-DIMETHOXY-4-(2-AMINOPROPYL)BENZONORBORNANE) -- 2c-b-pihkal-entry-20 #84"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -83,10 +83,10 @@ Someday I may try making G-6, but it's not a high priority right now.
 
 A solution of 3.70 g 3,6-dimethoxy-4-formylbenzonorbornane
 (see under 2C-G-5 for its preparation) in 20 g nitroethane was treated
-with 0.88 g anhydrous ammonium acetate and held at steam bath
+with 0.88 g anhydrous ammonium acetate and held at [[scythian-cannabis-steam-bath-ritual]]
 temperature overnight. The excess solvent and reagent was removed
 under vacuum to yield a residual yellow oil. This was allowed to
-stand at ambient temperature for a period of time (about 3 years) by
+stand at [[jadam-ambient-temperature-principle]] for a period of time (about 3 years) by
 which time there was a spontaneous crystallization. The dull yellow
 crystals were removed by filtration and, after air drying, weighed
 4.28 g. A small sample was recrystallized repeatedly from MeOH to
@@ -116,7 +116,7 @@ which, after filtration and air drying, weighed 2.47 g.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited shulgin safety principles and should not be taken as established safe doses. Many PIHKAL compounds are potent and psychoactive substances that may carry unknown risks. Mckenna [[2c-g-3-entity-pihkal]]
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited shulgin [[shulgin-safety-principles-self-experimentation]] and should not be taken as established safe doses. Many PIHKAL compounds are potent and psychoactive substances that may carry unknown risks. Mckenna [[2c-g-3-entity-pihkal]]
 - [[2c-g-5-entity-pihkal]]
 
 - PIHKAL (the source book)

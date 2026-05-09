@@ -9,11 +9,11 @@ sources:
 ---
 # Ergonovine Self-Experiment (Hofmann, 1976)
 
-**Source:** The Road to Eleusis, Chapter II — gordon-wasson
+**Source:** The [[the-road-to-eleusis-wasson-hofmann-ruck]], Chapter II — gordon-wasson
 
 ## Overview
 
-On April 1, 1976, Albert Hofmann conducted a self-experiment with ergonovine (ergometrine) to test whether this water-soluble [ergot alkaloid possessed hallucinogenic properties. This experiment was pivotal to the [entheogenic Eleusis theory, directly demonstrating that a key ergot alkaloid — one that could have been extracted by ancient methods — was indeed psychoactive at appropriate dosages.
+On April 1, 1976, Albert Hofmann conducted a self-experiment with ergonovine (ergometrine) to test whether this water-soluble [[kykeon-composition-and-ergot-alkaloid-hypothesis]] possessed hallucinogenic properties. This experiment was pivotal to the [entheogenic [[entheogenic-eleusis-theory-scholarly-reception]], directly demonstrating that a key ergot alkaloid — one that could have been extracted by ancient methods — was indeed psychoactive at appropriate dosages.
 
 ## Background
 
@@ -29,7 +29,7 @@ The experiment was prompted by R. Gordon Wasson's question to Hofmann during a v
 
 Hofmann's self-experiment report reveals a scientist approaching his own body as an instrument of pharmacological inquiry. His careful, hour-by-hour documentation of subjective effects follows the methodology he established during his original [LSD discovery in 1943, when he first recognized the psychoactive properties of that compound through self-experimentation.
 
-The experiment was conducted when Hofmann was 70 years old, demonstrating his lifelong commitment to firsthand investigation of psychoactive substances. His willingness to test an unfamiliar compound on himself — without the benefit of the [careful set and setting he knew to be optimal — reflected both his confidence in the substance's safety profile and his urgency to answer Wasson's question about the feasibility of ancient Greek psychoactive preparations.
+The experiment was conducted when Hofmann was 70 years old, demonstrating his lifelong commitment to firsthand investigation of psychoactive substances. His willingness to test an unfamiliar compound on himself — without the benefit of the [careful [[lsd-set-and-setting-framework]] he knew to be optimal — reflected both his confidence in the substance's [[cannabis-safety-profile-and-overdose-risk]] and his urgency to answer Wasson's question about the feasibility of ancient Greek psychoactive preparations.
 
 ## Safety Considerations
 
@@ -49,7 +49,7 @@ The experiment also contributed to the growing recognition that many "medicinal"
 
 - [Wasson-Hofmann-Ruck collaboration
 
-- [Kykeon composition and ergot hypothesis
+- [Kykeon composition and [[kykeon-potion-and-ergot-hypothesis-at-eleusis]]
 
 - [Claviceps paspali alkaloids
 
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -51,13 +51,13 @@ It is native to the arid regions of Central Asia, including the Taklamakan Deser
 
 ## Morphology
 
-- **Growth habit:** Obligate holoparasite; no leaves, stems, or photosynthetic tissue above ground until flowering. The parasite exists entirely below ground, attached to host roots, for most of its life cycle.
+- **Growth habit:** Obligate holoparasite; no leaves, stems, or photosynthetic tissue above ground until flowering. The parasite exists entirely below ground, attached to host roots, for most of its [[bloomfield-fungal-life-cycle-spiral-versus-circle]].
 - **Stem:** Thick, fleshy, cylindrical to clavate, 10–40 cm long (cultivated specimens can reach 60+ cm), 3–8 cm diameter. Pale yellow to brownish externally, white to pale yellow internally when fresh. Becomes dark brown and hard when dried.
 - **Inflorescence:** Terminal spike, 10–25 cm long, densely flowered. Flowers emerge from an underground scaly bud.
 - **Flowers:** Tubular, bilabiate, 2.5–3.5 cm long. Calyx campanulate, 5-lobed. Corolla pale yellow to cream, often with purple or brown veining on the upper lip. Anthers and stigma exerted.
 - **Fruit:** Capsule, ovoid, 1.5–2.5 cm, dehiscent at maturity, releasing numerous small seeds.
 - **Seeds:** Minute (0.3–0.5 mm), numerous (100,000+ per capsule), dust-like, with a persistent elaiosome that attracts soil fauna and aids dispersal.
-- **Root:** Haustorial connections to host root xylem, forming direct vascular bridges for water and nutrient uptake.
+- **Root:** Haustorial connections to host root xylem, forming direct vascular bridges for water and [[plant-nutrient-uptake-mechanisms]].
 
 ## Distribution and Habitat
 
@@ -86,3 +86,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[cistanche-deserticola]]

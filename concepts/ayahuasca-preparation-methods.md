@@ -1,5 +1,5 @@
 ---
-title: Ayahuasca Preparation Methods
+title: harner-amazonian-ayahuasca-preparation-methods Methods
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -12,12 +12,12 @@ Ayahuasca is a brew made from two principal plants: Banisteriopsis caapi (the MA
 - **Adulteration**: Only prepare with verified plant material from trusted sources
 
 ### Set and Setting
-- Traditional preparation is always ceremonial, with an experienced facilitator (curandero/ayahuasquero)
+- [[kava-traditional-preparation-ceremonial-context]] is always ceremonial, with an experienced facilitator (curandero/ayahuasquero)
 - Icaros (medicine songs) are integral to the experience
 - Dietas (restrictive diets) are observed before and after
 - See [[harner-amazonian-ayahuasca-preparation-methods]]
 - [[psychedelic-plant-sources]] — for plant sources worldwide
-- [[5-meo-dmt-compound-profile]] — for DMT chemistry
+- [[5-meo-dmt-compound-profile]] — for [[dimethyltryptamine-dmt-chemistry-and-pharmacology]]
 - [[water-pathways-through-plants]]
 ## Practical Applications
 
@@ -96,4 +96,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

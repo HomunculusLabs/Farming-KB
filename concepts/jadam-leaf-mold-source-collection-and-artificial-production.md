@@ -1,5 +1,5 @@
 ---
-title: JADAM Leaf Mold Source Collection and Artificial Production
+title: JADAM comparison-leaf-mold-composting-vs-hot-composting-method Source Collection and Artificial Production
 created: 2026-04-28
 tags: [jadam, leaf-mold, microorganism-source, soil-biology]
 date: 2026-04-25
@@ -10,7 +10,7 @@ type: concept
 
 # JADAM Leaf Mold Source Collection and Artificial Production
 
-Leaf mold is the single most important ingredient in the JADAM farming
+Leaf mold is the single most important ingredient in the [[query-what-is-jadam-farming-and-how-does-it-work]]
 system. It serves simultaneously as the source of [[jadam-liquid-fertilizer]] production, a handful of leaf mold is added to
 the container along with crop residues and water. The leaf mold inoculates
 the mixture with diverse microorganisms that accelerate decomposition.
@@ -19,9 +19,9 @@ and provides a far broader spectrum of microbial diversity.
 
 ## Key Principles
 
-- Leaf mold is the primary source of indigenous microorganisms for JMS
+- Leaf mold is the primary source of [[beneficial-indigenous-microorganisms-bim]] for JMS
 - Local leaf mold contains microbes adapted to the local environment
-- Commercial microorganism products cannot match local leaf mold diversity
+- Commercial microorganism products cannot match local leaf [[myxomycete-mycetozoan-slime-mold-diversity-ecology]]
 - Collect from deciduous forests on gentle slopes with deep accumulation
 - A handful is sufficient per 500-liter batch; a little goes a long way
 - Artificial leaf mold can be created but takes time to develop full
@@ -110,4 +110,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

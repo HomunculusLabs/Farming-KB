@@ -43,13 +43,13 @@ The foundational cycle. Animals eat plants, produce manure and bedding, which be
 - **Goats** ([[goat-keeping]]) browse brush, weeds, tree leaves from [[pasture-management]] and [[food-forest-design]] edges. Manure (NPK ~0.7-1.0-0.6) is safe to apply relatively fresh.
 - **Bees** ([[beekeeping-basics]]) pollinate [[food-forest-design]], [[orchard-management]], [[cover-cropping-guide]], and gardens — directly increasing yields.
 - **Compost** from [[composting-systems]], [[vermicomposting]], or [[bokashi]] feeds [[soil-food-web-nutrient-cycling]], which feeds [[cannabis-living-soil-guide]] and garden beds.
-- **Cover crops** ([[cover-cropping-guide]]) fix nitrogen, build organic matter, and provide grazing before termination.
+- **Cover crops** ([[cover-cropping-guide]]) fix nitrogen, build [[hamilton-composting-and-organic-matter-management]], and provide grazing before termination.
 
 ### Loop 2: Mushrooms → Decomposition → Soil → Plants → Substrate
 
 Fungi turn woody waste, crop residues, and animal bedding into available nutrients.
 
-- **Spent mushroom substrate (SMS)** ([[mushroom-composting-and-recycling]]) is nitrogen-rich, partially decomposed — excellent [[composting-systems]] input.
+- **Spent [[gourmet-medicinal-mushroom-substrate-preparation]] (SMS)** ([[mushroom-composting-and-recycling]]) is nitrogen-rich, partially decomposed — excellent [[composting-systems]] input.
 - **Substrates** ([[mushroom-substrates]]) use on-farm straw ([[grain-and-staple-crops]]), sawdust ([[orchard-management]] prunings), and grain.
 - **[[mycorrhizal-fungi]]** extend plant root networks, increasing nutrient and water access 10-1000x.
 - **[[fungal-decomposition]]** breaks down lignin and cellulose that bacteria cannot.
@@ -95,14 +95,14 @@ The kitchen is the processing hub where raw products become preserved food, medi
 Energy flows from sun through photosynthesis into biomass, then into soil carbon.
 
 - **[[homestead-energy-conservation]]** powers the homestead with minimal grid dependence.
-- **[[greenhouse-design]]** captures solar energy via passive solar design and thermal mass.
+- **[[greenhouse-design]]** captures solar energy via [[comparison-passive-solar-vs-earth-sheltered]] design and thermal mass.
 - **[[no-till-gardening-method]]** and [[regenerative-agriculture-history]] sequester carbon — 1% OM increase stores ~20,000 gal water/acre.
 - **[[cover-cropping-guide]]** and [[food-forest-design]] maintain living roots year-round.
 - **[[composting-systems]]** stabilizes carbon that would otherwise off-gas.
 
 ## The Zone Integration Map
 
-How systems distribute across permaculture zones (see [[permaculture-design]]):
+How systems distribute across [[query-what-are-permaculture-zones-and-how-do-i-use-them]] (see [[permaculture-design]]):
 
 ### Zone 0 — House & Indoor Spaces
 - [[cannabis-living-soil-guide]] grow room with [[cannabis-lighting-guide]] and [[think-grow-model-h-plus]]
@@ -125,7 +125,7 @@ How systems distribute across permaculture zones (see [[permaculture-design]]):
 - [[cover-cropping-guide]], [[grain-and-staple-crops]], [[mushroom-log-cultivation]]
 
 ### Zone 4 — Woodlot & Forage (Monthly-Seasonal)
-- Firewood/timber, wild foraging ([[edible-wild-mushrooms-by-region]])
+- Firewood/timber, [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]] ([[edible-wild-mushrooms-by-region]])
 - [[pond-and-aquaculture]], [[mycoremediation-basics]]
 
 ### Zone 5 — Wildland (Minimal Intervention)
@@ -140,7 +140,7 @@ How systems distribute across permaculture zones (see [[permaculture-design]]):
 | [[goat-keeping]] | [[food-forest-design]] | Browse understory, control brush, fertilize |
 | [[beekeeping-basics]] | [[orchard-management]] | Pollination increases yield 20-50% |
 | [[mushroom-cultivation-basics]] | [[orchard-management]] | Pruning waste → mushroom substrate |
-| [[vermicomposting]] | [[cannabis-living-soil-guide]] | Castings are #1 living soil amendment |
+| [[vermicomposting]] | [[cannabis-living-soil-guide]] | Castings are #1 [[cannabis-living-soil-amendment-schedule]] |
 | [[bokashi]] | [[composting-systems]] | Pre-digests all kitchen waste |
 | [[pond-and-aquaculture]] | [[duck-keeping]] | Ducks control mosquitoes, fertilize pond |
 | [[knf-preparations]] | [[goat-keeping]] | Milk→LAB, bones→WS-CaPo, manure→FMC |
@@ -148,41 +148,3 @@ How systems distribute across permaculture zones (see [[permaculture-design]]):
 | [[dairy-and-cheesemaking]] | [[lactic-acid-bacteria-lab]] | Same LAB for cheese and KNF |
 
 ## The 80/20 Integration Priorities
-
-If you can only close a few loops, these have the highest impact:
-
-1. **Animal manure → compost → garden** — Eliminates purchased fertilizer. Set up [[composting-systems]] before animals.
-2. **Kitchen scraps → bokashi/vermicompost → soil** — Closes the waste loop. [[bokashi]] handles what [[vermicomposting]] can't.
-3. **Rainwater → garden/animals** — Reduces well dependence 30-60%. ([[water-management]])
-4. **Cover crops → nitrogen + organic matter** — Free fertilizer. Never leave soil bare. ([[cover-cropping-guide]])
-5. **Ducks in garden rotation** — Chemical-free pest control. ([[duck-keeping]], [[cannabis-pest-management]])
-6. **Mushrooms on waste substrate** — Straw/sawdust → food + compost input. ([[mushroom-cultivation-basics]])
-7. **KNF inputs from on-farm materials** — Self-made from weeds, eggshells, fish, rice. ([[knf-preparations]])
-
-## Startup Sequence
-
-1. **Water** ([[homestead-water-systems]], [[water-management]])
-2. **Compost** ([[composting-systems]], [[vermicomposting]])
-3. **Animals** ([[duck-keeping]] first, then [[goat-keeping]])
-4. **KNF/EM** ([[indigenous-microorganisms-imo]], [[knf-preparations]], or [[jadam-methods]])
-5. **Garden & food forest** ([[no-till-gardening-method]], [[food-forest-design]], [[orchard-management]])
-6. **Mushrooms** ([[mushroom-cultivation-basics]])
-7. **Cannabis** ([[cannabis-living-soil-guide]])
-8. **Dairy** ([[dairy-and-cheesemaking]])
-9. **Bees** ([[beekeeping-basics]])
-10. **Pond** ([[pond-and-aquaculture]])
-
-See [[homestead-startup-checklist]] for detailed phased plan with budgets. See [[integrated-homestead-annual-calendar]] for seasonal integration details.
-
-## Measuring Integration Success
-
-| Metric | Beginner | Intermediate | Advanced |
-|--------|----------|--------------|----------|
-| External fertilizer | 100% | 10-30% | Near zero |
-| Kitchen waste → compost | 0% | 50% | 95%+ |
-| Animal feed on-farm | 0% | 20-40% | 60%+ |
-| Irrigation from rain/pond | 0% | 30-50% | 70%+ |
-| KNF inputs self-made | 0% | 50% | 90%+ |
-| Cover crops on bare soil | 0% | 50% | 90%+ |
-
-The goal: reducing external inputs while increasing yields, soil health, and ecosystem function. See [[regenerative-agriculture-history]] and [[permaculture-principles]]. See [[permaculture-zones-in-practice]] for zone-by-zone element placement details. See [[permaculture-design-methods]] for the full analytical design process, [[keyline-design]] for landscape water management, and [[edge-effect-and-microclimate]] for maximising productivity at system boundaries.

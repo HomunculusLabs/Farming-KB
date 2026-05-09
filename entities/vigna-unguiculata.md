@@ -62,11 +62,11 @@ Anti-nutritional factors include trypsin inhibitors, phytic acid, and tannins, t
 
 ## Ecological Role
 
-Cowpea's primary ecological contribution is biological nitrogen fixation. Well-nodulated plants can fix 40–200 kg N/ha per growing season, reducing or eliminating the need for synthetic nitrogen fertilizers in rotation systems.
+Cowpea's primary ecological contribution is [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation. Well-nodulated plants can fix 40–200 kg N/ha per growing season, reducing or eliminating the need for synthetic nitrogen fertilizers in rotation systems.
 
-The crop provides excellent ground cover, protecting soil from erosion and reducing weed pressure. Its rapid growth and drought tolerance make it valuable as a cover crop and green manure in tropical agroecosystems.
+The crop provides excellent ground cover, protecting soil from erosion and reducing weed pressure. Its rapid growth and [[dighton-fungal-drought-tolerance-plant-water-relations]] make it valuable as a cover crop and green manure in tropical agroecosystems.
 
-Cowpea serves as a host for various beneficial insects, including pollinators and predatory wasps that help control pest populations in mixed cropping systems. It is also used as fodder and hay for livestock, particularly during dry seasons when other forage is scarce.
+Cowpea serves as a host for various [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], including pollinators and predatory wasps that help control pest populations in mixed cropping systems. It is also used as fodder and hay for livestock, particularly during dry seasons when other forage is scarce.
 
 ## Pests and Diseases
 
@@ -74,7 +74,7 @@ The cowpea flower thrips (*Megalurothrips sjostedti*), legume pod borer (*Maruca
 
 Major fungal diseases include cowpea anthracnose (*Colletotrichum lindemuthianum*), ashy stem blight (*Macrophomina phaseolina*), and cercospora leaf spot (*Pseudocercospora cruenta*). Bacterial blight caused by *Xanthomonas axonopodis* pv. *vignicola* can cause severe defoliation under humid conditions.
 
-Integrated pest management strategies combining resistant varieties, biological control agents, and judicious pesticide application are widely recommended. Several cowpea cultivars with moderate to high resistance to key pests and diseases have been released by IITA and national breeding programs.
+Integrated pest management strategies combining resistant varieties, [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents, and judicious pesticide application are widely recommended. Several cowpea cultivars with moderate to high resistance to key pests and diseases have been released by IITA and national breeding programs.
 
 ## History and Domestication
 
@@ -96,13 +96,16 @@ The *Melanophthalmus* subgroup within the Unguiculata group includes the globall
 
 ## Breeding and Genetics
 
-Modern cowpea breeding began in earnest during the mid-20th century, led by institutions including the International Institute of Tropical Agriculture (IITA) in Nigeria and the University of California, Riverside. Breeding objectives focus on drought tolerance, pest and disease resistance, early maturity, and improved nutritional quality.
+Modern cowpea breeding began in earnest during the mid-20th century, led by institutions including the International Institute of Tropical Agriculture (IITA) in Nigeria and the University of California, Riverside. Breeding objectives focus on drought tolerance, [[hamilton-pest-and-disease-control-organic]] resistance, early maturity, and improved [[coleman-winter-greens-nutritional-quality-cold-sweetening]].
 
 The cowpea genome was sequenced in 2015, revealing a relatively compact genome of approximately 620 megabases spread across 11 chromosomes. This resource has accelerated marker-assisted breeding and identification of quantitative trait loci for key agronomic traits.
 
 Biotechnological approaches including transgenic and gene-editing methods have been explored, though regulatory frameworks for genetically modified legumes remain restrictive in many cowpea-producing countries. Conventional breeding continues to deliver the majority of improved varieties.
 
 ## See Also
+
+- [[vigna-umbellata]]
+- [[vigna-subterranea]]
 
 - [[arachis-hypogaea]]
 - [[lablab-purpureus]]

@@ -1,5 +1,5 @@
 ---
-title: "Bamboo Construction vs Timber Frame"
+title: "comparison-bamboo-construction-vs-cob-building vs Timber Frame"
 created: 2026-04-28
 tags: [comparison, construction, building, homesteading, permaculture]
 date: 2026-04-25
@@ -23,7 +23,7 @@ resources, climate, building codes, and aesthetic preferences.
 ## Bamboo Construction
 [[timber-frame-basics]]
 
-Timber framing is a traditional building method using large timbers joined
+Timber framing is a traditional [[query-how-do-i-choose-a-natural-building-method-for-my-climate]] using large timbers joined
 with wooden connections rather than nails or metal fasteners. The craft has
 been practiced for thousands of years across European, Asian, and American
 building traditions. Timber frames pair naturally with natural infill
@@ -57,7 +57,7 @@ but have seen strong revival since the 1970s.
 | Climate suitability | Tropical, subtropical best | Any climate |
 | Rot resistance | Requires treatment | Varies by species |
 | Seismic performance | Excellent (flexible) | Good (rigid but heavy) |
-| Cultural tradition | Asia, Africa, Latin America | Europe, North America, Japan |
+| Cultural tradition | Asia, Africa, Latin America | Europe, [[psilocybin-north-america-pacific-northwest]], Japan |
 | Infill compatibility | Woven panels, plaster | Straw bale, hempcrete |
 
 ## When to Choose Bamboo Construction

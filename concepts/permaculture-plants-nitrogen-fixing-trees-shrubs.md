@@ -5,13 +5,13 @@
 ## The Role of Nitrogen Fixation
 
 Nitrogen fixation is one of the most critical functions in Permaculture design. Most
-pioneers and many productive trees in Permaculture systems are nitrogen-fixing
+pioneers and many productive [[multipurpose-trees-in-permaculture-design]] systems are nitrogen-fixing
 legumes that host rhizobial bacteria in root nodules, converting atmospheric nitrogen
 (N₂) into plant-available forms. A separate group of non-leguminous nitrogen fixers
 (including Casuarina spp) form symbiosis with Frankia bacteria. Nugent and Boniface
 emphasize that integrating nitrogen fixers throughout a design is essential for
 building soil fertility without external inputs, particularly on degraded or marginal
-land where chemical fertilizers are neither economically viable nor ecologically
+land where [[cervantes-chemical-fertilizers-guide]] are neither economically viable nor ecologically
 desirable.
 
 ## Leguminous Nitrogen Fixers
@@ -25,12 +25,12 @@ Permaculture use. Key genera include:
   useful pioneer species. Grows to 7m on 300mm rainfall. Crude protein 17-31% in
   foliage. The nitrogen-fixing bacteria is usually present in soil from other
   Acacia, Albizia, and Cassia species. Rock phosphate at planting improves
-  drought tolerance and performance.
+  [[dighton-fungal-drought-tolerance-plant-water-relations]] and performance.
 
 - **Tree Lupin (Lupinus arboreus)**: California native shrub to 2m. Frost-tolerant,
   bee forage, produces nitrogen-rich mulch when cut hard.
 
-- **Black Locust (Robinia pseudoacacia)**: North American tree to 25m. In Romania,
+- **Black Locust (Robinia pseudoacacia)**: [[growing-gourmet-north-american-reishi-species]] tree to 25m. In Romania,
   an estimated 1600 kg/ha nectar yield has been recorded. Exceptional firewood and
   fence post timber. Reproduces through root suckering.
 
@@ -53,7 +53,7 @@ and soil condition:
 - **Acacia saligna (Golden Wreath Wattle)**: Fast-growing, fire-retardant, salt-
   tolerant legume to 8m. Tolerates 300mm rainfall. Palatable to livestock fresh or
   dried. Bark gum shows exceptional promise for food use in pickles. Suckering
-  variety forms thickets ideal for windbreak and erosion control.
+  variety forms thickets ideal for windbreak and [[permplant-willows-salix-erosion-control-fodder]].
 
 - **Acacia stenophylla (River Cooba)**: Nitrogen-fixing tree to 10m adapted to
   saline, alkaline heavy clay soils in arid areas (125-600mm rainfall). Produces
@@ -99,7 +99,7 @@ Nugent and Boniface document several mechanisms by which nitrogen fixers build s
    concentrates nitrogen where needed
 4. **Rotation cropping**: Indonesian A. mearnsii rotation doubles subsequent crop
    yields through green manure effects
-5. **Companion planting**: Crop trees within 1m of tagasaste consistently outperform
+5. **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]**: Crop trees within 1m of tagasaste consistently outperform
    controls without tagasaste
 
 ## Design Integration

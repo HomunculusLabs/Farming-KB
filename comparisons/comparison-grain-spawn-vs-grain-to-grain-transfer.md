@@ -14,13 +14,13 @@ type: comparison
 ---
 # Grain Spawn vs Grain-to-Grain Transfer
 ## Overview
-Grain spawn preparation and grain-to-grain transfer are two complementary stages in the
-mushroom cultivation process. Grain spawn serves as the foundational inoculum that
+Grain [[azurescens-spawn-preparation-grain-to-wood]] and grain-to-grain transfer are two complementary stages in the
+[[accessible-mushroom-cultivation-for-disabilities]] process. Grain spawn serves as the foundational inoculum that
 introduces mycelium into bulk substrates, where each individual grain kernel acts as a
 discrete inoculation point. Grain-to-grain transfer builds upon that foundation by
 providing the most efficient method for expanding spawn volume exponentially from a
 single agar plate.
-Understanding the distinctions between initial grain spawn production and subsequent
+Understanding the distinctions between initial grain [[growing-gourmet-sawdust-spawn-production-use]] and subsequent
 expansion through transfers is essential for managing contamination risk, maintaining
 genetic vigor, and scaling cultivation operations effectively.
 ## Grain Spawn Preparation
@@ -41,7 +41,7 @@ Timing is critical. Master jars must be transferred within days of reaching full
 colonization to ensure maximum vigor. Before transferring, each jar is carefully
 scrutinized for contamination indicators including heavy growth in unusual patterns,
 slimy kernels, or sour odors.
-Shaking the colonized master jar breaks the mycelial network apart, distributing
+Shaking the colonized master jar breaks the [[gadd-mycelial-network-dynamics]] apart, distributing
 individual kernels throughout the receiving jars. A 12-24 hour waiting period after
 shaking allows cultivators to verify mycelial recovery before proceeding. This
 recovery window catches contamination missed during the initial visual inspection.
@@ -54,7 +54,7 @@ contamination compounds further if G-3 transfers are made from tainted G-2 jars.
 | Aspect | Grain Spawn Preparation | Grain-to-Grain Transfer |
 |--------|------------------------|------------------------|
 | Purpose | Create initial inoculated grain | Expand existing spawn volume |
-| Starting material | Agar wedge or liquid culture | Fully colonized grain jar |
+| Starting material | Agar wedge or [[comparison-liquid-culture-vs-grain-spawn]] | Fully colonized grain jar |
 | Scale | Single generation, agar to grain | Exponential, multiple generations |
 | Expansion ratio | 1:1 per jar | 1:6 to 1:12 per transfer |
 | Contamination risk | Low, single inoculation event | Higher, multiplied across generations |
@@ -67,7 +67,7 @@ contamination compounds further if G-3 transfers are made from tainted G-2 jars.
 Choose direct grain spawn preparation when working with a new or untested culture,
 when contamination risk must be minimized, when producing a small number of jars, or
 when starting from liquid culture that provides sufficient volume. This approach is
-ideal for beginners developing sterile technique and for cultivators who prioritize
+ideal for beginners developing [[cultivator-sterile-technique-and-agar-culture]] and for cultivators who prioritize
 genetic purity over volume. It also serves as the necessary first step before any
 grain-to-grain expansion can occur.
 ## When to Choose Grain-to-Grain Transfer

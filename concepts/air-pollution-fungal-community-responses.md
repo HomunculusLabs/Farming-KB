@@ -34,10 +34,10 @@ valuable tools for environmental monitoring and conservation assessment.
   as their mutualistic function becomes less critical to host plants
 - Nitrogen-loving (nitrophilous) saprobic species may increase in
   abundance
-- Changes in fungal community composition can cascade through
-  ecosystem processes, affecting decomposition rates and nutrient
+- Changes in fungal [[core-endorhiza-bacterial-community-composition-cannabis]] can cascade through
+  [[fungal-ecosystem-processes-overview]], affecting decomposition rates and nutrient
   cycling
-- The interaction between nitrogen deposition and other pollutants
+- The interaction between [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] and other pollutants
   (acidification, heavy metals) may produce synergistic effects
 
 ## Acidification Effects
@@ -93,11 +93,13 @@ conservation implications:
   for broader ecosystem degradation
 - Protected areas near pollution sources may not adequately conserve
   fungal diversity
-- Air quality standards should consider impacts on fungal communities
-  and the ecosystem services they provide
-- Restoration of polluted sites should include assessment of fungal
+- Air [[aact-compost-quality-standards-ingham]] should consider impacts on fungal communities
+  and the [[biodiversity-of-fungi-ecosystem-services-agriculture]] they provide
+- Restoration of polluted sites should include [[monitoring-and-assessment-of-fungal-bioremediation]]
   community recovery
 - Long-term monitoring data are essential for detecting trends and
   evaluating the effectiveness of pollution control measures
 
 ## See Also
+
+- fungal-acidification-and-pollution-responses

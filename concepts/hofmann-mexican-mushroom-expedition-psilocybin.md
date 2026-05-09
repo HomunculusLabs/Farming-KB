@@ -1,5 +1,5 @@
 ---
-title: "Hofmann's Mexican Mushroom Expedition: Discovery of Psilocybin"
+title: "Hofmann's gartz-wasson-mexican-mushroom-cult-rediscovery Expedition: Discovery of Psilocybin"
 created: 2026-04-28
 tags: [psilocybin, hofmann, mazatec, wasson, maria-sabina, history, ethnobotany]
 date: 2026-04-25
@@ -18,7 +18,7 @@ the Mazatec country in Mexico, where he documented the use of sacred
 mushrooms called teonanacatl ("flesh of the gods") in indigenous
 ceremonies. Wasson established an association with mycologist Professor
 Roger Heim of Paris, who conducted the botanical identification of the
-sacred mushrooms.
+[[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]].
 
 Heim showed that they were gilled mushrooms from the family
 Strophariaceae, about a dozen different species not previously
@@ -33,9 +33,9 @@ with Heim and colleagues Brack and Kobel.
 Psilocybin and psilocin belong, like LSD, to the indole compounds.
 Particular chemical features common to both the mushroom substances and
 LSD show that they are closely related, not only with regard to psychic
-effects but also to chemical structures. Psilocybin is the phosphoric
+effects but also to [[plants-of-the-gods-chemical-structures-hallucinogens]]. Psilocybin is the phosphoric
 acid ester of psilocin, the first phosphoric-acid-containing indole
-compound discovered in nature. The phosphoric acid residue does not
+compound discovered in nature. The [[cho-water-soluble-phosphoric-acid-preparation]] residue does not
 contribute to the activity, but makes the molecule more stable.
 
 ### Relationship to Serotonin
@@ -51,7 +51,7 @@ for LSD.
 ## The Demystification
 
 With the isolation and synthesis of the active principles, "the
-demystification of the magic mushrooms was accomplished." The compounds
+demystification of the [[guzman-magic-mushrooms-african-species]] was accomplished." The compounds
 whose wondrous effects led indigenous peoples to believe for millennia
 that a god was residing in the mushrooms had their chemical structures
 elucidated and could be produced synthetically. Yet Hofmann acknowledged
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

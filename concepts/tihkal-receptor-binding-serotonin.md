@@ -1,5 +1,5 @@
 ---
-title: "Tryptamine Receptor Binding and the Serotonin System"
+title: "Tryptamine tihkal receptor binding serotonin and the Serotonin System"
 created: 2026-04-26
 sources: "TIHKAL - Tryptamines I Have Known and Loved (Shulgin & Shulgin)"
 tags: [serotonin, 5-HT, receptor, binding, neurotransmitter, brain]
@@ -67,7 +67,7 @@ All psychedelic tryptamines are structural analogues of serotonin. The conversio
 
 ### Pinoline (6-Methoxy-THbC)
 - Naturally occurring in human blood and cerebrospinal fluid
-- Naturally occurring in the human pineal gland
+- Naturally occurring in the human [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]]
 - "Quite effective in binding to serotonin sites in human platelets"
 - Suggested role: balanced interplay with melatonin in manipulating serotonin levels may explain the **sleep/dream state**
 - "The carbolines just might play an endogenous role in creating dreams, our 'asleep' visual tripping"
@@ -75,7 +75,7 @@ All psychedelic tryptamines are structural analogues of serotonin. The conversio
 ### Harman and Derivatives
 - Beta-carboline derivatives found in plants, animals, and human tissues
 - Some bind to benzodiazepine receptors but are "totally without any affinity for serotonin receptors"
-- Others (like the harmala alkaloids) are potent MAO inhibitors that indirectly modulate serotonin levels
+- Others (like the [[turner-harmala-alkaloids-preparation-and-dosage]]) are potent MAO inhibitors that indirectly modulate serotonin levels
 
 ## The Role of 5-HT2A Receptors
 
@@ -83,7 +83,7 @@ While TIHKAL predates the full elucidation of 5-HT2A receptor pharmacology, the 
 
 ## Research Integrity Concerns
 
-Shulgin documents a case where 2-iodo-1-methyl-LSD (MIL) -- a compound with serotonin-binding but NO psychedelic activity -- was labeled as "LSD" in PET scan studies presented to NIDA. This substitution of a pharmacologically distinct compound represents "a most subtle form of deceit" in psychedelic research.
+Shulgin documents a case where 2-iodo-1-methyl-LSD (MIL) -- a compound with serotonin-binding but NO psychedelic activity -- was labeled as "LSD" in PET scan studies presented to NIDA. This substitution of a pharmacologically distinct compound represents "a most subtle form of deceit" in [[mckenna-suppression-psychedelic-research-lsd-therapy]].
 
 ## Shulgin's Hope
 
@@ -100,3 +100,5 @@ Shulgin documents a case where 2-iodo-1-methyl-LSD (MIL) -- a compound with sero
 - [[pihkal-introduction-and-methodology]]
 - [[tryptamine-consciousness-theory]]
 - [[mao-inhibitors-and-psychedelics]]
+
+- [[beta-glucan-receptor-binding]]

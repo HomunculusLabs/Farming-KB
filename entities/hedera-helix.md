@@ -45,7 +45,7 @@ Stems are green when young, becoming brown and woody with age. Adventitious root
 
 It grows in a wide range of habitats including deciduous and mixed woodlands, hedgerows, cliffs, and rocky outcrops. It tolerates deep shade, which gives it a competitive advantage in forest understories.
 
-English ivy has been widely planted as an ornamental and has naturalized in many temperate regions worldwide. It is considered invasive in parts of North America, Australia, and New Zealand.
+English ivy has been widely planted as an ornamental and has naturalized in many temperate regions worldwide. It is considered invasive in parts of [[psilocybin-north-america-pacific-northwest]], Australia, and New Zealand.
 
 It prefers moist, well-drained soils rich in organic matter but tolerates a broad range of soil types and pH levels. It is hardy to USDA zones 4–9 and can survive temperatures to -20°C.
 
@@ -55,7 +55,7 @@ English ivy is propagated from seed, softwood cuttings, or layering. Softwood cu
 
 For ground cover, it is planted at 30–45 cm spacing and establishes quickly. As a climbing vine, it requires no artificial support, attaching itself to walls and tree trunks via adventitious rootlets.
 
-Pruning is essential to keep ivy within bounds, especially near buildings where rootlets can damage mortar and paint. Regular trimming also prevents the vine from reaching the mature flowering stage on walls.
+Pruning is essential to keep ivy within bounds, especially near buildings where rootlets can damage mortar and paint. Regular trimming also prevents the vine from reaching the mature [[cannabis-flowering-stage-management]] on walls.
 
 Numerous cultivars are available, offering variation in leaf size, shape, variegation, and growth habit. Popular cultivars include 'Baltica' (cold-hardy), 'Goldchild' (variegated), and 'Pittsburgh' (disease-resistant).
 
@@ -75,9 +75,9 @@ Ivy has a long history of use in traditional European medicine. Preparations fro
 
 Modern herbal medicine uses ivy leaf extracts as expectorants and mucolytics. Standardized extracts are approved by the European Medicines Agency for the treatment of acute bronchitis and chronic inflammatory bronchial conditions.
 
-The primary bioactive compounds include hederacoside C and hederagenin, triterpene saponins with anti-inflammatory and bronchodilatory properties. These compounds are concentrated in the leaf tissue.
+The primary [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include hederacoside C and hederagenin, triterpene saponins with anti-inflammatory and bronchodilatory properties. These compounds are concentrated in the leaf tissue.
 
-Clinical trials have demonstrated efficacy of ivy leaf preparations in reducing cough frequency and improving airway clearance. The extracts are generally well-tolerated with mild gastrointestinal side effects in some patients.
+[[mushroom-cancer-clinical-trials-overview]] have demonstrated efficacy of ivy leaf preparations in reducing cough frequency and improving airway clearance. The extracts are generally well-tolerated with mild gastrointestinal side effects in some patients.
 
 ## Invasive Potential and Ecological Concerns
 
@@ -95,11 +95,11 @@ Numerous cultivars are available, offering variation in leaf size, shape, varieg
 
 'Baltica' is a particularly cold-hardy selection from the Baltic region that tolerates temperatures to -30°C. It is widely used in northern European landscapes for ground cover and winter interest.
 
-'Goldchild' features striking yellow-margined variegated foliage and a compact growth habit. 'Pittsburgh' is valued for its resistance to bacterial leaf spot and powdery mildew.
+'Goldchild' features striking yellow-margined variegated foliage and a [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit. 'Pittsburgh' is valued for its resistance to bacterial leaf spot and [[cervantes-powdery-mildew-prevention-treatment]].
 
 ## See Also
 
 - [[vitis-vinifera]]
-- [[rubus-idaeus-entity]]
+- rubus-idaeus-entity
 - [[alnus-glutinosa]]
 - [[salvia-officinalis]]

@@ -25,7 +25,7 @@ created: 2026-05-07
 
 The plant derives its common name from its natural habitat in salt marshes and damp meadows. Its therapeutic reputation centers on the abundant mucilage contained in its root, which provides soothing, anti-inflammatory, and wound-healing properties when applied topically or consumed internally.
 
-Marshmallow root remains an important herb in contemporary phytotherapy, particularly in European and North American herbal practice. It is widely incorporated into cough syrups, throat lozenges, gastrointestinal formulations, and skincare products.
+Marshmallow root remains an important herb in contemporary phytotherapy, particularly in European and [[growing-gourmet-north-american-reishi-species]] herbal practice. It is widely incorporated into cough syrups, throat lozenges, gastrointestinal formulations, and skincare products.
 
 ## Taxonomy and Morphology
 
@@ -45,7 +45,7 @@ The fruit is a schizocarp consisting of 15-20 single-seeded mericarps arranged i
 
 The species is a classic halophyte, naturally occurring in salt marshes, damp meadows, tidal flats, and along riverbanks. It thrives in moist, clay-rich soils with moderate salinity and full sun to partial shade.
 
-Naturalized populations exist in North America, where the species was introduced by European settlers for medicinal cultivation. It persists in riparian zones and wetland margins throughout the eastern United States and parts of eastern Canada.
+Naturalized populations exist in North America, where the species was introduced by European settlers for medicinal cultivation. It persists in riparian zones and wetland margins throughout the eastern [[dmt-containing-plants-united-states-halpern]] and parts of eastern Canada.
 
 In cultivation, marshmallow adapts to a range of soil types but performs best in deep, fertile, moisture-retentive loams. The plant is winter-hardy to USDA zone 3 and tolerates temporary waterlogging.
 
@@ -71,7 +71,7 @@ The French confection pâte de guimauve, the original marshmallow, was historica
 
 Contemporary applications include herbal cough syrups, throat lozenges, and digestive teas. The German Commission E and EMA have approved marshmallow root for irritation of oral and pharyngeal mucosa and for dry coughs.
 
-Topical preparations of marshmallow root are used in dermatology for minor wounds, burns, and inflammatory skin conditions. The mucilage provides a hydrating, protective barrier that supports tissue repair.
+Topical preparations of marshmallow root are used in dermatology for minor wounds, burns, and inflammatory [[cannabis-for-skin-conditions-detailed]]. The mucilage provides a hydrating, protective barrier that supports tissue repair.
 
 ## Cultivation
 
@@ -79,9 +79,9 @@ Marshmallow is cultivated commercially in Europe, particularly in France, German
 
 Root harvest occurs in the second or third year of growth, usually in autumn after foliar senescence. Roots are washed, sliced, and dried at temperatures below 40°C to preserve mucilage content. Dried root yields approximately 30-35% of fresh weight.
 
-The plant requires minimal maintenance once established. Adequate moisture is the primary cultural requirement, with irrigation necessary during dry periods. Organic matter amendments improve soil water retention and root development.
+The plant requires minimal maintenance once established. Adequate moisture is the primary cultural requirement, with irrigation necessary during dry periods. [[hamilton-composting-and-organic-matter-management]] amendments improve soil water retention and root development.
 
-Pests and diseases are uncommon, though root rot can develop in waterlogged soils. Aphids may occasionally infest aerial growth but rarely cause significant damage. The species is generally considered pest-resistant in commercial cultivation.
+[[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] are uncommon, though [[cannabis-root-rot-prevention-and-treatment]] can develop in waterlogged soils. Aphids may occasionally infest aerial growth but rarely cause significant damage. The species is generally considered pest-resistant in commercial cultivation.
 
 ## Nutritional Profile
 
@@ -111,4 +111,4 @@ Within Malvaceae, *Abelmoschus esculentus* (okra) shares the characteristic muci
 - [[passiflora-incarnata]]
 - [[glycyrrhiza-uralensis]]
 - [[withania-somnifera]]
-- [[ocimum-sanctum]]
+- ocimum-sanctum

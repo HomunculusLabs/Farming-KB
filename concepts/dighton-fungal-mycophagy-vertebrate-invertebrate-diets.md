@@ -1,5 +1,5 @@
 ---
-title: "Fungal Mycophagy by Vertebrate and Invertebrate Animals"
+title: "dighton fungal mycophagy vertebrate invertebrate diets by Vertebrate and Invertebrate Animals"
 created: 2026-04-28
 tags:
   - mycophagy
@@ -53,10 +53,10 @@ diverse fungal diet of any animal studied, feeding on 36 fungal taxa, mostly
 hypogeous species.
 
 Body size limits the diversity of fungal species consumed. Rats and mice
-(under 150 g body weight) feed mainly on arbuscular mycorrhizal spores of the
+(under 150 g body weight) feed mainly on [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] spores of the
 Endogonaceae, while larger animals such as feral pigs eat a wide variety of
 fungal species. The smoky mouse (Pseudomus femeus) relies on seeds and moths
-during summer when fungal fruiting bodies are unavailable, but switches to a
+during summer when [[brassinosteroid-fungal-fruiting-body-morphology]] bodies are unavailable, but switches to a
 fungus-heavy diet during winter months.
 
 ### Lichen Consumption by Herbivores
@@ -98,9 +98,9 @@ fungivorous insects, creating localized hotspots of faunal activity.
 
 ## Human Mycophagy and Mushroom Production
 
-Wild mushroom collection is a tradition in many European countries, with both
-food, medicinal, and cultural value. Commercial mushroom cultivation in the
-United States alone produces approximately 426,625 Mg of Agaricus and
+[[emcdda-wild-mushroom-foraging-misidentification-hazards]] collection is a tradition in many European countries, with both
+food, medicinal, and cultural value. Commercial [[accessible-mushroom-cultivation-for-disabilities]] in the
+[[dmt-containing-plants-united-states-halpern]] alone produces approximately 426,625 Mg of Agaricus and
 specialty mushrooms with a sales value of $863 million (2000-2001 data from
 the USDA National Agricultural Statistics Service). This commercial scale
 reflects the fundamental nutritional value of fungi recognized across many
@@ -117,6 +117,8 @@ communities. The [[fungal-trophic-modes-and-nutritional-guilds]] are fundamental
 
 ## See Also
 
-- [[fungal-interactions-soil-fauna]]
+- [[dighton-fungal-nutritional-composition-animal-diets]]
+
+- fungal-interactions-soil-fauna
 - [[dighton-hypogeous-fungi-mammal-spore-dispersal]]
-- [[fungal-secondary-productivity]]
+- fungal-secondary-productivity

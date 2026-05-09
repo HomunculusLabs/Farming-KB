@@ -59,12 +59,12 @@ Three species of Panaeolus have been documented from Hawaii:
 
 ### Other Hawaiian Species
 
-- **Amanita muscaria** (L.) Hook. -- Documented by Merlin and Allen (1993)
+- **[[allegro-amanita-muscaria-properties-and-pharmacology]]** (L.) Hook. -- Documented by Merlin and Allen (1993)
   and Allen (1998); grows in mycorrhizal association with Pinus, likely
   introduced through pine plantations
 - **Claviceps paspali** F. Stev. and J.G. Hall -- An ergot fungus parasitic
   on Paspalum grasses, recorded from Hawaii by Grasso (1955)
-- **Psilocybe cubensis** -- Listed with a question mark by Allen (1998),
+- **[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]** -- Listed with a question mark by Allen (1998),
   indicating uncertain identification on the islands
 
 ### Altitudinal Range
@@ -88,7 +88,7 @@ Fiji has two documented neurotropic species:
 Samoa has one documented species with significant ethnographic importance:
 
 - **Copelandia cyanescens** -- Reported by Cox (1981), who documented the
-  traditional use of this hallucinogenic mushroom in Samoa, one of the few
+  traditional use of this [[emcdda-hallucinogenic-mushroom-clubbing-surveys-and-prevalence]] in Samoa, one of the few
   well-documented cases of indigenous Copelandia use outside of Mexico
   and New Guinea.
 
@@ -138,7 +138,7 @@ on South Pacific mycogeography.
 - [[guzman-allen-gartz-history-of-neurotropic-fungi-discovery]]
 - [[guzman-allen-gartz-doubtful-and-disputed-neurotropic-species]]
 
-- Copelandia genus diversity and biogeography
-- Psilocybe transcontinental species pairs
-- Conocybe and Gerronema neurotropic species
+- [[guzman-allen-gartz-copelandia-genus-diversity-biogeography]] diversity and biogeography
+- Psilocybe [[guzman-transcontinental-species-pairs-southern-hemisphere-origins]]
+- Conocybe and [[guzman-allen-gartz-conocybe-gerronema-neurotropic-species]] species
 - Neurotropic fungi of Central America and Caribbean

@@ -1,5 +1,5 @@
 ---
-title: "Oxalyl Chloride Glyoxalylamide Crystallization in Psilocin Synthesis"
+title: "shirota-glyoxalylamide-formation-oxalyl-chloride-indole Glyoxalylamide Crystallization in acetylation-protection-psilocin-synthesis-4-hydroxyindole"
 aliases: [glyoxalylamide yellow crystal formation, oxalyl chloride
   acylation 4-acetylindole, psilocin synthesis step two]
 tags: [shirota, psilocin, synthesis, oxalyl-chloride, glyoxalylamide,
@@ -12,7 +12,7 @@ created: 2026-05-08
 
 ## Overview
 
-In the concise large-scale synthesis of psilocin and psilocybin reported
+In the concise large-scale synthesis of [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] reported
 by Shirota, Hakamata, and Goda (2003), the conversion of 4-acetylindole
 (4) to the glyoxalylamide intermediate (6) via oxalyl chloride
 represents a critical two-step acylation-amidation sequence. This step
@@ -111,7 +111,7 @@ reasons:
 
 ## The Acetyl Protecting Group Strategy
 
-The choice of acetyl protection at the 4-hydroxy position (rather than
+The choice of [[shirota-4-hydroxyindole-acetyl-protection-experimental]] at the 4-hydroxy position (rather than
 benzyl, which was also explored) was motivated by practical
 considerations. While benzyl protection could be used, it required a
 separate deprotection step. The acetyl group, by contrast, is removed
@@ -127,6 +127,8 @@ notable for its simplicity, its avoidance of chromatographic
 purification, and its scalability to gram quantities.
 
 ## See Also
+
+- [[shirota-glyoxalylamide-intermediate-oxalyl-chloride-acylation-pathway]]
 
 - [[glyoxalylamide-intermediate-in-tryptamine-synthesis]]
 - [[lialh4-reduction-glyoxalylamide-psilocin-synthesis]]

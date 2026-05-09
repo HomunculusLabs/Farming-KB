@@ -15,7 +15,7 @@ Paullinia cupana, commonly known as guaraná, is a climbing shrub in the
 family Sapindaceae, native to the Amazon basin of Brazil. It is renowned
 for its seeds, which contain the highest natural concentration of
 [[theobromine]], theophylline, and a unique profile of
-tannins and saponins that modify caffeine absorption, producing a
+tannins and saponins that modify [[caffeine]] absorption, producing a
 smoother, more sustained stimulant effect compared to coffee. Modern
 research supports cognitive-enhancing, fatigue-reducing, and potential
 weight-management properties.
@@ -95,4 +95,7 @@ that of coffee beans, making it the most potent natural caffeine source.
 | Tea leaf | 1.5–4.0 | Moderate, [[hypericum-perforatum]]
 - [[hypericum-perforatum]]
 
-See also: [[caffeine-plants-and-stimulant-herb-cultivation]]
+See also: [[query-what-are-caffeine-plants-and-how-do-i-grow-them]]
+
+## See Also
+- [[caffeine-plants-and-stimulant-herb-cultivation]]

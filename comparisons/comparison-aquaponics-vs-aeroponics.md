@@ -11,11 +11,11 @@ type: comparison
 # Aquaponics vs Aeroponics
 
 ## Overview
-Aquaponics and aeroponics represent two of the most advanced soilless growing methods,
+Aquaponics and aeroponics represent two of the most advanced soilless [[mushroom-growing-methods-comparison]],
 each eliminating soil in favor of highly efficient nutrient delivery systems. Aquaponics
 integrates fish aquaculture with hydroponic plant production in a closed-loop ecosystem
 where fish waste feeds plants and plant roots filter water for fish. Aeroponics
-suspends plant roots in air and mists them with atomized nutrient solution, maximizing
+suspends plant roots in air and mists them with atomized [[cannabis-nutrient-solution-preparation]], maximizing
 oxygen exposure for the fastest possible growth rates. Both achieve dramatic water
 savings over traditional agriculture but differ in complexity, cost, reliability, and
 the type of output they produce.
@@ -25,8 +25,8 @@ the type of output they produce.
 Aeroponics is the most technically advanced soilless method, suspending plant roots in
 a dark, enclosed chamber and misting them with nutrient solution at intervals of three
 to five seconds every three to five minutes. The constant oxygen exposure at the root
-zone produces the fastest growth rates and highest yields per watt and square foot of
-any cultivation method. Two sub-types exist: high-pressure aeroponics (HPA) operating
+zone produces the fastest growth rates and highest yields per watt and [[comparison-biointensive-vs-square-foot-gardening]] of
+any [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]]. Two sub-types exist: high-pressure aeroponics (HPA) operating
 at 80 to 100 PSI with accumulator tanks and solenoid valves for fine mist particle
 size, and low-pressure aeroponics (LPA) at 20 to 60 PSI with standard pumps and mist
 nozzles.
@@ -42,7 +42,7 @@ uptake across the full spectrum of essential minerals.
 The weaknesses are the highest complexity and cost of any growing method. Nozzle
 clogging is the primary failure mode and requires rigorous filtration (50 micron or
 finer) and regular maintenance. Power failure is immediately critical because exposed
-roots dry out within minutes without misting. Root rot from Pythium and other
+roots dry out within minutes without misting. [[cannabis-root-rot-prevention-and-treatment]] from Pythium and other
 pathogens is a constant risk if water temperature rises or the system goes anaerobic.
 The systems demand reverse osmosis water and precision-mixed nutrient solutions. HPA
 systems cost one thousand to five thousand dollars for home units, with commercial
@@ -59,7 +59,7 @@ installations reaching tens of thousands of dollars.
 | System Complexity | Moderate to high | High |
 | Startup Cost | $2,000 to $5,000+ (family) | $1,000 to $5,000+ (HPA) |
 | Power Failure Risk | Fish die in hours without aeration | Roots dry in minutes without misting |
-| Best Crops | Leafy greens, herbs | Leafy greens, herbs, cannabis |
+| Best Crops | [[solomon-leafy-greens-growing]], herbs | Leafy greens, herbs, cannabis |
 | Living Ecosystem | Yes (fish, bacteria, plants) | No (sterile nutrient solution) |
 | pH Range | 6.8 to 7.2 (compromise) | 5.8 to 6.2 (plant optimal) |
 

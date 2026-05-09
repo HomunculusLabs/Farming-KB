@@ -21,7 +21,7 @@ type: concept
 
 ## Overview
 
-The self-transforming machine elves are a recurring entity encounter reported by many DMT users, most extensively described by Terence McKenna in his 1983 lecture "Tryptamine Hallucinogens and Consciousness" at the Lilly/Goswami Conference on Consciousness and Quantum Physics at Esalen Institute. These beings represent one of the most distinctive and consistently reported phenomena in the DMT experience, characterized by their dynamic, topological nature and their apparent desire to communicate with and teach the experiencer.
+The self-transforming machine elves are a recurring entity encounter reported by many DMT users, most extensively described by Terence McKenna in his 1983 lecture "[[mckenna-tryptamine-hallucinogens-and-consciousness]] and Consciousness" at the Lilly/Goswami Conference on Consciousness and Quantum Physics at Esalen Institute. These beings represent one of the most distinctive and consistently reported phenomena in the DMT experience, characterized by their dynamic, topological nature and their apparent desire to communicate with and teach the experiencer.
 
 ## McKenna's Description
 
@@ -35,7 +35,7 @@ He also described them as "like fractal reflections of some previously hidden an
 
 ### Communication
 
-The elves communicate through what McKenna described as translinguistic objects: feeling-toned, meaning-toned, three-dimensional rotating complexes of transforming light and color. They emit sounds "like music, like language" that pass without any quantized moment of distinction. McKenna compared this to Philo Judaeus's description of the Logos, which would pass "from things heard to things beheld" when it became perfect.
+The elves communicate through what McKenna described as [[mckenna-translinguistic-objects-cognitive-dissonance-tryptamine]]: feeling-toned, meaning-toned, three-dimensional rotating complexes of transforming light and color. They emit sounds "like music, like language" that pass without any quantized moment of distinction. McKenna compared this to [[mckenna-philo-judaeus-logos-hearing-to-beholding]]'s description of the Logos, which would pass "from things heard to things beheld" when it became perfect.
 
 The beings actively instruct the experiencer, saying things like "Don't be alarmed. Remember, and do what we are doing." They also caution against being overwhelmed by wonder, advising: "Don't get a loop of wonder going that quenches your ability to understand. Try not to be so amazed. Try to focus and look at what we're doing."
 
@@ -49,7 +49,7 @@ McKenna connected the experience to the twenty-fourth fragment of Heraclitus: "T
 
 ### Onset and Setting
 
-When DMT is smoked, the onset begins in approximately fifteen seconds. McKenna described hearing "a sound like ripping cellophane, like someone crumpling up plastic film and throwing it away." A friend suggested this is "our radio entelechy ripping out of the organic matrix." An ascending tone is heard, along with the normal hallucinogenic geometric patterns of migrating and changing colored forms.
+When DMT is smoked, the onset begins in approximately fifteen seconds. McKenna described hearing "a sound like ripping cellophane, like someone crumpling up plastic film and throwing it away." A friend suggested this is "our [[mckenna-radio-entelechy-dmt-onset-acoustic-phenomena]] ripping out of the organic matrix." An ascending tone is heard, along with the normal hallucinogenic geometric patterns of migrating and changing colored forms.
 
 After about thirty seconds of synaptic saturation, where "all available bond sites are being occupied," one arrives at "a place that defies description, a space that has a feeling of being underground, or somehow insulated and domed." McKenna referenced Joyce's *Finnegans Wake*, calling this the "merry go raum" (from the German *raum*, meaning "space"), where "the room is actually going around, and in that space one feels like a child, though one has come out somewhere in eternity."
 
@@ -83,11 +83,11 @@ The experiencer discovers they can "make the extra-dimensional objects" through 
 
 McKenna noted the "total absence of the motifs of DMT" in any religious or artistic tradition familiar to him. He found this puzzling: "It is not there; it is not there in any tradition." This absence contrasts with the rich iconographic traditions surrounding other psychedelic experiences, such as the parallels between LSD experiences and Mahayana Buddhist art that initially drove McKenna's interest in psychedelics.
 
-Subsequent research has documented consistent reports of entity encounters across thousands of DMT experiences. Rick Strassman's clinical research at the University of New Mexico in the 1990s found that approximately half of DMT volunteers reported contact with apparently independent, intelligent beings. The Erowid experience vault also contains hundreds of independent reports describing remarkably similar encounters, suggesting a consistent neurobiological phenomenon rather than culturally transmitted expectations alone.
+Subsequent research has documented consistent reports of entity encounters across thousands of DMT experiences. Rick Strassman's [[hofmann-lsd-clinical-research-early-studies]] at the University of New Mexico in the 1990s found that approximately half of DMT volunteers reported contact with apparently independent, intelligent beings. The Erowid experience vault also contains hundreds of independent reports describing remarkably similar encounters, suggesting a consistent neurobiological phenomenon rather than culturally transmitted expectations alone.
 
 ## The Mushroom as Symbiote Hypothesis
 
-McKenna reported that within the mushroom trance, he was informed that Stropharia cubensis "is a symbiote, and it desires ever deeper symbiosis with the human species." He proposed it achieved early symbiosis through association with domesticated cattle and human nomads, so that "where human genes went these other genes would be carried." The mushroom, in this view, uses human civilization as a vehicle for its own dispersal, offering expanded consciousness in exchange for propagation.
+McKenna reported that within the mushroom trance, he was informed that [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] "is a symbiote, and it desires ever deeper symbiosis with the human species." He proposed it achieved early symbiosis through association with domesticated cattle and human nomads, so that "where human genes went these other genes would be carried." The mushroom, in this view, uses human civilization as a vehicle for its own dispersal, offering expanded consciousness in exchange for propagation.
 
 ## The Black Hole Effect
 
@@ -113,10 +113,12 @@ This ontological shock connects to McKenna's broader argument that "the human so
 
 ## See Also
 
+- [[dmt-machine-elves]]
+
 - [[self-transforming-machine-elves]]
 
 - [[psilocybin-mushroom-extraterrestrial-hypothesis]]
 
 - [[the-logos-and-translinguistic-matter]]
 - [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]]
-- [[gartz-tryptamine-enrichment-psilocybin-biosynthesis]]
+- gartz-tryptamine-enrichment-psilocybin-biosynthesis

@@ -1,5 +1,5 @@
 ---
-title: Earthbag vs Adobe Construction
+title: comparison earthbag vs adobe construction Construction
 created: 2026-04-28
 tags: [natural-building, permaculture, earth-building, sustainable-housing, homesteading]
 date: 2026-04-28
@@ -10,7 +10,7 @@ type: comparison
 
 # Earthbag vs Adobe Construction
 
-Earthbag and adobe are both earth-based building methods with thousands of years of collective heritage. Adobe is the older technique, dating back over 4,000 years to Mesopotamia and the Americas, and an estimated 30 to 50 percent of the world's population currently lives in earth buildings, many of them adobe. Earthbag construction is a modern innovation, popularised in the 1980s by Nader Khalili's superadobe technique at Cal-Earth. Both methods use local soil as the primary building material, produce structures with excellent thermal mass, and align with permaculture principles of minimal-energy, locally sourced building. However, they differ significantly in technique, speed, structural properties, and climate suitability.
+Earthbag and adobe are both earth-based building methods with thousands of years of collective heritage. Adobe is the older technique, dating back over 4,000 years to Mesopotamia and the Americas, and an estimated 30 to 50 percent of the world's population currently lives in earth buildings, many of them adobe. [[comparison-earthbag-construction-vs-cob-construction]] is a modern innovation, popularised in the 1980s by Nader Khalili's superadobe technique at Cal-Earth. Both methods use local soil as the primary [[fungal-building-material-deterioration]], produce structures with excellent thermal mass, and align with permaculture principles of minimal-energy, locally sourced building. However, they differ significantly in technique, speed, structural properties, and climate suitability.
 
 ## Core Technique
 
@@ -30,7 +30,7 @@ Earthbag construction is considerably more forgiving because the polypropylene b
 
 ## Speed of Construction
 
-Earthbag construction is significantly faster for a given wall volume. There is no curing or drying phase; walls go up continuously from foundation to top. A small earthbag house of 600 to 800 square feet can be built in 4 to 6 weeks by a crew of 3 to 4 people working full-time. Larger homes take 2 to 4 months. Community building workshops, sometimes called earthbag raisings, can accelerate the process and reduce labour costs substantially. The only critical timing constraint is that walls must be plastered promptly after completion because polypropylene bags degrade under UV exposure within one month in intense desert sun or three months in temperate conditions.
+Earthbag construction is significantly faster for a given wall volume. There is no curing or drying phase; walls go up continuously from foundation to top. A small earthbag house of 600 to 800 square feet can be built in 4 to 6 weeks by a crew of 3 to 4 people working full-time. Larger homes take 2 to 4 months. [[urban-permaculture-community-building-social-design]] workshops, sometimes called earthbag raisings, can accelerate the process and reduce labour costs substantially. The only critical timing constraint is that walls must be plastered promptly after completion because polypropylene bags degrade under UV exposure within one month in intense desert sun or three months in temperate conditions.
 
 Adobe requires weeks or months of brick production before wall building even begins. After mixing, moulding, and an initial 2 to 3 day set, bricks must be turned on edge and dried for 2 to 4 weeks total. Only when moisture content drops below 5 percent are bricks ready for construction. Wall laying then proceeds in lifts of 60 to 90 cm per day to allow mortar setting before additional weight is added. A comparable adobe structure typically takes several months from initial soil preparation to a weather-tight shell.
 
@@ -64,7 +64,7 @@ Adobe construction naturally produces rectilinear walls and is well suited to co
 
 ## Permitting and Code Compliance
 
-Both methods face permitting challenges in jurisdictions unfamiliar with natural building. Adobe has the advantage of a much longer track record and established building codes in regions like New Mexico, Arizona, and the American Southwest, where adobe construction has been practised continuously for centuries. Earthbag construction is less widely codified, though structural testing data from earthquake performance in Nepal and engineering studies have helped establish its credibility. In areas without specific codes for either method, working with a structural engineer familiar with earthen construction is strongly advisable.
+Both methods face permitting challenges in jurisdictions unfamiliar with [[query-how-do-i-choose-a-natural-building-method-for-my-climate]]. Adobe has the advantage of a much longer track record and established building codes in regions like New Mexico, Arizona, and the American Southwest, where adobe construction has been practised continuously for centuries. Earthbag construction is less widely codified, though structural testing data from earthquake performance in Nepal and engineering studies have helped establish its credibility. In areas without specific codes for either method, working with a structural engineer familiar with [[pdc-earthen-construction-techniques]] is strongly advisable.
 
 ## Summary Table
 
@@ -109,4 +109,4 @@ Both methods align closely with permaculture principles. Adobe uses the earth on
 - [[cob-construction]]
 - [[straw-bale-construction]]
 - [[passive-solar-design]]
-- [[permaculture-housing-design]]
+- permaculture-housing-design

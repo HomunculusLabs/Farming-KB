@@ -12,11 +12,11 @@ sources:
 
 updated: 2026-04-18
 
-Pruning is essential for fruit trees and ornamental plants to maintain health, shape, and productivity. Different techniques apply to summer vs winter pruning, and to different fruit types.
+Pruning is essential for [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and ornamental plants to maintain health, shape, and productivity. Different techniques apply to summer vs winter pruning, and to different fruit types.
 
 ## Summer Pruning of Fruit Trees
 
-The aim of summer pruning fruit trees is to restrict growth and encourage the trees to produce fruiting buds instead. This can also be done by restricting the flow of sap by bending branches into severe curves (festooning). Festooning must be done in summer when branches are young and supple. Plant trees 5ft (1.5m) apart.
+The aim of summer [[fukuoka-pruning-fruit-tree-natural-management]] trees is to restrict growth and encourage the trees to produce fruiting buds instead. This can also be done by restricting the flow of sap by bending branches into severe curves (festooning). Festooning must be done in summer when branches are young and supple. Plant trees 5ft (1.5m) apart.
 
 **Festooning Procedure:**
 1. At the end of the first summer, pull the main shoot downward, bending it into a hoop. Secure by tying the end to the base of the tree with soft string.
@@ -68,7 +68,7 @@ Fan-training produces trees growing flat against a wall. The reflected and store
 ## Cultivation of Fruit — General Points
 
 ### Feeding
-Apply two handfuls of blood, fish, and bone meal per square yard/meter in early spring. Feeding roots are at the tips of the root system, not near the stem, so apply fertilizer in a wide band. Mulch with well-rotted manure or [[fruit-growing-guide-organic]]
+Apply two handfuls of blood, fish, and bone meal per square yard/meter in [[coleman-overwintered-onions-and-early-spring-crops]]. Feeding roots are at the tips of the root system, not near the stem, so apply fertilizer in a wide band. Mulch with well-rotted manure or [[fruit-growing-guide-organic]]
 - [[pruning-fruit-trees]]
 - [[geoff-hamilton-organic-techniques]]
 - [[fruit-tree-pruning-training-hamilton]]
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

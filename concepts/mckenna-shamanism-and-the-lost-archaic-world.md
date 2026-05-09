@@ -1,5 +1,5 @@
 ---
-title: McKenna on Shamanism and the Lost Archaic World
+title: McKenna on Shamanism and the mckenna shamanism and the lost archaic world World
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -29,7 +29,7 @@ We tend to assume that the shaman merely interprets his experience of intoxicati
 
 ## Something Profound Awaits
 
-Something profound, unexpected, nearly unimaginable awaits us if we will turn our investigative attentions toward the phenomenon of shamanic plant hallucinogens. The people outside of Western history, those still in the dream time of preliteracy, have kept the flame of a tremendous mystery burning. It will be humbling to admit this and to learn from them, but that too is a part of the Archaic Revival.
+Something profound, unexpected, nearly unimaginable awaits us if we will turn our investigative attentions toward the phenomenon of shamanic plant hallucinogens. The people outside of Western history, those still in the dream time of preliteracy, have kept the flame of a tremendous mystery burning. It will be humbling to admit this and to learn from them, but that too is a part of the [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]].
 
 ## The Mind Within Nature
 
@@ -60,9 +60,9 @@ McKenna's work represents one of the most ambitious attempts to construct a comp
 - [[mckenna-food-of-the-gods-thesis]]
 - [[psychedelic-mushroom-history]]
 - [[psychedelic-plants-and-civilization]]
-- [[mckenna-food-of-the-gods-thesis]], to construct a comprehensive narrative of humanity's relationship with psychoactive plants. His work draws on a wide range of sources, including anthropology, ethnobotany, linguistics, and personal experience, to argue that psychoactive substances have been a driving force in human cultural evolution.
 
-The [[psychedelic-therapy-mechanisms]], has demonstrated that substances like psilocybin can produce mystical-type experiences that have lasting positive effects on personality, well-being, and attitudes toward death. These findings lend some empirical support to McKenna's argument that psychoactive plants have played a significant role in shaping human consciousness and culture.
+The [[psychedelic-therapy-mechanisms]], has demonstrated that substances like psilocybin can produce mystical-type experiences that have lasting positive effects on personality, well-being, and [[weil-cultural-attitudes-toward-altered-states]] death. These findings lend some empirical support to McKenna's argument that psychoactive plants have played a significant role in shaping human consciousness and culture.
+
 ## Practical Considerations
 
 Successful implementation of McKenna on Shamanism and the Lost Archaic World requires attention to
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

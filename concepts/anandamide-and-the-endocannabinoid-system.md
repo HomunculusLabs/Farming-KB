@@ -13,12 +13,12 @@ created: 2026-04-28
 
 ## Overview
 
-Anandamide (N-arachidonoylethanolamide, abbreviated AEA) is an endogenous cannabinoid neurotransmitter, often called the "bliss molecule." Discovered in the 1990s, anandamide was the first endocannabinoid identified and remains the most studied. It functions as a key molecule in the body's [[endocannabinoid-system]] can be therapeutically targeted:
+Anandamide (N-arachidonoylethanolamide, abbreviated AEA) is an endogenous cannabinoid neurotransmitter, often called the "bliss molecule." Discovered in the 1990s, anandamide was the first endocannabinoid identified and remains the most studied. It functions as a key molecule in the body's [[cannabis-health-endo-cannabinoid-system]] can be therapeutically targeted:
 
 - **Schizophrenia**: Elevated anandamide levels in cerebrospinal fluid have been observed in acute schizophrenia, and anandamide may mitigate psychotic episodes through CB1-mediated modulation of dopaminergic circuits. The inverse correlation between anandamide levels and symptom severity suggests a compensatory neuroprotective role.
 - **Anxiety and depression**: Enhancing anandamide signaling through FAAH inhibition has shown anxiolytic and antidepressant effects in preclinical models. Clinical observations suggest that the endocannabinoid system plays a natural role in mood homeostasis, and that deficiencies in endocannabinoid tone may contribute to mood disorders.
-- **Pain management**: Targeting anandamide degradation offers a pathway for analgesia without the tolerance and dependence issues associated with opioid medications or the psychoactivity of direct cannabinoid agonists. This approach is particularly relevant to neuropathic pain, which is often resistant to conventional analgesics.
-- **Cancer**: Anandamide has demonstrated anti-proliferative and pro-apoptotic effects against numerous cancer cell types, though the clinical translation of these findings remains in early stages. The mechanism appears to involve CB1-mediated activation of apoptotic pathways in tumor cells.
+- **[[cannabis-pain-management-protocols]]**: Targeting anandamide degradation offers a pathway for analgesia without the tolerance and dependence issues associated with opioid medications or the psychoactivity of direct cannabinoid agonists. This approach is particularly relevant to neuropathic pain, which is often resistant to conventional analgesics.
+- **Cancer**: Anandamide has demonstrated anti-proliferative and pro-apoptotic effects against numerous [[blesching-cannabis-apoptosis-and-cancer-cell-death]] types, though the clinical translation of these findings remains in early stages. The mechanism appears to involve CB1-mediated activation of apoptotic pathways in tumor cells.
 - **Neuroprotection**: Anandamide-mediated neuroprotection through CB1 receptor activation has been documented in models of stroke, traumatic brain injury, and neurodegenerative disease. The endocannabinoid system may mitigate changes associated with aging and protect against the development of neurodegenerative conditions.
 
 ## Relationship to Plant Cannabinoids
@@ -35,7 +35,7 @@ More broadly, the existence of endogenous cannabinoids like anandamide validates
 
 The concept of a "subjective therapeutic window" is relevant to understanding both anandamide and plant-derived cannabinoids. This window represents the range of intake that produces therapeutic effects without adverse reactions, and it varies considerably between individuals based on factors including body chemistry, prior experience, the condition being treated, and the setting of use.
 
-Anandamide's role in mood regulation means that endocannabinoid tone influences how individuals perceive and respond to therapeutic interventions. Patients who notice positive health effects from open-mindedness, creativity, humor, laughter, bliss, acceptance, tolerance, gratitude, and forgiveness during their healing process may be experiencing enhanced endocannabinoid signaling, whether through direct cannabinoid supplementation or through the psychological and mindfulness techniques that the Cannabis Health Index recommends as complementary approaches to cannabinoid therapy.
+Anandamide's role in mood regulation means that endocannabinoid tone influences how individuals perceive and respond to therapeutic interventions. Patients who notice positive health effects from open-mindedness, creativity, humor, laughter, bliss, acceptance, tolerance, gratitude, and forgiveness during their healing process may be experiencing enhanced endocannabinoid signaling, whether through direct cannabinoid supplementation or through the psychological and mindfulness techniques that the [[blesching-cannabis-health-index-autoimmune-conditions]] recommends as complementary approaches to cannabinoid therapy.
 
 ## See Also
 
@@ -60,7 +60,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +102,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

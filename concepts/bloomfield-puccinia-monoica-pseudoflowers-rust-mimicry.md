@@ -1,5 +1,5 @@
 ---
-title: Puccinia monoica, Pseudoflowers, and Rust Mimicry
+title: bloomfield puccinia monoica pseudoflowers rust mimicry, Pseudoflowers, and Rust Mimicry
 created: 2026-04-28
 tags:
   - mycology
@@ -17,9 +17,9 @@ type: concept
 
 # bloomfield puccinia monoica pseudoflowers rust mimicry, Pseudoflowers, and Rust Mimicry
 
-Rust fungi are among the most destructive plant pathogens on Earth,
+[[biodiversity-rust-fungi-urediniomycetes]] are among the most destructive plant pathogens on Earth,
 causing billions of dollars in crop losses annually. The most remarkable
-of these parasites is bloomfield puccinia monoica pseudoflowers rust mimicry, a rust fungus that
+of these parasites is bloomfield puccinia monoica pseudoflowers rust mimicry, a [[bloomfield-rust-fungus-life-cycles-puccinia-haustoria-spermatia]] that
 orchestrates one of nature's most extraordinary acts of deception: it
 transforms the leaves and stems of its host plant into convincing
 imitations of flowers, complete with pigmented surfaces and sweet
@@ -80,7 +80,7 @@ cells alive, prolonging the parasite's access to nutrients, unlike
 other fungi that obliterate plant cells with waves of enzymes.
 
 Rust sex occurs on the barberry bush. Spermatia ooze from spermagonia
-on the leaf surface, and when a fly drinks the nectar-like fluid, a
+on the [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]], and when a fly drinks the nectar-like fluid, a
 spermatial nucleus is injected into a receptive hair of a mate. The
 nucleus migrates down the hair and divides repeatedly, transforming the
 mycelium from one with identical nuclei into a dikaryon with two
@@ -118,10 +118,10 @@ function by inhibiting ergosterol biosynthesis. Some of these synthetic
 compounds share a similar mode of action with antifungal agents used to
 treat human mycoses. Cultivation of rust-resistant wheat cultivars is
 more effective and reduces environmental pollution. Prospects for
-genetically engineered varieties with customized biochemical pathways
+[[singh-genetically-engineered-fungi-bioremediation]] varieties with customized biochemical pathways
 for antifungal defense are both exciting and terrifying. Losses have
 also been reduced by eradicating barberry bushes from wheat-growing
-regions, since sexual reproduction occurs on the barberry leaf. Without
+regions, since [[fungal-life-cycles-sexual-reproduction-metamorphosis]] occurs on the barberry leaf. Without
 this alternate host, the evolution of new rust strains is retarded,
 lengthening the useful life of each wheat cultivar.
 
@@ -130,6 +130,6 @@ lengthening the useful life of each wheat cultivar.
 - [[bloomfield-plant-hypersensitive-response-rust-arms-race]]
 
 - [[bloomfield-coffee-rust-and-crop-pathogens]]
-- [[bloomfield-mushroom-poisons-and-toxidromes]]
+- bloomfield-mushroom-poisons-and-toxidromes
 - [[bloomfield-fungal-reproduction-and-chemical-communication]]
 - [[ergot-fungi-claviceps-ergot-alkaloids]]

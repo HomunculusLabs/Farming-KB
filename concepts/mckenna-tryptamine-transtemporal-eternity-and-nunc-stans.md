@@ -11,7 +11,7 @@ created: 2026-05-08
 
 Terence McKenna identified a recurring feature of the tryptamine experience: the apparent transcendence of ordinary temporal flow, resulting in what he described as an encounter with eternity.
 
-Drawing on Plato's metaphor that "time is the moving image of eternity," McKenna proposed that tryptamine ecstasy constitutes a "stepping out of the moving image and into eternity."
+Drawing on Plato's metaphor that "time is the moving image of eternity," McKenna proposed that [[mckenna-tryptamine-ecstasy-and-platonic-eternity]] constitutes a "stepping out of the moving image and into eternity."
 
 He connected this experience to the medieval concept of the "nunc stans"—the standing now—developed by Thomas Aquinas and other scholastic philosophers.
 
@@ -31,7 +31,7 @@ Time, in this framework, is not an independent dimension but a reflection or ima
 
 McKenna suggests that the tryptamine experience allows the mind to step outside the moving image and to perceive eternity directly, rather than through its temporal reflection.
 
-This interpretation gives the psychedelic experience a philosophical dignity that elevates it above mere recreational drug use and places it within the tradition of philosophical contemplation.
+This interpretation gives the [[leary-psychedelic-experience-bardo-mapping]] a philosophical dignity that elevates it above mere recreational drug use and places it within the tradition of philosophical contemplation.
 
 The implication is that the distinction between time and eternity is not absolute but is a function of the mode of consciousness—one that can be transcended through the appropriate means.
 
@@ -121,6 +121,8 @@ The universality of the experience across cultures supports McKenna's claim that
 
 ## See Also
 
+- [[mckenna-tryptamine-ecstasy-and-platonic-eternity]]
+
 - [[dmt-onset-phenomenology-mode-shift]]
 
 - [[tryptamine-hypercontinuum-and-invisible-landscape]]
@@ -128,5 +130,7 @@ The universality of the experience across cultures supports McKenna's claim that
 - shamanic cosmology and tryptamine spaces
 
 ## See Also
+
+- [[mckenna-tryptamine-ecstasy-and-platonic-eternity]]
 
 - [[mckenna-heraclitus-aeon-child-play-tryptamine-ecstasy]]

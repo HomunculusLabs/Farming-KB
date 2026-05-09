@@ -16,7 +16,7 @@ Updated: 2026-04-18
 Cover crops are plants grown primarily to benefit the soil rather than for
 harvest. In the context of the [soil food web
 approach, cover crops serve multiple critical functions: they maintain living
-roots in the soil (feeding the microbial community through
+roots in the soil (feeding the [[edaphic-factors-microbial-community-structure]] through
 [root exudates), protect soil from erosion, add
 organic matter, and can be selected to shift the
 [fungal-to-bacterial ratio.
@@ -26,13 +26,13 @@ organic matter, and can be selected to shift the
 When soil is left bare between crops, the soil food web loses its primary
 energy source -- plant root exudates. Without exudates, the bacteria and fungi
 that depend on them die back, protozoa and nematodes lose their food source,
-and nutrient cycling shuts down. Cover crops keep the food web active by
+and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] shuts down. Cover crops keep the food web active by
 maintaining living roots in the soil year-round.
 
 ## Legume Cover Crops (Nitrogen Fixers)
 
 Legumes form symbiotic relationships with Rhizobium bacteria that live in
-root nodules and fix atmospheric nitrogen. This is microbial nitrogen fixation
+root nodules and fix atmospheric nitrogen. This is microbial [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
 -- the bacteria convert atmospheric N2 into ammonium that the plant can use.
 Legume cover crops include:
 
@@ -56,7 +56,7 @@ They are excellent for building soil structure and preventing erosion:
   allelopathic properties help suppress weeds
 - **Oats** -- Quick-growing fall cover; winter-kills in cold climates leaving
   easy-to-manage residue
-- **Annual ryegrass** -- Fast germination; good for erosion control
+- **Annual ryegrass** -- Fast germination; good for [[permplant-willows-salix-erosion-control-fodder]]
 - **Barley** -- Good for nutrient scavenging; adapts to many soil types
 
 ## Brassica Cover Crops
@@ -68,7 +68,7 @@ They are excellent for building soil structure and preventing erosion:
 
 ## Broadleaf Non-Legume Cover Crops
 
-- **Buckwheat** -- Fast summer cover; attracts beneficial insects; mines
+- **Buckwheat** -- Fast summer cover; attracts [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]; mines
   phosphorus from soil; prefers bacterial dominance
 - **Sunflower** -- Deep taproot; good for breaking compacted layers
 
@@ -97,7 +97,7 @@ Cover crops can be terminated by:
   fungal networks)
 
 The no-till approach of cutting and leaving residue on the surface is
-preferred because it preserves [mycorrhizal networks and continues feeding the soil food web as the residue decomposes.
+preferred because it preserves [[dighton-mycorrhizal-networks-carbon-transfer]] and continues feeding the soil food web as the residue decomposes.
 
 See also: [[root-exudates-rhizosphere]], [[cover-crop-guide-detailed]]
 

@@ -6,7 +6,7 @@ topics: ethnobotany, mexico, indigenous-culture, ritual, mushrooms
 
 # Ethnobotanical Use of Neurotropic Fungi in Mexico
 
-Mexico is the global center of neurotropic fungal diversity and cultural
+Mexico is the global center of [[mexico-center-neurotropic-fungal-biodiversity]] and cultural
 use, with 76 known species — 44 of which are Psilocybe, representing 39%
 of the world total. The indigenous peoples of Mexico have the most
 extensive and well-documented traditions of sacred mushroom use on Earth,
@@ -14,7 +14,7 @@ spanning multiple ethnic groups, languages, and ceremonial contexts.
 
 ## The Rediscovery
 
-The modern scientific study of neurotropic fungi began with the
+The modern [[roger-heim-scientific-study-psilocybin]] of neurotropic fungi began with the
 rediscovery of their traditional use in Mexico. The key figures in this
 rediscovery were:
 
@@ -49,8 +49,8 @@ include:
 Common Spanish names used by indigenous peoples include:
 
 - **"San Isidros"** — referring to the Spanish saint of agriculture,
-  commonly used for Psilocybe cubensis.
-- **"Pajaritos"** — little birds, used for Psilocybe mexicana.
+  commonly used for [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]].
+- **"Pajaritos"** — little birds, used for [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]].
 - **"Derrumbes"** — landslides, used for Psilocybe zapotecorum.
 
 ## Indigenous Groups and Their Practices
@@ -110,8 +110,8 @@ Psilocybe species common in the region.
 ## The Wasson Effect
 
 Wasson's 1957 Life magazine article had profound and complex consequences.
-It brought international attention to Mexican mushroom ceremonies but
-also led to an influx of Western seekers that disrupted traditional
+It brought international attention to Mexican [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]] but
+also led to an influx of [[ayahuasca-tourism-western-seekers-and-integration]] that disrupted traditional
 practices. María Sabina later expressed regret about the publicity,
 saying the mushrooms had lost their power because foreigners came seeking
 them for recreation rather than healing.
@@ -134,5 +134,6 @@ kept dried for almost a year.
 
 ## See Also
 
-- [[mckenna-shamanism-and-techniques-of-ecstasy]]
+- neurotropic-fungi-of-mexico-and-mesoamerica
+
 - [[mckenna-shamanism-and-techniques-of-ecstasy]]

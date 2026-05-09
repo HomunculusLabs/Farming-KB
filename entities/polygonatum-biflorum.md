@@ -13,7 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Moerman, D.E. (1998). *Native American Ethnobotany*.
+  - Moerman, D.E. (1998). *halpern-sacramental-peyote-and-native-american-church Ethnobotany*.
     Timber Press, Portland, OR.
   - Foster, S., and Duke, J.A. (2014). *A Field Guide to Medicinal
     Plants and Herbs*. Houghton Mifflin Harcourt.
@@ -30,7 +30,7 @@ sources:
 
 **Polygonatum biflorum** (smooth Solomon's seal, small Solomon's seal) is a
 perennial herbaceous plant in the family Asparagaceae, native to eastern
-North America. Found in rich woodlands from Canada to the Gulf Coast, it is
+[[psilocybin-north-america-pacific-northwest]]. Found in rich woodlands from Canada to the Gulf Coast, it is
 recognized by its arching stems, alternate leaves, and pairs of dangling
 bell-shaped flowers.
 
@@ -40,7 +40,7 @@ complaints. Contemporary herbalists value it as a musculoskeletal tonic.
 
 *Polygonatum* species are also important in traditional Chinese medicine
 (*Huangjing*), where *P. sibiricum* and *P. odoratum* are the primary
-species used. *P. biflorum* is the North American analogue.
+species used. *P. biflorum* is the [[growing-gourmet-north-american-reishi-species]] analogue.
 
 ## Taxonomy and Morphology
 
@@ -73,13 +73,13 @@ biflora* Walter.
 
 ## Distribution and Habitat
 
-Native to eastern North America, from Ontario and Quebec south through the
+Native to [[polypore-fungi-eastern-north-america]] America, from Ontario and Quebec south through the
 Appalachian Mountains to Georgia and Alabama, west to Minnesota, Oklahoma,
 and eastern Texas. Disjunct populations occur in the Ozarks and Black Hills.
 
 Habitat includes rich deciduous woodlands, wooded slopes, ravine bottoms,
 and shaded stream banks. Prefers moist, well-drained, loamy soils high in
-organic matter, in partial to full shade. Most abundant in mature forests.
+[[hamilton-composting-and-organic-matter-management]], in partial to full shade. Most abundant in mature forests.
 
 ## Bioactive Compounds
 
@@ -123,7 +123,7 @@ topical compress for acute injuries.
 Arching stems create sheltered microhabitats for invertebrates.
 Pendant flowers are pollinated by bumblebees and long-tongued bees.
 Berries are dispersed by birds and small mammals. *P. biflorum* completes
-most growth and reproduction in the high-light period of early spring,
+most growth and reproduction in the high-light period of [[coleman-overwintered-onions-and-early-spring-crops]],
 before canopy closure.
 
 ## Cultivation

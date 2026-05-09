@@ -1,5 +1,5 @@
 ---
-title: Pesticide Microbe Mutation Risk
+title: fukuoka textdoc pesticide microbe mutation risk Mutation Risk
 tags:
   - fukuoka
   - pesticide-critique
@@ -20,7 +20,7 @@ created: 2026-05-07
 Fukuoka documented a striking series of interconnected ecological events in
 Japanese agriculture that illustrate how pesticide use can trigger microbial
 mutations, which then cascade through ecosystems causing damage far beyond
-the original target pest. His personal experience with a botrytis gray mold
+the original target pest. His personal experience with a botrytis [[cervantes-gray-mold-botrytis-prevention]]
 outbreak on loquat trees became the basis for a profound warning about the
 dangers of applying mutagenic chemicals to easily mutated soil microbes.
 
@@ -42,11 +42,11 @@ The loquats gradually came back and everything appeared to look rosy again,
 but one question remained unanswered. Why had this outbreak occurred in the
 first place? Fukuoka's theory was "that it was triggered by the sudden
 spraying of a whole series of new pesticides following the war in an attempt
-to control citrus diseases."
+to [[fukuoka-mite-scale-microclimate-control-citrus-orchard]] diseases."
 
 ## How Pesticide Spraying Triggered the Outbreak
 
-Fukuoka identified four contributing factors to the severe outbreak of gray
+Fukuoka identified four [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]] to the severe outbreak of gray
 mold. First, interplanting of citrus trees in loquat groves due to the
 citrus production boom increased disease transmission between species.
 Second, the rapid transition from clear cultivation to mulching and sod
@@ -84,7 +84,7 @@ resistant pathogens and highly parasitic microbes.
 
 Fukuoka demonstrated the mutability of plant pathogens through a remarkable
 experiment. The resin disease fungus attacking lemon and grapefruit trees in
-the United States and the fungus attacking Satsuma oranges and summer oranges
+the [[dmt-containing-plants-united-states-halpern]] and the fungus attacking Satsuma oranges and summer oranges
 in Japan bore different scientific names, leading researchers to believe they
 were different species.
 
@@ -101,7 +101,7 @@ emergence of entirely new ecospecies and mutants.
 
 ## The Cascade Effect: Solving One Problem Creates Another
 
-The most disturbing aspect of the loquat incident is the cascade of
+The most disturbing aspect of the [[fukuoka-textdoc-loquat-incident-microbial-mutation]] is the cascade of
 ecological consequences that followed. Fukuoka traced a chain linking the
 gray mold outbreak to the die-off of Japanese red pine forests across the
 country.

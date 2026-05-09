@@ -10,7 +10,7 @@ type: concept
 
 # The Shamanic Meme
 
-In *Food of the Gods*, Terence McKenna introduces the concept of a "shamanic meme" to describe the self-replicating cultural pattern of psychedelic plant use and the visionary worldview it generates.
+In *Food of the Gods*, [[terence-mckenna]] introduces the concept of a "shamanic meme" to describe the self-replicating cultural pattern of psychedelic plant use and the visionary worldview it generates.
 
 The term anticipates Richard Dawkins's concept of the meme, framing shamanism as a transmissible unit of cultural information that has persisted across millennia and continents.
 
@@ -30,7 +30,7 @@ We may yet remember how to behave, how to take our correct place in the connecti
 
 ## The Meme's Ancient Reservoir
 
-An understanding of how to achieve balance between humanity and nature "lingers on in the forgotten and trampled cultures of the rain forests and deserts of the Third World, and in the reserves and reservations into which dominator cultures force their aboriginal people."
+An understanding of how to achieve balance between humanity and nature "lingers on in the forgotten and trampled cultures of the rain forests and deserts of the Third World, and in the reserves and reservations into which [[archaic-revival-partnership-vs-dominator-cultures]] force their aboriginal people."
 
 The shamanic gnosis is possibly dying; certainly it is changing. Yet the plant hallucinogens that are the source of this, the oldest of human religions, remain a clear running spring, as refreshing as they have always been.
 
@@ -38,7 +38,7 @@ Shamanism is vital and real because of the individual encounter with the challen
 
 Unlike religious beliefs that depend on authority and tradition, the shamanic experience is immediately verifiable by anyone who undergoes it. This gives the meme a robustness that purely ideological systems lack.
 
-The meme functions as a corrective to the dominator culture's tendency toward alienation, hierarchy, and ecological destruction.
+The meme functions as a corrective to [[mckenna-dissolution-of-the-dominator-culture]]'s tendency toward alienation, hierarchy, and ecological destruction.
 
 Where the dominator meme emphasizes separation and control, the shamanic meme emphasizes connection and participation.
 
@@ -48,7 +48,7 @@ These two memes represent fundamentally different strategies for human survival 
 
 ## The Quest for the Essence
 
-McKenna describes his personal journey of filtering out the various forms of linguistic, cultural, pharmacological, and personal noise that obscured the Mystery.
+McKenna describes his [[fukuoka-personal-journey]] of filtering out the various forms of linguistic, cultural, pharmacological, and personal noise that obscured the Mystery.
 
 He hoped to distill the essence of shamanism, to track the Epiphany to her lair, to see beyond the veils of her whirling dance. A cosmic peeping Tom, he dreamed of confronting naked beauty.
 
@@ -118,8 +118,8 @@ The mushroom speaks through the shaman. It bestows poetic potency, the divine af
 
 Without ecstasy, there is no shamanism; without shamanism, the meme cannot propagate. The natural psychedelic compounds acted as feminizing agents that tempered and civilized the egocentric values of the solitary hunter with the feminine concerns for child-rearing and group survival.
 
-The prolonged and repeated exposure to the psychedelic experience promoted social cohesion, boundary dissolution, and the emergence of the partnership model of social organization.
+The prolonged and repeated exposure to the [[leary-psychedelic-experience-bardo-mapping]] promoted social cohesion, boundary dissolution, and the emergence of the partnership model of social organization.
 
-This shamanic complex is very old; it is found, in whole or in part, among the Australians, the archaic peoples of North and South America, in the polar regions, and across the indigenous cultures of the world.
+This shamanic complex is very old; it is found, in whole or in part, among the Australians, the archaic peoples of North and South America, in the polar regions, and across the [[guzman-allen-gartz-sacred-puffballs-gasteromycetes-indigenous-cultures]] of the world.
 
 See also: [[mckenna-techniques-of-ecstasy]], [[mckenna-amazon-shamanism-and-ayahuasca]], [[mckenna-dominator-vs-partnership-society-model]]

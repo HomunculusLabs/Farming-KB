@@ -1,5 +1,5 @@
 ---
-title: Bioremediation of Polycyclic Aromatic Hydrocarbons
+title: Bioremediation of singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons Hydrocarbons
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Bioremediation of Polycyclic Aromatic Hydrocarbons
 
-Polycyclic aromatic hydrocarbons (PAHs) are a class of organic compounds consisting of two or more fused benzene rings that are widespread environmental contaminants resulting from incomplete combustion of organic matter and petroleum-related activities.
+Polycyclic aromatic hydrocarbons (PAHs) are a class of [[fungal-volatile-organic-compounds-communication]] consisting of two or more fused benzene rings that are widespread environmental contaminants resulting from incomplete combustion of organic matter and petroleum-related activities.
 
 PAHs are of significant environmental and health concern because many are mutagenic, carcinogenic, and teratogenic. The bioremediation of PAH-contaminated environments is an active area of research and practice.
 
@@ -45,7 +45,7 @@ Anaerobic PAH degradation proceeds through carboxylation, methylation, or reduct
 
 White-rot fungi play a uniquely important role in PAH bioremediation because their ligninolytic enzyme system can oxidize the highly recalcitrant high molecular weight PAHs that resist bacterial attack.
 
-The principal ligninolytic enzymes involved in PAH degradation are lignin peroxidase, manganese peroxidase, and laccase.
+The principal [[singh-ligninolytic-enzymes-fungal-bioremediation]] involved in PAH degradation are lignin peroxidase, [[fungal-manganese-peroxidase-remediation]], and laccase.
 
 Lignin peroxidase oxidizes PAHs through one-electron oxidation to generate aryl radical cations that undergo a variety of non-enzymatic reactions including ring opening, coupling, and incorporation of oxygen.
 
@@ -53,9 +53,9 @@ Manganese peroxidase generates Mn(III)-organic acid complexes that act as diffus
 
 Laccase oxidizes phenolic PAHs and, in the presence of appropriate mediators, can also oxidize non-phenolic PAHs with higher ionization potentials.
 
-[[brown-rot-fungi-biodegradation]].
+brown-rot-fungi-biodegradation.
 
-The fungal mycelial network can physically penetrate soil aggregates and access PAHs in microenvironments that are inaccessible to bacteria.
+The fungal [[gadd-mycelial-network-dynamics]] can physically penetrate soil aggregates and access PAHs in microenvironments that are inaccessible to bacteria.
 
 [[mycoremediation-pah-and-pcb-degradation]] detail the application of fungal PAH degradation in field and pilot-scale systems.
 
@@ -87,4 +87,4 @@ Bioaugmentation with characterized PAH-degrading bacteria or fungi can accelerat
 
 Phytoremediation combined with mycorrhizal fungi, as described in [[fungal-bioreactor-types]] and [[enzyme-based-bioremediation]].
 
-[[mycoremediation]] protocols for PAH remediation track the disappearance of individual PAH compounds, the reduction in total PAH mass, changes in toxicity, and shifts in the degrading microbial community.
+[[mycoremediation]] protocols for PAH remediation track the disappearance of individual PAH compounds, the reduction in total PAH mass, changes in toxicity, and shifts in the degrading [[edaphic-factors-microbial-community-structure]].

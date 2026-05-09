@@ -9,7 +9,7 @@ sources:
 ---
 # MMDA — 3-Methoxy-4,5-methylenedioxyamphetamine
 
-PIHKAL entry #132. MMDA is one of the Essential Amphetamines, derived from myristicin (a principal component of nutmeg oil). First synthesized by both Shulgin and Dr. Gordon A. Alles independently in 1962, both naming it MMDA. Alles died in 1963 before they could share their findings. MMDA is distinguished among psychedelics for its dreamlike, eyes-closed visual quality — subjects repeatedly described it as producing "brain movies."
+[[2c-b-pihkal-entry-20]] #132. MMDA is one of the Essential Amphetamines, derived from myristicin (a principal component of nutmeg oil). First synthesized by both Shulgin and Dr. Gordon A. Alles independently in 1962, both naming it MMDA. Alles died in 1963 before they could share their findings. MMDA is distinguished among psychedelics for its dreamlike, eyes-closed visual quality — subjects repeatedly described it as producing "brain movies."
 
 ## Chemical Identity
 
@@ -19,22 +19,22 @@ PIHKAL entry #132. MMDA is one of the Essential Amphetamines, derived from myris
 - HCl salt mp: 190-191 C
 - Picrate salt mp: 182-184 C (179-181 C after recrystallization)
 - Derived from: myristicin (3-methoxy-4,5-methylenedioxyallylbenzene)
-- Structural relationship: tetraoxygenated amphetamine, one of the Essential Amphetamines alongside [[mescaline-entity]]. Reaches a climax with pleasant afterglow. Produces a "Sunday afternoon" feeling of luxurious layback. No color enhancement in open-eye visual scene (except greenish tinges in faces), but closed-eye hallucinations quite real in 3-D. Dreams appear first in black and white, then colors emerge (chartreuse, magenta, blue, red). Described as bringing dreams to the conscious level — a link between subconscious and conscious.
+- [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]]: tetraoxygenated amphetamine, one of the Essential Amphetamines alongside [[mescaline-entity]]. Reaches a climax with pleasant afterglow. Produces a "Sunday afternoon" feeling of luxurious layback. No color enhancement in open-eye visual scene (except greenish tinges in faces), but closed-eye hallucinations quite real in 3-D. Dreams appear first in black and white, then colors emerge (chartreuse, magenta, blue, red). Described as bringing dreams to the conscious level — a link between subconscious and conscious.
 
 At 225 mg, strange awareness of hands within 20 minutes. Acute experience of aloneness and fearfulness. Vivid school scenes more real than actual surroundings. Extreme sleepiness during the experience. Described as most like a series of easily remembered dreams.
 
 ## The "Brain Movies" Compound
 
-The phrase used by several subjects in early trials, again and again, was "brain movies." The richest effects were to be had with eyes closed. MMDA appears to bring dreams to the conscious level and serves as a link between subconscious and conscious experience. This dreamlike quality distinguishes MMDA from other phenethylamines — whereas [[mdma]] produces emotional openness, MMDA is uniquely oriented toward internal, closed-eye imagery that closely resembles natural dreaming.
+The phrase used by several subjects in early trials, again and again, was "brain movies." The richest effects were to be had with eyes closed. MMDA appears to bring dreams to the conscious level and serves as a link between subconscious and conscious experience. This dreamlike quality distinguishes MMDA from other phenethylamines — whereas mdma produces emotional openness, MMDA is uniquely oriented toward internal, closed-eye imagery that closely resembles natural dreaming.
 
 This quality has led some researchers to suggest MMDA might have applications in dream research, psychoanalytic therapy, or as a tool for accessing subconscious material. The relative gentleness of the experience (compared to more intense psychedelics) also made it notable as a "beginner-friendly" compound.
 
 ## Natural Source and Essential Amphetamine Classification
 
-MMDA may be a contributing factor to the pharmacology of nutmeg. The major essential oil from nutmeg is myristicin, the easiest source of MMDA. Passage of this oil through a rabbit's liver has been reported to generate MMDA. Structurally, myristicin plus ammonia yields MMDA.
+MMDA may be a contributing factor to the pharmacology of nutmeg. The major [[permaculture-designers-manual-essential-oil-plants]] from nutmeg is myristicin, the easiest source of MMDA. Passage of this oil through a rabbit's liver has been reported to generate MMDA. Structurally, myristicin plus ammonia yields MMDA.
 
 Another natural source of myristicin is Oil of Parsley (also an excellent source of apiole, discussed under [[tma-entity]] (from elemicin), MMDA (from myristicin), MDA (from safrole), and others. These relationships between natural oils and synthetic amphetamines served as an early pharmacological index for [[tma-entity]] — another Essential Amphetamine derived from elemicin
-- [[mdma]] — frequently confused with MMDA due to similar initials; completely different compounds
+- mdma — frequently confused with MMDA due to similar initials; completely different compounds
 - [[mmda-2-compound-profile]] — the regioisomer with methoxy groups at different positions
 - [[phenethylamine-pharmacology]] — broader pharmacological context
 ## Practical Applications
@@ -114,4 +114,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

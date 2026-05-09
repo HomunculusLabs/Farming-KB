@@ -1,5 +1,5 @@
 ---
-title: "Salvia Divinorum and Salvinorin A"
+title: "Salvia salvia-divinorum-and-salvinorin-a A"
 created: 2026-04-28
 tags: salvia-divinorum-entity, salvinorin-a, kappa-opioid, dissociatives,
        hallucinogens, mint-family]
@@ -16,7 +16,7 @@ type: concept
 Salvia divinorum is a psychoactive plant from the mint family
 (Lamiaceae) that contains the neoclerodane diterpene salvinorin A.
 Originally used by Mazatec Indians of Oaxaca, Mexico, it is now grown
-and sold in the United States for recreational use. Salvinorin A is
+and sold in the [[dmt-containing-plants-united-states-halpern]] for recreational use. Salvinorin A is
 notable for being the first known naturally occurring non-nitrogenous
 kappa-opioid receptor agonist, distinguishing it mechanistically from
 virtually all other classical hallucinogens.
@@ -39,7 +39,7 @@ compound.
 ### Unique Mechanism of Action
 
 Most classical hallucinogens are psychoactive in part because of their
-action at the 5-HT2A serotonin receptor subtype. For comparison with other plants gods geography, see [[salvia-divinorum-propagation-legal-status]] Lamiaceae Plants
+action at the 5-HT2A serotonin receptor subtype. For comparison with other plants [[plants-of-the-gods-geography-hallucinogenic-plants]], see [[salvia-divinorum-propagation-legal-status]] Lamiaceae Plants
 
 [[hamilton-shade-garden-plants]] are
 prized for their intense leaf colors. A more determined search for a
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

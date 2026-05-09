@@ -1,16 +1,17 @@
 ---
-title: Fukuoka: The Natural Body and Health
+title: Fukuoka: The fukuoka natural body and health and Health
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 Updated: 2026-04-18
 
-In this chapter from "The Road Back to Nature," Fukuoka connects natural farming philosophy to human health and physical well-being, arguing that malady arises from what is unnatural and that the road to health is through relaxation and return to a natural state.
+In this chapter from "The Road Back to Nature," Fukuoka connects natural [[fukuoka-do-nothing-farming-philosophy-and-practice]] to human health and physical well-being, arguing that malady arises from what is unnatural and that the road to health is through relaxation and return to a natural state.
 
 The connection between farming and health is not incidental but essential to [[fukuoka-soil-building-approach]], where the goal is not to add nutrients to the soil but to create conditions in which the soil's own fertility can express itself.
 
@@ -60,7 +61,7 @@ The observation about oriental medicine moving toward doing nothing mirrors his 
 
 ## The Unity of Health and Farming
 
-For Fukuoka, there was ultimately no distinction between farming the land and caring for the body. Both are expressions of the same principle: trust the natural intelligence of living systems and intervene as little as possible. The healthy farm and the healthy body are mirror images of each other, both reflecting the deeper unity of human beings with the natural world explored in [[fukuoka-do-nothing-farming-and-spiritual-life]]
+For Fukuoka, there was ultimately no distinction between farming the land and caring for the body. Both are expressions of the same principle: trust the [[powell-natural-intelligence-and-the-universal-computation]] of living systems and intervene as little as possible. The healthy farm and the healthy body are mirror images of each other, both reflecting the deeper unity of human beings with the natural world explored in [[fukuoka-do-nothing-farming-and-spiritual-life]]
 
 - [[fukuoka-nature-as-teacher]]
 

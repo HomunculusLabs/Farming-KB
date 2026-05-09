@@ -1,5 +1,5 @@
 ---
-title: Winter Harvest Washing and Packing Operations
+title: coleman-claytonia-winter-harvest-cultivation Washing and Packing Operations
 created: 2026-04-28
 tags:
   - post-harvest
@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# [[coleman-four-season-farm]] Farm sells fresh, raw foods, meticulous
+#  Farm sells fresh, raw foods, meticulous
 cleanliness is a fundamental priority throughout the washing and
 packing process. The farm has developed specific techniques and
 equipment for efficiently handling baby-leaf salad mixes while
@@ -114,7 +114,7 @@ tools:
 Coleman quotes Andrew Marvell's poem "To His Coy Mistress" to keep
 the crew focused: "But at my back I always hear, time's winged
 chariot hurrying near." The next harvest follows quickly after the
-one just finished. The planting schedule must be as much a part of
+one just finished. The [[coleman-winter-harvest-planting-schedule]] must be as much a part of
 daily life as the harvest schedule. The most important skill for a
 four-season grower is keeping careful notes on seed-to-harvest days
 and preparing a day-by-day planting calendar.

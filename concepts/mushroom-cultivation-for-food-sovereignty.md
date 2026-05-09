@@ -1,16 +1,16 @@
 ---
-title: Mushroom Cultivation for Food Sovereignty
+title: accessible-mushroom-cultivation-for-disabilities for Food Sovereignty
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "Stamets - Mycelium Running"
+  - "Stamets - woodlovers-mycelium-running-pathway-technique"
 type: concept
 tags: [cultivation, mushroom-cultivation]
 ---
 
 # Mushroom Cultivation for Food Sovereignty
 
-Mushroom cultivation for food sovereignty is the practice of growing mushrooms at household and community scales to achieve local food self-sufficiency, nutritional security, and economic resilience. Paul Stamets frames mushroom growing as accessible to anyone with access to wood, straw, or garden space.
+Mushroom cultivation for food sovereignty is the practice of [[falconer-growing-mushrooms-in-sheds]] at household and community scales to achieve local food self-sufficiency, nutritional security, and economic resilience. Paul Stamets frames [[duggar-mushroom-growing-history-and-methods]] as accessible to anyone with access to wood, straw, or garden space.
 
 He titles his approach "Liberation Mycology" -- methods that free growers from dependence on purchased spawn and sterile laboratory facilities by using nature as the primary source of mycelium.
 
@@ -49,7 +49,7 @@ When you find a desirable mushroom, the stem base contains live mycelium:
 - Mycelium rapidly colonizes the cardboard within days to weeks
 - Colonized cardboard can inoculate larger substrates including wood chips and straw
 - Requires only cardboard, a mushroom stem butt, and patience
-- See [[king-stropharia-wine-cap-cultivation]] in wood chip mulch between rows
+- See king-stropharia-wine-cap-cultivation in wood [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] between rows
 - **[[cotter-outdoor-mushroom-garden-mulch-beds]]**: Dedicated areas with wood chips or straw bales
 - **[[comparison-backyard-food-forest-vs-urban-permaculture]]
 
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

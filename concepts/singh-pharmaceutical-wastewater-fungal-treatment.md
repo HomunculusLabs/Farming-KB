@@ -1,5 +1,5 @@
 ---
-title: Pharmaceutical Wastewater Treatment by Fungi
+title: singh pharmaceutical wastewater fungal treatment Treatment by Fungi
 created: 2026-04-26
 tags: [mycoremediation, pharmaceutical, wastewater, biofilm]
 date: 2026-04-25
@@ -15,7 +15,7 @@ Pharmaceutical industry wastewaters represent a complex and challenging
 class of environmental pollutants. Little attention has historically been
 paid to the release of pharmaceutical substances into the environment,
 which are recognized as environmental micropollutants with specific
-biological effects. Singh's review documents fungal treatment approaches
+biological effects. Singh's review documents [[singh-biopile-fungal-treatment-contaminated-soil]] approaches
 for pharmaceutical wastewaters, including biofilm processes, anaerobic
 biodegradability assessment, and the broader challenges of treating these
 complex waste streams.
@@ -90,7 +90,7 @@ designing anaerobic treatment stages following aerobic fungal treatment.
 ## Role of Fungal Treatment
 
 Organic material, phosphorus, and toxicity can be removed to a higher
-degree by the incorporation of fungal treatment stages. Fungi contribute
+degree by the incorporation of fungal treatment stages. [[query-how-do-fungi-contribute-to-carbon-sequestration]]
 to pharmaceutical wastewater treatment through several mechanisms: the
 production of extracellular enzymes that degrade complex organic
 molecules, biosorption of toxic compounds by fungal biomass, and the
@@ -116,21 +116,24 @@ of pharmaceutical manufacturing waste streams.
 The most effective pharmaceutical wastewater treatment likely involves
 integrated strategies combining multiple biological and physicochemical
 processes. A fungal biofilm stage can be followed by conventional
-activated sludge treatment, with anaerobic digestion of the resulting
+activated sludge treatment, with [[biogas-digester-basics]] of the resulting
 sludges for biogas production. The multistage biofilm process
 demonstrates that sequential fungal and bacterial treatment can achieve
 high removal efficiencies for both COD and toxicity. Future developments
-may include membrane bioreactors with fungal biofilms, constructed
+may include membrane bioreactors with [[gadd-fungal-biofilms-quorum-sensing]], constructed
 wetlands with fungal-augmented plant systems, and advanced oxidation
 processes coupled with biological treatment.
 
 ## See Also
 
+- [[singh-landfill-leachate-fungal-treatment]]
+- [[singh-protein-pharmaceutical-wastewater-fungal-bioremediation]]
+
 - [[singh-ligninolytic-enzymes-fungal-bioremediation]]
 - [[singh-laccase-mediated-biodegradation-pahs-dyes]]
 
 - fungal biofilm reactors wastewater treatment
-- [[singh-fungal-treatment-industrial-wastewaters-overview]]
-- emerging contaminants fungal degradation
+- singh-fungal-treatment-industrial-wastewaters-overview
+- emerging contaminants [[singh-fungal-degradation-endocrine-disrupting-compounds]]
 - mycoremediation pharmaceutical pollutants
 - white rot fungi wastewater treatment

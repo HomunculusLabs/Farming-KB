@@ -36,18 +36,18 @@ Fruiting bodies typically appear in late summer through autumn (June–November 
 
 ### Brown Rot
 
-Unlike most bracket fungi that cause white rot (degrading both lignin and cellulose), *Laetiporus* species are **brown-rot fungi** that primarily degrade cellulose and hemicellulose while leaving lignin largely intact. This results in a characteristic brown, crumbly wood texture often called "brown cubical rot." The decay process involves:
+Unlike most bracket fungi that cause [[comparison-brown-rot-vs-white-rot-bioremediation]] (degrading both lignin and cellulose), *Laetiporus* species are **brown-rot fungi** that primarily degrade cellulose and hemicellulose while leaving lignin largely intact. This results in a characteristic brown, crumbly wood texture often called "brown cubical rot." The decay process involves:
 
-1. Secretion of endoglucanases and exoglucanases to break down cellulose
-2. Fenton chemistry (hydroxyl radical generation via iron reduction) to depolymerize cellulose
+1. Secretion of endoglucanases and exoglucanases to [[query-can-fungi-break-down-plastic-pollution]] cellulose
+2. [[bioremediation-fenton-chemistry-brown-rot-fungi]] (hydroxyl radical generation via [[bioremediation-fungal-iron-reduction-chelation-metal-solubilization]]) to depolymerize cellulose
 3. Selective removal of polysaccharides, leaving a lignin-enriched residue
 
 Brown-rot fungi like *Laetiporus* are among the most efficient decomposers of wood cellulose in forest ecosystems, cycling an estimated 10–20% of global wood carbon.
 
 ### Primary Host Species
 
-- **Eastern North America**: Oak (*Quercus* spp.) — primary host; also cherry (*Prunus*), walnut (*Juglans*), beech (*Fagus*), willow (*Salix*), ash (*Fraxinus*), locust (*Robinia*), and mulberry (*Morus*)
-- **Western North America**: Oak, eucalyptus (*Eucalyptus*), [[quercus-robur]]*, *Q. petraea*); occasionally yew (*[[edible-wild-mushroom-guide]]
+- **[[polypore-fungi-eastern-north-america]] America**: Oak (*Quercus* spp.) — primary host; also cherry (*Prunus*), walnut (*Juglans*), beech (*Fagus*), willow (*Salix*), ash (*Fraxinus*), locust (*Robinia*), and mulberry (*Morus*)
+- **Western North America**: Oak, eucalyptus (*Eucalyptus*), [[quercus-robur]]*, *Q. petraea*); occasionally yew (*edible-wild-mushroom-guide
 
 - [[mushroom-foraging-safety]]
 ## Practical Considerations
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

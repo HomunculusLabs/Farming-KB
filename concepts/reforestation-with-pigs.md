@@ -16,7 +16,7 @@ type: concept
 
 # Reforestation with Pigs
 
-Sepp Holzer has developed a distinctive method of using pigs as partners in
+[[comparison-sepp-holzer-vs-biodynamic]] has developed a distinctive method of using pigs as partners in
 reforestation and land restoration. Pigs are "blessed by nature with a plough
 in front and a compost spreader at the back," making them ideal workers for
 preparing ground for tree planting in areas that are difficult to cultivate
@@ -29,7 +29,7 @@ vast areas together with sheep, horses, goats, and cattle. Tree seeds were
 sporadically sown, and once established the pigs were moved to other areas.
 Farmers had less competition and were not as specialised as today. Many
 Alpine hamlets got their names from the livestock they kept: Saudorf (sod
-village) for pig farming, Huhnerbuhl for chicken keeping, Ganslberg (goose
+village) for pig farming, Huhnerbuhl for [[comparison-chicken-keeping-vs-beekeeping-basics]], Ganslberg (goose
 hill) for geese.
 
 This traditional way of life is mostly lost, as intensive animal husbandry
@@ -40,7 +40,7 @@ rich ash into rivers.
 
 ## See Also
 
-- [[mollison-animal-range-management]] for related range management concepts
+- mollison-animal-range-management for related [[mollison-pdc-range-management-wildlife]] concepts
 - [[fukuoka-road-back-desert-reclamation]] for Fukuoka's reforestation methods
 ## Practical Considerations
 
@@ -58,7 +58,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -100,4 +100,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

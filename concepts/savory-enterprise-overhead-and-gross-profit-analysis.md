@@ -1,5 +1,5 @@
 ---
-title: "Enterprise Overhead and Gross Margin Analysis"
+title: "savory enterprise overhead and gross profit analysis and Gross Margin Analysis"
 created: 2026-04-28
 tags: [holistic-management, financial-planning, gross-margin-analysis,
       enterprise-analysis, overhead-allocation, ranch-economics]
@@ -15,7 +15,7 @@ Gross margin analysis, derived from Cambridge economist David Wallace,
 helps determine the strongest links of product conversion in the chain
 from sunlight energy to solar dollar. It assists in finding the
 enterprise or combination of enterprises that brings in the most income
-for the least additional cost each year, essential for ranch  [[integrate-rather-than-segregate]] grown to free
+for the least additional cost each year, essential for ranch  integrate-rather-than-segregate grown to free
 land for livestock and decrease capital per animal unit?
 
 ## When to Apply Gross Margin Analysis
@@ -49,7 +49,7 @@ Despite its benefits, gross margin analysis has limitations:
 ## Integration with Other Guidelines
 
 Gross margin analysis must be used with other testing guidelines: the
-cause and effect guideline, [[animal-tractoring]] guideline, and the holistic goal itself. The ideal is
+[[fukuoka-textdoc-no-cause-and-effect-in-nature]] guideline, [[animal-tractoring]] guideline, and the [[savory-holistic-goal-definition]] itself. The ideal is
 finding the enterprise combination where all tools pass all tests,
 creating a holistically sound chain from sunlight to solar dollar.
 
@@ -63,9 +63,12 @@ more per herd with good biological planning.
 
 ## See Also
 
+- [[savory-replanning-and-monitoring-feedback]]
+- [[savory-partial-rest-and-algal-crusts]]
+
 - [[animal-tractoring]] - Maximizing return per additional dollar
 - [[savory-weak-link-analysis]] - Identifying the true production bottleneck
-- solar dollars and wealth classification - Converting energy to
+- [[savory-solar-dollars-and-wealth-classification]] and wealth classification - Converting energy to
   wealth
 - holistic goal definition - Setting the context for financial
   decisions
@@ -87,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

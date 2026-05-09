@@ -15,7 +15,7 @@ plant tissues without causing apparent disease. In cannabis, endophytic
 communities inhabit roots, stems, leaves, flowers, and seeds, forming
 associations that range from commensal to mutualistic. These internal
 microbial partners contribute to plant nutrition, stress tolerance, disease
-resistance, and potentially influence the production of secondary metabolites
+resistance, and potentially influence the production of [[antifungal-secondary-metabolites-coprophilous-fungi]]
 including cannabinoids and terpenes. Understanding cannabis endophytes is of
 growing interest for both scientific and commercial reasons.
 
@@ -27,7 +27,7 @@ are transmitted vertically from parent to offspring through seeds. Facultative
 endophytes have a free-living stage in soil or other environments and
 colonize plants horizontally through root entry points, wounds, or stomata.
 
-Bacterial endophytes commonly found in cannabis belong to the genera
+[[banyan-tree-bacterial-endophytes-isolation-visualization]] commonly found in cannabis belong to the genera
 Pseudomonas, Bacillus, Burkholderia, Enterobacter, Pantoea, Microbacterium,
 and Rhodococcus. Fungal endophytes include species of Trichoderma, Fusarium,
 Cladosporium, Alternaria, and Penicillium. Some fungal endophytes are
@@ -45,7 +45,7 @@ through the vascular system to colonize aboveground tissues.
 
 Leaf endophytes enter through stomata, hydathodes, or wounds caused by
 herbivory or mechanical damage. The plant immune system actively regulates
-endophyte colonization, permitting some microbes while excluding others.
+[[fungal-endophyte-colonization-patterns]], permitting some microbes while excluding others.
 Successful endophytes must modulate or evade plant defense responses, often
 through effectors that suppress reactive oxygen species or alter defense
 hormone signaling.
@@ -53,7 +53,7 @@ hormone signaling.
 ## Nutrient Contributions
 
 Endophytic bacteria contribute directly to plant nutrition through biological
-nitrogen fixation, phosphate solubilization, and siderophore-mediated iron
+[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], phosphate solubilization, and siderophore-mediated iron
 acquisition. Nitrogen-fixing endophytes convert atmospheric nitrogen into
 ammonia, a form the plant can assimilate. While the nitrogen-fixing capacity
 of endophytes is generally lower than that of rhizobial symbionts in legumes,
@@ -62,11 +62,11 @@ growing systems.
 
 Phosphate-solubilizing endophytes release organic acids that chelate calcium,
 iron, or aluminum bound to phosphate, converting insoluble phosphates into
-plant-available forms. Endophytic fungi, particularly arbuscular mycorrhizal
-fungi and some [[cannabis-root-microbiome]], biological control agents,
+plant-available forms. Endophytic fungi, particularly [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]]
+fungi and some [[cannabis-root-microbiome]], [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents,
 [[singh-ergot-alkaloid-fungal-secondary-metabolites]],
 
-See also: [[the-rhizosphere-ecology-and-plant-microbe-interactions]]
+See also: [[rhizosphere-ecology]]
 ## Practical Considerations
 
 Successful implementation of Endophytes in Cannabis requires attention to
@@ -86,3 +86,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[bryophyte-hepatic-pteridophyte-endophytes]]

@@ -16,7 +16,7 @@ Molds are rapidly growing, filamentous fungi that reproduce primarily by produci
 ### Conditions for Growth
 Mold requires four things to grow:
 1. Moisture: the most critical factor; most molds need water activity (aw) above 0.65
-2. Food source: cellulose (wood, paper, drywall), organic matter, dust
+2. Food source: cellulose (wood, paper, drywall), [[hamilton-composting-and-organic-matter-management]], dust
 3. Temperature: most molds grow between 4-38 C, with optimal range 20-30 C
 4. Oxygen: virtually all molds are aerobic
 
@@ -56,7 +56,7 @@ Closely related to Aspergillus, found in soil, decaying vegetation, and indoor e
 
 #### Common Indoor Species
 - P. chrysogenum: the original penicillin producer, very common indoors
-- P. brevicompactum: frequently found on damp building materials
+- P. brevicompactum: frequently found on damp [[natural-building-materials-guide]]
 - P. expansum: causes blue mold of fruits, produces patulin
 - P. citrinum: produces citrinin (nephrotoxic)
 
@@ -119,7 +119,7 @@ Indicator mold for chronic water damage.
 
 ### Trichoderma
 
-Fast-growing green mold, often found on water-damaged building materials.
+Fast-growing [[growing-gourmet-trichoderma-green-mold-management]], often found on water-damaged building materials.
 
 - Bright green, rapidly spreading colonies
 - Some species are aggressive colonizers of other fungi
@@ -138,66 +138,11 @@ Zygomycete molds (see [[zygomycete-phylum-guide]]).
 - Common on bread, fruit, and other food items
 
 ## Health Effects
-
-### Allergic Reactions
-Most common health effect of indoor mold exposure. Symptoms include:
-- Sneezing, runny nose, nasal congestion
-- Red, itchy, or watery eyes
-- Coughing, wheezing, throat irritation
-- Skin rash in sensitive individuals
-
-### Asthma Exacerbation
-Mold spores and fragments can trigger asthma attacks. Sensitization to specific mold species (Alternaria, Cladosporium, Aspergillus) is a risk factor for severe asthma.
-
-### Hypersensitivity Pneumonitis
-Rare but serious immune-mediated lung disease caused by repeated inhalation of organic particles including mold spores. Requires chronic exposure.
-
-### Mycotoxin Exposure
-Mold-produced secondary metabolites that can cause health effects. Routes of exposure include inhalation, ingestion, and skin contact. Key mycotoxins:
-- Aflatoxins (Aspergillus flavus, A. parasiticus): potent liver carcinogens
-- Ochratoxin A (Aspergillus, Penicillium): kidney damage
-- Trichothecenes (Stachybotrys, Fusarium): immunosuppressive
-- Patulin (Penicillium, Aspergillus): gastrointestinal toxicity
-
-### Opportunistic Infections
-Immunocompromised individuals are at risk for invasive fungal infections:
-- Aspergillosis (Aspergillus fumigatus): lung infection, can disseminate
-- Mucormycosis (Rhizopus, Mucor): aggressive tissue destruction
-- Fusariosis (Fusarium): skin and systemic infections
-
-## Mold Remediation
-
-### Assessment
-- Identify and fix the moisture source (leak, condensation, flooding)
-- Assess the extent of contamination (visible mold growth, water damage)
-- Professional inspection may be warranted for large areas (>10 sq ft)
-
-### Containment and Removal
-- Isolate the affected area with plastic sheeting
-- Use negative air pressure (HEPA-filtered air scrubber)
-- Wear appropriate PPE: N95 respirator, gloves, eye protection
-- Remove and dispose of porous materials with mold growth (drywall, carpet, ceiling tiles)
-- Clean non-porous surfaces with detergent solution
-- HEPA vacuum after cleaning
-
-### Prevention
-- Maintain indoor humidity below 60% (ideally 30-50%)
-- Ensure proper ventilation in bathrooms, kitchens, laundry areas
-- Fix plumbing leaks promptly
-- Use exhaust fans during and after showering
-- Ensure proper drainage away from building foundations
-- Clean and dry water damage within 24-48 hours
-- Use mold-resistant products in moisture-prone areas
-
-### When to Call a Professional
-- Mold area exceeds 10 square feet
-- Mold is in HVAC systems
-- Occupants have health concerns or compromised immune systems
-- Mold is associated with sewage or contaminated water
-- Structural damage is present
-
 ## Related
 
 ## See Also
 
-- [[psilocybin-mushroom-identification-field-guide]]
+- psilocybin-mushroom-identification-field-guide
+- [[stachybotrys-chartarum]]
+- [[psilocybin-mushroom-identification-guide]]
+- [[trichoderma-forest-green-mold-guide]]

@@ -1,22 +1,23 @@
 ---
-title: Fukuoka Natural Tree Form Argument
+title: masanobu-fukuoka-natural-farming-philosophy Tree Form Argument
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka Pruning Phyllotaxy Argument
 
 Updated: 2026-04-19
 
-Masanobu Fukuoka presents a detailed argument against the necessity of pruning fruit trees in *The Natural Way of Farming*, grounded in the botanical principle of phyllotaxy — the fixed mathematical patterns governing leaf and branch arrangement on plants.
+Masanobu Fukuoka presents a detailed argument against the necessity of [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] trees in *The Natural Way of Farming*, grounded in the botanical principle of phyllotaxy — the fixed mathematical patterns governing leaf and branch arrangement on plants.
 
 This argument is one of the most technically precise in Fukuoka's body of work, using botanical science itself to challenge horticultural assumptions. It demonstrates that [[fukuoka-nature-as-teacher]] and [[fukuoka-critique-modern-agriculture]] and [[fukuoka-philosophy-of-mu-and-nature]] that nature is self-organizing and self-regulating when left to its own devices.
 
-If trees can grow in their natural form, the energy savings from eliminating pruning operations are significant. Fukuoka's approach requires starting with trees grown from seed in their natural location rather than transplanted grafted nursery stock. See also [[fukuoka-five-principles-natural-farming]]
+If trees can grow in their natural form, the energy savings from eliminating pruning operations are significant. Fukuoka's approach requires starting with trees grown from seed in their natural location rather than transplanted [[fukuoka-natural-seedlings-versus-grafted-nursery-stock]] stock. See also fukuoka-five-principles-natural-farming
 
 - fukuoka natural tree form argument
 
@@ -101,4 +102,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

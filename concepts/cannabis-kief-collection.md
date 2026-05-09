@@ -1,5 +1,5 @@
 ---
-title: Cannabis Kief Collection
+title: comparison-cannabis-kief-collection-vs-hashish-guide Collection
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -12,7 +12,7 @@ tags: [cannabis]
 
 ## Overview
 
-Kief (also called resin powder, pollen, or dry-sift) consists of the detached resin gland heads of cannabis trichomes that have been separated from plant matter through mechanical means. The term "pollen" is commonly used in Europe because resin powder resembles pollen visually, though it is not actual pollen. In Europe and other parts of the world, sieved resin powder is routinely called pollen. Kief collection is one of the oldest and simplest methods of concentrating cannabis resin.
+Kief (also called resin powder, pollen, or dry-sift) consists of the detached resin gland heads of [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]] that have been separated from plant matter through mechanical means. The term "pollen" is commonly used in Europe because resin powder resembles pollen visually, though it is not actual pollen. In Europe and other parts of the world, sieved resin powder is routinely called pollen. Kief collection is one of the oldest and simplest methods of concentrating cannabis resin.
 
 ## Resin Gland Sizes
 

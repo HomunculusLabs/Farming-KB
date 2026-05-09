@@ -28,7 +28,7 @@ sources:
 
 It is one of the most economically important timber species in South Asia, prized for its dense, durable heartwood used in furniture, flooring, and musical instruments.
 
-The species forms symbiotic associations with rhizobia and arbuscular mycorrhizal fungi, contributing significantly to soil nitrogen enrichment and making it a cornerstone species in permaculture and silvopastoral systems.
+The species forms symbiotic associations with rhizobia and [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi, contributing significantly to soil nitrogen enrichment and making it a cornerstone species in permaculture and silvopastoral systems.
 
 Sissoo is remarkably drought-hardy and tolerates a wide range of soil conditions, from sandy alluvial deposits to saline alkaline soils.
 
@@ -66,9 +66,9 @@ Sissoo is remarkably drought-hardy and tolerates a wide range of soil conditions
 
 Native to the foothills of the Himalayas (200–1,500 m elevation), *D. sissoo* occurs naturally across northern India, Pakistan, Nepal, and Bangladesh.
 
-It has been widely introduced throughout Southeast Asia, East Africa, West Africa, and parts of the Americas.
+It has been widely introduced throughout [[psilocybe-southeast-asia-pacific]], East Africa, West Africa, and parts of the Americas.
 
-The species thrives along riverbanks, alluvial plains, and degraded agricultural land.
+The species thrives along riverbanks, alluvial plains, and degraded [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]].
 
 Optimal conditions include mean annual temperatures of 23–35°C and annual rainfall of 500–2,000 mm.
 
@@ -80,9 +80,9 @@ It tolerates drought (up to 6-month dry season), seasonal flooding, moderate sal
 
 This nitrogen input significantly improves soil fertility for intercropped species, making sissoo an effective nurse tree in agroforestry systems.
 
-Arbuscular mycorrhizal associations (primarily *Glomus* spp.) enhance phosphorus uptake and drought tolerance.
+Arbuscular mycorrhizal associations (primarily *Glomus* spp.) enhance phosphorus uptake and [[dighton-fungal-drought-tolerance-plant-water-relations]].
 
-The tree's leaf litter contributes 3–6 tonnes of organic matter per hectare annually, with a C:N ratio of approximately 20:1, supporting soil organic carbon accumulation.
+The tree's leaf litter contributes 3–6 tonnes of [[hamilton-composting-and-organic-matter-management]] per hectare annually, with a C:N ratio of approximately 20:1, supporting soil [[dighton-fungal-dissolved-organic-carbon-production]] accumulation.
 
 These combined properties make *D. sissoo* one of the most effective leguminous trees for soil rehabilitation of degraded lands.
 
@@ -128,6 +128,9 @@ Termites and the shoot borer *Endospermum* spp. can affect young trees but are r
 
 ## See Also
 
-- [[gliricidia-sepium]] — Tropical leguminous tree used in similar agroforestry and fodder roles
-- [[elaeagnus-angustifolia]] — Russian olive, drought-tolerant nitrogen-fixer for arid land restoration
+- gliricidia-sepium — Tropical leguminous tree used in similar agroforestry and fodder roles
+- elaeagnus-angustifolia — Russian olive, drought-tolerant nitrogen-fixer for arid land restoration
 - [[paulownia-tomentosa]] — Fast-growing timber tree for reforestation, contrasting non-nitrogen-fixing strategy
+- [[alley-cropping]]
+- [[fusarium-solani]]
+- [[mycorrhizal-fungi]]

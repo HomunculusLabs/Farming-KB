@@ -1,5 +1,5 @@
 ---
-title: Grass Seed Substrate Preparation for Mycological Cultivation
+title: Grass Seed cotter-compost-substrate-preparation-manure-mushroom-cultivation for Mycological Cultivation
 created: 2026-04-28
 tags:
   - mycology
@@ -35,7 +35,7 @@ The most commonly used seed is rye grass seed (*Lolium perenne*), though mixture
 
 - **Fungicide-free status**: Seed treated with fungicides will not support fungal colonisation. Packaging typically indicates treatment status. Treated seed is essentially useless for cultivation purposes.
 - **Cost**: Animal feed stores often sell suitable grass seed as bird feed at low cost. The source documentation specifically recommends purchasing from animal feed suppliers.
-- **Batch variability**: Different varieties and even different batches of the same variety can vary significantly in water absorption capacity. This is one of the primary sources of inconsistency in grass seed cultivation.
+- **Batch variability**: Different varieties and even different batches of the same variety can vary significantly in water absorption capacity. This is one of the primary sources of inconsistency in grass [[grass-seed-cultivation-of-psilocybe-mushrooms]].
 - **Freshness**: Older seed may have reduced viability as a substrate. Seed stored in cool, dry conditions retains its suitability for longer periods.
 
 ## Hydration Methods
@@ -65,7 +65,7 @@ The loose lid is essential: it allows steam to penetrate during sterilisation, p
 Achieving the correct moisture content is one of the most critical aspects of substrate preparation. The optimal moisture level sits between two failure modes:
 
 - **Over-saturation**: Excess water creates a slimy, anaerobic clump that cannot be shaken to redistribute mycelium. This condition promotes bacterial growth and severely hamstrings colonisation. Jars with visibly waterlogged substrate should be discarded.
-- **Under-hydration**: Insufficient water limits mycelial growth and results in poor or nonexistent fruiting body or sclerotia production. The mycelium may colonise surface kernels but fail to penetrate deeper.
+- **Under-hydration**: Insufficient water limits [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] and results in poor or nonexistent [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] or [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]. The mycelium may colonise surface kernels but fail to penetrate deeper.
 
 The ideal substrate, when shaken, should have individual kernels that separate freely with a faint audible clicking sound. No free liquid should be visible at the bottom of the jar after settling.
 
@@ -75,7 +75,7 @@ Grass seed offers several benefits compared to other grain substrates:
 
 - **Small kernel size** provides many inoculation points relative to substrate volume, accelerating colonisation speed
 - **Cost effectiveness** — grass seed is inexpensive and readily available from agricultural suppliers
-- **Versatility** — works for both fruiting body production and sclerotia formation
+- **Versatility** — works for both fruiting body production and [[growing-gourmet-sclerotia-formation-biology-mushrooms]]
 - **Ease of handling** — colonised jars can be shaken effectively to redistribute mycelium
 - **Nutritional profile** — the balance of carbohydrates, proteins, and minerals supports robust mycelial growth without being so nutrient-rich that contamination risk is excessive
 

@@ -1,5 +1,5 @@
 ---
-title: "Chen - Maitake Strain Selection and Spawn Preparation"
+title: "Chen - Maitake blesching-cannabis-strain-selection-receptor-targeting and azurescens-spawn-preparation-grain-to-wood"
 created: 2026-04-28
 tags: [maitake, mushroom-cultivation, spawn, strain-selection, grifola-frondosa]
 date: 2026-04-28
@@ -25,7 +25,7 @@ strains in:
 
 - **Growth rate**: Strains with a spawn run of 30 days before primordia
   initiation are considered fast-growing; many require 60 to 90 days or
-  more of mycelial growth and maturation.
+  more of [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] and maturation.
 - **Yield**: [[liquid-inoculation-alternative-spawn-media]].
 
 ### 2. Grain Spawn
@@ -42,7 +42,7 @@ Supplemented sawdust-bran substrates are usually the choice for
 ## Spawn Sources and Suppliers
 
 Growers can obtain ready-to-fruit blocks (colonized synthetic logs) or
-spawn for self-inoculation. Notable North American suppliers listed in
+spawn for self-inoculation. Notable [[growing-gourmet-north-american-reishi-species]] suppliers listed in
 the paper include:
 
 - **Fungi Perfecti** (Olympia, WA) - the most widely referenced supplier
@@ -57,7 +57,7 @@ the paper include:
 - **Phillip Mushroom Farm** (Kennett Square, PA)
 
 The leading US grower, Franklin Mushroom Farms, does not sell spawn.
-See also [[growing-gourmet-home-spawn-vs-commercial-spawn]].
+See also growing-gourmet-home-spawn-vs-commercial-spawn.
 
 ## Cultivation Bags
 
@@ -70,7 +70,7 @@ the supplier referenced in the paper. Key considerations:
   substrate for oxygen and air exchange.
 - Coarser sawdust or wood chips must not puncture the bag.
 - Heat-sealed bags with microfilters are used for spawn run and
-  primordia initiation.
+  [[chen-maitake-primordia-initiation-fruiting]].
 
 ## Shortening the Spawn Run
 
@@ -86,5 +86,5 @@ run characteristic of maitake:
 5. Ensure good substrate aeration with a fine-to-coarse sawdust ratio
   of 3:1 and proper moisture content.
 
-See also [[mushroom-spawn-making-detailed]] for general spawn production
+See also [[mushroom-spawn-making-detailed]] for general [[growing-gourmet-sawdust-spawn-production-use]]
 principles applicable to maitake.

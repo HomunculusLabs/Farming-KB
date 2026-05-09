@@ -22,7 +22,7 @@ Ketamine is a dissociative anesthetic with a unique pharmacological profile that
 - Physical form: white crystalline powder or clear liquid (in pharmaceutical preparations)
 - Routes of administration: intravenous (IV), intramuscular (IM), intranasal, oral, sublingual
 
-Ketamine is soluble in water and commonly formulated as a hydrochloride salt. It is stable at room temperature and has a long shelf life. The compound is typically synthesized from cyclopentanone or via reductive amination of 1-bromocyclopentyl-(o-chlorophenyl)-ketone.
+Ketamine is soluble in water and commonly formulated as a hydrochloride salt. It is stable at room temperature and has a long [[psilocybin-shelf-life-stability]]. The compound is typically synthesized from cyclopentanone or via reductive amination of 1-bromocyclopentyl-(o-chlorophenyl)-ketone.
 
 ## History
 
@@ -128,7 +128,7 @@ This mechanism is fundamentally different from classical psychedelics (5-HT2A ag
 - Altered body image (feeling larger/smaller, floating)
 - Dreamlike or trance-like state
 - Enhanced introspection and emotional processing
-- Some users describe ego dissolution at higher doses
+- Some users describe [[psilocybin-ego-dissolution-mechanisms]] at higher doses
 
 ### Psychological Aftereffects
 
@@ -141,46 +141,9 @@ This mechanism is fundamentally different from classical psychedelics (5-HT2A ag
 
 - Transient blood pressure and heart rate increase (monitored during clinical use)
 - Nausea, vomiting, dizziness, visual disturbances
-- Confusion and disorientation during the experience
-- Bladder toxicity with chronic recreational use (ketamine bladder syndrome)
-- Cognitive impairment and psychological dependence risk with chronic heavy use
-
-## Safety and Contraindications
-
-### Contraindications
-
-- Uncontrolled hypertension or cardiovascular disease
-- History of psychosis or schizophrenia
-- Active substance abuse
-- Pregnancy, severe liver disease, intracranial hypertension
-- History of ketamine bladder syndrome
-- Concurrent lithium use (seizure risk)
-
-### Safety Profile
-
-- Wide therapeutic index — depression dose is ~1/10th the anesthetic dose
-- Vital signs monitored during clinical administration
-- No confirmed deaths from overdose of ketamine alone
-- Primary risks are psychological (acute anxiety) and cardiovascular (transient BP elevation)
-
-### Recreational Use Concerns
-
-- Chronic heavy use is associated with bladder damage (ulcerative cystitis)
-- Cognitive impairment and memory deficits with prolonged heavy use
-- Psychological dependence is possible
-- Risk of accidents due to dissociation and impaired coordination
-- Injection risks: abscess, infection, vein damage
-
-## Legal Status
-
-- United States: Schedule III (unique among psychedelics/dissociatives)
-- Schedule III status reflects accepted medical use as an anesthetic
-- Esketamine (Spravato): FDA-approved, Schedule III, REMS program
-- International: Schedule I or III depending on country
-
 ## See Also
 
 - [[lsd-reference]] for comparison with a classical psychedelic
 - [[mdma-reference]] for another drug with emerging psychiatric applications
 
-See also: [[ketamine-pharmacology-and-therapy]]
+See also: [[set-and-setting-model-psychedelic-therapy]]

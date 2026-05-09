@@ -1,12 +1,13 @@
 ---
-title: Turbulence Modeling in Fluid Dynamics
+title: Turbulence Modeling in computational-fluid-dynamics
 type: concept
 aliases: [turbulence models, RANS, LES, DNS, k-epsilon, k-omega, SST, Smagorinsky]
 tags: [physics, fluid-dynamics, CFD, engineering, turbulence, RANS, LES, computational-methods]
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
-sources: []
+sources:
+  sources: []
 ---
 
 ## Overview
@@ -15,7 +16,7 @@ Turbulence is a regime of fluid motion characterized by chaotic, three-dimension
 
 The fundamental challenge in turbulence modeling is the **closure problem**: when the [[decomposition]], 1895), the nonlinear convection term produces **Reynolds stresses** −ρ⟨u′ᵢu′ⱼ⟩ that cannot be expressed in terms of mean flow variables alone. All turbulence modeling is an attempt to close this system of equations. The Reynolds stress tensor has six independent components: three normal stresses (⟨u′²⟩, ⟨v′²⟩, ⟨w′²⟩) contributing to turbulent kinetic energy, and three shear stresses (⟨u′v′⟩, ⟨u′w′⟩, ⟨v′w′⟩) driving turbulent momentum transport.
 
-## Energy Cascade and Kolmogorov Theory
+## [[fukuoka-textdoc-fox-rabbit-grass-energy-cascade-caloric-waste-luxury-foods]] and Kolmogorov Theory
 
 Richardson (1922) described how energy cascades from large to small eddies: "Big whirls have little whirls that feed on their velocity, and little whirls have lesser whirls and so on to viscosity." The process has three stages: energy production at large scales (comparable to flow geometry), inertial transfer through nonlinear vortex interactions (no significant dissipation), and viscous dissipation at the smallest scales.
 
@@ -24,7 +25,7 @@ Kolmogorov (1941) formalized this with two hypotheses: (1) at high Re, small-sca
 - **Kolmogorov velocity**: u_η = (νε)^(1/4)
 - **Kolmogorov time**: τ_η = (ν/ε)^(1/2)
 
-The energy spectrum in the **inertial subrange** follows the famous −5/3 law: E(k) = C_K ε^(2/3) k^(−5/3), where C_K ≈ 1.5 is the Kolmogorov constant. The corresponding second-order structure function scales as ⟨|Δu(r)|²⟩ = C₂(εr)^(2/3). The ratio of largest to smallest scales grows as Re^(3/4), meaning that at Re_L = 10⁶ the largest eddies are ~30,000× larger than the smallest.
+The energy spectrum in the **inertial subrange** follows the famous −5/3 law: E(k) = C_K ε^(2/3) k^([[cytochrome-p450-enzymes-structure-function-pharmacology]] 1.5 is the Kolmogorov constant. The corresponding second-order [[dighton-ectomycorrhizal-hartig-net-structure-function]] scales as ⟨|Δu(r)|²⟩ = C₂(εr)^(2/3). The ratio of largest to smallest scales grows as Re^(3/4), meaning that at Re_L = 10⁶ the largest eddies are ~30,000× larger than the smallest.
 
 **Intermittency** (Batchelor & Townsend, 1949) modifies Kolmogorov's predictions: dissipation is concentrated in localized regions of intense strain rate, following approximately a log-normal distribution. This causes higher-order structure functions to deviate from self-similar scaling (e.g., ζ₆ ≈ 1.80 vs. the K41 prediction of 2.0). Kolmogorov's 1962 refined similarity hypothesis accounts for local dissipation fluctuations.
 

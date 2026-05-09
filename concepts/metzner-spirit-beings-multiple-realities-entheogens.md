@@ -23,7 +23,7 @@ type: concept
 
 ## Overview
 
-In his 1998 comparative review "Hallucinogenic Drugs and Plants in Psychotherapy and Shamanism," Ralph Metzner identified two fundamental points where the worldview of shamanic and hybrid shamanic-therapeutic practice diverges radically from the accepted Western scientific paradigm: **(1) the belief in multiple realities** that can be explored in expanded states of consciousness, and **(2) the belief that "spirits,"** the beings encountered in dreams and visions, are just as real as physical organisms. These two propositions represent the most challenging aspects of entheogenic practice for Western psychology and science, yet they are consistently reported across cultures and have become increasingly accepted in contemporary hybrid therapeutic rituals.
+In his 1998 comparative review "[[hallucinogenic-drugs]] and Plants in [[metzner-hallucinogens-psychotherapy-and-shamanism]]," [[ralph-metzner]] identified two fundamental points where the worldview of shamanic and hybrid shamanic-therapeutic practice diverges radically from the accepted Western scientific paradigm: **(1) the belief in multiple realities** that can be explored in expanded states of consciousness, and **(2) the belief that "spirits,"** the beings encountered in dreams and visions, are just as real as physical organisms. These two propositions represent the most challenging aspects of entheogenic practice for Western psychology and science, yet they are consistently reported across cultures and have become increasingly accepted in contemporary hybrid therapeutic rituals.
 
 ## The Western Paradigm Constraint
 
@@ -42,7 +42,7 @@ Shamanic traditions across the world operate from a fundamentally different onto
 - The **upper world** and **lower world** (in Harner's framework)
 - The **faerie world** or **otherworld**
 - The **dreamtime** (Australian Aboriginal traditions)
-- **Nonordinary reality** (Michael Harner's terminology)
+- **Nonordinary reality** ([[michael-harner]]'s terminology)
 
 Metzner emphasized that in shamanic experience, the usual boundaries between these worlds become more permeable. Access may occur through:
 
@@ -58,7 +58,7 @@ The second radical departure from the Western paradigm concerns the ontological 
 
 - **Perception of nonmaterial beings** associated with particular animals (serpent, jaguar), plants, trees, fungi, places (rivers, rainforests), deceased ancestors, and other nonordinary entities
 - Experiences of **becoming or identifying with** a spirit (becoming a jaguar, becoming a serpent)
-- Healing and divination experienced as being done **by or with the assistance of** such spirits
+- [[metzner-shamanic-healing-and-divination-paradigm]] experienced as being done **by or with the assistance of** such spirits
 
 These beings are referred to across traditions by various names: **allies, power animals, guardians, helpers, plant teachers.** In some healing rituals, contact with malevolent spirits that require exorcism or neutralization is also reported.
 
@@ -100,7 +100,7 @@ Participants in these circles, who are often experienced in multiple psychospiri
 Metzner's analysis raises profound questions for the contemporary revival of psychedelic-assisted psychotherapy:
 
 - **Ontological reductionism**: If therapeutic frameworks insist on interpreting all entity encounters and transpersonal experiences as purely psychological phenomena, do they risk missing or dismissing clinically relevant aspects of the experience?
-- **Set and setting**: Metzner's observation that shamanic rituals are essentially carefully arranged set-and-setting configurations for healing and divination suggests that the therapeutic context itself shapes whether spirit encounters are experienced and how they are interpreted.
+- **[[set-and-setting]]**: Metzner's observation that shamanic rituals are essentially carefully arranged set-and-setting configurations for healing and divination suggests that the therapeutic context itself shapes whether spirit encounters are experienced and how they are interpreted.
 - **Therapist training**: The widely acknowledged requirement that psychedelic therapists have personal experience with the substances they work with gains additional significance if those experiences reliably produce encounters with beings that challenge the therapist's ontological framework.
 - **Integration**: How practitioners integrate experiences of multiple realities and spirit beings into their post-session lives depends critically on whether their therapeutic framework allows for these ontological categories.
 

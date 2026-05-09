@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Monte, A.P. et al. (1993). "N-substituted piperazines abused as 'designer drugs'." Pharmacology Biochemistry and Behavior, 46(2), 339-347.
+  - Monte, A.P. et al. (1993). "N-substituted piperazines abused as 'shulgin-designer-drugs-analysis'." Pharmacology Biochemistry and Behavior, 46(2), 339-347.
   - Dawson, J.L. et al. (2014). "Observations in three subjects of the psychoactive compound 5-APB." Journal of Psychopharmacology, 28(10), 975-981.
   - EMCDDA (2014). "5-APB and 6-APB: New psychoactive substances report." EMCDDA-Europol Annual Report.
   - Iversen, L. (2013). "The Science of Mind-altering Substances." Oxford University Press.
@@ -99,13 +99,13 @@ Oral administration is the most common route. Insufflation produces faster onset
 nasal discomfort due to the benzofuran structure.
 
 Redosing is common due to the long duration, but each additional dose shows
-diminishing returns and increases cardiovascular strain. Harm reduction guidance
+diminishing returns and increases cardiovascular strain. [[adverse-effects-and-harm-reduction-psilocybin]] guidance
 advises waiting at minimum 2–3 months between uses.
 
 ## Legal Status
 
 5-APB is controlled as a Class B drug in the United Kingdom under the
-Psychoactive Substances Act amendments (2014). In the United States, it is a
+Psychoactive [[controlled-substances-act-and-psychedelic-research]] amendments (2014). In the [[dmt-containing-plants-united-states-halpern]], it is a
 Schedule I substance under the Federal Analog Act and is specifically listed on
 the DEA's Schedule I controlled substances.
 
@@ -127,7 +127,7 @@ frameworks.
 
 ## See Also
 
-- [[mdma]]
+- mdma
 - [[linalool]]
 - [[lsd]]
 - [[ethylone]]

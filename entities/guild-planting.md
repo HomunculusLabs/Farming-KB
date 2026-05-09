@@ -32,9 +32,9 @@ Guild planting is founded on several ecological principles:
 
 3. **Vertical Stacking:** Guilds exploit multiple canopy layers simultaneously (root zone, ground cover, herbaceous, shrub, understory tree, canopy tree), maximizing productive use of space and light.
 
-4. **Resource Partitioning:** Plants with different root architectures, light requirements, nutrient needs, and water demands coexist without competing directly, partitioning available resources across the guild.
+4. **[[fungal-resource-partitioning-decomposition-sequences]]:** Plants with different root architectures, light requirements, nutrient needs, and water demands coexist without competing directly, partitioning available resources across the guild.
 
-5. **Closed Nutrient Loops:** Within a well-designed guild, nutrients are cycled internally — leaf litter decomposes to feed soil organisms, nitrogen fixers supply legumes, and dynamic accumulators pull minerals from deep soil layers.
+5. **Closed Nutrient Loops:** Within a well-designed guild, nutrients are cycled internally — leaf litter decomposes to feed soil organisms, nitrogen fixers supply legumes, and [[comparison-dynamic-accumulators-vs-cover-crops]] pull minerals from deep soil layers.
 
 ## Guild Roles and Functions
 
@@ -47,7 +47,7 @@ Guild planting is founded on several ecological principles:
 | **Root Crops** | Subsoil loosening, nutrient mining | Daikon radish, chicory, dandelion, burdock |
 | **Nitrogen Fixer** | Atmospheric N₂ fixation via rhizobial symbiosis | Alder, Siberian pea shrub, clover, beans, lupine |
 | **Dynamic Accumulator** | Deep nutrient mining, biomass production | Comfrey, yarrow, dandelion, nettle, plantain |
-| **Insectary / Pollinator** | Attracting beneficial insects, pest predator habitat | Dill, fennel, yarrow, calendula, alyssum |
+| **Insectary / Pollinator** | Attracting [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], pest predator habitat | Dill, fennel, yarrow, calendula, alyssum |
 | **Pest Repellent** | Aromatic compounds that deter insect pests | Garlic, onions, marigolds, mint, tansy |
 | **Climber / Vine** | Vertical space utilization, additional production | Kiwi, grapes, hops, passionflower, beans |
 | **Fungi Support** | Mycorrhizal host plants, fungal food sources | Oaks, beech, birch, comfrey (mycorrhizal associate) |
@@ -64,7 +64,7 @@ The most widely documented guild, serving as a template for fruit tree systems:
 | **Nitrogen fixer** | Siberian pea shrub (*Caragana arborescens*) or clover understory | Nitrogen supply |
 | **Dynamic accumulator** | Comfrey (*Symphytum × uplandicum* Bocking 14) | Potassium, calcium mining; mulch |
 | **Pest deterrent** | Garlic chives, daffodils (bulb ring), yarrow | Repel codling moth, apple maggot |
-| **Pollinator attractor** | Borage, dill, calendula | Bee and beneficial insect forage |
+| **Pollinator attractor** | Borage, dill, calendula | Bee [[mollison-designers-insectary-plants-and-beneficial-insect-habitat]] forage |
 | **Ground cover** | White clover, creeping thyme | Nitrogen fixation, weed suppression |
 | **Root zone** | Daikon radish, chicory | Subsoil compaction relief, nutrient mining |
 | **Fungal support** | Oyster mushroom inoculated on buried wood | Mycoremediation, nutrient cycling |
@@ -89,7 +89,7 @@ A self-maintaining guild for home-scale food production:
 
 - **Overstory:** Chestnut or hazelnut for canopy and nut production
 - **Shrub layer:** Seaberry, elderberry, gooseberry
-- **Herbaceous:** Asparagus, globe artichoke, Jerusalem artichoke, Good King Henry, sea kale, walking onion
+- **Herbaceous:** Asparagus, globe artichoke, [[comparison-jerusalem-artichoke-vs-potato]], Good King Henry, sea kale, walking onion
 - **Ground cover:** Alpine strawberry, mint, clover, oregano
 - **Nitrogen fixer:** Lupine, clover interplant
 - **Accumulator:** Comfrey border for chop-and-drop mulch
@@ -111,7 +111,7 @@ Choose companion plants to fill each ecological role. Prioritize:
 
 ### Step 4: Arrange Spatially
 Position plants according to their needs and functions:
-- Taller plants on the north side (Southern Hemisphere: south) to avoid shading shorter companions
+- Taller plants on the north side ([[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]: south) to avoid shading shorter companions
 - Dynamic accumulators at the dripline of the canopy tree (where feeder roots are concentrated)
 - Nitrogen fixers in the inner guild where nitrogen demand is highest
 - Ground covers as a living mulch layer throughout
@@ -140,6 +140,9 @@ Plant the guild, prioritizing establishment of long-lived perennials. Initial ye
 
 ## See Also
 
-- [[comfrey]] — Premier dynamic accumulator and guild element
+- comfrey — Premier dynamic accumulator and guild element
 - [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] — Large-scale application of guild principles
 - [[mycorrhizal-networks]] — Fungal associations connecting guild plants underground
+- [[forest-gardens]]
+- [[toby-hemenway]]
+- [[juglans-nigra]]

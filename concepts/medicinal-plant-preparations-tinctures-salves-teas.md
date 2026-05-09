@@ -9,7 +9,7 @@ sources: []
 # Medicinal Plant Preparations — Tinctures, Salves, Teas
 
 Detailed preparation guides for common herbal medicine forms. For an overview
-of all preparation types, equipment, and shelf life, see
+of all preparation types, equipment, and [[psilocybin-shelf-life-stability]], see
 [[calendula-officinalis]]
 
 - [[ocimum-tenuiflorum-entity]]
@@ -100,4 +100,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

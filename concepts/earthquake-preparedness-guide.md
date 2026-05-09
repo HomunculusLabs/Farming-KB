@@ -110,7 +110,7 @@ Earthquakes can disrupt utilities (water, gas, electricity, sewage) for days to 
 ### Food
 - Non-perishable food requiring no cooking (canned goods, dried fruit, granola, crackers)
 - Manual can opener
-- Camp stove with fuel for outdoor cooking
+- Camp stove with fuel for [[query-how-to-build-a-cob-oven-for-outdoor-cooking]]
 - Comfort foods (stress management)
 
 ### Shelter and Warmth
@@ -137,51 +137,9 @@ Earthquakes can disrupt utilities (water, gas, electricity, sewage) for days to 
 - Cash (ATMs and card readers will not work without power)
 
 ### First Aid
-- Comprehensive first aid kit (see [[homestead-first-aid-guide]])
-- Include extra trauma supplies: splints, tourniquet, hemostatic gauze
-- Prescription medications (30-day minimum supply)
-
-## During an Earthquake
-
-**Drop, Cover, and Hold On:**
-1. DROP to your hands and knees
-2. Take COVER under a sturdy desk or table
-3. HOLD ON until the shaking stops
-
-**Do NOT:** Run outside, stand in a doorway, get under glass tables, use elevators, or light matches (gas leaks may be present).
-
-**If outdoors:** Move to an open area away from buildings, trees, power lines, and utility wires.
-
-**If in a vehicle:** Pull over in a clear area away from overpasses, bridges, power lines, and buildings. Stay in the vehicle until shaking stops.
-
-**If in bed:** Stay in bed. Hold on and protect your head with a pillow. Do not get up until shaking stops.
-
-## Aftershock Safety
-
-Aftershocks can be as damaging as the main earthquake and continue for days, weeks, or months.
-
-- Expect aftershocks — do not enter damaged buildings unnecessarily
-- Inspect your home for structural damage before re-entering
-- Check for gas leaks (smell, hissing sound) — if suspected, leave immediately and call the gas company
-- Check for electrical damage (sparks, frayed wires, burning smell) — shut off electricity if damage is found
-- Check for water damage (broken pipes, sewage backup)
-- Open cabinets cautiously — items may have shifted
-- Be prepared for additional shaking at any time
-- Wear sturdy shoes, gloves, long pants, and a dust mask when moving through debris
-
-## Recovery and Assessment
-
-- Check on neighbors, especially elderly or disabled individuals
-- Do not use the phone unless for emergencies — keep lines clear
-- Document all damage with photos and video before cleanup
-- Contact your insurance company as soon as possible
-- Hire licensed contractors for structural repairs
-- Have utilities inspected before turning them back on
-- Check well water for contamination before drinking
-
 ## Related Concepts
 
-- construction — Building techniques and structural considerations
+- construction — [[mollison-designers-straw-bale-building-techniques]] and structural considerations
 - safety — Comprehensive safety planning and risk management
 - [[homestead-first-aid-guide]] — First aid for earthquake-related injuries
 - [[homestead-communication]] — Communication when normal networks are down

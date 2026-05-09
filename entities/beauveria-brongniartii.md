@@ -17,7 +17,7 @@ updated: 2026-04-28
 sources:
   - Rehner, S.A. et al. (2011). "Multilocus phylogenetic taxonomy of the Beauveria." Mycologia 103(5): 1069-1083.
   - Inglis, G.D. et al. (2001). "Use of hyphomycetous fungi for managing insect pests." In: Fungal Biocontrol Agents.
-  - Zimmermann, G. (2007). "A review of fifty years of biological control with Beauveria." Biocontrol Science and Technology 17(6): 567-594.
+  - Zimmermann, G. (2007). "A review of fifty years of [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] with Beauveria." Biocontrol Science and Technology 17(6): 567-594.
   - Feng, M.G. et al. (1994). "Biological control of insect pests in China." Biocontrol News and Information 15: 21N-30N.
 aliases:
   - B. brongniartii
@@ -61,7 +61,7 @@ globose to subglobose, measuring 2.0-3.0 × 2.0-2.8 μm, produced singly on symp
 conidiogenous cells with a distinctive zigzag rachis. Conidia are hyaline and
 single-celled, forming powdery white masses on infected cadavers.
 
-Blastospores may form in liquid culture, measuring 3.5-6.0 × 2.0-3.0 μm, ellipsoidal to
+Blastospores may form in [[comparison-liquid-culture-vs-grain-spawn]], measuring 3.5-6.0 × 2.0-3.0 μm, ellipsoidal to
 cylindrical. Sexual morph (teleomorph) has not been conclusively observed in nature.
 
 ## Host Range and Pathogenicity
@@ -78,7 +78,7 @@ within 3-7 days post-infection, followed by emergence of conidiophores through t
 cadaver integument.
 
 Its host range is narrower than *B. bassiana*, which is advantageous for biocontrol
-applications targeting specific pests without harming beneficial insects.
+applications targeting specific pests without harming [[comparison-beneficial-insects-guide-vs-integrated-pest-management]].
 
 ## Distribution and Ecology
 
@@ -93,7 +93,7 @@ without a host, maintaining reservoir populations.
 
 ## Cultivation and Mass Production
 
-*B. brongniartii* is cultivated on solid substrates (grain, rice bran) or in submerged
+*B. brongniartii* is cultivated on solid substrates (grain, [[jadam-rice-bran-problems]]) or in submerged
 liquid fermentation. Solid-state fermentation produces aerial conidia with superior
 desiccation tolerance and UV resistance, preferred for field applications.
 
@@ -115,12 +115,12 @@ timing, soil conditions, and formulation. It is compatible with reduced-tillage 
 and can be integrated with other biological control agents including entomopathogenic
 nematodes.
 
-The fungus shows low toxicity to non-target organisms including earthworms, predatory
-beetles, and pollinators, making it suitable for organic farming systems.
+The fungus shows [[fukuoka-low-toxicity-pesticide-deception]] to non-target organisms including earthworms, predatory
+beetles, and pollinators, making it suitable for [[coleman-deep-organic-farming-philosophy]] systems.
 
 ## See Also
 
 - [[metarhizium-anisopliae]]
 - [[verticillium-lecanii]]
 - [[integrated-pest-management]]
-- [[permaculture]]
+- permaculture

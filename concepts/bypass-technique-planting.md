@@ -33,7 +33,7 @@ Attention must be given to the structural integrity of the building with the add
 
 - The system is self-sustaining: if one resident goes on holiday, the plants are rooted in containers on different storeys with their own water and nutrients
 - With increasing access to nature, people's empathy for each other grows
-- Urban permaculture improves the climate of the town literally and figuratively by promoting interpersonal relationships
+- [[pdc-urban-permaculture-design-principles]] improves the climate of the town literally and figuratively by promoting interpersonal relationships
 - Plants can be a bridge between people
 
 ## Broader Vision
@@ -42,7 +42,7 @@ If politicians and businesses put the philosophy of sustainability into practice
 
 ## Related
 
-- [[town-garden-design]] -- design principles for small urban gardens
+- [[town-garden-design]] -- [[holmgren-permaculture-twelve-design-principles-framework]] for small urban gardens
 - [[container-gardening-guide]] -- growing in containers and troughs
 - [[green-roof-and-living-walls]] -- vertical greening of buildings
 ## Practical Considerations
@@ -61,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

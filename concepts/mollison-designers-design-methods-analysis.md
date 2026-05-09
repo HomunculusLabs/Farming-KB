@@ -1,5 +1,5 @@
 ---
-title: "Permaculture Design Methods and Analysis"
+title: "permaculture-design-methods and Analysis"
 created: 2026-04-28
 tags:
   - design-methods
@@ -16,17 +16,17 @@ type: concept
 
 # Permaculture Design Methods and Analysis
 
-The design process is the heart of permaculture practice. While many people
+The [[hemenway-garden-design-process-observation-and-visioning]] is the heart of permaculture practice. While many people
 associate permaculture with specific techniques (swales, food forests,
-chicken tractors), these techniques are merely tools. It is the design
+[[mollison-designers-chicken-tractors-egg-production]]), these techniques are merely tools. It is the design
 methodology that determines whether a system functions as an integrated whole
-or a collection of disconnected elements. Bill Mollison presented several
-complementary design methods in the Designers Manual, each providing a
+or a collection of disconnected elements. [[bill-mollison]] presented several
+complementary design methods in the [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]], each providing a
 different lens through which to analyse a site and develop a coherent plan.
 
 ## Sector Analysis
 
-Sector analysis maps the external energies and influences that affect a site.
+Sector analysis [[maps]] the external energies and influences that affect a site.
 These "sectors" are directional flows of energy including sun, wind, water,
 fire, wildlife, noise, pollution, views, and access. The designer creates a
 sector map (typically a base map overlaid with wedge-shaped zones radiating
@@ -36,7 +36,7 @@ moves across the land.
 For each sector, the designer asks three questions:
 
 1. **Can this energy be used productively?** Sun provides light and heat for
-   [[mollison-designers-windbreak-design-species]]. Fire risk zones
+   mollison-designers-windbreak-design-species. Fire risk zones
    require firebreaks and water storage.
 3. **Can the energy be redirected?** Stormwater runoff can be diverted to
    [[mollison-designers-sea-level-change-coastal-zones]] type buffer functions.
@@ -56,7 +56,7 @@ For example, drawing "chickens" and "greenhouse" might lead to the
 observation that chickens produce heat and carbon dioxide that benefit
 greenhouse plants, while the greenhouse provides winter shelter for the
 flock. Drawing "bamboo" and "wastewater" might suggest using bamboo reed
-beds for [[mollison-designers-design-by-analysis]]
+beds for mollison-designers-design-by-analysis
 ## Practical Considerations
 
 When working with Permaculture Design Methods and Analysis, several practical factors should be
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

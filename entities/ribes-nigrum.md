@@ -38,11 +38,11 @@ sources:
 - **Leaves:** Alternate, palmately 3–5 lobed (maple-like), 5–10 cm, dark green, pubescent underside, resinous scent when crushed
 - **Flowers:** Pendulous racemes of 5–10 flowers, early spring (March–May), on 1-year-old wood. Greenish-pink, tubular. Self-fertile; bee- and wind-pollinated.
 - **Fruit:** Berries 8–12 mm, deep purple-black, glossy, hanging in clusters. Intensely tart and aromatic.
-- **Root system:** Shallow, fibrous, top 30–45 cm; extensive lateral spread aids nutrient cycling
+- **Root system:** Shallow, fibrous, top 30–45 cm; extensive lateral spread aids [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 
 ## Distribution
 
-Native to central/northern Europe and northern Asia. Widely cultivated across Europe, New Zealand, and parts of North America. Hardiness: **USDA Zones 3–7**, tolerating temperatures to -30°C.
+Native to central/northern Europe and northern Asia. Widely cultivated across Europe, New Zealand, and parts of [[psilocybin-north-america-pacific-northwest]]. Hardiness: **USDA Zones 3–7**, tolerating temperatures to -30°C.
 
 ## Cultivation
 
@@ -63,7 +63,7 @@ Blackcurrants fruit primarily on **1-year-old wood**. Annually remove oldest can
 ### Key Pests and Diseases
 - **White pine blister rust** (*Cronartium ribicola*): Resistant cultivars available; was basis for US cultivation bans
 - **Big bud mite:** Vectors reversion virus; plant clean stock
-- **Powdery mildew:** Resistant cultivars available
+- **[[cervantes-powdery-mildew-prevention-treatment]]:** Resistant cultivars available
 - **Birds:** Netting essential — birds highly attracted to ripe berries
 
 ## Nutritional Profile (per 100 g raw)
@@ -83,7 +83,7 @@ Blackcurrants contain **3–4× the vitamin C of oranges** by weight. Predominan
 
 - **Eye health:** Anthocyanins improve dark adaptation, reduce eye fatigue, slow glaucoma progression
 - **Cardiovascular:** Improves endothelial function, reduces arterial stiffness and blood pressure
-- **Exercise recovery:** Reduces muscle damage, oxidative stress, and inflammation
+- **Exercise recovery:** Reduces muscle damage, [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], and inflammation
 - **Immune function:** Vitamin C and anthocyanins reduce duration/severity of respiratory infections
 - **Cognitive:** Improved cerebral blood flow; preliminary benefits in older adults
 
@@ -100,9 +100,9 @@ Blackcurrants contain **3–4× the vitamin C of oranges** by weight. Predominan
 ### Function Stack
 1. **Food production:** High-yielding, nutritionally dense berry crop
 2. **Wildlife habitat:** Dense branching shelters birds/small mammals; early flowers support pollinators
-3. **Soil improvement:** Prevents erosion on slopes; leaf litter adds organic matter
+3. **Soil improvement:** Prevents erosion on slopes; leaf litter adds [[hamilton-composting-and-organic-matter-management]]
 4. **Understory production:** Thrives in partial shade beneath fruit trees
-5. **Wind protection:** Dense canopy buffers wind in hedgerows
+5. **[[cervantes-wind-protection-outdoor-cannabis]]:** Dense canopy buffers wind in hedgerows
 
 ### Polyculture Integration
 - **Fruit tree understory:** Beneath apple, pear, or plum trees at 2–3 m spacing
@@ -131,4 +131,4 @@ Blackcurrants contain **3–4× the vitamin C of oranges** by weight. Predominan
 - [[ribes-rubrum]]
 
 - [[caragana-arborescens]]
-- [[hippophae-rhamnoides]]
+- hippophae-rhamnoides

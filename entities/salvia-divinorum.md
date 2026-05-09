@@ -1,5 +1,5 @@
 ---
-title: "Salvia divinorum"
+title: "golden-guide-salvia-divinorum-and-diviner-sage"
 created: 2026-04-28
 updated: 2026-04-28
 type: species
@@ -12,7 +12,7 @@ tags:
   - medicinal
 sources:
   - Valdés LJ, Díaz JL, Paul AG. (1982). "Ethnopharmacology of Ska María Pastora." Journal of Ethnopharmacology 5(3): 287–312.
-  - Siebert DJ. (1994). "Salvia divinorum and Salvinorin A." Journal of Psychoactive Drugs 26(3): 279–281.
+  - Siebert DJ. (1994). "Salvia [[salvia-divinorum-and-salvinorin-a]] A." Journal of Psychoactive Drugs 26(3): 279–281.
   - Roth BL, et al. (2002). "Salvinorin A: a potent naturally occurring nonnitrogenous κ-opioid receptor agonist." PNAS 99(18): 11934–11939.
   - González D, et al. (2006). "Ethnobotany of Salvia divinorum." Economic Botany 60(3): 253–262.
   - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:580352-1
@@ -66,11 +66,11 @@ The psychoactivity of S. divinorum is attributed primarily to neoclerodane diter
 
 **Salvinorin C, D, E, F:** Minor neoclerodane diterpenoids present in trace amounts. Salvinorin C shows some KOR affinity but at much lower potency than salvinorin A.
 
-**Other constituents:** The leaves contain essential oils, flavonoids, and tannins, though these are not believed to contribute to psychoactivity.
+**Other constituents:** The leaves contain [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]], flavonoids, and tannins, though these are not believed to contribute to psychoactivity.
 
 ## Pharmacology
 
-Salvinorin A produces an intense but short-acting psychedelic experience mediated exclusively through κ-opioid receptor activation. This mechanism is fundamentally different from the 5-HT2A-mediated effects of classical psychedelics like psilocybin and LSD.
+Salvinorin A produces an intense but short-acting [[leary-psychedelic-experience-bardo-mapping]] mediated exclusively through κ-opioid receptor activation. This mechanism is fundamentally different from the 5-HT2A-mediated effects of classical psychedelics like psilocybin and LSD.
 
 **Route of administration:** Oral/sublingual absorption of salvinorin A is poor due to rapid enzymatic degradation in the gastrointestinal tract. The traditional Mazatec method of chewing fresh leaves maximizes sublingual absorption. Modern users typically vaporize dried leaf or concentrated salvinorin A extract for rapid pulmonary absorption.
 
@@ -82,7 +82,7 @@ Salvinorin A produces an intense but short-acting psychedelic experience mediate
 
 ## Cultivation
 
-S. divinorum is propagated almost exclusively through vegetative cuttings due to its inability to produce viable seed in cultivation. Stem cuttings (15–30 cm) root readily in water or moist potting mix within 2–4 weeks.
+S. divinorum is propagated almost exclusively through vegetative cuttings due to its inability to produce viable seed in cultivation. Stem cuttings (15–30 cm) root readily in water or moist [[solomon-potting-mix-and-seedling-soil-recipe]] within 2–4 weeks.
 
 The plant requires high humidity (60–80%), indirect light, and consistently moist but well-drained soil. It is sensitive to both drought and waterlogging. Optimal growth temperature is 18–25°C. It does not tolerate frost and must be protected below 10°C.
 
@@ -90,7 +90,7 @@ Cultivated plants can grow rapidly under favorable conditions, producing multipl
 
 Leaves are harvested and dried at room temperature in darkness to preserve salvinorin A content, which degrades with prolonged UV exposure. Fresh leaves contain the highest concentration of active compounds. Dried leaf potency declines slowly over 1–2 years when stored in cool, dark conditions.
 
-A single healthy plant can produce 50–100 g of dried leaf material per year under optimal indoor cultivation conditions.
+A single healthy plant can produce 50–100 g of dried leaf material per year under optimal [[cannabis-sativa-indoor-cultivation-techniques]] conditions.
 
 ## Ethnobotanical Use
 

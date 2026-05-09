@@ -1,5 +1,5 @@
 ---
-title: "When Should I Flush My Cannabis Plants Before Harvest?"
+title: "When Should I query when should i flush my cannabis plants before harvest Plants Before Harvest?"
 created: 2026-04-28
 tags: [query, cannabis, harvesting, nutrients, flushing]
 date: 2026-04-25
@@ -19,7 +19,7 @@ nutrient programs and less critical in living soil or organic systems.
 
 ## Detailed Explanation
 
-Flushing is one of the most debated topics in cannabis cultivation, yet it
+Flushing is one of the most debated topics in [[query-how-does-no-till-cannabis-cultivation-work]], yet it
 remains a standard practice for most growers using bottled or mineral-based
 nutrients. The basic concept is straightforward: by stopping all nutrient inputs
 and providing only plain water during the final phase of flowering, the plant is
@@ -43,7 +43,7 @@ faster or slower than anticipated.
 The [[cannabis-terpene-and-aroma-chemistry-clarke]] during this
 period; many growers notice that the aroma becomes more complex and refined as
 the flush progresses, suggesting that the plant is reallocating resources toward
-resin production rather than vegetative processes.
+[[cannabis-glandular-trichome-types-resin-production-clarke]] rather than vegetative processes.
 
 For growers using living soil or organic methods, flushing is often unnecessary
 or even counterproductive. In a [[query-dwc-vs-coco-coir-vs-soil-cannabis-growing]] and hydroponic
@@ -65,11 +65,11 @@ drawing on the plant's internal reserves. Finally, the ash from a test sample
 should burn lighter and more evenly compared to unflushed material.
 
 ## Key Points
-- Start flushing 7 to 14 days before harvest when using synthetic nutrients
-- Time the flush based on your [[cannabis-harvest-timing-visual-cues]] to refine your harvest timing
+- Start flushing 7 to 14 days before harvest when using [[query-organic-vs-synthetic-nutrients-cannabis]]
+- Time the flush based on your [[cannabis-harvest-timing-visual-cues]] to refine your [[cannabis-harvest-timing-visual-cues]]
 - Living soil and organic growers typically do not need to flush their plants
 - Monitor leaf fade and adjust flush duration based on [[cannabis-ph-management-and-soil-flushing]] even during the plain-water flush phase
-- Coco coir and hydroponic growers benefit most from a thorough pre-harvest flush
+- [[comparison-coco-coir-cannabis-vs-peat-free-gardening]] and hydroponic growers benefit most from a thorough pre-harvest flush
 
 ## Related
 
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -4,12 +4,13 @@ created: 2026-04-17
 updated: 2026-04-18
 type: entity
 tags: [psychedelics]
-sources: []
+sources:
+  sources: []
 ---
 
 # MDAI — 5,6-Methylenedioxy-2-aminoindane
 
-MDAI is a synthetic phenethylamine analogue developed as a non-neurotoxic entactogen substitute for MDMA. It is not a PIHKAL entry but is included here due to its significance as a research chemical in the phenethylamine family.
+MDAI is a synthetic phenethylamine analogue developed as a non-neurotoxic entactogen substitute for MDMA. It is not a [[2c-b-pihkal-entry-20]] but is included here due to its significance as a research chemical in the phenethylamine family.
 
 ## Chemical Identity
 
@@ -34,7 +35,7 @@ MDAI was designed to act as a selective serotonin-releasing agent (SSRA) without
 - Serotonin release: strong (primary mechanism)
 - Dopamine release: minimal (designed to be absent)
 - Norepinephrine release: minimal
-- MAO inhibition: none
+- [[tihkal-oral-activity-mao-inhibition]]: none
 
 Reported effects include:
 - Mild to moderate entactogenic effects similar to MDMA but notably gentler
@@ -46,7 +47,7 @@ Reported effects include:
 
 ## Pharmacology
 
-MDAI was rationally designed as a non-neurotoxic alternative to MDMA. The indane ring constrains the molecule, preventing the formation of reactive metabolites that are responsible for MDMA's serotonergic neurotoxicity. The mechanism of action is primarily through serotonin transporter (SERT) activation — it acts as a serotonin-releasing agent and reuptake inhibitor.
+MDAI was rationally designed as a non-neurotoxic alternative to MDMA. The indane ring constrains the molecule, preventing the formation of [[reactive-metabolites-and-bioactivation-toxicology]] that are responsible for MDMA's [[mdma-serotonergic-neurotoxicity]]. The mechanism of action is primarily through serotonin transporter (SERT) activation — it acts as a serotonin-releasing agent and reuptake inhibitor.
 
 In animal studies, MDAI showed:
 - Potent serotonin release with ED50 values in the low micromolar range

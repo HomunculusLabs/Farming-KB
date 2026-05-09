@@ -1,5 +1,5 @@
 ---
-title: Chaga (Inonotus Obliquus) — Medicinal Profile
+title: Chaga (chaga inonotus obliquus medicinal profile) — Medicinal Profile
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -7,17 +7,17 @@ tags: [reference]
 sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
 ---
 
-**Source:** Mycelium Running (Paul Stamets) | **Updated:** 2026-04-18
+**Source:** [[woodlovers-mycelium-running-pathway-technique]] (Paul Stamets) | **Updated:** 2026-04-18
 
 ## Overview
 
-Chaga, also known as clinker polypore, cinder conk, tschaga (Russian), or kabanoanatake (Japanese), is a sclerotium-forming fungus that grows primarily on living birch trees in boreal forests. Used for centuries in eastern Europe and Eurasia as tea, medicine, and fire-starter. Approved as an anticancer drug (befungin) in Russia since 1955. See also [[medicinal-mushroom-extraction-preparation]], and [[chaga-inonotus-obliquus]]
+Chaga, also known as clinker polypore, cinder conk, tschaga (Russian), or kabanoanatake (Japanese), is a sclerotium-forming fungus that grows primarily on living birch trees in [[fungal-diversity-boreal-forests-taiga]]. Used for centuries in eastern Europe and Eurasia as tea, medicine, and fire-starter. Approved as an anticancer drug (befungin) in Russia since 1955. See also [[medicinal-mushroom-extraction-preparation]], and [[chaga-inonotus-obliquus]]
 
 - [[inonotus-obliquus]] Topics
 
 - [[medicinal-mushroom-extraction-preparation]]
 - [[turkey-tail-trametes-versicolor]]
-- [[casing-layer-preparation]]
+- casing-layer-preparation
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 ## Practical Applications
 
@@ -96,4 +96,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -34,7 +34,7 @@ annually, with Japan, China, and South Korea accounting for the vast majority of
 cultivation. Nori is consumed as dried sheets used in sushi rolls, onigiri,
 and as a seasoning.
 
-The genus has a unique **heteromorphic biphasic life cycle** alternating between
+The genus has a unique **heteromorphic biphasic [[bloomfield-fungal-life-cycle-spiral-versus-circle]]** alternating between
 a microscopic filamentous **conchocelis phase** (living within calcium carbonate
 substrate such as shells) and a macroscopic leafy **gametophyte phase** (the
 harvested nori blade). This complex life cycle was not fully understood until
@@ -105,7 +105,7 @@ and Chinese operations use similar but increasingly mechanized systems.
 Dried Pyropia (nori) is exceptionally nutritious. Per 100 g dry weight, nori
 provides approximately 35–50 g protein (among the highest of any food), making
 it one of the most protein-rich plant sources available. The protein has a
-favorable amino acid profile with high levels of essential amino acids.
+favorable [[cho-fish-amino-acid-preparation]] profile with high levels of essential amino acids.
 
 Nori is rich in **vitamins** including vitamin A (as beta-carotene), vitamin B12
 (notably one of the few reliable plant sources, though bioavailability is

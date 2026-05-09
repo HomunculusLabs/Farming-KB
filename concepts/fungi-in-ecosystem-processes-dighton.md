@@ -1,5 +1,5 @@
 ---
-title: Fungi in Ecosystem Processes (Dighton) — Overview
+title: Fungi in fungal-ecosystem-processes-overview (Dighton) — Overview
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -15,7 +15,7 @@ Source: John Dighton, *Fungi in Ecosystem Processes* (2003). Academic text cover
 
 ## Scope of the Book
 
-Dighton's book systematically examines how fungi drive ecosystem processes across all major habitat types. It is organized around the concept of ecosystem services provided by fungi, building from nutrient cycling through primary production, plant community structure, secondary production, and pollutant modification. The work draws on over 1,000 references spanning mycology, ecology, soil science, and plant physiology.
+Dighton's book systematically examines how fungi drive ecosystem processes across all major habitat types. It is organized around the concept of [[biodiversity-of-fungi-ecosystem-services-agriculture]] provided by fungi, building from nutrient cycling through primary production, plant community structure, secondary production, and pollutant modification. The work draws on over 1,000 references spanning mycology, ecology, soil science, and plant physiology.
 
 ## Ecosystem Services Framework
 
@@ -29,8 +29,8 @@ The book uses a unifying framework of ecosystem services (Table 2.1 / Table 3.1)
 **Soil Fertility**
 - Decomposition of organic residues by saprotrophs, [[fungi-in-the-environment-fungal-endophytes-plant-communities]]
 - Nutrient mineralization and nutrient retention within ecosystems
-- Soil stability through aggregate formation by [[clavicipitaceous-grass-endophytes]]
-- Dark septate endophytes enhancing phosphate acquisition in stressed environments
+- Soil stability through [[soil-aggregate-formation-fungal-contributions]] by [[clavicipitaceous-grass-endophytes]]
+- Dark [[dark-septate-endophytes-root-colonizing-fungi]] enhancing phosphate acquisition in stressed environments
 
 **Plant Community Structure**
 - Plant-plant interactions mediated by mycorrhizae and pathogens
@@ -58,7 +58,7 @@ Dighton's own research features prominently throughout the text:
 
 - Phosphorus uptake by different ectomycorrhizal-ecology|ectomycorrhizal species under field-grown birch (Dighton et al., 1990) — demonstrated 2.5-fold variation in P acquisition efficiency between Hebeloma, Lactarius, and Laccaria
 - Leaf litter patch effects on mycorrhizal community structure in New Jersey pine barrens (Dighton et al., 2000) — showed that litter patch size and composition select for different ECM communities
-- Oak-pine leaf litter mixing effects on mycorrhizal phosphatase activity (Conn and Dighton, 2000) — demonstrated functional adaptation of mycorrhizae to phosphorus-immobilizing litter
+- Oak-pine leaf litter mixing effects on mycorrhizal [[mycorrhizal-phosphatase-activity-elf97-detection]] (Conn and Dighton, 2000) — demonstrated functional adaptation of mycorrhizae to phosphorus-immobilizing litter
 - Ectomycorrhizal diversity effects on birch seedling performance (Baxter and Dighton, 2001) — established that mycorrhizal diversity per se, not species identity, drives plant responses
 
 ## Organization of Content
@@ -78,7 +78,7 @@ The book has particular relevance for understanding:
 - How [[fungal-biodiversity-by-ecosystem]] on ecosystem function — with direct implications for biodiversity-friendly farming
 - Post-harvest residue decomposition and nutrient immobilization in cropping systems — C:N ratio determines whether residues release or tie up nitrogen
 - Impacts of agricultural disturbance on soil fungal communities — tillage, fertilization, and pesticide use shift fungal:bacterial ratios
-- Salinity effects from irrigation on mycorrhizal function — potentially limiting crop performance in irrigated systems
+- [[dighton-salinity-effects-fungal-communities]] from irrigation on mycorrhizal function — potentially limiting crop performance in irrigated systems
 - Grass endophyte technology for pest-resistant pastures — novel endophytes separate insect defense from mammalian toxicity
 
 ## Cross-Cutting Themes
@@ -102,5 +102,5 @@ Several themes recur across all chapters:
 - [[fungal-biodiversity-ecosystem-function]]
 - [[arbuscular-mycorrhizal-fungi]]
 - [[fungal-contributions-soil-structure]]
-- [[fungal-community-ecology]]
+- fungal-community-ecology
 - [[fungal-decomposition-wood-litter]]

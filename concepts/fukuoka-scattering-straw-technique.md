@@ -5,7 +5,8 @@ updated: 2026-04-19
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 Updated: 2026-04-18
@@ -32,7 +33,7 @@ The university professor's failure is a perfect illustration of Fukuoka's point.
 
 ## Practical Implications for Modern Farmers
 
-The scattering straw technique is perhaps the most accessible entry point into natural farming for conventional farmers. It requires no special equipment, no new inputs, and no additional cost — it actually reduces costs by eliminating the need for composting, fertilizer, and herbicides. The only requirement is a willingness to let the field look "messy" and to trust that nature will handle the rest.
+The scattering straw technique is perhaps the most accessible entry point into [[comparison-natural-farming-vs-permaculture]] for conventional farmers. It requires no special equipment, no new inputs, and no additional cost — it actually reduces costs by eliminating the need for composting, fertilizer, and herbicides. The only requirement is a willingness to let the field look "messy" and to trust that nature will handle the rest.
 
 This accessibility connects to [[fukuoka-barley-clover-cultivation]]
 
@@ -46,11 +47,11 @@ This accessibility connects to [[fukuoka-barley-clover-cultivation]]
 
 Updated: 2026-04-18
 
-Fukuoka's second trip to America in 1986, seven years after his first visit in 1979, confirmed his earlier warnings about the decline of American agriculture and revealed emerging signs of an agricultural revolution based on natural farming principles.
+Fukuoka's second trip to America in 1986, seven years after his first visit in 1979, confirmed his earlier warnings about the decline of [[fukuoka-american-agriculture-fields-of-death]] and revealed emerging signs of an agricultural revolution based on natural [[natural-farming-principles-fukuoka]].
 
 ## America's Declining Land
 
-About 30% of North America consists of arid land; the central grain belt accounts for another 30% severely depleted; only about 30% remains as green plains. Forests with trees large enough for lumber cover only about 10% of the land area. When Fukuoka sounded off about how nature in America was artificial and how farm crops were petroleum-based products in 1979, he was proven right by 1986.
+About 30% of [[psilocybin-north-america-pacific-northwest]] consists of arid land; the central grain belt accounts for another 30% severely depleted; only about 30% remains as green plains. Forests with trees large enough for lumber cover only about 10% of the land area. When Fukuoka sounded off about how nature in America was artificial and how farm crops were petroleum-based products in 1979, he was proven right by 1986.
 
 ## Soil Temperature Crisis
 
@@ -74,7 +75,7 @@ Despite the decline, Fukuoka sensed the first signs of an agricultural revolutio
 
 - These markets feature diverse ethnic foods (Italian, Indian, French, Japanese) alongside local produce
 
-- Americans have begun turning toward subtle Oriental flavors, farming methods, and ways of life
+- Americans have begun turning toward subtle Oriental flavors, [[natural-farming-methods-comparison]], and ways of life
 
 - Japanese cuisine has firmly established itself as delicious and healthful
 
@@ -92,6 +93,6 @@ This chapter illustrates Fukuoka's core [[fukuoka-nature-as-teacher]] — nature
 
 ## Comparison to Western Approaches
 
-Western agriculture of the 1980s was beginning to recognize the failures of chemical-intensive farming, but the response was largely organic farming — still dependent on human knowledge and inputs. Fukuoka's natural farming goes further by eliminating plowing, fertilizers, and even weeding. The American natural foods movement, while encouraging, was still primarily about consumer choice rather than fundamental agricultural reform. Fukuoka saw that true change required transforming farming practices at the source, not merely changing what people buy at markets.
+Western agriculture of the 1980s was beginning to recognize the failures of chemical-intensive farming, but the response was largely [[coleman-deep-organic-farming-philosophy]] — still dependent on human knowledge and inputs. Fukuoka's natural farming goes further by eliminating plowing, fertilizers, and even weeding. The American natural foods movement, while encouraging, was still primarily about consumer choice rather than fundamental agricultural reform. Fukuoka saw that true change required transforming farming practices at the source, not merely changing what people buy at markets.
 
 ## Practical Implications

@@ -1,16 +1,13 @@
 ---
-title: "Fungal Species Abundance and Diversity Indices"
+title: "biodiversity fungal species abundance diversity and fungal-diversity-indices-community-analysis"
 created: 2026-04-28
-tags: [[mycology, diversity-indices, species-richness, fungal-ecology, biodiversity]
+tags: [mycology, diversity-indices, species-richness, fungal-ecology, biodiversity]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 type: concept
 ---
-
-# Fungal Species Abundance and Diversity Indices
-
-Quantifying [[biodiversity-fungi-soil-fungal-communities]] across
+# Fungal Species Abundance and Diversity Indices Quantifying [[biodiversity-fungi-soil-fungal-communities]] across
 habitats, assessing the impact of environmental disturbances, and
 tracking changes [[biodiversity-fungal-biodiversity-estimation-methods]], defined as an enumeration of species in a
 particular sample, area, habitat, or substratum. Three kinds of species
@@ -25,7 +22,7 @@ richness can be distinguished:
 
 Environmental variation effects on species density and numerical
 species richness are scale-dependent. Most ecological studies of
-fungi cover species densities as a consequence of sampling design.
+fungi cover species densities as a consequence of [[macrofungal-sampling-design-plots-transects]].
 
 ## Species-Effort Relationships and Collector's Curves
 
@@ -88,7 +85,7 @@ The Shannon evenness index (E = H'/ln S) and Hill's evenness
 
 Species-abundance models provide the most complete [[beta-diversity-root-soil-compartments-cannabis]] can be measured
 using binary data, such as the Whittaker index. These concepts are
-fundamental to understanding how fungal communities vary across
+fundamental to understanding how [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] vary across
 [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]], investigators should:
 define the scale and attribute of richness being evaluated; generate
 collector's curves to determine adequate sample sizes; use rarefaction

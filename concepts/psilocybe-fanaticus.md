@@ -1,17 +1,13 @@
 ---
 title: Psilocybe Fanaticus
 created: 2026-04-28
-tags: [[mycology, history, cultivation, legal, pioneer]
+tags: [mycology, history, cultivation, legal, pioneer]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md]
 type: concept
 ---
-
-# Psilocybe Fanaticus
-
-**Psilocybe Fanaticus** was the pseudonym of Robert McPherson, a pioneering
-figure in the amateur mycology community best known for developing the [[query-spore-syringes-vs-liquid-culture]] through his business of the same name.
+# Psilocybe Fanaticus **Psilocybe Fanaticus** was the pseudonym of Robert McPherson, a pioneering figure in the amateur mycology community best known for developing the [[query-spore-syringes-vs-liquid-culture]] through his business of the same name.
 Operating from the Pacific Northwest in the late 1990s and early 2000s,
 McPherson's work fundamentally changed the accessibility of [[spore-syringe]]s in the mid-1990s through his
 website, fanaticus.com, under the business name Psylocybe Fanaticus (often
@@ -65,6 +61,7 @@ continue to influence modern cultivation techniques. The Shotgun Fruiting Chambe
 specifically for use with PF Tek cakes. The online communities that grew up
 around sharing and refining PF Tek methods became the foundation of modern
 mycological knowledge-sharing platforms like Shroomery.org and Mycotopia.
+
 ## Practical Considerations
 
 Successful implementation of Psilocybe Fanaticus requires attention to
@@ -84,3 +81,5 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+- [[singh-mushroom-spawn-production-grain-spawn]]

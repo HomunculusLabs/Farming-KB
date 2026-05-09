@@ -1,5 +1,5 @@
 ---
-title: Psilocin and Psilocybin — Chemistry
+title: tryptamine-chemistry-psilocin-and-psilocybin-synthesis — Chemistry
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/shulgin-a-tihkal.md]
 
 ## 4-HO-DMT — Psilocin and Psilocybin
 
-Psilocin (4-hydroxy-N,N-dimethyltryptamine, 4-HO-DMT) and its phosphate ester psilocybin are the principal psychoactive alkaloids found in Psilocybe, Panaeolus, Inocybe, and Conocybe mushrooms. They were first isolated from Psilocybe mexicana by Albert Hofmann in 1958.
+Psilocin (4-hydroxy-N,N-dimethyltryptamine, 4-HO-DMT) and its phosphate ester psilocybin are the principal psychoactive alkaloids found in Psilocybe, Panaeolus, Inocybe, and Conocybe mushrooms. They were first isolated from [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] by Albert Hofmann in 1958.
 
 ### Chemical Relationship
 
@@ -22,9 +22,9 @@ Shulgin found psilocin and psilocybin "completely interchangeable as to their ph
 
 ### Synthesis
 
-The modern synthesis (Shulgin's route) proceeds from 4-acetoxyindole via oxalylation with oxalyl chloride, amidation with dimethylamine, and lithium aluminum hydride (LAH) reduction. The 4-acetoxy protecting group eliminates the need for the older O-benzyl ether route (which required an additional reductive debenzylation step).
+The modern synthesis (Shulgin's route) proceeds from 4-acetoxyindole via oxalylation with [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]], amidation with dimethylamine, and lithium aluminum hydride (LAH) reduction. The 4-acetoxy protecting group eliminates the need for the older O-benzyl ether route (which required an additional reductive debenzylation step).
 
-Psilocybin synthesis requires two additional steps beyond psilocin: phosphorylation with dibenzyl chlorophosphonate followed by catalytic debenzylation. Yields for the phosphorylation are poor (often less than 10%), and the phosphorylating agent must always be used in solution as it is unstable in pure form.
+[[psilocin-psilocybin-synthesis-shirota]] requires two additional steps beyond psilocin: phosphorylation with dibenzyl chlorophosphonate followed by catalytic debenzylation. Yields for the phosphorylation are poor (often less than 10%), and the phosphorylating agent must always be used in solution as it is unstable in pure form.
 
 ### Dosage
 
@@ -38,7 +38,7 @@ Psilocybin synthesis requires two additional steps beyond psilocin: phosphorylat
 
 At 10 mg orally, effects begin in ~40 minutes: brilliant colors, rapid visual motion, patterns and textures with eyes closed. Nausea is common, particularly at higher doses. At 15 mg, strong visual distortions, "2x-removed hallucinations" (visualizing environments that don't exist, even while aware of the actual setting). Described as a "night-time drug" because daylight washes out the visual effects.
 
-Dried Psilocybe cubensis mushrooms: 1.5 g produces light speckled patterning; 3.5 g produces waves of dark earth-colored visuals with significant nausea.
+Dried [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] mushrooms: 1.5 g produces light speckled patterning; 3.5 g produces waves of dark earth-colored visuals with significant nausea.
 
 ### Why It Is Orally Active — Unlike DMT
 
@@ -47,7 +47,7 @@ The critical difference between psilocin (orally active at 10-20 mg) and [[dmt-c
 ### Mushroom vs. Pure Chemical
 
 Shulgin noted significant uncertainties when equating the pure chemicals with their mushroom sources:
-- Many species qualify as "magic mushrooms" with varying alkaloid profiles
+- Many species qualify as "[[guzman-magic-mushrooms-african-species]]" with varying alkaloid profiles
 - Identification and preservation of dried material introduces unknowns
 - Psilocin degrades in dried material while psilocybin persists
 - Baeocystin and norbaeocystin occur in varying proportions and are pharmacologically unexplored
@@ -58,6 +58,8 @@ Shulgin noted significant uncertainties when equating the pure chemicals with th
 Psilocin and psilocybin are Schedule I drugs under the US Controlled Substances Act. Interestingly, no mushroom genera (Psilocybe, Panaeolus, Inocybe, Stropharia) or individual species are explicitly named in federal statute. However, since the fruiting bodies contain Schedule I substances, growing or possessing them can be treated as manufacture or distribution of controlled substances.
 
 ## See Also
+
+- [[psilocybin-and-psilocin-in-magic-mushrooms]]
 
 - [[tryptamine-family-overview]]
 - [[tihkal-introduction-and-methodology]]
@@ -84,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

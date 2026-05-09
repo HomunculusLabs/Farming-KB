@@ -1,5 +1,5 @@
 ---
-title: fungal chemical signaling
+title: fungal plant-hormones-and-chemical-signaling-systems
 created: 2026-04-28
 tags:
   - mycology
@@ -17,7 +17,7 @@ type: concept
 # Fungal Chemical Signaling
 
 Fungi communicate with one another and with other organisms through an
-elaborate system of chemical signals. These molecular messages, often
+elaborate system of [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]. These molecular messages, often
 termed pheromones, hormones, or morphogens, coordinate reproduction,
 regulate development, and mediate interactions between fungi and their
 hosts or partners. The study of fungal chemical signaling has revealed
@@ -34,7 +34,7 @@ signals to the female. Sensing the success of her seductive behavior,
 the female forms egg sacs (oogonia) and secretes more antheridiol to
 attract additional males, becoming entangled in a cage of male branches.
 
-Remarkably, the chemical structures of antheridiol and oogoniol are
+Remarkably, the [[plants-of-the-gods-chemical-structures-hallucinogens]] of antheridiol and oogoniol are
 very similar to human sex hormones including estrogen, progesterone,
 and testosterone. All are ring-shaped lipids called steroids, employed
 for relaying messages between cells. This similarity is extraordinary
@@ -89,7 +89,7 @@ unstable environments where rapid reproduction takes priority over
 genetic recombination. The primary advantage may be the production of
 thick-walled eggs that serve as survival capsules, allowing the
 organism to persist in drying mud. This environmental regulation of
-mating strategy demonstrates the sophistication of fungal responses to
+mating strategy demonstrates the sophistication of [[dighton-fungal-responses-climate-change]] to
 ecological conditions.
 
 ## Nematode Traps and Siren Songs
@@ -106,7 +106,7 @@ leads prey to their doom.
 The study of fungal chemical signaling has a contentious history.
 Marcus Hartog, a student of Anton de Bary ("the founder of modern
 mycology") at Strasbourg, assaulted the work of competitors in
-published commentaries on fungal reproduction. He dismissed evidence
+published commentaries on [[bloomfield-fungal-reproduction-and-chemical-communication]]. He dismissed evidence
 that water mold eggs were fertilized by male antheridia, comparing the
 idea to the passage of spiritual mediums "through brick-walls and
 closed doors."
@@ -123,12 +123,12 @@ corroborated his findings.
 ## See Also
 
 - [[plant-fungal-signaling-mycorrhiza]]
-- [[fungal-pheromones-and-sexual-signaling]]
+- fungal-pheromones-and-sexual-signaling
 
 - [Insect-Fungi Interactions]([[insect-fungi-interactions]].md)
 - [Fungal Life Cycles]([[fungal-life-cycles]].md)
-- [Mycelium Network]([[mycelium-network]].md)
-- [Fungal Symbiosis with Plants]([[fungal-symbiosis-with-plants]].md)
+- [Mycelium Network](mycelium-network.md)
+- [[gadd-beetle-gut-fungal-symbiosis-and-coevolution]] with Plants]([[fungal-symbiosis-with-plants]].md)
 
 ## References
 

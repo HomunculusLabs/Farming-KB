@@ -1,5 +1,5 @@
 ---
-title: "plant response to sound and vibration"
+title: "plant plant response to sound and vibration and vibration"
 created: 2026-04-28
 tags: [plant-biology, sound-perception, vibration, mechanosensing]
 date: 2026-04-28
@@ -10,7 +10,7 @@ type: concept
 
 # Plant Response to Sound and Vibration
 
-Chapter 4 of *What a and light perception* tackles one of the most controversial and
+Chapter 4 of *What a and [[plant-vision-and-light-perception-mechanisms]]* tackles one of the most controversial and
 fascinating questions in plant biology: can plants hedaniel-chamovitzvitz
 approaches this question with scientific rigour, distinguishing between
 popular myths about plants enjoying music and the genuine evidence for plant
@@ -82,7 +82,7 @@ surrounding soil.
 Some researchers have proposed that certain plant structures might function as
 analogous to the animal cochlea, amplifying and filtering specific vibration
 frequencies. Trichomes (tiny hair-like structures on leaf surfaces), the
-hairs on root tips, and even the structure of alpha glucan fungal themselves could all
+hairs on root tips, and even the structure of alpha [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] themselves could all
 potentially act as frequency-selective mechanical resonators.
 
 In corn plants, the stigma (silk) has been proposed as a possible sound-

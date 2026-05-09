@@ -1,5 +1,5 @@
 ---
-title: Jadam Cover Crop Soil Temperature Management
+title: Jadam coleman-cover-crop-rotation-and-soil-health Soil Temperature Management
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -13,13 +13,13 @@ Youngsang Cho identifies soil temperature management as the single most importan
 
 ## Relationship to Other Systems
 
-Unlike [[fukuoka-white-clover-ground-cover]] which emphasize permanent living mulch, JADAM uses a cut-and-return approach. The [[jadam-soil-surface-management-no-till]] Concepts
+Unlike [[fukuoka-white-clover-ground-cover]] which emphasize permanent [[comparison-living-mulch-vs-cover-crops]], JADAM uses a cut-and-return approach. The [[jadam-soil-surface-management-no-till]] Concepts
 
 - [[jadam-cover-crop-method]]
 - [[cover-crop-species-comparison]]
 - [[green-manure-cover-crops]]
 
-The cumulative effect of cover cropping -- moderated temperatures, deeper soils, more organic matter, and reduced pest pressure -- creates a farming environment that becomes more productive and resilient with each passing season.
+The cumulative effect of [[fukuoka-clover-cover-cropping-soil-ecology]] -- moderated temperatures, deeper soils, more [[hamilton-composting-and-organic-matter-management]], and reduced pest pressure -- creates a farming environment that becomes more productive and resilient with each passing season.
 
 Farmers who commit to this practice typically find that their dependency on external inputs decreases steadily, confirming the core JADAM principle that nature itself provides everything the soil needs when given the right conditions.
 ## Practical Applications
@@ -99,4 +99,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

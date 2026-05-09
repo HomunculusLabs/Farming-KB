@@ -32,7 +32,7 @@ created: 2026-05-07
 
 ## Overview
 
-Bacio Gelato (also labeled Gelato #41) is a premium indica-dominant hybrid cannabis strain from the Cookie family lineage. It is one of the 33 numbered phenotypes selected from the original Gelato cross (Sunset Sherbet × Girl Scout Cookies Thin Mint), bred by Bay Area genetics legend Sherbinski in collaboration with the Cookies brand.
+Bacio Gelato (also labeled Gelato #41) is a premium indica-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] from the Cookie family lineage. It is one of the 33 numbered phenotypes selected from the original Gelato cross (Sunset Sherbet × Girl Scout Cookies Thin Mint), bred by Bay Area genetics legend Sherbinski in collaboration with the Cookies brand.
 
 Bacio stands out among the Gelato phenotypes for its exceptionally sweet, dessert-like aroma combining cookie dough, lavender, and dark berry notes. It consistently tests at 25–30% THC, placing it among the highest-potency Gelato selections.
 
@@ -43,7 +43,7 @@ The strain has become a staple in California licensed dispensaries and is widely
 Bacio Gelato descends from two legendary West Coast genetics:
 
 - **Sunset Sherbet** (Girl Scout Cookies × Pink Panties) — the maternal contributor providing sweet berry and sherbet aroma, relaxed body effects, and purple coloration potential.
-- **Girl Scout Cookies Thin Mint** (OG Kush × Durban Poison) — the paternal contributor providing cookie dough terpene profile, high resin production, and potent cerebral effects.
+- **Girl Scout Cookies Thin Mint** (OG Kush × Durban Poison) — the paternal contributor providing cookie dough terpene profile, high [[cannabis-glandular-trichome-types-resin-production-clarke]], and potent cerebral effects.
 
 Bacio is phenotype #41 from the original Gelato population, stabilized through selective breeding. It carries approximately 55/45 indica-to-sativa ratio, leaning slightly toward indica dominance.
 
@@ -51,7 +51,7 @@ Bacio is phenotype #41 from the original Gelato population, stabilized through s
 
 Buds are dense, chunky, and medium-to-large in size, with a classic Cookies-family structure featuring tightly packed calyxes and prominent orange pistils.
 
-The coloration is a striking mix of deep forest green and rich purple, with the purple hues intensifying under cooler nighttime temperatures during late flowering. A thick blanket of frosty white trichomes covers the entire surface, giving buds a silvery sheen.
+The coloration is a striking mix of deep [[trichoderma-forest-green-mold-guide]] and rich purple, with the purple hues intensifying under cooler nighttime temperatures during late flowering. A thick blanket of frosty white trichomes covers the entire surface, giving buds a silvery sheen.
 
 Trichome heads are large and bulbous, indicating high cannabinoid and terpene content. The resin production is heavy enough that buds feel sticky to the touch and leave residue on fingers.
 
@@ -77,7 +77,7 @@ Total THC typically ranges from 25–30%, with some phenotypes testing above 30%
 
 Minor cannabinoids including THCV, CBG, and CBC may be present in trace amounts, though Bacio has not been specifically profiled for minor cannabinoid content in published literature.
 
-The high THC content combined with the rich terpene profile produces strong entourage effects. Novice consumers should approach with caution due to the potency.
+The high THC content combined with the rich terpene profile produces strong [[beta-caryophyllene-entourage-effects-cannabis]]. Novice consumers should approach with caution due to the potency.
 
 ## Effects
 
@@ -95,7 +95,7 @@ Bacio Gelato performs best indoors under controlled conditions where temperature
 
 Flowering time is 8–9 weeks from the onset of 12/12 photoperiod. Yields are moderate to high, averaging 400–500 g/m² under optimal conditions. The plants respond well to SCROG and trellising techniques.
 
-The strain is moderately difficult to cultivate, requiring attention to nutrient requirements and humidity control. It is susceptible to powdery mildew in high-humidity environments. Clone-only genetics limit availability to cuttings from licensed cultivators.
+The strain is moderately difficult to cultivate, requiring attention to nutrient requirements and [[cervantes-humidity-control-dehumidification]]. It is susceptible to [[cervantes-powdery-mildew-prevention-treatment]] in high-humidity environments. Clone-only genetics limit availability to cuttings from licensed cultivators.
 
 ## Notable Phenotypes and Crosses
 

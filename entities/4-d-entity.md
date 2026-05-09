@@ -8,7 +8,7 @@ sources: []
 ---
 # 4-D
 
-4-D (3,5-dimethoxy-4-trideuteromethoxy-phenethylamine) is a deuterium-substituted analogue of mescaline described in PiHKAL entry #50.
+4-D (3,5-dimethoxy-4-trideuteromethoxy-phenethylamine) is a deuterium-substituted analogue of mescaline described in [[2c-b-pihkal-entry-20]] #50.
 
 It was synthesized to investigate whether replacing the 4-position methoxy group's hydrogen atoms with deuterium would alter the compound's pharmacological profile, potentially shedding light on mescaline metabolism and its possible relationship to endogenous schizophrenia.
 
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

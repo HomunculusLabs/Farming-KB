@@ -123,11 +123,13 @@ After collection, host insects are kept alive in refrigerated
 containers and dissected under a microscope to remove the
 hindgut, where Harpellales are typically attached to the
 chitinous lining. Water mounts on slides are preferred for
-microscopic examination to preserve fine details of trichospore
+[[fungal-microscopic-examination-mounting-media-techniques]] to preserve fine details of trichospore
 appendages.
 
 ## See Also
 
-- [[trichomycetes-gut-fungi]]
-- [[fungal-nematode-feeding-interactions]]
-- [[anaerobic-gut-fungi]] biology herbivore digestion
+- trichomycetes-gut-fungi
+- fungal-nematode-feeding-interactions
+- [[anaerobic-gut-fungi]] [[anaerobic-rumen-fungi-biology-herbivore-digestion]] digestion
+- [[gadd-rock-dwelling-fungi-epilithic-endolithic]]
+- [[heavy-metal-remediation-fungi]]

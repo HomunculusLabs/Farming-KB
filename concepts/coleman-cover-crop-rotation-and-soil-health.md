@@ -1,5 +1,5 @@
 ---
-title: Cover Crop Rotation and Soil Health
+title: Cover comparison-crop-rotation-vs-cover-cropping and Soil Health
 created: 2026-04-28
 tags:
   - cover-crops
@@ -16,11 +16,11 @@ type: concept
 
 # Cover Crop Rotation and Soil Health
 
-Eliot Coleman's approach to crop rotation and cover cropping has evolved
+Eliot Coleman's approach to crop rotation and [[fukuoka-clover-cover-cropping-soil-ecology]] has evolved
 significantly as his farming system intensified. From the traditional use
-of green manures to build soil, he has moved toward a system where
-intensive commercial cropping itself contributes organic matter to the
-soil, though he still values cover crops where they fit the rotation.
+of [[jeavons-green-manures-cover-crops]] to build soil, he has moved toward a system where
+intensive commercial cropping itself contributes [[hamilton-composting-and-organic-matter-management]] to the
+soil, though he still values [[gaias-garden-cover-crops-soil-building]] where they fit the rotation.
 
 ## The Role of Green Manures
 
@@ -28,7 +28,7 @@ In the early years of Four Season Farm, green manures were a central
 part of the soil-fertility-building program. Coleman grew green manures
 during the summer season to boost the soil up to high production
 standards. He was particularly interested in vigorous leguminous crops
-like black-eyed peas and cowpeas for greenhouse summer rotations, which
+like black-eyed peas and cowpeas for [[coleman-greenhouse-summer-crops]] rotations, which
 benefited from the heat, improved the soil, and were totally unrelated to
 the vegetable crops grown the rest of the year. The cowpeas were
 particularly successful. He notes that growing green manures in

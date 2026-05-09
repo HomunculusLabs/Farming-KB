@@ -75,7 +75,7 @@ Hawthorn extracts are generally well tolerated. Side effects are rare and mild, 
 
 Propagation is typically by seed (requiring 18-month stratification) or by semi-hardwood cuttings taken in late summer. Grafted cultivars ensure consistent flowering and fruiting characteristics.
 
-The species is widely planted as an ornamental hedging plant and specimen tree in European and North American gardens. Several double-flowered cultivars exist, including 'Paul's Scarlet' (deep red double flowers) and 'Crimson Cloud' (red-centred single flowers).
+The species is widely planted as an ornamental hedging plant and specimen tree in European and [[growing-gourmet-north-american-reishi-species]] gardens. Several double-flowered cultivars exist, including 'Paul's Scarlet' (deep red double flowers) and 'Crimson Cloud' (red-centred single flowers).
 
 In permaculture and agroforestry systems, hawthorn serves as a component of mixed hedges that provide windbreaks, livestock barriers, and wildlife habitat simultaneously.
 
@@ -101,10 +101,14 @@ Birds, particularly thrushes and waxwings, disperse the seeds widely, contributi
 
 ## See Also
 
+- [[crataegus-monogyna]]
+
+- [[crataegus-oxyacantha]]
+
 - [[crataegus-pinnatifida]]
 - [[prunus-avium]]
 - [[rubus-occidentalis]]
-- [[aronia-melanocarpa]]
+- aronia-melanocarpa
 - [[quercus-robur]]
 - [[betula-pendula]]
 - [[tilia-cordata]]

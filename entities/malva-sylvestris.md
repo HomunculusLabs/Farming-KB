@@ -92,7 +92,7 @@ Dioscorides described its wound-healing properties in *De Materia Medica*
 (c. 50–70 CE), and it remained a staple of European herbalism through the
 medieval period.
 
-**Key bioactive compounds:**
+**Key [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:**
 - Mucilage polysaccharides (rhamnogalacturonans, arabinans, glucans) —
   primary contributors to demulcent and emollient activity
 - Flavonoids including hypolaetin-8-glucoside, gossypetin, and quercetin
@@ -126,13 +126,13 @@ and calcium. The mucilage content provides soluble dietary fiber.
 
 ## Permaculture and Ecological Applications
 
-*Malva sylvestris* serves as a dynamic accumulator, drawing nutrients from
+*Malva sylvestris* serves as a [[nutrient-dynamic-accumulator-reference]], drawing nutrients from
 deep soil layers through its taproot. Its abundant leaf production makes it
 suitable for chop-and-drop mulching in permaculture systems.
 
 The flowers attract pollinators including bees and butterflies, and the seeds
 are consumed by finches and other small birds. The species acts as a ground
-cover in food forests and guild plantings, providing erosion control on
+cover in food forests and guild plantings, providing [[permplant-willows-salix-erosion-control-fodder]] on
 disturbed sites.
 
 ## See Also

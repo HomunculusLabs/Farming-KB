@@ -13,7 +13,7 @@ sources:
 
 # GMO (Garlic Cookies)
 
-**GMO**, also known as **Garlic Cookies**, is a potent indica-dominant hybrid cannabis strain created by crossing **Girl Scout Cookies (GSC)** with **Chemdawg**. Despite the unappealing name, GMO has earned a devoted following among cannabis enthusiasts for its extraordinarily pungent garlic-onion aroma, exceptionally high THC content, and powerful sedating effects. It is considered one of the most chemically pungent and physically heavy strains in modern cannabis genetics.
+**GMO**, also known as **Garlic Cookies**, is a potent indica-dominant hybrid cannabis strain created by crossing **Girl Scout Cookies (GSC)** with **Chemdawg**. Despite the unappealing name, GMO has earned a devoted following among cannabis enthusiasts for its extraordinarily pungent garlic-onion aroma, exceptionally high THC content, and powerful sedating effects. It is considered one of the most chemically pungent and physically heavy strains in modern [[vic-high-cannabis-genetics-mendelian-inheritance]].
 
 ## Genetic Lineage
 
@@ -27,7 +27,7 @@ sources:
 | **THC content** | 20–30% (average 25%) |
 | **CBD content** | < 1% |
 
-GMO sits at the intersection of two of the most influential genetic families in modern cannabis breeding. The Girl Scout Cookies lineage contributes its complex sweet, earthy, and musky terpene profile along with potent psychoactive effects, while Chemdawg contributes its signature diesel-fuel pungency, skunky sharpness, and heavy body effects. The combination produces a strain with one of the most divisive and memorable aromas in cannabis.
+GMO sits at the intersection of two of the most influential genetic families in modern [[oner-cannabis-breeding-fundamentals]]. The Girl Scout Cookies lineage contributes its complex sweet, earthy, and musky terpene profile along with potent psychoactive effects, while Chemdawg contributes its signature diesel-fuel pungency, skunky sharpness, and heavy body effects. The combination produces a strain with one of the most divisive and memorable aromas in cannabis.
 
 ## Aroma and Flavor
 
@@ -43,7 +43,7 @@ GMO's distinctive aroma and effects are driven by a unique terpene composition d
 
 - **Caryophyllene** (dominant): 0.5–1.5%. This sesquiterpene contributes spicy, peppery, and woody notes. As the only terpene known to directly activate CB2 cannabinoid receptors, caryophyllene adds anti-inflammatory properties.
 - **Limonene**: 0.3–1.0%. Provides subtle citrus brightness beneath the dominant savory notes. Contributes mood elevation and stress relief.
-- **Myrcene**: 0.3–0.8%. The most common cannabis terpene, adding earthy, herbal notes and enhancing the sedating, couch-lock effects.
+- **Myrcene**: 0.3–0.8%. The most common [[oner-cannabis-terpene-profiles-effects]], adding earthy, herbal notes and enhancing the sedating, couch-lock effects.
 - **Humulene**: Present in moderate amounts. Contributes woody, earthy aromas and may suppress appetite.
 - **Linalool**: Trace amounts. Adds a subtle floral-sweetness and may enhance the strain's relaxing qualities.
 
@@ -95,7 +95,7 @@ GMO is considered a moderately challenging strain to cultivate, best suited for 
 - **Outdoor yield:** 12–16 oz per plant
 - **Outdoor harvest:** Mid to late October (Northern Hemisphere)
 - **Plant height:** Medium-tall, with significant stretch during early flowering
-- **Grow difficulty:** Moderate. Requires careful nutrient management and environmental control.
+- **Grow difficulty:** Moderate. Requires careful [[green-cannabis-grow-bible-nutrient-management-ppm]] and [[eclss-environmental-control-life-support]].
 - **Climate preference:** Warm, dry Mediterranean climate outdoors. Thrives at 70–80°F during flowering.
 - **Nutrient needs:** Heavy feeder during flowering. CalMag supplementation recommended.
 - **Training:** Responds well to low-stress training (LST), scrog, and topping to control stretch and maximize light penetration.
@@ -112,17 +112,18 @@ GMO has gained significant traction in medical cannabis communities:
 
 - **Chronic pain:** High THC combined with caryophyllene's CB2 activation provides potent analgesic effects
 - **Insomnia and sleep disorders:** Heavy sedating properties make it effective for sleep induction
-- **Anxiety and PTSD:** Physical relaxation can ease somatic anxiety symptoms
+- **[[cannabis-anxiety-and-ptsd-treatment]]:** Physical relaxation can ease somatic anxiety symptoms
 - **Appetite disorders:** Strong orexigenic (appetite-stimulating) effects
 - **Muscle spasms:** Significant muscle-relaxant properties
 - **Inflammation:** Caryophyllene and myrcene contribute anti-inflammatory activity
 
 ## See Also
 
+- [[gmo-cookies]]
+
 - [[platinum-garlic]]
 
 - [[girl-scout-cookies]]
-- [[girl-scout-cookies]] — Foundational parent strain from the Cookie genetic line
 - [[og-kush]] — Influential ancestor in the Chemdawg lineage
 - [[granddaddy-purple]] — Another heavy indica with potent sedating effects
 - Caryophyllene — Dominant terpene in GMO's profile

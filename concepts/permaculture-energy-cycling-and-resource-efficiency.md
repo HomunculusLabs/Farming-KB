@@ -1,5 +1,5 @@
 ---
-title: Permaculture Energy Cycling and Resource Efficiency
+title: Permaculture permaculture energy cycling and resource efficiency and Resource Efficiency
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -10,7 +10,8 @@ tags:
   - nutrient-cycling
   - resource-efficiency
 sources:
-  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+  sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 # [[permaculture-design]] is fundamentally about capturing, storing, and
 cycling energy more effectively at every scale — from the household garden to
@@ -23,7 +24,7 @@ tapping of fossil fuels during the industrial era caused the spectacular
 explosion in human numbers, technology, and every novel feature of modern
 society. The inevitable depletion of these fuels within a few generations will
 see a return to the general patterns observable in nature and pre-industrial
-societies dependent on renewable energy. Permaculture does not attempt to
+societies dependent on [[holmgren-wind-power-and-renewable-energy-debate]]. Permaculture does not attempt to
 sustain the unsustainable; it asks how human settlements can function with
 progressively less energy while maintaining or improving quality of life.
 
@@ -92,7 +93,7 @@ farms is replaced with fossil-fuel-derived fertilisers, creating a linear
 throughput that depletes both soil and energy reserves.
 
 Permaculture designs closed-loop nutrient cycles at every scale. [[green-manure-crops]] and nitrogen-fixing trees pump nutrients
-from deep soil layers to the surface. Mulch systems cycle organic matter
+from deep soil layers to the surface. Mulch systems cycle [[hamilton-composting-and-organic-matter-management]]
 through [[food-forest]], but the food forest yields apples, nuts, berries, eggs, honey,
 firewood, mulch, fodder, wildlife habitat, soil improvement, and water
 purification simultaneously. The total yield — measured in emergy terms — is
@@ -104,7 +105,7 @@ a single product.
 ## Energy Efficiency at Every Scale
 
 Permaculture designs for energy efficiency from household to bioregion. At the
-household scale, zone planning minimises the energy of moving between elements
+household scale, [[mollison-course-zone-planning-and-design]] minimises the energy of moving between elements
 and managing systems. At the farm scale, [[watershed-management]] stores energy in biological capital for long-
 term community use.
 

@@ -1,5 +1,5 @@
 ---
-title: Macadamia Nut in Tropical Polyculture
+title: mollison designers macadamia nut in tropical polyculture in Tropical Polyculture
 created: 2026-04-26
 tags:
   - permaculture
@@ -17,7 +17,7 @@ type: concept
 # Macadamia Nut in Tropical Polyculture
 
 The macadamia nut (Macadamia spp., especially M. integrifolia) is
-presented in the Permaculture Designers Manual as a high-value tree crop
+presented in the Permaculture [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] as a high-value tree crop
 suited to tropical and subtropical polyculture systems. Mollison highlights
 its role in palm-dominant polycultures, clump planting strategies, and
 integrated orchard systems.
@@ -44,8 +44,8 @@ The husks break down gradually, feeding the developing tree while
 suppressing weeds and retaining moisture around the root zone.
 
 As with other tree crops, macadamia are excellent to establish with
-pioneer nurse species. Leguminous trees such as Leucaena, Glyricidia,
-Tipuana tipu, and Moringa provide shade, wind protection, and nitrogen
+[[permaculture-plants-pioneer-nurse-trees]] species. Leguminous trees such as Leucaena, Glyricidia,
+Tipuana tipu, and Moringa provide shade, [[cervantes-wind-protection-outdoor-cannabis]], and nitrogen
 fixation during the early years while macadamia trees establish their
 canopy and root systems.
 
@@ -88,7 +88,7 @@ moderation function for the macadamia understory.
 Macadamia nuts command high market prices as a gourmet food product. In
 polyculture systems, the nuts provide a high-value component that
 subsidises the lower-value but ecologically essential components of the
-system (legumes, mulch trees, ground covers). The long productive life of
+system (legumes, mulch trees, [[permaculture-plants-food-forest-ground-covers-bamboos]]). The long productive life of
 macadamia trees (40-100+ years) means they provide reliable returns over
 decades once established.
 
@@ -111,7 +111,7 @@ commercial species exist:
 
 ## Companion Species in Orchards
 
-In tropical home garden and orchard systems, macadamia is listed alongside
+In [[mollison-tropical-home-garden-design]] garden and orchard systems, macadamia is listed alongside
 citrus, guava, and other fruit trees. The combination provides diverse
 harvests across seasons while the different root depths and canopy
 architectures reduce competition and maximise resource use efficiency.

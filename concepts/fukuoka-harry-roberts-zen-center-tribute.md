@@ -1,5 +1,5 @@
 ---
-title: Harry Roberts and the Green Gulch Zen Center Tribute
+title: fukuoka harry roberts zen center tribute and the fukuoka-green-gulch-zen-center-desert-reclamation Zen Center Tribute
 created: 2026-04-28
 tags: [fukuoka, biographical, zen-center, native-american, forest-revegetation]
 date: 2026-04-28
@@ -11,10 +11,10 @@ type: concept
 
 # Harry Roberts and the Green Gulch Zen Center Tribute
 
-Harry Roberts (1906-1986) was a Native American elder of the Yurok tribe and a
+Harry Roberts (1906-1986) was a [[halpern-sacramental-peyote-and-native-american-church]] elder of the Yurok tribe and a
 central figure in one of the most emotionally charged passages in Masanobu
 Fukuoka's *Sowing Seeds in the Desert*. His relationship with Fukuoka
-exemplifies the cross-cultural spiritual bond that natural farming can create
+exemplifies the cross-cultural spiritual bond that [[comparison-natural-farming-vs-permaculture]] can create
 between people who share a deep reverence for the living earth.
 
 ## Background and Role at Green Gulch Farm
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -8,11 +8,11 @@ tags: [reference]
 ---
 # Soma Multi-Plant Admixture Theory
 
-James Arthur's "Mushrooms and Mankind" proposes a novel theory that the legendary Vedic Soma was not a single plant but a multi-plant admixture — a carefully prepared brew combining several psychoactive species to produce the full spectrum of effects described in ancient religious texts. This theory attempts to resolve longstanding debates about Soma's identity by suggesting that previous single-plant candidates each captured only part of the picture.
+James Arthur's "[[arthur-mushrooms-and-mankind-ethnomycology-and-religion]]" proposes a novel theory that the legendary Vedic Soma was not a single plant but a multi-plant admixture — a carefully prepared brew combining several psychoactive species to produce the full spectrum of effects described in ancient religious texts. This theory attempts to resolve longstanding debates about Soma's identity by suggesting that previous single-plant candidates each captured only part of the picture.
 
 ## The Problem with Single-Plant Candidates
 
-Arthur observes that the search for Soma's botanical identity has produced several compelling but ultimately unsatisfying candidates. [[amanita-muscaria-in-eastern-religions]] is very convincing but "certainly not the end of the story." Flattery and Schwartz have made a good case for Syrian Rue. [[mao-inhibitors-and-psychedelics]] that parallel the function of pinoline — a natural MAO inhibitor produced by the pineal gland.
+Arthur observes that the [[mckenna-search-for-soma-vedic-enigma]]'s botanical identity has produced several compelling but ultimately unsatisfying candidates. [[amanita-muscaria-in-eastern-religions]] is very convincing but "certainly not the end of the story." Flattery and Schwartz have made a good case for Syrian Rue. [[mao-inhibitors-and-psychedelics]] that parallel the function of pinoline — a natural MAO inhibitor produced by the [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]].
 
 A fourth plant appears to be the Opium Poppy (Papaver somniferum), whose euphoric effects "enable one to relax enough to let go" to fully experience the visionary state of this intensive plant combination. Arthur notes the linguistic link between "Soma" and "Somniferum."
 
@@ -30,7 +30,7 @@ Amanita hypothesis based on the golden colour and visionary effects.
 ## Comparative Entheogenic Traditions
 The multi-plant admixture theory finds support in the widespread use of
 complex botanical combinations in other indigenous entheogenic traditions.
-Amazonian Ayahuasca combines Banisteriopsis caapi (MAOI) with Psychotria
+[[harner-amazonian-ayahuasca-preparation-methods]] combines Banisteriopsis caapi (MAOI) with Psychotria
 viridis or Diplopterys cabrerana (DMT source), sometimes with additional
 admixture plants such as Datura, Nicotiana, or Brugmansia to modify the
 experience. The Mazatec sometimes combine [[mckenna-tryptamine-ayahuasca-and-dmt-combinations]] demonstrates that
@@ -52,7 +52,7 @@ molecules.
 ## Modern Recreations and Experimental Archaeology
 Several researchers and psychonauts have attempted to recreate multi-plant
 Soma brews based on Arthur's recipe and similar theories. These
-experiments typically combine Amanita muscaria (or psilocybin mushrooms),
+experiments typically combine [[allegro-amanita-muscaria-properties-and-pharmacology]] (or [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]),
 Syrian Rue seeds (as MAOI), and various adjunctive plants. Reports
 generally describe the combination as qualitatively different from any
 single component, with the MAOI component potentiating and altering the
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

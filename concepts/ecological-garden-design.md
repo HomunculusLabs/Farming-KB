@@ -27,7 +27,7 @@ The typical garden requires constant effort: tilling, weeding, watering, fertili
 
 An ecological garden works with nature rather than against it. By understanding and emulating natural ecosystems, we can create gardens that:
 
-- Build their own soil through decomposition and nutrient cycling
+- Build their own soil through decomposition and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 - Manage pests through biological controls and plant diversity
 - Conserve water through mulching, dense planting, and soil building
 - Produce food, habitat, and beauty simultaneously
@@ -37,7 +37,7 @@ An ecological garden works with nature rather than against it. By understanding 
 ## Three Core Principles
 
 ### 1. Multiple Functions
-Every element in the garden should perform multiple functions. An apple tree provides fruit, shade, pollen for bees, leaf litter for mulch, and habitat for birds. Comfrey accumulates nutrients, attracts beneficial insects, provides mulch when cut, and has medicinal uses.
+Every element in the garden should perform multiple functions. An apple tree provides fruit, shade, pollen for bees, leaf litter for mulch, and habitat for birds. Comfrey accumulates nutrients, attracts [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], provides mulch when cut, and has medicinal uses.
 
 ### 2. Multiple Elements for Each Function
 Each important function should be supported by multiple elements. Pest control, for example, comes from insectary plants, bird habitat, beneficial insect shelters, crop diversity, and healthy soil -- not a single method.
@@ -75,7 +75,7 @@ The foundation of the ecological garden is living soil. Before planting:
 Instead of monoculture rows, group plants into mutually beneficial communities:
 - Fruit tree guilds (apple + comfrey + clover + dill + garlic)
 - Vegetable polycultures (Ianto Evans's 7-variety mix)
-- Herb spirals (culinary herbs arranged by moisture/sun needs)
+- Herb spirals ([[holzer-medicinal-and-culinary-herbs-compendium]] arranged by moisture/sun needs)
 - Berry patches with ground covers and insectary plants
 
 ### Stack Functions Vertically
@@ -85,7 +85,7 @@ Use every layer from canopy to ground:
 - Shrubs (berry bushes)
 - Herbaceous plants (vegetables, herbs)
 - Ground covers (clover, thyme)
-- Root crops (Jerusalem artichoke, horseradish)
+- Root crops ([[comparison-jerusalem-artichoke-vs-potato]], horseradish)
 - Climbing plants (grapes, beans, kiwi)
 
 ### Integrate Animals
@@ -107,8 +107,8 @@ Animals perform essential ecological functions:
 ### Year 2: Expansion
 - Add more guilds and polycultures
 - Install chickens or other small livestock
-- Expand sheet mulching areas
-- Plant berry bushes and perennial vegetables
+- Expand [[comparison-sheet-mulching-vs-chop-and-drop-mulching]] areas
+- Plant berry bushes and [[comparison-perennial-vegetables-vs-cover-crops]]
 - Begin food forest planting
 
 ### Year 3+: Maturation
@@ -129,7 +129,7 @@ The ecological garden is not a wild, unkempt space. It is a carefully designed s
 - [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]]
 - [[soil-building-ecological-garden]]
 - [[water-catchment-urban-permaculture]]
-- [[mollison-mulching-and-soil-health]]
+- mollison-mulching-and-soil-health
 
 ## Source
 

@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka Seed Ball Method for Desert Revegetation"
+title: "Fukuoka Seed Ball Method for fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique"
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Masanobu Fukuoka, Sowing Seeds in the Desert (Chelsea Green, 2012)"
@@ -9,15 +9,15 @@ tags: [fukuoka, plant-growth]
 ---
 
 # [[masanobu-fukuoka]] for large-scale
-desert revegetation, including aerial seeding from aircraft.*
+desert revegetation, including [[clay-seed-pellet-composition-and-aerial-seeding-method]] from aircraft.*
 
 ## Origins and Evolution
 
-The clay seed pellet was originally conceived and developed for direct seeding
+The clay seed pellet was originally conceived and developed for [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]]
 rice, barley, and vegetables in conjunction with the no-till method on Fukuoka's
 farm in Japan. It has since come into wide use and proved particularly well
 suited for aerial seeding to revegetate large areas of desert at one time.
-Fukuoka did not invent the technique — farmers around the world have been
+Fukuoka did not invent the technique — farmers [[fungi-around-the-world-species-distribution]] have been
 encasing seeds in clay pellets for years — but he revived it and refined it for
 broad-scale ecological restoration.
 
@@ -48,7 +48,7 @@ energy that create long-term problems.
 ## Successful Results
 
 Successful results with clay pellet aerial seeding had already been achieved in
-Africa, the United States, India, Greece, and the Philippines at the time of
+Africa, the [[dmt-containing-plants-united-states-halpern]], India, Greece, and the Philippines at the time of
 writing. Even without all the additives Fukuoka recommended, simply encasing
 seeds with clay to form pellets greatly aids germination in most places.
 
@@ -56,8 +56,9 @@ seeds with clay to form pellets greatly aids germination in most places.
 
 - [[fukuoka-sowing-clay-seed-ball-preparation]] — Detailed preparation
 techniques - [[fukuoka-sowing-natural-farming-climate-change]] — How revegetation addresses
-climate change - [[fukuoka-road-seed-ball-experiments]] — Earlier seed ball
+[[dighton-fungi-climate-change-feedback]] - [[fukuoka-road-seed-ball-experiments]] — Earlier seed ball
 experiments from The Road Back to Nature
+
 ## Practical Considerations
 
 Successful implementation of Fukuoka Seed Ball Method for Desert Revegetation requires attention to
@@ -76,4 +77,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

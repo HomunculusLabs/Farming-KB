@@ -3,7 +3,7 @@
 ## Overview
 
 Stropharia cubensis, more commonly known as Psilocybe cubensis, is a species
-of psychedelic mushroom whose principal active compounds are psilocybin and
+of [[archaeology-of-psychedelic-mushroom-use]] whose principal active compounds are psilocybin and
 psilocin. It is the most widely cultivated and commercially available
 psilocybin-containing mushroom in the world.
 
@@ -24,7 +24,7 @@ authorities still recognize it under the name Psilocybe cubensis, while some
 recent molecular phylogenetic studies have proposed further reclassifications.
 
 The species epithet "cubensis" refers to its initial discovery in Cuba. Common
-names include "golden teacher," "Mexican mushroom," and simply "cubensis." Over
+names include "golden teacher," "[[gartz-wasson-mexican-mushroom-cult-rediscovery]]," and simply "cubensis." Over
 100 cultivated varieties exist, marketed under names such as "Thai," "Colombian,"
 "Amazonian," "B+," "Golden Teacher," "Ecuador," and "Cambodian."
 
@@ -64,12 +64,12 @@ also bruise blue, so this feature alone is insufficient for identification.
 ## Distribution and Ecological Habitat
 
 Stropharia cubensis is pantropical and subtropical in distribution. It occurs
-naturally throughout Central America, South America, Southeast Asia, Australia,
+naturally throughout [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], South America, Southeast Asia, Australia,
 the Pacific Islands, and sub-Saharan Africa.
 
 The species is strongly associated with the dung of herbivorous mammals,
-particularly cattle (Bos indicus and Bos taurus). Its global distribution has
-been suggested to follow the spread of cattle husbandry by humans over
+particularly cattle (Bos indicus and Bos taurus). Its [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]] has
+been suggested to follow the spread of [[comparison-cattle-husbandry-vs-goat-husbandry]] by humans over
 millennia.
 
 At the archaeological site of Non Nak Tha in Thailand, dated to approximately
@@ -103,7 +103,7 @@ relative to their weight compared to mature specimens.
 McKenna proposed that Stropharia cubensis catalyzed the emergence of human
 consciousness. His evidence included:
 
-1. **African origin:** The hallucinogenic plant responsible must have been
+1. **[[psilocybe-cubensis-cattle-association-african-origin-guzman-1998]]:** The hallucinogenic plant responsible must have been
 available on the African grasslands where early hominids lived.
 
 2. **Coprophilic ecology:** Growing on cattle dung, the mushroom was directly

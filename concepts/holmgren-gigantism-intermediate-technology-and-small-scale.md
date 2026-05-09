@@ -1,5 +1,5 @@
 ---
-title: "Gigantism, Intermediate Technology and Small Scale"
+title: "Gigantism, holmgren gigantism intermediate technology and small scale and Small Scale"
 created: 2026-04-26
 tags:
   - appropriate-technology
@@ -10,15 +10,16 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "~/wiki/raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
+  sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: concept
 ---
 
 # Gigantism, Intermediate Technology and Small Scale
 
-[[holmgren-small-slow-solutions-detailed]],
-[[holmgren-permaculture-change-principle]],
-[[permaculture-tools-and-technology]].
+holmgren-small-slow-solutions-detailed,
+holmgren-permaculture-change-principle,
+permaculture-tools-and-technology.
 ## Practical Applications
 
 Gigantism, Intermediate Technology and Small Scale has a range of practical applications that make it relevant to
@@ -96,4 +97,10 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[duggar-mushroom-environmental-factors-temperature-moisture-light]]
+- [[mollison-designers-appropriate-technology-small-scale-tools]]
+- [[small-scale-intensive-food-systems-mollison]]
+- [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]]
+- [[query-how-to-start-a-small-scale-snail-farm]]
+- [[query-how-do-i-start-a-small-scale-mushroom-log-cultivation-operation]]

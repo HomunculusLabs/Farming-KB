@@ -10,7 +10,7 @@ type: concept
 ---
 
 # [[psilocybe-cubensis]] and other Psilocybe species, commonly known as
-"magic mushrooms," contain the hallucinogenic compounds psilocybin
+"[[guzman-magic-mushrooms-african-species]]," contain the hallucinogenic compounds psilocybin
 (4-phosphoryloxy-N,N-dimethyltryptamine) and [[hallucinogenic-plants-native-to-united-states]],
 [[paul-stamets]] provide
 comprehensive identification resources.
@@ -35,20 +35,20 @@ environments for these fungi.
 ## Misidentification Risks
 
 Misidentification of wild mushrooms is the most significant danger
-associated with psilocybin mushroom use. Many poisonous mushroom
+associated with [[emcdda-psilocybin-mushroom-dose-and-effects]] use. Many [[growing-gourmet-poisonous-mushroom-lookalikes]]
 species grow in the same habitats as Psilocybe species, and
 inexperienced foragers risk consuming toxic look-alikes. This risk
 can result in serious illness or death from liver failure or other
 organ damage caused by truly poisonous species such as Galerina
 species, which can resemble small Psilocybe mushrooms.
 
-Growing mushrooms from verified spore prints eliminates the risk of
+[[falconer-growing-mushrooms-in-sheds]] from verified spore prints eliminates the risk of
 false identification and potential poisoning from wild-sourced
 specimens.
 
 ## Preparation and Dosage
 
-Psilocybin mushrooms are typically dried and eaten directly. They may
+[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] are typically dried and eaten directly. They may
 also be brewed into a tea to reduce nausea. Fresh mushrooms can be
 consumed, though potency is lower due to water weight.
 
@@ -64,7 +64,7 @@ not as readily as between LSD and mescaline.
 ## Cultivation and Spore Prints
 
 Although Psilocybe species mushrooms, psilocybin, and psilocin are
-Schedule I controlled substances in the United States, mushroom spore
+Schedule I controlled substances in the United States, [[emcdda-hallucinogenic-mushroom-spore-distribution-home-cultivation]]
 prints remain legal to possess and distribute in most states
 (California is an exception). A small industry continues to supply
 mycologists and those interested in obtaining hallucinogens with the

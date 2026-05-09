@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Zhao, J.D. & Zhang, X.Q. (2000). "Ganoderma sinense: a new species of lingzhi from China." Mycosystema 19(4): 484-487.
-  - Wang, J. et al. (2012). "Comparison of polysaccharides from Ganoderma lucidum and G. sinense." Journal of Pharmaceutical and Biomedical Analysis 59: 114-118.
+  - Wang, J. et al. (2012). "Comparison of polysaccharides from [[stamets-reishi-ganoderma-lucidum-cultivation]] and G. sinense." Journal of Pharmaceutical and Biomedical Analysis 59: 114-118.
   - Shi, L. et al. (2015). "Ganoderma sinense polysaccharide: extraction, structure and bioactivity." Carbohydrate Polymers 132: 219-227.
   - Cao, Q.Z. & Lin, Z.B. (2006). "Antitumor and anti-angiogenic activity of Ganoderma lucidum polysaccharides peptide." Acta Pharmacologica Sinica 27(5): 659-665.
   - Chinese Pharmacopoeia (2020). "Lingzhi (Ganoderma lucidum and G. sinense)." China Medical Science Press.
@@ -35,7 +35,7 @@ The basidiocarp is annual to perennial, with a fan-shaped to kidney-shaped pileu
 
 Unlike *G. lucidum*, which has a characteristically glossy, varnished surface (hence "lingzhi" = divine mushroom), *G. sinense* has a matte to semi-glossy finish. The pore surface is brown to dark brown, with 4–6 pores per mm.
 
-Context is corky and dark brown, 2–5 mm thick. The double-walled basidiospores are ovate to ellipsoid, 8–11 × 6–7.5 µm, with truncate apex and ornamented outer wall — typical of the genus. Spore print is brown.
+Context is corky and dark brown, 2–5 mm thick. The double-walled basidiospores are ovate to ellipsoid, 8–11 × 6–7.5 µm, with truncate apex and ornamented outer wall — typical of the genus. [[comparison-spore-print-collection-vs-spore-syringe-production]] is brown.
 
 ## Distribution and Habitat
 
@@ -67,7 +67,7 @@ Hepatoprotective effects include reduction of serum transaminases in CCl₄-inju
 
 ## Cultivation
 
-Artificial cultivation of *G. sinense* follows methods similar to *G. lucidum*, using supplemented hardwood sawdust (oak, beech, or mixed hardwood) in bags or logs. Mycelial growth is optimal at 25–30°C with 65–75% relative humidity.
+[[fukuoka-matsutake-artificial-cultivation-attempt]] of *G. sinense* follows methods similar to *G. lucidum*, using supplemented hardwood sawdust (oak, beech, or mixed hardwood) in bags or logs. [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] is optimal at 25–30°C with 65–75% relative humidity.
 
 Fruiting requires a temperature drop to 20–25°C, high humidity (85–95%), and adequate fresh air exchange. The cultivation cycle from inoculation to harvest is typically 3–4 months, with yields of 40–80 g fresh weight per bag.
 
@@ -75,7 +75,7 @@ Fruiting requires a temperature drop to 20–25°C, high humidity (85–95%), an
 
 ## Ecological Role
 
-*Ganoderma sinense* is a white-rot fungus that degrades lignin and cellulose in dead hardwood. It secretes laccase, manganese peroxidase, and cellulase enzymes that break down complex wood polymers, releasing nutrients back into forest soil.
+*Ganoderma sinense* is a white-rot fungus that degrades lignin and cellulose in dead hardwood. It secretes laccase, [[fungal-manganese-peroxidase-remediation]], and cellulase enzymes that break down complex wood polymers, releasing nutrients back into forest soil.
 
 The species contributes to forest decomposition cycles, particularly in subtropical broadleaf forests where it is among the dominant wood-decay polypores. Its fruiting bodies serve as food for various insects, and the conks provide microhabitat for fungi and invertebrates.
 
@@ -87,7 +87,7 @@ As a weak pathogen, *G. sinense* can colonize living trees through root or trunk
 
 Chemically, *G. lucidum* contains higher total triterpenoids while *G. sinense* has a distinct polysaccharide composition with more galactose. Both species share the core β-glucan immunomodulatory activity.
 
-Clinical trials comparing the two species are limited. A small crossover study (n=40) found comparable effects on sleep quality and fatigue scores between *G. sinense* and *G. lucidum* extracts at equivalent polysaccharide doses.
+[[mushroom-cancer-clinical-trials-overview]] comparing the two species are limited. A small crossover study (n=40) found comparable effects on sleep quality and fatigue scores between *G. sinense* and *G. lucidum* extracts at equivalent polysaccharide doses.
 
 ## Quality Control and Standardization
 
@@ -106,6 +106,6 @@ Ganoderic acid 3-O-β-D-glucuronide is a marker compound specific to *G. sinense
 - [[sanghuangporus-baumii]]
 - [[fomes-fomentarius]]
 - [[armillaria-mellea-entity]]
-- [[tremella-fuciformis-entity]]
+- [[tremella-fuciformis]]
 - [[paxillus-involutus]]
 - [[larrea-tridentata]]

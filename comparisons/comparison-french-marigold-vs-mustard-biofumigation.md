@@ -1,5 +1,5 @@
 ---
-title: "French Marigold Biofumigation vs Mustard Biofumigation"
+title: "comparison french marigold vs mustard biofumigation Biofumigation vs Mustard Biofumigation"
 tags:
   - biofumigation
   - marigold
@@ -77,7 +77,7 @@ Mustards excel as a **catch crop** between main cash crops. In temperate climate
 ## When to Choose French Marigold
 
 - Your primary problem is **nematode control**, especially root-knot or reniform nematodes, with minimal fungal pressure.
-- You can allocate a **full growing season** to a cover crop (e.g., summer fallow replacement).
+- You can allocate a **full [[savory-growing-season-and-non-growing-season-management]]** to a cover crop (e.g., summer fallow replacement).
 - You want a **low-tech approach** that does not require precise incorporation timing.
 - You are interplanting marigolds among susceptible crops for continuous root-zone protection.
 
@@ -97,10 +97,10 @@ For growers facing both severe nematode pressure and fungal disease, a **sequent
 | Criterion | Winner |
 |---|---|
 | Nematode suppression (specialized) | French Marigold |
-| Fungal pathogen suppression | Mustard |
+| [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] suppression | Mustard |
 | Speed / rotation flexibility | Mustard |
 | Ease of management | French Marigold |
 | Cost per acre | Mustard |
 | Broad-spectrum activity | Mustard |
 
-Both biofumigation strategies are valuable tools in organic and integrated pest management systems. The right choice depends on your specific pest profile, climate, rotation constraints, and available equipment. For further reading on disease ecology in organic systems, see plant disease ecology and organic management, and for complementary biological control strategies, see entomopathogenic fungi and biological pest control.
+Both biofumigation strategies are valuable tools in organic and integrated pest management systems. The right choice depends on your specific pest profile, climate, rotation constraints, and available equipment. For further reading on [[organic-pest-and-disease-management]] in organic systems, see plant disease ecology and organic management, and for complementary [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] strategies, see [[singh-entomopathogenic-fungi-biocontrol-agents]] and biological pest control.

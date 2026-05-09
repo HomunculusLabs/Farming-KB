@@ -1,5 +1,5 @@
 ---
-title: Cover Cropping and Green Manures from Natural Farming
+title: fukuoka-clover-cover-cropping-soil-ecology and jeavons-green-manures-cover-crops from comparison-natural-farming-vs-permaculture
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,11 +10,11 @@ tags: [natural-farming]
 
 # Cover Cropping and Green Manures
 
-Cover crops and green manures are essential tools in natural farming for protecting and improving soil between main crop cycles. They prevent erosion, fix nitrogen, suppress weeds, and add organic matter when turned under or mulched. Any soil, not just bad soil, should be improved by planting cover and green manure crops or adding composted animal manure.
+Cover [[cover-crops-green-manures]] manures are essential tools in natural farming for protecting and improving soil between main crop cycles. They prevent erosion, fix nitrogen, suppress weeds, and add [[hamilton-composting-and-organic-matter-management]] when turned under or mulched. Any soil, not just bad soil, should be improved by planting cover and green manure crops or adding composted animal manure.
 
 ## The Role of Cover Crops in Soil Health
 
-Soil that has been cleared most likely needs extra help because minerals have been leaching out. The super soil strategy emphasizes several principles: stop topsoil from flying away or eroding, rehabilitate the soil with pioneer plants before doing anything else, test soil and drainage and choose the right species, use permanent crops and no-till methods, avoid clearing the soil (use mulch instead), do not drain wetlands (which are packed with nutrients), and choose edible plant species for their nutritional value.
+Soil that has been cleared most likely needs extra help because minerals have been leaching out. The super soil strategy emphasizes several principles: stop topsoil from flying away or eroding, rehabilitate the soil with pioneer plants before doing anything else, test soil and drainage and [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] species, use permanent crops and no-till methods, avoid clearing the soil (use mulch instead), do not drain wetlands (which are packed with nutrients), and choose edible plant species for their nutritional value.
 
 ## Common Cover Crop Species
 
@@ -105,4 +105,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

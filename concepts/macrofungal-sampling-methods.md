@@ -10,7 +10,7 @@ sources: []
 
 ## Introduction
 
-Macrofungal sampling methods are organized by **technique and functional ecological group** rather than by taxonomic classification. This approach reflects the reality that fruiting body production is driven by ecological factors — substrate availability, moisture, temperature, and competitive interactions — rather than phylogenetic relationships. Effective sampling design is essential for accurate [[fungal-biodiversity-measurement-methods]] and meaningful comparisons across studies.
+Macrofungal sampling methods are organized by **technique and functional ecological group** rather than by taxonomic classification. This approach reflects the reality that [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] production is driven by ecological factors — substrate availability, moisture, temperature, and competitive interactions — rather than phylogenetic relationships. Effective [[macrofungal-sampling-design-plots-transects]] is essential for accurate [[fungal-biodiversity-measurement-methods]] and meaningful comparisons across studies.
 
 ## Complementarity Analysis
 
@@ -23,13 +23,13 @@ Where:
 - **Cjk = 1** indicates no species are shared (complete dissimilarity)
 - Sampling is considered **efficient at approximately 0.5**, indicating substantial but not complete complementarity
 
-This metric helps researchers determine whether additional sampling effort or alternative methods are needed to adequately characterize community composition.
+This metric helps researchers determine whether additional sampling effort or alternative methods are needed to adequately characterize [[core-endorhiza-bacterial-community-composition-cannabis]].
 
 ## Plot-Based Sampling
 
 ### Lodge and Cantrell Protocol (1995a)
 
-A widely cited design for litter agaric diversity assessment:
+A widely cited design for litter agaric [[ingham-soil-food-web-diversity-assessment-dna-molecular-methods]]:
 
 - **12 plots**, each **1 m²** in area
 - Plots arranged in **two blocks** of six
@@ -56,7 +56,7 @@ Fruiting occurs **only during brief periods** that differ among:
 - **Species** — different taxa have distinct temperature and moisture optima
 - **Habitats** — microclimatic variation drives local fruiting patterns
 
-Environmental variables such as precipitation, temperature, and humidity, as well as ecological interactions (e.g., competition with other decomposers, herbivory by invertebrates), all affect fruiting. This complexity makes temporal and spatial scale **critical for study design**.
+Environmental variables such as precipitation, temperature, and humidity, as well as [[king-stropharia-ecological-interactions-permaculture]] (e.g., competition with other decomposers, herbivory by invertebrates), all affect fruiting. This complexity makes temporal and spatial scale **critical for study design**.
 
 ## Species Richness Estimation
 
@@ -89,7 +89,7 @@ Where:
 
 - **Spatial extent** vs. sampling intensity at individual sites
 - **Temporal duration** vs. logistical feasibility
-- **Taxonomic resolution** (morphospecies vs. molecular identification) vs. available expertise
+- **Taxonomic resolution** (morphospecies vs. [[biodiversity-fungal-molecular-identification-dna-barcoding]]) vs. available expertise
 
 Integration with [[fungal-succession-in-decomposition]] benefit from timed sampling of woody substrates, while surveys targeting [[fungal-biodiversity-tropical-ecosystems]] surveys face particular challenges due to hyperdiversity, poorly known taxa, and limited fruiting windows.
 - [[soil-fungal-diversity-wisconsin-survey-global-patterns]]

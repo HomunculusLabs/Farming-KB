@@ -1,15 +1,15 @@
 ---
-title: Fungal Species Recognition and Population Genetics
+title: fungi-in-the-environment-fungal-species-recognition-phylogenetics and Population Genetics
 source: Fungi in the Environment - Gadd, Watkinson, Dyer
 source_author: Geoffrey Gadd, Sarah C. Watkinson, Paul S. Dyer
 tags: [fungal-species, MLST, MLMT, population-genetics, phylogenetics, fungal-ecology, molecular-typing]
 created: 2026-05-08
 ---
 
-# [[fungal-population-genetics]] cs]] genetics is essential for addressing ecological
+# fungal-population-genetics cs genetics is essential for addressing ecological
 questions about dispersal, gene flow, adaptation, and the spatial structure of
-fungal communities. These insights have practical implications for plant pathology,
-conservation biology, and the management of fungal bioresources.
+[[biodiversity-of-fungi-soil-fungal-communities-agriculture]]. These insights have practical implications for plant pathology,
+[[mycelium-running-conservation-biology-and-fungi]], and the management of fungal bioresources.
 
 ## The Species Concept Problem in Fungi
 
@@ -21,7 +21,7 @@ isolation impossible to assess directly for the majority of described species.
 The morphological species concept, based on observable phenotypic characters, suffers
 from convergent evolution and phenotypic plasticity. Many genetically distinct
 lineages share identical morphologies, while single genetic species may display
-remarkable morphological variation across environmental gradients.
+remarkable morphological [[psilocybin-psilocin-variation-across-flushes]] environmental gradients.
 
 The phylogenetic species concept, which defines species as monophyletic groups
 identified by shared derived characters, has gained broad acceptance in mycology.
@@ -41,8 +41,8 @@ relationships and recent population-level divergence. By analyzing multiple
 independent loci, MLST avoids the biases inherent in single-gene approaches and
 provides a robust estimate of genetic relatedness among isolates.
 
-MLST has been particularly valuable for clinically important f [[psilocybe-species-identification]] dentification
-and strain typing inform treatment decisions and infection control strategies.
+MLST has been particularly valuable for clinically important f psilocybe-species-identification dentification
+and strain typing inform treatment decisions and infection [[jadam-weed-control-strategies-natural]].
 Publicly accessible MLST databases facilitate global surveillance and population
 genetic analyses of pathogenic and environmental fungi.
 
@@ -86,7 +86,7 @@ understanding the genomic architecture of reproductive isolation in fungi.
 ## Environmental Population Genetics
 
 Studying fungal population genetics directly in environmental samples—rather than
-from cultured isolates—has become feasible [[fungal-molecular-identification]] ification enables researchers to
+from cultured isolates—has become feasible  ification enables researchers to
 link functional traits, such as carbon and nitrogen source utilization, to
 population genetic patterns. This integration of ecological function with
 evolutionary history provides a more complete picture of how fungal populations
@@ -107,3 +107,9 @@ the rate of adaptation, the accumulation of deleterious mutations, and the
 evolutionary potential of fungal populations facing environmental change.
 
 Understanding reproductive mode is also critical for [[gadd-fungal-mlst-population-genetics]]
+## See Also
+- [[geoffrey-gadd]]
+- [[cryptic-species]]
+- [[gadd-fungal-mlst-population-genetics]]
+- [[gadd-fungal-species-recognition]]
+- [[fungi-in-the-environment-fungal-species-recognition-phylogenetics]]

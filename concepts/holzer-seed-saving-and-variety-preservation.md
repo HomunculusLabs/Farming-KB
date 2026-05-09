@@ -1,16 +1,17 @@
 ---
-title: Holzer Seed Saving and Variety Preservation
+title: Holzer Seed seed-saving-and-variety-selection Preservation
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 type: concept
 tags: [holzer, plant-growth]
 ---
 
 # Holzer Seed Saving and Variety Preservation
 
-The preservation of old crop varieties and [[sepp-holzer-method]]. Holzer's experiences consistently show that old varieties of cereal, vegetable, and potato make the best crops -- better flavour, less demanding, and far better adapted to local conditions than modern overbred varieties.
+The preservation of old [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]] and [[sepp-holzer-method]]. Holzer's experiences consistently show that [[holzer-old-varieties-and-seed-saving]] of cereal, vegetable, and potato make the best crops -- better flavour, less demanding, and far better adapted to local conditions than modern overbred varieties.
 
 ## Why Old Varieties
 
@@ -25,7 +26,7 @@ In earlier times, every country, indeed every region, had its own cereal, vegeta
 
 ## Against Hybrid and GM Seeds
 
-Holzer is emphatic that hybrid seeds (F1 varieties) are entirely unsuited to permaculture systems:
+Holzer is emphatic that [[heirloom-vs-hybrid-seeds-comparison]] (F1 varieties) are entirely unsuited to permaculture systems:
 
 - Most can no longer reproduce -- they do not breed true
 - Must always be bought new ("much to the satisfaction of seed companies")
@@ -34,7 +35,7 @@ Holzer is emphatic that hybrid seeds (F1 varieties) are entirely unsuited to per
 - Give good yields but are more susceptible to disease in monoculture
 - Lead to pesticide dependence
 
-He considers [[holzer-climate-zone-microclimate-creation]] Holzer creates serve seed production by allowing spatial isolation of varieties. Multi-layered, structured habitats with hedges and tall raised beds between seed crops protect wind-pollinated varieties from cross-contamination.
+He considers [[holzer-climate-zone-microclimate-creation]] Holzer creates serve [[cervantes-seed-production-storage]] by allowing spatial isolation of varieties. Multi-layered, structured habitats with hedges and tall raised beds between seed crops protect wind-pollinated varieties from cross-contamination.
 
 ## See Also
 
@@ -57,7 +58,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,4 +100,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

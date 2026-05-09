@@ -1,5 +1,5 @@
 ---
-title: "Forest Condensation and Micro-Climate Rainfall"
+title: "mollison designers forest condensation and micro climate rainfall and Micro-Climate Rainfall"
 created: 2026-04-26
 tags:
   - permaculture
@@ -106,7 +106,7 @@ polar side of sites.
 
 ## Design Implications for Condensation
 
-Several practical design principles emerge:
+Several practical [[holmgren-permaculture-twelve-design-principles-framework]] emerge:
 
 - Plant ragged, multi-layered canopies rather than uniform ones
 - Include tall emergent species (palms, pines) above the general
@@ -115,4 +115,10 @@ Several practical design principles emerge:
   bearing winds
 - Maintain tree lines of 12 m or more height to trigger Ekman
   spiral rainfall enhancement
-- Use [[coastal-permaculture-design-mollison]] and [[mollison-permaculture-high-islands]].
+- Use coastal-permaculture-design-mollison and mollison-permaculture-high-islands.
+## See Also
+- [[mollison-designers-climate-zone-2-orchard-food-forest]]
+- [[bill-mollison]]
+- [[mollison-designers-soil-water-storage-in-forest-systems]]
+- [[mollison-designers-food-forest-succession-design]]
+- [[mollison-designers-temperate-zone-food-forest-design]]

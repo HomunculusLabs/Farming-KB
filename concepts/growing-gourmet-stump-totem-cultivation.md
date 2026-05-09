@@ -1,5 +1,5 @@
 ---
-title: "Stump and Totem Cultivation of Mushrooms"
+title: "Stump and Totem companion-cultivation-of-mushrooms-with-garden-vegetables"
 created: 2026-04-26
 tags:
   - mushroom-cultivation
@@ -30,14 +30,14 @@ with roots intact, water is continuously being drawn via
 capillary action through the dead wood cells from the
 underlying soil base. Once mycelium has permeated through
 wood fiber, the stump's water carrying capacity is
-increased, thus further supporting mycelial growth.
+increased, thus further supporting [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]].
 
 The advantages of growing on stumps can be summarized as:
 
 1. Developing a new, environmentally friendly
    wood products-based industry.
 2. Recycling wood debris of little or no economic value.
-3. Prevention of disease vectors from parasitic fungi.
+3. Prevention of disease vectors from [[escovopsis-parasitic-fungi-attine-ant-gardens]].
 4. Rapidly returning organic nutrients into the food
    chain, benefitting other citizens of the forest
    community and invigorating the ecosystem.
@@ -62,8 +62,8 @@ cultivation, particularly:
 - [[cancer-medicinal-mushrooms-hericium-erinaceus]] (Lion's Mane)
 
 A notable study by Pagony (1973) describes the cultivation
-of Oyster mushrooms on large diameter poplars with a 100%
-success rate. An average of four pounds of Oyster mushrooms
+of [[query-how-to-grow-oyster-mushrooms-at-home]] on large diameter poplars with a 100%
+[[maitake-fruiting-body-success-rate-management]]. An average of four pounds of Oyster mushrooms
 were harvested over four years (i.e., 1 lb./year/stump).
 
 ## Polyculture on Stumps
@@ -91,7 +91,7 @@ economic or ecological significance can be introduced.
 
 ## Toxic Species Warning
 
-The occurrence of poisonous mushrooms should be expected.
+The occurrence of [[palmer-poisonous-mushrooms-deadly-species]] should be expected.
 Two notable, toxic mushrooms frequent stumps:
 - Hypholoma fasciculare, which causes gastrointestinal
   upset but usually not death

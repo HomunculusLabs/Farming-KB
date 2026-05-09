@@ -33,19 +33,19 @@ cultivated. It is a large, robust mushroom found on bovine
 dung in pastures, making it one of the easiest species to
 identify and cultivate for [[mushroom-spore-identification]] techniques is essential.
 
-Amanita muscaria, the fly agaric, occupies a unique position
+[[allegro-amanita-muscaria-properties-and-pharmacology]], the [[amanita-muscaria-fly-agaric-history-and-pharmacology]], occupies a unique position
 in entheogenic mycology. Unlike the psilocybin-containing
-species, Amanita muscaria contains muscimol and ibotenic acid
+species, Amanita muscaria contains muscimol and [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]]
 as its primary active compounds. It has been used in Siberian
 shamanism for centuries and is the leading candidate for the
-Vedic soma of ancient India. See [[psilocybin-mushroom-global-distribution]] for detailed range maps.
+[[mckenna-vedic-soma-indo-european-mysteries]] of ancient India. See [[psilocybin-mushroom-global-distribution]] for detailed range maps.
 
 ## Potency Variation
 
 Potency varies enormously between and within species. Factors
 including genetics, substrate, growing conditions, age at
 harvest, and storage methods all influence alkaloid content.
-Psilocybe azurescens and P. cyanescens are consistently among
+[[stamets-psi-psilocybe-azurescens-species-guide]] and P. cyanescens are consistently among
 the most potent species, while some tropical Panaeolus species
 can also reach very high concentrations. See [[trichocereus-peruvianus]]
 
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,3 +113,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[melanoleuca-cognata]]

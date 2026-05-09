@@ -49,14 +49,14 @@ negative result in this investigation.
 
 ## Synthesis
 
-Two routes: from indole via oxalyl chloride and ethylisopropylamine (62%
+Two routes: from indole via [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] and ethylisopropylamine (62%
 yield for the glyoxylamide, 90% to the free base, mp 71-73°C), and from N-ethyltryptamine
 (NET) via alkylation with isopropyl iodide (59% yield, bp 150-160°C at 0.11
 mm/Hg).
 
 ## Chemical Family Context
 
-EIPT is a member of the mixed N-alkyl tryptamine family, specifically the
+EIPT is a member of the mixed N-alkyl [[tryptamine-family-overview]], specifically the
 subgroup that maintains one isopropyl group while varying the other N-substituent.
 This series was designed to answer a specific pharmacological question: what
 is the minimum substitution pattern required to produce DIPT's unique auditory
@@ -64,7 +64,7 @@ distortion effects?
 
 The series represents a textbook example of systematic medicinal chemistry,
 where a single variable (the identity of one N-alkyl group) is systematically
-altered while holding all other structural features constant. This approach
+altered while holding all other [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]] constant. This approach
 allows clean interpretation of the relationship between molecular structure
 and pharmacological effect.
 
@@ -121,7 +121,7 @@ recreational or therapeutic use
 
 - The diuretic effect at 40 mg means adequate hydration is important
 
-- Standard tryptamine precautions apply: avoid MAO inhibitors, SSRIs,
+- Standard tryptamine precautions apply: avoid [[mao-inhibitors-and-psychedelics]], SSRIs,
 and other serotonergic medications
 
 - The abrupt ending of effects at 24 mg could lead to unexpected rapid

@@ -72,11 +72,11 @@ Root systems are fibrous and shallow, with the stolons rooting at contact points
 
 *A. reptans* is native to most of Europe, from the British Isles and Scandinavia to the Mediterranean, extending to the Caucasus and northern Iran.
 
-It has been introduced and naturalized in North America, New Zealand, and parts of temperate Asia.
+It has been introduced and naturalized in [[psilocybin-north-america-pacific-northwest]], New Zealand, and parts of temperate Asia.
 
 The species grows in moist, semi-shaded habitats including woodland edges, hedgerows, meadows, and stream banks.
 
-It prefers damp, moderately fertile soils rich in organic matter, with pH ranging from slightly acidic to neutral.
+It prefers damp, moderately fertile soils rich in [[hamilton-composting-and-organic-matter-management]], with pH ranging from slightly acidic to neutral.
 
 Optimal conditions include partial shade to full sun in cooler climates, with consistent moisture.
 
@@ -96,7 +96,7 @@ In the garden, bugle provides early-season nectar for bumblebees, solitary bees,
 
 ## Bioactive Compounds and Pharmacology
 
-*A. reptans* contains iridoid glycosides, including ajugol and reptoside, which are characteristic secondary metabolites of the genus.
+*A. reptans* contains iridoid glycosides, including ajugol and reptoside, which are characteristic [[antifungal-secondary-metabolites-coprophilous-fungi]] of the genus.
 
 Phenolic compounds include caffeic acid derivatives and flavonoids with documented antioxidant activity.
 
@@ -116,11 +116,11 @@ Bugle functions as a dynamic ground cover in food forests and permaculture desig
 
 Its dense root mat helps stabilize soil on slopes and prevents erosion along pathways and water features.
 
-The plant is effective in the understory layer of forest gardens, tolerating shade from canopy trees.
+The plant is effective in the understory layer of [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]], tolerating shade from canopy trees.
 
 It serves as a living mulch around fruit trees and shrubs, retaining soil moisture and suppressing weed competition.
 
-Bugle provides early spring forage for pollinators, supporting beneficial insect populations that enhance crop pollination.
+Bugle provides [[coleman-overwintered-onions-and-early-spring-crops]] forage for pollinators, supporting [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] populations that enhance crop pollination.
 
 The plant's tolerance of foot traffic makes it suitable for planting between stepping stones in garden paths.
 

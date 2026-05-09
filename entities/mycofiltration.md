@@ -17,7 +17,7 @@ sources:
   - Stamets, P. (2005). *Mycelium Running: How Mushrooms Can Help Save the World*. Ten Speed Press.
   - Stamets, P. (2010). "Mycocompounders and Mycofiltration." *Mycotechnology*, various proceedings.
   - Thomas, G., & Stamets, P. (2004). "Preliminary results of mycofiltration of *E. coli* from surface water." *Fungi* magazine.
-  - Taylor, D.L., & Sinsabaugh, R.L. (2015). "The soil filamentous fungal community as a driver of ecosystem processes." *Soil Biology and Biochemistry*, 89, 31-33.
+  - Taylor, D.L., & Sinsabaugh, R.L. (2015). "The soil filamentous fungal community as a driver of [[fungal-ecosystem-processes-overview]]." *Soil Biology and Biochemistry*, 89, 31-33.
 created: 2026-05-07
 ---
 
@@ -43,8 +43,8 @@ Fungal mycelium is a dense, branching network of tubular hyphae that functions a
 |---------|------------|-----------|
 | *Pleurotus ostreatus* (Oyster) | General filtration, hydrocarbons | Enzymatic degradation |
 | *Stropharia rugosoannulata* (Wine Cap) | E. coli, coliforms | Antibacterial metabolites, physical trapping |
-| *Ganoderma lucidum* (Reishi) | Heavy metals, organics | Chitin binding, enzymatic profile |
-| *Trametes versicolor* (Turkey Tail) | PAHs, dyes, pharmaceuticals | Laccase and peroxidase secretion |
+| *[[stamets-reishi-ganoderma-lucidum-cultivation]]* (Reishi) | Heavy metals, organics | Chitin binding, enzymatic profile |
+| *[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]* (Turkey Tail) | PAHs, dyes, pharmaceuticals | Laccase and peroxidase secretion |
 | *Lentinula edodes* (Shiitake) | Pesticides, chlorinated compounds | Peroxidase enzymes |
 
 ## Applications
@@ -63,7 +63,7 @@ Stamets' 2004 study demonstrated *Stropharia rugosoannulata* beds reduced *E. co
 
 - **Bioswales:** Mycelium-inoculated swales enhance pollutant removal from road runoff
 - **Rain gardens:** Mycorrhizal inoculation improves infiltration and contaminant capture
-- **Constructed wetlands:** Fungal-augmented wetlands show enhanced heavy metal and hydrocarbon removal
+- **[[comparison-constructed-wetlands-vs-bioswales]]:** Fungal-augmented wetlands show enhanced heavy metal and hydrocarbon removal
 
 ### 3. Wastewater Treatment
 
@@ -73,8 +73,8 @@ Stamets' 2004 study demonstrated *Stropharia rugosoannulata* beds reduced *E. co
 
 ### 4. Industrial Effluent
 
-- **Textile industry:** Decolorization of dye-laden wastewater using laccase-producing fungi
-- **Paper/pulp industry:** Degradation of chlorinated lignin byproducts
+- **[[staycare-fungal-treatment-of-textile-industry-wastewater]]:** Decolorization of dye-laden wastewater using laccase-producing fungi
+- **Paper/pulp industry:** [[singh-fungal-degradation-of-chlorinated-compounds]] lignin byproducts
 - **Mining:** Heavy metal sequestration from acid mine drainage
 - **Oil and gas:** Biodegradation of petroleum hydrocarbons and PAHs
 
@@ -131,5 +131,5 @@ Stamets' 2004 study demonstrated *Stropharia rugosoannulata* beds reduced *E. co
 
 - [[stropharia-rugosoannulata]] — Wine cap mushroom, primary species for mycofiltration
 - [[trametes-versicolor-entity]] — Turkey tail, powerful enzymatic degrader
-- [[permaculture]] — Design framework integrating mycofiltration
+- permaculture — Design framework integrating mycofiltration
 - Bioremediation — General biological contamination cleanup approaches

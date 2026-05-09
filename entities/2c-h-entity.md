@@ -9,7 +9,7 @@ sources:
 ---
 # 2C-H (2,5-Dimethoxyphenethylamine)
 
-2C-H is a phenethylamine compound and the parent molecule of the 2C family of psychedelic substances. It serves as the unsubstituted precursor from which many active 2C compounds are synthesized. The compound is listed as PIHKAL entry #32.
+2C-H is a phenethylamine compound and the parent molecule of the 2C family of psychedelic substances. It serves as the unsubstituted precursor from which many active 2C compounds are synthesized. The compound is listed as [[2c-b-pihkal-entry-20]] #32.
 
 ## Chemical Classification
 

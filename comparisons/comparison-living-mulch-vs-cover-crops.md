@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [comparison, soil-management, cover-crops, living-mulch, organic-farming]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/steve-solomon-gardening-when-it-counts.md"
 type: comparison
 ---
 
@@ -15,7 +16,7 @@ type: comparison
 Living mulch and cover crops are both vegetative strategies for soil protection and improvement, but they
 differ fundamentally in their timing and relationship with cash crops. Living mulch consists of
 low-growing perennial or self-seeding annual plants that grow concurrently with the main crop throughout
-the growing season, providing continuous ground cover, weed suppression, and biological nitrogen
+the growing season, providing continuous ground cover, weed suppression, and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
 fixation. Cover crops are temporary plantings grown primarily during fallow periods between cash crops,
 then terminated and incorporated into the soil as green manure before the next cash crop planting begins.
 
@@ -25,7 +26,7 @@ then terminated and incorporated into the soil as green manure before the next c
 
 Cover crops are grown during periods when the soil would otherwise be bare and exposed, typically between
 cash crop cycles during fall, winter, or early spring. They are classified by their primary function:
-nitrogen fixers (legumes such as crimson clover, hairy vetch, field peas, and clover-grass mixtures),
+nitrogen fixers (legumes such as [[comparison-lupin-vs-crimson-clover-green-manure]], hairy vetch, field peas, and clover-grass mixtures),
 soil builders (grasses such as cereal rye, annual ryegrass, oats, and barley), and biofumigants (mustard
 family crops that release allelopathic compounds upon termination that suppress soil-borne pathogens and
 weed seeds). Cover crops are terminated before the cash crop is planted, either by mowing,
@@ -41,7 +42,7 @@ fungi and earthworms. Winter cover crops in temperate climates can add 2-6 tons 
 
 The key management consideration for cover crops is termination timing, which requires careful
 coordination with the subsequent cash crop planting schedule. Terminate too early and you lose
-significant biomass production and nitrogen contributions; terminate too late and the cover crop depletes
+significant [[dighton-fungal-biomass-production-aquatic-ecosystems]] and nitrogen contributions; terminate too late and the cover crop depletes
 soil moisture needed by the cash crop, creates a temporary nitrogen immobilization period as carbon-rich
 residues decompose, or physically interferes with planting equipment. In no-till systems, roller-crimping
 at the correct growth stage creates a thick mat of dead residue that acts as surface mulch while the cash
@@ -55,11 +56,11 @@ crop is planted directly through it.
 | Duration | Permanent or multi-season presence | Single season or part of a season |
 | Timing | Continuous throughout the entire growing season | Fallow periods between cash crop plantings |
 | Competition | Can compete with cash crop for resources | No direct competition (terminated before cash crop) |
-| Nitrogen Fixation | Ongoing during the growing season | Pulse release after termination and decomposition |
+| [[biological-nitrogen-fixation-agriculture]] | Ongoing during the growing season | Pulse release after termination and decomposition |
 | Weed Suppression | Continuous, season-long competition | During growth plus residue effect after termination |
 | Management Intensity | High (ongoing competition management) | Moderate (planting and termination timing) |
 | Termination | Not terminated; managed by mowing or suppression | Must be terminated before cash crop planting |
-| Soil Erosion Control | Year-round continuous protection | Seasonal protection during fallow periods |
+| Soil [[permplant-willows-salix-erosion-control-fodder]] | Year-round continuous protection | Seasonal protection during fallow periods |
 | Pest Habitat | Year-round beneficial insect habitat | Seasonal; may disrupt pest cycles between crops |
 | Best For | Orchards, vineyards, perennials, experienced growers | Row crops, vegetable rotations, fallow periods |
 | Drawbacks | Competition with crop, complex ongoing management | Requires precise termination timing, moisture risk |
@@ -73,7 +74,7 @@ better suited for experienced growers with the knowledge to fine-tune the system
 
 Cover crops offer a simpler, more broadly applicable approach that avoids direct crop competition
 entirely since the cover crop is always terminated before the cash crop is planted. The trade-off is that
-soil protection is only seasonal, and the termination timing adds a critical management decision that, if
+soil protection is only seasonal, and the termination timing adds a critical [[savory-holistic-resource-management-decision-framework]] that, if
 mishandled, can impact the subsequent cash crop.
 
 ## When to Choose Living Mulch

@@ -19,7 +19,7 @@ sources:
 ## Overview
 
 **Rubus occidentalis**, the black raspberry, is a deciduous bramble
-shrub in the family Rosaceae native to eastern North America. It
+shrub in the family Rosaceae native to [[polypore-fungi-eastern-north-america]] America. It
 produces small, dark purple to black berries with an intense, sweet-
 tart flavor.
 
@@ -70,12 +70,12 @@ moisture.
 ## Cultivation
 
 Black raspberry is propagated primarily through tip-layering of
-primocanes in late summer. Tissue culture propagation is used for
+primocanes in late summer. Tissue [[stamets-cultivator-liquid-culture-propagation-methods]] is used for
 certified virus-free planting material in commercial operations.
 
 Plants are typically spaced 0.6–0.9 m apart in rows 2.5–3 m apart.
 Trellising is recommended to support the heavy fruit load and improve
-air circulation.
+[[stamets-growing-room-air-circulation-co2-management]].
 
 A unique feature of black raspberry cultivation is the practice of
 tipping (removing the top 5–8 cm of primocanes) at approximately 60
@@ -83,7 +83,7 @@ cm height. This encourages lateral branching and significantly
 increases fruit yield.
 
 Commercial yields range from 2–4 tonnes per hectare. The species is
-more susceptible to viral diseases than red raspberry, particularly
+more susceptible to [[cervantes-viral-diseases-cannabis]] than red raspberry, particularly
 black raspberry necrosis virus and tobacco ringspot virus.
 
 Key pests include the raspberry fruitworm (*Byturus unicolor*),
@@ -118,12 +118,12 @@ The fruit is also processed into purees for use in beverages, yogurt,
 and ice cream. Freeze-dried black raspberry powder is marketed as a
 nutraceutical supplement.
 
-In North American cuisine, black raspberry pie is a traditional
+In [[growing-gourmet-north-american-reishi-species]] cuisine, black raspberry pie is a traditional
 dessert, particularly in regions where the species grows wild. The
 berries pair well with dark chocolate and vanilla flavors.
 
 Due to their softer texture compared to red raspberries, black
-raspberries have a shorter shelf life and are less commonly sold fresh
+raspberries have a shorter [[psilocybin-shelf-life-stability]] and are less commonly sold fresh
 in commercial markets.
 
 ## See Also

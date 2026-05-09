@@ -12,13 +12,13 @@ type: comparison
 
 ## Overview
 
-Endophytic fungi and mycorrhizal fungi are two major categories of
+Endophytic [[teaming-with-microbes-fungi-and-mycorrhizal-relationships]] fungi are two major categories of
 plant-associated fungi that live in intimate relationships with host plants, but
 their lifestyles, functions, and ecological roles differ significantly.
 Mycorrhizal fungi form mutualistic associations with plant roots, extending the
-root network and facilitating nutrient exchange. Endophytic fungi live entirely
+root network and facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]. Endophytic fungi live entirely
 within plant tissues — leaves, stems, and roots — without causing disease,
-conferring stress tolerance, pest resistance, and growth benefits. Understanding
+conferring [[fungal-lichen-stress-tolerance-and-poikilohydry]], pest resistance, and growth benefits. Understanding
 both is essential for managing healthy soil biology and optimizing plant
 performance in living soil systems.
 
@@ -27,9 +27,9 @@ performance in living soil systems.
 [[mycorrhizal-fungi]]
 
 Mycorrhizal fungi form symbiotic associations with plant roots, creating an
-extensive external mycelial network that extends root access area by 700 to
-1,000 times. The two main types — arbuscular mycorrhizal fungi (AMF,
-associating with most crop plants) and ectomycorrhizal fungi (EcM, associating
+extensive external [[gadd-mycelial-network-dynamics]] that extends root access area by 700 to
+1,000 times. The two main types — [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi (AMF,
+associating with most crop plants) and [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] (EcM, associating
 with trees and woody plants — see [[comparison-mycorrhizal-vs-endophytic-fungi]]
 - [[comparison-mycorrhizal-vs-saprotrophic-fungi]]
 - [[endophytic-fungi]]
@@ -110,4 +110,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

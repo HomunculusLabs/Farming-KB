@@ -1,5 +1,5 @@
 ---
-title: Permaculture Design Course Curriculum Overview
+title: Permaculture Design Course Curriculum
 created: 2026-04-26
 updated: 2026-04-24
 sources: Bill Mollison, Permaculture Design Course (1981 transcript, Yankee Permaculture, public domain)
@@ -23,7 +23,7 @@ The 15 pamphlets cover the full scope of permaculture design:
 | No. | Title | Topic Area |
 |-----|-------|------------|
 | I | An Introduction to Permaculture | Ethics, principles, crisis |
-| II | Permaculture in Humid Landscapes | Water, swales, forests |
+| II | Permaculture in Humid Landscapes | Water, [[swale]]s, forests |
 | III | Permaculture in Arid Landscapes | Desert strategies |
 | IV | Permaculture on Low Islands | Tropical atolls |
 | V | Permaculture on High Islands | Volcanic islands |
@@ -117,12 +117,8 @@ this done in the next five years if we keep it to ourselves."
 
 ## See Also
 
-- [[permaculture-chicken-forage-systems-design-course]]
+- permaculture-chicken-forage-systems-design-course
 - [[mollison-designers-pattern-understanding-in-design]]
-- [[coastal-permaculture-design-mollison]]
+- coastal-permaculture-design-mollison
 
-- [[permaculture-design-course](permaculture-design-course.md)
-- [[permaculture-design](permaculture-design.md)
-- [[permaculture-ethics](permaculture-ethics.md)
-- [mollison-permaculture-two-introduction-design-principles](mollison-permaculture-two-introduction-design-principles.md)
-- [mollison-zone-sector-analysis-permaculture](mollison-zone-sector-analysis-permaculture.md)
+- [[permaculture-design-course-methodology|Permaculture Design Course]] - [[permaculture-ethics-and-principles|Permaculture Ethics]] - [[mollison-permaculture-two-introduction-design-principles]] - [[zone-and-sector-analysis|Zone and Sector Analysis]] - [[bill-mollison]]

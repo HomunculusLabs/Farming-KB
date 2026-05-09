@@ -25,7 +25,7 @@ sources:
 
 # Pond and Aquaculture
 
-A farm pond is one of the highest-leverage infrastructure investments on a regenerative homestead — providing fish protein, irrigation water, duck habitat, wildlife refuge, fire protection, and nutrient cycling. In [[regenerative-agriculture-history]], ponds serve as the keystone water element that connects [[duck-keeping]], gardens, and pasture systems. For water quality management, feeding, harvest, winter care, and troubleshooting, see [[pond-maintenance-and-troubleshooting]].
+A [[query-how-do-i-design-a-farm-pond-for-irrigation-and-wildlife]] is one of the highest-leverage infrastructure investments on a regenerative homestead — providing fish protein, irrigation water, duck habitat, wildlife refuge, fire protection, and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. In , ponds serve as the keystone water element that connects [[duck-keeping]], gardens, and pasture systems. For water quality management, feeding, harvest, winter care, and troubleshooting, see [[pond-maintenance-and-troubleshooting]].
 
 ## Pond Design and Site Selection
 
@@ -99,7 +99,7 @@ Ducks and ponds are synergistic — see [[duck-keeping]] for duck-specific care.
 | **Pickerelweed** | Seeds | 1-3 ft | Edible seeds, good habitat |
 
 ### Habitat & Filtration Plants
-- **Cattails**: Edge plant, nutrient uptake, wildlife cover. Can be invasive — contain with root barrier.
+- **Cattails**: Edge plant, [[plant-nutrient-uptake-mechanisms]], wildlife cover. Can be invasive — contain with root barrier.
 - **Pickerelweed**: Purple flowers, fish habitat, edges.
 - **Water iris**: Beautiful, edges, nutrient uptake.
 - **Eelgrass/pondweed**: Submerged oxygenators.
@@ -112,8 +112,9 @@ Ducks and ponds are synergistic — see [[duck-keeping]] for duck-specific care.
 - Can be dried and stored as winter feed
 - **Caution**: Treat as crop, not weed. Manage aggressively or it blankets the pond.
 
-
 ## See Also
+
+- [[natfarm-aquaculture-pond-design]]
 
 - [[pond-maintenance-and-troubleshooting]] — Water quality, feeding, harvest, winter care, predator control
 - [[duck-keeping]] — Duck breeds, housing, and care

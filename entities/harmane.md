@@ -33,7 +33,7 @@ smoke, and mammalian tissues including the human brain.
 Its pharmacological significance centers on reversible MAO-A
 inhibition, serotonin receptor agonism, and neurotoxic properties at
 elevated concentrations. A principal β-carboline in *Banisteriopsis
-caapi*, harmane enables oral activity of DMT in ayahuasca by
+caapi*, harmane enables [[tihkal-oral-activity-mao-inhibition]] of DMT in ayahuasca by
 inhibiting peripheral MAO-A.
 
 ## Chemical Properties
@@ -68,24 +68,24 @@ ayahuasca — the pharmacological basis for the brew's oral activity.
 - **5-HT₂C** — appetite and mood effects
 
 **Other interactions:** Weak GABA_A benzodiazepine site binding
-(Ki > 100 µM); imidazoline I₂ receptor binding (Ki ~5–20 µM);
+(Ki > 100 µM); imidazoline I₂ [[tihkal-receptor-binding-serotonin]] (Ki ~5–20 µM);
 CYP1A2/CYP2D6 inhibition.
 
 **Neurotoxicity:** At elevated concentrations, induces apoptotic
-neuronal death via oxidative stress and mitochondrial dysfunction.
+neuronal death via [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] and mitochondrial dysfunction.
 Elevated levels found in postmortem brain tissue of essential tremor
 and Parkinson's patients; causality not established.
 
 ## Effects
 
-**Low dose (5–25 mg oral):** Mild anxiolysis, mood elevation,
+**[[ultra-low-dose-brassinosteroid-response-psilocybe-cubensis]] (5–25 mg oral):** Mild anxiolysis, mood elevation,
 enhanced visual imagery (closed-eye), drowsiness.
 
 **Moderate (25–100 mg oral):** Pronounced MAOI effects, potentiation
 of tryptamines/phenethylamines, common nausea, mild visual
 distortions at upper range.
 
-**Duration:** 4–8 hours. **Safety:** Narrow therapeutic index. Above
+**Duration:** 4–8 hours. **Safety:** Narrow [[cannabis-therapeutic-index-overview]]. Above
 100 mg: severe nausea, hypertensive crisis risk (tyramine + MAOI),
 neurotoxic potential. Not used recreationally as standalone drug.
 

@@ -1,5 +1,5 @@
 ---
-title: Medical Marijuana - Pharmacology and Qualifying Conditions
+title: cervantes medical marijuana pharmacology - Pharmacology and Qualifying Conditions
 created: 2026-04-28
 tags:
   - medical-cannabis
@@ -9,7 +9,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 synonyms:
   - medical cannabis
   - marijuana as medicine
@@ -22,7 +23,7 @@ type: concept
 # Medical Marijuana - Pharmacology and Qualifying Conditions
 
 Dr. John McPartland's contribution to *Marijuana Horticulture* provides a
-comprehensive overview of cannabis as medicine, covering its history,
+comprehensive overview of [[cannabis-as-medicine-clinical-reference]], covering its history,
 pharmacology, qualifying conditions, and the regulatory landscape.
 
 ## Historical Context
@@ -39,9 +40,9 @@ that provide maximal benefits and minimal side effects.
 The medical indications of marijuana are manifold:
 
 - **Glaucoma** - reduces intraocular pressure
-- **Muscle spasticity** - particularly multiple sclerosis
+- **Muscle spasticity** - particularly [[blesching-cannabis-multiple-sclerosis]]
 - **Movement disorders** - including Huntington's disease
-- **Pain syndromes** - various chronic pain conditions
+- **Pain syndromes** - various [[cannabis-chronic-pain-management]] conditions
 - **Nausea and vomiting** - opposes side effects of cancer chemotherapy
 - **Appetite enhancement** - helps people with AIDS and wasting syndrome
 - **Anxiety and depression** - widely recognized therapeutic benefit
@@ -112,7 +113,7 @@ water, and air balance.
 Even "natural" chemicals may cause problems. One case documented in
 O'Shaughnessy's journal involved a woman who fell ill while manicuring
 marijuana sprayed with abamectin, a natural compound from a soil
-bacterium approved for organic gardens. The lesson: grow well and avoid
+bacterium approved [[query-what-is-integrated-pest-management-for-organic-gardens]]. The lesson: grow well and avoid
 chemicals.
 
 ## Recommended Reading
@@ -121,7 +122,7 @@ chemicals.
 - *The Medicinal Uses of Cannabis and Cannabinoids*
   (Pharmaceutical Press, 2004)
 - *Marijuana the Forbidden Medicine* by Lester Grinspoon
-- *Encyclopedia of Psychoactive Plants* by Christian Ratsch
+- *Encyclopedia of Psychoactive Plants* by [[christian-ratsch]]
 
 ## See Also
 

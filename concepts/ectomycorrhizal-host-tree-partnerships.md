@@ -40,11 +40,11 @@ Beech forests support diverse ECM communities including boletes (particularly Bo
 
 The Betulaceae includes birches (Betula), alders (Alnus), and hazelnuts (Corylus). Birches are important ECM hosts in boreal and temperate forests, supporting species such as Leccinum (birch boletes), various Amanita species, and Cantharellus species.
 
-Hazelnut (Corylus avellana) is particularly important as a host for truffle cultivation. Hazelnut forms mycorrhizal associations readily with Tuber melanosporum and grows quickly, making it the preferred host species for Perigord black truffle orchards in many regions. See [[truffle-orchard-design-establishment]] for hazelnut-truffle partnerships.
+Hazelnut (Corylus avellana) is particularly important as a host for [[comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation]]. Hazelnut forms mycorrhizal associations readily with Tuber melanosporum and grows quickly, making it the preferred host species for Perigord black truffle orchards in many regions. See [[truffle-orchard-design-establishment]] for hazelnut-truffle partnerships.
 
 ### Myrtaceae
 
-The Myrtaceae is an important ECM host family in the Southern Hemisphere, particularly in Australia, South America, and Southeast Asia. Eucalyptus species form ECM associations with diverse fungal partners, many of which are endemic to Australasian ecosystems.
+The Myrtaceae is an important ECM host family in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], particularly in Australia, South America, and Southeast Asia. Eucalyptus species form ECM associations with diverse fungal partners, many of which are endemic to Australasian ecosystems.
 
 Eucalyptus plantations have been established worldwide, and their ECM fungal associates have been introduced along with the trees. In some cases, introduced ECM fungi have established in native ecosystems, with ecological consequences that are not fully understood.
 
@@ -66,16 +66,46 @@ Most commercially important edible ECM mushrooms fall in the middle of this spec
 
 Forest stands with higher tree species diversity generally support higher ECM fungal diversity. Mixed-species forests with oaks, pines, beeches, and birches support more mushroom species than monoculture stands of any single tree species.
 
-This relationship has practical implications for both mushroom foraging and forest management. Forests managed for maximum mushroom diversity should maintain or increase tree species diversity. Monoculture plantations, while efficient for timber production, support limited ECM fungal diversity and may be more vulnerable to pests and diseases. See ethnomycology and [[mycorrhizal-inoculation-techniques]] for applied inoculation methods.
+This relationship has practical implications for both mushroom foraging and forest management. Forests managed for maximum mushroom diversity should maintain or increase tree species diversity. Monoculture plantations, while efficient for timber production, support limited ECM fungal diversity and may be more vulnerable to [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. See ethnomycology and mycorrhizal-inoculation-techniques for applied [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]].
+
+## Economic Importance
+
+ECM partnerships have direct economic value in commercial forestry,
+timber production, and non-timber forest products such as wild
+mushrooms and truffles.
+
+In reforestation and plantation forestry, ECM inoculation of seedlings
+reduces transplant shock and improves survival on disturbed or
+nutrient-poor sites. Nursery practices that maintain native ECM
+communities on seedling root systems outperform bare-root planting
+without mycorrhizae in field trials across boreal and temperate zones.
+
+Truffle cultivation represents the highest-value application of ECM
+host tree management. Truffle orchards in Europe, Australia, and North
+America generate premium crops by pairing carefully selected host trees
+(oaks, hazelnuts, pines) with inoculated truffle species. See
+[[truffle-orchard-design-establishment]] for [[fukuoka-citrus-orchard-establishment-bare-hillside]]
+methods.
+
+Wild [[oyster-mushroom-harvesting-post-harvest]] from managed forests provides supplementary
+income for rural communities. In the Pacific Northwest, matsutake
+harvesting alone generates millions of dollars annually, demonstrating
+that ECM fungi are a tangible economic asset when forest management
+preserves suitable host trees and soil conditions.
+
+Carbon credit markets and ecosystem service payments increasingly
+recognize the role of ECM networks in carbon sequestration and nutrient
+cycling, creating new incentives to maintain ECM host tree diversity in
+production forests.
 
 ## See Also
 
-- [[mycorrhizal-tree-shrub-inoculation-guide]]
+- mycorrhizal-tree-shrub-inoculation-guide
 
 - [[mycorrhizal-fungi]]
 
 - [[truffle-cultivation-basics]]
 
-- [[pine-mushroom-forestry-management]]
+- pine-mushroom-forestry-management
 
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]

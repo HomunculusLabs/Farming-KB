@@ -1,5 +1,5 @@
 ---
-title: Indigenous Microorganisms (IMO)
+title: beneficial-indigenous-microorganisms-bim (IMO)
 created: 2026-04-28
 type: species
 tags: [korean-natural-farming, microorganisms, soil-biology, composting, cho-han-kyu]
@@ -41,15 +41,15 @@ The Stage 3 material is mixed with additional organic substrates — typically r
 
 ## Microbial Composition
 
-The IMO preparation contains a diverse microbial community dominated by:
+The IMO preparation contains a diverse [[edaphic-factors-microbial-community-structure]] dominated by:
 
-- **Lactobacillus species**: Lactic acid bacteria that suppress pathogens and improve nutrient availability
+- **Lactobacillus species**: Lactic acid bacteria that suppress pathogens and improve [[ph-and-nutrient-availability-garden-soils]]
 - **Bacillus species**: Spore-forming bacteria that fix nitrogen and produce growth-promoting substances
 - **Saccharomyces and other yeasts**: Fermentative organisms that produce organic acids, vitamins, and growth factors
 - **Actinomycetes**: Filamentous bacteria that decompose complex organic matter (cellulose, chitin, lignin)
-- **Trichoderma and other beneficial fungi**: Mycorrhizal associates that extend plant root systems and provide disease suppression
+- **Trichoderma and other beneficial fungi**: Mycorrhizal associates that extend plant root systems and provide [[aact-disease-suppression-mechanisms-ingham]]
 
-The exact composition varies based on the collection site, season, and substrate materials, which is considered a strength rather than a limitation in the KNF framework.
+The exact composition varies based on the collection site, season, and [[growing-gourmet-substrate-materials-wood-types]], which is considered a strength rather than a limitation in the KNF framework.
 
 ## Agricultural Applications
 
@@ -59,7 +59,7 @@ IMO is applied in Korean Natural Farming in several ways:
 - **Compost inoculant**: Added to compost piles to accelerate decomposition and produce microbially rich finished compost
 - **Seed treatment**: Seeds may be soaked in diluted IMO solution before planting to establish beneficial microbial communities on seed surfaces
 - **Foliar spray**: Diluted IMO solutions can be applied as foliar sprays to establish phyllosphere microbial communities
-- **Odor control**: Applied to animal housing and manure piles to suppress malodorous bacteria
+- **Odor control**: Applied to animal [[mollison-designers-rabbit-housing-and-manure-management]] piles to suppress malodorous bacteria
 
 ## Benefits Observed by Practitioners
 

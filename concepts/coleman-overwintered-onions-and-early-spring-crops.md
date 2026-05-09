@@ -1,5 +1,5 @@
 ---
-title: Overwintered Onions and Early Spring Crop Production
+title: coleman overwintered onions and early spring crops and Early Spring Crop Production
 tags:
   - farming
   - winter-harvest
@@ -45,7 +45,7 @@ Overwintered onion bulbs mature at the end of June, providing five or more weeks
 
 ### Protection
 
-Overwintered onions are initially protected under mobile greenhouses starting in late November. However, Coleman eventually moved to simpler protection structures (quick hoops) for this crop because the return on the crop did not always justify the length of time it occupied valuable greenhouse space. Under quick hoops, the onions receive [[coleman-winter-greens-variety-selection]]
+Overwintered onions are initially protected under mobile greenhouses starting in late November. However, Coleman eventually moved to simpler protection structures ([[coleman-quick-hoops-construction]]) for this crop because the return on the crop did not always justify the length of time it occupied valuable greenhouse space. Under quick hoops, the onions receive [[coleman-winter-greens-variety-selection]]
 
 'Rose Gold' has proven to be the best variety for early greenhouse production at Four Season Farm. Despite being marketed as a mid-season variety, it is just as early as supposedly earlier varieties that were trialed and is significantly more productive.
 
@@ -53,7 +53,7 @@ Overwintered onions are initially protected under mobile greenhouses starting in
 
 - The first harvest of tender new potatoes is available by approximately May 10
 - Harvest occurs at golf-ball size for the premium baby potato market
-- The dense planting and early harvest timing make this a high-value use of spring greenhouse space
+- The dense planting and early [[cannabis-harvest-timing-visual-cues]] make this a high-value use of spring greenhouse space
 
 ## Early Spring Beets
 
@@ -82,7 +82,7 @@ Wat [[raised-beds-vs-in-ground-vs-containers]] on system uses raised beds on the
 - Small misters (1 gallon per hour output) are placed every 3 feet along the bed and run continuously
 - The continuously moist conditions create an ideal microclimate for watercress
 
-Watercress was initially included in the salad mix for extra pizzazz but was later determined to be more profitable when sold as an individual crop rather than diluted into the mix.
+Watercress was initially included in the [[coleman-baby-leaf-salad-mix-quality-standards]] for extra pizzazz but was later determined to be more profitable when sold as an individual crop rather than diluted into the mix.
 
 ## 'Hakurei' Turnips
 
@@ -99,14 +99,14 @@ Watercress was initially included in the salad mix for extra pizzazz but was lat
 
 ## Strategic Integration
 
-These early spring crops are strategically integrated into the greenhouse rotation to maximize the productivity of every square foot throughout the year. The general pattern is:
+These early spring crops are strategically integrated into the greenhouse rotation to maximize the productivity of every [[comparison-biointensive-vs-square-foot-gardening]] throughout the year. The general pattern is:
 
 - Overwintered crops occupy greenhouse space through the winter with minimal input
 - As soon as overwintered crops are harvested or no longer need protection, the space is prepared for early spring crops
 - Early spring crops mature weeks ahead of outdoor equivalents, commanding premium prices
 - The revenue from these early crops helps justify the investment in greenhouse infrastructure
-- After the spring crops are harvested, the beds transition to summer c [[cotter-growing-space-design-fruiting-rooms]] ed protected growing space.
+- After the spring crops are harvested, the beds transition to summer c [[cotter-growing-space-design-fruiting-rooms]] ed protected [[cotter-growing-space-design-fruiting-rooms]].
 
 ## See Also
-- [[coleman-mobile-greenhouse-crop-rotation-patterns]]
+- coleman-mobile-greenhouse-crop-rotation-patterns
 - [[coleman-greenhouse-summer-crops]]

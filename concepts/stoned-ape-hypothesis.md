@@ -1,114 +1,126 @@
-# Stoned 
+# Stoned Ape Hypothesis
 
-The stoned ape hypothesis, proposed by  in "Food of the
-Gods" (1992), suggests that the consumption  in-containing-mushrooms-in-us ning
-mushrooms by early hominids played a significant role in the evolution
-of human consciousness, language, . The hypothesis posits
-that psychedelic mushrooms acted as a catalyst for cognitive development
-during a critical period of human evolution. See also 
-and .
+The stoned ape hypothesis, proposed by [[terence-mckenna]] in *Food of the Gods*
+(1992), suggests that the consumption of [[ceremonial-shamanic-use-psychoactive-mushrooms]] by early
+hominids was a primary catalyst in the evolution of human consciousness,
+language, and culture. The theory posits that [[psilocybin]]-containing
+mushrooms in the diet of foraging human ancestors triggered neurochemical
+changes that enhanced visual acuity, sexual arousal, and most critically,
+the capacity for language and abstract thought.
 
-## The Core Argument
+## The Premise
 
-McKenna argued that as early hominids expanded their diet from a
-primarily vegetarian regime to include varied food sources, they
-encountered [[mushrooms-as-food-of-the-gods-broma-theon]] the "real missing link" in
-human evolution. While the fossil record shows anatomical changes in
-hominid brain size and structure, it cannot explain the qualitative
-leap in cognitive capacity that distinguish humans from other primates.
-McKenna argued that the introduction of novel psychoactive compounds
-into the hominid diet provides a plausible mechanism for this leap.
+McKenna observed that as human ancestors shifted from a purely vegetarian diet
+to omnivory, they would have encountered and consumed a wide variety of
+mushrooms growing on the African grasslands. Among these were species of
+[[psilocybe-mairei]] containing the psychedelic compound psilocybin. The mushrooms
+would have been especially noticeable to hungry foragers because of their
+inviting smell and unusual form and color. Once the psychoactive effects were
+experienced, early humans would have returned to the mushrooms repeatedly.
 
-The early hominids' adoption of an omnivorous diet and their discovery
-of the power of certain plants were decisive factors in moving early
-humans out of the stream of animal evolution and into the fast-rising
-tide of language and culture. These discoveries set humans on the long
-journey to self-reflection.
+## Three Dose-Dependent Effects
 
-## Symbiosis and Coevolution
+McKenna proposed that psilocybin produced qualitatively different effects at
+different dosage levels, each conferring adaptive advantages:
 
-McKenna framed the human-mushroom relationship as a genuine case of
-biological symbiosis. The mushrooms benefited from human foraging
-behavior — early humans who traveled with herding animals created the
-dung-rich environments in which *[[stoned-ape-theory]] to
-argue for a fundamental reevaluation of humanity's relationship with
-[[mckenna-food-gods-amazonian-shamanism-ayahuasca]]-stoned-ape-hypothesis
-- [[mckenna-food-gods-stoned-ape-hypothesis]]
-## Practical Applications
+### Low Doses: Enhanced Visual Acuity
 
-Stoned Ape Hypothesis has a range of practical applications that make it relevant to
-both researchers and practitioners. Understanding these applications
-requires familiarity with the underlying principles and their
-manifestation in real-world contexts. The breadth of applications
-reflects the fundamental importance of this topic across disciplines.
+At low doses, psilocybin improves edge detection and visual acuity — the
+ability to notice patterns, track movement, and distinguish objects against
+complex backgrounds. This would have given a survival advantage to hunters
+and gatherers by making them more effective at spotting predators, tracking
+game animals, and identifying food resources. Better visual perception means
+better hunting, which means more protein, which means better-nourished
+offspring with larger brains.
 
-Implementation varies based on scale, available resources, and
-specific objectives. Small-scale applications may be relatively
-straightforward, while larger implementations require more careful
-planning and coordination. Adaptation to local conditions is always
-essential for achieving optimal results regardless of scale.
+### Medium Doses: Increased Sexual Arousal
 
-Documented case studies provide valuable reference points, though
-each situation presents unique combinations of opportunities and
-constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
-creative adaptation to local conditions and emerging challenges.
+At medium doses, psilocybin increases sexual arousal. In the competitive
+environment of early human groups, heightened sexual activity would have
+translated directly into greater reproductive success. McKenna suggested
+that this effect could have accelerated population growth and, by extension,
+the rate of genetic [[entheogens-and-cultural-evolution]].
 
-## Key Considerations
+### High Doses: Dissolution of Ego and Language Activation
 
-Several important considerations should guide approach and decision-
-making when working with this topic. These include environmental
-factors, resource availability, timing, and the specific goals of the
-implementation. Careful attention to these factors improves outcomes
-and reduces the likelihood of common problems and setbacks.
+At high doses, psilocybin produces the full [[leary-psychedelic-experience-bardo-mapping]]:
+dissolution of ordinary boundaries, visions, encounters with seemingly
+intelligent entities, and — critically for McKenna's theory — spontaneous
+outbursts of vocalization and linguistic behavior. The ecstatic state
+overwhelms the ego and produces an experience of unity with nature and the
+group, what McKenna described as the dissolution of identity "in the higher
+wordless truth of ecstasy."
 
-Environmental conditions play a particularly significant role in
-determining outcomes. Factors such as temperature, moisture, light
-exposure, and seasonal timing can substantially affect results.
-Monitoring these conditions and adapting practices accordingly is
-a hallmark of experienced and effective practice in this area.
+## Language Emergence
 
-Resource considerations include not only material inputs but also
-knowledge, skills, time, and ongoing management capacity. Realistic
-assessment of available resources helps prevent overcommitment and
-enables more sustainable and successful long-term implementations.
+The most consequential claim of the stoned ape hypothesis concerns the origin
+of language. McKenna argued that psilocybin specifically activates areas of
+the brain concerned with processing signals, particularly regions like Broca's
+area that govern speech formation. A common occurrence during psilocybin
+intoxication is spontaneous outbursts of poetry, glossolalia (speaking in
+tongues), and other vocal activity.
 
-## Common Challenges
+In the psychedelic state, language takes on an objectified, visible dimension
+that is ordinarily hidden from awareness. Language is seen, beheld, just as
+one would ordinarily see the physical surroundings. The impulse to speak — the
+"going forth of the word" — is sensed and described in the cosmogonies of many
+peoples. The psilocybin experience may have catalyzed the emergence of
+syntactic self-expression by forcing utterance, "almost as if the word is a
+concretion of meaning previously felt but left unarticulated."
 
-Practitioners commonly encounter several challenges when working with
-Stoned Ape Hypothesis. These include both technical difficulties and broader systemic
-issues that require adaptive management and creative problem-solving.
-Awareness of these common challenges enables more proactive planning
-and faster resolution when issues do arise during implementation.
+## Women, Gathering, and Language
 
-Technical challenges often relate to the complexity of interactions
-between multiple variables and the difficulty of predicting outcomes
-with certainty. Building in redundancy, monitoring key indicators, and
-maintaining flexibility in approach all help manage this inherent
-uncertainty and improve the resilience of implementations over time.
+McKenna further proposed that women, as gatherers, were under greater pressure
+to develop language than male hunters. Hunting placed a premium on strength,
+stealth, and stoic waiting — activities requiring very limited linguistic
+signals. For gatherers, the situation was different: those with the largest
+repertoire of communicable images of foods, their sources, and preparation
+secrets were placed at a significant advantage. Language may have arisen
+primarily as a mysterious power possessed largely by women — women who spent
+much more of their waking time together, talking.
 
-Learning from both successes and failures is essential for continuous
-improvement. Maintaining records of observations, interventions, and
-outcomes creates a valuable knowledge base that supports progressively
-better results with each iteration of practice and experimentation.
+The complex morphology of the natural world propelled the [[mckenna-women-gatherers-and-evolution-of-language]]
+toward modeling of the world beheld. This linguistic depth eventually led to
+what McKenna called "a momentous discovery: the discovery of agriculture."
 
-## Integration and Future Development
+## Huxley's Reducing Valve
 
-The greatest value from this topic often comes through integration
-with other systems and approaches. Rather than treating it in isolation,
-considering how it connects with and enhances other elements creates
-more robust and productive overall systems. This integrative approach
-is increasingly recognized as essential for sustainable outcomes.
+McKenna drew on [[aldous-huxley]]'s concept of consciousness as a "reducing
+valve." Huxley proposed that the brain and nervous system function primarily to
+filter out the vast majority of reality, admitting only a "measly trickle"
+useful for biological survival. Each person is potentially "Mind at Large,"
+but the reducing valve of the brain restricts consciousness to what is
+practical for staying alive. Plant hallucinogens, McKenna argued, can
+reliably and repeatedly open the floodgates of this reducing valve and expose
+the individual to the full force of what he called "the howling Tao."
 
-Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
+## Julian Jaynes and the Bicameral Mind
 
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
+McKenna connected his theory to Julian Jaynes's controversial proposal in
+*The Origin of Consciousness in the Breakdown of the Bicameral Mind*. Jaynes
+suggested that through Homeric times, people did not possess the kind of
+interior self-awareness that modern humans take for granted. What we call the
+ego was, for Homeric people, experienced as the voice of a "god" — an
+intrusive psychic function perceived as direct divine communication. McKenna
+criticized Jaynes for failing to consider hallucinogenic plants as a mechanism
+that could reliably drive the kind of transformative changes Jaynes described.
 
+## Criticism and Scientific Assessment
+
+The stoned ape hypothesis has not been widely accepted by the scientific
+community. Critics point out that there is no direct archaeological evidence
+for mushroom use by early hominids, and that the neurological effects
+McKenna describes at different dosages are oversimplified. However, the
+hypothesis remains influential in psychedelic culture and has contributed
+to broader discussions about the role of [[mckenna-specter-drugs-manifesto-new-thought-psychoactive-substances]] in human
+evolution. The question of how hallucinogens might have influenced the
+emergence of language and self-reflective consciousness remains open and
+largely unexplored by mainstream science.
+
+## Source
+
+- Terence McKenna, *Food of the Gods: The Search for the Original Tree of
+  Knowledge* (1992), Bantam Books (mckenna_t-food_of_the_gods.md)
+
+## See Also
+- [[mckenna-stoned-ape-hypothesis-human-evolution]]

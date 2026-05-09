@@ -1,5 +1,5 @@
 ---
-title: Useful Weeds and Weed Identification
+title: hamilton useful weeds and weed identification and Weed Identification
 created: 2026-04-28
 tags:
   - organic-gardening
@@ -19,7 +19,7 @@ type: concept
 Not all weeds are to be despised, and the organic gardener who gets
 rid of them all is wasting a valuable natural asset. Many weeds will
 attract insect predators, some provide food for birds and butterflies,
-and others can fix nitrogen in the soil. Before making an indiscriminate
+and others can [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] in the soil. Before making an indiscriminate
 onslaught on native plants, pause for thought.
 
 ## Bad Weeds to Remove
@@ -79,7 +79,7 @@ outstay its welcome.
 
 An antisocial plant, but allow some to remain if you can because it is
 an extremely important food for butterflies. Nettles also make an
-excellent liquid fertilizer when steeped in water.
+excellent [[jadam-liquid-fertilizer-nutritional-perspective]] when steeped in water.
 
 ### Corn Poppy - *Papaver rhoeas*
 

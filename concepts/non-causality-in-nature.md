@@ -1,5 +1,5 @@
 ---
-title: Non Causality In Nature
+title: fukuoka-philosophy-non-causality-nature In Nature
 created: 2026-04-28
 tags: [philosophy, science, epistemology, fukuoka, nature, systems-thinking]
 date: 2026-04-28
@@ -20,10 +20,10 @@ rice blast bacterium as the cause and recommends applying copper or mercury
 pesticides as the solution. However, Fukuoka demonstrated that the true
 situation is far more complex:
 
-- High temperatures and heavy rainfall may be contributing factors
+- High temperatures and heavy rainfall may be [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]]
 - Over-application of nitrogenous fertilizers may weaken plant resistance
 - Prolonged flooding during high temperatures may damage roots
-- The rice variety being grown may have inherently low resistance
+- The [[fukuoka-old-rice-variety-testing]] being grown may have inherently low resistance
 - Insufficient sunlight or carbon dioxide may slow photosynthesis
 - Excess unassimilated nitrogenous components may remain in leaves
 
@@ -80,7 +80,7 @@ than closer to it.
 
 ## Liebig's Law of Minimum Critique
 
-Fukuoka's critique of Liebig's law of minimum is particularly telling. The law
+Fukuoka's [[fukuoka-critique-of-liebig-law-of-minimum]]'s law of minimum is particularly telling. The law
 states that crop yield is determined by the nutrient present in shortest
 supply, illustrated by the famous barrel analogy where the water level cannot
 rise above the height of the lowest stave. Fukuoka identified two fundamental
@@ -123,7 +123,7 @@ The principle of non-causality has direct practical implications for farming:
 - **No quick fixes**: Because effects cannot be isolated from their web of
   causes, targeting individual symptoms with pesticides or fertilizers is
   futile and counterproductive.
-- **Holistic management**: The entire ecosystem must be considered as an
+- **[[savory-holistic-management-overview]]**: The entire ecosystem must be considered as an
   indivisible whole. Improving overall conditions is more effective than
   manipulating individual factors.
 - **Patience and trust**: Rather than intervening aggressively, the farmer
@@ -134,7 +134,7 @@ The principle of non-causality has direct practical implications for farming:
 ## The Unified Law of Nature
 
 If Fukuoka's fragmented laws had to be given a single name, he suggested "the
-Dharmic Law That All Things Return to One." All things fuse into a circle,
+[[fukuoka-dharmic-law-all-things-return-to-one]] That All Things Return to One." All things fuse into a circle,
 which reverts to a point, and the point to nothing. To man it appears as if
 something has occurred and something has vanished, yet nothing is ever created
 or destroyed. This is distinct from the scientific law of conservation of

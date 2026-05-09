@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Home Cultivation Movement 1970s Food of the Gods
+title: Psilocybin mushroom-home-cultivation-history Movement 1970s Food of the Gods
 created: 2026-04-28
 tags: [psilocybin, cultivation, history, mckenna, underground]
 date: 2026-04-28
@@ -22,13 +22,13 @@ calls "substance sophistication" seemed to lose momentum. The most
 significant development during the 1970s, from the point of view of
 those who had been alerted to the psychedelic potential by earlier
 experiences with LSD and mescaline, was the appearance of techniques
-and manuals for the home cultivation of psilocybin mushrooms, beginning
+and manuals for the home cultivation of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]], beginning
 in late 1975.
 
 ## O.T. Oss and O.N. Oeric
 
 The earliest and most influential of these manuals was *Psilocybin: The
-Magic Mushroom Growers Guide*, written by Terence McKenna and his
+[[australian-magic-mushroom-common-names]] Growers Guide*, written by Terence McKenna and his
 brother Dennis McKenna and published pseudonymously under the names O.T.
 Oss and O.N. Oeric. The book sold over a hundred thousand copies over
 the next five years, and several imitators also did well. The
@@ -57,7 +57,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -100,3 +100,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[mckenna-food-gods-graves-psilocybin-eleusis]]

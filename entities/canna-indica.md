@@ -19,7 +19,7 @@ sources:
 
 # Canna indica
 
-**Canna indica**, commonly known as **Indian shot**, **African arrowroot**, or simply **canna lily**, is a perennial herbaceous plant in the family Cannaceae. Native to tropical and subtropical regions of the Americas, it has been widely naturalized across the tropics and warm temperate zones worldwide. Valued for its striking ornamental flowers, edible rhizomes, and utility in constructed wetlands, *C. indica* occupies a unique niche at the intersection of horticulture, food production, and ecological engineering.
+**Canna indica**, commonly known as **Indian shot**, **African arrowroot**, or simply **canna lily**, is a perennial herbaceous plant in the family Cannaceae. Native to tropical and subtropical regions of the Americas, it has been widely naturalized across the tropics and warm temperate zones worldwide. Valued for its striking ornamental flowers, edible rhizomes, and utility in [[comparison-constructed-wetlands-vs-bioswales]], *C. indica* occupies a unique niche at the intersection of horticulture, food production, and ecological engineering.
 
 ## Taxonomy and Etymology
 
@@ -40,7 +40,7 @@ The genus name *Canna* derives from the Celtic *canna* (reed or cane), referring
 - Herbaceous perennial, 1.5–3.0 m tall in optimal conditions
 - Forms dense clumps from thick, branching rhizomes
 - Dies back to ground level in frost; regrows from rhizomes in spring
-- Rapid growth rate: can reach full height within a single growing season
+- Rapid growth rate: can reach full height within a single [[savory-growing-season-and-non-growing-season-management]]
 
 ### Leaves
 - Large, broad, paddle-shaped, 30–60 × 10–25 cm; alternate; green to bronze/burgundy/variegated; petioles sheathing
@@ -67,11 +67,11 @@ The genus name *Canna* derives from the Celtic *canna* (reed or cane), referring
 
 ## Distribution and Habitat
 
-Native range: southern US through Central America and Caribbean into northern South America. Widely naturalized in:
+Native range: southern US through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and Caribbean into northern South America. Widely naturalized in:
 
 - Tropical Africa, South Asia, and Southeast Asia
 - Pacific Islands, Australia (naturalized in eastern states)
-- Southern Europe (Mediterranean climate zones)
+- Southern Europe (Mediterranean [[mollison-climate-zones-permaculture-strategies]])
 - Subtropical regions of the Americas outside native range
 
 Natural habitats include:
@@ -103,16 +103,16 @@ Edible rhizomes used as food for millennia:
 - Flowers used as garnishes or in salads
 - Seeds extremely hard; roasted as coffee substitute; valued for ornamental bead-making
 
-## [[permaculture]] Applications
+## permaculture Applications
 
-*Canna indica* exemplifies "stacking functions":
+*Canna indica* exemplifies "[[gaias-garden-stacking-functions-detailed]]":
 
 1. **Food:** Edible rhizomes and shoots
 2. **Ornamental:** Showy flowers and bold foliage
 3. **Water purification:** Constructed wetland component
 4. **Pollinator support:** Nectar for hummingbirds, butterflies, bees
 5. **Biomass:** Abundant leaf/stem material for mulch and compost
-6. **Erosion control:** Dense roots stabilize stream banks and slopes
+6. **[[permplant-willows-salix-erosion-control-fodder]]:** Dense roots stabilize stream banks and slopes
 7. **Windbreak:** Tall growth shelters wind-sensitive crops
 8. **Microclimate:** Shade and humidity modification for understory
 
@@ -135,3 +135,4 @@ Can become aggressive in tropical/subtropical climates — spreads via rhizome f
 
 - [[hugelkultur]]
 - [[moringa-oleifera]]
+- [[sativa-vs-indica-growing-challenges]]

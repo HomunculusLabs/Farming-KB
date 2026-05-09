@@ -5,7 +5,7 @@ tags: [query, living-mulch, cover-crops, no-till-gardening, permaculture, soil-h
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
+  sources: []
 type: query
 ---
 
@@ -13,29 +13,29 @@ type: query
 
 ## Short Answer
 
-Living mulch is a ground cover crop grown beneath or between main crops to suppress weeds, retain moisture, build soil, and provide habitat for beneficial insects.
+Living mulch is a ground cover crop grown beneath or between main crops to suppress weeds, retain moisture, build soil, and provide [[query-how-do-i-design-habitat-for-beneficial-insects]] insects.
 Unlike traditional mulch made from dead material, living mulch is a actively growing plant that provides dynamic, ongoing benefits.
 The [[comparison-mulch-vs-living-mulch]] page compares the advantages and disadvantages of living versus dead mulch.
 Living mulches compete with weeds for light, water, and nutrients, effectively suppressing weed growth without herbicides.
-The [[gaias-garden-living-mulches-ground-covers]] page shows how Toby Hemenway integrates living mulches into food forests.
+The gaias-garden-living-mulches-ground-covers page shows how Toby Hemenway integrates living mulches into food forests.
 The key advantage over dead mulch is that living mulch continues to grow and adapt throughout the season.
 
 ## Living Mulch vs Cover Crops
 
 Living mulch and cover crops serve overlapping but distinct functions in sustainable agriculture.
 The [[living-mulch-systems-guide]] resource provides management strategies for transitioning between these approaches.
-Both approaches build soil organic matter and fix nitrogen, but living mulches do so continuously rather than in discrete pulses.
+Both approaches build soil [[hamilton-composting-and-organic-matter-management]] and [[query-how-to-fix-nitrogen-toxicity-in-cannabis]], but living mulches do so continuously rather than in discrete pulses.
 
 ## Best Species for Living Mulch
 
-White clover is the most popular living mulch for vegetable gardens due to its low growth habit and nitrogen fixing ability.
+White clover is the most popular living mulch for vegetable gardens due to its low growth habit and [[comparison-rhizobia-vs-free-living-nitrogen-fixing-bacteria]] ability.
 It tolerates foot traffic, competes well with weeds, and fixes between 50 and 200 pounds of nitrogen per acre annually.
-The [[permaculture-plants-ground-covers-living-mulches]] resource lists species for various climate zones and conditions.
+The [[permaculture-plants-ground-covers-living-mulches]] resource lists species for various [[mollison-climate-zones-permaculture-strategies]] and conditions.
 For orchards and food forests, comfrey, yarrow, and creeping juniper make excellent living mulch understories.
 The [[comparison-living-mulch-vs-cover-crops]] page shows how living mulch supports no-till soil biology.
 A permanent living mulch understory eliminates the need to apply new mulch material each season.
 This saves enormous amounts of labor and material costs compared to annually spreading wood chips or straw.
-Living mulch roots provide continuous carbon inputs to the soil through root exudates and root turnover.
+Living mulch roots provide continuous carbon inputs to the soil through [[mycorrhizal-root-exudates-pathogen-interactions]] and root turnover.
 This constant carbon supply feeds the soil food web and maintains the fungal networks that benefit all plants in the system.
 The living root network maintains mycorrhizal connections that are disrupted by tillage and bare fallow periods.
 Living mulch works particularly well under tall crops like tomatoes, corn, and fruit trees where light reaches the ground.
@@ -58,7 +58,7 @@ With proper species selection and management, living mulch can transform a garde
 - Living mulch is a growing ground cover that suppresses weeds, builds soil, and supports beneficial insects
 - [[white-clover-living-mulch]] covers the most popular living mulch species for vegetable gardens
 - [[comparison-living-mulch-vs-cover-crops]] explains the difference between concurrent and sequential soil building
-- [[gaias-garden-living-mulches-ground-covers]] shows food forest integration strategies
+- gaias-garden-living-mulches-ground-covers shows food forest integration strategies
 - Living mulch is especially valuable in no-till systems where it maintains continuous root networks
 
 ## Related Questions
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

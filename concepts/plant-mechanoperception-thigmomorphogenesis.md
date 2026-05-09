@@ -17,9 +17,9 @@ Far from being passive organisms, plants actively monitor their mechanical envir
 
 ## The Sense of Touch in Plants
 
-The idea that plants can feel may seem anthropomorphic, but at the cellular level, plants do possess mechanisms for detecting mechanical force. When a [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] ression, hormone distribution, and cell wall composition. The hormone ethylene plays a central role in mediating thigmomorphogenic responses.
+The idea that plants can feel may seem anthropomorphic, but at the cellular level, plants do possess mechanisms for detecting mechanical force. When a [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] ression, hormone distribution, and [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] composition. The hormone ethylene plays a central role in mediating thigmomorphogenic responses.
 
-Mechanical stimulation triggers ethylene production, which in turn influences cell elongation, wood formation, and [[coleman-sunlight-and-winter-crop-growth-rates]] around the tendril axis and represents a directed exploration of the mechanical environment.
+Mechanical stimulation triggers ethylene production, which in turn influences [[brassinosteroid-physiological-mechanisms-cell-elongation-division]], wood formation, and [[coleman-sunlight-and-winter-crop-growth-rates]] around the tendril axis and represents a directed exploration of the mechanical environment.
 
 ## Root Touch Responses
 
@@ -43,14 +43,14 @@ The molecular basis of plant mechanoperception involves several key components:
 
 ## Agricultural and Ecological Significance
 
-Understanding plant mechanoperception has practical implications [[fukuoka-textdoc-orchard-management-weed-succession-formative-pruning]] on or air movement can produce more compact, sturdy plants. In orchard management, trunk shakers used for harvest also induce thigmomorphogenic responses that can affect subsequent year growth.
+Understanding plant mechanoperception has practical implications [[fukuoka-textdoc-orchard-management-weed-succession-formative-pruning]] on or air movement can produce more compact, sturdy plants. In [[fukuoka-orchard-management-detailed]], trunk shakers used for harvest also induce thigmomorphogenic responses that can affect subsequent year growth.
 
 In ecology, mechanoperception shapes plant [[what-a-plant-knows-plant-vision-and-light-perception]] o mechanical interactions, as plants sense and respond to the physical presence of neighbors.
 
 ## See Also
 
-- plant olfaction and volatile organic compound signaling
-- plant vision and light perception
+- plant [[plant-olfaction-and-volatile-signaling]] organic compound signaling
+- plant [[what-a-plant-knows-plant-vision-and-light-perception]] perception
 - calcium signaling in plant stress responses
 - thigmomorphogenesis and wind adaptation in trees
 ## Practical Considerations
@@ -69,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

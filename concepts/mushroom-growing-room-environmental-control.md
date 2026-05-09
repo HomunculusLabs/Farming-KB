@@ -1,31 +1,13 @@
 ---
-title: "Mushroom Growing Room Environmental Control"
+title: "duggar-mushroom-growing-history-and-methods Room eclss-environmental-control-life-support"
 created: 2026-05-02
 updated: 2026-05-02
 type: concept
-tags: [[mushroom-cultivation, mycology]
-sources:
+tags: [mushroom-cultivation, mycology]
+sources: sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
----
-title: Mushroom Growing Room Environmental Control System
-created: 2026-04-26
-tags: [[mycology, mushroom-cultivation, environmental-control, ventilation, stamets]
-date: 2026-04-25
-updated: 2026-04-25
-sources: [raw/papers/the-mushroom-cultivator-stamets.md]
-type: concept
----
-
-# Mushroom Growing Room Environmental Control System
-
-The mushroom growing room must maintain a selected temperature range at
-high relative humidities. This is accomplished through adequate
-insulation and an environmental control system providing heating,
-cooling, humidification, and air handling. [[mushroom-cultivator-fruiting-conditions]]:
-
--   Supplies oxygen to growing mushrooms.
--   Carries away CO2 produced by [[agaricus-brunnescens]]*: 4-6 changes per hour.
+--- title: [[duggar-mushroom-growing-room-design]] [[chen-maitake-growth-parameters-environmental-control]] System created: 2026-04-26 tags: [mycology, mushroom-cultivation, environmental-control, ventilation, stamets]] date: 2026-04-25 updated: 2026-04-25 sources: [raw/papers/the-mushroom-cultivator-stamets.md] type: concept --- # Mushroom Growing Room Environmental Control System The mushroom growing room must maintain a selected temperature range at high relative humidities. This is accomplished through adequate insulation and an environmental control system providing heating, cooling, humidification, and air handling. [[mushroom-cultivator-fruiting-conditions:----supplies-oxygen-to-growing-mushrooms.----carries-away-co2-produced-by-[[agaricus-brunnescens]]*: 4-6 changes per hour.
 -   *[[psilocybe-cubensis]]*: 2-3 changes per hour.
 
 **Formula for required CFM:**

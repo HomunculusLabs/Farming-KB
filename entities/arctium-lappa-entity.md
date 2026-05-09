@@ -19,7 +19,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Duke, J.A. (2002). "Handbook of Medicinal Herbs." 2nd ed. CRC Press.
+  - Duke, J.A. (2002). "Handbook of permaculture-plants-medicinal-herbs-healing." 2nd ed. CRC Press.
   - Bown, D. (1995). "Encyclopaedia of Herbs and Their Uses." Dorling Kindersley.
   - Chevallier, A. (2016). "The Encyclopedia of Medicinal Plants." DK.
   - Wang, J. et al. (2018). "Arctium lappa L. — A Review of
@@ -47,7 +47,7 @@ burdock root is classified as an "alterative" or blood purifier.
 Plantae → Tracheophytes → Angiosperms → Eudicots → Asterids →
 **Asterales → Asteraceae → *Arctium → *A. lappa** L. (1753).
 
-Related species: *A. minus* (lesser burdock, common in North America),
+Related species: *A. minus* (lesser burdock, common in [[psilocybin-north-america-pacific-northwest]]),
 *A. tomentosum* (woolly burdock). *A. minus* is sometimes used
 interchangeably with *A. lappa* but has a thinner, less fleshy root.
 
@@ -73,7 +73,7 @@ worldwide and naturalized across North America, Australia, and parts of
 South America. It thrives in disturbed soils, forest edges, roadsides,
 stream banks, and vacant lots — anywhere with deep, nitrogen-rich soil
 and full to partial sun. Prefers well-drained loamy soils (pH 5.5–7.0)
-but tolerates a wide range. Deep taproot provides drought tolerance once
+but tolerates a wide range. Deep taproot provides [[dighton-fungal-drought-tolerance-plant-water-relations]] once
 established.
 
 ## Edible and Culinary Use
@@ -123,12 +123,12 @@ sore throat; seeds are considered more active than the root in TCM.
 ## Permaculture Applications
 
 Burdock is an exceptional permaculture plant with multiple functions:
-- **Dynamic accumulator:** Deep taproot mines subsoil minerals (potassium,
+- **[[nutrient-dynamic-accumulator-reference]]:** Deep taproot mines subsoil minerals (potassium,
   calcium, magnesium, iron); excellent in chop-and-drop mulch systems
 - **Compost activator:** Mineral-rich leaves decompose rapidly,
   activating compost piles
-- **Companion planting:** Deep roots break compacted subsoil, improving
-  soil structure; attracts beneficial insects when flowering
+- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:** Deep roots break compacted subsoil, improving
+  soil structure; attracts [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] when flowering
 
 ## Cultivation
 
@@ -141,6 +141,8 @@ Burdock is an exceptional permaculture plant with multiple functions:
 - **Invasiveness:** Burs spread aggressively — remove flower heads
   before seed set if naturalization is undesired
 ## See Also
+
+- [[arctium-minus]]
 
 - [[taraxacum-officinale]]
 - [[food-forest-permaculture]]

@@ -1,8 +1,8 @@
 ---
-title: Glyoxalylamide Intermediate in tryptamine Synthesis
+title: Glyoxalylamide glyoxalylamide intermediate in tryptamine synthesis Synthesis
 created: 2026-04-28
 tags:
-  - psilocin synthesis 4 hydroxyindole to psilocin
+  - acetylation-protection-psilocin-synthesis-4-hydroxyindole 4 hydroxyindole to psilocin
   - indole-chemistry
   - tryptamine
   - intermediates
@@ -47,7 +47,7 @@ can be viewed as a telescoped acylation-amidation conversion:
 ### Step 2a: Oxalylation
 
 4-Acetylindole (compound 4) is dissolved in anhydrous diethyl ether and
-treated with oxalyl chloride at 0 degrees C. Oxalyl chloride
+treated with [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] at 0 degrees C. Oxalyl chloride
 ((COCl)2) acts as an electrophile, substituting at the activated 3-
 position of the indole ring to form the acid chloride intermediate
 (compound 5). This intermediate features a glyoxalyl chloride moiety
@@ -76,9 +76,15 @@ is 80.0%, affording compound 6 as an ivory white crystalline powder.
 
 ## Spectroscopic Characterization
 
-### 1H nmr characterization [[fungal-functional-groups]]:
+### 1H nmr characterization fungal-functional-groups:
 
 1. The ketone carbonyl (C-1', 185.4 ppm) is reduced to a methylene,
    forming the alpha-position of the ethylamine side chain.
 2. The amide carbonyl (C-2', 168.4 ppm) is reduced to the tertiary
    amine N(CH3)2, completing the [[glyoxalylamide-reduction-tryptamine-synthesis-pathway]]
+## See Also
+- [[psilocin-synthesis-4-hydroxyindole-to-psilocin]]
+- [[4-hydroxyindole]]
+- [[glyoxalylamide-reduction-tryptamine-synthesis-pathway]]
+- [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]]
+- [[lialh4-reduction-glyoxalylamide-psilocin-synthesis]]

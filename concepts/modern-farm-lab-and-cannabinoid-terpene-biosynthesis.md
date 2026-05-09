@@ -1,5 +1,5 @@
 ---
-title: "LAB and Cannabinoid Terpene Biosynthesis Enhancement"
+title: "LAB and Cannabinoid clarke-marijuana-botany-terpene-biosynthesis-aromatic-profiles Enhancement"
 created: 2026-04-28
 tags: [cannabis, lactic-acid-bacteria, terpene-biosynthesis, cannabinoid-production, organic-farming]
 date: 2026-04-25
@@ -25,7 +25,7 @@ G.N. Wididana, describing an inoculant of multiple beneficial microorganism
 species providing: suppression of plant pathogens and diseases, conservation of
 energy in plants, solubilization of soil minerals, soil microbial-ecological
 balance, photosynthetic efficiency, and biological [[natural-farming-fpj-preparation]] philosophy, which also
-relies on indigenous microorganisms and fermented inputs to build [[knf-lactic-acid-bacteria-serum]] production method described below
+relies on [[beneficial-indigenous-microorganisms-bim]] and fermented inputs to build [[knf-lactic-acid-bacteria-serum]] [[clay-seed-pellet-production-method-concrete-mixer]] described below
 is one of the core inputs in both systems.
 
 The original EM blend included lactic acid bacteria, purple bacteria, yeast,
@@ -37,7 +37,7 @@ only lactic acid bacteria, purple bacteria, and yeast.
 Research on greenhouse tomatoes demonstrated that a blend of humic fertilizer
 from vermicompost and bio-fertilizer containing Lactobacillus casei, Lactobacillus
 lactis, Rhodopseudomonas palustris, and Saccharomyces cerevisiae increased total
-tomato yield by 19-21% (soil application) and 13-14% (foliar application).
+tomato yield by 19-21% (soil application) and 13-14% ([[ultra-low-cost-foliar-application-methods]]).
 
 Beyond bio-fertilization, lactic acid bacteria exhibit antifungal activity
 against a broad range of plant pathogens (Magnusson et al.).
@@ -87,7 +87,7 @@ synthase (PKS) enzyme that forms olivetolic acid. The biochemical pathway:
 - Increased olivetolic acid availability increases cannabinoid precursor supply
 
 Research by Tahir et al. confirmed that the acyl-activating enzyme CsAAE1 in
-Cannabis sativa trichomes specifically activates hexanoate to form hexanoyl-CoA,
+[[comparison-cannabis-sativa-vs-cannabis-indica]] trichomes specifically activates hexanoate to form hexanoyl-CoA,
 supplying the cannabinoid pathway. CsAAE1 is trichome-specific and localized to
 the cytoplasm. Hexanoyl-CoA levels of 15.5 pmol/g fresh weight were found in
 female hemp flowers, paralleling CBDA accumulation.
@@ -98,7 +98,7 @@ Beyond its role in cannabinoid biosynthesis, hexanoic acid (Hx) is a potent
 natural priming agent of plant defense responses:
 
 - Early activation of broad-spectrum defenses including callose deposition
-- Induction of salicylic acid (SA) and jasmonic acid (JA) pathways
+- Induction of [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]] (SA) and jasmonic acid (JA) pathways
 - Priming of pathogen-specific responses according to pathogen lifestyle
 - Anti-oxidant protective effects through redox-related gene priming
 - Effective against a wide range of host plants and pathogens

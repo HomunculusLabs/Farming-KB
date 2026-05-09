@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-Corrosion electrochemistry studies the coupled oxidation and reduction reactions that degrade metals in contact with electrolytes. It explains why corrosion is often localized, why dissimilar metals accelerate attack, and why protective [[fungi-in-extreme-acidic-environments]], hydrogen evolution can be the dominant cathodic reaction. The available cathodic process strongly affects corrosion rate, hydrogen uptake, and failure mode.
+Corrosion electrochemistry studies the coupled oxidation and reduction reactions that degrade metals in contact with electrolytes. It explains why corrosion is often localized, why dissimilar metals accelerate attack, and why protective fungi-in-extreme-acidic-environments, hydrogen evolution can be the dominant cathodic reaction. The available cathodic process strongly affects corrosion rate, hydrogen uptake, and failure mode.
 
 The electrolyte closes the circuit by allowing ions to move. Without ionic conduction, charge separation would quickly stop the reactions.
 
@@ -55,9 +55,9 @@ Coating only the anodic metal can be risky if holidays expose small anodic defec
 
 Passivation is the formation of a thin, adherent, protective surface film that reduces corrosion rate. Stainless steel relies on chromium-rich oxide, aluminum on aluminum oxide, and titanium on a stable titanium oxide film.
 
-A passive film is not an inert shell in a simple sense. It is a dyna [[challenges-neurotropic-fungi-identification-chemical-analysis]] face analysis, microscopy, profilometry, and chemical analysis of corrosion products help connect electrochemical data to actual damage morphology.
+A passive film is not an inert shell in a simple sense. It is a dyna challenges-neurotropic-fungi-identification-chemical-analysis face analysis, microscopy, profilometry, and [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of corrosion products help connect electrochemical data to actual damage morphology.
 
-Inspection should match the failure mode. Uniform wall loss, pits, cracks, and under-deposit corrosion require different sampling strategies and nondestructive testing methods.
+Inspection should match the failure mode. Uniform wall loss, pits, cracks, and under-deposit corrosion require different sampling strategies and nondestructive [[soil-testing-methods-interpretation]].
 
 ## Engineering Significance
 
@@ -65,9 +65,41 @@ Corrosion is an economic and safety problem as much as a chemical one. It increa
 
 Designers must consider life-cycle exposure, not just initial material strength. A strong alloy can be a poor choice if it is galvanically incompatible or prone to localized corrosion in the service environment.
 
-The best corrosion decisions combine electrochemical testing, service history, material standards, environmental control, and inspection planning.
+The best corrosion decisions combine electrochemical testing, service history, material standards, [[eclss-environmental-control-life-support]], and inspection planning.
 
 For engineering practice, the goal is rarely to eliminate corrosion absolutely. The realistic goal is to reduce rate, prevent dangerous localization, maintain inspectability, and keep risk within acceptable margins.
+
+## Electrochemical Monitoring Techniques
+
+Electrochemical monitoring provides real-time data on corrosion rate and
+mechanism without destructive sampling. It is widely deployed on pipelines,
+storage tanks, offshore platforms, and reinforced concrete structures.
+
+Potentiodynamic polarization scans sweep the electrode potential while
+measuring current to identify active, passive, and pitting regions. These
+scans help select materials and evaluate inhibitor performance in the
+laboratory before field deployment.
+
+Electrochemical noise analysis monitors spontaneous fluctuations in
+potential and current. Unlike polarization methods, it does not perturb
+the system, making it ideal for long-term, online monitoring of
+localized corrosion such as pitting and crevice attack.
+
+Electrochemical impedance spectroscopy (EIS) applies a small AC signal
+over a range of frequencies to separate resistive, capacitive, and
+diffusive contributions. Multi-frequency EIS can distinguish coating
+degradation, pore formation, and charge-transfer kinetics in a single
+measurement.
+
+Field probes using linear polarization resistance give a rapid estimate
+of general corrosion rate. When combined with zero-resistance ammetry
+for galvanic current measurement, they provide a practical toolkit for
+plant inspectors managing aging infrastructure.
+
+Wireless corrosion sensors now enable continuous monitoring at remote
+or hazardous sites, transmitting data for trend analysis and alerting
+operators to sudden rate changes that may indicate coating failure or
+process upsets.
 
 ## References
 

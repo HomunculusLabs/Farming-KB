@@ -1,5 +1,5 @@
 ---
-title: Cannabis For Gerd And Acid Reflux
+title: Cannabis For cannabis for gerd and acid reflux Reflux
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -12,16 +12,16 @@ sources:
 
 updated: 2026-04-18
 
-Gastro-esophageal reflux disease (GERD) affects approximately 20% of the population in Western countries. Research from The Cannabis Health Index documents that THC directly addresses the primary mechanism of acid reflux by reducing transient lower esophageal sphincter relaxations.
+Gastro-esophageal reflux disease (GERD) affects approximately 20% of the population in Western countries. Research from The [[blesching-cannabis-health-index-autoimmune-conditions]] documents that THC directly addresses the primary mechanism of acid reflux by reducing transient lower esophageal sphincter relaxations.
 
 ## Key Clinical Studies
 
 ### THC Reduces Reflux Episodes
-**Beaumont et al. (2009)**: "Effect of Delta(9)-tetrahydrocannabinol, a cannabinoid receptor agonist, on the triggering of transient lower oesophageal sphincter relaxations in dogs and humans." British Journal of Pharmacology.
+**Beaumont et al. (2009)**: "Effect of Delta(9)-tetrahydrocannabinol, a [[cannabis-cannabinoid-receptor-pharmacology]] agonist, on the triggering of transient lower oesophageal sphincter relaxations in dogs and humans." British Journal of Pharmacology.
 
 This is the key study for cannabis and GERD. Transient lower esophageal sphincter relaxations (TLESRs) are the primary mechanism of acid reflux -- they are the moments when the valve between stomach and esophagus opens inappropriately, allowing acid to flow upward. THC significantly reduced TLESRs in both animal models and human subjects.
 
-This means THC doesn't just suppress acid production (like proton pump inhibitors) or neutralize acid (like antacids) -- it addresses the actual mechanical cause of reflux.
+This means THC doesn't just suppress [[staycare-fungal-organic-acid-production-metal-leaching]] (like proton pump inhibitors) or neutralize acid (like antacids) -- it addresses the actual mechanical cause of reflux.
 
 ### Stress and Heartburn
 **Naliboff et al. (2004)**: "The effect of life stress on symptoms of heartburn." Psychosomatic Medicine.
@@ -93,6 +93,6 @@ Cannabis addresses the root cause (TLESRs) rather than just suppressing acid. It
 ## Source
 
 Uwe Blesching, The Cannabis Health Index (2015), GERD section
-- [[hallucinogenic-mushroom-health-risks-and-harm-reduction]]
+- hallucinogenic-mushroom-health-risks-and-harm-reduction
 - [[cannabis-root-bound-symptoms-and-management]]
 - [[cannabis-and-ibs-research]]

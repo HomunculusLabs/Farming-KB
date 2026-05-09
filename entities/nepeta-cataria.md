@@ -32,7 +32,7 @@ sources:
 
 Nepeta cataria, commonly known as catnip or catmint, is a hardy perennial herb in the
 Lamiaceae (mint) family. Native to Europe, Asia, and parts of Africa, it has naturalized
-widely across North America. The plant is famous for its profound behavioral effects on
+widely across [[psilocybin-north-america-pacific-northwest]]. The plant is famous for its profound behavioral effects on
 domestic cats, caused by the iridoid terpenoid nepetalactone found in its essential oil.
 Beyond its feline appeal, catnip has a long history of human use as a medicinal tea,
 culinary herb, and garden companion plant. It is drought-tolerant, cold-hardy, and
@@ -66,7 +66,7 @@ excellent for pollinator gardens.
 - **Thymol:** Minor constituent with antimicrobial activity
 - **Carvacrol:** Phenolic monoterpene with antioxidant properties
 - **Caryophyllene:** Sesquiterpene with anti-inflammatory activity
-- **Citronellol, geraniol, limonene:** Minor volatile compounds contributing to aroma
+- **Citronellol, geraniol, limonene:** Minor [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] contributing to aroma
 - **Rosalin:** Phenolic glycoside with reported mild sedative effects
 - **Flavonoids:** Including luteolin, apigenin, and quercetin derivatives
 
@@ -112,7 +112,7 @@ excellent for pollinator gardens.
   other insects; comparable efficacy to DEET in laboratory studies
 - Essential oil can be diluted in carrier oil for topical application
 - Dried catnip scattered in gardens or stored with grain deters pest insects
-- Companion planting around vegetables reduces aphid and flea beetle pressure
+- [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] around vegetables reduces aphid and flea beetle pressure
 
 ## Cultivation and Permaculture Applications
 
@@ -123,9 +123,9 @@ excellent for pollinator gardens.
 - **Light:** Full sun to partial shade; more aromatic in full sun
 - **Propagation:** Easily grown from seed (stratify 1–2 weeks for best germination),
   cuttings, or division; seeds require light for germination
-- **Companion planting:** Attracts beneficial insects including parasitic wasps,
+- **Companion planting:** Attracts [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] including parasitic wasps,
   tachinid flies, and pollinators; deters flea beetles, aphids, and squash bugs
-- **Permaculture role:** Ground cover, erosion control, dynamic accumulator,
+- **Permaculture role:** Ground cover, [[permplant-willows-salix-erosion-control-fodder]], [[nutrient-dynamic-accumulator-reference]],
   pollinator corridor plant; integrates well in herb spirals and food forest
   understories
 - **Maintenance:** Cut back after flowering to encourage rebloom and prevent

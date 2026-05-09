@@ -1,5 +1,5 @@
 ---
-title: Stable Carbon Isotope Labelling for Mycorrhizal Carbon Tracking
+title: Stable Carbon carbon-isotope-labelling-mycorrhizal-fatty-acids for mycoheterotrophic-plants-mycorrhizal-carbon-theft Tracking
 created: 2026-04-28
 tags: [isotope-labelling, mycorrhiza, carbon-allocation, AMF, fatty-acids]
 date: 2026-04-25
@@ -12,10 +12,10 @@ type: concept
 # Stable Carbon Isotope Labelling for Mycorrhizal Carbon Tracking
 
 Stable carbon isotope (13C) labelling is a powerful technique for tracing
-carbon flow from plants through arbuscular mycorrhizal (AM) fungal
+carbon flow from plants through [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] (AM) fungal
 networks into soil microbial communities. By tracking the movement of
 13C-labelled assimilates, researchers can quantify carbon allocation to
-different fungal compartments, measure carbon transfer between
+different fungal compartments, measure [[singh-mycorrhizal-network-carbon-transfer-plants]] between
 mycorrhizal partners, and assess the contribution of mycorrhizal
 networks to soil carbon dynamics.
 
@@ -70,7 +70,7 @@ AM fungi.
 Established monoxenic cultures in compartmentalized Petri dishes can
 be labelled with sterile filtered 13C D-glucose solution placed in a
 ring around the initial inoculum plug. Two-compartment dishes with
-roots in solid medium and hyphal growth in liquid medium are preferred
+roots in solid medium and [[bloomfields-orchard-hyphal-growth-and-invasive-biology]] in liquid medium are preferred
 because the mycelium can be subjected to treatments that do not
 directly affect roots, and carbon translocation by the mycelium can be
 estimated more precisely.
@@ -90,7 +90,7 @@ plastic chamber and injecting 13CO2. The chamber is first flushed of
 non-labelled CO2 by allowing plants to deplete it. A delta 13C value
 of approximately 1,000 (around 2 percent 13C, meaning 1 percent
 enrichment) provides a good chance of tracing carbon to AM fungi and
-rhizosphere bacteria. Weather conditions are critical: excessive heat
+[[lowenfels-rhizosphere-bacteria-plant-interaction]]. Weather conditions are critical: excessive heat
 in the chamber can damage plants, and low light intensity reduces
 assimilation.
 
@@ -135,15 +135,14 @@ standards and confirmed by gas chromatography-mass spectrometry.
 ### Isotope Ratio Measurement
 13C enrichment in crude tissue samples is determined by isotope ratio
 mass spectrometry (IRMS), interfaced to a solid/liquid preparation
-module that measures 13C/12C ratios of combusted CO2.
-
-Specific bacterial PLFAs including i15:0, a15:0, i16:0, 10Me16:0,
 ## Related
 
-- [[mycorrhizal-allelochemicals]]
+- mycorrhizal-allelochemicals
 
 - [[symbiotic-fungi-endophytic-fungi-in-plants]] for in vitro systems
 
 ## See Also
 
 - [[symbiotic-fungi-mycorrhizal-carbon-trading]]
+- [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]
+- [[plantago-lanceolata]]

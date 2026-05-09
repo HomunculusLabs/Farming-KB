@@ -26,8 +26,8 @@ pioneered at the Mon Mushroom Institute in Kiryu, Japan.
 
 **CAUTION:** Alexander H. Smith (1949) notes that some European strains have
 been implicated in poisonings. However, no recent reports suggest alarm, and
-the species has long been enjoyed as a favorite edible in both North America
-and Japan. As with all wild mushrooms, proper identification is essential.
+the species has long been enjoyed as a favorite edible in both [[psilocybin-north-america-pacific-northwest]]
+and Japan. As with all [[edible-wild-mushrooms-by-region]], proper identification is essential.
 
 ## Description
 
@@ -50,7 +50,7 @@ clamp connections are present. The context is monomitic.
 
 ## Distribution
 
-*Hypholoma sublateritium* is found in eastern North America, Europe, and
+*Hypholoma sublateritium* is found in [[polypore-fungi-eastern-north-america]] America, Europe, and
 temperate Asia including Japan and Korea. Its distribution spans a range of
 temperate forest ecosystems where hardwood trees are present.
 
@@ -61,10 +61,10 @@ occasionally on chestnut. Alexander H. Smith noted the largest specimens "at
 the edge of an old sawdust pile in an oak-hickory woods" and called it "a
 highly prized esculent."
 
-The mycelium is white and cottony at first, soon becoming linearly rhizomorphic
+The [[mycelium]] is white and cottony at first, soon becoming linearly rhizomorphic
 with a silky sheen. It soon develops zones of tawny or rusty brown
 discoloration. On sterilized sawdust, this discoloration immediately precedes
-primordia formation, serving as a useful visual indicator for cultivators. The
+[[growing-gourmet-primordia-formation-pinning]], serving as a useful visual indicator for cultivators. The
 fragrance is pleasant and sweet, reminiscent of freshly rained-upon forest,
 similar to [[paul-stamets]] has advocated for further investigation
 into the medicinal potential of this species.
@@ -81,5 +81,5 @@ and sesame oil.
 
 - Smith, A.H. (1949). *Mushrooms in Their Natural Habitats*.
 - Ying, J. (1987). *Icons of Medicinal Fungi*.
-- Stamets, P. *Growing Gourmet and [[growing-gourmet-hypholoma-sublateritium-kuritake-cultivation]]
+- Stamets, P. *Growing Gourmet and growing-gourmet-hypholoma-sublateritium-kuritake-cultivation
 - [[mushroom-cultivation-basics]]

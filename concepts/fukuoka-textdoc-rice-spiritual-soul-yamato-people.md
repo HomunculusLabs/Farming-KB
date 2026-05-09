@@ -38,7 +38,7 @@ This orientation of service stood in stark contrast to the modern farmer's relat
 
 The farmer's service to the land was not passive resignation. It demanded profound attentiveness, patience, and a willingness to observe nature's processes without intervening unnecessarily.
 
-Fukuoka's own practice of natural farming — sowing without plowing, growing rice without flooding paddies — emerged from decades of such attentive service. He learned that the less he did, the more the land revealed its own capacity for abundance.
+Fukuoka's own practice of [[natural-farming]] — sowing without plowing, growing rice without flooding paddies — emerged from decades of such attentive service. He learned that the less he did, the more the land revealed its own capacity for abundance.
 
 To farm as service is to recognize that the soil, the water, and the seed possess a wisdom that human cleverness can never surpass. The farmer who serves the land does not seek to improve upon nature but to align himself with it. In doing so, he participates in something eternal.
 
@@ -48,19 +48,19 @@ Once man began to think that he grew the rice, people lost a sense of unity with
 
 It began to view the work of farmers engaged in rice cultivation, which had been service to God, as an economically inefficient and unscientific activity. This shift in perspective was not merely intellectual but deeply cultural.
 
-When rice became an object of scientific study and economic calculation, the entire relationship between the Japanese people and their land was transformed. The farmer who had once served the land now sought to extract maximum productivity from it. The sacred rhythms that had governed agricultural life gave way to the relentless pursuit of efficiency and profit.
+When rice became an object of [[roger-heim-scientific-study-psilocybin]] and economic calculation, the entire relationship between the Japanese people and their land was transformed. The farmer who had once served the land now sought to extract maximum productivity from it. The sacred rhythms that had governed agricultural life gave way to the relentless pursuit of efficiency and profit.
 
 In losing the sense that rice cultivation was a sacred act, the Japanese people lost a fundamental connection to their cultural identity and to the natural world that sustained them.
 
 ## The Fading Flavor and Vitality of Modern Rice
 
-One of the most tangible consequences of rice's spiritual degradation is the loss of its flavor and vitality. Although Japanese agricultural technology appears to have progressed rapidly over the fifty years following modernization, the productivity of the land has in truth declined.
+One of the most tangible consequences of rice's spiritual degradation is the loss of its flavor and vitality. Although [[fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse]] technology appears to have progressed rapidly over the fifty years following modernization, the productivity of the land has in truth declined.
 
-In terms of quality, this period has been one of retreat rather than advance. The rice produced by scientific farming methods looks impressive in quantitative terms. Yields per hectare have risen. But the grain itself has been hollowed out.
+In terms of quality, this period has been one of retreat rather than advance. The rice produced by [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] methods looks impressive in quantitative terms. Yields per hectare have risen. But the grain itself has been hollowed out.
 
 Modern rice lacks the depth of flavor that characterized rice grown in living soil by farmers who understood their craft as a spiritual practice. It lacks the aroma that once filled storehouses at harvest time.
 
-More profoundly, modern rice lacks vitality — the life force that Fukuoka considered the true measure of any food. Rice grown with chemical fertilizers and protected by pesticides may fill the stomach, but it cannot nourish the body and spirit in the way that rice grown in harmony with nature can.
+More profoundly, modern rice lacks vitality — the life force that Fukuoka considered the true measure of any food. Rice grown with [[cervantes-chemical-fertilizers-guide]] and protected by pesticides may fill the stomach, but it cannot nourish the body and spirit in the way that rice grown in harmony with nature can.
 
 The reduction of rice to its nutritional components — calories, protein, vitamins — stripped it of everything that made it truly sustaining. The consumer has access to more rice than ever before but cannot find rice that truly satisfies. When the soul is removed from farming, it is also removed from the food.
 
@@ -100,7 +100,7 @@ Rice farming in Japan passed through several stages of increasing separation fro
 
 4. **1970: Agribusiness** (energy-intensive systemized agriculture): The complete commodification of rice production. The farmer became a businessman, the paddy field became a production unit, and rice became one product among many in a global agricultural marketplace.
 
-Prior to the development of scientific agriculture, rice farmers devoted themselves entirely to serving the land that grows the crops. But they gradually turned their attention from the land to the problem of boosting soil fertility, and discussion came to dwell on what constitutes soil fertility rather than what constitutes a right relationship with nature.
+Prior to the development of [[fukuoka-critique-scientific-agriculture-civilization]], rice farmers devoted themselves entirely to serving the land that grows the crops. But they gradually turned their attention from the land to the problem of boosting soil fertility, and discussion came to dwell on what constitutes soil fertility rather than what constitutes a right relationship with nature.
 
 ## The Illusion of Agricultural Progress
 
@@ -116,7 +116,7 @@ The only course available today for successfully rejecting scientific farming an
 
 The rice paddy must once again become the arbor of the soul, and the farmer must return to seeing cultivation as service to God rather than service to the marketplace. This restoration cannot be achieved through legislation or education alone.
 
-It requires a transformation of consciousness: a recovery of the ability to see rice not as a product but as a gift, not as starch but as the soul of a people. The path forward is not backward to some romanticized past but forward to a future in which the ancient wisdom of natural farming is renewed and applied with the full benefit of human understanding, but without the arrogance that has led modern agriculture astray.
+It requires a transformation of consciousness: a recovery of the ability to see rice not as a product but as a gift, not as starch but as the soul of a people. The path forward is not backward to some romanticized past but forward to a future in which the ancient wisdom of [[comparison-natural-farming-vs-permaculture]] is renewed and applied with the full benefit of human understanding, but without the arrogance that has led modern agriculture astray.
 
 ## See Also
 

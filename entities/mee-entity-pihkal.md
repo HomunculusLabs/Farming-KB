@@ -1,5 +1,5 @@
 ---
-title: "MEE (4,5-DIETHOXY-2-METHOXYAMPHETAMINE) -- PIHKAL Entry #121"
+title: "MEE (4,5-DIETHOXY-2-METHOXYAMPHETAMINE) -- 2c-b-pihkal-entry-20 #121"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -60,7 +60,7 @@ conjecture from such a trifling investment of fact.
 To a solution of 166 g bourbonal in 1 L MeOH there was
 added a solution of 66 g KOH pellets in 300 mL H2O. There was then
 added 120 g ethyl bromide, and the mixture was held at reflux on the
-steam bath for 3 h. The reaction was quenched with three volumes of
+[[scythian-cannabis-steam-bath-ritual]] for 3 h. The reaction was quenched with three volumes of
 
 H2O, and made strongly basic by the addition of 25% NaOH. This was
 extracted with 3x300 mL CH2Cl2, and the pooled extracts stripped of
@@ -101,7 +101,7 @@ weighed 70.0 g. The slightest exposure to H2O, even moist air, give a
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

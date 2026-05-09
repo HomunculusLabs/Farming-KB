@@ -1,5 +1,5 @@
 ---
-title: Daikon Radish (Raphanus sativus var. longipinnatus)
+title: Daikon Radish (Raphanus raphanus sativus var longipinnatus. longipinnatus)
 created: 2026-05-06
 type: species
 tags:
@@ -23,7 +23,7 @@ sources:
 
 # Daikon Radish (Raphanus sativus var. longipinnatus)
 
-**Daikon radish** (*Raphanus sativus* var. *longipinnatus*), also known as **forage radish**, **tillage radish**, **oilseed radish**, or **Japanese radish**, is a large-rooted annual or biennial plant in the family Brassicaceae. Native to East Asia, it has been cultivated for over 2,000 years as a food crop and, more recently, has gained widespread recognition in permaculture, regenerative agriculture, and no-till farming as a powerful biological tillage tool, cover crop, and dynamic accumulator.
+**Daikon radish** (*Raphanus sativus* var. *longipinnatus*), also known as **forage radish**, **tillage radish**, **oilseed radish**, or **Japanese radish**, is a large-rooted annual or biennial plant in the family Brassicaceae. Native to East Asia, it has been cultivated for over 2,000 years as a food crop and, more recently, has gained widespread recognition in permaculture, regenerative agriculture, and no-till farming as a powerful biological tillage tool, cover crop, and [[nutrient-dynamic-accumulator-reference]].
 
 The name "daikon" comes from Japanese *dai* (大, "large") and *kon* (根, "root"). In permaculture contexts, the specific forage/tillage varieties are often referred to collectively as **tillage radish** or **groundhog radish** for their soil-penetrating capabilities.
 
@@ -47,7 +47,7 @@ The defining feature of daikon radish is its massive, thickened taproot, which c
 The root penetrates compacted soil layers (plow pans, hardpans, and compacted subsoil) that would resist mechanical tillage equipment, creating channels for water infiltration, root penetration of subsequent crops, and soil organism migration. This biological plowing action is the basis of the "tillage radish" concept.
 
 ### Leaves and Stem
-Rosette leaves are large (20–50 cm long), deeply lobed (lyrate-pinnatifid), with a rough, hairy surface. The leaf color ranges from light to dark green, sometimes with a bluish cast. Leaves grow in a basal rosette during the vegetative stage.
+Rosette leaves are large (20–50 cm long), deeply lobed (lyrate-pinnatifid), with a rough, hairy surface. The leaf color ranges from light to dark green, sometimes with a bluish cast. Leaves grow in a basal rosette during the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]].
 
 The flowering stem bolts to 60–150 cm tall during the second year (or when triggered by vernalization), producing branched racemes with cruciform (cross-shaped) flowers.
 
@@ -59,7 +59,7 @@ The flowering stem bolts to 60–150 cm tall during the second year (or when tri
 - **Blooming period:** Spring to early summer (year 2, or late fall in warm climates if fall-sown)
 
 ### Seeds
-Seed pods (siliques) are cylindrical, 3–8 cm long, containing 4–12 seeds per pod. Seeds are small (2–3 mm), spherical to oblong, reddish-brown, and remain viable for 3–5 years under proper storage conditions.
+Seed pods (siliques) are cylindrical, 3–8 cm long, containing 4–12 seeds per pod. Seeds are small (2–3 mm), spherical to oblong, reddish-brown, and remain viable for 3–5 years under proper [[vegetable-storage-conditions-by-temperature-and-humidity]].
 
 ## Nutritional Profile (Edible Root)
 
@@ -106,7 +106,7 @@ Mines minerals from deep soil: sulfur (20–40 kg/ha — highest among common co
 - Dense planting (30–50 plants/m²) provides effective weed competition
 
 ### Biofumigation and Erosion Control
-When terminated, glucosinolates hydrolyze to isothiocyanates (ITCs) — volatile compounds that suppress soilborne pathogens (*Fusarium*, *Rhizoctonia*, *Pythium*), reduce nematode populations, and inhibit weed seed germination. The combination of rapid canopy closure, extensive roots, and winter persistence provides effective erosion control.
+When terminated, glucosinolates hydrolyze to isothiocyanates (ITCs) — [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] that suppress soilborne pathogens (*Fusarium*, *Rhizoctonia*, *Pythium*), reduce nematode populations, and inhibit weed seed germination. The combination of rapid canopy closure, extensive roots, and winter persistence provides effective erosion control.
 
 ## Cultivation as a Cover Crop
 
@@ -124,7 +124,7 @@ When terminated, glucosinolates hydrolyze to isothiocyanates (ITCs) — volatile
 
 ### Termination
 - **Winter kill:** In USDA Zones 7 and colder, plants are killed by hard freezes (below -6°C for extended periods), eliminating the need for mechanical termination
-- **Natural decomposition:** Killed roots decompose rapidly in spring, leaving channels without surface residue
+- **[[fukuoka-microbes-scavengers-natural-decomposition-biosystem]]:** Killed roots decompose rapidly in spring, leaving channels without surface residue
 - **Mowing/crimping:** In warmer zones where plants overwinter, terminate by mowing or roller-crimping at flowering
 - **Herbicide:** Glyphosate can be used as a last resort but is incompatible with organic/regenerative systems
 
@@ -141,6 +141,8 @@ Compatible companions include peas, beans, lettuce, spinach, carrots, onions, an
 
 ## See Also
 
-- [[permaculture-horseradish]]
+- permaculture-horseradish
 - [[companion-planting]]
 - [[cover-crop-species-comparison]]
+- [[raphanus-sativus]]
+- [[decomposition]]

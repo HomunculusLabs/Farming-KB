@@ -1,11 +1,12 @@
 ---
-title: Natural Farming Food Philosophy
+title: comparison-natural-farming-vs-permaculture Food Philosophy
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [agriculture, homesteading]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Natural Farming Food Philosophy
 
@@ -142,4 +143,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

@@ -18,9 +18,9 @@ sources: []
 
 ## Overview
 
-Aeroponics and hydroponics both grow plants without soil by delivering nutrients
+[[query-what-is-the-difference-between-aeroponics-and-hydroponics-for-cannabis]] both grow plants without soil by delivering nutrients
 directly to roots, but they differ fundamentally in how roots contact the
-nutrient solution. Hydroponics submerges or flows solution over roots in water,
+[[cannabis-nutrient-solution-preparation]]. Hydroponics submerges or flows solution over roots in water,
 while aeroponics suspends roots in air and mists them with nutrient solution at
 intervals. This difference affects oxygen availability at the root zone, growth
 speed, water efficiency, system reliability, and the complexity of equipment and
@@ -55,7 +55,7 @@ volumes of solution must be maintained and periodically replaced. Root disease,
 particularly Pythium root rot in warm water, is a persistent concern in systems
 with insufficient aeration. The water-based environment also requires more
 frequent monitoring and adjustment of pH and electrical conductivity compared to
-the simpler nutrient management of some aeroponic configurations.
+the simpler [[green-cannabis-grow-bible-nutrient-management-ppm]] of some aeroponic configurations.
 
 ## Key Differences
 
@@ -83,7 +83,7 @@ Aeroponics suits experienced growers who want maximum growth speed and are
 willing to invest in the equipment and maintenance required to achieve it. It is
 ideal for high- value crops where the growth acceleration and quality
 improvement justify the added complexity and risk. Aeroponic cloning systems are
-extremely effective for rooting cuttings, often achieving faster root
+extremely effective for [[cannabis-cloning-rooting-cuttings-method-clarke]], often achieving faster root
 development and higher success rates than any other method. The technology also
 works well in space- constrained environments where vertical stacking of growing
 chambers maximizes production per square foot, and in research settings where
@@ -107,8 +107,8 @@ Some modern growing systems combine elements of both technologies. Aeroponic
 cloning machines mist cuttings for rapid root development, then the rooted
 clones are transplanted into DWC or ebb and flow systems for the vegetative and
 flowering phases. The Amazon Aeroponic system uses a floating platform design
-that combines aeroponic misting with a shallow nutrient reservoir, offering some
+that combines aeroponic misting with a shallow [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]], offering some
 of the reliability benefits of hydroponics with improved oxygenation. Fogponics
-uses ultrasonic foggers instead of spray nozzles to create a finer mist,
+uses ultrasonic foggers instead of [[ingham-spray-nozzles-equipment-compost-tea]] to create a finer mist,
 attempting to combine aeroponic oxygen availability with lower maintenance
 requirements and fewer clogging issues.

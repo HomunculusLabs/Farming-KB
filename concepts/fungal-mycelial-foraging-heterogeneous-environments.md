@@ -1,5 +1,5 @@
 ---
-title: "Mycelial Foraging Strategies in Heterogeneous Environments"
+title: "Mycelial mycelial-foraging-strategies-nutrient-translocation in Heterogeneous Environments"
 created: 2026-04-28
 tags: [fungal-ecology, mycelial-networks, foraging-behavior, basidiomycetes]
 date: 2026-04-25
@@ -10,7 +10,7 @@ type: concept
 
 # Mycelial Foraging Strategies in Heterogeneous Environments
 
-Cord-forming saprotrophic basidiomycetes grow as mycelial networks
+Cord-forming saprotrophic basidiomycetes grow as [[fungal-mycelial-networks-nutrient-translocation]]
 through soil, foraging for and connecting discrete organic resources
 such as pieces of wood. Their mycelial systems exhibit complex
 foraging behaviors that parallel those of animals and clonal plants,
@@ -89,4 +89,10 @@ Mycelia inevitably encounter other fungi and soil organisms during
 growth. Combat outcomes between fungal species include deadlock,
 replacement, partial replacement, and mutual replacement, with
 morphological changes including production of defensive fans and
-altered fractal dimensions. The ectomycorrhizal [[fungal-mycelial-network-architecture]], [[fungal-wood-decay-types-white-rot-brown-rot]], [[ectomycorrhizal-associations]].
+altered fractal dimensions. The ectomycorrhizal fungal-mycelial-network-architecture, fungal-wood-decay-types-white-rot-brown-rot, [[ectomycorrhizal-associations]].
+## See Also
+- [[ectomycorrhiza]]
+- [[mycelial-networks]]
+- [[phanerochaete-velutina]]
+- [[fungal-mycelial-networks-nutrient-translocation]]
+- [[fungal-communities-extreme-environments]]

@@ -23,7 +23,7 @@ sources:
 
 The crop is valued for its small, reddish-brown seeds that are sweet-tasting and rich in protein, fiber, and micronutrients. Adzuki beans are a staple ingredient in East Asian desserts, pastries, and traditional confections.
 
-As a nitrogen-fixing legume, adzuki bean contributes to soil fertility in rotation systems. Its relatively short growing season and adaptability to diverse climates have facilitated its spread to over 30 countries.
+As a nitrogen-fixing legume, adzuki bean contributes to soil fertility in rotation systems. Its relatively short [[savory-growing-season-and-non-growing-season-management]] and adaptability to diverse climates have facilitated its spread to over 30 countries.
 
 ## Taxonomy and Morphology
 
@@ -56,11 +56,11 @@ The crop grows well in temperate to subtropical climates with temperatures betwe
 
 Optimal soils are well-drained sandy loams with pH 5.5–7.0. The crop is moderately drought-tolerant but performs best with consistent moisture during flowering and pod-filling stages.
 
-Sowing occurs in spring (April–May) in temperate regions and during the monsoon season in tropical areas. Seed rate is 20–30 kg/ha with row spacing of 30–45 cm.
+Sowing occurs in spring (April–May) in temperate regions and during the monsoon season in tropical areas. Seed rate is 20–30 kg/ha with [[wide-row-spacing-intensive-gardening-comparison]] of 30–45 cm.
 
 Maturity occurs in 90–120 days depending on variety and growing conditions. Average yields range from 800–1,200 kg/ha, with improved Japanese varieties reaching 2,000 kg/ha under optimal management.
 
-Inoculation with Bradyrhizobium spp. enhances nodulation and nitrogen fixation. The crop fits well in rotation with rice, wheat, or barley.
+Inoculation with Bradyrhizobium spp. enhances nodulation and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. The crop fits well in rotation with rice, wheat, or barley.
 
 ## Nutritional Value
 
@@ -88,13 +88,13 @@ Sprouting adzuki beans increases vitamin content and reduces trypsin inhibitor a
 
 Adzuki bean forms effective nitrogen-fixing symbioses with Bradyrhizobium, contributing 40–80 kg N/ha to the soil. This makes it a valuable break crop in cereal-based farming systems.
 
-The crop provides good ground cover during growth, helping suppress weeds and reduce soil erosion. Its dense canopy shades out competing weeds effectively.
+The crop provides good [[fukuoka-citrus-orchard-ground-cover-cultivation]] during growth, helping suppress weeds and reduce soil erosion. Its dense canopy shades out competing weeds effectively.
 
 In intercropping systems, adzuki bean pairs well with maize, sorghum, or millet. The legume supplies nitrogen to the companion cereal while the cereal provides structural support.
 
 Crop residues are nutritious fodder for ruminants, containing 7–9% crude protein. The straw is palatable and can be fed fresh or as hay.
 
-The crop has shown potential as a green manure crop in organic farming systems due to its rapid biomass accumulation and nitrogen contribution.
+The crop has shown potential as a [[comparison-green-manure-guide-vs-mulch-types-and-effects]] crop in [[coleman-deep-organic-farming-philosophy]] systems due to its rapid biomass accumulation and nitrogen contribution.
 
 ## Culinary and Cultural Significance
 

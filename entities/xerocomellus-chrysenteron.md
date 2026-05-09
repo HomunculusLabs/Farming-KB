@@ -28,7 +28,7 @@ created: 2026-04-28
 
 It was long classified in the genus *Xerocomus* but was moved to *Xerocomellus* following molecular phylogenetic studies in the 2000s.
 
-The species is edible and widely distributed across temperate forests of Europe and North America.
+The species is edible and widely distributed across temperate forests of Europe and [[psilocybin-north-america-pacific-northwest]].
 
 It is recognized by its brown cap that develops distinctive pinkish-red cracks as it matures, revealing the paler flesh beneath.
 
@@ -72,7 +72,7 @@ Spore print is olive-brown to olive-buff. Spores are 10–14 × 4–6 µm, fusoi
 
 In Europe it is one of the most common boletes, found from Scandinavia to the Mediterranean.
 
-In North America it occurs in eastern and western regions, though some North American collections may represent cryptic species.
+In North America it occurs in eastern and western regions, though some [[growing-gourmet-north-american-reishi-species]] collections may represent cryptic species.
 
 The species forms ectomycorrhizal associations with both deciduous and coniferous trees.
 
@@ -82,7 +82,7 @@ It fruits from summer through autumn (July–November in the Northern Hemisphere
 
 It is found in a wide range of forest types, from mixed hardwood stands to pure conifer plantations.
 
-The mushroom grows on soil and occasionally on decaying wood or woody debris.
+The mushroom grows on soil and occasionally on decaying wood or [[fungal-succession-woody-debris-ecology]].
 
 ## Edibility
 
@@ -104,11 +104,11 @@ No significant cases of poisoning have been reported, though some individuals ma
 
 Like many boletes, *X. chrysenteron* contains bioactive polysaccharides with reported immunomodulatory properties.
 
-Analysis has identified **beta-glucans** and heteroglycans in the fruiting body.
+Analysis has identified **beta-glucans** and heteroglycans in the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]].
 
 The species also contains phenolic compounds with antioxidant activity, though less studied than medicinal polypores.
 
-Trace amounts of heavy metals can accumulate from contaminated soils, as with all ectomycorrhizal fungi.
+Trace amounts of heavy metals can accumulate from contaminated soils, as with all [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]].
 
 ## Ecological Role
 
@@ -116,7 +116,7 @@ As an ectomycorrhizal species, *X. chrysenteron* forms symbiotic associations wi
 
 It enhances host tree access to soil nutrients, particularly phosphorus and nitrogen, in exchange for photosynthetic carbon.
 
-The species contributes to soil structure and nutrient cycling in forest ecosystems.
+The species contributes to soil [[root-anatomy-structure-and-nutrient-uptake]] cycling in forest ecosystems.
 
 It serves as a food source for various forest organisms including deer, slugs, and insect larvae.
 
@@ -129,6 +129,8 @@ It serves as a food source for various forest organisms including deer, slugs, a
 *Xerocomus subtomentosus* (yellowing bolete) is similar but has a yellow stipe that does not develop red striations.
 
 ## See Also
+
+- [[xerocomus-chrysenteron]]
 
 - [[boletus-edulis-entity]]
 - [[leccinum-scabrum]]

@@ -1,5 +1,5 @@
 ---
-title: "Double Digging vs No-Till"
+title: "comparison double digging vs no till vs No-Till"
 created: 2026-04-28
 tags: [comparison, soil-management, tillage, organic-gardening]
 date: 2026-04-25
@@ -15,7 +15,7 @@ type: comparison
 ## Overview
 
 Double digging and no-till represent two fundamentally different philosophies of soil
-preparation in organic gardening. Double digging, championed by Steve Solomon, uses
+preparation in [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]. Double digging, championed by Steve Solomon, uses
 intensive manual cultivation to break compacted soil and create deep, loose root zones.
 No-till, rooted in the soil food web science of Teaming with Microbes, avoids any soil
 disturbance to preserve the biological communities that naturally build soil structure
@@ -32,13 +32,13 @@ mycorrhizal fungal networks, breaks apart soil aggregates held together by bacte
 slime and glomalin, collapses earthworm tunnels, and mixes microbial communities that
 are adapted to specific soil depths. Rebuilding these networks can take weeks or months.
 
-The benefits of leaving soil undisturbed are substantial. Nutrient cycling remains
+The benefits of leaving soil undisturbed are substantial. [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] remains
 intact, with nutrients mineralized by protozoa and nematodes directly in the
 rhizosphere where roots can absorb them. A diverse and undisturbed soil food web
-provides disease suppression through competition. Soil structure improves over time
+provides [[aact-disease-suppression-mechanisms-ingham]] through competition. Soil structure improves over time
 as bacteria, fungi, and worms create aggregation, drainage, and water retention. Mulch
 layers in a no-till system suppress weeds by keeping seeds buried and tying up
-nitrogen at the surface. Carbon sequestration also improves because undisturbed soil
+nitrogen at the surface. [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] also improves because undisturbed soil
 allows fungi and bacteria to build stable organic matter rather than releasing CO2.
 
 The guiding principle is to disturb only what is absolutely necessary: drill holes
@@ -57,7 +57,7 @@ restore any biology that was disturbed.
 | Weed management | Buries weed seeds deep; kills sod | Mulch suppresses germination at surface |
 | Soil structure | Mechanically created, improves with settling | Biologically built, improves over years |
 | Carbon impact | Exposes organic matter to decomposition | Sequesters carbon in stable aggregates |
-| Best for new ground | Excellent for breaking sod and plow pans | Best with sheet mulching first |
+| Best for new ground | Excellent for breaking sod and plow pans | Best with [[comparison-sheet-mulching-vs-chop-and-drop-mulching]] first |
 | Long-term trajectory | Requires periodic re-digging for maintenance | Improves each season with less effort |
 | Philosophy source | Steve Solomon, Gardening When It Counts | Teaming with Microbes, Lowenfels and Lewis |
 

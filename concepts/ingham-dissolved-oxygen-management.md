@@ -1,5 +1,5 @@
 ---
-title: Dissolved Oxygen Management in Compost Tea Brewing
+title: aact-dissolved-oxygen-fine-bubble-aeration-ingham Management in Compost compost-tea-brewing-equipment-ingham
 created: 2026-04-28
 tags: [compost-tea, dissolved-oxygen, aeration, brewing, water-quality]
 date: 2026-04-28
@@ -33,7 +33,7 @@ room temperature, maximum oxygen will be about 8.8 mg O2 per liter.
 
 Fine bubbles are really hard on the [[aact-bacterial-dominant-tea]]. When you feed bacteria well, they can use up
 all the oxygen in any amount of water within minutes. The aeration
-rate needs to be high enough to offset bacterial and fungal growth.
+rate needs to be high enough to offset [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] growth.
 Not too much, not too little. The optimal aeration rate depends on
 how much food you add, the compost you use, and the water
 temperature.
@@ -111,7 +111,7 @@ probe remains the most reliable tool for real-time monitoring.
 
 The design of the aeration system must match the biological demand
 created by your recipe. Systems that provide adequate aeration for
-a simple bacterial tea may not be sufficient when fungal foods and
+a simple bacterial tea may not be sufficient when [[ingham-paper-cardboard-fungal-foods-compost]] and
 higher organism diversity are targeted. The air pump capacity,
 diffuser design, and bubble pattern all affect oxygen transfer
 efficiency. Coarse bubbles from diffusers at the bottom of the

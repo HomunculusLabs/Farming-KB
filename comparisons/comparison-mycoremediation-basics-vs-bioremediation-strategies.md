@@ -1,10 +1,11 @@
 ---
-title: "Mycoremediation vs Bioremediation Strategies"
+title: "Mycoremediation vs comparison-bioremediation-strategies-vs-biostimulation-techniques"
 created: 2026-04-28
 tags: [comparison, bioremediation, mycoremediation, environmental-cleanup, fungi]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -15,7 +16,7 @@ Mycoremediation is the use of fungi to clean contaminated environments, while
 bioremediation is the broader field encompassing all biological approaches to
 pollution cleanup, including bacterial, fungal, and plant-based methods.
 Mycoremediation is a specialized and powerful subset of bioremediation that
-exploits the unique extracellular enzyme systems of fungi, particularly white-
+exploits the unique [[dighton-fungal-extracellular-enzyme-systems-decomposition]] systems of fungi, particularly white-
 rot basidiomycetes, for degrading persistent organic pollutants and
 sequestering heavy metals through biosorption.
 
@@ -46,7 +47,7 @@ concentrates metals in harvestable above-ground tissues using hyperaccumulator
 plants like Thlaspi caerulescens for zinc and cadmium. Phytostabilization uses
 root systems to immobilize contaminants through precipitation, adsorption, and
 complexation. Rhizodegradation exploits root exudates that stimulate microbial
-degradation of organic compounds in the rhizosphere. Constructed wetlands
+degradation of [[fungal-volatile-organic-compounds-communication]] in the rhizosphere. [[comparison-constructed-wetlands-vs-bioswales]]
 combine phytoremediation with microbial processes for treating wastewater and
 agricultural runoff.
 
@@ -55,7 +56,7 @@ novel degradative pathways for recalcitrant compounds), enzyme-based
 remediation (isolating laccases and peroxidases in flow-through reactors),
 bioelectrochemical systems (microbial fuel cells that degrade contaminants
 while generating electricity), and nanobioremediation (combining nanoparticles
-with biological agents for enhanced pollutant access and transformation).
+with biological agents for [[staycare-fungal-consortia-for-enhanced-pollutant-removal]] access and transformation).
 
 ## Key Differences
 | Aspect | Mycoremediation | Bioremediation (General) |
@@ -66,7 +67,7 @@ with biological agents for enhanced pollutant access and transformation).
 | Speed | Generally slower than bacterial approaches | Bacterial often faster; phytoremediation slowest |
 | Substrate requirement | Organic substrate (wood chips, sawdust) | Varies: nutrients for bacteria, soil for plants |
 | Nonspecificity | High (radical-based chemistry) | Often compound-specific |
-| Ecological benefit | Initiates full ecological succession | May disrupt soil biology during treatment |
+| Ecological benefit | Initiates full [[holmgren-ecological-succession-and-pulsing]] | May disrupt soil biology during treatment |
 | Cost | Very low (spawn, substrate, labor) | Varies widely; generally higher than fungal |
 | Regulatory acceptance | Emerging; limited precedent | Established; extensive monitoring protocols |
 | Best For | Persistent organics, PAHs, PCBs, biosorption | Petroleum spills, solvents, mine drainage, wastewater |
@@ -101,6 +102,8 @@ system. The broader bioremediation framework provides the monitoring and
 regulatory structure needed to deploy mycoremediation effectively.
 
 ## See Also
+
+- [[comparison-bioremediation-strategies-vs-biostimulation-techniques]]
 
 - [[fungal-bioremediation-mechanisms]] — detailed plant vs fungal comparison
 - [[bioaugmentation-strategies]] — introducing specific organisms for remediation

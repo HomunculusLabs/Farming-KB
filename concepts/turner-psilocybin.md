@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Mushrooms - The Essential Psychedelics Guide
+title: forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc - The turner-essential-psychedelics-5-meo-dmt-void-experience Guide
 created: 2026-04-26
 author: D.M. Turner
 sources: The Essential Psychedelics Guide (1994)
@@ -14,7 +14,7 @@ updated: 2026-04-26
 
 ## Material
 
-There are dozens of species of mushrooms which contain the psychoactive alkaloids psilocybin/psilocin in active amounts. 99% of the psilocybin mushrooms sold on the underground market are **Psilocybe cubensis** (also called Stropharia cubensis), and dosage levels discussed below pertain to this variety. Some species contain up to **10 times** as much psilocybin by weight as cubensis, producing an equivalent experience at a much lower dose.
+There are dozens of species of mushrooms which contain the psychoactive alkaloids psilocybin/psilocin in active amounts. 99% of the psilocybin mushrooms sold on the underground market are **[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]** (also called [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]), and dosage levels discussed below pertain to this variety. Some species contain up to **10 times** as much psilocybin by weight as cubensis, producing an equivalent experience at a much lower dose.
 
 The chemical formula of psilocin, the active component, is **4-OH-DMT**.
 
@@ -22,7 +22,7 @@ The chemical formula of psilocin, the active component, is **4-OH-DMT**.
 
 The use of psilocybin mushrooms can be traced back thousands of years. Schultes and Hofmann trace their use to numerous locations and Indian cultures in pre-Colombian Mexico and South America. The Aztecs named them **Teonanacatl**, meaning "flesh of the gods" or "divine flesh." Sacred objects relating to mushrooms have been found dating back as far as 1000 B.C.
 
-Terence McKenna suggests hallucinogenic mushroom use may be much older than 3000 years, with mushrooms being consumed and worshipped by early forms of humankind. He even suggests that mushroom spores arriving from outer space may have been some of the earliest forms of life. Studies at the University of Leiden determined that certain mushroom spores could survive up to 45 million years in interstellar transit (Nature, Aug 1, 1985).
+Terence McKenna suggests [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]] use may be much older than 3000 years, with mushrooms being consumed and worshipped by early forms of humankind. He even suggests that [[query-how-to-store-mushroom-spores-long-term]] arriving from outer space may have been some of the earliest forms of life. Studies at the University of Leiden determined that certain mushroom spores could survive up to 45 million years in interstellar transit (Nature, Aug 1, 1985).
 
 ## Dosage
 

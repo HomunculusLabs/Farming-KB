@@ -12,7 +12,7 @@ sources:
   - Vitikainen O. (1994). "Taxonomic revision of Peltigera (Lichenized Ascomycetes) in Europe." Acta Botanica Fennica 152.
   - Goward T. (1999). "The Lichens of British Columbia: Macrolichens." Ministry of Forests, Victoria.
   - Miadlikowska J. et al. (2018). "A phylogenetic framework for the Peltigerales (Ascomycota)." American Journal of Botany 105(6): 1095-1115.
-  - Brodo I.M., Sharnoff S.D., Sharnoff S. (2001). "Lichens of North America." Yale University Press.
+  - Brodo I.M., Sharnoff S.D., Sharnoff S. (2001). "Lichens of [[psilocybin-north-america-pacific-northwest]]." Yale University Press.
 ---
 
 ## Overview

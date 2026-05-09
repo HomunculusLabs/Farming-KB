@@ -10,7 +10,7 @@ type: concept
 
 # Cannabis Plant Training and SCROG Techniques
 
-Plant training techniques allow cannabis cultivators to maximize yield
+Plant [[cannabis-training-techniques-comparison]] allow cannabis cultivators to maximize yield
 and control plant shape within limited grow spaces. [[screen-of-green]] (SCROG) methods, which were originally
 developed for use with fluorescent lights but have since been adapted for
 high-intensity discharge lighting with remarkable results.
@@ -67,7 +67,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -145,4 +145,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

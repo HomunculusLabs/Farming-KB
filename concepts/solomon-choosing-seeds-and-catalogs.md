@@ -17,7 +17,7 @@ From [[solomon-gardening-when-it-counts-index]]
 
 ## Seed Longevity and Viability
 
-Solomon addresses the practical reality that seed viability declines over time, though the rate varies enormously by species. Allium family seeds (onions, leeks) typically lose viability within one to two years. Sweet corn and parsnip seeds are best used within one year. Many brassica seeds, beans, and peas remain viable for three to four years when stored properly. Some seeds, including certain squashes and melons, can remain viable for six or more years under ideal conditions. Proper storage conditions are cool, dark, and dry, with consistent temperatures. Solomon recommends testing old seed by germinating a sample on moist paper towels before committing to a planting. A germination rate below 50% suggests the seed should be replaced, though it can still be used if sown more thickly to compensate for expected losses.
+Solomon addresses the practical reality that seed viability declines over time, though the rate varies enormously by species. Allium family seeds (onions, leeks) typically lose viability within one to two years. Sweet corn and parsnip seeds are best used within one year. Many brassica seeds, beans, and peas remain viable for three to four years when stored properly. Some seeds, including certain squashes and melons, can remain viable for six or more years under ideal conditions. Proper [[vegetable-storage-conditions-by-temperature-and-humidity]] are cool, dark, and dry, with consistent temperatures. Solomon recommends testing old seed by germinating a sample on moist paper towels before committing to a planting. A germination rate below 50% suggests the seed should be replaced, though it can still be used if sown more thickly to compensate for expected losses.
 
 ## Understanding Days to Maturity
 
@@ -25,7 +25,7 @@ Seed catalogs list "days to maturity" for each variety, but Solomon warns that t
 
 ## Hybrid vs Open-Pollinated Considerations
 
-Solomon addresses the hybrid versus open-pollinated debate with characteristic pragmatism. Hybrid varieties often offer superior disease resistance, uniformity, and yield in the first generation, which makes them attractive for market gardeners who need predictable, consistent production. However, seed saved from hybrid plants does not breed true, meaning gardeners must purchase new seed each year. Open-pollinated varieties, by contrast, breed true from saved seed and often develop local adaptation over successive generations of seed saving. Solomon's recommendation depends on the gardener's situation: serious home gardeners focused on self-sufficiency should prioritize open-pollinated varieties and develop seed-saving skills, while those growing primarily for market may find hybrids more practical. He emphasizes that the best approach is to grow both types and evaluate performance in local conditions.
+Solomon addresses the hybrid versus open-pollinated debate with characteristic pragmatism. [[cervantes-hybrid-varieties-types]] often offer superior disease resistance, uniformity, and yield in the first generation, which makes them attractive for market gardeners who need predictable, consistent production. However, seed saved from hybrid plants does not breed true, meaning gardeners must purchase new seed each year. Open-pollinated varieties, by contrast, breed true from saved seed and often develop local adaptation over successive generations of seed saving. Solomon's recommendation depends on the gardener's situation: serious home gardeners focused on self-sufficiency should prioritize open-pollinated varieties and develop seed-saving skills, while those growing primarily for market may find hybrids more practical. He emphasizes that the best approach is to grow both types and evaluate performance in local conditions.
 
 ## Seed Starting Conditions
 
@@ -37,7 +37,7 @@ Solomon offers practical advice on the economics of seed purchasing. Small packe
 
 ## Seed Treatment and Pre-Soaking
 
-Solomon discusses several seed treatment techniques that can improve germination rates and speed. Pre-soaking large seeds (beans, peas, corn, squash) in water for 8-12 hours before planting can reduce germination time by several days, providing a competitive advantage against soil-borne pathogens and early-season pests. Some seeds benefit from a brief soak in dilute hydrogen peroxide solution, which can break dormancy in some species and reduce surface-borne pathogens. For hard-seeded legumes, a gentle scarification by rubbing seeds between sheets of fine sandpaper or nicking with a knife can improve water uptake and germination. Hot water treatment of certain seeds can kill seed-borne diseases without damaging the embryo. These treatments are simple, low-cost techniques that can significantly improve planting success.
+Solomon discusses several seed treatment techniques that can improve germination rates and speed. Pre-soaking large seeds (beans, peas, corn, squash) in water for 8-12 hours before planting can reduce germination time by several days, providing a competitive advantage against soil-borne pathogens and early-season pests. Some seeds benefit from a brief soak in dilute [[cervantes-hydrogen-peroxide-sterilization]] solution, which can break dormancy in some species and reduce surface-borne pathogens. For hard-seeded legumes, a gentle scarification by rubbing seeds between sheets of fine sandpaper or nicking with a knife can improve water uptake and germination. Hot water treatment of certain seeds can kill seed-borne diseases without damaging the embryo. These treatments are simple, low-cost techniques that can significantly improve planting success.
 
 ## Crop Planning and Rotation
 
@@ -45,11 +45,11 @@ Beyond individual variety selection, Solomon emphasizes the importance of planni
 
 ## Heirloom Varieties and Genetic Diversity
 
-Solomon's discussion of variety selection includes strong advocacy for heirloom and open-pollinated varieties. Heirloom varieties, which have been saved and passed down by gardeners for generations, offer genetic diversity that is absent from the limited number of hybrid varieties available through commercial channels. This genetic diversity is not merely an abstract value; it provides insurance against crop failures caused by pests, diseases, or unusual weather conditions, as diverse genetics mean that some individuals within a population are likely to survive conditions that devastate uniform hybrid populations. Solomon notes that heirloom varieties often have superior flavor and nutritional quality compared to modern hybrids, which have been bred primarily for yield, uniformity, and transportability rather than eating quality.
+Solomon's discussion of variety selection includes strong advocacy for heirloom and open-pollinated varieties. Heirloom varieties, which have been saved and passed down by gardeners for generations, offer genetic diversity that is absent from the limited number of hybrid varieties available through commercial channels. This genetic diversity is not merely an abstract value; it provides insurance against crop failures caused by pests, diseases, or unusual weather conditions, as diverse genetics mean that some individuals within a population are likely to survive conditions that devastate uniform hybrid populations. Solomon notes that heirloom varieties often have superior flavor and [[coleman-winter-greens-nutritional-quality-cold-sweetening]] compared to modern hybrids, which have been bred primarily for yield, uniformity, and transportability rather than eating quality.
 
 ## Regional Adaptation and Local Seed Networks
 
-Solomon emphasizes the importance of selecting varieties adapted to local growing conditions. Varieties that perform well in one region may perform poorly in another due to differences in day length, temperature range, rainfall patterns, and pest pressure. This is particularly important for gardeners in extreme climates -- very hot, very cold, very dry, or very humid -- where the pool of adapted varieties is smaller. Solomon recommends connecting with local seed-saving networks and gardening organizations to access varieties that have been selected for regional performance over many generations. These local seed networks preserve genetic material that may not be available from any commercial source and provide varieties with proven adaptation to the specific conditions of the area.
+Solomon emphasizes the importance of selecting varieties adapted to local growing conditions. Varieties that perform well in one region may perform poorly in another due to differences in day length, [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]], rainfall patterns, and pest pressure. This is particularly important for gardeners in extreme climates -- very hot, very cold, very dry, or very humid -- where the pool of adapted varieties is smaller. Solomon recommends connecting with local seed-saving networks and gardening organizations to access varieties that have been selected for regional performance over many generations. These local seed networks preserve genetic material that may not be available from any commercial source and provide varieties with proven adaptation to the specific conditions of the area.
 
 ## Seed Saving Fundamentals
 
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

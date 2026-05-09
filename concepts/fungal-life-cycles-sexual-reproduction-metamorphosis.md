@@ -1,5 +1,5 @@
 ---
-title: Fungal Life Cycles and Sexual Reproduction
+title: Fungal bloomfield-rust-fungi-life-cycles-barberry-wheat and Sexual Reproduction
 created: 2026-04-28
 tags:
   - mycology
@@ -80,7 +80,7 @@ each parental nucleus during cell division.
 The most dramatic phase of the fungal life cycle is the formation of the
 fruiting body, the visible mushroom or toadstool. In many species, the
 mycelium remains hidden within wood or soil until environmental triggers,
-including changes in temperature, moisture, or nutrient availability, initiate
+including changes in temperature, moisture, or [[ph-and-nutrient-availability-garden-soils]], initiate
 fruiting.
 
 The mushroom emerges as a small knot of tissue called an initiation site or
@@ -91,14 +91,14 @@ a matter of hours for some species.
 
 ## Spore Production and Discharge
 
-Basidiomycete fungi produce spores on specialized cells called basidia,
+[[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] produce spores on specialized cells called basidia,
 located on the surfaces of gills, pores, or teeth. Each basidium typically
 produces four spores, which are forcibly discharged into the air through
 a remarkable mechanism involving the rapid movement of a droplet of fluid
 across the spore surface.
 
 A single mushroom can produce millions or even billions of spores over its
-brief existence. The common field mushroom Agaricus campestris releases an
+brief existence. The common field [[growing-gourmet-button-mushroom-agaricus-cultivation]] campestris releases an
 estimated 16 billion spores from a single fruiting body over two days.
 
 ## Metamorphosis in Slime Molds

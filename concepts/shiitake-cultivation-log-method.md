@@ -1,23 +1,23 @@
 ---
-title: Shiitake Cultivation - Log Method
+title: gourmet-medicinal-mushroom-shiitake-cultivation-logs - Log Method
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [shiitake, mushroom-cultivation, log-cultivation, fungi, mycology, lentinula-edodes, wood-cultivation]
-sources: [raw/papers/mycelium-running-stamets.md, raw/papers/the-mushroom-cultivator-stamets.md, raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: sources: []
 ---
 
 # Shiitake Cultivation - Log Method
 
-Shiitake (Lentinula edodes) has been cultivated on hardwood logs for centuries in Asia. The log method remains one of the most reliable and low-maintenance approaches to growing this prized mushroom.
+Shiitake ([[staycare-lentinula-edodes-in-bioremediation]]) has been cultivated on hardwood logs for centuries in Asia. The log method remains one of the most reliable and low-maintenance approaches to growing this prized mushroom.
 
 ## Selecting Logs
 
-Hardwood logs are essential. Oak (especially white oak) is the traditional and preferred species. Other suitable hardwoods include maple, alder, beech, birch, ironwood, and hickory. Avoid softwoods (pine, fir, spruce, cedar) and fruit trees. Logs should be:
+Hardwood logs are essential. Oak (especially white oak) is the traditional and preferred species. Other suitable hardwoods include maple, alder, beech, birch, ironwood, and hickory. Avoid softwoods (pine, fir, spruce, cedar) and [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]. Logs should be:
 
 - 3-8 inches in diameter
 - 3-4 feet long
-- Cut from healthy, living trees during dormancy (late fall through early spring)
+- Cut from healthy, living trees during dormancy (late fall through [[coleman-overwintered-onions-and-early-spring-crops]])
 - Inoculated within 2-6 weeks of cutting (before competing fungi colonize)
 
 ## Inoculation
@@ -37,10 +37,10 @@ Hardwood logs are essential. Oak (especially white oak) is the traditional and p
 
 After inoculation, logs enter an incubation period of 6-18 months:
 
-- **Stacking method**: Stack logs in a shaded, moist location. The "crib" or "log cabin" stacking method promotes good air circulation
+- **Stacking method**: Stack logs in a shaded, moist location. The "crib" or "log cabin" stacking method promotes good [[stamets-growing-room-air-circulation-co2-management]]
 - **Moisture management**: Logs should be kept at 35-45% moisture content. In dry periods, water or mist the logs periodically
 - **Location**: Shade is essential -- under trees, behind buildings, or under shade cloth. Full sun will dry and kill the mycelium
-- **Temperature**: 50-80 F is acceptable; 60-75 F is ideal for mycelial growth
+- **Temperature**: 50-80 F is acceptable; 60-75 F is ideal for [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
 - **Ground contact**: Some growers rest logs on bare earth; others elevate on bricks or wire to prevent contamination from soil organisms
 
 ## Fruiting
@@ -67,7 +67,7 @@ A typical log produces mushrooms for 2-6 years, yielding approximately 1/4 to 1 
 ## See Also
 
 - [[gourmet-mushroom-species-guide]]
-- [[oyster-mushroom-cultivation]]
+- [[cotter-oyster-mushroom-cultivation]]
 - [[mushroom-cultivation-grain-spawn]]
 - [[mushroom-cultivation-bulk-substrates]]
 ## Practical Considerations
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

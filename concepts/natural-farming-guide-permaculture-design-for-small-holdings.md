@@ -1,5 +1,5 @@
 ---
-title: Permaculture Design for Small Holdings from Natural Farming
+title: bill-mollison-permaculture-a-designers-manual-permaculture-design-principles for Small Holdings from comparison-natural-farming-vs-permaculture
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -8,7 +8,7 @@ type: concept
 tags: [culture, design, natural-farming, permaculture]
 ---
 
-# [[water-management]], soil building, and plant communities into a self-sustaining system. Originally co-created by Bill Mollison and [[permaculture-design-principles]] draws from patterns found in nature and mimics ongoing natural processes. The approach was later expanded by [[permaculture-ethics]]
+# [[water-management]], soil building, and plant communities into a self-sustaining system. Originally co-created by Bill Mollison and [[permaculture-design-principles-beginners]] draws from patterns found in nature and mimics ongoing natural processes. The approach was later expanded by permaculture-ethics
 
 Three core ethics guide all design decisions:
 
@@ -21,7 +21,7 @@ Sustainable systems are circular rather than linear. Used items go back to their
 ## Design Principles
 
 1. Everything is connected to and supported by everything else
-2. Every element should serve many functions (functional diversity)
+2. Every element should serve many functions ([[fungal-functional-diversity-decomposition]])
 3. Functional design is sustainable and produces useful surplus; otherwise it creates pollution and work
 4. Maximize useful energy in the system; decrease energy waste
 5. Diversity of useful connections between elements serves people's needs
@@ -86,11 +86,11 @@ Building swales: Multiple swales are placed together along the slope contour. Th
 
 ## The Edge Effect
 
-The edge of a forest gets more light and nutrients than the center, making it more productive. To maximize this edge effect, permaculture uses circles, spirals, curves, vertical growing space (trellises), and zigzags. Edge types include spirals (herb spirals), lobular shapes alongside pathways, chinampas (land banks between water ditches), and strip cropping (multiple plant types in curved strips).
+The edge of a forest gets more light and nutrients than the center, making it more productive. To maximize this edge effect, permaculture uses circles, spirals, curves, vertical [[cotter-growing-space-design-fruiting-rooms]] (trellises), and zigzags. Edge types include spirals (herb spirals), lobular shapes alongside pathways, chinampas (land banks between water ditches), and strip cropping (multiple plant types in curved strips).
 
 ## Forest Garden Strategy
 
-Mimic natural forest structure with plants at different heights. In dry or cool climates, space plants farther apart. In warm, humid climates, plant closer together (but not too close to avoid fungus). In fertile areas, plant all species at once. Total yield from all species exceeds monoculture yield. Rotation becomes unnecessary when many different crops grow in one place.
+Mimic natural [[mollison-wet-tropical-forest-structure-and-polyculture]] with plants at different heights. In dry or [[greenhouse-cool-climates-mollison]], space plants farther apart. In warm, humid climates, plant closer together (but not too close to avoid fungus). In fertile areas, plant all species at once. Total yield from all species exceeds monoculture yield. Rotation becomes unnecessary when many different crops grow in one place.
 
 ## Plant Guilds (Communities)
 

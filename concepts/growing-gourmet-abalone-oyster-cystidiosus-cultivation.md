@@ -29,12 +29,12 @@ thick, central or eccentrically attached and relatively short.
 
 ## Common Names
 
-The Abalone Mushroom, The Maple Oyster Mushroom, Miller's Oyster
+The Abalone Mushroom, The Maple [[cotter-oyster-mushroom-cultivation]], Miller's Oyster
 Mushroom.
 
 ## Distribution and Natural Habitat
 
-From the eastern and southeastern United States (Louisiana, Mississippi,
+From the eastern and southeastern [[dmt-containing-plants-united-states-halpern]] (Louisiana, Mississippi,
 North Carolina), Taiwan and South Africa. Probably distributed
 throughout similar ecological zones of the world. The type collection
 by Dr. O.K. Miller came from Red Maple (Acer rubrum). Also native to
@@ -62,7 +62,7 @@ pose a contamination threat to other cultures in the laboratory until
 they dry and harden, at which time the droplets can become airborne.
 
 One advantage of this imperfect stage is that inoculation of any
-substrate with pure culture spawn has an additional complement of
+substrate with pure [[pure-culture-spawn-method-duggar-usda-1902]] has an additional complement of
 asexual spores, effecting a simultaneous "spore mass" inoculation.
 Colonization is comparatively fast. If the fermentation is continued
 for 5-7 days, asexual conidia form, facilitating the direct inoculation
@@ -83,7 +83,7 @@ Musty, farinaceous, not pleasant, not anise-like.
 
 ### Natural Method
 Dead or dying maple, cottonwood, sweetgum, elms, beeches, oaks and
-poplars can be inoculated via plug or sawdust spawn. Stump culture
+poplars can be inoculated via plug or [[growing-gourmet-sawdust-spawn-production-use]]. Stump culture
 should be possible given the success with close relatives.
 
 ### Spawn Expansion
@@ -91,7 +91,7 @@ Cultures grown on nutrified agar media can be immersed into sterile
 water and chopped in a high-speed blender for several seconds. The
 resulting broth can inoculate sterile water fortified with malt/yeast
 and fermented for 48 hours. This liquid inoculum is then transferred
-directly into sterilized grain. Grain spawn should be used within one
+directly into sterilized grain. [[comparison-grain-spawn-vs-grain-to-grain-transfer]] should be used within one
 week of inoculation. No more than two generations of grain spawn are
 recommended.
 
@@ -104,7 +104,7 @@ spawn medium if desired.
 
 ### Fruiting Substrates
 Sterilized hardwood sawdust (maple, oak, beech or elm), pasteurized
-wheat, rice or paddy straw.
+wheat, rice or [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]].
 
 ### Containers
 Bags, columns, trays or bottles.

@@ -46,9 +46,9 @@ The species is easily recognized by its habit of fruiting in dense clusters on d
 
 C. disseminatus has a nearly cosmopolitan distribution in temperate and subtropical regions.
 
-It has been recorded across Europe, North America, South America, Asia, Africa, and Australasia. It is among the most frequently encountered coprinoid mushrooms in urban and suburban settings.
+It has been recorded across Europe, [[psilocybin-north-america-pacific-northwest]], South America, Asia, Africa, and Australasia. It is among the most frequently encountered coprinoid mushrooms in urban and suburban settings.
 
-The species fruits almost exclusively on decaying hardwood stumps, buried roots, and woody debris. Common substrates include oak (*Quercus*), beech (*Fagus*), ash (*Fraxinus*), elm (*Ulmus*), and various fruit trees.
+The species fruits almost exclusively on decaying hardwood stumps, buried roots, and [[fungal-succession-woody-debris-ecology]]. Common substrates include oak (*Quercus*), beech (*Fagus*), ash (*Fraxinus*), elm (*Ulmus*), and various fruit trees.
 
 Fruiting occurs from spring through autumn in temperate zones, and year-round in warmer climates with adequate moisture. It appears in dense troops and clusters, often numbering in the hundreds on a single stump.
 
@@ -56,15 +56,15 @@ Fruiting occurs from spring through autumn in temperate zones, and year-round in
 
 C. disseminatus is a primary and secondary decomposer of woody substrates.
 
-It colonizes dead wood after initial white-rot or brown-rot fungi have softened the substrate, contributing to the later stages of wood decomposition. Its enzyme complement includes cellulases and lignin-modifying enzymes, though it is less aggressive than primary wood decomposers.
+It colonizes dead wood after initial white-rot or brown-rot fungi have softened the substrate, contributing to the later stages of [[fungal-wood-decomposition-spatial-variation]]. Its enzyme complement includes cellulases and lignin-modifying enzymes, though it is less aggressive than primary wood decomposers.
 
 The species has a rapid life cycle. Fruiting bodies can develop from primordia to mature spore-bearing caps within 24–48 hours under favorable conditions. This speed allows it to exploit brief windows of high humidity.
 
-Ecological interactions include serving as a food source for various invertebrates, particularly springtails (Collembola) and fungus gnats (Mycetophilidae). The dense clusters create microhabitats for these organisms.
+[[king-stropharia-ecological-interactions-permaculture]] include serving as a food source for various invertebrates, particularly springtails (Collembola) and fungus gnats (Mycetophilidae). The dense clusters create microhabitats for these organisms.
 
 The mycelium contributes to soil formation by converting woody carbon into humic compounds. It is commonly found in garden settings, parks, and managed landscapes where tree stumps are left to decompose naturally.
 
-Studies of its enzymatic activity show moderate cellulase production but limited ligninase capacity compared to primary white-rot decomposers like *Trametes versicolor*. This positions C. disseminatus as a specialist on partially decomposed wood where cellulose is more accessible.
+Studies of its enzymatic activity show moderate cellulase production but limited ligninase capacity compared to primary white-rot decomposers like *[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]*. This positions C. disseminatus as a specialist on partially decomposed wood where cellulose is more accessible.
 
 In succession dynamics, C. disseminatus typically appears after *Coprinellus micaceus* and other early colonizers, often persisting on the same stump for multiple years as the wood progressively breaks down.
 
@@ -78,7 +78,7 @@ The translucent striations on the cap are best observed when the fruiting bodies
 
 A hand lens is useful for confirming the black spore print color on adjacent caps. The darkening gills provide a visible progression from white to grey to near-black, a useful field character.
 
-Microscopic examination confirms the species through its ellipsoid spores with a distinct germ pore and its pleurocystidia morphology. This is generally only necessary when differentiating from the very similar C. truncorum.
+[[fungal-microscopic-examination-mounting-media-techniques]] confirms the species through its ellipsoid spores with a distinct germ pore and its pleurocystidia morphology. This is generally only necessary when differentiating from the very similar C. truncorum.
 
 ## Edibility
 
@@ -110,7 +110,7 @@ Several coprinoid mushrooms resemble C. disseminatus but can be distinguished by
 - mycena
 - psathyrellaceae
 - [[psychedelic-fungi-taxonomy]]
-- [[coprinus-comatus-detailed]]
+- [[coprinus-comatus]]
 - coprinellus
 - [[spore-print]]
 - [[mollison-humus-and-organic-matter-in-soils]]

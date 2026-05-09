@@ -1,5 +1,5 @@
 ---
-title: Forest Management and Tree Products
+title: mollison pdc forest management products and Tree Products
 created: 2026-04-28
 tags:
   - permaculture
@@ -25,10 +25,10 @@ conditioner" -- the essential climate-ameliorating system of the planet.
 Forests create rain through transpiration, moderate temperature extremes,
 build soil, and prevent erosion. When forests are removed, the
 hydrological cycle breaks down. [[biochar]] precursor)
-- Wood vinegar (pyroligneous acid) for pest control
+- Wood vinegar (pyroligneous acid) for [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]
 - Wood tar for preservation and waterproofing
 - Wood gas for heating and potentially engine fuel
-- Methyl alcohol as a byproduct
+- [[psilocybin-methyl-alcohol-extraction-technique]] as a byproduct
 
 This process extracts maximum value from forest thinnings and waste wood,
 turning what might be burned wastefully into multiple useful products.
@@ -41,7 +41,7 @@ clear-cutting:
 - Harvest individual trees at maturity, allowing gap-phase succession
 - Coppice systems regenerate from cut stumps (willow, hazel, chestnut)
 - Pollarding provides animal fodder and maintains tree height control
-- Leave standing dead wood for habitat and nutrient cycling
+- Leave standing dead wood for habitat and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 - Use "worst first" thinning -- remove damaged or diseased trees first
 - Always maintain enough canopy to prevent soil exposure and erosion
 
@@ -62,7 +62,7 @@ species creating productive boundaries between managed and wild systems.
 The PDC describes integrating trees with agriculture and livestock:
 
 - Silvopasture: trees over pasture providing shade and fodder
-- Alley cropping: rows of trees with crops between [[carob]], honey locust) reducing feed costs
+- [[comparison-alley-cropping-vs-silvopasture]]: rows of trees with crops between carob, [[permaculture-honey-locust-pod-fodder-system]]) reducing feed costs
 
 ## Long-Term Forest Strategy
 
@@ -92,4 +92,6 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+- [[alley-cropping]]
+- [[permaculture-design]]
+- [[mollison-course-coppice-forest-management]]

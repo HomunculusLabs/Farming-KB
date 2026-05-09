@@ -24,7 +24,7 @@ sources:
 
 # Nicole Faires
 
-Nicole Faires is a homesteader, author, and advocate for sustainable living. She wrote "The Ultimate Guide to Natural Farming and Sustainable Living," a comprehensive handbook covering food production, animal husbandry, food preservation, and off-grid skills.
+Nicole Faires is a homesteader, author, and advocate for sustainable living. She wrote "The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and Sustainable Living," a comprehensive handbook covering food production, animal husbandry, food preservation, and off-grid skills.
 
 ## Background
 
@@ -37,13 +37,13 @@ Nicole Faires is a homesteader, author, and advocate for sustainable living. She
 ### Comprehensive Homesteading Handbook
 Her "Ultimate Guide to Natural Farming and Sustainable Living" covers the full spectrum of homestead skills:
 
-- **Gardening** — Vegetable production, season extension, seed saving
+- **Gardening** — [[dry-gardening-unirrigated-vegetable-production-solomon]], [[comparison-season-extension-techniques-vs-cold-frame-gardening]], seed saving
 - **Food preservation** — Canning, drying, fermentation, root cellaring
 - **Animal husbandry** — Poultry, goats, rabbits for homestead-scale production
 - **Permaculture design** — Zone planning, guilds, food forests
-- **Natural building** — Cob, straw bale, and other low-cost methods
+- **[[query-how-do-i-choose-a-natural-building-method-for-my-climate]]** — Cob, straw bale, and other low-cost methods
 - **Energy** — Solar, wood heating, off-grid systems
-- **Water** — Rainwater harvesting, greywater systems
+- **Water** — [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]], greywater systems
 
 ### Practical Approach
 Faires emphasizes:
@@ -76,7 +76,7 @@ Faires' work bridges several areas covered in this wiki:
 - [[permaculture-design]] — zone and element planning
 - [[food-forest-design]] — integrating perennial food systems
 - [[seed-saving-techniques]] — self-reliant seed production
-- [[gaia-garden-plant-guilds]] — companion planting and polyculture
+- [[gaia-garden-plant-guilds]] — [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] and polyculture
 
 ## See Also
 

@@ -1,5 +1,5 @@
 ---
-title: Hymenogastraceae Minor Neurotropic Genera
+title: guzman allen gartz hymenogastraceae minor neurotropic genera Neurotropic Genera
 created: 2026-04-28
 tags:
   - galerina
@@ -42,16 +42,16 @@ Galerina is represented by a single neurotropic species in the Guzmán, Allen
 and Gartz checklist. This is noteworthy because Galerina is a large genus
 containing many extremely toxic species, including the deadly G. marginata
 (syn. G. autumnalis) which contains amatoxins, the same lethal compounds
-found in [[agar]]icales, with hundreds of species worldwide, making the rarity of
+found in agaricales, with hundreds of species worldwide, making the rarity of
 confirmed neurotropic species notable.
 
 ## Agrocybe: Farinacea as Neurotropic
 
 Agrocybe farinacea, described by Hongo, is the only neurotropic species in
 this genus. Agrocybe is a widespread genus of brown-spored mushrooms commonly
-found in grasslands, wood chips, and disturbed habitats. The confirmation of
+found in grasslands, [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]], and disturbed habitats. The confirmation of
 neurotropic properties in A. farinacea expands the known taxonomic range of
-psilocybin production beyond the traditional Strophariaceae-centered view.
+[[gottlieb-psilocybin-production-extraction-methods]] beyond the traditional Strophariaceae-centered view.
 However, like many of the minor genera, chemical studies on A. farinacea are
 limited, and further verification would strengthen the classification.
 
@@ -72,16 +72,16 @@ discussed in [[neurotropic-fungi-classification]].
 Inocybe is a large genus of mycorrhizal mushrooms with seven species
 reported to contain psilocybin according to Ott (1993). However,
 confirmation remains problematic. Inocybe species are notoriously difficult
-to identify, requiring microscopic examination of spores, cystidia, and
+to identify, requiring [[fungal-microscopic-examination-mounting-media-techniques]] of spores, cystidia, and
 pileipellis structure. Many species contain other toxic compounds including
 muscarine, making them potentially dangerous. The combination of
 identification difficulty and limited chemical verification makes Inocybe
-one of the most challenging genera for neurotropic fungi research.
+one of the most challenging genera for [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] research.
 
 ## Pluteus: The Third Largest Neurotropic Genus
 
 With six neurotropic species, Pluteus is the third largest genus of
-confirmed psychoactive fungi. P. atricapillus (syn. P. cervinus) has a
+confirmed [[cattle-dispersal-psychoactive-fungi-australia]]. P. atricapillus (syn. P. cervinus) has a
 complex nomenclatural history: Orton (1986) concluded the true name is
 P. cervinus. P. salicinus, P. cyanopus, P. glaucus, P. nigriviridis, and
 P. villosus complete the neurotropic species list for this genus.
@@ -91,3 +91,9 @@ P. villosus complete the neurotropic species list for this genus.
 The minor neurotropic genera require substantially more research attention.
 Chemical verification of reported species, proper taxonomic identification,
 and expanded field surveys should be priorities. The discovery of additional
+## See Also
+- [[guzman-allen-gartz-gymnopilus-pluteus-neurotropic-genera]]
+- [[guzman-allen-gartz-conocybe-gerronema-neurotropic-species]]
+- [[guzman-allen-gartz-neurotropic-fungi-australasia]]
+- [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]]
+- [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]

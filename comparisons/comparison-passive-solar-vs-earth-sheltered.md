@@ -1,17 +1,18 @@
 ---
-title: Passive Solar Design vs Earth-Sheltered Structures
+title: comparison passive solar vs earth sheltered Design vs Earth-Sheltered Structures
 created: 2026-04-28
 tags: [natural-building, energy-efficiency, permaculture, sustainable-housing]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: comparison
 ---
 
 # Passive Solar Design vs Earth-Sheltered Structures
 
-Both [[earth-sheltered-structures-permaculture]] aim to dramatically reduce or eliminate mechanical heating and cooling by harnessing natural energy flows. They represent two of the most effective strategies for low-energy, climate-responsive building, but they achieve thermal comfort through fundamentally different mechanisms: solar gain versus earth coupling. Understanding both approaches allows designers to select the right tool for their climate, site, and budget — or combine them for maximum resilience.
+Both earth-sheltered-structures-permaculture aim to dramatically reduce or eliminate mechanical heating and cooling by harnessing natural energy flows. They represent two of the most effective strategies for low-energy, climate-responsive building, but they achieve thermal comfort through fundamentally different mechanisms: solar gain versus earth coupling. Understanding both approaches allows designers to select the right tool for their climate, site, and budget — or combine them for maximum resilience.
 
 ## Core Mechanism
 
@@ -40,7 +41,7 @@ Earth-sheltered structures benefit from the earth's constant subsurface temperat
 
 ## Cooling Performance
 
-Passive solar cooling relies on overhangs, deciduous shading, cross-ventilation, stack-effect chimneys, and night flushing of thermal mass. These strategies work best in climates with significant diurnal temperature swings (15°F+ between day and night). In humid climates where nights stay warm, passive cooling alone is often insufficient.
+Passive solar cooling relies on overhangs, deciduous shading, cross-ventilation, stack-effect chimneys, and night flushing of thermal mass. These strategies work best in climates with significant diurnal temperature swings (15°F+ between day and night). In humid climates where nights stay warm, [[mollison-designers-solar-chimneys-and-passive-cooling-in-desert-housing]] alone is often insufficient.
 
 Earth-sheltered buildings gain a major cooling advantage in summer: the surrounding earth is cooler than outdoor air, acting as a continuous heat sink. Desert underground structures maintain comfortable temperatures without any air conditioning. Sod roofs provide additional cooling through evapotranspiration. Cave and cellar systems have been used for millennia in hot climates specifically for this reason — Mollison noted that Allis Chalmers used caves for parts storage due to their dry, cool, dust-free environment.
 
@@ -66,8 +67,8 @@ Key waterproofing considerations include French drains at the footing level, dim
 - No special drainage or waterproofing needed
 - Easier to retrofit into existing buildings
 - Passive cooling through natural ventilation is straightforward
-- Well-understood design principles with extensive published data
-- Works with all natural building methods: cob-construction|cob, [[comparison-slip-form-stone-vs-timber-frame]], earthbag-building|earthbag
+- Well-understood [[holmgren-permaculture-twelve-design-principles-framework]] with extensive published data
+- Works with all [[query-how-do-i-choose-a-natural-building-method-for-my-climate]] methods: cob-construction|cob, [[comparison-slip-form-stone-vs-timber-frame]], earthbag-building|earthbag
 - [[root-cellar-design-and-construction]] or fire refuge
 - Sound insulation from roads, industry, and aircraft
 - Sod roofs can last 200+ years (Norwegian models)
@@ -95,3 +96,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[comparison-green-roof-vs-earth-sheltered]]

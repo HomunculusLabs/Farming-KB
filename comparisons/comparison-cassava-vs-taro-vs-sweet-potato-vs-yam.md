@@ -22,19 +22,19 @@ type: comparison
 
 ## At-a-Glance Comparison
 
-| Feature | Cassava | Taro | Sweet Potato | Yam |
+| Feature | Cassava | Taro | comparison cassava vs taro vs sweet potato vs yam | Yam |
 |---|---|---|---|---|
 | **Species** | *Manihot esculenta* | *Colocasia esculenta* | *Ipomoea batatas* | *Dioscorea* spp. |
 | **Storage organ** | Tuberous root | Corm | Tuberous root | Tuber |
 | **Calories/100g** | 160 kcal | 112 kcal | 86 kcal | 118 kcal |
 | **Days to harvest** | 270–360 | 180–360 | 90–150 | 240–360 |
 | **Min rainfall (mm/yr)** | 500 | 1,500 (upland) | 750 | 1,000 |
-| **Drought tolerance** | Excellent | Moderate | Good | Moderate |
+| **[[dighton-fungal-drought-tolerance-plant-water-relations]]** | Excellent | Moderate | Good | Moderate |
 | **Flood tolerance** | Poor | Excellent (wetland) | Poor | Poor |
 | **Soil fertility need** | Very low | High | Low–moderate | High |
 | **Propagation** | Stem cuttings | Cormels/huli | Vine slips | Seed yams/minisetts |
 | **Post-harvest life** | 24–48 hours (raw) | 1–3 months | 4–12 months (cured) | 3–6 months |
-| **Toxicity raw** | Cyanogenic glucosides | Calcium oxalate | None (edible raw) | Mild (some spp.) |
+| **Toxicity raw** | Cyanogenic glucosides | [[fungal-calcium-oxalate-crystals]] | None (edible raw) | Mild (some spp.) |
 | **Edible leaves** | After processing | After cooking | Yes (raw or cooked) | No (generally) |
 | **Staking needed** | No | No | No | Yes |
 | **Max yield (t/ha)** | 40 | 30 | 25 | 25 |
@@ -43,7 +43,7 @@ type: comparison
 
 ## Caloric Yield Efficiency
 
-When comparing caloric yield per hectare per day of growing season, sweet potato is remarkably efficient despite lower total yield per harvest, because it matures in 3–5 months allowing 2–3 crops per year in the tropics:
+When comparing caloric yield per hectare per day of [[savory-growing-season-and-non-growing-season-management]], sweet potato is remarkably efficient despite lower total yield per harvest, because it matures in 3–5 months allowing 2–3 crops per year in the tropics:
 
 | Crop | Yield (t/ha) | kcal/kg | kcal/ha/year | Growing days |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ Sweet potato has the lowest overall labor requirement, making it ideal for small
 
 | Crop | Most Serious Pest | Most Serious Disease | Overall Vulnerability |
 |---|---|---|---|
-| **Cassava** | Green mite, mealybug | Cassava mosaic disease | Moderate (biological control effective) |
+| **Cassava** | Green mite, mealybug | Cassava mosaic disease | Moderate ([[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] effective) |
 | **Taro** | Taro beetle | Taro leaf blight (*Phytophthora*) | High (leaf blight devastating) |
 | **Sweet Potato** | Sweet potato weevil | Virus disease complex (SPVD) | Moderate |
 | **Yam** | Yam beetle, nematode | Yam anthracnose | High (nematode + storage losses) |
@@ -102,7 +102,7 @@ Sweet potato has the lowest overall labor requirement, making it ideal for small
 → **Cassava** is the clear winner. It survives on as little as 500 mm annual rainfall and can endure 4–6 month dry spells once established. Sweet potato is a reasonable second choice.
 
 ### Wetland, Pond Edge, or Waterlogged Soil
-→ **Taro** is the only crop here that thrives in flooded conditions. It can be grown in paddies, pond margins, and constructed wetlands.
+→ **Taro** is the only crop here that thrives in flooded conditions. It can be grown in paddies, pond margins, and [[comparison-constructed-wetlands-vs-bioswales]].
 
 ### Quick Harvest Needed (Under 4 Months)
 → **Sweet potato** matures in as few as 90 days. No other tropical root crop comes close.
@@ -133,6 +133,8 @@ Sweet potato has the lowest overall labor requirement, making it ideal for small
 ---
 
 ## See Also
+
+- [[comparison-potato-vs-sweet-potato-cultivation]]
 
 - [[comparison-breadfruit-vs-cassava]]
 

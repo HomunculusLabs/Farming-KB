@@ -1,13 +1,6 @@
 ---
-title: "Tryptamine Receptor Pharmacology"
-created: 2026-05-02
-updated: 2026-05-02
-type: concept
-tags: [pharmacology, psychedelics]
-sources: []
 ---
----
-title: [[tryptamine]] Receptor Pharmacology
+title: tryptamine Receptor Pharmacology
 tags: [neuroscience, serotonin-receptors, tryptamines, psychopharmacology]
 date: 2026-04-28
 updated: 2026-04-28
@@ -35,7 +28,7 @@ second messenger systems including adenylate cyclase, phospholipase C, and
 ion channels.
 
 The 5-HT2A receptor is the primary target responsible for the psychedelic
-effects of classical tryptamine hallucinogens. This receptor is highly
+effects of classical [[mckenna-tryptamine-hallucinogens-and-consciousness]]. This receptor is highly
 expressed in cortical layer V pyramidal neurons, the claustrum, and several
 subcortical structures. Activation of 5-HT2A receptors triggers the
 phospholipase C pathway, leading to increased intracellular calcium and

@@ -1,12 +1,12 @@
 ---
-title: Boil-a-Bag Mushroom Cultivation Technique
+title: Boil-a-Bag accessible-mushroom-cultivation-for-disabilities Technique
 created: 2026-04-28
 tags:
   - mushroom cultivation
   - mycology
   - indoor growing
   - sterilization
-  - substrate preparation
+  - [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -17,11 +17,11 @@ type: concept
 # Boil-a-Bag Mushroom Cultivation Technique
 
 The boil-a-bag technique is a method of mushroom-cultivation developed by
-D.H. Jarrold for growing mushrooms indoors using heat-resistant plastic bags as
+D.H. Jarrold for [[falconer-growing-mushrooms-in-sheds]] indoors using heat-resistant plastic bags as
 the primary growing container. The approach is designed to be accessible to
 home cultivators, requiring relatively inexpensive equipment and readily
 available materials. The technique combines elements of [[mushroom-spore-syringe-preparation]], and
-controlled fruiting in a humidity chamber.
+controlled fruiting in a [[mushroom-humidity-chamber-design-operation]].
 
 ## Overview
 
@@ -60,7 +60,7 @@ The boil-a-bag method requires a specific set of tools and materials:
   during colonization and fruiting.
 
 Additional tools include scissors, tweezers, a flat-edged metal scraper, cotton
-wool buds, propyl alcohol for surface sterilization, and a spirit burner for
+wool buds, propyl alcohol for [[challenge-organisms-nasa-microwave-surface-sterilization-testing]], and a spirit burner for
 flame sterilization of instruments.
 
 ## Preparing the Straw Substrate
@@ -68,7 +68,7 @@ flame sterilization of instruments.
 Straw preparation is a critical early step in the boil-a-bag process. The straw
 is chopped to lengths of 3 to 10 cm and placed in a watertight container. A
 nutritional supplement is prepared by dissolving approximately one heaped
-tablespoon of Marmite, Vegemite, or yeast extract in boiling water, which is
+tablespoon of Marmite, Vegemite, or [[marmite-yeast-extract-straw-substrate]] in boiling water, which is
 then diluted with an additional 6 litres of boiling water. This enriched water
 is poured over the straw and the mixture is left to soak for approximately one
 hour, with the straw weighed down to ensure full submersion. After soaking, the
@@ -132,5 +132,5 @@ substrates readily.
 - mushroom-cultivation
 - mycelium
 - substrate
-- [[sterile-technique-mushroom-cultivation]]
+- [[mushroom-cultivation-sterile-technique]]
 - [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]

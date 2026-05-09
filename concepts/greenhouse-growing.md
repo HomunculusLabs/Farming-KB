@@ -3,19 +3,10 @@ title: Greenhouse Growing
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[homesteading, growing]
+tags: [homesteading, growing]
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
-
-# Greenhouse Growing
-
-The greenhouse is one of the most valuable assets in the organic garden, providing the space and environment to extend your gardening activities throughout the year. It serves for raising seedlings, growing tender crops, overwintering frost-sensitive plants, and producing early yields of fruit and vegetables.
-
-## Choosing a Greenhouse
-
-### Size
-
-Buy the biggest greenhouse you can afford, or consider one designed to take additional sections at a later date. In practice, a greenhouse of any size will always be full. Even a tiny greenhouse can accommodate a large quantity of plants and produce, especially if used in conjunction with a [[extending-growing-season]]. If you cannot heat it all, a large greenhouse can easily be divided.
+# Greenhouse Growing The greenhouse is one of the most valuable assets in the organic garden, providing the space and environment to extend your gardening activities throughout the year. It serves for raising seedlings, growing tender crops, overwintering frost-sensitive plants, and producing early yields of fruit and vegetables. ## Choosing a Greenhouse ### Size Buy the biggest greenhouse you can afford, or consider one designed to take additional sections at a later date. In practice, a greenhouse of any size will always be full. Even a tiny greenhouse can accommodate a large quantity of plants and produce, especially if used in conjunction with a [[extending-growing-season]]. If you cannot heat it all, a large greenhouse can easily be divided.
 
 ### Shape
 
@@ -54,17 +45,17 @@ The important statistics are the minimum night temperature and the maximum day t
 - Use a thermal screen drawn at night and pulled back during the day
 - Divide the greenhouse with a plastic curtain to heat only a small area
 - Use a propagator to restrict heated space to seed trays only
-- Install a hot bed using fresh straw horse manure as organic bottom heat
+- Install a hot bed using fresh straw [[falconer-horse-manure-varieties]] as organic bottom heat
 
 ## Growing in the Greenhouse
 
 ### Potting Composts
 
-Many organic gardeners prefer soil-based composts, which retain moisture longer and contain trace elements. Peat-free alternatives include green compost mixed with peat (50:50) plus Dolomite lime, or worm-worked compost mixed with leaf mold and vermiculite. Pelleted chicken manure with liquid kelp feed works well as a nutrient source.
+Many organic gardeners prefer soil-based composts, which retain moisture longer and contain trace elements. Peat-free alternatives include green compost mixed with peat (50:50) plus [[cervantes-dolomite-lime-ph-buffering]], or worm-worked compost mixed with [[comparison-leaf-mold-composting-vs-hot-composting-method]] and vermiculite. Pelleted chicken manure with liquid kelp feed works well as a nutrient source.
 
 ### Greenhouse Borders
 
-If the soil is well prepared with organic matter, greenhouse borders can be very productive. To avoid soil-borne disease build-up, avoid growing the same crop year after year. Replace border soil periodically or use growing bags for vulnerable crops like tomatoes.
+If the soil is well prepared with [[hamilton-composting-and-organic-matter-management]], greenhouse borders can be very productive. To avoid soil-borne disease build-up, avoid growing the same crop year after year. Replace border soil periodically or use growing bags for vulnerable crops like tomatoes.
 
 ### Feeding
 
@@ -88,7 +79,7 @@ Most greenhouse plants require a moist, humid atmosphere. This is achieved by "d
 
 ## Maintenance
 
-- Keep the greenhouse spotlessly clean to discourage pests and diseases
+- Keep the greenhouse spotlessly clean to discourage [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]
 - Remove all plant debris promptly
 - Wash with warm, soapy water at the end of the season
 - Leave open for frost to sterilize during winter
@@ -97,7 +88,7 @@ Most greenhouse plants require a moist, humid atmosphere. This is achieved by "d
 
 ## Greenhouse Pests and Diseases
 
-Common problems include aphids, whitefly, red spider mite, vine weevils, botrytis (gray mold), mildew, damping off, and virus diseases. Control methods include biological controls (Encarsia formosa for whitefly, Phytoseiulus for red spider mite), insecticidal soap, good ventilation, and scrupulous cleanliness.
+Common problems include aphids, whitefly, red spider mite, vine weevils, botrytis (gray mold), mildew, [[cervantes-damping-off-seedling-disease-prevention]], and virus diseases. Control methods include biological controls (Encarsia formosa for whitefly, Phytoseiulus for red spider mite), insecticidal soap, good ventilation, and scrupulous cleanliness.
 
 ## Related Topics
 

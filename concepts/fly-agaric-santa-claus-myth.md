@@ -1,5 +1,5 @@
 ---
-title: Fly-Agaric Santa Claus Myth and Siberian Shamanism
+title: Fly-Agaric fly agaric santa claus myth Myth and Siberian Shamanism
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -32,7 +32,7 @@ was irresistible.
 The notion that "Santa" was a shaman is of relatively recent origin. It was
 first proposed by Robert Gordon Wasson, presumably via Jonathan Ott -- with
 whom both men were friends -- who mentioned it in his popular book about the
-narcotic plants of North America in 1976. From there, it was seized upon by
+narcotic plants of [[psilocybin-north-america-pacific-northwest]] in 1976. From there, it was seized upon by
 the young academic Rogan Taylor, who brought it to much wider attention with a
 colourful article published in the British Sunday Times in 1980. The story
 was repeated as fact in the weekly science journal New Scientist six years
@@ -68,7 +68,7 @@ its numerous inadequacies:
   shamans, not a central or defining practice as the Santa myth implies.
 
 - **Historical timing**: Americans only began to be aware of Siberian
-  shamanism towards the end of the nineteenth century, long after Clement
+  shamanism towards the end of the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], long after Clement
   Clark Moore's famous poem "A Visit from St Nicholas" was composed in 1822.
 
 ## The Real History of Santa Claus
@@ -104,7 +104,7 @@ talent for creative writing.
 
 The Santa Claus myth exemplifies a broader pattern in psychedelic culture: the
 tendency to retroactively identify mushroom influence in cultural phenomena
-that have other, more mundane explanations. Just as Victorian fairy paintings
+that have other, more mundane explanations. Just as [[fly-agaric-victorian-fairy-paintings]] paintings
 were not inspired by direct fly-agaric experience, and Lewis Carroll's Alice
 was not a pharmacological odyssey, the Santa Claus story says more about the
 desires and assumptions of modern mushroom enthusiasts than it does about the
@@ -120,6 +120,8 @@ are the stories that we tell others which say more about ourselves than about
 the cultures we purport to describe.
 
 ## See Also
+
+- [[santa-claus-and-fly-agaric-shaman-myth]]
 
 - [[fly-agaric-victorian-fairy-paintings]]
 - [[fly-agaric-ethnobotany]]

@@ -1,11 +1,12 @@
 ---
-title: Holzer Mushroom Cultivation
+title: Holzer accessible-mushroom-cultivation-for-disabilities
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 ## Mushrooms as a Farm Enterprise
 
@@ -19,9 +20,9 @@ Fungi are not plants; they belong to a separate kingdom and are among the most i
 - The mycelium is the main organism -- thread-like cells (hyphae) that spread through the substrate
 - Fungi cannot photosynthesise -- they absorb nutrients from organic material via the mycelium
 - Many form mycorrhizae: symbiotic associations with plant roots, helping absorb water, nitrogen, and phosphates
-- Medicinal mushrooms (shiitake, maitake, reishi) have proven immune-strengthening, cholesterol-lowering, and anti-cancer properties
+- [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] (shiitake, maitake, reishi) have proven immune-strengthening, cholesterol-lowering, and anti-cancer properties
 
-Fungi are essential to healthy soil. Without decomposers, organic material would accumulate without releasing its nutrients back into the soil. Mycorrhizal networks connect different plants, allowing nutrient exchange and communication between individuals.
+Fungi are essential to healthy soil. Without decomposers, organic material would accumulate without releasing its nutrients back into the soil. [[dighton-mycorrhizal-networks-carbon-transfer]] connect different plants, allowing [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] and communication between individuals.
 
 ## Growing Mushrooms on Wood
 
@@ -49,7 +50,7 @@ Fungi are essential to healthy soil. Without decomposers, organic material would
 ### Oyster Mushrooms in Urban Settings
 Hardwood trunks can be placed in plant troughs on balconies:
 - Trunk inserted through a drainage hole in the trough
-- Trunk acts as both climbing aid for plants and mushroom substrate
+- Trunk acts as both climbing aid for plants and [[gourmet-medicinal-mushroom-substrate-preparation]]
 - Water in a tray below is wicked up through the trunk, maintaining moisture
 - Drill and inoculate the trunk at multiple points
 - Mushrooms fruit from the shaded sides of the trunk
@@ -57,7 +58,7 @@ Hardwood trunks can be placed in plant troughs on balconies:
 ## Growing on Straw
 
 ### Suitable Species
-- Button mushroom (*Agaricus bisporus*)
+- Button mushroom (*[[genetic-improvement-agaricus-bisporus-molecular-approaches]]*)
 - Oyster mushrooms (*Pleurotus* spp.)
 - Wine cap (*Stropharia rugosoannulata*)
 

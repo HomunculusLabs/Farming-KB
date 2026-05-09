@@ -9,7 +9,7 @@ sources:
 ---
 # Cannabis for Musculoskeletal Conditions
 
-Musculoskeletal conditions including arthritis, fibromyalgia, and related disorders are among the most common reasons patients seek medical cannabis. The Cannabis Health Index provides evidence for cannabis across multiple musculoskeletal conditions, with pain relief, anti-inflammatory action, and spasm reduction being the primary therapeutic mechanisms.
+Musculoskeletal conditions including arthritis, fibromyalgia, and related disorders are among the most common reasons patients seek medical cannabis. The [[blesching-cannabis-health-index-autoimmune-conditions]] provides evidence for cannabis across multiple musculoskeletal conditions, with pain relief, anti-inflammatory action, and spasm reduction being the primary therapeutic mechanisms.
 
 ## Arthritis (Osteoarthritis)
 
@@ -60,7 +60,7 @@ Research links fibromyalgia to early life stress affecting brain modulatory circ
 
 Cannabis's antispasmodic properties are relevant for:
 - **Multiple sclerosis**: Cannabis reduces spasticity significantly (26+ studies)
-- **Spinal cord injury**: May reduce spasticity below the level of injury
+- **[[blesching-cannabis-spinal-cord-injuries]] injury**: May reduce spasticity below the level of injury
 - **Menstrual cramps**: Historical and clinical use for dysmenorrhea
 - **Exercise-induced cramps**: Anecdotal reports of relief
 - **Parkinson's disease**: Reduces muscle rigidity
@@ -83,7 +83,7 @@ Topical cannabis preparations are particularly valuable for musculoskeletal cond
 - **Localized delivery**: Direct application to affected joints or muscles
 - **Minimal systemic effects**: No psychoactive impact from properly formulated topicals
 - **Combination therapy**: Can be used alongside oral or inhaled cannabis
-- **Reduced drug interactions**: Minimal systemic absorption means fewer pharmaceutical interactions
+- **Reduced [[cannabis-drug-interactions-and-contraindications]]**: Minimal systemic absorption means fewer pharmaceutical interactions
 
 ### Recommended Topical Applications
 - Cannabis-infused balms and salves for arthritic joints
@@ -96,7 +96,7 @@ Topical cannabis preparations are particularly valuable for musculoskeletal cond
 Cannabis may support musculoskeletal health in active individuals:
 - **Post-exercise inflammation**: Anti-inflammatory properties may reduce delayed-onset muscle soreness
 - **Recovery**: May improve sleep quality for better recovery
-- **Pain management**: Alternative to NSAIDs, which carry gastrointestinal and cardiovascular risks with chronic use
+- **[[cannabis-pain-management-protocols]]**: Alternative to NSAIDs, which carry gastrointestinal and [[emcdda-psilocybin-cardiovascular-risks-acute-physiological-effects]] with chronic use
 
 ## Dosing Considerations
 
@@ -108,4 +108,4 @@ Cannabis may support musculoskeletal health in active individuals:
 
 See also: [[cannabis-anti-inflammatory-applications]], [[cannabis-dosing-guidelines-by-condition]]
 - [[blesching-cannabis-neuropathic-pain]]
-- [[mushroom-cytokine-production-immune-activation]]
+- mushroom-cytokine-production-immune-activation

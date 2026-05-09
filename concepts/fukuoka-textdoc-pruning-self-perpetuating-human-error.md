@@ -24,7 +24,7 @@ Pruning is the most difficult of the skills practiced by fruit growers, yet no s
 
 The grower usually has no choice but to switch back and forth among a variety of different pruning methods as the immediate circumstances seem to require. With all the local variance in methods and opinions, and perhaps also because of the many years of experience and experimentation that have been devoted to it, pruning has done more to confuse fruit growers than any other aspect of orcharding.
 
-When pruning is discontinued on a fruit tree, the form of the tree becomes confused, the primary scaffold branches entangle, and the foliage grows dense, complicating all orchard management. Heavy spraying of pesticides becomes ineffective.
+When pruning is discontinued on a [[comparison-berry-growing-vs-fruit-tree-pruning]], the form of the tree becomes confused, the primary scaffold branches entangle, and the foliage grows dense, complicating all [[fukuoka-orchard-management-detailed]]. Heavy spraying of pesticides becomes ineffective.
 
 As the tree grows older, the branches become ridiculously long, crossing with the branches of neighboring trees. Sunlight ceases to penetrate the canopy to the lower branches, which weaken as a result. Dead and dying branches abound. Fruit ends up by forming only at the surface of the tree.
 
@@ -54,15 +54,15 @@ A bonsai cannot survive without its caretaker. Left alone, it would quickly reve
 
 ## Misconceptions About the Natural Form
 
-Orchardists have never tried growing fruit trees in their natural form. To begin with, most have never even given any thought as to what the natural form is. Many have a vague idea of the natural form as something akin to the shape of a neglected tree. But there is a world of difference between the two. In a sense, the true natural form of a tree may be unknowable to man.
+Orchardists have never tried growing [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] in their natural form. To begin with, most have never even given any thought as to what the natural form is. Many have a vague idea of the natural form as something akin to the shape of a neglected tree. But there is a world of difference between the two. In a sense, the true natural form of a tree may be unknowable to man.
 
-In a system of cultivation based largely on activities such as weeding, tillage, fertilization, and disease and pest control, the ideal form of a tree is the form best suited to these various human operations and to harvesting. Thus it is not the natural form that gardeners and growers seek, but a shape artificially pruned and trained to the convenience and benefit of the grower.
+In a system of cultivation based largely on activities such as weeding, tillage, fertilization, and disease and [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], the ideal form of a tree is the form best suited to these various human operations and to harvesting. Thus it is not the natural form that gardeners and growers seek, but a shape artificially pruned and trained to the convenience and benefit of the grower.
 
 But is it really in the best interests of the farmer to rashly prune his trees without having any idea of what the natural form is or the slightest inkling of the powers and subtlety of nature?
 
 ## Abandoned Trees vs. Truly Natural Trees
 
-One of the most persistent misunderstandings is equating a neglected, abandoned tree with a natural one. When an orchard is abandoned, the trees do not revert to their natural form — they carry the scars of every previous pruning cut. The dense, tangled canopy of an abandoned citrus grove is not natural growth but the accumulated chaos of old wounds sprouting adventitious branches.
+One of the most persistent misunderstandings is equating a neglected, abandoned tree with a natural one. When an orchard is abandoned, the trees do not revert to their natural form — they carry the scars of every previous pruning cut. The dense, tangled canopy of an abandoned citrus grove is not [[ingham-natural-growth-regulators-soil-microbes]] but the accumulated chaos of old wounds sprouting adventitious branches.
 
 A truly natural fruit tree is one that was never interfered with from the moment it germinated. Its central leader grows straight and unimpeded. Its scaffold branches emerge at [[natural-farming-animal-husbandry]] and permits pruning to be dispensed with.
 
@@ -78,7 +78,7 @@ Most of them degenerated into tangled, unproductive masses — confirmation that
 
 He also discovered that specific varieties had distinct natural forms that growers had never recognized because they had only ever seen pruned specimens. The persimmon's natural form, for instance, is a tall, cedar-like conical shape — utterly different from the low, spreading canopy produced by decades of heading back.
 
-The chestnut similarly grows as a tall central leader tree when undisturbed, its branches spaced at regular intervals along the trunk. Citrus varieties differ among themselves: early-ripening Satsumas are naturally low and pyramidal, while late-ripening varieties assume a taller, cypress-like profile. These differences are not the result of pruning technique but of inherent species characteristics.
+The chestnut similarly grows as a tall central leader tree when undisturbed, its branches spaced at regular intervals along the trunk. [[query-best-citrus-varieties-for-different-climates]] differ among themselves: early-ripening Satsumas are naturally low and pyramidal, while late-ripening varieties assume a taller, cypress-like profile. These differences are not the result of pruning technique but of inherent species characteristics.
 
 ## The Road to Pruning-Free Orchards
 
@@ -86,3 +86,7 @@ If you draw a mental picture of the natural form of a tree and make every effort
 
 Whatever new [[fukuoka-textdoc-semi-wild-vegetable-cultivation]]
 - [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]
+
+## See Also
+
+- [[fukuoka-pruning-cascade-self-perpetuating-cycle]]

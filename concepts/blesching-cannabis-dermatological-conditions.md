@@ -1,14 +1,14 @@
 ---
-title: Cannabis for Dermatological Conditions (Blesching, Cannabis Health Index)
+title: Cannabis [[cannabis-for-dermatological-conditions]] (Blesching, blesching-cannabis-health-index-autoimmune-conditions)
 created: 2026-04-26
 updated: 2026-04-25
-sources: "Uwe Blesching, The Cannabis Health Index (CHI)"
+sources: "uwe-blesching, The blesching-cannabis-health-index-autoimmune-conditions (CHI)"
 wikilinks: "blesching-endocannabinoid-system-overview blesching-cannabinoid-pharmacology cannabis-autoimmune-conditions-detailed blesching-cannabis-cancer-symptoms"
 type: concept
 tags: [cannabis]
 ---
 
-# [[blesching-endocannabinoid-system-overview]]
+# [[endocannabinoid-system-overview]]
 - [[cannabis-autoimmune-conditions-detailed]]
 - [[blesching-cannabis-cancer-symptoms]]
 ## Background and Context
@@ -61,7 +61,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -139,4 +139,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

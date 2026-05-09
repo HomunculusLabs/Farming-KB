@@ -1,5 +1,5 @@
 ---
-title: Holzer Natural Animal Husbandry
+title: Holzer holzer natural animal husbandry Husbandry
 created: 2026-04-26
 tags:
   - animal-husbandry

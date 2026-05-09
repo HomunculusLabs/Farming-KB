@@ -136,6 +136,6 @@ from a single TS. Machine learning models now predict pericyclic outcomes with h
 - [[compost-tea-aact]]-organic-brewing
 - [[seed-saving-in-permaculture]]-propagation
 
-- molecular orbital theory — Quantum mechanical foundation for orbital symmetry analysis
+- molecular orbital theory — [[mckenna-quantum-mechanical-correlates-hallucinogenesis]] foundation for orbital symmetry analysis
 
-See also: [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]]
+See also: [[legume-nitrogen-fixation-and-green-manure]]

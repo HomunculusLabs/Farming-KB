@@ -11,10 +11,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Büntgen, U. et al. (2011). \"Drought-induced decline in the growth of European truffle.\" Nature Climate Change, 1(5), 276-279."
+  - "Büntgen, U. et al. (2011). \"Drought-induced decline in the growth of European truffle.\" Nature dighton-fungi-climate-change-feedback, 1(5), 276-279."
   - "Hall, I.R., Brown, G.T. & Zambonelli, A. (2007). Taming the Truffle. Timber Press."
   - "Mello, A. et al. (2006). \"Tuber aestivum: a species complex or a polymorphic species?\" Mycorrhiza, 16(4), 239-246."
-  - "Bonito, G. et al. (2010). \"Tuber aestivum Vittad. and Tuber uncinatum Chatin.\" Fungal Biology, 114(1), 63-72."
+  - "Bonito, G. et al. (2010). \"Tuber aestivum Vittad. and Tuber uncinatum Chatin.\" [[bloomfield-fungal-biology-and-hyphal-growth]], 114(1), 63-72."
   - "Stobbe, U. et al. (2013). \"Tuber aestivum synthesis with Quercus robur.\" Mycorrhiza, 23(1), 59-69."
 ---
 
@@ -26,7 +26,7 @@ sources:
 
 It is the most widely distributed and ecologically adaptable of the commercially significant *Tuber* species, ranging from Scandinavia to North Africa.
 
-Unlike the more expensive black Périgord truffle (*T. melanosporum*), the summer truffle tolerates a broader range of soil pH, temperature, and host trees, making it a practical candidate for truffle cultivation outside traditional Mediterranean zones.
+Unlike the more expensive black Périgord truffle (*T. melanosporum*), the summer truffle tolerates a broader range of soil pH, temperature, and host trees, making it a practical candidate for [[comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation]] outside traditional Mediterranean zones.
 
 ## Taxonomy
 
@@ -62,7 +62,7 @@ Unlike the more expensive black Périgord truffle (*T. melanosporum*), the summe
 ## Distribution and Habitat
 
 - **Native range:** Europe, from southern Sweden and the British Isles to the Mediterranean, eastward through Turkey to the Caucasus
-- **Introduced range:** New Zealand, North America (limited), Australia (trial plantations)
+- **Introduced range:** New Zealand, [[psilocybin-north-america-pacific-northwest]] (limited), Australia (trial plantations)
 - **Climate:** Temperate; mean annual temperature 8–14°C, with cold winters and warm (not hot) summers
 - **Soil:** Prefers well-drained, calcareous or neutral soils, pH 7.0–8.2
 - **Host trees:** Broad ectomycorrhizal host range including:
@@ -95,13 +95,13 @@ Unlike the more expensive black Périgord truffle (*T. melanosporum*), the summe
 
 ### Harvesting
 
-- **Method:** Trained dogs (Lagotto Romagnolo, Belgian Malinois, German Shepherd) are preferred; pigs historically used but damage mycorrhizal networks
+- **Method:** Trained dogs (Lagotto Romagnolo, Belgian Malinois, German Shepherd) are preferred; pigs historically used but damage [[dighton-mycorrhizal-networks-carbon-transfer]]
 - **Harvest window:** Every 3–7 days during peak season
 - **Post-harvest storage:** 7–14 days at 2–4°C; aroma degrades rapidly at room temperature
 
 ## Bioactive Compounds
 
-- **Volatile organic compounds (VOCs):** Dimethyl sulfide, 2-methylbutanal, 3-methylbutanal, phenylacetaldehyde, and numerous sulfur-containing thioethers responsible for the characteristic aroma
+- **[[fungal-volatile-organic-compounds-communication]] compounds (VOCs):** Dimethyl sulfide, 2-methylbutanal, 3-methylbutanal, phenylacetaldehyde, and numerous sulfur-containing thioethers responsible for the characteristic aroma
 - **Androstenol:** A steroid alcohol contributing to musky notes
 - **Phenolic compounds:** Gallic acid, catechin, epicatechin — antioxidant activity
 - **Ergosterol:** Primary fungal sterol, precursor to vitamin D2
@@ -118,11 +118,6 @@ Unlike the more expensive black Périgord truffle (*T. melanosporum*), the summe
 ## Permaculture and Agroforestry Applications
 
 - **Silvotruculture:** Integration of truffle-producing trees into agroforestry systems provides dual income from timber and fungi
-- **Marginal land use:** Suitable for degraded agricultural land with appropriate soil amendment
-- **Biodiversity enhancement:** Truffle orchards support diverse ectomycorrhizal communities and associated fauna
-- **Carbon sequestration:** Long-lived host trees sequester carbon while producing a high-value non-timber forest product
-- **Companion plantings:** Understory herbs (thyme, rosemary, lavender) can coexist if soil pH is maintained; avoid nitrogen-fixing legumes near active truffle burn zones
-
 ## Related Species
 
 | Species | Key Differences |
@@ -147,4 +142,7 @@ Unlike the more expensive black Périgord truffle (*T. melanosporum*), the summe
 
 ## See Also
 
-- [[permaculture-tuber-crops]]
+- permaculture-tuber-crops
+- [[fagus-sylvatica]]
+- [[tuber-borchii]]
+- [[ectomycorrhiza]]

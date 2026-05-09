@@ -1,5 +1,5 @@
 ---
-title: Cannabis Strain Guide (A-Z Reference)
+title: blesching-cannabis-strain-selection-receptor-targeting Guide (A-Z Reference)
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 Updated: 2026-04-18
 
-A comprehensive reference of known cannabis strains organized by type, with key characteristics noted from The Cannabis Grow Bible by Greg Green. Strain codes indicate growing suitability: * = easy indoor, ** = easy outdoor, *** = experienced grower, P = prefers indoor, OUT = outdoor suitable, TB = true breeding.
+A comprehensive reference of known cannabis strains organized by type, with key characteristics noted from The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible by Greg Green. Strain codes indicate growing suitability: * = easy indoor, ** = easy outdoor, *** = experienced grower, P = prefers indoor, OUT = outdoor suitable, TB = [[cannabis-true-breeding-ibl-strains]].
 
 ## Mostly Indica Strains
 
@@ -22,7 +22,7 @@ A comprehensive reference of known cannabis strains organized by type, with key 
 | Big Bud | *, **, TB |
 | Blueberry | *, **, P |
 | California Indica | *, ** |
-| Hindu Kush | *, **, OUT, TB |
+| [[cannabis-hindu-kush-strain-description-clarke]] | *, **, OUT, TB |
 | Holland's Hope | *, **, OUT |
 | Masters Kush | *, **, P |
 | Northern Lights | *, **, TB, P |
@@ -70,7 +70,7 @@ A comprehensive reference of known cannabis strains organized by type, with key 
 
 - *** = For experienced growers only
 
-- P = Prefers indoor cultivation
+- P = Prefers [[cannabis-sativa-indoor-cultivation-techniques]]
 
 - OUT = Suitable for outdoor growing
 
@@ -78,7 +78,7 @@ A comprehensive reference of known cannabis strains organized by type, with key 
 
 ## Selecting the Right Strain
 
-Strain selection depends on several factors. For beginners, strains marked with * offer the most forgiving growth characteristics and resistance to common problems. Indoor growers should prioritize strains marked P (prefers indoor), which have been selected for controlled environments. Outdoor growers need strains suited to their local climate — outdoor strains from similar latitudes perform best. Medical users should consider [[cannabis-minor-cannabinoids]] in addition to THC/CBD content when selecting strains for specific therapeutic effects.
+[[cannabis-strain-selection-guide]] depends on several factors. For beginners, strains marked with * offer the most forgiving growth characteristics and resistance to common problems. Indoor growers should prioritize strains marked P (prefers indoor), which have been selected for controlled environments. Outdoor growers need strains suited to their local climate — outdoor strains from similar latitudes perform best. Medical users should consider [[cannabis-minor-cannabinoids]] in addition to THC/CBD content when selecting strains for specific therapeutic effects.
 
 ## True Breeding vs Hybrid Strains
 
@@ -90,3 +90,11 @@ Strains marked TB (true breeding) produce consistent offspring when bred, making
 - [[cannabis-genetics-and-breeding]]
 - [[northern-lights]]
 - [[jock-horror]]
+
+## See Also
+
+- [[cannabis-strain-sherpa]]
+- [[cannabis-strain-satori]]
+- [[super-boof-cannabis-strain]]
+- [[cannabis-strain-chupacabra]]
+- [[mochi-cannabis-strain]]

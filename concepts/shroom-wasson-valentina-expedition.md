@@ -15,7 +15,7 @@ updated: 2026-04-24
 Between 1953 and the mid-1970s, Gordon Wasson made ten successive trips
 to Mexico on the trail of the psychoactive mushrooms. His expeditions,
 first undertaken with his wife Valentina Pavlovna Guercken and later with
-various companions, transformed our understanding of psychoactive fungi
+various companions, transformed our understanding of [[cattle-dispersal-psychoactive-fungi-australia]]
 and led to the isolation of psilocybin. The most momentous of these was
 the 1955 expedition to Huautla, during which Wasson and photographer
 Allan Richardson became the first Westerners to intentionally consume
@@ -52,14 +52,14 @@ days, subsisting on eggs, cornbread and beans.
 ## The Theoretical Motivation
 
 What really spurred Wasson on through these hardships was the hope that
-an ancient mushroom cult had not died out entirely. What if, hidden
+an ancient [[african-mushroom-cult-history]] had not died out entirely. What if, hidden
 away in the remote mountains of the Sierra Mazateca, it had clung on
 in some half-remembered form, of which the indigenous mushroom
 ceremonies were the very last vestige? Wasson was convinced that the
 human religious impulse itself had been awakened by a Palaeolithic magic
 mushroom cult, and that the pillars of Western civilisation owed their
 origins to a time when our distant ancestors freely ate from the divine
-magic mushroom.
+[[australian-magic-mushroom-common-names]].
 
 As he followed the mule trails ever deeper into the mountains, Wasson
 became ever more convinced that the answer was positive. The hardships
@@ -73,11 +73,11 @@ particularly [[salvia-divinorum]].
 
 ## Related
 
-- [[shroom-mazatec-tradition]] -- Maria Sabina and the Mazatec
+- [[shroom-mazatec-tradition]] -- [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]] and the Mazatec
   tradition
 - [[shroom-scientific-study]] -- Mycology and psilocybin science
 
 ## Source
 
-Letcher, Andy. Shroom: A Cultural History of the Magic Mushroom.
+Letcher, Andy. Shroom: A [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the Magic Mushroom.
 HarperCollins, 2006. Lines 3909-4200, 4200-4280.

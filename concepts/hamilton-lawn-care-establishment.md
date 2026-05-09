@@ -1,5 +1,5 @@
 ---
-title: Hamilton: Lawn Care and Establishment
+title: Hamilton: hamilton lawn care establishment and Establishment
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,19 +9,19 @@ sources:
 ---
 # Hamilton: Lawn Care and Establishment
 
-**Source:** Geoff Hamilton, *Organic Gardening* (Nick Hamilton edition)
+**Source:** Geoff Hamilton, *[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]* (Nick Hamilton edition)
 
 **Updated:** 2026-04-21
 
 An area of grass is a highly desirable garden feature. It makes an excellent feeding place for birds, a comfortable playing surface for children, and a superb "foil" to the plants in the borders. When planning a lawn you will also be shaping the flower borders. Long, sweeping curves of grass make the garden look bigger and are easier to cut. A small patch left to grow tall with sown wildflowers creates a miniature meadow attracting useful insect predators.
 
-[[mollison-aquaculture-harvest-and-fish-nutrition]] per square yard/meter.
+mollison-aquaculture-harvest-and-fish-nutrition per square yard/meter.
 
 4. Walk over the whole area with your weight on your heels to consolidate the soil, preventing later sinking.
 
 5. Rake the area level, crouching down periodically to spot undulations. A completely level lawn is rarely necessary or desirable—gentle contours look more natural.
 
-6. Sow grass seed at 1-1.5 oz (25-35g) per square yard/meter (about two handfuls). If sowing along paving edges, raise the lawn level slightly above the paving for easier mowing.
+6. Sow [[disposable-tray-casing-method-grass-seed-substrate]] at 1-1.5 oz (25-35g) per square yard/meter (about two handfuls). If sowing along paving edges, raise the lawn level slightly above the paving for easier mowing.
 
 7. Rake seed in, covering about half with soil. Cover with perforated plastic to speed germination and protect from birds. Remove plastic when the first seed germinates.
 
@@ -43,7 +43,7 @@ Turf must be bought from a reliable source. It looks good immediately and is rea
 
 ## Mowing
 
-Mow only during the growing season. Begin by raking earthworm casts around the lawn, otherwise the mower flattens them, creating perfect seedbeds for weeds.
+Mow only during the [[savory-growing-season-and-non-growing-season-management]]. Begin by raking earthworm casts around the lawn, otherwise the mower flattens them, creating perfect seedbeds for weeds.
 
 1. First cut: roll with the mower (blades off the ground) to push in loose stones and bruise grass stems, causing buds at their base to grow out, greatly thickening the lawn. Raise blades as high as possible and trim tips.
 
@@ -59,7 +59,7 @@ Mow only during the growing season. Begin by raking earthworm casts around the l
 
 ### Drainage
 
-Proper drainage is essential. If the soil is waterlogged, air cannot reach roots. Improve by adding sand or organic matter. For heavy soils, use a hollow-tined fork to remove cores and fill holes with sand. For light soils, fill cores with garden compost.
+Proper drainage is essential. If the soil is waterlogged, air cannot reach roots. Improve by adding sand or [[hamilton-composting-and-organic-matter-management]]. For heavy soils, use a hollow-tined fork to remove cores and fill holes with sand. For light soils, fill cores with garden compost.
 
 ### Feeding
 
@@ -67,7 +67,7 @@ Use slow-release [[hamilton-nutrient-deficiencies-and-treatment]], such as yello
 
 ## Alternative Lawns
 
-For areas where conventional grass struggles—deep shade, very dry conditions, or steep banks—consider alternatives such as creeping thyme, chamomile, or clover lawns. These low-growing plants require less mowing, tolerate poor conditions better, and support pollinators. Clover lawns in particular fix nitrogen, reducing the need for supplementary feeding.
+For areas where conventional grass struggles—deep shade, very dry conditions, or steep banks—consider alternatives such as creeping thyme, chamomile, or clover lawns. These low-growing plants require less mowing, tolerate poor conditions better, and support pollinators. Clover lawns in particular [[query-how-to-fix-nitrogen-toxicity-in-cannabis]], reducing the need for supplementary feeding.
 
 ## Related
 

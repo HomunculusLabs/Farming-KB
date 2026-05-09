@@ -11,7 +11,7 @@ updated: 2026-04-28
 sources:
   - Benjamin, D.R. (1995). "Mushrooms: Poisons and Panaceas." W.H. Freeman and Company.
   - Kuo, M. (2024). "Clitocybe dealbata." MushroomExpert.com.
-  - Lincoff, G.H. (1981). "National Audubon Society Field Guide to North American Mushrooms." Knopf.
+  - Lincoff, G.H. (1981). "National Audubon Society [[ghouled-field-guide-historical-context]] to [[growing-gourmet-north-american-reishi-species]] Mushrooms." Knopf.
   - Wagstaff, D.J. & Boutin, B. (2013). "Muscarine-containing mushrooms." Toxicon, 76, 56–60.
 created: 2026-05-07
 ---
@@ -20,8 +20,8 @@ created: 2026-05-07
 
 **Clitocybe dealbata** is a toxic mushroom in the family Tricholomataceae, commonly known as the **sweat mushroom** or **ivory funnel**. It is responsible for numerous cases of poisoning due to its resemblance to edible species and its habit of growing in grassy areas where foragers encounter it.
 
-The species contains **muscarine**, a toxic alkaloid that stimulates parasympathetic nervous system receptors. Unlike the ibotenic acid/muscimol toxins found in [[amanita-muscaria-entity]]
-- [[coprinus-comatus-detailed]]
+The species contains **muscarine**, a toxic alkaloid that stimulates parasympathetic nervous system receptors. Unlike the [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]]/muscimol toxins found in [[amanita-muscaria-entity]]
+- [[coprinus-comatus]]
 - [[gyromitra-esculenta]]
 - [[psilocybe-cubensis]]
 - [[pleurotus-ostreatus]]
@@ -106,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Mabberley, D.J. (2017). \"Mabberley's Plant-Book: A Portable Dictionary of Plants.\" 4th ed. Cambridge University Press."
-  - "Fernald, M.L. & Kinsey, A.C. (1958). \"Edible Wild Plants of Eastern North America.\" Harper & Row."
+  - "Fernald, M.L. & Kinsey, A.C. (1958). \"Edible Wild Plants of [[polypore-fungi-eastern-north-america]] America.\" Harper & Row."
   - "Couplan, F. (1998). \"The Encyclopedia of Edible Plants of North America.\" Chelsea Green Publishing."
   - "Kershaw, L. (2000). \"Edible and Medicinal Plants of the Rockies." Lone Pine Publishing."
   - "Peterson, L. (1978). \"A Field Guide to Edible Wild Plants of Eastern and Central North America.\" Houghton Mifflin."created: 2026-05-07
@@ -24,7 +24,7 @@ created: 2026-05-07
 
 Tragopogon pratensis, commonly known as meadow salsify or goatsbeard, is a biennial herbaceous plant in the family Asteraceae. Native to Europe and temperate Asia, it has naturalized widely across North America.
 
-The species is valued as both an edible wild plant and a traditional medicinal herb. Its taproot resembles a slender parsnip and was historically cultivated as a root vegetable in Europe.
+The species is valued as both an edible wild plant and a traditional [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]]. Its taproot resembles a slender parsnip and was historically cultivated as a [[fukuoka-western-root-vegetable-deficiency]] in Europe.
 
 The genus name Tragopogon derives from Greek *tragos* (goat) and *pogon* (beard), referring to the large, feathery seed head that resembles a goat's beard.
 
@@ -46,7 +46,7 @@ Tragopogon pratensis is native to Europe, western Siberia, and Central Asia. It 
 
 The species thrives in meadows, pastures, roadsides, disturbed ground, and semi-natural grasslands. It prefers well-drained, moderately fertile soils in full sun to partial shade.
 
-It grows at elevations from sea level to approximately 1,800 meters. In North America, it is widespread across the northern United States and southern Canada.
+It grows at elevations from sea level to approximately 1,800 meters. In North America, it is widespread across the northern [[dmt-containing-plants-united-states-halpern]] and southern Canada.
 
 The plant is considered a minor weed in agricultural settings but is not aggressively invasive.
 
@@ -68,7 +68,7 @@ Phenolic compounds identified in aerial parts include chicoric acid, chlorogenic
 
 Triterpenoid saponins have been detected in root extracts, though at lower concentrations than in related species. The latex contains bitter lactucarium-type sesquiterpene lactones.
 
-Essential oil analysis reveals fatty acid derivatives and minor amounts of terpenes in the seed heads.
+[[permaculture-designers-manual-essential-oil-plants]] analysis reveals fatty acid derivatives and minor amounts of terpenes in the seed heads.
 
 ## Ecology and Applications
 
@@ -76,7 +76,7 @@ Tragopogon pratensis serves as a nectar and pollen source for bees, butterflies,
 
 In permaculture and ecological landscaping, meadow salsify contributes to diverse wildflower meadows and guild plantings. Its deep taproot breaks compacted soils and mines minerals from subsoil layers.
 
-The species has potential as a dynamic accumulator, bringing calcium and potassium to the surface through leaf decomposition. It fits naturally into no-till and minimal-maintenance food forest understory plantings.
+The species has potential as a [[nutrient-dynamic-accumulator-reference]], bringing calcium and potassium to the surface through leaf decomposition. It fits naturally into no-till and minimal-maintenance food forest understory plantings.
 
 The large seed heads provide structural interest in naturalistic plantings and food for seed-eating birds in autumn.
 

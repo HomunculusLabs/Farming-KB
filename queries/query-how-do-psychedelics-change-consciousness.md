@@ -1,5 +1,5 @@
 ---
-title: "How Do Psychedelics Change Consciousness?"
+title: "How Do query how do psychedelics change consciousness Consciousness?"
 created: 2026-05-02
 updated: 2026-05-02
 type: query
@@ -27,7 +27,7 @@ The chemistry opens a range of possibilities, but context strongly shapes which 
 
 ## Bottom Line
 
-Psychedelics change consciousness through physical effects on the brain that reorganize subjective experience.
+Psychedelics change consciousness through physical effects on the brain that reorganize [[dosage-unpredictability-psilocybin-subjective-experience]].
 They alter perception, emotion, memory, selfhood, and meaning-making.
 They are scientifically important because they provide reversible tools for studying consciousness.
 They are philosophically important because they reveal how closely mind and matter are connected without fully dissolving the mystery between them.
@@ -49,7 +49,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -99,7 +99,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -109,4 +109,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -1,5 +1,5 @@
 ---
-title: Enoki Mushroom Cultivation
+title: Enoki accessible-mushroom-cultivation-for-disabilities
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
@@ -8,7 +8,7 @@ sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 ---
 # Enoki Mushroom Cultivation
 
-Enoki (Flammulina velutipes) is one of the most popular cultivated mushrooms in Japan, where it has been grown commercially for centuries. In the wild, it is a short-stemmed mushroom with broad caps. Through manipulation of CO2 and light levels, cultivators produce the characteristic long-stemmed, small-capped form that dominates the commercial market.
+Enoki (Flammulina velutipes) is one of the most popular [[fungi-cultivated-mushrooms-pathogens-competitors]] in Japan, where it has been grown commercially for centuries. In the wild, it is a short-stemmed mushroom with broad caps. Through manipulation of CO2 and light levels, cultivators produce the characteristic long-stemmed, small-capped form that dominates the commercial market.
 
 ## Species Information
 
@@ -56,10 +56,10 @@ Cropping cycle: 2-3 crops, 10-12 days apart. Most strains require a cold shock f
 
 The Japanese bottle method is the industry standard:
 
-1. Polypropylene bottles filled with supplemented sawdust (alder, cottonwood, poplar, willow, aspen)
+1. Polypropylene bottles filled with [[oyster-mushroom-supplemented-sawdust-blocks]] (alder, cottonwood, poplar, willow, aspen)
 2. Inoculate with grain spawn at 10-15% rate
 3. Incubate at 70-75 F for 2-3 weeks
-4. Cold shock to 45-50 F for primordia formation
+4. Cold shock to 45-50 F for [[growing-gourmet-primordia-formation-pinning]]
 5. Insert a paper or plastic cylinder into the bottle opening to channel CO2
 6. Stems elongate through the cylinder, producing uniform clusters
 7. Remove cylinder before harvest; grasp cluster and pull
@@ -80,7 +80,7 @@ White, longitudinally linear, becoming finely appressed and tinged light brown t
 
 ## Yield
 
-- Biological efficiency: up to 150% (preponderance is stem mass)
+- [[stamets-biological-efficiency-yield]]: up to 150% (preponderance is stem mass)
 - Standard yield from 1-liter bottles: 3-5 oz per first flush
 - Clusters average 5-6 oz (140-170 grams) per bottle in commercial operations
 - Multiple flushes possible but first flush is dominant
@@ -99,12 +99,10 @@ Crude protein: 17-31%; fat: 1.9-5.8%; fiber: 3.7%; ash: 7.4%. Protein content va
 
 ## Harvesting and Storage
 
-Harvest by grasping the entire cluster at the base and pulling. Trim off any substrate debris. Enoki has a reasonable shelf life when refrigerated -- 2-3 weeks at 34-38 F. For long-term storage, dehydrate and reconstitute in soups.
-
 ## Related Topics
 
-- [[oyster-mushroom-spawn-production]] for grain spawn preparation
-- [[king-stropharia-wine-cap-cultivation]] for comparison with outdoor cultivation
+- [[oyster-mushroom-spawn-production]] for grain [[azurescens-spawn-preparation-grain-to-wood]]
+- king-stropharia-wine-cap-cultivation for comparison with outdoor cultivation
 - [[maitake-cultivation]] for another wood-decomposing mushroom
 ## Merged: Collybia and Marasmius Species Identification
 
@@ -145,3 +143,6 @@ The cap is 1 to 5 centimeters in diameter, convex to broadly bell-shaped with a 
 The gills are white to cream, broadly attached to the stem or slightly decurrent, and are well-spaced. Between the gills, on the cap surface, there are often interveined connections that create a characteristic collybioid pattern.
 
 The stem is tough, solid, smooth, and whitish to pale brown. A notable feature is the extreme toughness of the stem, which is difficult to break even when bent. This toughness is characteristic of the genus Marasmius.
+- [[enoki-cultivation]]
+- [[mushroom-cultivation]]
+- [[marasmius-oreades]]

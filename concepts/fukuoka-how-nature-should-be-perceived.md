@@ -5,12 +5,13 @@ updated: 2026-04-21
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # How Should Nature Be Perceived?
 
-From "The Natural Way of Farming" by Masanobu Fukuoka, Chapter 3 of "The Theory of Natural Farming."
+From "The Natural Way of Farming" by Masanobu Fukuoka, Chapter 3 of "The [[fukuoka-natural-way-of-farming-theory-of-natural-farming]] Farming."
 
 ## Seeing Nature as Wholistic
 
@@ -72,11 +73,11 @@ Natural farming starts out with the conviction that barley seeds which fall to t
 
 One never blames nature, but begins by blaming oneself.
 
-There is no good or evil in nature. Natural farming admits to the existence neither of insect pests nor of beneficial insects. If a pest outbreak occurs, one reflects that this was probably triggered by some human mistake.
+There is no good or evil in nature. Natural farming admits to the existence neither of insect pests nor of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. If a pest outbreak occurs, one reflects that this was probably triggered by some human mistake.
 
 Thus, in natural farming, one always solves the problem by reflecting on the mistake and returning as close to nature as possible.
 
-Those practicing scientific farming, on the other hand, habitually blame insect infestation on the weather or some other aspect of nature.
+Those practicing [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]], on the other hand, habitually blame insect infestation on the weather or some other aspect of nature.
 
 ## The Practice of Wholistic Perception
 

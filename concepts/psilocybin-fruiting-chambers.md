@@ -25,9 +25,9 @@ sources:
 
 # Psilocybin Fruiting Chambers and Stages
 
-Fruiting stage management, growing chamber construction, casing materials, and drying/storage for psilocybin mushrooms, based on Gottlieb's Psilocybin Producer's Guide (1976), the Magic Mushroom Grower's Guide, and Badham's experimental studies on light initiation and tropisms.
+Fruiting stage management, growing chamber construction, [[mushroom-cultivator-casing-materials-buffering-agents]], and drying/storage for [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]], based on Gottlieb's Psilocybin Producer's Guide (1976), the [[australian-magic-mushroom-common-names]] Grower's Guide, and Badham's experimental studies on light initiation and tropisms.
 
-Related: [[psilocybin-mushroom-cultivation]], [[mushroom-indoor-cultivation]], [[pf-tek-guide]], [[mushroom-substrates]]
+Related: [[psilocybin-cultivation]], [[mushroom-indoor-cultivation]], [[pf-tek-guide]], [[mushroom-substrates]]
 
 ## Fruiting Stages (Gottlieb, 1976)
 
@@ -56,7 +56,7 @@ Three distinct stages of carpophore development, each with specific environmenta
 
 ## Light Requirements for Fruiting (Badham, 1980)
 
-E. R. Badham's experimental work (Mycologia, 1980) established the precise light requirements for basidiocarp initiation in P. cubensis:
+E. R. Badham's experimental work (Mycologia, 1980) established the precise light requirements for [[light-basidiocarp-initiation-psilocybe-cubensis-research]] in P. cubensis:
 
 ### Key Findings
 - **Light is mandatory** for fruitbody initiation — initials form only when cultures are illuminated
@@ -84,7 +84,7 @@ Badham's wind tunnel experiments (Mycologia, 1982) revealed how developing mushr
 
 ### Geotropism Shift at Sporulation
 - At spore formation (Stage 3), a **negative geotropic response** overrides the wind response
-- The pileus turns upward with lamellae facing downward for optimal spore dispersal
+- The pileus turns upward with lamellae facing downward for optimal [[aquatic-fungi-spore-dispersal-ingold]]
 - This response does NOT occur in sporeless mutants, linking it directly to spore production
 - Some light is necessary, possibly because light is required for spore formation
 
@@ -120,8 +120,8 @@ Badham's wind tunnel experiments (Mycologia, 1982) revealed how developing mushr
 
 ## See Also
 
-- [[psilocybin-mushroom-cultivation]] — Species overview, PF TEK, monotub, light requirements
+- [[psilocybin-cultivation]] — Species overview, PF TEK, monotub, light requirements
 - [[psilocybin-liquid-culture]] — Mycelial liquid culture method and species parameters
 - [[mushroom-indoor-cultivation]] — General indoor growing environments and parameters
 - [[pf-tek-guide]] — Complete PF TEK documentation
-- [[mushroom-contamination-identification]] — Contaminant identification and prevention
+- [[mushroom-contamination-identification]] — [[mushroom-contaminant-identification-key]] and prevention

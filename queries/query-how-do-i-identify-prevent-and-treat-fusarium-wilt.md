@@ -1,9 +1,10 @@
 ---
-title: "How Do I Identify, Prevent, and Treat Fusarium Wilt?"
+title: "How Do I Identify, Prevent, and query how do i identify prevent and treat fusarium wilt Wilt?"
 tags: [query, plant-disease, fusarium, soil-pathogen, cannabis]
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
@@ -11,9 +12,9 @@ sources:
 
 ## Short Answer
 
-Fusarium wilt is a soil-borne fungal disease caused by species in the genus Fusarium that invades plant vascular systems, blocking water transport and causing wilting, yellowing, and often plant death.
+Fusarium wilt is a soil-borne [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] caused by species in the genus Fusarium that invades plant vascular systems, blocking water transport and causing wilting, yellowing, and often plant death.
 
-There is no cure once the fungus is inside the plant, so prevention through resistant varieties, crop rotation, biological controls, and soil health management is the most effective strategy.
+There is no cure once the fungus is inside the plant, so prevention through resistant varieties, [[comparison-crop-rotation-vs-cover-cropping]], biological controls, and soil health management is the most effective strategy.
 
 Early identification is critical because Fusarium symptoms can be confused with other wilting diseases like those caused by [[fusarium-oxysporum]], which has numerous host-specific formae speciales (specialized strains).
 
@@ -61,13 +62,13 @@ Rotating away from susceptible crops for 3-5 years reduces soil inoculum levels 
 
 Incorporating non-host crops like grains or legumes starves the Fusarium population — see [[cervantes-trichoderma-beneficial-fungi|Trichoderma]] species as a soil drench or root inoculant creates a competitive barrier against Fusarium colonization.
 
-[[bacillus-amyloliquefaciens]] produce antifungal compounds that inhibit Fusarium growth in the rhizosphere.
+bacillus-amyloliquefaciens produce antifungal compounds that inhibit Fusarium growth in the rhizosphere.
 
 The [[arbuscular-mycorrhizal-fungi]] colonization can reduce Fusarium severity by improving plant vigor and root defenses.
 
 ### Soil Health and Cultural Practices
 
-Maintaining well-draining soil with adequate organic matter supports a diverse soil microbiome that naturally suppresses pathogens.
+Maintaining well-draining soil with adequate [[hamilton-composting-and-organic-matter-management]] supports a diverse soil microbiome that naturally suppresses pathogens.
 
 Avoiding overwatering and ensuring proper oxygen levels in the root zone keeps plants less vulnerable to infection.
 
@@ -83,7 +84,7 @@ For severely contaminated growing media, complete replacement of the soil or sub
 |---------|--------------|-------------|-----------------|
 | [[fusarium-solani]] | Legumes, cucurbits, potatoes | Root and crown rot | Wide host range |
 | [[fusarium-verticillioides]] | Maize, sorghum | Ear rot, stalk rot | Fumonisin mycotoxin |
-| [[fusarium-lateritium]] | Various fruit trees | Canker, fruit rot | Woody host specialist |
+| [[fusarium-lateritium]] | Various [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] | Canker, fruit rot | Woody host specialist |
 
 ## Key Points
 

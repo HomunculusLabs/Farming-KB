@@ -15,7 +15,7 @@ sources:
     and Pelargonium." Taylor & Francis.
   - Demarne, F.E. (2005). "Pelargoniums of Southern Africa." Briza
     Publications.
-  - Boukhatem, M.N. et al. (2013). "Rose geranium essential oil as
+  - Boukhatem, M.N. et al. (2013). "Rose geranium [[permaculture-designers-manual-essential-oil-plants]] as
     source of new bioactive products." Journal of Applied Botany.
   - Singh, P. et al. (2014). "Pharmacological properties of Pelargonium
     graveolens." International Journal of Pharmaceutical Sciences.
@@ -88,7 +88,7 @@ consistency.
 Rose geranium prefers Mediterranean-type climates with warm, dry summers
 and mild winters. It tolerates light frost and performs best in
 full sun with well-drained, slightly acidic soils (pH 6.0–7.0). Harvesting
-occurs 2–4 times per year, with steam distillation of aerial parts.
+occurs 2–4 times per year, with [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] of aerial parts.
 
 ## Essential Oil Chemistry
 
@@ -111,7 +111,7 @@ plant weight.
 Rose geranium oil exhibits broad-spectrum antimicrobial activity against
 Gram-positive bacteria including *Staphylococcus aureus* and against
 Candida yeast species. The mechanism involves disruption of microbial
-cell membrane integrity.
+[[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] integrity.
 
 Anti-inflammatory activity has been demonstrated in both in vitro and
 animal models. Geraniol and citronellol inhibit cyclooxygenase-2 (COX-2)
@@ -119,7 +119,7 @@ expression and reduce pro-inflammatory cytokine production, including
 TNF-α and IL-6.
 
 In aromatherapy, rose geranium is valued for its anxiolytic and
-mood-stabilizing effects. Clinical trials report reduced anxiety
+mood-stabilizing effects. [[mushroom-cancer-clinical-trials-overview]] report reduced anxiety
 following inhalation, mediated through olfactory-limbic pathway
 modulation of the autonomic nervous system.
 
@@ -131,8 +131,8 @@ The oil is generally recognized as safe (GRAS) for food and cosmetic use.
 *P. graveolens* serves multiple functions in [[food-forest]] understories in Mediterranean climates.
 
 Rose geranium can be integrated into hedgerows and living fence systems,
-providing both aromatic harvest and wind protection. Pruned material is
-valuable as mulch, contributing organic matter and mild allelopathic
+providing both aromatic harvest and [[cervantes-wind-protection-outdoor-cannabis]]. Pruned material is
+valuable as mulch, contributing [[hamilton-composting-and-organic-matter-management]] and mild allelopathic
 compounds that suppress weed germination.
 ## See Also
 

@@ -1,7 +1,7 @@
 ---
-title: Mushroom Spawn Making and Pure Culture Methods
+title: cuthill-mushroom-spawn-preparation-historical Making and Pure Culture Methods
 slug: mushroom-spawn-making-pure-culture
-source: Benjamin Minge Duggar, Mushroom Growing (1915)
+source: Benjamin [[benjamin-minge-duggar-mushroom-cultivation-research]], [[duggar-mushroom-growing-history-and-methods]] (1915)
 tags: [spawn, pure-culture, brick-spawn, mycelium, inoculation, mushroom-cultivation]
 ---
 
@@ -15,7 +15,7 @@ The mycelium should be white, vigorous, and spreading actively through the subst
 
 Any discoloration, off-odor, or patchy growth indicated contamination or deterioration.
 
-Commercial spawn was graded by the density and uniformity of [[mushroom-spawn-production]], even though the specific methods and substrata have been refined over the subsequent century.
+Commercial spawn was graded by the density and uniformity of mushroom-spawn-production, even though the specific methods and substrata have been refined over the subsequent century.
 
 ## See Also
 
@@ -98,4 +98,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

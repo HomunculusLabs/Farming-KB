@@ -1,10 +1,10 @@
 # Multipurpose Trees in [[gleditsia-triacanthos]])
 
-Honey locust is a prime example of a multipurpose permaculture tree. This
+[[permaculture-honey-locust-pod-fodder-system]] is a prime example of a multipurpose permaculture tree. This
 moderately fast growing, long-lived legume reaches 24-30 meters with a trunk
 diameter of 60-90 centimeters.
 
-Its deep root system provides exceptional drought tolerance, and it tolerates
+Its deep root system provides exceptional [[dighton-fungal-drought-tolerance-plant-water-relations]], and it tolerates
 alkaline and acid soils as well as salt. The sweet, nutritious pods are
 relished by all classes of stock: pigs, sheep, cattle, and poultry.
 
@@ -21,7 +21,7 @@ Reaching 25 meters and living up to 200 years, it is native to the
 Appalachian and Ozark mountains.
 
 The foliage is readily eaten by all classes of livestock, and seed is suitable
-as poultry feed. Black locust produces honey regarded as one of the finest in
+as [[knf-poultry-feed-preparation]]. Black locust produces honey regarded as one of the finest in
 the world, blooming profusely in late spring.
 
 The timber is hard, heavy, durable, strong, and extremely rot resistant. It
@@ -29,13 +29,13 @@ is used extensively for round, hewn, or split mine timbers, fence posts,
 railway sleepers, stakes, and electrical insulator pegs.
 
 It coppices vigorously and is a very good firewood that burns like coal.
-Commonly planted for erosion control, shelter belts, fodder, and wildlife
+Commonly planted for [[permplant-willows-salix-erosion-control-fodder]], shelter belts, fodder, and wildlife
 habitat. Its main challenge is vigorous suckering, controlled by selecting
 non-suckering cultivars.
 
 ## Leucaena ([[chamaecytisus-palmensis]])
 
-Tagasaste combines nitrogen fixation with outstanding fodder production in
+Tagasaste combines [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] with outstanding fodder production in
 Mediterranean climates. Growing to 7 meters on as little as 300mm annual
 rainfall, it produces foliage with crude protein of 17-31 percent of dry
 matter, exceeding lucerne, rye grass, and wheat grain.
@@ -58,9 +58,10 @@ four productive trees, adjusted based on soil fertility and climate.
 
 Timber trees can serve as windbreaks protecting more delicate species. Fodder
 trees should be accessible to livestock management systems. The goal is every
+
 ## Practical Considerations
 
-Successful implementation of Multipurpose Trees In Permaculture Design requires attention to
+Successful implementation of Multipurpose multipurpose trees in permaculture design Design requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -76,4 +77,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

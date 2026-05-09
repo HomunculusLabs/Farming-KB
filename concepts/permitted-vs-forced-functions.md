@@ -11,7 +11,7 @@ sources:
 
 ## Design for Function
 
-One of Mollison's most distinctive design principles is the distinction between permitted and forced functions. Every element in a system has innate behaviors and tendencies -- its permitted functions. Design should work with these natural behaviors rather than forcing elements to perform functions they are not suited for. A chicken naturally scratches, pecks, forages, and produces manure; these are its permitted functions. Forcing a chicken to live in a confined cage suppresses its natural behaviors and creates problems (disease, stress, waste accumulation) requiring energy-intensive solutions.
+One of Mollison's most distinctive [[holmgren-permaculture-twelve-design-principles-framework]] is the distinction between permitted and forced functions. Every element in a system has innate behaviors and tendencies -- its permitted functions. Design should work with these natural behaviors rather than forcing elements to perform functions they are not suited for. A chicken naturally scratches, pecks, forages, and produces manure; these are its permitted functions. Forcing a chicken to live in a confined cage suppresses its natural behaviors and creates problems (disease, stress, waste accumulation) requiring energy-intensive solutions.
 
 Mollison frames this as the fundamental question of design: "Does the system waste energy, or does it conserve it?" When we observe nature, we see that all living systems conserve energy; only modern human systems waste it on a grand scale. The permitted function approach seeks to align human designs with the energy-conserving patterns of natural systems.
 
@@ -31,10 +31,10 @@ When design places elements where their permitted functions serve system needs, 
 
 Forced functions require energy input to maintain. They are actions that elements would not naturally perform:
 
-- Mechanically aerating a compost pile (worms and fungi do this naturally)
-- Applying synthetic fertilizer (legumes and biological cycles fix nitrogen naturally)
-- Spraying pesticides (diverse plantings and predator insects control pests naturally)
-- Heating and cooling a poorly-sited house with fossil fuels (passive solar design and vegetation moderate temperature naturally)
+- Mechanically aerating a [[mushroom-cultivator-compost-pile-management]] (worms and fungi do this naturally)
+- Applying synthetic fertilizer (legumes and biological cycles [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] naturally)
+- Spraying pesticides (diverse plantings and predator insects [[query-how-to-control-pests-without-chemicals]] naturally)
+- Heating and cooling a poorly-sited house with fossil fuels ([[comparison-passive-solar-vs-earth-sheltered]] design and vegetation moderate temperature naturally)
 - Pumping and filtering water (forested watersheds and healthy soils purify water naturally)
 
 Forced functions are not always avoidable, but Mollison argues they should be the last resort, not the first choice. Every forced function represents a design failure -- a connection that was not made, a permitted function that was not utilized.
@@ -59,8 +59,8 @@ This harmony extends to the principle that every function should be served by mu
 
 ## Self-Organization
 
-When permitted functions are properly arranged, systems begin to self-organize. The designer sets up initial conditions and connections, then allows the system to develop. Self-organizing systems are more resilient, more productive, and less labor-intensive than managed systems because they harness the intelligence and adaptability of living organisms. This connects directly to [[permaculture-design]] to [[permaculture-cycles-and-niches-in-time]]
-- [[natural-farm-permaculture-ethics-principles]]
+When permitted functions are properly arranged, systems begin to self-organize. The designer sets up initial conditions and connections, then allows the system to develop. Self-organizing systems are more resilient, more productive, and less labor-intensive than managed systems because they harness the intelligence and adaptability of [[savory-living-organisms-as-tools]]. This connects directly to [[permaculture-design]] to permaculture-cycles-and-niches-in-time
+- natural-farm-permaculture-ethics-principles
 - [[jadam-fruit-tree-winter-pest-control]]
 - [[plant-micronutrients-and-their-essential-functions]]
 ## Practical Considerations
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

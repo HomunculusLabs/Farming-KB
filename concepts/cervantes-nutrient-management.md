@@ -1,11 +1,12 @@
 ---
-title: "Cannabis Nutrient Management and Deficiency Symptoms"
+title: "Cannabis green-cannabis-grow-bible-nutrient-management-ppm and Deficiency Symptoms"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
 tags: [cannabis, nutrients]
 sources:
-  - raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # Cannabis Nutrient Management and Deficiency Symptoms
@@ -28,9 +29,9 @@ Nutrients are grouped into three categories:
 ## Macronutrient Deficiencies
 
 ### Nitrogen (N) — Mobile
-**Role:** Essential for proteins, chlorophyll, amino acids, enzymes, nucleic acids. Mainly responsible for leaf and stem growth, overall size and vigor. Required in high levels during vegetative growth.
+**Role:** Essential for proteins, chlorophyll, amino acids, enzymes, nucleic acids. Mainly responsible for leaf and stem growth, overall size and vigor. Required in high levels during [[cannabis-vegetative-growth-stage]].
 
-**Deficiency symptoms:** Most common nutrient deficiency.
+**Deficiency symptoms:** Most common [[cannabis-grow-nutrient-deficiency-problem-solving]].
 - Slow growth
 - Lower leaves yellow between veins while veins remain green (interveinal chlorosis)
 - Yellowing progresses through entire leaf; leaf dies and drops
@@ -66,7 +67,7 @@ Nutrients are grouped into three categories:
 ## General Nutrient Management
 
 - Fertilize sparingly the first month after transplanting
-- Use high-nitrogen formula during vegetative stage
+- Use high-nitrogen formula during [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]
 - Change to "super bloom" (high P, K; low N) when flowering begins
 - Leach nutrients from growing medium 7-10 days before harvest to avoid fertilizer taste
 - Fertilizer with chelated iron helps when excess calcium blocks iron and potassium uptake
@@ -76,7 +77,7 @@ Nutrients are grouped into three categories:
 - Soil pH 6.0-7.0 for optimal nutrient availability
 - Hydroponic pH 5.5-6.5
 - Outside this range, nutrients become "locked out" — present but unavailable to plants
-- Humic and fulvic acids chelate metallic ions (Cu, Fe, Mn, Zn), making them readily transportable and available
+- [[teaming-with-microbes-humic-and-fulvic-acids]] acids chelate metallic ions (Cu, Fe, Mn, Zn), making them readily transportable and available
 
 ## Soil Temperature and Nutrient Uptake
 
@@ -86,7 +87,7 @@ Nutrients are grouped into three categories:
 - Root temperatures below 40°F cause cell damage from freezing water expansion
 
 ## Related Topics
-- [[cervantes-flowering-phase]] — Flowering phase nutrient changes
+- [[cervantes-flowering-phase]] — [[green-cannabis-grow-bible-flowering-phase-and-harvest]] nutrient changes
 
 ## See Also
 

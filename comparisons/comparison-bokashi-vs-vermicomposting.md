@@ -4,16 +4,17 @@ created: 2026-04-28
 tags: [comparison, composting, soil, waste-management]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
 # Bokashi vs Vermicomposting
 
 ## Overview
-Bokashi and vermicomposting are two indoor-compatible composting methods that
+Bokashi and vermicomposting are two indoor-compatible [[natural-farming-guide-composting-methods-and-techniques]] that
 handle food waste through fundamentally different biological processes. Bokashi
-uses anaerobic fermentation with effective microorganisms to pre-digest waste in
+uses [[jadam-anaerobic-fermentation-principles]] with [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]] to pre-digest waste in
 a sealed bucket, while vermicomposting relies on earthworms to process organic
 matter aerobically in a bin. Both produce high-quality soil amendments suitable
 for gardens and container plants, but their requirements, acceptable inputs,
@@ -22,7 +23,6 @@ stream composition, climate, space constraints, and whether you need finished
 compost or can manage a two-stage process.
 
 ## Bokashi
-[[vermicomposting]]
 
 Vermicomposting uses earthworms, typically Eisenia fetida (red wigglers), to
 decompose organic waste into vermicast, one of the finest soil amendments
@@ -55,7 +55,7 @@ moisture, and ventilation.
 | Aspect | Bokashi | Vermicomposting |
 |--------|---------|-----------------|
 | Process | Anaerobic fermentation | Aerobic worm digestion |
-| Organisms | Lactic acid bacteria, yeasts, Bacillus | Earthworms (Eisenia
+| Organisms | Lactic [[lactic-acid-bacteria-knf]], yeasts, Bacillus | Earthworms (Eisenia
 fetida) |
 | Food waste accepted | All types including meat, dairy, oils | Plant-based
 kitchen scraps only |
@@ -85,7 +85,7 @@ buckets can be kept under a kitchen sink and require only minutes of attention
 per day. Bokashi is also useful as a pre-processing step before adding food
 waste to an existing compost pile or worm bin, since fermentation softens
 material and accelerates subsequent decomposition. Households without garden
-space can bury bokashi pre-compost in community garden plots or give it to
+space can bury bokashi pre-compost in [[mollison-designers-community-garden-design-urban-permaculture]] plots or give it to
 neighbors with gardens.
 
 ## When to Choose Vermicomposting
@@ -99,5 +99,5 @@ excellent for educational settings because the visible worm activity engages
 children and demonstrates decomposition ecology directly. Schools, community
 gardens, and family homes benefit from the hands-on learning opportunity. See
 [[hot-composting-vs-vermicompost-vs-bokashi]]
-- Vermicomposting Vs Hot Composting
+- [[comparison-vermicomposting-vs-hot-composting]] Composting
 - [[composting-systems]]

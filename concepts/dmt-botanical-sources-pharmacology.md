@@ -1,5 +1,5 @@
 ---
-title: N,N-Dimethyltryptamine (DMT) — Botanical Sources and Pharmacology
+title: N,N-Dimethyltryptamine (DMT) — dmt botanical sources pharmacology and Pharmacology
 slug: dmt-botanical-sources-pharmacology
 source: halpern-m-hallucinogens-dissociative-agents-growing-in-us.md
 tags: [dmt, tryptamines, pharmacology, ethnobotany, psychoactive-plants]
@@ -11,10 +11,10 @@ created: 2026-05-08
 ## Overview
 
 N,N-Dimethyltryptamine (DMT) is a potent naturally occurring
-tryptamine hallucinogen found in numerous plant species worldwide.
+[[mckenna-tryptamine-hallucinogen-classification-four-groups-plants]] found in numerous plant species worldwide.
 Indigenous peoples of the Amazon have used DMT for spiritual and
 medicinal purposes for thousands of years. DMT is unique among
-hallucinogens for its extremely short duration of action when
+hallucinogens for its extremely [[savory-short-duration-grazing-and-cell-systems]] of action when
 smoked and its requirement for monoamine oxidase inhibition
 to be orally active.
 
@@ -48,7 +48,7 @@ circulation. This is the basis of ayahuasca preparations.
 
 ### Other Routes
 DMT can also be administered as an enema, snuffed (as in South
-American yopo/cohoba preparations from Anadenanthera peregrina),
+American yopo/cohoba preparations from [[yopo-anadenanthera-peregrina-snuff]]),
 or injected.
 
 ## Ayahuasca
@@ -94,7 +94,7 @@ Virola species.
 ## Non-Amazonian MAOI Sources
 
 Ayahuasca-like brews need not use Amazonian plants:
-- **Peganum harmala** (Syrian rue): Introduced to the western
+- **[[mckenna-food-gods-peganum-harmala-soma]]** (Syrian rue): Introduced to the western
   US, now found wild. Contains 2-4% MAOI by dry weight.
 - **Passiflora incarnata** (passionflower): Grows throughout
   the Southeast and much of the Midwest. Has approximately 1%
@@ -114,7 +114,7 @@ if locally available plants become popular "manufacture" sources.
 
 ## Religious Use
 
-Several syncretic religions of Brazilian origin — Santo Daime
+Several syncretic religions of Brazilian origin — [[metzner-brazilian-ayahuasca-churches-structural-comparison-santo-daime-udv-barquinha]]
 and Uniao do Vegetal (UDV) — use ayahuasca as a sacrament.
 These faiths combine Christian elements with traditional
 Amazonian practices. Both have expanded into the US and Europe.
@@ -131,6 +131,8 @@ dissemination of preparation information means this could
 change.
 
 ## See Also
+
+- [[5-methoxy-dmt-pharmacology]]
 
 - [[mescaline-peyote-san-pedro-cactus]]
 - [[amanita-muscaria-muscimol-ibotenic-acid]]

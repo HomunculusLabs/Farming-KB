@@ -1,5 +1,5 @@
 ---
-title: "Olive vs Fig vs Pomegranate — Mediterranean Fruit Tree Comparison"
+title: "Olive vs Fig vs Pomegranate — comparison olive vs fig vs pomegranate mediterranean fruit trees Tree Comparison"
 tags:
   - olive
   - fig
@@ -16,7 +16,7 @@ sources:
   - "FAO Olive Cultivation Technical Guidelines — fao.org"
   - "University of Arizona Cooperative Extension — Pomegranate Production"
   - "California Rare Fruit Growers — crfg.org"
-  - "University of Florida IFAS Extension — Fig Production Guide"
+  - "University of Florida IFAS Extension — Fig [[comparison-biochar-production-guide-vs-biochar-soil-amendment]]"
   - "Permaculture Research Institute — Temperate Food Forest Design"
 ---
 
@@ -26,7 +26,7 @@ A side-by-side reference for growers choosing between the three classic Mediterr
 
 ## Quick Reference Table
 
-| Dimension | Olive (*Olea europaea*) | Fig (*Ficus carica*) | Pomegranate (*Punica granatum*) |
+| Dimension | Olive (*[[olea-europaea]]*) | Fig (*[[ficus-carica]]*) | Pomegr  granatum*) |
 |---|---|---|---|
 | **Ideal Climate** | Mediterranean, warm/dry summers | Mediterranean, subtropical | Mediterranean, semi-arid |
 | **USDA Hardiness** | 8–11 | 6–11 (varies by cultivar) | 7–10 |
@@ -38,7 +38,7 @@ A side-by-side reference for growers choosing between the three classic Mediterr
 | **Primary Product** | Olive oil, table olives | Fresh/dried fruit | Fresh arils, juice, ornamental |
 | **Chill Hours** | 200–500 (low) | 100–300 (very low) | 100–200 (very low) |
 | **Pollination** | Mostly self-fertile; wind-pollinated | Self-fertile; parthenocarpic common | Self-fertile; bee-pollinated |
-| **Drought Tolerance** | Excellent (roots to 6 m) | Good once established | Very good; deep taproot |
+| **[[dighton-fungal-drought-tolerance-plant-water-relations]]** | Excellent (roots to 6 m) | Good once established | Very good; deep taproot |
 
 ## Botanical Overview
 
@@ -52,15 +52,13 @@ A side-by-side reference for growers choosing between the three classic Mediterr
 
 Olives are the most heat-tolerant of the three, thriving where summer temperatures regularly exceed 35 °C (95 °F). They suffer damage below −7 °C (20 °F) and die below −12 °C (10 °F). Figs are the most cold-hardy — cultivars like 'Chicago Hardy' and 'Celeste' survive in zone 6 with dieback, regrowing from roots each spring. Pomegranates sit in between; hardy to about −12 °C, with Russian cultivars (e.g., 'Salavatski') pushing zone 6 survivability.
 
-All three share a preference for hot, dry summers and mild, wet winters — the classic Mediterranean climate pattern. Humid summer climates (e.g., US Southeast) favor figs but challenge olives due to fungal disease pressure (especially *Verticillium* wilt and peacock spot).
+All three share a preference for hot, dry summers and mild, wet winters — the classic Mediterranean climate pattern. Humid summer climates (e.g., US Southeast) favor figs but challenge olives due to [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] pressure (especially *Verticillium* wilt and peacock spot).
 
 ## Water Requirements and Drought Tolerance
 
 Olive is the undisputed drought champion. Mature trees survive on 250–400 mm (10–16 in) of annual rainfall with no irrigation, drawing water from roots extending 6+ meters. Stressing olives reduces yield but concentrates oil — a deliberate technique in dry-farming traditions.
 
-Figs require more consistent moisture for good fruit quality (500–800 mm annual). Under severe drought they drop fruit but survive; mulching is critical. Pomegranates tolerate 300–500 mm annually and have a deep taproot (up to 4.5 m) that sustains them through dry periods.
-
-For permaculture design: olives and pomegranates are the best choices for unirrigated or low-irrigation zones; figs work well in swale-adjacent or greywater-influenced areas.
+Figs require more consistent moisture for good fruit quality (500–800 mm annual). Under severe drought they drop fruit but survive; mulching is critical. Pomegranates tolerate 300–500 mm annually and have a deep taproot (up to 4.5 m) that sustains them through dry pe [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] lture design: olives and pomegranates are the best choices for unirrigated or low-irrigation zones; figs work well in swale-adjacent or greywater-influenced areas.
 
 ## Soil Preferences and Adaptability
 
@@ -126,7 +124,7 @@ Economically, olives dominate in oil-producing regions. Pomegranate juice is a h
 All three are excellent permaculture candidates. Key design considerations:
 
 - **Canopy layer**: Olive (high canopy) → Pomegranate (mid) → Fig (variable, often multi-trunk bush layer).
-- **Guild partners**: Olives pair with lavender, rosemary, and nitrogen-fixing understory. Figs benefit from comfrey and mulch plants. Pomegranates work well with Mediterranean herbs and alliums.
+- **Guild partners**: Olives pair with lavender, rosemary, and nitrogen-fixing understory. Figs benefit from comfrey and mulch plants. Pomegranates work well with [[query-best-mediterranean-herbs-for-beginner-herb-garden]] and alliums.
 - **Windbreak function**: Olives make excellent windbreaks (evergreen, wind-resistant).
 - **Fire resistance**: All three have relatively high fire resistance due to moisture content and leaf structure — useful in fire-prone Mediterranean landscapes.
 

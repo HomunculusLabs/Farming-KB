@@ -10,7 +10,7 @@ sources:
 
 # Amazonian Medicinal Plants in Amaringo's Visions
 
-Pablo Amaringo's ayahuasca visions are filled with plant spirits (genies or guardians) who appear inside or alongside their corresponding plants and teach the vegetalista how to use them. Each plant has a spirit that explains its medicinal properties and proper preparation methods. The following pla
+Pablo Amaringo's [[amaringo-ayahuasca-visions-shipibo-iconography]] are filled with plant spirits (genies or guardians) who appear inside or alongside their corresponding plants and teach the vegetalista how to use them. Each plant has a spirit that explains its medicinal properties and proper preparation methods. The following pla
 
 ## Practical Context
 Amazonian Medicinal Plants In Amaringos Visions is relevant to farming knowledge because it connects observation,
@@ -60,7 +60,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +102,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

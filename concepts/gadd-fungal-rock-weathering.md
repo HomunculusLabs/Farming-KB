@@ -3,7 +3,7 @@ title: Fungal Rock Weathering and Mineral Cycling
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - Gadd, G. M., Burford, E. P., Fomina, M. & Melville, K. (2006). Mineral transformations and biogeochemical cycles: a geomycological perspective. In Fungi in the Environment, ed. G. M. Gadd, S. C. Watkinson & P. S. Dyer. Cambridge University Press, pp. 77-111.
+  - Gadd, G. M., Burford, E. P., Fomina, M. & Melville, K. (2006). fungal-mineral-transformations-biogeochemical-cycles-gadd and biogeochemical cycles: a geomycological perspective. In Fungi in the Environment, ed. G. M. Gadd, S. C. Watkinson & P. S. Dyer. Cambridge University Press, pp. 77-111.
 type: concept
 tags: [fungi]
 ---
@@ -16,7 +16,7 @@ Bioweathering is the erosion, decay and decomposition of rocks and minerals medi
 
 ## Fungal Habitats on Rocks
 
-Fungal communities have been components of terrestrial environments since the Ordovician period (480-460 MYBP). The filamentous growth habit provides high surface-area-to-mass ratio, nutrient translocation capability, and hydrated mucilaginous sheaths that create interconnected microenvironments within fungal networks. Rock-dwelling microorganisms are classified as:
+Fungal communities have been components of terrestrial environments since the Ordovician period (480-460 MYBP). The filamentous growth habit provides high surface-area-to-mass ratio, [[dighton-fungal-nutrient-translocation-element-redistribution]] capability, and hydrated mucilaginous sheaths that create interconnected microenvironments within fungal networks. Rock-dwelling microorganisms are classified as:
 
 - **Epilithic** -- on the rock surface
 - **Hypolithic** -- associated with pebbles
@@ -46,7 +46,7 @@ Biochemical processes are considered much more important than mechanical degrada
 
 ### Carbonates
 
-Microbial carbonate precipitation coupled with silicate weathering provides an important CO2 sink. Calcium oxalate (weddelite and whewellite) is commonly associated with various fungal ecophysiological groups. Chitin, the major component of fungal cell walls, is a substrate on which calcite readily nucleates. Fungi precipitate secondary calcite, whewellite and glushkinskite.
+Microbial carbonate precipitation coupled with silicate weathering provides an important CO2 sink. [[fungal-calcium-oxalate-crystals]] (weddelite and whewellite) is commonly associated with various fungal ecophysiological groups. Chitin, the major component of fungal cell walls, is a substrate on which calcite readily nucleates. Fungi precipitate secondary calcite, whewellite and glushkinskite.
 
 ### Oxalates
 
@@ -62,7 +62,7 @@ Mycorrhizal fungi are involved in proton- and ligand-promoted metal mobilization
 
 ## Environmental Significance
 
-Fungal mineral transformations affect contaminated land treatment, building material deterioration, and nuclear waste storage barrier integrity. Mycorrhizal fungi can enhance plant growth on contaminated soils and contribute to phyto- and rhizo-remediation. Metal-resistant mycobionts are most efficient at ameliorating toxicity to host plants. However, fungal mineral-solubilizing activity may transform final products of chemical remediation technologies, necessitating assessment of long-term environmental consequences.
+Fungal mineral transformations affect contaminated land treatment, [[fungal-building-material-deterioration]] deterioration, and nuclear waste storage barrier integrity. Mycorrhizal fungi can enhance plant growth on contaminated soils and contribute to phyto- and rhizo-remediation. Metal-resistant mycobionts are most efficient at ameliorating toxicity to host plants. However, fungal mineral-solubilizing activity may transform final products of chemical remediation technologies, necessitating assessment of long-term environmental consequences.
 
 ## Building Material Deterioration
 
@@ -70,7 +70,7 @@ Any type of building or ceramic material, concrete and cement can be degraded by
 
 ## Assessment of Geoactive Fungal Communities
 
-Lithic fungal communities are ubiquitous and play important roles in nutrient, metal and carbon cycling. Diverse communities have been found in the McMurdo Dry Valleys of Antarctica, extreme hot and cold deserts, and rock substrates buried kilometres below the Earth's surface. Traditional culture-based methods capture only about 5% of environmental fungi at best. DNA-based characterization techniques are increasingly important, using PCR amplification of SSU (18S) or ITS rDNA regions. The ITS region provides higher species resolution than 18S. Molecular approaches include clone libraries, T-RFLP, ARISA, DGGE/TGGE, and automated ribosomal intergenic spacer analysis (ARISA).
+Lithic fungal communities are ubiquitous and play important [[dighton-fungal-roles-in-nutrient-cycling]], metal and carbon cycling. Diverse communities have been found in the McMurdo Dry Valleys of Antarctica, extreme hot and cold deserts, and rock substrates buried kilometres below the Earth's surface. Traditional culture-based methods capture only about 5% of environmental fungi at best. DNA-based characterization techniques are increasingly important, using PCR amplification of SSU (18S) or ITS rDNA regions. The ITS region provides higher species resolution than 18S. [[staycare-molecular-approaches-fungal-bioremediation]] include clone libraries, T-RFLP, ARISA, DGGE/TGGE, and automated ribosomal intergenic spacer analysis (ARISA).
 
 ## Other Mycogenic Minerals
 

@@ -1,5 +1,5 @@
 ---
-title: Lactic Acid Bacteria in Natural Farming
+title: Lactic lactic-acid-bacteria-knf in comparison-natural-farming-vs-permaculture
 created: 2026-04-28
 tags: [lactic-acid-bacteria, knf, natural-farming, soil-biology, fermentation]
 date: 2026-04-25
@@ -12,8 +12,8 @@ type: concept
 
 ## Overview
 
-Lactic Acid Bacteria (LAB) are a cornerstone input in Korean Natural
-Farming (KNF) and JADAM organic farming systems. Master Han Kyu Cho
+Lactic Acid Bacteria (LAB) are a cornerstone input in [[query-jadam-vs-korean-natural-farming]]
+Farming (KNF) and JADAM [[coleman-deep-organic-farming-philosophy]] systems. Master Han Kyu Cho
 describes LAB as conditionally anaerobic microorganisms that are
 resistant to high temperatures and function as strong sterilizers in
 agricultural applications. Their primary roles include improving soil
@@ -32,7 +32,7 @@ available to farmers.
 
 In the broader context of natural farming, LAB work synergistically
 with other inputs including [[cho-fermented-plant-juice-preparation]]. When used together
-with mixed compost or IMO, the fermentation process occurs rapidly and
+with [[cho-fermented-mixed-compost-methods]] or IMO, the fermentation process occurs rapidly and
 effectively, with LAB preventing fermented compost from decaying. The
 comprehensive functionality of LAB - from soil improvement to plant
 health to compost management - makes them indispensable in natural
@@ -63,7 +63,7 @@ unavailable phosphorus from synthetic fertilizer applications.
 LAB accelerate root growth during transplanting and effectively enhance
 the initial growth of plants. This makes them valuable for all
 transplanting operations, from vegetable seedlings to tree seedlings.
-The enhanced root establishment reduces transplant shock and improves
+The enhanced root establishment reduces [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]] and improves
 survival rates, especially when combined with [[master-cho]]'s KNF Recipe Book. [[korean-natural-farming]]
   Institute. Section 6 on Lactic Acid Bacteria (LAB) preparation
   and application methods.
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

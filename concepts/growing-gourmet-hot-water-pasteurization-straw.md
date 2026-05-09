@@ -1,5 +1,5 @@
 ---
-title: Hot Water Pasteurization of Straw for Mushroom Cultivation
+title: [[growing-gourmet-abalone-oyster-cystidiosus-cultivation]] hot water pasteurization straw of Straw for accessible-mushroom-cultivation-for-disabilities
 created: 2026-04-26
 tags: [pasteurization, straw, mushroom-cultivation, substrate-preparation, oyster-mushrooms]
 date: 2026-04-25
@@ -12,8 +12,8 @@ type: concept
 # Hot Water Pasteurization of Straw for Mushroom Cultivation
 
 Straw is one of the most accessible and economical substrates
-for growing gourmet mushrooms. Growing [[oyster-mushroom-species-guide]],
-including [[coprinus-comatus-detailed]])
+for growing [[growing-gourmet-mushrooms-civilization-history]]. Growing [[oyster-mushroom-species-guide]],
+including [[coprinus-comatus]])
 - [[growing-gourmet-straw-pasteurization-methods]]
 ## Background and Context
 
@@ -65,7 +65,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -143,4 +143,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

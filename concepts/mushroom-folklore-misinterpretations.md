@@ -1,25 +1,25 @@
 ---
-title: Mushroom Folklore: The Hildesheim Doors and Other Misinterpretations
+title: palmer-mushroom-folklore-cultural-significance: The Hildesheim Doors and Other Misinterpretations
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[rock-eating-fungi-and-mineral-weathering]]. The widely circulated image is not a photograph but a drawing by Kat Harrison, informed by her own mushroom experiences. In the original rock art, "it is not quite so emphatic: they could be mushrooms or, say, arrows."
+tags: rock-eating-fungi-and-mineral-weathering. The widely circulated image is not a photograph but a drawing by Kat Harrison, informed by her own mushroom experiences. In the original rock art, "it is not quite so emphatic: they could be mushrooms or, say, arrows."
 
 ## The Scandinavian Bronze Age Mushroom Motif
 
-See [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
+See three-pillars-mushroom-cultivation-spawn-substrate-environment
 
-- [[maitake-mushroom-research]]
+- maitake-mushroom-research
 
-- [[rock-eating-fungi-and-mineral-weathering]]
-- [[archaeology-of-psychedelic-mushroom-use]]
-- [[amanita-muscaria-guide]]
+- rock-eating-fungi-and-mineral-weathering
+- archaeology-of-psychedelic-mushroom-use
+- amanita-muscaria-guide
 
 ---
 
-Source: Shroom: A Cultural History of the Magic Mushroom (Letcher, 2006), Chapters 2-3
+Source: Shroom: A [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the [[australian-magic-mushroom-common-names]] (Letcher, 2006), Chapters 2-3
 Updated: 2026-04-18
-- [[mushroom-symbolism-rock-art-ancient-imagery]]
+- mushroom-symbolism-rock-art-ancient-imagery
 ## Practical Applications
 
 Mushroom Folklore: The Hildesheim Doors and Other Misinterpretations has a range of practical applications that make it relevant to
@@ -97,4 +97,9 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- mushroom-symbolism-rock-art-ancient-imagery
+- [[duggar-mushroom-environmental-factors-temperature-moisture-light]]
+- mushroom-cultivation-for-people-with-disabilities
+- [[mushroom-cultivation]]
+- [[det]]

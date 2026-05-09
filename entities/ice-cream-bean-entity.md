@@ -1,5 +1,5 @@
 ---
-title: "Ice Cream Bean"
+title: "Ice ice cream bean entity"
 created: 2026-04-28
 tags: [species, plant, nitrogen-fixer, tropical-tree, edible-fruit]
 date: 2026-04-25
@@ -11,22 +11,22 @@ type: entity
 # Ice Cream Bean
 
 **Type:** Species (Plant)
-**Category:** Nitrogen-fixing fruit tree
-**Also known as:** [[permaculture]] species that combines the
-rare qualities of nitrogen fixation with edible fruit production. This
-dual function makes it exceptionally valuable in tropical food forest
+**Category:** Nitrogen-fixing [[comparison-berry-growing-vs-fruit-tree-pruning]]
+**Also known as:** permaculture species that combines the
+rare qualities of [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] with edible fruit production. This
+dual function makes it exceptionally valuable in tropical [[food-forest]]
 design, where it can serve as a nurse tree for coffee, cacao, or other
 understorey crops while producing a valued food crop. Its use in alley
-cropping and as a shade tree demonstrates excellent multi-strata
+cropping and as a [[mollison-designers-legume-shade-tree-pasture-systems]] demonstrates excellent multi-strata
   integration potential. Inga alley farming systems in the Amazon basin
   have shown improved soil fertility and crop yields compared to
   conventional monoculture approaches.
 represents one of the most diverse nitrogen-fixing tree genera
-available for agroforestry systems.
+available for [[agroforestry]] systems.
 
 ## See Also
 - [[black-locust-entity]]
-- [[tagasaste]]
+- tagasaste
 - Coffee
 ## Practical Applications
 
@@ -105,4 +105,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

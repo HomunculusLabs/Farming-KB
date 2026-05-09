@@ -4,14 +4,15 @@ created: 2026-04-28
 tags: [query, cannabis, harvest, curing, post-harvest, quality]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
 # How to Harvest and Cure Cannabis for the Best Flavor and Potency
 
 ## Short Answer
-Optimal harvest timing is determined by trichome color, with mostly cloudy trichomes
+Optimal [[cannabis-harvest-timing-visual-cues]] is determined by trichome color, with mostly cloudy trichomes
 and some amber indicating peak potency and higher amber ratios producing a more
 sedative effect. After harvest, buds should be dried slowly at 60 to 70 degrees
 Fahrenheit and 50 to 60 percent relative humidity for seven to fourteen days, then
@@ -22,8 +23,8 @@ to develop their full complexity and flavor profile over time.
 ## Detailed Explanation
 
 The harvest and cure process is the final and arguably most important stage of
-cannabis cultivation. Months of careful growing, feeding, and training can be
-undermined by rushing the harvest or cutting corners on drying and curing. The
+[[query-how-does-no-till-cannabis-cultivation-work]]. Months of careful growing, feeding, and training can be
+undermined by rushing the harvest or cutting corners on [[comparison-cannabis-drying-and-curing-vs-flushing-before-harvest]]. The
 [[cannabis-trichome-types-and-development]] page describes this progression in detail.
 For maximum potency and a balanced effect, harvest when 70 to 80 percent of trichomes
 are cloudy with 10 to 20 percent amber. For a more relaxing effect, wait until 30 to
@@ -35,10 +36,10 @@ beyond trichomes, including pistil color change, calyx swelling, and progressive
 yellowing that can help confirm the plant is approaching harvest readiness.
 
 Drying is the first post-harvest step and must be done slowly to preserve terpenes
-and prevent mold development. Trim large fan leaves immediately after cutting, then
+and [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]] development. Trim large fan leaves immediately after cutting, then
 either hang whole branches or place individual buds on drying racks. The ideal
 drying environment is 60 to 70 degrees Fahrenheit with 50 to 60 percent relative
-humidity and gentle air circulation from oscillating fans. Higher temperatures or
+humidity and gentle [[stamets-growing-room-air-circulation-co2-management]] from oscillating fans. Higher temperatures or
 lower humidity will cause buds to dry too fast, locking in chlorophyll and producing a
 harsh, green taste that no amount of curing can fully correct. Higher humidity or
 lower temperatures increase the risk of mold, particularly [[drying-cannabis]] guide provides
@@ -71,7 +72,7 @@ at 58 to 62 percent relative humidity using two-way humidity packs. Oxygen expos
 causes slow oxidation of cannabinoids and terpenes, so airtight containers with
 minimal headspace are ideal. Vacuum-sealed glass jars stored in a refrigerator
 provide the longest possible storage life, though even a dark closet at room
-temperature with proper humidity control will maintain quality for many months.
+temperature with proper [[cervantes-humidity-control-dehumidification]] will maintain quality for many months.
 
 The [[flushing-nutrients]] guide, is a common practice intended to improve smoothness
 by allowing the plant to use up stored nutrients before harvest.

@@ -19,7 +19,7 @@ chemical and mechanical treatments. Resin acids are major contributors to
 the toxicity of pulp and paper mill effluents, causing acute toxicity to
 aquatic organisms even at relatively low concentrations. Their persistence
 in the environment and resistance to conventional biological wastewater
-treatment make fungal biodegradation an attractive remediation approach.
+treatment make [[gadd-fungal-biodegradation-bioremediation]] an attractive remediation approach.
 
 ## Sources and Environmental Impact
 
@@ -41,10 +41,10 @@ Several fungal species have demonstrated the ability to transform resin
 acids. mortierella isabellina can hydroxylate dehydroabietic acid,
 abietic acid, and isopimaric acid, representing an important detoxification
 mechanism. chaetomium cochliodes has been shown to transform
-dehydroabietic acid through biotransformation reactions. White rot fungi,
+dehydroabietic acid through biotransformation reactions. [[white-rot-fungi]],
 which possess versatile oxidative enzyme systems, are also capable of resin
 acid metabolism, though the specific enzymes involved may differ from those
-responsible for lignin degradation. The diversity of fungal species capable
+responsible for [[lignin-degradation]]. The diversity of fungal species capable
 of resin acid transformation suggests that this metabolic capability may be
 widespread among soil and wood-inhabiting fungi.
 
@@ -68,9 +68,9 @@ an additional carbon source, known as a co-substrate or metabolic
 substrate. Fungi generally cannot use resin acids as sole carbon sources for
 growth and instead require the presence of a metabolizable carbon compound
 to support the energy demands of resin acid transformation. This co-substrate
-requirement is analogous to the situation observed for lignin degradation by
-white rot fungi, where an easily metabolizable carbon source such as
-cellulose or glucose must be present to support fungal growth while the
+requirement is analogous to the situation observed for [[query-how-does-lignin-degradation-by-fungi-work]] by
+[[comparison-brown-rot-vs-white-rot-bioremediation]] fungi, where an easily metabolizable carbon source such as
+cellulose or glucose must be present to support [[brassinosteroid-fungal-growth-promotion]] while the
 ligninolytic enzyme system modifies the recalcitrant substrate. In practical
 applications, the choice of co-substrate can significantly influence both
 the rate and extent of resin acid removal.
@@ -93,6 +93,6 @@ reduce treatment costs compared to sequential specialized treatment steps.
 
 ## Related Concepts
 
-- [[biobleaching-of-pulp-by-white-rot-fungi]] for wood pretreatment
+- biobleaching-of-pulp-by-white-rot-fungi for wood pretreatment
 - [[white-rot-fungi-bioremediation]] for oxidative enzyme systems
-- [[fungal-lignocellulose-degradation-mechanisms]] for wood decay processes
+- fungal-lignocellulose-degradation-mechanisms for [[bloomfield-wood-decay-fungi-spalted-timber]] processes

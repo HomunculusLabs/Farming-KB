@@ -1,5 +1,5 @@
 ---
-title: "Crop Rotation System: Feeders, Givers, and Light Feeders"
+title: "comparison-crop-rotation-vs-cover-cropping System: Feeders, Givers, and Light Feeders"
 created: 2026-04-28
 tags: [biointensive, crop-rotation, nitrogen-fixation, soil-fertility,
   agricultural-recycling, heavy-feeder, legumes]
@@ -11,10 +11,10 @@ type: concept
 
 # Crop Rotation System: Feeders, Givers, and Light Feeders
 
-Crop rotation is a form of companion planting "over time" — a kind of
+Crop rotation is a form of [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] "over time" — a kind of
 agricultural recycling in which gardeners and plants participate to
 return as much to the soil as has been taken out. In the GROW
-BIOINTENSIVE method, the rotation follows a specific three-phase
+[[jeavons-grow-biointensive-method-overview]], the rotation follows a specific three-phase
 cycle: heavy feeders, then heavy givers, then light feeders.
 
 ## The Three-Phase Rotation
@@ -49,9 +49,9 @@ plantings to discover what works best in your specific conditions.
 The rotation cycle is fundamentally about nutrient recycling:
 
 1. **Compost returns phosphorus and potassium** after heavy feeders
-2. **Legumes fix nitrogen** during the heavy giver phase
+2. **[[query-which-legumes-fix-the-most-nitrogen-for-gardens-and-farms]] nitrogen** during the heavy giver phase
 3. **Light feeders conserve remaining nutrients** while roots
-   continue to add organic matter to the soil
+   continue to add [[hamilton-composting-and-organic-matter-management]] to the soil
 
 This cycle, when combined with sufficient
 [[jeavons-humus-and-soil-microbiology]], feeding
@@ -85,3 +85,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[jeavons-multi-crop-planting]]

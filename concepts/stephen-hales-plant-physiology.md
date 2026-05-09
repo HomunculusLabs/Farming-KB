@@ -67,8 +67,8 @@ Hales showed that roots actively absorb water from the soil and generate
 a positive pressure that drives the sap upward. While the full mechanism
 of water transport, including the role of transpiration pull and the
 cohesion-tension theory, would not be understood until the late
-nineteenth century, Hales's measurements of root pressure were remarkably
-accurate and remain relevant to modern understanding of dighton fungal drought.
+[[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], Hales's measurements of root pressure were remarkably
+accurate and remain relevant to modern understanding of dighton [[dighton-fungal-drought-tolerance-plant-water-relations]].
 
 ### Transpiration
 

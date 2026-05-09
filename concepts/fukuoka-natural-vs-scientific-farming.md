@@ -1,11 +1,12 @@
 ---
-title: Natural vs Scientific Farming
+title: fukuoka natural vs scientific farming Farming
 created: 2026-04-18
 updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Natural vs Scientific Farming
@@ -16,11 +17,11 @@ Masanobu Fukuoka provides a systematic comparison between [[fukuoka-critique-of-
 
 Fukuoka divided farming into three distinct categories:
 
-**Mahayana Natural Farming**: When the human spirit and human life blend with the natural order and man devotes himself entirely to the service of nature, he lives freely as an integral part of the natural world, subsisting on its bounty without having to resort to purposeful effort. This type of farming transcends time and space and reaches the zenith of understanding and enlightenment.
+**Mahayana [[comparison-natural-farming-vs-permaculture]]**: When the human spirit and human life blend with the [[fukuoka-textdoc-natural-order-food-chain-unity]] and man devotes himself entirely to the service of nature, he lives freely as an integral part of the natural world, subsisting on its bounty without having to resort to purposeful effort. This type of farming transcends time and space and reaches the zenith of understanding and enlightenment.
 
-**Hinayana Natural Farming**: This type of farming arises when man earnestly seeks entry to the realm of Mahayana farming. Desirous of the true blessings and bounty of nature, he prepares himself to receive it. This is the road leading directly to complete enlightenment, but is short of that perfect state.
+**[[fukuoka-mahayana-and-hinayana-natural-farming]] Farming**: This type of farming arises when man earnestly seeks entry to the realm of Mahayana farming. Desirous of the true blessings and bounty of nature, he prepares himself to receive it. This is the road leading directly to complete enlightenment, but is short of that perfect state.
 
-**Scientific Farming**: Man exists in a state of contradiction in which he is basically estranged from nature, living in a totally artificial world, yet longs for a return to nature. A product of this condition, scientific farming forever wanders blindly back and forth, now calling upon the blessings of nature, now rejecting it in favor of human knowledge and action.
+**Scientific Farming**: Man exists in a state of contradiction in which he is basically estranged from nature, living in a totally artificial world, yet longs for a [[emcdda-return-to-nature-megatrend-mushroom-appeal]]. A product of this condition, scientific farming forever wanders blindly back and forth, now calling upon the blessings of nature, now rejecting it in favor of human knowledge and action.
 
 ## Fundamental Differences in Perception
 
@@ -55,7 +56,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -97,4 +98,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

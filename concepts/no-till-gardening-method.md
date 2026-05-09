@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-13
 type: concept
 tags: [no-till, living-soil, regenerative, soil, microbes, gardening, compost, permaculture]
-sources: []
+sources:
+  sources: []
 ---
 
 # No-Till Gardening Method
@@ -43,7 +44,7 @@ Use dibbers, trowels, or your hands to create small holes for transplants. For s
 
 ### 5. Use Diverse Mulches and Cover Crops
 
-Diversity above ground supports diversity below ground. Alternate between different mulch materials and [[cover-crop-guide-detailed|cover crop]] species to feed a wide range of soil organisms.
+Diversity above ground supports diversity below ground. Alternate between different [[mollison-mulch-materials-sources-and-tropical-application]] and [[cover-crop-guide-detailed|cover crop]] species to feed a wide range of soil organisms.
 
 ## Sheet Mulching (Lasagna Gardening)
 
@@ -107,7 +108,7 @@ If you currently till your garden:
 - Soil organic matter increases 0.1-0.5% per year
 - Water infiltration doubles or triples within 3-5 years
 - Earthworm populations increase dramatically
-- Mycorrhizal colonization of crop roots improves nutrient uptake
+- [[arbuscular-mycorrhizal-colonization-patterns]] of crop roots improves [[plant-nutrient-uptake-mechanisms]]
 - Weed pressure decreases as the seed bank depletes
 - Less labor per season once established
 - Better soil structure and drainage
@@ -117,7 +118,7 @@ If you currently till your garden:
 
 - Persistent perennial weeds (bindweed, quackgrass) may need targeted removal
 - Initial nitrogen tie-up from carbon-heavy mulches — compensate with compost or nitrogen-fixing [[cover-crop-guide-detailed|cover crops]]
-- Slugs and snails can hide in thick mulch — manage with beer traps, diatomaceous earth, or encourage predator populations
+- [[query-how-to-get-rid-of-slugs-and-snails-organically]] can hide in thick mulch — manage with beer traps, [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]], or encourage predator populations
 - Cooler soil temperatures in spring from heavy mulch — pull back mulch to warm soil before early plantings
 
 ## See Also
@@ -129,5 +130,5 @@ If you currently till your garden:
 
 ## Related
 
-- [[sheet-mulching-lasagna-gardening]] — Sheet Mulching and Lasagna Gardening is the primary bed preparation technique for no-till gardens.
+- [[sheet-mulching-lasagna-gardening]] — [[query-what-is-sheet-mulching-and-how-to-do-it]] Lasagna Gardening is the primary bed preparation technique for no-till gardens.
 - [[soil-compaction-solutions]]

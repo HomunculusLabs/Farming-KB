@@ -5,11 +5,11 @@ updated: 2026-04-16
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 # Cannabis and the Hypothalamic-Pituitary-Adrenal Stress Axis
 
-The relationship between cannabis and the body's stress response systems is one of the most clinically relevant aspects of cannabinoid therapy. The [[cannabis-endocannabinoid-system]]
+The relationship between cannabis and the body's [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] systems is one of the most clinically relevant aspects of cannabinoid therapy. The [[cannabis-endocannabinoid-system]]
 - [[cannabis-for-ptsd-and-trauma]]
 - [[cannabis-sleep-disorders-and-insomnia]]
 - [[cannabis-cbd-therapeutic-profile]]
@@ -22,7 +22,7 @@ The endocannabinoid system's intimate connection to the HPA stress axis and key 
 
 - [[2c-d-pihkal-entry-23]]
 - [[cannabis-for-ptsd-and-trauma]]
-- [[mushroom-strain-selection-genetics]]
+- mushroom-strain-selection-genetics
 ## Practical Applications
 
 Cannabis and the Hypothalamic-Pituitary-Adrenal Stress Axis has a range of practical applications that make it relevant to
@@ -100,4 +100,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

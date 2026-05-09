@@ -1,5 +1,5 @@
 ---
-title: Companion Planting for Cannabis Pest Deterrence
+title: comparison-companion-planting-reference-vs-jadam-monoculture-critique for Cannabis Pest Deterrence
 created: 2026-04-26
 tags:
   - cannabis
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -50,7 +51,7 @@ mask the odor of cannabis and may deter certain pests from approaching.
 ### Marigolds
 Marigolds are among the most popular companion plants. Their strong scent
 and root exudates are believed to repel nematodes and certain insects.
-Marigolds also attract beneficial insects that prey on cannabis pests.
+Marigolds also attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] that prey on [[green-cannabis-pests-prevention]].
 
 ### Other Companion Plants
 Various aromatic herbs and flowers can serve as companion plants:
@@ -63,7 +64,7 @@ Various aromatic herbs and flowers can serve as companion plants:
 ## Companion Planting Within the Logical Control Framework
 
 Cervantes places companion planting within his logical progression of
-insect control, at the prevention stage:
+[[mushroom-pests-insect-control-stamets]], at the prevention stage:
 
 1. Prevention
    a. Cleanliness
@@ -85,7 +86,7 @@ Alongside companion planting, Cervantes emphasizes choosing the right
 genetics for pest resistance. If buying seeds from seed companies, always
 check for disease resistance. In general, Cannabis indica is the most
 resistant to pests, and sativa is more resistant to fungal attacks. Choose
-mother plants known to be resistant to pests and diseases.
+mother plants known to be resistant to [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]].
 
 ## Additional Prevention Measures
 
@@ -123,7 +124,7 @@ prevention through companion planting and other measures is so critical.
 
 ## See Also
 
-- [[cervantes-pest-disease]] for comprehensive pest and disease management
+- [[cervantes-pest-disease]] for comprehensive pest and [[plant-disease-management-solomon]]
 - [[beneficial-insects-cannabis]] for biological pest control
 - [[cervantes-sticky-traps-pest-monitoring]] for physical monitoring
 - [[cervantes-air-quality-ventilation]] for ventilation and humidity

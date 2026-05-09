@@ -1,5 +1,5 @@
 ---
-title: Directed Inoculum Production Process for AMF
+title: Directed arbuscular-mycorrhizal-inoculum-production-best-practices Process for AMF
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Directed Inoculum Production Process for AMF
 
-The directed inoculum production process (DIPP) is a methodology for adapting arbuscular mycorrhizal fungal (AMF) inoculum to specific environmental conditions. Developed by Feldmann and colleagues, DIPP exploits genotypic variation within AMF populations to select for strains with enhanced performance under target stress conditions such as pH, drought, salinity, or heavy metal contamination.
+The directed inoculum production process (DIPP) is a methodology for adapting [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungal (AMF) inoculum to specific environmental conditions. Developed by Feldmann and colleagues, DIPP exploits genotypic variation within AMF populations to select for strains with enhanced performance under target stress conditions such as pH, drought, salinity, or [[dighton-fungal-biosorption-heavy-metal-remediation]] contamination.
 
 This approach represents a practical application of evolutionary principles to inoculum production, recognizing that AMF populations harbor sufficient genetic diversity to allow rapid adaptation to environmental challenges. By applying selective pressure over multiple propagation cycles, researchers can develop inoculum tailored for specific restoration or agricultural contexts. See [[arbuscular-mycorrhizal-fungal-diversity]] for background on the genetic variability that underpins this approach.
 
@@ -29,13 +29,13 @@ Single-spore descendants of AMF exhibit significant variation in mycorrhizal eff
 
 MEI = [(weight of inoculated plant - weight of uninoculated plant) / weight of inoculated plant] x 100
 
-This index quantifies the growth benefit conferred by mycorrhizal colonization. Higher MEI values indicate more effective symbiotic partnerships. The index is influenced by both fungal genotype and host plant physiology, making it an integrative measure of symbiotic performance.
+This index quantifies the growth benefit conferred by [[arbuscular-mycorrhizal-colonization-patterns]]. Higher MEI values indicate more effective symbiotic partnerships. The index is influenced by both fungal genotype and host plant physiology, making it an integrative measure of symbiotic performance.
 
 ## The Three-Phase DIPP Protocol
 
 ### Phase 1: Analytical Phase -- Strain Development
 
-1. Start with single spore isolation from field-collected AMF (e.g., Glomus sp.)
+1. Start with single [[single-spore-isolation-and-monokaryon-culture]] from field-collected AMF (e.g., Glomus sp.)
 
 2. Inoculate test plants (Anagallis arvensis, Plantago lanceolata) with individual spores
 
@@ -90,5 +90,5 @@ DIPP-adapted inoculum has potential applications in [[arbuscular-mycorrhizal-fun
 - [[mycorrhiza-soil-bioremediation]]
 
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]]
-- [[mycorrhizal-nitrogen-transfer-between-plants]]
+- mycorrhizal-nitrogen-transfer-between-plants
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

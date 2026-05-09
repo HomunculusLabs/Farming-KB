@@ -1,5 +1,5 @@
 ---
-title: Fungal Iconography in Ancient Art (Allegro)
+title: allegro fungal iconography in ancient art in Ancient Art (Allegro)
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -10,13 +10,13 @@ sources:
 
 # Fungal Iconography in Ancient Art
 
-Allegro argues that mushroom imagery pervades ancient Near Eastern, Egyptian, Minoan, and Greco-Roman art, but has been consistently misidentified by art historians who did not recognize the fungal reference. This page surveys his key identifications.
+Allegro argues that mushroom imagery pervades [[allegro-fertility-philosophy-of-the-ancient-near-east]] Eastern, Egyptian, Minoan, and Greco-Roman art, but has been consistently misidentified by art historians who did not recognize the fungal reference. This page surveys his key identifications.
 
 ## Cylinder Seals and Stamp Seals
 
 Ancient Near Eastern cylinder seals — small stone cylinders rolled onto clay to produce repeated images — frequently depict what Allegro interprets as mushroom imagery. Figures holding mushroom-shaped objects, standing before mushroom-like pillars, or wearing mushroom-cap headdresses appear throughout Mesopotamian glyptic art from the Uruk period (c. 4000 BC) onward.
 
-Allegro notes that what art historians describe as "date clusters," "pinecones," or "stylized trees" often bear a closer resemblance to the Amanita muscaria: a rounded cap with dots or warts, a distinct stem, and sometimes a visible volva at the base. The "sacred tree" motif so common in Assyrian art is, in his view, a stylized mushroom — the "tree of life" that gives knowledge and immortality.
+Allegro notes that what art historians describe as "date clusters," "pinecones," or "stylized trees" often bear a closer resemblance to the [[allegro-amanita-muscaria-properties-and-pharmacology]]: a rounded cap with dots or warts, a distinct stem, and sometimes a visible volva at the base. The "sacred tree" motif so common in Assyrian art is, in his view, a stylized mushroom — the "tree of life" that gives knowledge and immortality.
 
 ## Minoan "Pillar" Shrines
 
@@ -34,14 +34,14 @@ Critics argue that Allegro's methodology relies on selective citation of Sumeria
 
 ## Key Points
 
-- Death-resurrection myths across the ancient Near East share structural similarities with mushroom life cycles
+- Death-resurrection myths across the ancient Near East share structural similarities with [[pf-tek-mushroom-life-cycle-timeline]] cycles
 - Allegro connected Sumerian and Hebrew terminology for life, death, and resurrection to mushroom-related roots
 - The pattern extended from Mesopotamian Tammuz/Inanna cults through Greek Dionysian mysteries to Christian resurrection narratives
 - The goddess-god dynamic in these myths was interpreted as reflecting the earth-mushroom relationship
 - The [[sacred-mushroom-and-the-cross]]
 - [[allegro-soma-and-vedic-traditions]]
 - allegro fungal iconography in ancient art
-- [[controversy-sacred-mushroom-theory]]
+- controversy-sacred-mushroom-theory
 - [[allegro-bible-as-cryptogram]]
 - [[allegro-colour-and-consistency-of-the-amanita-muscaria]]
 - [[allegro-fertility-philosophy-of-the-ancient-near-east]]
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

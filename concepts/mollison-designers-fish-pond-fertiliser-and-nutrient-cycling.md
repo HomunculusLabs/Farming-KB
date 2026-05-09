@@ -1,5 +1,5 @@
 ---
-title: "Fish Pond Fertiliser Management and Nutrient Cycling"
+title: "knf-fish-pond-integration Fertiliser Management and comparison-nutrient-cycling-vs-nutrient-dense-gardening"
 created: 2026-04-26
 tags:
   - aquaculture
@@ -17,7 +17,7 @@ type: concept
 # Fish Pond Fertiliser Management and Nutrient Cycling
 
 Fertiliser management is a critical strategy in
-[[mollison-sewage-treatment-natural-processes]]
+mollison-sewage-treatment-natural-processes
 are all used successfully in fish ponds. Any bird or animal
 manures are useful. The key integration strategies include:
 
@@ -31,7 +31,7 @@ manures are useful. The key integration strategies include:
   roosts in Holland)
 
 These are all devices to bring complex plant nutrients to
-ponds. The [[mollison-aquatic-polyculture-and-pond-culture]].
+ponds. The mollison-aquatic-polyculture-and-pond-culture.
 
 ## Nitrate Management
 
@@ -39,7 +39,7 @@ Caution should be observed in adding nitrates to waters
 where natural manures are used, or in desert basins where
 water nitrate levels can be high. Too-high nitrate status
 can be filtered via a forage food pond of crustaceans, or
-through [[mollison-pond-edge-configuration-and-yield]]
+through mollison-pond-edge-configuration-and-yield
   and marginal vegetation absorb nutrients before they
   leave the pond
 
@@ -50,8 +50,8 @@ as a sump can contain fish between flooding for crop. The
 integration of specialised warm-water aquacultures, or the
 stocking of oxygen-depleted waters, is well-documented in
 rice-fish systems. In these systems, the rice crop itself
-provides nutrients through leaf fall and root exudates,
-while the fish recycle nutrients and control pests.
+provides nutrients through leaf fall and [[root-exudates]],
+while the fish recycle nutrients and [[query-how-to-control-pests-without-chemicals]].
 
 ## See Also
 
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +114,6 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+- [[mollison-designers-fish-pond-water-quality-and-aeration]]
+- [[mollison-designers-rice-paddy-integrated-duck-fish]]
+- [[mollison-designers-pond-edge-configuration-and-yield-maximisation]]

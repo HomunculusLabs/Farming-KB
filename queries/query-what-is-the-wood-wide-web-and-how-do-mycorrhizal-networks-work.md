@@ -1,5 +1,5 @@
 ---
-title: "What Is the Wood Wide Web and How Do Mycorrhizal Networks Work?"
+title: "What Is the Wood wood-wide-web-theory and How Do dighton-mycorrhizal-networks-carbon-transfer Work?"
 created: 2026-04-28
 tags: [query, mycology, mycorrhiza, soil-science]
 date: 2026-04-25
@@ -13,7 +13,7 @@ type: query
 ## Short Answer
 The "Wood Wide Web" is the popular term for the underground networks formed by
 [[mycorrhizal-networks]] allow plants to exchange
-nutrients, water, and chemical signals through shared fungal hyphae that
+nutrients, water, and [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] through shared fungal hyphae that
 function as a biological internet beneath the soil surface, fundamentally
 shaping how terrestrial ecosystems function at every scale.
 
@@ -36,8 +36,8 @@ predating the evolution of roots themselves in terrestrial plants.
 
 ## How the Network Functions
 
-The underground network operates through [[mycorrhizal-network-communication]] occurs through several mechanisms. Plants
-release chemical signals into the fungal network that neighboring plants can
+The underground network operates through mycorrhizal-network-communication occurs through several mechanisms. Plants
+release chemical signals into the [[mycelium-running-mycelium-natures-internet-fungal-network-theory]] that neighboring plants can
 detect and respond to. For example, when a tree is attacked by herbivores or
 pathogens, it can send warning signals through the network that prompt nearby
 plants to activate their own chemical defenses preemptively. This was first
@@ -72,7 +72,7 @@ through fungal networks that was previously unknown in plant biology.
   shared fungal hyphae, forming what scientists call the Wood Wide Web
 - [[ectomycorrhizal-fungi]] form external sheaths around root tips
 - Plants can communicate stress signals and share nutrients through
-  [[mycorrhizal-carbon-cycling-soil-sequestration]] is critical for global
+  mycorrhizal-carbon-cycling-soil-sequestration is critical for global
   carbon budgets and forest regeneration dynamics
 - [[query-how-mycorrhizal-fungi-help-plants]]
 - [[query-how-does-mycorrhizal-network-communication-work-between-plants]]
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -20,7 +20,7 @@ Also called Chinese persimmon or kakee. A deciduous, round-headed tree growing t
 
 The fruit is orange, slightly larger than a tomato, must be fully ripe before eating (unripe fruit is very astringent due to tannic acid). Eaten fresh, dried, or made into jams/jellies. Astringent and non-astringent cultivars available. Bears fruit at about 3 years (grafted). Dioecious (male and female plants needed), though female flowers produce seedless fruit if unpollinated.
 
-Nutritional composition per 100g: Water 78.6%, Energy 77 cal, Carbohydrate 19.7g, Protein 0.7g, Vitamin A 2710 IU, Ascorbic acid 11mg.
+[[dighton-fungal-nutritional-composition-animal-diets]] per 100g: Water 78.6%, Energy 77 cal, Carbohydrate 19.7g, Protein 0.7g, Vitamin A 2710 IU, Ascorbic acid 11mg.
 
 Other species: **D. virginiana** (American persimmon) with smaller, usually yellow fruit; **D. lotus** (date plum) with 1-2 cm purple-black fruit; **D. dignya** (black sapote/chocolate pudding fruit), an evergreen Central American native with very sweet chocolate-brown flesh.
 
@@ -28,7 +28,7 @@ Other species: **D. virginiana** (American persimmon) with smaller, usually yell
 
 Family: OLACEAE
 
-A hardy, evergreen tree growing to 25-30 m, widely distributed especially in Mediterranean regions. Needs full sun and a long, comparatively dry season with some winter chilling for good fruit production. Frost hardy to about -9.5C (fruit damaged below -2C). Prefers deep, rich, well-drained soil but tolerates poorer soils. Very drought tolerant. Withstands strong winds -- useful for windbreak. Some salt resistance.
+A hardy, evergreen tree growing to 25-30 m, widely distributed especially in Mediterranean regions. Needs full sun and a long, comparatively dry season with some winter chilling for good fruit production. Frost hardy to about -9.5C (fruit damaged below -2C). Prefers deep, rich, well-drained soil but tolerates poorer soils. Very [[permplant-carob-drought-tolerant-food-tree]]. Withstands strong winds -- useful for windbreak. Some salt resistance.
 
 Self-pollinating, bears fruit after about 5 years and can continue for more than 100 years.
 
@@ -64,13 +64,13 @@ Named for its white fruit. Native to China where leaves were traditionally fed t
 Also called English or Persian mulberry (native to Persia). Small rounded tree seldom exceeding 12 m with broad rounded crown. Timber prized for turnery and carving.
 
 ### Red Mulberry (M. rubra)
-Native to eastern and central United States. Ripe fruits eaten fresh or made into preserves, jellies, and pies. Dried fruit mixed with almond meal for confectionery. Young shoots and unfolded leaves eaten raw or boiled.
+Native to eastern and central [[dmt-containing-plants-united-states-halpern]]. Ripe fruits eaten fresh or made into preserves, jellies, and pies. Dried fruit mixed with almond meal for confectionery. Young shoots and unfolded leaves eaten raw or boiled.
 
 ## [[permaculture-pawpaw]] (Asimina triloba)
 
 Family: ANNONACEAE
 
-Called pawpaw in Australia but not a true pawpaw -- related to custard apples. Other names: custard banana, Michigan banana. Deciduous shrub or low tree native to North America, growing up to 12 m. Occurs naturally as thicket understorey in open woodland. Prefers well-drained, fertile soil rich in organic matter. Tolerant of snow conditions and fairly saline water. Brittle branches, very prone to wind damage.
+Called pawpaw in Australia but not a true pawpaw -- related to custard apples. Other names: custard banana, Michigan banana. Deciduous shrub or low tree native to [[psilocybin-north-america-pacific-northwest]], growing up to 12 m. Occurs naturally as thicket understorey in open woodland. Prefers well-drained, fertile soil rich in [[hamilton-composting-and-organic-matter-management]]. Tolerant of snow conditions and fairly saline water. Brittle branches, very prone to wind damage.
 
 The largest native fruit of North America (up to 300g), develops in autumn. When fully ripe the skin is dark brown or almost black. Soft creamy fruits have banana custard flavour, delicious raw. Also dried, used for preserves, pies, puddings, and desserts. Yellow fruiting varieties are superior to white.
 
@@ -99,7 +99,7 @@ Deciduous tree native to Japan, China, and the Himalayas. Suited to temperate an
 ## Design Notes
 
 - **Multi-layer design**: Combine tall trees (mulberry, persimmon) with understory shrubs (feijoa) and ground covers
-- **Season extension**: Loquat fruits in spring, persimmon and feijoa in autumn/winter, pawpaw in autumn
+- **[[comparison-season-extension-techniques-vs-cold-frame-gardening]]**: Loquat fruits in spring, persimmon and feijoa in autumn/winter, pawpaw in autumn
 - **Frost pockets**: Feijoa, jujube, and olive are most frost-hardy; protect loquat flowers and pawpaw from late frosts
 - **[[permaculture-tagasaste]], lucerne, garlic, and Albizia lophantha as companions
 

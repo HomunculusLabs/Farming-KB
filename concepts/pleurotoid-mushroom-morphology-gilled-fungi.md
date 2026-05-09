@@ -2,15 +2,15 @@ Pleurotoid mushrooms represent one of the most recognizable morphological forms 
 
 ## Defining the Pleurotoid Form
 
-The term pleurotoid describes a mushroom with a short, eccentric (off-center) or absent stem, with a cap that often has an eccentric attachment point and gills that are decurrent (running down the stem). The oyster mushroom (Pleurotus ostreatus) is the archetype for this form, but many species across different families converge on this morphology. The form is specifically adapted for fruiting on vertical substrates such as standing tree trunks, where a centrally stalked mushroom would be at a disadvantage for [[king-oyster-cultivation]] (P. eryngii), which develops a thick stem and small cap.
+The term pleurotoid describes a mushroom with a short, eccentric (off-center) or absent stem, with a cap that often has an eccentric attachment point and gills that are decurrent (running down the stem). The [[cotter-oyster-mushroom-cultivation]] (Pleurotus ostreatus) is the archetype for this form, but many species across different families converge on this morphology. The form is specifically adapted for fruiting on vertical substrates such as standing tree trunks, where a centrally stalked mushroom would be at a disadvantage for [[king-oyster-cultivation]] (P. eryngii), which develops a thick stem and small cap.
 
 ### Panellus and Hohenbuehelia
 
-Panellus species are small pleurotoid mushrooms found on decaying wood. The bitter oyster (Panellus stipticus) is notable for its bioluminescent properties. Hohenbuehelia species include the velvet-footed fungi that are often associated with [[brown-rot-and-white-rot-fungi-in-mycoremediation]] species found in western North American forests. Neolentinus lepideus (train wrecker) fruits on railroad ties and other treated wood.
+Panellus species are small pleurotoid mushrooms found on decaying wood. The bitter oyster (Panellus stipticus) is notable for its bioluminescent properties. Hohenbuehelia species include the velvet-footed fungi that are often associated with [[brown-rot-and-white-rot-fungi-in-mycoremediation]] species found in western [[growing-gourmet-north-american-reishi-species]] forests. Neolentinus lepideus (train wrecker) fruits on railroad ties and other treated wood.
 
 ## Ecological Significance
 
-Pleurotoid fungi are predominantly wood decomposers, playing essential roles in [[agricultural-waste-substrates]] substrates including straw, sawdust, and paper. Their rapid growth, broad substrate tolerance, and nutritional value have made them a cornerstone of the global [[mushroom-cultivation-industry-directory]].
+Pleurotoid fungi are predominantly wood decomposers, playing essential roles in  substrates including straw, sawdust, and paper. Their rapid growth, broad substrate tolerance, and nutritional value have made them a cornerstone of the global [[mushroom-cultivation-industry-directory]].
 
 ## Key Genera Examples
 
@@ -35,7 +35,7 @@ exhibiting a reduced form where the stem is almost entirely absent.
 ### Schizophyllum
 
 The split gill fungus (Schizophyllum commune) is a cosmopolitan species with
-a pleurotoid growth habit on dead wood. Its distinctive gills split
+a pleurotoid growth habit on [[fungal-dead-wood-diversity]]. Its distinctive gills split
 longitudinally along the lamellar edges in dry conditions and unroll when
 moist, a unique adaptation among agarics that allows repeated spore release.
 
@@ -43,7 +43,7 @@ moist, a unique adaptation among agarics that allows repeated spore release.
 
 Small pleurotoid forms appear sporadically in Gymnopus and Marasmiellus.
 These species are often overlooked due to their diminutive size but contribute
-significantly to decomposition of fine woody debris in forest litter layers.
+significantly to decomposition of fine [[fungal-succession-woody-debris-ecology]] in forest litter layers.
 
 ## Ecological Roles in Depth
 
@@ -54,7 +54,7 @@ playing a critical role in the decomposition of snags. Their ability to
 fruit from vertical surfaces gives them exclusive access to this niche before
 fallen wood decomposers can establish. Species of Pleurotus and Neolentinus
 are particularly effective at breaking down lignin and cellulose in standing
-trunks, converting complex woody polymers into simpler organic compounds
+trunks, converting complex woody polymers into simpler [[fungal-volatile-organic-compounds-communication]]
 available to other soil organisms.
 
 ### Nutrient Cycling in Forest Canopies
@@ -81,7 +81,7 @@ that distinguish among genera and species sharing this growth form.
 
 ### Essential Characters for Field Identification
 
-- **Spore print color:** The single most important diagnostic character.
+- **[[comparison-spore-print-collection-vs-spore-syringe-production]] color:** The single most important diagnostic character.
   White (Pleurotus, Hohenbuehelia), brown (Crepidotus), pink (some
   Entoloma species with lateral stems), or rusty-brown (Gymnopus).
 

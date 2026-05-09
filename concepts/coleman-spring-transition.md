@@ -1,5 +1,5 @@
 ---
-title: "Spring Transition from Winter Harvest to Summer Cropping"
+title: "Spring Transition from coleman-claytonia-winter-harvest-cultivation to Summer Cropping"
 type: concept
 tags:
   - season-transition
@@ -24,7 +24,7 @@ greenhouse space.
 ## The Overlap Challenge
 
 Spring creates a unique management challenge because the late winter
-harvests overlap with early spring planting windows. The greenhouse beds
+harvests overlap with [[coleman-overwintered-onions-and-early-spring-crops]] planting windows. The greenhouse beds
 are still occupied by mature winter crops at the exact moment when spring
 transplants need to go into the ground.
 
@@ -55,7 +55,7 @@ amendments before the new transplants go in.
 ## Bed Preparation for Spring
 
 Spring bed preparation in the greenhouse follows the same principles as
-outdoor bed preparation but with the advantage of earlier access to
+[[azurescens-outdoor-bed-preparation-woodchips]] preparation but with the advantage of earlier access to
 workable soil. The protected environment means beds can be worked and
 planted weeks before outdoor soil conditions would allow.
 
@@ -90,7 +90,7 @@ spring harvest window.
 The spring transition also involves managing significant changes in the
 greenhouse microclimate. As outdoor temperatures rise and day length
 increases, the greenhouse environment shifts from the cool, stable
-conditions ideal for winter greens to the warmer, more variable conditions
+conditions ideal for [[coleman-winter-greens-nutritional-quality-cold-sweetening]] to the warmer, more variable conditions
 suited to summer crops.
 
 Ventilation becomes increasingly important as temperatures rise. The
@@ -120,7 +120,7 @@ the specific conditions at Four Season Farm.
 ## Lessons for Year-Round Growers
 
 The spring transition illustrates several important principles for year-
-round growing. First, it demonstrates that season extension is not just
+round growing. First, it demonstrates that [[comparison-season-extension-techniques-vs-cold-frame-gardening]] is not just
 about adding production periods but about managing the transitions between
 them.
 
@@ -138,5 +138,5 @@ to grow individual crops.
 
 - [[coleman-succession-planting]]
 - [[winter-succession-planting]]
-- coleman greenhouse crop rotation
+- coleman greenhouse [[comparison-crop-rotation-vs-cover-cropping]]
 - [[coleman-unheated-greenhouse-design]]

@@ -18,11 +18,11 @@ Many home growers never had a choice at all—their grow spaces simply could not
 
 Sativa strains typically require 12-16 weeks of flowering, which is considered "a ridiculous notion for many" indoor growers accustomed to indica's 8-9 week cycles. This extended timeline means higher electricity costs, greater risk of problems developing over time, and delayed returns on investment for commercial operations. A 14 or 16 week flowering period is simply impractical for many indoor operations that are used to turning crops in under 10 weeks.
 
-The flowering time issue had already been dealt with by elite outdoor growers by using Durban Poison and making Durban Poison hybrids. The "magic" of the Durban Poison is where she is indigenous to: Durban, South Africa, which is about 30 degrees south latitude. In the northern hemisphere she will start flowering outdoors in late June and will finish in the second half of September—before any of the coastal funk or rain ever hits. This trait stays very dominant in hybrids.
+The flowering time issue had already been dealt with by elite outdoor growers by using [[durban-poison]] and making Durban Poison hybrids. The "magic" of the Durban Poison is where she is indigenous to: Durban, South Africa, which is about 30 degrees south latitude. In the northern hemisphere she will start flowering outdoors in late June and will finish in the second half of September—before any of the coastal funk or rain ever hits. This trait stays very dominant in hybrids.
 
 ### Nutrient Sensitivity
 
-Sativa plants, by their very nature, do not really like being force fed synthetic nutrients, and it shows. They respond poorly to heavy feeding regimens designed for indicas. Overfeeding sativas often results in nutrient burn, diminished terpene profiles, and harsh-tasting final product. The Rev strongly recommends organic cultivation because these are wild-ish and highly adaptable plants that do not really like being force fed synthetic nutrients.
+Sativa plants, by their very nature, do not really like being force fed [[organic-nutrients-vs-synthetic-nutrients]], and it shows. They respond poorly to heavy feeding regimens designed for indicas. Overfeeding sativas often results in nutrient burn, diminished [[cannabis-terpene-profiles]], and harsh-tasting final product. The Rev strongly recommends organic cultivation because these are wild-ish and highly adaptable plants that do not really like being force fed synthetic nutrients.
 
 It is very important to keep a keen eye on the pH level of sativa crops; if it gets above 7, you will notice a yellowing between the veins of the leaves. This can be rectified by adjusting to the correct pH, but prevention is always better than cure. Sativa strains will enjoy extra zinc, iron, and manganese in their feeding regimen.
 
@@ -36,7 +36,7 @@ It takes a lot of skill to pull off a 16-week flowering sativa well indoors, per
 
 Breeders responded to indoor demand by creating sativa-dominant hybrids that retained sativa effects while incorporating more manageable growth traits. The approach varied by region:
 
-**North American breeders** focused on bringing sativa traits into indica plants, meaning hybrids would be small enough to be grown indoors but would have all the psychedelic and head highs expected from the best sativa strains. Plants like Jack the Ripper from Subcool's TGA Genetics and Psycho Killer Bubba Kush from Riot Seeds opened up the world of sativa strains to home growers who do not have the space or the opportunity to grow outdoors.
+**North American breeders** focused on bringing sativa traits into indica plants, meaning hybrids would be small enough to be grown indoors but would have all the psychedelic and head highs expected from the best sativa strains. Plants like Jack the Ripper from Subcool's TGA Genetics and Psycho Killer [[bubba-kush]] from Riot Seeds opened up the world of sativa strains to home growers who do not have the space or the opportunity to grow outdoors.
 
 **Spanish breeders** proved particularly skilled at bringing the best of indica strains into their sativa plants, meaning the yields were higher and the flowering times shorter. Strains such as Y Griega from Medical Seeds Co. and Amnesika 2.0 from Philosopher Seeds highlight the ever-growing cannabis scene in Spain, Europe's hotbed of marijuana activity. With a climate that suits sativa growing perfectly, the south of Spain has embraced outdoor sativa growing and provides some of the best sativa genetics around.
 
@@ -54,7 +54,7 @@ Simultaneously, sativa purists worked on stabilizing landrace genetics from arou
 
 ### Low Stress Training (LST)
 
-LST is essential for managing sativa height indoors. Amnesia Haze, for example, can grow up to 6 feet and beyond if allowed, so indoor growers engage in LST to ensure that their crops do not grow too big and wild. The technique involves gently bending and tying branches to create an even canopy and control vertical growth. Growers should keep lamps close to seedlings but beware of burning them.
+LST is essential for managing sativa height indoors. [[amnesia-haze]], for example, can grow up to 6 feet and beyond if allowed, so indoor growers engage in LST to ensure that their crops do not grow too big and wild. The technique involves gently bending and tying branches to create an even canopy and control vertical growth. Growers should keep lamps close to seedlings but beware of burning them.
 
 ### Vegetative Period Management
 
@@ -66,7 +66,7 @@ Sativa strains generally require higher light intensity than indicas to produce 
 
 ## The Sativa Renaissance
 
-With legal systems shifting away from prohibition, medical marijuana meant that growers who had to hide away in closets and tiny grow spaces were now able to come out into the open and branch out beyond the 4-foot indicas and auto-flowers they had come to rely on. Many medical marijuana users realized they had been numbing themselves with indicas when they really needed something to give them a kick of energy and inspiration. People finally turned back to sativas—and when the world came knocking, sativas were ready.
+With legal systems shifting away from prohibition, [[cervantes-medical-marijuana-pharmacology]] meant that growers who had to hide away in closets and tiny grow spaces were now able to come out into the open and branch out beyond the 4-foot indicas and auto-flowers they had come to rely on. Many medical marijuana users realized they had been numbing themselves with indicas when they really needed something to give them a kick of energy and inspiration. People finally turned back to sativas—and when the world came knocking, sativas were ready.
 
 ## Source
 

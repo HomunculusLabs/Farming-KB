@@ -50,7 +50,7 @@ Black trumpets are distinctive once learned, but their dark coloration makes the
 
 ## Distribution and Habitat
 
-Black trumpets have a wide distribution across temperate regions of the Northern Hemisphere and are also found in parts of the Southern Hemisphere:
+Black trumpets have a wide distribution across temperate regions of the Northern Hemisphere and are also found in parts of the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]:
 
 - **Europe:** Widespread and abundant from Scandinavia to the Mediterranean; particularly common in deciduous and mixed forests of France, Germany, and Eastern Europe
 - **North America:** Eastern North America from Canada to the southeastern United States; also along the Pacific coast
@@ -76,7 +76,7 @@ Black trumpets are considered one of the finest edible mushrooms, prized for the
 - **Drying:** One of the best mushrooms for drying — the flavor concentrates dramatically. Dried specimens can be ground into a powerful umami seasoning powder.
 - **Pairings:** Complements cream, butter, garlic, thyme, poultry, game meats, and egg dishes particularly well.
 
-Nutritional composition (per 100 g fresh weight, approximate):
+[[dighton-fungal-nutritional-composition-animal-diets]] (per 100 g fresh weight, approximate):
 - Protein: 2.0–3.0 g
 - Carbohydrates: 5–7 g
 - Fat: 0.3–0.5 g
@@ -85,7 +85,7 @@ Nutritional composition (per 100 g fresh weight, approximate):
 
 ## Medicinal Properties
 
-While black trumpets have not been as extensively studied medicinally as some other mushroom species, research has identified several bioactive compounds:
+While black trumpets have not been as extensively studied medicinally as some other mushroom species, research has identified several [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:
 
 - **Antioxidant activity:** Contains phenolic compounds and ergothioneine, a potent antioxidant found in many edible mushrooms. Extracts show significant free radical scavenging activity in vitro.
 - **Anti-inflammatory:** Polysaccharide fractions from Craterellus species demonstrate anti-inflammatory effects in cell culture models.
@@ -97,7 +97,7 @@ While black trumpets have not been as extensively studied medicinally as some ot
 Like other ectomycorrhizal species, C. cornucopioides has not been successfully cultivated to the fruiting stage under controlled conditions. All commercial supply comes from wild harvesting. Challenges to cultivation include:
 
 - The obligate mycorrhizal requirement with specific host trees
-- Complex soil and microbial community requirements
+- Complex soil and [[edaphic-factors-microbial-community-structure]] requirements
 - Difficulty establishing mycorrhizal associations in artificial settings
 - Slow growth rate compared to saprotrophic mushrooms
 
@@ -115,10 +115,10 @@ The main risk is confusion with old or decayed specimens of other dark-colored m
 
 ## Ecological Role
 
-As an ectomycorrhizal fungus, C. cornucopioides plays an important role in forest nutrient cycling:
+As an ectomycorrhizal fungus, C. cornucopioides plays an important role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]:
 
 - Enhances host tree access to soil minerals (phosphorus, nitrogen, micronutrients)
-- Contributes to soil aggregation and humus formation through mycelial networks
+- Contributes to soil aggregation and humus formation through [[fungal-mycelial-networks-nutrient-translocation]]
 - Provides food for forest invertebrates and small mammals
 - Serves as an indicator of healthy, mature forest ecosystems with intact mycorrhizal communities
 

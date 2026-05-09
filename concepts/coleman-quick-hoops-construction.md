@@ -1,5 +1,5 @@
 ---
-title: Quick Hoops Construction
+title: coleman quick hoops construction Construction
 created: 2026-04-28
 tags:
   - season-extension
@@ -21,7 +21,7 @@ developed at the [[oss-oeric-harvesting-and-crop-management]]
 
 Onions, scallions, spinach, and lettuce are the primary overwintering
 crops grown under quick hoops. Overwintering onions are planted during
-the last week of August, with hoops and row cover placed in
+the last week of August, with hoops and [[coleman-row-cover-fabric-management]] placed in
 mid-October. Onions are planted five rows to a bed so the two
 intermediate rows can be harvested as scallions starting in spring,
 leaving space for the remaining three rows to develop bulbs.
@@ -71,7 +71,7 @@ climates use routinely. Key research questions include:
 
 The farm has recorded temperatures as high as 55 degrees Fahrenheit
 inside double-covered quick hoops on sunny days in mid-February,
-suggesting significant potential for early spring crop production.
+suggesting significant potential for [[coleman-overwintered-onions-and-early-spring-crops]] crop production.
 
 See also [[coleman-high-tunnel-cold-frame-design]], and
 [[coleman-quick-hoops]]
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

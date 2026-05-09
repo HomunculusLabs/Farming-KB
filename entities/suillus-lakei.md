@@ -15,7 +15,7 @@ sources:
   - "Kuo, M. (2024). \"Suillus lakei.\" MushroomExpert.com."
   - "Smith, A.H. & Thiers, H.D. (1968). Boletes of Michigan. University of Michigan Press."
   - "Arora, D. (1986). Mushrooms Demystified. Ten Speed Press."
-  - "Bessette, A.E. et al. (2000). North American Boletes. Syracuse University Press."
+  - "Bessette, A.E. et al. (2000). [[growing-gourmet-north-american-reishi-species]] Boletes. Syracuse University Press."
 ---
 
 # Suillus Lakei (*Suillus lakei* (Murrill) A.H. Sm. & Thiers)
@@ -64,7 +64,7 @@ Surface is dry, white to pale yellow above the ring, often with reddish
 or brownish glandular dots below. Partial veil leaves a prominent,
 often pendulous ring that may darken with age.
 
-**Spores:** Smooth, elliptical to fusiform, 7–10 × 3–4 µm. Spore print
+**Spores:** Smooth, elliptical to fusiform, 7–10 × 3–4 µm. [[comparison-spore-print-collection-vs-spore-syringe-production]]
 is cinnamon-brown to olive-brown.
 
 **Chemical reactions:** KOH on cap surface turns dark reddish-brown to
@@ -82,7 +82,7 @@ climates.
 
 The species is an obligate ectomycorrhizal associate of Douglas-fir
 (*Pseudotsuga menziesii*), forming a nearly exclusive partnership with this
-host tree. It is occasionally found near other conifers where Douglas-fir
+[[ectomycorrhizal-host-tree-partnerships]]. It is occasionally found near other conifers where Douglas-fir
 is present nearby but is essentially a Douglas-fir specialist. Fruitings are
 most abundant in young to mid-successional stands, particularly in recently
 disturbed sites such as clear-cuts, burns, and road edges where Douglas-fir
@@ -107,7 +107,7 @@ consumed with alcohol.
 ## Ecological Role
 
 As a Douglas-fir ectomycorrhizal symbiont, *Suillus lakei* plays an
-important role in forest nutrient cycling. The mycelium extends the
+important role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. The mycelium extends the
 effective root surface area of its host, enhancing uptake of phosphorus,
 nitrogen, and micronutrients from the soil.
 

@@ -5,13 +5,14 @@ updated: 2026-04-15
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Rice-Barley Dual Culture System
 
 ## Overview
 
-Fukuoka's signature cultivation method: "direct-seeded, no-tillage, winter grain/rice succession in a clover cover." This system produces roughly 22 bushels (1,300 pounds) each of winter grain and rice per quarter-acre, year after year, on land that has not been plowed in over thirty years. No chemical fertilizers, no compost preparation, no pesticides.
+Fukuoka's signature [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]]: "direct-seeded, no-tillage, winter grain/rice succession in a clover cover." This system produces roughly 22 bushels (1,300 pounds) each of winter grain and rice per quarter-acre, year after year, on land that has not been plowed in over thirty years. No [[cervantes-chemical-fertilizers-guide]], no [[cultivator-compost-preparation-phase-methods]], no pesticides.
 
 ## The Annual Cycle
 
@@ -50,11 +51,11 @@ Fukuoka proved over 20+ years that yields do not decline with continuous no-till
 
 ## The Clover Revolution
 
-Clover serves multiple functions simultaneously: nitrogen fixation, weed suppression, soil protection, moisture retention, and erosion prevention. Fukuoka called this approach "the clover revolution in rice and barley cropping" to voice opposition to chemical-based scientific farming.
+Clover serves multiple functions simultaneously: [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], weed suppression, soil protection, moisture retention, and erosion prevention. Fukuoka called this approach "the clover revolution in rice and barley cropping" to voice opposition to chemical-based [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]].
 
 ## Shallow-Tillage Transition
 
-For farmers transitioning from conventional methods, Fukuoka recommended starting with shallow tillage (about 2 inches) while sowing clover and barley, covering with rice straw. "Success in natural farming depends on how well shallow, evenly sown seeds germinate." After the soil recovers its natural structure, transition to full no-tillage.
+For farmers transitioning from conventional methods, Fukuoka recommended starting with shallow tillage (about 2 inches) while sowing clover and barley, covering with rice straw. "Success in [[comparison-natural-farming-vs-permaculture]] depends on how well shallow, evenly sown seeds germinate." After the soil recovers its natural structure, transition to full no-tillage.
 
 ## Single Cropping Variant
 

@@ -1,7 +1,7 @@
 ---
 title: "Psilocybin and the Mystical Experience"
 created: 2026-04-26
-sources: "The Psilocybin Solution — Simon G. Powell"
+sources: "The powell-psilocybin-solution-ecological-cognition-theory — Simon G. Powell"
 author: "Simon G. Powell"
 topics: ["mysticism", "psilocybin", "transcendence", "spiritual-experience", "religious-mysticism"]
 type: concept
@@ -19,7 +19,7 @@ that entheogenic fungi are key to understanding both mind and reality.
 ## The Good Friday Experiment
 
 The legendary Good Friday experiment of 1962 (the "miracle at Marsh Chapel") is Powell's
-flagship case study. Walter Pahnke, working for his PhD with Leary and the Harvard Psilocybin
+flagship case study. Walter Pahnke, working for his PhD with Leary and the [[leary-harvard-psilocybin-project]]
 Project, arranged for twenty theology students to receive either psilocybin or a placebo in a
 double-blind study within Boston University chapel.
 
@@ -86,7 +86,7 @@ psychological information can be captured and expressed.
 
 ## Key Features of the Mystical Experience
 
-Powell documents several consistent features across psilocybin-induced mystical experiences:
+Powell documents several consistent features across psilocybin-induced [[psilocybin-mystical-experiences-personality-change]]:
 
 - **Timelessness**: A sense in which temporal boundaries dissolve entirely.
 - **Cosmic connection**: An "unquestioned certainty that there is an environment bigger than
@@ -103,10 +103,10 @@ Powell traces the connection between psilocybin and mysticism through multiple c
 
 - The Aztec teonanacatl ("flesh of the gods") was used in religious rituals to contact the
   divine. The Indians claimed the mushrooms "carry you there where God is."
-- Siberian shamans used fly agaric to access the spiritual dimension, their predominant
+- Siberian shamans used [[amanita-muscaria-fly-agaric-history-and-pharmacology]] to access the spiritual dimension, their predominant
   function being to attain supra-mundane knowledge for the good health of their tribe.
 - The Rig Veda contains over 100 hymns dedicated to the divine plant Soma and its spectacular
-  psychological effects, which Wasson identified as fly agaric mushroom.
+  [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]], which Wasson identified as fly agaric mushroom.
 - Wasson proposed that the visionary effects of mushrooms might be connected to the very
   origins of the religious impulse — that the idea of a deity arose after primitive ancestors
   consumed psychoactive mushrooms.

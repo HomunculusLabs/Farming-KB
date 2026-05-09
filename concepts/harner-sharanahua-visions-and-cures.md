@@ -1,9 +1,9 @@
 ---
-title: Sharanahua Visions and Cures
+title: harner sharanahua visions and cures and Cures
 created: 2026-04-28
 tags:
   - anthropology
-  - ayahuasca
+  - [[ayahuasca]]
   - sharanahua
   - banisteriopsis
   - shamanic-healing

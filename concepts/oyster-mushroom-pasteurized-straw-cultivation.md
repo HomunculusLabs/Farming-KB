@@ -1,9 +1,9 @@
 ---
-title: "Oyster Mushroom Pasteurized Straw Cultivation"
+title: "Oyster oyster mushroom pasteurized straw cultivation Straw Cultivation"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
-  - "Growing Gourmet and Medicinal Mushrooms (mycopesticides-stamets, 1993)"
+  - "Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive (mycopesticides-stamets, 1993)"
   - "cotter-oyster-mushroom-cultivation (MushWorld, 2004)"
 type: concept
 tags: [cultivation, mushroom-cultivation, oyster-mushroom]
@@ -11,11 +11,11 @@ tags: [cultivation, mushroom-cultivation, oyster-mushroom]
 
 # Oyster Mushroom Pasteurized Straw Cultivation
 
-Pasteurized straw cultivation is the most accessible and widely practiced method for growing oyster mushrooms worldwide. It requires minimal equipment, uses inexpensive and abundant agricultural waste, and is forgiving enough for beginners while remaining the foundation of many commercial operations.
+Pasteurized straw cultivation is the most accessible and widely practiced [[query-what-is-the-kratky-method-for-growing-cannabis]] oyster mushrooms worldwide. It requires minimal equipment, uses inexpensive and abundant [[fungi-in-composting-and-agricultural-waste-conversion]], and is forgiving enough for beginners while remaining the foundation of many commercial operations.
 
 ## Why Pasteurization Instead of Sterilization
 
-Unlike supplemented sawdust substrates, straw does not require full sterilization. Pasteurization (heating to 160 degrees F / 71 degrees C) selectively kills temperature-sensitive competitor microorganisms while leaving a population of beneficial organisms that provide some biological protection for the mushroom mycelium. The mushroom mycelium must fully colonize the straw within approximately two weeks; beyond this window, the straw naturally contaminates regardless of pasteurization quality.
+Unlike [[oyster-mushroom-supplemented-sawdust-blocks]] substrates, straw does not require full sterilization. Pasteurization (heating to 160 degrees F / 71 degrees C) selectively kills temperature-sensitive competitor microorganisms while leaving a population of beneficial organisms that provide some biological protection for the mushroom mycelium. The mushroom mycelium must fully colonize the straw within approximately two weeks; beyond this window, the straw naturally contaminates regardless of pasteurization quality.
 
 Straw is a "forgiving" substrate because it contains lower readily-available nitrogen than supplemented substrates, making it less attractive to competitors after pasteurization.
 
@@ -118,7 +118,7 @@ A traditional layered approach:
 
 - **Temperature**: Maintain at 25 degrees C (77 degrees F); reduce by 3-5 degrees C from species optimum to account for respiration heat
 - **Duration**: 12-15 days for full colonization
-- **Ventilation**: Minimal; high CO2 encourages mycelial growth
+- **Ventilation**: Minimal; high CO2 encourages [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
 - **Light**: Not required
 
 ## Fruiting Initiation
@@ -139,8 +139,10 @@ Most growers take 3 flushes. Mushrooms from the third flush are often dried for 
 
 ## See Also
 
+- [[pasteurized-straw-cultivation-techniques]]
+
 - [[straw-based-oyster-mushroom-cultivation]]
 
 ## See Also
 
-- [[mushroom-training-oyster-straw-cultivation]]
+- mushroom-training-oyster-straw-cultivation

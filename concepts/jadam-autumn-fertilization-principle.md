@@ -11,11 +11,11 @@ sources:
 
 ## Overview
 
-JADAM advocates fertilizing in autumn, on the surface, and in raw form -- exactly as nature does. This contrasts sharply with the conventional organic farming practice of making elaborate compost piles through winter for spring application. The autumn approach simplifies farming dramatically while producing better results.
+JADAM advocates fertilizing in autumn, on the surface, and in raw form -- exactly as nature does. This contrasts sharply with the conventional [[coleman-deep-organic-farming-philosophy]] practice of making elaborate compost piles through winter for spring application. The autumn approach simplifies farming dramatically while producing better results.
 
 ## Nature's Method
 
-Nature always grows vegetation which turns into organic fertilizer. Nature's soil supplies 100% of its organic materials by itself. All wild grass and leaves die and accumulate on soil in autumn; as they decompose, the soil turns rich. JADAM follows this pattern: sow seeds (those that do not die in winter) in autumn, let them grow, and cut them down in spring. The fallen grass becomes excellent base fertilizer.
+Nature always grows vegetation which turns into [[complete-organic-fertilizer-cof-recipe-solomon]]. Nature's soil supplies 100% of its organic materials by itself. All wild grass and leaves die and accumulate on soil in autumn; as they decompose, the soil turns rich. JADAM follows this pattern: sow seeds (those that do not die in winter) in autumn, let them grow, and cut them down in spring. The fallen grass becomes excellent base fertilizer.
 
 ## Against Compost-Making
 
@@ -27,14 +27,14 @@ The prevalent method of organic compost-making is criticized as too complicated:
 - Manual turning breaks the back; excavators are sometimes mobilized
 - Some parts harden or form clods requiring constant attention
 
-JADAM asks: "All organic matter has, for billions of years, decomposed at ambient temperature. Is nature, as a result, full of only harmful bacteria? The temperature claim is just another trap set up to scam farmers."
+JADAM asks: "All organic matter has, for billions of years, decomposed at [[jadam-ambient-temperature-principle]]. Is nature, as a result, full of only harmful bacteria? The temperature claim is just another trap set up to scam farmers."
 
 ## Problems With Commercial Organic Inputs
 
 Modern organic farming has made the mistake of buying inputs from the market:
 - Farmers buy rice bran, perilla press cake, oil cake, sawdust, livestock manure
 - They add more material, adjust moisture, add microbes, and turn often
-- Certified organic fertilizers cost about 20 dollars per sack -- quite expensive
+- Certified [[hamilton-organic-fertilizers-and-plant-nutrition]] cost about 20 dollars per sack -- quite expensive
 
 ## Against "Skin Fertilizers"
 
@@ -42,7 +42,7 @@ Contrary to common belief, rice bran, perilla pulp, and press cakes are not the 
 
 - Fertilizer made from plant skin does not possess comprehensive nutrients required by plants
 - It increases soil nutrient imbalance
-- Putting rice bran in soil changes nutritional balance toward rice-growing conditions -- would you grow tomatoes in that soil?
+- Putting rice bran in soil changes [[jadam-nutritional-balance-fertilizer]] toward rice-growing conditions -- would you grow tomatoes in that soil?
 - Overuse of perilla pulp ruins soil
 - If using skin fertilizers at all, use less than 1/10 of total amount
 
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

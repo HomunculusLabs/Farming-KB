@@ -1,5 +1,5 @@
 ---
-title: Leek Deep Planting Technique
+title: coleman leek deep planting technique Planting Technique
 created: 2026-04-28
 tags:
   - leeks
@@ -16,7 +16,7 @@ type: concept
 
 # Leek Deep Planting Technique
 
-Leeks are nearly a year-round crop at the [[coleman-winter-root-crops]],
+Leeks are nearly a year-round crop at the coleman-winter-root-crops,
 [[coleman-winter-harvesting-techniques]].
 
 ## See Also
@@ -99,4 +99,6 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+- [[coleman-succession-planting]]
+- [[coleman-deep-organic-vs-shallow-organic-farming]]
+- [[coleman-fall-bed-preparation-early-outdoor-planting]]

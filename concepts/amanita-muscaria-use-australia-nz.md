@@ -1,5 +1,5 @@
 ---
-title: Amanita muscaria Use in Australia and New Zealand
+title: allegro-amanita-muscaria-properties-and-pharmacology Use in Australia and New Zealand
 created: 2026-04-26
 tags:
   - mycology
@@ -20,18 +20,18 @@ type: concept
 
 Amanita muscaria (L. ex Fr.) Hooker, the iconic red-and-white spotted "fly
 agaric," is a psychoactive mushroom distinct from the psilocybine-containing
-species commonly referred to as "magic mushrooms." While psilocybian species
+species commonly referred to as "[[guzman-magic-mushrooms-african-species]]." While psilocybian species
 contain psilocybine and psilocine as their primary active compounds,
 [[amanita-muscaria-chemistry-and-pharmacology]] has been used traditionally by several aboriginal tribal
 groups in Siberia, as well as by some members of the Ojibway clan in Northern
-Michigan (United States) and Ontario, Canada. It has also been proposed as the
+Michigan ([[dmt-containing-plants-united-states-halpern]]) and Ontario, Canada. It has also been proposed as the
 "Soma" drug-plant of the Rig Veda (the ancient Hindu scriptures) -- a theory
 discussed in [[mckenna-vedic-soma-indo-european-mysteries]].
 
 Dr. Malcolm C. Hall, formerly of the Commonwealth Police Force of Canberra,
 referred to a few instances of [[amanita-muscaria-chemistry-and-pharmacology]] are:
 
-- **Ibotenic acid** -- a potent neurotoxin that causes neuronal death via a
+- **[[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]]** -- a potent neurotoxin that causes neuronal death via a
   mechanism known as excitotoxicity. It is a glutamate receptor agonist that
   overstimulates neurons, leading to cell death. This compound is water-soluble
   and can be largely removed through proper preparation.

@@ -25,12 +25,12 @@ about 17% of all pain falls into this category.
 
 The most common forms of CNMP that are non-responsive to pharmaceutical and
 non-drug treatment include musculoskeletal pains of the neck, shoulder, and
-back. These conditions represent a significant portion of the chronic pain
+back. These conditions represent a significant portion of the [[cannabis-chronic-pain-management]]
 burden worldwide.
 
-According to the Cannabis Health Index, the evidence for cannabis in treating
+According to the [[blesching-cannabis-health-index-autoimmune-conditions]], the evidence for cannabis in treating
 chronic non-malignant pain is based on 2 studies reviewed with a total CHI
-value of 5, yielding a CHI score of 2.50.
+value of 5, yielding a [[blesching-cannabis-chi-score-methodology]] of 2.50.
 
 See also: [[blesching-cannabis-neuropathic-pain]],
 [[blesching-cannabis-spinal-cord-injuries]],
@@ -98,13 +98,13 @@ recommended approach.
 CB1 receptors are located in the central nervous system (brain and spinal
 cord) and regulate motor control, attention, emotion, and memory. Notably,
 CB1 receptors are absent in the medulla oblongata (which regulates heart and
-respiratory function), making cannabinoid pain management safer than opiates,
+respiratory function), making cannabinoid [[cannabis-pain-management-protocols]] safer than opiates,
 which can cause fatal respiratory depression.
 
 CB2 receptors cluster in the periphery, especially in immune tissue. CB2
 engagement is important for chronic pain associated with autoimmune diseases.
 Cannabinoids reduce inflammation and can produce synergy when combined with
-reduced amounts of opiates, lowering the risk of adverse effects and habit-
+reduced amounts of opiates, lowering the risk of [[blesching-cannabis-safety-adverse-effects-evidence]] and habit-
 forming potential.
 
 ## Mind-Body Medicine and Chronic Pain

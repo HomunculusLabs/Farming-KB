@@ -1,5 +1,5 @@
 ---
-title: Psilocybe cubensis Cultivation Miniculture Method
+title: Psilocybe psilocybe cubensis cultivation miniculture Miniculture Method
 created: 2026-05-08
 source: "Bigwood & Beug (1982). Variation of psilocybin and psilocin levels. Journal of Ethnopharmacology, 5(3), 287–291."
 tags:
@@ -15,7 +15,7 @@ tags:
 
 # [[substrate-preparation]]
 
-The substrate for each miniculture consisted of **rye grain** prepared in
+The substrate for each miniculture consisted of **[[bigwood-beug-miniculture-rye-grain-flush-variation-method]]** prepared in
 standard half-pint mason jars. The specific formulation was:
 
 - **10 grams of rye grain** per jar
@@ -24,8 +24,8 @@ standard half-pint mason jars. The specific formulation was:
 This 2:3 grain-to-water ratio (by volume) provided adequate moisture for
 [[fruiting-initiation]]
 
-Once fully colonized, the grain substrate was **cased** to initiate fruiting.
-The casing layer consisted of a mixture of:
+Once fully colonized, the [[brassinosteroid-dung-grain-substrate-fruiting-enhancement]] was **cased** to initiate fruiting.
+The [[gourmet-medicinal-mushroom-casing-layer-techniques]] consisted of a mixture of:
 
 - **Peat moss**: Provides moisture retention and a non-nutritive surface for
   pin formation.

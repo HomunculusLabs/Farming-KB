@@ -1,5 +1,5 @@
 ---
-title: Fungal Species Recognition and Phylogenetics
+title: fungi in the environment fungal species recognition phylogenetics and Phylogenetics
 tags:
   - mycology
   - species-concept
@@ -48,7 +48,7 @@ The first application of PSR in mycology involved *[[cryptic-species]].
 Web-based MLST schemes bring together PSR research conducted globally for a single fungal species. MLST has several key advantages over earlier molecular typing methods:
 
 - **Portability**: Gene sequences determined in different laboratories can be combined directly, unlike RAPD or fingerprinting approaches.
-- **No ascertainment bias**: Unlike polymorphic loci discovered for one set of individuals, which may prove fixed and uninformative in subsequent studies, DNA sequencing captures all variable positions.
+- **No ascertainment bias**: Unlike polymorphic loci discovered for one set of individuals, which may prove fixed and uninformative in subsequent studies, [[environmental-dna-sequencing-fungi]] captures all variable positions.
 - **Scalability**: As more researchers contribute, the power and resolution of the scheme increase.
 
 ### Practical Applications of MLST
@@ -64,13 +64,13 @@ Most socially important fungi appear to rely heavily on clonal reproduction, whi
 Fungal microsatellites provide higher-resolution markers for intraspecific variation studies. While valuable for population characterization, microsatellites have limitations:
 
 - **Hypervariability and homoplasy**: Single microsatellite loci can be misleading due to convergent evolution of repeat number. This has been demonstrated in comparisons with sequence data for both *Coccidioides* and *Neurospora*.
-- **Best used in combination**: Microsatellites are most powerful when used to extend multilocus sequence studies from species-level into population-level analysis. If the aim is simultaneous species recognition and population characterization, many microsatellite loci should be employed; Fisher and colleagues used 20 in their study of *Penicillium marneffei*.
+- **Best used in combination**: Microsatellites are most powerful when used to extend multilocus sequence studies from species-level into population-level analysis. If the aim is simultaneous species recognition and population characterization, many microsatellite loci should be employed; Fisher and colleagues used 20 in their study of *[[gadd-penicillium-marneffei-population-genetics]]*.
 
 ## Challenging Morphological Species: The Histoplasma Case
 
 *[[fungal-taxonomy]]
 
-The application of molecular methods has had a transformative effect on fungal taxonomy:
+The application of molecular methods has had a transformative effect on [[molecular-methods-fungal-taxonomy-and-diversity]]:
 
 - Cryptic species are now routinely discovered within morphologically defined taxa
 - Geographic distribution often correlates with genetic isolation more strongly than host or symptomatology
@@ -81,5 +81,5 @@ Despite these advances, the search for diagnosable phenotypic characters that co
 
 ## See Also
 
-- [[extremophilic-fungi]] for environmental factors influencing fungal speciation
+- [[extremophilic-fungi]] for [[duggar-mushroom-environmental-factors-temperature-moisture-light]] influencing fungal speciation
 - [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]] for ecological context of fungal populations

@@ -40,7 +40,7 @@ The identification of Sin/Nannar as a mushroom-associated deity gains significan
 
 > Soma stands above the gods. Soma is the supreme entity. Soma is the moon; Soma is masculine.
 
-A male lunar deity is, in McKenna's words, "a rare phenomenon." The connection between the feminine and the moon is so deep and obvious in world mythology that a lunar male deity "stands out, making its traditional history in any region easy to trace." The rarity of male lunar deities is limited to certain North American Indian peoples and to the Indo-Europeans — the German folk conception of the moon remains masculine to this day.
+A male lunar deity is, in McKenna's words, "a rare phenomenon." The connection between the feminine and the moon is so deep and obvious in world mythology that a lunar male deity "stands out, making its traditional history in any region easy to trace." The rarity of male lunar deities is limited to certain North [[harner-american-indian-peyote-rituals]] peoples and to the Indo-Europeans — the German folk conception of the moon remains masculine to this day.
 
 ## The Mushroom as Androgynous Deity
 
@@ -55,15 +55,15 @@ The mushroom "is most correctly seen as an androgynous shape-shifting deity, whi
 
 Sin/Nannar's daughter Ishtar eventually "overshadowed all the other female deities, as did her counterpart Isis in Egypt." This progression — from a mushroom-associated male moon god to a supreme goddess figure — may reflect the cultural transition from early mushroom-using partnership societies to later goddess-worshiping civilizations. If Sin was originally a mushroom god, the absorption of his divine attributes into the figure of Ishtar may represent the assimilation of mushroom-related religious concepts into the broader Goddess religion.
 
-The fact that Sin is the "father, or source, of the Goddess" is particularly suggestive in McKenna's framework. If the mushroom was the original source of religious experience in the partnership societies, then the mushroom god as the father of the Goddess would be an accurate genealogy — the psychedelic experience giving rise to the religious consciousness that the Goddess embodies.
+The fact that Sin is the "father, or source, of the Goddess" is particularly suggestive in McKenna's framework. If the mushroom was the original source of religious experience in the partnership societies, then the mushroom god as the father of the Goddess would be an accurate genealogy — the [[leary-psychedelic-experience-bardo-mapping]] giving rise to the religious consciousness that the Goddess embodies.
 
 ## The Cattle Connection
 
 Sin/Nannar was "thought to have arisen from a god of nomads and a protector of cattle." This pastoral origin connects the moon god to the cattle-mushroom complex that McKenna traces throughout *Food of the Gods*:
 
-- The domestication of cattle created the ecological conditions for coprophilic mushroom growth
+- The domestication of cattle created the ecological conditions for coprophilic [[pf-tek-mushroom-growth-timeline]]
 - Partnership societies that practiced cattle herding were the primary contexts for sustained mushroom use
-- The sacred status of cattle in multiple cultures (Vedic India, ancient Egypt, Minoan Crete) may derive from their role as the substrate for the sacred mushroom
+- The sacred status of cattle in multiple cultures (Vedic India, ancient Egypt, Minoan Crete) may derive from their role as the substrate for the [[allegro-the-sacred-mushroom-amanita-identification]]
 
 If Sin originated as a pastoral deity associated with cattle-herding nomads, the mushroom headgear becomes legible as an iconographic representation of the sacred mushroom that grew in the cattle's dung — the original source of the deity's numinous power.
 
@@ -98,7 +98,7 @@ Several alternative readings of Sin's headgear deserve consideration:
 
 The absence of textual corroboration is particularly notable. While the Soma hymns of the Rig Veda provide extensive literary evidence for a mushroom-based religious practice, no comparable Mesopotamian text explicitly identifies Sin or any other deity with mushrooms. This absence may reflect the loss of texts, the suppression of the mushroom religion, or the possibility that the mushroom association was encoded exclusively in visual rather than verbal symbolism.
 
-Without additional archaeological evidence — such as textual references linking Sin explicitly to mushrooms, or chemical analysis of ritual residues — the iconographic argument remains provocative but unproven. Its value lies in opening a line of inquiry rather than in providing definitive proof.
+Without additional archaeological evidence — such as textual references linking Sin explicitly to mushrooms, or [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of ritual residues — the iconographic argument remains provocative but unproven. Its value lies in opening a line of inquiry rather than in providing definitive proof.
 
 ## See Also
 
@@ -108,6 +108,6 @@ Without additional archaeological evidence — such as textual references linkin
 - [[mckenna-myth-of-glaukos-honey-preservation-mushroom]]
 - [[mckenna-ergot-and-witches-sabbath-theory]]
 - [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]
-- mckenna tassili cave mushroom shaman
+- mckenna [[mckenna-food-gods-tassili-cave-paintings]] mushroom shaman
 - mckenna habit creode and cognitive evolution
 - [[mckenna-dominator-culture-and-suppression-of-ecstasy]]

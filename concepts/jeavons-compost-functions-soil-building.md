@@ -1,5 +1,5 @@
 ---
-title: Compost Functions in Soil Building
+title: jeavons compost functions soil building in Soil Building
 created: 2026-04-28
 tags: [biointensive, compost, soil-building, humus, jeavons]
 date: 2026-04-28
@@ -17,7 +17,7 @@ techniques central to the method.
 ## Moisture Retention
 
 Compost holds six times its own weight in water. A soil with
-good organic matter content soaks up rain like a sponge and
+good [[hamilton-composting-and-organic-matter-management]] content soaks up rain like a sponge and
 regulates the supply to plants. In contrast, soil stripped of
 organic matter resists water penetration, leading to crusting,
 erosion, and flooding. This water-holding capacity is especially
@@ -26,7 +26,7 @@ interacts with supplemental amendments.
 
 ## Nitrogen Storage
 
-The compost pile serves as a storehouse for nitrogen. Because
+The [[mushroom-cultivator-compost-pile-management]] serves as a storehouse for nitrogen. Because
 nitrogen is tied up in the decomposition process, water-soluble
 nitrogen does not leach out or oxidize into the air for 3 to 6
 months or more, depending on how the pile is built and
@@ -42,14 +42,14 @@ better in less-than-optimal pH situations. While most vegetables
 prefer slightly acidic soil (pH 6.0-7.0, optimum 6.8), adequate
 compost enables crops to tolerate a wider pH range. This buffering
 effect reduces the need for frequent [[jeavons-sustainability-philosophy-gbiointensive]],
-where humic acid from decomposition makes previously unavailable
+where [[comparison-humic-acid-vs-fulvic-acid]] from decomposition makes previously unavailable
 nutrients accessible to plants.
 
 ## Food for Microbial Life
 
 Good compost creates healthy conditions for organisms that live
 in the soil. Compost harbors earthworms and beneficial fungi
-that fight nematodes and other soil pests. The [[jeavons-composting-methods]], [[jeavons-vermicomposting-techniques]], [[jeavons-humus-and-soil-microbiology]]
+that fight nematodes and other soil pests. The , [[jeavons-vermicomposting-techniques]], [[jeavons-humus-and-soil-microbiology]]
 ## Practical Considerations
 
 When working with Compost Functions in Soil Building, several practical factors should be
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

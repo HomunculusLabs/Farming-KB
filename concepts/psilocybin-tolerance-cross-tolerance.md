@@ -32,7 +32,7 @@ This means that taking psilocybin on consecutive days will produce dramatically 
 
 ### The One-Week Minimum
 
-Gartz confirms that clinical trials using psilocybin must space administrations at least one week apart. This is a critical methodological constraint that affects:
+Gartz confirms that [[mushroom-cancer-clinical-trials-overview]] using psilocybin must space administrations at least one week apart. This is a critical methodological constraint that affects:
 
 - **Study design:** Sessions cannot be scheduled more frequently than weekly
 - **Study duration:** Research programs requiring multiple sessions take weeks or months
@@ -50,7 +50,7 @@ In European [[amanita-muscaria-pharmacology-dosing-guide]] (muscimol acts on GAB
 
 ### The "Wait a Week" Rule
 
-The standard harm reduction advice is to wait at least one week between psychedelic experiences. This recommendation is based on:
+The standard [[adverse-effects-and-harm-reduction-psilocybin]] advice is to wait at least one week between psychedelic experiences. This recommendation is based on:
 
 - Tolerance dynamics (effects are significantly diminished if taken sooner)
 - Integration needs (psychological processing of the experience takes time)

@@ -1,5 +1,5 @@
 ---
-title: Dharma Wheel Theory of Flux - Alternative to Darwinian Evolution
+title: fukuoka dharma wheel theory evolution Theory of Flux - Alternative to Darwinian Evolution
 tags:
   - philosophy
   - evolution
@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-The **Dharma Wheel Theory of Flux in All Things** is Masanobu Fukuoka's alternative to Darwin's theory of natural selection. Rather than seeing evolution as a linear, flat progression from simple to complex organisms over billions of years, Fukuoka proposed a three-dimensional, cyclical model where all living things were created simultaneously and exist as a unified whole, with species appearing and disappearing like islands surfacing and sinking in a sea of genetic potential.
+The **Dharma Wheel Theory of Flux in All Things** is Masanobu Fukuoka's alternative to Darwin's [[fukuoka-natural-way-of-farming-theory-of-natural-farming]] selection. Rather than seeing evolution as a linear, flat progression from simple to complex organisms over billions of years, Fukuoka proposed a three-dimensional, cyclical model where all living things were created simultaneously and exist as a unified whole, with species appearing and disappearing like islands surfacing and sinking in a sea of genetic potential.
 
 ## Critique of Darwin's Theory
 
@@ -71,7 +71,7 @@ The reason there are so few intermediary forms between species is not that they 
 
 Fukuoka offered a creation narrative as an alternative to Darwin:
 
-1. The Creator rolled the seeds of every living thing into clay pellets and gave them to messengers to scatter randomly
+1. The Creator rolled the seeds of every living thing into [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] and gave them to messengers to scatter randomly
 2. Some seeds were programmed to become active soon after Earth's birth; others for water, mountains, or deserts
 3. Seeds designed to become human beings were made to come to life during later ages
 4. Millions of seeds were broadcast at one time — microorganisms, plants, and animals all appeared simultaneously
@@ -96,8 +96,8 @@ This theory has direct agricultural implications:
 
 - Since all living things are fundamentally one, harming plants, microorganisms, and insects through conventional agriculture means harming humanity
 - The classification of plants into species, genus, family, and order is an imposition and of no use
-- People do not need to create new varieties by artificial crossbreeding — insects create new varieties naturally in chemical-free fields
-- Genetic engineering is "the mad course" — unnecessary and dangerous
+- People do not need to create new varieties by artificial crossbreeding — [[fukuoka-insects-create-new-rice-varieties]] new varieties naturally in chemical-free fields
+- [[fukuoka-textdoc-genetic-engineering-critique-warning]] is "the mad course" — unnecessary and dangerous
 
 ## Relationship to Mu Philosophy
 

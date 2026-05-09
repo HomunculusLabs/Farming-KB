@@ -11,7 +11,7 @@ sources:
 # JADAM Concentration Cautions and Guidelines
 
 **Updated:** 2026-04-18
-**Source:** JADAM Organic Farming, pp.300-302 (Youngsang Cho, 2016)
+**Source:** JADAM [[coleman-deep-organic-farming-philosophy]], pp.300-302 (Youngsang Cho, 2016)
 
 ## Overview
 
@@ -23,7 +23,7 @@ Any material, when abused, will cause concentration stress. This is the most imp
 - Test on a few plants first, wait 24-48 hours, observe for stress symptoms
 - Start with the lowest recommended concentration and increase gradually
 - Concentration stress can disturb growth and metabolism, directly impacting yield and quality
-- For perennial fruit trees, damage can continue into the next year
+- For perennial [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], damage can continue into the next year
 
 ## Ingredient Concentration Ranges
 
@@ -81,14 +81,14 @@ Any material, when abused, will cause concentration stress. This is the most imp
 | Maximum | 20 L (5.3 gal) | Do not exceed |
 
 **Rules:**
-- Over 20 L will break down JWA, making it ineffective
-- Always use with JWA for foliar application
+- Over 20 L will [[query-can-fungi-break-down-plastic-pollution]] JWA, making it ineffective
+- Always use with JWA for [[ultra-low-cost-foliar-application-methods]]
 - Use when foam is at peak (highest microorganism count)
 
 ## How Often to Apply
 
 - No fixed rule -- depends on region, climate, plant, disease, pest
-- Generally use natural pesticide in **2-days shorter cycle** than chemical pesticides
+- Generally use [[jadam-natural-pesticide-institute-and-research]] in **2-days shorter cycle** than chemical pesticides
 - Early stage application is critical -- young leaves are tender and prone to damage
 - When infestation is serious: take out JS, use only JHS + JWA
 - You can spray with 2-3 hour gap, or 12 hour gap between applications

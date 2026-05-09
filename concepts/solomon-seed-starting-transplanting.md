@@ -19,7 +19,7 @@ Solomon is deeply suspicious of purchased seedlings. Common problems:
 - **Pot-bound root systems**: seedlings kept too long develop circling roots that cannot support the top in hot weather. The plant wilts and takes 1-2 weeks to recover.
 - **Soft, unhardened growth**: greenhouse seedlings grown at high temperatures with no wind develop weak-walled, water-filled cells. Moving directly to outdoor conditions causes severe shock from chilling, wind, sun, and drought -- often multiple shocks in succession.
 - **Unsuitable species sold as transplants**: beets, carrots, corn, and lettuce should be direct-seeded. Transplanting usually fails to produce useful roots (beets, carrots) or severely shocks the plant (corn, lettuce).
-- **Poor varieties**: garden centers carry what sells, not what grows best or tastes best. Tomatoes are the exception -- people remember the flavor and complain if substituted.
+- **Poor varieties**: [[solomon-garden-centers-seedling-traps]] carry what sells, not what grows best or tastes best. Tomatoes are the exception -- people remember the flavor and complain if substituted.
 
 A properly hardened seedling looks smaller and more wiry than a soft one, but will be weeks ahead after transplanting. Commercial growers skip hardening because it costs extra weeks of greenhouse time.
 
@@ -29,7 +29,7 @@ Solomon recommends raising transplants only for species that benefit from every 
 
 ### Soil for Seedlings
 
-Use garden soil, not commercial potting mix:
+Use garden soil, not commercial [[solomon-potting-mix-and-seedling-soil-recipe]]:
 1. Half-fill a 5-gallon bucket with garden soil
 2. If not clayey, blend in ~1.5 gallons well-rotted manure or compost
 3. If clayey, mix in an equal volume of sphagnum moss (peat moss)
@@ -40,7 +40,7 @@ Using your own garden soil means seedlings that thrive in it from the start are 
 
 ### Sowing in Pots
 
-- Use leftover plastic pots or newspaper cylinders (3-inch wide strip rolled into a squat cylinder)
+- Use leftover [[query-fabric-pots-vs-plastic-pots-vs-air-pots-for-cannabis]] or newspaper cylinders (3-inch wide strip rolled into a squat cylinder)
 - Fill pots, firm the soil, make a small hole with a pencil
 - Drop 2-3 seeds per pot; flick loose soil to cover (nothing heavy)
 - Slip a clear plastic bag over the pot to maintain moisture until emergence
@@ -59,7 +59,7 @@ This schedule works with one small germination area.
 ## Direct Seeding: Solomon's Preference
 
 Most vegetables should be direct-seeded. Advantages over transplants:
-- No transplant shock; no week of setback
+- No [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]]; no week of setback
 - No need for greenhouse, cold frames, or indoor space
 - Seedlings that survive in-garden conditions are the strongest individuals
 - Taproots develop fully (especially important for root crops)
@@ -89,7 +89,7 @@ As a former seed company owner, Solomon emphasizes buying from reputable regiona
 Hybrids:
 - Often higher yielding, especially for commercial traits
 - Seed cannot be reliably saved (does not breed true)
-- Some modern hybrids have lost nutritional quality for yield
+- Some modern hybrids have lost [[coleman-winter-greens-nutritional-quality-cold-sweetening]] for yield
 
 Open-pollinated (OP):
 - Seed can be saved year to year
@@ -97,7 +97,7 @@ Open-pollinated (OP):
 - Many classic OP varieties have deteriorated through poor seed-saving practices
 - Solomon recommends trialing OP varieties alongside hybrids; if an OP performs well, switch
 
-For corn: classic OP sweet corn varieties are closely related to Native American field corns and produce acceptable cornmeal. For field corn as a staple, OP varieties produce more protein and minerals per calorie than modern hybrids.
+For corn: classic OP sweet corn varieties are closely related to [[halpern-sacramental-peyote-and-native-american-church]] field corns and produce acceptable cornmeal. For field corn as a staple, OP varieties produce more protein and minerals per calorie than modern hybrids.
 
 ## Seed Saving Principles
 

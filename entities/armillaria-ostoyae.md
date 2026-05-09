@@ -39,7 +39,7 @@ The basidiocarps (mushrooms) of *A. ostoyae* are typical honey mushrooms, featur
 - **Spore Print:** White. Spores are elliptical, approximately 7 to 9 by 5 to 6 μm.
 - **Rhizomorphs:** Black, shoestring-like structures that are critical for the organism's spread through soil and for initiating infection of new hosts.
 
-The underground mycelial network and rhizomorph system is far more extensive than the visible fruiting bodies. Individual genets can cover enormous areas, with the most famous example in the Malheur National Forest in Oregon, USA, estimated to cover approximately 9.6 square kilometers (2,385 acres) and be between 2,400 and 8,650 years old.
+The underground [[gadd-mycelial-network-dynamics]] and rhizomorph system is far more extensive than the visible fruiting bodies. Individual genets can cover enormous areas, with the most famous example in the Malheur National Forest in Oregon, USA, estimated to cover approximately 9.6 square kilometers (2,385 acres) and be between 2,400 and 8,650 years old.
 
 ## Ecology and Habitat
 
@@ -64,7 +64,7 @@ The infection cycle of *A. ostoyae* involves several stages:
 *Armillaria ostoyae* is considered one of the most damaging forest pathogens globally:
 
 - **Timber Losses:** In the Pacific Northwest alone, annual losses attributed to *Armillaria* root disease exceed hundreds of millions of dollars. Mortality rates can be significant in managed stands, particularly in second-growth forests established on sites with infected stumps.
-- **Management Challenges:** There is no effective chemical control for established *Armillaria* infections in forests. Management relies on silvicultural approaches including stump removal, delayed planting, use of resistant species, and biological control agents.
+- **Management Challenges:** There is no effective chemical control for established *Armillaria* infections in forests. Management relies on silvicultural approaches including stump removal, delayed planting, use of resistant species, and [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents.
 - **Climate Change:** Warming temperatures and drought stress are expected to increase *Armillaria* disease severity, as stressed trees are more susceptible to infection.
 
 ## Biocontrol and Interactions
@@ -74,7 +74,7 @@ Research into biological control of *A. ostoyae* has explored several approaches
 - **Competitive Saprotrophs:** Inoculation of stumps with competing fungi such as *Trichoderma* species or *Phlebiopsis gigantea* can reduce *Armillaria* colonization.
 - **Predation:** Nematode-trapping fungi and other soil microorganisms may influence *Armillaria* populations, though this remains poorly understood.
 - **Mycorrhizal Interactions:** There is evidence that certain [[fungal-genetics]]:** The genome of *A. ostoyae* has been sequenced, providing insights into its pathogenicity mechanisms, wood decay enzymes, and the genetic basis for rhizomorph formation.
-- **Stable Isotope Ecology:** Studies using nitrogen and carbon stable isotopes (d15N, d13C values) have used *Armillaria* and related fungi to trace nutrient cycling through forest ecosystems, distinguishing between saprotrophic and mycorrhizal nutrient acquisition strategies.
+- **Stable Isotope Ecology:** Studies using nitrogen and carbon stable isotopes (d15N, d13C values) have used *Armillaria* and related fungi to trace nutrient cycling through forest ecosystems, distinguishing between saprotrophic and [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] acquisition strategies.
 
 ## Related Species
 
@@ -86,11 +86,11 @@ The genus *Armillaria* contains approximately 10 described species in North Amer
 
 ## Biochemical Compounds and Secondary Metabolites
 
-*Armillaria ostoyae* produces a range of bioactive compounds relevant to its ecological interactions and pathogenicity:
+*Armillaria ostoyae* produces a range of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] relevant to its [[king-stropharia-ecological-interactions-permaculture]] and pathogenicity:
 
 - **Armillarin and Armillaric Acid:** Sesquiterpene compounds isolated from *Armillaria* species with reported antimicrobial and cytotoxic properties. Armillaric acid is a notable metabolite with potential pharmaceutical interest
 - **Melanin:** Deposited in rhizomorph cell walls, melanin provides mechanical strength, UV protection, and resistance to microbial degradation. Melanized rhizomorphs are more persistent and invasive in soil
-- **Cellulolytic and Ligninolytic Enzymes:** Produces endoglucanases, cellobiohydrolases, laccases, and manganese peroxidases that enable degradation of both cellulose and lignin components of wood, classifying it as a white rot fungus despite its primary pathogenic lifestyle
+- **Cellulolytic and [[singh-ligninolytic-enzymes-fungal-bioremediation]]:** Produces endoglucanases, cellobiohydrolases, laccases, and manganese peroxidases that enable degradation of both cellulose and lignin components of wood, classifying it as a white rot fungus despite its primary pathogenic lifestyle
 - **Oxalic Acid:** Secreted during wood decay, contributing to demineralization of wood cell walls and creating acidic microenvironments that favor fungal colonization
 - **Volatile Organic Compounds (VOCs):** Emits a characteristic musmalt-extract-agarfruiting bodies, while underground metabolism produces VOCs that may influence soil microbial communities
 
@@ -101,4 +101,4 @@ Standard methods for working with *A. ostoyae* in research and diagnostics inclu
 - **Isolation:** Basidiocarp tissue can be placed directly on [[wood-decay-fungi]]
 - forest-pathology
 - Ectomycorrhizas
-- [[armillaria-gallica]]
+- armillaria-gallica

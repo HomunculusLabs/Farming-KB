@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -39,10 +40,10 @@ walls thicker and more rigid.
 ## Benefits of Silicon Supplementation
 
 Adequate and soluble silicon guarantees stronger cell walls that resist
-pest attacks and increase heat and drought tolerance. Specific benefits
+pest attacks and increase heat and [[dighton-fungal-drought-tolerance-plant-water-relations]]. Specific benefits
 include:
 
-- **Structural Strength**: Silicon-strengthened stems and branches are
+- **[[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]]**: Silicon-strengthened stems and branches are
   better able to support heavy bud development during the
   [[diatomaceous-earth-cannabis]] for details.
 
@@ -62,8 +63,8 @@ terpenoid systems, its role in plant defense indirectly affects the
 quality of the final product. Healthier, more pest-resistant plants
 produce better-quality flower with higher terpenoid and cannabinoid
 content. Silicon supplementation during the [[silica-cannabis]] - additional silica information
-- [[cervantes-pest-disease]] - pest and disease management
-- [[diatomaceous-earth-cannabis]] - silica-based pest control
+- [[cervantes-pest-disease]] - pest and [[plant-disease-management-solomon]]
+- [[diatomaceous-earth-cannabis]] - silica-based [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]
 ## Practical Considerations
 
 Successful implementation of Silicon and Silica Benefits for Cannabis requires attention to
@@ -82,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

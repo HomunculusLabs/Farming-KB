@@ -10,7 +10,7 @@ sources:
 
 # Cardiovascular Herbs
 
-Cardiovascular herbs support heart function, improve circulation, regulate blood pressure, modulate cholesterol levels, and strengthen blood vessels. Heart disease remains the leading cause of death globally, and herbal medicine offers a rich tradition of cardiovascular support that complements conventional cardiology. Many cardiovascular herbs have been used for centuries and are now supported by modern clinical research.
+Cardiovascular herbs support heart function, improve circulation, regulate blood pressure, modulate cholesterol levels, and strengthen blood vessels. Heart disease remains the leading cause of death globally, and herbal medicine offers a rich tradition of cardiovascular support that complements conventional cardiology. Many cardiovascular herbs have been used for centuries and are now supported by modern [[hofmann-lsd-clinical-research-early-studies]].
 
 ## Herbs for Blood Pressure Regulation
 
@@ -18,9 +18,9 @@ High blood pressure (hypertension) is a major risk factor for heart disease, str
 
 Hawthorn (Crataegus monogyna, C. oxyacantha) is the most important cardiovascular herb in Western herbalism. It has been used for heart conditions since the first century CE and is extensively researched. Hawthorn's flavonoids and oligomeric procyanidins (OPCs) improve coronary blood flow, strengthen the heart muscle, and have mild ACE-inhibitor-like activity that helps lower blood pressure.
 
-Hawthorn is a gentle, long-term cardiovascular tonic rather than a fast-acting remedy. Significant effects typically develop over four to twelve weeks of consistent use. It is safe for most people when used at standard doses and has minimal drug interactions compared to conventional cardiovascular medications. The berries, leaves, and flowers all have medicinal value, with the berries being the most commonly used part.
+Hawthorn is a gentle, long-term cardiovascular tonic rather than a fast-acting remedy. Significant effects typically develop over four to twelve weeks of consistent use. It is safe for most people when used at standard doses and has minimal [[cannabis-drug-interactions-and-contraindications]] compared to conventional cardiovascular medications. The berries, leaves, and flowers all have medicinal value, with the berries being the most commonly used part.
 
-Garlic (Allium sativum) has well-documented blood pressure-lowering effects. A meta-analysis of clinical trials found that garlic preparations can reduce systolic blood pressure by approximately five to eight millimeters of mercury in hypertensive patients. Garlic's allicin and other sulfur compounds promote vasodilation by increasing nitric oxide production. The Cannabis Health Index documents Japanese research suggesting that garlic powder tablets produce improved cardiovascular outcomes.
+Garlic (Allium sativum) has well-documented blood pressure-lowering effects. A meta-analysis of [[mushroom-cancer-clinical-trials-overview]] found that garlic preparations can reduce systolic blood pressure by approximately five to eight millimeters of mercury in hypertensive patients. Garlic's allicin and other sulfur compounds promote vasodilation by increasing nitric oxide production. The [[blesching-cannabis-health-index-autoimmune-conditions]] documents Japanese research suggesting that garlic powder tablets produce improved cardiovascular outcomes.
 
 Linden (Tilia spp.) flower is a gentle hypotensive and nervine that lowers blood pressure through a combination of vasodilation and nervous system calming. Linden tea is a traditional European remedy for hypertension, especially when stress and anxiety contribute to elevated blood pressure. Its mild diuretic action also supports blood pressure reduction.
 
@@ -36,7 +36,7 @@ Artichoke leaf (Cynara scolymus) contains cynarin, which stimulates bile product
 
 Guggul (Commiphora mukul) is an Ayurvedic herb whose guggulsterone content has demonstrated lipid-lowering activity. It increases the liver's metabolism of LDL cholesterol and promotes thyroid function, which supports healthy lipid metabolism. Guggul should be used cautiously with thyroid medications and beta-blockers.
 
-Green tea (Camellia sinensis) contains catechins, particularly epigallocatechin gallate (EGCG), with antioxidant and lipid-modulating properties. Regular green tea consumption is associated with reduced cardiovascular risk in epidemiological studies. Green tea's effects on cholesterol are modest but consistent with regular consumption.
+Green tea ([[camellia-sinensis-entity]]) contains catechins, particularly epigallocatechin gallate (EGCG), with antioxidant and lipid-modulating properties. Regular green tea consumption is associated with reduced cardiovascular risk in epidemiological studies. Green tea's effects on cholesterol are modest but consistent with regular consumption.
 
 ## Herbs for Circulation and Blood Vessel Health
 
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

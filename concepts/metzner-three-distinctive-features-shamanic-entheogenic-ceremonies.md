@@ -1,7 +1,7 @@
 ---
-title: "Three Distinctive Features of Shamanic Entheogenic Ceremonies"
+title: "Three metzner three distinctive features shamanic entheogenic ceremonies of Shamanic metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti"
 source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
-topics: ["shamanism", "entheogenic ceremony", "silence", "singing",
+topics: ["shamanism", "[[shamanic-entheogenic-ceremony-structure-common-elements]]", "silence", "singing",
   "darkness", "icaros", "healing", "divination", "psychotherapy",
   "set and setting"]
 ---
@@ -63,7 +63,7 @@ consistent element across all indigenous entheogenic traditions
 and the one most often overlooked or minimized in Western
 adaptations.
 
-In Amazonian ayahuasca ceremonies, the shaman sings **icaros** —
+In [[harner-amazonian-ayahuasca-preparation-methods]] ceremonies, the shaman sings **icaros** —
 melodic songs received from the plant spirits themselves or
 transmitted through shamanic lineages. These songs have a fairly
 rapid rhythmic beat similar to the rhythmic pulse in shamanic
@@ -130,17 +130,19 @@ Western assumptions:
   anthropologists call "nonordinary reality."
 - **Spirit beings**: Contact with nonmaterial entities — animal
   spirits, plant spirits, ancestor spirits, or other nonordinary
-  beings that assist in healing and divination.
+  beings that assist in [[metzner-shamanic-healing-and-divination-paradigm]].
 
 ## Hybrid Adoption
 
 Modern hybrid therapeutic-shamanic rituals have incorporated
-all three features. Neoshamanic medicine circles use low light or
+all three features. [[metzner-neoshamanic-medicine-circles-structure-and-practice]] circles use low light or
 eye-shades, emphasize drumming or chanting over verbal processing,
 and minimize conversation during the expanded state. The talking
 staff practice — where only the person holding the staff may speak
-— bridges traditional silence with Western integration needs.
 ## See Also
+
+- [[metzner-five-experience-features-entheogenic-shamanic-practice]]
+- [[metzner-three-features-shamanic-entheogenic-ceremonies]]
 
 - [[metzner-shamanic-singing-icaros-rhythm-and-entrainment]]
 - [[metzner-hybrid-shamanic-therapeutic-rituals]]

@@ -1,5 +1,5 @@
 ---
-title: Nutrient Lockout in Cannabis
+title: cannabis-nutrient-lockout-and-ph in Cannabis
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -18,7 +18,7 @@ Nutrient lockout is a condition where one or more essential nutrients cannot be 
 
 - **Incorrect pH**: The most common cause — pH outside the optimal range changes the chemical form of nutrients
 - **Nutrient antagonism**: Excess of one nutrient makes another unavailable
-- **Salt buildup**: Toxic salt accumulation in the growing medium locks up nutrients
+- **Salt buildup**: Toxic [[jadam-salt-accumulation-in-soil]] in the growing medium locks up nutrients
 - **Chemical precipitation**: Nutrients combine into insoluble compounds
 
 ## pH-Related Lockout
@@ -37,7 +37,7 @@ Incorrect pH contributes to most serious nutrient disorders in cannabis gardens.
 
 - **Optimal pH**: 5.5-6.5
 - pH fluctuations are somewhat less critical than in soil because nutrients remain available in solution
-- Electrical conductivity (EC) is the most critical indicator of plant health and nutrient uptake in hydroponics
+- Electrical conductivity (EC) is the most critical indicator of plant health and [[plant-nutrient-uptake-mechanisms]] in hydroponics
 - When pH is too high, nutrients become unavailable even though they are present
 
 ## Nutrient Antagonism (Lockout by Excess)
@@ -102,10 +102,10 @@ Containers have very little growing medium to hold nutrients, making toxic salt 
 
 ## Diagnostic Difficulty
 
-Once a plant shows symptoms, it has already undergone severe nutritional stress. It will take time for the plant to resume vigorous growth. Indoor cannabis crops are harvested so fast that plants do not always have time to recover from nutrient imbalances. One small imbalance could cost a week of growth — more than 10% of the plant's life.
+Once a plant shows symptoms, it has already undergone severe nutritional stress. It will take time for the plant to resume vigorous growth. [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]] crops are harvested so fast that plants do not always have time to recover from nutrient imbalances. One small imbalance could cost a week of growth — more than 10% of the plant's life.
 
-Do not confuse nutrient deficiencies or toxicities with [[cannabis-pest-management-guide]] — overall plant health
-- [[humidity-cannabis-growing]] — environmental factors
+Do not confuse [[hamilton-nutrient-deficiencies-and-treatment]] or toxicities with [[cannabis-pest-management-guide]] — overall plant health
+- [[humidity-cannabis-growing]] — [[duggar-mushroom-environmental-factors-temperature-moisture-light]]
 - [[flushing-nutrients]] — flushing technique for recovery
 - [[cannabis-chemical-burn-vs-deficiency]]
 - [[cannabis-plant-stress-types-and-recovery]]

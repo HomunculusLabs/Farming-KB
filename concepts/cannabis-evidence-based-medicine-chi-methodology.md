@@ -1,8 +1,8 @@
 ---
-title: Evidence-Based Cannabis Medicine and the Cannabis Health Index Methodology
+title: Evidence-Based Cannabis Medicine and the blesching-cannabis-health-index-autoimmune-conditions Methodology
 source: uwe-blesching-the-cannabis-health-index.md
 type: concept
-tags: [cannabis, evidence-based medicine, CHI, scoring, methodology, clinical research, Cochrane]
+tags: [cannabis, evidence-based medicine, CHI, scoring, methodology, hofmann-lsd-clinical-research-early-studies, Cochrane]
 ---
 
 # Evidence-Based Cannabis Medicine and the [[uwe-blesching]]'s Cannabis Health Index (CHI) addresses this gap for
@@ -51,7 +51,7 @@ hierarchies:
 2. **Randomized controlled trials (RCTs)**: Gold standard for individual
    studies. Patients randomly assigned to treatment or control groups.
 
-3. **Controlled clinical trials without randomization**: Still controlled
+3. **Controlled [[mushroom-cancer-clinical-trials-overview]] without randomization**: Still controlled
    but assignment is not randomized, introducing potential bias.
 
 4. **Cohort and case-control studies**: Observational studies that track
@@ -97,7 +97,7 @@ The CHI goes beyond generic "cannabis helps condition X" to consider:
   report.
 
 - **Dosing considerations**: The CHI emphasizes finding individual
-  "subjective therapeutic windows" — the dose range where benefits
+  "[[cannabis-subjective-therapeutic-window-dosing]] windows" — the dose range where benefits
   outweigh side effects.
 
 ## Integration with Mind-Body Medicine

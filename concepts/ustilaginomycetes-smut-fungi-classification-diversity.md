@@ -1,5 +1,5 @@
 ---
-title: "Ustilaginomycetes - Smut Fungi Classification and Diversity"
+title: "Ustilaginomycetes - Smut guzman-allen-gartz-neurotropic-fungi-classification-system and Diversity"
 created: 2026-04-26
 tags:
   - basidiomycota
@@ -17,7 +17,7 @@ type: concept
 # Ustilaginomycetes: Smut Fungi Classification and Diversity
 
 The Ustilaginomycetes (smut fungi) are a major class within the
-phylum [[smut-fungi]] are defined by their teliospore-based life cycle. Teliospores are the defining feature of the Ustilaginomycetes.
+phylum [[smut-fungi]] are defined by their teliospore-based [[bloomfield-fungal-life-cycle-spiral-versus-circle]]. Teliospores are the defining feature of the Ustilaginomycetes.
 These diploid resting spores are typically darkly pigmented,
 thick-walled, and capable of surviving adverse environmental
 conditions for extended periods. Upon germination, teliospores
@@ -60,9 +60,9 @@ laboratory. Molecular phylogenetic methods have been
 essential for understanding relationships within the group — see [[smut-fungi]]
 - [[urediniomycetes-rust-fungi-yeastlike-relatives]]
 - [[fungal-parasites-living-plants-estimating-diversity]]
-- [[biodiversity-smut-fungi-diversity]] for species richness and distribution patterns
+- [[biodiversity-smut-fungi-diversity]] for species richness and [[guzman-global-distribution-patterns-neurotropic-fungi]]
 - [[basidiomycete-phylum-guide]] for the wider taxonomic context within Basidiomycota
-- [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] for cell wall biochemistry relevant to pathogenicity
+- [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] for [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] biochemistry relevant to pathogenicity
 ## Practical Considerations
 
 Successful implementation of Ustilaginomycetes - Smut Fungi Classification and Diversity requires attention to
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -17,14 +17,14 @@ sources:
 # Amanita verna
 
 **Amanita verna** (Bull.) Lam., commonly known as the **fool's mushroom** or **spring
-destroying angel**, is one of the most deadly poisonous mushrooms in the world. It is a member
-of the Amanita section Phalloideae and contains the same lethal amatoxins as the death cap
+[[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]**, is one of the most deadly [[palmer-poisonous-mushrooms-deadly-species]] in the world. It is a member
+of the Amanita section Phalloideae and contains the same lethal amatoxins as the [[query-how-to-identify-and-avoid-the-death-cap-amanita-phalloides]]
 ([[amanita-phalloides]], and
 molecular phylogenetic studies have shown that the two species are very closely related.
 
 However, it is generally maintained as a distinct species due to its consistently pure white
 coloration, earlier fruiting season, and subtle but consistent morphological differences. It
-is closely related to the North American destroying angel complex (amanita bisporigera,
+is closely related to the [[growing-gourmet-north-american-reishi-species]] destroying angel complex (amanita bisporigera,
 amanita virosa), which may represent a species complex with overlapping characteristics.
 
 ## Description
@@ -39,7 +39,7 @@ epithet and its common name "fool's mushroom" (so called because fools who emerg
 seeking early mushrooms are most likely to encounter it).
 
 It is found in deciduous and mixed forests, parks, gardens, and along forest edges, often in
-the same locations where edible mushroom species are sought by foragers.
+the same locations where [[bloomfield-boletus-satanus-edible-mushroom-hazards]] species are sought by foragers.
 
 ## Toxicity
 
@@ -71,7 +71,7 @@ The clinical presentation of amanita verna poisoning is identical to that of pha
    necrosis, jaundice, hepatic encephalopathy, disseminated intravascular coagulation, acute
    kidney injury, hypoglycemia, lactic acidosis, and potentially death.
 
-The mortality rate for untreated amatoxin poisoning ranges from 50% to 90%, making early
+The mortality rate for untreated [[bloomfield-amatoxin-poisoning-mechanism]] ranges from 50% to 90%, making early
 recognition and aggressive treatment critical. Even with modern medical care, the mortality
 rate in severe cases remains approximately 10 to 15 percent.
 

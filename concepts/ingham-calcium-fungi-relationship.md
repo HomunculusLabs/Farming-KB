@@ -9,7 +9,7 @@ sources:
 ---
 # Ingham — Calcium and Fungi Relationship
 
-Elaine Ingham identifies a critical but often overlooked dependency between calcium availability in soil and the presence of functional fungal biomass. Simply adding calcium amendments (lime, gypsum, eggshells) without improving soil biology is ineffective because the calcium will leach rather than becoming plant-available.
+Elaine Ingham identifies a critical but often overlooked dependency between calcium availability in soil and the presence of functional [[bioremediation-fungal-biomass-biosorbent-material]]. Simply adding calcium amendments (lime, gypsum, eggshells) without improving soil biology is ineffective because the calcium will leach rather than becoming plant-available.
 
 ## The Problem: Calcium Without Biology
 
@@ -24,11 +24,11 @@ The calcium cycle in soil depends on organisms that hold, process, and release c
 ## The Biological Calcium Pathway
 
 Calcium becomes plant-available through several biological mechanisms:
-1. **Mycorrhizal fungi** absorb calcium from soil solution and deliver it directly to plant roots in exchange for carbon
+1. **[[arbuscular-mycorrhizal-fungi-biology-symbiosis]]** absorb calcium from soil solution and deliver it directly to plant roots in exchange for carbon
 2. **Fungal hyphae** physically hold calcium on and within their cell walls
 3. **Protozoa** release calcium when consuming calcium-containing bacteria
-4. **Microarthropods** fragment calcium-rich organic matter, making it accessible to decomposers
-5. **Bacteria** solubilize calcium from mineral sources through acid production
+4. **Microarthropods** fragment calcium-rich [[hamilton-composting-and-organic-matter-management]], making it accessible to decomposers
+5. **Bacteria** solubilize calcium from mineral sources through [[staycare-fungal-organic-acid-production-metal-leaching]]
 
 Without adequate levels of protozoa, nematodes, microarthropods, and/or mycorrhizal fungi, calcium may remain locked in fungal biomass instead of being transferred to the plant.
 
@@ -70,7 +70,7 @@ When applying AACT to calcium-deficient soils:
 ## See Also
 
 - [[ingham-chelation-microbial-nutrient-processing]]
-- [[mycorrhizal-fungi-in-aact]]
+- mycorrhizal-fungi-in-aact
 - [[ingham-glomalin-biological-soil-glues]]
 - [[ingham-field-guide-overview]]
 ## Practical Considerations
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

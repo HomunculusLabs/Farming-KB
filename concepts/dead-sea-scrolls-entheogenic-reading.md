@@ -1,5 +1,5 @@
 ---
-title: Dead Sea Scrolls and Entheogenic Readings
+title: Dead dead sea scrolls entheogenic reading and Entheogenic Readings
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -10,9 +10,9 @@ sources:
 # Dead Sea Scrolls and Entheogenic Readings
 
 The Dead Sea Scrolls, discovered in caves near Qumran beginning in 1947, have
-inspired various entheogenic interpretations, most notably by John Allegro in [The Sacred Mushroom and the Cross
+inspired various entheogenic interpretations, most notably by [[john-allegro]] in [The [[allegro-the-sacred-mushroom-amanita-identification]] and the Cross
 (1970). These readings propose that the Jewish sect responsible for the Scrolls
-used psychoactive substances, particularly the [fly-agaric mushroom, in their religious practices.
+used psychoactive substances, particularly the [[fly-agaric]] mushroom, in their religious practices.
 
 ## Allegro's Role with the Scrolls
 
@@ -119,5 +119,5 @@ the interpretation of Jewish law.
 ## See Also
 
 - [[sacred-mushroom-and-the-cross]] - Allegro's full argument
-- [[amanita-in-ancient-religion]] - Ancient Near Eastern fertility religion
+- organized religion - [[allegro-fertility-philosophy-of-the-ancient-near-east]] Eastern fertility religion
 - [[allegro-soma-mushroom-thesis]] - Allegro's broader thesis

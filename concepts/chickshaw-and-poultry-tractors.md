@@ -9,14 +9,14 @@ sources: []
 
 # Chickshaw and Poultry Tractors
 
-A poultry tractor (or chicken tractor) is a mobile coop without a floor that is moved regularly to fresh pasture, allowing chickens to forage on grass, weeds, seeds, and insects while fertilizing the ground. A chickshaw is a specific type of poultry tractor designed as a lightweight, cart-style coop on wheels that can be easily towed or pushed by hand.
+A poultry tractor (or [[comparison-chicken-tractor-vs-free-range]]) is a mobile coop without a floor that is moved regularly to fresh pasture, allowing chickens to forage on grass, weeds, seeds, and insects while fertilizing the ground. A chickshaw is a specific type of poultry tractor designed as a lightweight, cart-style coop on wheels that can be easily towed or pushed by hand.
 
 ## Benefits of Mobile Poultry Housing
 
 -  **Fresh forage daily** — Chickens access fresh grass, clover, insects, and seeds, reducing feed costs by 10-30%
 -  **Fertilization** — Manure is distributed evenly across the pasture rather than concentrating in one area
 -  **Pasture improvement** — Chickens scratch and disturb the soil surface, incorporating manure and reducing thatch. Followed by a rest period, the area recovers with improved fertility
--  **Pest control** — Chickens consume ticks, grasshoppers, beetle larvae, and other pests in the pasture
+-  **[[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]** — Chickens consume ticks, grasshoppers, beetle larvae, and other pests in the pasture
 -  **Reduced disease** — Fresh ground reduces parasite load and disease transmission compared to fixed runs
 -  **No litter management** — No deep bedding to muck out; manure goes directly onto pasture
 
@@ -84,7 +84,7 @@ The key to success with poultry tractors is regular, systematic movement.
 
 - Rest each paddock for at least 30 days before chickens return
 - 60-90 days of rest is ideal for full pasture recovery
-- Rotate with other livestock (cattle, sheep) — chickens follow grazers and break up manure patties while consuming fly larvae
+- Rotate with other livestock (cattle, sheep) — chickens follow grazers and break up manure patties while consuming [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]]
 - A simple rotation through 30+ paddocks allows continuous daily moves with adequate rest
 
 ### Stocking Density
@@ -105,7 +105,7 @@ Mobile coops are more vulnerable to predators than fixed coops with concrete flo
 
 ## Seasonal Considerations
 
-- **Summer** — Ensure adequate ventilation. Shade cloth over part of the wire area reduces heat stress. Move to areas with shade trees during midday.
+- **Summer** — Ensure adequate ventilation. Shade cloth over part of the wire area reduces [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]]. Move to areas with shade trees during midday.
 - **Winter** — Add a tarp or plastic cover to block wind and retain heat. Reduce move frequency (stationary with deep bedding if ground is frozen). Supplement light to maintain egg production — 14-16 hours of light per day.
 - **Wet seasons** — Move to higher ground or well-drained areas. Wet conditions increase parasite load and foot problems. Add a wooden floor panel if the ground is consistently muddy.
 

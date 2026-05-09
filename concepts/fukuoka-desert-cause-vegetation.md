@@ -1,11 +1,12 @@
 ---
-title: Fukuoka Desert Cause and Vegetation
+title: Fukuoka fukuoka desert cause vegetation and Vegetation
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka Desert Cause and Vegetation
 
@@ -43,16 +44,16 @@ Since everyone assumes vegetation disappears because of a lack of water, reveget
 - It addresses results rather than causes
 - It is only marginally effective
 - Countless examples in Egypt and elsewhere demonstrate frequent failure
-- Irrigation often ends in failure on account of salt buildup in irrigated fields
+- Irrigation often ends in failure on account of [[cervantes-salt-buildup-leaching-management]] in irrigated fields
 - It represents the "throwaway" use of land
 
 ## The Pivot Farm as Symbol
 
-The pivot farm is described as a fitting symbol of American agriculture's destructive approach: a mammoth sprinkler system a half-mile long rotates about a circular field, continuously sprinkling water drawn from depths of hundreds of feet. After 5-6 years of salt accumulation on the soil surface, the system is moved to adjoining land and the abandoned land becomes a true desert.
+The pivot farm is described as a fitting symbol of [[fukuoka-american-agriculture-fields-of-death]]'s destructive approach: a mammoth sprinkler system a half-mile long rotates about a circular field, continuously sprinkling water drawn from depths of hundreds of feet. After 5-6 years of [[jadam-salt-accumulation-in-soil]] on the soil surface, the system is moved to adjoining land and the abandoned land becomes a true desert.
 
 ## The Real Solution: Seed Scattering
 
-Fukuoka's approach begins with a large-scale aerial seeding:
+Fukuoka's approach begins with a large-scale [[clay-seed-pellet-composition-and-aerial-seeding-method]]:
 
 1. Scatter the seeds of many different kinds of grasses, trees, and vegetables for greening the deserts from airplanes
 2. Mix together the seeds of many different vegetables and green manure plants, and scatter the mixture over the land
@@ -66,7 +67,7 @@ If cactuses grow on arid land, then other succulents will grow there as well. St
 
 ## The Acacia Tree Lesson
 
-The seeds that fall below a single old black wattle tree number in the hundreds of thousands, even millions. But very often no more than one or two saplings will grow. The chances for survival are perhaps one in ten thousand, or one in a hundred thousand. Most seeds disappear -- eaten by birds, stashed away by mice, or carried off by ants. Yet this is not waste in the eyes of nature. The survival of just those few seedlings is part of the natural ecological process.
+The seeds that fall below a single old [[fukuoka-black-wattle-fertilizer-tree-method]] tree number in the hundreds of thousands, even millions. But very often no more than one or two saplings will grow. The chances for survival are perhaps one in ten thousand, or one in a hundred thousand. Most seeds disappear -- eaten by birds, stashed away by mice, or carried off by ants. Yet this is not waste in the eyes of nature. The survival of just those few seedlings is part of the natural ecological process.
 
 ## Man and Domestic Animals as Enemies of the Land
 

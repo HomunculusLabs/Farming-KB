@@ -1,5 +1,5 @@
 ---
-title: Growing Perennial Flowers Organically
+title: Growing hamilton perennial flowers organic Organically
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -18,7 +18,7 @@ Perennials are plants with soft stems that generally die down every winter and p
 Perennials are confusingly sold under many names: "herbaceous perennials," "herbaceous plants," "hardy plants," "hardy perennials," and "hardy herbaceous perennials" -- they are all the same thing. Half-hardy perennials are merely perennials that need to spend the winter indoors.
 
 The plants you choose will be governed by the soil type and aspect of your border, but try to include as varied a selection as possible. Consider:
-- Flowering season (plan for color from early spring through late fall)
+- Flowering season (plan for color from [[coleman-overwintered-onions-and-early-spring-crops]] through late fall)
 - Height and spread at maturity (think 10 years ahead)
 - Color scheme and combinations
 - Sun or shade requirements
@@ -46,7 +46,7 @@ If you have a large area to fill, plant in groups of three to five to create blo
 
 ### Feeding
 
-General border feeding should be sufficient to maintain perennials. If you can provide an annual mulch of well-rotted manure or compost, they will require little more. If not, give the whole border a dressing of blood, fish, and bone meal in early spring, and a dressing of kelp meal once every three years.
+General border feeding should be sufficient to maintain perennials. If you can provide an annual mulch of well-rotted manure or compost, they will require little more. If not, give the whole border a dressing of blood, fish, and bone meal in early spring, and a dressing of [[comparison-kelp-meal-vs-rock-dust]] once every three years.
 
 ### Watering
 

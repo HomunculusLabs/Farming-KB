@@ -22,17 +22,17 @@ sources:
 
 ## Overview
 
-*Filipendula ulmaria*, commonly known as meadowsweet, is a perennial herbaceous plant in the family Rosaceae native to Europe and Western Asia. It is one of the most historically significant medicinal plants in European herbalism, renowned as a natural source of salicylic acid precursors — the compounds that inspired the synthesis of aspirin in 1897. The species name *ulmaria* refers to elm-like leaves, while *Filipendula* derives from *filum pendens* ("hanging thread"), describing the pendulous root tubers. Meadowsweet grows prolifically in damp meadows and riverbanks, making it useful for both [[bacillus-subtilis]]*, and *[[companion-planting]]:** Attracts beneficial predatory insects (parasitic wasps, lacewings) when grown alongside fruit trees and berry bushes in food forests
-- **Phytoremediation:** Demonstrated ability to accumulate moderate levels of heavy metals
-- **Medicinal hedgerow:** Useful component of medicinal herb strips in permaculture designs
-- **Ground cover:** Dense foliage provides weed suppression in moist areas
+*Filipendula ulmaria*, commonly known as meadowsweet, is a perennial herbaceous plant in the family Rosaceae native to Europe and Western Asia. It is one of the most historically significant medicinal plants in European herbalism, renowned as a natural source of [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]] precursors — the compounds that inspired the synthesis of aspirin in 1897. The species name *ulmaria* refers to elm-like leaves, while *Filipendula* derives from *filum pendens* ("hanging thread"), describing the pendulous root tubers. Meadowsweet grows prolifically in damp meadows and riverbanks, making it useful for both [[bacillus-subtilis]]*, and *[[companion-planting]]:** Attracts beneficial predatory insects (parasitic wasps, lacewings) when grown alongside fruit trees and berry bushes in food forests
+- **Phytoremediation:** Demonstrated ability to accumulate moderate levels of [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]
+- **Medicinal hedgerow:** Useful component of [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]] strips in permaculture designs
+- **[[fukuoka-citrus-orchard-ground-cover-cultivation]]:** Dense foliage provides weed suppression in moist areas
 
 ## Cultivation
 
 - **Propagation:** Seed (stratification: 4-6 weeks cold, moist at 4°C); division in spring or autumn; softwood cuttings in early summer
 - **Spacing:** 45-60 cm between plants
 - **Requirements:** Moderate to high water (does not tolerate drought); full sun to partial shade; consistent moisture essential
-- **Harvest:** Flowering tops at peak bloom (June–July); dry below 40°C to preserve volatile compounds
+- **Harvest:** Flowering tops at peak bloom (June–July); dry below 40°C to preserve [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]
 - **Yield:** 1-2 kg dried herb per m² of established planting
 
 ## Historical Significance
@@ -63,7 +63,7 @@ pharmacologically consequential plants in modern medicine.
 - **Topical application:** Compresses of strong infusion for minor wounds,
   skin inflammation, or joint pain; poultice of fresh leaves for insect
   bites
-- **Cosmetic use:** Floral water (hydrosol) from steam distillation used
+- **Cosmetic use:** Floral water (hydrosol) from [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] used
   as a facial toner and skin soother; the astringent and anti-
   inflammatory properties make it suitable for acne-prone skin
 - **Combination formulas:** Commonly combined with willow bark
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

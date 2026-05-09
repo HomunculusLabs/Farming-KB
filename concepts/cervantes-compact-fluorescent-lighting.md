@@ -1,5 +1,5 @@
 ---
-title: Compact Fluorescent Lighting for Cannabis
+title: cervantes compact fluorescent lighting Lighting for Cannabis
 created: 2026-04-28
 tags:
   - cannabis
@@ -10,16 +10,17 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Compact Fluorescent Lighting for Cannabis
 
 Compact fluorescent lamps (CFLs) and fluorescent tubes remain
-practical lighting options for specific stages of cannabis
+practical lighting options for specific [[query-what-are-the-stages-of-cannabis-growth]]
 cultivation. Jorge Cervantes details their applications, limitations,
-and the science behind fluorescent light spectrum and efficiency.
+and the science behind fluorescent [[cannabis-light-spectrum-and-color-bands]] and efficiency.
 
 ## Fluorescent Lamp Types
 

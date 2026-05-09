@@ -10,13 +10,13 @@ sources:
 
 updated: 2026-04-18
 
-Cannabis and cannabinoids show promise for diabetes management through multiple mechanisms including blood sugar regulation, diabetic neuropathy relief, retinopathy prevention, and immune modulation. The [[cannabis-endocannabinoid-system]]
+Cannabis and cannabinoids show promise for diabetes management through multiple mechanisms including blood sugar regulation, diabetic neuropathy relief, retinopathy prevention, and [[cancer-immune-modulation-mechanisms]]. The [[cannabis-endocannabinoid-system]]
 - [[cannabis-for-chronic-pain]]
 - [[cannabis-neuroprotection]]
 
 ## Source
 
-Blesching, U. (2015). *The Cannabis Health Index*. Chapter IV: "Diabetes." North Atlantic Books.
+Blesching, U. (2015). *The [[blesching-cannabis-health-index-autoimmune-conditions]]*. Chapter IV: "Diabetes." North Atlantic Books.
 
 ## Related
 
@@ -98,4 +98,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

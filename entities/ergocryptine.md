@@ -22,8 +22,8 @@ sources:
 ## Overview
 
 Ergocryptine is an ergopeptine alkaloid of the ergot alkaloid family,
-produced by the sclerotia of *Claviceps purpurea* and related fungi.
-It is a cyclic tripeptide derivative of lysergic acid, classified
+produced by the sclerotia of *[[bloomfield-ergot-claviceps-purpurea-ergotism]]* and related fungi.
+It is a cyclic tripeptide derivative of [[ergot-and-lysergic-acid-history]], classified
 structurally as an ergoline.
 
 Ergocryptine exists in two epimeric forms: α-ergocryptine and
@@ -53,7 +53,7 @@ The ergocryptine molecule consists of three structural domains:
 
 1. **Tetracyclic ergoline ring system** — the pharmacophore shared by all
    ergot alkaloids, containing the D-ring indole moiety responsible for
-   receptor binding
+   [[tihkal-receptor-binding-serotonin]]
 2. **Cyclol bridge** — linking the tripeptide chain to the ergoline at C-8,
    forming the characteristic bicyclic peptide ring of ergopeptines
 3. **Tripeptide moiety** — composed of L-alanine, L-proline, and

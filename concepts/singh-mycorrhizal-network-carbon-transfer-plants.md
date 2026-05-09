@@ -16,11 +16,11 @@ type: concept
 
 # Mycorrhizal Network Carbon Transfer Between Plants
 
-Common mycorrhizal networks (CMNs), sometimes called mycelial networks
+Common mycorrhizal networks (CMNs), sometimes called [[fungal-mycelial-networks-nutrient-translocation]]
 or wood-wide webs, are hyphal connections formed by arbuscular or
 ectomycorrhizal fungi that simultaneously link the roots of multiple
 plants. Through these networks, carbon compounds can move between
-individual plants, creating belowground pathways for resource sharing that
+individual plants, creating belowground pathways for [[mycelial-network-resource-sharing-plants]] that
 influence plant community dynamics, seedling establishment, and ecosystem
 function. Singh's discussion of CMNs connects to broader themes of
 [[singh-fungal-plant-growth-promoting-mechanisms]].
@@ -71,7 +71,7 @@ shaded, defoliated, stressed, or young plants act as sinks. The fungal
 network mediates this transfer: carbon enters the mycelium from source
 roots and is translocated through hyphal streaming toward sinks. Sink
 strength is influenced by the root's demand for carbohydrates and the
-fungal partner's allocation patterns. Environmental factors such as light
+fungal partner's allocation patterns. [[duggar-mushroom-environmental-factors-temperature-moisture-light]] such as light
 availability, nutrient status, and herbivory pressure modulate sink
 strength and thus the direction and magnitude of interplant transfer.
 
@@ -83,7 +83,7 @@ plants. In ectomycorrhizal forests, seedlings connected to mature trees
 through CMNs receive carbon subsidies that improve their survival during
 the critical establishment phase when their own photosynthetic capacity
 is limited. The seedlings also gain access to the established mycorrhizal
-fungal community, accelerating their own mycorrhizal colonization.
+fungal community, accelerating their own [[arbuscular-mycorrhizal-colonization-patterns]].
 This facilitation mechanism may explain why certain tree species show
 strong positive canopy-seedling associations and may contribute to the
 maintenance of species diversity in mixed forests.
@@ -115,7 +115,7 @@ and climate change.
 Emerging evidence suggests that CMNs may facilitate kin selection. Plants
 connected through CMNs tend to transfer more carbon to genetically
 related individuals than to unrelated neighbors. This kin recognition
-may operate through chemical signals in root exudates or through fungal
+may operate through [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] in root exudates or through fungal
 discrimination among host genotypes. If confirmed, this mechanism would
 add a layer of biological complexity to our understanding of plant
 community structure and cooperation.
@@ -124,7 +124,7 @@ community structure and cooperation.
 
 Studying CMNs in natural settings presents methodological challenges.
 Common approaches include mesocosm experiments with partitioned root
-systems, isotope tracing, and molecular identification of fungal
+systems, isotope tracing, and [[biodiversity-fungal-molecular-identification-dna-barcoding]] of fungal
 genets. In situ studies increasingly use microdialysis, DNA-based
 network mapping, and in-growth mesh bags. A persistent limitation is
 distinguishing carbon transfer through the fungal network from carbon
@@ -132,6 +132,9 @@ release into soil and subsequent uptake by neighboring roots.
 
 ## See Also
 
+- [[plants-without-mycorrhizal-associations]]
+
 - [[singh-fungal-plant-growth-promoting-mechanisms]]
-- [[singh-ectomycorrhizal-morphotype-identification]]
+- singh-ectomycorrhizal-morphotype-identification
 - [[mycoremediation-pahs]]
+- [[singh-mycorrhizal-network-chemical-signaling-plants]]

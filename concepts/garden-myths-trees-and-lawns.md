@@ -38,11 +38,11 @@ A related myth is that during drought, trees simply grow deeper roots to access 
 - **Water broadly and slowly** under the entire canopy to reach the root plate
 - **Mulch** to conserve soil moisture and protect feeder roots
 - **Avoid fertilization** during drought: Fertilizer stimulates canopy growth that the compromised root system cannot support
-- **Prioritize young trees**: Established mature trees have larger root systems and greater drought tolerance than recently planted trees
+- **Prioritize young trees**: Established mature trees have larger root systems and greater [[dighton-fungal-drought-tolerance-plant-water-relations]] than recently planted trees
 
 ## Myth: Grass Clippings Cause Thatch Buildup
 
-Thatch is a layer of partially decomposed organic matter between the soil surface and the green grass blades. Many gardeners believe that leaving grass clippings on the lawn causes thatch to build up to harmful levels.
+Thatch is a layer of partially decomposed [[hamilton-composting-and-organic-matter-management]] between the soil surface and the green grass blades. Many gardeners believe that leaving grass clippings on the lawn causes thatch to build up to harmful levels.
 
 ### What the Evidence Shows
 
@@ -62,7 +62,7 @@ The conventional American lawn maintenance regime (weekly mowing, frequent irrig
 - **Appropriate [[psychedelic-research-legal-history-united-states]]**: Approximately 40 million acres of lawn
 - **Pesticide and fertilizer runoff** from lawns is a significant source of water pollution
 - **Gas-powered lawn equipment** produces approximately 5% of US air pollution
-- **Consider alternatives**: Where appropriate, replace portions of lawn with native meadow, ground covers, food gardens, or low-maintenance landscape plantings
+- **Consider alternatives**: Where appropriate, replace portions of lawn with native meadow, [[permaculture-plants-food-forest-ground-covers-bamboos]], food gardens, or low-maintenance landscape plantings
 
 ## Myth: Newly Planted Trees Need to Be Staked
 
@@ -89,7 +89,7 @@ Staking is so common that many people assume it is always necessary. In fact, un
 If staking is necessary:
 - Use flexible ties that allow trunk movement
 - Place stakes low (6-12 inches above ground) to allow the upper trunk and canopy to move freely
-- Remove stakes after one growing season (maximum two seasons)
+- Remove stakes after one [[savory-growing-season-and-non-growing-season-management]] (maximum two seasons)
 - Never leave staking materials in place permanently -- they will girdle the tree
 
 ## Myth: Tree Roots and Lawns Are Naturally Compatible
@@ -118,7 +118,7 @@ When a tree appears stressed (yellowing leaves, dieback, sparse canopy), a commo
 
 - **Fertilizer stimulates growth, not recovery**: If a tree is stressed from drought, root damage, compacted soil, or disease, adding nitrogen fertilizer stimulates the canopy to grow without addressing the underlying cause. The tree expends limited energy reserves on new foliage it cannot support
 - **Root stress means inability to take up nutrients**: Compacted, waterlogged, or drought-stressed roots cannot efficiently absorb nutrients. Applied fertilizer may simply accumulate in the soil, potentially causing salt damage
-- **Diagnostic first**: Before fertilizing, diagnose the actual cause of stress. A soil test, root inspection, and site assessment will reveal whether nutrient deficiency is actually the problem (it rarely is)
+- **Diagnostic first**: Before fertilizing, diagnose the actual cause of stress. A soil test, root inspection, and [[mollison-designers-design-client-interview-and-site-assessment-process]] will reveal whether [[cannabis-grow-nutrient-deficiency-problem-solving]] is actually the problem (it rarely is)
 
 ### When Fertilization IS Appropriate
 

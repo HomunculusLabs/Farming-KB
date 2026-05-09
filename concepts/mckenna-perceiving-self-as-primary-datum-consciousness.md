@@ -1,5 +1,5 @@
 ---
-title: The Perceiving Self as Primary Datum in McKenna's Philosophy of Consciousness
+title: The decentralizing-bender-perceiving-self-primary-datum-mckenna as Primary Datum in McKenna's Philosophy of Consciousness
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -12,14 +12,14 @@ sources:
 
 ## Overview
 
-In the later sections of his 1983 Esalen lecture on tryptamine hallucinogens
+In the later sections of his 1983 Esalen lecture on [[mckenna-tryptamine-hallucinogens-and-consciousness]]
 and consciousness, Terence McKenna articulated a philosophical position that
 inverts the Copernican trajectory of modern Western thought. Against five
 centuries of progressive decentralization — which removed the Earth from the
 center of the cosmos and humanity from the center of creation — McKenna argued
 that the perceiving self should be reconstituted as the primary datum of
 reality. Drawing on Alfred North Whitehead's process philosophy and the
-quantum mechanical concept of wave function collapse, McKenna proposed that
+[[mckenna-quantum-mechanical-correlates-hallucinogenesis]] concept of wave function collapse, McKenna proposed that
 "everything should be constellated outward from the perceiving self," making
 conscious experience rather than objective matter the foundation of being.
 
@@ -81,7 +81,7 @@ that we inherit from our past," but insisted that the tryptamine experience
 provided empirical evidence for its validity. The phenomenological content
 of the DMT and psilocybin states — the encounter with hyperdimensional
 entities, the access to apparently transpersonal information, the experience
-of transtemporal eternity — cannot be adequately explained within a
+of [[mckenna-tryptamine-transtemporal-eternity-and-nunc-stans]] — cannot be adequately explained within a
 materialist framework that treats consciousness as an epiphenomenon of
 brain activity. The fact that these dimensions "exist" — in the sense that
 they are reliably experienced by competent observers under controlled
@@ -105,7 +105,7 @@ complex matter but a fundamental feature of reality itself. The "formality
 of actually occurring" is the moment at which potentiality becomes actuality,
 and consciousness is the agency through which this transition occurs.
 McKenna's appropriation of this concept for his argument about the primacy
-of the perceiving self suggests that the psychedelic experience provides
+of the perceiving self suggests that the [[leary-psychedelic-experience-bardo-mapping]] provides
 a direct, phenomenological confirmation of what Whitehead arrived at
 through philosophical reasoning.
 
@@ -129,7 +129,7 @@ reality that are inaccessible through ordinary modes of perception.
 
 ## See Also
 
-- [[mckenna-human-cerebral-cortex-density-and-perceiving-self-primary-datum]]
+- mckenna-human-cerebral-cortex-density-and-perceiving-self-primary-datum
 
 - [[hyperspace-logos-consciousness]] — McKenna's broader consciousness framework
 - [[mckenna-exteriorization-soul-translinguistic-matter]] — exteriorization of soul

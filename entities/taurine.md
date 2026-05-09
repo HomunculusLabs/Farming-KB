@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Schaffer S., Kim H.W. (2018). "Regulation of glutamate homeostasis by taurine." Advances in Experimental Medicine and Biology.
-  - Oudit G.Y. et al. (2003). "Taurine supplementation reduces oxidative stress and improves cardiovascular function." Circulation.
+  - Oudit G.Y. et al. (2003). "Taurine supplementation reduces [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] and improves cardiovascular function." Circulation.
   - El Idrissi A. (2008). "Taurine improves learning and retention in age-related memory decline." Neurochemical Research.
   - Ripps H., Shen W. (2012). "Review: taurine: a very essential amino acid." Molecular Vision.
   - Spitze A.R. et al. (2010). "Selected vitamins, A, C, E, and beta-carotene, taurine, L-carnitine." Journal of Animal Science.
@@ -21,7 +21,7 @@ created: 2026-04-28
 
 ## Overview
 
-**Taurine**, or 2-aminoethanesulfonic acid (C2H7NO3S), is an organic acid and one of the most abundant free amino acids in the human body.
+**Taurine**, or 2-aminoethanesulfonic acid (C2H7NO3S), is an [[fungal-organic-acid-metal-solubilization]] and one of the most abundant free amino acids in the human body.
 
 Despite its common classification as an amino acid, taurine is technically an amino sulfonic acid — it contains a sulfonic acid group rather than a carboxylic acid group.
 
@@ -57,7 +57,7 @@ Taurine conjugates with bile acids to form taurocholic acid, which is essential 
 
 Typical dietary intake ranges from 40–400 mg/day, with higher intake in populations consuming seafood and meat.
 
-Supplementation doses commonly range from 500–3,000 mg/day, with studies using up to 6,000 mg/day without significant adverse effects.
+Supplementation doses commonly range from 500–3,000 mg/day, with studies using up to 6,000 mg/day without significant [[blesching-cannabis-safety-adverse-effects-evidence]].
 
 The European Food Safety Authority established a NOAEL (No Observed Adverse Effect Level) of 1,000 mg/kg body weight per day.
 
@@ -65,7 +65,7 @@ Reported subjective effects at typical doses include mild calming, improved focu
 
 At higher doses (3,000–6,000 mg), some users report enhanced exercise performance and reduced muscle soreness post-exercise.
 
-Taurine is not psychoactive in the classical sense and does not produce euphoria, hallucinations, or altered states of consciousness.
+Taurine is not psychoactive in the classical sense and does not produce euphoria, hallucinations, or [[weil-the-natural-mind-altered-states-normalcy]] of consciousness.
 
 ## Dietary Sources and Deficiency
 
@@ -89,7 +89,7 @@ The combination of taurine with caffeine in energy drinks appears to have synerg
 
 Global taurine production exceeds 200,000 metric tons annually, with the majority synthesized chemically from ethylene oxide and sodium bisulfite.
 
-The synthetic production method was developed in the 1930s and remains the primary commercial source for food and supplement manufacturing.
+The synthetic [[clay-seed-pellet-production-method-concrete-mixer]] was developed in the 1930s and remains the primary commercial source for food and supplement manufacturing.
 
 ## History
 
@@ -103,7 +103,7 @@ Research into taurine's cardiovascular and neuroprotective properties accelerate
 
 ## Legal Status
 
-Taurine is classified as a dietary supplement ingredient in most countries and is generally recognized as safe (GRAS) by the United States FDA.
+Taurine is classified as a dietary supplement ingredient in most countries and is generally recognized as safe (GRAS) by the [[dmt-containing-plants-united-states-halpern]] FDA.
 
 It is not a controlled substance in any jurisdiction and is freely available as an over-the-counter supplement worldwide.
 

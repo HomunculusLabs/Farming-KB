@@ -1,7 +1,7 @@
 ---
 title: Microclimate Management Techniques
 created: 2026-04-28
-tags: [[natural-farming]], microclimate, frost-protection, windbreaks, temperature-control, passive-energy]
+tags: comparison-natural-farming-vs-permaculture], microclimate, frost-protection, windbreaks, temperature-control, passive-energy]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
@@ -38,7 +38,7 @@ comes up. Understanding your region's yearly frost dates and the lowest and
 highest temperatures your plants and animals will tolerate is essential.
 
 The best way to prevent frost is to stop water vapor from condensing by keeping
-the air moving. Try not to create any blockage that would cause cold air to
+the air moving. Try not to create any blockage that would cause [[hemenway-cold-air-drainage-and-frost-management]] to
 pool in one spot. In the northern hemisphere, the north side of a slope is
 usually colder, so situate your house and gardens on the south side.
 
@@ -65,7 +65,7 @@ there is less frost near the ocean.
 Trees insulate the earth and trap heat in, preventing frost. One of the
 easiest ways to protect your gardens from frost is to create a canopy of trees
 surrounding a clearing no wider than half the height of the trees. Build this
-up over time by first planting a quick-growing fruit variety which can shelter
+up over time by first planting a quick-growing [[old-fruit-variety-selection]] which can shelter
 a frost-hardy legume species. When the frost-hardy canopy has grown, trim back
 the other trees. In very cold climates use evergreen varieties to provide
 biomass that holds in heat.
@@ -116,7 +116,7 @@ stop weeds.
 
 Plants release water vapor, cooling the air and causing humidity. Filling a
 porous earthenware pot with water and covering the top with a heavy, wet fabric
-creates a similar cooling effect. Forests absorb solar energy during the day,
+creates a similar cooling effect. Forests absorb [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] during the day,
 shading the forest floor, while cool air is drawn in. At night, warm air flows
 out.
 

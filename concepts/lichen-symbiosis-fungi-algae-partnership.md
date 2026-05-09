@@ -1,5 +1,5 @@
 ---
-title: Lichen Symbiosis Between Fungi and Algae
+title: comparison-lichen-symbiosis-vs-mycorrhizal-symbiosis Between Fungi and Algae
 created: 2026-04-28
 tags:
   - mycology
@@ -59,15 +59,15 @@ cyanobacterium such as Nostoc. Some lichens contain both green algae and
 cyanobacteria, with the cyanobacteria confined to specialized structures
 called cephalodia.
 
-Cyanobacterial partners provide an additional benefit: nitrogen fixation.
+Cyanobacterial partners provide an additional benefit: [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
 Lichens with cyanobacteria can convert atmospheric nitrogen into forms
-usable by plants, making them important contributors to nitrogen cycling
+usable by plants, making them important contributors to [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]]
 in ecosystems where nitrogen is limiting.
 
 ## Extreme Tolerance
 
 Lichens are among the most stress-tolerant organisms known. They can survive
-desiccation for extended periods, resuming metabolic activity within minutes
+desiccation for extended periods, resuming [[arbuscule-isolation-metabolic-activity-assays]] within minutes
 of rehydration. They endure extreme temperatures, from the scorching heat of
 desert rocks to the deep cold of arctic and alpine environments.
 
@@ -79,7 +79,7 @@ atmospheric pollution in a given area.
 
 ## Reproduction and Dispersal
 
-Lichens reproduce through both sexual and asexual means. Sexual reproduction
+Lichens reproduce through both sexual and asexual means. [[fungal-life-cycles-sexual-reproduction-metamorphosis]]
 involves the fungal partner producing spores in ascomata (fruiting bodies).
 These spores must encounter a compatible algal partner after dispersal to
 establish a new lichen thallus, a requirement that makes sexual reproduction
@@ -93,7 +93,7 @@ small outgrowths of the thallus that break off and establish new growth.
 
 ## Ecological Roles
 
-Lichens play critical roles in ecological succession. They are often among
+Lichens play critical roles in [[holmgren-ecological-succession-and-pulsing]]. They are often among
 the first organisms to colonize bare rock surfaces, initiating the process of
 soil formation. By producing weak acids that slowly dissolve rock minerals,
 lichens contribute to the weathering of stone surfaces and the gradual

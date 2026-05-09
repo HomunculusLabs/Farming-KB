@@ -20,7 +20,7 @@ mycoparasitic species within the genus Pythium. Unlike most Pythium
 species, which are notorious plant pathogens causing damping-off and
 root rots, P. oligandrum has evolved a primarily mycoparasitic
 lifestyle, preying on other fungi in the soil environment. This unique
-ecological role makes it a valuable biological control agent against
+ecological role makes it a valuable [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent against
 soil-borne plant diseases.
 
 The species is distinguished by its spiny oogonia and is widely
@@ -93,7 +93,7 @@ sclerotium formation (Al-Hamdani and Cooke 1983; Hoch and Fuller
 1977). The species also attacks Phytophthora cinnamomi and P.
 parasitica.
 
-Oospores are mass-produced in liquid culture and air-dried (McQuilken
+Oospores are mass-produced in [[comparison-liquid-culture-vs-grain-spawn]] and air-dried (McQuilken
 et al. 1990), then applied as a seed coating (Lutchmeah and Cooke
 1985; Martin and Hancock 1987). Seed coating ensures the biocontrol
 agent is positioned exactly where needed, in the immediate vicinity of

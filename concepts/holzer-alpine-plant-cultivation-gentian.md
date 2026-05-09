@@ -1,16 +1,17 @@
 ---
-title: Holzer Alpine Plant Cultivation and Gentian Propagation
+title: Holzer holzer alpine plant cultivation gentian and Gentian Propagation
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Alpine Plant Cultivation and Gentian Propagation
 
-Sepp Holzer's methods for cultivating alpine plants, with detailed focus on yellow gentian (Gentiana lutea) propagation. From his Practical Guide to Small-Scale Integrative Farming and Gardening.
+[[comparison-sepp-holzer-vs-biodynamic]]'s methods for cultivating alpine plants, with detailed focus on yellow gentian (Gentiana lutea) propagation. From his Practical Guide to Small-Scale Integrative Farming and Gardening.
 
 ## The Central Lesson: Observe Nature
 
@@ -49,7 +50,7 @@ The seeds get wet, warm up, and are frozen many, many times. They germinate natu
 #### Method 2: Freezer Simulation
 
 1. Place seeds in a plastic bag
-2. Mix with earth from where the parent plant grows (contains symbiotic fungi)
+2. Mix with earth from where the parent plant grows (contains [[mycelium-running-symbiotic-fungi-relationships]])
 3. Add some water
 4. Put in freezer at -10 to -15°C for several weeks
 5. Sow the seeds
@@ -108,7 +109,7 @@ Holzer criticizes conventional nature conservation:
 
 ## See Also
 
-- [[holzer-farming-philosophy]] — Holzer's farming philosophy
+- [[holzer-farming-philosophy]] — Holzer's [[cho-natural-farming-philosophy-of-non-interference]]
 - [[symbiosis-art-of-living]] — symbiotic relationships in permaculture
 - [[holzer-alpine-plant-cultivation]]
 - [[natural-farming-seed-saving]]

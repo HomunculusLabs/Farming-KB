@@ -1,5 +1,5 @@
 ---
-title: "2C-G (3,4-Dimethyl-2,5-dimethoxy-PEA) -- PIHKAL Entry #27"
+title: "2C-G (3,4-Dimethyl-2,5-dimethoxy-PEA) -- 2c-b-pihkal-entry-20 #27"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -96,14 +96,14 @@ incubate at room temperature until there was the development of a deep
 claret color with some spontaneous heating. To this, there was added
 70.8 g 2,3-dimethylanisole, and the dark reaction mixture heated on
 
-the steam bath for 2.5 h. The product was then poured into 1.7 L H2O,
+the [[scythian-cannabis-steam-bath-ritual]] for 2.5 h. The product was then poured into 1.7 L H2O,
 and stirred until there was a spontaneous crystallization. These
 
 (Additional synthesis details available in source.)
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

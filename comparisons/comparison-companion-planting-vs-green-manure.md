@@ -1,5 +1,5 @@
 ---
-title: "Companion Planting vs Green Manure"
+title: "comparison-companion-planting-reference-vs-jadam-monoculture-critique vs Green Manure"
 tags: [comparison, companion-planting, green-manure, soil-health, gardening]
 date: 2026-05-07
 updated: 2026-05-07
@@ -13,7 +13,7 @@ sources: []
 Companion planting and green manure cover crops are two foundational
 ecological gardening strategies, but they serve fundamentally different
 primary purposes. Companion planting focuses on synergistic plant
-relationships within an active growing season — pairing crops to
+relationships within an active [[savory-growing-season-and-non-growing-season-management]] — pairing crops to
 repel pests, attract pollinators, improve flavor, or share physical
 space. Green manures are plants grown primarily to feed the soil
 rather than the gardener, typically during fallow periods between
@@ -29,7 +29,7 @@ Green manures are cover crops grown specifically to improve soil
 health. They are typically planted during fallow periods — between
 seasonal cash crops, over winter, or in unused beds — and then
 incorporated into the soil or terminated as surface mulch. Leguminous
-green manures like crimson clover, hairy vetch, and field peas fix
+green manures like [[comparison-lupin-vs-crimson-clover-green-manure]], hairy vetch, and field peas fix
 atmospheric nitrogen through rhizobial symbiosis, contributing
 70-200 lbs of nitrogen per acre. Non-legume options like winter
 rye, buckwheat, and sorghum-sudangrass add massive amounts of
@@ -40,7 +40,7 @@ Green manures address soil problems at a structural level. Deep-
 rooted species like daikon radish and alfalfa break compacted layers
 and create channels for water infiltration. Dense root networks from
 annual ryegrass and cereal rye stabilize soil against erosion through
-freeze-thaw cycles and heavy rain. The organic matter returned to the
+freeze-thaw cycles and heavy rain. The [[hamilton-composting-and-organic-matter-management]] returned to the
 soil feeds microbial communities, improves water-holding capacity,
 and gradually builds humus.
 
@@ -56,7 +56,7 @@ to prevent volunteer weeds.
 | Aspect | Companion Planting | Green Manure |
 |--------|-------------------|--------------|
 | Primary Goal | Pest control, pollination, | Soil building, nutrient |
-| | yield improvement | cycling, erosion control |
+| | yield improvement | cycling, [[permplant-willows-salix-erosion-control-fodder]] |
 | Timing | During active growing | During fallow periods |
 | | season, alongside crops | between crop rotations |
 | Duration | Full season, | Weeks to months, |
@@ -107,7 +107,7 @@ Practical combinations include: planting a winter hairy vetch and
 cereal rye green manure, terminating it in spring, then interplanting
 tomatoes with basil and marigold companions into the mulched residue.
 In annual rotations, buckwheat serves as both a summer green manure
-(soil builder) and a beneficial insect attractor, blurring the line
+(soil builder) and a [[mollison-designers-insectary-plants-and-beneficial-insect-habitat]] attractor, blurring the line
 between the two strategies. In food forests, perennial green manures
 like white clover serve as living mulch beneath fruit trees while
 companion herbs like comfrey and yarrow fill the herbaceous layer.

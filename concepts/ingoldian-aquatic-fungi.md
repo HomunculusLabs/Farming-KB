@@ -1,5 +1,5 @@
 ---
-title: Ingoldian Aquatic Fungi
+title: bloomfield-ingoldian-aquatic-fungi-spore-dispersal Fungi
 created: 2026-04-28
 tags:
   - mycology
@@ -86,7 +86,7 @@ Water is a viscous medium for microscopic particles, slowing descent to
 millimeters per minute regardless of appendage presence. If appendages truly
 slowed sedimentation, elaborate spore shapes would be expected in terrestrial
 fungi too, where faster descent in air places an even greater premium on drag.
-But mushroom spores and airborne conidia are always compact, confirming that
+But [[query-how-to-store-mushroom-spores-long-term]] and airborne conidia are always compact, confirming that
 any appendage on a microscopic spore adds unwelcome mass and speeds descent.
 
 ### Search Theory
@@ -139,7 +139,7 @@ fungi.
 
 Spore formation is not restricted to submerged locations. Ingoldians also grow
 on plants that overhang creeks, entering the water during rainstorms. This
-mermaid-like life cycle explains their appearance on riparian vegetation.
+mermaid-like [[bloomfield-fungal-life-cycle-spiral-versus-circle]] explains their appearance on riparian vegetation.
 ## See Also
 
 - [[fungal-spore-dispersal]]

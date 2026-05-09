@@ -1,5 +1,5 @@
 ---
-title: Mike Madelin and The Rotten World About Us
+title: bloomfield mike madelin and the rotten world about us and The Rotten World About Us
 created: 2026-04-28
 tags:
   - mycology
@@ -41,7 +41,7 @@ the book's discussion of ascospore resilience, was similarly
 awestruck by Madelin and credits him with his own career choice.
 The conversion of multiple students to mycology through contact
 with a single teacher speaks to Madelin's exceptional ability to
-communicate the wonder of fungal biology.
+communicate the wonder of [[bloomfield-fungal-biology-and-hyphal-growth]].
 
 ## The Rotten World About Us
 
@@ -91,12 +91,12 @@ field. Before such documentaries, fungi were largely invisible
 to the general public, noticed only when they appeared as
 mushrooms after rain or as mold on bread. Time-lapse
 cinematography revealed the dynamic, almost alien world of
-fungal growth and decomposition that normally operates too
+[[brassinosteroid-fungal-growth-promotion]] and decomposition that normally operates too
 slowly or too hidden from view to be appreciated.
 
 The documentary format was particularly well suited to
 mycology because so much of fungal biology is invisible to
-the naked eye. Hyphal growth, spore release, and enzymatic
+the naked eye. [[bloomfields-orchard-hyphal-growth-and-invasive-biology]], spore release, and enzymatic
 decomposition all occur at scales or speeds that defy direct
 observation. Film technology compressed time and magnified
 scale, making the invisible visible and the slow fast. This
@@ -129,5 +129,7 @@ nourishing new growth at every point of contact.
 ## See also
 
 - [[bloomfield-curtis-gates-lloyd-pharmacist-mycologist]]
-- [[bloomfields-orchard-history-of-mycology]]
+- bloomfields-orchard-history-of-mycology
 - [[bloomfield-ingoldian-aquatic-fungi-spore-dispersal]]
+## See Also
+- [[decomposition]]

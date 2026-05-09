@@ -36,7 +36,7 @@ rosemary, tea tree, bay laurel, and basil.
 
 Widely used in medicine, dentistry, and food flavoring, eucalyptol
 is one of the most commercially important monoterpenes, valued for
-its expectorant, anti-inflammatory, and antimicrobial properties.
+its expectorant, anti-inflammatory, and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
 
 ## Chemical Properties
 
@@ -68,8 +68,8 @@ pathways:
 - **Antimicrobial:** Disrupts bacterial cell membrane integrity through
   its lipophilic properties. Active against gram-positive bacteria
   (*Streptococcus*, *Staphylococcus*), some gram-negative species,
-  and *Candida albicans*.
-- **Mucolytic:** Reduces surface tension of respiratory mucus,
+  and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*.
+- **Mucolytic:** Reduces [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] of respiratory mucus,
   facilitating expectoration and improving airway clearance.
 
 ### Clinical Applications
@@ -118,8 +118,8 @@ children under 6. Topical application is generally well tolerated.
 - **Food and beverage:** Flavoring agent for confectionery, beverages,
   and meat products
 - **Perfumery:** Fixative and fresh top-note in fragrances and soaps
-- **Agriculture:** Natural pesticide and repellent; eucalyptus oil
-  sprays deter aphids and whiteflies in organic farming
+- **Agriculture:** [[jadam-natural-pesticide-institute-and-research]] and repellent; eucalyptus oil
+  sprays deter aphids and whiteflies in [[coleman-deep-organic-farming-philosophy]]
 - **Permaculture:** Eucalyptus species planted as windbreaks yield
   pruning material rich in eucalyptol for mulch and extraction
 
@@ -132,7 +132,7 @@ children under 6. Topical application is generally well tolerated.
 - **Alpha-pinene:** Primary monoterpene in many eucalyptus species;
   precursor in eucalyptol biosynthesis
 - **1,4-Cineole:** Structural isomer with distinct pharmacological
-  activity and more limited natural occurrence
+  activity and more limited [[brassinosteroid-natural-occurrence-plant-kingdoms]]
 
 ## See Also
 

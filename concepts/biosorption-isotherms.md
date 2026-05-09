@@ -1,5 +1,5 @@
 ---
-title: Biosorption Isotherms and Equilibrium Modeling
+title: singh-fungal-biosorption-isotherms-equilibrium-models and Equilibrium Modeling
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -13,7 +13,7 @@ Biosorption isotherms are mathematical models that describe the distribution of 
 
 These models are fundamental tools for designing and optimizing biosorption-based water treatment systems, providing quantitative relationships between contaminant concentration in solution and the amount sorbed per unit mass of biosorbent.
 
-The study of biosorption isotherms draws on principles from physical chemistry, surface science, and environmental engineering, and is central to understanding the mechanisms described in [[fungal-metal-biosorption]]. These models are essential for engineering [[fungal-bioremediation-mechanisms]] where real-world conditions deviate significantly from laboratory isotherm predictions.
+The study of biosorption isotherms draws on principles from physical chemistry, surface science, and environmental engineering, and is central to understanding the mechanisms described in fungal-metal-biosorption. These models are essential for engineering [[fungal-bioremediation-mechanisms]] where real-world conditions deviate significantly from laboratory isotherm predictions.
 
 ## Langmuir Isotherm Model
 
@@ -25,11 +25,11 @@ The Langmuir model is expressed as q = qmax * b * Cf / (1 + b * Cf), where q is 
 
 The Langmuir model works well for systems where adsorption occurs on a relatively homogeneous surface with uniform binding sites.
 
-For [[singh-chromium-bioremediation-fungi]] demonstrate how species-specific differences in cell wall chemistry affect biosorption capacity. The underlying [[fungal-bioreactor-effluent-treatment]] and [[fungal-biosorption-desorption-regeneration]] studies provide essential data for evaluating the economic viability of biosorption processes and optimizing regeneration protocols for different metal-biosorbent combinations.
+For  demonstrate how species-specific differences in [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] chemistry affect biosorption capacity. The underlying fungal-bioreactor-effluent-treatment and fungal-biosorption-desorption-regeneration studies provide essential data for evaluating the economic viability of biosorption processes and optimizing regeneration protocols for different metal-biosorbent combinations.
 - [[constructed-wetlands-wastewater-treatment]]
-- [[staycare-fungal-biosorption-of-heavy-metals]] — comprehensive review of metal biosorption capacities across fungal species
-- [[staycare-chitosan-and-fungal-biomass-derivatives-in-biosorption]] — chemical modification of fungal biomass to enhance sorption
-- [[staycare-fungal-biosorption-of-heavy-metals]] | [[staycare-chitosan-and-fungal-biomass-derivatives-in-biosorption]] | [[fungal-biosorption-mechanisms]] | [[mycoremediation-bioreactor-design]] | [[fungal-industrial-wastewater-treatment]]
+- [[staycare-fungal-biosorption-of-heavy-metals]] — comprehensive review of [[fungal-heavy-metal-biosorption-and-detoxification]] capacities across fungal species
+- [[staycare-chitosan-and-fungal-biomass-derivatives-in-biosorption]] — chemical modification of [[bioremediation-fungal-biomass-biosorbent-material]] to enhance sorption
+- [[staycare-fungal-biosorption-of-heavy-metals]] | [[staycare-chitosan-and-fungal-biomass-derivatives-in-biosorption]] | [[fungal-biosorption-mechanisms]] | mycoremediation-bioreactor-design | [[fungal-industrial-wastewater-treatment]]
 ## Practical Applications
 
 Biosorption Isotherms and Equilibrium Modeling has a range of practical applications that make it relevant to
@@ -107,4 +107,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

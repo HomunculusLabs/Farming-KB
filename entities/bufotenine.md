@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 
 # Bufotenine
 
-**Bufotenine** (5-hydroxy-N,N-dimethyltryptamine, **5-OH-DMT**) is a naturally occurring tryptamine alkaloid found in the secretions of several toad species, certain plant genera, and in trace amounts in mammalian tissues. It has a complex pharmacological history — simultaneously used as an entheogen in South American snuff traditions and historically labeled as a toxic deliriant.
+**Bufotenine** (5-hydroxy-N,N-dimethyltryptamine, **5-OH-DMT**) is a naturally occurring tryptamine alkaloid found in the secretions of several toad species, certain plant genera, and in trace amounts in mammalian tissues. It has a complex pharmacological history — simultaneously used as an entheogen in [[chiric-caspi-brunfelsia-south-american-hallucinogen]] snuff traditions and historically labeled as a toxic deliriant.
 
 ## Chemistry
 
@@ -21,7 +21,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 - Structurally identical to DMT with an additional 5-hydroxyl group; this hydroxyl dramatically changes pharmacokinetics (poor BBB penetration, rapid [[anadenanthera-peregrina]]* (yopo/cohoba seeds), *[[ibogaine]]. Analytical chemistry research has focused on distinguishing
 bufotenine from scheduled tryptamines in forensic contexts, as the compound
 occurs naturally in several commercially available plant seeds. The 2019
-rescheduling of certain toad-derived products in the United States has
+rescheduling of certain toad-derived products in the [[dmt-containing-plants-united-states-halpern]] has
 further complicated the legal landscape around bufotenine-containing
 materials.
 
@@ -113,4 +113,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

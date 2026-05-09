@@ -1,5 +1,5 @@
 ---
-title: Greywater Design Philosophy
+title: hemenway greywater design philosophy Philosophy
 created: 2026-04-26
 tags: [greywater, water, ecology, recycling, permaculture]
 date: 2026-04-25
@@ -82,7 +82,7 @@ Hemenway offers practical guidance for greywater use:
 - Greywater is a legal gray area. Check local codes before
   installing a system.
 - Avoid watering food plants directly with untreated greywater.
-  Apply it to the base of nonfood plants or fruit trees and
+  Apply it to the base of nonfood plants or [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and
   shrubs, or use subsurface irrigation with perforated leach
   lines.
 - Be careful what goes into the system. Chlorine bleach,
@@ -93,7 +93,7 @@ Hemenway offers practical guidance for greywater use:
 - Do not store greywater for more than a day or two. The
   nutrient-rich water will quickly develop unpleasant odors
   and potential health hazards.
-- Greywater is too "lumpy" for standard drip irrigation
+- Greywater is too "lumpy" for standard [[comparison-drip-irrigation-vs-passive-irrigation]]
   unless filtered. Use large-diameter hose and pipes.
 - Once greywater has been processed through a constructed
   wetland or other biological system, contaminants are
@@ -106,12 +106,15 @@ system acts as one of its organs, a sort of liver and kidneys
 that process waste and liquid. These organs are missing from
 most gardens. No one can function without kidneys; the oily
 substitute is elaborate life-support machinery like automated
-sprinklers and chemical fertilizers. Given a full complement
+sprinklers and [[cervantes-chemical-fertilizers-guide]]. Given a full complement
 of organs, a garden comes to life and resource-gobbling life-
 support systems can be withdrawn.
 
 ## See Also
 
-- [[gaias-garden-backyard-wetland-design]]
-- [[gaias-garden-rainwater-roof-harvesting]]
-- [[hemenway-soil-food-web-garden]]
+- gaias-garden-backyard-wetland-design
+- gaias-garden-rainwater-roof-harvesting
+- hemenway-soil-food-web-garden
+- [[soil-food-web]]
+- [[toby-hemenway]]
+- [[hemenway-apple-tree-guild-design]]

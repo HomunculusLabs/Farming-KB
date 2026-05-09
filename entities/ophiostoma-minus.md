@@ -31,10 +31,10 @@ wood, where [[fungal-biodiversity-forest-ecosystems]]
 - ceratocystiopsis ranaculosus - mycangial fungus beneficial to bark beetle larvae
 - dendroctonus frontalis - southern pine beetle vector
 - Entomocorticium - mycangial fungus not consumed by Tarsonemus mites
-- [[suillus-luteus]] - ectomycorrhizal fungus in pine forest ecosystems
-- ceratocystis lariciola - fungal pathogen transmitted by bark beetle Ips cembrae
+- [[suillus-luteus]] - ectomycorrhizal fungus in [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] ecosystems
+- ceratocystis lariciola - [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] transmitted by bark beetle Ips cembrae
 - amylostereum chailletii - fungal pathogen transmitted by wood wasp
-- Tarsonemus - phoretic mite mediating fungal competition dynamics
+- Tarsonemus - phoretic mite mediating [[dighton-fungal-competition-resource-partitioning]] dynamics
 ## Practical Applications
 
 Ophiostoma minus has a range of practical applications that make it relevant to
@@ -112,4 +112,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

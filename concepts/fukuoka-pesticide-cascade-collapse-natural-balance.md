@@ -1,7 +1,7 @@
 ---
 source: administrator-microsoft-word-fukuoka-textdoc.md
 source_author: Masanobu Fukuoka
-title: Pesticide Cascade and the Collapse of Natural Balance
+title: fukuoka pesticide cascade collapse natural balance and the Collapse of Natural Balance
 topic: natural_farming
 created: 2026-05-08
 ---
@@ -9,7 +9,7 @@ created: 2026-05-08
 # Pesticide Cascade and the Collapse of Natural Balance
 
 Fukuoka documented how pesticide application sets off a chain reaction of
-ecological destruction that ultimately makes the original pest problem worse.
+ecological destruction that ultimately makes the original [[fukuoka-textdoc-pesticide-creates-pest-problem-citrus-orchard]] worse.
 He called this the "pesticide cascade" — a self-perpetuating cycle of
 intervention and failure that characterizes modern agriculture.
 
@@ -36,7 +36,7 @@ imbalance to ensure continued need for application.
 Fukuoka traced a parallel cascade in Japanese pine forests:
 
 1. Atmospheric pollution and acid rain increase soil acidity.
-2. Acidity kills beneficial mycorrhizal fungi (matsutake) on pine roots.
+2. Acidity kills beneficial [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] (matsutake) on pine roots.
 3. Weakenened pines fall to parasitic Botrytis fungi and bark beetles.
 4. Dead pines open space for bamboo grass invasion.
 5. Bamboo grass berries feed a mouse population explosion.

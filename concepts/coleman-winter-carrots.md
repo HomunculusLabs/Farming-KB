@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Eliot Coleman (2009). "The Winter Harvest Handbook." Chelsea Green.
+  - Eliot Coleman (2009). "The coleman-claytonia-winter-harvest-cultivation Handbook." Chelsea Green.
 ---
 
 # Sweet Winter Carrots — In-Ground Cold Storage for Peak Flavor
@@ -30,7 +30,7 @@ of in-ground storage without degradation.
 
 For October harvest, Napoli is planted during the last week of July. For
 later harvests through winter, the first week of August is the target
-sowing date. The soil is prepared by turning under a green manure of oats
+sowing date. The soil is prepared by turning under a [[comparison-green-manure-guide-vs-mulch-types-and-effects]] of oats
 and peas about a month before sowing.
 
 Large areas of carrots are covered with mobile greenhouses in late October,
@@ -118,12 +118,12 @@ produce summer vegetables in winter, the winter harvest system embraces
 the unique qualities that cold-season production offers.
 
 The carrot is not a compromise crop for winter. It is, in its winter form,
-arguably superior to its summer version. This reframing of seasonal eating
+arguably superior to its summer version. This reframing of [[fukuoka-seasonal-eating-natural-food-calendar]]
 from limitation to opportunity is central to the winter harvest concept.
 
 ## See Also
 
 - [[coleman-winter-harvest-planting-schedule]]
 - [[coleman-winter-harvesting-techniques]]
-- [[coleman-mobile-greenhouse-crop-rotation-patterns]]
+- coleman-mobile-greenhouse-crop-rotation-patterns
 - [[winter-succession-planting]]

@@ -18,7 +18,7 @@ unique enzymatic capabilities that most compost bacteria lack.
 Composting has been successfully applied to the bioremediation of pesticide-
 contaminated organic wastes. Organochlorine, organophosphate, and
 carbamate insecticides can be partially or completely mineralized during
-composting. The diverse microbial community and extended thermophilic phase
+composting. The diverse [[edaphic-factors-microbial-community-structure]] and extended thermophilic phase
 create conditions favorable for cometabolic transformation of many
 pesticides. Inoculation with specific fungal strains can accelerate
 degradation rates. Studies have demonstrated significant reductions in
@@ -27,14 +27,14 @@ removal efficiencies exceeding 90% for certain compounds.
 
 ## PAH and Hydrocarbon Degradation
 
-Polycyclic aromatic hydrocarbons (PAHs) and petroleum hydrocarbons in
+[[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs) and petroleum hydrocarbons in
 contaminated soils have been treated through composting approaches.
 Compost-amended biopiles that mix contaminated soil with organic bulking
 agents support active fungal communities capable of degrading these
 hydrophobic compounds. The addition of compost provides both nutrients and
 a source of diverse microorganisms. White rot fungi inoculated into
 compost biopiles enhance PAH degradation, particularly for higher-molecular-
-weight compounds that resist bacterial attack. The ligninolytic enzymes
+weight compounds that resist bacterial attack. The [[singh-ligninolytic-enzymes-fungal-bioremediation]]
 produced by these fungi initiate nonspecific oxidation of PAH ring
 structures.
 
@@ -75,14 +75,14 @@ degradation efficiency for target pollutants.
 
 ## Advantages and Limitations
 
-Composting bioremediation offers several advantages over ex situ treatment
+[[singh-fungal-composting-bioremediation-contaminated-soils]] offers several advantages over ex situ treatment
 technologies: relatively low cost, minimal energy requirements, use of
 naturally occurring microbial communities, and production of a stabilized
 organic product. However, limitations include the need for excavation and
 handling of contaminated material, relatively long treatment times measured
 in weeks to months, potential for incomplete degradation of highly
 recalcitrant compounds, and the need for management of process emissions
-including volatile organic compounds and odors.
+including [[fungal-volatile-organic-compounds-communication]] compounds and odors.
 
 ## Monitoring and Optimization
 
@@ -94,7 +94,7 @@ through periodic watering or covering. Aeration effectiveness can be
 assessed by measuring oxygen levels at various points within the pile, with
 supplemental turning or forced aeration applied when oxygen drops below
 10-15%. The progress of contaminant degradation is typically monitored by
-periodic sampling and chemical analysis of both the compost matrix and any
+periodic sampling and [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of both the compost matrix and any
 leachate produced during the process.
 
 ## Applications and Case Studies

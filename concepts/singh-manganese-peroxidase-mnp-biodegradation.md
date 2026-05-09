@@ -1,5 +1,5 @@
 ---
-title: "Manganese Peroxidase (MnP) in Biodegradation"
+title: "fungal-manganese-peroxidase-remediation (MnP) in Biodegradation"
 created: 2026-04-26
 tags:
   - manganese-peroxidase
@@ -23,23 +23,23 @@ the oxidative degradation of a wide range of environmental pollutants.
 The enzyme was first characterized in [[singh-lignin-peroxidase-lip-fungal-degradation]] and [[staycare-phanerochaete-chrysosporium-in-bioremediation]]: The model organism for MnP study,
   producing multiple MnP isozymes under manganese-sufficient and
   nitrogen-limited conditions.
-- [[pleurotus-species-guide]]: P. ostreatus and P. pulmonarius produce MnP
+- pleurotus-species-guide: P. ostreatus and P. pulmonarius produce MnP
   as part of their ligninolytic enzyme arsenal.
 - ceriporiopsis subvermispora: A selective lignin degrader with
   strong MnP activity and relatively low cellulase production.
-- bjerkandera adusta: Produces MnP and versatile peroxidase.
+- bjerkandera adusta: Produces MnP and [[singh-versatile-peroxidase-vp-multifunctional]].
 
 ## Pollutant Degradation
 
 MnP degrades diverse environmental contaminants:
-- **Polycyclic aromatic hydrocarbons (PAHs)**: Anthracene, phenanthrene,
+- **[[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs)**: Anthracene, phenanthrene,
   pyrene, and benzo[a]pyrene are oxidized through Mn3+-mediated
   radical reactions.
 - **Chlorophenols**: Pentachlorophenol, 2,4-dichlorophenol, and related
   compounds are efficiently mineralized.
 - **Polychlorinated biphenyls (PCBs)**: MnP mediates oxidative
   dechlorination and ring cleavage of lower-chlorinated congeners.
-- **Synthetic dyes**: Azo and heterocyclic dyes are decolorized through
+- **[[singh-fungal-degradation-of-synthetic-dyes-and-textile-waste]]**: Azo and heterocyclic dyes are decolorized through
   Mn3+-mediated oxidation of chromophoric groups.
 - **Explosives**: TNT and related nitroaromatic compounds undergo
   nitro group reduction and ring oxidation.
@@ -63,7 +63,7 @@ MnP gene expression is regulated by:
 ## See Also
 
 - [[singh-versatile-peroxidase-vp-multifunctional]]
-- [[singh-soil-fungal-bioremediation-strategies]]
+- singh-soil-fungal-bioremediation-strategies
 ## Practical Considerations
 
 Successful implementation of Manganese Peroxidase (MnP) in Biodegradation requires attention to
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [query, mycology, plant-health, endophytes, symbiosis]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -12,7 +13,7 @@ type: query
 
 ## Short Answer
 
-Endophytic fungi live inside plant tissues without causing disease, providing their hosts with benefits including enhanced stress tolerance, improved nutrient acquisition, disease resistance, and increased growth. They form a hidden but crucial component of plant health that complements the better-known roles of mycorrhizal fungi and rhizosphere bacteria.
+Endophytic fungi live inside plant tissues without causing disease, providing their hosts with benefits including enhanced [[fungal-lichen-stress-tolerance-and-poikilohydry]], improved nutrient acquisition, disease resistance, and increased growth. They form a hidden but crucial component of plant health that complements the better-known roles of [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] and [[lowenfels-rhizosphere-bacteria-plant-interaction]].
 
 ## What Are Endophytic Fungi?
 
@@ -35,7 +36,7 @@ One of the most well-documented endophyte benefits is enhanced abiotic stress to
 Endophytes contribute to plant nutrition in several ways:
 
 - **Phosphorus solubilization:** Many endophytes dissolve mineral phosphorus from soil particles
-- **Nitrogen fixation:** Some endophytic fungi can fix atmospheric nitrogen
+- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]:** Some endophytic fungi can fix atmospheric nitrogen
 - **Hormone production:** They produce growth-promoting hormones like auxins and gibberellins
 - **Root stimulation:** These hormones stimulate root development for better nutrient access
 
@@ -43,7 +44,7 @@ Endophytes contribute to plant nutrition in several ways:
 
 - Found in stressed environments including arctic, alpine, and metal-contaminated soils
 - They form distinctive dark, septate hyphae within root cells
-- Their melanin pigmentation protects against UV radiation and oxidative stress
+- Their melanin pigmentation protects against UV radiation and [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]
 - They can accumulate heavy metals, reducing toxicity to their host plants
 - [[clavicipitaceous-grass-endophytes]] represent a specialized endophyte class:
 
@@ -65,7 +66,7 @@ Growers can work with endophytic fungi to improve crop health:
 
 ## Key Points
 
-- [[endophytic-fungi-and-plant-health]] benefits include disease suppression through competition, antimicrobials, and immune priming
+- endophytic-fungi-and-plant-health benefits include [[aact-disease-suppression-mechanisms-ingham]] through competition, antimicrobials, and immune priming
 - [[clavicipitaceous-grass-endophytes]] produce alkaloids that defend against herbivores but can affect livestock
 
 ## Related
@@ -92,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

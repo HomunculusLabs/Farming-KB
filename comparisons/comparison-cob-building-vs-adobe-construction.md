@@ -1,21 +1,23 @@
 ---
-title: "Cob Building vs Adobe Construction"
+title: "comparison cob building vs adobe construction vs Adobe Construction"
 created: 2026-04-28
 tags: [comparison, natural-building, earth-building, cob, adobe]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: comparison
 ---
 # Cob Building vs Adobe Construction
 
 ## Overview
 
-Cob building and adobe construction are two of the oldest and most accessible natural building methods, both using earth as the primary material. They share many similarities: low cost, excellent thermal mass, minimal industrial inputs, and suitability for owner-builder projects. However, they differ significantly in their construction process, structural behavior, design flexibility, and climate suitability.
+Cob building and adobe construction are two of the oldest and most accessible [[query-how-do-i-choose-a-natural-building-method-for-my-climate]] methods, both using earth as the primary material. They share many similarities: [[jadam-ultra-low-cost-agriculture]], excellent thermal mass, minimal industrial inputs, and suitability for owner-builder projects. However, they differ significantly in their construction process, structural behavior, design flexibility, and climate suitability.
 
 Both methods create walls with exceptional thermal performance, absorbing heat during the day and releasing it slowly at night. This passive temperature regulation reduces or eliminates the need for mechanical heating and cooling, lowering both energy costs and environmental impact over the life of the building.
 
-Both materials are fire resistant, non-toxic, and fully recyclable at the end of their useful life. Neither cob nor adobe requires industrial processing or long-distance transport of materials, making them among the lowest embodied energy building systems available.
+Both materials are [[mollison-designers-fire-resistant-landscape-design]], non-toxic, and fully recyclable at the end of their useful life. Neither cob nor adobe requires industrial processing or long-distance transport of materials, making them among the lowest embodied energy building systems available.
 
 Choosing between cob and adobe depends on your climate, available materials, desired aesthetic, labor situation, and building design. Site-specific factors such as soil composition, rainfall patterns, and access to straw or fiber will also influence the decision.
 
@@ -64,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,3 +109,7 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[comparison-earthbag-vs-adobe-construction]]
+- [[comparison-cob-vs-hempcrete]]

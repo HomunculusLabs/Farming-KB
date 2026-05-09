@@ -14,12 +14,12 @@ sources:
   - Abrams, M.D. (2001). "Eastern white pine versatility in the presettlement forest." BioScience, 51(11), 967–979.
   - Whitney, G.G. (1990). "The history and status of the hemlock-hardwood forests of the Allegheny Plateau." Journal of Ecology, 78(2), 443–458.
   - Nowak, D.J. (1990). "Historical vegetation change in the Allegheny Plateau." PhD Thesis, Yale University.
-  - Walter, R.S. & Yawney, H.W. (1991). "Eastern white pine." In Silvics of North America, Vol. 1. USDA Forest Service.
+  - Walter, R.S. & Yawney, H.W. (1991). "Eastern white pine." In Silvics of [[psilocybin-north-america-pacific-northwest]], Vol. 1. USDA Forest Service.
 ---
 
 ## Overview
 
-**Pinus strobus**, commonly known as eastern white pine, is a large coniferous tree native to eastern North America. It is the tallest tree species in eastern North America, historically reaching heights exceeding 60 meters.
+**Pinus strobus**, commonly known as eastern white pine, is a large coniferous tree native to [[polypore-fungi-eastern-north-america]] America. It is the tallest tree species in eastern North America, historically reaching heights exceeding 60 meters.
 
 The species is easily recognized by its soft, flexible needles in fascicles of five, its long cylindrical cones, and its smooth grey bark on young trees. Mature bark develops broad, flat ridges with shallow furrows.
 
@@ -37,7 +37,7 @@ Needles are borne in fascicles of five, measuring 6–14 cm in length. They are 
 
 Mature bark on large trees is dark grey-brown, broken into broad, flat scaly plates separated by shallow fissures. Young bark is smooth and distinctly grey, a characteristic that persists for the first 30–50 years.
 
-Cones are cylindrical, slightly curved, and 8–20 cm in length. They are among the longest cones of any North American pine, borne on short stalks and often clustered near the top of the crown.
+Cones are cylindrical, slightly curved, and 8–20 cm in length. They are among the longest cones of any [[growing-gourmet-north-american-reishi-species]] pine, borne on short stalks and often clustered near the top of the crown.
 
 Seed wings are elongated, facilitating wind dispersal over considerable distances. Seeds germinate readily on exposed mineral soil, and seedlings are moderately shade-tolerant in their early years.
 
@@ -67,9 +67,9 @@ In the absence of disturbance, white pine is gradually replaced by more shade-to
 
 ### Pests and Pathogens
 
-The white pine weevil (Pissodes strobi) is the most damaging insect pest, killing the terminal leader of young trees and causing stem deformity. Repeated attacks result in multiple-stemmed, bushy growth patterns that reduces timber value.
+The white [[fukuoka-pine-weevil-blight-non-causality]] (Pissodes strobi) is the most damaging insect pest, killing the terminal leader of young trees and causing stem deformity. Repeated attacks result in multiple-stemmed, bushy growth patterns that reduces timber value.
 
-White pine blister rust (Cronartium ribicola), an introduced fungal pathogen, has caused widespread mortality since its arrival in North America circa 1900. The pathogen requires an alternate host in the genus Ribes (currants and gooseberries) to complete its life cycle.
+White pine blister rust (Cronartium ribicola), an introduced [[alpha-1-3-glucan-fungal-pathogen-cell-walls]], has caused widespread mortality since its arrival in North America circa 1900. The pathogen requires an alternate host in the genus Ribes (currants and gooseberries) to complete its life cycle.
 
 Deer browsing on seedlings and saplings is a significant regeneration challenge in many areas. Vole and rabbit girdling can also kill young trees during winter months when other food sources are scarce.
 
@@ -97,7 +97,7 @@ The timber is valued for its workability, stability, and ease of finishing. Prim
 
 The species was the foundation of the colonial timber industry in northeastern North America. Vast old-growth stands were harvested through the 18th and 19th centuries, with logs rafted down rivers to sawmills and ports.
 
-Eastern white pine remains commercially important in plantation forestry across eastern Canada and the northeastern United States. Rotation lengths of 50–80 years produce sawtimber and pulpwood, with thinning beginning at age 15–20.
+Eastern white pine remains commercially important in plantation forestry across eastern Canada and the northeastern [[dmt-containing-plants-united-states-halpern]]. Rotation lengths of 50–80 years produce sawtimber and pulpwood, with thinning beginning at age 15–20.
 
 ## See Also
 

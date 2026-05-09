@@ -11,7 +11,7 @@ type: entity
 # Quercus suber
 
 **Type:** Species (Tree)
-**Category:** Multipurpose tree (cork, forage, timber)
+**Category:** [[mollison-designers-chestnut-as-multipurpose-tree-crop]] (cork, forage, timber)
 **Family:** Fagaceae
 **Also known as:** Cork oak
 
@@ -21,7 +21,7 @@ region and the Atlantic coast of Africa. It is medium-sized, reaching
 up to 20 m with an often equal spread. The species is world-famous for
 its bark, which is harvested commercially as cork on a sustainable
 10-year cycle that can continue for hundreds of years. Beyond cork
-production, it provides acorns for livestock forage, high-grade
+production, it provides acorns for [[permaculture-livestock-forage-systems]], high-grade
 charcoal, and serves as an effective firebreak due to low
 combustibility.
 
@@ -70,11 +70,11 @@ transplant well after the first year of growth.
 ## Relevance
 Cork oak is one of the most sustainably productive trees in
 Mediterranean permaculture. Its renewable bark harvest, combined
-with acorn production for livestock, drought tolerance, and low
+with acorn production for livestock, [[dighton-fungal-drought-tolerance-plant-water-relations]], and low
 combustibility (useful as firebreak), make it a multi-functional
 element in Mediterranean and dryland food forest designs. The
 centuries-long productive lifespan of cork oak is unmatched by
-almost any other cultivated tree crop, demonstrating the
+almost any other cultivated [[mollison-tree-crop-systems-permaculture]], demonstrating the
 permaculture principle of designing for permanence.
 
 ## See Also

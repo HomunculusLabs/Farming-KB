@@ -1,5 +1,5 @@
 ---
-title: "Reishi (Ganoderma lucidum) Research in Cancer Treatment"
+title: "Reishi (stamets-reishi-ganoderma-lucidum-cultivation) Research in Cancer Treatment"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -13,7 +13,7 @@ tags: [medicine, mushroom-cultivation, mushrooms, reishi]
 ## Overview
 
 Ganoderma lucidum (Reishi or Ling Zhi) has the longest historical usage of
-any medicinal mushroom, dating back at least four millennia. In Japan it is
+any [[gourmet-medicinal-mushroom-casing-layer-techniques]], dating back at least four millennia. In Japan it is
 called Reishi or Mannetake (10,000 year mushroom); in China and Korea, Ling
 Zhi (Mushroom of Immortality). It is the mushroom most depicted in ancient
 Japanese, Korean, and Chinese art and has served as a talisman against evil.
@@ -23,7 +23,7 @@ artificially cultivated.
 
 ## Active Constituents
 
-The mushroom and mycelium contain a rich array of bioactive compounds:
+The mushroom and mycelium contain a rich array of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:
 
   - Polysaccharides (particularly beta-D-glucans) -- antitumour and
     immunostimulating activities
@@ -52,7 +52,7 @@ augmented cytotoxic T lymphocyte toxicity by up to 100% at 200 ug/ml.
 Key immunomodulatory effects:
 
   - Mitogenicity and activation of macrophages, NK cells, and T cells
-  - CR3 receptor binding overrides tumour resistance to iC3b-mediated
+  - CR3 [[tihkal-receptor-binding-serotonin]] overrides tumour resistance to iC3b-mediated
     cytotoxicity, allowing complement system function against tumours
   - Macrophage activation causes anti-proliferation and apoptosis in
     HL-60 and U937 leukemic cells via IFN-gamma and TNF-alpha synergy
@@ -60,7 +60,7 @@ Key immunomodulatory effects:
     up-regulation of IL-2 receptor expression
   - LZ-8 induces ICAM-1 expression and production of IFN-gamma, TNF-alpha,
     and IL-1-beta; neutralising antibodies to IL-2 receptor and TNF-alpha
-    block cellular aggregate formation and proliferation
+    block cellular [[soil-aggregate-formation-fungal-contributions]] and proliferation
   - Ganoderan beta-D-glucan and GLB increase MHC class II molecule
     expression on antigen-presenting macrophages
   - Activates both classical and alternative complement pathways
@@ -108,12 +108,12 @@ proper identification and relative purity.
 
 ## Key Source
 
-Smith, Rowan and Sullivan (2002). Medicinal Mushrooms: Their therapeutic
+Smith, Rowan and Sullivan (2002). [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]: Their therapeutic
 properties and current medical usage with special emphasis on cancer
 treatments. University of Strathclyde.
 - [[cancer-medicinal-mushrooms-immune-modulation-beta-glucans]]
 - [[mushroom-immune-cell-activation-mechanisms]]
-- [[mushroom-cytokine-production-immune-activation]]
+- mushroom-cytokine-production-immune-activation
 - [[knf-water-soluble-phosphoric-acid-wspa]]
 
 ## See Also

@@ -11,16 +11,16 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of North America: Volume 2 — Hardwoods." USDA Forest Service.
-  - Sternberg, G. (2004). "Native Trees for North American Landscapes." Timber Press.
+  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 2 — Hardwoods." USDA Forest Service.
+  - Sternberg, G. (2004). "Native Trees for [[growing-gourmet-north-american-reishi-species]] Landscapes." Timber Press.
   - Kormanik, P.P. (1990). "Liquidambar styraciflua L." In: Silvics of North America, Vol. 2. USDA.
-  - Little, E.L. (1979). "Checklist of United States Trees." USDA Forest Service Agricultural Handbook 541.
+  - Little, E.L. (1979). "Checklist of [[dmt-containing-plants-united-states-halpern]] Trees." USDA Forest Service Agricultural Handbook 541.
 ---
 
 ## Overview
 
 **Liquidambar styraciflua**, commonly known as American sweetgum, is a large
-deciduous tree native to the southeastern United States, Central America, and
+deciduous tree native to the southeastern United States, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], and
 Mexico. It is the sole North American representative of the genus *Liquidambar*
 and is renowned for its brilliant multicolored autumn foliage and distinctive
 corky, winged bark on young branches.
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

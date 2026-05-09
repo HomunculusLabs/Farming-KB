@@ -24,7 +24,7 @@ status: draft
 While standing in an American desert, Masanobu Fukuoka experienced a pivotal insight that
 would reshape his understanding of the relationship between land, water, and life. Rain
 does not fall from the heavens — it issues forth from the ground. This was not a metaphor
-but a literal reframing of the hydrological cycle through the lens of natural farming.
+but a literal reframing of the hydrological cycle through the lens of [[comparison-natural-farming-vs-permaculture]].
 
 The conventional view holds that deserts form because there is no rain. Fukuoka inverted
 this causality entirely: deserts exist because the vegetation has disappeared. Rain ceases
@@ -65,7 +65,7 @@ ignoring root causes:
 
 - **The American bread basket**, far from being a model of agricultural success, Fukuoka
   described as "fields of death" — land degraded by heavy machinery that compacts soil,
-  chemical fertilizers that destroy microbial communities, and pesticides that poison the
+  [[cervantes-chemical-fertilizers-guide]] that destroy microbial communities, and pesticides that poison the
   living ecosystem.
 
 Engineering approaches fragment natural systems into manageable problems, solving each in
@@ -94,11 +94,11 @@ into its self-sustaining state.
 Fukuoka's farm in Japan served as his proof of concept for the living soil that sustains
 the vegetation-rainfall cycle. One gram of soil from his farm contains approximately 100
 million nitrogen-fixing bacteria and soil-enriching microbes. This is the invisible
-infrastructure that makes natural fertility possible.
+infrastructure that makes [[fukuoka-natural-fertility-cycle]] possible.
 
 These microbial communities perform functions that chemical agriculture attempts to replace
-with synthetic inputs — nitrogen fixation, nutrient cycling, soil structure creation,
-and disease suppression.
+with synthetic inputs — [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], soil structure creation,
+and [[aact-disease-suppression-mechanisms-ingham]].
 
 When chemical fertilizers and pesticides are applied, these communities are destroyed. The
 soil becomes a sterile medium dependent on continued artificial inputs — a dead substrate,
@@ -135,6 +135,8 @@ place. The solution lies not in better engineering but in stepping back and allo
 the natural whole to restore itself.
 
 ## See Also
+
+- fukuoka-desertification-rain-vegetation-precedes-rainfall
 
 - [[desertification]]
 - [[stomata-transpiration-and-plant-water-regulation]]

@@ -1,14 +1,12 @@
 ---
-title: Permaculture Difficult Sites Plant Guide
+title: Permaculture permaculture difficult sites plant guide Plant Guide
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [[permaculture, design]
+tags: [permaculture, design]
 sources: [/Users/t3rpz/wiki/raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md]
 ---
-# Permaculture Difficult Sites Plant Guide
-
-Not all land is equally suited to cultivation. Permaculture design matches species to site conditions, including saline soils, alkaline soils, coastal exposure, and waterlogged areas. The [[nitrogen-fixing-trees-and-shrubs]] to rehabilitate degraded land before planting longer-term crops
+# Permaculture Difficult Sites Plant Guide Not all land is equally suited to cultivation. Permaculture design matches species to site conditions, including saline soils, alkaline soils, coastal exposure, and waterlogged areas. The [[nitrogen-fixing-trees-and-shrubs]] to rehabilitate degraded land before planting longer-term crops
 - Buffer between demanding crops and difficult conditions using tolerant species
 - Use salt-tolerant trees around salt scalds with trials on soil mounds within scalds
 - Plant fire retardant species as strategic barriers in fire-prone landscapes
@@ -101,4 +99,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

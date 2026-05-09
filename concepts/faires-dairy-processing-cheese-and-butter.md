@@ -1,5 +1,5 @@
 ---
-title: faires dairy processing cheese and butter
+title: faires faires dairy processing cheese and butter cheese and butter
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -35,7 +35,7 @@ Butter is one of the simplest dairy products to make and requires no special equ
 5. The cream will first become whipped cream, then begin to separate into butter solids and buttermilk
 6. When the butter has formed into yellow clumps, drain off the buttermilk (save it for baking or drinking)
 7. Wash the butter by kneading it in cold water until the water runs clear
-8. Work out any remaining buttermilk -- this is essential for shelf life
+8. Work out any remaining buttermilk -- this is essential for [[psilocybin-shelf-life-stability]]
 9. Add salt if desired (about 1/4 teaspoon per pound of butter)
 10. Shape and store in the refrigerator or freezer
 
@@ -67,7 +67,7 @@ Several methods work for keeping the yogurt warm during fermentation:
 - Crockpot: Use the low setting or preheat and turn off
 - Woodstove: Set at the back when the stove is cooling
 - Sun: In warm climates, a sunny windowsill may provide enough warmth
-- Dedicated yogurt maker: An electric device that maintains the ideal temperature
+- Dedicated yogurt maker: An electric device that maintains the [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]
 
 ### When Yogurt Is Done
 
@@ -81,7 +81,7 @@ Kefir is similar to yogurt but uses kefir grains (a symbiotic culture of bacteri
 
 ### kefir making Process
 
-1. Place kefir grains in a glass jar (1-2 tablespoons of grains per cup of milk)
+1. Place kefir grains in a [[sterile-spore-print-collection-glass-jar-technique]] (1-2 tablespoons of grains per cup of milk)
 2. Fill with fresh milk, leaving some headspace
 3. Cover loosely with a cloth or lid (kefir needs to breathe)
 4. Leave at room temperature for 12-24 hours
@@ -145,4 +145,4 @@ Basic cheese-making equipment includes:
 - Cheese moulds (for shaped cheeses)
 - A cheese press (for hard cheeses, can be improvised with weights)
 ## See Also
-- [[peanut-butter-breath]]
+- peanut-butter-breath

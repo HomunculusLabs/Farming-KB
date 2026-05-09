@@ -10,7 +10,7 @@ sources:
 
 # Fungi in Soil Food Webs
 
-Trophic structure, energy flow, biomass, and the role of fungi in soil food webs. Based on Gadd, Watkinson & Dyer, *Fungi in the Environment* (2006). See also [[fungal-ecology-decomposition-cycles]], [[fungal-nutrient-cycling-mineral-transformations]], [[fungal-bacterial-interactions]], and [[soil-food-web-nutrient-cycling]].
+[[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]], energy flow, biomass, and the role of fungi in soil food webs. Based on Gadd, Watkinson & Dyer, *Fungi in the Environment* (2006). See also [[fungal-ecology-decomposition-cycles]], [[fungal-nutrient-cycling-mineral-transformations]], [[fungal-bacterial-interactions]], and [[soil-food-web-nutrient-cycling]].
 
 ## Overview
 
@@ -31,7 +31,7 @@ Fungi typically represent a large proportion of total soil microbial biomass:
 
 - **Microscopic direct counts**: Using fluorescence microscopy after staining with fluorescent brighteners (e.g., calcofluor white) to visualize hyphae. Hyphal length is measured and converted to biomass using a standard conversion factor.
 - **Ergosterol**: Ergosterol is a sterol found in fungal membranes (not in plants or most bacteria). Soil ergosterol concentration correlates with living fungal biomass. This is the most widely used biochemical method.
-- **Phospholipid fatty acid (PLFA) analysis**: Specific fatty acids (18:2omega6,9) are fungal biomarkers. PLFA analysis provides both total biomass and community composition data.
+- **Phospholipid fatty acid (PLFA) analysis**: Specific fatty acids (18:2omega6,9) are fungal biomarkers. PLFA analysis provides both total biomass and [[core-endorhiza-bacterial-community-composition-cannabis]] data.
 - **DNA-based methods**: Quantitative PCR targeting fungal ribosomal DNA provides estimates of fungal abundance and community composition.
 
 ## Trophic Roles of Fungi
@@ -44,7 +44,7 @@ Fungi are the dominant decomposers of recalcitrant organic matter:
 - **Cellulose**: Fungi and bacteria both decompose cellulose, but fungi dominate in acidic forest soils. Fungal cellulase systems are often more efficient than bacterial ones for crystalline cellulose.
 - **Chitin**: Fungal chitinases degrade insect exoskeletons and fungal cell walls, recycling nitrogen bound in these recalcitrant compounds.
 - **Cutin and suberin**: Fungi produce cutinases that degrade plant cuticle and suberin (cork), important in the decomposition of leaves and woody tissue.
-- **Humus formation**: Fungal metabolites (melanin, phenolic compounds) contribute to humus formation, the stable organic matter fraction that persists in soil for centuries to millennia.
+- **[[lowenfels-humus-formation-benefits]]**: Fungal metabolites (melanin, phenolic compounds) contribute to humus formation, the stable organic matter fraction that persists in soil for centuries to millennia.
 
 ### Mycorrhizal Symbionts
 
@@ -52,7 +52,7 @@ Mycorrhizal fungi form a direct trophic link between plants and soil:
 
 - **Carbon pathway**: 10-30% of plant photosynthate flows to mycorrhizal fungi, entering the soil food web through fungal biomass and exudates
 - **Nutrient pathway**: Mycorrhizal fungi channel phosphorus, nitrogen, and micronutrients from soil to plants
-- **Network connections**: Common mycorrhizal networks (CMNs) link multiple plants, potentially transferring carbon and nutrients between individuals of different species
+- **Network connections**: Common [[dighton-mycorrhizal-networks-carbon-transfer]] (CMNs) link multiple plants, potentially transferring carbon and nutrients between individuals of different species
 
 ### Food for Higher Trophic Levels
 
@@ -79,7 +79,7 @@ Soil food webs can be conceptually divided into two energy channels:
 ### Bacterial Energy Channel
 
 - Energy flows from labile organic matter through bacteria to bacterial-feeding organisms
-- Characterized by rapid nutrient cycling, less stable soil organic matter, and faster nutrient release
+- Characterized by rapid [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], less stable soil organic matter, and faster nutrient release
 - Dominant in: agricultural soils, disturbed ecosystems, early succession
 - Associated with: neutral-alkaline pH, low C:N organic matter, root exudates
 - Key consumers: bacterial-feeding nematodes, protozoa (amoebae, flagellates, ciliates)
@@ -101,7 +101,7 @@ The ratio of fungal to bacterial biomass (F:B ratio) is a useful indicator of:
 Fungi play a major role in creating and stabilizing soil aggregates:
 
 - **Hyphal entanglement**: Fungal hyphae physically bind soil particles together, forming macroaggregates (>250 um). This is especially important in sandy and loamy soils.
-- **Glomalin**: AM fungi produce glomalin, a glycoprotein that acts as a biological glue. Glomalin persists in soil for years to decades and is a significant component of soil organic matter (1-5% of total SOC). See [[glomalin]].
+- **Glomalin**: AM fungi produce glomalin, a glycoprotein that acts as a biological glue. Glomalin persists in soil for years to decades and is a significant component of soil organic matter (1-5% of total SOC). See [[glomalin-and-soil-carbon]].
 - **Hyphal residues**: Dead fungal hyphae contribute polysaccharides and other compounds that stabilize aggregates. Fungal necromass is a major source of stable soil organic carbon.
 - **Water stability**: Fungal-stabilized aggregates are more water-stable than those stabilized by bacteria, reducing erosion risk.
 
@@ -138,36 +138,12 @@ Mycorrhizal fungi can influence decomposition of existing soil organic matter:
 
 ## Fungal Responses to Environmental Heterogeneity
 
-Fungal hyphae respond dynamically to spatial and temporal heterogeneity in soil resources:
-
-- **Resource foraging**: Fungal hyphae grow preferentially toward nutrient-rich patches, a process mediated by tropisms and signaling. Some species show "translocation" -- moving resources from nutrient-rich to nutrient-poor parts of the mycelial network.
-- **Hyphal fusion (anastomosis)**: Fungal hyphae of the same individual can fuse, creating an interconnected network that allows resource sharing across large areas. A single genet of *Armillaria* can cover hectares.
-- **Foraging strategies**: Different fungal species employ different strategies:
-  - **Phalangeal**: Dense, slowly extending front (e.g., many saprotrophs)
-  - **Linear**: Rapid extension of individual hyphae with little branching (e.g., cord-forming fungi)
-  - **Domain**: Moderately dense exploration with intermittent branching (e.g., many ECM fungi)
-
-## Seasonal Dynamics
-
-Fungal biomass and activity fluctuate seasonally:
-
-- **Temperate forests**: Peak fungal biomass and fruiting in autumn, corresponding to leaf fall and increased moisture. Minimum in winter (low temperatures) and summer (drought).
-- **Grasslands**: Peak activity in spring and autumn; summer drought reduces activity.
-- **Tropical forests**: Less seasonal variation; fungal activity tracks rainfall patterns.
-- **Agricultural soils**: Peaks after crop planting (root exudate stimulation) and after harvest (residue incorporation).
-
-## Key References
-
-- Moore, J.C. & Hunt, H.W. (1988) "Resource compartmentalization and the stability of real ecosystems." Nature 333: 261-3.
-- Wardle, D.A. (2002) *Communities and Ecosystems: Linking the Aboveground and Belowground Components*. Princeton University Press.
-- de Vries, F.T. et al. (2006) "Fungal/bacterial ratios in grasslands with contrasting nitrogen management." Soil Biology and Biochemistry 38: 2092-103.
-
 ## Related Pages
 
-- [[fungal-ecology-decomposition-cycles]] -- decomposition succession
+- [[fungal-ecology-decomposition-cycles]] -- [[fungal-decomposition-succession-resource-quality]]
 - [[fungal-nutrient-cycling-mineral-transformations]] -- mineral cycling
 - [[fungal-bacterial-interactions]] -- competition and cooperation
-- [[glomalin]] -- AM fungal glycoprotein for soil aggregation
+- [[glomalin-and-soil-carbon]] -- AM fungal glycoprotein for soil aggregation
 - [[soil-food-web-nutrient-cycling]] -- full soil food web structure
 - [[soil-food-web-nutrient-cycling]] -- nutrient cycling through the food web
 - [[no-till-gardening-method]] -- impacts on fungal communities

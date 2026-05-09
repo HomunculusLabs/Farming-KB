@@ -1,26 +1,26 @@
 ---
-title: White Clover Cover Crop System
+title: fukuoka white clover cover crop system Cover Crop System
 created: 2026-04-18
 updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources: []
 ---
 
 # White Clover Cover Crop System
 
 updated: 2026-04-18
 
-White clover (ladino clover) serves as the backbone of Fukuoka's [[fukuoka-no-weeding-no-pesticides]].
+White clover ([[fukuoka-ladino-clover-ground-cover-management]]) serves as the backbone of Fukuoka's [[fukuoka-no-weeding-no-pesticides]].
 
 ## Role in the Rice-Barley Rotation
 
-In the [[fukuoka-five-principles-natural-farming]]
+In the fukuoka-five-principles-natural-farming
 - **Weed suppression**: A thick cover of clover prevents winter weed germination when broadcast over standing rice in October
 - **Soil protection**: Prevents erosion and maintains soil moisture
-- **Organic matter**: When trampled or cut, clover adds organic matter to the soil
-- **Living mulch**: Provides a dense mat that rice seedlings can push through after flooding weakens the clover
+- **[[hamilton-composting-and-organic-matter-management]]**: When trampled or cut, clover adds organic matter to the soil
+- **[[comparison-living-mulch-vs-cover-crops]]**: Provides a dense mat that rice seedlings can push through after flooding weakens the clover
 
 ## The Annual Cycle
 
@@ -30,7 +30,7 @@ The clover cycle in the rice-barley system works as follows:
 2. **Fall-winter**: Clover establishes itself among the rice stubble and young barley shoots
 3. **Spring**: A thick layer of clover grows at the foot of maturing barley; beneath the clover, rice seedlings begin emerging from [[fukuoka-orchard-soil-building-without-fertilizers]], clover has distinct advantages:
 
-1. Eliminates weeds — annual weeds displaced in one year, biennials in two; after 2-3 years almost all garden weeds vanish
+1. Eliminates weeds — annual weeds displaced in one year, biennials in two; after 2-3 years almost all [[gaias-garden-weeds-pioneer-plants]] vanish
 2. Improves soil to a depth of 16-18 inches
 3. Seed does not need resowing for 6-8 years
 4. Does not compete strongly with fruit trees for moisture
@@ -41,7 +41,7 @@ The clover cycle in the rice-barley system works as follows:
 
 The seed should be drilled the first autumn; delayed seeding invites insect damage. Do not cover seeds with soil as this hampers germination — merely firm the soil after drilling. When broadcast in late autumn among dying weeds and grasses on levees and roadsides, clover growth gradually thickens. If sown in spring, cut it back a year later to stimulate growth.
 
-Clover vine may additionally be planted in spring like sweet potato vine to ensure full cover by summertime.
+Clover vine may additionally be planted in spring like [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]] vine to ensure full cover by summertime.
 
 ## Long-Term Management
 
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

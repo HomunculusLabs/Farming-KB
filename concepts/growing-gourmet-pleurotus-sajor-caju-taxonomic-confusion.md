@@ -1,5 +1,5 @@
 ---
-title: Pleurotus sajor-caju Taxonomic Confusion and Identity
+title: Pleurotus sajor-caju neurotropic-fungi-taxonomic-confusion-and-identification and Identity
 created: 2026-04-26
 tags:
   - taxonomy
@@ -19,9 +19,9 @@ type: concept
 ## Overview
 
 The name "Pleurotus sajor-caju" has been one of the most widely
-misapplied names in mushroom cultivation history. Cultivators around
+misapplied names in [[accessible-mushroom-cultivation-for-disabilities]] history. Cultivators around
 the world have used this name for decades to refer to what is actually
-a strain of Pleurotus pulmonarius, the Phoenix Oyster. The true
+a strain of [[pleurotus-pulmonarius]], the [[growing-gourmet-phoenix-oyster-pulmonarius-cultivation]]. The true
 Pleurotus sajor-caju (Fr.) Singer is a completely different species
 that has been returned to the genus Lentinus and is now called
 Lentinus sajor-caju (Fr.) Fries. Resolving this confusion is
@@ -45,7 +45,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -95,7 +95,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -105,4 +105,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

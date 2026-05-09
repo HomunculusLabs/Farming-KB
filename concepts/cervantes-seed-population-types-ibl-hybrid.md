@@ -1,5 +1,5 @@
 ---
-title: Cannabis Seed Population Types
+title: Cannabis cervantes seed population types ibl hybrid Types
 created: 2026-04-26
 tags:
   - cannabis
@@ -10,14 +10,15 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Cannabis Seed Population Types
 
 Understanding the different types of seed populations is fundamental to
-both selecting cannabis seeds for cultivation and developing breeding
+both selecting [[query-how-to-store-cannabis-seeds-for-long-term-viability]] for cultivation and developing breeding
 programs. Each population type has distinct characteristics regarding
 uniformity, stability, and breeding utility.
 
@@ -111,7 +112,7 @@ are very similar but differ in a small part of the overall phenotype
 and bred separately but subsequently mixed together and sold in the same
 seed package.
 
-Multi-lines are beneficial when the growing environment is inconsistent
+Multi-lines are beneficial when the [[cannabis-growing-environment-setup]] is inconsistent
 from year to year, or for growers experimenting in new locations. They
 ensure at least some harvest even in challenging years where only early
 varieties finish or mold is prevalent.

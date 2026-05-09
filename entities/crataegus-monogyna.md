@@ -1,142 +1,148 @@
 ---
-title: "crataegus monogyna"
-created: 2026-04-28
+title: "Crataegus monogyna"
 type: species
 tags:
-  - hawthorn
-  - herbal-plant
+  - rosaceae
+  - medicinal-plant
   - cardiovascular
-  - cardiotonic
-  - [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]], hawthorn is valued as a multifunctional hedge
-component providing windbreak, [[crataegus-pinnatifida]]
+  - ornamental
+  - hedgerow
+date: 2026-05-08
+updated: 2026-05-08
+sources:
+  - Crane, P.R. (2017). "Crataegus (Hawthorn)." In: K. Kubitzki (ed.), The Families and Genera of Vascular Plants Vol. X. Springer.
+  - Fitch, R.M. et al. (2008). "Hawthorn (Crataegus spp.) in the Treatment of Cardiovascular Disease." Pharmacognosy Reviews 2(3): 18-26.
+  - USDA, NRCS (2024). "Crataegus monogyna Jacq. Plant Guide." USDA Natural Resources Conservation Service.
+  - Tassini, M. et al. (2013). "Crataegus monogyna Jacq.: Phytochemical and Pharmacological Overview." Phytotherapy Research 27(12): 1751-1765.
+---
 
-- [[permaculture-designers-manual-temperate-climate-design]]
-## Background and Context
+## Overview
 
-crataegus monogyna is an important subject that has garnered significant attention
-from researchers, practitioners, and enthusiasts alike. The topic
-sits at the intersection of multiple disciplines, drawing on insights
-from biology, ecology, chemistry, and practical experience. A thorough
-understanding requires engagement with both the theoretical foundations
-and the accumulated wisdom of hands-on practice in the field.
+**Crataegus monogyna** (common hawthorn, one-seed hawthorn) is a deciduous
+shrub or small tree in the family Rosaceae, native to Europe, northwest
+Africa, and western Asia. It is one of the most widely recognized hedgerow
+plants in the British Isles and continental Europe.
 
-Historical development of knowledge in this area has been gradual and
-incremental, with key contributions from researchers across different
-cultures and time periods. Modern understanding builds on centuries of
-traditional knowledge combined with contemporary scientific methods.
-This synthesis of old and new approaches continues to yield valuable
-insights for practitioners seeking to apply these principles effectively.
+The species is among the most important medicinal plants in Western
+herbalism, with a centuries-long tradition of use for cardiovascular
+support. Modern [[hofmann-lsd-clinical-research-early-studies]] has validated its efficacy for mild
+heart failure and angina pectoris.
 
-The broader context within which this topic exists includes evolving
-environmental conditions, changing social priorities, and advancing
-technological capabilities. Each of these factors influences both the
-relevance and the practical application of the principles involved.
+Hawthorn is also valued ecologically as a habitat and food source for
+wildlife, and agriculturally as a stock-proof hedging plant. Its dense,
+thorny growth makes it an effective barrier and windbreak.
 
-## Key Principles and Mechanisms
+## Taxonomy and Morphology
 
-Several foundational principles govern the processes and outcomes
-associated with this topic. These principles are interconnected and
-mutually reinforcing, forming a coherent framework for understanding
-and application. Mastery of these fundamentals is essential before
-attempting more advanced or specialized implementations.
+**Taxonomy:** Rosaceae, subfamily Amygdaloideae, tribe Maleae, genus
+*Crataegus*, section *Crataegus*.
 
-The primary mechanisms through which these principles manifest in
-practice involve complex interactions between biological, chemical,
-and physical processes. Understanding these mechanisms at a systems
-level enables practitioners to diagnose problems, optimize outcomes,
-and adapt approaches to changing conditions with greater confidence.
+- **Authority:** Jacq. (1775)
+- **Synonyms:** *Crataegus oxyacantha* auct. non L., *Mespilus monogyna*
+- **Chromosomes:** 2n = 34 (tetraploid)
 
-Critical variables that influence outcomes include environmental
-conditions such as temperature, moisture, and light exposure, as well
-as the specific characteristics of the materials and organisms involved.
-Managing these variables effectively is the hallmark of skilled practice
-and a key determinant of success in implementation at any scale.
+Plants grow as dense, thorny shrubs or small trees reaching 5-14 m in
+height. The bark is gray-brown, developing longitudinal fissures with
+age. Branches bear sharp thorns up to 2.5 cm long.
 
-## Methods and Techniques
+Leaves are broadly ovate, 2-6 cm long, with 3-7 deeply incised lobes.
+Margins are coarsely toothed, and surfaces are dark green above with
+paler undersides. Autumn foliage turns yellow to red.
 
-A range of established methods and techniques exist for working with
-this topic effectively. These approaches vary in complexity, resource
-requirements, and suitability for different contexts and objectives.
-Selection of appropriate methods should be based on careful assessment
-of the specific situation, including available resources, timeline, and
-desired outcomes rather than rigid adherence to any single approach.
+Flowers are hermaphrodite, arranged in dense corymbs of 5-25. Each flower
+has 5 white petals, 5 sepals, 5-20 stamens, and a single pistil with
+one style, giving rise to the species epithet "monogyna" (single-styled).
 
-Best practices have been developed through years of trial and error
-by experienced practitioners. These practices represent distilled wisdom
-about what works reliably across a range of conditions. However, they
-should be treated as guidelines rather than rigid rules, with adaptation
-to local conditions always taking precedence over textbook approaches.
+Fruits are deep red to crimson pomes, 6-10 mm diameter, each containing
+a single nutlet (pyrene). They persist on branches well into winter,
+providing an important winter food source for birds.
 
-Common pitfalls and mistakes that practitioners should be aware of
-include inadequate preparation, poor timing of interventions, failure
-to monitor conditions adequately, and insufficient attention to the
-specific requirements of the particular context. Learning from these
-common errors can significantly accelerate the development of skill.
+## Distribution and Habitat
 
-## Applications and Use Cases
+*Crataegus monogyna* is native to Europe, northwest Africa (Morocco,
+Algeria, Tunisia), and western Asia (Turkey, the Caucasus, northern Iran).
+It has been widely naturalized in [[psilocybin-north-america-pacific-northwest]], Australasia, and
+southern South America.
 
-The practical applications of this knowledge span multiple contexts
-and scales of implementation. From individual projects to larger-scale
-systemic applications, the principles involved can be adapted and
-combined in creative ways to address diverse needs and objectives.
-Understanding the range of possible applications helps practitioners
-identify opportunities for implementation in their own contexts.
+The species occupies a broad ecological range, from sea level to 1,800 m
+elevation. It is a characteristic component of woodland edges, hedgerows,
+scrubland, and disturbed habitats.
 
-Integration with other systems and approaches often yields the most
-robust and resilient outcomes. Rather than treating this topic in
-isolation, the most effective practitioners consider how it connects
-with and enhances other elements of the broader system within which
-they are working. This systems thinking approach generates synergies
-that exceed the sum of individual component contributions.
+It tolerates a wide range of soil types, from heavy clay to sandy loam,
+and grows in both acidic and calcareous conditions. Optimal growth occurs
+in full sun to partial shade in well-drained soils.
 
-Case studies and documented examples provide valuable models for
-implementation, though direct replication is rarely possible due to
-the uniqueness of each context. Instead, these examples serve as
-sources of inspiration and as demonstrations of general principles
-applied to specific situations with particular constraints and
-opportunities. Adaptation, not replication, is the key to success.
+It is hardy to USDA zone 4 and tolerant of wind, exposure, and air pollution.
+it a common urban and roadside planting. It is hardy to USDA zone 4.
 
-## Challenges and Limitations
+## Cultivation and Uses
 
-Several challenges and limitations should be acknowledged when working
-with this topic. These include both inherent constraints of the subject
-matter itself and practical limitations related to resources, knowledge,
-and environmental conditions. Honest assessment of these challenges
-leads to more realistic expectations and better long-term outcomes.
+Hawthorn is widely planted as a hedging plant, particularly in the
+British Isles where hedgerow management is a centuries-old agricultural
+tradition. Hedges are laid (partially cut and bent) to create dense,
+stock-proof barriers.
 
-Environmental variability presents one of the most significant ongoing
-challenges. Changes in weather patterns, seasonal fluctuations, and
-unpredictable events can disrupt even well-planned implementations.
-Building resilience into systems through diversity, redundancy, and
-adaptive capacity helps mitigate the impacts of these uncertainties.
+Ornamental cultivars are selected for floral display, autumn color, or
+thornless growth. Popular varieties include 'Stricta' (fastigiate form),
+'Biflora' (Glastonbury thorn, flowering twice per year), and 'Paul's
+Scarlet' (double pink flowers).
 
-Knowledge gaps and the ongoing evolution of understanding mean that
-current best practices represent our current state of knowledge rather
-than final answers. Practitioners should maintain intellectual humility
-and remain open to new information and approaches that may improve
-upon established methods. Continuous learning and observation are
-essential for sustained success and progressive improvement over time.
+The plant is easily propagated from seed (requiring 18-month
+stratification), hardwood cuttings, or grafting onto seedling rootstock.
+It transplants readily and establishes quickly in exposed sites.
 
-## Future Directions and Resources
+handles, walking sticks, and wood carving. It burns hot with little smoke,
 
-Continued development in this field promises to yield new insights
-and improved approaches for both research and practical application.
-Areas of active investigation include refinement of existing techniques,
-development of new methods, and deeper understanding of underlying
-mechanisms. Staying current with developments helps practitioners
-maintain and improve their effectiveness over time.
+## Chemistry and Pharmacology
 
-Cross-disciplinary collaboration increasingly drives progress, with
-contributions from fields including molecular biology, data science,
-materials science, and systems ecology creating new possibilities for
-innovation. These interdisciplinary connections enrich understanding
-and open new avenues for exploration and application that were not
-previously available to practitioners working within single disciplines.
+Hawthorn leaf, flower, and berry preparations contain a complex mixture
+of **oligomeric procyanidins** (OPC), flavonoids, and phenolic acids.
 
-For those seeking to deepen their knowledge, recommended resources
-include primary research literature, established reference works,
-practitioner communities, and hands-on experimentation under guided
-conditions. The combination of theoretical study and practical experience
-provides the most robust foundation for developing expertise in this
-area and contributing to its ongoing development and refinement.
+Major flavonoids include hyperoside (quercetin-3-O-galactoside),
+vitexin-2"-O-rhamnoside, rutin, and orientin. The procyanidin fraction
+consists primarily of epicatechin oligomers with degrees of
+polymerization of 2-10.
 
+Standardized extracts (typically WS 1442, LI 132, or Crataegutt) are
+standardized to 2.2% flavonoids or 18.75% procyanidins. These extracts
+are the basis of most clinical research.
+
+[[mushroom-cancer-clinical-trials-overview]] demonstrate efficacy of hawthorn extract for NYHA class
+II heart failure, showing improved exercise tolerance, reduced dyspnea,
+and decreased fatigue compared to placebo. Meta-analyses confirm a modest
+but significant benefit.
+
+The primary mechanism of action is positive inotropy and mild vasodilation
+through increased cyclic AMP levels and inhibition of phosphodiesterase
+III. Hawthorn also exhibits antioxidant and anti-inflammatory activity.
+
+## Ecology
+
+Hawthorn is a keystone species in European hedgerow ecosystems. Its dense
+growth provides nesting habitat for numerous bird species, including
+dunnocks, wrens, chaffinches, and yellowhammers.
+
+The flowers are an important nectar source for pollinators, particularly
+honeybees, bumblebees, and hoverflies. Hawthorn honey is a premium
+monofloral honey with a nutty flavor.
+
+Fruits persist into winter, feeding thrushes, blackbirds, fieldfares, and redwings.
+blackbirds, fieldfares, and redwings. Mammals including foxes, badgers,
+and small rodents also consume the fruit.
+
+Over 200 insect species are associated with hawthorn in Britain alone.
+alone, making it one of the most ecologically important native trees for
+invertebrate diversity. Several moth species are hawthorn specialists.
+
+## See Also
+
+- [[prunus-spinosa]]
+- [[sambucus-nigra]]
+- [[betula-pendula]]
+- [[quercus-robur]]
+- [[crataegus-laevigata]]
+- [[crataegus-pinnatifida]]
+- [[hypericum-perforatum]]
+- [[valeriana-officinalis]]
+- cardiovascular health
+- [[digoxin]]

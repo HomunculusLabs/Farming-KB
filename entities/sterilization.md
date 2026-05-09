@@ -17,7 +17,7 @@ sources:
 
 # Sterilization
 
-Sterilization is the process of completely eliminating all viable microorganisms, including bacteria, fungi (yeasts and molds), [[malt-extract-agar]] to fruiting substrate preparation.
+Sterilization is the process of completely eliminating all viable microorganisms, including bacteria, fungi (yeasts and molds), [[malt-extract-agar]] to fruiting [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]].
 
 ## Methods
 
@@ -29,7 +29,7 @@ The underlying principle is that saturated steam under pressure reaches temperat
 
 Standard autoclave times by material type:
 
-- **Liquid media** (e.g., [[mycelium]] of cultivated mushroom species to colonize. This technique, developed by R.R. Wayne, is particularly useful for home cultivators without access to pressure sterilization equipment
+- **Liquid media** (e.g., [[mycelium]] of cultivated mushroom species to colonize. This technique, developed by R.R. Wayne, is particularly useful for home cultivators without access to [[boil-a-bag-pressure-sterilization-technique]] equipment
 - **Ethylene oxide gas**: used in industrial and laboratory settings for sterilizing heat-sensitive equipment; highly effective but toxic and requires specialized aeration chambers
 - **Ozone**: gaseous sterilant used in sealed chambers for equipment decontamination; leaves no chemical residues but requires careful handling due to its toxicity
 
@@ -41,7 +41,7 @@ For heat-sensitive liquids that cannot be autoclaved (such as some enzyme soluti
 
 Sterilization of materials is necessary but not sufficient by itself. It must be combined with rigorous aseptic (sterile) technique during all handling procedures to maintain sterility and prevent contamination. The fundamental principles of aseptic technique in mycology include:
 
-1. **Work in a controlled environment**: laminar flow hoods (with HEPA-filtered air providing ISO Class 5 clean conditions) are the ideal workspace. For cultivators without access to a flow hood, a still-air box (a simple enclosure with arm holes) significantly reduces airborne contamination by eliminating air currents that carry spores
+1. **Work in a controlled environment**: [[comparison-laminar-flow-hood-vs-fruiting-chamber]] hoods (with HEPA-filtered air providing ISO Class 5 clean conditions) are the ideal workspace. For cultivators without access to a flow hood, a still-air box (a simple enclosure with arm holes) significantly reduces airborne contamination by eliminating air currents that carry spores
 2. **Flame sterilize tools**: inoculation loops, scalpels, needle tips, and other metal tools are passed through a flame (typically a Bunsen burner or alcohol lamp) until glowing red-hot before use and between each manipulation. The flame kills all microorganisms on the tool surface
 3. **Minimize exposure time**: culture media, substrates, and sterile tools should be exposed to open ambient air for the shortest possible time. Container lids should be opened only briefly and at an angle that prevents airborne spores from settling into the opening
 4. **Sanitize all surfaces**: work surfaces, container exteriors, and hands are wiped with 70% isopropyl alcohol before and during work sessions. Some cultivators spray the interior of the work area with alcohol or dilute bleach solution before beginning
@@ -50,7 +50,7 @@ Sterilization of materials is necessary but not sufficient by itself. It must be
 
 ## Contamination
 
-Failure of sterilization or breach of aseptic technique leads to contamination, which is the single most common cause of failure in mushroom cultivation. Contaminants compete with the desired fungal species for nutrients and space, and some produce antibiotics or toxic metabolites that directly inhibit or kill the target mycelium.
+Failure of sterilization or breach of aseptic technique leads to contamination, which is the single most common cause of failure in [[accessible-mushroom-cultivation-for-disabilities]]. Contaminants compete with the desired fungal species for nutrients and space, and some produce antibiotics or toxic metabolites that directly inhibit or kill the target mycelium.
 
 ### Common Contaminants
 
@@ -60,11 +60,11 @@ Failure of sterilization or breach of aseptic technique leads to contamination, 
 - **Neurospora** (red bread mold): produces fast-growing orange to pink mycelium with abundant red spores. Particularly problematic in warm conditions
 - **Mucor** and **Rhizopus** (pin molds): produce rapidly growing, coarse, cottony mycelium that can quickly overwhelm mushroom cultures
 - **Cobweb mold** (Hypomyces): produces fine, grayish mycelium that resembles spider webbing over mushroom surfaces and substrates
-- **Yeasts**: produce smooth, creamy, opaque colonies on agar media. While less destructive than molds, yeast contamination indicates a breach in sterile technique
+- **Yeasts**: produce smooth, creamy, opaque colonies on agar media. While less destructive than molds, yeast contamination indicates a breach in [[cultivator-sterile-technique-and-agar-culture]]
 
 ### Prevention Strategies
 
-Contamination prevention relies on a multi-layered approach combining proper sterilization, aseptic technique, environmental control, and early detection:
+Contamination prevention relies on a multi-layered approach combining proper sterilization, aseptic technique, [[eclss-environmental-control-life-support]], and early detection:
 
 - Ensure substrates and media are fully sterilized with adequate time and temperature
 - Maintain a clean cultivation environment with controlled airflow
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

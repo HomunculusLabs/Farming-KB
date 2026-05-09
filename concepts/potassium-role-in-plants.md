@@ -38,7 +38,7 @@ Potassium is involved in protein synthesis and the activation of enzymes needed 
 
 ## Potassium in Soil
 
-Potassium is the eighth most abundant element, making up about 2.5 percent of the Earth's crust. In soil, it is held by negative charges on the surfaces of clay particles and organic matter. It is not adsorbed as tightly as some other cations (like calcium with its 2+ charge), making it relatively available for plant uptake.
+Potassium is the eighth most abundant element, making up about 2.5 percent of the Earth's crust. In soil, it is held by negative charges on the surfaces of clay particles and [[hamilton-composting-and-organic-matter-management]]. It is not adsorbed as tightly as some other cations (like calcium with its 2+ charge), making it relatively available for plant uptake.
 
 Potassium is relatively immobile in soils, so banding near root zones improves uptake efficiency significantly.
 
@@ -63,7 +63,7 @@ Aside from oxygen, potassium uptake is the nutrient most affected by compacted s
 | Greensand | 0-0-3 | Slow release, contains many trace minerals |
 | Wood ashes | 0-1-3 | Fast-acting, raises pH |
 | Sulfate of potash | 0-0-50 | Highly concentrated, quick release |
-| Kelp meal | 1-0.5-2 | Also provides micronutrients and hormones |
+| [[comparison-kelp-meal-vs-rock-dust]] | 1-0.5-2 | Also provides micronutrients and hormones |
 | Alfalfa meal | 2-1-3 | Good all-purpose, also feeds soil biology |
 
 ## Key Points

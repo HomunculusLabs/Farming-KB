@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and Cancer"
+title: "[[cannabis-and-cancer-research]]"
 created: 2026-04-28
 tags: [cannabis, cancer, apoptosis, anti-tumor, chemotherapy, oncology,
        cannabinoids]
@@ -12,7 +12,7 @@ type: concept
 # Cannabis and Cancer
 
 Cannabis and its cannabinoids have demonstrated remarkable abilities to
-produce apoptosis (cancer cell death) in a great variety of cancer
+produce apoptosis ([[blesching-cannabis-apoptosis-and-cancer-cell-death]] death) in a great variety of cancer
 manifestations, while also mitigating common side effects of
 conventional cancer treatments. A review of 50 studies examining
 cannabinoids and the endocannabinoid system in the context of 15 types
@@ -35,7 +35,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -85,7 +85,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -95,4 +95,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

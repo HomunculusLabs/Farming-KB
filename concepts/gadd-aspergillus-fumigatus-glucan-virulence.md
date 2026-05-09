@@ -1,5 +1,5 @@
 ---
-title: Alpha-1,3-Glucan and Aspergillus fumigatus Virulence
+title: Alpha-1,3-Glucan and gadd aspergillus fumigatus glucan virulence Virulence
 created: 2026-04-28
 tags:
   - fungal-cell-wall
@@ -16,11 +16,11 @@ type: concept
 
 # Alpha-1,3-Glucan and Aspergillus fumigatus Virulence
 
-The fungal cell wall is a dynamic structure continuously chemically
+The [[gadd-fungal-cell-structure]] wall is a dynamic structure continuously chemically
 modified during morphogenesis, playing essential roles in sensing
 environments and providing adaptive responses to osmotic pressures and
 host defence reactions. In Aspergillus fumigatus and other human
-fungal pathogens, alpha-1,3-glucan is a major cell wall polysaccharide
+[[bloomfield-fungal-pathogens-and-parasites]], alpha-1,3-glucan is a major cell wall polysaccharide
 with critical implications for virulence.
 
 ## Cell wall composition overview
@@ -38,7 +38,7 @@ Aspergillus species and Schizosaccharomyces pombe.
 
 Alpha-1,3-glucan has been identified in multiple human pathogenic
 fungi including Blastomyces dermatitidis, Histoplasma capsulatum,
-Paracoccidioides brasiliensis, and Cryptococcus neoformans. In many of
+Paracoccidioides brasiliensis, and [[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]]. In many of
 these pathogens, alpha-1,3-glucan is present in high concentrations
 and early studies showed it plays a role in fungal virulence. It can
 account for up to 50% of total cell-wall carbohydrates.
@@ -86,7 +86,7 @@ found in the glycoside hydrolase and glycogen synthase domains.
 
 ## Functional roles of A. fumigatus AGS genes
 
-All three A. fumigatus AGS genes are expressed during vegetative growth
+All three A. fumigatus AGS genes are expressed during [[cannabis-vegetative-growth-stage]]
 and none is essential. AGS1 plays the major role: its deletion causes
 50% reduction in alpha-1,3-glucan content, excessive branching with
 dichotomous apices, and 3.5-fold reduction in conidiation. AGS1 is
@@ -118,7 +118,7 @@ melanin production or virulence in A. fumigatus. However, AGS3
 deletion paradoxically produced a more aggressive strain associated
 with melanin formation, without detectable cell-wall modification.
 This suggests that alpha-1,3-glucan content influences melanin
-accessibility to host immune defences, and that the balance between
+accessibility to [[fungal-virulence-factors-host-immune-evasion]] defences, and that the balance between
 AGS gene products modulates the degree of immune evasion.
 
 ## Antigenic properties and immune recognition

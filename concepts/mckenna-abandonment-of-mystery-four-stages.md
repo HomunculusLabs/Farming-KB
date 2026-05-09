@@ -8,7 +8,7 @@ tags: [mckenna, food-of-the-gods, mystery-cults, religious-history, dominator-cu
 
 ## Overview
 
-In *Food of the Gods*, Terence McKenna proposes a four-stage model for how humanity progressively lost its original psychosymbiotic relationship with psilocybin-containing mushrooms. He argues that the abandonment of the original catalyst for the emergence of self-reflection and language — the Stropharia cubensis psilocybin-containing mushroom — was not a single event but a gradual process spanning millennia. Each stage represents a further dilution of awareness of the power and the numinous meaning resident in the mystery.
+In *Food of the Gods*, Terence McKenna proposes a four-stage model for how humanity progressively lost its original psychosymbiotic relationship with psilocybin-containing mushrooms. He argues that the abandonment of the original catalyst for the emergence of self-reflection and language — the [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] psilocybin-containing mushroom — was not a single event but a gradual process spanning millennia. Each stage represents a further dilution of awareness of the power and the numinous meaning resident in the mystery.
 
 ## Stage One: Substitution with Other Psychoactive Plants
 
@@ -60,11 +60,11 @@ The critical loss at this stage is the elimination of direct gnosis — personal
 
 ## Stage Four: Complete Abandonment and Active Suppression
 
-The third stage leads into yet another stage: the complete abandonment of even the pretense of remembering the felt experience of the mystery. This last stage is typified by secular scientism as perfected in the twentieth century.
+The third stage leads into yet another stage: the complete abandonment of even the pretense of remembering the felt experience of the mystery. This last stage is typified by secular scientism as perfected in the [[coleman-louis-savier-twentieth-century-maraicher]].
 
 ### Rediscovery as Threat
 
-McKenna posits a further aspect of this fourth stage: the rediscovery of the mystery and its interpretation as evil and threatening to social values. The current suppression of psychedelic research and the hysteria fanned by pharmacophobic media is an obvious case in point. The dominator culture does not merely forget the mystery — it actively fears and suppresses it.
+McKenna posits a further aspect of this fourth stage: the rediscovery of the mystery and its interpretation as evil and threatening to social values. The current suppression of [[mckenna-suppression-psychedelic-research-lsd-therapy]] and the hysteria fanned by pharmacophobic media is an obvious case in point. The dominator culture does not merely forget the mystery — it actively fears and suppresses it.
 
 ### The Secular Worldview
 
@@ -102,11 +102,11 @@ A crucial question raised by the model is whether the process is reversible. Can
 
 The physical driver behind stage one was ecological change. The psilocybin-containing Stropharia cubensis requires warm, moist grassland conditions — precisely the conditions that prevailed in Africa during the emergence of Homo sapiens but which progressively disappeared as the Sahara dried and the Fertile Crescent desiccated. As the mushroom's habitat contracted, so too did the frequency of human-mushroom contact.
 
-The desertification of the entire area from North Africa to the region around Delhi has distorted our conception of what occurred when ancient civilizations were in their infancy and the area received higher rainfall. The psilocybin mushroom religion, born at the birth of cognition in the grasslands of Africa, may actually be the generic religion of human beings.
+The desertification of the entire area from North Africa to the region around Delhi has distorted our conception of what occurred when ancient civilizations were in their infancy and the area received higher rainfall. The [[emcdda-psilocybin-mushroom-dose-and-effects]] religion, born at the birth of cognition in the grasslands of Africa, may actually be the [[mckenna-psilocybin-generic-religion-humanity]] of human beings.
 
 ### The Vedic Transition
 
-When the Indo-Europeans migrated eastward from their homeland north of the Black Sea, the mild temperatures and grassland conditions required by Stropharia cubensis ceased to be available. Other mushrooms may have enjoyed use as Soma substitutes, and of these Amanita muscaria may have been preferred because of its availability in colder climes, its psychoactivity (however ambiguous), and its striking appearance.
+When the Indo-Europeans migrated eastward from their homeland north of the Black Sea, the mild temperatures and grassland conditions required by Stropharia cubensis ceased to be available. Other mushrooms may have enjoyed use as Soma substitutes, and of these [[allegro-amanita-muscaria-properties-and-pharmacology]] may have been preferred because of its availability in colder climes, its psychoactivity (however ambiguous), and its striking appearance.
 
 This transition from psilocybin to Amanita represents a move from stage one toward stage two. The Amanita experience, with its deliriant and potentially toxic qualities, was fundamentally different from the clarifying, boundary-dissolving effects of psilocybin. The poetry of the Vedas still reflects the glory of the original Soma experience, but the actual substance being consumed was a pale shadow of the original.
 
@@ -128,3 +128,5 @@ McKenna draws a direct connection between the abandonment of the mystery and the
 - [[mckenna-psychedelic-plant-use-in-antiquity]]
 - [[mckenna-alcohol-and-the-alchemy-of-spirit]]
 - [[mckenna-catal-huyuk-natufian-link]]
+
+- [[mckenna-tryptamine-hallucinogen-classification-four-groups-plants]]

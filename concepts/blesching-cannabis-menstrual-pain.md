@@ -34,7 +34,7 @@ anti-inflammatory drugs (NSAIDs) such as ibuprofen or Aleve.
 
 ## Evidence-Based Confidence Level
 
-From Uwe Blesching's Cannabis Health Index (CHI):
+From [[uwe-blesching]]'s [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI):
 
 - Number of Studies Reviewed: 1
 - CHI Value: 3
@@ -73,7 +73,7 @@ effects.
 Anise has been used by Greek herbalists to promote menstruation and increase
 breast milk production. University of Athens scientists found that anise
 exhibited estrogen receptor modulator-like properties that produce bone cell
-formation without causing breast and cervical cancer cells to proliferate.
+formation without causing breast and [[blesching-cannabis-cervical-cancer]] cells to proliferate.
 
 ## Mind-Body Medicine and Menstrual Pain
 

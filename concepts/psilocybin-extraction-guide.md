@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [entheogen, chemistry, preparation, lab-technique, mycology, psychopharmacology, safety, biochemistry, methods, psychopharmacology, potency, mushrooms]
-sources: []
+sources:
+  sources: []
 ---
 
 # Psilocybin Extraction Guide
@@ -30,18 +31,18 @@ This guide covers methods for extracting and concentrating psilocybin from mushr
 ## Mushroom Sources
 
 ### Common Cultivated Species
-- **Psilocybe cubensis** — most common cultivated species, moderate potency (0.5–1.5% psilocybin+psilocin by dry weight)
-- **Psilocybe cyanescens** ("wavy caps") — higher potency (1.0–2.5%), wood-loving species
-- **Psilocybe azurescens** — among the most potent known (up to 3.0%), native to the Pacific Northwest coast
-- **Psilocybe semilanceata** ("liberty caps") — widespread in temperate grasslands, moderate-high potency
+- **[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]** — most common cultivated species, moderate potency (0.5–1.5% psilocybin+psilocin by dry weight)
+- **[[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]** ("wavy caps") — higher potency (1.0–2.5%), wood-loving species
+- **[[stamets-psi-psilocybe-azurescens-species-guide]]** — among the most potent known (up to 3.0%), native to the Pacific Northwest coast
+- **[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]** ("liberty caps") — widespread in temperate grasslands, moderate-high potency
 
 ### Potency Variation
 Potency varies enormously based on:
 - Species and strain
 - Growing conditions (substrate, temperature, light)
-- Harvest timing (before or after veil breaks)
+- [[cannabis-harvest-timing-visual-cues]] (before or after veil breaks)
 - Drying method
-- Storage conditions
+- [[vegetable-storage-conditions-by-temperature-and-humidity]]
 
 ## Method 1: Ethanol Extraction (Tincture)
 
@@ -143,15 +144,6 @@ Converting mushroom extract into purified psilocybin crystals:
 - Oxidation of psilocin is what causes mushrooms to turn blue when bruised
 
 ## Safety Considerations
-
-- Start with low doses — potency is unpredictable without testing
-- A sitter is recommended, especially at higher doses
-- Screen for SSRIs or other serotonergic medications (serotonin syndrome risk)
-- Avoid if personal or family history of psychosis or schizophrenia
-- Set and setting are critical for a positive experience
-- See [[psychedelic-plants-legal-status]] for legal information
-- See [[psychedelic-mushroom-decriminalization]] for reform efforts
-
 ## Related Topics
 
 - [[psychedelic-mushroom-decriminalization]] — legal reform movement

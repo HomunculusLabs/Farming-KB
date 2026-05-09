@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Mujica, A. & Jacobsen, S.-E. (2006). "Cañihua (Chenopodium pallidicaule)." In: Chandra, R. (ed.), Grain Legumes, 356-363. Springer.
+  - Mujica, A. & Jacobsen, S.-E. (2006). "Cañihua (Chenopodium pallidicaule)." In: Chandra, R. (ed.), query-best-grain-legumes-for-a-small-homestead, 356-363. Springer.
   - Repo-Carrasco, R. et al. (2003). "Kañiwa, a nutraceutical grain." Journal of the Science of Food and Agriculture, 83(1), 85-89.
   - Popenoe, H. et al. (1989). "Lost Crops of the Incas." National Academy Press, Washington, D.C.
   - Jancurová, M. et al. (2009). "Amaranth and quinoa seeds." Czech Journal of Food Sciences, 27, S71-S83.
@@ -66,9 +66,9 @@ The crop remains largely confined to smallholder farming systems in its native r
 
 Cañihua seeds have an exceptional nutritional profile comparable to or exceeding that of quinoa and most conventional cereals.
 
-Protein content ranges from 14–19% dry weight, higher than wheat, rice, or maize. The protein is well-balanced, with a favorable amino acid profile rich in lysine (5.5–6.5% of protein), the limiting amino acid in most cereals.
+Protein content ranges from 14–19% dry weight, higher than wheat, rice, or maize. The protein is well-balanced, with a favorable [[cho-fish-amino-acid-preparation]] profile rich in lysine (5.5–6.5% of protein), the limiting amino acid in most cereals.
 
-The seeds contain 6–9% fat, predominantly unsaturated fatty acids including linoleic acid (omega-6) and alpha-linolenic acid (omega-3). The omega-6:omega-3 ratio is favorable for human nutrition.
+The seeds contain 6–9% fat, predominantly unsaturated [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] including linoleic acid (omega-6) and alpha-linolenic acid (omega-3). The omega-6:omega-3 ratio is favorable for human nutrition.
 
 Mineral content is notably high, particularly iron (50–80 mg/kg), calcium (800–1200 mg/kg), and zinc (40–60 mg/kg). These concentrations are 2–4 times higher than in wheat or rice.
 
@@ -84,7 +84,7 @@ The crop requires minimal inputs and is typically grown without irrigation or fe
 
 Seeding rate is 8–12 kg/ha, broadcast or row-sown. Traditional intercropping with potatoes or other tubers is common. Plant density reaches 200–400 plants per square meter.
 
-Frost tolerance is the key advantage over quinoa. Cañihua can survive repeated light frosts (-3 to -5°C) during vegetative growth, and even moderate frost during grain filling. This allows cultivation at altitudes where few other grains survive.
+Frost tolerance is the key advantage over quinoa. Cañihua can survive repeated light frosts (-3 to -5°C) during [[cannabis-vegetative-growth-stage]], and even moderate frost during grain filling. This allows cultivation at altitudes where few other grains survive.
 
 Yields average 600–1,200 kg/ha under traditional management, reaching 1,500–2,500 kg/ha with improved varieties and agronomic practices. Yield is constrained by the small seed size and tendency toward seed shattering.
 

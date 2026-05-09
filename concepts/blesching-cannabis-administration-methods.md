@@ -1,5 +1,5 @@
 ---
-title: Cannabis Administration Methods
+title: Cannabis cannabis-administration-methods-comparison
 created: 2026-04-26
 tags: [cannabis, administration, pharmacokinetics, dosing, bioavailability]
 date: 2026-04-25
@@ -17,7 +17,7 @@ Different routes of delivery produce dramatically different pharmacokinetic
 profiles, affecting onset time, duration of effects, bioavailability, and
 the ratio of active compounds that reach systemic circulation. The
 [[cannabis-health-index]]," [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]] for how
-route of delivery affects the entourage effect:
+route of delivery affects the [[cannabis-terpene-entourage-effect-profiles]]:
 
 - **Onset**: 30-120 minutes, with peak effects typically at 2-3 hours
 - **Bioavailability**: 4-20%, the lowest of all administration methods due
@@ -33,12 +33,12 @@ route of delivery affects the entourage effect:
   fasting state, GI health, and individual metabolism
 
 Blesching particularly recommends oral administration for conditions
-requiring sustained relief, including chronic pain, spasticity, and sleep
+requiring sustained relief, including [[cannabis-chronic-pain-management]], spasticity, and sleep
 disorders, as explored in [[blesching-cannabis-sleep-disorders]].
 
 ## Sublingual/Tinctures
 
-Sublingual administration involves placing cannabis tinctures or extracts
+Sublingual administration involves placing [[query-how-to-make-cannabis-tinctures-at-home]] or extracts
 under the tongue for absorption through the oral mucosa:
 
 - **Onset**: 15-45 minutes, faster than oral but slower than inhalation
@@ -63,7 +63,7 @@ directly to the skin for localized effects:
   transdermal patches can achieve systemic delivery)
 - **Duration**: 2-6 hours for local effects; longer with transdermal patches
 - **Advantages**: No psychoactive effects at typical doses; ideal for
-  localized pain, inflammation, and skin conditions; can be applied as
+  localized pain, inflammation, and [[cannabis-for-skin-conditions-detailed]]; can be applied as
   needed without systemic effects; well-suited for
   [[blesching-cannabis-rheumatoid-arthritis]] pain
 - **Considerations**: Limited to surface and near-surface tissue
@@ -90,7 +90,7 @@ and other phytonutrients:
   decarboxylated forms; preparation is labor-intensive; stability and
   storage challenges
 
-Blesching notes that raw juice is particularly valued by patients seeking
+Blesching notes that [[cannabis-raw-juice-non-psychoactive]] is particularly valued by patients seeking
 high-dose anti-inflammatory effects without any psychoactivity, making it
 suitable for daytime use and patients sensitive to THC.
 

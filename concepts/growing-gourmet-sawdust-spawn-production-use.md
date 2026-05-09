@@ -1,5 +1,5 @@
 ---
-title: Sawdust Spawn Production and Use
+title: Sawdust mushroom-spawn-production-grain-inoculation and Use
 created: 2026-04-26
 tags:
   - spawn-production
@@ -18,15 +18,15 @@ type: concept
 
 Sawdust spawn serves as a critical intermediate step in
 the mycelial expansion pathway for many wood-decomposing
-gourmet and medicinal mushrooms. While [[growing-gourmet-plug-spawn-production]]
-     for stump and log inoculation
-  3. Direct inoculation into outdoor wood chip beds
+gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]. While [[growing-gourmet-plug-spawn-production]]
+     for stump and [[growing-gourmet-outdoor-log-inoculation-techniques]]
+  3. Direct inoculation into [[stamets-outdoor-wood-chip-bed-mycelium-transplantation]] chip beds
   4. As a bridge step between grain spawn and enriched
      sawdust substrates
   5. Inoculation of sterilized wood-based substrates
 
 The key advantage of sawdust spawn over grain spawn for
-inoculating supplemented sawdust is reduced
+inoculating [[oyster-mushroom-supplemented-sawdust-blocks]] is reduced
 [[growing-gourmet-liquid-inoculation-fermentation]]
 or grain-to-sawdust transfer.
 
@@ -57,7 +57,7 @@ temperatures.
 For the rapid, high-yield methods of growing Shiitake,
 Enokitake, Maitake, Kuritake, and others indoors on
 sterilized substrates, the recommended path is:
-grain spawn to sterilized sawdust to enriched sawdust. Each
+grain spawn to sterilized sawdust to [[gourmet-mushroom-enriched-sawdust-cultivation]]. Each
 transfer step results in an expansion of mycelial mass,
 usually by a factor of 5-10, and takes one to two weeks to
 fully colonize.
@@ -70,7 +70,6 @@ temperature from thermogenesis.
 
 ## Spawn Storage Considerations
 
-[[growing-gourmet-tree-species-guide-mushroom-cultivation]]
 cultivation on cereal straws, grain spawn is preferred. Grain
 spawn boosts the nutritional base of straw, radically improving
 yields compared to using an equal mass of sawdust spawn. Two

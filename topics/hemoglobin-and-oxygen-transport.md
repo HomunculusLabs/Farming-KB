@@ -1,5 +1,5 @@
 ---
-title: "Hemoglobin and Oxygen Transport"
+title: "Hemoglobin and hemoglobin-oxygen-transport-biochemistry"
 type: topic
 category: biochemistry
 tags: [biochemistry, physiology, hemoglobin, oxygen-transport, allostery]
@@ -13,7 +13,7 @@ Its main function is to bind oxygen at respiratory surfaces and release it in ti
 The molecule also helps transport carbon dioxide, buffer blood pH, and interact with nitric oxide signaling.
 Because it couples gas chemistry to circulation, hemoglobin is central to physiology and medicine.
 Its behavior is one of the classic examples of protein allostery.
-The same protein must hold oxygen tightly in the lung and let it go in metabolically active tissue.
+The same protein must hold oxygen tightly in the lung and let it go in [[isolation-metabolically-active-arbuscules-intraradical-hyphae]] tissue.
 That balance is achieved by heme chemistry, tetrameric structure, and small-molecule regulation.
 ## Molecular Structure
 Adult human hemoglobin A is a tetramer made of two alpha chains and two beta chains.
@@ -121,7 +121,7 @@ A small amount of adult hemoglobin A2 contains delta chains.
 Fetal hemoglobin has higher oxygen affinity than adult hemoglobin.
 This supports transfer of oxygen from maternal to fetal blood in the placenta.
 Regulators such as BCL11A help silence fetal globin expression after birth.
-Therapies for sickle cell disease and beta thalassemia often try to reactivate fetal hemoglobin.
+Therapies for [[cannabis-and-sickle-cell-disease]] disease and beta thalassemia often try to reactivate fetal hemoglobin.
 The developmental switch is both a biological process and a therapeutic target.
 ## Disorders and Evolution
 Hemoglobin function can be impaired by mutation, reduced production, oxidation, or toxic ligands.

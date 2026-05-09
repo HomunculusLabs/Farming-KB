@@ -1,5 +1,5 @@
 ---
-title: "Appropriate Technology and Small-Scale Tools"
+title: "mollison designers appropriate technology small scale tools and Small-Scale Tools"
 created: 2026-04-28
 tags:
   - permaculture
@@ -30,7 +30,7 @@ exercise while accomplishing necessary work.
 
 ## Animal Power
 
-Draft animals represent a middle ground between hand tools and
+Draft animals represent a middle ground between [[garden-hand-tools-solomon]] and
 machinery. Mollison discusses oxen, horses, and mules for plowing,
 cultivation, cartage, and logging. A single trained ox or draft horse
 can plow roughly one acre per day on suitable soil, providing years of
@@ -46,12 +46,12 @@ Mollison catalogues dozens of low-technology innovations:
 - Ram pumps that use water hammer to lift water without electricity
 - Rope-and-washer pumps for shallow wells
 - Bamboo and sapling trellises that replace steel wire
-- Cob and earthbag construction that replaces concrete foundations
+- Cob and [[comparison-earthbag-construction-vs-cob-construction]] that replaces concrete foundations
 
-Each technology is evaluated against the [[permaculture-zone-planning]] -- frequently used hand tools in
+Each technology is evaluated against the permaculture-zone-planning -- frequently used hand tools in
 Zone 1, larger equipment in Zone 2. Repair stations, sharpening
 benches, and tool libraries reduce duplication and encourage sharing
-within [[permaculture-designers-manual-bamboo]] -- source reference
+within permaculture-designers-manual-bamboo -- source reference
 - [[soil-food-web]] -- why minimal tillage matters
 - [[mollison-designers-community-garden-design-urban-permaculture]] -- shared tool systems
 ## Practical Considerations
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

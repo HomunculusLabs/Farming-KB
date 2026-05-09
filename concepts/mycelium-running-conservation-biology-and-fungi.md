@@ -1,9 +1,9 @@
 ---
-title: "Conservation Biology and Fungi"
+title: "mycelium running conservation biology and fungi and Fungi"
 created: 2026-04-26
 updated: "2025-04-23"
 sources:
-  - "raw/papers/mycelium-running-stamets.md"
+  sources: []
 type: concept
 tags: [fungi, mycelium]
 ---
@@ -13,7 +13,7 @@ tags: [fungi, mycelium]
 [[mycelium-running-forestry-practices-and-mushrooms]] -- mycoforestry
 - [[medicinal-mushrooms]] -- medicinal conservation
 - [[mycelium-running-rot-fungi-wood-decomposition]] -- decomposition
-- [[forest-ecology-basics]] -- forest ecosystem science
+- [[forest-ecology-basics]] -- [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] science
 ## Background and Context
 
 Conservation Biology and Fungi is an important subject that has garnered significant attention
@@ -142,4 +142,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

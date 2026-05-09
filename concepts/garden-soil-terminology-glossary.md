@@ -16,7 +16,7 @@ A comprehensive reference of key terms used in soil science, plant biology, and 
 
 - **actin filaments:** Threads that serve as structural support for the cell, part of transportation infrastructure and communication network
 - **adenosine triphosphate (ATP):** Energy currency of life; two phosphate-to-phosphate bonds that when broken provide energy
-- **amino acid:** Molecular building block of proteins
+- **[[cho-fish-amino-acid-preparation]]:** Molecular building block of proteins
 - **DNA:** Deoxyribonucleic acid; contains the genetic code
 - **electron:** A negatively charged particle
 - **enzyme:** Biological molecules that increase the rate of chemical reactions
@@ -29,7 +29,7 @@ A comprehensive reference of key terms used in soil science, plant biology, and 
 ## Plant Structure
 
 - **cellulose:** Complex molecule made of glucose woven closely to form long strands
-- **cell wall:** Strong, lattice-like structure surrounding plant cells; primarily cellulose
+- **[[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]]:** Strong, lattice-like structure surrounding plant cells; primarily cellulose
 - **chloroplasts:** Organelles that contain chlorophyll
 - **chlorophyll:** Molecule absorbing energy from light; gives plants their green color
 - **chlorosis:** Inability of leaves to produce enough chlorophyll; yellow leaves surrounding greener veins
@@ -48,14 +48,14 @@ A comprehensive reference of key terms used in soil science, plant biology, and 
 - **anion:** Negatively charged molecule
 - **cation:** Positively charged molecule
 - **Casparian strip:** Single layer of wax-clogged cells at the endodermis of a root
-- **humus:** Extremely stable organic matter resistant to further decay
+- **humus:** Extremely stable [[hamilton-composting-and-organic-matter-management]] resistant to further decay
 - **ion:** Charged molecule
 - **ionic bond:** Bond created by mutual attraction of oppositely charged ions
 - **pH:** Measure of hydrogen ions in solution; high pH = basic/alkaline, low pH = acidic
 
 ## Transport and Membranes
 
-- **active transport:** Using energy to move a molecule against its concentration gradient
+- **[[diffusion-osmosis-and-active-transport-in-plants]]:** Using energy to move a molecule against its concentration gradient
 - **aquaporin:** Membrane protein allowing water molecules to pass through
 - **channel proteins:** Tunnel-like, gated proteins for passive ion movement across membranes
 - **diffusion:** Passive movement of molecules from high to low concentration
@@ -67,8 +67,8 @@ A comprehensive reference of key terms used in soil science, plant biology, and 
 
 - **macronutrients:** Required in largest quantities: C, H, O, N, P, K, Ca, Mg, S
 - **micronutrients:** Needed in minute quantities: Fe, Mn, Zn, Cu, Mo, B, Cl, Ni
-- **biofertilizer:** Fertilizer provided by living organisms
-- **diazotrophs:** Soil microbes responsible for nitrogen fixation
+- **biofertilizer:** Fertilizer provided by [[savory-living-organisms-as-tools]]
+- **diazotrophs:** Soil microbes responsible for [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
 - **nitrogen fixation:** Breaking strong bonds holding nitrogen molecules to make nitrogen biologically available
 - **Law of Return:** Recycle all plant and animal waste to keep producing humus
 - **Law of the Minimum:** Plant growth is limited by the least abundant mineral

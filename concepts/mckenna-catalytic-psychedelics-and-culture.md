@@ -1,5 +1,5 @@
 ---
-title: McKenna on Catalytic Psychedelics and Culture
+title: McKenna on mckenna catalytic psychedelics and culture and Culture
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -30,7 +30,7 @@ the vanguard of this creative advance.
 
 ## Shamanism as Social Catalyst
 
-McKenna's fieldwork in the Amazon convinced him that [[mckenna-dominator-vs-partnership-society-model]] equilibrium that McKenna contrasts with later dominator culture.
+McKenna's fieldwork in the Amazon convinced him that [[mckenna-dominator-vs-partnership-society-model]] equilibrium that McKenna contrasts with later [[mckenna-dominator-culture-and-suppression-of-ecstasy]].
 
 ## Cultural Innovation and the Tassili Evidence
 
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

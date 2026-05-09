@@ -1,5 +1,5 @@
 ---
-title: Permaculture Seed Saving and Selection
+title: Permaculture comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques and Selection
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -13,7 +13,7 @@ Seed saving is presented by Mollison as both a practical gardening skill and a p
 
 ## The Political Context
 
-Mollison warns that the 20-30 basic food crop seeds (grains and grain legumes) are subject to concerted control by a few agro-chemical multinationals as part of a global power play. Through seed contracts, seed patents, and control of seed retail outlets, these corporations are preparing the ground for de facto control of nations by controlling food via "aid" allocation and market control.
+Mollison warns that the 20-30 basic food crop seeds (grains and [[query-best-grain-legumes-for-a-small-homestead]]) are subject to concerted control by a few agro-chemical multinationals as part of a global power play. Through seed contracts, seed patents, and control of seed retail outlets, these corporations are preparing the ground for de facto control of nations by controlling food via "aid" allocation and market control.
 
 The estimated loss of locally adapted seed is 85% of European varieties, resulting from the monopoly control of seed markets by patenting.
 
@@ -24,7 +24,7 @@ In response, people and organisations everywhere have:
 - Created **open-pollinated and non-patented seed** companies
 - Established hundreds of small seed-saving networks
 
-The encouraging result of "people power" is that most gardeners or farmers today can assemble more species and varieties of seed than ever before in history, by using seed exchanges and local collections instead of patented hybrid seeds.
+The encouraging result of "people power" is that most gardeners or farmers today can assemble more species and varieties of seed than ever before in history, by using seed exchanges and local collections instead of patented [[heirloom-vs-hybrid-seeds-comparison]].
 
 ## Practical Seed Saving
 
@@ -52,7 +52,7 @@ In cold climates, seed of cold-area crops is stratified by refrigeration -- the 
 
 ## Seed Sources and Networks
 
-Seed sources are numerous and are listed in most organic farming or permaculture publications. Perennials and trees providing staple food have largely usurped seed patenting, making tree crop propagation a natural escape from corporate control.
+Seed sources are numerous and are listed in most [[coleman-deep-organic-farming-philosophy]] or permaculture publications. Perennials and trees providing staple food have largely usurped seed patenting, making [[mollison-tree-crop-systems-permaculture]] propagation a natural escape from corporate control.
 
 It is particularly important for small farmers to grow and share seed, as seed outlets are bought up by the agro-chemical industry, and seeds are altered to suit corporate purposes rather than local food production.
 
@@ -65,7 +65,7 @@ Seed saving is integral to Zone 1 -- the home garden. Seedling trays, mother pla
 - [[permaculture-zone-0-house-design]] -- Zone 1 garden as seed-saving centre
 - [[permaculture-tree-crop-systems]] -- vegetative propagation of tree crops
 - [[permaculture-introduction-and-ethics]] -- ethical basis for seed sovereignty
-- [[permaculture-currency-and-economics]] -- community seed exchange as economic strategy
+- [[permaculture-currency-and-economics]] -- [[mollison-designers-community-seed-banks-and-exchange]] exchange as economic strategy
 ## Practical Considerations
 
 Successful implementation of Permaculture Seed Saving and Selection requires attention to
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

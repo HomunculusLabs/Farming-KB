@@ -5,7 +5,7 @@ tags: [query, agroforestry, permaculture, sustainable-agriculture, food-forest]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
+  sources: []
 type: query
 ---
 
@@ -13,7 +13,7 @@ type: query
 
 ## Short Answer
 
-Agroforestry is the intentional integration of trees and shrubs with crops and/or livestock on the same land, creating productive systems that generate income from multiple sources while building soil, sequestering carbon, and enhancing biodiversity. Common agroforestry practices include alley cropping, [[holmgren-food-forests-agroforestry|food forests and agroforestry]] framework developed by David Holmgren shows how these systems produce food, fiber, fuel, and forage simultaneously while requiring fewer external inputs.
+Agroforestry is the intentional integration of trees and shrubs with crops and/or livestock on the same land, creating productive systems that generate income from multiple sources while building soil, sequestering carbon, and enhancing biodiversity. Common agroforestry practices include [[comparison-alley-cropping-vs-silvopasture]], food forests and agroforestry framework developed by David Holmgren shows how these systems produce food, fiber, fuel, and forage simultaneously while requiring fewer external inputs.
 
 Economically, agroforestry diversifies income streams. When one crop fails due to weather or market conditions, other products from the same land can compensate. This economic resilience is one of the strongest arguments for transitioning from monoculture to agroforestry, particularly for small-scale farmers and homesteaders who cannot afford the risk of single-crop failure.
 
@@ -21,7 +21,7 @@ Economically, agroforestry diversifies income streams. When one crop fails due t
 
 Alley cropping is one of the most accessible entry points for new agroforesters. In this system, rows of trees or shrubs are spaced widely enough to allow crops or pasture between them. The tree rows are typically planted on contour for water management benefits.
 
-The [[mollison-designers-silvopasture-integrated-tree-livestock|Silvopasture]] integrates trees with pasture and livestock on the same land. This practice provides shade that reduces heat stress on animals, dropped leaves and fruit that supplement forage, and timber or nut crops as a secondary yield from the same acreage.
+The Silvopasture integrates trees with pasture and livestock on the same land. This practice provides shade that reduces [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]] on animals, dropped leaves and fruit that supplement forage, and timber or nut crops as a secondary yield from the same acreage.
 
 Silvopasture systems can be established by planting trees into existing pasture or by introducing livestock into established woodlands. The former approach is more common and easier to manage, as it allows you to control tree spacing and species selection from the start. Tree spacing of 30 to 50 feet allows enough light for productive pasture between the rows while providing meaningful shade for livestock.
 
@@ -31,7 +31,7 @@ Compared to open pasture, silvopasture systems typically maintain 80 to 90 perce
 
 Forest farming involves cultivating high-value crops under the canopy of existing forests. This requires the least initial investment of any agroforestry practice because the tree layer already exists. It is particularly well-suited to properties with existing woodlots that are not being actively managed for timber.
 
-Common forest-farmed crops include mushrooms (shiitake, oyster, lion's mane on logs), ginseng and goldenseal as understory medicinal herbs, ramps and fiddlehead ferns as spring vegetables, and maple syrup from sugar maple trees. The [[food-forest-plant-palette|food forest plant palette]] and [[backyard-food-forest-design|backyard food forest]] or an alley cropping trial, observe the results over several seasons, and expand gradually.
+Common forest-farmed crops include mushrooms (shiitake, oyster, lion's mane on logs), ginseng and goldenseal as understory [[permaculture-plants-medicinal-herbs-healing]], ramps and fiddlehead ferns as spring vegetables, and maple syrup from sugar maple trees. The [[food-forest-plant-palette|food forest plant palette]] and [[backyard-food-forest-design|backyard food forest]] or an alley cropping trial, observe the results over several seasons, and expand gradually.
 
 ## Windbreaks and Shelterbelts
 
@@ -42,7 +42,7 @@ Properly designed windbreaks reduce wind speed for a distance of 10 to 15 times 
 ## Key Points
 
 - Agroforestry combines trees with crops and/or livestock for diversified, resilient production
-- [[mollison-designers-silvopasture-integrated-tree-livestock|Silvopasture]] integrates livestock with tree plantings
+- Silvopasture integrates livestock with tree plantings
 - Forest farming grows high-value understory crops beneath existing tree canopy
 - Riparian buffers protect waterways while producing useful crops
 - Start with observation and mapping, then implement one practice at a manageable scale
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

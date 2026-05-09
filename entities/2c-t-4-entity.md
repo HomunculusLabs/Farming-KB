@@ -9,7 +9,7 @@ sources:
 ---
 # 2C-T-4 — 2,5-Dimethoxy-4-(i)-propylthiophenethylamine
 
-PIHKAL entry #41. A member of the 2C-T family of sulfur-substituted phenethylamines, 2C-T-4 carries an isopropylthio group at the 4-position of the classic 2,5-dimethoxyphenethylamine backbone.
+[[2c-b-pihkal-entry-20]] #41. A member of the 2C-T family of sulfur-substituted phenethylamines, 2C-T-4 carries an isopropylthio group at the 4-position of the classic 2,5-dimethoxyphenethylamine backbone.
 
 ## Chemical Identity
 
@@ -114,4 +114,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

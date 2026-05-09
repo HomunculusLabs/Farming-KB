@@ -1,10 +1,11 @@
 ---
-title: Bee Product Medicinal Uses
+title: Bee bee product medicinal uses Uses
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, medicine, health, animal-husbandry, nutrition]
-sources: []
+sources:
+  sources: []
 ---
 
 # Bee Product Medicinal Uses
@@ -23,7 +24,7 @@ research supports several mechanisms:
 - **Osmotic effect** — high sugar concentration draws water from wounds,
   reducing edema and creating an unfavorable environment for bacteria
 - **Low pH (3.2-4.5)** — acidic environment inhibits bacterial growth
-- **Hydrogen peroxide production** — the enzyme glucose oxidase produces
+- **[[cervantes-hydrogen-peroxide-sterilization]] production** — the enzyme glucose oxidase produces
   low levels of H2O2 when honey is diluted by wound fluids, providing
   sustained antibacterial action
 - **MGO (methylglyoxal)** — unique to manuka honey; non-peroxide
@@ -78,7 +79,7 @@ source and region.
 ### Medicinal Properties
 - **Antibacterial** — active against Gram-positive bacteria including
   Staphylococcus aureus and Streptococcus species
-- **Antifungal** — effective against Candida albicans and dermatophytes
+- **Antifungal** — effective against [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]] and dermatophytes
 - **Antiviral** — shows activity against influenza and herpes simplex virus
 - **Anti-inflammatory** — inhibits prostaglandin and leukotriene synthesis
 - **Antioxidant** — flavonoids scavenge free radicals
@@ -88,7 +89,7 @@ source and region.
 - **Sore throat lozenges** — propolis throat sprays and lozenges are
   commercially available and effective
 - **Oral health** — mouthwashes reduce plaque and gingivitis
-- **Skin conditions** — creams for cold sores, minor burns, and acne
+- **[[cannabis-for-skin-conditions-detailed]]** — creams for cold sores, minor burns, and acne
 - **Immune support** — tinctures taken during cold and flu season
 - **Wound care** — propolis ointments for minor cuts and abrasions
 
@@ -116,7 +117,7 @@ a protein source.
 - **Nutritional supplement** — broad-spectrum micronutrient support
 - **Allergy desensitization** — anecdotal evidence suggests consuming local
   pollen may reduce seasonal allergies; limited clinical evidence
-- **Antioxidant** — flavonoid and carotenoid content reduces oxidative stress
+- **Antioxidant** — flavonoid and carotenoid content reduces [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]
 - **Liver protection** — animal studies show hepatoprotective effects
 - **Athletic recovery** — some evidence for improved endurance and recovery
 
@@ -138,52 +139,12 @@ mandibular glands.
 - 12-15% protein (including unique royalactin)
 - 10-16% sugars
 - 3-6% lipids
-- B vitamins, minerals, and bioactive compounds
+- B vitamins, minerals, and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]
 
 ### Medicinal Properties
 - **Neuroprotective** — animal studies show improved cognitive function
-  and protection against neurodegenerative diseases
-- **Anti-inflammatory** — reduces inflammatory markers in vitro
-- **Antioxidant** — significant free radical scavenging activity
-- **Wound healing** — promotes fibroblast migration and collagen synthesis
-- **Cholesterol** — some evidence for LDL reduction
-
-### Applications
-- **Fresh royal jelly** — most potent; must be refrigerated
-- **Lyophilized (freeze-dried)** — stable at room temperature; retain most
-  bioactivity
-- **Tinctures and capsules** — standardized preparations available
-- **Topical** — in skin creams for anti-aging and wound healing
-
-### Safety
-- Allergic reactions possible, especially in those with bee allergies
-- Can interact with warfarin and other blood thinners
-- Not recommended during pregnancy
-
-## Beeswax
-
-While less therapeutically active than other bee products, beeswax has
-medicinal and health applications:
-
-- **Skin barrier** — forms protective, breathable layer on skin; used in
-  salves and balms
-- **Anti-inflammatory** — mild anti-inflammatory properties when applied
-  topically
-- **Carrier for herbs** — excellent base for herbal salves (calendula,
-  plantain, comfrey)
-- **Allergy relief** — beeswax candles release negative ions and do not
-  produce soot; better for indoor air quality than paraffin
-
-## Quality and Sourcing
-
-For medicinal use, source bee products from reputable beekeepers who use
-sustainable practices. Raw, unprocessed products retain the highest levels
-of bioactive compounds. See [[beekeeping-problems-and-solutions]] for
-understanding how chemical treatments may affect product purity.
-
-For harvesting and processing these products, see
-[[honey-extraction-and-processing]].
-
 ## See Also
 
 - [[gourmet-medicinal-mushroom-spawn-grain-production]]
+- [[query-how-does-propolis-benefit-honey-bees-and-can-beekeepers-harvest-it]]
+- [[comparison-honey-bees-vs-native-solitary-bees]]

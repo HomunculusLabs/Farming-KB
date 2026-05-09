@@ -1,5 +1,5 @@
 ---
-title: 2C-G - PIHKAL Entry #27 Compound Profile
+title: 2C-G - 2c-b-pihkal-entry-20 #27 Compound Profile
 created: 2026-04-26
 updated: 2026-04-22
 sources: PIHKAL Entry #27

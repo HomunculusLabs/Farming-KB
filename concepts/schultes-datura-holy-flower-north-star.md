@@ -1,5 +1,5 @@
 ---
-title: Datura Holy Flower of the North Star
+title: schultes datura holy flower north star Flower of the North Star
 created: 2026-04-28
 tags:
   - ethnobotany
@@ -60,7 +60,7 @@ grow at an angle or upright toward the sky.
 ## Datura stramonium: Thorn Apple
 
 *Datura stramonium*, known as Thorn Apple or Jimsonweed, is an annual
-herb growing to about four feet with many-forked branches. The funnel-
+[[medicinal-herb-growing]] to about four feet with many-forked branches. The funnel-
 shaped flowers are five-pointed, stand erect, and open upward. The common
 variety carries white flowers that at two to three inches long are among
 the smallest of the Datura species. The green egg-shaped fruit is covered
@@ -69,9 +69,9 @@ with thorns and stands erect. The flat, liver-shaped seeds are black.
 The origins of this powerful hallucinogenic species are uncertain and its
 botanical history ardently argued. Some authors suggest that *Datura
 stramonium* is an ancient species originating in the region of the Caspian
-Sea. Others believe that Mexico or North America is the original habitat.
+Sea. Others believe that Mexico or [[psilocybin-north-america-pacific-northwest]] is the original habitat.
 Today the herb is found throughout North, Central, and South America;
-North Africa; Central and Southern Europe; the Near East; and the
+North Africa; Central and Southern Europe; the [[ancient-cannabis-use-near-east-and-egypt]]; and the
 Himalayas. It was reportedly employed by the Algonquin and others, and
 served as an ingredient of the witches' brews of medieval Europe.
 
@@ -102,7 +102,7 @@ dangerous physical side effects.
 In India, *Datura metel* has been used for centuries in Ayurvedic medicine
 and religious practice. The plant's intoxicating properties were
 recognized in ancient Sanskrit texts, and it continues to be used in
-certain Tantric rituals and folk healing practices. The seeds and leaves
+certain Tantric rituals and [[entheogen-cimora-folk-healing-ceremony]] practices. The seeds and leaves
 are prepared in various ways depending on the intended application, with
 dosage carefully controlled by traditional practitioners who have
 inherited knowledge of the plant's extreme potency.

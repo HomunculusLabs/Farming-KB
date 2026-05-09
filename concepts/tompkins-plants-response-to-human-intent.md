@@ -57,7 +57,7 @@ Vogel concluded that a "Life Force, or Cosmic Energy" surrounding all living thi
 
 ## Consciousness-Driven Remote Experiments
 
-Vogel's colleague demonstrated that thought alone, relayed to a plant, could drive a model car by remote control. Another experiment purportedly steered a plane in flight "by transmitting a thought to a plant." Vogel concluded that "focused thought can exert a tremendous effect" on living organisms.
+Vogel's colleague demonstrated that thought alone, relayed to a plant, could drive a model car by remote control. Another experiment purportedly steered a plane in flight "by transmitting a thought to a plant." Vogel concluded that "focused thought can exert a tremendous effect" on [[savory-living-organisms-as-tools]].
 
 ## Teaching Children Plant Communication
 
@@ -71,7 +71,7 @@ If his pupils take pleasure in describing the sensations, Vogel asks them to tak
 
 Adults are much less successful than children, which leads Vogel to surmise that many scientists will not be able to repeat his or Backster's experiments. "If they approach the experimentation in a mechanistic way, and don't enter into mutual communication with their plants and treat them as friends, they will fail."
 
-"Hundreds of laboratory workers around the world are going to be just as frustrated and disappointed until they appreciate that the empathy between plant and human is the key. No amount of checking in laboratories is going to prove a thing until the experiments are done by properly trained observers. Spiritual development is indispensable."
+"Hundreds of laboratory workers [[fungi-around-the-world-species-distribution]] are going to be just as frustrated and disappointed until they appreciate that the empathy between plant and human is the key. No amount of checking in laboratories is going to prove a thing until the experiments are done by properly trained observers. Spiritual development is indispensable."
 
 ## Reading Thoughts Through Plants
 
@@ -88,6 +88,8 @@ Vogel noted that American Indians "were keenly aware of these faculties. When in
 - "It seemed to me to be describable only as pure consciousness." -- Debbie Sapp
 
 ## See Also
+
+- [[tompkins-electricity-plants-historical-discoveries]]
 
 - [[what-a-plant-knows-plant-vision-and-light-perception]]
 - [[photosynthesis-and-chloroplast-function]]

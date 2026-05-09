@@ -36,8 +36,8 @@ For McKenna, this broader pattern reinforces his central argument in
 *Food of the Gods*: that the relationship between animals and plant
 secondary compounds is a fundamental feature of ecological interaction,
 and that the human use of psychoactive plants is a special case of a
-much more general phenomenon. The tendency to seek out altered states
-of consciousness through plant chemistry is not, as dominator culture
+much more general phenomenon. The tendency to seek out [[weil-the-natural-mind-altered-states-normalcy]]
+of consciousness through plant chemistry is not, as [[mckenna-dominator-culture-and-suppression-of-ecstasy]]
 would have it, a pathology or a vice, but rather an expression of a
 deep biological heritage that connects humans to the wider community
 of life.
@@ -57,7 +57,7 @@ The implication is that the human relationship with psychoactive plants
 should be understood not as a cultural invention but as a biological
 inheritance, one that has been shaped by millions of years of
 evolutionary interaction between primates and the chemically complex
-plants of the tropical forest and savanna. This perspective challenges
+plants of the [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] and savanna. This perspective challenges
 the dominator culture assumption that psychoactive plant use is a
 deviation from natural human behavior and supports the view that it is
 instead a fundamental expression of our biological nature.
@@ -73,7 +73,7 @@ altered states of consciousness. The boundary between medicinal and
 psychoactive use is, in McKenna's view, more fluid than dominator
 culture acknowledges.
 
-This argument positions the use of psilocybin mushrooms not as a
+This argument positions the use of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] not as a
 historical anomaly but as a natural extension of primate
 self-medication behavior, one that happened to produce effects of such
 evolutionary significance that it shaped the trajectory of human

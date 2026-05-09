@@ -1,5 +1,5 @@
 ---
-title: "The New Testament as Mushroom Cult Cover Story"
+title: "The New Testament as african-mushroom-cult-history Cover Story"
 created: 2026-04-26
 updated: "2026-04-23"
 sources:
@@ -18,23 +18,23 @@ of the life and teachings of a historical Jewish preacher named Jesus of
 Nazareth. Rather, it was a survival manual for a [[allegro-colour-and-consistency-of-the-amanita-muscaria]]
 as a sacramental substance was the true origin of the Christian Eucharist.
 
-Allegro noted that early Christian sources described agape meals, or love
+Allegro noted that [[allegro-dead-sea-scrolls-and-early-christian-sects]] sources described agape meals, or love
 feasts, at which the participants consumed sacred food and drink. These
-meals, he argued, were direct continuations of the mushroom ceremonies of
+meals, he argued, were direct continuations of the [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]] of
 the earlier fertility cult. The [[allegro-colour-and-consistency-of-the-amanita-muscaria]], which produced experiences of death and rebirth that participants interpreted as access to eternal life.
 
 ## Parables as Mushroom Instructions
 
 Allegro offered radical reinterpretations of many familiar Gospel parables.
 The parable of the sower, for example, he read as instructions for
-cultivating or finding the sacred mushroom. The different types of soil
+cultivating or finding the [[allegro-the-sacred-mushroom-amanita-identification]]. The different types of soil
 represented different growing conditions, and the varying yields described
 the relative abundance of mushroom fruitings in different locations.
 
 Similarly, the parable of the mustard seed -- the smallest of seeds that
 grows into the greatest of shrubs -- was, in Allegro's view, a description
 of the mushroom's growth from a microscopic spore to a conspicuous
-fruiting body. The birds that nest in its branches represented the visionary
+[[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]. The birds that nest in its branches represented the visionary
 experiences -- often involving the sensation of flight -- that accompanied
 the mushroom experience.
 
@@ -59,6 +59,7 @@ theological scholars, historians, and linguists. Critics pointed to
 numerous flaws in Allegro's [[allegro-names-of-the-gods-and-their-fertility-origins]]
 - [[allegro-death-and-resurrection-in-the-mushroom-cult]]
 - [[amanita-muscaria-sacramental-wine-preparation]]
+
 ## Practical Considerations
 
 Successful implementation of The New Testament as Mushroom Cult Cover Story requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

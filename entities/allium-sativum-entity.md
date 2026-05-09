@@ -11,7 +11,7 @@ sources:
 
 # Allium sativum
 
-Allium sativum, commonly known as garlic, is a bulbous perennial plant in the family Amaryllidaceae (traditionally Alliaceae). Native to Central Asia, it has been cultivated for over 5,000 years and is now one of the most widely used culinary and medicinal plants globally. The bulb is composed of multiple cloves, each enclosed in a papery tunic, and contains a rich array of sulfur-containing organosulfur compounds — principally alliin, allicin, and their derivatives — responsible for garlic's characteristic pungency and most of its documented pharmacological activities. Garlic has demonstrated antimicrobial, cardiovascular-protective, antithrombotic, hypolipidemic, and potential anticancer properties in extensive preclinical and clinical research.
+Allium sativum, commonly known as garlic, is a bulbous perennial plant in the family Amaryllidaceae (traditionally Alliaceae). Native to Central Asia, it has been cultivated for over 5,000 years and is now one of the most widely used culinary and medicinal plants globally. The bulb is composed of multiple cloves, each enclosed in a papery tunic, and contains a rich array of sulfur-containing organosulfur compounds — principally alliin, allicin, and their derivatives — responsible for garlic's characteristic pungency and most of its documented pharmacological activities. Garlic has demonstrated antimicrobial, cardiovascular-protective, antithrombotic, hypolipidemic, and potential anticancer properties in extensive preclinical and [[hofmann-lsd-clinical-research-early-studies]].
 
 ## Taxonomy and Naming
 
@@ -74,7 +74,7 @@ Garlic has been used medicinally since at least the time of the ancient Egyptian
 
 - **Religious and cultural taboos:** Garlic is avoided in certain Hindu, Buddhist, and Jain traditions due to its classification as a tamasic (energy-dulling) food; some Hare Krishna and Buddhist meditation practitioners exclude garlic from their diets
 - **Folk medicine traditions:** European folk medicine used garlic poultices for chest infections and insect bites; African traditional medicine employs garlic for malaria prevention; Latin American curanderismo uses garlic in cleansing rituals
-- **Symbolism:** In European folklore, garlic was believed to ward off evil spirits, vampires, and the evil eye; this association likely derives from its antimicrobial properties reducing disease incidence in garlic-consuming households
+- **Symbolism:** In European folklore, garlic was believed to ward off evil spirits, vampires, and the evil eye; this association likely derives from its [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] reducing disease incidence in garlic-consuming households
 
 ## Cultivation
 
@@ -84,8 +84,8 @@ Garlic has been used medicinally since at least the time of the ancient Egyptian
 - **Irrigation:** Consistent moisture during bulb development; reduce irrigation 2–3 weeks before harvest to prevent bulb splitting and facilitate curing
 - **Harvest:** When lower leaves begin to yellow and dry (typically mid-summer for autumn-planted crops); bulbs cured by drying at 15–20°C with good ventilation for 2–4 weeks. Harvest timing is critical — over-mature bulbs split cloves apart, reducing storage quality.
 - **Yield:** 5–15 tonnes/ha depending on cultivar, density, and growing conditions
-- **Pests and diseases:** Susceptible to onion maggot (Delia antiqua), thrips (Thrips tabaci), nematodes, white rot (Sclerotium cepivorum), downy mildew (Peronospora destructor), and rust (Puccinia allii); crop rotation with non-Allium species is essential for disease management
-- **Companion planting:** Traditional companion plant for roses (repels aphids), tomatoes, and fruit trees; allium compounds deter certain insect pests through volatile sulfur release
+- **[[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]:** Susceptible to onion maggot (Delia antiqua), thrips (Thrips tabaci), nematodes, white rot (Sclerotium cepivorum), downy mildew (Peronospora destructor), and rust (Puccinia allii); crop rotation with non-Allium species is essential for disease management
+- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:** Traditional companion plant for roses (repels aphids), tomatoes, and fruit trees; allium compounds deter certain insect pests through volatile sulfur release
 - **Storage:** Hardneck types store 4–6 months; softneck types 8–12 months at 0°C, 65% relative humidity; sprouting and desiccation are primary storage losses
 
 ## Preparation Forms and Dosage
@@ -99,7 +99,7 @@ Garlic has been used medicinally since at least the time of the ancient Egyptian
 - **Allicin is present only briefly in crushed raw garlic:** The enzyme alliinase converts alliin to allicin within seconds of cell disruption, but allicin itself degrades within minutes at room temperature
 - **AGE contains no allicin but higher SAC levels:** The aging process (up to 20 months at room temperature) converts allicin to stable, water-soluble S-allyl cysteine, which is better absorbed and lacks the pungent odor of fresh garlic
 - **Enteric-coated tablets:** Designed to dissolve in the intestine rather than the stomach, delivering alliin and alliinase to the alkaline intestinal environment where they can react to form allicin without premature gastric degradation
-- **Cooking effects:** Heating above 60°C rapidly inactivates alliinase, preventing allicin formation; cooked garlic retains some sulfur compounds (DAS, DADS) but loses most allicin-dependent bioactivity. Brief cooking (5–15 minutes) preserves more bioactive compounds than prolonged cooking.
+- **Cooking effects:** Heating above 60°C rapidly inactivates alliinase, preventing allicin formation; cooked garlic retains some sulfur compounds (DAS, DADS) but loses most allicin-dependent bioactivity. Brief cooking (5–15 minutes) preserves more [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] than prolonged cooking.
 - **Bioavailability differences:** SAC from aged garlic extract shows superior oral bioavailability compared to allicin from fresh garlic; plasma concentrations of SAC peak at 1–3 hours post-ingestion with a half-life of approximately 5 hours
 
 ## Safety and Contraindications
@@ -108,7 +108,7 @@ Garlic has been used medicinally since at least the time of the ancient Egyptian
 - **Gastrointestinal:** Raw garlic can cause dyspepsia, heartburn, and nausea in sensitive individuals; enteric-coated formulations reduce gastric irritation
 - **Drug interactions:** May potentiate the effects of antihypertensive and anticoagulant medications; modest CYP3A4 and CYP2E1 interactions documented
 - **Allergy:** Garlic allergy is uncommon (estimated <1% prevalence) but can manifest as contact dermatitis in food handlers and occupational asthma in garlic-processing workers
-- **Maximum tolerated dose:** Clinical studies have used fresh garlic up to 28 g/day without serious adverse effects; the primary dose-limiting factor is gastrointestinal intolerance and social odor concerns
+- **Maximum tolerated dose:** Clinical studies have used fresh garlic up to 28 g/day without serious [[blesching-cannabis-safety-adverse-effects-evidence]]; the primary dose-limiting factor is gastrointestinal intolerance and social odor concerns
 
 ## See Also
 

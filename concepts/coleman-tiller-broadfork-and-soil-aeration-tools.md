@@ -18,7 +18,7 @@ type: concept
 
 # The Tilther, Broadfork, and Greenhouse Soil Aeration Tools
 
-[[fungal-bioturbation-and-soil-aggregate-formation]] that has been built up in deeper layers
+fungal-bioturbation-and-soil-aggregate-formation that has been built up in deeper layers
 - Beneficial soil organisms and their networks in the deeper soil are not disrupted
 - The compost and amendments applied to the surface are mixed only into the zone where they are most effective
 - Soil moisture is conserved because deeper layers are not exposed to evaporation
@@ -55,7 +55,7 @@ The full soil preparation process between succession crops in the greenhouse fol
 
 ## Compost Application Method
 
-An important discovery was that compost applications in the greenhouse are most effective when left on the surface and mixed only shallowly into the top half inch of soil. This technique mimics natural soil profiles where the highest percentage of organic matter is concentrated at the surface. The exceptional germination rates achieved with this surface-compost method validated the approach. The compost gets incorporated more deeply at the end of each crop cycle when the bed preparation process runs through again.
+An important discovery was that compost applications in the greenhouse are most effective when left on the surface and mixed only shallowly into the top half inch of soil. This technique mimics natural soil profiles where the highest percentage of [[hamilton-composting-and-organic-matter-management]] is concentrated at the surface. The exceptional germination rates achieved with this surface-compost method validated the approach. The compost gets incorporated more deeply at the end of each crop cycle when the bed preparation process runs through again.
 
 ## Compost Volume
 
@@ -78,7 +78,7 @@ Coleman's approach to tool development reflects several principles applicable to
 
 ## The Broom Lesson
 
-An illustrative story from Coleman's experience underscores the importance of tool innovation rooted in the user's actual needs. While demonstrating an "ideal planting hoe" to a [[weed-management-strategies]] strategy (see [[weed-suppression-strategies]] complements the active weed control measures used in the greenhouse and represents a form of preventive weed management that requires no additional labor.
+An illustrative story from Coleman's experience underscores the importance of tool innovation rooted in the user's actual needs. While demonstrating an "ideal planting hoe" to a [[weed-management-strategies]] strategy (see [[weed-suppression-strategies]] complements the active [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]] measures used in the greenhouse and represents a form of preventive [[fukuoka-weed-management-and-green-manure]] that requires no additional labor.
 
 ## The Pinpoint Seeder Connection
 

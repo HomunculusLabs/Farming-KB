@@ -11,7 +11,7 @@ type: concept
 
 # Cannabis and the Language of Story: Weaving, Cordage, and Narrative
 
-One of [[psilocybin-mushrooms-central-south-america-distribution]] of the older partnership cultures of the Near East. Though this transition lies far in the past, its legacy is the association of cannabis with the style and values of the partnership society.
+One of psilocybin-mushrooms-central-south-america-distribution of the older partnership cultures of the [[ancient-cannabis-use-near-east-and-egypt]]. Though this transition lies far in the past, its legacy is the association of cannabis with the style and values of the [[mckenna-dominator-vs-partnership-society-model]].
 
 The growing presence of cannabis in Vedic society and later in Islam may have acted to slow the rise of dominator values. It gave encouragement to heterodox forces such as Shivites in Hinduism and Sufis in Islam. These groups made no secret of their reliance on cannabis as a source of religious inspiration that was particularly feminine in emphasis.
 
@@ -23,7 +23,7 @@ The architectural styles and design motifs of Mughal Delhi or tenth-century Isfa
 
 ### Aesthetic Display and the Dominator Culture
 
-Outpourings of style and aesthetically managed personal display are usually anathema to the nuts-and-bolts mentality of dominator cultures. In dominator cultures without living traditions of boundary-dissolving plant use, such displays are typically felt to be the prerogative of women.
+Outpourings of style and aesthetically managed personal display are usually anathema to the nuts-and-bolts mentality of [[partnership-and-dominator-cultures-in-human-history]]. In dominator cultures without living traditions of boundary-dissolving plant use, such displays are typically felt to be the prerogative of women.
 
 Men who focus on aesthetic concerns are often assumed to be homosexuals, meaning they are not following accepted canons of male behavior within the dominator model. The hysterical reaction to such minor adjustments in folkways reveals the insecurity felt by the male ego in the presence of any factor that might restore the importance of partnership in human affairs.
 
@@ -37,7 +37,7 @@ Of all the pandemic plant intoxicants on earth, cannabis is second only to mushr
 
 ## The Scythians and Early Cannabis Use
 
-Herodotus documented the Scythians' use of cannabis in the fifth century B.C. The Scythians threw cannabis seeds on heated stones in enclosed tents and inhaled the resulting vapors. Herodotus wrote that the Scythians "become intoxicated by the odor, just as the Greeks do by wine."
+Herodotus documented the Scythians' use of cannabis in the fifth century B.C. The Scythians threw [[query-how-to-store-cannabis-seeds-for-long-term-viability]] on heated stones in enclosed tents and inhaled the resulting vapors. Herodotus wrote that the Scythians "become intoxicated by the odor, just as the Greeks do by wine."
 
 Archaeological excavations in the Altai Mountains have confirmed this account. In 2013, a team found gold vessels containing cannabis residue in a Scythian burial mound dating to the fifth century B.C., perfectly matching Herodotus's description. This physical evidence validates the Greek historian's account and pushes confirmed ritual cannabis use back further than textual records alone would suggest.
 
@@ -55,11 +55,11 @@ The saddhus, India's wandering holy men, have used cannabis in three forms: bhan
 
 ## The Club des Hachischins in Paris
 
-By the early 1840s, a group of French writers had formed the famous "Club des Hachischins." The club held weekly meetings in damask-hung rooms of the Hotel Luzan in Paris. Members included Theophile Gautier, Baudelaire, Gerard de Nerval, Dumas, and Balzac, along with sculptors, painters, and other Bohemians. Their writings about the experience would later influence the Symbolist movement and the broader European avant-garde's engagement with altered states.
+By the early 1840s, a group of French writers had formed the famous "Club des Hachischins." The club held weekly meetings in damask-hung rooms of the Hotel Luzan in Paris. Members included Theophile Gautier, Baudelaire, Gerard de Nerval, Dumas, and Balzac, along with sculptors, painters, and other Bohemians. Their writings about the experience would later influence the Symbolist movement and the broader European avant-garde's engagement with [[weil-the-natural-mind-altered-states-normalcy]].
 
 At these meetings, world traveler and psychiatrist J.J. Moreau de Tours provided a form of jellied Algerian hashish called dawamesc. The meetings were private explorations by successful and respected literary figures.
 
-Moreau's work, *Du Hachisch et de l'Alienation Mentale* (1845), was among the first serious pharmacological studies of a psychoactive substance. He argued that hashish could produce a temporary model psychosis, making it a valuable tool for understanding the nature of insanity. Only a few years later, during the Paris uprising of 1848, student firebrands carried banners demanding free availability of cannabis and ether.
+Moreau's work, *Du Hachisch et de l'Alienation Mentale* (1845), was among the first serious pharmacological studies of a psychoactive substance. He argued that hashish could produce a temporary [[lsd-model-psychosis-research]], making it a valuable tool for understanding the nature of insanity. Only a few years later, during the Paris uprising of 1848, student firebrands carried banners demanding free availability of cannabis and ether.
 
 ## Bayard Taylor and Fitz Hugh Ludlow
 

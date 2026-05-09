@@ -82,12 +82,12 @@ molecule.
 
 The acid also catalyzes the conversion of THC between its isomeric
 forms. Delta-9-THC and [[thc-acetate-and-isomerization]] conversion. Isomerization
-converts CBD to THC and optimizes THC isomeric form. THC acetate
+converts CBD to THC and optimizes THC isomeric form. [[cannabis-thc-acetate-preparation]]
 conversion adds an acetate group to THC, producing a compound with twice
 the potency on the Adams scale and a distinctive delayed onset.
 
 Both processes build upon a base cannabis extract obtained through
-alcohol extraction followed by petroleum ether purification. The
+[[pf-tek-alcohol-extraction-method]] followed by petroleum ether purification. The
 sequence is typically: extract, purify with petroleum ether, isomerize
 with sulfuric acid, and optionally convert to acetate with acetic
 anhydride.
@@ -95,4 +95,4 @@ anhydride.
 ## See Also
 
 - [[ben-lemon]]
-- honey oil
+- [[cannabis-honey-oil-production]]

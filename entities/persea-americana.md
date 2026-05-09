@@ -11,14 +11,14 @@ updated: 2026-05-08
 sources:
   - Knight, R.J. (2002). "History, distribution and uses." Avocado Science and Technology, 1–15.
   - Dreher, M.L. & Davenport, A.J. (2013). "Hass avocado composition and potential health effects." Critical Reviews in Food Science and Nutrition, 53(7), 738–750.
-  - López-García, G. et al. (2019). "Bioactive compounds and health benefits of avocado." Nutrients, 11(9), 2249.
+  - López-García, G. et al. (2019). "[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] and health benefits of avocado." Nutrients, 11(9), 2249.
   - USDA Natural Resources Conservation Service. "Persea americana Mill." PLANTS Database.
   - Whiley, A.W. et al. (2002). "The avocado." Encyclopedia of Food Sciences and Nutrition, 341–351.
 ---
 
 ## Overview
 
-**Persea americana**, commonly known as avocado, is an evergreen tree in the Lauraceae family native to Central America and southern Mexico. The species produces a large, fleshy, single-seeded berry (botanically a berry) that is commercially significant worldwide.
+**Persea americana**, commonly known as avocado, is an evergreen tree in the Lauraceae family native to [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and southern Mexico. The species produces a large, fleshy, single-seeded berry (botanically a berry) that is commercially significant worldwide.
 
 Avocado cultivation dates back approximately 10,000 years to Mesoamerica, where it was domesticated by pre-Columbian peoples. The fruit is prized for its high lipid content, creamy texture, and rich nutrient profile.
 
@@ -64,11 +64,11 @@ Phytosterols in avocado (β-sitosterol, campesterol, stigmasterol) contribute to
 
 ## Bioactive Compounds and Pharmacology
 
-Avocado contains diverse secondary metabolites with documented biological activities. Persenone A and persenone B, isolated from avocado seed, exhibit anti-inflammatory activity by inhibiting nitric oxide production in macrophages.
+Avocado contains diverse [[antifungal-secondary-metabolites-coprophilous-fungi]] with documented biological activities. Persenone A and persenone B, isolated from avocado seed, exhibit anti-inflammatory activity by inhibiting nitric oxide production in macrophages.
 
 Alkylresorcinols from avocado peel demonstrate antimicrobial activity against Gram-positive bacteria, including *Staphylococcus aureus* and *Bacillus subtilis*. These compounds also show antioxidant capacity in vitro.
 
-Avocado oil polyphenols, including epicatechin, procyanidin B2, and hydroxycinnamic acid derivatives, scavenge free radicals and reduce oxidative stress markers in animal studies. Clinical trials support modest improvements in lipid profiles with regular avocado consumption.
+Avocado oil polyphenols, including epicatechin, procyanidin B2, and hydroxycinnamic acid derivatives, scavenge free radicals and reduce [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] markers in animal studies. [[mushroom-cancer-clinical-trials-overview]] support modest improvements in lipid profiles with regular avocado consumption.
 
 The seed contains a high concentration of procyanidins and catechins with reported antihypertensive and anti-inflammatory properties in rodent models. However, seed consumption by humans is limited due to bitterness and potential toxicity concerns.
 
@@ -82,7 +82,7 @@ Avocado orchards provide habitat connectivity in fragmented tropical and subtrop
 
 The species serves as the larval host for the avocado looper (*Morio hyperborea*) and several specialist herbivores in its native range. In invaded regions, avocado trees support generalist frugivores but may alter native seed-dispersal networks.
 
-Avocado leaves and seed are used in traditional medicine across Mesoamerica for digestive complaints, hypertension, and wound healing. Bark extracts have demonstrated antifungal activity against *Candida albicans* in laboratory studies.
+Avocado leaves and seed are used in traditional medicine across Mesoamerica for digestive complaints, hypertension, and wound healing. Bark extracts have demonstrated antifungal activity against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* in laboratory studies.
 
 The wood of avocado trees is relatively soft and not commercially important as timber. However, pruned branches serve as mulch and a slow-release nutrient source in orchard systems. In permaculture design, avocado is often placed as an upper canopy layer in food-forest guilds.
 

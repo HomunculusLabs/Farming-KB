@@ -1,5 +1,5 @@
 ---
-title: Laccase Mediator System Dye
+title: bioremediation-laccase-mediator-systems System Dye
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -21,8 +21,8 @@ Laccase-mediator systems (LMS) enhance the oxidation capabilities of [[turkey-ta
 
 Several naturally occurring compounds serve as effective mediators:
 
-- **Syringaldehyde**: Phenolic aldehyde from lignin degradation; effective for azo dye decolorization
-- **Acetosyringone**: Plant phenolic compound; supports efficient oxidation of synthetic dyes
+- **Syringaldehyde**: Phenolic aldehyde from [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]]; effective for [[staycare-azo-dye-degradation-mechanisms-ligninolytic-fungi]] decolorization
+- **Acetosyringone**: Plant phenolic compound; supports efficient oxidation of [[singh-fungal-degradation-of-synthetic-dyes-and-textile-waste]]
 - **Vanillin**: Aromatic aldehyde; moderate mediator efficiency
 - **2,2,6,6-Tetramethylpiperidine-1-oxyl (TEMPO)**: Stable nitroxyl radical mediator
 - **ABTS (2,2-azinobis(3-ethylbenzothiazoline-6-sulfonic acid))**: Common laboratory mediator
@@ -82,7 +82,7 @@ Whole-fungus systems generally outperform isolated enzyme systems for dye decolo
 
 ## Related Topics
 
-- [[fungal-dye-decolorization-factors]]
-- [[white-rot-fungi-effluent-decolorization]]
+- fungal-dye-decolorization-factors
+- white-rot-fungi-effluent-decolorization
 - [[singh-ligninolytic-enzymes-fungal-bioremediation]]
 - [[fungal-laccase-and-textile-dye-decolorization]]

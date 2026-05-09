@@ -15,7 +15,7 @@ type: concept
 known for its empathogenic and stimulant effects. A significant body of
 research has examined the potential for MDMA to cause serotonergic
 neurotoxicity, particularly with respect to long-term changes in serotonin
-neurons [[use-and-value-diversity-permaculture]] clinical applications of MDMA-assisted therapy.
+neurons use-and-value-diversity-permaculture clinical applications of MDMA-assisted therapy.
 
 ## Mechanism of Serotonin Release
 
@@ -36,10 +36,10 @@ neurons that produce and release it.
 ## Pathways to Neurotoxicity
 
 Several mechanisms have been proposed for MDMA-induced serotonergic damage.
-One prominent theory involves the formation of reactive oxygen species and
+One prominent theory involves the formation of [[reactive-oxygen-species-and-oxidative-stress]] species and
 reactive nitrogen species during the metabolism of excess serotonin. The
 enzyme monoamine oxidase converts serotonin to 5-hydroxyindoleacetaldehyde,
-which can generate hydrogen peroxide [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] most effective interventions for reducing
+which can generate [[cervantes-hydrogen-peroxide-sterilization]] [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] most effective interventions for reducing
 neurotoxic damage in animal models.
 
 ## Evidence from Animal Studies
@@ -73,7 +73,7 @@ protective effects in animal models, though clinical evidence for specific
 supplements is limited.
 
 Clinical MDMA-assisted therapy uses carefully controlled doses administered
-under medical supervision with attention to temperature management, limited
+under medical supervision with attention to [[cervantes-reservoir-temperature-management]], limited
 frequency, and screening for risk factors. Current protocols typically limit
 exposure to two or three sessions spaced weeks apart, substantially below the
 exposure patterns associated with neurotoxicity in animal studies.
@@ -81,7 +81,7 @@ exposure patterns associated with neurotoxicity in animal studies.
 ## Serotonin Syndrome Risk
 
 The combination of MDMA with serotonergic medications, particularly SSRIs
-and MAO inhibitors, carries a risk of serotonin syndrome, a potentially
+and [[mao-inhibitors-and-psychedelics]], carries a risk of serotonin syndrome, a potentially
 life-threatening condition caused by excessive serotonergic activity. Serotonin
 syndrome is characterized by a spectrum of symptoms including agitation,
 confusion, hyperthermia, autonomic instability, and in severe cases seizures
@@ -108,3 +108,5 @@ serotonin release without neuronal damage, and the clinical significance of
 reduced SERT binding is unclear. Some studies have reported normal SERT
 levels in former MDMA users who had been abstinent for extended periods,
 suggesting that the changes may be partially reversible.
+## See Also
+- [[permaculture]]

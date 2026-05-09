@@ -23,7 +23,7 @@ It is commonly known as old man's beard for the distinctive silky, feathery seed
 
 The species is a vigorous scrambler capable of smothering trees and shrubs in its native and introduced ranges.
 
-C. vitalba is considered an invasive weed in New Zealand and parts of North America.
+C. vitalba is considered an invasive weed in New Zealand and parts of [[psilocybin-north-america-pacific-northwest]].
 
 ## Taxonomy and Morphology
 
@@ -63,7 +63,7 @@ The species tolerates a wide range of soil types including chalk, clay, and sand
 
 It prefers partial shade but grows aggressively in full sun at forest margins.
 
-In the Southern Hemisphere, it has become naturalized and invasive in New Zealand since the early 1900s.
+In the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], it has become naturalized and invasive in New Zealand since the early 1900s.
 
 It is also naturalized in parts of the Pacific Northwest of North America.
 
@@ -75,7 +75,7 @@ Propagation is typically by seed (stratification required) or semi-hardwood cutt
 
 The plant requires sturdy support and regular pruning to prevent it from overwhelming structures.
 
-Pruning is performed in late winter or early spring by cutting back to low buds.
+Pruning is performed in late winter or [[coleman-overwintered-onions-and-early-spring-crops]] by cutting back to low buds.
 
 In cultivation, C. vitalba is sometimes used as a rootstock for more ornamental Clematis cultivars.
 
@@ -113,8 +113,10 @@ It was included in medieval herbals as a treatment for varicose veins and ulcers
 
 ## See Also
 
+- [[clematis-montana]]
+
 - [[paeonia-lactiflora]] — herbaceous peony, a fellow Ranunculaceae member with ornamental flowers
 - [[lonicera-japonica]] — Japanese honeysuckle, another vigorous climbing vine with invasive potential
 - [[campsis-radicans]] — trumpet vine, a woody climber used for large-scale garden structures
-- [[rosa-canina]] — dog rose, a scrambling shrub of European hedgerows and woodland edges
+- rosa-canina — dog rose, a scrambling shrub of European hedgerows and woodland edges
 - [[rubus-fruticosus]] — blackberry, a thorny scrambling plant of similar disturbed habitats

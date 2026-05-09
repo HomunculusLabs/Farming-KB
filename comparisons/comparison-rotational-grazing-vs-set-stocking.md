@@ -1,9 +1,9 @@
 ---
-title: "Rotational Grazing vs Set Stocking"
+title: "comparison-rotational-grazing-vs-continuous-grazing vs Set Stocking"
 created: 2026-04-28
 tags:
   - grazing
-  - [[water-conservation]], 2016."
+  - water-conservation, 2016."
   - "Barnes, M.K. et al. 'Effects of rotational vs. continuous grazing on weed populations.' Weed Technology, 2008."
   - "Undersander, D. et al. 'Extending Grazing Seasons.' University of Wisconsin Extension, 2002."
 type: comparison
@@ -11,7 +11,7 @@ type: comparison
 
 # Rotational Grazing vs Set Stocking
 
-> A comparative analysis of two foundational livestock grazing management systems and their impacts on pasture health, animal welfare, economics, and the environment. See also [[regenerative-agriculture]].
+> A comparative analysis of two foundational [[savory-livestock-grazing-planning]] management systems and their impacts on pasture health, animal welfare, economics, and the environment. See also [[regenerative-agriculture]].
 
 ## Definition and Core Principles
 
@@ -25,13 +25,13 @@ Rotational grazing promotes species diversity by preventing dominant plants from
 
 ## Animal Health and Parasite Management
 
-Set stocking keeps animals on the same ground continuously, increasing exposure to internal parasites whose life cycles depend on livestock returning to contaminated pasture. Rotational grazing breaks parasite cycles by moving animals away from contaminated ground; with sufficient rest periods (typically 60–90+ days), parasite larvae die off before livestock return. This can significantly reduce anthelmintic use and the growing problem of dewormer resistance.
+Set stocking keeps animals on the same ground continuously, increasing exposure to internal parasites whose [[bloomfield-rust-fungi-life-cycles-barberry-wheat]] depend on livestock returning to contaminated pasture. Rotational grazing breaks parasite cycles by moving animals away from contaminated ground; with sufficient rest periods (typically 60–90+ days), parasite larvae die off before livestock return. This can significantly reduce anthelmintic use and the growing problem of dewormer resistance.
 
 Rotational systems also reduce footrot risk by periodically moving animals off wet or muddy areas.
 
 ## Forage Utilization Efficiency
 
-Set stocking typically achieves only 30–50% forage utilization—animals graze the most palatable portions repeatedly while trampling or wasting the rest. Rotational grazing pushes utilization to 60–80% by forcing animals to graze more uniformly within each paddock before being moved. The uneaten forage in set-stocked systems eventually matures, loses nutritional quality, and suppresses new growth.
+Set stocking typically achieves only 30–50% forage utilization—animals graze the most palatable portions repeatedly while trampling or wasting the rest. Rotational grazing pushes utilization to 60–80% by forcing animals to graze more uniformly within each paddock before being moved. The uneaten forage in set-stocked systems eventually matures, loses [[coleman-winter-greens-nutritional-quality-cold-sweetening]], and suppresses new growth.
 
 ## Stocking Density Considerations
 
@@ -62,11 +62,11 @@ Key economic trade-offs include fencing and water infrastructure costs ($500–$
 
 ### Biodiversity
 
-Rotational grazing supports greater plant species diversity, which in turn supports pollinators, beneficial insects, and wildlife. Set-stocked pastures often degrade into monocultures of grazing-tolerant or unpalatable species.
+Rotational grazing supports greater plant species diversity, which in turn supports pollinators, [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], and wildlife. Set-stocked pastures often degrade into monocultures of grazing-tolerant or unpalatable species.
 
 ### Carbon Sequestration
 
-The combination of deep root growth, rest periods, and manure distribution in rotational systems promotes significant soil organic carbon accumulation—making rotational grazing a key practice in [[permaculture-grazing-and-pasture]] practitioners, combines the principles of rotational grazing with real-time decision-making based on pasture recovery, soil moisture, and animal performance. Rather than fixed schedules, animals are moved when paddock conditions indicate it is time—sometimes after hours, sometimes after weeks. AMP represents the most sophisticated evolution of rotational grazing, integrating ecological monitoring with livestock management.
+The combination of deep root growth, rest periods, and manure distribution in rotational systems promotes significant soil [[dighton-fungal-dissolved-organic-carbon-production]] accumulation—making rotational grazing a key practice in [[permaculture-grazing-and-pasture]] practitioners, combines the principles of rotational grazing with real-time decision-making based on pasture recovery, soil moisture, and animal performance. Rather than fixed schedules, animals are moved when paddock conditions indicate it is time—sometimes after hours, sometimes after weeks. AMP represents the most sophisticated evolution of rotational grazing, integrating ecological monitoring with livestock management.
 
 ## Summary Comparison
 

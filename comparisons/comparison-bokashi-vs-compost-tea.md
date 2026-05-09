@@ -1,5 +1,5 @@
 ---
-title: "Bokashi vs Compost Tea"
+title: "[[comparison-bokashi-vs-effective-microorganisms]] [[actively-aerated-compost-tea]] Tea"
 created: 2026-04-28
 tags:
   - soil-amendments
@@ -9,11 +9,12 @@ tags:
   - organic-gardening
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
 type: comparison
 ---
 
-[[elaine-ingham]] Jasoil-food-webltural practices developed by Teruo Higa in the 1980s, and compost tea from organic farming research in the late 1990s and early 2000s, notably advanced by Elaine Ingham's soil food web work. Despite their different lineages, they share a focus on leveraging microbial communities to improve growing conditions [[comparison-compost-tea-guide-vs-fermented-plant-extract-fpe]]
+[[elaine-ingham]] Jasoil-food-webltural practices developed by Teruo Higa in the 1980s, and compost tea from [[coleman-deep-organic-farming-philosophy]] research in the late 1990s and early 2000s, notably advanced by Elaine Ingham's soil food web work. Despite their different lineages, they share a focus on leveraging [[soil-edaphic-factors-microbial-communities]] to improve growing conditions [[comparison-compost-tea-guide-vs-fermented-plant-extract-fpe]]
 - [[comparison-compost-tea-vs-biochar]]
 ## Background and Context
 
@@ -65,7 +66,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -143,4 +144,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

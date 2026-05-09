@@ -1,5 +1,5 @@
 ---
-title: Masonry Heater Design
+title: [[comparison-rocket-stove-vs-masonry-heater]] Design
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Masonry Heater Design
 
-A masonry heater (also called a masonry stove, kachelofen, or Russian stove) is a high-efficiency wood-burning heating appliance that stores heat in a large thermal mass of brick, stone, or [[cob-building-basics-detailed|cob]]. Unlike conventional wood stoves that burn continuously and radiate heat directly, a masonry heater burns a hot, fast fire and stores the heat in its mass, releasing it slowly over 12-24 hours. A single intense fire in the morning can heat a home all day.
+A masonry heater (also called a masonry stove, kachelofen, or Russian stove) is a high-efficiency wood-burning heating appliance that stores heat in a large [[comparison-windbreak-vs-thermal-mass]] of brick, stone, or [[cob-building-basics-detailed|cob]]. Unlike conventional wood stoves that burn continuously and radiate heat directly, a masonry heater burns a hot, fast fire and stores the heat in its mass, releasing it slowly over 12-24 hours. A single intense fire in the morning can heat a home all day.
 
 ## How Masonry Heaters Work
 
@@ -26,7 +26,7 @@ A masonry heater (also called a masonry stove, kachelofen, or Russian stove) is 
 
 - Complete combustion: High temperatures and excess air ensure wood burns completely, producing minimal creosote, smoke, and particulates
 - Heat extraction: Internal channels force gases to contact maximum masonry surface area
-- Thermal storage: Heat that would go up the chimney in a conventional stove is captured in mass
+- [[coleman-soil-heat-mass-passive-thermal-storage]]: Heat that would go up the chimney in a conventional stove is captured in mass
 - Overall efficiency: 80-90% (vs. 40-60% for conventional wood stoves)
 
 ## Types of Masonry Heaters
@@ -141,37 +141,6 @@ Masonry heaters are sized by the square footage they need to heat:
 3. Base course: Lay first courses of brick, establishing the footprint
 4. Firebox: Build firebox with firebrick and refractory mortar
 5. Baffles: Build internal channels or bell chambers
-6. Outer shell: Continue masonry courses, enclosing the internal structure
-7. Cleanouts: Install access doors at channel bottoms
-8. Chimney connection: Transition to chimney flue
-9. Facing: Apply stone, tile, or plaster to the exterior
-10. Curing: Build small, cool fires for the first week to dry the mortar gradually
-
-### Safety Clearances
-
-- To combustible walls: 36 inches minimum (can be reduced with proper shielding)
-- To ceiling: 18 inches minimum
-- Floor protection: 16 inches in front of the load door
-- Hearth extension: Non-combustible surface extending 16-20 inches in front
-
-## Operating a Masonry Heater
-
-1. Build a hot fire with dry, well-seasoned hardwood
-2. Load the firebox to capacity (do not small fires frequently)
-3. The fire should burn vigorously for 1-2 hours
-4. Do not damper down the fire — let it burn hot and fast
-5. Close all dampers after the fire burns down
-6. The heater continues radiating heat for 12-24 hours
-7. One or two fires per day is sufficient for most climates
-
-## Integration with Other Systems
-
-- **Bake oven**: Many masonry heaters include a bake oven on the side
-- **Water heating**: A coil in the firebox can heat domestic water
-- **[[radiant-floor-heating|Radiant floor]]**: Water heated by the heater circulates through floor tubing
-- **Cob bench**: A heated cob bench attached to the heater provides warm seating
-- **Cooktop**: Some designs include a flat cooking surface on top
-
 ## See Also
 
 - [[radiant-floor-heating]]

@@ -15,7 +15,7 @@ sources:
   - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency Over the Last Two Decades (1995–2014)." Drug and Alcohol Dependence, 171, 107–111.
   - Hazekamp, A. & Fischedick, J.T. (2012). "Cannabis — from cultivar to chemovar II." Drug Testing and Analysis, 4(7–8), 660–667.
   - Mudge, E.M. et al. (2019). "A unified approach to Cannabis cultivar attribution." Scientific Reports, 9, 20523.
-  - Smart, R. et al. (2017). "Medical marijuana policies and the opioid epidemic." American Journal of Public Health, 107(9), 1367–1373.
+  - Smart, R. et al. (2017). "[[cervantes-medical-marijuana-pharmacology]] policies and the opioid epidemic." American Journal of Public Health, 107(9), 1367–1373.
   - UK Drug Policy Commission (2012). "Classification and the Misuse of Drugs Act: An Overview." London: UKDPC.
 created: 2026-04-28
 ---
@@ -57,7 +57,7 @@ Secondary aromatic notes include diesel fuel, damp earth, and a subtle sweetness
 **Dominant terpenes:**
 
 - **Myrcene** (0.8–1.5%): Contributes earthy, musky notes and potentiates the sedative body effects characteristic of Cheese's indica dominance.
-- **Caryophyllene** (0.5–1.0%): Adds peppery, spicy undertones and contributes anti-inflammatory activity through CB2 receptor binding.
+- **Caryophyllene** (0.5–1.0%): Adds peppery, spicy undertones and contributes anti-inflammatory activity through CB2 [[tihkal-receptor-binding-serotonin]].
 - **Limonene** (0.3–0.7%): Provides subtle citrus brightness that balances the dominant funky profile.
 - **Pinene** (0.2–0.5%): Adds a faint pine freshness to the overall bouquet.
 
@@ -83,9 +83,9 @@ This increase reflects the broader upward trend in cannabis potency documented a
 
 **Medical applications:** Cheese has been widely adopted by medical cannabis patients for chronic pain management, particularly musculoskeletal pain, neuropathic discomfort, and inflammatory conditions. Its sedative properties make it effective for insomnia, with many patients reporting improved sleep onset and duration.
 
-Additional therapeutic applications include appetite stimulation in cachexia and eating disorders, anxiety reduction (at moderate doses), and muscle spasm relief. The high myrcene content is believed to contribute to the strain's analgesic and sedative efficacy through synergistic entourage effects with THC.
+Additional therapeutic applications include appetite stimulation in cachexia and eating disorders, anxiety reduction (at moderate doses), and muscle spasm relief. The high myrcene content is believed to contribute to the strain's analgesic and sedative efficacy through synergistic [[beta-caryophyllene-entourage-effects-cannabis]] with THC.
 
-**Side effects:** Common adverse effects include dry mouth, dry eyes, and moderate to heavy couch-lock at higher doses. Some users report mild paranoia or anxiety, particularly with overconsumption. The strain is not recommended for activities requiring sustained attention or physical coordination due to its pronounced sedative properties.
+**Side effects:** Common [[blesching-cannabis-safety-adverse-effects-evidence]] include dry mouth, dry eyes, and moderate to heavy couch-lock at higher doses. Some users report mild paranoia or anxiety, particularly with overconsumption. The strain is not recommended for activities requiring sustained attention or physical coordination due to its pronounced sedative properties.
 
 ## Cultivation
 
@@ -95,11 +95,11 @@ Additional therapeutic applications include appetite stimulation in cachexia and
 
 **Difficulty:** Moderate. Cheese is relatively forgiving for intermediate growers but requires attention to odor control due to its extremely pungent smell during flowering. Carbon filtration is considered mandatory for indoor cultivation in most jurisdictions.
 
-The strain responds well to both soil and hydroponic cultivation methods, with Sea of Green (SOG) and Screen of Green (ScrOG) techniques producing the best canopy management results.
+The strain responds well to both soil and hydroponic [[synthetic-log-cultivation-methods-guide]], with Sea of Green (SOG) and Screen of Green (ScrOG) techniques producing the best canopy management results.
 
 It prefers moderate nutrient levels and is susceptible to over-fertilization, particularly with nitrogen during the vegetative stage. Flushing for 10–14 days before harvest is recommended to enhance the terpene expression and reduce harshness of the final product.
 
-Cheese exhibits moderate resistance to powdery mildew and botrytis but can be susceptible to spider mites in dry conditions. The dense bud structure requires careful humidity management during the final weeks of flowering to prevent bud rot.
+Cheese exhibits moderate resistance to powdery mildew and botrytis but can be susceptible to spider mites in dry conditions. The dense bud structure requires careful [[stamets-cultivator-humidity-management-fogging-systems]] during the final weeks of flowering to prevent bud rot.
 
 ## Notable Crosses
 
@@ -116,4 +116,4 @@ The Cheese genetic line has been extensively used in breeding programs, producin
 [[skunk-1]] [[chemdawg]]
 [[white-widow-entity]] [[myrcene]] [[limonene]]
 [[cannabidiol-cbd]]
-[[purple-haze]] [[gelato-cannabis]] [[sfv-og]]
+[[purple-haze]] [[gelato]] [[sfv-og]]

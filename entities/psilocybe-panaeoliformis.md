@@ -11,12 +11,12 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 # Psilocybe panaeoliformis
 
 **Psilocybe panaeoliformis** is a psilocybin-containing mushroom species in the family strophariaceae, originally described from New Zealand. The species epithet reflects its resemblance to members of the genus Panaeolus, particularly in the mottled or speckled appearance of its gills as spores mature at different times.
-It is one of several Australasian Psilocybe species documented in the global survey of magic mushrooms by Guzmán, Allen, and Gartz. The species is of particular interest due to its intermediate morphological features between typical Psilocybe and Panaeolus phenotypes.
+It is one of several Australasian Psilocybe species documented in the global survey of [[guzman-magic-mushrooms-african-species]] by Guzmán, Allen, and Gartz. The species is of particular interest due to its intermediate morphological features between typical Psilocybe and Panaeolus phenotypes.
 
 ## Taxonomy and Etymology
 
 The name *panaeoliformis* is derived from the combination of the genus name *Panaeolus* and the Latin suffix *-formis*, meaning resembling, highlighting the species' superficial similarity to Panaeolus species in its gill coloration pattern.
-The species was described from New Zealand collections and has been discussed in the context of Australasian Psilocybe diversity by Guzmán and collaborators. It is placed in Psilocybe section psilocybe-sect.-psilocybe, though some authors have noted intermediate morphological features between this section and other groups within the genus.
+The species was described from New Zealand collections and has been discussed in the context of Australasian Psilocybe diversity by Guzmán and collaborators. It is placed in [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]] psilocybe-sect.-psilocybe, though some authors have noted intermediate morphological features between this section and other groups within the genus.
 The distinctive mottled gill pattern is atypical for section Psilocybe and may indicate an evolutionary convergence with Panaeolus-like gill maturation patterns, or it may reflect a transitional morphology between sections. Molecular phylogenetic data for this species remain limited, and its precise placement within the genus would benefit from additional sequencing work.
 
 ## Description
@@ -40,13 +40,13 @@ Similar taxa have been reported from southeastern Australia, but whether these r
 
 ### Ecology
 The species is coprophilous, growing primarily on the dung of herbivores including sheep, cattle, and horses in open pastures and grasslands. It has also been recorded on enriched soil where dung has decomposed and been incorporated into the substrate.
-Fruiting occurs during the cooler, wetter months of the Southern Hemisphere, from April through August, with peak fruiting in late autumn to early winter. The species favors well-grazed pastures with abundant dung deposits and moderate to high rainfall.
-It is typically found at low to moderate elevations. The coprophilous lifestyle of *P. panaeoliformis* aligns it with other dung-inhabiting Psilocybe species worldwide, though its Panaeolus-like gill mottling is unusual within this ecological group. The species may play a role in nutrient cycling in pastoral ecosystems, contributing to the decomposition of herbivore dung.
+Fruiting occurs during the cooler, wetter months of the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], from April through August, with peak fruiting in late autumn to early winter. The species favors well-grazed pastures with abundant dung deposits and moderate to high rainfall.
+It is typically found at low to moderate elevations. The coprophilous lifestyle of *P. panaeoliformis* aligns it with other dung-inhabiting Psilocybe species worldwide, though its Panaeolus-like gill mottling is unusual within this ecological group. The species may play a role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in pastoral ecosystems, contributing to the decomposition of herbivore dung.
 Fresh specimens should be carefully handled to observe the blue bruising reaction, as this is the most reliable field character distinguishing *P. panaeoliformis* from truly non-psychoactive Panaeolus species with similar gill patterns.
 
 ## Chemistry
 
-The species contains [[psilocin]], confirmed by chemical analysis and indicated by the blue bruising reaction. The bluing can be moderate to strong, most evident on the stipe and base.
+The species contains [[psilocin]], confirmed by [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] and indicated by the blue bruising reaction. The bluing can be moderate to strong, most evident on the stipe and base.
 Both major psychoactive compounds have been detected using chromatographic methods, indicating moderate potency comparable to other coprophilous Psilocybe species from the Australasian region. [[panaeolus-cinctulus]] and [[psilocybe-coprophila]], a non-psychoactive species that does not bruise blue, and with [[psilocybe-makarorae]] and [[psilocybe-subaeruginosa]] and [[panaeolus-cinctulus]]: non-psychoactive lookalike with mottled gills
 - [[psilocybe-makarorae]]: New Zealand native Psilocybe species
 - [[psilocybin]]: primary psychoactive compound
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

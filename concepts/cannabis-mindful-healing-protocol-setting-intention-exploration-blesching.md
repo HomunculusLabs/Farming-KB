@@ -1,5 +1,5 @@
 ---
-title: Cannabis Mindful Healing Protocol Setting Intention and Exploration Blesching
+title: Cannabis cannabis mindful healing protocol setting intention exploration blesching Protocol Setting Intention and Exploration Blesching
 source: uwe-blesching-the-cannabis-health-index.md
 tags: [cannabis, mindfulness, healing, intention, setting, exploration, mind-body, CHI]
 created: 2026-05-08
@@ -9,7 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-In *The Cannabis Health Index*, Uwe Blesching presents a structured protocol for integrating cannabis use with mindful healing practices. This protocol goes beyond simple dosing guidelines to address the psychological and intentional dimensions of therapeutic cannabis use. The three core components — Setting, Intention, and Exploration — form a framework that Blesching suggests can enhance the therapeutic effects of cannabis by engaging the mind actively in the healing process.
+In *The [[blesching-cannabis-health-index-autoimmune-conditions]]*, Uwe Blesching presents a structured protocol for integrating cannabis use with mindful healing practices. This protocol goes beyond simple [[cannabis-dosing-guidelines-by-condition]] to address the psychological and intentional dimensions of therapeutic cannabis use. The three core components — Setting, Intention, and Exploration — form a framework that Blesching suggests can enhance the therapeutic effects of cannabis by engaging the mind actively in the healing process.
 
 ## Philosophical Foundation
 
@@ -101,7 +101,7 @@ The protocol acknowledges that healing exploration often encounters internal res
 - Feeling uncomfortable or experiencing distracting pains
 - Falling asleep
 
-These resistances are not interpreted as failure but as signals that relevant material is emerging. The protocol encourages staying focused within, noticing sensations, desires, and impulses, and trying to discover what lies beneath.
+These resistances are not interpreted as failure but as signals that relevant material is emerging. The protocol encourages staying focused within, noticing sensations, desires, and impulses, and trying to discover what [[bloomfield-what-lies-beneath-mycelial-architecture-hyphal-biology-subterranean-fungus]].
 
 ### Self-Forgiveness
 
@@ -113,7 +113,7 @@ The core insight of the exploration phase is that "merely being with whatever em
 
 ## Integration with the Cannabis Health Index
 
-This mindful healing protocol is designed to be used alongside the evidence-based CHI scoring system. The CHI provides scientific confidence in cannabis as a treatment for specific conditions, while the mindful healing protocol provides a framework for engaging with the psychological and emotional dimensions of the healing process. Together, they represent an integrative approach that combines the best of evidence-based medicine with mind-body healing practices.
+This mindful healing protocol is designed to be used alongside the evidence-based [[blesching-cannabis-chi-scoring-evidence-based-medicine]] system. The CHI provides scientific confidence in cannabis as a treatment for specific conditions, while the mindful healing protocol provides a framework for engaging with the psychological and emotional dimensions of the healing process. Together, they represent an integrative approach that combines the best of evidence-based medicine with mind-body healing practices.
 
 ## See Also
 

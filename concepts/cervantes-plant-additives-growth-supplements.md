@@ -5,7 +5,8 @@ tags: [cannabis, additives, hormones, enzymes, nutrients]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -30,7 +31,7 @@ nutrients and water even in drought conditions.
 
 ### Gibberellins (Gibberellic Acid, GA)
 A natural plant growth hormone that acts with auxins to break
-dormancy, stimulate seed germination, and grow long stems. Can be
+dormancy, stimulate [[cannabis-seed-germination-methods]], and grow long stems. Can be
 purchased commercially to extend the grow season and force larger
 blooms. However, GA is considered very hazardous to humans according
 to its Material Safety Data Sheet (MSDS).
@@ -43,8 +44,8 @@ Most often used by vegetable growers to force ripening of produce.
 ## Biological Additives
 
 ### Beneficial Bacteria
-Mycorrhizal fungi and rhizobacteria are extremely beneficial in
-organic gardening. Their presence in the growing medium produces
+[[arbuscular-mycorrhizal-fungi-biology-symbiosis]] and rhizobacteria are extremely beneficial in
+[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]. Their presence in the growing medium produces
 stronger, healthier plants that require less chemical intervention.
 Actino-Iron is a commercial soil additive containing Streptomyces
 lydicus, which grows around root systems protecting them from harmful
@@ -52,7 +53,7 @@ pathogens while producing anti-fungals.
 
 ### Rhizobium
 A group of bacteria that infect legume roots and create nodules that
-act in symbiosis with the plant. Rhizobia improve nitrogen fixation
+act in symbiosis with the plant. Rhizobia improve [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
 while providing an additional nitrogen source. They are most effective
 when added to irrigation water. Benefits depend on proper crop and
 rhizobium match.
@@ -67,7 +68,7 @@ Molasses, honey, and other sugars increase soil microbials, enhance
 regrowth, and make the plant's use of nitrogen more effective.
 Molasses raises the energy level of the plant and acts as a mild
 natural fungicide. Molasses is the "secret ingredient" in many
-organic fertilizers.
+[[hamilton-organic-fertilizers-and-plant-nutrition]].
 
 ### Ascorbic Acid (Vitamin C)
 Thought to build tighter, heavier buds and act as an antioxidant. Often
@@ -84,7 +85,7 @@ to months. "Willow water" also makes a popular rooting bath.
 ## Application Guidelines
 
 1. Additives do not have time to work properly if applied near the
-   end of the flowering cycle.
+   end of the [[cannabis-sativa-flowering-cycle-management]].
 2. Many commercial formulas contain hormone cocktails which include
    hormones that may work against one another.
 3. Always follow label directions and start with lower concentrations.

@@ -1,11 +1,11 @@
 ---
-title: "What Is Tissue Culture and Why Does It Matter for Growers"
+title: "What Is comparison-seed-saving-techniques-vs-tissue-culture-cloning and Why Does It Matter for Growers"
 created: 2026-04-28
 tags: [query, tissue-culture, propagation, cloning, plant-science, cannabis]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 type: query
 ---
 
@@ -36,12 +36,12 @@ and placed on [[cervantes-tissue-culture-micropropagation]] covers the specific 
 The primary advantage of tissue culture over conventional
 [[cotter-agar-tissue-culture-techniques]]
 used in mycology have many parallels with plant tissue culture, particularly
-in sterile technique and contamination management protocols.
+in [[cultivator-sterile-technique-and-agar-culture]] and contamination management protocols.
 
 Tissue culture also enables long-term genetic preservation. Plantlets can be
 maintained in slow-growth conditions in sealed containers for months or even
 years, requiring only periodic subculturing onto fresh medium. This is
-invaluable for preserving [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] highlights how tissue culture preserves exact genotypes while seed saving introduces genetic recombination.
+invaluable for preserving [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] highlights how tissue culture preserves exact genotypes while [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]] introduces genetic recombination.
 
 Rooting and acclimation are the final and often most challenging steps.
 Plantlets grown in the high-humidity, low-light environment of a culture
@@ -54,10 +54,10 @@ full benefits of tissue culture work.
 
 Home-scale tissue culture is increasingly accessible to dedicated hobbyists.
 Basic setups require a pressure cooker or autoclave for sterilization, a
-laminar flow hood or still air box for sterile work, growth medium
+[[comparison-laminar-flow-hood-vs-fruiting-chamber]] hood or still [[query-how-to-make-a-diy-still-air-box-for-mushroom-cultivation]] for sterile work, growth medium
 ingredients, and culture vessels. The total investment can be as low as a
 few hundred dollars for a functional home lab. While cannabis tissue culture
-is more demanding than mushroom culture work, many of the fundamental
+is more demanding than [[mazatec-mushroom-culture-and-velada]] work, many of the fundamental
 skills and equipment overlap, making it a natural progression for mycology
 enthusiasts interested in expanding into plant propagation.
 
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

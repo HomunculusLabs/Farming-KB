@@ -1,5 +1,5 @@
 ---
-title: Fruiting Parameters (Growing Gourmet & Medicinal Mushrooms)
+title: Fruiting Parameters (Growing Gourmet & comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive)
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
@@ -20,11 +20,11 @@ Each stage of mushroom growth has a different ideal environment. As each factor 
 
 ## Phase 1: Spawn Run
 
-During spawn run, the [[mushroom-cultivator-bulk-substrate]]. The key environmental factors are:
+During spawn run, the [[mushroom-cultivator-bulk-substrate]]. The key [[duggar-mushroom-environmental-factors-temperature-moisture-light]] are:
 
-**Temperature:** Incubation temperature runs higher than temperature for primordia formation. Internal temperatures should not exceed 95F (35C) or black pin molds and other thermophilic competitors will awaken, especially under the rich CO2 conditions created during spawn running.
+**Temperature:** Incubation temperature runs higher than temperature for [[growing-gourmet-primordia-formation-pinning]]. Internal temperatures should not exceed 95F (35C) or black pin molds and other thermophilic competitors will awaken, especially under the rich CO2 conditions created during spawn running.
 
-**Humidity:** Relative humidity should be 95-100%. Since mushrooms are about 90% water, the mycelium will fail in its efforts to generate fruitbodies if substrate moisture is depleted. The solution: retard the loss of substrate moisture by maintaining high humidity during spawn run.
+**Humidity:** Relative humidity should be 95-100%. Since mushrooms are about 90% water, the mycelium will fail in its efforts to generate fruitbodies if [[pf-tek-substrate-moisture-diagnosis-and-correction]] is depleted. The solution: retard the loss of substrate moisture by maintaining high humidity during spawn run.
 
 **Air Exchange:** Mushroom mycelium is remarkable for its tolerance of carbon dioxide. Some Oyster mushrooms' growth rates peak at 20% CO2 (200,000 ppm). However, this CO2 environment is equally stimulatory to competitor molds. Fresh air exchanges of 0-1 per hour are typical.
 
@@ -38,7 +38,7 @@ By far the most critical step in the mushroom life cycle, primordia formation is
 Direct watering is applied, coupled with a constant, controlled rate of evaporation to maintain high humidity between 95-100%. Fog-like conditions are important when aerial mycelium is first exposed to the growing room environment. Once primordia form, a gradual reduction of humidity from 100% to 90-95% is usually beneficial. Humidity should be measured at three locations in the free air spaces directly above the mycelium-permeated substrate.
 
 ### Air Exchange
-Air is exchanged to precipitously lower carbon dioxide and suddenly provide oxygen. CO2 levels should be below 1000 ppm, ideally below 500 ppm for maximum mushroom formation. Fresh air exchanges of 4-8 per hour are typical during primordia formation.
+Air is exchanged to precipitously lower carbon dioxide and suddenly provide oxygen. CO2 levels should be below 1000 ppm, ideally below 500 ppm for maximum [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]. Fresh air exchanges of 4-8 per hour are typical during primordia formation.
 
 ### Temperature
 Many strains will not form mushrooms unless temperature is dropped or raised to a critical plateau. For most temperate strains, core temperature must drop below 60-65F (15-18C) before primordia will set. Once formed, temperatures can be elevated to the 70-80F (21-27C) range.
@@ -106,7 +106,7 @@ Cropping Cycle: 4-5 flushes over several months. Requires cold shock for tempera
 | Air Exchanges | 0-1/hr | 4-8/hr | 4-8/hr |
 | Light | n/a | 200-1,500 lux | 200-1,500 lux |
 
-Cropping Cycle: 2-3 flushes, 7-14 days apart. Very sensitive to CO2 -- stems elongate and caps remain undeveloped without adequate air exchange. Strong photosensitivity. Cap margins reveal harvest timing.
+Cropping Cycle: 2-3 flushes, 7-14 days apart. Very sensitive to CO2 -- stems elongate and caps remain undeveloped without adequate air exchange. Strong photosensitivity. Cap margins reveal [[cannabis-harvest-timing-visual-cues]].
 
 ### Pleurotus citrinopileatus (Golden Oyster)
 
@@ -122,12 +122,3 @@ Cropping Cycle: 2-3 flushes, 7-14 days apart. Very sensitive to CO2 -- stems elo
 Note: Warm weather species that fruits when temperatures exceed 65F (18C). Extremely astringent flavor until thoroughly cooked.
 
 ### Volvariella volvacea (Paddy Straw Mushroom)
-
-| Parameter | Spawn Run | Primordia Formation | Fruitbody Development |
-|-----------|-----------|-------------------|----------------------|
-| Temperature | 85-95F (29-35C) | 80-90F (27-32C) | 80-95F (27-35C) |
-| Humidity | 95-100% | 95-100% | 85-95% |
-| Duration | 5-10 days | 3-5 days | 2-4 days |
-| CO2 | >5,000 ppm | <1,000 ppm | <1,000 ppm |
-| Air Exchanges | 0-1/hr | 4-8/hr | 4-8/hr |
-| Light | n/a | 500-1,000 lux | 500-1,000 lux |

@@ -1,16 +1,17 @@
 ---
-title: "Silvopasture vs Pasture Management"
+title: "Silvopasture vs grassland-pasture-management-mollison"
 created: 2026-04-28
 tags: [comparison, livestock, agroforestry, grazing]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
 # Silvopasture vs [[pasture-management]]
 Pasture management is the science and practice of optimizing grass-based
-livestock systems through rotational grazing, paddock design, and forage
+livestock systems through [[comparison-rotational-grazing-vs-continuous-grazing]], paddock design, and forage
 management. The foundational principle is rotational grazing: dividing
 pasture into multiple paddocks and moving livestock on a schedule that
 allows each paddock adequate rest and regrowth between grazing events.
@@ -22,7 +23,7 @@ seeding.
 ## Silvopasture Systems
 [[root-exudates]]. Biodiversity is dramatically higher in silvopasture
 systems than in open pasture, with the tree layer providing habitat for
-birds, pollinators, and beneficial insects. Shade-tolerant forage
+birds, pollinators, and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. Shade-tolerant forage
 species like orchardgrass, white clover, and birdsfoot trefoil can be
 maintained beneath the canopy, providing productive ground cover even
 under moderate shade levels.
@@ -33,7 +34,7 @@ under moderate shade levels.
 | System Components | Grass and livestock | Trees, grass, and livestock |
 | Primary Design Focus | Forage production and rotational grazing | Multi-layer integration of all components |
 | Income Streams | One (livestock products) | Two to three (livestock, tree products, forage seed) |
-| Carbon Sequestration | Moderate (soil only) | Very high (soil plus tree biomass) |
+| [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] | Moderate (soil only) | Very high (soil plus [[mollison-tree-biomass-and-forest-as-living-entity]]) |
 | Shade and Shelter | Requires separate infrastructure | Provided by tree canopy |
 | Animal Heat Stress | Managed by portable shade structures | Reduced 10 to 15 degrees F by tree shade |
 | Startup Investment | Low (fencing, water) | Moderate to high (tree planting, establishment) |
@@ -58,7 +59,7 @@ establishment.
 Pasture management also works well for beginning livestock farmers who
 need to develop their grazing skills before adding the complexity of
 tree management. The principles of rotational grazing, rest periods, and
-stock density management provide a solid foundation that can later be
+[[savory-fencing-economics-and-stock-density-curve]] management provide a solid foundation that can later be
 expanded into silvopasture as the farmer's experience and financial
 resources grow. For leased land or situations with uncertain long-term
 tenure, the immediate returns of pasture management make more economic

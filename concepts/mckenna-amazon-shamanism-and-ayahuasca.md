@@ -1,5 +1,5 @@
 ---
-title: McKenna on Amazon Shamanism and Ayahuasca
+title: McKenna on mckenna amazon shamanism and ayahuasca and Ayahuasca
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -32,7 +32,7 @@ religious practice everywhere before the rise of priestcraft and dogma.
 McKenna draws on Mircea Eliade to establish shamanism's coherence across
 cultures. Whether the shaman is an Arctic Inuit or a Witoto of the Upper
 Amazon, certain techniques remain the same. Most important is ecstasy: the
-novice undergoes a symbolic death and resurrection, understood as radical
+novice undergoes a symbolic [[allegro-death-and-resurrection-in-the-mushroom-cult]], understood as radical
 transformation into a superhuman condition. Henceforth the shaman has access
 to the superhuman plane, can travel in the spirit realm at will, and can
 cure and divine. The shaman is "more than merely a sick man or a madman; he
@@ -62,7 +62,7 @@ The ayahuasca experience differs markedly from smoked [[mckenna-catalytic-psyche
 
 ## Historical Discovery by Western Science
 
-Richard Spruce first observed ayahuasca preparation among Indians on the
+Richard Spruce first observed [[harner-amazonian-ayahuasca-preparation-methods]] among Indians on the
 upper Rio Negro in the 1850s, naming the liana Banisteria caapi. Lewis
 Lewin later studied harmine (initially named "telepathine") from this vine.
 Ethnographers such as Theodore Koch-Grunberg returned from Amazonas with

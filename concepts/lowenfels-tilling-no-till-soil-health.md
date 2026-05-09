@@ -31,10 +31,10 @@ fragile thread-like structures that form extensive networks through soil.
 Rototilling slices, tears, and crushes these networks. Since fungi take weeks
 to months to rebuild their hyphal networks, each tilling event resets fungal
 populations to near zero. This is particularly devastating for trees, shrubs,
-and perennials that depend on mycorrhizal fungal networks.
+and perennials that depend on [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] networks.
 
 **Mycorrhizal connections** -- Rototilling severs the physical connection
-between mycorrhizal fungi and plant roots. Even if the roots survive, the
+between [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] and plant roots. Even if the roots survive, the
 fungal network is destroyed and must re-establish. This cuts the plant off
 from its phosphorus supply, water access, and disease protection. Rule 19:
 Rototilling and excessive soil disturbance destroys the soil food web.
@@ -53,7 +53,7 @@ soil that is prone to erosion and waterlogging.
 **Soil organisms** -- Macroarthropods (mites, springtails, beetles) are
 crushed or displaced. Their habitat -- the soil pore network -- is destroyed.
 Protozoa and nematodes are physically damaged. Bacterial populations may spike
-temporarily (from exposed organic matter) but then crash when their food source
+temporarily (from exposed [[hamilton-composting-and-organic-matter-management]]) but then crash when their food source
 is depleted.
 
 ## The No-Till Alternative
@@ -66,12 +66,12 @@ down, just as it happens in natural ecosystems.
 
 Benefits of no-till:
 
-- Preserves fungal hyphae and mycorrhizal networks
+- Preserves fungal hyphae and [[dighton-mycorrhizal-networks-carbon-transfer]]
 - Maintains soil aggregate structure and pore spaces
 - Protects earthworm tunnels and burrows
 - Sustains diverse arthropod populations
 - Prevents erosion by maintaining surface cover
-- Reduces weed seed germination (by not bringing buried seeds to the surface)
+- Reduces weed [[cannabis-seed-germination-methods]] (by not bringing buried seeds to the surface)
 - Builds organic matter and soil carbon over time
 - Reduces labor and fuel costs
 
@@ -105,7 +105,7 @@ Plant succession provides a natural model for soil development without tillage:
 
 4. **Hardwood/old growth stage** -- Trees and mature forest develop extensive
    mycorrhizal networks. The soil is fungally dominated with high organic
-   matter, excellent structure, and maximum nutrient cycling efficiency.
+   matter, excellent structure, and maximum [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] efficiency.
 
 The F:B ratio increases predictably with succession: bacterial in early stages,
 increasingly fungal in later stages. This is why vegetables (early succession
@@ -138,5 +138,8 @@ everything plants need.
 
 ## See Also
 - [[natural-farming-guide-forest-garden-strategy-and-ecological-succession]]
-- [[fungal-enzyme-systems-and-nutrient-cycling]]
-- [[faires-soil-management-and-sheet-mulching]]
+- fungal-enzyme-systems-and-nutrient-cycling
+- faires-soil-management-and-sheet-mulching
+- [[building-soil]]
+- [[soil-food-web]]
+- [[fungal-hyphae]]

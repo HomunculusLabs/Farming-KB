@@ -1,5 +1,5 @@
 ---
-title: PF TEK Pressure Canner Sterilization
+title: PF pf tek pressure canner sterilization Canner Sterilization
 created: 2026-04-28
 tags: [pf-tek, sterilization, pressure-canner, equipment, mycology]
 date: 2026-04-28
@@ -13,11 +13,11 @@ type: concept
 
 ## Overview
 
-While the PF TEK was designed to work with simple steam sterilization using regular
+While the PF TEK was designed to work with simple [[pf-tek-steam-sterilization-pot-method-common-pottery]] using regular
 kitchen cookware, a pressure canner offers a faster and more reliable sterilization
 option for cultivators who have access to one.
 
-The PF TEK's standard substrate formula of brown rice flour, vermiculite, and water
+The PF TEK's standard [[pf-tek-measurement-calibration-and-substrate-formula-precision]] of brown rice flour, vermiculite, and water
 can be sterilized without grain-cooking concerns because the substrate is airy and
 non-grain based. The pressure canner provides significant advantages in speed and
 sterility assurance, making it a worthwhile investment for serious cultivators.
@@ -53,7 +53,7 @@ three-fold reduction in active sterilization time.
 
 The shorter exposure time also reduces the risk of substrate drying, which is one of
 the most common problems with extended steam sterilization. Drying is evidenced by
-OK spore germination that subsequently halts at a certain point depending on how
+OK [[growing-gourmet-spore-germination-strain-isolation]] that subsequently halts at a certain point depending on how
 dry the substrate has become.
 
 ### Water Bottles: 12 PSI for 55 Minutes
@@ -63,7 +63,7 @@ substantially longer time is necessary because water has a high heat capacity an
 bottles are typically larger than the half-pint substrate jars.
 
 Complete sterilization of the water supply is critical since it will be used in
-substrate preparation and spore syringe manufacturing. Contaminated water bottles can
+[[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] and [[comparison-spore-print-collection-vs-spore-syringe-production]] manufacturing. Contaminated water bottles can
 introduce bacteria that destroy entire batches of substrate jars.
 
 ### Syringes and Needles: 12 PSI for 10 Minutes

@@ -40,7 +40,7 @@ After filling, lids are placed on loosely (not screwed tight). A double layer of
 
 ## Sterilisation
 
-Pressure cooker sterilisation is essential; a normal boiling pot does not achieve sufficient temperature or pressure. A water layer is placed in the cooker base, jars are positioned with loose lids, and sterilisation proceeds for:
+Pressure [[pressure-cooker-sterilisation-fungal-substrate]] is essential; a normal boiling pot does not achieve sufficient temperature or pressure. A water layer is placed in the cooker base, jars are positioned with loose lids, and sterilisation proceeds for:
 
 - **720 ml jars**: 1 hour
 - **1.5 litre jars and spawn bags**: 2 hours
@@ -49,7 +49,7 @@ After the pressure has fully released, jars are removed and shaken to redistribu
 
 ## Inoculation
 
-Inoculation occurs only after jars have cooled completely to room temperature. Hot jars will kill spores or mycelium. Acceptable inoculants include spore syringes, mycelium syringes, and agar squares.
+Inoculation occurs only after jars have cooled completely to room temperature. Hot jars will kill spores or mycelium. Acceptable inoculants include [[query-spore-syringes-vs-liquid-culture]], mycelium syringes, and [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]].
 
 ### Clean Technique
 
@@ -113,7 +113,7 @@ Casings are misted daily and never allowed to dry out. After picking a flush, wa
 - **First pinheads**: appear 6 to 15 days after introducing fruiting conditions
 - **Maturation**: mushrooms mature in 5 to 7 days
 - **Flushes**: typically 3 flushes are harvested, though up to 5 or 6 are possible with proper watering
-- **Psilocybe mexicana**: usually produces one large flush and a small second flush
+- **[[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]**: usually produces one large flush and a small second flush
 
 ### Maintenance
 
@@ -125,10 +125,10 @@ The mycelium of [[psilocybe-mexicana]] can produce sclerotia directly within the
 
 ## See Also
 
-- [[grass-seed-substrate-psilocybe-mushroom-sclerotia-cultivation-guide]]
+- grass-seed-substrate-psilocybe-mushroom-sclerotia-cultivation-guide
 - [[grass-seed-mushroom-cultivation]]
 - [[psilocybe-mexicana]]
 - [[psilocybe-tampanensis-entity]]
-- Sclerotia Formation in Fungi
+- [[growing-gourmet-sclerotia-formation-biology-mushrooms]] in Fungi
 - Mushroom Casing Soil Preparation
-- Sterilisation Techniques for Mushroom Cultivation
+- Sterilisation Techniques for [[accessible-mushroom-cultivation-for-disabilities]]

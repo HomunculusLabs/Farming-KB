@@ -1,5 +1,5 @@
 ---
-title: Autoimmune Conditions (Blesching, Cannabis Health Index)
+title: cannabis-autoimmune-conditions-detailed (Blesching, blesching cannabis health index autoimmune conditions)
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -17,13 +17,13 @@ Evidence-based review of cannabis for autoimmune diseases from Blesching's "The 
 The ECS is a central regulator of immune function. Throughout life, it produces nurturing responses to injuries and inflammations. The CB2 receptor is the primary immune-modulating receptor:
 
 - **CB2 receptors** cluster in peripheral tissues, especially the spleen, governing proper immune responses
-- CB2 engagement becomes critical for chronic pain associated with autoimmune diseases where the body's own immune system turns on itself
+- CB2 engagement becomes critical for [[cannabis-chronic-pain-management]] associated with autoimmune diseases where the body's own immune system turns on itself
 - Regulation of endocannabinoid circuitry "can impact almost every major function associated with the immune system" (Boston, 2006)
 - THC is capable of attenuating the severity of autoimmune diseases
 - Cannabinoids have particular application as neuroprotectants for inflammatory and autoimmune diseases
 
 ### Autoimmune Condition Selection by Cannabinoid Profile
-- **Immune-compromised or chronic inflammation**: likely CB2-deficient; choose lower THC:CBD ratio (indica-dominant strains)
+- **Immune-compromised or chronic inflammation**: likely CB2-deficient; choose lower THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]] (indica-dominant strains)
 - **WIN55,212-2** (synthetic cannabinoid): binds with higher affinity to CB2 than CB1 receptors, making indica/indica-dominant strains preferable for autoimmune applications
 
 ## Rheumatoid Arthritis (CHI: 10, 3 studies)
@@ -74,7 +74,7 @@ Blesching draws on psychosomatic medicine to suggest autoimmune diseases may mir
 
 - Pain that is ignored, denied, or masked "will seek healing through more forceful and solidified means" -- avoided emotional pain born of betrayal/humiliation may develop into autoimmune disease where the body's defense mechanism turns on itself
 - RA onset studies found patients in relationships producing simultaneous rage and love, with unexpressed intense emotions
-- Fibromyalgia is associated with increased risk of stress-related disorders (chronic fatigue, PTSD)
+- Fibromyalgia is associated with increased risk of stress-related disorders ([[cannabis-chronic-fatigue-research]], PTSD)
 - Epigenetic research shows chronic stress can produce transgenerational vulnerability to anxiety disorders
 
 ## Related Topics

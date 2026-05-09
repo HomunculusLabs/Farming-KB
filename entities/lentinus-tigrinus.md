@@ -14,7 +14,7 @@ sources:
   - Pegler DN, Spooner BM, Young TWK (1993). "British Tricholomas." Kew Publishing.
   - Kirk PM, Cannon PF, Minter DW, Stalpers JA (2008). "Ainsworth & Bisby's Dictionary of the Fungi." 10th ed. CABI.
   - Núñez M, Ryvarden L (2000). "East Asian Polypores." Fungiflora, Oslo.
-  - Wasser SP (2002). "Medicinal mushrooms as a source of antitumor and immunomodulating polysaccharides." Applied Microbiology and Biotechnology, 60(3): 258-274.
+  - Wasser SP (2002). "[[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] as a source of antitumor and immunomodulating polysaccharides." Applied Microbiology and Biotechnology, 60(3): 258-274.
   - Zmitrovich IV, Malysheva VF (2013). "Towards a phylogenetic classification of the Polyporales (Basidiomycota)." Mycota, 14: 367-383.created: 2026-05-07
 
 created: 2026-05-07
@@ -82,20 +82,20 @@ to commercially cultivated relatives. The flavor is mild and slightly nutty.
 Cultivation on supplemented hardwood sawdust is feasible using standard
 shiitake (*L. edodes*) parameters: substrate at 60–65% moisture, spawn run
 at 22–25°C, and fruiting triggered by temperature drop to 15–18°C with high
-humidity (90–95%). Biological efficiency is moderate at 40–60%.
+humidity (90–95%). [[stamets-biological-efficiency-yield]] is moderate at 40–60%.
 
 Research interest in cultivation focuses on its enzyme production potential
-rather than food value. Laccase and manganese peroxidase yields are
-competitive with *Trametes versicolor* and *Pleurotus ostreatus*.
+rather than food value. Laccase and [[fungal-manganese-peroxidase-remediation]] yields are
+competitive with *[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]* and *Pleurotus ostreatus*.
 
 ## Bioactive Compounds
 
 Polysaccharides extracted from *L. tigrinus* fruiting bodies and mycelium
 have demonstrated immunomodulatory activity in vitro. β-glucan fractions
 stimulate macrophage activity and enhance natural killer cell cytotoxicity
-at concentrations comparable to those of *Ganoderma lucidum* extracts.
+at concentrations comparable to those of *[[stamets-reishi-ganoderma-lucidum-cultivation]]* extracts.
 
-Laccase enzymes from this species oxidize a broad range of phenolic
+[[singh-fungal-laccase-enzymes-bioremediation]] from this species oxidize a broad range of phenolic
 substrates and show potential applications in bioremediation of industrial
 dye wastewater. The manganese peroxidase system contributes to lignin
 degradation and has been studied for lignocellulosic biomass pretreatment.

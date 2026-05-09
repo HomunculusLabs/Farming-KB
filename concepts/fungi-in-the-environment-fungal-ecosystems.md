@@ -3,13 +3,10 @@ title: Fungi in the Environment - Fungal Ecosystems
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
 ---
-
-# Fungi in Ecosystems
-
-Fungi are integral components of virtually all terrestrial ecosystems, playing pivotal roles in [[dighton-fungal-ecosystem-services-framework]]. Despite their fundamental importance, fungi are frequently neglected within broader environmental and microbiological spheres, and mycological interests can be somewhat fragmented between traditional subject boundaries.
+# Fungi in Ecosystems Fungi are integral components of virtually all terrestrial ecosystems, playing pivotal roles in [[dighton-fungal-ecosystem-services-framework]]. Despite their fundamental importance, fungi are frequently neglected within broader environmental and microbiological spheres, and mycological interests can be somewhat fragmented between traditional subject boundaries.
 
 ## Fungi as Ecosystem Engineers
 
@@ -19,7 +16,7 @@ EM fungi such as Cenococcum geophilum produce mycelium with highly thickened cel
 
 ### Decomposition and Carbon Fluxes
 
-The relationship between mycorrhizal fungi and decomposition significantly affects ecosystem carbon flux. In some systems, EM fungi can reduce decomposition rates by competing with decomposer fungi for resources or through allelopathic effects mediated through their litter. [[fungal-ecology-decomposition-cycles]], including carbon, nitrogen, phosphorus, and metal cycling. Their involvement in mineral transformations -- including dissolution, precipitation, oxidation, and reduction -- drives the availability of essential plant nutrients.
+The relationship between [[mollison-designers-mycorrhizal-fungi-and-soil-microbiology]] decomposition significantly affects ecosystem carbon flux. In some systems, EM fungi can reduce decomposition rates by competing with decomposer fungi for resources or through allelopathic effects mediated through their litter. [[fungal-ecology-decomposition-cycles]], including carbon, nitrogen, phosphorus, and metal cycling. Their involvement in [[fungal-mineral-transformations-biogeochemical-cycles-gadd]] -- including dissolution, precipitation, oxidation, and reduction -- drives the availability of essential plant nutrients.
 
 The primary fungal impact on biogeochemical cycling results from their metabolic activities: excretion of protons and organic acids, production of siderophores and metal-complexing metabolites, and enzymatic degradation of organic matter. Fungal weathering of rock and mineral surfaces contributes to soil formation and nutrient release.
 
@@ -28,14 +25,14 @@ The primary fungal impact on biogeochemical cycling results from their metabolic
 Fungi play critical roles in nitrogen cycling through their ability to:
 - Decompose nitrogen-rich organic matter
 - Mobilize nitrogen from recalcitrant sources
-- Transfer nitrogen between plants through mycorrhizal networks
+- Transfer nitrogen between plants through [[dighton-mycorrhizal-networks-carbon-transfer]]
 - Influence nitrogen retention and loss from ecosystems
 
 In boreal forest ecosystems, the dominance of ectomycorrhizal fungi in accessing organic nitrogen creates conditions where nitrogen is tightly cycled within the fungal-soil-plant system, minimizing losses.
 
 ## Forest Ecosystems
 
-Forest ecosystems represent perhaps the most fungus-dominated habitats. The [[biodiversity-fungi-soil-fungal-communities]] are dominated by arbuscular mycorrhizal fungi and a diverse array of saprotrophic species. AM fungal diversity in grassland soils has been a major research theme, with molecular approaches revealing that AM communities are more diverse than previously appreciated.
+Forest ecosystems represent perhaps the most fungus-dominated habitats. The [[biodiversity-fungi-soil-fungal-communities]] are dominated by [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi and a diverse array of saprotrophic species. AM fungal diversity in grassland soils has been a major research theme, with [[staycare-molecular-approaches-fungal-bioremediation]] revealing that AM communities are more diverse than previously appreciated.
 
 ## Extreme Ecosystems
 
@@ -62,7 +59,7 @@ Fungi are particularly important in phosphorus cycling due to their ability to a
 Beyond decomposition, fungi contribute to long-term carbon sequestration through multiple pathways:
 
 - **Necromass accumulation**: Dead fungal biomass contains recalcitrant compounds (chitin, melanin) that persist in soil
-- **Aggregate formation**: Fungal hyphae and glomalin-related proteins stabilize soil aggregates, protecting organic carbon within them
+- **[[soil-aggregate-formation-fungal-contributions]]**: Fungal hyphae and glomalin-related proteins stabilize soil aggregates, protecting organic carbon within them
 - **Biochemical stabilization**: Fungal metabolites and cell wall compounds interact with soil minerals to form stable organo-mineral complexes
 - **Priming effects**: Fungal activity can either accelerate or retard decomposition of existing soil organic matter
 
@@ -72,7 +69,7 @@ Beyond decomposition, fungi contribute to long-term carbon sequestration through
 - [[fungal-nutrient-cycling-mineral-transformations]]
 - [[fungal-biogeochemistry]]
 - [[fungal-roles-grassland-ecosystems]]
-- [[fungal-soil-aggregation]]
+- fungal-soil-aggregation
 ## Practical Considerations
 
 Successful implementation of Fungi in the Environment - Fungal Ecosystems requires attention to
@@ -91,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

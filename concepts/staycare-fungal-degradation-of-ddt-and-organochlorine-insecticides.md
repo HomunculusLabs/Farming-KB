@@ -1,5 +1,5 @@
 ---
-title: "Fungal Degradation of DDT and Organochlorine Insecticides"
+title: "singh-fungal-degradation-endocrine-disrupting-compounds of DDT and Organochlorine Insecticides"
 created: 2026-04-28
 tags: [mycoremediation, organochlorines, ddt, pesticides, white-rot-fungi]
 date: 2026-04-28
@@ -37,7 +37,7 @@ them particularly challenging for bioremediation:
   progressively through food chains, reaching highest levels in
   top predators.
 
-## DDT Degradation by [[fungal-bioremediation]] systems.
+## DDT Degradation by fungal-bioremediation systems.
 
 Optimal DDT degradation by P. chrysosporium occurs on cellulose or
 starch as the primary carbon source. In soil system experiments, a
@@ -63,16 +63,16 @@ fungal degradation:
 - **Methoxychlor, chlordane, heptachlor, and mirex**: These
   additional organochlorine insecticides have received limited
   study with respect to fungal degradation but are potential targets
-  for white rot fungal bioremediation given the non-specific
+  for white rot [[staycare-composting-as-a-fungal-bioremediation-strategy]] given the non-specific
   oxidative mechanisms involved.
 
 ## Mechanisms of Fungal Organochlorine Degradation
 
 White rot fungi degrade organochlorine insecticides primarily through
 their ligninolytic enzyme systems. The non-specific free-radical
-mechanism of Lignin Peroxidase and Pollutant Degradation and
-Manganese Peroxidase in Fungal Bioremediation enables
-oxidation of the chlorinated aromatic structures without requiring
+mechanism of [[fungal-lignin-peroxidase-veratryl-alcohol]] and Pollutant Degradation and
+[[fungal-manganese-peroxidase-remediation]] in Fungal Bioremediation enables
+oxidation of the [[fungal-chlorinated-aromatic-degradation]] structures without requiring
 specific enzyme-substrate recognition. This non-specific mechanism is
 particularly valuable for organochlorine mixtures commonly found at
 contaminated sites.
@@ -87,7 +87,7 @@ compounds.
 
 A critical concern in fungal bioremediation of organochlorine
 insecticides is the potential formation of toxic intermediates. In
-some cases, fungal transformation of organochlorine compounds may
+some cases, [[singh-fungal-transformation-metals-metalloids]] of organochlorine compounds may
 produce metabolites that are as toxic as or more toxic than the parent
 compound. For example, PCP remediation by P. chrysosporium has been
 shown to produce intermediates toxic to Bacillus megaterium at certain
@@ -108,4 +108,4 @@ See also: Fungal Pesticide POP Degradation,
 [[fungal-bioremediation-mechanisms]]
 
 - [[staycare-fungal-degradation-of-explosives-and-nitroaromatics]]
-- [[fungal-degradation-of-dioxins-and-polychlorinated-biphenyls]]
+- fungal-degradation-of-dioxins-and-polychlorinated-biphenyls

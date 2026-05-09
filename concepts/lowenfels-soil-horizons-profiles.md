@@ -18,7 +18,7 @@ gardeners, the top horizons are the ones that matter most.
 ## How Soil Horizons Form
 
 Soil horizons develop as weather breaks rock down into mineral components and
-organic matter accumulates from the activity of plants and animals on the
+[[hamilton-composting-and-organic-matter-management]] accumulates from the activity of plants and animals on the
 surface. Water moving down through the soil concentrates certain materials in
 specific zones. Particle size causes particular materials to be filtered or
 accumulated at different depths. Over time, distinct layers form, visible when
@@ -71,7 +71,7 @@ horizons at the surface contain the vast majority of organic matter and soil
 food web organisms and are where plant roots grow. Soil color provides visual
 clues about horizon conditions. Human activities like tilling, grading, and
 compaction frequently damage these critical surface layers. Building and
-protecting topsoil through organic amendments is the foundation of soil food web
+protecting topsoil through [[cervantes-organic-amendments-chart]] is the foundation of soil food web
 gardening.
 
 ## See Also

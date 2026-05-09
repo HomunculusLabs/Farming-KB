@@ -1,5 +1,5 @@
 ---
-title: maryland mammoth tobacco and the discovery of photoperiodism
+title: chamovitz-maryland-mammoth-photoperiodism-discovery tobacco and the discovery of photoperiodism
 created: 2026-04-28
 tags:
   - photoperiodism
@@ -22,7 +22,7 @@ type: concept
 The Maryland Mammoth tobacco strain was the unlikely key that unlocked one
 of the most fundamental discoveries in plant biology: [[coleman-winter-day-length-and-persephone-months]] and use that information to
 trigger flowering. This discovery, made by Wightman W. Garner and Harry
-A. Allard at the United States Department of Agriculture in 1918,
+A. Allard at the [[dmt-containing-plants-united-states-halpern]] Department of Agriculture in 1918,
 transformed commercial agriculture and fundamentally altered our
 understanding of how plants perceive and respond to their light
 environment.
@@ -44,12 +44,12 @@ The strain could reach four and a half metres in height, produce nearly
 a hundred leaves, and continued growing vegetatively without ever
 initiating flowering until killed by autumn frost.
 
-On the surface, such robust vegetative growth would seem beneficial to
+On the surface, such robust [[cannabis-vegetative-growth-stage]] would seem beneficial to
 tobacco farmers seeking maximum leaf yield. However, the plant's
-reluctance to flower created a fundamental problem for seed production.
+reluctance to flower created a fundamental problem for [[cervantes-seed-production-storage]].
 Since Maryland Mammoth rarely produced flowers, it rarely set seed,
 making it impossible to maintain the line from year to year through
-traditional farming methods. The strain was like the two-faced Roman god
+traditional [[natural-farming-methods-comparison]]. The strain was like the two-faced Roman god
 Janus: one face showed extraordinary vegetative vigor, while the other
 showed reproductive failure.
 
@@ -61,7 +61,7 @@ experimental approach was elegantly simple but profoundly informative.
 They planted Maryland Mammoth in pots and divided them into two groups:
 
 1. One group remained outside in the fields under natur [[mollison-designers-day-length-and-flowering-response]] ly shortening the perceived
-   day length
+   [[coleman-winter-day-length-and-persephone-months]]
 
 The results were definitive. Simply limiting the amount of light the
 plants received each day was sufficient to cause Maryland Mammoth to
@@ -106,3 +106,7 @@ photoperiodic responses.
 The phytochrome system acts as a biological switch: red light activates one molecular
 form, far-red light reverts it to another. In nature, the last light at
 dusk contains more far-red wavelengths, effectively turning off the
+
+## See Also
+
+- [[chamovitz-maryland-mammoth-photoperiodism-discovery]]

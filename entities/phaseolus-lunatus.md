@@ -52,7 +52,7 @@ Optimal growth occurs at 20–30°C with 600–1,200 mm annual rainfall. The cro
 
 Dry lima beans contain approximately 21% protein, 63% carbohydrates, and 1% fat per 100 g. They are rich in dietary fiber (19 g per 100 g), potassium (1,724 mg), iron (7.5 mg), and magnesium (224 mg).
 
-The protein quality is comparable to other common beans, with lysine as the limiting amino acid. Complementary amino acid profiles are achieved when consumed with cereals.
+The protein quality is comparable to other common beans, with lysine as the limiting [[cho-fish-amino-acid-preparation]]. Complementary amino acid profiles are achieved when consumed with cereals.
 
 Raw lima beans contain linamarin, a cyanogenic glucoside that can release hydrogen cyanide upon hydrolysis. Boiling for 10+ minutes in uncovered pots effectively removes cyanide to safe levels. This toxicity is the primary reason lima beans must be cooked before consumption.
 
@@ -60,7 +60,7 @@ Raw lima beans contain linamarin, a cyanogenic glucoside that can release hydrog
 
 Lima beans are direct-seeded at depths of 3–5 cm with spacing of 10–20 cm within rows and 60–90 cm between rows. Bush types mature in 60–90 days; pole types require 90–120 days.
 
-The crop forms nodules with Bradyrhizobium strains for nitrogen fixation. Inoculation is recommended in fields without prior legume history. Residual nitrogen from lima bean crops benefits subsequent cereal plantings.
+The crop forms nodules with Bradyrhizobium strains for [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. Inoculation is recommended in fields without prior legume history. Residual nitrogen from lima bean crops benefits subsequent cereal plantings.
 
 Major pests include the bean pod borer (*Etiella zinckenella*), Mexican bean beetle, and various aphid species. Root-knot nematodes (*Meloidogyne* spp.) can cause significant yield losses in warm soils.
 
@@ -70,7 +70,7 @@ Average yields range from 0.5–2.0 tonnes per hectare under smallholder conditi
 
 As a nitrogen-fixing legume, P. lunatus plays an important role in sustainable agriculture. The species contributes 40–100 kg of nitrogen per hectare through biological fixation, reducing dependence on synthetic fertilizers.
 
-The crop provides ground cover that suppresses weeds and reduces soil erosion. Residue incorporation after harvest improves soil organic matter and microbial activity.
+The crop provides [[fukuoka-citrus-orchard-ground-cover-cultivation]] that suppresses weeds and reduces soil erosion. Residue incorporation after harvest improves soil [[hamilton-composting-and-organic-matter-management]] and microbial activity.
 
 In agroforestry systems, climbing varieties are grown on maize, sorghum, or cassava as support crops. This intercropping increases total land productivity and dietary diversity for smallholder farmers.
 
@@ -90,13 +90,13 @@ In Latin America, lima beans are used in soups, stews, and side dishes. In Brazi
 
 In the American South, butter beans are a staple of soul food, typically simmered with smoked pork, onions, and aromatics. Frozen lima beans are widely available in US supermarkets.
 
-In South and Southeast Asia, dried lima beans are used in curries and dal preparations. In Myanmar, lima beans (*pè-baw*) are a common ingredient in curries and salads.
+In South and [[psilocybe-southeast-asia-pacific]], dried lima beans are used in curries and dal preparations. In Myanmar, lima beans (*pè-baw*) are a common ingredient in curries and salads.
 
 Fresh green lima beans, harvested before maturity, have a milder flavor and shorter cooking time than dried beans. Both forms are nutritionally valuable, though the dried form is more concentrated in protein and minerals.
 
 ## Pests, Diseases, and Toxicology
 
-Lima beans are susceptible to several fungal diseases including anthracnose (*Colletotrichum lindemuthianum*), angular leaf spot (*Phaeoisariopsis griseola*), and web blight (*Thanatephorus cucumeris*). These are managed through resistant varieties, crop rotation, and fungicide application.
+Lima beans are susceptible to several fungal diseases including anthracnose (*Colletotrichum lindemuthianum*), angular leaf spot (*Phaeoisariopsis griseola*), and web blight (*Thanatephorus cucumeris*). These are managed through resistant varieties, [[comparison-crop-rotation-vs-cover-cropping]], and fungicide application.
 
 Bacterial blight (*Xanthomonas axonopodis*) causes water-soaked lesions on leaves and pods. The disease spreads rapidly in warm, humid conditions and is managed through clean seed and field sanitation.
 

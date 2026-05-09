@@ -1,5 +1,5 @@
 ---
-title: Cannabis Terpenoids and Terpene Profiles
+title: blesching-cannabis-terpenoids-and-flavonoids and cannabis-terpene-profiles-sativa
 created: 2026-04-26
 tags:
   - terpenes
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -26,7 +27,7 @@ cannabinoids.
 
 ## What Are Terpenoids?
 
-Terpenoids are volatile organic compounds found in the essential oils of
+Terpenoids are [[fungal-volatile-organic-compounds-communication]] compounds found in the [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] of
 many plants. In cannabis, they are synthesized in the trichome heads
 alongside cannabinoids. The specific mix of terpenoids gives each
 cannabis variety its unique aroma, from citrus and pine to earthy and
@@ -63,7 +64,7 @@ terpenoids to modulate the overall psychoactive experience.
 
 Carvacrol increases brain acetylcholine activity, similar to limonene
 and terpinene. This terpenoid is found in oregano and other herbs, and
-its presence in cannabis contributes to the entourage effect.
+its presence in cannabis contributes to the [[cannabis-terpene-entourage-effect-profiles]].
 
 ### Pulegone
 
@@ -82,7 +83,7 @@ mitigate the anxiety that pure THC can provoke.
 
 Thanks to its mix of ingredients, marijuana causes fewer psychological
 side effects (such as anxiety and panic reactions) than pure, synthetic
-THC (Marinol). Clinical trials have shown that CBD reduces the anxiety
+THC (Marinol). [[mushroom-cancer-clinical-trials-overview]] have shown that CBD reduces the anxiety
 provoked by THC, and CBD demonstrates antipsychotic effects. Anxiety
 from THC may also be alleviated by terpenoids present in marijuana.
 
@@ -107,7 +108,9 @@ temperatures bring out more smell, which is associated with higher
 THCV concentrations. The [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] for details on how resin gland development correlates with
 terpenoid and cannabinoid production.
 
-## Related Concepts
+## Related
+
+- [[ayahuasquero-practitioner-profiles-ethics-ucayali-region]] Concepts
 
 - [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] - glandular trichomes
   produce both terpenoids and cannabinoids

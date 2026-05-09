@@ -1,5 +1,5 @@
 ---
-title: Singh Fungal Biodegradation and Biodeterioration of Materials
+title: Singh gadd-fungal-biodegradation-bioremediation and Biodeterioration of Materials
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -7,11 +7,11 @@ tags: [mycoremediation, biology, pollution, ecology]
 sources: [raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md]
 ---
 
-# Singh [[fungal-bioremediation]] (2006), Chapter 1
+# Singh fungal-bioremediation (2006), Chapter 1
 
 ## Overview
 
-Fungi are capable of degrading or deteriorating a remarkably wide range of natural and synthetic materials. This biodeterioration capability, while sometimes problematic (library materials, concrete, cultural heritage), also underpins their potential for bioremediation of anthropogenic wastes. Fungi are "natural and true ecosystem engineers" (Lawton and Jones, 1995) whose mycelial networks may cover several hectares of forest floor. See also [[singh-key-fungal-genera-bioremediation]].
+Fungi are capable of degrading or deteriorating a remarkably wide range of natural and synthetic materials. This biodeterioration capability, while sometimes problematic (library materials, concrete, cultural heritage), also underpins their potential for bioremediation of anthropogenic wastes. Fungi are "natural and true ecosystem engineers" (Lawton and Jones, 1995) whose [[fungal-mycelial-networks-nutrient-translocation]] may cover several hectares of forest floor. See also [[singh-key-fungal-genera-bioremediation]].
 
 ## Fungal Properties Relevant to Bioremediation
 
@@ -27,7 +27,7 @@ Fungi are capable of degrading or deteriorating a remarkably wide range of natur
 - Hyphae: threadlike tubular structures; septate with pores for cytoplasm/organelle movement
 - Cell walls: rigid chitin matrix (glucosamine)
 - Two vesicle types: macrovesicles (secrete wall polymers/enzymes) and microvesicles (chitin skeleton)
-- Pellet formation: coagulating (spore aggregation) and noncoagulating (single spore) types
+- [[singh-fungal-pellet-formation-bioremediation]]: coagulating (spore aggregation) and noncoagulating (single spore) types
 - P. chrysosporium: surface polysaccharide bridging during aggregation
 
 ### Morphological Analysis Methods
@@ -74,14 +74,14 @@ Fungi are capable of degrading or deteriorating a remarkably wide range of natur
 ## Chapter Structure of Singh's Book
 
 The comprehensive reference covers:
-1. Introduction (fungal biology, morphology, growth)
+1. Introduction ([[bloomfield-fungal-biology-and-hyphal-growth]], morphology, growth)
 2-3. Industrial wastewaters, brewery/distillery wastes, bioreactors
 4. Petroleum hydrocarbons (metabolic pathways, mechanisms)
 5. PCBs and dioxins
 6. Pesticides
 7. Phenols (bioreactors, mechanisms, metabolic pathways)
-8. Polycyclic aromatic hydrocarbons (PAHs)
-9. Pulp and paper mill effluents (lignin degradation, decolorization)
+8. [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs)
+9. Pulp and paper mill effluents ([[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]], decolorization)
 10. Dyes (fungal decolorization)
 11. Heavy metals (biosorption, bioaccumulation, reactors)
 12. [[mycorrhizal-fungi]] (rhizosphere remediation)

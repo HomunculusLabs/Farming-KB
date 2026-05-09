@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-**Psilocybe silvatica** is a small, wood-inhabiting psychedelic mushroom found in temperate forests of North America and Asia. The species name *silvatica* derives from Latin *silva* (forest), reflecting its woodland habitat. It was included in Bigwood and Beug's 1992 analysis of psilocybin and psilocin variation across the genus and is recognized as a moderately active member of the Psilocybe genus.
+**Psilocybe silvatica** is a small, wood-inhabiting [[archaeology-of-psychedelic-mushroom-use]] found in temperate forests of [[psilocybin-north-america-pacific-northwest]] and Asia. The species name *silvatica* derives from Latin *silva* (forest), reflecting its woodland habitat. It was included in Bigwood and Beug's 1992 [[hplc-analysis-of-psilocybin-and-psilocin]] and [[psilocybin-psilocin-variation-across-flushes]] across the genus and is recognized as a moderately active member of the Psilocybe genus.
 
 ## Taxonomy and Classification
 
@@ -29,13 +29,13 @@ sources:
 
 *P. silvatica* has at times been conflated with or considered closely allied to [[psilocybe-cyanescens]] or [[psilocybe-pelliculosa-entity]]** — Very similar habitat and appearance; distinguished by microscopic features and slightly different spore morphology
 - **[[psilocybe-phyllogena]]** — Closely related, generally less active
-- **[[psilocybe-cubensis]] cultivation methods are not directly applicable due to the different substrate requirements. Given the species' low potency, cultivation interest has been minimal.
+- **[[psilocybe-cubensis]] [[synthetic-log-cultivation-methods-guide]] are not directly applicable due to the different substrate requirements. Given the species' low potency, cultivation interest has been minimal.
 
 ## References
 
 - Bigwood, J. & Beug, M. W. (1992). Variation of psilocybin and psilocin levels. Journal of Psychoactive Drugs.
 - Guzmán, G. (1983). The Genus Psilocybe: A Systematic Revision of the Known Species. Vaduz: J. Cramer.
-- Stamets, P. (1996). Psilocybin Mushrooms of the World. Berkeley: Ten Speed Press.
+- Stamets, P. (1996). [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World. Berkeley: Ten Speed Press.
 ## Practical Applications
 
 Psilocybe silvatica has a range of practical applications that make it relevant to
@@ -113,4 +113,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

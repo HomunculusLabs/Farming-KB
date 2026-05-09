@@ -21,17 +21,17 @@ type: concept
 
 ## Overview
 
-In the first comprehensive characterization of the Cannabis microbiome (Winston et al., 2014), the genus **Methylophilus** emerged as one of the most striking indicators of cultivar-specific bacterial community structure within the endorhiza (root interior). While soil type was the dominant factor shaping overall microbial composition across all sample types, Methylophilus abundance varied dramatically between Cannabis cultivars, providing strong evidence that host genotype drives differential enrichment of specific bacterial taxa inside the root. This finding has implications for understanding plant-microbe specificity, developing microbial bioindicators, and informing agricultural practice for this commercially and medicinally important crop.
+In the first comprehensive characterization of the Cannabis microbiome (Winston et al., 2014), the genus **Methylophilus** emerged as one of the most striking indicators of cultivar-specific [[core-endorhiza-bacterial-community-composition-cannabis]] structure within the endorhiza (root interior). While soil type was the dominant factor shaping overall microbial composition across all sample types, Methylophilus abundance varied dramatically between Cannabis cultivars, providing strong evidence that host genotype drives differential enrichment of specific bacterial taxa inside the root. This finding has implications for understanding plant-microbe specificity, developing microbial bioindicators, and informing agricultural practice for this commercially and medicinally important crop.
 
 ## Cultivar-Specific Enrichment Pattern
 
 Across three Cannabis cultivars tested in the first experiment (Burmese, Bookoo Kush, and Sour Diesel), Methylophilus exhibited a highly uneven distribution:
 
-- **Bookoo Kush**: Methylophilus comprised approximately **13%** of the endorhiza microbial community, making it a dominant member of the root-associated microbiome and one of the most abundant taxa detected.
+- **Bookoo Kush**: Methylophilus comprised approximately **13%** of the endorhiza [[edaphic-factors-microbial-community-structure]], making it a dominant member of the root-associated microbiome and one of the most abundant taxa detected.
 - **Burmese**: Methylophilus was present at only **0.13%** of the endorhiza community, representing a 100-fold reduction compared to Bookoo Kush.
 - **Sour Diesel**: Methylophilus was **completely absent** from the endorhiza, not detected at all in any replicate sample.
 
-This dramatic difference was statistically significant (FDR: p = 0.012) and explained a significant portion of the overall strain-level divergence observed in the endorhiza communities. The unweighted UniFrac analysis showed that division of endorhiza communities by strain was significant (ADONIS: R2 = 0.39, p = 0.003), and the weighted analysis was even more robust (ADONIS: R2 = 0.59, p = 0.004). The strength of the Methylophilus signal contributed meaningfully to these significant clustering patterns.
+This dramatic difference was statistically significant (FDR: p = 0.012) and explained a significant portion of the overall strain-level divergence observed in the endorhiza communities. The [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]] analysis showed that division of endorhiza communities by strain was significant (ADONIS: R2 = 0.39, p = 0.003), and the weighted analysis was even more robust (ADONIS: R2 = 0.59, p = 0.004). The strength of the Methylophilus signal contributed meaningfully to these significant clustering patterns.
 
 ## Taxonomic Context
 
@@ -59,14 +59,14 @@ With the exception of Cellvibrio, all of these prevalent core members are well-k
 
 The Methylophilus finding is a key piece of evidence supporting the **two-tier selection model** for root microbiome assembly, as proposed by Bulgarelli et al. (2013) and others:
 
-1. **First tier (soil-driven)**: Edaphic factors determine the composition of the bulk soil microbial pool from which rhizosphere and endorhiza communities are recruited. This was confirmed by the finding that soil type had the strongest influence over significant OTU differences (690 weighted OTUs, 657 unweighted OTUs).
+1. **First tier (soil-driven)**: [[soil-edaphic-factors-microbial-communities]] determine the composition of the bulk soil microbial pool from which rhizosphere and endorhiza communities are recruited. This was confirmed by the finding that soil type had the strongest influence over significant OTU differences (690 weighted OTUs, 657 unweighted OTUs).
 2. **Second tier (host-genotype-driven)**: Plant-specific factors, including root exudates, tissue chemistry, and immune responses, selectively filter and enrich specific taxa within the endorhiza. Strain showed a larger effect than sample type for weighted OTU differences (71 weighted OTUs, 0 unweighted OTUs), but no significant unweighted differences, indicating that strain structures community abundance rather than composition.
 
 Methylophilus exemplifies the second tier, as its presence or absence was not determined by soil type (all three cultivars were grown in the same soil in the first experiment) but rather by host cultivar identity. This pattern was observed only in the endorhiza, not in the rhizosphere or bulk soil, consistent with stronger genotype-dependent selection in the root interior. The fact that strain affected abundance but not presence/absence (0 unweighted significant OTUs for strain) suggests that Methylophilus was present in the soil microbial pool for all cultivars but was only able to flourish in the Bookoo Kush endorhiza environment.
 
 ## Experimental Context and Design
 
-The first experiment sampled Cannabis plants grown in a single soil type (locally composted soil in Vista, California) to minimize edaphic variation. The soil was a sandy loam (64.6% sand, 17.6% silt, 17.8% clay) with pH 6.82 to 6.94 and moderate nutrient levels. Total nitrogen ranged from 1.30 to 1.51%, total organic carbon from 3.31 to 5.00%, and salinity from 7.10 to 7.44 dS/m across the three cultivar-specific soil samples. This design was intentional: by holding soil constant while varying only the cultivar, any observed differences in endorhiza communities could be attributed to host genotype rather than environmental factors. The three cultivars represented a range of chemotypes:
+The first experiment sampled Cannabis plants grown in a single soil type (locally composted soil in Vista, California) to minimize edaphic variation. The soil was a sandy loam (64.6% sand, 17.6% silt, 17.8% clay) with pH 6.82 to 6.94 and moderate nutrient levels. Total nitrogen ranged from 1.30 to 1.51%, total organic carbon from 3.31 to 5.00%, and salinity from 7.10 to 7.44 dS/m across the three cultivar-specific soil samples. This design was intentional: by holding soil constant while varying only the cultivar, any observed differences in endorhiza communities could be attributed to host genotype rather than [[duggar-mushroom-environmental-factors-temperature-moisture-light]]. The three cultivars represented a range of chemotypes:
 
 - **Sour Diesel**: Cannabis sativa, associated with a high THC to CBD ratio.
 - **Bookoo Kush**: Sativa-dominant hybrid, associated with a moderately high THC to CBD ratio.
@@ -76,7 +76,7 @@ The fact that Methylophilus enrichment did not simply track with chemotype (Sour
 
 ## Methylophilus Compared to Sphingomonas wittichii
 
-In the second experiment, another cultivar-specific bacterial taxon was identified: **Sphingomonas wittichii**, which was prevalent in the Maui Wowie strain but not in White Widow. Sphingomonas wittichii is notable for its ability to metabolize phenazine-1-carboxylic acid and its implication in increased survival in soil environments. Together with the Methylophilus finding from the first experiment, these results demonstrate that cultivar-specific enrichment of particular bacterial taxa is a reproducible phenomenon across different Cannabis strains and growing conditions, even though the specific taxa involved differ between experiments. This suggests that cultivar-specificity is a general feature of the Cannabis endorhiza microbiome, not an artifact of particular strain combinations.
+In the second experiment, another cultivar-specific bacterial taxon was identified: **Sphingomonas wittichii**, which was prevalent in the Maui Wowie strain but not in White Widow. Sphingomonas wittichii is notable for its ability to metabolize phenazine-1-carboxylic acid and its implication in increased survival in soil environments. Together with the Methylophilus finding from the first experiment, these results demonstrate that cultivar-specific enrichment of particular bacterial taxa is a reproducible phenomenon across different Cannabis strains and growing conditions, even though the specific taxa involved differ between experiments. This suggests that cultivar-specificity is a general feature of the Cannabis [[cannabinoid-concentration-endorhiza-microbiome-correlation-cannabis]], not an artifact of particular strain combinations.
 
 ## Broader Implications for Cannabis Agriculture
 
@@ -95,6 +95,6 @@ The first experiment sampled plants **eight weeks post-harvest**, meaning root t
 ## See Also
 
 - [[cannabis-microbiome-cultivar-specificity]]
-- [[two-tier-selection-model-root-microbiome-assembly]]
+- [[two-tier-selection-model-plant-microbiome]]
 - [[endorhiza-bacterial-communities]]
 - [[otu-differential-abundance-cannabis-microbiome]]

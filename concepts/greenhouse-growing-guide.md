@@ -9,15 +9,15 @@ sources: []
 
 # Greenhouse Growing Guide
 
-A greenhouse extends the growing season, protects plants from weather extremes, and allows year-round food production on the homestead. Choosing the right type and managing the interior environment are the keys to success.
+A greenhouse extends the [[savory-growing-season-and-non-growing-season-management]], protects plants from weather extremes, and allows year-round food production on the homestead. Choosing the right type and managing the interior environment are the keys to success.
 
 ## Greenhouse Types
 
 ### Cold Frames
-The simplest and cheapest option. A low box with a transparent lid (glass, polycarbonate, or recycled windows) placed over garden beds. Provides 5-15 degrees F of frost protection. Ideal for hardening off seedlings, starting cold-hardy crops in early spring, and overwintering greens like spinach and kale. No artificial heating required.
+The simplest and cheapest option. A low box with a transparent lid (glass, polycarbonate, or recycled windows) placed over garden beds. Provides 5-15 degrees F of [[holzer-frost-protection-techniques]]. Ideal for hardening off seedlings, starting cold-hardy crops in early spring, and overwintering greens like spinach and kale. No artificial heating required.
 
 ### Hoop Houses (High Tunnels)
-Curved metal or PVC ribs covered with polyethylene film. Cost-effective and quick to build. Provides significant season extension without a permanent foundation. Can be 10-30 feet wide and any length. Easy to ventilate by rolling up sides. Not typically heated -- relies on passive solar gain. Excellent for tomatoes, peppers, and other heat-loving crops.
+Curved metal or PVC ribs covered with polyethylene film. Cost-effective and quick to build. Provides significant [[comparison-season-extension-techniques-vs-cold-frame-gardening]] without a permanent foundation. Can be 10-30 feet wide and any length. Easy to ventilate by rolling up sides. Not typically heated -- relies on [[comparison-passive-solar-vs-earth-sheltered]] gain. Excellent for tomatoes, peppers, and other heat-loving crops.
 
 ### Lean-To Greenhouses
 Attached to an existing building (house, barn, shed) on one side. Shares a wall for heat efficiency. Smaller footprint, easier to power and water. The attached wall provides thermal mass. Best orientation: south-facing wall in the northern hemisphere.
@@ -42,7 +42,7 @@ Overheating is a bigger problem than cold for most greenhouse growers. Proper ve
 - Roll-up sides on hoop houses provide rapid cooling
 - Exhaust fans with intake louvers for larger structures
 - Shade cloth (30-50%) reduces summer heat gain
-- Evaporative cooling (wet wall systems) for hot, dry climates
+- [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]] (wet wall systems) for hot, dry climates
 - Automated vent openers use wax cylinders that expand with heat -- no electricity needed
 
 ## Growing Year-Round
@@ -51,7 +51,7 @@ Overheating is a bigger problem than cold for most greenhouse growers. Proper ve
 Start seeds 6-8 weeks before last frost. Cold-hardy transplants go into beds first. Succession plant lettuce, radishes, and peas every 2 weeks.
 
 ### Summer
-Grow heat-loving crops: tomatoes, peppers, cucumbers, eggplant. Maximize ventilation and shade. Watch for pest pressure -- greenhouses can amplify aphid and whitefly problems. Introduce beneficial insects.
+Grow heat-loving crops: tomatoes, peppers, cucumbers, eggplant. Maximize ventilation and shade. Watch for pest pressure -- greenhouses can amplify aphid and whitefly problems. Introduce [[comparison-beneficial-insects-guide-vs-integrated-pest-management]].
 
 ### Fall
 Transition back to cool-season crops. Plant carrots, beets, chard, and brassicas. Add row covers inside the greenhouse for double protection on cold nights.

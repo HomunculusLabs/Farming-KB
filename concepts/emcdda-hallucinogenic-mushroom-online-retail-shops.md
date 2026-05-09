@@ -1,5 +1,5 @@
 ---
-title: "EMCDDA Hallucinogenic Mushroom Online Retail Shops"
+title: "EMCDDA emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative Online Retail Shops"
 created: 2026-04-28
 tags:
   - emcdda
@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-The emergence of online retail shops selling hallucinogenic mushrooms
+The emergence of online retail shops selling [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]
 represented a significant development in the European drug market during the
 early 2000s. As traditional smartshops and market stalls expanded their reach
 through e-commerce, consumers gained easy access to mushroom products from
@@ -34,7 +34,7 @@ combinations:
 
 - "magic mushrooms shop"
 - "buy magic mushrooms"
-- "psilocybe cubensis shop"
+- "[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] shop"
 - "buy psilocybe cubensis"
 
 For each search engine and keyword, the first 300 results were analysed. The
@@ -79,10 +79,10 @@ Online shops offered a diverse range of hallucinogenic mushroom products:
 - **Fresh mushrooms**: Including Psilocybe cubensis (Mexican) and Copelandia
   cyanescens varieties, sold in quantities typically ranging from 10 to 30
   grams.
-- **Truffles/sclerotia**: Psilocybe mexicana sold as "Philosopher's stones,"
+- **Truffles/sclerotia**: [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] sold as "Philosopher's stones,"
   typically in 15 gram portions.
 - **Spawnbags**: Containing sterile hardwood chips inoculated with mushroom
-  mycelium (e.g., Psilocybe azurescens) for outdoor cultivation.
+  mycelium (e.g., [[stamets-psi-psilocybe-azurescens-species-guide]]) for outdoor cultivation.
 - **Growkits**: Complete cultivation kits containing colonised substrate, a
   bag with air filter, and paperclips, available for various species.
 - **Spore prints**: Created by pressing mature mushroom gills onto paper, or
@@ -127,9 +127,11 @@ Legal changes had immediate impacts on online availability:
   illegal on 31 January 2006.
 - **Market adaptation**: UK retailers such as EveryOneDoesIt.com and
   Allsalvia.co.uk switched to selling legal alternatives including Fly Agaric
-  (Amanita muscaria) and Amanita pantherina.
+  ([[allegro-amanita-muscaria-properties-and-pharmacology]]) and Amanita pantherina.
 
 ## See Also
+
+- [[hallucinogenic-mushroom-online-retail-markets]]
 
 - [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]]
 - [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]]

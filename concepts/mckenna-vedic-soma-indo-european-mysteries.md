@@ -31,21 +31,21 @@ Soma was prominent in the pre-Zoroastrian religion of Iran as "Haoma." "Soma" an
 
 ## The Amanita Theory and Its Problems
 
-Gordon Wasson proposed that Soma was the fly-agaric mushroom, Amanita muscaria. McKenna finds several serious objections to this theory:
+Gordon Wasson proposed that Soma was the fly-agaric mushroom, [[allegro-amanita-muscaria-properties-and-pharmacology]]. McKenna finds several serious objections to this theory:
 
 1. The Amanita muscaria is not found in the warm lowland areas of India where the Indo-Europeans composed their hymns
 2. The effects of Amanita muscaria — primarily nausea, intoxication, and delirium — do not match the poetic descriptions of Soma's sublime effects
-3. The connection to cattle is central to Soma, and Amanita muscaria does not grow in cattle dung, whereas psilocybin mushrooms do
+3. The connection to cattle is central to Soma, and Amanita muscaria does not grow in cattle dung, whereas [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] do
 
 ## Peganum Harmala as Soma
 
-McKenna argues that Peganum harmala (Syrian rue), rich in beta-carbolines including harmine and harmaline, is a more plausible candidate for Soma. The harmala alkaloids are MAO inhibitors that can potentiate other psychoactive compounds. This pharmacological property could explain Soma's reputation as the supreme intoxicant.
+McKenna argues that Peganum harmala (Syrian rue), rich in beta-carbolines including harmine and harmaline, is a more plausible candidate for Soma. The [[turner-harmala-alkaloids-preparation-and-dosage]] are MAO inhibitors that can potentiate other psychoactive compounds. This pharmacological property could explain Soma's reputation as the supreme intoxicant.
 
 The connection to cattle and pastoralism also supports this identification: the Indo-European pastoralists would have encountered Peganum harmala in the same grassland environments where they herded their cattle. The beta-carbolines would have been a natural companion to DMT-containing plants that may have been present in their environment.
 
 ## Soma as the Bridge Between Worlds
 
-The Soma cult represents a critical transition point in human religious history — the point at which the original mushroom-centered shamanism of the African pastoralists was transformed through contact with new plants and new environments into the more formalized religions of the Indo-European peoples. The loss of the original psilocybin sacrament and its replacement with less effective substitutes marks the beginning of the dominator culture's estrangement from the direct experience of the sacred.
+The Soma cult represents a critical transition point in human religious history — the point at which the original mushroom-centered shamanism of the African pastoralists was transformed through contact with new plants and new environments into the more formalized religions of the Indo-European peoples. The loss of the original psilocybin sacrament and its replacement with less effective substitutes marks the beginning of the [[mckenna-dominator-culture-and-suppression-of-ecstasy]]'s estrangement from the direct experience of the sacred.
 
 See also:
 - [[allegro-wasson-soma-connection]]
@@ -56,7 +56,7 @@ See also:
 ## Key Points
 
 - McKenna's analysis connects psychoactive plant use to fundamental patterns in human cultural evolution
-- The stoned ape hypothesis, while controversial, raises important questions about the role of psychoactive substances in human cognitive development
+- The stoned [[stoned-ape-hypothesis-mckenna-psychedelic-evolution]], while controversial, raises important questions about the role of psychoactive substances in human cognitive development
 - McKenna's critique of dominator culture draws on both anthropological evidence and contemporary political analysis
 - The [[psychedelic-therapy-current-research]].
 
@@ -69,7 +69,7 @@ McKenna's analysis fits within his broader framework of the [[mckenna-dissolutio
 
 ## The Rig Veda as Botanical Literature
 The Rig Veda's descriptions of Soma provide remarkably detailed botanical information, though they are embedded in poetic and religious language. Soma is described as a plant without leaves, without blossoms, and without roots — a description that has puzzled scholars but which McKenna interprets as referring to the underground or less visible parts of a fungus rather than a leafy plant. The plant is said to grow on mountains and is associated with the colour tawny (babhru) and golden (hiranyavarna). It is described as being brought from high places by eagles or hawks — a motif that McKenna connects to the high-altitude grassland environments where both psilocybin mushrooms and Peganum harmala would have grown.
-The pressing ritual is described in considerable detail. The Soma stalks were gathered by priests, pounded between stones on a hide spread on the ground, mixed with water, and pressed through a woolen filter (pavitra) made from the fleece of a ram. The resulting liquid was collected in wooden or earthen vessels and mixed with milk, barley, or ghee before being consumed. The Rig Veda describes the effects of Soma in terms that closely parallel the phenomenology of psychedelic experience: visions of divine beings, feelings of immortality and omnipotence, enhanced poetic inspiration, healing of the sick, and the experience of flying or transcending physical boundaries.
+The pressing ritual is described in considerable detail. The Soma stalks were gathered by priests, pounded between stones on a hide spread on the ground, mixed with water, and pressed through a woolen filter (pavitra) made from the fleece of a ram. The resulting liquid was collected in wooden or earthen vessels and mixed with milk, barley, or ghee before being consumed. The Rig Veda describes the effects of Soma in terms that closely parallel the phenomenology of [[leary-psychedelic-experience-bardo-mapping]]: visions of divine beings, feelings of immortality and omnipotence, enhanced poetic inspiration, healing of the sick, and the experience of flying or transcending physical boundaries.
 McKenna notes that the descriptions of Soma's effects in the Rig Veda are far more consistent with a classical psychedelic experience than with the effects of Amanita muscaria. The Rig Veda Soma produces visions, divine inspiration, and a sense of cosmic consciousness — effects that are characteristic of psilocybin-containing mushrooms and DMT-containing preparations, but not of Amanita muscaria, whose primary effects are confusion, dizziness, nausea, and a state of intoxication more akin to alcohol than to a visionary psychedelic.
 
 ## The Indo-European Migration and Plant Knowledge

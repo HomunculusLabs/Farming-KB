@@ -1,5 +1,5 @@
 ---
-title: "Salvia divinorum: Diviner's Sage"
+title: "golden-guide-salvia-divinorum-and-diviner-sage: Diviner's Sage"
 created: 2026-04-28
 tags:
   - ethnobotany
@@ -50,7 +50,7 @@ used. They may be chewed slowly in the mouth, allowing the active
 compounds to be absorbed through the oral mucosa, or crushed and
 diluted in water to produce a drink. The plant is used by the
 Mazatec to seek answers from the spirit world, much like their
-use of Psilocybe mushrooms and morning glory seeds.
+use of Psilocybe mushrooms and [[golden-guide-morning-glory-and-ololiuqui]] seeds.
 
 It has been suggested that the narcotic Pipiltzintzintli of the
 ancient Aztecs was Salvia divinorum, but at present the plant
@@ -67,13 +67,13 @@ a non-nitrogenous compound — it does not contain nitrogen, unlike
 the alkaloids (tryptamines, isoquinolines, phenylethylamines)
 that characterize most other plant hallucinogens.
 
-This unusual chemical nature makes salvinorin A a structurally
+This unusual chemical [[coleman-first-rule-nature-makes-sense]] salvinorin A a structurally
 novel psychoactive compound. It acts as a kappa-opioid receptor
 agonist, a mechanism of action distinct from the serotonin
 receptor activity of classical hallucinogens like psilocybin or
 LSD. Research into the chemistry of Salvia divinorum has revealed
 [[plants-of-the-gods-psilocybe-species-teonanacatl]] — other
-  Mazatec visionary plants, the sacred mushrooms
+  Mazatec visionary plants, the [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]]
 - [[plants-of-the-gods-chemical-structures-hallucinogens]] —
   chemistry of plant hallucinogens
 - [[plants-of-the-gods-hallucinogens-medicine]] — medical and

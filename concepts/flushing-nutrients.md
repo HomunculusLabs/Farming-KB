@@ -14,7 +14,7 @@ Flushing (also called leaching) is the practice of running plain water or a mild
 clearing solution through the growing medium to remove excess fertilizer salts and
 chemical residues. Flushing is performed before harvest to improve the taste and
 smoothness of cured cannabis, and periodically during growth to prevent nutrient
-toxicity and salt buildup.
+toxicity and [[cervantes-salt-buildup-leaching-management]].
 
 ## Pre-Harvest Flush
 
@@ -34,7 +34,7 @@ natural terpene and cannabinoid profiles to express fully.
 
 ## Signs Flushing Is Needed
 
-- Leaf tips and margins are burned (nutrient burn)
+- Leaf tips and margins are burned ([[cannabis-nutrient-burn-and-toxicity]])
 - Leaves are brittle at harvest time
 - Buds crackle when burning
 - Buds smell or taste like chemicals or fertilizer
@@ -44,7 +44,7 @@ natural terpene and cannabinoid profiles to express fully.
 Flush container gardens with three times the volume of water as soil. For example, a
 3-gallon container should receive at least 9 gallons of flush water. Always let at
 least 10 percent (preferably more) drain out the bottom of containers. Apply flush
-water just as you would apply nutrient solution.
+water just as you would apply [[cannabis-nutrient-solution-preparation]].
 
 ## How to Flush Hydroponic Systems
 
@@ -75,7 +75,7 @@ also becomes a problem if pH is not managed.
 Clones quickly develop a dense system of roots when stems have a high carbohydrate and
 low nitrogen concentration. Leaching the growing medium with copious quantities of
 water before taking cuttings flushes out nitrogen, building carbohydrate levels that
-promote faster rooting. Reverse foliar feeding by misting mother plants with clean
+promote faster rooting. Reverse [[comparison-foliar-feeding-vs-compost-tea-nutrients]] by misting mother plants with clean
 water every morning for three or four days before taking cuttings also helps.
 
 ## Common Flushing Mistakes

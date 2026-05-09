@@ -12,7 +12,7 @@ sources:
   - "Stark Bro's Nurseries — Mulberry Growing Guide (starkbros.com)"
   - "Permaculture Research Institute — Mulberry in Food Forests (permaculturenews.org)"
   - "North Carolina State Extension — Morus spp. (ncsu.edu)"
-  - "Kew Royal Botanic Gardens — Morus alba, M. nigra, M. rubra (kew.org)"
+  - "Kew Royal Botanic Gardens — [[morus-alba]], M. nigra, M. rubra (kew.org)"
 type: query
 ---
 
@@ -20,7 +20,7 @@ type: query
 
 ## Quick Answer
 
-Mulberries are among the easiest fruit trees to grow, tolerating a wide range of soils, climates, and neglect once established. Choose a species suited to your hardiness zone, plant in full sun with well-draining soil, and provide moderate pruning for shape and fruit access. Trees grown from cuttings or grafted nursery stock can begin bearing fruit within 2–5 years. They are self-fertile (no pollinator needed), long-lived (50–100+ years), and remarkably productive — a single mature tree can yield hundreds of pounds of fruit per season.
+Mulberries are among the easiest fruit trees to grow, tolerating a wide range of soils, climates, and neglect once established. Choose a species suited to your hardiness zone, plant in full sun with well-draining soil, and provide moderate pruning for shape and fruit access. Trees grown from cuttings or  stock can begin bearing fruit within 2–5 years. They are self-fertile (no pollinator needed), long-lived (50–100+ years), and remarkably productive — a single mature tree can yield hundreds of pounds of fruit per season.
 
 ## Which Mulberry Species Should I Grow?
 
@@ -94,7 +94,7 @@ Grafted cultivars, especially **Illinois Everbearing**, can produce a small crop
 - **Birds** — The most common "pest." Net trees or plant enough to share — mulberries are an outstanding wildlife food.
 - **Powdery mildew** — Common in humid climates on new growth; treat with potassium bicarbonate spray.
 
-Mulberries are generally pest-free compared to most fruit trees. They have no serious disease issues in most of North America. See also: companion planting and polycultures
+Mulberries are generally pest-free compared to most fruit trees. They have no serious disease issues in most of North America. See also: [[cervantes-companion-planting-pest-deterrent]] and polycultures
 
 ## How Do I Harvest and Use Mulberries?
 
@@ -111,16 +111,16 @@ Absolutely — mulberries are a keystone species in food forests and forest gard
 - **Multi-function** — Fruit, fodder, shade, timber, and soil improvement all from one tree.
 - **Animal feed** — Leaves are 15–28% protein; excellent poultry, goat, and cattle fodder. Silkworms eat only M. alba.
 - **Wildlife value** — Berries feed 60+ bird species, deer, raccoons, foxes, and pollinators.
-- **Nitrogen cycling** — Deep taproots mine subsoil nutrients and bring them to the surface via leaf fall.
+- **[[fungal-role-in-nitrogen-cycling]]** — Deep taproots mine subsoil nutrients and bring them to the surface via leaf fall.
 - **Pioneer role** — Fast growth makes mulberries ideal for establishing canopy quickly in young food forests.
 - **Chop-and-drop** — Regular pruning provides abundant mulch material for garden beds.
-- **Erosion control** — Deep, vigorous root systems stabilize slopes and stream banks.
+- **[[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]** — Deep, vigorous root systems stabilize slopes and stream banks.
 - **Speed to canopy** — One of the fastest-growing fruit trees; can provide shade and fruit within 3–5 years from planting.
 
 ## Common Mistakes
 
 1. **Planting too close to structures** — Mulberries grow fast and large. Give them room or choose a dwarf cultivar.
-2. **Overwatering** — Established trees need almost no supplemental irrigation in temperate climates.
+2. **Overwatering** — Established trees need almost no supplemental irrigation in [[fukuoka-natural-farming-temperate-climates]].
 3. **Ignoring staining risk** — Unripe and ripe fruit will stain sidewalks, cars, and clothing. Plan accordingly.
 4. **Growing from seed for named cultivars** — Seeds don't come true; always use cuttings or buy grafted trees for specific varieties.
 5. **Fertilizing excessively** — Mulberries perform best in average to poor soils. Excess nitrogen promotes vegetative growth over fruit production. If you must fertilize, a single application of compost in spring is sufficient.

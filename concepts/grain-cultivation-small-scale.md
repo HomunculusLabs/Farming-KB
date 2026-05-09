@@ -1,5 +1,5 @@
 ---
-title: Small-Scale Grain Cultivation
+title: Small-Scale miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis
 created: 2026-04-13
 updated: 2026-04-15
 type: concept
@@ -10,7 +10,7 @@ sources:
 # Small-Scale Grain Cultivation
 
 Grain is the foundation of human civilisation and remains essential for self-sufficiency. The permaculture-design|permaculture approach to grain cultivation emphasises no-till methods, permanent beds, and integration with animal systems. In permaculture, grains are typically placed in [[comparison-chicken-keeping-vs-quail-husbandry]] can glean spilled grain after harvest
-- Grain straw is excellent bedding and [[permaculture-climatic-zones-design]] forest system
+- [[fukuoka-straw-winter-grain-straw-mulch]] is excellent bedding and permaculture-climatic-zones-design forest system
 
 ## Seed Saving for Grain
 
@@ -18,16 +18,16 @@ You can save seed from your second crop of grain (unless using a hybrid). Select
 
 ## Permaculture Design Context
 
-Mollison argued that vegetables can largely supplant monoculture grains for human food, just as tree crops can supplant grains for animal forage. The energy savings of both strategies are obvious and necessary. Grains in a permaculture system are grown in small, intensively managed plots near the home rather than in extensive monocultures. Fukuoka's no-dig grain cultivation methods demonstrate that grain can be grown sustainably without tillage when combined with green manure crops like lab-lab with barley.
+Mollison argued that vegetables can largely supplant monoculture grains for human food, just as tree crops can supplant grains for [[permaculture-designers-manual-animal-forage-systems]]. The energy savings of both strategies are obvious and necessary. Grains in a permaculture system are grown in small, intensively managed plots near the home rather than in extensive monocultures. Fukuoka's no-dig grain [[synthetic-log-cultivation-methods-guide]] demonstrate that grain can be grown sustainably without tillage when combined with green [[green-manure-crops-detailed]] like lab-lab with barley.
 
 ## See Also
 
-- [[faires-grain-harvesting-and-processing]]
+- faires-grain-harvesting-and-processing
 - [[permaculture-design]] — design for grain systems
 - [[food-forest-design]] — integrating grains in polyculture
-- [[mollison-how-much-land-for-self-sufficiency]] — land requirements
-- [[permaculture-grain-crops]]
-- [[faires-composting-and-vermiculture]]
+- mollison-how-much-land-for-self-sufficiency — [[fukuoka-textdoc-land-requirements-per-diet-type-carrying-capacity]]
+- permaculture-grain-crops
+- faires-composting-and-vermiculture
 ## Practical Applications
 
 Small-Scale Grain Cultivation has a range of practical applications that make it relevant to
@@ -105,4 +105,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -1,5 +1,5 @@
 ---
-title: Wasson's Scholarly Critique and Legacy
+title: Wasson's wasson scholarly critique and legacy and Legacy
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -25,7 +25,7 @@ becoming vice-president of J.P. Morgan and Co., where he remained from 1943
 until his retirement twenty years later.
 
 On paper there could have been a more unlikely person to investigate the
-hallucinogenic mushrooms of Mexico than this upright and conservative Wall Street
+[[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] of Mexico than this upright and conservative Wall Street
 banker. His interest in mushrooms was stimulated by his [[valentina-pavlovna-wasson]], whose mycophilic traditions contrasted
 sharply with his own Anglo-American mycophobia.
 
@@ -58,7 +58,7 @@ Despite his strengths, Wasson's scholarship suffers from several serious flaws:
 **Intellectual framework**: Wasson was trapped by an intellectual tradition,
 cultural evolution, that was already out of date. His ideas about mycophobia and
 mycophilia as a fundamental cultural divide, and his belief in an ancient
-mushroom cult at the origins of religion, were unfeasible and should be rejected.
+[[african-mushroom-cult-history]] at the origins of religion, were unfeasible and should be rejected.
 
 **Poor ethnographic method**: Wasson's ethnographic fieldwork was poorly
 conducted, sketchy overall, and misrepresented the practices he observed. He made
@@ -86,7 +86,7 @@ author that much harder.
 ## Harm to Indigenous Communities
 
 Perhaps the most serious criticism of Wasson concerns the detrimental effect his
-work had on the people he studied. Although he published Maria Sabina's name in
+work had on the people he studied. Although he published [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]]'s name in
 his popular Life article (which was read by millions) but not in his scholarly
 volume Mushrooms, Russia and History, her name and whereabouts quickly became
 public knowledge.
@@ -102,7 +102,7 @@ though Sabina herself recognised them as her equals.
 ## Hypocrisy Regarding Prohibition
 
 Wasson publicly berated the hippies for their recreational use of mushrooms,
-declaring that he had taken the sacred mushrooms "but never for a kick." Yet when
+declaring that he had taken the [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]] "but never for a kick." Yet when
 US federal prohibition made obtaining mushrooms a criminal offence during the
 1970s, Wasson arranged for gordon-wasson to risk his job by
 posting psilocybin pills from the Sandoz factory in Switzerland to a care-of

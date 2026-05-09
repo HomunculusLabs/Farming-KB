@@ -14,8 +14,8 @@ culture has progressively reduced human agency through its evolving models of ad
 and chemical dependence. He traces a trajectory from the 19th-century "opium fiend" —
 a figure of demonic possession — through to the 20th-century medicalization of
 addiction as disease, arguing that each framing diminishes the role of free will.
-This analysis underpins McKenna's broader argument about the dominator culture's
-relationship to psychoactive plants and altered states of consciousness.
+This analysis underpins McKenna's broader argument about the [[mckenna-dominator-culture-and-suppression-of-ecstasy]]'s
+relationship to psychoactive plants and [[weil-the-natural-mind-altered-states-normalcy]] of consciousness.
 
 ## The Spectrum: Habit, Obsession, Addiction
 
@@ -53,7 +53,7 @@ the notion of addiction as disease. And, with the notion of addiction as
 disease, the role of free will is finally reduced to the vanishing point. After
 all, we are not responsible for the diseases that we may inherit or develop."
 
-McKenna challenges the philosophical implications of the disease model. By
+McKenna challenges the philosophical implications of the mckenna addiction disease model and free will erosion. By
 externalizing compulsive behavior to a pathology, it removes the individual
 from meaningful dialogue about choice, meaning, and the existential dimensions
 of substance use. The person becomes a patient, the behavior a symptom, and
@@ -81,7 +81,7 @@ greater duration, and in some cases, many times more addictive than their
 natural relatives." Cocaine, though natural, is McKenna's exception: "when
 refined, concentrated, and injected is particularly destructive."
 
-The emergence of "designer drugs such as MDMA, or Ecstasy, and anabolic
+The emergence of "[[shulgin-designer-drugs-analysis]] such as MDMA, or Ecstasy, and anabolic
 steroids" signals "an era of ever more frequent and effective pharmacological
 intervention in how we look, perform, and feel." McKenna views the regulatory
 challenge of controlling thousands of easily produced synthetic substances as
@@ -99,7 +99,7 @@ genes and heredity."
 
 ## The Dominator Inheritance and the Ego
 
-The addiction-as-disease framework expresses the dominator cultural style. The
+The addiction-as-disease framework expresses the dominator [[mckenna-cannabis-cultural-style-and-feminine-plant]]. The
 dominator mind fears dissolution of boundaries between self and world — a
 dissolution that psychoactive plants facilitate. McKenna argues that
 "substance-induced changes in consciousness dramatically reveal that our mental
@@ -121,7 +121,7 @@ free and democratic planetary society." Instead he poses fundamental questions:
 "Why, as a species, are we so fascinated by altered states of consciousness?
 What has been their impact on our esthetic and spiritual aspirations?"
 
-His answer is the "Archaic Revival" — recovery of the sacred, communal,
+His answer is the "[[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]" — recovery of the sacred, communal,
 nature-integrated relationship to psychoactive plants. The suppression of
 shamanic ecstasy has "robbed us of life's meaning and made us enemies of the
 planet, of ourselves, and our grandchildren."

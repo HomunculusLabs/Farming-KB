@@ -2,13 +2,13 @@
 
 ## Overview
 
-One of the most critical and underappreciated challenges in grass seed-based mushroom cultivation is the extreme variability in water absorption between different seed varieties, species mixes, and even individual batches of the same variety.
+One of the most critical and underappreciated challenges in grass seed-based [[accessible-mushroom-cultivation-for-disabilities]] is the extreme variability in water absorption between different seed varieties, species mixes, and even individual batches of the same variety.
 
 The original cultivation guide for Psilocybe species on grass seed explicitly warns about this issue, noting that water content can make or break a grow before inoculation even begins.
 
 ## The Standard Recipe
 
-Grass seed is used as a mushroom substrate because it provides an excellent balance of nutrients, particle size for mycelial colonization, and structural properties that support both mushroom fruiting and sclerotia formation.
+Grass seed is used as a mushroom substrate because it provides an excellent balance of nutrients, particle size for mycelial colonization, and structural properties that support both [[ectomycorrhizal-mushroom-fruiting-ecology]] and [[growing-gourmet-sclerotia-formation-biology-mushrooms]].
 
 The standard recipe for 720 ml jars calls for:
 
@@ -65,7 +65,7 @@ Mixtures of species are common and can behave unpredictably because different se
 
 ## Why Variability Occurs: Batch-to-Batch Differences
 
-Even within a single variety from the same supplier, different harvest years, growing locations, and storage conditions affect water absorption capacity.
+Even within a single variety from the same supplier, different harvest years, growing locations, and [[vegetable-storage-conditions-by-temperature-and-humidity]] affect water absorption capacity.
 
 Seeds harvested after a dry season may have lower baseline moisture content and thus absorb more water from the added volume.
 
@@ -77,7 +77,7 @@ Some commercial grass seed is treated with fungicides, which coat the seed surfa
 
 The guide explicitly warns buyers to check packaging for fungicide treatment and avoid treated seed entirely.
 
-Other processing steps like cleaning, polishing, or coating with inert materials (clay, diatomaceous earth, polymer films) also affect water uptake and should be investigated when switching suppliers.
+Other processing steps like cleaning, polishing, or coating with inert materials (clay, [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]], polymer films) also affect water uptake and should be investigated when switching suppliers.
 
 ## The Overnight Soak Method
 
@@ -129,7 +129,7 @@ The guide reports colonization times of 5–20 days depending on temperature, sp
 
 ## Impact on Sclerotia Production
 
-For species like Psilocybe tampanensis and P. mexicana, which produce sclerotia (truffles) directly in the grain without casing, water content is especially critical.
+For species like [[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]] and P. mexicana, which produce sclerotia (truffles) directly in the grain without casing, water content is especially critical.
 
 Sclerotia are dense, water-rich structures that require sustained moisture availability over 3–4 months of development.
 

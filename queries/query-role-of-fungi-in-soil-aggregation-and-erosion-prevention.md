@@ -1,5 +1,5 @@
 ---
-title: "What Role Do Fungi Play in Soil Aggregation and Erosion Prevention?"
+title: "What Role Do Fungi Play in Soil query role of fungi in soil aggregation and erosion prevention Prevention?"
 created: 2026-04-28
 tags:
   - soil-science
@@ -19,7 +19,7 @@ sources:
   - Rillig MC, Mummey DL. "Mycorrhizas and soil structure." New Phytologist. 2006.
   - Leifheit EF, Veresoglou SD, Lehmann A, Morris EK, Rillig MC. "Is there a relationship between root exudates, mycorrhizal fungal colonization and soil aggregation?" Soil Biology and Biochemistry. 2014.
   - Rillig MC, Aguilar-Trigueros CA, Bergmann J, Verbruggen E, Veresoglou SD. "Plant root and mycorrhizal fungal traits for understanding soil aggregation." New Phytologist. 2015.
-  - Wilson GW, Rice CW, Rillig MC, Springer A, Hartnett DC. "Soil aggregation and carbon sequestration are tightly correlated with the abundance of arbuscular mycorrhizal fungi." Soil Science Society of America Journal. 2009.
+  - Wilson GW, Rice CW, Rillig MC, Springer A, Hartnett DC. "Soil aggregation and carbon sequestration are tightly correlated with the abundance of [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi." Soil Science Society of America Journal. 2009.
 type: query
 ---
 
@@ -27,13 +27,13 @@ type: query
 
 ## Short Answer
 
-Fungi are among the most important biological agents of soil aggregate formation. Through their extensive hyphal networks, they physically bind soil particles together; through the production of glomalin (a sticky glycoprotein from arbuscular mycorrhizal fungi) and other extracellular polymeric substances (EPS), they chemically stabilize aggregates; and through their contributions to soil organic matter, they provide the long-term carbon glues that hold soil structure together. By building and stabilizing soil aggregates, fungi dramatically reduce erosion risk, improve water infiltration, and enhance overall soil health. Mycorrhizal fungi — particularly arbuscular mycorrhizal fungi (AMF) — are the dominant fungal contributors to soil aggregation in most terrestrial ecosystems.
+Fungi are among the most important biological agents of soil soil-aggregate-formation-fungal-contributions) and other extracellular polymeric substances (EPS), they chemically stabilize aggregates; and through their contributions to soil organic matter, they provide the long-term carbon glues that hold soil structure together. By building and stabilizing soil aggregates, fungi dramatically reduce erosion risk, improve water infiltration, and enhance overall soil health. Mycorrhizal fungi — particularly arbuscular mycorrhizal fungi (AMF) — are the dominant fungal contributors to soil aggregation in most terrestrial ecosystems.
 
 ## Mechanisms of Fungal Soil Aggregation
 
 ### 1. Physical Binding by Hyphal Networks
 
-Fungal hyphae act as a biological thread that physically enmeshes soil particles:
+[[fungal-hyphae]] act as a biological thread that physically enmeshes soil particles:
 
 - **Hyphal entanglement**: The dense networks of fungal hyphae that grow through soil physically wrap around sand, silt, and clay particles, holding them together. AMF hyphae can extend 10–25 cm beyond the root surface, creating a three-dimensional mesh throughout the soil volume.
 - **Hyphal tensile strength**: Fungal hyphae have remarkable tensile strength for their diameter (typically 2–10 μm). They can resist the disruptive forces of raindrop impact, wind, and water flow that would otherwise disperse soil particles.
@@ -47,15 +47,15 @@ The physical binding role of fungi is most important for macroaggregate formatio
 Fungi produce sticky compounds that cement soil particles together:
 
 - **Glomalin-related soil protein (GRSP)**: This is the most significant fungal contribution to chemical soil stabilization. Glomalin is a glycoprotein produced by arbuscular mycorrhizal fungi and deposited on hyphal walls and in the surrounding soil. It is remarkably persistent (turnover time of 6–42 years) and acts as a long-lasting "biological glue" that coats soil particles and binds them into stable aggregates. GRSP can account for 27% of total soil carbon in some ecosystems and is strongly correlated with aggregate stability.
-- **Extracellular polymeric substances (EPS)**: Saprotrophic fungi and other soil microorganisms produce EPS — complex mixtures of polysaccharides, proteins, and lipids — that coat soil particles and fill pore spaces between them. These substances increase the cohesion of soil particles and improve aggregate water stability.
-- **Fungal metabolites**: Various organic acids and secondary metabolites produced by fungi can alter clay mineral surfaces, promoting flocculation (clumping) of clay particles and enhancing aggregate formation.
+- **Extracellular polymeric substances (saprotrophic fungi ic fungi and other soil microorganisms produce EPS — complex mixtures of polysaccharides, proteins, and lipids — that coat soil particles and fill pore spaces between them. These substances increase the cohesion of soil particles and improve aggregate water stability.
+- **Fungal metabolites**: Various organic acids and [[antifungal-secondary-metabolites-coprophilous-fungi]] produced by fungi can alter clay mineral surfaces, promoting flocculation (clumping) of clay particles and enhancing aggregate formation.
 
 ### 3. Organic Matter Binding and Microaggregate Formation
 
 Fungi contribute to soil aggregation through their role in organic matter dynamics:
 
 - **Decomposition and humus formation**: Saprotrophic fungi decompose organic matter, producing partially degraded organic compounds that act as binding agents for mineral particles. This process is essential for forming stable microaggregates (2–20 μm), which are the building blocks of larger aggregates.
-- **Root-fungal organic matter deposition**: The combined deposition of root exudates, AMF hyphal exudates, and dead microbial biomass in the rhizosphere creates hotspots of organic matter that serve as nucleation sites for aggregate formation.
+- **Root-fungal organic matter deposition**: The combined deposition of [[root-exudates]], AMF hyphal exudates, and dead microbial biomass in the rhizosphere creates hotspots of organic matter that serve as nucleation sites for aggregate formation.
 - **Carbon sequestration within aggregates**: Stable aggregates physically protect organic carbon from microbial decomposition. By promoting aggregate formation, fungi indirectly enhance soil carbon sequestration, creating a positive feedback loop where more carbon supports more fungal growth, which produces more aggregation.
 
 ## How Soil Aggregation Prevents Erosion
@@ -68,7 +68,7 @@ Well-aggregated soils resist the disintegrating force of raindrop impact. When r
 
 ### Improved Water Infiltration
 
-Fungal aggregates create a range of pore sizes in soil, including macropores formed by root and hyphal channels. These macropores allow water to infiltrate rapidly rather than running off the surface. Reduced surface runoff means less water erosion. Studies have shown that mycorrhizal colonization can increase water infiltration rates by 20–100% compared to non-mycorrhizal soil.
+Fungal aggregates create a range of pore sizes in soil, including macropores formed by root and hyphal channels. These macropores allow water to infiltrate rapidly rather than running off the surface. Reduced surface runoff means less water erosion. Studies have shown that [[arbuscular-mycorrhizal-colonization-patterns]] can increase water infiltration rates by 20–100% compared to non-mycorrhizal soil.
 
 ### Increased Surface Roughness
 
@@ -99,8 +99,7 @@ DSEs contribute to aggregation in extreme environments (arctic, alpine, arid) wh
 ## Evidence from Field Studies
 
 - **No-till agriculture**: Long-term no-till farming systems consistently show higher AMF abundance, greater glomalin concentrations, and more stable aggregates compared to conventionally tilled systems. Tillage physically disrupts hyphal networks, reducing fungal-driven aggregation.
-- **Cover cropping**: Cover crops that support abundant AMF colonization (e.g., legumes, grasses) have been shown to improve aggregate stability within 1–3 growing seasons, with the effect mediated by increased AMF hyphal density and glomalin production.
-- **Mycorrhizal inoculation experiments**: Controlled studies where AMF were inoculated into degraded or sterilized soils consistently demonstrate improved aggregate stability, with the magnitude of improvement ranging from 10% to 300% depending on soil type and AMF species.
+- **Cover cropping**: [[cover-crops]] that support abundant AMF colonization (e.g., legumes, grasses) have been shown to improve aggregate stability within 1–3 growing seasons, with the effect mediated by increased AMF hyphal density and gloma [[mycorrhizal-inoculation]] orrhizal inoculation experiments**: Controlled studies where AMF were inoculated into degraded or sterilized soils consistently demonstrate improved aggregate stability, with the magnitude of improvement ranging from 10% to 300% depending on soil type and AMF species.
 - **Glomalin correlations**: Across diverse ecosystems, glomalin concentrations are among the strongest biological predictors of aggregate stability, often explaining more variance than total soil organic carbon or microbial biomass.
 
 ## Management Implications
@@ -116,7 +115,7 @@ To maximize fungal contributions to soil aggregation and erosion prevention:
 
 ## Summary
 
-Fungi are essential architects of soil structure. Their hyphal networks physically bind soil particles, their glomalin and EPS chemically cement aggregates, and their organic matter processing creates the building blocks of stable soil structure. By forming water-stable aggregates, fungi reduce erosion by improving resistance to raindrop impact, enhancing water infiltration, increasing surface roughness, and strengthening soil cohesion. Arbuscular mycorrhizal fungi are the most important fungal group for soil aggregation in most ecosystems, and their conservation through reduced tillage, diverse cropping, and moderate nutrient management is a key strategy for sustainable erosion control.
+Fungi are essential architects of soil structure. Their hyphal networks physically bind soil particles, their glomalin and EPS chemically cement aggregates, and their organic matter processing creates the building blocks of stable soil structure. By forming water-stable aggregates, fungi reduce erosion by improving resistance to raindrop impact, enhancing water infiltration, increasing surface roughness, and strengthening soil cohesion. Arbuscular mycorrhizal fungi are the most important fungal group for soil aggregation in most ecosystems, and their conservation through reduced tillage, diverse cropping, and moderate nutrient management is a key strategy for sustainable [[permplant-willows-salix-erosion-control-fodder]].
 
 ## See Also
 

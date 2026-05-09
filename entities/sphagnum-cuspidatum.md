@@ -38,7 +38,7 @@ Color ranges from pale green to yellowish-green, sometimes with a brownish tinge
 
 Hyaline cells in the leaf lamina are large and conspicuous, often occupying more than half the leaf surface area. These specialized dead cells with porous walls are responsible for the exceptional water retention capacity characteristic of all Sphagnum species.
 
-Microscopic examination reveals stem leaves with a border of narrow, elongated cells. Branch leaf cells are arranged in a distinctive pattern of alternating green photosynthetic cells and large hyaline cells, a feature useful for species-level identification.
+[[fungal-microscopic-examination-mounting-media-techniques]] reveals stem leaves with a border of narrow, elongated cells. Branch leaf cells are arranged in a distinctive pattern of alternating green photosynthetic cells and large hyaline cells, a feature useful for species-level identification.
 
 Stem cortex consists of 2-4 layers of enlarged, thin-walled cells that provide additional water storage. The central conducting cylinder (hyalodermis) is well-developed, facilitating capillary water movement throughout the plant body.
 
@@ -52,7 +52,7 @@ In North America, its range extends southward in mountainous and coastal regions
 
 The species is strongly associated with **ombrotrophic** (rain-fed) bog pools, hollows, and water-filled depressions within peatlands. It frequently grows in standing water 5-30 cm deep, forming floating mats across the entire surface of small bog ponds.
 
-Optimal conditions include full sun exposure, extremely low nutrient availability, and pH values of 3.5-5.0. It is intolerant of shade and competition from vascular plants, being rapidly outcompeted in drier microsites by hummock-forming Sphagnum species.
+Optimal conditions include full sun exposure, extremely low [[ph-and-nutrient-availability-garden-soils]], and pH values of 3.5-5.0. It is intolerant of shade and competition from vascular plants, being rapidly outcompeted in drier microsites by hummock-forming Sphagnum species.
 
 Elevation ranges from sea level to approximately 2,000 meters in mountainous regions. The species tolerates prolonged submersion but cannot survive in permanently flowing water, which mechanically damages the delicate floating mats.
 
@@ -62,9 +62,9 @@ The species is also found in anthropogenic habitats including drainage ditches, 
 
 As a primary peat-forming species, *S. cuspidatum* plays a central role in carbon sequestration within boreal and subarctic peatlands. Its tissues accumulate as peat when the lower portions die and become anaerobically buried, storing atmospheric carbon over periods spanning millennia.
 
-The species actively acidifies its environment through cation exchange mechanisms. Sphagnum cell walls contain uronic acids and polyuronic compounds that selectively bind nutrient cations while releasing hydrogen ions into the surrounding water.
+The species actively acidifies its environment through [[mollison-designers-tropical-soils-and-cation-exchange-management]] mechanisms. Sphagnum cell walls contain uronic acids and polyuronic compounds that selectively bind nutrient cations while releasing hydrogen ions into the surrounding water.
 
-This progressive acidification lowers ambient pH to levels that inhibit most bacterial and fungal decomposers. The result is exceptionally slow organic matter breakdown, enabling peat to accumulate at rates of approximately 0.5-1.0 mm per year in undisturbed mires.
+This progressive acidification lowers ambient pH to levels that inhibit most [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] decomposers. The result is exceptionally slow organic matter breakdown, enabling peat to accumulate at rates of approximately 0.5-1.0 mm per year in undisturbed mires.
 
 Peatlands dominated by *S. cuspidatum* and related Sphagnum species contain an estimated 600 gigatonnes of carbon globally. This represents approximately twice the carbon stored in the world's forests combined, making peatland conservation critically important for climate regulation.
 
@@ -86,7 +86,7 @@ The species exhibits a characteristic **phenotypic plasticity** in branch length
 
 Photosynthetic rates are adapted to low light and low temperature conditions typical of high-latitude peatlands. Maximum net photosynthesis occurs at 15-20 degrees C, with sustained positive carbon assimilation possible at temperatures near 0 degrees C.
 
-Nitrogen acquisition relies primarily on atmospheric deposition and biological nitrogen fixation by associated cyanobacteria. Phosphorus uptake occurs through efficient capture of dilute orthophosphate from the very low concentrations available in rain-fed bog water.
+[[fungal-bacterial-predators-nitrogen-acquisition-soil-ecology]] relies primarily on atmospheric deposition and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation by associated cyanobacteria. Phosphorus uptake occurs through efficient capture of dilute orthophosphate from the very low concentrations available in rain-fed bog water.
 
 ## Conservation Status
 
@@ -103,6 +103,8 @@ The species serves as a model organism in bryology and plant physiology research
 Commercial harvesting of Sphagnum peat for horticultural substrates continues to impact peatland habitats globally. Growing awareness of peatland carbon storage value is driving regulatory restrictions on extraction in several European countries.
 
 ## See Also
+
+- [[sphagnum-capillifolium]]
 
 - [[cladonia-rangiferina]]
 - [[usnea-barbata]]

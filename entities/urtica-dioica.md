@@ -11,7 +11,7 @@ tags:
   - nutrition
   - fiber
 sources:
-  - Greaves, N. (1995). "Stinging Nettle." In: The Encyclopedia of Medicinal Plants. Dorling Kindersley.
+  - Greaves, N. (1995). "comparison-stinging-nettle-vs-horsetail." In: The Encyclopedia of Medicinal Plants. Dorling Kindersley.
   - Roschek, B. et al. (2009). "Nettle extract (Urtica dioica) affects key receptors and enzymes associated with allergic rhinitis." Phytotherapy Research.
   - Wagner, H. et al. (1995). "Search for the antiprostatic principle of Urtica dioica roots." Phytomedicine.
   - Kavalali, G. (2003). "Urtica dioica (Stinging Nettle)." In: Handbook of Medicinal Plants. CRC Press.
@@ -20,11 +20,11 @@ sources:
 
 ## Overview
 
-**Urtica dioica**, commonly known as stinging nettle, is a perennial herbaceous flowering plant in the family Urticaceae. It is native to Europe, Asia, northern Africa, and western North America, and is widely naturalized across temperate regions worldwide.
+**Urtica dioica**, commonly known as stinging nettle, is a perennial herbaceous flowering plant in the family Urticaceae. It is native to Europe, Asia, northern Africa, and western [[psilocybin-north-america-pacific-northwest]], and is widely naturalized across temperate regions worldwide.
 
 Despite its notorious stinging hairs (trichomes), which deliver histamine, acetylcholine, and serotonin-containing venom upon contact, U. dioica has been used for millennia as food, medicine, and fiber. It is among the most nutritionally dense wild greens available and has a long history in European herbal medicine dating to antiquity.
 
-Nettle has experienced a resurgence in permaculture and ecological agriculture due to its role as a dynamic accumulator, its value as a companion plant, and its utility in producing nutrient-rich liquid fertilizers from biomass.
+Nettle has experienced a resurgence in permaculture and ecological agriculture due to its role as a [[nutrient-dynamic-accumulator-reference]], its value as a companion plant, and its utility in producing nutrient-rich liquid fertilizers from biomass.
 
 ## Taxonomy and Morphology
 
@@ -44,7 +44,7 @@ The species was described by Carl Linnaeus in 1753. The specific epithet "dioica
 
 U. dioica grows 1–2 m tall in the growing season, dying back to the ground in winter. Stems are square (characteristic of Lamiaceae allies), erect, and covered with stinging and non-stinging trichomes. Leaves are opposite, cordate at the base, serrate on margins, 3–15 cm long, with a prominent central vein.
 
-The stinging trichomes (cystoliths) are hollow silica-tipped hairs that function like hypodermic needles. When touched, the tip breaks and injects a cocktail of bioactive compounds including histamine, acetylcholine, serotonin, and formic acid, producing the characteristic burning, erythematous reaction.
+The stinging trichomes (cystoliths) are hollow silica-tipped hairs that function like hypodermic needles. When touched, the tip breaks and injects a cocktail of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] including histamine, acetylcholine, serotonin, and formic acid, producing the characteristic burning, erythematous reaction.
 
 Inflorescences are axillary panicles or spikes, with male flowers in branched racemes and female flowers in catkin-like clusters. Flowers are wind-pollinated and inconspicuous, greenish-white to yellowish.
 
@@ -96,8 +96,8 @@ U. dioica is one of the most valuable plants in permaculture and ecological desi
 - **Liquid fertilizer (nettle tea)**: Fermented nettle biomass produces a nitrogen-rich liquid fertilizer widely used in organic agriculture. Typical dilution: 1:10 with water for foliar or soil application.
 - **Compost activator**: Nettle shoots added to compost piles accelerate decomposition through their nitrogen content and diverse microbial associations.
 - **Biodiversity support**: Serves as a larval food plant for numerous butterfly species including the small tortoiseshell (*Aglais urticae*), peacock (*Aglais io*), and red admiral (*Vanessa atalanta*). Ladybird populations are enhanced in nettle stands.
-- **Companion planting**: Dense nettle patches improve disease resistance in neighboring plants and increase essential oil content in aromatic herbs.
-- **Fiber crop**: Historically, nettle stems were processed for textile fiber comparable to linen. Nettle fiber production is experiencing a commercial revival as a sustainable alternative to cotton.
+- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]**: Dense nettle patches improve disease resistance in neighboring plants and increase essential oil content in aromatic herbs.
+- **Fiber crop**: Historically, nettle stems were processed for [[natural-dye-plants]] comparable to linen. Nettle fiber production is experiencing a commercial revival as a sustainable alternative to cotton.
 
 ## Traditional Medicine and Ethnobotany
 

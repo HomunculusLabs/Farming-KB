@@ -1,5 +1,5 @@
 ---
-title: "Henbane (Hyoscyamus niger): Ethnobotany and Cultural History"
+title: "Henbane (henbane hyoscyamus niger ethnobotany): Ethnobotany and shroom-cultural-history-hippie-revolution-and-counterculture"
 created: "2026-04-17"
 updated: "2026-04-17"
 type: concept
@@ -53,7 +53,7 @@ Commercial cultivation of henbane has been practiced in Europe for pharmaceutica
 
 ## Cultural Significance
 
-Beyond its direct use in medicine and magic, henbane has left a significant mark on European culture and language. The plant appears in the works of numerous authors, and references to its hallucinogenic properties are found in folklore from across Europe. The association of henbane with witchcraft and dark magic has made it one of the most symbolically charged plants in the Western tradition.
+Beyond its direct use in medicine and magic, henbane has left a significant mark on [[fukuoka-road-european-culture-of-food]] and language. The plant appears in the works of numerous authors, and references to its hallucinogenic properties are found in folklore from across Europe. The association of henbane with witchcraft and dark magic has made it one of the most symbolically charged plants in the Western tradition.
 
 In the broader context of [[kykeon-composition-and-ergot-alkaloid-hypothesis]] could potentially have been induced or enhanced by tropane alkaloids, though this hypothesis remains controversial. Geological studies have identified ethylene gas and other hydrocarbons in the Delphic site, suggesting a natural geological explanation for the oracle's trance, but the possibility of plant-based adulterants cannot be ruled out.
 
@@ -73,7 +73,7 @@ The continued medical importance of henbane alkaloids represents a direct line o
 
 ## Historical Context
 
-Henbane (Hyoscyamus niger) has been intertwined with European medicine, magic, and folklore for over two millennia. The plant was one of the most important medicinal herbs of the classical and medieval periods, used by Greek and Roman physicians, medieval monks, and early modern apothecaries as a sedative, analgesic, and antispasmodic. Its alkaloids — hyoscyamine and scopolamine — remain important in modern pharmacology.
+Henbane (Hyoscyamus niger) has been intertwined with European medicine, magic, and folklore for over two millennia. The plant was one of the most important [[permaculture-plants-medicinal-herbs-healing]] of the classical and medieval periods, used by Greek and Roman physicians, medieval monks, and early modern apothecaries as a sedative, analgesic, and antispasmodic. Its alkaloids — hyoscyamine and scopolamine — remain important in modern pharmacology.
 
 In European folklore, henbane was associated with prophecy, divination, and the supernatural. The Delphic oracle of ancient Greece may have used henbane preparations to induce prophetic trances, and the plant was a common ingredient in the medieval "flying ointments" attributed to witches. In Norse mythology, the god Odin was said to have gained his wisdom through self-sacrifice and the use of henbane.
 
@@ -83,9 +83,11 @@ Henbane alkaloids continue to be important in modern medicine. Scopolamine (hyos
 
 ## See Also
 
+- [[schultes-henbane-hyoscyamus-oracle-delphi]]
+
 - [[belladonna-atropa-belladonna-ethnobotany]] — belladonna ethnobotany.
 
-[[datura-metel-old-world-ethnobotany]] — Old World Datura metel.
+[[datura-metel-old-world-ethnobotany]] — [[datura-metel-old-world-ethnobotany]] Datura metel.
 
 [[solanaceous-hallucinogens-pharmacology]] — solanaceous hallucinogen pharmacology.
 

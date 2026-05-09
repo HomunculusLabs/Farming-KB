@@ -1,5 +1,5 @@
 ---
-title: How to Test and Remediate Urban Soil for Food Growing
+title: How to Test and query how to test and remediate urban soil for food growing Soil for Food Growing
 tags:
   - urban-soil
   - soil-testing
@@ -29,7 +29,7 @@ type: query
 Urban soils often carry contamination from decades or centuries of human activity — lead paint, leaded gasoline, industrial emissions, coal ash, demolition debris, and chemical spills. The most common urban soil contaminant is **lead (Pb)**, which was pervasive in exterior house paint (before 1978 in the US) and gasoline (before 1996). Other contaminants found in urban soils include arsenic (from treated lumber and historical pesticides), cadmium, chromium, petroleum hydrocarbons, PCBs, and asbestos.
 
 Contaminated soil poses [[raised-beds-vs-in-ground-vs-containers]] with imported soil for root/leafy crops; fruiting crops may be acceptable with amendments |
-| **400–1,200 ppm** | High | Raised beds with [[fungal-bioturbation-and-soil-aggregate-formation]], and boosts microbial activity
+| **400–1,200 ppm** | High | [[comparison-raised-beds-vs-hugelkultur]] with fungal-bioturbation-and-soil-aggregate-formation, and boosts microbial activity
 - Microorganisms in compost can transform contaminants into less bioavailable forms
 - Earthworms attracted to compost-rich soil further improve soil health and contaminant binding
 - This is an ongoing, cumulative strategy — benefits increase with repeated applications
@@ -39,7 +39,7 @@ Contaminated soil poses [[raised-beds-vs-in-ground-vs-containers]] with imported
 For soils with moderate to high contamination (>200 ppm lead), raised beds with clean imported soil are the most reliable approach:
 
 - Build beds **30–60 cm tall** using untreated wood, concrete blocks, or galvanized metal
-- Line the bottom with **landscape fabric** or geotextile to prevent root penetration into contaminated native soil
+- Line the bottom with **[[comparison-mulch-types-and-effects-vs-landscape-fabric-alternatives]]** or geotextile to prevent root penetration into contaminated native soil
 - Fill with **tested, certified clean soil** or a mix of topsoil and compost
 - For extra safety, add a **5 cm gravel layer** above the fabric before adding soil — this prevents wicking of contaminants upward
 - Re-test imported soil before filling beds
@@ -51,6 +51,8 @@ For soils with moderate to high contamination (>200 ppm lead), raised beds with 
 For very high contamination (>1,200 ppm lead) or when ground access is impossible:
 
 ## See Also
+
+- [[query-how-do-i-restore-saline-and-compacted-soil]]
 
 - [[holzer-raised-bed-techniques-hugelkultur]]
 - [[query-what-is-the-soil-food-web-and-why-does-it-matter]]
@@ -70,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

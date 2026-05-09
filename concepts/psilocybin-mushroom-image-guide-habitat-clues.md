@@ -1,5 +1,5 @@
 ---
-title: "Psilocybin Mushroom Habitat Clues from the Image Guide"
+title: "emcdda-psilocybin-mushroom-dose-and-effects Habitat Clues from the psilocybin mushroom image guide habitat clues"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -11,7 +11,7 @@ tags: [habitat, mushroom-cultivation, psilocybin]
 # Psilocybin Mushroom Habitat Clues
 
 Habitat and substrate are among the most reliable identification
-clues for psilocybin mushrooms. The Psilocybin Mushroom Image
+clues for [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]. The Psilocybin Mushroom Image
 Guide provides photographic evidence of species in their natural
 and cultivated environments across multiple continents.
 
@@ -34,20 +34,20 @@ dwelling):
 - [[gymnopilus-spectabilis-entity]] (Big Laughing Gym): photographed growing
   on stumps, tree bark, and wood in Mendocino, California.
   Typically found on dead or dying hardwoods
-- [[psilocybe-semilanceata]] (Liberty Cap): documented in grass
+- [[psilocybe-semilanceata]] ([[peter-mantle-liberty-cap-chromatographic-discovery-1969]]): documented in grass
   clumps, lawns, and pastures across Europe. Photographed in the
   Black Forest region of Germany and in Southern Norway (growing
   near a town hall lawn). The Norwegian name "spiss fleinsopp"
   reflects its Scandinavian presence
 - Panaeolus campanulatus (bell-capped panaeolus): photographed
   growing in grass and clovers. A generalist grassland species
-- Psilocybe cubensis: also found growing wild on the edges of
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]: also found growing wild on the edges of
   fields, as documented in the Jacksonville, Florida collection
 
 ### Moss-Associated Species
 
-- [[gartz-magic-mushrooms-global-distribution-patterns]]
-- [[psilocybin-mushroom-image-guide-lookalike-species]]
+- gartz-magic-mushrooms-global-distribution-patterns
+- psilocybin-mushroom-image-guide-lookalike-species
 ## Practical Considerations
 
 When working with Psilocybin Mushroom Habitat Clues from the Image Guide, several practical factors should be
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

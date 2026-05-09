@@ -1,10 +1,11 @@
 ---
-title: Sepp Holzer Earth Cellars, Clay Building, and Concluding Philosophy
+title: Sepp sepp holzer earth cellars and philosophy Cellars, Clay Building, and Concluding Philosophy
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
+  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
@@ -20,7 +21,7 @@ Earth cellars are a fundamental element of Holzer's permaculture infrastructure,
 - Positioning and equipment make earth cellars ideally suited for storing fruit and vegetables
 - Can offer fresh produce on site until late in winter
 - Can also serve as open shelters for livestock if needed (particularly pigs)
-- Use locally available clay and loam as primary building materials
+- Use locally available clay and loam as primary [[natural-building-materials-guide]]
 
 ### Construction
 - Built using excavator for initial earthworks
@@ -37,7 +38,7 @@ Earth cellars are a fundamental element of Holzer's permaculture infrastructure,
 
 ## The Berta Project: Permaculture for Disabled People
 
-A unique permaculture project in Bad Aussee, Styria, designed to integrate disabled people with the help of permaculture. Holzer worked on the concept with Lebenshilfe Ausseerland (under Roland Kalft) in June 2003.
+A unique [[holzer-lebenshilfe-permaculture-project-for-disabled-people]] in Bad Aussee, Styria, designed to integrate disabled people with the help of permaculture. Holzer worked on the concept with Lebenshilfe Ausseerland (under Roland Kalft) in June 2003.
 
 ### Project Components
 
@@ -90,7 +91,7 @@ Holzer consistently recommends natural water treatment systems across his projec
 
 ### Pump Systems
 - Water-powered pumps for energy saving
-- Wind power options
+- [[holmgren-wind-power-and-renewable-energy-debate]] options
 - Electricity from photovoltaic cells
 
 ## Holzer's Concluding Philosophy
@@ -108,7 +109,7 @@ Holzer consistently recommends natural water treatment systems across his projec
 ### The Agricultural Rebel
 - Holzer took over his parents' mountain farm in 1962
 - Pioneered ecological farming/permaculture at ~5,000 feet altitude after conventional methods failed
-- Fined and threatened with prison for practices like not pruning fruit trees
+- Fined and threatened with prison for practices like not [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] trees
 - Conducts permaculture seminars at his farm and worldwide
 - Works nationally as permaculture activist in established agricultural industry
 - International adviser for ecological agriculture
@@ -117,8 +118,8 @@ Holzer consistently recommends natural water treatment systems across his projec
 "Nature is perfect in all of its creation, only we humans make mistakes."
 
 ### The Holzer Family
-- Mag. Claudia Holzer: biologist, dissertation on species diversity of insects in Krameterhof raised bed systems, works in ecological education and permaculture
+- Mag. Claudia Holzer: biologist, dissertation on species diversity of insects in Krameterhof [[comparison-chinampas-vs-raised-bed-gardening]] systems, works in ecological education and permaculture
 - Josef Andreas Holzer: studied forestry, then ecology and biodiversity, works intensively with permaculture principles
 
 See also: [[sepp-holzer-terrace-systems-and-raised-beds]], [[permaculture-building-design]], [[holzer-lebenshilfe-permaculture-project-for-disabled-people]]
-- [[mollison-permaculture-two-earth-houses-plant-shelters]]
+- mollison-permaculture-two-earth-houses-plant-shelters

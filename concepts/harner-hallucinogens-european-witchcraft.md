@@ -1,5 +1,5 @@
 ---
-title: Hallucinogens in European Witchcraft (Harner)
+title: Hallucinogens in harner-european-witchcraft-hallucinogens (Harner)
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -10,11 +10,11 @@ tags: [reference]
 
 # Hallucinogens in European Witchcraft
 
-Michael Harner's chapter "The Role of Hallucinogenic Plants in European Witchcraft" is one of the most significant contributions in his edited volume, demonstrating that the shamanic use of psychoactive plants was not confined to indigenous peoples of the Americas or Siberia but extended into the heart of European civilization. This chapter argues that European witchcraft was, in significant part, a form of shamanism mediated by solanaceous hallucinogenic plants, and that the Inquisition's destruction of this tradition severed a continuous thread of European psychoactive religious practice. An important exception to the general scholarly neglect was Edward B. Tylor, who in the nineteenth century proposed that "the mediaeval witch-ointments brought visionary beings into the presence of the patient, transported him to the witches' sabbath, enabled him to turn into a beast."
+Michael Harner's chapter "The Role of Hallucinogenic Plants in European Witchcraft" is one of the most significant contributions in his edited volume, demonstrating that the shamanic use of psychoactive plants was not confined to indigenous peoples of the Americas or Siberia but extended into the heart of [[fukuoka-european-civilization-standstill]]. This chapter argues that European witchcraft was, in significant part, a form of shamanism mediated by solanaceous hallucinogenic plants, and that the Inquisition's destruction of this tradition severed a continuous thread of European psychoactive religious practice. An important exception to the general scholarly neglect was Edward B. Tylor, who in the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] proposed that "the mediaeval witch-ointments brought visionary beings into the presence of the patient, transported him to the witches' sabbath, enabled him to turn into a beast."
 
 ## The Solanaceous Plants
 
-The key plants involved are members of the potato family (Solanaceae): Datura (jimsonweed or thorn-apple), mandrake (Mandragora officinarum), henbane (Hyoscyamus niger), and belladonna or deadly nightshade (Atropa belladonna). Each contains varying quantities of atropine and the closely related tropane alkaloids hyoscyamine and scopolamine, all of which have hallucinogenic effects. These alkaloids can be extremely dangerous in their mental and physical effects, and their toxicity can result in death.
+The key plants involved are members of the potato family (Solanaceae): Datura (jimsonweed or thorn-apple), mandrake ([[mandrake-mandragora-officinarum-in-european-folklore]]), henbane (Hyoscyamus niger), and belladonna or deadly nightshade (Atropa belladonna). Each contains varying quantities of atropine and the closely related tropane alkaloids hyoscyamine and scopolamine, all of which have hallucinogenic effects. These alkaloids can be extremely dangerous in their mental and physical effects, and their toxicity can result in death.
 
 These plants are found in both temperate and tropical climates on all continents. A crucial pharmacological property of atropine is that it is absorbable even by intact skin. This potential has long been known in medicine, where toxic effects from belladonna plasters have been observed. This transdermal absorbability is what made the witches' ointment practice possible and effective, and it is of "considerable significance for the study of shamanism and witchcraft."
 
@@ -50,7 +50,7 @@ Hesse similarly writes of admixtures to witches' brew: "The hallucinations are f
 
 ## Lycanthropy and the Werewolf Belief
 
-Harner extends the argument to lycanthropy--the belief that humans can transform into wolves and other predatory animals. He proposes that hallucinogenic plants may have been involved in werewolf beliefs. The concept of metamorphosis into predatory animals is another of the cross-cultural patterns in shamanic experience. Naranjo's clinical research with harmaline found that Chilean subjects independently reported transformation into mammals, birds, and fish--the same categories of experience documented in Amazonian shamanism and European witchcraft.
+Harner extends the argument to lycanthropy--the belief that humans can transform into wolves and other predatory animals. He proposes that hallucinogenic plants may have been involved in werewolf beliefs. The concept of metamorphosis into predatory animals is another of the cross-cultural patterns in shamanic experience. Naranjo's [[hofmann-lsd-clinical-research-early-studies]] with harmaline found that Chilean subjects independently reported transformation into mammals, birds, and fish--the same categories of experience documented in [[mckenna-food-gods-amazonian-shamanism-ayahuasca]] and European witchcraft.
 
 ## Modern Confirmations
 

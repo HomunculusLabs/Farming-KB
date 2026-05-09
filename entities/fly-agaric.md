@@ -1,5 +1,5 @@
 ---
-title: "Fly Agaric (Amanita muscaria)"
+title: "Fly Agaric (allegro-amanita-muscaria-properties-and-pharmacology)"
 created: 2026-05-07
 type: species
 tags:
@@ -21,12 +21,12 @@ sources:
   - Ott, J. (1976). "Pharmacognosy of Amanita muscaria." Journal of Psychoactive Drugs, 8(3), 189-199.
   - Waser, P.G. (1967). "The Pharmacology of Amanita muscaria." In: Ethnopharmacologic Search for Psychoactive Drugs, Efron, D.H. (ed.), Public Health Service Publication No. 1645.
   - Tsujikawa, K., et al. (2007). "Analysis of Ibotenic Acid and Muscimol in Amanita Species." Forensic Science International, 164(2-3), 172-178.
-  - Stamets, P. (1996). "Psilocybin Mushrooms of the World." Ten Speed Press.
+  - Stamets, P. (1996). "[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World." Ten Speed Press.
 ---
 
 ## Overview
 
-**[[ibotenic-acid-entity]] and muscimol, which produce a distinctly different psychoactive profile from the tryptamine-containing [[spore-print]]:** White
+**ibotenic-acid-entity and muscimol, which produce a distinctly different psychoactive profile from the tryptamine-containing [[spore-print]]:** White
 - **Spores:** Globose to broadly ellipsoid, smooth, 8–12 × 6.5–9 μm, non-amyloid
 
 ### Varieties and Color Morphs
@@ -46,7 +46,7 @@ The combination of white gills, white spore print, skirt-like ring, shaggy volva
 
 ## Distribution and Ecology
 
-A. muscaria has a circumboreal distribution, found throughout temperate and boreal forests of the Northern Hemisphere, as well as parts of the Southern Hemisphere where it has been introduced (New Zealand, Australia, South Africa, South America).
+A. muscaria has a circumboreal distribution, found throughout temperate and [[fungal-diversity-boreal-forests-taiga]] of the Northern Hemisphere, as well as parts of the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] where it has been introduced (New Zealand, Australia, South Africa, South America).
 
 The species is **obligately ectomycorrhizal**, forming symbiotic associations with tree roots across multiple genera:
 - **Conifers:** Pinus, Picea, Abies, Larix, Pseudotsuga, Betula
@@ -71,7 +71,7 @@ Fruiting occurs from late summer through autumn (August–November in the Northe
 Ibotenic acid is the biosynthetic precursor of muscimol. The decarboxylation of ibotenic acid to muscimol occurs through:
 
 - **Endogenous enzymatic decarboxylation** during mushroom aging
-- **Thermal decarboxylation** during drying or heating (the basis of traditional preparation methods)
+- **Thermal decarboxylation** during drying or heating (the basis of [[kava-traditional-preparation-ceremonial-context]] methods)
 - **In vivo decarboxylation** by gut bacteria after ingestion
 
 This conversion is central to the traditional preparation of A. muscaria for consumption, as ibotenic acid is responsible for most of the unpleasant physical effects (nausea, sweating, confusion) while muscimol produces the desired psychoactive effects.
@@ -94,7 +94,7 @@ A. muscaria is the most thoroughly documented psychoactive mushroom in indigenou
 
 ### Soma Hypothesis
 
-R. Gordon Wasson (1968) proposed that A. muscaria was the identity of *Soma*, the sacred plant of the Rigveda. While this hypothesis generated enormous popular interest, it remains controversial among Vedic scholars and has been challenged by alternative candidates (e.g., Peganum harmala, Ephedra species). The evidence for and against continues to be debated.
+R. Gordon Wasson (1968) proposed that A. muscaria was the identity of *Soma*, the sacred plant of the Rigveda. While this hypothesis generated enormous popular interest, it remains controversial among Vedic scholars and has been challenged by alternative candidates (e.g., [[mckenna-food-gods-peganum-harmala-soma]], Ephedra species). The evidence for and against continues to be debated.
 
 ### European Folk Traditions
 

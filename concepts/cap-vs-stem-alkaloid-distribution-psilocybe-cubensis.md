@@ -20,7 +20,7 @@ much psilocybin as stems:
 
 The M.R. and Equadorian strains both showed approximately 60% more
 psilocybin in caps than stems. The Amazon strain was unusual in showing
-equal psilocybin distribution between cap and stem.
+equal [[sandoz-psilocybin-distribution-program]] between cap and stem.
 
 ## Psilocin Distribution: Strain-Dependent Patterns
 
@@ -53,7 +53,7 @@ phosphorylated precursor of psilocin (4-hydroxy-N,N-dimethyltryptamine).
 The conversion from psilocybin to psilocin occurs via dephosphorylation
 by phosphatase enzymes.
 
-The observed distribution patterns suggest several possible mechanisms:
+The observed [[guzman-global-distribution-patterns-neurotropic-fungi]] suggest several possible mechanisms:
 
 1. **Differential phosphatase localization**: In M.R. and Equadorian
    strains, phosphatase enzymes may be concentrated in stem tissue,
@@ -110,14 +110,14 @@ distribution has practical implications:
 ### For Cultivators
 - Selecting for cap-heavy yields may increase overall alkaloid
   production per gram of biomass
-- Strain selection affects not just total potency but also the
+- [[blesching-cannabis-strain-selection-receptor-targeting]] affects not just total potency but also the
   qualitative character of the experience (psilocybin vs. psilocin
   ratio)
 
 ## Research Significance
 
 The Bigwood and Beug findings were among the first to demonstrate
-tissue-specific alkaloid distribution in psilocybin mushrooms. Previous
+tissue-specific alkaloid [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] mushrooms. Previous
 studies had analyzed whole mushrooms, masking the significant
 differences between cap and stem tissue. This tissue-level analysis
 provided important clues about the biosynthetic pathway and its
@@ -129,11 +129,11 @@ given the pharmacological differences between psilocybin and psilocin.
 Psilocin is the active metabolite that binds to serotonin receptors in
 the brain, and the ratio of psilocybin to psilocin at the time of
 consumption may affect the onset, duration, and character of the
-psychedelic experience.
+[[leary-psychedelic-experience-bardo-mapping]].
 
 ## See Also
 
-- [[psilocybin]] — Chemistry and pharmacology
+- [[psilocybin]] — [[psilocybin-psilocin-chemistry-and-pharmacology-emcdda]]
 - [[psilocybe-cubensis]] — Species overview
 
 ## Sources

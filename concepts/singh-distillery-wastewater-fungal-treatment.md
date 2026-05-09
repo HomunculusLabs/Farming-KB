@@ -1,5 +1,5 @@
 ---
-title: "Distillery Wastewater Fungal Treatment"
+title: "singh distillery wastewater fungal treatment singh-biopile-fungal-treatment-contaminated-soil"
 created: 2026-04-26
 tags:
   - distillery-wastewater
@@ -38,7 +38,7 @@ Distillery spent wash exhibits extreme physicochemical properties:
 - **High dissolved solids**: Total dissolved solids 50,000-100,000 mg/L
 - **Nutrient content**: Rich in potassium, nitrogen, and phosphorus
   but in forms that promote eutrophication
-- **Refractory organic compounds**: Phenolics, furfural, HMF,
+- **Refractory [[fungal-volatile-organic-compounds-communication]]**: Phenolics, furfural, HMF,
   carboxylic acids, and melanoidins resistant to conventional
   biological treatment
 
@@ -48,7 +48,7 @@ Melanoidins are heterogeneous nitrogen-containing brown polymers that
 impart the characteristic color to spent wash. They are formed through
 non-enzymatic browning (Maillard reaction) between reducing sugars and
 amino compounds at elevated temperatures. Melanoidins exhibit:
-- Antimicrobial properties that inhibit conventional biological treatment
+- [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] that inhibit conventional biological treatment
 - Resistance to biodegradation due to their complex polymeric structure
 - Metal chelation capacity, binding essential nutrients
 - Recalcitrance to photodegradation and chemical oxidation
@@ -68,7 +68,7 @@ mechanisms:
   melanoidin complexes.
 
 ### Biosorption
-Fungal cell walls, rich in chitin, glucans, and proteins, provide
+[[gadd-fungal-cell-structure]] walls, rich in chitin, glucans, and proteins, provide
 functional groups (amino, carboxyl, hydroxyl, phosphate) that bind
 melanoidin molecules through electrostatic interactions, hydrogen
 bonding, and van der Waals forces.

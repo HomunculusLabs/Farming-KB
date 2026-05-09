@@ -1,16 +1,16 @@
 ---
-title: "Brown Rot Fungi and Cellulose Degradation in Wood Decay"
+title: "comparison-brown-rot-vs-white-rot-bioremediation Fungi and [[fungal-cellulose-degradation]] in bloomfield-wood-decay-fungi-spalted-timber"
 tags: [brown-rot, wood-decay, cellulose-degradation, lignin, polypores, mycoremediation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: ["unknown-mycelium-running.md"]
 ---
-[[query-what-are-the-best-mushroom-species-for-bioremediation]] applications. Brown rot and [[fungal-wood-decay-types|Fungal Wood Decay Types]]
-- [[white-rot-fungi-bioremediation|White Rot Fungi in Bioremediation]]
+[[query-what-are-the-best-mushroom-species-for-bioremediation]] applications. [[brown-rot-and-white-rot-fungi-in-mycoremediation]] [[gadd-fungal-wood-succession]] Decay Types
+- [[white-rot-fungi-bioremediation]]
 - Mycoremediation Ecology
 ## Background and Context
 
-Brown Rot Fungi and Cellulose Degradation in Wood Decay is an important subject that has garnered significant attention
+Brown [[comparison-white-rot-fungi-vs-trichoderma]] and Cellulose Degradation in [[bloomfield-wood-decay-fungi-spalted-timber]] is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough
@@ -58,7 +58,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -136,4 +136,5 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-
+## See Also
+- [[mycoremediation]]

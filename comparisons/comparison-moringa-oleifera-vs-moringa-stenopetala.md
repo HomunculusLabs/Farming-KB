@@ -1,5 +1,5 @@
 ---
-title: "Moringa oleifera vs Moringa stenopetala"
+title: "permaculture-moringa vs Moringa stenopetala"
 created: 2026-04-28
 tags:
   - moringa
@@ -33,12 +33,12 @@ type: comparison
 | **Leaf shape** | Tripinnate, small oval leaflets (1–2 cm) | Tripinnate, larger oval leaflets (2–4 cm) |
 | **Growth rate** | Extremely fast (3–5 m/year) | Fast (2–4 m/year) |
 | **Frost tolerance** | Sensitive below ~2 °C | Moderately tolerant to light frost (~0 °C) |
-| **Drought tolerance** | Excellent | Excellent, slightly better in prolonged dry seasons |
+| **[[dighton-fungal-drought-tolerance-plant-water-relations]]** | Excellent | Excellent, slightly better in prolonged dry seasons |
 | **Nutritional density** | Exceptionally high | Slightly higher in some minerals (Ca, Fe) |
 | **Leaf taste** | Peppery, horseradish-like | Milder, more cabbage-like, less bitter |
-| **[[fungi-of-southeast-asia]] to West Africa, Central America, and the Caribbean. It thrives in USDA zones 9–11, preferring well-drained sandy or loamy soils and full sun.
+| **fungi-of-southeast-asia to West Africa, [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], and the Caribbean. It thrives in USDA zones 9–11, preferring well-drained sandy or loamy soils and full sun.
 
-*Moringa stenopetala* is endemic to the Rift Valley region of East Africa, particularly Ethiopia and southern Kenya, where it grows naturally at 400–1,800 m elevation. It is better adapted to cooler conditions and higher elevations than *M. oleifera*, making it a practical choice for East African highland farming systems where *M. oleifera* would struggle.
+*Moringa stenopetala* is endemic to the Rift Valley region of East Africa, particularly Ethiopia and southern Kenya, where it grows naturally at 400–1,800 m elevation. It is better adapted to cooler conditions and higher elevations than *M. oleifera*, making it a practical choice for [[comparison-cavendish-vs-east-african-highland-bananas]] highland farming systems where *M. oleifera* would struggle.
 
 ## Nutritional Profiles
 
@@ -82,7 +82,7 @@ Both species share a broad pharmacological profile: anti-inflammatory, antioxida
 
 ## Ease of Cultivation
 
-*Moringa oleifera* is exceptionally easy to grow from seed (germination in 7–14 days) or cuttings. It tolerates poor, degraded, and even slightly saline soils. Its rapid growth and coppicing ability make it ideal for intensive cultivation. Pests and diseases are rarely serious.
+*Moringa oleifera* is exceptionally easy to grow from seed (germination in 7–14 days) or cuttings. It tolerates poor, degraded, and even slightly saline soils. Its rapid growth and coppicing ability make it ideal for intensive cultivation. [[mushroom-pests-and-diseases]] are rarely serious.
 
 *Moringa stenopetala* is similarly undemanding but seed availability outside its native range is limited. It prefers slightly more fertile soils and performs better with moderate rainfall compared to *M. oleifera*. Propagation from seed is straightforward when seed is obtainable; cuttings also root readily.
 
@@ -113,6 +113,8 @@ Both species share a broad pharmacological profile: anti-inflammatory, antioxida
 *Moringa oleifera* and *Moringa stenopetala* are complementary rather than competing species. *M. oleifera* is the workhorse of global moringa production — faster, more studied, and commercially dominant. *M. stenopetala* fills an important ecological niche as a cooler-climate, milder-flavored, mineral-rich alternative particularly suited to East African agroforestry. In regions where both can grow, interplanting the two species can extend harvest windows, diversify flavor profiles, and build resilience into moringa-based food and income systems.
 
 ## See Also
+
+- [[moringa-stenopetala]]
 
 - [[comparison-perlite-vs-vermiculite]]
 

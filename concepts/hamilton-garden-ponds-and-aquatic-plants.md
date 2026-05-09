@@ -1,5 +1,5 @@
 ---
-title: "Garden Ponds and Aquatic Plants"
+title: "hamilton garden ponds and aquatic plants and Aquatic Plants"
 created: 2026-04-28
 tags: [water-garden, pond-construction, aquatic-plants, wildlife, organic-gardening]
 date: 2026-04-25
@@ -13,7 +13,7 @@ type: concept
 A garden pond is a valuable asset in any organic garden. It provides
 drinking water for birds and small mammals, a home for many aquatic
 animals, and enables the gardener to grow a much wider range of plants.
-Frogs and toads, which are voracious predators of slugs and snails, are
+Frogs and toads, which are voracious predators of [[query-how-to-get-rid-of-slugs-and-snails-organically]], are
 especially attracted to ponds and should be actively encouraged.
 
 ## Locating the Pond
@@ -89,7 +89,7 @@ of water in spring.
 
 Marginal plants grow in the shallowest parts of the pond and the boggy
 soil around the edges. They range from those needing just an inch or so
-of water, such as sweet-scented rush (Acorus calamus), to those that
+of water, such as sweet-scented rush ([[sweet-flag-acorus-calamus-ethnobotany]]), to those that
 prefer marshy soil like primulas. Other good marginal plants include
 marsh marigold (Caltha palustris), water forget-me-not (Myosotis
 palustris), flowering rush (Butomus umbellatus), and bog arum (Calla
@@ -98,7 +98,7 @@ palustris).
 ## Planting Aquatic Plants
 
 Use heavy garden soil or rotted turf for planting aquatics in containers.
-Do not use soil rich in organic matter, as it will putrefy. A thin layer
+Do not use soil rich in [[hamilton-composting-and-organic-matter-management]], as it will putrefy. A thin layer
 of gravel on top prevents soil from floating and stops fish from
 disturbing it. Plant deep-water aquatics in late spring and summer. Cut
 off old leaves before lowering containers to the bottom of the pond.
@@ -115,7 +115,9 @@ to the pond. Remove blanket weed promptly whenever it appears. Keep
 leaves out of the pond, using netting in fall if necessary. If keeping
 ornamental fish, provide shallow refuge areas for fry and frog spawn.
 
-## Related Concepts
+## Related
+
+- [[hamilton-garden-fencing-and-boundaries]] Concepts
 
 - [[hamilton-garden-pond-maintenance]]
 - [[hamilton-beneficial-insects-and-biological-pest-control]]

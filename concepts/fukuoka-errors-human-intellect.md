@@ -5,18 +5,19 @@ updated: 2026-04-21
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # The Errors of the Human Intellect
 
-From "The Natural Way of Farming" by Masanobu Fukuoka, Chapter 1 of "The Illusions of Natural Science."
+From "The Natural Way of Farming" by Masanobu Fukuoka, Chapter 1 of "The [[fukuoka-illusions-of-natural-science]] Science."
 
 ## The Western Scientific Tradition
 
-Scientific agriculture developed early in the West as one branch of the natural sciences, which arose in Western learning as the study of matter. The natural sciences took a materialistic viewpoint that interpreted nature analytically and dialectically. This was a consequence of Western man's belief in a man-nature dichotomy.
+[[fukuoka-critique-scientific-agriculture-civilization]] developed early in the West as one branch of the natural sciences, which arose in Western learning as the study of matter. The natural sciences took a materialistic viewpoint that interpreted nature analytically and dialectically. This was a consequence of Western man's belief in a man-nature dichotomy.
 
-In contrast to the Eastern view that man should seek to become one with nature, Western man used discriminating knowledge to place man in opposition to nature and attempted, from that vantage point, a detached interpretation of the natural world. For he was convinced that the human intellect can cast off subjectivity and comprehend nature objectively.
+In contrast to the Eastern view that man should seek to become one with nature, Western man used [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]] to place man in opposition to nature and attempted, from that vantage point, a detached interpretation of the natural world. For he was convinced that the human intellect can cast off subjectivity and comprehend nature objectively.
 
 The natural sciences have advanced at breakneck speed, flinging us into the space age. Today, man appears capable of knowing everything about the universe. But what exactly does it mean for man to "know"? He may laugh at the folly of the proverbial frog in the well, but is unable to laugh off his own ignorance before the vastness of the universe. Man is not in a position to know nature.
 
@@ -32,11 +33,11 @@ Man believes that he has to fly off into outer space to learn about space, or th
 
 But nature is a living, organic whole that cannot be divided and subdivided. When it is separated into two complementary halves and these divided again into four, when research becomes fragmented and specialized, the unity of nature is lost.
 
-All science has succeeded in doing is to peel the skin off a beautiful woman and reveal a bloody mass of tissue. What a miserable, wasted effort.
+All science has succeeded in doing is to peel the skin off a [[fukuoka-scalpel-beautiful-woman-science-nature]] and reveal a bloody mass of tissue. What a miserable, wasted effort.
 
 This vivid and disturbing metaphor captures the essence of Fukuoka's epistemological critique. Dissection reveals structure but destroys life. The living whole possesses qualities -- beauty, harmony, self-organization -- that are not present in any of its parts.
 
-A soil ecosystem teeming with bacteria, fungi, protozoa, nematodes, and arthropods has properties of fertility, water retention, and disease suppression that none of these organisms possess individually. Destroy the community through chemical analysis, and these emergent properties vanish, no matter how thoroughly you catalog the remaining components.
+A soil ecosystem teeming with bacteria, fungi, protozoa, nematodes, and arthropods has properties of fertility, water retention, and [[aact-disease-suppression-mechanisms-ingham]] that none of these organisms possess individually. Destroy the community through [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]], and these emergent properties vanish, no matter how thoroughly you catalog the remaining components.
 
 ## The Maze of Relative Subjectivity
 

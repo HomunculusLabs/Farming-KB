@@ -11,13 +11,14 @@ tags: [physics, statistical-mechanics, thermodynamics, entropy, boltzmann,
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
-sources: []
+sources:
+  sources: []
 ---
 
 Statistical mechanics is the branch of physics that bridges microscopic
 particle behavior and macroscopic thermodynamic properties by applying
 probability theory and statistics. It explains why bulk matter exhibits
-temperature, pressure, and phase transitions as emergent phenomena arising
+temperature, pressure, and [[phase-transitions-and-critical-phenomena]] as emergent phenomena arising
 from the collective behavior of enormous numbers of atoms and molecules.
 The field was pioneered by Ludwig Boltzmann, James Clerk Maxwell, and
 Josiah Willard Gibbs in the late cuthill [[tryptamines-and-quantum-mechanics]] in 1900. The classical
@@ -56,7 +57,7 @@ heat — directly links computation to thermodynamics.
 - [[tryptamines-and-quantum-mechanics]]
 - [[quantum-mechanics-fundamentals]]
 
-See also: [[holistic-grazing-and-pasture-management]]
+See also: [[pasture-management-and-forage]]
 ## Practical Considerations
 
 When working with statistical mechanics, several practical factors should be
@@ -73,7 +74,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,9 +111,8 @@ advance the field as a whole. Cross-pollination of ideas from biology,
 ecology, data science, and traditional knowledge systems generates novel
 perspectives and solutions that may not emerge within any single domain.
 
-For continued learning, recommended resources include current research
+For continued learning, recommended resources include [[psychedelic-therapy-current-research]]
 publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

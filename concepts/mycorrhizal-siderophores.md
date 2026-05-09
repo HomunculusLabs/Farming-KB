@@ -14,7 +14,7 @@ type: concept
 
 Siderophores are low-molecular-weight, high-affinity iron-chelating agents
 produced by microorganisms under iron-limiting conditions. In mycorrhizal
-fungi, siderophores play a critical role in iron acquisition from soil,
+fungi, siderophores play a critical role in [[fungal-siderophores-iron-acquisition-mycorrhiza]] from soil,
 where iron is often present in insoluble forms unavailable for direct uptake.
 These compounds also contribute to competition with other soil microorganisms
 and may play roles in plant defense through nutritional antagonism of
@@ -24,7 +24,7 @@ pathogens.
 
 Iron is abundant in most soils but is largely unavailable to organisms due
 to its low solubility at neutral and alkaline pH. In acidic organic soils,
-iron may bind with organic compounds, creating another form of limitation.
+iron may bind with [[fungal-volatile-organic-compounds-communication]], creating another form of limitation.
 [[cenococcum-geophilum]]* (Haselwandter and
 Winkelmann 2002). Ferricrocin has also been demonstrated in some
 *Wilcoxina* species forming ectendomycorrhizae (Prabhu et al. 1996). The
@@ -32,11 +32,11 @@ basidiomycetous ectomycorrhizal fungus *[[arbuscular-mycorrhizal-fungi]]: An Ope
 
 It remains unknown whether and what kind of siderophores are released by the
 Glomeromycota, which form the widespread arbuscular mycorrhizae. This
-represents a significant gap in our understanding of iron nutrition in the
+represents a significant gap in our understanding of [[siderophore-iron-nutrition-mycorrhizal-fungi]] in the
 most common type of [[fusarium-solani]]* and *F. acuminatum* were identified from
 exudates of a *Paenibacillus* strain isolated from a mycorrhizosphere,
 demonstrating the broader role of iron competition in the mycorrhizosphere
-microbial community.
+[[edaphic-factors-microbial-community-structure]].
 
 ## Siderophore Transport in Fungi
 
@@ -47,14 +47,14 @@ iron is released from the siderophore through reduction or enzymatic
 degradation, and the siderophore may be recycled or degraded.
 
 The regulation of siderophore biosynthesis is controlled by iron-sensing
-regulatory pathways. Under iron-replete conditions, siderophore production
+regulatory pathways. Under iron-replete conditions, [[singh-fungal-siderophore-production-iron-acquisition]]
 is repressed, while iron limitation triggers biosynthesis gene expression.
 This regulatory mechanism ensures that the energetically costly process of
 siderophore production occurs only when needed.
 
 ## See Also
 
-- [[mycorrhizal-siderophores-iron-chelation]]
+- mycorrhizal-siderophores-iron-chelation
 ## Practical Considerations
 
 When working with mycorrhizal Siderophores, several practical factors should be
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

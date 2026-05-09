@@ -1,5 +1,5 @@
 ---
-title: Bacterial and Oomycete Disease Case Studies from Ingham AACT Field Guide
+title: Bacterial and Oomycete ingham-aact-disease-case-studies-specific-pathogens from Ingham AACT Field Guide
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -26,12 +26,12 @@ proper soil biology management.
 ## Late Blight (Phytophthora infestans)
 
 Ingham reports lots of experience with late blight, though less with early
-blight. SFI has been working with compost tea makers preventing late
-blight along with apple scab, leaf curl, anthracnose, and foliar feeding
+blight. SFI has been working with [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]] makers preventing late
+blight along with apple scab, leaf curl, anthracnose, and [[comparison-foliar-feeding-vs-vermicompost-tea]]
 insects.
 
 **Approach:** Fungi are what would be needed to suppress blight diseases.
-When fungal biomass in the tea was not adequate, trouble maintaining
+When [[bioremediation-fungal-biomass-biosorbent-material]] in the tea was not adequate, trouble maintaining
 protection was experienced. Late in the season, leaf surfaces were harder
 to protect if fungal biomass was limited.
 
@@ -48,7 +48,7 @@ food, from having space on leaf surfaces, and from being able to find the
 leaf surface. Applied to potato, apples, and cherries.
 
 **Requirements:** You need to get the leaf, blossom, bark, and any dead
-leaves on the orchard floor covered at least 70% with BOTH bacteria and
+leaves on the [[fukuoka-orchard-floor-management]] covered at least 70% with BOTH bacteria and
 fungi. Fungi must be at least 5% of that 70% coverage.
 
 **Timing:** Start spraying two weeks before bud break. Spray the orchard
@@ -105,7 +105,7 @@ naturally suppresses these pathogens.
 
 Before attempting treatment, get a soil sample done to determine the
 biology present. Without knowing what organisms are missing or suppressed,
-you cannot apply the right remedy. The soil food web assessment tells you
+you cannot apply the right remedy. The soil food [[ingham-soil-food-web-assessment-methods]] tells you
 whether you need more bacteria, more fungi, more protozoa, or more
 nematodes to combat the specific disease pressure you face.
 
@@ -119,6 +119,8 @@ outcompeting the pathogens over time. Patience and consistent application
 are essential.
 
 ## See Also
+
+- [[ingham-aact-disease-case-studies-specific-pathogens]]
 
 - [[ingham-disease-case-studies-fungal]]
 - [[fungal-bioremediation-case-studies]]

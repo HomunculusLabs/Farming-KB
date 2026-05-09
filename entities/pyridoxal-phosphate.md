@@ -51,7 +51,7 @@ The conjugated aldehyde-pyridine system is the basis of PLP's electron-sink beha
 
 ## Biological Role
 
-PLP is best known as a coenzyme for amino acid metabolism.
+PLP is best known as a coenzyme for [[cho-fish-amino-acid-preparation]] metabolism.
 It supports transamination, decarboxylation, racemization, beta-elimination, gamma-elimination, replacement, and one-carbon reactions.
 The International Union of Biochemistry and Molecular Biology has catalogued more than one hundred PLP-dependent enzymatic activities.
 A common estimate is that PLP-dependent activities account for roughly four percent of classified enzyme activities.
@@ -89,7 +89,7 @@ Serine hydroxymethyltransferase uses PLP in one-carbon metabolism linked to fola
 Cystathionine beta-synthase and cystathionine gamma-lyase use PLP in sulfur amino acid metabolism.
 Glycogen phosphorylase contains PLP, although in that enzyme the phosphate group has a distinctive catalytic role.
 Delta-aminolevulinate synthase uses PLP in the first committed step of heme biosynthesis.
-Microbial PLP enzymes also generate nonprotein amino acids and secondary metabolites.
+Microbial PLP enzymes also generate nonprotein amino acids and [[antifungal-secondary-metabolites-coprophilous-fungi]].
 
 ## Nutrition and Clinical Relevance
 
@@ -124,5 +124,7 @@ PLP connects vitamin nutrition to enzyme mechanism, amino acid metabolism, and n
 It is an entity because it is a specific compound with a defined structure, identifiers, and biochemical role.
 
 ## See Also
+
+- [[pyridoxal-phosphate-coenzyme-chemistry]]
 
 - [[catalytic-triad-enzyme-mechanism]]

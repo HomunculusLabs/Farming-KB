@@ -18,8 +18,8 @@ Compost is a whole universe of diverse [[bacterial-vs-fungal-soil-dynamics]]).
 Bacterial compost is made with high-nitrogen "green" materials:
 - Grass clippings
 - Kitchen scraps (vegetable)
-- Green manures
-- Coffee grounds
+- [[jeavons-green-manures-cover-crops]]
+- [[oyster-mushroom-coffee-grounds-cultivation]]
 - Young, succulent plant material
 
 These materials have lower C:N ratios and support rapid bacterial growth.
@@ -30,7 +30,7 @@ that prefer nitrate nitrogen.
 
 Fungal compost requires more "brown" materials:
 - Autumn leaves
-- Wood chips and sawdust
+- [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]] and sawdust
 - Shredded bark
 - Straw and hay
 - Branches and woody material
@@ -44,7 +44,7 @@ breaking down. Fungal compost is preferred for trees, shrubs, and perennials
 ### Mesophilic Stage (68-104F / 20-40C)
 
 Moderate-temperature bacteria begin the process, breaking cellulose chains
-into smaller glucose units (depolymerization). Brown rot fungi and certain
+into smaller glucose units (depolymerization). [[comparison-brown-rot-vs-white-rot-bioremediation]] fungi and certain
 bacteria (Bacillus, Heliospirillum) start breaking down resistant materials.
 
 ### Thermophilic Stage (104-155F / 40-68C)

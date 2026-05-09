@@ -1,5 +1,5 @@
 ---
-title: Intensifying Small Farm Production
+title: mollison designers intensifying small farm production Production
 created: 2026-04-28
 tags:
   - permaculture
@@ -29,7 +29,7 @@ to [[mollison-designers-triazonal-cultivation-system]].
 
 Intercropping is the practice of growing two or more crops simultaneously in
 the same field. Mollison draws heavily on traditional polyculture systems from
-around the world, demonstrating that intercropped systems often produce greater
+[[fungi-around-the-world-species-distribution]], demonstrating that intercropped systems often produce greater
 total yield than the same crops grown in monoculture, while reducing pest
 pressure and improving soil health.
 
@@ -49,7 +49,7 @@ by a factor of three to five compared with single-layer cropping.
 
 ## Season Extension
 
-Season extension techniques allow small farms to produce outside the normal
+Season [[comparison-season-extension-techniques-vs-cold-frame-gardening]] allow small farms to produce outside the normal
 growing season, capturing higher prices and extending the period of fresh food
 availability. Techniques include cold frames, hoop houses, polytunnels,
 cloches, and greenhouses. In permaculture design, these structures are
@@ -57,9 +57,9 @@ integrated into the overall system, capturing and storing heat, providing
 wind protection, and creating favorable microclimates.
 
 Thermal mass systems, such as water barrels or stone walls inside
-protective structures, moderate temperature fluctuations. Passive solar
+protective structures, moderate temperature fluctuations. [[comparison-passive-solar-vs-earth-sheltered]]
 design orienting structures toward the equator maximizes winter sun capture.
-Combining season extension with succession planting creates year-round
+Combining season extension with [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] creates year-round
 production potential even in cold climates.
 
 ## Small Livestock Integration
@@ -72,7 +72,7 @@ directly to gardens without composting. Bees provide pollination services
 that increase crop yields across the entire farm.
 
 Livestock integration must be carefully designed to avoid damage to crops.
-Portable fencing, rotational grazing, and timed access allow animals to
+Portable fencing, [[comparison-rotational-grazing-vs-continuous-grazing]], and timed access allow animals to
 contribute their functions without destroying plantings. The "chicken
 tractor" concept, where poultry housing is moved regularly across garden
 beds, combines soil cultivation, manuring, and pest control in a single

@@ -1,5 +1,5 @@
 ---
-title: Water-Soluble Phosphoric Acid (WPA)
+title: Water-Soluble cho-water-soluble-phosphoric-acid-preparation (WPA)
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -14,7 +14,7 @@ sources:
 Water-Soluble Phosphoric Acid (WPA) is a KNF mineral input extracted from sesame stem charcoal. Phosphoric acid is present in every plant cell nucleus and is essential for cell division, root growth, and fruit quality.
 
 ## Source
-Master Cho's Korean Natural Farming Recipe Book
+Master Cho's Korean [[comparison-natural-farming-vs-permaculture]] Recipe Book
 
 ## What Is WPA
 
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

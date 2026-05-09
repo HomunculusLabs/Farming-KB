@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of North America." Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Clerc, P. (1998). "Species Concepts in the Genus Usnea." Bibliotheca Lichenologica 69: 1–92.
   - Smith, C.W., Aptroot, A., Coppins, B.J. et al. (2009). "The Lichens of Great Britain and Ireland." British Lichen Society.
   - Hawksworth, D.L., Iturriaga, T., Kirk, P.M. (2008). "A Complete Checklist of Lichen-Forming Fungi." Lichenologist 40(5): 403–418.
@@ -73,7 +73,7 @@ U. florida has an extensive history of use in traditional medicine systems world
 
 In traditional Chinese medicine, *Usnea* preparations (known as 老君须, "Lao Jun Xu") are prescribed for cough, bronchitis, and throat inflammation. The dried thallus is decocted or prepared as a tincture for internal use.
 
-North American indigenous peoples used usnea species as wound dressings and poultices for skin infections. The lichen's antimicrobial properties made it valuable for treating cuts, burns, and insect bites in field conditions.
+[[growing-gourmet-north-american-reishi-species]] indigenous peoples used usnea species as wound dressings and poultices for skin infections. The lichen's [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] made it valuable for treating cuts, burns, and insect bites in field conditions.
 
 Modern herbal medicine utilizes U. florida extracts in formulations for urinary tract infections, sinusitis, and upper respiratory infections. Usnic acid is commercially available as a dietary supplement, though liver toxicity concerns have been raised at high oral doses.
 
@@ -83,13 +83,15 @@ Topical preparations containing usnic acid are used in wound care and dermatolog
 
 U. florida contributes significantly to canopy epiphyte biomass and diversity in old-growth forests. Its bushy thallus provides habitat structure for microarthropods, insects, and other cryptogams.
 
-The species intercepts atmospheric moisture and nutrients, contributing to canopy water retention and nutrient cycling. Through stemflow and throughfall, dissolved nutrients from the lichen thallus reach the forest floor.
+The species intercepts atmospheric moisture and nutrients, contributing to canopy water retention and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. Through stemflow and throughfall, dissolved nutrients from the lichen thallus reach the forest floor.
 
-Usnea species serve as nesting material for birds, particularly in temperate and boreal forests where suitable materials are scarce. The flexible, durable thalli are incorporated into nest construction by several passerine species.
+Usnea species serve as nesting material for birds, particularly in temperate and [[fungal-diversity-boreal-forests-taiga]] where suitable materials are scarce. The flexible, durable thalli are incorporated into nest construction by several passerine species.
 
-The lichen supports a community of lichenicolous fungi, including species of *Arthonia*, *Buellia*, and *Marchandiomyces*, that grow parasitically on its thallus. These specialized fungi represent an often-overlooked component of forest fungal diversity.
+The lichen supports a community of lichenicolous fungi, including species of *Arthonia*, *Buellia*, and *Marchandiomyces*, that grow parasitically on its thallus. These specialized fungi represent an often-overlooked component of forest [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]].
 
 ## See Also
+
+- [[cornus-florida]]
 
 - [[candelariella-vitellina]]
 

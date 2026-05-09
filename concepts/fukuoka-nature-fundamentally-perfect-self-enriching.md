@@ -3,7 +3,7 @@
 
 ## Overview
 
-Masanobu Fukuoka's philosophical foundation rests on the assertion that nature is fundamentally perfect—that it is replete with the greatest possible wealth, both spiritually and materially. This is not a romantic idealization but an observation derived from decades of farming without intervention. Nature moves constantly from perfection to perfection, and any appearance of imperfection or decline is the result of human disruption, not an inherent property of nature itself. This concept distinguishes natural farming from all other agricultural philosophies, which implicitly assume that nature is deficient and requires human improvement.
+Masanobu Fukuoka's philosophical foundation rests on the assertion that nature is fundamentally perfect—that it is replete with the greatest possible wealth, both spiritually and materially. This is not a romantic idealization but an observation derived from decades of farming without intervention. Nature moves constantly from perfection to perfection, and any appearance of imperfection or decline is the result of human disruption, not an inherent property of nature itself. This concept distinguishes [[comparison-natural-farming-vs-permaculture]] from all other agricultural philosophies, which implicitly assume that nature is deficient and requires human improvement.
 
 This idea is developed most fully in Fukuoka's later work, *The Road Back to Nature*, where he explores the spiritual and philosophical dimensions of natural farming far beyond the practical techniques described in *The [[natural-way-of-farming-guide]] of Farming*. Here, nature is not merely a farming context but a metaphysical reality—an expression of divine perfection that humans can either participate in or disrupt.
 
@@ -37,7 +37,7 @@ If nature is truly rich and abundant, then man should be able to live a life of 
 
 Fukuoka applied this test critically to the Bushman's environment in southern Africa. While the Bushman himself appeared to be a fine, cheerful, natural man, the environment in which he lived was barren. He had to go quite far to find roots and firewood. This means nature is scarce there. If the Bushman really led a primitive life and were to practice natural farming, Fukuoka was certain there would be a greater abundance of nature around him. The Bushman's existence appears natural but is nothing of the sort—the nature in the background is just too poor.
 
-When there is a true ecological balance, nature tends toward greater abundance, enriching human life. By richer, Fukuoka means ample microbial life, rich [[black-locust-entity]] seed each year, one could rebuild a fine mountain hut a few times during one's lifetime. The trees would provide the materials. If the house were destroyed by a storm or earthquake, this would be an occasion for rejoicing at the opportunity to build a new abode. Which is more enjoyable: this or enduring for one's entire life the humiliations the world has to offer while amassing the money necessary to build one's own home? The comparison reveals how abundance flows from nature when one lives in alignment with it.
+When there is a true [[fukuoka-ecological-balance-principles]], nature tends toward greater abundance, enriching human life. By richer, Fukuoka means ample microbial life, rich [[black-locust-entity]] seed each year, one could rebuild a fine mountain hut a few times during one's lifetime. The trees would provide the materials. If the house were destroyed by a storm or earthquake, this would be an occasion for rejoicing at the opportunity to build a new abode. Which is more enjoyable: this or enduring for one's entire life the humiliations the world has to offer while amassing the money necessary to build one's own home? The comparison reveals how abundance flows from nature when one lives in alignment with it.
 
 ## Living in the Present
 
@@ -49,24 +49,24 @@ One must live fully in the present, not being swept off by the current, but dire
 
 ## The Great Spirit
 
-Nature is an astounding reality. Coming into contact with true nature can be an overwhelming experience. This is a world of inspiration that Fukuoka, drawing on Native American spirituality, called the "Great Spirit." This concept bridges Fukuoka's Buddhist philosophical background with a more universal spiritual ecology—the recognition that nature is not merely matter to be managed but a living presence to be encountered.
+Nature is an astounding reality. Coming into contact with true nature can be an overwhelming experience. This is a world of inspiration that Fukuoka, drawing on [[halpern-sacramental-peyote-and-native-american-church]] spirituality, called the "Great Spirit." This concept bridges Fukuoka's Buddhist philosophical background with a more universal spiritual ecology—the recognition that nature is not merely matter to be managed but a living presence to be encountered.
 
 During a visit to his farm, a young Native American woman walking in a "March for Survival" told Fukuoka she had been searching for herself. He replied, "But you're right here." This simple exchange encapsulates Fukuoka's teaching: the self is not lost and need not be sought. It is present, here, in nature, in this moment. The search for self is another form of the human disease of seeking to improve upon what is already complete.
 
-The encounter with the Native American woman also illustrates how Fukuoka's farming philosophy connects with indigenous spiritual traditions worldwide. The concept of the Great Spirit, of nature as a living presence worthy of reverence, is not unique to any one culture. It arises spontaneously wherever humans live in close, attentive relationship with the natural world. The loss of this sense of connection is not progress but impoverishment.
+The encounter with the Native American woman also illustrates how Fukuoka's [[fukuoka-do-nothing-farming-philosophy-and-practice]] connects with indigenous spiritual traditions worldwide. The concept of the Great Spirit, of nature as a living presence worthy of reverence, is not unique to any one culture. It arises spontaneously wherever humans live in close, attentive relationship with the natural world. The loss of this sense of connection is not progress but impoverishment.
 
 ## The Paradox of Human Improvement
 
 Fukuoka's assertion of nature's perfection creates a profound paradox: if nature is already perfect, then all human efforts to improve upon it are not only unnecessary but counterproductive. This does not mean humans should [[four-principles-of-natural-farming]] (no cultivation, no chemical fertilizer, no weeding, no pesticides) are negative principles: they specify what to stop doing, not what to start doing. The cessation of destructive activity allows nature's inherent perfection to express itself.
 
-This is why Fukuoka's farming looks lazy to the outside observer but produces results that match or exceed scientific agriculture. The appearance of laziness is an illusion; what looks like doing nothing is actually the most demanding work of all—the work of restraint, of trusting nature, of resisting the compulsion to intervene.
+This is why Fukuoka's farming looks lazy to the outside observer but produces results that match or exceed [[fukuoka-critique-scientific-agriculture-civilization]]. The appearance of laziness is an illusion; what looks like doing nothing is actually the most demanding work of all—the work of restraint, of trusting nature, of resisting the compulsion to intervene.
 
 ## The Farmer as Participant, Not Manager
 
 The implication of nature's fundamental perfection is that the farmer is not a manager of nature but a participant in it. The conventional farmer sees himself as an engineer, tweaking variables to optimize output. The natural farmer sees himself as a child of nature, receiving its gifts gratefully. The shift from manager to participant is not merely psychological—it transforms every aspect of farming practice, from [[fukuoka-mutual-cancellation-natural-equilibrium]] — How human interventions cancel out
 - [[fukuoka-textdoc-four-group-nutrition-scoring-critique]]-principles-as-negative-principles — What to stop doing
 - fukuoka textdoc restoration vs preservation — Restoring whole ecosystems
-- fukuoka textdoc black locust hut thought experiment — Nature providing building materials
+- fukuoka textdoc black locust hut thought experiment — Nature providing [[natural-building-materials-guide]]
 ## Practical Considerations
 
 Successful implementation of Fukuoka Nature Fundamentally Perfect Self Enriching requires attention to
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

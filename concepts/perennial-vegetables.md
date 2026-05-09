@@ -1,15 +1,16 @@
 ---
-title: Perennial Vegetables
+title: comparison-perennial-vegetables-vs-cover-crops
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [vegetables, gardening, permaculture, cultivation, food-forest]
-sources: []
+sources:
+  sources: []
 ---
 
 # Perennial Vegetables
 
-Perennial vegetables produce harvests year after year without replanting. They reduce soil disturbance, build [[fukuoka-soil-building-method|soil building]] organic matter over time, and are central to [[food-forest-design|food forest]] and [[permaculture-design|permaculture]] systems. Once established, they provide reliable yields with minimal annual labor.
+Perennial vegetables produce harvests year after year without replanting. They reduce soil disturbance, build [[fukuoka-soil-building-method|soil building]] [[hamilton-composting-and-organic-matter-management]] over time, and are central to [[food-forest-design|food forest]] and [[permaculture-design|permaculture]] systems. Once established, they provide reliable yields with minimal annual labor.
 
 ## Asparagus (Asparagus officinalis)
 
@@ -19,7 +20,7 @@ The king of perennial vegetables, asparagus can produce for 15-25 years from a s
 - **Varieties**: Jersey series (all-male, high yield), Mary Washington (heirloom), Purple Passion
 - **Timing**: Plant dormant 1-year crowns in early spring as soon as soil is workable
 - **Site**: Full sun, well-drained soil (pH 6.5-7.5); asparagus hates wet feet
-- **Bed preparation**: Dig trenches 12 inches deep, incorporate compost and rock phosphate
+- **[[azurescens-outdoor-bed-preparation-woodchips]]**: Dig trenches 12 inches deep, incorporate compost and rock phosphate
 - **Spacing**: 12-18 inches apart in rows 4-5 feet apart
 
 ### Care and Harvest
@@ -28,7 +29,7 @@ The king of perennial vegetables, asparagus can produce for 15-25 years from a s
 - Stop harvesting when spears are pencil-thin (usually mid-June)
 - Let ferns grow through summer to build crown energy
 - Cut ferns to ground after frost, mulch heavily for winter
-- Fertilize with compost or balanced organic fertilizer each spring
+- Fertilize with compost or balanced [[complete-organic-fertilizer-cof-recipe-solomon]] each spring
 
 ## Rhubarb (Rheum rhabarbarum)
 
@@ -99,8 +100,8 @@ Also called Egyptian onions or tree onions. They reproduce by forming bulbils at
 - **Sea kale (Crambe maritima)**: Blanched shoots in spring, zone 4-8
 - **Good King Henry (Chenopodium bonus-henricus)**: Spinach-like greens, zone 3-8
 - **Skirret (Sium sisarum)**: Sweet, parsnip-like roots, zone 4-8
-- **Jerusalem artichoke (Helianthus tuberosus)**: Productive but invasive — confine with barriers
-- **Stinging nettle (Urtica dioica)**: Nutritious spring greens (harvest with gloves), tea plant
+- **[[comparison-jerusalem-artichoke-vs-potato]] (Helianthus tuberosus)**: Productive but invasive — confine with barriers
+- **[[comparison-stinging-nettle-vs-horsetail]] (Urtica dioica)**: Nutritious spring greens (harvest with gloves), tea plant
 - **Hostas**: Young shoots are edible, similar to asparagus
 
 ## Design Considerations
@@ -111,6 +112,8 @@ Also called Egyptian onions or tree onions. They reproduce by forming bulbils at
 - Plan for long-term soil building — these beds accumulate organic matter over decades
 
 ## See Also
+
+- hemenway-perennial-vegetables
 
 - [[edible-landscaping]]
 - [[garden-bed-designs]]

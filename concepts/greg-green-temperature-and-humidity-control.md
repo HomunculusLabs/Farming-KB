@@ -1,5 +1,5 @@
 ---
-title: "Temperature and Humidity Control"
+title: "greg green temperature and humidity control Control"
 created: 2026-04-28
 tags: [cannabis, temperature, humidity, environment, climate]
 date: 2026-04-25
@@ -8,8 +8,8 @@ sources: [~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md]
 type: concept
 ---
 
-Environmental control, particularly temperature and humidity management,
-is fundamental to successful cannabis cultivation. [[green-cannabis-grow-bible-indoor-grow-room-setup]] and
+[[eclss-environmental-control-life-support]], particularly temperature and [[stamets-cultivator-humidity-management-fogging-systems]],
+is fundamental to successful [[query-how-does-no-till-cannabis-cultivation-work]]. [[green-cannabis-grow-bible-indoor-grow-room-setup]] and
 [[vegetable-storage-conditions-by-temperature-and-humidity]]
 
 - [[greg-green-odor-control-and-air-filtration]]
@@ -141,4 +141,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

@@ -1,5 +1,5 @@
 ---
-title: "Beer Brewing vs Wine Making"
+title: "comparison-beer-brewing-vs-cider-making vs Wine Making"
 created: 2026-04-28
 tags: [comparison, fermentation, brewing, wine, homesteading]
 date: 2026-04-25
@@ -18,7 +18,7 @@ agricultural ingredients into alcoholic beverages through yeast fermentation,
 they differ fundamentally in their starting materials, processes, timelines, and
 the skills required. Beer is brewed from malted grains and hops through a multi-
 stage process involving mashing, boiling, and fermentation. Wine is made
-primarily from pressed fruit juice, most commonly grapes, with a simpler
+primarily from pressed [[bionutrients-lab-fermented-fruit-juice-ffj]], most commonly grapes, with a simpler
 fermentation process but a longer aging requirement. For the homesteader, the
 choice between them depends on available ingredients, equipment investment, and
 the desired balance between active brewing labor and patient aging.
@@ -63,7 +63,7 @@ bottles.
 | Ingredient Control | Very high (malts, hops, yeast) | Moderate (fruit quality is primary) |
 | Equipment Cost | Moderate to high | Low to moderate |
 | Batch Size Flexibility | 1-10+ gallons typical | 1-30+ gallons typical |
-| Homestead Integration | Requires grain growing/hops | Requires fruit production |
+| Homestead Integration | Requires [[jeavons-grain-growing-mini-farms]]/hops | Requires fruit production |
 
 ## When to Choose Beer Brewing
 

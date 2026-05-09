@@ -14,11 +14,11 @@ Phytostabilization is a phytoremediation technique that uses plants to immobiliz
 
 Unlike phytoextraction, which removes contaminants from the site, phytostabilization focuses on reducing the bioavailability and mobility of pollutants through physical stabilization, chemical alteration, and biological transformation within the root zone.
 
-This approach is one of the principal mechanisms described in [[mycorrhizal-fungi-bioremediation]] and [[fungal-bioaccumulation-vs-biosorption]] mechanisms studied in fungal bioremediation systems.
+This approach is one of the principal mechanisms described in [[mycorrhizal-fungi-bioremediation]] and [[fungal-bioaccumulation-vs-biosorption]] mechanisms studied in [[staycare-composting-as-a-fungal-bioremediation-strategy]] systems.
 
 ## Applications for Heavy Metal Contamination
 
-Phytostabilization is most commonly applied to sites contaminated with heavy metals including lead, zinc, cadmium, copper, arsenic, and chromium.
+Phytostabilization is most commonly applied to sites contaminated with [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] including lead, zinc, cadmium, copper, arsenic, and chromium.
 
 These contaminants are non-degradable, making immobilization often more practical than destruction-based approaches for large contaminated areas.
 
@@ -30,17 +30,17 @@ Plants such as tall fescue (Festuca arundinacea), Indian mustard (Brassica junce
 
 Mine tailings and smelter-impacted soils often contain mixtures of metals at high concentrations that are toxic to most plants.
 
-Metal-tolerant grass species and [[mycoremediation-scale-up-challenges]] must be considered when integrating fungal inoculants with phytostabilization programs at the scale required for large mine land reclamation projects.
+Metal-tolerant grass species and mycoremediation-scale-up-challenges must be considered when integrating fungal inoculants with phytostabilization programs at the scale required for large mine land reclamation projects.
 
 ## Limitations and Long-Term Considerations
 
 Phytostabilization does not remove contaminants from the site, meaning contaminated land remains subject to institutional controls and land use restrictions indefinitely.
 
-The effectiveness of phytostabilization depends on maintaining appropriate soil conditions over time, as changes in pH, redox potential, or organic matter content can remobilize previously immobilized contaminants.
+The effectiveness of phytostabilization depends on maintaining appropriate soil conditions over time, as changes in pH, redox potential, or [[hamilton-composting-and-organic-matter-management]] content can remobilize previously immobilized contaminants.
 
 Drought, fire, or physical disturbance of the vegetative cover can compromise the stabilization function.
 
-Climate change may alter precipitation patterns and temperature regimes, potentially affecting both plant survival and contaminant stability in the long term.
+[[dighton-fungi-climate-change-feedback]] may alter precipitation patterns and temperature regimes, potentially affecting both plant survival and contaminant stability in the long term.
 
 [[factors-affecting-mycoremediation-efficiency]], and other remediation approaches to achieve comprehensive site-wide risk reduction.
 ## Practical Considerations
@@ -59,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

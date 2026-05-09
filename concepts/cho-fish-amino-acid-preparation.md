@@ -1,5 +1,5 @@
 ---
-title: Fish Amino Acid Preparation
+title: cho fish amino acid preparation Acid Preparation
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -8,13 +8,13 @@ sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
-Fish Amino Acid (FAA) is a nitrogen-rich liquid fertilizer made from
+Fish Amino Acid (FAA) is a nitrogen-rich [[jadam-liquid-fertilizer-nutritional-perspective]] made from
 fish waste through fermentation. It contains abundant nutrients and
 various types of amino acids that are directly absorbed by crops and
 stimulate microbial activity. FAA is one of the key
 [[cho-indigenous-microorganisms-collection-and-cultivation]]
 - Mosquito net and rubber band
-- Clay pot, plastic jar (PE container), or glass jar
+- Clay pot, plastic jar (PE container), or [[sterile-spore-print-collection-glass-jar-technique]]
 
 ## Preparation Method
 
@@ -41,7 +41,7 @@ FAA can be used continuously on leafy vegetables to increase yield
 and improve taste and fragrance.
 
 ### Compost and IMO Activation
-When making IMO or mixed compost, dilute FAA 1:1000 with water to
+When making IMO or [[cho-fermented-mixed-compost-methods]], dilute FAA 1:1000 with water to
 activate microorganisms in the mixture.
 
 ### Pest Control
@@ -54,7 +54,7 @@ Put the bones left over from FAA production into [[knf-water-soluble-calcium-pho
 
 ## When NOT to Use
 
-FAA should not be used during the reproductive growth period, as the
+FAA should not be used during the [[knf-reproductive-growth-stage]] period, as the
 nitrogen content may induce overgrowth and reduce fruit quality.
 
 ## Storage
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

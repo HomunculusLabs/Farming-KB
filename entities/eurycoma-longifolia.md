@@ -16,7 +16,7 @@ updated: 2026-04-28
 sources:
   - Ang, H.H. & Cheang, H.S. (2001). "Effects of Eurycoma longifolia Jack on laevator ani muscle." Archives of Pharmacal Research, 24(5), 437-440.
   - Talbott, S.M. et al. (2013). "Effect of Tongkat Ali extract on stress hormones and psychological mood state in moderately stressed subjects." Journal of the International Society of Sports Nutrition, 10(Suppl 1), P37.
-  - Ismail, S.B. et al. (2012). "Randomized clinical trial on the use of PHYSTA Freeze-dried water extraction of Eurycoma longifolia for the improvement of quality of life and sexual well-being in men." Evidence-Based Complementary and Alternative Medicine, 2012, 429268.
+  - Ismail, S.B. et al. (2012). "Randomized [[psilocybin-clinical-trial-landscape-2020-2025]] on the use of PHYSTA Freeze-dried water extraction of Eurycoma longifolia for the improvement of quality of life and sexual well-being in men." Evidence-Based Complementary and Alternative Medicine, 2012, 429268.
 aliases:
   - tongkat ali
   - longjack
@@ -29,7 +29,7 @@ updated: 2026-04-28
 
 # Eurycoma longifolia
 
-**Eurycoma longifolia** (tongkat ali, longjack, pasak bumi) is a flowering plant in the family Simaroubaceae, native to Southeast Asia. Renowned across Malaysia, Indonesia, and Thailand as a traditional male vitality tonic and aphrodisiac, its root has become one of the most commercially significant botanical extracts in the global supplement industry. Modern research has identified quassinoid compounds — particularly eurycomanone — as the primary bioactive constituents responsible for its ergogenic, pro-fertility, and anabolic properties.
+**Eurycoma longifolia** (tongkat ali, longjack, pasak bumi) is a flowering plant in the family Simaroubaceae, native to [[psilocybe-southeast-asia-pacific]]. Renowned across Malaysia, Indonesia, and Thailand as a traditional male vitality tonic and aphrodisiac, its root has become one of the most commercially significant botanical extracts in the global supplement industry. Modern research has identified quassinoid compounds — particularly eurycomanone — as the primary bioactive constituents responsible for its ergogenic, pro-fertility, and anabolic properties.
 
 ## Taxonomy and Nomenclature
 
@@ -50,13 +50,13 @@ updated: 2026-04-28
 
 **Flowers** are small, borne in dense axillary or terminal panicles up to 30 cm long. The plant is dioecious — male and female flowers occur on separate plants. Male flowers have 5 reddish-brown petals; female flowers are greenish and produce small drupes.
 
-**Fruit** is a drupe, approximately 1 cm in diameter, turning from green to reddish when ripe, containing a single seed. Propagation is primarily by seed, though stem cuttings and tissue culture are increasingly used commercially.
+**Fruit** is a drupe, approximately 1 cm in diameter, turning from green to reddish when ripe, containing a [[cervantes-selfing-single-seed-descent]]. Propagation is primarily by seed, though stem cuttings and [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] are increasingly used commercially.
 
 ## Geographic Distribution and Habitat
 
 *E. longifolia* is native to the tropical lowland and hill forests of Southeast Asia. Its range encompasses Peninsular Malaysia (where it is most abundant), Sumatra, Borneo (Kalimantan, Sabah, Sarawak), Java, the Lesser Sunda Islands, southern Thailand, Vietnam, Laos, Cambodia, and the Philippines. It typically grows at elevations of 0-500 meters in primary and secondary rainforest, often in well-drained soils on slopes and ridges.
 
-The species is semi-shade tolerant in seedling stage but requires increasing light as it matures. It thrives in acidic to neutral soils (pH 4.5-6.5) with high organic matter and annual rainfall exceeding 2,000 mm. Wild populations have declined significantly due to deforestation and unsustainable root harvesting.
+The species is semi-shade tolerant in seedling stage but requires increasing light as it matures. It thrives in acidic to neutral soils (pH 4.5-6.5) with high [[hamilton-composting-and-organic-matter-management]] and annual rainfall exceeding 2,000 mm. Wild populations have declined significantly due to deforestation and unsustainable root harvesting.
 
 ## Chemical Constituents
 

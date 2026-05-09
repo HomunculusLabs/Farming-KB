@@ -1,8 +1,8 @@
 ---
-title: "AACT Aerobic vs Anaerobic Brew Comparison — Ingham Framework"
+title: "AACT comparison-aerobic-vs-anaerobic-composting Brew Comparison — Ingham Framework"
 aliases:
   - aerobic versus anaerobic compost tea
-  - fermentative compost tea risks
+  - [[aerobic-vs-fermentative-compost-tea]] tea risks
   - compost tea toxicity comparison
   - ingham anaerobic tea critique
   - aact fct comparison
@@ -28,7 +28,7 @@ Dr. [[actively-aerated-compost-tea]] is fundamentally different from and superio
 Ingham defines five functions that a beneficial soil amendment should perform:
 
 1. **Plant protection** — prevent or reduce disease and pest pressure
-2. **Promote nutrient cycling** — facilitate conversion of nutrients to plant-available forms
+2. **Promote [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]** — facilitate conversion of nutrients to plant-available forms
 3. **Improve soil nutrient levels** — add or retain nutrients in the root zone
 4. **Build soil structure** — improve aggregation, porosity, and water-holding capacity
 5. **Remove toxins** — break down or neutralize harmful compounds
@@ -64,7 +64,7 @@ Aerobic compost tea contains the complete nutrient cycling food chain:
 
 1. **Bacteria and fungi** immobilize nutrients in their biomass, preventing leaching.
 2. **Protozoa** consume bacteria and release nitrogen and other nutrients in plant-available forms (primarily ammonium).
-3. **Beneficial nematodes** consume both bacteria and fungi, releasing larger pulses of plant-available nutrients.
+3. **[[ingham-beneficial-nematodes-soil-food-web]]** consume both bacteria and fungi, releasing larger pulses of plant-available nutrients.
 4. When plants actively take up nutrients, microbial growth slows and the community shifts to seek new nutrient sources.
 
 This creates a self-regulating nutrient delivery system that responds to plant demand — a natural slow-release fertility system.
@@ -92,7 +92,7 @@ Aerobic compost teas add organisms capable of breaking down pesticide residues, 
 
 ## The Plate Count Problem
 
-Proponents of anaerobic teas cite plate count studies showing pathogen inhibition. However, plate counts miss approximately 99.99% of bacterial and fungal species. Pathogen inhibition on a petri dish does not translate to disease suppression on a living plant. Dr. Eric Nelson at Cornell has published work showing no correlation between plate count results and actual disease suppressiveness.
+Proponents of anaerobic teas cite plate count studies showing pathogen inhibition. However, plate counts miss approximately 99.99% of [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] species. Pathogen inhibition on a petri dish does not translate to [[aact-disease-suppression-mechanisms-ingham]] on a living plant. Dr. Eric Nelson at Cornell has published work showing no correlation between plate count results and actual disease suppressiveness.
 
 ## Summary Table
 

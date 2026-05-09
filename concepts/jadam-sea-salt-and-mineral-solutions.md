@@ -15,7 +15,7 @@ Mineral supplementation is a cornerstone of JADAM soil management. Sea water (or
 
 ### Why Sea Water
 
-Sea water contains all elements that make up the earth -- not only Mg, Ca, K, and P essential for crop growth, but also I, Mn, Mo, Co, Se, Ge and many trace minerals. About 100 million marine microorganisms live in 1 mL of sea water. Combined with JADAM microorganism solution (JMS), this provides diversity from both land and sea.
+Sea water contains all elements that make up the earth -- not only Mg, Ca, K, and P essential for crop growth, but also I, Mn, Mo, Co, Se, Ge and many trace minerals. About 100 million marine microorganisms live in 1 mL of sea water. Combined with JADAM [[jadam-microorganism-solution-culturing]] (JMS), this provides diversity from both land and sea.
 
 ### Application Rate
 
@@ -29,7 +29,7 @@ Sea water contains all elements that make up the earth -- not only Mg, Ca, K, an
 - Replenishes minerals leached from soil
 - Improves sweetness, coloring, storage period, and product value
 - Contains S, Mg, Ca, K, B, P, I (essential for growth) plus Se and Ge (highly beneficial)
-- Foliar application of JMS + sea water eliminates powdery mildew
+- [[ultra-low-cost-foliar-application-methods]] of JMS + sea water eliminates [[cervantes-powdery-mildew-prevention-treatment]]
 - Even the Korean National Institute of Agricultural Sciences confirms benefits
 
 ### Cautions
@@ -55,7 +55,7 @@ Phyllite is a sedimentary rock formed from the accumulation of flora and fauna o
 2. Stir and let settle for a few hours
 3. Scoop out the upper water for use ("phyllite solution")
 4. Refill water when depleted; reuse for one year
-5. For serious mineral leaching, sprinkle phyllite powder directly on soil at 1 kg (2.2 lb) per 3.3 sq meters (36 sq ft)
+5. For serious [[jadam-natural-mineral-leaching-and-replenishment]], sprinkle phyllite powder directly on soil at 1 kg (2.2 lb) per 3.3 sq meters (36 sq ft)
 
 ### Benefits
 
@@ -70,7 +70,7 @@ If phyllite is not available, other rock powders can be used. The key is to use 
 
 ## The Core Technology
 
-JADAM's most important soil management instruction: "Apply JADAM indigenous microorganism solution (JMS), sea water, and phyllite solution every time you water." This is the path to:
+JADAM's most important soil management instruction: "Apply JADAM [[knf-indigenous-microorganism-culture]] solution (JMS), sea water, and phyllite solution every time you water." This is the path to:
 - Strong root settlement
 - High quality and high yield
 - Reversal of mineral deficiency
@@ -87,7 +87,7 @@ Modern science cannot precisely determine which mineral is deficient or in what 
 ## Sea Salt in Other JADAM Inputs
 
 - JMS medium: 0.5 kg sea salt per 500 L
-- Liquid fertilizer: add sea salt up to certain concentration to supplement minerals
+- [[jadam-liquid-fertilizer-nutritional-perspective]]: add sea salt up to certain concentration to supplement minerals
 - Soil foundation work: combined with JMS and phyllite solution
 
 ## Related

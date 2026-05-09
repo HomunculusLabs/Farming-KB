@@ -1,5 +1,5 @@
 ---
-title: The Field Ecosystem of a Natural Farm: Insects, Frogs, and Dragonflies
+title: The fukuoka textdoc field ecosystem natural farm insects frogs dragonflies of a Natural Farm: Insects, Frogs, and Dragonflies
 created: 2026-04-28
 tags:
   - ecology
@@ -25,12 +25,12 @@ thriving ecosystems teeming with life that is absent from chemically treated
 fields. His descriptions of the natural field reveal a complex web of predators
 and prey that self-regulates without human intervention. The presence of large
 Asiatic locusts, tree frogs, dragonflies, ground sparrows, and swallows in his
-fields is presented not as incidental but as evidence that ecological balance
+fields is presented not as incidental but as evidence that [[fukuoka-ecological-balance-principles]]
 eliminates the need for pest control.
 
 ## The Chain of Being in the Rice Field
 
-The natural ecosystem is an incredibly complex array of interdependently linked
+The [[fukuoka-natural-ecosystem-food-chain-interconnection]] is an incredibly complex array of interdependently linked
 organisms, none of which live separate from the rest. Fukuoka describes the food
 chain in his fields: spiders kill rice borers and leafhoppers which feed on rice;
 mites kill the spiders; predaceous mites feed on these mites; ladybugs feed on
@@ -59,13 +59,13 @@ The irony is that pesticide use creates the very conditions it is meant to
 prevent. By killing natural predators along with target pests, pesticides trigger
 population explosions of surviving pest species that no longer face natural
 controls. Fukuoka witnessed this repeatedly during his years at the Kochi
-Prefecture Agricultural Testing Station.
+Prefecture Agricultural [[fukuoka-straw-scattering-testing-station-resistance]].
 
 ## The Myth of Beneficial Insects
 
-Fukuoka rejects the common distinction between beneficial insects and pests.
+Fukuoka rejects the common distinction between [[coleman-beneficial-insects-and-ecological-pest-control]] pests.
 To someone who understands the chain of being that links together the world of
-living organisms, there is no way of telling which organisms are beneficial
+[[savory-living-organisms-as-tools]], there is no way of telling which organisms are beneficial
 predators and which are pests. By meddling with controls, all man accomplishes is
 destruction of the natural order.
 

@@ -1,7 +1,7 @@
 ---
 title: Fungi in Boreal and Tundra Ecosystems
 created: 2026-04-26
-sources: Dighton (2003) "Fungi in Ecosystem Processes" Ch. 2, 3
+sources: Dighton (2003) "Fungi in fungal-ecosystem-processes-overview" Ch. 2, 3
 tags: [boreal, tundra, arctic, lichen, permafrost, cold-soil, taiga, ericoid-mycorrhiza]
 related: [dighton-fungal-biodiversity-forest-ecosystems, dighton-fungal-decomposition-nutrient-cycling]
 type: concept
@@ -12,7 +12,7 @@ updated: 2026-04-26
 
 ## Overview
 
-Boreal and tundra ecosystems are characterized by cold temperatures, short growing seasons, and slow decomposition rates. Fungi -- particularly lichens, ericoid mycorrhizae, and ectomycorrhizae -- dominate these ecosystems due to their ability to tolerate environmental stress, persist through long periods of inactivity, and function at low temperatures. Their role in nutrient cycling and primary production is disproportionately large relative to their biomass.
+Boreal and tundra ecosystems are characterized by cold temperatures, short growing seasons, and slow decomposition rates. Fungi -- particularly lichens, ericoid mycorrhizae, and ectomycorrhizae -- dominate these ecosystems due to their ability to tolerate environmental stress, persist through long periods of inactivity, and function at low temperatures. Their role in nutrient cycling and [[lichens-primary-production-soil-formation-dighton]] is disproportionately large relative to their biomass.
 
 ## Mycorrhizal Distribution in Cold Ecosystems
 
@@ -20,12 +20,12 @@ Read (1991a,b) placed boreal and arctic ecosystems at the cold end of his mycorr
 - **High latitudes and altitudes**: Climatic constraints slow decomposition → recalcitrant organic matter accumulates
 - **Ericoid mycorrhizae** dominate in boreal heathlands
 - **Ectomycorrhizae** dominate in boreal forests
-- Plants produce high concentrations of secondary metabolites (lignin, polyphenols), making litter resistant to decomposition
+- Plants produce high concentrations of [[antifungal-secondary-metabolites-coprophilous-fungi]] (lignin, polyphenols), making litter resistant to decomposition
 - Most nutrients exist in organic forms inaccessible to non-mycorrhizal plants
 
 ## Ericoid Mycorrhizae and Organic Nutrient Acquisition
 
-In boreal heathlands, ericoid mycorrhizal fungi are essential for plant survival because:
+In boreal heathlands, [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] fungi are essential for plant survival because:
 
 ### Nitrogen Acquisition
 - **70%** of soil N is hydrolysable organic N; **<1%** is extractable NH₄⁺ (Read and Kerley, 1995)
@@ -35,7 +35,7 @@ In boreal heathlands, ericoid mycorrhizal fungi are essential for plant survival
 - Salal (*Gautheria shallon*) ericoid mycorrhizae (*Oidiodendron maius*, *Acremonium strictum*) utilize glutamine, glutathione, and proteins as N sources (Xiao and Berch, 1999)
 
 ### Phosphorus Acquisition
-- Phosphatase enzymes release P from organic compounds (Pearson and Read, 1975; Mitchell and Read, 1981)
+- Phosphatase enzymes release P from [[fungal-volatile-organic-compounds-communication]] (Pearson and Read, 1975; Mitchell and Read, 1981)
 - *Vaccinium macrocarpon* accesses P from inositol hexaphosphate and both P and N from phosphodiesters in nuclei (Myers and Leake, 1996; Leake and Miles, 1996)
 
 ### Heavy Metal Tolerance
@@ -114,7 +114,7 @@ Lamontagne (1998) studied the mosaic of land cover in Alaskan taiga:
 - **Forest islands** (27% of catchment): Nutrients utilized by immobilization into tree biomass
 - **Bedrock with crustose lichens** (49% of catchment)
 - Higher N mineralization in lichen patches attributed to lower N immobilization into lichen tissue vs. tree tissue
-- Lichen-dominated upper slopes export soluble mineral and dissolved organic N via runoff to lower forest islands
+- Lichen-dominated upper slopes export soluble mineral and [[dighton-fungal-dissolved-organic-carbon-production]] N via runoff to lower forest islands
 
 ## Climate Change Implications for Boreal/Tundra Fungi
 
@@ -135,4 +135,7 @@ Lamontagne (1998) studied the mosaic of land cover in Alaskan taiga:
 
 - [[fungal-diversity-boreal-forests-taiga]]
 - [[fungal-roles-in-old-growth-forests]]
-- [[fungal-biodiversity-forest-floor]]
+- fungal-biodiversity-forest-floor
+- [[decomposition]]
+- [[oidiodendron-maius]]
+- [[ectomycorrhiza]]

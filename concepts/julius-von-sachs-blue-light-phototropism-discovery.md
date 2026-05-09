@@ -1,5 +1,5 @@
 ---
-title: "Julius von Sachs and the Discovery of Blue-Light Phototropism"
+title: "chamovitz-julius-von-sachs-blue-light-phototropism Sachs and the Discovery of Blue-Light Phototropism"
 created: 2026-04-28
 tags: [sachs, phototropism, blue-light, plant-biology, history-of-science,
       darwin, photoreception, plant-movement, botany]
@@ -18,7 +18,7 @@ type: concept
 
 Julius von Sachs, a contemporary of Charles Darwin, made one of the
 most important early discoveries in plant photobiology when he
-demonstrated that blue light is the primary colour that induces
+demonstrated that [[cryptochrome-and-blue-light-photoreception]] is the primary colour that induces
 phototropism in plants. His finding, established in 1864, revealed
 that plants are not equally responsive to all colours of light and
 that they possess a specific sensitivity to particular wavelengths,
@@ -67,7 +67,7 @@ colours.
 Sachs's discovery had profound implications for plant biology. If
 plants responded differently to different colours of light, then
 they must possess some mechanism for distinguishing between
-wavelengths. This meant that plant light perception was not a
+wavelengths. This meant that plant [[plant-vision-and-light-perception-mechanisms]] was not a
 simple on-off switch governed by total light intensity but rather
 a sophisticated system capable of spectral discrimination.
 
@@ -114,7 +114,7 @@ Sachs's original observation in elegant molecular detail. When
 blue light strikes the tip of a seedling, phototropins in the
 coleoptile apex absorb the photons and trigger a signalling
 cascade involving auxin redistribution. Auxin accumulates on
-the shaded side of the stem, promoting cell elongation there
+the shaded side of the stem, promoting [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] there
 and causing the plant to bend towards the light. This mechanism
 directly connects Sachs's nineteenth-century discovery to
 twenty-first-century molecular biology.

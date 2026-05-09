@@ -25,17 +25,17 @@ In The Natural Way of Farming, [[masanobu-fukuoka]] argued that Liebig's law, wh
 
 ### Reduction of Biology to Chemistry
 
-The law treats soil as an inert substrate and plants as chemical processing machines. In reality, soil is a living ecosystem teeming with microorganisms, fungi, earthworms, and other organisms whose interactions determine nutrient availability.
+The law treats soil as an inert substrate and plants as chemical processing machines. In reality, soil is a living ecosystem teeming with microorganisms, fungi, earthworms, and other organisms whose interactions determine [[ph-and-nutrient-availability-garden-soils]].
 
 One gram of Fukuoka's farm soil contained about 100 million nitrogen-fixing bacteria and other soil-enriching microbes. These biological processes cannot be reduced to simple chemical inputs.
 
-When chemical fertilizers are applied, they bypass and often disrupt these biological pathways. Nitrogen-fixing bacteria reduce their activity in the presence of readily available ammonium nitrate. Mycorrhizal associations atrophy when phosphorus is supplied directly. The living soil system degrades.
+When [[cervantes-chemical-fertilizers-guide]] are applied, they bypass and often disrupt these biological pathways. Nitrogen-fixing bacteria reduce their activity in the presence of readily available ammonium nitrate. Mycorrhizal associations atrophy when phosphorus is supplied directly. The living soil system degrades.
 
 ### The Problem of Isolated Variables
 
 Liebig's law studies nutrients in isolation, but plants do not absorb nutrients in isolation. Nutrient uptake depends on complex interactions between soil chemistry, soil biology, soil physics, plant physiology, weather, and microbial activity.
 
-Fukuoka noted that scientific agriculture, by studying isolated variables, inevitably fails to understand the whole. Each variable interacts with every other variable in ways that laboratory experiments cannot capture. The result is recommendations that work under controlled conditions but produce unexpected problems in the field.
+Fukuoka noted that [[fukuoka-critique-scientific-agriculture-civilization]], by studying isolated variables, inevitably fails to understand the whole. Each variable interacts with every other variable in ways that laboratory experiments cannot capture. The result is recommendations that work under controlled conditions but produce unexpected problems in the field.
 
 ### The Escalation of Inputs
 
@@ -45,9 +45,9 @@ Fukuoka observed that this creates a dependency on chemical inputs. As the biolo
 
 ### Ignoring Self-Regulation
 
-Natural ecosystems do not suffer from the nutrient deficiencies that Liebig's framework predicts. A forest, meadow, or prairie maintains its productivity for millennia without any fertilizer application. This is because natural systems are self-regulating: biological processes ensure that all necessary nutrients are available in appropriate quantities and forms.
+Natural ecosystems do not suffer from the [[hamilton-nutrient-deficiencies-and-treatment]] that Liebig's framework predicts. A forest, meadow, or prairie maintains its productivity for millennia without any [[cervantes-fertilizer-application-strain-feeding]]. This is because natural systems are self-regulating: biological processes ensure that all necessary nutrients are available in appropriate quantities and forms.
 
-The key insight is that nutrient availability in natural systems is governed by biological cycles, not chemical stocks. Decomposition, mineralization, nitrogen fixation, mycorrhizal exchange, and root exudation all operate continuously to recycle nutrients and make them available to plants. These processes are self-adjusting and require no external management.
+The key insight is that nutrient availability in natural systems is governed by biological cycles, not chemical stocks. Decomposition, mineralization, [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], mycorrhizal exchange, and root exudation all operate continuously to recycle nutrients and make them available to plants. These processes are self-adjusting and require no external management.
 
 In [[liebig-law-of-minimum-critique]]
 - [[fukuoka-critique-of-liebig-law-of-minimum]]
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

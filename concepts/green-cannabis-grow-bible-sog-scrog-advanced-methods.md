@@ -1,5 +1,5 @@
 ---
-title: SOG, ScrOG, and Advanced Indoor Grow Methods - Greg Green's Cannabis Grow Bible
+title: SOG, ScrOG, and Advanced Indoor Grow Methods - Greg Green's green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible
 created: 2026-04-26
 tags:
   - sog
@@ -18,8 +18,8 @@ type: concept
 
 Chapter 8 of Greg Green's Cannabis Grow Bible covers advanced indoor
 growing techniques that maximize yield by concentrating on top cola
-production. The three most common methods are SOG (Sea of Green),
-ScrOG (Screen of Green), and Cabinet Growing.
+production. The three most common methods are SOG ([[comparison-sea-of-green-vs-screen-of-green]]),
+ScrOG ([[cannabis-screen-of-green-scrog-guide]]), and Cabinet Growing.
 
 ## The Principle Behind Advanced Methods
 
@@ -62,7 +62,7 @@ ScrOG uses fewer plants than SOG combined with a training screen:
 4. Do not flower until plants have covered the entire mesh with green.
 5. Train plants to grow horizontally under the screen by weaving
    branches through the netting.
-6. Continue training for 2 weeks into the flowering cycle, then let
+6. Continue training for 2 weeks into the [[cannabis-sativa-flowering-cycle-management]], then let
    tops grow vertically through the screen.
 7. Train main growing tops to the outside of the screen (they grow
    tallest).
@@ -124,13 +124,13 @@ Setup details:
 - Walls painted flat white or covered with Mylar for reflection.
 - A large hole near the top for exhaust (hot air rises) with a fan.
 - An intake hole on the opposite side (intake fan moves slightly
-  faster than exhaust to maintain fresh air circulation).
+  faster than exhaust to maintain fresh [[stamets-growing-room-air-circulation-co2-management]]).
 - Plants go through their entire life cycle within the cabinet.
 - Clones are kept in a small compartment (1-2 fluorescent lights) at
   the top near the exhaust fan.
 - After harvest, clones move into the main grow space.
 
-This creates a perpetual grow cycle. With the right strains, a cabinet
+This creates a [[cannabis-perpetual-grow-cycle]] cycle. With the right strains, a cabinet
 can produce a harvest every 30 days.
 
 ## Advanced Set-Ups
@@ -140,12 +140,10 @@ Expert growers scale these methods to entire rooms:
 - Multiple vertically suspended HPS lights.
 - Full reflective coverage (flat white paint and Mylar).
 - Multiple air ducts, extraction fans, and CO2 generators.
-- Light movers (Light Rail III or Sun Circle) to cover large areas.
-- Ozone generators for odor control.
 ## See Also
+
+- [[green-cannabis-harvesting-processing]]
 - [[green-cannabis-grow-bible-seed-selection-and-seed-banks]]
 - [[green-cannabis-grow-bible-soil-and-medium-preparation]]
 
 ## See Also
-
-- [[green-cannabis-grow-bible-outdoor-growing]]

@@ -1,5 +1,5 @@
 ---
-title: "Lysergic Acid Morpholide (LSM)"
+title: "ergot-and-lysergic-acid-history Morpholide (LSM)"
 created: 2026-04-28
 updated: 2026-04-28
 type: chemical
@@ -54,7 +54,7 @@ In LSD, the amide nitrogen bears two ethyl groups (diethylamide), while in LSM t
 nitrogen is incorporated into a morpholine ring system.
 
 This cyclization constrains the conformational flexibility of the amide group and
-introduces a polar oxygen atom. The effects on receptor binding and metabolic
+introduces a polar oxygen atom. The effects on [[tihkal-receptor-binding-serotonin]] and metabolic
 stability are discussed in the pharmacology section.
 
 LSM is soluble in organic solvents including ethanol, methanol, and DMSO, and insoluble
@@ -102,8 +102,8 @@ fatigue and mild emotional sensitivity in the 24–48 hours following the experi
 
 ## Legal Status
 
-LSM is controlled as a Schedule I substance under the United States Controlled
-Substances Act via the Federal Analogue Act, as it is substantially similar to LSD.
+LSM is controlled as a Schedule I substance under the [[dmt-containing-plants-united-states-halpern]] Controlled
+[[controlled-substances-act-and-psychedelic-research]] via the Federal Analogue Act, as it is substantially similar to LSD.
 Possession, sale, and synthesis are prohibited without DEA registration.
 
 In the United Kingdom, LSM is controlled as a Class A drug under the Misuse of Drugs
@@ -134,7 +134,7 @@ it remains far less common than LSD, 1P-LSD, ALD-52, or ETH-LAD.
 - **LSD (Lysergic acid diethylamide):** Parent compound; more potent and widely studied
 - **ALD-52 (1-Acetyl-LSD):** Acetylated analogue; nearly equipotent to LSD
 - **ETH-LAD:** Ethyl-substituted lysergamide with reported increased potency
-- **LSA (Lysergic acid amide):** Naturally occurring ergoline in *Ipomoea* spp.; lower potency
+- **LSA (Lysergic [[lysergic-acid-amide-containing-plants-halpern]]):** Naturally occurring ergoline in *Ipomoea* spp.; lower potency
 - **1P-LSD:** 1-Propionyl-LSD prodrug; converts to LSD in vivo
 
 ## See Also

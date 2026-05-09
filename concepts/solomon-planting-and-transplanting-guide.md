@@ -1,5 +1,5 @@
 ---
-title: Solomon Planting and Transplanting Guide
+title: Solomon solomon planting and transplanting guide Guide
 created: 2026-04-18
 updated: 2026-04-18
 sources: Gardening When It Counts (Steve Solomon)
@@ -89,7 +89,7 @@ Solomon provides several reasons to avoid transplants when possible:
 2. Transplants require more water until their root systems recover
 3. The cost of transplants (if purchased) is high compared to seed
 4. Direct-seeded plants are more drought-resistant
-5. Transplant shock can set plants back significantly, especially in hot weather
+5. [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]] can set plants back significantly, especially in hot weather
 6. The labor of raising transplants is significant if done at home
 
 ## Succession Planting

@@ -1,5 +1,5 @@
 ---
-title: "LSD (D-lysergic acid diethylamide)"
+title: "LSD (D-lysergic lsd-lysergic-acid-diethylamide-experience-guide)"
 created: 2026-04-28
 type: chemical
 tags: [psychedelic, ergoline, serotonergic, tryptamine-derivative, controlled-substance]
@@ -14,7 +14,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md]
 
 ## Chemical Structure and Properties
 
-LSD is a derivative of lysergic acid, which is itself derived from ergotamine, an alkaloid produced by the ergot fungus *Claviceps purpurea*. The molecule has the molecular formula C₂₀H₂₅N₃O and a molecular weight of 323.43 g/mol. Its IUPAC name is (6aR,9R)-N,N-diethyl-7-methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide.
+LSD is a derivative of lysergic acid, which is itself derived from ergotamine, an alkaloid produced by the ergot fungus *[[bloomfield-ergot-claviceps-purpurea-ergotism]]*. The molecule has the molecular formula C₂₀H₂₅N₃O and a molecular weight of 323.43 g/mol. Its IUPAC name is (6aR,9R)-N,N-diethyl-7-methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide.
 
 LSD is a chiral molecule; only the D-(+)-isomer is psychoactive. The L-(−)-isomer (LAE) is biologically inactive. LSD is typically encountered as the tartrate salt, a white crystalline powder soluble in water and ethanol. It is sensitive to light, oxygen, heat, and chlorine, and must be stored in cool, dark conditions to prevent degradation.
 
@@ -41,7 +41,7 @@ LSD also has significant affinity for the **TAAR1** (trace amine-associated rece
 The effects of LSD include:
 
 - **Visual**: Intensification of colors, geometric patterns (form constants), trailing afterimages, synesthesia, and altered perception of movement and space
-- **Cognitive**: Altered thought patterns, philosophical insights, ego dissolution, enhanced creativity, and enhanced emotional responsiveness
+- **Cognitive**: Altered thought patterns, philosophical insights, [[psilocybin-ego-dissolution-mechanisms]], enhanced creativity, and enhanced emotional responsiveness
 - **Somatic**: Pupil dilation, increased body temperature, elevated heart rate, nausea (early in the experience), and changes in sensory perception
 - **Emotional**: Euphoria, anxiety, awe, and intense emotional experiences ranging from profound connection to existential distress
 
@@ -61,11 +61,11 @@ LSD escaped the laboratory and became a defining substance of the 1960s counterc
 
 ### Modern Resurgence (2000s–present)
 
-Clinical research on LSD resumed in the 21st century. The **Multidisciplinary Association for Psychedelic Studies (MAPS)** and other organizations have conducted modern clinical trials exploring LSD-assisted psychotherapy for anxiety associated with life-threatening illness, cluster headaches, and other conditions.
+Clinical research on LSD resumed in the 21st century. The **[[maps-multidisciplinary-association-for-psychedelic-studies]] for Psychedelic Studies (MAPS)** and other organizations have conducted modern [[mushroom-cancer-clinical-trials-overview]] exploring LSD-assisted psychotherapy for anxiety associated with life-threatening illness, cluster headaches, and other conditions.
 
 ## Legal Status
 
-LSD is a Schedule I controlled substance under the United Nations Convention on Psychotropic Substances (1971). It is classified as Schedule I in the United States, Class A in the United Kingdom, and similarly restricted in most countries worldwide.
+LSD is a Schedule I controlled substance under the United Nations Convention on Psychotropic Substances (1971). It is classified as Schedule I in the [[dmt-containing-plants-united-states-halpern]], Class A in the United Kingdom, and similarly restricted in most countries worldwide.
 
 ## See Also
 
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

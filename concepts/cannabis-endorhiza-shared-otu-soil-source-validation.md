@@ -1,5 +1,5 @@
 ---
-title: "Shared OTU Analysis Validating Soil as Endorhiza Microbe Source in Cannabis"
+title: "cannabis endorhiza shared otu soil source validation Analysis Validating Soil as Endorhiza Microbe Source in Cannabis"
 source: "understanding-cultivar-specificity-cannabis-microbiome.md"
 tags: [cannabis, microbiome, endorhiza, otu, soil-source, colonization, two-tier-model, shared-taxa]
 created: 2026-05-08
@@ -9,10 +9,10 @@ created: 2026-05-08
 
 ## Overview
 
-A central prediction of the two-tier selection model for root microbiomes is
+A central prediction of the two-tier [[two-tier-selection-model-plant-microbiome]] for root microbiomes is
 that endorhiza (root-inhabiting) bacteria are primarily recruited from the
 surrounding bulk soil, with subsequent filtering by host genotype. The Winston
-et al. (2014) Cannabis microbiome study tested this prediction directly by
+et al. (2014) [[cultivar-cannabis-microbiome-two-tier-selection-model]] study tested this prediction directly by
 comparing shared operational taxonomic units (OTUs) between endorhiza samples
 and their native soil versus a foreign soil in which the same cultivar was
 grown. The results provide strong support for the soil-as-source hypothesis.
@@ -23,7 +23,7 @@ The test was made possible by the second experiment, which grew the White
 Widow cultivar in two chemically distinct soil types:
 
 - **MB soil** (Mo-Bio laboratory soil): Higher nitrogen (0.26%), moderate
-  organic carbon (3.02%), pH 6.63, moderate salinity
+  [[dighton-fungal-dissolved-organic-carbon-production]] (3.02%), pH 6.63, moderate salinity
 - **OC soil** (Orange County field soil): Lower nitrogen (0.53%), much higher
   organic carbon (20.0%), pH 6.77, low salinity
 
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

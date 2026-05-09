@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Sanders WB, Lücking R. (2015). "Phylogenetic evaluation of Thamnolia vermicularis and its placement in the Icmadophilaceae." Lichenologist 47(5): 419-427.
-  - Brodo IM, Sharnoff SD, Sharnoff S. (2001). Lichens of North America. Yale University Press.
+  - Brodo IM, Sharnoff SD, Sharnoff S. (2001). Lichens of [[psilocybin-north-america-pacific-northwest]]. Yale University Press.
   - Wirth V, Hauck M, Schultz M. (2013). Die Flechten Deutschlands. Eugen Ulmer.
   - Ahti T, Stenroos S, Moberg R. (2007). "Thamnoliaceae." Nordic Lichen Flora 3: 61-66.
 ---
@@ -44,7 +44,7 @@ Thamnolia vermicularis has a bipolar distribution, occurring in arctic and alpin
 
 In North America, T. vermicularis ranges from arctic Alaska and northern Canada south through the Rocky Mountains and Sierra Nevada to New Mexico. In Europe, it occurs in Scandinavia, the Alps, Carpathians, and Scottish Highlands.
 
-Southern Hemisphere populations are found in Patagonia, the Andes of South America, New Zealand, and subantarctic islands. The disjunct distribution has been attributed to long-distance dispersal or ancient continental vicariance.
+[[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] populations are found in Patagonia, the Andes of South America, New Zealand, and subantarctic islands. The disjunct distribution has been attributed to long-distance dispersal or ancient continental vicariance.
 
 The species colonizes acidic soil, humus, moss mats, and decaying plant material in open, exposed habitats. It is characteristic of arctic tundra, alpine meadows, fell-fields, and wind-swept ridge crests.
 
@@ -52,7 +52,7 @@ T. vermicularis is most abundant in areas with prolonged snow cover, where it em
 
 ## Chemistry
 
-Thamnolia vermicularis is chemically polymorphic, with two primary chemotypes distinguished by their medullary secondary metabolites. Chemotype I contains thamnolic acid, while Chemotype II contains squamatic acid.
+Thamnolia vermicularis is chemically polymorphic, with two primary chemotypes distinguished by their medullary [[antifungal-secondary-metabolites-coprophilous-fungi]]. Chemotype I contains thamnolic acid, while Chemotype II contains squamatic acid.
 
 Thamnolic acid produces the spot test reactions K+ yellow → deep red, C–, PD+ orange-red. Squamatic acid gives K+ yellow → orange, C+ faint pink, PD+ orange. Both chemotypes are morphologically indistinguishable.
 
@@ -60,7 +60,7 @@ Geographic distribution of chemotypes shows some correlation with latitude and c
 
 Both compounds have documented antimicrobial and antioxidant properties, though these have been more extensively studied in thamnolic acid. The ecological function of these compounds is likely UV protection and anti-herbivore defense.
 
-Chemical analysis using TLC is the primary method for distinguishing chemotypes in field collections. The two chemotypes do not correspond to separate species based on molecular phylogenetic evidence.
+[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] using TLC is the primary method for distinguishing chemotypes in field collections. The two chemotypes do not correspond to separate species based on molecular phylogenetic evidence.
 
 ## Ecology and Ethnobotany
 

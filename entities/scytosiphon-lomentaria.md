@@ -21,7 +21,7 @@ sources:
 
 **Scytosiphon lomentaria**, commonly known as the chain bladder seaweed or horsehair seaweed, is a small brown alga in the family Scytosiphonaceae. It is among the most widely distributed brown algae globally, occurring in temperate and cold waters of both hemispheres.
 
-The species is characterized by its hollow, constricted, sausage-link-shaped fronds and its remarkably flexible life cycle. It is edible and consumed in parts of East Asia, and it has been investigated for its bioactive fucoidan compounds and potential in integrated aquaculture systems.
+The species is characterized by its hollow, constricted, sausage-link-shaped fronds and its remarkably flexible [[bloomfield-fungal-life-cycle-spiral-versus-circle]]. It is edible and consumed in parts of [[neurotropic-fungi-japan-east-asia-species-cultural-context]], and it has been investigated for its bioactive fucoidan compounds and potential in integrated aquaculture systems.
 
 ## Taxonomy and Morphology
 
@@ -61,7 +61,7 @@ S. lomentaria is a pioneer species in intertidal succession, often among the fir
 
 The species supports diverse epiphytic communities, including diatoms, juvenile stages of other algae, and small invertebrates. Its fronds provide shelter for amphipods and small crustaceans in the lower intertidal zone.
 
-Herbivory by gastropods (particularly littorinid snails) is a significant source of mortality. S. lomentaria compensates with rapid regrowth and high reproductive output, producing large numbers of zoospores throughout the growing season.
+Herbivory by gastropods (particularly littorinid snails) is a significant source of mortality. S. lomentaria compensates with rapid regrowth and high reproductive output, producing large numbers of zoospores throughout the [[savory-growing-season-and-non-growing-season-management]].
 
 ## Cultivation and Uses
 
@@ -81,7 +81,7 @@ Environmental conditions strongly influence the life cycle. Reduced daylength an
 
 ## Invasive Potential
 
-S. lomentaria is considered an opportunistic species with documented invasive behavior in several regions outside its native range. Introduced populations have been recorded in the Mediterranean, southern hemisphere, and tropical waters facilitated by hull fouling and ballast water transport.
+S. lomentaria is considered an opportunistic species with documented invasive behavior in several regions outside its native range. Introduced populations have been recorded in the Mediterranean, [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], and tropical waters facilitated by hull fouling and ballast water transport.
 
 The species' ability to form persistent microscopic stages and colonize artificial substrates makes it an effective colonizer of novel environments. In some ports and harbors, it is among the most abundant fouling algae on docks and pier pilings.
 
@@ -91,7 +91,7 @@ Despite its invasive tendencies, ecological impacts are generally considered low
 
 S. lomentaria has served as a model organism for studies of brown algal life cycle regulation, particularly the environmental cues controlling phase transitions. Research on photoperiod and temperature effects has elucidated mechanisms of seasonal phase alternation.
 
-The species is widely used in ecotoxicology as a bioindicator organism for heavy metal contamination and water quality assessment. Its broad distribution and ease of laboratory culture make it practical for standardized toxicity testing protocols.
+The species is widely used in ecotoxicology as a bioindicator organism for [[dighton-fungal-biosorption-heavy-metal-remediation]] contamination and water quality assessment. Its broad distribution and ease of laboratory culture make it practical for standardized toxicity testing protocols.
 
 Genomic resources for S. lomentaria are under development as part of broader brown algal genomics initiatives. Transcriptomic studies have identified genes involved in fucoidan biosynthesis and stress responses, providing targets for biotechnological applications.
 

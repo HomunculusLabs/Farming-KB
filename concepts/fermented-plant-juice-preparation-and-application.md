@@ -1,5 +1,5 @@
 ---
-title: Fermented Plant Juice Preparation And Application
+title: bionutrients-lab-fermented-plant-juice-fpj Preparation And Application
 created: 2026-04-28
 tags: [fermented-plant-juice, natural-farming, KNF, plant-nutrition]
 date: 2026-04-25
@@ -13,8 +13,8 @@ type: concept
 [[korean-natural-farming]]
 (KNF) developed by Dr. Han Kyu Cho. FPJ is a fermented extract of a
 plant's sap and chlorophylls, producing a rich enzyme solution full
-of microorganisms such as [[natural-farming]] guide, FPJ serves as a natural growth stimulant,
-pest management tool, and plant health enhancer that can replace
+of microorganisms such as [[natural-farming]] guide, FPJ serves as a [[ingham-natural-growth-regulators-soil-microbes]] stimulant,
+[[cannabis-pest-management-guide]] tool, and plant health enhancer that can replace
 commercial fertilizers and synthetic growth hormones.
 
 ## Understanding FPJ
@@ -44,7 +44,7 @@ the final FPJ. Several criteria guide plant selection:
 
 ### Recommended Plant Sources by Growth Stage
 
-- For germination to early vegetative growth: Mugwort (Artemisia
+- For germination to early [[cannabis-vegetative-growth-stage]]: Mugwort (Artemisia
   vulgaris) and bamboo shoot FPJs help crops become resistant
   against cold and grow fast and strong
 - For vegetative growth: Arrowroot and bamboo shoot FPJs, as well as
@@ -57,7 +57,7 @@ the final FPJ. Several criteria guide plant selection:
 
 Best results come from using FPJ made from the same crop family:
 - Tomato: lateral buds of stems and leaves
-- Squash and sweet potato: vines from the same crops
+- Squash and [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]: vines from the same crops
 - Pinched shoots of plants (not contaminated by chemicals)
 
 ## Timing of Collection
@@ -118,7 +118,7 @@ FPJ is normally used at a dilution rate of 1:800 to 1:1000 in water.
 During germination and early vegetative growth, use lower
 concentrations at 1:1000 dilution. During active vegetative growth,
 1:800 to 1:1000 is appropriate. When FPJ is combined with other
-Natural Farming inputs, additional water should be added to the
+[[comparison-natural-farming-vs-permaculture]] inputs, additional water should be added to the
 solution to maintain proper overall dilution.
 
 ## When NOT to Use FPJ

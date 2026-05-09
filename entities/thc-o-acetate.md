@@ -1,5 +1,5 @@
 ---
-title: "THC-O Acetate (THC-O, THC Acetate)"
+title: "THC-O Acetate (THC-O, cannabis-thc-acetate-preparation)"
 created: 2026-04-28
 type: chemical
 tags:
@@ -37,7 +37,7 @@ sources:
 THC-O acetate is the **acetylated derivative** of Δ⁹-THC, formed by esterification of the phenolic hydroxyl group at the C-1 position of the cannabinoid ring system with acetic anhydride. This structural modification:
 
 - **Increases lipophilicity** (log P ≈ 7.5–8.0), enhancing blood-brain barrier penetration
-- **Eliminates the free phenolic OH group**, fundamentally altering receptor binding dynamics
+- **Eliminates the free phenolic OH group**, fundamentally altering [[tihkal-receptor-binding-serotonin]] dynamics
 - **Increases metabolic stability** relative to THC, delaying first-pass hepatic degradation
 - **Enhances pro-drug characteristics** — the acetate ester must be cleaved by esterases in vivo to release active THC, contributing to delayed onset
 
@@ -48,7 +48,7 @@ The acetylation reaction is analogous to the conversion of morphine to heroin (d
 ### Military Research (1940s–1970s)
 - First synthesized by the **U.S. Army Chemical Corps** at **Edgewood Arsenal** in the late 1940s as part of the **Edgewood Arsenal experiments** (Project EA 1729)
 - Investigated as a potential **non-lethal incapacitating agent** for military applications
-- Classified as a chemical warfare agent candidate (code name **EA-2233**) alongside THC and other cannabinoid derivatives
+- Classified as a [[solomon-root-exudates-and-allelopathy]] agent candidate (code name **EA-2233**) alongside THC and other cannabinoid derivatives
 - Research demonstrated that THC-O acetate was **2–3 times more potent** than THC in animal models, with a significantly delayed onset of effects (1–2 hours vs. minutes for inhaled THC)
 - The military program was discontinued in the 1970s
 
@@ -73,7 +73,7 @@ The prodrug mechanism accounts for the characteristically **delayed onset** of e
 
 ### Potency
 - Reported to be approximately **2–3 times more potent** than Δ⁹-THC by weight
-- Increased potency is attributed to enhanced bioavailability and blood-brain barrier penetration rather than higher receptor affinity
+- Increased potency is attributed to [[staycare-surfactant-enhanced-bioavailability-in-fungal-bioremediation]] and blood-brain barrier penetration rather than higher receptor affinity
 - Users consistently report that effects are subjectively stronger, more psychedelic, and more sedating than conventional THC
 - Effective dose is estimated at **0.5–1 mg** for inexperienced users (compared to 2–5 mg for THC)
 
@@ -87,7 +87,7 @@ The prodrug mechanism accounts for the characteristically **delayed onset** of e
 
 The commercial production pathway typically involves:
 
-1. **Extraction of CBD** from hemp biomass (Cannabis sativa L. with <0.3% Δ⁹-THC)
+1. **Extraction of CBD** from hemp biomass ([[comparison-cannabis-sativa-vs-cannabis-indica]] L. with <0.3% Δ⁹-THC)
 2. **Isomerization** of CBD to Δ⁸-THC using acid catalysts (e.g., p-toluenesulfonic acid)
 3. **Acetylation** of Δ⁸-THC using acetic anhydride in the presence of a catalyst (e.g., DMAP or pyridine)
 4. **Purification** via chromatography or distillation
@@ -114,7 +114,7 @@ The legal ambiguity in the United States stems from the 2018 Farm Bill's definit
 
 - **No clinical safety data** — no human pharmacokinetic or toxicological studies have been published
 - **Overconsumption risk** due to delayed onset leading to redosing
-- **Adverse effects** reported include extreme anxiety, paranoia, dissociation, vomiting, and sedation
+- **[[blesching-cannabis-safety-adverse-effects-evidence]]** reported include extreme anxiety, paranoia, dissociation, vomiting, and sedation
 - **Vaping concerns** — the lipid-soluble nature of THC-O may pose additional risks to pulmonary tissue when vaporized
 - **Regulatory absence** means products are not subject to quality control, lab testing mandates, or childproof packaging requirements
 - **Drug interactions** are poorly characterized; may interact with CYP450 enzyme system similarly to THC

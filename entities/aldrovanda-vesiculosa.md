@@ -78,7 +78,7 @@ muscipula. Each trap lobe contains sensory trigger hairs that detect mechanical
 stimulation. A threshold of two hair deflections within approximately 20
 seconds triggers the rapid closure.
 
-Trap closure occurs through a rapid loss of turgor pressure in motor cells
+Trap closure occurs through a rapid loss of [[bloomfield-turgor-pressure-and-hyphal-invasion]] in motor cells
 along the trap midrib. This hygroscopic mechanism does not require active
 metabolic energy for the closing motion itself, though ATP is required to
 subsequently reopen the trap.
@@ -115,9 +115,9 @@ restoration challenging.
 
 *Aldrovanda* is among the most difficult carnivorous plants to maintain in
 cultivation. It requires a large volume of water with specific chemistry and
-rarely thrives in small containers for more than one growing season.
+rarely thrives in small containers for more than one [[savory-growing-season-and-non-growing-season-management]].
 
-The standard cultivation method uses a large tub or outdoor pond with a depth
+The standard [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] uses a large tub or outdoor pond with a depth
 of at least 20–30 cm. Water should be rainwater or distilled water with pH
 5.5–6.5. The substrate is typically peat moss or a combination of peat and
 sphagnum placed at the bottom.
@@ -135,5 +135,5 @@ warming temperatures trigger turion germination and resumption of growth.
 - [[drosera-rotundifolia]]
 - [[utricularia-vulgaris]]
 - [[pinguicula-vulgaris]]
-- [[darlingtonia-californica]]
+- darlingtonia californica
 - [[myrica-gale]]

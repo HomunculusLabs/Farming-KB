@@ -1,5 +1,5 @@
 ---
-title: "Sterilizing Grow Systems and Mediums"
+title: "cervantes sterilizing grow systems Systems and Mediums"
 created: 2026-04-28
 tags:
   - cannabis-cultivation
@@ -10,21 +10,22 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "/Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md"
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Sterilizing Grow Systems and Mediums
 
-Sterilizing used growing mediums and hydroponic systems between crops
-is essential for preventing pest and disease carryover. Jorge Cervantes
+Sterilizing used [[cervantes-growing-mediums-comparison]] and hydroponic systems between crops
+is essential for preventing [[hamilton-pest-and-disease-control-organic]] carryover. Jorge Cervantes
 covers sterilization in detail in Chapter 12 of *Marijuana
 Horticulture* (page 313).
 
 ## Why Sterilize
 
 To reuse a growing medium, it must be sterilized to remove destructive
-pests and diseases. Sterilizing is less expensive and often easier than
+[[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. Sterilizing is less expensive and often easier than
 replacing the growing medium entirely.
 
 Once sterilized, the medium is free of harmful microorganisms including
@@ -87,7 +88,7 @@ and disease problems, and decrease incidence of clogged feeder tubes.
 
 ## Sterilizing the Hydroponic System
 
-1. **Remove** the nutrient solution from the reservoir. Pump it into
+1. **Remove** the [[cannabis-nutrient-solution-preparation]] from the reservoir. Pump it into
    the outdoor garden. Never pump down household drains or into a
    septic tank (nutrients will disrupt the chemistry).
 2. **Flood** the growing medium with the sterilizing solution for at
@@ -98,7 +99,7 @@ and disease problems, and decrease incidence of clogged feeder tubes.
 5. **Flush** the entire system with fresh water for at least 30
    minutes, twice over. Include beds, connecting hoses, drains, and
    reservoir.
-6. **Scrub** away visible salt buildup with a soapy sponge. Keep a
+6. **Scrub** away visible [[cervantes-salt-buildup-leaching-management]] with a soapy sponge. Keep a
    bucket of clean water handy to rinse the sponge.
 
 ## Solarization Method (Rockwool)

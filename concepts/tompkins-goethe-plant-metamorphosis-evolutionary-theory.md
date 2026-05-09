@@ -70,7 +70,7 @@ spiritual and less mechanistic.
 
 Darwin devoted the greater part of his life after publishing The
 Origin of Species in 1859 to studying plants. In 1880, he published
-The Power of Movement in Plants, documenting his extensive
+The [[darwin-power-of-movement-in-plants]] in Plants, documenting his extensive
 experiments on [[tompkins-luther-burbank-intuitive-breeding]] for Burbank's
   methods of communicating with plants
 - [[tompkins-ancient-plant-knowledge]] for Eastern and indigenous

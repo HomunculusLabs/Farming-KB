@@ -1,5 +1,5 @@
 ---
-title: Salvia Divinorum and the Diviner's Sage
+title: golden-guide-salvia-divinorum-and-diviner-sage and the Diviner's Sage
 created: 2026-04-28
 tags:
   - ethnobotany
@@ -14,24 +14,24 @@ sources:
 type: concept
 ---
 
-# [[salvia-divinorum-and-salvinorin-a]] have attracted significant attention
+#  have attracted significant attention
 from the scientific community since the early 2000s. Researchers have
 investigated its potential as a treatment for depression, anxiety, and
 substance use disorders, given its unique kappa opioid receptor
 mechanism. Unlike classical psychedelics, salvinorin A produces no
 tolerance with repeated use, making it unusual among psychoactive
 compounds. However, its intense and often dysphoric effects have
-limited its therapeutic adoption. Legal status varies widely by
+limited its therapeutic adoption. [[ayahuasca-tourism-legal-status-by-country]] varies widely by
 jurisdiction, with some countries scheduling it as a controlled
 substance while others permit its cultivation and use.
 
 ## See Also
 
-- [[schultes-ololiuqui-vines-serpent]] for [[schultes-peyote-tracks-little-deer]] for another Mexican sacred
+- [[schultes-ololiuqui-vines-serpent]] for [[schultes-peyote-tracks-little-deer]] for another [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]]
   plant with deep indigenous ceremonial importance
 ## Practical Applications
 
-Salvia Divinorum and the Diviner's Sage has a range of practical applications that make it relevant to
+[[golden-guide-salvia-divinorum-and-diviner-sage]] and the Diviner's Sage has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -46,7 +46,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -96,7 +96,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -106,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

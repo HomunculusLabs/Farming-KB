@@ -1,5 +1,5 @@
 ---
-title: Copelandia Cyanescens Pantropical Distribution and Ecology
+title: Copelandia copelandia cyanescens pantropical distribution and ecology Distribution and Ecology
 created: 2026-04-28
 tags:
   - mycology
@@ -13,24 +13,24 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Guzmán G, Allen JW, Gartz J (1998) A worldwide geographical distribution
-    of the neurotropic fungi, an analysis and discussion. Ann Mus civ Rovereto
+    of the [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]], an analysis and discussion. Ann Mus civ Rovereto
     14: 189-280
 type: concept
 ---
 # Copelandia Cyanescens Pantropical Distribution and Ecology
 Copelandia cyanescens stands as the most cosmopolitan of all neurotropic
-fungal genera, rivaled only by Psilocybe cubensis in its global tropical
+fungal genera, rivaled only by [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] in its global tropical
 distribution. As a dung-inhabiting (coprophilous) species, C. cyanescens
 has achieved a pantropical distribution that spans virtually every tropical
 and subtropical region of the world.
 
 ## Taxonomic Position
 
-Copelandia cyanescens was originally described as Panaeolus cyanescens
+Copelandia cyanescens was originally described as [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]
 by Berkeley and Broome (1871) from Sri Lanka. The species was later
 transferred to the genus Copelandia by Singer (1951). The genus
 Copelandia is placed within the family Panaeolaceae (order Agaricales)
-and is characterized by its bluing reaction, lack of a true veil, and
+and is characterized by its [[field-guide-psilocybin-bluing-reaction-identification]], lack of a true veil, and
 distinctive microscopic features including thick-walled cheilocystidia.
 The genus Copelandia currently includes approximately 12 accepted species
 (Guzmán, 1995), with C. cyanescens being the most widespread and well
@@ -136,12 +136,13 @@ a naturalized or introduced species:
   (1989, 1992).
 - **Switzerland**: Gerhardt (1996).
 
-- **Great Britain**: Keay and Brown (1990).
 ## See Also
 
-- [[copelandia-genus]]
+- copelandia-genus
 - [[copelandia-genus-species-guide]]
 
-- [Copelandia Genus Species Guide](copelandia-genus-species-guide.md)
-- [Copelandia Panaeoloideae Neurotropic Fungi]([[psilocybe-cubensis-distribution-and-ecology]](psilocybe-cubensis-distribution-and-ecology.md)
+- [[guzman-allen-gartz-copelandia-genus-diversity-biogeography]] Species Guide](copelandia-genus-species-guide.md)
+- [Copelandia Panaeoloideae Neurotropic Fungi](psilocybe-cubensis-distribution-and-ecology(psilocybe-cubensis-distribution-and-ecology.md)
 - [Neurotropic Fungi Biogeographic Patterns](neurotropic-fungi-biogeographic-patterns.md)
+- [[copelandia-cyanescens]]
+- [[neurotropic-fungi]]

@@ -1,11 +1,11 @@
 ---
-title: Cannabis Advanced Refinement and Fractional Distillation
+title: Cannabis cannabis advanced refinement fractional distillation and cannabis-fractional-distillation-cannabinoids
 created: 2026-04-14
 updated: 2026-04-18
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 # Cannabis Advanced Refinement and Fractional Distillation
 
@@ -13,7 +13,7 @@ Translucent amber oil from charcoal filtering and isomerization typically contai
 
 ## Fractional Distillation
 
-Fractional distillation separates cannabis oil components by heating to high temperature under reduced pressure (vacuum). Different cannabinoids vaporize at different temperatures and pressures, allowing selective collection.
+Fractional distillation separates [[cervantes-hash-cannabis-oil-production]] components by heating to high temperature under reduced pressure (vacuum). Different cannabinoids vaporize at different temperatures and pressures, allowing selective collection.
 
 ### Process
 1. Oil is heated in a distillation flask under vacuum
@@ -58,7 +58,7 @@ The classical laboratory approach to cannabis oil refinement:
 ### Extraction
 1. Dry hemp plants stored 6 weeks with fan circulation (no molding)
 2. Remove stems by holding and shaking
-3. Extract with 95% pure ethyl alcohol using countercurrent extraction
+3. Extract with 95% pure [[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]] using countercurrent extraction
 4. Four 20-gallon crocks, each holding 23 lbs of material with 61 liters of solvent
 5. Countercurrent transfers: 40 liters withdrawn per transfer, 20 retained by cannabis
 6. Most concentrated extract: ~2 gm solids per 100 cc
@@ -78,7 +78,7 @@ Totally pure THC (a thin transparent oil) can be produced by:
 1. Chemically isolating pure cannabidiol (CBD) from the crude oil
 2. Isomerizing the isolated CBD to THC
 
-This is a very complex chemical operation requiring sophisticated equipment and chemicals — beyond the reach of the starting alchemist but important as the theoretical endpoint of cannabis alchemy refinement.
+This is a very complex chemical operation requiring sophisticated equipment and chemicals — beyond the reach of the starting alchemist but important as the theoretical endpoint of [[lemon-cannabis-alchemy-direct-vaporization]] refinement.
 
 ### CBD Isolation Chemistry
 The isolation of CBD from crude cannabis oil typically involves column chromatography on silica gel or alumina. The crude oil is dissolved in a nonpolar solvent (hexane or petroleum ether) and passed through a packed column. CBD, being less polar than THC, elutes earlier in the fractionation sequence when nonpolar eluents are used. The collected CBD fraction is then concentrated and recrystallized from a suitable solvent (often pentane or hexane) to yield crystalline CBD with purity exceeding 98%.
@@ -106,7 +106,7 @@ See also [[cannabis-oil-purification-techniques]], [[cannabis-honey-oil-producti
 The principles outlined on this page connect directly to hands-on work in gardens,
 farms, and homesteads. Integrating these concepts with complementary techniques from
 related disciplines can significantly improve outcomes. Start with small-scale
-implementation and scale up as understanding deepens through direct observation.
+implementation and scale up as understanding deepens through [[fukuoka-direct-observation-method]].
 
 ### Safety Considerations
 Fractional distillation of cannabis oil involves several hazards that require attention:

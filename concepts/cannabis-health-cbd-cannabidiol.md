@@ -67,7 +67,7 @@ multiple documented properties:
 CBD has demonstrated clear and measurable therapeutic impact on
 inflammatory and anti-inflammatory regulation mechanisms:
 
-- Inflammatory bowel disease (IBD/IBS)
+- [[blesching-cannabis-inflammatory-bowel-disease]] disease (IBD/IBS)
 - Arthritis: CBD treatment effectively blocked progression of both
   acute and chronic arthritis in animal studies
 - Periodontitis
@@ -78,7 +78,7 @@ inflammatory and anti-inflammatory regulation mechanisms:
 
 CBD produces significant anti-tumor activity both in vitro and in vivo.
 Key findings include:
-- CBD selectively produces oxidative stress in cancer cells, triggering
+- CBD selectively produces [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in cancer cells, triggering
   apoptosis (cancer cell suicide) without impacting normal cells
 - CBD attenuates cisplatin-induced nephrotoxicity by decreasing
   oxidative/nitrosative stress, inflammation, and cell death
@@ -87,7 +87,7 @@ Key findings include:
 
 ## CBD vs. THC in Strain Selection
 
-The ratio of THC to CBD in a cannabis strain determines the degree to
+The ratio of THC to CBD in a [[blesching-cannabis-strain-selection-receptor-targeting]] determines the degree to
 which the balancing properties of the whole plant's constituents are
 additive or cancel each other out. Indica strains tend to have lower
 THC-to-CBD ratios, favoring CB2 activation and producing more sedating,
@@ -132,4 +132,4 @@ it a cornerstone of modern cannabinoid-based medicine.
 
 - [[blesching-cannabis-inflammatory-diseases]] — CBD's role in treating inflammatory conditions via CB2 activation
 - [[cannabis-health-strains-sativa-indica]] — strain selection guidance based on THC:CBD ratios
-- [[cannabis-health-methods-of-administration]] — dosing and delivery methods for CBD preparations
+- [[cannabis-health-methods-of-administration]] — dosing and [[cannabis-delivery-methods-comparison]] for CBD preparations

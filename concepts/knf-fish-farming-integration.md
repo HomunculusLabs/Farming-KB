@@ -1,5 +1,5 @@
 ---
-title: KNF Fish Farming Integration
+title: KNF knf fish farming integration Integration
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -12,13 +12,13 @@ sources:
 
 updated: 2026-04-18
 
-Korean Natural Farming (KNF) principles can be applied to aquaculture, integrating fish farming with crop and livestock production in closed-loop systems. The book describes how the combination of land-based microorganisms and the minerals and microorganisms of seawater produces an excellent effect for crops and livestock, and this same principle extends to aquatic farming systems.
+Korean [[comparison-natural-farming-vs-permaculture]] (KNF) principles can be applied to aquaculture, integrating fish farming with crop and livestock production in closed-loop systems. The book describes how the combination of land-based microorganisms and the minerals and microorganisms of seawater produces an excellent effect for crops and livestock, and this same principle extends to aquatic farming systems.
 
 ## The Principle of Brackish Water Microbial Ecology
 
 The book describes a key insight about the meeting point of river and sea: the combination of freshwater and seawater creates brackish conditions that provide favorable conditions for microbes. These microbes in turn support abundant plankton populations, and many fish feed on the plankton. This natural observation forms the basis for KNF fish farming integration.
 
-In other words, fermented seawater provides abundant energy to the crops and the livestock -- and by extension, to aquaculture systems. When the microbes of land and the minerals and microbes of seawater are combined, they produce an excellent effect.
+In other words, [[knf-fermented-seawater-preparation]] provides abundant energy to the crops and the livestock -- and by extension, to aquaculture systems. When the microbes of land and the minerals and microbes of seawater are combined, they produce an excellent effect.
 
 ## Seawater and Fermented Seawater in Aquaculture
 
@@ -34,14 +34,14 @@ KNF's zero-emission livestock housing can be integrated with fish farming:
 - Composted litter from pig and poultry housing can be applied to pond margins to promote microbial activity and natural food production
 - [[lactic-acid-bacteria-knf]]:** Added to pond water to maintain beneficial bacterial populations, prevent disease, and improve water quality. LAB can reduce damage from gas through neutralizing toxic substances.
 - **IMO:** Applied to pond margins and inlet water to establish beneficial microbial communities. IMOs collected from forest soils contain diverse microorganisms adapted to local conditions.
-- **[[knf-brown-rice-vinegar]]:** Its sterilizing properties help control pathogenic bacteria in pond water. BRV affects liver cells and supports sterilization, neutralization, and disease prevention.
+- **[[knf-brown-rice-vinegar]]:** Its sterilizing properties help control pathogenic bacteria in pond water. BRV affects liver cells and supports sterilization, neutralization, and [[cervantes-pest-disease-prevention-overview]].
 - **OHN:** Provides herbal immune support for fish, helping prevent disease outbreaks.
 
 ## Pond Management Principles
 
 KNF approaches fish pond management as a microbial ecology challenge rather than a chemical one:
 
-- **Maintain microbial diversity:** A healthy pond has diverse microbial populations that cycle nutrients, decompose organic matter, and suppress pathogens
+- **Maintain microbial diversity:** A healthy pond has diverse microbial populations that cycle nutrients, decompose [[hamilton-composting-and-organic-matter-management]], and suppress pathogens
 - **Avoid chemicals:** Chemical treatments kill beneficial organisms along with harmful ones, disrupting the pond ecosystem
 - **Monitor plankton populations:** Healthy plankton blooms indicate good water quality and provide natural fish food
 - **Manage stocking density:** Overstocking creates stress, increases waste, and promotes disease -- KNF follows the principle of not forcing production beyond natural capacity
@@ -70,6 +70,8 @@ Integrated KNF aquaculture reduces costs by:
 
 ## See Also
 
+- [[mycorrhiza-micropropagation-integration]]
+
 - [[knf-fish-amino-acid]]
 - [[knf-lactic-acid-bacteria-serum]]
 - [[natural-farming-livestock-integration]]
@@ -93,4 +95,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

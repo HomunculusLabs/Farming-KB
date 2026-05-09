@@ -1,5 +1,5 @@
 ---
-title: Bongha Village Large-Scale Proof
+title: jadam bongha village proof Large-Scale Proof
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Bongha village in Korea represents the definitive proof that JADAM organic farming works at large scale. Led by CEO Jeongho Gim, 160 households collectively practiced JADAM organic farming across 134 hectares (330 acres), growing rice, pepper, cabbage, and persimmon. The village's success demonstrates that JADAM methods are not limited to small gardens but can replace conventional agriculture on a commercial scale.
+Bongha village in Korea represents the definitive proof that JADAM [[coleman-deep-organic-farming-philosophy]] works at large scale. Led by CEO Jeongho Gim, 160 households collectively practiced JADAM organic farming across 134 hectares (330 acres), growing rice, pepper, cabbage, and persimmon. The village's success demonstrates that JADAM methods are not limited to small gardens but can replace conventional agriculture on a commercial scale.
 
 ## Key Statistics
 
@@ -32,7 +32,7 @@ Bongha village uses specialized machines for large-scale JADAM input production:
 
 - **High-pressure pot** for boiling herbs (JHS production)
 - **Large-scale JADAM sulfur (JS) production unit**
-- **JADAM wetting agent (JWA) production facility**
+- **JADAM [[jadam-nutrient-management-wetting-agent-and-calcium]] (JWA) production facility**
 
 These machines enable efficient production of the ~10,000 L of pesticide needed annually for the 330-acre operation.
 
@@ -42,7 +42,7 @@ These machines enable efficient production of the ~10,000 L of pesticide needed 
 Youngsang Cho writes: "JADAM method can be easily practiced for areas over hundreds of hectares/acres." Bongha village proves this claim with real-world results.
 
 ### Cost Revolution
-At $7 per acre per year for ALL pesticide needs, Bongha village demonstrates the ultra-low-cost promise of JADAM. This compares to hundreds of dollars per acre for conventional chemical pesticide programs.
+At $7 per acre per year for ALL pesticide needs, Bongha village demonstrates the ultra-low-cost promise of JADAM. This compares to hundreds of dollars per acre for conventional chemical [[jadam-combined-pesticide-programs-jwa-js-jhs]].
 
 ### Community Model
 The village model shows that JADAM can be organized cooperatively:
@@ -72,9 +72,9 @@ The Bongha village model demonstrates that:
 
 ## Specific Results Achieved in Bongha Village
 
-The Bongha village project achieved outcomes that challenge the widespread assumption that organic farming cannot match conventional agriculture on yield and quality metrics. Under Jeongho Gim's leadership, the 160 participating households collectively transitioned 134 hectares from conventional chemical farming to JADAM methods. The transition was not gradual — farms converted entirely within a few growing seasons, demonstrating that JADAM methods can replace conventional systems without a prolonged productivity decline during the conversion period.
+The Bongha village project achieved outcomes that challenge the widespread assumption that organic farming cannot match conventional agriculture on yield and quality metrics. Under Jeongho Gim's leadership, the 160 participating households collectively transitioned 134 hectares from conventional [[knf-vs-chemical-farming-comparison]] to JADAM methods. The transition was not gradual — farms converted entirely within a few growing seasons, demonstrating that JADAM methods can replace conventional systems without a prolonged productivity decline during the conversion period.
 
-Rice paddies in Bongha village maintained yields comparable to chemically farmed neighbors while eliminating synthetic fertilizer and pesticide inputs. Pepper production, a high-value crop in Korean agriculture, showed particular success — JADAM-grown peppers developed thicker cell walls and denser flavor profiles attributed to the natural nutrient cycling of the JADAM system. Cabbage crops, grown for Korea's staple kimchi production, achieved market-grade quality with zero chemical residues. Persimmon orchards under JADAM management showed improved fruit set and reduced disease pressure compared to chemically managed orchards in the region.
+Rice paddies in Bongha village maintained yields comparable to chemically farmed neighbors while eliminating synthetic fertilizer and pesticide inputs. Pepper production, a high-value crop in Korean agriculture, showed particular success — JADAM-grown peppers developed thicker cell walls and denser flavor profiles attributed to the natural [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] of the JADAM system. Cabbage crops, grown for Korea's staple kimchi production, achieved market-grade quality with zero chemical residues. Persimmon orchards under JADAM management showed improved fruit set and reduced disease pressure compared to chemically managed orchards in the region.
 
 The most significant outcome may be the sustained nature of these results. Rather than showing the yield declines in later years that some organic systems experience as soil nutrient reserves are depleted, Bongha village farms have maintained or improved productivity over time. This suggests that the JADAM microbial approach — particularly the use of [[jadam-ultra-low-cost-agriculture]] - Cost philosophy and $100/acre target
 - [[jadam-wetting-agent-jwa]] - Core pesticide ingredient

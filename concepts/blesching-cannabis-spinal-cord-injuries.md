@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and Spinal Cord Injuries"
+title: "Cannabis and blesching [[cannabis-spinal-cord-injury-treatment]] injuries Injuries"
 created: 2026-04-26
 tags:
   - cannabis
@@ -39,13 +39,13 @@ down loses the ability to move arms or legs after sustaining damage to the
 spinal cord in the neck or brain itself.
 
 The management of spinal column injuries, where some sensation is still
-present, is often accompanied by chronic pain and uncontrollable muscle
+present, is often accompanied by [[cannabis-chronic-pain-management]] and uncontrollable muscle
 spasms of the back, arms, and legs.
 
 ## Cannabis and Spinal Cord Injuries
 
 The time-proven antispasmodic properties of cannabis have been confirmed by
-modern science in numerous human studies. As early as 1974, VA (U.S.
+[[fukuoka-road-critique-of-modern-science]] in numerous human studies. As early as 1974, VA (U.S.
 Veterans Affairs) hospital-based researchers began looking at data
 suggesting a practical therapeutic antispasmodic benefit. Later studies
 confirmed the efficacy of cannabinoids, especially THC.
@@ -69,7 +69,7 @@ studies to provide a specific minimum effective dose recommendation.
 
 ### Strain-Specific Considerations
 
-Clinical trials employed cannabinoids from various sources: cannabis, THC,
+[[mushroom-cancer-clinical-trials-overview]] employed cannabinoids from various sources: cannabis, THC,
 and Dronabinol (synthetic THC). Cannabis binds with both CB1 and CB2.
 THC and Dronabinol both bind with CB1 and CB2.
 

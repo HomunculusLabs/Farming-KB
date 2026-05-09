@@ -9,8 +9,8 @@ created: 2026-05-08
 # Rice Straw Mulch as the Engine of Soil Fertility
 
 Masanobu Fukuoka considered the application of rice straw to be the single most
-important technique in his natural farming method. Rather than preparing compost
-or applying chemical fertilizers, Fukuoka simply scattered uncut rice and barley
+important technique in his [[comparison-natural-farming-vs-permaculture]] method. Rather than preparing compost
+or applying [[cervantes-chemical-fertilizers-guide]], Fukuoka simply scattered uncut rice and barley
 straw over his fields after each harvest. This practice, combined with a clover
 ground cover, maintained and even increased soil fertility over decades without
 any external inputs.
@@ -36,7 +36,7 @@ when the soil is exposed to sun and rain.
 
 ## Why Straw, Not Compost
 
-Fukuoka was sharply critical of compost preparation. He saw it as an unnecessary
+Fukuoka was sharply critical of [[cultivator-compost-preparation-phase-methods]]. He saw it as an unnecessary
 transfer of organic matter from one place to another:
 
 - Compost requires labor to collect, pile, turn, and transport materials.
@@ -72,7 +72,7 @@ When straw is applied to the field, the following biological cascade occurs:
 
 This is what Fukuoka meant when he said "the soil works itself." No plow, no
 rototiller, no human labor is needed to maintain soil tilth. The straw, combined
-with the action of living organisms, does it all.
+with the action of [[savory-living-organisms-as-tools]], does it all.
 
 ## Straw and Weed Suppression
 
@@ -106,10 +106,10 @@ always covered, always being fed, always alive.
 
 ## The Philosophical Dimension
 
-For Fukuoka, scattering straw was not merely a technique — it was an expression
+For Fukuoka, [[fukuoka-scattering-straw-technique]] was not merely a technique — it was an expression
 of his entire philosophy of non-action. The farmer does not need to understand
 the chemistry of decomposition or the biology of soil organisms. He does not
-need to measure nutrient levels or calculate application rates. He simply
+need to measure nutrient levels or calculate [[ingham-compost-tea-application-rates-and-timing]]. He simply
 returns to the earth what the earth has produced, and lets nature handle the
 rest.
 
@@ -139,6 +139,8 @@ conventional farms. The secret was the straw.
 
 ## See Also
 
+- [[fukuoka-straw-mulch-fertility-cycle]]
+
 - [[fukuoka-no-tillage-rice-barley-succession]]
-- [[fukuoka-five-principles-natural-farming]]
+- fukuoka-five-principles-natural-farming
 - [[fukuoka-microbial-ecology-decomposition]]

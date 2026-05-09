@@ -10,19 +10,20 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Soil Amendments: Perlite, Vermiculite, and Pumice
 
 Soil amendments increase the soil's air, water, and nutrient-retaining
-abilities. Mineral amendments fall into two categories: mineral and
+abilities. [[cervantes-organic-mineral-amendments]] fall into two categories: mineral and
 organic. Mineral amendments are near neutral on the pH scale and
 contain few, if any, available nutrients. They decompose through
 weathering and erosion. Adding mineral amendments augments air and
 increases drainage without creating bacterial activity that would alter
-nutrient content and pH of the growing medium.
+nutrient content and pH of the [[cervantes-green-algae-growing-medium]].
 
 ## Perlite
 
@@ -45,7 +46,7 @@ Some growers mix up to 30 percent perlite into soilless mixes and
 soils to improve drainage and promote stronger root growth. Adding
 perlite or similar amendments improves soil structure by preventing
 compaction and ensuring adequate oxygen reaches the root zone. Coarse
-perlite is lightweight and an excellent choice for container growing.
+perlite is lightweight and an excellent choice for [[container-growing-vegetables-herbs]].
 
 ## Vermiculite
 

@@ -10,7 +10,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Yoshimura I. (1971). "The genus Lobaria of Eastern Asia." Journal of the Hattori Botanical Laboratory 34: 231-364.
-  - Jordan W.P. (1973). "The genus Lobaria in North America north of Mexico." The Bryologist 76(2): 225-251.
+  - Jordan W.P. (1973). "The genus Lobaria in [[psilocybin-north-america-pacific-northwest]] north of Mexico." The Bryologist 76(2): 225-251.
   - Miadlikowska J. et al. (2018). "A phylogenetic framework for the Peltigerales." American Journal of Botany 105(6): 1095-1115.
   - Brodo I.M., Sharnoff S.D., Sharnoff S. (2001). "Lichens of North America." Yale University Press.
 ---
@@ -32,7 +32,7 @@ continuity and ecological health.
 
 ## Taxonomy and Morphology
 
-Lobaria quercizans was described by Julius von Flotow in 1848. It belongs
+Lobaria quercizans was described by [[chamovitz-julius-von-sachs-blue-light-phototropism]] Flotow in 1848. It belongs
 to the order Peltigerales, family Lobariaceae, genus Lobaria.
 
 The thallus is large, reaching 15–30 cm in diameter, with broad, rounded
@@ -80,7 +80,7 @@ the nitrogen economy of forest ecosystems. In old-growth stands, Lobaria
 species can contribute substantially to throughfall nitrogen inputs.
 
 The species is highly sensitive to air pollution, particularly sulfur
-dioxide and acid deposition. Its decline in eastern North America since
+dioxide and acid deposition. Its decline in [[polypore-fungi-eastern-north-america]] America since
 the mid-20th century mirrors the decline of L. pulmonaria in Europe.
 
 L. quercizans provides habitat for microarthropods and serves as a

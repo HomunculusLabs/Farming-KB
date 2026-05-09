@@ -4,14 +4,14 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [reference]
-sources: ["raw/papers/teaming-with-microbes-lowenfels.md", "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"]
+sources: sources: []
 ---
 
 ## What Are Actinomycetes
 
-Actinomycetes are a group of filamentous bacteria that play critical roles in soil ecology, organic matter decomposition, and plant health. Though technically bacteria (order Actinomycetales), they grow branching filaments called hyphae that resemble fungal mycelium, bridging the morphological gap between bacteria and fungi. The genus Streptomyces is the most abundant and important actinomycete in garden and agricultural soils.
+Actinomycetes are a group of filamentous bacteria that play critical roles in soil ecology, [[hamilton-composting-and-organic-matter-management]] decomposition, and plant health. Though technically bacteria (order Actinomycetales), they grow branching filaments called hyphae that resemble fungal mycelium, bridging the morphological gap between bacteria and fungi. The genus Streptomyces is the most abundant and important actinomycete in garden and agricultural soils.
 
-Actinomycetes are responsible for the characteristic "earthy" smell of healthy soil. This aroma comes from a volatile compound called geosmin, produced by Streptomyces species during their metabolic activity. When you encounter that fresh, pleasant scent after rain or when turning good compost, you are smelling the signature of actinomycete activity.
+Actinomycetes are responsible for the characteristic "earthy" smell of healthy soil. This aroma comes from a [[fungal-btex-volatile-compound-degradation]] called geosmin, produced by Streptomyces species during their [[arbuscule-isolation-metabolic-activity-assays]]. When you encounter that fresh, pleasant scent after rain or when turning good compost, you are smelling the signature of actinomycete activity.
 
 ## Classification and Characteristics
 
@@ -42,11 +42,11 @@ One of the most remarkable features of actinomycetes is their ability to produce
 - This natural antibiotic production also helps suppress soil-borne plant pathogens
 - [[soil-food-web]]
 
-Actinomycetes occupy an intermediate position in the [[cervantes-compost-tea-organic-brewing]] brewing:
+Actinomycetes occupy an intermediate position in the  brewing:
 - Good quality compost used as the tea starter should contain diverse actinomycete populations
 - Visible white "flecks" in finished compost indicate healthy actinomycete presence
-- The earthy smell of properly made compost tea is partly due to actinomycete-produced geosmin
-- Actinomycetes in compost tea contribute to disease suppression when applied to plant surfaces and soil
+- The earthy smell of properly made [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]] is partly due to actinomycete-produced geosmin
+- Actinomycetes in compost tea contribute to [[aact-disease-suppression-mechanisms-ingham]] when applied to plant surfaces and soil
 
 ## Actinomycetes and Plant Health
 
@@ -65,14 +65,14 @@ Practices that support actinomycete populations:
 - Avoid excessive use of fungicides and antibiotics that may harm beneficial actinomycetes
 - Use [[korean-natural-farming]]
 
-In [[knf-fermented-mixed-compost]] production specifically encourages fermentative fungi and actinomycetes over thermophilic bacteria, resulting in compost that preserves more nutrients.
+In  production specifically encourages fermentative fungi and actinomycetes over thermophilic bacteria, resulting in compost that preserves more nutrients.
 
 ## Relationship to Other Soil Organisms
 
 Actinomycetes interact with many other soil organisms:
 - They compete with fungi for organic substrates but also work alongside them in sequential decomposition
 - They are preyed upon by bacterial-feeding [[protozoa-roles-in-soil]]
-- Their antibiotic production can inhibit certain fungal pathogens while being neutral or beneficial to others
+- Their antibiotic production can inhibit certain [[bloomfield-fungal-pathogens-and-parasites]] while being neutral or beneficial to others
 - They cooperate with [[singh-mycorrhizal-helper-bacteria-tripartite-interactions]] are part of
 
 ## Related

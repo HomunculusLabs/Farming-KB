@@ -14,7 +14,7 @@ type: comparison
 
 Elderberry (Sambucus nigra and S. canadensis) and echinacea (Echinacea
 purpurea and E. angustifolia) are two of the most widely used medicinal
-plants in North America and Europe. Both are renowned for immune support,
+plants in [[psilocybin-north-america-pacific-northwest]] and Europe. Both are renowned for immune support,
 yet they occupy very different ecological niches, growth habits, and
 medicinal applications. Elderberry is a woody shrub producing antioxidant-
 rich berries and flowers, while echinacea is an herbaceous perennial
@@ -28,7 +28,7 @@ climate, and herbal medicine goals.
 
 Echinacea, commonly known as purple coneflower, is an herbaceous
 perennial native to the prairies and open woodlands of central and
-eastern North America. Three species are used medicinally: E. purpurea
+[[polypore-fungi-eastern-north-america]] America. Three species are used medicinally: E. purpurea
 (most widely cultivated), E. angustifolia (considered most potent by
 herbalists), and E. pallida. Plants typically reach 1-4 feet tall and
 produce distinctive daisy-like flowers with raised central cones.
@@ -57,7 +57,7 @@ the fall of the 2nd to 4th year, and aerial parts during peak bloom.
 | Height | 5-20 feet | 1-4 feet |
 | Hardiness | Zones 3-9 | Zones 3-9 |
 | Soil preference | Moist, rich loam | Well-drained, adaptable |
-| Drought tolerance | Moderate | High |
+| [[dighton-fungal-drought-tolerance-plant-water-relations]] | Moderate | High |
 | Primary harvest | Berries and flowers | Roots and aerial parts |
 | Key compounds | Anthocyanins, flavonoids | Alkamides, polysaccharides |
 | Medicinal form | Syrup, cordial, tea | Tincture, decoction, tea |
@@ -76,7 +76,7 @@ cordials and teas. Elderberry's tolerance of wet soils makes it ideal for
 rain gardens, riparian buffers, and low-lying areas where other fruiting
 plants struggle. Its shrubby habit provides wildlife habitat, wind
 protection, and visual screening. For families with children, elderberry
-syrup is generally more palatable than herbal tinctures, making it easier
+syrup is generally more palatable than [[query-how-to-make-herbal-tinctures-salves-and-extracts-at-home]], making it easier
 to administer during illness. Elderberry is also the stronger choice for
 prophylactic daily use during cold and flu season, as the research
 supports ongoing supplementation.
@@ -102,6 +102,6 @@ flu season through syrup, while echinacea serves as the acute-response
 remedy taken at the first tickle of a sore throat. Ecologically, they
 occupy different niches: elderberry as a background shrub in moist areas
 and echinacea as a foreground perennial in sunny, well-drained beds. Both
-attract pollinators and beneficial insects. In a [[medicinal-herb-growing]]
+attract pollinators and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. In a [[medicinal-herb-growing]]
 - [[comparison-chamomile-vs-dandelion]]
 - [[herbal-medicine-history]]

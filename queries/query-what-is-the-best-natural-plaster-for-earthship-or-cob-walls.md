@@ -1,8 +1,8 @@
 ---
-title: What is the Best Natural Plaster for Earthship or Cob Walls?
+title: What is the query-what-are-the-best-natural-building-methods Plaster for Earthship or Cob Walls?
 created: 2026-04-28
 tags:
-  - natural-building
+  - [[natural-building]]
   - plaster
   - lime
   - clay
@@ -39,7 +39,7 @@ Cob walls and earthen plaster are made from essentially the same materials — c
 
 **For cob exterior walls in dry climates** (less than 600 mm / 24 inches annual rainfall): Clay plaster works well with adequate roof overhangs (minimum 600 mm). Apply 3 coats totaling 25–40 mm (1–1.5 inches).
 
-**For cob exterior walls in wet climates** (more than 600 mm annual rainfall): Use lime plaster on the exterior for weather resistance, with clay plaster on the interior. Alternatively, use a **lime-stabilized earth plaster** (add 10–20% hydrated lime to the clay mix) for improved water resistance while maintaining some breathability.
+**For cob exterior walls in wet climates** (more than 600 mm annual rainfall): Use [[comparison-lime-plaster-vs-earthen-plaster]] on the exterior for weather resistance, with clay plaster on the interior. Alternatively, use a **lime-stabilized earth plaster** (add 10–20% [[cervantes-hydrated-lime-quicklime-ph-adjustment]] to the clay mix) for improved water resistance while maintaining some breathability.
 
 ### Best for Wet Climates: Lime Plaster (Exterior Only)
 
@@ -75,8 +75,8 @@ Earthship non-load-bearing walls are often built from cans and glass bottles mor
 The south-facing greenhouse portion of an earthship uses glazing rather than plaster on the glazing walls. However, any solid thermal mass walls within the greenhouse zone should use:
 
 - **Lime plaster** for moisture and humidity resistance
-- The greenhouse environment has high humidity and temperature swings; lime's antimicrobial properties and moisture resistance are essential here
-- Consider **tadelakt** (burnished lime with olive oil soap) for any waterproof surfaces within the greenhouse zone
+- The greenhouse environment has high humidity and temperature swings; lime's [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] and moisture resistance are essential here
+- Consider **tadelakt** (burnished lime with [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]] soap) for any waterproof surfaces within the greenhouse zone
 
 ## Summary: Recommended Plaster by Wall Type and Climate
 
@@ -86,7 +86,7 @@ The south-facing greenhouse portion of an earthship uses glazing rather than pla
 | **Earthship tire walls** | Clay or lime | Lime plaster (over mesh) | Clay plaster |
 | **Earthship can/bottle walls** | Clay plaster | Clay plaster (interior only) | Clay plaster |
 | **Earthship greenhouse walls** | Lime plaster | Lime plaster | Lime plaster |
-| **Straw bale** | Clay plaster (thick) | Lime exterior, clay interior | Clay plaster |
+| **[[comparison-cob-construction-vs-straw-bale-construction]]** | Clay plaster (thick) | Lime exterior, clay interior | Clay plaster |
 
 ## Practical Tips for Both Wall Systems
 

@@ -15,14 +15,14 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://pubmed.ncbi.nlm.nih.gov/ — citral pharmacology, antimicrobial, and anti-inflammatory studies
-  - https://powo.science.kew.org/ — taxonomic authority and distribution
+  - https://powo.science.kew.org/ — [[bloomfield-taxonomic-authority-debate-lloyd-underwood-atkinson]] and distribution
   - Shah, G. et al. "Scientific Basis for the Therapeutic Use of Cymbopogon citratus, Stapf (Lemongrass)." Evidence-Based Complementary and Alternative Medicine, 2011.
   - Bakkali, F. et al. "Biological Effects of Essential Oils — A Review." Food and Chemical Toxicology, 2008.
 ---
 
 # Cymbopogon citratus
 
-**Cymbopogon citratus** (DC.) Stapf, commonly known as **lemongrass**, **West Indian lemongrass**, **fever grass**, or **citronnelle**, is a tropical perennial grass in the family Poaceae. Native to Maritime Southeast Asia, it is cultivated worldwide in tropical and subtropical regions for its citrus-scented leaves, which yield essential oil rich in citral. The plant occupies a central role in Southeast Asian cuisine, traditional medicine, aromatherapy, and permaculture systems as a pest-deterrent companion plant and soil-stabilizing ground cover.
+**Cymbopogon citratus** (DC.) Stapf, commonly known as **lemongrass**, **West Indian lemongrass**, **fever grass**, or **citronnelle**, is a tropical [[savory-perennial-grass-and-desertification]] in the family Poaceae. Native to Maritime Southeast Asia, it is cultivated worldwide in tropical and subtropical regions for its citrus-scented leaves, which yield essential oil rich in citral. The plant occupies a central role in Southeast Asian cuisine, traditional medicine, aromatherapy, and permaculture systems as a pest-deterrent companion plant and soil-stabilizing ground cover.
 
 ## Taxonomy and Classification
 
@@ -43,7 +43,7 @@ sources:
 - **Stems:** Cylindrical, cane-like pseudostems formed by tightly rolled leaf bases, pale green to yellowish, slightly bulbous at the base
 - **Leaves:** Long, narrow, linear-lanceolate, 60–150 cm × 1–3 cm; glaucous green; edges rough and slightly serrated; strongly aromatic when crushed
 - **Inflorescence:** Panicle, rarely produced in cultivation; flowering is uncommon outside tropical conditions
-- **Roots:** Dense fibrous root system; shallow but extensive, excellent for soil stabilization and erosion control on slopes and embankments
+- **Roots:** Dense fibrous root system; shallow but extensive, excellent for soil stabilization and [[permplant-willows-salix-erosion-control-fodder]] on slopes and embankments
 - **Propagation:** Primarily vegetative via division of clumps; seed viability is low in commercial cultivars
 
 ## Distribution and Habitat
@@ -70,7 +70,7 @@ sources:
 - **Digestive aid:** Tea infusion used throughout Southeast Asia and Latin America for indigestion, bloating, flatulence, and stomach cramps; spasmolytic activity confirmed in animal models
 - **Fever reduction:** Known as "fever grass" in the Caribbean; traditional use for reducing fever in malaria and dengue, though it does not treat the underlying infection
 - **Anti-inflammatory:** Citral inhibits COX-2 and NF-κB pathways; used topically for arthritis, muscle pain, and headaches in traditional Thai and Brazilian medicine
-- **Antimicrobial:** Essential oil demonstrates broad-spectrum activity against Gram-positive bacteria (Staphylococcus aureus, Bacillus subtilis), Gram-negative bacteria (Escherichia coli, Pseudomonas aeruginosa), and fungi (Candida albicans, Aspergillus niger)
+- **Antimicrobial:** Essential oil demonstrates broad-spectrum activity against Gram-positive bacteria (Staphylococcus aureus, Bacillus subtilis), Gram-negative bacteria (Escherichia coli, Pseudomonas aeruginosa), and fungi ([[bloomfield-candida-albicans-yeast-hyphal-dimorphism]], Aspergillus niger)
 - **Anxiolytic and sedative:** Lemongrass tea is used as a mild calming agent in traditional medicine; animal studies confirm anxiolytic effects potentially mediated by GABA-A modulation
 - **Antioxidant:** Leaf infusions and essential oil show significant free-radical scavenging activity (DPPH, ABTS assays)
 - **Antihyperlipidemic:** Animal studies demonstrate reduction in total cholesterol, LDL, and triglycerides with chronic administration of leaf extract
@@ -81,7 +81,7 @@ sources:
 - **Southeast Asian cuisine:** Essential ingredient in Thai tom yum soup, green and red curries, Indonesian soto, and Vietnamese pho; the lower bulbous stem bases are bruised and added to broths and marinades
 - **Tea:** Fresh or dried leaves brewed as a refreshing, caffeine-free herbal tea throughout Southeast Asia, the Caribbean, and Africa
 - **Marinades:** Lemongrass pairs with galangal, garlic, chili, and fish sauce in Southeast Asian marinades for poultry, seafood, and pork
-- **Preservation:** Lemongrass oil and leaves used traditionally to preserve food due to antimicrobial properties
+- **Preservation:** Lemongrass oil and leaves used traditionally to preserve food due to [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]
 - **Beverage industry:** Natural flavoring agent for teas, soft drinks, and alcoholic beverages globally
 
 ## Cultivation and Permaculture Role
@@ -91,7 +91,7 @@ sources:
 - **Water requirements:** Moderate to high; performs best with consistent moisture but tolerates short dry periods
 - **Harvest:** Leaves can be harvested by cutting 5–10 cm above ground level every 2–3 months; regrows quickly; 10–15 harvests per year in tropical conditions
 - **Essential oil production:** Hydrodistillation yields 0.5–1.5% essential oil; harvested at the pre-flowering stage for maximum citral content
-- **Companion planting and pest management:** Strong aromatic oils repel a wide range of insect pests including mosquitoes, whiteflies, aphids, and flea beetles; planted as a border or intercrop around vegetable gardens and rice paddies
+- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] and pest management:** Strong aromatic oils repel a wide range of insect pests including mosquitoes, whiteflies, aphids, and flea beetles; planted as a border or intercrop around vegetable gardens and rice paddies
 - **Soil stabilization:** Dense root system makes it ideal for erosion control on slopes, terraces, and waterway banks in tropical permaculture designs
 - **Mulch source:** Cut leaves provide a nitrogen-rich mulch that decomposes quickly, contributing to soil organic matter
 - **Windbreak:** Tall dense clumps serve as an effective low windbreak in tropical food forests
@@ -118,6 +118,11 @@ sources:
 
 ## See Also
 
-- [[ocimum-sanctum]] — complementary aromatic medicinal herb used alongside lemongrass in Thai and Ayurvedic traditions
+- ocimum-sanctum — complementary aromatic medicinal herb used alongside lemongrass in Thai and Ayurvedic traditions
 - [[cymbopogon-flexuosus]] — genus overview and comparison with East Indian lemongrass (C. flexuosus)
 - [[vetiveria-zizanoides]]
+- [[bacillus-subtilis]]
+- [[permaculture-design]]
+- [[candida-albicans]]
+
+- [[cymbopogon-winterianus]]

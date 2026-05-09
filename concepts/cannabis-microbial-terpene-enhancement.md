@@ -1,25 +1,25 @@
 ---
-title: Cannabis Microbial Terpene Enhancement
+title: Cannabis cannabis microbial terpene enhancement Enhancement
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 # Cannabis Microbial Terpene Enhancement
 
-The enhancement of terpene production in cannabis through microbial interventions represents an emerging area of cultivation science that connects soil microbiology, plant biochemistry, and secondary metabolite production. Microbial communities associated with cannabis roots and foliage can influence the plant's production of terpenes and cannabinoids through multiple mechanisms, including nutrient mobilization, phytohormone signaling, defense priming, and direct metabolic interactions.
+The enhancement of terpene production in cannabis through microbial interventions represents an emerging area of cultivation science that connects soil microbiology, plant biochemistry, and [[fungal-elicitors-enhanced-secondary-metabolite-production]] production. Microbial communities associated with cannabis roots and foliage can influence the plant's production of terpenes and cannabinoids through multiple mechanisms, including nutrient mobilization, phytohormone signaling, defense priming, and direct metabolic interactions.
 
 ## Terpene Biosynthesis in Cannabis
 
-Terpenes are the largest class of plant secondary metabolites and are responsible for the distinctive aromas of different cannabis cultivars. In cannabis, terpenes are synthesized primarily in glandular trichomes through two pathways: the mevalonate pathway (MVA), which operates in the cytosol, and the methylerythritol phosphate pathway (MEP), which operates in the plastids.
+Terpenes are the largest class of plant [[antifungal-secondary-metabolites-coprophilous-fungi]] and are responsible for the distinctive aromas of different cannabis cultivars. In cannabis, terpenes are synthesized primarily in glandular trichomes through two pathways: the mevalonate pathway (MVA), which operates in the cytosol, and the methylerythritol phosphate pathway (MEP), which operates in the plastids.
 
-These pathways produce the universal terpene precursors isopentenyl pyrophosphate (IPP) and dimethylallyl pyrophosphate (DMAPP), which are combined by prenyltransferases to form geranyl pyrophosphate (GPP), the direct precursor of monoterpenes. GPP is also one of the two precursors (along with olivetolic acid) needed for cannabinoid biosynthesis, as described in [[cannabis-root-microbiome]] page discusses the broader role of root-associated microorganisms, including mycorrhizal fungi, in supporting cannabis plant health and metabolism.
+These pathways produce the universal terpene precursors isopentenyl pyrophosphate (IPP) and dimethylallyl pyrophosphate (DMAPP), which are combined by prenyltransferases to form geranyl pyrophosphate (GPP), the direct precursor of monoterpenes. GPP is also one of the two precursors (along with olivetolic acid) needed for [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]], as described in [[cannabis-root-microbiome]] page discusses the broader role of root-associated microorganisms, including mycorrhizal fungi, in supporting cannabis plant health and metabolism.
 
 ## Endophytic Bacteria and Terpene Modulation
 
-Endophytic bacteria living within cannabis tissues may directly influence terpene production in the trichomes where cannabinoids and terpenes are synthesized. The [[cannabis-terpene-entourage-effect-profiles]] page describes how terpene profiles contribute to the overall effects of different cannabis preparations through the entourage effect. If microbial communities can modulate terpene profiles, they may also influence the qualitative character of the cannabis experience beyond simply increasing total terpene content.
+Endophytic bacteria living within cannabis tissues may directly influence terpene production in the trichomes where cannabinoids and terpenes are synthesized. The  page describes how [[cannabis-terpene-profiles-sativa]] contribute to the overall effects of different cannabis preparations through the entourage effect. If microbial communities can modulate terpene profiles, they may also influence the qualitative character of the cannabis experience beyond simply increasing total terpene content.
 
 ## Practical Approaches for Cultivators
 
@@ -54,7 +54,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -96,4 +96,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

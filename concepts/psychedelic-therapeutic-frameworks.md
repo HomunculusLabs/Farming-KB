@@ -24,7 +24,7 @@ Powell's The [[2c-b-psychedelic-empathogen-guide]]
 
 ## Overview
 
-The "piggyback" or "window exploitation" technique represents one of the most significant methodological innovations documented in PiHKAL for the therapeutic use of psychedelic compounds. First discovered and explored with MDE, this approach was subsequently extended most successfully with MDMA, and has implications for clinical psychedelic therapy.
+The "piggyback" or "window exploitation" technique represents one of the most significant methodological innovations documented in PiHKAL for the therapeutic use of psychedelic compounds. First discovered and explored with MDE, this approach was subsequently extended most successfully with MDMA, and has implications for clinical [[metzner-psycholytic-psychedelic-therapy-models]].
 
 ## The Basic Principle
 
@@ -37,7 +37,7 @@ The earliest procedure used modest quantities of active materials "at the drop-o
 ## Extension to MDMA
 
 The technique was most extensively developed with MDMA in clinical settings. The standard protocol involved:
-1. Initial MDMA dose (typically 120 mg) creating the primary therapeutic window
+1. Initial MDMA dose (typically 120 mg) creating the primary [[blesching-cannabis-therapeutic-window-dosing]]
 2. Supplemental MDMA dose (typically 40 mg) at approximately 1.5 hours to extend effects
 3. At the drop-off period, introduction of a second compound at reduced dosage
 
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

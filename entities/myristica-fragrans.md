@@ -6,7 +6,7 @@ tags: [plant, spice, psychoactive, myristicaceae, deliriant]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
+  sources: []
 ---
 
 # Myristica fragrans
@@ -20,7 +20,7 @@ sources:
 
 ### Volatile Oils
 
-The essential oil of nutmeg (approximpinene5% to 15% of the seed) contains numerous terpene alimonenenoid compounds, primarily:
+The [[permaculture-designers-manual-essential-oil-plants]] of nutmeg (approximpinene5% to 15% of the seed) contains numerous terpene alimonenenoid compounds, primarily:
 
 - **Sabinene** (15% to 30%) — the dominant constituent
 - **Alpha-pinene** (10% to 20%)
@@ -29,7 +29,7 @@ The essential oil of nutmeg (approximpinene5% to 15% of the seed) contains numer
 - **Terpinen-4-ol** (2% to 8%)
 - **Gamma-terpinene** (1% to 5%)
 
-These volatile compounds give nutmeg its characteristic warm, sweet, aromatic flavor and fragrance.
+These [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] give nutmeg its characteristic warm, sweet, aromatic flavor and fragrance.
 
 ## Psychoactive Effects
 
@@ -62,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -104,4 +104,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

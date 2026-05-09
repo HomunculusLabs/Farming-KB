@@ -1,5 +1,5 @@
 ---
-title: Creating True People and the Do-Nothing Road
+title: fukuoka textdoc creating true people do nothing road People and the Do-Nothing Road
 created: 2026-04-28
 tags:
   - fukuoka
@@ -82,7 +82,7 @@ and their right to look up at the blue skies and be blessed with joy.
 
 ## The Road Back to Farming and Its Obstacles
 
-Despite the growing desire among city dwellers to return to nature and
+Despite the growing desire among city dwellers to [[emcdda-return-to-nature-megatrend-mushroom-appeal]] and
 farming, Fukuoka detects a profound sense of futility. It is something
 like scooping up duckweed floating on the surface of a pond and watching
 it slip through one's fingers. Between the producer and consumer, both
@@ -108,7 +108,7 @@ is the foremost cause of the discord and contradictions of human society.
 Fukuoka calls for a fundamental shift in civilization's direction. Man
 must turn away from a world of expansion and extinction, and place his
 faith instead in contraction and revival. This society of farmers may
-take the form of peasant farming, but it must comprise natural farming
+take the form of peasant farming, but it must comprise [[comparison-natural-farming-vs-permaculture]]
 that transcends the age and searches earnestly for the wellsprings of
 agriculture. The shortest path to attaining the state of true man is an
 open existence with simple garments and a simple diet, praying down to

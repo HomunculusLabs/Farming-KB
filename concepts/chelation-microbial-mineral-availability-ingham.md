@@ -13,7 +13,7 @@ plant-available.
 ## What Is Chelation
 
 Chelation is a chemical process where an organic molecule (a chelating agent)
-binds to a metal ion, forming a complex that neutralizes the ion's positive
+binds to a [[fungal-metal-ion-resistance-mechanisms]], forming a complex that neutralizes the ion's positive
 charge. The term comes from the Greek word "chele," meaning claw, reflecting how
 the organic molecule wraps around the mineral ion like a pincer. In soil, the
 chelation process removes the positive charge from metal cations such as iron,
@@ -53,7 +53,7 @@ unavailable. Unchelated minerals exist as free ions prone to several fates:
 - **Precipitation**: Unchelated minerals can react with other soil components to
   form insoluble compounds (e.g., iron precipitates with phosphorus).
 - **Leaching**: Free ions are easily washed through the soil profile by water.
-- **Fixation**: Clay particles and organic matter can bind free cations so
+- **Fixation**: Clay particles and [[hamilton-composting-and-organic-matter-management]] can bind free cations so
   tightly that plants cannot extract them.
 - **Toxicity**: High concentrations of unchelated minerals can damage plant
   roots through osmotic stress or direct chemical toxicity.
@@ -84,7 +84,7 @@ soil as long as conditions remain aerobic and food sources are available,
 steadily increasing the soil's capacity to solubilize and retain mineral
 nutrients.
 
-The enzymes, hormones, and humics that are solubilized during the AACT brewing
+The enzymes, hormones, and humics that are solubilized during the [[ingham-aact-brewing-equipment-reliability-machine-testing-standards]]
 process contribute additional chelating capacity. This is why AACT applied as a
 foliar spray can improve uptake of mineral nutrients through leaf surfaces — the
 chelating agents in the tea help neutralize mineral charges, allowing entry
@@ -102,7 +102,7 @@ adequate biological activity, several problems occur:
 2. Without microbial chelation, many applied minerals become locked up through
   become locked up through precipitation and fixation reactions in the soil.
 3. The grower sees deficiency symptoms and applies more fertilizer, escalating
-4. Salt accumulation from repeated fertilizer applications damages soil
+4. [[jadam-salt-accumulation-in-soil]] from repeated fertilizer applications damages soil
    biology further, reducing chelation capacity even more.
 
 The NPK approach treats soil as an inert substrate rather than a living system.
@@ -113,7 +113,7 @@ microorganisms are the primary mechanism for mineral availability. When the
 
 ## Source
 
-- Ingham, Elaine R. *The Field Guide for Actively Aerated Compost Tea (AACT)*.
+- Ingham, Elaine R. *The [[ghouled-field-guide-historical-context]] for Actively [[actively-aerated-compost-tea-aact-brewing]] Tea (AACT)*.
   Sustainable Studies Institute, 2004.
 
 ## See Also

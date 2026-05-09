@@ -61,7 +61,7 @@ Unlike some Armillaria species that prefer healthy vigorous trees, A. cepistipes
 
 ## Pathogenicity
 
-A. cepistipes is a white-rot fungus that attacks the root systems and lower stems of woody hosts. It spreads through root contact and rhizomorph growth, forming extensive mycelial networks in soil.
+A. cepistipes is a white-rot fungus that attacks the root systems and lower stems of woody hosts. It spreads through root contact and rhizomorph growth, forming extensive [[fungal-mycelial-networks-nutrient-translocation]] in soil.
 
 The species is considered a secondary pathogen — it typically colonizes hosts already weakened by drought, poor site conditions, or other stressors. However, once established, it can kill trees of all ages.
 
@@ -77,9 +77,9 @@ Urban trees are frequently affected, especially street trees growing in compacte
 
 ## Ecological Role
 
-Despite its pathogenic reputation, A. cepistipes plays an important ecological role in forest ecosystems. As a saprotroph, it contributes to wood decomposition and nutrient cycling, particularly of coarse woody debris.
+Despite its pathogenic reputation, A. cepistipes plays an important ecological role in forest ecosystems. As a saprotroph, it contributes to [[fungal-wood-decomposition-spatial-variation]] and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], particularly of coarse woody debris.
 
-The species is involved in natural forest succession, killing weakened trees and creating canopy gaps that allow light-demanding species to establish. This disturbance role maintains forest structural diversity.
+The species is involved in natural [[mollison-designers-food-forest-succession-design]], killing weakened trees and creating canopy gaps that allow light-demanding species to establish. This disturbance role maintains forest structural diversity.
 
 Armillaria species also serve as food sources for various invertebrates and fungi. The fruiting bodies are edible when thoroughly cooked, though they must be positively identified to avoid confusion with other Armillaria species of varying edibility.
 
@@ -87,7 +87,7 @@ Armillaria species also serve as food sources for various invertebrates and fung
 
 Management of A. cepistipes in forestry and horticulture focuses on prevention and reducing host stress. Maintaining tree vigor through proper irrigation, nutrition, and soil management is the most effective defense.
 
-Infected stumps and roots should be removed or mechanically destroyed to prevent rhizomorph spread. In high-value orchard settings, soil fumigation and biological control with Trichoderma species have shown some efficacy.
+Infected stumps and roots should be removed or mechanically destroyed to prevent rhizomorph spread. In high-value orchard settings, soil fumigation and [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] with Trichoderma species have shown some efficacy.
 
 Chemical control options are limited. Barrier trenches around infection centers can slow rhizomorph spread but are labor-intensive. Research into resistant rootstock varieties is ongoing for fruit crop applications.
 
@@ -97,7 +97,7 @@ A. cepistipes is one of approximately 10 described Armillaria species in Europe.
 
 Compared to A. mellea, A. cepistipes has a more limited virulence range and prefers weaker hosts. A. mellea is generally more destructive in orchards and vineyards. A. ostoyae is the primary Armillaria pathogen of conifers.
 
-A. cepistipes belongs to the same species complex as A. gallica and A. borealis. Molecular identification using ITS rDNA sequencing is often necessary for reliable species discrimination in field populations.
+A. cepistipes belongs to the same species complex as A. gallica and A. borealis. [[biodiversity-fungal-molecular-identification-dna-barcoding]] using ITS rDNA sequencing is often necessary for reliable species discrimination in field populations.
 
 ## Cultivation
 
@@ -109,7 +109,7 @@ The edibility of A. cepistipes is generally considered good when thoroughly cook
 
 ## See Also
 
-- [[armillaria-gallica]]
+- armillaria-gallica
 - [[laetiporus-sulphureus]]
 - [[trametes-versicolor-entity]]
 - [[ganoderma-lucidum]]

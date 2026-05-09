@@ -11,14 +11,14 @@ sources:
 # Garden Location and Soil Preparation
 
 Guidelines for selecting the best garden site and preparing soil for
-home vegetable production, based on Purdue Extension recommendations.
-Proper site selection and soil preparation are foundational to a
-successful vegetable garden.
+home [[dry-gardening-unirrigated-vegetable-production-solomon]], based on Purdue Extension recommendations.
+Proper [[fukuoka-creating-natural-farm-site-selection-establishment]] and soil preparation are foundational to a
+successful [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]].
 
 Related: [[vegetable-garden-guide]],
-[[home-vegetable-garden-planning]] — Garden layout and planning
+[[home-vegetable-garden-planning]] — [[hamilton-garden-layout-beds-borders-paths]] and planning
 - [[soil-testing]] and fertilization
-- [[vegetable-garden-guide]] — Comprehensive vegetable gardening
+- [[vegetable-garden-guide]] — Comprehensive [[home-vegetable-garden-planning]]
   reference
 ## Practical Applications
 
@@ -97,4 +97,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

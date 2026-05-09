@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Leafly Staff (2023). "Lava Cake Weed Strain Information." Leafly.com.
   - AllBud (2024). "Lava Cake Strain Review." AllBud.com.
-  - CannasOS (2023). "Lava Cake Cannabis Strain Genetics and Effects."
+  - CannasOS (2023). "Lava Cake [[blesching-cannabis-strain-selection-receptor-targeting]] Genetics and Effects."
   - Cookies Fam (2022). "Strain Library: Lava Cake." Cookies Brand.
 ---
 ## Overview
@@ -22,8 +22,8 @@ Lava Cake is an indica-dominant [[thin-mint-cookies]] (GSC phenotype) with Grape
 Pie, combining the terpene-profile-chemotaxonomyineage phenotype)
 
 Thin Mint is one of the three original GSC phenotypes selected by
-Cookie Fam in San Francisco. It contributes dense [[granddaddy-purple]] × Durban Poison × WL4[[wedding-cake-cannabis]], Gelato,
-and [[beta-glucan-receptor-binding]].
+Cookie Fam in [[shipibo-san-francisco-ceremonial-center-ucayali]]. It contributes dense [[granddaddy-purple]] × Durban Poison × WL4, Gelato,
+and kappa opioid receptor.
 - **[[limonene]]:** 0.4–0.8% — Citrus notes; mood elevation, anxiolytic.
 - **Myrcene:** 0.5–1.2% — Earthy, musky; sedative, muscle relaxant.
 
@@ -40,7 +40,7 @@ characteristic sedative body effects.
 - CBG: 0.1–0.3%
 
 The low CBD content means the psychoactive effects are driven
-almost entirely by THC and the entourage effect of terpenes.
+almost entirely by THC and the [[cannabis-terpene-entourage-effect-profiles]] of terpenes.
 
 ## Effects and Medical Use
 
@@ -58,11 +58,11 @@ best reserved for evening or nighttime use.
 
 **Medical applications:**
 
-Lava Cake is commonly used for chronic pain, insomnia, anxiety, stress,
+Lava Cake is commonly used for [[cannabis-chronic-pain-management]], insomnia, anxiety, stress,
 muscle spasms, and appetite stimulation.
 
 The sedative body high makes it particularly suited for patients with
-sleep disorders or chronic pain conditions requiring nighttime relief.
+[[cannabis-sleep-disorders-and-insomnia]] or chronic pain conditions requiring nighttime relief.
 
 **Common side effects:** Dry mouth, dry eyes, dizziness at high doses,
 and potential paranoia in sensitive individuals.
@@ -76,7 +76,7 @@ Beginners should approach with caution due to the high THC content.
 **Yield:** Moderate, approximately 300–400 g/m² indoors.
 
 **Difficulty:** Moderate. Lava Cake is relatively forgiving but
-responds well to training techniques (LST, SCROG) that maximize light
+responds well to [[cannabis-training-techniques-comparison]] (LST, SCROG) that maximize light
 exposure to its dense canopy.
 
 The strain expresses purple coloration more intensely when nighttime

@@ -1,5 +1,5 @@
 ---
-title: Victorian Mushroom Cooking Recipes
+title: falconer victorian mushroom cooking recipes Cooking Recipes
 created: 2026-04-28
 tags: [mushroom-cooking, victorian-recipes, culinary-history, preservation, falconer]
 date: 2026-04-28
@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Victorian [[falconer-gathering-and-marketing-mushrooms]]
+# Victorian falconer-gathering-and-marketing-mushrooms
 
 ## See Also
 - [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]]
@@ -142,4 +142,6 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-
+- [[falconer-mushroom-cooking-selection-and-preparation]]
+- [[falconer-mushroom-cultivation-victorian-methods]]
+- [[falconer-victorian-mushroom-spawn-making-brick-flake-production]]

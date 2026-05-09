@@ -1,5 +1,5 @@
 ---
-title: Bloomfield Fungal Spore Discharge and Dispersal
+title: Bloomfield Fungal bloomfields-orchard-spore-discharge-mechanisms and Dispersal
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Spore production and dispersal is central to fungal biology. Fungi have evolved remarkable mechanisms to launch their reproductive cells into the air, water, or onto passing animals. From the surface-tension catapult of basidiomycetes to the explosive asci of ascomycetes, and the swimming zoospores of water molds, these mechanisms represent some of the most sophisticated biomechanical systems in nature.
+Spore production and dispersal is central to [[bloomfield-fungal-biology-and-hyphal-growth]]. Fungi have evolved remarkable mechanisms to launch their reproductive cells into the air, water, or onto passing animals. From the surface-tension catapult of basidiomycetes to the explosive asci of ascomycetes, and the swimming zoospores of water molds, these mechanisms represent some of the most sophisticated biomechanical systems in nature.
 
 ## Basidiomycete Spore Discharge (Surface-Tension Catapult)
 
@@ -20,13 +20,13 @@ Mushrooms and their relatives (basidiomycetes) discharge spores using a surface-
 
 1. A fluid drop (Buller's drop) forms at the base of each basidiospore on the basidium
 2. The drop expands over several seconds, contacting both the spore and the adjacent spore/adaxial surface of the gill
-3. As the drop expands, surface tension pulls the spore toward the drop
+3. As the drop expands, [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] pulls the spore toward the drop
 4. At a critical moment, the drop fuses with the spore surface, redistributing mass
 5. The sudden shift in the center of mass combined with the collapse of the drop's meniscus launches the spore horizontally from the gill
 6. The spore then falls clear of the gill and is carried away by air currents
 
 ### Buller's Discoveries
-A.H.R. Buller (1874-1944), working at the University of Manitoba, was the first to systematically study mushroom spore discharge:
+A.H.R. Buller (1874-1944), working at the University of Manitoba, was the first to systematically study [[emcdda-hallucinogenic-mushroom-spore-distribution-home-cultivation]] discharge:
 - Measured spore fall velocities using a tilted microscope with calibrated silk threads in the eyepiece, connected to an electric tapper inscribing marks on a rotating drum
 - Found spores fell slightly faster than Stokes' law predicted — later explained by Buller's drop increasing effective diameter
 - Published six volumes of "Researches on Fungi" (1909-1934), funding early volumes himself
@@ -91,7 +91,7 @@ Ingoldian fungi (named after C.T. Ingold) produce conidia (asexual spores) for d
 Some fungi are bioluminescent:
 - The Jack-o'-lantern (Omphalotus olearius) emits a green glow from its gills
 - Panellus stypticus was studied extensively by Buller, who rose at 4 AM and wore horse blinders during his commute to preserve dark-adapted eyes
-- Luminescence may serve to attract insects for spore dispersal (insects are drawn to greenish light)
+- Luminescence may serve to attract insects for [[aquatic-fungi-spore-dispersal-ingold]] (insects are drawn to greenish light)
 - Some luminescent fruiting bodies emit enough light for reading; soldiers in WWI trenches allegedly attached mushrooms to helmets for nighttime navigation
 
 ## Wind Dispersal
@@ -104,9 +104,18 @@ For most terrestrial fungi, wind is the primary dispersal vector:
 
 ## See Also
 
+- [[fungal-spore-discharge-catapult-mechanism]]
+
+- [[bloomfield-birds-nest-fungi-peridiole-splash-herbivore-dispersal]]
+
+- [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]]
+
+- [[fungal-spore-discharge-mechanisms]]
+- [[bloomfield-stokes-law-fungal-spore-sedimentation]]
+
 - [[bloomfield-saprolegnia-water-mold-zoospore-discharge]]
 
-- [[coprophilous-fungi-ecology]]
+- coprophilous-fungi-ecology
 - [[fungal-spore-biology]]
 - [[phoenicoid-fungi-fire-associated-ascomycetes-basidiomycetes]]
 - [[fukuoka-learning-about-nature-distances-one-from-nature]]

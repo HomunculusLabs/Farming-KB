@@ -1,5 +1,5 @@
 ---
-title: Hindu Kush Cannabis Strain Description (Clarke)
+title: Hindu Kush blesching-cannabis-strain-selection-receptor-targeting Description (Clarke)
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## Geographic Origin
 
-The Hindu Kush strain originates from the foothills of the Hindu Kush mountain range (up to 3,200 meters / 10,000 feet) spanning Afghanistan and Pakistan, at 30 to 37 degrees north latitude. These areas have been centers of Cannabis cultivation for hundreds of years, primarily for hashish production.
+The Hindu Kush strain originates from the foothills of the Hindu Kush mountain range (up to 3,200 meters / 10,000 feet) spanning Afghanistan and Pakistan, at 30 to 37 degrees north latitude. These areas have been centers of [[query-how-does-no-till-cannabis-cultivation-work]] for hundreds of years, primarily for hashish production.
 
 ## Historical Context and Uses
 
@@ -35,7 +35,7 @@ The Hindu Kush strain originates from the foothills of the Hindu Kush mountain r
 ### Leaves
 - Dark green
 - 5 to 9 very wide, coarsely serrated leaflets in a circular array
-- Lower leaf surface often lighter in color than upper surface
+- Lower [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] often lighter in color than upper surface
 - So few broad coarse leaflets that they are often compared to a maple leaf
 
 ### Flowers
@@ -50,7 +50,7 @@ The Hindu Kush strain originates from the foothills of the Hindu Kush mountain r
 ## Maturation and Growth Characteristics
 
 - **Early maturation**: One of the most famous early-maturing strains
-- **Extreme resin production**: Characteristic of these strains, possibly resulting from acclimatization to northern temperate latitudes and selection for hashish production
+- **Extreme [[cannabis-glandular-trichome-types-resin-production-clarke]]**: Characteristic of these strains, possibly resulting from acclimatization to northern temperate latitudes and selection for hashish production
 - The acrid smell associated with Hindu Kush strains appears very early in the seedling stage of both staminate and pistillate individuals and continues throughout the plant's life
 - Sweet aromas do often develop but the strain usually loses the sweet fragrance early, along with the clear cerebral psychoactivity
 
@@ -79,12 +79,12 @@ This produces hybrid offspring with:
 - Sweet taste
 - Ability to mature high-quality flowers in northern climates
 
-Many hybrid crosses of this type are made each year and are currently cultivated in many areas of North America.
+Many hybrid crosses of this type are made each year and are currently cultivated in many areas of [[psilocybin-north-america-pacific-northwest]].
 
 ## Related Topics
 
 - [[cannabis-breeding-basics]] - Breeding fundamentals
-- [[cannabis-colombian-strain-description-clarke]] - Colombian strain profile
+- [[cannabis-colombian-strain-description-clarke]] - [[cannabis-colombian-strain-description-clarke]] profile
 - [[kalapuya]]
 
 - [[jedi-kush]]

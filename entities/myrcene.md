@@ -12,8 +12,8 @@ sources:
 # Myrcene
 
 Myrcene (7-methyl-3-methylene-1,6-octadiene), also known as β-myrcene, is an
-acyclic monoterpene hydrocarbon (C₁₀H₁₆) found in the essential oils of
-numerous plants including cannabis (Cannabis sativa L.), hops (Humulus lupulus),
+acyclic monoterpene hydrocarbon (C₁₀H₁₆) found in the [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] of
+numerous plants including cannabis ([[comparison-cannabis-sativa-vs-cannabis-indica]] L.), hops (Humulus lupulus),
 lemongrass (Cymbopogon citratus), thyme (Thymus vulgaris), bay laurel
 (Laurus nobilis), and mango (Mangifera indica). It is the most abundant
 terpene in the majority of commercial cannabis cultivars, typically comprising
@@ -73,8 +73,8 @@ Myrcene is one of the most widely distributed monoterpenes. Notable sources:
 ## Role in Cannabis
 
 Myrcene is the dominant terpene in ~60–70% of commercial cannabis cultivars:
-- **Entourage effect:** Hypothesized to enhance THC bioavailability by
-  increasing cell membrane permeability, potentially aiding blood-brain
+- **[[cannabis-terpene-entourage-effect-profiles]]:** Hypothesized to enhance THC bioavailability by
+  increasing [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] permeability, potentially aiding blood-brain
   barrier crossing; limited direct experimental confirmation
 - **Sedative contribution:** Strains high in myrcene (>0.5% w/w) are
   consistently associated with sedative, relaxing "couch-lock" effects;
@@ -122,7 +122,7 @@ studies:
 - **Fragrance:** Fresh, green, balsamic character in men's fragrances,
   fougère accords, and "green" compositions
 - **Brewing:** Major hop-derived flavor compound in beer (IPAs, pale ales)
-- **Cannabis industry:** Tracked in COAs; used for chemotype classification
+- **Cannabis industry:** Tracked in COAs; used for [[cannabis-chemotype-classification-cannabinoid-breeding]]
   and marketing ("high-myrcene" labels)
 - **Industrial precursor:** Starting material for nerol, geraniol,
   citronellol via chemical or enzymatic modification
@@ -131,7 +131,7 @@ studies:
 
 | Compound | Formula | Key Difference | Primary Role |
 |----------|---------|----------------|--------------|
-| Myrcene | C₁₀H₁₆ | Acyclic monoterpene | Most abundant cannabis terpene |
+| Myrcene | C₁₀H₁₆ | Acyclic monoterpene | Most abundant [[oner-cannabis-terpene-profiles-effects]] |
 | Limonene | C₁₀H₁₆ | Monocyclic (ring) | Citrus aroma, mood elevation |
 | Linalool | C₁₀H₁₈O | Acyclic + alcohol group | Floral, sedative, anxiolytic |
 | β-Caryophyllene | C₁₅H₂₄ | Bicyclic sesquiterpene | CB2 agonist, anti-inflammatory |
@@ -141,8 +141,9 @@ studies:
 | Terpinolene | C₁₀H₁₆ | Monocyclic + exocyclic double bond | Piney, floral, sedative |
 ## See Also
 
-- [[cannabis-sativa]]
+- [[romulan]]
+
 - [[cannabis-sativa]]
 - [[og-kush]]
 
-See also: [[cannabis-terpenes-and-the-entourage-effect]]
+See also: [[query-what-is-the-cannabis-entourage-effect]]

@@ -9,7 +9,7 @@ type: comparison
 ---
 # Main-Lining vs Screen of Green
 ## Overview
-Main-lining and Screen of Green (SCROG) are two of the most effective plant training techniques
+Main-lining and Screen of Green (SCROG) are two of the most effective plant [[cannabis-training-techniques-comparison]]
 for maximizing cannabis yield in indoor environments. Both techniques aim to create an even,
 flat canopy that exposes the maximum number of bud sites to direct light. However, they differ
 fundamentally in their approach, complexity, and the type of grower they best serve. Main-lining
@@ -32,12 +32,12 @@ The screen also serves a dual purpose by providing structural support for heavy 
 late flowering, reducing or eliminating the need for bamboo stakes, yo-yo hangers, or other
 support systems. The method is compatible with any growing medium including soil, coco coir,
 and hydroponic systems, and adapts easily to various container sizes. Growers typically aim
-to fill 70 to 80 percent of the screen before switching to the 12/12 flowering cycle, as
+to fill 70 to 80 percent of the screen before switching to the 12/12 [[cannabis-sativa-flowering-cycle-management]], as
 the remaining stretch during early flowering will fill the remaining gaps.
 One of SCROG's biggest advantages is its accessibility for beginners. Unlike main-lining,
 which requires precise timing and a deep understanding of plant architecture, SCROG is
 relatively intuitive. As long as branches are consistently tucked under the screen during
-vegetative growth, the plant naturally adapts to the grid pattern. The method also allows
+[[cannabis-vegetative-growth-stage]], the plant naturally adapts to the grid pattern. The method also allows
 for flexible plant counts; a single large plant can fill an entire screen over a long veg
 period, or several smaller plants can share the space for a faster turnaround. SCROG can
 be combined with other techniques like topping, fimming, or LST to further increase branching
@@ -63,7 +63,7 @@ to extract maximum yield and quality from each one. Medical growers working with
 plant-count limits often find main-lining ideal because it transforms a single plant into a
 multi-cola powerhouse that fills the canopy space effectively. The technique is also excellent
 for growers who value uniformity above all else; because every cola receives nearly identical
-light exposure and airflow, harvest timing is simplified and overall bud quality is consistent
+light exposure and airflow, [[cannabis-harvest-timing-visual-cues]] is simplified and overall bud quality is consistent
 from top to bottom of the plant.
 Additionally, main-lining produces visually impressive plants that are easier to manicure and
 harvest. The open manifold structure means fewer hidden bud sites in shadowed lower zones,
@@ -82,18 +82,20 @@ over under their own weight during late flowering.
 SCROG excels in grow tents and small indoor spaces where maximizing every square foot of
 canopy matters. The screen creates a defined boundary for plant growth, making height
 management predictable and straightforward throughout the grow. For hydroponic growers, SCROG
-integrates seamlessly with drip systems, deep water culture, and ebb-and-flow setups. The
+integrates seamlessly with drip systems, [[cannabis-deep-water-culture-guide]], and ebb-and-flow setups. The
 method is also highly adaptable; you can start with a simple nylon net screen and upgrade
 to more rigid trellising as your experience and confidence grow over successive runs.
 ## Hybrid Approaches
 Many experienced growers combine both techniques for exceptional results. A main-lined plant
 can be trained under a SCROG screen, where the symmetrical manifold structure fills the grid
-evenly and the screen provides additional support during the heavy flowering phase. This
+evenly and the screen provides additional support during the heavy [[green-cannabis-grow-bible-flowering-phase-and-harvest]]. This
 hybrid approach offers the structural precision of main-lining with the physical constraints
 and support benefits of SCROG. Some growers also use main-lining during early vegetative
 growth to establish the primary manifold, then introduce a screen for the final weeks of
 vegetative growth to fine-tune canopy evenness before flipping to the 12/12 flowering cycle.
 ## See Also
+
+- [[comparison-sea-of-green-vs-screen-of-green]]
 - [[cannabis-training-techniques-comparison]]
 - [[cannabis-pruning-and-defoliation-guide]]
 - [[comparison-topping-vs-fimming]]

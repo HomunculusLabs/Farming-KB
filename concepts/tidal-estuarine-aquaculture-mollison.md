@@ -1,21 +1,22 @@
 ---
-title: Tidal Estuarine Aquaculture Mollison
+title: Tidal tidal estuarine aquaculture mollison Mollison
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
-  - raw/papers/bill-mollison-permaculture-design-course.md
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # Tidal and Estuarine Aquaculture
 
 updated: 2026-04-18
 
-Permaculture Two (1979) Sections 7.5-7.6 document strategies for tidal flat management, estuarine fishery enhancement, and sea-land nutrient cycling. This extends [[mollison-marine-aquaculture]]
-- [[mollison-pond-design-freshwater-aquaculture]]
-- [[mollison-permaculture-two-coastal-marine-aquaculture]]
-- [[mollison-native-seed-forage-systems-and-arid-species-lists]]
+Permaculture Two (1979) Sections 7.5-7.6 document strategies for tidal flat management, estuarine fishery enhancement, and sea-land [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. This extends mollison-marine-aquaculture
+- mollison-pond-design-freshwater-aquaculture
+- mollison-permaculture-two-coastal-marine-aquaculture
+- mollison-native-seed-forage-systems-and-arid-species-lists
 ## Background and Context
 
 Tidal Estuarine Aquaculture Mollison is an important subject that has garnered significant attention
@@ -66,7 +67,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -143,5 +144,7 @@ include primary research literature, established reference works,
 practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
-area and contributing to its ongoing development and refinement.
-
+## See Also
+- [[mollison-salicornia-flats-and-estuarine-aquaculture]]
+- [[mollison-designers-trout-and-cool-water-aquaculture-species]]
+- [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]

@@ -20,7 +20,7 @@ In mild cases, diminished oxygen supply to tissue occurs. In acute cases, thicke
 
 ## Evidence Base
 
-The Cannabis Health Index (CHI) rates the evidence for cannabis in atherosclerosis at a CHI value of 6, based on 3 studies reviewed. The evidence comes primarily from laboratory and animal studies but provides a compelling mechanistic rationale.
+The [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI) rates the evidence for cannabis in atherosclerosis at a CHI value of 6, based on 3 studies reviewed. The evidence comes primarily from laboratory and animal studies but provides a compelling mechanistic rationale.
 
 ## Immune System Modulation
 
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

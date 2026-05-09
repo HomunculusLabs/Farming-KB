@@ -5,6 +5,7 @@ updated: 2026-04-14
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
+  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 ## Water Power on the Krameterhof
@@ -61,8 +62,8 @@ While not energy generation per se, Holzer's building methods dramatically reduc
 ### Masonry Stove Effect
 - House and shed walls made of brick or stone store heat during the day
 - Release it slowly at night
-- Used to create microclimates for heat-loving fruit trees (peach, apricot)
-- Espalier fruit trees planted against warm walls extend the growing season
+- Used to [[query-how-do-i-create-microclimates-in-my-garden]] for heat-loving [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] (peach, apricot)
+- Espalier fruit trees planted against warm walls [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season
 - Even at altitude, this technique allows Mediterranean species to fruit
 
 ## Design Philosophy
@@ -72,7 +73,7 @@ Holzer's approach to energy is characterised by:
 1. **Multiple functions**: Every water system serves energy, irrigation, aquaculture, and ecological functions simultaneously
 2. **No external inputs**: Systems use gravity, water flow, and thermal mass -- no fossil fuels
 3. **Cascading use**: Water used for power generation then flows to fish ponds, then to irrigation
-4. **Low cost**: Using salvaged materials (old Pelton wheels, local timber) keeps costs minimal
+4. **[[jadam-ultra-low-cost-agriculture]]**: Using salvaged materials (old Pelton wheels, local timber) keeps costs minimal
 5. **Reliability**: Simple mechanical systems with few moving parts are durable and maintainable
 6. **Scalability**: The same principles work at any scale, from a small holding to a large farm
 

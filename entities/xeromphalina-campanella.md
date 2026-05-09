@@ -19,7 +19,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Kuo, M. (2024). "Xeromphalina campanella." MushroomExpert.com.
-  - Miller, O.K. & Miller, H.H. (2006). "North American Mushrooms: A Field Guide to Edible and Inedible Fungi." Timber Press.
+  - Miller, O.K. & Miller, H.H. (2006). "[[growing-gourmet-north-american-reishi-species]] Mushrooms: A Field Guide to Edible and Inedible Fungi." Timber Press.
   - Corner, E.J.H. (1970). "Supplement to 'A Monograph of Clavaria and Allied Genera.'" Nova Hedwigia.
   - Redhead, S.A. (1984). "Xeromphalina: a reevaluation with observations on X. campanella and X. kauffmanii." Sydowia.
 created: 2026-05-07
@@ -33,7 +33,7 @@ commonly called the **fairy bonnet** or **golden trumpet** for its tiny,
 bell-shaped, orange-tawny fruiting bodies that densely carpet decaying wood.
 
 It forms spectacular clustered fruitings on logs, stumps, and buried wood of
-conifers and hardwoods across temperate and boreal forests of the Northern
+conifers and hardwoods across temperate and [[fungal-diversity-boreal-forests-taiga]] of the Northern
 Hemisphere. Despite its small size (caps 5–15 mm), its abundance makes it one
 of the most frequently encountered wood-inhabiting mushrooms.
 
@@ -77,17 +77,17 @@ in coastal and southern regions.
 Found almost exclusively on decaying conifer wood — logs, stumps, branches,
 and buried roots. Occasionally on hardwoods. Prefers well-decayed wood in
 advanced stages of decomposition, often sharing substrate with other
-late-stage wood decomposers like *Trametes versicolor* and *Bjerkandera
+late-stage wood decomposers like *[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]* and *Bjerkandera
 adusta*.
 
 ## Ecological Role
 
 **Xeromphalina campanella** is a primary white-rot decomposer of dead wood.
-It produces lignin-modifying enzymes (laccase, manganese peroxidase) that
+It produces lignin-modifying enzymes (laccase, [[fungal-manganese-peroxidase-remediation]]) that
 break down lignin and cellulose in woody substrates.
 
-Its role in forest nutrient cycling is significant despite its small fruiting
-body size. The mycelial network permeates large volumes of decaying wood,
+Its role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] is significant despite its small fruiting
+body size. The [[gadd-mycelial-network-dynamics]] permeates large volumes of decaying wood,
 accelerating carbon release and making nutrients available to other soil
 organisms. It frequently forms extensive colonies covering entire logs,
 indicating efficient resource colonization.

@@ -1,5 +1,5 @@
 ---
-title: Bacterial Dominant vs Fungal Dominant Compost Tea
+title: comparison bacterial dominant vs fungal dominant tea vs Fungal Dominant Compost Tea
 created: 2026-04-28
 date: 2026-04-25
 updated: 2026-04-25
@@ -14,12 +14,12 @@ type: comparison
 ## Overview
 
 [[aact-fungal-dominant-tea]] represent two 
-distinct formulations of actively aerated compost tea, each designed to support 
+distinct formulations of actively [[actively-aerated-compost-tea]] tea, each designed to support 
 different plant types and soil conditions. Bacterial-dominant teas promote the 
-rapid nutrient cycling favored by annual vegetables and grasses, while 
-fungal-dominant teas build the soil structure and disease suppression 
+rapid [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] favored by annual vegetables and grasses, while 
+fungal-dominant teas build the soil structure and [[aact-disease-suppression-mechanisms-ingham]] 
 associated with perennial plants and woody systems. Understanding which 
-microbial community your plants need is essential for effective compost tea 
+[[edaphic-factors-microbial-community-structure]] your plants need is essential for effective compost tea 
 application, because applying the wrong microbial balance can waste resources 
 or even create conditions unfavorable to your target crops.
 
@@ -28,7 +28,7 @@ or even create conditions unfavorable to your target crops.
 Bacterial-dominant compost tea is brewed using molasses as the primary food 
 source, which selectively feeds bacteria and encourages their rapid 
 multiplication. The resulting tea contains predominantly bacterial populations 
-with relatively low fungal biomass. Dissolved oxygen must remain above 6 parts 
+with relatively low fungal biomass. [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] must remain above 6 parts 
 per million throughout the brewing cycle, typically 24 hours, to maintain 
 aerobic conditions that favor beneficial bacteria over pathogens. 
 Bacterial-dominant tea is the standard recommendation for annual vegetable 
@@ -127,4 +127,5 @@ biological assessments rather than assumptions about what your plants need.
 
 - [[aact-fungal-dominant-tea]] for fungal tea brewing methods
 - [[aact-brewing-ingredients-ingham]] for ingredient selection
-- [[mycorrhizal-fungi-in-aact]] for mycorrhizal considerations in tea brewing
+- mycorrhizal-fungi-in-aact for mycorrhizal considerations in tea brewing
+- [[fungal-hyphae]]

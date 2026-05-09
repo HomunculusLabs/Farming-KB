@@ -1,5 +1,5 @@
 ---
-title: "Straw Substrate Preparation for Oyster Mushrooms"
+title: "Straw cotter-compost-substrate-preparation-manure-mushroom-cultivation for query-how-to-grow-oyster-mushrooms-at-home"
 created: 2026-04-28
 tags: [substrate, straw, preparation, regional-methods]
 date: 2026-04-28
@@ -10,7 +10,7 @@ type: concept
 
 # Straw Substrate Preparation for Oyster Mushrooms
 
-Straw has long been favored as a substrate for oyster mushroom cultivation
+Straw has long been favored as a substrate for oyster [[accessible-mushroom-cultivation-for-disabilities]]
 because it is easy to obtain in most regions and rich in lignin and cellulose.
 Various types of straw including wheat straw, rice straw, and paddy straw
 serve as the primary substrate in many countries. Preparation methods vary
@@ -43,12 +43,12 @@ The standard straw preparation process involves several key steps:
 
 ## The Palm Test Method
 
-The palm test is a simple, widely used technique to check substrate moisture
+The palm test is a simple, widely used technique to check [[pf-tek-substrate-moisture-diagnosis-and-correction]]
 content. Take a fistful of the substrate mixture and squeeze tightly. If just
 a few drops of water are released with pressure, the moisture content is
 correct. If water streams out freely, the substrate is too wet and will
 impede air flow. If no water is released, the substrate is too dry and
-mycelial growth will be poor. This method is used across all Oyster Substrate Preparation systems worldwide.
+[[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] will be poor. This method is used across all Oyster Substrate Preparation systems worldwide.
 
 ## Regional Preparation Methods
 
@@ -119,12 +119,12 @@ ingredients are mixed dry, then water is added to achieve 60-65% moisture.
 Straw substrates are commonly supplemented with nitrogen sources to improve
 yields. Typical supplements include wheat bran (10-20%), rice bran (5-10%),
 and other protein-rich materials. The amount of supplementation depends on
-the cultivation method: sterilized substrates can tolerate higher
+the [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]]: sterilized substrates can tolerate higher
 supplementation, while non-sterilized methods require lower levels to avoid
 contamination. Gypsum, limestone, and chalk serve as pH buffers.
 
 ## See Also
-- [[mushroom-training-oyster-straw-cultivation]]
+- mushroom-training-oyster-straw-cultivation
 - [[oyster-mushroom-substrate-preparation]]
 
 - oyster straw substrate preparation
@@ -132,3 +132,6 @@ contamination. Gypsum, limestone, and chalk serve as pH buffers.
 - oyster straw substrate preparation
 - Oyster Juncao Grass Substrate
 - [[oyster-substrate-fermentation]]
+- [[substrate-preparation]]
+- [[oyster-mushroom]]
+- [[oyster-mushrooms]]

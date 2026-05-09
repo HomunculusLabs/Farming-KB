@@ -1,5 +1,5 @@
 ---
-title: "What Is Shellac and How Is It Produced from Lac Insects?"
+title: "What Is Shellac and How Is It query what is shellac and how is it produced from lac insects Insects?"
 tags: [query, shellac, lac-insect, kerria-lacca, natural-resin, wood-finishing, food-coating, insect-agriculture, entomology]
 date: 2026-04-28
 updated: 2026-04-28
@@ -16,11 +16,11 @@ created: 2026-04-28
 
 ## Quick Answer
 
-Shellac is a natural resin secreted by the lac insect (*Kerria lacca*), a tiny [[magic-mushrooms-southeast-asia-pacific]]. The insects encase themselves in layers of this resin as they grow. After 5–6 months, farmers harvest the resin-covered branches, crush and wash the material, then refine it into shellac flakes that dissolve in alcohol to create a versatile finish, food coating, or pharmaceutical glaze.
+Shellac is a natural resin secreted by the lac insect (*Kerria lacca*), a tiny magic-mushrooms-southeast-asia-pacific. The insects encase themselves in layers of this resin as they grow. After 5–6 months, farmers harvest the resin-covered branches, crush and wash the material, then refine it into shellac flakes that dissolve in alcohol to create a versatile finish, food coating, or pharmaceutical glaze.
 
 ## How the Lac Insect Makes Shellac
 
-1. **Crawlers settle** on host tree branches and insert mouthparts into the phloem
+1. **Crawlers settle** on [[ectomycorrhizal-host-tree-partnerships]] branches and insert mouthparts into the phloem
 2. **They feed on tree sap** and excrete the resin as a protective shell around their bodies
 3. **Each molt adds another layer** of resin — by adulthood, the insect is entirely encased
 4. **The resin is a complex polyester** of aleuritic acid, shellolic acid, wax esters, and red dyes (laccaic acids)
@@ -85,7 +85,7 @@ Trees must be at least 3–5 years old. Brood lac (resin-encrusted branches with
 
 ## How to Use Shellac (Woodworking)
 
-1. **Buy flakes**, not premixed liquid — shelf life of flakes is indefinite; mixed shellac expires in 6–12 months
+1. **Buy flakes**, not premixed liquid — [[psilocybin-shelf-life-stability]] of flakes is indefinite; mixed shellac expires in 6–12 months
 2. **Dissolve in denatured ethanol** — a "3 lb cut" (3 oz flakes per pint of ethanol) is the general-purpose standard
 3. **Apply thin coats** with a brush or pad — each coat dries in 15–30 minutes
 4. **Sand lightly** between coats with 320+ grit
@@ -122,6 +122,8 @@ Shellac has unique advantages that synthetics can't fully replicate:
 - **Mixed shellac expires** but **dry flakes last forever** — always buy flakes
 
 ## See Also
+
+- [[comparison-beeswax-vs-shellac-vs-carnauba-wax]]
 
 - [[query-what-is-biodynamic-agriculture-and-how-does-it-differ-from-organic]]
 

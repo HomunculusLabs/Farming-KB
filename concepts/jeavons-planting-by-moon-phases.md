@@ -1,5 +1,5 @@
 ---
-title: Planting by Moon Phases
+title: jeavons planting by moon phases Phases
 created: 2026-04-28
 tags: [biointensive, seed-propagation, moon-phases, lunar-gardening, planting-calendar]
 date: 2026-04-28
@@ -11,7 +11,7 @@ type: concept
 # Planting by Moon Phases
 
 Planting by the phases of the moon is a traditional gardening
-technique incorporated into the GROW BIOINTENSIVE method by Alan
+technique incorporated into the [[jeavons-grow-biointensive-method-overview]] method by Alan
 Chadwick. While controversial among some gardeners, it is presented
 as a nuanced practice that can improve the health and quality of
 plants, especially as soil improves and gardening experience grows.
@@ -89,7 +89,7 @@ planting activities, though maintenance tasks continue.
 ## Practical Observations
 
 Temperature and moisture differences, pH changes, and humus levels
-all influence seed germination. However, marked differences in
+all influence [[cannabis-seed-germination-methods]]. However, marked differences in
 germination time for the same crop under similar conditions may be
 partially explained by the phase of the moon at sowing time.
 

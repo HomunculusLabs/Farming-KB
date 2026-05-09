@@ -1,5 +1,5 @@
 ---
-title: Arbmycorrhizal-inoculum-productionoduction Best Practices
+title: Arbmycorrhizal-inoculum-productionoduction [[knf-imo-diversity-and-best-practices]]
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -8,7 +8,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-a-designers-ma
 ---
 # Arbuscular Mycorrhizal Inoculum Production Best Practices
 
-The production of high-quality [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]] exists on a continuum from parasitism to mutualism. Initial colonization of young seedlings may cause growth depression as the plant experiences stress from carbon allocation to the fungus. Following this alarm phase, the plant may overcompensate, resulting in net growth benefit. In inoculum production, conditions are deliberately managed to force host plants to allocate maximum carbohydrate to the fungus while balancing the symbiosis through nutrient and irrigation management to favor fungal sporulation.
+The production of high-quality [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]] exists on a continuum from parasitism to mutualism. Initial colonization of young seedlings may cause growth depression as the plant experiences stress from [[mycorrhizal-carbon-allocation]] to the fungus. Following this alarm phase, the plant may overcompensate, resulting in net growth benefit. In inoculum production, conditions are deliberately managed to force host plants to allocate maximum carbohydrate to the fungus while balancing the symbiosis through nutrient and irrigation management to favor [[gadd-fungal-sporulation-aerobiology]].
 
 Initial colonization of young seedlings may cause growth depression as the plant experiences stress from carbon allocation to the fungus.
 
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: Traditional Vegetable Pest Control with Pyrethrum and Derris
+title: Traditional Vegetable comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol with Pyrethrum and Derris
 created: 2026-04-28
 tags:
   - fukuoka
@@ -18,9 +18,9 @@ type: concept
 ## Overview
 
 Before the widespread adoption of synthetic pesticides, Japanese vegetable
-growers relied on a small toolkit of natural insect control methods.
+growers relied on a small toolkit of natural [[mushroom-pests-insect-control-stamets]] methods.
 Masanobu Fukuoka draws on his wartime experience at the Kochi Prefecture
-Agricultural Testing Station to describe these traditional techniques in
+Agricultural [[fukuoka-straw-scattering-testing-station-resistance]] to describe these traditional techniques in
 detail, arguing that they remain not only viable but superior to chemical
 approaches. His account reveals a sophisticated understanding of insect
 behavior, plant resistance, and the role of biological balance that
@@ -67,8 +67,8 @@ up seedlings and uproot young plants. Introducing fowl after vegetables
 
 ## See also
 
-- Disease and Pest Management Without Chemicals
-- Semi-Wild Vegetable Cultivation [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]] Rotation and Vegetable Methods
+- Disease and [[cannabis-pest-management-guide]] Without Chemicals
+- Semi-Wild Vegetable Cultivation [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]] [[hamilton-crop-rotation-and-vegetable-planning]] Methods
 
 ## See Also
 
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

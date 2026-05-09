@@ -69,11 +69,11 @@ The species supports epiphytic growth of smaller algae and diatoms on its frond 
 
 In permaculture and coastal management, the species is recognized for its role in coastal protection. Dense beds attenuate wave energy and reduce erosion of underlying rock surfaces.
 
-It is harvested sustainably in Ireland, Scotland, and France for use in organic fertilizers and animal feed supplements. Regulations require cutting above the holdfast to ensure regeneration.
+It is harvested sustainably in Ireland, Scotland, and France for use in [[hamilton-organic-fertilizers-and-plant-nutrition]] and animal feed supplements. Regulations require cutting above the holdfast to ensure regeneration.
 
 ## Chemistry and Nutrition
 
-The primary cell wall polysaccharides are fucoidan, alginate, and cellulose. Fucoidan from *F. serratus* has demonstrated anticoagulant, antiviral, and immunomodulatory activities in laboratory studies.
+The primary [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] polysaccharides are fucoidan, alginate, and cellulose. Fucoidan from *F. serratus* has demonstrated anticoagulant, antiviral, and immunomodulatory activities in laboratory studies.
 
 Alginates extracted from this species have applications in food processing, pharmaceuticals, and biotechnology as gelling and stabilizing agents. The alginate quality is comparable to that from *Laminaria* species.
 
@@ -81,7 +81,7 @@ Ash content is approximately 20–25% of dry weight, reflecting high mineral con
 
 Polyphenolic compounds, primarily phlorotannins, provide antioxidant activity and chemical defense against herbivory. Phlorotannin content varies seasonally, peaking during summer months.
 
-Protein content ranges from 5–15% of dry weight with a balanced amino acid profile. Lipid content is low at 1–3%, but includes beneficial omega-3 and omega-6 fatty acids.
+Protein content ranges from 5–15% of dry weight with a balanced [[cho-fish-amino-acid-preparation]] profile. Lipid content is low at 1–3%, but includes beneficial omega-3 and omega-6 [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]].
 
 Mannitol is the principal storage carbohydrate, present at 10–15% of dry weight. It serves both as a carbon reserve and as an osmotic调节agent in fluctuating salinity conditions.
 
@@ -97,13 +97,15 @@ Experimental aquaculture has explored rope-seeding methods similar to those used
 
 Its requirement for rocky substrate rather than suspended rope culture complicates large-scale farming. Research into seeded stone or tile substrates shows some promise for land-based cultivation systems.
 
-Optimal growth conditions include water temperatures of 8–16°C, salinity above 25‰, and moderate water movement. Nutrient availability, particularly nitrogen and phosphorus, is a primary limiting factor.
+Optimal growth conditions include water temperatures of 8–16°C, salinity above 25‰, and moderate water movement. [[ph-and-nutrient-availability-garden-soils]], particularly nitrogen and phosphorus, is a primary limiting factor.
 
 Seasonal growth peaks in late spring and early summer when daylight hours and nutrient availability are both high. Growth ceases or slows dramatically above 18°C.
 
 Reproductive maturity is reached at approximately 2–3 years of age. Gamete release is synchronized by lunar and tidal cycles, typically occurring during spring tides in April and May.
 
 ## See Also
+
+- [[fucus-spiralis]]
 
 - [[laminaria-digitata]]
 - [[palmaria-palmata]]

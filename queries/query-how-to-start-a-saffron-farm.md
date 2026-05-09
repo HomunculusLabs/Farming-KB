@@ -22,7 +22,7 @@ type: query
 - [ ] Confirm your USDA Hardiness Zone is 6–9 (or plan for indoor/greenhouse production)
 - [ ] Test soil: target sandy loam, pH 6.0–8.0, excellent drainage
 - [ ] Source 50,000–70,000 corms per acre from a reputable supplier
-- [ ] Prepare raised beds or well-drained rows with drip irrigation
+- [ ] Prepare [[comparison-raised-beds-vs-hugelkultur]] or well-drained rows with [[comparison-drip-irrigation-vs-passive-irrigation]]
 - [ ] Plant corms 2–4 inches deep, 4–6 inches apart, late August–September
 - [ ] Harvest flowers daily during the 2–3 week bloom window (October–November)
 - [ ] Extract and dry stigmas within hours of picking
@@ -40,7 +40,7 @@ Yes, with caveats. Gross revenue per acre ranges from $2,500–$75,000 depending
 
 ### How much land do I need?
 
-You can start with as little as 1/8 acre (a backyard plot) to test the process. A commercially viable operation typically starts at 1/2 to 1 acre. Each acre holds roughly 50,000–70,000 corms. Saffron is ideal for small-scale or diversified farms because of its high value per square foot.
+You can start with as little as 1/8 acre (a backyard plot) to test the process. A commercially viable operation typically starts at 1/2 to 1 acre. Each acre holds roughly 50,000–70,000 corms. Saffron is ideal for small-scale or diversified farms because of its high value per [[comparison-biointensive-vs-square-foot-gardening]].
 
 ### What climate zone is required?
 
@@ -56,7 +56,7 @@ Saffron thrives in USDA Zones 6–9. It needs hot, dry summers and cool-to-cold 
 | Tools & small equipment | $1,000 – $2,500 |
 | Drying equipment (dehydrator or climate-controlled room) | $500 – $2,000 |
 | Labor (harvest, ~200–400 person-hours) | $3,000 – $8,000 |
-| Misc. (fertilizer, pest management, packaging) | $500 – $1,500 |
+| Misc. (fertilizer, [[cannabis-pest-management-guide]], packaging) | $500 – $1,500 |
 | **Total Estimated Startup** | **$23,500 – $64,000** |
 
 A lean startup on already-owned land with volunteer/family labor can be done for **$20,000–$30,000**.
@@ -99,7 +99,7 @@ For a 1-acre farm: **6–12 workers** during the 2–3 week harvest window. Each
 ### What are the biggest risks?
 
 1. **Weather during bloom** — heavy rain or frost during the 2–3 week flower window can destroy the entire crop
-2. **Corm rot and fungal disease** — poor drainage or overwatering kills corms; Fusarium is the main threat
+2. **Corm rot and [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]]** — poor drainage or overwatering kills corms; Fusarium is the main threat
 3. **Labor shortage at harvest** — flowers won't wait; missing even 2 days of picking means lost yield
 4. **Corm quality/predation** — rodents, nematodes, and poor-quality planting stock devastate returns
 5. **Market access** — selling commodity saffron at low prices makes profitability difficult; direct-to-consumer sales require marketing effort
@@ -123,7 +123,7 @@ For a 1-acre farm: **6–12 workers** during the 2–3 week harvest window. Each
 Yes. Saffron is well-suited for organic production since it requires minimal inputs. To earn **USDA Organic Certification**:
 
 - Follow organic land management practices for 3 years (or use land already certified)
-- No synthetic pesticides or fertilizers — use compost, bone meal, and organic matter
+- No synthetic pesticides or fertilizers — use compost, bone meal, and [[hamilton-composting-and-organic-matter-management]]
 - Maintain buffer zones from conventional agriculture
 - Work with a USDA-accredited certifying agent
 - Record-keeping requirements are manageable for small operations

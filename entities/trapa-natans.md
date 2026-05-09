@@ -63,7 +63,7 @@ species are recognized but often treated as T. natans sensu lato.
 - **Flowers:** Small, white, 4-petaled, 6–12 mm, borne in leaf axils;
   short-lived (one day); insect-pollinated
 - **Fruit:** Woody nut, 2.5–5 cm, bearing 2–4 sharp backward-pointing
-  horns; matures underwater; single seed per fruit
+  horns; matures underwater; [[cervantes-selfing-single-seed-descent]] per fruit
 - **Seeds:** 1–2 cm diameter; starchy white kernel inside hard shell
 - **Seed bank:** Viable 2–12 years in sediment
 
@@ -71,7 +71,7 @@ species are recognized but often treated as T. natans sensu lato.
 
 Native to warm temperate and subtropical Eurasia: Europe (native
 west/central, naturalized east), China (primary cultivation), India,
-Japan, Korea, Southeast Asia. Invasive in northeastern North America,
+Japan, Korea, [[psilocybe-southeast-asia-pacific]]. Invasive in northeastern [[psilocybin-north-america-pacific-northwest]],
 parts of Australia and Africa.
 
 Habitat: still or slow freshwater (ponds, lakes, backwaters, rice
@@ -111,7 +111,7 @@ inhibition in vitro.
 Traditional cultivation in China and India uses shallow pond beds:
 
 - **Site preparation:** Ponds cleared of competing vegetation;
-  nutrient-rich mud substrate amended with organic matter
+  nutrient-rich mud substrate amended with [[hamilton-composting-and-organic-matter-management]]
 - **Planting:** Seeds sown directly, 30–60 cm spacing, in water
   30–100 cm deep; planting season April–June
 - **Fertilization:** Organic manure or decomposed aquatic weeds
@@ -121,7 +121,7 @@ Traditional cultivation in China and India uses shallow pond beds:
 
 ## [[euryale-ferox]] — Fox nut, another aquatic starchy seed crop in
   Asian traditional food systems
-- [[azolla-filiculoides]] — Floating aquatic fern for nitrogen fixation
-  and pond water quality management
+- [[azolla-filiculoides]] — Floating aquatic fern for [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
+  and [[mollison-designers-fish-pond-water-quality-and-aeration]] management
 - lemna — Duckweed, high-protein floating aquatic plant for
   integrated aquaculture systems

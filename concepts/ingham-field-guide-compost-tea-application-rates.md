@@ -52,7 +52,7 @@ The Ingham Field Guide provides specific application rate recommendations for or
 - Soil drench: 15 gallons of compost tea per acre, 2 weeks before planting
 - Seed treatment: roll fungicide-free seed in compost tea with VAM spores; if fungicide-treated seed, place 5 gal/ac in the planting row under seed
 
-**Growing Season:**
+**[[savory-growing-season-and-non-growing-season-management]]:**
 - Foliar spray: 5 gallons per acre, drench foliage and stems every 10-14 days
 - Start 2 weeks before bud break
 - Do not spray when bees are pollinating
@@ -69,7 +69,7 @@ The Ingham Field Guide provides specific application rate recommendations for or
 - Soil drenches are okay anytime, even in rain
 - Above-freezing temperatures are acceptable for application, as long as organisms get into soil before it freezes
 - Winter applications are appropriate if soil temperatures allow establishment before freezing
-- First year may require additional nutrients added in the tea while nutrient cycling gets established
+- First year may require additional nutrients added in the tea while [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] gets established
 
 ## Application Methods
 
@@ -82,11 +82,11 @@ The Ingham Field Guide provides specific application rate recommendations for or
 - Electrostatic sprayers kill organisms; avoid them
 - Pivot irrigation, airplanes, and large droplet systems are acceptable (large droplets protect organisms)
 
-**Drip Irrigation:**
+**[[comparison-drip-irrigation-vs-passive-irrigation]]:**
 - Emitter nozzle size must be at least 200 micrometers (some are as small as 5 micrometers)
 - 400 micrometer emitters allow all microbes including fungal colonies to pass
 - Test to confirm organisms pass through the emitters
-- Clean lines with 3-10% vinegar or 3% hydrogen peroxide
+- Clean lines with 3-10% vinegar or 3% [[cervantes-hydrogen-peroxide-sterilization]]
 
 ## Sticker-Spreaders
 
@@ -113,13 +113,13 @@ For foliar applications where rain or waxy leaf surfaces are concerns:
 
 ## Special Considerations
 
-- If tea is applied to straight sand with no organic matter, organisms do not survive (no food resources)
+- If tea is applied to straight sand with no [[hamilton-composting-and-organic-matter-management]], organisms do not survive (no food resources)
 - Do not plow after tea application on low-OM fields; organisms need food to survive
 - If toxic chemicals are used, reapply tea until toxins are decomposed
 - Air pollution will remove organisms regardless of tea application
 - If inorganic fertilizer above 100 lbs/acre is applied, it becomes problematic for microorganisms; apply water first to move fertilizer into soil, then apply tea
 - Sulphur applications take out some organisms; repeated applications compound the problem
-- Tea with ice-minus bacteria can provide a couple degrees of frost protection
+- Tea with ice-minus bacteria can provide a couple degrees of [[holzer-frost-protection-techniques]]
 
 ## See Also
 
@@ -128,5 +128,5 @@ For foliar applications where rain or waxy leaf surfaces are concerns:
 - [[compost-tea-brewing]]
 - [[foliar-feeding-plants]]
 - [[aact-bacterial-dominant-tea]]
-- [[mycorrhizal-fungi-in-aact]]
+- mycorrhizal-fungi-in-aact
 - [[keyline-design]]

@@ -1,5 +1,5 @@
 ---
-title: "JADAM Rice Cultivation Methods"
+title: "JADAM Rice synthetic-log-cultivation-methods-guide"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-JADAM rice cultivation combines the general JADAM soil foundation approach with specific rice pest and disease control programs. The system achieves high yields through strong root establishment, microbial diversity, and natural pesticide solutions that replace all chemical inputs.
+JADAM rice cultivation combines the general JADAM soil foundation approach with specific rice pest and [[hamilton-pest-and-disease-control-organic]] programs. The system achieves high yields through strong root establishment, microbial diversity, and [[jadam-natural-pesticide-institute-and-research]] solutions that replace all chemical inputs.
 
 ## Soil Foundation for Rice
 
@@ -29,7 +29,7 @@ Apply before rain or mix with water and fully soak the soil. Repeat 3-4 times be
 ### During Growth
 - Apply JMS with every watering, 3-4 times per month
 - Supplement with seawater/sea salt and phyllite solution
-- Use rice straw as fertilizer (not sold off) -- it has the perfect nutritional balance for rice
+- Use rice straw as fertilizer (not sold off) -- it has the perfect [[jadam-nutritional-balance-fertilizer]] for rice
 
 ### Crop Residue Management
 JADAM strongly advocates returning rice straw to the field. The traditional autumn application of organic matter on the soil surface is the proven method. Rice straw contains nutrients specifically selected by rice roots from the soil's nutrient pool -- it is the perfect fertilizer for rice.
@@ -42,7 +42,7 @@ Developed by Seonseop Jeong, Youngsu Hyeon, Seonsu Gim, and [[jerusalem-artichok
 
 **Adjustments for specific problems:**
 - Serious pest/disease infestation: increase JWA and KPFR JHS to over 10 L each
-- Can use only KPFR JHS (take out Jerusalem artichoke JHS)
+- Can use only KPFR JHS (take out [[comparison-jerusalem-artichoke-vs-potato]] JHS)
 - Black stinkbugs: over 10 L JWA + over 15 L KPFR JHS
 - Leaf blight: over 12 L JWA + over 2.5 L JS
 
@@ -83,9 +83,11 @@ Developed by Seonseop Jeong, Youngsu Hyeon, Seonsu Gim, and [[jerusalem-artichok
 
 ## References
 
-- Source: "JADAM Organic Farming" by Youngsang Cho, Natural Pesticides chapter (Formulas #1, #2, #3) and Soil Foundation chapters
+- Source: "JADAM Organic Farming" by Youngsang Cho, [[jadam-pest-control-with-natural-pesticides-jhs]] chapter (Formulas #1, #2, #3) and Soil Foundation chapters
 
 ## See Also
+
+- [[jadam-crop-disease-prevention-methods]]
 
 - [[soil-food-web-nutrient-cycling]]
 - [[compost-tea-recipe-guide]]

@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - K indeed, G.E. (1979). "The history of belladonna." Pharmacy in History, 21(4), 165-172.
-  - Brown, J.H. & Taylor, P. (2001). "Muscarinic Receptor Agonists and Antagonists."
+  - Brown, J.H. & Taylor, P. (2001). "Muscarinic [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]] and Antagonists."
     In Goodman & Gilman's The Pharmacological Basis of Therapeutics, 10th ed.
   - Cárdenas, J.F., de los Ríos, C. & Figueroa-González, G. (2022). "Atropine in
     modern medicine: A review." Journal of Pharmacy and Pharmacology, 74(3), 425-440.
@@ -28,8 +28,8 @@ Atropine is a tropane alkaloid and competitive antagonist of muscarinic
 acetylcholine receptors.
 
 It occurs naturally in plants of the Solanaceae family, particularly
-*Atropa belladonna* (deadly nightshade), *Datura stramonium* (jimsonweed),
-and *Hyoscyamus niger* (henbane).
+*[[belladonna-atropa-belladonna-ethnobotany]]* (deadly nightshade), *Datura stramonium* (jimsonweed),
+and *[[henbane-hyoscyamus-niger-ethnobotany]]* (henbane).
 
 As one of the oldest drugs in continuous medical use, atropine remains on
 the WHO Essential Medicines List for its critical roles in ophthalmology,
@@ -59,6 +59,7 @@ Natural atropine is the racemate of optically active [[scopolamine]] (hyoscine)*
 
 - [[datura-stramonium]]
 - [[hyoscyamus-niger]]
+
 ## Practical Considerations
 
 Successful implementation of Atropine requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

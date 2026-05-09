@@ -10,7 +10,7 @@ type: concept
 
 # Entheogenic Fungi in Human History
 
-The relationship between humans and psychoactive fungi stretches back
+The relationship between humans and [[cattle-dispersal-psychoactive-fungi-australia]] stretches back
 thousands of years and spans virtually every inhabited continent.
 Archaeological evidence, ethnographic records, and rock art all point to
 the use of psilocybin-containing mushrooms in religious, healing, and
@@ -21,7 +21,7 @@ role these fungi have played in many traditional societies.
 ## Prehistoric Evidence
 
 The earliest known evidence of psychoactive mushroom use comes from rock
-art found in various locations around the world. In the Sahara Desert,
+art found in various locations [[fungi-around-the-world-species-distribution]]. In the Sahara Desert,
 mushroom-shaped figures dated to approximately 7,000 to 9,000 years ago
 appear to depict [[virola-surinamensis]]
 
@@ -106,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

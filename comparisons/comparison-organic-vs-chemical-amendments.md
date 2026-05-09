@@ -1,10 +1,11 @@
 ---
-title: "Organic vs Chemical Amendments"
+title: "comparison organic vs chemical amendments Amendments"
 created: 2026-04-28
 tags: [comparison, cannabis, nutrients, fertilizers, soil-amendments]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: comparison
 ---
@@ -13,7 +14,7 @@ type: comparison
 
 ## Overview
 Organic and chemical (synthetic) amendments represent two different approaches
-to providing plant nutrition in cannabis cultivation. Organic amendments rely
+to providing plant nutrition in [[query-how-does-no-till-cannabis-cultivation-work]]. [[cervantes-organic-amendments-chart]] rely
 on natural biological processes to break down complex materials into plant-
 available forms, while chemical amendments deliver purified mineral salts in
 immediately available formulations. The choice between them affects not only
@@ -22,7 +23,7 @@ overall growing experience.
 
 ## Organic Amendments
 [[cervantes-chemical-fertilizers-guide]]
-Chemical fertilizers are purified mineral salts dissolved in water or applied
+[[cervantes-chemical-fertilizers-guide]] are purified mineral salts dissolved in water or applied
 as granules. They provide specific nutrients in precise, immediately available
 concentrations. Cervantes covers soluble, granular, and time-release chemical
 options extensively. Soluble fertilizers are popular for indoor container
@@ -42,8 +43,8 @@ The drawbacks of chemical amendments include the risk of nutrient burn from
 over-application, salt buildup in growing media over time, and the lack of
 biological benefits to soil health. Chemical fertilizers do not feed soil
 microorganisms — in fact, high salt concentrations can suppress microbial
-activity. Plants fed exclusively with synthetic nutrients may develop salt-
-induced nutrient lockout if flushing is inadequate before harvest. The
+activity. Plants fed exclusively with [[query-organic-vs-synthetic-nutrients-cannabis]] may develop salt-
+induced [[cannabis-nutrient-lockout-and-ph]] if flushing is inadequate before harvest. The
 environmental impact of manufacturing and transporting chemical fertilizers is
 also significantly higher than locally sourced organic amendments.
 

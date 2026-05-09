@@ -4,21 +4,22 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [pest-management, conservation, ecology, plants, wildlife, restoration]
-sources: []
+sources:
+  sources: []
 ---
 
 # Invasive Species Management
 
 ## Overview
 
-Invasive species are non-native organisms that cause ecological, economic, or human health harm when introduced to new environments. They outcompete native species, alter ecosystem processes, degrade habitat, and cost the US economy an estimated $120+ billion annually. Invasive species management on the homestead involves identification, prevention, control, and monitoring to protect native biodiversity and ecosystem function. This connects to [[pollinator-conservation|conservation]], [[mycorestoration-overview|restoration]], and [[pollinator-conservation]] efforts.
+Invasive species are non-native organisms that cause ecological, economic, or human health harm when introduced to new environments. They outcompete native species, alter [[fungal-ecosystem-processes-overview]], degrade habitat, and cost the US economy an estimated $120+ billion annually. Invasive species management on the homestead involves identification, prevention, control, and monitoring to protect native biodiversity and ecosystem function. This connects to [[pollinator-conservation]], [[mycorestoration-overview]], and [[pollinator-conservation]] efforts.
 
 ## Identification
 
 ### What Makes a Species Invasive?
 Not all non-native species are invasive. Invasive species share certain traits:
 
-- **Rapid growth and reproduction**: High seed production, vegetative spread, or short generation times
+- **Rapid growth and reproduction**: High [[cervantes-seed-production-storage]], vegetative spread, or short generation times
 - **Lack of natural controls**: No herbivores, parasites, or diseases in the introduced range to regulate populations
 - **Broad environmental tolerance**: Can survive and reproduce across a wide range of conditions
 - **Effective dispersal**: Wind, water, animal, or human-aided dispersal mechanisms
@@ -29,33 +30,33 @@ Not all non-native species are invasive. Invasive species share certain traits:
 
 #### Forest and Woodland Invaders
 - **Japanese knotweed (Fallopia japonica)**: Bamboo-like stems; forms dense monocultures; root system can extend 30+ feet; extremely difficult to eradicate
-- **Garlic mustard (Alliaria petiolata)**: Biennial herb; produces allelopathic chemicals that kill mycorrhizal fungi; threatens forest understory
+- **Garlic mustard (Alliaria petiolata)**: Biennial herb; produces allelopathic chemicals that kill [[mycorrhizal-fungi]]; threatens forest understory
 - **Oriental bittersweet (Celastrus orbiculatus)**: Climbing vine that girdles and kills trees; displaces native bittersweet
 - **Japanese barberry (Berberis thunbergii)**: Thorny shrub that alters soil chemistry; creates favorable conditions for tick populations
 - **Burning bush (Euonymus alatus)**: Decorative shrub that escapes cultivation and forms dense thickets
 
 #### Wetland and Riparian Invaders
 - **Purple loosestrife (Lythrum salicaria)**: Aggressive wetland plant; produces 2-3 million seeds per plant; displaces native wetland vegetation; see [[wetland-ecology]]
-- **Phragmites (Phragmites australis)**: Common reed; forms dense stands up to 15 feet tall; reduces wetland biodiversity; invasive genotype differs from native
+- **Phragmit phragmites australis alis)**: Common reed; forms dense stands up to 15 feet tall; reduces wetland biodiversity; invasive genotype differs from native
 - **Japanese stiltgrass (Microstegium vimineum)**: Annual grass that forms dense mats; shade-tolerant; prolific seed production
 
 #### Grassland and Old-Field Invaders
 - **Spotted knapweed (Centaurea stoebe)**: Taprooted perennial; allelopathic; degrades rangeland and prairie habitat
 - **Leafy spurge (Euphorbia esula)**: Toxic latex; deep root system (20+ feet); extremely difficult to control
-- **Crown vetch (Coronilla varia)**: Aggressive legume; planted for erosion control but escapes and dominates native grasslands
+- **Crown vetch ([[coronilla-varia]])**: Aggressive legume; planted for [[permplant-willows-salix-erosion-control-fodder]] but escapes and dominates native grasslands
 - **Canada thistle (Cirsium arvense)**: Perennial thistle; extensive rhizome system; reduces crop yields and pasture quality
 
 #### Ornamental Escapes
-- **English ivy (Hedera helix)**: Evergreen vine that climbs trees; adds weight that can topple trees during storms; shades out forest understory
+- **English ivy ([[hedera-helix]])**: Evergreen vine that climbs trees; adds weight that can topple trees during storms; shades out forest understory
 - **Wintercreeper (Euonymus fortunei)**: Evergreen groundcover that climbs trees; forms dense mats
-- **Chinese wisteria (Wisteria sinensis)**: Aggressive vine that kills trees and shrubs by shading and girdling
-- **Butterfly bush (Buddleja davidii)**: Despite attracting butterflies, it escapes and displaces native host plants
+- **Chinese wi wisteria sinensis sinensis)**: Aggressive vine that kills trees and shrubs by shading and girdling
+- **Butterfl buddleja davidii davidii)**: Despite attracting butterflies, it escapes and displaces native host plants
 
 ### Common Invasive Animals
 
 #### Insects
 - **Emerald ash borer**: Killed hundreds of millions of ash trees since 2002 arrival
-- **Spotted lanternfly**: Threatens grapes, fruit trees, and hardwoods; expanding range rapidly
+- **Spotted lanternfly**: Threatens grapes, [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], and hardwoods; expanding range rapidly
 - **Hemlock woolly adelgid**: Decimating eastern hemlock forests; no effective control in wild settings
 - **Asian longhorned beetle**: Threatens maples, birches, and other hardwoods
 
@@ -146,15 +147,3 @@ When resources are limited, prioritize invasive species management based on:
 - **Gateway populations**: Infestations at the leading edge of a species' range may prevent wider spread if controlled
 
 ## Native Alternatives
-
-Replace invasive ornamentals with native species that provide similar aesthetic value and ecological function:
-
-| Invasive Plant | Native Alternative | Benefits |
-|---------------|-------------------|----------|
-| Burning bush | Winterberry (Ilex verticillata) | Red berries; bird food |
-| Japanese barberry | Ninebark (Physocarpus opulifolius) | Attractive foliage; pollinator plant |
-| Butterfly bush | Joe-pye weed, New England aster | Native pollinator plants |
-| English ivy | Virginia creeper (Parthenocissus quinquefolia) | Native vine; fall color |
-| Japanese honeysuckle | Coral honeysuckle (Lonicera sempervirens) | Native; hummingbird plant |
-| Russian olive | Serviceberry (Amelanchier laevis) | Edible berries; multi-season interest |
-| Purple loosestrife | Swamp milkweed, blue flag iris | Native wetland plants; pollinator habitat |

@@ -24,7 +24,7 @@ sources:
 **Spartina alterniflora**, commonly known as smooth cordgrass or saltmarsh
 cordgrass, is a perennial rhizomatous grass in the family Poaceae. It is the
 dominant plant species in salt marshes along the Atlantic and Gulf coasts of
-North America.
+[[psilocybin-north-america-pacific-northwest]].
 
 This species is a foundational ecosystem engineer that stabilizes coastal
 sediments, buffers wave energy, and provides critical habitat for commercially
@@ -91,10 +91,10 @@ based coastal defense strategies.
 
 Salt marshes dominated by *S. alterniflora* are among the most productive
 ecosystems on Earth, with net primary productivity reaching 1000–2500 g C/m²/yr.
-Decomposition of this biomass drives nutrient cycling that supports estuarine
+Decomposition of this biomass drives [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] that supports estuarine
 food webs.
 
-The species also contributes to carbon sequestration, with coastal wetlands
+The species also contributes to [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]], with coastal wetlands
 storing carbon at rates 2–4 times greater than terrestrial forests per unit
 area. Blue carbon stored in *Spartina* marsh sediments represents a significant
 climate mitigation asset.
@@ -110,9 +110,9 @@ effluent, municipal wastewater, and stormwater runoff in coastal settings. The
 species removes nitrogen and phosphorus through direct uptake and by enhancing
 microbial denitrification in the rhizosphere.
 
-Research has explored its use in petroleum hydrocarbon remediation in salt
+Research has explored its use in [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] remediation in salt
 marsh environments, where it facilitates microbial degradation of oil compounds
-through root exudate stimulation.
+through [[amf-biocontrol-phytophthora-root-exudate-modification]] stimulation.
 
 ## Invasive Biology and Management
 
@@ -123,7 +123,7 @@ assemblages, and reduced habitat for migratory shorebirds.
 
 Management approaches include physical removal (mowing, digging, smothering),
 chemical control (glyphosate applied to emergent foliage at low tide), and
-biological control. In China, the tide-turning method — introducing seawater
+[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]. In China, the tide-turning method — introducing seawater
 to flood previously reclaimed land — has been used to suppress *Spartina*
 invasion.
 
@@ -134,7 +134,7 @@ for cellulosic ethanol production.
 
 ## See Also
 
-- [[typha-latifolia-entity]]
+- typha-latifolia-entity
 - [[arundo-donax]]
 - [[portulaca-oleracea]]
 - [[trifolium-repens]]

@@ -35,7 +35,7 @@ Africa. The bark of the tree has been used for centuries in traditional
 African medicine as a stimulant, aphrodisiac, and treatment for various
 ailments. Its primary pharmacological significance derives from yohimbine,
 an alpha-2 adrenergic receptor antagonist that has been studied extensively
-for its effects on sexual function and as a research tool in
+for its effects on [[cannabis-for-libido-and-sexual-function]] and as a research tool in
 neuropharmacology.
 
 The tree grows to heights of 15–30 meters and is found in the tropical
@@ -106,7 +106,7 @@ dysfunction, fever, cough, and leprosy. Baka and Mbuti pygmy communities
 historically used the bark as a hunting stimulant and ceremonial
 intoxicant.
 
-In modern herbal medicine, yohimbe bark extract is marketed as a dietary
+In modern [[childrens-herbal-medicine]], yohimbe bark extract is marketed as a dietary
 supplement for sexual enhancement, athletic performance, and weight loss.
 Prescription yohimbine hydrochloride has been approved in some countries
 for the treatment of organic erectile dysfunction, though it has been
@@ -121,7 +121,7 @@ include anxiety, tachycardia, hypertension, sweating, and insomnia.
 
 *P. yohimbe* is difficult to cultivate outside its native range due to
 specific tropical requirements. Seeds lose viability rapidly and require
-moist, warm conditions for germination. Growth rates in plantations are
+moist, warm conditions for germination. [[coleman-sunlight-and-winter-crop-growth-rates]] in plantations are
 slow, with trees taking 15–25 years to reach bark-harvestable size.
 
 Wild populations have declined significantly due to unsustainable bark

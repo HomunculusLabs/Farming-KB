@@ -1,16 +1,17 @@
 ---
-title: Fukuoka: Organic Farming Versus Natural Farming
+title: Fukuoka: coleman-deep-organic-farming-philosophy Versus comparison-natural-farming-vs-permaculture
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 ## The Critical Distinction
 
-One of the farming methods being studied in Japan is the same organic farming that has gained a wide following in Western countries. This is Eastern farming on the same plane as Western farming. Agricultural testing stations and universities have done quite a bit of work with organic methods.
+One of the [[natural-farming-methods-comparison]] being studied in Japan is the same organic farming that has gained a wide following in Western countries. This is Eastern farming on the same plane as Western farming. Agricultural testing stations and universities have done quite a bit of work with organic methods.
 
 - With the soil dead, people say "let us add organic material"
 

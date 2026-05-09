@@ -3,7 +3,7 @@
 ## Overview
 The 2003 synthesis paper by Shirota, Hakamata, and Goda was motivated in part by
 forensic and regulatory needs. Following the regulation of fungi containing
-psilocin and psilocybin under Japan's Narcotics and Psychotropic Control Law
+[[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] under Japan's Narcotics and Psychotropic [[japan-narcotics-control-law-psilocybin-fungi-2002]]
 (enacted June 6, 2002), there was an urgent need for reliable standard
 compounds for the chromatographic identification of these substances in seized
 mushroom samples. The identification of magic mushrooms using morphologic and
@@ -35,7 +35,7 @@ enforcement of controlled substance laws.
 ## Challenges in Obtaining Standard Compounds from Natural Sources
 
 ### Psilocin Instability
-Psilocin (1) easily decomposes under normal handling and storage conditions.
+Psilocin (1) easily decomposes under normal handling and [[vegetable-storage-conditions-by-temperature-and-humidity]].
 The 4-hydroxy group on the indole ring makes the compound susceptible to
 oxidation, particularly when exposed to air and light. This instability makes
 it impractical to isolate and store psilocin from natural mushroom material in
@@ -79,11 +79,11 @@ retention times and calibration curves. The authors' synthetic method provides
 pure standards suitable for this purpose.
 
 ### High Performance Liquid Chromatography (HPLC)
-HPLC is particularly well-suited to the analysis of psilocybin due to its
+HPLC is particularly well-suited to the [[hplc-analysis-of-psilocybin-and-psilocin]] due to its
 ability to handle polar, non-volatile compounds without derivatization.
 Reversed-phase HPLC on C18 columns is the standard approach. The authors used
 preparative reversed-phase HPLC in their own work, specifically for the
-purification of the zwitterionic phosphate intermediate (compound 8). Standard
+purification of the [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]] intermediate (compound 8). Standard
 compounds are essential for method validation and quantification.
 
 ### UV Detection
@@ -91,7 +91,7 @@ Both psilocin and psilocybin have characteristic UV absorption spectra that
 can be used for identification and quantification in HPLC analysis. The authors
 report UV maxima for psilocin at 222.5, 268.0, 284.5, and 294.0 nm (log
 epsilon values in methanol), and for psilocybin at 221.0, 267.5, 278.5, and
-290.0 nm. These spectral data serve as additional identification criteria
+290.0 nm. These [[shirota-psilocybin-crystal-form-spectral-data-and-analytical-characterization]] serve as additional identification criteria
 when combined with retention time data.
 
 ## The Forensic Value of Synthetic Standards

@@ -1,21 +1,22 @@
 ---
-title: Pond Design and Construction
+title: comparison-pond-design-vs-dam-construction and Construction
 created: 2026-04-13
 updated: 2026-04-15
 type: concept
 tags: [reference]
-sources: []
+sources:
+  sources: []
 ---
 # Pond Design and Construction
 
-Water holds and reflects heat, moderating temperature. As temperature drops at night, ponds radiate warmth into surrounding air. Ponds serve multiple functions: irrigation, fire protection, aquaculture, habitat, and aesthetic value in [[permaculture-zones-system]], ponds may appear in Zone 1 (small decorative or garden pond) through Zone 4 (large dams and extensive water harvesting).
+Water holds and reflects heat, moderating temperature. As temperature drops at night, ponds radiate warmth into surrounding air. Ponds serve multiple functions: irrigation, fire protection, aquaculture, habitat, and aesthetic value in permaculture-zones-system, ponds may appear in Zone 1 (small decorative or [[fukuoka-heart-shaped-garden-pond-technique]]) through Zone 4 (large dams and extensive water harvesting).
 
 ## Design Rules of Thumb
 
 - **Fish ponds**: Several small ponds, no more than 4-6 feet deep, work better than one large one
-- **Irrigation ponds**: Avoid planting fruit or nut trees nearby — trees will drain the pond
+- **Irrigation ponds**: Avoid planting fruit or [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]] nearby — trees will drain the pond
 - **Shelf design**: Include a shallow shelf around the edge for wetland plants and easy animal access
-- **Location**: Place below the house for gravity feed; the pond acts as a [[permaculture-climatic-zones-design]] elements. Fish can be fed from duckweed, worms, and insect larvae. Duck houses on ponds provide manure that feeds algae and fish. Water plants around edges provide fodder and habitat. A successful aquaculture system is patterned after productive land-water edges such as swamps and coral reefs.
+- **Location**: Place below the house for gravity feed; the pond acts as a permaculture-climatic-zones-design elements. Fish can be fed from duckweed, worms, and insect larvae. Duck houses on ponds provide manure that feeds algae and fish. Water plants around edges provide fodder and habitat. A successful aquaculture system is patterned after productive land-water edges such as swamps and coral reefs.
 
 ### Habitat
 Ponds attract beneficial wildlife: frogs (mosquito control), birds, dragonflies, and amphibians. Edge planting with native wetland species creates biodiversity corridors. Tiny frogs will live in the pond and eat bugs.
@@ -35,7 +36,7 @@ Your pond can grow water chestnuts, rice, bait fish, brine shrimp, snails, aquar
 - **Inlet/outlet**: Design for easy filling and controlled drainage
 
 ### Sealing with Gley
-An old method of sealing: smear fresh manure in an 8-inch layer over the inside pool and outer walls, then cover with another thick layer of dirt, cardboard, plastic sheeting, or material that promotes fermentation. Weight down sheeting with rocks. In a temperate climate it takes about a week for the manure to ferment into an airtight mass. Once done, fill with water and test. Remove any plastic or carpet later.
+An old method of sealing: smear fresh manure in an 8-inch layer over the inside pool and outer walls, then cover with another thick layer of dirt, cardboard, plastic sheeting, or material that promotes fermentation. Weight down sheeting with rocks. In a [[permaculture-designers-manual-temperate-climate-design]] it takes about a week for the manure to ferment into an airtight mass. Once done, fill with water and test. Remove any plastic or carpet later.
 
 ### Pond Liner Method
 Line the bottom with pond liner or gley — a heavy black plastic, rubber, or geotextile sheet made specifically for this purpose. Tape edges of small pieces together or weigh down with heavy rocks. Use pond underlayment underneath to protect the liner.
@@ -51,7 +52,7 @@ Line the bottom with pond liner or gley — a heavy black plastic, rubber, or ge
 ## Fish Species for Small Ponds
 
 ### Tilapia
-Prefer warm water, fairly hardy, four months from fingerling to edible size. Duckweed is the best feed. Need adequate shade under water lilies. Winter a few small tilapia in an indoor aquarium, release back in warm weather. Stocking rate: approximately 3,000 per acre.
+Prefer warm water, fairly hardy, four months from fingerling to edible size. Duckweed is the best feed. Need adequate shade under water lilies. Winter a few small tilapia in an indoor aquarium, release back in [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]]. Stocking rate: approximately 3,000 per acre.
 
 ### Bluegill
 About three years to edible size, prefer warm temperatures, often used to feed bass. Eat insects, fish eggs, and small crayfish. Need vegetation for shade and shelter. Stocking rate: approximately 500 per acre.
@@ -72,7 +73,7 @@ About three years to edible size, prefer warm temperatures, often used to feed b
 
 ## Related
 
-- [[faires-aquaculture-pond-systems]]
+- faires-aquaculture-pond-systems
 - [[earthworks-for-water-management]]
 ## Practical Considerations
 
@@ -92,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

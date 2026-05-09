@@ -1,5 +1,5 @@
 ---
-title: "Why can't heat engines be 100 percent efficient?"
+title: "Why can't query why cant heat engines be 100 percent efficient be 100 percent efficient?"
 type: query
 question: "Why can't heat engines be 100 percent efficient?"
 tags: [thermodynamics, heat-engines, carnot-cycle, entropy, efficiency]
@@ -37,7 +37,7 @@ A heat engine operates in a cycle.
 At the end of each cycle, the working fluid or working system must return to its initial state.
 That means its internal energy and entropy cannot keep increasing indefinitely from cycle to cycle.
 When the engine absorbs heat from the hot reservoir, it also receives entropy.
-To return to its initial state, the working substance must get rid of that entropy.
+To return to its initial state, the working substance must [[query-how-to-get-rid-of-slugs-and-snails-organically]] of that entropy.
 The usual way it does so is by rejecting heat to a colder reservoir.
 If no heat were rejected, entropy balance would fail for a cyclic device producing only work from a single heat reservoir.
 That is why the Kelvin-Planck statement of the second law forbids a perfect one-reservoir heat engine.
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

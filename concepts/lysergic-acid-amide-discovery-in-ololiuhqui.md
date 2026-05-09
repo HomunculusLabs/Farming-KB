@@ -1,5 +1,5 @@
 ---
-title: Lysergic Acid Amide Discovery in Ololiuhqui
+title: ergot-and-lysergic-acid-history Amide Discovery in Ololiuhqui
 created: 2026-04-28
 tags: [ethnobotany, chemistry, morning-glory, ergot-alkaloids, hofmann]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: concept
 # Lysergic Acid Amide Discovery in Ololiuhqui
 
 The chemical investigation of ololiuhqui, the ancient Aztec magic
-morning glory seeds, led to one of the most surprising discoveries in
+[[golden-guide-morning-glory-and-ololiuqui]] seeds, led to one of the most surprising discoveries in
 ethnopharmacology: that the active principles of a New World sacred
 plant were chemically identical to ergot alkaloids previously known only
 from a lower fungus. This finding by Albert Hofmann and his assistant
@@ -40,7 +40,7 @@ described how Aztec priests ate the plant to commune with gods, seeing
 The original ololiuhqui was identified as the seeds of Turbina
 corymbosa (syn. Rivea corymbosa). Through the mediation of R. Gordon
 Wasson, Hofmann obtained seeds from two sources: round, light brown
-seeds from Huautla, correctly identified as Turbina corymbosa, and
+seeds from Huautla, correctly identified as [[plants-of-the-gods-turbina-corymbosa-ololiuqui]], and
 black, angular seeds from San Bartolo Yautepec, identified as Ipomoea
 violacea. While Turbina corymbosa thrives only in tropical or
 subtropical climates, Ipomoea violacea is found worldwide as an
@@ -97,7 +97,7 @@ rule that characteristic groups of substances are restricted to specific
 plant families. This finding has broader implications for our
 understanding of biochemical evolution and the distribution of secondary
 metabolites across the tree of life. It raises the question of whether
-endophytic fungi living within the morning glory plants might be
+[[comparison-endophytic-fungi-vs-mycorrhizal-fungi]] living within the morning glory plants might be
 responsible for producing these alkaloids, or whether convergent
 biosynthetic pathways evolved independently in fungi and plants.
 
@@ -108,8 +108,8 @@ cultural ripple effect. By demonstrating that a sacred Aztec
 entheogen contained compounds chemically related to the then-notorious
 LSD, the discovery connected indigenous Mesoamerican religious practice
 directly to modern psychopharmacology. It validated the Aztec
-classification of ololiuhqui alongside teonanacatl (psilocybin mushrooms)
-and peyotl (mescaline cactus) as tools for divine communion.
+classification of ololiuhqui alongside teonanacatl ([[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]])
+and peyotl ([[peyote-mescaline-cactus-pharmacology]]) as tools for divine communion.
 
 Hofmann himself reflected that nobody at the time of synthesizing lysergic
 acid amide could have suspected this compound would be discovered twenty

@@ -1,5 +1,5 @@
 ---
-title: "Shamanic Healing, Divination, and the Worldview of Entheogenic Ceremony"
+title: "metzner-shamanic-healing-and-divination-paradigm, Divination, and the Worldview of shamanic-entheogenic-ceremony-structure-common-elements"
 created: 2026-04-28
 tags:
   - shamanism
@@ -35,17 +35,17 @@ If set and setting are the crucial determinants of hallucinogenic experience, th
 - The presence and behaviour of the guide or healer
 - The intentions and preparations of the participants
 
-This intentional structuring makes the shamanic ceremony the logical as well as traditional approach to working with powerful psychoactive plants.
+This intentional structuring makes the [[metzner-shamanic-ceremony-three-features-darkness-singing-silence]] the logical as well as traditional approach to working with powerful psychoactive plants.
 
 ### Three Distinctive Features
 
-Metzner identifies three features that consistently distinguish traditional shamanic entheogenic ceremonies from Western [[psychedelic-psychotherapy]] that the therapist must have prior personal experience with the substances they work with, though the shamanic training is typically far more extensive and immersive.
+Metzner identifies three features that consistently distinguish traditional shamanic [[metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti]] from Western [[psychedelic-psychotherapy]] that the therapist must have prior personal experience with the substances they work with, though the shamanic training is typically far more extensive and immersive.
 
 ## Varieties of Traditional Entheogenic Ceremonies
 
 ### Peyote Ceremonies
 
-The peyote ceremonies of the Native American Church in North America involve participants sitting on the ground in a circle around a blazing central fire in a tipi. Key features include:
+The peyote ceremonies of the Native American Church in [[psilocybin-north-america-pacific-northwest]] involve participants sitting on the ground in a circle around a blazing central fire in a tipi. Key features include:
 
 - Ceremony lasts all night
 - Conducted by a "roadman" with assistance from a drummer, firekeeper, and cedar-man
@@ -68,7 +68,7 @@ The mushroom ceremonies of the Mazatec Indians of Mexico involve:
 Traditional Amazonian Indian or mestizo ayahuasca ceremonies involve:
 
 - A small group sitting in a circle in semidarkness
-- Initiated healers singing icaros (healing songs) through which healing and diagnosis takes place
+- Initiated healers [[metzner-shamanic-singing-icaros-rhythm-and-entrainment]] (healing songs) through which healing and diagnosis takes place
 - Songs with rapid rhythmic pulse keeping the flow of the experience moving
 - Occasionally, shamanic "sucking" methods for extracting toxic psychic residues or sorcerous implants
 

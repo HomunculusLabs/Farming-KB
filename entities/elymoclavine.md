@@ -31,11 +31,11 @@ alkaloid produced by fungi of the Clavicipitaceae family, particularly
 
 The compound exhibits mild psychedelic and uterotonic activity, though
 its psychoactive potency is significantly lower than that of LSD or
-lysergic acid amide. It has been studied primarily as a biosynthetic
+[[ergot-and-lysergic-acid-history]] amide. It has been studied primarily as a biosynthetic
 precursor rather than for its own pharmacological effects.
 
 Elymoclavine is classified as a Schedule III controlled substance in
-some jurisdictions due to its structural relationship to lysergamide
+some jurisdictions due to its [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to lysergamide
 psychedelics and its role as a precursor in clandestine LSD synthesis.
 
 ## Chemical Properties
@@ -79,16 +79,16 @@ development of more specific ergot derivatives such as methylergometrine.
 Hepatic metabolism occurs via N-dealkylation and aromatic hydroxylation.
 The elimination half-life is approximately 2–3 hours. Elymoclavine can
 serve as a substrate for the [[ergot-fungus]]) infecting
-cereal grasses, *Ipomoea* spp. (morning glories), *[[endophytic-fungi]] in the
+cereal grasses, *Ipomoea* spp. ([[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]]), *[[endophytic-fungi]] in the
 *Epichloë* and *Neotyphodium* genera. Industrial production employs
-submerged fermentation of selected *Claviceps* or *Aspergillus*
+[[cancer-medicinal-mushrooms-submerged-fermentation-production]] of selected *Claviceps* or *Aspergillus*
 strains optimized for elymoclavine accumulation.
 
 ## Legal Status
 
 Elymoclavine is unscheduled in many countries but falls under
 analogue drug legislation in jurisdictions that control lysergamide
-derivatives as a class. In the United States, the Federal Analogue Act
+derivatives as a class. In the [[dmt-containing-plants-united-states-halpern]], the Federal Analogue Act
 may apply given its structural similarity to controlled lysergamides.
 
 The compound is regulated as a precursor chemical in some nations due
@@ -97,7 +97,6 @@ shipping and commercial trade are subject to varying restrictions
 depending on the destination country.
 ## See Also
 
-- [[morning-glory-lsa-and-ergoline-alkaloids]]
 - [[morning-glory-lsa-and-ergoline-alkaloids]]
 
 - [Agroclavine](agroclavine.md)

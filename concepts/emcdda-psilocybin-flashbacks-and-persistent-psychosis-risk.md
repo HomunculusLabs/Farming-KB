@@ -1,17 +1,17 @@
 ---
-title: Psilocybin Flashbacks and Persistent Psychosis Risk
+title: [[emcdda-psilocybin-cardiovascular-risks-acute-physiological-effects]] flashbacks and persistent psychosis risk and Persistent Psychosis Risk
 created: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "EMCDDA Thematic Papers - Hallucinogenic Mushrooms: An Emerging Trend Case Study (2006)"
+  - "EMCDDA Thematic Papers - emcdda-hallucinogenic-mushrooms-emerging-trend-europe: An emcdda-epod-project-emerging-trend-detection-methodology Case Study (2006)"
 type: concept
 tags: [psilocybin, flashbacks, psychosis, mental-health, emcdda, hppd]
 ---
 
 # Psilocybin Flashbacks and Persistent Psychosis Risk
 
-The EMCDDA's 2006 thematic paper on hallucinogenic mushrooms identified
-mental health risks as the most significant category of harm associated
+The EMCDDA's 2006 thematic paper on [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] identified
+[[hallucinogenic-mushroom-mental-health-risks]] as the most significant category of harm associated
 with psilocybin-containing fungi. While acute toxicity is low and no
 irreversible organ damage has been documented, the potential for lasting
 psychological disturbances — particularly flashbacks and persistent
@@ -31,7 +31,7 @@ or personality disorders that were previously undiagnosed. This suggests
 that hallucinogenic mushrooms may act as a precipitant rather than a sole
 cause of psychotic episodes, unmasking latent vulnerability. This
 mechanism is consistent with the broader psychiatric literature on
-psychedelic substances, which has long recognized that pre-existing
+[[psychedelic-substances-comparison]], which has long recognized that pre-existing
 conditions are the strongest predictor of adverse psychological outcomes.
 
 The report documents extreme cases that illustrate the range of possible
@@ -41,7 +41,7 @@ who died after leaping from a tower block window after consuming
 The coroner's inquest confirmed the contributory role of the mushrooms
 together with alcohol. In Dun Laoghaire, Ireland, a 33-year-old man
 died after falling from the fourth floor of a building after consuming
-[[emcdda-bad-trip-phenomenology-psychiatric-intervention]] mushroom users. During a bad trip,
+[[emcdda-bad-trip-phenomenology-psychiatric-intervention]] mushroom users. During a [[emcdda-bad-trip-phenomenology-psychiatric-intervention]],
 individuals are typically extremely anxious, severely agitated, confused
 and disoriented, with impaired concentration and judgement. Acute
 psychotic episodes may involve bizarre and frightening images, severe
@@ -57,7 +57,7 @@ even if they do not always progress to persistent psychotic states.
 Post-bad-trip symptoms can include faintness, sadness, depression, and
 paranoid interpretations. These may persist for days, weeks, or even
 months. Some of these prolonged symptoms are likely associated with the
-use of other controlled substances consumed alongside mushrooms, as
+use of other [[controlled-substances-act-and-psychedelic-research]] consumed alongside mushrooms, as
 polydrug use is common in clubbing settings.
 
 ## Comparison with LSD Flashbacks
@@ -68,7 +68,7 @@ because LSD flashbacks — and the clinical entity now known as
 Hallucinogen Persisting Perception Disorder (HPPD) — are the most
 thoroughly studied psychedelic aftereffects. The lower incidence with
 mushrooms may reflect several factors: the shorter duration of action,
-the different receptor binding profiles (psilocybin acts primarily as a
+the different [[tihkal-receptor-binding-serotonin]] profiles (psilocybin acts primarily as a
 5-HT2A agonist while LSD has broader receptor affinity), and the lower
 base rate of repeated use in mushroom consumers.
 
@@ -88,7 +88,7 @@ calm, supportive intervention rather than antipsychotic medication.
 The report implicitly supports the impo [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] ting — the
 user's mindset and physical environment — as determinants of adverse
 outcomes. The documented fatal cases all involved environmental hazards
-(heights, alcohol) combined with the psychological effects of the
+(heights, alcohol) combined with the [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] of the
 mushrooms. The Dutch finding that users do not find the experience
 particularly pleasant due to the lack of positive mood-altering
 (entactogenic) effects that ecstasy provides suggests that the inherent

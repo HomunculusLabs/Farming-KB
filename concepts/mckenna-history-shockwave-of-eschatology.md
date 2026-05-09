@@ -9,7 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-In his 1983 Esalen lecture, Terence McKenna proposed that history is "the shockwave of eschatology"—a concept framing all human cultural development as the consequence of a teleological force operating at the end of time.
+In his 1983 Esalen lecture, [[terence-mckenna]] proposed that history is "the shockwave of eschatology"—a concept framing all human cultural development as the consequence of a teleological force operating at the end of time.
 This idea positions the acceleration of technological and cultural change not as a neutral process but as evidence that something is drawing all human becoming toward a culminating point.
 The framework draws on Alfred North Whitehead's process philosophy and challenges the conventional scientific view of time as a uniform, open-ended dimension.
 McKenna's eschatology is not apocalyptic in the conventional sense—it does not predict destruction but rather transformation, a metamorphosis of the human condition.
@@ -51,7 +51,7 @@ The critique of dualistic time is central to McKenna's argument because it opens
 
 McKenna draws explicitly on the process philosophy of Alfred North Whitehead to support his eschatological framework.
 Whitehead's concept of "the formality of actually occurring" names the moment at which potentiality becomes actuality—the instant when an event transitions from being possible to being real.
-McKenna connects this to the quantum mechanical notion of state vector collapse, arguing that consciousness plays a constitutive role in bringing events into being.
+McKenna connects this to the [[mckenna-quantum-mechanical-correlates-hallucinogenesis]] notion of state vector collapse, arguing that consciousness plays a constitutive role in bringing events into being.
 This view is consistent with certain interpretations of quantum mechanics and finds dramatic confirmation, in McKenna's estimation, in the phenomenology of tryptamine experiences.
 In the tryptamine state, consciousness appears to access realities that transcend the ordinary constraints of space and time, suggesting that the relationship between consciousness and reality is far more intimate than the materialist paradigm allows.
 Whitehead's process philosophy provides the metaphysical vocabulary for what the tryptamine experiences demonstrate phenomenologically: that becoming, not being, is the fundamental category of reality.
@@ -63,7 +63,7 @@ A consequence of McKenna's framework is a radical re-centering of cosmology arou
 He argues that "the most richly organized material in the universe is the human cerebral cortex, and the densest and richest experience in the universe is the experience you are having right now."
 This stands in direct opposition to what he characterizes as five hundred years of Western "decentralizing," in which humanity has progressively moved itself out toward the edge of significance.
 The Copernican revolution, while correct in its astronomical claims, had the unintended consequence of suggesting that human consciousness is cosmically insignificant.
-McKenna counters: "Everything should be constellated outward from the perceiving self. That is the primary datum."
+McKenna counters: "Everything should be constellated outward from the perceiving self. That is the [[decentralizing-bender-perceiving-self-primary-datum-mckenna]]."
 The consequence of this re-centering is that the exploration of consciousness—particularly through tryptamine compounds—becomes the most important enterprise available to humanity.
 This anthropocentric stance is not naive egoism but a recognition that the perceiving self is the one thing in the universe that is directly known, with all other knowledge being inferred or constructed from that primary datum.
 The re-centering has practical implications: it suggests that the study of consciousness should be prioritized over the study of external objects, since consciousness is the medium through which all knowledge is accessed.
@@ -71,19 +71,19 @@ The re-centering has practical implications: it suggests that the study of consc
 ## The Tryptamine State as Transtemporal
 
 McKenna describes the tryptamine state as "in one sense transtemporal; it is an anticipation of the future."
-He invokes Plato's metaphor "that time is the moving image of eternity," suggesting that the tryptamine ecstasy is a "stepping out of the moving image and into eternity."
+He invokes Plato's metaphor "that time is the moving image of eternity," suggesting that the [[mckenna-tryptamine-ecstasy-and-platonic-eternity]] is a "stepping out of the moving image and into eternity."
 This is identified with what Thomas Aquinas called the "nunc stans"—the standing now, an eternal present that transcends the flow of chronological time.
 In this state, McKenna reports, "all of human history is seen to lead toward this culminating moment," confirming the eschatological pattern he identifies in the external record of cultural change.
 The tryptamine experience thus serves as both evidence for and preview of the eschatological culmination toward which history is tending.
 The transtemporal quality of the experience suggests that the distinction between past, present, and future is not absolute but is a feature of ordinary consciousness that can be transcended.
 If the mind can access the eternal present in the tryptamine state, then the eschatological endpoint is not merely future but ever-present, accessible to anyone willing to undergo the experience.
-The concept of the standing now provides a bridge between mystical contemplation and the phenomenology of psychedelic experience, suggesting they may be accessing the same underlying reality through different methods.
+The concept of the standing now provides a bridge between mystical contemplation and the phenomenology of [[leary-psychedelic-experience-bardo-mapping]], suggesting they may be accessing the same underlying reality through different methods.
 
 ## The Psychedelic Future
 
 McKenna concludes his eschatological argument with the prediction that "the future is bound to be psychedelic, because the future belongs to the mind."
 He envisions a future in which humanity takes "a serious engineering approach" to the exploration of consciousness, discovering "the plasticity, the mutability, the eternal nature of the mind."
-This leads to his most radical vision: "an effort to exteriorize the soul and internalize the body," producing a "superconducting lens of translinguistic matter generated out of the body of each of us at a critical juncture at our psychedelic Bar Mitzvah."
+This leads to his most radical vision: "an effort to exteriorize the soul and internalize the body," producing a "superconducting lens of [[mckenna-translinguistic-matter-and-exteriorized-soul]] generated out of the body of each of us at a critical juncture at our [[mckenna-exteriorized-soul-and-psychedelic-bar-mitzvah]] Mitzvah."
 The eschatological endpoint is thus not a destruction but a transformation—a metamorphosis of the human organism from a biological entity into a self-sustaining pattern of translinguistic information.
 One's body image would exist as a "holographic wave transform while one is at play in the fields of the Lord and living in Elysium."
 This vision, while fantastical, is presented as the logical extension of the acceleration pattern identified in history: consciousness becoming ever more plastic, ever more capable of self-transformation.

@@ -10,7 +10,7 @@ sources: ["raw/papers/beneficial-indigenous-microorganisms-bionutrients.md"]
 
 **Updated:** 2026-04-24
 
-Fermented Fruit Juice (FFJ) is a bionutrient produced by fermenting ripe fruits with crude sugar or molasses. Through the process of osmotic pressure and microbial fermentation, the active ingredients, enzymes, vitamins, and minerals from the fruit are extracted into a bioavailable liquid form. FFJ provides targeted nutrition for plants and serves as food for beneficial indigenous microorganisms in the soil.
+Fermented Fruit Juice (FFJ) is a bionutrient produced by fermenting ripe fruits with crude sugar or molasses. Through the process of osmotic pressure and microbial fermentation, the active ingredients, enzymes, vitamins, and minerals from the fruit are extracted into a bioavailable liquid form. FFJ provides targeted nutrition for plants and serves as food for beneficial [[beneficial-indigenous-microorganisms-bim]] in the soil.
 
 Related preparations include [[bionutrients-lab-fish-aminos]], [[bionutrients-lab-calcium-phosphate-calamansi]], and [[cho-fermented-plant-juice-preparation]] and [[bahay-kubo-fpj-and-ffj-fermentation]].
 
@@ -62,7 +62,7 @@ One of the major fermented extracts used for plant flowering and fruiting:
 - **Key nutrients:** High levels of potassium (especially from banana) and beta-carotene
 - **Application stage:** Used during flowering and fruiting, particularly for vegetables
 - **Substitute materials:** Comfrey, squash, and carrot can potentially substitute for the tropical ingredients
-- **Mango flowering:** In the Philippines, organic farmers use seaweed extract (high in natural growth hormones, trace elements, nitrogen, and potassium) to induce mango flowering — demonstrating the principle that materials high in potassium support reproductive growth
+- **Mango flowering:** In the Philippines, organic farmers use [[comparison-seaweed-extract-vs-fish-hydrolysate]] (high in natural growth hormones, trace elements, nitrogen, and potassium) to induce mango flowering — demonstrating the principle that materials high in potassium support [[knf-reproductive-growth-stage]]
 
 ### Conventional vs. Natural Approach
 
@@ -103,7 +103,7 @@ Because seeds are the most potent, seed-based ferments use a more dilute applica
 FFJ is one of several bionutrients that natural farmers combine with beneficial indigenous microorganisms (BIM):
 
 - BIM + bionutrients is more effective than either alone
-- The standard combination includes: fermented plant extracts, fermented fruit juices, ginger-garlic nutrients, brown rice vinegar, and fish amino acid
+- The standard combination includes: [[query-how-do-i-use-fermented-plant-extracts-in-my-garden]], fermented fruit juices, ginger-garlic nutrients, brown rice vinegar, and fish amino acid
 - Different FFJ materials are selected based on the target growth stage and nutritional need
 - In designer compost (bokashi), FFJ can be used to emphasize potassium when flowering/fruiting is the goal
 
@@ -114,10 +114,10 @@ The Nutrioperiodism framework (Yasushi Inoue, 1930s) guides FFJ selection:
 | Growth Stage | Critical Nutrient | Best FFJ Materials |
 |-------------|------------------|-------------------|
 | Vegetative | Nitrogen | Young green fruits (tomato, cucumber) |
-| Changeover | Calcium phosphate | Balanced fruit mixes, mineral-rich fruits |
+| Changeover | [[bionutrients-lab-calcium-phosphate-calamansi]] | Balanced fruit mixes, mineral-rich fruits |
 | Flowering/Fruiting | Potassium | Banana, papaya, squash, mango |
 
-This targeted approach to nutrient timing is a core principle of natural farming — providing the right nutrient at the right developmental stage rather than blanket applications.
+This targeted approach to nutrient timing is a core principle of [[comparison-natural-farming-vs-permaculture]] — providing the right nutrient at the right developmental stage rather than blanket applications.
 
 ## Self-Reliance and Experimentation
 

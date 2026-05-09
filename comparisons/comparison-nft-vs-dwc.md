@@ -12,8 +12,8 @@ type: comparison
 
 ## Overview
 
-Nutrient Film Technique and Deep Water Culture are two of the most popular
-active hydroponic systems for cannabis cultivation. Both recirculate nutrient
+Nutrient Film Technique and [[cannabis-deep-water-culture-guide]] are two of the most popular
+active hydroponic systems for [[query-how-does-no-till-cannabis-cultivation-work]]. Both recirculate nutrient
 solution through the root zone, but they deliver it in fundamentally different
 ways: NFT flows a thin film of solution over roots in enclosed channels, while
 DWC fully submerges roots in an aerated reservoir. The choice between them
@@ -30,7 +30,7 @@ pebbles, rockwool cubes, or hydroton support plants at the top of the container
 while roots grow downward into the solution below. A submersible pump lifts
 solution to create splashing that adds oxygen, and air stones connected to an
 external air pump provide continuous aeration. DWC is classified as an active
-recovery system because nutrient solution is constantly recirculated and
+recovery system because [[cannabis-nutrient-solution-preparation]] is constantly recirculated and
 aerated.
 
 DWC is widely regarded as one of the fastest-growing hydroponic methods for
@@ -68,7 +68,7 @@ systems, problems can spread quickly between connected reservoirs.
 | Maintenance Focus | Channel cleaning, clog prevention | Reservoir changes, air stone cleaning |
 | Temperature Sensitivity | High (small volume reacts fast) | Lower (large volume buffers temperature) |
 | Scalability | Excellent for commercial channels | Moderate (bucket systems, RDWC possible) |
-| Root Disease Risk | Lower (good aeration, exposed roots) | Higher if aeration fails (warm, stagnant water) |
+| [[ingham-root-disease-treatment]] Risk | Lower (good aeration, exposed roots) | Higher if aeration fails (warm, stagnant water) |
 | Individual Plant Control | Shared channels | Individual buckets (isolated plants) |
 | Power Backup Need | Critical (minutes matter) | Important but less urgent (hours tolerance) |
 | Build Cost | Moderate (channels, pump, timer) | Low (buckets, air pump, stones) |
@@ -88,7 +88,7 @@ provides adequate nutrition without the root mass of larger flowering plants.
 DWC is the best choice for cannabis growers seeking maximum growth speed and
 yield, particularly those new to hydroponics who want a simple, forgiving
 system. The large reservoir volume provides a buffer against mistakes in
-nutrient management and pH adjustment, making DWC more tolerant of inconsistent
+[[green-cannabis-grow-bible-nutrient-management-ppm]] and pH adjustment, making DWC more tolerant of inconsistent
 maintenance. DWC suits home growers running individual bucket systems or small
 recirculating setups, and is ideal for cultivators who want to focus on fewer,
 larger plants rather than managing many small ones in channels.
@@ -101,7 +101,7 @@ controller bucket, combining DWC's growth speed with centralized nutrient
 management similar to NFT. Current Culture and other commercial systems blur the
 line by adding waterfall-style aeration and nutrient film delivery elements to
 DWC reservoirs. NFT channels are sometimes used for cloning and early vegetative
-growth before plants are transferred to DWC buckets for the flowering phase.
+growth before plants are transferred to DWC buckets for the [[green-cannabis-grow-bible-flowering-phase-and-harvest]].
 
 ## See Also
 

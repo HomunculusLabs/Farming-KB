@@ -1,5 +1,5 @@
 ---
-title: Ghosts of Evolution and the Osage Orange Anachronism
+title: Ghosts of Evolution and the bloomfield ghosts of evolution osage orange anachronism Anachronism
 created: 2026-04-28
 tags:
   - mycology
@@ -26,7 +26,7 @@ no longer exists.
 
 ## The Osage Orange and Its Missing Partner
 
-The Osage orange is a common tree in North America that produces
+The Osage orange is a common tree in [[psilocybin-north-america-pacific-northwest]] that produces
 pale green fruits larger than grapefruits. When ripe, these
 massive spheres splatter on the ground, yet no contemporary
 animal consumes them. Raccoons, opossums, and skunks, animals
@@ -59,10 +59,10 @@ it and moved on before any toxic effect manifests.
 
 This insight reframes our understanding of fungal chemistry.
 Compounds we experience as poisons or hallucinogens may serve
-entirely different functions within fungal biology. They could
-target insect larvae that develop within fruiting body tissues,
+entirely different functions within [[bloomfield-fungal-biology-and-hyphal-growth]]. They could
+target insect larvae that develop within [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] tissues,
 or they may be byproducts of other metabolic processes with no
-defensive purpose at all. Human casualties from mushroom poisoning
+defensive purpose at all. Human casualties from [[european-mushroom-poisoning-history]]
 are, in Money's framing, unintended consequences of biochemical
 strategies evolved for completely different ecological contexts.
 
@@ -116,7 +116,7 @@ disciplines our tendency toward anthropocentric interpretation.
 When humans encounter a mushroom toxin, the instinct is to ask
 what it does to us. The more productive question is what it does
 for the fungus within its ecological context. This shift in
-perspective is essential for understanding fungal secondary
+perspective is essential for understanding [[biodiversity-fungal-secondary-metabolites]]
 metabolites, which represent an enormous and largely unexplored
 chemical diversity.
 
@@ -131,6 +131,11 @@ experience to the deeper evolutionary currents that produced them.
 
 ## See also
 
-- [[bloomfield-mushroom-poisons-and-toxidromes]]
+- bloomfield-mushroom-poisons-and-toxidromes
 - [[bloomfield-fungal-parasites-of-insects]]
 - [[bloomfield-amatoxin-poisoning-mechanism]]
+## See Also
+- [[maclura-pomifera]]
+- [[nicholas-money]]
+- [[bloomfield-truffle-evolution-cup-fungi-hypogeous]]
+- [[bloomfield-chytrid-fungi-early-fungal-evolution]]

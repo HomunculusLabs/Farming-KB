@@ -36,7 +36,7 @@ The inflorescence is a terminal head (capitulum) 3–5 cm wide, surrounded by le
 
 A. macrocephala is endemic to China, occurring in Zhejiang, Anhui, Hubei, Hunan, Jiangxi, Fujian, and Sichuan provinces. It grows on mountain slopes, forest edges, grassy hillsides, and cultivated fields at elevations of 500–1,800 m.
 
-The plant prefers a cool, moist climate with well-drained, humus-rich soils. Wild populations have declined significantly due to over-harvesting, and most commercial supply now comes from cultivated sources. Zhejiang Province is the primary production region.
+The plant prefers a cool, moist climate with well-drained, humus-rich soils. Wild populations have declined significantly due to over-harvesting, and most commercial supply now comes from cultivated sources. Zhejiang Province is the [[lichens-primary-production-soil-formation-dighton]] region.
 
 Cultivation typically requires 2–3 years before rhizomes reach harvestable size. Major cultivation areas include Pan'an County (Zhejiang), Yingshan County (Hubei), and Yuexi County (Anhui). Propagation is primarily by rhizome division.
 
@@ -48,7 +48,7 @@ Atractylenolide I is the most extensively studied compound, demonstrating anti-i
 
 Atractylon, another sesquiterpene, exhibits hepatoprotective and anti-ulcer activities. A polysaccharide fraction (AMP) has demonstrated significant immunostimulatory effects, increasing spleen and thymus indices in animal models.
 
-The essential oil contains β-eudesmol, atractylon, and hinesol as major constituents. These volatile compounds contribute to the aromatic properties of the herb and have documented antibacterial activity against gastrointestinal pathogens.
+The [[permaculture-designers-manual-essential-oil-plants]] contains β-eudesmol, atractylon, and hinesol as major constituents. These [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] contribute to the aromatic properties of the herb and have documented antibacterial activity against gastrointestinal pathogens.
 
 Modern pharmacological studies confirm gastroprotective effects including increased gastric mucus secretion, inhibition of gastric acid, and promotion of mucosal healing. Anti-tumor activity has been reported for atractylenolide III in multiple cancer cell lines.
 
@@ -66,7 +66,7 @@ Typical daily dosage is 6–12 g of dried rhizome in decoction. The herb is ofte
 
 Cultivated A. macrocephala is typically planted in spring from rhizome segments (tubers), spaced 25–30 cm apart in rows 40–50 cm apart. The plant requires partial shade during the seedling stage and full sun during rhizome development.
 
-Key management practices include careful drainage (waterlogging causes root rot), regular weeding, and top-dressing with organic fertilizers. Disease pressures include rhizome rot (Fusarium spp.), rust (Puccinia spp.), and powdery mildew.
+Key management practices include careful drainage (waterlogging causes root rot), regular weeding, and top-dressing with [[hamilton-organic-fertilizers-and-plant-nutrition]]. Disease pressures include rhizome rot (Fusarium spp.), rust (Puccinia spp.), and [[cervantes-powdery-mildew-prevention-treatment]].
 
 Harvesting occurs 2–3 years after planting when the aerial parts senesce in late autumn. Rhizomes are washed, sliced, and dried in the sun or by artificial heat. Processing methods (raw, stir-fried, bran-fried, soil-fried) produce different therapeutic properties.
 
@@ -98,7 +98,7 @@ The genus Atractylodes has undergone significant taxonomic revision. Modern mole
 
 ## Quality Control
 
-The Chinese Pharmacopoeia specifies that dried Bai Zhu must contain not less than 0.10% atractylenolide III and 0.60% atractylenolide I as measured by HPLC. These markers serve as the primary quality standards for commercial material.
+The Chinese Pharmacopoeia specifies that dried Bai Zhu must contain not less than 0.10% atractylenolide III and 0.60% atractylenolide I as measured by HPLC. These markers serve as the primary [[aact-compost-quality-standards-ingham]] for commercial material.
 
 Polysaccharide content is another important quality parameter, typically ranging from 20–40% in dried rhizome. Water-soluble extract content must exceed 45%, and ethanol-soluble extract must exceed 10% according to pharmacopoeial standards.
 

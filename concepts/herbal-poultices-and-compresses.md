@@ -24,7 +24,7 @@ Dried herb poultices are made by reconstituting dried herbs with a small amount 
 
 ## Common Poultice Herbs and Applications
 
-Plantain (Plantago major) is the most versatile poultice herb and one of the most widely available. This common yard weed is effective for insect bites and stings, minor wounds, abrasions, splinters, and skin irritation. Fresh plantain leaves chewed and applied to a bee sting or spider bite provide rapid relief from pain, itching, and swelling. The astringent and antimicrobial properties help prevent infection.
+Plantain (Plantago major) is the most versatile poultice herb and one of the most widely available. This common yard weed is effective for insect bites and stings, minor wounds, abrasions, splinters, and skin irritation. Fresh plantain leaves chewed and applied to a bee sting or spider bite provide rapid relief from pain, itching, and swelling. The astringent and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] help prevent infection.
 
 The permaculture plant literature documents numerous traditional poultice applications across cultures. These include using the green rind of nuts as a poultice for ringworm, using soft pulpy plant interiors as poultices for dental abscesses and gum boils, and applying leaf poultices to relieve inflammation and treat wounds and skin diseases.
 
@@ -42,7 +42,7 @@ To make a compress, prepare a strong herbal tea, decoction, or diluted tincture.
 
 Warm compresses increase circulation to the affected area, promote relaxation of tense muscles, and enhance the penetration of herbal constituents through the skin. They are used for muscle aches, menstrual cramps, stiff joints, and chronic inflammatory conditions. The warmth itself is therapeutic, increasing blood flow and promoting tissue relaxation.
 
-Cold compresses reduce inflammation, swelling, and pain. They are used for acute injuries (within the first 24 to 48 hours), headaches, fever, and hot, inflamed skin conditions. Cold compresses constrict blood vessels, reducing fluid accumulation in injured or inflamed tissues.
+Cold compresses reduce inflammation, swelling, and pain. They are used for acute injuries (within the first 24 to 48 hours), headaches, fever, and hot, inflamed [[cannabis-for-skin-conditions-detailed]]. Cold compresses constrict blood vessels, reducing fluid accumulation in injured or inflamed tissues.
 
 Alternating hot and cold compresses (contrast therapy) stimulate circulation and promote healing. Apply warm compress for three minutes, then cold compress for one minute, repeating three to five times. This technique is particularly effective for sprains, strains, and chronic joint pain.
 
@@ -60,7 +60,7 @@ Yarrow tea compresses are used for bleeding wounds and nosebleeds. Yarrow's hemo
 
 Wraps and packs are larger applications of the poultice/compress principle that cover broader areas of the body. They are used for conditions affecting joints, large muscle groups, the abdomen, or the chest.
 
-A castor oil pack is a specific type of wrap used for liver support, digestive conditions, and inflammation. A cloth is soaked in castor oil, applied to the abdomen (over the liver area), covered with plastic wrap, and topped with a heating pad for 30 to 60 minutes. Castor oil packs are traditionally used to support liver detoxification, relieve constipation, and reduce inflammation. The ricinoleic acid in castor oil has anti-inflammatory and immunomodulatory properties.
+A [[permaculture-castor-oil-plant]] pack is a specific type of wrap used for liver support, digestive conditions, and inflammation. A cloth is soaked in castor oil, applied to the abdomen (over the liver area), covered with plastic wrap, and topped with a heating pad for 30 to 60 minutes. Castor oil packs are traditionally used to support liver detoxification, relieve constipation, and reduce inflammation. The ricinoleic acid in castor oil has anti-inflammatory and immunomodulatory properties.
 
 Cabbage leaf wraps are a traditional remedy for breast engorgement during breastfeeding, joint pain, and skin ulcers. Large cabbage leaves are bruised with a rolling pin to release their juices, applied to the affected area, and secured with a bandage. Cabbage contains glucosinolates and other anti-inflammatory compounds that are absorbed through the skin during the wrap.
 
@@ -72,7 +72,7 @@ Always clean the skin before applying poultices or compresses to prevent introdu
 
 Some individuals may be allergic to specific plants. When using a plant for the first time, apply a small amount to the inner arm and wait 15 to 30 minutes to check for allergic reaction before applying a full poultice.
 
-Discontinue use if redness, itching, or worsening of the condition occurs. Seek medical attention for wounds that are deep, large, or show signs of serious infection (increasing redness, swelling, heat, red streaks, fever). See [[herbal-medicine-safety]] for general safety principles.
+Discontinue use if redness, itching, or worsening of the condition occurs. Seek medical attention for wounds that are deep, large, or show signs of serious infection (increasing redness, swelling, heat, red streaks, fever). See [[herbal-medicine-safety]] for general [[shulgin-safety-principles-self-experimentation]].
 
 ## Related Topics
 

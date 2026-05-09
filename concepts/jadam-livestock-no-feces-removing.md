@@ -1,5 +1,5 @@
 ---
-title: JADAM Livestock Farming Without Feces Removal
+title: JADAM fukuoka-textdoc-natural-livestock-farming-open-grazing Without Feces Removal
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # JADAM Livestock Farming Without Feces Removal
 
-JADAM's revolutionary organic livestock method eliminates the need to remove
+JADAM's revolutionary [[jadam-organic-livestock-no-feces-removing]] method eliminates the need to remove
 manure from animal shelters. Microorganisms convert feces back into feed,
 creating a nearly closed-loop system with minimal smell and flies.
 
@@ -25,13 +25,13 @@ feed. The cycle works as follows:
 
 1. Animals excrete on the floor
 2. Sawdust, straw, rice husk, and microbes act on the feces
-3. Sunlight and air circulation dry the manure
+3. Sunlight and [[stamets-growing-room-air-circulation-co2-management]] dry the manure
 4. After fermentation, animals eat it again
 5. Manure does not pile up
 
 ## Shelter Design
 
-Key design principles for the livestock shelter:
+Key [[holmgren-permaculture-twelve-design-principles-framework]] for the livestock shelter:
 
 - **South-facing** so sun gradually warms all parts of the structure
 - **Air enters from sides** and exits through opening on top (natural ventilation)
@@ -59,6 +59,7 @@ Key design principles for the livestock shelter:
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
 - [[farming-with-air-water-and-sunlight]]
 - [[jadam-rice-bran-skin-fertilizer-problems]]
+
 ## Practical Considerations
 
 Successful implementation of JADAM Livestock Farming Without Feces Removal requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

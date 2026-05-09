@@ -19,7 +19,7 @@ stimulating uninterrupted growth.
 
 ## The Breakfast-Lunch-Dinner Concept
 
-The GROW BIO[[tompkins-magnetism-plant-growth]]. If seedlings are raised in very good soil with good
+The GROW BIO. If seedlings are raised in very good soil with good
 nutrients and good structure, only to be transplanted into an area
 with few nutrients and poor structure, the plants will suffer root
 shock.
@@ -114,3 +114,9 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+- [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]]
+- [[teaming-with-nutrients-essential-plant-nutrients]]
+- [[plant-micronutrients-and-their-essential-functions]]
+- [[vegetable-insect-and-disease-control]]
+- [[savory-holistic-resource-management-biological-monitoring]]

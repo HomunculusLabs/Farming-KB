@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-**Abies sibirica**, commonly known as the Siberian fir, is a medium-sized evergreen conifer native to the boreal forests of Siberia and Central Asia. It is one of the most cold-hardy of all true firs, tolerating temperatures below -50°C.
+**Abies sibirica**, commonly known as the Siberian fir, is a medium-sized evergreen conifer native to the [[fungal-diversity-boreal-forests-taiga]] of Siberia and Central Asia. It is one of the most cold-hardy of all true firs, tolerating temperatures below -50°C.
 
 The species reaches heights of 25–35 meters with a trunk diameter of 50–80 cm at maturity. Its narrow, conical crown and soft, aromatic needles give it a distinctive appearance in the taiga landscape.
 
@@ -39,7 +39,7 @@ Bark on mature trees is smooth and grey, developing shallow fissures with age. T
 
 Cones are cylindrical, 5–9 cm long and 2–3.5 cm wide, with rounded bracts that are shorter than the scales. They are borne upright on the upper branches and disintegrate at maturity, releasing winged seeds in autumn.
 
-The root system is shallow and widespread, with most fine roots concentrated in the upper 30 cm of soil. This adaptation facilitates nutrient uptake in cold, thin boreal soils but makes the species susceptible to windthrow.
+The root system is shallow and widespread, with most fine roots concentrated in the upper 30 cm of soil. This adaptation facilitates [[plant-nutrient-uptake-mechanisms]] in cold, thin boreal soils but makes the species susceptible to windthrow.
 
 ## Distribution and Habitat
 
@@ -55,7 +55,7 @@ Siberian fir typically occupies the subcanopy or codominant position in mixed bo
 
 ### Phytogeographic Affinities
 
-Siberian fir is closely related to balsam fir (Abies balsamea) of North America, and the two species are sometimes considered conspecific. The Bering Land Bridge likely facilitated gene exchange between these taxa during Pleistocene glacial periods.
+Siberian fir is closely related to balsam fir (Abies balsamea) of [[psilocybin-north-america-pacific-northwest]], and the two species are sometimes considered conspecific. The Bering Land Bridge likely facilitated gene exchange between these taxa during Pleistocene glacial periods.
 
 The species shares many ecological characteristics with other boreal Abies species, including shade tolerance, shallow rooting, and upright cone-bearing. These traits represent convergent adaptations to the short growing seasons and cold soils of the boreal zone.
 
@@ -75,11 +75,11 @@ Root and butt rot caused by Heterobasidion annosum is a significant disease in m
 
 ## Chemistry and Pharmacology
 
-Siberian fir needle oil is a commercially important essential oil obtained by steam distillation of fresh foliage. The oil is rich in bornyl acetate (30–45%), camphene (10–20%), and α-pinene (8–15%).
+Siberian fir needle oil is a commercially important essential oil obtained by [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] of fresh foliage. The oil is rich in bornyl acetate (30–45%), camphene (10–20%), and α-pinene (8–15%).
 
 The essential oil has demonstrated antimicrobial activity against a range of bacteria and fungi in vitro. Traditional uses include treatment of respiratory infections, wounds, and musculoskeletal pain.
 
-Fir needles contain significant quantities of ascorbic acid (vitamin C), making them a traditional source of this vitamin during winter months in Siberia. Tea prepared from fir needles was historically used to prevent and treat scurvy.
+Fir needles contain significant quantities of ascorbic acid (vitamin C), making them a traditional source of this vitamin during winter months in Siberia. Tea prepared from fir needles was historically used to [[query-how-do-i-identify-prevent-and-treat-fusarium-wilt]] scurvy.
 
 The oleoresin (balsam) of Siberian fir contains a complex mixture of terpenoids and phenolic compounds. It has been used medicinally as an expectorant and topical wound treatment in Russian folk medicine.
 
@@ -89,7 +89,7 @@ Siberian fir needle oil is produced on a commercial scale primarily in Russia, w
 
 The oil is used in the fragrance industry as a base note in perfumes, soaps, and cosmetics. Its fresh, balsamic, coniferous aroma blends well with other woody and herbal essential oils.
 
-Quality standards for fir needle oil specify minimum bornyl acetate content and maximum camphor content. Adulteration with cheaper conifer oils is a known quality concern in the international trade.
+[[aact-compost-quality-standards-ingham]] for fir needle oil specify minimum bornyl acetate content and maximum camphor content. Adulteration with cheaper conifer oils is a known quality concern in the international trade.
 
 ## Cultivation and Economic Importance
 

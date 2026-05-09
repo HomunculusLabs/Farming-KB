@@ -12,7 +12,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Pérez-Vera, I. (2005). "Liquenes Epifitos de la Laurisilva Canaria." Universidad de La Laguna.
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of North America." Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of [[psilocybin-north-america-pacific-northwest]]." Yale University Press.
   - Krog, H. & James, P.W. (1977). "The genus Ramalina in East Africa." "Norwegian Journal of Botany" 24: 267–294.
   - Kirschbaum, U. & Wirth, V. (1995). "Die Flechten Baden-Württembergs." Eugen Ulmer Verlag.
 ---
@@ -33,7 +33,7 @@ Color ranges from pale gray-green when dry to bright green when wet, reflecting 
 
 Apothecia are terminal or lateral, with a pale to brown disc 1–3 mm in diameter. The thallus margin of the apothecium is typically well-developed and crenulate. Ascospores are ellipsoid, colorless, and measure approximately 10–15 × 5–7 µm.
 
-The photobiont is a trebouxioid green alga. The medulla is white and loosely structured, containing the primary secondary metabolites detectable by spot tests.
+The photobiont is a trebouxioid green alga. The medulla is white and loosely structured, containing the primary [[antifungal-secondary-metabolites-coprophilous-fungi]] detectable by spot tests.
 
 ## Distribution and Habitat
 
@@ -67,13 +67,13 @@ Usnic acid concentrations in *Ramalina* species vary with light exposure and moi
 
 *Ramalina farinacea* has a more delicately branched, bluish-gray thallus and produces farinose soredia on branch surfaces. *R. fraxinea* is larger and more robust, with broader, more flattened branches and different chemistry.
 
-Within the Canary Islands, *R. cuspidata* and *R. tortuosa* occupy similar habitats but can be distinguished by branching pattern and secondary chemistry. Careful chemical analysis is often necessary for reliable identification of Macaronesian *Ramalina* species.
+Within the Canary Islands, *R. cuspidata* and *R. tortuosa* occupy similar habitats but can be distinguished by branching pattern and secondary chemistry. Careful [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] is often necessary for reliable identification of Macaronesian *Ramalina* species.
 
 ## Conservation Status
 
 *Ramalina canariensis* is considered vulnerable due to its restricted geographic range and dependence on laurel forest habitat. The laurel forests of the Canary Islands have been extensively cleared for agriculture and settlement over the past five centuries.
 
-Remaining laurel forest fragments are protected within national parks and UNESCO World Heritage sites on several islands. However, climate change poses a growing threat through altered cloud regimes and reduced humidity in the montane forest belt.
+Remaining laurel forest fragments are protected within national parks and UNESCO World Heritage sites on several islands. However, [[dighton-fungi-climate-change-feedback]] poses a growing threat through altered cloud regimes and reduced humidity in the montane forest belt.
 
 Invasive species, particularly exotic trees that do not support the same epiphytic lichen communities, threaten remaining habitat quality. Conservation recommendations include forest restoration with native tree species and continued monitoring of epiphyte communities.
 
@@ -83,7 +83,7 @@ Invasive species, particularly exotic trees that do not support the same epiphyt
 
 Vegetative propagation occurs through thallus fragmentation. Branch segments broken by wind, animal movement, or branch fall can establish on suitable bark surfaces. In the humid laurel forest environment, fragments rehydrate rapidly and have relatively high establishment success.
 
-The species does not produce soredia or isidia, which limits its capacity for short-range dispersal compared to sorediate *Ramalina* species. This dispersal limitation may contribute to its restricted distribution within the Canary Islands.
+The species does not produce soredia or isidia, which limits its capacity for short-range dispersal compared to sorediate *Ramalina* species. This [[fungal-dispersal-limitation-biogeographic-barriers]] may contribute to its restricted distribution within the Canary Islands.
 
 Wind transport of lightweight fragments between forest patches on different islands is possible during storm events, but long-distance oceanic dispersal is considered unlikely. Island biogeography patterns in Macaronesian lichens suggest most inter-island colonization occurred via rare chance events over geological timescales.
 
@@ -91,7 +91,7 @@ Wind transport of lightweight fragments between forest patches on different isla
 
 *Ramalina* species in the Canary Islands have been used historically as dye lichens, producing yellow to green colors depending on the mordant used. The usnic acid content provides the primary coloring capacity.
 
-In traditional Canarian folk medicine, *Ramalina* lichens were occasionally used in respiratory remedies, though this practice was less common than the use of *Cetraria islandica* and other more accessible species. The antimicrobial properties of usnic acid provided some rationale for these applications.
+In traditional Canarian folk medicine, *Ramalina* lichens were occasionally used in respiratory remedies, though this practice was less common than the use of *Cetraria islandica* and other more accessible species. The [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] of usnic acid provided some rationale for these applications.
 
 Lichens including *Ramalina* were also used in traditional wool dyeing by rural communities in the Canary Islands. These practices declined sharply in the mid-twentieth century with the introduction of synthetic dyes.
 

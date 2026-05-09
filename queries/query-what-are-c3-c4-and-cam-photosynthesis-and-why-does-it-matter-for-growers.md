@@ -1,5 +1,5 @@
 ---
-title: "What Are C3, C4, and CAM Photosynthesis, and Why Does It Matter for Growers?"
+title: "What Are C3, C4, and comparison-c3-c4-and-cam-photosynthesis-pathways, and Why Does It Matter for Growers?"
 created: 2026-04-28
 tags:
   - photosynthesis
@@ -12,7 +12,8 @@ tags:
   - botany
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -31,7 +32,7 @@ produced during CO₂ fixation.
 C3 is the most common and ancestral pathway, used by about 85% of plant species.
 The enzyme RuBisCO directly captures CO₂ from the air and fixes it into a 3-carbon
 compound (3-phosphoglycerate). C3 plants include most vegetables (tomato, pepper,
-lettuce, beans), grains (wheat, rice, oats), fruit trees, and ornamental flowers.
+lettuce, beans), grains (wheat, rice, oats), [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], and ornamental flowers.
 
 C3 photosynthesis works best in cool to moderate temperatures (15–25°C) with
 adequate water. At higher temperatures, RuBisCO increasingly grabs oxygen instead
@@ -67,7 +68,7 @@ include cacti, succulents, pineapple, agave, aloe vera, orchids, and vanilla.
 ## How do I know which pathway my plants use?
 
 The simplest rule of thumb: if it's a cool-season vegetable, grain, fruit tree, or
-temperate ornamental, it's almost certainly C3. If it's a warm-season grass crop
+temperate ornamental, it's almost certainly C3. If it's a warm-season [[fungal-endophytes-grass-crop-systems]]
 like corn or sorghum, it's C4. If it's a succulent, cactus, pineapple, or
 epiphytic orchid, it's CAM. When in doubt, look up the species—most plant databases
 include photosynthetic pathway information.
@@ -95,7 +96,7 @@ and lettuce give the best return.
 area because they maintain two sets of photosynthetic enzymes. This is why corn
 is a heavy nitrogen feeder compared to wheat.
 
-**Light requirements**: C4 plants use light more efficiently at high intensity,
+**[[growing-gourmet-light-requirements-mushroom-fruiting]]**: C4 plants use light more efficiently at high intensity,
 suited to full-sun locations. C3 plants can suffer photoinhibition under very
 intense light, especially at high temperatures. CAM plants prefer bright light
 but can adapt to lower light by reducing CAM activity.
@@ -109,7 +110,7 @@ management—establish C3 crops early before C4 weeds become dominant.
 Some plants are **facultative CAM**, normally using C3 but switching to CAM under
 drought or salinity stress. Examples include the ice plant (*Mesembryanthemum
 crystallinum*) and some *Talinum* and *Clusia* species. This flexibility is of
-great interest to researchers studying climate adaptation.
+great interest to researchers studying [[jeavons-climate-adaptation-growing-seasons]].
 
 No plant switches between C3 and C4, though rare **C3–C4 intermediates** (like
 *Flaveria* species) exhibit traits of both pathways and may represent evolutionary
@@ -139,6 +140,8 @@ pigweed (Amaranthus), barnyard grass, johnsongrass, bermudagrass, foxtail.
 
 **CAM**: Cacti, aloe vera, agave, pineapple, jade plant, kalanchoe, Christmas
 ## See Also
+
+- [[c4-and-cam-photosynthesis]]
 
 - [[query-why-are-mangroves-critical-for-climate-change-adaptation-and-coastal-protection]]
 

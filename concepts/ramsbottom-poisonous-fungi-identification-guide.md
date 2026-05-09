@@ -1,5 +1,5 @@
 ---
-title: Ramsbottom Poisonous Fungi Identification Guide
+title: Ramsbottom ramsbottom poisonous fungi identification guide Identification Guide
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -8,7 +8,7 @@ type: concept
 tags: [fungi]
 ---
 
-John Ramsbottom (Keeper of Botany, British Museum Natural History) published "Poisonous Fungi" in 1945 as a concise field guide to the dangerous fungi of Britain. The work emphasizes that despite popular belief, the number of genuinely poisonous fungi is very small, and that no rule-of-thumb method exists for distinguishing edible from poisonous species -- only accurate identification coupled with knowledge of each species' reputation is reliable.
+John Ramsbottom (Keeper of Botany, British Museum Natural History) published "Poisonous Fungi" in 1945 as a concise [[ghouled-field-guide-historical-context]] to the dangerous fungi of Britain. The work emphasizes that despite popular belief, the number of genuinely poisonous fungi is very small, and that no rule-of-thumb method exists for distinguishing edible from poisonous species -- only accurate identification coupled with knowledge of each species' reputation is reliable.
 
 ## Historical Context
 
@@ -18,7 +18,7 @@ Ramsbottom traces awareness of fungal poisoning to classical antiquity. Euripide
 
 Ramsbottom systematically dismantles every common folk method for distinguishing poisonous from edible fungi:
 
-- **Peeling test:** Whether the cap skin can be peeled is a structural character, not a safety indicator. The Field Mushroom peels, but so does the Death Cap. This misconception led to two deaths at Ipswich in 1944.
+- **Peeling test:** Whether the cap skin can be peeled is a structural character, not a safety indicator. The Field Mushroom peels, but so does the [[query-how-to-identify-and-avoid-the-death-cap-amanita-phalloides]]. This misconception led to two deaths at Ipswich in 1944.
 - **Silver spoon test:** Silver is blackened by sulphides but not by any fungus, certainly not by [[amanita-muscaria-guide]].
 
 ### Amanita pantherina (False Blusher)
@@ -31,7 +31,7 @@ Small species (cap 1.25 inches); causes symptoms resembling mild A. phalloides p
 
 ### Inocybe Patouillardi (Red Staining Inocybe)
 
-Becomes vermilion on handling; has caused deaths (fatality in Surrey, 1937). Poisoning of the Amanita muscaria type with giddiness, profuse sweats, and vomiting. Most Inocybe species are small, some poisonous, and none known to be edible.
+Becomes vermilion on handling; has caused deaths (fatality in Surrey, 1937). Poisoning of the [[allegro-amanita-muscaria-properties-and-pharmacology]] type with giddiness, profuse sweats, and vomiting. Most Inocybe species are small, some poisonous, and none known to be edible.
 
 ### Entoloma lividum (Leaden Entoloma)
 
@@ -60,8 +60,8 @@ An Ascomycete with a characteristically brain-like, dark chestnut-brown cap. Per
 
 - [[amanita-poisoning-identification-antidotes-palmer]]
 - [[amanita-muscaria-pharmacology]]
-- [[mushroom-identification-basics]]
-- [[mushroom-identification-taxonomic-confusion]]
+- mushroom-identification-basics
+- mushroom-identification-taxonomic-confusion
 - [[inocybe-aeruginascens-profile]]
 - [[mushroom-cultivation-for-food-and-medicine]]
 ## Practical Considerations
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

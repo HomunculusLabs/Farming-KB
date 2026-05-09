@@ -20,7 +20,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Foster, S. & Duke, J.A. (2014). "A Field Guide to Medicinal Plants and Herbs." Houghton Mifflin Harcourt.
+  - Foster, S. & Duke, J.A. (2014). "A ghouled-field-guide-historical-context to Medicinal Plants and Herbs." Houghton Mifflin Harcourt.
   - Psotova, J. et al. (2003). "Biologically active compounds from Prunella vulgaris." Fitoterapia 74(7–8): 641–644.
   - Nam, M.H. et al. (2017). "Phenolic compounds of Prunella vulgaris and their biological activities." Molecules 22(11): 1931.
   - European Medicines Agency (2015). "Assessment report on Prunella vulgaris L., herba." EMA/HMPC/602960/2014.
@@ -33,7 +33,7 @@ sources:
 **Prunella vulgaris**, commonly known as self-heal or heal-all, is a low-growing
 perennial herb in the mint family Lamiaceae. It is one of the most widely
 distributed medicinal plants in the world, found across temperate regions of
-Europe, Asia, Africa, and North America. The plant has been used in traditional
+Europe, Asia, Africa, and [[psilocybin-north-america-pacific-northwest]]. The plant has been used in traditional
 medicine systems for centuries, particularly for wound healing, sore throats,
 and inflammatory conditions.
 
@@ -54,7 +54,7 @@ infections.
 
 The genus Prunella is monogeneric within its tribe, making P. vulgaris the
 sole representative. Several subspecies are recognized: subsp. *vulgaris*
-(Eurasian), subsp. *lanceolata* (North American), and subsp. *asiatica* (East
+(Eurasian), subsp. *lanceolata* ([[growing-gourmet-north-american-reishi-species]]), and subsp. *asiatica* (East
 Asian), with some overlap in morphological characters.
 
 ## Morphology
@@ -115,13 +115,13 @@ Traditional and pharmacologically investigated applications include:
 
 ## Permaculture Applications
 
-P. vulgaris offers multiple functions in permaculture design:
+P. vulgaris offers multiple functions in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]:
 
-- **Ground cover:** Dense, low growth habit provides excellent weed
+- **[[fukuoka-citrus-orchard-ground-cover-cultivation]]:** Dense, low growth habit provides excellent weed
   suppression and soil protection in garden beds and pathways.
 - **Pollinator support:** Flowers attract bees, butterflies, and other
   pollinators over a long blooming season.
-- **Living mulch:** Compatible with orchard understories and food forests.
+- **[[comparison-living-mulch-vs-cover-crops]]:** Compatible with orchard understories and food forests.
 - **Edible:** Young leaves and flowers are edible raw or cooked, with a
   mildly bitter flavor. Used in salads, soups, and teas.
 - **Soil stabilization:** Creeping stolons help bind soil on slopes and

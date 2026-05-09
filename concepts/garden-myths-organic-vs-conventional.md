@@ -17,14 +17,14 @@ The assumption that "natural" equals "safe" and "synthetic" equals "dangerous" i
 
 ### What the Evidence Shows
 
-- **Toxicity is determined by dose and mode of action, not origin**: Many organic-approved pesticides have significant toxicity to non-target organisms, including beneficial insects, aquatic life, and humans
+- **Toxicity is determined by dose and mode of action, not origin**: Many organic-approved pesticides have significant toxicity to non-target organisms, including [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], aquatic life, and humans
 - **Examples of toxic organic pesticides**:
   - **Rotenone** (derived from plant roots) is highly toxic to fish and has been linked to Parkinson's disease-like symptoms in animal studies. It is broad-spectrum, killing both pests and beneficial insects
   - **Pyrethrins** (derived from chrysanthemum flowers) are highly toxic to bees, fish, and aquatic invertebrates. While they degrade quickly in sunlight, they are not selective
   - **Copper-based fungicides** (copper sulfate, Bordeaux mixture) are approved for organic use but accumulate in soil to toxic levels over time, harming soil organisms and potentially contaminating waterways. Copper is a heavy metal that does not degrade
   - **Neem oil** is generally lower toxicity but can harm beneficial insects at application rates needed for pest control
   - **Spinosad** is derived from a soil bacterium and is relatively selective, but it is highly toxic to bees when wet and toxic to some beneficial insects
-- **Some synthetic pesticides are quite selective**: Modern synthetic pesticides are often designed to target specific physiological pathways in pest organisms while having minimal effects on non-target species. Bt (Bacillus thuringiensis), while natural, is a good example of a selective pesticide that targets specific insect orders
+- **Some synthetic pesticides are quite selective**: Modern synthetic pesticides are often designed to target specific physiological pathways in pest organisms while having minimal effects on non-target species. Bt ([[cervantes-bacillus-thuringiensis-bt-control]]), while natural, is a good example of a selective pesticide that targets specific insect orders
 - **Application matters more than chemistry**: The environmental impact of any pesticide depends primarily on how, when, where, and how much is applied, not on whether it is synthetic or organic
 
 ### The Balanced View
@@ -38,7 +38,7 @@ The claim that organically grown produce is nutritionally superior to convention
 ### What the Evidence Shows
 
 - **Meta-analyses show modest differences at best**: Large-scale reviews of the nutritional literature (Stanford 2012, Baranski 2014, and others) have found that organic produce may have slightly higher levels of certain antioxidants and slightly lower levels of pesticide residues, but the differences are small and of questionable clinical significance
-- **Nutritional content is primarily determined by**: Variety/cultivar, soil quality, ripeness at harvest, storage conditions, and time since harvest -- not by whether synthetic fertilizers or pesticides were used
+- **Nutritional content is primarily determined by**: Variety/cultivar, soil quality, ripeness at harvest, [[vegetable-storage-conditions-by-temperature-and-humidity]], and time since harvest -- not by whether synthetic fertilizers or pesticides were used
 - **Freshness matters most**: Locally grown, freshly harvested produce (whether organic or conventional) will generally be more nutritious than produce that has been shipped long distances and stored for weeks, regardless of production method
 - **Some studies show higher antioxidants in organic produce**: This may be because plants grown without synthetic pesticides produce more defensive compounds (including antioxidants) in response to insect pressure. This is an interesting finding but does not automatically translate to meaningful health benefits
 - **Pesticide residue differences**: Organic produce does generally have lower synthetic pesticide residue levels, though residues on conventional produce are typically well below safety thresholds set by regulatory agencies
@@ -55,7 +55,7 @@ While organic gardening practices have many environmental benefits, the blanket 
 
 - **Land use efficiency**: Organic farming generally has lower yields per acre than conventional farming (though the gap varies by crop and system). If organic production requires more land to produce the same amount of food, the environmental cost of that additional land use (habitat conversion, deforestation) must be factored in
 - **Tillage**: Many organic systems rely on cultivation for weed control, which can increase soil erosion and carbon loss compared to no-till conventional systems with herbicide-based weed management. This is changing as organic no-till methods develop, but it remains a challenge
-- **Transport and inputs**: Organic amendments (compost, manure, rock minerals) must be produced, transported, and applied. Their environmental footprint varies by source and distance. Locally produced synthetic fertilizer may have a lower carbon footprint than organic amendments shipped from across the country
+- **Transport and inputs**: [[cervantes-organic-amendments-chart]] (compost, manure, rock minerals) must be produced, transported, and applied. Their environmental footprint varies by source and distance. Locally produced synthetic fertilizer may have a lower carbon footprint than organic amendments shipped from across the country
 - **Copper accumulation**: As noted above, repeated copper fungicide applications in organic orchards and vineyards can lead to soil contamination
 - **Biodiversity**: Organic systems generally support greater biodiversity on-farm, which is a genuine environmental benefit. However, the biodiversity impact depends heavily on the specific practices used, not just the organic certification
 
@@ -71,7 +71,7 @@ The phrase "chemical-free gardening" appears frequently in organic gardening lit
 
 - **Everything is chemicals**: Water is a chemical. Air is chemicals. Plants are chemicals. Soil is chemicals. The human body is chemicals. There is no such thing as "chemical-free" anything
 - **What people actually mean**: The phrase is typically used to mean "free of synthetic chemicals" or "free of manufactured pesticides and fertilizers." These are legitimate preferences but should be stated accurately
-- **Natural does not mean non-chemical**: Botanical pesticides (rotenone, pyrethrins, neem) are chemicals. Organic fertilizers (bone meal, blood meal, rock phosphate) are chemicals. Compost tea is a chemical solution. The distinction is the source and processing of the chemicals, not their chemical nature
+- **Natural does not mean non-chemical**: Botanical pesticides (rotenone, pyrethrins, neem) are chemicals. [[hamilton-organic-fertilizers-and-plant-nutrition]] (bone meal, blood meal, rock phosphate) are chemicals. Compost tea is a chemical solution. The distinction is the source and processing of the chemicals, not their chemical nature
 - **The "naturalistic fallacy"**: The assumption that natural substances are inherently safer or better than synthetic ones is a logical error. Nature produces many of the most toxic substances known (botulinum toxin, ricin, aflatoxin, arsenic)
 
 ### The Balanced View
@@ -110,7 +110,7 @@ No-till gardening has gained tremendous popularity, and for good reasons. But th
 - Preserves soil structure and aggregation
 - Protects soil biology (especially fungal networks)
 - Reduces erosion
-- Increases soil organic matter accumulation
+- Increases [[savory-soil-organic-matter-and-decomposition-dynamics]] accumulation
 - Reduces weed seed germination (by not bringing buried seeds to the surface)
 
 **Situations where tillage may be appropriate**:

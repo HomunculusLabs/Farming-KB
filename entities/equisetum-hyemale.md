@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Hauke, R.L. (1993). "Equisetaceae." Flora of North America North of Mexico, Vol. 2. Oxford University Press.
+  - Hauke, R.L. (1993). "Equisetaceae." Flora of psilocybin-north-america-pacific-northwest North of Mexico, Vol. 2. Oxford University Press.
   - Page, C.N. (1972). "The morphology and anatomy of the sporangiophore in Equisetum." Botanical Journal of the Linnean Society 65: 181–203.
   - Milne, R. (2006). "Equisetum hyemale." Curtis's Botanical Magazine 23(1): 35–41.
   - Körner, C. et al. (1983). "Silica uptake in Equisetum." Annals of Botany 52: 359–365.
@@ -22,7 +22,7 @@ sources:
 
 The plant is immediately recognizable by its **jointed, cylindrical, unbranched stems** that are rough to the touch due to high silica deposits in the epidermal cells. These silica-rich stems were historically used for scouring metal cookware, giving rise to the common name "scouring rush."
 
-Equisetum hyemale is cultivated as an **architectural ornamental plant** for its striking vertical form. It is also notable as a **hyperaccumulator of heavy metals**, making it relevant to phytoremediation research.
+Equisetum hyemale is cultivated as an **architectural ornamental plant** for its striking vertical form. It is also notable as a **hyperaccumulator of [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]**, making it relevant to phytoremediation research.
 
 ## Taxonomy and Morphology
 
@@ -72,7 +72,7 @@ Rough horsetail is widely grown as an **ornamental plant** for its bold vertical
 
 The plant spreads aggressively via rhizomes and can become invasive in garden settings. **Root barriers** at least 60 cm deep are recommended when planting near other specimens. Container cultivation is an effective alternative for controlling spread.
 
-Propagation is by **division of rhizomes** in early spring or by **spore**. Spore propagation is slow and unreliable for garden purposes. Division produces established clumps within a single growing season.
+Propagation is by **division of rhizomes** in [[coleman-overwintered-onions-and-early-spring-crops]] or by **spore**. Spore propagation is slow and unreliable for garden purposes. Division produces established clumps within a single [[savory-growing-season-and-non-growing-season-management]].
 
 No significant pests or diseases affect *E. hyemale* in cultivation. The silica-rich stems deter most herbivorous insects. Rust fungi (*Puccinia* spp.) occasionally infect stems but rarely cause serious damage.
 
@@ -86,7 +86,7 @@ The hollow stems provide **habitat structure** for aquatic and semi-aquatic inve
 
 The species is a noted **hyperaccumulator** of heavy metals including arsenic, cadmium, lead, and zinc. Research has demonstrated its capacity to concentrate these metals in above-ground tissues at levels exceeding soil concentrations by 10–100 times. This trait has generated interest in its use for **phytoremediation** of contaminated sites.
 
-Equisetum species produce **equisetolic acid** and other secondary metabolites with allelopathic properties. These compounds can inhibit germination and growth of competing plant species, contributing to the often near-monoculture stands observed in the wild.
+Equisetum species produce **equisetolic acid** and other [[antifungal-secondary-metabolites-coprophilous-fungi]] with allelopathic properties. These compounds can inhibit germination and growth of competing plant species, contributing to the often near-monoculture stands observed in the wild.
 
 ## Historical Uses
 
@@ -94,7 +94,7 @@ Indigenous peoples across North America, Europe, and Asia used *E. hyemale* for 
 
 The stems were boiled to create a **diuretic tea** used in traditional European herbal medicine for kidney and bladder ailments. This use was adopted into 19th-century pharmacopeias as *Equiseti herba*, though modern clinical evidence supporting these applications remains limited.
 
-Native American tribes including the Blackfoot, Cheyenne, and Ojibwe used horsetail preparations for **wound healing** and as a **general tonic**. The high silica content was believed to strengthen bones, hair, and nails — a folk belief that has some support from silica's known role in collagen synthesis.
+[[halpern-sacramental-peyote-and-native-american-church]] tribes including the Blackfoot, Cheyenne, and Ojibwe used horsetail preparations for **wound healing** and as a **general tonic**. The high silica content was believed to strengthen bones, hair, and nails — a folk belief that has some support from silica's known role in collagen synthesis.
 
 Japanese artisans used split horsetail stems as **fine sanding implements** for lacquerware finishing, a practice that continued into the 20th century. The abrasive quality of the silica-impregnated epidermis produced exceptionally smooth surfaces.
 

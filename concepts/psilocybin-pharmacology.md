@@ -1,9 +1,9 @@
 ---
-title: Psilocybin Mushroom Health Risks and Pharmacology
+title: emcdda-psilocybin-mushroom-dose-and-effects Health Risks and Pharmacology
 source: carolina-mushrooms_08qxp.md
 mined: 2026-05-08
 tags: [psilocybin, pharmacology, health-risks, mushrooms, serotonin]
-aliases: [psilocybin effects, magic mushroom risks, psilocin pharmacology]
+aliases: [psilocybin effects, [[australian-magic-mushroom-common-names]] risks, psilocin pharmacology]
 ---
 
 # Psilocybin Mushroom Health Risks and Pharmacology
@@ -24,8 +24,8 @@ aliases: [psilocybin effects, magic mushroom risks, psilocin pharmacology]
 
 ## Acute Physiological Effects
 
-The somatic effects of psilocybin mushrooms are generally mild compared to
-the psychological effects:
+The somatic effects of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] are generally mild compared to
+the [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]]:
 
 - **Nausea**: Most commonly reported physical effect, typically during onset
   (first 30–60 minutes)
@@ -46,7 +46,7 @@ The most significant acute mental health risk is the **panic reaction** or
 loss of behavioral control. Risk factors include:
 
 - High doses or unexpectedly potent mushrooms
-- Unfamiliar or threatening environment ("set and setting")
+- Unfamiliar or threatening environment ("[[lsd-set-and-setting-framework]]")
 - Pre-existing anxiety disorders or unstable mental health
 - Use without adequate preparation or knowledge
 - Polydrug use, especially with stimulants or alcohol
@@ -72,7 +72,7 @@ include:
   particularly [[psilocybe-cubensis]]**: 0.5–1.0% dry weight (most commonly cultivated)
 - **[[hallucinogenic-mushrooms-european-prevalence]]
 - [[psilocybin-mushroom-markets-europe]]
-- amanita muscaria
+- [[allegro-amanita-muscaria-properties-and-pharmacology]]
 ## Practical Considerations
 
 Successful implementation of Psilocybin Mushroom Health Risks and Pharmacology requires attention to
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

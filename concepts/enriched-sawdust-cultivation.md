@@ -1,5 +1,5 @@
 ---
-title: Enriched Sawdust Cultivation
+title: gourmet-mushroom-enriched-sawdust-cultivation Cultivation
 created: 2026-04-28
 tags:
   - mushroom-cultivation
@@ -16,15 +16,15 @@ type: concept
 
 # Enriched Sawdust Cultivation
 
-Supplemented sawdust is the substrate of choice for cultivating
-wood-decomposing gourmet and medicinal mushrooms including Shiitake
+[[oyster-mushroom-supplemented-sawdust-blocks]] is the substrate of choice for cultivating
+wood-decomposing gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] including Shiitake
 ([[flammulina-velutipes]]), Maitake
 ([[hericium-erinaceus]]), Nameko
 ([[ganoderma-lucidum]]), and many others.
 The supplemented sawdust formula provides the complex mixture of
 cellulose, hemicellulose, lignin, and nitrogen that these species
 require for robust growth and prolific fruiting. This method
-represents the standard for commercial indoor cultivation of wood-
+represents the standard for commercial [[cannabis-sativa-indoor-cultivation-techniques]] of wood-
 decomposing mushrooms worldwide.
 
 ## The Standard Supplemented Sawdust Formula
@@ -68,9 +68,9 @@ Fruit tree woods, including apple, pear, and plum, are generally
 excellent substrates and often available as orchard waste. Conifer
 woods are generally avoided for most gourmet species, though some
 species like [[mushroom-contamination-vectors]] framework. The most
-common causes include: insufficient sterilization time, contamination
+common causes include: insufficient [[pressure-cooker-sterilization-time-temperature-jar-size-mushroom-substrate]], contamination
 introduced during cool-down (filter air during cool-down or open at
-1 psi in a clean room), contaminated grain spawn, poor sterile
+1 psi in a clean room), contaminated [[comparison-grain-spawn-vs-grain-to-grain-transfer]], poor sterile
 technique during inoculation, or bags spaced too closely causing
 overheating. Mycelium that grows and then stops, often accompanied
 by foul odors, is typically caused by bacterial contamination from

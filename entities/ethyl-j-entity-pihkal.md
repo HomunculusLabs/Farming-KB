@@ -1,5 +1,5 @@
 ---
-title: "ETHYL-J -- PIHKAL Entry #77"
+title: "ETHYL-J -- 2c-b-pihkal-entry-20 #77"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -50,7 +50,7 @@ extreme caution. This compound is not approved for human consumption.
 
 ## Practical Assessment
 
-Ethyl J Entity Pihkal is best evaluated by its role in whole-system design, not as an isolated technique. Key questions include where it fits in a site plan, which inputs it requires, what outputs it produces, and how its risks change across climates, seasons, and management styles.
+Ethyl J Entity Pihkal is best evaluated by its role in whole-system design, not as an isolated technique. Key questions include where it fits in a site plan, which inputs it requires, what outputs it produces, and how its risks [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] climates, seasons, and management styles.
 
 ## Implementation Notes
 
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

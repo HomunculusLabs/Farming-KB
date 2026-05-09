@@ -1,5 +1,5 @@
 ---
-title: "Lysergic Acid Hydroxyethylamide"
+title: "ergot-and-lysergic-acid-history Hydroxyethylamide"
 created: 2026-04-28
 type: chemical
 tags:
@@ -43,7 +43,7 @@ with less visual intensity and more physical heaviness.
 LSH has historically been difficult to study because it readily degrades to
 lysergic acid amide (LSA/ergine) during storage, extraction, and analytical
 processing. This instability led to decades of confusion where many analyses of
-morning glory seeds attributed all psychoactivity to LSA alone, underestimating
+[[golden-guide-morning-glory-and-ololiuqui]] seeds attributed all psychoactivity to LSA alone, underestimating
 LSH's contribution.
 
 ## Chemical Properties
@@ -65,7 +65,7 @@ differs from LSD in several key respects:
 
 The hydroxyethyl group at the amide nitrogen is responsible for distinct
 pharmacokinetic and pharmacodynamic properties compared to LSA, increasing
-water solubility, altering receptor binding conformation, and modifying
+water solubility, altering [[tihkal-receptor-binding-serotonin]] conformation, and modifying
 metabolic pathways.
 
 ## Occurrence in Nature
@@ -74,12 +74,12 @@ LSH is found in seeds, leaves, and stems of several Convolvulaceae species:
 
 - ***Ipomoea tricolor*** (Morning Glory, "Badoh Negro") — LSH as a major
   alkaloid alongside LSA, particularly when fresh
-- ***Turbina corymbosa*** (Ololiuqui, "Coaxihuitl") — the primary Aztec
+- ***[[plants-of-the-gods-turbina-corymbosa-ololiuqui]]*** (Ololiuqui, "Coaxihuitl") — the primary Aztec
   entheogen with significant LSH concentrations
 - ***Ipomoea corymbosa*** — closely related; similar alkaloid profile
-- ***Argyreia nervosa*** (Hawaiian Baby Woodrose) — contains trace LSH but
+- ***[[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]]*** (Hawaiian Baby Woodrose) — contains trace LSH but
   is dominated by LSA and other ergolines
-- ***Claviceps purpurea*** (ergot fungus) — minor constituent in some strains
+- ***[[bloomfield-ergot-claviceps-purpurea-ergotism]]*** (ergot fungus) — minor constituent in some strains
 
 In all species, LSH content is highest in fresh, undried seeds and decreases
 rapidly with storage as the compound degrades to LSA.

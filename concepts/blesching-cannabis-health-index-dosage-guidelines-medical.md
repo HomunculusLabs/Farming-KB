@@ -1,5 +1,5 @@
 ---
-title: Dosage Guidelines for Medical Cannabis (Blesching, Cannabis Health Index)
+title: blesching cannabis health index dosage guidelines medical for Medical Cannabis (Blesching, blesching-cannabis-health-index-autoimmune-conditions)
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,11 +10,11 @@ tags: [cannabis, dosage]
 
 # Dosage Guidelines for Medical Cannabis
 
-Comprehensive dosage and administration guidance from Blesching's "The Cannabis Health Index" (2015), covering the subjective therapeutic window, methods of administration, dose titration, and safety considerations.
+Comprehensive dosage and administration guidance from Blesching's "The Cannabis Health Index" (2015), covering the [[cannabis-subjective-therapeutic-window-dosing]] window, methods of administration, dose titration, and safety considerations.
 
 ## The Subjective Therapeutic Window
 
-The most important concept in Blesching's dosage framework. The vast majority of adverse effects are directly related to using cannabis in excess of the subjective therapeutic window. Key principles:
+The most important concept in Blesching's dosage framework. The vast majority of [[blesching-cannabis-safety-adverse-effects-evidence]] are directly related to using cannabis in excess of the subjective therapeutic window. Key principles:
 
 - **Too little**: sub-optimal therapeutic effect
 - **Too much**: can actually increase the very symptoms you are attempting to treat (e.g., using cannabis to reduce anxiety but taking too much rapidly can multiply anxiety)
@@ -67,7 +67,7 @@ The most important concept in Blesching's dosage framework. The vast majority of
 ### Topical Application
 - Delivers medicine to specific, isolated problem areas
 - Absorption rates similar to ingestion but more local than systemic
-- Used for arthritis, muscle pain, skin conditions
+- Used for arthritis, muscle pain, [[cannabis-for-skin-conditions-detailed]]
 
 ### Raw/Fresh Cannabis
 - Fresh leaves contain CBD and THC in their acid forms (non-psychoactive)

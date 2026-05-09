@@ -1,5 +1,5 @@
 ---
-title: "How Do I Make Comfrey Tea Fertilizer?"
+title: "How Do I Make comparison-comfrey-tea-vs-compost-tea Fertilizer?"
 tags: [query, comfrey, liquid-fertilizer, organic-fertilizer, permaculture]
 date: 2026-05-08
 updated: 2026-05-08
@@ -10,8 +10,8 @@ sources: []
 
 ## Short Answer
 
-Comfrey tea is a nutrient-rich liquid fertilizer made by steeping [[potassium-role-in-plants|potassium]] and contains moderate amounts of [[phosphorus-plant-nutrition|phosphorus]].
-It is one of the easiest and most cost-effective organic fertilizers a gardener can produce at home.
+Comfrey tea is a nutrient-rich [[jadam-liquid-fertilizer-nutritional-perspective]] made by steeping [[potassium-role-in-plants|potassium]] and contains moderate amounts of [[phosphorus-plant-nutrition|phosphorus]].
+It is one of the easiest and most cost-effective [[hamilton-organic-fertilizers-and-plant-nutrition]] a gardener can produce at home.
 
 ## Why Comfrey Makes Great Fertilizer
 
@@ -45,7 +45,7 @@ Seal the container loosely to allow gas to escape but minimize oxygen exposure.
 Let it ferment for four to six weeks in a warm spot.
 
 This method produces a powerful, foul-smelling liquid that gardeners often call "comfrey stew."
-Despite the smell, it is one of the highest-potency homemade liquid fertilizers available.
+Despite the smell, it is one of the highest-potency homemade [[solomon-liquid-fertilizers-and-foliar-feeding]] available.
 The anaerobic process is similar to [[composting-science-solomon|compost]] or [[vermicomposting|vermicompost]] activator when poured into worm bins.
 
 ## Comfrey Tea vs Other Liquid Fertilizers
@@ -60,8 +60,8 @@ Growing comfrey as a border plant provides a perpetual on-site fertilizer source
 ## Key Points
 
 - Comfrey tea is a free, potassium-rich liquid fertilizer made from steeping comfrey leaves in water.
-- [[dynamic-accumulator-hyperaccumulator-geobotany|dynamic accumulator]] that mines subsoil minerals with deep taproots.
-- Aerobic tea is ready in one to two weeks and smells mild, while anaerobic tea takes four to six weeks and is very concentrated.
+- [[nutrient-dynamic-accumulator-reference]] that mines subsoil minerals with deep taproots.
+- Aerobic tea is ready in one to two weeks and smells mild, while [[aerobic-vs-anaerobic-tea-benefits-comparison]] takes four to six weeks and is very concentrated.
 - Always dilute comfrey tea before applying — 1:10 for aerobic, 1:15 to 1:20 for anaerobic.
 - Fruiting and flowering plants benefit most from the high [[soil-food-web-structure|soil food web]] when applied as a soil drench.
 - It pairs well with [[biochar-and-fungi|biochar]], and [[query-how-do-i-use-comfrey-in-the-garden]]
@@ -86,3 +86,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[comfrey-tea-liquid-fertilizer]]

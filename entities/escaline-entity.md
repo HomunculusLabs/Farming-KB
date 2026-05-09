@@ -35,9 +35,9 @@ The relationship between escaline and natural products is worth noting.
 
 While mescaline-entity|mescaline occurs naturally in peyote cactus and other species, escaline does not occur naturally.
 
-However, the essential oil precursors that could theoretically give rise to escaline-like compounds through metabolic amination do exist in nature.
+However, the [[permaculture-designers-manual-essential-oil-plants]] precursors that could theoretically give rise to escaline-like compounds through metabolic amination do exist in nature.
 
-This connects to Shulgin's broader concept of "Essential Amphetamines" that could arise from natural essential oils.
+This connects to Shulgin's broader concept of "Essential Amphetamines" that could arise from natural [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]].
 
 ## The Alkoxy Series
 
@@ -59,7 +59,7 @@ The compound's pharmacokinetic profile (absorption, distribution, metabolism, ex
 
 Escaline is controlled in many jurisdictions as a mescaline analogue.
 
-In the United States, it would likely fall under the Federal Analogue Act.
+In the [[dmt-containing-plants-united-states-halpern]], it would likely fall under the Federal Analogue Act.
 
 The compound has been specifically scheduled in some countries as part of broader phenethylamine scheduling.
 

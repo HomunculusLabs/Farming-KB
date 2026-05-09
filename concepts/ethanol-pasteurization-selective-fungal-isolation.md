@@ -1,5 +1,5 @@
 ---
-title: Ethanol Pasteurization for Selective Fungal Isolation
+title: Ethanol Pasteurization for ethanol pasteurization selective fungal isolation Isolation
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -63,7 +63,7 @@ In Galapagos Islands study (Mahoney 1972), of 250 taxonomic entities recovered b
 
 ### Variables Affecting Results
 - **Soil texture:** Fine-textured soils sterilized more effectively than coarse
-- **Organic matter:** Plant fibers and roots can interfere with pulverization and protect propagules
+- **[[hamilton-composting-and-organic-matter-management]]:** Plant fibers and roots can interfere with pulverization and protect propagules
 - **Soil volume:** May need trial runs to determine optimal amount
 - **Ethanol concentration:** 60% is standard; adjust for soil type
 - **Treatment time:** Standard 5 minutes; may need adjustment
@@ -101,13 +101,13 @@ In Galapagos Islands study (Mahoney 1972), of 250 taxonomic entities recovered b
 
 1. **Biodiversity surveys:** Extend species lists beyond what standard plating recovers
 2. **Coprophilous fungi:** Isolate dung-inhabiting ascomycetes from soil
-3. **Ascomycete diversity:** Specifically target teleomorphic (sexual) fungi
-4. **Soil fungal ecology:** Compare communities with and without pasteurization
+3. **[[biodiversity-ascomycete-diversity-taxonomy]]:** Specifically target teleomorphic (sexual) fungi
+4. **Soil [[gadd-fungal-ecology-endophytes]]:** Compare communities with and without pasteurization
 5. **Rare species detection:** Many species only recovered by this method
 
 ## See Also
 
 - [[particle-filtration-dilution-plating-microfungal-isolation]]
 - [[soil-fungal-diversity-wisconsin-survey-global-patterns]]
-- [[fungal-culture-media-formulas-applications]]
+- fungal-culture-media-formulas-applications
 - [[biodiversity-of-fungi-soil-isolation-methods]]

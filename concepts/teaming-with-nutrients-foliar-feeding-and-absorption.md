@@ -20,7 +20,7 @@ For macronutrients in particular, foliar spraying cannot supply what a plant rea
 
 Understanding why root uptake dominates requires looking at how water moves through plants. Up to 90% of a plant's weight is water. Water is a polar molecule with myriads of hydrogen bonds, making it the universal solvent and the medium in which plant nutrients move. Roots access water by two mechanisms: interception, where roots grow into moist soil areas, and mass flow, where hydrogen-bonded water molecules are pulled like a chain toward the root surface.
 
-Once water reaches the root, two forces drive it inward. Transpiration accounts for about 90% of water movement -- as water evaporates from leaf stomata, the resulting pressure deficit pulls water molecule by molecule from soil through the plant. Root pressure provides the second mechanism, operating when higher dissolved ion concentrations inside root cells cause water to flow inward by osmosis to reach equilibrium.
+Once water reaches the root, two forces drive it inward. Transpiration accounts for about 90% of water movement -- as water evaporates from leaf stomata, the resulting [[cervantes-vapor-pressure-deficit-transpiration]] pulls water molecule by molecule from soil through the plant. Root pressure provides the second mechanism, operating when higher dissolved ion concentrations inside root cells cause water to flow inward by osmosis to reach equilibrium.
 
 ## Transport Pathways Inside the Plant
 
@@ -34,7 +34,7 @@ The intercellular pathway allows water to pass directly through cell membranes b
 
 After navigating these pathways, water and nutrient ions are loaded into xylem tracheids and vessel elements by xylem parenchyma cells, whose membranes are packed with aquaporins, ion carriers, channels, and pumps. The xylem carries water and nutrients upward to the leaves in a unidirectional flow.
 
-Meanwhile, the phloem system distributes sugars and organic compounds produced during photosynthesis. Phloem sieve tubes transport sap bidirectionally -- upward in spring as roots release stored starches, downward in autumn as plants store energy. Sieve tubes lack nuclei and vacuoles, relying on companion cells for metabolic control. This is the system that redistributes mobile nutrients from older to newer tissue, and its limitations are precisely why foliar feeding of immobile nutrients fails.
+Meanwhile, the phloem system distributes sugars and [[fungal-volatile-organic-compounds-communication]] produced during photosynthesis. Phloem sieve tubes transport sap bidirectionally -- upward in spring as roots release stored starches, downward in autumn as plants store energy. Sieve tubes lack nuclei and vacuoles, relying on companion cells for metabolic control. This is the system that redistributes mobile nutrients from older to newer tissue, and its limitations are precisely why foliar feeding of immobile nutrients fails.
 
 ## The Phloem Loading Process
 
@@ -48,11 +48,11 @@ Foliar feeding has legitimate but narrow applications:
 
 ## Specific Foliar Recipes
 
-Several well-tested foliar spray formulations are commonly used in organic gardening:
+Several well-tested foliar spray formulations are commonly used in [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]:
 
-- **Liquid kelp spray**: Dilute 1-2 tablespoons of liquid seaweed extract per gallon of water. Provides a broad spectrum of micronutrients including iron, manganese, zinc, and boron, plus natural growth hormones (cytokinins and auxins) that can stimulate plant growth. Safe for all plants and can be applied every 2-3 weeks during the growing season
+- **Liquid kelp spray**: Dilute 1-2 tablespoons of liquid [[comparison-seaweed-extract-vs-fish-hydrolysate]] per gallon of water. Provides a broad spectrum of micronutrients including iron, manganese, zinc, and boron, plus natural growth hormones (cytokinins and auxins) that can stimulate plant growth. Safe for all plants and can be applied every 2-3 weeks during the growing season
 - **Fish emulsion spray**: Dilute 1-2 tablespoons of fish emulsion per gallon of water. Provides nitrogen (approximately 5% N), phosphorus, and trace minerals. The strong odor dissipates within 24-48 hours. Best used as a transplant starter or for nitrogen-deficient plants
-- **Compost tea foliar**: Apply actively aerated compost tea (AACT) as a foliar spray at 1:10 dilution. The living microbial community can colonize leaf surfaces, potentially providing biological protection against foliar pathogens. This aligns with [[soil-food-web]] remains the most effective and efficient approach. Foliar sprays are at best a supplementary tool for specific, temporary situations.
+- **Compost tea foliar**: Apply actively aerated compost tea (AACT) as a foliar spray at 1:10 dilution. The living [[edaphic-factors-microbial-community-structure]] can colonize leaf surfaces, potentially providing biological protection against foliar pathogens. This aligns with [[soil-food-web]] remains the most effective and efficient approach. Foliar sprays are at best a supplementary tool for specific, temporary situations.
 
 ## See Also
 
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

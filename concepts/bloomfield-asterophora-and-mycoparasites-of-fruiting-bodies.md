@@ -1,5 +1,5 @@
 ---
-title: Asterophora and Mycoparasites of Fruiting Bodies
+title: bloomfield asterophora and mycoparasites of fruiting bodies of Fruiting Bodies
 created: 2026-04-28
 tags:
   - mycology
@@ -32,7 +32,7 @@ penetrate their food with invasive hyphae, feed by absorbing
 nutrients, reproduce by spore formation, and show a marked
 propensity for attacking other organisms. While obvious parasites
 are encountered among all fungal groups, many apparently innocuous
-species will attack living organisms when opportunities present
+species will attack [[savory-living-organisms-as-tools]] when opportunities present
 themselves. Mycoparasitism is a natural extension of this
 aggressive nutritional strategy.
 
@@ -66,7 +66,7 @@ be spent on stipe and cap construction.
 
 ## Cordyceps as a Truffle Parasite
 
-While most species of Cordyceps are known as insect pathogens,
+While most species of Cordyceps are known as [[bloomfield-cordyceps-insect-pathogens-behavior]],
 the genus also includes species that infect the underground
 fruiting bodies of truffles. This dual parasitic capability
 demonstrates the opportunistic flexibility of the
@@ -87,7 +87,7 @@ strategies observed within the Cordyceps genus.
 ## Cultivated Mushroom Diseases
 
 Mushroom farms provide ideal conditions for mycoparasites. The
-humid environments needed for commercial mushroom cultivation
+humid environments needed for commercial [[accessible-mushroom-cultivation-for-disabilities]]
 encourage conidial fungi that cause dry and wet bubble, shaggy
 stipe, and cobweb disease. The symptoms of these infections are
 striking: bubbling of dead tissue, malformation of the cap and
@@ -100,7 +100,7 @@ challenging because few chemical agents can poison a fungal
 parasite without also damaging the fungal host. Both organisms
 are fungi, sharing fundamentally similar cell biology and
 metabolic pathways. The use of sterilized casings and careful
-control of temperature and humidity in growing rooms reduce
+control of [[greg-green-temperature-and-humidity-control]] in growing rooms reduce
 disease outbreaks, but complete elimination is difficult.
 
 ## Trichoderma as Biocontrol Agent
@@ -130,7 +130,7 @@ niche will eventually be exploited. If an organism invests in
 producing a concentrated food source, whether a fruit, a
 cadaver, or a mushroom, other organisms will evolve to tap
 that resource. The fungal kingdom, with its extraordinary
-metabolic versatility and invasive growth form, is particularly
+metabolic versatility and [[fungal-hyphae-invasive-growth-mechanisms]] form, is particularly
 well positioned to exploit such opportunities. The fact that
 some fungi eat other fungi is, in Money's view, symptomatic of
 the fundamental behavior of all the microorganisms discussed
@@ -140,4 +140,8 @@ in his work.
 
 - [[bloomfield-cordyceps-insect-pathogens-behavior]]
 - [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]
-- [[bloomfield-fungal-antibiotics-nitrogen-scavenging-bacterial-predation]]
+- bloomfield-fungal-antibiotics-nitrogen-scavenging-bacterial-predation
+## See Also
+- [[decomposition]]
+- [[nicholas-money]]
+- [[mushroom-cultivation]]

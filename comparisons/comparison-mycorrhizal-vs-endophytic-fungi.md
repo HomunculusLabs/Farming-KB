@@ -1,5 +1,5 @@
 ---
-title: "Mycorrhizal vs Endophytic Fungi"
+title: "comparison mycorrhizal vs endophytic fungi Fungi"
 created: 2026-04-28
 tags: [comparison, symbiosis, mycorrhizal-fungi, endophytes, plant-microbe]
 date: 2026-04-25
@@ -14,7 +14,7 @@ type: comparison
 
 Mycorrhizal fungi and endophytic fungi are two major categories of plant-fungal symbioses that differ in
 their location within the plant, their primary functions, and their ecological roles. Mycorrhizal fungi
-form associations primarily with plant roots, creating extensive external mycelial networks in soil that
+form associations primarily with plant roots, creating extensive external [[fungal-mycelial-networks-nutrient-translocation]] in soil that
 exchange nutrients and water for plant-derived carbon. Endophytic fungi live within plant tissues
 including leaves, stems, and roots without causing disease, providing benefits such as stress tolerance,
 pest deterrence, and growth promotion through diverse biochemical mechanisms including secondary
@@ -33,7 +33,7 @@ non-clavicipitaceous endophytes (found in all plant tissues across all plant fam
 taxa, mostly horizontally transmitted through air, water, soil, or insect vectors).
 
 The benefits provided by endophytic fungi are remarkably diverse and often exceed what might be expected
-from a simple nutrient exchange relationship. Many endophytes produce bioactive secondary metabolites
+from a simple nutrient exchange relationship. Many endophytes produce bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]]
 that deter herbivores including insect pests and grazing mammals, inhibit pathogenic fungi and bacteria
 through antibiosis and competitive exclusion, and help host plants tolerate abiotic stresses such as
 drought, heat, salinity, and heavy metal contamination. The fungal endophyte Epichloe festucae in tall
@@ -61,10 +61,10 @@ environmental conditions.
 | Nutrient Exchange | Bidirectional (carbon for nutrients and water) | Mostly unidirectional (plant provides to fungus) |
 | Specialized Structures | Arbuscules, vesicles, Hartig net, mantle | Intercellular and intracellular hyphae |
 | Cultivation | Very difficult; obligate symbionts | Many species culturable on artificial media |
-| Bioactive Compounds | Some; primarily nutrient mobilization enzymes | Extensive; alkaloids, antibiotics, phytohormones |
-| Stress Benefits | Drought tolerance, improved nutrient uptake | Drought, heat, salinity, pathogen, herbivore resistance |
+| [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] | Some; primarily nutrient mobilization enzymes | Extensive; alkaloids, antibiotics, phytohormones |
+| Stress Benefits | [[dighton-fungal-drought-tolerance-plant-water-relations]], improved nutrient uptake | Drought, heat, salinity, pathogen, herbivore resistance |
 | Commercial Availability | Widely available as soil inoculants | Emerging; some seed treatments available |
-| Best For | Soil nutrient improvement, phosphorus deficiency | Pest management, stress tolerance, growth enhancement |
+| Best For | Soil nutrient improvement, [[query-how-to-fix-phosphorus-deficiency-in-cannabis]] | Pest management, stress tolerance, growth enhancement |
 | Drawbacks | Reduced effectiveness in high-phosphorus soils | Some produce toxic alkaloids harmful to livestock |
 
 ## Pros and Cons Summary

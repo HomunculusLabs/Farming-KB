@@ -1,5 +1,5 @@
 ---
-title: Korean Natural Farming IMO Recipes
+title: Korean comparison-natural-farming-vs-permaculture IMO Recipes
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Korean Natural Farming IMO Recipes
 
-Indigenous Microorganisms (IMO) are the foundation of Korean Natural Farming (KNF). Master Han-Kyu Cho developed a 5-stage process to collect, multiply, and apply native soil microorganisms. IMO restores soil biology, decomposes organic matter, and suppresses disease — all from materials found on any farm.
+[[beneficial-indigenous-microorganisms-bim]] (IMO) are the foundation of Korean Natural Farming (KNF). Master Han-Kyu Cho developed a 5-stage process to collect, multiply, and apply native soil microorganisms. IMO restores soil biology, decomposes [[hamilton-composting-and-organic-matter-management]], and suppresses disease — all from materials found on any farm.
 
 ## IMO #1: Collection
 
@@ -71,8 +71,8 @@ Indigenous Microorganisms (IMO) are the foundation of Korean Natural Farming (KN
 ### Method
 1. Mix IMO #3 with equal parts good quality soil (1:1 ratio)
 2. Add small amounts of other KNF inputs:
-   - Oriental Herbal Nutrient (OHN): 1-2% by volume
-   - Fermented Plant Juice (FPJ): 1-2%
+   - [[bionutrients-lab-oriental-herbal-nutrients-ohn]] Nutrient (OHN): 1-2% by volume
+   - [[bionutrients-lab-fermented-plant-juice-fpj]] (FPJ): 1-2%
    - Fish Amino Acid (FAA): 1%
    - Brine Water or Sea Water: 1%
 3. Form into baseball-sized balls
@@ -89,7 +89,7 @@ Indigenous Microorganisms (IMO) are the foundation of Korean Natural Farming (KN
 1. Mix IMO #4 with finished compost at 1:10 ratio
 2. Apply to fields at 100-200 kg per 1,000 sq meters
 3. Apply 1-2 weeks before planting
-4. Can also be applied as a top-dressing during the growing season
+4. Can also be applied as a top-dressing during the [[savory-growing-season-and-non-growing-season-management]]
 5. Can be dissolved in water (1:500 dilution) for foliar spray or soil drench
 
 ## Quality Indicators

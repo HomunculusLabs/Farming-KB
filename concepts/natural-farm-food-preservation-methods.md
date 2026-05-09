@@ -11,8 +11,8 @@ type: concept
 
 # Food Preservation Methods
 
-Preserving food is essential for any sustainable living system. A productive
-garden following [[natural-farm-permaculture-ethics-principles]]
+Preserving food is essential for any [[natural-farming-sustainable-living-principles]] system. A productive
+garden following natural-farm-permaculture-ethics-principles
 - [[natural-farm-composting-vermicomposting]]
 - [[natural-farm-water-conservation-irrigation]]
 ## Background and Context
@@ -143,4 +143,7 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-
+## See Also
+- [[vermicomposting]]
+- [[lacto-fermentation-and-food-preservation-methods]]
+- [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]]

@@ -1,5 +1,5 @@
 ---
-title: "Mushroom Storage and Processing"
+title: "Mushroom mushroom-storage-and-processing-methods"
 created: 2026-04-28
 tags: [post-harvest, storage, drying, canning, preservation]
 date: 2026-04-28
@@ -12,10 +12,10 @@ type: concept
 
 Mushrooms continue to respire after harvest at a rate three times greater than
 most fruits, making post-harvest management critical for maintaining quality.
-Fresh mushrooms have a short shelf life and require either rapid marketing or
+Fresh mushrooms have a short [[psilocybin-shelf-life-stability]] and require either rapid marketing or
 special preservation methods. This page covers short-term storage, long-term
 preservation through drying, canning, bottling, and pickling methods suitable
-for oyster mushrooms and related species.
+for [[query-how-to-grow-oyster-mushrooms-at-home]] and related species.
 
 ## Post-Harvest Physiology
 
@@ -34,7 +34,7 @@ cooled to 0-2C within five hours of picking to halt these metabolic processes.
 ## Short-Term Storage
 
 Short-term preservation relies on refrigeration at 1-4C, which retards
-microorganism growth, reduces metabolic activity, and minimizes moisture loss.
+microorganism growth, reduces [[arbuscule-isolation-metabolic-activity-assays]], and minimizes moisture loss.
 Shelf life under refrigeration ranges from 1 day to 2 weeks depending on
 handling and packaging.
 
@@ -50,7 +50,7 @@ permeability.
 
 ### Handling Best Practices
 
-Proper handling during harvest and storage is essential for maximizing shelf
+Proper handling during [[purdue-vegetable-harvest-and-storage-guide]] is essential for maximizing shelf
 life:
 
 - Trim mushrooms immediately after harvest to reduce browning and blemishing

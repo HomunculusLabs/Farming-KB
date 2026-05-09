@@ -1,5 +1,5 @@
 ---
-title: Kykeon and the Eleusinian Mysteries in Food of the Gods
+title: Kykeon and the mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries in Food of the Gods
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -12,13 +12,13 @@ tags: [reference]
 
 In [[terence-mckenna]] devotes significant attention to the [[dionysian-cults]] to Eleusis itself. The Dionysian theme entered Greece from the south, from "island cultures with roots ten thousand years deep in the religion of the mushroom Mother Goddess," and from Asia Minor, "but via four millennia of incubation within Minoan civilization." The mysteries planted on Grecian shores at Eleusis were "the latest, last, and most baroque adumbrations of the great Archaic religion of the Goddess, cattle, and ecstatic intoxication by indole hallucinogens."
 
-The Dionysian and Eleusinian mystery cults coexisted as "the last frail outposts in the west" of the Archaic partnership tradition. They were, from the perspective of the emerging patriarchy, "something wild, ancient, and potentially dangerous."
+The Dionysian and [[mckenna-eleusinian-mystery-and-psychedelic-sacrament]] cults coexisted as "the last frail outposts in the west" of the Archaic partnership tradition. They were, from the perspective of the emerging patriarchy, "something wild, ancient, and potentially dangerous."
 
 ## The Psychedelic Hypothesis
 
 McKenna notes that "not until 1964 did someone make bold to suggest that a hallucinogenic plant must have been involved" in the Mysteries. That person was the English poet Robert Graves, who argued in his essay "The Two Births of Dionysus" that Triptolemus's secret -- traditionally said to be the art of sowing grain -- could not have been grain cultivation, which had been practiced since 7000 B.C., some five millennia before Triptolemus.
 
-Graves concluded: "Triptolemus's secret seems therefore concerned with hallucinogenic mushrooms, and my guess is that the priesthood at Eleusis had discovered an alternative hallucinogenic mushroom easier to handle than the Amanita muscaria; one that could be baked in sacrificial cakes, shaped like pigs or phalloi, without losing its hallucinogenic powers."
+Graves concluded: "Triptolemus's secret seems therefore concerned with [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]], and my guess is that the priesthood at Eleusis had discovered an alternative hallucinogenic mushroom easier to handle than the [[allegro-amanita-muscaria-properties-and-pharmacology]]; one that could be baked in sacrificial cakes, shaped like pigs or phalloi, without losing its hallucinogenic powers."
 
 Graves further suggested that recipes in classical sources for the ritual Eleusinian beverage contained ingredients whose first letters, when arranged as an ogham (an Irish poetic cipher), spelled out the word "mushroom" -- identifying the secret ingredient. Graves "readily grants that 'you are at liberty to call me crazy,' but then goes on to defend his thesis very well."
 
@@ -42,7 +42,7 @@ McKenna acknowledges that the Wasson-Hofmann theory remains "well-argued specula
 
 ## The Eleusinian Mysteries as Archaic Survival
 
-For McKenna, the Eleusinian Mysteries are significant not merely as a historical curiosity but as evidence for his broader thesis about the suppression of partnership societies by dominator culture. The Mysteries represent a direct line of descent from the Minoan religion of the Great Goddess, one of the "last frail outposts in the west" of Archaic plant-based religion, proof that Western civilization's own ancestors practiced and revered ecstatic, plant-induced religious experience, and a counterexample to the claim that dominator values are natural or inevitable.
+For McKenna, the Eleusinian Mysteries are significant not merely as a historical curiosity but as evidence for his broader thesis about the suppression of partnership societies by [[mckenna-dominator-culture-and-suppression-of-ecstasy]]. The Mysteries represent a direct line of descent from the Minoan religion of the Great Goddess, one of the "last frail outposts in the west" of Archaic plant-based religion, proof that Western civilization's own ancestors practiced and revered ecstatic, plant-induced religious experience, and a counterexample to the claim that dominator values are natural or inevitable.
 
 The eventual suppression and disappearance of the Mysteries -- like the parallel suppression of Dionysian rites -- marks for McKenna the final triumph of the dominator paradigm in the West, severing Western civilization from its own ecstatic roots.
 
@@ -78,7 +78,7 @@ The specific food restrictions observed by initiates are also relevant. Classica
 
 Several modern researchers and experimental archaeologists have attempted to reconstruct the Eleusinian kykeon based on the available evidence. The standard formulation described in the Homeric Hymn to Demeter includes barley water, mint ( pennyroyal, *Mentha pulegium*), and possibly honey. Reconstruction experiments have focused on two approaches: brewing barley infected with carefully selected ergot strains, and preparing kykeon with the addition of other psychoactive substances known to be available in the ancient Mediterranean world, including opium poppy extracts and claviceps-containing preparations.
 
-The difficulty of these reconstructions lies in identifying ergot strains capable of producing psychoactive effects (specifically, lysergic acid amide or ergonovine) without the toxic alkaloids (primarily ergotamine) that cause the symptoms of ergotism. Modern analytical chemistry has identified over 40 different alkaloids in ergot sclerotia, and their proportions vary dramatically between strains and growing conditions. The question of whether a naturally occurring ergot strain could have produced the desired effects without toxicity remains unresolved, though some researchers argue that the alkaloid profile of Claviceps purpurea growing on barley under Mediterranean conditions may differ significantly from the strains that caused ergotism epidemics in Northern European rye fields.
+The difficulty of these reconstructions lies in identifying ergot strains capable of producing psychoactive effects (specifically, lysergic acid amide or ergonovine) without the toxic alkaloids (primarily ergotamine) that cause the symptoms of ergotism. Modern analytical chemistry has identified over 40 different alkaloids in ergot sclerotia, and their proportions vary dramatically between strains and growing conditions. The question of whether a naturally occurring ergot strain could have produced the desired effects without toxicity remains unresolved, though some researchers argue that the alkaloid profile of [[bloomfield-ergot-claviceps-purpurea-ergotism]] growing on barley under Mediterranean conditions may differ significantly from the strains that caused ergotism epidemics in Northern European rye fields.
 
 ## See Also
 

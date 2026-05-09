@@ -1,5 +1,5 @@
 ---
-title: "Frost Protection and Thermal Belt Design"
+title: "holzer-frost-protection-techniques and permaculture-thermal-belt-siting Design"
 created: 2026-04-26
 tags:
   - permaculture
@@ -18,13 +18,13 @@ type: concept
 
 Frost is identified by Mollison as the limiting factor in plant hardiness
 zones. Understanding where frost occurs, how it flows, and how to prevent
-it is critical for extending growing seasons and growing marginal species.
+it is critical for extending growing seasons and [[holzer-fruit-growing-marginal-climates]] species.
 This page covers frost mechanics and the design strategies for frost
 protection in permaculture systems.
 
 ## Where Frost Forms
 
-Frost is produced in hollows, on flats, and in large clearings. Cold air
+Frost is produced in hollows, on flats, and in large clearings. [[hemenway-cold-air-drainage-and-frost-management]]
 drains downhill at night, pooling in low-lying areas where it settles
 and damages sensitive plants. In mountainous regions, valley frosts form
 below tree lines at night as cold air cascades from upper slopes.
@@ -105,7 +105,7 @@ with a probability of wind chill below freezing. This altitudinal factor
 is crucial to design strategies for homes and gardens on high islands or
 mountainous properties.
 
-Snow cover may serve as an insulating blanket, preventing early spring
+Snow cover may serve as an insulating blanket, preventing [[coleman-overwintered-onions-and-early-spring-crops]]
 thawing or even autumn freezing if it covers unfrozen ground. Snow cover
 also causes intense reflection, raising air temperatures just above the
 snow by day, but at night radiation from snow causes an extremely cold
@@ -113,8 +113,14 @@ ground air layer.
 
 ## Integration with Permaculture Systems
 
-- [[mollison-microclimate-creation]] for broader microclimate
+- mollison-microclimate-creation for broader microclimate
   modification strategies.
-- [[mollison-zone-and-sector-analysis]] for placing frost-sensitive
+- mollison-zone-and-sector-analysis for placing frost-sensitive
   components in optimal zones.
 - [[mollison-designers-sun-trap-and-frost-pocket-design]]
+## See Also
+- [[extending-growing-season]]
+- [[mollison-designers-microclimate-creation-frost-protection]]
+- [[mollison-designers-sun-trap-and-frost-pocket-design]]
+- [[mollison-course-swales-and-earthworks-design]]
+- [[mollison-pdc-small-pond-frog-habitat-design]]

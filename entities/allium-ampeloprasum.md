@@ -44,7 +44,7 @@ Leaves are flat, linear, and 30–90 cm long, similar in morphology to leek foli
 
 ## Distribution and Habitat
 
-Wild populations are distributed across the Mediterranean region from Portugal to Turkey, extending south to Morocco and east through Iran to Turkmenistan. The species has naturalized in parts of the British Isles, Australia, and North America.
+Wild populations are distributed across the Mediterranean region from Portugal to Turkey, extending south to Morocco and east through Iran to Turkmenistan. The species has naturalized in parts of the British Isles, Australia, and [[psilocybin-north-america-pacific-northwest]].
 
 Habitats include rocky hillsides, coastal cliffs, dry grasslands, and disturbed sites. Wild plants favor well-drained calcareous soils with full sun exposure.
 
@@ -60,9 +60,9 @@ Soil requirements include good drainage and moderate fertility. Excessive nitrog
 
 Mature bulbs are ready for harvest when lower leaves begin to yellow and dry, typically 240–270 days after planting. Yields range from 3–8 kg per m² depending on spacing and growing conditions.
 
-The species is generally pest-resistant compared to *A. sativum*, with fewer problems from onion thrips and bulb mites. However, it is susceptible to similar fungal pathogens including *Botrytis* spp. and *Fusarium* spp.
+The species is generally pest-resistant compared to *A. sativum*, with fewer problems from onion thrips and bulb mites. However, it is susceptible to similar [[bloomfield-fungal-pathogens-and-parasites]] including *Botrytis* spp. and *Fusarium* spp.
 
-Kurrat, the Egyptian leaf-leek variety, is grown primarily for its leaves rather than bulbs. It is harvested as a cut-and-come-again crop throughout the growing season.
+Kurrat, the Egyptian leaf-leek variety, is grown primarily for its leaves rather than bulbs. It is harvested as a cut-and-come-again crop throughout the [[savory-growing-season-and-non-growing-season-management]].
 
 ## Culinary Use
 
@@ -90,7 +90,7 @@ Theophrastus (c. 371–287 BCE) described multiple forms of "leek" in his *Enqui
 
 Kurrat has been a staple green vegetable in Egyptian cuisine since Pharaonic times. It continues to be cultivated in the Nile Delta and sold in local markets as *kurrat baladi*.
 
-Wild populations were historically gathered as a famine food across the Mediterranean. The bulbs were roasted or boiled and served with olive oil and salt in rural communities.
+Wild populations were historically gathered as a famine food across the Mediterranean. The bulbs were roasted or boiled and served with [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]] and salt in rural communities.
 
 ## Related Species
 

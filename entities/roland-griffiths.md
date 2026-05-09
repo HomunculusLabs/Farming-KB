@@ -33,17 +33,17 @@ His 2006 psilocybin study is the most cited and influential paper in the modern 
 
 ## Education and Early Career
 
-Griffiths earned his B.A. in Psychology from Occidental College in 1966 and his Ph.D. in Pharmacology from the University of Minnesota in 1970. His doctoral research focused on behavioral pharmacology and drug self-administration. He joined Johns Hopkins as a postdoctoral fellow in 1970 and remained on the faculty for over five decades, holding joint appointments in the Departments of Psychiatry and Behavioral Sciences and Neuroscience. He held the Oliver Lee McCarty Distinguished Professor of Neuropsychopharmacology endowed chair. He also held adjunct positions at the University of Maryland and the Maryland Psychiatric Research Center earlier in his career.
+Griffiths earned his B.A. in Psychology from Occidental College in 1966 and his Ph.D. in Pharmacology from the University of Minnesota in 1970. His doctoral research focused on behavioral [[ayahuasca-pharmacology-and-drug-interactions]] self-administration. He joined Johns Hopkins as a postdoctoral fellow in 1970 and remained on the faculty for over five decades, holding joint appointments in the Departments of Psychiatry and Behavioral Sciences and Neuroscience. He held the Oliver Lee McCarty Distinguished Professor of Neuropsychopharmacology endowed chair. He also held adjunct positions at the University of Maryland and the Maryland Psychiatric Research Center earlier in his career.
 
-Before his psychedelic research, Griffiths was a highly respected mainstream pharmacologist. He pioneered gold-standard methods for assessing the abuse liability of drugs and conducted influential research on caffeine, demonstrating that it meets pharmacological criteria for a drug of dependence including withdrawal symptoms and reinforcement. His caffeine research was widely cited and influenced FDA regulatory thinking. He also researched benzodiazepines, sedative-hypnotics, and other CNS-active compounds. This decades-long record of rigorous, conventional pharmacology gave him unique credibility when he later pivoted to studying psychedelics.
+Before his [[mckenna-suppression-psychedelic-research-lsd-therapy]], Griffiths was a highly respected mainstream pharmacologist. He pioneered gold-standard methods for assessing the abuse liability of drugs and conducted influential research on caffeine, demonstrating that it meets pharmacological criteria for a drug of dependence including withdrawal symptoms and reinforcement. His caffeine research was widely cited and influenced FDA regulatory thinking. He also researched benzodiazepines, sedative-hypnotics, and other CNS-active compounds. This decades-long record of rigorous, conventional pharmacology gave him unique credibility when he later pivoted to studying psychedelics.
 
 It was a critical factor in gaining institutional approval for controversial research that had been dormant since the 1970s.
 
 ## Relaunching Psychedelic Research (2000–2006)
 
-In 2000, after nearly 30 years of near-total suppression of psychedelic research in the United States, Griffiths and his team at Johns Hopkins became the first to obtain FDA and IRB approval to study psilocybin in healthy human volunteers. Their landmark study, published in *Psychopharmacology* in 2006, demonstrated that under carefully controlled, supportive conditions, a single dose of psilocybin could produce profound mystical-type experiences in the majority of participants. At 14-month follow-up, approximately 67% rated the experience among the five most personally meaningful of their lives, and 64% ranked it among the five most spiritually significant. This study is widely credited with kickstarting the modern psychedelic renaissance in academic medicine.
+In 2000, after nearly 30 years of near-total suppression of psychedelic research in the [[dmt-containing-plants-united-states-halpern]], Griffiths and his team at Johns Hopkins became the first to obtain FDA and IRB approval to study psilocybin in healthy human volunteers. Their landmark study, published in *Psychopharmacology* in 2006, demonstrated that under carefully controlled, supportive conditions, a single dose of psilocybin could produce profound mystical-type experiences in the majority of participants. At 14-month follow-up, approximately 67% rated the experience among the five most personally meaningful of their lives, and 64% ranked it among the five most spiritually significant. This study is widely credited with kickstarting the modern psychedelic renaissance in academic medicine.
 
-It catalyzed billions in investment and dozens of clinical trials worldwide.
+It catalyzed billions in investment and dozens of [[mushroom-cancer-clinical-trials-overview]] worldwide.
 
 ## Mystical Experience Quantification
 
@@ -67,7 +67,7 @@ Griffiths published a study in the *Journal of Religion and Health* involving cl
 
 In 2019, Griffiths founded the Johns Hopkins Center for Psychedelic and Consciousness Research—the first psychedelic research center at a major U.S. academic institution in over 50 years. It was initially funded by a $17 million private donation from a group of private donors. The center has trained dozens of researchers, conducted clinical trials across multiple indications including depression, addiction, anorexia, and obsessive-compulsive disorder, and served as a model for similar centers at UC Berkeley, Imperial College London, Yale, and other institutions worldwide. Its establishment institutionalized the field and provided the infrastructure for training the next generation of psychedelic scientists. The center’s work has directly informed the clinical development programs of companies like [[psilocybin-assisted-therapy]] and [[compass-pathways]], Cybin, and MindMed used to attract billions in investment capital and advance their own drug development programs. His methodological frameworks and validated assessment instruments have been adopted across the industry as standard practice. Without Griffiths’ decades of groundwork, it is unlikely that any psychedelic compound would have reached Phase 3 clinical trials by the mid-2020s.
 
-The FDA’s 2018 Breakthrough Therapy designation for psilocybin in treatment-resistant depression—granted to [[paul-stamets]] — mycology and psilocybin mushroom research
+The FDA’s 2018 Breakthrough Therapy designation for psilocybin in treatment-resistant depression—granted to [[paul-stamets]] — mycology and [[emcdda-psilocybin-mushroom-dose-and-effects]] research
 - gordon-wasson — discoverer of LSD and psilocybin
 - [[dennis-mckenna]] — ethnobotanist and psychedelic researcher
 - Robin Carhart-Harris — Imperial College London psychedelic researcher
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

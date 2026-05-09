@@ -26,7 +26,7 @@ The species is best known for producing **tabasco peppers**, the raw material fo
 
 Plants typically grow as compact, bushy perennials in tropical climates and are among the most widely cultivated hot peppers in equatorial regions.
 
-*C. frutescens* is closely related to *C. chinense* and the two species share many morphological features, leading to frequent taxonomic confusion.
+*C. frutescens* is closely related to *C. chinense* and the two species share many morphological features, leading to frequent [[neurotropic-fungi-taxonomic-confusion-and-identification]].
 
 ## Taxonomy and Morphology
 
@@ -59,11 +59,11 @@ The erect fruit orientation is one of the most reliable field identification cha
 
 ## Distribution and Habitat
 
-The species is believed to have originated in the Amazon basin region of South America, with a secondary center of diversity in Central America.
+The species is believed to have originated in the Amazon basin region of South America, with a secondary center of diversity in [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]].
 
 Wild populations are distributed from northern South America through Central America and into the Caribbean islands.
 
-It has been introduced pantropically and is now naturalized throughout Southeast Asia, Africa, and the Pacific Islands.
+It has been introduced pantropically and is now naturalized throughout [[psilocybe-southeast-asia-pacific]], Africa, and the Pacific Islands.
 
 The species thrives in hot, humid tropical lowlands from sea level to approximately 1,500 meters elevation.
 
@@ -93,7 +93,7 @@ The peppers are commonly preserved in vinegar or oil, or dried and ground into p
 
 Seeds germinate readily at 25–30°C, with seedling emergence typically within 7–10 days.
 
-Plants require warm conditions throughout the growing season, with optimal temperatures of 25–35°C for vegetative growth and fruit set.
+Plants require warm conditions throughout the [[savory-growing-season-and-non-growing-season-management]], with optimal temperatures of 25–35°C for [[cannabis-vegetative-growth-stage]] and fruit set.
 
 The species is particularly sensitive to cold and suffers chilling injury below 10°C.
 
@@ -101,7 +101,7 @@ Fruit production begins 80–100 days after transplanting and continues for seve
 
 Yields range from 10–20 tonnes per hectare depending on cultivar, climate, and management practices.
 
-The species is relatively pest-resistant compared to *C. annuum* but can be affected by anthracnose fruit rot and viral diseases.
+The species is relatively pest-resistant compared to *C. annuum* but can be affected by anthracnose fruit rot and [[cervantes-viral-diseases-cannabis]].
 
 ## Bioactive Compounds and Nutrition
 

@@ -10,13 +10,13 @@ sources:
 # DMMDA-2
 
 **Chemical name:** 2,3-Dimethoxy-4,5-methylenedioxyamphetamine
-**PiHKAL entry:** #59
+**[[2c-b-pihkal-entry-20]]:** #59
 
 ## Overview
 
 DMMDA-2 is an amphetamine combining two methoxy groups and a methylenedioxy bridge on the aromatic ring, making it a structural amalgamation of mmda-entity|MMDA and [[dmmda-compound-profile]], which was prepared from apiole (Oil of Parsley).
 
-Shulgin notes that DMMDA-2 is one of the "ten essential amphetamines" since dillapiole is one of the "ten essential oils" -- a reference to his systematic approach of exploring psychoactive compounds derived from natural essential oil precursors.
+Shulgin notes that DMMDA-2 is one of the "ten essential amphetamines" since dillapiole is one of the "ten [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]" -- a reference to his systematic approach of exploring psychoactive compounds derived from natural essential oil precursors.
 
 ## Dosage
 
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

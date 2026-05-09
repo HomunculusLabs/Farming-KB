@@ -1,5 +1,5 @@
 ---
-title: "Community Building and Social Design in Urban Permaculture"
+title: "urban permaculture community building social design and Social Design in pdc-urban-permaculture-design-principles"
 created: 2026-04-28
 tags: [urban-permaculture, community-building, social-design, neighbourhood]
 date: 2026-04-25
@@ -36,7 +36,7 @@ the outdoors.
 
 The garden continues to grow along with the community and
 curriculum because social and natural ecologies are connected. Each
-new element, whether a fruit tree or a gathering space, strengthens
+new element, whether a [[comparison-berry-growing-vs-fruit-tree-pruning]] or a gathering space, strengthens
 both the ecological and social fabric simultaneously.
 
 ## Stream Rehabilitation and Creek Restoration
@@ -93,9 +93,9 @@ and construct models of possibility, inviting others to potlucks,
 workshops, and presentations so knowledge can be recycled through
 the community.
 
-A sustainable neighbourhood integrates solar energy, food production,
+A sustainable neighbourhood integrates [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]], food production,
 water recycling, pedestrian pathways, mixed-use zoning, access to
-safe and restful places, and waste recycling. A team of permaculture
+safe and restful places, and [[mollison-designers-banana-circle-waste-recycling-system]]. A team of permaculture
 designers can integrate natural cycles into restored physical and
 social systems within a single neighbourhood plan.
 
@@ -119,5 +119,8 @@ human society and nature, starting in the garden and expanding outward.
 
 ## See Also
 
-- [[urban-permaculture-edge-effect-and-design-principles]]
-- [[permaculture-community-scale-design]]
+- urban-permaculture-edge-effect-and-design-principles
+- permaculture-community-scale-design
+- [[mollison-designers-community-garden-design-urban-permaculture]]
+- [[permaculture-urban-design]]
+- [[permaculture-building-design]]

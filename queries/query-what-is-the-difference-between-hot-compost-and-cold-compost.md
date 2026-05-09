@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [query, compost, soil-fertility, organic-matter]
 date: 2026-05-02
 updated: 2026-05-02
-sources: []
+sources:
+  - "raw/papers/steve-solomon-gardening-when-it-counts.md"
 type: query
 ---
 
@@ -16,7 +17,7 @@ Hot compost is an actively managed, oxygen-rich pile that heats up through rapid
 Cold compost is a slower, lower-effort pile where materials break down gradually with less turning, less heat, and less precise balancing.
 Hot compost is better when you need faster finished compost, weed seed reduction, or pathogen suppression.
 Cold compost is better when you want a low-labor way to recycle garden residues and kitchen scraps over time.
-Both methods can produce useful organic matter when the finished material is stable, earthy, and safe for plants.
+Both methods can produce useful [[hamilton-composting-and-organic-matter-management]] when the finished material is stable, earthy, and safe for plants.
 
 ## Detailed Explanation
 
@@ -49,7 +50,7 @@ Hot compost must stay aerobic because the heat-producing microbes need oxygen.
 Turning, coarse structure, and avoiding waterlogging help keep air moving through the pile.
 Cold compost can also be aerobic, but many neglected piles develop anaerobic pockets if compacted or too wet.
 [[query-how-to-build-a-compost-pile-that-works]] is useful for deciding how much management you actually want to do.
-A market gardener may value speed because bed space and nutrient cycling are time-sensitive.
+A market gardener may value speed because bed space and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] are time-sensitive.
 A household garden may value simplicity because the pile is mainly a recycling system.
 
 ### Finished compost quality depends on maturity
@@ -58,12 +59,12 @@ Fast compost is not automatically finished compost.
 A hot pile can cool before all materials are stable, and immature compost can tie up nitrogen or irritate seedlings.
 A cold pile can produce excellent mature compost if it is given enough time and protected from leaching.
 [[bacterial-vs-fungal-compost-teas]] explains why fungal and bacterial dominance can matter for different crops and soils.
-Woodier cold piles may support fungal decomposition, but they can also be slow and nitrogen-poor.
-For fungal compost, curing and feedstock choice matter more than whether the pile was hot on day three.
+Woodier cold piles may support [[dighton-fungal-decomposition-leaf-litter-dynamics]], but they can also be slow and nitrogen-poor.
+For [[bacterial-vs-fungal-compost-teas]], curing and feedstock choice matter more than whether the pile was hot on day three.
 
 ### Material choice should guide the method
 
-Fresh manure, seedy weeds, and diseased crop residues are better candidates for carefully managed hot composting.
+Fresh manure, seedy weeds, and diseased crop residues are better candidates for carefully managed [[comparison-bokashi-vs-hot-composting-method]].
 Autumn leaves, spent garden plants, straw, chipped prunings, and kitchen scraps can work well in cold compost when managed safely.
 [[black-soldier-fly-larvae-as-feed]] is another option when food waste and animal feed loops matter more than finished humus.
 The best method depends on risk, labor, space, climate, and how soon you need the finished product.
@@ -74,7 +75,7 @@ Many growers build a pile hot for the first few weeks, then cure it slowly like 
 This combines sanitation and speed with biological mellowing.
 It also reduces the pressure to keep a pile hot forever.
 [[biointensive-composting]] for a managed thermophilic approach.
-- Use [[query-how-do-different-composting-methods-compare]] if worms, bokashi, or black soldier flies might fit better.
+- Use [[query-how-do-different-composting-methods-compare]] if worms, bokashi, or [[comparison-black-soldier-fly-composting-vs-bokashi]] flies might fit better.
 
 ## Related Questions
 

@@ -31,16 +31,16 @@ His landmark work, *The Encyclopedia of Psychoactive Plants* (2005), remains the
 
 Christian Rätsch was born in 1957 in **Hamburg, Germany**. He developed an interest in plants and indigenous cultures during his teenage years, influenced by the emerging countercultural interest in psychedelics and traditional plant medicines.
 
-He studied **anthropology** at the University of Hamburg, earning his doctorate (Dr. phil.) with a dissertation on the ethnobotany and cultural significance of psychoactive mushrooms in Mesoamerican societies. His academic training combined rigorous anthropological methodology with an uncommon openness to experiential and emic (insider) perspectives on plant use.
+He studied **anthropology** at the University of Hamburg, earning his doctorate (Dr. phil.) with a dissertation on the ethnobotany and [[ethnomycology-cultural-significance-sacred-fungi]] of psychoactive mushrooms in Mesoamerican societies. His academic training combined rigorous anthropological methodology with an uncommon openness to experiential and emic (insider) perspectives on plant use.
 
 ### Fieldwork and Research
 
 Rätsch conducted extensive ethnobotanical fieldwork across multiple continents:
 
-- **Mesoamerica**: Repeated visits to Mexico, Guatemala, and Belize to study Mazatec, Mixtec, and Maya healing traditions. He worked directly with indigenous curanderos and curanderas, documenting the ritual use of *Psilocybe* mushrooms, *Salvia divinorum*, and morning glory seeds (*Turbina corymbosa*)
-- **South America**: Research in the Amazon basin on ayahuasca (*Banisteriopsis caapi*) traditions, the ethnobotany of **Mapacho** (*Nicotiana rustica*), and the use of **Virola** snuffs among Yanomami and other Amazonian peoples
-- **Southeast Asia**: Studies of kratom (*Mitragyna speciosa*) use in Thailand, betel nut traditions, and the preparation of **kava** (*Piper methysticum*) in Oceania
-- **Africa**: Documentation of **iboga** (*Tabernanthe iboga*) ceremonies among the Bwiti of Gabon
+- **Mesoamerica**: Repeated visits to Mexico, Guatemala, and Belize to study Mazatec, Mixtec, and Maya healing traditions. He worked directly with indigenous curanderos and curanderas, documenting the ritual use of *Psilocybe* mushrooms, *Salvia divinorum*, and [[golden-guide-morning-glory-and-ololiuqui]] seeds (*[[turbina-corymbosa]]*)
+- **South America**: Research in the Amazon basin on ayahuasc banisteriopsis caapi aapi*) traditions, the ethnobotany of **Mapacho** (*[[nicotiana-rustica]]*), and the use of **Virola** snuffs among Yanomami and other Amazonian peoples
+- **Southeast Asia**: Studies of k [[kratom-mitragyna-speciosa-pharmacology]] speciosa*) use in Thailand, betel nut traditions, and the preparation of **kava** (*[[piper-methysticum]]*) in Oceania
+- **Africa**: Documentation of **iboga** (*[[tabernanthe-iboga]]*) ceremonies among the Bwiti of Gabon
 - **Europe**: Research into European folk herbalism, witchcraft plant traditions, and the historical use of psychoactive plants in European cultures (including **ergot** and **henbane** in medieval practice)
 
 ### Collaboration with Claudia Müller-Ebeling
@@ -67,18 +67,18 @@ Rätsch's magnum opus is a comprehensive reference cataloging approximately **40
 - Dosage information and safety considerations
 - High-quality botanical illustrations and photographs
 
-The encyclopedia remains the single most ambitious attempt to create a comprehensive catalog of psychoactive flora, and it served as the primary reference for the creation of the **Erowid** plant vault's early organizational structure. Entries range from well-documented species like *Papaver somniferum* and *Cannabis sativa* to obscure and controversial entries like *Calea zacatechichi* (dream herb) and *Acorus calamus* (sweet flag).
+The encyclopedia remains the single most ambitious attempt to create a comprehensive catalog of psychoactive flora, and it served as the primary reference for the creation of the **Erowid** plant vault's early organizational structure. Entries range from well-documente papaver somniferum paver somniferum* and *Cannabis sativa* to obscure and controversia calea zacatechichi lea zacatechichi* (dream herb) and *[[sweet-flag-acorus-calamus-ethnobotany]]* (sweet flag).
 
 ### Plants of Love: The History of Aphrodisiacs (1997)
 
-An exploration of the cultural history and botanical pharmacology of plants traditionally used as **aphrodisiacs**, love charms, and sexual enhancers across world cultures. The book examines the intersection of botanical chemistry, cultural belief, and placebo effects in the context of human sexuality.
+An exploration of the [[shroom-cultural-history-hippie-revolution-and-counterculture]] and botanical pharmacology of plants traditionally used as **aphrodisiacs**, love charms, and sexual enhancers across world cultures. The book examines the intersection of botanical chemistry, cultural belief, and placebo effects in the context of human sexuality.
 
 ### Other Notable Publications
 
 - *Marijuana Medicine: A World Tour of the Healing and Visionary Powers of Cannabis* (2001) — A cross-cultural survey of cannabis use in medicine, spirituality, and daily life
 - *Sacred Mushrooms of the Goddess: Secrets of Eleusis* (2006) — An exploration of the role of psychoactive mushrooms in ancient Greek and Minoan goddess worship
 - *The Dictionary of Sacred and Magical Plants* (1992) — An accessible alphabetical reference
-- *Ayahuasca: The Sacred Vine of the Amazon* (with various co-authors) — Documentation of Amazonian ayahuasca traditions
+- *Ayahuasca: The Sacred Vine of the Amazon* (with various co-authors) — Documentation of [[harner-amazonian-ayahuasca-preparation-methods]] traditions
 - *Indian Healing Herbs* — A survey of traditional Ayurvedic and folk medicinal plants of India
 
 ## Scholarly Contributions and Approach

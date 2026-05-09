@@ -53,7 +53,7 @@ execution engine, making them compatible with Word for the Web and suitable for
 cloud-based automation workflows. Scripts can be created using the Action
 Recorder (similar to the VBA Macro Recorder) or written directly in the
 TypeScript editor. Office Scripts integrate with Power Automate, enabling
-automated document processing as part of larger business process flows. This
+automated [[fukuoka-document-processing-research]] as part of larger business process flows. This
 modern approach addresses VBA's limitations, including its Windows-only nature
 and security concerns around macro-enabled documents.
 

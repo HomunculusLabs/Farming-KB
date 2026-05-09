@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Mushroom Decriminalization
+title: archaeology-of-psychedelic-mushroom-use Decriminalization
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-The movement to decriminalize psilocybin-containing mushrooms has been one of the most significant drug policy developments of the 21st century. Beginning with grassroots activism in the mid-2010s, the movement has achieved remarkable success at both the local and state level in the United States, with ripple effects worldwide. As of 2026, psilocybin mushrooms have been decriminalized in over two dozen US cities and legalized for therapeutic use in two states.
+The movement to decriminalize psilocybin-containing mushrooms has been one of the most significant drug policy developments of the 21st century. Beginning with grassroots activism in the mid-2010s, the movement has achieved remarkable success at both the local and state level in the United States, with ripple effects worldwide. As of 2026, [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] have been decriminalized in over two dozen US cities and legalized for therapeutic use in two states.
 
 This page traces the history, strategy, and current status of the psychedelic mushroom decriminalization movement.
 
@@ -65,7 +65,7 @@ Oregon became the first state to legalize psilocybin for therapeutic use:
 - **Measure 109** (passed November 2020, 55.6% of vote): Created a regulated psilocybin therapy program overseen by the Oregon Health Authority
 - Licensed service centers can administer psilocybin to clients 21+
 - Trained facilitators guide sessions (not requiring a medical diagnosis)
-- The program launched in 2023, making Oregon the first jurisdiction to offer legal, regulated psychedelic therapy
+- The program launched in 2023, making Oregon the first jurisdiction to offer legal, regulated [[metzner-psycholytic-psychedelic-therapy-models]]
 - Multiple service centers opened across the state
 
 - **Measure 110** (also November 2020): Broader drug decriminalization measure that also covered psilocybin (though Measure 109 superseded it for mushrooms specifically)
@@ -86,7 +86,7 @@ Colorado became the second state to legalize psilocybin:
 
 - California's SB 58 (reintroduced) moved closer to passage
 - Multiple new city-level decriminalizations across the US
-- Several states introduced psilocybin research or therapeutic access bills
+- Several states introduced [[early-paris-psilocybin-research-1960s]] or therapeutic access bills
 - Oregon's program expanded with more licensed service centers
 - Colorado began licensing natural medicine facilitators and healing centers
 - Federal rescheduling discussions gained mainstream attention
@@ -114,7 +114,7 @@ Colorado became the second state to legalize psilocybin:
 - **Decriminalize Nature**: Originated in Oakland, has supported campaigns in dozens of cities
 - **SPORE (Society for Psychedelic Outreach, Reform, and Education)**: Oregon advocacy
 - **Healing Advocacy Fund**: Supports Colorado implementation
-- **MAPS (Multidisciplinary Association for Psychedelic Studies)**: Research-focused, broader psychedelic policy
+- **MAPS ([[maps-multidisciplinary-association-for-psychedelic-studies]] for Psychedelic Studies)**: Research-focused, broader psychedelic policy
 - **Flow State Microdosing**: Community microdosing advocacy
 - **Veterans groups**: Have become powerful advocates for psychedelic access, particularly for PTSD treatment
 
@@ -122,7 +122,7 @@ Colorado became the second state to legalize psilocybin:
 
 ### Arguments For Decriminalization
 - Criminalization is disproportionate — mushrooms are non-violent, non-addictive substances
-- Therapeutic potential is well-documented in clinical research
+- Therapeutic potential is well-documented in [[hofmann-lsd-clinical-research-early-studies]]
 - Enforcement disproportionately impacts communities of color
 - Personal use should be a health matter, not a criminal matter
 - Indigenous and religious use deserves protection
@@ -139,11 +139,6 @@ Colorado became the second state to legalize psilocybin:
 
 The US movement has inspired reform efforts worldwide:
 - **Netherlands**: Magic truffles (sclerotia) remain legally available
-- **Portugal**: All drugs decriminalized since 2001
-- **Canada**: Expanding medical exemptions for psilocybin
-- **Australia**: Rescheduled psilocybin for medical use in 2023 (restricted to psychiatrists in clinical settings)
-- **Brazil, Peru, Ecuador**: Traditional use of entheogens is legally protected
-
 ## Related Topics
 
 - [[psychedelic-plants-legal-status]] — comprehensive legal status for all entheogens

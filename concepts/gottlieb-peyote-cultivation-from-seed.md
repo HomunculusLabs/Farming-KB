@@ -1,5 +1,5 @@
 ---
-title: "Peyote Cultivation from Seed"
+title: "gottlieb peyote cultivation from seed from Seed"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -53,11 +53,11 @@ for 50 cents to one dollar per button. When selecting peyote cuttings for planti
 
 ## Soil Preparation
 
-The best soil mix can be prepared from:
+The [[query-what-is-the-best-soil-mix-for-growing-cannabis]] can be prepared from:
 
 - 3 parts coarse sand
 - 1 part loam
-- 1 part leaf mold
+- 1 part [[comparison-leaf-mold-composting-vs-hot-composting-method]]
 
 Bake this mixture in an oven at 400 degrees F for an hour to kill fungus, bacteria,
 weed seeds and insect eggs. After the soil mix has cooled it is ready to use.
@@ -123,7 +123,7 @@ weeks before harvesting for comparable results.
 
 ### San Pedro Injection
 
-San Pedro and other mescaline-bearing cacti can be similarly treated:
+[[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]] other mescaline-bearing cacti can be similarly treated:
 
 - Inject at the base of the plant
 - Continue every 3-4 inches following a spiral pattern up the length of the plant

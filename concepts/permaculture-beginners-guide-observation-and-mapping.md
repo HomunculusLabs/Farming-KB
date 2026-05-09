@@ -1,14 +1,12 @@
 ---
-title: Permaculture Beginners Guide — Observation and Mapping
+title: permaculture-beginners-guide-food-forests-introduction Guide — Observation and Mapping
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
-tags: [[permaculture, observation, mapping, patterns, design, burnett, ecology]
+tags: [permaculture, observation, mapping, patterns, design, burnett, ecology]
 sources: ["raw/papers/permaculture-beginners-guide.md"]
 ---
-# Permaculture Beginners Guide — Observation and Mapping
-
-[[permaculture-design]]. Rather than requiring mastery of facts, figures, Latin names, and complicatedmasanobu-fukuokamaculture is about recognizing universal patterns and principles and learning to apply these "ecological truisms" to our own gardens and life situations. See [[fukuoka-observation-based-farming]] for Masanobu Fukuoka's approach to observation-based farming.
+# Permaculture Beginners Guide — Observation and Mapping [[permaculture-design]]. Rather than requiring mastery of facts, figures, Latin names, and complicatedmasanobu-fukuokamaculture is about recognizing universal patterns and principles and learning to apply these "ecological truisms" to our own gardens and life situations. See [[fukuoka-observation-based-farming]] for Masanobu Fukuoka's approach to observation-based farming.
 
 ## Learning to See Patterns
 
@@ -33,14 +31,14 @@ Burnett contrasts two fundamentally different ways of seeing the world:
 - Works in harmony with natural systems
 - Utilizes natural processes directly
 - Encourages predators like ladybirds and hoverflies for pest control
-- Constructs homes using passive solar energy and wind power
+- Constructs homes using [[comparison-passive-solar-vs-earth-sheltered]] energy and wind power
 - Recognizes that "putting massive effort into attempting to tame nature is unnecessary"
 
 The shift from one mindset to the other begins with observation — learning to see natural systems as they actually function rather than as resources to be exploited.
 
 ## Reframing Problems: "See Solutions, Not Problems"
 
-A key observational skill is reframing how we perceive elements in our landscape. Burnett cites Bill Mollison's famous reframe:
+A key observational skill is reframing how we perceive elements in our landscape. Burnett cites [[bill-mollison]]'s famous reframe:
 
 > "You haven't got an excess of slugs, you've got a duck deficiency."
 
@@ -65,7 +63,7 @@ Burnett opens with a geological and ecological context-setting exercise, establi
 - These form "a delicate web of interconnections formed over millions of aeons"
 - Understanding these interconnections is essential for responsible design
 
-The time-compression metaphor is striking: if Earth's 4.5 billion year history were compressed into 30 days, life appeared on day 10, vertebrates crawled onto land around day 25, humans appeared at 1 minute to midnight, and the industrial revolution happened within the last fraction of a second — yet within that instant, the planet's face changed almost as much as in all previous aeons.
+The time-compression metaphor is striking: if Earth's 4.5 billion year history were compressed into 30 days, life appeared on day 10, vertebrates crawled onto land around day 25, humans appeared at 1 minute to midnight, and the [[mckenna-caffeine-coffee-and-industrial-revolution]] happened within the last fraction of a second — yet within that instant, the planet's face changed almost as much as in all previous aeons.
 
 ## Design Principles as Observation Frameworks
 
@@ -99,7 +97,7 @@ This connects observation not just to initial design but to ongoing adaptive man
 
 ## The Permaculture Definition: Design by Nature's Patterns
 
-Burnett presents permaculture as originally coined by Australians David Holmgren and Bill Mollison in the mid-1970s. Derived from "PERMAnent agriCULTURE," it has evolved to encompass all aspects of sustainable human living — "a PERManent CULTURE." His working definition:
+Burnett presents permaculture as originally coined by Australians [[david-holmgren]] and Bill Mollison in the mid-1970s. Derived from "PERMAnent agriCULTURE," it has evolved to encompass all aspects of sustainable human living — "a PERManent CULTURE." His working definition:
 
 > "Creating sustainable human habitats by following nature's patterns."
 
@@ -122,7 +120,7 @@ Burnett expands the traditional concept of yield through an observational lens:
 
 > "Traditionally, 'yield' is thought of as quantity of material output... but there's no reason why we can't widen our definition to include information, lessons learned, experience, the health benefits of exercise and being outdoors, or even just plain fun."
 
-This expanded definition emerges from closer observation of what designed systems actually produce beyond the obvious harvest. A food forest yields not just fruit but also wildlife habitat, soil building, microclimate moderation, beauty, educational opportunities, and psychological well-being.
+This expanded definition emerges from closer observation of what designed systems actually produce beyond the obvious harvest. A food forest yields not just fruit but also [[hemenway-backyard-wildlife-habitat]], soil building, microclimate moderation, beauty, educational opportunities, and psychological well-being.
 
 ## Observation Skills for Beginners
 

@@ -10,8 +10,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Guzmán G, Allen JW, Gartz J. (2000). "A worldwide geographical distribution of the neurotropic fungi." Mycological Research, 104(4), 499-506.
-  - Stamets P. (1996). "Psilocybin Mushrooms of the World." Ten Speed Press.
+  - Guzmán G, Allen JW, Gartz J. (2000). "A worldwide geographical distribution of the challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification." Mycological Research, 104(4), 499-506.
+  - Stamets P. (1996). "[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World." Ten Speed Press.
   - Allen JW, Merlin MD, Jansen KL. (1991). "An ethnomycological review of psychoactive Agaricales in Australia." Journal of Psychoactive Drugs, 23(4), 367-371.
 created: 2026-05-07
 ---
@@ -67,10 +67,10 @@ apical projections. Cheilocystidia are similar in form.
 
 *P. salvinius* has been documented primarily in eastern Australia, including
 coastal and subtropical regions of New South Wales and Queensland. Reports from
-Southeast Asia require molecular confirmation.
+[[psilocybe-southeast-asia-pacific]] require molecular confirmation.
 
 It is a wood-inhabiting species found on decaying hardwood logs, stumps, and
-woody debris in moist forest environments. Fruiting occurs during warm, humid
+[[fungal-succession-woody-debris-ecology]] in moist forest environments. Fruiting occurs during warm, humid
 periods typically from late spring through autumn.
 
 The fungus shows preference for partially shaded microsites within rainforest
@@ -80,7 +80,7 @@ and wet sclerophyll forest margins, where humidity remains elevated.
 
 Like other psychoactive *Pluteus* species, *P. salvinius* contains the
 indole alkaloids psilocybin and psilocin. These compounds are serotonergic
-5-HT2A receptor agonists responsible for the characteristic visual and
+5-HT2A [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]] responsible for the characteristic visual and
 cognitive alterations.
 
 Quantitative analysis data for *P. salvinius* specifically is limited.
@@ -95,7 +95,7 @@ to confirm its profile.
 
 As a primary decomposer of hardwood, *P. salvinius* contributes to nutrient
 cycling in subtropical forest ecosystems. Its role in breaking down lignin and
-cellulose facilitates organic matter turnover on fallen timber.
+cellulose facilitates [[hamilton-composting-and-organic-matter-management]] turnover on fallen timber.
 
 The species is not considered common and is typically encountered as solitary
 fruiting bodies or in small scattered groups rather than in dense clusters.
@@ -116,7 +116,7 @@ Several *Pluteus* species share morphological and chemical similarities:
 ## See Also
 
 - [[psilocybe-cyanescens]]
-- [[gymnopilus-luteofolius]]
+- gymnopilus-luteofolius
 - [[stropharia-rugosoannulata]]
 - [[baeocystin]]
 - [[psilocybin]]

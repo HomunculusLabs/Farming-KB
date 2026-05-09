@@ -1,5 +1,5 @@
 ---
-title: Streptomycete Mycorrhiza Helper Bacteria Interactions
+title: symbiotic fungi streptomycete mycorrhiza helper interactions Helper Bacteria Interactions
 created: 2026-04-28
 tags: [mycorrhiza, helper-bacteria, streptomyces, symbiosis, soil-ecology]
 date: 2026-04-25
@@ -41,7 +41,7 @@ This dual activity is ecologically significant because it suggests that
 MHB can simultaneously promote beneficial mycorrhizal partnerships and
 protect plants from pathogenic fungi. The suppression of pathogens by
 the same bacteria that promote mycorrhization represents a natural
-biological control system operating within the mycorrhizosphere.
+[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] system operating within the mycorrhizosphere.
 
 ## Co-Culture Methods for Studying Interactions
 
@@ -57,13 +57,13 @@ reveals whether interactions are stimulatory, inhibitory, or neutral.
 A cellophane membrane with a defined molecular weight cutoff (typically
 10 kDa) separates the organisms. The membrane prevents fungal growth
 into the agar while allowing passage of small soluble metabolites and
-secondary metabolites. This method facilitates measurement of fungal
+[[antifungal-secondary-metabolites-coprophilous-fungi]]. This method facilitates measurement of fungal
 growth as changes in colony area or biomass and enables easy harvesting
 of mycelia for further analysis.
 
 ### Cross-Walled Petri Dishes
 Split plates with physical barriers between compartments confirm
-whether volatile compounds mediate the interaction. Bacteria and fungi
+whether [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] mediate the interaction. Bacteria and fungi
 grown in separate compartments can only communicate through airborne
 volatiles, distinguishing volatile from soluble mediators.
 
@@ -74,7 +74,7 @@ dependent. Several critical factors determine whether a streptomycete
 acts as a helper or an antagonist:
 
 - **Media composition**: The interaction between Streptomyces AcH 505
-  and Amanita muscaria shifts from mutualistic on MMN medium to
+  and [[allegro-amanita-muscaria-properties-and-pharmacology]] shifts from mutualistic on MMN medium to
   antagonistic on ISP2 medium, where the bacterium grows faster and
   sporulates more abundantly, producing higher concentrations of
   antifungal metabolites
@@ -100,7 +100,7 @@ primarily secondary metabolites produced by the bacteria. These include
 antifungal compounds, growth-promoting substances, and signaling
 molecules. The molecular weight cutoff of cellophane membranes suggests
 that active compounds are either small soluble metabolites or volatile
-organic compounds.
+[[fungal-volatile-organic-compounds-communication]].
 
 Isolation of bioactive metabolites is more straightforward from
 suspension cultures than from solid media, because homogenized
@@ -114,3 +114,7 @@ Mycorrhiza helper bacteria occupy a critical position in [[symbiotic-fungi-mycor
 - [[symbiotic-fungi-arbuscular-mycorrhizal-agriculture]] for
   AMF study techniques
 - [[symbiotic-fungi-lichen-symbiosis-overview]] for broader
+
+## See Also
+
+- [[symbiotic-fungi-mycorrhizosphere-helper-bacteria]]

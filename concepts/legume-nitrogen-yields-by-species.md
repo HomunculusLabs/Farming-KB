@@ -1,5 +1,5 @@
 ---
-title: Legume Nitrogen Yields by Species
+title: Legume legume nitrogen yields by species by Species
 created: 2026-04-28
 tags:
   - legumes
@@ -27,11 +27,11 @@ planning [[tylosema-esculentum]]
 - [[legume-nitrogen-fixation-mechanism]]
 - [[mollison-designers-legume-tree-inoculation-and-nitrogen-distribution]]
 
-- Nitrogen availability in legume plants explains how growth stage
+- Nitrogen availability in legume plants explains how [[cho-plant-growth-stage-treatment-protocols]]
   affects the timing of nitrogen release.
-- Legume nitrogen fixation mechanism describes the biological process
+- Legume [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] mechanism describes the biological process
   by which legumes capture atmospheric nitrogen.
-- Green manure and cover crop strategies detail practical methods for
+- [[comparison-green-manure-guide-vs-mulch-types-and-effects]] and [[coleman-cover-crop-rotation-and-soil-health]] strategies detail practical methods for
   incorporating legumes into garden rotations.
 ## Practical Applications
 
@@ -110,4 +110,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [livestock, animal-husbandry, forage, agriculture, economics, homesteading, sustainability]
-sources: []
+sources:
+  sources: []
 ---
 
 # Grass-Fed Beef Production
@@ -36,7 +37,7 @@ Crossbreeding (e.g., Angus x Hereford) often produces the best grass-fed carcass
 
 ### Stocking Density
 - General rule: 1-2 acres per cow-calf pair per year (varies by region and rainfall)
-- High stocking density with rotational grazing: can support 2-4 animal units per acre during growing season
+- High stocking density with [[comparison-rotational-grazing-vs-continuous-grazing]]: can support 2-4 animal units per acre during [[savory-growing-season-and-non-growing-season-management]]
 - Rest periods: minimum 30-60 days between grazing; 90+ days ideal
 
 ### Rotational Grazing System
@@ -44,13 +45,13 @@ Crossbreeding (e.g., Angus x Hereford) often produces the best grass-fed carcass
 - Move cattle every 1-3 days during peak growth
 - Graze to 4-6 inch residual height, then rest
 - Goal: eat the top third, leave the rest for regrowth
-- Prevents selective grazing (cows eat only the tasty parts) and overgrazing
+- Prevents [[dighton-selective-grazing-fungal-community-shifts]] (cows eat only the tasty parts) and overgrazing
 
 ### Forage Species
 - Cool-season perennials: orchardgrass, tall fescue (endophyte-free), Kentucky bluegrass, white clover, red clover
 - Warm-season perennials: bermudagrass, bahiagrass, switchgrass, eastern gamagrass
 - Annuals for fill: oats, rye, annual ryegrass, turnips, radishes
-- Legumes fix nitrogen: clover, alfalfa, birdsfoot trefoil (15-30% of pasture mix)
+- [[query-which-legumes-fix-the-most-nitrogen-for-gardens-and-farms]] nitrogen: clover, alfalfa, birdsfoot trefoil (15-30% of pasture mix)
 
 ### Seasonal Considerations
 - Stockpile tall fescue for winter grazing (strip-graze with temporary fencing)
@@ -79,7 +80,7 @@ Key factors:
 
 Grass-fed beef differs from grain-fed:
 - Leaner: less intramuscular fat (marbling)
-- Higher in omega-3 fatty acids, CLA, vitamin E
+- Higher in omega-3 [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]], CLA, vitamin E
 - Yellow fat (beta-carotene from grass -- desirable for grass-fed consumers)
 - Firmer texture, more pronounced beef flavor
 - Target: USDA Choice or Select grade; Prime is difficult on pure grass
@@ -110,7 +111,7 @@ Improving finish quality:
 ### Profitability
 - Selling live: $200-800 profit per animal (thin margins)
 - Selling retail cuts: $800-2,000 profit per animal
-- Key: direct marketing to capture retail price, not commodity price
+- Key: [[coleman-direct-marketing-and-csa-models]] to capture retail price, not commodity price
 - Break-even: 3-5 head sold retail covers most small-farm overhead
 
 ## Marketing

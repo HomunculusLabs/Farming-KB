@@ -1,5 +1,5 @@
 ---
-title: "Root Cellaring vs Freezing"
+title: "comparison-root-cellaring-guide-vs-canning-and-preserving vs Freezing"
 tags: [comparison, food-preservation, root-cellar, freezing, homesteading]
 date: 2026-05-08
 updated: 2026-05-08
@@ -10,15 +10,15 @@ sources: []
 
 ## Overview
 
-Root cellaring and freezing represent two fundamentally different approaches to
-food preservation. Root cellaring uses the earth's natural thermal mass to keep
+[[root-cellaring-and-crop-storage]] freezing represent two fundamentally different approaches to
+food preservation. Root cellaring uses the earth's natural [[comparison-windbreak-vs-thermal-mass]] to keep
 harvests cool and humid without electricity, while freezing halts enzymatic
 activity and microbial growth through sub-zero temperatures. The choice between
 them shapes energy budgets, storage capacity, food quality, and self-reliance.
 
 ## Root Cellaring
 
-[[faires-freezing-and-blanching-guide]]
+faires-freezing-and-blanching-guide
 
 Freezing preserves food by dropping temperatures below 0 degrees Fahrenheit
 (minus 18 degrees Celsius), halting enzymatic activity, microbial growth, and
@@ -31,7 +31,7 @@ versatile single preservation method available.
 It is ideal for off-grid living. Combined with dehydration and fermentation,
 root cellaring forms a complete no-energy preservation toolkit. The passive
 nature means nothing breaks down, no compressor fails, and no utility bill
-arrives. For those with suitable land, a root cellar is a one-time investment
+arrives. For those with suitable land, [[query-how-to-build-and-manage-a-root-cellar]] is a one-time investment
 serving for decades.
 
 ## When to Choose Freezing
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

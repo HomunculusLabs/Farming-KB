@@ -1,5 +1,5 @@
 ---
-title: Leary's Third Bardo Re-Entry Model
+title: Leary's leary third bardo re entry Re-Entry Model
 created: 2026-04-23
 updated: 2026-04-23
 type: concept
@@ -12,11 +12,11 @@ sources:
 
 The Third Bardo (Sidpa Bardo) is the final phase of Leary's psychedelic adaptation of the Tibetan Book of the Dead. It represents "the period in which the consciousness makes the transition from transcendent reality to the reality of ordinary waking life." The Tibetans call it the Bardo of "seeking rebirth."
 
-A person enters the Third Bardo when they are "incapable of holding on to the knowledge that the peaceful and wrathful visions were projections of his own mind, but became attracted to or frightened by one or more of them." The key struggle is regaining routine reality and reconstructing the ego — a process the manual frames as choosing a "post-session personality" or "re-entry robot."
+A person enters the Third Bardo when they are "incapable of holding on to the knowledge that the [[leary-peaceful-and-wrathful-visions]] visions were projections of his own mind, but became attracted to or frightened by one or more of them." The key struggle is regaining routine reality and reconstructing the ego — a process the manual frames as choosing a "post-session personality" or "re-entry robot."
 
 The manual emphasizes that the types of re-entry made "can profoundly color the person's subsequent attitudes and feelings about himself and the world, for weeks or even months afterwards." A predominantly negative session can still be turned to great advantage provided the re-entry is positive and conscious. Conversely, "a happy and revelatory experience can be made valueless by a fearful or negative re-entry."
 
-Approximately fifty percent of the entire psychedelic experience is spent in the Third Bardo by most normal people, according to Tibetan estimates.
+Approximately fifty percent of the entire [[leary-psychedelic-experience-bardo-mapping]] is spent in the Third Bardo by most normal people, according to Tibetan estimates.
 
 ## Seven Signs of Re-Entry
 

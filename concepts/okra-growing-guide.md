@@ -1,5 +1,5 @@
 ---
-title: Okra Growing Guide
+title: Okra comparison-bean-growing-guide-vs-pepper-growing-guide
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -16,13 +16,13 @@ Okra (Abelmoschus esculentus) is a warm-season crop that thrives in hot weather.
 
 ## Growing Requirements
 
-Okra is a heat-loving vegetable that requires warm soil to germinate and warm weather to produce. It performs best in climates with long, hot summers. In marginal climates, start seeds indoors and transplant after all danger of frost has passed. Okra is somewhat tolerant of poor soil but needs more than minimum moisture to keep bearing heavily.
+Okra is a heat-loving vegetable that requires warm soil to germinate and [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]] to produce. It performs best in climates with long, hot summers. In marginal climates, [[query-what-is-seed-starting-and-when-should-i-start-seeds-indoors]] indoors and transplant after all danger of frost has passed. Okra is somewhat tolerant of poor soil but needs more than minimum moisture to keep bearing heavily.
 
 ## Soil and Fertilization
 
 - Okra makes deep, penetrating roots and surface feeder roots.
 - It can survive on relatively little water but produces heavily only with adequate moisture.
-- Good candidate for periodic fertigation -- side-dress with a complete organic fertilizer or compost tea during the growing season.
+- Good candidate for periodic fertigation -- side-dress with a complete [[complete-organic-fertilizer-cof-recipe-solomon]] or [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]] during the [[savory-growing-season-and-non-growing-season-management]].
 - Avoid following okra with crops susceptible to root-knot nematodes, as okra can harbor them. Good preceding crop is corn.
 
 ## Planting
@@ -59,7 +59,6 @@ Okra is bee-pollinated, so to preserve a pure variety requires isolation of over
 - Do not let more than one pod per plant form seed unless growing exclusively for seed -- unharvested pods greatly reduce formation of new edible pods.
 - You need at least 25 plants in your seed crop to maintain genetic vigor.
 - Seeds form rapidly once pods are left on the plant.
-
 
 ## Variety Selection
 

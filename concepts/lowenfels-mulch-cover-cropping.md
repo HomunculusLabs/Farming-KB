@@ -1,5 +1,5 @@
 ---
-title: "Mulch and Cover Cropping"
+title: "Mulch and fukuoka-clover-cover-cropping-soil-ecology"
 created: 2026-04-26
 updated: 2026-04-25
 sources: "Jeff Lowenfels & Wayne Lewis, Teaming with Microbes"
@@ -16,7 +16,7 @@ Mulch is any material placed on the soil surface to protect and improve it. In
 the context of the soil food web, organic mulches serve as both food for soil
 organisms and a tool for managing the fungal:bacterial (F:B) ratio of the soil.
 Mulch is one of the three primary tools of soil food web gardening (along with
-compost and compost tea). Proper mulching is critical because it determines
+compost and [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]]). Proper mulching is critical because it determines
 which types of microbes thrive, which in turn determines what nutrients are
 available and what plants will succeed.
 
@@ -55,7 +55,7 @@ How mulch is applied matters as much as what mulch is used:
 
 - **Incorporation (mixing into soil)** -- Mulch that is dug or tilled into
   the soil favors bacteria. The physical mixing breaks up fungal hyphae and
-  distributes organic matter throughout the soil where bacteria can access it.
+  distributes [[hamilton-composting-and-organic-matter-management]] throughout the soil where bacteria can access it.
   This is acceptable for vegetable gardens where bacterial soils are desired.
 
 ## Moisture and Decomposition Rate
@@ -69,7 +69,7 @@ finely ground materials and ensure adequate moisture.
 
 ## Nitrogen Tie-Up
 
-When mulches with high carbon:nitrogen ratios (wood chips, straw, sawdust)
+When mulches with high carbon:[[ingham-carbon-nitrogen-ratios-compost-tea]] (wood chips, straw, sawdust)
 are incorporated into soil, soil microbes use available nitrogen to break down
 the carbon. This temporarily reduces the nitrogen available to plants -- called
 "nitrogen tie-up" or "nitrogen robbery." The effect is temporary; once
@@ -92,7 +92,7 @@ A 2-3 inch layer of organic mulch effectively suppresses weed seed
 germination by blocking light from reaching the soil surface. Most weed seeds
 require light to germinate. Mulch also creates a physical barrier that prevents
 existing weed seeds from reaching the surface. For no-till gardens, mulch is
-the primary weed control strategy, replacing cultivation and herbicides
+the primary [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]] strategy, replacing cultivation and herbicides
 entirely.
 
 ## Cover Cropping
@@ -107,7 +107,7 @@ fit naturally into the soil food web framework:
 
 - **Grass cover crops** (rye, oats, annual ryegrass) produce dense root
   systems that feed bacterial populations and build soil structure through
-  root exudates and root turnover.
+  [[mycorrhizal-root-exudates-pathogen-interactions]] and root turnover.
 
 - **Brassica cover crops** (radishes, mustards) produce deep taproots that
   break compaction and bring minerals from deep soil layers to the surface.

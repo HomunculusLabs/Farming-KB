@@ -1,15 +1,13 @@
 ---
-title: "Potato Blight and Phytophthora infestans"
+title: "bloomfield potato blight phytophthora infestans and Phytophthora infestans"
 created: 2026-04-28
-tags: [[mycology, phytophthora, potato-blight, plant-pathogen, oomycete, irish-famine]
+tags: [mycology, phytophthora, potato-blight, plant-pathogen, oomycete, irish-famine]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
 type: concept
 ---
-
-Phytophthora infestans, the cause of potato blight, is the most
-infamous [[hallucinogenic-plants-united-states]], this oomycete remains the most
+Phytophthora infestans, the cause of potato blight, is the most infamous [[hallucinogenic-plants-united-states]], this oomycete remains the most
 devastating living enemy of global agriculture, causing three billion
 dollars in losses every year.
 
@@ -85,7 +83,7 @@ ancestral home of the potato.
 More than fifty species of Phytophthora are recognized, and besides
 potatoes, they infect almost every kind of broad-leaved plant, causing
 tens of billions of dollars in damage to crops every year. A newly
-identified species is responsible for sudden oak death in California,
+identified species is responsible for [[bloomfield-sudden-oak-death-phytophthora-species-diversity]] death in California,
 which has killed millions of oak and tanoak trees. Other species attack
 soybeans, cocoa, peppers, and numerous forest trees. The genus
 represents one of the most destructive groups of plant pathogens known
@@ -95,11 +93,11 @@ to science.
 
 The genome of Phytophthora infestans accommodates 250 billion coding
 letters (nucleotides), making it sixfold larger than the genome of the
-rice blast fungus Magnaporthe. Despite this massive genome, the actual
+[[bloomfield-rice-blast-appressorium-mechanics]] fungus Magnaporthe. Despite this massive genome, the actual
 number of functional genes is unknown. Sequencing efforts aim to
 identify distinctive Phytophthora genes whose products orchestrate the
 intimate relationship between the pathogen and its hosts, potentially
-revealing targets for disease control strategies.
+revealing targets for disease [[jadam-weed-control-strategies-natural]].
 
 ## Infection Cycle in Detail
 
@@ -108,9 +106,9 @@ leaf. It can germinate directly or release zoospores that swim through
 the surface water film. Zoospores are biflagellate and highly motile,
 allowing them to locate suitable infection sites. Upon finding one, the
 zoospore encysts, shedding its flagella and forming a resistant cell
-wall. The cyst germinates to produce a germ tube terminating in an
+wall. The cyst germinates to produce a [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] terminating in an
 [[fungal-pah-degradation-and-soil-bioremediation]]
-strategies for plant disease management.
+strategies for plant [[plant-disease-management-solomon]].
 ## See Also
 
 - [[amf-biocontrol-phytophthora-root-exudate-modification]]

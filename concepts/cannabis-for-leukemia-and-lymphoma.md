@@ -10,7 +10,7 @@ sources:
 
 # Cannabis for Leukemia and Lymphoma
 
-Leukemia is a type of blood cancer that usually begins in the bone marrow, where production of red and white blood cells and platelets occurs. Cancerous mutations of blood cells at their point of genesis can lead to serious impairment of immune function, oxygen transport, and blood clotting. Lymphomas are cancers that typically form tumors inside lymph nodes.
+Leukemia is a type of blood cancer that usually begins in the bone marrow, where production of red and white blood cells and platelets occurs. Cancerous mutations of blood cells at their point of genesis can lead to serious impairment of immune function, [[hemoglobin-oxygen-transport-biochemistry]], and blood clotting. Lymphomas are cancers that typically form tumors inside lymph nodes.
 
 ## Disease Characteristics
 
@@ -20,7 +20,7 @@ Common leukemia symptoms include high white blood cell count, anemia, clotting p
 
 ## Evidence Base
 
-The Cannabis Health Index (CHI) rates the evidence for cannabis in leukemia and lymphoma at a combined CHI value of 9, based on 7 studies reviewed. The evidence focuses primarily on the ability of cannabinoids to induce apoptosis (programmed cell death) in leukemia cells.
+The [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI) rates the evidence for cannabis in leukemia and lymphoma at a combined CHI value of 9, based on 7 studies reviewed. The evidence focuses primarily on the ability of cannabinoids to induce apoptosis (programmed cell death) in leukemia cells.
 
 ## CBD and Apoptosis
 
@@ -74,11 +74,11 @@ Leukemia patients have compromised immune systems and are often on intensive che
 
 ## Key Research Summary
 
-CBD produces apoptosis of leukemia cells via CB2 pathways and reduces tumor burden (2006). THC enhances the effectiveness of anticancer drugs in inducing leukemia cell death (2008). The Lymphoma Foundation of America supports medical marijuana for cancer patients. CB2 receptor selectivity may allow targeted destruction of leukemic cells while sparing healthy tissue.
+CBD produces apoptosis of leukemia cells via CB2 pathways and reduces tumor burden (2006). THC enhances the effectiveness of anticancer drugs in inducing leukemia cell death (2008). The Lymphoma Foundation of America supports [[cervantes-medical-marijuana-pharmacology]] for cancer patients. CB2 receptor selectivity may allow targeted destruction of leukemic cells while sparing healthy tissue.
 
 ## Limitations and Future Directions
 
-Evidence comes from laboratory and animal studies. Clinical trials examining CBD and THC in leukemia and lymphoma patients are urgently needed. The CB2-selective targeting of leukemic cells by CBD represents a promising approach that could complement or potentially reduce the intensity of conventional chemotherapy. Future research should examine optimal cannabinoid combinations, dosing schedules, and whether CBD enhances or interferes with specific chemotherapy agents used in leukemia treatment.
+Evidence comes from laboratory and animal studies. [[mushroom-cancer-clinical-trials-overview]] examining CBD and THC in leukemia and lymphoma patients are urgently needed. The CB2-selective targeting of leukemic cells by CBD represents a promising approach that could complement or potentially reduce the intensity of conventional chemotherapy. Future research should examine optimal cannabinoid combinations, dosing schedules, and whether CBD enhances or interferes with specific chemotherapy agents used in leukemia treatment.
 
 Source: Uwe Blesching, The Cannabis Health Index (2015)
 - [[blesching-cannabis-leukemia-lymphoma]]

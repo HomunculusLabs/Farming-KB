@@ -23,11 +23,11 @@ type: concept
 
 ## Overview
 
-The genus Coprinus, commonly known as ink caps, comprises mushrooms noted for their bell-shaped caps and the remarkable phenomenon of deliquescence, in which the gills liquefy into a black inky fluid as the fruiting body matures. The group includes both prized edible species and dangerously poisonous ones, and has served as an important model organism for studies of fungal genetics and mating systems.
+The genus Coprinus, commonly known as ink caps, comprises mushrooms noted for their bell-shaped caps and the remarkable phenomenon of deliquescence, in which the gills liquefy into a black inky fluid as the fruiting body matures. The group includes both prized edible species and dangerously poisonous ones, and has served as an important model organism for studies of [[fungal-genetics]] and mating systems.
 
-Ink caps have been familiar to naturalists for centuries and occupy a distinctive niche in both the ecology of grasslands and the history of mycology. Their rapid life cycle, dramatic deliquescence, and complex mating systems have made them subjects of intensive scientific investigation spanning more than a century.
+Ink caps have been familiar to naturalists for centuries and occupy a distinctive niche in both the ecology of grasslands and the history of [[mycology]]. Their rapid life cycle, dramatic deliquescence, and complex mating systems have made them subjects of intensive scientific investigation spanning more than a century.
 
-## Lawyer's Wig (Coprinus comatus)
+## Lawyer's W coprinus comatus atus)
 
 Coprinus comatus, called the lawyer's wig or shaggy mane, is the most recognizable ink cap. Young fruiting bodies emerge from wet lawns as white spindles with rounded tips, standing taller than stinkhorns and recalling photographs of ballistic missiles streaking from their silos. As the mushroom ages, the bottom edges of its gills begin to blacken and the elegant bell-shaped cap begins to resemble a ragged flag hanging from its pole.
 
@@ -41,7 +41,7 @@ In addition to its aerodynamic function, the ubiquitous umbrella form of the mus
 
 The signature feature of Coprinus is deliquescence, the process by which the gill tissue autodigests and the mushroom dissolves into black slime. This is not decay in the usual sense but a programmed self-dissolution. The gills mature from the bottom of the cap upward, and as each section of the hymenium completes spore production, the tissue liquefies.
 
-The black fluid that drips from the cap contains millions of basidiospores suspended in the dissolved gill tissue. This process is an adaptation for spore dispersal. By dissolving the spent gill tissue, the mushroom ensures that spores are released in a concentrated, fluid medium that may be spread by rain splash or carried by insects attracted to the dark liquid.
+The black fluid that drips from the cap contains millions of basidiospores suspended in the dissolved gill tissue. This process is an adaptat  ispersal. By dissolving the spent gill tissue, the mushroom ensures that spores are released in a concentrated, fluid medium that may be spread by rain splash or carried by insects attracted to the dark liquid.
 
 The sequential maturation from bottom to top maximizes the period during which viable spores are available for dispersal. As the lower gills dissolve, the upper gills are still producing spores, and the progressive shortening of the cap exposes these younger gills to the air. The deliquescing process transforms the entire fruiting body into a vehicle for distributing its reproductive output.
 
@@ -63,17 +63,17 @@ Besides C. atramentarius, other members of the genus and related taxa have been 
 
 ## Coprinus cinereus as a Model Organism
 
-Coprinus cinereus has been adopted as a model organism for molecular genetic studies of basidiomycete biology. Mutant strains have been created by disrupting normal genes with short lengths of DNA inserted at randomly selected sites in the genome. Fungi emerging from this genetic manipulation develop bonsai fruiting bodies, form caps or stems that do not expand, or fail to produce spores.
+Coprinus cinereus has been adopted as a model organism for molecular genetic studies of [[bloomfield-basidiomycete-biology-overview]]. Mutant strains have been created by disrupting normal genes with short lengths of DNA inserted at randomly selected sites in the genome. Fungi emerging from this genetic manipulation develop bonsai fruiting bodies, form caps or stems that do not expand, or fail to produce spores.
 
 One of the great challenges of experimental mycology lies in elucidating the genetic basis of these developmental abnormalities. These mutants have been instrumental in understanding how fruiting bodies demarcate the cap and stem, establish the spacing of gills before the cap expands, and determine which cells become basidia. The short life cycle of C. cinereus (completing its entire cycle from spore to spore in about two weeks) makes it particularly amenable to laboratory study.
 
-The genetics of Coprinus have been investigated since the early twentieth century, building on the work of A.H.R. Buller and other pioneers of experimental mycology. The ability to grow C. cinereus on simple media in petri dishes, combined with its rapid development, has made it one of the most productive systems for studying basidiomycete genetics. The bonsai fruiting bodies produced by mutagenized strains are particularly valuable because they reveal which genes are essential for normal mushroom development.
+The genetics of Coprinus have been investigated since the early [[coleman-louis-savier-twentieth-century-maraicher]], building on the work of A.H.R. Buller and other pioneers of experimental mycology. The ability to grow C. cinereus on simple media in petri dishes, combined with its rapid development, has made it one of the most productive systems for studying basidiomycete genetics. The bonsai fruiting bodies produced by mutagenized strains are particularly valuable because they reveal which genes are essential for normal mushroom development.
 
 ## Mating Systems and Genetic Diversity
 
-The sexuality of ink caps illustrates the remarkable complexity of basidiomycete mating systems. Mushrooms develop after compatible strains fuse in the soil. All mycelia appear as masses of androgynous tubes, but genetic diversity lurks in the nuclei housed within the hyphae. A single species of ink-cap mushroom can encompass hundreds of different strains.
+The sexuality of ink caps illustrates the remarkable complexity of [[bloomfield-basidiomycete-mating-systems-tetrapolar-incompatibility-dikaryon-genetics]] systems. Mushrooms develop after compatible strains fuse in the soil. All mycelia appear as masses of androgynous tubes, but genetic diversity lurks in the nuclei housed within the hyphae. A single species of ink-cap mushroom can encompass hundreds of different strains.
 
-In the sense that "male" and "female" refer to compatible mating types, there are legions of different sexes of basidiomycete fungi. A handful of genes determines whether individual mycelia can fuse and produce a family of spores on the gills of a mushroom. Each of these genes can exist in different versions called alleles, but only certain combinations of alleles can cohabit a single mycelium.
+In the sense that "male" and "female" refer to compatible mating types, there are legions of different sexes of [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]]. A handful of genes determines whether individual mycelia can fuse and produce a family of spores on the gills of a mushroom. Each of these genes can exist in different versions called alleles, but only certain combinations of alleles can cohabit a single [[mycelium]].
 
 When incompatible strains meet and their hyphae fuse, the region of mingled cytoplasm darkens and decays. The percentage of failed mushroom marriages is probably very high. The evolution of so many sexes makes biological sense because many combinations can work together, and this extreme outcrossing favors the perpetuation of tremendous genetic variation within a single species.
 
@@ -95,7 +95,7 @@ This extraordinary level of genetic cooperation dwarfs even the hundreds of mati
 
 ## Ecological Role
 
-Ink caps are typically found in grasslands, lawns, disturbed ground, and on manure-enriched soils. Some species fruit in spectacular abundance, forming dense clusters that can blacken large patches of grass with their deliquescing ink. The genus is saprotrophic, decomposing organic matter in soil and contributing to nutrient cycling.
+Ink caps are typically found in grasslands, lawns, disturbed ground, and on manure-enriched soils. Some species fruit in spectacular abundance, forming dense clusters that can blacken large patches of grass with their deliquescing ink. The genus is saprotrophic, decomposing [[hamilton-composting-and-organic-matter-management]] in soil and contributing to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 Their rapid fruiting and deliquescence cycle allows them to exploit transient nutrient sources efficiently. A colony of C. comatus can appear overnight, release its spores over the course of a single day, and dissolve completely within 48 hours, leaving little trace of its presence. This ephemeral strategy contrasts with the perennial fruiting bodies of wood-decaying bracket fungi and reflects the different ecological pressures faced by fungi that colonize transient substrates.
 

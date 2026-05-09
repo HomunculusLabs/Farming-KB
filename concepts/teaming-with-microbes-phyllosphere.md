@@ -1,5 +1,5 @@
 ---
-title: Teaming with Microbes: The Phyllosphere — Leaf Surface Biology
+title: Teaming with Microbes: The Phyllosphere — bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation Biology
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -13,7 +13,7 @@ sources:
 
 **Updated:** 2026-04-21
 
-While much attention in soil food web science focuses on the rhizosphere -- the zone of microbial activity around roots -- an equally important but often overlooked microbial community exists on the surfaces of plant leaves. This aerial counterpart to the rhizosphere is called the phyllosphere.
+While much attention in soil food web science focuses on the rhizosphere -- the zone of microbial activity around roots -- an equally important but often overlooked [[edaphic-factors-microbial-community-structure]] exists on the surfaces of plant leaves. This aerial counterpart to the rhizosphere is called the phyllosphere.
 
 The [[teaming-with-microbes-photosynthesis-exudates-carbon-cycle]] connection is direct -- the sugars exuded onto leaf surfaces are products of photosynthesis, representing a portion of the plant's energy budget invested in microbial defense.
 
@@ -31,7 +31,7 @@ Beneficial fungi compete with pathogenic fungi for nutrients and form protective
 
 This is the same competitive exclusion principle that operates in the soil: if the leaf surface is occupied by beneficial organisms, there is no room or resources for pathogens to establish themselves. The diversity of the phyllosphere microbial community determines its effectiveness at suppressing disease.
 
-Different leaf surfaces support different fungal communities. The waxy cuticle of some leaves provides a challenging substrate for microbial colonization, while the hairy surfaces of others trap moisture and organic debris that support richer microbial communities. Understanding these differences helps explain why some plant species are more disease-resistant than others.
+Different leaf surfaces support different [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]. The waxy cuticle of some leaves provides a challenging substrate for microbial colonization, while the hairy surfaces of others trap moisture and organic debris that support richer microbial communities. Understanding these differences helps explain why some plant species are more disease-resistant than others.
 
 ## Pathogen Entry Points
 
@@ -53,13 +53,13 @@ These defense mechanisms operate continuously, providing the plant with a living
 
 Understanding the phyllosphere has practical implications for gardeners and farmers:
 
-- **Foliar applications** of compost tea or microbial inoculants can bolster the leaf surface microbial community, enhancing disease resistance without chemical inputs.
+- **Foliar applications** of [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]] or microbial inoculants can bolster the leaf surface microbial community, enhancing disease resistance without chemical inputs.
 
 - **Avoid unnecessary fungicides** that kill both pathogenic and beneficial leaf-surface organisms indiscriminately. When you spray a fungicide, you may be destroying the plant's natural defense system.
 
 - **Plant diversity** in the garden supports a diverse phyllosphere microbiome across different plant species, creating a more resilient overall ecosystem.
 
-- **Air quality** matters: air pollution can damage the phyllosphere community just as chemical contamination damages the [[compost-biology-soil-food-web-inoculation]] as organic matter decomposes.
+- **[[cervantes-air-quality-ventilation]]** matters: air pollution can damage the phyllosphere community just as chemical contamination damages the [[compost-biology-soil-food-web-inoculation]] as [[hamilton-composting-and-organic-matter-management]] decomposes.
 
 ## The Phyllosphere and [[biodiversity-fungi-soil-fungal-communities]]. Succession patterns, competitive interactions, and environmental gradients all play roles in determining which species dominate at any given time.
 
@@ -69,7 +69,7 @@ Some foliar fungi are specialized residents that complete their entire life cycl
 
 - [[soil-food-web-nutrient-cycling]]
 
-- [[fungal-community-ecology]]
+- fungal-community-ecology
 
 - [[fungal-pathogens-in-agriculture]]
 
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -14,7 +14,7 @@ Homobrassinolide, specifically the 22S,23S-epimer, is a synthetic [[stigmasterol
 
 ## Chemical Structure and Properties
 
-22S,23S-Homobrassinolide is a C₂₉ steroid lactone with a characteristic brassinolide skeleton: a 2α,3α,22α,23α-tetrahydroxy-B-ring-oxa-lactone structure. The "homo" designation refers to the presence of an additional methylene group compared to the parent compound brassinolide, extending the side chain. This structural modification can influence receptor binding affinity and biological activity relative to brassinolide itself. The stereochemistry at positions 22 and 23 is critical for biological activity: the 22S,23S configuration used in the Gartz et al. study is the naturally occurring enantiomer found in active brassinosteroids, while the 22R,23R enantiomer shows significantly reduced activity.
+22S,23S-Homobrassinolide is a C₂₉ steroid lactone with a characteristic brassinolide skeleton: a 2α,3α,22α,23α-tetrahydroxy-B-ring-oxa-lactone structure. The "homo" designation refers to the presence of an additional methylene group compared to the parent compound brassinolide, extending the side chain. This structural modification can influence [[tihkal-receptor-binding-serotonin]] affinity and biological activity relative to brassinolide itself. The stereochemistry at positions 22 and 23 is critical for biological activity: the 22S,23S configuration used in the Gartz et al. study is the naturally occurring enantiomer found in active brassinosteroids, while the 22R,23R enantiomer shows significantly reduced activity.
 
 The compound is poorly soluble in water but soluble in organic solvents such as ethanol, methanol, and dimethyl sulfoxide. Application in biological studies is typically performed at extremely low concentrations (parts per billion to parts per million range). The molecular weight of 22S,23S-homobrassinolide is 480.7 g/mol, and it has the molecular formula C₂₉H₄₈O₆. The lactone ring between C-6 and C-7 is essential for biological activity, as hydrogenation or opening of this ring abolishes brassinosteroid-like effects.
 
@@ -36,11 +36,11 @@ The first documented study of brassinosteroid effects on fungi was conducted by 
 
 ## Research Gaps and Future Directions
 
-Several important questions about homobrassinolide and brassinosteroid effects on fungi remain unanswered. The identity of the fungal receptor(s) for brassinosteroids has not been determined, nor is it known whether fungi produce endogenous brassinosteroid-like compounds. The dose-response relationship for fungal growth promotion has not been fully characterized beyond the single concentration tested by Gartz et al. The effects of brassinosteroids on other cultivated mushroom species (edible and medicinal) have not been systematically investigated, despite the potential agricultural applications. The morphogenetic effects on annulus formation deserve further study, as they may reveal fundamental aspects of fungal developmental biology that are regulated by steroidal signaling molecules.
+Several important questions about homobrassinolide and brassinosteroid effects on fungi remain unanswered. The identity of the fungal receptor(s) for brassinosteroids has not been determined, nor is it known whether fungi produce endogenous brassinosteroid-like compounds. The dose-response relationship for fungal growth promotion has not been fully characterized beyond the single concentration tested by Gartz et al. The effects of brassinosteroids on other cultivated mushroom species (edible and medicinal) have not been systematically investigated, despite the potential agricultural applications. The morphogenetic effects on [[brassinosteroid-suppressed-annulus-formation-psilocybe-cubensis]] deserve further study, as they may reveal fundamental aspects of fungal developmental biology that are regulated by steroidal signaling molecules.
 
 ## Dose-Response and Experimental Conditions
 
-The Gartz et al. (1990) study tested a single concentration of 22S,23S-homobrassinolide (10⁻² ppm, or approximately 0.017 nanomolar) applied to the growth substrate before inoculation with [[psilocybin]] and [[psilocybe-cubensis]] suggests potential applications in the commercial cultivation of edible and medicinal mushroom species. Species such as *Agaricus bisporus* (button mushroom), *Pleurotus ostreatus* (oyster mushroom), *Lentinula edodes* (shiitake), and *Ganoderma lucidum* (reishi) might similarly benefit from brassinosteroid treatment, with implications for commercial mushroom production efficiency and profitability. However, the high cost of synthetic brassinosteroids, the lack of regulatory approval for their use in food production, and the absence of published studies on edible mushroom species have prevented any practical commercial application. The development of more economical brassinosteroid production methods (such as microbial fermentation or plant extraction) could eventually make this approach more feasible for agricultural use.
+The Gartz et al. (1990) study tested a single concentration of 22S,23S-homobrassinolide (10⁻² ppm, or approximately 0.017 nanomolar) applied to the growth substrate before inoculation with [[psilocybin]] and [[psilocybe-cubensis]] suggests potential applications in the commercial cultivation of edible and medicinal mushroom species. Species such as *[[genetic-improvement-agaricus-bisporus-molecular-approaches]]* (button mushroom), *Pleurotus ostreatus* (oyster mushroom), *Lentinula edodes* (shiitake), and *[[stamets-reishi-ganoderma-lucidum-cultivation]]* (reishi) might similarly benefit from brassinosteroid treatment, with implications for commercial mushroom production efficiency and profitability. However, the high cost of synthetic brassinosteroids, the lack of regulatory approval for their use in food production, and the absence of published studies on edible mushroom species have prevented any practical commercial application. The development of more economical brassinosteroid production methods (such as microbial fermentation or plant extraction) could eventually make this approach more feasible for agricultural use.
 ## Historical Context of the Gartz Study
 
 The 1990 publication by Gartz, Adam, and Vorbrodt was remarkable for its interdisciplinary nature, combining expertise in mycology (Gartz), brassinosteroid chemistry (Adam), and plant physiology (Vorbrodt). The study emerged from Adam's broader program of brassinosteroid research in East Germany, where brassinosteroids were being investigated as potential agricultural growth promoters. The application of these plant-growth regulators to fungal systems was a novel and prescient idea that anticipated later interest in the role of steroidal compounds in fungal biology. The study was published in the journal *Biologia Plantarum* and has been cited primarily in the brassinosteroid literature rather than the mycological literature, reflecting its interdisciplinary position.
@@ -48,7 +48,7 @@ The 1990 publication by Gartz, Adam, and Vorbrodt was remarkable for its interdi
 
 - [[stigmasterol]]
 - [[jochen-gartz]]
-- [[aeruginascin]] — another non-tryptamine mushroom constituent with biological activity
+- [[aeruginascin]] — another non-tryptamine [[magic-mushroom-constituent-chemistry]] with biological activity
 - [[baeocystin]] — secondary alkaloid whose levels were also measured in the Gartz brassinosteroid study
 - [[tryptamine]] — precursor supplemented in related fungal biosynthesis studies
 ## Practical Considerations
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,10 +1,11 @@
 ---
-title: Lemon Balm Growing Guide
+title: comparison-lemon-balm-vs-passionflower comparison-bean-growing-guide-vs-pepper-growing-guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [medicine, plants, cultivation, species-profiles, companion-planting, pollinators, permaculture]
-sources: []
+sources:
+  - "raw/papers/ben-lemon-cannabis-alchemy.md"
 ---
 
 # Lemon Balm Growing Guide (Melissa officinalis)
@@ -33,7 +34,7 @@ seeding.
 
 ## Medicinal Uses
 
-Lemon balm contains rosmarinic acid, flavonoids, and essential oils
+Lemon balm contains rosmarinic acid, flavonoids, and [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]
 (citral, citronellal, geranial) responsible for its calming and antiviral
 properties.
 
@@ -68,7 +69,7 @@ interfere with thyroid hormone absorption.
 Lemon balm is one of the best plants for supporting honeybees and native
 bees. The flowers are rich in nectar and produce an excellent honey. The
 name "Melissa" (Greek for bee) reflects this association. Planting lemon
-balm near hives or in bee forage areas supports pollinator health and honey
+balm near hives or in [[mollison-designers-bee-forage-tree-planting]] areas supports pollinator health and honey
 production. Beekeepers historically rubbed lemon balm inside new hives to
 encourage bees to accept them.
 
@@ -125,7 +126,7 @@ or spearmint and is easier to manage.
 
 ### Care and Maintenance
 - Water regularly during the first season; established plants are moderately
-  drought tolerant
+  [[permplant-carob-drought-tolerant-food-tree]]
 - Mulch with compost to retain moisture and suppress weeds
 - Cut plants back by half after flowering to encourage a fresh flush of
   growth and prevent excessive self-seeding
@@ -135,40 +136,12 @@ or spearmint and is easier to manage.
   reduces essential oil content
 
 ## Harvesting
-
-For tea and culinary use:
-- Harvest leaves at any time during the growing season
-- The highest essential oil concentration is just before flowering
-- Cut stems 2-3 inches above the base; the plant will regrow
-- Harvest in the morning after dew has dried for best flavor and potency
-
-For medicinal use:
-- Harvest aerial parts in early to mid-bloom for maximum rosmarinic acid
-  content
-- Cut the top 6-8 inches of the plant
-
-## Drying and Storage
-
-- Bundle stems and hang upside down, or spread leaves on screens
-- Dry in a warm, dark, well-ventilated area (90-100 degrees F in a dehydrator)
-- Lemon balm loses some of its lemon scent during drying but retains
-  medicinal properties
-- Store dried leaves in airtight containers away from light
-- Properly stored, dried lemon balm retains quality for 6-12 months
-- For the freshest flavor, freeze leaves in ice cube trays with water or oil
-
-## Common Issues
-
-Lemon balm is generally pest and disease resistant. Watch for:
-- Powdery mildew: Improve air circulation; avoid overhead watering
-- Spider mites: Common in dry, hot conditions; increase humidity
-- Rust: Remove affected leaves; avoid crowding
-- Slugs: May damage young growth; use organic slug controls
-
 ## See Also
 
+- [[comparison-lemon-balm-vs-passionflower]]
+
 - [[chamomile-growing-guide]] -- pair with lemon balm in calming tea blends
-- [[holy-basil-tulsi-guide]] -- another aromatic medicinal herb for daily
+- [[holy-basil-tulsi-guide]] -- another aromatic [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]] for daily
   wellness teas
 
 ## Related

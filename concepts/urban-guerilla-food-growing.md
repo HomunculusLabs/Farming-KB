@@ -23,7 +23,7 @@ The movement responds to several interconnected problems:
 - An infinite-growth economic model that ignores finite natural resources
 - Urban alienation where children in apartment buildings never learn where food
   comes from
-As one practitioner writes: "We need to start growing food where we live and
+As one practitioner writes: "We need to [[query-how-do-i-start-growing-hazelnut-bushes]] food where we live and
 reclaiming all this knowledge for ourselves and future generations. We can't
 keep importing and trucking all of our food all over the globe and let big
 corporations control the most basic aspect of our lives for us."
@@ -31,7 +31,7 @@ corporations control the most basic aspect of our lives for us."
 ### Reclaiming Lost Knowledge
 Food cultivation and land stewardship are rapidly becoming lost arts. A few
 generations back, most families provided their own food in one way or another.
-Grandmothers had fruit trees in their backyards, grandfathers caught their own
+Grandmothers had [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] in their backyards, grandfathers caught their own
 fish, people saved seed and grew the same tomatoes their grandparents had grown.
 Communities were tighter, economies more localized, and connections to land and
 people closer.
@@ -40,8 +40,8 @@ Skills learned in food growing never become outdated. No one gets downsized
 or replaced by a machine when they know how to grow food. The practitioner's
 daily routine revolves around food: sowing it, tending to it, studying it,
 harvesting it, processing it, and eating it. These skills include T-bud grafting
-fruit trees, rooting semi-hardwood cuttings, saving vegetable and flower and
-herb seed, and reading textbooks on drip irrigation, biofertilizers, and plant
+fruit trees, rooting semi-hardwood cuttings, [[solomon-seed-saving-vegetable-breeding]] and flower and
+herb seed, and reading textbooks on [[comparison-drip-irrigation-vs-passive-irrigation]], biofertilizers, and plant
 propagation.
 ### Starting Where You Are
 Urban guerilla gardening can begin at any scale. As Charlie Headington writes:
@@ -63,9 +63,9 @@ Taking over abandoned rubble lots for food production involves:
 Urban environments produce enormous amounts of discarded materials useful for
 growing food:
 - Bathtubs, tires, and milk crates as planters
-- Old refrigerators as cold frames
+- Old refrigerators as [[hamilton-cold-frames-and-hardening-off]]
 - 55-gallon drums for water catchment and container growing
-- Broken concrete for raised bed walls and [[urban-guerrilla-food-growing-city-agriculture]]
+- Broken concrete for [[comparison-chinampas-vs-raised-bed-gardening]] walls and [[urban-guerrilla-food-growing-city-agriculture]]
 
 ## See Also
 
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

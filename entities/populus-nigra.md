@@ -64,7 +64,7 @@ The wood is light, soft, and relatively weak, with a pale yellowish-white color 
 
 Black poplar is extensively used in phytoremediation and bioengineering projects. Its fast growth and deep root system make it effective at stabilizing riverbanks, filtering pollutants, and absorbing heavy metals from contaminated soils.
 
-The tree has cultural significance in European folklore and literature. It appears in classical Greek mythology and has been planted historically as a boundary marker and ornamental specimen across Europe.
+The tree has [[ethnomycology-cultural-significance-sacred-fungi]] in European folklore and literature. It appears in classical Greek mythology and has been planted historically as a boundary marker and ornamental specimen across Europe.
 
 ## Cultivation and Hybrids
 
@@ -76,7 +76,7 @@ Numerous interspecific hybrids involving P. nigra have been developed for commer
 
 Hybrid poplars from the P. × canadensis group are among the fastest-growing temperate trees, capable of producing 15–30 m³ per hectare per year on suitable sites. They are widely planted for pulpwood, bioenergy, and phytoremediation.
 
-In plantation forestry, black poplar and its hybrids are managed on short rotations of 8–15 years. The species coppices readily, producing multiple stems after harvest that can be managed for biomass production.
+In plantation forestry, black poplar and its hybrids are managed on short rotations of 8–15 years. The species coppices readily, producing multiple stems after harvest that can be managed for [[dighton-fungal-biomass-production-aquatic-ecosystems]].
 
 ## Conservation Status
 
@@ -88,11 +88,11 @@ Riparian floodplain forests, the natural habitat of black poplar, have been redu
 
 Conservation efforts focus on preserving genetically pure populations, restoring riparian habitats, and maintaining dynamic river processes that allow natural poplar regeneration. The EUFORGEN Populus nigra network coordinates conservation efforts across Europe.
 
-Genetic studies have revealed that many trees identified as wild black poplar are actually hybrids with introduced North American poplar species. Molecular markers are increasingly used to identify and protect true P. nigra genotypes.
+Genetic studies have revealed that many trees identified as wild black poplar are actually hybrids with introduced [[growing-gourmet-north-american-reishi-species]] poplar species. Molecular markers are increasingly used to identify and protect true P. nigra genotypes.
 
 Black poplar has historically been used in traditional medicine across Europe. The bark contains salicin, a compound related to aspirin, and was used as an anti-inflammatory and fever reducer. Buds were collected to make ointments and salves.
 
-The species also contributes to carbon sequestration in riparian zones, where fast growth rates enable rapid biomass accumulation. Poplar plantations are increasingly recognized for their potential role in climate change mitigation through bioenergy and carbon storage.
+The species also contributes to [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] in riparian zones, where fast growth rates enable rapid biomass accumulation. Poplar plantations are increasingly recognized for their potential role in [[dighton-fungi-climate-change-feedback]] mitigation through bioenergy and [[holmgren-soil-humus-carbon-storage-rebuilding]].
 
 ## See Also
 

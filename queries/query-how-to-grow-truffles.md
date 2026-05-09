@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [query, truffle-cultivation, mycology, agroforestry, fungi]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -22,10 +23,10 @@ with trees typically taking four to twelve years to produce their first harvest.
 ## Detailed Explanation
 
 ### The Unique Biology of Truffles
-Truffle cultivation is fundamentally different from growing other mushrooms
-because truffles are ectomycorrhizal fungi that can only grow in symbiotic
+[[comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation]] is fundamentally different from growing other mushrooms
+because truffles are [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] that can only grow in symbiotic
 association with living tree roots. Unlike saprobic mushrooms such as oyster or
-shiitake that decompose dead organic matter, truffles form an intimate
+shiitake that decompose dead [[hamilton-composting-and-organic-matter-management]], truffles form an intimate
 partnership with their host tree, exchanging soil minerals and water for
 plant-produced sugars. This means you cannot grow truffles on a substrate in a
 bag or bucket. You must grow trees, and the truffles will form on and around
@@ -46,8 +47,8 @@ are typically planted at 200 to 500 trees per acre, with rows oriented north
 to south to maximize sunlight penetration. Trees are planted at the same depth
 they grew in the nursery, with care taken not to damage the fragile
 mycorrhizal root tips. Irrigation is essential during establishment, and a
-drip irrigation system that delivers water to the root zone without wetting
-the soil surface is ideal. Weed control around young trees is critical because
+[[comparison-drip-irrigation-vs-passive-irrigation]] system that delivers water to the root zone without wetting
+the soil surface is ideal. [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]] around young trees is critical because
 aggressive weeds can outcompete the truffle mycorrhizae for soil resources.
 
 ### Ongoing Maintenance
@@ -76,7 +77,7 @@ appreciates in value over decades.
 - Truffles are ectomycorrhizal fungi that require living host trees, making
   cultivation a multi-year forestry project
 - [[truffle-inoculated-seedlings]] must be certified through microscopic
-  examination to confirm successful mycorrhizal colonization
+  examination to confirm successful [[arbuscular-mycorrhizal-colonization-patterns]]
 - Site requirements are strict: well-drained alkaline soil (pH 7.5 to 8.3),
   full sun, and protection from competing forest fungi
 - [[query-how-do-i-use-trichoderma-for-plant-disease-prevention]]

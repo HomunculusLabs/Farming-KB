@@ -18,7 +18,8 @@ tags:
 - plant-systems
 
 sources:
-- raw/papers/one-straw-revolution-masanobu-fukuoka.md
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 ---
 
@@ -57,7 +58,7 @@ People observe this and conclude "pruning is essential" — but they are observi
 
 ### Single Central Trunk Pattern
 
-Fukuoka observed that all citrus varieties share a fundamental growth pattern: **a single central trunk growing straight, with branches spreading out alternately** — same as cedar or pine.
+Fukuoka observed that all [[query-best-citrus-varieties-for-different-climates]] share a fundamental growth pattern: **a single central trunk growing straight, with branches spreading out alternately** — same as cedar or pine.
 
 Variation by type:
 - **Hassaku and Shaddock**: Grow very tall
@@ -70,7 +71,7 @@ Variation by type:
 The tree must be:
 1. **Started from seed or unpruned nursery stock** — most nursery trees are already pruned or root-damaged, which makes pruning necessary from the start
 2. **Grown with no-till, no-fertilizer, no-spray methods** — these methods create the conditions where natural form can express itself
-3. **Supported by biodiversity** — ground cover, beneficial insect habitat, windbreaks
+3. **Supported by biodiversity** — ground cover, [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] habitat, windbreaks
 4. **Given proper spacing** — no competition from neighboring trees
 
 ### Correcting Previously Pruned Trees
@@ -85,7 +86,7 @@ For trees already shaped by pruning, Fukuoka recommends gradual correction:
 Fukuoka acknowledges that pruning developed for legitimate reasons — but only *within a system of cultivation that includes tilling, weeding, fertilizing, and spraying*:
 
 - Lower branches are removed for **tillage and weeding access** — unnecessary with no-till
-- Trees are shaped for **pesticide spray penetration** — unnecessary without pesticides
+- Trees are shaped for **[[jadam-pesticide-spray-timing-and-technique]] penetration** — unnecessary without pesticides
 - Branches are thinned for **harvesting convenience** — a valid concern, but natural trees maintain open form anyway
 - Growth is balanced with fruit set to **prevent alternate bearing** — unnecessary in naturally-formed trees
 
@@ -98,7 +99,7 @@ Fukuoka acknowledges that pruning developed for legitimate reasons — but only 
 Fukuoka's key companion tree, planted 5-6 per quarter-acre:
 
 **Benefits**:
-- Nitrogen fixation via rhizobium bacteria (deep soil strata)
+- [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] via rhizobium bacteria (deep soil strata)
 - Windbreak and shade
 - Flowers attract bees
 - Leaves provide fodder
@@ -113,7 +114,7 @@ Fukuoka's key companion tree, planted 5-6 per quarter-acre:
 
 Effective against mites and scales by:
 - Modifying microclimate (sunlight, breeze, humidity)
-- Providing year-round habitat for beneficial insects
+- Providing year-round [[query-how-do-i-design-habitat-for-beneficial-insects]] insects
 - Preventing the pest population explosions triggered by uniform monoculture
 
 ## Disease and Insect Control Without Chemicals
@@ -130,7 +131,7 @@ Fukuoka provides a resistance guide (from Natural Way of Farming):
 
 ### Specific Pest Management
 
-**Arrowhead Scale**:
+**[[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]]**:
 - Natural predators: parasitic wasps, 4-5 types of ladybugs
 - Worst damage in congested, unventilated branches
 - If unconcerned about appearance: no spraying needed at all
@@ -139,49 +140,6 @@ Fukuoka provides a resistance guide (from Natural Way of Farming):
 **Mites**:
 - Pre-WWII: not a major problem (controlled by lime-sulfur, which also preserved predators)
 - Post-WWII: organophosphate pesticides destroyed predators, creating uncontrollable outbreaks
-- "If man had left the mite alone, it would never have become a major pest"
-- Solution: restore biodiversity; mites are "even more sensitive to microclimatic changes in the tree than are scales"
-
-**Cottony-Cushion Scale**:
-- Was one of three major citrus pests before vedalia ladybug release (~40 years prior)
-- Disappeared naturally with biological control
-- Post-WWII: organophosphate spraying killed vedalia ladybugs → severe outbreaks
-- In Fukuoka's unsprayed orchard: "almost no damage"
-
-**Red Wax Scale**:
-- Declined when pine rosin compound discontinued during war
-- Parasitic wasps emerged naturally
-- Post-war fluorine pesticide caused immediate severe outbreaks
-- When fluorine was banned: "Infestation by the scale declined almost immediately"
-
-### The Lesson
-
-"The most intelligent way of controlling this particular pest is not to spray." Every case demonstrates the same pattern: **intervention destroys natural balance → pest outbreak → more intervention → worse outbreak**.
-
-## Practical Setup: Establishing a Natural Orchard
-
-1. **Clear land** (if needed) — cut pine sprouts, keep some for windbreak
-2. **Plant citrus seedlings** on contour
-3. **Sow clover** (white clover + alfalfa) over entire area
-4. **Plant daikon radish** to break up hard soil
-5. **Plant Morishima acacia** (6-10 per quarter-acre) as companion trees
-6. **Allow natural succession** — let native trees, weeds establish
-7. **Do not prune, fertilize, or spray**
-8. **Cut weeds with scythe** in summer when needed
-9. **Wait 5-7 years** for first significant fruit
-10. **Re-sow clover** every 7-10 years as it naturally declines
-
-Fukuoka's 12.5 acres of citrus orchard was built entirely this way on previously abandoned, eroded hillsides with hard red clay soil.
-
-## Tree Lifetime Comparison
-
-Natural farming trees live **2-3 times longer** than scientifically-managed trees. Fukuoka attributes this to:
-- Stronger wood from natural growth patterns
-- Better root development in undisturbed soil
-- No chemical stress from fertilizers and pesticides
-- Natural disease resistance from balanced nutrition
-- "Like the chickens, hogs, and cattle raised on artificial feed in cramped batteries and pens, fruit trees grown in artificially prepared soil with artificial fertilizers are inevitably weak"
-
 ## See Also
 
 - [[fukuoka-soil-building-method]] — Soil restoration for orchards

@@ -1,9 +1,9 @@
 ---
-title: Aphids - Cannabis Pest Guide
+title: Aphids - query-how-to-use-neem-oil-for-cannabis-pest-control Guide
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -11,7 +11,7 @@ tags: [cannabis]
 
 # Aphids on Cannabis
 
-Aphids (also called plant lice) are small sap-sucking insects that attack cannabis plants. They are easy to spot with the naked eye and can rapidly multiply to devastating numbers due to their extraordinary reproductive rate. Aphids are also the most significant disease vector among cannabis pests — they transport more viruses than any other source, making their control critical not just for direct damage prevention but for disease management as well.
+Aphids (also called plant lice) are small sap-sucking insects that attack cannabis plants. They are easy to spot with the naked eye and can rapidly multiply to devastating numbers due to their extraordinary reproductive rate. Aphids are also the most significant disease vector among [[green-cannabis-pests-prevention]] — they transport more viruses than any other source, making their control critical not just for direct damage prevention but for [[plant-disease-management-solomon]] as well.
 
 ## Identification
 
@@ -36,7 +36,7 @@ Aphids have an extraordinary reproductive capacity that makes them one of the fa
 - Offspring start reproducing soon after birth — multiple generations overlap
 - Winged aphids are often the first to enter the garden, flying in from outdoor populations
 - Install yellow sticky traps near base and tops of plants to monitor winged aphid invasions
-- In fall, sexual reproduction produces eggs that overwinter, starting the cycle again the following spring
+- In fall, [[fungal-life-cycles-sexual-reproduction-metamorphosis]] produces eggs that overwinter, starting the cycle again the following spring
 - Warmer temperatures accelerate reproduction dramatically — populations can explode in warm conditions
 - A single aphid colony can expand from a few individuals to thousands within weeks
 
@@ -56,7 +56,7 @@ Control ants by mixing borax with hand soap or borax powder with powdered sugar.
 - **Curling and distortion**: Heavily infested leaves may curl and become distorted from feeding damage
 - **Stunted growth**: Continuous sap extraction reduces plant vigor and slows development
 - **Reduced yield**: Heavy infestations during flowering can significantly impact bud development
-- **Transmission of viruses**: Aphids can spread viral diseases throughout a garden as they move between plants
+- **Transmission of viruses**: Aphids can spread [[cervantes-viral-diseases-cannabis]] throughout a garden as they move between plants
 
 ## Cultural and Physical Control
 
@@ -112,7 +112,7 @@ The most effective and available predators for aphids:
 - Keep plants healthy and well-nourished — aphids prefer weak, stressed plants
 - Control ant populations in and around the growing area to prevent aphid farming
 - Remove weeds that could serve as alternate hosts for aphids between crops
-- Maintain good air circulation and avoid overcrowding
+- Maintain good [[stamets-growing-room-air-circulation-co2-management]] and avoid overcrowding
 - Monitor plants regularly, focusing on growing tips, leaf undersides, and branch nodes
 
 ## See Also

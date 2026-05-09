@@ -14,7 +14,7 @@ Fungi are central drivers of the global carbon cycle. As primary decomposers of 
 
 ## Decomposition and Mineralization
 
-In forest ecosystems, the decomposition of leaf litter and woody debris is largely mediated by saprotrophic fungi. At the soil surface, litter decomposition by the saprotrophic fungal community results in mineralization of nutrients into the soil inorganic nutrient pool. Materials incorporated into fungal biomass are either retranslocated within the mycelium or released through decomposition and mineralization processes. The duration of incorporation into biomass represents an immobilization phase, temporarily rendering carbon unavailable to other organisms.
+In forest ecosystems, the decomposition of leaf litter and woody debris is largely mediated by saprotrophic fungi. At the soil surface, [[dighton-pine-needle-litter-decomposition-fungal-succession]] by the saprotrophic fungal community results in mineralization of nutrients into the soil inorganic nutrient pool. Materials incorporated into fungal biomass are either retranslocated within the mycelium or released through decomposition and mineralization processes. The duration of incorporation into biomass represents an immobilization phase, temporarily rendering carbon unavailable to other organisms.
 
 ## Wood Decomposition
 
@@ -23,25 +23,27 @@ Fungi are the dominant decomposers of wood. White-rot basidiomycetes degrade all
 ## Carbon Sequestration
 
 Fungi contribute to long-term carbon storage through several mechanisms:
-- **Glomalin production** — Arbuscular mycorrhizal fungi produce glomalin, a recalcitrant glycoprotein that persists in soil for decades. See [[glomalin]] for details
+- **Glomalin production** — [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi produce glomalin, a recalcitrant glycoprotein that persists in soil for decades. See [[glomalin-and-soil-carbon]] for details
 - **Necromass accumulation** — Dead fungal hyphae and melanized cell walls contribute to stable soil organic matter
 - **Aggregation** — Fungal hyphae bind soil particles into aggregates that physically protect organic carbon
 - **Ectomycorrhizal mats** — ECM fungi form dense mycelial mats that sequester carbon in forest soils
 
 ## Mycorrhizal Contributions
 
-Mycorrhizal fungi play a dual role in carbon cycling: they receive 10-20% of host plant photosynthate as carbon supply while simultaneously enhancing plant nutrient uptake (increasing plant carbon fixation). Ectomycorrhizal fungi alone may receive up to 15-30% of net primary production in some boreal forests. See [[mycorrhizal-fungi]] and [[mycorrhizal-fungi]].
+Mycorrhizal fungi play a dual role in carbon cycling: they receive 10-20% of host plant photosynthate as carbon supply while simultaneously enhancing plant nutrient uptake (increasing plant carbon fixation). Ectomycorrhizal fungi alone may receive up to 15-30% of net [[lichens-primary-production-soil-formation-dighton]] in some [[fungal-diversity-boreal-forests-taiga]]. See [[mycorrhizal-fungi]] and [[mycorrhizal-fungi]].
 
 ## Fungal Respiration
 
 Fungal respiration returns significant CO2 to the atmosphere. The balance between decomposition (CO2 release) and immobilization (carbon retention in biomass and soil organic matter) determines whether a given fungal community acts as a net carbon source or sink.
 
-## Related Concepts
+## Related
+
+- [[fungal-survey-design-role-of-volunteers]] Concepts
 
 - [[fungal-ecology-decomposition-cycles]] for temporal dynamics of fungal decomposer communities
-- [[fungal-role-in-nitrogen-cycling]] for coupled nutrient cycling
+- [[fungal-role-in-nitrogen-cycling]] for coupled [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 - [[fungal-nutrient-cycling-mineral-transformations]] for phosphorus dynamics
-- [[glomalin]] for mycorrhizal carbon sequestration
+- [[glomalin-and-soil-carbon]] for mycorrhizal carbon sequestration
 - [[white-rot-fungi-bioremediation]] for applied lignin degradation
 ## Practical Considerations
 
@@ -59,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

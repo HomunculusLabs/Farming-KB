@@ -16,7 +16,7 @@ variety was the most potent, capable of causing insanity. The ancient
 Egyptians recorded their knowledge of Henbane in the Ebers Papyrus,
 written in 1500 B.C. Homer described magic drinks with effects
 indicative of Henbane as a major ingredient, establishing its place at
-the very origins of Western literature and pharmacology.
+the very origins of [[fly-agaric-western-literature]] and pharmacology.
 
 ## Species and Distribution
 
@@ -26,7 +26,7 @@ Two principal species have been employed for psychoactive purposes:
 
 ## The Oracle of Delphi
 
-in ancient greece, Henbane served as a poison, to mimic insanity, and
+in [[psychedelic-use-in-ancient-greece]], Henbane served as a poison, to mimic insanity, and
 to enable man to prophesy. It has been suggested that the priestesses
 at the Oracle of Delphi made their prophetic utterances while
 intoxicated with the smoke from Henbane seeds. The Oracle of Delphi
@@ -80,7 +80,7 @@ between consciousness and sleep.
 
 The name "Henbane" derives from the belief that the seeds, when fed
 to poultry, produced intoxicating effects. White or Yellow Henbane
-(*H. albus*) was consecrated to Apollo, god of oracles. In arthur mushroom iconography, it was one of the primary ingredients of the brews and
+(*H. albus*) was consecrated to Apollo, god of oracles. In arthur [[mckenna-sin-nannar-harran-moon-god-mushroom-iconography]], it was one of the primary ingredients of the brews and
 ointments employed by witches and sorcerers. One potent mixture,
 containing Belladonna, Henbane, Mandrake, and the fat of a stillborn
 child, was rubbed over the skin or inserted into the vagina for
@@ -99,7 +99,7 @@ ground; sometimes he would seem to skip up and then to dive down
 again."
 
 Henbane's role spans from ancient Egyptian medicine through classical
-Greek prophecy to solanaceous hallucinogens medieval, making it one of the
+Greek prophecy to [[lycanthropy-solanaceous-hallucinogens]] medieval, making it one of the
 most historically significant psychoactive plants in Western
 civilization. Its reputation as a plant of oracles, witches, and
 physicians testifies to the enduring human fascination with plants

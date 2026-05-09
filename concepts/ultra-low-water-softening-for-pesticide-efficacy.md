@@ -1,5 +1,5 @@
 ---
-title: "Water Softening for Pesticide Efficacy"
+title: "Water [[jadam-ultra-low-cost-agriculture]] water softening for pesticide efficacy Efficacy"
 created: 2026-04-28
 tags: [water-quality, water-softener, pesticide-efficacy, hard-water, ultra-low-cost]
 date: 2026-04-28
@@ -27,7 +27,7 @@ For farmers who cannot access naturally soft water, JADAM has developed
 an affordable water softener based on ion-exchange resin technology.
 The device removes Ca, Mg, and Fe ions from water as it passes through.
 
-The JADAM water softener specifications:
+The [[jadam-water-softener-pesticide]] specifications:
 - Dimensions: 150 x 1100 mm (6 x 43.3 inches)
 - Weight: 27 kg (60 lb)
 - Resin capacity: 17 L (4.5 gal) of ion-exchange resin
@@ -74,7 +74,7 @@ The difference between hard and soft water in pesticide application is
 dramatic. With soft water, JWA at 0.5 L per 500 L provides light
 wetting, at 1.5 L provides good coverage, and at 3 L provides
 excellent complete coating even on difficult surfaces like taro leaves.
-With hard water, even commercial chemical pesticides show reduced
+With hard water, even commercial [[comparison-parasitoid-wasps-vs-chemical-pesticides]] show reduced
 foaming and weakened wetting power. Water softening is therefore not
 optional but essential for effective pesticide application.
 

@@ -31,9 +31,9 @@ White Cherry Gelato is a cross between White Cherry and a Gelato-descended paren
 
 The Gelato lineage traces back to a Thin Mint Cookies × Sunset Sherbet cross, itself a product of the Cookie family. This genetic backbone provides the characteristic sweet, creamy terpene expression and frosty trichome production.
 
-The exact breeding program that produced White Cherry Gelato has not been publicly disclosed. Multiple phenotypic selections circulate under the same name, with some cuts leaning more indica-dominant and others expressing sativa-like growth patterns.
+The exact [[cervantes-breeding-program-design-goal-setting]] that produced White Cherry Gelato has not been publicly disclosed. Multiple phenotypic selections circulate under the same name, with some cuts leaning more indica-dominant and others expressing sativa-like growth patterns.
 
-Genetic stability across cuts is moderate. Growers report some variation in internode spacing, flowering time, and terpene ratios between different White Cherry Gelato clones, suggesting the original cross may not have been fully stabilized.
+Genetic [[psilocybin-level-stability-across-flushes]] cuts is moderate. Growers report some variation in internode spacing, flowering time, and terpene ratios between different White Cherry Gelato clones, suggesting the original cross may not have been fully stabilized.
 
 ## Appearance
 
@@ -59,7 +59,7 @@ The flavor profile is consistently rated as one of the most dessert-like among m
 
 ### Dominant Terpenes
 
-**Caryophyllene** is typically the dominant terpene, contributing peppery and spicy notes. It is the only known terpene to interact directly with the endocannabinoid system via CB2 receptor binding.
+**Caryophyllene** is typically the dominant terpene, contributing peppery and spicy notes. It is the only known terpene to interact directly with the endocannabinoid system via CB2 [[tihkal-receptor-binding-serotonin]].
 
 **Limonene** provides bright citrus and cherry-like top notes. It is associated with mood elevation and stress relief, complementing the strain's uplifting effects.
 
@@ -81,7 +81,7 @@ The experience is generally well-balanced, making it suitable for both daytime a
 
 Common applications include stress relief, mild pain management, and social anxiety reduction. Less commonly, users report benefits for insomnia when consumed in larger doses near bedtime.
 
-Adverse effects are typical of high-THC varieties: dry mouth, dry eyes, and occasional paranoia in sensitive individuals or at high doses. Greening out is possible with overconsumption.
+[[blesching-cannabis-safety-adverse-effects-evidence]] are typical of high-THC varieties: dry mouth, dry eyes, and occasional paranoia in sensitive individuals or at high doses. Greening out is possible with overconsumption.
 
 ### Medical Applications
 
@@ -95,13 +95,13 @@ Its sedative tail-end at higher doses has been reported helpful for sleep-onset 
 
 Flowering time indoors is 8 to 9 weeks from the onset of the photoperiod shift. Outdoor harvest in the Northern Hemisphere falls between late September and mid-October.
 
-Indoor yields average 350 to 450 grams per square meter under optimal conditions. The plants respond well to training techniques including low-stress training, topping, and scrog methods.
+Indoor yields average 350 to 450 grams per square meter under optimal conditions. The plants respond well to [[cannabis-training-techniques-comparison]] including low-stress training, topping, and scrog methods.
 
 The strain is considered moderately difficult to cultivate. It is sensitive to overfeeding, particularly nitrogen during the flowering phase, which can diminish terpene production and affect bud quality.
 
 Temperature control during late flowering is important for color development. Cooler night temperatures (below 18°C) promote the purple hues that are characteristic of well-grown White Cherry Gelato.
 
-Plants exhibit moderate resistance to common pathogens but are susceptible to powdery mildew in high-humidity environments. Adequate airflow and spacing between plants are recommended.
+Plants exhibit moderate resistance to common pathogens but are susceptible to [[cervantes-powdery-mildew-prevention-treatment]] in high-humidity environments. Adequate airflow and spacing between plants are recommended.
 
 Outdoor cultivation is viable in Mediterranean and warm temperate climates. Plants can reach heights of 150 to 200 cm outdoors with substantial lateral branching. Greenhouse production produces the highest quality buds due to improved light penetration and climate control.
 
@@ -109,8 +109,10 @@ Clone-only cuts are the preferred propagation method as seed-grown plants show s
 
 ## See Also
 
+- [[lemon-cherry-gelato]]
+
 - [[sunset-sherbet]]
 - [[og-kush]]
-- [[wedding-cake-cannabis]]
+- [[wedding-cake]]
 - [[kush-mints]]
 - [[cereal-milk]]

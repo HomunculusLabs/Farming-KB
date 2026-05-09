@@ -1,5 +1,5 @@
 ---
-title: AL (4-Allyloxy-3,5-dimethoxyphenethylamine) - PIHKAL Entry #2
+title: AL (4-Allyloxy-3,5-dimethoxyphenethylamine) - 2c-b-pihkal-entry-20 #2
 created: 2026-04-28
 tags: [pihkal, phenethylamine, mescaline-analogue, allyloxy-compound, psychedelic]
 date: 2026-04-28
@@ -11,7 +11,7 @@ type: concept
 
 # AL (4-Allyloxy-3,5-dimethoxyphenethylamine)
 
-**PIHKAL Entry #2**
+**[[2c-b-pihkal-entry-20]] #2**
 
 ## Chemical Identity
 
@@ -123,4 +123,4 @@ significant in that it creates a fairly large substituent without the
 electron-withdrawing properties of halogens or the electron-donating
 properties of methoxy groups. This makes it a useful probe for
 understanding the role of steric bulk versus electronic effects in
-serotonin receptor binding.
+serotonin [[tihkal-receptor-binding-serotonin]].

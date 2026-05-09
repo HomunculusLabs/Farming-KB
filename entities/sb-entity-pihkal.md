@@ -1,5 +1,5 @@
 ---
-title: "SB (SYMBESCALINE; 3,5-DIETHOXY-4-METHOXYPHENETHYLAMINE) -- PIHKAL Entry #144"
+title: "SB (SYMBESCALINE; 3,5-DIETHOXY-4-METHOXYPHENETHYLAMINE) -- 2c-b-pihkal-entry-20 #144"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -71,7 +71,7 @@ dispersed to a fine texture. The organic phase was separated and the
 aqueous phase extracted with 2x100 mL Et2O. The organic phases were
 combined, evaporated under vacuum, and the off-white residue dissolved
 in 100 mL MeOH. This cloudy solution was cooled (ice bath) and, with
-stirring, 20 mL of 35% hydrogen peroxide was added portionwise, . The
+stirring, 20 mL of 35% [[cervantes-hydrogen-peroxide-sterilization]] was added portionwise, . The
 reaction was allowed to continue stirring for 15 min, and then with
 the addition of 600 mL H2O, crystalline solids were formed. These
 were removed, washed with H2O, and upon drying yielded 15.4 g of
@@ -89,7 +89,7 @@ appropriately depressed (mp 137-140 deg C.).
 A solution of 7.6 g 2,6-diethoxyphenol in 40 mL MeOH was treated with
 4.9 g of a 40% aqueous solution of dimethylamine followed by 3.6 g of
 a 40% aqueous solution of formaldehyde. The mixture was heated 1 h on
-the steam bath, and all volatiles were removed under vacuum. The
+the [[scythian-cannabis-steam-bath-ritual]], and all volatiles were removed under vacuum. The
 residual dark oil was dissolved in 36 mL IPA and 10.3 g of methyl
 iodide was added. There was spontaneous heating, and the deposition
 of fine white solids. After standing for 10 min, these were removed
@@ -98,7 +98,7 @@ of fine white solids. After standing for 10 min, these were removed
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

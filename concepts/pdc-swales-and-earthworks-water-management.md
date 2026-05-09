@@ -1,35 +1,14 @@
 ---
-title: Swales and Earthworks Water Management
+title: mollison-course-swales-and-earthworks-design water-management
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [[permaculture, design, soil, water]
-sources: [raw/papers/bill-mollison-permaculture-design-course.md]
+tags: [permaculture, design, soil, water]
+sources: sources: []
 ---
-
-# Swales and Earthworks Water Management
-
-updated: 2026-04-18
-
-Swales and earthworks are foundational tools in [[pdc-earthworks-and-earth-resources]] and work in concert with [[pdc-water-harvesting-design]]. The formula for rainwater collection applies to all surfaces:
-
-- Square Feet x Inches of Rain x 600 / 1,000 = Gallons collected
-
-For every 1,000 square feet of surface area, one inch of rain yields 600 gallons. Earthworks capture water from the ground surface itself, while cisterns capture from roofs. A complete design accounts for both strategies and captures every drop that falls on site.
-
-## Erosion Control
-
-Unchecked water flows literally wash topsoil away. A combined erosion control strategy uses:
-- **Ground covers** -- Grasses, shrubs, and ground vines whose root systems physically hold soil in place
-- **Shade** -- Plant leaves protect the ground from direct sun, preventing drying and wind erosion
-- **Berms and swales** -- Slow water flow across slopes, preventing concentration into erosive channels
-- **Wind breaks** -- Reduce wind load, preventing soil from blowing away when dry
-- **Evaporation reduction** -- Windbreaks and shade lower evaporation rates, keeping soil moist and cohesive
-
-The beauty of this approach is that the more plants used to protect soil, the healthier the soil ecosystem becomes -- erosion control and soil building work synergistically.
-- [[urban-permaculture-swales-raised-beds]]
+# Swales and Earthworks Water Management updated: 2026-04-18 Swales and earthworks are foundational tools in pdc-earthworks-and-earth-resources and work in concert with pdc-water-harvesting-design. The formula for rainwater collection applies to all surfaces: - Square Feet x Inches of Rain x 600 / 1,000 = Gallons collected For every 1,000 square feet of surface area, one inch of rain yields 600 gallons. Earthworks capture water from the ground surface itself, while cisterns capture from roofs. A complete design accounts for both strategies and captures every drop that falls on site. ## Erosion Control Unchecked water flows literally wash topsoil away. A combined erosion control strategy uses: - **Ground covers** -- Grasses, shrubs, and ground vines whose root systems physically hold soil in place - **Shade** -- Plant leaves protect the ground from direct sun, preventing drying and wind erosion - **Berms and swales** -- Slow water flow across slopes, preventing concentration into erosive channels - **Wind breaks** -- Reduce wind load, preventing soil from blowing away when dry - **Evaporation reduction** -- Windbreaks and shade lower evaporation rates, keeping soil moist and cohesive The beauty of this approach is that the more plants used to protect soil, the healthier the soil ecosystem becomes -- erosion control and soil building work synergistically. - [[urban-permaculture-swales-raised-beds]]
 - [[teaming-with-nutrients-essential-plant-nutrients]]
-- [[pdc-implementation-planning-and-management]]
+- pdc-implementation-planning-and-management
 ## Practical Applications
 
 Swales and Earthworks Water Management has a range of practical applications that make it relevant to
@@ -47,7 +26,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -97,7 +76,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -107,4 +86,5 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[ozier-pdc-hydro-cycle-and-watershed-management]]

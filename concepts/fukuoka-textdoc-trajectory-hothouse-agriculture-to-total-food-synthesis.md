@@ -1,5 +1,5 @@
 ---
-title: "Trajectory from Hothouse Agriculture to Total Food Synthesis"
+title: "Trajectory from fukuoka textdoc trajectory hothouse agriculture to total food synthesis to Total Food Synthesis"
 created: 2026-04-28
 tags: [fukuoka, natural-farming, food-synthesis, hothouse-agriculture, hydroponics, artificial-food, petroleum-agriculture, decline]
 date: 2026-04-28
@@ -54,7 +54,7 @@ damage or blight.
 ## Stage Two: Optimized Artificial Growth
 
 Since root absorption of nutrients dissolved in water is
-inefficient, the nutrient solution is sprayed on a regular
+inefficient, the [[cannabis-nutrient-solution-preparation]] is sprayed on a regular
 basis over the entire plant. Nutrients are taken in not only
 through the roots but also through leaf surfaces, making them
 more immediately available and resulting in a higher growth
@@ -71,7 +71,7 @@ damage.
 
 ## Stage Three: Total Chemical Synthesis
 
-Artificial cultivation leads ultimately to the total synthesis
+[[fukuoka-matsutake-artificial-cultivation-attempt]] leads ultimately to the total synthesis
 of food. The creation of factories for purely chemical food
 synthesis that will render farms and gardens unnecessary is
 already underway.
@@ -105,7 +105,7 @@ again.
 The amount of sunlight a field receives is fixed, and the
 yield of rice depends on the amount of sunlight that shines
 on that area. No degree of human tampering with the other
-conditions of rice cultivation can change the upper limit in
+conditions of [[jadam-rice-cultivation-methods]] can change the upper limit in
 the rice yield. What humanity believes to be high-yielding
 technology is just an attempt to approach the limits of
 natural yields; more accurately, it is just an effort to
@@ -135,9 +135,12 @@ end in vain.
 ## The Vicious Cycle
 ## See Also
 
+- [[fukuoka-textdoc-hothouse-hydroponic-agriculture-decline]]
+- [[fukuoka-food-synthesis-trajectory]]
+
 - [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
-  for energy efficiency calculations
+  for [[fukuoka-textdoc-energy-efficiency-agricultural-labor]] calculations
 - [[fukuoka-textdoc-decline-quality-food]] for quality
   deterioration
 - [[fukuoka-textdoc-genetic-engineering-critique-warning]] for
-  Fukuoka's warning about genetic engineering
+  Fukuoka's warning about [[fukuoka-textdoc-genetic-engineering-critique-warning]]

@@ -1,17 +1,17 @@
 ---
-title: Holzer Pig Keeping and Paddock System
+title: Holzer holzer pig keeping paddock system and Paddock System
 created: 2026-04-21
 updated: 2026-04-22
 type: concept
 tags: [holzer, permaculture, homesteading, livestock]
 sources:
-  - "Sepp Holzer - Desert or Paradise"
+  - "comparison-sepp-holzer-vs-biodynamic - Desert or Paradise"
   - "Sepp Holzer - A Practical Guide to Small-Scale Integrative Farming and Gardening"
 ---
 
 # Holzer Pig Keeping and Paddock System
 
-Pigs play a central role in the integrated farming system at the Krameterhof. Sepp Holzer raises old and endangered pig breeds in a paddock system that keeps all animals outside year-round. The pigs serve multiple functions: soil preparation, pest control, fertilization, and ultimately meat production. Their integration into the broader farm ecosystem exemplifies the [[sepp-holzer-terrace-systems-and-raised-beds]] approach.
+Pigs play a central role in the integrated farming system at the Krameterhof. Sepp Holzer raises old and endangered pig breeds in a paddock system that keeps all animals outside year-round. The pigs serve multiple functions: soil preparation, [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], fertilization, and ultimately meat production. Their integration into the broader farm ecosystem exemplifies the [[sepp-holzer-terrace-systems-and-raised-beds]] approach.
 
 ## Fencing and Management
 
@@ -25,9 +25,9 @@ Pigs serve as a good example of the cyclical nature of [[holzer-raised-bed-desig
 
 Holzer's approach to breeding emphasizes natural selection and minimal intervention. Breeding animals are chosen for hardiness, temperament, and mothering ability rather than for maximum growth rate alone. Piglets are born outdoors and raised by their mothers in the paddock system, which produces robust animals well-adapted to the farm environment.
 
-The avoidance of indoor farrowing crates and concentrated feeds aligns with [[holzer-raised-bed-design-principles]] or field crop establishment. Their rooting activity during the 4-8 weeks before planting breaks up compacted soil, incorporates residual organic matter, and deposits manure that provides a slow-release fertility source. Once the pigs are rotated out, the prepared land is immediately planted — often with root crops, potatoes, or pumpkin that benefit from the loosened soil profile.
+The avoidance of indoor farrowing crates and concentrated feeds aligns with [[holzer-raised-bed-design-principles]] or field crop establishment. Their rooting activity during the 4-8 weeks before planting breaks up compacted soil, incorporates residual [[hamilton-composting-and-organic-matter-management]], and deposits manure that provides a slow-release fertility source. Once the pigs are rotated out, the prepared land is immediately planted — often with root crops, potatoes, or pumpkin that benefit from the loosened soil profile.
 
-For orchard establishment, pigs are run through future fruit tree planting areas in the autumn before spring planting. Their deep rooting opens soil profiles to the depth needed for tree root establishment, and their manure provides the fertility that young trees need during their critical establishment years. This preparation replaces the heavy machinery and imported compost that conventional orchard establishment requires.
+For [[fukuoka-citrus-orchard-establishment-bare-hillside]], pigs are run through future fruit tree planting areas in the autumn before spring planting. Their deep rooting opens soil profiles to the depth needed for tree root establishment, and their manure provides the fertility that young trees need during their critical establishment years. This preparation replaces the heavy machinery and imported compost that conventional orchard establishment requires.
 
 A particularly elegant integration involves intercropping within pig paddocks. Holzer sows peas, beans, or sweetcorn in areas where he wants pigs to concentrate their rooting activity. The pigs are attracted to these crops and focus their disturbance accordingly, allowing the farmer to precisely direct soil preparation to specific zones without fencing.
 
@@ -54,7 +54,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -96,4 +96,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

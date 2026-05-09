@@ -1,18 +1,13 @@
 ---
-title: Fungal Degradation of Chlorophenols and BTEX Compounds
+title: singh-fungal-degradation-endocrine-disrupting-compounds of Chlorophenols and BTEX Compounds
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology, fungi]
-sources: []
+tags: [mycology, fungi]
+sources:
+  sources: []
 ---
-# Fungal Degradation of Chlorophenols and BTEX Compounds
-
-Chlorinated monoaromatic compounds and BTEX (benzene, toluene, ethylbenzene, xylene) represent important classes of environmental pollutants. Fungi, particularly [[cellulase-enzyme-systems-in-fungi]] that evolved to break down the complex aromatic polymer lignin.
-
-## Chlorophenols as Priority Pollutants
-
-Chlorophenols are widespread in terrestrial and aquatic ecosystems and are listed as priority pollutants. Pentachlorophenol (PCP) has been widely used as a wood preservative and biocide, while other chlorophenols serve as precursors for herbicide synthesis. A variety of microorganisms can degrade PCP, primarily through pathways involving dechlorination, hydroxylation, and [[enzymatic-degradation-in-mycoremediation]] using wood components like lignocellulose as their primary carbon source.
+# Fungal Degradation of Chlorophenols and BTEX Compounds Chlorinated monoaromatic compounds and BTEX (benzene, toluene, ethylbenzene, xylene) represent important classes of environmental pollutants. Fungi, particularly cellulase-enzyme-systems-in-fungi that evolved to break down the complex aromatic polymer lignin. ## Chlorophenols as Priority Pollutants Chlorophenols are widespread in terrestrial and aquatic ecosystems and are listed as priority pollutants. Pentachlorophenol (PCP) has been widely used as a wood preservative and biocide, while other chlorophenols serve as precursors for herbicide synthesis. A variety of microorganisms can degrade PCP, primarily through pathways involving dechlorination, hydroxylation, and [[enzymatic-degradation-in-mycoremediation]] using wood components like lignocellulose as their primary carbon source.
 
 ## PCP Degradation Pathways
 
@@ -34,13 +29,13 @@ Multiple [[singh-fungal-consortia-synergistic-biodegradation]]
 
 ## Environmental Factors Affecting Degradation
 
-Several factors influence the rate and extent of chlorophenol and BTEX degradation by fungi:
+Several factors influence the rate and extent of chlorophenol and BTEX [[query-how-does-lignin-degradation-by-fungi-work]]:
 
-- **Soil type** -- the percentage of PCP converted to pentachloroanisole versus soil-bound products depends on the type of soil. Sorption to soil organic matter affects [[fungal-bioreactor-effluent-treatment]] to enhance chlorophenol degradation rates.
+- **Soil type** -- the percentage of PCP converted to pentachloroanisole versus soil-bound products depends on the type of soil. Sorption to soil [[hamilton-composting-and-organic-matter-management]] affects fungal-bioreactor-effluent-treatment to enhance chlorophenol degradation rates.
 
 ## See Also
 
-- [[fungal-methylation-oxidative-coupling]]
+- fungal-methylation-oxidative-coupling
 
 - [[mycoremediation-enzymology]]
 
@@ -65,7 +60,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +102,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

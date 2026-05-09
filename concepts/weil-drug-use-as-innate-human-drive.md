@@ -17,14 +17,14 @@ In *The Natural Mind* (1972), Andrew Weil advances the thesis that the desire to
 
 Weil grounds his argument in extensive cross-cultural evidence. He observes that no known human society has ever existed without some institutionalized practice of consciousness alteration. Indigenous societies around the world have developed sophisticated pharmacopoeias of psychoactive plants:
 
-- **Ayahuasca** (Banisteriopsis caapi + Psychotria viridis) in the Amazon — used in shamanic ceremonies for healing, divination, and communal bonding across dozens of indigenous groups.
-- **Peyote** (Lophophora williamsii) in North America — central to the Native American Church and used by Huichol, Tarahumara, and other peoples for centuries.
-- **Psilocybin mushrooms** (teonanacatl, "flesh of the gods") in Mesoamerica — documented in pre-Columbian codices and continuing in Mazatec and other indigenous traditions.
-- **Kava** (Piper methysticum) in the Pacific Islands — used socially and ceremonially across Polynesia, Melanesia, and Micronesia.
-- **Iboga** (Tabernanthe iboga) in West Africa — central to Bwiti initiation ceremonies in Gabon.
+- **Ayahuasca** ([[banisteriopsis-caapi]] + [[psychotria-viridis]]) in the Amazon — used in shamanic ceremonies for healing, divination, and communal bonding across dozens of indigenous groups.
+- **Pe  lliamsii) in [[psilocybin-north-america-pacific-northwest]] — central to the Native American Church and used by Huichol, Tarahumara, and other peoples for centuries.
+[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] ooms** (teonanacatl, "flesh of the gods") in Mesoamerica — documented in pre-Columbian codices and continuing in Mazatec and other indigenous traditions.
+- **Kava** ([[piper-methysticum]]) in the Pacific Islands — used socially and ceremonially across Polynesia, Melanesia, and Micronesia.
+- **Iboga** ([[tabernanthe-iboga]]) in West Africa — central to [[mckenna-iboga-tabernanthe-ibogaine-fang-bwiti-initiation-cult]] ceremonies in Gabon.
 - **Cannabis** across Asia, Africa, and the Middle East — used in religious, medical, and social contexts for millennia.
-- **Amanita muscaria** in Siberia — used by shamans for divination and journeying.
-- **Morning glory seeds** (ololiuqui) and **Datura** in Mesoamerica — used in Aztec and other traditions.
+- **[[amanita-muscaria]]** in Siberia — used by shamans for divination and journeying.
+- **[[golden-guide-morning-glory-and-ololiuqui]] seeds** (ololiuqui) and **Datura** in Mesoamerica — used in Aztec and other traditions.
 - **Betel nut** across Southeast Asia and the Pacific — the world's most widely used psychoactive after caffeine, nicotine, and alcohol.
 
 The universality of this practice, Weil argues, strongly suggests a biological substrate rather than a purely cultural phenomenon. Just as the near-universality of language suggests an innate language faculty (as Chomsky was arguing at roughly the same time), the near-universality of consciousness-altering practices suggests an innate drive for non-ordinary experience.
@@ -67,9 +67,9 @@ This distinction is crucial for drug policy. If the problem is the drive itself,
 
 Weil's argument gains additional support from ethological research (some of which postdates the book). Many animals voluntarily consume psychoactive substances:
 
-- Cats respond to catnip (Nepeta cataria) with characteristic behavioral changes
+- Cats respond to catnip ([[nepeta-cataria]]) with characteristic behavioral changes
 - Elephants, horses, and other mammals seek out fermented fruit
-- Reindeer in Siberia deliberately seek out and consume Amanita muscaria mushrooms
+- Reindeer in Siberia deliberately seek out and consume [[allegro-amanita-muscaria-properties-and-pharmacology]] mushrooms
 - Lemurs in Madagascar consume millipedes that secrete toxic benzoquinone compounds, apparently for the psychoactive effects
 - Bees and butterflies seek out psychoactive nectars
 - Dolphins have been observed passing pufferfish around to consume small amounts of tetrodotoxin
@@ -109,7 +109,7 @@ One of Weil's most important contributions is the distinction between the innate
 
 - **Drug-specific problems are context-dependent.** Heroin addiction is not caused by heroin itself but by the intersection of a powerful substance with a social environment that provides no healthy framework for its use. In contexts where opium is used ritually (as in some traditional Asian societies), problematic patterns of use are far less common.
 - **Cultural change can reduce drug problems without eliminating the drive.** If problematic drug use is primarily a function of cultural context rather than of the substances themselves, then changing the cultural context should reduce problems. This prediction is supported by Portugal's experience with drug decriminalization: after decriminalization in 2001, drug-related deaths, HIV infection rates, and problematic use all declined significantly.
-- **Substitution is possible.** If the drive is for altered consciousness rather than for any specific substance, then providing healthier means of satisfying the drive should reduce demand for harmful substances. This is the logic behind harm reduction programs that offer safer alternatives (methadone maintenance, supervised injection sites) and the growing interest in psychedelic therapy as an alternative to pharmaceutical treatment of mental health conditions.
+- **Substitution is possible.** If the drive is for altered consciousness rather than for any specific substance, then providing healthier means of satisfying the drive should reduce demand for harmful substances. This is the logic behind harm reduction programs that offer safer alternatives (methadone maintenance, supervised injection sites) and the growing interest in [[metzner-psycholytic-psychedelic-therapy-models]] as an alternative to pharmaceutical treatment of mental health conditions.
 - **Individual variation is expected.** Just as people vary in the strength of their hunger, sex, or sleep drives, they should vary in the strength of their intoxication drive. This variation is not a sign of pathology but of normal biological diversity.
 
 ## The Harm Reduction Connection

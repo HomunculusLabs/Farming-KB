@@ -1,5 +1,5 @@
 ---
-title: Chickweed and Edible Weeds in Permaculture
+title: mollison designers chickweed and edible weeds Weeds in Permaculture
 created: 2026-04-28
 tags:
   - permaculture
@@ -25,11 +25,11 @@ them as productive elements within mollison designers zone one garden
 systems and broader [[permaculture-design]]. They are
 self-seeding, drought-tolerant, and require zero inputs of fertilizer or
 irrigation once established. Mollison emphasised that weeds are nature's
-way of covering bare soil and initiating ecological succession. By
+way of covering bare soil and initiating [[holmgren-ecological-succession-and-pulsing]]. By
 recognising which volunteers are edible or otherwise useful, the designer
 converts a perceived problem into a productive yield.
 
-Weeds serve multiple functions simultaneously: they provide ground cover
+Weeds serve multiple functions simultaneously: they provide [[fukuoka-citrus-orchard-ground-cover-cultivation]]
 that prevents erosion and moderates soil temperature, their roots break
 compacted subsoil layers, and many are [[mollison-designers-humus-building-and-soil-organic-matter]].
 
@@ -49,7 +49,7 @@ to prevent it from overwhelming slower seedlings.
 ### Purslane (Portulaca oleracea)
 
 Purslane is a succulent annual that Mollison singles out for its
-remarkable nutritional profile. It contains more omega-3 fatty acids
+remarkable nutritional profile. It contains more omega-3 [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]
 than any other leafy green plant and is rich in vitamins A, C, and E
 as well as magnesium, calcium, and potassium. Purslane thrives in hot,
 dry conditions where many cultivated greens fail, making it an excellent
@@ -74,7 +74,7 @@ nutrient status that inform broader design decisions.
 
 ## Cross-References
 
-- mollison designers zone one garden: Intensive garden management
+- mollison designers zone one garden: [[comparison-zone-1-intensive-garden-vs-zone-5-wilderness]] management
 - [[mollison-designers-humus-building-and-soil-organic-matter]]: Soil improvement
-- mollison designers nutrient cycling: Mineral accumulation cycles
+- mollison designers [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]: Mineral accumulation cycles
 - [[herbal-medicine]]: Medicinal weed species

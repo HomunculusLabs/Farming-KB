@@ -1,5 +1,5 @@
 ---
-title: "beta-D -- 3,4,5-TRIMETHOXY-beta,beta-DIDEUTEROPHENETHYLAMINE -- PIHKAL Entry #51"
+title: "beta-D -- 3,4,5-TRIMETHOXY-beta,beta-DIDEUTEROPHENETHYLAMINE -- 2c-b-pihkal-entry-20 #51"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -51,7 +51,7 @@ PIHKAL entry #51. 3,4,5-TRIMETHOXY-beta,beta-DIDEUTEROPHENETHYLAMINE.
 > the past, the unbridled passion to vanquish everything. I could see
 > how such misguided power could lead nations to war. Wanting still
 > more power, I was about to find out if God would grant me the power to
-> destroy [[permaculture-cycles-and-niches-in-time]] to save the world.
+> destroy permaculture-cycles-and-niches-in-time to save the world.
 >
 > (with 275 mg) Never had I had such a magnificent appreciation of God.
 > It was clear that if I minded my business and turned to Him to learn
@@ -99,7 +99,7 @@ To a solution of 13.6 g homosyringonitrile (see under ESCALINE for its preparati
 
 A solution of 20.6 g of 3,4,5-trimethoxphenylacetonitrile in 70 g pyridine was treated with 15 mL 99+% D2O and held at reflux for 24 h. All volatiles were stripped first under vacuum and finally with a hard vacuum at room temperature in a Kugelrohr apparatus. The dark residue was treated again with another 30 mL pyridine and another 15 mL 99+% D2O. The flask was protected with a drying tube and held at reflux for another 24 h. Again, all volatiles were stripped, and the residue distilled at 110-130 deg C at 0.25 mm/Hg to yield 16.77 g of an almost white solid. The GCMS verified this chemical to be 3,4,5-trimethoxy-beta,beta-dideuterophenylacetonitrile, with a parent peak at m/e 209 and no visible peak at m/e 207.
 
-A solution of 250 mL of 1 M LAH in THF was cooled under He to 0 deg C and treated with 6.8 mL 100% H2SO4 added very slowly with vigorous stirring. A solution of 18.23 g 3,4,5-trimethoxy-beta,beta-dideuterophenyl-acetonitrile in 200 mL anhydrous THF was added slowly, and following the addition stirring was continued for 20 min. The reaction mixture was brought to a reflux for 30 min on a steam bath, cooled again to 0 deg C, and the excess hydride destroyed with 15 mL IPA. About 10 mL of 15% NaOH was required to convert the solids to a filterable white consistency. These were removed by filtration, the cake washed with IPA, the filtrates and washes were combined, and the solvent removed under vacuum leaving 17 g of a white oil as residue. This was dissolved in 2 L dilute H2SO4, washed with 3x75 mL CH2Cl2, made basic with aqueous NaOH, and then extracted with 3x75 mL CH2Cl2. Removal of the solvent from these extracts under vacuum yielded 10.3 g of a colorless oil
+A solution of 250 mL of 1 M LAH in THF was cooled under He to 0 deg C and treated with 6.8 mL 100% H2SO4 added very slowly with vigorous stirring. A solution of 18.23 g 3,4,5-trimethoxy-beta,beta-dideuterophenyl-acetonitrile in 200 mL anhydrous THF was added slowly, and following the addition stirring was continued for 20 min. The reaction mixture was brought to a reflux for 30 min on a [[scythian-cannabis-steam-bath-ritual]], cooled again to 0 deg C, and the excess hydride destroyed with 15 mL IPA. About 10 mL of 15% NaOH was required to convert the solids to a filterable white consistency. These were removed by filtration, the cake washed with IPA, the filtrates and washes were combined, and the solvent removed under vacuum leaving 17 g of a white oil as residue. This was dissolved in 2 L dilute H2SO4, washed with 3x75 mL CH2Cl2, made basic with aqueous NaOH, and then extracted with 3x75 mL CH2Cl2. Removal of the solvent from these extracts under vacuum yielded 10.3 g of a colorless oil
 
 which was distilled at 120-130 deg C at 0.3 mm/Hg to p...
 
@@ -112,3 +112,7 @@ beta-D is a research chemical documented in PIHKAL. Dosage data [[2c-o-4-entity-
 
 - PIHKAL (Shulgin & Shulgin, 1991)
 - Related phenethylamine compounds in PIHKAL
+
+## See Also
+
+- [[beta-d-entity]]

@@ -1,5 +1,5 @@
 ---
-title: George Washington Carver - Plant Intuition and Agricultural Alchemy
+title: tompkins george washington carver plant alchemy Carver - Plant Intuition and Agricultural Alchemy
 created: 2026-04-26
 tags: [history, agriculture, botany, biography]
 date: 2026-04-25
@@ -13,9 +13,9 @@ type: concept
 
 George Washington Carver (c. 1864-1943) was an agricultural chemist
 who overcame the handicap of his slave descent to become one of the
-most remarkable figures in American agricultural history. With methods
+most remarkable figures in [[fukuoka-american-agricultural-decline]] history. With methods
 as incomprehensible to his fellow scientists as those of the alchemists,
-Carver transformed the lowly peanut and the unknown sweet potato into
+Carver transformed the lowly peanut and the unknown [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]] into
 hundreds of products, ranging from cosmetics and axle grease to
 printer's ink and coffee.
 
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

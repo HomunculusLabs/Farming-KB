@@ -17,7 +17,7 @@ When the resin of the cannabis plant is collected together into black sticky bal
 its effects are comparable to the power of a hallucinogen, providing that the material
 is eaten. This concentrated resin is the classic hashish. The thousands of names by
 which cannabis is known in hundreds of languages are testament not only to its
-cultural history and ubiquity but also its power to move the language-making faculty
+[[amanita-muscaria-cultural-history]] and ubiquity but also its power to move the language-making faculty
 of the poetic soul. Kunubu it is called in an Assyrian letter tentatively dated 685
 B.C.; a hundred years later it is referred to as kannapu, the root of the Greek and
 Latin cannabis. It is bang, beng, and bhang; it is ganja, gangika, and ganga. Asa to
@@ -33,7 +33,7 @@ worshiped a jolly green goddess.
 ## Hashish in Antiquity
 
 Hashish is several thousands of years old, although at what point human beings began
-to gather and concentrate cannabis resin in this way is not clear. Smoking of cannabis
+to gather and concentrate [[cannabis-resin-production-and-quality-traits-clarke]] in this way is not clear. Smoking of cannabis
 products, the most efficient and rapid way of obtaining their effects, reached Europe
 rather late. In fact, smoking itself was only introduced into Europe when Columbus
 returned with tobacco from his second trip to the New World. This is rather remarkable:
@@ -44,7 +44,7 @@ plant extracts, was also developed in the New World, by Indians of the equatoria
 Amazonian forests to whom natural rubber was familiar.
 
 It is not possible to say with certainty when cannabis was first smoked or, indeed,
-whether smoking was once part of the cultural repertoire of Old World peoples and then
+whether smoking was once part of the cultural repertoire of [[datura-metel-old-world-ethnobotany]] peoples and then
 forgotten, only to be reintroduced from the New World at the time of the Spanish
 Conquest. For while smoking was unknown to the Greeks and the Romans, it may have
 flourished in the Old World in prehistoric times. Archaeological digging at Non Nak
@@ -107,8 +107,8 @@ and awareness that a society sanctions. Each plant relationship will tend to
 accentuate some concerns and diminish others.
 
 Outpourings of style and esthetically managed personal display are usually anathema
-to the nuts-and-bolts mentality of dominator cultures. The longer hair lengths for
-men seen with the rise of marijuana use in the United States in the 1960s were a
+to the nuts-and-bolts mentality of [[archaic-revival-partnership-vs-dominator-cultures]]. The longer hair lengths for
+men seen with the rise of marijuana use in the [[dmt-containing-plants-united-states-halpern]] in the 1960s were a
 textbook case of an influx of apparently feminine values accompanying the use of a
 boundary-dissolving plant. The hysterical reaction to such a minor adjustment in
 folkways revealed the insecurity and sense of danger felt by the male ego in the

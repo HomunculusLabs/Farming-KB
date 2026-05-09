@@ -1,5 +1,5 @@
 ---
-title: Design Methods and Site Analysis
+title: mollison-designers-design-methods-analysis and Site Analysis
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,13 +10,13 @@ tags: [design]
 
 # Design Methods and Site Analysis
 
-There is no one true design process -- design is a creative endeavor and can vary from individual to individual. However it is good to have a design process outlined to follow for two main reasons: if you have never designed before you may need structure, and if you are in a design team you all need to agree on a group process to integrate design ideas in a timely and efficient manner.
+There is no one true [[hemenway-garden-design-process-observation-and-visioning]] -- design is a creative endeavor and can vary from individual to individual. However it is good to have a design process outlined to follow for two main reasons: if you have never designed before you may need structure, and if you are in a design team you all need to agree on a group process to integrate design ideas in a timely and efficient manner.
 
 ## Design Process Steps
 
-The recommended Permaculture design process follows these major phases:
+The recommended [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] process follows these major phases:
 
-1. **Get a client and a site** -- the best way to look for Permaculture clients is to be part of a community, such as your local Permaculture guild.
+1. **Get a client and a site** -- the best way to look for Permaculture clients is to be part of a community, such as your local [[query-what-is-a-permaculture-guild-and-how-do-i-design-one]].
 2. **Assemble team** -- teams should be composed of people with some level of expertise in various Permaculture elements: gardeners, builders, landscapers, illustrators, community organizers. It is not necessary that everyone have a PDC, though it would help.
 3. **Organize design team** -- use an organizational structure such as the Organizational Mandala where each member is a Design Steward responsible for specific tasks. Each task must be assigned to someone.
 4. **Analysis** -- before making ANY design decisions, analyze the site thoroughly.
@@ -41,7 +41,7 @@ When zoomed in on your site, also look at all local factors: nearby roads, towns
 A Permaculture Design will always be done for a client -- even if designing for yourself, treat yourself as the client. The goal is to get into the client's head and learn to think like them. Design is a manifestation of philosophy; you are attempting to manifest your client's philosophy, not yours. The interview should cover:
 
 - How well does the client understand Permaculture?
-- Willingness to let the design progress through ecological succession stages?
+- Willingness to let the design progress through [[holmgren-ecological-succession-and-pulsing]] stages?
 - Health needs and dietary preferences
 - Physical or mental limitations
 - Budget and time frame
@@ -64,7 +64,7 @@ Observe the site for plant and animal indicator species. Their presence or absen
 
 ### Inventories
 
-Lists of available resources that already exist on the site: plants, animals, potential building materials, salvageable materials, water sources, people power, community resources, and any other relevant resources.
+Lists of available resources that already exist on the site: plants, animals, potential [[natural-building-materials-guide]], salvageable materials, water sources, people power, community resources, and any other relevant resources.
 
 ### Observation and Interaction
 
@@ -96,10 +96,10 @@ Common sectors include fire hazard, summer wind (about 80 degrees wide), winter 
 
 ## Related Pages
 
-- [[pdc-site-analysis-method]]
-- [[pdc-zone-analysis-guide]]
+- pdc-site-analysis-method
+- pdc-zone-analysis-guide
 - [[teaming-with-microbes-cover-crops-soil-health]]
 - [[gaias-garden-cover-crops-soil-building]]
 - [[cover-crops-soil-health]]
-- [[mollison-zone-and-sector-analysis]]
+- mollison-zone-and-sector-analysis
 - [[zone-sector-analysis-guide]]

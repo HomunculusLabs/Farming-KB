@@ -1,5 +1,5 @@
 ---
-title: Mdma Tolerance And Cross Tolerance
+title: Mdma mdma tolerance and [[psilocybin-tolerance-cross-tolerance]] Tolerance
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -30,7 +30,7 @@ This demonstrates rapid and nearly complete tolerance development to MDMA's subj
 
 ### Tolerance Reversal
 
-A complete drug holiday of 6 days "led to the reversal of this tolerance, in that 120 milligrams of MDMA had substantially the full expected effects." This relatively rapid recovery of sensitivity contrasts with some other psychedelic compounds where tolerance reversal may take longer.
+A complete drug holiday of 6 days "led to the reversal of this tolerance, in that 120 milligrams of MDMA had substantially the full expected effects." This relatively rapid recovery of sensitivity contrasts with some other [[psychedelic-compounds-reference]] where tolerance reversal may take longer.
 
 ## Cross-Tolerance: MDMA vs MDA
 
@@ -53,7 +53,7 @@ The tolerance/cross-tolerance data, combined with stereoselectivity findings, su
 ### MDA's Mechanism
 - Direct 5-HT2A receptor agonism (consistent with R-isomer preference shared with classic psychedelics)
 - Possibly additional dopaminergic effects
-- Different tolerance dynamics suggest different receptor populations
+- Different [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] suggest different receptor populations
 
 ## Clinical Implications
 

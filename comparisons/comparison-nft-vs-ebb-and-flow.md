@@ -1,5 +1,5 @@
 ---
-title: "NFT vs Ebb and Flow"
+title: "comparison nft vs ebb and flow and Flow"
 created: 2026-04-28
 tags: [comparison, hydroponics, growing-methods, cannabis]
 date: 2026-04-25
@@ -10,7 +10,7 @@ type: comparison
 
 # NFT vs Ebb and Flow
 
-Nutrient Film Technique (NFT) runs a thin film of aerated nutrient solution
+Nutrient Film Technique (NFT) runs a thin film of aerated [[cannabis-nutrient-solution-preparation]]
 continuously over plant roots in enclosed gullies. Ebb and Flow (also called
 flood and drain) periodically floods a growing table with nutrient solution
 on a timer, then drains it back to the reservoir. Both are proven hydroponic
@@ -45,9 +45,9 @@ plants a safety margin if equipment malfunctions occur.
 ## When to Choose NFT
 
 Choose NFT if you are an experienced hydroponic grower operating in a
-controlled indoor environment. NFT excels in sea of green (SOG) setups where
+controlled indoor environment. NFT excels in [[comparison-sea-of-green-vs-screen-of-green]] (SOG) setups where
 many small plants are grown for rapid turnover. The continuous nutrient
-delivery supports extremely fast vegetative growth, and the minimal medium
+delivery supports extremely fast [[cannabis-vegetative-growth-stage]], and the minimal medium
 makes transplanting and harvesting efficient. Water efficiency is the highest
 of any hydroponic method, making NFT attractive where water conservation is a
 priority.
@@ -84,7 +84,7 @@ for the longer flowering period.
 
 The skills developed on ebb and flow transfer naturally to NFT. Starting
 with ebb and flow builds familiarity with hydroponic nutrients, pH
-management, reservoir maintenance, and environmental control. Once these
+management, reservoir maintenance, and [[eclss-environmental-control-life-support]]. Once these
 fundamentals are solid, transitioning to NFT for higher-throughput stages
 is a logical progression.
 
@@ -101,7 +101,7 @@ Ebb and flow challenges include choosing the right flood frequency, which
 varies with plant size, medium, and environmental conditions. Overwatering
 can drown roots during flood cycles, while underwatering leaves the medium
 too dry between floods. The growing medium adds recurring cost for replacement
-between cycles and can harbor pest populations like fungus gnats if not
+between cycles and can harbor pest populations like [[query-how-to-control-fungus-gnats-organically]] if not
 managed properly. Large ebb and flow tables require substantial reservoir
 volumes and robust pumps.
 

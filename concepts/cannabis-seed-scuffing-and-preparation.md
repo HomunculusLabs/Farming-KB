@@ -1,5 +1,5 @@
 ---
-title: Cannabis Seed Scuffing and Preparation
+title: cervantes-cannabis-seed-purchasing-storage Scuffing and Preparation
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -9,13 +9,13 @@ sources: [/Users/t3rpz/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md]
 
 Updated: 2026-04-18
 
-Source: The Cannabis Grow Bible, Greg Green (Ch. 3)
+Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, Greg Green (Ch. 3)
 
 Proper seed preparation improves germination rates and speeds up the sprouting process. Greg Green describes seed scuffing and handling techniques as part of the propagation chapter.
 
 ## Why Scuff Seeds
 
-Cannabis seeds have a hard outer shell designed by nature to protect the embryo inside. In the wild, this shell would be gradually worn down by soil microbes, moisture, and natural abrasion. For the indoor grower, scuffing (scarification) mimics this natural process and:
+[[query-how-to-store-cannabis-seeds-for-long-term-viability]] have a hard outer shell designed by nature to protect the embryo inside. In the wild, this shell would be gradually worn down by soil microbes, moisture, and natural abrasion. For the indoor grower, scuffing (scarification) mimics this natural process and:
 
 - Allows moisture to penetrate the seed shell more quickly
 - Helps the embryo crack through the outer layer
@@ -47,7 +47,7 @@ Cannabis seeds have a hard outer shell designed by nature to protect the embryo 
 After scuffing, soaking seeds can further speed germination:
 
 1. Place seeds in a glass of room-temperature water (68–77°F / 20–25°C)
-2. Add a few drops of hydrogen peroxide (3%) to prevent mold — optional but recommended
+2. Add a few drops of [[cervantes-hydrogen-peroxide-sterilization]] (3%) to [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]] — optional but recommended
 3. Seeds that sink within a few hours are generally viable
 4. Seeds that float after 12–24 hours may be non-viable (though some viable seeds float initially)
 5. Soak for 12–24 hours maximum
@@ -56,7 +56,7 @@ After scuffing, soaking seeds can further speed germination:
 
 ## Handling Seeds
 
-Cannabis seeds are living organisms and must be treated carefully:
+Cannabis seeds are [[savory-living-organisms-as-tools]] and must be treated carefully:
 
 - **Avoid touching with dirty hands** — oils and contaminants from your fingers can introduce pathogens
 - **Use tweezers** when possible for handling

@@ -9,7 +9,7 @@ sources: []
 
 # Flood Preparedness Guide
 
-Floods are the most common and costly natural disaster in the United States. Homesteads near rivers, streams, low-lying areas, or in regions with intense rainfall are at elevated risk. Even areas far from waterways can experience flash flooding, storm surge, or localized flooding from overwhelmed drainage. This guide covers flood risk assessment, protection measures, evacuation, and recovery.
+Floods are the most common and costly natural disaster in the [[dmt-containing-plants-united-states-halpern]]. Homesteads near rivers, streams, low-lying areas, or in regions with intense rainfall are at elevated risk. Even areas far from waterways can experience flash flooding, storm surge, or localized flooding from overwhelmed drainage. This guide covers flood risk assessment, protection measures, evacuation, and recovery.
 
 ## Flood Risk Assessment
 
@@ -42,7 +42,7 @@ Understanding your flood risk is the first step in preparation.
 - Elevate fuel tanks and propane storage
 
 **Flood barriers:**
-- Sandbags: Place sandbags in a pyramid pattern, 3 bags high minimum, staggered like bricks. Fill sandbags 1/2 to 2/3 full. Stack against doors, garage openings, and low wall sections. One sandbag protects approximately 1 square foot of wall at 1 foot high.
+- Sandbags: Place sandbags in a pyramid pattern, 3 bags high minimum, staggered like bricks. Fill sandbags 1/2 to 2/3 full. Stack against doors, garage openings, and low wall sections. One sandbag protects approximately 1 [[comparison-biointensive-vs-square-foot-gardening]] of wall at 1 foot high.
 - Flood barriers: Commercial flood barriers (FloodSax, AquaDam) expand when wet and provide faster deployment than sandbags
 - Water-inflated cofferdams: For protecting larger areas around buildings
 - Portable flood gates: Metal or plastic panels that mount to pre-installed tracks on doorways
@@ -57,7 +57,7 @@ Understanding your flood risk is the first step in preparation.
 **Waterproofing:**
 - Apply waterproof sealant to foundation walls
 - Install backflow prevention valves on sewer lines to prevent floodwater from backing up into the house
-- Use water-resistant building materials (concrete, tile, closed-cell foam insulation) in flood-prone areas
+- Use water-resistant [[natural-building-materials-guide]] (concrete, tile, closed-cell foam insulation) in flood-prone areas
 - Raise electrical outlets and switches above projected flood levels
 
 ### Sandbagging Guide
@@ -131,7 +131,7 @@ In addition to standard emergency supplies, include:
 
 ### Cleanup
 - Pump out standing water as soon as possible (generator-powered pump if electricity is out)
-- Remove all wet materials (carpet, drywall, insulation, furniture) within 24-48 hours to prevent mold
+- Remove all wet materials (carpet, drywall, insulation, furniture) within 24-48 hours to [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]]
 - Disinfect all surfaces with a solution of 1 cup bleach per gallon of water
 - Run fans and dehumidifiers continuously
 - Document all damage with photos and video before cleanup for insurance
@@ -141,17 +141,6 @@ In addition to standard emergency supplies, include:
 ### Insurance
 - Standard homeowner's insurance does NOT cover flooding — you need a separate flood insurance policy through FEMA's National Flood Insurance Program (NFIP)
 - There is typically a 30-day waiting period for new flood insurance policies to take effect
-- Document all losses with receipts, photos, and serial numbers
-- File claims as soon as possible — delays can complicate reimbursement
-
-## Long-Term Flood Mitigation
-
-- Work with local agencies on watershed management and drainage improvements
-- Consider relocating structures if flooding is frequent and severe
-- Plant native vegetation along waterways to stabilize banks and slow runoff
-- Maintain wetland areas — they absorb and slow floodwaters naturally
-- Build berms or swales to redirect water flow around critical areas
-
 ## Related Concepts
 
 - [[water-management]] — Drainage, irrigation, and water management planning

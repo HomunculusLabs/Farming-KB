@@ -15,7 +15,7 @@ sources:
   - "Hawksworth, D.L. et al. (1995). Ainsworth & Bisby's Dictionary of the Fungi. 8th ed. CAB International."
   - "Chang, S.T. & Miles, P.G. (2004). Mushrooms: Cultivation, Nutritional Value, Medicinal Effect, and Environmental Impact. 2nd ed. CRC Press."
   - "Yang, J. et al. (2012). \"Polysaccharides from Dictyophora indusiata: isolation, structural characterization and immunomodulatory activity.\" Carbohydrate Polymers, 89(3), 873-878."
-  - "Deng, C. et al. (2020). \"Nutritional composition and bioactive compounds of Dictyophora indusiata: a review.\" Journal of Food Science and Technology, 57(7), 2393-2404."
+  - "Deng, C. et al. (2020). \"[[dighton-fungal-nutritional-composition-animal-diets]] and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] of Dictyophora indusiata: a review.\" Journal of Food Science and Technology, 57(7), 2393-2404."
   - "Wang, X. et al. (2019). \"Antioxidant and anti-inflammatory activities of Dictyophora indusiata extracts.\" Food Chemistry, 271, 721-727."
 ---
 
@@ -78,10 +78,10 @@ The genus name derives from Greek *dictyon* (net) and *phora* (bearing), referri
 Dictyophora indusiata is commercially cultivated in China, particularly in Fujian, Guizhou, and Yunnan provinces, where it is considered a delicacy.
 
 - **Substrate:** Traditionally grown on bamboo sawdust mixed with rice bran (80:20 ratio). Alternative substrates include hardwood sawdust (beech, oak), wheat straw, and agricultural waste supplemented with nitrogen sources.
-- **Spawn preparation:** Grain spawn (wheat, rye, or sorghum) inoculated from pure culture. Mycelial growth rate is moderate — full colonization of substrate bags takes 25–35 days at 22–26°C.
-- **Fruiting conditions:** Requires high humidity (85–95%), temperature 22–28°C, diffuse light, and adequate fresh air exchange. A cold shock or temperature fluctuation can stimulate primordia formation.
+- **[[spawn-preparation]]:** Grain spawn (wheat, rye, or sorghum) inoculated from pure culture. Mycelial growth rate is moderate — full colonization of substrate bags takes 25–35 days at 22–26°C.
+fruiting conditions ions:** Requires high humidity (85–95%), temperature 22–28°C, diffuse light, and adequate fresh air exchange. A cold shock or temperature fluctuation can stimulate [[growing-gourmet-primordia-formation-pinning]].
 - **Casing:** Not always required but improves yield. A thin layer of sterilized soil or peat-based casing is sometimes applied.
-- **Yield:** Biological efficiency typically 40–60% over 2–3 flushes. First flush produces the largest fruiting bodies.
+- **Y [[stamets-biological-efficiency-yield]] ficiency typically 40–60% over 2–3 flushes. First flush produces the largest fruiting bodies.
 - **Growth cycle:** From inoculation to first harvest is approximately 50–70 days. Total cropping cycle is 3–4 months.
 - **Challenges:** Susceptible to contamination by Trichoderma and other molds during spawn run. The egg stage is vulnerable to insect larvae and mites.
 
@@ -114,7 +114,7 @@ The primary bioactive constituents are water-soluble polysaccharides composed pr
 
 ## Culinary Uses
 
-Dictyophora indusiata is considered one of the four most prestigious edible fungi in Chinese cuisine, alongside Tremella fuciformis, Lentinula edodes, and Morchella spp.
+Dictyophora indusiata is considered one of the four most prestigious edible fungi in Chinese cuisine, alongside Tremella fuciformis, [[lentinula-edodes]], and Morchella spp.
 
 - **Flavor and texture:** Mildly earthy flavor; prized primarily for its crisp, gelatinous texture that holds up well in soups. The indusium is the most sought-after part.
 - **Preparation:** Typically dried and reconstituted before use. Dried specimens are soaked in warm water for 20–30 minutes. The indusium retains its net-like structure after rehydration.
@@ -126,18 +126,17 @@ Dictyophora indusiata is considered one of the four most prestigious edible fung
 
 - **Bamboo forest integration:** Can be cultivated in bamboo groves as a value-added companion crop, utilizing bamboo litter as the primary substrate. Creates additional yield from existing bamboo systems without competing for space above ground.
 - **Waste substrate cycling:** Spent substrate from cultivation is rich in partially decomposed lignocellulose and fungal biomass, making excellent mulch or compost amendment for vegetable gardens and orchards.
-- **Soil health:** Decomposing fruiting bodies and mycelial networks contribute to soil organic matter and may enhance microbial diversity in tropical agroforestry systems.
+- **Soil health:** Decomposing fruiting bodies [[fungal-mycelial-networks-nutrient-translocation]] orks contribute to soil organic matter and may enhance microbial diversity in tropical agroforestry systems.
 
 ## Similar Species
 
 | Species | Distinguishing Features | Edibility |
 |---------|----------------------|-----------|
-| *Dictyophora duplicata* | Indusium less elaborate, shorter; more restricted to temperate regions | Edible, less valued |
-| *Phallus impudicus* | No indusium; fetid common stinkhorn; similar egg stage | Edible (egg stage only) |
-| *Clathrus ruber* | Cage-like lattice structure instead of net veil; bright red-orange | Not edible |
+| *Dictyophora duplicata* | Indusium less elaborate, shorter; more restricted to temperate regions | Edible, less valued |[[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]] icus* | No indusium; fetid common stinkhorn; similar egg stage | Edible (egg stage only) |
+| *[[clathrus-ruber]]* | Cage-like lattice structure instead of net veil; bright red-orange | Not edible |
 
 ## See Also
 
-- [[tremella-fuciformis-entity]] — Another prized Chinese culinary and medicinal fungus
+- [[tremella-fuciformis]] — Another prized Chinese culinary and medicinal fungus
 - [[morchella-esculenta]] — Morel, fellow member of China's four prestigious fungi
 - [[trichoderma-harzianum]] — Common contaminant competitor in D. indusiata cultivation

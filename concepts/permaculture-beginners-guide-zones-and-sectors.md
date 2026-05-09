@@ -1,14 +1,12 @@
 ---
-title: Permaculture Beginners Guide — Zones and Sectors
+title: Permaculture permaculture-beginners-guide-food-forests-introduction — Zones and Sectors
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
-tags: [[permaculture, zones, sectors, design, burnett, placement, planning]
+tags: [permaculture, zones, sectors, design, burnett, placement, planning]
 sources: ["raw/papers/permaculture-beginners-guide.md"]
 ---
-# Permaculture Beginners Guide — Zones and Sectors
-
-[[permaculture-zones-and-sectors]], [[mollison-zone-and-sector-analysis]] for more comprehensive treatments from other sources.
+# Permaculture Beginners Guide — Zones and Sectors [[permaculture-zones-and-sectors]], mollison-zone-and-sector-analysis for more comprehensive treatments from other sources.
 
 ## Zoning: Correct Placement
 
@@ -18,7 +16,7 @@ The fundamental principle: zoning is about correct placement. Elements are posit
 
 Home is the center point — where the heart is, where we center ourselves and feel safe. Zone 0 encompasses wherever we live: a house, cottage, bedsit, or bender.
 
-**Design principles for Zone 0:**
+**[[holmgren-permaculture-twelve-design-principles-framework]] for Zone 0:**
 - Construct and function in sustainable, energy-efficient, ecologically harmonious ways
 - Choose locally available or renewable materials (wood, [[permaculture-principles]]
 
@@ -26,7 +24,7 @@ Zoning connects to several core permaculture principles outlined in the guide:
 
 - **Every element should serve many functions:** Zone placement maximizes each element's contributions
 - **Every function should be supported by many elements:** Diverse plantings across zones ensure resilience
-- **Work with nature, not against:** Zoning follows natural patterns of attention and energy flow
+- **Work with nature, not against:** Zoning follows natural patterns of attention and [[savory-energy-flow-and-solar-capture]]
 - **Stacking:** Multiple layers and functions occupy the same space, especially in Zone 1-2 gardens
 - **Everything cycles:** Waste products from one zone become inputs for another
 
@@ -37,19 +35,19 @@ Burnett's guide provides a practical framework for deciding which elements belon
 **Zone 0 — Daily living:**
 - Home, kitchen, indoor spaces
 - Energy systems, water collection
-- Seed starting, sprouting
+- [[comparison-cannabis-cloning-vs-seed-starting-indoors]], sprouting
 - Herb gardens in windowsills
 
 **Zone 1 — Several times daily:**
 - Intensive vegetable beds
-- Salad greens, herbs, soft fruit
+- Salad greens, herbs, [[growing-soft-fruit-organically]]
 - [[composting-systems]] close to kitchen
 - Greenhouse or polytunnel
 - Small livestock (chickens, rabbits)
 - Elements needing frequent observation and harvesting
 
 **Zone 2 — Daily to weekly:**
-- Fruit trees, berry bushes
+- [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], berry bushes
 - Pond and water features
 - Larger composting areas
 - Main crop vegetables (potatoes, brassicas)
@@ -92,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

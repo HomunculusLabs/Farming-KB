@@ -1,5 +1,5 @@
 ---
-title: "How to Grow Passionfruit in Different Climates"
+title: "How to query how to grow passionfruit in different climates in Different Climates"
 created: 2026-05-06
 tags:
   - passionfruit
@@ -46,7 +46,7 @@ In **subtropical** regions (e.g., southern Florida, coastal NSW), the **purple p
 
 ### When should I plant?
 
-Plant at the **start of the warm wet season**. In the tropics without a pronounced dry season, any time with consistent rainfall works. In subtropical areas with seasonal variation, plant in early spring once soil temperatures exceed 18°C. Avoid planting in the coolest months when growth will be slowest and fungal pressure highest.
+Plant at the **start of the warm wet season**. In the tropics without a pronounced dry season, any time with consistent rainfall works. In subtropical areas with seasonal variation, plant in [[coleman-overwintered-onions-and-early-spring-crops]] once soil temperatures exceed 18°C. Avoid planting in the coolest months when growth will be slowest and fungal pressure highest.
 
 ### Expected yield and challenges
 
@@ -63,8 +63,8 @@ Yes — the **purple passionfruit** is well-suited to Mediterranean zones with h
 ### Planting and care tips
 
 - Plant in **early spring** (March–April) after the last frost risk.
-- Choose a **north-facing wall** (southern hemisphere: south-facing) to maximise radiant heat and protect from cold winds.
-- Apply a deep organic [[mollison-pdc-trellis-systems-climate-control]] — passionfruit vines can reach 10–15 m in a single season.
+- Choose a **north-facing wall** ([[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]: south-facing) to maximise radiant heat and protect from cold winds.
+- Apply a [[coleman-deep-organic-farming-philosophy]] [[mollison-pdc-trellis-systems-climate-control]] — passionfruit vines can reach 10–15 m in a single season.
 
 ### Winter protection strategies
 
@@ -86,10 +86,10 @@ For growers in Zone 8 or cooler:
 
 - **Yield (maypop):** 3–8 kg/vine/year. Lower than tropical types; fruit is smaller (egg-sized) with a milder flavour.
 - **Yield (container-grown tropical):** 5–15 kg/vine/year depending on pot size and summer heat accumulation.
-- **Challenges:** Short growing season limits fruit set, late frosts can kill new spring growth, and maypop can become [[comparison-windbreak-vs-thermal-mass]] (water barrels, stone floors) to buffer temperature swings.
-- **Ventilation:** Passionfruit needs good airflow to prevent [[query-how-to-grow-pomegranate-in-different-climates]]
+- **Challenges:** Short [[savory-growing-season-and-non-growing-season-management]] limits fruit set, late frosts can kill new spring growth, and maypop can become [[comparison-windbreak-vs-thermal-mass]] (water barrels, stone floors) to buffer temperature swings.
+- **Ventilation:** Passionfruit needs good airflow to prevent query-how-to-grow-pomegranate-in-different-climates
 
-- passionfruit pests and diseases
+- passionfruit [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]
 - [[holzer-frost-protection-techniques]]
 - [[coleman-protected-cultivation]]
 - [[query-how-to-grow-guava-in-different-climates]]

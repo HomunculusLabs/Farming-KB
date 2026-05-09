@@ -1,5 +1,5 @@
 ---
-title: Cropping Containers and Growing Systems
+title: growing gourmet cropping containers growing systems and Growing Systems
 created: 2026-04-26
 tags:
   - mycology
@@ -23,23 +23,23 @@ each with distinct advantages and limitations.
 
 ## Tray Culture
 
-Growing mushrooms in trays is the traditional method of cropping,
+[[falconer-growing-mushrooms-in-sheds]] in trays is the traditional method of cropping,
 first developed by the [[growing-gourmet-casing-soils-mushroom-cultivation]], which is usually composed of peat moss
 buffered with calcium carbonate.
 
 ## The Brooke-Webster Technique
 
-In North America, tray culture for Oyster mushrooms was perfected
+In [[psilocybin-north-america-pacific-northwest]], tray culture for [[query-how-to-grow-oyster-mushrooms-at-home]] was perfected
 by Dave Brooke-Webster (1987). This method utilizes a perforated
 plastic covering over the surface of trays. Since many Button
 mushroom farms are centered around tray technology, the replacement
-of the casing layer with a sheet of perforated plastic allows
+of the [[gourmet-medicinal-mushroom-casing-layer-techniques]] with a sheet of perforated plastic allows
 adaptation for Oyster mushroom production.
 
 An advantage of the Brooke-Webster technique is that bouquets of
 equal weight are produced simultaneously on the same trays. The
 perforated plastic is stripped off, depending upon the species, at
-the time of or soon after [[shiitake-mushroom-cultivation]] cultivation on supplemented sawdust, bag culture is the
+the time of or soon after  cultivation on [[oyster-mushroom-supplemented-sawdust-blocks]], bag culture is the
 predominant method. Blocks of 6-7 lbs are incubated in bags and
 then opened for fruiting when the mycelium is fully colonized. The
 bags provide protection during colonization and can be managed
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

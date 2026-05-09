@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [psychedelics, comparison, psilocybin, mescaline, tryptamine-vs-phenethylamine]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 # Psilocybin vs Mescaline
@@ -18,7 +19,7 @@ A comparative overview of two of the most historically significant natural psych
 | Family | Tryptamine | Phenethylamine |
 | Active form | Psilocin (4-OH-DMT) | Mescaline (3,4,5-TMA) |
 | Core structure | Indole-based | Phenyl ring-based |
-| Related compounds | DMT, [[turner-psilocybin]] (Psilocybe cubensis), which accounts for approximately 99% of the recreational and ceremonial market. Over 200 species of psilocybin-containing mushrooms exist worldwide, distributed across every inhabited continent, but P. cubensis dominates due to its ease of cultivation and reliable potency. Dosage ranges from 1 gram (threshold, subtle perceptual shifts and heightened color perception) to 3 to 5 grams (moderate to strong, full psychedelic effect with ego softening) to 10 to 14 grams (extraordinary intensity, complete ego dissolution and mystical states). Potency decreases by roughly 25% over six months of storage; freezing preserves alkaloid content best.
+| Related compounds | DMT, [[turner-psilocybin]] ([[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]), which accounts for approximately 99% of the recreational and ceremonial market. Over 200 species of psilocybin-containing mushrooms exist worldwide, distributed across every inhabited continent, but P. cubensis dominates due to its ease of cultivation and reliable potency. Dosage ranges from 1 gram (threshold, subtle perceptual shifts and heightened color perception) to 3 to 5 grams (moderate to strong, full psychedelic effect with ego softening) to 10 to 14 grams (extraordinary intensity, complete [[psilocybin-ego-dissolution-mechanisms]] and mystical states). Potency decreases by roughly 25% over six months of storage; freezing preserves alkaloid content best.
 
 ### Mescaline Sources
 
@@ -28,7 +29,7 @@ Mescaline derives from several cactus species, principally peyote (Lophophora wi
 
 ## Legality
 
-Mescaline and peyote are Schedule I controlled substances in the United States, though the Native American Church has legal exemption for ceremonial peyote use. San Pedro and other Trichocereus cacti occupy a legal gray area and are widely sold as ornamental plants. Psilocybin and psilocybin-containing mushrooms are also Schedule I in the United States, though several jurisdictions have deprioritized enfoset-and-settingiminalized possession. Both substances are regulated differently across countries, and legal status continues to evolve rapidly.
+Mescaline and peyote are Schedule I controlled substances in the [[dmt-containing-plants-united-states-halpern]], though the [[halpern-sacramental-peyote-and-native-american-church]] Church has legal exemption for ceremonial peyote use. San Pedro and other Trichocereus cacti occupy a legal gray area and are widely sold as ornamental plants. Psilocybin and psilocybin-containing mushrooms are also Schedule I in the United States, though several jurisdictions have deprioritized enfoset-and-settingiminalized possession. Both substances are regulated differently across countries, and [[ayahuasca-tourism-legal-status-by-country]] continues to evolve rapidly.
 
 ## Choosing Between Them
 
@@ -61,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +104,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

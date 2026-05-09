@@ -12,7 +12,7 @@ type: concept
 
 Biological network theory applies graph-theoretic and complex systems
 analysis to biological structures — from molecular interaction networks to
-ecosystem dighton fungal trophic. It provides quantitative frameworks for understanding
+ecosystem dighton [[dighton-fungal-trophic-interactions-soil-food-webs]]. It provides quantitative frameworks for understanding
 how biological systems are organized, how they function, and how they
 respond to perturbation.
 
@@ -33,7 +33,7 @@ include:
   also connected to each other. High clustering indicates local modularity.
 - **Betweenness centrality**: The frequency with which a node appears on
   shortest paths between other nodes. High-betweenness nodes are critical
-  for network communication.
+  for [[query-how-does-mycorrhizal-network-communication-work-between-plants]].
 
 ## Types of Biological Networks
 
@@ -63,7 +63,7 @@ fully mapped nervous system. Key properties include modular organization,
   mycorrhizae) exhibiting nested structure where specialists interact
   primarily with generalists.
 
-## [[biological-transport-networks]] networks,
+##  networks,
   including pipe models and osmotic flow optimization.
 
 ## Network Robustness
@@ -82,6 +82,8 @@ systems that maintain function despite genetic mutations, environmental
 fluctuations, and stochastic damage.
 
 ## See Also
+
+- [[biological-network-optimization]]
 
 - [[fungal-ecology]]
 - [[wood-decay-fungi]]

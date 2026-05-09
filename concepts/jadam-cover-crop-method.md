@@ -1,5 +1,5 @@
 ---
-title: "JADAM Cover Crop Method — Cover Cropping Technique with Soil Quality Data"
+title: "JADAM coleman-cover-crop-rotation-and-soil-health Method — fukuoka-clover-cover-cropping-soil-ecology Technique with Soil Quality Data"
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -9,9 +9,9 @@ sources:
 ---
 # JADAM Cover Crop Method
 
-Cover crop cultivation is one of the most important techniques in [[jadam-liquid-fertilizer]] as required. If growing cover crop is difficult, use manure from grass-eating animals — it contains optimum nutritional balance for crops.
+Cover crop cultivation is one of the most important techniques in [[jadam-liquid-fertilizer]] as required. If growing cover crop is difficult, use manure from grass-eating animals — it contains optimum [[jadam-nutritional-balance-fertilizer]] for crops.
 
-The combination of [[jadam-wild-grass-management]] — co-existing with wild grass philosophy
+The combination of [[jadam-wild-grass-management]] — co-existing with [[jadam-wild-grass-liquid-fertilizer]] philosophy
 - [[lowenfels-mulch-cover-cropping]]
 - [[jadam-root-soil-assessment]] — measuring root health improvements
 - [[jadam-soil-hardening-prevention]]
@@ -143,4 +143,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

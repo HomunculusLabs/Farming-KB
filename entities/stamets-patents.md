@@ -5,12 +5,13 @@ updated: 2026-04-12
 type: entity
 tags: [mycology, patents, intellectual-property, mycoremediation, pest-control]
 sources:
-  - raw/papers/mycelium-running-stamets.md
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # Stamets' Patents
 
-Key patents in mycotechnology — mycoremediation, mycofiltration, and mycopesticide applications. Compiled from *Mycelium Running* by [[paul-stamets]].
+Key patents in mycotechnology — mycoremediation, mycofiltration, and mycopesticide applications. Compiled from *[[woodlovers-mycelium-running-pathway-technique]]* by [[paul-stamets]].
 
 ## Paul Stamets Patents
 
@@ -18,7 +19,7 @@ Key patents in mycotechnology — mycoremediation, mycofiltration, and mycopesti
 - **Patent**: U.S. Patent Application 09/259,077
 - **Co-authors**: Thomas, Word, Pinza, Becker, Stamets
 - **Filed**: 1997
-- **Content**: Methods for using fungal mycelium to neutralize chemical warfare agents (VX, sarin, soman surrogates) and biological warfare agents (E. coli as anthrax surrogate)
+- **Content**: Methods for using fungal mycelium to neutralize [[solomon-root-exudates-and-allelopathy]] agents (VX, sarin, soman surrogates) and biological warfare agents (E. coli as anthrax surrogate)
 - **Key innovation**: Training mycelial strains to metabolize toxins as sole nutrient source
 
 ### Mycofiltration of Silts and Sediments
@@ -28,7 +29,7 @@ Key patents in mycotechnology — mycoremediation, mycofiltration, and mycopesti
 - **Covers**: Methods for deploying mycelial mats in waterways, roads, and contaminated sites
 
 ### Mycopesticides
-- Multiple patents approved and pending on using entomopathogenic fungi (Metarhizium, Beauveria) for pest control
+- Multiple patents approved and pending on using [[singh-entomopathogenic-fungi-biocontrol-agents]] (Metarhizium, Beauveria) for pest control
 - Termite colony elimination using delayed-mortality fungal deployment
 - Fire ant control using dual-species fungal matrices (attractant + pathogen)
 - Search USPTO.gov under "Stamets" for full list
@@ -36,15 +37,15 @@ Key patents in mycotechnology — mycoremediation, mycofiltration, and mycopesti
 ## Other Key Mycoremediation Patents
 
 ### White Rot Fungi for Toxin Degradation
-- **Aust & Bumpus (1990)**: U.S. Patent 4,891,320 — white rot fungi for persistent organic compounds
+- **Aust & Bumpus (1990)**: U.S. Patent 4,891,320 — white rot fungi for persistent [[fungal-volatile-organic-compounds-communication]]
 - **Aust et al. (1995)**: U.S. Patent 5,389,356 — oxygen free radical generation for oxidation reactions
-- **Aust & Bumpus (1997)**: U.S. Patent 5,597,730 — coal tar degradation by white rot fungi
+- **Aust & Bumpus (1997)**: U.S. Patent 5,597,730 — coal tar [[nitroaromatic-degradation-by-white-rot-fungi]] rot fungi
 
 ### Lignin-Degrading Fungi
 - **Lamar et al. (1995)**: U.S. Patent 5,476,788 — solid-phase bioremediation using lignin-degrading fungi
 
 ### PCB Degradation
-- **Yadav et al. (2000)**: U.S. Patent 6,107,079 — PCB degradation using Phanerochaete chrysosporium
+- **Yadav et al. (2000)**: U.S. Patent 6,107,079 — PCB degradation using [[staycare-phanerochaete-chrysosporium-in-bioremediation]]
 
 ### Treated Wood Remediation
 - **Illman et al. (2002)**: U.S. Patent 6,387,691 — fungal bioremediation of ACQ-treated wood
@@ -91,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

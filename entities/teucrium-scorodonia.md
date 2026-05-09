@@ -53,17 +53,17 @@ It grows on acidic to neutral soils, often in association with heather (*Calluna
 
 Elevational range extends from sea level to approximately 1,500 metres in mountainous areas of southern Europe. It is absent from the Mediterranean lowlands where summer drought is severe.
 
-The species has naturalised in parts of eastern North America, particularly in the Appalachian region, where it occurs in similar woodland habitats to its native European range. Naturalised populations are generally small and non-invasive.
+The species has naturalised in parts of [[polypore-fungi-eastern-north-america]] America, particularly in the Appalachian region, where it occurs in similar woodland habitats to its native European range. Naturalised populations are generally small and non-invasive.
 
 ## Bioactive Compounds and Traditional Uses
 
-Wood sage contains a range of bioactive compounds, including flavonoids (luteolin, apigenin derivatives), phenylethanoid glycosides, iridoid glycosides, and essential oil. The essential oil contains germacrene D, β-caryophyllene, and bicyclogermacrene as major components.
+Wood sage contains a range of bioactive compounds, including flavonoids (luteolin, apigenin derivatives), phenylethanoid glycosides, iridoid glycosides, and [[permaculture-designers-manual-essential-oil-plants]]. The essential oil contains germacrene D, β-caryophyllene, and bicyclogermacrene as major components.
 
 In traditional European herbal medicine, *T. scorodonia* was used as a wound-healing herb and for treating digestive complaints. The leaves were applied as a poultice to cuts, ulcers, and skin infections.
 
 Nicholas Culpeper (1653) recommended wood sage for "wounds, ulcers, fistulas, and all running sores," and as a gargle for sore throats. It was also used as a tonic tea for convalescents.
 
-The herb was employed as a bittering agent in beer brewing in parts of England and Scandinavia before hops became dominant. This use is reflected in several of its local names, including "wood sage" and "alehoof."
+The herb was employed as a bittering agent in [[comparison-beer-brewing-vs-cider-making]] in parts of England and Scandinavia before hops became dominant. This use is reflected in several of its local names, including "wood sage" and "alehoof."
 
 Modern pharmacological studies have confirmed anti-inflammatory, antioxidant, and antimicrobial activities for leaf extracts. However, clinical data supporting specific therapeutic applications remain limited.
 
@@ -91,9 +91,9 @@ The pale flowers of *T. scorodonia* are attractive to bees, particularly bumbleb
 
 Several Lepidoptera species use *Teucrium* as a larval food plant, though specific associations with *T. scorodonia* are less documented than with Mediterranean *Teucrium* species.
 
-The creeping rootstock helps stabilise soil on slopes and in woodland margins. The species contributes to ground cover in semi-natural habitats and can serve as a nurse plant for woodland restoration.
+The creeping rootstock helps stabilise soil on slopes and in woodland margins. The species contributes to [[fukuoka-citrus-orchard-ground-cover-cultivation]] in semi-natural habitats and can serve as a nurse plant for woodland restoration.
 
-Wood sage is an indicator species of relatively undisturbed, acidic woodland soils. Its presence in a plant community often suggests low nutrient availability and limited agricultural disturbance.
+Wood sage is an indicator species of relatively undisturbed, acidic woodland soils. Its presence in a plant community often suggests low [[ph-and-nutrient-availability-garden-soils]] and limited agricultural disturbance.
 
 ## See Also
 

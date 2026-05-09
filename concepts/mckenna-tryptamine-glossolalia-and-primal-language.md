@@ -1,8 +1,8 @@
 ---
-title: Tryptamine Glossolalia and Primal Language
+title: mckenna tryptamine glossolalia and primal language and mckenna-glossolalia-and-primal-language-tryptamine-states
 created: 2026-04-28
 tags: [tryptamines, dmt, glossolalia, shamanism, consciousness, language, 
-[[psilocybin]]]
+psilocybin]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [mckenna_t-tryptamines_consciousness.md]
@@ -54,14 +54,13 @@ constructed to exclude.
 
 - [DMT Black Hole Effect and Ineffability of Tryptamine 
 Experience](dmt-black-hole-effect-and-ineffability-of-tryptamine-experience.md)
-- [Tryptamine Hallucinogens and 
+- [[mckenna-tryptamine-hallucinogens-and-consciousness]] and 
 Consciousness](tryptamine-hallucinogens-and-consciousness.md)
-- [Quantum Mechanical Correlates of 
+- [Quantum [[mckenna-quantum-mechanical-correlates-hallucinogenesis]] of 
 Hallucinogenesis](quantum-mechanical-correlates-hallucinogenesis-molecular-sensitivity.md)
 - [shamanic use of psychedelics](shamanic-use-of-psychedelics.md)
-- [McKenna Tryptamine Consciousness DMT Spirit 
+- [[terence-mckenna-tryptamine-hypothesis]] Consciousness DMT Spirit 
 Molecule](mckenna-tryptamine-consciousness-dmt-spirit-molecule.md)
-
 
 ## Historical Context
 
@@ -73,7 +72,7 @@ suggesting that early human communities encountered these substances
 in their environment and interpreted the resulting verbal fluency as
 divine inspiration or possession.
 
-The Amazonian ayahuasca tradition provides the strongest living
+The [[harner-amazonian-ayahuasca-preparation-methods]] tradition provides the strongest living
 evidence for this hypothesis. Indigenous brews containing DMT and
 MAO inhibitors consistently produce verbal behaviors ranging from
 structured singing (icaros) to spontaneous glossolalic speech
@@ -96,3 +95,11 @@ complex modulation under tryptamines — increased connectivity
 between regions that normally do not communicate directly. This
 "hyperconnectivity" may explain the sense of accessing a deeper or
 more fundamental language that glossolalia speakers frequently report.
+## See Also
+
+- [[mckenna-glossolalia-and-primal-language-tryptamine-states]]
+
+- [[mckenna-women-gatherers-and-evolution-of-language]]
+- [[tryptamine-hallucinogens]]
+- [[dmt-finnegans-wake-and-the-merry-go-raum]]
+- [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]]

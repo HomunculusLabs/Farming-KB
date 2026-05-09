@@ -1,5 +1,5 @@
 ---
-title: Secondary Nutrient Deficiency and Toxicity in Cannabis
+title: Secondary cannabis-grow-nutrient-deficiency-problem-solving and Toxicity in Cannabis
 created: 2026-04-26
 tags:
   - cannabis
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -47,7 +48,7 @@ per gallon of water. For fast results, spray foliage with a 2 percent
 solution of Epsom salts. If deficiency progresses to the top, it will
 turn green there first, then move down the plant over four to six days.
 Continue regular watering with Epsom salts until symptoms totally
-disappear. Adding fine dolomite lime to soil and soilless mix provides
+disappear. Adding fine [[cervantes-dolomite-lime-ph-buffering]] to soil and soilless mix provides
 consistent supply of both calcium and magnesium over the long term.
 
 ### Toxicity
@@ -83,14 +84,14 @@ transported by transpiration, it becomes immobile.
 - New shoots contort, shrivel, and die
 - Bud development slows dramatically
 
-**Treatment:** Dissolve one-half teaspoon of hydrated lime per gallon of
+**Treatment:** Dissolve one-half teaspoon of [[cervantes-hydrated-lime-quicklime-ph-adjustment]] per gallon of
 water. Water deficient plants with calcium-dosed water as long as
 symptoms persist. Or use a complete hydroponic nutrient containing
 adequate calcium. Keep pH of growing medium stable.
 
 ### Toxicity
 Difficult to see in foliage. Causes wilting. Exacerbates deficiencies of
-potassium, magnesium, manganese, and iron. Excessive soluble calcium can
+potassium, magnesium, manganese, and iron. Excessive [[cho-water-soluble-calcium-and-potassium]] can
 stunt growth early in life. In hydroponics, excess calcium precipitates
 with sulfur, forming gypsum residue that settles to the reservoir bottom.
 
@@ -101,7 +102,7 @@ Essential building block of many hormones and vitamins including vitamin
 B1. Indispensable element in many plant cells and seeds. The sulfate form
 buffers water pH. Involved in protein synthesis and part of amino acid
 cystine and thiamine. Essential in formation of oils and flavors, as
-well as respiration and synthesis and breakdown of fatty acids.
+well as respiration and synthesis and breakdown of [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]].
 
 Hydroponic fertilizers separate sulfur from calcium in "A" and "B"
 containers. If combined in concentrated form, sulfur and calcium form
@@ -112,7 +113,7 @@ Young leaves turn lime-green to yellowish. As shortage progresses, leaves
 yellow interveinally and lack succulence. Veins remain green, and leaf
 stems and petioles turn purple. Leaf tips can burn, darken, and hook
 downward. Deficiency resembles nitrogen deficiency but youngest leaves
-should yellow first. Acute sulfur deficiency causes elongated stems that
+should yellow first. Acute [[query-how-to-fix-sulfur-deficiency-in-cannabis]] causes elongated stems that
 become woody at the base.
 
 Occurs indoors when pH is too high or when there is excessive calcium

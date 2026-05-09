@@ -1,5 +1,5 @@
 ---
-title: Natural Farming Microbial Inoculants
+title: Natural natural farming microbial inoculants Inoculants
 created: 2026-04-28
 tags: [microbial-inoculants, soil-biology, natural-farming, knf, jadam]
 date: 2026-04-25
@@ -13,7 +13,7 @@ type: concept
 # Natural Farming Microbial Inoculants
 
 Microbial inoculants are living microorganism preparations applied to
-soil or plants to enhance nutrient cycling, disease suppression, and
+soil or plants to enhance nutrient cycling, [[aact-disease-suppression-mechanisms-ingham]], and
 soil structure. In natural farming systems, microbial inoculants are
 farmer-produced inputs that restore and maintain the diverse soil
 microbiome rather than introducing selected commercial strains. Both
@@ -49,11 +49,11 @@ incorporated into compost preparations.
 
 ## Functions of Soil Microorganisms
 
-Indigenous microorganisms perform multiple critical functions in the
+[[beneficial-indigenous-microorganisms-bim]] perform multiple critical functions in the
 soil ecosystem. They purify soil water and provide various nutrients.
-They break down organic and chemical fertilizers into simpler compounds
+They break down organic and [[cervantes-chemical-fertilizers-guide]] into simpler compounds
 that plants can absorb. Diverse inorganic matter decomposed by
-microorganisms increases nutrient availability. When the soil
+microorganisms increases [[ph-and-nutrient-availability-garden-soils]]. When the soil
 environment is revitalized through microbial inoculation, earthworms,
 ground beetles, and other soil organisms return, bringing the full
 ecosystem back to life.
@@ -72,7 +72,7 @@ primary barrier to agricultural productivity. Indigenous
 microorganisms are the best means of solving compaction. As microbial
 population and diversity increase, chemicals trapped in compacted soil
 layers begin to dissolve. The compacted layer gradually disappears,
-leading to faster decomposition of organic matter and reduced need for
+leading to faster decomposition of [[savory-soil-organic-matter-and-decomposition-dynamics]] reduced need for
 chemical fertilizer.
 
 JADAM's field experience confirms that JMS combined with the cover

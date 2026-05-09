@@ -1,7 +1,7 @@
 ---
-title: "Gaia's Garden - Weeds and Pioneer Plants in Ecological Succession"
+title: "Gaia's Garden - Weeds and Pioneer Plants in holmgren-ecological-succession-and-pulsing"
 created: 2026-04-26
-tags: permaculture, weeds, succession, ecology, soil-building]
+tags: [permaculture], weeds, succession, ecology, soil-building]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
@@ -20,7 +20,7 @@ work that sets the stage for later, more demanding
 species. [[root-exudates]].
 
 - **Soil building**: When pioneer plants die and
-  decompose, they pump organic matter into the
+  decompose, they pump [[hamilton-composting-and-organic-matter-management]] into the
   soil, creating the fertile conditions needed by
   more demanding species.
 
@@ -42,7 +42,7 @@ Rather than waiting decades for natural succession
 to unfold, ecological gardeners can accelerate the
 process. Hemenway describes several techniques:
 
-- **[[nurse-plants]]ants** like nitrogen-fixing shrubs
+- **nurse-plantsants** like nitrogen-fixing shrubs
   create favorable microclimates for tender
   species, speeding establishment.
 
@@ -56,7 +56,7 @@ process. Hemenway describes several techniques:
 
 ## See Also
 
-- [[gaias-garden-host-plants-beneficial-insects]]
+- gaias-garden-host-plants-beneficial-insects
 ## Practical Considerations
 
 When working with Gaia's Garden - Weeds and Pioneer Plants in Ecological Succession, several practical factors should be
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,5 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+- [[gaias-garden-perennial-food-plants]]
+- [[gaias-garden-multipurpose-plants]]

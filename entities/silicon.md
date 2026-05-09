@@ -30,7 +30,7 @@ Its technological importance is so large that the late twentieth-century informa
 - Symbol: Si.
 - Atomic number: 14.
 - Periodic table group: group 14.
-- Common crystal structure: diamond cubic.
+- Common [[crystal-structure-and-crystal-defects]]: diamond cubic.
 - Electronic class: semiconductor.
 - Band-gap character: indirect gap.
 - Wiki relevance: baseline material for semiconductor band-structure comparisons.
@@ -47,9 +47,9 @@ Electronic-grade silicon, however, requires purification far beyond ordinary min
 
 ## Discovery and Naming
 Human use of silicon compounds is prehistoric because stones, clays, and silica sands are everywhere.
-Glass containing silica was made in ancient civilizations long before elemental silicon was isolated.
+Glass containing silica was made in [[shroom-cultural-history-mushroom-in-ancient-civilizations]] long before elemental silicon was isolated.
 Antoine Lavoisier suspected that silica might contain an undiscovered element.
-Humphry Davy proposed the name silicium in the early nineteenth century.
+Humphry Davy proposed the name silicium in the early [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]].
 Jons Jakob Berzelius is credited with preparing and characterizing relatively pure silicon in 1823.
 The English name silicon reflects its relation to silex, the Latin root for flint.
 The naming history mirrors a scientific transition from mineral craft to chemical element theory.
@@ -107,4 +107,4 @@ Silicon is the reference material of modern semiconductor technology.
 Its success comes from abundance, crystal quality, dopability, oxide chemistry, and manufacturing scale.
 Its main limitation in optoelectronics is the indirect band gap.
 
-See also: [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]]
+See also: [[legume-nitrogen-fixation-and-green-manure]]

@@ -1,5 +1,5 @@
 ---
-title: Leary's Psychedelic Manual Approach
+title: Leary's leary psychedelic manual approach Approach
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/leary-t-the-psychedelic-experience.md]
 
 ## Leary's Manual Based on the Tibetan Book of the Dead
 
-"The Psychedelic Experience" (1964) by Timothy Leary, Ralph Metzner, and Richard Alpert adapts the Tibetan Book of the Dead (Bardo Thodol) as a guide for navigating psychedelic sessions. The manual maps the stages of ego death and rebirth onto three Bardo phases, providing both philosophical framework and practical instructions.
+"The [[leary-psychedelic-experience-bardo-mapping]]" (1964) by Timothy Leary, Ralph Metzner, and Richard Alpert adapts the Tibetan Book of the Dead (Bardo Thodol) as a guide for navigating psychedelic sessions. The manual maps the stages of ego death and rebirth onto three Bardo phases, providing both philosophical framework and practical instructions.
 
 ### Central Thesis: Set and Setting
 
@@ -86,7 +86,7 @@ Leary's Bardo model parallels [[psychedelic-experience-stages|Turner's phenomeno
 
 ### Critical Note
 
-Leary's approach has been criticized for being culturally appropriative (mapping Tibetan Buddhist concepts onto Western psychedelic use), overly intellectualizing experiences that may not fit the framework, and for Leary's later advocacy that contributed to the backlash against psychedelic research. However, the core insights — set and setting, the importance of surrender, the value of preparation and a guide — remain foundational to modern psychedelic therapy and harm reduction.
+Leary's approach has been criticized for being culturally appropriative (mapping Tibetan Buddhist concepts onto [[shamanic-vs-western-psychedelic-healing]] use), overly intellectualizing experiences that may not fit the framework, and for Leary's later advocacy that contributed to the backlash against [[mckenna-suppression-psychedelic-research-lsd-therapy]]. However, the core insights — set and setting, the importance of surrender, the value of preparation and a guide — remain foundational to modern [[metzner-psycholytic-psychedelic-therapy-models]] and [[adverse-effects-and-harm-reduction-psilocybin]].
 
 ## See Also
 

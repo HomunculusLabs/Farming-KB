@@ -15,7 +15,7 @@ Purple Haze is one of the most legendary cannabis strains of all time, a
 sativa-dominant hybrid whose fame was cemented by Jimi Hendrix's 1967
 psychedelic rock anthem of the same name. While the exact original genetics
 are debated, the consensus among cannabis historians points to a cross
-between Purple Thai (a landrace Thai sativa) and a Colombian landrace
+between Purple Thai (a landrace Thai sativa) and a [[oner-colombian-landrace-sativa-strains]]
 sativa, possibly with Haze (itself a Colombian-Mexican-Thai-South Indian
 cross) in the lineage. Known for its vivid purple coloration, sweet
 earthy-berry aroma, and cerebral, energetic high, Purple Haze remains
@@ -24,7 +24,7 @@ a cultural touchstone even as modern versions may differ from the original.
 ## Strain Classification
 
 - **Type:** Sativa-dominant hybrid (approximately 85% sativa / 15% indica)
-- **Lineage:** Purple Thai × Colombian Gold (most widely accepted); some
+- **Lineage:** Purple Thai × [[cannabis-colombian-gold-landrace-sativa]] (most widely accepted); some
   accounts suggest Haze × Purple Thai
 - **Breeder:** Unknown — the original breeder has not been definitively
   documented; the strain emerged in the late 1960s to early 1970s
@@ -81,11 +81,11 @@ Purple Haze can be challenging to grow, particularly for novice cultivators:
   nighttime temperatures (10-15°C) during the final 2-3 weeks of flowering
 - **Nutrient needs:** Moderate feeder; sativa lineage means it can be
   sensitive to over-fertilization, particularly nitrogen during flowering
-- **Pest resistance:** Moderate — tall, airy sativa bud structure provides
+- **[[cannabis-disease-pest-resistance-breeding-clarke]]:** Moderate — tall, airy sativa bud structure provides
   reasonable airflow but offers less natural mold resistance than indica
   varieties
 - **Training:** Responds well to LST (low-stress training) and ScrOG
-  (screen of green) to manage height; topping recommended to control
+  ([[cannabis-screen-of-green-scrog-guide]]) to manage height; topping recommended to control
   vertical stretch
 
 ## Terpene Profile
@@ -100,7 +100,7 @@ Purple Haze can be challenging to grow, particularly for novice cultivators:
 
 ## Cultural Significance
 
-Purple Haze occupies a unique position in cannabis culture at the intersection
+Purple Haze occupies a unique position in [[mckenna-cannabis-culture-history]] at the intersection
 of music, counterculture, and cannabis history:
 - **Jimi Hendrix connection:** The strain's name is inextricably linked to
   Hendrix's 1967 song "Purple Haze," though whether the strain inspired the

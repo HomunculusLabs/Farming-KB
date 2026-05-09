@@ -1,6 +1,6 @@
 ---
 
-title: Beneficial Indigenous Microorganisms (BIM) — Carandang Method
+title: Beneficial beneficial indigenous microorganisms bim (BIM) — Carandang Method
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -29,7 +29,7 @@ Gil Carandang's Philippine approach to indigenous microorganisms. Combines multi
 
 ## Composition
 
-50% lactic acid bacteria + 50% other microorganisms (1 part forest microbes, 1 part bamboo microbes, 1 part plant-specific microbes).
+50% lactic [[lactic-acid-bacteria-knf]] + 50% other microorganisms (1 part forest microbes, 1 part bamboo microbes, 1 part plant-specific microbes).
 
 ## Lactic Acid Bacteria (LAB)
 
@@ -43,7 +43,7 @@ The major workhorse. See [[lactic-acid-bacteria-lab]] for full recipe. Key point
 
 ## Forest Microbes (Carandang's Method)
 
-Place cooked rice in a plastic container (wider surface area = better trapping), cover with metal netting for rat protection, bury in 2ft-1yd deep humus under a healthy old tree. In 2-10 days (temperature dependent), white and colored molds appear. Add 1/3 crude sugar/molasses, wait a week for sticky liquid. Add equal sugar for storage. Dilute 1:20 for use. Alternative: spread forest leaf mold/humus sparingly on top of cooked rice instead of burying.
+Place cooked rice in a plastic container (wider surface area = better trapping), cover with metal netting for rat protection, bury in 2ft-1yd deep humus under a healthy old tree. In 2-10 days (temperature dependent), white and colored molds appear. Add 1/3 crude sugar/molasses, wait a week for sticky liquid. Add equal sugar for storage. Dilute 1:20 for use. Alternative: spread forest [[comparison-leaf-mold-composting-vs-hot-composting-method]]/humus sparingly on top of cooked rice instead of burying.
 
 ## Bamboo Microbes
 
@@ -74,9 +74,11 @@ See [[bionutrients-guide]] for the full bionutrient preparation system that pair
 
 ## See Also
 
+- [[bacillus-megaterium]]
+
 - [[indigenous-microorganisms-imo]] — Cho's 4-stage IMO process
 - [[bionutrients-guide]] — Carandang's bionutrient system
-- [[lactic-acid-bacteria-lab]] — LAB serum recipe (key component of BIM)
-- [[knf-preparations]] — all KNF inputs overview
+- [[lactic-acid-bacteria-lab]] — [[comparison-lab-serum-vs-compost-tea]] recipe (key component of BIM)
+- [[knf-preparations]] — all [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]] overview
 - [[soil-food-web-nutrient-cycling]] — what IMO/BIM does in the soil
-- [[jadam-methods]] — JADAM's alternative microorganism solution (JMS)
+- [[jadam-methods]] — JADAM's alternative [[jadam-microorganism-solution-culturing]] (JMS)

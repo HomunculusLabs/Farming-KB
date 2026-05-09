@@ -14,7 +14,7 @@ type: concept
 Anorexia (loss of appetite) and cachexia (pathological weight loss and
 muscle wasting) represent significant clinical challenges across numerous
 conditions including cancer, HIV/AIDS, chronic kidney disease, and
-advanced age. In "The Cannabis Health Index," Uwe Blesching assigns this
+advanced age. In "The [[blesching-cannabis-health-index-autoimmune-conditions]]," Uwe Blesching assigns this
 condition category a Cannabis Health Index (CHI) rating of **28** based
 on **11 clinical studies**, reflecting a solid and growing evidence base
 for cannabis as an appetite stimulant and anti-cachectic agent.
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

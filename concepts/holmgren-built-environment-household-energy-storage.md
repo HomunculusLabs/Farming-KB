@@ -1,5 +1,5 @@
 ---
-title: "Built Environment as Energy Storage and the Household Economy"
+title: "artillery-fungus-and-built-environment-fungi as Energy Storage and the Household Economy"
 created: 2026-04-26
 tags:
   - built-environment
@@ -16,13 +16,13 @@ type: concept
 
 # Built Environment as Energy Storage and the Household Economy
 
-[[holmgren-household-economy-and-self-reliance]]
-and [[appropriate-technology]]: The Passive Solar Example
+holmgren-household-economy-and-self-reliance
+and [[appropriate-technology]]: The [[comparison-passive-solar-vs-earth-sheltered]] Example
 
 A passive solar house uses the high-embodied energy in glass to capture solar
 energy. If it does this while providing the other functions of glass -- natural
 lighting and views -- this is good use of embodied non-renewable energy. This is
-the archetype of appropriate technology: using concentrated non-renewable energy
+the archetype of [[mollison-designers-appropriate-technology-small-scale-tools]]: using concentrated non-renewable energy
 to establish a system that will continue to function on renewable flows.
 
 At Melliodora, connection to mains electricity supports less than 3 kilowatt
@@ -39,7 +39,7 @@ systems as if these resources were much more highly priced. Fossil fuels are ver
 useful, but they are massively overused and most uses to which they are put are
 destructive or banal.
 
-See also: [[holmgren-built-environment-energy-store]],
+See also: holmgren-built-environment-energy-store,
 ## Practical Considerations
 
 When working with Built Environment as Energy Storage and the Household Economy, several practical factors should be
@@ -56,7 +56,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -98,4 +98,9 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+## See Also
+- [[appropriate-technology]]
+- [[artillery-fungus-and-built-environment-fungi]]
+- [[holmgren-energy-descent-planning]]
+- [[phase-change-materials-thermal-energy-storage]]
+- [[holmgren-soil-humus-carbon-storage-rebuilding]]

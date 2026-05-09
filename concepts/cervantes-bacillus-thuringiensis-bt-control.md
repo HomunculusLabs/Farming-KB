@@ -1,5 +1,5 @@
 ---
-title: Bacillus Thuringiensis (Bt) for Cannabis Pest Control
+title: cervantes bacillus thuringiensis bt control (Bt) for query-how-to-use-neem-oil-for-cannabis-pest-control Control
 created: 2026-04-26
 tags:
   - cannabis
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -36,10 +37,10 @@ hornworms are all controlled.
 
 Commercial Bt products do not reproduce within insect bodies, so several
 applications may be necessary to control an infestation. Microbial Bt
-bacteria are nontoxic to animals (humans), beneficial insects, and plants;
+bacteria are nontoxic to animals (humans), [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], and plants;
 however, some people do develop an allergic reaction. Commercial Bt
 products do not contain living Bt bacteria, but the Bt toxin is extremely
-perishable. Keep within prescribed temperature range and apply according
+perishable. Keep within prescribed [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] and apply according
 to directions.
 
 Most effective on young caterpillars, larvae, and maggots, so apply as
@@ -88,7 +89,7 @@ diseases.
 
 ### B. subtilis
 A soil-dwelling bacterium that curbs Fusarium, Pythium, and Rhizoctonia
-that cause damping-off. Commercially available under brand names Epic,
+that cause damping-off. Commercially available under [[emcdda-brand-names-user-terms-smartshop-marketing]] Epic,
 Kodiac, Rhizo-Plus, Serenade, etc. Soak seeds and apply as a
 soil-drench.
 
@@ -118,7 +119,7 @@ applied according to label directions.
 
 ## See Also
 
-- [[cervantes-pest-disease]] for general pest management
+- [[cervantes-pest-disease]] for general [[cannabis-pest-management-guide]]
 - [[beneficial-insects-cannabis]] for predator introductions
 - [[root-rot-cannabis]] for fungus gnat-related root problems
 - [[leaf-miners-cannabis]] for Bt-targeted pests

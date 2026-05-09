@@ -13,9 +13,9 @@ updated: 2026-04-28
 sources:
   - Leafly. "Jungle Juice Strain Information." leafly.com.
   - AllBud. "Jungle Juice Weed Strain Information." allbud.com.
-  - Weedmaps. "Jungle Juice Cannabis Strain." weedmaps.com.
+  - Weedmaps. "Jungle Juice [[blesching-cannabis-strain-selection-receptor-targeting]]." weedmaps.com.
   - MJBizDaily. "2024 Cannabis Strain Market Trends."
-  - Cannabis Grow Bible. Green Candy Press, 5th Edition.created: 2026-05-07
+  - [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible. Green Candy Press, 5th Edition.created: 2026-05-07
 
 created: 2026-05-07
 ---
@@ -24,13 +24,13 @@ created: 2026-05-07
 
 **Jungle Juice** is an indica-dominant hybrid cannabis strain renowned for its intensely tropical aroma and deeply relaxing effects. The strain is believed to be a cross of **White Widow** and an unknown Afghani indica, though some phenotypic variants suggest additional tropical-lineage genetics.
 
-It has gained a dedicated following among recreational users for its smooth onset and body-heavy sedation, while medical patients value it for evening pain management and insomnia relief. The strain's name derives from its pungent, jungle-like bouquet of tropical fruit and earthy undertones.
+It has gained a dedicated following among recreational users for its smooth onset and body-heavy sedation, while medical patients value it for evening [[cannabis-pain-management-protocols]] and insomnia relief. The strain's name derives from its pungent, jungle-like bouquet of tropical fruit and earthy undertones.
 
 ## Lineage
 
 The exact breeder and genetic origin of Jungle Juice remain partially undocumented. The most widely accepted lineage places it as a cross between:
 
-- **White Widow** (indica-dominant hybrid, Brazilian sativa × South Indian indica) — contributing resin production and balanced potency.
+- **White Widow** (indica-dominant hybrid, Brazilian sativa × South Indian indica) — contributing [[cannabis-glandular-trichome-types-resin-production-clarke]] and balanced potency.
 - **Afghani landrace** — contributing dense bud structure, heavy body effects, and shortened flowering time.
 
 Some sources suggest a tertiary parent contributing the strain's signature tropical terpene profile, possibly a Thai or Hawaiian sativa, though this has not been genetically verified. The indica dominance is typically reported at 65–70%.
@@ -51,7 +51,7 @@ On the palate, the tropical sweetness carries through on the inhale, while the e
 
 - **Myrcene** (dominant, ~40–50%): Contributes sedative body effects and the earthy, herbal base notes. Myrcene is the primary driver of the strain's indica-leaning physical relaxation.
 - **Terpinolene** (secondary, ~15–20%): Adds the fruity, tropical aroma characteristic of the strain. Terpinolene is relatively uncommon as a dominant terpene, giving Jungle Juice its distinctive olfactory signature.
-- **Caryophyllene** (~10–15%): Adds peppery spice notes and contributes anti-inflammatory properties through CB2 receptor binding.
+- **Caryophyllene** (~10–15%): Adds peppery spice notes and contributes anti-inflammatory properties through CB2 [[tihkal-receptor-binding-serotonin]].
 - **Limonene** (~5–10%): Provides subtle citrus brightness and mood elevation.
 - **Pinene** (trace): Adds mild pine undertones and may counteract some of the sedative effects.
 
@@ -77,7 +77,7 @@ Duration is typically 2–3 hours, with the sedative phase lasting longest. The 
 - **Difficulty:** Easy to moderate
 - **Climate preference:** Warm, Mediterranean or tropical
 
-The strain is forgiving of minor cultivation errors and resistant to common molds. It responds well to low-stress training (LST) and screen of green (ScrOG) techniques. Outdoor harvest occurs in early to mid-October in northern latitudes.
+The strain is forgiving of minor cultivation errors and resistant to common molds. It responds well to low-stress training (LST) and [[cannabis-screen-of-green-scrog-guide]] (ScrOG) techniques. Outdoor harvest occurs in early to mid-October in northern latitudes.
 
 Plants reach medium height (90–150 cm indoors) with a bushy, lateral branching structure. Nutrient requirements are moderate; the strain is sensitive to over-fertilization during mid-flowering, which can cause tip burn and reduce terpene expression.
 
@@ -102,6 +102,6 @@ The strain is not recommended for daytime use or tasks requiring sustained atten
 
 - [[og-kush]]
 - [[granddaddy-purple]]
-- [[gelato-cannabis]]
-- [[wedding-cake-cannabis]]
+- [[gelato]]
+- [[wedding-cake]]
 - [[girl-scout-cookies]]

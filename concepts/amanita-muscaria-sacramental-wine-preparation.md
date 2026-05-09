@@ -1,5 +1,5 @@
 ---
-title: Amanita Muscaria Sacramental Wine Preparation
+title: amanita-muscaria [[allegro-amanita-muscaria-properties-and-pharmacology]] sacramental wine preparation Preparation
 created: 2026-04-19
 updated: 2026-04-18
 type: concept
@@ -9,7 +9,7 @@ tags: [amanita-muscaria, mycology]
 
 # Amanita Muscaria Sacramental Wine Preparation
 
-The sacramental wine preparation is one of the most sophisticated [[amanita-muscaria-ambrosia-preparation]] (cold water extraction), the sacramental wine method uses concentrated fruit juices as a nutrient medium, combined with modern sterile technique (pasteurization) to produce a potent, alcohol-free, sulfite-free "living wine" through the [[gordon-wasson-mushroom-discovery]] cites reports of Siberian tribes who fermented Amanita muscaria with:
+The sacramental wine preparation is one of the most sophisticated [[amanita-muscaria-ambrosia-preparation]] (cold water extraction), the sacramental wine method uses concentrated fruit juices as a nutrient medium, combined with modern [[cultivator-sterile-technique-and-agar-culture]] (pasteurization) to produce a potent, alcohol-free, sulfite-free "living wine" through the gordon-wasson-mushroom-discovery cites reports of Siberian tribes who fermented Amanita muscaria with:
 
 - Various berry or fruit juices
 - Diluted honey
@@ -23,7 +23,7 @@ The wines of the ancient Greeks and Romans had properties fundamentally differen
 
 - Had to be diluted with large quantities of water before consumption
 - Ratios ranged from one part wine to 2-50 parts water
-- Consuming large quantities of undiluted ancient wine could cause death
+- Consuming large quantities of undiluted [[amanita-muscaria-ancient-wine-question]] could cause death
 - Undiluted wine was used on battle wounds as an antiseptic (per Homer's Iliad, 800 BC)
 - Modern wine is never used this way
 - Produced from very ancient times into the late Roman Era (~500 AD), then production seems to cease
@@ -32,7 +32,7 @@ This wine dilution puzzle is analyzed in detail in the [[amanita-muscaria-ancien
 
 ### Biblical Connection
 
-The Gospel of John 15:1 states: "I am the true vine and my father is the husbandman." The author interprets this as referring to the Amanita muscaria -- the "true vine" that produces the sacramental wine.
+The Gospel of John 15:1 states: "I am the true vine and my father is the husbandman." The author interprets this as referring to [[allegro-colour-and-consistency-of-the-amanita-muscaria]] -- the "true vine" that produces the sacramental wine.
 
 ## The Science: Pasteurization and Pure Culture
 
@@ -54,7 +54,7 @@ The author applies Pasteur's technique to Amanita muscaria wine production:
 - Fruit juice is pasteurized in glass bottles plugged with polyfill
 - After cooling, dried mushroom powder is added as inoculant
 - The polyfill allows oxygen exchange while filtering contaminants
-- Amanita mycelium grows in the sterile juice medium
+- Amanita [[mycelium]] grows in the sterile juice medium
 - The result is a pure culture of Amanita in fruit juice -- "living wine"
 
 ## Equipment and Materials

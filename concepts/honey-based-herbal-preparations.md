@@ -4,12 +4,13 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [herbalism, herbs]
-sources: []
+sources:
+  sources: []
 ---
 
 # Honey-Based Herbal Preparations
 
-Honey-based herbal preparations combine the therapeutic properties of medicinal herbs with the preservative, soothing, and antimicrobial qualities of honey. Honey has been used as a medicine carrier for thousands of years across virtually every herbal tradition. Its high sugar content, low moisture, acidic pH, and natural hydrogen peroxide production make it an excellent preservative and a therapeutic agent in its own right.
+Honey-based herbal preparations combine the therapeutic properties of [[permaculture-plants-medicinal-herbs-healing]] with the preservative, soothing, and antimicrobial qualities of honey. Honey has been used as a medicine carrier for thousands of years across virtually every herbal tradition. Its high sugar content, low moisture, acidic pH, and natural [[cervantes-hydrogen-peroxide-sterilization]] production make it an excellent preservative and a therapeutic agent in its own right.
 
 ## Properties of Honey as a Medicine Carrier
 
@@ -23,9 +24,9 @@ For herbal preparations, raw honey is strongly preferred over pasteurized honey.
 
 ## Electuaries
 
-Electuaries (from the Latin electuarium) are preparations of powdered herbs mixed with honey to form a thick, paste-like consistency. They are among the oldest forms of herbal medicine, used extensively in ancient Egyptian, Greek, Roman, and medieval European practice. Electuaries were the standard pharmacy preparation for centuries before tinctures became widespread.
+Electuaries (from the Latin electuarium) are preparations of powdered herbs mixed with honey to form a thick, paste-like consistency. They are among the oldest forms of herbal medicine, used extensively in ancient Egyptian, Greek, Roman, and [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] practice. Electuaries were the standard pharmacy preparation for centuries before tinctures became widespread.
 
-The basic method involves combining finely powdered dried herbs with enough raw honey to form a workable paste. The ratio is typically one part powdered herb to two to three parts honey by weight, though this varies depending on the herb's potency and the desired consistency. The paste is stored in a glass jar and consumed by the teaspoon as needed.
+The basic method involves combining finely powdered dried herbs with enough raw honey to form a workable paste. The ratio is typically one part powdered herb to two to three parts honey by weight, though this varies depending on the herb's potency and the desired consistency. The paste is stored in a [[sterile-spore-print-collection-glass-jar-technique]] and consumed by the teaspoon as needed.
 
 Electuaries are particularly well-suited to herbs that are palatable when powdered and whose active constituents are stable in honey. Roots, barks, and seeds that have been ground to a fine powder work well. Aromatic herbs and those with volatile oils may lose some potency over time in electuaries, though the honey itself helps preserve these compounds to some degree.
 
@@ -43,7 +44,7 @@ To prepare an oxymel, the herb is first extracted in vinegar by steeping for two
 
 Oxymels are taken by the spoonful or diluted in water as a beverage. They are traditionally used for respiratory conditions (fire cider oxymels with garlic, onion, horseradish, and cayenne), digestive support, immune stimulation, and as general tonics. The sour-sweet flavor profile makes them more palatable than straight vinegar extracts for many people.
 
-The shelf life of oxymels is excellent due to the combined preservative properties of both honey and vinegar. Properly stored in a cool, dark place, oxymels can last one to two years or longer. See [[herb-drug-interactions]] page when combining herbal preparations with pharmaceutical medications. See [[herbal-medicine-safety]] for general safety principles.
+The shelf life of oxymels is excellent due to the combined preservative properties of both honey and vinegar. Properly stored in a cool, dark place, oxymels can last one to two years or longer. See [[herb-drug-interactions]] page when combining herbal preparations with pharmaceutical medications. See [[herbal-medicine-safety]] for general [[shulgin-safety-principles-self-experimentation]].
 
 ## Related Topics
 
@@ -66,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

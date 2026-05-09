@@ -5,12 +5,12 @@ updated: 2026-04-19
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 
 Updated: 2026-04-18
 
-High Intensity Discharge (HID) lighting is the standard for serious indoor cannabis cultivation. This page provides comparative specifications for Metal Halide (MH) and High Pressure Sodium (HPS) lamps from major manufacturers.
+High Intensity Discharge (HID) lighting is the standard for serious indoor [[query-how-does-no-till-cannabis-cultivation-work]]. This page provides comparative specifications for Metal Halide (MH) and High [[cervantes-high-pressure-sodium-lighting]] (HPS) lamps from major manufacturers.
 
 ## Key Metrics
 
@@ -44,11 +44,11 @@ High Intensity Discharge (HID) lighting is the standard for serious indoor canna
 
 ## General Guidelines
 
-- **Vegetative stage**: Metal Halide (MH) — blue-white spectrum promotes compact, leafy growth
+- **[[comparison-cannabis-vegetative-stage-vs-flowering-stage]]**: Metal Halide (MH) — blue-white spectrum promotes compact, leafy growth
 
-- **Flowering stage**: High Pressure Sodium (HPS) — orange-red spectrum promotes bud development
+- **[[cannabis-flowering-stage-management]]**: High Pressure Sodium (HPS) — orange-red spectrum promotes bud development
 
-- **PAR watts matter more than lumens** — PAR measures the light spectrum plants actually use
+- **PAR watts matter more than lumens** — PAR measures the [[cannabis-light-spectrum-and-color-bands]] plants actually use
 
 - **Replace bulbs every 6-12 months** — output degrades over time even if the bulb still lights
 
@@ -56,7 +56,7 @@ High Intensity Discharge (HID) lighting is the standard for serious indoor canna
 
 ## Light Coverage Guidelines
 
-Proper light coverage is critical for Cannabis Cultivation Basics. A 400W lamp covers approximately 4x4 feet for flowering or 5x5 feet for vegetative growth. A 600W lamp covers 5x5 feet (flowering) or 6x6 feet (vegetative). A 1000W lamp covers 6x6 feet (flowering) or 8x8 feet (vegetative). Light intensity decreases exponentially with distance — the inverse square law means doubling the distance from bulb to canopy reduces light to one-quarter.
+Proper light coverage is critical for Cannabis Cultivation Basics. A 400W lamp covers approximately 4x4 feet for flowering or 5x5 feet for [[cannabis-vegetative-growth-stage]]. A 600W lamp covers 5x5 feet (flowering) or 6x6 feet (vegetative). A 1000W lamp covers 6x6 feet (flowering) or 8x8 feet (vegetative). Light intensity decreases exponentially with distance — the inverse square law means doubling the distance from bulb to canopy reduces light to one-quarter.
 
 ## MH vs HPS Quick Comparison
 

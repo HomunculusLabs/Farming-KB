@@ -1,5 +1,5 @@
 ---
-title: Potato Growing Guide - Irish and Sweet
+title: potato-growing-guide - Irish and Sweet
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Steve Solomon considers potatoes the most calorie-efficient vegetable crop, making them essential for any serious food garden. He provides detailed guidance on both Irish potatoes and sweet potatoes.
+[[steve-solomon]] considers potatoes the most calorie-efficient vegetable crop, making them essential for any serious food garden. He provides detailed guidance on both Irish potatoes and sweet potatoes.
 
 ## Irish Potatoes
 
@@ -92,12 +92,12 @@ When growing food during lean times, maximizing calories per unit area is essent
 
 ### Pests and Disease Prevention
 
-- Most effective weapon: crop rotation.
+- Most effective weapon: [[comparison-crop-rotation-vs-cover-cropping]].
 - Don't repeat sweet potatoes on same beds for at least 3-4 years.
-- During the break, don't allow bindweed or morning glory (pernicious relatives).
+- During the break, don't allow bindweed or [[golden-guide-morning-glory-and-ololiuqui]] (pernicious relatives).
 - Clean up all vines, dig out all root material, and hot-compost or burn them.
 - Due to companionate effects, legumes following sweet potatoes won't grow well.
-- Best to follow with a brassica cover crop.
+- Best to follow with a brassica [[cover-crop]].
 
 ### Harvest and Curing
 

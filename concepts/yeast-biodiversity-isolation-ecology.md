@@ -1,5 +1,5 @@
 ---
-title: Yeast Biodiversity — Isolation, Ecology, and Global Distribution
+title: rhodotorula-yeast-biodiversity-ecology — Isolation, Ecology, and four-groups-neurotropic-fungi-global-distribution-guzman-1998
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -63,7 +63,7 @@ Deep-sea samples collected through water column using Sterile Bag Samplers. Temp
 Conventional taxonomic characters are often inadequate for yeasts. Molecular methods are increasingly essential:
 - Automated sequencing of specific gene regions
 - Gene scanners for rapid determination of sequence lengths
-- Species- or genus-specific probes for diversity assessment on microscope slides
+- Species- or genus-specific probes for [[ingham-soil-food-web-diversity-assessment-dna-molecular-methods]] on microscope slides
 - Molecular traits must be used due to inadequacy of conventional characters
 
 ## Culture Collections
@@ -71,7 +71,7 @@ Conventional taxonomic characters are often inadequate for yeasts. Molecular met
 Major yeast culture collections worldwide include:
 - CBS (Netherlands) — largest
 - DBVPG (Italy)
-- ATCC and NRRL (United States)
+- ATCC and NRRL ([[dmt-containing-plants-united-states-halpern]])
 - IFO and JCM (Japan)
 - NCYC (United Kingdom)
 - And many national collections in China, Russia, Slovakia, and elsewhere
@@ -85,5 +85,5 @@ Yeasts play critical roles in:
 - [[saprobic-soil-fungi-ecology-survey]]
 - [[molecular-methods-fungal-taxonomy-and-diversity]]
 - [[biodiversity-of-fungi-plant-health-pathogens-biocontrol]]
-- [[fungal-biodiversity-in-soil-ecosystems]]
+- fungal-biodiversity-in-soil-ecosystems
 - [[fungal-biodiversity-in-extreme-environments]]

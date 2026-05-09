@@ -1,10 +1,11 @@
 ---
-title: Amazonian Ayahuasca Purge and Diet Practices
+title: harner-amazonian-ayahuasca-preparation-methods Purge and Diet Practices
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/amaringo-p-ayahuasca-visions.md"
 ---
 
 # Amazonian Ayahuasca, Purge, and Diet Practices
@@ -19,7 +20,7 @@ The ayahuasca brew is prepared from Banisteriopsis caapi vine, typically combine
 
 ### The Ceremony
 
-Sessions typically involve a small group: one or more sick persons, several neophytes, and the vegetalista. The vegetalista leads by singing icaros and blowing mapacho (tobacco) smoke over patients. The Mareacion (the visionary intoxication) builds as the ayahuasca takes effect.
+Sessions typically involve a small group: one or more sick persons, several neophytes, and the vegetalista. The vegetalista leads by [[metzner-shamanic-singing-icaros-rhythm-and-entrainment]] and blowing mapacho (tobacco) smoke over patients. The Mareacion (the visionary intoxication) builds as the ayahuasca takes effect.
 
 ### The Purge
 
@@ -112,7 +113,9 @@ The spirits teach healing through natural forces:
 
 The sylphs of thunder and lightning teach these methods. The puyo-runas (cloud men, mist men) are spirits who teach curing through the influence of the moon, the night dew, and other atmospheric phenomena.
 
-## Related Topics
+## Related
+
+- [[ayahuasqueros-amazonian-shamans]] Topics
 
 - [[amazonian-sorcery-illness-and-curing-practices]] -- the illnesses these practices address
 - [[amazonian-medicinal-plants-in-amaringos-visions]] -- the plants used in treatment

@@ -3,14 +3,10 @@ title: Coprophilous Fungi — Succession and Ecological Dynamics
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-# Coprophilous Fungi — Succession and Ecological Dynamics
-
-## Overview
-
-Coprophilous (dung-inhabiting) fungi encompass species from multiple fungal groups, including **Myxomycetes, Zygomycetes, Ascomycetes, and Basidiomycetes**. Of the approximately 700 described myxomycete species, roughly **12 are exclusively coprophilous**. Dung represents a nutrient-rich, temporally dynamic substrate that supports a distinctive fungal community with well-documented successional patterns. The study of coprophilous fungi is central to [[fungal-succession-in-decomposition]].
+# Coprophilous Fungi — Succession and Ecological Dynamics ## Overview Coprophilous (dung-inhabiting) fungi encompass species from multiple fungal groups, including **Myxomycetes, Zygomycetes, Ascomycetes, and Basidiomycetes**. Of the approximately 700 described myxomycete species, roughly **12 are exclusively coprophilous**. Dung represents a nutrient-rich, temporally dynamic substrate that supports a distinctive fungal community with well-documented successional patterns. The study of coprophilous fungi is central to [[fungal-succession-in-decomposition]].
 
 ## Successional Sequence
 
@@ -34,7 +30,7 @@ Myxomycetes typically appear **last**, sometimes up to two months after depositi
 
 ## Latitudinal Patterns
 
-Species richness of coprophilous fungi **decreases with increasing latitude**. Tropical and subtropical regions host the most diverse coprophilous assemblages, consistent with broader global biodiversity gradients. This pattern has implications for paleoecological studies that use Sporormiella spores as proxies for megaherbivore presence.
+Species richness of coprophilous fungi **decreases with increasing latitude**. Tropical and subtropical regions host the most diverse coprophilous assemblages, consistent with broader [[psilocybe-global-biodiversity-hotspots]] gradients. This pattern has implications for paleoecological studies that use Sporormiella spores as proxies for megaherbivore presence.
 
 ## Spore Dispersal and Germination
 

@@ -1,5 +1,5 @@
 ---
-title: Ornamental Shrub and Perennial Care
+title: hamilton ornamental shrub care and Perennial Care
 created: 2026-04-28
 tags: [shrubs, perennials, pruning, ornamental, hamilton]
 date: 2026-04-25
@@ -21,7 +21,7 @@ healthy, attractive, and productive members of the garden community.
 Most shrubs are planted in the same way as trees. They can be bought
 bare root in winter or container-grown at any time. Check plants for
 signs of disease before buying. Dig a hole large enough to
-accommodate the root ball comfortably, incorporate organic matter into
+accommodate the root ball comfortably, incorporate [[hamilton-composting-and-organic-matter-management]] into
 the soil, and firm in well. Water thoroughly after planting, especially
 with container-grown plants.
 
@@ -38,8 +38,8 @@ down. Shrubs can be heeled in for several weeks.
 
 ### Feeding
 
-Apply a general organic fertilizer and mulch with well-rotted manure
-or garden compost in spring. A dressing of kelp meal once every three
+Apply a general [[complete-organic-fertilizer-cof-recipe-solomon]] and mulch with well-rotted manure
+or garden compost in spring. A dressing of [[comparison-kelp-meal-vs-rock-dust]] once every three
 years provides valuable trace elements. See
 [[hamilton-organic-pest-control]] for organic treatment methods.
 
@@ -60,7 +60,7 @@ long shoots. The longer the shoots, the more flowers they carry.
 Plants like butterfly bush (Buddleja davidii) flower on wood made
 during the same season. They make long growths from resting winter
 buds and flower late in summer. To increase bloom size, cut all shoots
-made the previous year back hard in early spring.
+made the previous year back hard in [[coleman-overwintered-onions-and-early-spring-crops]].
 
 ### Plants That Set Seed
 

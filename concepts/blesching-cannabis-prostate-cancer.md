@@ -50,7 +50,7 @@ regulation.
 A 2004 study from Wisconsin found that prostate cancer cells contained
 significantly higher expressions of both CB1 and CB2 receptors compared to
 healthy prostate cells. This led researchers to suggest a possible novel
-approach to treating prostate cancer through cannabinoid receptor targeting.
+approach to treating prostate cancer through [[cannabis-cannabinoid-receptor-pharmacology]] targeting.
 
 ### CB1 in Healthy Prostate Tissue
 
@@ -76,7 +76,7 @@ Total CHI Value: 3 (3 studies reviewed)
 Prostate cancer cells contain significantly higher expressions of both CB1 and
 CB2 receptors, prompting researchers to suggest a novel approach in treatment.
 Anandamide and THC bind relatively equally with CB1 and CB2. Sativas and
-sativa-dominant strains contain a higher THC:CBD ratio, providing increased
+sativa-dominant strains contain a higher THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]], providing increased
 similarity to the cannabinoid profile of anandamide.
 
 ## Mind-Body Medicine and Prostate Health
@@ -108,6 +108,11 @@ sex, and transforming emotionally limiting beliefs.
   demonstrating potent antimetastatic properties.
 
 ## See Also
+
+- [[blesching-cannabis-cancer-night-sweats]]
+- [[blesching-cannabis-colon-cancer]]
+- [[blesching-cannabis-thyroid-cancer]]
+- [[blesching-cannabis-lung-cancer]]
 
 - [[blesching-cannabis-cancer-symptoms]]
 - [[blesching-cannabis-immune-system-modulation]]

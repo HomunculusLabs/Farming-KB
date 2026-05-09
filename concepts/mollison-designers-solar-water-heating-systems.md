@@ -1,5 +1,5 @@
 ---
-title: Solar Water Heating Systems
+title: mollison designers solar water heating systems Systems
 created: 2026-04-28
 tags:
   - solar-energy
@@ -16,12 +16,12 @@ type: concept
 
 # Solar Water Heating Systems
 
-Solar water heating is a key appropriate technology in Bill Mollison's
-Permaculture: A Designers Manual, providing domestic hot water using
-free solar energy with minimal mechanical complexity. Mollison presents
+Solar water heating is a key [[mollison-designers-appropriate-technology-small-scale-tools]] in Bill Mollison's
+Permaculture: A [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]], providing domestic hot water using
+free [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] with minimal mechanical complexity. Mollison presents
 solar water heating as an essential component of energy-efficient
 permaculture homesteads, reducing or eliminating fuel consumption for
-one of the largest household energy uses.
+one of the largest [[holmgren-built-environment-household-energy-storage]] uses.
 
 ## Batch Heaters (Integral Collector Storage)
 
@@ -34,7 +34,7 @@ use. No pumps or controls are needed.
 Batch heaters are cheap to build from salvaged materials -- an old
 water heater tank, a glass pane, and insulation. They work well in
 warm, sunny climates but lose heat rapidly at night and during cloudy
-periods. Mollison recommends them as entry-level [[holmgren-renewable-resources-detailed]]
+periods. Mollison recommends them as entry-level holmgren-renewable-resources-detailed
 principles.
 
 ## Evacuated Tube Collectors
@@ -52,11 +52,11 @@ main disadvantage.
 
 ## Solar Hot Water System Integration
 
-In permaculture design, solar water heating integrates with multiple
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], solar water heating integrates with multiple
 systems:
 
-- Pre-heating water for [[mollison-designers-food-processing-preservation-storage]] and preservation
-- Supporting [[permaculture-solar-energy-inventions]]
+- Pre-heating water for mollison-designers-food-processing-preservation-storage and preservation
+- Supporting permaculture-solar-energy-inventions
 - [[passive-solar-design]]
 ## Practical Considerations
 
@@ -76,4 +76,9 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[solar-water-heating]]
+- [[mollison-designers-soil-water-storage-in-forest-systems]]
+- [[mollison-designers-home-energy-conservation-and-solar-heating]]
+- [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]
+- [[mollison-designers-passive-solar-heating-building-design]]

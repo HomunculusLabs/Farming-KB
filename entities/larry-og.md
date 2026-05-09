@@ -12,10 +12,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Leafly Staff. \"Larry OG Cannabis Strain Information.\" Leafly.com."
+  - "Leafly Staff. \"Larry OG blesching-cannabis-strain-selection-receptor-targeting Information.\" Leafly.com."
   - "AllBud. \"Larry OG Strain Review.\" AllBud.com."
   - " cannabis-data.org. Strain database entry for Larry OG."
-  - "Smart, R. et al. (2017). \"Cannabis potency.\" Addiction, 112(5), 778-786."
+  - "Smart, R. et al. (2017). \"[[green-cannabis-potency-maximizing]].\" Addiction, 112(5), 778-786."
 ---
 
 # Larry OG
@@ -64,7 +64,7 @@ and has served as a parent in several notable crosses.
 - **Body effects:** Strong sedative body stone, muscle tension relief,
   couch-lock at higher doses
 - **Medical applications:**
-  - Chronic pain management (back pain, joint inflammation, neuropathy)
+  - [[cannabis-chronic-pain-management]] management (back pain, joint inflammation, neuropathy)
   - Insomnia — one of its most consistently reported benefits
   - Anxiety and stress relief
   - Appetite stimulation
@@ -85,8 +85,8 @@ and has served as a parent in several notable crosses.
 - **Climate:** Prefers warm, Mediterranean-like conditions; thrives in
   Southern California outdoor environments
 - **Resistance:** Good resistance to mold and common pests; moderate
-  susceptibility to powdery mildew in humid conditions
-- **Nutrient needs:** Moderate to heavy feeder during vegetative stage;
+  susceptibility to [[cervantes-powdery-mildew-prevention-treatment]] in humid conditions
+- **Nutrient needs:** Moderate to heavy feeder during [[comparison-cannabis-vegetative-stage-vs-flowering-stage]];
   reduce nitrogen in late flowering
 - **Training:** Responds well to LST (low-stress training), topping, and
   ScrOG ([[thin-mint]] GSC
@@ -100,7 +100,7 @@ and has served as a parent in several notable crosses.
   cannabis underground of the early 2000s
 - Considered a "tier 1" OG cut among Southern California collectors — a
   designation reserved for the most sought-after OG phenotypes
-- Helped establish the premium indoor cannabis market in California before
+- Helped establish the premium [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]] market in California before
   statewide legalization
 - Frequently appears on dispensary menus across legal U.S. markets
 - Has maintained popularity despite the proliferation of newer strains,

@@ -20,8 +20,8 @@ type: comparison
 
 ## Quick-Answer Summary
 
-- **Choose Sedum** for sprawling ground cover, green roofs, living walls, and situations needing fast, low-maintenance spread.
-- **Choose Sempervivum** for tight rosette form, rock garden focal points, container arrangements, and areas with harsh freeze-thaw cycles.
+- **Choose Sedum** for sprawling [[fukuoka-citrus-orchard-ground-cover-cultivation]], [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]], living walls, and situations needing fast, low-maintenance spread.
+- **Choose Sempervivum** for tight rosette form, [[hamilton-rock-garden-design]] focal points, container arrangements, and areas with harsh freeze-thaw cycles.
 - Both are excellent, drought-tolerant succulents in the family Crassulaceae but differ significantly in growth habit, lifespan, and propagation.
 
 ## Taxonomic Relationship
@@ -61,11 +61,11 @@ Sempervivum is generally the tougher cold-weather genus, tolerating exposed, win
 | Soil fertility | Low to moderate; avoid rich soils | Very low; poor soil preferred |
 | pH range | 6.0–7.5 | 6.0–8.0 (alkaline-tolerant) |
 
-Neither genus tolerates heavy clay or persistently wet feet. Raised beds, in-ground, and containers all work with appropriate drainage. Gritty mixes are recommended.
+Neither genus tolerates heavy clay or persistently wet feet. [[comparison-raised-beds-vs-hugelkultur]], in-ground, and containers all work with appropriate drainage. Gritty mixes are recommended.
 
 ## Water Needs
 
-- **Sedum**: Drought-tolerant once established. Water deeply but infrequently; every 1–2 weeks in summer, almost none in winter. Overwatering causes root rot.
+- **Sedum**: Drought-tolerant once established. Water deeply but infrequently; every 1–2 weeks in summer, almost none in winter. Overwatering [[query-what-causes-root-rot-in-cannabis-and-how-to-prevent-it]] rot.
 - **Sempervivum**: Extremely drought-tolerant. Rosettes store water internally. Water only when soil is completely dry; avoid water pooling in rosette centers.
 
 ## Propagation
@@ -135,9 +135,11 @@ Both genera reward gardeners with years of beauty and resilience. For maximum im
 
 ## See Also
 
-- [[permaculture-ground-cover-plants]]
+- permaculture-ground-cover-plants
 - [[plant-propagation]]
 
 ## See Also
 
-- [[gaias-garden-living-mulches-ground-covers]]
+- gaias-garden-living-mulches-ground-covers
+- [[comparison-stevia-vs-monk-fruit-sweetener-cultivation]]
+- [[comparison-solar-dehydrator-vs-electric-dehydrator]]

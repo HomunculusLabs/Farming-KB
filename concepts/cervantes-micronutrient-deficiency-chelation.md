@@ -4,13 +4,14 @@ created: 2026-04-26
 tags:
   - cannabis
   - micronutrients
-  - cannabis cannabis grow nutrient deficiency problem solving and toxicity guide
-  - cervantes micronutrient deficiency chelation
+  - cannabis [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] [[cannabis-nutrient-deficiency-and-toxicity-guide]] [[maitake-problem-solving-troubleshooting]] and toxicity guide
+  - cervantes cervantes micronutrient deficiency chelation chelation
   - trace-elements
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -20,7 +21,7 @@ type: concept
 
 ## Micronutrient Overview
 
-Micronutrients, also called teaming with [[teaming-with-nutrients-micronutrients-and-trace-elements]] elements or trace nutrients, are
+Micronutrients, also called teaming with  elements or trace nutrients, are
 essential to chlorophyll formation and must be present in minute amounts.
 They function mainly as catalysts to the plant's process and utilization
 of other elements. For best results, use fertilizers designed for
@@ -28,7 +29,7 @@ hydroponics. High-quality [[query-what-are-the-most-common-cannabis-nutrient-def
 deficient. Deficiencies of all three plague many more grow rooms than
 expected. Often deficiencies of all three occur concurrently, especially
 when soil or water pH is above 6.5. Deficiencies are most common in arid
-climates -- Spain, the Southwestern United States, Australia, etc. -- with
+climates -- Spain, the Southwestern [[dmt-containing-plants-united-states-halpern]], Australia, etc. -- with
 alkaline soil and water. All three have the same initial symptom:
 interveinal chlorosis of young leaves. It is often difficult to
 distinguish which element is deficient, and all three could be deficient.
@@ -56,7 +57,7 @@ growth. Vital part in sugar and protein production. Fairly common to find
 zinc-deficient cannabis.
 
 ### Deficiency
-The most common microcervantes organic mineral amendments, especially in arid climates and
+The most common microcervantes [[cervantes-organic-mineral-amendments]] amendments, especially in arid climates and
 alkaline soils (pH 7 or more). Younger leaves exhibit interveinal
 chlorosis; new leaves and growing tips develop small, thin blades that
 contort and wrinkle. Leaf tips and later margins discolor and burn. Burned

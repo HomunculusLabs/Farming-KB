@@ -25,7 +25,7 @@ During the psilocybin-induced visionary state with eyes closed, one is
 confronted with what Powell describes as "a powerful communicatory flow of
 organised symbolic information." This overwhelming impression of intentional
 communication leaves no room for doubt during the experience itself. The
-Reverend S.J., one of the subjects of the Good Friday experiment, described
+Reverend S.J., one of the subjects of the Good [[good-friday-experiment-marsh-chapel]], described
 the experience as a "movie issuing from somewhere apart from his sense of
 self," in which he felt "drawn out into infinity" and "caught up in the
 vastness of creation." Such accounts are typical of encounters with the
@@ -45,7 +45,7 @@ itself embodies this intelligence.
 ## The Other as Information
 
 Powell offers a distinctive contribution by grounding the concept of the
-Other in information theory. The Gaian Mind or Other, he argues, is
+Other in information theory. The [[powell-gaian-mind-and-entheogenic-flora]] or Other, he argues, is
 information, or at least the creative organising principle underlying
 brain-based information-integration and informational patterning. Its
 language is that of symbols and cultural images. Through the "redemptive
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

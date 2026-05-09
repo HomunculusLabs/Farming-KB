@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-Maui Wowie (also spelled Maui Waui) is a classic **sativa-dominant landrace cannabis strain** originating from the volcanic island of Maui in Hawaii. It gained widespread fame during the 1960s and 1970s counterculture movement as one of the premier imported strains in North America.
+Maui Wowie (also spelled Maui Waui) is a classic **sativa-dominant [[cervantes-landrace-cannabis-populations]] strain** originating from the volcanic island of Maui in Hawaii. It gained widespread fame during the 1960s and 1970s counterculture movement as one of the premier imported strains in [[psilocybin-north-america-pacific-northwest]].
 
 The strain is renowned for its **tropical, citrus-pine aroma** and its clear, uplifting cerebral effects that evoke the Hawaiian landscape it comes from. Original Maui Wowie plants grew tall and lanky, adapted to the island's tropical climate and rich volcanic soil.
 
@@ -27,7 +27,7 @@ True landrace Maui Wowie is increasingly rare today. Most modern versions are cr
 
 ## Lineage
 
-Maui Wowie is a **Hawaiian landrace sativa**, meaning it evolved in isolation on Maui over many generations without significant crossbreeding. Its exact genetic ancestry is unknown but likely traces back to Southeast Asian sativa varieties brought to the islands.
+Maui Wowie is a **Hawaiian [[african-landrace-sativa-modern-hybrids]]**, meaning it evolved in isolation on Maui over many generations without significant crossbreeding. Its exact genetic ancestry is unknown but likely traces back to Southeast Asian sativa varieties brought to the islands.
 
 The strain belongs to the broader category of **"Maui" or "Kona" Hawaiian strains**, which share a common genetic pool adapted to the Pacific island environment. These strains are part of the equatorial sativa group characterized by long flowering times and tall stature.
 
@@ -37,7 +37,7 @@ Modern seed offerings labeled Maui Wowie are typically hybrids that combine orig
 
 Original Maui Wowie plants are **tall and loosely branched**, reaching heights of 2–3 meters outdoors. The internodal spacing is long, with narrow, finger-like sativa leaves.
 
-Buds are **elongated and airy**, less dense than modern hybrid varieties. They display bright green coloration with occasional orange pistils. In optimal conditions, the flowers develop a light coating of translucent trichomes rather than the heavy frost seen in contemporary high-THC cultivars.
+Buds are **elongated and airy**, less dense than modern [[cervantes-hybrid-varieties-types]]. They display bright green coloration with occasional orange pistils. In optimal conditions, the flowers develop a light coating of translucent trichomes rather than the heavy frost seen in contemporary high-THC cultivars.
 
 The overall appearance is characteristic of a **pure or near-pure sativa landrace**: stretchy, loose structure with moderate resin production compared to modern commercial hybrids.
 
@@ -82,7 +82,7 @@ Key cultivation parameters:
 - **Height** — tall; requires significant vertical space
 - **Difficulty** — moderate; stretch during flowering needs management
 
-The strain responds well to **training techniques** including LST and ScrOG to control its height. Nutrient requirements are moderate; overfeeding can diminish the delicate tropical terpene profile. Original landrace genetics are sensitive to cold and require stable warm conditions.
+The strain responds well to **[[cannabis-training-techniques-comparison]]** including LST and ScrOG to control its height. Nutrient requirements are moderate; overfeeding can diminish the delicate tropical terpene profile. Original landrace genetics are sensitive to cold and require stable warm conditions.
 
 ## Cannabinoid Profile
 
@@ -97,7 +97,7 @@ The cannabinoid profile is relatively simple compared to modern poly-hybrids:
 
 Modern cultivars sold as Maui Wowie tend to have significantly higher THC content (15–20%) due to crossbreeding with high-potency lines. Purists consider this a departure from the original's moderate, manageable effects.
 
-The relatively low cannabinoid concentration is offset by a **rich and diverse terpene profile**, which contributes significantly to the overall psychoactive experience through the entourage effect.
+The relatively low cannabinoid concentration is offset by a **rich and diverse terpene profile**, which contributes significantly to the overall psychoactive experience through the [[cannabis-terpene-entourage-effect-profiles]].
 
 ## Medical Applications
 

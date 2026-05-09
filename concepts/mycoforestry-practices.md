@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/mushrooms-fungi-from-around-the-world.md"
 ---
-Mycoforestry is a newly emerging science, an offshoot of ecoforestry practices with an emphasis on the role of beneficial fungi. It represents the application of mycological knowledge to forest management, restoration, and sustainable timber production, recognizing that fungi are essential partners in maintaining forest health, soil fertility, and ecosystem resilience.
+Mycoforestry is a newly emerging science, an offshoot of ecoforestry practices with an emphasis on the role of beneficial fungi. It represents the application of mycological knowledge to [[mollison-pdc-forest-management-products]], restoration, and sustainable timber production, recognizing that fungi are essential partners in maintaining forest health, soil fertility, and ecosystem resilience.
 
 ## The Mycorrhizal Foundation
 
@@ -15,7 +15,7 @@ Mycorrhizal mushrooms form mutually beneficial relationships with pines and othe
 
 Both plant and mycorrhizae benefit from this association. Because ectomycorrhizal mycelium grows beyond the plant's roots, it brings distant nutrients and moisture to the host plant, extending the absorption zone well beyond the root structure. The mycelium dramatically increases the plant's ingestion of nutrients, nitrogenous compounds, and essential elements such as phosphorus, copper, and zinc as it decomposes surrounding debris.
 
-David Perry (1994) postulates that the surface area of mycorrhizal fungi may be 10 to 100 times greater than the surface area of leaves in a forest. As a result, the growth of plant partners is accelerated. Plants with mycorrhizal fungal partners can also resist diseases far better than those without. Fungi benefit from the relationship because it gives them access to plant-secreted sugars, mostly hexoses that the fungi convert to mannitols, arabitols, and erythritols.
+David Perry (1994) postulates that the surface area of [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] may be 10 to 100 times greater than the surface area of leaves in a forest. As a result, the growth of plant partners is accelerated. Plants with [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] partners can also resist diseases far better than those without. Fungi benefit from the relationship because it gives them access to plant-secreted sugars, mostly hexoses that the fungi convert to mannitols, arabitols, and erythritols.
 
 ## Nutrient Transport Between Species
 
@@ -49,9 +49,9 @@ Leave snags to sustain bird and insect populations.
 
 Use spored oils in chain saws, chippers, and cutting tools so that wood debris is immediately put into contact with fungal spores, speeding up decomposition.
 
-Retain wood debris on-site, and place debris around newly planted trees, along roads, or wherever erosion control is needed.
+Retain wood debris on-site, and place debris around newly planted trees, along roads, or wherever [[permplant-willows-salix-erosion-control-fodder]] is needed.
 
-Only burn wood debris as a last-ditch measure for disease control.
+Only burn wood debris as a last-ditch measure for [[hamilton-pest-and-disease-control-organic]].
 
 Use mycorrhizal spore inoculum when replanting forestlands, since seedlings cultivated in pasteurized or constructed soils on tree nurseries typically lack mycorrhizae.
 
@@ -61,7 +61,7 @@ Thousands of mushroom species form mycorrhizal relationships with trees, and mos
 
 By far the preferred mycorrhizae for trees are Rhizopogons, Pisolithus, and Glomus species. These inedible mushrooms, which resemble little puffballs, mycorrhize with about 80 percent of all trees in temperate climates. In fact, these native puffball-like mushrooms are so ubiquitous that they compete with the truffles, chanterelles, or matsutake inoculated by wishful growers.
 
-Among the notable pairings: Glomus intraradices (endomycorrhizae) partners with cedars and redwoods. Pisolithus tinctorius (ectomycorrhizae) partners with pines. Rhizopogon parksii (endomycorrhizae) partners with deciduous trees. Gourmet mycorrhizal mushrooms include Boletus edulis with pines, Cantharellus cibarius with oaks and firs, and Tricholoma matsutake with pines.
+Among the notable pairings: Glomus intraradices (endomycorrhizae) partners with cedars and redwoods. Pisolithus tinctorius (ectomycorrhizae) partners with pines. Rhizopogon parksii (endomycorrhizae) partners with deciduous trees. [[growing-gourmet-mycorrhizal-gourmet-mushrooms]] mushrooms include Boletus edulis with pines, Cantharellus cibarius with oaks and firs, and Tricholoma matsutake with pines.
 
 ## The Cortes Island Mycoforestry Research Project
 

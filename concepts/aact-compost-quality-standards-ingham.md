@@ -1,13 +1,6 @@
 ---
-title: AACT Compost Quality Standards (Ingham)
-created: 2026-04-20
-updated: 2026-04-20
-type: concept
-tags: [reference]
-sources:
-  - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
----
 
+---
 # AACT Compost Quality Standards (Ingham)
 
 Updated: 2026-04-18
@@ -124,6 +117,31 @@ To improve compost for tea brewing:
 - Include diverse inputs for diverse organism communities
 - Feed worms fungal foods to support fungal-feeding nematode populations
 
-See also: [[aact-brewing-ingredients-ingham]], [[composting-science-solomon]]
-- [[bacterial-vs-fungal-compost-teas]]
-- [[fungal-species-estimation-methods-total-diversity]]
+See also: aact-brewing-ingredients-ingham, composting-science-solomon
+- bacterial-vs-fungal-compost-teas
+- fungal-species-estimation-methods-total-diversity
+
+## Merged: Compost Quality and Microbial Diversity Requirements
+
+# Compost Quality and Microbial Diversity Requirements
+
+**Source:** Elaine Ingham, Ph.D. — *The Field Guide I for Actively Aerated Compost Tea (AACT)*
+
+---
+
+## Overview
+
+Not all compost is created equal. The biological quality of compost — its diversity, organism biomass, and activity levels — determines whether [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]] brewed from it will be beneficial, mediocre, or potentially harmful. Ingham's [[ghouled-field-guide-historical-context]] establishes specific desired levels for [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] biomass in compost, defines what constitutes "true compost," and explains why diversity is the single most important factor in aact compost quality standards ingham.
+
+## What Is True Compost?
+
+### The Finished Compost Standard
+
+True compost, according to Ingham, must meet several criteria:
+- **Does not contain human pathogens** — verified through thermophilic phase, worm processing, aerobic competition, or predator consumption
+- **Contains the full succession of organisms** — bacteria, fungi, protozoa, nematodes, and microarthropods
+- **Has completed the heating and cooling cycle** — thermophilic temperatures followed by mesophilic recolonization
+
+## See Also
+- [[ingham-paper-cardboard-fungal-foods-compost]]
+- [[soil-foodweb-succession-bacteria-fungi-cycle-ingham]]

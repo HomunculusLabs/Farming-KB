@@ -1,5 +1,5 @@
 ---
-title: Sport Fishery Critique Mollison
+title: Sport sport fishery critique mollison Mollison
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -35,7 +35,7 @@ This produces all the evils of biological and social disruption: the definition 
 
 ## The Estuarine Solution
 
-Professor Bloom (University of Tasmania) proposed that certain shallow estuaries should be dammed for protein production, just above tide level, to prevent pollution by marine waters. Due to metal processing and wood pulp industries, Tasmania has offshore levels of zinc, cadmium, mercury, and other dangerous heavy metals as high as anywhere in the world.
+Professor Bloom (University of Tasmania) proposed that certain shallow estuaries should be dammed for [[fungal-single-cell-protein-production]], just above tide level, to prevent pollution by marine waters. Due to metal processing and wood pulp industries, Tasmania has offshore levels of zinc, cadmium, mercury, and other dangerous [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] as high as anywhere in the world.
 
 ## The Energy Argument
 
@@ -87,7 +87,8 @@ This section encapsulates Mollison's broader political critique: that government
 
 ## See Also
 
-- [[mollison-marine-aquaculture]]
+- mollison-marine-aquaculture
 - [[permaculture-design]]
 - [[polyculture-design-hemenway]]
-- [[mollison-aquatic-polyculture-and-pond-culture]]
+- mollison-aquatic-polyculture-and-pond-culture
+- [[mollison-designers-rice-paddy-integrated-duck-fish]]

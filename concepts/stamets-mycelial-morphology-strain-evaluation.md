@@ -1,10 +1,11 @@
 ---
-title: Mycelial Morphology and Strain Evaluation (Stamets)
+title: growing-gourmet-mycelial-morphology-classification-agar-media and Strain Evaluation (Stamets)
 created: 2026-04-28
 tags: [mycelium, strain-selection, mushroom-cultivation, mycology]
 date: 2026-04-25
 updated: 2026-04-25
-sources: [raw/papers/the-mushroom-cultivator-stamets.md]
+sources: sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
 
@@ -22,9 +23,9 @@ and cultivation.
 ## Types of Mycelial Growth
 
 ### Rhizomorphic (Strandy) Mycelium
-Rhizomorphic mycelium is characterized by thick, rope-like strands of
+[[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]] is characterized by thick, rope-like strands of
 interwoven hyphae that grow rapidly and aggressively. Under a microscope, the
-hyphae of a rhizomorphic mycelial network are larger and branch less frequently
+hyphae of a rhizomorphic [[gadd-mycelial-network-dynamics]] are larger and branch less frequently
 than those of the cottony network. This type of mycelium is more apt to produce
 primordia and is generally preferred by cultivators for its fast growth and
 superior fruiting capability.
@@ -94,10 +95,10 @@ measures can be undertaken to promote rhizomorphism and prevent degeneration:
 
 2. **Alter the media regularly** using different agar formulas. Growing a
    strain on the same formula is not recommended because the nutritional
-   composition exerts a selective influence on enzyme production. By varying the
+   composition exerts a selective influence on [[ligninolytic-enzyme-production-bioremediation]]. By varying the
    media, the strain's enzyme system remains broadly based.
 
-3. **Only grow out the amount of mycelium needed** for spawn production and
+3. **Only grow out the amount of mycelium needed** for [[growing-gourmet-sawdust-spawn-production-use]] and
    return the strain to storage when not in use.
 
 4. **Re-isolate new substrains** from multispore germinations if efforts to
@@ -116,7 +117,7 @@ qualitative judgment and strain selection over time:
 1. Rhizomorphism: fast growing vegetative mycelium
 2. Purity of the strain: lack of cottony sectors
 3. Cleanliness of the mycelia: lack of associated competitor organisms
-4. Response time to primordia formation conditions
+4. Response time to [[growing-gourmet-primordia-formation-pinning]] conditions
 5. Number of primordia formed
 6. Proportion of primordia formed that grow to maturity
 7. Size, shape and/or color of fruitbodies
@@ -138,5 +139,7 @@ preferred for its fast growth.
 ## See Also
 
 - [[stamets-slant-culture-strain-preservation]]
-- [[stamets-spawn-making-and-grain-culture]]
+- stamets-spawn-making-and-grain-culture
 - [[growing-gourmet-mycelial-morphology-classification-agar-media]]
+- [[spawn-production]]
+- [[agaricus-brunnescens]]

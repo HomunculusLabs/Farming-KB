@@ -1,12 +1,12 @@
 ---
-title: Psilocybe mexicana
+title: dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis
 created: 2026-04-28
 type: species
 tags: [psilocybe, sclerotia, mexican-mushroom, psychoactive, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/the-mushroom-cultivator-stamets.md
+  sources: []
 ---
 
 # Psilocybe mexicana
@@ -47,7 +47,7 @@ Mesoamerican distribution. The species thrives in warm subtropical grasslands, a
 habitat that has been utilized by indigenous peoples for millennia. The Mazatec people
 of Oaxaca call this mushroom "Nize," and it is also known by the Spanish name
 "Pajaritos" (little birds). It is one of the species traditionally used by Mazatec
-curanderos in healing and divination rituals.
+curanderos in [[metzner-shamanic-healing-and-divination-paradigm]] rituals.
 
 ## Role in Mushroom Cultivation
 
@@ -55,7 +55,7 @@ Psilocybe mexicana is discussed in The Mushroom Cultivator as a species of parti
 interest to cultivators due to its remarkable ability to form sclerotia, also known as
 truffles or "philosopher's stones." Sclerotia are dense, hardened masses of mycelium
 that serve as nutrient storage organs, allowing the fungus to survive adverse
-conditions. P. mexicana is noted for its early sclerotia formation, with sclerotia
+conditions. P. mexicana is noted for its early [[growing-gourmet-sclerotia-formation-biology-mushrooms]], with sclerotia
 appearing as early as three weeks after inoculation onto rye grass seed. Heim and
 Wasson (1958) considered sclerotia production in this species to be the most
 efficient method for the generation of biomass, making it a valuable species for both
@@ -66,7 +66,7 @@ selection discussion of The Mushroom Cultivator.
 
 ## Cultivation Parameters
 
-The following growth parameters are specified in The Mushroom Cultivator for P.
+The following [[chen-maitake-growth-parameters-environmental-control]] are specified in The Mushroom Cultivator for P.
 mexicana:
 
 - **Spawn Media:** Annual rye grass seed or rye grain.
@@ -82,7 +82,7 @@ mexicana:
 - **Post Casing/Pre-pinning:** 90+% relative humidity, substrate temperature 75-81
   degrees F, CO2 at 10,000 ppm or above, 0 fresh air exchanges, incubation in
   darkness.
-- **Primordia Formation:** 95+% relative humidity, air temperature 71-74 degrees F,
+- **[[growing-gourmet-primordia-formation-pinning]]:** 95+% relative humidity, air temperature 71-74 degrees F,
   CO2 at 5,000 ppm or below, 2 fresh air exchanges per hour, diffuse natural or
   fluorescent grow-lights for 12 hours daily.
 - **Cropping:** 85-92% relative humidity, air temperature 71-74 degrees F, CO2 at
@@ -115,7 +115,7 @@ as other Psilocybe species, including cobweb mold (Dactylium dendroides) and
 bacterial contaminants (Bacillus subtilis). The species is not known to have
 significant mycorrhizal associations. Temperature is a critical environmental factor
 for this species; studies adapted by Ames et al. (1958) charted the influence of
-temperature on mycelial growth rates in both P. cubensis and P. mexicana, providing
+temperature on [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] rates in both P. cubensis and P. mexicana, providing
 valuable comparative data for cultivators managing grow room conditions.
 
 ## See Also

@@ -5,7 +5,7 @@ updated: 2026-05-03
 type: concept
 tags: [geology, science, soil]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources: []
 ---
 
 # Plate Tectonics
@@ -77,7 +77,7 @@ Water lowers melting temperatures and affects fault behavior.
 The oceanic lithosphere cools, thickens, and densifies as it ages.
 That aging makes subduction possible and drives [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] on.
 Porphyry copper deposits often form abo [[teaming-with-microbes-photosynthesis-exudates-carbon-cycle]] sts locate ore belts.
-The theory explains the long-term carbon cycle.
+The theory explains the long-term [[photosynthesis-carbon-cycle-plants]].
 Volcanism releases carbon dioxide from Earth's interior.
 Weathering of uplifted rocks removes carbon dioxide from the atmosphere.
 Subduction recycles carbon-bearing rocks into the mantle.
@@ -106,5 +106,5 @@ subduction zones
 seafloor spreading
 paleomagnetism
 rock cycle
-[[rock-eating-fungi-and-mineral-weathering]]
+rock-eating-fungi-and-mineral-weathering
 - [[endolithic-fungi-rock-colonizing-communities]]

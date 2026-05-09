@@ -13,7 +13,7 @@ tags:
   - mushroom-cultivation
 sources:
   - https://pubmed.ncbi.nlm.nih.gov/ — Auricularia polysaccharide and cardiovascular studies
-  - Stamets, P. (2000). Growing Gourmet and Medicinal Mushrooms. Ten Speed Press.
+  - Stamets, P. (2000). Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]. Ten Speed Press.
   - Miles, P.G. & Chang, S.T. (2004). Mushrooms: Cultivation, Nutritional Value, Medicinal Effect.
   - Wasser, S.P. (2014). "Medicinal Mushrooms in Human Clinical Studies." Pharm. Nutr.
 ---
@@ -81,16 +81,16 @@ Melanin and phenolic fractions show significant DPPH and ABTS radical scavenging
 ### Substrate and Parameters
 
 - **Natural logs**: Hardwood bolts (oak, beech, alder), 10–20 cm diameter; inoculate with plug or sawdust spawn in spring
-- **Supplemented sawdust**: Hardwood sawdust + 10–20% wheat bran, hydrated to 60–65%; sterilized bags
+- **[[oyster-mushroom-supplemented-sawdust-blocks]]**: Hardwood sawdust + 10–20% wheat bran, hydrated to 60–65%; sterilized bags
 - **Spawn run**: 22–28 °C, 30–45 days (sawdust) or 6–12 months (logs)
 - **Fruiting**: 15–25 °C, 85–95% RH, indirect light, tolerates high CO₂
-- **Yield**: 80–120% biological efficiency on supplemented sawdust; logs produce for 3–5 years
+- **Yield**: 80–120% [[stamets-biological-efficiency-yield]] on supplemented sawdust; logs produce for 3–5 years
 
 Initiate fruiting by soaking or cold shock. Harvest in 7–14 days when ears are fully expanded but tender. Air-dry at 30–40 °C; reconstitutes 6–8× weight.
 
 ### Contamination and Hygiene
 
-Wood ear is relatively contamination-resistant compared to other cultivated fungi, making it suitable for beginner cultivators. The gelatinous fruiting body is less susceptible to mold colonization. Common contaminants on sawdust substrate include *Trichoderma* (green mold) and *Coprinus* species. Maintain strict hygiene during inoculation but fruiting can tolerate less sterile conditions than oyster or shiitake cultivation.
+Wood ear is relatively contamination-resistant compared to other cultivated fungi, making it suitable for beginner cultivators. The gelatinous fruiting body is less susceptible to mold colonization. Common contaminants on sawdust substrate include *Trichoderma* (green mold) and *Coprinus* species. Maintain strict hygiene during inoculation but fruiting can tolerate less sterile conditions than oyster or [[gourmet-medicinal-mushroom-shiitake-cultivation-logs]].
 
 ## Culinary Applications
 
@@ -114,7 +114,7 @@ Wood ear can be grown alongside other mushroom species on the same logs or in pr
 
 - **Shiitake** (*Lentinula edodes*): Sequential inoculation possible; shiitake first (2–3 years), then wood ear colonizes as shiitake production declines
 - **Oyster** (*Pleurotus ostreatus*): More competitive; avoid same log but complementary in same growing area with staggered harvest timing
-- **Reishi** (*Ganoderma lucidum*): Similar substrate preferences but longer rotation; interplant logs in the same shaded area
+- **Reishi** (*[[stamets-reishi-ganoderma-lucidum-cultivation]]*): Similar substrate preferences but longer rotation; interplant logs in the same shaded area
 
 ### Mycoremediation Potential
 
@@ -129,4 +129,4 @@ Generally recognized as safe (GRAS). Raw consumption may cause GI discomfort. Hi
 - [[auricularia-auricula]]
 - [[mushroom-cultivation]]
 - [[stamets-cultivator-log-cultivation-shiitake-hericium]]
-- gourmet mushrooms
+- [[growing-gourmet-mushrooms-civilization-history]]

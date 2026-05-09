@@ -1,24 +1,17 @@
 ---
-title: "AACT Tea Types and Definitions"
-tags: [aact, compost-tea, tea-types, definitions, ingham, brewing]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
-created: 2026-04-28
----
 
+---
 # AACT Tea Types and Definitions
 
-[[actively-aerated-compost-tea]] Tea* establishes a rigorous taxonomy of compost-based liquid amendments. Different production methods yield **very different results**, so practitioners must recognize both the benefits and dangers inherent in each type. The distinction is not merely academic — the wrong tea on the wrong crop can do more harm than good.
+ Tea* establishes a rigorous taxonomy of compost-based liquid amendments. Different production methods yield **very different results**, so practitioners must recognize both the benefits and dangers inherent in each type. The distinction is not merely academic — the wrong tea on the wrong crop can do more harm than good.
 
 ## The Central Principle
 
-> Not everything called "compost tea" is the same. Production method determines which organisms grow, which metabolites are produced, and whether the final product helps or harms your plants and the [[ingham-aact-brewing-techniques]] for detailed production methods.
+> Not everything called "compost tea" is the same. Production method determines which organisms grow, which metabolites are produced, and whether the final product helps or harms your plants and the ingham-aact-brewing-techniques for detailed production methods.
 
 **Key characteristics:**
 - Highest microbial diversity among all tea types
-- Supports the full [[compost-quality-standards]]
+- Supports the full compost-quality-standards
 
 ### (B) FCT — Fermentative Compost Tea
 
@@ -50,7 +43,7 @@ Deliberately anaerobic production. Anaerobic bacteria dominate, producing **toxi
 - Narrow use case: targeted suppression of specific pests or diseases
 - Should be handled with caution and applied only with expert guidance
 
-See [[compost-quality-standards]] for guidance on sourcing compost suitable for tea production, and [[ingham-aact-brewing-techniques]] for the practical steps to produce high-quality AACT.
+See compost-quality-standards for guidance on sourcing compost suitable for tea production, and ingham-aact-brewing-techniques for the practical steps to produce high-quality AACT.
 ## Practical Considerations
 
 When working with AACT Tea Types and Definitions, several practical factors should be
@@ -110,3 +103,40 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## Merged: Compost Tea Classification Taxonomy
+
+# Compost Tea Classification Taxonomy
+
+**Source:** Elaine Ingham, Ph.D. — *The Field Guide I for Actively Aerated Compost Tea (AACT)*
+
+---
+
+## Overview
+
+The world of compost-derived liquid amendments is fraught with confusion. Growers, regulators, and researchers frequently use "[[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]]" to describe fundamentally different products. Dr. [[elaine-ingham]]'s [[ghouled-field-guide-historical-context]] establishes a rigorous taxonomy that distinguishes these preparations by [[clay-seed-pellet-production-method-concrete-mixer]], aerobic status, and biological content. Pathogen response, plant benefit, and regulatory compliance all depend on which type of preparation is being used.
+
+## The Four Brewed Tea Categories
+
+### 1. Actively Aerated Compost Tea (AACT)
+
+AACT is the most useful tea for improving plant-growing conditions. It is a **water extract of compost that is brewed with active aeration** and supplemental nutrients added to enhance beneficial microbial growth.
+
+**Key characteristics:**
+- Compressed air or vigorous agitation maintains [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] above 6 ppm throughout brewing
+- Brewing duration is typically 18–24 hours at 65–75°F (18–24°C)
+- Food resources (molasses, kelp, [[comparison-fish-hydrolysate-vs-fish-emulsion]], humic acids) feed extracted organisms
+- The resulting liquid contains active populations of bacteria, fungi, protozoa, and nematodes
+- Must contain the full biological diversity present in the starting compost
+
+Without continuous dissolved oxygen above critical thresholds, the tea shifts toward anaerobic conditions. Aerobic beneficials go dormant or die, and facultative anaerobes begin producing phytotoxic metabolites. AACT's defining feature is that beneficial organisms remain fully active throughout.
+
+### 2. Fermentative Compost Tea (FCT)
+
+FCT relies on a **facultative anaerobic** environment where certain beneficial microorganisms produce antibiotic or inhibitory compounds. The brew is not actively aerated and may develop a surface biofilm.
+
+**Key characteristics:**
+- No active aeration is applied during brewing
+- Selects for facultative [[ingham-anaerobic-organisms-role-soil]] (those that survive with or without oxygen)
+- Can suppress certain diseases through antibiotic-inhibitory interactions
+- Metabolic byproducts (organic acids, bacteriocins) prevent growth of target pathogens
+- Requires careful management — if conditions become strictly anaerobic, toxic materials can be produced

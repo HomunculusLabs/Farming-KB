@@ -1,5 +1,5 @@
 ---
-title: Fungal Filter Barnyard Waste Remediation
+title: Fungal fungal filter barnyard waste remediation Waste Remediation
 created: 2026-04-28
 tags: [mycoremediation, water-filtration, fungi, pollution-control]
 date: 2026-04-25
@@ -25,14 +25,14 @@ is inactivation: disrupting replication or reproduction, preventing
 cell synthesis and division, and eroding cell membranes. Fungi can
 also enforce species exclusion by colonizing territory in advance
 to prevent entry by pathogenic organisms, or by altering chemical
-gradients such as pH or nutrient availability needed by other
+gradients such as pH or [[ph-and-nutrient-availability-garden-soils]] needed by other
 organisms. This approach is especially useful against fecal
-coliforms in water, manures, livestock waste, and failing septic
+coliforms in water, manures, [[cotter-pet-livestock-waste-fungal-remediation-systems]], and failing septic
 systems.
 
 ## Poultry and Chicken Coop Applications
 
-Urban chicken keeping is growing in popularity, but odor control
+Urban [[comparison-chicken-keeping-vs-beekeeping-basics]] is growing in popularity, but odor control
 and coliform bacteria from poultry droppings remain obstacles.
 King stropharia (Stropharia rugoso-annulata) mycelium has a sweet
 smell and is highly effective at managing poultry waste. The
@@ -76,7 +76,7 @@ wire with another 2 inches of inoculated wood chips. Install a
 1-foot-wide inoculated wood chip bed around the perimeter of the
 enclosure to catch excess runoff. This barrier bed can be mounded
 against the enclosure fencing or built with untreated landscape
-timbers or even mushroom fruiting logs.
+timbers or even [[ectomycorrhizal-mushroom-fruiting-ecology]] logs.
 
 ## Maintenance and Replacement
 
@@ -111,7 +111,7 @@ deodorizes the waste in approximately twelve weeks.
 
 For dog waste, designate a 5-gallon lidded bucket for collection
 and periodically add spawned substrate using moistened hardwood
-sawdust or spent coffee grounds. Once fully colonized, the
+sawdust or spent [[oyster-mushroom-coffee-grounds-cultivation]]. Once fully colonized, the
 resulting mycelium block can be transferred to a worm composting
 bin for safe decomposition into topsoil.
 

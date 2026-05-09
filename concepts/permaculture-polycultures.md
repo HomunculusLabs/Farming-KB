@@ -2,7 +2,7 @@
 
 ## Overview
 
-Polycultures are dynamic, self-organizing plant communities composed of several to many species growing together in the same space. Unlike monocultures, which grow a single crop over large areas, polycultures emulate natural ecosystems by filling ecological niches vertically (root depth, canopy height), temporally (harvest timing, growth cycles), and functionally (nitrogen fixation, pest control, pollination). The term is central to permaculture and ecological gardening, representing a shift from controlling nature to imitating and co-creating with it.
+Polycultures are dynamic, self-organizing plant communities composed of several to many species growing together in the same space. Unlike monocultures, which grow a single crop over large areas, polycultures emulate natural ecosystems by filling ecological niches vertically (root depth, canopy height), temporally ([[cannabis-harvest-timing-visual-cues]], growth cycles), and functionally ([[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], pollination). The term is central to permaculture and ecological gardening, representing a shift from controlling nature to imitating and co-creating with it.
 
 ## From Monoculture to Polyculture
 
@@ -12,10 +12,10 @@ The progression toward more diverse planting follows a continuum:
 
 1. **Monoculture**: Single species, uniform conditions. Maximum vulnerability to pests and disease, maximum soil depletion.
 
-2. **Interplanting**: Two or three species mixed to save space and reduce competition. Onions, carrots, and lettuce interplanted together exploit different root depths, leaf heights, and light requirements. However, interplanting primarily avoids negative interactions rather than creating positive ones.
+2. **Interplanting**: Two or three species mixed to save space and reduce competition. Onions, carrots, and lettuce interplanted together exploit different root depths, leaf heights, and [[growing-gourmet-light-requirements-mushroom-fruiting]]. However, interplanting primarily avoids negative interactions rather than creating positive ones.
 
-3. **[[dynamic-accumulators]], and ground covers alongside food-producing species.
-4. **Use [[food-forest]] on Orcas Island, and numerous experimental gardens across North America and Europe have demonstrated that temperate polycultures can produce food for 6–9 months of the year with minimal inputs once established.
+3. **[[dynamic-accumulators]], and [[permaculture-plants-food-forest-ground-covers-bamboos]] alongside food-producing species.
+4. **Use [[food-forest]] on Orcas Island, and numerous experimental gardens across [[psilocybin-north-america-pacific-northwest]] and Europe have demonstrated that temperate polycultures can produce food for 6–9 months of the year with minimal inputs once established.
 
 Arid-land polycultures present the greatest challenge due to water limitation. Roxanne Swentzell's Flowering Tree Permaculture Institute in the high desert of New Mexico demonstrates that even in extreme conditions, polycultural design — combining swales for water harvesting, dense planting for shade and moisture conservation, and drought-adapted species — can transform barren landscapes into productive ecosystems.
 
@@ -102,4 +102,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

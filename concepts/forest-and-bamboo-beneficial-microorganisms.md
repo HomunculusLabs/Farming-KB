@@ -22,9 +22,9 @@ The goal is to empower small farmers to generate their own critical organic inpu
 
 ## Forest Microorganism Collection
 
-The forest is the primary source for diverse beneficial microorganisms in the natural farming tradition.
+The forest is the primary source for diverse beneficial microorganisms in the [[comparison-natural-farming-vs-permaculture]] tradition.
 
-The method begins with finding a healthy, old tree in a local forest with deep humus accumulation — at least two feet to one yard of litter and decomposing organic matter, indicating high soil fertility and microbial biodiversity.
+The method begins with finding a healthy, old tree in a local forest with deep humus accumulation — at least two feet to one yard of litter and decomposing [[hamilton-composting-and-organic-matter-management]], indicating high soil fertility and microbial biodiversity.
 
 The technique for trapping these microorganisms uses cooked white rice as a bait.
 
@@ -52,7 +52,7 @@ After about a week, the concoction takes on a sticky, liquidy consistency.
 
 At this point, an equal amount of crude sugar or molasses is added for storage.
 
-The additional sugar arrests microbial activity by creating an osmotic environment that prevents further proliferation, essentially preserving the microbial community in a dormant state.
+The additional sugar arrests microbial activity by creating an osmotic environment that prevents further proliferation, essentially preserving the [[edaphic-factors-microbial-community-structure]] in a dormant state.
 
 The preparation should be stored in a cool area.
 
@@ -76,7 +76,7 @@ The collection method is identical to the forest microorganism technique: a cont
 
 After the colonization period, the same culturing and preservation process is followed.
 
-Bamboo microorganisms are often used specifically for fermenting animal feeds, improving digestibility and nutrient availability in free-range poultry and pig production.
+Bamboo microorganisms are often used specifically for fermenting animal feeds, improving digestibility and [[ph-and-nutrient-availability-garden-soils]] in free-range poultry and pig production.
 
 ## Plant-Specific Microorganism Collection
 
@@ -94,7 +94,7 @@ This technique can be applied to any crop: rice, vegetables, fruit trees, or orn
 
 The advantage of plant-specific microorganisms is that they are already adapted to the metabolic environment of the target crop.
 
-When these microorganisms are cultured and applied back to the same crop species, they can enhance nutrient cycling, suppress pathogens, and promote growth more effectively than generalist microbial inoculants.
+When these microorganisms are cultured and applied back to the same crop species, they can enhance [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], suppress pathogens, and promote growth more effectively than generalist microbial inoculants.
 
 ## Combining Microorganism Sources
 
@@ -109,4 +109,4 @@ The combination of diverse indigenous microorganisms with targeted bionutrients 
 ## Sources
 
 - Carandang, Gil A. Indigenous Microorganisms: Grow Your Own. Herbana Farms, 2003.
-- Cho, Han Kyu and Atsushi Kouama. Korean Natural Farming: Indigenous Microorganism Vital Power for Crop and Livestock.
+- Cho, Han Kyu and Atsushi Kouama. [[query-jadam-vs-korean-natural-farming]] Farming: Indigenous Microorganism Vital Power for Crop and Livestock.

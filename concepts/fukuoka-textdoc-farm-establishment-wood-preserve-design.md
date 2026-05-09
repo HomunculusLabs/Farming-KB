@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-Fukuoka provides detailed guidance on establishing a natural farm from scratch, covering site selection, wood preserve creation, shelterbelt planting, orchard establishment on hillsides, garden terracing, and rice paddy construction. These practical instructions form the physical foundation upon which the philosophical principles of natural farming are built.
+Fukuoka provides detailed guidance on establishing a natural farm from scratch, covering site selection, wood preserve creation, shelterbelt planting, [[fukuoka-citrus-orchard-establishment-bare-hillside]] on hillsides, garden terracing, and rice paddy construction. These practical instructions form the physical foundation upon which the philosophical [[four-principles-of-natural-farming]] farming are built.
 
 ## Site Selection
 
@@ -28,7 +28,7 @@ The natural farm must be able to supply all materials essential for food, clothi
 
 ## The Wood Preserve
 
-The woods surrounding a natural farm serve as a natural preserve and a direct or indirect source of organic fertilizer. Fukuoka describes three strategies for creating deep, fertile soil:
+The woods surrounding a natural farm serve as a natural preserve and a direct or indirect source of [[complete-organic-fertilizer-cof-recipe-solomon]]. Fukuoka describes three strategies for creating deep, fertile soil:
 
 1. **Direct burial of coarse organic matter** deep in the ground.
 2. **Gradual soil improvement** by planting grasses and trees that send roots deep into the soil.
@@ -37,7 +37,7 @@ The woods surrounding a natural farm serve as a natural preserve and a direct or
 When no uphill wood exists, a new wood or bamboo grove can be developed for this purpose. The preserve should include several types of trees:
 
 - **Companion trees that enrich the soil**, such as leguminous species and deep-rooted trees that bring nutrients from subsoil layers.
-- **Timber trees** for building materials and firewood.
+- **Timber trees** for [[natural-building-materials-guide]] and firewood.
 - **Trees that supply food for birds and animals**, supporting the predator-prey balance that controls pests.
 - **Trees that provide habitat for natural enemies of insect pests**, creating biological pest control infrastructure.
 
@@ -78,7 +78,7 @@ Shelterbelts and windbreak trees provide multiple functions beyond wind protecti
 
 - **Wind damage prevention**: The most obvious function, protecting crops and soil from desiccating winds.
 - **Soil fertility maintenance**: Leaf litter from shelterbelt trees contributes organic matter to adjacent fields.
-- **Environmental improvement**: Shelterbelts moderate temperature extremes, reduce evaporation, and create microclimates favorable to beneficial insects.
+- **Environmental improvement**: Shelterbelts moderate temperature extremes, reduce evaporation, and create microclimates favorable to [[comparison-beneficial-insects-guide-vs-integrated-pest-management]].
 
 ### Species Selection for Shelterbelts
 
@@ -121,7 +121,7 @@ When starting an orchard on new land, the main goals should be preventing weed e
 
 - **First summer**: Plant buckwheat for rapid soil coverage and weed suppression.
 - **First winter**: Sow rapeseed and Indian mustard for winter ground cover.
-- **Second summer**: Plant adzuki bean and mung bean for nitrogen fixation.
+- **Second summer**: Plant adzuki bean and mung bean for [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
 - **Second winter**: Sow hairy vetch and other hardy leguminous plants.
 
 ### Terrace Construction
@@ -136,6 +136,8 @@ Whether terraces are level or slightly graded makes a large difference in crop r
 These methods activate the latent fertility of even depleted, granular soil, rapidly preparing it for fertilizer-free cultivation.
 
 ## See Also
+
+- [[fukuoka-textdoc-mountain-wood-preserve-revegetation-method]]
 
 - [[fukuoka-textdoc-natural-soil-management]]
 - [[fukuoka-orchard-without-pruning]]

@@ -31,7 +31,7 @@ Sow seeds in trays in mid-spring, spacing about 1in (2.5cm) apart. Raise inside 
 
 ## Greenhouse Cultivation
 
-Sow from midwinter onward depending on available heat. For cold greenhouse planting, sow in late winter at 70F (21C). Transplant to individual 3in pots as soon as seedlings can be handled. Grow on at 50-55F (10-12C), spacing progressively to produce short, bushy plants. Plant in border soil or growing bags 12in (30cm) apart in mid-spring.
+Sow from midwinter onward depending on available heat. For [[coleman-cold-greenhouse-double-layer-protection]] planting, sow in late winter at 70F (21C). Transplant to individual 3in pots as soon as seedlings can be handled. Grow on at 50-55F (10-12C), spacing progressively to produce short, bushy plants. Plant in border soil or growing bags 12in (30cm) apart in mid-spring.
 
 If planting in the border, use a root-rot resistant variety. Flood the border with water about two weeks before planting to flush out excess mineral salts, then dig in compost or manure and apply one handful of blood, fish, and bone meal per plant.
 
@@ -51,7 +51,7 @@ Pick as soon as fruits are ripe for the sweetest flavor and to encourage further
 
 ## Pests and Diseases
 
-Tomatoes may be affected by whitefly, aphids, leaf mold, red spider mites, potato blight, and virus diseases. In the greenhouse, also watch for blight, damping off, and virus diseases. For virus diseases, there is no cure -- dig up and burn all affected plants. Consider growing in growing bags the following year or using plants grafted onto resistant KNVF rootstock.
+Tomatoes may be affected by whitefly, aphids, leaf mold, red spider mites, potato blight, and virus diseases. In the greenhouse, also watch for blight, [[cervantes-damping-off-seedling-disease-prevention]], and virus diseases. For virus diseases, there is no cure -- dig up and burn all affected plants. Consider growing in growing bags the following year or using plants grafted onto resistant KNVF rootstock.
 
 ## Training and Support
 
@@ -76,18 +76,18 @@ Water tomatoes consistently to prevent blossom end rot and fruit splitting. Fluc
 - **Leaf mold:** Caused by poor ventilation and high humidity. Improve air flow, remove affected leaves
 - **Red spider mite:** Favoured by hot, dry conditions. Increase humidity by damping down
 - **Potato blight:** Can affect outdoor tomatoes (same pathogen). Remove and destroy affected plants immediately
-- **Blossom end rot:** Black patches at the flower end of fruit, caused by calcium deficiency often triggered by irregular watering
-- **Virus diseases:** Characterized by mottled or curled leaves. Remove affected plants; control aphids which spread viruses
+- **Blossom end rot:** Black patches at the flower end of fruit, caused by [[knf-calcium-deficiency-symptoms]] often triggered by irregular watering
+- **Virus diseases:** Characterized by mottled or curled leaves. Remove affected plants; [[query-how-do-i-identify-and-control-aphids-on-cannabis]] which spread viruses
 
 ## Extending the Season
 
-For outdoor bush varieties, protect plants with cloches at the end of the growing season to help ripen green fruit. Lay upright varieties flat on straw and cover with cloches. At the end of the season, green tomatoes can be ripened indoors by placing them in a paper bag with a banana (ethylene gas accelerates ripening), or made into green tomato chutney.
+For outdoor bush varieties, protect plants with cloches at the end of the [[savory-growing-season-and-non-growing-season-management]] to help ripen green fruit. Lay upright varieties flat on straw and cover with cloches. At the end of the season, green tomatoes can be ripened indoors by placing them in a paper bag with a banana (ethylene gas accelerates ripening), or made into green tomato chutney.
 
 ## Feeding Schedule
 
 - Start feeding about eight weeks after planting in the greenhouse
 - Use liquid kelp or animal-manure fertilizer every time you water (greenhouse) or every two weeks (outdoor)
-- Comfrey tea is an excellent high-potash organic feed for tomatoes — see [[organic-vegetable-growing-calendar]]
+- [[comparison-comfrey-tea-vs-compost-tea]] is an excellent high-potash organic feed for tomatoes — see [[organic-vegetable-growing-calendar]]
 - [[composting-systems]]
 - [[vegetable-growing-guide]] for general vegetable cultivation
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] for pest reduction strategies

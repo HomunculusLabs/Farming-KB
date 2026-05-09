@@ -15,7 +15,7 @@ Parkinson's disease (PD) is a progressive neurodegenerative disorder
 characterized by the loss of dopaminergic neurons in the substantia nigra,
 leading to motor symptoms including tremor, bradykinesia (slowness of
 movement), rigidity, and postural instability. In "The Cannabis Health
-Index," Uwe Blesching assigns this condition a Cannabis Health Index (CHI)
+Index," Uwe Blesching assigns this condition a [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI)
 rating of **14** based on **4 clinical studies**, indicating a moderate
 evidence base for therapeutic benefit.
 
@@ -87,9 +87,9 @@ gradually. THC may be added in small amounts (1-2.5 mg) if additional
 symptom relief is needed. The concept of [[blesching-cannabis-alzheimers-dementia]],
 [[blesching-cannabis-neurodegenerative-diseases]]
 for related research on cannabinoids and neurological health. The shared
-mechanisms of neuroinflammation, oxidative stress, and excitotoxicity
+mechanisms of neuroinflammation, [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], and excitotoxicity
 suggest that cannabinoid therapies may have broad applicability across
-neurodegenerative disorders, as discussed in [[blesching-endocannabinoid-system-overview]].
+neurodegenerative disorders, as discussed in [[endocannabinoid-system-overview]].
 
 ## Limitations and Research Gaps
 

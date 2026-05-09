@@ -10,11 +10,11 @@ The finding suggests that brassinosteroids don't merely accelerate growth — th
 
 ## What Are Incomplete Fruit Bodies?
 
-Incomplete fruit bodies — also called aborts, pins that fail to mature, or malformed primordia — are a common problem in mushroom cultivation across many species.
+Incomplete fruit bodies — also called aborts, pins that fail to mature, or malformed primordia — are a common problem in [[accessible-mushroom-cultivation-for-disabilities]] across many species.
 
 They manifest as small, stunted mushroom-like structures that stop developing and eventually rot or desiccate on the substrate surface.
 
-In P. cubensis cultivation, aborts are frequently observed, particularly under suboptimal environmental conditions or with certain strains that are prone to irregular fruiting patterns.
+In P. [[psilocybe-cubensis-cultivation-miniculture]], aborts are frequently observed, particularly under suboptimal environmental conditions or with certain strains that are prone to irregular fruiting patterns.
 
 Aborts represent wasted biological energy. The mycelium has already invested significant resources into initiating fruiting body development, forming the hyphal aggregates (primordia) that represent the earliest stage of mushroom formation.
 
@@ -39,7 +39,7 @@ The treated cultures, by contrast, showed a higher proportion of initiated primo
 
 ## Mechanism 1: Improved Nutrient Mobilization
 
-Brassinosteroids in plants are known to enhance cell elongation and division by modulating gene expression related to cell wall loosening, membrane transport, and metabolic activity.
+Brassinosteroids in plants are known to enhance cell elongation and division by modulating gene expression related to cell wall loosening, [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]], and [[arbuscule-isolation-metabolic-activity-assays]].
 
 They activate proton pumps, increase ATPase activity, and upregulate genes involved in carbohydrate metabolism.
 
@@ -95,7 +95,7 @@ Fewer aborts means fewer sites of necrotic tissue that could harbor competitor o
 
 Cultivators typically remove aborts by hand between flushes to maintain casing hygiene.
 
-Suppressing aborts at the source reduces this labor requirement and minimizes physical disturbance to the mycelial network, which can otherwise delay subsequent flushes.
+Suppressing aborts at the source reduces this labor requirement and minimizes physical disturbance to the [[gadd-mycelial-network-dynamics]], which can otherwise delay subsequent flushes.
 
 ### Casing Longevity
 
@@ -122,7 +122,7 @@ The observation in fungi suggests this principle may extend beyond the plant kin
 
 ## Relevance to Commercial Cultivation
 
-In commercial mushroom operations, abort rates of 10–30% are common for species like Agaricus bisporus.
+In commercial mushroom operations, abort rates of 10–30% are common for species like [[genetic-improvement-agaricus-bisporus-molecular-approaches]].
 
 If brassinosteroid treatment proves effective across fungal species, it could represent a novel approach to reducing abort rates without modifying environmental parameters or substrate formulations.
 
@@ -131,9 +131,15 @@ If brassinosteroid treatment proves effective across fungal species, it could re
 - Gartz, J., Adam, G., & Vorbrodt, H.-M. (1990). Growth-Promoting Effect of a Brassinosteroid in Mycelial Cultures of the Fungus Psilocybe cubensis. Naturwissenschaften, 77, 388–389.
 
 ## See Also
+
+- [[brassinosteroid-suppression-of-incomplete-fruit-body-formation]]
 - [[incomplete-fruit-body-suppression-brassinosteroid-cultivation]]
 - [[brassinosteroid-suppressed-annulus-formation-psilocybe-cubensis]]
 
 ## See Also
 
-- [[incomplete-fruit-body-suppression-brassinosteroid]]
+- [[brassinosteroid-suppression-of-incomplete-fruit-body-formation]]
+
+- incomplete-fruit-body-suppression-brassinosteroid
+- [[brassinosteroid]]
+- [[agaricus-bisporus]]

@@ -1,5 +1,5 @@
 ---
-title: "Integrated Mosquito Management for [[bacillus-thuringiensis]] israelensis for mosquito larval control.' Toxins, 12(12), 772."
+title: "Integrated Mosquito Management for bacillus-thuringiensis israelensis for mosquito larval control.' Toxins, 12(12), 772."
   - "Culiseta, Inc. 'Dragonflies as Bioindicators and Mosquito Predators in Constructed Wetlands.' Wetlands Ecology and Management, 2019."
   - "Foster, W.A. & Walker, E.D. (2019). 'Mosquitoes (Culicidae).' Medical and Veterinary Entomology, 3rd ed."
 created: 2026-05-07
@@ -24,7 +24,7 @@ Design your pond to be hostile to mosquito breeding from the start:
 - **Depth over breadth.** Mosquito larvae avoid water deeper than 2–3 feet where fish and invertebrate predators patrol. Design shelves that drop off quickly rather than long, gradual slopes.
 - **Water movement.** Even gentle flow or surface agitation prevents egg-laying. Add a small pump, waterfall, or aerator — mosquitoes won't lay eggs in water moving faster than ~0.5 ft/s.
 - **Steep marginal shelves.** If you need planting shelves, make them narrow and steep (12–18 inches wide) so predators can access them easily and water doesn't stagnate.
-- **Avoid dead zones.** Design the pond shape so water circulates fully. Rectangular ponds with corners are worse than kidney or oval shapes for creating stagnant pockets.
+- **Avoid dead zones.** Design the [[holzer-pond-shape-deep-shallow-zones]] so water circulates fully. Rectangular ponds with corners are worse than kidney or oval shapes for creating stagnant pockets.
 - **Choose marginal plants wisely.** Dense emergent vegetation like cattails (*Typha*) provides excellent larval shelter. Instead, use plants with open structure — pickerelweed (*Pontederia cordata*), water iris (*Iris versicolor*), or arrowhead (*Sagittaria latifolia*) — which allow predators to hunt through them.
 
 ## Layer 2: Biological Controls — Which Predators to Attract
@@ -33,7 +33,7 @@ Design your pond to be hostile to mosquito breeding from the start:
 
 The single best mosquito predator you can invite. Dragonfly nymphs are aquatic ambush predators that consume dozens of mosquito larvae daily. Adults hunt adult mosquitoes in flight.
 
-- **How to attract:** Provide emergent stems for nymphs to climb during metamorphosis, flat rocks for adults to perch, and avoid broad-spectrum insecticides within 100 yards. A diverse pond edge with mixed native plantings is ideal.
+- **How to attract:** Provide emergent stems for nymphs to climb during metamorphosis, flat rocks for adults to perch, and avoid broad-spectrum insecticides within 100 yards. A diverse [[mollison-designers-pond-edge-configuration-and-yield-maximisation]] with mixed native plantings is ideal.
 - **Key species:** Green darner (*Anax junius*), twelve-spotted skimmer (*Libellula pulchella*), blue dasher (*Pachydiplax longipennis*).
 
 ### Fish
@@ -51,20 +51,20 @@ The single best mosquito predator you can invite. Dragonfly nymphs are aquatic a
 ### Aerial Predators
 
 - **Bats:** A single bat eats 500–1,000 insects per night. Install bat houses within 30 feet of the pond, facing southeast, at least 12–15 feet high.
-- **Purple martins:** Often cited as mosquito controllers, though their actual mosquito consumption is modest (~2% of diet). Still worthwhile as part of a diverse predator strategy. Install purple martin houses on poles with predator guards.
+- **[[comparison-bats-vs-purple-martins-vs-dragonflies-pest-control]]:** Often cited as mosquito controllers, though their actual mosquito consumption is modest (~2% of diet). Still worthwhile as part of a diverse predator strategy. Install purple martin houses on poles with predator guards.
 - **Swallows and swifts:** Excellent aerial insectivores. Attract with open foraging space above the pond and nearby mud sources for nest-building.
 
 ## Layer 3: Physical Barriers
 
-- **Surface covers:** Fine mesh or horticultural floating row covers over small ponds or water tanks physically prevent egg-laying. Use for rain barrels and cisterns.
+- **Surface covers:** Fine mesh or horticultural floating [[solomon-row-covers-and-season-extension]] over small ponds or water tanks physically prevent egg-laying. Use for rain barrels and cisterns.
 - **Surface agitation:** Solar-powered aerators, fountains, or air stones keep the water surface disrupted. Mosquitoes avoid laying eggs on moving water.
 - **Vegetation management:** Trim dense floating mats (duckweed, azolla) to expose open water. Mosquito larvae hide under continuous floating cover.
 
 ## Layer 4: BTI Dunks — Safe Natural Larvicides
 
-**Bacillus thuringiensis israelensis (BTI)** is a soil bacterium that produces proteins toxic only to mosquito and blackfly larvae. It is:
+**[[cervantes-bacillus-thuringiensis-bt-control]] israelensis (BTI)** is a soil bacterium that produces proteins toxic only to mosquito and blackfly larvae. It is:
 
-- **Safe for edible landscapes.** BTI affects only Diptera larvae — fish, amphibians, birds, mammals, and beneficial insects are completely unaffected. Safe to use in ponds that irrigate food crops.
+- **Safe for edible landscapes.** BTI affects only Diptera larvae — fish, amphibians, birds, mammals, and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] are completely unaffected. Safe to use in ponds that irrigate food crops.
 - **Application:** Mosquito dunks (donut-shaped briquettes) treat 100 sq ft of surface area for 30 days. Break into pieces for smaller water features. Bti granules (Mosquito Bits) provide faster knockdown.
 - **Timing:** Apply when water temperatures exceed 50°F (10°C) and continue monthly through the active season.
 - **Organic certification:** BTI is approved for use in USDA Organic certified operations (check specific product labels).
@@ -126,4 +126,8 @@ The single best mosquito predator you can invite. Dragonfly nymphs are aquatic a
 
 ## See Also
 - [[mollison-designers-fish-pond-water-quality-and-aeration]]
-- [[hemenway-water-harvesting-and-pond-design]]
+- hemenway-water-harvesting-and-pond-design
+- permaculture-water-pond-systems-design-course
+- [[bacillus-thuringiensis]]
+- [[sagittaria-latifolia]]
+- [[pontederia-cordata]]

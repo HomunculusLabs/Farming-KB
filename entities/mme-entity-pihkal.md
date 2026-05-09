@@ -1,6 +1,6 @@
 # MME
 
-PIHKAL entry #136. 2,4-DIMETHOXY-5-ETHOXYAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #136. 2,4-DIMETHOXY-5-ETHOXYAMPHETAMINE.
 
 ## Chemical Name
 

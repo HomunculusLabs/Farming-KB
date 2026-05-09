@@ -1,5 +1,5 @@
 ---
-title: Vegetable Weed Control and Mulching
+title: Vegetable fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery and Mulching
 created: 2026-04-28
 date: 2026-04-28
 updated: 2026-04-28
@@ -13,7 +13,7 @@ sources:
 Strategies for managing weeds and applying mulches in home vegetable
 gardens, based on Purdue Extension guidelines. Effective weed control
 is essential because weeds compete with vegetables for water,
-fertilizer, and sunlight while harboring insects and diseases.
+fertilizer, and sunlight while harboring [[solomon-insects-and-diseases-integrated-approach]].
 
 Related: [[garden-location-and-soil-preparation]],
 [[weed-management-strategies]] available.
@@ -21,7 +21,7 @@ Related: [[garden-location-and-soil-preparation]],
 ## Benefits of Mulching
 
 Mulching encourages growth by conserving moisture, controlling weeds,
-and moderating soil temperature. Different mulch materials provide
+and moderating soil temperature. Different [[mollison-mulch-materials-sources-and-tropical-application]] provide
 different benefits depending on the season and the crop being grown.
 
 ## Black Plastic Mulch
@@ -37,7 +37,7 @@ for planting.
 ## Organic Mulches
 
 Organic mulches tend to keep soil cooler and are ideal for moderating
-hot summer temperatures. They also add organic matter to the soil as
+hot summer temperatures. They also add [[hamilton-composting-and-organic-matter-management]] to the soil as
 they break down over the season. Suitable materials include straw,
 crushed corn cobs, bark chips, shredded bark, sawdust, compost, grass
 clippings, and vermiculite (for seed rows).
@@ -82,6 +82,6 @@ pressure while improving overall garden health.
 
 ## See Also
 
-- [[vegetable-insect-and-disease-control]] — Pest management
-- [[vegetable-garden-guide]] — Comprehensive vegetable gardening
+- [[vegetable-insect-and-disease-control]] — [[cannabis-pest-management-guide]]
+- [[vegetable-garden-guide]] — Comprehensive [[home-vegetable-garden-planning]]
   reference

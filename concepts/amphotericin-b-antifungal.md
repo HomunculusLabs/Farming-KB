@@ -9,7 +9,7 @@ sources: ["raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms
 # Amphotericin B Antifungal
 
 Amphotericin B is a polyene antifungal antibiotic that has been the gold standard for treating
-serious systemic fungal infections for over six decades. Despite its toxicity, it remains one
+serious systemic [[blesching-cannabis-fungal-infections-candida]] for over six decades. Despite its toxicity, it remains one
 of the most potent antifungal drugs available and is essential for treating life-threatening
 mycoses including [[mucormycosis-zygomycete-infections]], and invasive aspergillosis.
 

@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  sources: []
 ---
 
 # Pluteus romellii
@@ -36,12 +36,12 @@ Accurate identification of Pluteus romellii requires attention to several key fe
 - [[pluteus-glaucotinctus]]: Another psilocybin-containing species with distinctive
   blue-green tint to the cap and gills.
 - [[archaeology-of-psychedelic-mushroom-use]]: Dark cap with greenish tones, reported psychoactive.
-- Volvariella species: Share free gills and pink spore print but have a volva at the
+- Volvariella species: Share free gills and pink [[comparison-spore-print-collection-vs-spore-syringe-production]] but have a volva at the
   stem base, which Pluteus lacks.
 - Entoloma species: Also have pinkish spores but sinuate gills and angular spores.
 
 The combination of smooth dark cap with silvery sheen, free pink gills, growth on hardwood,
-and bluing reaction distinguishes P. romellii from most similar species.
+and [[field-guide-psilocybin-bluing-reaction-identification]] distinguishes P. romellii from most similar species.
 
 ## Cultivation
 
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -18,7 +18,7 @@ type: concept
 
 Time is one of the four "missing keys" that Allan Savory identified as
 essential to understanding and managing land health. While time itself does
-not rank as a tool in the Holistic Resource Management model, it is a factor
+not rank as a tool in the [[savory-holistic-resource-management-animal-impact]] Management model, it is a factor
 that guides the use of all tools. Savory calls it the factor that was "staring
 us in the face and always overlooked" throughout the history of range
 management.
@@ -60,7 +60,7 @@ These are linked by a simple formula: Grazing Period equals Recovery Period
 divided by (Number of Paddocks minus one).
 
 Planning must account for the fact that recovery periods need to change as
-daily plant growth rates change during the growing season. In brittle
+daily plant growth rates change during the [[savory-growing-season-and-non-growing-season-management]]. In brittle
 environments, where ninety percent of a year's forage may grow in a few
 weeks of prime conditions, growth rates fluctuate enormously. No single
 recovery period can suit all conditions when paddock numbers are low.
@@ -70,11 +70,11 @@ Animals entering a paddock for a second or third time during dormancy
 will find lower protein and energy and more fiber than on first selection.
 By manipulating recovery periods and grazing periods, managers can control
 the number of times animals select from each paddock, directly affecting
-both livestock nutrition and wildlife feed availability.
+both [[savory-livestock-nutrition-and-supplementation]] and wildlife feed availability.
 
 ## Time Across the Ecosystem Processes
 
-The time dimension affects all four ecosystem foundation blocks. For the
+The time dimension affects all four [[savory-ecosystem-foundation-blocks]] blocks. For the
 [[savory-mineral-cycle-management]],
 the timing of grazing relative to plant growth stages affects the return of
 nutrients to the soil surface.
@@ -102,14 +102,14 @@ animals, and long periods.
 
 The most common error in time management is applying a fixed rotation
 schedule regardless of changing conditions. This practice, which Savory
-calls "rotational grazing," inevitably produces overgrazing because no
+calls "[[comparison-rotational-grazing-vs-continuous-grazing]]," inevitably produces overgrazing because no
 single schedule accounts for varying growth rates. Another common error
 is assuming that rain automatically translates into rapid growth; soil
 aeration, soil moisture, and other factors may suppress growth rates even
 after good rainfall.
 
 Savory warns that a twenty-four-hour mistake in a small paddock at high
-stock density can mean extreme forage depletion. Time management errors are
+[[savory-fencing-economics-and-stock-density-curve]] can mean extreme forage depletion. Time management errors are
 far more consequential at high stock densities, which is why biological
 planning and constant monitoring become increasingly important as paddock
 numbers increase.

@@ -1,8 +1,8 @@
 ---
-title: The Christmas Tree and Amanita Muscaria Connection
+title: The arthur christmas tree amanita muscaria and allegro-amanita-muscaria-properties-and-pharmacology Connection
 created: 2026-04-26
 updated: 2026-04-24
-sources: "James Arthur, Mushrooms and Mankind"
+sources: "James Arthur, arthur-mushrooms-and-mankind-ethnomycology-and-religion"
 wikilinks: "arthur-mushrooms-sumerian-egyptian-art arthur-mushrooms-hinduism-buddhism arthur-phallic-symbolism-mushrooms arthur-mushroom-iconography-medieval-europe"
 type: concept
 tags: [amanita-muscaria, tree-crop]
@@ -54,7 +54,7 @@ or Donner (German Donar) who wears red and rides in a Golden Flying Chariot
 pulled by two Goats (Cracker and Gnasher), ancestors to the now popular
 reindeer. Siberian Shamans used and still use the Amanita muscaria as a
 religious sacrament for spiritual vision, out-of-body travel into the realms of
-the spirits, and as a plant-spirit guide in teaching and healing. See also [[arthur-mushrooms-hinduism-buddhism]]; for ancient Near Eastern roots, see [[arthur-heffter]]
+the spirits, and as a plant-spirit guide in teaching and healing. See also arthur-mushrooms-hinduism-buddhism; for [[allegro-fertility-philosophy-of-the-ancient-near-east]] Eastern roots, see [[arthur-heffter]]
 
 - [[amanita-gemmata]]
 ## Practical Considerations
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

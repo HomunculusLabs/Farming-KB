@@ -20,7 +20,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Black, M. et al. (2015). "Apios americana: the North American potato bean."
+  - Black, M. et al. (2015). "Apios americana: the growing-gourmet-north-american-reishi-species potato bean."
     Economic Botany 69(4): 343-353.
   - Bamberg, J.B. & Hanneman, R.E. (1991). "Origin of the tuber-bearing species
     Apios americana." American Journal of Botany 78(4): 529-538.
@@ -31,7 +31,7 @@ sources:
 ## Overview
 
 *Apios americana*, commonly called the American groundnut, potato bean, or hopniss,
-is a perennial nitrogen-fixing vine native to eastern North America. It produces
+is a perennial nitrogen-fixing vine native to [[polypore-fungi-eastern-north-america]] America. It produces
 chains of edible tubers along its root system that are rich in protein and starch,
 making it one of the most promising underutilized perennial food crops for
 temperate permaculture and food-forest systems.
@@ -96,13 +96,13 @@ advantage over non-leguminous root crops like potatoes and sweet potatoes.
 *A. americana* is increasingly recognized as a valuable component in permaculture
 and food-forest designs due to its multiple ecological functions:
 
-- **Nitrogen fixation:** Adds 30–50 kg N/ha/year to the soil, benefiting
+- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]:** Adds 30–50 kg N/ha/year to the soil, benefiting
   neighboring plants
 - **Edible yield:** Reliable perennial production without annual replanting
 - **Ground cover:** Dense vine growth suppresses weeds when allowed to trail
-- **Wildlife support:** Flowers attract native bees, butterflies, and hummingbirds;
+- **Wildlife support:** Flowers [[query-how-to-attract-native-bees-and-beneficial-insects]] bees, butterflies, and hummingbirds;
   foliage provides cover for small mammals
-- **Erosion control:** Root systems stabilize streambanks and slopes
+- **[[permplant-willows-salix-erosion-control-fodder]]:** Root systems stabilize streambanks and slopes
 
 Cultivation is straightforward: plant tuber pieces 5–8 cm deep in spring.
 Vines require a trellis, fence, or companion shrub to climb for optimal yield.
@@ -118,7 +118,7 @@ in autumn, cooked by roasting or boiling, and often dried for winter storage.
 The species is famously associated with the Plymouth Colony survival story —
 the Wampanoag taught the starving settlers to harvest groundnuts from the
 surrounding wetlands, likely preventing the colony's collapse. Thomas Harlan
-documented the plant's importance in early American agricultural literature
+documented the plant's importance in early [[fukuoka-american-agricultural-decline]] literature
 in the 19th century, noting its superior keeping quality and protein content.
 
 ## See Also
@@ -126,4 +126,3 @@ in the 19th century, noting its superior keeping quality and protein content.
 - [[vicia-villosa]]
 
 - [[pachyrhizus-erosus]] · [[trifolium-repens]] ·
-Arachis pintoi · [[vicia-villosa]] · [[tagasaste]] · [[eleagnus-angustifolia]]

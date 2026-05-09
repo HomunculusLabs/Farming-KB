@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Øllgaard, B. (1990). "A revised classification of the Lycopodiaceae." Nordic Journal of Botany 10(2): 153–158.
-  - Wagner, W.H. & Beitel, J.M. (1992). "Generic classification of modern North American Lycopodiaceae." American Fern Journal 82(4): 180–190.
+  - Wagner, W.H. & Beitel, J.M. (1992). "Generic classification of modern [[growing-gourmet-north-american-reishi-species]] Lycopodiaceae." American Fern Journal 82(4): 180–190.
   - Chopra, R.N. et al. (1956). "Glossary of Indian Medicinal Plants." CSIR, New Delhi.
   - Valiño, F. et al. (2012). "Lycopodium alkaloids: occurrence and bioactivities." Phytochemistry Reviews 11(4): 467–482.
   - Hart, J.A. (1997). "Traditional uses of Lycopodium clavatum." Journal of Ethnopharmacology 56(2): 119–124.
@@ -67,10 +67,10 @@ single strobilus can release millions of spores.
 L. clavatum has a circumboreal distribution across Europe, northern Asia,
 and North America. It extends from Scandinavia and the British Isles
 across Siberia to Japan, and from Alaska across Canada to the northeastern
-United States.
+[[dmt-containing-plants-united-states-halpern]].
 
-Disjunct tropical populations occur in the mountains of Central America,
-the Andes, East Africa, and Southeast Asia, typically above 1500 meters
+Disjunct tropical populations occur in the mountains of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]],
+the Andes, East Africa, and [[psilocybe-southeast-asia-pacific]], typically above 1500 meters
 elevation.
 
 The species grows in acidic, well-drained soils in coniferous and mixed
@@ -125,7 +125,9 @@ populations is regulated in several European countries.
 
 ## See Also
 
+- [[lycopodium-obscurum]]
+
 - [[spore]]
 - [[psilocybin]]
 - [[zingiber-officinale]]
-- [[turmeric]]
+- turmeric

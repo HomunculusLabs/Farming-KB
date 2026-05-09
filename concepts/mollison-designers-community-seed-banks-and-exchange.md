@@ -1,5 +1,5 @@
 ---
-title: Community Seed Banks and Exchange in Permaculture
+title: mollison designers community seed banks and exchange Banks and Exchange in Permaculture
 created: 2026-04-28
 tags:
   - permaculture
@@ -16,8 +16,8 @@ type: concept
 # Community Seed Banks and Exchange in Permaculture
 
 The preservation and exchange of plant genetic resources is fundamental
-to permaculture practice. In the Permaculture Designers Manual, Mollison
-identifies seed saving as a critical skill for self-reliant communities
+to permaculture practice. In the Permaculture [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]], Mollison
+identifies [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]] as a critical skill for self-reliant communities
 and a necessary response to the erosion of agricultural biodiversity
 caused by industrial agriculture. Community seed banks and seed exchange
 networks ensure that locally adapted varieties remain available to
@@ -36,7 +36,7 @@ security and permaculture's capacity to design resilient systems.
 
 Local varieties, also known as landraces or farmer varieties, are adapted
 to specific regional conditions through generations of natural and human
-selection. They possess traits for drought tolerance, frost resistance,
+selection. They possess traits for [[dighton-fungal-drought-tolerance-plant-water-relations]], frost resistance,
 disease immunity, flavour, storage quality, and nutritional value that are
 often absent from modern commercial varieties bred for uniformity and
 transportability rather than resilience. Preserving these local varieties
@@ -50,7 +50,7 @@ within the system.
 ## Cross-References
 
 - [[mollison-designers-cottage-industry-and-home-business]]: Seed enterprises
-- [[mollison-designers-plant-nursery-propagation-bed-design]]: Propagation skills
+- mollison-designers-plant-nursery-propagation-bed-design: Propagation skills
 
 ## See Also
 
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

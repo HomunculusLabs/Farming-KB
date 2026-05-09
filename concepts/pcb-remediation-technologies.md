@@ -22,7 +22,7 @@ The concentration of PCBs at contaminated sites varies depending on the industri
 
 Several non-biological technologies have been applied to PCB remediation. Incineration destroys PCBs at high temperatures but is expensive and raises public concern about emissions. In situ vitrification melts contaminated soil into a glass-like matrix, permanently immobilizing PCBs but at very high cost. Landfill cap systems contain PCB contamination and prevent migration but do not destroy the contaminants.
 
-Chemical dehalogenation methods include alkali metal polyethylene glycolate and base-catalyzed dechlorination, which remove chlorine atoms from PCB molecules, producing less chlorinated and more biodegradable biphenyls. Treatment with ferric ions, hydrogen peroxide, and UV light (photochemical treatment) can also degrade PCBs. The SACRED process (samarium diiodide-catalyzed reductive dechlorination) and the Titanocene dichloride process offer additional chemical degradation pathways.
+Chemical dehalogenation methods include alkali metal polyethylene glycolate and base-catalyzed dechlorination, which remove chlorine atoms from PCB molecules, producing less chlorinated and more biodegradable biphenyls. Treatment with ferric ions, [[cervantes-hydrogen-peroxide-sterilization]], and UV light (photochemical treatment) can also degrade PCBs. The SACRED process (samarium diiodide-catalyzed reductive dechlorination) and the Titanocene dichloride process offer additional chemical [[staycare-chlorophenol-degradation-pathways-white-rot-fungi]].
 
 Fenton's reagent, a mixture of hydrogen peroxide and ferrous iron, generates hydroxyl radicals that can oxidize PCBs in aqueous solution. Solvent extraction removes PCBs from soil using organic solvents, concentrating them for subsequent treatment. Each physical and chemical technology has specific advantages and limitations related to cost, effectiveness, secondary waste generation, and applicability to different contamination scenarios.
 
@@ -30,9 +30,9 @@ Fenton's reagent, a mixture of hydrogen peroxide and ferrous iron, generates hyd
 
 Aerobic bioremediation of PCBs relies on microorganisms that can oxidize biphenyl and lower-chlorinated PCB congeners. Bacterial aerobic degradation of PCBs involves initial oxidation by dioxygenases to form cis-dihydrodiols, which are then converted to diphenols and subsequently cleaved by additional dioxygenases. Further catabolism results in formation of tricarboxylic acid cycle intermediates.
 
-Fungal species belonging to several genera can grow on biphenyl and produce hydroxylated biphenyl metabolites. Aspergillus niger degrades lower chlorinated PCBs present in Clophen A30, producing hydroxylated trichlorobiphenyls and chlorobenzoic acids. Cunninghamella elegans hydroxylates biphenyl to form 2-, 3-, and 4-hydroxybiphenyls and 4,4-dihydroxybiphenyl. The principle of para-recalcitrance has been established, where chlorine substitution at para positions reduces the rate of fungal metabolism.
+Fungal species belonging to several genera can grow on biphenyl and produce hydroxylated biphenyl metabolites. Aspergillus niger degrades lower chlorinated PCBs present in Clophen A30, producing hydroxylated trichlorobiphenyls and chlorobenzoic acids. [[staycare-cunninghamella-elegans-in-bioremediation]] hydroxylates biphenyl to form 2-, 3-, and 4-hydroxybiphenyls and 4,4-dihydroxybiphenyl. The principle of para-recalcitrance has been established, where chlorine substitution at para positions reduces the rate of fungal metabolism.
 
-Phanerochaete chrysosporium and other white-rot fungi have been studied for their ability to transform di-, tetra-, and hexachlorinated PCBs through ligninolytic enzyme systems. Trametes multicolor degrades a wide range of PCB congeners using its laccase enzyme system. These fungal systems are particularly important because they can attack higher-chlorinated PCB congeners that resist bacterial aerobic degradation.
+[[staycare-phanerochaete-chrysosporium-in-bioremediation]] and other white-rot fungi have been studied for their ability to transform di-, tetra-, and hexachlorinated PCBs through ligninolytic enzyme systems. Trametes multicolor degrades a wide range of PCB congeners using its laccase enzyme system. These fungal systems are particularly important because they can attack higher-chlorinated PCB congeners that resist bacterial aerobic degradation.
 
 ## Anaerobic Bioremediation
 
@@ -42,7 +42,7 @@ Combined anaerobic-aerobic treatment trains represent the current best practice 
 
 ## Fungal Enzyme Systems
 
-The discovery of the value of white-rot fungi in bioremediation has brought a new dimension to the field. These fungi produce three principal extracellular enzymes -- lignin peroxidase, manganese peroxidase, and laccase -- that appear to be involved in the depolymerization of lignin and, by extension, the oxidation of recalcitrant xenobiotics including PCBs.
+The discovery of the value of white-rot fungi in bioremediation has brought a new dimension to the field. These fungi produce three principal extracellular enzymes -- lignin peroxidase, [[fungal-manganese-peroxidase-remediation]], and laccase -- that appear to be involved in the depolymerization of lignin and, by extension, the oxidation of recalcitrant xenobiotics including PCBs.
 
 The white-rot fungi account for at least 30% of the total research on fungi used in bioremediation. Successful use depends on a comprehensive understanding of fungal ecology and ecophysiology. Biotransformation of PCBs by laccases has been demonstrated in vitro, and purified fungal enzyme preparations show promise for PCB treatment in aqueous systems without requiring living organisms.
 
@@ -60,7 +60,7 @@ Gas chromatography (GC) is the most common method for PCB analysis. Flame ioniza
 
 ## Treatment Technology Comparison
 
-PCB remediation technologies vary widely in their applicability, effectiveness, and cost. Incineration and in situ vitrification are applicable to soil and liquid media but represent the most expensive options. Chemical dehalogenation and solvent extraction are effective for concentrated sources. Aerobic and anaerobic bioremediation are applicable to soil and aqueous media and offer the advantage of destroying rather than merely transferring PCBs. Phytoremediation applies to soil but is generally limited to lower contamination levels.
+PCB remediation technologies vary widely in their applicability, effectiveness, and cost. Incineration and in situ vitrification are applicable to soil and liquid media but represent the most expensive options. Chemical dehalogenation and solvent extraction are effective for concentrated sources. [[query-what-is-the-difference-between-aerobic-and-anaerobic-composting]] bioremediation are applicable to soil and aqueous media and offer the advantage of destroying rather than merely transferring PCBs. Phytoremediation applies to soil but is generally limited to lower contamination levels.
 
 ## Technology Selection
 

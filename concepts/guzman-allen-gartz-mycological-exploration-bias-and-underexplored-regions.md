@@ -1,5 +1,5 @@
 ---
-title: Mycological Exploration Bias and Underexplored Regions of Neurotropic Fungi
+title: guzman allen gartz mycological exploration bias and underexplored regions Bias and Underexplored Regions of Neurotropic Fungi
 created: 2026-04-28
 tags:
   - exploration-bias
@@ -16,7 +16,7 @@ type: concept
 
 # Mycological Exploration Bias and Underexplored Regions
 
-The global distribution map of neurotropic fungi presented by Guzmán,
+The [[guzman-global-distribution-patterns-neurotropic-fungi]] map of neurotropic fungi presented by Guzmán,
 Allen and Gartz (1998/2000) reveals a striking pattern: the known
 occurrence records are concentrated overwhelmingly in regions where
 professional mycologists have been historically active, rather than
@@ -30,11 +30,11 @@ in neotropical forests, did not consider any species of Psilocybe
 despite their being very common in the surveyed areas. This
 demonstrates that taxonomic expertise, not just field effort,
 determines what gets recorded. A mycologist specializing in boletes or
-coral fungi may walk past dozens of [[neurotropic-fungi-in-africa]]. The continent has
+coral fungi may walk past dozens of neurotropic-fungi-in-africa. The continent has
 enormous biodiversity but only six to eight known neurotropic species
 of Psilocybe. Guzmán, Allen and Gartz explicitly contrast this
 scarcity of records with the "high biodiversity of that continent."
-The confusion surrounding Psilocybe cubensis in Kenya illustrates the
+The confusion surrounding [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] in Kenya illustrates the
 problem: early reports by Cullinan et al. (1945), followed by
 Charters (1957, 1958) and Vendcourt and Trump (1969), were
 contradictory, and Pegler (1977) reported only P. aquamarina from
@@ -60,14 +60,14 @@ that no area has been exhaustively surveyed.
 
 This exploration bias has serious consequences for interpreting
 biogeographic patterns. The apparent concentration of species in
-Mexico, Europe, and the Pacific Northwest of North America may
+Mexico, Europe, and the Pacific Northwest of [[psilocybin-north-america-pacific-northwest]] may
 partially reflect collection intensity rather than true ecological
-distributions. The [[southern-hemisphere-origin-of-neurotropic-fungi]]
+distributions. The southern-hemisphere-origin-of-neurotropic-fungi
 hypothesis, for instance, could be strengthened or weakened depending
 on what is found in currently unsampled areas of Africa, Southeast
 Asia, and South America. Guzmán, Allen and Gartz explicitly noted
 suggestions that more localities appear in the northern hemisphere map
-"in contrast with the high number of species in the southern hemisphere,"
+"in contrast with the high number of species in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]],"
 indicating that collection effort and species richness are inversely
 correlated across hemispheres.
 
@@ -92,7 +92,7 @@ was contributed by specialists across multiple continents: Olah
 (Université Laval, Quebec) provided data on [[guzman-allen-gartz-neurotropic-fungi-diversity-and-vegetation-types]]
 survey work. Africa, particularly the tropical forests of Central
 and West Africa, should yield many new species given the continent's
-overall fungal biodiversity. Southeast Asia remains virtually
+overall [[biodiversity-fungal-biodiversity-estimation-methods]]. Southeast Asia remains virtually
 unknown for neurotropic fungi.
 Within well-studied countries, targeted surveys of understudied
 states and habitat types would likely reveal range extensions and

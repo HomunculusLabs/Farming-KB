@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of North America: Volume 2, Hardwoods." USDA Forest Service Agriculture Handbook 654.
+  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 2, Hardwoods." USDA Forest Service Agriculture Handbook 654.
   - Godman, R.M., Yawney, H.W. & Tubbs, C.H. (1990). "Sugar Maple (Acer saccharum Marsh.)." USDA Forest Service Silvics Manual.
   - Leak, W.B., Yamasaki, M. & Hollinger, D. (2014). "Development of northern hardwoods in New England." USDA Forest Service General Technical Report NRS-132.
   - Kutschera, L. et al. (2010). "Root Architecture of Sugar Maple (Acer saccharum Marsh.) in Relation to Aspect and Competition." Trees, 24(3), 511-522.
@@ -20,7 +20,7 @@ sources:
 
 **Acer saccharum**, commonly known as sugar maple, is a large deciduous tree native to the hardwood forests of northeastern North America.
 
-It is the primary source of maple syrup and one of the most commercially valuable hardwood species in the United States and Canada.
+It is the primary source of maple syrup and one of the most commercially valuable hardwood species in the [[dmt-containing-plants-united-states-halpern]] and Canada.
 
 Sugar maple is celebrated for its brilliant autumn foliage, which ranges from clear yellow through orange to fluorescent orange-red, making it a defining species of the New England fall landscape.
 
@@ -40,7 +40,7 @@ Sugar maple belongs to section Acer within the genus, closely related to black m
 
 The basal lobes are relatively small compared to the upper lobes, and the sinuses are U-shaped, distinguishing it from red maple (*A. rubrum*) which has V-shaped sinuses.
 
-**Flowers:** Greenish-yellow, pendulous racemes appearing before leaf emergence in early spring. The species is primarily monoecious, with some trees functionally dioecious.
+**Flowers:** Greenish-yellow, pendulous racemes appearing before leaf emergence in [[coleman-overwintered-onions-and-early-spring-crops]]. The species is primarily monoecious, with some trees functionally dioecious.
 
 **Fruit:** A paired samara (winged fruit), 2–3 cm long, with wings spreading at approximately 60–180 degree angles. Samaras mature in late summer to early fall.
 
@@ -70,7 +70,7 @@ A single mature tree can yield 35–80 liters of sap per season, which when boil
 
 Maple syrup production contributes billions of dollars annually to the economies of Vermont, Quebec, Ontario, and other northeastern regions.
 
-The phenological timing of sap flow is highly sensitive to climate change, with warming winters shifting the tapping season earlier and potentially threatening long-term viability in southern portions of the species' range.
+The phenological timing of sap flow is highly sensitive to [[dighton-fungi-climate-change-feedback]], with warming winters shifting the tapping season earlier and potentially threatening long-term viability in southern portions of the species' range.
 
 ## Ecological Role
 
@@ -78,7 +78,7 @@ Sugar maple foliage supports a diverse community of herbivorous insects, though 
 
 The seeds are an important food source for squirrels, chipmunks, and various bird species during late summer and fall.
 
-Sugar maple leaf litter decomposes relatively slowly, contributing to a thick organic horizon that influences soil chemistry, nutrient cycling, and understory composition.
+Sugar maple [[dighton-fungal-decomposition-leaf-litter-dynamics]] decomposes relatively slowly, contributing to a thick organic horizon that influences soil chemistry, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and understory composition.
 
 The species' dense canopy casts deep shade that suppresses understory vegetation, creating distinct microhabitats and influencing forest floor plant communities.
 
@@ -109,6 +109,8 @@ The species is intolerant of compacted soils, road salt, and urban air pollution
 Fall foliage color varies among genotypes, and selected cultivars such as 'Apollo', 'Green Mountain', and 'Legacy' offer improved form and reliable autumn color.
 
 ## See Also
+
+- [[acer-saccharinum]]
 
 - [[quercus-robur]]
 - [[betula-pendula]]

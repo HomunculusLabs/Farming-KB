@@ -1,5 +1,5 @@
 ---
-title: "EMCDDA Hallucinogenic Mushroom Legal Prohibition Impact UK and
+title: "EMCDDA emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative Legal Prohibition Impact UK and
 created: 2026-04-28
   Netherlands"
 tags:
@@ -20,7 +20,7 @@ type: concept
 ## Overview
 
 Between 2001 and 2006, six EU Member States tightened legislation on
-hallucinogenic mushrooms. The most significant and well-documented cases are
+[[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]. The most significant and well-documented cases are
 the Netherlands (2002) and the United Kingdom (2005), both of which had
 large legal retail markets for hallucinogenic mushrooms prior to prohibition.
 The experiences of these two countries provide important case studies in how
@@ -49,7 +49,7 @@ The EMCDDA documented a wave of legislative action across Europe:
 
 ### Legal Context
 
-Psilocin and psilocybin are controlled under the 1971 UN Convention on
+[[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] are controlled under the 1971 UN Convention on
 Psychotropic Substances and listed in Schedule I. All EU Member States
 control them accordingly. However, the application to unprocessed fresh
 mushrooms was ambiguous. The Dutch Supreme Court ruled in November 2002 that
@@ -64,7 +64,7 @@ This ruling created a legal distinction that allowed smartshops to continue
 selling fresh mushrooms while prohibiting dried or processed products. The
 effect was to preserve the Dutch smartshop market for fresh mushrooms, which
 remained legally available until further restrictions were imposed. The Dutch
-Risk Assessment Report had previously estimated that magic mushrooms made up
+Risk Assessment Report had previously estimated that [[guzman-magic-mushrooms-african-species]] made up
 approximately 50% of smartshop turnover, meaning the ruling preserved a
 significant commercial sector.
 
@@ -109,7 +109,7 @@ Reports in the UK suggested that legislation had a significant impact:
 - The Mixmag 2005 survey found that 67% of respondents reported mushrooms
   were less available than previously.
 - Online retailers switched to selling legal alternatives such as Amanita
-  muscaria (fly agaric), Amanita pantherina, and Purple Ohms capsules.
+  muscaria ([[amanita-muscaria-fly-agaric-history-and-pharmacology]]), Amanita pantherina, and Purple Ohms capsules.
 - Seizures by law enforcement increased following reclassification,
   including mushrooms worth £6,000 (€8,700) seized in Glasgow in 2005.
 
@@ -135,7 +135,7 @@ man died after consuming psychoactive mushrooms.
 A consistent pattern emerged across jurisdictions: legal restrictions were
 followed by retailer adaptation. The EMCDDA observed that prohibition
 appeared to provoke an emerging interest of retailers in legal types of
-hallucinogenic mushroom such as Amanita muscaria (fly agaric). This
+hallucinogenic mushroom such as [[allegro-amanita-muscaria-properties-and-pharmacology]] (fly agaric). This
 "substitution effect" meant that controlling one substance could drive
 demand toward potentially riskier alternatives.
 

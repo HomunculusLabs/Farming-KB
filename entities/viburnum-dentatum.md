@@ -11,7 +11,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada. New York Botanical Garden.
+  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern dmt-containing-plants-united-states-halpern and Adjacent Canada. New York Botanical Garden.
   - Dirr, M.A. (2009). Manual of Woody Landscape Plants. Stipes Publishing.
   - USDA NRCS (2024). Plant Profile: Viburnum dentatum. plants.usda.gov.
   - Galle, F.C. (1985). Viburnums: Flowering Shrubs for Every Season. Timber Press.
@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-**Viburnum dentatum**, commonly known as arrowwood viburnum or southern arrowwood, is a deciduous shrub in the family Adoxaceae native to eastern North America. It ranges from Maine and Quebec south to Georgia and west to Iowa and Texas.
+**Viburnum dentatum**, commonly known as arrowwood viburnum or southern arrowwood, is a deciduous shrub in the family Adoxaceae native to [[polypore-fungi-eastern-north-america]] America. It ranges from Maine and Quebec south to Georgia and west to Iowa and Texas.
 
 The species is named for its historically straight, strong shoots used by Indigenous peoples for arrow shafts. Arrowwood is one of the most widely planted native viburnums in landscaping due to its adaptability, dense form, and exceptional wildlife value.
 
@@ -42,7 +42,7 @@ The genus *Viburnum* contains approximately 150–175 species distributed across
 
 **Flowers:** White, arranged in flat-topped cymes 4–8 cm across. Individual flowers are 4–6 mm wide with 5 petals and exerted stamens. Blooming occurs May–June.
 
-**Fruit:** Small ovoid drupe 6–9 mm long, ripening from green to blue-black with a waxy bloom. Fruits are borne in dense clusters and are highly attractive to birds. Each contains a single seed.
+**Fruit:** Small ovoid drupe 6–9 mm long, ripening from green to blue-black with a waxy bloom. Fruits are borne in dense clusters and are highly attractive to birds. Each contains a [[cervantes-selfing-single-seed-descent]].
 
 Fruit ripening occurs August–October, with peak palatability after the first frost reduces residual astringency.
 
@@ -54,7 +54,7 @@ The species is absent from the Gulf Coastal Plain and most of the lower Mississi
 
 Arrowwood grows in a broad range of habitats including open woodlands, forest edges, thickets, streambanks, meadows, and disturbed sites. It is notably shade-tolerant as a sapling but fruits best in partial to full sun.
 
-It thrives on moist, well-drained loamy soils with pH 5.0–7.0 but tolerates clay, sandy soils, and periodic flooding. Drought tolerance is moderate once established.
+It thrives on moist, well-drained loamy soils with pH 5.0–7.0 but tolerates clay, sandy soils, and periodic flooding. [[dighton-fungal-drought-tolerance-plant-water-relations]] is moderate once established.
 
 Arrowwood is frequently encountered in successional oldfields and along fence rows where bird-dispersed seeds establish readily. It is considered an indicator species of relatively intact forest-edge habitat in the northeastern United States.
 
@@ -64,7 +64,7 @@ Arrowwood is among the most important wildlife food shrubs in eastern deciduous 
 
 White-tailed deer browse the twigs and foliage moderately, while cottontail rabbits feed on bark and lower stems during winter. The dense thicket-forming habit provides cover for nesting songbirds and small mammals.
 
-The flowers are highly attractive to pollinators, particularly native bees, honeybees, and butterflies. Arrowwood serves as a nectar source during the critical late-spring foraging period when many early-blooming species have finished flowering.
+The flowers are highly attractive to pollinators, particularly [[query-how-to-attract-native-bees-and-beneficial-insects]], honeybees, and butterflies. Arrowwood serves as a nectar source during the critical late-spring foraging period when many early-blooming species have finished flowering.
 
 It is a larval host for the spring azure butterfly (*Celastrina ladon*) and the viburnum clearwing moth (*Synanthedon viburni*).
 
@@ -90,7 +90,7 @@ Arrowwood is recommended for rain gardens, bioswales, and stormwater management 
 
 ## Related Species
 
-Arrowwood is part of a taxonomically complex group that includes several closely related North American viburnums. *Viburnum recognitum* (northern arrowwood) is now generally included within *V. dentatum* by most authorities.
+Arrowwood is part of a taxonomically complex group that includes several closely related [[growing-gourmet-north-american-reishi-species]] viburnums. *Viburnum recognitum* (northern arrowwood) is now generally included within *V. dentatum* by most authorities.
 
 *Viburnum bracteatum* (bracted arrowwood), native to the Ozarks and Ouachita Mountains, is sometimes treated as a separate species or variety. It differs in its larger, more pubescent leaves.
 
@@ -106,6 +106,6 @@ Compared to nannyberry, arrowwood has smaller fruit, more coarsely toothed leaf 
 - [[juniperus-communis]]
 - [[taxus-baccata]]
 - [[picea-abies]]
-- [[arctostaphylos-uva-ursi]]
+- arctostaphylos-uva-ursi
 - [[juniperus-virginiana]]
 - [[vaccinium-myrtillus]]

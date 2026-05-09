@@ -1,7 +1,7 @@
 ---
 title: Plant Root Intelligence
 created: 2026-04-26
-aliases: [root systems, root communication, mycorrhizal networks, radicle brain]
+aliases: [root systems, root communication, [[dighton-mycorrhizal-networks-carbon-transfer]], radicle brain]
 tags: [botany, ecology, soil-science, plant-intelligence]
 related: [tompkins-plant-chemical-communication, tompkins-plant-animal-relationships, tompkins-plant-growth-regulators]
 sources: Tompkins & Bird, The Secret Life of Plants (1973)
@@ -97,16 +97,16 @@ pulsation when sap pressure was increased or decreased.
 
 ## Mycorrhizal Networks
 
-Dr. M.C. Rayner in England discovered that mycorrhizal fungi -- whose
+Dr. M.C. Rayner in England discovered that [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] -- whose
 vegetative threads associate with the roots of many green plants in a
 mutually beneficial relationship -- are consumed by tree roots. Sir
 Albert Howard found that the healthiest wine grape vines in France had
 roots rich in mycorrhizae. No artificial fertilizers had ever been used
 on these vines, yet they were noted for the high quality of their wines.
 
-This underground fungal network represents a communication and
+This underground [[mycelium-running-mycelium-natures-internet-fungal-network-theory]] represents a communication and
 nutrient-sharing system linking multiple plants -- a concept that
-anticipated modern understanding of the "wood wide web."
+anticipated modern understanding of the "wood [[wood-wide-web-theory]]."
 
 ## Roots and Orientation
 
@@ -131,4 +131,7 @@ internal gyroscope.
 
 - [[what-a-plant-knows-plant-vision-and-light-perception]]
 - [[plant-fungal-signaling-mycorrhiza]]
-- [[mycorrhizal-plant-signaling]]
+- mycorrhizal-plant-signaling
+- [[wood-wide-web]]
+- [[silphium-laciniatum]]
+- [[desmodium-gyrans]]

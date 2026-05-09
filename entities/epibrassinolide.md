@@ -52,7 +52,7 @@ normal plant growth and reproduction. As the most active brassinosteroid,
 it produces the most pronounced effects across all known brassinosteroid-
 mediated pathways.
 
-**Cell elongation and division**: Promotes cell expansion by acidifying the
+**[[brassinosteroid-physiological-mechanisms-cell-elongation-division]] and division**: Promotes cell expansion by acidifying the
 cell wall and activating H+-ATPase proton pumps, leading to increased wall
 extensibility through activation of expansin proteins. This effect is
 synergistic with auxin and involves cross-talk between brassinosteroid and
@@ -60,15 +60,15 @@ auxin signaling pathways at multiple levels.
 
 **Vascular differentiation**: Stimulates xylem differentiation and promotes
 vascular bundle formation through upregulation of VND transcription factors,
-critical for efficient water and nutrient transport throughout the plant.
+critical for efficient water and [[mycelial-network-nutrient-transport-imaging-gadd]] throughout the plant.
 
 **Reproductive development**: Enhanced pollen tube growth, seed set, and
 fruit development have been documented across numerous crop species.
 Application during flowering significantly increases fruit retention and
 seed number per pod or ear.
 
-**Stress tolerance**: Improves plant resistance to drought, salinity, heat,
-cold, and heavy metal stress through activation of antioxidant defense
+**[[fungal-lichen-stress-tolerance-and-poikilohydry]]**: Improves plant resistance to drought, salinity, heat,
+cold, and [[dighton-fungal-biosorption-heavy-metal-remediation]] stress through activation of antioxidant defense
 systems including superoxide dismutase, catalase, and peroxidase enzymes.
 Also upregulates heat shock proteins and LEA proteins.
 
@@ -94,13 +94,13 @@ slight inhibition. This biphasic response is characteristic of hormone-like
 activity and suggests a specific target site in fungal cells.
 
 **Comparison with brassinosteroids**: Epibrassinolide was among the most
-active brassinosteroids tested, along with [[bri1]], enhancement of nutrient uptake through membrane transporter
+active brassinosteroids tested, along with [[bri1]], enhancement of [[plant-nutrient-uptake-mechanisms]] through membrane transporter
 activation, or stimulation of mitochondrial respiration and ATP production.
 
 ## Agricultural Applications
 
 Epibrassinolide is commercially available as a plant growth regulator used
-worldwide. Applied as a foliar spray or seed treatment at extremely low
+worldwide. Applied as a foliar spray or [[jadam-seed-treatment-and-nursery-management]] at extremely low
 concentrations (0.01–1.0 mg/L), it improves crop yield and stress
 resistance economically. Applications include cereal crops (5–15% yield
 increases in rice, wheat, maize), vegetables (improved biomass and fruit

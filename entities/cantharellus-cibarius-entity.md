@@ -1,6 +1,6 @@
 # Cantharellus cibarius
 
-**Chanterelle** is one of the most prized wild edible mushrooms in the
+**Chanterelle** is one of the most prized wild [[palmer-edible-mushrooms-north-america]] in the
 Northern Hemisphere, valued for its fruity aroma, peppery flavor, and firm
 flesh. Unlike most , chanterelles are obligate
 ectomycorrhizal partners of forest trees and have resisted large-scale
@@ -40,8 +40,8 @@ association with *Fagus* and *Picea*.
 
 ## Distribution and Habitat
 
-Chanterelles are broadly distributed across temperate and boreal forests
-of Europe, Asia, and North America, ranging from the Mediterranean to
+Chanterelles are broadly distributed across temperate and [[fungal-diversity-boreal-forests-taiga]]
+of Europe, Asia, and [[psilocybin-north-america-pacific-northwest]], ranging from the Mediterranean to
 Scandinavia. They form  with *Quercus*,
 *Fagus*, *Picea*, *Pinus*, *Betula*, and *Corylus*. Fruiting occurs in
 summer and autumn (July–October in temperate zones), often in flushes
@@ -60,13 +60,13 @@ inferior.
 ## Bioactive Compounds
 
 - **Ergothioneine:** High concentrations (comparable to porcini); potent
-  antioxidant and cytoprotective amino acid derivative
+  antioxidant and cytoprotective [[cho-fish-amino-acid-preparation]] derivative
 - **Carotenoids:** Canthaxanthin and other C₄₀ carotenoids responsible
   for golden pigmentation; contribute to antioxidant profile
 - **Vitamin D2:** Significant ergocalciferol content when UV-exposed
-  [[beta-glucan-receptor-binding]] fractions with demonstrated
+  kappa opioid receptor fractions with demonstrated
   immunomodulatory activity *in vitro*
-- **Linoleic acid and sterols:** Antimicrobial fatty acids and ergosterol
+- **Linoleic acid and sterols:** Antimicrobial [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] and ergosterol
 
 ## Cultivation
 
@@ -84,7 +84,12 @@ As an ectomycorrhizal species, chanterelles exchange soil minerals
 (phosphorus, nitrogen, micronutrients) for photosynthate from host trees.
 The [[food-forests-and-the-seven-story-garden]]:** Compatible with oak, beech, hazel, and pine
   understory layers; minimal management once established
-- **Orchard integration:** May establish under mature fruit and nut trees
+- **Orchard integration:** May establish under mature fruit and [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]]
   as secondary yield
 - **Silvopasture:** Compatible with grazed woodland if [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]
 - [[companion-cultivation-of-mushrooms-with-garden-vegetables]]
+
+## See Also
+
+- [[cantharellus-cinereus]]
+- [[cantharellus-lateritius]]

@@ -32,10 +32,12 @@ ourselves to the task of revitalizing the earth.
 He warned that many species become extinct each day, and the disappearance of
 each bird or plant is connected with the destruction of the harmony of all
 living things. Once the primal source of nature is destroyed, it will no
-longer restore itself, and the vision of natural culture will become
+longer restore itself, and the vision of [[fukuoka-matsutake-natural-culture-medium-microbiological-innovation]] will become
 obsolete.
 
 ## See Also
+
+- [[fukuoka-sowing-desertification-countermeasures-and-modern-failures]]
 
 - [[fukuoka-mu-nothingness-philosophy]]
 - [[fukuoka-nature-perfect-imperfect]]
@@ -56,7 +58,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -98,4 +100,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -9,7 +9,7 @@ sources:
 ---
 # Cannabis and Leukemia
 
-**Source:** The Cannabis Health Index, Uwe Blesching, PhD (2017)
+**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]], Uwe Blesching, PhD (2017)
 **Updated:** 2026-04-19
 
 ## Evidence-Based Therapeutic Potential
@@ -99,7 +99,7 @@ Strains rich in [[cannabis-terpene-profile]] of selected strains, particularly t
 
 ## Limitations of Current Research
 
-All reviewed studies were pre-clinical (laboratory or animal). The concentrations of cannabinoids effective in vitro may not be achievable through typical cannabis consumption. No clinical trials have evaluated cannabis specifically for leukemia treatment. The potential for cannabinoids to interact with chemotherapy agents — both positively (synergy) and negatively (altered drug metabolism) — requires careful clinical investigation. Cannabis should not be considered a replacement for conventional leukemia treatment.
+All reviewed studies were pre-clinical (laboratory or animal). The concentrations of cannabinoids effective in vitro may not be achievable through typical cannabis consumption. No [[mushroom-cancer-clinical-trials-overview]] have evaluated cannabis specifically for leukemia treatment. The potential for cannabinoids to interact with chemotherapy agents — both positively (synergy) and negatively (altered drug metabolism) — requires careful clinical investigation. Cannabis should not be considered a replacement for conventional leukemia treatment.
 
 ## Related
 

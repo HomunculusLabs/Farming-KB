@@ -12,7 +12,7 @@ type: query
 # What Are the Best Mushroom Species for Beginners to Grow?
 
 ## Short Answer
-The best mushroom species for beginners are oyster mushrooms (particularly
+The best mushroom species for beginners are [[query-how-to-grow-oyster-mushrooms-at-home]] (particularly
 blue, pink, and golden oyster), wine cap, and lion's mane. These species grow
 quickly on a wide range of substrates, tolerate less-than-perfect sterile
 technique, fruit reliably in simple setups, and have relatively few
@@ -23,7 +23,7 @@ cultivation projects as your experience grows.
 
 ## Detailed Explanation
 
-Starting a mushroom cultivation hobby can feel overwhelming with the many
+Starting a [[accessible-mushroom-cultivation-for-disabilities]] hobby can feel overwhelming with the many
 species, substrates, and techniques available. The key to a successful first
 grow is choosing species that are forgiving of beginner mistakes. Oyster
 mushrooms (Pleurotus ostreatus and related species) are universally
@@ -34,7 +34,7 @@ the most productive mushrooms per pound of substrate, making them
 rewarding for new growers to see rapid returns on their effort.
 
 Blue oyster (Pleurotus ostreatus) is the most forgiving species for indoor
-cultivation on pasteurized straw or supplemented sawdust. It colonizes
+cultivation on [[oyster-mushroom-pasteurized-straw-cultivation]] or [[oyster-mushroom-supplemented-sawdust-blocks]]. It colonizes
 substrate in 10 to 14 days and fruits within 3 to 5 days of being exposed to
 fresh air and high humidity. Blue oyster mushrooms tolerate temperature
 fluctuations well and can fruit between 55 and 75 degrees Fahrenheit. They
@@ -57,7 +57,7 @@ and benefits from higher CO2 levels during the pinning stage.
 
 Wine cap mushrooms (Stropharia rugosoannulata) are the best outdoor species
 for beginners. They grow directly in garden beds on wood chips, straw, or
-cardboard, requiring minimal equipment and no sterile technique whatsoever.
+cardboard, requiring minimal equipment and no [[cultivator-sterile-technique-and-agar-culture]] whatsoever.
 Wine caps fruit prolifically in spring and fall, producing burgundy-capped
 mushrooms with a robust, potato-like flavor. They are also valuable in
 [[companion-cultivation-of-mushrooms-with-garden-vegetables]] for
@@ -66,7 +66,7 @@ integration strategies that combine wine caps with vegetable gardens.
 Lion's mane (Hericium erinaceus) is slightly more demanding than oyster
 mushrooms but remains accessible for beginners willing to maintain slightly
 cooler temperatures (60 to 70 degrees Fahrenheit) and higher humidity levels.
-The reward is one of the most unique-looking and medicinal mushrooms
+The reward is one of the most unique-looking and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]
 available. Lion's mane is renowned for its [[contaminant-identification-and-prevention|contaminant identification]] is essential regardless of species choice, as contamination
 is the single most common reason for failed grows among beginners.
 
@@ -81,3 +81,7 @@ is the single most common reason for failed grows among beginners.
 - [[query-how-to-grow-shiitake-mushrooms]]
 - [[query-how-to-set-up-a-monotub-mushroom-grow]]
 - [[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]]
+
+## See Also
+
+- [[query-best-mushroom-species-for-beginner-home-cultivation]]

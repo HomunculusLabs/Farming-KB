@@ -9,11 +9,11 @@ sources: []
 
 # Enoki Cultivation Guide
 
-Enoki (Flammulina velutipes), also known as winter mushroom or enokitake, is a popular edible mushroom prized for its long, slender stems and small caps. The wild form looks entirely different from the cultivated supermarket version — commercial enoki is grown in high-CO2, low-light conditions that produce the characteristic white, elongated morphology.
+Enoki (Flammulina velutipes), also known as winter mushroom or enokitake, is a popular [[bloomfield-boletus-satanus-edible-mushroom-hazards]] prized for its long, slender stems and small caps. The wild form looks entirely different from the cultivated supermarket version — commercial enoki is grown in high-CO2, low-light conditions that produce the characteristic white, elongated morphology.
 
 ## Overview
 
-Enoki is one of the most commercially cultivated mushrooms in the world, particularly in Japan, China, and Korea. It is a cold-loving species that naturally fruits in late autumn through winter on dead hardwood. Its ability to fruit at near-freezing temperatures makes it unique among cultivated mushrooms and ideal for winter production.
+Enoki is one of the most commercially [[fungi-cultivated-mushrooms-pathogens-competitors]] in the world, particularly in Japan, China, and Korea. It is a cold-loving species that naturally fruits in late autumn through winter on dead hardwood. Its ability to fruit at near-freezing temperatures makes it unique among cultivated mushrooms and ideal for winter production.
 
 ## Species Biology
 
@@ -37,7 +37,7 @@ Standard commercial enoki substrate:
 - Gypsum: 1-2%
 - Moisture content: 63-68%
 
-Enoki is less tolerant of high supplementation than oyster mushrooms. Keep bran below 25% to avoid contamination and soft, stringy fruiting bodies. Sawdust from broadleaf hardwoods (beech, oak, maple) works best.
+Enoki is less tolerant of high supplementation than [[query-how-to-grow-oyster-mushrooms-at-home]]. Keep bran below 25% to avoid contamination and soft, stringy fruiting bodies. Sawdust from broadleaf hardwoods (beech, oak, maple) works best.
 
 ### Sterilization
 
@@ -49,11 +49,11 @@ Enoki is sensitive to bacterial contamination. Sterilize at 15 PSI for 2-3 hours
 - Cylindrical poly bags with restricted openings
 - Wide-mouth jars (home cultivation)
 
-Bottles produce the most uniform, market-quality mushrooms. The narrow neck creates a micro-environment of high CO2 around the growing mushrooms.
+Bottles produce the most uniform, market-quality mushrooms. The narrow neck creates a micro-environment of high CO2 around the [[falconer-growing-mushrooms-in-sheds]].
 
 ## Inoculation and Spawn Run
 
-Inoculate sterilized substrate in clean conditions:
+Inoculate [[oyster-mushroom-non-sterilized-substrate-cultivation]] in clean conditions:
 
 - Spawn rate: 5-10% grain spawn by weight
 - Incubation temperature: 68-75 F (20-24 C)
@@ -133,7 +133,7 @@ Enoki is low in calories and rich in:
 
 - [[oyster-mushroom-pleurotus-ostreatus|oyster mushroom species]] for other cold-tolerant species
 - [[nameko-cultivation]] for another cold-fruiting Asian mushroom
-- [[shiitake-cultivation-guide]] for hardwood substrate cultivation methods
+- [[shiitake-cultivation-guide]] for hardwood substrate [[synthetic-log-cultivation-methods-guide]]
 - [[mushroom-substrates]]
 - [[mushroom-grow-room-design]]
 - [[mushroom-drying-storage]]

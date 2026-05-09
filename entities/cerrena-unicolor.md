@@ -24,17 +24,17 @@ updated: 2026-04-28
 sources:
   - Ryvarden, L. & Gilbourn, C.L. (2004). "Polyporaceae." Synopsis Fungorum 21: 1–708.
   - Floudas, D. et al. (2012). "The Paleozoic Origin of Enzymatic Lignin Decomposition Reconstructed from 31 Fungal Genomes." Science 336(6089): 1715–1719.
-  - Dashtban, M. et al. (2010). "Fungal Biodegradation and Ligninolytic Enzymes." International Biodeterioration & Biodegradation 64(6): 433–451.
+  - Dashtban, M. et al. (2010). "Fungal Biodegradation and [[singh-ligninolytic-enzymes-fungal-bioremediation]]." International Biodeterioration & Biodegradation 64(6): 433–451.
   - Binder, M. et al. (2013). " molecular Phylogeny of Polyporales." Mycologia 105(6): 1430–1450.
 ---
 
 ## Overview
 
-*Cerrena unicolor* (Bull.) Murrill is a white-rot basidiomycete bracket fungus in the family Polyporaceae. It is one of the most efficient lignin-degrading fungi known, producing potent laccase enzymes used in biotechnology and bioremediation.
+*Cerrena unicolor* (Bull.) Murrill is a white-rot basidiomycete bracket fungus in the family Polyporaceae. It is one of the most efficient lignin-degrading fungi known, producing potent [[singh-fungal-laccase-enzymes-bioremediation]] used in biotechnology and bioremediation.
 
 The species colonizes dead and dying hardwood, particularly fallen branches and stumps of oak, beech, and birch. It fruits as tough, semicircular brackets with a distinctive zonate upper surface and a gray-to-cream pore layer underneath.
 
-C. unicolor has attracted significant industrial interest for its laccase production capacity, which rivals that of *Trametes versicolor*. Its enzymes are studied for applications in pulp bleaching, textile dye decolorization, and degradation of organic pollutants.
+C. unicolor has attracted significant industrial interest for its laccase production capacity, which rivals that of *[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]*. Its enzymes are studied for applications in pulp bleaching, textile dye decolorization, and degradation of organic pollutants.
 
 ## Taxonomy and Morphology
 
@@ -66,7 +66,7 @@ The fungus produces a consortium of lignin-modifying enzymes: laccases (multicop
 
 Its ecological role is significant in forest carbon cycling. By breaking down lignin, C. unicolor releases trapped cellulose and hemicellulose for other decomposers and contributes to soil humus formation.
 
-The species also acts as a weak pathogen on stressed trees, colonizing through wounds. It is not considered a major cause of timber decay in standing trees compared to more aggressive polypores like *Ganoderma lucidum*.
+The species also acts as a weak pathogen on stressed trees, colonizing through wounds. It is not considered a major cause of timber decay in standing trees compared to more aggressive polypores like *[[stamets-reishi-ganoderma-lucidum-cultivation]]*.
 
 ## Bioactive Compounds and Pharmacology
 
@@ -80,7 +80,7 @@ Antioxidant activity of methanol and aqueous extracts is attributed to phenolic 
 
 ## Cultivation
 
-*C. unicolor* is cultivated primarily for laccase enzyme production rather than as an edible mushroom. Submerged fermentation in bioreactors yields peak laccase titers after 5–7 days at 25–28°C with agitation at 150–200 rpm.
+*C. unicolor* is cultivated primarily for laccase enzyme production rather than as an edible mushroom. [[cancer-medicinal-mushrooms-submerged-fermentation-production]] in bioreactors yields peak laccase titers after 5–7 days at 25–28°C with agitation at 150–200 rpm.
 
 Solid-state fermentation on agricultural residues (wheat straw, rice bran, sawdust) provides cost-effective enzyme production. Supplementation with copper (0.5–2.0 mM CuSO₄) and aromatic inducers (guaiacol, 2,5-xylidine) significantly enhances laccase yields.
 
@@ -90,7 +90,7 @@ Fruiting body cultivation is rarely attempted commercially. Laboratory fruiting 
 
 ## Bioremediation Applications
 
-Laccase from *C. unicolor* degrades a wide range of environmental pollutants including polycyclic aromatic hydrocarbons (PAHs), chlorophenols, synthetic dyes, and endocrine-disrupting chemicals. This makes the species valuable for bioremediation of contaminated soils and wastewater.
+Laccase from *C. unicolor* degrades a wide range of environmental pollutants including [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs), chlorophenols, synthetic dyes, and endocrine-disrupting chemicals. This makes the species valuable for bioremediation of contaminated soils and wastewater.
 
 Immobilized laccase preparations from C. unicolor show enhanced stability and reusability compared to free enzymes. Support materials such as alginate beads, activated carbon, and chitosan have been used successfully for enzyme immobilization.
 

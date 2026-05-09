@@ -1,5 +1,5 @@
 ---
-title: Cannabis Harvesting and Curing Techniques
+title: Cannabis cannabis harvesting and curing techniques Techniques
 created: 2026-04-28
 tags: [cannabis, harvesting, curing, post-harvest, quality]
 date: 2026-04-25
@@ -23,7 +23,7 @@ product depends as much on proper harvesting and [[greg-green-trichomes-and-resi
 
 Indica plants typically range from 1 to 4 feet in height at harvest. The plant
 should be cut at the base and hung upside down in a cool, dark room with fresh
-air circulation. Using a pair of clippers, the grower removes as many fan
+[[stamets-growing-room-air-circulation-co2-management]]. Using a pair of clippers, the grower removes as many fan
 leaves as possible, followed by the secondary leaves. These are separated into
 different piles because they represent different quality grades of smokable
 material.
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

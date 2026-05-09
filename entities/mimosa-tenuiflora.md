@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-**Mimosa tenuiflora** (syn. *Mimosa hostilis*) is a perennial shrub or small tree in the family Fabaceae (legume family), native to the Caatinga biome of northeastern Brazil and extending through Central America to southern Mexico. It is one of the most important entheogenic plants in the Americas, with a rich history of indigenous ceremonial use spanning thousands of years. The inner root bark contains among the highest concentrations of DMT found in any plant, making it both a subject of traditional reverence and modern pharmacological interest. Beyond its psychoactive properties, *M. tenuiflora* is an ecologically vital [[pioneer-species-selection-for-permaculture-systems]] with significant applications in ecological restoration and permaculture.
+**Mimosa tenuiflora** (syn. *[[entheogen-jurema-mimosa-hostilis-ethnobotany]]*) is a perennial shrub or small tree in the family Fabaceae (legume family), native to the Caatinga biome of northeastern Brazil and extending through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to southern Mexico. It is one of the most important entheogenic plants in the Americas, with a rich history of indigenous ceremonial use spanning thousands of years. The inner root bark contains among the highest concentrations of DMT found in any plant, making it both a subject of traditional reverence and modern pharmacological interest. Beyond its psychoactive properties, *M. tenuiflora* is an ecologically vital [[pioneer-species-selection-for-permaculture-systems]] with significant applications in ecological restoration and permaculture.
 
 ## Taxonomy
 
@@ -87,7 +87,7 @@ The inner root bark of *M. tenuiflora* is exceptionally rich in DMT:
 The use of *M. tenuiflora* in northeastern Brazil represents one of the oldest continuous entheogenic traditions in the Americas:
 - **Archaeological evidence**: Ceramic pipes containing DMT residues, dated to 1000 BCE, have been found in the region of Pernambuco — demonstrating over 3,000 years of documented use
 - **Indigenous peoples**: The Tupi, Pataxó, Tuxá, Fulni-ô, and other indigenous groups of the Caatinga region used jurema in shamanic ceremonies for healing, divination, and communication with spirits
-- **Vinho da Jurema (Jurema wine)**: The traditional preparation involves:
+- **Vinho da Jurema (Jurema wine)**: The [[kava-traditional-preparation-ceremonial-context]] involves:
   1. Harvesting inner root bark (traditionally done with ritual prayers)
   2. Shaving and pounding the bark into a fibrous mass
   3. Cold-water extraction, often with fermentation over 2–3 days
@@ -106,13 +106,13 @@ In Mexico, *M. tenuiflora* has a distinct tradition centered on dermatological a
 ### Indigenous Maya Use
 
 - Evidence of *M. tenuiflora* use in Maya ceremonial contexts in southern Mexico and Guatemala
-- Archaeological findings of [[leaf-litter-microfungal-diversity-tropical-temperate]]**: Nitrogen-rich leaf litter (3–4% N in dry matter) adds significant organic matter and nutrients to soil
+- Archaeological findings of [[leaf-litter-microfungal-diversity-tropical-temperate]]**: Nitrogen-rich leaf litter (3–4% N in dry matter) adds significant [[hamilton-composting-and-organic-matter-management]] and nutrients to soil
 
 ### Ecological Restoration
 
-- **Erosion control**: Deep root system stabilizes soils on slopes and degraded land
+- **[[permplant-willows-salix-erosion-control-fodder]]**: Deep root system stabilizes soils on slopes and degraded land
 - **Soil rehabilitation**: Improves soil structure, water retention, and microbial activity
-- **Reforestation**: Used as a nurse tree in tropical dry forest restoration; provides shade and wind protection for later-succession species
+- **Reforestation**: Used as a nurse tree in tropical dry forest restoration; provides shade and [[cervantes-wind-protection-outdoor-cannabis]] for later-succession species
 - **Degraded pasture recovery**: Intercropping with *M. tenuiflora* in degraded pastures accelerates soil recovery and biomass accumulation
 - **Mine reclamation**: Successfully used in rehabilitation of bauxite-mined areas in Brazil
 

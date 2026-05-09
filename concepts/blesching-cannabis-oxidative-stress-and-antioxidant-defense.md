@@ -1,5 +1,5 @@
 ---
-title: Cannabis, Oxidative Stress, and Antioxidant Defense
+title: Cannabis, blesching cannabis oxidative stress and antioxidant defense, and Antioxidant Defense
 created: 2026-04-28
 tags: [cannabis, oxidative-stress, antioxidants, neuroprotection, ecs]
 date: 2026-04-28
@@ -12,11 +12,11 @@ type: concept
 # Cannabis, Oxidative Stress, and Antioxidant Defense
 
 Oxidative stress is a central mechanism in both disease pathology and the
-body's natural defense systems. Throughout *The Cannabis Health Index*, Blesching
+body's natural defense systems. Throughout *The [[blesching-cannabis-health-index-autoimmune-conditions]]*, Blesching
 documents how cannabinoids play a dual role in oxidative stress: they can act
 as antioxidants protecting cells from damage, and they can selectively induce
 oxidative stress in cancer cells to trigger apoptosis. This paradoxical
-function makes the [[cannabis-beta-caryophyllene-dietary-cannabinoid]]
+function makes the [[beta-caryophyllene-dietary-cannabinoid]]
 from common spices to support the body's natural antioxidant defense systems.
 ## Related
 
@@ -102,4 +102,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

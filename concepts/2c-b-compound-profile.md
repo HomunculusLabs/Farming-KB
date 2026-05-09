@@ -44,7 +44,7 @@ The original synthesis was carried out in the late 1970s. Shulgin's detailed pro
 
 ## Historical Significance
 
-2C-B is one of the most well-known and widely used of all the phenethylamines documented in PIHKAL. It was first synthesized by Shulgin in 1974. For a period in the 1980s and early 1990s, it was sold legally as an aphrodisiac under brand names including "Nexus" and "Eros," before being scheduled in the United States in 1995.
+2C-B is one of the most well-known and widely used of all the phenethylamines documented in PIHKAL. It was first synthesized by Shulgin in 1974. For a period in the 1980s and early 1990s, it was sold legally as an aphrodisiac under [[emcdda-brand-names-user-terms-smartshop-marketing]] including "Nexus" and "Eros," before being scheduled in the [[dmt-containing-plants-united-states-halpern]] in 1995.
 
 ## Pharmacological Notes
 
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

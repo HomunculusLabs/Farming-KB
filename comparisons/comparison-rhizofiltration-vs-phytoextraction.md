@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [comparison, phytoremediation, bioremediation, water-treatment, soil-remediation]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -27,7 +28,7 @@ with complex contamination profiles affecting both soil and groundwater.
 
 Phytoextraction uses plants to absorb contaminants from soil, concentrate them in
 aboveground tissues, and remove them through harvest of the contaminated biomass. This
-approach is most commonly applied to heavy metal contamination, where certain plant
+approach is most commonly applied to [[dighton-fungal-biosorption-heavy-metal-remediation]] contamination, where certain plant
 species can accumulate metals at concentrations hundreds or thousands of times higher
 than normal plants. The process involves mobilization of metals from soil via root
 exudates, uptake across root cell membranes through specific transporter proteins
@@ -57,7 +58,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,4 +100,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

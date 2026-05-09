@@ -1,5 +1,5 @@
 ---
-title: Accessible Mushroom Cultivation for People with Disabilities
+title: Accessible accessible mushroom cultivation for disabilities for People with Disabilities
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Accessible Mushroom Cultivation for People with Disabilities
 
-The FAO training manual for mushroom cultivation by people with disabilities demonstrates that mushroom farming can be adapted for virtually any physical limitation. With proper facility design and adaptive tools, people with disabilities can successfully run commercial mushroom operations.
+The FAO [[mushroom-cultivation-disabilities-training-manual-overview]] for mushroom cultivation by people with disabilities demonstrates that mushroom farming can be adapted for virtually any physical limitation. With proper facility design and adaptive tools, people with disabilities can successfully run commercial mushroom operations.
 
 ## Facility Adaptations
 
@@ -26,11 +26,11 @@ The FAO training manual for mushroom cultivation by people with disabilities dem
 - Essential for entrepreneurs making their own substrate bags for higher income
 
 ### Mushroom House Ratio
-- One incubation house for every three fruiting body houses
+- One incubation house for every three [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] houses
 - This ratio allows proper rotation of mushroom bags through the production cycle
 
 ### Low-Cost Construction
-- Grass, rice straw, dried leaves, and readily available materials work efficiently
+- Grass, [[fukuoka-rice-straw-mulch-central-technique]], dried leaves, and readily available materials work efficiently
 - Small private farms use simpler designs than commercial operations
 - Trainees learn to build their own inexpensive mushroom houses
 
@@ -42,7 +42,7 @@ The manual recommends a versatile recipe suitable for all bag-cultivated mushroo
 |-----------|---------|
 | Sawdust | Primary substrate |
 | Rice straw | Additional carbon source |
-| Rice bran | Nitrogen supplement |
+| [[jadam-rice-bran-problems]] | Nitrogen supplement |
 | Urea | Additional nitrogen |
 | Calcium sulfate (gypsum) | pH buffer, structure |
 | Calcium carbonate | pH buffer |
@@ -96,7 +96,7 @@ Mushroom cultivation is particularly well-suited for people with disabilities be
 
 - index-mushroom-cultivation
 - [[oyster-mushroom-species-fruiting-parameters]]
-- [[oyster-mushroom-short-log-cultivation]]
+- oyster-mushroom-short-log-cultivation
 
 ## Practical Context
 Accessible Mushroom Cultivation For People With Disabilities is relevant to farming knowledge because it connects observation,
@@ -120,6 +120,6 @@ an untreated area are usually more reliable than immediate whole-system
 changes.
 
 ## Related Topics
-- [[mushroom-training-oyster-straw-cultivation]]
-- [[mollison-pioneer-crop-systems-and-tropical-land-rehabilitation]]
+- mushroom-training-oyster-straw-cultivation
+- mollison-pioneer-crop-systems-and-tropical-land-rehabilitation
 - [[mushroom-crop-rotation-and-substrate-reuse]]

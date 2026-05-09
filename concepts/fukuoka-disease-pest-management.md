@@ -5,14 +5,15 @@ updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka's Disease and Pest Management
 
 **Updated:** 2026-04-18
 
-Masanobu Fukuoka farmed without pesticides for over 30 years and developed a comprehensive understanding of how disease and pest management works in a natural farming system. His approach was not to eliminate pests but to understand and work with the ecological relationships that naturally keep pest populations in check. His decades of observation provide one of the most detailed records of natural pest management in a working farm system.
+Masanobu Fukuoka farmed without pesticides for over 30 years and developed a comprehensive understanding of how disease and pest management works in a [[comparison-natural-farming-vs-permaculture]] system. His approach was not to eliminate pests but to understand and work with the ecological relationships that naturally keep pest populations in check. His decades of observation provide one of the most detailed records of natural pest management in a working farm system.
 
 ## Core Philosophy: Insects Are Not Pests
 
@@ -22,7 +23,7 @@ Fukuoka's fundamental position: "A thousand plant diseases exist in nature, yet 
 
 - **Pest substitution:** Eliminating one pest creates conditions for others. When Kochi Prefecture eradicated the yellow rice borer through a comprehensive program, damage by rice stem borers and cutworms increased.
 - **Pesticide-induced outbreaks:** The introduction of powerful organophosphate and organochlorine pesticides after WWII initially destroyed all insect pests, but "it was not long before many found that, no matter how often they sprayed, they were unable to prevent large outbreaks of mites from recurring." The pesticides destroyed natural predators that kept mite populations in check.
-- **Non-selective biological control:** Beneficial insect predators feed on pests that kill other beneficial insects that feed on other pests -- the food web is too complex for selective intervention.
+- **Non-selective [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]:** Beneficial insect predators feed on pests that kill other [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] that feed on other pests -- the food web is too complex for selective intervention.
 - **Overestimated damage:** Rice borer damage is typically estimated at 20-30% but actual yield losses are usually under 10% and often under 5%.
 
 ### Nature's Self-Regulation
@@ -61,7 +62,7 @@ Fukuoka's professional experience with the yellow rice borer eradication program
 ### Arrowhead Scale (Citrus)
 
 - Infests Satsuma orange, Iyo orange, and shaddock
-- In Fukuoka's natural orchard, parasitic wasps and four or five types of ladybugs emerged as natural predators
+- In Fukuoka's [[fukuoka-natural-orchard-development]], parasitic wasps and four or five types of ladybugs emerged as natural predators
 - In areas where these natural enemies were abundant, trees escaped serious damage without spraying
 - Even with natural enemies present, trees with crisscrossing congested branches sustained considerable damage
 - "No degree of spraying can succeed in effectively destroying arrowhead scales in trees with excessive branches and foliage"
@@ -134,8 +135,8 @@ Fukuoka's observations on black wattle (Acacia mearnsii) as a pest management ai
 
 1. Maintain healthy soil and healthy plants
 2. Preserve and encourage natural predator populations
-3. Use companion planting and crop diversity
-4. Allow natural ecological balance to develop
+3. Use [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] and crop diversity
+4. Allow natural [[fukuoka-ecological-balance-principles]] to develop
 5. Intervene only when absolutely necessary, and only with the gentlest methods (e.g., machine oil emulsion or lime-sulfur, not broad-spectrum chemicals)
 
 ## See Also

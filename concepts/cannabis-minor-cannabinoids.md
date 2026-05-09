@@ -23,9 +23,9 @@ CBC is a non-psychoactive cannabinoid that may work through mechanisms independe
 ### Therapeutic Potential
 - **Antidepressant**: CBC demonstrated antidepressant-like actions in animal studies alongside other cannabinoids
 - **Anti-inflammatory**: Anti-inflammatory properties documented
-- **Pain relief**: May contribute to the entourage effect for analgesia through TRP channel modulation
+- **Pain relief**: May contribute to the [[cannabis-terpene-entourage-effect-profiles]] for analgesia through TRP channel modulation
 - **Neurogenesis**: May promote brain cell growth (neurogenesis) in combination with other cannabinoids
-- **Antibacterial/antifungal**: Demonstrates antimicrobial properties
+- **Antibacterial/antifungal**: Demonstrates [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]
 - **Anti-cancer**: Preliminary evidence of anti-proliferative effects
 
 ## Tetrahydrocannabivarin (THCV)
@@ -54,13 +54,13 @@ CBDV is a propyl analogue of CBD, structurally similar to CBD but with distinct 
 - May interact with TRP channels
 
 ### Therapeutic Potential
-- **Seizure disorders**: CBDV shows particular promise as an anticonvulsant, with clinical trials underway for epilepsy
+- **Seizure disorders**: CBDV shows particular promise as an anticonvulsant, with [[mushroom-cancer-clinical-trials-overview]] underway for epilepsy
 - **Nausea**: Anti-emetic properties documented
 - **Anti-inflammatory**: Anti-inflammatory effects through various pathways
 
 ## The Entourage Effect
 
-The Cannabis Health Index consistently emphasizes that whole-plant cannabis, containing the full spectrum of cannabinoids plus terpenes and other non-cannabinoid constituents, may produce superior therapeutic outcomes compared to isolated compounds. The interaction of minor cannabinoids with THC, CBD, and each other creates synergistic effects:
+The [[blesching-cannabis-health-index-autoimmune-conditions]] consistently emphasizes that whole-plant cannabis, containing the full spectrum of cannabinoids plus terpenes and other non-cannabinoid constituents, may produce superior therapeutic outcomes compared to isolated compounds. The interaction of minor cannabinoids with THC, CBD, and each other creates synergistic effects:
 
 - Multiple cannabinoids activate different receptor pathways simultaneously
 - Some cannabinoids modulate the effects of others (e.g., CBD reduces unwanted THC psychoactivity)
@@ -69,7 +69,7 @@ The Cannabis Health Index consistently emphasizes that whole-plant cannabis, con
 
 ## Future Directions
 
-Research into minor cannabinoids is still in early stages. As analytical methods improve and breeding techniques allow for cannabinoid-specific strains, the therapeutic potential of CBG, CBN, CBC, THCV, CBDV, and other minor cannabinoids will become clearer. Patients seeking specific minor cannabinoid profiles should look for laboratory-tested products with full cannabinoid analysis.
+Research into minor cannabinoids is still in early stages. As analytical methods improve and [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]] allow for cannabinoid-specific strains, the therapeutic potential of CBG, CBN, CBC, THCV, CBDV, and other minor cannabinoids will become clearer. Patients seeking specific minor cannabinoid profiles should look for laboratory-tested products with full cannabinoid analysis.
 
 See also: [[cannabis-indoor-growing-basics]], [[fruit-tree-grafting-guide]]
 
@@ -97,7 +97,7 @@ Calyx development follows a predictable pattern through the [[cannabis-flowering
 
 ## Environmental Factors Affecting Calyx Development
 
-Temperature, light intensity, and nutrient availability all influence calyx development. Optimal temperatures of 70-80°F (21-27°C) during flowering promote healthy calyx formation. Temperatures above 85°F can reduce calyx size and resin production. Light intensity directly affects calyx-to-leaf ratio — higher light levels promote calyx production over leaf growth. Phosphorus and potassium are critical nutrients during flowering for maximum calyx development.
+Temperature, light intensity, and [[ph-and-nutrient-availability-garden-soils]] all influence calyx development. Optimal temperatures of 70-80°F (21-27°C) during flowering promote healthy calyx formation. Temperatures above 85°F can reduce calyx size and resin production. Light intensity directly affects calyx-to-leaf ratio — higher light levels promote calyx production over leaf growth. Phosphorus and potassium are critical nutrients during flowering for maximum calyx development.
 
 ## Trichomes
 
@@ -110,5 +110,7 @@ Trichomes are tiny, mushroom-shaped glandular hairs that cover the surface of ca
 - **Terpenes** — aromatic compounds that give cannabis its scent
 
 ## See Also
+
+- [[cannabis-pharmaceutical-cannabinoids-synthetic-research]]
 
 - [[cannabimovone]]

@@ -16,7 +16,7 @@ type: query
 ## Short Answer
 Sauerkraut is a fermented cabbage dish made by shredding cabbage, massaging it with
 salt to release its natural juices, and packing it into a container where beneficial
-lactic acid bacteria ferment the sugars into lactic acid. The entire process requires
+lactic [[lactic-acid-bacteria-knf]] ferment the sugars into lactic acid. The entire process requires
 only cabbage, salt, and a jar, and the finished sauerkraut is ready in one to four
 weeks.
 
@@ -25,7 +25,7 @@ Sauerkraut is one of the oldest and most widely practiced forms of food preserva
 in the world, with origins tracing back over two thousand years to ancient China,
 where it was originally fermented in rice wine. The version we know today was
 developed in Eastern Europe, where cabbage was fermented using salt rather than rice
-wine, producing the tangy, probiotic-rich condiment familiar around the world.
+wine, producing the tangy, probiotic-rich condiment familiar [[fungi-around-the-world-species-distribution]].
 
 The science behind sauerkraut is [[lacto-fermentation-recipes]] resource provides detailed salt ratios and
 recipe variations for different vegetable ferments.
@@ -40,7 +40,7 @@ cabbage, it will begin to release its natural juices, creating a brine. This pro
 typically takes five to ten minutes of vigorous kneading.
 
 Once the cabbage has released enough liquid to be visibly wet and has softened
-somewhat, begin packing it tightly into a clean glass jar or fermentation crock.
+somewhat, begin packing it tightly into a clean [[sterile-spore-print-collection-glass-jar-technique]] or fermentation crock.
 Press the cabbage down firmly with your fists, a tamper, or a potato masher to
 eliminate air pockets.
 
@@ -65,7 +65,7 @@ profiles. The [[lacto-fermentation-and-food-preservation-methods]]
 - A 2 percent salt ratio by weight creates the ideal environment for beneficial
   bacteria while inhibiting spoilage organisms
 - The cabbage must remain completely submerged beneath the brine throughout
-  fermentation to prevent mold growth
+  fermentation to [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]] growth
 - Fermentation at room temperature takes one to four weeks, after which the
   sauerkraut should be refrigerated for long-term storage
 - Sauerkraut is significantly more nutritious than raw cabbage due to the
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

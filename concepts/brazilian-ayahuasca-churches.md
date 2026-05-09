@@ -1,5 +1,5 @@
 ---
-title: Brazilian Ayahuasca Churches
+title: metzner-barquinha-umbanda-and-afro-brazilian-ayahuasca-syncretism Churches
 tags: [ayahuasca, religion, shamanism, syncretism, brazil, legal-framework, community, entheogen]
 date: 2026-04-28
 updated: 2026-04-28
@@ -25,10 +25,10 @@ establishment followed a similar pattern: a profound entheogenic experience in
 which the drinker received explicit instructions to create an organized form
 of worship centered on the [[entheogenic-ceremony]] visions. The ceremonies
 are highly structured, with specific sequences of hymns, dances, and prayers
-that can last for many hours. Santo Daime has expanded significantly beyond
-Brazil, establishing centers in North America, Europe, and other parts of the
+that can last for many hours. [[metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha]] has expanded significantly beyond
+Brazil, establishing centers in [[psilocybin-north-america-pacific-northwest]], Europe, and other parts of the
 world. The hymnal itself is considered a living document, as new hymns
-continue to be received by practitioners during entheogenic ceremonies and
+continue to be received by practitioners during [[metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti]] and
 added to the collection.
 
 ### Uniao do Vegetal (UDV)
@@ -41,7 +41,7 @@ Daime, UDV sessions involve verbal sharing of experiences and insights after
 the entheogenic phase. The UDV places particular emphasis on mental discipline
 and the pursuit of self-knowledge through the entheogenic experience. The
 church has developed a sophisticated organizational hierarchy and has been at
-the center of important legal battles establishing religious freedom
+the center of important [[sacramental-ayahuasca-legal-battles-united-states]] establishing religious freedom
 protections for entheogenic practice.
 
 ### Barquinha
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

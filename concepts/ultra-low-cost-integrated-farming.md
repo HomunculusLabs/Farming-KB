@@ -29,7 +29,7 @@ JADAM has developed a revolutionary approach to livestock farming that eliminate
 
 **The biological cycle:**
 - Animal manure falls onto the bedding material
-- JADAM Indigenous Microorganism Solution (JMS) is sprayed on the floor and fed to animals
+- JADAM Indigenous [[jadam-microorganism-solution-culturing]] (JMS) is sprayed on the floor and fed to animals
 - Microorganisms decompose the manure mixed with bedding
 - Decomposed material becomes feed again — animals eat it after fermentation
 - The process is almost free of smell and flies
@@ -43,7 +43,7 @@ JADAM has developed a revolutionary approach to livestock farming that eliminate
 - JMS increases feed conversion ratio when diluted 20:1 and fed to animals
 - Significantly reduces odor
 
-This system originated from the Yamagishi movement in Japan and was further developed by Hankyu Cho. It solves most problems associated with modern livestock farming while maintaining animal welfare and producing high-quality organic fertilizer.
+This system originated from the Yamagishi movement in Japan and was further developed by Hankyu Cho. It solves most problems associated with modern livestock farming while maintaining animal welfare and producing high-quality [[complete-organic-fertilizer-cof-recipe-solomon]].
 
 ## Concerns About Livestock Manure
 
@@ -51,13 +51,13 @@ JADAM issues an important warning about imported livestock manure. In countries 
 
 For farmers who do not keep their own animals, JADAM recommends:
 - Using humus soil instead of livestock manure (mined from ancient bogs)
-- Making fertilizer from crop residues and wild grass through anaerobic fermentation
+- Making fertilizer from crop residues and wild grass through [[jadam-anaerobic-fermentation-principles]]
 - Collecting leaf mold from forests as a pure organic fertilizer
-- Using food waste and human manure as fertilizer sources under controlled fermentation
+- Using food waste and human manure as [[natural-fertilizer-sources-and-application]] under controlled fermentation
 
 ## Aquaculture Integration
 
-While JADAM's primary focus is on crop and livestock integration, the principles of low-cost, self-sufficient farming extend naturally to aquaculture. Small-scale aquaculture can be integrated into farming systems through:
+While JADAM's primary focus is on crop and [[faires-livestock-integration-permaculture]], the principles of low-cost, self-sufficient farming extend naturally to aquaculture. Small-scale aquaculture can be integrated into farming systems through:
 
 - **Rice-fish culture**: Growing fish in flooded rice paddies, where fish eat pests, fertilize rice with their waste, and provide an additional protein crop
 - **Pond fertilization**: Using JMS and organic materials to fertilize fish ponds, promoting natural food production
@@ -81,7 +81,7 @@ JADAM farming naturally creates multi-function systems where each element serves
 - Soil inoculants for crop production
 - Livestock feed supplement (improves digestion)
 - Livestock shelter treatment (odor control)
-- Disease suppression agent (competitive exclusion)
+- [[aact-disease-suppression-mechanisms-ingham]] agent (competitive exclusion)
 - Decomposition accelerator for organic matter
 
 **Crop residues serve simultaneously as:**
@@ -127,6 +127,6 @@ The key principle at any scale is that each farm should produce as many of its o
 ## See Also
 
 - [[ultra-low-cost-soil-fertility]]
-- [[backyard-livestock-integration-design]]
+- backyard-livestock-integration-design
 - [[chos-global-natural-farming-livestock-applications]]
 - [[homesteading]]

@@ -39,7 +39,7 @@ The name anandamide is derived from the Sanskrit word ananda, meaning
 joy, bliss, or delight. This etymology reflects the molecule's association
 with positive emotional states and its role in the neurobiology of happiness
 and well-being. Anandamide is synthesized on demand in response to cellular
-needs and is rapidly degraded by the enzyme fatty acid amide hydrolase
+needs and is rapidly degraded by the enzyme fatty [[lysergic-acid-amide-containing-plants-halpern]] hydrolase
 (FAAH), which means its effects are typically short-lived and localized.
 
 ## Key Concepts
@@ -80,7 +80,7 @@ tone, which may explain why some people are naturally more resistant to stress
 and anxiety while others are more vulnerable.
 
 Anandamide plays a critical role in several physiological processes including
-pain modulation, appetite regulation, memory formation, mood stabilization,
+pain modulation, [[blesching-cannabis-appetite-regulation-ghrelin-leptin]], memory formation, mood stabilization,
 and the sleep-wake cycle. It also contributes to neuroprotection,
 embryonic development, and immune function. The broad range of physiological
 processes influenced by anandamide helps explain why cannabis, which mimics

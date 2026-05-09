@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-Fukuoka exposes the fundamental energy inefficiency of modern livestock and
+Fukuoka exposes the fundamental [[fukuoka-livestock-energy-inefficiency-caloric-cost]] of [[fukuoka-critique-modern-livestock-fisheries]] and
 fishing industries, demonstrating through detailed calculations how these
 supposedly productive systems actually destroy more resources than they create.
 Raising animals for food, far from increasing the food supply, systematically
@@ -24,7 +24,7 @@ depletes the land and pollutes the seas.
 In terms of caloric production and consumption, someone must work at least
 twice as hard if they want to eat eggs and milk rather than grains and
 vegetables. If they like meat, they must put out seven times the effort. The
-energy efficiency ratios are stark:
+[[fukuoka-textdoc-energy-efficiency-agricultural-labor]] ratios are stark:
 
 - **Broilers**: 50% energy output to input
 - **Pork**: 20% energy efficiency
@@ -60,7 +60,7 @@ The land required to support one human being varies dramatically by diet:
 
 If the entire human population depended on beef, humanity would have already
 reached its limits. On a grain diet, the earth's carrying capacity is sixty
-times the current world population. One need look only at the United States
+times the current world population. One need look only at the [[dmt-containing-plants-united-states-halpern]]
 and Europe for clear evidence that beef impoverishes the soil and denudes the
 earth.
 
@@ -79,7 +79,7 @@ would be even more economical and better protect nature.
 In his idealized vision, bees busily make rounds of clover and vegetable
 blossoms beneath trees laden heavy with fruit. Semi-wild chickens and rabbits
 frolic with dogs in fields of growing wheat. Ducks and mallards play in the
-rice paddy. At the foot of the hills, black pigs and boars grow fat on worms
+[[fukuoka-textdoc-creating-rice-paddy-natural-methods]]. At the foot of the hills, black pigs and boars grow fat on worms
 and crayfish, and goats peer out from thickets and trees. This scene might be
 taken from an out-of-the-way hamlet, but it represents an organic partnership
 between man, animal, and nature.
@@ -105,7 +105,7 @@ cost of a steak includes the topsoil of another continent.
 ## The Fundamental Misunderstanding
 
 Everyone unquestioningly assumed that by raising poultry and livestock and by
-fish farming our diet would improve, but no one had the slightest suspicion
+[[knf-fish-farming-integration]] our diet would improve, but no one had the slightest suspicion
 that the production of meat would ruin the land and the raising of fish would
 pollute the seas. This collective blindness to the true costs of animal
 agriculture is perhaps the most dangerous delusion of the modern food system.

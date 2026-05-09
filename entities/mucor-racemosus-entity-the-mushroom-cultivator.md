@@ -6,7 +6,7 @@ tags: [contaminant, zygomycetes, black-pin-mold, grain-contaminant, mucormycosis
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/the-mushroom-cultivator-stamets.md
+  sources: []
 ---
 
 # Mucor racemosus
@@ -15,12 +15,12 @@ sources:
 
 Mucor racemosus is a zygomycete fungus belonging to the class Zygomycetes,
 order Mucorales, and family Mucoraceae. The genus Mucor is one of the most
-commonly encountered contaminant molds in mushroom cultivation, alongside
+commonly encountered contaminant molds in [[accessible-mushroom-cultivation-for-disabilities]], alongside
 related genera such as Rhizopus and Absidia.
 
 The Mucorales are characterized by their rapid growth, non septate hyphae,
 and asexual reproduction through sporangia. Mucor racemosus is one of the most
-frequently seen species within this genus in the context of mushroom culture,
+frequently seen species within this genus in the context of [[mazatec-mushroom-culture-and-velada]],
 along with Mucor plumbeus and Mucor pusillus.
 
 The name Mucor comes from Latin referring to mold. The species epithet
@@ -49,7 +49,7 @@ from many mushroom mycelia that have septate hyphae with clamp connections.
 
 Mucor mycelium is non rhizomorphic and lacks the clamp connections that are
 characteristic of many mushroom mycelia, which can help differentiate it from
-the target mushroom species during spawn production.
+the target mushroom species during [[growing-gourmet-sawdust-spawn-production-use]].
 
 ## Habitat and Ecology
 
@@ -73,7 +73,7 @@ established.
 Mucor racemosus is a vigorous contaminant seen at various times in spawn
 production, where it inhibits and overwhelms mushroom mycelium. On malt agar
 media, Mucor appears as a fast growing, non sporulating, cottony, and whitish
-mycelial network that competes with or overwhelms mushroom mycelium.
+[[gadd-mycelial-network-dynamics]] that competes with or overwhelms mushroom mycelium.
 
 The most significant threat posed by Mucor racemosus occurs when infected spawn
 is inadvertently inoculated onto mushroom compost. In such cases, the
@@ -93,7 +93,7 @@ characteristic black pin head appearance.
 Measures of control for Mucor racemosus focus on prevention:
 
 - Air filtration to reduce airborne spore load
-- Sufficient sterilization of grain media
+- Sufficient [[pressure-cooker-sterilization-of-grain-jars]] media
 - Immediate removal and isolation of contaminated regions
 - Proper disposal of spent compost, aged mushrooms, and cropping debris
 - Exercising general hygienic practices
@@ -102,7 +102,7 @@ The related species Mucor pusillus is a true thermophile that thrives in the
 68 to 131 degrees F (20 to 55 degrees C) range and is a major constituent in
 the microflora of compost piles. While M. pusillus plays a natural role in
 composting, M. racemosus is primarily a problem in controlled cultivation
-environments where sterile technique is compromised.
+environments where [[cultivator-sterile-technique-and-agar-culture]] is compromised.
 
 ## Interactions
 

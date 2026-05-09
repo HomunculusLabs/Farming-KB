@@ -5,7 +5,7 @@ updated: 2026-04-17
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  sources: []
 ---
 # Truffle Dog Training
 
@@ -13,13 +13,13 @@ Truffle dogs are specially trained to locate underground truffles by scent, repl
 
 ## Historical Context
 
-The use of animals to find truffles dates back to Roman times, when pigs were the primary truffle-hunting animals. Female pigs are naturally attracted to truffle aroma because it contains androstenol, a steroid compound found in boar saliva. While highly effective at finding truffles, pigs presented significant problems: they eagerly consumed the truffles they found, were difficult to transport to hunting grounds, and could damage the soil and mycorrhizal network with their heavy rooting.
+The use of animals to find truffles dates back to Roman times, when pigs were the primary truffle-hunting animals. Female pigs are naturally attracted to truffle aroma because it contains androstenol, a steroid compound found in boar saliva. While highly effective at finding truffles, pigs presented significant problems: they eagerly consumed the truffles they found, were difficult to transport to hunting grounds, and could damage the soil and [[arbuscular-mycorrhizal-network-visualization-anastomosis]] with their heavy rooting.
 
-The transition from pigs to dogs began in the 19th century in Italy and France, as truffle growers recognized the advantages of canine hunters. By the mid-20th century, dogs had largely replaced pigs in commercial truffle harvesting across Europe. Today, the use of pigs for truffle hunting is illegal in several European countries and is considered an outdated practice.
+The transition from pigs to dogs began in the 19th century in Italy and France, as truffle growers recognized the advantages of canine hunters. By the mid-20th century, dogs had largely replaced pigs in commercial truffle harvesting across Europe. Today, the use of pigs for [[bloomfield-truffle-hunting-and-culinary-fungi]] is illegal in several European countries and is considered an outdated practice.
 
 ## Why Dogs Are Preferred
 
-Dogs offer several critical advantages over pigs for truffle detection. Most importantly, dogs do not eat truffles. They can be trained to locate the truffle and indicate its position without damaging the valuable fruiting body. This preserves the truffle's commercial quality.
+Dogs offer several critical advantages over pigs for truffle detection. Most importantly, dogs do not eat truffles. They can be trained to locate the truffle and indicate its position without damaging the valuable [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]. This preserves the truffle's commercial quality.
 
 Dogs are more easily transported to and from truffle grounds, can work for longer periods without fatigue, and are more responsive to handler commands in the field. A trained truffle dog can systematically search large areas of orchard or forest, while a pig follows its nose without regard to search patterns.
 
@@ -31,7 +31,7 @@ Dogs cause less damage to the truffle-producing ecosystem. Their lighter weight 
 
 - [[mushroom-foraging-safety]]
 
-- [[edible-wild-mushroom-guide]]
+- edible-wild-mushroom-guide
 - [[fukuoka-natural-farming-philosophy]]
 ## Practical Applications
 
@@ -110,4 +110,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

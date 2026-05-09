@@ -1,10 +1,11 @@
 ---
-title: "Biochar vs Composting for Soil Amendment"
+title: "comparison biochar vs composting soil amendment for Soil Amendment"
 created: 2026-04-28
 tags: [comparison, soil-amendment, biochar, composting, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -12,7 +13,7 @@ type: comparison
 
 ## Overview
 
-Biochar and compost are two fundamentally different soil amendments that improve soil health through distinct biological and chemical mechanisms. Biochar is a stable carbon matrix produced through pyrolysis providing long-term structural benefits and microbial habitat, while compost is biologically active decomposed organic matter that supplies nutrients and feeds the soil food web. Understanding their strengths and limitations is critical for informed soil management. Biochar excels at long-term carbon sequestration and soil physical properties, while compost delivers immediate biological activity and nutrient cycling. The most effective strategies combine both amendments to build resilient, productive soils.
+Biochar and compost are two fundamentally different soil amendments that improve soil health through distinct biological and chemical mechanisms. Biochar is a stable carbon matrix produced through pyrolysis providing long-term structural benefits and microbial habitat, while compost is biologically active decomposed organic matter that supplies nutrients and feeds the soil food web. Understanding their strengths and limitations is critical for informed soil management. Biochar excels at long-term [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] and soil physical properties, while compost delivers immediate biological activity and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. The most effective strategies combine both amendments to build resilient, productive soils.
 
 ## Biochar
 
@@ -28,13 +29,13 @@ Compost is classified as a soil amendment rather than a fertilizer because its N
 values vary and are generally modest, but it brims with microbes and humus that
 drive nutrient cycling. The diverse microbial communities in finished compost fix
 atmospheric nitrogen, solubilize bound phosphorus, and produce growth-promoting
-compounds. Compost also contributes to cation exchange capacity through organic
+compounds. Compost also contributes to [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity through organic
 matter content, improving the soil's ability to hold and release nutrients.
 
 The humus produced during composting is particularly valuable for soil structure and
 water management. Humus particles improve soil aggregation, creating stable crumbs that
 resist compaction and erosion while maintaining adequate porosity for root growth.
-This humus also acts as a slow-release nutrient reservoir, binding minerals and making
+This humus also acts as a slow-release [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]], binding minerals and making
 them available to plants through microbial activity over extended periods.
 
 Unlike biochar, compost is biologically active and relatively short-lived in soil.
@@ -76,7 +77,7 @@ colonize its pore network.
 
 ## When to Choose Composting
 
-Compost is the right choice when immediate nutrient availability and biological
+Compost is the right choice when immediate [[ph-and-nutrient-availability-garden-soils]] and biological
 inoculation are the priorities. It supplies plant-available nutrients and beneficial
 microorganisms that biochar alone cannot provide. Composting is accessible to any
 grower with organic waste and requires no special equipment or energy inputs. For

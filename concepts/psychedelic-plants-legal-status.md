@@ -33,19 +33,19 @@ These conventions require signatory nations to criminalize the scheduled substan
 ## North America
 
 ### United States
-- **Psilocybin mushrooms**: Schedule I under the Controlled Substances Act. However, several cities and states have deprioritized enforcement (see [[psychedelic-mushroom-decriminalization]])
+- **[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]**: Schedule I under the Controlled Substances Act. However, several cities and states have deprioritized enforcement (see [[psychedelic-mushroom-decriminalization]])
 - **Peyote (Lophophora williamsii)**: Schedule I, with a specific religious exemption for members of the Native American Church under the American Indian Religious Freedom Act (1994 amendments)
 - **San Pedro / Trichocereus cacti**: Legal to grow and possess as ornamental plants. Consumption for mescaline content is technically illegal, but enforcement against personal cultivation is virtually nonexistent
 - **Ayahuasca plants**: Banisteriopsis caapi is not explicitly scheduled. Psychotria viridis is not scheduled. However, DMT is Schedule I, so preparations containing DMT are illegal. Religious exemptions exist for UDV (União do Vegetal) and Santo Daime under court rulings
 - **Salvia divinorum**: Not federally scheduled. Regulated at the state level — banned in many states but legal in others
-- **Amanita muscaria**: Legal — not a controlled substance at the federal level
+- **[[allegro-amanita-muscaria-properties-and-pharmacology]]**: Legal — not a controlled substance at the federal level
 - **Iboga / Ibogaine**: Schedule I. Some states have specific ibogaine regulations
-- **Peganum harmala (Syrian rue)**: Not scheduled. Seeds are legally available
+- **[[mckenna-food-gods-peganum-harmala-soma]] (Syrian rue)**: Not scheduled. Seeds are legally available
 - **Spores**: Psilocybin mushroom spores are legal in most US states because they do not contain psilocybin or psilocin. Exceptions: California, Georgia, Idaho
 
 ### Canada
 - Psilocybin and psilocin: Schedule III under the Controlled Drugs and Substances Act
-- Growing mushrooms is illegal
+- [[falconer-growing-mushrooms-in-sheds]] is illegal
 - However, a growing number of exemptions have been granted for medical and therapeutic use
 - Alberta has been the most progressive province regarding psilocybin therapy
 - As of 2022, Health Canada has granted some section 56 exemptions for end-of-life anxiety
@@ -69,7 +69,7 @@ These conventions require signatory nations to criminalize the scheduled substan
 - Ayahuasca is legal and culturally protected
 - San Pedro is legal and widely used in traditional ceremonies
 - Psilocybin mushrooms: Not explicitly scheduled
-- Peru has actively promoted ayahuasca tourism and traditional medicine
+- Peru has actively promoted [[stuart-r-ayahuasca-tourism-cautionary-ethnography]] and traditional medicine
 
 ### Ecuador
 - Ayahuasca: Legal for indigenous and ceremonial use
@@ -115,7 +115,7 @@ Several legal precedents protect religious use of entheogens:
 - **United States**: Native American Church (peyote), UDV (ayahuasca), Santo Daime (ayahuasca)
 - **Brazil**: UDV, Santo Daime, Barquinha (ayahuasca)
 - **Canada**: Some indigenous ceremonial use protections
-- **Netherlands**: Ayahuasca ceremonies operate legally under religious freedom
+- **Netherlands**: [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] operate legally under religious freedom
 - **Peru and Ecuador**: Indigenous and traditional use is protected by constitutional and cultural heritage law
 
 ## Emerging Trends

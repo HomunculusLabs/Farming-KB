@@ -9,8 +9,8 @@ for food forest survival. The following species are recommended:
 
 ### Succulent Ground Covers
 - **Carpobrotus spp (Pigface)**: Coastal succulent forming dense mats; edible
-  fruits; excellent for stabilizing sandy soils and coastal erosion control
-- **Lampranthus spp**: South African succulents with low water needs and minimal
+  fruits; excellent for stabilizing sandy soils and coastal [[permplant-willows-salix-erosion-control-fodder]]
+- **Lampranthus spp**: [[kanna-sceletium-south-african-narcotic]] succulents with low water needs and minimal
   flammability; vibrant flowers attract pollinators
 - **Mesembryanthemum spp (Small-leaved Ice Plant)**: Dense, low-growing succulent
   that stores water in leaves, making it highly fire-resistant
@@ -19,7 +19,7 @@ for food forest survival. The following species are recommended:
 
 ### Herbaceous Ground Covers
 - **Achillea lomentosa (Woolly Yarrow)**: Mat-forming perennial with woolly,
-  fire-retardant foliage; medicinal properties; attractive to beneficial insects
+  fire-retardant foliage; medicinal properties; attractive to [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 - **Ajuga spp (Bugle Lily)**: Dense, shade-tolerant ground cover with glossy
   foliage that resists ignition
 - **Sedum spp**: Succulent-leaved stonecrops that store water and resist fire;
@@ -41,13 +41,13 @@ for food forest survival. The following species are recommended:
 - **Rosmarinus officinalis prostratus (Prostrate Rosemary)**: Creeping form of
   rosemary; aromatic oils increase fire resistance; culinary herb; [[tree-canopy-fungal-sampling-techniques]] to allow winter growth of understorey grasses and
    bamboos
-6. Control running bamboos with livestock grazing or root barriers
+6. Control running bamboos with [[savory-livestock-grazing-planning]] or root barriers
 7. Design for year-round flowering to support permanent bee hive sites
 
 ## See Also
 
 - [[permaculture-plants-nitrogen-fixing-trees]]-fixing-trees-shrubs
-- [[gaias-garden-plant-community-ecology]]-guilds
+- gaias-garden-plant-community-ecology-guilds
 - [[pdc-food-forest-design-and-forest-ecology]]-forests-multiple-canopy-systems
 ## Practical Considerations
 
@@ -65,7 +65,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +107,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

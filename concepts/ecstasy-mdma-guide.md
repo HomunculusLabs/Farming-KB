@@ -56,7 +56,7 @@ Ecstasy shines in therapeutic and social settings: couples therapy, group bondin
 - **Neurotoxicity** — frequent use depletes serotonin; allow weeks between sessions
 - **Contraindicated with MAO inhibitors** — dangerous interaction
 - **Cardiovascular stress** — increases heart rate and blood pressure
-- **Set and setting still matter** — while less sensitive than true psychedelics, the emotional openness can be distressing without proper preparation
+- **[[lsd-set-and-setting-framework]] still matter** — while less sensitive than true psychedelics, the emotional openness can be distressing without proper preparation
 
 ## Combinations
 
@@ -69,12 +69,14 @@ For a detailed comparison with other empathogens and psychedelics, see Psychedel
 
 ## See Also
 
-- [[psychedelic-safety-and-harm-reduction]] — general harm reduction
+- [[mdma]]
+
+- [[psychedelic-safety-and-harm-reduction]] — general [[adverse-effects-and-harm-reduction-psilocybin]]
 - [[homestead-security]] — MDEA variant
 
 ## Related
 
-- psychedelic assisted therapy protocol
+- psychedelic [[metzner-mdma-assisted-therapy-research]] protocol
 ## Practical Considerations
 
 Successful implementation of Ecstasy (MDMA) Guide requires attention to
@@ -93,4 +95,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -17,7 +17,7 @@ sources:
 # Pluteus glaucotinctus
 
 **Pluteus glaucotinctus** is a wood-inhabiting mushroom in the family
-Pluteaceae known to contain [[pluteus-salicinus]].
+Pluteaceae known to contain [[pluteus-saliginus]].
 The species is notable for its characteristic blue-green (glaucous) tints and
 its association with decaying hardwood in temperate forests.
 
@@ -25,7 +25,7 @@ its association with decaying hardwood in temperate forests.
 
 Pluteus glaucotinctus is classified in the order Agaricales, family
 Pluteaceae, genus Pluteus. The genus is distinguished by its free
-gills, pink spore print, and lack of both a volva and a persistent annulus.
+gills, pink [[comparison-spore-print-collection-vs-spore-syringe-production]], and lack of both a volva and a persistent annulus.
 P. glaucotinctus is placed in the section Celluloderma, which contains species
 with a cellular (celluloderm) cap cuticle composed of globose to ellipsoid
 cells rather than filamentous hyphae. This section includes several other
@@ -71,12 +71,12 @@ salmon. Cheilocystidia are abundant, ranging from fusiform to lageniform
 (flask-shaped), often with a distinctive capitate apex. Pleurocystidia are
 also present, usually larger and more prominent. The pileipellis is a cellular
 type (celluloderm) composed of globose to broadly ellipsoid cells measuring 15
-to 40 um in diameter, arranged in a single or double layer.
+to 40 um in diameter, arranged in a single or [[coleman-cold-greenhouse-double-layer-protection]].
 
 ## Distribution and Habitat
 
 Pluteus glaucotinctus is found in temperate and subtropical regions, with
-documented collections from Europe and North America. It is saprotrophic and
+documented collections from Europe and [[psilocybin-north-america-pacific-northwest]]. It is saprotrophic and
 lignicolous, growing on decaying hardwood logs, stumps, and fallen branches.
 It has been documented on oak, beech, ash, and willow. The species shows a
 preference for well-decayed wood. Fruiting typically occurs from late spring
@@ -92,7 +92,7 @@ weight, though data from multiple independent collections is limited. The
 bluish-green discoloration is associated with psilocin oxidation, though the
 reaction in Pluteus tends to be less intense than in Psilocybe species.
 
-Among Pluteus, psychoactive species include [[archaeology-of-psychedelic-mushroom-use]], [[pluteus-salicinus]] shares the lignicolous habit and bluing potential but
+Among Pluteus, psychoactive species include [[archaeology-of-psychedelic-mushroom-use]], [[pluteus-saliginus]] shares the lignicolous habit and bluing potential but
 typically has a more grayish cap with less glaucous tinting and more
 consistent bluing. [[pluteus-romellii]] has a yellowish cap and larger stature. Various
 Entoloma species may share the habitat and pink spore print but are
@@ -100,7 +100,7 @@ distinguished by angular spores visible under microscopy.
 
 ## Cultivation
 
-No established cultivation methods exist for Pluteus glaucotinctus. Its
+No established [[synthetic-log-cultivation-methods-guide]] exist for Pluteus glaucotinctus. Its
 lignicolous nature would require wood-based substrates. The rarity and low
 potency of the species have discouraged cultivation efforts compared to more
 accessible psychoactive species.
@@ -120,7 +120,7 @@ cap and stipe.
 
 ## See Also
 
-- [[pluteus-salicinus]] — the most commonly encountered psychoactive Pluteus
+- [[pluteus-saliginus]] — the most commonly encountered psychoactive Pluteus
 - [[psilocybin]] — the primary psychoactive alkaloid produced by this species
 - Pluteaceae — the family containing Pluteus and Volvariella
 - [[psilocin]] — the dephosphorylated, bluing-inducing metabolite

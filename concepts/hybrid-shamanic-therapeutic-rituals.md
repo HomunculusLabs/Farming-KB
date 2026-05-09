@@ -1,140 +1,149 @@
 ---
-title: Hybrid Shamanic Therapeutic Rituals
+title: Hybrid hybrid-shamanic-therapeutic-rituals-metzner Rituals
+concept_type: practice
+source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
+tags: [hybrid, shamanic, therapeutic, ritual, neoshamanic, Metzner, ceremony, integration]
 created: 2026-05-08
-updated: 2026-05-08
-sources:
-  - "Metzner R - hallucinogenic-drugs-in-psychotherapy-and-shamanism (1998)"
-type: concept
-tags: [hybrid-shamanism, neo-shamanism, ayahuasca-ceremonies, entheogenic-rituals]
 ---
 
 # Hybrid Shamanic Therapeutic Rituals
 
 ## Overview
 
-Hybrid shamanic-therapeutic rituals represent a contemporary blending of
-Western psychotherapeutic approaches with traditional indigenous shamanic
-practices involving hallucinogenic plants. Ralph Metzner, who participated in
-over 100 such ceremonies across Europe and North America, documented these
-practices as "neoshamanic medicine circles" — structured group rituals using
-entheogenic plants that incorporate elements from both traditions. These
-rituals emerged from the recognition that Western psychotherapy and indigenous
-shamanism, while using similar substances, operate within fundamentally
-different worldviews.
+Hybrid shamanic therapeutic rituals represent a contemporary synthesis of
+indigenous [[metzner-shamanic-healing-and-divination-paradigm]] practices and Western psychotherapeutic
+approaches to working with entheogenic plant medicines. Ralph Metzner
+documented these emerging practices through participant observation in over
+100 circle rituals across Europe and [[psilocybin-north-america-pacific-northwest]], involving several hundred
+participants, many of them repeatedly. These ceremonies represent what
+Metzner called "[[metzner-neoshamanic-medicine-circles-structure-and-practice]] circles" — a conscious blending of
+the oldest and newest traditions of psychedelic work.
 
-## Syncretic Folk Religious Ceremonies
+## Structural Elements
 
-Before examining the hybrid forms, it is important to distinguish them from
-syncretic folk religious ceremonies — organized churches using entheogens as
-sacraments. Metzner identified several major traditions:
+Hybrid ceremonies preserve core elements from traditional shamanic practice
+while incorporating Western therapeutic sensibilities:
 
-**Native American Church (NAC)**: Legally incorporated religion using peyote
-as sacrament, with roadman, drummer, firekeeper, and cedar-man. Nearly
-constant singing of traditional peyote songs throughout all-night tipi
-ceremonies. Historically reduced alcoholism and drug addiction among members.
+### Circle Structure
+Participants arrange themselves in a circle, either sitting or lying. The
+circle creates an egalitarian container that contrasts with the hierarchical
+patient-therapist relationship of clinical settings and facilitates a sense
+of shared journeying and mutual support.
 
-**Brazilian Ayahuasca Churches**: Three major churches — Santo Daime, União
-do Vegetal (UDV), and Barquinia — all founded by rubber tappers who
-encountered ayahuasca through mestizo healers in the 1950s. Each founder
-reported a significant vision instructing them to organize a church. Research
-by Charles Grob and Dennis McKenna confirmed long-term ayahuasca use is
-associated with no adverse health effects and reduced psychopathologies.
+### Altar or Fire
+An altar in the center of the circle (or a fire if the ceremony is held
+outdoors or in a tipi) serves as a focal point and sacred object. The altar
+typically holds items of personal and collective significance — crystals,
+feathers, images, and objects representing spiritual traditions.
 
-The UDV is the most formal, with participants in straight-backed chairs
-listening to sermons and songs. Santo Daime involves congregational hymn
-singing led by women, sometimes with dancing. Barquinia incorporates
-Umbanda elements (Afro-Brazilian contact with ancestors and *orixas*).
+### Guide and Assistants
+An experienced elder or guide is present, sometimes with one or more
+assistants. The guide's role draws from both shamanic tradition (singing,
+holding the energetic container, navigating spiritual territory) and Western
+therapy (providing psychological safety, managing crises, facilitating
+integration).
 
-**Bwiti Cult** (Gabon/Zaire): Uses iboga/ibogaine. Originally learned from
-Pygmies by the Fang. Involves a powerful death-rebirth "head opening"
-experience enabling conversation with ancestor spirits. Ibogaine shows
-promise for addiction treatment through specific receptor site action.
+### Low Light
+A preference for darkness or semidarkness, sometimes with eye-shades, creates
+the sensory conditions that facilitate the emergence of inner visions. This
+practice is drawn directly from traditional shamanic ceremonies worldwide.
 
-## Hybrid Ritual Structure
+### Music
+Drumming, rattling, singing, or evocative recorded music provides a
+structure for the flow of experience. Music serves multiple functions:
+supporting emotional release, providing rhythmic grounding, facilitating
+movement through difficult passages, and creating a shared sonic environment.
 
-The hybrid therapeutic-shamanic circles that Metzner documented incorporate
-basic elements from traditional shamanic ceremonies while adding Western
-therapeutic components:
+### Invocation of Directions
+Ritual space is dedicated through invocation of spirits of the four
+directions and elements, creating a ceremonial container that frames the
+experience as sacred rather than recreational.
 
-**Structural elements preserved from shamanic tradition:**
-- Circle formation with participants sitting or lying
-- Central altar (or fire if outside/tipi)
-- Experienced elder/guide with one or more assistants
-- Low light or semidarkness; sometimes eye-shades
-- Music: drumming, rattling, singing, or evocative recorded music
-- Invocation of spirits of four directions and elements
-- Cultivation of respectful, spiritual attitude
+### Respectful Attitude
+The cultivation of a respectful, spiritual attitude is explicitly encouraged
+throughout, distinguishing the practice from casual recreational use.
 
-**Western therapeutic additions:**
-- Pre-ritual sharing of intentions and purposes
-- Meditation, solo nature time, or expressive arts (drawing, painting,
-  journaling) as preparation
-- Post-ritual integration practices with sharing of lessons learned
-- Talking staff or "council" practice (from Pacific Northwest Indians) —
-  only the person holding the staff speaks; no discussion or interpretation
-- Weaving of insights from Buddhist vipassana, tantra yoga, holotropic
-  breathwork, and various psychotherapy modalities
+## Preparation Phase
 
-## Plant Medicines Used
+Before the circle ritual, participants engage in intentional preparation:
 
-Entheogenic plants used in hybrid circles have included psilocybe mushrooms,
-ayahuasca, San Pedro cactus, iboga, and others. Participants tend to confirm
-that entheogenic plant medicines, when combined with meditative or therapeutic
-insight processes, "function to amplify awareness and sensitize perception,
-particularly amplifying somatic, emotional and instinctual awareness."
+- **Intention sharing**: Participants share their intentions and purposes
+  for the ceremony, creating a collective field of focused attention.
+- **Meditation**: Individual or group meditation practices help participants
+  arrive in a centered, present state of mind.
+- **Solo time in nature**: Some ceremonies include solitary time in natural
+  settings to facilitate connection with the more-than-human world.
+- **Expressive arts**: Drawing, painting, or journal work may be used to
+  surface unconscious material and clarify intentions.
+
+## The Talking Staff Practice
+
+Many hybrid ceremonies incorporate a variation of the talking staff (also
+called singing staff or "council"), a practice originating among the Indians
+of the Pacific Northwest. Only the person holding the circulating staff may
+sing or speak, and there is no discussion, questioning, or interpretation.
+This practice contrasts sharply with group psychotherapy formats and serves
+several purposes:
+
+- Prevents analytical interference with non-ordinary states
+- Gives each participant undivided attention when they share
+- Maintains the ceremonial quality of the experience
+- Protects vulnerable sharings from unsolicited interpretation
+
+## Integration Phase
+
+After the circle ritual (sometimes the following morning), integration
+practices help participants process and apply their experiences:
+
+- Sharing lessons learned and insights received
+- Discussing how to apply insights to daily life
+- Creating art, writing, or other creative expressions of the experience
+- Planning follow-up practices or lifestyle changes
 
 ## Participant Profile
 
-Most participants in hybrid circles are experienced in one or more
-psychospiritual practices: shamanic drum journeying, Buddhist vipassana
-meditation, tantra yoga, holotropic breathwork, and various forms of
-psychotherapy and body-oriented therapy. The insights from these practices are
-woven into entheogenic work. This distinguishes hybrid circles from casual
-recreational use or large rave events.
+Metzner observed that most participants in hybrid circles were experienced
+in one or more psychospiritual practices:
 
-## Worldview Transformation
+- Shamanic drum journeying
+- Buddhist vipassana meditation
+- Tantra yoga
+- [[metzner-holotropic-breathwork-and-grof-perinatal-matrices]]
+- Various forms of psychotherapy and body-oriented therapy
 
-The majority of Westerners with ongoing entheogenic practice have expanded
-their belief systems beyond conventional materialism. While accepting validity
-of Western psychological insights (Freud, Jung, Reich), they have come to
-accept:
-- The reality of nonmaterial spirit beings
-- Recognition that humans live in multiple worlds of consciousness
-- That spirits encountered in dreams and visions are "just as real as the
-  physical organism"
+This background of prior practice means participants bring sophisticated
+interpretive frameworks to their experiences, allowing for deeper
+integration. The insights from these diverse practices are woven into
+participants' work with the entheogenic medicines.
 
-This represents a convergence of Western psychology with indigenous and
-esoteric traditions — what William James anticipated when he wrote that "no
-account of the universe in its totality can be final which leaves these other
-forms of consciousness quite disregarded."
+## The Expanded Worldview
 
-## Distinction from Recreational Use
+A striking finding from Metzner's research is that participants in hybrid
+ceremonies consistently develop belief systems that transcend the
+conventional materialistic paradigm. While accepting the validity of many
+Western psychological insights — including those of Freud, Jung, and Reich
+— participants come to accept two propositions that are "radically
+different" from the Western worldview:
 
-Metzner carefully distinguished hybrid therapeutic circles from:
-- Casual recreational "tripping" among friends
-- Large rave events combining MDMA with techno music
-- Purely religious ceremonies without therapeutic intent
+1. **[[metzner-spirit-beings-multiple-realities-entheogens]]**: The existence of multiple worlds accessible
+   through expanded states of consciousness.
+2. **Reality of spirits**: The reality of nonmaterial spirit beings
+   encountered in dreams and visions.
 
-The hybrid form specifically integrates healing intention, therapeutic
-structure, and psychological integration — combining the shamanic emphasis on
-spirit and multiple worlds with the Western emphasis on psychological
-understanding and personal growth.
+## Plant Medicines Used
 
-## Broader Cultural Significance
+The entheogenic plants used in hybrid ceremonies observed by Metzner
+included:
 
-Metzner suggested that syncretic religious movements, particularly the
-ayahuasca churches, have made "profoundly spiritually transforming experiences
-with entheogenic plant medicines accessible to a large number and wide
-spectrum of people in all walks of life." The hybrid therapeutic forms extend
-this accessibility while adding structured psychological integration. Together,
-these movements may represent "the beginnings of a broader cultural
-transformation movement with significant impact."
-
+- **Psilocybe mushrooms**: The most commonly used medicine in these circles
+- **Ayahuasca**: The Amazonian brew, used in ceremonies that draw heavily
+  on indigenous Amazonian practices
+- **San Pedro cactus** (*Echinopsis pachanoi*): The Andean visionary cactus
+- **Iboga**: The powerful African root bark, used more rarely due to its
 ## See Also
 
-- [[set-and-setting-model-psychedelic-therapy]]
-- [[dmt-phenomenology-and-tryptamine-hypercontinuum]]
-
-## See Also
-
-- [[metzner-hybrid-shamanic-therapeutic-rituals]]
+- [[four-paradigms-of-psychedelic-use]]
+- [[set-and-setting-hypothesis]]
+- [[shamanic-entheogenic-healing-rituals]]
+- [[shamanic-entheogenic-ceremonies]]
+- [[amazonian-plant-teachers-doctores]]

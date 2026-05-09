@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [comparison, cannabis, pest-control, organic-gardening, ipm]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -12,7 +13,7 @@ type: comparison
 
 ## Overview
 Neem oil and diatomaceous earth (DE) are two of the most widely used organic
-pest control products in cannabis cultivation, but they operate through
+pest control products in [[query-how-does-no-till-cannabis-cultivation-work]], but they operate through
 completely different mechanisms. Neem oil disrupts insect growth and feeding
 through biochemical action, providing sustained population suppression over
 weeks. Diatomaceous earth destroys pests through physical abrasion, providing
@@ -32,7 +33,7 @@ external and internal damage.
 
 DE is effective against a broad spectrum of cannabis pests: aphids (waxy
 coating abraded), spider mites (physical exoskeleton damage), fungus gnats
-(larvae in soil, adults crossing treated surfaces), slugs and snails (soft-
+(larvae in soil, adults crossing treated surfaces), [[query-how-to-get-rid-of-slugs-and-snails-organically]] (soft-
 bodied, especially vulnerable), and thrips. The critical safety distinction is
 between food-grade DE (natural amorphous silica, safe for organic use) and
 pool-grade DE (heat-calcined crystalline silica, extremely hazardous if
@@ -60,8 +61,8 @@ soil, and pests cannot develop resistance to mechanical action.
 | Persistence | Up to 1 month (foliar or systemic) | Lost when wet; requires frequent reapplication |
 | Application method | Foliar spray or soil drench | Dry dust, topdressing, or soil mix |
 | Flowering use | Soil drench only (avoids bud moisture) | Topdressing or soil mix only |
-| Fungal control | Yes (powdery mildew fungistat) | No |
-| Impact on beneficials | Can harm some beneficial insects | Non-selective; harms all crawling insects |
+| Fungal control | Yes ([[cervantes-powdery-mildew-prevention-treatment]] fungistat) | No |
+| Impact on beneficials | Can harm some [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] | Non-selective; harms all crawling insects |
 | Secondary benefits | None specific | Trace minerals, soil structure improvement |
 | Safety gear | Mask, gloves, goggles | Mask for dust; food-grade only |
 | Best For | Active infestations, systemic protection | Prevention, soil pests, zero-residue growing |
@@ -70,7 +71,7 @@ soil, and pests cannot develop resistance to mechanical action.
 Neem is the better choice for active infestations where long-term population
 suppression is needed. The systemic application method protects the entire
 plant from within, making it ideal during flowering when foliar spraying is
-risky. Neem also provides dual pest and disease control through its
+risky. Neem also provides dual pest and [[hamilton-pest-and-disease-control-organic]] through its
 fungistatic properties against powdery mildew. For persistent spider mite or
 aphid problems, neem's life cycle disruption provides sustained control that
 DE's one-time physical kill cannot match.
@@ -96,4 +97,4 @@ protection throughout the entire grow cycle.
 
 - [[fungus-gnats-cannabis]] — common cannabis pest targeted by both products
 - [[integrated-pest-management]] — framework for combining these and other controls
-- [[beneficial-insects-cannabis]] — biological control agents to consider alongside sprays
+- [[beneficial-insects-cannabis]] — [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents to consider alongside sprays

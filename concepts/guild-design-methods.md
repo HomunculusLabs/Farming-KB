@@ -1,6 +1,6 @@
 ---
 
-title: Guild Design Methods
+title: Guild mollison-designers-design-methods-analysis
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -74,7 +74,7 @@ Multiple guilds can be combined into a "super-guild" — a larger, more deeply c
 ### Guild Limitations
 - **Space-hungry**: One or two guilds will fill most of a small city lot
 - **Slow to establish**: Fruit trees take several years to bear
-- **Temperate-zone complexity**: Allelopathic interactions are more problematic in deep temperate soils than in shallow tropical soils
+- **Temperate-zone complexity**: Allelopathic interactions are more problematic in deep temperate soils than in shallow [[mollison-designers-tropical-soils-and-cation-exchange-management]]
 - **Site-specific**: What works in New York may not work in California
 - **Debugging difficulty**: Tracing problems in interconnected communities is challenging
 - **Harvesting style**: More like foraging than row-crop harvesting — you pluck a few of many things
@@ -92,17 +92,17 @@ Hemenway's armchair method applied to his Oregon bioregion, based on Franklin an
 ## Related
 
 - [[food-forest-design]] — Guilds in the context of forest garden design
-- [[permaculture-design-methods]] — Broader permaculture design toolkit
+- [[permaculture-design-methods]] — Broader [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] toolkit
 - [[dynamic-accumulators]] — Comprehensive list of nutrient-accumulating plants
-- [[companion-planting-reference]] — Companion planting reference
-- [[insect-allies]] — Beneficial insects and insectary plants
+- [[companion-planting-reference]] — [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] reference
+- [[insect-allies]] — [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] and insectary plants
 - [[permaculture-animal-integration]] — Animals in guild systems
 - [[gaias-garden-methods]] — Home-scale permaculture methods from the same source
 
 ## Integrating Guilds into Food Forests
 
 - Place guilds around each canopy tree in the food forest
-- Connect guilds with shared ground covers and insectary corridors
+- Connect guilds with shared [[permaculture-plants-food-forest-ground-covers-bamboos]] and insectary corridors
 - Use nitrogen-fixing shrubs as guild edges and windbreaks
 - Design so beneficials can move between guilds easily
 - Layer guilds vertically: canopy guild, understory guild, ground-level guild

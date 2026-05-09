@@ -10,7 +10,7 @@ sources: ["raw/papers/shulgin-a-pihkal.md"]
 
 ## Overview
 
-2C-D (PIHKAL #23), also known as LE-25, is a synthetic psychedelic phenethylamine in the 2C family. Shulgin held 2C-D in particularly high regard, calling it the "pharmacological tofu" of psychedelics -- it mixes well with other substances and is remarkably forgiving. Its gentle nature and wide therapeutic window make it one of the safest and most controllable members of the 2C series.
+2C-D (PIHKAL #23), also known as LE-25, is a synthetic psychedelic phenethylamine in the 2C family. Shulgin held 2C-D in particularly high regard, calling it the "pharmacological tofu" of psychedelics -- it mixes well with other substances and is remarkably forgiving. Its gentle nature and wide [[blesching-cannabis-therapeutic-window-dosing]] make it one of the safest and most controllable members of the 2C series.
 
 ## Chemical Identity
 
@@ -38,11 +38,11 @@ The dimethoxytoluene is formylated via Vilsmeier reaction (POCl3 + N-methylforma
 | **Duration** | 4-6 hours |
 | **Onset** | ~45 minutes |
 
-2C-D has an unusually wide active dose range (20-150 mg) -- a remarkable window compared to the typical 2x window of most psychedelics. This forgiving dose-response curve contributes to its safety profile.
+2C-D has an unusually wide active dose range (20-150 mg) -- a remarkable window compared to the typical 2x window of most psychedelics. This forgiving dose-response curve contributes to its [[cannabis-safety-profile-and-overdose-risk]].
 
 ## Effects
 
-- Gentle, controllable psychedelic experience
+- Gentle, controllable [[leary-psychedelic-experience-bardo-mapping]]
 - Enhanced color perception and visual clarity without intense hallucinations
 - Calm, centered mental state
 - Useful for creative work and problem-solving
@@ -79,7 +79,7 @@ The ethoxy homologues of the 2C-X series have been collectively called the "Twee
 
 ## Pharmacology
 
-2C-D is a 5-HT2A agonist with relatively low affinity compared to more potent 2C compounds. Its gentle profile and wide therapeutic window reflect moderate receptor binding. As a phenethylamine, it lacks stimulant properties. See [[phenethylamine-receptor-pharmacology]].
+2C-D is a 5-HT2A agonist with relatively low affinity compared to more potent 2C compounds. Its gentle profile and wide therapeutic window reflect moderate [[tihkal-receptor-binding-serotonin]]. As a phenethylamine, it lacks stimulant properties. See [[phenethylamine-receptor-pharmacology]].
 
 ## Harm Reduction
 

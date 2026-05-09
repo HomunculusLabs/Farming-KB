@@ -21,7 +21,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Leafly. "Sundae Driver Strain Information." leafly.com.
-  - AllBud. "Sundae Driver Cannabis Strain." allbud.com.
+  - AllBud. "Sundae Driver [[blesching-cannabis-strain-selection-receptor-targeting]]." allbud.com.
   - Wikileaf. "Sundae Driver Strain Review." wikileaf.com.
   - Cannabitoasis Genetics. Breeder information and strain data.
   - GrowDiaries. "Sundae Driver Grow Reports." growdiaries.com.
@@ -37,7 +37,7 @@ relaxing but not overwhelmingly sedating effects.
 
 The strain produces visually striking buds with deep purple hues and a thick
 coating of trichomes. It has become a staple in the "dessert strain"
-category alongside cultivars like Wedding Cake, Ice Cream Cake, and Gelato.
+category alongside cultivars like Wedding Cake, Ice [[ice-cream-cake-cannabis]], and Gelato.
 
 Sundae Driver carries awards and recognition in the California cannabis
 community and has become a popular parent strain for further breeding,
@@ -52,14 +52,14 @@ contributing its sweet terpene profile and purple coloration to crosses.
 
 The Fruit Punch parent contributes tropical sweetness, citrus notes, and
 moderate uplifting effects. The GMO parent adds pungent garlic and onion
-undertones, high resin production, and heavy indica body effects. The
+undertones, high [[cannabis-glandular-trichome-types-resin-production-clarke]], and heavy indica body effects. The
 combination results in a complex flavor profile that balances sweet dessert
 notes with savory, earthy depth.
 
 ## Appearance
 
 Buds are medium to large, dense, and elongated with a tapered structure.
-Colors range from forest green to deep violet and almost black-purple,
+Colors range from [[trichoderma-forest-green-mold-guide]] to deep violet and almost black-purple,
 particularly in cooler growing conditions. Bright orange pistils curl
 throughout the calyxes in moderate abundance.
 
@@ -139,8 +139,8 @@ flush before harvest for optimal terpene expression.
 
 ## See Also
 
-- [[wedding-cake-cannabis]]
+- [[wedding-cake]]
 - [[girl-scout-cookies]]
 - jungle-cake
-- [[gelato-cannabis]]
+- [[gelato]]
 - [[slurricane]]

@@ -1,5 +1,5 @@
 ---
-title: Deep Bed Vegetable System
+title: comparison-deep-bed-cultivation-vs-square-foot-gardening Vegetable System
 created: 2026-04-28
 tags: [vegetables, deep-beds, organic-gardening, hamilton, intensive-gardening]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: concept
 
 # Deep Bed Vegetable System
 
-The deep bed method of growing vegetables has been practiced around
+The deep bed method of [[container-growing-vegetables-herbs]] has been practiced around
 the world for centuries. Geoff Hamilton championed this system as a way
 to dramatically increase yields from small gardens. The system is
 basically simple: instead of vegetables being grown in long rows with
@@ -21,7 +21,7 @@ wide, with all work done from narrow paths at the sides.
 ## How the System Works
 
 By digging deeply, breaking up the subsoil, and incorporating plenty
-of bulky organic matter, a deep root zone is produced that allows
+of bulky [[hamilton-composting-and-organic-matter-management]], a deep root zone is produced that allows
 plants to draw nutrients from a much greater depth. Because roots are
 encouraged to grow downward rather than spreading outward, crops can be
 planted much closer together than would otherwise be possible.
@@ -29,7 +29,7 @@ planted much closer together than would otherwise be possible.
 By cutting out the unproductive paths, it is possible to double the
 amount of land available for crops. This is an important consideration
 especially if you have a small garden. A 10 by 4 foot (3 by 1.5m) bed
-gives a 40 square foot planting area that should produce up to four
+gives a 40 [[comparison-biointensive-vs-square-foot-gardening]] planting area that should produce up to four
 times the yield of a conventional bed of the same size.
 
 ## Benefits for Different Soil Types
@@ -108,7 +108,7 @@ Crops that have been overwintering, such as spring cabbages, need an
 extra boost in spring. A little dried blood sprinkled around each
 plant should suffice. Gross feeders including tomatoes, zucchini,
 squashes, and peppers benefit from liquid kelp every two weeks during
-the growing season.
+the [[savory-growing-season-and-non-growing-season-management]].
 
 ## Spacing and Layout
 
@@ -122,7 +122,7 @@ wide. The beds can be as long as is convenient for your garden.
 
 The comparatively shallow and compacted layer of topsoil in
 conventional beds means roots cannot penetrate deeply and must be
-planted further apart. Root crops may be distorted and smaller than
+planted further apart. [[permaculture-plants-root-crops-and-tubers]] may be distorted and smaller than
 those grown in deep beds of loose soil. The deep bed system with its
 loose, organically enriched soil encourages downward root penetration
 and dramatically increased yields per unit area.

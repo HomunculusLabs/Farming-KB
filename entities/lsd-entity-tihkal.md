@@ -1,5 +1,5 @@
 ---
-title: LSD-25 (Lysergic Acid Diethylamide) — TIHKAL Entry #26
+title: LSD-25 (ergot-and-lysergic-acid-history Diethylamide) — TIHKAL Entry #26
 created: 2026-04-14
 updated: 2026-04-23
 type: entity
@@ -29,7 +29,7 @@ TIHKAL entry #26. The prototypical psychedelic compound, discovered by Albert Ho
 
 ## Qualitative Comments
 
-Shulgin notes that "it seems presumptuous to attempt to select typical comments for quotation" given that thousands of reports exist spanning clinical research, psychotherapy, military programs, and anecdotal experience spanning half a century.
+Shulgin notes that "it seems presumptuous to attempt to select typical comments for quotation" given that thousands of reports exist spanning [[hofmann-lsd-clinical-research-early-studies]], psychotherapy, military programs, and anecdotal experience spanning half a century.
 
 ## Stability and Storage
 
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: JADAM Phyllite Mineral Solution
+title: JADAM jadam phyllite mineral solution Solution
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-Phyllite is the mineral supplement that JADAM recommends alongside sea salt for comprehensive mineral replenishment of soil. Combined with [[jadam-sea-salt-use]] -- the complementary mineral input from the sea
+Phyllite is the mineral supplement that JADAM recommends alongside [[jadam-sea-salt-and-mineral-solutions]] for comprehensive mineral replenishment of soil. Combined with [[jadam-sea-salt-use]] -- the complementary mineral input from the sea
 - [[jadam-leaf-mold-as-ideal-soil]] -- the microbial component
 - jadam mineral diversity principle -- diversity over targeted supplementation
 - jadam soil ph natural regulation -- letting nature regulate pH
@@ -145,4 +145,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

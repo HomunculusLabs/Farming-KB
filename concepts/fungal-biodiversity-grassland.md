@@ -3,22 +3,11 @@ title: Fungal Biodiversity in Grassland Ecosystems
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology, fungi]
-sources: []
+tags: [mycology, fungi]
+sources:
+  sources: []
 ---
-# Fungal Biodiversity in Grassland Ecosystems
-
-Grasslands represent a major terrestrial biome supporting distinct fungal communities adapted to open, often seasonally dry conditions with dominant herbaceous vegetation. Fungal biodiversity in grasslands encompasses saprobic, mycorrhizal, pathogenic, and endophytic guilds.
-
-## Saprobic Soil Fungi in Grasslands
-
-In grasslands and agricultural soils, characteristic fungal taxa include Acremonium, Arthrinium, Cladosporium, Drechslera, Fusarium, Idriella, Periconia species, Microdochium bolleyi, and Phoma eupyrena, whereas the number of species of Mucorales is reduced compared to forest soils (Christensen 1981a, 1989). Clarke and Christensen (1981) listed a suite of 12 species of Aspergillus, Fusarium, and Penicillium that are characteristic of soils in temperate American grasslands; nine species of Fusarium may occur consistently in grasslands worldwide.
-
-This degree of consistency across widely separated grassland regions suggests that fungal community composition is regulated primarily by environmental factors (climate, soil type, vegetation type) rather than by geographic proximity. An experienced microfungal taxonomist reading the list of the 10-20 most abundant fungi in a soil sample can guess with great accuracy the prevailing vegetational and climatic regimens of the sample's area of origin.
-
-## Arbuscular Mycorrhizal Fungi
-
-[[endophytic-fungi-in-grasslands]] are especially important in grassland ecosystems. Many cool-season grasses harbor systemic fungal endophytes (Epichloe species and their anamorph Neotyphodium species) that form mutualistic associations, providing herbivore resistance and drought tolerance to their hosts. These endophytes infect tissues of grass species extensively; the host is suppressed completely, and host and fungus function as a single ecological unit (Clay 1990). Endophytic species have been isolated from grasses growing in tropical, temperate, and boreal regions, including extreme arctic and alpine environments (Petrini 1987; Fisher et al. 1992).
+# Fungal Biodiversity in Grassland Ecosystems Grasslands represent a major terrestrial biome supporting distinct fungal communities adapted to open, often seasonally dry conditions with dominant herbaceous vegetation. Fungal biodiversity in grasslands encompasses saprobic, mycorrhizal, pathogenic, and endophytic guilds. ## Saprobic Soil Fungi in Grasslands In grasslands and agricultural soils, characteristic fungal taxa include Acremonium, Arthrinium, Cladosporium, Drechslera, Fusarium, Idriella, Periconia species, Microdochium bolleyi, and Phoma eupyrena, whereas the number of species of Mucorales is reduced compared to forest soils (Christensen 1981a, 1989). Clarke and Christensen (1981) listed a suite of 12 species of Aspergillus, Fusarium, and Penicillium that are characteristic of soils in temperate American grasslands; nine species of Fusarium may occur consistently in grasslands worldwide. This degree of consistency across widely separated grassland regions suggests that fungal community composition is regulated primarily by environmental factors (climate, soil type, vegetation type) rather than by geographic proximity. An experienced microfungal taxonomist reading the list of the 10-20 most abundant fungi in a soil sample can guess with great accuracy the prevailing vegetational and climatic regimens of the sample's area of origin. ## Arbuscular Mycorrhizal Fungi [[endophytic-fungi-in-grasslands]] are especially important in grassland ecosystems. Many cool-season grasses harbor systemic fungal endophytes (Epichloe species and their anamorph Neotyphodium species) that form mutualistic associations, providing herbivore resistance and drought tolerance to their hosts. These endophytes infect tissues of grass species extensively; the host is suppressed completely, and host and fungus function as a single ecological unit (Clay 1990). Endophytic species have been isolated from grasses growing in tropical, temperate, and boreal regions, including extreme arctic and alpine environments (Petrini 1987; Fisher et al. 1992).
 
 ## Aboveground Fungal Communities
 
@@ -40,7 +29,7 @@ For fungal inventories in grasslands, the following approaches are recommended:
 
 ## Grazing and Fungal Community Dynamics
 
-Livestock grazing exerts a powerful influence on grassland fungal
+[[savory-livestock-grazing-planning]] exerts a powerful influence on grassland fungal
 communities through multiple interacting mechanisms that alter both
 aboveground and belowground fungal habitat structure.
 
@@ -53,11 +42,11 @@ aboveground and belowground fungal habitat structure.
   allocate resources belowground to support regrowth, potentially
   benefiting mycorrhizal partners and associated saprobes.
 - Severe overgrazing, however, depletes root carbohydrate reserves and
-  reduces mycorrhizal colonization rates, weakening the fungal
+  reduces [[arbuscular-mycorrhizal-colonization-patterns]] rates, weakening the fungal
   conduit for nutrient exchange between soil and plants.
 
 ### Dung and Decomposer Communities
-- Herbivore dung introduces concentrated organic matter into grassland
+- Herbivore dung introduces [[hamilton-concentrated-organic-fertilizer-products]] matter into grassland
   soils, creating localized hotspots of fungal (and bacterial)
   decomposition activity that persist for weeks to months.
 - Coprophilous (dung-inhabiting) fungi form a specialized succession
@@ -75,7 +64,7 @@ aboveground and belowground fungal habitat structure.
   pore space and oxygen diffusion, which shifts the fungal-to-bacterial
   ratio by favoring bacteria adapted to compacted, anaerobic
   microsites over air-dependent filamentous fungi.
-- Rotational grazing systems that provide adequate rest periods allow
+- [[comparison-rotational-grazing-vs-continuous-grazing]] systems that provide adequate rest periods allow
   soil structure to recover between grazing events, maintaining
   conditions favorable to diverse fungal communities.
 
@@ -90,13 +79,13 @@ ecosystems. The impacts cascade through multiple fungal guilds.
   the mycelial connections that mycorrhizal fungi maintain with host
   plant roots and dramatically reducing colonization rates in
   subsequent growing seasons.
-- Repeated tillage shifts the soil microbial community toward
+- Repeated tillage shifts the soil [[edaphic-factors-microbial-community-structure]] toward
   bacterial dominance, reducing the fungal-to-bacterial biomass ratio
   from approximately 1:1 in undisturbed grassland to as low as 1:10
   in intensively tilled cropland.
 - No-till and reduced-tillage practices preserve significantly more
   of the native grassland fungal community, though complete recovery
-  of mycorrhizal networks may require years or decades without
+  of [[dighton-mycorrhizal-networks-carbon-transfer]] may require years or decades without
   further disturbance.
 
 ### Monoculture and Fungal Homogenization
@@ -112,6 +101,6 @@ ecosystems. The impacts cascade through multiple fungal guilds.
 
 - [[fungal-biodiversity-forest-ecosystems]]
 - [[arbuscular-mycorrhizal-fungal-diversity]]
-- [[fire-associated-fungi]]
+- fire-associated-fungi
 - [[endophytic-fungi-in-grasslands]]
 - [[fungal-endophytes-plant-fitness]]

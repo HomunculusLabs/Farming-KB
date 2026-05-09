@@ -506,3 +506,6 @@
 - [[worm-ecology-soil-building]]
 - [[worm-farming-for-profit]]
 - [[wormery-construction]]
+- [[soil-temperature-plant-growth-rate-doubling-rule]]
+- [[sterilized-casing-soil-recipe-peat-vermiculite-limestone]]
+- [[soil-foodweb-biological-balancing-protocol-ingham]]

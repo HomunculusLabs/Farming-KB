@@ -9,7 +9,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Critchley, A.T. et al. (1990). "A revision of the genus Sargassum (Fucales, Phaeophyta) in the eastern North Atlantic." Journal of Phycology.
+  - Critchley, A.T. et al. (1990). "A revision of the genus Sargassum (Fucales, Phaeophyta) in the polypore-fungi-eastern-north-america Atlantic." Journal of Phycology.
   - Engelen, A.H. & Santos, R. (2009). "Which demographic traits determine population growth in the invasive brown seaweed Sargassum muticum?" Journal of Ecology.
   - Norton, T.A. (1977). "Experiments on the factors influencing the geographic distribution of Sargassum muticum." Marine Biology.
   - Rueness, J. (1989). "Sargassum muticum and other introduced Japanese macroalgae: biological pollution of European coasts." Marine Pollution Bulletin.
@@ -19,7 +19,7 @@ Sargassum muticum, commonly known as wireweed or Japanese wireweed, is a large b
 
 The species forms dense canopy-forming stands in the intertidal and shallow subtidal zones. Its bushy, highly branched thallus can reach 3–16 m in length, with numerous lateral branches bearing small leaf-like blades and spherical pneumatocysts.
 
-S. muticum was first recorded outside its native range in the 1940s and has since spread to Europe, North America, and parts of the Southern Hemisphere. Its introduction is attributed to commercial shipping and oyster cultivation activities.
+S. muticum was first recorded outside its native range in the 1940s and has since spread to Europe, [[psilocybin-north-america-pacific-northwest]], and parts of the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]. Its introduction is attributed to commercial shipping and [[gourmet-medicinal-mushroom-oyster-cultivation-methods]] activities.
 
 ## Taxonomy and Morphology
 
@@ -48,11 +48,11 @@ The species thrives in sheltered to moderately exposed habitats on rock, cobble,
 
 ## Ecology and Environmental Impact
 
-In its introduced range, S. muticum displaces native canopy-forming algae through competition for light and space. Dense stands shade understory algae and seagrasses, reducing benthic primary production and biodiversity.
+In its introduced range, S. muticum displaces native canopy-forming algae through competition for light and space. Dense stands shade understory algae and seagrasses, reducing benthic [[lichens-primary-production-soil-formation-dighton]] and biodiversity.
 
 Despite its negative ecological impact, the species provides structural habitat for fish and invertebrates. Juvenile fish and crustaceans utilize Sargassum beds as nursery areas, benefiting from the physical complexity of the thallus.
 
-Decomposition of dislodged Sargassum biomass generates large quantities of detritus. This organic input can alter sediment chemistry and fuel microbial decomposition that depletes near-bottom dissolved oxygen.
+Decomposition of dislodged Sargassum biomass generates large quantities of detritus. This organic input can alter sediment chemistry and fuel microbial decomposition that depletes near-bottom [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]].
 
 The species modifies hydrodynamic conditions within invaded habitats, reducing wave energy and promoting sedimentation. These physical changes can further facilitate Sargassum establishment while inhibiting native algal recruitment.
 
@@ -73,9 +73,9 @@ Long-distance dispersal occurs through rafting of detached thalli on ocean curre
 - [[alaria-esculenta]]
 - [[sargassum-fusiforme]]
 - [[fucus-vesiculosus]]
-- [[ulva-lactuca]]
 - [[porphyra-umbilicalis]]
 - [[cystoseira-tamariscifolia]]
+
 ## Practical Considerations
 
 Successful implementation of Sargassum muticum requires attention to
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

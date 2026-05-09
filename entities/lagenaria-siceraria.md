@@ -22,7 +22,7 @@ sources:
 
 The species is unique among cultivated cucurbits for its dual use as both a food crop and a source of durable containers. When harvested mature and dried, the hard-shelled gourds have been used as vessels, musical instruments, and floats across cultures worldwide.
 
-The young, tender fruits are consumed as a vegetable in South Asia, Southeast Asia, and Africa. The mature dried gourds are used for storage vessels, water containers, pipe bowls, and resonators in stringed instruments.
+The young, tender fruits are consumed as a vegetable in South Asia, [[psilocybe-southeast-asia-pacific]], and Africa. The mature dried gourds are used for storage vessels, water containers, pipe bowls, and resonators in stringed instruments.
 
 *Lagenaria siceraria* is diploid with 2n = 26 chromosomes. It is the only widely cultivated species in the genus *Lagenaria*.
 
@@ -40,7 +40,7 @@ The young, tender fruits are consumed as a vegetable in South Asia, Southeast As
 
 **Synonyms:** *Cucurbita lagenaria* L.; *Lagenaria vulgaris* Ser.; *Lagenaria leucantha* Rusby.
 
-The genus *Lagenaria* contains 6–7 species, all native to the Old World tropics. *L. siceraria* is the only one with significant economic importance.
+The genus *Lagenaria* contains 6–7 species, all native to the [[datura-metel-old-world-ethnobotany]] tropics. *L. siceraria* is the only one with significant economic importance.
 
 Molecular phylogenetics places *Lagenaria* in a basal position within the cucurbit phylogeny, distinct from the *Cucumis*, *Citrullus*, and *Cucurbita* lineages. It diverged from its closest relatives approximately 50 million years ago.
 
@@ -78,7 +78,7 @@ The seeds are edible and contain 30–40% protein and 35–45% oil, rich in lino
 
 ## Cultivation
 
-Bottle gourd requires warm temperatures (25–35°C) and a long growing season (120–180 days for mature gourds). It is intolerant of frost and grows poorly below 18°C.
+Bottle gourd requires warm temperatures (25–35°C) and a long [[savory-growing-season-and-non-growing-season-management]] (120–180 days for mature gourds). It is intolerant of frost and grows poorly below 18°C.
 
 The crop prefers fertile, well-drained soils with adequate moisture. It is often grown along fences, trellises, or on the ground as a sprawling vine in traditional systems.
 
@@ -88,7 +88,7 @@ Young fruits are harvested 60–80 days after sowing for vegetable use. Mature g
 
 Yields of young fruits range from 15–30 tonnes/ha. Mature gourd yield is 5,000–15,000 fruits/ha depending on cultivar and management.
 
-Major pests include fruit flies, aphids, and powdery mildew. The crop is generally hardy and requires fewer inputs than many cucurbits.
+Major pests include fruit flies, aphids, and [[cervantes-powdery-mildew-prevention-treatment]]. The crop is generally hardy and requires fewer inputs than many cucurbits.
 
 ## Uses
 

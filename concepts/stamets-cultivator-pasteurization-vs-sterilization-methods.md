@@ -1,11 +1,12 @@
 ---
-title: Pasteurization vs Sterilization Methods
+title: stamets cultivator pasteurization vs sterilization methods Methods
 created: 2026-04-28
 tags: [substrate-preparation, pasteurization, sterilization, hygiene, contamination-control]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/the-mushroom-cultivator-stamets.md
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
 
@@ -14,11 +15,11 @@ type: concept
 Mushroom cultivators employ two fundamentally different approaches to
 [[grain-spawn-preparation]] and for
 sawdust-based substrates used for wood-decomposing species. The
-principles of [[sterile-technique-mushroom-cultivation|sterile technique]] is essential to maintain
+principles of [[mushroom-cultivation-sterile-technique|sterile technique]] is essential to maintain
 aseptic conditions throughout the process. At a constant volume, pressure and temperature
 directly correspond (Boyle's Law). The effect of sterilizing at 60
 minutes at 15 psi equals that of 30 minutes at 30 psi. Doubling
-pressure reduces sterilization time by half. Those cultivating at
+pressure reduces [[pressure-cooker-sterilization-time-temperature-jar-size-mushroom-substrate]] by half. Those cultivating at
 higher elevations must cook at higher pressures to achieve the same
 effect.
 
@@ -55,11 +56,11 @@ container increases cropping efficiency.
 
 ## When to Use Each Method
 
-The choice between pasteurization and sterilization depends on several
+The choice between [[query-difference-between-pasteurization-and-sterilization-mushroom-growing]] depends on several
 factors:
 
 1. **Species requirements**: Primary decomposers like Pleurotus can
-   fruit on pasteurized straw, while secondary decomposers like
+   fruit on [[oyster-mushroom-pasteurized-straw-cultivation]], while secondary decomposers like
    Agaricus require composted and pasteurized substrates
 2. **Substrate type**: Grain requires sterilization; straw and compost
    can be pasteurized; sawdust blocks typically require sterilization
@@ -73,20 +74,20 @@ factors:
 
 If only a small fraction of one percent of contaminants survive the
 sterilization process, they can render grain spawn useless within days.
-This underscores the importance of proper [[trichoderma]] (green mold) and [[stamets-sterile-laboratory-design]]
+This underscores the importance of proper [[trichoderma]] (green mold) and stamets-sterile-laboratory-design
 principles apply during the inoculation phase regardless of the
 substrate treatment method used. Maintaining a clean workspace and
 using proper transfer techniques are the final barriers against
-contamination after substrate preparation.
+contamination after [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]].
 
 ## Related
 
 - [[stamets-grain-sterilization-contamination-sources]]
-- [[stamets-compost-preparation]]
+- stamets-compost-preparation
 - [[agaricus-bisporus-cultivation-biology]] -- Agaricus cultivation requiring pasteurized compost
 - [[bulk-substrate-preparation]] -- bulk substrate methods for pasteurized and sterilized media
 - [[agar-medium-preparation]] -- agar media preparation under sterile conditions
-- [[agar-culture-media]] -- culture media formulations for mushroom cultivation
+- [[agar-culture-media]] -- culture media formulations for [[accessible-mushroom-cultivation-for-disabilities]]
 
 [[agar-medium-preparation]]
 [[agar-culture-media]]

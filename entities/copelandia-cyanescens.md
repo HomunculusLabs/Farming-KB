@@ -13,8 +13,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Guzmán, G., Allen, J.W. & Gartz, J. (2000). "Worldwide distribution of neurotropic fungi." Mycotaxon.
-  - Stamets, P. (1996). Psilocybin Mushrooms of the World. Ten Speed Press.
+  - Guzmán, G., Allen, J.W. & Gartz, J. (2000). "Worldwide global-distribution-of-neurotropic-fungi fungi." Mycotaxon.
+  - Stamets, P. (1996). [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World. Ten Speed Press.
   - Gartz, J. (1995). "Distribution and ecology of psilocybin fungi in the tropics." Mycological Research.
   - https://www.mycobank.org/ - Taxonomic classification
 ---
@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-*Copelandia cyanescens*, commonly known as the **blue meanies** mushroom, is a potent psilocybin-containing fungus belonging to the family Panaeolaceae. Originally described as *Panaeolus cyanescens* by Berkeley and Broome in 1871, it was reclassified into the genus *Copelandia* by Singer in 1951 based on its distinct microscopic features — notably the presence of pleurocystidia (cheilocystidia-like cells on the gill faces), a trait absent in typical *Panaeolus* species. Found primarily in tropical and subtropical regions worldwide, *C. cyanescens* is a coprophilous (dung-inhabiting) species that fruits on the dung of large herbivores. It is among the most potent psilocybin-containing mushrooms known, with psilocybin and psilocin concentrations rivaling or exceeding those of *Psilocybe azurescens*. The species is culturally significant in Hawaiian, Southeast Asian, and Central American contexts.
+*Copelandia cyanescens*, commonly known as the **blue meanies** mushroom, is a potent psilocybin-containing fungus belonging to the family Panaeolaceae. Originally described as *[[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]* by Berkeley and Broome in 1871, it was reclassified into the genus *Copelandia* by Singer in 1951 based on its distinct microscopic features — notably the presence of pleurocystidia (cheilocystidia-like cells on the gill faces), a trait absent in typical *Panaeolus* species. Found primarily in tropical and subtropical regions worldwide, *C. cyanescens* is a coprophilous (dung-inhabiting) species that fruits on the dung of large herbivores. It is among the most potent psilocybin-containing mushrooms known, with psilocybin and psilocin concentrations rivaling or exceeding those of *[[stamets-psi-psilocybe-azurescens-species-guide]]*. The species is culturally significant in Hawaiian, Southeast Asian, and Central American contexts.
 
 ## Taxonomy
 
@@ -119,7 +119,7 @@ Due to elevated potency, doses are significantly lower than for *Psilocybe cuben
 - **Colonization temperature:** 27–32°C; slower than *P. cubensis* on standard grain
 - **Fruiting temperature:** 24–30°C with high humidity (90–95% RH)
 - **Fresh air exchange:** Critical — requires high FAE for proper development
-- **Biological efficiency:** Moderate (50–80%); yields lower than *P. cubensis* per volume
+- **[[stamets-biological-efficiency-yield]]:** Moderate (50–80%); yields lower than *P. cubensis* per volume
 - **Spawn:** Rye grain, millet, or brown rice; colonization typically 14–21 days
 Widely cultivated in subtropical regions and naturalized in areas with suitable climate and dung substrate.
 
@@ -131,4 +131,4 @@ Widely cultivated in subtropical regions and naturalized in areas with suitable 
 | [[psilocybe-cubensis]] | Larger, more robust; grows on dung but also enriched soils; lower potency |
 | [[psilocybin]] — Primary psychoactive tryptamine compound
 - [[panaeolus-cinctulus]] — Widespread panaeolus with lower alkaloid content
-- [[gymnopilus-purpuratus]] — Wood-inhabiting psilocybin mushroom of the Southern Hemisphere
+- [[gymnopilus-purpuratus]] — Wood-inhabiting psilocybin mushroom of the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]

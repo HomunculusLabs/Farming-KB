@@ -1,10 +1,11 @@
 ---
-title: "Trap Cropping vs Beneficial Insects"
+title: "comparison trap cropping vs beneficial insects vs comparison-beneficial-insects-guide-vs-integrated-pest-management"
 created: 2026-04-28
 tags: [comparison, pest-control, ipm, organic-gardening, biological-control]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -12,8 +13,8 @@ type: comparison
 
 ## Overview
 
-Trap cropping and beneficial insect conservation are two cornerstone strategies
-of integrated pest management (IPM) that take fundamentally different approaches
+Trap cropping [[mollison-designers-insectary-plants-and-beneficial-insect-habitat]] conservation are two cornerstone strategies
+of [[natural-farming-guide-integrated-pest-management]] management (IPM) that take fundamentally different approaches
 to the same problem. Trap cropping manipulates pest behavior by providing an
 attractive alternative host plant that draws pests away from the main crop.
 Beneficial insect conservation recruits natural predators and parasitoids to
@@ -40,7 +41,7 @@ nectar for tiny parasitic wasps. Composite flowers like sunflowers, coneflowers,
 and asters attract a wide range of beneficial species.
 
 The strength of the beneficial insect approach is that it establishes a self-
-sustaining biological control system. Once established, predator populations
+sustaining [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] system. Once established, predator populations
 naturally track pest populations, increasing when pests are abundant and
 decreasing when pests decline. This creates a natural balance that prevents pest
 outbreaks without any ongoing intervention. However, beneficial insects are
@@ -66,7 +67,7 @@ more of a long-term investment than an immediate pest solution.
 
 Trap cropping is most effective when the primary pest pressure is known and
 predictable, and when that pest has a documented preference for specific trap
-crop species. It provides relatively fast results within a single growing season
+crop species. It provides relatively fast results within a single [[savory-growing-season-and-non-growing-season-management]]
 and requires less long-term habitat investment than building beneficial insect
 populations. Trap cropping is particularly valuable for high-value crops where
 even moderate pest damage is unacceptable, since it can reduce pest pressure on

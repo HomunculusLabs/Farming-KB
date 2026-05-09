@@ -1,5 +1,5 @@
 ---
-title: Hyphal Biology and Turgor Pressure
+title: Hyphal hyphal biology and turgor pressure Pressure
 created: 2026-04-28
 tags:
   - mycology
@@ -19,7 +19,7 @@ type: concept
 
 # Hyphal Biology and Turgor Pressure
 
-Hyphae are the fundamental cellular units of fungal growth, forming the
+Hyphae are the fundamental cellular units of [[brassinosteroid-fungal-growth-promotion]], forming the
 branching filamentous networks called mycelia that constitute the
 feeding phase of most fungi. These microscopic tubes are among the most
 mechanically impressive structures in biology, capable of penetrating
@@ -72,17 +72,17 @@ on org anic-matter in the soil and invading tree roots. Mycelia
 typically adopt a toroidal (doughnut-shaped) growth pattern, expanding
 outward from their origin and leaving dead cells at the center.
 
-This pattern is responsible for fairy rings in pastures and lawns,
+This pattern is responsible for [[bloomfield-fairy-rings-armillaria-giant-fungi]] in pastures and lawns,
 where mushrooms appear annually above the active growing perimeter of
 the [[fungal-hyphae]] grow by extending their tips and branching to form new
-filaments. This tip growth is driven by the polarized delivery of
+filaments. This [[gadd-hyphal-tip-growth-and-branching-mechanisms]] is driven by the polarized delivery of
 membrane-bound vesicles to the hyphal apex, where they fuse with the
 plasma membrane, adding new cell surface and releasing enzymes and
 wall-building materials.
 
 The enzymes released include:
 
-- **Cellulases**: break down cellulose in plant cell walls
+- **Cellulases**: [[query-can-fungi-break-down-plastic-pollution]] cellulose in plant cell walls
 - **Proteases**: dissolve proteins in animal tissues
 - **Cutinases**: attack the waxy cuticle of plant leaves
 - **Lignin peroxidases**: degrade the tough lignin in wood
@@ -118,7 +118,7 @@ by cultivating them in high-solute media.
 
 The current understanding is that while turgor is not required for
 growth per se (wallless animal cells expand without it), it is
-critically important for invasive growth.
+critically important for [[fungal-hyphae-invasive-growth-mechanisms]].
 
 Turgor pressure enables hyphae to overcome the physical barriers that
 persist after enzymes weaken the substrate. The real significance of

@@ -2,7 +2,7 @@
 
 ## Overview
 
-Psilocybe tampanensis and Psilocybe mexicana are unique among cultivated psilocybin-containing mushrooms for their ability to produce sclerotia — dense, hardened masses of mycelial tissue that function as long-term survival structures. Unlike fruit body production, which requires environmental triggers including light and fresh air exchange, sclerotia form while the mycelium is still colonizing the substrate inside sealed jars, without the need for casing, fruiting chambers, or complex environmental controls. Understanding the production timeline, optimal incubation conditions, and harvest windows is essential for maximizing sclerotia yield.
+Psilocybe tampanensis and [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] are unique among cultivated psilocybin-containing mushrooms for their ability to produce sclerotia — dense, hardened masses of mycelial tissue that function as long-term survival structures. Unlike fruit body production, which requires environmental triggers including light and fresh air exchange, sclerotia form while the mycelium is still colonizing the substrate inside sealed jars, without the need for casing, fruiting chambers, or complex environmental controls. Understanding the production timeline, optimal incubation conditions, and harvest windows is essential for maximizing sclerotia yield.
 
 ## What Are Sclerotia
 
@@ -11,8 +11,8 @@ Sclerotia (singular: sclerotium) are compact, hardened aggregates of densely pac
 In cultivation, sclerotia are valued as a product for several reasons:
 
 - They can be produced entirely within sealed jars, requiring no fruiting chamber
-- No casing soil, humidity control, or air exchange systems are needed
-- The production process is passive and requires minimal intervention after inoculation
+- No casing soil, [[cervantes-humidity-control-dehumidification]], or air exchange systems are needed
+- The [[directed-inoculum-production-process-for-amf]] is passive and requires minimal intervention after inoculation
 - Sclerotia are durable and have a reasonable shelf life
 - They can be harvested at the cultivator's convenience rather than at a precise moment
 
@@ -34,7 +34,7 @@ In cultivation, sclerotia are valued as a product for several reasons:
 - **Flush pattern**: Usually produces one large flush and a smaller second flush when cultivated for mushrooms
 - **Dual production**: Can produce both sclerotia and fruit bodies; sclerotia form in both uncased jars and in the casing layer of cased trays
 - **Historical significance**: One of the traditional ceremonial mushrooms of Mesoamerican cultures, used by Aztec and Mazatec peoples
-- **Natural habitat**: Native to subtropical and tropical regions of Mexico and Central America
+- **Natural habitat**: Native to subtropical and tropical regions of Mexico and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]
 
 ## Production Timeline
 
@@ -51,7 +51,7 @@ During the first month, the mycelium focuses on colonizing the grass seed substr
 - Initial sclerotia primordia may begin to form as small white knots visible through the jar wall
 - Full substrate colonization is typically achieved by the end of this period
 - No sclerotia of harvestable size have formed yet
-- The jar should not be shaken after initial colonization, as this would disrupt early sclerotia formation
+- The jar should not be shaken after initial colonization, as this would disrupt early [[growing-gourmet-sclerotia-formation-biology-mushrooms]]
 
 ### Weeks 5-12 (Active Growth Phase)
 
@@ -131,7 +131,7 @@ Post-harvest options include refrigeration (2-4°C for several weeks), drying fo
 
 ## Yield Expectations
 
-Yields vary based on strain genetics, substrate quality, incubation conditions, and harvest timing. P. tampanensis typically produces 10-30% of the initial dry substrate weight as fresh sclerotia over a 4-month incubation period. P. mexicana generally produces lower sclerotia yields but may also produce a flush of mushrooms if the remaining substrate is cased after sclerotia harvest.
+Yields vary based on strain genetics, substrate quality, incubation conditions, and [[cannabis-harvest-timing-visual-cues]]. P. tampanensis typically produces 10-30% of the initial dry substrate weight as fresh sclerotia over a 4-month incubation period. P. mexicana generally produces lower sclerotia yields but may also produce a flush of mushrooms if the remaining substrate is cased after sclerotia harvest.
 
 ## Related Topics
 
@@ -143,5 +143,7 @@ Yields vary based on strain genetics, substrate quality, incubation conditions, 
 *Source: Gartz et al., grass seed cultivation guidance for Psilocybe tampanensis and Psilocybe mexicana*
 
 ## See Also
+
+- [[psilocybe-mexicana-sclerotia-timeline-dark-incubation-flush-pattern]]
 
 - [[sclerotia-timeline-psilocybe-tampanensis-mexicana-grass-seed-jar]]

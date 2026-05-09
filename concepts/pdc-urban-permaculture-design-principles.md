@@ -1,5 +1,5 @@
 ---
-title: Urban Permaculture Design Principles
+title: Urban bill-mollison-permaculture-a-designers-manual-permaculture-design-principles Principles
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -31,9 +31,9 @@ Larger urban neighborhoods may have up to Zone 4, but the odds of there being a 
 Food production in urban environments can employ many strategies:
 
 - **Container gardens** -- any container with food growing in it, from buckets to barrels to converted kiddie pools. Advanced techniques use barrels with holes poked in the side to grow food out the top and along the side simultaneously.
-- **Vertical gardening** -- trellises allow food vines on sides of structures; even chain link fences can serve as trellis systems. Integrating the vertical dimension lets even small backyards produce high yield.
-- **Architectural food systems** -- greenhouses, hoop houses (rebar or PVC pipe arches about 8 feet tall with plastic stretched over), cold frames for individual plant protection, full bio-shelters and solar greenhouses. Hoop houses greatly extend the growing season and help protect crops.
-- **Appropriate technology food systems** -- hydroponics (roots suspended in water, no soil), aeroponics (misters spray atomized nutrient-rich water directly on root systems dangling in mid-air), and aquaponics (combining fish with hydroponics where fish water is siphoned off as nutrient-rich water for plants). Aeroponics provides the greatest water reduction but is harder to maintain.
+- **[[comparison-vertical-gardening-vs-container-gardening]]** -- trellises allow food vines on sides of structures; even chain link fences can serve as trellis systems. Integrating the vertical dimension lets even small backyards produce high yield.
+- **Architectural food systems** -- greenhouses, hoop houses (rebar or PVC pipe arches about 8 feet tall with plastic stretched over), cold frames for individual plant protection, full bio-shelters and solar greenhouses. Hoop houses greatly [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season and help protect crops.
+- **[[mollison-designers-appropriate-technology-small-scale-tools]] food systems** -- hydroponics (roots suspended in water, no soil), aeroponics (misters spray atomized nutrient-rich water directly on root systems dangling in mid-air), and aquaponics (combining fish with hydroponics where fish water is siphoned off as nutrient-rich water for plants). Aeroponics provides the greatest water reduction but is harder to maintain.
 - **Native edibles** -- the typical salad plants make up only about 1% of the total palette of edible plants. Many edible flowers and wild greens (often thought of as weeds) can fill a design. Gardens in the dirt should ideally be made with local edible plants; non-native plants should be grown in container gardens, greenhouses, or hydroponics systems.
 
 ## Animal Integration in Urban Settings
@@ -64,18 +64,18 @@ Rooftops offer potential for green roofs, rainwater collection, and food product
 
 Urban Permaculture Design applies all the same Permaculture Principles but must additionally contend with zoning ordinances, limited space, existing infrastructure, and the need to work within community structures. The goal remains the same: create comprehensive local ecological systems that provide food, water, shelter, and safe space while integrating rather than segregating elements.
 
-A Permaculture Design should endeavor to have systems that yield the resources that one can base their livelihood on, even in the urban context. Urban designers must also consider social patterns -- the invisible structures of governance, economics, and community organization -- as these will shape what is possible in any given urban setting.
+A Permaculture Design should endeavor to have systems that yield the resources that one can base their livelihood on, even in the urban context. Urban designers must also consider social patterns -- the [[permaculture-invisible-structures-economics]] of governance, economics, and [[savory-community-organization-and-shared-grazing]] -- as these will shape what is possible in any given urban setting.
 
 ## Related Pages
 
-- [[pdc-urban-permaculture-strategies]]
+- pdc-urban-permaculture-strategies
 - [[pdc-climate-and-microclimate-analysis]]
 - [[micro-pixe-analysis-of-elements-in-mycorrhizal-roots]]
 - [[food-forest-layers-and-species]]
 - [[teaming-with-microbes-cover-crops-soil-health]]
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
-- [[pdc-animal-systems-integration]]
+- pdc-animal-systems-integration
 
-- [[pdc-food-forests-and-guild-design]]
+- pdc-food-forests-and-guild-design
 
-- [[pdc-site-analysis-and-mapping]]
+- pdc-site-analysis-and-mapping

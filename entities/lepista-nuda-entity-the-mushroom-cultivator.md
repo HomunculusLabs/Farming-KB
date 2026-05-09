@@ -6,7 +6,7 @@ tags: [edible-mushroom, cultivable-species, agaricales, tricholomataceae, wood-d
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/the-mushroom-cultivator-stamets.md
+  sources: []
 ---
 
 # Lepista nuda (Blewit)
@@ -28,8 +28,8 @@ directly after the appearance of rhizomorphs.
 ## Role in Mushroom Cultivation
 
 Lepista nuda is considered a species well suited to the interests of home
-cultivators and natural culture techniques, though it has not achieved
-commercial scale production in the United States. Some commercial production
+cultivators and natural [[agar-culture-techniques-detailed]], though it has not achieved
+commercial scale production in the [[dmt-containing-plants-united-states-halpern]]. Some commercial production
 is ongoing in Europe, but yields have not been substantial enough to warrant
 widespread commercial adoption.
 
@@ -41,7 +41,7 @@ circulation.
 
 Several contradictions about the fruiting requirements for this species are
 noted in the literature. Wright and Hayes (1979) reported that immature horse
-manure and straw composts supported the most vigorous mycelial growth, while
+manure and straw composts supported the most vigorous [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]], while
 previous researchers found the best fruitings occurred on spent compost that
 had been colonized for a year or more. Fruitbodies also form on spawned leaf
 mulch mixed with sawdust, offering an alternative cultivation approach.
@@ -49,10 +49,10 @@ mulch mixed with sawdust, offering an alternative cultivation approach.
 ## Cultivation Parameters
 
 ### Spawn Medium
-A 4:1 sawdust and bran mixture or rye grain spawn is recommended.
+A 4:1 sawdust and bran mixture or rye [[comparison-grain-spawn-vs-grain-to-grain-transfer]] is recommended.
 
 ### Fruiting Substrates
-Horse manure and straw compost mixed with 10% fresh straw at spawning, or
+[[falconer-horse-manure-varieties]] and straw compost mixed with 10% fresh straw at spawning, or
 leaf mulch and sawdust mixtures.
 
 ### Spawn Run
@@ -85,7 +85,7 @@ and activated charcoal to 10% of total mass. Balance to a pH of 7.0.
 - Fresh air exchanges: 2 to 4 per hour
 - Harvest stage: While the mushroom caps remain convex
 - Flushing interval: 10 to 14 days
-- Yield potential: Approximately 1.25 pounds per square foot in 14 weeks
+- Yield potential: Approximately 1.25 pounds per [[comparison-biointensive-vs-square-foot-gardening]] in 14 weeks
 
 ### Moisture and Nutrition
 Mushrooms are 88 to 90% water and 10 to 12% dry matter.

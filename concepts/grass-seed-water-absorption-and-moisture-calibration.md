@@ -1,5 +1,5 @@
 ---
-title: Grass Seed Water Absorption and Moisture Calibration
+title: Grass grass seed water absorption and moisture calibration and Moisture Calibration
 created: 2026-04-28
 tags:
   - mycology
@@ -27,7 +27,7 @@ stages of cultivation when the jar is opened and cased.
 ## Factors Affecting Water Absorption
 
 Several factors influence how much water a given batch of grass seed will absorb during
-substrate preparation:
+[[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]:
 
 **Seed variety**: Different grass species and cultivars have different hull compositions
 and endosperm structures that affect water uptake rates and total capacity. Rye grass,
@@ -35,13 +35,13 @@ Lolium perenne, is the most commonly used species, but mixtures of different gra
 species have also been used with great success.
 
 **Batch variation**: Even seeds of the same variety from the same supplier can vary
-between harvests, storage conditions, and age. A batch purchased one month may absorb
+between harvests, [[vegetable-storage-conditions-by-temperature-and-humidity]], and age. A batch purchased one month may absorb
 water very differently from the same product purchased six months later from the same
 store. This variability is one of the primary reasons that cultivators should never
 assume a previously successful water ratio will work unchanged with a new bag of seed.
 
-**Seed treatment**: Seeds sold for agricultural planting are sometimes treated with
-fungicides, which can affect both water absorption and mycelial growth. If seed has
+**[[jadam-seed-treatment-and-nursery-management]]**: Seeds sold for agricultural planting are sometimes treated with
+fungicides, which can affect both water absorption and [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]. If seed has
 been treated with fungicides it should say so on the packaging. Treated seed should
 be avoided entirely for cultivation purposes, as the fungicide residues may inhibit
 or prevent mycelial colonisation entirely.
@@ -77,7 +77,7 @@ seed guaranteed to be free of fungicide treatment, though at a premium price.
 
 ## Direct Addition Method
 
-The standard approach involves measuring water and seed directly into the cultivation jar.
+The standard approach involves measuring water and seed directly into the [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]].
 For 720 ml jars, combine 110 grams of grass seed with 180 ml water. The measurements
 should be reasonably precise, as even small deviations in water volume can shift the
 substrate from ideal to too wet or too dry.

@@ -9,10 +9,10 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Argus, G.W. (2010). "Salix of North America." American Journal of Botany, 97(5), 797–821.
+  - Argus, G.W. (2010). "Salix of psilocybin-north-america-pacific-northwest." American Journal of Botany, 97(5), 797–821.
   - Meikle, R.D. (1984). "Willows and Poplars of Great Britain and Ireland." Botanical Society of the British Isles, London.
   - Newsholme, C. (1992). "Willows: The Genus Salix." B.T. Batsford Ltd, London.
-  - Taller, J. & Bärlocher, F. (2006). "Willow leaf litter decomposition and fungal species composition." Canadian Journal of Botany, 84, 916–926.
+  - Taller, J. & Bärlocher, F. (2006). "Willow leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]] and fungal species composition." Canadian Journal of Botany, 84, 916–926.
   - Grime, J.P. et al. (1988). "Comparative Plant Ecology: A Functional Approach to Common British Species." Unwin Hyman, London.
 ---
 
@@ -58,7 +58,7 @@ The species occurs in a wider range of habitats than most willows, including dec
 
 Goat willow is a pioneer species that colonizes open ground, abandoned fields, and post-fire sites. It tolerates both acidic and calcareous soils and grows from sea level to subalpine elevations.
 
-The species has been widely introduced in North America, particularly in the northeastern United States and eastern Canada. It has naturalized locally but is less invasive than some other introduced *Salix* species.
+The species has been widely introduced in North America, particularly in the northeastern [[dmt-containing-plants-united-states-halpern]] and eastern Canada. It has naturalized locally but is less invasive than some other introduced *Salix* species.
 
 Optimal growth occurs in USDA hardiness zones 4–8. The species is cold-hardy to −35°C and tolerates exposed, windy sites better than most willows, making it a common component of upland hedgerows.
 
@@ -82,7 +82,7 @@ The leaves contain flavonoids, tannins, and phenolic acids. Condensed tannin con
 
 Anthocyanin pigments in the young catkins produce the reddish-purple coloration visible in early spring. These pigments have been investigated for their antioxidant properties and potential pharmaceutical applications.
 
-The silvery hairs on catkin scales contain waxy compounds that may protect developing flowers from frost damage. These trichome-derived waxes are chemically distinct from leaf surface waxes.
+The silvery hairs on catkin scales contain waxy compounds that may protect developing flowers from frost damage. These trichome-derived waxes are chemically distinct from [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] waxes.
 
 ## Ecological Role
 
@@ -90,7 +90,7 @@ Goat willow is one of the most ecologically important early-spring flowering tre
 
 The species is the primary larval host for several specialist Lepidoptera including the puss moth (*Cerura vinula*), the herald moth (*Scoliopteryx libatrix*), and the sallow moth (*Xanthia citrago*). Caterpillar diversity on *S. caprea* is exceptionally high.
 
-The broad, hairy leaves support diverse fungal communities, with over 100 species of leaf-associated fungi recorded. These decomposer communities contribute significantly to nutrient cycling in mixed woodlands.
+The broad, hairy leaves support diverse [[biodiversity-of-fungi-soil-fungal-communities-agriculture]], with over 100 species of leaf-associated fungi recorded. These decomposer communities contribute significantly to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in mixed woodlands.
 
 Birds use goat willow for nesting and foraging. The catkins attract insects that in turn feed insectivorous birds during the critical early breeding season. The open, branching habit provides songbird perches.
 

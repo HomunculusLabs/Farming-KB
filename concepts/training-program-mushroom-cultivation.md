@@ -1,5 +1,5 @@
 ---
-title: Training Program Structure and Curriculum
+title: mushroom-disabilities-training-program-design Structure and Curriculum
 created: 2026-04-28
 tags: [training-curriculum, mushroom-cultivation, disability-inclusion,
   hands-on-training, enterprise-development]
@@ -12,7 +12,7 @@ type: concept
 
 # Training Program Structure and Curriculum
 
-The mushroom cultivation training program for people with disabilities
+The [[accessible-mushroom-cultivation-for-disabilities]] training program for people with disabilities
 follows a nine-week structured curriculum that combines theory, hands-on
 practice, guest lectures, field trips, and personal development. Training
 is divided into two parts: theoretical understanding and practical
@@ -48,8 +48,8 @@ each group rotating through four main sectors of activity:
    and recycling, and cultivation.
 2. **Pasteurization and inoculation** - Materials preparation, cleaning,
    recording, and labeling of processed bags.
-3. **Incubation and fruiting body management** - Carrying bags between
-   incubation and fruiting areas, disease management, watering, and
+3. **Incubation and [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] management** - Carrying bags between
+   incubation and fruiting areas, [[plant-disease-management-solomon]], watering, and
    ventilation control.
 4. **Harvesting, packaging, processing, and marketing** - Post-harvest
    handling through to final sale.
@@ -72,7 +72,7 @@ sectors.
 ### Week 3: Microbiology and Production Management
 
 Topics include estimating manageable production amounts (determined
-individually), general microbiology and mushroom culture, how microbes
+individually), general microbiology and [[mazatec-mushroom-culture-and-velada]], how microbes
 grow in nature, and scientific cultivation in aseptic conditions.
 Hands-on practice continues with group rotation.
 

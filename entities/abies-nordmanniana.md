@@ -20,7 +20,7 @@ sources:
 
 **Abies nordmanniana**, the Nordmann fir or Caucasian fir, is a large evergreen conifer in the family Pinaceae. It is native to the mountains of the western Caucasus and adjacent parts of northeastern Turkey.
 
-The species is among the most important Christmas tree species in Europe, prized for its symmetrical shape, soft needles, and excellent needle retention after cutting.
+The species is among the most important [[arthur-christmas-tree-amanita-muscaria]] species in Europe, prized for its symmetrical shape, soft needles, and excellent needle retention after cutting.
 
 It also yields valuable timber and plays a significant ecological role as a climax forest species in its native range.
 
@@ -84,7 +84,7 @@ Timber properties are comparable to silver fir, though the species is less widel
 
 The primary economic value of A. nordmanniana is as a Christmas tree rather than a timber species. The European Christmas tree market for this species is valued at over €500 million annually.
 
-Minor uses include essential oil extraction from needles and branches, used in aromatherapy and as a fragrance component.
+Minor uses include [[permaculture-designers-manual-essential-oil-plants]] extraction from needles and branches, used in aromatherapy and as a fragrance component.
 
 The resin has been used traditionally in the Caucasus region as an adhesive and waterproofing agent in woodworking and boat building.
 
@@ -96,11 +96,11 @@ It provides habitat and food for numerous species, including the Caucasian red d
 
 The species forms ectomycorrhizal associations with a wide range of fungal partners, including species of *Amanita*, *Lactarius*, *Russula*, and *Boletus*.
 
-These mycorrhizal networks facilitate nutrient cycling and support the diverse fungal communities characteristic of Caucasian fir forests.
+These [[dighton-mycorrhizal-networks-carbon-transfer]] facilitate [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and support the diverse [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] characteristic of Caucasian fir forests.
 
 Old-growth Nordmann fir forests are considered among the most biodiverse temperate forest ecosystems in Europe, with high levels of endemic plant and animal species.
 
-Conservation status is listed as Near Threatened by the IUCN, primarily due to logging pressure, habitat fragmentation, and climate change in its restricted native range.
+Conservation status is listed as Near Threatened by the IUCN, primarily due to logging pressure, habitat fragmentation, and [[dighton-fungi-climate-change-feedback]] in its restricted native range.
 
 Climate warming poses a particular threat by reducing suitable high-elevation habitat and increasing the frequency of drought stress at lower elevations.
 

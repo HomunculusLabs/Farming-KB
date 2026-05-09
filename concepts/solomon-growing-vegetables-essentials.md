@@ -1,5 +1,5 @@
 ---
-title: "Growing Vegetables Essentials"
+title: "container-growing-vegetables-herbs Essentials"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
@@ -14,7 +14,7 @@ Source: Steve Solomon, "Gardening When It Counts" (2005)
 
 ## Core Philosophy: Gardening When It Counts
 
-Steve Solomon argues that intensive raised-bed gardening methods (promoted by John Jeavons and others) are unsuitable for hard times. They require enormous inputs of water, compost, and fertilizer, and produce small, crowded vegetables of lower nutritional quality. Solomon advocates an older, extensive approach: wider plant spacing, minimal irrigation, and practical soil management.
+Steve Solomon argues that intensive raised-bed gardening methods (promoted by John Jeavons and others) are unsuitable for hard times. They require enormous inputs of water, compost, and fertilizer, and produce small, crowded vegetables of lower [[coleman-winter-greens-nutritional-quality-cold-sweetening]]. Solomon advocates an older, extensive approach: wider plant spacing, minimal irrigation, and practical soil management.
 
 The book was written in anticipation of economic hardship driven by peak oil, rising costs of petroleum-based fertilizers, and declining purchasing power for working people. Its methods are designed for gardeners who need reliable results with limited resources.
 
@@ -42,7 +42,7 @@ The potato is the single most important calorie crop, producing more nutrition p
 
 ## The Ley System (Rotation)
 
-If the soil does not freeze solid to 18 inches deep for at least a few months, diseases and soil-dwelling insects accumulate. Solomon rotates his beds every 4-5 years: half grow vegetables, half rest in grass and clover (a "ley"). The ley rebuilds organic matter and restores biological balance. After breaking sod, the first two years of vegetable growth are noticeably more productive.
+If the soil does not freeze solid to 18 inches deep for at least a few months, diseases and soil-dwelling insects accumulate. Solomon rotates his beds every 4-5 years: half grow vegetables, half rest in grass and clover (a "ley"). The ley rebuilds [[hamilton-composting-and-organic-matter-management]] and restores biological balance. After breaking sod, the first two years of vegetable growth are noticeably more productive.
 
 ## Three Tiers of Vegetable Demands
 
@@ -65,7 +65,7 @@ Solomon's central recommendation is a custom-blended organic fertilizer:
 - 1 part rock phosphate, bonemeal, or high-phosphate guano
 - 1 part kelpmeal or basalt dust
 
-All measured by volume. Apply 4-6 quarts per 100 sq ft annually. This provides balanced nutrition and produces vegetables with significantly higher vitamin and mineral content than those grown with chemical fertilizers alone.
+All measured by volume. Apply 4-6 quarts per 100 sq ft annually. This provides balanced nutrition and produces vegetables with significantly higher vitamin and mineral content than those grown with [[cervantes-chemical-fertilizers-guide]] alone.
 
 ## The Fertility Gradient
 
@@ -83,9 +83,9 @@ Solomon, as a former seedsman, emphasizes that mass-market seed packets and gard
 ## Key Takeaways
 
 - Wider spacing produces better food with less water and fewer inputs
-- Soil mineral balance matters more than pH adjustment
+- Soil [[holmgren-mineral-balance-soil-fertility]] matters more than pH adjustment
 - COF plus modest compost/manure outperforms heavy composting alone
-- Direct seeding is usually preferable to buying transplants
+- [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] is usually preferable to buying transplants
 - Grow staples (potatoes, beans, winter squash) for calories; greens for nutrition
 - Rotation is essential in mild climates where soil does not freeze deeply
 

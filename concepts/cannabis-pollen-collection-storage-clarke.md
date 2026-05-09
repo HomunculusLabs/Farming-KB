@@ -10,7 +10,7 @@ type: concept
 ---
 
 # [[robert-clarke]] devotes extensive attention
-to these techniques in Marijuana Botany, detailing methods for collecting,
+to these techniques in [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]], detailing methods for collecting,
 storing, and applying pollen with precision to produce seeds of known
 parentage. The quality of breeding records depends directly on the
 care taken during pollination.
@@ -21,7 +21,7 @@ Cannabis is a wind-pollinated species. Pollen grains are nearly spherical,
 slightly yellow, and 25 to 30 microns in diameter, with a smooth surface
 exhibiting 2 to 4 germ pores. Just prior to dehiscence (pollen release),
 the pollen nucleus divides to produce a small reproductive cell and a large
-vegetative cell, both contained within the mature pollen grain.
+[[spore-vs-vegetative-cell-resistance-microwave-sterilization]], both contained within the mature pollen grain.
 
 Germination occurs 15 to 20 minutes after contact with a receptive pistil.
 Fertilization may take up to two days in cooler temperatures. If pollen is
@@ -41,7 +41,7 @@ favorable. Controlled hand pollination consists of two basic steps:
 Both steps are carefully controlled so that no pollen escapes to cause
 random pollinations. Since Cannabis is wind-pollinated, enclosures are
 employed to isolate ripe flowers from wind while allowing light
-penetration and air circulation.
+penetration and [[stamets-growing-room-air-circulation-co2-management]].
 
 ## Pollen Collection Methods
 
@@ -121,7 +121,7 @@ materials remain cooler in the sun.
 
 Pollen release is fairly rapid inside the bags. After two days to a week,
 the limbs are removed and dried in a cool dark place. The bags are
-collected early in the morning before and solar heating. After drying, the
+collected early in the morning before and [[mollison-designers-passive-solar-heating-building-design]]. After drying, the
 bags are shaken vigorously and carefully untied. Plant material is removed
 as a moisture source, and the pollen bags are re-sealed.
 

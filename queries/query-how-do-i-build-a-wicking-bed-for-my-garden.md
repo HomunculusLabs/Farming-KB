@@ -1,5 +1,5 @@
 ---
-title: "How Do I Build a Wicking Bed for My Garden?"
+title: "How Do I Build a comparison-wicking-bed-vs-container-gardening for My Garden?"
 created: 2026-04-28
 tags:
   - wicking-bed
@@ -15,13 +15,13 @@ updated: 2026-04-28
 sources:
   - title: "WaterUps — Wicking Bed Design Guide"
     url: "https://waterups.com.au/pages/how-wicking-beds-work"
-  - title: "Texas A&M AgriLife Extension — Raised Bed Sub-Irrigation"
+  - title: "Texas A&M AgriLife Extension — [[comparison-chinampas-vs-raised-bed-gardening]] Sub-Irrigation"
     url: "https://agrilifeextension.tamu.edu/"
   - title: "David Holmgren — Permaculture: Principles & Pathways Beyond Sustainability"
     url: "https://holmgren.com.au/"
-  - title: "GAIA Organic Gardens — Wicking Bed Construction Manual"
+  - title: "GAIA Organic Gardens — Wicking [[hugelkultur-bed-construction-detailed]] Manual"
     url: "https://gaiaorganics.com.au/"
-  - title: "Food and Agriculture Organization (FAO) — Water Harvesting Techniques"
+  - title: "Food and Agriculture Organization (FAO) — Water [[water-harvesting-techniques-comparison]]"
     url: "https://www.fao.org/"
 type: query
 ---
@@ -46,6 +46,8 @@ Every wicking bed shares these essential components:
 
 ## See Also
 
+- [[query-how-to-build-a-cob-oven-for-outdoor-cooking]]
+
 - [[query-how-do-i-build-a-wicking-bed-for-water-efficient-gardening]]
 ## Practical Considerations
 
@@ -63,7 +65,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +107,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

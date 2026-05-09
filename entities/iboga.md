@@ -1,5 +1,5 @@
 ---
-title: Iboga (Tabernanthe iboga)
+title: Iboga (tabernanthe-iboga)
 created: 2026-04-28
 type: species
 tags: [psychedelic, plant-medicine, entheogen, addiction-treatment, ethnobotany, african-medicine, shrub]
@@ -14,7 +14,7 @@ sources:
 
 # Iboga (Tabernanthe iboga)
 
-Iboga is a perennial rainforest shrub native to Central West Africa, particularly Gabon, Cameroon, and the Republic of the Congo. It is the botanical source of ibogaine, a potent psychoactive indole alkaloid with remarkable properties in interrupting substance dependence. For centuries, the root bark has been central to the Bwiti spiritual tradition, where it serves as a sacrament in initiation rites, healing ceremonies, and communal rituals.
+Iboga is a perennial rainforest shrub native to Central West Africa, particularly Gabon, Cameroon, and the Republic of the Congo. It is the botanical source of ibogaine, a potent psychoactive [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] with remarkable properties in interrupting substance dependence. For centuries, the [[iboga-root-bark-preparation]] has been central to the Bwiti spiritual tradition, where it serves as a sacrament in initiation rites, healing ceremonies, and communal rituals.
 
 ## Taxonomy and Botany
 
@@ -42,7 +42,7 @@ The Bwiti is a syncretic spiritual practice that blends indigenous Pygmy animism
 - **Initiation (Banzie):** A multi-day ceremony in which initiates consume large doses of iboga root bark. The experience is understood as a journey to the land of the ancestors, confronting one's past lives and gaining spiritual insight.
 - **Therapeutic use:** Within Bwiti tradition, iboga is used to treat physical illness, mental disturbance, and spiritual disharmony. Practitioners believe it can reveal the root causes of suffering.
 - **Social function:** Bwiti ceremonies strengthen community bonds, mark life transitions, and provide a framework for moral and ethical development.
-- **Legal status in Gabon:** Iboga and Bwiti practice are protected as elements of national cultural heritage.
+- **[[ayahuasca-tourism-legal-status-by-country]] in Gabon:** Iboga and Bwiti practice are protected as elements of national cultural heritage.
 
 ### Early Western Contact
 
@@ -50,7 +50,7 @@ The Bwiti is a syncretic spiritual practice that blends indigenous Pygmy animism
 - The root bark was exported to France in the early 20th century and marketed briefly as "Lambarene" — a stimulant and antidepressant.
 - Ibogaine was first isolated from root bark in 1901 by Édouard Landrin and further characterized by Raymond-Hamet and J. Dybowsky.
 - Used in low doses by French athletes in the 1930s as a stimulant and performance enhancer.
-- Classified as a Schedule I substance in the United States in 1970, effectively ending legal research for several decades.
+- Classified as a Schedule I substance in the [[dmt-containing-plants-united-states-halpern]] in 1970, effectively ending legal research for several decades.
 
 ## Phytochemistry
 

@@ -54,7 +54,7 @@ Fukuoka uses the four-group scoring method of the Kagawa Nutrition College as an
 
 ### Type 3: The Diet of Principle (Spiritually Guided)
 
-The third type is the diet of natural man based on spiritual laws. Extending beyond Western science and centered on Eastern philosophy, it places restrictions on foods, aiming for centripetal convergence. This is what is normally referred to as a "natural diet."
+The third type is the diet of natural man based on spiritual laws. Extending beyond Western science and centered on [[fukuoka-western-eastern-philosophy-agriculture]], it places restrictions on foods, aiming for centripetal convergence. This is what is normally referred to as a "[[fukuoka-natural-diet-as-foundation]]."
 
 Characteristics of the diet of principle:
 
@@ -66,7 +66,7 @@ Characteristics of the diet of principle:
 
 This diet represents genuine progress beyond the scientific diet because it acknowledges that food is more than fuel, that the body is more than a machine, and that eating has spiritual dimensions. However, Fukuoka warns that even this diet can become a trap:
 
-- **Risk of intellectual entrapment**: Too much concern over whether something is yin or yang, acidic or alkaline, or whether it contains specific nutrients leads right back into the realm of discriminating knowledge.
+- **Risk of intellectual entrapment**: Too much concern over whether something is yin or yang, acidic or alkaline, or whether it contains specific nutrients leads right back into the realm of [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]].
 - **Still based on human judgment**: The practitioner is still choosing and rejecting foods based on criteria, even if the criteria are spiritual rather than nutritional.
 - **The map is not the territory**: Even correct principles about yin and yang cannot capture the full reality of nature's dietary wisdom.
 
@@ -97,7 +97,7 @@ The progression is not merely about changing what one eats but about transformin
 
 ## Seasonal Eating as Natural Law
 
-Fukuoka illustrates the non-discriminating diet with detailed descriptions of seasonal Japanese eating. The farmer's diet of the seven herbs of spring, the shellfish of early spring, the bamboo shoots and rockfish of late spring, the loquats and peaches of early summer, the cereal grains of autumn, and the pickled vegetables and wild game of winter, all represent a natural diet that arises spontaneously from living in accordance with the seasons.
+Fukuoka illustrates the non-discriminating diet with detailed descriptions of seasonal Japanese eating. The farmer's diet of the seven herbs of spring, the shellfish of [[coleman-overwintered-onions-and-early-spring-crops]], the bamboo shoots and rockfish of late spring, the loquats and peaches of early summer, the cereal grains of autumn, and the pickled vegetables and wild game of winter, all represent a natural diet that arises spontaneously from living in accordance with the seasons.
 
 He emphasizes that this is not a system to be learned or a set of rules to follow. The people of farming and fishing villages naturally ate what was available locally and seasonally, without nutritional calculations or philosophical analysis, and this diet provided everything the body needed.
 
@@ -114,6 +114,9 @@ Fukuoka insists that taste and nutrition should not be separated. What is nouris
 Farmers of the past enjoyed simple meals of barley and rice with unrefined soy sauce and pickled vegetables. This gave them strength and long life. Rather than thinking in terms of "drawing nutrition," Fukuoka suggests it makes more sense to recognize that working hard in the fields made one hungry, which is why coarse fare tasted delicious. A strong body can draw sustenance from a simple diet.
 
 ## See Also
+
+- [[fukuoka-four-types-of-diet]]
+- [[fukuoka-textdoc-four-types-diet-self-indulgence-non-discrimination]]
 
 - [[fukuoka-textdoc-getting-natural-diet]]
 - [[fukuoka-natural-diet-four-types]]

@@ -1,5 +1,5 @@
 ---
-title: Trichothecene Mycotoxins, Biological Warfare, and Yellow Rain
+title: bloomfield trichothecene mycotoxins biological warfare yellow rain, Biological Warfare, and Yellow Rain
 created: 2026-04-28
 tags:
   - mycology
@@ -88,7 +88,7 @@ are no specific antidotes for trichothecene poisoning.
 
 A yellow crystalline deposit appears when trichothecenes are purified
 from fungal cultures. This may account for the color of the putative
-weapon used in Southeast Asia, dubbed "yellow rain." Reputable
+weapon used in [[psilocybe-southeast-asia-pacific]], dubbed "yellow rain." Reputable
 investigators are convinced that these compounds were used by the Soviet
 Union to kill thousands of anticommunist guerrillas in Laos and Cambodia
 in the 1970s, and against opposition to their invasion of Afghanistan
@@ -111,5 +111,5 @@ anyone with a Ph.D. in microbiology or mycology.
 - [[biological-transport-networks]]
 - [[combined-biological-remediation-approaches]]
 - [[stachybotrys-chartarum]]
-- aflatoxins aspergillus flavus liver cancer
+- aflatoxins aspergillus flavus [[cannabis-and-liver-cancer-research]]
 - [[ergot-fungi-claviceps-ergot-alkaloids]]

@@ -1,5 +1,5 @@
 ---
-title: San Francisco de Yarina - Shipibo Ayahuasca Ceremonial Center
+title: San Francisco de Yarina - san-francisco-shipibo-ayahuasca-ceremonial-center Ceremonial Center
 source: stuart-r-ayahuasca-tourism.md
 tags: [ayahuasca, shipibo, peru, ucayali, tourism, ceremony]
 created: 2026-05-08
@@ -45,7 +45,7 @@ practice styles found in a single community:
 
 **"B" — The Elder Shaman of Yarina**
 B was an elderly shaman based in Yarina proper, not San Francisco itself. He
-maintained a ceremonial hut in his backyard where nightly ayahuasca ceremonies
+maintained a ceremonial hut in his backyard where nightly [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]]
 attracted up to a couple dozen visitors. During the observation period, B's
 son — who served as director of the family religious practice — was away in the
 United States giving workshops, leaving B in charge of the ceremonies. The
@@ -74,8 +74,8 @@ B's nephew was described as "an enterprising shaman" who earned "a couple
 hundred dollars per month catering to tourists." This income was dramatically
 higher than his neighbors, who "can not even afford a thirty cent taxi ride."
 He charged thirty dollars to give ayahuasca to a tourist, while the going rate
-for a Peruvian was about two dollars — a fifteen-fold price disparity that
-reflects the economic dynamics of ayahuasca tourism.
+for a Peruvian was about two dollars — a fifteen-fold [[ayahuasca-ceremonial-economics-price-disparity-peru]] that
+reflects the economic dynamics of [[stuart-r-ayahuasca-tourism-cautionary-ethnography]].
 
 **The Visiting Training Pair**
 Two other ayahuasqueros were visiting B's group for a two-week training period
@@ -85,7 +85,7 @@ spectrum of character found among practitioners.
 
 ## Economic Dynamics
 
-The pricing disparity between local and tourist ceremonies is stark. In the
+The [[ayahuasca-ceremony-pricing-disparity-tourist-versus-local]] between local and tourist ceremonies is stark. In the
 early 2000s, local Peruvians paid approximately two dollars for an ayahuasca
 ceremony, while tourists were charged ten to thirty dollars. The most
 commercially successful practitioners could earn hundreds of dollars per month
@@ -102,7 +102,7 @@ shaman's relatives and community."
 ## Visiting San Francisco
 
 For prospective visitors, San Francisco offers an alternative to the more
-developed tourism infrastructure of Iquitos. The town lacks hotels, so visitors
+developed [[ayahuasca-tourism-infrastructure-peruvian-amazon]] of Iquitos. The town lacks hotels, so visitors
 must arrange accommodation independently. The taxi ride from Yarina provides
 access, and the density of practitioners means that visitors can shop around
 and compare different shamans. However, the linguistic barriers and cultural

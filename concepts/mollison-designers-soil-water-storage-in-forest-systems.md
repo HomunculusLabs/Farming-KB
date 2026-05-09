@@ -44,7 +44,7 @@ similarly in desert soils.
 The soil has several distinct storage mechanisms for water:
 
 ### Retention Storage
-Water bound as a film to soil particles, held by surface tension.
+Water bound as a film to soil particles, held by [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]].
 As a generalisation, 2.5-7 cm (1-3 inches) of rain is stored per
 30 cm (12 inches) depth of soil mantle in retention storage. Soils
 of fine texture and high organic content may store 10-30 cm (4-12
@@ -101,7 +101,7 @@ design:
   infiltration system, connecting to [[mollison-designers-forest-condensation-and-micro-climate-rainfall]] enhance total precipitation
 - Earthworks such as swales slow water movement and increase
   infiltration time, supporting [[mollison-earthworks-planning-and-post-earthworks-planting]]
-- Soil rehabilitation through organic matter addition dramatically
+- Soil rehabilitation through [[hamilton-composting-and-organic-matter-management]] addition dramatically
   increases water storage capacity
 
 ## Water and Soil Life
@@ -111,7 +111,7 @@ water, as are the leaves and root hairs. This bound water forms a
 film available to roots, which can remove the water down to 15
 atmospheres of pressure, when the soil retains the last thin film.
 The entire system depends on living soil biology, especially
-mycorrhizal fungi, to maintain the sponge-like humus structure that
+[[arbuscular-mycorrhizal-fungi-biology-symbiosis]], to maintain the sponge-like humus structure that
 holds water in biological storage.
 
 ## Conclusion: Forests as Water Infrastructure

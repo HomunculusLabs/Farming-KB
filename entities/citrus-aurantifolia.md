@@ -12,18 +12,18 @@ sources:
   - Mabberley, D.J. (1997). "A classification for edible Citrus (Rutaceae)." Telopea, 7(2), 167–172.
   - Mahmood, A.A. et al. (2009). "Antiulcerogenic activity of Citrus aurantifolia." Journal of Ethnopharmacology, 126(1), 46–50.
   - Bocco, A. et al. (1998). "Antioxidant activity and phenolic compounds of Citrus aurantifolia." Journal of Agricultural and Food Chemistry, 46(6), 2123–2129.
-  - Saunt, J. (2000). Citrus Varieties of the World. Sinclair International.
+  - Saunt, J. (2000). [[query-best-citrus-varieties-for-different-climates]] of the World. Sinclair International.
 ---
 
 ## Overview
 
 **Citrus aurantifolia** (Christm.) Swingle, commonly known as the Key lime, Mexican lime, or West Indian lime, is a small evergreen tree in the family Rutaceae.
 
-It is one of the most commercially important citrus species, valued globally for its highly aromatic, acidic fruit juice.
+It is one of the most commercially important citrus species, valued globally for its highly aromatic, acidic [[bionutrients-lab-fermented-fruit-juice-ffj]].
 
 The Key lime is the principal lime cultivar in tropical and subtropical regions worldwide. It is distinguished from the Persian lime (*Citrus latifolia*) by its smaller size, thinner skin, and more intense flavor.
 
-The species has been cultivated for over 2,500 years, with origins tracing to Southeast Asia or the Indo-Malayan region.
+The species has been cultivated for over 2,500 years, with origins tracing to [[psilocybe-southeast-asia-pacific]] or the Indo-Malayan region.
 
 ## Taxonomy and Morphology
 
@@ -47,7 +47,7 @@ Key lime is believed to have originated in the Indo-Malayan region. It was sprea
 
 Today it is cultivated throughout the tropics and subtropics, with major production in Mexico, Brazil, India, Egypt, and the West Indies.
 
-In the United States, it is famously associated with the Florida Keys, where it became the defining ingredient of Key lime pie.
+In the [[dmt-containing-plants-united-states-halpern]], it is famously associated with the Florida Keys, where it became the defining ingredient of Key lime pie.
 
 The species thrives in warm, humid tropical and subtropical climates. It is more cold-sensitive than most citrus, suffering damage below 2°C.
 
@@ -80,7 +80,7 @@ Key lime juice is rich in ascorbic acid (vitamin C), citric acid, and a diverse 
 - **Ascorbic acid:** 25–35 mg per 100 mL juice, significant antioxidant contribution.
 - **Citric acid:** 4–8% of juice by weight, responsible for characteristic tartness.
 - **Flavonoids:** Hesperidin, naringin, and rutin identified in peel and juice.
-- **Essential oil:** Limonene (30–45%), β-pinene (10–15%), γ-terpinene (5–10%) in peel oil.
+- **[[permaculture-designers-manual-essential-oil-plants]]:** Limonene (30–45%), β-pinene (10–15%), γ-terpinene (5–10%) in peel oil.
 - **Volatile aroma compounds:** Citral, linalool, and terpineol contribute to distinctive fragrance.
 
 **Pharmacological findings:**
@@ -103,7 +103,7 @@ The fruit is used in ceviche preparation throughout Latin America, where its aci
 
 Lime leaves, flowers, and zest are used in marmalades, pickles, chutneys, and beverages. Dried lime (*loomi* or *noomi basra*) is a key spice in Persian Gulf cuisine.
 
-Key lime is preferred by chefs over Persian lime for its superior aromatic complexity. However, its shorter shelf life and thinner skin make it less suitable for long-distance commercial distribution.
+Key lime is preferred by chefs over Persian lime for its superior aromatic complexity. However, its shorter [[psilocybin-shelf-life-stability]] and thinner skin make it less suitable for long-distance commercial distribution.
 
 ## See Also
 

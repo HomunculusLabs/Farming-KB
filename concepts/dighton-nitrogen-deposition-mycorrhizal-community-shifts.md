@@ -1,5 +1,5 @@
 ---
-title: "Nitrogen Deposition Effects on Mycorrhizal Communities"
+title: "dighton nitrogen deposition mycorrhizal community shifts Effects on Mycorrhizal Communities"
 created: 2026-04-26
 tags:
   - mycology
@@ -47,7 +47,7 @@ Lactarius showed little change, and specific species such as Paxillus
 involutus and Lactarius rufus increased with added N. Jonsson (1998)
 found only 1 to 4% correspondence between fruit body species and
 mycorrhizae on roots, showing that fruit body surveys may not reliably
-reflect below-ground community composition.
+reflect below-ground [[core-endorhiza-bacterial-community-composition-cannabis]].
 
 ## Cessation of Fruiting at High N
 
@@ -76,7 +76,7 @@ Arnebrant (1994) showed that addition of ammonium sulfate and ammonium
 nitrate at 1 to 4 mg per gram peat significantly reduced mycelial
 growth of Paxillus involutus and Suillus bovinus on lodgepole pine.
 Conversely, Kieliszewska-Rokicka (1992) found small amounts of NH4-N
-increased both growth and acid phosphatase activity of Paxillus involutus
+increased both growth and acid [[mycorrhizal-phosphatase-activity-elf97-detection]] of Paxillus involutus
 mycelia, possibly through temporary phosphate deficiency stimulating
 phosphatase production. Wallander et al. (1999) showed that fungal
 isolates with inherently high NH4 uptake affinity had N uptake more
@@ -84,7 +84,7 @@ inhibited by elevated N than low-affinity isolates.
 
 ## Phosphorus Interaction and Nutrient Imbalance
 
-Carreira et al. (2000) showed that acidifying pollutants alter the
+Carreira et al. (2000) showed that [[dighton-fungi-acidifying-pollutants-forest-ecosystems]] alter the
 inorganic P subcycle by increasing P sorption capacity and decreasing
 labile P concentration. Acid phosphatase activity in soil decreased from
 382 to 263 mg pNP per hour per gram under acid misting. N saturation
@@ -114,11 +114,14 @@ acidifying pollutants, and habitat destruction.
 
 ## See Also
 
+- [[dighton-saprotroph-mycorrhizal-litter-interactions]]
+- [[dighton-aquatic-hyphomycete-conidia-community-dynamics]]
+
 - [[dighton-mycorrhizal-diversity-ecosystem-function]]
 - [[dighton-mycorrhizal-succession-forest-ecosystems]]
 - [[dighton-fungal-greenhouse-gas-nitrogen-saturation]]
 
 ## Sources
 
-- Dighton, J. (2003). Fungi in Ecosystem Processes. Marcel Dekker.
-  Chapter 6: Fungal Interactions with Humans.
+- Dighton, J. (2003). Fungi in [[fungal-ecosystem-processes-overview]]. Marcel Dekker.
+  Chapter 6: [[singh-fungal-interactions-with-heavy-metals-in-soil]] with Humans.

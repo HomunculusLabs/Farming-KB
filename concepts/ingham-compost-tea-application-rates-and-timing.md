@@ -3,7 +3,7 @@ title: "Compost Tea Application Rates and Timing"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
-  - "Elaine Ingham, The Field Guide for Actively Aerated Compost Tea"
+  - "Elaine Ingham, The Field Guide for Actively actively-aerated-compost-tea Tea"
 type: concept
 tags: [composting]
 ---
@@ -23,7 +23,7 @@ Proper application rates and timing are essential for AACT effectiveness. Compos
 ## Application Timing Calendar
 
 ### Spring
-- **Two weeks before bud break**: First foliar application of the season
+- **Two weeks before bud break**: First [[ultra-low-cost-foliar-application-methods]] of the season
 - **Soil drench**: Wait until soil is warm enough for organisms to grow; cold-loving bacteria and select fungi wake in winter but take 2-3 weeks to activate
 
 ### Growing Season (First Year)
@@ -55,7 +55,7 @@ Proper application rates and timing are essential for AACT effectiveness. Compos
 - If disease is rampant, fungal microorganisms become critical
 - Apply a minimum of once a month, more like every 10-14 days depending on disease severity
 - Fungi must be at least 5% of the 70% total leaf coverage for full protection
-- Coverage is the main agent of disease prevention: if beneficial organisms already occupy the leaf surface, pathogens cannot push them out
+- Coverage is the main agent of [[cervantes-pest-disease-prevention-overview]]: if beneficial organisms already occupy the leaf surface, pathogens cannot push them out
 
 ### Soil Drench
 - If soil is too fungal, apply bacterial tea
@@ -70,11 +70,11 @@ Organisms need about 20 minutes to attach to leaf surfaces. After that, they sti
 
 - **Aloe vera**: Effective but avoid the layer of plant material right next to the leaf (detrimental to life; may have pest-repellent properties)
 - **Saponin and Nu-Film**: Work well; fungi like both. Get preservative-free versions. Nu-Film is pine sap and must be diluted before adding to tea
-- **Fish hydrolysate**: Can be a sticker but watch concentration; too much oil smothers
+- **[[comparison-fish-hydrolysate-vs-fish-emulsion]]**: Can be a sticker but watch concentration; too much oil smothers
 - **Unsulphured molasses**: 5% concentration sticks well AND provides fungal growth. Must be unsulphured without preservatives (sulfur and benzoate are preservatives)
 - **Lignin, yucca, pine sap**: Also effective rain sticker-spreaders
 
-For soil drenches, no sticker is needed; organisms hold up on organic matter and begin retaining nutrients.
+For soil drenches, no sticker is needed; organisms hold up on [[hamilton-composting-and-organic-matter-management]] and begin retaining nutrients.
 
 ## Frequency Considerations
 
@@ -96,7 +96,7 @@ The main agent of protection against diseases like black spot is coverage. If be
 
 - If the first application doesn't show results, suspect the tea quality or application method
 - Tea made correctly cannot be detrimental to plants
-- The primary benefit of AACT is disease suppression, second is soil tilth improvement, third is plant nutrition
+- The primary benefit of AACT is [[aact-disease-suppression-mechanisms-ingham]], second is soil tilth improvement, third is plant nutrition
 - Overnight improvement in plant color and disease prevention is common when the tea has the right organisms
 - If plants are already healthy, tea acts as a preventative; dramatic changes may not be apparent
 - Be specific about the disease being targeted and which organisms are needed to combat it
@@ -107,7 +107,7 @@ Citric acid kills some organisms at low concentrations and is used to reduce E. 
 
 ## See Also
 
-- [[hamilton-compost-bins-and-containers]]
+- hamilton-compost-bins-and-containers
 
 - [[ingham-compost-tea-recipe-ratios]]
 
@@ -115,4 +115,4 @@ Citric acid kills some organisms at low concentrations and is used to reduce E. 
 - [[aact-compost-quality-standards-ingham]]
 - [[ingham-aact-disease-suppression]]
 - [[ingham-foliar-pest-deterrence-aact]]
-- [[fungi-in-the-environment-fungal-organic-pollution-degradation]]
+- fungi-in-the-environment-fungal-organic-pollution-degradation

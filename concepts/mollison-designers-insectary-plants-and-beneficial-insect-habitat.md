@@ -1,5 +1,5 @@
 ---
-title: Insectary Plants and Beneficial Insect Habitat
+title: Insectary Plants and comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol Habitat
 created: 2026-04-28
 tags:
   - permaculture
@@ -17,7 +17,7 @@ type: concept
 # Insectary Plants and [[permaculture-design]]. Rather than relying on pesticides, permaculture systems
 support populations of predatory and parasitic insects that regulate pest
 species naturally. Mollison emphasises that the most effective pest management
-strategy is to create conditions where beneficial insects thrive in sufficient
+strategy is to create conditions where [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] thrive in sufficient
 numbers to keep pest populations below economic damage thresholds.
 
 ## The Role of Beneficial Insects
@@ -26,7 +26,7 @@ Beneficial insects fall into two categories: predators that directly consume
 pests, and parasitoids that lay eggs in or on pest species. Predators include
 ladybirds (aphid predators), lacewings (aphids, thrips, mites), hoverfly
 larvae (aphids), ground beetles (slugs, caterpillars), damsel bugs (aphids,
-caterpillars), and predatory mites (spider mites). Parasitoids include various
+caterpillars), and [[comparison-predatory-mites-vs-ladybugs-biocontrol]] (spider mites). Parasitoids include various
 wasp species that attack caterpillars, whitefly, aphids, and other pests.
 
 Pollinators are equally essential. Honeybees, native bees, hoverflies, and
@@ -52,7 +52,7 @@ pollinators. Successive sowings extend the bloom period through the season.
 
 **Aster family:** Yarrow, calendula, marigold, sunflower, daisy, chamomile,
 and echinacea provide abundant nectar and pollen. Yarrow is particularly
-valuable for its long bloom period and drought tolerance. Marigolds produce
+valuable for its long bloom period and [[dighton-fungal-drought-tolerance-plant-water-relations]]. Marigolds produce
 compounds that repel certain soil nematodes.
 
 **Legumes:** Clover, vetch, lucerne, and sweet pea provide nectar for
@@ -76,7 +76,7 @@ Beetle banks are raised earth mounds, typically 0.4 to 0.5 metres high and
 1.5 to 2 metres wide, planted with tussock-forming grasses and perennial
 herbs. They run through or alongside arable fields, providing permanent
 habitat for ground beetles, spiders, and other overwintering predators that
-move into crops to hunt pests during the growing season.
+move into crops to hunt pests during the [[savory-growing-season-and-non-growing-season-management]].
 
 Beetle banks are positioned to avoid interfering with machinery operations,
 typically along field margins or across the centre of large fields. They are
@@ -88,7 +88,7 @@ cropping areas.
 ## Hedgerow Insectaries
 
 Perennial hedgerows planted with a diverse mixture of flowering shrubs and
-trees provide year-round habitat for beneficial insects. In temperate
+trees provide year-round [[query-how-do-i-design-habitat-for-beneficial-insects]] insects. In temperate
 climates, hedgerow species might include: hawthorn, blackthorn, dogwood,
 elderberry, hazel, willow, and guelder rose, underplanted with dog daisies,
 hogweed, and nettle patches. Nettles in particular support large populations
@@ -127,5 +127,7 @@ beds. The principle is universal: every production system benefits from
 adjacent habitat for beneficial organisms.
 
 ## See Also
+
+- [[mollison-designers-internet-of-plants-information-sharing]]
 
 - [[hemenway-insectary-plants-and-beneficial-insects]]

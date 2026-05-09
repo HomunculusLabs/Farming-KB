@@ -35,7 +35,7 @@ DXM is the dextrorotatory enantiomer of levomethorphan and has no significant af
 - **Appearance:** White crystalline powder
 - **Solubility:** Soluble in water, ethanol, and chloroform
 
-DXM is structurally related to the opioid class (morphinan scaffold) but lacks the phenolic hydroxyl group at the 3-position that is critical for opioid receptor binding. This structural difference confers its non-opioid pharmacological profile.
+DXM is structurally related to the opioid class (morphinan scaffold) but lacks the phenolic hydroxyl group at the 3-position that is critical for opioid [[tihkal-receptor-binding-serotonin]]. This structural difference confers its non-opioid pharmacological profile.
 
 The drug is metabolized primarily by cytochrome P450 2D6 (CYP2D6) to dextrorphan (DXO), which has greater NMDA antagonist potency than the parent compound. Genetic polymorphisms in CYP2D6 produce significant inter-individual variation in metabolism and response.
 
@@ -56,7 +56,7 @@ DXM produces qualitatively different effects at escalating doses, described by r
 
 - **First plateau (100–200 mg):** Mild stimulation, light intoxication, enhanced music appreciation, subtle body sensations. Analogous to low-dose alcohol or cannabis.
 - **Second plateau (200–400 mg):** Euphoria, increased sociability, mild dissociation, floating sensation, altered time perception. Some visual distortions.
-- **Third plateau (400–600 mg):** Strong dissociation, impaired motor coordination, significant visual hallucinations, ego dissolution, disorientation. Walking becomes difficult.
+- **Third plateau (400–600 mg):** Strong dissociation, impaired motor coordination, significant visual hallucinations, [[psilocybin-ego-dissolution-mechanisms]], disorientation. Walking becomes difficult.
 - **Fourth plateau (600–1500 mg):** Complete dissociation, near-comatose state, profound hallucinations, out-of-body experiences. Dangerous without a sober sitter.
 
 Effects typically onset within 30–60 minutes and last 4–8 hours depending on formulation. Extended-release preparations (polistirex) produce longer, smoother effects.
@@ -85,7 +85,7 @@ The 2024 DEA review considered scheduling DXM but ultimately did not recommend i
 
 ## Recreational Use and Culture
 
-Non-medical use of DXM has been documented since the 1960s, with significant increases in prevalence during the 1990s and 2000s internet era. Online communities developed extensive documentation of dosing protocols, harm reduction practices, and extraction methods.
+Non-medical use of DXM has been documented since the 1960s, with significant increases in prevalence during the 1990s and 2000s internet era. Online communities developed extensive documentation of dosing protocols, [[adverse-effects-and-harm-reduction-psilocybin]] practices, and extraction methods.
 
 The term "robotripping" (from Robitussin) became widely recognized in popular culture. DXM gained a reputation as an accessible but unpredictable dissociative, with effects varying dramatically based on individual CYP2D6 metabolism, formulation, and dose.
 

@@ -1,5 +1,5 @@
 ---
-title: Hyoscyamus niger
+title: henbane-hyoscyamus-niger-ethnobotany
 created: 2026-04-28
 type: species
 tags: [solanaceae, tropane-alkaloids, hallucinogen, medicinal, ethnobotany]
@@ -14,7 +14,7 @@ sources:
 **Henbane** is a biennial or annual plant in the nightshade family (Solanaceae),
 native to Europe, northern Africa, and western and central Asia. It is one of
 approximately 20 species in the genus *Hyoscyamus*. Henbane has a long and
-notorious history as a hallucinogenic and toxic plant, deeply embedded [[neurotropic-fungi-in-north-america]], Australia, and other temperate regions. The plant grows
+notorious history as a hallucinogenic and toxic plant, deeply embedded neurotropic-fungi-in-north-america, Australia, and other temperate regions. The plant grows
 readily in disturbed soils, waste ground, along roadsides and railway
 embankments, near cultivated fields, and in rubble and debris. It prefers
 well-drained, nitrogen-rich soils and full sun but tolerates partial shade.
@@ -26,11 +26,11 @@ and *H. niger* subsp. *albus* (biennial, with white flowers).
 The principal active alkaloids of henbane are tropane compounds derived from
 the amino acids ornithine and phenylalanine via the intermediate tropinone:
 
-- **Hyoscyamine** — the dominant alkaloid, comprising 0.03 to 0.28% of the
+- **[[hyoscyamine]]** — the dominant alkaloid, comprising 0.03 to 0.28% of the
   dry plant weight; a competitive antagonist at muscarinic acetylcholine
   receptors, producing anticholinergic effects throughout the autonomic
   nervous system
-- **Scopolamine** (hyoscine) — present in significant quantities (up to 0.07%
+- **[[scopolamine]]** (hyoscine) — present in significant quantities (up to 0.07%
   in some populations), a more potently hallucinogenic tropane alkaloid due to
   its greater ability to cross the blood-brain barrier
 - **Atropine** — a racemic mixture of D- and L-hyoscyamine, present in
@@ -51,7 +51,7 @@ seeds and leaves, with lower concentrations in stems and roots.
 ## Historical and Ethnobotanical Uses
 
 Henbane was one of the most frequently included plants in the so-called
-witches' brews [[arthur-mushroom-iconography-medieval-europe]]. These preparations
+witches' brews arthur-mushroom-iconography-medieval-europe. These preparations
 combined henbane with other Solanaceae species such as Atropa
 belladonna, [[datura-stramonium]] to
 produce complex mixtures reported to induce visual hallucinations and the

@@ -10,9 +10,9 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Pérez, M.J. et al. (2020). "Nutritional composition of edible seaweeds." Journal of Applied Phycology, 32(1), 1-15.
+  - Pérez, M.J. et al. (2020). "dighton-fungal-nutritional-composition-animal-diets of edible seaweeds." Journal of Applied Phycology, 32(1), 1-15.
   - Guiry, M.D. & Guiry, G.M. (2025). "Himanthalia elongata." AlgaeBase. National University of Ireland.
-  - Fleurence, J. (2016). "Seaweeds as food." In: Seaweed in Health and Disease Prevention. Academic Press, pp. 149-167.
+  - Fleurence, J. (2016). "Seaweeds as food." In: Seaweed in Health and [[cervantes-pest-disease-prevention-overview]]. Academic Press, pp. 149-167.
   - Jiménez-Escrig, A. et al. (2012). "Dietary fiber and physicochemical properties of edible seaweeds." Food Chemistry, 133(3), 762-768.
 ---
 
@@ -56,7 +56,7 @@ Compared to land vegetables, sea spaghetti offers a higher mineral-to-calorie ra
 
 The amino acid profile includes all essential amino acids, though some (methionine and cysteine) are present in limiting quantities. This positions Himanthalia as a complementary protein source rather than a primary one.
 
-Lipid content is low but includes omega-3 and omega-6 polyunsaturated fatty acids, particularly EPA (eicosapentaenoic acid). These contribute to the species' anti-inflammatory profile.
+Lipid content is low but includes omega-3 and omega-6 polyunsaturated [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]], particularly EPA (eicosapentaenoic acid). These contribute to the species' anti-inflammatory profile.
 
 ## Culinary Use
 
@@ -72,7 +72,7 @@ The species has received EU Novel Food approval and is available dried, canned, 
 
 Himanthalia plays an important ecological role on rocky intertidal shores. Its dense frond beds provide habitat and shelter for numerous invertebrates, juvenile fish, and other algae. The holdfasts create micro-refugia for small crustaceans and gastropods.
 
-The species is a primary producer in the intertidal food web, contributing organic matter through both direct grazing and detrital pathways. Seasonal frond shedding generates substantial detritus that supports benthic communities.
+The species is a primary producer in the intertidal food web, contributing [[hamilton-composting-and-organic-matter-management]] through both direct grazing and detrital pathways. Seasonal frond shedding generates substantial detritus that supports benthic communities.
 
 Limpets, periwinkles, and small crustaceans graze directly on the frond surfaces. The alga's production of dimethyl sulfide (DMS) may play a role in cloud formation above coastal areas, contributing to broader climate regulation processes.
 
@@ -86,7 +86,7 @@ Several bioactive compounds isolated from Himanthalia elongata have attracted re
 
 Alginates from sea spaghetti have demonstrated cholesterol-lowering effects in animal studies by binding bile acids in the digestive tract. The high soluble fiber content also supports glycemic regulation, making it relevant for metabolic health research.
 
-Phenolic compounds, particularly phlorotannins, contribute significant antioxidant capacity. These polyphenols scavenge free radicals and reduce oxidative stress markers in cell culture models. Extracts have shown potential anti-proliferative activity against certain cancer cell lines.
+Phenolic compounds, particularly phlorotannins, contribute significant antioxidant capacity. These polyphenols scavenge free radicals and reduce [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] markers in cell culture models. Extracts have shown potential anti-proliferative activity against certain cancer cell lines.
 
 Recent research has explored Himanthalia as a functional food ingredient. Incorporation into bread, pasta, and snack formulations has been studied for both nutritional enhancement and textural effects. Challenges include managing the alga's high mineral content and potential bitterness.
 
@@ -98,7 +98,7 @@ The species is classified as Least Concern on the IUCN Red List due to its wide 
 
 Sustainable harvesting practices recommend cutting fronds at least 10 cm above the holdfast, leaving the basal "button" intact for regeneration. Harvesters are advised to rotate collection sites and avoid taking more than 50% of fronds from any given bed.
 
-Climate change poses a longer-term threat through ocean warming and acidification. Rising sea temperatures may shift the species' southern range limit northward, while acidification could affect calcification of associated organisms in the same habitat.
+[[dighton-fungi-climate-change-feedback]] poses a longer-term threat through ocean warming and acidification. Rising sea temperatures may shift the species' southern range limit northward, while acidification could affect calcification of associated organisms in the same habitat.
 
 ## See Also
 

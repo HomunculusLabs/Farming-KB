@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-**Source:** The Cannabis Health Index (Uwe Blesching) | **CHI:** 15 | **Studies:** 6 | **Updated:** 2026-04-18
+**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]] (Uwe Blesching) | **CHI:** 15 | **Studies:** 6 | **Updated:** 2026-04-18
 
 ## Overview
 
@@ -49,7 +49,7 @@ Six studies support cannabis for ADHD — notably the highest CHI value among ps
 
 **National Survey Data (2014, Albany, New York)**
 - 2,811 cannabis users: daily users self-medicated for hyperactive-impulsive symptoms of ADHD
-- Findings indirectly support cannabinoid receptor involvement in regulatory control
+- Findings indirectly support [[cannabis-cannabinoid-receptor-pharmacology]] involvement in regulatory control
 - CHI contribution: 3
 
 **Gender Differences (2013, UC Irvine)**
@@ -72,7 +72,7 @@ Six studies support cannabis for ADHD — notably the highest CHI value among ps
 ## Conventional Treatment Concerns
 
 - Standard ADHD medications (Adderall, Desoxyn, Ritalin, Strattera) are essentially legal stimulants
-- Adverse effects include: lack of appetite, insomnia, tics, psychotic episodes, cardiovascular problems
+- [[blesching-cannabis-safety-adverse-effects-evidence]] include: lack of appetite, insomnia, tics, psychotic episodes, cardiovascular problems
 - High risk for abuse and addiction
 - Cannabis may offer a lower-risk alternative with fewer adverse effects
 

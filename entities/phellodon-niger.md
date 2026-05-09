@@ -28,9 +28,9 @@ partnerships in temperate and boreal forest ecosystems.
 The species is recognized by its dark, funnel-shaped fruiting body with a black
 undersurface bearing spiny teeth, and its distinctive spicy or peppery odor.
 
-P. niger is found across Europe and parts of North America, though it is
+P. niger is found across Europe and parts of [[psilocybin-north-america-pacific-northwest]], though it is
 uncommon and considered threatened in several European countries due to habitat
-loss and air pollution impacts on mycorrhizal networks.
+loss and air pollution impacts on [[dighton-mycorrhizal-networks-carbon-transfer]].
 
 ## Taxonomy
 
@@ -94,19 +94,19 @@ Germany, the Netherlands, and parts of Scandinavia.
 
 As an ectomycorrhizal fungus, P. niger forms symbiotic associations with tree
 roots, exchanging mineral nutrients and water for photosynthetic carbon from
-its host. It plays a role in forest nutrient cycling and tree health.
+its host. It plays a role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and tree health.
 
 Species in the genus Phellodon are known to form long-lived, persistent
 ectomycorrhizal connections that contribute to belowground carbon storage and
-inter-tree resource sharing through common mycorrhizal networks.
+inter-tree [[mycelial-network-resource-sharing-plants]] through common mycorrhizal networks.
 
-P. niger is sensitive to atmospheric nitrogen deposition and habitat
+P. niger is sensitive to atmospheric [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] and habitat
 disturbance, making it a potential bioindicator of forest ecosystem health and
 continuity.
 
 ## Bioactive Compounds
 
-Phellodon species are known to produce bioactive secondary metabolites including
+Phellodon species are known to produce bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]] including
 thelephoric acid, a pigment compound with reported antioxidant and
 anti-inflammatory properties.
 

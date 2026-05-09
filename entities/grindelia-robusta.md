@@ -26,14 +26,14 @@ sources:
   - Moore, M. (1989). Medicinal Plants of the Pacific West. Red Crane Books.
   - Kember, M. et al. (2012). "Grindelia (Asteraceae): A review of its chemistry, pharmacology, and ethnobotany." Journal of Ethnopharmacology, 141(1), 419-434.
   - USDA NRCS. "Grindelia robusta." PLANTS Database. https://plants.usda.gov/
-  - Foster, S. & Duke, J.A. (2013). Peterson Field Guide to Medicinal Plants. Houghton Mifflin Harcourt.
+  - Foster, S. & Duke, J.A. (2013). Peterson [[ghouled-field-guide-historical-context]] to Medicinal Plants. Houghton Mifflin Harcourt.
   - Timmons, F.L. (1949). "The distribution and economic importance of Grindelia species." Economic Botany, 3(1), 71-94.
 created: 2026-04-28
 ---
 
 ## Overview
 
-*Grindelia robusta*, commonly known as gumweed, is a perennial herbaceous plant in the family Asteraceae, native to western North America from California to British Columbia.
+*Grindelia robusta*, commonly known as gumweed, is a perennial herbaceous plant in the family Asteraceae, native to western [[psilocybin-north-america-pacific-northwest]] from California to British Columbia.
 
 The species is distinguished by its bright yellow composite flower heads and copious sticky, resinous exudate (gum) that coats the flower buds, giving the plant its common name.
 
@@ -59,13 +59,13 @@ Flower heads are 1.5–3 cm in diameter, composed of yellow ray florets surround
 
 It is commonly found in grasslands, coastal bluffs, roadsides, disturbed areas, and open woodlands at elevations from sea level to approximately 1,500 meters.
 
-The species tolerates a wide range of soil conditions, from sandy coastal soils to heavy clays, and exhibits moderate salt tolerance. It is a pioneer species that readily colonizes disturbed ground.
+The species tolerates a wide range of soil conditions, from sandy coastal soils to heavy clays, and exhibits moderate [[fungal-salt-tolerance-and-ion-homeostasis]]. It is a pioneer species that readily colonizes disturbed ground.
 
 In parts of its range, particularly California's Central Valley and coastal grasslands, gumweed can form extensive stands, contributing to both forage availability and ecosystem diversity.
 
 ## Bioactive Compounds and Pharmacology
 
-The primary bioactive constituents include grindelic acid and related diterpenes (grindelane skeleton), flavonoids (quercetin, kaempferol derivatives), and essential oils rich in monoterpenes and sesquiterpenes.
+The primary bioactive constituents include grindelic acid and related diterpenes (grindelane skeleton), flavonoids (quercetin, kaempferol derivatives), and [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] rich in monoterpenes and sesquiterpenes.
 
 ### Grindelic Acid
 
@@ -97,11 +97,11 @@ The plant prefers full sun and well-drained soils but tolerates poor, rocky, or 
 
 Spacing of 30–45 cm between plants is recommended. Flowering occurs from mid-summer through early autumn. Harvesting the resinous flower buds at the green stage maximizes medicinal yield.
 
-The species is generally pest-free and not palatable to deer or livestock. Its low maintenance requirements and drought tolerance make it suitable for xeriscaping and ecological restoration projects.
+The species is generally pest-free and not palatable to deer or livestock. Its low maintenance requirements and [[dighton-fungal-drought-tolerance-plant-water-relations]] make it suitable for xeriscaping and ecological restoration projects.
 
 ## Ecological Role
 
-Gumweed provides important late-season nectar and pollen resources for native bees, butterflies, and other pollinators. The resinous flowers are particularly attractive to bumblebees and hoverflies.
+Gumweed provides important late-season nectar and pollen resources for [[query-how-to-attract-native-bees-and-beneficial-insects]], butterflies, and other pollinators. The resinous flowers are particularly attractive to bumblebees and hoverflies.
 
 The plant serves as a host for several native insect species and provides cover for small wildlife. Its pioneer species ecology makes it valuable for stabilizing disturbed soils and preventing erosion on degraded sites.
 

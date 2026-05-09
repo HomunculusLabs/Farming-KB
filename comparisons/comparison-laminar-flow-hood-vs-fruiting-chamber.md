@@ -1,5 +1,5 @@
 ---
-title: "Laminar Flow Hood vs Fruiting Chamber"
+title: "Laminar Flow Hood vs gottlieb-psilocybin-cultivation-fruiting-chamber-design"
 created: 2026-04-28
 tags: [comparison, mushroom-cultivation, sterile-technique, equipment, mycology]
 date: 2026-04-25
@@ -15,17 +15,17 @@ type: comparison
 Laminar flow hoods and fruiting chambers serve different but complementary functions in mushroom
 cultivation. A laminar flow hood provides a sterile workspace for clean operations — agar work,
 grain-to-grain transfers, inoculation, and tissue culture — by blowing HEPA-filtered air across
-the work surface. A fruiting chamber provides a controlled environment for mushroom pinning and
+the work surface. A fruiting chamber provides a controlled environment for [[oyster-mushroom-pinning-induction-fruiting-conditions]] and
 fruiting body development by managing humidity, fresh air exchange, temperature, and light. They
 are not alternatives but rather sequential tools: the hood ensures clean culture preparation,
 and the fruiting chamber provides optimal conditions for the crop to mature.
 
 ## Laminar Flow Hood
-[[fruiting-chamber-design]]
+fruiting-chamber-design
 A fruiting chamber is any enclosed space designed to maintain the environmental conditions that
-trigger and support mushroom fruiting: high humidity (85-100%), regular fresh air exchange (2-6
+trigger and support [[ectomycorrhizal-mushroom-fruiting-ecology]]: high humidity (85-100%), regular fresh air exchange (2-6
 air changes per hour), appropriate temperature (species-dependent), gentle air circulation, and
-12-hour on/off lighting cycles. Designs range from simple unmodified tubs and shotgun fruiting
+12-hour on/off lighting cycles. Designs range from simple unmodified tubs and [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]]
 chambers at the home scale to insulated, HVAC-equipped commercial grow rooms with automated CO2
 monitoring and fog humidification. The five environmental parameters must be balanced
 simultaneously, as changing one affects the others.
@@ -34,12 +34,12 @@ Fruiting chambers are essential because the transition from vegetative mycelial 
 reproductive fruiting requires specific environmental triggers that differ by species. Shiitake
 needs a cold shock and high humidity; oysters need very high fresh air exchange; Psilocybe
 cubensis needs high humidity with moderate air exchange. Proper chamber design prevents common
-problems including overlay (mycelium overgrowth of the casing surface), bacterial blotch (from
+problems including overlay (mycelium overgrowth of the casing surface), [[growing-gourmet-bacterial-blotch-disease-management]] (from
 wet surfaces), stunted or deformed mushrooms (from high CO2), and drying (from insufficient
 humidity). The science of environmental balance is well-documented through Stamets' work and
 decades of cultivator experience.
 
-The limitations of fruiting chambers include the cost and complexity of environmental control at
+The limitations of fruiting chambers include the cost and complexity of [[eclss-environmental-control-life-support]] at
 scale, the delicate balance between humidity, FAE, and temperature (changing one variable
 affects the others), and the steep learning curve for managing chamber dynamics. Passive
 home-scale chambers require frequent manual monitoring and adjustment. Equipment failure
@@ -92,4 +92,7 @@ between the sterile workspace and the fruiting environment.
 ## See Also
 - [[comparison-martha-tent-vs-monotub]]
 - [[laminar-flow-hood-guide]]
-- [[fruiting-chamber-design]]
+- fruiting-chamber-design
+- [[shotgun-fruiting-chamber]]
+- [[fruiting-chamber]]
+- [[spawn-production]]

@@ -1,5 +1,5 @@
 ---
-title: Beneficial Insects and Ecological Pest Control
+title: comparison-beneficial-insects-guide-vs-integrated-pest-management and Ecological Pest Control
 created: 2026-04-28
 tags:
   - pest-control
@@ -16,13 +16,13 @@ type: concept
 
 # Beneficial Insects and Ecological Pest Control
 
-Eliot Coleman's approach to pest management is rooted in the ecological
+Eliot Coleman's approach to [[cannabis-pest-management-guide]] is rooted in the ecological
 principles articulated by Lady Eve Balfour and Aldo Leopold: create the
 conditions for natural biological balance, and pest problems will
-minimize themselves. In the winter greenhouse, this philosophy proves
-remarkably effective, as insects and diseases have "not been a real
-consideration" in his winter harvest system. His method prioritizes
-prevention through superior soil and crop management over any form of
+minimize themselves. In the [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]], this philosophy proves
+remarkably effective, as [[solomon-insects-and-diseases-integrated-approach]] have "not been a real
+consideration" in his [[coleman-claytonia-winter-harvest-cultivation]] system. His method prioritizes
+prevention through superior soil and [[mushroom-crop-management-flush-harvesting]] over any form of
 direct pest intervention.
 
 ## The Ideal of Biological Balance
@@ -112,6 +112,8 @@ recognized as far more scientific" than the symptomatic treatments of
 conventional agriculture.
 
 ## Related
+
+- falconer-slug-and-wood-lice-pest-control
 
 - [[coleman-pest-management]] — broader pest management strategies
 - [[coleman-drip-irrigation-and-water-management]] — irrigation as a

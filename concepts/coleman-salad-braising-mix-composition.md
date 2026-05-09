@@ -5,7 +5,7 @@
 
 [[salad-crops-growing-guide]] are far more cold tolerant than mature ones. This means the grower can harvest tender, delicate, nutritionally dense greens during months when most farms have nothing fresh to sell—a powerful competitive advantage.
 
-The distinction between salad mix and braising mix also reflects a deep understanding of culinary use. Rather than offering a generic "mixed greens" product, Coleman designed two distinct products for two distinct purposes, each with its own quality standards and ingredient palette. This segmentation allows the grower to use a wider range of crops, reduce waste, and serve different customer preferences from the same production base.
+The distinction between salad mix and braising mix also reflects a deep understanding of culinary use. Rather than offering a generic "mixed greens" product, Coleman designed two distinct products for two distinct purposes, each with its own [[aact-compost-quality-standards-ingham]] and ingredient palette. This segmentation allows the grower to use a wider range of crops, reduce waste, and serve different customer preferences from the same production base.
 
 ## The Baby-Leaf Salad Mix
 
@@ -41,10 +41,10 @@ Coleman used specific cultivars chosen for winter performance:
 
 ## See Also
 
-- coleman cold hardy crop selection — Full list of winter-hardy varieties
+- coleman cold hardy [[cover-crop-selection-guide]] — Full list of winter-hardy varieties
 - [[organic-farming-history]] — Soil fertility for quality winter greens
 - coleman overwintered spinach — The backbone winter crop
-- coleman succession planting second spring — Timing succession plantings for mix continuity
+- coleman [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] [[coleman-second-spring-august-planting-window]] — Timing succession plantings for mix continuity
 - winter mesclun varieties — Variety selection for winter salad mixes
 - coleman value added products — Marketing innovations like the Stir-Fry Pak
 - asian greens winter production — Detailed guide to winter Asian greens cultivation
@@ -55,7 +55,7 @@ Coleman used specific cultivars chosen for winter performance:
 - baby leaf harvest technique — Cut-and-come-again methods for mixed greens
 ## Practical Considerations
 
-When working with Coleman Salad Braising Mix Composition, several practical factors should be
+When working with Coleman coleman salad braising mix composition Mix Composition, several practical factors should be
 carefully considered to achieve optimal results. These include
 the specific conditions of the implementation context, available
 resources, timing requirements, and the interactions between this
@@ -69,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

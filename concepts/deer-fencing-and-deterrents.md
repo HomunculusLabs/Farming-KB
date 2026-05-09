@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, pest-control, pest-management, permaculture, plants]
-sources: []
+sources:
+  sources: []
 ---
 
 # Deer Fencing and Deterrents
@@ -113,8 +114,8 @@ No plant is completely deer-proof, but many are strongly avoided. Incorporating 
 
 **Frequently browsed (avoid near fence lines):**
 - Hostas, daylilies, tulips
-- Apple trees, fruit trees (young)
-- Beans, lettuce, strawberries, sweet corn
+- Apple trees, [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] (young)
+- Beans, lettuce, strawberries, [[growing-sweet-corn-organically]]
 
 ## Seasonal Pressure Management
 
@@ -137,18 +138,13 @@ No plant is completely deer-proof, but many are strongly avoided. Incorporating 
 - Heavy browsing on evergreens and woody plants
 - Wrap young tree trunks with hardware cloth
 - Stack brush piles near fence lines to provide alternative forage
-- Consider temporary supplemental feeding (where legal) to divert pressure
+- Consider temporary [[savory-supplemental-feeding-and-winter-management]] (where legal) to divert pressure
 
 ## Integration with Homestead Design
 
 - Place high-value crops (vegetables, orchard) in the most protected zone
-- Use deer-resistant plants as a buffer zone around the garden perimeter
-- Combine fencing with [[homestead-permaculture-design]] zone planning — intensive zones get the best fencing
-- [[cover-crop-quick-reference]] with deer-resistant species like winter rye or crimson clover
-- Integrate livestock guardian dogs into your [[goat-husbandry]] plan for both deer and predator deterrence
-
 ## Related Concepts
 
 - [[homestead-permaculture-design]] — Zone-based design integrating fencing into overall homestead layout
-- [[fungal-pest-control]] — Broader integrated pest management strategies for the homestead
+- [[fungal-pest-control]] — Broader [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management strategies for the homestead
 - [[goat-husbandry]] — Livestock guardian animals for multi-purpose protection

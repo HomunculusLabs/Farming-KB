@@ -19,7 +19,7 @@ and directions constitutes a genuine form of vision. [[phototropism]]
 - **Visible light** (400–700 nm): The primary photosynthetically active
   radiation range
 - **Far-red light** (700–800 nm): Beyond human vision; plants use it for
-  shade detection and neighbor sensing
+  [[phytochrome-red-far-red-ratio-shade-detection-plants]] and neighbor sensing
 - **Infrared**: Primarily sensed as thermal radiation affecting metabolism
 
 ## Human Photoreceptors vs. Plant Photoreceptors
@@ -39,7 +39,7 @@ different wavelengths:
 
 - **Phytochromes**: Detect red (660 nm) and far-red (730 nm) light.
   Exist in two interconvertible forms: Pr (absorbs red) and Pfr (absorbs
-  far-red). Critical for seed germination, shade avoidance, and flowering
+  far-red). Critical for [[cannabis-seed-germination-methods]], shade avoidance, and flowering
   time regulation.
 - **Cryptochromes**: Blue-light receptors involved in circadian rhythm
   regulation, de-etiolation, and phototropism.
@@ -64,7 +64,7 @@ shoot.
 Plants measure total light quantity (irradiance) and adjust their physiology
 accordingly:
 
-- Low light (shade): Increase leaf surface area, reduce root:shoot ratio,
+- [[darkness-low-light-facilitation-entheogenic-ceremonies]] (shade): Increase [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] area, reduce root:shoot ratio,
   stretch stems to reach light
 - High light (sun): Develop thicker leaves, increase protective pigments,
   adjust photosynthetic machinery
@@ -73,7 +73,7 @@ accordingly:
 
 ### Light Duration (Photoperiod)
 
-Plants measure day length to coordinate seasonal activities:
+Plants measure [[coleman-winter-day-length-and-persephone-months]] to coordinate seasonal activities:
 
 - **Long-day plants** flower when days exceed a critical length
 - **Short-day plants** flower when days fall below a critical length
@@ -87,7 +87,7 @@ Plants distinguish between wavelengths to assess their environment:
 - High red:far-red ratio indicates open sky (no competing vegetation)
 - Low red:far-red ratio indicates shade from other plants (chlorophyll
   absorbs red but transmits/reflects far-red)
-- Blue light indicates unshaded conditions; absence of blue triggers
+- [[chamovitz-julius-von-sachs-blue-light-phototropism]] indicates unshaded conditions; absence of blue triggers
   shade avoidance responses
 
 ## Photomorphogenesis
@@ -105,5 +105,6 @@ directional growth:
 
 ## See Also
 
-- [[phytochrome-and-shade-avoidance]]
+- phytochrome-and-shade-avoidance
 - [[plant-memory]]
+- [[plant-photoreception-and-phototropism]]

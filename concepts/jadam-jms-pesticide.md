@@ -11,23 +11,23 @@ sources:
 # JMS Pesticide (JADAM Recipe #11)
 
 **Updated:** 2026-04-18
-**Source:** JADAM Organic Farming, pp.298-300, 320 (Youngsang Cho, 2016)
+**Source:** JADAM [[coleman-deep-organic-farming-philosophy]], pp.298-300, 320 (Youngsang Cho, 2016)
 
 ## Overview
 
 JADAM pesticide recipe #11 uses [[jadam-microorganism-solution-jms]] 20 L (5.3 gal)
-- Jerusalem artichoke [[jadam-herb-solution-jhs]] 5 L (1.3 gal)
+- [[comparison-jerusalem-artichoke-vs-potato]] [[jadam-herb-solution-jhs]] 5 L (1.3 gal)
 - [[jadam-sulfur-js]] |
 | Pest occurs | Replace JMS and ginkgo JHS with KPFR JHS |
 
 ### Strengthening
 - Increase JWA and JHS to strengthen pesticidal effect
-- Add 0.5 kg (1.1 lb) fine red clay powder for higher effect
+- Add 0.5 kg (1.1 lb) fine [[jadam-red-clay-powder-method]] powder for higher effect
 
 ## JMS Usage Rules
 
 ### Critical: Do Not Exceed 20 L
-- Over 20 L (5.3 gal) of JMS will break down JWA
+- Over 20 L (5.3 gal) of JMS will [[query-can-fungi-break-down-plastic-pollution]] JWA
 - Without effective JWA, microorganisms will not coat evenly
 - This leaves marks on plants and reduces effectiveness
 
@@ -37,13 +37,13 @@ JADAM pesticide recipe #11 uses [[jadam-microorganism-solution-jms]] 20 L (5.3 g
 - Peak state lasts approximately 12 hours
 
 ### Water Quality
-- Use soft water to culture JMS for foliar application
+- Use soft water to culture JMS for [[ultra-low-cost-foliar-application-methods]]
 - Use JWA to ensure even coating on plant surfaces
 - Without JWA, JMS alone is less effective and leaves marks
 
 ## Diseases and Pests Prevented
 
-- Powdery mildew on strawberry and cucumber
+- [[cervantes-powdery-mildew-prevention-treatment]] on strawberry and cucumber
 - Leaf fungus on tomato
 - Moth larvae (genus Dichocrocis, Cabera)
 - Cotton aphid
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

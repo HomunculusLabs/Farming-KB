@@ -23,7 +23,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
 - **Species:** T. mongolicum
 
 The species was described from specimens collected in the Mongolian steppe ecosystem. It is one of several Tricholoma species used in traditional medicine across Asia, alongside the well-known [[lentinan]] from [[schizophyllan]] from [[tricholoma-matsutake]] — the most commercially valued Tricholoma species
-- [[lentinan]] — benchmark beta-glucan immunomodulator from [[ganoderma-lucidum]] — widely studied medicinal mushroom with similar immunomodulatory properties
+- [[lentinan]] — benchmark beta-glucan immunomodulator from [[ganoderma-lucidum]] — widely studied [[gourmet-medicinal-mushroom-casing-layer-techniques]] with similar immunomodulatory properties
 ## Practical Applications
 
 Tricholoma mongolicum has a range of practical applications that make it relevant to
@@ -101,4 +101,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

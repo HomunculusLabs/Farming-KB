@@ -1,5 +1,5 @@
 ---
-title: "Green Mold Disease in Oyster Mushrooms"
+title: "Green Mold Disease in query-how-to-grow-oyster-mushrooms-at-home"
 created: 2026-04-28
 tags: [disease, contamination, trichoderma, green-mold]
 date: 2026-04-28
@@ -14,8 +14,8 @@ Green mold disease is one of the most serious threats to oyster mushroom
 cultivation worldwide. Caused primarily by Trichoderma species and related
 fungi, it can devastate entire crops if not properly managed. Green mold
 competes directly with mushroom mycelia for substrate nutrients and space,
-often colonizing faster and overwhelming the desired mushroom culture. The
-disease is particularly problematic in poorly managed Oyster Substrate Preparation systems.
+often colonizing faster and overwhelming the desired [[mazatec-mushroom-culture-and-velada]]. The
+disease is particularly problematic in poorly managed Oyster [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] systems.
 
 ## Causal Organisms
 
@@ -30,7 +30,7 @@ The primary causal agents of green mold disease in [[trichoderma-harzianum]]**: 
 
 ## Symptoms and Identification
 
-Green mold appears as dense patches of white mycelial growth on the substrate
+Green mold appears as dense patches of white [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] on the substrate
 surface that later turn green as spores develop. The infection typically
 manifests in several stages:
 
@@ -69,7 +69,7 @@ practices are recommended:
   spawn bottles is a major source of pathogenic spores
 - Ensure thorough pasteurization of substrates at proper temperatures
 - Maintain even moisture content throughout the substrate
-- Observe substrates carefully during hyphal growth; remove or treat any
+- Observe substrates carefully during [[bloomfields-orchard-hyphal-growth-and-invasive-biology]]; remove or treat any
   spot with dense white mycelial growth indicating early green mold
 - Apply 500 ppm Sporgon (prochloraz-manganese complex; 50%) to affected
   spots by spraying or drenching
@@ -92,7 +92,7 @@ disease in terms of lost production and increased chemical control expenses.
 ## Relationship to Substrate Type
 
 The choice of substrate material influences green mold susceptibility.
-Cotton waste substrates tend to harbor more naturally occurring microorganisms
+Cotton [[tropical-mushroom-cultivation-agricultural-waste-substrates-poverty-alleviation]] tend to harbor more naturally occurring microorganisms
 that can compete with Trichoderma, while sawdust-based substrates may be more
 vulnerable due to their lower microbial diversity. Proper [[oyster-straw-substrate-preparation]]
 - [[oyster-brown-blotch-disease]]

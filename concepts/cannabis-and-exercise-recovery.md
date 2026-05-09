@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-The relationship between cannabis use and exercise recovery is an area of growing interest among athletes, fitness enthusiasts, and medical researchers. While cannabis has long been associated with sedentary behavior (the "couch-lock" stereotype), emerging research and extensive anecdotal evidence suggest that cannabinoids can play a meaningful role in post-exercise recovery, pain management, and performance optimization. This guide examines the science, practical applications, and considerations for using cannabis as part of an exercise recovery protocol.
+The relationship between cannabis use and exercise recovery is an area of growing interest among athletes, fitness enthusiasts, and medical researchers. While cannabis has long been associated with sedentary behavior (the "couch-lock" stereotype), emerging research and extensive anecdotal evidence suggest that cannabinoids can play a meaningful role in post-exercise recovery, [[cannabis-pain-management-protocols]], and performance optimization. This guide examines the science, practical applications, and considerations for using cannabis as part of an exercise recovery protocol.
 
 ## The Science of Exercise Recovery
 
@@ -20,7 +20,7 @@ The relationship between cannabis use and exercise recovery is an area of growin
 After exercise, the body undergoes several recovery processes:
 
 - **Inflammation:** Muscle damage from exercise triggers an inflammatory response, causing soreness and swelling
-- **Lactic acid accumulation:** Contributes to muscle fatigue and soreness (though its role is less significant than once believed)
+- **[[bionutrients-lab-lactic-acid-bacteria-serum]] accumulation:** Contributes to muscle fatigue and soreness (though its role is less significant than once believed)
 - **Micro-tears in muscle fibers:** Triggered by resistance training and intense exercise; repair leads to muscle growth
 - **Glycogen depletion:** Muscles deplete stored glycogen during exercise
 - **Hormonal changes:** Cortisol (stress hormone) rises during exercise and gradually returns to baseline
@@ -47,7 +47,7 @@ Cannabinoids have demonstrated significant anti-inflammatory properties:
   - Reduces neutrophil migration to inflamed tissues
 
 - **THC (Tetrahydrocannabinol):** Also anti-inflammatory through:
-  - CB2 receptor activation (regulates immune cell activity)
+  - CB2 receptor activation (regulates [[mushroom-immune-cell-activation-mechanisms]] activity)
   - COX-2 inhibition
   - Reduction of inflammatory cytokines
   - Modulation of immune response
@@ -74,7 +74,7 @@ Quality sleep is critical for recovery, and cannabis can influence it:
 
 - **THC:** Shortens sleep onset, may increase deep sleep. Long-term use may disrupt sleep architecture.
 - **CBD:** May improve sleep quality, particularly anxiety-related disturbance. Higher doses (160mg+) show sleep-promoting effects in studies.
-- **Myrcene and linalool:** Common cannabis terpenes associated with sedative and calming properties
+- **Myrcene and linalool:** Common [[query-what-are-cannabis-terpenes-and-why-do-they-matter]] associated with sedative and calming properties
 - Timing matters: using cannabis too close to bedtime may disrupt REM sleep
 
 ### Stress Reduction
@@ -147,41 +147,3 @@ Sativa-dominant strains for light movement: Green Crack, Durban Poison, Super Le
 - Low: 2.5-5mg (mild relaxation without impairment)
 - Medium: 5-15mg (noticeable relaxation and pain relief)
 - High: 15mg+ (significant sedation — best for evening)
-
-Start low, increase gradually. New users should start with CBD-only products.
-
-## Research Landscape
-
-### Current Evidence
-
-- Animal studies consistently demonstrate anti-inflammatory and analgesic effects
-- Human studies on CBD for pain show promising but inconclusive results
-- Survey research indicates 25-60% of athletes already use cannabis for recovery
-- WADA's removal of CBD suggests sufficient safety evidence
-- More rigorous human clinical trials are needed
-
-### Areas Needing More Research
-
-- Optimal dosing protocols for different exercise types
-- Long-term effects of cannabis on athletic performance
-- Interactions with other recovery modalities (ice baths, NSAIDs, compression)
-- Impact on muscle protein synthesis and adaptation
-
-## Practical Integration
-
-### Sample Recovery Protocol
-
-**Post-workout (within 30 min):** Apply [[cannabis-topicals-guide|cannabis topical]] to sore areas, stretch and cool down.
-
-**1-2 hours post-workout:** Take 25mg CBD sublingually, rehydrate and eat a recovery meal.
-
-**Evening (2-4 hours before bed):** Additional topical if needed, consider low-dose edible (10mg CBD, optional 2.5mg THC).
-
-### Important Considerations
-
-- Cannabis should complement, not replace, fundamental recovery practices (nutrition, hydration, sleep)
-- Consistency matters more than high doses
-- Individual responses vary — experiment to find what works
-- Avoid combining with alcohol for recovery purposes
-- Consult healthcare provider, especially if taking other medications
-- Be aware of [[cannabis-regulations-by-state|local regulations]]

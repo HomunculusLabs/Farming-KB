@@ -1,7 +1,7 @@
 ---
 title: Fungal Succession in Disturbance
 created: 2026-04-26
-sources: Dighton (2003) "Fungi in Ecosystem Processes" Ch. 2, 3, 5
+sources: Dighton (2003) "Fungi in fungal-ecosystem-processes-overview" Ch. 2, 3, 5
 tags: [succession, disturbance, fire, clear-cut, deforestation, colonization, pioneer, primary-succession]
 related: [dighton-fungal-biodiversity-forest-ecosystems, dighton-fungal-decomposition-nutrient-cycling]
 type: concept
@@ -12,7 +12,7 @@ updated: 2026-04-26
 
 ## Overview
 
-Fungal communities undergo predictable successional changes following disturbance events such as fire, clear-cutting, deforestation, volcanic activity, and agricultural abandonment. These successional patterns reflect changes in resource availability, microclimate, and competitive interactions as ecosystems recover.
+[[biodiversity-of-fungi-soil-fungal-communities-agriculture]] undergo predictable successional changes following disturbance events such as fire, clear-cutting, deforestation, volcanic activity, and agricultural abandonment. These successional patterns reflect changes in resource availability, microclimate, and competitive interactions as ecosystems recover.
 
 ## Decomposition Succession on Fresh Litter
 
@@ -22,7 +22,7 @@ Fungal colonization of newly shed leaf litter follows a classic succession (Fran
 
 1. **Initial colonization** -- fungi utilizing soluble carbohydrates; arrival rate determines early community
 2. **Cellulose decomposition phase** -- species with cellulolytic enzymes dominate
-3. **Lignin degradation phase** -- white-rot basidiomycetes with ligninase systems become prominent
+3. **[[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]] phase** -- white-rot basidiomycetes with ligninase systems become prominent
 4. **Late stage** -- slow-growing species dominate as recalcitrant humus forms
 
 Three factors determine colonization success:
@@ -38,7 +38,7 @@ Fire is a natural disturbance that maintains both plant and fungal diversity (Vi
 
 ### Fire Intensity and Soil Damage
 - **Minimal soil damage**: Residual ECM communities survive on dying roots of former trees. If forest re-establishes rapidly, these act as inoculum sources, maintaining species diversity similar to the pre-fire community (Baar et al., 1999; Jonsson et al., 1999b)
-- **Severe soil damage**: Loss of organic matter and inoculum requires colonization from spores or vegetative propagules, resulting in different community composition
+- **Severe soil damage**: Loss of organic matter and inoculum requires colonization from spores or vegetative propagules, resulting in different [[core-endorhiza-bacterial-community-composition-cannabis]]
 
 ### Environmental Changes After Fire
 - **Nutrient mineralization**: Fire releases nutrients, creating a temporary "fertilizer effect"
@@ -68,7 +68,7 @@ The transition from AM to ECM dominance coincides with:
 - Change in host plant species
 - Accumulation of organic plant residues
 - Development of mor-type humus
-- Decreased nutrient availability in inorganic forms
+- Decreased [[ph-and-nutrient-availability-garden-soils]] in inorganic forms
 
 ## Primary Succession on Volcanic Substrates
 
@@ -103,12 +103,15 @@ Lack of viable communal ECM networks post-disturbance is attributed to reduced t
 - Frankland, J.C. (1992, 1998). Fungal succession. In: *The Fungal Community*.
 - Visser, S. (1995). Post-fire ECM succession. *Can. J. Bot.*
 - Baar, J. et al. (1999). Post-fire ECM inoculum sources. *Mycorrhiza*.
-- Barni, E. and Siniscalco, C. (2000). Post-agricultural mycorrhizal succession. *Acta Oecol.*
+- Barni, E. and Siniscalco, C. (2000). Post-agricultural [[dighton-mycorrhizal-succession-forest-ecosystems]]. *Acta Oecol.*
 - Titus, J.H. and Tsuyuzaki, S. (2002). Primary succession on Mt. Koma. *Am. J. Bot.*
 
 ## See Also
 
-- [[fungal-succession]]
-- [[fungal-communities-succession]]
+- fungal-succession
+- fungal-communities-succession
 - [[fungal-succession-leaf-litter]]
 - [[fungal-succession-wood]]
+- [[decomposition]]
+- [[lignin-degradation]]
+- [[laccaria-bicolor]]

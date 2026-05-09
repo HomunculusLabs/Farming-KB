@@ -1,5 +1,5 @@
 ---
-title: "Sea Level Change and Coastal Zone Management"
+title: "mollison designers sea level change coastal zones and Coastal Zone Management"
 created: 2026-04-28
 tags:
   - coastal-zones
@@ -17,7 +17,7 @@ type: concept
 # Sea Level Change [[permaculture-design]], the transition between land and sea is treated
 as a distinct [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]
 opportunities and hazards. Bill Mollison devoted significant attention to
-coastal systems in the Designers Manual, recognizing that sea level has never
+coastal systems in the [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]], recognizing that sea level has never
 been static and that human settlements must adapt to dynamic shorelines.
 
 ## Understanding Coastal Dynamics
@@ -54,8 +54,8 @@ patterns and plant species in their correct elevational position.
 For areas subject to salt spray or occasional inundation, Mollison recommends
 a broad palette of halophytic and salt-tolerant species. These include:
 
-- **Coconut palm** (Cocos nucifera): The quintessential coastal tree, providing
-  food, fibre, and building materials.
+- **[[mollison-coconut-palm-polyculture-systems]]** (Cocos nucifera): The quintessential coastal tree, providing
+  food, fibre, and [[natural-building-materials-guide]].
 - **Pandanus** (screw pine): Wind-resistant and tolerant of saline soils.
 - **Casuarina** (she-oak): Excellent for windbreaks and sand stabilization.
 - **Tamarix** (salt cedar): Extremely salt-tolerant; useful for inland saline
@@ -63,7 +63,7 @@ a broad palette of halophytic and salt-tolerant species. These include:
 - **Nypa palm** (Nypa fruticans): A mangrove palm producing sugar-rich sap.
 - **Salicornia**: Edible halophyte suitable for salt-marsh rehabilitation.
 
-For food production near coasts, raised beds with adequate drainage can allow
+For food production near coasts, [[comparison-raised-beds-vs-hugelkultur]] with adequate drainage can allow
 conventional crops to be grown while salt-tolerant perennials protect the
 perimeter. See [[mollison-designers-avocado-mango-and-subtropical-tree-crops]] ng vulnerable zones**: Do not place permanent structures or
    long-lived tree crops within the projected 50 to 100-year flood zone.
@@ -80,7 +80,7 @@ The coastal zone offers exceptional opportunities for integrated food
 production. Mollison Designers Aquaculture systems can combine fish
 farming, shellfish cultivation, seaweed harvesting, and mangrove silviculture
 in mutually beneficial arrangements. Wastewater from land-based systems
-[[permaculture-design-principles]] t free of toxins) can fertilize seaweed and shellfish beds,
+[[permaculture-design-principles-beginners]] t free of toxins) can fertilize seaweed and shellfish beds,
 while mangrove roots provide habitat for juvenile fish.
 
 ## Design Principles for Coastal Settlements

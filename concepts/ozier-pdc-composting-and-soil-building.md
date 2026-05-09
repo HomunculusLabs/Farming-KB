@@ -1,10 +1,10 @@
 # Composting and Soil Building (Ozier PDC)
 
-**Source:** William Ozier, *William's PDC: A Permaculture Design Course* (2011)
+**Source:** William Ozier, *William's PDC: A [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] Course* (2011)
 
 ## Composting as a Permaculture Element
 
-Composting is the technique of accelerating the natural decomposition process to
+Composting is the technique of accelerating the [[fukuoka-microbes-scavengers-natural-decomposition-biosystem]] process to
 convert organic waste into nutrient-rich humus. In Permaculture systems, composting
 serves as the primary method for closing the nutrient loop—returning organic matter
 to the soil so that plants can access the nutrients they need. Ozier positions
@@ -100,7 +100,7 @@ than treated as an isolated activity. Key placement considerations:
 - **Zone 1**: Active compost bins near the kitchen for daily scraps
 - **Zone 2**: Larger composting areas for yard waste and bulk materials
 - **Sheet mulch stations**: Where organic waste is accumulated for bed preparation
-- **Animal integration**: Chicken tractors and duck ponds providing manure directly
+- **[[mollison-animal-integration-permaculture-design]]**: [[mollison-designers-chicken-tractors-egg-production]] and duck ponds providing manure directly
   to garden areas
 
 ## Composting as a Design Connector
@@ -117,11 +117,11 @@ being lost as waste.
 ## Soil Building Beyond Composting
 
 While composting is central, Ozier notes that broader soil building strategies include:
-- Cover cropping and green manures for nitrogen fixation and organic matter
+- Cover cropping and green manures for [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] and organic matter
 - Minimizing soil disturbance to protect soil structure and microbial networks
 - Mulching to protect soil surface, retain moisture, and suppress weeds
 - Incorporating animals for manure and soil aeration
-- Using biochar for long-term carbon sequestration and soil improvement
+- Using biochar for long-term [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] and soil improvement
 - Applying rock dusts and mineral amendments as needed
 
 ## Troubleshooting Common Problems
@@ -136,5 +136,8 @@ While composting is central, Ozier notes that broader soil building strategies i
 ## See Also
 
 - [[ozier-pdc-forest-succession-and-layers]]
-- [[gaias-garden-compost-worm-methods]]
+- gaias-garden-compost-worm-methods
 - [[compost-biology-soil-food-web-inoculation]]
+- [[composting-systems]]
+- [[decomposition]]
+- [[vermicomposting]]

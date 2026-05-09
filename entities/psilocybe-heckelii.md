@@ -12,10 +12,10 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Guzmán G. (1983). The Genus Psilocybe. J. Cramer, Vaduz.
-  - Guzmán G, Ott J. (1976). "Second and third species in the Psilocybe mexicana series." Mycotaxon, 4(1), 188-191.
-  - Stamets P. (1996). Psilocybin Mushrooms of the World. Ten Speed Press.
+  - Guzmán G, Ott J. (1976). "Second and third species in the [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] series." Mycotaxon, 4(1), 188-191.
+  - Stamets P. (1996). [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World. Ten Speed Press.
   - Guzmán G, et al. (2000). "A worldwide geographical distribution of the neurotropic fungi." Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Botánica, 71(1), 71-91.
-  - Allen JW, Gartz J. (2001). "Ethnomycology, biochemistry, and cultivation of Psilocybe species in the tropics." Eleusis, 5, 39-58.
+  - Allen JW, Gartz J. (2001). "Ethnomycology, biochemistry, and [[grass-seed-cultivation-of-psilocybe-mushrooms]] species in the tropics." Eleusis, 5, 39-58.
 created: 2026-04-28
 ---
 
@@ -23,7 +23,7 @@ created: 2026-04-28
 
 ## Overview
 
-**Psilocybe heckelii** is a bluing, psilocybin-containing mushroom in the family Hymenogastraceae, native to the neotropical forests of **Central America** and northern **South America**. The species was first described from material collected in **Colombia** and has since been recorded across a range extending from southern Mexico through Panama, Colombia, and into Ecuador.
+**Psilocybe heckelii** is a bluing, psilocybin-containing mushroom in the family Hymenogastraceae, native to the neotropical forests of **[[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]** and northern **South America**. The species was first described from material collected in **Colombia** and has since been recorded across a range extending from southern Mexico through Panama, Colombia, and into Ecuador.
 
 P. heckelii is closely allied with the **Psilocybe mexicana** species complex. It produces moderate levels of psilocybin and psilocin and has been used in traditional indigenous ceremonies in several Mesoamerican cultural contexts. The species is less well-characterized biochemically than its close relatives P. mexicana and P. caerulescens.
 
@@ -68,7 +68,7 @@ The principal psychoactive constituents of P. heckelii are:
 - **Baeocystin**: present in trace amounts
 - **Norbaeocystin**: detected in some collections
 
-These compounds are 5-HT2A receptor agonists, producing altered perception, synesthesia, introspective ideation, and in some users, mystical-type experiences. The onset is typically 20–60 minutes after ingestion, with effects lasting 4–6 hours.
+These compounds are 5-HT2A [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]], producing altered perception, synesthesia, introspective ideation, and in some users, mystical-type experiences. The onset is typically 20–60 minutes after ingestion, with effects lasting 4–6 hours.
 
 Biochemically, P. heckelii is intermediate in potency between P. mexicana (which it closely resembles) and stronger tropical species such as P. cubensis. Variability in alkaloid content reflects differences in substrate, age at harvest, and geographic origin.
 
@@ -82,7 +82,7 @@ In Colombia, indigenous communities in the Sierra Nevada de Santa Marta region h
 
 ## Cultivation
 
-Cultivation of P. heckelii has received limited attention compared to P. cubensis, but standard psilocybin mushroom cultivation techniques are applicable. The species fruits on sterilized horse or cow dung, pasteurized straw, and enriched grain substrates.
+Cultivation of P. heckelii has received limited attention compared to P. cubensis, but standard psilocybin [[accessible-mushroom-cultivation-for-disabilities]] techniques are applicable. The species fruits on sterilized horse or cow dung, pasteurized straw, and enriched grain substrates.
 
 Optimal fruiting parameters include temperatures of 22–26°C and high relative humidity (>90%). The species is somewhat slower to colonize than P. cubensis, with full substrate colonization requiring 3–4 weeks from inoculation.
 

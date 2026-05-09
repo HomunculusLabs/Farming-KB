@@ -1,5 +1,5 @@
 ---
-title: "MDHOET (HYDROXYETHYL-MDA;) -- PIHKAL Entry #107"
+title: "MDHOET (HYDROXYETHYL-MDA;) -- 2c-b-pihkal-entry-20 #107"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -36,7 +36,7 @@ There was one report that at very high doses some central effects were
 indeed observed. With quantities in the several hundreds of
 milligrams a picture emerged of changes in perceived color and depth
 perception, but without euphoria. It was said to resemble a mild dose
-of [[mdma]] for its preparation)
+of mdma for its preparation)
 followed by 1.1 g sodium cyanoborohydride. Concentrated HCl in MeOH
 was added as required, over the next few days, to maintain the pH at
 about 6 as determined with external, dampened universal pH paper. The
@@ -57,7 +57,7 @@ with Et2O, and air dried. These weighed 2.3 g, and had a mp of
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 
@@ -81,4 +81,6 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+- [[bob-entity-pihkal]]
+- [[dob-entity-pihkal]]
+- [[3-tasb-entity-pihkal]]

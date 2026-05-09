@@ -1,125 +1,112 @@
 ---
 title: "Ailanthus altissima"
-created: 2026-05-06
 type: species
 tags:
   - simaroubaceae
+  - tree-of-heaven
   - invasive-species
-  - permaculture
-  - medicinal-tree
+  - urban-ornamental
+  - allelopathy
   - pioneer-species
-  - urban-forestry
-  - phytoremediation
-  - allelopathic
-  - fast-growing
-  - nitrogen-fixing-soil
-  - traditional-chinese-medicine
-  - urban-tolerant
-  - coppice
-date: 2026-04-28
-updated: 2026-04-28
+date: 2026-05-08
+updated: 2026-05-08
 sources:
-  - Hu SY (1979). "Ailanthus altissima." In: A Manual of Poisonous Plants. Taipei.
-  - Kowarik I, Säumel I (2007). "Biological Flora of Central Europe: Ailanthus altissima." Perspectives in Plant Ecology, Evolution and Systematics 8(4): 207–237.
-  - Ding J, Reardon R, Wu Y, Zheng H, Fu W (2006). "Biological Control of Ailanthus altissima Using Fungal Pathogens." Biological Control 36(2): 139–147.
-  - Heisey RM (1990). "Allelopathic and Herbicidal Effects of Ailanthus altissima." American Journal of Botany 77(5): 662–670.
-  - Battipaglia G, Saurer M, Cherubini P, Calfapietra C, McCarthy HR, Norby RJ, Cotrufo MF (2013). "Elevated CO2 Increases Tree-Level Intrinsic Water Use Efficiency." Global Change Biology 19(5): 1378–1389.
+  - Hu, S.Y. (1979). "Ailanthus." Arnold Arboretum Journal, 60(1): 1–35.
+  - Fryer, J.L. (2010). "Ailanthus altissima." USDA Forest Service Fire Effects Information System.
+  - Kowarik, I. & Säumel, I. (2007). "Biological Flora of Central Europe: Ailanthus altissima." Perspectives in Plant Ecology, 9(4): 187–206.
+  - Rebbeck, J. et al. (2021). "Invasiveness of Ailanthus altissima." Forest Ecology and Management, 491: 119157.
+  - Ding, J. et al. (2006). "Chinese Tallow and Tree-of-Heaven in the US." Biological Invasions, 8(5): 955–966.
 ---
+
+# Ailanthus altissima
 
 ## Overview
 
-**Ailanthus altissima** (Mill.) Swingle, commonly known as **tree of heaven**, is a fast-growing deciduous tree in the family Simaroubaceae.
+**Ailanthus altissima** (tree of heaven) is a fast-growing deciduous tree in the family Simaroubaceae, native to northeast and central China. Introduced to Europe and [[psilocybin-north-america-pacific-northwest]] as an ornamental in the 1780s, it has become one of the most widespread and problematic invasive tree species globally. The species is notorious for its rapid growth, prolific root suckering, allelopathic chemicals, and tolerance of extremely degraded urban environments.
 
-Native to northeast China and Taiwan, it was introduced to Europe and North America in the 1700s as an ornamental and has since become one of the most widespread invasive woody plants in temperate regions worldwide.
+Tree of heaven can reach 15–25 m in height with a DBH of 40–80 cm, though exceptional individuals exceed 30 m. Growth rates of 1–2 m per year are common on favorable sites, making it one of the fastest-growing temperate hardwood species. The species is dioecious, with female trees producing enormous quantities of wind-dispersed seed.
 
-Despite its reputation as an aggressive invader, the species has significant ecological and ethnobotanical value: it is a pioneer species capable of colonizing degraded soils, a phytoremediator of contaminated sites, and the source of **chunpi** (苦树皮), a traditional Chinese medicine.
+## Taxonomy
 
-## Taxonomy and Morphology
+- **Kingdom:** Plantae
+- **Order:** Sapindales
+- **Family:** Simaroubaceae
+- **Genus:** Ailanthus
+- **Species:** A. altissima
+- **Authority:** (Mill.) Swingle
+- **Basionym:** Rhus altissima Mill.
+- **Synonyms:** Ailanthus glandulosa Desf., Toxicodendron altissimum (Mill.) Kuntze
 
-Classified within Simaroubaceae → **Simarouboideae → *Ailanthus → *A. altissima***.
+The genus *Ailanthus* contains approximately 5–10 species distributed across tropical and temperate Asia and northern Australia. *A. altissima* is the only species widely naturalized outside its native range. The genus name derives from the Ambonese word *ailanto*, meaning "tree of heaven," referring to its impressive height and rapid growth. The specific epithet *altissima* means "tallest."
 
-First described by François Pierre de la Bosc (as *Rhus altissima*) in 1753, later transferred to *Ailanthus* by Swingle in 1916. The genus name derives from *ailanto* (Ambonese for "tree of the gods"), referring to its tropical relative *Ailanthus triphysa*.
+Chromosome number is 2n = 64 (tetraploid). Genetic studies have revealed relatively low genetic diversity in introduced populations compared to native Chinese populations, suggesting multiple independent introductions. Tetraploidy contributes to the species' adaptability and environmental tolerance. Polyploid genomes provide greater genetic buffering against environmental stress, allowing the species to thrive in the highly variable conditions of urban and disturbed habitats where it most commonly occurs.
 
-A fast-growing tree reaching 15–25 m in height, with a straight trunk up to 80 cm diameter at maturity. The crown is open and spreading, forming an irregular, umbrella-like shape.
+The Simaroubaceae is a small family of approximately 20 genera and 100 species, predominantly tropical in distribution. The family is characterized by bitter, quassinoid-containing bark and wood. Most Simaroubaceae are tropical trees and shrubs, making *A. altissima* unusual as a temperate-zone representative of the family.
 
-Bark is smooth and grey on young trees, becoming rough, fissured, and dark grey-brown with age. Branches are stout, with prominent lenticels.
+## Morphology
 
-Leaves are large, pinnately compound, 40–90 cm long, with 13–25 leaflets per leaf. Leaflets are lanceolate, 5–15 cm long, with 2–4 basal teeth (glandular) near the base — a distinctive identification feature.
+Tree of heaven is a medium-sized to large deciduous tree with a straight trunk and light gray, smooth bark that becomes rough and fissured with age. Young bark is distinctive in its light gray-green coloration with lighter lenticels. The crown is open and spreading with coarse branching. Root systems are extensive and shallow, with aggressive lateral roots producing abundant root suckers.
 
-When crushed, leaves and stems emit a strong, unpleasant **peanut butter or burnt peanut** odor, a reliable field identification characteristic.
+Leaves are large, pinnately compound, 30–90 cm long, with 11–41 leaflets. Leaflets are lanceolate to ovate, 5–15 cm long and 2–5 cm wide, with entire margins except for 1–3 basal teeth (glands) near the base. The upper surface is dark green and smooth; the lower surface is lighter. Crushed foliage emits a strong, unpleasant odor often described as rancid peanut butter or burnt coffee.
+
+Flowers are small, yellowish-green, 5–7 mm in diameter, borne in large terminal panicles 10–30 cm long. Male flowers have a disagreeable odor that attracts pollinating flies. Flowering occurs from April to June, with male and female flowers on separate trees (dioecious). A small proportion of populations contain monoecious individuals.
+
+Fruit is a samara (winged achene), 3–5 cm long including the wing, twisted at maturity. Fruits are produced in large clusters, with a single female tree capable of producing 300,000+ seeds annually. Samaras are dispersed by wind and can travel 100+ m from the parent tree. Seeds remain viable in the soil seed bank for up to 5 years. Samara morphology varies among provenances, with northern Chinese accessions producing slightly larger samaras with longer wings.
+
+Root suckering can extend colonies 10–20 m from the parent tree within a few years. Suckers arise from preformed adventitious buds on lateral roots and can emerge through asphalt and concrete paving. Severing roots during construction or utility work stimulates prolific suckering, often exacerbating rather than controlling the problem.
 
 ## Distribution and Habitat
 
-Native to northern and central China, Taiwan, and North Korea. Introduced to Europe (1748, France), North America (1784, Philadelphia), and subsequently to South America, Africa, and Australia.
+*Ailanthus altissima* is native to northern and central China, with native populations also occurring in Taiwan and Korea. The species has been introduced to every inhabited continent and is naturalized across much of Europe, North America, South America, Africa, and Australia. In North America, it occurs from southern Canada to Florida and from the Atlantic coast to California.
 
-The species now occurs across much of temperate and subtropical North America, Europe, and parts of the Southern Hemisphere, often as an urban weed and forest-edge colonizer.
+The species is a classic urban weed tree, colonizing vacant lots, railroad embankments, highway medians, industrial sites, and disturbed urban soils. It tolerates air pollution, compacted soils, drought, heat, and low-nutrient substrates that exclude most other tree species. In natural areas, it invades forest edges, riparian corridors, and recently burned or logged sites.
 
-It thrives in disturbed habitats: vacant lots, railroad embankments, highway margins, abandoned farmland, and recently cleared forests. It tolerates drought, compacted soils, high pH, low nutrient availability, and moderate salinity.
+Optimal growth occurs on moist, well-drained, calcareous soils in full sun. The species is shade-intolerant but can persist as suppressed saplings in forest understories until a canopy disturbance releases it. Altitudinal range extends from sea level to approximately 1,500 m in its native range. In the Himalayan foothills, it occurs up to 2,400 m, representing the upper elevational limit for the species.
 
-Optimal growth occurs in full sun on well-drained soils, but the species establishes in partial shade and a wide range of soil textures. It is extremely tolerant of air pollution, making it common in industrial urban areas.
+The species demonstrates remarkable physiological plasticity. Photosynthetic rates, leaf morphology, and water-use efficiency vary significantly across light gradients and soil fertility levels. This plasticity allows a single genotype to perform well across a wide range of environmental conditions, contributing to its success as a global invader.
 
-## Bioactive Compounds
+## Ecological Impact
 
-The bark, wood, and leaves contain **quassinoid bitter principles**, the most significant being **ailanthone** (C20H24O7), along with chaparrinone, glaucarubinone, and ailantinol.
+Tree of heaven is among the most ecologically damaging invasive tree species in temperate regions. Its impacts include displacement of native vegetation through competition and allelopathy, alteration of soil chemistry, and provision of suboptimal habitat for native fauna. Allelopathic compounds (primarily ailanthone) inhibit germination and growth of competing plant species.
 
-Ailanthone is a potent **antimalarial** compound, showing in vitro activity against *Plasmodium falciparum* comparable to chloroquine. It also exhibits antifungal, antibacterial, and antifeedant properties.
+The species forms dense clonal colonies through root suckering, excluding native herbaceous and woody species. These monocultures reduce plant diversity and alter [[fungal-ecosystem-processes-overview]] including [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and decomposition. Allelopathic effects are strongest in the root zone but also occur through leaf litter leachates.
 
-The bark contains **ailanthin** and **simaroubin**, bitter quassinoids responsible for the traditional medicinal properties.
+In North America, tree of heaven is the primary reproductive host for the spotted lanternfly (*Lycorma delicatula*), an invasive planthopper that damages agricultural crops including grapes, apples, and hardwood timber species. This association has significantly increased the ecological and economic impact of *A. altissima* invasions. Spotted lanternfly populations reach highest densities on tree of heaven, which serves as a preferred feeding and oviposition host. Control programs often target both the insect and its host tree simultaneously.
 
-The leaves contain volatile compounds including various terpenes and phenolics that contribute to the allelopathic properties of the species.
+In Europe, *A. altissima* invasions threaten rare plant communities including limestone grasslands and xeric scrub habitats. The species is listed on the EU list of Invasive Alien Species of Union Concern since 2019, requiring member states to implement management and control programs. In the United States, it is classified as a noxious weed in several states including Ohio, Vermont, and West Virginia.
 
-Research has identified **phenolic compounds** (quercetin, kaempferol derivatives) and **tannins** in leaf extracts with documented antioxidant and anti-inflammatory activity.
+Climate change is expected to expand the potential range of *A. altissima* in temperate regions. Warmer winters and increased drought frequency may give the species a competitive advantage over native trees less adapted to water stress and heat. Range expansion models predict significant northward range shifts in both Europe and North America over the coming decades.
 
-## Allelopathy and Ecological Impact
+## Cultivation and Control
 
-*A. altissima* is a powerful **allelopathic** species, releasing water-soluble compounds from leaves, roots, and bark that inhibit germination and growth of competing vegetation.
+Tree of heaven was widely planted as an ornamental and street tree during the 19th century due to its rapid growth, [[dighton-fungal-drought-tolerance-plant-water-relations]], and tolerance of urban pollution. Its use declined sharply in the 20th century as its invasive tendencies became apparent. The species is still occasionally planted in regions where invasiveness is less of a concern, primarily in arid urban environments.
 
-Ailanthone and other quassinoids leached from leaves suppress germination of herbaceous species and can inhibit mycorrhizal colonization of neighboring plants.
+Mechanical control requires repeated cutting or mowing, as stumps and roots readily resprout. Herbicide treatment (glyphosate, triclopyr, or imazapyr) is most effective when applied to cut stumps or basal bark. Systemic herbicides translocated through the extensive root system can kill entire clonal colonies. This approach requires careful timing, as herbicide effectiveness is highest during late summer when carbohydrates are being translocated to roots. Foliar applications are less effective due to the species' thick leaf cuticle, which limits herbicide absorption.
 
-The species spreads aggressively through both seed (wind-dispersed samaras, with a single tree producing up to 325,000 seeds/year) and clonal root suckers. Root suckering allows rapid colonization and makes mechanical removal extremely difficult.
+Prevention of establishment is more effective than eradication of established populations. Early detection and rapid response programs focus on removing seed-bearing female trees before seed production begins. Monitoring along transportation corridors is critical, as vehicles and trains are primary vectors for long-distance seed dispersal.
 
-Invasive populations reduce native plant diversity, alter soil chemistry, and can accelerate the succession of plant communities in disturbed habitats. In eastern North America, it is considered one of the most problematic invasive trees.
+Female trees can be identified before seed maturation by their larger, more conspicuous inflorescences. Selective removal of female trees while retaining males (which do not produce seed) can reduce spread while maintaining some urban canopy cover. However, root suckering from remaining trees may eventually produce female shoots.
 
-## Traditional Medicine
+## Uses
 
-In **Traditional Chinese Medicine (TCM)**, the dried bark (*chunpi*, 苦树皮) has been used for over 1,500 years.
+Despite its invasive status, tree of heaven has several traditional and practical uses. In traditional Chinese medicine, the bark (*chunpi*) has been used for over 2,000 years to treat diarrhea, dysentery, and tapeworm infections. Quassinoid compounds isolated from the bark, particularly ailanthone, have demonstrated antimalarial, antitumor, and insecticidal properties.
 
-Classified as bitter, cold, and slightly toxic, it is prescribed for diarrhea, dysentery, leukorrhea, tapeworm infections, and bleeding. It is a component of traditional antimalarial formulations predating artemisinin.
+The wood is light, soft, and moderately strong, with a specific gravity of approximately 0.50. It has been used for pulpwood, crate lumber, and fiberboard, though its limited commercial availability and tendency to warp restrict wider use. In China, the species is managed in short-rotation coppice systems for [[dighton-fungal-biomass-production-aquatic-ecosystems]].
 
-The root bark is considered more potent than stem bark and is harvested in spring before leaf emergence.
+The species has been investigated for phytoremediation of contaminated soils. Studies have demonstrated its ability to accumulate heavy metals including cadmium, lead, and zinc in root and leaf tissues, suggesting potential applications in stabilizing former industrial sites. However, this same characteristic raises concerns about contaminant transfer through leaf litter and fruit consumption by wildlife.
 
-In European folk medicine, the bark was used as a febrifuge, antimalarial, and anthelmintic, though these uses have largely been superseded by modern pharmaceuticals.
+The species has also been studied as a potential bioenergy crop in China and India. Its rapid growth, coppicing ability, and tolerance of marginal soils make it attractive for short-rotation biomass production. However, invasiveness concerns have prevented adoption outside its native range. In its native China, it is managed as a productive coppice species for firewood and [[mollison-designers-charcoal-production-biochar-soil-amendment]].
 
-Modern pharmacological research has validated several traditional applications, particularly the antimalarial, antifungal, and anti-inflammatory properties of quassinoid extracts.
-
-## Permaculture and Phytoremediation Applications
-
-Despite its invasive reputation, *A. altissima* has several properties valuable in permaculture and ecological restoration contexts.
-
-**Phytoremediation:** The species demonstrates exceptional tolerance of heavy metals (lead, cadmium, zinc, chromium) and organic pollutants. It has been used experimentally to stabilize contaminated soils on brownfield sites and mine tailings.
-
-**Biomass production:** Rapid growth (up to 3 m/year in ideal conditions) and the ability to coppice make it a potential biomass feedstock, though the low calorific value of the wood limits its use as fuel.
-
-**Pioneer function:** On severely degraded sites where few other species establish, tree of heaven can break the soil surface, add organic matter, and begin the process of ecological succession, eventually being outcompeted by climax species.
-
-**Pollinator support:** The abundant, late-spring flower clusters (panicles 10–30 cm long) are visited by honeybees and native pollinators, though the nectar yield is modest compared to dedicated honey plants.
-
-**Caution in permaculture design:** Any intentional use requires strict containment strategies (root barriers, regular coppicing to prevent seeding) to prevent escape into adjacent natural areas.
-
-## Management and Control
-
-Control of invasive *A. altissima* populations is challenging due to extensive root suckering and seed bank persistence.
-
-**Mechanical control:** Cutting alone is ineffective — stumps and roots produce prolific suckers. Repeated cutting over multiple growing seasons can eventually deplete root reserves, but this is labor-intensive.
-
-**Chemical control:** Systemic herbicides (glyphosate, triclopyr, imazapyr) applied to cut stumps or frill cuts are the most effective method. Foliar application on young seedlings is also effective.
-
-**Biological control:** Research has explored fungal pathogens (*Verticillium dahliae*, *Alternaria alternata*) as potential biocontrol agents, with some showing promise in greenhouse trials but limited field efficacy.
-
-The weevil (*Eucryptorrhynchus brandti*) has been investigated as a biological control agent in North America, with intentional releases beginning in 2020 in select states.
-
-Prevention through early detection and rapid response remains the most cost-effective management strategy, as established populations are extremely difficult and expensive to eradicate.
+The distinctive compound leaves and samaras make the species recognizable even to casual observers. The strong odor of crushed foliage is a reliable identification feature that distinguishes it from look-alikes including sumacs (*Rhus* spp.) and walnuts (*Juglans* spp.). Educational campaigns targeting early detection often emphasize this characteristic.
 
 ## See Also
 
-[[paulownia-tomentosa]] · [[glycyrrhiza-glabra]] · [[dynamic-accumulators]] · [[companion-planting]] · [[alnus-glutinosa]]
+- [[toona-sinensis]]
+- [[robinia-pseudoacacia]]
+- [[paulownia-tomentosa]]
+- [[acer-negundo]]
+- [[broussonetia-papyrifera]]
+- [[morus-alba]]
+- [[gleditsia-triacanthos]]
+- [[celtis-occidentalis]]
+- [[ulmus-parvifolia]]

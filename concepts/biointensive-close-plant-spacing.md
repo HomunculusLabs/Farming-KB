@@ -23,7 +23,7 @@ GB strongly favors transplanting over direct seeding:
 
 ## Yield Calculations
 
-Yields in GB are measured in pounds per 100 square foot bed. Jeavons provides master charts with expected yields for each crop, including:
+Yields in GB are measured in pounds per 100 [[comparison-biointensive-vs-square-foot-gardening]] bed. Jeavons provides master charts with expected yields for each crop, including:
 
 - **Average yield** per 100 sq ft under normal conditions
 - **Optimum yield** under ideal conditions
@@ -62,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -104,4 +104,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

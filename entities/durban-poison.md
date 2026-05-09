@@ -15,12 +15,12 @@ sources:
   - https://www.leafly.com/strains/durban-poison — strain profile and reviews
   - https://phylosbioscience.com/ — cannabis genomics and landrace mapping
   - Clarke, R.C. & Merlin, M.D. (2013). Cannabis: Evolution and Ethnobotany. University of California Press.
-  - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency Over the Last Two Decades." Biological Psychiatry.
+  - ElSohly, M.A. et al. (2016). "Changes in [[green-cannabis-potency-maximizing]] Over the Last Two Decades." Biological Psychiatry.
 created: 2026-04-28
 ---
 # 
 
-**Durban Poison** is a pure  race cannabis strain originating from the South African port city of Durban. One of the few commercially available true landrace strains, it is celebrated for its uplifting, energetic ef  istinct anise and citrus terpene prof  a foundational genetic pillar in modern cannabis breeding, contributing to numerous hybrid cultivars.
+**Durban Poison** is a pure  race cannabis strain originating from the South African port city of Durban. One of the few commercially available true [[sativa-landrace-strains-and-geographic-origins]], it is celebrated for its uplifting, energetic ef  istinct anise and citrus terpene prof  a foundational genetic pillar in modern [[oner-cannabis-breeding-fundamentals]], contributing to numerous hybrid cultivars.
 
 ## Genetic Lineage
 
@@ -30,7 +30,7 @@ created: 2026-04-28
 
 ### Genetic Stability
 
-As a landrace, Durban Poison exhibits remarkable genetic stability across generations. It breeds true in most phenotypic expressions, making it a reliable parent for hybrid development. Phylos Bioscience's cannabis genomic database confirms it clusters distinctly from other African landraces and modern cultivars.
+As a landrace, Durban Poison exhibits remarkable genetic [[psilocybin-level-stability-across-flushes]] generations. It breeds true in most phenotypic expressions, making it a reliable parent for hybrid development. Phylos Bioscience's cannabis genomic database confirms it clusters distinctly from other African landraces and modern cultivars.
 
 ## Chemotype Profile
 
@@ -96,7 +96,7 @@ Patient-reported therapeutic uses include:
 - **ADHD management:** The focusing, stimulant-like effects may help with attention and task completion
 - **Depression:** Uplifting mood effects without the lethargy associated with many high-THC indicas
 - **Fatigue:** Daytime energy enhancement
-- **Nausea and appetite:** THCV's appetite-modulating properties; THC-driven antiemetic effects
+- **[[cannabis-for-nausea-and-appetite-stimulation]]:** THCV's appetite-modulating properties; THC-driven antiemetic effects
 - **Migraine:** Some patients report relief, possibly due to terpinolene and caryophyllene
 - **Stress relief:** Anxiolytic effects at moderate doses without cognitive impairment
 
@@ -118,7 +118,7 @@ Durban Poison is relatively straightforward to cultivate but requires attention 
 
 - **Training:** Essential for indoor grows; LST (low-stress training), SCROG (), or topping recommended to manage height
 - **Climate:** Warm, Mediterranean-like conditions (21–29°C day, 15–20°C night)
-- **Nutrients:** Moder [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]] nitrogen in vegetative stage
+- **Nutrients:** Moder [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]] nitrogen in [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]
 - **Humidity:** 50–60% during vegetative; reduce to 40–50% during flowering to prevent mold
 - **Light:** Thrives under full-spectrum lighting; 18/6 vegetative, 12/12 flowering
 - **Pest resistance:** Good natural resistance due to landrace genetics and thick resin

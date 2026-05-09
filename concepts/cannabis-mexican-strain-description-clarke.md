@@ -1,5 +1,5 @@
 ---
-title: Mexican Cannabis Strain Description (Clarke)
+title: Mexican blesching-cannabis-strain-selection-receptor-targeting Description (Clarke)
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -16,11 +16,11 @@ Mexican Cannabis originates from 15 to 27 degrees north latitude, spanning Pacif
 
 ## Historical Context
 
-Mexico was long the major source of marijuana smoked in America until recent years. The U.S. government (with monetary backing) began intensive eradication through aerial spraying of herbicides such as Paraquat. High-quality Mexican Cannabis is now rarely available. Ironically, NIMH uses domestic Mexican Cannabis strains grown in Mississippi as the pharmaceutical research product for chemotherapy and glaucoma patients.
+Mexico was long the major source of marijuana smoked in America until recent years. The U.S. government (with monetary backing) began intensive eradication through aerial spraying of herbicides such as Paraquat. High-quality Mexican Cannabis is now rarely available. Ironically, NIMH uses domestic Mexican [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] grown in Mississippi as the pharmaceutical research product for chemotherapy and glaucoma patients.
 
 ### Named Varieties
 Strains were traditionally named after their state or area of origin:
-- "Chiapan," "Guerreran," "Nayarit," "Michoacan," "Oaxacan," and "Sinaloan" all have geographic origins
+- "Chiapan," "Guerreran," "Nayarit," "Michoacan," "Oaxacan," and "Sinaloan" all have [[sativa-landrace-strains-and-geographic-origins]]
 
 ## Morphological Characteristics
 
@@ -67,7 +67,7 @@ Strains were traditionally named after their state or area of origin:
 
 ## Breeding Significance
 
-Mexican strains have played a central role in the development of domestic hybrid Cannabis:
+Mexican strains have played a central role in the development of domestic [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]]:
 - Their early maturation makes them ideal parents for crosses with late-maturing potent strains
 - High calyx-to-leaf ratio is a desirable trait
 - Cerebral psychoactivity is valued by many consumers
@@ -75,7 +75,7 @@ Mexican strains have played a central role in the development of domestic hybrid
 
 ## Related Topics
 
-- [[cannabis-colombian-strain-description-clarke]] - Colombian strain profile
+- [[cannabis-colombian-strain-description-clarke]] - [[cannabis-colombian-strain-description-clarke]] profile
 - [[cannabis-thai-strain-description-clarke]] - Thai strain profile
 - [[cannabis-african-indian-strain-descriptions-clarke]]
 - [[cannabis-fiber-vs-drug-strain-phenotypes-clarke]]

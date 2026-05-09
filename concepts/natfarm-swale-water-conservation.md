@@ -63,8 +63,8 @@ Swales and mulch are the secret to successful gardening in any climate.
 
 Swales can be implemented in urban areas to take advantage of road and roof
 runoff. Even a small swale in a backyard can significantly reduce stormwater
-runoff and recharge local groundwater. In urban permaculture, swales can be
-combined with [[mollison-keyline-water-conservation]]
+runoff and recharge local groundwater. In [[pdc-urban-permaculture-design-principles]], swales can be
+combined with mollison-keyline-water-conservation
 ## Practical Considerations
 
 Successful implementation of swale-design for Water Conservation requires attention to
@@ -83,4 +83,9 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[water-conservation]]
+- [[natural-farming-guide-swale-water-management]]
+- [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
+- [[query-how-to-build-a-swale-for-water-harvesting]]
+- [[swale-design-water-harvesting]]

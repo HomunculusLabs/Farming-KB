@@ -1,10 +1,11 @@
 ---
-title: Desert Revegetation Through Seed Diversity
+title: fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique Through knf-seed-diversity-and-conservation
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [regenerative, soil]
-sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Desert Revegetation Through Seed Diversity
@@ -14,7 +15,7 @@ updated: 2026-04-18
 Masanobu Fukuoka developed a comprehensive philosophy and method for
 revegetating desert lands based on the principle of sowing maximum seed
 diversity and allowing nature to reveal what will grow. This approach
-fundamentally challenges conventional desert reclamation strategies.
+fundamentally challenges conventional [[fukuoka-desert-reclamation-projects]] strategies.
 
 ## The True Cause of Desertification
 
@@ -38,7 +39,7 @@ Up until now, since everyone has assumed that the vegetation disappears
 because of a lack of water, the first thing done in revegetation
 projects has been to draw in water. Dams and irrigation systems are
 constructed. Not only is this approach only marginally effective, such
-efforts often end in failure on account of salt buildup in the irrigated
+efforts often end in failure on account of [[cervantes-salt-buildup-leaching-management]] in the irrigated
 fields, as countless examples in Egypt and elsewhere demonstrate.
 
 ## The Alternative: Cover the Ground First
@@ -90,7 +91,7 @@ increasing smaller organisms such as ferns, mosses, and soil microbes.
 
 Final stage: Plants resistant to dry conditions such as sesames and
 minor cereals will surely grow. There will also be gourd family
-vegetables and green manure crops.
+vegetables and green [[green-manure-crops-detailed]].
 
 ## The Philosophy of Offering
 
@@ -139,7 +140,7 @@ On his 1986 American trip, Fukuoka found the beginnings of this infrastructure a
 
 - A taxonomist collecting rhizobia and nitrogen-fixing plants joined his traveling group, moved by the idea of desert seeding
 - In the states of Washington and California, groups and individual botanists do dedicated research, collecting seeds of primitive vegetables and plants native to local areas
-- The head of the Paleobotanical Gardens in San Francisco, familiar with Africa, promised to collect seeds suited for growth in the desert
+- The head of the Paleobotanical Gardens in [[shipibo-san-francisco-ceremonial-center-ucayali]], familiar with Africa, promised to collect seeds suited for growth in the desert
 - These researchers work low-profile, gathering seeds of plants with no commercial cultivation value
 
 ## The Pilot with a Plane

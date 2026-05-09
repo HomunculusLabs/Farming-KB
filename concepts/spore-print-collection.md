@@ -1,5 +1,5 @@
 ---
-title: Spore Print Collection
+title: Spore spore-print-collection-spore-mass-inoculation
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
@@ -8,14 +8,14 @@ sources: [papers/mycelium-running-stamets.md]
 ---
 # Spore Print Collection
 
-Spore printing is the art and science of capturing mushroom spores for identification, cultivation, and artistic purposes. It is both a fun activity and an essential skill for any mycophile. From *Mycelium Running* by [[ganoderma-lucidum-reishi-comprehensive-profile]]*) is a polypore with pores; lion's mane (*[[agaricus-bisporus-cultivation-biology]]* (button/portobello), *Panaeolus* |
+[[mushroom-spore-printing-and-storage]] is the art and science of capturing [[query-how-to-store-mushroom-spores-long-term]] for identification, cultivation, and artistic purposes. It is both a fun activity and an essential skill for any mycophile. From *[[woodlovers-mycelium-running-pathway-technique]]* by [[ganoderma-lucidum-reishi-comprehensive-profile]]*) is a polypore with pores; lion's mane (*[[agaricus-bisporus-cultivation-biology]]* (button/portobello), *Panaeolus* |
 | Rust-brown | *Gymnopilus*, *Cortinarius* |
 | Cinnamon-brown | *Galerina*, *Pholiota*, *Inocybe* |
 | Purple-brown | *Psilocybe*, *Deconica*, *Hypholoma* |
 | Black | *Coprinus*, *Panaeolus foenisecii* |
 | Pinkish-brown | *Clitopilus* |
 | Salmon/pinkish | *Pluteus*, some *Volvariella* |
-| Yellow | *Chlorophyllum molybdites* (green-spored!) |
+| Yellow | *[[guzman-chlorophyllum-molybdites-toxic-edible-paradox-yoruba-divinatory-use]]* (green-spored!) |
 | Green | *Chlorophyllum molybdites* |
 | Orange-brown | *Gymnopilus* |
 
@@ -106,3 +106,7 @@ Mushrooms orient into the wind (aerotropism), creating a pressure drop under the
 3. Place in a perforated bag, burlap sack, or wooden crate
 4. Store at 35-50°F; mushrooms begin fruiting in 2-3 months (e.g., March from January inoculation)
 5. Works with aggressive species like *Pleurotus* ([[spore-print-collection-spore-mass-inoculation]]
+
+## See Also
+
+- [[sterile-spore-print-collection-glass-jar-technique]]

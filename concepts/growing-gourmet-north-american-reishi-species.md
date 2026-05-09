@@ -1,5 +1,5 @@
 ---
-title: "North American Reishi Species Complex (Ganoderma tsugae, G. oregonense, G. curtisii)"
+title: "growing gourmet north american reishi species Reishi Species Complex (Ganoderma tsugae, G. oregonense, G. curtisii)"
 created: 2026-04-26
 tags:
   - reishi
@@ -16,7 +16,7 @@ type: concept
 
 # North American Reishi Species Complex
 
-While Ganoderma lucidum (Ling Chi) is the most famous medicinal
+While [[stamets-reishi-ganoderma-lucidum-cultivation]] (Ling Chi) is the most famous medicinal
 mushroom in Asia, North America hosts a constellation of closely
 related Ganoderma species that share many of the same medicinal
 properties. The most notable are G. tsugae (Hemlock Reishi),
@@ -57,7 +57,7 @@ species produces enormous shelf-like fruitbodies that can exceed
 
 ## Ganoderma curtisii
 
-A southern species found in the southeastern United States, G.
+A southern species found in the southeastern [[dmt-containing-plants-united-states-halpern]], G.
 curtisii is closely related to G. lucidum but can be distinguished
 by its habitat preference and slightly different spore morphology.
 
@@ -70,7 +70,7 @@ by its habitat preference and slightly different spore morphology.
 G. lucidum typically grows on hardwoods, whereas G. tsugae and G.
 oregonense grow on conifers. In culture, G. lucidum and G. tsugae
 appear nearly identical. A distinguishing feature is that G. lucidum
-is amenable to tissue culture from mature specimens, whereas G.
+is amenable to [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] from mature specimens, whereas G.
 tsugae is not. The three species (G. lucidum, G. oregonense, and
 G. tsugae) represent a constellation of closely related individuals,
 probably best viewed as varieties of the same species. All are
@@ -78,13 +78,13 @@ recognized as medicinally active.
 
 ## Medicinal Properties
 
-All species in this complex contain the same key bioactive compounds
-that make [[growing-gourmet-supplemented-sawdust-sterilization]]. G. tsugae prefers conifer sawdust (hemlock, Douglas fir) but can also
+All species in this complex contain the same key [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]
+that make growing-gourmet-supplemented-sawdust-sterilization. G. tsugae prefers conifer sawdust (hemlock, Douglas fir) but can also
 fruit on hardwood substrates. G. oregonense is typically wild-
 harvested due to its slow growth in culture.
 
 ### Growth Parameters
-- Spawn run: 70-80 degrees F (21-27 degrees C), 95-100% humidity
+- [[mushroom-spawn-run-thermogenesis-cotter]]: 70-80 degrees F (21-27 degrees C), 95-100% humidity
 - Primordia: 85-95 degrees F (29-35 degrees C), high humidity
 - Fruitbody development: 85-95 degrees F (29-35 degrees C), 85-95%
   humidity
@@ -115,6 +115,9 @@ G. lucidum, as the former is more readily available.
 
 ## Related Topics
 
-- [[growing-gourmet-supplemented-sawdust-sterilization]]
+- growing-gourmet-supplemented-sawdust-sterilization
 - [[growing-gourmet-strain-selection]]
 - [[growing-gourmet-contamination-prevention]]
+- [[ganoderma-tsugae]]
+- [[ganoderma-lucidum]]
+- [[sterilization]]

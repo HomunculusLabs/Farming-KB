@@ -13,7 +13,7 @@ sources:
   - Koutsovoulos, G. et al. (2021). "Bioluminescence in the Omphalotus olearius species complex." Scientific Reports 11: 23259.
   - Kirchmair, M. et al. (2005). "Phylogenetic analysis of Omphalotus species." Mycologia 97(2): 418-426.
   - Petersen, R.H. & Krisai-Greilhuber, I. (1999). "Omphalotus in Europe." Österreichische Zeitschrift für Pilzkunde 8: 33-46.
-  - Desjardin, D.E. et al. (2008). "Bioluminescent fungi." Mycologia 100(6): 897-905.
+  - Desjardin, D.E. et al. (2008). "[[bloomfield-bioluminescent-fungi-overview]]." Mycologia 100(6): 897-905.
   - Wasson, R.G. (1980). "The bioluminescent agarics of Europe." Economic Botany 34(1): 65-75.
 created: 2026-04-28
 ---
@@ -40,7 +40,7 @@ Gills are narrow, crowded, and decurrent, extending down the stipe. They are the
 
 The stipe is 3–10 cm long and 0.5–2 cm thick, central to eccentric, often curved.
 
-It is solid, smooth, and orange like the cap, sometimes with a paler basal mycelium. Spore print is white to pale cream.
+It is solid, smooth, and orange like the cap, sometimes with a paler basal mycelium. [[comparison-spore-print-collection-vs-spore-syringe-production]] is white to pale cream.
 
 Basidiospores are ellipsoid, smooth, non-amyloid, measuring 5.5–7.5 × 4–5.5 µm. Basidia are four-spored, clavate, and 28–35 × 6–8 µm. Cystidia are absent on both gill edge and face.
 
@@ -86,9 +86,9 @@ Confusion with edible chanterelles is the primary cause of poisoning. Key distin
 
 ## Ecological Role
 
-*O. illudens* functions primarily as a saprotrophic wood decomposer, breaking down cellulose and lignin in dead hardwood. It contributes to nutrient cycling in forest ecosystems by releasing bound carbon and minerals from woody substrates.
+*O. illudens* functions primarily as a saprotrophic wood decomposer, breaking down cellulose and lignin in dead hardwood. It contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest ecosystems by releasing bound carbon and minerals from woody substrates.
 
-The bioluminescence may serve an ecological function, though its purpose remains debated. Hypotheses include attracting arthropods for spore dispersal (as demonstrated in other bioluminescent fungi), deterring fungivorous organisms, or as a byproduct of oxidative metabolism with no adaptive significance.
+The bioluminescence may serve an ecological function, though its purpose remains debated. Hypotheses include attracting arthropods for [[aquatic-fungi-spore-dispersal-ingold]] (as demonstrated in other bioluminescent fungi), deterring fungivorous organisms, or as a byproduct of oxidative metabolism with no adaptive significance.
 
 ## Distinguishing from Similar Species
 
@@ -102,9 +102,9 @@ Within its own genus, *O. illudens* is distinguished from *O. olearius* by its p
 
 ## Research Applications
 
-The illudin compounds produced by *O. illudens* have attracted significant pharmaceutical interest as scaffolds for anticancer drug development. Illudin S has been used to synthesize hydroxymethylacylfulvene (HMAF, irofulven), a semisynthetic derivative that reached Phase II clinical trials for prostate and ovarian cancers.
+The illudin compounds produced by *O. illudens* have attracted significant pharmaceutical interest as scaffolds for anticancer drug development. Illudin S has been used to synthesize hydroxymethylacylfulvene (HMAF, irofulven), a semisynthetic derivative that reached Phase II [[mushroom-cancer-clinical-trials-overview]] for prostate and ovarian cancers.
 
-Irofulven demonstrates improved therapeutic index compared to the parent illudin while retaining DNA-alkylating activity. Its mechanism involves formation of DNA interstrand cross-links that preferentially affect rapidly dividing cells.
+Irofulven demonstrates improved [[cannabis-therapeutic-index-overview]] compared to the parent illudin while retaining DNA-alkylating activity. Its mechanism involves formation of DNA interstrand cross-links that preferentially affect rapidly dividing cells.
 
 The fungal luciferase-luciferin system has been investigated for applications in biotechnology, including biosensors and environmental monitoring. Unlike firefly luciferase, the fungal system does not require ATP as a cofactor, making it potentially useful for different assay configurations.
 

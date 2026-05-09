@@ -1,27 +1,18 @@
 ---
-title: Medicinal Mushroom Compounds
+title: gourmet-medicinal-mushroom-casing-layer-techniques Compounds
 created: 2026-04-28
-tags: [[mycology, pharmacology, medicinal-mushrooms, biochemistry]
+tags: [mycology, pharmacology, medicinal-mushrooms, biochemistry]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 type: concept
 ---
-
-# Medicinal Mushroom Compounds
-
-Medicinal mushrooms produce a diverse array of **bioactive compounds** with
-immunomodulatory, anti-inflammatory, anti-tumor, antioxidant, and
-neuroprotective properties. These compounds have been used in traditional
-medicine for millennia, particularly in East Asian practices, and are now the
-subject of extensive pharmacological research.
-
-## [[trametes-versicolor-entity]]*, PSK/PSP), **shiitake**
-(lentinan), **maitake** (D-fraction), and **reishi** (*Ganoderma lucidum*).
+# Medicinal Mushroom Compounds Medicinal mushrooms produce a diverse array of **bioactive compounds** with immunomodulatory, anti-inflammatory, anti-tumor, antioxidant, and neuroprotective properties. These compounds have been used in traditional medicine for millennia, particularly in East Asian practices, and are now the subject of extensive pharmacological research. ## [[trametes-versicolor-entity]]*, PSK/PSP), **shiitake**
+(lentinan), **maitake** (D-fraction), and **reishi** (*[[stamets-reishi-ganoderma-lucidum-cultivation]]*).
 
 ## Triterpenoids
 
-**Triterpenoids** are a large class of secondary metabolites found predominantly
+**Triterpenoids** are a large class of [[antifungal-secondary-metabolites-coprophilous-fungi]] found predominantly
 in **Ganoderma** species (reishi/lingzhi). Over 150 triterpenoids have been
 isolated from *G. lucidum* alone. Notable activities:
 
@@ -59,9 +50,9 @@ antioxidant**:
 
 - Accumulated selectively in tissues via the OCTN1 transporter
 - Protects mitochondrial DNA from oxidative damage
-- Reduces markers of oxidative stress and inflammation
+- Reduces markers of [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] and inflammation
 - Cannot be synthesized by humans — must be obtained through diet
-- Concentrations vary by species; shiitake and oyster mushrooms are excellent
+- Concentrations vary by species; [[query-difference-between-shiitake-and-oyster-mushrooms]] mushrooms are excellent
   dietary sources
 
 ## Ergosterol and Vitamin D
@@ -88,7 +79,7 @@ synthesis and cellular signaling pathways.
 
 ## Standardization Challenges
 
-Medicinal mushroom products face significant **quality control challenges**:
+Medicinal [[cotter-mushroom-products-and-value-added-applications]] face significant **quality control challenges**:
 variable compound concentrations based on strain, growing conditions, harvest
 timing, and processing methods. Standardization to specific marker compounds
 (e.g., beta-glucan content) is essential but not universally practiced. Hot

@@ -14,14 +14,14 @@ sources:
   - Osborn, T.G.B. & Kershaw, L. (1934). "The biology of Brasenia schreberi." Journal of Ecology, 22(2), 336–347.
   - Kubo, H. et al. (2011). "Reproductive biology and pollination ecology of Brasenia schreberi." Aquatic Botany, 94(4), 143–149.
   - Schneider, E.L. & Ford, J.L. (1978). "Observations on the pollination biology of Brasenia schreberi." Aquatic Botany, 4, 323–328.
-  - Cook, C.D.K. (1996). "Aquatic and Wetland Plants of India." Oxford University Press.
+  - Cook, C.D.K. (1996). "[[permaculture-plants-aquatic-and-wetland-species]] Plants of India." Oxford University Press.
 ---
 
 ## Overview
 
-**Brasenia schreberi**, commonly known as watershield, is a floating-leaved freshwater aquatic plant in the family Cabombaceae.
+**Brasenia schreberi**, commonly known as watershield, is a floating-leaved [[biodiversity-fungi-freshwater-aquatic-habitats]] plant in the family Cabombaceae.
 
-It is the sole extant species in the genus *Brasenia*, making it a monotypic taxon with a distribution spanning North America, East Asia, and Australia.
+It is the sole extant species in the genus *Brasenia*, making it a monotypic taxon with a distribution spanning [[psilocybin-north-america-pacific-northwest]], East Asia, and Australia.
 
 The species is distinguished by the thick mucilaginous coating covering its leaves and stems, which gives the foliage a distinctive gelatinous texture.
 
@@ -67,7 +67,7 @@ Isolated populations also occur in southeastern Australia and Tasmania.
 
 The species grows in ponds, lakes, slow-moving rivers, and marshes in water 0.5–3.0 meters deep.
 
-It prefers acidic to circumneutral waters with soft substrates rich in organic matter.
+It prefers acidic to circumneutral waters with soft substrates rich in [[hamilton-composting-and-organic-matter-management]].
 
 Optimal conditions include clear water with full to partial sun exposure and stable water levels.
 
@@ -105,7 +105,7 @@ Nutritional analysis shows high content of vitamin K, dietary fiber, and polyphe
 
 In traditional Chinese medicine the plant has been used as an anti-inflammatory agent and to treat fever and skin conditions.
 
-North American Indigenous peoples reportedly consumed the rhizomes and seeds, though this use was less developed than in Asia.
+[[growing-gourmet-north-american-reishi-species]] Indigenous peoples reportedly consumed the rhizomes and seeds, though this use was less developed than in Asia.
 
 The mucilage has been investigated for industrial applications including food thickening and cosmetic formulations.
 
@@ -113,7 +113,7 @@ The mucilage has been investigated for industrial applications including food th
 
 Commercial cultivation of watershield is well-established in Japan, where it is grown in shallow ponds and flooded rice paddies.
 
-Propagation is primarily through rhizome division in early spring before the growing season begins.
+Propagation is primarily through rhizome division in early spring before the [[savory-growing-season-and-non-growing-season-management]] begins.
 
 Rhizome segments 10–15 cm long with at least two nodes are planted in 15–30 cm of water in organically rich sediment.
 

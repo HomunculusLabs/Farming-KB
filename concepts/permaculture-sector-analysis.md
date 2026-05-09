@@ -11,13 +11,14 @@ tags:
   - site-analysis
   - mollison
 sources:
-  - raw/papers/bill-mollison-permaculture-design-course.md
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
 ---
 
 # Permaculture Sector Analysis
 
-Sector analysis is a core analytical tool in permaculture design that maps the flows of energy, forces, and influences that move across a site from outside. Developed by Bill Mollison and expanded by subsequent teachers including Williams, sector analysis helps the designer place elements to either intercept, channel, or block these external forces.
+Sector analysis is a core analytical tool in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] that maps the flows of energy, forces, and influences that move across a site from outside. Developed by Bill Mollison and expanded by subsequent teachers including Williams, sector analysis helps the designer place elements to either intercept, channel, or block these external forces.
 
 ## What Is a Sector?
 
@@ -33,7 +34,7 @@ A sector is a directional zone of influence on the site. Unlike zones (which are
 ### Wind Sectors
 
 - **Summer wind sector**: Prevailing wind direction during summer (approximately 80 degrees wide on the sector diagram). May bring cooling breezes or hot dry winds depending on location.
-- **Winter wind sector**: Prevailing wind direction during winter (approximately 80 degrees wide). Often carries cold air that needs to be blocked or deflected.
+- **Winter wind sector**: Prevailing wind direction during winter (approximately 80 degrees wide). Often carries [[hemenway-cold-air-drainage-and-frost-management]] that needs to be blocked or deflected.
 - Williams notes that summer and winter winds typically come from different directions, creating two separate sectors.
 
 ### Fire Sector
@@ -46,7 +47,7 @@ A sector is a directional zone of influence on the site. Unlike zones (which are
 
 - Direction of surface water flow onto and across the site
 - Includes seasonal flood patterns and stormwater runoff
-- Guides placement of swales, ponds, and diversion drains
+- Guides placement of swales, ponds, and [[mollison-designers-diversion-drains-and-interceptor-banks]]
 
 ### Noise Sectors
 
@@ -87,7 +88,7 @@ Once the sector diagram is complete, it tells the designer where to place elemen
 
 - **Block** undesirable forces: Windbreaks on the cold wind sector, firebreaks on the fire sector, noise buffers on the noise sector
 - **Allow access** to desirable forces: Open the winter sun sector for solar gain, direct cooling summer breezes into living spaces
-- **Catch and store** useful flows: Place water harvesting on the water flow sector, position solar panels in the sun sector
+- **[[permaculture-principle-catch-and-store-energy]]** useful flows: Place water harvesting on the water flow sector, position solar panels in the sun sector
 - **Redirect** forces: Deflect cold wind over or around structures, channel water to storage
 
 ## Mollison's Sector Design Insights
@@ -99,7 +100,7 @@ Once the sector diagram is complete, it tells the designer where to place elemen
 
 ## Related Concepts
 
-- [[permaculture-zone-and-sector-analysis]]
+- [[zone-sector-analysis-guide]]
 - [[permaculture-design-methods]]
 - [[permaculture-zones-and-sectors]]
 - [[permaculture-site-analysis]]

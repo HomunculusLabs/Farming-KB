@@ -23,7 +23,7 @@ Among microorganisms inhabiting soils, fungi commonly rank as the most abundant 
 
 Grassland soils are enriched by organic accretion throughout the soil profile, especially from grass roots that are annual, finely divided, and contribute a biomass that far exceeds above-ground biomass. Forest soils, in contrast, are enriched by debris from a massive above-ground biomass plus substantial input from mycorrhizae. In deserts, desert-grasslands, and some forest communities, the above-ground debris often consists of relatively intact organic matter (litter) only. In mesic or wet grasslands and in most shrublands, heathlands, and forests, the superficial debris is underlain by an amorphous, aromatic layer of organic material (humus) that rests on mineral soil impregnated with humus.
 
-See also: [[fungal-biodiversity-in-soil-ecosystems]], [[fungal-decomposition-processes]]
+See also: fungal-biodiversity-in-soil-ecosystems, [[fungal-decomposition-processes]]
 
 2. **Carbon and Nitrogen Storage**: Soil fungi are of interest to ecologists because of their importance in [[soil-food-web]] dynamics.
 
@@ -33,7 +33,7 @@ See also: [[fungal-biodiversity-in-soil-ecosystems]], [[fungal-decomposition-pro
 
 5. **Biodegradation and Bioremediation**: The capacity for complex biosyntheses and biodegradation makes soil fungi important for [[fungal-biodiversity]] matters.
 
-See also: [[fungal-feeding-invertebrates-soil]], [[fungal-kingdom-classification]], [[soil-fungal-isolation-techniques]]
+See also: fungal-feeding-invertebrates-soil, fungal-kingdom-classification, [[soil-fungal-isolation-techniques]]
 
 ## The Soil Fungus Problem
 
@@ -45,26 +45,26 @@ Varied new approaches to the evaluation of soil and rhizosphere communities have
 
 ## Species Diversity and Geographic Gaps
 
-No complete inventory of soil fungi has been undertaken for any single geographic region. Intensive surveys have been carried out in Europe, North America, the Middle East, India, Japan, Taiwan, Australia, New Zealand, and the Arctic. Tropical soils; soils from austral South America, southern Asia, and much of Australia and Africa; and soils in other geographically and ecologically remote areas have been examined less thoroughly.
+No complete inventory of soil fungi has been undertaken for any single geographic region. Intensive surveys have been carried out in Europe, [[psilocybin-north-america-pacific-northwest]], the Middle East, India, Japan, Taiwan, Australia, New Zealand, and the Arctic. Tropical soils; soils from austral South America, southern Asia, and much of Australia and Africa; and soils in other geographically and ecologically remote areas have been examined less thoroughly.
 
 In temperate or boreal regions, probably 60-80% of the principal sporulating species can be identified with moderate reliability. A higher percentage of unknown forms will be encountered in tropical regions and on nontropical sites that are geographically remote or ecologically unusual. The development of comprehensive guides to soil fungi, especially tropical soil fungi, should be a high priority in fungal systematics.
 
 See also: [[fungal-biogeography]], [[fungal-decomposition]] and [[fungal-bacterial-interactions]] in Soil
 
-The interaction between fungal and bacterial communities in soil is complex and critical for nutrient cycling. Bacterial-fungal interactions can be competitive, commensal, or mutualistic. In agricultural soils, management practices that favor fungal-dominated communities (such as reduced tillage, cover cropping, and organic amendments) are associated with improved soil structure, nutrient retention, and disease suppression.
+The interaction between fungal and [[cultivar-endorhiza-bacterial-communities-cannabis]] in soil is complex and critical for [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. Bacterial-fungal interactions can be competitive, commensal, or mutualistic. In agricultural soils, management practices that favor fungal-dominated communities (such as reduced tillage, cover cropping, and [[cervantes-organic-amendments-chart]]) are associated with improved soil structure, nutrient retention, and [[aact-disease-suppression-mechanisms-ingham]].
 
 ### Practical Applications
 
 Fermentation products of soil fungi are important in world medicine, including penicillin, cephalosporin, cyclosporin, and lovastatin. Soil fungi are also important for:
-- [[fungal-bioremediation]] of contaminated soils
+- fungal-bioremediation of contaminated soils
 - Production of enzymes for industrial applications
-- [[fungal-roles-in-agriculture]], [[fungal-enzyme-systems-and-nutrient-cycling]]
+- fungal-roles-in-agriculture, fungal-enzyme-systems-and-nutrient-cycling
 
 ## Wisconsin Soil Fungi Surveys
 
 The Wisconsin surveys represent some of the most intensive studies of soil fungal diversity. These surveys examined soil fungal communities across different habitat types, seasons, and soil depths, providing baseline data on species composition, abundance patterns, and distribution. The surveys demonstrated that:
 - Species richness in soil fungal communities is extremely high
-- Community composition varies significantly with soil type, vegetation, and season
+- [[core-endorhiza-bacterial-community-composition-cannabis]] varies significantly with soil type, vegetation, and season
 - Many species are cosmopolitan while others show strong habitat preferences
 - Rare species constitute a large proportion of total diversity
 
@@ -82,4 +82,4 @@ For anyone conducting inventories of saprobic soil fungi, the following principl
 6. Pay special attention to basidiomycetes, which are typically under-sampled
 7. Include baiting techniques for groups not readily isolated by plating
 
-See also: [[fungal-biodiversity-sampling-design]], [[fungal-sampling-methods]]
+See also: fungal-biodiversity-sampling-design, [[fungal-sampling-methods]]

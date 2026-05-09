@@ -1,10 +1,11 @@
 ---
-title: "Trap Cropping vs Companion Planting"
+title: "Trap Cropping vs comparison-companion-planting-reference-vs-jadam-monoculture-critique"
 created: 2026-04-28
 tags: [comparison, pest-management, organic-gardening, polyculture]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/steve-solomon-gardening-when-it-counts.md"
 type: comparison
 ---
 
@@ -18,13 +19,13 @@ Trap cropping and companion planting are two complementary ecological strategies
 
 [[solomon-companion-planting-evidence-based]]
 
-Companion planting is the practice of growing different plant species in close proximity based on the belief that they provide mutual benefits such as pest deterrence, improved nutrient availability, or enhanced growth. Popular examples include beans with corn, basil with tomatoes, and marigolds throughout the vegetable garden. The concept has deep roots in traditional gardening folklore and is widely promoted through companion planting charts and reference guides.
+Companion planting is the practice of growing different plant species in close proximity based on the belief that they provide mutual benefits such as pest deterrence, improved [[ph-and-nutrient-availability-garden-soils]], or enhanced growth. Popular examples include beans with corn, basil with tomatoes, and marigolds throughout the vegetable garden. The concept has deep roots in traditional gardening folklore and is widely promoted through companion planting charts and reference guides.
 
-However, as Steve Solomon rigorously documents, many companion planting claims lack scientific support. The most pervasive myth is that interplanted legumes enrich soil for neighboring crops through nitrogen fixation. In reality, the nitrogen fixed by rhizobia bacteria in legume root nodules is rapidly transported into the legume's own leaves, stems, and seeds. Negligible amounts exude into surrounding soil during the growing season. Solomon cites an old farmer's saying: "Feed your phosphate to your clover, feed your clover to your corn," meaning legumes should be managed as green manure in rotation, not relied upon as live companions.
+However, as Steve Solomon rigorously documents, many companion planting claims lack scientific support. The most pervasive myth is that interplanted legumes enrich soil for neighboring crops through [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. In reality, the nitrogen fixed by rhizobia bacteria in legume root nodules is rapidly transported into the legume's own leaves, stems, and seeds. Negligible amounts exude into surrounding soil during the growing season. Solomon cites an old farmer's saying: "Feed your phosphate to your clover, feed your clover to your corn," meaning legumes should be managed as green manure in rotation, not relied upon as live companions.
 
 Several conditions are required for nitrogen fixation to occur at all. Legumes need specialized rhizobia bacteria that may be absent in depleted soils, and they require substantial calcium and phosphorus to support the nitrogen-fixing symbiosis. When legumes are harvested as food crops, the nitrogen goes with them, making them net nitrogen removers. Solomon advocates replacing companion-based nitrogen claims with proven rotation and green manure practices that genuinely build soil fertility.
 
-That said, some companion planting effects do have evidence behind them. Physical support structures (corn stalks trellising beans), canopy effects that modify microclimate, and certain volatile compound interactions for pest deterrence are plausible mechanisms with varying degrees of research support. Solomon's broader critique does not dismiss all companion planting outright, but urges gardeners to demand evidence before adopting specific combinations. The practical takeaway is to treat companion planting as one tool among many rather than a comprehensive pest management solution.
+That said, some companion planting effects do have evidence behind them. Physical support structures (corn stalks trellising beans), canopy effects that modify microclimate, and certain [[fungal-btex-volatile-compound-degradation]] interactions for pest deterrence are plausible mechanisms with varying degrees of research support. Solomon's broader critique does not dismiss all companion planting outright, but urges gardeners to demand evidence before adopting specific combinations. The practical takeaway is to treat companion planting as one tool among many rather than a comprehensive pest management solution.
 
 ### What the Evidence Actually Supports
 
@@ -55,7 +56,7 @@ It is worth noting that even some of the more plausible companion planting claim
 
 Choose trap cropping when you face a known, persistent pest problem with a documented trap crop solution. Squash bugs, flea beetles, cabbage worms, and aphids all have well-researched trap crop pairings validated in university field trials. Trap cropping is especially valuable in larger gardens and farms where perimeter planting is practical and where the labor of monitoring and destroying trap crops is justified by the value of the protected main crop.
 
-It is the better choice when you need a reliable, measurable reduction in pest pressure and are willing to invest the management effort. Trap cropping also pairs well with biological control programs, as concentrating pests on a small area makes parasitoid wasps and predatory insects more effective. The key prerequisite is identifying the specific pest and selecting a trap crop species that is demonstrably more attractive to that pest than your main crop.
+It is the better choice when you need a reliable, measurable reduction in pest pressure and are willing to invest the management effort. Trap cropping also pairs well with [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] programs, as concentrating pests on a small area makes [[comparison-parasitoid-wasps-vs-chemical-pesticides]] and predatory insects more effective. The key prerequisite is identifying the specific pest and selecting a trap crop species that is demonstrably more attractive to that pest than your main crop.
 
 For gardeners new to trap cropping, starting with a single well-documented pairing such as radishes for flea beetles or nasturtiums for aphids is recommended. Monitor the trap crop weekly and observe whether pest pressure on the main crop decreases compared to previous seasons. This simple comparison provides direct evidence of effectiveness and builds confidence in the approach before scaling up to more complex multi-pest strategies.
 

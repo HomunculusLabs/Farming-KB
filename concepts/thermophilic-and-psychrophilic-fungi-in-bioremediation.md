@@ -1,5 +1,5 @@
 ---
-title: Thermophilic and Psychrophilic Fungi in Bioremediation
+title: Thermophilic and psychrotolerant-psychrophilic-fungi-ecology in Bioremediation
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -13,7 +13,7 @@ Temperature-adapted fungi -- including thermophiles (heat-loving), psychrophiles
 
 ## Temperature Classification of Fungi
 
-| Category | Temperature Range | Optimum |
+| Category | [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] | Optimum |
 |----------|------------------|---------|
 | Psychrophilic | Below 0-20C | 0-15C |
 | Psychrotolerant | Below 0 to above 20C | 15-25C |
@@ -40,11 +40,11 @@ Cold-adapted fungi are valuable for:
 - **Winter operations**: Year-round bioremediation in temperate climates
 - **Cold storage environments**: Food processing and pharmaceutical waste treatment
 
-Phenol degradation capability is particularly relevant for industrial wastewater treatment in cold climates.
+Phenol degradation capability is particularly relevant for [[fungal-industrial-wastewater-treatment]] treatment in cold climates.
 
 ## Thermophilic Fungi
 
-Thermophilic fungi grow optimally above 40C and maintain metabolic activity at temperatures inhibitory to mesophiles. These fungi produce thermostable enzymes valuable for:
+Thermophilic fungi grow optimally above 40C and maintain [[arbuscule-isolation-metabolic-activity-assays]] at temperatures inhibitory to mesophiles. These fungi produce thermostable enzymes valuable for:
 
 - **Composting systems**: High-temperature phases of composting (50-70C) are dominated by thermophilic fungi
 - **Industrial effluent treatment**: Hot industrial wastewaters from food processing, paper mills, and textile industries
@@ -55,19 +55,19 @@ Thermophilic fungi grow optimally above 40C and maintain metabolic activity at t
 During the thermophilic phase of composting:
 - Temperature rises to 50-70C
 - Mesophilic organisms are killed or inactivated
-- Thermophilic fungi dominate organic matter degradation
+- Thermophilic fungi dominate [[hamilton-composting-and-organic-matter-management]] degradation
 - Thermomyces lanuginosus is a common thermophilic species in compost
 
 ### Thermophilic Enzyme Production
 
 Thermophilic fungi produce heat-stable versions of:
-- Cellulases (for [[fungal-morphology-growth-and-pellet-formation]]
+- Cellulases (for fungal-morphology-growth-and-pellet-formation
 - [[mycoremediation-techniques]]
 - [[fungi-as-environmental-indicators-and-biosensors]]
 
 ## Source
 
-Singh, H. (2006). *Mycoremediation: Fungal Bioremediation*. John Wiley & Sons. Chapter 1, Section 1.8: "Thermophilic, Alpine, and Lichen-Forming Fungi."
+Singh, H. (2006). *Mycoremediation: [[staycare-composting-as-a-fungal-bioremediation-strategy]]*. John Wiley & Sons. Chapter 1, Section 1.8: "Thermophilic, Alpine, and Lichen-Forming Fungi."
 - [[fungal-diversity-indices-community-analysis]]
 ## Practical Considerations
 
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

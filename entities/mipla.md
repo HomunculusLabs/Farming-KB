@@ -13,7 +13,7 @@ sources:
   - Hofmann, A. (1979). "How LSD Originated." Journal of Psychedelic Drugs, 11(1–2), 53–60.
   - TiHKAL: The Continuation. Shulgin, A. & Shulgin, A. (1997). Transform Press.
   - Nichols, D.E. (2018). "Psychedelics." Pharmacological Reviews, 70(3), 677–710.
-  - Brandt, S.D. et al. (2016). "Return of the Lysergamides." Drug Testing and Analysis, 8(9), 921–936.
+  - Brandt, S.D. et al. (2016). "Return of the Lysergamides." [[psychedelic-drug-testing-and-adulterant-screening]] and Analysis, 8(9), 921–936.
   - Halberstadt, A.L. et al. (2020). "Correlation Between Potency and Binding." ACS Chemical Neuroscience.
 created: 2026-04-28
 ---
@@ -26,7 +26,7 @@ created: 2026-04-28
 
 MIPLA is classified as a novel psychoactive substance (NPS) and is controlled as a Schedule I substance in many jurisdictions. It is one of several lysergamide analogues that emerged in the research chemical market during the 2010s, alongside 1P-LSD, ETH-LAD, and ALD-52.
 
-The compound exhibits classic psychedelic effects comparable to LSD, with reported differences in onset time, duration, and subjective intensity profile. Limited formal pharmacological data exists, with most information derived from self-reporting by recreational users and in vitro receptor binding assays.
+The compound exhibits classic psychedelic effects comparable to LSD, with reported differences in onset time, duration, and subjective intensity profile. Limited formal pharmacological data exists, with most information derived from self-reporting by recreational users and in vitro [[tihkal-receptor-binding-serotonin]] assays.
 
 ## Chemical Properties
 
@@ -62,7 +62,7 @@ The N6 substituent influences both receptor affinity and metabolic stability. Co
 
 **Subjective effects include:**
 - Visual hallucinations: geometric patterns, color enhancement, tracers, fractal visuals
-- Cognitive effects: thought loops, enhanced introspection, ego dissolution at higher doses
+- Cognitive effects: thought loops, enhanced introspection, [[psilocybin-ego-dissolution-mechanisms]] at higher doses
 - Emotional effects: euphoria, enhanced appreciation of music and art, anxiety in some users
 - Sensory effects: synesthesia (less common), enhanced tactile perception, time dilation
 
@@ -78,11 +78,11 @@ These ranges are derived from user self-reports and are approximate. The compoun
 
 ## Legal Status
 
-MIPLA is controlled as a Schedule I substance under the United States Federal Analogue Act due to its structural similarity to LSD. It is also controlled in the United Kingdom under the Psychoactive Substances Act and in the EU under individual member state legislation.
+MIPLA is controlled as a Schedule I substance under the United States Federal Analogue Act due to its structural similarity to LSD. It is also controlled in the United Kingdom under the Psychoactive [[controlled-substances-act-and-psychedelic-research]] and in the EU under individual member state legislation.
 
 The compound is classified as a controlled substance in Australia (Schedule 9), Canada (Schedule III), and most European nations. Japan and New Zealand have also scheduled MIPLA specifically or as a lysergamide analogue.
 
-Despite legal restrictions, MIPLA has been detected in seized blotter papers across Europe and North America since approximately 2018, often mislabeled or sold as LSD.
+Despite legal restrictions, MIPLA has been detected in seized blotter papers across Europe and [[psilocybin-north-america-pacific-northwest]] since approximately 2018, often mislabeled or sold as LSD.
 
 ## History
 
@@ -99,7 +99,7 @@ Analytical methods for detection were developed by EMCDDA-affiliated laboratorie
 - **ETH-LAD (N6-ethyl-N6-(6-norlysergic acid)diethylamide):** Ethyl-substituted analogue with reportedly higher potency
 - **1P-LSD (N6-propionyllysergamide):** Prodrug that converts to LSD in vivo
 
-The systematic substitution pattern across these analogues demonstrates that the N6 position tolerates moderate steric variation while maintaining 5-HT2A affinity, though individual analogues differ in metabolic stability, duration, and subjective character.
+The systematic substitution [[psilocin-accumulation-pattern-across-flushes]] these analogues demonstrates that the N6 position tolerates moderate steric variation while maintaining 5-HT2A affinity, though individual analogues differ in metabolic stability, duration, and subjective character.
 
 ## Synthesis
 
@@ -114,4 +114,4 @@ The synthesis requires laboratory expertise and access to controlled precursors.
 - [[1b-lsd]]
 - [[lysergic-acid]]
 - [[psilocybin]]
-- [[4-aco-dmt]]
+- [[4-acetoxy-dmt]]

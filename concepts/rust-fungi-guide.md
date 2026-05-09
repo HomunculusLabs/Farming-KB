@@ -14,7 +14,7 @@ Rust fungi (order Pucciniales, phylum [[basidiomycete-phylum-guide|Basidiomycota
 ## Defining Characteristics
 
 - Obligate biotrophs: can only grow on living host tissue
-- Produce multiple spore types in complex life cycles (up to five stages)
+- Produce multiple spore types in complex [[bloomfield-rust-fungus-life-cycles-puccinia-haustoria-spermatia]] (up to five stages)
 - No known saprotrophic phase: completely dependent on living hosts
 - Among the most host-specific of all plant pathogens
 - Produce characteristic rust-colored pustules (uredinia) on infected tissue
@@ -25,7 +25,7 @@ Rust fungi (order Pucciniales, phylum [[basidiomycete-phylum-guide|Basidiomycota
 Rust fungi can have up to five distinct spore stages, designated by Roman numerals:
 
 ### Stage 0: Spermagonia (Sexual Stage)
-- Minute flask-shaped structures on the upper leaf surface
+- Minute flask-shaped structures on the upper [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]]
 - Produce spermatia (non-motile gametes) and receptive hyphae
 - Insects or rain splash transfer spermatia between compatible mating types
 - Fertilization leads to formation of aecia
@@ -46,7 +46,7 @@ Rust fungi can have up to five distinct spore stages, designated by Roman numera
 - This is the stage responsible for epidemics
 
 ### Stage III: Telia (Teliospores)
-- Dark brown to black pustules, often forming late in the growing season
+- Dark brown to black pustules, often forming late in the [[savory-growing-season-and-non-growing-season-management]]
 - Produce teliospores, which are the overwintering/overseasoning stage
 - Teliospores are dikaryotic; karyogamy occurs within them
 - Some require a dormancy period before germination
@@ -83,7 +83,7 @@ Missing one or more spore stages, often producing only telia and basidia.
 - Ug99 lineage (TTKSK): identified in Uganda in 1999, threatens global wheat production
 - Ug99 has virulence against most widely deployed resistance genes
 - Can cause yield losses of up to 100% in susceptible varieties
-- Eradication of barberry in North America reduced stem rust incidence dramatically
+- Eradication of barberry in [[psilocybin-north-america-pacific-northwest]] reduced stem rust incidence dramatically
 
 ### Stripe (Yellow) Rust (Puccinia striiformis f. sp. tritici)
 - Favors cooler, moist conditions
@@ -109,7 +109,7 @@ Missing one or more spore stages, often producing only telia and basidia.
 - First reported in Japan in 1902; arrived in continental US in 2004
 - Can cause yield losses of 10-80%
 - Rapid spread through wind-dispersed urediniospores
-- Requires fungicide application for control; resistance breeding ongoing
+- Requires fungicide application for control; [[cannabis-disease-pest-resistance-breeding-clarke]] ongoing
 
 ### Pine Stem Rusts (Cronartium spp.)
 - Cronartium ribicola: white pine blister rust, alternates between white pines and Ribes (currants/gooseberries)
@@ -138,27 +138,10 @@ Missing one or more spore stages, often producing only telia and basidia.
 - Fungicide resistance management requires rotation of modes of action
 
 ### Cultural Practices
-- Crop rotation reduces initial inoculum
+- [[comparison-crop-rotation-vs-cover-cropping]] reduces initial inoculum
 - Adjusted planting dates to avoid peak rust periods
 - Destroy volunteer plants that serve as a green bridge
 - Remove alternate hosts (barberry for stem rust, Ribes for white pine blister rust)
-- Residue management to reduce overwintering inoculum
-
-### Surveillance and Forecasting
-- International rust surveillance networks monitor pathogen evolution
-- Molecular tools (PCR, genome sequencing) track virulence shifts
-- Weather-based forecasting models predict disease risk
-- Sentinel plots provide early warning of pathogen migration
-
-## Identification Tips
-
-- Look for rust-colored (orange-brown) pustules on leaves, stems, or fruit
-- Spores rub off onto fingers as a colored powder
-- Check both upper and lower leaf surfaces
-- Late-season: look for dark brown to black telial pustules
-- Microscopic examination of spore morphology required for species identification
-- Spore size, shape, wall thickness, and germ pore position are diagnostic features
-
 ## Related
 
 - [[fungal-plant-diseases]]

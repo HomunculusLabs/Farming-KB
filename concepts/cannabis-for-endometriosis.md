@@ -16,11 +16,11 @@ The endometrium is the interior lining of the uterus, governed by hormonal chang
 
 Primary symptoms include generalized pelvic pain, difficult periods, painful sexual intercourse, and bleeding. Growths and adhesions may spread throughout the pelvic cavity and form attachments on the ovaries, bowels, or surrounding tissue.
 
-Tests to determine endometriosis include pelvic examination and ultrasound. However, the only way to be certain of endometrial tissue growth outside the uterus is via laparoscopy. Orthodox treatments include pain management, hormonal supplementation, and surgery.
+Tests to determine endometriosis include pelvic examination and ultrasound. However, the only way to be certain of endometrial tissue growth outside the uterus is via laparoscopy. Orthodox treatments include [[cannabis-pain-management-protocols]], hormonal supplementation, and surgery.
 
 ## Evidence Base
 
-The Cannabis Health Index (CHI) rates the evidence for cannabis in endometriosis at a CHI value of 5, based on 2 studies reviewed. The evidence comes from pre-clinical animal studies but provides a compelling mechanistic rationale for further investigation.
+The [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI) rates the evidence for cannabis in endometriosis at a CHI value of 5, based on 2 studies reviewed. The evidence comes from pre-clinical animal studies but provides a compelling mechanistic rationale for further investigation.
 
 ## Endocannabinoid System in Uterine Function
 
@@ -40,7 +40,7 @@ The anti-proliferative mechanism is especially noteworthy because it suggests ca
 
 ## Strain Considerations
 
-WIN55,212-2 binds with higher affinity to CB2 than CB1 receptors. Indica or indica-dominant strains generally present with a lower THC:CBD ratio, thus favoring CB2 expression. This suggests that indica strains may be more appropriate for endometriosis patients, particularly for the anti-inflammatory and anti-proliferative effects mediated through CB2 receptors.
+WIN55,212-2 binds with higher affinity to CB2 than CB1 receptors. Indica or indica-dominant strains generally present with a lower THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]], thus favoring CB2 expression. This suggests that indica strains may be more appropriate for endometriosis patients, particularly for the anti-inflammatory and anti-proliferative effects mediated through CB2 receptors.
 
 However, the CB1-mediated pain relief pathway suggests that some THC (which activates CB1) may also be beneficial for managing the pain component of endometriosis.
 
@@ -72,7 +72,7 @@ Florida State University (2010) discovered CB1 receptors in nerves innervating e
 
 ## Limitations and Future Directions
 
-Current evidence comes entirely from pre-clinical animal and laboratory studies. Human clinical trials are urgently needed to confirm these promising findings. The dual potential of cannabinoids to address both endometriosis pain and tissue proliferation makes this one of the most promising areas for cannabinoid-based gynecological research. Future studies should examine both CBD-rich and balanced THC:CBD preparations in women with confirmed endometriosis.
+Current evidence comes entirely from pre-clinical animal and laboratory studies. Human [[mushroom-cancer-clinical-trials-overview]] are urgently needed to confirm these promising findings. The dual potential of cannabinoids to address both endometriosis pain and tissue proliferation makes this one of the most promising areas for cannabinoid-based gynecological research. Future studies should examine both CBD-rich and balanced THC:CBD preparations in women with confirmed endometriosis.
 
 Source: Uwe Blesching, The Cannabis Health Index (2015)
 - [[cannabis-for-dermatological-conditions]]
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -20,7 +20,7 @@ The [[blesching-cannabinoid-pharmacology]] interactions:
 
 - Low doses may support a physiological process
 - High doses may inhibit the same process
-- The therapeutic window varies between individuals and conditions
+- The [[blesching-cannabis-therapeutic-window-dosing]] varies between individuals and conditions
 - This explains why historical sources describe cannabis both as preventing
   miscarriage and as an abortifacient
 
@@ -45,7 +45,7 @@ to the impact of environmental substances during the first trimester.
 
 ## Caution and Future Directions
 
-Although reports exist about the adverse effects of cannabinoids on
+Although reports exist about the [[blesching-cannabis-safety-adverse-effects-evidence]] of cannabinoids on
 pregnancies, the discovery of endocannabinoids and their receptors in the
 female reproductive organs in rodents suggests the system's role in modulating
 pregnancy. More research is needed to:
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

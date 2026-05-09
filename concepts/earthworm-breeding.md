@@ -53,10 +53,10 @@ The soil should be loose and well aerated.
 
 - Any cooking waste can be used as food
 - Onions and garlic should be avoided — worms do not seem to like them
-- Worms particularly like used coffee filters complete with coffee grounds
-- Provide a regular supply of organic matter
+- Worms particularly like used coffee filters complete with [[oyster-mushroom-coffee-grounds-cultivation]]
+- Provide a regular supply of [[hamilton-composting-and-organic-matter-management]]
 - Adjust the amount of food to the number of earthworms
-- If worms can break down food as quickly as new food accumulates, the rate is optimal
+- If worms can [[query-can-fungi-break-down-plastic-pollution]] food as quickly as new food accumulates, the rate is optimal
 - This prevents harmful build-ups of mould
 
 ### Environmental Conditions
@@ -78,7 +78,7 @@ In greenhouses, worms can be bred directly in the soil instead of boxes: cover t
 
 ## Using Worm Products
 
-- Scatter bred worms along with soil and worm eggs over new terraces and raised beds (in the evening, during wet weather)
+- Scatter bred worms along with soil and worm eggs over new terraces and [[comparison-raised-beds-vs-hugelkultur]] (in the evening, during wet weather)
 - Use nutrient-rich, fine crumbly worm humus for especially valuable and demanding plants
 - Also suitable for flowers on balconies
 

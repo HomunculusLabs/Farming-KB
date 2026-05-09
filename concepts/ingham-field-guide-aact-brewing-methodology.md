@@ -1,5 +1,5 @@
 ---
-title: "Ingham Field Guide: AACT Brewing Methodology"
+title: "Ingham Field Guide: ingham-aact-brewing-equipment-reliability-machine-testing-standards Methodology"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -10,7 +10,7 @@ tags: [beer]
 
 # AACT Brewing Methodology (Ingham Field Guide)
 
-Elaine Ingham's Field Guide I establishes the core brewing methodology for Actively Aerated Compost Tea (AACT), drawn from years of Soil Foodweb Inc. (SFI) lab testing and grower correspondence.
+Elaine Ingham's Field Guide I establishes the core brewing methodology for Actively [[actively-aerated-compost-tea-aact-brewing]] Tea (AACT), drawn from years of Soil Foodweb Inc. (SFI) lab testing and grower correspondence.
 
 ## Standard Brew Cycle
 
@@ -32,7 +32,7 @@ Oxygen measurement should use concentration (mg/L), not percent saturation. When
 - Coarse bubbles are preferred over fine bubbles; fine bubbles shred fungal hyphae and can damage organism membranes through supersaturation
 - Balance aeration rate against food input -- more food means greater oxygen demand
 - "Not too much, not too little" applies: over-aeration can kill organisms by creating an overly oxidizing environment
-- Aeration must offset bacterial and fungal growth rates; bacteria can consume all oxygen in minutes when well-fed
+- Aeration must offset [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] growth rates; bacteria can consume all oxygen in minutes when well-fed
 
 ## Biofilm Management
 
@@ -64,22 +64,25 @@ Compost must be contained in a bag or mesh during brewing if the tea will be spr
 
 ## pH During Brewing
 
-Aerobic fungi buffer pH between 5.5 and 7.0. Hold tea pH in this range for best results. pH is a consequence of the biology, not a driver -- it serves as a symptom indicator. If oxygen drops, organic acid production during anaerobic conditions causes pH to drop.
+Aerobic fungi buffer pH between 5.5 and 7.0. Hold tea pH in this range for best results. pH is a consequence of the biology, not a driver -- it serves as a symptom indicator. If oxygen drops, [[fungal-organic-acid-metal-solubilization]] production during anaerobic conditions causes pH to drop.
 
 ## Bottle Test for Aeration Assessment
 
-Half-fill a sealed plastic bottle with finished tea, incubate overnight at ambient temperature, then open carefully and smell:
+Half-fill a sealed plastic bottle with finished tea, incubate overnight at [[jadam-ambient-temperature-principle]], then open carefully and smell:
 - Bottle blown up or sucked in = problem with tea maker (likely anaerobic conditions)
 - Smells bad = not enough aeration or too much food
 - Smells good and dark brown color = tea is likely in good shape
 
-If tea smells bad, apply it only to non-food areas (weeds, bare soil needing organic matter, known diseased areas). Recovery takes approximately 120 days in poor soil or as little as 3 days if the foodweb is healthy.
+If tea smells bad, apply it only to non-food areas (weeds, bare soil needing [[hamilton-composting-and-organic-matter-management]], known diseased areas). Recovery takes approximately 120 days in poor soil or as little as 3 days if the foodweb is healthy.
 
 ## Key Principle
 
 Making AACT is compared to making milk or baking a cake: the compost can be "sick," the machine dirty, the aeration inadequate, the holding tank problematic, or the delivery system flawed. Every step in the production chain must be tested and controlled.
 
 ## See Also
+
+- [[aact-brewing-methodology]]
+- [[ingham-aact-field-guide-index]]
 
 - [[aact-aeration-oxygen-management-ingham]]
 - [[aact-troubleshooting-ingham]]

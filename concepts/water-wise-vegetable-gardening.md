@@ -1,5 +1,5 @@
 ---
-title: Water-Wise Vegetable Gardening
+title: Water-Wise home-vegetable-garden-planning
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,20 +9,20 @@ sources:
 ---
 # Water-Wise Vegetable Gardening
 
-Steve Solomon's approach from "Gardening When It Counts" focuses on growing vegetables with minimal irrigation by using wide spacing, deep soil preparation, and drought-adapted techniques. This approach produces more nutritious food with less water and less labor than intensive raised beds.
+Steve Solomon's approach from "Gardening When It Counts" focuses on [[container-growing-vegetables-herbs]] with minimal irrigation by using wide spacing, deep soil preparation, and drought-adapted techniques. This approach produces more nutritious food with less water and less labor than intensive raised beds.
 
 ## The Four Causes of "Drought" Damage
 
 Solomon identifies that most "drought" damage isn't actually from lack of water but from:
 1. **Sowing too thickly** — too many plants competing for limited water
 2. **Insufficient soil depth** — shallow soil can't hold enough moisture
-3. **Nutrient deficiency** — what looks like drought is often nutrient stress (Albrecht's insight)
+3. **[[cannabis-grow-nutrient-deficiency-problem-solving]]** — what looks like drought is often nutrient stress (Albrecht's insight)
 4. **Surface crusting** — capillary break prevents moisture from rising
 
 ## Wide Spacing System
 
 ### The Principle
-- Plants spaced much wider than conventional intensive gardening
+- Plants spaced much wider than conventional [[wide-row-spacing-intensive-gardening-comparison]]
 - Individual plants get a larger soil moisture reserve
 - Less competition between plants
 - Easier to hoe between rows
@@ -81,7 +81,7 @@ Solomon identifies that most "drought" damage isn't actually from lack of water 
 ### Vegetables That Tolerate Drought Well
 - **Tomatoes**: Once established, deep-rooted and drought-tolerant. Cherry tomatoes most resilient
 - **Peppers**: Deep root system, prefer slightly dry conditions
-- **Eggplant**: Heat and drought tolerant
+- **Eggplant**: Heat and [[permplant-carob-drought-tolerant-food-tree]]
 - **Swiss chard**: Very drought tolerant once established
 - **Parsnips**: Deep taproot accesses deep moisture
 - **Okra**: Loves heat, needs little water
@@ -101,7 +101,7 @@ Solomon identifies that most "drought" damage isn't actually from lack of water 
 - Dissolve organic liquid fertilizer in irrigation water
 - Deliver nutrients directly to root zone
 - More efficient than top-dressing fertilizer
-- Use comfrey tea, seaweed extract, or fish emulsion
+- Use comfrey tea, [[comparison-seaweed-extract-vs-fish-hydrolysate]], or fish emulsion
 
 ## Related
 - [[permaculture-earthworks]] — for earthworks

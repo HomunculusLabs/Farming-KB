@@ -1,5 +1,5 @@
 ---
-title: PF TEK Maximum Fruiting Substrate Formula
+title: PF pf tek maximum fruiting substrate formula stamets-fruiting-substrate-materials Formula
 created: 2026-04-28
 tags: [pf-tek, substrate, recipe, fruiting, formulation, mycology]
 date: 2026-04-28
@@ -39,7 +39,7 @@ more involved preparation process.
 The maximum formula doubles the brown rice powder from 1/8 cup to 1/4 cup while
 keeping vermiculite at 1/2 cup and increasing water from approximately 45 cc to
 60 cc. The additional water is necessary to properly hydrate the increased rice
-flour and maintain the correct moisture content for vigorous mycelial growth.
+flour and maintain the correct moisture content for vigorous [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]].
 
 ## The Vermiculite Factor
 
@@ -96,11 +96,11 @@ nutritional value and vitality through oxidation and moisture exposure.
 
 Health food stores and co-ops are the typical sources for brown rice. Organic brown
 rice is preferred when available, as it is free from pesticide residues that could
-potentially inhibit fungal growth or affect the quality of the final product.
+potentially inhibit [[brassinosteroid-fungal-growth-promotion]] or affect the quality of the final product.
 
 ## Water Quality and Measurement Accuracy
 
-Distilled or filtered drinking water should be used for substrate preparation. Tap
+Distilled or filtered drinking water should be used for [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]. Tap
 water may contain chlorine or other treatment chemicals that could potentially affect
 mycelial growth, though many cultivators report success with tap water that has been
 allowed to sit uncovered for 24 hours to off-gas chlorine.
@@ -135,11 +135,15 @@ jars simultaneously.
 
 Loosely load the half-pint jar with the mixed substrate and level the top of the
 mixture. Do not pack the substrate down at this stage. Leave a 1/2 to 3/4 inch
-space at the top of the jar to accommodate the dry vermiculite barrier layer.
+space at the top of the jar to accommodate the [[pf-tek-dry-vermiculite-contaminant-barrier]] barrier layer.
 
 ### Step 3: Light Tamping
 
-## Related Concepts
+## Related
+
+- [[stamets-fruiting-substrate-materials]]
+
+- [[pf-tek-substrate-formula-details]] Concepts
 
 - [[brown-rice-flour-substrate]] for brown rice flour properties and preparation
 - [[pf-tek-canning-jar-lid-configuration]] for lid preparation and hole punching

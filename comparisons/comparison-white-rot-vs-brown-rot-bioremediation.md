@@ -1,5 +1,5 @@
 ---
-title: "White Rot vs Brown Rot Fungi in Bioremediation"
+title: "comparison-brown-rot-vs-white-rot-bioremediation vs bioremediation-fenton-chemistry-brown-rot-fungi Fungi in Bioremediation"
 created: 2026-04-28
 tags:
   - bioremediation
@@ -10,7 +10,8 @@ tags:
   - environmental-remediation
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -20,15 +21,15 @@ type: comparison
 
 White rot and brown rot fungi represent the two primary fungal strategies for breaking down woody biomass, and both have been adapted for bioremediation of polluted environments. White rot fungi are the more widely studied and generally more powerful pollutant degraders, leveraging a sophisticated suite of extracellular lignin-degrading enzymes. Brown rot fungi employ a complementary non-enzymatic approach using Fenton chemistry to generate hydroxyl radicals that attack organic pollutants.
 
-Both strategies offer dramatic cost advantages over conventional remediation methods such as incineration or chemical treatment, with costs around $50 per ton of contaminated soil. Selecting between them depends on the contaminant type, site conditions, nutrient availability, timeline constraints, and whether the project can accommodate the specific environmental requirements of enzyme-producing organisms.
+Both strategies offer dramatic cost advantages over conventional remediation methods such as incineration or chemical treatment, with costs around $50 per ton of contaminated soil. Selecting between them depends on the contaminant type, site conditions, [[ph-and-nutrient-availability-garden-soils]], timeline constraints, and whether the project can accommodate the specific environmental requirements of enzyme-producing organisms.
 
 ## White Rot Fungi
 
-[[pleurotus-ostreatus]]*), turkey tail (*[[ganoderma-lucidum]]*), and *[[staycare-brown-rot-fungi-in-bioremediation]] degrade cellulose and hemicellulose while modifying lignin through non-enzymatic Fenton chemistry. Rather than secreting oxidative enzymes, they produce low-molecular-weight iron-reducing metabolites such as oxalic acid and quinones. These metabolites reduce Fe(III) to Fe(II), which then reacts with hydrogen peroxide via the Fenton reaction to generate hydroxyl radicals that non-specifically attack pollutants.
+[[pleurotus-ostreatus]]*), [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] (*[[ganoderma-lucidum]]*), and *[[staycare-brown-rot-fungi-in-bioremediation]] degrade cellulose and hemicellulose while modifying lignin through non-enzymatic Fenton chemistry. Rather than secreting oxidative enzymes, they produce low-molecular-weight iron-reducing metabolites such as oxalic acid and quinones. These metabolites reduce Fe(III) to Fe(II), which then reacts with [[cervantes-hydrogen-peroxide-sterilization]] via the Fenton reaction to generate hydroxyl radicals that non-specifically attack pollutants.
 
 **Key species:** *[[mycoremediation]] as a valid remediation technology, though brown rot applications may require additional documentation given the smaller evidence base.
 
-Climate and seasonal factors also play a role in deployment. White rot fungi generally perform best in warm, moist conditions typical of temperate growing seasons. Brown rot fungi, with their tolerance for harsher conditions, may be more suitable for year-round treatment in variable climates or arid regions where maintaining moisture for enzyme production is impractical.
+Climate and seasonal factors also play a role in deployment. White rot fungi generally perform best in warm, moist conditions typical of temperate growing seasons. Brown rot fungi, with their tolerance for harsher conditions, may be more suitable for year-round treatment in variable climates or arid regions where maintaining moisture for [[ligninolytic-enzyme-production-bioremediation]] is impractical.
 
 ## See Also
 
@@ -111,4 +112,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

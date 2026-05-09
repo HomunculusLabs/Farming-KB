@@ -23,7 +23,7 @@ sources:
 
 The species is celebrated for its spectacular pendulous racemes of fragrant violet-blue flowers, which bloom in spring before the foliage emerges. It is one of the most iconic ornamental vines in temperate horticulture.
 
-Chinese wisteria is a long-lived and vigorous climber that can reach considerable size. It has become naturalized and invasive in parts of the southeastern United States and other warm-temperate regions.
+Chinese wisteria is a long-lived and vigorous climber that can reach considerable size. It has become naturalized and invasive in parts of the southeastern [[dmt-containing-plants-united-states-halpern]] and other warm-temperate regions.
 
 ## Taxonomy and Morphology
 
@@ -49,11 +49,11 @@ Fruit is a flattened, velvety legume pod, 10–15 cm long, containing 2–6 roun
 
 In its native range, it inhabits forest margins, thickets, stream valleys, and mountain slopes. It prefers well-drained, loamy soils in positions with full sun or partial shade.
 
-The vine was introduced to European and North American horticulture in the early 19th century. It was first flowered in England at the nursery of John Reeves and quickly became one of the most sought-after ornamental vines of the Victorian era.
+The vine was introduced to European and [[growing-gourmet-north-american-reishi-species]] horticulture in the early 19th century. It was first flowered in England at the nursery of John Reeves and quickly became one of the most sought-after ornamental vines of the Victorian era.
 
 It has naturalized in the southeastern United States, particularly in the Appalachian region and Gulf Coast states. Several southeastern states list it as an invasive species due to its ability to smother native trees and forest canopies.
 
-It is hardy to USDA zones 5–9 and performs best in areas with warm summers that promote vigorous flowering. Cool maritime climates may produce abundant vegetative growth but few flowers.
+It is hardy to USDA zones 5–9 and performs best in areas with warm summers that promote vigorous flowering. Cool maritime climates may produce abundant [[cannabis-vegetative-growth-stage]] but few flowers.
 
 ## Cultivation
 
@@ -63,11 +63,11 @@ Propagation is typically by seed, softwood cuttings, layering, or grafting. Graf
 
 Pruning is critical for promoting flowering and controlling size. The standard technique involves shortening lateral shoots in summer and pruning again in mid-winter to 2–3 buds from the main framework.
 
-Excessive nitrogen fertilizer promotes vegetative growth at the expense of flowers. Phosphorus-rich fertilizer applied in early spring encourages bud formation and more prolific blooming.
+Excessive nitrogen fertilizer promotes vegetative growth at the expense of flowers. Phosphorus-rich fertilizer applied in [[coleman-overwintered-onions-and-early-spring-crops]] encourages bud formation and more prolific blooming.
 
 ## Ecological Role
 
-In its native habitat, *Wisteria sinensis* provides nectar for bees and other pollinators during the early spring flowering period. The flowers are visited by both honeybees and native bee species.
+In its native habitat, *Wisteria sinensis* provides nectar for bees and other pollinators during the early spring flowering period. The flowers are visited by both honeybees and [[comparison-native-bee-pollinators-vs-honeybees]] species.
 
 The seeds are dispersed by gravity and water, aided by the explosive dehiscence of the mature pods. Birds and small mammals may also contribute to seed dispersal.
 
@@ -95,7 +95,7 @@ Chinese wisteria has deep cultural significance in East Asia. It has been cultiv
 
 In Japan, wisteria viewing festivals (*fuji matsuri*) celebrate the spectacular floral displays in spring. The Ashikaga Flower Park in Tochigi Prefecture is famous for its massive wisteria canopy.
 
-In Western garden design, Chinese wisteria is used as a specimen vine on strong architectural structures. Its dramatic floral display makes it a focal point in spring gardens, particularly when trained over pergolas and arbors.
+In Western [[comparison-mandala-garden-design-vs-keyhole-garden-design]], Chinese wisteria is used as a specimen vine on strong architectural structures. Its dramatic floral display makes it a focal point in spring gardens, particularly when trained over pergolas and arbors.
 
 ## See Also
 
@@ -103,8 +103,8 @@ In Western garden design, Chinese wisteria is used as a specimen vine on strong 
 - [[morus-alba]]
 - [[prunus-spinosa]]
 - [[humulus-lupulus]]
-- [[rubus-idaeus-entity]]
+- rubus-idaeus-entity
 - [[ceanothus-thyrsiflorus]]
 - [[vaccinium-angustifolium]]
-- [[crataegus-monogyna]]
+- crataegus-monogyna
 - [[rubus-fruticosus]]

@@ -23,9 +23,9 @@ created: 2026-05-07
 
 **Ipomoea batatas**, the sweet potato, is a perennial dicotyledonous vine cultivated worldwide for its starchy, sweet-tasting tuberous roots. It is one of the most important food crops in the tropics and subtropics, ranking seventh in global production among all root and tuber crops.
 
-Despite its common name, the sweet potato is not closely related to the potato (*Solanum tuberosum*). It belongs to the morning glory family (Convolvulaceae) and is more closely related to ornamental morning glories and the psychoactive *Ipomoea* species used in traditional Mesoamerican practices.
+Despite its common name, the sweet potato is not closely related to the potato (*Solanum tuberosum*). It belongs to the [[golden-guide-morning-glory-and-ololiuqui]] family (Convolvulaceae) and is more closely related to ornamental [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] and the psychoactive *Ipomoea* species used in traditional Mesoamerican practices.
 
-The species is highly adaptable, producing edible roots in a wide range of climatic conditions from sea level to 2,000 meters elevation. Its drought tolerance, rapid ground coverage, and high caloric yield per unit area make it a valuable crop in both subsistence agriculture and permaculture design.
+The species is highly adaptable, producing edible roots in a wide range of climatic conditions from sea level to 2,000 meters elevation. Its [[dighton-fungal-drought-tolerance-plant-water-relations]], rapid ground coverage, and high caloric yield per unit area make it a valuable crop in both subsistence agriculture and permaculture design.
 
 ## Taxonomy and Morphology
 
@@ -39,7 +39,7 @@ The species is highly adaptable, producing edible roots in a wide range of clima
 - Genus: *Ipomoea*
 - Species: *I. batatas* (L.) Lam.
 
-The species was first described by Carl Linnaeus as *Convolvulus batatas* in 1753, later transferred to *Ipomoea* by Jean-Baptiste Lamarck in 1793. The center of domestication is debated, with evidence pointing to either Central America or northern South America.
+The species was first described by Carl Linnaeus as *Convolvulus batatas* in 1753, later transferred to *Ipomoea* by Jean-Baptiste Lamarck in 1793. The center of domestication is debated, with evidence pointing to either [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] or northern South America.
 
 The plant is a trailing or climbing vine producing stems 1–5 meters long. Leaves are cordate to palmately lobed, 5–15 cm long, variable in shape even within a single plant. Flowers are funnel-shaped, white to pale purple, 4–6 cm in diameter, though flowering is irregular in many cultivars.
 
@@ -71,7 +71,7 @@ Sweet potato leaves serve as forage for livestock, and the crop generates substa
 
 The sweet potato weevil (*Cylas formicarius*) is the most damaging pest globally, causing losses of up to 60–100% in unmanaged crops. The larvae tunnel into storage roots, creating entry points for fungal pathogens. Integrated pest management combining crop rotation, clean planting material, and pheromone traps is essential.
 
-Viral diseases, particularly sweet potato feathery mottle virus (SPFMV) and sweet potato virus disease complex (SPVD), cause significant yield reductions in East Africa. Clean seed programs using tissue-cultured plantlets have been successful in reducing viral disease pressure.
+[[cervantes-viral-diseases-cannabis]], particularly sweet potato feathery mottle virus (SPFMV) and sweet potato virus disease complex (SPVD), cause significant yield reductions in East Africa. Clean seed programs using tissue-cultured plantlets have been successful in reducing viral disease pressure.
 
 Fungal pathogens including *Ceratocystis fimbriata* (black rot) and *Fusarium* spp. affect both field and stored roots. Proper curing at 29–32°C and 85–90% relative humidity for 7–10 days after harvest significantly reduces storage losses.
 
@@ -89,7 +89,7 @@ The sweet potato was domesticated at least 5,000 years ago in the neotropics, li
 
 Spanish and Portuguese explorers introduced the crop to the Philippines, China, and Japan in the 16th century. It spread rapidly through Asia and Africa, becoming a critical famine-relief crop due to its reliability and high caloric yield under marginal conditions.
 
-George Washington Carver's agricultural research at Tuskegee Institute in the early 20th century promoted sweet potato cultivation in the American South and developed numerous value-added products from the crop.
+[[tompkins-george-washington-carver-plant-alchemy]] Carver's agricultural research at Tuskegee Institute in the early 20th century promoted sweet potato cultivation in the American South and developed numerous value-added products from the crop.
 
 ## Industrial and Non-Food Uses
 
@@ -103,11 +103,13 @@ Bioethanol production from sweet potato typically yields 80–120 liters per ton
 
 ## See Also
 
+- [[camassia-quamash]]
+
 - [[ipomoea-violacea]]
 - [[food-forest]]
-- [[three-sisters]]
+- three-sisters
 - [[dioscorea-alata]]
 - [[colocasia-esculenta]]
-- [[typha-latifolia-entity]]
+- typha-latifolia-entity
 - [[trifolium-pratense]]
 - [[hugelkultur]]

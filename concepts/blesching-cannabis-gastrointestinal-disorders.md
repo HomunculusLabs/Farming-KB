@@ -1,5 +1,5 @@
 ---
-title: Cannabis for Gastrointestinal Disorders (Blesching, Cannabis Health Index)
+title: Cannabis for Gastrointestinal Disorders (Blesching, blesching-cannabis-health-index-autoimmune-conditions)
 created: 2026-04-26
 updated: 2026-04-25
 sources: "Uwe Blesching, The Cannabis Health Index (CHI)"
@@ -15,7 +15,7 @@ tags: [cannabis]
 Blesching's Cannabis Health Index covers multiple GI conditions with varying
 confidence levels. This page synthesizes findings across gastro-esophageal
 reflux disease (GERD), nausea and vomiting, chemotherapy-induced nausea, and
-appetite stimulation -- areas distinct from inflammatory bowel disease (covered
+appetite stimulation -- areas distinct from [[blesching-cannabis-inflammatory-bowel-disease]] disease (covered
 separately).
 
 ## Gastro-Esophageal Reflux Disease (GERD)
@@ -33,7 +33,7 @@ humans significantly reduced symptoms of GERD such as meal-induced transient
 lower esophageal sphincter relaxations and spontaneous swallowing. However,
 dosage levels of 20 mg caused some volunteers to experience nausea, vomiting,
 hypotension, and rapid heart rates. This demonstrates a dose-specific
-therapeutic window warranting cautious and gradual approach.
+[[blesching-cannabis-therapeutic-window-dosing]] warranting cautious and gradual approach.
 
 CHI Value for GERD: 5 (1 study reviewed)
 
@@ -53,13 +53,13 @@ the highest confidence ratings in the entire index.
 ### Chemotherapy-Induced Nausea and Vomiting
 - 24 studies reviewed, CHI Value: 104
 - Anecdotal evidence from patients who smoked marijuana before chemotherapy
-  ultimately led to clinical trials demonstrating therapeutic properties of
+  ultimately led to [[mushroom-cancer-clinical-trials-overview]] demonstrating therapeutic properties of
   cannabinoids
 - Early studies focused on comparing cannabinoids to prochlorperazine
   (Compazine). Most reported cannabinoids as superior
 - Later studies reported cannabinoids proved more effective than metoclopramide,
   chlorpromazine, thiethylperazine, haloperidol, domperidone, or alizapride
-- Recent studies examined CBD's ability to markedly reduce oxidative stress,
+- Recent studies examined CBD's ability to markedly reduce [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]],
   inflammation, and cell death in kidneys during cancer treatment
 - Dronabinol proved as effective as ondansetron in reducing nausea and vomiting
 
@@ -122,7 +122,7 @@ receptors.
   standard antiemetics
 - CB1 receptor activation is the primary mechanism for appetite stimulation
 - GERD treatment requires careful dose titration -- 10 mg THC effective but 20
-  mg produces adverse effects
+  mg produces [[blesching-cannabis-safety-adverse-effects-evidence]]
 - Sativa strains are generally preferred for appetite stimulation and
   anti-nausea applications
 

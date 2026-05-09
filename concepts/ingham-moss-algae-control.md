@@ -1,5 +1,5 @@
 ---
-title: Moss and Algae Control via Protozoa from Ingham AACT Field Guide
+title: Moss and Algae Control via Protozoa from [[ingham-aact-brewing-equipment-reliability-machine-testing-standards]] ghouled-field-guide-historical-context
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -10,14 +10,14 @@ sources:
 
 # Moss and Algae Control - Protozoa-Based Approaches
 
-Extracted from Elaine Ingham's AACT Field Guide, covering biological
+Extracted from [[elaine-ingham]]'s AACT Field Guide, covering biological
 control of moss and algae through [[ingham-weed-control-through-biology]]
-- [[mycorrhizal-weed-control]]
+- mycorrhizal-weed-control
 - [[ingham-disease-case-studies-bacterial]]
 - [[ingham-anaerobic-vs-aerobic-compost-tea]]
 ## Background and Context
 
-Moss and Algae Control via Protozoa from Ingham AACT Field Guide is an important subject that has garnered significant attention
+Moss and Algae Control via Protozoa from [[ingham-aact-field-guide-index]] Guide is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough
@@ -65,7 +65,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -143,4 +143,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

@@ -1,5 +1,5 @@
 ---
-title: Detailed Goat Husbandry Guide
+title: Detailed comparison-goat-husbandry-vs-sheep-husbandry Guide
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -44,7 +44,7 @@ Milkweed, nightshade plants, buckthorn, cowbane, dog's mercury, foxglove, greate
 - Goats are susceptible to worms -- rotate to new pasture every 3 weeks (stomach worm lifespan)
 - Goats control their own worms by eating higher leaves first, working downward, and wandering far distances
 - Keep in clean conditions with fresh water at all times
-- Pregnant does: give blackstrap molasses during last two months to prevent ketosis
+- Pregnant does: give [[ingham-blackstrap-molasses-compost-tea-concentration-osmotic-effects]] during last two months to prevent ketosis
 - Symptoms of ketosis: dullness, lack of appetite, grinding teeth, wandering
 - Stress, overfeeding, underfeeding, or lack of exercise can cause ketosis
 

@@ -78,7 +78,7 @@ Avenanthramides are a group of phenolic alkaloids unique to oats. These compound
 
 The primary avenanthramides (avenanthramide A, B, and C) are structurally related to the neurotoxin curare but possess distinct biological activities. They inhibit NF-kappa-B signaling and reduce vascular inflammation.
 
-Oat consumption has been shown to lower LDL cholesterol by 5–10% in controlled clinical trials. The mechanism involves increased bile acid excretion mediated by beta-glucan gel formation.
+Oat consumption has been shown to lower LDL cholesterol by 5–10% in controlled [[mushroom-cancer-clinical-trials-overview]]. The mechanism involves increased bile acid excretion mediated by beta-glucan gel formation.
 
 Colloidal oatmeal (finely ground oat powder) is an FDA-recognized skin protectant. It is widely used in topical formulations for eczema, psoriasis, and irritated skin conditions.
 
@@ -86,11 +86,11 @@ Oat oil, extracted from the bran, is rich in tocotrienols and unsaturated fatty 
 
 ## Ecological Role and Applications
 
-Oats are commonly grown as a cover crop and green manure in rotation systems. Their rapid growth suppresses weeds, and incorporation of oat biomass adds organic matter and nutrients to soil.
+Oats are commonly grown as a cover crop and green manure in rotation systems. Their rapid growth suppresses weeds, and incorporation of oat biomass adds [[hamilton-composting-and-organic-matter-management]] and nutrients to soil.
 
 As a livestock feed, oats provide high-quality forage and grain. They are preferred over barley for horse feed due to higher fiber content and more favorable starch-to-energy ratio.
 
-Oat straw is used as animal bedding and mushroom substrate. It supports vigorous mycelial growth in Pleurotus (oyster mushroom) cultivation.
+Oat straw is used as animal bedding and [[gourmet-medicinal-mushroom-substrate-preparation]]. It supports vigorous [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] in Pleurotus ([[cotter-oyster-mushroom-cultivation]]) cultivation.
 
 In permaculture systems, oats function as a nurse crop for establishing perennial pastures and hay fields. The canopy provides shade and wind protection while slower-growing perennials establish.
 
@@ -106,7 +106,7 @@ The crop was historically considered a coarse grain suitable only for animal fee
 
 In Northern Europe, oats became a dietary staple where wheat cultivation was marginal. Scottish and Irish oat porridge (porridge) was a primary calorie source for rural populations through the 19th century.
 
-Oat cultivation spread to North America with European settlers. Quaker Oats, founded in 1877, pioneered commercial rolled oat production and popularized breakfast oatmeal in the United States.
+Oat cultivation spread to [[psilocybin-north-america-pacific-northwest]] with European settlers. Quaker Oats, founded in 1877, pioneered commercial rolled oat production and popularized breakfast oatmeal in the United States.
 
 The health claim approval by the U.S. FDA in 1997 significantly boosted oat consumption. This regulatory milestone was based on decades of clinical evidence demonstrating cholesterol-lowering effects of oat beta-glucan.
 

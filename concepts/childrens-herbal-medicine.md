@@ -43,19 +43,19 @@ Chamomile (Matricaria recutita) is the safest and most versatile children's herb
 
 Fennel (Foeniculum vulgare) is a safe, gentle carminative for infant colic, gas, and digestive upset. Fennel tea is a traditional remedy for colic, given in small doses (one to two teaspoons of weak tea). Fennel contains mild phytoestrogens and should not be used in excessive amounts.
 
-Peppermint (Mentha x piperita) is effective for digestive upset, nausea, and headaches in children. Peppermint tea is well-accepted by most children due to its pleasant flavor. Avoid peppermint essential oil on the face of infants and young children due to risk of apnea from menthol exposure.
+Peppermint (Mentha x piperita) is effective for digestive upset, nausea, and headaches in children. Peppermint tea is well-accepted by most children due to its pleasant flavor. Avoid peppermint [[permaculture-designers-manual-essential-oil-plants]] on the face of infants and young children due to risk of apnea from menthol exposure.
 
 Echinacea (Echinacea purpurea) is safe and effective for immune support in children. It is used at the first sign of colds and infections to stimulate immune response and potentially reduce duration and severity. Echinacea glycerite is the preferred preparation for children.
 
 Elderberry (Sambucus nigra) syrup is safe and palatable for children for immune support during viral respiratory infections. Elderberry has strong research support for antiviral activity against influenza. The syrup form is ideal for children.
 
-Lemon balm (Melissa officinalis) is a gentle nervine and antiviral herb that is safe for children. It is used for anxiety, restlessness, sleep difficulties, and cold sores (herpes simplex). Lemon balm tea tastes pleasant and is well-accepted by children.
+[[comparison-lemon-balm-vs-passionflower]] (Melissa officinalis) is a gentle nervine and antiviral herb that is safe for children. It is used for anxiety, restlessness, sleep difficulties, and cold sores (herpes simplex). Lemon balm tea tastes pleasant and is well-accepted by children.
 
 ## Herbs to Avoid in Children
 
 Several herbs are contraindicated or require extreme caution in pediatric use. Herbs containing pyrrolizidine alkaloids (comfrey, coltsfoot) should not be given to children internally due to hepatotoxicity risk. Herbs with strong effects on the cardiovascular system (hawthorn, motherwort, digitalis-containing herbs) should be used only under professional supervision.
 
-Essential oils require special caution with children. Many essential oils that are safe for adults are too potent for young children's developing systems. Peppermint and eucalyptus essential oils should not be applied to the face or chest of infants and young children. Always dilute essential oils significantly for children and research specific safety guidelines for each oil.
+[[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] require special caution with children. Many essential oils that are safe for adults are too potent for young children's developing systems. Peppermint and eucalyptus essential oils should not be applied to the face or chest of infants and young children. Always dilute essential oils significantly for children and research specific [[psychedelic-safety-guidelines-turner]] for each oil.
 
 Honey should never be given to children under one year of age due to the risk of infant botulism. This applies to all honey-containing preparations including herbal honeys, electuaries, and syrups made with honey. After one year, honey is safe and beneficial.
 
@@ -65,7 +65,7 @@ For colds and upper respiratory infections, echinacea glycerite and elderberry s
 
 For digestive upset, chamomile, fennel, or peppermint tea provides rapid relief. For constipation, increased fiber, hydration, and gentle herbs like flaxseed or prune. For diarrhea, slippery elm or marshmallow root preparations soothe the gastrointestinal lining and reduce fluid loss.
 
-For sleep difficulties, chamomile, lemon balm, or a gentle valerian glycerite (for older children) promotes relaxation and sleep. For anxiety and nervousness, chamomile and lemon balm are the first-line remedies. For skin conditions, calendula salve for minor wounds and rashes, and oatmeal baths for eczema and irritated skin.
+For sleep difficulties, chamomile, lemon balm, or a gentle valerian glycerite (for older children) promotes relaxation and sleep. For anxiety and nervousness, chamomile and lemon balm are the first-line remedies. For [[cannabis-for-skin-conditions-detailed]], calendula salve for minor wounds and rashes, and oatmeal baths for eczema and irritated skin.
 
 For any serious or persistent condition, seek professional medical care. Herbal medicine is complementary to, not a replacement for, pediatric healthcare. See [[herbal-glycerites]] — Alcohol-free preparations ideal for children
 - [[honey-based-herbal-preparations]] — Honey-based medicine for children over one year
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

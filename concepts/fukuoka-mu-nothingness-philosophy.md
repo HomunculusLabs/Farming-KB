@@ -5,12 +5,13 @@ updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Mu (Nothingness) Philosophy
 
-The philosophy of Mu -- nothingness, emptiness, the void -- is the deepest philosophical foundation of Masanobu Fukuoka's [[fukuoka-direct-observation-method]] is the means by which one comes to this understanding. When we set aside discriminating knowledge and abandon the impulse to control nature, what remains is the reality of nature itself -- whole, complete, and self-sustaining.
+The philosophy of Mu -- nothingness, emptiness, the void -- is the deepest philosophical foundation of Masanobu Fukuoka's [[fukuoka-direct-observation-method]] is the means by which one comes to this understanding. When we set aside [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]] and abandon the impulse to control nature, what remains is the reality of nature itself -- whole, complete, and self-sustaining.
 
 ## The Moment of Revelation
 
@@ -24,7 +25,7 @@ Human knowledge, as Fukuoka understands it, is fundamentally fragmentary. Scienc
 
 If human knowledge is unenlightened and imperfect, then the nature perceived and built up by this knowledge must in turn always be imperfect. And paradoxically, the very incompleteness of the nature conceived and born of human knowledge -- a nature that is but a pale shadow of true nature -- is proof that the nature from which science derived its image of nature is whole and complete.
 
-The only direct means for confirming the perfection of nature is for each individual to come into immediate contact with the reality of nature and see for himself. People must experience this personally and choose to believe or not believe. Natural farming begins with the assumption that nature is perfect.
+The only direct means for confirming the perfection of nature is for each individual to come into immediate contact with the reality of nature and see for himself. People must experience this personally and choose to believe or not believe. [[comparison-natural-farming-vs-permaculture]] begins with the assumption that nature is perfect.
 
 ## Mu and the Four Principles
 
@@ -38,7 +39,7 @@ Fukuoka wrote: "The path of a 'do-nothing' nature where all one does is to plung
 
 Fukuoka draws a distinction between what he calls "Mahayana" and "Hinayana" approaches to farming, borrowing from Buddhist terminology. The Hinayana approach seeks to improve upon nature through effort and technique -- adding fertilizer, applying pesticides, breeding improved varieties. The Mahayana approach recognizes that nature is already perfect and seeks to work within its patterns rather than against them.
 
-When the human spirit and human life blend with the natural order and man devotes himself entirely to the service of nature, he lives freely as an integral part of the natural world, subsisting on its bounty without having to resort to purposeful effort. This type of farming transcends time and space and reaches the zenith of understanding and enlightenment.
+When the human spirit and human life blend with the [[fukuoka-textdoc-natural-order-food-chain-unity]] and man devotes himself entirely to the service of nature, he lives freely as an integral part of the natural world, subsisting on its bounty without having to resort to purposeful effort. This type of farming transcends time and space and reaches the zenith of understanding and enlightenment.
 
 The Mahayana farmer does not try to increase yields but rather allows yields to emerge naturally from healthy soil and balanced ecosystems. The result, paradoxically, is often yields equal to or exceeding those of intensive chemical agriculture.
 
@@ -71,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

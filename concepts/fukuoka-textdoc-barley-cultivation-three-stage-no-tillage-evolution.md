@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-The development of Masanobu Fukuoka's no-tillage, direct-seeding method for winter barley represents one of the most carefully documented practical experiments in *The Natural Way of Farming*. Fukuoka describes three distinct stages through which his barley cultivation method evolved, each representing a step closer to the ultimate ideal of a natural farming method that requires no plowing, no fertilizer, and minimal human intervention.
+The development of Masanobu Fukuoka's no-tillage, direct-seeding method for winter barley represents one of the most carefully documented practical experiments in *The Natural Way of Farming*. Fukuoka describes three distinct stages through which his barley cultivation method evolved, each representing a step closer to the ultimate ideal of a [[comparison-natural-farming-vs-permaculture]] method that requires no plowing, no fertilizer, and minimal human intervention.
 
 ## The Problem of Direct Seeding Barley
 
@@ -29,9 +29,9 @@ The timing of clover management became critical. Clover had to be managed so tha
 
 The suppressed clover then served as a green manure, decomposing on the soil surface and releasing nutrients that fed the growing barley. This stage also involved refinements to the straw mulch technique. Fukuoka discovered that scattering rice straw over the barley field immediately after seeding was essential.
 
-The straw not only protected the seeds but also provided a habitat for beneficial microorganisms and insects that helped control pests. As the barley grew, the straw decomposed gradually, providing a steady supply of nutrients without the sudden flush that comes from applying chemical fertilizers.
+The straw not only protected the seeds but also provided a [[query-how-do-i-design-habitat-for-beneficial-insects]] microorganisms and insects that helped [[query-how-to-control-pests-without-chemicals]]. As the barley grew, the straw decomposed gradually, providing a steady supply of nutrients without the sudden flush that comes from applying [[cervantes-chemical-fertilizers-guide]].
 
-The key lesson of stage two was that fertility maintenance did not require external inputs of any kind. By managing the natural relationships between barley, clover, straw, and [[fungal-bioturbation-and-soil-aggregate-formation]]. Conventional plowing destroys the soil's natural aggregation, disrupts fungal networks, and exposes organic matter to rapid oxidation. In Fukuoka's system, the soil is never disturbed.
+The key lesson of stage two was that fertility maintenance did not require external inputs of any kind. By managing the natural relationships between barley, clover, straw, and fungal-bioturbation-and-soil-aggregate-formation. Conventional plowing destroys the soil's natural aggregation, disrupts fungal networks, and exposes organic matter to rapid oxidation. In Fukuoka's system, the soil is never disturbed.
 
 Earthworms and other soil organisms maintain soil structure through their natural activities, creating channels for air and water movement and stable aggregates that resist erosion. Over years of no-tillage management, Fukuoka observed that his soil became increasingly porous, well-structured, and rich in organic matter.
 
@@ -41,9 +41,9 @@ Water infiltration improved, reducing runoff and increasing drought resistance. 
 
 Fukuoka believed that, since rice is best suited to Japanese soil as a first crop, and barley or wheat as a second crop, a successive cropping of rice and barley or wheat that provides a large total caloric output makes good use of Japanese land by utilizing the full powers of nature.
 
-The reason he concentrated on a method of biennial cultivation that begins by sowing rice seed in the autumn and devotes a full year to the growth of rice was because he thought that this would enable the rice to absorb the most natural energy throughout the year.
+The reason he concentrated on a method of [[fukuoka-textdoc-perennial-rice-biennial-cultivation-exploration]] that begins by sowing rice seed in the autumn and devotes a full year to the growth of rice was because he thought that this would enable the rice to absorb the most natural energy throughout the year.
 
-The cover of green manure makes three-dimensional use of space in the field, while straw mulching and the breakdown of materials in the soil encourage revitalization of the natural ecosystem. These can be thought of as manifestations of an effort to approach the ultimate goal of a do-nothing nature.
+The cover of green manure makes three-dimensional use of space in the field, while straw mulching and the breakdown of materials in the soil encourage revitalization of the [[fukuoka-natural-ecosystem-food-chain-interconnection]]. These can be thought of as manifestations of an effort to approach the ultimate goal of a do-nothing nature.
 
 Whether the method of cultivation Fukuoka proposes, a direct-seeding no-barley succession in a ground cover of green manure, is a true prototype of nature must be judged according to whether it is a methodless method that approaches closer to nature.
 
@@ -76,6 +76,8 @@ The path from stage one to stage three required not just technical innovation bu
 It demanded the patience to let nature take its course and the humility to accept that nature often knows better than the farmer.
 
 ## See Also
+
+- [[fukuoka-textdoc-three-stage-collapse-knowledge-destruction-failure]]
 
 - [[fukuoka-textdoc-epilogue-barley-philosophy]]
 

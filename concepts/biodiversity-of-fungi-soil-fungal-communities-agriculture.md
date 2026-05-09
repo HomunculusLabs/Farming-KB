@@ -22,7 +22,7 @@ Fungi comprise an estimated 78-90% of the total decomposer biomass in grassland 
 In grasslands, the root system represents the primary input of organic material to soil. Unlike forests where leaf litter and woody debris dominate, grasslands receive continuous inputs of fine root material that creates a distributed organic matter profile. This root-derived organic matter supports a diverse community of saprobic fungi adapted to the rhizosphere environment.
 
 See also: [[fungal-roles-grassland-ecosystems]], [[arbuscular-mycorrhizal-fungi]] that form symbiotic associations with grass roots
-- Dark septate endophytes that colonize root cortices
+- Dark [[dark-septate-endophytes-root-colonizing-fungi]] that colonize root cortices
 - Saprobic species that decompose root exudates and dead root tissue
 - Opportunistic pathogens held in check by microbial competition
 
@@ -52,7 +52,7 @@ Fungi play multiple roles in nitrogen cycling:
 - Decomposition of nitrogen-containing organic compounds (proteins, chitin, nucleic acids)
 - Immobilization of inorganic nitrogen in fungal biomass
 - Mineralization of organic nitrogen to plant-available forms
-- Facilitation of nitrogen fixation in legume-rhizobium symbioses through phosphorus provision
+- Facilitation of [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] in legume-rhizobium symbioses through phosphorus provision
 - Competition with plants for available nitrogen
 
 The fungal-dominated decomposition pathway tends to retain nitrogen in the system longer than bacterial-dominated pathways, because fungal biomass has a higher carbon-to-nitrogen ratio and decomposes more slowly.
@@ -65,7 +65,7 @@ Fungi contribute to soil structure through several mechanisms:
 
 1. **Hyphal entanglement**: Fungal hyphae physically bind soil particles together, forming microaggregates and stabilizing macroaggregates.
 
-2. **Glomalin production**: Arbuscular mycorrhizal fungi produce glomalin, a sticky glycoprotein that acts as a biological glue, binding soil particles into stable aggregates.
+2. **Glomalin production**: [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi produce glomalin, a sticky glycoprotein that acts as a biological glue, binding soil particles into stable aggregates.
 
 3. **Organic matter incorporation**: Fungal decomposition of organic matter produces compounds that serve as binding agents for soil particles.
 
@@ -73,7 +73,7 @@ Fungi contribute to soil structure through several mechanisms:
 
 Soil aggregation is critical for water infiltration, erosion resistance, aeration, and root penetration. Fungal-dominated soils typically have better structure than bacterial-dominated soils.
 
-See also: [[fungal-soil-aggregate-formation-glomalin]], [[soil-disturbance-mycorrhizal-impact]]
+See also: fungal-soil-aggregate-formation-glomalin, [[soil-disturbance-mycorrhizal-impact]]
 
 ### Crop Rotation and Diversity
 
@@ -81,6 +81,13 @@ Monoculture cropping reduces soil fungal diversity compared to diverse rotations
 
 ### Fertilization
 
-High rates of phosphorus fertilizer can suppress mycorrhizal colonization, as plants reduce their dependence on fungal partners when phosphorus is readily available. Nitrogen fertilization can also alter fungal community composition. Balanced nutrient management that considers the fungal symbiosis is important for maintaining soil health.
+High rates of phosphorus fertilizer can suppress [[arbuscular-mycorrhizal-colonization-patterns]], as plants reduce their dependence on fungal partners when phosphorus is readily available. Nitrogen fertilization can also alter fungal [[core-endorhiza-bacterial-community-composition-cannabis]]. Balanced [[green-cannabis-grow-bible-nutrient-management-ppm]] that considers the fungal symbiosis is important for maintaining soil health.
 
 See also: [[fertilizers-and-mycorrhizae]], [[composting-humus-building-holzer]], [[humus-formation-and-soil-organic-matter]]
+
+## See Also
+
+- [[biodiversity-sequestrate-fungi]]
+- [[biodiversity-trichomycetes-gut-fungi]]
+- [[bloomfield-nematode-trapping-fungi-predatory-soil-fungi]]
+- [[fungal-soil-depth-profiles]]

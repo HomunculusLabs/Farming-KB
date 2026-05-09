@@ -1,5 +1,5 @@
 ---
-title: "Legume Nitrogen Myth: Do Beans Feed Corn?"
+title: "Legume legume nitrogen myth beans feed corn: Do Beans Feed Corn?"
 created: 2026-04-28
 tags:
   - legumes
@@ -18,10 +18,10 @@ type: concept
 
 The idea that beans and corn planted together form a mutually
 beneficial partnership is one of the most persistent companion
-planting myths in organic gardening. While the concept is appealing
+planting myths in [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]. While the concept is appealing
 and widely repeated, the scientific evidence does not support the
 claim that beans meaningfully feed nitrogen to corn during the
-current growing season.
+current [[savory-growing-season-and-non-growing-season-management]].
 
 ## The Claim
 
@@ -48,7 +48,7 @@ pattern:
   seeds, while roots and nodules contain as little as 3 to 6% of
   the total.
 
-In short, legumes hoard nitrogen for seed production. They offer
+In short, legumes hoard nitrogen for [[cervantes-seed-production-storage]]. They offer
 little nitrogen in a form other plants can use during the same
 growing season.
 
@@ -89,7 +89,7 @@ itself.
 ## The Real Value of Legumes for Nitrogen
 
 The nitrogen value of legumes is realized through incorporation,
-not co-planting. Legume green manures tilled into soil before
+not co-planting. Legume [[jeavons-green-manures-cover-crops]] tilled into soil before
 flowering capture the peak leaf nitrogen content. Legume cover
 crops left to decompose between seasons provide nitrogen for the
 following crop. The range of nitrogen gathered per acre varies
@@ -104,7 +104,7 @@ Instead of interplanting beans with corn, gardeners should:
 - Till or cut legume green manures before flowering for maximum
   nitrogen return.
 - Choose high-yielding nitrogen fixers like alfalfa (250 lb/ac)
-  or sweet white clover (160 lb/ac) for cover cropping.
+  or sweet white clover (160 lb/ac) for [[fukuoka-clover-cover-cropping-soil-ecology]].
 - Understand that the nitrogen benefit is for the next crop, not
   the current one.
 - Plan rotations spanning multiple seasons for meaningful soil

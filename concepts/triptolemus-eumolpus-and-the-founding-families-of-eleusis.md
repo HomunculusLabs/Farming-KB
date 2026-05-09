@@ -1,5 +1,5 @@
 ---
-title: Triptolemus Eumolpus and the Founding Families of Eleusis
+title: Triptolemus Eumolpus and the triptolemus eumolpus and the founding families of eleusis of Eleusis
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 # Triptolemus, Eumolpus, and the Founding Families of Eleusis
 
-The Eleusinian Mysteries were controlled for nearly two thousand years by two hereditary families: the Eumolpidae and the Kerykes. Their authority derived from their claimed descent from the original recipients of Demeter's sacred teachings -- the figures named in the Homeric Hymn as those to whom the goddess first revealed her mysteries.
+The [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] were controlled for nearly two thousand years by two hereditary families: the Eumolpidae and the Kerykes. Their authority derived from their claimed descent from the original recipients of Demeter's sacred teachings -- the figures named in the [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]] as those to whom the goddess first revealed her mysteries.
 
 ## The Original Recipients
 
@@ -27,7 +27,7 @@ Also mentioned (line 474) is **Polyxeinus**, who along with Triptolemus and Dioc
 
 ### Mythological Role
 
-Triptolemus occupies a central position in Eleusinian mythology. He is the mortal to whom Demeter entrusted the task of spreading grain cultivation to all of humanity. The goddess gave him:
+Triptolemus occupies a central position in Eleusinian mythology. He is the mortal to whom Demeter entrusted the task of spreading [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] to all of humanity. The goddess gave him:
 - A winged chariot drawn by serpents
 - Seed grain
 - Knowledge of agriculture

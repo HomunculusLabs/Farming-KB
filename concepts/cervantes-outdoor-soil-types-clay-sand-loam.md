@@ -5,14 +5,15 @@ tags: [cannabis, soil, outdoor-growing, amendments, cervantes]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Outdoor Soil Types for Cannabis
 
 Understanding your native soil type is essential for
-successful outdoor cannabis cultivation. Different
+successful outdoor [[query-how-does-no-till-cannabis-cultivation-work]]. Different
 soils present unique challenges and advantages for
 root development, water retention, nutrient
 availability, and drainage. Jorge Cervantes
@@ -22,20 +23,20 @@ major soil types encountered by outdoor growers.
 ## Clay Soil
 
 Clay soil, also known as "heavy soil" or "adobe" in
-North America, is common in coastal areas and is
+[[psilocybin-north-america-pacific-northwest]], is common in coastal areas and is
 very widespread inland. It is difficult to work with.
 Clay soils hold water well and provide slow, even
 drainage. Clay soils are slow to warm in the spring
 but hold warmth well into autumn when sunlight is
 fading. The density of clay does not allow for
-proper air circulation, and root growth is inhibited.
+proper [[stamets-growing-room-air-circulation-co2-management]], and root growth is inhibited.
 
 ### Preparing Clay Soil
 
 Prepare clay soil at least a month before planting,
 adding lots of compost and manure. Clay soils can
 hold water too well, which can smother roots. Adding
-organic matter will "lighten" the heavy soil, thus
+[[hamilton-composting-and-organic-matter-management]] will "lighten" the heavy soil, thus
 creating air pockets, improving drainage, and
 promoting root growth. The month delay gives the
 manure a chance to "cool" so it will not burn plants.
@@ -80,7 +81,7 @@ organisms.
 
 For best results keep sandy soil cool, retain
 moisture with mulch, and cultivate often, adding
-additional compost. Winter season cover crops will
+additional compost. Winter season [[gaias-garden-cover-crops-soil-building]] will
 hold moisture and prevent runoff while retaining
 life in the soil.
 

@@ -1,5 +1,5 @@
 ---
-title: "Loess Powder in Natural Farming"
+title: "cho loess powder in natural farming in comparison-natural-farming-vs-permaculture"
 created: 2026-04-28
 tags: [korean-natural-farming, loess, minerals, seed-treatment,
        soil-amendment]
@@ -14,7 +14,7 @@ type: concept
 # Loess Powder in Natural Farming
 
 Loess powder, also called silica soil or ant hill mud, is a natural soil
-amendment in Korean Natural Farming valued for its mineral richness and
+amendment in [[query-jadam-vs-korean-natural-farming]] Farming valued for its mineral richness and
 natural healing properties. Dr. Cho considers loess "full of soil vitality
 and the foundation for all life."
 
@@ -36,7 +36,7 @@ Key characteristics:
 
 1.  **Trace element supplementation** — Provides minerals deficient in
     exhausted agricultural soils.
-2.  **Seedling disease prevention** — Used as a drench to prevent fungal
+2.  **Seedling [[cervantes-pest-disease-prevention-overview]]** — Used as a drench to prevent fungal
     diseases such as canker.
 3.  **Leaf fungus treatment** — Applied as foliar spray to suppress
     leaf-attacking fungi on vegetable crops.
@@ -69,7 +69,7 @@ Key characteristics:
 ### Seedling Treatment
 
 -   Dissolve 20-30 grams loess powder in 1 liter water.
--   Use as seed treatment soak or transplant drench.
+-   Use as [[jadam-seed-treatment-and-nursery-management]] soak or transplant drench.
 -   Particularly effective against canker and seedling diseases.
 
 ### Foliar Spray
@@ -105,7 +105,7 @@ Ideal sources include:
 -   River banks with fine sediment deposits
 -   Known geological loess formations
 
-Avoid areas contaminated with agricultural chemicals, heavy metals, or
+Avoid areas contaminated with agricultural chemicals, [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]], or
 industrial pollution. Source purity directly affects final powder quality.
 
 ## Storage
@@ -115,6 +115,8 @@ bags or unsealed containers). Properly prepared loess has indefinite
 shelf life.
 
 ## See Also
+
+- [[knf-loess-powder]]
 
 -   [[cho-water-soluble-calcium-and-potassium]]
 -   [[jadam-phyllite-mineral-solution]]

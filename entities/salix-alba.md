@@ -11,7 +11,7 @@ type: entity
 # Salix alba
 
 **Type:** Species (Tree)
-**Category:** Riparian tree (erosion control, medicinal)
+**Category:** Riparian tree ([[permplant-willows-salix-erosion-control-fodder]], medicinal)
 **Family:** Salicaceae
 **Also known as:** White willow
 
@@ -19,8 +19,8 @@ type: entity
 Salix alba is a large, fast-growing deciduous tree native to Europe
 and western Asia, typically found along riverbanks and in wet areas.
 Willows as a genus are among the most useful trees for erosion
-control, [[permaculture]]
-systems. White willow is also the original source of salicylic acid,
+control, permaculture
+systems. White willow is also the original source of [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]],
 the precursor to aspirin (acetylsalicylic acid), making it one of the
 most important medicinal trees in human history.
 
@@ -58,7 +58,7 @@ most important medicinal trees in human history.
   fever, and inflammation; one of the oldest known herbal
   medicines, documented in ancient Egyptian, Greek, and Chinese
   medical texts
-- **Bee forage:** Early spring catkins provide important pollen
+- **[[mollison-designers-bee-forage-tree-planting]]:** [[coleman-overwintered-onions-and-early-spring-crops]] catkins provide important pollen
   and nectar for bees
 
 ## Cultivation
@@ -66,7 +66,7 @@ Easily established from cuttings; willows are among the easiest trees
 to propagate. Simply push live cuttings (30-60 cm) into wet ground
 during the dormant season. Prefers moist to wet soils in open,
 unshaded positions. Responds well to coppicing and pollarding for
-sustainable biomass production. Fast growth makes it useful for quick
+sustainable [[dighton-fungal-biomass-production-aquatic-ecosystems]]. Fast growth makes it useful for quick
 establishment of windbreaks, riparian buffers, and living structures
 such as woven fences and domes.
 
@@ -82,6 +82,11 @@ source for mulch and fuel.
 
 ## See Also
 
+- [[salix-pentandra]]
+
+- [[salix-fragilis]]
+- [[populus-alba]]
+
 - [[alnus-rubra]]
 - tamarix
-- [[tagasaste]]
+- tagasaste

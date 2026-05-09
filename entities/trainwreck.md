@@ -14,9 +14,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Clarke, R.C. & Merlin, M.D. (2013). "Cannabis: Evolution and Ethnobotany." University of California Press.
-  - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency Over the Last Two Decades." Biological Psychiatry, 79(7), 613-619.
+  - ElSohly, M.A. et al. (2016). "Changes in [[green-cannabis-potency-maximizing]] Over the Last Two Decades." Biological Psychiatry, 79(7), 613-619.
   - Smart, R. et al. (2017). "The Price of Cannabis: A Review of the Online Market." Drug and Alcohol Dependence, 173, 263-269.
-  - Leafly. "Trainwreck Cannabis Strain Information." www.leafly.com/strains/trainwreck.
+  - Leafly. "Trainwreck [[blesching-cannabis-strain-selection-receptor-targeting]] Information." www.leafly.com/strains/trainwreck.
   - Mudge, E.M. et al. (2018). "Cannabinoid and Terpene Content of Cannabis." Molecules, 23(12), 3283.
 ---
 
@@ -75,11 +75,11 @@ modern hybrids and remains commercially available across legal markets.
 - **Climate:** Thrives in Mediterranean and temperate climates; prefers
   warm days (22–28°C) and cool nights
 - **Resistance:** Moderate mold resistance; good pest resistance
-- **Nutrient needs:** Heavy feeder during vegetative stage; moderate
+- **Nutrient needs:** Heavy feeder during [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]; moderate
   during flowering with reduced nitrogen
 - **Training:** LST and SCROG recommended to control stretch; responds
-  well to topping early in vegetative phase
-- **Resin production:** High — dense trichome coverage extending to
+  well to topping early in [[green-cannabis-grow-bible-vegetative-phase-management]]
+- **[[cannabis-glandular-trichome-types-resin-production-clarke]]:** High — dense trichome coverage extending to
   sugar leaves
 
 ## Terpene Profile
@@ -114,7 +114,7 @@ the modern era of named commercial strains.
 
 The Arcata Trainwreck cut is particularly celebrated among collectors as the
 definitive expression of the lineage. The strain has won multiple Cannabis Cup
-awards and remains a staple in dispensary menus across North America.
+awards and remains a staple in dispensary menus across [[psilocybin-north-america-pacific-northwest]].
 
 ## Legal Status
 

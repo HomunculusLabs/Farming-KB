@@ -1,5 +1,5 @@
 ---
-title: Cleve Backster Plant Perception Experiments
+title: Cleve [[tompkins-cleve-backster-primary-perception]] plant [[tompkins-plant-perception-experiments]] Experiments
 created: 2026-04-28
 tags: [plant-intelligence, bioelectricity, esp, polygraph, primary-perception]
 date: 2026-04-25
@@ -77,7 +77,9 @@ electromagnetic spectrum has profound implications for understanding
 consciousness, life, and the interconnectedness of all living things. His
 research has been duplicated at numerous institutions and received funding
 for continued investigation.
-## Related Concepts
+## Related
+
+- [[cleve-backster]] Concepts
 
 - [[marcel-vogel-plant-communication]]
 - [[plant-bioelectricity]]

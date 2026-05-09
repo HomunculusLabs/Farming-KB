@@ -1,6 +1,6 @@
 ---
 title: "Maitake Growth Parameters and Environmental Management"
-source: "Chen, A.W. (1999). A Practical Guide for Synthetic-Log Cultivation of Medicinal Mushroom Grifola frondosa."
+source: "Chen, A.W. (1999). A Practical Guide for Synthetic-Log Cultivation of [[gourmet-medicinal-mushroom-casing-layer-techniques]] [[maitake-grifola-frondosa-comprehensive-profile]]."
 topics:
   - maitake
   - grifola-frondosa
@@ -15,7 +15,7 @@ topics:
 
 ## Introduction
 
-Maitake (**) demands precise environmental control across
+Maitake (**) demands precise [[eclss-environmental-control-life-support]] across
 distinct developmental phases. Unlike tolerant species such as oyster
 mushrooms, maitake requires specific temperature, humidity, CO2, and
 light regimens at each stage. Failure to meet requirements at critical
@@ -29,7 +29,7 @@ Temperature should be 20–25 °C — lower end yields denser ,
 higher end accelerates growth but raises contamination risk; above
 30 °C is lethal. Maintain 60–70% relative humidity to prevent
 desiccation without condensation that encourages contaminants. Keep
-in complete darkness — light triggers premature primordia formation
+in complete darkness — light triggers premature [[growing-gourmet-primordia-formation-pinning]]
 before the block is fully colonized, wasting nutrients and reducing
 final yield. Elevated CO2 of 2,000–5,000 ppm (natural in sealed bags
 with filter patches) promotes mycelial growth and suppresses
@@ -53,7 +53,7 @@ CO2 levels can remain moderately elevated (1,000–2,000 ppm). A mature
 coat appears smooth, slightly glossy, and tan-to-white. A fluffy or
 aerial appearance indicates excessive humidity or excessively low CO2.
 If the coat appears thin or patchy, additional maturation time of 3–5
-days should be allowed before proceeding to primordia initiation.
+days should be allowed before proceeding to [[chen-maitake-primordia-initiation-fruiting]].
 
 ## Phase 3: Primordia Initiation (5–10 days)
 
@@ -79,14 +79,14 @@ Maintain 85–95% relative humidity — the enlarging fruiting body
 increases transpiration, and brief humidity dips cause cap cracking
 and quality loss. Moderate to high fresh-air exchange prevents CO2-
 induced stem elongation, small caps, and poor cluster formation. Gentle
-uniform [[growing-gourmet-growing-room-humidification-climate-control]] aitake requires a dedicated growing room — it cannot share space with
+uniform growing-gourmet-growing-room-humidification-climate-control aitake requires a dedicated growing room — it cannot share space with
 other mushroom species due to its specific environmental requirements
 and long crop cycle of 60–120 days total. The facility must provide
 precise control of temperature (±1 °C), humidity (±5%), fresh-air
 exchange (adjustable CO2 from 500 to 5,000 ppm), and lighting (0 to
 1,000 lux with timer control). Walls, floors, and ceilings must be
 smooth, washable, and resistant to repeated disinfection.[[growing-gourmet-hepa-filtration-laboratory-air-systems]] g systems should
-provide HEPA filtration on incoming air and sufficient exchange capacity
+provide HEPA filtration on incoming air and sufficient [[query-what-is-cation-exchange-capacity-and-why-does-it-matter]]
 for the room volume.
 
 ## Common Environmental Problems
@@ -111,5 +111,7 @@ for the room volume.
 | Duration    | 20–30 d     | 7–14 d         | 5–10 d         | 10–21 d     |
 
 ## See Also
+
+- [[chen-maitake-growth-parameters-environmental-control]]
 - [[growing-gourmet-light-requirements-mushroom-fruiting]]
 - [[duggar-mushroom-environmental-factors-temperature-moisture-light]]

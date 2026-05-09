@@ -9,7 +9,7 @@ sources:
 ---
 # Psychedelic Use in Ancient Greece
 
-The [[eleusinian-mysteries-history-and-structure]] represent the most well-documented potential case, several other Greek religious and cultural practices suggest familiarity with altered states induced by plants and fungi. The [[ergot-and-lysergic-acid-history]] provides the pharmacological backdrop for this hypothesis.
+The  represent the most well-documented potential case, several other Greek religious and cultural practices suggest familiarity with [[weil-the-natural-mind-altered-states-normalcy]] induced by plants and fungi. The [[ergot-and-lysergic-acid-history]] provides the pharmacological backdrop for this hypothesis.
 
 Key evidence for psychedelic use at Eleusis:
 
@@ -20,7 +20,7 @@ Key evidence for psychedelic use at Eleusis:
 
 ## Comparative Evidence from Mesoamerica
 
-Wasson drew direct comparisons between Eleusis and the Mazatec mushroom velada:
+Wasson drew direct comparisons between Eleusis and the [[maria-sabina-mazatec-mushroom-ceremony]] velada:
 
 - Both involved fasting before the ceremony.
 - Both took place in darkness.
@@ -39,7 +39,7 @@ In both traditions, eggs were prohibited before the ceremony. In Mexico, chocola
 
 # Mushroom Cults in Ancient Greece
 
-The archaeological and textual evidence for entheogenic mushroom use in the ancient Greek world forms a substantial thread in McKenna's Food of the Gods, centering on the Minoan civilization of Crete, the Dionysian mysteries, and above all the Eleusinian Mysteries. McKenna argues that these traditions represent late, diluted inheritances of an archaic partnership religion centered on mushroom-induced ecstasy.
+The archaeological and textual evidence for entheogenic mushroom use in the ancient Greek world forms a substantial thread in McKenna's Food of the Gods, centering on the Minoan civilization of Crete, the Dionysian mysteries, and above all the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]]. McKenna argues that these traditions represent late, diluted inheritances of an archaic partnership religion centered on mushroom-induced ecstasy.
 
 ## Minoan Crete: The Last Partnership Society
 
@@ -71,11 +71,11 @@ The connection to Minoan practice was extensively documented: the oldest Teleste
 
 ## Robert Graves and the Mushroom Hypothesis
 
-The first suggestion that a hallucinogenic plant was involved at Eleusis came from the English poet Robert Graves in his 1964 essay "The Two Births of Dionysus." Graves argued that Triptolemus's supposed secret (agriculture) "would have been no news" by the second millennium BCE, since grain had been cultivated at Jericho since ~7000 BCE. He proposed that "Triptolemus's secret seems therefore concerned with hallucinogenic mushrooms" and suggested that "the priesthood at Eleusis had discovered an alternative hallucinogenic mushroom easier to handle than the Amanita muscaria; one that could be baked in sacrificial cakes, shaped like pigs or phalloi, without losing its hallucinogenic powers."
+The first suggestion that a hallucinogenic plant was involved at Eleusis came from the English poet Robert Graves in his 1964 essay "The Two Births of Dionysus." Graves argued that Triptolemus's supposed secret (agriculture) "would have been no news" by the second millennium BCE, since grain had been cultivated at Jericho since ~7000 BCE. He proposed that "Triptolemus's secret seems therefore concerned with [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]" and suggested that "the priesthood at Eleusis had discovered an alternative hallucinogenic mushroom easier to handle than the [[allegro-amanita-muscaria-properties-and-pharmacology]]; one that could be baked in sacrificial cakes, shaped like pigs or phalloi, without losing its hallucinogenic powers."
 
 ## Wasson and Hofmann's Ergot Theory
 
-The most academically developed hypothesis was proposed by R. Gordon Wasson, Albert Hofmann, and Carl Ruck in 1978. They argued that the Eleusinian kykeon (sacred beverage) was an ergotized beer brewed from barley infected with Claviceps purpurea, a fungus that produces powerful alkaloids capable of causing hallucination (as well as triggering labor onset and vasoconstriction).
+The most academically developed hypothesis was proposed by R. Gordon Wasson, Albert Hofmann, and Carl Ruck in 1978. They argued that the Eleusinian kykeon (sacred beverage) was an ergotized beer brewed from barley infected with [[bloomfield-ergot-claviceps-purpurea-ergotism]], a fungus that produces powerful alkaloids capable of causing hallucination (as well as triggering labor onset and vasoconstriction).
 
 The purple traditionally associated with Demeter's robe may signify the distinctive purple of ergot sclerotia. The kykeon's barley base connects directly to the Claviceps life cycle. Wasson's discussion of the scandal of 415 BCE, in which the Athenian noble Alcibiades was accused of profaning the Mysteries, provided additional circumstantial support.
 

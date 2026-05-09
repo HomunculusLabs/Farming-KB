@@ -20,7 +20,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Leafly. (2024). \"Do-Si-Dos Cannabis Strain Information.\" Leafly.com."
+  - "Leafly. (2024). \"Do-Si-Dos blesching-cannabis-strain-selection-receptor-targeting Information.\" Leafly.com."
   - "AllBud. (2024). \"Do-Si-Dos Weed Strain.\" AllBud.com."
   - "Wikileaf. (2024). \"Do-Si-Dos Strain Review.\" Wikileaf.com."
   - " cannabis strain database, Archive Seed Bank."
@@ -57,7 +57,7 @@ instantly recognizable in dispensaries.
 - **Color:** Deep forest green with occasional purple hues; bright orange
   pistils woven throughout; heavy coating of milky-white trichomes
 - **Trichome coverage:** Exceptional — frosty appearance visible to the
-  naked eye; sticky resin production
+  naked eye; sticky [[cannabis-glandular-trichome-types-resin-production-clarke]]
 - **Visual appeal:** Often described as "diamond-like" due to crystalline
   trichome density; ranks among the most photogenic strains
 
@@ -80,7 +80,7 @@ instantly recognizable in dispensaries.
   happiness, creative introspection that transitions to heavy sedation
 - **Body effects:** Strong body stone, couch-lock at higher doses,
   muscle tension relief, numbing sensation in extremities
-- **Medical applications:** Chronic pain, insomnia, stress, anxiety,
+- **Medical applications:** [[cannabis-chronic-pain-management]], insomnia, stress, anxiety,
   PTSD, muscle spasms, appetite stimulation, nausea
 - **Side effects:** Dry mouth (common), dry eyes (common), dizziness
   (moderate doses), paranoia/anxiety (high doses or sensitive users),
@@ -100,11 +100,11 @@ debilitating for daytime activities.
 - **Climate:** Prefers warm, dry Mediterranean conditions; sensitive to
   high humidity (mold risk due to dense bud structure)
 - **Resistance:** Moderate mold resistance; requires good airflow;
-  pest resistance is average
+  [[cannabis-disease-pest-resistance-breeding-clarke]] is average
 - **Nutrient needs:** Moderate to heavy feeder; responds well to PK
   boosters in late flowering
 - **Training:** LST and ScrOG recommended; responds well to topping
-  early in vegetative stage; supports moderate defoliation
+  early in [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]; supports moderate defoliation
 
 ## Terpene Profile
 
@@ -129,7 +129,7 @@ debilitating for daytime activities.
 
 ## Cultural Significance
 
-Do-Si-Dos emerged during the "Cookie wave" era of cannabis breeding
+Do-Si-Dos emerged during the "Cookie wave" era of [[oner-cannabis-breeding-fundamentals]]
 (2014–2018), when GSC and its descendants dominated the industry. The
 strain exemplifies the Pacific Northwest breeding philosophy of pairing
 elite clone-only genetics with proven stud males. Its name references the
@@ -142,5 +142,5 @@ dispensaries across legal markets.
 ## See Also
 
 - [[og-kush]]
-- [[wedding-cake-cannabis]]
+- [[wedding-cake]]
 - [[gmo-garlic-cookies]]

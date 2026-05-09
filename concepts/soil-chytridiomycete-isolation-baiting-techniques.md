@@ -1,5 +1,5 @@
 ---
-title: Soil Chytridiomycete Isolation — Baiting Techniques and Bait Types
+title: Soil soil chytridiomycete isolation baiting techniques — Baiting Techniques and Bait Types
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,14 +9,14 @@ sources: []
 
 # Soil Chytridiomycete Isolation — Baiting Techniques and Bait Types
 
-Chytridiomycetes (chytrids) are early-diverging fungi that reproduce by motile zoospores requiring water for dispersal. Because most chytrids do not grow by hyphal tip elongation and cannot be isolated by standard agar-plating methods, specialized baiting techniques are required.
+Chytridiomycetes (chytrids) are early-diverging fungi that reproduce by motile zoospores requiring water for dispersal. Because most chytrids do not grow by [[gadd-hyphal-tip-growth-and-branching-mechanisms]] elongation and cannot be isolated by standard agar-plating methods, specialized baiting techniques are required.
 
 ## Why Special Methods Are Needed
 
-- Most chytrids have simple thalli without hyphal growth
+- Most chytrids have simple thalli without [[bloomfields-orchard-hyphal-growth-and-invasive-biology]]
 - Cannot be isolated using strategies for saprobic hyphal fungi
 - Reproduce by zoospores (motile, requiring water)
-- Break down refractive substrata: chitin, cellulose, keratin, pollen
+- [[query-can-fungi-break-down-plastic-pollution]] refractive substrata: chitin, cellulose, keratin, pollen
 - Many descriptions based on thalli on natural substrata, not pure cultures
 - Thalli are morphologically plastic — can confound identifications
 
@@ -100,6 +100,6 @@ Chytridiomycetes (chytrids) are early-diverging fungi that reproduce by motile z
 ## See Also
 
 - [[soil-fungal-isolation-techniques]]
-- [[fungal-phylogeny-kingdom-classification]]
+- fungal-phylogeny-kingdom-classification
 - [[fungi-in-the-environment-fungal-spore-dispersal]]
 - [[ingoldian-hyphomycetes-spore-dispersal-in-water]]

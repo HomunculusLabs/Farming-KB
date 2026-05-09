@@ -1,6 +1,6 @@
 ---
 
-title: JADAM Methods — Ultra-Low-Cost Organic Farming
+title: JADAM Methods — Ultra-Low-Cost coleman-deep-organic-farming-philosophy
 created: 2026-04-10
 updated: 2026-04-13
 type: concept
@@ -22,7 +22,7 @@ sources:
 
 # JADAM Methods
 
-JADAM (Jayondamul Agac Yeongu Moe) is an organic farming system developed by Youngsang Cho in South Korea. Its core principle: all inputs are self-made from locally available materials at near-zero cost. The goal is $100/acre/year total input cost. JADAM shares [[knf-preparations]] philosophy but uses different recipes and emphasizes ultra-low-cost pest control.
+JADAM (Jayondamul Agac Yeongu Moe) is an organic farming system developed by Youngsang Cho in South Korea. Its core principle: all inputs are self-made from locally available materials at near-zero cost. The goal is $100/acre/year total input cost. JADAM shares [[knf-preparations]] philosophy but uses different recipes and emphasizes ultra-low-cost [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]].
 
 ## Core Inputs
 
@@ -42,7 +42,7 @@ The heart of JADAM. Cultures microbes from forest leaf mold using cooked potato 
 2. Put leaf mold in separate cotton bag with rocks, knead to extract microbes into water
 3. Add sea salt to water
 4. Cover container (not airtight — needs to breathe)
-5. Ferment at ambient temperature (same as crops will experience)
+5. Ferment at [[jadam-ambient-temperature-principle]] (same as crops will experience)
 6. 24 hrs at 28C (82F), 72 hrs at 25C (77F), 96 hrs at 19C (66F)
 7. Ready when foam forms a clear circular disc at peak (pizza-like layer)
 8. Filter through fine net before applying
@@ -77,11 +77,11 @@ Natural germicide made from sulfur without heating.
 - Caustic soda (NaOH) with water
 - Red clay powder, phyllite powder, sea salt
 
-**Use**: Mix with JWA to make JS germicide. Effective against powdery mildew, downy mildew, canker, and fungal diseases. Takes 20 minutes to make.
+**Use**: Mix with JWA to make JS germicide. Effective against [[cervantes-powdery-mildew-prevention-treatment]], [[cervantes-downy-mildew-fungal-blight]], canker, and fungal diseases. Takes 20 minutes to make.
 
 ### JHS — JADAM Herb Solution
 
-Boiled herb extract used for insect control.
+Boiled herb extract used for [[mushroom-pests-insect-control-stamets]].
 
 **Process**: Boil specific herbs in water. The herb solution is combined with JWA and/or JMS to make pesticides for specific pests (aphids, mites, thrips, stinkbugs, etc.).
 

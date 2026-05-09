@@ -1,5 +1,5 @@
 ---
-title: Cleve Backster
+title: tompkins-cleve-backster-primary-perception
 created: 2026-04-28
 updated: 2026-05-06
 type: person
@@ -20,7 +20,7 @@ tags:
   - plant-consciousness
   - biocommunication
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources: []
 ---
 
 # Cleve Backster
@@ -41,7 +41,7 @@ for his career as one of America's foremost polygraph experts.
 
 In the early 1950s, Backster joined the Central Intelligence Agency (CIA) as a
 polygraph specialist. He became one of the leading authorities on lie detection
-and interrogation techniques in the United States. In the 1960s, he founded the
+and interrogation techniques in the [[dmt-containing-plants-united-states-halpern]]. In the 1960s, he founded the
 Backster School of Lie Detection in San Diego, California, which became one of
 the most recognized polygraph training institutions in the country. The school
 trained generations of polygraph examiners and produced standard training

@@ -34,7 +34,7 @@ is a species of cactus in the family Cactaceae native to central Mexico. It
 has been cultivated for thousands of years as a food crop, producing both
 edible pads (nopales) and sweet fruits (tunas or figs). The species is a
 cornerstone of arid-land agriculture, valued for its extreme drought
-tolerance, rapid biomass production, and versatility as food, fodder, and raw
+tolerance, rapid [[dighton-fungal-biomass-production-aquatic-ecosystems]], and versatility as food, fodder, and raw
 material for cochineal dye production. It is now naturalized across the
 Mediterranean, Africa, Australia, and parts of Asia, where it serves both as
 a productive crop and an aggressive invader.
@@ -74,7 +74,7 @@ a productive crop and an aggressive invader.
 ## Distribution and Habitat
 
 - **Native:** Central Mexico, cultivated since pre-Columbian times; depicted
-  in Aztec codices.
+  in [[teonanacatl-aztec-codices-archaeology]].
 - **Naturalized:** Mediterranean Europe, North and South Africa, East Africa,
   Middle East, India, Australia, South America, and southwestern US.
 - Thrives in arid and semi-arid climates with 200–800 mm annual rainfall;
@@ -100,7 +100,7 @@ a productive crop and an aggressive invader.
   historically the premier source of carmine red dye for textiles and food
   coloring; production remains economically important in Peru and the
   Canary Islands.
-- **Soil conservation:** Living fences, windbreaks, and erosion control on
+- **Soil conservation:** Living fences, windbreaks, and [[permplant-willows-salix-erosion-control-fodder]] on
   degraded slopes; cladode mulch retains soil moisture.
 
 ## Permaculture Applications
@@ -111,7 +111,7 @@ a productive crop and an aggressive invader.
   understory crops.
 - Supports pollinators (flowers rich in nectar, visited by bees and
   hummingbirds) and provides bird nesting habitat.
-- Companion planting with agave, mesquite, and fruit trees (olive,
+- [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] with agave, mesquite, and fruit trees (olive,
   pomegranate, fig) in dryland polycultures.
 - High Water Use Efficiency via CAM photosynthesis, requiring 4–10× less
   water per unit biomass than C3 or C4 crops.
@@ -122,12 +122,13 @@ a productive crop and an aggressive invader.
   Africa, and parts of the Mediterranean and East Africa.
 - Spreads vegetatively when cladode segments detach and root; forms dense,
   impenetrable thickets excluding native vegetation.
-- Biological control using *Cactoblastis cactorum* (cactus moth) was
+- [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] using *Cactoblastis cactorum* (cactus moth) was
   dramatically effective in Australia (90%+ reduction) but has become a
-  threat to native *Opuntia* species in North America.
+  threat to native *Opuntia* species in [[psilocybin-north-america-pacific-northwest]].
 
 ## See Also
 
 - [[yucca-filamentosa|Yucca filamentosa]]
-- [[tagasaste|Tagasaste]]
+- Tagasaste
 - [[arundo-donax|Arundo donax]]
+- [[companion-planting]]

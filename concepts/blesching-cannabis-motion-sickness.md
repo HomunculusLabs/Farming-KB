@@ -43,7 +43,7 @@ binding is the key mechanism.
 ### Reduced CB1 Expression in Motion Sickness Sufferers
 
 A 2010 multi-institutional German study on human subjects further revealed that
-cannabinoid receptor (CB1) expression was significantly lower in subjects who
+[[cannabis-cannabinoid-receptor-pharmacology]] (CB1) expression was significantly lower in subjects who
 suffered from motion sickness compared to those who felt fine. This indicates a
 relationship between reduced endocannabinoid activity and motion sickness.
 Anandamide levels fell in subjects who got sick but rose in subjects who felt
@@ -65,14 +65,14 @@ sickness, mental stress, and physical nausea and vomiting.
 The cannabinoid studies on motion sickness employed anandamide, CBD, and THC.
 Anandamide and THC bind with CB1 and CB2 relatively equally. CBD tends to
 favor CB2 expression. Sativa and sativa-dominant strains tend to contain a
-higher THC:CBD ratio, which may be preferable given that THC demonstrated
+higher THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]], which may be preferable given that THC demonstrated
 anti-emetic effects while CBD did not in the Bradford study.
 
 ## The Endocannabinoid Connection
 
 The German study's finding that anandamide levels correlate with motion
 sickness susceptibility is particularly significant. Anandamide, the body's
-own cannabinoid, appears to play a natural protective role against
+own cannabinoid, appears to play a [[fukuoka-natural-protective-forests-appendix]] role against
 motion-induced nausea. When anandamide levels are low, individuals are more
 susceptible to motion sickness. This suggests that supporting the
 endocannabinoid system through cannabinoid supplementation may help prevent

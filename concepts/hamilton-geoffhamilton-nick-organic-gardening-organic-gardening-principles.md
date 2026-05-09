@@ -1,5 +1,5 @@
 ---
-title: Organic Gardening Principles
+title: hamilton-geoffhamilton-nick-organic-gardening-companion-planting Principles
 created: 2026-04-28
 tags: [organic-gardening, soil-health, sustainability, permaculture, ecology]
 date: 2026-04-25
@@ -12,7 +12,7 @@ type: concept
 
 Organic gardening is a way of working with nature rather than against it,
 recycling natural materials to maintain soil fertility, and encouraging
-natural methods of pest and disease control rather than relying on
+natural methods of pest and [[hamilton-pest-and-disease-control-organic]] rather than relying on
 chemicals. It is far less involved than the methods employed by the
 chemical grower. Organic gardening recognizes that the complex workings
 of nature have been successful in sustaining life over hundreds of
@@ -25,7 +25,7 @@ The purely chemical gardener uses soil simply as a means of anchoring
 plant roots and of holding artificial fertilizers to provide plant
 nutrients. This approach does have excellent results in the short term.
 In the long term, however, it has two disastrous consequences. Because
-organic matter is not replaced, the soil organisms die out; without
+[[hamilton-composting-and-organic-matter-management]] is not replaced, the soil organisms die out; without
 them the soil structure breaks down and the soil becomes hard, airless,
 and unproductive. Attempts at "force-feeding" the plants result in soft,
 sappy growth, which is prone to attack by all manner of pests and
@@ -47,7 +47,7 @@ growth from organic matter. So, rather than feeding the plants, the
 organic way is to feed the soil with natural materials and allow the
 plants to draw on that reservoir of nutrients as and when they want
 them. Plants grown this way will be stronger and more able to resist
-attacks by pests and diseases.
+attacks by [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]].
 
 In nature, soil fertility is maintained by recycling organic matter.
 Gardeners, on the other hand, remove much of the organic material from
@@ -88,12 +88,6 @@ most powerful tools available.
 - [[hamilton-geoffhamilton-nick-organic-gardening-propagation-techniques]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-herb-garden]]
 
-- [[hamilton-geoffhamilton-nick-organic-gardening-propagation-techniques]]
-
-- [[composting]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-propagation-techniques]]
 - [[mollison-designers-composting-toilets-and-humanure]] for recycling organic matter
-- [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]] for understanding your soil
 - [[cannabis-organic-fertilizers]] for feeding the soil naturally

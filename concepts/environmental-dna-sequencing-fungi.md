@@ -1,5 +1,5 @@
 ---
-title: Environmental DNA Sequencing for Fungi
+title: Environmental environmental dna sequencing fungi for Fungi
 created: 2026-04-28
 tags: mycology, metagenomics, sequencing, methodology]
 date: 2026-04-28
@@ -13,8 +13,8 @@ type: concept
 Environmental DNA (eDNA) sequencing refers to the extraction and high-throughput
 sequencing of fungal DNA directly from environmental samples — soil, water,
 air, sediment, or host tissue — without isolating or culturing the organisms.
-This approach has transformed fungal biodiversity studies by revealing the vast
-majority of fungal diversity that is invisible to traditional methods.
+This approach has transformed [[biodiversity-fungal-biodiversity-estimation-methods]] studies by revealing the vast
+majority of [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] that is invisible to traditional methods.
 
 ## The ITS Barcode Region
 
@@ -33,7 +33,7 @@ preferentially amplifies some taxa over others.
 
 A typical fungal eDNA sequencing pipeline follows these steps:
 
-1. **Sample collection** — field collection of substrate (soil cores, leaf
+1. **Sample collection** — [[psilocybin-mushroom-field-collection-techniques]] of substrate (soil cores, leaf
    litter, water filters). Metadata recording is critical: GPS, depth,
    temperature, pH, vegetation, date.
 2. **DNA extraction** — commercial kits (e.g., MoBio PowerSoil) or CTAB-based
@@ -66,7 +66,7 @@ pipelines (QIIME2, DADA2, UNOISE).
 Taxonomic assignment depends entirely on reference database quality. The UNITE
 database is the primary resource for fungal ITS sequences, with expert-curated
 species hypotheses. However, coverage is uneven: well-studied groups in
-temperate regions are well-represented, while tropical and Southern Hemisphere
+temperate regions are well-represented, while tropical and [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]
 fungi, microfungi, and basal lineages are significantly underrepresented.
 
 This creates a circular problem: dark taxa cannot be described without
@@ -86,7 +86,7 @@ fungal diversity.
 Long-read sequencing (Oxford Nanopore, PacBio HiFi) enables full-length ITS
 sequencing without assembly, improving taxonomic resolution. Metatranscriptomics
 captures actively expressed fungal genes, providing insight into which fungi are
-metabolically active rather than merely present. CRISPR-based enrichment methods
+[[isolation-metabolically-active-arbuscules-intraradical-hyphae]] rather than merely present. CRISPR-based enrichment methods
 (e.g., HoloSeq) may allow targeted capture of fungal DNA from complex
 environmental mixtures.
 

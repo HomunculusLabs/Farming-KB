@@ -1,7 +1,7 @@
 ---
-title: Pest Management (Greenhouse Pests, Deer, Rabbits, Voles, Birds)
+title: cannabis-pest-management-guide (Greenhouse Pests, Deer, Rabbits, Voles, Birds)
 created: 2026-04-26
-sources: The Winter Harvest Handbook, Eliot Coleman (2009), Chapter 17
+sources: The coleman-claytonia-winter-harvest-cultivation Handbook, Eliot Coleman (2009), Chapter 17
 tags:
   - pest-management
   - voles
@@ -16,7 +16,7 @@ updated: 2026-04-26
 
 # Pest Management
 
-Eliot Coleman notes that in the winter harvest, insect and disease
+Eliot Coleman notes that in the winter harvest, [[vegetable-insect-and-disease-control]]
 pests have not been a real consideration. The operation has found
 little new to report since Coleman discussed this topic in earlier
 books. The major pest that has developed is not a bug or a microbe
@@ -118,7 +118,7 @@ exclusion. The cold temperatures that characterize winter
 greenhouse production are inhospitable to most insect pests,
 and the absence of outdoor host plants during freezing weather
 limits reinfection pressure. This is one of the often-overlooked
-advantages of winter growing: pest and disease pressure is
+advantages of winter growing: [[hamilton-pest-and-disease-control-organic]] pressure is
 naturally much lower than in warm-season production.
 
 ## Other Wildlife Considerations
@@ -126,15 +126,17 @@ naturally much lower than in warm-season production.
 While voles are the primary pest, Coleman acknowledges the
 importance of physical exclusion for other wildlife. The
 greenhouse structures themselves provide protection against
-deer, rabbits, and birds for the crops growing inside. For
+deer, rabbits, and birds for the [[root-crops-growing-guide]] inside. For
 outdoor crops, standard fencing and netting approaches apply.
 The overall approach favors working with biological systems
-rather than engaging in continuous chemical warfare against
+rather than engaging in continuous [[solomon-root-exudates-and-allelopathy]] against
 pests.
 
 ## See Also
 
+- [[coleman-meadow-vole-pest-management]]
+
 - [[coleman-insects-diseases]]
-- [[coleman-greenhouse-soil-management]]
+- coleman-greenhouse-soil-management
 - [[coleman-four-season-farm]]
 - [[coleman-tools-small-farm]]

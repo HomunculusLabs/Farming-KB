@@ -1,5 +1,5 @@
 ---
-title: Cho's Morning Sickness and Plant Cross-Over Period
+title: Cho's cho morning sickness and plant cross over period and Plant Cross-Over Period
 tags: [natural-farming, plant-physiology, cho-han-kyu]
 date: 2026-04-28
 updated: 2026-04-28
@@ -10,7 +10,7 @@ type: concept
 ---
 
 The concept of "morning sickness" in plants is one of the most
-distinctive elements of Dr. Cho Han Kyu's Natural Farming system.
+distinctive elements of Dr. Cho Han Kyu's [[comparison-natural-farming-vs-permaculture]] system.
 It describes a transitional phase in plant growth that parallels
 the nausea and food cravings experienced by pregnant women.
 During this period, plants undergo a fundamental metabolic shift
@@ -25,12 +25,12 @@ interventions required to support it.
 
 ## The Three Growth Stages in Natural Farming
 
-Cho's Nutritive Cycle Theory divides plant growth into three
+Cho's [[cho-nutritive-cycle-theory]] Theory divides plant growth into three
 distinct phases, each with different nutritional requirements.
 Understanding where the cross-over period falls within this
 framework is essential for applying the correct inputs.
 
-The vegetative growth stage comes first. During this phase,
+The [[cannabis-vegetative-growth-stage]] stage comes first. During this phase,
 plants develop their roots and shoots through time until they
 mature. Plants consume carbohydrates and convert them to
 nitrogen, which serves as their primary growth nutrient.
@@ -43,7 +43,7 @@ for reproduction. It represents a metabolic pivot point
 where the plant shifts from building structural biomass to
 allocating resources toward flowers and eventually fruit.
 
-The reproductive growth stage is the final phase. This
+The [[knf-reproductive-growth-stage]] stage is the final phase. This
 extends from flowering through ripening of fruits, when
 the plant begins storing carbohydrates in fruits or other
 storage organs. Potassium is needed alongside carbohydrates
@@ -52,7 +52,7 @@ for proper color development and sugar accumulation in fruits.
 ## What Happens During the Cross-Over Period
 
 During the cross-over period, the plant undergoes a dramatic
-shift in nutrient demand. Having spent the vegetative stage
+shift in nutrient demand. Having spent the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]
 building nitrogen-rich tissues, the plant now requires a
 different nutritional profile to support flower initiation
 and pollen development.

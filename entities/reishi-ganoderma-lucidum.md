@@ -1,5 +1,5 @@
 ---
-title: "Reishi (Ganoderma lucidum)"
+title: "Reishi (stamets-reishi-ganoderma-lucidum-cultivation)"
 created: 2026-04-28
 type: species
 tags:
@@ -17,7 +17,7 @@ sources:
   - "Wang, J., et al. (2021). Anticancer effects of Ganoderma lucidum polysaccharides and triterpenoids. Frontiers in Pharmacology, 12, 640257."
   - "Liu, Y.T., et al. (2019). Cultivation of Ganoderma lucidum – A review. Molecules, 24(21), 3900."
   - "Cao, L.Z., & Lin, Z.B. (2004). Regulation on maturation and function of dendritic cells by Ganoderma lucidum polysaccharides. Immunology Letters, 91(1), 35–41."
-  - "Stamets, P. (2000). Growing Gourmet and Medicinal Mushrooms. Ten Speed Press."
+  - "Stamets, P. (2000). Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]. Ten Speed Press."
 ---
 
 # Reishi (*[[medicinal-mushrooms]] in the world, with over 2,000 years of documented use in East Asian medicine. Classified as an **adaptogen**, Reishi supports homeostatic regulation of the body's stress response systems.
@@ -62,7 +62,7 @@ Reishi polysaccharides demonstrate potent immunomodulatory effects across in vit
 - Activation of macrophages with increased phagocytic activity and TNF-α, IL-1β, IL-6, and NO production (Cao & Lin, 2004).
 - Enhancement of NK cell cytotoxicity against virus-infected and tumor cells.
 - Promotion of dendritic cell maturation and antigen presentation capacity.
-- Biphasic regulation: stimulates immune response in immunocompromised states while modulating hyperactive responses (potential in autoimmune conditions).
+- Biphasic regulation: stimulates immune response in immunocompromised states while modulating hyperactive responses (potential in [[cannabis-autoimmune-conditions-detailed]]).
 - Clinical trials show increased CD4+ T-cell counts and reduced chemotherapy side effects.
 ### Anticancer Properties
 
@@ -87,11 +87,11 @@ Reishi polysaccharides demonstrate potent immunomodulatory effects across in vit
 
 ### Submerged (Liquid) Fermentation
 - **Substrate**: Liquid nutrient broth (glucose, peptone, minerals). Bioreactor cultivation at 25–28°C for 5–10 days.
-- Rapid biomass production; produces mycelial biomass and extracellular polysaccharides.
+- Rapid [[dighton-fungal-biomass-production-aquatic-ecosystems]]; produces mycelial biomass and extracellular polysaccharides.
 - **Limitation**: Lower triterpene concentrations than fruiting body cultivation.
 
 ### Solid-State (Bag) Cultivation
-- **Substrate**: Supplemented sawdust (oak, maple) with bran and gypsum.
+- **Substrate**: [[oyster-mushroom-supplemented-sawdust-blocks]] (oak, maple) with bran and gypsum.
 - Sterilized bags inoculated, incubated 30–60 days; fruiting induced by environmental controls.
 - **Advantages**: Higher yield per area, shorter cycle, scalable.
 
@@ -100,5 +100,5 @@ Sequential water extraction (90–100°C, 2–3 hrs) followed by ethanol extract
 
 ## Permaculture Applications
 
-- **[[chaga-inonotus-obliquus-medicinal-profile]] — Chaga, another prominent medicinal polypore
+- **[[chaga-inonotus-obliquus-medicinal-profile]] — Chaga, another prominent [[growing-gourmet-medicinal-polypore-candidates-turkey-tail-chaga]]
 - [[turkey-tail-trametes-versicolor]] — Turkey Tail, rich in PSK/PSP polysaccharides

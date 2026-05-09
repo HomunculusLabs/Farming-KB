@@ -1,5 +1,5 @@
 ---
-title: "Mycelial Foraging Strategies and Nutrient Translocation"
+title: "Mycelial mycelial foraging strategies nutrient translocation and dighton-fungal-nutrient-translocation-element-redistribution"
 created: 2026-04-26
 tags:
   - mycology
@@ -26,11 +26,11 @@ nutritional cues, environmental conditions, damage, and predation.
 
 ## The Mycelial Network as Foraging System
 
-Basidiomycetes are the major agents of decomposition and nutrient cycling
+Basidiomycetes are the major agents of decomposition and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 in forest ecosystems, occurring as both [[gadd-fungal-symbiosis-mycorrhizae]]
 symbionts. Hyphae that ramify through soil often aggregate to form rapidly
 extending, persistent, specialized high-conductivity channels termed cords.
-These cords form complex networks that integrate nutrient uptake, storage,
+These cords form complex networks that integrate [[plant-nutrient-uptake-mechanisms]], storage,
 and redistribution across the entire colony.
 
 The distribution of resources in soil is extremely heterogeneous and
@@ -89,7 +89,7 @@ networks. In experiments with [[armillaria-ostoyae]] holds the record for the la
   estimated at 1900-8650 years old.
 - Phosphorus moves to different litter resources over 1 metre apart via
   saprotrophic mycelial cord systems.
-- Carbon transfer occurs from host trees to neighbouring seedlings via
+- [[singh-mycorrhizal-network-carbon-transfer-plants]] occurs from host trees to neighbouring seedlings via
   ectomycorrhizal connections, even between different tree species.
 
 In tropical forest canopies, rhizomorphic fungi form suspended networks that
@@ -99,7 +99,7 @@ feeders'.
 ## Responses to Invertebrate Grazing
 
 Soil invertebrates (Collembola, nematodes, and others) significantly affect
-mycelial morphology and function:
+[[growing-gourmet-mycelial-morphology-classification-agar-media]] and function:
 
 - Intense grazing removes hyphal tips and reduces mycelial system size.
 - Grazing can induce branching, producing bushier growth forms analogous
@@ -109,4 +109,8 @@ mycelial morphology and function:
   physiological responses distant from the grazing site.
 - Some basidiomycetes can kill and consume invertebrates: Pleurotus species
   feed on nematodes, and [[gadd-fungal-ecology-saprotrophs]]
-- [[fungal-soil-aggregate-formation-glomalin]]
+- fungal-soil-aggregate-formation-glomalin
+
+## See Also
+
+- [[root-foraging-behavior]]

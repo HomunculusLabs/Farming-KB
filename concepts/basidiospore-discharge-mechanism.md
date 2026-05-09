@@ -22,7 +22,7 @@ type: concept
 
 The mechanism by which mushrooms launch their spores from gill surfaces remained
 one of the great unsolved problems in mycology for over a century. The solution,
-involving a microscopic fluid drop and the physics of surface tension, represents
+involving a microscopic fluid drop and the physics of [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]], represents
 one of the most elegant examples of biomechanical engineering in the biological
 world.
 
@@ -39,7 +39,7 @@ as vapor. If the mushroom warmed, Buller's drops would never expand and the
 spores would remain on the gills.
 
 The cooling effect is therefore an integral part of the discharge mechanism, not
-merely a side effect. Evaporative cooling and spore discharge are locked in a
+merely a side effect. [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]] and spore discharge are locked in a
 positive feedback loop: cooling promotes drop formation, drop formation launches
 spores, and the resulting disturbance of humid air promotes further cooling.
 
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

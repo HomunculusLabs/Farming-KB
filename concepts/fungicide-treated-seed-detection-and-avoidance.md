@@ -2,8 +2,8 @@
 
 ## Overview
 
-When sourcing grass seed for [[mycelial-colonization]] tion in severe cases
-- Stunted or abnormal mycelial growth with irregular morphology
+When sourcing [[disposable-tray-casing-method-grass-seed-substrate]] for [[mycelial-colonization]] tion in severe cases
+- Stunted or abnormal [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] with irregular morphology
 - Contamination susceptibility due to weakened, non-competitive mycelium
 - Economic loss from wasted substrate, jars, inoculant, and time
 - Frustrating diagnostic confusion when the cause is not immediately obvious
@@ -48,7 +48,7 @@ The most reliable method of identifying treated seed is checking the product pac
 - EPA registration numbers for the treatment chemicals
 - Appropriate personal protective equipment requirements
 
-In the United States, the Federal Seed Act requires treated seed labels to include the name of the pesticide, the rate of application, and a statement affirming that the seed has been treated. In the European Union, Regulation (EC) No 1107/2009 governs plant protection products, and treated seed must bear the phrase "treated seed" along with the active substance name.
+In the [[dmt-containing-plants-united-states-halpern]], the Federal Seed Act requires treated seed labels to include the name of the pesticide, the rate of application, and a statement affirming that the seed has been treated. In the European Union, Regulation (EC) No 1107/2009 governs plant protection products, and treated seed must bear the phrase "treated seed" along with the active substance name.
 
 ### Visual Inspection
 
@@ -103,7 +103,7 @@ Purchasing directly from seed growers or seed cleaning operations:
 When uncertainty exists about seed treatment status, a simple bioassay provides definitive answers:
 
 1. Prepare a small test jar (half-size or pint jar) using the suspect seed following standard substrate preparation
-2. Inoculate with a known viable, vigorous culture (liquid culture or aggressive agar strain)
+2. Inoculate with a known viable, vigorous culture ([[comparison-liquid-culture-vs-grain-spawn]] or aggressive agar strain)
 3. Maintain optimal incubation conditions (24-26°C, darkness)
 4. Observe mycelial growth over 5-7 days compared to a positive control using confirmed untreated seed
 5. If mycelium fails to colonize or shows severely inhibited growth relative to the control, the seed likely contains fungicide residues
@@ -123,9 +123,11 @@ This bioassay is inexpensive and conclusive. It should be performed whenever a n
 
 ## Related
 
+- fungicide-treated-seed-avoidance-mushroom-substrate
+
 - [[grass-seed-substrate-preparation]]
 - [[casing-soil-sterilisation-debate-mushroom-cultivation]]
 
 ---
 
-*Source: Gartz et al., cultivation guid [[grass-seed-substrate]] ubstrate preparation for Psilocybe species*
+*Source: Gartz et al., cultivation guid  ubstrate preparation for Psilocybe species*

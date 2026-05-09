@@ -1,9 +1,11 @@
 ---
-title: "What Are Permaculture Earthworks and How Do I Plan Them?"
+title: "What Are query what are permaculture earthworks and how do i plan them and How Do I Plan Them?"
 tags: [query, permaculture, earthworks, water-harvesting, land-management]
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources:
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # What Are Permaculture Earthworks and How Do I Plan Them?
@@ -42,19 +44,19 @@ This off-contour pattern gently directs water from valleys toward ridges, distri
 
 ## Ponds and dams for water storage
 
-[[backyard-pond-building]] covers smaller-scale pond construction suitable for homesteads and food forests.
+[[backyard-pond-building]] covers smaller-scale [[holzer-pond-construction-and-aquaculture]] suitable for homesteads and food forests.
 
 Ponds should be sited above the highest use point so water can be distributed by gravity.
 
 The dam wall must be built on stable subsoil or clay, never on organic material that will decompose and cause seepage.
 
-[[comparison-terracing-vs-swale]] notes that terraces create usable growing space while swales primarily manage water.
+[[comparison-terracing-vs-swale]] notes that terraces create usable [[cotter-growing-space-design-fruiting-rooms]] while swales primarily manage water.
 
 Terraces can be bench terraces cut into the hillside or broad-based terraces built up with earth.
 
 On very steep slopes exceeding 15 degrees, terracing may be the only practical option for annual crops.
 
-Steeper slopes are generally better suited to perennial tree crops with [[comparison-constructed-wetlands-vs-bioswales]] shows that constructed wetlands treat water quality while bioswales handle volume.
+Steeper slopes are generally better suited to perennial tree crops with [[comparison-constructed-wetlands-vs-bioswales]] shows that [[comparison-constructed-wetlands-vs-bioswales]] treat water quality while bioswales handle volume.
 
 [[permaculture-earthworks-and-water-harvesting]] recommends starting with observation for at least one full year before moving dirt.
 

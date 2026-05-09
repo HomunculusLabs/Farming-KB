@@ -18,7 +18,7 @@ type: concept
 
 Mycetozoa is a name applied to the polyphyletic assemblage of
 terrestrial amoeboid protists that produce aerial spore-bearing
-structures, commonly known as slime molds. The categories include
+structures, commonly known as [[bloomfield-slime-molds-myxomycetes-plasmodial-protists]]. The categories include
 Eumycetozoa and the acrasids (Olive 1975). Eumycetozoa appears
 to be a monophyletic group including Myxogastria (myxomycetes or
 plasmodial slime molds), Dictyostelia (dictyostelid cellular
@@ -78,7 +78,7 @@ Protostelia include 37 described species in 17 genera, with
 more than 50 undescribed species observed. All produce
 microscopic fruiting bodies with a delicate, acellular stalk.
 They are probably ubiquitous, having been collected from
-subarctic North America, temperate and desert areas, the
+subarctic [[psilocybin-north-america-pacific-northwest]], temperate and desert areas, the
 Caribbean, Melanesia, Japan, England, and Africa.
 
 Myxogastria (myxomycetes, plasmodial slime molds) comprise
@@ -92,7 +92,7 @@ to this group. Fruiting bodies are called sorocarps.
 
 ## Habitats and Distribution
 
-Mycetozoans occur in soil, leaf litter, herbivore dung,
+Mycetozoans occur in soil, [[dighton-fungal-decomposition-leaf-litter-dynamics]], herbivore dung,
 rotting logs, bark surfaces of living and dead trees, and
 dead aerial parts of plants. They are present in temperate,
 boreal, and tropical forests as well as in grasslands, deserts,
@@ -130,8 +130,10 @@ mycetozoan diversity is far from known.
 
 ## See Also
 
+- dictyostelid-cellular-slime-mold-diversity-distribution
+
 - [[biological-slime-mold-computing]]
 
 - [[fungal-biodiversity-ecosystem-function]]
-- [[fungal-feeding-invertebrates-soil]]
+- fungal-feeding-invertebrates-soil
 - [[fungal-biogeography-distribution-patterns]]

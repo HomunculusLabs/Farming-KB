@@ -20,7 +20,7 @@ type: concept
 
 ## Overview
 
-Mycotoxins are poisonous secondary metabolites produced by fungal mycelia (as opposed to fruiting body toxins like [[ascomycota-phylogeny-major-classes-lineages|Ascomycota]]
+Mycotoxins are poisonous [[antifungal-secondary-metabolites-coprophilous-fungi]] produced by fungal mycelia (as opposed to [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] toxins like [[ascomycota-phylogeny-major-classes-lineages|Ascomycota]]
 - [[ergot-fungus|Ergot fungus and Claviceps]]
 - Fungal contamination of food
 - [[mushroom-toxins-and-poisoning|Amanita toxins and mushroom poisoning]]
@@ -101,4 +101,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

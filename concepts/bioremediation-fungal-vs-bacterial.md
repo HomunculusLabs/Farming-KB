@@ -9,7 +9,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal
 # Bioremediation: Fungal vs Bacterial Approaches
 
 Scientists began using fungi and bacteria for the degradation of xenobiotic
-organic compounds toward the middle of the twentieth century. Bacteria showed
+[[fungal-volatile-organic-compounds-communication]] toward the middle of the [[coleman-louis-savier-twentieth-century-maraicher]]. Bacteria showed
 fast and promising results, but research on evaluating fungi lagged behind.
 This does not mean that fungi are less suitable organisms or function less
 satisfactorily than bacteria in degrading such compounds. The participation of
@@ -26,7 +26,7 @@ fungal technologies for the degradation of organic compounds has
 begun."
 White-rot fungi have been examined for lignin degradation for more than half a
 century. After the discovery of the extracellular oxidative ligninolytic
-enzymes of Phanerochaete chrysosporium, Bumpus et al. (1985) proposed the use
+enzymes of [[staycare-phanerochaete-chrysosporium-in-bioremediation]], Bumpus et al. (1985) proposed the use
 of this fungus for bioremediation. Based on the literature of the past two
 decades, white-rot fungi account for at least 30% of the total research on
 fungi use in
@@ -66,8 +66,8 @@ White-rot fungi can be cultivated easily on cheap and waste nutrient sources
 such as wood chips, sawdust, and agricultural wastes. A variety of substrates
 including wheat straw, peat, corncobs, bark, rice, annual plant stems, fish
 oil, alfalfa, spent mushroom compost, sugarcane bagasse, coffee pulp, and
-sugar beet pulp can be employed in inoculum production. They become
-established strongly in the field among indigenous microorganisms. Bacteria do
+sugar beet pulp can be employed in [[arbuscular-mycorrhizal-inoculum-production-best-practices]]. They become
+established strongly in the field among [[beneficial-indigenous-microorganisms-bim]]. Bacteria do
 not utilize such nutrient sources as
 readily.
 ### Antagonism of Competing Microorganisms
@@ -105,7 +105,7 @@ microorganisms.
 White-rot fungi possess unusual and remarkable mechanisms with great
 advantages over bacterial systems for PCB degradation. Bacteria must be
 exposed to specific PCB congeners for enzyme induction, while white-rot fungi
-produce ligninolytic enzymes that degrade PCBs nonspecifically. The breakdown
+produce [[singh-ligninolytic-enzymes-fungal-bioremediation]] that degrade PCBs nonspecifically. The breakdown
 of readily available materials like wood chips is more economical than the
 cometabolism of PCBs by aerobic bacteria. Despite high degradation rates,
 mineralization generally does not exceed

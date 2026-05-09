@@ -1,10 +1,11 @@
 ---
-title: "Keyhole Garden vs Square Foot Gardening"
+title: "comparison-keyhole-garden-vs-raised-bed vs Square Foot Gardening"
 created: 2026-04-28
 tags: [comparison, intensive-gardening, small-space-gardening, raised-beds, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -15,7 +16,7 @@ Keyhole gardens and square foot gardening are both intensive raised-bed methods 
 maximize food production in small spaces, but they approach the challenge from different angles.
 Keyhole gardens integrate composting directly into the growing structure through a central
 compost basket, creating a self-fertilizing, water-efficient system. Square foot gardening uses
-a precise grid system to optimize plant spacing and succession planting within standard raised
+a precise grid system to optimize plant spacing and [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] within standard raised
 beds. Both are ideal for small-space gardeners but serve different priorities.
 
 ## Keyhole Garden
@@ -40,7 +41,7 @@ The drawbacks include the cost of Mel's Mix components (vermiculite in particula
 expensive in some regions), the rigidity of the grid system (some gardeners find it
 constraining), and the fact that SFG doesn't scale efficiently to large-scale production. Root
 vegetables may need deeper beds than standard SFG recommends. The monoculture-per-square
-approach can limit companion planting opportunities within the bed. Vertical crops require
+approach can limit [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] opportunities within the bed. Vertical crops require
 strong trellis support on the north side, and the system demands consistent replanting
 discipline to maintain productivity.
 
@@ -63,11 +64,11 @@ Keyhole gardens are ideal for arid and drought-prone regions where water conserv
 critical, for gardeners who want to integrate composting and growing in a single structure, and
 for sites with poor soil that benefits from continuous nutrient release. They suit small-space
 gardens, accessibility-focused designs, and ornamental food gardens where the circular form is
-an asset. Keyhole gardens are particularly effective in community garden settings and schools,
+an asset. Keyhole gardens are particularly effective in [[mollison-designers-community-garden-design-urban-permaculture]] settings and schools,
 where the self-contained, low-maintenance design reduces the risk of neglect between visits.
 
 The educational value of keyhole gardens is significant: their visible composting process
-demonstrates nutrient cycling in real time, making them powerful teaching tools for children
+demonstrates [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in real time, making them powerful teaching tools for children
 and adults learning about sustainable agriculture. In refugee camps and disaster relief
 contexts, keyhole gardens have been deployed successfully because they can be built from local
 materials, require minimal water, and produce food continuously. The compact, self-contained
@@ -87,11 +88,12 @@ A keyhole garden can be planted using square foot spacing principles within the 
 combining the self-fertilizing efficiency of the keyhole design with the precise spacing of
 SFG. Multiple small keyhole gardens can be arranged in a mandala pattern, each managed as a
 square foot grid. Raised beds can incorporate a central compost column inspired by the keyhole
-design, adding self-fertilizing capability to a rectangular growing space. The most effective
+design, adding self-fertilizing capability to a rectangular [[cotter-growing-space-design-fruiting-rooms]]. The most effective
 hybrids use the keyhole's compost basket concept in a rectangular raised bed layout, placing
 the compost column at one end where it can be accessed from a narrow path along the bed.
 
 ## See Also
 - [[mandala-garden-design]]
-- [[permaculture-designers-manual-keyhole-garden]]
+- permaculture-designers-manual-keyhole-garden
 - [[square-foot-gardening]]
+- [[comparison-sheet-mulching-vs-square-foot-gardening]]

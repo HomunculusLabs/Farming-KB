@@ -1,5 +1,5 @@
 ---
-title: "Ectomycorrhizal Ecosystem Impact"
+title: "dighton ectomycorrhizal ecosystem impact Impact"
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -11,7 +11,7 @@ tags: [ecosystem, mycology, mycorrhizal]
 # Ectomycorrhizal Ecosystem Impact
 
 Dighton (2003) details the profound influence of ectomycorrhizal (ECM) fungi
-on ecosystem processes, including nutrient acquisition, decomposition
+on [[fungal-ecosystem-processes-overview]], including nutrient acquisition, decomposition
 interactions, plant community dynamics, carbon cycling, and ecosystem
 resilience. ECM associations occur between a limited number of plant species
 (mainly trees) and a huge diversity of fungal taxa (basidiomycetes,
@@ -54,7 +54,7 @@ inorganic sources.
 ## Ecosystem Decomposition Interactions
 
 The "Gadgil and Gadgil effect" describes how mycorrhizal tree roots can
-suppress leaf litter decomposition by saprotrophic fungi. Gadgil and Gadgil
+suppress leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]] by saprotrophic fungi. Gadgil and Gadgil
 (1971, 1975) first suggested strong interaction between mycorrhizal roots
 and the saprotrophic community. Dighton et al. (1987) showed that the
 saprotroph Mycena galopus reduced the decomposition potential of ECM fungi
@@ -63,7 +63,7 @@ Suillus luteus and Hebeloma crustuliniforme on pine seedlings.
 Colpaert and van Tichelen (1996) demonstrated that beech leaf litter
 decomposition was much less in the presence of Scots pine with ECM species
 (Thelephora terrestris, Suillus bovinus, Paxillus involutus) than with the
-saprotroph Lepista nuda. Nitrogen mineralization occurred only in the
+saprotroph Lepista nuda. [[fungal-nitrogen-mineralization-pathways]] occurred only in the
 presence of Lepista, suggesting ECM fungi are capable of decomposition in
 the absence of competing saprotrophs but are inferior competitors for organic
 resources.
@@ -76,7 +76,7 @@ nutrients derived from saprotroph activity. Singer and da Silva Araujo (1979)
 linked the dependence of tropical trees on ECM (vs. AM) to the ability of
 ECM associates to effect leaf litter decomposition in low-fertility soils.
 
-Stable isotope analysis (Hobbie et al., 1999) showed ECM fungi had
+[[fungal-stable-isotope-ecology]] analysis (Hobbie et al., 1999) showed ECM fungi had
 consistently higher delta-15N values and lower delta-13C values than
 saprotrophic fungi, suggesting limited direct competition and distinct
 nutrient sourcing strategies between the two functional groups.
@@ -117,7 +117,7 @@ species, let alone the myriad species that cannot be cultured.
 ECM fungi are significant carbon sinks. Below-ground allocation to ECM
 components is rarely adequately quantified. Bonan (1993) suggests coniferous
 trees allocate approximately twice as much carbon to roots as deciduous
-species, a trade-off related to low leaf litter quality and low N
+species, a trade-off related to low leaf [[dighton-litter-quality-fungal-decomposition-rates]] and low N
 mineralization rates. In coniferous forests, carbon investment into
 mycorrhizal enzyme synthesis may be a key adaptation to nutrient-poor
 environments. These below-ground carbon stores may be significant in climate
@@ -127,7 +127,7 @@ change scenarios.
 
 - [[dighton-ericoid-mycorrhizal-nutrient-acquisition]]
 
-- [[dighton-arbuscular-mycorrhizal-plant-community-effects]]
+- dighton-arbuscular-mycorrhizal-plant-community-effects
 - [[dighton-fungi-climate-change-feedback]]
 - [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]
 - [[dighton-mycorrhizal-diversity-ecosystem-function]]

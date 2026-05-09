@@ -1,5 +1,5 @@
 ---
-title: Gymnopilus purpuratus Profile
+title: gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe Profile
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -36,7 +36,7 @@ was changed to Gymnopilus purpuratus (Cooke & Massee) Singer.
 In 1983, a conspicuous mushroom was observed growing on discarded bark and wood
 chips near a particle board factory in Ribnitz-Damgarten on the Eastern German
 seaboard. Later, the species was found growing prolifically on compost mixtures
-of wood chips and pig manure. The compost heaps reached internal temperatures of
+of [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]] and pig manure. The compost heaps reached internal temperatures of
 about 176 degrees Fahrenheit, conditions under which Gymnopilus purpuratus was
 able to thrive on the top layers.
 
@@ -66,7 +66,7 @@ again.
 - **Cortina:** Sulphur yellow, almost appendiculate along margin, fibrous at
   the apex without forming a true annulus, disappears with age
 - **Basidia:** Approximately 35 micrometers long, club-shaped
-- **Spore print:** Rusty orange-brown
+- **[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Rusty orange-brown
 - **Spores:** Elliptical, roughened, 7–9 × 5–6 µm
 
 ## Microscopic Features
@@ -96,7 +96,7 @@ material. Alkaloid concentrations were found to be higher in smaller mushrooms.
 
 ## Yurimagua Indians and Historical Context
 
-The discovery of psilocybin in a South American Gymnopilus species gave new
+The discovery of psilocybin in a [[chiric-caspi-brunfelsia-south-american-hallucinogen]] Gymnopilus species gave new
 significance to historical accounts from the 17th and early 18th centuries.
 Jesuits who travelled to the western Amazon (Peru) reported that the Yurimagua
 Indians habitually prepared a potently intoxicating potion from a tree-dwelling
@@ -119,4 +119,4 @@ combined with the later identification of psilocybin in
 - [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] — Tiny European psychoactive mushroom
 - [[psilocin-and-psilocybin-chemistry]] — The active compounds
 - [[psilocybin-mushroom-microscopic-identification]]
-- [[gartz-magic-mushrooms-global-distribution-patterns]]
+- gartz-magic-mushrooms-global-distribution-patterns

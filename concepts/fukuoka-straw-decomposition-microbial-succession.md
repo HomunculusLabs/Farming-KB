@@ -1,5 +1,5 @@
 ---
-title: "Straw Decomposition and Microbial Succession"
+title: "fukuoka straw decomposition microbial succession and Microbial Succession"
 created: 2026-04-28
 tags: [fukuoka, decomposition, microbiology, soil-ecology, compost, straw-mulch]
 date: 2026-04-28
@@ -25,7 +25,7 @@ which to prepare compost from straw and brush. He collected
 refuse from garbage sinkholes as well as cattle, hog,
 chicken, rabbit, and sheep droppings. From these, he
 isolated and cultured microorganisms, obtaining samples of
-many different bacteria, fungi, slime molds, and yeast. He
+many different bacteria, fungi, [[bloomfield-slime-molds-myxomycetes-plasmodial-protists]], and yeast. He
 inoculated samples of each into straw in test tubes and
 within concrete enclosures and observed the rotting rates.
 
@@ -83,7 +83,7 @@ beneficial microbes to speed up putrefaction or raise the
 temperature to promote bacterial growth, prepares compost.
 Fukuoka insists that anything man does just disturbs the
 rapid and perfect natural processes. What man knows is only
-the most minute, infinitesimal part of the natural order.
+the most minute, infinitesimal part of the [[fukuoka-textdoc-natural-order-food-chain-unity]].
 In addition to the very visible lead roles are an infinite
 number of supporting roles that perform important yet unknown
 functions. If man jumps onto center stage and begins giving
@@ -96,7 +96,7 @@ The straw decomposition story leads Fukuoka to a broader
 argument about nature's self-regulating mechanisms. A single
 bacterium such as Escherichia coli could, in two or three
 days of unchecked multiplication, leave a mass of progeny
-equivalent to the total mass of all living organisms on
+equivalent to the total mass of all [[savory-living-organisms-as-tools]] on
 earth. The balance between multiplication and destruction,
 the equilibrium between production and consumption, the
 fact that nature has seen to the growth and propagation of
@@ -117,7 +117,7 @@ operation of dismantling, decomposition, rotting, and
 fermentation. To completely return a corpse to the soil,
 billions upon billions of microorganisms appear one after
 another. The last to offer up incense are probably lactic
-acid bacteria. A person vanishes as a sweet, acrid aroma
+[[lactic-acid-bacteria-knf]]. A person vanishes as a sweet, acrid aroma
 through lactic fermentation. Thanks to the microbes that
 dispose of the remains of animals and plants, the earth's
 surface is always clean and beautiful. If carcasses just
@@ -127,7 +127,7 @@ would take to make the world an intolerable place.
 ## Relevance to Modern Microbial Farming
 
 Fukuoka's observations directly challenge the modern trend
-toward "microbial" and "enzymatic" farming methods. These
+toward "microbial" and "enzymatic" [[natural-farming-methods-comparison]]. These
 methods involve isolating specific beneficial microbes and
 applying them as inoculants to soil or compost. Fukuoka
 argues that this approach is fundamentally misguided

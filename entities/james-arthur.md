@@ -25,7 +25,7 @@ sources:
 
 # James Arthur
 
-Independent researcher, author, lecturer, and self-described "Theological Researcher, Shaman, Healer." Author of "Mushrooms and Mankind: A Brief Introduction to Ethnomycology." Arthur argues that Amanita muscaria is the hidden sacramental substance underlying most world religions and mythologies.
+Independent researcher, author, lecturer, and self-described "Theological Researcher, Shaman, Healer." Author of "[[arthur-mushrooms-and-mankind-ethnomycology-and-religion]]: A Brief Introduction to Ethnomycology." Arthur argues that [[allegro-amanita-muscaria-properties-and-pharmacology]] is the hidden sacramental substance underlying most world religions and mythologies.
 
 ## Key Thesis
 
@@ -39,7 +39,7 @@ Arthur had a direct personal connection to [[r-gordon-wasson]], the pioneer ethn
 
 ## Relationship to the Allegro Tradition
 
-Arthur builds on the linguistic work of [[john-allegro]] ("The Sacred Mushroom and the Cross," 1970), who argued that Christianity originated from a fertility cult centered on Amanita muscaria. As noted in the cultural history of magic mushrooms, Arthur "reiterates the conspiracy" using similar "creative" interpretive methods. He describes the fly-agaric as something that "can be found at the basis of the religious writings our planet has to offer." However, as critics have noted, beyond feeding the appetite of "conspiracy-hungry mushroom enthusiasts, these sorts of speculations have made no religious or cultural impact."
+Arthur builds on the linguistic work of [[john-allegro]] ("The [[allegro-the-sacred-mushroom-amanita-identification]] and the Cross," 1970), who argued that Christianity originated from a fertility cult centered on Amanita muscaria. As noted in the [[shroom-cultural-history-hippie-revolution-and-counterculture]] of [[guzman-magic-mushrooms-african-species]], Arthur "reiterates the conspiracy" using similar "creative" interpretive methods. He describes the fly-agaric as something that "can be found at the basis of the religious writings our planet has to offer." However, as critics have noted, beyond feeding the appetite of "conspiracy-hungry mushroom enthusiasts, these sorts of speculations have made no religious or cultural impact."
 
 ## Approach
 
@@ -69,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

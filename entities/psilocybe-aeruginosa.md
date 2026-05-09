@@ -40,7 +40,7 @@ as poisonous, possibly due to its psychoactive potential.
   Cheilocystidia lageniform-capitate to bluntly capitate, 40-55 x
   10-12.5 um. Pleurocystidia mucronate, clavate, 40-60 x 10-15 um.
 - **Habitat:** Widespread in British Isles, northern Europe, western
-  North America. On wood debris, gardens, parks, grassy woodland
+  [[psilocybin-north-america-pacific-northwest]]. On [[microfungal-biodiversity-ecology-wood-debris-sampling]], gardens, parks, grassy woodland
   edges. Beneath conifers (Pacific NW) and aspens (SW). Under oaks
   in southern California.
 - **Chemistry:** Activity suspected but not confirmed. Beug and
@@ -66,7 +66,7 @@ species recently transferred from Stropharia to Psilocybe,
 reflecting ongoing reclassification within the psilocybin-containing
 fungi. Its spectacular appearance makes it one of the most visually
 distinctive mushrooms in its habitat. The discrepancy between
-historical "poisonous" reports and modern chemical analyses
+historical "poisonous" reports and modern [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]]
 illustrates the need for careful study of fungal biochemistry. Its
 relationship to Psilocybe caerulea and P. pseudocyanea forms an
 important species complex for understanding Stropharia-Psilocybe

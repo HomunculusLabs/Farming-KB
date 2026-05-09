@@ -17,10 +17,10 @@ The species epithet refers to its characteristically elongated, slender fruiting
 
 ## Taxonomy
 
-The species was described from South American collections and has been included in the taxonomic frameworks established by gaston-guzman|Gastón Guzmán and other mycologists who have surveyed psilocybin mushrooms across the Neotropics.
+The species was described from South American collections and has been included in the taxonomic frameworks established by gaston-guzman|Gastón Guzmán and other mycologists who have surveyed [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] across the Neotropics.
 The epithet *linearis* refers to the notably elongated and slender stem, which is proportionally longer relative to cap diameter than many other species in the genus.
 
-In Guzmán's infrageneric classification, *P. linearis* was placed within Section Psilocybe based on its bluing reaction, spore morphology, and confirmed psychoactive chemistry.
+In Guzmán's infrageneric classification, *P. linearis* was placed within Section Psilocybe based on its [[field-guide-psilocybin-bluing-reaction-identification]], spore morphology, and confirmed psychoactive chemistry.
 This section encompasses the majority of known psilocybin-containing taxa and is characterized by the development of a blue staining reaction when the fruiting body is injured.
 
 The taxonomic status of some South American Psilocybe species remains under investigation, as molecular phylogenetic studies have revealed that morphological species concepts in the genus sometimes encompass multiple genetically distinct lineages.
@@ -70,7 +70,7 @@ In montane cloud forests, suitable conditions may persist for much of the year d
 As a saprotrophic fungus, *P. linearis* plays a role in decomposing plant litter and recycling nutrients in montane forest ecosystems.
 Its preference for mossy, high-humidity microhabitats suggests sensitivity to environmental moisture and temperature, which may make it vulnerable to habitat disturbance and climate change.
 
-The species contributes to the decomposition of woody debris and leaf litter in cloud forest ecosystems, processes that are essential for nutrient cycling and soil formation in these biodiversity-rich but fragile environments.
+The species contributes to the decomposition of woody debris and leaf litter in cloud forest ecosystems, processes that are essential for [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and soil formation in these biodiversity-rich but fragile environments.
 Changes in cloud forest moisture regimes due to climate change could potentially impact fruiting patterns and population viability for this and other moisture-sensitive fungal species.
 
 *P. linearis* is often found in association with bryophyte communities, which maintain high local humidity through water retention and evapotranspiration.
@@ -79,7 +79,7 @@ This association suggests that the presence of healthy moss populations may be a
 ## Chemistry
 
 The species is psychoactive, containing [[psilocin]] as its primary active alkaloids, confirmed through both chemical extraction and the presence of the characteristic blue bruising reaction.
-Analytical data from researchers including [[beug]] have placed it within the known range of potency for Neotropical Psilocybe species, likely in the low to moderate range.
+Analytical data from researchers including beug have placed it within the known range of potency for [[guzman-allen-gartz-neotropical-psilocybe-species]] species, likely in the low to moderate range.
 
 [[norbaeocystin]] have been identified in related South American species and are presumed to be present in *P. linearis* as well, though specific quantitative analysis remains limited.
 The pharmacological significance of these minor alkaloids is not fully understood, but they may contribute to the overall psychoactive profile.
@@ -97,7 +97,7 @@ This gene cluster (*PsiD*, *PsiK*, *PsiM*) is conserved across psilocybin-produc
 
 ## Cultivation
 
-No well-established cultivation methods exist for *P. linearis*.
+No well-established [[synthetic-log-cultivation-methods-guide]] exist for *P. linearis*.
 Its natural growth on decaying plant material in forest environments suggests it could potentially be grown on sterilized lignocellulosic substrates such as hardwood sawdust or straw, but specific nutritional requirements and environmental preferences have not been systematically investigated.
 
 Based on the cultivation parameters of related montane species, a substrate of supplemented hardwood sawdust with wheat bran or rice bran would likely support mycelial colonization.
@@ -119,7 +119,7 @@ Additional field surveys are needed to assess population sizes and distribution 
 
 *Psilocybe linearis* may be confused with other small, brown Neotropical psilocybin mushrooms:
 
-- [[stamets-psi-psilocybe-cyanescens-species-guide]] — undulating cap margin, temperate distribution
+- [[stamets-psi-psilocybe-cyanescens-species-guide]] — undulating cap margin, [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]]
 - [[psilocybe-fascicata]] — Central American distribution, different growth habit in clusters
 
 The most reliable field character for distinguishing *P. linearis* from look-alikes is its elongated, slender stem (30–70 mm) relative to the small cap (5–20 mm), combined with the Andean montane distribution and moss-associated habitat.
@@ -129,4 +129,4 @@ The blue staining reaction further distinguishes it from non-psychoactive Deconi
 
 - [[psilocin]]
 - [[psilocybe-cubensis-potency-variation-by-flush]]
-- [[beug]]
+- beug

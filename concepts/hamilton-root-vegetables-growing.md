@@ -1,5 +1,5 @@
 ---
-title: Growing Root Vegetables Organically
+title: Growing growing-root-vegetables-guide Organically
 created: 2026-04-28
 tags:
   - organic-gardening
@@ -16,7 +16,7 @@ type: concept
 
 # Growing Root Vegetables Organically
 
-Root vegetables form the backbone of the winter vegetable garden,
+Root vegetables form the backbone of the winter [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]],
 providing hearty, nutritious crops that store well and often improve in
 flavour after frost. The main root crops include carrots, parsnips,
 beetroot, turnips, swedes, and radishes, each with specific soil
@@ -38,7 +38,7 @@ with conventional rows.
 Beetroot and turnips are less demanding about soil depth but still
 benefit from thorough preparation. A dressing of blood, fish, and bone
 meal raked into the top inch of soil before sowing provides a steady
-supply of nutrients throughout the growing season.
+supply of nutrients throughout the [[savory-growing-season-and-non-growing-season-management]].
 
 ## Carrots
 
@@ -64,10 +64,10 @@ grease-coated board passed along the row above the seedlings, causing
 the beetles to jump up and stick.
 
 Potato cyst eelworm causes premature death and undersized tubers — grow
-resistant varieties and rotate crops annually. Scab causes corky marks
-on potato surfaces; incorporating plenty of organic matter and watering
+resistant varieties and [[query-what-is-the-best-way-to-rotate-crops-in-a-vegetable-garden]] annually. Scab causes corky marks
+on potato surfaces; incorporating plenty of [[hamilton-composting-and-organic-matter-management]] and watering
 during dry spells helps prevent it. Soft rot affects swedes and turnips
-in poorly drained soils — avoid by growing on raised beds if your soil
+in poorly drained soils — avoid by growing on [[comparison-raised-beds-vs-hugelkultur]] if your soil
 is heavy.
 
 ## Summary

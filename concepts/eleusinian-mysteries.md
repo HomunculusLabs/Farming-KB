@@ -1,5 +1,5 @@
 ---
-title: The eleusinian mysteries
+title: The mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -43,7 +43,7 @@ overwhelmingly powerful and transformative.
 Several ancient authors attest to the profound impact of the initiation.
 Cicero wrote that the mysteries taught people "to live with joy and to
 die with a better hope." The poet Pindar declared that those who had
-seen the mysteries "know the end of life and its god-given beginning."
+seen the mysteries "know the [[powell-psilocybin-end-of-life-anxiety]] and its god-given beginning."
 Sophocles called the initiate "thrice blessed."
 
 ## The Kykeon and Psychedelic Theories
@@ -59,7 +59,7 @@ theory suggests that the barley used in the kykeon was infected with
 contained [[claviceps-paspali]]*, an
 ergot species that grows on wild grasses and contains significant
 quantities of [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]]
-- mckenna minoan crete eleusinian-mysteries]]
+- mckenna [[mckenna-food-gods-minoan-crete-mushroom-religion]]
 - [[ergot-alkaloids-eleusinian-mysteries]]
 ## Practical Considerations
 
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

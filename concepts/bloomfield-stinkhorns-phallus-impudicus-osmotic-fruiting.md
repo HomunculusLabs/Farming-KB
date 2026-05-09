@@ -1,5 +1,5 @@
 ---
-title: Stinkhorns, Phallus Impudicus, and Osmotic Fruiting
+title: Stinkhorns, bloomfield stinkhorns phallus impudicus osmotic fruiting, and Osmotic Fruiting
 created: 2026-04-28
 tags:
   - mycology
@@ -61,19 +61,21 @@ maintained by pressurized fluid [[bloomfield-turgor-pressure-and-hyphal-invasion
 mechanism is central to [[stinkhorns-and-cage-fungi]]. Weakening of tissue along four or five tracks would cause the
 shaft to split into arms upon pressurized expansion. With the
 mobilization of genes controlling orange coloration, a Phallus-type
-fruiting body could be transformed into Anthurus. Natural selection may
+[[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] could be transformed into Anthurus. Natural selection may
 have sculpted the existing species in relatively short time, perhaps as
 little as a few million years.
 
 Stinkhorns and other mushrooms are the tips of mycological icebergs.
 The umbilical cord at the bottom of the egg connects with the larger
-organism that pulses unseen through leaf litter, crawls under the bark
+organism that pulses unseen through [[dighton-fungal-decomposition-leaf-litter-dynamics]], crawls under the bark
 of dying trees, and connects with the roots of healthier ones. Only
 when these hyphae have gathered sufficient food and the subterranean
 fungus is fattened and pumped full of water can it surface to disturb
 our composure.
 
 ## See Also
+
+- [[bloomfield-parallel-carrion-stench-fungi-flowers-insect-convergence]]
 
 - [[macrofungal-fruiting-phenology-climate-variability]]
 ## Practical Considerations
@@ -94,4 +96,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

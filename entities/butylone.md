@@ -13,7 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Kamal, A.K.M. et al. (2012). "An analytical overview on the designer drug β-keto-N-methylbenzodioxolylbutanamine (butylone)." Drug Testing and Analysis, 4(4), 307–318.
+  - Kamal, A.K.M. et al. (2012). "An analytical overview on the designer drug β-keto-N-methylbenzodioxolylbutanamine (butylone)." psychedelic-drug-testing-and-adulterant-screening and Analysis, 4(4), 307–318.
   - López-Arnau, R. et al. (2014). "3,4-Methylenedioxymethcathinone (methylone), a new drug of abuse." Toxicology Letters, 227(3), 199–206.
   - EMCDDA (2014). "Report on the risk assessment of butylone in the framework of the Council Decision on new psychoactive substances."
   - Zaitsu, K. et al. (2009). "Simultaneous determination of 11 cathinone derivatives in human hair by LC-MS/MS." Forensic Science International, 184(1–3), 1–7.
@@ -27,7 +27,7 @@ created: 2026-04-28
 
 First synthesized in the late 1960s by Alexander Shulgin and documented in *PiHKAL* (Phenethylamines I Have Known and Loved), butylone remained obscure until the mid-2000s when it emerged as a designer drug in the global online research chemical market. It was marketed as a legal alternative to MDMA and methylone, often sold under names such as "B1" or simply as "plant food."
 
-Butylone produces empathogenic and stimulant effects qualitatively similar to MDMA but is generally reported as milder, shorter-acting, and less euphoric. It is classified as a Schedule I controlled substance in the United States and is controlled under the UN Convention on Psychotropic Substances.
+Butylone produces empathogenic and stimulant effects qualitatively similar to MDMA but is generally reported as milder, shorter-acting, and less euphoric. It is classified as a Schedule I controlled substance in the [[dmt-containing-plants-united-states-halpern]] and is controlled under the UN Convention on Psychotropic Substances.
 
 ## Chemical Properties
 
@@ -91,7 +91,7 @@ The acute toxicity profile of butylone has been characterized primarily through 
 
 ## Legal Status
 
-Butylone is classified as a Schedule I controlled substance in the United States under the Synthetic Drug Abuse Prevention Act of 2012, which explicitly covered β-keto-substituted phenethylamines. It is also controlled in the United Kingdom under the Psychoactive Substances Act 2016 (Class B), in Germany under the NpSG (New Psychoactive Substances Act), and in Australia as a Schedule 9 prohibited substance.
+Butylone is classified as a Schedule I controlled substance in the United States under the Synthetic Drug Abuse Prevention Act of 2012, which explicitly covered β-keto-substituted phenethylamines. It is also controlled in the United Kingdom under the Psychoactive [[controlled-substances-act-and-psychedelic-research]] 2016 (Class B), in Germany under the NpSG (New Psychoactive Substances Act), and in Australia as a Schedule 9 prohibited substance.
 
 In China, butylone and related cathinones have been controlled since 2015 as part of a broad crackdown on synthetic drug manufacturing. The European Monitoring Centre for Drugs and Drug Addiction (EMCDDA) conducted a formal risk assessment of butylone in 2014, leading to EU-wide scheduling recommendations.
 
@@ -111,7 +111,7 @@ The compound re-emerged around 2005–2007 through online research chemical vend
 
 ## See Also
 
-methylone [[mdma]] [[harmine]]
+methylone mdma [[harmine]]
 [[psilocin]] mephedrone
-[[4-aco-dmt]] [[salvinorin-a-entity]] [[ibogaine]]
+[[4-acetoxy-dmt]] [[salvinorin-a-entity]] [[ibogaine]]
 [[tetrahydroharmine]] [[ketamine]] [[baeocystin]] [[aeruginascin]]

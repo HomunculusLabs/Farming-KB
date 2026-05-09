@@ -1,5 +1,5 @@
 ---
-title: "Companion Planting"
+title: "comparison-companion-planting-reference-vs-jadam-monoculture-critique"
 created: 2026-04-28
 type: species
 tags:
@@ -21,7 +21,7 @@ sources:
 
 ## Overview
 
-Companion planting is an agricultural and horticultural practice of growing different plant species in close proximity for mutual benefit. Rooted in indigenous farming traditions and formalized through modern agroecology research, companion planting exploits synergistic relationships between plants to improve pest management, enhance pollination, optimize nutrient cycling, and increase overall crop yields. It is a foundational technique in permaculture, biodynamic agriculture, and organic farming systems.
+Companion planting is an agricultural and horticultural practice of growing different plant species in close proximity for mutual benefit. Rooted in indigenous farming traditions and formalized through modern agroecology research, companion planting exploits synergistic relationships between plants to improve pest management, enhance pollination, optimize nutrient cycling, and increase overall crop yields. It is a foundational technique in permaculture, [[query-what-is-biodynamic-agriculture-and-how-does-it-differ-from-organic]], and organic farming systems.
 
 ## Historical Origins
 
@@ -50,9 +50,9 @@ Plants protect neighbors through multiple mechanisms:
 
 ### 2. Nutrient Sharing and Cycling
 
-- **Nitrogen fixation**: Legumes (beans, peas, clover, vetch) form symbiotic relationships with *Rhizobium* bacteria, converting atmospheric N₂ into plant-available forms. Adjacent nitrogen-hungry crops (corn, leafy greens) benefit from this biological fertilizer.
+- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]**: Legumes (beans, peas, clover, vetch) form symbiotic relationships with *Rhizobium* bacteria, converting atmospheric N₂ into plant-available forms. Adjacent nitrogen-hungry crops (corn, leafy greens) benefit from this biological fertilizer.
 - **Deep nutrient mining**: Deep-rooted plants (comfrey, daikon radish, chicory) access nutrients from subsoil layers and bring them to the surface through leaf decomposition.
-- **Nutrient accumulation**: Dynamic accumulators (yarrow, nettle, dandelion) concentrate specific minerals: potassium, calcium, iron, magnesium, and silica.
+- **Nutrient accumulation**: [[comparison-dynamic-accumulators-vs-cover-crops]] (yarrow, nettle, dandelion) concentrate specific minerals: potassium, calcium, iron, magnesium, and silica.
 
 ### 3. Physical Support and Microclimate
 
@@ -109,9 +109,9 @@ In permaculture, companion planting is formalized as **plant guilds** — curate
 | **Understory** | Comfrey (*Symphytum officinale*) | Dynamic nutrient accumulator; mulch producer |
 | **Nitrogen fixer** | White clover (*Trifolium repens*) | Ground cover; nitrogen fixation |
 | **Pest repeller** | Garlic chives (*Allium tuberosum*) | Repels apple-scab-causing organisms |
-| **Pollinator attractor** | Bee balm (*Monarda didyma*) | Attracts bees and beneficial insects |
+| **Pollinator attractor** | Bee balm (*Monarda didyma*) | Attracts bees and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] |
 | **Root crop** | Daikon radish | Soil decompactor; nutrient miner |
-| **Fungal ally** | Composted woody mulch | Supports mycorrhizal networks |
+| **Fungal ally** | Composted woody mulch | Supports [[dighton-mycorrhizal-networks-carbon-transfer]] |
 
 ## Scientific Evidence
 
@@ -139,7 +139,12 @@ Meta-analyses of companion planting research show:
 - **Autumn**: Cover crops of clover, vetch, and rye for winter soil protection and nitrogen fixation
 ## See Also
 
+- [[phacelia-tanacetifolia]]
+
 - [[smallanthus-sonchifolius]]
 - [[malva-sylvestris]]
 
-- [[epimedium-sagittatum]]
+- epimedium-sagittatum
+- [[root-exudates]]
+- [[decomposition]]
+- [[monarda-didyma]]

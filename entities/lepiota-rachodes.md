@@ -2,14 +2,12 @@
 title: Lepiota rachodes
 created: 2026-04-28
 type: species
-tags: [[mycology, identification, gourmet-mushrooms, lepiota]
+tags: [mycology, identification, gourmet-mushrooms, lepiota]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 ---
-# Lepiota rachodes
-
-Lepiota rachodes, commonly known as the Shaggy Parasol, is a large, edible mushroom closely related to [[lepiota-procera]] for the true Parasol Mushroom and [[agar]]icales
+# Lepiota rachodes Lepiota rachodes, commonly known as the Shaggy Parasol, is a large, edible mushroom closely related to [[lepiota-procera]] for the true Parasol Mushroom and agaricales
 - **Family:** Agaricaceae
 - **Synonyms:** Macrolepiota rachodes (Vittadini) Singer, Lepiota rhacodes (alternate spelling), Chlorophyllum rachodes (Vittadini) Vellinga
 - **Common names:** Shaggy Parasol, Shaggy Parasol Mushroom
@@ -18,7 +16,7 @@ Lepiota rachodes, commonly known as the Shaggy Parasol, is a large, edible mushr
 
 - **Cap:** Large, 8-20 cm diameter, egg-shaped when young, expanding to broadly convex with a distinct umbo. Surface covered with prominent, shaggy, cinnamon-brown to reddish-brown scales on a white to cream background. More densely scaly than [[lepiota-procera]], and the two species can sometimes be found growing near each other.
 - **Seasonality:** Late summer through autumn, typically August through November in the Northern Hemisphere. Most abundant during warm, humid periods following rain.
-- **Growth pattern:** Usually found singly or in small groups, occasionally in fairy rings. Can appear in the same locations year after year, indicating persistent soil mycelium.
+- **Growth pattern:** Usually found singly or in small groups, occasionally in [[bloomfield-fairy-rings-armillaria-giant-fungi]]. Can appear in the same locations year after year, indicating persistent soil mycelium.
 
 ## Identification Notes
 
@@ -40,7 +38,7 @@ L. rachodes is edible for most people but is controversial due to several import
 - **Alcohol interaction:** Some reports suggest adverse reactions when consumed with alcohol, similar to the Coprinus effect, though this is not well-documented or universally accepted.
 - **Confusion with deadly Lepiota species:** Small Lepiota species (L. brunneoincarnata, L. subincarnata, and L. helveola) contain lethal amatoxins, the same toxins found in [[lepiota-procera]]
 - **Lepiota naucina** — Smooth Parasol, another edible Lepiota; see lepiota-naucina
-- **Agaricus campestris** — Meadow Mushroom, common grassland species; see [[coprinus-comatus-detailed]]** — Shaggy Mane, another large distinctive grassland mushroom; see [[marasmius-oreades]]
+- **Agaricus campestris** — Meadow Mushroom, common grassland species; see [[coprinus-comatus]]** — [[growing-gourmet-shaggy-mane-coprinus-cultivation]], another large distinctive grassland mushroom; see [[marasmius-oreades]]
 
 ## See Also
 
@@ -62,7 +60,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -104,4 +102,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: Psilocin Synthesis from 4-Hydroxyindole
+title: acetylation-protection-psilocin-synthesis-4-hydroxyindole from 4-Hydroxyindole
 created: 2026-04-28
 tags:
   - synthesis
@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# [[magic-mushrooms-japan]].
+# magic-mushrooms-japan.
 
 ## Starting Material: 4-Hydroxyindole
 
@@ -55,7 +55,7 @@ ppm in the 13C NMR.
 
 ## Step 2: Oxalylation to Form the Glyoxalyl Intermediate
 
-4-Acetylindole is treated with oxalyl chloride in anhydrous diethyl ether
+4-Acetylindole is treated with [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] in anhydrous diethyl ether
 at 0 degrees C to form the 3-glyoxalyl-4-acetylindole intermediate
 (compound 5). After stirring for 15 minutes, n-hexane is added and the
 reaction flask is stored in a freezer overnight. The product precipitates
@@ -99,7 +99,7 @@ After cooling, careful quenching with anhydrous sodium sulfate powder
 followed by dropwise addition of saturated sodium sulfate solution
 controls the exothermic decomposition of excess LiAlH4. The reaction
 mixture is then diluted with ethyl acetate and filtered through an
-aminopropyl silica gel pad. The filtrate is concentrated and the crystals
+aminopropyl [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] pad. The filtrate is concentrated and the crystals
 are washed with methanol to afford psilocin (compound 1) as white
 crystals in over 85% yield.
 
@@ -125,7 +125,9 @@ purification, and suitability for gram-scale production. The key to the
 practicality of this route is the use of crystalline intermediates
 throughout, enabling isolation by simple filtration and washing.
 
-## Related Topics
+## Related
+
+- [[acetylation-protection-psilocin-synthesis-4-hydroxyindole]] Topics
 
 - [[psilocybin]]
 - [[nmr-characterization-psilocin-psilocybin-intermediates]]

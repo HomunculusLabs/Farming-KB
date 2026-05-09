@@ -1,7 +1,7 @@
 ---
 title: "Lion's Mane Mushroom (Hericium erinaceus)"
 type: species
-tags: [fungi, medicinal mushrooms, nootropics, mycology, neurogenesis]
+tags: [fungi, comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive, nootropics, mycology, neurogenesis]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -16,7 +16,7 @@ created: 2026-05-07
 
 ## Overview
 
-Lion's Mane (*Hericium erinaceus*) is an edible and medicinal mushroom belonging to the tooth fungus group, family Hericiaceae. It is native to North America, Europe, and Asia, where it grows on hardwood trees — particularly oaks, walnuts, and beeches — in late summer and autumn. The mushroom is instantly recognizable by its cascading white spines that resemble a lion's mane, hence its common name.
+Lion's Mane (*Hericium erinaceus*) is an edible and medicinal mushroom belonging to the tooth fungus group, family Hericiaceae. It is native to [[psilocybin-north-america-pacific-northwest]], Europe, and Asia, where it grows on hardwood trees — particularly oaks, walnuts, and beeches — in late summer and autumn. The mushroom is instantly recognizable by its cascading white spines that resemble a lion's mane, hence its common name.
 
 Lion's Mane has been used for centuries in Traditional Chinese Medicine (TCM) and Japanese herbalism, primarily as a tonic for the digestive system and as a cognitive enhancer. In recent decades, it has attracted significant scientific attention for its neuroprotective and neuroregenerative properties, making it one of the most studied [[spore-print]]**: White to cream-colored
 - **Odor**: Mild, pleasant, slightly mushroomy
@@ -24,7 +24,7 @@ Lion's Mane has been used for centuries in Traditional Chinese Medicine (TCM) an
 
 ## Active Compounds
 
-Lion's Mane contains two primary classes of bioactive compounds responsible for its neurological effects:
+Lion's Mane contains two primary classes of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] responsible for its neurological effects:
 
 ### Hericenones
 
@@ -71,7 +71,7 @@ Contemporary use of Lion's Mane spans several therapeutic areas:
 - **Nerve regeneration**: Studied for potential in peripheral nerve injury recovery
 - **Mood support**: Some evidence for anxiolytic and antidepressant effects
 - **Digestive health**: Supports gastric mucosa and gut microbiome health
-- **Immune modulation**: β-glucans provide immunomodulatory benefits
+- **[[cancer-immune-modulation-mechanisms]]**: β-glucans provide immunomodulatory benefits
 
 ## Cultivation
 
@@ -86,7 +86,7 @@ Lion's Mane can be cultivated both commercially and at home using several method
 
 ### Growing Methods
 
-1. **Indoor cultivation on supplemented sawdust blocks**: The most common commercial method. Inoculated blocks are incubated at 20–24°C for 2–3 weeks, then moved to a [[fruiting-conditions]]
+1. **[[cannabis-sativa-indoor-cultivation-techniques]] on [[oyster-mushroom-supplemented-sawdust-blocks]] blocks**: The most common commercial method. Inoculated blocks are incubated at 20–24°C for 2–3 weeks, then moved to a [[fruiting-conditions]]
 
 | Parameter | Optimal Range |
 |-----------|--------------|
@@ -111,4 +111,4 @@ Lion's Mane is considered a gourmet edible mushroom with a firm, meaty texture a
 
 - [[mushroom-cultivation-basics]] Species
 
-- **[[cotter-mushroom-life-cycle-mycelium-biology]]
+- **cotter-mushroom-life-cycle-mycelium-biology

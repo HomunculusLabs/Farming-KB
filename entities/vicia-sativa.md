@@ -26,7 +26,7 @@ Vicia sativa, commonly known as common vetch, garden vetch, or tare, is an annua
 
 Native to the Mediterranean basin and Western Asia, it has been naturalized across temperate regions worldwide and is widely cultivated as a fodder crop, cover crop, and green manure.
 
-The species is valued in agriculture and permaculture for its nitrogen-fixing capacity, rapid biomass production, and adaptability to diverse soil and climatic conditions.
+The species is valued in agriculture and permaculture for its nitrogen-fixing capacity, rapid [[dighton-fungal-biomass-production-aquatic-ecosystems]], and adaptability to diverse soil and climatic conditions.
 
 ## Taxonomy
 
@@ -66,11 +66,11 @@ Common vetch is commonly found as a weed or volunteer in cultivated fields, alon
 
 Vicia sativa is sown in autumn (September–November) in Mediterranean climates or in early spring in cooler temperate regions.
 
-Seeding rates are 60–100 kg/ha for pure stands or 30–50 kg/ha when mixed with cereals such as oats, rye, or triticale for mixed forage or cover cropping.
+Seeding rates are 60–100 kg/ha for pure stands or 30–50 kg/ha when mixed with cereals such as oats, rye, or triticale for mixed forage or [[fukuoka-clover-cover-cropping-soil-ecology]].
 
 The species fixes atmospheric nitrogen through its symbiotic relationship with Rhizobium leguminosarum bv. *viciae*, contributing 80–200 kg N/ha to the soil-plant system.
 
-Biological nitrogen fixation rates depend on inoculation effectiveness, soil conditions, and growing season length.
+[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation rates depend on inoculation effectiveness, soil conditions, and [[savory-growing-season-and-non-growing-season-management]] length.
 
 When used as green manure, vetch is typically incorporated into the soil at flowering or early pod set for maximum nitrogen contribution and biomass decomposition.
 
@@ -80,7 +80,7 @@ As a forage crop, common vetch produces high-quality fodder with crude protein c
 
 The species is palatable to ruminants and can be grazed, conserved as hay, or ensiled, often in mixture with cereals to improve stand structure and yield.
 
-Digestibility is high (65–72% organic matter digestibility), making it comparable to alfalfa in nutritive value for livestock feeding.
+Digestibility is high (65–72% organic matter digestibility), making it comparable to alfalfa in nutritive value for [[knf-livestock-feeding-natural]].
 
 ### Toxicity Concerns
 
@@ -100,7 +100,7 @@ The species is an excellent companion plant for cereals and brassicas, providing
 
 In polyculture systems, vetch is often intercropped with oats, rye, or barley for dual-purpose grain and nitrogen benefits.
 
-The species also supports beneficial insect populations, providing nectar and pollen for pollinators during its flowering period.
+The species also supports [[mollison-designers-insectary-plants-and-beneficial-insect-habitat]] populations, providing nectar and pollen for pollinators during its flowering period.
 
 As a chop-and-drop mulch crop, common vetch can be cut at peak biomass and left on the soil surface to decompose, suppressing weeds and gradually releasing nitrogen.
 

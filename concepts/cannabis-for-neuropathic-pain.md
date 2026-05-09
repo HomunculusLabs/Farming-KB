@@ -34,16 +34,16 @@ Neuropathic pain arises from damage to or dysfunction of the nervous system itse
 ## How Cannabis Addresses Neuropathic Pain
 
 ### CB1-Mediated Central Pain Processing
-CB1 receptors in the central nervous system (brain and spinal cord) modulate pain signaling. Activation of CB1 receptors in pain pathways reduces the transmission and perception of pain signals.
+CB1 receptors in the central nervous system (brain and [[blesching-cannabis-spinal-cord-injuries]]) modulate pain signaling. Activation of CB1 receptors in pain pathways reduces the transmission and perception of pain signals.
 
 ### CB2-Mediated Anti-Inflammatory Action
 CB2 receptors in peripheral tissues (especially immune cells) reduce inflammation that contributes to neuropathic pain. This is particularly relevant for autoimmune-related neuropathic conditions.
 
 ### Safety Advantage Over Opioids
-CB1 receptors are **absent from the medulla oblongata**, the brain region regulating respiration. This means cannabinoids cannot cause fatal respiratory depression, unlike opioids which kill primarily through respiratory arrest. This fundamental safety difference makes cannabis a valuable tool for chronic pain management.
+CB1 receptors are **absent from the medulla oblongata**, the brain region regulating respiration. This means cannabinoids cannot cause fatal respiratory depression, unlike opioids which kill primarily through respiratory arrest. This fundamental safety difference makes cannabis a valuable tool for [[cannabis-chronic-pain-management]] management.
 
 ### Opioid-Sparing Synergy
-Pre-clinical studies indicate that "Delta(9)-THC and morphine can be useful in low dose combination as an analgesic." This opioid-sparing effect allows patients to achieve adequate pain control with reduced opioid doses, decreasing the risk of addiction and adverse effects.
+Pre-clinical studies indicate that "Delta(9)-THC and morphine can be useful in [[ultra-low-dose-brassinosteroid-response-psilocybe-cubensis]] combination as an analgesic." This opioid-sparing effect allows patients to achieve adequate pain control with reduced opioid doses, decreasing the risk of addiction and [[blesching-cannabis-safety-adverse-effects-evidence]].
 
 ## Clinical Evidence for Neuropathic Pain
 

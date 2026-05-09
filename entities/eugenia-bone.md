@@ -14,23 +14,23 @@ American food and science writer known for "Mycophilia: Revelations from the Wei
 
 ## Major Works
 
-- **"Mycophilia: Revelations from the Weird World of Mushrooms" (2011)** — A popular science exploration of mushroom biology, foraging culture, the commercial mushroom industry, and the scientific study of fungi. The book examines the subculture of mushroom hunters, the biology of [[fungal-ecology]], and the growing recognition of fungi's ecological importance.
+- **"Mycophilia: Revelations from the Weird World of Mushrooms" (2011)** — A popular science exploration of [[psilocybin-mushroom-biology-chemistry]], foraging culture, the commercial mushroom industry, and the scientific study of fungi. The book examines the subculture of mushroom hunters, the biology of [[fungal-ecology]], and the growing recognition of fungi's ecological importance.
 - **"At Mesa's Edge" (2001)** — A memoir about life and cooking in southwestern Colorado.
 - **"Italian Food, American Style" (1999)** — A cookbook exploring Italian-American culinary traditions.
 
 ## Contribution to Mycological Awareness
 
-Bone's "Mycophilia" arrived at a moment of growing public interest in fungi, helped along by the work of [[paul-stamets]] and other mycological popularizers. Her approach differs from purely scientific or culinary writing by combining field mycology with personal narrative, food writing, and ecological reporting. She covers topics ranging from mushroom cultivation and foraging safety to the role of [[mycorrhizal-fungi]] in forest ecosystems and the emerging science of [[mycoremediation-basics]].
+Bone's "Mycophilia" arrived at a moment of growing public interest in fungi, helped along by the work of [[paul-stamets]] and other mycological popularizers. Her approach differs from purely scientific or culinary writing by combining field mycology with personal narrative, food writing, and ecological reporting. She covers topics ranging from [[accessible-mushroom-cultivation-for-disabilities]] and foraging safety to the role of [[mycorrhizal-fungi]] in forest ecosystems and the emerging science of [[mycoremediation-basics]].
 
 ## Topics Covered in Mycophilia
 
 - **Mushroom subculture**: The community of foragers, cultivators, and enthusiasts
-- **Mycorrhizal networks**: How fungi connect forest trees through underground networks (see [[soil-food-web-nutrient-cycling]])
+- **[[dighton-mycorrhizal-networks-carbon-transfer]]**: How fungi connect forest trees through underground networks (see [[soil-food-web-nutrient-cycling]])
 - **Commercial cultivation**: The gourmet mushroom industry from button mushrooms to exotics
 - **Foraging**: The culture and practice of wild mushroom hunting (see [[edible-wild-mushrooms-by-region]])
 - **Fungal ecology**: Decomposition, nutrient cycling, and ecosystem roles
-- **Mycophobia vs mycophilia**: Cultural attitudes toward mushrooms across societies
-- **Medicinal mushrooms**: Health applications and scientific evidence
+- **Mycophobia vs mycophilia**: [[weil-cultural-attitudes-toward-altered-states]] toward mushrooms across societies
+- **[[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]**: Health applications and scientific evidence
 
 ## Significance
 
@@ -61,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

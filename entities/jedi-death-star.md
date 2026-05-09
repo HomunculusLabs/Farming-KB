@@ -84,7 +84,7 @@ terpene stack that synergizes with high THC for potent sedative and analgesic ef
 
 ## Medical Applications
 
-- **Chronic pain:** Full-body analgesic for neuropathic and musculoskeletal pain
+- **[[cannabis-chronic-pain-management]]:** Full-body analgesic for neuropathic and musculoskeletal pain
 - **Insomnia:** Powerful sedative; reliable sleep aid for treatment-resistant insomnia
 - **Muscle spasms:** Deep muscle relaxation reduces cramping and spasticity
 - **Stress/anxiety:** Euphoric onset calms racing thoughts; terpenes enhance anxiolysis
@@ -111,7 +111,7 @@ look elsewhere.
 - Dense, bushy indica structure with broad fan leaves and thick branches
 - Heavy colas requiring staking late in flower
 - Strong odor during flowering — carbon filtration essential for discreet grows
-- Mold/powdery mildew resistant but monitor humidity; nutrient-sensitive — watch for burn
+- Mold/[[cervantes-powdery-mildew-prevention-treatment]] resistant but monitor humidity; nutrient-sensitive — watch for burn
 
 ### Recommended Techniques
 - **LST / ScrOG:** Highly effective for canopy management and yield maximization

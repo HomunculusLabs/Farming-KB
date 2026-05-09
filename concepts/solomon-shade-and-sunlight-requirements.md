@@ -1,5 +1,5 @@
 ---
-title: "Shade and Sunlight Requirements"
+title: "solomon shade and sunlight requirements Requirements"
 created: 2026-04-28
 tags: [sunlight, shade, photosynthesis, garden-planning, microclimate]
 date: 2026-04-28
@@ -22,7 +22,7 @@ is essential for maximizing productivity.
 
 Most garden vegetables perform best in full sun, which Solomon
 generally defines as at least six to eight hours of direct sunlight per
-day during the growing season. Fruiting vegetables like tomatoes,
+day during the [[savory-growing-season-and-non-growing-season-management]]. Fruiting vegetables like tomatoes,
 peppers, eggplants, and cucurbits grow fast in full sun and in fertile
 soil. These crops need maximum light to produce abundant, well-ripened
 fruit.
@@ -80,7 +80,7 @@ shorter days and lower sun angle reduce the total light energy available
 to plants. This is why crops planted for autumn harvest need to be well
 established before light levels drop significantly.
 
-Some vegetables, particularly leafy greens and certain root crops, are
+Some vegetables, particularly [[solomon-leafy-greens-growing]] and certain root crops, are
 more tolerant of lower light levels. Brassicas like kale and Brussels
 sprouts actually benefit from the cooler conditions that come with
 shorter days and can continue growing productively into autumn.
@@ -89,12 +89,12 @@ shorter days and can continue growing productively into autumn.
 
 When planning the garden layout, taller plants should be positioned so
 they do not shade shorter ones. In Solomon's hill-planting system for
-sprawling crops like squash and melons, the wide spacing ensures that
+sprawling crops like squash and melons, the [[solomon-wide-spacing-versus-intensive-gardening-debate]] ensures that
 even large plants do not completely shade neighboring rows.
 
 For gardens in areas with hot summer afternoons, some afternoon shade
 can actually benefit certain crops by reducing heat stress and moisture
-loss. In warm climate zones, Solomon notes that careful variety
+loss. In warm [[mollison-climate-zones-permaculture-strategies]], Solomon notes that careful variety
 selection and timing are more important than manipulating shade.
 
 ## Photosynthesis and Plant Energy
@@ -116,7 +116,7 @@ Understanding sunlight requirements has direct practical implications:
    other excessively
 -  Use shade cloth or temporary covers to protect newly seeded beds
    in hot weather
--  Choose crop varieties matched to your climate's day length and
+-  Choose [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]] matched to your climate's day length and
    light intensity patterns
 -  Plan succession plantings so that each crop receives adequate light
    during its peak production period

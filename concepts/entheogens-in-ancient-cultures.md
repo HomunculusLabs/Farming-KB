@@ -25,8 +25,8 @@ civilization.
 
 McKenna proposed that the history of human civilization can be understood
 through the lens of humanity's relationship with psychoactive substances. He
-contrasted what he called the "Archaic Paradise" — hunter-gatherer societies
-with deep entheogenic traditions — with the "Dominator Culture" that emerged
+contrasted what he called the "[[mckenna-archaic-paradise-techniques-ecstasy]]" — hunter-gatherer societies
+with deep entheogenic traditions — with the "[[mckenna-dominator-culture-and-suppression-of-ecstasy]]" that emerged
 with agriculture, alcohol, and hierarchical social organization.
 
 In McKenna's framework, the suppression of entheogenic knowledge was not
@@ -55,7 +55,7 @@ sites like Lascaux and Chauvet.
 ### Mesoamerica
 
 The use of psychoactive mushrooms in Mesoamerica is among the best-documented
-cases of entheogenic practice in the ancient world. The "mushroom stones" of
+cases of entheogenic practice in the ancient world. The "[[mckenna-mushroom-stones-of-guatemala]]" of
 Guatemala, dating from approximately 1000 BCE to 900 CE, are carved
 representations of *Psilocybe* mushrooms often depicted with anthropomorphic
 faces. [[psilocybin-mushrooms]] to Western audiences.
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

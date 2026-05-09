@@ -29,7 +29,7 @@ People no longer tread over the bare earth. Their hands have drawn away from the
 
 People have become two or three steps removed from true man in the same way that someone riding in his car over asphalt-paved roads is two or three steps removed from the bare earth.
 
-Progress in Japan since the Meiji Reformation has brought material confusion and spiritual devastation. Japan can be likened to a patient dying of cultural disease who is submitted to a medical experiment. This condition is the fruit of the "cultural flowering" to which all of Japan applied itself throughout the Meiji, Taisho, and Showa periods following the reformation. We must call a halt to this flowering of destruction now.
+Progress in Japan since the Meiji Reformation has brought material confusion and spiritual devastation. Japan can be likened to a patient dying of [[fukuoka-cultural-disease-five-senses-alienated-nature]] who is submitted to a medical experiment. This condition is the fruit of the "cultural flowering" to which all of Japan applied itself throughout the Meiji, Taisho, and Showa periods following the reformation. We must call a halt to this flowering of destruction now.
 
 ## The False Materialistic Culture and True Man
 
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -24,7 +24,7 @@ sources:
 
 The species has a long history of use in traditional Mediterranean folk medicine as an antispasmodic, carminative, and vermifuge. It has also been used in perfumery and as a strewing herb for its strong aromatic properties.
 
-T. marum is cultivated as an ornamental rock garden and alpine house plant, valued for its silvery-grey foliage and compact growth habit. It is less widely grown than its relative T. polium but is sought by collectors of aromatic plants and cat-attracting species.
+T. marum is cultivated as an ornamental rock garden and alpine house plant, valued for its silvery-grey foliage and [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit. It is less widely grown than its relative T. polium but is sought by collectors of aromatic plants and cat-attracting species.
 
 The cat-attracting behavior was first documented scientifically in the early 20th century, though Sardinian shepherds had long known of the effect. Approximately 60–70% of domestic cats exhibit a behavioral response to T. marum, compared to roughly 70–80% for *Nepeta cataria*.
 
@@ -56,19 +56,19 @@ T. marum prefers calcareous, well-drained soils with low to moderate fertility. 
 
 The plant is somewhat rare and localized throughout its range, with scattered populations that reflect its specialized habitat requirements. It is considered a species of conservation concern in parts of mainland Italy and southern France due to habitat loss from urbanization and agricultural intensification.
 
-Climate change poses an additional threat through habitat desiccation and increased wildfire frequency in the Mediterranean basin. Conservation efforts include habitat protection within Natura 2000 sites in Sardinia and Corsica, and ex situ cultivation in botanical gardens across Europe.
+[[dighton-fungi-climate-change-feedback]] poses an additional threat through habitat desiccation and increased wildfire frequency in the Mediterranean basin. Conservation efforts include habitat protection within Natura 2000 sites in Sardinia and Corsica, and ex situ cultivation in botanical gardens across Europe.
 
 ## Cultivation
 
 T. marum requires full sun and sharply drained soil, performing best in sandy or gravelly calcareous substrates. It is hardy to approximately -5°C and is best grown under glass in regions with cold, wet winters.
 
-Propagation is by seed sown in spring under gentle heat, or by softwood cuttings taken in late spring and early summer. Cuttings root readily under mist with bottom heat. The plant can also be propagated by division of established clumps in early spring.
+Propagation is by seed sown in spring under gentle heat, or by softwood cuttings taken in late spring and early summer. Cuttings root readily under mist with bottom heat. The plant can also be propagated by division of established clumps in [[coleman-overwintered-onions-and-early-spring-crops]].
 
 Seed viability declines rapidly; fresh seed should be sown within 6 months of harvest for best germination rates. Stored seed may require gibberellic acid treatment to break residual dormancy.
 
 Established plants require minimal watering and are intolerant of prolonged soil moisture. A gravel mulch around the base improves drainage and reflects light onto the silvery foliage. Pruning after flowering maintains a compact form and encourages fresh growth.
 
-Pests and diseases are rarely problematic. The aromatic foliage is unpalatable to deer and rabbits. Root rot from poor drainage is the most common cause of plant failure in cultivation.
+[[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] are rarely problematic. The aromatic foliage is unpalatable to deer and rabbits. Root rot from poor drainage is the most common cause of plant failure in cultivation.
 
 The species is popular in cat-themed gardens and is sometimes sold alongside catnip and catmint in specialty nurseries. Its compact size makes it suitable for container cultivation, trough gardens, and alpine house displays where its aromatic properties can be appreciated up close.
 
@@ -76,13 +76,13 @@ In regions with Mediterranean climates (California, southern Australia, South Af
 
 ## Bioactive Compounds
 
-The essential oil of T. marum is composed primarily of monoterpene and sesquiterpene compounds. Major constituents include p-cymene, γ-terpinene, α-pinene, β-pinene, linalool, and various iridoid glycosides characteristic of the genus Teucrium.
+The [[permaculture-designers-manual-essential-oil-plants]] of T. marum is composed primarily of monoterpene and sesquiterpene compounds. Major constituents include p-cymene, γ-terpinene, α-pinene, β-pinene, linalool, and various iridoid glycosides characteristic of the genus Teucrium.
 
 The iridoid glycosides teucmarin and teumarin have been isolated from the aerial parts. These compounds are of chemotaxonomic significance within Teucrium section Teucrium and contribute to the species' characteristic bitter taste and pharmacological properties.
 
 Research has identified flavonoids including apigenin, luteolin, and their glycosides in the leaf tissue. Phenolic acids including rosmarinic acid and caffeic acid derivatives contribute to the antioxidant capacity of the aerial parts.
 
-The cat-attracting properties of T. marum have been attributed to volatile terpenoid compounds, though the specific active constituents have not been definitively identified. The response in cats is qualitatively similar to that elicited by nepetalactone in *Nepeta cataria*, though the chemical structures differ.
+The cat-attracting properties of T. marum have been attributed to volatile terpenoid compounds, though the specific active constituents have not been definitively identified. The response in cats is qualitatively similar to that elicited by nepetalactone in *Nepeta cataria*, though the [[plants-of-the-gods-chemical-structures-hallucinogens]] differ.
 
 Essential oil yields from dried aerial parts range from 0.3–1.2% v/w depending on harvest time and population origin. The highest yields are obtained from plants harvested during full flowering, and the chemical composition varies significantly between Sardinian and mainland Italian populations.
 

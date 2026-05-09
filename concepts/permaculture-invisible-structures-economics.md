@@ -1,21 +1,13 @@
 ---
-title: Permaculture Invisible Structures Economics
+title: Permaculture permaculture [[williams-pdc-invisible-structures]] economics Economics
 created: 2026-04-28
-tags: [[permaculture, invisible-structures, economics, commonwork, investment, community-governance]
+tags: [permaculture, invisible-structures, economics, commonwork, investment, community-governance]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [bill-mollison-permaculture-design-course.md]
 type: concept
 ---
-
-# Permaculture Invisible Structures and Economics
-
-## Overview
-
-In permaculture, invisible structures are the social, economic, and legal
-frameworks that underpin and sustain physical design systems. Bill
-Mollison addressed these structures extensively in the Permaculture
-Design Course, particularly in his "[[permaculture-settlement-design]], [[pdc-right-livelihood-and-permaculture-economics]]
+# Permaculture Invisible Structures and Economics ## Overview In permaculture, invisible structures are the social, economic, and legal frameworks that underpin and sustain physical design systems. Bill Mollison addressed these structures extensively in the Permaculture Design Course, particularly in his "[[permaculture-settlement-design]], [[pdc-right-livelihood-and-permaculture-economics]]
 
 See also: [[fukuoka-natural-farming-philosophy]]
 ## Practical Applications
@@ -35,7 +27,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -85,7 +77,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -95,4 +87,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -36,8 +36,8 @@ Choose biodegradable, low-sodium, phosphate-free products:
 
 ## Health and Safety
 
-- Graywater should never be used on root vegetables or plants where the edible portion contacts the soil
-- Best for fruit trees, ornamentals, and plants where the edible portion is above ground
+- Graywater should never be used on [[growing-root-vegetables-guide]] or plants where the edible portion contacts the soil
+- Best for [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], ornamentals, and plants where the edible portion is above ground
 - Do not allow graywater to pool or run off the property
 - Do not use graywater with sprinklers (aerosol risk)
 - Check local regulations -- graywater reuse is legal in many jurisdictions but may require permits or specific design features
@@ -50,7 +50,7 @@ Choose biodegradable, low-sodium, phosphate-free products:
 - Inspect pipes for clogs (hair is the most common blockage)
 - Clean lint filters on washing machines regularly
 - Flush branched drain outlets occasionally
-- Monitor plant health for signs of stress from salt buildup or overwatering
+- Monitor plant health for signs of stress from [[cervantes-salt-buildup-leaching-management]] or overwatering
 
 ## See Also
 
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

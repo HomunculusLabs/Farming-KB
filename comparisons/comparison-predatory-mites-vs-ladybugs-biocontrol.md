@@ -1,5 +1,5 @@
 ---
-title: Predatory Mites vs. Ladybugs for Biological Pest Control
+title: comparison predatory mites vs ladybugs biocontrol vs. Ladybugs for cervantes-biological-pest-control-predators Control
 tags: [biology, entomology, biocontrol, pest-management, IPM, predatory-mites, phytoseiidae, ladybugs, coccinellidae, integrated-pest-management, comparison]
 date: 2026-04-28
 updated: 2026-04-28
@@ -15,14 +15,14 @@ created: 2026-04-28
 
 # Predatory Mites vs. Ladybugs for Biological Pest Control
 
-Predatory mites (family Phytoseiidae) and ladybird beetles (family Coccinellidae) are two of the most widely used biological control agents in [[fungal-biopesticides]] (Beauveria, Metarhizium). Intraguild predation can occur — ladybug larvae may consume parasitoid pupae or other predator larvae when prey is scarce.
+Predatory mites (family Phytoseiidae) and ladybird beetles (family Coccinellidae) are two of the most widely used [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents in [[fungal-biopesticides]] (Beauveria, Metarhizium). Intraguild predation can occur — ladybug larvae may consume parasitoid pupae or other predator larvae when prey is scarce.
 
 ## Advantages and Disadvantages
 
 ### Predatory Mites
 
 - **Advantages:** Rapid population buildup; microscopic (no aesthetic concerns); preventive releases viable via pollen feeding; species available for diverse conditions; non-dispersive populations stay localized
-- **Disadvantages:** Extremely sensitive to low humidity; monitoring requires magnification; narrow prey range for specialists; short shelf life; cannot control larger pests
+- **Disadvantages:** Extremely sensitive to [[pf-tek-low-humidity-symptoms-and-remediation]]; monitoring requires magnification; narrow prey range for specialists; short shelf life; cannot control larger pests
 
 ### Ladybugs
 
@@ -31,7 +31,7 @@ Predatory mites (family Phytoseiidae) and ladybird beetles (family Coccinellidae
 
 ## Best Use Cases and Selection Guide
 
-**Choose predatory mites when:** targeting spider mites, broad mites, thrips, or rust mites; working in greenhouse or high-humidity environments (≥60% RH); preventive control is desired; crops have dense canopies (peppers, cucumbers, strawberries); localized non-dispersive control is needed.
+**Choose predatory mites when:** targeting [[cervantes-spider-mites-identification-control]], broad mites, thrips, or rust mites; working in greenhouse or high-humidity environments (≥60% RH); preventive control is desired; crops have dense canopies (peppers, cucumbers, strawberries); localized non-dispersive control is needed.
 
 **Choose ladybugs when:** targeting aphids as the primary pest; working in open field conditions; visible monitoring matters; multiple pest species are present; native or well-established predators are preferred.
 
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

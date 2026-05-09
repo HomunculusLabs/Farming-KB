@@ -23,7 +23,7 @@ sources:
 
 **Amanita ceciliae** (Berk. & Broome) Bas, commonly known as Cecilia's ringless amanita or the strangling amanita, is a basidiomycete fungus in the family Amanitaceae. It is one of the more distinctive members of the genus due to its persistent, conspicuous white volval sac and complete absence of an annulus (ring) on the stipe.
 
-The species is found across temperate broadleaf and mixed forests of Europe, North America, and parts of Asia, where it forms [[spore-print]]:** White.
+The species is found across temperate broadleaf and mixed forests of Europe, [[psilocybin-north-america-pacific-northwest]], and parts of Asia, where it forms [[spore-print]]:** White.
 
 ### Microscopic Features
 
@@ -37,10 +37,10 @@ The species is found across temperate broadleaf and mixed forests of Europe, Nor
 *Amanita ceciliae* has a broad distribution across the temperate Northern Hemisphere:
 
 - **Europe:** Widespread from Scandinavia to the Mediterranean, found in oak, beech, and hornbeam forests.
-- **North America:** Eastern North America from Canada to the southeastern United States, associated with oaks and hickories.
+- **North America:** [[polypore-fungi-eastern-north-america]] America from Canada to the southeastern United States, associated with oaks and hickories.
 - **Asia:** Reported from China, Japan, and the Himalayan region.
 
-The species fruits from late summer through autumn (July–November in the Northern Hemisphere). It prefers well-drained, acidic to neutral soils in mature forests with established ectomycorrhizal networks. It is most commonly found on forest floors with rich leaf litter.
+The species fruits from late summer through autumn (July–November in the Northern Hemisphere). It prefers well-drained, acidic to neutral soils in mature forests with established [[symbiotic-fungi-ectomycorrhizal-networks-overview]]. It is most commonly found on forest floors with rich leaf litter.
 
 ## Ecology
 
@@ -76,11 +76,11 @@ The fruiting period of *Amanita ceciliae* is influenced by temperature, precipit
 - **Geographic variation:** Southern populations tend to fruit earlier (July–September) than northern populations (August–October).
 - **Annual variation:** Fruiting abundance varies considerably from year to year, with bumper crops occurring in years with above-average summer rainfall.
 
-The species is relatively resilient to short-term drought but may fail to fruit in exceptionally dry seasons. Conversely, excessively wet conditions can promote bacterial infections of the fruiting bodies.
+The species is relatively resilient to short-term drought but may fail to fruit in exceptionally dry seasons. Conversely, excessively wet conditions can promote [[cannabis-for-bacterial-infections-and-mrsa]] of the fruiting bodies.
 
 ## Phytochemistry
 
-Chemical analysis of *Amanita ceciliae* has revealed several notable compounds:
+[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of *Amanita ceciliae* has revealed several notable compounds:
 
 - **Amanitins:** Trace amounts of alpha-amanitin have been detected in some collections, though at levels far below those found in lethally toxic Amanita species. This finding underscores the importance of thorough cooking and reinforces the precautionary principle for all Amanita consumption.
 - **Amino acids:** The fruiting body contains significant levels of free amino acids, particularly glutamic acid and alanine, which contribute to its mild flavor.
@@ -91,7 +91,7 @@ No psychoactive compounds (ibotenic acid, muscimol, or psilocybin) have been det
 
 ## Cultural Significance
 
-The species has no significant cultural, medicinal, or psychedelic use. It is primarily of taxonomic and ecological interest, serving as a representative of the diverse Amanita section *Vaginatae*. Its distinctive volval sac and ringless stipe make it a useful teaching specimen for mycology students learning to identify Amanita species.
+The species has no significant cultural, medicinal, or psychedelic use. It is primarily of taxonomic and ecological interest, serving as a representative of the diverse Amanita section *Vaginatae*. Its distinctive volval sac and ringless stipe make it a useful teaching specimen for mycology students learning to [[query-how-to-identify-amanita-muscaria]] species.
 
 ## See Also
 

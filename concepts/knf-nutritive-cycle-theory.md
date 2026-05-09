@@ -1,5 +1,5 @@
 ---
-title: KNF Nutritive Cycle Theory
+title: KNF cho-nutritive-cycle-theory Theory
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-The Nutritive Cycle Theory is a foundational concept in Korean Natural Farming (KNF) developed by [[knf-input-application-timing]], ensuring that every [[knf-vegetative-growth-stage]] for detailed guidance.
+The Nutritive Cycle Theory is a foundational concept in Korean [[comparison-natural-farming-vs-permaculture]] (KNF) developed by [[knf-input-application-timing]], ensuring that every [[knf-vegetative-growth-stage]] for detailed guidance.
 
 - **Adult Stage (Reproductive Growth):** The plant transitions to flowering and fruit production. Calcium and potassium become more critical as the plant directs energy toward reproduction. See [[knf-preparations]] to the plant's physiological needs at each point in time, maximizing both yield and plant health.
 
@@ -19,17 +19,17 @@ The Nutritive Cycle Theory is a foundational concept in Korean Natural Farming (
 
 Each growth stage demands a different nutritional profile. Applying the wrong nutrient at the wrong time can cause more harm than good, a principle that distinguishes KNF from conventional agriculture.
 
-During the vegetative stage, plants consume carbohydrates and convert them to nitrogen. Inputs such as [[indigenous-microorganisms-imo]] support this conversion process.
+During the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]], plants consume carbohydrates and convert them to nitrogen. Inputs such as [[indigenous-microorganisms-imo]] support this conversion process.
 
 During the reproductive stage, calcium becomes increasingly important for cell wall strength and fruit development. [[water-soluble-potassium-wp]], supports proper color development and sugar accumulation in fruits.
 
 Phosphorus needs are addressed through [[indigenous-microorganisms-imo]] and other biological inputs to maintain a living soil ecosystem that can adapt and provide what the plant needs at each stage.
 
-Rather than attempting to create a single "perfect" soil profile, KNF practitioners work with the soil's natural dynamics, applying inputs that support microbial activity and nutrient cycling appropriate to each growth phase.
+Rather than attempting to create a single "perfect" soil profile, KNF practitioners work with the soil's natural dynamics, applying inputs that support microbial activity and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] appropriate to each growth phase.
 
 ## Intrinsic vs Extrinsic Factors
 
-Current agricultural commonsense and cultivation methods unilaterally emphasize only the external conditions and underestimate the inner conditions — the intrinsic factors (IF) — of plants.
+Current agricultural commonsense and [[synthetic-log-cultivation-methods-guide]] unilaterally emphasize only the external conditions and underestimate the inner conditions — the intrinsic factors (IF) — of plants.
 
 We cannot expect the best harvest when we only emphasize the extrinsic factors that constantly change every year. Weather, soil composition, and pest pressure are all extrinsic factors that vary seasonally.
 
@@ -37,7 +37,7 @@ Intrinsic factors include the plant's genetic programming, its stage-specific ph
 
 The Nutritive Cycle Theory redirects the farmer's attention to these intrinsic factors. By understanding what the plant needs at each growth stage, the farmer can provide targeted support rather than blanket fertilization.
 
-This philosophy stands in contrast to conventional farming and even differs in emphasis from systems like Knf Vs Jadam Vs Em, which may approach nutrient management differently.
+This philosophy stands in contrast to conventional farming and even differs in emphasis from systems like Knf Vs Jadam Vs Em, which may approach [[green-cannabis-grow-bible-nutrient-management-ppm]] differently.
 
 ## Application in Practice
 
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

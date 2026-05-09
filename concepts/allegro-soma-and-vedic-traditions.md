@@ -10,7 +10,7 @@ sources:
 
 # Soma and the Vedic Traditions — Mushroom Parallels
 
-Allegro draws extensive parallels between the Near Eastern mushroom cult and the Vedic Soma tradition of India, arguing that both derive from a common proto-Indo-European mushroom religion that spread across Eurasia in prehistoric times.
+Allegro draws extensive parallels between the Near Eastern [[african-mushroom-cult-history]] and the [[mckenna-vedic-soma-indo-european-mysteries]] tradition of India, arguing that both derive from a common proto-Indo-European mushroom religion that spread across Eurasia in prehistoric times.
 
 ## The Soma of the Rig Veda
 
@@ -31,7 +31,7 @@ Key Soma characteristics from the Rig Veda:
 R. Gordon Wasson proposed Amanita muscaria as Soma in his 1968 book "Soma: Divine Mushroom of Immortality." Allegro, working independently from Near Eastern evidence, reached the same conclusion. The Amanita fits the Vedic descriptions remarkably well:
 
 - **Mountain habitat**: The Amanita grows in alpine and subalpine zones, particularly under birch and pine
-- **No leaves/blossoms/seeds visible**: The mushroom's fruiting body indeed lacks these features
+- **No leaves/blossoms/seeds visible**: The mushroom's [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] indeed lacks these features
 - **Golden/tawny colour**: The dried Amanita is golden-yellow; the fresh cap is bright red-gold
 - **Pressed between stones**: Mushrooms were traditionally pressed to extract juice for consumption
 - **Eagle association**: The Amanita is found at high altitudes, and its cap shape resembles spread wings
@@ -68,15 +68,15 @@ Zoroastrianism's emphasis on the opposition between good and evil — Ahura Mazd
 
 The common origin of Soma and the Near Eastern mushroom cult suggests that the mushroom religion predates the split of the Indo-European and Semitic language families (c. 4000-3000 BC). The mushroom would have been a central element of the religion of the Proto-Indo-Europeans, carried with them as they migrated across Eurasia.
 
-The Greek Dionysiac rites, the Roman Bacchanalia, the Celtic mushroom traditions, and the Siberian Amanita cults all preserve fragments of this original mushroom religion. The Near Eastern version, encoded in the Bible, is simply the local expression of a universal human tradition.
+The Greek Dionysiac rites, the Roman Bacchanalia, the Celtic [[sacred-mushroom-traditions-in-mexico]], and the Siberian Amanita cults all preserve fragments of this original mushroom religion. The Near Eastern version, encoded in the Bible, is simply the local expression of a universal human tradition.
 
 ## Scholarly Significance and Criticism
 
-Allegro's interpretation of death and resurrection mythology as mushroom-derived remains one of the most contested aspects of [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
+Allegro's interpretation of [[allegro-death-and-resurrection-in-the-mushroom-cult]] mythology as mushroom-derived remains one of the most contested aspects of [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
 
 ## See Also
 - [[allegro-philological-methodology]]
-- allegro soma and vedic traditions
+- allegro allegro soma and vedic traditions traditions
 - [[allegro-biblical-references-to-mushrooms-and-fungi]]
 - [[sacred-mushroom-hypothesis]]
 - [[rig-veda-soma-hymns-amanita-muscaria]]

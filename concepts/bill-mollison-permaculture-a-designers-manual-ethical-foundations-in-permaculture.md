@@ -1,24 +1,13 @@
 ---
-title: Ethical Foundations in Permaculture
+title: bill mollison permaculture a designers manual ethical foundations in permaculture in Permaculture
 created: 2026-04-28
-tags: [[permaculture, ethics, earth-care, people-care, fair-share]
+tags: [permaculture, ethics, earth-care, people-care, fair-share]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["papers/bill-mollison-permaculture-a-designers-manual.md"]
 type: concept
 ---
-
-# Ethical Foundations in Permaculture
-
-The ethical foundations of permaculture are the philosophical bedrock upon
-which all design principles and practices are built. Bill Mollison opened
-*Permaculture: A Designers' Manual* with a clear statement that permaculture
-is not merely a set of agricultural techniques but an ethical design system
-guided by three core principles: care of the earth, care of people, and
-setting limits to consumption and redistribution of surplus. These ethics
-distinguish permaculture from other approaches to sustainable design and
-provide the moral framework that informs every [[community-economics-in-permaculture]],
-[[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]],
+# Ethical Foundations in Permaculture The ethical foundations of permaculture are the philosophical bedrock upon which all design principles and practices are built. Bill Mollison opened *Permaculture: A Designers' Manual* with a clear statement that permaculture is not merely a set of agricultural techniques but an ethical design system guided by three core principles: care of the earth, care of people, and setting limits to consumption and redistribution of surplus. These ethics distinguish permaculture from other approaches to sustainable design and provide the moral framework that informs every community-economics-in-permaculture, [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]],
 [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]
 are all direct expressions of the earth care ethic in practice.
 
@@ -67,10 +56,10 @@ sustainable food production that shares surplus with the community.
 
 ## Ethics and Traditional Knowledge
 
-Mollison grounded permaculture ethics in the traditional wisdom of indigenous
+Mollison grounded [[williams-pdc-permaculture-ethics-and-holmgrens-principles]] in the traditional wisdom of indigenous
 cultures worldwide. He observed that indigenous land management practices
 consistently demonstrated care for the earth through sustainable harvest
-practices, care for people through collective resource management, and fair
+practices, care for people through collective [[savory-holistic-resource-management-animal-impact]], and fair
 share through gift economies and reciprocity systems. Permaculture ethics
 are therefore not new inventions but rediscoveries of principles that have
 guided successful human societies for millennia. Mollison acknowledged this
@@ -89,6 +78,6 @@ through [[cannabis-seed-banks-and-genetics]]
 networks, helps neighbors establish gardens, and participates in community
 decision-making is living the ethics more fully than the designer who creates
 beautiful private systems in isolation. Ethics in permaculture are measured by
-actions, not intentions, and the ultimate test of a permaculture design is
+actions, not intentions, and the ultimate test of a [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] is
 whether it actually improves the health of the earth and the wellbeing of
 people over time.

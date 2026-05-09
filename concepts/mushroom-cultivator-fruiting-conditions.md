@@ -5,7 +5,7 @@ updated: 2026-04-21
 type: concept
 tags: [food-forest, orchard]
 sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
+  sources: []
 ---
 # Fruiting Conditions in The Mushroom Cultivator
 
@@ -14,7 +14,7 @@ Updated: 2026-04-18
 
 ## Overview
 
-The change from vegetative mycelial growth to generative primordia formation (pinning) is the critical transition in mushroom cultivation. All species require a set of environmental conditions for pinning that differ from conditions for mycelial growth. In nature, these conditions are seasonal -- most mushrooms fruit during cool, wet periods. The cultivator creates an artificial environment that prolongs optimum fruiting conditions.
+The change from vegetative mycelial growth to generative [[growing-gourmet-primordia-formation-pinning]] (pinning) is the critical transition in [[accessible-mushroom-cultivation-for-disabilities]]. All species require a set of environmental conditions for pinning that differ from conditions for mycelial growth. In nature, these conditions are seasonal -- most mushrooms fruit during cool, wet periods. The cultivator creates an artificial environment that prolongs optimum fruiting conditions.
 
 ## Basic Pinning Strategy
 
@@ -22,7 +22,7 @@ Mushrooms fruit indoors in response to the same conditions that trigger fruiting
 - **Temperature drop**: Most species fruit at lower temperatures than optimum for mycelial growth
 - **High humidity**: Usually accompanying temperature drops in nature
 - **Fresh air / reduced CO2**: Primordia have low tolerance to CO2
-- **Light**: Many species need light for primordia initiation and normal fruitbody development
+- **Light**: Many species need light for [[chen-maitake-primordia-initiation-fruiting]] and normal fruitbody development
 
 ## Four-Stage Primordia Formation Process
 
@@ -97,13 +97,13 @@ Once generative growth is initiated, air temperature becomes the controlling fac
 - Counteracts temperature stratification and dead air pockets
 - During pin initiation: fresh air removes metabolic gases (CO2)
 - During cropping: maturing mushrooms create more CO2 requiring continuous fresh air supply
-- Agaricus brunnescens: 4-6 air changes/hour; Psilocybe cubensis: 2-3 changes/hour
+- Agaricus brunnescens: 4-6 air changes/hour; [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]: 2-3 changes/hour
 - High CO2 produces long stems and small underdeveloped caps in Agaricus and Pleurotus
 
 ### Humidity Management
 
 - Once primordia are set, humidity lowered to 85-92% and held constant
-- Evaporation aids nutrient transport from substrate to growing mushrooms
+- Evaporation aids [[mycelial-network-nutrient-transport-imaging-gadd]] from substrate to growing mushrooms
 - Below 85%: excessive drying, small stunted mushrooms, cracked scaly caps
 - Balance between air circulation, fresh air, and humidification is critical
 
@@ -121,5 +121,5 @@ Photosensitive species (Psilocybe cubensis, Pleurotus ostreatus) respond to spec
 
 - [[mushroom-cultivator-casing-soil]] -- casing techniques before fruiting
 - [[monotub-cultivation]] -- environment control systems
-- [[mushroom-yield-optimization]] -- primordia formation biology
+- [[mushroom-yield-optimization]] -- primordia [[growing-gourmet-sclerotia-formation-biology-mushrooms]]
 - [[environmental-control-mushroom-growing]]

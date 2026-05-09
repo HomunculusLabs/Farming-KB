@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Zavarin, E. & Snajberk, K. (1972). "Geographical variability of monoterpenes from Abies concolor and A. grandis." Biochemical Systematics and Ecology 1(1): 57-67.
-  - Alexander, R.R. (1987). "Abies concolor Gordon & Glend." In: Burns, R.M. & Honkala, B.H. (eds.), Silvics of North America, Vol. 1. USDA Forest Service.
+  - Alexander, R.R. (1987). "Abies concolor Gordon & Glend." In: Burns, R.M. & Honkala, B.H. (eds.), Silvics of [[psilocybin-north-america-pacific-northwest]], Vol. 1. USDA Forest Service.
   - Laacke, R.J. (1990). "Abies concolor." In: Silvics of North America. USDA Forest Service Agriculture Handbook 654.
   - Kuser, J.E. et al. (1997). "Morphological and biochemical variation in the Abies concolor complex of the Sierra Nevada and southern California." Biochemical Systematics and Ecology 25(3): 259-271.
 ---
@@ -32,7 +32,7 @@ The species shows considerable plasticity in growth form across its range, with 
 
 Abies concolor was first described by John Charles Gordon and Robert Glendinning in 1853 from specimens collected in the Sacramento Mountains of New Mexico. The species epithet "concolor" refers to the uniform coloration of the upper and lower needle surfaces, a distinguishing feature from many other firs.
 
-The species is placed in the family Pinaceae, genus Abies, section Grandis, which also includes grand fir (A. grandis) and several other western North American species. Some authorities have proposed merging A. concolor with A. grandis based on morphological intermediacy in zones of contact.
+The species is placed in the family Pinaceae, genus Abies, section Grandis, which also includes grand fir (A. grandis) and several other western [[growing-gourmet-north-american-reishi-species]] species. Some authorities have proposed merging A. concolor with A. grandis based on morphological intermediacy in zones of contact.
 
 Two varieties are recognized: A. concolor var. concolor (Rocky Mountain white fir) and A. concolor var. lowiana (Sierra Nevada white fir). The Sierra Nevada variety tends to have longer needles, larger cones, and broader ecological amplitude.
 
@@ -68,7 +68,7 @@ White fir is harvested as part of mixed-conifer silvicultural systems throughout
 
 Growth rates are moderate, with site indices ranging from 12 to 27 meters at a 50-year base age. The species responds well to release from overtopping competition, showing dramatic growth acceleration when canopy gaps are created through thinning or disturbance.
 
-Regeneration is typically achieved through natural seeding in shelterwood or group-selection harvest units. Artificial regeneration using container seedlings is practiced on harsh sites where natural seedling establishment is unreliable, with best results when seedlings are planted in partial shade.
+Regeneration is typically achieved through [[fukuoka-natural-seeding-volunteer-rice-discovery]] in shelterwood or group-selection harvest units. Artificial regeneration using container seedlings is practiced on harsh sites where natural seedling establishment is unreliable, with best results when seedlings are planted in partial shade.
 
 White fir is widely planted as an ornamental and Christmas tree species in temperate regions worldwide. Its symmetrical form, soft needles, and pleasant fragrance make it one of the most popular Christmas tree species in the western United States.
 
@@ -82,11 +82,11 @@ White fir provides important habitat and forage for numerous wildlife species. T
 
 Fir foliage and twigs are browsed by mule deer and elk, particularly during winter when other forage is scarce. The seeds are eaten by small mammals and birds, including crossbills, chickarees, and nuthatches.
 
-The species forms ectomycorrhizal associations with a diverse fungal community, including members of the genera Lactarius, Russula, Cortinarius, and Inocybe. These mycorrhizal networks connect individual trees and facilitate nutrient and carbon transfer between forest community members.
+The species forms ectomycorrhizal associations with a diverse fungal community, including members of the genera Lactarius, Russula, Cortinarius, and Inocybe. These [[dighton-mycorrhizal-networks-carbon-transfer]] connect individual trees and facilitate nutrient and [[singh-mycorrhizal-network-carbon-transfer-plants]] between forest community members.
 
 White fir is susceptible to several important pathogens and pests. Annosus root disease (Heterobasidion annosum) causes significant butt rot and mortality in managed stands, while the fir engraver beetle (Scolytus ventralis) attacks weakened or stressed trees.
 
-The species is increasingly impacted by drought-induced mortality as climate change intensifies summer water stress across western forests. White fir has experienced elevated mortality rates during recent droughts, particularly at lower elevational range margins and on droughty sites.
+The species is increasingly impacted by drought-induced mortality as [[dighton-fungi-climate-change-feedback]] intensifies summer water stress across western forests. White fir has experienced elevated mortality rates during recent droughts, particularly at lower elevational range margins and on droughty sites.
 
 White fir is also a host for mistletoe species (Arceuthobium abietinum), which causes branch swelling, reduced growth, and increased susceptibility to secondary insect attack. Heavily infected trees experience significant growth reduction and may eventually die.
 

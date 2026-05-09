@@ -11,8 +11,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). North American Boletes: A Color Guide to the Fleshy Pored Mushrooms. Syracuse University Press."
-  - "Orson, K.M. & Miller, O.K. (2012). \"Gyroporus and other boletes of the southeastern United States.\" Mycotaxon, 120, 473-488."
+  - "Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). growing-gourmet-north-american-reishi-species Boletes: A Color Guide to the Fleshy Pored Mushrooms. Syracuse University Press."
+  - "Orson, K.M. & Miller, O.K. (2012). \"Gyroporus and other boletes of the southeastern [[dmt-containing-plants-united-states-halpern]].\" Mycotaxon, 120, 473-488."
   - "Kuo, M. (2024). Gyroporus cyanescens. MushroomExpert.com."
   - "Binder, M. & Bresinsky, A. (2002). \"Derivation of a polymorphic lineage of Gasteromycetes from boletoid ancestors.\" Mycologia, 94(1), 85-98."
 ---
@@ -27,7 +27,7 @@ It is distinguished by its pale cap, hollow stipe, and dramatic blue staining
 when bruised or cut — a reaction caused by the unstable gyrocyanin pigment.
 
 The species is edible when thoroughly cooked and is collected across Europe
-and eastern North America. Its bluing reaction is among the most vivid in the
+and [[polypore-fungi-eastern-north-america]] America. Its [[field-guide-psilocybin-bluing-reaction-identification]] is among the most vivid in the
 Boletales, rivaling that of some *Boletus* species.
 
 ## Taxonomy and Morphology
@@ -108,7 +108,7 @@ acid derivatives), gyrocyanin is unique to the genus *Gyroporus*.
 This biochemical difference supports the placement of *Gyroporus* in its
 own family, Gyroporaceae, separate from Boletaceae.
 
-No significant bioactive compounds with pharmacological activity have been
+No significant [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] with pharmacological activity have been
 isolated from this species. The bluing compounds are not psychoactive and
 are unrelated to the indole-based bluing compounds of hallucinogenic boletes.
 

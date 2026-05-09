@@ -5,7 +5,8 @@ updated: 2026-04-12
 type: concept
 tags: [mycology, pollution, biology, ecology, microbes, methods]
 sources:
-  - raw/papers/mycelium-running-stamets.md
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
   - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
   - raw/papers/staycare-mngmt-fungi-in-bioremediation.md
 ---
@@ -44,14 +45,14 @@ The three major enzyme systems driving mycoremediation (Singh 2006):
 ### Lignin Peroxidase (LiP)
 - Oxidizes non-phenolic aromatic compounds with high redox potential
 - Key enzyme in PCB and dioxin degradation
-- Found in Phanerochaete chrysosporium, Trametes versicolor, Bjerkandera adusta
+- Found in [[staycare-phanerochaete-chrysosporium-in-bioremediation]], [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]], Bjerkandera adusta
 - Degrades via oxidative cleavage producing quinones and ring-fission products
 
 ### Manganese Peroxidase (MnP)
 - Generates Mn(III) chelates that act as diffusible oxidants
 - Important in PAH degradation and lignin breakdown
 - Works synergistically with LiP in white-rot fungal systems
-- Requires Mn(II) and hydrogen peroxide
+- Requires Mn(II) and [[cervantes-hydrogen-peroxide-sterilization]]
 
 ### Laccase
 - Heme-containing para-diphenol oxidase that uses molecular oxygen (not H2O2)
@@ -93,13 +94,13 @@ Stamets and Battelle scientists identified a fungus that metabolized **dimethyl 
 
 ### PAH Degradation
 - White-rot fungi degrade PAHs via cytochrome P450 and ligninolytic enzymes
-- Penicillium, Fusarium, Cunninghamella elegans metabolize PAHs as sole carbon source
+- Penicillium, Fusarium, [[staycare-cunninghamella-elegans-in-bioremediation]] metabolize PAHs as sole carbon source
 - Fungal-bacterial co-cultures show enhanced mineralization rates
 - See [[mycoremediation-pahs]] for detailed coverage
 
 ### PCB/Dioxin Degradation
-- Trametes versicolor achieved 95% degradation of chlorinated biphenyls (Zeddel et al. 1993)
-- Phanerochaete sordida degrades nearly 60% of 2,3,7,8-tetrachlorodibenzo-p-dioxin
+- Trametes versicolor achieved 95% [[singh-fungal-degradation-of-chlorinated-compounds]] biphenyls (Zeddel et al. 1993)
+- [[staycare-phanerochaete-sordida-in-bioremediation]] degrades nearly 60% of 2,3,7,8-tetrachlorodibenzo-p-dioxin
 - Cordyceps sinensis shows novel dioxin degradation pathway producing catechol intermediates
 - See [[mycoremediation-pcbs-and-dioxins]] for detailed coverage
 
@@ -126,22 +127,6 @@ Fungi are known to degrade a wide variety of materials (Singh 2006):
 6. **Harvest fruiting bodies** — mushrooms can concentrate toxins; collect and dispose properly
 
 ## Important Considerations
-
-- **Strain variability** — not all strains of a species perform equally; lab testing recommended
-- **Temperature and moisture** — mycelial activity is temperature-dependent; temperate species may need seasonal deployment
-- **Toxin concentration** — some contaminants at very high concentrations kill mycelium; may need dilution or phytoremediation first
-- **Disposal of fruiting bodies** — mushrooms that bioaccumulate heavy metals must be treated as hazardous waste
-- **Scale** — mycelial mats must match the cubic size of the contamination source
-- **Mineralization vs transformation** — fungi often transform pollutants into bound residues rather than fully mineralizing to CO2; monitoring must track metabolites
-
-## Advantages Over Conventional Methods
-
-- Low cost — uses agricultural waste (straw, wood chips) as substrate
-- Self-propagating — mycelium grows and expands on its own
-- Non-destructive — no excavation or chemical treatment needed
-- Synergistic — kickstarts broader ecological recovery
-- Can be deployed in-situ — no need to transport contaminated soil
-- Extracellular degradation — does not require cellular uptake of pollutants
 
 ## See Also
 

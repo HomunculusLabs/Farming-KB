@@ -141,28 +141,6 @@ Weight is the critical constraint in THOW design. Every material choice has weig
 - Mini-split: 9,000 BTU unit heats and cools (requires 1500W power)
 - Wood stove: Cubic Mini or similar small wood stove (requires proper clearance and venting)
 - [[passive-solar-design|Passive solar]] orientation helps with both heating and cooling
-
-## Design Considerations
-
-- Loft vs. main floor bedroom: Lofts save space but limit headroom and accessibility
-- Stairs vs. ladder: Stairs provide storage underneath and are safer; ladders save space
-- Kitchen layout: Galley (along one wall) maximizes counter space in narrow footprint
-- Bathroom: Minimum 30x36 inches for shower; wet baths combine toilet and shower
-- Windows: Maximize natural light and ventilation; operable windows on every wall
-- Ventilation: Range hood for cooking, bathroom exhaust fan, roof vent for moisture control
-
-## Building Process
-
-1. Design (1-4 weeks): Create detailed plans including weight calculations
-2. Trailer preparation (1 week): Remove existing deck, add tie-down plates, rust-proof
-3. Framing (2-4 weeks): Floor framing first, then walls, then roof
-4. Sheathing and weatherproofing (1-2 weeks): Tyvek wrap, windows, doors, roofing
-5. Rough-in utilities (1-2 weeks): Plumbing, electrical, propane lines
-6. Insulation (3-5 days)
-7. Interior finishing (2-4 weeks): Walls, flooring, cabinets, trim
-8. Systems installation (1-2 weeks): Appliances, solar, water tanks
-9. Final touches (1 week): Paint, hardware, exterior finish
-
 ## See Also
 
 - [[skoolie-bus-conversion]]

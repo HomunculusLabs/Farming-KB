@@ -1,5 +1,5 @@
 ---
-title: Complete Organic Fertilizer Formulation
+title: Complete complete-organic-fertilizer-cof-recipe-solomon Formulation
 tags: [organic-fertilizer, COF, soil-fertility, gardening, sustainable-agriculture, plant-nutrition]
 date: 2026-04-28
 updated: 2026-04-28
@@ -13,7 +13,7 @@ created: 2026-04-28
 
 ## Overview
 
-Complete Organic Fertilizer (COF) is a precisely balanced, homemade organic fertilizer blend developed for food gardens that prioritizes nutritional quality of produce over maximum bulk yield. Unlike commercial fertilizers that push potassium levels to inflate crop weight at the expense of protein, vitamin, and mineral content, COF provides a balanced ratio of nitrogen, phosphorus, calcium, magnesium, and trace elements that produces nutrient-dense vegetables. The formulation is designed to be mixed by the gardener from bulk agricultural ingredients, making it economical for serious home food production.
+Complete Organic Fertilizer (COF) is a precisely balanced, homemade organic fertilizer blend developed for food gardens that prioritizes [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of produce over maximum bulk yield. Unlike commercial fertilizers that push potassium levels to inflate crop weight at the expense of protein, vitamin, and mineral content, COF provides a balanced ratio of nitrogen, phosphorus, calcium, magnesium, and trace elements that produces nutrient-dense vegetables. The formulation is designed to be mixed by the gardener from bulk agricultural ingredients, making it economical for serious home food production.
 
 ## The Nutritional Quality Problem
 
@@ -73,11 +73,11 @@ Rock phosphate (either hard or soft), bonemeal, and high-phosphate guano all ser
 
 Over time, the pH self-corrects, driven more by the accumulation of organic matter than by the direct addition of calcium and magnesium. If a soil test shows low pH, the recommendation is not to lime specifically to correct it, but rather to continue with the standard COF application schedule. The soil improving materials in COF will gradually bring pH into an appropriate range.
 
-This approach reflects the controversial nature of the soil pH concept in organic gardening, where the focus shifts from chemical pH values to the biological health and mineral balance of the soil ecosystem. If a soil test shows acceptable pH, the full COF recommendation should still be followed because vegetables still need calcium and magnesium in the right balance regardless of pH readings.
+This approach reflects the controversial nature of the soil pH concept in [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]], where the focus shifts from chemical pH values to the biological health and [[holmgren-mineral-balance-soil-fertility]] of the soil ecosystem. If a soil test shows acceptable pH, the full COF recommendation should still be followed because vegetables still need calcium and magnesium in the right balance regardless of pH readings.
 
 ## Economic Advantages
 
-The primary economic advantage of COF is that all ingredients can be purchased in bulk sacks from agricultural supply and grain dealers at a fraction of the cost of equivalent products from garden centers. A complete 100-square-meter garden can be fertilized with COF for roughly one quarter to one third of what equivalent commercial organic fertilizers would cost.
+The primary economic advantage of COF is that all ingredients can be purchased in bulk sacks from agricultural supply and grain dealers at a fraction of the cost of equivalent products from garden centers. A complete 100-square-meter garden can be fertilized with COF for roughly one quarter to one third of what equivalent commercial [[hamilton-organic-fertilizers-and-plant-nutrition]] would cost.
 
 The long-term health savings from consuming nutrient-dense produce further multiply the economic benefit. When calculating the true cost of food production, the nutritional value delivered per dollar spent makes COF one of the most cost-effective approaches to home food production available.
 
@@ -97,11 +97,11 @@ Rotating vegetable families through different garden beds prevents the buildup o
 
 In climates where the soil does not freeze solid for at least 18 continuous inches for several months, rotating vegetable beds with grass-clover leys every three to five years rebuilds soil organic matter and restores biological balance. During the ley period, the land rests from cultivation while grass and clover roots build soil structure and fix atmospheric nitrogen. The first two years after breaking sod typically produce noticeably better vegetables than the final years of the previous rotation.
 
-## Foliar Feeding with Kelp
+## [[foliar-feeding]] with Kelp
 
 An optional supplementation technique involves spraying liquid kelp extract directly onto plant leaves rather than incorporating dry kelpmeal into the COF blend. Foliar feeding bypasses soil-based uptake limitations and delivers micronutrients, growth hormones, and trace elements directly to plant tissues where they are most needed.
 
-Foliar kelp sprays are more expensive per unit of nutrition than dry kelpmeal mixed into COF, but may provide benefits during critical growth periods when soil nutrient availability is limited. The practice also encourages the gardener to walk among the plants regularly, facilitating early detection of pest or disease problems.
+Foliar kelp sprays are more expensive per unit of nutrition than dry kelpmeal mixed into COF, but may provide benefits during critical growth periods when soil [[ph-and-nutrient-availability-garden-soils]] is limited. The practice also encourages the gardener to walk among the plants regularly, facilitating early detection of pest or disease problems.
 
 ## Sourcing Ingredients
 

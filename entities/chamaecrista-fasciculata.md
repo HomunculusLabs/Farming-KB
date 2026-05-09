@@ -23,7 +23,7 @@ sources:
 
 # Chamaecrista fasciculata (Partridge Pea)
 
-**Chamaecrista fasciculata**, commonly known as **partridge pea**, **sensitive pea**, **showy partridge pea**, or **prairie senna**, is an annual herbaceous legume native to eastern and central North America. It is highly valued in permaculture, ecological restoration, and native landscaping for its nitrogen-fixing capability, pollinator support, wildlife value, and ornamental display of bright yellow flowers.
+**Chamaecrista fasciculata**, commonly known as **partridge pea**, **sensitive pea**, **showy partridge pea**, or **prairie senna**, is an annual herbaceous legume native to eastern and central [[psilocybin-north-america-pacific-northwest]]. It is highly valued in permaculture, ecological restoration, and native landscaping for its nitrogen-fixing capability, pollinator support, wildlife value, and ornamental display of bright yellow flowers.
 
 ## Taxonomy and Nomenclature
 
@@ -35,7 +35,7 @@ sources:
 - **Genus:** *Chamaecrista*
 - **Species:** *C. fasciculata*
 
-The species was formerly classified as **Cassia fasciculata** and is still widely referenced under that name in older literature and horticultural sources. The genus was reclassified based on molecular phylogenetic studies that separated the genus *Chamaecrista* from *Cassia* sensu stricto. The common name "partridge pea" refers to the seeds' use as food for northern bobwhite quail and other game birds. "Sensitive pea" reflects the compound leaves' tendency to fold when touched (thigmonastic response), similar to *Mimosa pudica*.
+The species was formerly classified as **Cassia fasciculata** and is still widely referenced under that name in older literature and horticultural sources. The genus was reclassified based on molecular phylogenetic studies that separated the genus *Chamaecrista* from *Cassia* sensu stricto. The common name "partridge pea" refers to the seeds' use as food for northern bobwhite quail and other game birds. "Sensitive pea" reflects the compound leaves' tendency to fold when touched (thigmonastic response), similar to *[[tompkins-mimosa-pudica-sensitive-plant-experiments]]*.
 
 ## Description
 
@@ -115,8 +115,8 @@ It thrives in **full sun** and is highly drought-tolerant once established. It t
 
 ### Cover Cropping
 - **Summer annual cover crop** — establishes quickly, suppresses weeds
-- **Green manure** — adds organic matter and fixed nitrogen when incorporated
-- **Break crop** — interrupts pest and disease cycles
+- **Green manure** — adds [[hamilton-composting-and-organic-matter-management]] and fixed nitrogen when incorporated
+- **Break crop** — interrupts [[hamilton-pest-and-disease-control-organic]] cycles
 
 ### Erosion Control and Landscaping
 - Rapid establishment on disturbed sites; deep taproot stabilizes soils
@@ -126,12 +126,12 @@ It thrives in **full sun** and is highly drought-tolerant once established. It t
 
 ### Cultural Significance
 
-Indigenous peoples of eastern North America used partridge pea medicinally. The **Creek and Seminole** prepared root infusions for nausea and fevers. Related *Chamaecrista* species have documented anthelmintic and anti-inflammatory properties in modern research.
+Indigenous peoples of [[polypore-fungi-eastern-north-america]] America used partridge pea medicinally. The **Creek and Seminole** prepared root infusions for nausea and fevers. Related *Chamaecrista* species have documented anthelmintic and anti-inflammatory properties in modern research.
 
 ## Propagation
 
 - **Seed scarification** recommended — hot water soak improves germination
-- **Direct seeding** in spring after last frost
+- **[[comparison-seed-starting-indoors-vs-direct-seeding-techniques]]** in spring after last frost
 - **Inoculation** with cowpea-type rhizobia improves nodulation
 
 ## See Also

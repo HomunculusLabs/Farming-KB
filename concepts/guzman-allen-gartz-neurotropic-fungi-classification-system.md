@@ -48,7 +48,7 @@ The bluing reaction serves as a primary field indicator for identifying neurotro
 
 This smaller but culturally significant group contains species with ibotenic acid and muscimol as their primary active compounds. It includes only three species:
 
-- **Amanita muscaria** (fly agaric), with several subspecies and varieties including ssp. muscaria, ssp. americana, ssp. flavivolvata, ssp. kamtschatica, var. alba, var. formosa, and var. persicina
+- **[[allegro-amanita-muscaria-properties-and-pharmacology]]** (fly agaric), with several subspecies and varieties including ssp. muscaria, ssp. americana, ssp. flavivolvata, ssp. kamtschatica, var. alba, var. formosa, and var. persicina
 - **Amanita pantherina** (panther cap), with varieties including var. mutisquamosa, var. pantherinoides, and var. velatipes
 - **Amanita regalis**, sometimes treated as A. muscaria var. regalis
 
@@ -59,7 +59,7 @@ These species form mycorrhizal associations primarily with Pinus and Betula in n
 This group contains the well-known ergot alkaloid-producing fungi, encompassing both Ascomycotina genera:
 
 **Claviceps species** (5 species):
-- Claviceps purpurea (the classic ergot of rye)
+- [[bloomfield-ergot-claviceps-purpurea-ergotism]] (the classic ergot of rye)
 - Claviceps nigricans
 - Claviceps paspali (= C. rolfesii)
 - Claviceps tripsicii
@@ -68,7 +68,7 @@ This group contains the well-known ergot alkaloid-producing fungi, encompassing 
 - Cordyceps capitata, found growing on Elaphomyces (deer truffle) hosts
 - Cordyceps ophioglossoides, also an Elaphomyces parasite
 
-The Cordyceps species hold particular cultural significance in Mexico, where they are used in nocturnal ceremonies by indigenous peoples of the Nevado de Toluca region. They are called "hombrecitos" (little men) and "mujercitas" (little women) and are eaten either alone or together with Psilocybe muliercula.
+The Cordyceps species hold particular [[ethnomycology-cultural-significance-sacred-fungi]] in Mexico, where they are used in nocturnal ceremonies by indigenous peoples of the Nevado de Toluca region. They are called "hombrecitos" (little men) and "mujercitas" (little women) and are eaten either alone or together with Psilocybe muliercula.
 
 ### Group 4: Sacred Fungi Without Confirmed Chemical Studies
 
@@ -97,13 +97,13 @@ Within the Panaeoloideous fungi, 29 species are distributed among three genera: 
 
 ## Controversial and Doubtful Reports
 
-Several species have been reported with and without neurotropic substances by different researchers, creating significant confusion in the literature. The most prominent example is **Panaeolina foenisecii** (the haymaker's mushroom), a cosmopolitan grassland species. Some studies detected psilocybin while others did not, leading Allen and Merlin (1992) to question its psychoactive properties. The authors suggest it is more likely toxic than truly neurotropic.
+Several species have been reported with and without neurotropic substances by different researchers, creating significant confusion in the literature. The most prominent example is **[[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]** (the haymaker's mushroom), a cosmopolitan grassland species. Some studies detected psilocybin while others did not, leading Allen and Merlin (1992) to question its psychoactive properties. The authors suggest it is more likely toxic than truly neurotropic.
 
-Similar contradictions exist for **Conocybe siligineoides**, collected only once by Wasson in Oaxaca in 1955 and never re-found despite extensive fieldwork. No chemical studies have been performed on this species, though the related C. cyanopus and C. smithii have confirmed psilocybin content.
+Similar contradictions exist for **[[guzman-conocybe-siligineoides-lost-sacred-mushroom-oaxaca-never-recollected]]**, collected only once by Wasson in Oaxaca in 1955 and never re-found despite extensive fieldwork. No chemical studies have been performed on this species, though the related C. cyanopus and C. smithii have confirmed psilocybin content.
 
 ## Significance of the Classification
 
-This four-group system remains the most comprehensive framework for organizing neurotropic fungal diversity. By separating species based on both chemistry and cultural use, it provides mycologists, ethnobotanists, and researchers with a clear organizational structure for understanding the relationships among the world's psychoactive fungi. The system emphasizes that the term "neurotropic fungi" encompasses a chemically and taxonomically diverse assemblage united primarily by their effects on the human nervous system and their cultural significance as sacred or recreational substances.
+This four-group system remains the most comprehensive framework for organizing neurotropic fungal diversity. By separating species based on both [[amanita-muscaria-cultural-history]] use, it provides mycologists, ethnobotanists, and researchers with a clear organizational structure for understanding the relationships among the world's psychoactive fungi. The system emphasizes that the term "neurotropic fungi" encompasses a chemically and taxonomically diverse assemblage united primarily by their effects on the human nervous system and their cultural significance as sacred or recreational substances.
 
 ## Key References Consulted
 
@@ -117,4 +117,7 @@ The Guzmán-Allen-Gartz system differs from earlier attempts in several importan
 
 - [[guzman-psilocybin-mushrooms-europe]]
 - [[guzman-allen-gartz-doubtful-and-disputed-neurotropic-species]]
-- [[neurotropic-fungi-four-group-classification-system]]
+- neurotropic-fungi-four-group-classification-system
+- [[neurotropic-fungi-classification]]
+- [[neurotropic-fungi]]
+- [[guzman-allen-gartz-neurotropic-fungi-australasia]]

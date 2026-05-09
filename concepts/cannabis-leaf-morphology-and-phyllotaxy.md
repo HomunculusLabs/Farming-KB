@@ -1,5 +1,5 @@
 ---
-title: Cannabis Leaf Morphology and Phyllotaxy
+title: Cannabis cannabis leaf morphology and phyllotaxy and Phyllotaxy
 created: 2026-04-28
 tags: [botany, cannabis, morphology, leaf-structure, plant-anatomy]
 date: 2026-04-25
@@ -11,12 +11,12 @@ type: concept
 
 # Cannabis Leaf Morphology and Phyllotaxy
 
-Cannabis leaf morphology is one of the most visually distinctive features of the
+Cannabis leaf morphology is one of the most visually [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] of the
 genus and serves as a primary identifier for the plant. The leaves of Cannabis
 sativa are compound and palmate, meaning they consist of multiple leaflets
 radiating from a single point at the end of the petiole (leaf stem). This
 characteristic fan shape is immediately recognizable and varies in complexity
-throughout the life cycle of the plant. Understanding leaf morphology and
+throughout the [[bloomfield-fungal-life-cycle-spiral-versus-circle]] of the plant. Understanding leaf morphology and
 phyllotaxy (the arrangement of leaves on the stem) is essential for cultivators
 and breeders who wish to identify [[cannabis-landrace-strains]]. Some strains produce very
 coarsely serrated leaflets while others have fine, closely spaced teeth. This
@@ -50,7 +50,7 @@ ratio that helps breeders determine the genotype of parental plants.
 
 ## Leaf Traits as Breeding Markers
 
-Leaf morphology serves several practical purposes in Cannabis breeding and
+Leaf morphology serves several practical purposes in [[oner-cannabis-breeding-fundamentals]] and
 cultivation. Leaf shape, size, serration pattern, and color are all visible
 phenotypic markers that can be tracked alongside more subtle traits like
 potency, aroma, and maturation time. Because leaf traits are often controlled
@@ -58,6 +58,7 @@ by single gene pairs with clear dominance relationships, they provide
 accessible entry points for understanding the [[cannabis-glandular-trichome-types-resin-production-clarke]]
 - [[green-cannabis-grow-bible-plant-training-pruning-and-yield]]
 - [[cannabis-chemotype-classification-cannabinoid-breeding]]
+
 ## Practical Considerations
 
 Successful implementation of Cannabis Leaf Morphology and Phyllotaxy requires attention to
@@ -76,4 +77,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

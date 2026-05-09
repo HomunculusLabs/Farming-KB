@@ -1,5 +1,5 @@
 ---
-title: "Cannabinoid Concentration and Endorhiza Microbiome Correlation"
+title: "Cannabinoid Concentration and Endorhiza cannabinoid-microbiome-correlation-cannabis"
 type: concept
 tags:
   - cannabis
@@ -19,19 +19,19 @@ sources:
 
 Research on the Cannabis microbiome has revealed significant correlations between cannabinoid concentrations in flowering buds and the structure of bacterial communities in the root endorhiza. Winston et al. (2014) found that both cannabinoid composition and soil edaphic variables independently correlated with endorhiza community structure.
 
-The relationship between plant secondary metabolites and root microbiome assembly is an active area of plant-microbe research. Cannabis, with its uniquely diverse cannabinoid profile, provides an excellent model for studying these interactions.
+The relationship between plant [[antifungal-secondary-metabolites-coprophilous-fungi]] and root microbiome assembly is an active area of plant-microbe research. Cannabis, with its uniquely diverse cannabinoid profile, provides an excellent model for studying these interactions.
 
 ## The Correlation Finding
 
 In the second experiment of the Winston et al. study, cannabinoid data was collected from the buds of three White Widow plants and one Maui Wowie plant. These data were used in Mantel tests against microbial community distance matrices.
 
-A significant correlation was found between cannabinoid profiles and endorhiza community structure using unweighted UniFrac distances (r-stat: 0.863, p-value = 0.001). This strong statistical association suggested a genuine biological link between above-ground secondary metabolite production and below-ground microbial community assembly.
+A significant correlation was found between cannabinoid profiles and endorhiza community structure using [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]] distances (r-stat: 0.863, p-value = 0.001). This strong statistical association suggested a genuine biological link between above-ground secondary metabolite production and below-ground microbial community assembly.
 
 However, the interpretation of this correlation was complicated by confounding soil variables. Plants from one of the two soil types showed higher THC composition and concentration, creating a confound between cannabinoid levels and soil chemistry.
 
 ## The Soil Confound Problem
 
-The major challenge in interpreting the cannabinoid-microbiome correlation is the entanglement of plant chemistry with edaphic factors. Nitrogen, salinity, carbon, water content, and pH all significantly correlated with community beta-diversity in the Cannabis microbiome.
+The major challenge in interpreting the cannabinoid-microbiome correlation is the entanglement of plant chemistry with [[soil-edaphic-factors-microbial-communities]]. Nitrogen, salinity, carbon, water content, and pH all significantly correlated with community beta-diversity in the Cannabis microbiome.
 
 Because THC variables were also significantly correlated with soil edaphic variables, any association between microbiota and THC is difficult to disassociate from soil physicochemical conditions. A plant grown in nitrogen-rich soil may produce more cannabinoids AND host a different microbiome, without the two being causally linked.
 
@@ -49,7 +49,7 @@ Research in other plant systems has shown that flavonoids, terpenoids, and alkal
 
 While cannabinoids are most concentrated in glandular trichomes on flowering buds, they are also produced in lower concentrations throughout the plant, including root tissue. This means root-colonizing bacteria may be directly exposed to cannabinoid compounds.
 
-Delta-9-tetrahydrocannabinol (THC) and cannabidiol (CBD) have demonstrated antimicrobial properties in vitro. Their presence in root tissue could create a selective environment that favors bacteria tolerant of or resistant to these compounds.
+Delta-9-tetrahydrocannabinol (THC) and cannabidiol (CBD) have demonstrated [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] in vitro. Their presence in root tissue could create a selective environment that favors bacteria tolerant of or resistant to these compounds.
 
 If cultivar-specific cannabinoid production extends to root tissue, it could partially explain the cultivar-specific microbiome differences observed in the Cannabis endorhiza. Different cannabinoid profiles might select for different bacterial assemblages.
 
@@ -73,7 +73,7 @@ The degree of this selective pressure would depend on local cannabinoid concentr
 
 Bacteria that have coevolved with Cannabis over centuries of cultivation may have developed specific adaptations to cannabinoid compounds. Endophytes isolated from Cannabis roots may show higher tolerance to cannabinoids than soil generalists.
 
-This coevolutionary perspective helps explain why the Cannabis endorhiza core microbiome is dominated by specific taxa. Pseudomonas, Actinomycetales, and other core members may possess efflux pumps, modifying enzymes, or cell wall properties that confer cannabinoid tolerance.
+This coevolutionary perspective helps explain why the Cannabis endorhiza core microbiome is dominated by specific taxa. Pseudomonas, Actinomycetales, and other core members may possess efflux pumps, [[singh-white-rot-fungi-lignin-modifying-enzymes-bioremediation]], or cell wall properties that confer cannabinoid tolerance.
 
 Testing cannabinoid sensitivity of Cannabis endophytes versus soil bacteria from non-Cannabis environments would provide evidence for this coevolutionary hypothesis. Differential tolerance would support the idea that cannabinoids actively shape the root microbiome.
 

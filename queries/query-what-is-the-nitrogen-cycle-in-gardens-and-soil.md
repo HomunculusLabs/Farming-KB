@@ -1,5 +1,5 @@
 ---
-title: "What Is the Nitrogen Cycle in Gardens and Soil"
+title: "What Is the query-how-does-the-nitrogen-cycle-work-in-a-garden in Gardens and Soil"
 created: 2026-04-28
 tags: [query, soil-science, nitrogen, nutrient-cycling, soil-biology]
 date: 2026-04-25
@@ -14,7 +14,7 @@ type: query
 The nitrogen cycle is the continuous process by which nitrogen moves from the
 atmosphere into soil, through plants and animals, and back again. In gardens,
 this cycle is driven by soil microorganisms that convert atmospheric nitrogen
-into plant-available forms, decompose organic matter to release stored nitrogen,
+into plant-available forms, decompose [[hamilton-composting-and-organic-matter-management]] to release stored nitrogen,
 and transform nitrogen compounds between forms that plants can and cannot
 absorb. Understanding this cycle is essential for managing soil fertility
 without relying on synthetic fertilizers.
@@ -29,7 +29,7 @@ nitrogen directly. They depend entirely on soil organisms to convert nitrogen
 into ammonium and nitrate, the two forms that plant roots can absorb. The
 [[symbiotic-fungi-nitrogen-fixing-symbioses-agriculture]] research
 extends this understanding to include free-living nitrogen-fixing bacteria like
-Azotobacter and Clostridium that fix nitrogen independently in the rhizosphere,
+Azotobacter and Clostridium that [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] independently in the rhizosphere,
 as well as associative relationships between nitrogen-fixing bacteria and grass
 roots. Even non-legume garden beds receive some nitrogen input from biological
 fixation, though legume cover crops remain the most productive strategy.
@@ -47,14 +47,14 @@ leaching below the root zone during heavy rains or over-irrigation.
 Decomposition is the other major pathway releasing nitrogen for plant uptake.
 When organic matter breaks down, the carbon-to-nitrogen ratio of the material
 determines whether nitrogen is released or temporarily immobilized. Materials
-with a C:N ratio below about 20:1, such as young legume green manure or
+with a C:N ratio below about 20:1, such as young legume [[comparison-green-manure-guide-vs-mulch-types-and-effects]] or
 finished compost, release nitrogen as they decompose. Materials with a high
 C:N ratio, such as wood chips or straw, temporarily tie up available nitrogen.
 The [[symbiotic-fungi-mycorrhizal-nitrogen-transfer-networks]] research reveals
-that mycorrhizal fungal networks can actually transfer nitrogen between plants,
+that [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] networks can actually transfer nitrogen between plants,
 moving it from nitrogen-rich areas or from decomposing organic matter to
 nitrogen-demanding plants. This underground nitrogen sharing means that in
-biodiverse gardens with active mycorrhizal networks, nitrogen use efficiency
+biodiverse gardens with active [[dighton-mycorrhizal-networks-carbon-transfer]], nitrogen use efficiency
 is significantly higher than in monoculture systems.
 
 ### Nitrogen Loss Pathways
@@ -75,6 +75,8 @@ The [[teaming-with-nutrients-nitrogen]] explains the full nitrogen transformatio
 - [[symbiotic-fungi-mycorrhizal-nitrogen-transfer-networks]] show that fungal
   networks share nitrogen between plants, boosting garden-wide efficiency
 
-## Related Questions
+## Related
+
+- [[query-which-legumes-fix-the-most-nitrogen-for-gardens-and-farms]] Questions
 - [[query-how-to-build-healthy-garden-soil]]
 - [[query-how-mycorrhizal-fungi-help-plants]]

@@ -1,5 +1,5 @@
 ---
-title: Bufotenin (5-HO-DMT) — TIHKAL Entry #19
+title: [[bufotenin]] (5-HO-DMT) — TIHKAL Entry #19
 created: 2026-04-15
 updated: 2026-04-15
 type: entity
@@ -8,11 +8,11 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 # Bufotenin (5-HO-DMT, Bufotenine)
 
-TIHKAL entry #19. The N,N-dimethyl homologue of serotonin, found in both the animal and plant kingdoms -- "from toads to toadstools." One of the most controversial substances in psychopharmacology, with its status as a psychedelic remaining fundamentally unresolved after decades of study. Also known as N,N-dimethylserotonin, Mappine.
+TIHKAL entry #19. The N,N-dimethyl homologue of [[serotonin]], found in both the animal and plant kingdoms -- "from toads to toadstools." One of the most controversial substances in psychopharmacology, with its status as a psychedelic remaining fundamentally unresolved after decades of study. Also known as N,N-dimethylserotonin, Mappine.
 
 ## Chemical Names
 
-- Tryptamine, 5-hydroxy-N,N-dimethyl
+- [[tryptamine]], 5-hydroxy-N,N-dimethyl
 - 5-Hydroxy-N,N-dimethyltryptamine
 - 3-(2-Dimethylaminoethyl)indol-5-ol
 - N,N-Dimethylserotonin
@@ -46,7 +46,7 @@ TIHKAL entry #19. The N,N-dimethyl homologue of serotonin, found in both the ani
 
 Bufotenine is found in the skins of numerous toad species and in many plants. Shulgin provides a detailed taxonomy of related natural products:
 
-- **Bufoviridine**: The 1:1 ester of bufotenine with sulfuric acid; more polar than bufotenine, less likely to reach the brain.
+- **Bufoviridine**: The 1:1 ester of bufotenine with [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]]; more polar than bufotenine, less likely to reach the brain.
 - **Bufotenidine (Cinobufagine)**: The quaternary amine internal salt, 5-hydroxy-N,N,N-trimethyltryptammonium. Often found as a hydrogen sulfate ester in frog skins.
 - **Dehydrobufotenine**: A covalent bond formed between the dimethylated nitrogen and the indolic 4-position. Found in several toads and some giant reeds. A quaternary amine salt.
 - **Bufothionine**: The hydrogen sulfate ester of dehydrobufotenine.
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

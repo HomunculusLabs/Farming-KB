@@ -1,11 +1,11 @@
 ---
-title: "The DMT Experience and Hyperspace"
+title: "The mckenna-dmt-experience-and-hyperspace and Hyperspace"
 created: 2026-04-28
 tags: [food-of-the-gods, dmt, hyperspace, tryptamine, machine-elves, consciousness, archaic-revival, overmind, mckenna]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - McKenna T. Food of the Gods, Chapter 15: Anticipating the Archaic Paradise
+  - McKenna T. Food of the Gods, Chapter 15: Anticipating the mckenna-archaic-paradise-techniques-ecstasy
 type: concept
 ---
 
@@ -17,11 +17,11 @@ In the final chapter of *Food of the Gods*, [[anadenanthera-peregrina]] rina, a 
 
 The generally accepted method of activating the indole is to snuff the powdered plant material. Such snuffing is not left to the discretion of the user; rather, the user has a friend blow a hollow reed full of fine powder up first one nostril, then the other.
 
-Excruciating as this process is, it leaves no doubt that Amazonian shamans learned what modern DMT researchers had not: the most effective route of administration is by absorption through the nasal mucosa.
+Excruciating as this process is, it leaves no doubt that [[ayahuasqueros-amazonian-shamans]] learned what modern DMT researchers had not: the most effective route of administration is by absorption through the nasal mucosa.
 
 ## DMT and the Overmind
 
-The meltdown of Western rationalism has proceeded quite far, as anyone who will read any up-to-date popular book on cosmology or quantum physics can easily assure himself. Nevertheless, McKenna wishes to add the concept of some kind of interdimensional nexus that is gained most reliably and directly through the use of indole hallucinogens with a long history of human usage and human co-evolution.
+The meltdown of Western rationalism has proceeded quite far, as anyone who will read any up-to-date popular book on cosmology or quantum physics can easily assure himself. Nevertheless, McKenna wishes to add the concept of some kind of interdimensional nexus that is gained most reliably and directly through the use of [[four-families-of-indole-hallucinogens]] with a long history of human usage and human co-evolution.
 
 Such compounds are apparently functioning as regulators of cultural change and can be a means of obtaining access to the intentionality of some very large self-regulating system.
 
@@ -51,13 +51,13 @@ What is most feared by those who advocate the unworkable Luddite solution of "Ju
 
 Drugs have been a part of the galaxy of cultural concerns since the dawn of time. It was only with the advent of technologies capable of refining and concentrating the active principles of plants that drugs separated themselves from the general background of cultural concerns and became a scourge.
 
-In a sense, the situation is not a drug problem, but a problem with the management of technologies. The future may include new synthetic drugs a hundred or a thousand times more addictive than heroin or crack — unless we bring to consciousness and examine the basic human need for chemical dependency and then find and sanction avenues for expression of this need.
+In a sense, the situation is not a drug problem, but a problem with the management of technologies. The future may include new [[mckenna-distillation-and-the-birth-of-synthetic-drugs]] a hundred or a thousand times more addictive than heroin or crack — unless we bring to consciousness and examine the basic human need for chemical dependency and then find and sanction avenues for expression of this need.
 
 ## Psychedelics as Evolutionary Agents
 
 The hallucinogenic indoles, unstudied and legally suppressed, are here presented as agents of evolutionary change. They are biochemical agents whose ultimate impact is not on the direct experience of the individual but on the genetic constitution of the species.
 
-Increased visual acuity, increased reproductive success, and increased stimulation of protolinguistic brain functions are all logical consequences of the inclusion of psilocybin in the early human diet. If the notion that human consciousness emerged out of indole-mediated synergy of neurodevelopment could be proven, then our image of ourselves, our relationship to nature, and the present dilemma over drug use in society would change.
+Increased [[mckenna-roland-fischer-psilocybin-visual-acuity]], increased reproductive success, and increased stimulation of protolinguistic brain functions are all logical consequences of the inclusion of psilocybin in the early human diet. If the notion that human consciousness emerged out of indole-mediated synergy of neurodevelopment could be proven, then our image of ourselves, our relationship to nature, and the present dilemma over drug use in society would change.
 
 There is no solution to the "drug problem," or to the problem of environmental destruction or the problem of nuclear weapons stockpiles, until and unless our self-image as a species is reconnected to the earth.
 
@@ -65,7 +65,7 @@ There is no solution to the "drug problem," or to the problem of environmental d
 
 McKenna concludes that through psychedelics we are learning that God is not an idea; God is a lost continent in the human mind. That continent has been rediscovered in a time of great peril for ourselves and our world. Is this coincidence, synchronicity, or a cruelly meaningless juxtaposition of hope and ruin?
 
-The deep psychedelic experience does not simply hold out the possibility of a world of sane people living in balance with the earth and one another. It also promises high adventure, engagement with something completely unexpected — a nearby alien universe teeming with life and beauty.
+The deep [[leary-psychedelic-experience-bardo-mapping]] does not simply hold out the possibility of a world of sane people living in balance with the earth and one another. It also promises high adventure, engagement with something completely unexpected — a nearby alien universe teeming with life and beauty.
 
 "Don't ask where; at the present moment we can only say, not here and not there. We have still to admit our ignorance concerning the nature of mind and how precisely the world comes to be and what it is. For more than several millennia our dream has been to understand these matters, and we are defeated. Defeated unless we remember the other possibility — the possibility of the wholly Other."
 

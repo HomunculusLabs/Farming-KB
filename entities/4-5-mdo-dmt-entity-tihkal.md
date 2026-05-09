@@ -11,7 +11,7 @@ entity_type: "compound"
 source: "TIHKAL"
 source_entry: "#30"
 classification: ["tryptamine"]
-synthesis_method: "from 4,5-methylenedioxyindole via oxalyl chloride and dimethylamine"
+synthesis_method: "from 4,5-methylenedioxyindole via [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] and dimethylamine"
 status: ["research chemical", "untested in humans"]
 legal_status: ["varies by jurisdiction"]
 created: 2026-04-15
@@ -27,7 +27,7 @@ sources:
 
 ## Chemical Identity
 
-4,5-MDO-DMT is N,N-dimethyl-4,5-methylenedioxytryptamine, a synthetic tryptamine carrying a methylenedioxy bridge spanning the 4 and 5 positions of the indole ring. This is the substitution pattern that covers both of the aromatic positions most strongly associated with psychedelic activity in tryptamines: the 4-position (the site of hydroxylation in psilocin and psilocybin) and the 5-position (the site of the potent 5-methoxy substitution in compounds like 5-MeO-DMT).
+4,5-MDO-DMT is N,N-dimethyl-4,5-methylenedioxytryptamine, a synthetic tryptamine carrying a methylenedioxy bridge spanning the 4 and 5 positions of the indole ring. This is the substitution pattern that covers both of the aromatic positions most strongly associated with psychedelic activity in tryptamines: the 4-position (the site of hydroxylation in [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]]) and the 5-position (the site of the potent 5-methoxy substitution in compounds like 5-MeO-DMT).
 
 The full chemical name is 3-[2-(dimethylamino)ethyl]-4,5-methylenedioxyindole. The compound is also designated as 5H-1,3-dioxolo-[4,5-e]indole-7-ethaneamine, N,N-dimethyl.
 
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

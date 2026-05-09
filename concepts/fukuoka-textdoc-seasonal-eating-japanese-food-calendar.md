@@ -1,5 +1,5 @@
 ---
-title: Seasonal Eating: The Japanese Food Calendar and Natural Diet
+title: fukuoka-seasonal-eating-natural-food-calendar: The Japanese Food Calendar and fukuoka-natural-diet-as-foundation
 created: 2026-04-28
 tags:
   - fukuoka
@@ -45,7 +45,7 @@ shepherd's purse, cudweed, chickweed, bee nettle, wild turnip, and wild radish.
 These emerge early in the new year from the slumbering brown earth. As the farmer
 enjoys their flavors, he meditates on having survived a harsh winter. Nature provides
 shellfish, a brown food, alongside these green herbs. The savory taste of pond snails,
-freshwater clams, and sea clams in early spring is described as a special treat.
+freshwater clams, and sea clams in [[coleman-overwintered-onions-and-early-spring-crops]] is described as a special treat.
 
 As spring progresses, young cherry, persimmon, peach, and Chinese yam leaves become
 edible. Bamboo shoots pair deliciously with rockfish. Red sea bream and grunt are
@@ -90,7 +90,7 @@ part of nature's grand design. Daikon and leafy vegetables from the garden compl
 these fish. People transform yin fish into yang food by salting or grilling.
 
 Nothing surpasses homemade miso and tofu cooking, or fish cooked on river rocks at
-the fireside with crude natural salt prepared by burning sea salt with brush and
+the fireside with crude natural salt prepared by burning [[jadam-sea-salt-and-mineral-solutions]] with brush and
 seaweed. The osechi-ryori New Year dishes demonstrate culinary wisdom: pairing
 salted salmon and herring roe with kelp and black soybeans, adding sea bream and
 lobster, goes beyond tradition to a perfect pairing of man and nature.
@@ -138,6 +138,8 @@ and the degree of sickness or health, either for a centrifugal diet or a centrip
 diet. But once these have been examined, they may be discarded.
 
 ## See Also
+
+- [[fukuoka-seasonal-eating-natural-food-calendar]]
 
 - [[fukuoka-textdoc-getting-natural-diet]]
 - [[fukuoka-textdoc-four-types-of-diet-classification]]

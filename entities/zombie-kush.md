@@ -12,9 +12,9 @@ tags:
   - relaxation
 sources:
   - Barney's Farm Seed Bank (2020). "Zombie Kush Strain Profile." Official catalog.
-  - Leafly Staff (2022). "Zombie Kush Cannabis Strain Information." Leafly.com.
+  - Leafly Staff (2022). "Zombie Kush [[blesching-cannabis-strain-selection-receptor-targeting]] Information." Leafly.com.
   - AllBud (2023). "Zombie Kush Marijuana Strain." AllBud.com.
-  - Seedsman (2021). "Zombie Kush — Genetic Background and Growing Guide."
+  - Seedsman (2021). "Zombie Kush — Genetic Background and [[comparison-bean-growing-guide-vs-pepper-growing-guide]]."
 ---
 
 ## Overview
@@ -27,8 +27,8 @@ variety with deeply relaxing effects.
 The name reflects its powerful sedative properties — users report feeling "couch-
 locked" or immobilized, reminiscent of the zombie archetype in popular culture.
 Zombie Kush has gained a following among medical patients seeking relief from
-insomnia, chronic pain, and anxiety. It has not received major cannabis cup awards
-but maintains a strong reputation in the European and North American markets.
+insomnia, [[cannabis-chronic-pain-management]], and anxiety. It has not received major cannabis cup awards
+but maintains a strong reputation in the European and [[growing-gourmet-north-american-reishi-species]] markets.
 
 ## Lineage
 
@@ -54,11 +54,11 @@ flowering, especially under cooler night temperatures.
 
 Buds are medium to large in size with a dense, tightly packed structure typical of
 indica-dominant varieties. The calyxes are chunky and interspersed with curly
-orange-to-amber pistils. Colors range from deep forest green to dark violet and
+orange-to-amber pistils. Colors range from deep [[trichoderma-forest-green-mold-guide]] to dark violet and
 purple, especially in the outer leaves and smaller sugar leaves.
 
 Trichome coverage is heavy, giving the buds a frosty, almost white appearance
-under direct light. The resin production is one of Zombie Kush's most notable
+under direct light. The [[cannabis-glandular-trichome-types-resin-production-clarke]] is one of Zombie Kush's most notable
 visual characteristics — flowers glisten with a thick layer of sticky trichomes
 that extend onto the surrounding foliage.
 

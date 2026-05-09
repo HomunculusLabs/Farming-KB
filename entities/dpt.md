@@ -29,7 +29,7 @@ It acts as a serotonin 5-HT2A receptor agonist, producing visual and cognitive h
 
 DPT occupies a pharmacological niche between the shorter-acting DMT and the longer-acting psilocybin, distinguished by its unique dipropyl substitution pattern on the tryptamine nitrogen.
 
-The compound has been used in clinical research settings as well as in underground entheogenic and psychospiritual contexts.
+The compound has been used in [[hofmann-lsd-clinical-research-early-studies]] settings as well as in underground entheogenic and psychospiritual contexts.
 
 ## Chemical Properties
 
@@ -41,7 +41,7 @@ The compound has been used in clinical research settings as well as in undergrou
 - **Appearance:** White crystalline powder or freebase oil
 - **Solubility:** Freebase soluble in organic solvents; hydrochloride salt soluble in water
 
-DPT is structurally related to DMT (N,N-dimethyltryptamine) and DET (N,N-diethyltryptamine), differing only in the alkyl chain length on the terminal amine.
+DPT is structurally related to DMT (N,N-dimethyltryptamine) and DET (N,N-diethyltryptamine), differing only in the alkyl [[phenethylamine-chain-length-effects]] on the terminal amine.
 
 The propyl substitution increases lipophilicity relative to DMT, which influences its pharmacokinetic profile — longer onset and duration, more gradual comedown.
 
@@ -55,7 +55,7 @@ It shows moderate affinity for 5-HT1A, 5-HT2B, 5-HT2C, and 5-HT7 receptors, with
 
 The compound demonstrates full agonist activity at 5-HT2A with efficacy comparable to psilocin and DOI in in vitro assays.
 
-Receptor binding studies indicate a 5-HT2A Ki in the range of 150–300 nM, placing its potency between that of DMT and psilocin.
+[[tihkal-receptor-binding-serotonin]] studies indicate a 5-HT2A Ki in the range of 150–300 nM, placing its potency between that of DMT and psilocin.
 
 DPT also shows weak affinity for α2-adrenergic receptors, which may contribute to mild sympathomimetic peripheral effects.
 
@@ -108,14 +108,14 @@ Alexander Shulgin documented human self-experiments with DPT in TIHKAL (1997), d
 
 In the 1970s, psychiatrist Claudio Naranjo conducted clinical sessions using DPT in psychotherapeutic settings, reporting positive outcomes for patients with end-of-life anxiety and substance use disorders.
 
-The Multidisciplinary Association for Psychedelic Studies (MAPS) funded a small pilot study of DPT-assisted psychotherapy in the 1990s, though results were not widely published.
+The [[maps-multidisciplinary-association-for-psychedelic-studies]] for Psychedelic Studies (MAPS) funded a small pilot study of DPT-assisted psychotherapy in the 1990s, though results were not widely published.
 
 More recently, DPT has appeared occasionally in forensic and clinical case reports as a novel psychoactive substance, though its prevalence remains low compared to other tryptamines.
 
 ## Legal Status
 
-- **United States:** Unscheduled at the federal level but may be prosecuted under the Federal Analog Act as an analog of DMT
-- **United Kingdom:** Class A under the Psychoactive Substances Act (covered as a tryptamine derivative)
+- **[[dmt-containing-plants-united-states-halpern]]:** Unscheduled at the federal level but may be prosecuted under the Federal Analog Act as an analog of DMT
+- **United Kingdom:** Class A under the Psychoactive [[controlled-substances-act-and-psychedelic-research]] (covered as a tryptamine derivative)
 - **Germany:** Controlled under the NpSG (New Psychoactive Substances Act)
 - **International:** Not scheduled under the UN Convention on Psychotropic Substances
 

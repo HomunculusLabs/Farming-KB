@@ -1,11 +1,12 @@
 ---
-title: Holzer Farming Philosophy
+title: Holzer cho-natural-farming-philosophy-of-non-interference
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Farming Philosophy
@@ -98,4 +99,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

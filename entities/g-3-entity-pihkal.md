@@ -1,5 +1,5 @@
 ---
-title: "G-3 (2,5-DIMETHOXY-3,4-(TRIMETHYLENE)AMPHETAMINE;) -- PIHKAL Entry #82"
+title: "G-3 (2,5-DIMETHOXY-3,4-(TRIMETHYLENE)AMPHETAMINE;) -- 2c-b-pihkal-entry-20 #82"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -49,10 +49,10 @@ In a comparison between the 2-carbon
 compound (2C-G-3) and the 3-carbon compound (G-3) the vote goes
 towards the phenethylamine (the 2-carbon compound). With the first
 member of this series (2C-G versus GANESHA) this was a stand-off, both
-as to quantitative effects (potency) and qualitative effects (nature
+as to quantitative effects (potency) and [[mdma-qualitative-effects-phenomenology]] (nature
 of activity). Here, with the somewhat bulkier group located at the
 definitive 3,4-positions, the nod is to the shorter chain, for the
-first time grower ever. The potency differences are small, and maybe the
+first [[first-time-grower-common-mistakes]] ever. The potency differences are small, and maybe the
 amphetamine is still a bit more potent. But there are hints of
 discomfort with this latter compound that seem to be absent with the
 phenethylamine. The more highly substituted compounds (q.v.) more
@@ -63,7 +63,7 @@ clearly define these differences.
 A solution of 3.7 g of
 2,5-dimethoxy-3,4-(trimethylene)benzaldehyde (see preparation under
 2C-G-3) in 15 mL nitroethane was treated with 0.7 g anhydrous ammonium
-acetate and heated on the steam bath for 2.5 h. The excess solvent
+acetate and heated on the [[scythian-cannabis-steam-bath-ritual]] for 2.5 h. The excess solvent
 was removed under vacuum leaving some 5 mL of a deep orange-red oil
 which on cooling, spontaneously crystallized. This was finely ground
 under 10 mL MeOH, filtered, washed sparingly with MeOH, and air dried
@@ -99,7 +99,7 @@ mp of 157-159 deg C. Anal. (C14H22ClNO2) C,H.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited shulgin safety principles and should not be taken as established safe doses. Many PIHKAL compounds are potent and psychoactive substances that may carry unknown risks. Mckenna [[2c-g-3-entity-pihkal]]
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited shulgin [[shulgin-safety-principles-self-experimentation]] and should not be taken as established safe doses. Many PIHKAL compounds are potent and psychoactive substances that may carry unknown risks. Mckenna [[2c-g-3-entity-pihkal]]
 - [[2c-g-5-entity-pihkal]]
 
 - PIHKAL (the source book)

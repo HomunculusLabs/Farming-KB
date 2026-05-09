@@ -18,13 +18,13 @@ The taxonomic history of *L. casei* has been complex and contentious. The *Lacto
 
 ## Natural Habitat and Occurrence
 
-*L. casei* is naturally found in the human and animal gastrointestinal tract, where it is one of the dominant lactobacilli species in the small intestine. It is also commonly isolated from raw milk, cheese, and other dairy products, as well as from fermented vegetables, cereal-based foods, and the oral cavity. Environmental isolates have been recovered from soil, silage, and plant surfaces, though its primary ecological niche appears to be the mammalian gut.
+*L. casei* is naturally found in the human and animal gastrointestinal tract, where it is one of the dominant lactobacilli species in the small intestine. It is also commonly isolated from raw milk, cheese, and other dairy products, as well as from [[comparison-fermented-vegetables-vs-canning]], cereal-based foods, and the oral cavity. Environmental isolates have been recovered from soil, silage, and plant surfaces, though its primary ecological niche appears to be the mammalian gut.
 
 The organism is mesophilic, with an optimal growth temperature of approximately 30–37°C, and can grow at temperatures ranging from 10°C to 45°C. It tolerates acidic conditions down to approximately pH 3.5, though its acid tolerance is somewhat lower than that of *L. plantarum*. These physiological characteristics make it well-adapted to the conditions found in fermented foods and the intestinal environment.
 
 ## Dairy Fermentation
 
-*L. casei* plays a significant role in the production of many fermented dairy products. It is used as a starter or adjunct culture in the manufacture of cheese, yogurt, kefir, and fermented milk drinks. In cheese production, *L. casei* contributes to flavor development during ripening through the production of lactic acid, volatile fatty acids, and various flavor compounds derived from amino acid catabolism.
+*L. casei* plays a significant role in the production of many [[query-how-do-i-start-making-fermented-dairy-at-home]] products. It is used as a starter or adjunct culture in the manufacture of cheese, yogurt, kefir, and fermented milk drinks. In cheese production, *L. casei* contributes to flavor development during ripening through the production of lactic acid, volatile fatty acids, and various flavor compounds derived from amino acid catabolism.
 
 The organism is particularly important in the production of aged cheeses, where it survives the initial cooking and pressing stages and continues to metabolize during the extended ripening period. Its proteolytic activity—relatively modest compared to some other lactobacilli—helps break down milk proteins into peptides and free amino acids that serve as precursors for the development of cheese flavor and texture. *L. casei* is a key component of the non-starter lactic acid bacteria (NSLAB) flora that naturally develops in many cheese varieties during ripening.
 
@@ -33,14 +33,14 @@ The organism is particularly important in the production of aged cheeses, where 
 *L. casei* is one of the most commercially important probiotic species, with strains marketed under trade names such as *L. casei* Shirota (Yakult), *L. casei* DN-114 001 (Actimel/DanActive), and *L. casei* rhamnosus GG (although GG is now classified as *L. rhamnosus*). Clinical evidence supports several health benefits associated with *L. casei* consumption:
 
 - **Gastrointestinal health**: *L. casei* strains have demonstrated efficacy in reducing the duration and severity of diarrhea, particularly antibiotic-associated diarrhea and acute infectious diarrhea in children. Strain Shirota has been shown to improve bowel habit regularity and reduce constipation.
-- **Immune modulation**: Regular consumption of *L. casei*-containing products has been associated with enhanced innate and adaptive immune responses, including increased natural killer cell activity and secretory IgA production.
+- **[[cancer-immune-modulation-mechanisms]]**: Regular consumption of *L. casei*-containing products has been associated with enhanced innate and adaptive immune responses, including increased natural killer cell activity and secretory IgA production.
 - **Metabolic effects**: Some studies suggest that *L. casei* may help lower serum cholesterol levels, improve lactose digestion, and reduce markers of systemic inflammation.
 
 ## Role in IMO and Natural Farming
 
-In indigenous microorganism (IMO) systems, *L. casei* contributes to the mixed lactic acid bacteria cultures developed from rice-based fermentation substrates. While *L. plantarum* and *L. brevis* are often the dominant LAB species in these preparations, *L. casei* is frequently present as part of the natural microbiota that colonizes fermenting rice and plant materials.
+In [[knf-indigenous-microorganism-culture]] (IMO) systems, *L. casei* contributes to the mixed lactic acid bacteria cultures developed from rice-based fermentation substrates. While *L. plantarum* and *L. brevis* are often the dominant LAB species in these preparations, *L. casei* is frequently present as part of the natural microbiota that colonizes fermenting rice and plant materials.
 
-When applied to agricultural systems as part of LAB serum preparations, *L. casei* contributes to the overall microbial diversity and competitive suppression of plant pathogens. Its ability to produce lactic acid and bacteriocins helps create an environment that is unfavorable for many pathogenic bacteria and fungi. The organism may also contribute to the decomposition of organic matter in compost and soil, particularly through its ability to utilize a range of carbohydrate substrates.
+When applied to agricultural systems as part of LAB serum preparations, *L. casei* contributes to the overall microbial diversity and competitive suppression of plant pathogens. Its ability to produce lactic acid and bacteriocins helps create an environment that is unfavorable for many pathogenic bacteria and fungi. The organism may also contribute to the decomposition of [[hamilton-composting-and-organic-matter-management]] in compost and soil, particularly through its ability to utilize a range of carbohydrate substrates.
 
 ## Genomics and Metabolic Capabilities
 
@@ -63,7 +63,7 @@ most important locally.
 
 ## System Connections
 
-This topic often overlaps with nutrient cycling, habitat design, water
+This topic often overlaps with [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], habitat design, water
 management, and low-input production. In a farming knowledge base, those
 connections matter because a single intervention can affect pest
 pressure, soil biology, yields, and long-term resilience.

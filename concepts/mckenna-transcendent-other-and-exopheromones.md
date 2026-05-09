@@ -12,13 +12,13 @@ sources:
 
 ## The Problem of the Other
 
-The central mystery of the psychedelic experience is the encounter with the Other — an apparently independent intelligence that manifests in the altered state. This Transcendent Other appears in various forms across cultures and across different psychedelic compounds: as spirit guides, ancestors, gods, machine elves, alien entities, or simply as a vast, intelligent presence.
+The central mystery of the [[leary-psychedelic-experience-bardo-mapping]] is the encounter with the Other — an apparently independent intelligence that manifests in the altered state. This Transcendent Other appears in various forms across cultures and across different psychedelic compounds: as spirit guides, ancestors, gods, machine elves, alien entities, or simply as a vast, intelligent presence.
 
 The question is: what is the ontological status of this Other? Is it a hallucination — a projection of the unconscious mind? Or is it something real, something independent of the individual psyche, something that exists in a dimension of reality normally inaccessible to us?
 
 ## Pheromones and Exopheromones
 
-McKenna proposes the concept of "exopheromones" — chemical signals that, like pheromones, carry information between organisms, but that cross species boundaries rather than operating within a single species. If pheromones are the language of intraspecies communication, exopheromones are the language of transspecies communication.
+McKenna proposes the concept of "exopheromones" — [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] that, like pheromones, carry information between organisms, but that cross species boundaries rather than operating within a single species. If pheromones are the language of intraspecies communication, exopheromones are the language of transspecies communication.
 
 The psychoactive compounds produced by plants — psilocybin, DMT, harmine, ibogaine, mescaline — may function as exopheromones. They are chemical messages from the vegetable mind to the human mind, carrying information about the nature of reality, the structure of consciousness, and the relationship between humans and the larger biosphere.
 
@@ -72,7 +72,7 @@ McKenna's analysis fits within his broader framework of the [[mckenna-dissolutio
 
 # Stoned Ape Theory
 
-The "Stoned Ape" hypothesis, proposed by Terence McKenna in Food of the Gods (1992), argues that the inclusion of psychoactive mushrooms (specifically Stropharia cubensis / Psilocybe cubensis) in the diet of early hominids in the African grasslands was the primary catalyst for the rapid expansion of brain size, the emergence of language, and the development of human self-reflection. The theory addresses one of the central puzzles of paleoanthropology: how the human brain tripled in size in under three million years, a rate Lumsden and Wilson called "perhaps the fastest advance recorded for any complex organ in the whole history of life."
+The "Stoned Ape" hypothesis, proposed by Terence McKenna in Food of the Gods (1992), argues that the inclusion of psychoactive mushrooms (specifically [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] / [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]) in the diet of early hominids in the African grasslands was the primary catalyst for the rapid expansion of brain size, the emergence of language, and the development of human self-reflection. The theory addresses one of the central puzzles of paleoanthropology: how the human brain tripled in size in under three million years, a rate Lumsden and Wilson called "perhaps the fastest advance recorded for any complex organ in the whole history of life."
 
 ## The Evolutionary Puzzle
 
@@ -108,7 +108,7 @@ By a process of elimination among candidate psychoactive plants, McKenna identif
 
 - DMT-containing grasses would require extraction/concentration beyond early hominid technical capacity
 - Ergot (source of LSD-type compounds) has no significant history of use in Africa
-- Peganum harmala (Syrian rue, source of harmala alkaloids) requires combination with DMT and has no confirmed African hallucinogenic use
+- [[mckenna-food-gods-peganum-harmala-soma]] (Syrian rue, source of [[turner-harmala-alkaloids-preparation-and-dosage]]) requires combination with DMT and has no confirmed African hallucinogenic use
 - Stropharia cubensis alone is pandemic in tropical regions wherever zebu-type cattle graze, contains psilocybin in concentrated amounts, and is free of nausea-producing compounds
 
 Archaeological evidence from Non Nak Tha, Thailand (dated to 15,000 B.P.) shows zebu cattle bones coincident with human graves, with Stropharia cubensis common in the area today. McKenna suggests this pattern "supports the notion that mushroom use was a human trait that emerged wherever human populations and cattle evolved together."

@@ -1,5 +1,5 @@
 ---
-title: Fungal Spore Discharge Mechanisms
+title: bloomfield-fungal-spore-discharge-and-dispersal bloomfield-ascospore-discharge-mechanisms-ascomycetes
 created: 2026-04-28
 tags:
   - mycology
@@ -122,7 +122,7 @@ full millimeter in length.
 
 By discharging all eight spores as a single mucilage-covered mass, the
 fungus overcomes the limitations of air resistance that would plague
-individually launched spores. The surface tension catapult mechanism
+individually launched spores. The [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] catapult mechanism
 propels individual basidiospores only a fraction of a millimeter.
 
 Asci exhibit phototropic behavior, orienting themselves toward
@@ -134,7 +134,7 @@ that might intercept them.
 
 Ascospores are extraordinarily hardy. Research by Nick Read at the
 University of Edinburgh demonstrated that ascospores can survive the
-brutal environment inside an electron microscope and germinate after
+brutal environment inside an [[bloomfield-ascospore-extreme-resilience-electron-microscope-survival]] and germinate after
 removal.
 
 In these experiments, spores were subjected to temperatures as low as
@@ -146,4 +146,4 @@ minus 180 degrees Celsius, dried in a vacuum, and irradiated with an
 
 ## See Also
 
-- [[fungal-spore-biology-and-dispersal-mechanisms]]
+- [[fungal-spore-dispersal-mechanisms]]

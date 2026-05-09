@@ -12,7 +12,7 @@ type: comparison
 
 ## Overview
 Crop rotation is the practice of sequencing different crops across the same land over successive
-growing seasons to break pest and disease cycles and balance nutrient demands. Cover cropping
+growing seasons to break [[hamilton-pest-and-disease-control-organic]] cycles and balance nutrient demands. Cover cropping
 involves growing non-harvested plants specifically to improve soil health between cash crop
 cycles. Both are fundamental soil management practices in organic and regenerative agriculture,
 and they are most effective when used together as complementary strategies rather than alternatives.
@@ -22,19 +22,19 @@ and they are most effective when used together as complementary strategies rathe
 
 Cover cropping grows plants that are not harvested for sale but are grown specifically for their
 benefits to the soil and broader ecosystem. Cover crops serve multiple functions including
-nitrogen fixation by legumes, erosion prevention on bare soil, weed suppression through
+[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] by legumes, erosion prevention on bare soil, weed suppression through
 competition and allelopathy, breaking soil compaction with deep taproots, and adding organic
 matter when terminated and incorporated into the soil. The cover cropping guide covers selection
 of species and mixes for different purposes, timing of planting and termination, and integration
 with cash crop schedules.
 
 Leguminous cover crops such as crimson clover, hairy vetch, and field peas fix atmospheric
-nitrogen through their symbiotic relationship with rhizobia bacteria, providing a natural nitrogen
+nitrogen through their symbiotic relationship with rhizobia bacteria, providing a [[jadam-natural-nitrogen-fertilizer]]
 source for subsequent crops. Grass cover crops like cereal rye and oats produce abundant biomass
 for weed suppression and organic matter addition. Brassica cover crops such as daikon radish have
 aggressive taproots that can penetrate compacted soil layers, improving drainage and root
 penetration for following cash crops. Many growers use multi-species cover crop mixes to maximize
-the number of ecosystem services provided simultaneously.
+the number of [[biodiversity-of-fungi-ecosystem-services-agriculture]] provided simultaneously.
 
 Timing is critical with cover crops. They must be planted early enough to establish before winter
 or before cash crop planting windows close. Termination methods include mowing, crimping,
@@ -56,7 +56,7 @@ long-term investments in soil health available to any grower.
 | Primary Goal | Break pest and disease cycles | Improve soil health and structure |
 | Timing | Across seasons and years | Between or alongside cash crops |
 | Complexity | Moderate; requires planning and records | Moderate; requires species selection and timing |
-| Best For | Pest and disease management | Soil building, erosion control, nitrogen fixation |
+| Best For | Pest and [[plant-disease-management-solomon]] | Soil building, [[permplant-willows-salix-erosion-control-fodder]], nitrogen fixation |
 | Cost | Low; mainly planning effort | Moderate; seed and equipment costs |
 | Drawbacks | Does not directly add organic matter | Requires time between cash crops for growth |
 | Measurable Outcome | Reduced pest pressure, balanced fertility | Improved soil metrics, added organic matter |

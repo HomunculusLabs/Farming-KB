@@ -1,5 +1,5 @@
 ---
-title: "Hypholoma capnoides"
+title: "growing-gourmet-hypholoma-capnoides-cultivation"
 created: 2026-04-28
 type: species
 tags:
@@ -19,9 +19,9 @@ sources:
 ## Introduction
 
 **Hypholoma capnoides** (Fries) Quelet, commonly known as the Brown Gilled
-Clustered Wood Lover, Smoky Gilled Hypholoma, or Elsie's Edible, is a gourmet
+Clustered [[outdoor-wood-lover-cultivation]], Smoky Gilled Hypholoma, or Elsie's Edible, is a gourmet
 mushroom that grows on conifer wood. Also known as *Naematoloma capnoides* (Fr.)
-Karst., this species is one of the few gourmet mushrooms adaptive to conifer
+Karst., this species is one of the few [[growing-gourmet-mushrooms-civilization-history]] adaptive to conifer
 stumps and logs, making it a valuable candidate for recycling conifer stumps
 after logging operations.
 
@@ -38,8 +38,8 @@ and cap development is influenced by light and CO2 concentration.
 
 | Stage | Temperature | Humidity | Duration | CO2 | Light |
 |---|---|---|---|---|---|
-| Spawn Run | 70-75°F (21-24°C) | 95-100% RH | 20-28 days (+20 day rest) | >10,000 ppm | Not specified |
-| Primordia Formation | 45-55°F (7-13°C) | 98-100% RH | 10-14 days | 1,000-2,000 ppm | 200-500 lux |
+| [[mushroom-spawn-run-thermogenesis-cotter]] | 70-75°F (21-24°C) | 95-100% RH | 20-28 days (+20 day rest) | >10,000 ppm | Not specified |
+| [[growing-gourmet-primordia-formation-pinning]] | 45-55°F (7-13°C) | 98-100% RH | 10-14 days | 1,000-2,000 ppm | 200-500 lux |
 | Fruitbody Development | 50-60°F (10-16°C) | 90-95% RH | 10-14 days | 1,000-5,000 ppm | 200-500 lux |
 
 **Cropping Cycle:** 2 crops, approximately 4 weeks apart.
@@ -63,7 +63,7 @@ in soups and stews.
 ## References
 
 - Quelet, L. *Flore Mycologique de la France*.
-- Stamets, P. *Growing Gourmet and Medicinal Mushrooms*.
+- Stamets, P. *Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]*.
 - /Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 
 *Last updated: 2026-04-28*
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

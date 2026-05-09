@@ -1,7 +1,7 @@
 ---
-title: Semi-Hibernating Winter Crops and the Harvest Season Extension
+title: Semi-Hibernating Winter Crops and the Harvest comparison-season-extension-techniques-vs-cold-frame-gardening
 source: eliot-coleman-winter-harvest-handbook.md
-author: Eliot Coleman
+author: eliot-coleman
 tags: [coleman, winter-harvest, semi-dormant-crops, cold-house, harvest-extension, protected-cultivation, season-extension]
 ---
 
@@ -9,9 +9,9 @@ tags: [coleman, winter-harvest, semi-dormant-crops, cold-house, harvest-extensio
 
 ## Overview
 
-One of the most important conceptual breakthroughs in Eliot Coleman's winter harvest system
+One of the most important conceptual breakthroughs in Eliot Coleman's [[coleman-claytonia-winter-harvest-cultivation]] system
 was the realization that winter crops do not need to be actively growing to be harvestable.
-Once past the middle of November, most cold-hardy crops in the unheated greenhouse enter a
+Once past the middle of November, most cold-hardy crops in the [[coleman-unheated-greenhouse-design]] enter a
 state of semi-hibernation — they are, as Coleman puts it, "just idling their engines, waiting
 for us to come and harvest them." This distinction between extending the growing season and
 extending the harvest season is fundamental to understanding how unheated winter production
@@ -19,7 +19,7 @@ works.
 
 ## Growing Season vs. Harvest Season
 
-The traditional approach to winter vegetable production assumes that plants must continue
+The traditional approach to winter [[dry-gardening-unirrigated-vegetable-production-solomon]] assumes that plants must continue
 actively growing to produce a harvest. This assumption leads naturally to heated greenhouses,
 where warmth is provided to maintain summer-like growth rates throughout the winter months.
 
@@ -36,7 +36,7 @@ they would otherwise be frozen or dead.
 
 ## The Semi-Hibernation Concept
 
-The semi-hibernation state is not true dormancy. The plants are still metabolically active,
+The semi-hibernation state is not true dormancy. The plants are still [[isolation-metabolically-active-arbuscules-intraradical-hyphae]],
 responding to light and temperature fluctuations. But their growth rate drops to nearly zero
 as day length shortens below ten hours and temperatures remain near or below freezing.
 
@@ -59,7 +59,7 @@ keep you comfortable.
 A heated greenhouse is like the fire — it actively battles against the cold, consuming
 energy to maintain temperatures high enough for active growth. An unheated cold house with an
 inner layer of protection is like layered clothing — it simply provides enough insulation for
-the plants to remain comfortable at the ambient temperature.
+the plants to remain comfortable at the [[jadam-ambient-temperature-principle]].
 
 The cold-hardy crops are already adapted to survive freezing temperatures. They do not need
 tropical conditions. They just need protection from the worst extremes of wind, ice, and
@@ -126,4 +126,5 @@ possibilities that heated greenhouse systems can never match.
 
 - [[coleman-double-cover-microclimate-protection]]
 - [[coleman-second-spring-august-planting-window]]
-- [[coleman-mobile-greenhouse-crop-rotation-patterns]]
+- coleman-mobile-greenhouse-crop-rotation-patterns
+- [[coleman-winter-harvest-washing-and-packing]]

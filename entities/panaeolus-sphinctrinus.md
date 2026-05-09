@@ -11,17 +11,18 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3erpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # Panaeolus sphinctrinus
 
 **Panaeolus sphinctrinus** (Pers.) Quél. is a large, non-psychoactive
-mushroom in the family Bolbitiaceae, commonly found on horse dung across
+mushroom in the family Bolbitiaceae, commonly found on [[horse-dung-rice-grain-substrate-preparation]] across
 temperate regions of the world. Though it belongs to a genus that
 includes several psilocybin-containing species, *P. sphinctrinus*
 itself is considered inactive and nonpoisonous. It is notable for its
-imposing stature, its membranous annulus, and its viscid cap, earning
+imposing stature, its [[membranous-annulus-loss-brassinosteroid-induced-morphological-change]], and its viscid cap, earning
 it the distinction as the most majestic of all the Panaeoli.
 
 ## Taxonomy
@@ -35,7 +36,7 @@ been known under multiple names:
 
 These names reflect differing taxonomic treatments over time. Some
 authorities have placed the species in the genus Anellaria, while
-others retain it within [[stamets-psylo-panaeolus-genus-overview]].
+others retain it within stamets-psylo-panaeolus-genus-overview.
 
 ### Stem
 
@@ -66,7 +67,7 @@ morphologies.
 ## Habitat and Distribution
 
 panaeolus sphinctrinus grows solitary to scattered, primarily on
-horse dung. It fruits in the fall across North America and the temperate
+horse dung. It fruits in the fall across [[psilocybin-north-america-pacific-northwest]] and the temperate
 zones of Europe. It has also been reported from Hawaii. The species
 shows a strong preference for substrates associated with horse stables,
 particularly around compost piles created from cleaning out horse stalls.
@@ -99,7 +100,7 @@ other Panaeoli in the field:
    identification.
 5. **Lack of blue bruising**: Unlike the psychoactive [[copelandia-panaeolus-genera]]
 
-- [[stamets-psylo-panaeolus-genus-overview]]
+- stamets-psylo-panaeolus-genus-overview
 - [[copelandia-panaeolus-genera]]
 - Anellaria
 - psilocybin

@@ -1,17 +1,13 @@
 ---
 title: Substrate Contamination
 created: 2026-04-28
-tags: [[mycology, contamination, cultivation, pathology]
+tags: [mycology, contamination, cultivation, pathology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
 type: concept
 ---
-
-# Substrate Contamination
-
-Contamination is the presence of unwanted organisms in a mushroom substrate
-that compete with or parasitize the cultivated [[mushroom-cultivation-fruiting-chambers]], and managing it is the
+# Substrate Contamination Contamination is the presence of unwanted organisms in a mushroom substrate that compete with or parasitize the cultivated [[mushroom-cultivation-fruiting-chambers]], and managing it is the
 central challenge of every cultivation operation, from home growers to
 commercial facilities.
 
@@ -19,10 +15,10 @@ commercial facilities.
 
 ### Mold Contaminants
 
-Molds are the most visible and common competitors in mushroom substrates:
+Molds are the most visible and common competitors in [[query-what-are-the-best-mushroom-substrates-for-different-species]]:
 
 - **Trichoderma** (green mold) — the most aggressive competitor in
-  mushroom cultivation. Rapidly colonizes substrates, outcompeting the
+  [[accessible-mushroom-cultivation-for-disabilities]]. Rapidly colonizes substrates, outcompeting the
   intended mycelium. Spores are ubiquitous in indoor environments. Favored by
   high humidity, poor ventilation, and excess supplementation. Infected blocks
   show dense green patches that spread quickly. Often introduced via
@@ -44,7 +40,7 @@ Molds are the most visible and common competitors in mushroom substrates:
 
 Bacteria thrive in wet, anaerobic conditions:
 
-- **Bacterial blotch** (*Pseudomonas tolaasii*) — causes brown, sunken
+- **[[growing-gourmet-bacterial-blotch-disease-management]]** (*Pseudomonas tolaasii*) — causes brown, sunken
   lesions on mushroom caps during fruiting. Spread by splashing water.
   Reduced by lowering surface humidity and improving air circulation.
 - **Bacterial wet bubble** — slimy, foul-smelling substrate conditions.
@@ -96,13 +92,13 @@ Contamination management follows the hierarchy of controls:
 
 ### Barrier Controls
 - Work in a clean area (still air box for hobbyists; laminar flow hood for
-  commercial spawn production)
+  commercial [[growing-gourmet-sawdust-spawn-production-use]])
 - Seal containers immediately after inoculation
 - Use HEPA-filtered intake air in grow rooms
 - Install insect screens on all vents and openings
 
 ### Process Controls
-- Maintain proper substrate moisture (60-65%)
+- Maintain proper [[pf-tek-substrate-moisture-diagnosis-and-correction]] (60-65%)
 - Keep colonization temperature in the optimal range for the species
 - Monitor CO₂ and humidity to avoid conditions that favor competitors
 - Implement strict hygiene protocols between batches
@@ -133,6 +129,6 @@ When contamination is detected:
 
 ## See Also
 
-- [[oyster-mushroom-substrates]] — pasteurization and sterilization methods
+- [[oyster-mushroom-substrates]] — [[query-difference-between-pasteurization-and-sterilization-mushroom-growing]] methods
 - [[lignicolous-fungi]] — competitive ecology in wood decomposition
 - [[fruiting-initiation]] — contamination risks during fruiting

@@ -1,5 +1,5 @@
 ---
-title: Dynamic Accumulator Plants — Nitrogen
+title: nutrient-dynamic-accumulator-reference Plants — Nitrogen
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,7 +10,7 @@ tags: [plants]
 
 # Dynamic Accumulator Plants — Nitrogen
 
-Nitrogen is the most critical nutrient for plant growth and is often the limiting factor in agricultural productivity. Dynamic accumulators of nitrogen include two distinct categories: legumes that fix atmospheric nitrogen through symbiotic root bacteria, and non-leguminous plants that accumulate nitrogen from soil sources in their tissues at elevated concentrations.
+Nitrogen is the most critical nutrient for plant growth and is often the limiting factor in agricultural productivity. [[comparison-dynamic-accumulators-vs-cover-crops]] of nitrogen include two distinct categories: legumes that fix atmospheric nitrogen through symbiotic root bacteria, and non-leguminous plants that accumulate nitrogen from soil sources in their tissues at elevated concentrations.
 
 ## Leguminous Nitrogen Fixation
 
@@ -40,7 +40,7 @@ Note: These figures vary considerably with soil type and climate; the relative r
 
 ## The "Beans Feed Corn" Myth
 
-A common recommendation to interplant corn and beans assumes the nitrogen-fixing beans will share nitrogen with corn. The thinking is that "the roots of legumes take large amounts of nitrogen out of the air and make it available to the roots of other plants" (Encyclopedia of Organic Gardening, Rodale Press, 1978).
+A common recommendation to interplant corn and beans assumes the nitrogen-fixing beans will share nitrogen with corn. The thinking is that "the roots of legumes take large amounts of nitrogen out of the air and make it available to the roots of other plants" (Encyclopedia of [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]], Rodale Press, 1978).
 
 In reality, very little if any nitrogen gathered by a bean plant is shared with the corn in the current season. The nitrogen goes to the bean's seeds. There are almost no studies showing improved corn yield from bean intercropping in temperate climates, though some tropical studies show benefits with legume-grass intercrops. There are, however, numerous studies that substantiate the well-known and traditional practice of planting legumes in rotation with grains and cereal crops.
 
@@ -70,7 +70,7 @@ The following non-leguminous plants have been documented as accumulating nitroge
 
 **Perennial Herbs and Weeds**
 - Comfrey (*Symphytum officinale*) — accumulates N, P, K, Ca, Mg, and trace minerals
-- Stinging nettle (*Urtica urens*) — exceptional nitrogen content; broad accumulator
+- [[comparison-stinging-nettle-vs-horsetail]] (*Urtica urens*) — exceptional nitrogen content; broad accumulator
 - Dandelion (*Taraxacum vulgare*) — deep taproot; nearly universal presence
 - Chicory (*Cichorium intybus*) — deep-rooted perennial
 - Yarrow (*Achillea millefolium*) — perennial with medicinal uses
@@ -114,7 +114,7 @@ The following non-leguminous plants have been documented as accumulating nitroge
 
 Different legumes suit different climates and soil conditions. The source document identifies regional adaptations:
 
-- **Cool season**: Crimson clover, hairy vetch, annual ryegrass (as companion), Austrian winter pea
+- **Cool season**: [[comparison-lupin-vs-crimson-clover-green-manure]], hairy vetch, annual ryegrass (as companion), Austrian winter pea
 - **Warm season**: Cowpeas, soybeans, velvet beans, crotalaria
 - **Perennial**: Alfalfa, white clover, red clover, sweet clover
 - **Tolerant of poor soils**: Sweet clover, sericea lespedeza, crown vetch
@@ -125,7 +125,7 @@ Different legumes suit different climates and soil conditions. The source docume
 - **Cover cropping**: Plant nitrogen-fixing legumes as cover crops, then till in before flowering for maximum nitrogen return
 - **Chop-and-drop**: Cut accumulator plants before flowering when nitrogen peaks in leaves; leave as surface mulch
 - **Compost activation**: High-nitrogen accumulator foliage (comfrey, nettle) accelerates compost decomposition
-- **Compost tea**: Nettle or comfrey steeped in water creates nitrogen-rich liquid fertilizer
+- **Compost tea**: Nettle or comfrey steeped in water creates nitrogen-rich [[jadam-liquid-fertilizer-nutritional-perspective]]
 - **Rotational design**: Follow legume cover crops with heavy-feeding vegetable crops the next season
 - **Living mulch**: Allow clovers and vetches to grow as understory living mulch beneath taller crops
 

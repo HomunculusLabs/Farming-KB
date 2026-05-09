@@ -14,7 +14,7 @@ sources:
 Rumex acetosa, commonly known as common sorrel, garden sorrel, or
 narrow-leaved dock, is a perennial herbaceous plant in the family
 Polygonaceae. Native to Europe and temperate Asia, it has been
-naturalized across much of North America and is widely cultivated
+naturalized across much of [[psilocybin-north-america-pacific-northwest]] and is widely cultivated
 as a culinary herb. Sorrel is prized for its distinctive sharp,
 lemon-sour flavor, which comes from high concentrations of oxalic
 acid in the leaves. The plant has a long history of culinary and
@@ -22,7 +22,7 @@ medicinal use dating back to ancient Greece and Rome, where it was
 valued both as a spring tonic and as a treatment for scurvy due
 to its high vitamin C content. In permaculture and food forest
 designs, sorrel serves as a productive ground-cover perennial
-that provides early spring greens before many annual vegetables
+that provides [[coleman-overwintered-onions-and-early-spring-crops]] greens before many annual vegetables
 are harvestable.
 
 ## Taxonomy and Classification
@@ -106,7 +106,7 @@ and vitamin C content.
   more tender leaves in hot climates
 - **Lifespan:** Perennial; productive for 4-6 years before the
   center of the clump dies out and requires division
-- **Pests and diseases:** Generally pest-free; may attract aphids
+- **[[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]:** Generally pest-free; may attract aphids
   on flower stalks; susceptible to rust (Puccinia spp.) in humid
   conditions, though this rarely kills established plants
 - **Harvest:** Individual outer leaves can be harvested continuously
@@ -115,13 +115,13 @@ and vitamin C content.
 
 ## Permaculture Applications
 
-In permaculture systems, sorrel functions as a dynamic accumulator
+In permaculture systems, sorrel functions as a [[nutrient-dynamic-accumulator-reference]]
 of minerals from deep soil layers via its taproot. It serves as
 an early-season food source when few other perennial greens are
 available, filling a temporal niche in food forest designs. The
 plant's tolerance of partial shade makes it suitable for the
-herbaceous layer beneath fruit trees. Sorrel's dense basal
-rosette provides effective weed suppression through ground cover.
+herbaceous layer beneath [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]. Sorrel's dense basal
+rosette provides effective weed suppression through [[fukuoka-citrus-orchard-ground-cover-cultivation]].
 It is a useful companion plant in polycultures, though its
 aggressive self-seeding habit means it may require management
 in tightly designed guilds. The deep root system helps break
@@ -140,6 +140,9 @@ Modern herbalists recommend sorrel as a spring tonic and
 digestive aid.
 
 ## See Also
+
+- [[rumex-patientia]]
 - [[taraxacum-officinale]]
 - [[borago-officinalis]]
-- [[rumex-obtusifolius-entity]]
+- rumex-obtusifolius-entity
+- [[food-forest-design]]

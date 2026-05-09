@@ -37,7 +37,7 @@ The plant is an evergreen shrub or small tree reaching 6–15 meters in height. 
 
 ## Chemical Composition
 
-Yerba mate contains a distinctive profile of bioactive compounds:
+Yerba mate contains a distinctive profile of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:
 
 ### Xanthine Alkaloids
 - **Caffeine** (1.0–1.5%): Primary stimulant, comparable to tea
@@ -60,7 +60,7 @@ Yerba mate contains a distinctive profile of bioactive compounds:
 
 ## Traditional and Cultural Use
 
-Yerba mate consumption dates back at least to pre-Columbian times. The Guaraní people considered the plant a gift from the gods. Jesuit missionaries in the 17th century established plantations and standardized cultivation methods, leading to the plant being called "Jesuit tea" in European botanical literature.
+Yerba mate consumption dates back at least to pre-Columbian times. The Guaraní people considered the plant a gift from the gods. Jesuit missionaries in the 17th century established plantations and standardized [[synthetic-log-cultivation-methods-guide]], leading to the plant being called "Jesuit tea" in European botanical literature.
 
 ### Preparation Methods
 1. **Traditional mate (hot):** Dried, ground leaves steeped in a gourd (*mate*) with hot (~70–80°C) water, sipped through a metal straw (*bombilla*)
@@ -81,11 +81,11 @@ In vitro studies demonstrate significant free radical scavenging activity. The O
 
 ### Metabolic Effects
 - May enhance lipid metabolism and reduce LDL cholesterol
-- Some clinical trials suggest modest weight management support through thermogenic effects
+- Some [[mushroom-cancer-clinical-trials-overview]] suggest modest weight management support through thermogenic effects
 - Animal studies indicate potential glycemic regulation benefits
 
 ### Cardiovascular
-Epidemiological data from South American populations suggest regular mate consumption may be associated with reduced cardiovascular risk, though confounding factors (lifestyle, diet) make causal claims difficult.
+Epidemiological data from [[chiric-caspi-brunfelsia-south-american-hallucinogen]] populations suggest regular mate consumption may be associated with reduced cardiovascular risk, though confounding factors (lifestyle, diet) make causal claims difficult.
 
 ### Anti-inflammatory
 Chlorogenic acid and other polyphenols demonstrate anti-inflammatory activity in vitro through NF-κB pathway modulation and COX-2 inhibition.
@@ -96,7 +96,7 @@ Chlorogenic acid and other polyphenols demonstrate anti-inflammatory activity in
 Controversial epidemiological studies have linked heavy, very hot mate consumption (above 65°C) with increased risk of esophageal squamous cell carcinoma. The IARC classified "mate drinking, very hot" as probably carcinogenic to humans (Group 2A), noting the temperature rather than the plant itself is the likely factor. Mate consumed at warm temperatures does not appear to carry this risk.
 
 ### PAH Contamination
-The traditional smoke-drying process (*sapeco* and *barbaquá*) can introduce polycyclic aromatic hydrocarbons (PAHs) into the leaves. Air-dried or unsmoked mate products are available and preferred for health-conscious consumers.
+The traditional smoke-drying process (*sapeco* and *barbaquá*) can introduce [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs) into the leaves. Air-dried or unsmoked mate products are available and preferred for health-conscious consumers.
 
 ### Caffeine Sensitivity
 Standard doses provide roughly 70–85 mg caffeine per serving (250 mL), similar to a cup of coffee. Excessive consumption can cause insomnia, anxiety, palpitations, and GI discomfort.
@@ -118,10 +118,13 @@ Annual production exceeds 1 million tonnes, with Argentina producing ~60%, follo
 
 ## See Also
 
+- [[ilex-opaca]]
+- [[ilex-aquifolium]]
+
 - [[camellia-sinensis-entity]]
 
 - [[ilex-guayusa]]
 
-- [[theobromine]] — secondary stimulant in mate
-- Camellia sinensis — tea, comparative antioxidant profile
+- theobromine — secondary stimulant in mate
+- [[camellia-sinensis-entity]] — tea, comparative antioxidant profile
 - [[paullinia-cupana]] — guarana, another South American caffeine source

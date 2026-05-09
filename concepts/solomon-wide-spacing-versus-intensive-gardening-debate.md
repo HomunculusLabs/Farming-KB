@@ -1,5 +1,5 @@
 ---
-title: "Solomon's Wide-Spacing Versus Intensive Gardening Debate"
+title: "Solomon's Wide-Spacing Versus wide-row-spacing-intensive-gardening-comparison Debate"
 tags:
   - gardening
   - agriculture
@@ -18,7 +18,7 @@ type: concept
 
 # Solomon's Wide-Spacing Versus Intensive Gardening Debate
 
-In his 2005 book *Gardening When It Counts: Growing Food in Hard Times*, Steve Solomon mounts a comprehensive challenge to the intensive raised-bed orthodoxy that has dominated organic gardening since the 1970s. Drawing on decades of personal experience, empirical trial plots, and historical precedent, Solomon argues that close-spacing and intensive bed methods are fundamentally unsustainable for anyone preparing for economic disruption, petroleum scarcity, or water shortage. He advocates instead for wide-spacing row gardening on larger plots — a model he considers genuinely resilient and reproducible without external supply chains.
+In his 2005 book *Gardening When It Counts: Growing Food in Hard Times*, Steve Solomon mounts a comprehensive challenge to the intensive raised-bed orthodoxy that has dominated [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] since the 1970s. Drawing on decades of personal experience, empirical trial plots, and historical precedent, Solomon argues that close-spacing and intensive bed methods are fundamentally unsustainable for anyone preparing for economic disruption, petroleum scarcity, or water shortage. He advocates instead for wide-spacing row gardening on larger plots — a model he considers genuinely resilient and reproducible without external supply chains.
 
 ## From Intensive Advocate to Dissident
 
@@ -26,7 +26,7 @@ Solomon's critique carries unusual weight because he was once a leading proponen
 
 ## The Jeavons Versus Solomon Divide
 
-The disagreement between John Jeavons and Steve Solomon represents one of the most significant fault lines in organic gardening thought. Jeavons, founder of Ecology Action and author of *How to Grow More Vegetables*, argues that maximizing yield per square foot through intensive spacing is essential because it minimizes the land area required to feed a person. His biointensive method aims to grow a complete diet in as little as 4,000 square feet.
+The disagreement between John Jeavons and Steve Solomon represents one of the most significant fault lines in organic gardening thought. Jeavons, founder of Ecology Action and author of *How to Grow More Vegetables*, argues that maximizing yield per square foot through intensive spacing is essential because it minimizes the land area required to feed a person. His [[jeavons-grow-biointensive-method-overview]] aims to grow a complete diet in as little as 4,000 square feet.
 
 Solomon counters that this goal, while theoretically appealing, ignores the real-world costs of achieving those yields. The biointensive method requires enormous labor in bed preparation and compost production, and it demands levels of soil fertility that cannot be sustained without off-site inputs. Solomon's wide-spacing approach requires roughly 5,000 to 10,000 square feet per person but achieves those yields with a fraction of the labor and input costs. For gardeners with access to sufficient land, Solomon considers his approach overwhelmingly more practical.
 
@@ -40,7 +40,7 @@ When petroleum becomes expensive or scarce, the entire logistics chain supportin
 
 ## Complete Organic Fertilizer as a Middle Path
 
-Rather than abandon fertility management entirely, Solomon developed his [[composting-science-solomon|composting science]] for Solomon's detailed comparison of COF against compost-centric approaches, including the nutrient analysis that demonstrates COF's superiority for row-crop vegetable production.
+Rather than abandon fertility management entirely, Solomon developed his [[composting-science-solomon|composting science]] for Solomon's detailed comparison of COF against compost-centric approaches, including the nutrient analysis that demonstrates COF's superiority for row-crop [[dry-gardening-unirrigated-vegetable-production-solomon]].
 
 ## Dry Gardening Without Irrigation
 
@@ -52,7 +52,7 @@ The wide-spacing model, by contrast, decouples food production from water infras
 
 ## Ley Rotation and Long-Term Soil Health
 
-Solomon advocates a ley rotation system as the foundation of sustainable, low-input soil management. In this approach, a portion of the garden is taken out of vegetable production each year and planted to a grass and clover mix for three to five years. The deep-rooted grasses and nitrogen-fixing clovers restore soil organic matter, improve soil structure through root penetration and subsequent decomposition, break pest and disease cycles by removing host plants, and rebuild the soil microbiome far more effectively than any amount of surface-applied compost.
+Solomon advocates a ley rotation system as the foundation of sustainable, low-input soil management. In this approach, a portion of the garden is taken out of vegetable production each year and planted to a grass and clover mix for three to five years. The deep-rooted grasses and nitrogen-fixing clovers restore soil organic matter, improve soil structure through root penetration and subsequent decomposition, break [[hamilton-pest-and-disease-control-organic]] cycles by removing host plants, and rebuild the soil microbiome far more effectively than any amount of surface-applied compost.
 
 After the fallow period, the sod is converted back to vegetable production and another section of the garden enters the rotation. This system requires sufficient total garden area — typically at least 2,700 square feet per household — but it produces genuine self-renewing fertility without imported inputs. The ley rotation is the historical method that preceded modern composting, and Solomon considers it far more effective for maintaining long-term soil health than attempting to manufacture fertility through compost piles.
 
@@ -68,7 +68,7 @@ See [[seed-quality-and-selection-solomon|seed quality and selection]] for Solomo
 
 ## Implications for Hard Times
 
-Solomon's ultimate argument is pragmatic rather than ideological. He does not claim that intensive methods never work — they can produce impressive yields under optimal conditions with abundant inputs and reliable irrigation. His point is that they are fundamentally fragile. When conditions deteriorate, whether through economic collapse, fuel shortages, prolonged drought, or supply chain disruption, the intensive gardener is exposed in ways that the wide-spacing row gardener is not.
+Solomon's ultimate argument is pragmatic rather than ideological. He does not claim that [[row-gardening-vs-intensive-methods-solomon]] never work — they can produce impressive yields under optimal conditions with abundant inputs and reliable irrigation. His point is that they are fundamentally fragile. When conditions deteriorate, whether through economic collapse, fuel shortages, prolonged drought, or supply chain disruption, the intensive gardener is exposed in ways that the wide-spacing row gardener is not.
 
 The wide-spacing model trades theoretical maximum yield per square foot for robustness, lower input requirements, and the ability to produce food without irrigation or imported fertility. It requires more total land area, but it requires far less labor per unit of food produced and far fewer external dependencies. For gardeners preparing for genuine uncertainty, Solomon argues, this trade-off is not merely reasonable — it is essential.
 
@@ -78,3 +78,8 @@ Solomon's [[intensive-gardening-critique-solomon|Intensive Gardening Critique]]
 - [[complete-organic-fertilizer-recipes|Complete Organic Fertilizer Recipes]]
 - [[potato-growing-guide-solomon|Potato Growing Guide]]
 - [[garden-hand-tools-solomon|Garden Hand Tools]]
+
+## See Also
+
+- [[wide-spacing-dry-gardening-low-irrigation-solomon]]
+- [[wide-row-spacing-intensive-gardening-comparison]]

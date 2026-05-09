@@ -1,11 +1,12 @@
 ---
-title: Desert Reclamation Projects
+title: fukuoka desert reclamation projects Projects
 created: 2026-04-18
 updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Desert Reclamation Projects
@@ -26,15 +27,15 @@ Fukuoka proposed using his [[fukuoka-natures-self-organizing-principles]] to det
 
 ## The Green Belt Vision
 
-Fukuoka's ultimate goal was the creation of green belts -- continuous bands of vegetation -- around the world's deserts. These green belts would serve multiple purposes:
+Fukuoka's ultimate goal was the creation of green belts -- continuous bands of vegetation -- [[fungi-around-the-world-species-distribution]]'s deserts. These green belts would serve multiple purposes:
 
 - Preventing further desert expansion by stabilizing soil and moderating local climate
 
-- Providing food, fuel, and building materials for local communities
+- Providing food, fuel, and [[natural-building-materials-guide]] for local communities
 
 - Restoring biodiversity by creating habitat for plants, animals, and microorganisms
 
-- Sequestering carbon and helping to address climate change
+- Sequestering carbon and helping to address [[dighton-fungi-climate-change-feedback]]
 
 He estimated that the cost of establishing green belts using his method would be a fraction of the cost of conventional desert reclamation. The key was to work with nature's own processes rather than trying to engineer solutions through technology.
 
@@ -73,7 +74,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +116,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

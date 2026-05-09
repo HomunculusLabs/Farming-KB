@@ -1,5 +1,5 @@
 ---
-title: Endorhiza Bacterial Communities
+title: core-endorhiza-bacterial-community-composition-cannabis Communities
 created: 2026-04-28
 tags: [microbiome, plant-biology, endophytes]
 date: 2026-04-28
@@ -14,7 +14,7 @@ type: concept
 ## Overview
 
 The endorhiza refers to bacteria that have colonized root tissue, also known as
-root endophytes or the root endosphere. Unlike rhizosphere bacteria that inhabit
+root endophytes or the root endosphere. Unlike [[lowenfels-rhizosphere-bacteria-plant-interaction]] that inhabit
 the soil zone surrounding roots, endorhiza bacteria live within the root itself.
 In the Cannabis microbiome study by Winston et al. (2014), the endorhiza was
 the compartment showing the strongest cultivar-specificity and the most
@@ -35,14 +35,14 @@ in regulating growth and metabolism. Specific documented functions include:
 - **Phytotoxic tolerance**: Endorhiza bacteria assist their host plants in
   tolerating the phytotoxic effects of environmental toxicants, including
   heavy metals, organic pollutants, and other stress compounds.
-- **Nitrogen fixation**: Some endorhiza members, particularly within
+- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]**: Some endorhiza members, particularly within
   Rhizobiales, contribute to nitrogen availability for the host plant.
 
 ## Plant-Specificity of Endorhiza Communities
 
 Endorhiza communities tend to be more plant-specific than rhizosphere
 communities. They are often shaped by the compounds or proteins produced by
-their host plant, including root exudates, secondary metabolites, and surface
+their host plant, including root exudates, [[antifungal-secondary-metabolites-coprophilous-fungi]], and surface
 lectins. This specificity was strongly supported in the Cannabis study:
 
 - Endorhiza samples formed significantly distinct clusters from rhizosphere
@@ -66,7 +66,7 @@ or soil type:
 - **Xanthomonadaceae** (Gammaproteobacteria): Root colonizers found in
   diverse plant hosts.
 - **Actinomycetales** (Actinobacteria): Important for decomposition and
-  production of bioactive compounds.
+  production of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]].
 - **Sphingobacteriales** (Bacteroidetes): Root-associated bacteria found in
   many plant microbiome studies, including poplar endophyte communities.
 
@@ -110,7 +110,7 @@ endorhiza.
 
 ## Soil Origin of Endorhiza Microbes
 
-The endorhiza microbiome is not randomly assembled but is derived from the
+The [[cannabinoid-concentration-endorhiza-microbiome-correlation-cannabis]] is not randomly assembled but is derived from the
 surrounding soil. Endorhiza communities shared significantly more OTUs with
 their own bulk soil (mean = 2934) than with a different soil in which the same
 strain was grown (mean = 2162), t = -10.05, p = 1.209e-15. This confirms the

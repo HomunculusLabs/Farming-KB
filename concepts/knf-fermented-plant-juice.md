@@ -1,5 +1,5 @@
 ---
-title: KNF Fermented Plant Juice
+title: KNF bionutrients-lab-fermented-plant-juice-fpj
 created: 2026-04-28
 tags: [knf, fermented-plant-juice, natural-farming, korean-farming, fertilizers]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: concept
 
 # KNF Fermented Plant Juice
 
-Fermented Plant Juice (FPJ) is a cornerstone input of Korean Natural
+Fermented Plant Juice (FPJ) is a cornerstone input of [[query-jadam-vs-korean-natural-farming]]
 Farming (KNF), developed by [[acacia]] flowers (Robinia pseudoacacia): promote flower bud
   formation and increase sugar content.
 
@@ -54,21 +54,21 @@ near roads.
 Add more brown sugar if FPJ is not used immediately. Store in clay
 jars, glass bottles (brown glass to block sunlight), or containers made
 from Japanese cedar. Bury the container or keep in a cool storehouse.
-FPJ is typically diluted at a ratio of 1:500 for foliar application or
+FPJ is typically diluted at a ratio of 1:500 for [[ultra-low-cost-foliar-application-methods]] or
 soil drenching. Fruit enzyme (FPJ from ripe fruits) is best applied to
 plants in their late reproductive period after maturing for one year.
 FPJ from the same crop species can be used as a crop-specific
-nutritional boost throughout the growing season.
+nutritional boost throughout the [[savory-growing-season-and-non-growing-season-management]].
 
 ## See Also
 
 - [[master-cho-knf-fpj-fermented-plant-juice-guide]]
 - [[korean-natural-farming]] IMO for the foundational microbial input
   used alongside FPJ in the KNF system
-- knf lab preparation for setting up a natural farming input
+- knf lab preparation for setting up a [[comparison-natural-farming-vs-permaculture]] input
   production workspace
 - [[jadam-uls-technology]] for another Korean approach to ultra-low-
-  cost farming inputs
+  cost [[natural-farming-inputs-cho]]
 ## Practical Considerations
 
 Successful implementation of KNF Fermented Plant Juice requires attention to
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

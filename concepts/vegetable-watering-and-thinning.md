@@ -16,10 +16,10 @@ Consistent watering and correct spacing are essential for producing
 high-quality vegetables.
 
 Related: [[vegetable-weed-control-and-mulching]],
-[[vegetable-weed-control-and-mulching]] — Mulching and weed control
-- [[garden-location-and-soil-preparation]] — Site selection and soil
+[[vegetable-weed-control-and-mulching]] — [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]] control
+- [[garden-location-and-soil-preparation]] — [[fukuoka-creating-natural-farm-site-selection-establishment]] and soil
   preparation
-- [[vegetable-garden-guide]] — Comprehensive vegetable gardening
+- [[vegetable-garden-guide]] — Comprehensive [[home-vegetable-garden-planning]]
   reference
 ## Practical Applications
 
@@ -98,4 +98,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

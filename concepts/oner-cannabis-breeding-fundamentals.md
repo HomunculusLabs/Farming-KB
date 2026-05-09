@@ -140,3 +140,10 @@ conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
 
+## Merged: Notable Sativa-Dominant Strain Profiles
+
+# Notable Sativa-Dominant Strain Profiles
+
+**Source:** S.T. Oner (ed.) — *[[cannabis-sativa]] Vol. 3* (Green Candy Press, 2014)
+
+---

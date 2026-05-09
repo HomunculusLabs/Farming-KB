@@ -13,7 +13,7 @@ updated: 2026-05-08
 sources:
   - Moberg, R. & Carlin, G. (1993). "Physcia." In: Purvis, O.W. et al. (eds), The Lichen Flora of Great Britain and Ireland. London: Natural History Museum.
   - Nimis, P.L. & Martellos, S. (2008). ITALIC - The Information System on Italian Lichens. University of Trieste.
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of North America. Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of [[psilocybin-north-america-pacific-northwest]]. Yale University Press.
   - Lücking, R. (1999). "Ecology of foliicolous lichens at the 'Botanische Garten' in Zürich." Bibliotheca Lichenologica, 74, 1-260.
   - Nash III, T.H. (2008). Lichen Biology (2nd ed.). Cambridge University Press.
 ---
@@ -29,7 +29,7 @@ suburban environments.
 The species is named for its characteristic maculate thallus surface,
 which bears scattered white punctate markings resembling hammer
 indentations. It is moderately pollution-tolerant and serves as a
-bioindicator for intermediate air quality conditions.
+bioindicator for intermediate [[cervantes-air-quality-ventilation]] conditions.
 
 ## Taxonomy and Morphology
 
@@ -56,7 +56,7 @@ margin that becomes excluded with age. Spores are brown, 2-celled
 
 ## Distribution and Habitat
 
-*Physcia aipolia* has a cosmopolitan temperate distribution, occurring
+*Physcia aipolia* has a cosmopolitan [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]], occurring
 across Europe, North America, eastern Asia, and parts of the Southern
 Hemisphere. In Europe it is one of the most common foliose lichens on
 tree bark.
@@ -96,11 +96,11 @@ Apothecia are uncommon but when present are 1–3 mm diameter, with a black disc
 
 ## Distribution and Habitat
 
-*Physcia stellaris* has a nearly cosmopolitan distribution in temperate regions, occurring across Europe, North America, temperate Asia, and parts of the Southern Hemisphere. It is particularly abundant in lowland and urban environments.
+*Physcia stellaris* has a nearly cosmopolitan distribution in temperate regions, occurring across Europe, North America, temperate Asia, and parts of the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]. It is particularly abundant in lowland and urban environments.
 
 The species is an epiphyte found on the bark of a wide range of deciduous and coniferous trees, including oak, elm, maple, ash, and fruit trees. It also colonizes wooden fence posts, gravestones, and shaded rock surfaces in nutrient-enriched environments.
 
-*P. stellaris* is notable for its tolerance of moderate air pollution, including elevated nitrogen deposition. It thrives in urban parks, gardens, roadside trees, and agricultural hedgerows where more pollution-sensitive lichens cannot survive.
+*P. stellaris* is notable for its tolerance of moderate air pollution, including elevated [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]. It thrives in urban parks, gardens, roadside trees, and agricultural hedgerows where more pollution-sensitive lichens cannot survive.
 
 The species prefers well-lit to moderately shaded situations with moderate moisture. It is less common in dense forests with closed canopies, where it is outcompeted by shade-tolerant foliose and fruticose lichens.
 
@@ -108,7 +108,7 @@ The species prefers well-lit to moderately shaded situations with moderate moist
 
 *Physcia stellaris* contains atranorin in the cortex and zeorin in the medulla. The cortex gives a K+ yellow reaction due to atranorin, while the medulla is K–, C–, and P– (negative for all spot tests).
 
-The chemistry is relatively simple compared to many other foliose lichens. Some populations contain trace amounts of physodic acid or other secondary metabolites, but these are not consistent enough for chemotaxonomic purposes.
+The chemistry is relatively simple compared to many other foliose lichens. Some populations contain trace amounts of physodic acid or other [[antifungal-secondary-metabolites-coprophilous-fungi]], but these are not consistent enough for chemotaxonomic purposes.
 
 The species has been investigated for its ability to accumulate heavy metals from the atmosphere, making it a useful biomonitor for urban air quality studies. Lead, zinc, and cadmium concentrations in *P. stellaris* thalli correlate with local deposition levels.
 

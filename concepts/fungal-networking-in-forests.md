@@ -3,14 +3,14 @@ title: Fungal Networking in Forests
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "Stamets - Mycelium Running"
+  - "Stamets - woodlovers-mycelium-running-pathway-technique"
 type: concept
 tags: [forest-garden, fungi]
 ---
 
 # Fungal Networking in Forests
 
-Fungal networking in forests refers to the vast underground systems of mycelial connections that link trees, plants, and soil organisms into integrated communities. These networks -- sometimes called the "wood wide web" -- enable resource sharing, chemical signaling, and coordinated responses across entire forest ecosystems.
+Fungal networking in forests refers to the vast underground systems of mycelial connections that link trees, plants, and soil organisms into integrated communities. These networks -- sometimes called the "wood wide web" -- enable [[mycelial-network-resource-sharing-plants]], [[plant-hormones-and-chemical-signaling-systems]], and coordinated responses across entire forest ecosystems.
 
 Paul Stamets describes mycelium as "Nature's Internet," a biological network predating any human communication technology by hundreds of millions of years. He sees mycelium as the living network that manifests the natural intelligence imagined by Gaia theorists.
 
@@ -29,7 +29,7 @@ The classic cap and stem mushrooms common today are descendants of varieties tha
 
 ## Network Architecture
 
-The mycelial network is composed of a membrane of interweaving, continuously branching cell chains, only one cell wall thick:
+The [[gadd-mycelial-network-dynamics]] is composed of a membrane of interweaving, continuously branching cell chains, only one cell wall thick:
 
 - **Hyphal networks**: Thread-like cells branching repeatedly, exploring the soil volume
 - **Rhizomorphs**: Thick, root-like bundles for long-distance transport of water and nutrients
@@ -37,7 +37,7 @@ The mycelial network is composed of a membrane of interweaving, continuously bra
 - **Extramatrical mycelium**: Networks extending beyond root zones into bulk soil
 - **Clamp connections**: Specialized structures facilitating cytoplasmic streaming between hyphae
 
-The architecture parallels both neural networks in brains and the Internet. Stamets notes that mycelial networks share the same fundamental structure as neural networking -- pathways for distributing information through branching, interconnected nodes.
+The architecture parallels both neural networks in brains and the Internet. Stamets notes that [[fungal-mycelial-networks-nutrient-translocation]] share the same fundamental structure as neural networking -- pathways for distributing information through branching, interconnected nodes.
 
 ## Resource Sharing Between Trees
 
@@ -60,7 +60,7 @@ Stamets describes mycelium as an "exposed sentient membrane, aware and responsiv
 - Organisms moving across the network leave impressions mycelia sense and respond to
 - Chemical signals can travel between connected plants through the mycelial web
 - Stressed plants may trigger defensive responses in neighbors through fungal connections
-- The network actively shapes its microbial community composition
+- The network actively shapes its microbial [[core-endorhiza-bacterial-community-composition-cannabis]]
 - A complex and resourceful structure for sharing and processing information
 
 ## Ecological Intelligence
@@ -106,7 +106,7 @@ Deforestation causes a rise in saprophytes and a decline in mycorrhizal mushroom
 - Seedlings from nursery soils typically lack mycorrhizae
 
 [[mycoforestry-spored-oil-techniques]] in chain saws for immediate inoculation
-- [[mushroom-highways]] -- nutrient transport along mycelial pathways
+- mushroom-highways -- nutrient transport along mycelial pathways
 - [[mycorrhizal-networks]] -- the science of underground fungal connections
 - [[decomposer-fungi-succession]] -- how network composition changes over time
-- [[old-growth-forest-fungi-conservation]] -- protecting ancient fungal networks
+- old-growth-forest-fungi-conservation -- protecting ancient fungal networks

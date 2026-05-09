@@ -22,7 +22,7 @@ sources:
 ## Overview
 
 **Pleurotin** is a yellow crystalline sesquiterpene quinone antibiotic produced by the
-oyster mushroom *Pleurotus griseus* and related basidiomycete fungi.
+[[cotter-oyster-mushroom-cultivation]] *Pleurotus griseus* and related [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]].
 
 First isolated in 1948 from *Pleurotus griseus* cultures, pleurotin was among the
 earliest fungal-derived antibiotics discovered and represents a structurally unique
@@ -56,7 +56,7 @@ homeostasis.
 
 - **IC₅₀ against purified TrxR:** ~0.3–1.2 µM (species-dependent)
 - **Selectivity index:** Cancer cells show 5–15× greater sensitivity than non-malignant
-  cells, attributed to elevated oxidative stress in tumor microenvironments
+  cells, attributed to elevated [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in tumor microenvironments
 - **Antibacterial MIC:** 2–8 µg/mL against *Staphylococcus aureus*, *Bacillus subtilis*;
   inactive against Gram-negative organisms at concentrations up to 64 µg/mL
 
@@ -90,8 +90,8 @@ heterologous expression studies in *Aspergillus oryzae* that increased titers to
 
 - **Acute toxicity (mouse, i.p.):** LD₅₀ approximately 45 mg/kg
 - **Cytotoxicity against non-malignant cell lines:** CC₅₀ ~15–30 µM
-- ⚠️ **Not approved for human use** — pleurotin remains a research compound
-  with no established therapeutic dosage or safety profile
+- ⚠️ **Not approved for human use** — pleurotin remains a [[fungal-research-compound-reference]]
+  with no established therapeutic dosage or [[cannabis-safety-profile-and-overdose-risk]]
 
 The reactive spiro-cyclopropane ring contributes to both its pharmacological activity
 and its potential off-target toxicity, making selectivity a key concern for
@@ -120,7 +120,7 @@ system biology rather than as a drug candidate.
 - **Illudin S and M** — Structurally related sesquiterpene quinones from *Omphalotus
   illudens*, sharing the spiro-cyclopropane pharmacophore with greater cytotoxicity
 - **Irofulven (6-hydroxymethylacylfulvene)** — Semi-synthetic illudin derivative
-  that reached Phase II clinical trials for prostate and ovarian cancer
+  that reached Phase II [[mushroom-cancer-clinical-trials-overview]] for prostate and ovarian cancer
 - **Pleurotinic acid** — Oxidized metabolite with reduced TrxR inhibition but
   retained antibacterial properties
 

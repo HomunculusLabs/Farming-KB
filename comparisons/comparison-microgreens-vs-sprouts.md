@@ -46,7 +46,7 @@ type: comparison
 1. **Sow** untreated seeds densely on pre-moistened medium in shallow trays.
 2. **Cover** for 2–4 days (blackout period) to encourage root establishment.
 3. **Expose** to light — plants green up within 24–48 hours.
-4. **Water** from below 1–2× daily; avoid overhead watering to prevent mold.
+4. **Water** from below 1–2× daily; avoid overhead watering to [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]].
 5. **Harvest** by cutting stems just above the medium at 1–3 inches tall when first true leaves appear.
 6. **Refrigerate** immediately; use within 5–14 days.
 
@@ -77,10 +77,10 @@ type: comparison
 **Sprouts carry documented foodborne illness risk.** The warm, moist conditions required for sprouting are ideal for E. coli and Salmonella. Major outbreaks have been linked to commercial sprouts. The FDA categorizes sprouts as high-risk food.
 
 - Use only pathogen-tested seeds labeled for sprouting
-- Sanitize equipment between batches; pre-soak seeds in 3% hydrogen peroxide
+- Sanitize equipment between batches; pre-soak seeds in 3% [[cervantes-hydrogen-peroxide-sterilization]]
 - Vulnerable populations (pregnant, elderly, immunocompromised) should avoid raw sprouts
 
-**Microgreens are considerably safer.** Growing in well-draining medium with light and air circulation creates conditions far less hospitable to pathogens. The seed itself is not consumed, further reducing risk.
+**Microgreens are considerably safer.** Growing in well-draining medium with light and [[stamets-growing-room-air-circulation-co2-management]] creates conditions far less hospitable to pathogens. The seed itself is not consumed, further reducing risk.
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Beta-Glucan Receptor Binding and Immune Cell Activation
+title: Beta-Glucan tihkal-receptor-binding-serotonin and mushroom-immune-cell-activation-mechanisms Activation
 created: 2026-04-13
 updated: 2026-04-15
 type: concept
@@ -34,12 +34,12 @@ Upon beta-glucan binding to CR3, multiple immune pathways are activated:
 
 ## NF-kappaB Signaling
 
-Ligand binding to the (1->3)-beta-D-glucan receptor stimulates NF-kappaB activation in U937 cells, but does not induce apoptosis. This suggests the beta-glucan/CR3 interaction promotes pro-inflammatory gene expression and survival signalling rather than cell death in immune cells. The NF-kappaB pathway is a master regulator of immune and inflammatory responses, and its activation by beta-glucans helps explain the broad immune-enhancing effects of medicinal mushroom preparations.
+Ligand binding to the (1->3)-beta-D-glucan receptor stimulates NF-kappaB activation in U937 cells, but does not induce apoptosis. This suggests the beta-glucan/CR3 interaction promotes pro-inflammatory gene expression and survival signalling rather than cell death in immune cells. The NF-kappaB pathway is a master regulator of immune and inflammatory responses, and its activation by beta-glucans helps explain the broad immune-enhancing effects of [[gourmet-medicinal-mushroom-casing-layer-techniques]] preparations.
 
 ## Macrophage Activation Pathways
 
 Beta-glucan binding to CR3 on macrophages triggers:
-- Increased production of reactive nitrogen intermediates (nitric oxide)
+- [[fukuoka-textdoc-increased-production-not-increased-yields]] of reactive nitrogen intermediates (nitric oxide)
 - Increased reactive oxygen intermediates (superoxide anions)
 - Increased TNF production
 - Enhanced phagocytic activity and phagocytic index
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

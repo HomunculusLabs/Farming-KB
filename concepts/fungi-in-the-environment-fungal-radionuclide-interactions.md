@@ -1,5 +1,5 @@
 ---
-title: Fungal Interactions with Radionuclides
+title: singh-fungal-interactions-with-heavy-metals-in-soil with Radionuclides
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
@@ -38,18 +38,18 @@ nuclear waste storage facilities.
 
 ### Role in Soil and Rock Systems
 
-Fungal communities are ubiquitous in geological environments and play
-important roles in nutrient, metal, and carbon cycling. These same
+[[biodiversity-of-fungi-soil-fungal-communities-agriculture]] are ubiquitous in geological environments and play
+important [[dighton-fungal-roles-in-nutrient-cycling]], metal, and carbon cycling. These same
 communities interact with radionuclides deposited in soils through
 atmospheric fallout, nuclear accidents, or waste disposal. Lithic fungal
 communities found in diverse environments from Antarctic dry valleys to
-deep subsurface rock formations demonstrate the pervasiveness of fungi in
+[[fungal-biodiversity-deep-subsurface-caves]] rock formations demonstrate the pervasiveness of fungi in
 geological substrates that may contain radionuclides.
 
 The fungal filamentous growth form is an extremely biogeochemically active
 mode of exploration, enabling fungi to penetrate rock matrices, weather
 minerals, and interact with radionuclides bound within mineral structures.
-Through heterotrophic leaching with organic acids, fungi can mobilize
+Through [[staycare-fungal-heterotrophic-leaching-biosorption]] with organic acids, fungi can mobilize
 radionuclides from mineral phases into more bioavailable forms.
 
 ### Lichen Radionuclide Retention
@@ -59,12 +59,12 @@ cesium-137 and strontium-90 from atmospheric nuclear testing and accidents.
 Their capacity for long-term retention of radionuclides makes them both
 bioindicators of radioactive contamination and persistent reservoirs in
 terrestrial ecosystems. The fungal partner (mycobiont) is primarily
-responsible for radionuclide accumulation within the lichen thallus.
+responsible for [[dighton-fungal-radionuclide-accumulation-ecosystem-retention]] within the lichen thallus.
 
 ## Implications for Bioremediation
 
 The same mechanisms that make fungi concerns for nuclear waste containment
-also suggest their potential for [[fungi-in-the-environment-metal-transformations]]
+also suggest their potential for fungi-in-the-environment-metal-transformations
 - [[fungi-in-the-environment-bioremediation-applications]]
 - [[fungi-in-the-environment-lichen-biology]]
 ## Practical Considerations
@@ -86,3 +86,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[fungi-vertebrate-interactions-commensal-pathogenic]]

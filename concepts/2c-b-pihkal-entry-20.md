@@ -1,5 +1,5 @@
 ---
-title: 2C-B - PIHKAL Entry #20 Compound Profile
+title: 2C-B - 2c b pihkal entry 20 #20 Compound Profile
 created: 2026-04-26
 updated: 2026-04-22
 sources: PIHKAL Entry #20
@@ -64,7 +64,7 @@ Many reports mention the [MDMA and 2C-B combination. The most successful protoco
 
 ### Key Characteristics
 1. Steep dose-response curve -- small increments produce large effect changes
-2. Short duration compared to other major psychedelics (4-8 hours)
+2. [[savory-short-duration-grazing-and-cell-systems]] compared to other major psychedelics (4-8 hours)
 3. Strongly erotic and body-positive character
 4. Visual richness without the intensity of classical psychedelics
 5. Generally positive reports, though some users who prefer dissociative experiences (e.g., ketamine) find 2C-B uncomfortable in its corporeal focus
@@ -108,7 +108,7 @@ Based on hundreds of reports collected by Shulgin, the generalized spectrum of 2
 
 ## Historical Significance
 
-2C-B occupies an important position in the history of psychedelic research. Originally explored in the 1970s-1980s as part of Shulgin's systematic investigation of phenethylamines, it gained widespread popularity in the 1990s and 2000s as a club drug and therapeutic tool. Its reputation for combining psychedelic visuals with empathogenic and erotic qualities made it uniquely popular.
+2C-B occupies an important position in the history of [[mckenna-suppression-psychedelic-research-lsd-therapy]]. Originally explored in the 1970s-1980s as part of Shulgin's systematic investigation of phenethylamines, it gained widespread popularity in the 1990s and 2000s as a club drug and therapeutic tool. Its reputation for combining psychedelic visuals with empathogenic and erotic qualities made it uniquely popular.
 
 The compound was briefly sold legally in several countries before being scheduled. It has been used in psychotherapeutic settings, particularly in combination with [MDMA, as noted in the [MDMA guide and [MDMA in PIHKAL context.
 
@@ -128,6 +128,6 @@ The compound was briefly sold legally in several countries before being schedule
 - The compound has demonstrated physical safety even at extreme overdoses (64 mg, 100 mg), but psychological distress at high doses is significant.
 - The 2C-B/[MDMA combination is popular but should be approached with caution -- timing is critical.
 - See [harm reduction guide for general principles.
-- The [set and setting framework is essential for optimal outcomes.
+- The [[lsd-set-and-setting-framework]] framework is essential for optimal outcomes.
 - See [legal context for jurisdictional status.
 - The [[turner-2cb-erotic-empathogen]] pages provide additional user-oriented information.

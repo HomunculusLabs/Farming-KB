@@ -1,5 +1,5 @@
 ---
-title: Stock Density Versus Stocking Rate
+title: savory-fencing-economics-and-stock-density-curve Versus Stocking Rate
 created: 2026-04-26
 aliases: [stock density, stocking rate, carrying capacity, animal
           concentration, grazing pressure]
@@ -18,7 +18,7 @@ type: concept
 # Stock Density Versus Stocking Rate
 
 The distinction between stock density and stocking rate is one of the
-most important and least appreciated concepts in Holistic Resource
+most important and least appreciated concepts in [[savory-holistic-resource-management-animal-impact]]
 Management. Confusion between these two fundamentally different measures
 has led to decades of misguided policy and land degradation worldwide.
 Understanding the difference is essential for anyone seeking to manage
@@ -32,7 +32,7 @@ animal units per section, hectare, or acre on an annual basis. It is a
 long-term, average measure that tells you how many animals the land can
 carry through the year.
 
-Conventional range management has historically focused almost entirely
+Conventional [[mollison-pdc-range-management-wildlife]] has historically focused almost entirely
 on stocking rate as the primary management variable. The standard
 recommendation has been to calculate a "proper" stocking rate based on
 estimated carrying capacity and then adjust animal numbers up or down
@@ -92,7 +92,7 @@ extensive field observations. On rangelands across Africa, the Americas,
 and the Middle East, he never saw prolonged land deterioration caused by
 overstocking. Almost all sites commonly called overstocked did contain
 overgrazed plants, but virtually always also contained a significant
-quantity of overrested plants along with bare ground from partial rest.
+quantity of overrested plants along with [[savory-bare-ground-and-soil-exposure]] from [[savory-partial-rest-and-algal-crusts]].
 
 The presence of overrested plants belies the description "overstocked"
 altogether. The blame for deterioration always fell on animal numbers,
@@ -126,9 +126,11 @@ improved mineral cycling.
 The economic implication is profound: land productivity is not a fixed
 quantity determined by carrying capacity. It can be increased through
 management that addresses the time dimension and maintains all four
-ecosystem processes at high function.
+[[fungal-ecosystem-processes-overview]] at high function.
 
 ## See Also
+
+- [[savory-fencing-economics-and-stock-density-curve]]
 
 - [[savory-livestock-grazing-planning]] for practical planning procedures
 - [[savory-overgrazing-vs-overrest]] for why numbers alone do not

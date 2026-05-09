@@ -1,7 +1,7 @@
 ---
-title: How Do I Choose Between Straw Bale and Earthbag Construction?
+title: How Do I Choose Between comparison-cob-construction-vs-straw-bale-construction and comparison-earthbag-construction-vs-cob-construction?
 created: 2026-04-28
-subtitle: An FAQ for matching natural building wall systems to climate, budget, labor, and building use
+subtitle: An FAQ for matching [[query-how-do-i-choose-a-natural-building-method-for-my-climate]] wall systems to climate, budget, labor, and building use
 tags: [query, natural-building, straw-bale, earthbag, homesteading, owner-builder]
 date: 2026-05-02
 updated: 2026-05-02
@@ -60,10 +60,10 @@ The hard part is moisture-safe detailing and high-quality plaster.
 Earthbag is conceptually simple but physically demanding.
 The hard part is moving soil, tamping consistently, keeping walls aligned, and handling openings or domes correctly.
 Small test buildings are useful for both systems.
-A shed, garden wall, root cellar, or studio can reveal whether the method suits your body, crew, and site.
+A shed, garden wall, [[comparison-root-cellar-vs-ice-house]], or studio can reveal whether the method suits your body, crew, and site.
 ## Which is better for fire resistance?
 Earthbag has the advantage because earth-filled walls are noncombustible.
-Straw bale walls can also be very fire resistant when tightly plastered because the straw core has little oxygen.
+Straw bale walls can also be very [[mollison-designers-fire-resistant-landscape-design]] when tightly plastered because the straw core has little oxygen.
 The risk in straw bale is not that finished walls burn like loose straw; the risk is poor detailing, exposed straw, or damaged plaster.
 In wildfire-prone areas, roof materials, vents, decks, windows, and defensible space may matter as much as wall choice.
 Still, earthbag is the more inherently fireproof wall core.
@@ -76,7 +76,7 @@ A hybrid design might use earthbags for the root cellar and straw bale for a dry
 Straw bale can be excellent for the insulated shell of a passive solar house.
 It should be paired with interior thermal mass such as an earthen floor, masonry heater, stone wall, or water storage.
 Earthbag can provide the mass component but may need added insulation on the exterior side in cold regions.
-The design goal is to put insulation where it stops unwanted heat flow and mass where it can interact with interior sun and heat.
+The [[cervantes-breeding-program-design-goal-setting]] is to put insulation where it stops unwanted heat flow and mass where it can interact with interior sun and heat.
 ## What are the biggest mistakes?
 The biggest straw bale mistake is letting water reach and remain in the bales.
 Other straw bale mistakes include using hay, using moldy bales, plastering wet walls, and omitting overhangs.

@@ -17,10 +17,11 @@ type: concept
 The Oomycota (oomycetes) and related heterotrophic
 straminipiles were long classified as fungi based on their
 filamentous growth habit and ecological roles as decomposers
-and snow mold fungi. Molecular phylogenetics has revealed,
+and snow [[snow-mold-fungi-cold-temperature-plant-pathogens]]. Molecular phylogenetics has revealed,
 however, that these organisms belong to the Kingdom
 Straminipila (also known as Chromista or Heterokonta), a
 major eukaryotic lineage distinct from the Kingdom [[mycology]].
+
 ## The Straminipila
 The Straminipila includes certain algae (Phaeophyceae -- brown
 algae, diatoms, golden-brown algae, chrysophytes) and a group
@@ -29,6 +30,7 @@ of heterotrophs that previously was classified in the fungi
 kingdom name "Straminipila" has not been formally described
 but is commonly recognized. Various names have been applied
 in conflicting ways, including Chromista and Heterokonta.
+
 ## Defining Characteristics
 The Phaeophyta, Oomycota, and other straminipiles are
 characterized by:
@@ -39,10 +41,11 @@ characterized by:
   of the group, also found as ornamentation on certain
   zoospore cyst walls
 - **Chlorophylls a and c** -- in photosynthetic members
-- **Cell wall composition** -- cellulose rather than chitin,
+- **[[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] composition** -- cellulose rather than chitin,
   distinguishing straminipiles from true fungi
 In some instances the smooth flagellum or even both flagella
 have been lost evolutionarily.
+
 ## Separation from True Fungi
 The separation of oomycetes from the Kingdom Fungi was
 confirmed by molecular characters including ribosomal DNA
@@ -59,6 +62,7 @@ straminipiles from true fungi, including:
   diaminopimelate pathway versus the alpha-aminoadipate
   [[ascomycota-phylogeny-major-classes-lineages]]
 - [[chytrid-phylogeny-zoospore-diversity-basal-fungi]]
+
 ## Practical Considerations
 
 Successful implementation of Oomycete Phylogeny and Straminipile Relationships requires attention to
@@ -77,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

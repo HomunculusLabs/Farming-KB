@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [conference, permaculture, science, philosophy, natural-farming]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
@@ -21,7 +22,7 @@ farming. See also [[fukuoka-european-civilization-standstill]].
 The first conference took place at Olympic College in
 Washington, on a campus thickly forested with large trees.
 About 600 participants attended. The opening remarks were
-given by a Native American professor wearing a feather
+given by a [[halpern-sacramental-peyote-and-native-american-church]] professor wearing a feather
 headdress and beautiful ceremonial costume, who asked what
 human knowledge is while making reference to old American
 Indian legends.
@@ -33,11 +34,11 @@ Three main presentations were given:
    allowing farming to be continued permanently on the same
    land in contrast with modern agriculture that exploits
    the soil. He seemed to be raising quite a following of
-   organic farming advocates throughout Australia.
+   [[coleman-deep-organic-farming-philosophy]] advocates throughout Australia.
 
 2. **Wes Jackson** of the University of California promoted
    energy-saving agricultural methods. His main thrust was
-   that unless farming methods which reduce the consumption
+   that unless [[natural-farming-methods-comparison]] which reduce the consumption
    of energy to an absolute minimum are widely adopted,
    farming has no future. He seemed to be searching for new
    methods while remaining basically supportive of science.

@@ -1,9 +1,9 @@
 ---
-title: Greenhouse Cannabis Growing
+title: query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growing Growing
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -12,7 +12,7 @@ tags: [cannabis]
 # Greenhouse Cannabis Growing
 
 Greenhouses offer a middle ground between [[light-schedule-cannabis]]. Greenhouses can
-extend the growing season and enable techniques like [[flowering-phase-cannabis]] during mid-summer by
+[[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season and enable techniques like [[flowering-phase-cannabis]] during mid-summer by
 covering with black plastic for 12 hours daily. This practice allows up to three crops
 per year. When supplementing natural sunlight with artificial light, HID lamps are turned
 on 30 minutes before sunset and off 30 minutes after sunrise. Supplementary lighting
@@ -48,11 +48,11 @@ glass inside the structure and is reusable.
 
 ## Heat Regulation
 
-Regulating heat in a greenhouse is more difficult than in an enclosed grow room.
+Regulating heat in a greenhouse is more difficult than in an enclosed [[cannabis-grow-room-setup]].
 Greenhouses heat up quickly on sunny days and cool rapidly when the sun drops behind
 clouds or below the horizon. Even the best greenhouses lose heat through radiation,
 conduction, and convection through glass, walls, and floor. Ventilation, shade cloth,
-evaporative cooling, and in extreme cases air conditioning are used to manage temperature
+[[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]], and in extreme cases air conditioning are used to manage temperature
 swings.
 
 ### Heating Systems
@@ -84,12 +84,12 @@ greenhouse yourself will be cheaper and more secure than hiring a contractor.
 
 - Free sunlight reduces electricity costs
 - Larger plants can be grown
-- Natural light spectrum is ideal for cannabis
+- Natural [[cannabis-light-spectrum-and-color-bands]] is ideal for cannabis
 - Lower operating costs overall
 
 ## Advantages Over Outdoor Growing
 
-- Environmental control (temperature, humidity, light)
+- [[eclss-environmental-control-life-support]] (temperature, humidity, light)
 - Protection from wind, rain, and pests
 - Extended growing season
 - Ability to manipulate photoperiod

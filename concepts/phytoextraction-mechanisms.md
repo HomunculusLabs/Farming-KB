@@ -11,7 +11,7 @@ sources: []
 
 Phytoextraction is a phytoremediation technology that uses plants to absorb contaminants from soil, concentrate them in aboveground tissues, and remove them from the site through harvest of the contaminated biomass.
 
-This approach is most commonly applied to heavy metal contamination, where certain plant species can accumulate metals at concentrations hundreds or thousands of times higher than normal plants.
+This approach is most commonly applied to [[dighton-fungal-biosorption-heavy-metal-remediation]] contamination, where certain plant species can accumulate metals at concentrations hundreds or thousands of times higher than normal plants.
 
 Phytoextraction is one of the five principal mechanisms of [[rhizofiltration]].
 
@@ -21,7 +21,7 @@ Metal phytoextraction involves a sequence of physiological processes: mobilizati
 
 Each step in this sequence must function efficiently for effective phytoextraction, and the rate-limiting step varies depending on the plant species and the metal involved.
 
-Root exudates including organic acids (citrate, malate, oxalate), amino acids, and phytosiderophores play a critical role in mobilizing metals from the soil matrix into the soil solution where they are available for root uptake.
+[[mycorrhizal-root-exudates-pathogen-interactions]] including organic acids (citrate, malate, oxalate), amino acids, and phytosiderophores play a critical role in mobilizing metals from the soil matrix into the soil solution where they are available for root uptake.
 
 Some hyperaccumulator plants actively acidify their rhizosphere to enhance metal solubility, while others produce metal-chelating compounds that facilitate metal transport to the root surface.
 
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

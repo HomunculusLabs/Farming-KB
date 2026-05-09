@@ -11,9 +11,9 @@ type: concept
 
 # Prehistoric Imagination and Consciousness Patterns
 
-The emergence of the human imagination represents one of the great unsolved puzzles in evolutionary biology. Terence McKenna argued that this capacity
+The emergence of the human imagination represents one of the great unsolved puzzles in evolutionary biology. [[terence-mckenna]] argued that this capacity
 did not arise in isolation but was catalyzed by
-the sustained interaction between early hominids and psilocybin mushrooms in the African partnership societies of prehistory.
+the sustained interaction between early hominids and [[psilocybin-mushrooms]] in the African partnership societies of prehistory.
 The argument hinges on a detailed examination of how
 consciousness, language, and imagination interconnect, and how hallucinogenic plants might have accelerated their development far beyond what
 natural selection alone could explain.
@@ -32,7 +32,7 @@ The conventional conclusion drawn from these neurological facts is that the high
 culture possible. Where the search for scenarios of
 human emergence and social organization is concerned, the problem is this: we know that our linguistic abilities must have evolved in response to
 enormous evolutionary pressures, but we do not know
-what these pressures were. Standard evolutionary theory offers no convincing explanation for why the human brain should have developed such
+what these pressures were. Standard [[tompkins-goethe-plant-metamorphosis-evolutionary-theory]] offers no convincing explanation for why the human brain should have developed such
 extraordinary linguistic capacity when the survival needs of
 early hominids could have been met with far simpler communication systems.
 
@@ -40,7 +40,7 @@ early hominids could have been met with far simpler communication systems.
 
 Where psychedelic plant use was present in the hominid diet, nervous systems over many millennia would have been flooded by hallucinogenic realms
 of strange and alien beauty. However, evolutionary
-necessity channels the organism's awareness into a narrow cul-de-sac where ordinary reality is perceived through what Aldous Huxley called the
+necessity channels the organism's awareness into a narrow cul-de-sac where ordinary reality is perceived through what [[aldous-huxley]] called the
 reducing valve of the senses. Without this filtering
 mechanism, humans would be rather poorly adapted for the rough-and-tumble of immediate existence. As creatures with animal bodies, we are aware that
 we are subject to a range of immediate concerns
@@ -56,7 +56,7 @@ special conditions.
 
 ## The Huxley Reducing Valve
 
-The idea that ordinary consciousness is the end product of a process of extensive compression and filtration, and that the psychedelic experience is
+The idea that ordinary consciousness is the end product of a process of extensive compression and filtration, and that the [[leary-psychedelic-experience-bardo-mapping]] is
 the antithesis of this construction, was put
 forward by Aldous Huxley. In analyzing his experiences with mescaline, Huxley quoted the eminent Cambridge philosopher C.D. Broad:
 

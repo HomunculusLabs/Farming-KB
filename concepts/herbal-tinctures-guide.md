@@ -1,5 +1,5 @@
 ---
-title: Herbal Tinctures Guide
+title: query-how-to-make-herbal-tinctures-salves-and-extracts-at-home Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -17,7 +17,7 @@ A tincture is a solution of herbal constituents dissolved in a solvent (menstruu
 
 ## Advantages of Tinctures
 
-- Long shelf life: 2-5+ years (alcohol-based)
+- Long [[psilocybin-shelf-life-stability]]: 2-5+ years (alcohol-based)
 - Concentrated: small doses deliver therapeutic amounts
 - Fast absorption: liquid form enters the bloodstream quickly
 - Portable: small dropper bottles for travel
@@ -50,7 +50,7 @@ Dilute 190-proof alcohol with distilled water to achieve the desired percentage.
 
 The folk method is simple and practical for home use:
 
-1. Fill a glass jar 1/3 to 1/2 full with dried herb (or pack full with chopped fresh herb)
+1. Fill a [[sterile-spore-print-collection-glass-jar-technique]] 1/3 to 1/2 full with dried herb (or pack full with chopped fresh herb)
 2. Pour alcohol over the herb until completely covered, plus 1-2 inches extra
 3. Cap tightly and label with: herb name, alcohol %, date
 4. Shake daily for the first week, then weekly
@@ -104,7 +104,7 @@ For mushrooms and herbs with both water-soluble and alcohol-soluble compounds:
 4. Combine alcohol tincture and water decoction
 5. Optional: evaporate some alcohol to concentrate further
 
-Used for: reishi, chaga, turkey tail, ashwagandha, astragalus
+Used for: reishi, chaga, [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]], ashwagandha, astragalus
 
 ## Glycerites (Alcohol-Free Tinctures)
 
@@ -138,50 +138,10 @@ Percolation produces a finished tincture in 24-48 hours instead of 4-6 weeks:
 Requires practice to get the drip rate right. Produces clearer, more standardized tinctures.
 
 ## Dosing Guidelines
-
-Standard adult dose: 20-60 drops (1/4 to 1 dropperful), 2-4 times daily.
-
-### By Body Weight (General Guideline)
-
-- Under 150 lbs: 20-30 drops
-- 150-200 lbs: 30-50 drops
-- Over 200 lbs: 50-60 drops
-
-### Administration
-
-- Drop directly under the tongue for fastest absorption
-- Add to 1-2 oz of water or juice
-- Add to warm tea (allow to cool slightly to avoid alcohol evaporation)
-- Do not add to boiling water
-
-## Acute vs. Chronic Dosing
-
-- **Acute conditions** (colds, cramps, injuries): Take every 2-4 hours for 1-3 days
-- **Chronic conditions** (allergies, anxiety, inflammation): Take 2-3x daily for weeks to months
-- **Tonic herbs** (adaptogens, nutritives): Take consistently for 3-6 months minimum
-
-## Combining Tinctures
-
-Tinctures can be combined in the same bottle for formula preparations:
-
-- **Cold/flu formula**: Echinacea + elderberry + ginger
-- **Stress formula**: Valerian + lemon balm + skullcap
-- **Digestive formula**: Peppermint + ginger + fennel
-- **Immune tonic**: Echinacea + astragalus + reishi
-
-## Storage and Labeling
-
-- Store in amber glass bottles away from heat and light
-- Label with: herb name, plant part, ratio, alcohol %, date made
-- Alcohol tinctures: 2-5 years (longer if properly stored)
-- Glycerites: 1-2 years
-- Discard if mold appears, smell changes, or precipitate forms
-
 ## See Also
 
 - [[herbal-medicine]] — Individual herb profiles and preparations
 - [[herbal-salves-and-balms]] — Topical herbal preparations
-- [[herbal-medicine]] — Complete herbal medicine guide for the homestead
 
 ## Related
 

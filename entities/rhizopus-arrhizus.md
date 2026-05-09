@@ -22,7 +22,7 @@ Rhizopus arrhizus is a zygomycete fungus belonging to the phylum
 Zygomycota, subphylum Mucoromycotina, order Mucorales, and family
 Rhizopodaceae (now classified within Mucoraceae). The species is
 commonly encountered in soil environments and is recognized for its
-rapid growth and extensive mycelial networks. As a member of the
+rapid growth and extensive [[fungal-mycelial-networks-nutrient-translocation]]. As a member of the
 Zygomycota, it reproduces both sexually through zygospore formation
 and asexually via sporangiospores produced within sporangia borne on
 tall sporangiophores.
@@ -31,17 +31,17 @@ tall sporangiophores.
 
 Rhizopus arrhizus is a saprotrophic soil fungus that has attracted
 significant scientific attention for its remarkable capacity to
-adsorb heavy metals from solution. The species is one of the most
-extensively studied fungal biosorbents, with research demonstrating
+adsorb [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] from solution. The species is one of the most
+extensively studied [[singh-fungal-biosorbents-mycosorption-mechanisms]], with research demonstrating
 its ability to accumulate a wide range of metal ions onto its dried
 mycelial biomass. This biosorption capability positions R. arrhizus
 as a promising candidate for bioremediation of contaminated
-environments, particularly in the cleanup of industrial wastewater
+environments, particularly in the cleanup of [[fungal-industrial-wastewater-treatment]]
 and sites polluted with radionuclides and heavy metals.
 
 The fungus grows rapidly on a variety of substrates and produces
 abundant biomass, making it practical for large-scale applications.
-Its cell wall composition, rich in chitin, chitosan, glucans, and
+Its [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] composition, rich in chitin, chitosan, glucans, and
 proteins, provides numerous binding sites for metal ions through
 functional groups including amino, carboxyl, hydroxyl, and phosphate
 groups. These structural features underpin its exceptional metal
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

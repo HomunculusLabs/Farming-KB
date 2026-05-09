@@ -1,5 +1,5 @@
 ---
-title: Brassica Growing - Organic Methods
+title: hamilton brassica growing organic - Organic Methods
 created: 2026-04-28
 tags:
   - brassicas
@@ -79,7 +79,7 @@ need staking in exposed areas.
 
 Brassicas can be affected by cabbage butterflies, cabbage moth,
 cabbage root fly, clubroot, and various general garden pests. Clubroot
-is the most serious threat and is best prevented through crop rotation
+is the most serious threat and is best prevented through [[comparison-crop-rotation-vs-cover-cropping]]
 and pH management. Physical barriers like netting protect against
 birds and butterflies. See [[hamilton-deep-bed-system]] for intensive planting patterns and
 [[hamilton-companion-planting-techniques]] for compatible combinations.
@@ -87,7 +87,7 @@ birds and butterflies. See [[hamilton-deep-bed-system]] for intensive planting p
 ## Harvesting and Storage
 
 Harvest periods vary by crop type. Brussels sprouts are picked from
-early fall through early spring. Kale provides winter greens. Cabbages
+early fall through [[coleman-overwintered-onions-and-early-spring-crops]]. Kale provides [[coleman-winter-greens-nutritional-quality-cold-sweetening]]. Cabbages
 can be harvested through much of the year with successional sowing.
 After harvesting, pull up remaining brassica plants and dispose of
 them to prevent disease carry-over. Firm, healthy late cabbages can
@@ -95,12 +95,12 @@ be stored for winter use in cool, frost-free conditions.
 
 ## Summary
 
-Brassicas are the backbone of the winter vegetable garden, providing
+Brassicas are the backbone of the winter [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]], providing
 greens through the coldest months. Success depends on proper soil
 preparation with liming to pH 6.5 to 7.0, strict crop rotation to
 prevent clubroot, firm planting at appropriate spacing, and protection
 from birds and insect pests. Following legumes in rotation provides
-natural nitrogen. Regular removal of yellowing leaves and careful
+[[jadam-natural-nitrogen-fertilizer]]. Regular removal of yellowing leaves and careful
 harvesting ensure healthy, productive plants throughout the season.
 
 For cauliflower, protect developing curds by folding inner leaves over

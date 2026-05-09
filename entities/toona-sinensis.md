@@ -12,7 +12,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md]
 
 Toona sinensis, commonly known as Chinese mahogany, Chinese toon, or red toon, is a
 deciduous tree species in the family Meliaceae. Native to China and widely cultivated
-apermaculturend Southeast Asia, it is valued both as a timber tree and, uniquely among
+apermaculturend [[psilocybe-southeast-asia-pacific]], it is valued both as a timber tree and, uniquely among
 mahoganies, for its edible young leaves and shoots, which are a prized ingredient in
 Chinese cuisine. The species is increasingly recognized [[medicinal-mushroom-extraction-bioactive-compounds]] including quercetin,
 kaempferol, rutin, and various phenolic acids with demonstrated [[comparison-tissue-culture-vs-seed-saving]] of woody perennials, see [[tissue-culture-cloning]]. Seed
@@ -106,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

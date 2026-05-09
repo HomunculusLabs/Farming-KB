@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Argument Against Pruning — Natural Tree Form"
+title: "Fukuoka's Argument Against Pruning — fukuoka-natural-tree-form-argument Form"
 type: concept
 created: 2026-04-20
 updated: 2026-05-06
@@ -7,14 +7,15 @@ type: concept
 updamasanobu-fukuokatype: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka's Argument Against Pruning — Natural Tree Form
 
 **Updated:** 2026-04-18
 
-One of Masanobu Fukuoka's most detailed and technical arguments concerns the pruning of fruit trees. Based on 30+ years of observation in his citrus orchard, Fukuoka concluded that pruning is not only unnecessary but actively harmful -- that it destroys the natural form of trees and creates a self-perpetuating cycle of intervention. His argument is grounded in careful observation of phyllotaxy (the arrangement of leaves and branches on plants) and the growth patterns of natural versus cultivated trees.
+One of Masanobu Fukuoka's most detailed and technical arguments concerns the pruning of [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]. Based on 30+ years of observation in his [[fukuoka-citrus-orchard-establishment-bare-hillside]], Fukuoka concluded that pruning is not only unnecessary but actively harmful -- that it destroys the natural form of trees and creates a self-perpetuating cycle of intervention. His argument is grounded in careful observation of phyllotaxy (the arrangement of leaves and branches on plants) and the growth patterns of natural versus cultivated trees.
 
 ## The Problem: Pruning Creates the Need for More Pruning
 
@@ -22,7 +23,7 @@ Fukuoka's central insight: "Once the pruning shears have been taken to the tree 
 
 ### The Chain Reaction
 
-1. The first pruning cut (even nipping one bud on a sapling) alters the tree's natural growth pattern
+1. The first pruning cut (even nipping one bud on a sapling) alters the tree's [[ingham-natural-growth-regulators-soil-microbes]] pattern
 2. Wounds from pruning cause adventitious buds to emerge in abnormal positions
 3. These superfluous branches crowd, bend, twist, and spread confusion as they grow
 4. The resulting tangled form requires further corrective pruning
@@ -48,7 +49,7 @@ Fukuoka provides detailed observations on phyllotaxy -- the fixed mathematical l
 - In a given plant, leaves always grow either alternately or oppositely
 - The direction and angle at which a leaf grows is always the same; "never is there even the slightest deviation"
 - If the angle between one leaf on a fruit tree branch and the next is 72 degrees, then all subsequent leaves will emerge at 72 degrees
-- The sixth leaf on peach, persimmon, mandarin orange, orange, and cherry tree branches is always located directly above the first leaf
+- The sixth leaf on peach, persimmon, [[fukuoka-mandarin-orange-citrus]], orange, and cherry tree branches is always located directly above the first leaf
 - The eleventh leaf is always directly above the sixth
 - When the distance between consecutive buds is one inch, the distance from one leaf to the next leaf directly above it is always five inches
 - Two leaves will not overlap, or two branches emerge, within any five-inch length along the branch
@@ -77,7 +78,7 @@ Pruning is done not for the tree's benefit but for the convenience of human oper
 
 - Tillage and weeding require clear space beneath trees (but if you eliminate tillage and weeding, this reason disappears)
 - Pesticide spraying requires accessible tree surfaces (but if you eliminate pesticides, this reason disappears)
-- Fertilizer application requires clear trunk access (but if you eliminate fertilizer, this reason disappears)
+- [[cervantes-fertilizer-application-strain-feeding]] requires clear trunk access (but if you eliminate fertilizer, this reason disappears)
 - Harvesting is the only remaining reason for tree shape considerations
 
 "The ideal form of a tree is the form best suited to these various human operations and to harvesting. Thus it is not the natural form that gardeners and growers seek, but a shape artificially pruned and trained to the convenience and benefit of the grower."

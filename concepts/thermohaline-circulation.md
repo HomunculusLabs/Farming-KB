@@ -56,10 +56,10 @@ Deep A  ons are improving measurements below the traditional two thousand meter 
 ## History and context
 Early oceanographers recognized that deep ocean water was cold, oxygenated, and not simply stagnant.
 
-Nineteenth century expeditions such as the Challenger expedition helped establish [[navier-stokes-equations-fluid-dynamics]], and geophysical observation.
+[[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] expeditions such as the Challenger expedition helped establish [[navier-stokes-equations-fluid-dynamics]], and geophysical observation.
 
 Harald Sverdrup, Henry Stommel, Walter Munk, and many others contributed to understanding wind driven and density driven circulation.
-The phrase thermohaline circulation became common in discussions of global ocean overturning during the twentieth century.
+The phrase thermohaline circulation became common in discussions of global ocean overturning during the [[coleman-louis-savier-twentieth-century-maraicher]].
 
 The conveyor belt image became influential because it communicated planetary connectivity to a broad audience.
 

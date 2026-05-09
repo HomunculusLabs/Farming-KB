@@ -5,7 +5,8 @@ updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka Food and Health Philosophy
@@ -81,7 +82,7 @@ Fukuoka's most striking argument is that people today chase after flavor because
 
 ---
 
-Source: Masanobu Fukuoka, The Natural Way of Farming: The Theory and Practice of Green Philosophy
+Source: Masanobu Fukuoka, The Natural Way of Farming: The Theory and Practice of [[fukuoka-sowing-green-philosophy-one-grain-revolution]]
 
 ## See Also
 
@@ -89,4 +90,4 @@ Source: Masanobu Fukuoka, The Natural Way of Farming: The Theory and Practice of
 - [[fukuoka-natural-food-philosophy]]
 
 ## Merged: Fukuoka Philosophy of Food
-Masanobu Fukuoka's philosophy of food extends far beyond nutrition into a comprehensive worldview linking diet to consciousness, culture, spirituality, and the fate of civilizations. In "The Road Back to Nature," he develops this philosophy in detail, arguing that the modern confusion about food mirrors humanity's fundamental confusion about nature itself. 146-153 (Japanese diet, philosophy of eating) updated: 2026-04-18 - [[fukuoka-food-civilization-critique]] - [[fukuoka-natural-way-of-farming-theory-of-natural-farming]], Fukuoka explores the deepest philosophical dimensions of how humans perceive food through flavor and color, arguing that modern man has lost his capacity for true sensory experience through spiritual alienation from nature. "The world appears to be filled with the seven prismatic colors, but when combined these seven colors become white. "Why is it that the more he strives to produce delicious rice, fruit, and vegetables, the more inaccessible these become?" See [[fukuoka-tasty-rice-illusion]] -- the tasty rice controversy - [[fukuoka-natural-diet-philosophy]] -- natural diet philosophy - fukuoka food and health philosophy -- deeper food philosophy - [[fukuoka-nature-perfect-imperfect]] -- nature's perfection
+Masanobu Fukuoka's philosophy of food extends far beyond nutrition into a comprehensive worldview linking diet to consciousness, culture, spirituality, and the fate of civilizations. In "The Road Back to Nature," he develops this philosophy in detail, arguing that the modern confusion about food mirrors humanity's fundamental confusion about nature itself. 146-153 ([[fukuoka-japanese-diet-worse]], philosophy of eating) updated: 2026-04-18 - [[fukuoka-food-civilization-critique]] - [[fukuoka-natural-way-of-farming-theory-of-natural-farming]], Fukuoka explores the deepest philosophical dimensions of how humans perceive food through flavor and color, arguing that modern man has lost his capacity for true sensory experience through [[fukuoka-flavor-philosophy-spiritual-alienation-food]] from nature. "The world appears to be filled with the seven prismatic colors, but when combined these seven colors become white. "Why is it that the more he strives to produce delicious rice, fruit, and vegetables, the more inaccessible these become?" See [[fukuoka-tasty-rice-illusion]] -- the [[fukuoka-tasty-rice-illusion-food-processing]] controversy - [[fukuoka-natural-diet-philosophy]] -- natural [[fukuoka-natural-diet-philosophy-spiritual-health]] - fukuoka food and health philosophy -- deeper food philosophy - [[fukuoka-nature-perfect-imperfect]] -- nature's perfection

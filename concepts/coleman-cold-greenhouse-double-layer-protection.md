@@ -1,5 +1,5 @@
 ---
-title: Coleman's Cold Greenhouse Double-Layer Protection
+title: Coleman's [[coleman-cold-hardiness-testing-ratings]] greenhouse double layer protection Double-Layer Protection
 created: 2026-05-08
 tags: [farming, greenhouse, winter-harvest, Eliot-Coleman, cold-house, double-layer, row-cover, passive-solar, four-season-farming]
 date: 2026-05-08
@@ -67,7 +67,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -145,4 +145,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

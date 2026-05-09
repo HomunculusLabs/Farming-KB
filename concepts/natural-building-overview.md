@@ -1,5 +1,5 @@
 ---
-title: Natural Building Overview
+title: query-how-do-i-choose-a-natural-building-method-for-my-climate Overview
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -19,9 +19,9 @@ Natural building refers to construction methods that use locally available, mini
 - **Local materials** -- use earth, stone, wood, and plant fibers from the building site or nearby
 - **Minimal processing** -- materials are used in their natural state with minimal industrial processing
 - **Owner-buildable** -- techniques can be learned and executed by non-professionals
-- **Energy efficient** -- thick, insulating walls provide thermal mass and high R-values
+- **[[cervantes-case-study-energy-efficient-sea-of-green]]** -- thick, insulating walls provide thermal mass and high R-values
 - **Non-toxic** -- no off-gassing, formaldehyde, or synthetic chemicals
-- **Biodegradable** -- at end of life, materials return to the earth
+- **Biodegradable** -- at [[powell-psilocybin-end-of-life-anxiety]], materials return to the earth
 
 ## Building Methods Compared
 
@@ -55,7 +55,7 @@ See [[underground-house-and-earth-berm-construction]] for details.
 ## Choosing a Method
 
 Consider these factors:
-1. **Climate** -- cold climates need high insulation (straw bale); hot dry climates benefit from thermal mass (cob, earthbag)
+1. **Climate** -- cold climates need high insulation ([[comparison-cob-construction-vs-straw-bale-construction]]); hot dry climates benefit from thermal mass (cob, earthbag)
 2. **Available materials** -- use what you have: clay soil (cob), straw (straw bale), sand/gravel (earthbag), stone (slip form), timber (cordwood)
 3. **Budget** -- cob and earthbag are cheapest; underground is most expensive
 4. **Building codes** -- straw bale and earthbag have the most code precedent; unconventional methods may require engineering review
@@ -68,7 +68,7 @@ All natural buildings benefit from:
 - **Good foundation** -- raised above grade, protected from moisture
 - **Wide roof overhangs** -- protect walls from rain
 - **Natural plasters** -- earth or lime-based exterior and interior finishes
-- **Passive solar design** -- south-facing windows for heating, natural ventilation for cooling
+- **[[comparison-passive-solar-vs-earth-sheltered]] design** -- south-facing windows for heating, natural ventilation for cooling
 - [[mollison-designers-composting-toilets-and-humanure]] and composting systems
 
 ## See Also

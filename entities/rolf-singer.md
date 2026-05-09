@@ -9,7 +9,7 @@ died: 1994-01-18
 nationality: German-American
 fields:
   - mycology
-  - fungal taxonomy
+  - [[molecular-methods-fungal-taxonomy-and-diversity]]
   - agaricology
 known_for:
   - "The Agaricales in Modern Taxonomy"
@@ -39,7 +39,7 @@ With the rise of the Nazi regime in 1933, Singer—who was of Jewish descent—w
 
 ## Career in the United States: Harvard and USDA
 
-In 1935, Singer emigrated to the United States. He obtained a position at the Farlow Herbarium of Cryptogamic Botany at Harvard University (1935–1940), one of the world's premier mycological institutions. There he worked alongside leading American mycologists, conducted extensive fieldwork across North America, and began developing his comprehensive classification system for the Agaricales. He subsequently moved to the United States Department of Agriculture in Beltsville, Maryland (approximately 1940–1947), where he continued research on [[spore-print]] color** as a primary diagnostic character at the family level
+In 1935, Singer emigrated to the United States. He obtained a position at the Farlow Herbarium of Cryptogamic Botany at Harvard University (1935–1940), one of the world's premier mycological institutions. There he worked alongside leading American mycologists, conducted extensive fieldwork across [[psilocybin-north-america-pacific-northwest]], and began developing his comprehensive classification system for the Agaricales. He subsequently moved to the United States Department of Agriculture in Beltsville, Maryland (approximately 1940–1947), where he continued research on [[spore-print]] color** as a primary diagnostic character at the family level
 - **Chemical reactions** with KOH, Melzer's reagent, ammonia, and other reagents for diagnostic purposes
 - **Ecological and distributional data** integrated into taxonomic decisions
 - **Comparative anatomy** across related taxa to establish evolutionary relationships
@@ -57,7 +57,7 @@ Singer's magnum opus was published in four editions over nearly four decades:
 
 ## Key Taxonomic Groups
 
-Singer's work encompassed all major groups of basidiomycete fungi:
+Singer's work encompassed all major groups of [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]]:
 
 - **Agaricales** (gilled mushrooms) — his primary focus, including revisions of *Psilocybe*, *Pluteus*, *Inocybe*, *Cortinarius*, *Mycena*, *Hygrophorus*, and many other genera
 - **Boletales** (boletes and allies) — extensive monographic work on boletaceous fungi of the Americas
@@ -65,7 +65,7 @@ Singer's work encompassed all major groups of basidiomycete fungi:
 - **Polyporaceae** and **Aphyllophorales** (polypores and non-gilled basidiomycetes, now reclassified across several orders)
 - **Gasteromycetes** (puffballs, earthstars, and related forms)
 
-He was among the first mycologists to formally study the taxonomy of psychoactive fungi in a modern systematic context, contributing significantly to the taxonomy of *Psilocybe* and related hallucinogenic genera.
+He was among the first mycologists to formally study the taxonomy of [[cattle-dispersal-psychoactive-fungi-australia]] in a modern systematic context, contributing significantly to the taxonomy of *Psilocybe* and related hallucinogenic genera.
 
 ## Major Publications
 
@@ -87,7 +87,7 @@ Several genera and numerous species honor Singer's contributions to mycology:
 
 ## Legacy
 
-Singer's herbarium and type specimens are distributed across major institutions including the Field Museum (F), the Farlow Herbarium (FH) at Harvard, the Herbario Nacional in Buenos Aires, and various European herbaria. His author citation in mycological nomenclature is simply **"Singer"** (standard in Index Fungorum and MycoBank). He single-handedly established the foundation for mycological knowledge in South America and provided the organizational framework upon which all subsequent agaric research was built. His influence persists in every modern fungal identification key and field guide.
+Singer's herbarium and type specimens are distributed across major institutions including the Field Museum (F), the Farlow Herbarium (FH) at Harvard, the Herbario Nacional in Buenos Aires, and various European herbaria. His author citation in mycological nomenclature is simply **"Singer"** (standard in Index Fungorum and MycoBank). He single-handedly established the foundation for mycological knowledge in South America and provided the organizational framework upon which all subsequent agaric research was built. His influence persists in every modern [[pcr-methods-fungal-identification-monitoring]] key and [[ghouled-field-guide-historical-context]].
 
 ## Key Figures in Singer's Network
 

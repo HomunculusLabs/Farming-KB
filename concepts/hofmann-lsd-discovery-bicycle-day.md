@@ -38,7 +38,7 @@ self-experiment.
 
 Exercising extreme caution, Hofmann began with the smallest quantity that could
 be expected to produce some effect, considering the activity of ergot alkaloids
-known at the time: 0.25 mg of lysergic acid diethylamide tartrate. His
+known at the time: 0.25 mg of [[ergot-and-lysergic-acid-history]] diethylamide tartrate. His
 laboratory journal entry for April 19, 1943, reads:
 
 "4/19/43 16:20: 0.5 cc of 1/2 promil aqueous solution of diethylamide tartrate
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

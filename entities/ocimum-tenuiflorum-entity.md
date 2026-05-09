@@ -27,9 +27,9 @@ sources:
 
 ## Overview
 
-**Ocimum tenuiflorum** (syn. *O. sanctum*), commonly known as **Tulsi** or **Holy Basil**, is an aromatic perennial herb in the mint family (*Lamiaceae*) native to the Indian subcontinent and cultivated throughout Southeast Asia. It is one of the most revered plants in Hindu tradition — known as "The Incomparable One" — and occupies a central role in **Ayurvedic medicine**, where it has been used for over 3,000 years as an adaptogen, anti-stress agent, and general tonic.
+**Ocimum tenuiflorum** (syn. *O. sanctum*), commonly known as **Tulsi** or **Holy Basil**, is an aromatic perennial herb in the mint family (*Lamiaceae*) native to the Indian subcontinent and cultivated throughout [[psilocybe-southeast-asia-pacific]]. It is one of the most revered plants in Hindu tradition — known as "The Incomparable One" — and occupies a central role in **Ayurvedic medicine**, where it has been used for over 3,000 years as an adaptogen, anti-stress agent, and general tonic.
 
-Modern pharmacological research has validated many traditional uses, identifying over 35 bioactive compounds with demonstrated anti-inflammatory, antioxidant, immunomodulatory, hepatoprotective, and anxiolytic properties.
+Modern pharmacological research has validated many traditional uses, identifying over 35 [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] with demonstrated anti-inflammatory, antioxidant, immunomodulatory, hepatoprotective, and anxiolytic properties.
 
 ## Taxonomy
 
@@ -53,12 +53,12 @@ Two main morphotypes are recognized in Ayurvedic tradition:
 
 ### Non-volatile Phytochemicals
 
-- **[[pseudomonas]] aeruginosa*, and *[[permaculture]] Applications
+- **[[pseudomonas]] aeruginosa*, and *permaculture Applications
 
 Tulsi is an excellent **companion plant** in permaculture systems:
 - **Pest repellent** — aromatic oils deter aphids, whiteflies, and certain beetles
-- **Pollinator attractant** — prolonged flowering supports bees and beneficial insects
-- **Multistrata design** — fits as an understory herb in food forest layers
+- **Pollinator attractant** — prolonged flowering supports bees and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
+- **Multistrata design** — fits as an understory herb in food [[food-forest-layers-and-species]]
 
 ## Culinary and Traditional Uses
 
@@ -74,7 +74,7 @@ Fresh or dried Tulsi leaves are used in:
 - **Pregnancy:** High doses may have uterotonic effects — caution advised
 - **Blood thinning:** Eugenol may inhibit platelet aggregation — caution with anticoagulants
 - **Hypoglycemia risk:** Diabetic patients on medication should monitor blood glucose
+
 ## See Also
 
-- [[food-forest]]
 - [[food-forest]]

@@ -4,7 +4,7 @@ tags: [telomeres, telomerase, aging, longevity, cannabis, cannabinoids, CB2, ant
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Uwe Blesching, "The Cannabis Health Index" (2017), pp. 3070-3250created: 2026-05-07
+  - uwe-blesching, "The cannabis-health-index" (2017), pp. 3070-3250created: 2026-05-07
 type: concept
 
 created: 2026-05-07
@@ -16,7 +16,7 @@ created: 2026-05-07
 
 Telomeres are the protective end caps of chromosomes that shorten with each cell division and in the presence of environmental toxins. Their progressive shortening is one of the primary recognized mechanisms of cellular aging. The enzyme telomerase counteracts this degradation by rebuilding and maintaining telomere length, and its discovery earned the 2009 Nobel Prize in Physiology or Medicine for Elisabeth Blackburn, Carol Greider, and Jack Szostak.
 
-The Cannabis Health Index (CHI) connects telomere biology to cannabinoid science, mind-body medicine, and the endocannabinoid system as an integrative framework for understanding aging and longevity.
+The Cannabis Health Index (CHI) connects telomere biology to [[greg-green-thc-and-cannabinoid-science]], mind-body medicine, and the endocannabinoid system as an integrative framework for understanding aging and longevity.
 
 ## The Biology of Telomere Shortening
 
@@ -72,7 +72,7 @@ Conversely, chronically suppressed or repressed emotions have been shown to exac
 
 ## Epigenetic Intergenerational Effects
 
-Studies on mice have shown that emotional material from traumatic experiences produces immediate biological changes that can be passed to the next generation. Research on Holocaust survivors demonstrated that horrific emotions produced physiological changes in the coating of chromosomes that are inherited by offspring, leaving them more vulnerable to anxiety disorders such as phobia and PTSD. This epigenetic mechanism operates through the same pathway that governs telomere dynamics.
+Studies on mice have shown that emotional material from traumatic experiences produces immediate biological changes that can be passed to the next generation. Research on Holocaust survivors demonstrated that horrific emotions produced physiological changes in the coating of chromosomes that are inherited by offspring, leaving them more vulnerable to [[cannabis-for-anxiety-disorders]] such as phobia and PTSD. This epigenetic mechanism operates through the same pathway that governs telomere dynamics.
 
 ## Negative Aging Beliefs as Limiting Factors
 
@@ -84,7 +84,7 @@ Corporations exploit and reinforce societal ideals of beauty and youth, elevatin
 
 The CHI framework emphasizes that reducing stress hormones is in the domain of conscious intervention. Rather than denying emotional realities (which only suppresses them), the approach involves reducing fears and anxieties constructively so the body can be free of their debilitating molecular impact.
 
-The endocannabinoid system serves as a modulator in this process. By generating specific emotional content, individuals can change their body's chemistry, either fully or partly modulated via the endocannabinoid system. Every cell of the body is in constant communication through chemical signals (molecules) and nonphysical signals (emotions, sunlight), creating a two-way street between mind and body.
+The endocannabinoid system serves as a modulator in this process. By generating specific emotional content, individuals can change their body's chemistry, either fully or partly modulated via the endocannabinoid system. Every cell of the body is in constant communication through [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] (molecules) and nonphysical signals (emotions, sunlight), creating a two-way street between mind and body.
 
 ## Integrative Longevity Framework
 
@@ -98,6 +98,6 @@ Combining perspectives from different medical disciplines makes it possible to b
 
 ## See Also
 
-- [[blesching-cannabis-deep-relaxation-healing]] for stress reduction techniques
+- [[blesching-cannabis-deep-relaxation-healing]] for stress [[mycorrhizal-inoculum-reduction-techniques-comparative]]
 - [[blesching-cannabis-epigenetics-and-emotional-trauma]] for the science of environmental signals and gene expression
 - [[blesching-cannabis-beta-caryophyllene-cb2-spices-complementary-therapy]] for dietary CB2 activation

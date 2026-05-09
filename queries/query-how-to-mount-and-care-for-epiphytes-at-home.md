@@ -1,5 +1,5 @@
 ---
-title: How to Mount and Care for Epiphytes at Home
+title: How to query how to mount and care for epiphytes at home for Epiphytes at Home
 tags: [epiphytes, mounting, cultivation, care-guide, tillandsia, orchid, bromeliad, houseplants]
 date: 2026-04-28
 updated: 2026-04-28
@@ -17,7 +17,7 @@ type: query
 
 ## What Is Mounting?
 
-Mounting means growing an epiphyte on a piece of wood, bark, or stone instead of in a pot — mimicking how these plants grow in nature. Mounted plants receive superior air circulation to their roots, dramatically reducing the risk of root rot. They also make stunning naturalistic displays. The tradeoff is that mounted plants dry out faster and require more frequent watering than potted equivalents.
+Mounting means growing an epiphyte on a piece of wood, bark, or stone instead of in a pot — mimicking how these plants grow in nature. Mounted plants receive superior [[stamets-growing-room-air-circulation-co2-management]] to their roots, dramatically reducing the risk of [[cannabis-root-rot-prevention-and-treatment]]. They also make stunning naturalistic displays. The tradeoff is that mounted plants dry out faster and require more frequent watering than potted equivalents.
 
 ## Choosing the Right Epiphyte for Mounting
 
@@ -119,7 +119,7 @@ Indoor environments are often too dry for mounted epiphytes (typical home humidi
 - **Room humidifiers**: The most reliable solution for larger collections.
 - **Grouping**: Cluster mounted plants together to create a shared microclimate of elevated humidity.
 - **Bathrooms and kitchens**: Naturally higher humidity; great locations for mounted epiphytes if light is adequate.
-- **Glass cases or terrariums**: Ideal for miniature mounted orchids and Tillandsia. Provide ventilation to prevent mold.
+- **Glass cases or terrariums**: Ideal for miniature mounted orchids and Tillandsia. Provide ventilation to [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]].
 - **Greenhouse**: The ultimate solution. Even a small windowsill greenhouse dramatically improves results.
 
 ## Light Requirements
@@ -135,3 +135,7 @@ Follow [[liquid-fertilizer-from-weeds]] applied during regular watering. For mou
 
 - [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]]
 - [[query-how-do-i-make-koji-at-home-for-beginners]]
+
+## See Also
+
+- [[query-how-to-grow-and-care-for-a-tamarind-tree]]

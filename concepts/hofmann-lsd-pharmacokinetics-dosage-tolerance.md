@@ -1,5 +1,5 @@
 ---
-title: LSD Pharmacokinetics Dosage and Tolerance
+title: hofmann lsd pharmacokinetics dosage tolerance Dosage and Tolerance
 created: 2026-04-28
 tags:
   - lsd
@@ -113,8 +113,8 @@ The Delysid prospectus noted that unopened ampoules protected against
 light and stored in a cool place were stable for an unlimited period.
 Opened ampoules or diluted solutions retained effectiveness for 1 to 2
 days if stored in a refrigerator. This stability contrasts with many
-other sensitive organic compounds and reflects the inherent chemical
-robustness of the lysergic acid framework. The stability of LSD
+other sensitive [[fungal-volatile-organic-compounds-communication]] and reflects the inherent chemical
+robustness of the [[ergot-and-lysergic-acid-history]] framework. The stability of LSD
 contributed to its practical utility as a research tool and, ironically,
 to its attractiveness as an illicit substance, as it could be
 transported and stored without special precautions.
@@ -134,6 +134,6 @@ LSD sessions for different therapeutic purposes.
 
 - [[hofmann-lsd-pharmacology-serotonin-brain]] for neurotransmitter
   interactions
-- [[hofmann-delysid-product-psychotherapy]] for clinical dosage guidelines
+- [[hofmann-delysid-product-psychotherapy]] for clinical [[blesching-cannabis-health-index-dosage-guidelines-medical]]
 - [[hofmann-lsd-clinical-research-early-studies]] for early human dosing
   studies

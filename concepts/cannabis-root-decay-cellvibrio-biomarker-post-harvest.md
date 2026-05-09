@@ -1,5 +1,5 @@
 ---
-title: "Cannabis Root Decay Detection via Cellvibrio as a Post-Harvest Microbiome Biomarker"
+title: "alpha-beta-diversity-cannabis-root-microbiomes Decay Detection via Cellvibrio as a Post-Harvest Microbiome Biomarker"
 source: "understanding-cultivar-specificity-cannabis-microbiome.md"
 tags: [cannabis, root-decay, cellvibrio, endorhiza, post-harvest, microbiome, biomarker, senescence]
 created: 2026-05-08
@@ -10,7 +10,7 @@ created: 2026-05-08
 ## Overview
 
 An unexpected but analytically valuable finding from the Winston et al. (2014)
-Cannabis microbiome study was the dramatic difference in endorhiza community
+[[cultivar-cannabis-microbiome-two-tier-selection-model]] study was the dramatic difference in endorhiza community
 composition between the first experiment (sampled 8 weeks post-harvest) and
 the second experiment (sampled from actively growing plants). The cellulolytic
 bacterium *Cellvibrio* emerged as a clear biomarker of root tissue decay, with
@@ -50,6 +50,8 @@ for newly planted crops.
 
 - [[cellvibrio-post-harvest-root-decay-cannabis]]
 - [[cellvibrio-and-root-decay-microbiome]]
+- [[cellvibrio-root-decay-indicator-cannabis-endorhiza]]
+
 ## Practical Considerations
 
 When working with Cannabis Root Decay Detection via Cellvibrio as a Post-Harvest Microbiome Biomarker, several practical factors should be
@@ -66,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

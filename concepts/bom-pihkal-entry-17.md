@@ -1,5 +1,5 @@
 ---
-title: BOM (beta-Methoxymescaline) - PIHKAL Entry #17
+title: BOM (beta-Methoxymescaline) - 2c-b-pihkal-entry-20 #17
 created: 2026-04-28
 tags: [pihkal, phenethylamine, mescaline-analogue, beta-alkoxy, box-family]
 date: 2026-04-28
@@ -11,7 +11,7 @@ type: concept
 
 # BOM (beta-Methoxymescaline)
 
-**PIHKAL Entry #17**
+**[[2c-b-pihkal-entry-20]] #17**
 
 ## Chemical Identity
 
@@ -86,7 +86,7 @@ is worthwhile remains open.
 
 BOM is named following the RBO-M convention:
 - **RBO**: indicates beta-benzyl oxygen (benzyl + oxy) on the
-  phenethylamine chain
+  [[phenethylamine-chain-length-effects]]
 - **M**: indicates derivation from mescaline (the ring substitution
   pattern of 3,4,5-trimethoxy)
 
@@ -109,7 +109,7 @@ ranging from roughly 0.5x to 2x.
 
 BOM adds to the BOX family data set and helps establish that
 beta-methoxylation of phenethylamines is not a reliable strategy
-for potency enhancement. The compound remains incompletely
+for [[cannabis-potency-enhancement-intact-flowers]]. The compound remains incompletely
 characterized but serves as a useful reference point in the SAR
 of beta-substituted phenethylamines.
 

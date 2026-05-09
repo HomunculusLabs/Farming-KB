@@ -9,7 +9,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Benor, S. et al. (2021). "Corchorus olitorius: Nutritional composition, bioactive compounds and health benefits." Food Chemistry, 345, 128764.
+  - Benor, S. et al. (2021). "Corchorus olitorius: dighton-fungal-nutritional-composition-animal-diets, query-what-are-the-main-bioactive-compounds-in-medicinal-plants and health benefits." Food Chemistry, 345, 128764.
   - Mshelbwala, F.A. et al. (2014). "Phytochemical and antimicrobial screening of Corchorus olitorius leaves." International Journal of Biochemistry Research & Review, 4(5), 448-455.
   - Roy, A. et al. (2020). "Jute (Corchorus olitorius): A potential crop for food and industry." In: Underutilized Crops, Springer.
   - PROTA (Plant Resources of Tropical Africa). "Corchorus olitorius L." Record 7625.
@@ -27,19 +27,19 @@ The species is among the most important leafy vegetables in tropical Africa and 
 
 The plant is an erect, branched annual herb reaching 60–150 cm in height. Stems are cylindrical, green to reddish, and contain the bast fibers used for jute production.
 
-The root system is predominantly taprooted with lateral branching in the upper 30 cm of soil. Root architecture supports rapid nutrient uptake, contributing to the species' fast growth rate.
+The root system is predominantly taprooted with lateral branching in the upper 30 cm of soil. Root architecture supports rapid [[plant-nutrient-uptake-mechanisms]], contributing to the species' fast growth rate.
 
 Leaves are alternate, simple, serrate, lanceolate to ovate, 5–12 cm long and 2–5 cm wide, with an acuminate tip and ciliate margins.
 
-Leaf morphology varies considerably among cultivars, with some landraces producing broader, more deeply serrated leaves selected for vegetable production. Fiber-type cultivars tend to have narrower leaves.
+Leaf morphology varies considerably among cultivars, with some landraces producing broader, more deeply serrated leaves selected for [[dry-gardening-unirrigated-vegetable-production-solomon]]. Fiber-type cultivars tend to have narrower leaves.
 
 Flowers are small (8–10 mm diameter), yellow, and borne in clusters in the leaf axils. They have 4–5 petals, numerous stamens, and a superior ovary. Flowering occurs 40–60 days after sowing.
 
-Fruits are cylindrical or slightly curved capsules, 5–8 cm long, tapering to a point. Each capsule contains numerous small, dark brown seeds (1.5–2 mm diameter) arranged in longitudinal rows. Seeds remain viable for 2–3 years under dry storage conditions.
+Fruits are cylindrical or slightly curved capsules, 5–8 cm long, tapering to a point. Each capsule contains numerous small, dark brown seeds (1.5–2 mm diameter) arranged in longitudinal rows. Seeds remain viable for 2–3 years under dry [[vegetable-storage-conditions-by-temperature-and-humidity]].
 
 ## Distribution and Habitat
 
-The species is believed to be native to tropical Africa, with a secondary center of diversity in the Indian subcontinent. It is now pantropical in distribution, found across sub-Saharan Africa, South and Southeast Asia, the Middle East, and parts of tropical America.
+The species is believed to be native to tropical Africa, with a secondary center of diversity in the Indian subcontinent. It is now pantropical in distribution, found across sub-Saharan Africa, South and [[psilocybe-southeast-asia-pacific]], the Middle East, and parts of tropical America.
 
 It grows as a weed in disturbed habitats, cultivated fields, and along roadsides from sea level to 2,000 m. The species prefers moist, fertile soils but tolerates a range of conditions including moderately saline and acidic soils.
 

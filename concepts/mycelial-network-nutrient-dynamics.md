@@ -1,7 +1,7 @@
 ---
-title: Mycelial Network Nutrient Dynamics
+title: gadd-mycelial-network-dynamics Nutrient Dynamics
 source: Fungi in the Environment - Gadd, Watkinson, Dyer
-source_author: [[geoffrey-gadd]], Sarah C. Watkinson, Paul S. Dyer
+source_author: geoffrey-gadd, Sarah C. Watkinson, Paul S. Dyer
 tags: [mycelium, nutrient-transport, radiolabel-imaging, cytoplasmic-streaming, fungal-ecology, resource-allocation]
 created: 2026-05-08
 ---
@@ -21,12 +21,12 @@ mathematical modeling, and microscopy.
 
 Together, these approaches reveal how fungi optimize resource allocation in
 heterogeneous environments, balancing growth, maintenance, and reproduction in ways
-that parallel the foraging strategies of animals and plants.
+that parallel the [[mycelial-foraging-strategies-nutrient-translocation]] of animals and plants.
 
 ## Radiolabel Imaging of Nutrient Transport
 
 Radiolabel tracing has been instrumental in visualizing nutrient movement within
-mycelial networks. By introducing radioisotopes such as carbon-14 or phosphorus-32
+[[fungal-mycelial-networks-nutrient-translocation]]. By introducing radioisotopes such as carbon-14 or phosphorus-32
 at specific locations, researchers can track real-time translocation of resources.
 
 Autoradiography and phosphor imaging capture spatial and temporal patterns of nutrient
@@ -51,7 +51,7 @@ dissolved metabolites along cytoskeletal tracks.
 
 Cytoplasmic streaming is not uniform but exhibits pulsatile behavior, with periods
 of intense flow alternating with quiescent phases. This pulsation facilitates mixing
-of cytoplasmic contents and may coordinate metabolic activity across the network.
+of cytoplasmic contents and may coordinate [[arbuscule-isolation-metabolic-activity-assays]] across the network.
 
 Septal pores, connecting adjacent hyphal compartments, regulate the passage of
 cytoplasm and organelles, adding another layer of control over nutrient distribution.
@@ -61,7 +61,7 @@ redistribution of materials in response to changing conditions.
 ## Woronin Bodies and Compartmentalization
 
 Woronin bodies are specialized organelles unique to filamentous Ascomycota that play
-a critical role in maintaining network integrity during nutrient translocation. These
+a critical role in maintaining network integrity during [[dighton-fungal-nutrient-translocation-element-redistribution]]. These
 dense, proteinaceous structures can rapidly plug septal pores in response to hyphal
 damage.
 
@@ -99,7 +99,7 @@ consumed, and transported across the colony in space and time.
 Network-based models represent the mycelium as a graph of nodes and edges with varying
 conductance properties, enabling quantitative predictions about resource flow. Recent
 advances incorporate viscoelastic cytoplasm properties, non-linear septal pore
-dynamics, and feedback between nutrient availability and growth direction.
+dynamics, and feedback between [[ph-and-nutrient-availability-garden-soils]] and growth direction.
 
 Individual-based models, simulating each hyphal tip independently, demonstrate that
 simple local rules for growth and branching can generate complex, adaptive network
@@ -127,3 +127,7 @@ phosphorus from senescent hyphae supports continued growth in favorable zones.
 
 Mycelial nutrient dynamics have far-reaching ecological implications. In forest
 ecosystems, mycelial networks of saprotrop [[mycelial-network-nutrient-transport-pulsatile-dynamics]]
+## See Also
+- [[fungal-hyphae]]
+- [[mycelial-network-nutrient-transport-pulsatile-dynamics]]
+- [[mycelial-network-nutrient-transport-imaging-gadd]]

@@ -14,7 +14,7 @@ In *Teaming with Microbes*, Lowenfels and Lewis present Dr. Elaine Ingham's rese
 
 ## The Discovery
 
-It wasn't until the 1980s that soil scientists could accurately measure bacterial and fungal biomass in soils. Dr. Ingham at Oregon State University published research showing:
+It wasn't until the 1980s that soil scientists could accurately measure [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] biomass in soils. Dr. Ingham at Oregon State University published research showing:
 - The least disturbed soils (old growth timber) had far more fungi than bacteria
 - Disturbed soils (rototilled soil) had far more bacteria than fungi
 - The ratio of fungi to bacteria correlates with the type of plant community
@@ -36,7 +36,7 @@ Ingham noticed that different plants prefer soils with different F:B ratios:
 - **Perennials, shrubs, and trees** prefer fungally dominated soils
 - **Conifers and old-growth forests** require highly fungally dominated soils
 
-Since the path from bacterial to fungal domination follows the course of plant succession, it became easy to predict what type of soil particular plants prefer based on where they appear in natural succession.
+Since the path from [[ingham-bacterial-to-fungal-succession-soil-food-web]] domination follows the course of plant succession, it became easy to predict what type of soil particular plants prefer based on where they appear in natural succession.
 
 ## Nitrogen Forms Matter
 
@@ -50,7 +50,7 @@ The F:B ratio affects the form of nitrogen available:
 Understanding the F:B ratio allows gardeners to:
 - Match their soil biology to the plants they want to grow
 - Use bacterial foods (sugars, green compost) for vegetable gardens
-- Use fungal foods (wood chips, brown compost, humic acids) for trees and shrubs
+- Use [[ingham-paper-cardboard-fungal-foods-compost]] ([[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]], brown compost, humic acids) for trees and shrubs
 - Recognize that monoculture and tillage push soil toward bacterial dominance
 - Use compost and mulch to shift the ratio in the desired direction
 
@@ -81,7 +81,7 @@ fundamentally a biological phenomenon, not merely a chemical one.
 
 Understanding these microbial dynamics has direct practical implications for
 soil management. Practices that support diverse microbial communities, such as
-minimal tillage, cover cropping, and organic matter additions, tend to produce
+minimal tillage, [[fukuoka-clover-cover-cropping-soil-ecology]], and [[hamilton-composting-and-organic-matter-management]] additions, tend to produce
 healthier soils and more resilient plants. Conversely, practices that disrupt
 soil biology, such as excessive tillage and chemical inputs, can take years
 to recover from. The key insight is to feed the soil organisms and let them

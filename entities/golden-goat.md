@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Leafly Staff (2023). "Golden Goat Cannabis Strain Information." Leafly.com.
   - AllBud (2024). "Golden Goat Strain Review." AllBud.com.
-  - Mudge, E. et al. (2018). "Cannabis Chemotaxonomy: A Comparative Analysis of Terpene Profiles." Cannabis and Cannabinoid Research, 3(1), 58-67.
+  - Mudge, E. et al. (2018). "Cannabis Chemotaxonomy: A Comparative Analysis of [[cannabis-terpene-profiles-sativa]]." Cannabis and Cannabinoid Research, 3(1), 58-67.
   - Hazekamp, A. et al. (2016). "The Cannabis Effect: A Review of the Interactions Between Cannabinoids and Terpenes." Frontiers in Plant Science, 7, 40.
 created: 2026-04-28
 ---
@@ -28,9 +28,9 @@ The strain is known for producing colorful, resinous flowers with a complex trop
 
 ## Lineage
 
-Golden Goat is a cross between two well-established lines. The mother, **Island Sweet Skunk**, contributes the strain's sweet, tropical aroma and uplifting sativa effects. Island Sweet Skunk itself is believed to descend from Skunk #1 and an unspecified tropical sativa, giving it vigorous growth and a pungent, fruity terpene profile.
+Golden Goat is a cross between two well-established lines. The mother, **Island Sweet Skunk**, contributes the strain's sweet, tropical aroma and uplifting sativa effects. Island Sweet Skunk itself is believed to descend from Skunk #1 and an unspecified [[oner-hawaiian-and-tropical-sativa-strains]], giving it vigorous growth and a pungent, fruity terpene profile.
 
-The father, **Hawaiian-Romulan**, blends the cerebral, energetic qualities of a Hawaiian landrace with the body-heavy, relaxing effects of Romulan (an indica-descended North American cultivar). This combination contributes Golden Goat's balanced hybrid character.
+The father, **Hawaiian-Romulan**, blends the cerebral, energetic qualities of a Hawaiian landrace with the body-heavy, relaxing effects of Romulan (an indica-descended [[growing-gourmet-north-american-reishi-species]] cultivar). This combination contributes Golden Goat's balanced hybrid character.
 
 The reported sativa-to-indica ratio is approximately 70:30, though phenotypic variation can produce more balanced expressions. The strain is considered a "multi-generational" hybrid, with genetic depth that contributes to its relatively stable expression across grows.
 
@@ -54,9 +54,9 @@ On the palate, the flavor mirrors the aroma closely. The initial impression is s
 
 The dominant terpenes in Golden Goat reflect its tropical lineage. **Myrcene** is typically present at 0.8–1.2%, providing the strain's relaxing body component and contributing to the earthy undertones of the aroma profile.
 
-**Limonene** is prominent at 0.6–1.0%, responsible for the bright citrus notes and contributing to mood elevation and stress relief. **Caryophyllene** at 0.4–0.8% adds peppery, spicy notes and contributes anti-inflammatory properties through CB2 receptor binding.
+**Limonene** is prominent at 0.6–1.0%, responsible for the bright citrus notes and contributing to mood elevation and stress relief. **Caryophyllene** at 0.4–0.8% adds peppery, spicy notes and contributes anti-inflammatory properties through CB2 [[tihkal-receptor-binding-serotonin]].
 
-Supporting terpenes include **pinene** (0.2–0.4%), contributing piney freshness and potential bronchodilatory effects, and **linalool** (0.1–0.3%), adding subtle floral sweetness. Trace amounts of **humulene** and **ocimene** round out the profile. The terpene-to-cannabinoid ratio is relatively high, meaning the entourage effect plays a significant role in the overall experience.
+Supporting terpenes include **pinene** (0.2–0.4%), contributing piney freshness and potential bronchodilatory effects, and **linalool** (0.1–0.3%), adding subtle floral sweetness. Trace amounts of **humulene** and **ocimene** round out the profile. The terpene-to-cannabinoid ratio is relatively high, meaning the [[cannabis-terpene-entourage-effect-profiles]] plays a significant role in the overall experience.
 
 ## Cannabinoid Profile
 
@@ -88,7 +88,7 @@ Golden Goat is considered moderately difficult to cultivate, with a flowering ti
 
 Yields are average to above average, typically 350–450 g/m² indoors. Outdoor plants can produce 400–550 g per plant when grown in a warm, sunny climate with a long growing season. The strain responds well to both soil and hydroponic systems and benefits from moderate nutrient feeding schedules.
 
-Golden Goat is relatively resistant to common pests and molds but can be susceptible to powdery mildew in humid conditions. The strain expresses its best coloration and terpene production when night temperatures drop 5–10°C below daytime highs during the final 2–3 weeks of flowering.
+Golden Goat is relatively resistant to common pests and molds but can be susceptible to [[cervantes-powdery-mildew-prevention-treatment]] in humid conditions. The strain expresses its best coloration and terpene production when night temperatures drop 5–10°C below daytime highs during the final 2–3 weeks of flowering.
 
 ## Notable Phenotypes
 

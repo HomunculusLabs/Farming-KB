@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Shelf Life and Stability
+title: Psilocybin psilocybin shelf life stability and Stability
 created: 2026-04-19
 updated: 2026-04-18
 type: concept
@@ -24,7 +24,7 @@ In laboratory settings, mushrooms are usually dried at room temperatures. This i
 
 ### Freeze-Drying (Lyophilization)
 
-Freeze-dried mushrooms have a highly porous texture that actually causes the alkaloids to break down relatively quickly if stored at room temperature (20 C). For this reason:
+Freeze-dried mushrooms have a highly porous texture that actually causes the alkaloids to [[query-can-fungi-break-down-plastic-pollution]] relatively quickly if stored at room temperature (20 C). For this reason:
 
 - Freeze-dried samples for biochemical analysis are stored at -10 C (14 F) prior to alkaloid extractions or chromatography testing
 - Freeze-drying is NOT recommended for long-term storage at room temperature
@@ -36,7 +36,7 @@ Oven drying at temperatures below 50 C is acceptable but must be monitored caref
 
 ## Species-Specific Decay Rates
 
-North American investigators have noted that psilocybin's decay rate is slowest in [[query-what-is-the-difference-between-psilocybin-and-psilocin]] is a comparatively less stable compound than psilocybin. As the phenol analogue of psilocybin, it oxidizes much more readily. [[psilocin-and-psilocybin-chemistry]] -- Chemical properties
+[[growing-gourmet-north-american-reishi-species]] investigators have noted that psilocybin's decay rate is slowest in [[query-what-is-the-difference-between-psilocybin-and-psilocin]] is a comparatively less stable compound than psilocybin. As the phenol analogue of psilocybin, it oxidizes much more readily. [[psilocin-and-psilocybin-chemistry]] -- Chemical properties
 - [[psilocybe-semilanceata]] -- Species with slowest decay rate
 - [[psilocybe-semilanceata-eight-indole-compounds]]
 - [[mushroom-long-term-storage]]
@@ -57,7 +57,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,4 +99,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

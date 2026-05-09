@@ -8,7 +8,7 @@ sources: []
 ---
 # TMA-5
 
-**PIHKAL Entry #161** -- 2,3,6-Trimethoxyamphetamine
+**[[2c-b-pihkal-entry-20]] #161** -- 2,3,6-Trimethoxyamphetamine
 
 ## Chemical Name
 
@@ -82,7 +82,7 @@ any conclusions about its relative potency remain speculative.
 The 2,3,6-trimethoxy pattern is of interest because it places two adjacent
 methoxy groups (2,3-) together with a meta-positioned third group (6-), a
 pattern not commonly found in naturally occurring compounds. This may explain
-why TMA-5 does not correspond to a known essential oil, unlike [[tma-2-entity]] (asarone).
+why TMA-5 does not correspond to a known [[permaculture-designers-manual-essential-oil-plants]], unlike [[tma-2-entity]] (asarone).
 
 ## Related Compounds
 

@@ -23,11 +23,11 @@ and developed practical methods for reversing them.
 ## Understanding Desertification as a Process
 
 Desertification does not happen overnight. It follows a predictable sequence of
-degradation that Holzer has witnessed in countries around the world:
+degradation that Holzer has witnessed in countries [[fungi-around-the-world-species-distribution]]:
 
 1. Original vegetation (mixed forests, diverse grasslands) is removed through
    deforestation, overgrazing, or conversion to monoculture
-2. The bare ground is exposed to direct sunlight and hardens like an oven
+2. The [[savory-bare-ground-and-soil-exposure]] is exposed to direct sunlight and hardens like an oven
 3. Where the forest once stored water like a sponge, dry heat builds up
 4. Dew and humidity disappear; the ground begins to radiate heat into the air
 5. Changing thermal conditions create new air currents, leading to storms and
@@ -52,7 +52,7 @@ soil.
 monoculture plantations of eucalyptus, pine, or spruce eliminates the
 diverse root systems that held water and nutrients in the soil. The 2010
 Russian forest fires burned an area twice the size of Austria, directly
-caused by a century of wrong forest management.
+caused by a century of wrong [[mollison-pdc-forest-management-products]].
 
 **Land consolidation and drainage.** Making fields machinery-friendly by
 removing hedges, ponds, lakes, and wetlands eliminates the humid habitats
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

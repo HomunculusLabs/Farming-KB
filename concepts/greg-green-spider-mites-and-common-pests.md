@@ -1,5 +1,5 @@
 ---
-title: "Spider Mites and Common Cannabis Pests"
+title: "cervantes-spider-mites-identification-control and Common green-cannabis-pests-prevention"
 created: 2026-04-28
 tags: [cannabis, pests, spider-mites, ipm, pest-control]
 date: 2026-04-25
@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md]
 type: concept
 ---
 
-Pest management is one of the most critical aspects of successful cannabis
+[[cannabis-pest-management-guide]] is one of the most critical aspects of successful cannabis
 cultivation. [[green-cannabis-grow-bible-pest-disease-prevention]] and
 [[integrated-pest-management]]. Regular inspection of plants, especially
 the undersides of leaves, should be part of every grower's routine.
@@ -20,7 +20,7 @@ plants, but whitefly, slugs, snails, caterpillars, and various other
 insects can also cause serious damage. Prevention through clean growing
 practices and vigilant monitoring is far more effective than trying to
 eradicate an established infestation. Every grower should keep appropriate
-pest control products readily available.
+[[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] products readily available.
 
 ## See Also
 
@@ -102,4 +102,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -1,5 +1,5 @@
 ---
-title: How Do I Make Herbal Infused Oils at Home?
+title: How Do I Make query how to make herbal infused oils at home Oils at Home?
 created: 2026-04-28
 tags: [herbalism, medicine-making, herbal-oils, natural-remedies, herbalism-basics]
 date: 2026-04-28
@@ -10,7 +10,7 @@ type: query
 
 # How Do I Make Herbal Infused Oils at Home?
 
-Herbal infused oils are one of the foundational preparations in herbalism. They capture the fat-soluble compounds from herbs — including volatile oils, resins, and lipophilic constituents — into a carrier oil that can be used directly on the skin, added to salves and balms, or taken internally (food-grade oils and herbs only). An infused oil is also the first step toward making herbal salves, creams, and liniments.
+Herbal infused oils are one of the foundational preparations in herbalism. They capture the fat-soluble compounds from herbs — including volatile oils, resins, and lipophilic constituents — into a carrier oil that can be used directly on the skin, added to salves and balms, or taken internally (food-grade oils and herbs only). An infused oil is also the first step toward making [[query-how-to-make-herbal-salves-and-balms-at-home]], creams, and liniments.
 
 ## Why Make Infused Oils?
 
@@ -20,9 +20,9 @@ Many of the most valuable phytochemicals in medicinal plants are not water-solub
 
 The carrier oil you select matters for both extractiojojobaciency and shelf stability:
 
-- **Olive oil**: The traditional choice. Rich, stable, excellent solvent properties. Use extra virgin for highest quality. Shelf life of 1 to 2 years.
+- **Olive oil**: The traditional choice. Rich, stable, excellent [[lemon-cannabis-alchemy-solvent-properties-and-selection-guide]]. Use extra virgin for highest quality. Shelf life of 1 to 2 years.
 - **Jojoba oil**: Technically a liquid wax. Extremely stable with a shelf life of 2 to 5 years. Excellent for skin preparations since it closely mimics human sebum. More expensive but worth it for premium products.
-- **Coconut oil**: Solid at room temperature, which makes it ideal for salves and balms. Use fractionated (liquid) coconut oil if you need a pourable infusion. Antimicrobial properties add preservation.
+- **Coconut oil**: Solid at room temperature, which makes it ideal for salves and balms. Use fractionated (liquid) coconut oil if you need a pourable infusion. [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] add preservation.
 - **Sunflower oil**: Light, affordable, and with good extraction properties. Good for infused massage oils. Lower saturated fat content means slightly shorter shelf life than olive.
 - **Sesame oil**: Traditional in Ayurvedic preparations. Warming quality makes it ideal for muscular and joint preparations. Good solvent for resins.
 
@@ -62,7 +62,7 @@ This is the easiest approach and works well for most home herbalists:
 When you need oil faster, gentle heat extraction works well:
 
 1. **Combine herb and oil** in a double boiler or a mason jar set in a pot of water. Use roughly 1 part dried herb to 5 parts oil by weight.
-2. **Heat gently** on low — the oil should reach 100 to 140 degrees Fahrenheit (38 to 60 degrees Celsius), never a simmer or fry. Excessive heat destroys volatile compounds and can create carcinogenic byproducts.
+2. **Heat gently** on low — the oil should reach 100 to 140 degrees Fahrenheit (38 to 60 degrees Celsius), never a simmer or fry. Excessive heat destroys [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] and can create carcinogenic byproducts.
 3. **Maintain temperature** for 2 to 4 hours, stirring occasionally. A slow cooker on the lowest "warm" setting works if monitored with a thermometer.
 4. **Cool, strain, and bottle** as described above.
 
@@ -94,7 +94,7 @@ Once you have a quality infused oil, there are many applications:
 
 - **Direct skin application** as a massage oil or moisturizer
 - **As a base for herbal salves** by combining with beeswax (typically 1 part wax to 4 to 5 parts oil)
-- **In herbal balms** by adding essential oils and butters like shea or cocoa
+- **In herbal balms** by adding [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] and butters like shea or cocoa
 - **As a carrier for essential oils** in aromatherapy preparations
 - **In liniments** by adding a small amount of rubbing alcohol or witch hazel for penetrating, cooling applications
 - **Internally** — but only if both the herb and the oil are food-grade, the oil is fresh, and you have verified the herb is safe for internal consumption

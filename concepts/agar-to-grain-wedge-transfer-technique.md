@@ -1,5 +1,5 @@
 ---
-title: "Agar-to-Grain Wedge Transfer Technique"
+title: "Agar-to-Grain agar to grain wedge transfer technique Technique"
 type: concept
 tags:
   - spawn-production
@@ -40,13 +40,13 @@ Stamets recommends a "double wedge" technique for superior results. A single tri
 
 ## Post-Transfer Handling
 
-Once the transfer is complete, the jar lid is replaced and tightened. All jars in the set are then shaken thoroughly to distribute the mycelial wedges throughout the grain. During shaking, each wedge travels through the grain media, leaving mycelial fragments adhering to individual grain kernels.
+Once the transfer is complete, the [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] is replaced and tightened. All jars in the set are then shaken thoroughly to distribute the mycelial wedges throughout the grain. During shaking, each wedge travels through the grain media, leaving mycelial fragments adhering to individual grain kernels.
 
 If a wedge sticks to the glass wall rather than falling into the grain, distribution is hampered. This is usually an indication of agar that was too thinly poured or has dehydrated in storage.
 
 ## Incubation and Colonization Timeline
 
-After shaking, jars are incubated at the species-appropriate temperature. For most species, grain should be fully colonized with mycelium in seven to ten days. A second shaking may be necessary on day four or five to further distribute colonizing kernels. Species vary in colonization speed: [[spawn-generation-techniques]] for the full spawn production workflow.
+After shaking, jars are incubated at the species-appropriate temperature. For most species, grain should be fully colonized with mycelium in seven to ten days. A second shaking may be necessary on day four or five to further distribute colonizing kernels. Species vary in colonization speed: [[shiitake-mushroom-cultivation]] for the full [[growing-gourmet-sawdust-spawn-production-use]] workflow.
 
 ## Critical Quality Control Points
 
@@ -68,11 +68,11 @@ After shaking, jars are incubated at the species-appropriate temperature. For mo
 
 - **Slow colonization:** The source culture may be weak or old. Use only vigorously growing cultures at the recommended stage of growth.
 
-- **Contamination in G-1 jars:** The source culture or sterile technique was compromised. Review workspace preparation and culture selection.
+- **Contamination in G-1 jars:** The source culture or [[cultivator-sterile-technique-and-agar-culture]] was compromised. Review workspace preparation and culture selection.
 
 ## Relationship to Liquid Culture
 
-Modern cultivators sometimes substitute or supplement wedge transfers with [[spawn-generation-techniques]] for the full spawn production workflow
+Modern cultivators sometimes substitute or supplement wedge transfers with [[shiitake-mushroom-cultivation]] for the full spawn production workflow
 
 - [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] for workspace and personal contamination control
 

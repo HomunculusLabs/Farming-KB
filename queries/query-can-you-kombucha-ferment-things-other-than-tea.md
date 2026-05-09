@@ -14,11 +14,11 @@ type: query
 
 # Can You Kombucha-Ferment Things Other Than Tea?
 
-Yes — with important caveats. While traditional kombucha requires tea (*Camellia sinensis*), the SCOBY can ferment other sugar-containing liquids, but results vary widely. Understanding why tea is the standard helps you know when substitutions work and when they fail.
+Yes — with important caveats. While traditional kombucha requires tea (*[[camellia-sinensis-entity]]*), the SCOBY can ferment other sugar-containing liquids, but results vary widely. Understanding why tea is the standard helps you know when substitutions work and when they fail.
 
 ## Why Tea Is the Standard
 
-The SCOBY's microbial community evolved on tea and depends on specific compounds it provides:
+The SCOBY's [[edaphic-factors-microbial-community-structure]] evolved on tea and depends on specific compounds it provides:
 
 - **Nitrogen** — Caffeine and theanine (amino acids) feed yeast metabolism and microbial growth. Without them, fermentation is slower and the SCOBY may weaken over successive batches.
 - **Tannins** — Tea polyphenols provide structure for the cellulose pellicle and contribute antimicrobial protection. Low-tannin substrates produce thinner, weaker pellicles.
@@ -43,7 +43,7 @@ Brewed coffee (cooled) with sugar can be fermented with a SCOBY. The result is a
 
 Jun is a distinct culture closely related to kombucha SCOBY but adapted to honey rather than cane sugar and green tea rather than black tea. Jun ferments faster (5–7 days), tastes lighter and more floral, and has less acetic acid.
 
-**Important:** You cannot simply swap honey for sugar in regular kombucha. Raw honey's antimicrobial properties (defensin-1, hydrogen peroxide, methylglyoxal, low pH) can inhibit or kill a standard SCOBY. Jun cultures have specifically adapted to honey's antimicrobial compounds over time.
+**Important:** You cannot simply swap honey for sugar in regular kombucha. Raw honey's [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] (defensin-1, [[cervantes-hydrogen-peroxide-sterilization]], methylglyoxal, low pH) can inhibit or kill a standard SCOBY. Jun cultures have specifically adapted to honey's antimicrobial compounds over time.
 
 **Verdict: Requires a Jun-specific culture. A standard kombucha SCOBY will likely fail on honey.**
 
@@ -78,7 +78,7 @@ Coconut water contains natural sugars and minerals that support fermentation. It
 Pure herbal teas (rooibos, chamomile, peppermint, hibiscus) lack caffeine and tea polyphenols. They can be blended with true tea at a 50/50 ratio for flavored kombucha.
 
 **Problems:**
-- Pure [[knf-water-soluble-phosphoric-acid-detailed]] cial sweeteners, phosphoric acid, and other additives that are hostile to fermentation organisms. The SCOBY will be damaged or killed.
+- Pure [[knf-water-soluble-phosphoric-acid-detailed]] cial sweeteners, [[cho-water-soluble-phosphoric-acid-preparation]], and other additives that are hostile to fermentation organisms. The SCOBY will be damaged or killed.
 
 ## Practical Recommendations
 

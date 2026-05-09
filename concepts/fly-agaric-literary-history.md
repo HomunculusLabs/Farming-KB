@@ -10,7 +10,7 @@ sources:
 # Fly-Agaric in Literary History
 
 The [[psychedelic-mushroom-art-and-iconography]] and the [[amanita-muscaria-fly-agaric-history-and-pharmacology]] - The mushroom's full history
-- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] - Mushroom culture in music
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] - [[mazatec-mushroom-culture-and-velada]] in music
 - [[amanita-muscaria-chemistry-and-pharmacology]] - The Siberian practices that inspired these writers
 - [[siberian-fly-agaric-shamanism-urine-recycling]]
 - [[allegro-amanita-muscaria-properties-and-pharmacology]]
@@ -142,4 +142,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

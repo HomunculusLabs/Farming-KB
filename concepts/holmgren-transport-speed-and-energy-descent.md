@@ -1,5 +1,5 @@
 ---
-title: "Transport, Speed and Energy Descent"
+title: "Transport, holmgren transport speed and [[energy-descent-action-planning]] Descent"
 created: 2026-04-26
 tags:
   - transport
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "~/wiki/raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
+  sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: concept
 ---
 
@@ -39,7 +40,7 @@ low-weight durable commodities such as spices, silk and precious metals.
 ## The Fossil Fuel Revolution in Transport
 
 The shift from bullocks to horses as the basis of transport and farming
-in the lead-up to the Industrial Revolution represented a significant
+in the lead-up to the [[mckenna-caffeine-coffee-and-industrial-revolution]] represented a significant
 increase in speed and power. Fossil fuels then reorganised human systems
 around concentrated energy. Transport of goods of great bulk and low value
 completely reconfigured the economic geography of the world.
@@ -62,7 +63,7 @@ almost as quickly, is bizarre -- and yet normal.
 
 Holmgren describes Permaculture as "aid for addicts" and applies addiction
 frameworks to understand widespread dependence on car transport. The
-term "hedonic treadmill" describes how continuous increases in material
+term "[[holmgren-consumer-addiction-and-hedonic-treadmill]]" describes how continuous increases in material
 wealth are now needed to maintain happiness measures, which Holmgren
 identifies as [[permaculture-small-and-slow-solutions]].
 
@@ -80,5 +81,7 @@ economically viable air transport.
 
 At [[permaculture-small-and-slow-solutions]] applies directly: slow, local, human-powered systems are more resilient, more equitable, and more adaptive than high-speed, fossil-fuel-dependent infrastructure. Community-scale tool libraries, cooperative food processing facilities, and local energy grids further reduce transport demand by providing shared resources within walking distance.
 
-See also [[holmgren-household-economy-and-self-reliance]],
+See also holmgren-household-economy-and-self-reliance,
 [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]].
+## See Also
+- [[david-holmgren]]

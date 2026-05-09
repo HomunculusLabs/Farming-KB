@@ -1,5 +1,5 @@
 ---
-title: Cannabis Sex Determination and Reproductive Biology
+title: Cannabis cannabis-sex-determination-floral-biology and Reproductive Biology
 created: 2026-04-28
 tags: [cannabis, reproduction, pollination, dioecious, breeding, clarke]
 date: 2026-04-25
@@ -15,7 +15,7 @@ flowers develop on separate plants, although monoecious examples with
 both sexes on one plant are also found. The development of branches
 containing flowering organs varies greatly between males and females.
 Understanding the mechanisms of sex determination, pollination biology,
-and sexual reproduction is essential for any Cannabis breeding program.
+and [[fungal-life-cycles-sexual-reproduction-metamorphosis]] is essential for any Cannabis [[cervantes-breeding-program-design-goal-setting]].
 
 ## Staminate and Pistillate Flower Morphology
 
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

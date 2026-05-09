@@ -1,5 +1,5 @@
 ---
-title: "Microwave Sterilization of Enclosed Systems"
+title: "Microwave microwave sterilization of enclosed systems Systems"
 tags:
   - sterilization
   - microwave
@@ -18,7 +18,7 @@ type: concept
 
 Microwave sterilization of enclosed systems is a capability demonstrated
 through NASA research showing that 2.45 GHz microwave radiation can
-penetrate through elastomeric materials and sterilize the internal surfaces
+penetrate through [[microwave-penetration-through-elastomeric-materials-sterilization]] and sterilize the internal surfaces
 of fully sealed or enclosed assemblies. This finding is critical for
 applications where sterile interiors must be accessed through ports and
 fittings that cannot be disassembled for cleaning.
@@ -31,7 +31,7 @@ sealed ports, valves, or fittings. The interior surfaces of these access
 points, including O-rings, gasket seats, and valve body interiors, become
 contaminated when the port is opened to the external environment.
 
-Conventional sterilization methods struggle with these enclosed geometries:
+Conventional [[conventional-surface-sterilization-methods-limitations-comparison]] struggle with these enclosed geometries:
 
 - **Autoclaving** requires the entire assembly to be disassembled and placed
   in a pressure vessel, which is often impractical.
@@ -62,7 +62,7 @@ The sterilization of an enclosed system via microwave proceeds through the
 following mechanism:
 
 1. The microwave antenna is positioned to irradiate the exterior surfaces
-   of the access port or fitting, including any elastomeric seals.
+   of the [[microwave-sterilizable-access-port-nasa-space-biology]] or fitting, including any elastomeric seals.
 
 2. Microwave energy passes through the elastomeric material and reaches the
    enclosed mating surfaces that are not directly accessible.
@@ -89,6 +89,6 @@ exposed to the sterilization agent (as with UV), the system designer can
 use microwave-transparent materials at strategic points to allow energy to
 reach enclosed surfaces.
 
-The MSAP ([[microwave-sterilizable-access-port]] for the engineered system using this capability
+The MSAP ([[microwave-sterilizable-access-port-nasa-space-biology]] for the engineered system using this capability
 - [[microwave-exposure-system-architecture-surface-sterilization]]
 - [[microwave-sterilization-system-hardware-architecture]]

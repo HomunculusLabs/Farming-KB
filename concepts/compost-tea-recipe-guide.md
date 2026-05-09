@@ -13,13 +13,13 @@ sources:
 
 ## Overview
 
-Actively Aerated Compost Tea (AACT) is a water extract of compost that is brewed with foods to select for beneficial organism growth. It must stay aerobic throughout the brewing process to retain beneficial fungi, protozoa, and nematodes. If the tea goes anaerobic, these organisms are killed and the liquid can no longer be considered compost tea.
+Actively [[actively-aerated-compost-tea]] Tea (AACT) is a water extract of compost that is brewed with foods to select for beneficial organism growth. It must stay aerobic throughout the brewing process to retain beneficial fungi, protozoa, and nematodes. If the tea goes anaerobic, these organisms are killed and the liquid can no longer be considered compost tea.
 
 ## Critical Brewing Parameters
 
 ### Oxygen
 
-The most critical factor. Dissolved oxygen must be maintained above 5.5 to 6 ppm (mg O2/L) throughout the entire brew. At sea level, 72 degrees F, water typically holds 9 to 9.5 mg O2/L. If oxygen drops below 5.5 ppm, bacteria begin attacking fungal hyphae. You have approximately 5-6 hours after turning off aeration before oxygen depletes and beneficial fungi are lost.
+The most critical factor. [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] must be maintained above 5.5 to 6 ppm (mg O2/L) throughout the entire brew. At sea level, 72 degrees F, water typically holds 9 to 9.5 mg O2/L. If oxygen drops below 5.5 ppm, bacteria begin attacking fungal hyphae. You have approximately 5-6 hours after turning off aeration before oxygen depletes and beneficial fungi are lost.
 
 ### Temperature
 
@@ -27,7 +27,7 @@ Optimal brewing temperature is around 65-72 degrees F. As temperature increases,
 
 ### Brew Time
 
-Standard brew cycle is 24 hours. Extended brewing (36-40+ hours) risks oxygen depletion as organisms multiply and consume oxygen. If oxygen dips and recovers, bacterial blooms may have consumed the fungal foods, potentially reducing fungal biomass.
+Standard brew cycle is 24 hours. Extended brewing (36-40+ hours) risks oxygen depletion as organisms multiply and consume oxygen. If oxygen dips and recovers, bacterial blooms may have consumed the fungal foods, potentially reducing [[bioremediation-fungal-biomass-biosorbent-material]].
 
 ### Water Quality
 
@@ -35,7 +35,7 @@ Water must be de-chlorinated. Chlorine kills the beneficial organisms you are tr
 
 ### Compost Quality
 
-The compost is the inoculum source. It must contain the organisms you want to grow. Good compost should have thick white strands of beneficial fungi growing through it (not grey fuzzy spores). Both thermal compost and vermicompost can be used, but they should meet SFI (Soil Foodweb) minimum standards for bacteria and fungi.
+The compost is the inoculum source. It must contain the organisms you want to grow. Good compost should have thick white strands of beneficial fungi growing through it (not grey fuzzy spores). Both [[ingham-thermal-compost-versus-worm-compost]] and vermicompost can be used, but they should meet SFI (Soil Foodweb) minimum standards for bacteria and fungi.
 
 ## Basic Recipes
 
@@ -53,7 +53,7 @@ The higher molasses amount favors bacterial growth. This is suitable for [[bacte
 
 Per 5 gallons of de-chlorinated water:
 
-- 2-3 cups fungal compost in a mesh bag (compost with visible white fungal strands)
+- 2-3 cups [[bacterial-vs-fungal-compost-teas]] in a mesh bag (compost with visible white fungal strands)
 - 1 teaspoon molasses (minimal -- bacteria compete with fungi)
 - 0.5 oz kelp meal or 1 teaspoon liquid kelp
 - 0.5 oz fish hydrolysate
@@ -101,7 +101,7 @@ Targets F:B ratio of approximately 0.8:1 to 1:1.
 
 ### Foliar Spray
 
-- **Vegetables/flowers**: 5 gallons per acre mixed with adequate water for coverage; every 10-14 days during growing season
+- **Vegetables/flowers**: 5 gallons per acre mixed with adequate water for coverage; every 10-14 days during [[savory-growing-season-and-non-growing-season-management]]
 - **Trees/vines**: 5 gallons per acre per 6 feet of canopy height; once a month if no disease, every 7-14 days if disease present
 - **Timing**: Start 2 weeks before bud break; do not spray when bees are pollinating
 - **Disease response**: Apply every 3-5 days until outbreak stops
@@ -139,9 +139,6 @@ AACT must stay aerobic to retain beneficial fungi, protozoa, and nematodes. Anae
 - Adjust food amendments to select for bacterial or fungal dominance
 - Standard brew time is 24 hours
 - De-chlorinate all water before brewing
-- Apply as soil drench and/or foliar spray at recommended rates
-- Test compost tea with SFI to verify organism levels meet standards
-
 ## Related
 
 - [[soil-food-web-structure]]

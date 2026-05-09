@@ -17,7 +17,7 @@ Tranquility, and Peace"), is one of the most infamous compounds in Shulgin's
 PIHKAL catalog. Listed as compound #35, DOM is a substituted amphetamine with
 extremely potent and long-lasting psychedelic effects. It holds a unique place
 in psychedelic history due to a widely publicized 1967 overdose incident that
-nearly derailed psychedelic research.
+nearly derailed [[mckenna-suppression-psychedelic-research-lsd-therapy]].
 
 DOM represents the alpha-methylated version of 2C-D. Its effects persist for
 14 to 20 hours or more, making it one of the longest-acting classical
@@ -56,7 +56,7 @@ unexpectedly intense and prolonged experiences.
 DOM produces classic psychedelic effects including intense visual
 hallucinations, altered time and space perception, and profound cognitive
 shifts. Visual intensity is comparable to moderate-dose LSD. Cognitive
-effects include deep philosophical thinking, ego dissolution, and mystical
+effects include deep philosophical thinking, [[psilocybin-ego-dissolution-mechanisms]], and mystical
 or transcendental experiences.
 
 Physical effects are pronounced: significant stimulation, pupil dilation,

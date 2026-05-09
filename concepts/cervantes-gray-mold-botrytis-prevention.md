@@ -1,18 +1,19 @@
 ---
-title: "Cervantes - Gray Mold (Botrytis) Prevention on Cannabis"
+title: "Cervantes - cervantes gray mold botrytis prevention (Botrytis) Prevention on Cannabis"
 created: 2026-04-26
 tags: [cannabis, fungal-disease, botrytis, bud-rot, disease-prevention]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Gray Mold (Botrytis) Prevention on Cannabis
 
 Gray mold, caused by the fungus Botrytis cinerea, is the most
-common and destructive fungal disease that attacks cannabis
+common and destructive [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] that attacks cannabis
 plants. Also known as bud mold, it flourishes in the moist,
 temperate climates common to many grow rooms and can destroy
 an entire crop in seven to ten days if left unchecked. Botrytis
@@ -82,7 +83,7 @@ can be deployed:
   [[query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growing]] stops
   Botrytis contamination
 
-Botrytis needs UV light to complete its life cycle; without
+Botrytis needs UV light to complete its [[bloomfield-fungal-life-cycle-spiral-versus-circle]]; without
 UV exposure, it cannot reproduce. Some crosses show greater
-resistance than pure indica varieties. Many hybrid varieties
+resistance than pure indica varieties. Many [[cervantes-hybrid-varieties-types]]
 are more resistant to gray mold than pure indica lines.

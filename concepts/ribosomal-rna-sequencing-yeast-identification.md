@@ -1,5 +1,5 @@
 ---
-title: Ribosomal RNA Sequencing for Yeast and Fungal Identification
+title: Ribosomal ribosomal rna sequencing yeast identification for Yeast and pcr-methods-fungal-identification-monitoring
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Ribosomal RNA Sequencing for Yeast and Fungal Identification
 
-Ribosomal RNA (rRNA) and ribosomal DNA (rDNA) sequence comparisons have become the gold standard for fungal identification and phylogenetic analysis. The multi-copy nature of rDNA and its combination of conserved and variable regions make it ideal for comparisons across different taxonomic levels.
+Ribosomal RNA (rRNA) and ribosomal DNA (rDNA) sequence comparisons have become the gold standard for [[fungal-identification-and-biodiversity-assessment]] phylogenetic analysis. The multi-copy nature of rDNA and its combination of conserved and variable regions make it ideal for comparisons across different taxonomic levels.
 
 ## Ribosomal RNA Gene Structure
 
@@ -71,10 +71,10 @@ The most widely used region for yeast identification:
 ## Major Phylogenetic Findings from rRNA/rDNA
 
 ### Ascomycetous Yeasts
-- **Yeasts form a monophyletic clade** distinct from euascomycetes (filamentous fungi)
+- **Yeasts form a monophyletic clade** distinct from euascomycetes ([[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]])
 - **Schizosaccharomyces** is phylogenetically distant from both budding yeasts and euascomycetes (separate order: Schizosaccharomycetales)
 - **Taphrina, Protomyces, Saitoella:** Form a divergent clade basal to the yeast-euascomycete branch
-- **Eremascus:** Aligned with euascomycetes despite lacking a fruiting body
+- **Eremascus:** Aligned with euascomycetes despite lacking a [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]
 - **Ascospore morphology is a poor phylogenetic indicator**
 - **Budding vs. fission reproduction** does not define monophyletic groups
 - **Saccharomyces bayanus/pastorianus:** Partial amphidiploid from hybridization
@@ -107,7 +107,8 @@ rRNA gene trees may not accurately reflect species trees because:
 
 ## See Also
 
-- [[fungal-phylogeny-kingdom-classification]]
+- fungal-phylogeny-kingdom-classification
 - [[yeast-biodiversity-isolation-ecology]]
 - [[fungal-rdna-primers-molecular-identification]]
-- [[fungal-kingdom-classification]]
+- fungal-kingdom-classification
+- [[wild-yeast-bread-baking]]

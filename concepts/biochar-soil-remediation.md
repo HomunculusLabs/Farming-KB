@@ -14,7 +14,7 @@ The remediation potential of biochar arises from its unique physicochemical prop
 
 ## Mechanisms of Contaminant Immobilization
 
-Biochar remediation of contaminated soil operates through several complementary mechanisms. The relative importance of each mechanism depends on the biochar properties (feedstock, pyrolysis temperature, particle size), soil characteristics, and the type and concentration of contaminants.
+[[comparison-biochar-remediation-vs-phytoremediation]] of contaminated soil operates through several complementary mechanisms. The relative importance of each mechanism depends on the biochar properties (feedstock, pyrolysis temperature, particle size), soil characteristics, and the type and concentration of contaminants.
 
 ### Heavy Metal Immobilization
 
@@ -28,11 +28,11 @@ At high pyrolysis temperatures (above 600 degrees Celsius), biochar develops mor
 
 ### Organic Pollutant Sequestration
 
-Biochar strongly adsorbs and sequesters organic contaminants including polycyclic aromatic hydrocarbons (PAHs), polychlorinated biphenyls (PCBs), pesticides, herbicides, and petroleum hydrocarbons. The primary mechanisms include hydrophobic partitioning into the non-polar carbon matrix, pore-filling in micropores, and pi-pi interactions between aromatic contaminants and the aromatic carbon structures of biochar.
+Biochar strongly adsorbs and sequesters organic contaminants including [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs), polychlorinated biphenyls (PCBs), pesticides, herbicides, and petroleum hydrocarbons. The primary mechanisms include hydrophobic partitioning into the non-polar carbon matrix, pore-filling in micropores, and pi-pi interactions between aromatic contaminants and the aromatic carbon structures of biochar.
 
 Adsorption of organic pollutants to biochar significantly reduces their bioavailability, limiting uptake by plants and soil organisms and reducing their toxicity. However, high adsorption strength can also reduce the biodegradability of organic contaminants by making them less accessible to microbial enzymes. This trade-off between reduced bioavailability and reduced biodegradability must be considered when applying biochar to sites contaminated with biodegradable organic compounds.
 
-Biochar can also sorb nutrient ions (ammonium, nitrate, phosphate) and dissolved organic matter, which may temporarily reduce nutrient availability for plant growth. This effect is typically transient as nutrient availability adjusts over time.
+Biochar can also sorb nutrient ions (ammonium, nitrate, phosphate) and dissolved organic matter, which may temporarily reduce [[ph-and-nutrient-availability-garden-soils]] for plant growth. This effect is typically transient as nutrient availability adjusts over time.
 
 ## Biochar Properties Affecting Remediation Performance
 
@@ -46,7 +46,7 @@ Surface modification and activation of biochar can enhance its remediation prope
 
 Biochar amendments are increasingly combined with phytoremediation strategies for synergistic remediation of contaminated soils. Biochar improves soil physical properties (water holding capacity, aggregate stability, aeration) and chemical properties (pH, nutrient retention, cation exchange capacity), creating more favorable conditions for plant growth on contaminated sites.
 
-By immobilizing metals and reducing their bioavailability, biochar can protect remediation plants from metal phytotoxicity, enabling plant establishment and growth on sites that would otherwise be too toxic for vegetation. Biochar also supports the soil microbial community that is essential for rhizodegradation of organic contaminants.
+By immobilizing metals and reducing their bioavailability, biochar can protect remediation plants from metal phytotoxicity, enabling plant establishment and growth on sites that would otherwise be too toxic for vegetation. Biochar also supports the soil [[edaphic-factors-microbial-community-structure]] that is essential for rhizodegradation of organic contaminants.
 
 The combination of biochar with hyperaccumulator plants can enhance phytoremediation efficiency. Biochar immobilizes the most bioavailable and toxic fraction of metals while plants accumulate the remaining bioavailable fraction, and soil microbial processes gradually degrade organic contaminants. Over time, repeated cropping and biochar aging can progressively reduce total contaminant concentrations and bioavailability.
 
@@ -54,7 +54,7 @@ See [[phytomining]] for metal recovery from hyperaccumulator biomass.
 
 ## Biochar and Microbial Remediation
 
-Biochar provides habitat for soil microorganisms, offering protection from predation, desiccation, and toxic conditions. Its porous structure creates microhabitats where microbial communities can establish and function. Biochar can also sorb microbial enzymes, substrates, and signaling molecules, potentially concentrating metabolic activity in its pore network.
+Biochar provides habitat for soil microorganisms, offering protection from predation, desiccation, and toxic conditions. Its porous structure creates microhabitats where microbial communities can establish and function. Biochar can also sorb microbial enzymes, substrates, and signaling molecules, potentially concentrating [[arbuscule-isolation-metabolic-activity-assays]] in its pore network.
 
 The influence of biochar on microbial degradation of organic contaminants is complex and context-dependent. Biochar can stimulate microbial activity by improving soil aeration, water holding capacity, and nutrient availability. However, strong sorption of contaminants to biochar can reduce their bioavailability for microbial degradation.
 
@@ -70,7 +70,7 @@ The long-term stability of biochar in soil is one of its key advantages over oth
 
 ## Environmental Considerations
 
-Biochar production must be managed to avoid environmental impacts including air emissions from pyrolysis (volatile organic compounds, particulate matter), feedstock sourcing sustainability, and energy consumption during production. Modern pyrolysis systems with emissions controls and energy recovery can mitigate most of these concerns.
+[[comparison-biochar-production-guide-vs-biochar-soil-amendment]] must be managed to avoid environmental impacts including air emissions from pyrolysis (volatile organic compounds, particulate matter), feedstock sourcing sustainability, and energy consumption during production. Modern pyrolysis systems with emissions controls and energy recovery can mitigate most of these concerns.
 
 The addition of biochar to soil generally has positive environmental effects including increased carbon sequestration, reduced nutrient leaching, improved soil fertility, and reduced greenhouse gas emissions from soil. However, some biochars may contain residual contaminants from the feedstock (heavy metals, PAHs) that could potentially be released to soil, particularly for biochars produced from contaminated feedstocks.
 

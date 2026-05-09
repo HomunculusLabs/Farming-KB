@@ -37,7 +37,7 @@ Stem: Cylindrical, equal to slightly thickened at the base, hollow. Surface
 pruinose above, silky to striate below the annular zone. Color pallid to
 brownish, bruising bluish where handled or injured.
 Partial veil: Cortinate, leaving a faint annular zone on the stem.
-Bruising: Strong bluing reaction upon handling or injury, characteristic of
+Bruising: Strong [[field-guide-psilocybin-bluing-reaction-identification]] upon handling or injury, characteristic of
 psilocybin-containing species.
 
 ### Microscopic Features
@@ -72,7 +72,7 @@ poorly known, with few subsequent collections reported in the literature.
 - Strong bluing reaction upon handling distinguishes it from non-psychoactive
   lookalikes in the same habitat
 - Viscid cap that becomes translucent-striate when wet
-- Dark purplish brown spore print
+- Dark purplish brown [[comparison-spore-print-collection-vs-spore-syringe-production]]
 ## See Also
 
 - [[psilocybe-caerulescens]]
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -22,16 +22,16 @@ Modern [[soil-fertility-building-gradient-solomon]] and initiates a negative
 cycle that becomes a basic cause of economic failure as well as ecological
 collapse.
 
-Key observations from American agriculture documented by Fukuoka:
+Key observations from [[fukuoka-american-agriculture-fields-of-death]] documented by Fukuoka:
 
-- The soil has been pulverized by large tractors, and organic matter has been
+- The soil has been pulverized by large tractors, and [[hamilton-composting-and-organic-matter-management]] has been
   consumed and exhausted. Few microbes exist in the soil, and when rainfall
   occurs, topsoil washes away at alarming rates — ten or more tons per acre
   per year on hilly, rolling farmland with no terracing or reservoirs.
 - The land lacks the fertility to produce crops continuously year after year,
   so one-third to one-half of fields are left fallow annually. From the air,
   the land shows an alternating pattern [[sea-of-green]] and brown stripes.
-- The yield ratio (energy yield to energy input) halves every ten years.
+- The yield ratio ([[holmgren-biomass-fuels-and-energy-yield-ratios]] to energy input) halves every ten years.
   Farmers put two calories of energy into the land to harvest one calorie of
   food energy. This is not productivity improvement but rather a desperate
   effort to curtail declines in production.
@@ -54,7 +54,7 @@ societies, with their shift to modern agriculture and heavy reliance on
 petroleum-based chemicals, face the same problem of rapid land debilitation
 through different mechanisms.
 
-Fukuoka provided striking calculations of land requirements for different
+Fukuoka provided striking calculations of [[fukuoka-textdoc-land-requirements-per-diet-type-carrying-capacity]] for different
 diets, illustrating the direct connection between dietary choices and land
 pressure:
 
@@ -68,7 +68,7 @@ If the entire human population depended on beef, humanity would have already
 reached its growth limits. On a grain diet, the earth's carrying capacity is
 sixty times the current world population. The choice of diet has direct
 implications for land use pressure and desertification risk. The beef industry
-in the United States and Europe provides clear evidence that beef production
+in the [[dmt-containing-plants-united-states-halpern]] and Europe provides clear evidence that beef production
 impoverishes the soil and denudes the earth.
 
 ## The East Coast: Hidden Soil Depletion
@@ -113,5 +113,5 @@ microorganisms as these lie outside their field of interest.
 Building dams in deserts is an attempt to treat the symptoms of
 desertification, not its cause. Water infrastructure projects capture and
 redistribute water but [[clay-pellet-desert-revegetation]] Seed Broadcasting for Revegetation
-- Pine Blight and Forest Ecosystem Collapse
+- Pine Blight and Forest [[fukuoka-textdoc-pine-rot-ecosystem-collapse-chain]]
 - [[natural-farming-principles]]

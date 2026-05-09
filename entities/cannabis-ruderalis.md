@@ -1,5 +1,5 @@
 ---
-title: Cannabis ruderalis
+title: cervantes-cannabis-ruderalis-autoflowering
 created: 2026-05-02
 updated: 2026-05-02
 type: entity
@@ -19,7 +19,7 @@ aliases:
   - Ruderal Hemp
   - Ditch Weed
   - C. sativa var. spontanea
-  - Cannabis sativa var. spontanea
+  - [[comparison-cannabis-sativa-vs-cannabis-indica]] var. spontanea
 
 sources:
   - concepts/cervantes-cannabis-ruderalis-autoflowering.md
@@ -51,7 +51,7 @@ C. ruderalis is a short, weedy, scrubby annual herb rarely exceeding 60 cm (2 fe
 - **Stature:** Compact, bushy growth habit with short internodes
 - **Leaves:** Narrow to medium leaflets, generally smaller than C. sativa, lighter green coloration
 - **Stems:** Thin but fibrous stems, less woody than C. indica
-- **Flowers:** Small, sparse inflorescences with very low resin production
+- **Flowers:** Small, sparse inflorescences with very low [[cannabis-glandular-trichome-types-resin-production-clarke]]
 - **Seeds:** Small, round seeds that shatter readily at maturity (auto-seeding mechanism)
 - **Root system:** Shallow but extensive lateral roots adapted to poor soils
 - **Lifecycle:** Extremely fast — seed to maturity in approximately 8–10 weeks
@@ -59,11 +59,11 @@ C. ruderalis is a short, weedy, scrubby annual herb rarely exceeding 60 cm (2 fe
 
 ## Natural Distribution
 
-C. ruderalis is native to Central Asia, Eastern Europe, and parts of Central Europe. It grows wild across a vast range from the Altai Mountains through Russia, Ukraine, Belarus, Poland, the Baltic states, the Caucasus, and into Central Europe. In North America, very similar "ruderalis-type" populations grow from Minnesota north through Manitoba and Saskatchewan, Canada, likely descendants of feral hemp cultivated for fiber during World War II. These populations are often colloquially called "ditch weed" due to their prevalence along roadsides, ditch banks, and wastelands.
+C. ruderalis is native to Central Asia, Eastern Europe, and parts of Central Europe. It grows wild across a vast range from the Altai Mountains through Russia, Ukraine, Belarus, Poland, the Baltic states, the Caucasus, and into Central Europe. In [[psilocybin-north-america-pacific-northwest]], very similar "ruderalis-type" populations grow from Minnesota north through Manitoba and Saskatchewan, Canada, likely descendants of feral hemp cultivated for fiber during World War II. These populations are often colloquially called "ditch weed" due to their prevalence along roadsides, ditch banks, and wastelands.
 
 ## The Autoflowering Trait
 
-The defining characteristic of C. ruderalis is its flowering mechanism. Unlike C. sativa and C. indica, which require a change in photoperiod (typically to 12 hours of darkness) to trigger flowering, C. ruderalis begins flowering after a predetermined number of weeks from germination — typically 2–4 weeks of vegetative growth — regardless of light schedule. This automatic flowering response is genetically programmed and cannot be prevented or delayed by extending the light period.
+The defining characteristic of C. ruderalis is its flowering mechanism. Unlike C. sativa and C. indica, which require a change in photoperiod (typically to 12 hours of darkness) to trigger flowering, C. ruderalis begins flowering after a predetermined number of weeks from germination — typically 2–4 weeks of [[cannabis-vegetative-growth-stage]] — regardless of [[query-best-light-schedule-for-cannabis]]. This automatic flowering response is genetically programmed and cannot be prevented or delayed by extending the light period.
 
 This trait evolved as an adaptation to the short [[holzer-stone-fruit-varieties-and-growing]] segment of the global seed market.
 
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

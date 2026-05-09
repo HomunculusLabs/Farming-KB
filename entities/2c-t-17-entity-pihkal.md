@@ -1,5 +1,5 @@
 ---
-title: "2C-T-17 -- 2,5-DIMETHOXY-4-(s)-BUTYLTHIOPHENETHYLAMINE -- PIHKAL Entry #48"
+title: "2C-T-17 -- 2,5-DIMETHOXY-4-(s)-BUTYLTHIOPHENETHYLAMINE -- 2c-b-pihkal-entry-20 #48"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -18,7 +18,7 @@ An incidental bit of trivia -- yet another bit of evidence that we are all total
 
 ## Synthesis
 
-To a solution of 2.6 g of KOH pellets in 50 mL hot MeOH, there was added a mixture of 6.8 g 2,5-dimethoxythiophenol (see under 2C-T-2 for its preparation) and 5.8 g (s)-butyl bromide. The reaction was exothermic, with the deposition of white solids. This was heated on the steam bath for a few h, the solvent removed under vacuum, and the resulting solids dissolved in 250 mL H2O. Additional aqueous NaOH was added to bring universal pH paper to a full blue color. This was extracted with 3x40 mL CH2Cl2, the extracts pooled, and the solvent removed under vacuum. The residue was 2,5-dimethoxyphenyl (s)-butyl sulfide which was a pale yellow oil, weighing 10.12 g. It was
+To a solution of 2.6 g of KOH pellets in 50 mL hot MeOH, there was added a mixture of 6.8 g 2,5-dimethoxythiophenol (see under 2C-T-2 for its preparation) and 5.8 g (s)-butyl bromide. The reaction was exothermic, with the deposition of white solids. This was heated on the [[scythian-cannabis-steam-bath-ritual]] for a few h, the solvent removed under vacuum, and the resulting solids dissolved in 250 mL H2O. Additional aqueous NaOH was added to bring universal pH paper to a full blue color. This was extracted with 3x40 mL CH2Cl2, the extracts pooled, and the solvent removed under vacuum. The residue was 2,5-dimethoxyphenyl (s)-butyl sulfide which was a pale yellow oil, weighing 10.12 g. It was
 
 sufficiently pure for use in the next reaction without a distillation step.
 
@@ -114,4 +114,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -13,12 +13,12 @@ created: 2026-04-28
 updated: 2026-04-28
 sources:
   - Kral, R. (1960). "A Revision of Asimina and Deeringothamnus (Annonaceae)."
-    Contributions from the United States National Herbarium 34(1).
+    Contributions from the [[dmt-containing-plants-united-states-halpern]] National Herbarium 34(1).
   - Pomper, K.W. et al. (2009). "Pawpaw (Asimina triloba) Research and
     Development at Kentucky State University." HortScience 44(7): 1883–1887.
   - Moore, H.E. (2001). "Pawpaw: In Search of America's Forgotten Fruit."
     Chelsea Green Publishing.
-  - Peterson, L.A. (1977). "A Field Guide to Edible Wild Plants." Houghton Mifflin.
+  - Peterson, L.A. (1977). "A [[ghouled-field-guide-historical-context]] to Edible Wild Plants." Houghton Mifflin.
 ---
 
 ## Overview
@@ -117,13 +117,13 @@ designs. Its shade tolerance allows it to thrive in the understory layer,
 and its spreading root system helps stabilize riparian zones.
 
 The tree is a larval host plant for the zebra swallowtail butterfly
-(Protographium marcellus), one of North America's most distinctive
+(Protographium marcellus), one of [[psilocybin-north-america-pacific-northwest]]'s most distinctive
 butterfly species. This ecological function adds biodiversity value to
 integrated plantings.
 
 Pawpaw produces natural compounds (annonaceous acetogenins) in its leaves,
-bark, and seeds that confer resistance to most insect pests and diseases.
-This natural pest resistance reduces or eliminates the need for chemical
+bark, and seeds that confer resistance to most insect [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]].
+This natural [[cannabis-disease-pest-resistance-breeding-clarke]] reduces or eliminates the need for chemical
 inputs in managed plantings.
 
 ## Bioactive Compounds
@@ -144,4 +144,4 @@ staples.
 
 [[juglans-regia]], [[persea-americana]], [[castanea-sativa]],
 [[diospyros-virginiana]], and carica papaya
-for comparison with other fruit trees suitable for permaculture systems.
+for comparison with other [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] suitable for permaculture systems.

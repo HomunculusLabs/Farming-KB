@@ -20,7 +20,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Mikiashvili N et al. (2006). "Enzymatic activity of selected white-rot basidiomycetes in submerged fermentation." World Journal of Microbiology and Biotechnology, 22(9), 991-998.
+  - Mikiashvili N et al. (2006). "Enzymatic activity of selected white-rot basidiomycetes in cancer-medicinal-mushrooms-submerged-fermentation-production." World Journal of Microbiology and Biotechnology, 22(9), 991-998.
   - Šnajdr J, Baldrian P (2007). "Temperature and culture medium affect the production and composition of extracellular enzymes of Irpex lacteus." Folia Microbiologica, 52(3), 247-253.
   - Novotný Č et al. (2009). "Irpex lacteus, a white-rot fungus applicable to environmental biotechnology." Applied Microbiology and Biotechnology, 82(3), 505-519.
   - https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=180293
@@ -77,10 +77,10 @@ decomposer of angiosperm wood.
 - **Laccase (EC 1.10.3.2):** Most abundantly produced enzyme; multicopper oxidase
   oxidizing phenolic and non-phenolic substrates. Yields of 10,000–50,000 U/L in submerged
   fermentation — among the highest reported for any white-rot fungus.
-- **Manganese peroxidase (MnP, EC 1.11.1.13):** Heme-containing peroxidase critical for
+- **[[fungal-manganese-peroxidase-remediation]] (MnP, EC 1.11.1.13):** Heme-containing peroxidase critical for
   lignin depolymerization via Mn³⁺-mediated oxidation.
 - **Lignin peroxidase (LiP, EC 1.11.1.14):** Directly oxidizes non-phenolic aromatics.
-- **Versatile peroxidase (VP):** Combines catalytic properties of MnP and LiP.
+- **[[singh-versatile-peroxidase-vp-multifunctional]] (VP):** Combines catalytic properties of MnP and LiP.
 - **Cellulases and hemicellulases:** Endoglucanases, xylanases, and mannanases enabling
   complete wood degradation.
 
@@ -90,21 +90,21 @@ decay" strategy makes it exceptionally effective for bioremediation.
 
 ## Bioremediation Applications
 
-- **PAH degradation:** Removes 60–90% of polycyclic aromatic hydrocarbons (pyrene, anthracene,
+- **PAH degradation:** Removes 60–90% of [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (pyrene, anthracene,
   phenanthrene, benzo[a]pyrene) from contaminated soil in 4–8 weeks.
 - **Dye decolorization:** Decolorizes azo, anthraquinone, and triphenylmethane dyes from
   textile wastewater via laccase-mediated azo bond cleavage.
 - **Endocrine disruptor removal:** Degrades bisphenol A, nonylphenol, and estrogenic compounds
   with 70–95% removal efficiency in aqueous systems.
 - **Pharmaceutical degradation:** Metabolizes antibiotics, NSAIDs, and personal care
-  product chemicals in wastewater treatment.
+  product chemicals in [[mollison-designers-wastewater-treatment-wetlands]].
 
 ## Medicinal and Nutritional Properties
 
 **Edibility:** Edible when young and soft, though flesh quickly becomes tough and corky.
 Cultivated commercially in China as "bai ling mo" (白灵蘑). Flavor is mild, slightly nutty.
 
-**Bioactive compounds:** β-glucan-rich polysaccharide extracts show immunostimulant activity
+**[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:** β-glucan-rich polysaccharide extracts show immunostimulant activity
 — increasing macrophage phagocytosis and NK cell activity in vitro and in animal models.
 Isolated triterpenoids exhibit anti-inflammatory activity via COX-2 and iNOS inhibition.
 Polysaccharide extracts inhibit sarcoma-180 and Lewis lung carcinoma growth in mice

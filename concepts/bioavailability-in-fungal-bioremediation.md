@@ -1,5 +1,5 @@
 ---
-title: Bioavailability in Fungal Bioremediation
+title: staycare-surfactant-enhanced-bioavailability-in-fungal-bioremediation Bioremediation
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -16,9 +16,9 @@ Bioavailability is one of the most critical factors determining the success or f
 
 The interactions of POPs with soil are complex but essentially involve removal of pollutants from solution by sorption to soil constituents, resulting in decreased bioavailability. Multiple sorption mechanisms operate simultaneously:
 
-- **Hydrophobic partitioning** -- hydrophobic organic compounds such as pentachlorophenol (PCP) generally sorb to soil organic matter. The extent of partitioning depends on the organic carbon content of the soil and the octanol-water partition coefficient (Kow) of the pollutant.
+- **Hydrophobic partitioning** -- hydrophobic [[fungal-volatile-organic-compounds-communication]] such as pentachlorophenol (PCP) generally sorb to soil [[hamilton-composting-and-organic-matter-management]]. The extent of partitioning depends on the [[dighton-fungal-dissolved-organic-carbon-production]] content of the soil and the octanol-water partition coefficient (Kow) of the pollutant.
 
-- **Covalent bonding** -- some POPs form covalent bonds with soil organic matter, particularly through reactions catalyzed by fungal [[fungal-bioremediation]].
+- **Covalent bonding** -- some POPs form covalent bonds with soil organic matter, particularly through reactions catalyzed by fungal fungal-bioremediation.
 
 Evidence for pore-size restrictions on pollutant transformation includes:
 
@@ -40,9 +40,9 @@ Understanding how sorption affects these different mechanisms could allow develo
 
 - **Hyphal exploration** -- the [[ectomycorrhizal-fungal-ecology]] fungi, which can increase root surface area by up to 47-fold.
 
-- **[[fungal-methylation-oxidative-coupling]] reactions catalyzed by laccases and peroxidases. This can appear as pollutant disappearance without the appearance of identifiable transformation products.
+- **fungal-methylation-oxidative-coupling reactions catalyzed by laccases and peroxidases. This can appear as pollutant disappearance without the appearance of identifiable transformation products.
 
-Bound residue formation has both positive and negative implications:
+[[fungal-bound-residue-formation]] formation has both positive and negative implications:
 
 - **Positive** -- reduces the concentration of freely available toxic pollutant, effectively detoxifying the soil
 
@@ -52,16 +52,16 @@ The long-term stability of fungal-remediated soils needs assessment to satisfy p
 
 ## Implications for Remediation Design
 
-Understanding bioavailability is essential for designing effective [[fungal-bioreactor-effluent-treatment]] that physically separate contaminated soil from fungal cultures can overcome bioavailability limitations by extracting pollutants from soil before treatment
+Understanding bioavailability is essential for designing effective fungal-bioreactor-effluent-treatment that physically separate contaminated soil from fungal cultures can overcome bioavailability limitations by extracting pollutants from soil before treatment
 
 - Soil amendments like straw can sorb pollutants and decrease their toxicity while providing a growth substrate for fungi
 
 - The rate of bioremediation depends on bioavailability; it is much slower when there are problems in mass transfer of pollutant molecules to microorganisms
 ## See Also
 
-- [[fungal-methylation-oxidative-coupling]]
+- fungal-methylation-oxidative-coupling
 
-- [[fungal-bioremediation]]
+- fungal-bioremediation
 
 - [[fungal-enzyme-systems-xenobiotic-degradation]]
 
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

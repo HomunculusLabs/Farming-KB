@@ -14,9 +14,9 @@ sources:
 
 ## Overview
 
-Eugenol is a naturally occurring phenylpropene compound and the principal aromatic constituent of clove oil. It is widely recognized for its analgesic, anti-inflammatory, and antimicrobial properties, making it a staple in traditional medicine and modern pharmacology alike. First isolated from clove buds in the early 19th century, eugenol has since been the subject of extensive pharmacological investigation revealing a broad spectrum of biological activities.
+Eugenol is a naturally occurring phenylpropene compound and the principal aromatic constituent of clove oil. It is widely recognized for its analgesic, anti-inflammatory, and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]], making it a staple in traditional medicine and modern pharmacology alike. First isolated from clove buds in the early 19th century, eugenol has since been the subject of extensive pharmacological investigation revealing a broad spectrum of biological activities.
 
-Beyond its therapeutic potential, eugenol contributes distinctive spicy, warm, and clove-like notes to the flavor and aroma profiles of numerous botanical sources, including certain cannabis cultivars where it participates in the entourage effect alongside cannabinoids and other terpenes.
+Beyond its therapeutic potential, eugenol contributes distinctive spicy, warm, and clove-like notes to the flavor and aroma profiles of numerous [[dmt-botanical-sources-pharmacology]], including certain cannabis cultivars where it participates in the [[cannabis-terpene-entourage-effect-profiles]] alongside cannabinoids and other terpenes.
 
 ## Chemical Identity
 
@@ -35,13 +35,13 @@ The dual functionality of the allyl chain and phenolic hydroxyl group gives euge
 
 Eugenol is abundant across several aromatic plant families, particularly Myrtaceae, Lamiaceae, and Lauraceae:
 
-- **Clove oil** (*Syzygium aromaticum*) — 70–85% eugenol by weight, the richest commercial source; clove buds, stems, and leaves all yield eugenol-rich essential oils
+- **Clove oil** (*[[syzygium-aromaticum]]*) — 70–85% eugenol by weight, the richest commercial source; clove buds, stems, and leaves all yield eugenol-rich [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]
 - **Cinnamon leaf oil** (*Cinnamomum verum*) — up to 80% eugenol content; distinguishes leaf oil from bark oil, which is dominated by cinnamaldehyde
-- **Basil** (*Ocimum basilicum*) — present as a significant volatile component in several chemotypes, particularly the methyl chavicol/eugenol chemotype
-- **Nutmeg** (*Myristica fragrans*) — contributes to the spice's characteristic aroma alongside myristicin and sabinene
-- **Bay leaf** (*Laurus nobilis*) — found at lower concentrations in the essential oil, contributing to the herb's warm aroma
+- **Basil** (*[[ocimum-basilicum]]*) — present as a significant volatile component in several chemotypes, particularly the methyl chavicol/eugenol chemotype
+- **Nutmeg*myristica fragrans rans*) — contributes to the spice's characteristic aroma alongside myristicin and sabinene
+- **Bay leaf** (*[[laurus-nobilis]]*) — found at lower concentrations in the essential oil, contributing to the herb's warm aroma
 
-Eugenol is also detected in the terpene profile of cannabis, though typically at minor concentrations relative to dominant monoterpenes and sesquiterpenes. Other botanical sources include allspice (*Pimenta dioica*), star anise (*Illicium verum*), and ginger (*Zingiber officinale*).
+Eugenol is also detected in the terpene profile of cannabis, though typically at minor concentrations relative to dominant monoterpenes and sesquiterpenes. Other botanical sources include allspice (*[[pimenta-dioica]]*), star anise (*Illicium verum*zingiber officinale giber officinale*).
 
 ## Role in Cannabis
 
@@ -68,14 +68,14 @@ Eugenol exerts its biological effects through multiple molecular targets:
 - **TRPV1 receptor agonism** — Activates the transient receptor potential vanilloid 1 channel, producing an initial warming sensation followed by desensitization and analgesia. This mechanism parallels that of capsaicin and underpins eugenol's historical use in dental pain relief.
 - **COX-2 inhibition** — Suppresses cyclooxygenase-2 expression, reducing prostaglandin-mediated inflammation. This effect is concentration-dependent and contributes to its anti-inflammatory profile.
 - **GABA-A receptor modulation** — Potentiates chloride ion influx through GABA-A receptors, producing mild anxiolytic and sedative effects at pharmacologically relevant concentrations.
-- **Antioxidant activity** — The phenolic hydroxyl group scavenges reactive oxygen species (ROS) including superoxide anions and hydroxyl radicals, providing cytoprotective effects against oxidative stress.
+- **Antioxidant activity** — The phenolic hydroxyl group scavenges reactive oxygen species (ROS) including superoxide anions and hydroxyl radicals, providing cytoprotective effects against [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]].
 - **Calcium channel blockade** — Inhibits voltage-gated calcium channels in neuronal membranes, contributing to its local anesthetic and neuroprotective properties.
 
 ## Therapeutic Applications
 
 - **Dental analgesia** — Used for centuries in traditional dentistry; clove oil applied to tooth cavities provides rapid pain relief via TRPV1 desensitization. Zinc oxide–eugenol cement remains a standard dental restorative material.
 - **Anti-inflammatory** — Topical and oral formulations reduce inflammation in conditions such as gingivitis, arthritis, and dermatitis through COX-2 and NF-κB pathway suppression.
-- **Antimicrobial** — Exhibits broad-spectrum activity against oral pathogens including *Streptococcus mutans*, *Porphyromonas gingivalis*, and *Candida albicans*, supporting its use in mouthwashes and oral care products.
+- **Antimicrobial** — Exhibits broad-spectrum activity against oral pathogens including *Streptococcus mutans*, *Porphyromonas gingivalis [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]] albicans*, supporting its use in mouthwashes and oral care products.
 - **Insecticidal and repellent** — Toxic to mosquitoes, flies, and agricultural pests through acetylcholinesterase inhibition; used as a natural insecticide and repellent.
 - **Food preservative** — Effective against foodborne bacteria and fungi, extending shelf life in packaged food products.
 - **Gastroprotective** — Demonstrated protective effects against gastric ulceration in animal models through antioxidant and anti-inflammatory mechanisms.
@@ -95,7 +95,7 @@ Peak plasma concentrations following oral dosing are typically achieved within 3
 - **Hepatotoxicity** — High-dose administration (≥500 mg/kg) in animal studies has produced centrilobular hepatic necrosis, elevated transaminases, and oxidative liver damage. The mechanism involves metabolic activation to reactive quinone intermediates.
 - **Contact allergen** — Prolonged dermal exposure, particularly among dental workers handling zinc oxide–eugenol cements, can cause allergic contact dermatitis. Patch testing with eugenol is included in standard dental allergen panels.
 - **Mucosal irritation** — Undiluted clove oil or concentrated eugenol can cause chemical burns on oral and gingival mucosa. Dilution to ≤5% is recommended for topical applications.
-- **Drug interactions** — May potentiate the effects of anticoagulants and other compounds metabolized by cytochrome P450 enzymes due to enzyme inhibition at high concentrations.
+- **Drug interactions** — May potentiate the effects of anticoagulants and other compounds metabolized by cytochrome P450enzyme inhibition nzyme inhibition at high concentrations.
 
 ## Industrial Uses
 

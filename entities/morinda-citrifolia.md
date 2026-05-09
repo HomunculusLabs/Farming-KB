@@ -14,14 +14,14 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Singh, D.R. (2012). "Morinda citrifolia (Noni): A Comprehensive Review." In Bioactive Foods in Promoting Health. Academic Press.
-  - West, B.J. et al. (2009). "Morinda citrifolia (Noni) Fruit Juice." Journal of Agricultural and Food Chemistry.
+  - West, B.J. et al. (2009). "Morinda citrifolia (Noni) [[bionutrients-lab-fermented-fruit-juice-ffj]]." Journal of Agricultural and Food Chemistry.
   - Deng, S. et al. (2007). "Noni (Morinda citrifolia): A Complete Review." Asian Journal of Food and Agro-Industry.
   - Nelson, S.C. & Elevitch, C.R. (2015). "Morinda citrifolia (Noni): Production, Processing, and Marketing." Permanent Agriculture Resources (PAR), Holualoa, Hawai'i.
 ---
 
 # Morinda citrifolia
 
-**Noni** is an evergreen shrub or small tree in the coffee family (Rubiaceae), native to Southeast Asia and Australasia but now naturalized throughout the tropics. One of the most important traditional Polynesian medicinal plants, noni has earned a reputation as a "canoe plant" — carried across the Pacific by early Polynesian voyagers for its food, fiber, and medicinal value. In permaculture, it is valued as a hardy pioneer species, soil stabilizer, and multi-use tree.
+**Noni** is an evergreen shrub or small tree in the coffee family (Rubiaceae), native to [[psilocybe-southeast-asia-pacific]] and Australasia but now naturalized throughout the tropics. One of the most important traditional Polynesian medicinal plants, noni has earned a reputation as a "canoe plant" — carried across the Pacific by early Polynesian voyagers for its food, fiber, and medicinal value. In permaculture, it is valued as a hardy pioneer species, soil stabilizer, and multi-use tree.
 
 ## Taxonomy
 
@@ -80,7 +80,7 @@ The fruit contains over 160 phytochemicals, with the most studied being:
 | **[[food-forest]] Integration
 - Canopy mid-layer or understory tree depending on placement
 - Tolerates partial shade but fruits best in full sun
-- Deep taproot accesses subsoil nutrients, bringing them to the surface via leaf litter
+- Deep taproot accesses subsoil nutrients, bringing them to the surface via [[dighton-fungal-decomposition-leaf-litter-dynamics]]
 - Dropped fruit decomposes rapidly, cycling nutrients
 - Pest-resistant — few insect or disease problems in most locations
 - Salt-tolerant — suitable for coastal food forests

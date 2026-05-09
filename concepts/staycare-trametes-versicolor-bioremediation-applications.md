@@ -1,5 +1,5 @@
 ---
-title: Trametes versicolor Bioremediation Applications
+title: growing-gourmet-turkey-tail-trametes-versicolor-cultivation Bioremediation Applications
 created: 2026-04-26
 synonyms:
   - Coriolus versicolor bioremediation
@@ -23,7 +23,7 @@ updated: 2026-04-26
 - **Growth**: Forms distinctive bracket-like fruiting bodies with concentric color zones (hence "versicolor")
 - **Temperature optimum**: 27-30°C (typical of most white rot fungi)
 - **pH**: Grows optimally at pH 4-5.5; self-buffers in this range during growth on carbohydrates
-- **Nutrition**: Does NOT require nitrogen limitation for ligninolytic enzyme production (unlike P. chrysosporium)
+- **Nutrition**: Does NOT require nitrogen limitation for ligninolytic [[ligninolytic-enzyme-production-bioremediation]] (unlike P. chrysosporium)
 - **Laccase**: Strong constitutive laccase producer; laccase is the dominant extracellular oxidative enzyme
 
 ## Laccase System
@@ -59,7 +59,7 @@ T. versicolor is among the most effective white rot fungi for dye decolorization
 
 T. versicolor degrades polychlorinated biphenyls:
 
-- **Aroclor 1254 and Delor 106**: Small amounts degraded in liquid culture (Eaton, 1985; Novotny et al., 1997)
+- **Aroclor 1254 and Delor 106**: Small amounts degraded in [[comparison-liquid-culture-vs-grain-spawn]] (Eaton, 1985; Novotny et al., 1997)
 - **Bioavailability enhancement**: Low concentrations of Triton X-100 surfactant increased bioavailability of PCB congener 2,4',5-trichlorobiphenyl for oxidation (Beaudette et al., 2000)
 - **Preference**: Like bacterial systems, preferentially degrades lesser-chlorinated biphenyls
 
@@ -104,10 +104,10 @@ T. versicolor shows interesting metal interactions:
 
 ## Limitations
 
-1. **No LiP**: Lack of lignin peroxidase limits direct oxidation of non-phenolic compounds without mediators
+1. **No LiP**: Lack of [[fungal-lignin-peroxidase-veratryl-alcohol]] limits direct oxidation of non-phenolic compounds without mediators
 2. **Mediator cost**: Effective treatment of non-phenolic pollutants requires added mediators
 3. **New chromophore formation**: Laccase-mediated coupling can produce new colored products during dye treatment
-4. **Mn²⁺ interactions**: Complex and sometimes adverse effects of manganese on treatment outcomes
+4. **Mn²⁺ interactions**: Complex and sometimes [[blesching-cannabis-safety-adverse-effects-evidence]] of manganese on treatment outcomes
 
 ## See Also
 
@@ -118,7 +118,7 @@ T. versicolor shows interesting metal interactions:
 
 ## References
 
-- Beaudette, L.A. et al. (2000). Surfactant effects on fungal degradation of PCBs.
+- Beaudette, L.A. et al. (2000). Surfactant [[brassinosteroid-effects-on-fungal-morphology]] degradation of PCBs.
 - Collins, P.J. & Dobson, A.D.W. (1997). Regulation of laccase gene transcription in Trametes versicolor.
 - Deas, A.H.B. & Clifford, D.R. (1982). Stereospecific reduction of triadimefon.
 - Eaton, D.C. (1985). Mineralization of polychlorinated biphenyls by Phanerochaete and Trametes.

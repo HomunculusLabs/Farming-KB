@@ -1,5 +1,5 @@
 ---
-title: "Rodenticide Cycle and Forest Destruction Chain"
+title: "fukuoka textdoc rodenticide cycle forest destruction mouse weasel and Forest Destruction Chain"
 created: 2026-04-28
 tags: [ecology, rodenticide, forest-destruction, cascade-failure, food-chain, pine-forest, ecosystem-balance, pest-control]
 date: 2026-04-28
@@ -54,7 +54,7 @@ that feed on them.
 To protect the weasels, man then begins to raise mice to restore the rodent
 population. Isn't this the stuff of crazed dreams? Each intervention creates a new
 problem requiring further intervention, producing an ever-widening spiral of human
-manipulation that moves further and further from ecological balance.
+manipulation that moves further and further from [[fukuoka-ecological-balance-principles]].
 
 ## The Insanity of Blanket Pesticide Application in Rice Fields
 
@@ -89,13 +89,13 @@ causing subtle changes in weather and affecting the microbial world.
 No matter how closely one looks, there is no limit to the complexity and detail with
 which nature interacts to effect constant, organic change. When a single variable is
 altered — the species of tree, for example — the ripple effects propagate through
-soil chemistry, microbial ecology, insect populations, bird habitats, and weather
+soil chemistry, [[fukuoka-microbial-ecology-decomposition]], insect populations, bird habitats, and weather
 patterns in ways that no scientific analysis can fully predict or control.
 
 ## The Problem of Aerial Forest Spraying
 
 The aerial spraying of mountain forests with herbicides, pesticides, and chemical
-fertilizers is considered a success if a given weed or insect pest is selectively
+fertilizers is considered a success if a given weed or [[ingham-foliar-insect-pest-deterrence-mechanisms]] is selectively
 killed, or the growth of trees improved. But this is a grave error that can prove most
 dangerous. Natural conservationists have already recognized such practices as
 polluting.
@@ -108,7 +108,7 @@ destroys microorganisms in the ground.
 
 ## The Chloropicrin Example
 
-Treating the soil with chloropicrin will temporarily alleviate bacterial soft rot in
+Treating the soil with chloropicrin will temporarily alleviate bacterial [[staycare-soft-rot-fungi-in-pollutant-degradation]] in
 Chinese cabbage and the daikon radish, but the disease breaks out again two years
 later and gets completely out of hand. This germicide halts the soft rot, but at the
 same time it also kills other bacteria that moderate the severity of the disease,

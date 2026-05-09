@@ -4,7 +4,8 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [regenerative]
-sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # India Visit: Observations on Agriculture and Spirituality
@@ -13,7 +14,7 @@ updated: 2026-04-18
 
 Masanobu Fukuoka's visit to India provided stark contrasts between
 ancient agricultural wisdom and modern industrial agriculture, while
-also connecting his natural farming philosophy to India's spiritual
+also connecting his natural [[fukuoka-do-nothing-farming-philosophy-and-practice]] to India's spiritual
 traditions.
 
 ## First Impressions of Indian Agriculture
@@ -23,7 +24,7 @@ of traditional and modern farming. In many villages, he observed farmers
 still practicing methods passed down through generations -- plowing with
 oxen, saving seed from year to year, and maintaining a deep connection
 to the land. Yet alongside this, the Green Revolution had introduced
-chemical fertilizers, pesticides, and high-yielding varieties that were
+[[cervantes-chemical-fertilizers-guide]], pesticides, and high-yielding varieties that were
 beginning to erode the old ways.
 
 He noted that the Indian farmers he met possessed an intuitive
@@ -38,14 +39,14 @@ sacred. While Western observers saw this as irrational superstition,
 Fukuoka understood it as a recognition of the cow's role in maintaining
 the agricultural ecosystem -- providing milk, dung for fuel and
 fertilizer, and labor without competing with humans for food. This
-was, in his view, an intuitive understanding of ecological balance
+was, in his view, an intuitive understanding of [[fukuoka-ecological-balance-principles]]
 that modern science was only beginning to rediscover.
 
 ## Village Self-Sufficiency
 
 The Indian villages Fukuoka visited still retained a remarkable degree
 of self-sufficiency. Each household typically maintained a small garden
-with vegetables, fruit trees, and medicinal herbs. The village as a
+with vegetables, fruit trees, and [[permaculture-plants-medicinal-herbs-healing]]. The village as a
 whole produced most of what it needed: rice or wheat from the fields,
 vegetables from gardens, milk from cows, and materials for housing and
 clothing from local trees and plants.
@@ -60,7 +61,7 @@ their connection to the land.
 
 One of the most important observations Fukuoka made in India concerned
 the tradition of seed saving. Indian farmers had maintained diverse crop
-varieties for thousands of years through careful seed selection and
+varieties for thousands of years through careful [[cannabis-seed-selection-and-strain-types]] and
 exchange. Each village might grow dozens of rice varieties, each suited
 to specific microclimates, soil conditions, or culinary purposes.
 
@@ -77,7 +78,7 @@ much Japan had lost. Indian farmers still lived in close contact with
 nature, still understood the rhythms of the seasons, still maintained
 diverse cropping systems. Japanese agriculture, by contrast, had been
 thoroughly industrialized and specialized. Even Japan's traditional
-rice farming had been reduced to a chemical-dependent monoculture.
+[[fukuoka-natural-rice-farming-steps]] had been reduced to a chemical-dependent monoculture.
 
 Yet Fukuoka also saw warning signs in India. The same forces that had
 transformed Japanese agriculture were at work: government policies
@@ -88,7 +89,7 @@ destructive path.
 
 ## Natural Farming Experiments in India
 
-During his visit, Fukuoka demonstrated his [[fukuoka-forty-days-africa]]
+During his visit, Fukuoka demonstrated his Africa
 - [[fukuoka-nature-perfect-imperfect-philosophical-perspective]]
 - [[fukuoka-seed-ball-technique]]
 - [[what-natural-farming-method-should-i-use]]

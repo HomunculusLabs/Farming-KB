@@ -1,18 +1,19 @@
 ---
-title: "Carnot Cycle vs Rankine Cycle"
+title: "Carnot carnot cycle vs rankine cycle Cycle"
 type: comparison
 tags: [thermodynamics, heat-engines, power-cycles, steam-power, efficiency]
 related: [carnot-cycle-and-heat-engines, rankine-cycle]
 created: 2026-05-02
 updated: 2026-05-06
-sources: []
+sources:
+  sources: []
 ---
 
 # Carnot Cycle vs Rankine Cycle
 
 The Carnot cycle and the Rankine cycle are both heat-engine cycles, but they serve very different purposes.
 The Carnot cycle is a reversible ideal that defines the maximum efficiency possible between two temperatures.
-The Rankine cycle is an idealized but practical model of steam and vapor holmgren trees nature.
+The Rankine cycle is an idealized but practical model of steam and vapor [[holmgren-trees-solar-power-plants-detailed]] nature.
 Carnot asks what nature allows in principle.
 Rankine asks how a real boiler, turbine, condenser, and pump can convert heat into useful shaft work.
 The distinction matters because comparing real steam plants directly to Carnot efficiency can be misleading.
@@ -48,7 +49,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -98,7 +99,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -108,4 +109,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

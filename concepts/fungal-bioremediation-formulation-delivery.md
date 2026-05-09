@@ -1,5 +1,5 @@
 ---
-title: Fungal Bioremediation Formulation Delivery
+title: Fungal fungal bioremediation formulation delivery Delivery
 created: 2026-04-28
 tags: [bioremediation, formulation, bioaugmentation, delivery, inoculum]
 date: 2026-04-25
@@ -43,7 +43,7 @@ indigenous populations that overgrow the introduced species.
 ## Bacterial Formulation Models
 
 Bacterial bioaugmentation provides instructive parallels for fungal
-formulation. Bacterial inocula for drain cleaners, wastewater treatment,
+formulation. Bacterial inocula for drain cleaners, [[mollison-designers-wastewater-treatment-wetlands]],
 and agricultural applications are produced as freeze-dried solids,
 air-dried solids, or stabilized liquid suspensions. Fluid systems and
 granular mixtures of vermiculite, sand, or peat introduce bacteria in
@@ -73,16 +73,16 @@ Solid-state fermentation is an alternative approach where mycelia are
 grown with little or no free water on solid substrates such as grain,
 composted lignocellulosic waste, or other plant material mixtures.
 Mushroom growers and koji producers use solid-state fermentation for
-fungal biomass production. After mycelia ramify through the substrate,
+[[bioremediation-fungal-biomass-biosorbent-material]] production. After mycelia ramify through the substrate,
 it becomes a self-encapsulating matrix. Well-colonized substrate can
 be dried, extruded, and shaped into granules. In one variation,
-biocontrol fungi are fermented on rice flour, combined with wheat
+[[ingham-trichoderma-biocontrol-fungi-aact]] are fermented on [[brown-rice-flour-substrate]], combined with wheat
 flour, kaolin, and water, then extruded into granules. Damaged cereal
 grains can serve as fermentation ingredients, reducing costs.
 
 ## Mycoherbicide Precedents
 
-Fungal formulation for bioremediation parallels development of
+[[staycare-fungal-formulation-in-situ-bioremediation]] for bioremediation parallels development of
 microbial pesticides. The first commercialized mycoherbicides,
 DeVine (Phytophthora palmivora) and Collego (Colletotrichum
 gloeosporioides), were formulated as aqueous spore suspensions
@@ -109,5 +109,11 @@ Relatively little research attention has focused on fungal formulation
 compared with the broader bioremediation effort. Key challenges include
 maintaining inoculum viability during storage and after field
 application, achieving adequate distribution of inoculum in large soil
-volumes, and overcoming competition from [[mycoremediation-basic-techniques]]
-- [[mycoremediation-bioreactor-design]]
+volumes, and overcoming competition from mycoremediation-basic-techniques
+- mycoremediation-bioreactor-design
+## See Also
+- [[mycoremediation]]
+- [[fungal-formulation-and-inoculation-for-in-situ-bioremediation]]
+- [[formulation-and-delivery-of-fungal-inocula]]
+- [[staycare-fungal-formulation-in-situ-bioremediation]]
+- [[staycare-fungal-in-situ-bioremediation-formulation-strategies]]

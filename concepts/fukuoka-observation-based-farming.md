@@ -5,7 +5,8 @@ updated: 2026-04-16
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka's Observation-Based Farming
 
@@ -44,8 +45,8 @@ the way nature grows plants?" rather than "How can I impose my method on this la
 
 ## The "Throw and See" Method
 
-For vegetable growing, Fukuoka developed what he called the "throw and see" method:
-mix seeds of many vegetable varieties together, form them into [[fukuoka-do-nothing-farming-philosophy-and-practice]] — the
+For [[fukuoka-semi-wild-vegetable-growing-natural-method]], Fukuoka developed what he called the "throw and see" method:
+mix seeds of many [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]] together, form them into [[fukuoka-do-nothing-farming-philosophy-and-practice]] — the
 empty, receptive mind that sees nature as it is rather than as the observer expects
 it to be.
 
@@ -69,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

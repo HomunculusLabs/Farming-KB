@@ -1,5 +1,5 @@
 ---
-title: "What Are the Best Dynamic Accumulator Plants for Permaculture?"
+title: "What Are the Best nutrient-dynamic-accumulator-reference Plants for Permaculture?"
 created: 2026-04-28
 tags:
   - permaculture
@@ -13,9 +13,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Carpenter, Thomas J. How to Make a Forest Garden. Permanent Publications, 2020."
+  - "Carpenter, Thomas J. How to Make a mollison-designers-forest-garden-layer-canopy-understory. Permanent Publications, 2020."
   - "White, Robert D. Plants for a Future: Edible, Medicinal and Useful Plants for a Healthier World. Permanent Publications, 1996."
-  - "Jacke, Dave, and Eric Toensmeier. Edible Forest Gardens, Vol. 2. Chelsea Green, 2005."
+  - "Jacke, Dave, and Eric Toensmeier. Edible [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]], Vol. 2. Chelsea Green, 2005."
   - "Hemenway, Toby. Gaia's Garden: A Guide to Home-Scale Permaculture. Chelsea Green, 2009."
   - "Kourik, Robert. Designing and Maintaining Your Edible Landscape Naturally. Metamorphic Press, 1986."
 type: query
@@ -102,4 +102,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

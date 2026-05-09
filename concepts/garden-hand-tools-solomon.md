@@ -1,5 +1,5 @@
 ---
-title: Garden Hand Tools (Solomon)
+title: Garden garden hand tools solomon (Solomon)
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -29,7 +29,7 @@ A four-tined fork is essential for soils that are not excessively stony. The for
 
 - Loosens soil without inverting it (preserving soil structure)
 - Aerates compacted ground
-- Harvests root vegetables without damage
+- Harvests [[growing-root-vegetables-guide]] without damage
 - Incorporates amendments into soil
 - Breaks up clods after initial spade work
 
@@ -50,7 +50,7 @@ A sturdy bow rake (also called a garden rake, not a leaf rake) with rigid steel 
 
 - Level and smooth prepared beds
 - Break up soil clods after digging
-- Create a fine tilth for seed sowing
+- Create a fine tilth for [[hamilton-seed-sowing-techniques]]
 - Incorporate fine amendments into the surface
 
 ### The Trowel
@@ -83,7 +83,7 @@ A galvanized or heavy plastic watering can with a rose (fine-sprinkling head). E
 
 - Watering newly sown seed beds without washing seeds away
 - Watering transplants gently
-- Applying liquid fertilizer
+- Applying [[jadam-liquid-fertilizer-nutritional-perspective]]
 
 ### Hose and Watering Wand
 For larger gardens, a hose with an adjustable watering wand allows efficient watering with control over flow rate and pattern.
@@ -106,7 +106,7 @@ See also: [[garden-bed-preparation]], [[solomon-gardening-when-it-counts-index]]
 
 ## Minimal Tools, Maximum Skill
 
-Solomon challenges the garden-center approach that says you need many expensive gadgets. To successfully grow a vegetable garden, you only need a few hand tools used properly. He positions himself as the "gardening grandfather" who will teach you what your grandfather should have taught you -- how to sharpen shovels and hoes, how to use them efficiently, and how to read the earth.
+Solomon challenges the garden-center approach that says you need many expensive gadgets. To successfully grow a [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]], you only need a few hand tools used properly. He positions himself as the "gardening grandfather" who will teach you what your grandfather should have taught you -- how to sharpen shovels and hoes, how to use them efficiently, and how to read the earth.
 
 ## The Spade (Shovel)
 
@@ -122,9 +122,13 @@ After every five or ten minutes of use, run the blade over a sharpening stone. A
 
 ## The Bow Rake
 
-Solomon says he could not start small-sized, delicately sprouting seeds directly in their growing beds unless he had a bow rake. The bow rake accomplishes four things at once when preparing a seedbed:
+Solomon says he could not start small-sized, delicately [[solomon-sprouting-seeds-and-early-season-nutrition]] directly in their growing beds unless he had a bow rake. The bow rake accomplishes four things at once when preparing a seedbed:
 
 1. Level the surface precisely
 2. Uniformly blend manure or compost into the top inch
 3. Break up less-solidly cemented clods
 4. Comb out lumps from the surface layer
+
+## See Also
+
+- [[garden-hand-tools]]

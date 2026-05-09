@@ -1,5 +1,5 @@
 ---
-title: Ectomycorrhizal Fungal Diversity
+title: Ectomycorrhizal arbuscular-mycorrhizal-fungal-diversity-patterns-distribution
 created: 2026-04-28
 tags:
   - mycology
@@ -20,7 +20,7 @@ Ectomycorrhizal (ECM) fungi form symbiotic associations with the fine
 roots of trees and shrubs, playing essential roles in forest nutrient
 cycling, tree health, and ecosystem productivity. Their diversity
 represents a significant but still poorly documented component of global
-[[mycorrhizal-networks-interplant-carbon-transfer]] of Pinaceae, Fagaceae, Betulaceae, and
+mycorrhizal-networks-interplant-carbon-transfer of Pinaceae, Fagaceae, Betulaceae, and
 other plant families.
 
 ## Species Richness and Taxonomic Composition
@@ -31,7 +31,7 @@ Cortinariaceae, Russulaceae) and Ascomycota (e.g., Pezizales). Major
 genera include boletes such as Suillus and Laccaria, milkcaps
 (Lactarius, Russula), and tooth fungi (Cantharellus, Gomphus). Surveys
 of ECM [[fungal-endemism-and-biogeography]]
-among ECM fungi and influences biogeographic distribution patterns.
+among ECM fungi and influences biogeographic [[guzman-global-distribution-patterns-neurotropic-fungi]].
 
 The distribution of ECM fungus species is correlated with forest type.
 Conifer-dominated and deciduous-dominated forests support different ECM
@@ -43,11 +43,11 @@ species to capture ECM diversity adequately.
 
 ## Ecological Roles in Forest Ecosystems
 
-ECM fungi provide their host plants with enhanced nutrient uptake,
+ECM fungi provide their host plants with enhanced [[plant-nutrient-uptake-mechanisms]],
 particularly phosphorus and nitrogen, in exchange for photosynthetically
 derived carbon. Their extramatrical mycelia extend far into the soil,
 vastly increasing the effective root surface area. Some ECM species
-form dense mycelial mats in forest soil with specific biogeochemical
+form dense [[singh-mycelial-mats-and-biological-soil-crusts]] in forest soil with specific biogeochemical
 properties. Rhizopogon species, for example, induce prolific branching
 of host rootlets through auxin production and enhance survival and
 growth of seedlings in forest plantations.
@@ -66,14 +66,14 @@ fruit in very young tree stands, others are restricted to older stands,
 and many occur across multiple age classes. ECM succession is poorly
 documented, having been studied largely in plantations outside native
 ranges. Sequestrate ECM fungi, which fruit underground, tend to have
-extended fruiting seasons due to protection from frost, heat, and
+extended [[azurescens-fruiting-seasons-and-conditions]] due to protection from frost, heat, and
 drought, with spring and autumn assemblages often differing in species
 composition.
 
 ## Conservation Implications
 
 ECM fungal diversity is threatened by deforestation, forest
-fragmentation, climate change, and the conversion of native forests to
+fragmentation, [[dighton-fungi-climate-change-feedback]], and the conversion of native forests to
 plantations or agricultural land. Old-growth forests harbor
 significantly greater ECM species richness than younger stands. The
 combination of host specificity, narrow habitat requirements, and

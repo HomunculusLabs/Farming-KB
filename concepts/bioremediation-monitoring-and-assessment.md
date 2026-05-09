@@ -15,7 +15,7 @@ Effective bioremediation requires systematic monitoring to verify that contamina
 
 Chemical analysis of contaminant concentrations is the primary method for tracking bioremediation progress. Soil, groundwater, and gas samples are collected at regular intervals and analyzed for target contaminants and their degradation products. The selection of analytical methods depends on the contaminant types, required detection limits, and available laboratory resources.
 
-Gas chromatography (GC) is the most common method for analyzing volatile and semi-volatile organic contaminants including petroleum hydrocarbons, PAHs, and PCBs. Flame ionization detectors (FIDs) and electron capture detectors (ECDs) are employed along with GC for enhanced resolution. High-performance liquid chromatography (HPLC) with ultraviolet detectors is used for less volatile compounds. Mass spectrometry coupled with GC or LC provides the most specific identification of individual compounds and their degradation products.
+Gas chromatography (GC) is the most common method for analyzing volatile and semi-volatile organic contaminants including petroleum hydrocarbons, PAHs, and PCBs. Flame ionization detectors (FIDs) and electron capture detectors (ECDs) are employed along with GC for enhanced resolution. High-performance liquid chromatography (HPLC) with ultraviolet detectors is used for less [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]. Mass spectrometry coupled with GC or LC provides the most specific identification of individual compounds and their degradation products.
 
 For heavy metals, analytical methods include atomic absorption spectroscopy, inductively coupled plasma mass spectrometry (ICP-MS), and X-ray fluorescence. These methods quantify total metal concentrations and, with appropriate extraction procedures, can distinguish between bioavailable and non-bioavailable metal fractions. The bioavailable fraction is the most relevant for assessing bioremediation effectiveness.
 
@@ -31,13 +31,13 @@ Microbial population counts using culture-based methods or molecular techniques 
 
 The demonstration of bioremediation effectiveness relies on three lines of evidence. The first line documents the loss of contaminant mass or concentration over time at the field site. This primary evidence shows that contaminants are being removed but does not alone prove that biological processes are responsible.
 
-The second line of evidence demonstrates that biological degradation mechanisms are occurring at the site. This includes measurement of degradation byproducts, detection of degradative microorganisms or enzymes, and documentation of electron acceptor consumption or metabolic byproduct production consistent with biological degradation pathways.
+The second line of evidence demonstrates that biological [[staycare-azo-dye-degradation-mechanisms-ligninolytic-fungi]] are occurring at the site. This includes measurement of degradation byproducts, detection of degradative microorganisms or enzymes, and documentation of electron acceptor consumption or metabolic byproduct production consistent with biological degradation pathways.
 
 The third line provides evidence that the biological degradation is occurring under prevailing site conditions and at rates sufficient to achieve cleanup objectives within reasonable timeframes. This may involve laboratory microcosm studies using site materials, modeling of degradation rates based on field data, or correlation of contaminant loss with biological activity indicators.
 
 ## Molecular Biological Techniques
 
-Molecular approaches have revolutionized the monitoring of bioremediation processes. DNA-based methods can identify specific degradative genes in environmental samples without the need for cultivation. Quantitative PCR measures the abundance of specific gene copies, tracking the population dynamics of degradative organisms during treatment.
+[[staycare-molecular-approaches-fungal-bioremediation]] have revolutionized the monitoring of bioremediation processes. DNA-based methods can identify specific degradative genes in environmental samples without the need for cultivation. Quantitative PCR measures the abundance of specific gene copies, tracking the population dynamics of degradative organisms during treatment.
 
 PCR followed by denaturing gradient gel electrophoresis (DGGE) or agarose gel electrophoresis can profile fungal community structure and diversity during bioremediation. Real-time PCR (TaqMan) and nested PCR with internal transcribed spacer (ITS) region primers enable sensitive detection and quantification of specific fungal species in complex environmental matrices.
 
@@ -47,9 +47,9 @@ However, the ability of fungi to grow on agar plates may not present an accurate
 
 ## Immunological Detection Methods
 
-Immunological assays have been used for the detection of degradative fungi in culture and in environmental samples since the mid-1980s. Monoclonal antibodies to detect fungal metabolites such as manganese peroxidase in wood and polyclonal antibodies for laccase have been developed. These techniques include immunological probes, immunofluorescence, immunoblotting, agglutination assay, enzyme-linked immunosorbent assay (ELISA), modified ELISA, dipstick assay, and chromatographic assay.
+Immunological assays have been used for the detection of degradative fungi in culture and in environmental samples since the mid-1980s. Monoclonal antibodies to detect fungal metabolites such as [[fungal-manganese-peroxidase-remediation]] in wood and polyclonal antibodies for laccase have been developed. These techniques include immunological probes, immunofluorescence, immunoblotting, agglutination assay, enzyme-linked immunosorbent assay (ELISA), modified ELISA, dipstick assay, and chromatographic assay.
 
-ELISA methods provide sensitive detection of specific fungal enzymes in environmental samples and can be adapted for field-portable monitoring. These immunological approaches complement molecular techniques by detecting not just the presence of organisms but also their metabolic activity through enzyme production.
+ELISA methods provide sensitive detection of specific fungal [[fungal-enzymes-in-environmental-bioremediation]] samples and can be adapted for field-portable monitoring. These immunological approaches complement molecular techniques by detecting not just the presence of organisms but also their [[arbuscule-isolation-metabolic-activity-assays]] through enzyme production.
 
 ## Stable Isotope Analysis
 
@@ -77,6 +77,6 @@ Post-closure monitoring may be required at some sites to verify that contaminant
 
 [[mycoremediation-site-assessment]]
 
-[[fungal-soil-remediation-persistent-pollutants]]
+fungal-soil-remediation-persistent-pollutants
 - [[fungal-cometabolism]]
 - [[microplastic-bioremediation]]

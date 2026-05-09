@@ -1,5 +1,5 @@
 ---
-title: Cho Natural Farming Inputs Overview
+title: Cho comparison-natural-farming-vs-permaculture Inputs Overview
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 
 Dr. Cho Han Kyu's Natural Farming (NF) system uses a suite of
-farm-made biological inputs to replace chemical fertilizers and
+farm-made biological inputs to replace [[cervantes-chemical-fertilizers-guide]] and
 pesticides. All inputs are prepared from locally available natural
 materials using fermentation processes driven by
 [[knf-nutritive-cycle-theory]], which prescribes specific inputs at
@@ -49,7 +49,7 @@ several functional categories:
 
 ### Pest Control
 - Aromatic Insect Attractants (AIA): Traps using FFJ and rice wine
-- Fluorescent Insect Attractants (FIA): Light traps with water basins
+- [[knf-fluorescent-insect-attractant]] Attractants (FIA): Light traps with water basins
 - Fish odour methods: Using FAA to control mites and whitefly
 
 ## Core Fermentation Principles
@@ -65,7 +65,7 @@ All NF inputs share common fermentation principles:
   allows air exchange while keeping insects and contaminants out.
 
 3. **Clay pots or glass jars** are preferred over plastic containers.
-  Wooden or bamboo containers are recommended for IMO collection.
+  Wooden or bamboo containers are recommended for [[bahay-kubo-imo-collection-and-preparation]].
 
 4. **Temperature control**: The optimum range for most preparations
   is 23-25 degrees C. Storage at 1-15 degrees C extends shelf life.
@@ -79,7 +79,11 @@ All NF inputs share common fermentation principles:
 ## Inputs by Growth Stage
 
 The [[cho-han-kyu-life-and-philosophy]] for the background and philosophy behind the system
-- [[natural-farming-knf-overview]] for a comprehensive introduction to Korean Natural Farming
+- [[natural-farming-knf-overview]] for a comprehensive introduction to [[query-jadam-vs-korean-natural-farming]] Farming
 - [[knf-seed-treatment-and-soil-foundation]]
 - [[knf-preparations]]
-- [[knf-fermented-mixed-compost]] for soil-building compost recipes
+- [[knf-fermented-mixed-compost]] for soil-building [[hamilton-potting-compost-recipes-and-growing-media]]
+
+## See Also
+
+- [[natural-farming-inputs-cho]]

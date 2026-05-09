@@ -1,19 +1,14 @@
 ---
-title: Salt Tolerant Fodder Plants
+title: Salt salt tolerant fodder plants Plants
 created: 2026-04-28
-tags: [[permaculture-plants, salt-tolerant, halophyte, fodder, coastal-farming, saline-soils]
+tags: [permaculture-plants, salt-tolerant, halophyte, fodder, coastal-farming, saline-soils]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [a-selection-permaculture-plants.md]
 type: concept
 ---
-
-# Salt Tolerant Fodder Plants
-
-## Overview
-
-Salt tolerant fodder plants are essential components of [[silvopasture]] systems while simultaneously performing
-soil restoration functions including salt removal, erosion control, and
+# Salt Tolerant Fodder Plants ## Overview Salt tolerant fodder plants are essential components of [[silvopasture]] systems while simultaneously performing
+soil restoration functions including salt removal, [[permplant-willows-salix-erosion-control-fodder]], and
 windbreak protection. Many salt-tolerant species are also [[agroforestry]] strategies. The selection draws from Australian native species and
 international halophytes that have proven value in difficult-site
 agricultural systems.
@@ -29,7 +24,7 @@ species profile. Yields can exceed 10 tonnes per hectare per year
 year for some species, though better growth rates are experienced in
 non-saline soils. Atriplex nummularia (old man saltbush) is widely
 recognized for fodder production. Atriplex canescens (four-winged
-saltbush) is endemic to North America with 18 to 20 percent protein
+saltbush) is endemic to [[psilocybin-north-america-pacific-northwest]] with 18 to 20 percent protein
 content and 63.5 percent digestibility. Atriplex undulata provides 900
 sheep grazing days per hectare in 350 mm rainfall areas.
 
@@ -84,6 +79,6 @@ supplements to livestock that would otherwise face starvation.
 
 ## References
 
-- Source: a-selection-permaculture-plants.md, Difficult Sites and Utility Lists
+- Source: a-selection-permaculture-plants.md, [[permaculture-difficult-sites-plant-guide]] and Utility Lists
 - Related: [[salt-tolerant-plant-guide]]
 - Related: [[jadam-green-manure-crops-for-soil-salinity-reduction]]

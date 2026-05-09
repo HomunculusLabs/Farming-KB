@@ -1,5 +1,5 @@
 ---
-title: McKenna on Catal Huyuk and the Natufian Link
+title: McKenna on mckenna catal huyuk natufian link and the Natufian Link
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -23,13 +23,13 @@ The excavation of Catal Huyuk has yielded amazing shrines with cattle bas-relief
 
 ## The Natufian Connection
 
-McKenna contends that the "Upper Paleolithic ancestor of which we have no trace" is the culture of the Tassili-n-Ajjer. The Natufian culture was a transitional culture directly linking the Round Head culture in Africa with Catal Huyuk. Excavator James Mellaart confirmed that "the plant husbandry of Catal Huyuk must have a long prehistory somewhere else, in a region where the wild ancestors of these plants were at home" — the Natufian of Palestine and earlier aceramic cultures of the Anatolian Plateau.
+McKenna contends that the "Upper Paleolithic ancestor of which we have no trace" is the culture of the Tassili-n-Ajjer. The Natufian culture was a transitional culture directly linking the [[mckenna-tassili-plateau-round-head-civilization]] culture in Africa with Catal Huyuk. Excavator James Mellaart confirmed that "the plant husbandry of Catal Huyuk must have a long prehistory somewhere else, in a region where the wild ancestors of these plants were at home" — the Natufian of Palestine and earlier aceramic cultures of the Anatolian Plateau.
 
 ## Archaic Elements Preserved
 
 Catal Huyuk preserved a number of traditions that seem archaic in a fully developed Neolithic society: wall-painting, clay reliefs, naturalistic representations of animals and deities, finger-impressed clay designs, geometric ornament including spirals and meanders, red-ochre burials, and archaic amulets in the form of a bird-like steatopygous goddess. Nowhere are such archaic elements so pronounced as in the Neolithic of Catal Huyuk.
 
-The range of pigments used by the Catal artists was unmatched in the Near East, though equaled or surpassed in the Round Head art of the Sahara. A curious technique of cutting silhouettes of animals from deep accumulations of plaster on walls may have been carried over from rock art techniques — another link to the African pastoralists.
+The range of pigments used by the Catal artists was unmatched in the [[ancient-cannabis-use-near-east-and-egypt]], though equaled or surpassed in the Round Head art of the Sahara. A curious technique of cutting silhouettes of animals from deep accumulations of plaster on walls may have been carried over from rock art techniques — another link to the African pastoralists.
 
 ## African Grassland Motifs
 
@@ -61,8 +61,8 @@ See also:
 ## Key Points
 
 - McKenna's analysis connects psychoactive plant use to fundamental patterns in human cultural evolution
-- The stoned ape hypothesis, while controversial, raises important questions about the role of psychoactive substances in human cognitive development
-- McKenna's critique of dominator culture draws on both anthropological evidence and contemporary political analysis
+- The stoned [[stoned-ape-hypothesis-mckenna-psychedelic-evolution]], while controversial, raises important questions about the role of psychoactive substances in human cognitive development
+- McKenna's critique of [[mckenna-dominator-culture-and-suppression-of-ecstasy]] draws on both anthropological evidence and contemporary political analysis
 - The [[psychedelic-therapy-current-research]].
 
 ## Related McKenna Topics
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

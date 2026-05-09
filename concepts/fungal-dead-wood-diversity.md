@@ -1,16 +1,13 @@
 ---
-title: Fungal Diversity in Dead Wood and Coarse Woody Debris
+title: arbuscular-mycorrhizal-fungal-diversity-patterns-distribution in fungal dead wood diversity and fungal-diversity-leaf-litter-coarse-woody-debris Debris
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology, fungi]
-sources: []
+tags: [mycology, fungi]
+sources:
+  sources: []
 ---
-# Fungal Diversity in Dead Wood and Coarse Woody Debris
-
-Dead wood and coarse woody debris (CWD) constitute one of the most important substrates for fungal diversity in forest ecosystems. The slow decomposition of lignified tissues allows extensive fungal succession and supports specialized communities.
-
-[[fungal-succession-in-decomposition]] [[coprophilous-fungi]] [[fungal-succession-patterns]] [[enzymatic-degradation-in-mycoremediation]] [[saprotrophic-fungi]]
+# Fungal Diversity in Dead Wood and Coarse Woody Debris Dead wood and coarse woody debris (CWD) constitute one of the most important substrates for fungal diversity in forest ecosystems. The slow decomposition of lignified tissues allows extensive fungal succession and supports specialized communities. [[fungal-succession-in-decomposition]] [[coprophilous-fungi]] fungal-succession-patterns [[enzymatic-degradation-in-mycoremediation]] [[saprotrophic-fungi]]
 
 ## Xylotropic Endophytes
 
@@ -22,9 +19,9 @@ This bridge between endophytic and saprotrophic lifestyles represents an importa
 
 ## Bark and Wood Microfungi
 
-Bark supports distinct fungal communities from those in underlying wood. Fungal communities of outer bark include many species with general host distributions, while inner bark colonists tend to exhibit greater host specificity. Colonists of inner bark, such as Tryblidiopsis pinastri and Phialocephala scopiformis, are termed phellophytes.
+Bark supports distinct [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] from those in underlying wood. Fungal communities of outer bark include many species with general host distributions, while inner bark colonists tend to exhibit greater host specificity. Colonists of inner bark, such as Tryblidiopsis pinastri and Phialocephala scopiformis, are termed phellophytes.
 
-Bills and Polishook (1991) found 155 species of endophytic fungi in bark of Carpinus caroliniana, with 11-12 species per tree including five basidiomycetes.
+Bills and Polishook (1991) found 155 species of [[comparison-endophytic-fungi-vs-mycorrhizal-fungi]] in bark of Carpinus caroliniana, with 11-12 species per tree including five basidiomycetes.
 
 [[fungal-succession-in-decomposition]]
 
@@ -57,7 +54,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,4 +96,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,17 +1,13 @@
 ---
-title: "Oss & Oeric: Drying and Preservation Methods"
+title: "Oss & Oeric: [[oss-oeric-contamination-troubleshooting]] drying and preservation methods Methods"
 created: 2026-04-28
-tags: [[mycology, preservation, drying, potency, oss-oeric]
+tags: [mycology, preservation, drying, potency, oss-oeric]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md]
 type: concept
 ---
-
-# Oss & Oeric: Drying and Preservation Methods
-
-The 1976 guide provides specific instructions for harvesting,
-drying, and preserving [[oss-oeric-dosage-guidelines-and-potency]] for dosing information
+# Oss & Oeric: Drying and Preservation Methods The 1976 guide provides specific instructions for harvesting, drying, and preserving [[oss-oeric-dosage-guidelines-and-potency]] for dosing information
 - [[oss-oeric-growing-parameters-cubensis]] for growing conditions
 - [[gartz-tryptamine-supplemented-cubensis-cultivation]]
 ## Background and Context
@@ -64,7 +60,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -142,4 +138,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

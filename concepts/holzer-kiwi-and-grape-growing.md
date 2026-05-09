@@ -1,11 +1,12 @@
 ---
-title: Holzer Kiwi and Grape Growing
+title: Holzer holzer kiwi and grape growing Growing
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Kiwi and Grape Growing
@@ -24,7 +25,7 @@ In the Mediterranean Garden at the Lebenshilfe Ausseerland project in Bad Aussee
 
 One of the most innovative applications of kiwi cultivation in Holzer's work is the use of hardwood trunks as climbing aids in container gardens. On a small terrace measuring just two by three metres, a hardwood trunk is inserted through a drainage hole in a concrete trough. This trunk serves as a climbing aid for kiwi fruit, grapes, courgettes, cucumbers, pumpkins, beans, peas, roses, and various other climbing plants.
 
-The trunk also serves a second function: it can be drilled and inoculated with mushroom mycelium for culinary mushroom cultivation. The self-watering system using a tray beneath the trough draws water up through the trunk, keeping the soil consistently moist. Over time, the climbing kiwi plants stabilise and become woody, eventually no longer needing additional support beyond the trunk.
+The trunk also serves a second function: it can be drilled and inoculated with mushroom mycelium for culinary [[accessible-mushroom-cultivation-for-disabilities]]. The self-watering system using a tray beneath the trough draws water up through the trunk, keeping the soil consistently moist. Over time, the climbing kiwi plants stabilise and become woody, eventually no longer needing additional support beyond the trunk.
 
 ### Bypass Technique for Kiwi
 
@@ -32,11 +33,11 @@ The bypass technique allows kiwi plants to grow from one storey of a building to
 
 ## Growing Grapes
 
-Grapes are another climbing crop that Holzer has integrated extensively throughout his systems. In suntrap microclimates, he has been able to grow many varieties of grapes alongside kiwi and even citrus species. The key to grape cultivation at altitude is heat accumulation through stone placement, water reflection, and wind protection.
+Grapes are another climbing crop that Holzer has integrated extensively throughout his systems. In suntrap microclimates, he has been able to grow many varieties of grapes alongside kiwi and even citrus species. The key to grape cultivation at altitude is heat accumulation through stone placement, water reflection, and [[cervantes-wind-protection-outdoor-cannabis]].
 
 ### Grapes as Climbing Aids
 
-In the permaculture garden, fruit trees can serve as climbing aids for grapes, kiwi fruit, cucumbers, pumpkins, courgettes, peas, and beans. This creates multi-layered productive systems that maximise the use of vertical space. On terraces at staggered heights, shrubs and fruit trees can be planted at different levels, with the trees used by grapes and other climbers.
+In the permaculture garden, [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] can serve as climbing aids for grapes, kiwi fruit, cucumbers, pumpkins, courgettes, peas, and beans. This creates multi-layered productive systems that maximise the use of vertical space. On terraces at staggered heights, shrubs and fruit trees can be planted at different levels, with the trees used by grapes and other climbers.
 
 The interaction between the nutrients released by the individual plants in these symbiotic communities is shown to best advantage. A real jungle garden is created that offers a place to recuperate and relax, in addition to providing delicious produce.
 
@@ -46,7 +47,7 @@ In the balcony and terrace system described above, grapes work alongside kiwi as
 
 ### Grapes in the Mediterranean Garden
 
-At the Lebenshilfe project, the heat-storing terrace design makes it possible to grow grapes alongside figs and kiwifruit. The terraced construction protects plants from the elements while capturing and storing solar energy, demonstrating how Mediterranean species can be grown in alpine climates with appropriate design intervention.
+At the Lebenshilfe project, the heat-storing [[mollison-designers-tropical-terrace-design-and-earth-shaping]] makes it possible to grow grapes alongside figs and kiwifruit. The terraced construction protects plants from the elements while capturing and storing [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]], demonstrating how Mediterranean species can be grown in alpine climates with appropriate design intervention.
 
 ## Planting and Support Considerations
 

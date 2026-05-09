@@ -1,5 +1,5 @@
 ---
-title: "JADAM Microorganism Diversity Over Disinfection"
+title: "JADAM jadam microorganism diversity over disinfection Over Disinfection"
 created: 2026-04-28
 tags:
   - natural-farming
@@ -16,7 +16,7 @@ type: concept
 
 # JADAM Microorganism Diversity Over Disinfection
 
-JADAM organic farming advocates a fundamental paradigm shift in disease
+JADAM [[coleman-deep-organic-farming-philosophy]] advocates a fundamental paradigm shift in disease
 management: from disinfection (killing pathogens) to diversity (crowding
 out pathogens through microbial competition). This principle represents
 one of the most important conceptual innovations in
@@ -40,13 +40,13 @@ is the core principle behind JADAM's [[jadam-pesticide-for-powdery-mildew]] for 
 
 When microorganism diversity and activity recover in the soil, nematodes
 become much less active. Certain fungi use hyphal loops to trap and
-consume nematodes, providing biological control that strengthens as
+consume nematodes, providing [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] that strengthens as
 microbial diversity increases.
 
 ### Root Rot and Aluminium Toxicity
 
 Constant input of JMS, seawater, and [[jadam-crop-residue-fertilizer]] approach
-feeds the microbial community while protecting it from UV damage.
+feeds the [[edaphic-factors-microbial-community-structure]] while protecting it from UV damage.
 
 ### Every Watering as Inoculation
 
@@ -59,6 +59,7 @@ and the role of competitive exclusion in [[ultra-low-cost-jadam-microorganism-so
 - [[jadam-phyllite-mineral-solution]]
 - [[jadam-leaf-mold-soil-method]]
 - [[natural-farming-soil-management]]
+
 ## Practical Considerations
 
 Successful implementation of JADAM Microorganism Diversity Over Disinfection requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -16,12 +16,12 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 
 ## Overview
 Trichothecium roseum is a polyphagous fungicolous ascomycete and
-a potent producer of trichothecene mycotoxins. As a mycoparasite,
+a potent producer of [[bloomfield-trichothecene-mycotoxins-biological-warfare-yellow-rain]]. As a mycoparasite,
 it is capable of overgrowing many other fungi without being
 inhibited itself (Domsch et al. 1980), making it one of the most
 aggressive competitors in soil and phyllosphere fungal
 communities. However, its production of phytotoxic metabolites
-precludes its direct use as a biological control agent.
+precludes its direct use as a [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent.
 
 The species lends its name to the trichothecene class of
 mycotoxins, which includes some of the most potent fungal poisons
@@ -32,10 +32,10 @@ diacetoxyscirpenol, produced by various Fusarium species as well
 as by T. roseum.
 
 T. roseum is a ubiquitous fungus found across diverse
-environments including soil, plant surfaces, and fungal fruiting
+environments including soil, plant surfaces, and [[brassinosteroid-fungal-fruiting-body-morphology]]
 bodies. Its presence on plant surfaces reflects both its
 saprotrophic lifestyle and its fungicolous habits. The species
-occurs on [[rhizoctonia-solani]] (Turhan 1990), [[gliocladium-roseum]], [[dighton-fungal-soil-crust-primary-production]]
+occurs on [[rhizoctonia-solani]] (Turhan 1990), [[gliocladium-roseum]], dighton-fungal-soil-crust-primary-production
 
 - [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 - [[coniothyrium-minitans]]
@@ -57,7 +57,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,4 +99,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: Organic Fertilizers
+title: hamilton-organic-fertilizers-and-plant-nutrition
 created: 2026-04-28
 tags: [fertilizers, organic-gardening, soil-nutrients, plant-nutrition, NPK]
 date: 2026-04-25
@@ -11,11 +11,11 @@ type: concept
 # Organic Fertilizers
 
 The use of concentrated fertilizer is probably one of the most
-controversial areas in organic gardening. Plants need a wide and varied
+controversial areas in [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]. Plants need a wide and varied
 range of nutrients to be present in the soil for normal healthy growth.
 All the nutrients will be added to your soil if you follow the general
 soil management techniques involving regular additions of organic
-matter. However, there are occasions when concentrated organic
+matter. However, there are occasions when [[hamilton-concentrated-organic-fertilizer-products]]
 fertilizers are also required to supplement the soil's natural
 fertility.
 
@@ -111,4 +111,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -1,5 +1,5 @@
 ---
-title: "Coffee vs Cacao Cultivation — A Side-by-Side Comparison"
+title: "comparison coffee vs cacao cultivation Cultivation — A Side-by-Side Comparison"
 created: 2026-05-06
 tags:
 type: comparison
@@ -41,14 +41,14 @@ A practical comparison for growers choosing between these two major tropical per
 | **Time to first harvest** | 3–4 years | 3–5 years |
 | **Altitude range** | 600–2,000 m (arabica) | 0–800 m |
 | **Annual rainfall** | 1,200–2,500 mm | 1,500–2,500 mm |
-| **Temperature range** | 15–24 °C (arabica) | 25–28 °C |
+| **[[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]** | 15–24 °C (arabica) | 25–28 °C |
 | **Shade requirement** | Moderate (varies by variety) | High — understory species |
 
 ## Climate Requirements
 
 **Coffee** thrives in cooler tropical or subtropical highlands. Arabica demands stable temperatures between 15–24 °C; frost is lethal and prolonged heat above 30 °C causes stress and poor bean quality. Robusta tolerates warmer lowland conditions (22–30 °C) but produces lower-grade beans. A distinct dry season of 2–3 months triggers uniform flowering.
 
-**Cacao** is a strictly lowland humid tropical crop. Optimal temperatures are 25–28 °C; below 15 °C growth stalls entirely, and even brief exposure to 10 °C can kill young trees. It requires consistent year-round rainfall (1,500–2,500 mm) with no extended dry period — the opposite of coffee's preference for seasonal dryness.
+**Cacao** is a strictly lowland humid [[comparison-cacao-vs-black-pepper-tropical-crop-cultivation]]. Optimal temperatures are 25–28 °C; below 15 °C growth stalls entirely, and even brief exposure to 10 °C can kill young trees. It requires consistent year-round rainfall (1,500–2,500 mm) with no extended dry period — the opposite of coffee's preference for seasonal dryness.
 
 **Verdict:** If your site is above 800 m with a dry season, coffee has the edge. Below 400 m with year-round rain, cacao is the clear choice. The narrow band in between (400–800 m) can support both with careful variety selection.
 
@@ -56,7 +56,7 @@ A practical comparison for growers choosing between these two major tropical per
 
 **Coffee** prefers deep, well-drained volcanic loams with pH 5.0–6.5. It is sensitive to waterlogging but relatively tolerant of acidic soils. Root system is concentrated in the top 60 cm.
 
-**Cacao** favors deep, fertile, well-drained clay-loam soils with pH 5.5–7.0. It is more demanding on soil organic matter and nutrients (especially nitrogen, potassium, and magnesium) due to heavy fruit production. Roots also stay shallow, making mulching critical.
+**Cacao** favors deep, fertile, well-drained clay-loam soils with pH 5.5–7.0. It is more demanding on soil [[hamilton-composting-and-organic-matter-management]] and nutrients (especially nitrogen, potassium, and magnesium) due to heavy fruit production. Roots also stay shallow, making mulching critical.
 
 ## Shade Tolerance
 
@@ -92,12 +92,12 @@ A **coffee-cacao intercrop** is feasible in the 400–800 m altitude band. Cacao
 
 **Coffee:** High suitability as a mid-canopy element in [[drought-tolerant-planting-design]] once established. Good fit for Zones 9–11.
 
-**Cacao:** Excellent permaculture candidate in humid lowland tropics (Zones 11–12). Functions as the primary canopy fruit tree in a food forest. Requires reliable rainfall and wind protection. Pairs well with banana/plantain, taro, turmeric, and vanilla as understory companions.
+**Cacao:** Excellent permaculture candidate in humid lowland tropics (Zones 11–12). Functions as the primary canopy fruit tree in a food forest. Requires reliable rainfall and [[cervantes-wind-protection-outdoor-cannabis]]. Pairs well with banana/plantain, taro, turmeric, and vanilla as understory companions.
 
 ## Challenges for Small-Scale Growers
 
 **Coffee:**
-- Disease management (especially leaf rust) requires ongoing investment
+- [[plant-disease-management-solomon]] (especially leaf rust) requires ongoing investment
 - Price volatility can devastate smallholder incomes
 - Processing infrastructure (washing stations, drying beds) requires capital
 - Quality consistency is difficult to maintain without training

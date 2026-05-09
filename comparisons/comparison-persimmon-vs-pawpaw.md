@@ -6,8 +6,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Kentucky State University Pawpaw Program — https://kysu.edu/pawpaw/"
-  - "USDA NRCS Plant Guide: Diospyros virginiana — https://plants.usda.gov/home/plantProfile?symbol=DIVI5"
-  - "USDA NRCS Plant Guide: Asimina triloba — https://plants.usda.gov/home/plantProfile?symbol=ASTR"
+  - "USDA NRCS Plant Guide: [[diospyros-virginiana]] — https://plants.usda.gov/home/plantProfile?symbol=DIVI5"
+  - "USDA NRCS Plant Guide: [[asimina-triloba]] — https://plants.usda.gov/home/plantProfile?symbol=ASTR"
   - "Clemson Cooperative Extension: Persimmon — https://hgic.clemson.edu/factsheet/persimmon/"
   - "University of Kentucky Extension: Pawpaw — https://uky.edu/hort/pawpaw"
   - "North American Pawpaw Growers Association — https://www.pawpaw.org/"
@@ -45,7 +45,7 @@ For cold-climate growers, both are viable, but persimmons break dormancy later a
 
 **Pawpaw:** Space 8–15 ft apart. Pawpaw seedlings develop deep taproots and are sensitive to transplanting — plant young (1–2 year seedlings or potted trees) and avoid root disturbance. Site preparation should include generous compost or well-rotted manure worked into the top 12 in of soil.
 
-Protect young pawpaw trees from direct, intense sunlight with tree tubes or shade cloth for the first 1–2 years; this is critical for survival in open-field plantings. Irrigation is important during establishment. See companion planting and polycultures for understory companion strategies.
+Protect young pawpaw trees from direct, intense sunlight with tree tubes or shade cloth for the first 1–2 years; this is critical for survival in open-field plantings. Irrigation is important during establishment. See [[companion-planting]] and polycultures for understory companion strategies.
 
 ## Pollination and Fruiting
 
@@ -57,7 +57,7 @@ Pawpaw flowers are maroon, nodding, and emit a faint carrion-like scent to attra
 
 ## Pruning and Maintenance
 
-**Persimmon:** Train to a modified central leader or open center in the first few years. Prune in late winter while dormant. Mature trees need minimal pruning — remove dead wood, water sprouts, and crossing branches. Persimmons are long-lived (75–100+ years) and largely self-maintaining. They have few pest or disease issues. Fertilize annually with a balanced application in early spring; mature trees in good soil may not require any supplemental feeding.
+**Persimmon:** Train to a modified [[comparison-central-leader-vs-open-center-fruit-tree-training]] or open center in the first few years. Prune in late winter while dormant. Mature trees need minimal pruning — remove dead wood, water sprouts, and crossing branches. Persimmons are long-lived (75–100+ years) and largely self-maintaining. They have few pest or disease issues. Fertilize annually with a balanced application in early spring; mature trees in good soil may not require any [[savory-supplemental-feeding-and-winter-management]].
 
 **Pawpaw:** Pawpaws naturally form a shrub-like multi-stem habit in the wild. Prune to a single leader if a tree form is desired, but multi-stem is acceptable and may actually increase yield by distributing fruiting wood. Prune minimally in late winter. Pawpaws sucker readily from the root system — remove unwanted suckers to maintain a clean form. Avoid heavy pruning; pawpaws are slow to recover from significant wood removal. Organic mulch is especially beneficial to maintain soil moisture and suppress competition.
 
@@ -69,7 +69,7 @@ Harvest persimmons when fully colored orange; they will soften after a few days 
 
 Pawpaws are ideal understory trees beneath taller nut trees (pecan, chestnut, hickory). Their large, drooping leaves create a dense tropical-looking mulch layer that suppresses weeds and retains soil moisture throughout summer.
 
-Companion plants for pawpaw guilds include serviceberry, elderberry, wild ginger, mayapple, and native ferns. Persimmon pairs well with nitrogen-fixers like black locust, comfrey for dynamic nutrient accumulation, and berry shrubs as a productive understory layer. See companion planting and polycultures for detailed guild designs.
+Companion plants for pawpaw guilds include serviceberry, elderberry, wild ginger, mayapple, and native ferns. Persimmon pairs well with nitrogen-fixers like black locust, comfrey for [[dynamic-nutrient-accumulators]] accumulation, and berry shrubs as a productive understory layer. See companion planting and polycultures for detailed guild designs.
 
 ## Verdict: When to Choose Which
 

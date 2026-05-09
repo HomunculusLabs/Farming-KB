@@ -1,5 +1,5 @@
 ---
-title: "Marine Oomycete Zoospore Biology and Encystment"
+title: "Marine bloomfield-oomycete-zoospore-biology-flagella-chemotaxis-galvanotaxis Biology and Encystment"
 created: 2026-04-26
 tags:
   - mycology
@@ -59,7 +59,7 @@ during favorable tidal conditions.
 
 After release, zoospores swim actively for periods ranging
 from minutes to several hours. Marine oomycete zoospores
-exhibit chemotaxis toward certain organic compounds,
+exhibit chemotaxis toward certain [[fungal-volatile-organic-compounds-communication]],
 including amino acids and sugars that may indicate the
 presence of a suitable substratum. They also show
 negative geotaxis, tending to swim upward, which may aid
@@ -77,8 +77,8 @@ survival and successful host colonization.
 
 Encystment is the process by which a motile zoospore
 ceases swimming, retracts its flagella, and forms a
-resistant cell wall. This process is triggered by contact
-with a surface or by specific chemical signals from a
+resistant [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]]. This process is triggered by contact
+with a surface or by specific [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] from a
 potential host or substratum. During encystment, the
 zoospore undergoes dramatic ultrastructural changes:
 the flagella are reabsorbed into the cell body, the
@@ -97,15 +97,15 @@ conditions.
 ## Germination
 
 After a period of dormancy that may last from minutes to
-hours, the cyst germinates by producing a germ tube that
+hours, the cyst germinates by producing a [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] that
 penetrates the substratum. In plant-pathogenic species,
 the germ tube may differentiate into an appressorium or
 infection peg that facilitates entry into host tissue. In
 saprotrophic species, the germ tube develops into the
-vegetative mycelium that colonizes the substratum.
+vegetative [[mycelium]] that colonizes the substratum.
 
 The germination process is influenced by environmental
-factors including temperature, [[fungal-enzyme-activity-nutrient-availability]], and
+factors including temperature, fungal-enzyme-activity-nutrient-availability, and
 surface characteristics of the substratum. On wood
 submerged in marine environments, zoospore cysts may
 require specific wood extractives or associated microbial

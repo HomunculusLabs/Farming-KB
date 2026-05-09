@@ -1,9 +1,9 @@
 ---
-title: Mycorrhizal Diversity Assessment Methods
+title: dighton-mycorrhizal-diversity-ecosystem-function Assessment Methods
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology, soil-biology, symbiosis]
+tags: [mycology, soil-biology, symbiosis]
 sources: []
 ---
 # Mycorrhizal Diversity [[mycorrhizal-fungi]] in ecosystems requires a combination of field sampling, morphological identification, and molecular techniques. The choice of methods depends on the mycorrhizal type (AMF vs. EMF), the research questions, and the available resources. Modern approaches increasingly rely on DNA-based methods to complement or replace traditional morphological identification.
@@ -16,10 +16,10 @@ Several factors complicate diversity assessment:
 
 ## Emerging Methods
 
-- **Metatranscriptomics**: Active gene expression profiling of entire fungal communities
+- **Metatranscriptomics**: Active gene expression profiling of entire [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
 ## See Also
 
-See also: [[fungal-identification-and-biodiversity-assessment]]
+See also: [[dighton-soil-fungal-biodiversity-assessment]]
 ## Practical Applications
 
 Mycorrhizal Diversity Assessment Methods has a range of practical applications that make it relevant to
@@ -37,7 +37,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -87,7 +87,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -97,4 +97,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

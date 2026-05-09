@@ -1,5 +1,5 @@
 ---
-title: Nitrogen Transfer Through Mycorrhizal Networks
+title: symbiotic-fungi-mycorrhizal-nitrogen-transfer-networks Through Mycorrhizal Networks
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -9,16 +9,16 @@ sources:
 ---
 # Nitrogen Transfer Through Mycorrhizal Networks
 
-Nitrogen transfer through common mycorrhizal networks (CMNs) is the movement of nitrogen between plants connected by shared mycorrhizal fungal hyphae. This process is particularly significant in intercropping systems, mixed-species forests, and ecological succession, where nitrogen fixed by legumes or other N2-fixing plants can be transferred to non-fixing neighbors through the hyphal network.
+Nitrogen transfer through common mycorrhizal networks (CMNs) is the movement of nitrogen between plants connected by shared mycorrhizal fungal hyphae. This process is particularly significant in intercropping systems, mixed-species forests, and [[holmgren-ecological-succession-and-pulsing]], where nitrogen fixed by legumes or other N2-fixing plants can be transferred to non-fixing neighbors through the hyphal network.
 
 ## Mechanisms of Transfer
 
 Nitrogen can move between CMN-connected plants through several pathways:
 
-- **Direct hyphal transfer**: Nitrogen taken up by hyphae associated with one plant is translocated through the common mycelial network and released at another root system
+- **Direct hyphal transfer**: Nitrogen taken up by hyphae associated with one plant is translocated through the common [[gadd-mycelial-network-dynamics]] and released at another root system
 - **Hyphal turnover and decomposition**: Dead hyphae release nitrogen that becomes available to nearby plants
 - **Exudation from hyphae**: Living hyphae may exude nitrogenous compounds into the rhizosphere of connected plants
-- **Soil pool mediation**: Hyphae may indirectly facilitate nitrogen movement by altering soil microbial activity and nitrogen cycling
+- **Soil pool mediation**: Hyphae may indirectly facilitate nitrogen movement by altering soil microbial activity and [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]]
 
 The direct hyphal transfer pathway is the most tightly coupled to CMN function and the most relevant for understanding symbiotic nitrogen economy.
 
@@ -90,7 +90,7 @@ The 15N natural abundance method exploits natural variation in 15N/14N ratios wi
 Nitrogen transfer through CMNs is a key mechanism underlying the benefits of legume-cereal intercropping:
 
 - Legumes fix atmospheric N2, some of which becomes available to companion cereals
-- AMF or ectomycorrhizal networks provide the physical pathway for interplant nitrogen movement
+- AMF or [[symbiotic-fungi-ectomycorrhizal-networks-overview]] provide the physical pathway for interplant nitrogen movement
 - The magnitude of transfer depends on mycorrhizal connectivity and nitrogen demand of the receiver
 
 ### Ecological Succession
@@ -106,7 +106,7 @@ In mixed-species forests, CMN-mediated nitrogen transfer:
 
 - Contributes to nitrogen cycling and retention
 - May reduce nitrogen losses through leaching
-- Creates interplant nutrient coupling that influences community composition
+- Creates interplant nutrient coupling that influences [[core-endorhiza-bacterial-community-composition-cannabis]]
 
 ## Key Species and Systems
 
@@ -119,6 +119,6 @@ In mixed-species forests, CMN-mediated nitrogen transfer:
 
 - [[arbuscular-mycorrhizal-networks]] — The AMF symbiosis type most commonly involved in agricultural N transfer
 - ectomycorrhizal-ecology|ectomycorrhiza — Ectomycorrhizal networks in forest nitrogen cycling
-- [[mycorrhizal-nitrogen-transfer-between-plants]]
+- mycorrhizal-nitrogen-transfer-between-plants
 - [[nitrogen-transfer-through-common-mycorrhizal-networks]]
 - [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]

@@ -1,5 +1,5 @@
 ---
-title: Settlement Types and Village Design
+title: Settlement Types and [[permaculture-designers-manual-village-design]]
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 
 # Settlement Types and Village Design
 
-> Source: Bill Mollison, *Permaculture: A Designers' Manual* (1988), Chapter 14
+> Source: [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]], *Permaculture: A Designers' Manual* (1988), Chapter 14
 
 ## Overview
 
@@ -57,7 +57,7 @@ The pioneering or kibbutz approach. Needs the most intensive planning, especiall
 Rehabilitation of abandoned or damaged settlements. Often has existing infrastructure to restore.
 
 ### Type 6: New Suburban Development
-Outright purchase or option system. Can incorporate permaculture design from the start.
+Outright purchase or option system. Can incorporate [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] from the start.
 
 ### Type 7: Specialised Coastal or Wilderness Settlements
 Near wild areas or coasts. Needs careful environmental integration.
@@ -111,7 +111,10 @@ Property trusts purchase real estate for improvement, lease, or rental on behalf
 
 ## Related Topics
 
-- [[permaculture-designers-manual-bioregional-planning]] - Bioregional planning
-- [[permaculture-designers-manual-energy-systems]] - Energy systems
-- [[mollison-property-trusts-ethical-investment]]
-- [[permaculture-designers-manual-food-forest-guilds]]
+- permaculture-designers-manual-bioregional-planning - Bioregional planning
+- permaculture-designers-manual-energy-systems - Energy systems
+- mollison-property-trusts-ethical-investment
+- permaculture-designers-manual-food-forest-guilds
+- [[permaculture-design]]
+- [[bill-mollison]]
+- [[permaculture-designers-manual-pattern-application]]

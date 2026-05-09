@@ -1,11 +1,12 @@
 ---
-title: Good Tips for Great Trips with Psilocybin Mushrooms
+title: Good Tips for Great Trips with psilocybin-mushrooms
 created: 2026-04-28
 tags: [harm-reduction, dosage, psilocybin, preparation, safety]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
 
@@ -27,7 +28,7 @@ unprepared, and should avoid experimentation.
 ## Dosage Guidelines
 
 The amount to take is dependent upon many factors, most importantly the
-species and your individual sensitivity. For first timers, a low dose is
+species and your individual sensitivity. For first timers, a [[ultra-low-dose-brassinosteroid-response-psilocybe-cubensis]] is
 recommended. Doses can be targeted by dividing the potency of the mushrooms
 by your body weight.
 
@@ -36,7 +37,7 @@ by your body weight.
 For the average adult male weighing 176 lb (80 kg):
 
 - **Low dose**: 0.25 mg psilocybin per kg, or about 20 mg total
-- **High dose**: 0.5 mg psilocybin/psilocin per kg, or 40 mg total
+- **High dose**: 0.5 mg psilocybin/[[psilocin]] per kg, or 40 mg total
 - **Extreme dose** (too high even for most veterans): 1 mg per kg or
   80 mg of psilocybin
 
@@ -52,14 +53,14 @@ in the gastrointestinal tract to pass through unaltered.
 ## Psilometric Potency Scale
 
 Stamets provides a psilometric scale rating the relative potency of
-various psilocybin mushroom species. The scale is based on maximum
+various [[emcdda-psilocybin-mushroom-species-and-identification]]. The scale is based on maximum
 reported concentrations of psilocybin and psilocin per dry weight. Key
 findings include:
 
 - **[[psilocybe-cyanescens]]**: Moderately to highly potent, with maxima of
   1.68% psilocybin and 0.28% psilocin.
 
-- **[[stamets-psylo-dangers-mistaken-identification]]
+- **stamets-psylo-dangers-mistaken-identification
 ## Practical Considerations
 
 Successful implementation of Good Tips for Great Trips with Psilocybin Mushrooms requires attention to
@@ -78,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

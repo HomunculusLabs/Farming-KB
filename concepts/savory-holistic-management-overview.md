@@ -1,7 +1,7 @@
 ---
-title: Holistic Management Overview
+title: savory holistic management overview Overview
 created: 2026-04-26
-aliases: [holistic resource management, HRM, Allan Savory]
+aliases: [[savory-holistic-resource-management-animal-impact]] management, HRM, Allan Savory]
 tags: [regenerative-agriculture, grazing, land-management, holism, sustainability]
 related: [savory-holistic-decision-making, savory-livestock-grazing-planning, savory-brittle-environments]
 type: concept
@@ -16,7 +16,7 @@ Holistic Resource Management (HRM) is a decision-making framework developed by A
 
 ## Core Philosophy
 
-HRM derives from viewing ourselves and our planet as one ecosystem functioning through four rudimentary processes: the development of living communities (succession), the cycling of mineral nutrients, the cycling of water, and the flow of solar energy. It involves the establishment of clear goals in all situations and the use of a "thought model" to see the whole being managed.
+HRM derives from viewing ourselves and our planet as one ecosystem functioning through four rudimentary processes: the development of living communities (succession), the cycling of mineral nutrients, the cycling of water, and the flow of [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]]. It involves the establishment of clear goals in all situations and the use of a "thought model" to see the whole being managed.
 
 The approach was born from decades of observation across Africa, Europe, and the Americas. Savory, trained as a biologist and game ranger in colonial Africa, witnessed environmental deterioration that conventional science could not explain or reverse. His search for solutions led to the discovery of four "missing keys" that fundamentally reshape our understanding of ecosystem management.
 
@@ -44,12 +44,12 @@ The HRM model identifies all tools available to humans in resource management:
 - **Rest**: Withholding disturbance from the land
 - **Fire**: Using controlled or wild burning
 - **Grazing**: The consumption of plants by animals
-- **Animal Impact**: The physical effects of hooves, dung, and urine on soil and plants
-- **Living Organisms**: Introducing or managing biological agents
+- **[[savory-animal-impact-and-herd-effect]]**: The physical effects of hooves, dung, and urine on soil and plants
+- **[[savory-living-organisms-as-tools]]**: Introducing or managing biological agents
 - **Technology**: Any mechanical or chemical intervention
 - **Money and Labor**: The financial and human resources that enable all other tools
 
-Each tool has predictable tendencies—ripple effects—on the four ecosystem processes. The guidelines in the model help focus and control these tendencies to produce desired outcomes.
+Each tool has predictable tendencies—ripple effects—on the four [[fungal-ecosystem-processes-overview]]. The guidelines in the model help focus and control these tendencies to produce desired outcomes.
 
 ## The Four Missing Keys
 

@@ -1,5 +1,5 @@
 ---
-title: Shamanic Entheogenic Ceremonies
+title: Shamanic metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti
 source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 tags: [shamanism, psychedelics, entheogens, healing, divination, indigenous]
 created: 2026-05-08
@@ -9,9 +9,9 @@ created: 2026-05-08
 
 ## Overview
 
-Shamanic entheogenic ceremonies are traditional healing and divination rituals
+Shamanic entheogenic ceremonies are traditional [[metzner-shamanic-healing-and-divination-paradigm]] rituals
 that employ psychoactive plants within carefully structured ceremonial contexts.
-Found in indigenous cultures worldwide, these ceremonies represent what Ralph
+Found in [[guzman-allen-gartz-sacred-puffballs-gasteromycetes-indigenous-cultures]] worldwide, these ceremonies represent what Ralph
 Metzner described as "the intentional arrangement of the set and the setting for
 purposes of healing and divination." Unlike Western [[hybrid-shamanic-therapy]]
 - [[hybrid-shamanic-therapy]]
@@ -45,7 +45,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -95,7 +95,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -105,4 +105,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

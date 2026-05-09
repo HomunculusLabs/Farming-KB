@@ -23,7 +23,7 @@ sources:
 Calendula (*Calendula officinalis*) and chamomile (*[[companion-planting]]
 
 **Calendula is the stronger companion plant.** Its nematicidal [[calendula-officinalis]] — full calendula growing and medicine guide
-- [[comparison-comfrey-vs-yarrow]] — two more medicinal herbs with different wound-healing approaches
+- [[comparison-comfrey-vs-yarrow]] — two more [[permaculture-plants-medicinal-herbs-healing]] with different wound-healing approaches
 - [[comparison-elderberry-vs-echinacea]] — immune-supporting herbs comparison
 ## Practical Applications
 
@@ -103,3 +103,10 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[comparison-mullein-vs-chamomile]]
+
+- [[comparison-valerian-vs-chamomile]]
+
+- [[comparison-echinacea-vs-calendula]]

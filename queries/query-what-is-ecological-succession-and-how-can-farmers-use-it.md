@@ -1,5 +1,5 @@
 ---
-title: What Is Ecological Succession and How Can Farmers Use It?
+title: What Is holmgren-ecological-succession-and-pulsing and How Can Farmers Use It?
 created: 2026-04-28
 tags: [ecological-succession, farming, agroecology, regenerative-agriculture, permaculture, land-management, soil-building, pioneer-species, climax-community]
 date: 2026-04-28
@@ -9,7 +9,7 @@ sources:
   - "Clements FE (1916) — Plant Succession: An Analysis of the Development of Vegetation"
   - "Connell & Slatyer (1977) — Mechanisms of Succession in Natural Communities, American Naturalist"
   - "Toensmeier E (2016) — The Carbon Farming Solution"
-  - "Jacke & Toensmeier (2005) — Edible Forest Gardens, Vol 1 & 2"
+  - "Jacke & Toensmeier (2005) — Edible [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]], Vol 1 & 2"
   - "USDA NRCS — Soil Health and Ecological Principles"
   - "Shepherd J (2015) — Restoration Agriculture"
 type: query
@@ -19,7 +19,7 @@ type: query
 
 ## Quick Answer
 
-**Ecological succession** is the natural process by which ecosystems change and develop over time — from bare ground or disturbed land to increasingly complex, stable communities of plants, animals, and microorganisms. In farming, understanding succession lets growers work *with* nature's trajectory rather than against it, reducing inputs, building soil faster, and creating more resilient production systems. Farmers can accelerate succession to reach productive food-producing states (like food forests and perennial pastures) or arrest succession at productive intermediate stages (like annual vegetable gardens and grain fields).
+**Ecological succession** is the natural process by which ecosystems change and develop over time — from [[savory-bare-ground-and-soil-exposure]] or disturbed land to increasingly complex, stable communities of plants, animals, and microorganisms. In farming, understanding succession lets growers work *with* nature's trajectory rather than against it, reducing inputs, building soil faster, and creating more resilient production systems. Farmers can accelerate succession to reach productive food-producing states (like food forests and perennial pastures) or arrest succession at productive intermediate stages (like annual vegetable gardens and grain fields).
 
 ## What Is Ecological Succession?
 
@@ -27,7 +27,7 @@ type: query
 
 When bare land is left alone — whether after a volcanic eruption, a landslide, a fire, or a plowed field is abandoned — a predictable sequence of plant communities establishes itself over time. This process is called **ecological succession**, and it moves generally from simple, fast-growing, short-lived communities toward complex, diverse, long-lived ones.
 
-**Primary succession** starts on completely lifeless substrate — fresh lava, bare rock, glacial till. It begins with lichens and mosses that slowly break down rock into soil, followed by increasingly demanding plants over centuries or millennia.
+**Primary succession** starts on completely lifeless substrate — fresh lava, bare rock, glacial till. It begins with lichens and mosses that slowly [[query-can-fungi-break-down-plastic-pollution]] rock into soil, followed by increasingly demanding plants over centuries or millennia.
 
 **Secondary succession** starts where an existing ecosystem has been disturbed but soil and some organisms remain — abandoned farmland, logged forests, burned prairies, flood-scoured riverbanks. This is the type most relevant to farmers, as it proceeds much faster (years to decades) because soil, seed banks, and microbial communities are already present.
 
@@ -55,11 +55,11 @@ At each stage, the current occupants modify the environment in ways that make it
 
 **Shade tolerance**: Early successional plants are almost always sun-loving and fast-growing (high r-selection). They create shade that favors more shade-tolerant, slower-growing species that eventually outcompete them.
 
-**Soil building**: Pioneer plants have shallow, fibrous root systems that add organic matter and begin developing soil structure. Later plants with deeper roots access more nutrients, cycle them to the surface through [[mycorrhizal-networks-and-forest-communication]].
+**Soil building**: Pioneer plants have shallow, fibrous root systems that add [[hamilton-composting-and-organic-matter-management]] and begin developing soil structure. Later plants with deeper roots access more nutrients, cycle them to the surface through [[mycorrhizal-networks-and-forest-communication]].
 
 **Nutrient dynamics**: Early successional soils are typically high in available nitrogen (disturbance releases it) and low in organic matter. As succession progresses, more nitrogen gets locked up in living biomass and soil organic matter, and the system becomes more nitrogen-efficient.
 
-**Competition**: Each stage creates conditions that favor the next — taller plants outcompete shorter ones for light, deeper-rooted plants outcompete shallow ones for water and nutrients, and plants that tolerate lower nutrient availability outcompete those that require rich soil.
+**Competition**: Each stage creates conditions that favor the next — taller plants outcompete shorter ones for light, deeper-rooted plants outcompete shallow ones for water and nutrients, and plants that tolerate lower [[ph-and-nutrient-availability-garden-soils]] outcompete those that require rich soil.
 
 ## How Farmers Can Harness Succession
 
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

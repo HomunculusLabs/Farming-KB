@@ -1,5 +1,5 @@
 ---
-title: "LOPHOPHINE (3-METHOXY-4,5-METHYLENEDIOXYPHENETHYLAMINE) -- PIHKAL Entry #95"
+title: "LOPHOPHINE (3-METHOXY-4,5-METHYLENEDIOXYPHENETHYLAMINE) -- 2c-b-pihkal-entry-20 #95"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -62,7 +62,7 @@ statuses will change in the future.
 A solution of 50 g myristicinaldehyde
 (3-methoxy-4,5-methylenedioxybenzaldehyde, see under MMDA for its
 preparation) in 200 mL acetic acid was treated with 33 mL nitromethane
-and 17.4 g anhydrous ammonium acetate and held on the steam bath for 5
+and 17.4 g anhydrous ammonium acetate and held on the [[scythian-cannabis-steam-bath-ritual]] for 5
 h. The reaction mixture was diluted with a little H2O and cooled in
 an external ice-acetone bath. A heavy crop of yellow crystals formed,
 which were removed by filtration, washed with cold acetic acid, and
@@ -102,7 +102,7 @@ deg C.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

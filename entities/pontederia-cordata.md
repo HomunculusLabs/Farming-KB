@@ -12,9 +12,9 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Lowden, R.M. (1973). "Revision of the genus Pontederia L." Rhodora, 75(802), 426-490.
-  - Graham, S.A. & Graham, S.A. (2014). "Pontederiaceae." In: Flora of North America North of Mexico, Vol. 24, pp. 29-39. Oxford University Press.
+  - Graham, S.A. & Graham, S.A. (2014). "Pontederiaceae." In: Flora of [[psilocybin-north-america-pacific-northwest]] North of Mexico, Vol. 24, pp. 29-39. Oxford University Press.
   - Hardin, E.D. & Wistendahl, W.A. (1983). "The effects of fire on vegetation of a river margin in southeastern Ohio." Ohio Journal of Science, 83(2), 60-68.
-  - Tanner, C.C. (1996). "Plants for constructed wetlands in New Zealand." Journal of the Royal Society of New Zealand, 26(4), 499-510.
+  - Tanner, C.C. (1996). "Plants for [[comparison-constructed-wetlands-vs-bioswales]] in New Zealand." Journal of the Royal Society of New Zealand, 26(4), 499-510.
   - Snow, A.A. & Snow, D.W. (1988). "Pollination and seed production in pickerelweed, Pontederia cordata." Oecologia, 76(3), 392-396.
 ---
 
@@ -24,7 +24,7 @@ sources:
 
 **Pontederia cordata**, commonly known as pickerelweed, is a perennial emergent aquatic plant in the family Pontederiaceae. It is native to North, Central, and South America and is one of the most recognizable wetland plants in eastern North America, producing tall spikes of violet-blue flowers through summer.
 
-The species is valued for its ornamental qualities in water gardens and for its ecological role in supporting pollinators and wetland wildlife. It is also widely used in constructed wetland systems for wastewater treatment and stormwater management.
+The species is valued for its ornamental qualities in water gardens and for its ecological role in supporting pollinators and wetland wildlife. It is also widely used in constructed wetland systems for [[mollison-designers-wastewater-treatment-wetlands]] and stormwater management.
 
 ## Taxonomy and Morphology
 
@@ -46,7 +46,7 @@ The genus name honors the Italian botanist Giulio Pontedera (1688–1757). The s
 
 ## Distribution and Habitat
 
-*P. cordata* ranges from eastern Canada (Nova Scotia to Ontario) south through the eastern United States to Florida and west to Texas and Minnesota. It also occurs in Central America, the Caribbean, and northern South America (Brazil, Argentina).
+*P. cordata* ranges from eastern Canada (Nova Scotia to Ontario) south through the eastern United States to Florida and west to Texas and Minnesota. It also occurs in [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], the Caribbean, and northern South America (Brazil, Argentina).
 
 The species grows in shallow fresh water (0–30 cm depth) along pond margins, lake edges, marshes, slow streams, and ditches. It prefers fertile, organic substrates and full sun but tolerates partial shade. It occurs from sea level to approximately 500 m elevation.
 
@@ -54,7 +54,7 @@ In the southeastern United States, pickerelweed occurs sympatrically with the re
 
 Pickerelweed forms extensive clonal stands through rhizomatous growth, often dominating the shallow-water zone of freshwater wetlands. It is a colonizer of disturbed sites and is one of the first emergent macrophytes to establish in newly created wetland habitats.
 
-The species can survive in water up to 60 cm deep in some populations, though most vigorous growth occurs in water less than 30 cm. It tolerates temporary drawdown and can persist in seasonally dry wetland margins. Biomass production ranges from 500 to 2,000 g dry weight per square meter per year in temperate climates.
+The species can survive in water up to 60 cm deep in some populations, though most vigorous growth occurs in water less than 30 cm. It tolerates temporary drawdown and can persist in seasonally dry wetland margins. [[dighton-fungal-biomass-production-aquatic-ecosystems]] ranges from 500 to 2,000 g dry weight per square meter per year in temperate climates.
 
 ## Pollination Biology
 
@@ -72,7 +72,7 @@ Pickerelweed stands provide habitat for a wide range of wetland fauna. The dense
 
 Seed dispersal is primarily by waterfowl, which consume the fruits and excrete the seeds at new sites. The seeds can remain viable in submerged sediment for 3–5 years. Germination is stimulated by exposure to light and fluctuating water levels, which explains the species' success in seasonally flooded habitats.
 
-The spongy petioles and rhizomes transport oxygen from aerial tissues to the root zone, creating oxidized microsites in the sediment. This radial oxygen release supports nitrogen-transforming microbial communities and influences nutrient cycling in the rhizosphere.
+The spongy petioles and rhizomes transport oxygen from aerial tissues to the root zone, creating oxidized microsites in the sediment. This radial oxygen release supports nitrogen-transforming microbial communities and influences [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in the rhizosphere.
 
 The species provides egg-laying substrate for dragonflies and damselflies. Amphibians, particularly frogs and salamanders, use pickerelweed stands for breeding habitat and shelter. The above-ground biomass contributes organic matter to wetland sediments upon senescence.
 

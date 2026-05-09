@@ -1,5 +1,5 @@
 ---
-title: Soft Fruit Bushes and Berries
+title: growing-soft-fruit-organically Bushes and Berries
 created: 2026-04-26
 tags:
   - fruit-growing
@@ -18,14 +18,14 @@ type: concept
 Soft fruit bushes and berries form a valuable and productive layer in Sepp
 Holzer's permaculture systems. From currants and gooseberries to strawberries
 and elderberries, these plants provide vitamin-rich food, create habitat for
-beneficial insects and birds, and fit naturally into the multi-layered
-landscape design of the [[holzer-fruit-forest-establishment]] and [[holzer-assessing-the-land]] and all of Holzer's growing practices.
+[[comparison-beneficial-insects-guide-vs-integrated-pest-management]] and birds, and fit naturally into the multi-layered
+landscape design of the [[holzer-fruit-forest-establishment]] and  and all of Holzer's growing practices.
 
 ## Currants
 
 Redcurrants, blackcurrants and white currants were traditionally planted
-along fences in the kitchen garden. The fence provided support and the
-position along the garden boundary gave them good air circulation. Currants
+along fences in the [[holzer-kitchen-garden-herbs-and-medicinal-plants]]. The fence provided support and the
+position along the garden boundary gave them good [[stamets-growing-room-air-circulation-co2-management]]. Currants
 are relatively undemanding once established and produce reliable crops year
 after year.
 
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

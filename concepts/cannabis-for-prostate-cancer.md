@@ -19,7 +19,7 @@ the therapeutic potential explored throughout related entries in the wiki.
 
 ## Source
 
-Blesching, U. (2015). *The Cannabis Health Index*. Chapter IV: "Prostate Cancer." North Atlantic Books.
+Blesching, U. (2015). *The [[blesching-cannabis-health-index-autoimmune-conditions]]*. Chapter IV: "Prostate Cancer." North Atlantic Books.
 - [[blesching-cannabis-prostate-cancer]]
 ## Practical Applications
 
@@ -98,4 +98,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

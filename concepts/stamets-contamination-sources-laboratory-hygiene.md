@@ -1,10 +1,10 @@
 ---
-title: Contamination Sources and Laboratory Hygiene
+title: stamets contamination sources laboratory hygiene and Laboratory Hygiene
 created: 2026-04-28
 tags: [sterile-technique, contamination, laboratory-design, hepa-filtration]
 date: 2026-04-25
 updated: 2026-04-25
-sources: [raw/papers/the-mushroom-cultivator-stamets.md]
+sources: sources: []
 type: concept
 ---
 
@@ -13,21 +13,21 @@ type: concept
 The air we breathe is a living sea of microscopic organisms that ebbs and flows
 with the slightest wind currents. Fungi, bacteria, viruses, and plants use the
 atmosphere to carry their offspring to new environments. These microscopic
-particles make sterile technique difficult unless proper precautions are taken.
+particles make [[cultivator-sterile-technique-and-agar-culture]] difficult unless proper precautions are taken.
 If one can eliminate or reduce the movement of these organisms in the air,
 success in sterile technique is assured.
 
 ## Five Primary Sources of Contamination
 
-There are five primary sources of contamination in mushroom culture work:
+There are five primary sources of contamination in [[mazatec-mushroom-culture-and-velada]] work:
 
-1. **The immediate external environment**: Airborne [[agar]] media that harbor contaminant
+1. **The immediate external environment**: Airborne [[growing-gourmet-agar-media-formulas-preparation]] that harbor contaminant
    organisms if not properly sterilized before inoculation.
 3. **The culturing equipment**: Tools, containers, and surfaces that have not
    been adequately cleaned and sterilized between uses.
 4. **The cultivator and their clothes**: The human body sheds microorganisms
    continuously; clothing can carry spores and bacteria from outside.
-5. **The mushroom spores or [[comparison-laminar-flow-hood-vs-fruiting-chamber]]. Some sterile laboratories have an entire wall or ceiling constructed of
+5. **The [[query-how-to-store-mushroom-spores-long-term]] or [[comparison-laminar-flow-hood-vs-fruiting-chamber]]. Some sterile laboratories have an entire wall or ceiling constructed of
 HEPA filters through which pressurized air is forced from the outside,
 creating a positive pressure sterile environment.
 
@@ -58,7 +58,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -100,4 +100,5 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+- [[sterilization]]
+- [[mushroom-hygiene-and-contamination]]

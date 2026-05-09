@@ -1,12 +1,12 @@
-# Polyethylene Sheeting Fruiting Chamber Simple Stackable Design
+# Polyethylene Sheeting [[fruiting-chamber]] Simple Stackable Design
 
 ## Overview
 
-A simple fruiting chamber using clear plastic bins covered with polyethylene sheeting provides an effective, low-cost environment for mushroom fruiting without the need for electronic humidifiers, air pumps, or other complex equipment. This design was described in the grass seed cultivation guide as the standard approach for fruiting cased trays of *Psilocybe*, *Panaeolus*, and related species.
+A simple [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]] using clear plastic bins covered with polyethylene sheeting provides an effective, low-cost environment for [[ectomycorrhizal-mushroom-fruiting-ecology]] without the need for electronic humidifiers, air pumps, or other complex equipment. This design was described in the grass seed cultivation guide as the standard approach for fruiting cased trays of *Psilocybe*, *Panaeolus*, and related species.
 
 ## Design Principles
 
-The chamber design prioritizes simplicity, scalability, and passive humidity management:
+The [[fruiting-chamber-design-and-environmental-control]] prioritizes simplicity, scalability, and passive [[stamets-cultivator-humidity-management-fogging-systems]]:
 
 - **Passive humidity**: Humidity is maintained through natural evaporation from the casing soil surface, eliminating the need for powered humidification equipment.
 - **Minimal air exchange**: Small holes in the bin sides provide sufficient fresh air exchange without requiring fans or pumps.
@@ -54,7 +54,7 @@ The humidity inside the chamber is maintained primarily by evaporation from the 
 ### CO₂ Sensitivity
 
 Mushrooms are sensitive to elevated CO₂ levels. In a sealed environment, mycelial respiration quickly depletes O₂ and accumulates CO₂, which:
-- Inhibits primordia formation (pinning)
+- Inhibits [[growing-gourmet-primordia-formation-pinning]] (pinning)
 - Causes elongated, spindly stems with small caps
 - Reduces overall yield and quality
 
@@ -91,7 +91,7 @@ With five trays per bin and stackable design, a cultivator can scale production 
 
 ### Periodic Tasks
 - **Deep clean bins**: Between crop cycles, wash bins and trays with soap and water, then disinfect with a 10% bleach solution or 70% isopropyl alcohol.
-- **Replace polyethylene sheeting**: If sheeting becomes torn, heavily contaminated with spore deposits, or loses its flexibility, replace it.
+- **Replace polyethylene sheeting**: If sheeting becomes torn, heavily contaminated with [[spore]] deposits, or loses its flexibility, replace it.
 - **Check mesh filters**: Clean or replace insect exclusion mesh if it becomes clogged with dust or debris.
 
 ## Advantages Over More Complex Systems
@@ -116,7 +116,7 @@ The simple fruiting chamber design has some limitations that cultivators should 
 - **No environmental monitoring**: Without sensors, cultivators cannot precisely track temperature, humidity, or CO₂ levels. Experience and visual cues become the primary monitoring tools.
 - **Reliance on daily attention**: Missing even a day of misting during critical pinning or fruiting phases can significantly impact yield.
 - **Limited to small scale**: While stackable, this design becomes impractical beyond a few dozen bins. Commercial-scale operations would benefit from more automated systems.
-- **Seasonal variation**: Ambient temperature and humidity fluctuations affect chamber conditions more than they would in climate-controlled automated systems.
+- **Seasonal variation**: Ambient [[greg-green-temperature-and-humidity-control]] fluctuations affect chamber conditions more than they would in climate-controlled automated systems.
 
 Despite these limitations, the design is widely regarded as one of the most reliable and cost-effective approaches for small-to-medium scale cultivation, particularly for cultivators who can commit to daily maintenance routines.
 

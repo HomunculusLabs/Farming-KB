@@ -1,36 +1,13 @@
 ---
-title: "Parasitic Mushrooms and Forest Blights"
+title: "growing-gourmet-parasitic-mushrooms-forest-blights and Forest Blights"
 created: 2026-04-28
-tags: [[mycology, parasitism, forest-ecology, fungal-pathogens]
+tags: [mycology, parasitism, forest-ecology, fungal-pathogens]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/unknown-mycelium-running.md]
 type: concept
 ---
-
-# Parasitic Mushrooms and Forest Blights
-
-Parasitic mushrooms have long been stigmatized as blights that
-endanger the health of forest trees, destroying thousands of acres
-of standing timber. However, a more nuanced ecological view reveals
-that parasitic fungi play a critical role in forest renewal, setting
-the stage for the revival of weakened habitats that are too stressed
-to thrive. Their activity ultimately creates nurse logs, deepens
-soils, and increases biodiversity within forest ecosystems.
-
-## The Dual Role of Parasites
-
-Parasites are predators that endanger the host's health. In the
-past, foresters saw all parasitic fungi as hostile to the long-term
-health of forests. However, more foresters are realizing that a
-rotting tree in the midst of a canopied forest is, in fact, more
-supportive of biodiversity than a living tree. Parasitic mushrooms
-may be nature's way of selecting the strongest plants and repairing
-damaged habitats. Ultimately, parasitic mushrooms set the stage for
-the revival of weakened habitats that are too stressed to thrive.
-
-Of all the parasitic blight mushrooms that are edible by humans,
-the assorted honey mushrooms such as [[armillaria-ostoyae]] are the best known. One mycelial mat from a
+# Parasitic Mushrooms and Forest Blights Parasitic mushrooms have long been stigmatized as blights that endanger the health of forest trees, destroying thousands of acres of standing timber. However, a more nuanced ecological view reveals that parasitic fungi play a critical role in forest renewal, setting the stage for the revival of weakened habitats that are too stressed to thrive. Their activity ultimately creates nurse logs, deepens soils, and increases biodiversity within forest ecosystems. ## The Dual Role of Parasites Parasites are predators that endanger the host's health. In the past, foresters saw all parasitic fungi as hostile to the long-term health of forests. However, more foresters are realizing that a rotting tree in the midst of a canopied forest is, in fact, more supportive of biodiversity than a living tree. Parasitic mushrooms may be nature's way of selecting the strongest plants and repairing damaged habitats. Ultimately, parasitic mushrooms set the stage for the revival of weakened habitats that are too stressed to thrive. Of all the parasitic blight mushrooms that are edible by humans, the assorted honey mushrooms such as [[armillaria-ostoyae]] are the best known. One mycelial mat from a
 honey mushroom (Armillaria bulbosa) made national headlines when a
 specimen was found in a Michigan forest that covered 37 acres, weighed
 at least 50 tons, and was estimated to be 1,500 years old.
@@ -38,9 +15,9 @@ at least 50 tons, and was estimated to be 1,500 years old.
 ## Facultative Parasitism
 
 Many saprophytic fungi can be weakly parasitic, especially if a
-host tree is dying from other causes such as environmental stress
+[[ectomycorrhizal-host-tree-partnerships]] is dying from other causes such as environmental stress
 or parasite infestation. Saprophytes that can take advantage of a
-dying tree are termed facultative parasites. Oyster mushrooms
+dying tree are termed facultative parasites. [[query-how-to-grow-oyster-mushrooms-at-home]]
 ([[ganoderma-lucidum]]) is considered
 a true saprophyte by most mycologists, the Australian Quarantine
 Inspection Service has classified this mushroom as a medicinal
@@ -67,7 +44,7 @@ natural selection sometimes favors fast growers.
 ## Phytophthora and Sudden Oak Death
 
 Foresters have observed the devastating speed of Phytophthora
-ramorum, the cause of sudden oak disease. This downy mildew
+ramorum, the cause of sudden oak disease. This [[cervantes-downy-mildew-fungal-blight]]
 pathogen can kill an ancient oak tree in days and an ancestral
 forest in a few weeks, and remain viable on the dead carcasses of
 its victims, allowing a new staging platform for infection further
@@ -79,7 +56,7 @@ composition in very short time periods.
 
 The conventional thinking was that when bears scratched trees in
 search of grubs, they created wounds that soon became infected by
-polypore mushrooms. Now it is known that bears and other animals
+[[growing-gourmet-polypore-mushrooms-cultivation-overview]]. Now it is known that bears and other animals
 actually help lowland old-growth forest ecosystems by fishing salmon
 and trout from streams, replenishing stream banks with essential sea
 salts and nitrogen-rich nutrients. Each time a fungal blight sweeps
@@ -122,7 +99,7 @@ wood to the birds that depend on those insects for food.
 
 ## Applications
 
-- Selective forest management that recognizes the ecological
+- Selective [[mollison-pdc-forest-management-products]] that recognizes the ecological
   value of parasitic fungi in forest renewal cycles
 - Monitoring parasitic fungal populations as indicators of
   broader forest health and environmental stress
@@ -134,6 +111,8 @@ wood to the birds that depend on those insects for food.
   parasitic fungi and their ecological roles
 
 ## See Also
+
+- [[growing-gourmet-parasitic-mushrooms-forest-blights]]
 
 - [[mycelium-running-mycelium-soil-building]]
 - [[mycelium-running-mycelial-archetype-nature]]

@@ -5,12 +5,13 @@ updated: 2026-04-12
 type: concept
 tags: [mycology, filtration, water, bacteria, pathogens, silt, erosion]
 sources:
-  - raw/papers/mycelium-running-stamets.md
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # Mycofiltration Overview
 
-Using mycelial mats to filter water — removing silt, pathogens, chemicals, and excess nutrients. One of the four branches of [[mycorestoration-overview]]. From Chapter 8 of *Mycelium Running* by [[paul-stamets]].
+Using [[singh-mycelial-mats-and-biological-soil-crusts]] to filter water — removing silt, pathogens, chemicals, and excess nutrients. One of the four branches of [[mycorestoration-overview]]. From Chapter 8 of *[[woodlovers-mycelium-running-pathway-technique]]* by [[paul-stamets]].
 
 ## What Mycofiltration Can Remove
 
@@ -21,7 +22,7 @@ Using mycelial mats to filter water — removing silt, pathogens, chemicals, and
 | **Pseudomonas fluorescens** | Competitive displacement by Bacillus subtilis | Oyster |
 | **Nitrates/phosphorus** | Metabolic uptake | Stropharia, oyster |
 | **Hydrocarbons** | Enzymatic degradation | Oyster, turkey tail |
-| **Heavy metals** | Bioaccumulation in fruiting bodies | Aspergillus, shiitake |
+| **[[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]** | Bioaccumulation in fruiting bodies | Aspergillus, shiitake |
 | **Pfiesteria** | Antibacterial secretions | Oyster |
 
 ## The Stropharia E. coli Discovery
@@ -41,7 +42,7 @@ This has profound implications for agriculture — mycofilters could replace exp
 ### Layered Construction (From Bottom to Top)
 1. **Gravel base** (2-3 inches) — drainage
 2. **Sawdust/wood chips** (3-4 inches) — primary substrate
-3. **Spawn layer** (sawdust spawn at ~1/4 lb/sq ft)
+3. **Spawn layer** ([[growing-gourmet-sawdust-spawn-production-use]] at ~1/4 lb/sq ft)
 4. **Corncobs** (4 inches) — aeration and rapid colonization
 5. **Second spawn layer**
 6. **Waste cardboard** — moisture retention, weed suppression
@@ -70,7 +71,7 @@ Burlap sacks filled with inoculated sawdust:
 
 - 500-foot stretch of abandoned logging road on hillside above salmon stream
 - Road was primary vector of siltation into spawning grounds
-- Treatment: 6 inches of waste wood (bark + chips + fir needles) + oyster spawn + wheat straw + mycorrhizal inoculum
+- Treatment: 6 inches of waste wood (bark + chips + fir needles) + oyster spawn + wheat straw + [[arbuscular-mycorrhizal-inoculum-production-best-practices]]
 - After 3 years: mantle of contiguous mycelia formed at wood chip/gravel interface
 - Road surface stabilized; erosion eliminated; salmon habitat protected
 - Cost: approximately 50% of conventional decommissioning (tank traps + scarification)
@@ -107,7 +108,7 @@ Benefits over conventional methods (tank traps, ditches, scarification):
 
 - Human hair naturally soaks up petroleum (5x its weight)
 - Hair mats deployed on water to absorb oil (Matter of Trust organization)
-- After saturation, hair mats can be saprophytized by oyster mushroom mycelium
+- After saturation, hair mats can be saprophytized by [[cotter-oyster-mushroom-cultivation]] mycelium
 - Mycelium metabolizes the petroleum while the hair provides structure
 - This creates a two-stage cleanup: physical absorption → biological degradation
 

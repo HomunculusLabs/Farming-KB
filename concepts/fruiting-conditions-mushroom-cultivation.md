@@ -1,5 +1,5 @@
 ---
-title: Fruiting Conditions for Mushroom Cultivation
+title: Fruiting Conditions for accessible-mushroom-cultivation-for-disabilities
 created: 2026-04-28
 tags: [mushrooms, fruiting, cultivation, environment, mycology]
 date: 2026-04-28
@@ -35,7 +35,7 @@ trigger.
 ### Carbon Dioxide Levels
 
 This is arguably the most important fruiting trigger. During
-colonization, carbon dioxide levels in the growing environment can reach
+colonization, carbon dioxide levels in the [[cannabis-growing-environment-setup]] can reach
 5,000 to 10,000 ppm or higher. For fruiting, levels should drop below
 800 ppm, ideally around 400 to 600 ppm (near ambient atmospheric
 levels).
@@ -76,7 +76,7 @@ developing mushrooms, which can cause them to rot.
 
 Evaporation from the substrate surface is itself a fruiting trigger.
 The constant cycle of surface moisture evaporating and being replenished
-through misting or humidity control stimulates pin formation. This is
+through misting or [[cervantes-humidity-control-dehumidification]] stimulates pin formation. This is
 why maintaining high ambient humidity while allowing surface evaporation
 is the ideal balance.
 
@@ -84,7 +84,7 @@ is the ideal balance.
 
 ### Light Requirements
 
-Contrary to common belief, most cultivated mushrooms are not grown in
+Contrary to common belief, most [[fungi-cultivated-mushrooms-pathogens-competitors]] are not grown in
 darkness during fruiting. They require light to orient their growth and
 trigger the genetic cascade that leads to fruiting body formation. Most
 species need 12 hours of light per day on a standard diurnal cycle.
@@ -119,8 +119,8 @@ Different species have different fruiting temperature preferences:
   on variety
 - Shiitake (Lentinula edodes): 10 to 20 degrees Celsius
 - Lion's mane (Hericium erinaceus): 16 to 22 degrees Celsius
-- Button mushrooms (Agaricus bisporus): 14 to 18 degrees Celsius
-- Reishi (Ganoderma lucidum): 22 to 30 degrees Celsius
+- Button mushrooms ([[genetic-improvement-agaricus-bisporus-molecular-approaches]]): 14 to 18 degrees Celsius
+- Reishi ([[stamets-reishi-ganoderma-lucidum-cultivation]]): 22 to 30 degrees Celsius
 
 ## Duration
 

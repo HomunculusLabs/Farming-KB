@@ -30,7 +30,7 @@ For selenium, methylation can produce dimethyl selenide and dimethyl diselenide.
 For tellurium, analogous reactions can produce dimethyl telluride compounds.
 The same general logic appears in microbial, fungal, and plant volatilization systems.
 Enzymes and intermediates differ across organisms, so SAM should not be treated as proof of a single universal pathway.
-SAM acts as the biochemical bridge between central metabolism and metalloid transformation.
+SAM acts as the biochemical bridge between central metabolism and [[fungal-metalloid-transformation-methylation-volatilization]].
 ## Transsulfuration and Polyamine Links
 SAM is not only a methyl donor.
 It is connected to transsulfuration through S-adenosylhomocysteine and homocysteine metabolism.
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

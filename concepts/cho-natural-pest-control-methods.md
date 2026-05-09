@@ -1,5 +1,5 @@
 ---
-title: "Cho's Natural Pest Control Methods"
+title: "Cho's cho natural pest control methods Control Methods"
 created: 2026-04-28
 tags: [korean-natural-farming, pest-management, IPM, biological-control,
        cho-global]
@@ -12,7 +12,7 @@ type: concept
 
 # Cho's Natural Pest Control Methods
 
-Dr. Cho's Korean Natural Farming approaches pest control through preventive
+Dr. Cho's Korean [[comparison-natural-farming-vs-permaculture]] approaches pest control through preventive
 plant health management and targeted physical interventions. The system
 avoids chemical pesticides entirely, relying instead on soil health, balanced
 nutrition, and biological methods.
@@ -35,7 +35,7 @@ In Cho's "Non-Chemical" approach, farmers nurture the soil rather than
 feed plants directly. IMOs perform two critical functions for pest
 management:
 
-1.  **Decomposition** — Breaking complex organic compounds into
+1.  **Decomposition** — Breaking complex [[fungal-volatile-organic-compounds-communication]] into
     absorbable nutrients for vigorous, resistant growth.
 2.  **Pathogen suppression** — Producing antibiotic substances, enzymes,
     and lactic acids that suppress diseases.
@@ -50,15 +50,15 @@ solution, seed/seedling treatment, and foliar applications at 1:500 to
 
 [[cho-plant-growth-stage-treatments]]. Each stage
 treatment includes inputs that simultaneously support plant health and
-provide pest resistance. The crack prevention treatment, for example,
+provide [[cannabis-disease-pest-resistance-breeding-clarke]]. The crack prevention treatment, for example,
 combines OHN, BRV, FPJ, LAB, and seawater to strengthen tissues against
 both physiological disorders and pathogen entry.
 
 ## Key Takeaways
 
 -   Prevention through soil health and balanced nutrition is primary.
--   Physical trapping (AIA and FIA) provides targeted insect control.
--   All natural farming inputs contribute to pest resistance indirectly.
+-   Physical trapping (AIA and FIA) provides targeted [[mushroom-pests-insect-control-stamets]].
+-   All natural [[natural-farming-inputs-cho]] contribute to pest resistance indirectly.
 -   The system avoids the chemical dependency cycle of conventional
     agriculture.
 
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

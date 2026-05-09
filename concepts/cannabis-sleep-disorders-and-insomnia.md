@@ -1,5 +1,5 @@
 ---
-title: Cannabis Sleep Disorders and Insomnia
+title: Cannabis cannabis sleep disorders and insomnia and Insomnia
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Cannabis for Sleep Disorders and Insomnia
 
-Sleep disturbances affect millions worldwide, and cannabis has been used for centuries as a sleep aid. The Cannabis Health Index documents the complex relationship between cannabinoids and sleep architecture, revealing both promising therapeutic applications and important caveats.
+Sleep disturbances affect millions worldwide, and cannabis has been used for centuries as a sleep aid. The [[blesching-cannabis-health-index-autoimmune-conditions]] documents the complex relationship between cannabinoids and sleep architecture, revealing both promising therapeutic applications and important caveats.
 
 ## CHI Value: 5 (1 study reviewed)
 
@@ -48,12 +48,12 @@ A notable phenomenon documented in cannabis sleep research is what might be call
 The Cannabis Health Index's reviewed study confirms:
 - Cannabis extracts containing THC reduce sleep onset latency
 - Sleep duration normalizes rather than simply increasing
-- Effects are dose-dependent within the subjective therapeutic window
+- Effects are dose-dependent within the [[cannabis-subjective-therapeutic-window-dosing]] window
 
 ## Sleep and Pain
 
 Many patients use cannabis for sleep primarily because it addresses underlying pain conditions:
-- Chronic pain is the leading cause of insomnia
+- [[cannabis-chronic-pain-management]] is the leading cause of insomnia
 - Cannabis's analgesic effects indirectly improve sleep by reducing pain
 - Studies on cannabis for arthritis, fibromyalgia, and neuropathic pain consistently show improved sleep as a secondary outcome
 - The 2006 RA study showed Sativex patients "slept better" alongside pain reduction
@@ -64,7 +64,7 @@ Many patients use cannabis for sleep primarily because it addresses underlying p
 Generally preferred for sleep due to:
 - Higher myrcene content (sedating terpene)
 - Higher linalool content (calming terpene)
-- Lower THC:CBD ratio favoring CB2 (anti-inflammatory) activation
+- Lower THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]] favoring CB2 (anti-inflammatory) activation
 - More body-focused, relaxing effects
 - Commonly recommended indica strains: Granddaddy Purple, Northern Lights, Afghan Kush
 

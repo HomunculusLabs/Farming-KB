@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/beneficial-indigenous-microorganisms-bion
 
 # Rhodopseudomonas palustris
 
-*Rhodopseudomonas palustris* is a purple non-sulfur photosynthetic bacterium renowned for its extraordinary metabolic versatility. It is a Gram-negative alphaproteobacterium capable of photosynthesis, nitrogen fixation, carbon dioxide assimilation, and the degradation of a wide range of organic compounds. This metabolic flexibility makes it one of the most adaptable bacteria known and a valuable organism in agricultural, environmental, and biotechnological applications.
+*Rhodopseudomonas palustris* is a purple non-sulfur photosynthetic bacterium renowned for its extraordinary metabolic versatility. It is a Gram-negative alphaproteobacterium capable of photosynthesis, [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], carbon dioxide assimilation, and the degradation of a wide range of [[fungal-volatile-organic-compounds-communication]]. This metabolic flexibility makes it one of the most adaptable bacteria known and a valuable organism in agricultural, environmental, and biotechnological applications.
 
 ## Metabolic Versatility
 
@@ -21,7 +21,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/beneficial-indigenous-microorganisms-bion
 3. **Chemoautotrophic growth**: In the dark, using organic or inorganic electron donors and carbon dioxide as a carbon source.
 4. **Chemoheterotrophic growth**: In the dark, using organic compounds as both energy and carbon sources.
 
-This remarkable metabolic flexibility allows *R. palustris* to thrive in diverse environments including freshwater, marine sediments, wastewater, rice paddies, soil, and decomposing organic matter. The organism can switch between metabolic modes depending on environmental conditions, making it exceptionally resilient to fluctuations in light, oxygen, and nutrient availability.
+This remarkable metabolic flexibility allows *R. palustris* to thrive in diverse environments including freshwater, marine sediments, wastewater, rice paddies, soil, and decomposing organic matter. The organism can switch between metabolic modes depending on environmental conditions, making it exceptionally resilient to fluctuations in light, oxygen, and [[ph-and-nutrient-availability-garden-soils]].
 
 ## Nitrogen Fixation
 
@@ -31,15 +31,15 @@ In agricultural contexts, this nitrogen-fixing ability makes *R. palustris* a va
 
 ## Role in Indigenous Microorganism Systems
 
-In Korean natural farming and IMO (indigenous microorganism) preparations, *R. palustris* is one of the key organisms targeted during the collection and cultivation of beneficial microorganisms. It is commonly found in the "FPJ" (fermented plant juice) and "FAA" (fermented amino acid) preparations, as well as in specialized IMO formulations designed to enhance soil fertility and plant nutrition.
+In Korean natural farming and IMO (indigenous microorganism) preparations, *R. palustris* is one of the key organisms targeted during the collection and cultivation of beneficial microorganisms. It is commonly found in the "FPJ" ([[bionutrients-lab-fermented-plant-juice-fpj]]) and "FAA" (fermented amino acid) preparations, as well as in specialized IMO formulations designed to enhance soil fertility and plant nutrition.
 
 The organism is particularly valued in natural farming for its ability to produce growth-promoting substances including phytohormones (auxins, cytokinins, gibberellins), vitamins (B₁₂, biotin), amino acids, and nucleic acids. These metabolites stimulate root development, enhance nutrient uptake, and promote overall plant vigor when applied as foliar sprays or soil drenches. Additionally, *R. palustris* produces extracellular polymeric substances (EPS) that improve soil structure and water retention.
 
 ## Environmental and Biotechnological Applications
 
-Beyond agriculture, *R. palustris* has significant potential in environmental biotechnology. Its ability to degrade aromatic compounds including benzoate, phenol, and various chlorinated aromatics makes it useful for bioremediation of contaminated soils and wastewater. The organism can also produce hydrogen gas (H₂) as a byproduct of photofermentation, making it a candidate for biohydrogen production as a renewable energy source.
+Beyond agriculture, *R. palustris* has significant potential in environmental biotechnology. Its ability to degrade aromatic compounds including benzoate, phenol, and various [[fungal-biodegradation-chlorinated-aromatics-and-btex]] makes it useful for bioremediation of contaminated soils and wastewater. The organism can also produce hydrogen gas (H₂) as a byproduct of photofermentation, making it a candidate for biohydrogen production as a renewable energy source.
 
-*R. palustris* is employed in wastewater treatment systems, particularly in the treatment of high-strength organic wastes from food processing, livestock operations, and municipal sources. The organism's ability to simultaneously remove organic carbon, fix nitrogen, and produce valuable biomass makes it well-suited for integrated waste treatment and resource recovery systems.
+*R. palustris* is employed in [[mollison-designers-wastewater-treatment-wetlands]] systems, particularly in the treatment of high-strength organic wastes from food processing, livestock operations, and municipal sources. The organism's ability to simultaneously remove organic carbon, fix nitrogen, and produce valuable biomass makes it well-suited for integrated waste treatment and resource recovery systems.
 
 ## Genomics and Biochemistry
 

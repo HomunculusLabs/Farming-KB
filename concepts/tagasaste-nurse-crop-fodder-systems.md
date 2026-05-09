@@ -1,20 +1,19 @@
 ---
-title: "Tagasaste as Nurse Crop and Fodder System"
+title: "Tagasaste as tagasaste nurse crop fodder systems and Fodder System"
 created: 2026-04-28
-tags: [[permaculture-plants, nurse-crops, fodder-trees, nitrogen-fixing]
+tags: [permaculture-plants, nurse-crops, fodder-trees, nitrogen-fixing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/a-selection-permaculture-plants.md]
 type: concept
 ---
-
 [[acacia]], Albizia, and Cassia.
 
 It is generally short-lived, but regular cutting or browsing can
 considerably extend its life expectancy. Today it is a naturalised
 coloniser of Australian wastelands, surviving on a wide range of
 soils. It is fast-growing, highly productive, with high nutrition
-levels, low toxicity, and high palatability.
+levels, [[fukuoka-low-toxicity-pesticide-deception]], and high palatability.
 
 ## Fodder Quality and Comparison
 
@@ -73,7 +72,7 @@ diet.
 ## Nurse Crop Properties
 
 Tagasaste serves as an excellent nurse crop for other trees. In New
-Zealand trials with various fruit and nut trees, those growing in
+Zealand trials with various fruit and [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]], those growing in
 close association with tagasaste (as close as 1 metre) consistently
 outperformed controls without it.
 
@@ -104,9 +103,10 @@ with rapid establishment from seed, makes tagasaste an ideal
 pioneer species for restoring degraded land. As a system matures
 and canopy closes, tagasaste can be progressively removed or
 reduced, having fulfilled its role as soil builder, windbreak, and
-nurse to the permanent tree crop.
+nurse to the permanent [[mollison-tree-crop-systems-permaculture]].
 
 ## See Also
 
 - [[fungal-endophytes-grass-crop-systems]]
-- [[mollison-pioneer-crop-systems-and-tropical-land-rehabilitation]]
+- mollison-pioneer-crop-systems-and-tropical-land-rehabilitation
+- [[permaculture-tree-crop-systems]]

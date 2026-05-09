@@ -12,7 +12,7 @@ tags: [cannabis]
 
 Genetic stability in cannabis refers to the degree to which a
 population reliably reproduces its defining traits across successive
-generations of sexual reproduction. It is a central concern for
+generations of [[fungal-life-cycles-sexual-reproduction-metamorphosis]]. It is a central concern for
 breeders, seed companies, and growers who depend on predictable plant
 performance. Cervantes' breeding chapter provides extensive analysis of
 the factors that determine genetic stability and the breeding methods
@@ -38,7 +38,7 @@ seed results in plants similar in most ways to the previous generation.
 ## The Instability Problem
 
 Cervantes notes that the vast majority of commercially available
-cannabis seeds are genetically unstable. Most seed companies focus on
+[[query-how-to-store-cannabis-seeds-for-long-term-viability]] are genetically unstable. Most seed companies focus on
 creating seed for sale rather than developing improved or even uniform
 plant stock. Very few breeders take the time to stabilize or fix traits
 within a population prior to release. Commercially sold seeds are often
@@ -79,9 +79,9 @@ depression.
 ### The Genetic Bottleneck
 
 Selections and breeding advancements come at a cost to genetic
-variability. Breeders reduce variability by narrowing the gene pool as
+variability. Breeders reduce variability by narrowing the [[cannabis-gene-pool-preservation-acclimatization-clarke]] as
 a consequence of fixing traits. The preferred breeding scheme of most
-commercial seed banks -- crossing just two selected plants -- is the
+commercial [[cannabis-seed-banks-and-genetics]] -- crossing just two selected plants -- is the
 most extreme form of inbreeding. This drastically reduces genetic
 variability from the original population, and this variability is lost
 and unavailable to future generations.
@@ -124,7 +124,7 @@ preserving the genetic stability of selected traits.
 To confirm genetic stability, breeders grow out multiple generations
 from seed and verify that the defining characteristics are consistently
 reproduced. True-breeding populations should show minimal variation for
-selected traits regardless of the growing environment.
+selected traits regardless of the [[cannabis-growing-environment-setup]].
 
 ## Ethical Considerations
 

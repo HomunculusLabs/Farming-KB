@@ -16,7 +16,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 
 ## Overview
 Trichoderma virens is a polyphagous mycoparasitic ascomycete and
-one of the most effective biological control agents against soil-
+one of the most effective [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents against soil-
 borne plant pathogens. Formerly known as Gliocladium virens, the
 species was reclassified following modern phylogenetic analysis.
 T. virens has been widely tested against Pythium ultimum damping-
@@ -59,7 +59,7 @@ and T. viride.
 ## Key Details
 
 ### Gliotoxin Production
-Gliotoxin is the hallmark secondary metabolite of T. virens and a
+Gliotoxin is the hallmark [[fungal-elicitors-enhanced-secondary-metabolite-production]] of T. virens and a
 member of the epipolythiodioxopiperazine (ETP) class. The
 compound contains a disulfide bridge that is essential for its
 biological activity. Gliotoxin inhibits a broad range of
@@ -77,7 +77,7 @@ other fungi are excluded by gliotoxin accumulation.
 T. virens employs multiple complementary mechanisms for
 biocontrol: mycoparasitism (direct hyphal attack on pathogen
 hyphae), antibiosis (gliotoxin production), competition for
-nutrients and space, and induced systemic resistance in host
+nutrients and space, and [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance in host
 plants. The combination of these mechanisms provides robust
 protection against diverse soil-borne pathogens.
 
@@ -109,9 +109,9 @@ T. virens is one of the most thoroughly characterized
 mycoparasitic biocontrol agents, with well-documented efficacy
 against multiple soil-borne plant pathogens. Its production of
 gliotoxin as a primary antibiotic mechanism provides a model for
-understanding chemical warfare in fungal communities. The species
+understanding [[solomon-root-exudates-and-allelopathy]] in [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]. The species
 exemplifies how combining multiple biocontrol mechanisms can
-provide robust, broad-spectrum disease suppression.
+provide robust, broad-spectrum [[aact-disease-suppression-mechanisms-ingham]].
 
 ## See Also
 Related: [[ingham-trichoderma-biocontrol-fungi-aact]], [[trichoderma-harzianum]]

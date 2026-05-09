@@ -10,15 +10,16 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
 # Fukuoka's Three Ways of Farming: Mahayana, Hinayana, and Scientific
 
-[[natural-farming]] (pure natural farming)
-- **Relative World:** Hinayana natural farming (organic, idealistic farming)
-  and scientific farming (scientific agriculture)
+[[natural-farming]] (pure [[comparison-natural-farming-vs-permaculture]])
+- **Relative World:** [[fukuoka-mahayana-and-hinayana-natural-farming]] farming (organic, idealistic farming)
+  and [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] ([[fukuoka-critique-scientific-agriculture-civilization]])
 
 Mahayana and scientific farming exist on entirely different planes. Hinayana
 and scientific farming occupy the same dimension and can be directly compared.
@@ -91,7 +92,7 @@ courts multiple suitors heedless of social proprieties.
 Scientific methods have the upper hand only when growing produce in unnatural
 environments: accelerated growth, cramped plots, hothouses, and hotbeds.
 Through adroit management, yields increase and out-of-season produce satisfies
-consumer cravings using high technology, chemical fertilizers, and pest
+consumer cravings using high technology, [[cervantes-chemical-fertilizers-guide]], and pest
 control agents. Yet this is only because natural farming cannot be practiced
 under such conditions. Even under ideal conditions, scientific farming does
 not produce more at lower cost than natural farming.
@@ -133,4 +134,4 @@ Fukuoka summarizes the yield relationships:
 - [[fukuoka-theory-discriminating-vs-nondiscriminating-knowledge]] for the
   epistemological framework underlying these distinctions
 - [[fukuoka-orchard-cover-crop-black-wattle-system]] for practical
-  application of natural farming principles
+  application of natural [[natural-farming-principles-fukuoka]]

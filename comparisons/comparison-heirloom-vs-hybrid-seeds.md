@@ -1,9 +1,10 @@
 ---
-title: "Heirloom vs Hybrid Seeds"
+title: "comparison heirloom vs hybrid seeds Seeds"
 tags: [comparison, seeds, plant-breeding, seed-saving, genetics]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
@@ -36,7 +37,7 @@ shapes, and sizes, adding visual interest to both the garden and the
 plate.
 
 However, heirlooms have significant drawbacks. They generally lack the
-disease resistance that breeders have built into hybrid varieties.
+disease resistance that breeders have built into [[cervantes-hybrid-varieties-types]].
 This makes them more susceptible to common pathogens like Fusarium wilt,
 late blight, and tobacco mosaic virus. Their yields are typically lower
 and less consistent than hybrids, and their growing seasons may be
@@ -44,7 +45,7 @@ longer, which is a consideration for gardeners in short-season climates.
 [[cervantes-hybrid-varieties-types]]
 
 Hybrid seeds are produced by crossing two distinct inbred parent lines
-to create offspring with hybrid vigor, known as heterosis. This first
+to create offspring with [[cannabis-hybrid-vigor-and-phenotypes-clarke]], known as heterosis. This first
 generation (F1) hybrid combines desirable traits from both parents,
 often resulting in plants that are more vigorous, productive, and
 disease-resistant than either parent alone. The development of hybrid
@@ -56,14 +57,14 @@ higher, more uniform yields, which is critical for market growers who
 need predictable harvests. Breeders can stack multiple disease
 resistance genes into a single hybrid variety, providing protection
 against a range of pathogens that would devastate heirloom crops.
-Hybrids also tend to have better shelf life and shipping tolerance,
+Hybrids also tend to have better [[psilocybin-shelf-life-stability]] and shipping tolerance,
 making them the standard choice for commercial produce distribution.
 
 The main limitation of hybrids is that they do not breed true. Seeds
 saved from an F1 hybrid will produce a segregating F2 generation with
 unpredictable traits, meaning gardeners must purchase fresh hybrid seed
 each year. This creates dependency on seed companies and eliminates the
-possibility of on-farm seed saving. Additionally, some gardeners find
+possibility of on-farm [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]]. Additionally, some gardeners find
 that hybrid varieties, while productive, lack the depth of flavor found
 in the best heirloom selections.
 

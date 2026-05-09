@@ -3,14 +3,14 @@ title: Siberian Fly-Agaric Orientalism
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "Letcher - Shroom: A Cultural History of the Magic Mushroom"
+  - "Letcher - Shroom: A shroom-cultural-history-hippie-revolution-and-counterculture of the australian-magic-mushroom-common-names"
 type: concept
 tags: [agar]
 ---
 
 # Siberian Fly-Agaric Orientalism
 
-The Western understanding of [[magic-mushroom-cultural-history]] that the Western image of Siberia as a land of mushroom-eating
+The Western understanding of magic-mushroom-cultural-history that the Western image of Siberia as a land of mushroom-eating
 shamans tells us far more about European fantasies than about indigenous
 realities.
 
@@ -27,7 +27,7 @@ composition.
 The region we call Siberia is vast — as large as Europe and the USA combined,
 covering seven time zones and several distinct geographical regions: tundra in
 the north, great boreal forest or taiga in the centre, and steppe in the south.
-The indigenous cultures and nations that forged lives from these harsh
+The [[guzman-allen-gartz-sacred-puffballs-gasteromycetes-indigenous-cultures]] and nations that forged lives from these harsh
 conditions were no less diverse — hunter-gatherers, agriculturists,
 pastoralists, reindeer herders and whalers, each keenly adapted to their
 environment.
@@ -95,7 +95,7 @@ This orientalist tradition continues into the present. Contemporary writers such
 as Angela Carter (Nights at the Circus) and Alan Garner (Thursbitch) have drawn
 upon the fly-agaric shaman mythos, presenting characters with shaman-like
 qualities. While their fiction is sophisticated and self-aware, it nevertheless
-draws upon and perpetuates a Western fantasy about [[gottlieb-peyote-extraction-and-preparation-methods]], the social context of consumption, and the economic
+draws upon and perpetuates a Western fantasy about [[gottlieb-peyote-extraction-and-preparation-methods]], the [[emcdda-hallucinogenic-mushroom-polydrug-use-social-context]] of consumption, and the economic
 role [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]. Yet even Jochelson was not free from bias. He shared the
 evolutionist assumptions common to early twentieth-century anthropology, viewing
 indigenous Siberian cultures as survivals of an earlier stage of human

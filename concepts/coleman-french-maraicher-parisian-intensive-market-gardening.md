@@ -2,9 +2,9 @@
 
 ## Overview
 
-The French maraîcher system of intensive vegetable production was one of the
+The French maraîcher system of intensive [[dry-gardening-unirrigated-vegetable-production-solomon]] was one of the
 most remarkable horticultural achievements in history. Practiced in and around
-Paris from the early nineteenth century through the early twentieth century,
+Paris from the early [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] through the early [[coleman-louis-savier-twentieth-century-maraicher]],
 this system produced fresh vegetables year-round on tiny plots of land using
 horse manure for heat, glass cloches and cold frames for protection, and
 intensive [[decomposition]], heat for
@@ -59,15 +59,15 @@ unbelievable amount of hand labor.
 Additional insulation was provided by one-inch-thick mats made of rye
 straw, which could be rolled out over the glass covers on cold nights.
 The combination of manure heat, glass protection, and straw insulation
-created a growing environment that was effectively several climate zones
+created a [[cannabis-growing-environment-setup]] that was effectively several climate zones
 warmer than the surrounding landscape. The maraîchers also used south-
 facing walls, typically six feet high, which surrounded each garden and
 provided both wind protection and a warm microclimate through solar
 radiation absorption.
 
-## Intensive Succession Planting
+## Intensive [[succession-planting]]
 
-The maraîchers practiced extremely intensive succession planting to
+The maraîchers practiced extremely intensive [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] to
 maximize production from their limited land. Multiple crops occupied the
 same cold frame bed in a single year. For example, an early crop of
 lettuce might be followed by carrots, which in turn were followed by
@@ -88,7 +88,7 @@ labor-intensive system required enormous skill and physical endurance.
 The maraîchers were organic growers in the best modern sense, having
 arrived at their practices through practical experience rather than
 ideological commitment. As early as 1870, Vincent Gressent wrote in Le
-potager moderne that chemical fertilizers "stimulate the plant and produce
+potager moderne that [[cervantes-chemical-fertilizers-guide]] "stimulate the plant and produce
 quantity, but to the detriment of quality," and that "insect pests only
 attack weak, sickly plant specimens lacking proper nutrition." He pointed
 to the Parisian market gardens as proof, noting that "one does not see
@@ -128,3 +128,23 @@ conditions.
 
 - [[coleman-soil-heat-mass-passive-thermal-storage]]
 - [[coleman-french-maraicher-transport-britain-kropotkin]]
+
+## Merged: French Intensive Winter Salad Tradition
+
+# French Intensive Winter Salad Tradition
+
+**Source:** [[eliot-coleman]] — *The Winter Harvest Handbook* (2009), Chapter 2: Historical Inspiration
+
+---
+
+## Overview
+
+The Parisian *maraîchers* (market gardeners) of 1850–1900 created the most impressive system of intensive year-round vegetable production in Western history. Their techniques — *la culture maraîchère* — fed the city of Paris year-round with the widest variety of both in-season and out-of-season produce, all grown within the city limits on small plots averaging one to two acres. Coleman calls this system "the most powerful influence on my development as a market grower" and considers its principles directly applicable to modern winter-harvest farming.
+
+## Historical Context
+
+### Origins at Versailles
+
+The earliest developments in season extension began in the royal *potager* (vegetable garden) at Versailles under the celebrated head gardener La Quintinie in the 1670s and 1680s. These primitive predecessors of the cold frame were refined over nearly two centuries before reaching their peak in nineteenth-century Paris.
+
+### The Golden Age: 1850–1900

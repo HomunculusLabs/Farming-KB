@@ -1,10 +1,11 @@
 ---
-title: Holzer Recommended Old Fruit Varieties
+title: Holzer holzer recommended old fruit varieties holzer-stone-fruit-varieties-and-growing
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
+  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
@@ -44,7 +45,7 @@ Ripening times given are averages for altitude ~1,000m. At higher altitudes, rip
 
 ## Pears and Stone Fruits
 
-Holzer also recommends several pear and stone fruit varieties for high-altitude cultivation. These are often overlooked by conventional growers but perform well with proper site selection:
+Holzer also recommends several pear and stone fruit varieties for high-altitude cultivation. These are often overlooked by conventional growers but perform well with proper [[fukuoka-creating-natural-farm-site-selection-establishment]]:
 
 - **Conference pear** -- reliable and frost-hardy, good for fresh eating and canning
 
@@ -56,13 +57,13 @@ Holzer also recommends several pear and stone fruit varieties for high-altitude 
 
 - **Montmorency sour cherry** -- productive at high altitudes, good for preserves and juice
 
-- **Hedelfinger sweet cherry** -- requires good drainage and wind protection but rewards with excellent fruit
+- **Hedelfinger sweet cherry** -- requires good drainage and [[cervantes-wind-protection-outdoor-cannabis]] but rewards with excellent fruit
 
-These stone fruits benefit from the same microclimate strategies used for apples, particularly wind protection from [[natural-farm-permaculture-ethics-principles]] of creative response and working with nature's patterns rather than accepting conventional boundaries. Holzer's success at altitude demonstrates that expert recommendations are often based on industrial monoculture assumptions that do not account for the microclimate management possible in diverse, carefully designed systems.
+These stone fruits benefit from the same microclimate strategies used for apples, particularly wind protection from natural-farm-permaculture-ethics-principles of creative response and working with nature's patterns rather than accepting conventional boundaries. Holzer's success at altitude demonstrates that expert recommendations are often based on industrial monoculture assumptions that do not account for the microclimate management possible in diverse, carefully designed systems.
 
 ## Site Preparation and Planting
 
-Successful high-altitude fruit growing depends on proper site preparation. Following [[holzer-fruit-tree-planting-method]], [[faires-orchard-design-and-intercropping]]
+Successful high-altitude [[holzer-fruit-growing-marginal-climates]] depends on proper site preparation. Following holzer-fruit-tree-planting-method, faires-orchard-design-and-intercropping
 
 ## Related
 
@@ -86,4 +87,5 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[holzer-old-varieties-and-seed-saving]]

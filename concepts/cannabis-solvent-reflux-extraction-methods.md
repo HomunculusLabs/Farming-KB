@@ -1,15 +1,15 @@
 ---
-title: Cannabis Solvent Reflux Extraction Methods
+title: Cannabis cannabis solvent reflux extraction methods Extraction Methods
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 # Cannabis Solvent Reflux Extraction Methods
 
-Solvent reflux extraction is the foundational technique described in "Cannabis Alchemy" by D. Gold for isolating cannabis essential oils from plant material. The soxhlet extraction apparatus enables continuous, automated solvent cycling through the cannabis, achieving high [[neem-oil-cannabis]] of CBD to THC in a unified process, with built-in solvent recovery to minimize fume exposure.
+Solvent reflux extraction is the foundational technique described in "[[lemon-cannabis-alchemy-advanced-refinement-techniques]]" by D. Gold for isolating cannabis [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] from plant material. The soxhlet extraction apparatus enables continuous, automated solvent cycling through the cannabis, achieving high [[neem-oil-cannabis]] of CBD to THC in a unified process, with built-in solvent recovery to minimize fume exposure.
 
 Source: raw/papers/[[cannabis-indoor-growing-basics]]
 
@@ -95,4 +95,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -1,11 +1,12 @@
 ---
-title: Mycelial Networks and Intelligence (Stamets)
+title: fungal-mycelial-networks-nutrient-translocation and Intelligence (Stamets)
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Mycelial Networks and Intelligence
 
@@ -21,7 +22,7 @@ Stamets describes mycelium as "a fusion between a stomach and a brain, a nutriti
 
 ## Cross-Species Interfacing
 
-Through cross-species interfacing, Stamets suggests we may one day communicate with these sentient cellular networks. Plants, bacteria, and fungi share molecular communication pathways. Mycorrhizal networks connect trees across forest floors, allowing nutrient and information exchange between individuals and species. [[mycorrhizal-networks-and-forest-communication]] explore these connections in detail. The [[fungal-chromogens-and-color-change]] for related chemical signaling phenomena.
+Through cross-species interfacing, Stamets suggests we may one day communicate with these sentient cellular networks. Plants, bacteria, and fungi share molecular communication pathways. [[dighton-mycorrhizal-networks-carbon-transfer]] connect trees across forest floors, allowing nutrient and information exchange between individuals and species. [[mycorrhizal-networks-and-forest-communication]] explore these connections in detail. The fungal-chromogens-and-color-change for related [[plant-hormones-and-chemical-signaling-systems]] phenomena.
 
 ## Computational Complexity
 
@@ -35,7 +36,7 @@ Subsequent research extended these findings: Physarum has been shown to recreate
 
 ## Gaia Hypothesis Connection
 
-Ecotheorist James Lovelock and Lynn Margulis proposed the Gaia hypothesis, which postulated that the planet's biosphere intelligently pilots its course to sustain and breed new life. Stamets sees mycelium as the living network that manifests the natural intelligence imagined by Gaia theorists -- the biological substrate through which ecological coordination occurs. Mycelium steers the course of ecosystems by favoring successions of species and prepares its immediate environment for its benefit by growing ecosystems that fuel its food chains.
+Ecotheorist James Lovelock and Lynn Margulis proposed the Gaia hypothesis, which postulated that the planet's biosphere intelligently pilots its course to sustain and breed new life. Stamets sees mycelium as the living network that manifests the [[powell-natural-intelligence-and-the-universal-computation]] imagined by Gaia theorists -- the biological substrate through which ecological coordination occurs. Mycelium steers the course of ecosystems by favoring successions of species and prepares its immediate environment for its benefit by growing ecosystems that fuel its food chains.
 
 ## Evolutionary Context
 
@@ -51,10 +52,10 @@ Mycelial networks share both nutrients and information. Through cross-species in
 
 This network intelligence underlies [[fungal-ecosystem-services]] and [[fungal-biology-fundamentals]] -- basic fungal biology
 - [[fungal-roles-in-old-growth-forests]] -- forest network examples
-- [[fungal-chromogens-and-color-change]] -- chemical signaling
+- fungal-chromogens-and-color-change -- chemical signaling
 - [[mycorrhizal-networks-and-forest-communication]] -- tree communication
-- [[fungal-functional-diversity]] -- functional diversity overview
-- [[fungal-chromogens-and-color-change]]
+- fungal-functional-diversity -- [[fungal-functional-diversity-decomposition]] overview
+- fungal-chromogens-and-color-change
 - [[fungal-ecology]]
 ## Practical Considerations
 
@@ -72,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

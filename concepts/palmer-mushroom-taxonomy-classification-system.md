@@ -1,5 +1,5 @@
 ---
-title: Palmer on Mushroom Taxonomy and Classification
+title: Palmer on [[palmer-mushroom-anatomy-and-structure]] [[fungal-kingdom-taxonomy-classification]] system and Classification
 created: 2026-04-28
 tags: [fungal-taxonomy, classification, mycology-history, nineteenth-century, palmer]
 date: 2026-04-28
@@ -107,5 +107,7 @@ and the German authority Fries. These sources provided the taxonomic
 framework within which he worked.
 ## See Also
 
+- [[palmer-popular-errors-mushroom-tests]]
+
 - [[palmer-specific-mushroom-species-guide]]
-- [[palmer-about-mushrooms-edible-species-identification]]
+- palmer-about-mushrooms-edible-species-identification

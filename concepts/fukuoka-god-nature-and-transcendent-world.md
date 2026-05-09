@@ -1,11 +1,12 @@
 ---
-title: Fukuoka God Nature and the Transcendent World
+title: Fukuoka fukuoka-god-nature-and-man-as-one and the Transcendent World
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka God Nature and the Transcendent World
@@ -20,7 +21,7 @@ In the closing chapters of "The Road Back to Nature," Masanobu Fukuoka explores 
 
 ## The Mountain Analogy
 
-Fukuoka uses the metaphor of climbing a mountain: "If a drop of rain falls onto the mountain, if this flows to the left, it becomes Western philosophy. If it flows to the right, it becomes Eastern philosophy." Christians see Christ on the summit; Buddhists see Gautama.
+Fukuoka uses the metaphor of climbing a mountain: "If a drop of [[fukuoka-rain-falls-from-ground-vegetation-rainfall-cycle]] onto the mountain, if this flows to the left, it becomes [[fukuoka-descartes-western-philosophy-nature]]. If it flows to the right, it becomes [[fukuoka-western-eastern-philosophy-agriculture]]." Christians see Christ on the summit; Buddhists see Gautama.
 
 "I believe that there is only one truth -- past, present, and future. And that truth, regardless of what anyone says, is fixed and unique."
 
@@ -56,7 +57,7 @@ The "God" people speak of "is not the true God at all, but diverse gods." From "
 
 "The raising of graves is evidence that people have not the slightest idea about attaining Buddhahood." Temples and shrines "are all nothing more than idols in the conceptual world."
 
-About the Silk Road Buddhist statues: "The sculptor of Buddhist statues eager for self-expression who first kills the true God, then creates his own abstract stone images of Buddha on the same spot is drastically upsetting things." "It is all right if the Silk Road ruins are destroyed. But nature must, under no circumstances, be destroyed."
+About the Silk Road Buddhist statues: "The sculptor of Buddhist statues eager for self-expression who first kills the true God, then creates his own abstract stone images of Buddha on the same spot is drastically upsetting things." "It is all right if the Silk Road ruins are destroyed. But [[fukuoka-nature-must-not-be-dissected]], under no circumstances, be destroyed."
 
 ## The Gingko Tree Test
 
@@ -70,7 +71,7 @@ About the Silk Road Buddhist statues: "The sculptor of Buddhist statues eager fo
 
 ## "My Way" of Natural Farming
 
-A young man leaving the farm announced: "I'm going to set up my own method of farming naturally." Fukuoka's response: "There is no X or Y school of natural farming. Although this young fellow came here to shed his ego and return to nature, his own words of self-expression were proof that he had not succeeded."
+A young man leaving the farm announced: "I'm going to set up my own method of farming naturally." Fukuoka's response: "There is no X or Y school of natural farming. Although this young fellow came here to shed his ego and [[emcdda-return-to-nature-megatrend-mushroom-appeal]], his own words of self-expression were proof that he had not succeeded."
 
 "I began calling this farming of mine 'natural farming' just for lack of a better name."
 
@@ -85,6 +86,8 @@ A young man leaving the farm announced: "I'm going to set up my own method of fa
 updated: 2026-04-18
 
 ## See Also
+
+- [[fukuoka-nature-god-transcendent-world]]
 
 - [[fukuoka-nature-god-limits-of-knowledge]]
 - [[fukuoka-do-nothing-farming-philosophy]]

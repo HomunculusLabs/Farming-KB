@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and Bone Fracture Healing"
+title: "Cannabis and blesching cannabis bone fracture healing Healing"
 created: 2026-04-26
 tags:
   - cannabis
@@ -25,7 +25,7 @@ fractures range from mild hairline fractures to complete fractures where
 surrounding tissue remains intact.
 
 In orthodox medicine, minor fractures are immobilized with anti-inflammatory and
-pain medication. Completely fractured bones are set manually or surgically and
+pain medication. Completely [[blesching-cannabis-fractured-bones-cbd-healing]] are set manually or surgically and
 placed in casts for 3-10 weeks. A University of Maryland study (2014) of over
 200 pediatric patients found that 93% of kids with fractures had iatrogenic
 complications from semi-permanent casts, including swelling, skin breakdown, and
@@ -112,4 +112,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -66,7 +66,7 @@ material is broken down and returned to the soil.
 
 At the non-brittle extreme, decay of old plant parts is 100 percent
 biological, fast, and bottom-up. Microorganisms, earthworms, insects, and
-other soil life rapidly break down dead material, returning nutrients to
+other soil life rapidly [[query-can-fungi-break-down-plastic-pollution]] dead material, returning nutrients to
 the soil surface where they feed new plant growth. This process is
 continuous and reliable because humidity levels remain adequate throughout
 the year.

@@ -1,5 +1,5 @@
 ---
-title: Pod and Seed Vegetables - Organic Methods
+title: Pod and hamilton pod seed vegetables organic - Organic Methods
 created: 2026-04-28
 tags:
   - peas
@@ -32,19 +32,19 @@ successional harvesting.
 
 A very rewarding vegetable, broad beans are high in protein and
 serve as a good source of green manure. They should be picked young
-and can be dried and stored for winter use. Sow in early spring or
+and can be dried and stored for winter use. Sow in [[coleman-overwintered-onions-and-early-spring-crops]] or
 autumn for overwintering in mild areas. Plant in double rows about
 9in (23cm) apart with 8in (20cm) between plants. Pinch out the tops
 when the first pods set to deter blackfly. See
 [[hamilton-organic-pest-control]] for management
-strategies. Crop rotation within the
+strategies. [[comparison-crop-rotation-vs-cover-cropping]] within the
 [[hamilton-crop-rotation-and-vegetable-planning]] system helps
 prevent soil-borne diseases from building up.
 
 ## Summary
 
 Pod and seed vegetables offer exceptional value in the organic
-garden. Legumes enrich the soil through nitrogen fixation, while
+garden. Legumes enrich the soil through [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], while
 sweet corn provides a uniquely sweet harvest eaten fresh. Success
 with peas depends on successional sowing and support; beans need
 rich, moisture-retentive soil and regular picking; sweet corn
@@ -53,7 +53,7 @@ organic approach, which maximizes soil fertility and minimizes
 pest problems through good cultural practices and rotation.
 
 Provide sturdy supports for climbing beans at least 1.8 metres tall to
-allow full development of the crop canopy during the growing season.
+allow full development of the crop canopy during the [[savory-growing-season-and-non-growing-season-management]].
 ## Practical Considerations
 
 When working with Pod and Seed Vegetables - Organic Methods, several practical factors should be
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

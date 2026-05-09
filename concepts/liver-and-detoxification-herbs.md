@@ -14,15 +14,15 @@ The liver is the body's primary organ of detoxification, responsible for metabol
 
 ## Hepatoprotective Herbs
 
-Hepatoprotective herbs shield liver cells from damage caused by toxins, drugs, alcohol, and oxidative stress. They work through antioxidant activity, stabilization of liver cell membranes, promotion of liver cell regeneration, and enhancement of the liver's detoxification enzyme systems.
+Hepatoprotective herbs shield liver cells from damage caused by toxins, drugs, alcohol, and [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]. They work through antioxidant activity, stabilization of liver cell membranes, promotion of liver cell regeneration, and enhancement of the liver's detoxification enzyme systems.
 
-Milk thistle (Silybum marianum) is the most extensively researched hepatoprotective herb. Its active compound complex, silymarin, consists of flavonolignans including silybin (the most active component), silydianin, and silychristin. Silymarin has demonstrated hepatoprotective effects in numerous clinical trials and is used in European medicine for liver conditions including alcoholic liver disease, drug-induced liver injury, and hepatitis.
+Milk thistle (Silybum marianum) is the most extensively researched hepatoprotective herb. Its active compound complex, silymarin, consists of flavonolignans including silybin (the most active component), silydianin, and silychristin. Silymarin has demonstrated hepatoprotective effects in numerous [[mushroom-cancer-clinical-trials-overview]] and is used in European medicine for liver conditions including alcoholic liver disease, drug-induced liver injury, and hepatitis.
 
 Silymarin works through multiple mechanisms. It acts as a free radical scavenger and antioxidant, stabilizes liver cell membranes to prevent toxin entry, stimulates protein synthesis to promote liver cell regeneration, and inhibits the inflammatory cascade that contributes to liver damage. Milk thistle seed extract is typically standardized to 70 to 80 percent silymarin content.
 
 Milk thistle is best taken as a standardized extract (140 milligrams of silymarin three times daily for liver conditions). The seeds can also be ground and added to food or prepared as a decoction, though the bioavailability is lower than standardized extracts. Combining milk thistle with lecithin or phosphatidylcholine (as in the silybin-phosphatidylcholine complex silipide) significantly improves absorption.
 
-Turmeric (Curcuma longa) and its active compound curcumin have significant hepatoprotective effects. Curcumin increases the production of glutathione, the liver's primary antioxidant, and stimulates the phase II detoxification enzymes that neutralize toxins. The Cannabis Health Index documents turmeric's traditional use for liver conditions, including the Cuban practice of using rosemary infusion for liver complaints.
+Turmeric (Curcuma longa) and its active compound curcumin have significant hepatoprotective effects. Curcumin increases the production of glutathione, the liver's primary antioxidant, and stimulates the phase II detoxification enzymes that neutralize toxins. The [[blesching-cannabis-health-index-autoimmune-conditions]] documents turmeric's traditional use for liver conditions, including the Cuban practice of using rosemary infusion for liver complaints.
 
 Schisandra (Schisandra chinensis) is an adaptogenic herb with well-documented hepatoprotective properties. Its lignans (schisandrin, schisandrol) protect liver cells from toxin-induced damage and enhance the liver's detoxification capacity. Schisandra is classified as a liver tonic in Traditional Chinese Medicine, where it is used to "contain the Qi" and strengthen liver function.
 
@@ -46,7 +46,7 @@ Liver support formulas typically combine a hepatoprotective herb (milk thistle),
 
 Most liver-supportive herbs are safe for general use, but some cautions apply. Individuals with bile duct obstruction or active gallbladder disease should not use cholagogue herbs without medical supervision, as stimulating bile flow against an obstruction can be dangerous. Pregnant women should avoid strong cholagogues and laxative herbs.
 
-Herbs that affect liver function can alter the metabolism of pharmaceutical drugs that are processed by the liver's cytochrome P450 enzyme system. Milk thistle may actually protect the liver from drug-induced damage but can also affect drug metabolism. Always consult the [[herbal-medicine-safety]] for general safety principles and [[digestive-herbs-and-bitters]] — Bitters and their effect on liver and bile
+Herbs that affect liver function can alter the metabolism of pharmaceutical drugs that are processed by the liver's cytochrome P450 enzyme system. Milk thistle may actually protect the liver from drug-induced damage but can also affect drug metabolism. Always consult the [[herbal-medicine-safety]] for general [[shulgin-safety-principles-self-experimentation]] and [[digestive-herbs-and-bitters]] — Bitters and their effect on liver and bile
 - [[herb-drug-interactions]] — Liver enzyme interactions with medications
 - [[herbal-formulation-principles]] — Designing liver support formulas
 - [[herbal-formulation-principles]] — Dosing for hepatoprotective herbs
@@ -63,7 +63,7 @@ Diuretic herbs increase urine production and flow, promoting the elimination of 
 
 Dandelion leaf (Taraxacum officinale) is the most important herbal diuretic and is unique among diuretics in that it is rich in potassium. Most pharmaceutical diuretics deplete potassium, requiring supplementation. Dandelion leaf provides diuretic activity while supplying the potassium that is lost through increased urination. This makes it a safe, balanced diuretic for long-term use.
 
-Dandelion leaf is prepared as an infusion (tea) or tincture. It is used for fluid retention (edema), premenstrual bloating, high blood pressure (through volume reduction), and urinary tract support. The young leaves can also be eaten as food, providing a gentle, food-level diuretic effect. The permaculture plant references note dandelion's long growing season and perennial nature, making it a reliable, sustainable source of medicine.
+Dandelion leaf is prepared as an infusion (tea) or tincture. It is used for fluid retention (edema), premenstrual bloating, high blood pressure (through volume reduction), and urinary tract support. The young leaves can also be eaten as food, providing a gentle, food-level diuretic effect. The permaculture plant references note dandelion's long [[savory-growing-season-and-non-growing-season-management]] and perennial nature, making it a reliable, sustainable source of medicine.
 
 Nettle (Urtica dioica) is both a diuretic and a nutrient-dense herb that supports kidney function. Nettle leaf infusion provides diuretic effects along with anti-inflammatory compounds that benefit the urinary tract. Nettle is particularly useful for chronic urinary tract inflammation and benign prostatic hyperplasia (BPH) in men. Clinical trials have demonstrated nettle root's effectiveness for reducing BPH symptoms.
 
@@ -87,7 +87,7 @@ Goldenseal (Hydrastis canadensis) and Oregon grape (Mahonia aquifolium) contain 
 
 Kidney stones (renal calculi) are hard deposits of minerals and salts that form in the kidneys. Several herbs help prevent stone formation by modifying urine chemistry, increasing urine flow, or relaxing ureteral spasm.
 
-Chanca piedra (Phyllanthus niruri), also called "stone breaker," is the primary herb for kidney stones. Research has demonstrated its ability to inhibit calcium oxalate crystal formation (the most common type of kidney stone), relax ureteral smooth muscle to facilitate stone passage, and reduce stone size. Chanca piedra is prepared as a tea or tincture and taken daily for stone prevention.
+Chanca piedra (Phyllanthus niruri), also called "stone breaker," is the primary herb for kidney stones. Research has demonstrated its ability to inhibit [[fungal-calcium-oxalate-crystals]] crystal formation (the most common type of kidney stone), relax ureteral smooth muscle to facilitate stone passage, and reduce stone size. Chanca piedra is prepared as a tea or tincture and taken daily for stone prevention.
 
 Gravel root (Eupatorium purpureum) is a traditional kidney and urinary tract tonic whose name reflects its traditional use for gravel (small kidney stones). It contains euparin, a compound with antilithic (stone-preventing) properties. Gravel root is prepared as a decoction or tincture for long-term kidney support.
 

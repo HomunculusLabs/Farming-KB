@@ -1,5 +1,5 @@
 ---
-title: Solomon Garden Hoe and Cultivation Techniques
+title: Solomon solomon garden hoe and cultivation techniques and Cultivation Techniques
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -12,7 +12,7 @@ tags: [cultivation, gardening]
 # Solomon Garden Hoe and Cultivation Techniques
 
 In "Gardening When It Counts," [[garden-hand-tools-solomon]] for
-low-input vegetable gardening. Of all hoes in his collection, only one
+low-input [[home-vegetable-garden-planning]]. Of all hoes in his collection, only one
 gets regular use -- the swanneck hoe, properly fitted and kept sharp.
 
 ## The Swanneck Hoe
@@ -78,7 +78,7 @@ The most reliable indicator is how the swanneck attaches:
 
 ## Weeding Frequency
 
-If weeded once weekly during the growing season, there will never be
+If weeded once weekly during the [[savory-growing-season-and-non-growing-season-management]], there will never be
 large, resistant weeds. All are killed rapidly when small and tender.
 Solomon reports weeding 2,000 square feet (200 sq m) of beds and paths
 in about one concentrated hour, once weekly.

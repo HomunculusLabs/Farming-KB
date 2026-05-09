@@ -11,7 +11,7 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Small, E. (1997). "Culinary Herbs." NRC Research Press, Ottawa.
+  - Small, E. (1997). "holzer-medicinal-and-culinary-herbs-compendium." NRC Research Press, Ottawa.
   - Sahib, N.G. et al. (2013). "Coriander (Coriandrum sativum L.):
     A Potential Source of High-Value Components." International Journal
     of Molecular Sciences 14(6): 12831–12848.
@@ -96,7 +96,7 @@ Coriander exhibits documented biological activities across several categories.
 **Antimicrobial activity:** Essential oil and aqueous extracts show significant
 activity against Gram-positive bacteria (Staphylococcus aureus, Bacillus
 subtilis), Gram-negative bacteria (Escherichia coli, Salmonella typhi),
-and fungi (Candida albicans, Aspergillus niger) via membrane disruption.
+and fungi ([[bloomfield-candida-albicans-yeast-hyphal-dimorphism]], Aspergillus niger) via membrane disruption.
 
 **Antioxidant activity:** Methanolic extracts show strong DPPH radical
 scavenging and lipid peroxidation inhibition. Polyphenolic compounds
@@ -110,7 +110,7 @@ activity in rodent models, possibly via GABA-A receptor modulation.
 Seeds have been used traditionally as a mild sedative in Ayurvedic and
 Persian medicine.
 
-**Heavy metal chelation:** Coriander facilitates excretion of lead, mercury,
+**[[dighton-fungal-biosorption-heavy-metal-remediation]] chelation:** Coriander facilitates excretion of lead, mercury,
 and aluminum in animal studies, though human clinical data remains limited.
 
 ## Culinary and Nutritional Use
@@ -128,11 +128,11 @@ providing 310 µg per 100 g (388% daily value).
 ## Companion Planting and Permaculture
 
 Coriander is valued in companion planting for its ability to attract
-beneficial insects including parasitic wasps, hoverflies, and lady beetles.
+[[comparison-beneficial-insects-guide-vs-integrated-pest-management]] including parasitic wasps, hoverflies, and lady beetles.
 These insects prey on aphids, whiteflies, and other common garden pests.
 
-The plant's strong aroma is reported to deter spider mites, potato beetles,
-and aphids when interplanted with susceptible crops. In permaculture design,
+The plant's strong aroma is reported to deter [[cervantes-spider-mites-identification-control]], potato beetles,
+and aphids when interplanted with susceptible crops. In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]],
 cilantro functions as a fast-cycling, self-seeding herb in the herb spiral
 or vegetable guild layer.
 

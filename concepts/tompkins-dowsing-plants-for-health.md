@@ -66,7 +66,7 @@ curative purposes.
 
 ## Scientific Investigations
 
-In the United States, Dr. Zaboj V. Harvalik, a professional physicist
+In the [[dmt-containing-plants-united-states-halpern]], Dr. Zaboj V. Harvalik, a professional physicist
 recently retired from his post as scientific adviser to the U.S. Army's
 Advanced Material Concepts Agency, turned his attention to the dowsing
 phenomenon. As chief of the research committee of the American Society
@@ -130,12 +130,12 @@ imperfectly defined though exceedingly useful communications system.
 
 The practice of dowsing plants for health thus sits at the intersection
 of ancient wisdom, modern physics, and the frontier of plant
-intelligence research, suggesting that living organisms emit measurable
+intelligence research, suggesting that [[savory-living-organisms-as-tools]] emit measurable
 radiations that correlate with their vitality and life force.
 
 ## See Also
 
-- [[tompkins-kirlian-photography-plant-auras]] - Kirlian photography
+- [[tompkins-kirlian-photography-plant-auras]] - [[tompkins-kirlian-photography-plant-auras]]
   as another method of visualizing plant energy fields
 - [[plant-intelligence-and-communication]] - Broader context of plant
   sensitivity research

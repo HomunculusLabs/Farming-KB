@@ -16,12 +16,12 @@ sources:
   - Hegwood, D.A. (1990). "The wild grapes of Texas." Proceedings of the Texas Grape Growers Association, 19, 20-33.
   - Millardet, P.M.A. (1889). "Le mildiou et le black-rot des vignes." Annales de l'École Nationale d'Agriculture de Montpellier, 11, 181-220.
   - Wan, Y. et al. (2007). "The genome of Vitis rotundifolia and its implications for grape breeding." Acta Horticulturae, 754, 187-192.
-  - Moore, M.O. (1991). "Classification and systematics of eastern North American Vitis (north of Mexico)." Economic Botany, 45(4), 445-457.
+  - Moore, M.O. (1991). "Classification and systematics of [[polypore-fungi-eastern-north-america]] American Vitis (north of Mexico)." Economic Botany, 45(4), 445-457.
 ---
 
 ## Overview
 
-**Vitis rupestris** is a species of wild grape native to the central and southern United States, commonly known as the rock grape, sand grape, or mountain grape.
+**Vitis rupestris** is a species of wild grape native to the central and southern [[dmt-containing-plants-united-states-halpern]], commonly known as the rock grape, sand grape, or mountain grape.
 
 It is one of the most commercially significant North American Vitis species due to its exceptional resistance to phylloxera (*Daktulosphaira vitifoliae*), which devastated European vineyards in the late 19th century.
 
@@ -79,7 +79,7 @@ The famous "Rupestris St. George" rootstock, bred in the late 19th century, was 
 
 Modern rootstock breeding has largely moved away from pure *V. rupestris* rootstocks in favor of hybrids that combine the phylloxera resistance of *V. rupestris* with the lime tolerance of *V. berlandieri* and the vigor of *V. riparia*.
 
-*V. rupestris* contributes nematode resistance, drought tolerance, and disease resistance to many hybrid rootstock cultivars still planted worldwide.
+*V. rupestris* contributes nematode resistance, [[dighton-fungal-drought-tolerance-plant-water-relations]], and disease resistance to many hybrid rootstock cultivars still planted worldwide.
 
 The species also contributed genetics to numerous French-American hybrid grape cultivars developed by T.V. Munson and other early 20th-century breeders, including cultivars in the "Rupestris" and "Ammineu" series.
 
@@ -91,13 +91,13 @@ Munson's extensive work with Texas native grapes, including *V. rupestris*, was 
 
 As a rootstock, it confers high phylloxera resistance and good drought tolerance but has poor tolerance to wet, poorly drained soils and high lime content.
 
-The species roots readily from hardwood cuttings, though rooting success is lower than *V. riparia*. Treatment with rooting hormones improves strike rates.
+The species roots readily from hardwood cuttings, though rooting success is lower than *V. riparia*. Treatment with [[cervantes-rooting-hormones-cloning]] improves strike rates.
 
 Growth habit in cultivation is often low and sprawling rather than climbing, making it less suitable for traditional trellised vineyard training systems.
 
 Flowering occurs in May–June, with fruit ripening in August–September. The species has relatively low vigor compared to other Vitis species.
 
-It is hardy to approximately USDA Zone 6 (−23 °C), though cold hardiness varies among provenances.
+It is hardy to approximately USDA Zone 6 (−23 °C), though [[coleman-cold-hardiness-testing-ratings]] varies among provenances.
 
 ## Ecology and Wildlife Value
 

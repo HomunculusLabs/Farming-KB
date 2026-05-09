@@ -1,5 +1,5 @@
 ---
-title: "How to Identify and Avoid the Death Cap (Amanita phalloides)"
+title: "How to Identify and Avoid the query how to identify and avoid the death cap amanita phalloides (Amanita phalloides)"
 created: 2026-04-28
 tags: [query, mushrooms, foraging, toxicology, safety]
 date: 2026-04-25
@@ -12,7 +12,7 @@ type: query
 
 ## Short Answer
 The death cap (Amanita phalloides) is responsible for the majority of fatal mushroom poisonings worldwide, containing amatoxins that destroy the liver and kidneys even when consumed in small amounts.
-It is frequently mistaken for edible paddy straw mushrooms and various edible Amanita species, making accurate identification critical for foragers.
+It is frequently mistaken for edible [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]] mushrooms and various edible Amanita species, making accurate identification critical for foragers.
 Correct identification requires attention to the white gills, a volva (cup) at the base of the stem, a skirt-like ring on the stem, and green to yellowish cap coloration.
 
 ## Detailed Explanation
@@ -23,12 +23,12 @@ Amatoxins, primarily alpha-amanitin, are the deadly compounds that inhibit RNA p
 The liver and kidneys are most affected because they process and concentrate the toxins after ingestion.
 Symptoms typically do not appear until six to twelve hours after ingestion, beginning with gastrointestinal distress that may temporarily improve before progressing to severe organ failure.
 The [[amanita-genus-morphology]] reference provides comparative descriptions of multiple Amanita species.
-The [[mushroom-poisoning-and-lookalikes]] guide provides detailed comparisons of these dangerous lookalike pairs with diagnostic features for accurate identification.
+The mushroom-poisoning-and-lookalikes guide provides detailed comparisons of these dangerous lookalike pairs with diagnostic features for accurate identification.
 
-The destroying angel species, including Amanita virosa and [[amanita-phalloides-death-cap]] resource covers both the death cap and its white relatives, emphasizing that color alone is not a reliable distinguishing feature for identification purposes.
+The [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]] species, including Amanita virosa and [[amanita-phalloides-death-cap]] resource covers both the death cap and its white relatives, emphasizing that color alone is not a reliable distinguishing feature for identification purposes.
 
-Several persistent myths about mushroom identification contribute to deaths from death cap poisoning each year.
-The idea that poisonous mushrooms can be made safe by cooking, drying, or peeling is dangerously false; amatoxins are heat-stable and water-soluble.
+Several persistent myths about [[psilocybin-mushroom-identification-guide]] contribute to deaths from death cap poisoning each year.
+The idea that [[palmer-poisonous-mushrooms-deadly-species]] can be made safe by cooking, drying, or peeling is dangerously false; amatoxins are heat-stable and water-soluble.
 The myth that insects or animals will avoid poisonous mushrooms is also unreliable; slugs and some insects readily consume death caps without any ill effect.
 The belief that silver spoons or garlic will turn black in the presence of toxins has no scientific basis whatsoever and should be completely disregarded.
 The [[amanita-bisporigera]]
@@ -113,3 +113,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[query-how-to-identify-amanita-muscaria]]

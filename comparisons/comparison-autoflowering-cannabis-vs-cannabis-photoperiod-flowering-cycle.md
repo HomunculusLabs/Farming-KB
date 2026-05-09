@@ -1,10 +1,11 @@
 ---
-title: "Autoflowering Cannabis vs Photoperiod Flowering"
+title: "comparison autoflowering cannabis vs cannabis photoperiod flowering cycle vs cannabis-photoperiod-flowering-cycle"
 created: 2026-04-28
 tags: [comparison, cannabis, flowering, genetics, cultivation]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -14,7 +15,7 @@ type: comparison
 The two primary flowering strategies in cannabis are autoflowering (age-
 triggered) and photoperiod-dependent (light-triggered). Autoflowering varieties
 begin flowering after a set number of weeks from germination regardless of light
-schedule, a trait inherited from Cannabis ruderalis. Photoperiod strains require
+schedule, a trait inherited from [[cervantes-cannabis-ruderalis-autoflowering]]. Photoperiod strains require
 a shift to 12 hours of darkness to trigger flowering. The choice between them
 fundamentally shapes the grow timeline, yield potential, training options, and
 overall cultivation approach, making it one of the first decisions every grower
@@ -28,14 +29,14 @@ hormonal shift from vegetative to flowering stage. When darkness exceeds a
 critical threshold (typically 12 hours), the plant produces florigen, initiating
 bud development. This mechanism mirrors the natural seasonal light cycle, where
 shortening days signal the approach of autumn and trigger reproductive flowering
-in the wild. Virtually all heritage, landrace, and original cannabis genetics
+in the wild. Virtually all heritage, landrace, and original [[vic-high-cannabis-genetics-mendelian-inheritance]]
 are photoperiod-dependent.
 
 The key advantage of photoperiod cultivation is flexibility. The vegetative
 phase can be extended indefinitely under 18/6 or 24/0 lighting, allowing growers
 to control plant size through training and vegetation duration. Longer veg
 periods produce larger plants with more bud sites, typically yielding 100-500+
-grams per plant. The full range of training techniques is available, including
+grams per plant. The full range of [[cannabis-training-techniques-comparison]] is available, including
 topping, FIM, LST, SCROG, super cropping, and main-lining, all of which can
 significantly boost yield and canopy efficiency.
 
@@ -85,12 +86,14 @@ cultivation. Feminized autoflowers combine all-female crops with the rapid life
 cycle, eliminating male identification. Running photoperiod strains on 12/12
 from seed produces small, fast-finishing plants that mimic autoflower size while
 retaining cloning viability. Breeders continue developing autoflowering lines
-with photoperiod-quality yields and complex terpene profiles, blurring the
+with photoperiod-quality yields and complex [[cannabis-terpene-profiles-sativa]], blurring the
 practical distinction. Light deprivation greenhouses allow outdoor photoperiod
 growers to trigger early flowering for multiple harvests per season without
 genetic modification.
 
 ## See Also
+
+- [[green-cannabis-photoperiod-12-12-light-cycle]]
 
 - [[cannabis-ruderalis]]
 - [[cannabis-topping-training]]

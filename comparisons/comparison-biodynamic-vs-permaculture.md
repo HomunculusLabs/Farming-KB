@@ -1,10 +1,11 @@
 ---
-title: "Biodynamic Agriculture vs Permaculture"
+title: "query-what-is-biodynamic-agriculture-and-how-does-it-differ-from-organic vs Permaculture"
 created: 2026-04-28
 tags: [comparison, farming-philosophy, biodynamic, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: comparison
 ---
@@ -32,9 +33,9 @@ patterns precedes specific design choices.
 
 The core tools are zone analysis (organizing elements by frequency of use from Zone 0,
 the house, through Zone 5, wilderness), sector analysis (mapping sun, wind, water,
-fire, and wildlife energies), and pattern understanding (applying natural patterns like
+fire, and wildlife energies), and [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]] (applying natural patterns like
 branching, spirals, and nets to design). Permaculture integrates food forests, keyline
-design, swales, greywater systems, companion planting guilds, passive solar design,
+design, swales, greywater systems, [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] guilds, passive solar design,
 and animal systems into a cohesive whole. A full year of observation before
 implementation is recommended, ensuring designs are adapted to local conditions.
 
@@ -65,7 +66,7 @@ philosophical foundations and are willing to invest in understanding the prepara
 methods and cosmic timing. It has proven particularly effective on commercial-scale
 operations where the compost preparations can be applied at scale, and where rapid
 compost transformation is needed. Farmers seeking quality assessment tools beyond
-standard chemical analysis may find Pfeiffer's crystallization and chromatography
+standard [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] may find Pfeiffer's crystallization and chromatography
 methods valuable. Biodynamics is most rewarding for those who view farming as a
 spiritual practice and are comfortable with concepts that conventional science cannot
 verify. The Demeter certification provides market recognition for biodynamic products.
@@ -81,8 +82,8 @@ husbandry, and shelter. It requires no specialized or esoteric inputs and relies
 observation, ecology, and design principles accessible to anyone willing to study.
 
 ## Hybrid Approaches
-Many practitioners combine elements of both systems. Biodynamic preparations can be
-applied within permaculture-designed landscapes to enhance compost quality and soil
+Many practitioners combine elements of both systems. [[comparison-biodynamic-preparations-vs-biofertilizers]] can be
+applied within permaculture-designed landscapes to enhance [[aact-compost-quality-standards-ingham]] and soil
 vitality. Permaculture's zone and sector analysis can organize biodynamic farms more
 efficiently. The biodynamic planting calendar can inform planting decisions within food
 forests and polycultures. Demeter-certified biodynamic farms frequently incorporate
@@ -92,6 +93,8 @@ vitality focus while applying permaculture's design intelligence to the broader
 landscape.
 
 ## See Also
+
+- [[comparison-agroecology-vs-permaculture]]
 
 - [[comparison-biodynamic-vs-biointensive]]
 - [[comparison-biointensive-vs-permaculture]]

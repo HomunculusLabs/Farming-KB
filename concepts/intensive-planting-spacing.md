@@ -9,15 +9,15 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Intensive Planting and Spacing
 
-Steve Solomon's analysis of plant spacing systems, from ultra-intensive raised beds to wide-spaced drought gardening. Solomon himself once taught and practiced intensive gardening but came to believe that wider spacing produces better results with far less water and labor.
+Steve Solomon's analysis of plant spacing systems, from ultra-intensive [[comparison-raised-beds-vs-hugelkultur]] to wide-spaced [[comparison-drought-gardening-vs-rainwater-harvesting]]. Solomon himself once taught and practiced [[solomon-wide-spacing-versus-intensive-gardening-debate]] but came to believe that wider spacing produces better results with far less water and labor.
 
 ## Solomon's Evolution
 
 During the 1970s, John Jeavons was writing about intensive gardening, and Solomon used those methods, wrote books recommending them, and promoted them widely. But by the 1980s, several things became apparent:
 
-- His trial plots with well-separated plants grew just as well as (and sometimes better than) his intensive vegetable garden
+- His trial plots with well-separated plants grew just as well as (and sometimes better than) his intensive [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]
 - The labor and water requirements of intensive gardening were enormous
-- The supposed yield advantage per square foot was largely an illusion
+- The supposed yield advantage per [[comparison-biointensive-vs-square-foot-gardening]] was largely an illusion
 - Intensive gardening makes the gardener a slave to constant watering
 
 ## The Four Spacing Systems
@@ -126,6 +126,6 @@ The fundamental relationship: closer spacing demands more water. Solomon's four 
 ## Related
 
 - [[drought-gardening]] — Gardening with minimal water
-- [[drip-irrigation-guide]] — Watering techniques
+- [[drip-irrigation-guide]] — [[cannabis-watering-techniques-and-frequency]]
 - [[irrigation-systems]] — Sprinkler and fertigation methods
 - [[growing-food-in-hard-times]] — The philosophy of low-input gardening

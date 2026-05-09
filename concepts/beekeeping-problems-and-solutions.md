@@ -4,7 +4,9 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, animal-husbandry, troubleshooting, pollinators, pest-management]
-sources: []
+sources:
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # Beekeeping Problems and Solutions
@@ -15,7 +17,7 @@ failure, with practical solutions for each.
 
 ## Varroa Destructor Mites
 
-Varroa is the single greatest threat to managed honey bees worldwide. These
+Varroa is the single greatest threat to managed [[comparison-honey-bees-vs-native-solitary-bees]] worldwide. These
 parasitic mites feed on fat bodies of adult bees and developing brood,
 transmitting deformed wing virus and other pathogens.
 
@@ -53,14 +55,14 @@ slimy larvae that ruin honey.
 - Maintain strong colonies — beetles prefer weak hives
 - Keep apiary in full sun; beetles prefer shaded locations
 - Reduce entrance size to limit beetle access
-- Use beetle blaster traps with oil or diatomaceous earth in corners of
+- Use beetle blaster traps with oil or [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]] in corners of
   super boxes
 
 ### Treatment
 - **Beetle traps** — insert between frames; fill with vegetable oil
 - **Ground drench** — permethrin around the hive stand (beetles pupate in
   soil beneath hives)
-- **Hive management** — keep colonies populous and honey supers harvested
+- **[[bee-forage-hive-management-mollison]]** — keep colonies populous and honey supers harvested
   promptly
 - **In-Hive Beetle Ejector** — screen inserts that force beetles into oil
   traps
@@ -76,7 +78,7 @@ decline. More common in winter and spring.
 - Reduced brood area and sluggish colony growth
 
 ### Treatment
-- **Fumidil-B (fumagillin)** — fed in sugar syrup in fall or early spring
+- **Fumidil-B (fumagillin)** — fed in sugar syrup in fall or [[coleman-overwintered-onions-and-early-spring-crops]]
 - **Nutrition** — ensure adequate pollen availability; feed pollen patties
   if needed
 - **Hive management** — replace old dark comb (nosema spores persist in wax);
@@ -106,7 +108,7 @@ decline. More common in winter and spring.
 
 ## Swarming
 
-Swarming is natural colony reproduction but represents lost honey production
+Swarming is natural colony reproduction but represents lost [[mollison-designers-beekeeping-honey-production-permaculture]]
 for the beekeeper.
 
 ### Prevention
@@ -146,10 +148,3 @@ Greater and lesser wax moth larvae destroy comb in weak or stored equipment.
 
 Strong colonies raid weak ones, especially during dearths.
 
-### Prevention
-- Reduce entrances of weak colonies
-- Do not spill syrup or honey in the apiary
-- Feed in the evening to avoid attracting robbers
-- Use robbing screens on weak colonies during dearths
-
-For seasonal timing of these interventions, see [[beekeeping-seasonal-calendar]].

@@ -16,7 +16,7 @@ type: concept
 
 # Zone 4 - Forage and Gathering Zone
 
-Zone 4 in [[permaculture-zone-planning]] for how Zone 4
+Zone 4 in permaculture-zone-planning for how Zone 4
 relates to the broader zone system.
 
 ## Foraging Systems
@@ -24,7 +24,7 @@ relates to the broader zone system.
 Zone 4 is the primary zone for gathering wild foods. Mollison identifies
 several categories of forage resources:
 
-**Tree crops**: Wild or semi-wild nut trees (oak, chestnut, hazel, walnut,
+**Tree crops**: Wild or semi-wild [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]] (oak, chestnut, hazel, walnut,
 pecan) provide substantial calorie yields. Many nut trees in Zone 4 were
 planted by earlier inhabitants or are naturalized from cultivation. Mollison
 recommends identifying productive wild trees and protecting them during any
@@ -35,13 +35,13 @@ elderberries, mulberries, persimmons, and pawpaws produce reliably with zero
 management. These are often more disease-resistant than cultivated varieties
 and provide important genetic material for breeding programs.
 
-**Mushrooms**: Zone 4 forests are prime mushroom habitat. Mollison notes that
+**Mushrooms**: Zone 4 forests are prime [[psilocybin-mushroom-habitat-and-ecology]]. Mollison notes that
 mycorrhizal mushrooms (chanterelles, porcini, matsutake) associate with
 specific tree species, making forest composition a key consideration.
 
 **Greens and herbs**: Wild greens (dandelion, nettles, chickweed, miner's
 lettuce, purslane) and herbs (wild mint, yarrow, self-heal) provide
-nutritious additions to the diet throughout the growing season.
+nutritious additions to the diet throughout the [[savory-growing-season-and-non-growing-season-management]].
 
 ## Timber and Forest Products
 
@@ -54,7 +54,7 @@ sustainable harvesting practices:
 - Leaving dead standing trees (snags) for cavity-nesting species
 - Harvesting at a rate that does not exceed growth
 
-Forest management in Zone 4 follows continuous cover forestry principles,
+[[mollison-pdc-forest-management-products]] in Zone 4 follows continuous cover forestry principles,
 maintaining forest canopy and soil protection at all times.
 
 ## Grazing in Zone 4
@@ -101,7 +101,7 @@ Mollison lists the acceptable management activities:
 - Fence maintenance for grazing areas
 - Trail and access track maintenance
 - Firebreak maintenance
-- Weed control at boundaries with managed zones
+- [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]] at boundaries with managed zones
 - Monitoring and observation
 
 Zone 4 should not receive regular irrigation, fertilization, or planting.
@@ -111,4 +111,4 @@ Nature is the primary manager; humans are occasional harvesters and observers.
 
 Zone 4 provides critical connectivity for wildlife movement. Mollison
 recommends maintaining continuous vegetation corridors linking Zone 5
-wilderness areas through Zone 4. These corridors support natural pest
+wilderness areas through Zone 4. These corridors support [[cho-natural-pest-control-methods]]

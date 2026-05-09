@@ -4,14 +4,16 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycorrhizae, fungi, mycology, biology, soil, ecology, species-profiles, agriculture, symbiosis, plants]
-sources: []
+sources:
+  - "raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md"
+  - "raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md"
 ---
 
 # Glomeromycota and Arbuscular Mycorrhizae
 
 ## Overview
 
-The phylum Glomeromycota comprises the arbuscular mycorrhizal fungi (AMF), which form the most widespread and ancient symbiotic relationship between fungi and land plants. Dating back over 450 million years, AMF associations are found in over 80% of all terrestrial plant species and are fundamental to plant nutrition, soil health, and ecosystem function. See [[fungal-symbiosis-types]] for the broader context of fungal symbiosis types, and [[mycorrhizal-inoculation-guide]] for practical application methods.
+The phylum Glomeromycota comprises the [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi (AMF), which form the most widespread and ancient symbiotic relationship between fungi and land plants. Dating back over 450 million years, AMF associations are found in over 80% of all terrestrial plant species and are fundamental to plant nutrition, soil health, and ecosystem function. See [[fungal-symbiosis-types]] for the broader context of [[gadd-beetle-gut-fungal-symbiosis-and-coevolution]] types, and [[mycorrhizal-inoculation-guide]] for practical application methods.
 
 ## Phylum Glomeromycota
 
@@ -75,7 +77,7 @@ The AMF colonization of plant roots follows a well-characterized sequence:
 
 ### Phase 1: Pre-Symbiotic (Spore Germination and Hyphal Growth)
 
-1. AMF spores germinate in response to root exudates (strigolactones, flavonoids, CO2)
+1. AMF spores germinate in response to [[mycorrhizal-root-exudates-pathogen-interactions]] (strigolactones, flavonoids, CO2)
 2. Germinating hyphae grow through the soil, foraging for host roots
 3. Hyphal branching is stimulated by host root signals
 4. Hyphal growth can continue for weeks without a host, but the fungus cannot complete its life cycle
@@ -96,7 +98,7 @@ The AMF colonization of plant roots follows a well-characterized sequence:
 ### Phase 4: Arbuscule Formation
 
 1. Highly branched arbuscules form inside cortical cells
-2. Arbuscules are the primary site of nutrient exchange
+2. Arbuscules are the primary site of [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]
 3. The plant cell reorganizes its cytoplasm around the arbuscule
 4. Arbuscules are transient structures — they form, function for 4-15 days, and then degenerate
 5. The plant cell returns to normal after arbuscule senescence
@@ -105,7 +107,7 @@ The AMF colonization of plant roots follows a well-characterized sequence:
 
 1. Vesicles are swollen, lipid-filled storage structures
 2. Formed in intercellular or intracellular spaces
-3. Function as long-term carbon storage for the fungus
+3. Function as long-term [[holmgren-soil-humus-carbon-storage-rebuilding]] for the fungus
 4. Not formed by all genera (Gigasporaceae do not form vesicles)
 
 ### Phase 6: Extraradical Mycelium and Spore Production
@@ -119,7 +121,7 @@ The AMF colonization of plant roots follows a well-characterized sequence:
 
 ### Plant to Fungus (Carbon)
 
-- The plant provides lipids (fatty acids) and carbohydrates to the fungus
+- The plant provides lipids ([[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]) and carbohydrates to the fungus
 - AMF are obligate biotrophs — they depend entirely on plant-derived carbon
 - Lipids are the primary carbon currency (up to 20% of plant-fixed carbon may be transferred to AMF)
 - The plant actively synthesizes fatty acids (palmitic acid) for export to the fungus
@@ -141,47 +143,8 @@ The plant regulates the symbiosis based on phosphorus status: low P promotes AMF
 
 ### Phosphorus Uptake
 
-The most well-documented benefit of AMF colonization:
-- AMF hyphae access soil volumes that roots cannot reach
-- Phosphate diffuses slowly in soil; AMF hyphae extend the depletion zone
-- AMF can access organic phosphorus sources through phosphatase secretion
-- Typical P uptake increase: 30-80% in low-P soils
-
-### Drought Tolerance
-
-AMF improve plant water relations through:
-- Direct water transport through hyphal networks
-- Improved soil aggregation (hyphae bind soil particles)
-- Altered root hydraulic properties
-- Osmotic adjustment via improved nutrient status
-- Plants colonized by AMF show higher stomatal conductance and leaf water potential under drought
-
-### Disease Resistance
-
-AMF provide protection against soil-borne pathogens through physical barriers (hyphae occupy space), biochemical defenses (induced systemic responses), and microbiome shifts. Proven protection against Pythium, Phytophthora, Fusarium, Rhizoctonia, and nematodes.
-
-### Soil Structure
-
-AMF produce glomalin, a glycoprotein that acts as biological glue, binding soil microaggregates into macroaggregates. Glomalin contributes up to 27% of soil carbon, persists for 7-42 years, and stabilizes soil structure improving water infiltration and reducing erosion.
-
-### Specific Crop Responses
-
-- **Maize**: 10-30% yield increase with AMF on low-P soils
-- **Wheat**: 5-20% yield increase, improved grain P content
-- **Soybean**: Enhanced nitrogen fixation when AMF and rhizobia co-colonize
-- **Citrus**: Improved growth, nutrient uptake, and disease resistance
-- **Grapes**: Enhanced phosphorus uptake, improved water stress tolerance
-
-## Limitations and Considerations
-
-- High soil phosphorus suppresses AMF colonization
-- Conventional tillage disrupts hyphal networks
-- Some fungicides are toxic to AMF
-- Non-host crops (Brassicas) do not maintain AMF populations
-- Commercial inoculants vary widely in quality and viability
-
 ## See Also
 
 - [[mycorrhizal-inoculation-guide]] — Practical guide to applying AMF inoculants
 - [[fungal-symbiosis-types]] — AMF in the context of all fungal symbiosis types
-- [[fungal-parasites-and-predators]] — Contrast with pathogenic and predatory fungi
+- [[mycelium]]

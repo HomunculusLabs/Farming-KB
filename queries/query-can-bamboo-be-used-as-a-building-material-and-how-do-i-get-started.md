@@ -1,5 +1,5 @@
 ---
-title: "Can Bamboo Be Used as a Building Material and How Do I Get Started?"
+title: "Can Bamboo Be Used as a fungal-building-material-deterioration and How Do I Get Started?"
 tags: [query, bamboo, natural-building, construction, permaculture]
 date: 2026-05-08
 updated: 2026-05-08
@@ -10,7 +10,7 @@ sources: []
 
 ## Short Answer
 
-Yes, bamboo is one of the strongest and fastest-growing natural building materials available.
+Yes, bamboo is one of the strongest and fastest-growing natural [[natural-building-materials-guide]] available.
 
 It has a tensile strength comparable to steel and can be used for everything from simple fences to full houses.
 
@@ -86,7 +86,7 @@ Each material has its strengths, and many builders combine them for optimal resu
 
 Start small and learn the material before committing to a large structure.
 
-Plant a clump of timber bamboo if your climate allows, using guidance from your [[permaculture-designers-manual-bamboo-species-uses]] list for structural projects.
+Plant a clump of timber bamboo if your climate allows, using guidance from your permaculture-designers-manual-bamboo-species-uses list for structural projects.
 - Harvest poles at three to five years of age during the dry season for maximum durability.
 - Always treat bamboo with borax-boric acid or another proven method to prevent insect damage.
 - Use bolts and lashing rather than nails for [[comparison-bamboo-construction-vs-cob-building]] and other materials for your climate.

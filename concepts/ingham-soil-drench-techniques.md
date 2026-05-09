@@ -1,5 +1,5 @@
 ---
-title: Soil Drench Techniques from Ingham AACT Field Guide
+title: Soil Drench Techniques from Ingham AACT ghouled-field-guide-historical-context
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -14,10 +14,10 @@ Extracted from [[ingham-aact-disease-suppression]].
 
 ## Soil vs Foliar Decision
 
-The decision between soil and foliar application depends on the problem:
+The decision between soil and [[ultra-low-cost-foliar-application-methods]] depends on the problem:
 
 - **Foliar spray indicated when:** tree has fungi attacking needles,
-  needs a "quick-fix" of nutrients, or has foliar insect problems through
+  needs a "quick-fix" of nutrients, or has [[ingham-foliar-insect-pest-deterrence-mechanisms]] problems through
   summer
 - **Soil drench indicated when:** building long-term soil biology,
   suppressing root diseases, or restoring fungal dominance to soil
@@ -50,7 +50,7 @@ few weeks before brewing can enhance the fungal component.
 - Soil drench at planting: 15-20 gallons per acre
 - Three foliar applications at 5 gallons per acre
 - Timing: 1st true leaf, flower bud, post-seed-set
-- Combine with 0.1% each of fish hydrolysate and kelp
+- Combine with 0.1% each of [[comparison-fish-hydrolysate-vs-fish-emulsion]] and kelp
 
 ## Timing Considerations
 
@@ -63,7 +63,7 @@ few weeks before brewing can enhance the fungal component.
 3. **Apply 2 weeks before budbreak** in spring for foliar protection
 4. **Spray plant residues after harvest** to ensure decomposition instead
    of pathogen overwintering
-5. **Soil drenches are okay anytime** (unlike foliar sprays which can be
+5. **Soil drenches are okay anytime** (unlike [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] which can be
    washed off by rain within 20 minutes -- use sticker-spreader if needed)
 
 ### Winter Applications

@@ -1,5 +1,5 @@
 ---
-title: ARIADNE (4C-DOM, Dimoxamine) - PIHKAL Entry #8
+title: ARIADNE (4C-DOM, Dimoxamine) - 2c-b-pihkal-entry-20 #8
 created: 2026-04-28
 tags: [pihkal, amphetamine, dom-analogue, antidepressant, classic-ladies]
 date: 2026-04-28
@@ -11,7 +11,7 @@ type: concept
 
 # ARIADNE (4C-DOM, Dimoxamine)
 
-**PIHKAL Entry #8**
+**[[2c-b-pihkal-entry-20]] #8**
 
 ## Chemical Identity
 
@@ -55,7 +55,7 @@ orange crystals (mp 114-115 °C, 19.6 g). Reduction with LAH
 (12.5 g in 600 mL THF, 15 h reflux) gave the amine
 hydrochloride (11.4 g).
 
-The racemate was resolved into optical isomers:
+The racemate was resolved into [[optical-isomers-psychedelic-phenethylamines]]:
 - "S" isomer via (+)-2beta-nitrotartranilic acid salt
 - "R" isomer via (+)-2beta-chlorotartranilic acid salt
 
@@ -76,7 +76,7 @@ The "R" isomer was patented as an anti-depressant (tradename
 Dimoxamine) for restoring motivation in senile geriatric
 patients. Despite advocacy for the name "Ariadnamine," the
 pharmaceutical tradename Dimoxamine was assigned. The compound
-did not reach the commercial market.
+did not reach the [[porcini-commercial-market]].
 
 Several dozen analogues were made by pharmaceutical companies
 with two major variation strategies:
@@ -89,7 +89,7 @@ The bromo-counterpart of ARIADNE
 (1-(2,5-dimethoxy-4-bromophenyl)-2-aminobutane) was prepared
 via bromination of the proteo compound in acetic acid, yielding
 a hydrochloride salt with mp 204-206 °C. The isomeric
-3,4-dimethoxy analogue was explored by the Chemical Warfare
+3,4-dimethoxy analogue was explored by the [[solomon-root-exudates-and-allelopathy]]
 group at Edgewood Arsenal (code EA-1322).
 
 N,N-dialkylated derivatives were prepared as potential brain

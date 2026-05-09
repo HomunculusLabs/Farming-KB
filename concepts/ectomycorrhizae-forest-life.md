@@ -9,11 +9,11 @@ sources:
 ---
 # Ectomycorrhizae and Forest Life
 
-Ectomycorrhizal fungi form one of the most ecologically significant symbioses in forest ecosystems. Unlike [[mycorrhizal-fungi]], and the resulting mycorrhizal networks support a wide range of organisms, including seedlings and young trees growing in the understory that cannot yet compete for sunlight.
+[[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] form one of the most ecologically significant symbioses in forest ecosystems. Unlike [[mycorrhizal-fungi]], and the resulting [[dighton-mycorrhizal-networks-carbon-transfer]] support a wide range of organisms, including seedlings and young trees growing in the understory that cannot yet compete for sunlight.
 
-Mother trees share the benefits of their sunlight-gathering capacity with their progeny via underground [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]], ectomycorrhizal spores can survive forest fires by forming durable spore banks that reside in the soil until conditions are right for germination. Many shrub species sprout rapidly after fire and sustain mycorrhizal populations until regenerating trees can reconnect to the [[mycorrhizal-signaling-strigolactones-myc-factors]] used by arbuscular mycorrhizal partners — to attract nearby fungal hyphae. However, unlike endomycorrhizal fungi that penetrate root cell walls, ectomycorrhizal hyphae weave together to form a dense mantle around the root exterior.
+Mother trees share the benefits of their sunlight-gathering capacity with their progeny via underground [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]], ectomycorrhizal spores can survive forest fires by forming durable spore banks that reside in the soil until conditions are right for germination. Many shrub species sprout rapidly after fire and sustain mycorrhizal populations until regenerating trees can reconnect to the mycorrhizal-signaling-strigolactones-myc-factors used by [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] partners — to attract nearby fungal hyphae. However, unlike endomycorrhizal fungi that penetrate root cell walls, ectomycorrhizal hyphae weave together to form a dense mantle around the root exterior.
 
-The fungus then uses cellulolytic enzymes to dissolve the middle lamellae of epidermal and outer cortical cells. The hyphae surround — but do not penetrate — the cell walls, forming the Hartig net, an extensive interface for nutrient exchange. The [[arbuscular-mycorrhizal-network-visualization-anastomosis]], most ectomycorrhizal fungi reproduce sexually via large sporocarps — mushrooms, puffballs, and truffles — producing small spores (typically under 10 micrometers) dispersed primarily by wind but also by small mammals, birds, insects, and other soil organisms.
+The fungus then uses cellulolytic enzymes to dissolve the middle lamellae of epidermal and outer cortical cells. The hyphae surround — but do not penetrate — the cell walls, forming the Hartig net, an extensive interface for [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]. The [[arbuscular-mycorrhizal-network-visualization-anastomosis]], most ectomycorrhizal fungi reproduce sexually via large sporocarps — mushrooms, puffballs, and truffles — producing small spores (typically under 10 micrometers) dispersed primarily by wind but also by small mammals, birds, insects, and other soil organisms.
 
 ## Animal Vectors and Fungal Dependencies
 
@@ -21,7 +21,7 @@ Interactions with other organisms are critical to ectomycorrhizal establishment.
 
 ## Host Specificity
 
-Ectomycorrhizal associations range from highly specific to broadly generalist. Some fungi associate with only one host species, while others can colonize a wide range of hosts. A mature tree can simultaneously host ten or more different [[mycorrhizal-inoculation-methods-agriculture]] significantly improves both growth and survival of tree seedlings in disturbed soils and during drought conditions.
+Ectomycorrhizal associations range from highly specific to broadly generalist. Some fungi associate with only one host species, while others can colonize a wide range of hosts. A mature tree can simultaneously host ten or more different mycorrhizal-inoculation-methods-agriculture significantly improves both growth and survival of tree seedlings in disturbed soils and during drought conditions.
 
 ### Waste Site Reclamation
 
@@ -33,7 +33,7 @@ Nursery inoculation results have been generally positive, though sometimes showi
 
 ## Commercial Truffle Cultivation
 
-Knowledge of ectomycorrhizal associations enables profitable cultivation of edible mushrooms and truffles. Oak and hazelnut trees inoculated with *Tuber melanosporum* can produce black truffles, with commercial operations ranging from Oregon to Tasmania. This represents a growing area of ectomycorrhizal-ecology|applied ectomycorrhizal science.
+Knowledge of ectomycorrhizal associations enables profitable cultivation of [[palmer-edible-mushrooms-north-america]] and truffles. Oak and hazelnut trees inoculated with *Tuber melanosporum* can produce black truffles, with commercial operations ranging from Oregon to Tasmania. This represents a growing area of ectomycorrhizal-ecology|applied ectomycorrhizal science.
 
 ## Documented Tree and Shrub Responses
 
@@ -55,13 +55,13 @@ Thousands of studies confirm the efficacy of ectomycorrhizal inoculation across 
 
 - **Yew**: *Rhizophagus intraradices* inoculation produced significantly higher root production, matching or exceeding rooting hormone results.
 
-These results consistently demonstrate that inoculated trees require less fertilizer, show greater drought tolerance, and survive transplanting better than uninoculated controls — reinforcing the critical role of [[ectomycorrhizal-morphological-structures]]
+These results consistently demonstrate that inoculated trees require less fertilizer, show greater [[dighton-fungal-drought-tolerance-plant-water-relations]], and survive transplanting better than uninoculated controls — reinforcing the critical role of [[ectomycorrhizal-morphological-structures]]
 - [[ectomycorrhizal-remediation]]
 - [[common-mycorrhizal-networks]]
 - [[mycorrhizal-inoculation-guide]]
 - [[fungal-nutrient-cycling-forests]]
 - [[ectomycorrhizal-mushroom-fruiting-ecology]]
-- [[mycorrhizal-silviculture-lowenfels]]
+- mycorrhizal-silviculture-lowenfels
 ## Practical Considerations
 
 Successful implementation of Ectomycorrhizae and Forest Life requires attention to
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

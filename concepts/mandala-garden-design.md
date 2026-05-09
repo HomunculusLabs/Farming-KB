@@ -1,5 +1,5 @@
 ---
-title: Mandala Garden Design
+title: comparison-mandala-garden-design-vs-keyhole-garden-design Design
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -19,7 +19,7 @@ Key principles:
 
 - **Maximize edge:** The curved and undulating bed shapes create more edge (boundary between bed and path) per unit area than straight beds. More edge means more microclimates and more planting diversity.
 - **Minimize path area:** Keyhole paths access beds from the center, eliminating the need for paths between every row. This can increase productive growing area by 30-50% compared to traditional rectangular row gardens.
-- **Create microclimates:** Circular and curved beds create variations in sun exposure, wind protection, and moisture within a small area.
+- **[[query-how-do-i-create-microclimates-in-my-garden]]:** Circular and curved beds create variations in sun exposure, wind protection, and moisture within a small area.
 - **Aesthetic beauty:** Mandala gardens are visually striking, making them ideal for front yards, community gardens, and demonstration sites.
 
 ## Basic Layout Patterns
@@ -105,7 +105,7 @@ For faster results and better drainage, build the mandala beds as raised beds:
 
 ## Intensive Planting
 
-The mandala garden's design lends itself to intensive planting methods:
+The mandala garden's design lends itself to intensive native american planting methods and indigenous agriculture:
 
 ### Succession Planting
 
@@ -116,8 +116,8 @@ The mandala garden's design lends itself to intensive planting methods:
 ### Companion Planting
 
 - Group plants that benefit each other in the same bed or adjacent beds
-- Rotate plant families around the mandala each season to break pest and disease cycles
-- Include flowers and herbs throughout to attract pollinators and beneficial insects
+- Rotate plant families around the mandala each season to break [[hamilton-pest-and-disease-control-organic]] cycles
+- Include flowers and herbs throughout to attract pollinators and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 
 ### Vertical Gardening
 
@@ -142,32 +142,8 @@ The mandala's clearly defined beds make rotation straightforward:
 - **Year 3:** Move again — each bed sees each family only once every 4+ years
 - Keep a simple map or journal to track what was planted where
 
-## Planting by Sector
-
-Divide the mandala into functional zones:
-
-- **Leafy greens:** Plant on the east side (morning sun, afternoon shade)
-- **Fruiting crops (tomatoes, peppers, eggplant):** Plant on the south side (full sun)
-- **Root crops:** Plant in deep, well-prepared beds
-- **Herbs and flowers:** Distribute throughout all beds for pest management and pollination
-- **Perennials (asparagus, rhubarb, artichokes):** Plant on the outer ring where they won't be disturbed by annual rotation
-
-## Water Management
-
-- **Water from the center:** If the center feature is a tree or herb spiral, water there and let it wick outward
-- **Drip irrigation:** Lay drip lines in each bed for efficient, targeted watering
-- **Swale around the perimeter:** A shallow swale around the outside of the mandala captures runoff and directs it into the garden
-- **Olla pots:** Bury unglazed clay pots in the beds and fill with water for slow, deep irrigation
-
-## Seasonal Considerations
-
-- **Spring:** Plant cool-season crops (peas, lettuce, spinach, radishes, brassicas) in all beds. The center warms first if it has a tree or structure.
-- **Summer:** Transition to warm-season crops (tomatoes, peppers, squash, beans). Shade the north side with tall crops.
-- **Fall:** Plant a second round of cool-season crops. Add a cold frame or row cover over one or two beds for winter extension (see [[cold-frame-gardening]] and [[grow-tunnel-and-hoop-house]]).
-- **Winter:** Cover crop beds not in use, or add compost and let them rest
-
 ## Related Concepts
 
 - [[keyhole-garden-design]] for the keyhole path concept used within mandala gardens
 - [[herb-spiral-construction]] for a center feature option in mandala design
-- [[grow-tunnel-and-hoop-house]] for season extension within mandala garden beds
+- [[grow-tunnel-and-hoop-house]] for [[comparison-season-extension-techniques-vs-cold-frame-gardening]] within mandala garden beds

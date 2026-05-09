@@ -1,5 +1,5 @@
 ---
-title: "Root Crops: Growing Guide"
+title: "Root Crops: comparison-bean-growing-guide-vs-pepper-growing-guide"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
@@ -32,7 +32,7 @@ About 6 weeks before planting, spread uncut seed potatoes on a tray in bright in
 - Prepare rows: spread compost/manure in 1-foot bands, deeply dig the rows
 - For highest yield: excavate trenches, fill with compost/manure/COF, cover with soil
 - Set seed pieces 4 inches deep, 8-12 inches apart in rows 36 inches apart
-- Wider spacing: larger tubers, slightly lower yield, better drought tolerance
+- Wider spacing: larger tubers, slightly lower yield, better [[dighton-fungal-drought-tolerance-plant-water-relations]]
 - Closer spacing: moderate tubers, maximum yield, less drought tolerance
 
 ### Hilling
@@ -47,7 +47,7 @@ Plant shallowly, then hill up progressively as vines grow:
 
 ### Nutrition and Quality
 
-Soil mineral balance affects potato nutritional quality. High potassium + high moisture produces bulky, watery, low-protein tubers. Waxy "boiling" varieties with reduced irrigation after tuber set produce higher protein (up to ~11% dry weight). Lower potassium in the COF and moderate moisture produce smaller but more nutritious spuds.
+Soil [[holmgren-mineral-balance-soil-fertility]] affects potato [[coleman-winter-greens-nutritional-quality-cold-sweetening]]. High potassium + high moisture produces bulky, watery, low-protein tubers. Waxy "boiling" varieties with reduced irrigation after tuber set produce higher protein (up to ~11% dry weight). Lower potassium in the COF and moderate moisture produce smaller but more nutritious spuds.
 
 ### Harvest and Storage
 
@@ -118,7 +118,7 @@ Beets are a medium-demand crop. Sow 3/4 inch deep, thin progressively to 3-5 inc
 
 ## Turnips, Rutabagas, and Winter Radishes
 
-**Turnips**: spring and autumn crop in mild-winter climates; spring sowings tend to bolt before sizing up. Best sown at end of summer for autumn/winter harvest.
+**Turnips**: spring and autumn crop in mild-winter climates; spring sowings tend to bolt before sizing up. Best sown at end of summer for autumn/[[coleman-claytonia-winter-harvest-cultivation]].
 
 **Rutabagas (swedes)**: autumn crop, can stand in the garden through winter. Larger than turnips. Possibly the most cellarable root crop. Spacing: ~8 inches apart. Solomon discovered rutabagas after living in British Columbia and considers them essential for gardeners with root cellars.
 
@@ -126,7 +126,7 @@ Beets are a medium-demand crop. Sow 3/4 inch deep, thin progressively to 3-5 inc
 
 ## Kohlrabi
 
-A brassica producing an edible swollen stem above ground. Sow hybrid varieties in clusters at 5x18 inch spacing. Thin to one plant per station. Sow about 30 days before weather cools. Properly grown kohlrabi slowly enlarges in cool weather without getting woody. Cellarable if roots left attached.
+A brassica producing an edible swollen stem above ground. Sow [[cervantes-hybrid-varieties-types]] in clusters at 5x18 inch spacing. Thin to one plant per station. Sow about 30 days before weather cools. Properly grown kohlrabi slowly enlarges in cool weather without getting woody. Cellarable if roots left attached.
 
 ## Parsnips
 

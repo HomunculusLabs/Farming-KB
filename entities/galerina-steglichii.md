@@ -11,25 +11,25 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 # Galerina steglichii
 
 *Galerina steglichii* is a rare species of wood-inhabiting mushroom in the family cortinariaceae (or hymenogastraceae) that has been reported to contain [[psilocin]]. It is one of only a handful of Galerina species found to contain psychoactive indole alkaloids, making it a scientifically noteworthy but potentially dangerous species. The genus Galerina is primarily notorious for containing deadly poisonous species that produce amatoxins, the same toxins found in [[psilocybin]] and [[psilocybin]] — the phosphorylated prodrug that is converted to psilocin in the body
-- [[psilocybe-azurescens]] or [[galerina-autumnalis]]** (also known as Galerina marginata) — one of the most deadly mushrooms in North America and Europe
+- [[psilocybe-azurescens]] or [[galerina-autumnalis]]** (also known as Galerina marginata) — one of the most deadly mushrooms in [[psilocybin-north-america-pacific-northwest]] and Europe
 - **Galerina venenata** — a small grassland species containing amatoxins
 - **Galerina fasciculata** — found in clusters on wood, resembling some psilocybe species
 
-Amatoxin poisoning causes delayed-onset liver and kidney failure that is frequently fatal without aggressive medical intervention, including liver transplantation. The symptoms follow a characteristic pattern:
+[[bloomfield-amatoxin-poisoning-mechanism]] causes delayed-onset liver and kidney failure that is frequently fatal without aggressive medical intervention, including liver transplantation. The symptoms follow a characteristic pattern:
 
 1. **Latent phase (6 to 24 hours):** No symptoms, creating a false sense of security
 2. **Gastrointestinal phase (24 to 48 hours):** Severe nausea, vomiting, diarrhea, abdominal pain
 3. **Apparent recovery phase (48 to 72 hours):** Temporary improvement as liver damage progresses silently
 4. **Hepatic failure phase (3 to 7 days):** Liver failure, jaundice, coagulopathy, hepatic encephalopathy, death
 
-There is NO reliable visual way to distinguish psilocybin-containing Galerina species from amatoxin-containing ones. Microscopic examination and chemical analysis are required. **No Galerina species should ever be consumed for psychoactive purposes without definitive chemical identification.**
+There is NO reliable visual way to distinguish psilocybin-containing Galerina species from amatoxin-containing ones. [[fungal-microscopic-examination-mounting-media-techniques]] and [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] are required. **No Galerina species should ever be consumed for psychoactive purposes without definitive chemical identification.**
 
 ## Similar Species
 
 The small brown habit of Galerina steglichii makes it superficially similar to numerous other small brown mushrooms:
 
 - **[[conocybe-cyanopus]]**: Also contains psilocybin but has a conical cap and different spore ornamentation
-- **[[psilocybin]] could subject it to the same legal restrictions as other psilocybin-containing fungi in jurisdictions where such laws apply. Given the extreme danger of misidentification with amatoxin-containing species, possession for consumption purposes would be exceptionally ill-advised regardless of legal status.
+- **[[psilocybin]] could subject it to the same legal restrictions as other psilocybin-containing fungi in jurisdictions where such laws apply. Given the extreme danger of misidentification with amatoxin-containing species, possession for consumption purposes would be exceptionally ill-advised regardless of [[ayahuasca-tourism-legal-status-by-country]].
 
 ## See Also
 
@@ -113,4 +113,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

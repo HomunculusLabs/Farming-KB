@@ -1,5 +1,5 @@
 ---
-title: Disappearance of the Natural Diet
+title: Disappearance of the fukuoka-natural-diet-as-foundation
 created: 2026-04-28
 tags:
   - natural-farming
@@ -21,7 +21,7 @@ type: concept
 
 ## The Splendid Variety of the Traditional Diet
 
-Fukuoka begins by recalling the extraordinary diversity of the Japanese diet before
+Fukuoka begins by recalling the extraordinary diversity of the [[fukuoka-japanese-diet-worse]] before
 modernization. Up until perhaps forty or fifty years ago, each farming household in Japan
 grew its own staple food and vegetables, ate what was in season, and preserved certain
 foods for use during other seasons. There were over three hundred varieties of edible
@@ -48,7 +48,7 @@ needing nutritional science.
 ## The Path to Recovery
 
 Fukuoka holds out the possibility of recovering a natural diet, but argues it must begin
-with the recovery of natural farming. The two are inseparable: you cannot have a natural
+with the recovery of [[comparison-natural-farming-vs-permaculture]]. The two are inseparable: you cannot have a natural
 diet based on unnatural agriculture, nor can you have natural agriculture when people
 no longer understand natural food.
 
@@ -56,7 +56,7 @@ The recovery requires simultaneously rebuilding the relationship between farmer 
 consumer, between city and country, and between human beings and the natural world.
 When the [[masanobu-fukuoka]]
 - [[direct-seeded-no-tillage-rice-barley-succession]]
-- scientific agriculture
+- [[fukuoka-critique-scientific-agriculture-civilization]]
 - traditional japanese foodways
 - [[masanobu-fukuoka]]
 - [[natural-diet]]
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

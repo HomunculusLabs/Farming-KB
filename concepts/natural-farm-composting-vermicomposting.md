@@ -14,14 +14,14 @@ type: concept
 Composting transforms organic waste into rich, fertile soil amendment. Food
 scraps and kitchen waste that would otherwise fill about 30 percent of your
 garbage can instead decompose and return to the soil from whence they came.
-Composting is a cornerstone of [[natural-farm-permaculture-ethics-principles]]
+Composting is a cornerstone of natural-farm-permaculture-ethics-principles
 circular systems where every output becomes an input.
 
 ## Kitchen Composting Basics
 
 Keep two buckets under the kitchen sink and add all food scraps except meat
 and dairy. Orange peels, banana peels, and eggshells should be crushed and
-cut up so they break down faster. Small paper scraps can also be added. Once
+cut up so they [[query-can-fungi-break-down-plastic-pollution]] faster. Small paper scraps can also be added. Once
 a bucket is full, dump it on the compost heap. Commercial black plastic bins
 with lids work well in urban environments because they absorb heat, helping
 compost break down faster. For a composting toilet setup, a much larger bin
@@ -36,13 +36,13 @@ A composting toilet separates human waste, allowing solids to decompose into
 safe compost over time. In a well-managed system, the solids break down with
 the help of carbon materials like sawdust or straw added after each use. The
 resulting compost, after sufficient aging (typically one to two years), can
-be safely used on ornamental plants and fruit trees. Liquid waste can be
+be safely used on ornamental plants and [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]. Liquid waste can be
 diverted separately and used as a nitrogen source for [[hugelkultur-beds]].
 
 ## Connecting Compost to the Larger System
 
 Composting fits into the broader [[natural-farm-soil-health-mulching]]
-- [[natural-farm-permaculture-ethics-principles]]
+- natural-farm-permaculture-ethics-principles
 - [[natural-farm-food-preservation-methods]]
 ## Practical Considerations
 
@@ -60,7 +60,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +102,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

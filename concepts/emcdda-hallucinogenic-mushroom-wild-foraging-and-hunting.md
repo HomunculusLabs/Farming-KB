@@ -1,5 +1,5 @@
 ---
-title: "EMCDDA Hallucinogenic Mushroom Wild Foraging and Hunting"
+title: "EMCDDA emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative Wild Foraging and Hunting"
 created: 2026-04-28
 tags:
   - emcdda
@@ -18,8 +18,8 @@ type: concept
 
 ## Overview
 
-While most recreationally used hallucinogenic mushrooms in Europe are
-cultivated rather than picked wild, a tradition of "magic mushroom hunting"
+While most recreationally used [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] in Europe are
+cultivated rather than picked wild, a tradition of "magic [[field-guide-psilocybin-mushroom-hunting-methodology]]"
 exists among users in several EU Member States. The EMCDDA 2006 thematic
 paper noted that evidence on the extent of wild collection was sparse but
 identified qualitative reports from multiple countries confirming the
@@ -32,10 +32,10 @@ naturally.
 A variety of psilocybin-containing mushroom species are found growing wild in
 Europe, particularly throughout central and northern Europe:
 
-- **Psilocybe semilanceata** (liberty caps): The most common wild European
+- **[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]** (liberty caps): The most common wild European
   hallucinogenic mushroom, found in wet grassy fields and uncultivated
   pastures. Reported in the UK, Norway, Germany, and many other countries.
-- **Psilocybe cyanescens** (wavy caps): Another wild species found in
+- **[[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]** (wavy caps): Another wild species found in
   European habitats.
 - **Psilocybe bohemica**: Particularly reported in the Czech Republic.
 - **Psilocybe moravica**: Also reported growing wild in the Czech Republic.
@@ -125,7 +125,7 @@ Wild foraging carries several specific risks:
 ## Foraging vs. Cultivation
 
 The EMCDDA noted that most recreationally used mushrooms in Europe are
-cultivated rather than picked wild. The Psilocybe cubensis varieties most
+cultivated rather than picked wild. The [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] varieties most
 commonly sold through commercial channels do not grow wild in Europe and are
 cultivated specifically in the Netherlands. Wild foraging therefore
 primarily involves the native European species, with Psilocybe semilanceata
@@ -138,3 +138,5 @@ being by far the most commonly sought.
 - [[emcdda-hallucinogenic-mushroom-internet-information-sources]]
 - [[emcdda-hallucinogenic-mushroom-health-risks]]
 - [[emcdda-hallucinogenic-mushroom-markets-availability]]
+
+- [[emcdda-magic-mushroom-hunting-europe]]

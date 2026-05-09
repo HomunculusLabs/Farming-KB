@@ -1,5 +1,5 @@
 ---
-title: Natural Farming Poster - Input-Free Farming Philosophy
+title: Natural Farming Poster - Input-Free fukuoka-do-nothing-farming-philosophy-and-practice
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
@@ -14,12 +14,12 @@ The Modern Natural Farming Technology (MNFT) poster promotes an approach to cult
 ## Core Principles
 
 ### Everything You Need Is Already Available
-The poster repeatedly emphasises that materials for natural farming inputs are everywhere. The key realisation is that beneficial plants, dynamic accumulators, and microbial inoculants exist in the local environment and can be harvested freely:
+The poster repeatedly emphasises that materials for natural farming inputs are everywhere. The key realisation is that beneficial plants, [[comparison-dynamic-accumulators-vs-cover-crops]], and microbial inoculants exist in the local environment and can be harvested freely:
 
-- Dynamic accumulator plants (Comfrey, Thistle, Nettle, Horsetail, Dandelion) grow wild in most regions
+- [[query-what-are-dynamic-accumulator-plants-and-how-do-i-use-them]] (Comfrey, Thistle, Nettle, Horsetail, Dandelion) grow wild in most regions
 - Vegetable and fruit scraps from the garden or kitchen become fermentation substrates
 - Egg shells from cooking become water-soluble calcium
-- Beneficial indigenous microorganisms (IMO/BIM) live in the local soil
+- Beneficial [[beneficial-indigenous-microorganisms-bim]] (IMO/BIM) live in the local soil
 - Brown rice and fruits available at any grocery store become the sugar base for fermentation
 
 ### The Regenerative Cycle
@@ -45,7 +45,7 @@ The poster acknowledges that natural farming is not all-or-nothing. It describes
 
 ### Level 1: Dabbling
 - Some growers will simply experiment with FPJ and FFJ
-- Even small adoption of fermented plant extracts improves soil biology and plant health
+- Even small adoption of [[query-how-do-i-use-fermented-plant-extracts-in-my-garden]] improves soil biology and plant health
 - This entry point requires minimal commitment and investment
 
 ### Level 2: Full Lifecycle Application
@@ -68,7 +68,7 @@ The input-free philosophy directly descends from Master Cho Han-Kyu's Korean Nat
 - Master Cho developed KNF in Korea in the 1960s, emphasising locally-sourced, self-produced inputs
 - The KNF community "graciously reminded us of Natural Farming" — acknowledging the debt to Korean tradition
 - Chris Trump's YouTube video series brought KNF methods to Western audiences, particularly cannabis growers
-- The poster applies these time-tested Korean farming principles to the specific lifecycle of cannabis
+- The poster applies these time-tested Korean [[natural-farming-principles-fukuoka]] to the specific lifecycle of cannabis
 
 ## Connection to Fukuoka's Natural Farming
 

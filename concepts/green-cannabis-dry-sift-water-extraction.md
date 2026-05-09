@@ -1,5 +1,5 @@
 ---
-title: Dry Sift and Water Extraction Methods for Cannabis
+title: [[green-cannabis-cola-development-bud-architecture]] dry sift water extraction and Water Extraction Methods for Cannabis
 created: 2026-04-26
 tags:
   - cannabis
@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 # Dry Sift and Water Extraction Methods
-The collection and processing of trichomes -- the tiny and resin glands that
+The collection and processing of trichomes -- the tiny [[greg-green-trichomes-and-resin-glands]] that
 contain THC and other cannabinoids -- is the foundation of hashish
 production. [[greg-green]] provides detailed instructions for effective screening:
 1. Use a metal screen rated between 100 to 140 lines per inch (120
@@ -46,7 +46,7 @@ home. Key features:
   pressure.
 - A small wooden cylinder placed inside the barrel applies pressure
   for faster extraction (at the cost of some quality).
-- Different screen sizes can be used for different quality grades.
+- Different screen sizes can be used for different [[compost-quality-grades]].
 ## Water Extraction (Ice Water Method)
 Water extraction is described as the best method for achieving trichome
 extraction only, with minimal plant contamination. The process:
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

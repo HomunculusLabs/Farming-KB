@@ -10,7 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Hofmann, A. (1978). "Lysergic Acid Diethylamide and Related Compounds." Pharmacology & Therapeutics, 2(2), 223–243.
+  - Hofmann, A. (1978). "ergot-and-lysergic-acid-history Diethylamide and Related Compounds." Pharmacology & Therapeutics, 2(2), 223–243.
   - Schultes, R.E. & Hofmann, A. (1980). The Botany and Chemistry of Hallucinogens. 2nd ed. Charles C Thomas.
   - Staig, S.M. & Blum, L.N. (1981). "Ergot Alkaloids: Separation and Detection by High-Performance Liquid Chromatography." Journal of Chromatography A, 210, 487–493.
   - Cordell, G.A. (1981). Introduction to Alkaloids: A Biogenetic Approach. Wiley-Interscience.
@@ -21,7 +21,7 @@ sources:
 
 Lysergol (9,10-didehydro-6-methylergoline-8β-ol) is a clavine-type ergoline
 alkaloid produced by fungi of the genus *Claviceps* (ergot fungi) and found
-in several morning glory species (*Ipomoea* spp., *Convolvulaceae*).
+in several [[golden-guide-morning-glory-and-ololiuqui]] species (*Ipomoea* spp., *Convolvulaceae*).
 It is a direct metabolic precursor in the biosynthetic pathway leading to
 lysergic acid amide (LSA) and ultimately to lysergic acid diethylamide (LSD).
 Lysergol itself possesses mild psychoactive properties but is significantly
@@ -53,7 +53,7 @@ subsequent oxidation to the lysergic acid carboxyl group.
 ## Biosynthesis and Occurrence
 
 Lysergol is produced as an intermediate in the ergoline alkaloid pathway,
-primarily by sclerotia-forming *Claviceps purpurea* and related species
+primarily by sclerotia-forming *[[bloomfield-ergot-claviceps-purpurea-ergotism]]* and related species
 parasitizing grasses and cereals. The biosynthetic sequence proceeds:
 
 - L-tryptophan → dimethylallyltryptophan (DMAT) → chanoclavine-I
@@ -66,12 +66,12 @@ Beyond fungal sources, lysergol occurs in the seeds of several
 *Convolvulaceae* species, particularly *Ipomoea tricolor* (morning glory)
 and *Ipomoea corymbosa* (ololiuqui), where it co-occurs with LSA,
 ergometrine, and other ergoline alkaloids. The presence of lysergol in
-plant seeds is attributed to symbiotic fungal endophytes rather than
+plant seeds is attributed to symbiotic [[fungi-in-the-environment-fungal-endophytes-plant-communities]] rather than
 plant metabolism.
 
 ### Fungal vs. Plant Origins
 
-The ergoline alkaloid pathway in morning glories is now understood to
+The ergoline alkaloid pathway in [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] is now understood to
 originate from seed-transmitted fungal endophytes related to
 *Periglandula* spp. (*Clavicipitaceae*). These endophytes colonize the
 shoot apical meristem and produce the full spectrum of ergoline alkaloids
@@ -121,7 +121,7 @@ Lysergol is unscheduled in most jurisdictions due to its negligible
 psychoactivity. However, its structural classification as an ergoline
 alkaloid means it may fall under analogue drug legislation in some
 countries. In the United States, lysergol is not specifically listed
-under the Controlled Substances Act but could potentially be treated
+under the Controlled [[controlled-substances-act-and-psychedelic-research]] but could potentially be treated
 as a positional isomer of controlled lysergamides under the Federal
 Analogue Act, though no prosecutions have been documented.
 

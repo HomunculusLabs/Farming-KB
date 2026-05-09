@@ -1,5 +1,5 @@
 ---
-title: Basidiomycete Fungi in Petroleum Hydrocarbon Cleanup
+title: singh basidiomycete fungi in petroleum hydrocarbon cleanup in singh-petroleum-hydrocarbon-fungal-remediation-technologies Cleanup
 created: 2026-04-26
 tags:
   - basidiomycete-fungi
@@ -24,7 +24,7 @@ refining, transportation, and storage activities. The Singh source
 provides extensive evidence that basidiomycete fungi, particularly
 white-rot species, can colonize petroleum-contaminated soils and
 degrade complex hydrocarbon mixtures including aliphatic, aromatic,
-and polycyclic aromatic components. Their extracellular, nonspecific
+and [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] components. Their extracellular, nonspecific
 enzyme systems give them advantages over bacterial degraders for
 weathered and recalcitrant petroleum fractions.
 
@@ -35,7 +35,7 @@ individual hydrocarbon compounds spanning several classes:
 
 - Aliphatic hydrocarbons: n-alkanes, branched alkanes (isoalkanes),
   and cycloalkanes. These are generally the most biodegradable
-  fraction but become recalcitrant as chain length increases beyond
+  fraction but become recalcitrant as [[phenethylamine-chain-length-effects]] increases beyond
   approximately C30.
 
 - Monoaromatic hydrocarbons: Benzene, toluene, ethylbenzene, and
@@ -67,7 +67,7 @@ contaminated soils:
 - Existing microbial communities may be competitive or antagonistic.
 
 Despite these challenges, several basidiomycete species establish
-vigorous mycelial networks in contaminated soils:
+vigorous [[fungal-mycelial-networks-nutrient-translocation]] in contaminated soils:
 
 - [[trametes-versicolor-entity]] and [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]]
 - [[singh-bioaugmentation-vs-biostimulation-fungal-strategies]]
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

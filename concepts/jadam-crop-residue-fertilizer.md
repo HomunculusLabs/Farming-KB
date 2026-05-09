@@ -1,5 +1,5 @@
 ---
-title: JADAM Crop Residue as Fertilizer
+title: JADAM jadam crop residue fertilizer as Fertilizer
 created: 2026-04-18
 updated: 2026-04-20
 type: concept
@@ -11,13 +11,13 @@ sources:
 
 ## Overview
 
-One of JADAM's most radical departures from conventional farming advice is its insistence that crop residues (branches, leaves, stems, and any remaining plant parts after harvest) must be returned to the soil rather than removed or destroyed. JADAM views crop residue as the perfect fertilizer -- with the ideal nutritional balance for the crop that produced it.
+One of JADAM's most radical departures from conventional farming advice is its insistence that crop residues (branches, leaves, stems, and any remaining plant parts after harvest) must be returned to the soil rather than removed or destroyed. JADAM views crop residue as the perfect fertilizer -- with the ideal [[jadam-nutritional-balance-fertilizer]] for the crop that produced it.
 
 ## The Conventional Error: Field Sanitation
 
 The standard practice promoted by agricultural experts is "field sanitation" -- completely eliminating all crop residues to reduce disease and pest pressure the following season. Farmers who diligently remove every scrap expect reduced pesticide needs. But JADAM points out that pesticide use has only increased over the years, not decreased. The practice has failed.
 
-The "field sanitation" approach is based on a flawed understanding of disease. Pathogens like canker and powdery mildew organisms are so common and prolific (one spore can propagate into one billion in 10 hours) that eliminating crop residues cannot possibly control them. They are everywhere in the soil.
+The "field sanitation" approach is based on a flawed understanding of disease. Pathogens like canker and [[cervantes-powdery-mildew-prevention-treatment]] organisms are so common and prolific (one spore can propagate into one billion in 10 hours) that eliminating crop residues cannot possibly control them. They are everywhere in the soil.
 
 ## The Athlete's Foot Analogy
 
@@ -62,20 +62,19 @@ The JADAM approach to crop residues:
 
 ## The Recycling Principle
 
-When leaves fall from persimmon trees, the best nutrient for persimmons is its own leaves. If rye seeds are broadcast before harvesting, they sprout and catch the fallen leaves, preventing nutrient loss. No nutrient is lost; all is recycled back into the soil. This is the perfect fertilizer program.
+When leaves fall from persimmon trees, the best nutrient for persimmons is its own leaves. If rye seeds are broadcast before harvesting, they sprout and catch the fallen leaves, preventing nutrient loss. No nutrient is lost; all is recycled back into the soil. This is the perfect [[jadam-fertilizer-program-design]].
 
 ## See Also
 
 - [[jadam-cover-crop-method]] -- cover crops to trap and process crop residues
-- [[jadam-liquid-fertilizer]] -- supplementary liquid fertilizers
-- [[jadam-cover-crop-method]] for JADAM's recommended rotation sequences.
+- [[jadam-liquid-fertilizer]] -- supplementary [[solomon-liquid-fertilizers-and-foliar-feeding]]
 - **Root residues:** Often overlooked, root systems can contribute 30-50% of total plant biomass. [[jadam-microorganism-solution-jms]] spray:** Apply diluted JMS (1:500 ratio) directly to crop residues before or immediately after incorporation. The microbial consortium in JMS includes cellulose-degrading bacteria, lignin-degrading fungi, and nitrogen-fixing bacteria that work synergistically to break down complex plant compounds.
 2. **[[soil-food-web-nutrient-cycling]] and releases stored carbon), JADAM encourages surface placement with biological inoculation. Over time, residues decompose in place, creating a natural mulch layer that suppresses weeds, moderates soil temperature, and feeds the soil food web from the surface down.
 
-This approach contrasts with conventional plow-down methods and even some organic approaches that rely on thorough incorporation. JADAM's [[jadam-cover-crop-method]] to plant the next crop directly into decomposing residue.
-- **Winter cover crop termination:** Roll or crimp cover crops at flowering stage for effective kill without herbicides. Apply JMS to accelerate decomposition of the terminated cover crop biomass.
+- **Winter cover crop termination:** Roll or crimp cover crops at [[cannabis-flowering-stage-management]] for effective kill without herbicides. Apply JMS to accelerate decomposition of the terminated cover crop biomass.
 
 For the full context of how crop residues fit into JADAM's ultra-low-cost approach, see [[jadam-ultra-low-cost-agriculture]] and jadam crop residue fertilizer for how nutrients cycle through the JADAM system.
+
 ## Merged: JADAM Mineral Leaching in Agriculture
 
 # JADAM Mineral Leaching in Agriculture

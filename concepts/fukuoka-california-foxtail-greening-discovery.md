@@ -1,5 +1,5 @@
 ---
-title: Fukuoka California Foxtail Grass Greening Discovery
+title: Fukuoka fukuoka california foxtail greening discovery Grass Greening Discovery
 created: 2026-04-28
 tags: [fukuoka, california, desert-greening, pasture-management, grasses, ecology]
 date: 2026-04-25
@@ -12,7 +12,7 @@ type: concept
 
 During his 1979 visit to California, Masanobu Fukuoka made a pivotal
 discovery about summer-dormant grasses that would shape his approach to
-desert greening and vegetation restoration. The insight came while
+[[fukuoka-desert-greening-plant-irrigation]] and vegetation restoration. The insight came while
 working with young people at a commune in the Upper Lake hills, where
 a solid cover of yellow foxtail grass presented a seemingly
 insurmountable obstacle to cultivation.
@@ -21,7 +21,7 @@ insurmountable obstacle to cultivation.
 
 While in California, Fukuoka spent one week in the primeval forest at
 French Meadow. Here, dressed in a navy blue jinbei, he spoke happily
-and at times passionately about natural farming and the principle that
+and at times passionately about [[comparison-natural-farming-vs-permaculture]] and the principle that
 all is unnecessary to a group of over one hundred people, with towering
 trees and rocks at his back. He was deeply moved by a farewell campfire
 held for him on his last evening at the camp.
@@ -90,10 +90,10 @@ in American trees, suggesting a transcontinental environmental crisis.
 The foxtail grass discovery had far-reaching implications for Fukuoka's
 desert greening philosophy. If summer-dormant grasses in California
 could be awakened, similar principles might apply to other seemingly
-barren landscapes around the world. The approach would emphasize:
+barren landscapes [[fungi-around-the-world-species-distribution]]. The approach would emphasize:
 
 1. Understanding the existing ecology rather than imposing a new one
-2. Working with dormant vegetation and seed banks already present
+2. Working with dormant vegetation and [[cannabis-seed-banks-and-genetics]] already present
 3. Using natural succession processes to restore vegetation
 4. Recognizing that apparent barrenness may mask latent biological
    potential

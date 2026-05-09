@@ -11,16 +11,17 @@ categories:
   - psychiatry
   - psychedelic-research
 tags: [profile]
-sources: []
+sources:
+  - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 ---
 
 # Humphry Osmond
 
-**Humphry Fortescue Osmond** (1 July 1917 – 6 February 2004) was a British-born psychiatrist best known for coining the term "psychedelic," his pioneering research into the therapeutic potential of mescaline and LSD, his work at Weyburn Hospital in Saskatchewan, Canada, and his enduring friendship with the author Aldous Huxley. He was a foundational figure in the first wave of modern psychedelic psychiatry, and his contributions have experienced a significant renaissance in the 21st century as clinical psychedelic research has resumed worldwide.
+**Humphry Fortescue Osmond** (1 July 1917 – 6 February 2004) was a British-born psychiatrist best known for coining the term "psychedelic," his pioneering research into the therapeutic potential of mescaline and LSD, his work at Weyburn Hospital in Saskatchewan, Canada, and his enduring friendship with the author Aldous Huxley. He was a foundational figure in the first wave of modern psychedelic psychiatry, and his contributions have experienced a significant renaissance in the 21st century as clinical [[mckenna-suppression-psychedelic-research-lsd-therapy]] has resumed worldwide.
 
 ## Early Life and Education
 
-Osmond was born on 1 July 1917 in Surrey, England. He attended Guilford School and subsequently studied at Guy's Hospital Medical School in London, qualifying as a physician (MB BS) in 1942. During World War II, he served as a ship's medical officer in the Royal Navy, an experience that broadened his perspective on human psychology under extreme stress and exposed him to diverse cultural attitudes toward altered states of consciousness.
+Osmond was born on 1 July 1917 in Surrey, England. He attended Guilford School and subsequently studied at Guy's Hospital Medical School in London, qualifying as a physician (MB BS) in 1942. During World War II, he served as a ship's medical officer in the Royal Navy, an experience that broadened his perspective on human psychology under extreme stress and exposed him to diverse [[weil-cultural-attitudes-toward-altered-states]] toward [[weil-the-natural-mind-altered-states-normalcy]] of consciousness.
 
 After the war, he trained in psychiatry at St George's Hospital in London, where he developed a keen interest in the biochemical basis of mental illness — a relatively new and controversial field at the time, as most psychiatric practice still relied heavily on psychoanalytic and behavioral models. At St George's, Osmond distinguished himself as a thinker willing to challenge orthodoxy. He was part of a generation of British psychiatrists who began to suspect that severe mental illnesses had organic, biochemical origins rather than being purely psychological in nature.
 
@@ -38,7 +39,7 @@ In 1951, Osmond accepted an invitation from Dr. Abram Hoffer to join the psychia
 
 Osmond became the hospital's clinical director and, together with Hoffer, established one of the most productive and unconventional psychiatric research units in the world. Over the next decade, they conducted pioneering studies on the effects of hallucinogenic drugs on both healthy volunteers and patients diagnosed with schizophrenia. They administered LSD to over 2,000 patients and published extensively on their findings.
 
-Osmond and Hoffer developed the concept of "psychedelic therapy" — using LSD in controlled, supportive settings to facilitate insight and psychological change in patients with alcoholism and other conditions. The Saskatchewan programme was remarkable for its interdisciplinary approach, combining biochemistry, clinical psychiatry, and psychological assessment. Osmond and Hoffer reported significant improvement rates in alcoholic patients treated with LSD, with some studies claiming that 40–50% of patients remained sober after a single psychedelic session.
+Osmond and Hoffer developed the concept of "[[metzner-psycholytic-psychedelic-therapy-models]]" — using LSD in controlled, supportive settings to facilitate insight and psychological change in patients with alcoholism and other conditions. The Saskatchewan programme was remarkable for its interdisciplinary approach, combining biochemistry, clinical psychiatry, and psychological assessment. Osmond and Hoffer reported significant improvement rates in alcoholic patients treated with LSD, with some studies claiming that 40–50% of patients remained sober after a single psychedelic session.
 
 These results, while debated, laid the groundwork for modern psychedelic-assisted therapy and anticipated many of the therapeutic protocols now being tested in contemporary clinical trials. Their work attracted international attention and drew visiting researchers from around the world, establishing Saskatchewan as a global hub for psychedelic science during the 1950s and early 1960s.
 
@@ -85,7 +86,7 @@ Throughout his career, Osmond worked with a number of influential figures:
 
 ## Influence on Modern Psychedelic Research
 
-The resurgence of psychedelic research in the 2010s and 2020s has brought renewed attention to Osmond's pioneering work. The therapeutic model he and Hoffer developed at Weyburn — combining a psychedelic substance with a supportive therapeutic environment, careful preparation, and follow-up integration — closely parallels the protocols now being used in Phase II and Phase III clinical trials at leading research institutions. The concept of set and setting, often attributed to Timothy Leary, was in fact operationalized by Osmond and his colleagues at Weyburn years before Leary's Harvard experiments.
+The resurgence of psychedelic research in the 2010s and 2020s has brought renewed attention to Osmond's pioneering work. The therapeutic model he and Hoffer developed at Weyburn — combining a psychedelic substance with a supportive therapeutic environment, careful preparation, and follow-up integration — closely parallels the protocols now being used in Phase II and Phase III clinical trials at leading research institutions. The concept of [[lsd-set-and-setting-framework]], often attributed to Timothy Leary, was in fact operationalized by Osmond and his colleagues at Weyburn years before Leary's Harvard experiments.
 
 Osmond's insistence that psychedelic experiences could produce genuine therapeutic insight — rather than merely simulating psychosis — has been vindicated by modern neuroimaging studies showing that substances like psilocybin and LSD promote neural plasticity, reduce activity in the default mode network, and enhance emotional processing.
 
@@ -106,7 +107,7 @@ Osmond was a prolific writer. His major works include:
 
 ## Legacy
 
-Humphry Osmond died on 6 February 2004 in Appleton, Wisconsin, at the age of 86. His contributions have experienced a significant renaissance in the 21st century as clinical research into psychedelic-assisted therapy has resumed at institutions including Johns Hopkins, Imperial College London, and MAPS. Modern researchers cite Osmond's work at Weyburn as foundational to the therapeutic paradigm now being validated in clinical trials for PTSD, depression, end-of-life anxiety, and substance use disorders.
+Humphry Osmond died on 6 February 2004 in Appleton, Wisconsin, at the age of 86. His contributions have experienced a significant renaissance in the 21st century as [[hofmann-lsd-clinical-research-early-studies]] into psychedelic-assisted therapy has resumed at institutions including Johns Hopkins, Imperial College London, and MAPS. Modern researchers cite Osmond's work at Weyburn as foundational to the therapeutic paradigm now being validated in clinical trials for PTSD, depression, end-of-life anxiety, and substance use disorders.
 
 Osmond's coinage of "psychedelic" remains the most widely used term for this class of substances. His partnership with Hoffer in Saskatchewan is recognized as one of the most productive periods in the history of psychiatric research. The Weyburn Hospital research programme has been the subject of documentaries, books, and academic retrospectives. The Esplanade Arts and Heritage Centre in Estevan, Saskatchewan, mounted a major exhibition on the Weyburn research in 2006.
 

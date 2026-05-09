@@ -22,7 +22,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/bigwood-beug-variation-of-psilocybin-and-
 - **Genus:** Psilocybe
 - **Species:** P. heterophyllia
 
-The species epithet "heterophyllia" refers to the variable or heterogeneous nature of the gill (phyllia) structure, which can show somewhat irregular spacing and form. The species was described by Rolf Singer during his extensive mycological work in South America. Its taxonomic placement within the genus has been revised with modern molecular phylogenetic studies, and it is currently associated with tropical Psilocybe lineages, though its precise sectional placement remains uncertain pending further molecular analysis.
+The species epithet "heterophyllia" refers to the variable or heterogeneous nature of the gill (phyllia) structure, which can show somewhat irregular spacing and form. The species was described by [[rolf-singer]] during his extensive mycological work in South America. Its taxonomic placement within the genus has been revised with modern molecular phylogenetic studies, and it is currently associated with tropical Psilocybe lineages, though its precise sectional placement remains uncertain pending further molecular analysis.
 
 ## Description
 
@@ -61,7 +61,7 @@ The species epithet "heterophyllia" refers to the variable or heterogeneous natu
 - Basidiospores 9 to 12 by 5.5 to 7.5 µm
 - Ellipsoid to slightly amygdaliform in face view
 - Thick-walled with a distinct germ pore, visible under oil immersion
-- Spore print dark brown to dark purplish-brown
+- [[spore-print]] dark brown to dark purplish-brown
 
 ### Microscopic Features
 - Cheilocystidia ventricose to cylindrical, sometimes with a slight median constriction
@@ -80,7 +80,7 @@ The species is found in humid forest environments, including cloud forests, trop
 
 psilocybe heterophyllia contains [[psilocin]] as its primary psychoactive alkaloids. Analytical data is limited but indicates detectable levels of these compounds consistent with other tropical Psilocybe species. The tryptamine content of forest-floor Psilocybe species tends to be more variable than that of dung-inhabiting or wood-chip species, reflecting the more complex and heterogeneous nutrient environment of forest litter.
 
-Factors including the composition of the leaf litter, associated microbial communities, canopy cover affecting light and humidity, and microclimate conditions all influence alkaloid biosynthesis in psilocybe heterophyllia. Minor tryptamine alkaloids including baeocystin and norbaeocystin have been detected in related tropical forest species and are presumed present in P. heterophyllia as well.
+Factors including the composition of the leaf litter, associated [[soil-edaphic-factors-microbial-communities]], canopy cover affecting light and humidity, and microclimate conditions all influence alkaloid biosynthesis in psilocybe heterophyllia. Minor tryptamine alkaloids including [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]] have been detected in related tropical forest species and are presumed present in P. heterophyllia as well.
 
 ## Similar Species
 
@@ -89,7 +89,7 @@ psilocybe heterophyllia may be confused with several forest-inhabiting Psilocybe
 - **[[psilocybe-hoogshagenii]]** — Larger overall with a more prominent annulus and distinctive apical rostrum on cheilocystidia; typically found in more open habitats
 - **[[psilocybe-wassonii]]** — Mexican high-altitude pine forests; different habitat and elevation range
 
-Accurate identification requires microscopic examination, particularly of spore dimensions and cystidial morphology. DNA barcoding of the ITS region is recommended for definitive identification where facilities are available.
+Accurate identification requires [[fungal-microscopic-examination-mounting-media-techniques]], particularly of spore dimensions and cystidial morphology. DNA barcoding of the ITS region is recommended for definitive identification where facilities are available.
 
 ## Ecological Role
 
@@ -111,7 +111,7 @@ The species' association with humid forest floors suggests sensitivity to moistu
 
 ## Research Needs
 
-psilocybe heterophyllia has received minimal scientific attention since its original description. Modern molecular phylogenetic analysis would help clarify its relationships within the genus and potentially reveal cryptic diversity within what is currently recognized as a single species. Additional field collections, detailed morphological studies, and chemical analyses are needed to better characterize its distribution, ecology, and alkaloid profile. The species merits attention as part of the broader effort to document fungal biodiversity in tropical forests facing increasing environmental pressure.
+psilocybe heterophyllia has received minimal scientific attention since its original description. Modern molecular phylogenetic analysis would help clarify its relationships within the genus and potentially reveal cryptic diversity within what is currently recognized as a single species. Additional field collections, detailed morphological studies, and chemical analyses are needed to better characterize its distribution, ecology, and alkaloid profile. The species merits attention as part of the broader effort to document [[fungal-biodiversity]] in tropical forests facing increasing environmental pressure.
 
 ## Legal Status
 

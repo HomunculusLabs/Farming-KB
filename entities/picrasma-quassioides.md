@@ -126,7 +126,7 @@ Clinical trials remain limited to in vitro and animal studies.
 P. quassioides has several applications in designed ecosystems. The wood
 and bark can be processed into natural insecticides and antifeedants for
 crop protection, offering an alternative to synthetic pesticides. The
-bitter extracts deter herbivorous insects without harming beneficial
+bitter extracts [[det|det]]er herbivorous insects without harming beneficial
 pollinators.
 
 As a nitrogen-fixing associate and soil-stabilizing tree, it contributes
@@ -134,5 +134,5 @@ to slope stabilization and riparian buffer zones. The dense canopy
 provides shade for understory crops, and the autumn leaf fall contributes
 ## See Also
 
-- [[mollison-native-seed-forage-systems-and-arid-species-lists]]
+- mollison-native-seed-forage-systems-and-arid-species-lists
 - [[teaming-with-microbes-old-growth-forest]]

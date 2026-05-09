@@ -22,10 +22,10 @@ sources:
 
 ## Overview
 
-Anadenanthera colubrina is a mimosa-like tree native to South America that has
+Anadenanthera colubrina is a mimosa-like tree native to [[guzman-psilocybin-mushrooms-south-america]] that has
 played a central role in the shamanic and ceremonial practices of indigenous
 peoples across the southern continent for millennia. Its seeds, rich in
-tryptamine alkaloids, are ground into a potent snuff known as Cebil or Vilca,
+[[hplc-analysis-of-tryptamine-alkaloids]], are ground into a potent snuff known as Cebil or Vilca,
 making it one of the most significant hallucinogenic plants of the New World.
 
 ## Taxonomy
@@ -58,7 +58,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -95,9 +95,8 @@ advance the field as a whole. Cross-pollination of ideas from biology,
 ecology, data science, and traditional knowledge systems generates novel
 perspectives and solutions that may not emerge within any single domain.
 
-For continued learning, recommended resources include current research
+For continued learning, recommended resources include [[psychedelic-therapy-current-research]]
 publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

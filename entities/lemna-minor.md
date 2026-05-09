@@ -15,7 +15,7 @@ sources:
   - "Leng, R.A. et al. (1995). \"Duckweed — a potential high-protein feed resource for domestic animals and fish.\" Livestock Research for Rural Development, 7(1), 1-9."
   - "Ziegler, P. et al. (2015). \"The duckweeds (Lemnaceae): a model system for studying plant development.\" Frontiers in Plant Science, 6, 290."
   - "Appenroth, K.J. et al. (2018). \"Duckweed: we can do more with less.\" In: Functional Plant Biology, CSIRO Publishing."
-  - "Søndergaard, M. (2017). \"Duckweed (Lemna minor) as a tool for testing toxicity and nutrient availability.\" Ecotoxicology, 26(4), 536-546."
+  - "Søndergaard, M. (2017). \"Duckweed (Lemna minor) as a tool for testing toxicity and [[ph-and-nutrient-availability-garden-soils]].\" Ecotoxicology, 26(4), 536-546."
 ---
 
 # Lemna minor
@@ -24,9 +24,9 @@ sources:
 
 Lemna minor (common duckweed) is a free-floating aquatic plant in the family Araceae, subfamily Lemnoideae. It forms extensive green mats on the surface of still or slow-moving freshwater bodies worldwide, making it one of the most widespread and recognizable aquatic plants on Earth.
 
-L. minor is among the fastest-growing flowering plants, capable of doubling its biomass in 2–4 days under optimal conditions. This explosive growth rate has attracted interest in duckweed as a protein-rich animal feed, phytoremediation agent for wastewater treatment, and potential biofuel feedstock.
+L. minor is among the fastest-growing flowering plants, capable of doubling its biomass in 2–4 days under optimal conditions. This explosive growth rate has attracted interest in duckweed as a protein-rich animal feed, phytoremediation agent for [[mollison-designers-wastewater-treatment-wetlands]], and potential biofuel feedstock.
 
-Despite its diminutive size (fronds 1–8 mm), duckweed plays outsized ecological roles in nutrient cycling, habitat provision, and water quality regulation. It is increasingly studied as a model organism in plant biology due to its simplified body plan, rapid life cycle, and minimal space requirements for cultivation.
+Despite its diminutive size (fronds 1–8 mm), duckweed plays outsized ecological [[dighton-fungal-roles-in-nutrient-cycling]] cycling, habitat provision, and water quality regulation. It is increasingly studied as a model organism in plant biology due to its simplified body plan, rapid life cycle, and minimal space requirements for cultivation.
 
 ## Taxonomy and Morphology
 
@@ -63,7 +63,7 @@ Salinity tolerance is limited to EC levels below 2 dS/m, restricting growth to f
 
 Duckweed mats provide habitat for microinvertebrates, amphibian larvae, and small fish. They moderate water temperature by reducing surface evaporation and insulate against temperature fluctuations.
 
-Excessive growth can form dense mats exceeding 5 cm thickness, reducing light penetration and dissolved oxygen levels below the surface. This eutrophication indicator species paradoxically both reflects and contributes to water quality degradation when overabundant.
+Excessive growth can form dense mats exceeding 5 cm thickness, reducing light penetration and [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] levels below the surface. This eutrophication indicator species paradoxically both reflects and contributes to water quality degradation when overabundant.
 
 Duckweed is an important food source for waterfowl, including mallards, teals, and swans. Herbivorous fish species including grass carp and tilapia readily consume duckweed fronds. The plant also supports diverse epiphytic microbial communities on its lower surfaces, contributing to nutrient mineralization.
 
@@ -83,7 +83,7 @@ Duckweed fronds are nutritionally remarkable for their protein content relative 
 
 Protein quality is high, with favorable essential amino acid profiles compared to soybean meal. Lysine and methionine levels are adequate for most non-ruminant species.
 
-**Secondary metabolites:** L. minor accumulates phenolic compounds including flavonoids (luteolin, apigenin derivatives), phenolic acids (caffeic, chlorogenic, ferulic acid), and tannins at concentrations of 1–5% dry weight. These compounds contribute antioxidant capacity but may limit digestibility at high inclusion rates.
+**[[antifungal-secondary-metabolites-coprophilous-fungi]]:** L. minor accumulates phenolic compounds including flavonoids (luteolin, apigenin derivatives), phenolic acids (caffeic, chlorogenic, ferulic acid), and tannins at concentrations of 1–5% dry weight. These compounds contribute antioxidant capacity but may limit digestibility at high inclusion rates.
 
 **Heavy metal accumulation:** Duckweed bioaccumulates heavy metals from contaminated water, including lead, cadmium, arsenic, and chromium. This makes it an effective phytoremediation agent but necessitates careful sourcing when used as animal feed. Bioaccumulation factors vary by metal and exposure concentration, with lead showing the highest accumulation potential.
 
@@ -93,7 +93,7 @@ The starch content of duckweed fronds increases significantly under nitrogen or 
 
 ## Permaculture and Applications
 
-**Wastewater treatment:** L. minor is extensively used in constructed wetlands and duckweed ponds for municipal and agricultural wastewater treatment. Under optimal conditions, a single hectare of duckweed pond can remove 1,000–2,000 kg of nitrogen and 150–400 kg of phosphorus annually from wastewater.
+**Wastewater treatment:** L. minor is extensively used in [[comparison-constructed-wetlands-vs-bioswales]] and duckweed ponds for municipal and agricultural wastewater treatment. Under optimal conditions, a single hectare of duckweed pond can remove 1,000–2,000 kg of nitrogen and 150–400 kg of phosphorus annually from wastewater.
 
 **Animal feed production:** Harvested duckweed can substitute 20–40% of conventional protein in poultry, swine, and aquaculture rations. Tilapia and carp grow well on duckweed-based diets, achieving feed conversion ratios of 1.5–2.0:1.
 
@@ -109,8 +109,11 @@ Genomic studies have revealed that L. minor possesses one of the smallest known 
 
 ## See Also
 
+- [[fontinalis-antipyretica]]
+- [[scirpus-tabernaemontani]]
+
 - [[nasturtium-officinale]] — Watercress, edible aquatic plant
 - [[portulaca-oleracea]] — Purslane, another fast-growing nutritional plant
-- [[glycine-max-soybean-permaculture]] — Soybean, protein crop for comparison
+- [[glycine-max]] — Soybean, protein crop for comparison
 - [[aloe-vera]] — Aloe vera, another medicinal plant with topical applications
 - [[lotus-corniculatus]] — Birdsfoot trefoil, leguminous forage alternative

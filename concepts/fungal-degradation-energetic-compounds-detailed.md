@@ -1,34 +1,14 @@
 ---
-title: Fungal Degradation Energetic Compounds Detailed
+title: Fungal fungal degradation energetic compounds detailed Compounds Detailed
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Degradation of Energetic Compounds (Explosives)
+# Fungal Degradation of Energetic Compounds (Explosives) Energetic compounds -- primarily nitroaromatic and nitramine explosives -- represent some of the most persistent and toxic contaminants at military sites worldwide. Fungi, particularly white-rot basidiomycetes, offer unique enzymatic capabilities for degrading these recalcitrant molecules. ## The Contamination Problem Military explosives contamination affects sites globally, with residues persisting from World War II and the Korean conflict through to present-day training ranges. Key contaminants include: - **TNT (2,4,6-trinitrotoluene)**: The most widely used military explosive, with estimated worldwide production of 10 to the 8th power kg per year - **RDX (Royal Demolition eXplosive, cyclotrimethylenetrinitramine)**: A major component of many munitions - **HMX (High Melting eXplosive)**: Used in detonators and plastic explosives - **Dinitrotoluenes**: Byproducts of TNT manufacturing - **Nitroguanidine**: An ingredient in triple-base propellants These compounds resist degradation because increasing nitro-substitution renders the aromatic ring electron-deficient, preventing it from acting as a substrate for electrophilic oxygenation mechanisms that bacteria typically use. ## Why Fungi for Explosive Degradation? The interest in fungal degradation of energetic compounds stems from several unique capabilities: - Non-specific [[white-rot-fungi-bioremediation]] produce enzymes designed to attack recalcitrant aromatic structures
 
-Energetic compounds -- primarily nitroaromatic and nitramine explosives -- represent some of the most persistent and toxic contaminants at military sites worldwide. Fungi, particularly white-rot basidiomycetes, offer unique enzymatic capabilities for degrading these recalcitrant molecules.
-
-## The Contamination Problem
-
-Military explosives contamination affects sites globally, with residues persisting from World War II and the Korean conflict through to present-day training ranges. Key contaminants include:
-
-- **TNT (2,4,6-trinitrotoluene)**: The most widely used military explosive, with estimated worldwide production of 10 to the 8th power kg per year
-- **RDX (Royal Demolition eXplosive, cyclotrimethylenetrinitramine)**: A major component of many munitions
-- **HMX (High Melting eXplosive)**: Used in detonators and plastic explosives
-- **Dinitrotoluenes**: Byproducts of TNT manufacturing
-- **Nitroguanidine**: An ingredient in triple-base propellants
-
-These compounds resist degradation because increasing nitro-substitution renders the aromatic ring electron-deficient, preventing it from acting as a substrate for electrophilic oxygenation mechanisms that bacteria typically use.
-
-## Why Fungi for Explosive Degradation?
-
-The interest in fungal degradation of energetic compounds stems from several unique capabilities:
-
-- Non-specific [[white-rot-fungi-bioremediation]] produce enzymes designed to attack recalcitrant aromatic structures
-
-The non-specific lignin-degrading enzymes of Phanerochaete chrysosporium can catalyze the oxidation of many xenobiotic compounds, making them candidates for degrading hazardous organonitro explosives.
+The non-specific lignin-degrading enzymes of [[staycare-phanerochaete-chrysosporium-in-bioremediation]] can catalyze the oxidation of many xenobiotic compounds, making them candidates for degrading hazardous organonitro explosives.
 
 ## TNT Degradation by Phanerochaete chrysosporium
 
@@ -40,7 +20,7 @@ The most extensively studied system is TNT degradation by P. chrysosporium:
 - TNT is inhibitory to spore germination at concentrations greater than 5 ppm
 - The well-characterized pathway involves nitro group reduction, oxidation, and aromatic ring cleavage
 
-See [[mycoremediation-of-explosives]] for field applications.
+See mycoremediation-of-explosives for field applications.
 
 ## RDX Degradation
 
@@ -48,20 +28,21 @@ RDX presents different challenges from TNT. While less studied than TNT degradat
 
 ## HMX and Nitroguanidine
 
-HMX and nitroguanidine have received less research attention than TNT and RDX, but the same ligninolytic enzyme systems that attack nitroaromatics are expected to contribute to their transformation. Their higher chemical stability and lower water solubility make them particularly challenging targets for biological remediation.
+HMX and nitroguanidine have received less research attention than TNT and RDX, but the same ligninolytic enzyme systems that attack nitroaromatics are expected to contribute to their transformation. Their higher chemical stability and lower water solubility make them particularly challenging targets for [[combined-biological-remediation-approaches]].
 
 ## Mechanisms of Fungal Explosive Degradation
 
 Fungi employ several mechanisms for degrading energetic compounds:
 
 1. **Reductive transformation**: Nitro groups are reduced to amino groups, decreasing toxicity but not necessarily achieving complete mineralization
-2. **Oxidative degradation**: Lignin peroxidase and manganese peroxidase oxidize the aromatic ring, leading to cleavage
-3. **Conjugation and immobilization**: Fungal [[mycoremediation-scale-up-challenges]] and [[fungal-biodegradation-of-synthetic-pollutants]] covers broader xenobiotic degradation
-- [[fungal-bioaugmentation-inoculation]] addresses delivery of fungal inocula to contaminated sites
-- [[mycoremediation-of-explosives]]
+2. **Oxidative degradation**: [[fungal-lignin-peroxidase-veratryl-alcohol]] and [[fungal-manganese-peroxidase-remediation]] oxidize the aromatic ring, leading to cleavage
+3. **Conjugation and immobilization**: Fungal mycoremediation-scale-up-challenges and fungal-biodegradation-of-synthetic-pollutants covers broader xenobiotic degradation
+- [[fungal-bioaugmentation-inoculation]] addresses [[formulation-and-delivery-of-fungal-inocula]] inocula to contaminated sites
+- mycoremediation-of-explosives
 - [[mycorrhizal-pah-tnt-degradation]]
 - [[fungal-cytochrome-p450-biodegradation]]
 - [[enzymatic-degradation-in-mycoremediation]]
+
 ## Practical Considerations
 
 Successful implementation of Fungal Degradation Energetic Compounds Detailed requires attention to
@@ -80,4 +61,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

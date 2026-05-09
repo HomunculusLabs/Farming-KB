@@ -42,7 +42,7 @@ practically the whole plant.
 
 Substances with unusual physiological and psychic effects are found
 only in certain special plants. These substances have very different
-chemical structures from those of the usual vegetal constituents and
+[[plants-of-the-gods-chemical-structures-hallucinogens]] from those of the usual vegetal constituents and
 common metabolic products. Most psychoactive principles in sacred
 plants contain nitrogen, and it has been suggested that they may be
 waste products of metabolism -- like uric acid in animals. Many
@@ -82,9 +82,9 @@ content of active principles and interference from other constituents.
 The contribution of chemists to the study of sacred plant drugs is
 illustrated by the Mexican Magic Mushrooms. Ethnologists found
 Indian tribes in southern Mexico using mushrooms in religious
-ceremonies. Mycologists identified the mushrooms. Chemical analyses
+ceremonies. Mycologists identified the mushrooms. [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]]
 showed which species were psychoactive. Albert Hofmann tested one
-species (*Psilocybe mexicana*) on himself, confirmed its psychoactivity,
+species (*[[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]*) on himself, confirmed its psychoactivity,
 discovered it could be grown under laboratory conditions, and isolated
 two active compounds: psilocybine and psilocine, obtained as
 colorless crystals.

@@ -39,13 +39,13 @@ The species is an autogamous (self-pollinating) annual, though outcrossing rates
 
 Tarwi is native to the Andean highlands of Peru, Bolivia, and Ecuador, where it grows at elevations between 2,000 and 3,800 meters. Its center of diversity lies in the Lake Titicaca basin, spanning the Peru-Bolivia border.
 
-The species is adapted to cool tropical highland climates with mean annual temperatures of 8–16°C and annual rainfall of 350–1,000 mm. It tolerates frost, poor soils, and moderate drought better than most grain legumes.
+The species is adapted to cool tropical highland climates with mean annual temperatures of 8–16°C and annual rainfall of 350–1,000 mm. It tolerates frost, poor soils, and moderate drought better than most [[query-best-grain-legumes-for-a-small-homestead]].
 
 Outside the Andes, tarwi has been trialed in Europe (particularly Germany, Poland, and the UK), East Africa, and New Zealand. European interest has focused on its potential as a high-protein alternative to soybean for cool-climate regions.
 
 ## Cultivation
 
-Tarwi is direct-seeded at rates of 80–120 kg per hectare with row spacing of 40–60 cm. In traditional Andean systems, it is intercropped with quinoa, potatoes, or cereals at low densities.
+Tarwi is direct-seeded at rates of 80–120 kg per hectare with [[wide-row-spacing-intensive-gardening-comparison]] of 40–60 cm. In traditional Andean systems, it is intercropped with quinoa, potatoes, or cereals at low densities.
 
 The crop requires 150–200 days from sowing to maturity at high altitudes. At lower elevations (below 2,000 m), the growth cycle shortens to 100–140 days, though yields may decline due to heat sensitivity.
 
@@ -65,13 +65,13 @@ The seeds are also rich in minerals, particularly calcium, phosphorus, magnesium
 
 ## Ecology and Applications
 
-As a legume, tarwi fixes atmospheric nitrogen through symbiosis with *Bradyrhizobium* bacteria. Nitrogen fixation rates of 100–200 kg N per hectare have been reported, making it an excellent green manure and rotation crop.
+As a legume, tarwi fixes atmospheric nitrogen through symbiosis with *Bradyrhizobium* bacteria. [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] rates of 100–200 kg N per hectare have been reported, making it an excellent green manure and rotation crop.
 
 In traditional Andean agriculture, tarwi is valued as a pre-crop for nitrogen-demanding cereals like maize. Farmers observe that soil fertility improves noticeably after tarwi cultivation, reducing the need for external inputs.
 
 The deep taproot system improves soil structure and accesses nutrients from subsoil layers unavailable to shallow-rooted crops. This makes tarwi useful in soil rehabilitation and conservation agriculture.
 
-In permaculture design, tarwi fits into high-altitude food forests and temperate-zone legume guilds. Its nitrogen fixation, protein production, and adaptability to marginal conditions make it a versatile component of sustainable food systems.
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], tarwi fits into high-altitude food forests and temperate-zone legume guilds. Its nitrogen fixation, protein production, and adaptability to marginal conditions make it a versatile component of sustainable food systems.
 
 Sweet (low-alkaloid) varieties developed in Europe enable direct use of seeds without debittering, opening commercial markets for tarwi flour, protein isolates, and plant-based food products.
 
@@ -79,9 +79,9 @@ Sweet (low-alkaloid) varieties developed in Europe enable direct use of seeds wi
 
 Tarwi is generally considered pest-resistant compared to other grain legumes, largely due to its quinolizidine alkaloid content which deters many herbivores and pathogens. Sweet varieties with reduced alkaloid levels may be more susceptible.
 
-The lupin aphid (*Macrosiphum albifrons*) can colonize plants and transmit viral diseases. It was first reported in South America in the 2010s and is monitored as a potential emerging threat to Andean cultivation.
+The lupin aphid (*Macrosiphum albifrons*) can colonize plants and transmit [[cervantes-viral-diseases-cannabis]]. It was first reported in South America in the 2010s and is monitored as a potential emerging threat to Andean cultivation.
 
-Anthracnose caused by *Colletotrichum lupini* is the most serious fungal disease of lupins globally. While less prevalent in the Andes than in European lupin-growing regions, it poses a risk as sweet varieties are introduced.
+Anthracnose caused by *Colletotrichum lupini* is the most serious [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] of lupins globally. While less prevalent in the Andes than in European lupin-growing regions, it poses a risk as sweet varieties are introduced.
 
 Root rot caused by *Fusarium* and *Rhizoctonia* species can reduce stands in waterlogged soils. Proper drainage and crop rotation are the primary management strategies.
 
@@ -103,7 +103,7 @@ Archaeological evidence suggests tarwi was consumed alongside quinoa and kiwicha
 
 ## See Also
 
-- [[lupinus-albus]]
+- lupinus-albus
 - [[pisum-sativum]]
 - [[glycine-max]]
 - [[mucuna-pruriens]]

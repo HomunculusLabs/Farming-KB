@@ -1,16 +1,17 @@
 ---
-title: Earthbag Construction vs Cob Construction
+title: comparison earthbag construction vs cob construction vs comparison-cob-construction-vs-straw-bale-construction
 created: 2026-04-28
 tags: [natural-building, earth-building, homesteading, permaculture]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
 # Earthbag Construction vs Cob Construction
 
-Both [[cob-building]] are affordable, earth-based [[permaculture]] values of cooperation and mutual aid.
+Both [[cob-building]] are affordable, earth-based permaculture values of cooperation and mutual aid.
 
 ## Structural Performance
 
@@ -28,13 +29,13 @@ Both [[cob-building]] are affordable, earth-based [[permaculture]] values of coo
 
 Both methods produce walls with excellent thermal mass (approximately R-1 per inch). A 24-inch earthbag wall and a 24-inch cob wall provide similar thermal lag of 8-12 hours, moderating indoor temperatures effectively. Neither method provides strong insulation without additional strategies.
 
-For cold climates, earthbag offers a meaningful advantage: bags can be filled with lightweight volcanic scoria or perlite for an insulated variant achieving R-2+ per inch. Some builders use a dual-wall system with scoria-filled exterior bags for insulation and earth-filled interior bags for thermal mass. Cob requires separate insulated wall systems (straw bale, light straw clay) on north-facing walls in cold climates, as there is no insulated cob variant.
+For cold climates, earthbag offers a meaningful advantage: bags can be filled with lightweight volcanic scoria or perlite for an insulated variant achieving R-2+ per inch. Some builders use a dual-wall system with scoria-filled exterior bags for insulation and earth-filled interior bags for thermal mass. Cob requires separate insulated wall systems ([[comparison-hempcrete-vs-straw-bale-construction]], [[comparison-light-straw-clay-vs-hempcrete]] clay) on north-facing walls in cold climates, as there is no insulated cob variant.
 
 In hot climates with large diurnal temperature swings, both methods excel. The thermal mass absorbs daytime heat and releases it at night, keeping interiors comfortable without mechanical cooling. This makes both methods particularly well-suited to desert and Mediterranean climates.
 
 ## Design Freedom and Aesthetics
 
-Cob is unmatched among earth building methods for sculptural expression. Because the material is applied as a wet plastic mass, builders can create curves, niches, built-in furniture, shelves, bread ovens, rounded corners, relief carvings, and organic forms directly in the wall structure. This makes cob buildings among the most visually distinctive and personally expressive of all [[comparison-earthbag-vs-cob-construction]]
+Cob is unmatched among [[mollison-designers-earth-building-cob-adobe-rammed-earth]] methods for sculptural expression. Because the material is applied as a wet plastic mass, builders can create curves, niches, built-in furniture, shelves, bread ovens, rounded corners, relief carvings, and organic forms directly in the wall structure. This makes cob buildings among the most visually distinctive and personally expressive of all [[comparison-earthbag-vs-cob-construction]]
 
 - [[natural-building]]
 - [[adobe-construction]]
@@ -56,7 +57,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -98,4 +99,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

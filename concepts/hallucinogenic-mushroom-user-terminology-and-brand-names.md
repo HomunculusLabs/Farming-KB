@@ -1,5 +1,5 @@
 ---
-title: "Hallucinogenic Mushroom User Terminology and Brand Names"
+title: "emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative User Terminology and Brand Names"
 created: 2026-04-28
 tags:
   - terminology
@@ -10,7 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - EMCDDA Thematic Paper: Hallucinogenic Mushrooms, An Emerging Trend Case Study (2006)
+  - EMCDDA Thematic Paper: emcdda-hallucinogenic-mushrooms-emerging-trend-europe, An Emerging Trend Case Study (2006)
 type: concept
 ---
 
@@ -28,8 +28,8 @@ Hallucinogenic mushrooms are most widely known by the colloquial name "magic mus
 - **Mush** and **Mushies** - informal shortened forms
 - **Boomers** - a popular slang term, likely derived from the boom in popularity
 - **Psilocybes** - referring to the predominant genus containing psychoactive species
-- **Cubes** - short for Psilocybe cubensis, the most commonly cultivated species
-- **Liberty Caps** - referring specifically to Psilocybe semilanceata, the most common wild European species
+- **Cubes** - short for [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]], the most commonly cultivated species
+- **Liberty Caps** - referring specifically to [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]], the most common wild European species
 - **Caps** - a general term referencing the cap of the mushroom
 - **Philosopher's Stone** - used to describe sclerotia of certain species, notably Psilocybe mexicana
 - **Sacred Mushrooms** - a term emphasizing the spiritual and ceremonial associations
@@ -77,7 +77,7 @@ With the commercialisation of hallucinogenic mushrooms by smartshops beginning i
 - **Philosopher's Stone** - marketed as a premium product, describing the sclerotia of Psilocybe mexicana sold by many smartshops as a truffle like product
 - **Herbal Highs** - a general marketing label used by retailers following the trend in the late 1990s toward preference for organic and herbal products
 - **Herbal XTC** - a marketing label for products containing stimulant herbs such as Ephedra alkaloids, Sida Cordifolia, Guarana, and Caffeine
-- **Mexican, Thai, Colombian, Amazonian** - variety names for Psilocybe cubensis strains marketed by smartshops, reflecting their geographic origins
+- **Mexican, Thai, Colombian, Amazonian** - variety names for Psilocybe [[psilocybe-cubensis-strains-names-and-marketing]] marketed by smartshops, reflecting their geographic origins
 
 ## Aztec Terminology
 
@@ -97,7 +97,7 @@ The evolution of terminology around hallucinogenic mushrooms reflects several im
 
 The late 1990s saw the emergence of the "herbal high" as a distinct marketing category in smartshops. This term served several strategic purposes for retailers:
 
-- **Natural association** - Positioning hallucinogenic mushrooms alongside herbal teas and natural remedies
+- **Natural association** - Positioning hallucinogenic [[query-how-can-i-grow-mushrooms-alongside-garden-vegetables]] herbal teas and natural remedies
 - **Legal distinction** - Implies a product category separate from illegal synthetic drugs
 - **Consumer appeal** - Taps into broader consumer trends favouring natural and organic products
 - **Risk minimisation** - Suggests gentler effects compared to synthetic alternatives
@@ -122,4 +122,7 @@ These dynamics are particularly relevant for hallucinogenic mushrooms, where the
 
 ## See Also
 
-- [[emcdda-hallucinogenic-mushroom-brand-names-and-user-terminology]]
+- emcdda-hallucinogenic-mushroom-brand-names-and-user-terminology
+- [[psilocybe-mexicana]]
+- [[sida-cordifolia]]
+- [[psilocybe-semilanceata]]

@@ -11,7 +11,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Miller, R.O. (1955). "A revision of the Ashes of eastern North America." Rhodora, 57(677), 69-95.
+  - Miller, R.O. (1955). "A revision of the Ashes of polypore-fungi-eastern-north-america America." Rhodora, 57(677), 69-95.
   - Cappert, D. et al. (2005). "Emerald ash borer in North America: a research and regulatory challenge." Journal of Forestry, 103(6), 298-304.
   - Kennedy, H.E. (1990). "Fraxinus pennsylvanica Marsh." In: Silvics of North America, Vol. 2, USDA Forest Service.
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics of North America: Hardwoods." USDA Agriculture Handbook 654.
@@ -39,7 +39,7 @@ Leaves are opposite, pinnately compound, 20–35 cm long, with 5–9 (typically 
 
 Twigs are slender, gray-brown, with semicircular leaf scars and flat or slightly raised bud scars. Unlike F. americana (white ash), green ash twigs are typically pubescent in the first year.
 
-Flowers are dioecious, appearing before the leaves in early spring. Male flowers are in compact clusters, female flowers in loose panicles; both are purple and inconspicuous.
+Flowers are dioecious, appearing before the leaves in [[coleman-overwintered-onions-and-early-spring-crops]]. Male flowers are in compact clusters, female flowers in loose panicles; both are purple and inconspicuous.
 
 Fruit is a samara 2.5–5 cm long, with a flattened wing extending from the base to near the seed apex. Samaras ripen from late summer to fall and are dispersed primarily by wind.
 
@@ -75,7 +75,7 @@ The species is an important nectar source for specialist bees in the genus Andre
 
 Green ash wood is hard, heavy, and relatively shock-resistant, with a Janka hardness rating of approximately 1,200 lbf. It is used for tool handles, baseball bats, furniture, flooring, and crates.
 
-The species has been one of the most widely planted shade trees in the United States and Canada. Its tolerance of urban conditions, including drought, compacted soils, and road salt, made it a standard street and park tree.
+The species has been one of the most widely planted shade trees in the [[dmt-containing-plants-united-states-halpern]] and Canada. Its tolerance of urban conditions, including drought, compacted soils, and road salt, made it a standard street and park tree.
 
 In the Plains states, green ash was extensively planted in shelterbelts and windbreaks during the Prairie States Forestry Project of the 1930s. Millions of ash trees were established across the Great Plains for soil conservation.
 
@@ -83,19 +83,27 @@ Green ash is also used in ecological restoration and mine reclamation projects. 
 
 ## Threats and Conservation
 
-The emerald ash borer (EAB) has caused catastrophic mortality of F. pennsylvanica across its range since its detection near Detroit, Michigan in 2002. Mortality approaches 99% in infested stands, making EAB one of the most destructive forest pests in North American history.
+The emerald ash borer (EAB) has caused catastrophic mortality of F. pennsylvanica across its range since its detection near Detroit, Michigan in 2002. Mortality approaches 99% in infested stands, making EAB one of the most destructive forest pests in [[growing-gourmet-north-american-reishi-species]] history.
 
-Biocontrol programs have released three species of parasitoid wasps (Tetrastichus planipennisi, Oobius agrili, Spathius agrili) targeting EAB. Results have been mixed, with parasitism rates varying significantly by region and stand conditions.
+Biocontrol programs have released three species of [[comparison-parasitoid-wasps-vs-chemical-pesticides]] (Tetrastichus planipennisi, Oobius agrili, Spathius agrili) targeting EAB. Results have been mixed, with parasitism rates varying significantly by region and stand conditions.
 
 Some individual green ash trees have shown apparent tolerance or resistance to EAB, exhibiting reduced canopy dieback and sustained growth in heavily infested areas. These "lingering ash" are the focus of breeding programs aimed at developing EAB-resistant cultivars.
 
 The species is not currently listed as threatened or endangered due to its vast pre-EAB range and abundance. However, the near-complete elimination of mature ash from forests across the eastern United States represents one of the largest impacts of any invasive species on North American forest composition.
 
-Economic impacts of EAB on urban forests alone are estimated in the billions of dollars, considering tree removal costs, replacement planting, and lost ecosystem services. The species that replace ash in the canopy are typically less valuable for timber and wildlife.
+Economic impacts of EAB on urban forests alone are estimated in the billions of dollars, considering tree removal costs, replacement planting, and lost [[biodiversity-of-fungi-ecosystem-services-agriculture]]. The species that replace ash in the canopy are typically less valuable for timber and wildlife.
 
 Research into systemic insecticides has shown promise for protecting individual high-value landscape trees. Trunk injection of emamectin benzoate can provide up to 2–3 years of protection per treatment, but this approach is not feasible at landscape or forest scales.
 
 ## See Also
+
+- [[fraxinus-americana]]
+
+- [[syringa-reticulata]]
+
+- [[forsythia-viridissima]]
+
+- [[fraxinus-ornus]]
 
 - [[forsythia-suspensa]]
 - [[jasminum-officinale]]

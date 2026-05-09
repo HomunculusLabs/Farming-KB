@@ -21,7 +21,7 @@ sacraments in the United States. The legal status of these practices
 involves complex intersections of federal drug law, religious freedom
 protections, treaty obligations to indigenous peoples, and
 constitutional equal protection questions. The two principal categories
-are peyote use by the [[keewaydinoquay-native-american-mushroom-traditions]] (NAC) is the largest Native American
+are peyote use by the keewaydinoquay-native-american-mushroom-traditions (NAC) is the largest [[halpern-sacramental-peyote-and-native-american-church]]
 faith, with approximately 300,000 members in the United States and
 Canada. It is pan-tribal. Peyote ceremonies are the central
 sacrament, typically held on Saturdays and holidays in a tipi under
@@ -47,7 +47,7 @@ Indian Affairs have clear exemption from peyote possession laws for
 traditional NAC ceremonial use. This protection derives not from the
 First Amendment but from the federal government's treaty obligation to
 uphold traditions of recognized indigenous peoples with limited
-sovereignty. The 1994 Amendments to the American Indian Religious
+sovereignty. The 1994 Amendments to the [[harner-american-indian-peyote-rituals]] Religious
 Freedom Act explicitly protect Native Americans who traditionally use
 peyote and other sacred items like eagle feathers.
 
@@ -63,13 +63,13 @@ the NAC maintains cooperative relations with the DEA.
 In 2000, the DEA redrafted regulations by deleting all mention of the
 NAC, purportedly to align with the 1994 Religious Freedom Act amendments.
 The revisions were also motivated by preventing groups like the UDV
-and santo daime from claiming equal protection exemptions. The
+and [[metzner-brazilian-ayahuasca-churches-structural-comparison-santo-daime-udv-barquinha]] from claiming equal protection exemptions. The
 unintended consequence was delegitimizing peyote use within longstanding
 gray zones, splitting Native families across racial lines. No other
 legally recognized faith in the US is subject to such government
 intrusion into membership decisions.
 
-## Brazilian Ayahuasca Religions
+## Brazilian [[ayahuasca]] Religions
 
 Two Brazilian religions syncretizing Christianity with indigenous
 ayahuasca practices have expanded into the US. Both have no racial
@@ -86,7 +86,7 @@ appeal was accepted for review by the full 10th Circuit Court of Appeals.
 
 ### Santo Daime
 
-In November 2000, the Oregon Board of Pharmacy issued the santo daime a religious exemption from state narcotics control, ruling that
+In November 2000, the Oregon Board of Pharmacy issued the santo daime a religious exemption from state [[japan-narcotics-control-law-psilocybin-fungi-2002]], ruling that
 "sacramental use of the Santo Daime tea in the context of a bona fide
 religious ceremony does not constitute abuse of a controlled substance."
 
@@ -120,14 +120,14 @@ quietly expanded into Europe, the US, and elsewhere.
 
 A pilot survey of 15 male UDV members in Brazil found no adverse
 health consequences from ayahuasca use. Members assert it assisted
-recovery from alcohol and drug addiction. South American indigenous
+recovery from alcohol and drug addiction. [[chiric-caspi-brunfelsia-south-american-hallucinogen]] indigenous
 peoples have a several-thousand-year history of safe use.
 
 ## Summary
 
 The legal landscape for sacramental psychedelic plant use is defined
 by two models: the NAC's treaty-based, ethnically restricted peyote
-exemption, and Brazilian ayahuasca religions' claims based on
+exemption, and [[metzner-barquinha-umbanda-and-afro-brazilian-ayahuasca-syncretism]] religions' claims based on
 general religious freedom. The DEA's regulatory tightening reflects
 concern about precedents extending to broader populations. As UDV
 litigation progresses, the fundamental question is whether the US legal
@@ -137,7 +137,7 @@ Native American policy.
 
 - [[plants-of-the-gods-overview-hallucinogenic-plant-use]]
 
-- [[keewaydinoquay-native-american-mushroom-traditions]]
+- keewaydinoquay-native-american-mushroom-traditions
 
 ## See Also
 

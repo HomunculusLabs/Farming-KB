@@ -69,7 +69,7 @@ The Spanish name "culebra borrachera" combines "culebra" (snake) with
 Spanish and indigenous names may refer to the plant's association with
 shamanic practices involving serpentine symbolism, a common motif in
 Amazonian and Andean cosmology. Snakes are frequently associated with
-healing, transformation, and the spirit world in indigenous South American
+healing, transformation, and the spirit world in indigenous [[chiric-caspi-brunfelsia-south-american-hallucinogen]]
 cultures.
 
 The term "borrachera" is widely used throughout South America to refer to
@@ -127,7 +127,7 @@ medicine men who cultivate the trees.
 
 Methysticodendron amesianum occupies a position alongside the tree daturas
 (genus Datura, sometimes segregated as Brugmansia) as one of the most
-potent New World hallucinogenic plants of the nightshade family. Both
+potent New [[old-world-hallucinogenic-plants-overview]] plants of the nightshade family. Both
 produce deliriant effects through tropane alkaloids, and both are
 cultivated and carefully managed by indigenous peoples in the northern
 Andes. However, the exceptional scopolamine content of Methysticodendron

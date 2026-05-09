@@ -28,7 +28,7 @@ St. John's wort should generally be avoided by patients taking any of these medi
 
 CYP2D6 metabolizes approximately 25% of all drugs, including many antidepressants, antipsychotics, beta-blockers, and opioid analgesics (codeine, tramadol, oxycodone). Goldenseal (Hydrastis canadensis) may inhibit CYP2D6, potentially increasing blood levels of drugs metabolized by this enzyme.
 
-This interaction is clinically relevant for codeine, which requires CYP2D6-mediated conversion to morphine for analgesic effect. CYP2D6 inhibition could paradoxically reduce codeine effectiveness by blocking its activation. Conversely, CYP2D6 inhibition could increase the blood levels and adverse effects of drugs where the parent compound is the active form.
+This interaction is clinically relevant for codeine, which requires CYP2D6-mediated conversion to morphine for analgesic effect. CYP2D6 inhibition could paradoxically reduce codeine effectiveness by blocking its activation. Conversely, CYP2D6 inhibition could increase the blood levels and [[blesching-cannabis-safety-adverse-effects-evidence]] of drugs where the parent compound is the active form.
 
 ### CYP1A2 Interactions
 
@@ -52,9 +52,9 @@ Patients on anticoagulant therapy should inform their healthcare providers about
 
 Herbs with sedative, anxiolytic, or hypnotic properties can have additive effects with pharmaceutical sedatives, anxiolytics, and other CNS depressants, potentially causing excessive drowsiness, impaired coordination, or respiratory depression.
 
-Valerian (Valeriana officinalis) enhances GABAergic neurotransmission similarly to benzodiazepines and may have additive sedative effects. Kava (Piper methysticum) has anxiolytic properties through GABA receptor modulation and may interact with benzodiazepines and barbiturates. Passionflower (Passiflora incarnata) has mild sedative effects that may be additive with pharmaceutical sedatives.
+Valerian (Valeriana officinalis) enhances GABAergic neurotransmission similarly to benzodiazepines and may have additive sedative effects. Kava ([[plants-of-the-gods-piper-methysticum-kava]]) has anxiolytic properties through GABA receptor modulation and may interact with benzodiazepines and barbiturates. Passionflower (Passiflora incarnata) has mild sedative effects that may be additive with pharmaceutical sedatives.
 
-Chamomile (Matricaria recutita) contains apigenin, a mild benzodiazepine receptor ligand, and may have additive sedative effects at high doses. California poppy (Eschscholzia californica) has mild sedative and anxiolytic properties. Lemon balm (Melissa officinalis) has mild sedative effects through GABA transaminase inhibition.
+Chamomile (Matricaria recutita) contains apigenin, a mild benzodiazepine receptor ligand, and may have additive sedative effects at high doses. California poppy (Eschscholzia californica) has mild sedative and anxiolytic properties. [[comparison-lemon-balm-vs-passionflower]] (Melissa officinalis) has mild sedative effects through GABA transaminase inhibition.
 
 ### Cardiovascular Interactions
 
@@ -78,7 +78,7 @@ Acidic herbs or preparations may affect the dissolution and absorption of pH-dep
 
 Elderly patients are at increased risk for herb-drug interactions due to polypharmacy (multiple concurrent medications), age-related changes in drug metabolism and clearance, and increased sensitivity to adverse effects. Patients with liver or kidney impairment may have reduced ability to metabolize and eliminate both herbs and drugs, increasing the risk of accumulation and toxicity.
 
-Pregnant and nursing women should exercise particular caution with herb-drug interactions, as both herbs and drugs may cross the placenta or be excreted in breast milk. See [[herbal-medicine-safety]] — general herbal safety guidelines
+Pregnant and nursing women should exercise particular caution with herb-drug interactions, as both herbs and drugs may cross the placenta or be excreted in breast milk. See [[herbal-medicine-safety]] — general herbal [[psychedelic-safety-guidelines-turner]]
 - [[herbal-materia-medica]] — individual herb safety profiles
 - [[herbal-medicine-preparation-methods]] — safe preparation practices
 - [[cannabis-safety-profile-and-overdose-risk]]

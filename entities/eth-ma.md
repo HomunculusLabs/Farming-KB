@@ -21,7 +21,7 @@ created: 2026-05-07
 
 **Eth-Ma** (N-ethyl-N-methyltryptamine) is a synthetic psychedelic tryptamine and a lesser-known analogue from the Shulgin catalog.
 
-It appears as entry #52 in TIHKAL (*Tryptamines I Have Known and Loved*), where Alexander Shulgin reports a threshold-level psychedelic experience at a 15 mg oral dose.
+It appears as entry #52 in TIHKAL (*Tryptamines I Have Known and Loved*), where Alexander Shulgin reports a threshold-level [[leary-psychedelic-experience-bardo-mapping]] at a 15 mg oral dose.
 
 The compound is structurally positioned between DMT (N,N-dimethyltryptamine) and Eth-MiPT, sharing the N-ethyl substituent with several pharmacologically active tryptamines.
 
@@ -56,7 +56,7 @@ N-substituent size significantly modulates receptor selectivity; the N-ethyl/N-m
 
 Metabolism is presumed to proceed via monoamine oxidase (MAO-A) oxidation of the terminal nitrogen, similar to other simple tryptamines.
 
-The N-ethyl group may confer partial MAO resistance compared to DMT, potentially contributing to oral activity.
+The N-ethyl group may confer partial MAO resistance compared to DMT, potentially contributing to [[tihkal-oral-activity-mao-inhibition]].
 
 ## Effects
 
@@ -68,7 +68,7 @@ The experience is characterized by mild visual distortion, enhanced color percep
 
 Body load is reported as minimal, with some users noting a pleasant physical lightness or tingling sensation.
 
-Compared to DMT, the effects are significantly less intense and more drawn out, with reduced visual complexity and less profound ego dissolution.
+Compared to DMT, the effects are significantly less intense and more drawn out, with reduced visual complexity and less profound [[psilocybin-ego-dissolution-mechanisms]].
 
 Self-reports from the broader community describe the compound as a gentle, introspective psychedelic with entactogen-like qualities at moderate doses.
 
@@ -92,9 +92,9 @@ Starting materials are commercially available, though distribution is controlled
 
 Eth-Ma is not specifically scheduled in most countries due to its obscurity and limited history of recreational use.
 
-In the United States, it may fall under the Federal Analogue Act as a positional isomer of a Schedule I substance, depending on intent.
+In the [[dmt-containing-plants-united-states-halpern]], it may fall under the Federal Analogue Act as a positional isomer of a Schedule I substance, depending on intent.
 
-The compound is controlled in the United Kingdom under the Psychoactive Substances Act 2016.
+The compound is controlled in the United Kingdom under the Psychoactive [[controlled-substances-act-and-psychedelic-research]] 2016.
 
 Many EU countries apply generic tryptamine analogue controls that would encompass Eth-Ma.
 
@@ -108,7 +108,7 @@ Many EU countries apply generic tryptamine analogue controls that would encompas
 
 The Eth-Ma scaffold has not been extensively explored in medicinal chemistry programs, though N-alkyl tryptamine analogues continue to attract interest as potential antidepressants and anxiolytics.
 
-Several pharmaceutical companies have investigated 5-HT2A partial agonists in the tryptamine class for treatment-resistant depression, though Eth-Ma itself has not entered clinical trials.
+Several pharmaceutical companies have investigated 5-HT2A partial agonists in the tryptamine class for treatment-resistant depression, though Eth-Ma itself has not entered [[mushroom-cancer-clinical-trials-overview]].
 
 ## See Also
 

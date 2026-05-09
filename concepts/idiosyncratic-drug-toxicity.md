@@ -12,7 +12,7 @@ sources: []
 Idiosyncratic drug toxicity is an adverse reaction that occurs in only a small subset of
 exposed patients and is not simply an extension of the drug's intended pharmacology.
 It is often called type B toxicity because it is unusual, delayed, patient-specific, and
-difficult to predict from ordinary dose response testing.
+difficult to predict from ordinary [[microwave-sterilization-dose-response-microbial-kill-curves]] testing.
 The liver, skin, and blood-forming tissues are frequent targets, but idiosyncratic
 reactions can affect almost any organ system.
 The concept is central to drug development because rare severe events may appear only
@@ -67,7 +67,7 @@ Adaptive immunity usually requires a first signal from antigen recognition and a
 signal from activated antigen-presenting cells.
 The danger hypothesis explains why silent cellular stress can convert a drug-protein
 adduct into a true immune problem.
-Mitochondrial stress, bile acid transporter inhibition, oxidative stress, or
+Mitochondrial stress, bile acid transporter inhibition, [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], or
 endoplasmic-reticulum stress can release damage-associated molecular patterns.
 These signals activate dendritic cells through pattern-recognition receptors and create
 cytokine conditions that allow drug-specific T cells to expand.

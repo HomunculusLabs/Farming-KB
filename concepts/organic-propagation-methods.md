@@ -1,5 +1,5 @@
 ---
-title: Organic Propagation Methods
+title: Organic vegetative-propagation-methods-mollison
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -14,8 +14,8 @@ Plant propagation is the process of creating new plants from existing ones. Unde
 ## Seed Sowing
 
 ### Direct Sowing Outdoors
-- Best for: root vegetables (carrots, parsnips, radishes), peas, beans, corn, squash
-- Advantages: No transplant shock, less equipment needed
+- Best for: [[growing-root-vegetables-guide]] (carrots, parsnips, radishes), peas, beans, corn, squash
+- Advantages: No [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]], less equipment needed
 - Timing: After last frost for tender crops; as soon as soil is workable for hardy crops
 
 ### Indoor Sowing (Module/Tray Method)
@@ -86,7 +86,7 @@ Plant propagation is the process of creating new plants from existing ones. Unde
 ## Grafting
 
 ### Purpose
-- Combine rootstock (disease-resistant, adapted to soil) with scion (desired fruit variety)
+- Combine rootstock (disease-resistant, adapted to soil) with scion (desired [[old-fruit-variety-selection]])
 - Essential for: most fruit trees, roses, grapes
 - Required for: apples, pears (most dwarfing), citrus
 
@@ -99,11 +99,11 @@ Plant propagation is the process of creating new plants from existing ones. Unde
 ### Bud Grafting (Late Summer)
 - Single bud from scion grafted onto rootstock
 - T-bud or chip bud method
-- High success rate
+- High [[maitake-fruiting-body-success-rate-management]]
 - Most common commercial method for fruit trees
 
 ## Related
-- [[cannabis-cloning-and-mother-plants]] — for cannabis cloning
+- [[cannabis-cloning-and-mother-plants]] — for [[comparison-cannabis-cloning-vs-seed-starting-indoors]]
 - [[fruit-tree-varieties]] — for fruit tree selection
 
 - [[organic-lawn-care-hamilton]]

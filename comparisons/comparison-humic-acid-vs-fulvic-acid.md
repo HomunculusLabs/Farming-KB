@@ -5,13 +5,13 @@ tags: [comparison, soil-biology, organic-fertilizer, compost]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 type: comparison
 ---
 # Humic Acid vs Fulvic Acid
 ## Overview
 Humic acid and fulvic acid are the two primary fractions of humic
-substances, the stable organic matter that gives healthy soils their
+substances, the stable [[hamilton-composting-and-organic-matter-management]] that gives healthy soils their
 dark color and nutrient-holding capacity. Though they originate from
 the same decomposition processes and are often found together in
 natural deposits and compost, they differ significantly in molecular
@@ -20,8 +20,8 @@ and plant systems. Understanding these differences is essential for
 applying the right amendment to the right situation for maximum
 benefit.
 ## Humic Acid
-[[compost-tea-brewing]], humic acid is the most selective fungal
-food available, shifting the microbial community toward fungal
+[[compost-tea-brewing]], humic acid is the most [[ethanol-pasteurization-selective-fungal-isolation]]
+food available, shifting the [[edaphic-factors-microbial-community-structure]] toward fungal
 dominance desirable for perennial plantings, orchards, and forest
 gardens. Fungi use humic acid as a carbon source while building
 hyphal networks that extend the effective root zone of plants.
@@ -35,7 +35,7 @@ source. Humic acids require functioning fungal populations and are
 insoluble in acidic conditions below pH 2.
 ## Fulvic Acid
 [[cation-exchange-capacity]], or fungal
-dominance in compost tea. Humic acid is the right amendment for
+dominance in [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]]. Humic acid is the right amendment for
 building permanent soil fertility in perennial systems, orchards,
 and pastures where cumulative effects over multiple seasons
 provide lasting benefit. Apply it as a soil amendment during bed
@@ -43,14 +43,14 @@ preparation, as a compost tea ingredient, or as a top-dressing
 around established perennial plantings.
 ## When to Choose Fulvic Acid
 Choose fulvic acid when you need rapid nutrient delivery,
-micronutrient correction, or foliar feeding support. Fulvic acid
+micronutrient correction, or [[comparison-foliar-feeding-vs-vermicompost-tea]] support. Fulvic acid
 is ideal for correcting visible deficiency symptoms in annual
 crops, enhancing hydroponic nutrient solutions, and boosting
 compost tea microbial activity. Its versatility in both soil and
 foliar applications makes it the more flexible tool for acute
 interventions.
 ## Combined Application
-Many commercial products contain both humic and fulvic acid
+Many commercial products contain both [[teaming-with-microbes-humic-and-fulvic-acids]] acid
 fractions, and this combination is often the most practical
 approach. On-farm compost tea extractions naturally provide both
 fractions along with living microorganisms. A quality aerobic
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

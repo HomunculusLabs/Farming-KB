@@ -1,5 +1,5 @@
 ---
-title: "How Do You Make Effective Microorganisms (EM) for Agriculture"
+title: "How Do You Make query how do you make effective microorganisms em for agriculture (EM) for Agriculture"
 created: 2026-04-28
 tags: [query, soil-biology, fermentation, biofertilizer, microorganisms]
 date: 2026-04-25
@@ -11,9 +11,9 @@ type: query
 # How Do You Make Effective Microorganisms (EM) for Agriculture
 
 ## Short Answer
-[[indigenous-microorganisms-imo|indigenous microorganism (IMO)]] collection methods from Korean Natural Farming or
+[[indigenous-microorganisms-imo|indigenous microorganism (IMO)]] collection methods from Korean [[comparison-natural-farming-vs-permaculture]] or
 [[effective-microorganisms-em|EM formulation]] contains three main groups
-of organisms: lactic acid bacteria such as [[indigenous-microorganisms-imo|IMO from Korean Natural Farming]] offers
+of organisms: lactic [[lactic-acid-bacteria-knf]] such as [[indigenous-microorganisms-imo|IMO from Korean Natural Farming]] offers
 an excellent alternative. The IMO method, detailed in resources on
 [[comparison-jadam-vs-imo-microorganism-solutions|comparison between JADAM and IMO methods]] can help growers choose the approach that best
 fits their situation.
@@ -22,7 +22,7 @@ The [[jadam-sulfur-js|JADAM sulfur]] to suppress unwanted microbes.
 The [[fermented-plant-extract-fpe|fermented plant extract (FPE)]] brewing as
 an inoculant. The
 [[hamilton-soil-biology-and-microorganisms|soil biology research]] is
-that feeding existing soil microbes through organic matter and root
+that feeding existing soil microbes through [[hamilton-composting-and-organic-matter-management]] and root
 exudates is often more effective than adding new organisms.
 
 ## Key Points
@@ -109,3 +109,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[comparison-bokashi-vs-effective-microorganisms]]

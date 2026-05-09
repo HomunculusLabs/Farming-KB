@@ -1,5 +1,5 @@
 ---
-title: "TMA-6 (2,4,6-TRIMETHOXYAMPHETAMINE) -- PIHKAL Entry #162"
+title: "TMA-6 (2,4,6-TRIMETHOXYAMPHETAMINE) -- 2c-b-pihkal-entry-20 #162"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -73,7 +73,7 @@ PIHKAL entry #162. 2,4,6-TRIMETHOXYAMPHETAMINE.
 > said, 'alteration of consciousness, but no visual, no anything,' and
 > oh my, surprise! It was very, very active, visual, colorful, etc.,
 > etc. Good talking, clear and steady control of body, despite intense
-> energy flow. Extremely funny Q great humor, wonderful laughter.
+> [[savory-energy-flow-and-solar-capture]]. Extremely funny Q great humor, wonderful laughter.
 ## Extensions and Commentary
 Here is a simple and easily made compound
 that might well bid fair to be one of the most rewarding and
@@ -110,7 +110,7 @@ from phloroglucinol? This simply reflects a valid paranoia of our
 times. Today the aldehyde is available (at $2/g) and can be easily
 purchased. But tomorrow? What about in the year 2003? Who can tell
 what will, or will not, be easily available then? There might be a
-world-wide acknowledgment that the "war on drugs" is more destructive
+world-wide acknowledgment that the "[[cervantes-war-on-drugs-statistics]]" is more destructive
 than any drug itself could ever be, and every law that had been
 written in the attempt to dictate human behavior will have been
 transformed into a force that truly educates and allows choice. This
@@ -121,7 +121,7 @@ market price for the aldehyde might be $1000/g with another $1000 for
 protection.
 But, it will be impossible to remove phloroglucinol from availability.
 It is available as a natural component in the free form, in sources as
-diverse as the cones of the Sequoia sempervirens (the coast redwood
+diverse as the cones of the [[sequoia-sempervirens]] (the coast redwood
 tree) and species of Camillia (that provides the leaves of our morning
 tea). And combined with a molecule of glucose in the form of its
 glucoside, it is called phlorin, and it is present in the discarded

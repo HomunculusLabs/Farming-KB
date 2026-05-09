@@ -1,10 +1,11 @@
 ---
-title: "How do I keep goats on a permaculture homestead?"
+title: "How do I query how do i keep goats on a permaculture homestead on a permaculture homestead?"
 created: 2026-04-28
 tags: [query, livestock, permaculture, goats]
 date: 2026-05-02
 updated: 2026-05-02
 sources:
+  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: query
 ---
@@ -33,7 +34,7 @@ The goal is controlled impact, not continuous access.
 
 ### Protect trees, gardens, and infrastructure
 
-Goats can be helpful around woody edges, but they can also ring-bark young fruit trees quickly.
+Goats can be helpful around woody edges, but they can also ring-bark young [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] quickly.
 Orchards need guards, exclusion zones, or very short supervised browsing windows.
 [[goat-husbandry-detailed-guide]] provides the kind of basic care framework that beginners should study first.
 Local veterinary support matters because parasites, minerals, and diseases vary by region.
@@ -47,8 +48,8 @@ Goats overlap with sheep, cattle, pigs, and poultry, but they are not interchang
 [[comparison-cattle-husbandry-vs-goat-husbandry]] helps clarify scale, infrastructure, and forage differences.
 Goats are often better for brush and small-scale dairy than cattle.
 Sheep may be better for grass-dominant pasture.
-Poultry may be better for insect control and garden fertility cycling.
-A good permaculture design chooses animals by function rather than by charm.
+Poultry may be better for [[mushroom-pests-insect-control-stamets]] and garden fertility cycling.
+A good [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] chooses animals by function rather than by charm.
 
 ## Key Points
 - Use [[goat-husbandry]] before buying animals, not after problems appear.
@@ -72,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

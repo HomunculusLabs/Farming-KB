@@ -1,5 +1,5 @@
 ---
-title: "Pluteus salicinus"
+title: "gartz-pluteus-salicinus-wood-inhabiting-psilocybin"
 created: 2026-04-28
 updated: 2026-04-28
 type: species
@@ -12,7 +12,7 @@ tags:
 sources:
   - Gartz, J. (1996). "Distribution and psilocybin content of Pluteus salicinus." Mycological Research, 100(7), 803-804.
   - Allen, J.W. & Gartz, J. (2001). "New observations on the psychoactive mushroom Pluteus salicinus." Eleusis, 6, 25-31.
-  - Stamets, P. (1996). Psilocybin Mushrooms of the World. Ten Speed Press.
+  - Stamets, P. (1996). [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World. Ten Speed Press.
   - Guzmán, G. (2005). "Species diversity of the genus Psilocybe (Fr.) P. Kumm. in the world mycobiota." International Journal of Medicinal Mushrooms, 7(3), 305-312.
 ---
 
@@ -65,7 +65,7 @@ North American specimens analyzed by Allen and Gartz (2001) showed slightly high
 
 The biosynthetic pathway for psilocybin in *Pluteus* is presumed identical to that in *Psilocybe*, involving the enzymes PsiD, PsiK, PsiM, and PsiH, though this has not been experimentally confirmed in *Pluteus* species.
 
-The bluing reaction characteristic of psilocybin-containing fungi is often weak or absent in *P. salicinus*, making field identification of psychoactivity unreliable. Chemical analysis is required to confirm the presence of tryptamine alkaloids in any given collection.
+The bluing reaction characteristic of psilocybin-containing fungi is often weak or absent in *P. salicinus*, making field identification of psychoactivity unreliable. [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] is required to confirm the presence of tryptamine alkaloids in any given collection.
 
 Pharmacologically, the effects are consistent with 5-HT2A receptor agonism by psilocin, the active metabolite. Subjective effects at typical doses are mild to moderate compared to other psilocybin mushrooms, likely reflecting the lower alkaloid content.
 
@@ -79,7 +79,7 @@ Onset occurs within 30–60 minutes after oral ingestion, with effects lasting 3
 
 Field identification of *P. salicinus* is challenging due to its small size, drab coloration, and similarity to non-psychoactive *Pluteus* species. The free pink gills distinguish *Pluteus* from most other genera, but separating *P. salicinus* from *P. cervinus* requires close attention to cap color and habitat.
 
-Unlike many psilocybin mushrooms, *P. salicinus* does not reliably exhibit blue bruising on the stipe or cap when handled. This absence of bluing should not be used to rule out psychoactivity. Microscopic examination of cheilocystidia and spore morphology provides definitive identification.
+Unlike many psilocybin mushrooms, *P. salicinus* does not reliably exhibit blue bruising on the stipe or cap when handled. This absence of bluing should not be used to rule out psychoactivity. [[fungal-microscopic-examination-mounting-media-techniques]] of cheilocystidia and spore morphology provides definitive identification.
 
 Collectors should be aware that several *Pluteus* species grow in similar habitats. Positive identification requires mature specimens with developed spore color and microscopic confirmation.
 
@@ -99,9 +99,9 @@ Several *Pluteus* species are morphologically similar and lack psychoactive prop
 
 Hobby cultivators have reported successful fruiting on pasteurized hardwood sawdust supplemented with bran, with incubation at 22–25°C and fruiting triggered by reduced temperature and increased fresh air exchange. Yields are low compared to *P. cubensis*.
 
-The mycelium is white to greyish, relatively slow-growing on agar media. Optimal spawn substrates include rye grain or millet. Colonization of supplemented sawdust blocks typically takes 3–4 weeks at 24°C.
+The mycelium is white to greyish, relatively slow-growing on agar media. Optimal spawn substrates include rye grain or millet. Colonization of [[oyster-mushroom-supplemented-sawdust-blocks]] blocks typically takes 3–4 weeks at 24°C.
 
-Fruiting requires high humidity (90–95%) and moderate temperatures (16–20°C). Light is necessary for normal fruiting body development. Biological efficiency is estimated at 20–40% based on limited hobby grow data.
+Fruiting requires high humidity (90–95%) and moderate temperatures (16–20°C). Light is necessary for normal fruiting body development. [[stamets-biological-efficiency-yield]] is estimated at 20–40% based on limited hobby grow data.
 
 No named cultivars or commercial strains exist. Spore collections are maintained by a few specialty mycology suppliers and private collectors.
 

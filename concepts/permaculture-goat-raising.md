@@ -1,17 +1,18 @@
 ---
-title: Permaculture Goat Raising
+title: permaculture Goat Raising
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [[permaculture, design]
-sources: []
+tags: [permaculture, design]
+sources:
+  sources: []
 ---
 # [[permaculture-design]] system. They are kept primarily for milk and meat production.
 ## Role in the System
 Goats clear the toughest unwanted vegetation and can be temporarily used by penning them or tying them with a halter, moving them from place to place. However, they can be so destructive that keeping more than one goat per family member is unnecessary. If using lactating goats to clear pasture, supplement with grain to maintain milk production.
 ## Housing and Fencing
 - Fence at least 4.5 feet (1.4 meters) high
-- Quarter acre (0.1 hectare) per goat
+- [[fukuoka-agriculture-tomorrow-quarter-acre-vision]] (0.1 hectare) per goat
 - Wrap trees with chicken wire to prevent bark stripping
 - No gaps wider than 8 inches (20 cm); if goats can't see through, they won't try to escape
 - Goats can unlock standard latches with their tongue -- padlocks may be necessary
@@ -38,7 +39,7 @@ An average doe produces about 3 quarts of milk per day (1.5 quarts goes to kids,
 Goats are generally hardy animals, but they are susceptible to several conditions that require regular monitoring and preventive care.
 Vaccination essentials:
 - CD-T vaccine (Clostridium perfringens types C and D plus tetanus): give to all goats annually; especially critical for kids
-- Pneumonia vaccine: recommended in herds with respiratory disease history or in wet, [[permaculture-cattle-raising]]
+- Pneumonia vaccine: recommended in herds with respiratory disease history or in wet, permaculture-cattle-raising
 ## Practical Considerations
 
 When working with Permaculture Goat Raising, several practical factors should be
@@ -55,7 +56,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -98,3 +99,7 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- permaculture-rabbit-raising
+- [[permaculture-composting]]

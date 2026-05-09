@@ -66,7 +66,7 @@ nothing but delusion.
 
 ## The Scientist's Defense and Its Failure
 
-The scientist argues that through repeated inductive experimentation and
+The scientist argues that through repeated [[fukuoka-textdoc-intuitive-reasoning-vs-inductive-experimentation]] and
 reasoning, man has resolved all things into patterns of association and
 interaction. The proof lies in the airplanes, automobiles, and trappings of
 modern civilization. But if, on taking a better look at this modern

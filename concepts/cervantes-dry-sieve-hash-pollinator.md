@@ -1,11 +1,12 @@
 ---
-title: Dry Sieve Hash and the Pollinator
+title: cervantes dry sieve hash pollinator Hash and the Pollinator
 type: concept
 created: 2026-04-25
 type: concept
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 tags: [cannabis, hash, extraction, dry-sieve, kief]
 ---
 
@@ -14,7 +15,7 @@ tags: [cannabis, hash, extraction, dry-sieve, kief]
 Dry sieving is one of the most accessible and widely used
 methods for making hash. Cervantes first saw sieved cannabis
 resin in 1983 at the Cannabis Castle in Holland, where Neville,
-owner of the Seed Bank, had a large silkscreen stretched across
+owner of the [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]], had a large silkscreen stretched across
 a frame set on top of a glass-topped desk. Tossing buds on the
 screen and bouncing them around produced a thin sheen of resin
 on the glass below. The result was among the most potent
@@ -39,7 +40,7 @@ Resin glands come in three basic size ranges:
 
 - 60-70 microns: Moroccan cannabis and some other sativas
 - 80-110 microns: most common size range for many quality
-  cannabis strains
+  [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]]
 - 135-150 microns: necessary to capture mature resin glands
   of many well-grown, very resinous strains
 
@@ -93,7 +94,7 @@ Pollinator, a motorized cylindrical-shaped sieve to separate
 resin powder from leaf and buds. The Pollinator consists of a
 drum that turns inside a box. Cold, dried cannabis is placed
 inside the drum made from 150-micron screen. A motor turns
-the drum, and resin glands fall through the screen as the
+the drum, [[greg-green-trichomes-and-resin-glands]] fall through the screen as the
 cannabis tumbles inside.
 
 Operation guidelines:

@@ -59,7 +59,7 @@ The absence of fungal brassinosteroid research likely reflected the prevailing a
 
 ## Demonstration of Fungal Growth Promotion
 
-The Gartz study used a strain of Psilocybe cubensis (Earle) Singer characterized by high stability in culture, as described in Gartz's earlier publications in Biochemie und Physiologie der Pflanzen (1989) and Journal of Basic Microbiology (1989). The fungus was cultivated using two distinct cultivation systems to demonstrate the broad applicability of brassinosteroid effects across different growing methods:
+The Gartz study used a strain of [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] (Earle) Singer characterized by high stability in culture, as described in Gartz's earlier publications in Biochemie und Physiologie der Pflanzen (1989) and Journal of Basic Microbiology (1989). The fungus was cultivated using two distinct cultivation systems to demonstrate the broad applicability of brassinosteroid effects across different growing methods:
 
 ### Agar-Based Cultivation
 
@@ -93,29 +93,31 @@ The brassinosteroid findings add to this pattern, reinforcing the concept that h
 
 ## Agricultural and Commercial Potential
 
-The potential application of brassinosteroids to commercially important fungal species represents a promising but largely unexplored area of applied mycology. Edible mushroom cultivation operations growing species of Agaricus (button and portobello mushrooms), Pleurotus (oyster mushrooms), Lentinula (shiitake), and Volvariella (paddy straw mushrooms) could potentially benefit from accelerated mycelial colonization rates, reduced time to first harvest, and increased flush productivity. The extremely low effective concentration of 0.01 ppm means that treatment costs would be negligible relative to total production costs, making economic adoption straightforward if efficacy is confirmed in commercial-scale trials.
+The potential application of brassinosteroids to commercially important fungal species represents a promising but largely unexplored area of applied mycology. Edible [[accessible-mushroom-cultivation-for-disabilities]] operations growing species of Agaricus (button and portobello mushrooms), Pleurotus (oyster mushrooms), Lentinula (shiitake), and Volvariella (paddy straw mushrooms) could potentially benefit from accelerated mycelial colonization rates, reduced time to first harvest, and increased flush productivity. The extremely low effective concentration of 0.01 ppm means that treatment costs would be negligible relative to total production costs, making economic adoption straightforward if efficacy is confirmed in commercial-scale trials.
 
 The anti-stress properties of brassinosteroids may also improve contamination resistance during the spawn run phase, when introduced competitive microorganisms pose the greatest threat to cultivation success, or tolerance of suboptimal environmental conditions during the fruiting phase such as temperature fluctuations or inadequate humidity.
 
 ## The Stigmasterol Connection
 
-The biosynthetic pathway from stigmasterol to 22S,23S-homobrassinolide is of particular interest because stigmasterol itself is a compound with known biological activity in fungal systems. Stigmasterol and other phytosterols are known to modulate fungal membrane properties, and some studies suggest that dietary phytosterols can influence the growth rate and metabolic activity of various fungi. This raises the question of whether the growth-promoting effects of homobrassinolide are mediated through the same pathways as stigmasterol, or whether the additional hydroxyl and ketone functional groups in the brassinosteroid structure confer unique receptor-mediated signaling capabilities beyond simple membrane effects.
+The biosynthetic pathway from stigmasterol to 22S,23S-homobrassinolide is of particular interest because stigmasterol itself is a compound with known biological activity in fungal systems. Stigmasterol and other phytosterols are known to modulate fungal membrane properties, and some studies suggest that dietary phytosterols can influence the growth rate and [[arbuscule-isolation-metabolic-activity-assays]] of various fungi. This raises the question of whether the growth-promoting effects of homobrassinolide are mediated through the same pathways as stigmasterol, or whether the additional hydroxyl and ketone functional groups in the brassinosteroid structure confer unique receptor-mediated signaling capabilities beyond simple membrane effects.
 
 ## Future Research Directions
 
 The Gartz study raises numerous questions that remain unanswered decades later. Key areas for future investigation include:
 
 - Whether brassinosteroid receptors exist in fungi, and if so, whether they share structural homology with the plant BRI1 receptor kinase
-- The optimal brassinosteroid concentration for different fungal species and cultivation methods
+- The optimal brassinosteroid concentration for different fungal species and [[synthetic-log-cultivation-methods-guide]]
 - Whether naturally occurring brassinosteroids are present in fungal mycelium or fruiting bodies
-- The interaction between brassinosteroid treatment and substrate nutritional composition
+- The interaction between brassinosteroid treatment and substrate [[dighton-fungal-nutritional-composition-animal-diets]]
 - Long-term effects of brassinosteroid treatment on strain vitality over multiple generations
 - Whether the observed morphological changes (annulus loss) affect spore production or dispersal capacity
 
 ## See Also
 
+- [[brassinosteroids-in-fungal-cultures]]
+
 - [[brassinosteroids-in-fungal-cultivation]]
 - [[22s-23s-homobrassinolide-chemistry-and-synthesis]] - Chemical structure and synthesis pathway
 - [[brassinosteroid]] - Fruiting body acceleration data
 - [[brassinosteroid-effects-on-fungal-morphology]] - Morphological changes in treated fungi
-- [[brassinosteroids-psilocybin-fruiting]] - Brassinosteroid effects on psilocybin production
+- [[brassinosteroids-psilocybin-fruiting]] - Brassinosteroid effects on [[gottlieb-psilocybin-production-extraction-methods]]

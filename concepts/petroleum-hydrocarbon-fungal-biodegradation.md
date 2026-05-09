@@ -1,5 +1,5 @@
 ---
-title: Petroleum Hydrocarbon Fungal Biodegradation
+title: petroleum-hydrocarbon-bioremediation Fungal Biodegradation
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -8,7 +8,7 @@ sources: []
 ---
 # Petroleum Hydrocarbon Fungal Biodegradation
 
-Petroleum hydrocarbons are among the most widespread environmental contaminants, resulting from oil exploration, transportation, refining, and consumption. Fungi play a significant role in the biodegradation of petroleum hydrocarbons in soil, freshwater, and marine environments. Their filamentous growth habit, production of extracellular enzymes, and ability to tolerate low pH and low moisture conditions give fungi distinct advantages over bacteria in certain hydrocarbon-degrading environments.
+[[mycoremediation-petroleum-hydrocarbons]] are among the most widespread environmental contaminants, resulting from oil exploration, transportation, refining, and consumption. Fungi play a significant role in the biodegradation of petroleum hydrocarbons in soil, freshwater, and marine environments. Their filamentous growth habit, production of [[fungal-extracellular-enzymes]], and ability to tolerate low pH and low moisture conditions give fungi distinct advantages over bacteria in certain hydrocarbon-degrading environments.
 
 ## Composition and Fate of Petroleum Hydrocarbons
 
@@ -30,13 +30,13 @@ Fungal mechanisms of petroleum hydrocarbon metabolism share features with both h
 
 The most common pathway for alkane metabolism is monoterminal oxidation to the corresponding alcohol, aldehyde, and fatty acid. This involves a mixed function alkane monoxygenase system, NAD-dependent alcohol dehydrogenase, and aldehyde dehydrogenase. The initial mode of attack occurs at the terminal methyl group by alkane monoxygenase involving molecular oxygen insertion and an electron transfer system. This system combines cytochrome P450 as the terminal oxidase with NADPH-cytochrome P450 reductase as the electron transfer component.
 
-Fatty acids generated from alkane assimilation serve as building blocks for cellular metabolism. Further catabolism involves activation to acyl-CoA ester via acyl-CoA synthetase and beta-oxidation to yield acetyl-CoA. Acetyl-CoA can serve as an anabolic precursor or be further catabolized to carbon dioxide through the tricarboxylic acid cycle. This metabolic pathway enables fungi to derive energy and cellular carbon from petroleum hydrocarbons.
+Fatty acids generated from alkane assimilation serve as building blocks for cellular metabolism. Further catabolism involves activation to acyl-CoA ester via acyl-CoA synthetase and beta-oxidation to yield acetyl-CoA. Acetyl-CoA can serve as an anabolic precursor or be further catabolized to carbon dioxide through the tricarboxylic acid cycle. This [[gluconeogenesis-biochemistry-metabolic-pathway]] enables fungi to derive energy and cellular carbon from petroleum hydrocarbons.
 
 ## Aromatic Hydrocarbon Degradation
 
 Fungal degradation of aromatic components of petroleum, including benzene, toluene, ethylbenzene, and xylene (BTEX) compounds and polycyclic aromatic hydrocarbons (PAHs), involves different enzymatic pathways. Cytochrome P450 monooxygenases catalyze the initial oxidation of aromatic rings, similar to the pathway in mammals. The resulting arene oxides can rearrange to form phenols or be further metabolized through a series of oxidation and ring-cleavage reactions.
 
-White-rot fungi are particularly effective at degrading aromatic hydrocarbons because their ligninolytic enzyme system, comprising lignin peroxidase, manganese peroxidase, and laccase, has broad substrate specificity. These extracellular enzymes can oxidize a wide range of aromatic compounds without requiring the fungus to take up the substrate into its cells, which is advantageous for large, hydrophobic molecules that cannot easily cross cell membranes.
+White-rot fungi are particularly effective at degrading aromatic hydrocarbons because their ligninolytic enzyme system, comprising lignin peroxidase, [[fungal-manganese-peroxidase-remediation]], and laccase, has broad substrate specificity. These extracellular enzymes can oxidize a wide range of aromatic compounds without requiring the fungus to take up the substrate into its cells, which is advantageous for large, hydrophobic molecules that cannot easily cross cell membranes.
 
 Pleurotus species have shown excellent capacity to transform high-molecular-weight PAHs in soil. Eight highly condensed PAHs were degraded by Pleurotus sp. Florida in solid wheat straw substrate. The litter rot fungus Marasmiellus troyanus has demonstrated mineralization of benzo-a-pyrene, one of the most recalcitrant PAHs. See [[mycorrhizal-fungi-hydrocarbon-remediation]] for additional detail on mycorrhizal involvement.
 
@@ -44,7 +44,7 @@ Pleurotus species have shown excellent capacity to transform high-molecular-weig
 
 Temperature significantly affects the rate of petroleum hydrocarbon degradation by fungi. Most hydrocarbon-degrading fungi are mesophilic, with optimal activity between 20 and 30 degrees Celsius. Cold environments dramatically slow degradation rates, which is a particular challenge for oil spill bioremediation in arctic and subarctic regions. Some cold-adapted fungal species show enhanced degradation at lower temperatures and may be important for bioremediation in cold climates.
 
-Thermophilic fungi can contribute to hydrocarbon degradation during composting treatment of contaminated soil, where temperatures reach 50 to 65 degrees Celsius. At elevated temperatures, hydrocarbon solubility and bioavailability increase, potentially accelerating degradation. However, the fungal species active at thermophilic temperatures differ from those active at ambient temperatures, requiring careful consideration of the treatment approach.
+[[thermophilic-fungi]] can contribute to hydrocarbon degradation during composting treatment of contaminated soil, where temperatures reach 50 to 65 degrees Celsius. At elevated temperatures, hydrocarbon solubility and bioavailability increase, potentially accelerating degradation. However, the fungal species active at thermophilic temperatures differ from those active at ambient temperatures, requiring careful consideration of the treatment approach.
 
 ## Comparison of Fungal and Bacterial Hydrocarbon Degradation
 
@@ -56,11 +56,11 @@ The filamentous growth habit of fungi provides advantages in soil environments, 
 
 [[fungal-bioremediation-mechanisms]]
 
-[[mycoremediation-of-petroleum-hydrocarbons]]
+mycoremediation-of-petroleum-hydrocarbons
 
 [[cotter-mycoremediation-overview]]
 
-[[fungal-petroleum-hydrocarbon-degradation-mechanisms]]
+fungal-petroleum-hydrocarbon-degradation-mechanisms
 ## Practical Considerations
 
 Successful implementation of Petroleum Hydrocarbon Fungal Biodegradation requires attention to
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

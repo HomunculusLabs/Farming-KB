@@ -1,10 +1,11 @@
 ---
-title: Composting Methods Comparison
+title: natural-farming-guide-composting-methods-and-techniques Comparison
 created: 2026-04-12
 updated: 2026-04-12
 type: comparison
 tags: [composting, compost, comparison, soil-building, methods, regenerative, sustainability, soil]
-sources: []
+sources:
+  sources: []
 ---
 
 # Composting Methods Comparison
@@ -25,7 +26,7 @@ Choosing the right composting method depends on available space, time, material 
 | **Pathogen kill** | Excellent (high temps) | Poor | Moderate (worm digestion) | Moderate (acidic fermentation) | Poor |
 | **Weed seed kill** | Excellent | Poor | Moderate | Poor | Poor |
 | **Nutrient retention** | Good (some N loss as gas) | Good | Excellent (worm castings are nutrient-dense) | Excellent (anaerobic retains N) | Good |
-| **Best for** | Large-scale waste processing, quick results | Low-effort yard waste recycling | Indoor/apartment, high-quality castings | Kitchen waste diversion, small spaces | Building new garden beds, weed suppression |
+| **Best for** | Large-scale waste processing, quick results | Low-effort yard [[mollison-designers-banana-circle-waste-recycling-system]] | Indoor/apartment, high-quality castings | Kitchen waste diversion, small spaces | Building new garden beds, weed suppression |
 | **Cost** | Low (free materials) | Free | Low-moderate (bin + worms) | Moderate (EM bran inoculant) | Free to low |
 
 ## Hot Composting
@@ -47,7 +48,7 @@ Phases:
 
 ## Cold Composting
 
-Cold (passive) composting involves simply piling organic materials and letting natural decomposition occur over time. No turning or active management required.
+Cold (passive) composting involves simply piling organic materials and letting [[fukuoka-microbes-scavengers-natural-decomposition-biosystem]] occur over time. No turning or active management required.
 
 Process:
 - Alternate layers of greens and browns as materials become available
@@ -55,7 +56,7 @@ Process:
 - Let sit for 6-12 months
 - Finished compost will be at the bottom of the pile
 
-Limitations: weed seeds and pathogens survive. Materials at the top may not fully decompose. Slower nutrient cycling.
+Limitations: weed seeds and pathogens survive. Materials at the top may not fully decompose. Slower [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 ## Vermicomposting
 
@@ -63,7 +64,7 @@ See [[vermicomposting]] for detailed guidance. Uses Eisenia fetida (red wiggler 
 
 ## Bokashi Composting
 
-See [[bokashi-composting]] for detailed guidance. An anaerobic fermentation process using effective microorganisms (EM) to pre-digest all food waste, including meat and dairy. Fermented material is buried in soil to complete decomposition.
+See [[bokashi-composting]] for detailed guidance. An [[jadam-anaerobic-fermentation-principles]] process using [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]] (EM) to pre-digest all food waste, including meat and dairy. Fermented material is buried in soil to complete decomposition.
 
 ## Sheet Mulching (Lasagna Gardening)
 
@@ -118,6 +119,12 @@ Use sheet mulching when:
 - You have abundant cardboard and yard waste
 
 ## See Also
+
+- [[weed-tea-liquid-fertilizer]]
+
+- [[comparison-biogas-vs-composting-toilet]]
+- [[comparison-psilocybin-vs-mescaline]]
+- [[comparison-sedum-vs-sempervivum]]
 
 - [[bokashi-composting]] -- detailed bokashi fermentation process and setup
 - [[vermicomposting]] -- complete vermicomposting guide

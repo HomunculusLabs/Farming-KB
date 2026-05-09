@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Clarke, R.C. & Merlin, M.D. (2013). "Cannabis: Evolution and Ethnobotany." University of California Press.
-  - Emboden, W. (1972). "Ritual Use of Cannabis Sativa L." Economic Botany 26(3): 264–276.
+  - Emboden, W. (1972). "Ritual Use of [[comparison-cannabis-sativa-vs-cannabis-indica]] L." Economic Botany 26(3): 264–276.
   - Small, E. & Cronquist, A. (1976). "A practical and natural taxonomy for Cannabis." Taxon 25(4): 405–435.
   - McPartland, J.M. (2018). "Cannabis: Sativa, Indica, and the Origin of 'Kush'." Journal of Cannabis Research 1: 1.
   - Schultes, R.E. & Hofmann, A. (1980). "The Botany and Chemistry of Hallucinogens." 2nd ed. Thomas.
@@ -24,10 +24,10 @@ created: 2026-05-07
 
 ## Overview
 
-**Hindu Kush** is a pure indica landrace cannabis strain originating from
+**Hindu Kush** is a pure indica [[cervantes-landrace-cannabis-populations]] strain originating from
 the mountainous Hindu Kush region spanning eastern Afghanistan, northern
 Pakistan, and the border areas of Tajikistan. It is one of the foundational
-genetic pillars of modern cannabis breeding and the namesake of the entire
+genetic pillars of modern [[oner-cannabis-breeding-fundamentals]] and the namesake of the entire
 "kush" family of strains.
 
 The strain has been cultivated for centuries by indigenous communities in
@@ -48,7 +48,7 @@ environment.
 
 The genetic lineage of modern "kush" strains traces almost exclusively
 back to Hindu Kush or closely related Afghan landraces imported to the
-United States and Europe during the 1970s and 1980s.
+[[dmt-containing-plants-united-states-halpern]] and Europe during the 1970s and 1980s.
 
 ## Appearance
 
@@ -90,7 +90,7 @@ reflecting its landrace genetics.
 **Primary cannabinoids:** THC, with trace amounts of THCV and CBC.
 
 The cannabinoid profile is THC-dominant with negligible CBD, consistent
-with drug-type Afghan landraces selected for resin production rather than
+with drug-type Afghan landraces selected for [[cannabis-glandular-trichome-types-resin-production-clarke]] rather than
 fiber or seed.
 
 ## Effects
@@ -116,7 +116,7 @@ limited-space indoor operations.
 **Flowering time:** 7–9 weeks indoor; late September to mid-October outdoor.
 **Yield:** Moderate, 300–400 g/m² indoor.
 **Climate preference:** Dry, warm, and arid conditions mimicking its native
-mountain environment. Resistant to mold but susceptible to powdery mildew
+mountain environment. Resistant to mold but susceptible to [[cervantes-powdery-mildew-prevention-treatment]]
 in humid conditions.
 
 The strain responds well to low-stress training and thrives in soil-based

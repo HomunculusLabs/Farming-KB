@@ -8,7 +8,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 # 4-HO-DBT (4-Hydroxy-N,N-Dibutyltryptamine)
 
-TIHKAL entry #15. 4-HO-DBT is the 4-hydroxy analogue of 4 ho dbt entity tihkal (N,N-dibutyltryptamine), placing it in the same structural family as [[psilocin-entity-tihkal]] (4-HO-DMT) and the other 4-hydroxylated dialkyltryptamines. It represents the longest-chain member of the 4-hydroxy dialkyl tryptamine series.
+TIHKAL entry #15. 4-HO-DBT is the 4-hydroxy analogue of 4 ho 4 ho dbt entity tihkal tihkal (N,N-dibutyltryptamine), placing it in the same structural family as [[psilocin-entity-tihkal]] (4-HO-DMT) and the other 4-hydroxylated dialkyltryptamines. It represents the longest-chain member of the 4-hydroxy dialkyl tryptamine series.
 
 ## Chemical Names
 
@@ -25,7 +25,7 @@ No reliable dosage range has been established.
 
 ## Synthesis
 
-The synthesis follows the standard 4-hydroxyindole route. 4-Hydroxyindole is acetylated with acetic anhydride in pyridine to form 4-acetoxyindole (95 percent yield, mp 98-100 degrees C). This protected intermediate is converted to the glyoxyl chloride by treatment with oxalyl chloride in ether, then reacted with dibutylamine. The resulting 4-acetoxy-N,N-dibutylindole-3-glyoxylamide is reduced with LAH in THF, with simultaneous deacetylation, to give 4-HO-DBT.
+The synthesis follows the standard 4-hydroxyindole route. 4-Hydroxyindole is acetylated with acetic anhydride in pyridine to form 4-acetoxyindole (95 percent yield, mp 98-100 degrees C). This protected intermediate is converted to the glyoxyl chloride by treatment with [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] in ether, then reacted with dibutylamine. The resulting 4-acetoxy-N,N-dibutylindole-3-glyoxylamide is reduced with LAH in THF, with simultaneous deacetylation, to give 4-HO-DBT.
 
 The crude product was obtained as an amber glass that did not crystallize. Purification and characterization details are limited in the original TIHKAL entry.
 
@@ -44,7 +44,7 @@ The 4-hydroxy dialkyl tryptamine series forms one of the most pharmacologically 
 
 4-HO-DBT was synthesized as part of Shulgin's systematic exploration of the 4-hydroxy dialkyl tryptamine series. The investigation of chain-length effects on nitrogen substitution was a major research theme in TIHKAL, motivated by the desire to understand the structural requirements for psychedelic activity at serotonin receptors.
 
-The finding that increasing chain length progressively diminishes or eliminates activity in the 4-hydroxy series was an important contribution to receptor pharmacology, establishing steric limits that continue to inform modern drug design.
+The finding that increasing [[phenethylamine-chain-length-effects]] progressively diminishes or eliminates activity in the 4-hydroxy series was an important contribution to receptor pharmacology, establishing steric limits that continue to inform modern drug design.
 
 ## Modern Significance
 
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

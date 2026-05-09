@@ -34,7 +34,7 @@ succeed. Each practice reinforces the others in a synergistic relationship.
 
 ## No Pest Control as the Fourth Principle
 
-With pest and disease control, the same logic applies: the best method of control is
+With pest and [[hamilton-pest-and-disease-control-organic]], the same logic applies: the best method of control is
 no control at all. In principle, disease and pest damage do not exist. If a farming
 system without weeding, fertilization, or pruning is established, crop damage by
 diseases and pests will gradually decline. This is because plants grown without
@@ -49,7 +49,7 @@ poor ventilation, branches and leaves unreached by sunlight, and infestation by
 disease microbes and insects. It is this that has created the need for disease and
 pest control. Today, by spraying orchards with pesticides, fruit growers increase
 disease and pest damage; by pruning, they create strange, misshapen trees; and by
-applying fertilizer, they promote nutrient deficiencies.
+applying fertilizer, they promote [[hamilton-nutrient-deficiencies-and-treatment]].
 
 ## Forest Spraying: A Cautionary Tale
 
@@ -70,7 +70,7 @@ grow up sturdy and healthy without fertilizers, orderly and beautiful without pr
 ## The Ultimate Choice
 
 Fukuoka concludes his orchard discussion with a stark proposition: whether man will
-decide ultimately in favor of scientific farming or of natural farming will depend
+decide ultimately in favor of [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] or of [[comparison-natural-farming-vs-permaculture]] will depend
 entirely on what it is that he seeks. This is not presented as a technical decision
 but as a philosophical and spiritual one. The question is not which method produces
 higher yields or greater profits, but what kind of relationship with nature man wishes
@@ -81,7 +81,7 @@ to cultivate.
 Fukuoka recounts a visit from a large group of specialists, including technical
 officials from agricultural testing stations, Ministry of Agriculture officials, and
 university scientists. He explained his method: for 25 years he had grown rice and
-barley in succession by direct seeding without tilling, relied on grazing ducks for
+barley in succession by [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] without tilling, relied on grazing ducks for
 fertilization, used no commercial fertilizers, and grew fine barley without pesticides.
 Everyone was dumbfounded. Some scientists grew visibly perturbed, though Professor
 Kawase, an authority on pasture grasses, was openly impressed, and Professor Hiroe,
@@ -97,7 +97,7 @@ Fukuoka closes with a defense of weeds and clover: the weeds by the roadside hav
 significance and value as weeds that cannot be violated or taken away by garden
 varieties. Clover belongs to the meadows and has value as clover. The violet growing
 along a mountain path blooms for no one in particular, yet people cannot overlook or
-forget it. If people did not change, the world would not change; farming methods
+forget it. If people did not change, the world would not change; [[natural-farming-methods-comparison]]
 would not change.
 
 ## The Violet by the Mountain Path

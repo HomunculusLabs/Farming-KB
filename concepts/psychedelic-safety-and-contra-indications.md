@@ -9,13 +9,13 @@ sources: []
 
 # Psychedelic Safety and Contra-Indications
 
-This page provides a comprehensive safety reference for psychedelic use. It covers drug interactions, contraindicated conditions, emergency response, and harm reduction practices. This information does not constitute medical advice — consult a healthcare professional for personalized guidance.
+This page provides a comprehensive safety reference for psychedelic use. It covers [[cannabis-drug-interactions-and-contraindications]], contraindicated conditions, emergency response, and [[adverse-effects-and-harm-reduction-psilocybin]] practices. This information does not constitute medical advice — consult a healthcare professional for personalized guidance.
 
 ## Critical Drug Interactions
 
 ### Serotonin Syndrome Risk
 
-Serotonin syndrome is a potentially life-threatening condition caused by excessive serotonergic activity. The risk is highest when psychedelics that act on serotonin systems (LSD, psilocybin, DMT, MDMA, [[harmala-alkaloids]], phenelzine, tranylcypromine | Very High | MAO inhibition prevents serotonin metabolism; see [[beta-carboline-chemistry]] (harmala alkaloids) and some pharmaceutical drugs. They create dangerous interactions with:
+Serotonin syndrome is a potentially life-threatening condition caused by excessive serotonergic activity. The risk is highest when psychedelics that act on serotonin systems (LSD, psilocybin, DMT, MDMA, [[harmala-alkaloids]], phenelzine, tranylcypromine | Very High | MAO inhibition prevents serotonin metabolism; see [[beta-carboline-chemistry]] ([[turner-harmala-alkaloids-preparation-and-dosage]]) and some pharmaceutical drugs. They create dangerous interactions with:
 
 - **Tyramine-containing foods**: Aged cheeses, cured meats, fermented foods, red wine, soy sauce — can trigger hypertensive crisis
 - **Sympathomimetics**: Pseudoephedrine, amphetamines, cocaine — risk of hypertensive crisis
@@ -30,7 +30,7 @@ The dietary tyramine restriction (the "cheese effect") is most relevant for phar
 
 SSRIs not only create serotonin syndrome risk but also significantly attenuate the effects of serotonergic psychedelics (LSD, psilocybin, MDMA) through downregulation of serotonin receptors. Many practitioners recommend:
 
-- Tapering SSRIs gradually (over 2-6 weeks) before psychedelic therapy, under medical supervision
+- Tapering SSRIs gradually (over 2-6 weeks) before [[metzner-psycholytic-psychedelic-therapy-models]], under medical supervision
 - Fluoxetine (Prozac) has an extremely long half-life (up to 25 days for active metabolite) — tapering must begin 4-6 weeks before
 - MDMA is particularly affected and may produce minimal effects even after SSRI tapering
 
@@ -86,7 +86,7 @@ A trip sitter (or guide) remains sober and provides a safe, supportive presence:
 
 ### Crisis Management
 
-**For acute psychological distress:**
+**For [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] distress:**
 1. Change the sensory environment (music, lighting, location)
 2. Speak calmly and reassuringly ("you are safe," "this will pass")
 3. Encourage deep, slow breathing

@@ -1,5 +1,5 @@
 ---
-title: Permaculture Plants Bamboo Varieties Uses
+title: Permaculture Plants permaculture plants bamboo varieties uses Uses
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,7 +10,7 @@ tags: [culture, permaculture, plants]
 
 # Permaculture Bamboo Varieties and Uses
 
-Bamboos are among the most versatile multi-purpose plants in permaculture. They provide timber, edible shoots, erosion control, windbreaks, fodder, paper pulp, and crafts material. The source notes that a seemingly disproportionate space is dedicated to palms compared to bamboos, which has largely been a quirk of fate -- bamboos deserve much more attention in permaculture systems.
+Bamboos are among the most versatile multi-purpose plants in permaculture. They provide timber, edible shoots, [[permplant-willows-salix-erosion-control-fodder]], windbreaks, fodder, paper pulp, and crafts material. The source notes that a seemingly disproportionate space is dedicated to palms compared to bamboos, which has largely been a quirk of fate -- bamboos deserve much more attention in permaculture systems.
 
 Family: BAMBUSACEAE
 
@@ -42,7 +42,7 @@ Multiple uses:
 
 ## Running Bamboos
 
-Running bamboos spread aggressively via underground rhizomes. They need containment strategies (root barriers, regular harvesting, or livestock grazing) but offer rapid establishment and screening.
+Running bamboos spread aggressively via underground rhizomes. They need containment strategies (root barriers, regular harvesting, or [[savory-livestock-grazing-planning]]) but offer rapid establishment and screening.
 
 ### Phyllostachys angusta (Stone Bamboo)
 Maximum stem diameter 30 mm, maximum height 7 m. Tolerates temperatures to -7C. Edible root and excellent technical properties for crafts and furniture.
@@ -104,10 +104,10 @@ Native of Japan, small (2-4 m) runner bamboo with leaves up to 35 cm long and 9 
 ## Design Notes
 
 - **Containment**: Running bamboos need root barriers or regular harvesting to prevent invasion. Clumping bamboos are safer for small properties.
-- **Multi-function hedges**: Bamboo hedges around orchards provide windbreaks, building material, edible shoots, and microclimate modification.
+- **Multi-function hedges**: Bamboo hedges around orchards provide windbreaks, [[fungal-building-material-deterioration]], edible shoots, and microclimate modification.
 - **Frost selection**: For temperate areas, P. nigra henonsis and P. aurea offer the best cold tolerance.
-- **Livestock integration**: Sasa palmata can be controlled by livestock grazing, providing fodder while preventing spread.
-- **[[permaculture-plants-ground-covers-and-accumulators]] - bamboo as ground cover and soil stabiliser
+- **[[faires-livestock-integration-permaculture]]**: Sasa palmata can be controlled by livestock grazing, providing fodder while preventing spread.
+- **[[permaculture-plants-ground-covers-and-accumulators]] - bamboo as [[fukuoka-citrus-orchard-ground-cover-cultivation]] and soil stabiliser
 - [[permaculture-plants-fruit-trees-selection]] - bamboo as orchard windbreak
 
 ## See Also

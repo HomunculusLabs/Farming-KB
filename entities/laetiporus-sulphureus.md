@@ -60,7 +60,7 @@ Basidiospores are hyaline, broadly ellipsoid, smooth, 6–8 × 4–5.5 µm. The 
 
 **Laetiporus sulphureus** sensu stricto is native to Europe, where it is widely distributed from the Mediterranean to Scandinavia. It is also found across temperate Asia.
 
-In North America, the "chicken-of-the-woods" complex includes several cryptic species. L. sulphureus s.s. is restricted to Europe; North American populations are now classified as L. cincinnatus, L. huronensis, L. gilbertsonii, and others.
+In [[psilocybin-north-america-pacific-northwest]], the "chicken-of-the-woods" complex includes several cryptic species. L. sulphureus s.s. is restricted to Europe; [[growing-gourmet-north-american-reishi-species]] populations are now classified as L. cincinnatus, L. huronensis, L. gilbertsonii, and others.
 
 The fungus is saprotrophic and parasitic, primarily on hardwoods. Preferred hosts include **Quercus** spp. (oaks), **Prunus** spp. (cherries, plums), **Salix** spp. (willows), and **Taxus** spp. (yews).
 
@@ -98,17 +98,19 @@ The species has a long history of use in traditional European folk medicine as a
 
 ## Cultivation
 
-Cultivation of **Laetiporus sulphureus** is possible but less common than for species like oyster or shiitake mushrooms. The primary challenges are its slow growth rate and specific substrate requirements.
+Cultivation of **Laetiporus sulphureus** is possible but less common than for species like oyster or [[query-how-to-grow-shiitake-mushrooms-on-logs]]. The primary challenges are its slow growth rate and specific substrate requirements.
 
 The fungus is typically grown on supplemented hardwood sawdust or logs. Oak, cherry, and beech sawdust work well at moisture contents of 65–75%. Supplementation with wheat bran (5–10%) improves yields.
 
 Optimal fruiting temperatures are 20–28°C. Initiation requires high humidity (85–95%) and adequate fresh air exchange. Full colonization of substrate typically takes 60–90 days.
 
-Indoor cultivation on sawdust blocks can yield 1–2 flushes with a biological efficiency of 15–25%. Outdoor log cultivation follows similar parameters to shiitake production, with fruitings appearing 6–18 months after inoculation.
+[[cannabis-sativa-indoor-cultivation-techniques]] on sawdust blocks can yield 1–2 flushes with a [[stamets-biological-efficiency-yield]] of 15–25%. [[growing-gourmet-outdoor-log-inoculation-techniques]] cultivation follows similar parameters to shiitake production, with fruitings appearing 6–18 months after inoculation.
 
 The species is commercially cultivated on a small scale in Europe and the United States, primarily for specialty markets and restaurants. Its unique flavor and texture command premium prices.
 
 ## See Also
+
+- [[laetiporus-cincinnatus]]
 
 - [[pleurotus-ostreatus]]
 - [[ganoderma-lucidum]]

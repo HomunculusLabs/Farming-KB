@@ -31,7 +31,7 @@ created: 2026-04-28
 
 ## Overview
 
-*Auricularia delicata* is a species of jelly fungus in the family Auriculariaceae, order Auriculariales. It is widely distributed across tropical and subtropical regions and is commercially cultivated as an edible mushroom in parts of Southeast Asia.
+*Auricularia delicata* is a species of jelly fungus in the family Auriculariaceae, order Auriculariales. It is widely distributed across tropical and subtropical regions and is commercially cultivated as an [[bloomfield-boletus-satanus-edible-mushroom-hazards]] in parts of Southeast Asia.
 
 The species is closely related to the more commercially prominent *Auricularia polytricha* (wood ear mushroom) but can be distinguished by its paler coloration, finer surface hairs, and slightly thinner gelatinous fruiting body.
 
@@ -57,7 +57,7 @@ Fruiting body is gelatinous to rubbery, ear-shaped or cup-shaped, 2–8 cm in di
 
 ## Distribution and Habitat
 
-*A. delicata* has a pantropical distribution, found throughout Southeast Asia, Oceania, sub-Saharan Africa, and tropical regions of the Americas.
+*A. delicata* has a [[copelandia-cyanescens-pantropical-distribution-and-ecology]], found throughout Southeast Asia, Oceania, sub-Saharan Africa, and tropical regions of the Americas.
 
 The species fruits year-round in warm, humid climates, with peak fruiting during the rainy season.
 
@@ -69,8 +69,8 @@ The species fruits year-round in warm, humid climates, with peak fruiting during
 
 *A. delicata* is cultivated on a modest commercial scale, primarily in Thailand, Vietnam, and southern China, often alongside the more common *A. polytricha*.
 
-- **Substrate:** Supplemented sawdust (rubber wood, mango wood, or mixed hardwood), rice straw, or bagasse in polypropylene bags.
-- **Spawn:** Grain spawn (wheat or sorghum) inoculated from tissue culture or spore print.
+- **Substrate:** [[oyster-mushroom-supplemented-sawdust-blocks]] (rubber wood, mango wood, or mixed hardwood), rice straw, or bagasse in polypropylene bags.
+- **Spawn:** Grain spawn (wheat or sorghum) inoculated from [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] or spore print.
 - **Fruiting temperature:** 25–32 °C; unlike temperate species, it requires consistently warm conditions.
 - **Relative humidity:** 85–95% during fruiting.
 - **CO₂ tolerance:** Tolerates moderately elevated CO₂ levels, making it suitable for enclosed growing structures.
@@ -107,7 +107,7 @@ In vitro and animal studies on *A. delicata* extracts have demonstrated several 
 
 ## Ecological Role
 
-*A. delicata* is a primary decomposer of hardwood in tropical forest ecosystems, playing an important role in nutrient cycling.
+*A. delicata* is a primary decomposer of hardwood [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] ecosystems, playing an important role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 The species is among the first colonizers of freshly fallen branches and contributes significantly to early-stage wood decomposition in moist tropical forests.
 
@@ -119,6 +119,6 @@ The species is among the first colonizers of freshly fallen branches and contrib
 
 - [[mushroom-cultivation-basics]]
 - [[auricularia-auricula-judae]] — European wood ear, the type species of the genus
-- [[tremella-fuciformis-entity]] — snow fungus, a related jelly fungus used in Asian cuisine
+- [[tremella-fuciformis]] — snow fungus, a related jelly fungus used in Asian cuisine
 - [[lentinula-edodes]] — shiitake, another tropical/subtropical cultivated mushroom
 - [[volvariella-volvacea]] — paddy straw mushroom, another tropical cultivated species

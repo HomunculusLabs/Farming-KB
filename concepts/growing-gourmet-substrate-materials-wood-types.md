@@ -1,5 +1,5 @@
 ---
-title: "Substrate Materials and Wood Types for Mushroom Cultivation"
+title: "growing gourmet substrate materials wood types and Wood Types for accessible-mushroom-cultivation-for-disabilities"
 created: 2026-04-26
 tags:
   - substrate
@@ -38,7 +38,7 @@ as substrate suppliers.
 
 ## Heavy Metal Contamination
 
-Wood chips from county roads with little traffic are less prone to
+[[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]] from county roads with little traffic are less prone to
 heavy metal contamination. This problem is largely circumvented by
 obtaining sawdust and chips from larger diameter trees. Sawmills
 and pulp chip companies provide the cleanest source. Currently,
@@ -53,7 +53,7 @@ lowest.
 The key to successful cultivation is to match the skills of the
 cultivator with the right strain on the proper substrate under
 ideal environmental conditions. See
-[[growing-gourmet-supplemented-sawdust-sterilization]] for detailed methods.
+growing-gourmet-supplemented-sawdust-sterilization for detailed methods.
 ## Practical Considerations
 
 When working with Substrate Materials and Wood Types for Mushroom Cultivation, several practical factors should be
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,3 +113,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[growing-gourmet-substrate-supplementation]]

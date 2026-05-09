@@ -1,11 +1,12 @@
 ---
-title: "Drought Gardening vs Rainwater Harvesting"
+title: "comparison drought gardening vs rainwater harvesting vs comparison-xeriscaping-guide-vs-rainwater-harvesting-systems"
 created: 2026-04-28
 tags: [comparison, water-management, conservation, gardening,
 climate-adaptation]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -18,7 +19,7 @@ Solomon, minimizes crop water demand through wide plant spacing, deep root
 development, and strategic irrigation timing so vegetables can thrive with
 little or no supplemental water. Rainwater harvesting captures, stores, and
 redistributes precipitation to ensure a reliable water supply for irrigation
-regardless of drought conditions. Both are essential climate adaptation
+regardless of drought conditions. Both are essential [[jeavons-climate-adaptation-growing-seasons]]
 strategies, and the most resilient gardens employ both simultaneously: reducing
 demand while maximizing available supply.
 
@@ -45,13 +46,13 @@ installation, maintenance |
 water |
 | Space impact | Requires more total garden area | Requires tank placement
 space |
-| Climate dependence | Works in any temperate climate | Limited by actual
+| Climate dependence | Works in any [[permaculture-designers-manual-temperate-climate-design]] | Limited by actual
 rainfall received |
 | Yield impact | Lower yield per unit area | Maintains normal yield with
 irrigation |
 | Best soil type | Deep, moisture-retentive soils | Any soil type (water
 delivered to plants) |
-| Maintenance | Daily observation during growing season | Occasional system
+| Maintenance | Daily observation during [[savory-growing-season-and-non-growing-season-management]] | Occasional system
 inspection and cleaning |
 
 ## When to Choose Drought Gardening
@@ -86,3 +87,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[comparison-desert-gardening-vs-drought-gardening]]

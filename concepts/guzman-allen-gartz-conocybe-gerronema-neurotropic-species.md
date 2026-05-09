@@ -1,5 +1,5 @@
 ---
-title: "Conocybe and Gerronema Neurotropic Species"
+title: "Conocybe and guzman allen gartz conocybe gerronema neurotropic species Species"
 created: 2026-04-28
 tags:
   - guzman-allen-gartz
@@ -23,8 +23,8 @@ type: concept
 Among the 216 neurotropic fungi cataloged by Guzman, Allen and Gartz (2000),
 the genera Conocybe and Gerronema represent smaller but taxonomically
 interesting groups. Conocybe contributes 4 species, while Gerronema
-contributes 2 species. Both genera present significant taxonomic challenges,
-with disputed chemical analyses and inconsistent bluing reactions that
+contributes 2 species. Both genera present significant [[guzman-allen-gartz-psilocybe-taxonomic-challenges-and-synonymy]],
+with disputed [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] and inconsistent bluing reactions that
 complicate their classification as neurotropic fungi.
 
 ## Conocybe: Four Neurotropic Species
@@ -54,7 +54,7 @@ classified under Hongo's Type 9 (Endemic species).
 C. cyanopus has the most extensive distribution among neurotropic Conocybe
 species. It was confirmed to contain psilocybin by Benedict et al. (1967).
 Reported from Europe (Germany, Austria, Czechoslovakia, Denmark, Norway,
-Finland, Switzerland, France, Netherlands), North America (Pacific
+Finland, Switzerland, France, Netherlands), [[psilocybin-north-america-pacific-northwest]] (Pacific
 Northwest), and Asia (Japan). The epithet "cyanopus" refers to blue-staining
 at the stipe base. It falls under Hongo's Type 2 (Northern hemisphere species).
 
@@ -79,7 +79,7 @@ connections.
 Gerronema fibula has an extraordinary range spanning tropical, subtropical,
 and temperate regions. It has extensive synonymy: Omphalina fibula, Mycena
 fibula, Rickenella fibula, Omphalia fibula, Hemimycena fibula, and
-Marasmiellus fibula, reflecting taxonomic confusion.
+Marasmiellus fibula, reflecting [[neurotropic-fungi-taxonomic-confusion-and-identification]].
 
 Documented locations include:
 
@@ -95,7 +95,7 @@ Documented locations include:
   Sweden, Finland, Spain, Italy, Great Britain, Czech Republic, Hungary
 
 G. fibula may fit Hongo's Type 7 (Tropical and subtropical species) with
-temperate extensions. Its presence in both Europe and the Southern Hemisphere
+temperate extensions. Its presence in both Europe and the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]
 could reflect ancient Gondwanan distribution.
 
 ### Gerronema solidipes (Fr.) Singer

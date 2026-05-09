@@ -18,7 +18,7 @@ Two species are known to be employed for psychoactive purposes:
 
 - *Solandra brevicalyx* Standl.: known among Huichol and other
   Chol and Nahua tribes as an intoxicant plant of considerable
-  cultural significance.
+  [[ethnomycology-cultural-significance-sacred-fungi]].
 
 - *Solandra guerrerensis*: used as an intoxicant in the state of
   Guerrero, Mexico. Mentioned by the colonial physician Hernandez as
@@ -38,7 +38,7 @@ valued for its hallucinogenic properties in Mexico.
 A tea made from the juice of the branches of both *S. brevicalyx* and
 *S. guerrerensis* is known to be employed as an intoxicant. The
 preparation follows patterns common to solanaceous hallucinogens in
-indigenous Mexican practice: plant material is extracted in water to
+[[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]] practice: plant material is extracted in water to
 produce a bitter liquid that is consumed in ceremonial contexts.
 
 The Huichol use of Solandra is embedded within a broader system of
@@ -72,7 +72,7 @@ sacred intoxicating plants of the Aztec pharmacopoeia. Hernandez's
 extensive documentation of Aztec ethnobotany provides invaluable
 evidence of a rich tradition of psychoactive plant use in
 pre-Columbian Mesoamerica that included not only well-known plants
-like teonanacatl (sacred mushrooms) and peyote but also numerous
+like teonanacatl ([[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]]) and peyote but also numerous
 solanaceous species.
 
 ## Cultural Significance

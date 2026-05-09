@@ -1,9 +1,9 @@
 ---
-title: Greenhouse Summer Crops — Tomatoes, Cucumbers, Peppers
+title: coleman greenhouse summer crops Crops — Tomatoes, Cucumbers, Peppers
 created: 2026-05-08
 sources:
   - path: /Users/t3rpz/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md
-    title: The Winter Harvest Handbook - Eliot Coleman
+    title: The [[coleman-claytonia-winter-harvest-cultivation]] Handbook - Eliot Coleman
     author: Eliot Coleman
 updated: 2026-05-08
 type: concept
@@ -19,7 +19,7 @@ greenhouse space that has been producing cold-hardy salads and
 greens transitions to warm-season crops. The same beds that held
 spinach, claytonia, and Asian greens through winter are refertilized
 with an inch of compost and planted to tomatoes, cucumbers, peppers,
-and eggplants. This rotation from winter greens to summer fruits
+and eggplants. This rotation from [[coleman-winter-greens-nutritional-quality-cold-sweetening]] to summer fruits
 maximizes the productive capacity of the greenhouse year-round.
 
 The timing of this transition is critical. The winter spinach crop
@@ -43,7 +43,7 @@ Plants are set out 24 inches apart down the center of 30-inch-wide
 beds. While closer spacing (down to 14 inches) is possible with
 better native soil, the wider spacing makes pruning, harvesting, and
 monthly compost topdressing much easier. The wider spacing also
-improves air circulation, which is essential because humidity can be
+improves [[stamets-growing-room-air-circulation-co2-management]], which is essential because humidity can be
 quite high in a plastic-covered hoop house during April.
 
 ## Vertical Growing and Lowering
@@ -106,8 +106,8 @@ unused.
 
 The transition from winter to summer crops requires attention to
 soil temperature. In a greenhouse that has been unheated through
-winter, the inner row covers protecting spinach are pulled back every
-sunny day during March to allow direct solar heating of the soil. After
+winter, the inner [[solomon-row-covers-and-season-extension]] protecting spinach are pulled back every
+sunny day during March to allow direct [[mollison-designers-passive-solar-heating-building-design]] of the soil. After
 the winter crop is removed, a propane heater may be run for a few
 days before transplanting to prevent night temperatures from falling
 below 60 degrees Fahrenheit.
@@ -122,6 +122,8 @@ has reached 65 degrees Fahrenheit using only solar heat.
 
 ## See Also
 
-- [[coleman-greenhouse-soil-management]]
+- [[coleman-summer-fallow-green-manure-greenhouse]]
+
+- coleman-greenhouse-soil-management
 - [[coleman-compost-and-organic-fertility-management]]
 - [[coleman-cover-crop-rotation-and-soil-health]]

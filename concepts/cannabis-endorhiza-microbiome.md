@@ -1,87 +1,141 @@
 ---
 title: Cannabis Endorhiza Microbiome
-created: 2026-04-16
-updated: 2026-04-16
-type: concept
-tags: [cannabis, cultivation]
-sources: [/Users/t3rpz/wiki/raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
+created: 2026-05-09
+tags: [microbiome, cannabis, endorhiza, endophyte, root-microbiome]
+date: 2026-05-09
+aliases: [Cannabis Root Microbiome, Cannabis Endophytes, Cannabis Endorhiza]
 ---
+
 # Cannabis Endorhiza Microbiome
 
-The cannabis endorhiza microbiome consists of the bacterial communities living within the root tissues of Cannabis sativa plants. Research by Winston et al. (2014) provided the first detailed characterization of the endorhiza microbiome across multiple cannabis cultivars, revealing that these internal root communities show significant cultivar-specificity and are distinct from both the surrounding rhizosphere and bulk soil communities.
+The endorhiza — the microbial community inhabiting the interior of plant roots —
+represents the most intimate plant-microbe interface. In Cannabis, the endorhiza
+microbiome is distinct from both the rhizosphere and bulk soil communities and
+shows significant cultivar-specific variation. The first comprehensive characterization
+of Cannabis [[cannabis-rhizosphere-endorhiza-communities]] was published by Winston et al. (2014), analyzing
+five cultivars across two soil types using Illumina 16S rRNA sequencing.
 
-## Definition and Significance
+## Defining the Endorhiza
 
-The endorhiza refers to the interior of plant roots colonized by microorganisms, primarily bacteria, that live within root tissues without causing disease. These endophytic bacteria differ from rhizosphere bacteria, which inhabit the soil immediately surrounding the root surface, and from rhizoplane bacteria, which colonize the root surface itself.
+The endorhiza encompasses all microorganisms that have colonized root tissue, living
+within the root cortex and vascular system. These endophytic bacteria differ from
+rhizosphere microbes in several important ways:
 
-Endorhiza bacteria can provide their host plants with numerous benefits including nitrogen fixation, production of plant growth-promoting substances, assistance in tolerating environmental stressors, and suppression of pathogenic organisms. In cannabis specifically, the endorhiza microbiome may influence nutrient uptake, disease resistance, and potentially the production of secondary metabolites including cannabinoids and terpenes.
+- They occupy a protected niche inside root tissue, shielded from environmental
+  fluctuations and competition from soil organisms
+- They interact directly with plant cells, exchanging metabolites and signaling
+  molecules across the root cell membrane
+- They are subject to plant immune surveillance and must evade or suppress plant
+  defense responses to maintain colonization
+- Their community composition is more strongly shaped by host genotype than by
+  soil properties, unlike rhizosphere communities
 
-## Core Endorhiza Community
+## Core Endorhiza Community of Cannabis
 
-The Winston et al. study identified a consistent core bacterial community present in the endorhiza of all cannabis cultivars examined. This core community includes several well-known endophytic bacterial taxa:
+Despite cultivar-specific differences, all Cannabis plants shared a conserved core
+endorhiza community consisting of six major bacterial groups:
 
-Pseudomonas species are prominent members of the cannabis endorhiza core community. Pseudomonas is one of the most well-studied genera of plant-associated bacteria and includes species known for plant growth promotion, biocontrol activity against pathogens, and induced systemic resistance.
+1. **Pseudomonas** — Well-known plant growth-promoting bacteria that produce
+   siderophores, phytohormones, and antifungal compounds. Among the most
+   ubiquitous endophytes across all plant systems studied.
+2. **Cellvibrio** — An aerobic cellulolytic bacterium, the sole non-endophytic
+   specialist in the core community. Its presence may relate to cellulose
+   degradation within root tissue.
+3. **Oxalobacteraceae** — A family within Betaproteobacteria, commonly associated
+   with plant roots and known for plant growth-promoting activities.
+4. **Xanthomonadaceae** — A family within Gammaproteobacteria that includes both
+   plant pathogens and beneficial associates.
+5. **Actinomycetales** — An order of Gram-positive bacteria known for producing
+   [[cordyceps-cancer-bioactive-compounds]] including antibiotics. Common soil and root inhabitants.
+6. **Sphingobacteriales** — An order within Bacteroidetes frequently found in
+   root-associated environments.
 
-Cellvibrio species, aerobic cellulolytic bacteria, were found in the endorhiza at high abundance. However, their prevalence varied significantly between experiments, with much higher abundance in post-harvest samples (16.9 percent) compared to actively growing plants (0.095 percent). This dramatic difference suggests that Cellvibrio may be more associated with root decay processes than with healthy endophytic colonization.
-
-Oxalobacteraceae family members are part of the core community. Some Oxalobacteraceae are known for their ability to degrade oxalic acid, a plant metabolite that can be toxic at high concentrations.
-
-Xanthomonadaceae family members, Actinomycetales order members, and Sphingobacteriales order members round out the core endorhiza community. With the exception of Cellvibrio, all prevalent members of the core endorhiza community are well-known endophytic bacteria primarily within the orders Gammaproteobacteria and Alphaproteobacteria.
+With the exception of Cellvibrio, all prevalent core community members are well-
+established endophytic bacteria, primarily within the Gammaproteobacteria and
+Alphaproteobacteria classes — consistent with observations from other plant systems.
 
 ## Cultivar-Specific Differences
 
-Despite the shared core community, significant differences exist between cannabis cultivars in their endorhiza microbiome composition. In the first experiment, Methylophilus explained a significant portion of the difference between cultivars, comprising 13 percent of the microbial community in the Bookoo Kush endorhiza, 0.13 percent in Burmese, and was entirely absent from Sour Diesel.
+While the core community was conserved, significant differences in endorhiza
+community structure were found between Cannabis cultivars:
 
-In the second experiment comparing White Widow and Maui Wowie, the most significant cultivar-specific difference was the prevalence of Sphingomonas wittichii in the Maui Wowie strain. Sphingomonas wittichii has been shown in other contexts to metabolize phenazine-1-carboxylic acid and has been implicated in increased survival in soil environments.
+### Methylophilus Enrichment in Bookoo Kush
 
-These cultivar-specific differences suggest that different cannabis genotypes actively select for different bacterial communities within their root tissues, supporting the hypothesis that host plant genotype plays a significant role in structuring the endorhiza microbiome.
+The most striking cultivar-specific finding was the enrichment of **Methylophilus**
+in the Bookoo Kush endorhiza, where it comprised 13% of the microbial community.
+The same genus was present at only 0.13% in Burmese and was entirely absent from
+Sour Diesel. This dramatic difference (FDR: p = 0.012) accounted for a significant
+portion of the overall cultivar-level variation in community structure.
 
-## Taxonomic Composition
+Methylophilus is a methylotrophic bacterium that can utilize single-carbon compounds
+such as methanol as a carbon source. Its enrichment in specific cultivars may relate
+to differences in root exudate profiles — specifically, methanol production from
+plant cell wall pectin degradation, which can vary by genotype.
 
-The cannabis endorhiza shows a characteristic shift in taxonomic composition compared to rhizosphere and bulk soil communities. Consistent with the two-tier selection model, there is a decrease in Acidobacteria abundance within the endorhiza relative to the rhizosphere and bulk soil. Simultaneously, there is an increase in Proteobacteria and Actinobacteria within the endorhiza.
+### Sphingomonas wittichii in Maui Wowie
 
-The most significant abundance difference between sample types was the decrease in Acidobacteria from the order iii1-15 in endorhiza samples. Of the 51 OTUs significantly differentiating between sample types, the 17 OTUs that increased in abundance within the cannabis endorhiza relative to the rhizosphere were predominantly Proteobacteria, including several from the Rhizobiales order.
+In the second experiment, **Sphingomonas wittichii** was found to be prevalent in
+the Maui Wowie strain but not in White Widow. S. wittichii is notable for its ability
+to metabolize phenazine-1-carboxylic acid and has been implicated in increased
+survival in soil environments. This association may reflect differences in secondary
+metabolite production between the two cultivars influencing endophyte selection.
 
-## Post-Harvest Changes
+## Community Structure Shifts from Soil to Endorhiza
 
-Samples taken from post-harvest cannabis plants showed distinct endorhiza communities compared to actively growing plants. The high abundance of Cellvibrio in post-harvest samples is consistent with the early stages of root decay following plant senescence. Root decomposition after harvest dramatically alters the microbial community, and the post-harvest endorhiza community may not accurately represent the microbiome of living plants.
+Transitioning from the rhizosphere into the root interior involves dramatic
+community restructuring:
 
-This finding has important methodological implications. Studies of the cannabis microbiome should prioritize sampling from actively growing plants rather than post-harvest material to accurately characterize the functional endorhiza community.
+- **[[acidobacteria-decline-rhizosphere-endorhiza-transition]] sharply:** The most significant change was a dramatic
+  decrease in Acidobacteria, particularly the order iii1-15 (Bonferroni-corrected
+  p = 1.12e-7). Acidobacteria are oligotrophic soil bacteria poorly adapted to
+  the nutrient-rich root interior.
+- **Proteobacteria dominate:** Of the 17 OTUs that increased significantly in the
+  endorhiza relative to the rhizosphere, the majority were Proteobacteria from
+  the Rhizobiales order — classic plant-associated endophytes.
+- **Reduced alpha diversity:** Species richness declined significantly from bulk
+  soil (chao1: m = 4947) through rhizosphere (chao1: m = 4525) to endorhiza
+  (chao1: m = 3321), reflecting the selective bottleneck of root entry.
 
-## Functional Implications
+## Functional Roles of Endorhiza Bacteria
 
-The functional roles of endorhiza bacteria in cannabis are not yet fully characterized, but parallels from other plant systems suggest several potential contributions. Nitrogen-fixing endophytes could supply biologically fixed nitrogen to the plant. Phosphate-solubilizing endophytes could enhance phosphorus availability from soil minerals. Endophytes producing indole-3-acetic acid or other phytohormones could stimulate root growth and development.
+Endorhiza bacteria provide multiple benefits to their Cannabis hosts:
 
-The connection between the endorhiza microbiome and cannabinoid production remains speculative but intriguing. The significant correlation found between endorhiza community structure and cannabinoid concentration in the Winston et al. study suggests a possible relationship, though disentangling the effects of soil chemistry from microbiome composition proved challenging.
+- **Phytohormone production:** Including auxins, cytokinins, and gibberellins that
+  modulate plant growth and development
+- **Nitrogen fixation:** Some endorhiza members fix atmospheric nitrogen, providing
+  a direct nutrient source to the plant
+- **Disease suppression:** Through production of antimicrobial compounds, competition
+  for niche space, and induction of [[endophytic-mycorrhizal-induced-systemic-resistance]]
+- **Stress tolerance:** Endorhiza bacteria assist plants in tolerating environmental
+  stressors including heavy metals, salinity, and drought
+- **Secondary metabolism modulation:** Emerging evidence suggests endophytes may
+  influence plant [[fungal-elicitors-enhanced-secondary-metabolite-production]] production, including [[cannabinoid-biosynthesis-pathway]]
 
-## Future Research Directions
+## Cannabinoid Correlation
 
-Future work on the cannabis endorhiza microbiome should focus on elucidating the specific functional roles of individual bacterial taxa, understanding how host genotype selects for particular endophyte communities, and determining whether manipulation of the endorhiza community can enhance plant fitness, disease resistance, or secondary metabolite production. Sampling endorhiza communities across multiple time points during the plant's life cycle would help characterize natural variation and identify key windows for microbial intervention.
+A provocative finding was the significant correlation between endorhiza community
+structure and cannabinoid profiles (Mantel test unweighted r = 0.863, p = 0.001).
+However, this correlation is confounded by the fact that THC concentration was also
+significantly correlated with soil edaphic variables. Disentangling the effects of
+microbiome composition from soil chemistry on cannabinoid production remains an open
+research question.
 
-## Related Topics
+## Sampling Considerations
 
-- [[cannabis-cultivar-microbiome-specificity]] for cultivar-specific community differences
-- [[cannabis-microbiome-research]] for general cannabis microbiome science
-- endophyte core community for endophyte communities across plant tissues
-- microbiome edaphic factors for soil influences on root communities
-- [[bacterial-endophyte-isolation-detection-plant-roots]]
-- [[bacterial-endophytes-plant-roots]]
-## Practical Considerations
+Endorhiza sampling requires careful surface sterilization to avoid contamination
+from rhizosphere microbes:
 
-Successful implementation of Cannabis Endorhiza Microbiome requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
+1. Roots are excavated and adhering soil is removed by shaking into a whirlpak bag
+   (this soil becomes the rhizosphere sample)
+2. Root samples are rinsed with alcohol and sterile water to eliminate surface
+  microbes
+3. DNA is extracted from 0.25g of root tissue using a modified PowerSoil protocol
+   with a 65°C pre-heating step
+4. Triplicate samples are taken from different roots on the same plant
+   (pseudoreplicates) to account for within-plant variation
 
-## Future Directions
+## See Also
 
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-
+- [[two-tier-selection-model-plant-microbiome]]
+- [[cannabis-rhizosphere-microbial-communities]]
+- [[edaphic-factors-microbial-community-structure]]

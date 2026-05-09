@@ -9,7 +9,7 @@ sources: []
 
 # Microfungal Species Diversity Over Large Areas
 
-Understanding fungal species diversity at landscape and regional scales is essential for conservation planning and biodiversity estimation, yet the data remain remarkably sparse.
+Understanding fungal species diversity at landscape and regional scales is essential for conservation planning and [[biodiversity-fungal-biodiversity-estimation-methods]], yet the data remain remarkably sparse.
 
 ## The Best-Studied Sites
 
@@ -28,7 +28,7 @@ The most complete information on fungal species numbers for specific areas comes
 - Large numbers of microhabitats at both sites remain unexamined
 - An estimate of 3,000 species for either site does not seem unreasonable
 - Slapton Ley (~500 plant species) corresponds well with Hawksworth's 6:1 fungal-to-plant ratio
-- The relatively small increase from 4 ha to 250,000 ha suggests extrapolation from large areas may not be a good way to estimate fungal diversity
+- The relatively small increase from 4 ha to 250,000 ha suggests extrapolation from large areas may not be a good way to estimate [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 
 ## Taxonomic Composition
 
@@ -60,7 +60,7 @@ The true proportions are likely even more extreme given under-recording of tropi
 ## Factors Influencing Site Diversity
 
 ### Plant Diversity
-The taxonomic diversity and structural variety of plant taxa exert the greatest influence on microfungal diversity. Fungal diversity is affected by variations in host life form; lignified tissues (wood, bark, bamboo) decay more slowly and exhibit more extensive succession of fungal species.
+The taxonomic diversity and structural variety of plant taxa exert the greatest influence on [[leaf-litter-microfungal-diversity-tropical-temperate]]. Fungal diversity is affected by variations in host life form; lignified tissues (wood, bark, bamboo) decay more slowly and exhibit more extensive succession of fungal species.
 
 ### Temperature and Water
 - Most fungi grow and sporulate best above 15-20C
@@ -69,13 +69,15 @@ The taxonomic diversity and structural variety of plant taxa exert the greatest 
 - Some species are adapted to xeric environments
 
 ### Seasonality
-Significant seasonal variation in temperature or water availability results in different fungal communities compared to constant conditions.
+Significant seasonal variation in temperature or water availability results in different [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] compared to constant conditions.
 
 ## Under-Sampling Problem
 
 Bills and Polishook (1994) detected 78-134 species per collection from Costa Rican litter, with rarefaction curves showing no sign of leveling off. Reanalysis found only 15-28% overlap of named species between samples, underscoring the enormity of under-sampling.
 
 ## See Also
+
+- [[bloomfield-sudden-oak-death-phytophthora-species-diversity]]
 - [[fungal-species-richness-and-diversity-indices]]
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[fungal-species-concept-and-taxonomy]]
@@ -106,7 +108,7 @@ Slime molds appear on very old dung as the final successional stage, feeding on 
 
 ## Overlapping Timing
 
-Lodha (1974) documented considerable overlap in succession timing. The sequence is not strictly linear but modified by competition and nutrient availability (Webster 1970). Different substrates (carbohydrates, cellulose, lignins) within the same dung pat support simultaneously active fungal communities.
+Lodha (1974) documented considerable overlap in succession timing. The sequence is not strictly linear but modified by competition and [[ph-and-nutrient-availability-garden-soils]] (Webster 1970). Different substrates (carbohydrates, cellulose, lignins) within the same dung pat support simultaneously active fungal communities.
 
 ## Environmental Influences
 
@@ -114,7 +116,7 @@ Lodha (1974) documented considerable overlap in succession timing. The sequence 
 Temperature affects succession timing significantly. Wicklow and Moore (1974) found that *Thelebolus* and *Preussia* dominate in cold spring conditions, while other species peak in summer. Seasonal patterns shift the entire successional trajectory.
 
 ### Light
-Light influences succession through phototropic responses. *Ascobolus* and *Podospora* show positive phototropism — their fruiting structures orient toward light, affecting spore dispersal direction and efficiency.
+Light influences succession through phototropic responses. *Ascobolus* and *Podospora* show positive phototropism — their fruiting structures orient toward light, affecting [[aquatic-fungi-spore-dispersal-ingold]] direction and efficiency.
 
 ### Herbivore Species
 Most coprophilous studies have focused on cattle dung, but Eliasson and Lundqvist (1979) sampled 25 herbivore species and found distinct fungal communities on the dung of different animals, reflecting differences in diet, digestive physiology, and dung chemistry.

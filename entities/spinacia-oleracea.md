@@ -12,7 +12,7 @@ sources:
   - Morelock TE, Correll JC (2008). "Spinach." In: Prohens J, Nuez F (eds.) Vegetables II. Springer.
   - Rubatzky VE, Yamaguchi M (1997). World Vegetables: Principles, Production, and Nutritive Values. 2nd ed. Chapman & Hall.
   - Lestari EG, Meuwissen THE, van Arendonk JAM (2019). "Breeding strategies for spinach." Theoretical and Applied Genetics.
-  - Correll JC, Morelock TE, Motes JE (1994). "Downy mildew of spinach." Plant Disease.
+  - Correll JC, Morelock TE, Motes JE (1994). "[[cervantes-downy-mildew-fungal-blight]] of spinach." Plant Disease.
   - USDA Natural Resources Conservation Service. "Spinacia oleracea L." PLANTS Database.
 ---
 
@@ -22,7 +22,7 @@ sources:
 
 It is cultivated worldwide as a leafy green vegetable and is one of the most nutrient-dense crops available for human consumption.
 
-The species is dioecious, with separate male and female plants, which influences breeding strategies and commercial seed production.
+The species is dioecious, with separate male and female plants, which influences breeding strategies and commercial [[cervantes-seed-production-storage]].
 
 ## Taxonomy and Morphology
 
@@ -38,9 +38,9 @@ Two wild relatives are recognized: *Spinacia turkestanica* Iljin and *Spinacia t
 
 ### Morphology
 
-Leaves are simple, ovate to triangular, 5–30 cm long and 2–12 cm wide, forming a basal rosette during vegetative growth.
+Leaves are simple, ovate to triangular, 5–30 cm long and 2–12 cm wide, forming a basal rosette during [[cannabis-vegetative-growth-stage]].
 
-The leaf surface may be smooth (glabrous) or savoy (wrinkled and blistered), with the latter being the traditional market form in many regions.
+The [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] may be smooth (glabrous) or savoy (wrinkled and blistered), with the latter being the traditional market form in many regions.
 
 Modern cultivars bred for baby-leaf production tend toward smooth, flat leaves for ease of washing and processing.
 
@@ -56,7 +56,7 @@ Cultivation likely originated in ancient Persia (modern Iran), from which the sp
 
 The species was unknown to the ancient Greeks and Romans and reached Europe via Moorish Spain in the 11th–12th centuries.
 
-Commercial cultivation now occurs on every inhabited continent, with major production in China, the United States, Japan, and Turkey.
+Commercial cultivation now occurs on every inhabited continent, with major production in China, the [[dmt-containing-plants-united-states-halpern]], Japan, and Turkey.
 
 Spinach grows best in cool temperate climates with temperatures between 15–20°C and is notably sensitive to heat-induced bolting.
 
@@ -92,7 +92,7 @@ Nitrate content is relatively high among leafy vegetables, comparable to beetroo
 
 Downy mildew, caused by *Peronospora farinosa* f. sp. *spinaciae*, is the most economically important disease of spinach worldwide.
 
-The pathogen has evolved rapidly, with at least 19 recognized races as of 2020, complicating resistance breeding.
+The pathogen has evolved rapidly, with at least 19 recognized races as of 2020, complicating [[cannabis-disease-pest-resistance-breeding-clarke]].
 
 Fusarium wilt, caused by *Fusarium oxysporum* f. sp. *spinaciae*, is a soil-borne disease that can devastate fields with no available chemical control.
 
@@ -111,6 +111,8 @@ Male-sterile lines are maintained for commercial hybrid seed production, with st
 Genetic resistance to multiple downy mildew races is typically pyramided by combining several R-genes through marker-assisted selection.
 
 ## See Also
+
+- [[celosia-argentea]]
 
 - [[chenopodium-quinoa]]
 - [[portulaca-oleracea]]

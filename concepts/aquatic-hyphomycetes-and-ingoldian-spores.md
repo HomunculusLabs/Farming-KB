@@ -1,5 +1,5 @@
 ---
-title: Aquatic Hyphomycetes And Ingoldian Spores
+title: Aquatic aquatic hyphomycetes and ingoldian spores Spores
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -25,19 +25,19 @@ The primary ecological function of aquatic hyphomycetes is the decomposition of 
 
 The colonization of leaf litter by aquatic hyphomycetes follows a successional pattern. Early colonizers are typically species with rapid spore germination and fast hyphal growth, which quickly establish on the leaf surface and begin the process of decomposition. Later colonizers may replace or supplement the early species as the leaf substrate is progressively degraded and its chemical composition changes.
 
-The decomposition process involves the enzymatic breakdown of leaf structural polymers, including cellulose, hemicellulose, and pectin. The activities of cellulases, xylanases, pectinases, and other hydrolytic enzymes soften the leaf tissue, increase its palatability to invertebrate detritivores, and release dissolved organic matter into the stream water.
+The decomposition process involves the enzymatic breakdown of leaf structural polymers, including cellulose, hemicellulose, and pectin. The activities of cellulases, xylanases, pectinases, and other hydrolytic enzymes soften the leaf tissue, increase its palatability to invertebrate detritivores, and release [[dighton-fungal-dissolved-organic-carbon-production]] matter into the stream water.
 
 ## Importance in Stream Food Webs
 
 Aquatic hyphomycetes occupy a central position in stream food webs by converting recalcitrant leaf litter into fungal biomass and dissolved organic matter that can be utilized by other organisms. Fungal biomass, in the form of mycelium and conidia, is a high-quality food resource for stream invertebrates, including shredders that feed directly on decomposing leaves and collectors that filter fungal conidia from the water column.
 
-The conversion of leaf litter to fungal biomass increases the nutritional quality of the organic matter. Fungal tissue has a lower carbon-to-nitrogen ratio and higher concentrations of essential nutrients than the leaf litter itself, making it a more valuable food resource for invertebrate consumers. The "conditioning" of leaf litter by aquatic hyphomycetes is therefore a critical step in the transfer of energy from terrestrial primary production to aquatic consumers.
+The conversion of leaf litter to fungal biomass increases the [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of the organic matter. Fungal tissue has a lower carbon-to-nitrogen ratio and higher concentrations of essential nutrients than the leaf litter itself, making it a more valuable food resource for invertebrate consumers. The "conditioning" of leaf litter by aquatic hyphomycetes is therefore a critical step in the transfer of energy from terrestrial [[lichens-primary-production-soil-formation-dighton]] to aquatic consumers.
 
 ## Environmental Factors Influencing Activity
 
 The activity of aquatic hyphomycetes is influenced by several environmental factors, including water temperature, nutrient concentration, pH, dissolved oxygen, and the presence of pollutants. Temperature affects both the rate of enzymatic decomposition and the timing of spore production. Nutrient enrichment, particularly by nitrogen and phosphorus, can stimulate fungal growth and decomposition rates.
 
-Acidification of streams by atmospheric deposition or pollution can reduce the diversity and activity of aquatic hyphomycetes. Some species are more tolerant of acidic conditions than others, and acidification can shift community composition toward acid-tolerant taxa. Metal contamination from mining or industrial activities can also reduce fungal activity and alter community composition.
+Acidification of streams by atmospheric deposition or pollution can reduce the diversity and activity of aquatic hyphomycetes. Some species are more tolerant of acidic conditions than others, and acidification can shift [[core-endorhiza-bacterial-community-composition-cannabis]] toward acid-tolerant taxa. Metal contamination from mining or industrial activities can also reduce fungal activity and alter community composition.
 
 ## Response to Pollution
 
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-The high potency and small volume of cannabis oil, combined with
+The high potency and small volume of [[cervantes-hash-cannabis-oil-production]], combined with
 anti-marijuana laws, has created high potential profits for smugglers
 and new problems for law enforcement. The U.S. DEA (Drug Enforcement,
 1973) has described various seized devices. The situation is
@@ -59,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

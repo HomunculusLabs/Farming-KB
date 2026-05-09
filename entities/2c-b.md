@@ -59,9 +59,9 @@ The compound gained significant popularity in the  community during [[hallucinog
 - **Duration**: Oral 4–8 hours (typically 5–6 hours); insufflation 2–4 hours
 - **Peak effects**: Oral 1.5–2.5 hours post-dose
 - **Bioavailability**: Oral bioavailability is moderate (estimated 20–40%); first-pass metabolism significant
-- **Metabolism**: [[palmer-about-mushrooms-foraging-basics-and-safety]]
+- **Metabolism**: palmer-about-mushrooms-foraging-basics-and-safety
 
-2C-B has a relatively favorable safety profile based on both animal studies and decades of human use:
+2C-B has a relatively favorable [[cannabis-safety-profile-and-overdose-risk]] based on both animal studies and decades of human use:
 
 - **LD₅₀**: Intravenous LD₅₀ in rats > 50 mg/kg. No human fatalities have been conclusively attributed to 2C-B alone.
 - **Cardiovascular risk**: Mild to moderate increases in heart rate and blood pressure. Caution advised for individuals with cardiovascular conditions.
@@ -72,7 +72,7 @@ The compound gained significant popularity in the  community during [[hallucinog
 
 ## Legal Status
 
-2C-B is classified as Schedule I in the United States (since 1995), Class A in the UK (since 2002), and is controlled under international drug scheduling conventions in most countries. Despite legal restrictions, it remains widely available through illicit channels and is commonly encountered in the form of pressed tablets, capsules, or powder.
+2C-B is classified as Schedule I in the [[dmt-containing-plants-united-states-halpern]] (since 1995), Class A in the UK (since 2002), and is controlled under international drug scheduling conventions in most countries. Despite legal restrictions, it remains widely available through illicit channels and is commonly encountered in the form of pressed tablets, capsules, or powder.
 
 ## History
 
@@ -91,10 +91,14 @@ The compound gained significant popularity in the  community during [[hallucinog
 
 ## See Also
 
+- [[miproscaline]]
+
 - 
 - 
 - 
 
 ## See Also
+
+- [[miproscaline]]
 - [[i-thou-relationship-with-psychedelic-entities]]
 - [[mdma-qualitative-effects-phenomenology]]

@@ -15,7 +15,7 @@ In *Food of the Gods*, Terence McKenna offers a radical reading of the
 Book of Genesis, interpreting the story of the Fall as "history's first
 drug bust." This reading is central to his argument that the suppression
 of psychoactive plants is not a modern phenomenon but rather a defining
-feature of the dominator culture that replaced the earlier partnership
+feature of the [[mckenna-dominator-culture-and-suppression-of-ecstasy]] that replaced the earlier partnership
 societies. The Genesis narrative, in McKenna's interpretation, encodes
 the cultural memory of this transition.
 
@@ -29,7 +29,7 @@ lost golden age of plenty, partnership, and social balance. For the
 prehistoric peoples of the high plateau of the Tassili-n-Ajjer, McKenna
 contends, Eden was not a myth but home.
 
-The rise of language, partnership society, and complex religious ideas,
+The rise of language, [[mckenna-dominator-vs-partnership-society-model]], and complex religious ideas,
 McKenna argues, occurred in the game-filled, mushroom-dotted grasslands
 and savannahs of tropical and subtropical Africa. There the partnership
 society arose and flourished; there hunter-gatherer culture slowly gave
@@ -51,7 +51,7 @@ from the undifferentiated oceanic consciousness of the partnership
 culture.
 
 The fruit, McKenna identifies explicitly as the psilocybin-containing
-mushroom *Stropharia cubensis* that catalyzed the Tassili partnership
+mushroom *[[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]* that catalyzed the Tassili partnership
 Eden and then maintained it through a religion that placed a premium on
 frequent dissolution of personal boundaries into the oceanic presence
 of the Great Goddess, who is also called Gala, Geo, Ge, the Earth.
@@ -89,3 +89,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[mckenna-genesis-first-drug-bust]]

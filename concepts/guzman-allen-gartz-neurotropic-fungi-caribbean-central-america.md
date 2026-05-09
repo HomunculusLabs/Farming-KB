@@ -1,5 +1,5 @@
 ---
-title: "Neurotropic Fungi of the Caribbean and Central America"
+title: "challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification of the Caribbean and Central America"
 created: 2026-04-28
 tags:
   - mycology
@@ -18,19 +18,19 @@ type: concept
 
 # Neurotropic Fungi of the Caribbean and Central America
 
-The Caribbean and Central America form a critical biogeographic bridge between North and South America, and this region hosts a notable diversity of neurotropic fungi. The tropical climate, combined with the introduction of cattle during the colonial period, created ideal conditions for coprophilous (dung-inhabiting) psilocybian species. The region's fungal diversity reflects both native Neotropical elements and species that may have been introduced through historical trade and livestock movements.
+The Caribbean and Central America form a critical biogeographic bridge between North and South America, and this region hosts a notable diversity of neurotropic fungi. The tropical climate, combined with the introduction of cattle during the colonial period, created ideal conditions for coprophilous (dung-inhabiting) psilocybian species. The region's [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] reflects both native Neotropical elements and species that may have been introduced through historical trade and livestock movements.
 
 ## Central America
 
-Central America, stretching from Guatemala to Panama, contains several important neurotropic fungal species, though the region has been less intensively studied than Mexico or South America.
+Central America, stretching from Guatemala to Panama, contains several important [[mexico-center-neurotropic-fungal-biodiversity]] species, though the region has been less intensively studied than Mexico or South America.
 
 ### Guatemala
 
 Guatemala has documented reports of several important neurotropic species:
 
-- **Amanita muscaria** — reported by Lowy (1972, 1974, 1977), Torres (1984), and Wasson et al. (1986); grows in mycorrhizal association with Pinus in highland areas
+- **[[allegro-amanita-muscaria-properties-and-pharmacology]]** — reported by Lowy (1972, 1974, 1977), Torres (1984), and Wasson et al. (1986); grows in mycorrhizal association with Pinus in highland areas
 - **[[copelandia-cyanescens]]** — reported by Sáenz et al. (1983)
-- **Psilocybe cubensis** — documented by Sáenz et al. (1983) and Guzmán (1995)
+- **[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]** — documented by Sáenz et al. (1983) and Guzmán (1995)
 - **Psilocybe cf. aztecorum** — an unconfirmed record from Sáenz et al. (1983), suggesting possible highland species yet to be formally documented
 - **Psilocybe cf. mexicana** — another unconfirmed record, hinting at species shared with Mexico
 
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

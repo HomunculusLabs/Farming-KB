@@ -1,5 +1,5 @@
 ---
-title: Cannabis and Liver Cancer
+title: Cannabis and cannabis and liver cancer research
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Cannabis and Liver Cancer
 
-**Source:** The Cannabis Health Index, Uwe Blesching, PhD (2017)
+**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]], Uwe Blesching, PhD (2017)
 **Updated:** 2026-04-19
 
 ## Evidence-Based Therapeutic Potential
@@ -25,7 +25,7 @@ Hepatocellular carcinoma accounts for approximately 85% of primary liver cancers
 
 ## Cannabis and Liver Cancer
 
-Palermo, Italy (2009): Researchers confirmed that WIN55,212-2 (a synthetic cannabinoid receptor agonist) produced liver cancer cell death (apoptosis) in a dose- and time-dependent manner. Authors stated "potential therapeutic role of WIN in hepatic cancer treatment."
+Palermo, Italy (2009): Researchers confirmed that WIN55,212-2 (a synthetic [[cannabis-cannabinoid-receptor-pharmacology]] agonist) produced liver [[blesching-cannabis-apoptosis-and-cancer-cell-death]] death (apoptosis) in a dose- and time-dependent manner. Authors stated "potential therapeutic role of WIN in hepatic cancer treatment."
 
 Madrid, Spain (2011): Researchers investigated THC and JWH-015 on various liver cancer cell lines. Both cannabinoids inhibited liver cancer tumor growth in animal models.
 
@@ -46,7 +46,7 @@ Cannabinoids exert anti-liver-cancer effects through several receptor-mediated p
 
 - **Anti-proliferative signaling:** Cannabinoids activate signaling pathways that inhibit cancer cell proliferation, including the p38 MAPK pathway and the modulation of cyclin-dependent kinase inhibitors that arrest the cell cycle.
 
-- **Anti-angiogenic effects:** Like their effects in brain cancer, cannabinoids may inhibit angiogenesis in liver tumors, cutting off the blood supply that tumors need for growth and metastasis. This mechanism involves suppression of VEGF and other pro-angiogenic factors.
+- **Anti-angiogenic effects:** Like their effects in [[blesching-cannabis-brain-cancer-glioblastoma]], cannabinoids may inhibit angiogenesis in liver tumors, cutting off the blood supply that tumors need for growth and metastasis. This mechanism involves suppression of VEGF and other pro-angiogenic factors.
 
 - **Ceramide pathway activation:** Cannabinoid receptor activation can induce ceramide accumulation in cancer cells, triggering mitochondrial dysfunction and apoptosis through the intrinsic cell death pathway.
 
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -20,14 +20,14 @@ The book is divided into two parts:
 
 - [[solomon-root-exudates-and-allelopathy]], the rhizosphere
 - [[teaming-with-nutrients-composting-and-nutrient-cycling]], horizons
-- teaming with microbes overview — the primary decomposers, nutrient cycling, biofilm formation
-- teaming with microbes overview — hyphal networks, nutrient transport, mycorrhizal-fungi|mycorrhizae, pH effects
+- teaming with microbes overview — the primary decomposers, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], biofilm formation
+- teaming with microbes overview — hyphal networks, [[mycelial-network-nutrient-transport-imaging-gadd]], mycorrhizal-fungi|mycorrhizae, pH effects
 - Algae and Slime Molds — minor but present soil organisms
 - teaming with microbes overview — flagellates, amoebae, ciliates as nutrient mineralizers
 - teaming with microbes overview — bacterial-feeders, fungal-feeders, and predatory roles
 - teaming with microbes overview — microarthropods as shredders and predators
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
-- Soil food web assessment tools
+- Soil food [[ingham-soil-food-web-assessment-methods]] tools
 - [[teaming-with-microbes-compost-mulch-tea]] as cold compost and fungal food
 - [[teaming-with-microbes-old-growth-forest]]
 
@@ -47,7 +47,7 @@ This ratio is central to the book's practical recommendations, detailed further 
 
 ## Editions
 
-The book was revised in a 2010 edition and again in a 2017 "Timber Press Guide" edition, which updated the science and expanded coverage of mycorrhizal fungi and compost tea practices. The 2017 edition is considered the definitive version for contemporary readers.
+The book was revised in a 2010 edition and again in a 2017 "Timber Press Guide" edition, which updated the science and expanded coverage of [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] and [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]] practices. The 2017 edition is considered the definitive version for contemporary readers.
 ## Practical Considerations
 
 When working with Teaming with Microbes — Overview, several practical factors should be
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

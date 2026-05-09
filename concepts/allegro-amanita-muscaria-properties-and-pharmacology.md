@@ -26,7 +26,7 @@ The most striking feature of the [[amanita-muscaria-cultural-history]] lore acro
 
 ## Growth Habits and Seasonal Cycles
 
-The seasonal appearance of the [[allegro-colour-and-consistency-of-the-amanita-muscaria]] relationship between Amanita muscaria and certain tree species
+The seasonal appearance of the [[allegro-colour-and-consistency-of-the-amanita-muscaria]] relationship between [[golden-guide-amanita-muscaria-and-soma]] certain tree species
 formed the basis for the identification of the Tree of Knowledge in the Garden
 of Eden story.
 
@@ -54,7 +54,7 @@ Allegro traced the influence of the Amanita muscaria's distinctive
 appearance through countless cultural artifacts and stories. From the caps
 worn by medieval wizards and the red hoods of fairy tale heroines to the
 Christmas decorations featuring red-and-white mushrooms, he saw the
-enduring imprint of the ancient mushroom cult on European folklore. The
+enduring imprint of the ancient [[african-mushroom-cult-history]] on European folklore. The
 pharmacological effects of the mushroom -- its ability to produce visions
 of small beings, altered perceptions of scale, and feelings of flying --
 provided the experiential basis for stories about fairies, elves, and
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

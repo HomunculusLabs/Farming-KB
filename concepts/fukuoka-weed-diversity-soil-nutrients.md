@@ -1,10 +1,11 @@
 ---
-title: Weed Diversity and Soil Nutrient Availability
+title: fukuoka weed diversity soil nutrients and Soil ph-and-nutrient-availability-garden-soils
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [regenerative, soil]
-sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Weed Diversity and Soil Nutrient Availability
@@ -15,7 +16,7 @@ Masanobu Fukuoka observed that the diversity of weeds in a field
 directly reflects and contributes to the soil's nutrient profile. This
 insight is central to his [[fukuoka-ground-cover-strategy]]. The [[fukuoka-straw-mulch-philosophy]] was laid over this
 diverse weed community, gradually building soil fertility as all the
-organic matter decomposed. Over time, the soil became richer and more
+[[hamilton-composting-and-organic-matter-management]] decomposed. Over time, the soil became richer and more
 balanced than any soil that could be created through chemical
 fertilizer applications.
 
@@ -24,7 +25,7 @@ fertilizer applications.
 When crops grow in soil enriched by a diverse community of weeds, they
 have access to a broader spectrum of nutrients than crops grown in
 chemically fertilized monoculture. This contributes to the natural
-disease and pest resistance that Fukuoka observed in his naturally
+disease and [[cannabis-disease-pest-resistance-breeding-clarke]] that Fukuoka observed in his naturally
 farmed crops. Plants with balanced nutrition are inherently stronger
 and less susceptible to [[fukuoka-vegetable-disease-insect-resistance]] problems.
 
@@ -38,7 +39,7 @@ supply only nitrogen, phosphorus, and potassium (NPK), missing the full
 spectrum of micronutrients that diverse weed communities make available. Over
 time, the dependency on synthetic inputs creates a degenerative cycle: soils
 become progressively depleted of trace minerals, crops become less nutritious,
-and pest and disease pressure increases as plant immunity weakens.
+and [[hamilton-pest-and-disease-control-organic]] pressure increases as plant immunity weakens.
 
 ## Specific Weed Functions in Nutrient Cycling
 
@@ -73,7 +74,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +116,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

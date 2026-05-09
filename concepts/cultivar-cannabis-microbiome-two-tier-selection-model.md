@@ -1,5 +1,5 @@
 ---
-title: "Two-Tier Selection Model for Cannabis Root Microbiome"
+title: "Two-Tier two-tier-selection-model-plant-microbiome for Cannabis Root Microbiome"
 created: 2026-04-28
 tags: [cannabis-microbiome, rhizosphere, plant-microbe-interactions, soil-ecology, endorhiza]
 date: 2026-04-25
@@ -15,7 +15,7 @@ type: concept
 This landmark study by Winston et al. (2014) provides the first description of the
 endorhiza, rhizosphere, and bulk soil-associated microbiome of five distinct Cannabis
 cultivars. The research supports a two-tier selection model where soil type determines
-community composition across sample types while host cultivar determines community
+[[core-endorhiza-bacterial-community-composition-cannabis]] across sample types while host cultivar determines community
 structure within endorhiza samples. For related work, see [[cannabis-root-microbiome]] pages.
 
 ## Study Design
@@ -30,7 +30,7 @@ Samples taken eight weeks post-harvest. 27 total samples.
 types with significant edaphic variation. Samples taken two weeks pre-harvest from
 organically grown plants in Vista and Orange County, California. 42 total samples.
 
-Total: 69 samples analyzed via Illumina 16S rRNA sequencing of the V4 region.
+Total: 69 samples analyzed via Illumina 16S [[16s-rrna-sequencing-microbiome-analysis]] of the V4 region.
 
 ## The Two-Tier Selection Model
 
@@ -38,10 +38,10 @@ A growing body of research unites rhizosphere and plant tissue colonization unde
 a two-tier selection model:
 
 ### Tier 1: Soil Determination of Community Composition
-Edaphic factors determine the structure of the local soil microbiota, which
+[[soil-edaphic-factors-microbial-communities]] determine the structure of the local soil microbiota, which
 becomes the source for the first bacterial community shift into the nutrient-rich
 rhizosphere environment. Soil type is the main determinant of which microbial
-species are present (OTU presence/absence). The [[understanding-cultivar-two-tier-selection-model-cannabis-microbiome]]
+species are present (OTU presence/absence). The cultivar cultivar cannabis microbiome two tier selection model two tier selection model
 
 ## See Also
 
@@ -62,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -104,4 +104,4 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+- [[two-tier-selection-model]]

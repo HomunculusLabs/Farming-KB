@@ -1,5 +1,5 @@
 ---
-title: Water Activity and Osmophilic Fungal Media Preparation
+title: Water Activity and water activity osmophilic fungal media preparation Media Preparation
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -11,7 +11,7 @@ sources: []
 
 Updated: 2026-04-18
 
-Water activity (aw) is a physiochemical index of water availability ranging from 0 to 1. It is a critical factor in fungal ecology, food preservation, and isolation of xerophilic and osmophilic fungi. This page covers the principles of water activity and practical methods for preparing media at defined aw values.
+Water activity (aw) is a physiochemical index of water availability ranging from 0 to 1. It is a critical factor in [[gadd-fungal-ecology-endophytes]], food preservation, and isolation of xerophilic and osmophilic fungi. This page covers the principles of water activity and practical methods for preparing media at defined aw values.
 
 ## Water Activity Principles
 
@@ -22,7 +22,7 @@ Key thresholds:
 - Animal life confined to aw 0.99-1.0
 - Permanent wilting point of plants: approximately aw 0.98
 - Most microorganisms restricted to aw 0.95+
-- Xerophilic fungi can grow below aw 0.85
+- [[biodiversity-xerophilic-fungi-dry-environments]] can grow below aw 0.85
 - Some fungi grow at aw as low as 0.62
 
 ## Water Activity vs Water Potential
@@ -77,12 +77,12 @@ For general isolation of alkalophilic and alkali-tolerant fungi. Prepared with s
 Alkaline media for isolating alkalophilic fungi, containing sodium carbonate (0.5-2%) at pH 8.5-11.
 
 ### Czapek-Dox with NaCl
-Standard Czapek-Dox modified with 15-20% NaCl for isolating halophilic fungi from saline soils. For marine fungi, Instant Ocean or sea salts are added to match seawater ion concentration (approximately 3% NaCl, osmolality ~1.0, aw 0.981).
+Standard Czapek-Dox modified with 15-20% NaCl for isolating [[halotolerant-halophilic-fungi-saline-environments]] from saline soils. For marine fungi, Instant Ocean or sea salts are added to match seawater ion concentration (approximately 3% NaCl, osmolality ~1.0, aw 0.981).
 
 ## Important Protocol Notes
 
-1. Diluents for osmophilic isolation should contain 20-30% glucose or fructose in peptone water to prevent osmotic shock to spores
-2. Growth rates change with aw depending on incubation temperature, pH, and nutrient availability
+1. Diluents for osmophilic isolation should contain 20-30% glucose or fructose in peptone water to prevent [[ingham-antibiotics-osmotic-shock-compost-tea]] to spores
+2. Growth rates change with aw depending on incubation temperature, pH, and [[ph-and-nutrient-availability-garden-soils]]
 3. Sterile acid or base solutions (not concentrated) should be used to adjust pH; adjust after autoclaving
 4. Autoclaving at extreme pH can destroy the agar matrix
 5. Glass Petri dishes (not plastic) must be used for oligotrophic media; glassware washed in 5% HCl before use
@@ -90,7 +90,9 @@ Standard Czapek-Dox modified with 15-20% NaCl for isolating halophilic fungi fro
 
 ## See Also
 
+- [[osmophilic-osmotolerant-fungi-low-water-activity]]
+
 - [[fungi-in-stressful-environments]]
 - [[halophilic-fungi]]
 - [[fungi-stressful-environments-thermophilic-xerophilic-halophilic]]
-- [[fungal-enzyme-activity-nutrient-availability]]
+- fungal-enzyme-activity-nutrient-availability

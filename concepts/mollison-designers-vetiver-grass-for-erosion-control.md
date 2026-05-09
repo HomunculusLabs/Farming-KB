@@ -1,5 +1,5 @@
 ---
-title: Vetiver Grass for Erosion Control and Mulch
+title: comparison-vetiver-grass-vs-bamboo-for-erosion-control for permplant-willows-salix-erosion-control-fodder and Mulch
 created: 2026-04-26
 tags:
   - permaculture
@@ -17,7 +17,7 @@ type: concept
 # Vetiver Grass for Erosion Control and Mulch
 
 Vetiver grass (Vetiveria zizanoides) is one of the most frequently cited
-species in the Permaculture Designers Manual for erosion control, slope
+species in the Permaculture [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] for erosion control, slope
 stabilisation, and mulch production. Mollison recommends it across
 tropical, subtropical, and dryland contexts as a primary tool for
 replacing engineered contour banks with living biological structures.
@@ -60,7 +60,7 @@ barrier, and hedgerow purposes.
 The deep root system of vetiver makes it particularly valuable in drylands
 where shallow-rooted grasses fail to persist through dry seasons. The
 roots can penetrate several metres into the soil, accessing water and
-nutrients unavailable to other ground covers.
+nutrients unavailable to other [[permaculture-plants-food-forest-ground-covers-bamboos]].
 
 ## Integration with Earthworks
 
@@ -85,6 +85,6 @@ forming a dense continuous hedge.
 
 ## Related Concepts
 
-- [[mollison-tropical-earth-shaping-and-terrace-systems]]
+- mollison-tropical-earth-shaping-and-terrace-systems
 - [[mollison-barrier-plants-in-garden-design]]
 - [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]

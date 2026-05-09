@@ -13,7 +13,7 @@ sources: [raw/papers/grahamholmes-what-a-plant-knowsindd.md]
 
 The concept of memory [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]] accumulates at the infection site and travels systemically through the plant. This primes distal tissues for enhanced defense, including upregulation of pathogenesis-related ([[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]] vival during subsequent droughts.
 
-Heat stress memory operates through similar epigenetic mechanisms. After a heat wave, plants retain histone marks at heat shock protein (HSP) gene loci that enable faster induction of these protective proteins during subsequent heat events.
+[[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]] memory operates through similar epigenetic mechanisms. After a heat wave, plants retain histone marks at heat shock protein (HSP) gene loci that enable faster induction of these protective proteins during subsequent heat events.
 
 The duration of this memory varies from days to weeks depending on the species and the severity of the initial stress. More intense initial stress tends to produce longer-lasting memory.
 
@@ -21,7 +21,7 @@ The duration of this memory varies from days to weeks depending on the species a
 
 Plants exhibit behavioral phenomena analogous to animal learning. Repeated mechanical stimulation leads to habituation, a diminished response to the same stimulus.
 
-*Mimosa pudica* plants that are repeatedly touched eventually stop folding their leaves, a response that recovers after a period of rest. This habituation is not due to fatigue but represents a genuine learned reduction in sensitivity.
+*[[tompkins-mimosa-pudica-sensitive-plant-experiments]]* plants that are repeatedly touched eventually stop folding their leaves, a response that recovers after a period of rest. This habituation is not due to fatigue but represents a genuine learned reduction in sensitivity.
 
 Conversely, sensitization occurs when exposure to one stimulus enhances the response to a different stimulus.
 
@@ -29,7 +29,7 @@ Plants exposed to herbivore damage become more sensitive to subsequent mechanica
 
 These forms of non-associative learning demonstrate that plant behavioral responses are not fixed reflexes but can be modifie [[fukuoka-textdoc-soil-rehabilitation-timeline-orchard-cover-crop-management]] tions for Agriculture and Evolution
 
-Plant memory has profound implications for crop management and breeding. Plants that have been stress-primed through controlled exposure to mild stressors may perform better under field conditions.
+Plant memory has profound implications for [[mushroom-crop-management-flush-harvesting]] and breeding. Plants that have been stress-primed through controlled exposure to mild stressors may perform better under field conditions.
 
 Seed treatments that induce priming are being developed as alternatives to chemical pesticides and fertilizers, offering a more sustainable approach to crop protection.
 
@@ -41,7 +41,7 @@ This has reignited philosophical debates about the nature of cognition and aware
 
 - [[phytochrome-and-photoperiodism]]
 - systemic acquired resistance in plants
-- plant olfaction and volatile organic compound signaling
+- plant [[plant-olfaction-and-volatile-signaling]] organic compound signaling
 - vernalization and flowering time control
 ## Practical Considerations
 
@@ -59,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

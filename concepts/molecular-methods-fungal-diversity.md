@@ -1,5 +1,5 @@
 ---
-title: Molecular Methods for Assessing Fungal Diversity
+title: Molecular Methods for Assessing arbuscular-mycorrhizal-fungal-diversity-patterns-distribution
 created: 2026-04-28
 tags:
   - mycology
@@ -21,7 +21,7 @@ type: concept
 The last 30 years have been burdened with a loss of habitats from
 development, pollution, and poor management. As ecosystems are degraded
 and populations decrease, our need to address issues concerning
-biological and genetic diversity of remaining organisms increases.
+biological and [[biodiversity-fungal-genetic-diversity]] of remaining organisms increases.
 Historically, determining the species diversity of fungi has been
 complicated by our inability to culture many fungi, the ephemeral
 nature of sporocarp production, and intraspecific variation in fungal
@@ -62,7 +62,7 @@ genetic diversity may be assessed using very small tissue samples.
 ## Arbitrarily Primed PCR (apPCR)
 
 apPCR analysis (also known as RAPD and single-primer PCR analysis) can
-discriminate among fungal taxa with few distinguishing morphological
+discriminate among [[undescribed-fungal-taxa]] with few distinguishing morphological
 characters. Short oligonucleotide primers (10-20 bp) that anneal to
 complementary DNA sequences are used. The number of apPCR products
 generated from individual primers ranges from fewer than 5 to more than
@@ -73,7 +73,7 @@ are shared among individuals of the same species for any given primer
 that is 15-16 bp long and composed of simple sequence repeats.
 Individuals from different species share from 0-20% of DNA products.
 This has led to species-specific apPCR band patterns for unequivocal
-taxonomic identification.
+[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]].
 
 ## Genetic Diversity Assessment
 
@@ -109,7 +109,7 @@ Molecular methods allow investigators to monitor species in complex
 substrata without the need for culturing organisms. Samples can be
 collected from individuals in situ without impacting community
 structure. Messenger RNA transcripts can be used to quantify specific
-gene activities in nature, providing insight into functional roles of
+gene activities in nature, providing insight into [[hemenway-mulch-makers-and-plant-functional-roles]] of
 fungi in ecosystems.
 
 ## PCR Variants
@@ -123,7 +123,7 @@ be collected from individuals regardless of their fastidious nature.
 
 ## Applications in Fungal Taxonomy
 
-Fungal taxonomy is complicated by intraspecific morphological and
+[[fungal-taxonomy]] is complicated by intraspecific morphological and
 physiological variation and the limited number of morphological
 markers. Including DNA-based characters in taxonomic studies alleviates
 these problems because genomic DNA is stable under changing

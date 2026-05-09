@@ -1,5 +1,5 @@
 ---
-title: Fungal Role in Nitrogen Cycling
+title: Fungal Role in query-how-does-nitrogen-cycling-work-in-a-permaculture-system
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-Fungi play critical roles in nitrogen (N) cycling in terrestrial and aquatic ecosystems. They mediate nitrogen transformations including mineralization, immobilization, nitrification-linked processes, and nitrogen transport through mycorrhizal networks. In forest ecosystems, nitrogen cycling by saprotrophic fungi is a major pathway for making N available to plants (Dighton and Boddy, 1989).
+Fungi play critical roles in nitrogen (N) cycling in terrestrial and aquatic ecosystems. They mediate nitrogen transformations including mineralization, immobilization, nitrification-linked processes, and nitrogen transport through [[dighton-mycorrhizal-networks-carbon-transfer]]. In forest ecosystems, nitrogen cycling by saprotrophic fungi is a major pathway for making N available to plants (Dighton and Boddy, 1989).
 
 ## Nitrogen Mineralization
 
@@ -31,7 +31,7 @@ Ectomycorrhizal (ECM) fungi are particularly important in nitrogen-limited borea
 
 ## Nitrogen and Ligninolytic Enzymes
 
-Nitrogen limitation is a key trigger for ligninolytic enzyme production in white-rot fungi. Under nitrogen-limited conditions, Phanerochaete chrysosporium and related species produce lignin peroxidase (LiP) and manganese peroxidase (MnP), switching from primary to secondary metabolism. This has implications for [[mycoremediation-enzymology]] and pollutant degradation efficiency.
+Nitrogen limitation is a key trigger for ligninolytic enzyme production in white-rot fungi. Under nitrogen-limited conditions, [[staycare-phanerochaete-chrysosporium-in-bioremediation]] and related species produce lignin peroxidase (LiP) and [[fungal-manganese-peroxidase-remediation]] (MnP), switching from primary to secondary metabolism. This has implications for [[mycoremediation-enzymology]] and pollutant degradation efficiency.
 
 ## Denitrification and Nitrous Oxide
 
@@ -40,7 +40,7 @@ Certain fungi can denitrify, reducing nitrate to nitrous oxide (N2O) and sometim
 ## Related Concepts
 
 - [[fungal-role-in-carbon-cycling]] for coupled C-N dynamics
-- [[fungal-nutrient-cycling-mineral-transformations]] for other nutrient cycling
+- [[fungal-nutrient-cycling-mineral-transformations]] for other [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 - [[mycorrhizal-fungi]] for ECM nitrogen relationships
 - [[mycorrhizal-fungi]] for AMF nitrogen uptake
 - [[fungal-ecology-decomposition-cycles]] for succession and N availability
@@ -60,7 +60,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +102,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -4,9 +4,9 @@
 ## Overview
 
 Chapter 2 of "What a Plant Knows" explores the remarkable olfactory capabilities
-of plants — their ability to detect chemical signals in the air and respond
+of plants — their ability to detect [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] in the air and respond
 appropriately. Plants do not have noses, but they possess molecular mechanisms
-for detecting volatile organic compounds (VOCs) that rival the sophistication of
+for detecting [[fungal-volatile-organic-compounds-communication]] compounds (VOCs) that rival the sophistication of
 animal olfaction. This chemical "smell" enables plants to perceive neighboring
 plants, detect herbivore attacks, coordinate defense responses, and even engage
 in what appears to be eavesdropping on other species' alarm signals.

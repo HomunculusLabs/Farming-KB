@@ -1,5 +1,5 @@
 ---
-title: Macrofungal Sampling Protocols and Collection Methods
+title: Macrofungal lichen-biodiversity-sampling-protocols-data-analysis and Collection Methods
 created: 2026-04-28
 tags:
   - mycology
@@ -41,10 +41,10 @@ successive years.
 
 ### Temperature and Precipitation
 
-Fungi fruit when temperatures are above freezing and moisture is
+[[mycorrhizal-fungi-fruit-trees]] when temperatures are above freezing and moisture is
 available. Temperature also has a major impact on macrofungi fruiting,
 an effect that may not be limited to the fruiting season. Warm summers
-increased production of mycorrhizal sporocarps in spruce forests but
+[[fukuoka-textdoc-increased-production-not-increased-yields]] of mycorrhizal sporocarps in spruce forests but
 had no effect on sporocarp production in pine forests. Excess moisture
 also can prevent fruiting in some species.
 
@@ -54,12 +54,12 @@ The challenge of measuring species diversity of macrofungi increases
 in years when many species fruit simultaneously. Some species may fruit
 only 1 year out of 4 or more, underscoring the need for long-term (at
 least 5-year, preferably 10-year) studies. Species richness estimators
-did not stabilize during a 21-year study of fungal fruiting phenology
+did not stabilize during a 21-year study of fungal [[macrofungal-fruiting-phenology-climate-variability]]
 in Switzerland. See [[lichen-biodiversity-sampling-protocols-data-analysis]]
 - [[macrofungal-sampling-methods]]
 
 - [[fungal-species-estimates-biodiversity-overview]] for species estimates
-- [[biodiversity-fungi-molecular-methods]] for genetic identification
+- biodiversity-fungi-molecular-methods for genetic identification
 ## Practical Considerations
 
 Successful implementation of Macrofungal Sampling Protocols and Collection Methods requires attention to
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

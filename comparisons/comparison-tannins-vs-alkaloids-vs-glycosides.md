@@ -1,11 +1,11 @@
 ---
-title: "Tannins vs Alkaloids vs Glycosides"
+title: "comparison tannins vs alkaloids vs glycosides vs Glycosides"
 tags: [secondary-metabolites, plant-chemistry, tannins, alkaloids, glycosides, comparison]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Harborne, J.B. (1998). Phytochemical Methods: A Guide to Modern Techniques of Plant Analysis, 3rd ed. Springer."
-  - "Wink, M. (2010). Functions of Plant Secondary Metabolites and Their Exploitation in Biotechnology. Annual Plant Reviews Vol. 39."
+  - "Wink, M. (2010). Functions of Plant [[antifungal-secondary-metabolites-coprophilous-fungi]] and Their Exploitation in Biotechnology. Annual Plant Reviews Vol. 39."
   - "Crozier, A., Clifford, M.N., Ashihara, H. (2006). Plant Secondary Metabolites: Occurrence, Structure and Role in the Human Diet. Blackwell Publishing."
   - "Dixon, R.A. & Paiva, N.L. (1995). Stress-Induced Phenylpropanoid Metabolism. The Plant Cell, 7(7), 1085–1097."
   - "Ziegler, J. & Facchini, P.J. (2008). Alkaloid Biosynthesis: Metabolism and Transport. Annual Review of Plant Biology, 59, 735–769."
@@ -16,19 +16,19 @@ created: 2026-04-28
 
 # Tannins vs Alkaloids vs Glycosides
 
-A structured comparison of three major classes of plant secondary metabolites. See also [[fungal-allelopathy-mechanisms-and-ecological-effects]] for ecological warfare roles.
+A structured comparison of three [[ascomycota-phylogeny-major-classes-lineages]] of plant secondary metabolites. See also [[fungal-allelopathy-mechanisms-and-ecological-effects]] for ecological warfare roles.
 
 ## At a Glance
 
 | Feature | Tannins | Alkaloids | Glycosides |
 |---|---|---|---|
 | **Chemical Structure** | Polyphenolic polymers (hydrolyzable: gallotannins/ellagitannins; condensed: proanthocyanidins) | Nitrogen-containing cyclic compounds (heterocyclic rings); typically derived from amino acids | Sugar moiety (glucose, rhamnose, etc.) bound via glycosidic bond to a non-sugar aglycone |
-| **Biosynthesis Pathway** | Shikimate → phenylpropanoid → flavonoid/polyphenol pathway | Derived from amino acids: ornithine, lysine, tryptophan, tyrosine (via various downstream routes) | Aglycone synthesized independently (terpenoid, phenolic, etc.); glycosyltransferase attaches the sugar |
+| **[[psilocybin-biosynthesis-pathway-and-enzymology]]** | Shikimate → phenylpropanoid → flavonoid/polyphenol pathway | Derived from amino acids: ornithine, lysine, tryptophan, tyrosine (via various downstream routes) | Aglycone synthesized independently (terpenoid, phenolic, etc.); glycosyltransferase attaches the sugar |
 | **Solubility** | Water-soluble (especially hydrolyzable); astringent; forms complexes with proteins and metals | Generally water-soluble as salts; many are alkaline; soluble in organic solvents (chloroform, ether) | Water-soluble due to sugar group; aglycone freed by hydrolysis (enzymatic or acid) |
 | **Biological Functions** | Protein precipitation, metal chelation, antioxidant activity, membrane protection | Neuroreceptor modulation, [[query-how-do-phytohormones-regulate-plant-growth-and-stress-responses]] |
 | **Notable Compounds** | Tannic acid, catechin, proanthocyanidins, ellagic acid | Caffeine, nicotine, morphine, quinine, atropine, strychnine, cocaine | Amygdalin (cyanogenic), digitoxin (cardiac), sennosides (anthraquinone), salicin (phenolic) |
 | **Human Uses** | Leather tanning, wine astringency, antioxidants, diarrhea treatment, astringent tonics | Pharmaceuticals (analgesics, antimalarials, stimulants), narcotics, spices, traditional medicine | Medicines (cardiac drugs, laxatives, analgesics), flavorings, dyes, industrial precursors |
-| **Agricultural Significance** | Reduced digestibility in forage crops; breeding for low tannin varieties (sorghum, legumes); beneficial in some silage | Crop protection potential; nicotine analogs as botanical insecticides (see [[cover-crops]] for pest deterrence; cyanogenic glycosides as livestock toxin risk |
+| **Agricultural Significance** | Reduced digestibility in forage crops; breeding for low tannin varieties (sorghum, legumes); beneficial in some silage | Crop protection potential; nicotine analogs as botanical insecticides (see [[cover-crops]] for [[foliar-pest-deterrence-aact-mechanisms]]; cyanogenic glycosides as livestock toxin risk |
 
 ## Chemical Nature: What Makes Each Class Distinct
 

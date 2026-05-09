@@ -16,7 +16,7 @@ sources:
   - National Research Council (1996). "Lost Crops of Africa, Vol. 1: Grains." National Academies Press.
   - DeVries, J. & Toenniessen, G. (2001). "Securing the Harvest: Biotechnology, Breeding, and Seed Systems for African Crops." CABI.
   - Upadhyaya, H.D. et al. (2011). "Finger millet genetic resources." In: Plant Genetic Resources: Characterization and Utilization, CABI.
-  - FAO (2023). "FAOSTAT: Finger Millet Production Data." fao.org/faostat.
+  - FAO (2023). "FAOSTAT: Finger Millet [[psilocybe-cubensis-miniculture-production-data-and-flush-longevity]]." fao.org/faostat.
 ---
 
 # Eleusine coracana
@@ -75,7 +75,7 @@ The crop is grown primarily under rainfed conditions at elevations from sea leve
 
 ## Nutritional Profile
 
-Finger millet has superior nutritional quality compared to most major cereals, making it particularly valuable for vegetarian and subsistence diets.
+Finger millet has superior [[coleman-winter-greens-nutritional-quality-cold-sweetening]] compared to most major cereals, making it particularly valuable for vegetarian and subsistence diets.
 
 **Key nutrients (per 100 g dry grain):**
 
@@ -91,13 +91,13 @@ The grain is naturally gluten-free, making it suitable for celiac patients. It h
 
 Finger millet fits well into diverse permaculture and agroecological designs due to its minimal external input requirements and multiple ecological functions.
 
-**Intercropping:** Commonly intercropped with legumes (pigeon pea, cowpea, groundnut) in traditional African and Indian farming systems. The legume provides nitrogen fixation while finger millet provides a supportive microclimate.
+**Intercropping:** Commonly intercropped with legumes (pigeon pea, cowpea, groundnut) in traditional African and Indian farming systems. The legume provides [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] while finger millet provides a supportive microclimate.
 
 **Straw mulch:** The abundant straw residue (2–3 tonnes/ha) is valued as mulch for moisture conservation and weed suppression, and as livestock fodder with moderate protein content.
 
-**Erosion control:** The dense tillering habit and fibrous root system make finger millet effective at stabilizing soil on sloping terrain and degraded lands.
+**[[permplant-willows-salix-erosion-control-fodder]]:** The dense tillering habit and fibrous root system make finger millet effective at stabilizing soil on sloping terrain and degraded lands.
 
-**Climate adaptation:** With a crop cycle of 90–120 days and C₄ photosynthesis, it matures quickly under water-limited conditions where C₃ cereals cannot compete.
+**[[jeavons-climate-adaptation-growing-seasons]]:** With a crop cycle of 90–120 days and C₄ photosynthesis, it matures quickly under water-limited conditions where C₃ cereals cannot compete.
 
 ## Pests and Diseases
 
@@ -107,7 +107,7 @@ Finger millet is relatively disease-resistant compared to other cereals, but sev
 
 **Striga** (*Striga hermonthica* and *S. asiatica*) parasitic weeds are a major constraint in African production, capable of causing complete crop failure in heavily infested fields. Intercropping with desmodium or cowpea provides partial suppression.
 
-Insect pests include the shoot fly (*Atherigona soccata*), stem borer (*Chilo partellus*), and armyworm (*Spodoptera frugiperda*). Early planting and biological control with Trichogramma wasps are recommended management approaches.
+Insect pests include the shoot fly (*Atherigona soccata*), stem borer (*Chilo partellus*), and armyworm (*Spodoptera frugiperda*). Early planting and [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] with Trichogramma wasps are recommended management approaches.
 
 ## See Also
 

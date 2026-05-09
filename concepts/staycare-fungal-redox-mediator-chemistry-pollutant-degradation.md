@@ -11,7 +11,7 @@ type: concept
 # Fungal Redox Mediator Chemistry in Pollutant Degradation
 
 Redox mediators are low-molecular-weight compounds that play essential
-roles in extending the catalytic reach of fungal ligninolytic enzymes.
+roles in extending the catalytic reach of fungal [[singh-ligninolytic-enzymes-fungal-bioremediation]].
 By acting as diffusible electron carriers between enzymes and target
 substrates, mediators enable the oxidation of compounds that are
 otherwise inaccessible to the enzymes themselves. Understanding the
@@ -39,7 +39,7 @@ drive the oxidation of many substrate molecules through the mediator.
 
 Veratryl alcohol (VA, 3,4-dimethoxybenzyl alcohol) is the principal
 redox mediator for lignin peroxidase. VA is produced extracellularly by
-P. chrysosporium as a secondary metabolite, and its production is
+P. chrysosporium as a [[fungal-elicitors-enhanced-secondary-metabolite-production]], and its production is
 stimulated by low nitrogen stress. VA has a standard redox potential of
 1.36 V/NHE, which places it out of the substrate range for oxidation
 by laccase alone.
@@ -54,13 +54,13 @@ The exact mechanism of VA mediation has been debated. The model involves
 VA functioning as a diffusible redox mediator that is compartmentalized
 away from the enzyme active site, allowing it to reach substrates that
 cannot directly interact with the enzyme protein. VA is also important
-for protecting LiP from inactivation by excess hydrogen peroxide.
+for protecting LiP from inactivation by excess [[cervantes-hydrogen-peroxide-sterilization]].
 
 ## Manganese Chelates as MnP Mediators
 
-Manganese peroxidase oxidizes Mn(II) to Mn(III), which forms chelates
+[[fungal-manganese-peroxidase-remediation]] oxidizes Mn(II) to Mn(III), which forms chelates
 with organic acids such as malonate, citrate, glyoxylate, and oxalate.
-These organic acids are common secondary metabolites of wood-rotting
+These organic acids are common [[antifungal-secondary-metabolites-coprophilous-fungi]] of wood-rotting
 basidiomycetes, secreted simultaneously with MnP. Oxalate shows unique
 effects in chelating and stabilizing Mn(III).
 
@@ -109,7 +109,7 @@ complete ligninolytic mediator system.
 
 ## Environmental Significance
 
-Redox mediator chemistry is central to pollutant degradation by fungi
+Redox mediator chemistry is central to pollutant [[query-how-does-lignin-degradation-by-fungi-work]]
 because many environmental pollutants are hydrophobic, high-molecular-
 weight, or bound to soil organic matter. Without mediators, these
 compounds cannot interact directly with the enzyme active sites. The

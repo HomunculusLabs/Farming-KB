@@ -1,5 +1,5 @@
 ---
-title: "Citric Acid Cycle — TCA Cycle and Krebs Cycle"
+title: "Citric citric acid cycle tca krebs cycle — TCA Cycle and Krebs Cycle"
 created: 2026-04-28
 updated: 2026-05-06
 tags: [biochemistry, metabolism, cellular-respiration, mitochondria, energy]
@@ -16,7 +16,7 @@ reactions that oxidize acetyl-CoA derived from
 carbohydrates, fats, and proteins into carbon dioxide and
 chemical energy in the form of ATP, NADH, and FADH2. It is
 the central metabolic hub of aerobic cells, connecting
-catabolic pathways that break down nutrients with anabolic
+catabolic pathways that [[query-can-fungi-break-down-plastic-pollution]] nutrients with anabolic
 pathways that build cellular components. Discovered by Hans
 Krebs in 1937, the cycle takes place in the mitochondrial
 matrix in eukaryotes and in the cytoplasm of prokaryotes.
@@ -78,7 +78,7 @@ glucose.
 Succinate dehydrogenase oxidizes succinate to fumarate,
 reducing FAD to FADH2. Unique among TCA cycle enzymes, it is
 embedded in the inner mitochondrial membrane and serves as
-Complex II of the electron transport chain chain, directly linking
+Complex II of the electron [[electron-transport-chain-mitochondrial-respiration]] chain, directly linking
 the cycle to [[knf-fish-amino-acid]] synthesis, succinyl-CoA for
 heme synthesis, and citrate for fatty acid synthesis. These
 cataplerotic withdrawals must be replenished by anaplerotic

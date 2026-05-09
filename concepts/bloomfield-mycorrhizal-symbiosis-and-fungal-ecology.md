@@ -1,5 +1,5 @@
 ---
-title: Bloomfield Mycorrhizal Symbiosis and Fungal Ecology
+title: Bloomfield bloomfield mycorrhizal symbiosis and fungal ecology and gadd-fungal-ecology-endophytes
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -22,7 +22,7 @@ Mycorrhizae ("fungus-roots") are intimate associations between fungi and plant r
 
 ### Rock-Penetrating Mycorrhizae
 
-Some mycorrhizal fungi (particularly boletes and other basidiomycetes) penetrate granite bedrock. For a dedicated treatment of this topic, see [[fungal-wood-decay-types]]:
+Some [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] (particularly boletes and other basidiomycetes) penetrate granite bedrock. For a dedicated treatment of this topic, see fungal-wood-decay-types:
 
 - **White rot fungi**: decompose both cellulose and lignin, leaving wood bleached and soft
 - **Brown rot fungi**: decompose cellulose but not lignin, leaving brown, crumbly wood
@@ -51,9 +51,9 @@ For a comprehensive treatment of fungal enzymatic systems and their applications
 ### Nutrient Cycling
 
 Fungi are essential to nutrient cycling:
-- Decompose all forms of dead organic matter
+- Decompose all forms of dead [[hamilton-composting-and-organic-matter-management]]
 - Release bound nitrogen, phosphorus, and minerals for plant uptake
-- [[bioluminescent-fungi]] may attract insects that serve as vectors for spore dispersal
+- [[bioluminescent-fungi]] may attract insects that serve as vectors for [[aquatic-fungi-spore-dispersal-ingold]]
 - Greenish glow is visible to insects
 - Insects could augment wind as a dispersal mechanism
 ## Practical Considerations
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

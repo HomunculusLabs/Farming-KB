@@ -6,7 +6,7 @@ on Earth. Current estimates suggest that between 1.5 million and 5.1 million
 fungal species exist, yet only approximately 74,000 to 120,000 have been
 formally described and named. This means that at best, we have identified
 roughly 5-8% of all fungal species — and the true figure may be as low as
-2-3%. The scale of undiscovered fungal diversity is staggering, comparable in
+2-3%. The scale of undiscovered [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] is staggering, comparable in
 magnitude to the challenge of cataloging tropical insects, yet fungal
 biodiversity receives far less attention and funding than either animal or
 plant diversity. The implications of this knowledge gap are profound: we are
@@ -20,7 +20,7 @@ David Hawksworth in 1991, based on a ratio of approximately 6:1 of fungal to
 plant species in well-studied temperate regions, extrapolated to the estimated
 270,000 species of vascular plants worldwide. This ratio was derived from
 intensive, long-term surveys of specific sites where mycologists studied the
-fungal communities associated with known plant populations over periods of 25
+[[biodiversity-of-fungi-soil-fungal-communities-agriculture]] associated with known plant populations over periods of 25
 years or more. In such comprehensive surveys, roughly six fungal species were
 documented for every plant species present. The sites studied were primarily
 temperate, raising the question of whether the ratio might be even higher in
@@ -28,7 +28,7 @@ species-rich tropical regions.
 
 Evidence accumulated since 1991 suggests that Hawksworth's estimate may indeed
 be conservative. Molecular studies of tropical plants have revealed
-extraordinarily high numbers of endophytic fungi (fungi living
+extraordinarily high numbers of [[comparison-endophytic-fungi-vs-mycorrhizal-fungi]] (fungi living
 asymptomatically within plant tissues) — individual leaves can harbor dozens
 of fungal species, most of which have never been cultured or described.
 Studies using environmental DNA sequencing (metabarcoding) of soil samples
@@ -65,7 +65,7 @@ methods detect DNA from dormant spores, dead hyphae, and species that cannot
 be cultured, but cannot distinguish between active and inactive organisms and
 may overestimate species richness due to sequencing artifacts. Each method
 provides a partial view, and the union of all methods still falls short of
-capturing the complete fungal community at any given site.
+capturing the complete [[air-pollution-fungal-community-responses]] at any given site.
 
 Fourth, the taxonomic expertise required to identify fungi is scarce and
 declining worldwide. Fungal systematics is a specialized field with relatively
@@ -87,8 +87,8 @@ low abundance.
 
 Despite our incomplete knowledge, fungi are recognized as essential components
 of every terrestrial ecosystem. They serve as primary decomposers of plant
-litter and woody material, driving nutrient cycling and carbon flow through
-ecosystems. Mycorrhizal fungi form symbiotic associations with the roots of an
+litter and woody material, driving [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and carbon flow through
+ecosystems. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] form symbiotic associations with the roots of an
 estimated 80-90% of all plant species, providing mineral nutrients
 (particularly phosphorus and nitrogen) in exchange for photosynthetic carbon —
 a mutualistic relationship that is fundamental to terrestrial plant
@@ -113,8 +113,11 @@ recovered.
 
 ## See Also
 - [[fungal-inventory-and-survey-methods]]
-- [[endophytic-fungi-diversity-and-ecology]]
+- endophytic-fungi-diversity-and-ecology
 
 ## See Also
 
 - [[fungal-biodiversity-species-estimation]]
+- [[fungal-biodiversity]]
+- [[decomposition]]
+- [[endophytic-fungi]]

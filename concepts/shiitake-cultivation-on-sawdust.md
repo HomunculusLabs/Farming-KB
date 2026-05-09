@@ -1,5 +1,5 @@
 ---
-title: Shiitake Cultivation on Sawdust
+title: gourmet-medicinal-mushroom-shiitake-cultivation-logs on Sawdust
 created: 2026-04-28
 tags: mycology, mushroom-cultivation, shiitake, lentinula, fungi]
 date: 2026-04-28
@@ -10,10 +10,10 @@ type: concept
 
 # Shiitake Cultivation on Sawdust
 
-Shiitake (Lentinula edodes) is the second most cultivated mushroom
-worldwide and arguably the most important gourmet mushroom in Asian cuisine.
+Shiitake ([[staycare-lentinula-edodes-in-bioremediation]]) is the second most cultivated mushroom
+worldwide and arguably the most important [[growing-gourmet-mushroom-dehydration-methods-equipment]] in Asian cuisine.
 Traditionally grown on hardwood logs, modern cultivation increasingly uses
-supplemented sawdust substrates for faster, more controlled production.
+[[oyster-mushroom-supplemented-sawdust-blocks]] substrates for faster, more controlled production.
 Stamets provides comprehensive guidance on both methods, with particular
 emphasis on the sawdust-based approach that has become the industry standard.
 
@@ -43,7 +43,7 @@ that has been exposed to weathering may have reduced nutritional value.
 The supplementation level significantly impacts yield but also increases
 contamination risk. Stamets recommends 15-20% bran for a balance of yield
 and reliability. Higher supplementation (up to 30%) can boost yields but
-requires absolutely pristine sterile technique.
+requires absolutely pristine [[cultivator-sterile-technique-and-agar-culture]].
 
 Moisture content should be adjusted to 58-65%. The substrate is mixed
 thoroughly to ensure even distribution of supplements and moisture. A
@@ -59,7 +59,7 @@ grain spawn at a 5-10% rate.
 
 Inoculated bags are incubated at 20 to 25 degrees C in darkness. Full
 colonization typically takes 30 to 60 days, significantly longer than
-oyster mushrooms. Shiitake [[mushroom-substrate-preparation]]
+[[query-how-to-grow-oyster-mushrooms-at-home]]. Shiitake [[mushroom-substrate-preparation]]
 - [[cotter-oyster-mushroom-cultivation]]
 - [[mushroom-fruiting-chamber-design-parameters]]
 ## Practical Considerations
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

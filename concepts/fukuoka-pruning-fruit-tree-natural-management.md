@@ -1,10 +1,11 @@
 ---
-title: Pruning and Fruit Tree Management: Natural vs Conventional
+title: Pruning and comparison-berry-growing-vs-fruit-tree-pruning Management: Natural vs Conventional
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [regenerative, plant-systems]
-sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Pruning and Fruit Tree Management: Natural vs Conventional
@@ -13,7 +14,7 @@ updated: 2026-04-18
 
 Masanobu Fukuoka's approach to fruit tree management represented one of
 the most radical departures from conventional orcharding. His rejection
-of [[fukuoka-citrus-orchard-establishment-bare-hillside]] on a bare hillside in Ehime Prefecture demonstrated the viability of his approach. He established the orchard by simply planting citrus seeds and allowing the resulting seedlings to grow without pruning, fertilizing, or pest control. The soil was built up naturally through the growth of ground cover plants and the decomposition of organic matter.
+of [[fukuoka-citrus-orchard-establishment-bare-hillside]] on a bare hillside in Ehime Prefecture demonstrated the viability of his approach. He established the orchard by simply planting citrus seeds and allowing the resulting seedlings to grow without pruning, fertilizing, or [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]. The soil was built up naturally through the growth of [[fukuoka-citrus-orchard-ground-cover-cultivation]] plants and the decomposition of [[hamilton-composting-and-organic-matter-management]].
 
 The orchard eventually produced abundant fruit without any of the
 conventional inputs. Weeds were controlled not by cultivation but by
@@ -24,7 +25,7 @@ of the orchard.
 
 ## Fruit Quality
 
-A common objection to natural fruit growing is that the fruit will be
+A common objection to natural [[holzer-fruit-growing-marginal-climates]] is that the fruit will be
 inferior in size, appearance, and sweetness. Fukuoka acknowledged that
 naturally grown fruit might not win prizes at agricultural shows, but
 argued that its flavor, nutritional value, and keeping quality were
@@ -43,7 +44,7 @@ recommended a gradual approach. Rather than abruptly stopping all
 pruning, he suggested reducing it progressively over several years,
 allowing the trees to gradually return to their natural form. The same
 applied to chemical inputs -- reducing fertilization and pesticide use
-gradually while building soil health through ground covers and mulching.
+gradually while building soil health through [[permaculture-plants-food-forest-ground-covers-bamboos]] and mulching.
 
 The key insight is that most of what orchardists do is unnecessary.
 Nature knows how to grow trees without human help. The farmer's role
@@ -58,6 +59,7 @@ trees can manage themselves.
 - [[fukuoka-natural-orchard-development]]
 - [[fukuoka-citrus-orchard-ground-cover-cultivation]]
 - [[fukuoka-natural-farming-philosophy]]
+
 ## Practical Considerations
 
 Successful implementation of Pruning and Fruit Tree Management: Natural vs Conventional requires attention to
@@ -76,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

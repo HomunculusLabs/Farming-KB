@@ -1,5 +1,5 @@
 ---
-title: Inocybe Aeruginascens and Neurotropic Inocybe Species
+title: gartz-inocybe-aeruginascens-distribution-and-psychoactivity and guzman-allen-gartz-neurotropic-inocybe-species Species
 created: 2026-04-28
 tags:
   - mycology
@@ -40,12 +40,12 @@ Their [[wood-decay-fungi|wood-decaying]] species that decompose dead matter.
 
 ## Neurotropic Inocybe Species
 
-The Guzmán, Allen, and Gartz (1998) worldwide survey recognizes six
+The Guzmán, Allen, and Gartz (1998) [[oyster-mushroom-substrate-materials-worldwide-survey-comparison]] recognizes six
 confirmed neurotropic Inocybe species:
 
 ### [[psilocybin]], [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis|baeocystin]]. Gartz (1985a, 1986a, 1986b, 1986d, 1987a, 1989a, 1995b,
-  1996) conducted extensive chemical analyses of German collections,
-  documenting the indole alkaloid profile.
+  1996) conducted extensive [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] of German collections,
+  documenting the [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] profile.
 - **Discovery as a neurotropic species**: The neurotropic properties
   of I. aeruginascens were discovered in Berlin in the early 1980s.
   Drewitz (1983) and Hohmeyer (1984) documented recreational use of
@@ -79,9 +79,9 @@ The neurotropic Inocybe species are significant for several reasons:
    trees. This ecological strategy may influence their distribution
    patterns and chemical ecology.
 2. **Toxicity concern**: Inocybe species as a genus include many
-   species that contain dangerous toxins (particularly [[guzman-allen-gartz-neurotropic-inocybe-species]] -- taxonomy and distribution of neurotropic Inocybe
+   species that contain dangerous toxins (particularly [[guzman-allen-gartz-neurotropic-inocybe-species]] -- taxonomy and [[global-distribution-of-neurotropic-fungi]] Inocybe
 - [[guzman-allen-gartz-neurotropic-fungi-europe]] -- European [[psilocybin-bluing-reaction]] -- why most psilocybin fungi bruise blue, unlike Inocybe
-- [[psilocybin-and-indole-alkaloid-chemistry-in-fungi]] -- indole alkaloid biosynthesis
+- psilocybin-and-indole-alkaloid-chemistry-in-fungi -- indole alkaloid biosynthesis
 - [[chemical-analysis-psilocybin-mushrooms]] -- analytical methods for detecting indole alkaloids
 - [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]] -- Guzmán's broader neurotropic fungi survey
 - [[allen-gymnopilus-and-other-psychoactive-genera]] -- other neurotropic genera beyond Psilocybe and Inocybe

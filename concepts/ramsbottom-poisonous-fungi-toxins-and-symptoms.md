@@ -1,5 +1,5 @@
 ---
-title: Ramsbottom Poisonous Fungi Toxins and Symptoms
+title: Ramsbottom ramsbottom-poisonous-fungi-identification-guide Toxins and Symptoms
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -16,13 +16,13 @@ Ramsbottom recognizes that beyond species causing simple gastrointestinal irrita
 
 ### Category 1: Cell-Degenerating Toxins (Long Incubation)
 
-Species: Amanita phalloides (Death Cap), Amanita verna (Fools' Mushroom), Amanita virosa (Destroying Angel), and the rarer Lepiota helveola.
+Species: Amanita phalloides ([[query-how-to-identify-and-avoid-the-death-cap-amanita-phalloides]]), Amanita verna (Fools' Mushroom), [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]] (Destroying Angel), and the rarer Lepiota helveola.
 
 These contain substances that after a long incubation period bring about the degeneration of the cells of the body. The Amanita species in this group are deadly; L. helveola belongs to this group but is much less dangerous.
 
 ### Category 2: Nervous System Paralytics
 
-Species: Amanita muscaria (Fly Agaric), Amanita pantherina (False Blusher), and Inocybe Patouillardi (Red Staining Inocybe).
+Species: [[allegro-amanita-muscaria-properties-and-pharmacology]] ([[amanita-muscaria-fly-agaric-history-and-pharmacology]]), Amanita pantherina (False Blusher), and Inocybe Patouillardi (Red Staining Inocybe).
 
 These contain substances which paralyse the nervous system, producing distinctive neurological and gastrointestinal symptoms with a shorter onset time than the cell-degenerating group.
 
@@ -78,6 +78,8 @@ Ramsbottom emphasizes that no method of preparation reliably renders all poisono
 
 ## See Also
 
+- fungal-toxins-and-poisonous-mushrooms
+
 - [[lloyd-library]]
 
 - [[ramsbottom-poisonous-fungi-species]]
@@ -85,6 +87,6 @@ Ramsbottom emphasizes that no method of preparation reliably renders all poisono
 - [[amanita-muscaria-pharmacology]]
 - [[amanita-muscaria-guide]]
 - [[amanita-genus-morphology]]
-- [[mushroom-identification-basics]]
+- mushroom-identification-basics
 - [[inocybe-aeruginascens-profile]]
 - [[mycology-modern-era]]

@@ -71,7 +71,7 @@ meters. It tolerates a broad soil spectrum from sandy loams to heavy clays,
 with optimal growth in well-drained, fertile soils with pH 5.5–7.0.
 
 Rainfall requirements range from 800–2,500 mm annually. The plant exhibits
-moderate drought tolerance once established but produces best yields with
+moderate [[dighton-fungal-drought-tolerance-plant-water-relations]] once established but produces best yields with
 consistent moisture. Temperature optimum is 25–30°C, with growth ceasing
 below 15°C.
 
@@ -100,17 +100,17 @@ C. gladiata excels as a multi-functional cover crop in tropical systems. Its
 rapid vine growth provides effective weed suppression and living mulch when
 intercropped with maize, cassava, or tree crops.
 
-Nitrogen fixation rates of 80–150 kg N/ha/year have been reported, contributing
+[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] rates of 80–150 kg N/ha/year have been reported, contributing
 significantly to soil fertility. The plant forms effective symbiosis with
-Bradyrhizobium strains native to tropical soils.
+Bradyrhizobium strains native to [[mollison-designers-tropical-soils-and-cation-exchange-management]].
 
 As a climbing support species, it can be trained on trellises alongside
 tomatoes, peppers, or cucurbits, providing shade and wind protection while
 fixing nitrogen for its companions.
 
-The substantial biomass production (3–8 t/ha dry matter) makes it an excellent
+The substantial [[dighton-fungal-biomass-production-aquatic-ecosystems]] (3–8 t/ha dry matter) makes it an excellent
 green manure crop. When incorporated into soil at flowering, it releases
-nutrients rapidly and improves soil organic matter content.
+nutrients rapidly and improves soil [[hamilton-composting-and-organic-matter-management]] content.
 
 Propagation is by seed, direct-sown at 2–3 seeds per planting station with
 spacing of 60–100 cm between plants along trellises or fence lines. Seed
@@ -124,10 +124,10 @@ content provides some resistance to bruchid infestation relative to other
 tropical legumes.
 
 Diseases of significance include anthracnose (Colletotrichum lindemuthianum),
-powdery mildew, and root-knot nematode (Meloidogyne spp.). C. gladiata
+[[cervantes-powdery-mildew-prevention-treatment]], and root-knot nematode (Meloidogyne spp.). C. gladiata
 generally shows better disease resistance than C. ensiformis under field
 conditions.
 
 ## See Also
 
-[[lablab-purpureus]] · [[arachis-pintoi-entity]] · [[leucaena-leucocephala]] · [[vicia-faba]]
+[[lablab-purpureus]] · arachis-pintoi-entity · [[leucaena-leucocephala]] · [[vicia-faba]]

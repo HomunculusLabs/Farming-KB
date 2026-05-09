@@ -18,7 +18,7 @@ type: entity
 
 ## Overview
 
-Panaeolus acuminatus is a small, inconspicuous dung-inhabiting mushroom in the family Bolbitiaceae. Found throughout temperate North America and Europe, it is commonly encountered along field-forest interfaces. Despite its membership in a genus that includes several psilocybin-containing species, chemical analyses have consistently found no psilocybin or psilocin in this species. The name "acuminatus" refers to the pointed, conic shape of the young cap. The species is of interest primarily for its taxonomic position within a genus that contains several well-established psychoactive species.
+Panaeolus acuminatus is a small, inconspicuous dung-inhabiting mushroom in the family Bolbitiaceae. Found throughout temperate North America and Europe, it is commonly encountered along field-forest interfaces. Despite its membership in a genus that includes several psilocybin-containing species, [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] have consistently found no psilocybin or psilocin in this species. The name "acuminatus" refers to the pointed, conic shape of the young cap. The species is of interest primarily for its taxonomic position within a genus that contains several well-established psychoactive species.
 
 ## Taxonomy and Classification
 
@@ -72,10 +72,10 @@ The absence of blue bruising is generally a negative field indicator for signifi
 
 ## Similar Species
 
-Several *Panaeolus* species are similar and can be difficult to distinguish without microscopic examination:
+Several *Panaeolus* species are similar and can be difficult to distinguish without [[fungal-microscopic-examination-mounting-media-techniques]]:
 
-- **Panaeolus subbalteatus** — Larger, with a distinctly banded or "sub-belted" cap margin; confirmed psychoactive
-- **Panaeolus cyanescens** — Hygrophanous, bluing prominently when bruised; highly psychoactive
+- **[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]** — Larger, with a distinctly banded or "sub-belted" cap margin; confirmed psychoactive
+- **[[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]** — Hygrophanous, bluing prominently when bruised; highly psychoactive
 - **Panaeolus sphinctrinus** — Smaller, found on dung; grayish cap with a dark center
 - **Panaeolus campanulatus** — Similar habitat and size; bell-shaped cap, very common
 - **Panaeolus tropicalis** — Tropical and subtropical distribution; confirmed psychoactive
@@ -97,7 +97,7 @@ Panaeolus acuminatus is important as a comparison species for identification pur
 
 ## Cultural and Ethnobotanical Significance
 
-*Panaeolus acuminatus* does not have a documented history of traditional entheogenic use. Its small size, non-psychoactive content, and similarity to other non-psychoactive dung-inhabiting mushrooms make it an unlikely candidate for intentional ceremonial or recreational use.
+*Panaeolus acuminatus* does not have a documented history of [[metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti]] use. Its small size, non-psychoactive content, and similarity to other non-psychoactive dung-inhabiting mushrooms make it an unlikely candidate for intentional ceremonial or recreational use.
 
 ## Safety Notes
 
@@ -117,4 +117,4 @@ Not considered threatened due to its wide cosmopolitan distribution and associat
 ## References
 
 - Schultes, R.E. (1976). *A Golden Guide to Hallucinogenic Plants*. Golden Press, New York.
-- Stamets, P. (1996). *Psilocybin Mushrooms of the World*. Ten Speed Press.
+- Stamets, P. (1996). *[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World*. Ten Speed Press.

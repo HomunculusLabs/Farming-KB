@@ -22,13 +22,13 @@ sources:
 ## Overview
 
 **Piper betle** L. (betel pepper) is an evergreen dioecious vine in the
-family Piperaceae, cultivated across South and Southeast Asia for its
+family Piperaceae, cultivated across South and [[psilocybe-southeast-asia-pacific]] for its
 aromatic leaves. The leaves are the principal ingredient of the betel quid
 (paan), one of the world's most widely used masticatory preparations.
 
 Betel leaf has been used for over 4,000 years as a digestive aid, breath
 freshener, and social ritual substance. The plant produces diverse bioactive
-secondary metabolites with documented antimicrobial, anti-inflammatory,
+[[antifungal-secondary-metabolites-coprophilous-fungi]] with documented antimicrobial, anti-inflammatory,
 antioxidant, and antidiabetic properties.
 
 ## Taxonomy and Morphology
@@ -59,13 +59,13 @@ eastward through Thailand, Vietnam, and southern China.
 It thrives in warm, humid tropical climates below 1,000 m elevation.
 Optimal growth occurs in partial shade with 2,000–3,000 mm annual
 rainfall and temperatures of 20–35°C. Prefers rich, well-drained
-loamy soils with pH 5.5–7.0 and high organic matter.
+loamy soils with pH 5.5–7.0 and high [[hamilton-composting-and-organic-matter-management]].
 
 ## Cultivation
 
 Betel vine is propagated vegetatively by stem cuttings. Stem segments
 of 15–20 cm with 3–4 nodes are planted in nursery beds or directly
-in the field. Seed propagation is unreliable and slow.
+in the field. [[jeavons-seed-propagation-techniques]] is unreliable and slow.
 
 Support structures (called "boroj" in Bengal) are essential for
 commercial cultivation. Live supports from *Sesbania grandiflora*
@@ -79,7 +79,7 @@ differing in leaf size, aroma intensity, and pungency.
 
 ## Bioactive Compounds
 
-The essential oil (0.7–2.6% of fresh weight) contains over 40
+The [[permaculture-designers-manual-essential-oil-plants]] (0.7–2.6% of fresh weight) contains over 40
 identified constituents:
 
 - **Eugenol** (30–70%): Primary aroma compound; antiseptic and
@@ -137,7 +137,7 @@ vine contributes to household income and biodiversity.
 ## Related Species
 
 - *Piper nigrum* L. — Black pepper; shares many terpenoid compounds.
-- *Piper methysticum* Forst. — Kava; psychoactive kavalactones.
+- *[[plants-of-the-gods-piper-methysticum-kava]]* Forst. — Kava; psychoactive kavalactones.
 - *Piper guineense* — West African pepper; spice and medicine.
 - *Piper sarmentosum* Roxb. — Wild betel; milder Southeast Asian
   species with similar properties.

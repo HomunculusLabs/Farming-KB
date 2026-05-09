@@ -2,14 +2,12 @@
 title: Agrocybe aegerita
 created: 2026-04-28
 type: species
-tags: [[mycology, cultivation, gourmet-mushrooms, agrocybe]
+tags: [mycology, cultivation, gourmet-mushrooms, agrocybe]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 ---
-# Agrocybe aegerita
-
-Agrocybe aegerita, commonly known as the Black Poplar Mushroom, is a substantial and prolific gourmet mushroom that grows on deciduous wood debris. Known for its mellow, attractive flavor, this species forms large clusters both in nature and in controlled growing environments. It is an excellent candidate for stump recycling and outdoor cultivation, particularly in the southeastern United States, southern Europe, and similar climatic zones of the Far East. See [[pleurotus-ostreatus]] for other wood-decomposing species.
+# Agrocybe aegerita Agrocybe aegerita, commonly known as the Black Poplar Mushroom, is a substantial and prolific gourmet mushroom that grows on deciduous wood debris. Known for its mellow, attractive flavor, this species forms large clusters both in nature and in controlled growing environments. It is an excellent candidate for stump recycling and outdoor cultivation, particularly in the southeastern United States, southern Europe, and similar climatic zones of the Far East. See [[pleurotus-ostreatus]] for other wood-decomposing species.
 
 ## Taxonomy and Description
 
@@ -28,9 +26,9 @@ Agrocybe aegerita, commonly known as the Black Poplar Mushroom, is a substantial
 
 ## Distribution and Habitat
 
-- **Global range:** Southeastern United States (Mississippi, Louisiana, Georgia), common across southern Europe, and similar climatic zones of the Far East (Japan, China). Not known to occur in North America outside of the southeastern states.
+- **Global range:** Southeastern United States (Mississippi, Louisiana, Georgia), common across southern Europe, and similar climatic zones of the Far East (Japan, China). Not known to occur in [[psilocybin-north-america-pacific-northwest]] outside of the southeastern states.
 - **Habitat:** Growing saprophytically, often in clusters, on stumps. Preferring hardwoods, especially cottonwoods, willows, poplars, maples, box elders, and in China on tea-oil trees.
-- **Substrate preference:** Hardwood stumps, wood chips, supplemented sawdust blocks.
+- **Substrate preference:** Hardwood stumps, wood chips, [[oyster-mushroom-supplemented-sawdust-blocks]] blocks.
 
 ## Growth Parameters
 
@@ -40,7 +38,7 @@ Agrocybe aegerita, commonly known as the Black Poplar Mushroom, is a substantial
 - **Duration:** 20-28 days
 - **CO2:** >20,000 ppm
 - **Fresh Air Exchanges:** 0-1 per hour
-- **Light Requirements:** n/a
+- **[[growing-gourmet-light-requirements-mushroom-fruiting]]:** n/a
 
 ### Primordia Formation
 - **Initiation Temperature:** 50-60°F (10-16°C)
@@ -68,11 +66,11 @@ Agrocybe aegerita, commonly known as the Black Poplar Mushroom, is a substantial
 - **Fruiting substrates:** Supplemented sterilized sawdust/chips/bran. Willow, poplar, cottonwood, and maple also support substantial fruitings. Large diameter willow, poplar, and cottonwood stumps could sustain massive fruitings for many years.
 - **Containers:** Polypropylene bags and trays. Better grown from horizontal surfaces than from vertical ones.
 - **Yield potential:** Up to 1 lb. of fresh mushrooms per 5-6 lb. block of sterilized sawdust/chips/bran.
-- **Casing:** Benefits from a 1/2 inch casing directly onto the top surface layer of mycelium. However, if a condensing fog environment is provided with high turbulence, an even plane of primordia can form without any casing layer.
+- **Casing:** Benefits from a 1/2 inch casing directly onto the top surface layer of mycelium. However, if a condensing fog environment is provided with high turbulence, an even plane of primordia can form without any [[gourmet-medicinal-mushroom-casing-layer-techniques]].
 
 ## Natural Cultivation Methods
 
-- Stumps of the above-mentioned trees. Outdoor wood chip beds also produce, much in the same manner as for [[agaricus-brunnescens]]) makes marketing easier than with many novel species.
+- Stumps of the above-mentioned trees. [[stamets-outdoor-wood-chip-bed-mycelium-transplantation]] chip beds also produce, much in the same manner as for [[agaricus-brunnescens]]) makes marketing easier than with many novel species.
 
 ## Medicinal Properties
 
@@ -86,7 +84,7 @@ This mushroom figures as one of the best for recycling stumps in the humid south
 
 - **Agrocybe cylindracea:** A synonym preferred by Asian mycologists.
 - **Agrocybe praecox:** A related species that may be cultivated using the same methods, though its flavor is considered inferior by many mycophagists.
-- **Pholiota nameko:** Another ringed mushroom with similar cultivation requirements; see [[pleurotus-ostreatus]] — Tree Oyster Mushroom, another primary decomposer
+- **Pholiota nameko:** Another ringed mushroom with similar cultivation requirements; see [[pleurotus-ostreatus]] — Tree [[cotter-oyster-mushroom-cultivation]], another primary decomposer
 - [[lentinula-edodes]] — Shiitake, for comparison of log-based cultivation
 - [[hypsizygus-tessulatus]] — Beech Mushroom, for comparison of specialty cultivated species
 - [[agrocybe-cylindracea]]

@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [aquaponics, hydroponics, permaculture, farming, herbs]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -22,7 +23,7 @@ Several aquaponics configurations work well for herbs and vegetables, each with 
 
 **[[nutrient-film-technique]] (NFT):** A thin film of water flows through narrow channels where plant roots dangle. Commonly used in commercial herb production. Lower water volume means less buffering against system shocks.
 
-**Vertical Aquaponics:** Stacked towers or wall-mounted channels maximize production per square foot. Excellent for small spaces and indoor growing. Best suited to lightweight herbs and greens.
+**Vertical Aquaponics:** Stacked towers or wall-mounted channels maximize production per square foot. Excellent for small spaces and [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]]. Best suited to lightweight herbs and greens.
 
 For a first system, a media bed with a bell siphon offers the most forgiving learning curve and the fewest points of failure.
 
@@ -30,7 +31,7 @@ For a first system, a media bed with a bell siphon offers the most forgiving lea
 
 Your fish choice determines nutrient output, temperature requirements, and feeding frequency.
 
-**Tilapia:** The most popular aquaponics fish for good reason. They tolerate a wide temperature range (65 to 85 degrees Fahrenheit), grow quickly, tolerate fluctuating water quality, and eat almost anything. They produce abundant waste for heavy-feeding plants.
+**Tilapia:** The most popular aquaponics fish for good reason. They tolerate a wide [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] (65 to 85 degrees Fahrenheit), grow quickly, tolerate fluctuating water quality, and eat almost anything. They produce abundant waste for heavy-feeding plants.
 
 **Goldfish and Koi:** Hardy, decorative options that work well in smaller or indoor systems. They tolerate cold water but produce less waste than tilapia. Goldfish are inexpensive and nearly indestructible.
 
@@ -67,11 +68,11 @@ Seed seedlings in rockwool or net pots with hydroton during cycling so they are 
 Maintain these targets for healthy fish, bacteria, and plants:
 
 - **Temperature:** 65 to 80 degrees Fahrenheit for tilapia-based systems. Match fish species requirements.
-- **pH:** 6.8 to 7.2 is the ideal range. This balances fish health, bacterial efficiency, and plant nutrient availability. pH tends to drift upward in aquaponics due to carbonate buildup. Adjust down with phosphoric acid or by adding iron sulfate.
+- **pH:** 6.8 to 7.2 is the ideal range. This balances fish health, bacterial efficiency, and plant [[ph-and-nutrient-availability-garden-soils]]. pH tends to drift upward in aquaponics due to carbonate buildup. Adjust down with [[cho-water-soluble-phosphoric-acid-preparation]] or by adding iron sulfate.
 - **Ammonia:** Below 0.25 ppm at all times. Consistently higher readings indicate an underdeveloped biofilter or overfeeding.
 - **Nitrite:** Below 0.25 ppm. Elevated nitrite inhibits fish oxygen uptake and is a primary killer in new systems.
-- **Nitrate:** 20 to 150 ppm is healthy. Levels above 150 suggest overfeeding or insufficient plant uptake. Below 10 may indicate nutrient deficiency for heavy-feeding plants.
-- **Dissolved Oxygen:** Above 5 mg/L. Use air stones or a venturi on your water pump to maintain adequate oxygenation.
+- **Nitrate:** 20 to 150 ppm is healthy. Levels above 150 suggest overfeeding or insufficient plant uptake. Below 10 may indicate [[cannabis-grow-nutrient-deficiency-problem-solving]] for heavy-feeding plants.
+- **[[aact-dissolved-oxygen-fine-bubble-aeration-ingham]]:** Above 5 mg/L. Use air stones or a venturi on your water pump to maintain adequate oxygenation.
 
 Test water at least twice weekly during the first three months. Once the system stabilizes, weekly testing is sufficient.
 

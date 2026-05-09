@@ -1,5 +1,5 @@
 ---
-title: "Serpula lacrymans and the Ecology of Dry Rot in Buildings"
+title: "fungal serpula lacrymans dry rot buildings and the Ecology of Dry Rot in Buildings"
 created: 2026-04-28
 tags: [fungal-ecology, wood-decay, built-environment, brown-rot, basidiomycetes]
 date: 2026-04-25
@@ -14,9 +14,9 @@ Dry rot is one of the most destructive fungal diseases of timber in
 buildings. The basidiomycete Serpula lacrymans is the principal agent
 of dry rot in Europe, Australia, Japan, and other parts of the world,
 while Meruliporia incrassata causes equivalent destruction in North
-America. These fungi can reduce structural timber to crumbling brown
+America. These fungi can reduce [[singh-wood-rot-fungi-structural-timber-decay]] to crumbling brown
 cubes, causing catastrophic building damage. Their biology connects
-to [[fungal-wood-decay-types-white-rot-brown-rot]].
+to fungal-wood-decay-types-white-rot-brown-rot.
 
 ## Taxonomy and Etymology
 
@@ -44,7 +44,7 @@ Once established, dry rot can colonize an entire building without
 producing a single spore. The fungus spreads through its root-like
 strand systems, bridging gaps between timber elements across concrete,
 masonry, and other non-nutritive materials. Advanced infestations
-produce white mycelial mats on beam surfaces, strands dangling between
+produce white [[singh-mycelial-mats-and-biological-soil-crusts]] on beam surfaces, strands dangling between
 areas of decay, and distinctive fruiting bodies.
 
 ## Strands and Rhizomorphs
@@ -84,10 +84,15 @@ Labrador retrievers to detect dry rot infestations.
 
 ## Brown Rot Decay Mechanism
 
-Dry rot fungi are brown rot organisms. They digest cellulose in wood
+Dry [[brown-rot-fungi-cellulose-degradation-wood-decay]] are brown rot organisms. They digest cellulose in wood
 while leaving lignin behind, producing the characteristic brown cubical
 fracture pattern. The progressive concentration of dark lignin gives
-decayed wood its brown colour. This contrasts with white rot fungi that
+decayed wood its brown colour. This contrasts with [[comparison-brown-rot-vs-white-rot-bioremediation]] fungi that
 extract lignin, leaving white cellulose behind. The brown rot mechanism
 involves non-enzymatic depolymerization of cellulose via the Fenton
-reaction, as described in [[fungal-wood-decay-types-white-rot-brown-rot]], [[fungal-organic-acid-metal-solubilization]], [[fungal-mycelial-foraging-heterogeneous-environments]].
+reaction, as described in fungal-wood-decay-types-white-rot-brown-rot, [[fungal-organic-acid-metal-solubilization]], [[fungal-mycelial-foraging-heterogeneous-environments]].
+## See Also
+- [[serpula-lacrymans]]
+- [[meruliporia-incrassata]]
+- [[white-rot-fungi]]
+- [[mordecai-cooke]]

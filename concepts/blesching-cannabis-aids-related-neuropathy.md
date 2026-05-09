@@ -24,9 +24,9 @@ proportion of people living with HIV/AIDS and can severely impact quality of
 life. The condition involves damage to peripheral nerves, leading to pain,
 tingling, numbness, and burning sensations, typically in the hands and feet.
 
-According to the Cannabis Health Index, the evidence for cannabis in treating
+According to the [[blesching-cannabis-health-index-autoimmune-conditions]], the evidence for cannabis in treating
 AIDS-related neuropathy is based on 2 studies reviewed with a total CHI value
-of 10, yielding a CHI score of 5.00 -- one of the highest confidence scores
+of 10, yielding a [[blesching-cannabis-chi-score-methodology]] of 5.00 -- one of the highest confidence scores
 in the CHI framework.
 
 See also: [[blesching-cannabis-neuropathies]],
@@ -76,7 +76,7 @@ Total CHI Value: 10
 
 The consistently high CHI scores (5.00 per study) reflect the robust study
 designs employed. Both studies used randomized, placebo-controlled
-methodologies, which represent the gold standard of clinical research. The
+methodologies, which represent the gold standard of [[hofmann-lsd-clinical-research-early-studies]]. The
 fact that two independent research teams at different institutions reached
 similar conclusions strengthens the reliability of these findings.
 
@@ -111,7 +111,7 @@ higher confidence rating.
 
 This convergence of evidence across different types of neuropathic conditions
 strengthens the overall case for cannabinoid-based interventions in nerve
-pain management.
+[[cannabis-pain-management-protocols]].
 
 ## Broader Context of Cannabis in HIV/AIDS Care
 
@@ -128,6 +128,6 @@ neuropathy, though it proved less effective for nausea.
 For more information on the mind-body dimensions of AIDS-related neuropathy,
 see the sections on Bacterial and Viral Infections/HIV/AIDS and Neurological
 Diseases (in general) in Blesching's Cannabis Health Index. The
-psychological impact of living with chronic pain on top of a serious illness
+psychological impact of living with [[cannabis-chronic-pain-management]] on top of a serious illness
 deserves comprehensive attention that addresses both physical and emotional
 dimensions of healing.

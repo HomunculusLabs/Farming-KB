@@ -14,12 +14,12 @@ sources:
   - Hu, Q. (2005). "Chrysanthemum coronarium." In: Encyclopedia of Herbs and Spices. CABI Publishing.
   - Lin, L.Z. et al. (2008). "Chemical composition and nutritional value of edible chrysanthemum." Journal of Agricultural and Food Chemistry, 56(3), 918-924.
   - Naczk, M. & Shahidi, F. (2006). "Phenolics in cereals, fruits and vegetables." In: Phenolic Compounds in Foods and Natural Health Products. ACS Symposium Series.
-  - Duke, J.A. (2002). Handbook of Medicinal Herbs. 2nd ed. CRC Press.
+  - Duke, J.A. (2002). Handbook of [[permaculture-plants-medicinal-herbs-healing]]. 2nd ed. CRC Press.
 ---
 
 ## Overview
 
-**Chrysanthemum coronarium** is an annual herbaceous plant in the family **Asteraceae**, widely cultivated as an edible leaf vegetable across East and Southeast Asia. It is commonly known as **garland chrysanthemum**, **chrysanthemum greens**, **tonghao** (Chinese), **shungiku** (Japanese), and **ssukgat** (Korean).
+**Chrysanthemum coronarium** is an annual herbaceous plant in the family **Asteraceae**, widely cultivated as an edible leaf vegetable across East and [[psilocybe-southeast-asia-pacific]]. It is commonly known as **garland chrysanthemum**, **chrysanthemum greens**, **tonghao** (Chinese), **shungiku** (Japanese), and **ssukgat** (Korean).
 
 The species is prized for its aromatic, slightly bitter leaves and tender young stems, which are used in stir-fries, soups, hot pots, and salads. In addition to its culinary applications, C. coronarium has a long history of use in traditional Chinese medicine for respiratory and digestive complaints.
 
@@ -35,13 +35,13 @@ Leaves are alternate, bipinnatisect or tripinnatisect, with deeply lobed segment
 
 Flower heads are composite, 3–5 cm in diameter, with both ray and disk florets. Ray florets are bright yellow, occasionally white in cultivated ornamental varieties. The species blooms from late summer through autumn.
 
-The fruit is an achene, approximately 2–3 mm long, with a pappus of 5–8 scales. Seed viability remains high for 2–3 years under cool, dry storage conditions.
+The fruit is an achene, approximately 2–3 mm long, with a pappus of 5–8 scales. Seed viability remains high for 2–3 years under cool, dry [[vegetable-storage-conditions-by-temperature-and-humidity]].
 
 ## Distribution and Habitat
 
 Chrysanthemum coronarium is native to the Mediterranean region and western Asia, with a natural distribution spanning southern Europe, North Africa, and the Middle East. The species has been cultivated in East Asia for over 1,500 years and is now naturalized in many temperate and subtropical regions worldwide.
 
-In its native range, C. coronarium grows in disturbed habitats, field margins, roadsides, and coastal areas. It prefers well-drained, fertile soils and full sun but tolerates partial shade. Naturalized populations occur across North America, South America, Australia, and parts of Africa.
+In its native range, C. coronarium grows in disturbed habitats, field margins, roadsides, and coastal areas. It prefers well-drained, fertile soils and full sun but tolerates partial shade. Naturalized populations occur across [[psilocybin-north-america-pacific-northwest]], South America, Australia, and parts of Africa.
 
 The species thrives in temperate climates with moderate temperatures between 15–25°C. It is sensitive to both frost and extreme heat, which constrains its cultivation to spring and autumn in most regions. In subtropical areas, it can be grown year-round with adequate irrigation.
 
@@ -71,7 +71,7 @@ Chrysanthemum coronarium is a cool-season crop, typically sown in early spring o
 
 Spacing recommendations vary from 10–20 cm between plants for leaf harvest, with row spacing of 20–30 cm. The crop responds well to nitrogen fertilization, producing larger, more tender leaves with adequate nitrogen supply.
 
-Common pests include aphids, leaf miners, and whiteflies. The species is relatively disease-resistant but can be affected by downy mildew and powdery mildew in humid conditions. Crop rotation and adequate spacing help mitigate disease pressure.
+Common pests include aphids, leaf miners, and whiteflies. The species is relatively disease-resistant but can be affected by downy mildew and [[cervantes-powdery-mildew-prevention-treatment]] in humid conditions. Crop rotation and adequate spacing help mitigate disease pressure.
 
 Multiple harvests are possible from a single planting — cutting 5–10 cm above the crown allows regrowth for 2–3 additional cuts. After the third harvest, plants are typically removed and replaced with a new crop.
 
@@ -83,7 +83,7 @@ The leaves are used in decoctions for treating respiratory conditions including 
 
 Modern pharmacological studies have partially validated traditional uses. Extracts demonstrate bronchodilatory, expectorant, and anti-inflammatory activities in animal models. The flavonoid luteolin is considered a primary active compound responsible for anti-inflammatory effects.
 
-Hepatoprotective effects have been demonstrated in rodent models of chemically induced liver injury. The antioxidant capacity of the leaf extracts reduces markers of oxidative stress in liver tissue, supporting the traditional use as a liver tonic.
+Hepatoprotective effects have been demonstrated in rodent models of chemically induced liver injury. The antioxidant capacity of the leaf extracts reduces markers of [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in liver tissue, supporting the traditional use as a liver tonic.
 
 ## Varieties and Cultivars
 

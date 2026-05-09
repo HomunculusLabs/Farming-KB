@@ -1,8 +1,9 @@
 ---
-title: Drip Irrigation for Cannabis
+title: comparison-drip-irrigation-vs-passive-irrigation for Cannabis
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
@@ -11,11 +12,11 @@ tags: [cannabis]
 
 # Drip Irrigation for Cannabis
 
-Drip irrigation is an efficient and precise method of delivering water and nutrient solution to cannabis plants. In drip systems, nutrient solution is delivered one drop at a time or in low volume through a low-pressure plastic pipe with friction fittings. Drip irrigation can be used with both soil and hydroponic-cannabis|hydroponic growing setups, making it one of the most versatile irrigation methods available.
+Drip irrigation is an efficient and precise method of delivering water and [[cannabis-nutrient-solution-preparation]] to cannabis plants. In drip systems, nutrient solution is delivered one drop at a time or in low volume through a low-pressure plastic pipe with friction fittings. Drip irrigation can be used with both soil and hydroponic-cannabis|[[cannabis-grow-hydroponic-growing-systems]] setups, making it one of the most versatile irrigation methods available.
 
 ## How Drip Irrigation Works
 
-Water flows through a main hose and exits through emitters attached to the line. The emitters are either spaghetti tubes (small-diameter flexible tubing) or nozzle drippers that emit directly from the main hose. Nutrient solution travels through the delivery system and is deposited at the base of each plant, where it percolates through the Cannabis Growing Mediums and is absorbed by roots.
+Water flows through a main hose and exits through emitters attached to the line. The emitters are either spaghetti tubes (small-diameter flexible tubing) or nozzle drippers that emit directly from the main hose. Nutrient solution travels through the delivery system and is deposited at the base of each plant, where it percolates through the [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]] Mediums and is absorbed by roots.
 
 In recirculating hydroponic drip systems, excess nutrient solution drains from the growing medium and is directed back to a central reservoir for reuse. In run-to-waste systems, the solution is applied once and not recovered.
 
@@ -23,7 +24,7 @@ In recirculating hydroponic drip systems, excess nutrient solution drains from t
 
 Several emitter types are available for different applications, each with specific advantages:
 
-1. **Drip emitters**: Control solution flow and deliver a measured dose to each plant. Available in various flow rates (typically 0.5 to 2 gallons per hour). Consistent delivery makes them the most popular choice for cannabis cultivation.
+1. **Drip emitters**: Control solution flow and deliver a measured dose to each plant. Available in various flow rates (typically 0.5 to 2 gallons per hour). Consistent delivery makes them the most popular choice for [[query-how-does-no-till-cannabis-cultivation-work]].
 2. **Circular emitters**: Apply nutrient solution all the way around the plant, ensuring all roots receive adequate moisture. Ideal for larger plants with extensive root systems.
 3. **Spray emitters (mini-sprinklers)**: Spray nutrient solution over the top of the growing medium to aerate and disperse it evenly. Available as individual units for each plant site.
 4. **Spaghetti tubes**: Flexible delivery tubes (typically 1/8 inch diameter) that carry solution from the main manifold to individual plants. Can be fitted with various emitter tips.
@@ -93,7 +94,7 @@ Individual blocks of growing medium can be irrigated via spaghetti tubes connect
 
 - **Clogged emitters**: The most common drip system problem. Mineral buildup or organic debris blocks flow. Clean emitters with vinegar or replace them. Always use an inline filter.
 - **Uneven delivery**: Some plants receive more solution than others. Check for kinked tubes, inconsistent emitter flow rates, or elevation differences.
-- **Salt buildup**: Visible as white crust on growing medium or containers. Flush with plain water and reduce nutrient concentration.
+- **[[cervantes-salt-buildup-leaching-management]]**: Visible as white crust on growing medium or containers. Flush with plain water and reduce nutrient concentration.
 - **Root intrusion**: Roots can grow into emitters and spaghetti tubes. Use root barriers or check tubes regularly.
 - **Low pressure**: Check pump output, filter condition, and for leaks in the system.
 - **Algae in tubing**: Caused by light exposure to transparent tubing. Use opaque tubing or wrap with tape.

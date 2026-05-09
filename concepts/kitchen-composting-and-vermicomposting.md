@@ -11,7 +11,7 @@ sources: []
 
 Updated: 2026-18-04
 
-Composting is the natural process of decomposing organic waste into nutrient-rich soil amendment. Food scraps and kitchen waste represent about 30% of typical household garbage and can be diverted from landfills through composting, either in a traditional compost pile or through vermicomposting (worm composting).
+Composting is the natural process of decomposing organic waste into nutrient-rich soil amendment. Food scraps and kitchen waste represent about 30% of typical household garbage and can be diverted from landfills through composting, either in a traditional [[mushroom-cultivator-compost-pile-management]] or through vermicomposting ([[hamilton-worm-composting-manure]]).
 
 ## Traditional Compost Pile
 
@@ -19,7 +19,7 @@ Composting is the natural process of decomposing organic waste into nutrient-ric
 
 Keep two buckets under the kitchen sink for food scraps. Add all scraps except meat and dairy. Crush or cut up orange peels, banana peels, and eggshells to accelerate breakdown. Small paper scraps can also be added. When a bucket is full, dump it on the compost pile.
 
-Outdoor bins should be at least 5 feet (1.5 m) in diameter or 5 feet squared for wooden bins. Composting toilets require larger bins. Compost in greenhouses can serve double duty as thermal mass.
+Outdoor bins should be at least 5 feet (1.5 m) in diameter or 5 feet squared for wooden bins. [[comparison-composting-toilets-vs-greywater-systems-detailed]] require larger bins. Compost in greenhouses can serve double duty as thermal mass.
 
 ### Materials
 
@@ -104,4 +104,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

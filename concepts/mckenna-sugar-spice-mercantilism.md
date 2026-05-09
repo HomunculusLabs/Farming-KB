@@ -34,7 +34,7 @@ forms.
 
 ## Medieval Europe and Drug Scarcity
 
-Dominator culture has never been more powerfully entrenched than in Christian
+[[mckenna-dominator-culture-and-suppression-of-ecstasy]] has never been more powerfully entrenched than in Christian
 Europe after the eclipse of the Roman Empire. And it is probably safe to say that
 scarcely ever have human populations existed in such a prolonged situation of drug
 scarcity and lack of chemical stimulation. Medieval Europe was one of the most
@@ -60,7 +60,7 @@ and bread culture.
 
 The dyes and spices of the more technically advanced and esthetically refined
 world of Islam entered the bloodstream of dreary Christian Europe with the force
-of a hallucinogenic drug. Pressure to expand the spice trade remade the arts of
+of a [[emcdda-hallucinogenic-drug-classification-and-terminology-taxonomy]]. Pressure to expand the [[mckenna-spice-trade-and-medieval-drug-scarcity]] remade the arts of
 navigation, shipbuilding, diplomacy, warfare, geography, and economic planning.
 Once again, the unconscious drive to mimic and thus partly recapture the lost
 symbiosis with the vegetable world was acting as a catalyst to dietary
@@ -91,7 +91,7 @@ maintenance users or they may be binge eaters. As with all stimulants, ingestion
 of sugar is followed by a brief euphoric "rush," which is itself followed by
 depression and guilt.
 
-Sugar addiction rarely occurs alone as a syndrome; mixed addictions, for example
+[[mckenna-food-gods-sugar-addiction-slavery]] rarely occurs alone as a syndrome; mixed addictions, for example
 sugar and caffeine, are more common. The Spanish planted sugarcane in their
 Caribbean holdings and introduced slavery into the New World for the purpose of
 producing sugar. The infrastructure that had been put in place to serve the spice
@@ -100,7 +100,7 @@ production and shipping of sugar, chocolate, tea, and coffee.
 
 ## Coffee, Tea, and Chocolate
 
-Coffee and tea emerged as new alternatives to alcohol in European culture. Tea
+Coffee and tea emerged as new alternatives to alcohol in [[fukuoka-road-european-culture-of-food]]. Tea
 became so important that it "brewed a revolution," at least in the American
 colonies. Coffeehouses became centers of intellectual exchange and political
 dissent. Chocolate, discovered in the New World, carried its own associations
@@ -122,7 +122,7 @@ markets anywhere on the globe. Worldwide pandemics of substance abuse become
 possible. The importation of tobacco smoking into Europe in the sixteenth century
 was the first and most obvious example. It was followed by the forced spread of
 opium use in China by the British, the opium craze in eighteenth-century England,
-and the spread of distilled alcohol abuse among North American Indian tribes.
+and the spread of distilled alcohol abuse among North [[harner-american-indian-peyote-rituals]] tribes.
 
 The pattern is consistent: substances that once served sacred or culturally
 regulated functions within their societies of origin are extracted, refined,

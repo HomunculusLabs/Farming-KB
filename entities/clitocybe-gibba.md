@@ -25,7 +25,7 @@ sources:
 
 ## Overview
 
-Clitocybe gibba, the common funnel or trough funnel, is a widely distributed agaric mushroom found across temperate forests of Europe and North America. It is a medium-sized, funnel-shaped fungus that fruits in autumn on forest floors, often in large scattered groups.
+Clitocybe gibba, the common funnel or trough funnel, is a widely distributed agaric mushroom found across temperate forests of Europe and [[psilocybin-north-america-pacific-northwest]]. It is a medium-sized, funnel-shaped fungus that fruits in autumn on forest floors, often in large scattered groups.
 
 The species is generally considered edible and is collected for food in parts of Europe, though it must be distinguished from several toxic lookalikes in the Tricholomataceae family.
 
@@ -73,7 +73,7 @@ Other potential confusions include *Infundibulicybe costata* (larger, redder cap
 
 ## Bioactive Compounds
 
-C. gibba has been investigated for antimicrobial properties. Extracts have demonstrated moderate activity against Gram-positive bacteria including *Staphylococcus aureus* and *Bacillus subtilis* in vitro assays.
+C. gibba has been investigated for [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. Extracts have demonstrated moderate activity against Gram-positive bacteria including *Staphylococcus aureus* and *Bacillus subtilis* in vitro assays.
 
 The species contains several phenolic compounds and sterols. Beta-sitosterol and ergosterol peroxide have been isolated from fruiting bodies, both of which exhibit documented anti-inflammatory activity in laboratory models.
 
@@ -85,15 +85,15 @@ Unlike several other *Clitocybe* species, *C. gibba* does not contain significan
 
 ## Ecological Role
 
-As a saprotroph, *C. gibba* contributes to the decomposition of leaf litter and fine woody debris in forest floor ecosystems. It plays a measurable role in nutrient cycling by breaking down complex plant polymers including cellulose and hemicellulose.
+As a saprotroph, *C. gibba* contributes to the decomposition of leaf litter and fine woody debris in forest floor ecosystems. It plays a measurable role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by breaking down complex plant polymers including cellulose and hemicellulose.
 
 The species is moderately sensitive to air pollution and soil compaction, making it an indirect indicator of forest floor health in some European monitoring frameworks. Its presence in forest inventories correlates with undisturbed leaf litter layers and minimal soil disturbance.
 
-*C. gibba* mycelium forms associations with soil microfauna and may compete with ectomycorrhizal fungi for substrate access in the forest floor horizon. Its ecological interactions at the community level remain understudied relative to more prominent litter decomposers.
+*C. gibba* mycelium forms associations with soil microfauna and may compete with [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] for substrate access in the forest floor horizon. Its [[king-stropharia-ecological-interactions-permaculture]] at the community level remain understudied relative to more prominent litter decomposers.
 
 In permaculture and agroforestry contexts, *C. gibba* is occasionally noted as a beneficial litter-decomposing fungus in food forest understories. Its presence indicates active decomposition cycling and can be encouraged through leaf litter retention and minimal tillage practices.
 
-The species shows some potential as a bioindicator for forest management assessment. Dutch mycologist Eef Arnolds documented correlations between *C. gibba* frequency and grassland-to-forest succession stages, finding it most abundant in intermediate successional phases with deep undisturbed litter layers.
+The species shows some potential as a bioindicator for [[mollison-pdc-forest-management-products]] assessment. Dutch mycologist Eef Arnolds documented correlations between *C. gibba* frequency and grassland-to-forest succession stages, finding it most abundant in intermediate successional phases with deep undisturbed litter layers.
 
 ## Related Species
 

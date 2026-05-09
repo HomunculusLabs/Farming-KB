@@ -1,17 +1,13 @@
 ---
-title: Fruiting Chamber
+title: gottlieb-psilocybin-cultivation-fruiting-chamber-design
 created: 2026-04-28
-tags: [[mycology, environment, humidity, cultivation, pf-tek]
+tags: [mycology, environment, humidity, cultivation, pf-tek]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md]
 type: concept
 ---
-
-# Fruiting Chamber
-
-A **fruiting chamber** is an enclosed environment designed to provide the
-specific conditions that trigger [[substrate-ph-management]]. [[pf-tek]]
+# Fruiting Chamber A **fruiting chamber** is an enclosed environment designed to provide the specific conditions that trigger [[substrate-ph-management]]. [[pf-tek]]
 method, fruiting chambers are where the colonized substrate cakes are placed
 after being removed from their jars (a process called "birthing"). The chamber
 must replicate [[water-management]] and
@@ -37,7 +33,7 @@ used to mist the cakes directly and to rehydrate the perlite periodically.
 
 Several alternatives to the SGFC exist:
 
-- **Simple humidity chamber**: A basic tote with no holes and a layer of moist
+- **Simple [[mushroom-humidity-chamber-design-operation]]**: A basic tote with no holes and a layer of moist
   perlite. Requires manual fanning for air exchange. Simplest but least
   reliable method.
 
@@ -45,7 +41,7 @@ Several alternatives to the SGFC exist:
   for larger-scale cultivation.
 
 - **Mono tub**: A modified storage bin used as both the colonizing vessel and
-  fruiting chamber for bulk substrate grows. Uses polyfill-stuffed holes for
+  fruiting chamber for [[gottlieb-psilocybin-cultivation-bulk-substrate-preparation]] grows. Uses polyfill-stuffed holes for
   passive FAE regulation.
 
 ## Misting and Fanning Protocol
@@ -68,9 +64,9 @@ between misting sessions, with only a slight sheen of moisture.
 
 Pin formation (the emergence of tiny mushroom primordia) is triggered by a
 combination of high humidity and evaporation from the substrate surface. This
-evaporative cooling creates a microclimate of near-saturation humidity directly
+[[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]] creates a microclimate of near-saturation humidity directly
 at the cake surface, which is the critical zone for pin initiation. When
-cultivators mist and fan, they are essentially recreating the natural cycle of
+cultivators mist and fan, they are essentially recreating the [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] of
 rainfall and drying that triggers fruiting in wild fungi. The importance of
 evaporation is why simply maintaining 100% humidity without air exchange
 actually produces worse results than a properly balanced chamber with slightly
@@ -78,7 +74,7 @@ lower ambient humidity but active evaporative conditions.
 
 ## Common Problems and Troubleshooting
 
-Bacterial blotch (Pseudomonas tolaasii) appears as dark, slimy spots on mushroom
+[[growing-gourmet-bacterial-blotch-disease-management]] (Pseudomonas tolaasii) appears as dark, slimy spots on mushroom
 caps and is the most common fruiting chamber pathogen. It thrives when humidity
 is too high and air exchange is insufficient. Improving FAE and reducing
 surface moisture usually resolves mild cases. Cobweb mold (Dactylium

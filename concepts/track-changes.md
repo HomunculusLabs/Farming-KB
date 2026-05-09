@@ -13,9 +13,9 @@ type: concept
 
 Track Changes (also called "Revision Tracking" or "Redlining") is a
 collaborative editing feature in word processing applications, most
-prominently [[mollison-designers-access-roads-pathways-and-track-design]]
+prominently mollison-designers-access-roads-pathways-and-track-design
 
-- [[docx]] — Document format storing revision data
+- [[docx]] — [[binary-document-format-reverse-engineering]] storing revision data
 - version control — Change tracking in software development
 - collaborative editing — Broader topic of real-time document collaboration
 
@@ -37,7 +37,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -87,7 +87,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -97,4 +97,5 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[steroid-induced-anatomical-changes-psilocybe-cubensis-fruiting]]

@@ -1,5 +1,5 @@
 ---
-title: "Ayahuasca Analogs and DMT-Containing Plants"
+title: "schultes ayahuasca analogs dmt plants and DMT-Containing Plants"
 created: 2026-04-28
 tags: [ethnobotany, ayahuasca, analogs, dmt, mao-inhibitor, harmine, pharmacology, plants]
 date: 2026-04-28
@@ -26,7 +26,7 @@ preparations and their analogs include:
 
 - *Banisteriopsis caapi* and *B. inebrians*: contain harmine,
   tetrahydroharmine, dihydroharmaline, harmane, isoharmine, and
-  other [[peganum-harmala]]* (Syrian Rue): contains harmine, harmaline,
+  other [[peganum-harmala]]* ([[golden-guide-syrian-rue-and-maoi-plants]]): contains harmine, harmaline,
   tetrahydroharmine, harmane, and related compounds. See
   [[tryptamine]], or its
 methoxylated derivatives. The principal suppliers include:
@@ -36,7 +36,7 @@ methoxylated derivatives. The principal suppliers include:
 - *Acacia phlebophylla*: leaves contain 0.3% DMT (grows only on one
   mountain in Australia)
 - *Acacia simplicifolia*: leaves and bark contain 0.81% DMT
-- *Mimosa tenuiflora* (Jurema): root bark contains 0.57-1% DMT
+- *Mimosa tenuiflora* (Jurema): [[iboga-root-bark-preparation]] contains 0.57-1% DMT
 - *Mimosa scabrella*: bark contains DMT
 - *Mucuna pruriens*: seeds contain DMT and 5-MeO-DMT
 - *Desmodium* spp.: root bark contains DMT
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Mushroom Cultivation Compost Basics - Ghouled Method
+title: Psilocybin accessible-mushroom-cultivation-for-disabilities Compost Basics - Ghouled Method
 created: 2026-04-28
 tags:
   - cultivation
@@ -16,9 +16,9 @@ type: concept
 
 # Psilocybin Mushroom Cultivation Compost Basics
 
-F.C. Ghouled's 1972 *Field Guide to the Psilocybin Mushroom* included a
-foundational overview of [[psilocybe-cubensis-potency-variation-by-flush]] as the target species. The guide described horse manure compost
-preparation, spawn production, and bed management -- representing one of the
+F.C. Ghouled's 1972 *[[ghouled-field-guide-historical-context]] to the Psilocybin Mushroom* included a
+foundational overview of [[psilocybe-cubensis-potency-variation-by-flush]] as the target species. The guide described [[falconer-horse-manure-varieties]] compost
+preparation, [[growing-gourmet-sawdust-spawn-production-use]], and bed management -- representing one of the
 earliest published practical cultivation instructions in the underground
 psychedelic literature.
 
@@ -47,7 +47,7 @@ Ghouled described the casing technique:
 > "The bed is then covered with a 1-inch layer of sterilized soil or
 > acceptable substitute, and watered lightly now and again."
 
-The casing layer serves moisture retention, microclimate creation, and
+The casing layer serves moisture retention, [[mollison-designers-microclimate-creation-frost-protection]], and
 physical support for developing fruiting bodies. Ghouled emphasized:
 
 > "The compost MUST NOT be flooded with water. This will kill the

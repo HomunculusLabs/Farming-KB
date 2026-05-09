@@ -25,7 +25,7 @@ sources:
 
 It is one of the most recognizable pioneer species in the northern hemisphere, famously colonizing burned and disturbed landscapes.
 
-Fireweed is native to temperate and boreal regions of North America, Europe, and Asia, often serving as an ecological indicator of recent disturbance.
+Fireweed is native to temperate and boreal regions of [[psilocybin-north-america-pacific-northwest]], Europe, and Asia, often serving as an ecological indicator of recent disturbance.
 
 The plant has a long history of edible and medicinal use by Indigenous peoples across its range.
 
@@ -107,20 +107,20 @@ Fireweed is a premier ecological restoration species and a valuable addition to 
 
 Its deep rhizomatous root system stabilizes soil on disturbed sites, preventing erosion after fire, logging, or road construction.
 
-The species is a major nectar source for honeybees, bumblebees, and native solitary bees, supporting pollinator populations.
+The species is a major nectar source for honeybees, bumblebees, and [[comparison-honey-bees-vs-native-solitary-bees]] bees, supporting pollinator populations.
 
 The seeds are consumed by finches and other small birds, while the foliage serves as browse for deer, elk, and moose.
 
-In permaculture design, fireweed is useful as a dynamic accumulator — its deep roots mine potassium, phosphorus, and trace minerals from subsoil.
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], fireweed is useful as a [[nutrient-dynamic-accumulator-reference]] — its deep roots mine potassium, phosphorus, and trace minerals from subsoil.
 
-It can be incorporated into chop-and-drop mulch systems or used as a green manure in the early stages of food forest establishment.
+It can be incorporated into chop-and-drop mulch systems or used as a [[comparison-green-manure-guide-vs-mulch-types-and-effects]] in the early stages of food forest establishment.
 
-Fireweed acts as a nurse plant, providing shade and wind protection for establishing tree seedlings on exposed sites.
+Fireweed acts as a nurse plant, providing shade and [[cervantes-wind-protection-outdoor-cannabis]] for establishing tree seedlings on exposed sites.
 
 ## See Also
 
 - [[plantago-major]]
 - [[hypericum-perforatum]]
-- [[permaculture]]
+- permaculture
 - [[phytoremediation]]
 - [[chop-and-drop-mulching]]

@@ -1,6 +1,6 @@
 ---
-title: "Fukuoka's Straw Scattering Controversy"
-aliases: [rice straw debate, straw mulch pathology, composting straw Hokkaido]
+title: "Fukuoka's fukuoka straw scattering controversy plant pathology Controversy"
+aliases: [rice straw debate, [[fukuoka-straw-mulch-fertility-cycle]] pathology, composting straw Hokkaido]
 tags: [natural-farming, straw-mulch, soil-health, plant-pathology, fukuoka]
 source: masanobu-fukuoka-the-road-back-to-nature.md
 ---
@@ -8,10 +8,10 @@ source: masanobu-fukuoka-the-road-back-to-nature.md
 # The Straw Scattering Controversy
 
 One of the most telling episodes in Masanobu Fukuoka's career illustrates
-the enormous resistance that natural farming faces from the agricultural
+the enormous resistance that [[comparison-natural-farming-vs-permaculture]] faces from the agricultural
 establishment. The debate over whether rice straw should be returned to
 the fields or burned consumed decades of Fukuoka's life and revealed
-the deep institutional barriers to adopting simpler farming methods.
+the deep institutional barriers to adopting simpler [[natural-farming-methods-comparison]].
 
 ## The Official Doctrine: Burn the Straw
 
@@ -98,8 +98,8 @@ the field surface.
 
 The composting process itself, while producing a useful product,
 represents a net energy loss for the farm. The labor and energy
-expended in compost preparation far exceeds the benefit compared to
-simply scattering fresh straw and allowing natural decomposition to
+expended in [[cultivator-compost-preparation-phase-methods]] far exceeds the benefit compared to
+simply scattering fresh straw and allowing [[fukuoka-microbes-scavengers-natural-decomposition-biosystem]] to
 occur in place. Nature's method — surface application and natural
 breakdown — is both simpler and more effective.
 

@@ -1,5 +1,5 @@
 ---
-title: Loess Powder Preparation and Use
+title: cho-loess-powder-in-natural-farming Preparation and Use
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -13,7 +13,7 @@ sources:
 **Updated:** 2026-04-18
 
 Loess powder is a [[knf-seed-treatment-and-soil-foundation]] (1:1000 dilution)
-3. **Use:** Soak seeds in this combined solution following the standard seed treatment timing guidelines
+3. **Use:** Soak seeds in this combined solution following the standard [[jadam-seed-treatment-and-nursery-management]] timing guidelines
 
 The loess powder in the seed treatment solution provides several benefits:
 - Minerals from the loess are absorbed by the seed coat, providing initial nutrition for the germinating seed
@@ -22,7 +22,7 @@ The loess powder in the seed treatment solution provides several benefits:
 
 ### Disease Prevention
 
-- Mix loess powder with seedling treatment liquid for preventing diseases such as canker in fruit trees
+- Mix loess powder with seedling treatment liquid for preventing diseases such as canker in [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
 - The mineral coating on treated seedlings creates an unfavorable environment for pathogenic organisms
 - Can be combined with [[knf-fermented-mixed-compost]] (FMC) as a mineral supplement
 - Apply as a foliar dust in very small quantities (mixed with water as a suspension)
@@ -31,7 +31,7 @@ The loess powder in the seed treatment solution provides several benefits:
 
 - Store dried loess powder in a sealed container in a cool, dry location
 - Protect from moisture to prevent clumping
-- Properly dried and stored loess powder has an essentially unlimited shelf life
+- Properly dried and stored loess powder has an essentially unlimited [[psilocybin-shelf-life-stability]]
 - Keep the Jijangsu (filtered water) in a cool, dark place and use within a few weeks
 
 ## See Also
@@ -56,7 +56,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -98,4 +98,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

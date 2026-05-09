@@ -5,6 +5,7 @@ tags: [query, cannabis, nutrient-deficiency, plant-health, troubleshooting]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: query
 ---
@@ -15,7 +16,7 @@ type: query
 Cannabis leaves curl due to environmental stress, watering problems, nutrient
 imbalances, or pest damage. Upward curling typically indicates heat stress,
 light stress, or wind burn, while downward curling usually signals
-overwatering, nitrogen toxicity, or cold stress. Identifying the pattern of
+overwatering, [[query-how-to-fix-nitrogen-toxicity-in-cannabis]], or cold stress. Identifying the pattern of
 curling and accompanying symptoms is essential for correct diagnosis and
 effective treatment of the underlying problem.
 
@@ -41,15 +42,15 @@ yellowing starting from the leaf tips. The soil remains waterlogged, roots
 become oxygen-starved, and the plant cannot take up nutrients properly even
 if they are present in the soil. Understanding the principles of
 [[cervantes-wilting-plant-water-stress]], recovering when watered but showing increasing damage if the
-cycle repeats. Establishing a consistent watering schedule based on the
+cycle repeats. Establishing a consistent [[cannabis-watering-schedule-and-frequency]] based on the
 plant's actual needs rather than a fixed calendar prevents this common
 mistake.
 
 Nutrient imbalances frequently cause leaf curling. Nitrogen toxicity, common
-in cannabis cultivation, produces deep green leaves that curl downward like
+in [[query-how-does-no-till-cannabis-cultivation-work]], produces deep green leaves that curl downward like
 a claw, often described as "the claw." This typically results from excessive
 nitrogen during the flowering stage when plants need less nitrogen and more
-phosphorus and potassium. Nutrient lockout, where nutrients are present but
+phosphorus and potassium. [[cannabis-nutrient-lockout-and-ph]], where nutrients are present but
 unavailable to the plant due to pH imbalance, can also cause curling along
 with deficiency symptoms. Maintaining proper pH through
 [[cannabis-nutrient-lockout-and-ph]] should be ruled out before adding supplements, since the problem may be availability rather than deficiency.
@@ -71,9 +72,9 @@ problems in indoor and outdoor growing environments.
 
 ## Key Points
 - Upward curling usually indicates heat, light stress, wind burn, or
-  potassium deficiency
+  [[knf-potassium-deficiency-and-excess]]
 - Downward curling typically signals overwatering, nitrogen toxicity,
-  phosphorus deficiency, or cold stress
+  [[query-how-to-fix-phosphorus-deficiency-in-cannabis]], or cold stress
 - Always check [[cervantes-vapor-pressure-deficit-transpiration]] to
   prevent environment-related leaf curling
 - Inspect leaves closely for pests when curling is accompanied by spotting,

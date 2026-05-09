@@ -12,11 +12,11 @@ sources: [raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 
 Updated: 2026-04-18
 
-Source: [[fungal-bioremediation]] (2006), Chapter 8
+Source: fungal-bioremediation (2006), Chapter 8
 
 ## Overview
 
-Polycyclic aromatic hydrocarbons (PAHs) are priority pollutants at creosote, coal tar, and petroleum-contaminated sites. White-rot fungi have demonstrated significant ability to degrade PAHs through their ligninolytic enzyme systems. This page covers soil bioremediation, bioreactor applications, and fungal-bacterial co-cultures for PAH degradation. See also [[fungal-ecology-mycoremediation]], [[phanerochaete-chrysosporium]]
+[[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs) are priority pollutants at creosote, coal tar, and petroleum-contaminated sites. White-rot fungi have demonstrated significant ability to degrade PAHs through their ligninolytic enzyme systems. This page covers soil bioremediation, bioreactor applications, and fungal-bacterial co-cultures for PAH degradation. See also fungal-ecology-mycoremediation, [[phanerochaete-chrysosporium]]
 - Most extensively studied white-rot fungus
 - Degraded all compounds in creosote mixture
 - Phenol and cresol eliminated first, followed by PCP and PAHs
@@ -30,14 +30,14 @@ Polycyclic aromatic hydrocarbons (PAHs) are priority pollutants at creosote, coa
 - Removed benzo[a]pyrene 28% in first month from aged creosote soil; only 4% additional in extended incubation
 - Eliminated all PAHs except heterocyclic compounds in aged creosote-contaminated soil
 - Thirteen basidiospore-derived isolates showed varying MnP and laccase production
-- Ligninolytic enzymes showed substantially higher activities in straw than liquid culture
+- [[singh-ligninolytic-enzymes-fungal-bioremediation]] showed substantially higher activities in straw than liquid culture
 - Killed indigenous bacteria in soil (unlike Hypholoma and Stropharia which supported bacterial development)
 - Produced significant humification of anthracene, fluoranthene, and benzo[a]pyrene in contaminated soils
 
 ### Pleurotus sp. florida
 - Mineralized 53% [14C]pyrene, 25% [14C]benz[a]anthracene, 39% [14C]benzo[a]pyrene to 14CO2 in 15 weeks
 - Mineralization independent of initial benzo[a]pyrene concentration
-- Degrades >40% wheat straw substrate
+- Degrades >40% wheat [[oyster-straw-substrate-preparation]]
 - Can grow from straw substrate into soil
 - High degradation rates of benzo[a]pyrene, benz[a]anthracene, benzo[g,h,i]perylene
 
@@ -89,7 +89,7 @@ Polycyclic aromatic hydrocarbons (PAHs) are priority pollutants at creosote, coa
 Fungi and bacteria employ different catabolic pathways. Combining them maximizes biodegradation:
 
 - Penicillium janthinellum + Stenotrophomonas maltophilia + bacterial consortium: 53% mineralization of [14C]benzo[a]pyrene to 14CO2 in 100 days
-- Fungal oxidation creates polar metabolites that bacteria can further degrade
+- [[singh-fungal-oxidation-petroleum-enzymes]] creates polar metabolites that bacteria can further degrade
 - P. janthinellum alone cannot utilize benzo[a]pyrene on basal salts medium
 - Soil microorganisms enhance [14C]pyrene mineralization with Pleurotus sp. regardless of application timing
 - Significant reduction in mutagenic potential in all co-culture studies (Salmonella assay)
@@ -98,7 +98,7 @@ Fungi and bacteria employ different catabolic pathways. Combining them maximizes
 
 PAHs are incorporated into soil organic matter via:
 - Free radical-mediated copolymerization by extracellular oxidoreductases
-- Covalent incorporation into humic and fulvic acid precursors
+- Covalent incorporation into [[teaming-with-microbes-humic-and-fulvic-acids]] acid precursors
 - Demonstrated for PCP, chlorophenols, trinitrotoluene, herbicides, and PAHs
 - P. ostreatus showed significant increases in radioactivity associated with humic acid fractions in benzo[a]pyrene-contaminated soils
 - Bound residue formation is an important detoxification mechanism
@@ -109,7 +109,7 @@ PAHs are incorporated into soil organic matter via:
 - Medium-sized polyethylene columns for aged creosote soil treatment by P. ostreatus
 - Tube reactors for white-rot cultivation in soil
 - MnP and laccase activities 5-20x higher in coarse-milled wheat straw than in soil
-- Pilot-scale constructed wetlands employed to treat PAH-contaminated sites
+- Pilot-scale [[comparison-constructed-wetlands-vs-bioswales]] employed to treat PAH-contaminated sites
 
 ## Constructed Wetlands
 

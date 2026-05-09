@@ -27,25 +27,25 @@ Species should be selected to provide height variation: tall trees in the centre
 
 Being deciduous, willows and poplars are not effective windbreak species for winter winds but can be planted to shelter from hot summer winds. Being deciduous allows a range of understorey plants, including perennial banana grass, elephant grass, pampas grass, and bamboo, to make growth over the winter months.
 
-For year-round wind protection, evergreen species should be included in the windbreak design. In cold climates, a combination of evergreen and deciduous species provides winter wind protection while allowing winter light to reach the protected area.
+For year-round [[cervantes-wind-protection-outdoor-cannabis]], evergreen species should be included in the [[comparison-windbreak-design-vs-species-selection]]. In cold climates, a combination of evergreen and deciduous species provides winter wind protection while allowing winter light to reach the protected area.
 
 ## Nitrogen-Fixing Windbreak Species
 
-Many nitrogen-fixing trees and shrubs make excellent windbreak species while simultaneously improving soil fertility. These include Acacia species, black locust (Robinia pseudoacacia), Elaeagnus species, sea buckthorn (Hippophae rhamnoides), and casuarina species.
+Many nitrogen-fixing trees and shrubs make excellent windbreak species while simultaneously improving soil fertility. These include Acacia species, black locust (Robinia pseudoacacia), Elaeagnus species, [[comparison-sea-buckthorn-vs-aronia]] (Hippophae rhamnoides), and casuarina species.
 
-Acacia ampliceps (salt wattle) is a large, dense shrub or small tree for warm to hot, semi-arid to arid tropical areas. It is fast growing and tolerates alkaline, highly saline, and waterlogged conditions, making it useful for [[pioneer-species-permaculture]].
+Acacia ampliceps (salt wattle) is a large, dense shrub or small tree for warm to hot, semi-arid to [[tree-vine-crops-arid-tropical-mollison]] areas. It is fast growing and tolerates alkaline, highly saline, and waterlogged conditions, making it useful for [[pioneer-species-permaculture]].
 
 ## Multi-Row Windbreak Design
 
 A well-designed multi-row windbreak might include a windward row of low, dense shrubs; one or two rows of medium-height trees and large shrubs; a central row of tall canopy trees; and a leeward row of medium-height species.
 
-For example, a windward edge of seaberry (Hippophae) or caragana, a middle row of black locust or honey locust, a central row of oak or ash, and a leeward row of poplar or willow. Each species contributes wind protection plus additional yields such as nitrogen fixation, fodder, fruit, or timber.
+For example, a windward edge of seaberry (Hippophae) or caragana, a middle row of black locust or honey locust, a central row of oak or ash, and a leeward row of poplar or willow. Each species contributes wind protection plus additional yields such as [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], fodder, fruit, or timber.
 
 ## Windbreak Species for Different Conditions
 
 In sandy and calcareous soils, specific species perform better as windbreaks. Good windbreak species for sandy soils include casuarinas, some acacia species, and poplars. For low windbreaks on sandy and calcareous soils, certain acacias and native shrubs are ideal.
 
-Trees that readily form thickets are ideal for low windbreaks and erosion control. On slopes, windbreaks should be combined with terraces to prevent both wind erosion and water erosion, connecting to [[permaculture-earthworks-and-water-harvesting]].
+Trees that readily form thickets are ideal for low windbreaks and [[permplant-willows-salix-erosion-control-fodder]]. On slopes, windbreaks should be combined with terraces to prevent both wind erosion and water erosion, connecting to [[permaculture-earthworks-and-water-harvesting]].
 
 ## Fodder Windbreaks
 
@@ -77,3 +77,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[comparison-windbreak-design-vs-species-selection]]

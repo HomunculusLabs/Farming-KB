@@ -1,5 +1,5 @@
 ---
-title: Macrofungal Sampling Design — Plots, Transects, and Adequacy
+title: Macrofungal macrofungal sampling design plots transects — Plots, Transects, and Adequacy
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -25,7 +25,7 @@ Appropriate for species fruiting on discrete substrata:
 - Dung pats
 
 ### Arbitrary Sampling Units (Plots)
-Required for decomposers of litter/humus and mycorrhizal fungi:
+Required for decomposers of litter/humus and [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]:
 - Range from 1 m^2 to 1000 m^2
 - Square, rectangular, or circular
 - Permanent plots preferred (monitored over time)
@@ -68,11 +68,11 @@ Sporocarps of many species have clumped distributions. Contiguous subplots are m
 ### Precipitation and Temperature
 - Precipitation is a better predictor of ectomycorrhizal fungal richness than vegetation type
 - Warm summers increase mycorrhizal sporocarp production in spruce forests but not pine
-- Spring and fall are main fruiting seasons in temperate regions with summer drought
+- Spring and fall are main [[azurescens-fruiting-seasons-and-conditions]] in temperate regions with summer drought
 - Excess moisture can also prevent fruiting in some species
 
 ### Vegetation
-- Plant species composition directly affects fungal diversity
+- Plant species composition directly affects [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - Forest type (deciduous vs. conifer) correlates with ectomycorrhizal species distribution
 - Grasslands, deserts, forests, and tundra have characteristic species
 
@@ -83,7 +83,7 @@ Sporocarps of many species have clumped distributions. Contiguous subplots are m
 - Saprobic Tricholomataceae most diverse at low latitudes
 
 ### Succession
-- Substratum quality changes affect fungal communities (early vs. late log decomposers)
+- Substratum quality changes affect [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] (early vs. late log decomposers)
 - Stand age affects ectomycorrhizal communities (young vs. old stands)
 - Ectomycorrhizal succession poorly documented outside plantations
 
@@ -118,6 +118,10 @@ Pearson's criteria for fungal indicator taxa:
 Macrofungi are sensitive to air pollution, logging, hurricanes, volcanic eruptions, and landslides.
 
 ## See Also
+
+- [[biodiversity-sampling-protocol-design]]
+
+- [[sampling-design-macrofungal-surveys]]
 
 - [[macrofungal-sampling-protocols]]
 

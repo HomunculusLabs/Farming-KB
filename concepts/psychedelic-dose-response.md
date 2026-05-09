@@ -9,7 +9,7 @@ sources: [raw/papers/the-essential-psychedelics-guide-by-dm-turner.md]
 
 ## Psychedelic Dose-Response Relationships
 
-Understanding the dose-response relationship is fundamental to working with psychedelic compounds safely and effectively. D.M. Turner's Essential Psychedelics Guide, combined with Shulgin's TIHKAL data (see [[tihkal-introduction-and-methodology]]), provides a practical framework.
+Understanding the dose-response relationship is fundamental to working with psychedelic compounds safely and effectively. D.M. Turner's [[turner-essential-psychedelics-5-meo-dmt-void-experience]] Guide, combined with Shulgin's TIHKAL data (see [[tihkal-introduction-and-methodology]]), provides a practical framework.
 
 ### The Shulgin Scale
 
@@ -19,7 +19,7 @@ Alexander Shulgin developed a practical intensity scale used throughout TIHKAL:
 - **Plus one** (+1): Very mild effect, threshold; slight alterations in perception or mood
 - **Plus two** (+2): Clearly noticeable effects; enhanced colors, mild visual changes, mood alteration
 - **Plus three** (+3): Strong effects; significant visual and perceptual changes, difficulty with ordinary tasks, emotional intensity
-- **Plus four** (+4): Overwhelming experience; ego dissolution, complete reality replacement, mystical peak experience, loss of contact with ordinary consciousness
+- **Plus four** (+4): Overwhelming experience; [[psilocybin-ego-dissolution-mechanisms]], complete reality replacement, mystical peak experience, loss of contact with ordinary consciousness
 
 ### Non-Linear Amplification
 
@@ -38,7 +38,7 @@ This is why [[psychedelic-experience-stages]] change character so dramatically a
 - Moderate (+2/+3): 10-20 mg
 - Strong (+3): 15-30 mg
 - Very strong (+4): 30+ mg
-- Mushroom equivalent (Psilocybe cubensis): Light 0.5-1.5 g, Moderate 1.5-3.5 g, Strong 3.5-5+ g
+- Mushroom equivalent ([[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]): Light 0.5-1.5 g, Moderate 1.5-3.5 g, Strong 3.5-5+ g
 
 **DMT** (see [[dmt-compound-profile]]):
 - Smoked: 20-60 mg (+1 to +3), 60-100 mg (+3 to +4)
@@ -56,9 +56,9 @@ Every compound has a threshold dose below which no subjective effects are detect
 ### Synergy Effects
 
 **Compounds potentiating each other**:
-- MAO inhibitors + tryptamines (the ayahuasca principle): allows oral activity and extends duration
+- MAO inhibitors + tryptamines (the ayahuasca principle): allows [[tihkal-oral-activity-mao-inhibition]] and extends duration
 - Cannabis + psychedelics: commonly reported as dramatically intensifying the experience (sometimes described as "multiplying" rather than "adding")
-- [[leary-psychedelic-manual-approach|Leary]] described synergy as one of the key variables in controlling psychedelic experience intensity
+- [[leary-psychedelic-manual-approach|Leary]] described synergy as one of the key variables in controlling [[leary-psychedelic-experience-bardo-mapping]] intensity
 
 **Compounds attenuating each other**:
 - Benzodiazepines can reduce psychedelic intensity but may not eliminate it
@@ -66,7 +66,7 @@ Every compound has a threshold dose below which no subjective effects are detect
 
 ### Set and Setting as Dose Multipliers
 
-Turner emphasizes that psychological and environmental factors act as effective dose multipliers:
+Turner emphasizes that psychological and [[duggar-mushroom-environmental-factors-temperature-moisture-light]] act as effective dose multipliers:
 - Fearful or resistant mindset: can amplify difficult aspects
 - Supportive environment, trusted companions: can smooth the experience
 - Familiarity with the compound: experienced users often need less for equivalent subjective intensity

@@ -3,15 +3,12 @@ title: Fennel
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[permaculture, design]
+tags: [permaculture, design]
 sources: [papers/a-selection-permaculture-plants.md]
 ---
+Updated: 2026-04-18 Sweet Fennel ([[foeniculum-vulgare-entity]]) is a versatile perennial herb grown for its edible bulbs, leaves, and seeds. It has many medicinal uses but can be invasive in [[psilocybin-north-america-pacific-northwest]]. It serves multiple functions in [[permaculture-livestock-forage-systems]] — attracts pollinators
 
-Updated: 2026-04-18
-
-Sweet Fennel (Foeniculum vulgare) is a versatile perennial herb grown for its edible bulbs, leaves, and seeds. It has many medicinal uses but can be invasive in North America. It serves multiple functions in [[permaculture-livestock-forage-systems]] — attracts pollinators
-
-- [[permaculture-herb-plants]]
+- permaculture-herb-plants
 
 - [[permaculture-insectary-plants]]
 - [[insectary-plants-for-pest-control]]
@@ -65,7 +62,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -143,4 +140,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

@@ -61,7 +61,7 @@ tested to ensure TOA levels below 0.05%.
 - **Ashaninka people (Peru):** Primary medicine for arthritis, rheumatism, bone pain, and as a contraceptive; used as a general tonic and purgative
 - **Shipibo-Conibo:** Inner bark decoction for digestive disorders, wounds, and fever
 - **Campa people:** Used for cancer-like symptoms and as a blood purifier
-- **Modern herbalism:** Immune support, adjunct therapy for cancer, arthritis, chronic fatigue, viral infections, and inflammatory bowel conditions
+- **Modern herbalism:** Immune support, adjunct therapy for cancer, arthritis, [[cannabis-chronic-fatigue-research]], viral infections, and [[blesching-cannabis-inflammatory-bowel-disease]] conditions
 - **European phytotherapy:** Approved in Germany as a supportive treatment for chemotherapy side effects
 
 ## Cultivation and Sustainability

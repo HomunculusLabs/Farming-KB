@@ -1,5 +1,5 @@
 ---
-title: Cannabis Nutrient Toxicity
+title: green-cannabis-nutrient-schedules Toxicity
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -12,7 +12,7 @@ tags: [cannabis, nutrients, toxic]
 
 ## Overview
 
-Nutrient toxicity occurs when any essential element is present in excess, causing adverse effects on cannabis growth. Toxic conditions can be as damaging as deficiencies and are often more difficult to diagnose because excess of one nutrient typically causes a deficiency of another. Overfertilization is one of the biggest problems for indoor growers.
+Nutrient toxicity occurs when any essential element is present in excess, causing [[blesching-cannabis-safety-adverse-effects-evidence]] on cannabis growth. Toxic conditions can be as damaging as deficiencies and are often more difficult to diagnose because excess of one nutrient typically causes a deficiency of another. Overfertilization is one of the biggest problems for indoor growers.
 
 ## General Principles
 
@@ -43,7 +43,7 @@ Nutrient toxicity occurs when any essential element is present in excess, causin
 
 ### Potassium Toxicity
 
-- Difficult to diagnose; mixed with other nutrient deficiency symptoms
+- Difficult to diagnose; mixed with other [[cannabis-grow-nutrient-deficiency-problem-solving]] symptoms
 - Impairs absorption of magnesium, manganese, and sometimes zinc and iron
 - Look for secondary deficiency symptoms of these nutrients
 
@@ -96,7 +96,7 @@ Nutrient toxicity occurs when any essential element is present in excess, causin
 ### Manganese Toxicity
 
 - Young growth develops dark orange to rusty-brown mottling
-- Compounded by low humidity and low pH
+- Compounded by [[pf-tek-low-humidity-symptoms-and-remediation]] and low pH
 - Causes deficiency of iron and zinc
 
 ### Boron Toxicity
@@ -129,3 +129,7 @@ Nutrient toxicity occurs when any essential element is present in excess, causin
 - [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]]
 - [[cannabis-indoor-soil-mix-and-preparation]]
 - [[cannabis-nutrient-burn-and-toxicity]]
+
+## See Also
+
+- [[cannabis-sulfur-nutrient]]

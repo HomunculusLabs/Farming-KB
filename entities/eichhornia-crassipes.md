@@ -21,7 +21,7 @@ sources:
 
 Eichhornia crassipes, commonly known as water hyacinth, is a free-floating aquatic plant native to the Amazon Basin in South America. It is widely regarded as one of the world's most problematic invasive aquatic species due to its explosive growth rate.
 
-Despite its reputation as an ecological menace, water hyacinth has significant potential in phytoremediation, wastewater treatment, and bioenergy production. It is listed among the 100 worst invasive alien species by the IUCN.
+Despite its reputation as an ecological menace, water hyacinth has significant potential in phytoremediation, [[mollison-designers-wastewater-treatment-wetlands]], and bioenergy production. It is listed among the 100 worst invasive alien species by the IUCN.
 
 ## Taxonomy and Morphology
 
@@ -55,11 +55,11 @@ Reproduction occurs through both vegetative propagation (stolon production) and 
 
 The species tolerates a wide range of water chemistry (pH 5.0–9.0) and moderate salinity. It cannot survive freezing temperatures, which limits its distribution to tropical and subtropical zones.
 
-Biological control programs using weevils (*Neochetina eichhorniae* and *N. bruchi*) and the moth *Niphograpta albiguttalis* have achieved significant reductions in water hyacinth biomass in several countries. These agents were first deployed in the 1970s in Florida and later introduced across Africa and Asia.
+[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] programs using weevils (*Neochetina eichhorniae* and *N. bruchi*) and the moth *Niphograpta albiguttalis* have achieved significant reductions in water hyacinth biomass in several countries. These agents were first deployed in the 1970s in Florida and later introduced across Africa and Asia.
 
 ## Ecology and Invasive Impact
 
-Dense water hyacinth mats can cover entire water surfaces, blocking sunlight and reducing dissolved oxygen levels below the mat. This suppresses native submerged aquatic vegetation and degrades habitat for fish and invertebrates.
+Dense water hyacinth mats can cover entire water surfaces, blocking sunlight and reducing [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] levels below the mat. This suppresses native submerged aquatic vegetation and degrades habitat for fish and invertebrates.
 
 Mat formation alters hydrology by increasing evapotranspiration rates 3–5 times above open water. This water loss can significantly impact reservoir capacity and irrigation water availability in affected regions.
 
@@ -77,9 +77,9 @@ Management approaches include mechanical removal using harvesters and shredders,
 
 Water hyacinth is one of the most effective **phytoremediation** plants known. Its extensive root system accumulates heavy metals (lead, cadmium, mercury, arsenic) from contaminated water through bioaccumulation and rhizofiltration.
 
-The plant removes nitrogen, phosphorus, and organic pollutants from wastewater, making it useful in constructed wetlands and sewage treatment systems. Harvested contaminated biomass requires proper disposal to prevent toxin reintroduction.
+The plant removes nitrogen, phosphorus, and organic pollutants from wastewater, making it useful in [[comparison-constructed-wetlands-vs-bioswales]] and sewage treatment systems. Harvested contaminated biomass requires proper disposal to prevent toxin reintroduction.
 
-**Bioenergy production** from water hyacinth biomass has been extensively studied. The plant can be converted to biogas through anaerobic digestion (yielding 200–300 L biogas per kg dry matter), bioethanol through fermentation, or briquettes through densification.
+**Bioenergy production** from water hyacinth biomass has been extensively studied. The plant can be converted to biogas through [[biogas-digester-basics]] (yielding 200–300 L biogas per kg dry matter), bioethanol through fermentation, or briquettes through densification.
 
 The plant has been investigated for **biofuel production** including biodiesel from seed oil (seeds contain 20–25% oil) and bioethanol from carbohydrate-rich vegetative tissue. These applications remain largely at pilot scale.
 
@@ -99,7 +99,7 @@ The plant contains **phenolic compounds** including gallic acid, catechin, and e
 
 Mineral accumulation varies by tissue: roots concentrate heavy metals, while leaves accumulate more nitrogen and phosphorus. This differential partitioning allows strategic harvesting for targeted contaminant removal.
 
-Studies have shown that water hyacinth can accumulate up to 1,500 mg/kg dry weight of lead and 800 mg/kg of chromium in roots, making it effective for treating industrial wastewater from tanneries and mining operations.
+Studies have shown that water hyacinth can accumulate up to 1,500 mg/kg dry weight of lead and 800 mg/kg of chromium in roots, making it effective for treating [[fungal-industrial-wastewater-treatment]] from tanneries and mining operations.
 
 Oxalate crystals are present in all tissues, particularly in leaves and stems, which limits direct forage use. Wilting or ensiling reduces oxalate content to safe levels for livestock consumption.
 
@@ -111,5 +111,5 @@ Alkaloids have been detected in trace amounts in root tissue, though concentrati
 - [[nymphaea-alba]] — White water lily, native floating-leaved aquatic plant
 - [[phragmites-australis]] — Common reed, emergent aquatic grass dominating wetland margins
 - [[azolla-filiculoides]] — Water fern, nitrogen-fixing floating plant used in rice paddies
-- [[typha-latifolia-entity]] — Cattail, emergent aquatic plant used in constructed wetlands
+- typha-latifolia-entity — Cattail, emergent aquatic plant used in constructed wetlands
 - [[nymphaea-ampla]] — White water lily of the Amazon basin, native to water hyacinth's home range

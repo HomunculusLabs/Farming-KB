@@ -72,9 +72,9 @@ data from animal models and in vitro studies.
 
 Motherwort has several valuable functions in designed landscapes:
 
-- **Dynamic accumulator**: Deep taproot mines minerals (potassium,
+- **[[nutrient-dynamic-accumulator-reference]]**: Deep taproot mines minerals (potassium,
   calcium, iron) from subsoil layers, making them available through
-  leaf litter and [[companion-planting]]**: The strong aromatic foliage may help repel
+  [[dighton-fungal-decomposition-leaf-litter-dynamics]] and [[companion-planting]]**: The strong aromatic foliage may help repel
   certain pest insects when interplanted with vegetables.
 - **Edge species**: Well-suited to hedgerow plantings and guild margins
   in food forests, tolerating both sun and partial shade.
@@ -93,5 +93,4 @@ content. Plants are hardy to USDA zone 3 and self-seed readily, requiring
 management to prevent unwanted spread in formal garden settings.
 ## See Also
 
-- [[leonotus-leonurus]] — Related species, Siberian motherwort
-- [[leonotus-leonurus]] — Lion's ear, African relative in Lamiaceae
+- [[leonotis-leonurus]] — Related species, Siberian motherwort

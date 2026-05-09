@@ -29,7 +29,7 @@ family Lamiaceae. Native to East and Southeast Asia, it is widely used as a
 culinary herb, traditional medicine, and insect-repellent companion plant.
 
 The plant has a distinctive lemony-mint aroma when crushed and is naturalized
-in parts of Europe, North America, and South America following intentional
+in parts of Europe, [[psilocybin-north-america-pacific-northwest]], and South America following intentional
 introduction for its medicinal and aromatic properties.
 
 ## Taxonomy and Morphology
@@ -60,7 +60,7 @@ smooth, and dark brown at maturity.
 
 *E. ciliata* is native to China, Japan, Korea, Mongolia, eastern Siberia, and
 the Himalayan region. It is naturalized across much of temperate Europe,
-eastern North America, and parts of South America and New Zealand.
+[[polypore-fungi-eastern-north-america]] America, and parts of South America and New Zealand.
 
 The species colonizes disturbed habitats including roadsides, riverbanks,
 field margins, waste ground, and forest clearings. It prefers moist,
@@ -108,7 +108,7 @@ Rosmarinic acid is a major contributor to the antioxidant activity of the
 herb.
 
 Antimicrobial assays have demonstrated activity against *Staphylococcus
-aureus*, *Escherichia coli*, and *Candida albicans*. Anti-inflammatory effects
+aureus*, *Escherichia coli*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*. Anti-inflammatory effects
 have been confirmed through inhibition of nitric oxide and pro-inflammatory
 cytokines in macrophage cell lines.
 
@@ -119,17 +119,19 @@ Its strong aromatic oils provide natural insect deterrence, making it an
 effective companion plant when intercropped with vegetables susceptible to
 aphid and whitefly infestation.
 
-The plant attracts pollinators, particularly bees and beneficial wasps, during
+The plant attracts pollinators, particularly [[query-how-to-attract-native-bees-and-beneficial-insects]] wasps, during
 its late-summer flowering period. It serves as a ground cover in
 polyculture systems, suppressing weeds through rapid early growth and dense
 foliage.
 
-As a dynamic accumulator, the species extracts minerals from subsoil layers.
+As a [[nutrient-dynamic-accumulator-reference]], the species extracts minerals from subsoil layers.
 Chopping and dropping the biomass returns these nutrients to the soil surface
 as green mulch. The plant also stabilizes soil on disturbed sites and
-contributes to erosion control on slopes.
+contributes to [[permplant-willows-salix-erosion-control-fodder]] on slopes.
 
 ## See Also
+
+- [[toona-ciliata]]
 
 - [[agastache-foeniculum]]
 - [[mentha-piperita]]

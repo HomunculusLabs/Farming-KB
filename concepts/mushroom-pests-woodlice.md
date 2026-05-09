@@ -12,7 +12,7 @@ type: concept
 # Mushroom Pests - Woodlice
 
 Woodlice were the most destructive pest James Cuthill
-encountered in thirty years of mushroom cultivation. Known
+encountered in thirty years of [[accessible-mushroom-cultivation-for-disabilities]]. Known
 by multiple names, wood-louse, slater, cheese-bug, and pea-
 bug, they consumed mushrooms voraciously and bred so rapidly
 that conventional controls proved entirely ineffective until
@@ -24,23 +24,23 @@ Woodlice are indiscriminate eaters, "never troubled with
 indigestion." Beyond mushrooms, they attacked melons,
 strawberries, cucumbers, and other produce. In beds, they
 grew "as fat as porkers" in a short time. Their destructive
-capacity was greatest in [[mushroom-spawn]] and developing mushrooms are protected
+capacity was greatest in mushroom-spawn and developing mushrooms are protected
 by bed depth and the [[mushroom-forcing-techniques]] for summer
 cultivation kept surface temperatures low enough to prevent
 breeding.
 
 ## Integrated Approach
 
-Cuthill combined bed design eliminating hiding places, regular
+Cuthill combined [[holzer-raised-bed-design-principles]] eliminating hiding places, regular
 monitoring, boiling water for woodlice, manual removal of
 purple maggots, and temperature management to prevent maggot
 breeding. This multi-pronged strategy, centred on the boiling
 water innovation, allowed productive beds despite persistent
-pest pressure throughout the growing season.
+pest pressure throughout the [[savory-growing-season-and-non-growing-season-management]].
 
 ## See Also
 
-- [[mushroom-cultivation-pests-and-contamination]]
+- mushroom-cultivation-pests-and-contamination
 ## Practical Considerations
 
 When working with Mushroom Pests - Woodlice, several practical factors should be
@@ -57,7 +57,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,4 +99,6 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+- [[james-cuthill]]
+- [[mushroom-cultivation]]
+- [[mushroom-pests-and-diseases]]

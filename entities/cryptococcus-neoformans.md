@@ -1,5 +1,5 @@
 ---
-title: Cryptococcus neoformans
+title: bloomfield-cryptococcus-neoformans-capsule-melanin-brain
 created: 2026-04-28
 type: species
 tags: [pathogen, basidiomycete, yeast, encapsulated, environmental-fungus]
@@ -15,7 +15,7 @@ fungus and a significant human pathogen. It is the causative agent of
 cryptococcosis, a potentially fatal infection that primarily affects
 immunocompromised individuals, particularly those with HIV/AIDS.
 
-C. neoformans is unusual among major fungal pathogens in being a
+C. neoformans is unusual among major [[bloomfield-fungal-pathogens-and-parasites]] in being a
 basidiomycete rather than an ascomycete, providing an important
 evolutionary contrast for understanding the origins and mechanisms of
 fungal pathogenicity across the fungal kingdom.
@@ -33,7 +33,7 @@ fungal pathogenicity across the fungal kingdom.
 C. neoformans is classified within the Hymenomycetes of the
 Basidiomycota, alongside Coprinus cinereus and Phanerochaete
 chrysosporium. Unlike the Euascomycetes, C. neoformans does not
-possess hex-1 homologues or Woronin bodies, reflecting the independent
+possess hex-1 homologues or [[fungal-woronin-bodies-and-septal-pore-organization]], reflecting the independent
 evolutionary origins of these organelles.
 
 The species has been divided into two varieties: C. neoformans var.
@@ -49,7 +49,7 @@ eukaryotic genomes. Its genome is approximately 20 megabases encoding
 approximately 6,500 protein-coding genes. The genome has enabled
 comparative analyses of pathogenicity across fungal phyla.
 
-Genomic studies have revealed both conserved virulence factors and
+Genomic studies have revealed both conserved [[fungal-virulence-factors-host-immune-evasion]] and
 phylum-specific innovations in basidiomycete pathogens. The
 availability of the genome has also enabled transcriptomic and
 proteomic studies of the pathogenicity cascade, identifying genes
@@ -61,7 +61,7 @@ The cell wall of C. neoformans contains alpha(1,3)-glucan, a
 polysaccharide also found in major ascomycete pathogens. The
 alpha(1,3)-glucan synthase (Ags) protein shows high amino acid
 sequence similarity in its catalytic domain to homologs from
-Aspergillus fumigatus, Histoplasma capsulatum, and Schizosaccharomyces
+[[gadd-aspergillus-fumigatus-glucan-virulence]], Histoplasma capsulatum, and Schizosaccharomyces
 pombe.
 
 The presence of alpha(1,3)-glucan across both ascomycete and
@@ -108,7 +108,7 @@ lungs with enhanced resistance.
 
 ## Environmental Biology
 
-C. neoformans is an environmental fungus with global distribution in
+C. neoformans is an environmental fungus with [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]] in
 soil associated with bird excreta, tree hollows, and bark of
 Eucalyptus species. It can survive desiccation and UV exposure.
 Melanin production provides protection against environmental stresses

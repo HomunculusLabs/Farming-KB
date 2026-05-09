@@ -49,7 +49,7 @@ sought-after edible Lactarius species among foragers and chefs.
 The basionym is *Agaricus camphoratus* Fr. (1821). Elias Magnus Fries transferred it to
 *Lactarius* in 1838. The species epithet refers to the camphor-like aroma of fresh specimens.
 Some authorities recognize a similar species, *L. fragilis* (the maple candy cap), which may be
-conspecific or a distinct North American taxon.
+conspecific or a distinct [[growing-gourmet-north-american-reishi-species]] taxon.
 
 ## Morphology
 
@@ -93,7 +93,7 @@ Mediterranean.
 
 It is an obligate ectomycorrhizal species, forming associations primarily with conifers,
 especially pines (*Pinus* spp.) and spruces (*Picea* spp.). It also occurs under oaks
-and beeches in mixed forests. It fruits on the ground among needle litter and moss, from
+and beeches in mixed forests. It fruits on the ground among [[dighton-pine-needle-litter-decomposition-fungal-succession]] and moss, from
 late summer through late autumn (August to November).
 
 ## Culinary Use
@@ -113,7 +113,7 @@ late summer through late autumn (August to November).
 ## Bioactive Compounds
 
 Limited phytochemical research has been conducted on *L. camphoratus*. The characteristic aroma
-is attributed to volatile compounds including sotolone (a maple-like lactone), which also occurs
+is attributed to [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] including sotolone (a maple-like lactone), which also occurs
 in aged sake, fenugreek, and lovage. Additional volatile constituents likely include
 2-acetyl-1-pyrroline and related Maillard reaction products that develop during drying.
 

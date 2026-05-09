@@ -1,5 +1,5 @@
 ---
-title: Tessellation and Annidation in Permaculture Design
+title: mollison tessellation and annidation in design in permaculture-design
 created: 2026-04-26
 tags:
   - permaculture
@@ -17,8 +17,8 @@ type: concept
 
 Tessellation and annidation are fundamental pattern strategies drawn
 from nature and applied in permaculture design to create complex,
-compact, and efficient systems. Bill Mollison explores these concepts
-in detail in the Pattern Understanding chapter of the Designers'
+compact, and efficient systems. [[bill-mollison]] explores these concepts
+in detail in the [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]] chapter of the Designers'
 Manual, showing how natural forms tile, nest, and interlock to
 produce resilient landscapes.
 
@@ -56,7 +56,7 @@ different size in a compact way.
 Annidation is analogous to the compact spiral forms of mollusc shells,
 where each successive whorl nests within the previous expansion. In
 design, this principle enables us to layer multiple functions within
-the same space, much as a forest layers canopy, understorey, herb,
+the same space, much as a [[food-forest-layers-and-species]] canopy, understorey, herb,
 and root zones within the same ground area.
 
 ## Superimposition and Complexity
@@ -88,10 +88,10 @@ co-definitions in our core model, and its inter-dependent properties.
 
 In practical permaculture design, tessellation and annidation inform:
 
-- **Zone planning**: Nested zones of decreasing intensity of use,
+- **[[mollison-course-zone-planning-and-design]]**: Nested zones of decreasing intensity of use,
   each tessellated within the larger system boundary.
 
-- **Garden layouts**: Keyhole beds and mandala gardens that nest
+- **Garden layouts**: [[gaias-garden-keyhole-beds-and-mandala-gardens]] and mandala gardens that nest
   access paths within productive growing areas, minimising wasted
   space while maximising edge and access.
 
@@ -119,6 +119,7 @@ mirroring the efficiency of natural systems.
 
 ## See Also
 
-- [[mollison-edge-effect-design]]
+- mollison-edge-effect-design
 - [[mollison-fractals-branching-and-conduit-design]]
-- [[mollison-zone-and-sector-analysis]]
+- mollison-zone-and-sector-analysis
+- [[zone-and-sector-analysis]]

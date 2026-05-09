@@ -30,7 +30,7 @@ sources:
   - Mills, S. & Bone, K. (2005). The Essential Guide to Herbal Safety. Elsevier
 ---
 # Viburnum opulus
-**Viburnum opulus**, commonly known as guelder rose, European cranberrybush, cramp bark, or snowball tree, is a deciduous shrub in the family Adoxaceae (formerly Caprifoliaceae). Native to Europe, northern Africa, and central-western Asia, it is widely cultivated as an ornamental for its showy white spring flowers, vibrant red autumn berries, and brilliant fall foliage. The dried bark of the branches — known as **cramp bark** in herbal medicine — has a long history of use as an antispasmodic, particularly for uterine and muscular cramps.
+**Viburnum opulus**, commonly known as guelder rose, European cranberrybush, cramp bark, or snowball tree, is a deciduous shrub in the family Adoxaceae (formerly Caprifoliaceae). Native to Europe, northern Africa, and central-western Asia, it is widely cultivated as an ornamental for its showy white spring flowers, vibrant red autumn berries, and brilliant fall foliage. The dried bark of the branches — known as **cramp bark** in [[herbal-medicine]] — has a long history of use as an antispasmodic, particularly for uterine and muscular cramps.
 ## Taxonomy and Nomenclature
 The genus *Viburnum* contains approximately 150–175 species distributed across temperate regions of the Northern Hemisphere. *V. opulus* is one of the most widespread and well-known members. The American species *Viburnum opulus* var. *americanum* (syn. *V. trilobum*) — American cranberrybush viburnum — is closely related and shares many properties, though some taxonomists consider it a separate species.
 **Common names:**
@@ -40,7 +40,7 @@ The genus *Viburnum* contains approximately 150–175 species distributed across
 - Snowball tree (the sterile-flowered cultivar 'Roseum' produces globe-shaped flower heads resembling snowballs)
 - Water elder (found in damp, riparian habitats)
 - King's crown, red elder (regional)
-**Important distinction:** *Viburnum opulus* should not be confused with **Sambucus nigra** (elderberry), which belongs to a different family (Adoxaceae but in a different genus) despite superficially similar flower clusters and fruit appearance.
+**Important distinction:** *Viburnum opulus* should not be confused with **[[sambucus-nigra]]** (elderberry), which belongs to a different family (Adoxaceae but in a different genus) despite superficially similar flower clusters and fruit appearance.
 ## Botanical Description
 **Growth habit:** Deciduous multi-stemmed shrub, typically 2–5 m (6–16 ft) tall and wide, with a rounded, spreading crown. In favorable conditions, plants can reach 8 m. The growth rate is moderate, with plants gaining 30–60 cm per year under good conditions. Long-lived — specimens over 50 years old are common.
 **Bark:** Smooth, grey-brown on young stems, developing shallow fissures and corky ridges on older wood. The characteristic medicinal bark is the dried bark of 2–3 year old branches. The bark has a slightly bitter, astringent taste.
@@ -65,7 +65,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +107,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

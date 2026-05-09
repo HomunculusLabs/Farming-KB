@@ -11,7 +11,7 @@ type: concept
 # The Four Missing Keys
 
 Allan Savory identifies four fundamental insights, which he calls the four
-missing keys, that impeded the development of holistic resource management and
+missing keys, that impeded the development of [[savory-holistic-resource-management-animal-impact]] management and
 still impede its acceptance. Each is simple to grasp individually but they only
 become truly obvious when taken together. These keys revealed why environmental
 deterioration continued accelerating despite ever-increasing scientific
@@ -36,7 +36,7 @@ ecosystem.
 ## Key Concepts
 
 - The four keys must be understood together; proving any one in isolation
-  through conventional scientific method is extremely difficult.
+  through conventional [[fukuoka-limits-scientific-method-agriculture]] is extremely difficult.
 - Each key was discovered independently but was rejected because it contradicted
   the dominant beliefs of the era in which it was discovered.
 - Together, these keys explain why management based on reductionist science has
@@ -75,7 +75,7 @@ conventional belief that overgrazing derives from too many animals was
 overturned by the discovery that overgrazing results from animals remaining
 too long in one place or returning too soon. Time, not numbers, is the
 crucial factor. This applies to grazing, trampling, recovery, and virtually
-every aspect of management involving living organisms and their environment.
+every aspect of management involving [[savory-living-organisms-as-tools]] and their environment.
 
 ### Key Four: Role of Herding Animals and Predators
 

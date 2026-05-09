@@ -1,16 +1,16 @@
 ---
-title: Cannabis Harvest Timing Visual Cues
+title: query-how-to-run-perpetual-cannabis-harvest-cycle Timing Visual Cues
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 
 # Cannabis Harvest Timing Visual Cues
 
-Determining the optimal harvest time is one of the most critical decisions in cannabis cultivation. Harvesting too early produces underdeveloped buds with lower potency and less complex flavor. Harvesting too late results in degraded cannabinoids, a harsher smoke, and potentially a more sedative effect. Learning to read visual cues from the plant allows the grower to harvest at the peak of cannabinoid and terpene production.
+Determining the optimal harvest time is one of the most critical decisions in [[query-how-does-no-till-cannabis-cultivation-work]]. Harvesting too early produces underdeveloped buds with lower potency and less complex flavor. Harvesting too late results in degraded cannabinoids, a harsher smoke, and potentially a more sedative effect. Learning to read visual cues from the plant allows the grower to harvest at the peak of cannabinoid and terpene production.
 
 [[cannabis-flowering-stage-management]]
 
@@ -18,7 +18,7 @@ Determining the optimal harvest time is one of the most critical decisions in ca
 
 Trichome examination is the most accurate method for determining harvest readiness. Trichomes are the tiny, mushroom-shaped resin glands that cover the surface of buds and sugar leaves. These glands produce and contain the cannabinoids and terpenes responsible for the plant's psychoactive and aromatic properties.
 
-A jeweler's loupe or pocket microscope with 30-60x magnification is needed to observe trichome development. Under magnification, trichomes appear as small stalks with round bulbous heads that look like tiny mushrooms.
+A jeweler's loupe or pocket microscope with 30-60x magnification is needed to observe [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]]. Under magnification, trichomes appear as small stalks with round bulbous heads that look like tiny mushrooms.
 
 During early flowering, trichomes are clear or translucent, indicating that cannabinoid production is still in progress. The plant is not yet ready for harvest when trichomes are predominantly clear.
 
@@ -30,7 +30,7 @@ Further maturation causes some trichomes to turn amber or brown. The appearance 
 
 ## Leaf Yellowing and Senescence
 
-During late flowering, the plant naturally begins to redirect nutrients from fan leaves to the developing buds. This process causes lower and middle fan leaves to yellow, wilt, and eventually drop off. While excessive yellowing can indicate a nitrogen deficiency problem, moderate yellowing of lower leaves during the final weeks of flowering is a normal sign of maturity.
+During late flowering, the plant naturally begins to redirect nutrients from fan leaves to the developing buds. This process causes lower and middle fan leaves to yellow, wilt, and eventually drop off. While excessive yellowing can indicate a nitrogen [[cannabis-grow-nutrient-deficiency-problem-solving]], moderate yellowing of lower leaves during the final weeks of flowering is a normal sign of maturity.
 
 When the majority of fan leaves have yellowed and begun dropping, the plant has likely maximized its cannabinoid production for the current cycle. Some growers intentionally reduce nitrogen during late flowering to accelerate this senescence process, believing it improves final bud quality by forcing the plant to consume stored nutrients.
 
@@ -48,7 +48,7 @@ This is another indicator that requires regular observation over time. Photograp
 
 Breeders typically provide estimated flowering times for their strains, usually expressed as a range of weeks. These estimates serve as a useful starting point, and growers should begin closely monitoring their plants near the lower end of the breeder's suggested range.
 
-Environmental factors can shift harvest timing. Warmer temperatures may accelerate flowering slightly, while cooler temperatures can slow it. Stress from nutrient problems, pest pressure, or light irregularities can also affect the flowering timeline.
+[[duggar-mushroom-environmental-factors-temperature-moisture-light]] can shift harvest timing. Warmer temperatures may accelerate flowering slightly, while cooler temperatures can slow it. Stress from nutrient problems, pest pressure, or light irregularities can also affect the flowering timeline.
 
 Auto-flowering varieties follow a fixed timeline determined primarily by genetics and age rather than light cycle. Their harvest window is typically shorter and more predictable than photoperiod strains, but individual plant variation still occurs.
 
@@ -69,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

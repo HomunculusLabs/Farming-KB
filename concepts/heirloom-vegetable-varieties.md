@@ -1,5 +1,5 @@
 ---
-title: Heirloom Vegetable Varieties
+title: Heirloom solomon-vegetable-varieties-self-sufficiency
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -17,7 +17,7 @@ There is no strict legal definition, but heirloom varieties generally share thes
 
 - **Open-pollinated**: They breed true from seed, meaning saved seed will produce plants like the parent. This distinguishes them from F1 hybrids, which do not breed true.
 - **History**: They have been cultivated for many years — typically at least 50 years, and often much longer.
-- **Preserved by gardeners**: They have been maintained through generations of seed saving rather than by commercial seed companies.
+- **Preserved by gardeners**: They have been maintained through generations of [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] rather than by commercial seed companies.
 - **Adapted to local conditions**: Many heirlooms have been selected over time for performance in specific regions.
 
 ## Heirlooms vs F1 Hybrids
@@ -45,11 +45,11 @@ In the greenhouse-growing|greenhouse, F1 hybrids are often preferred because of 
 
 ### Genetic Diversity
 
-The commercial seed industry has dramatically narrowed the genetic base of our food crops. Reliance on a small number of hybrid varieties creates vulnerability to pests, diseases, and changing climate conditions. Heirloom varieties preserve the genetic diversity that plant breeders may need in the future.
+The commercial seed industry has dramatically narrowed the genetic base of our food crops. Reliance on a small number of [[cervantes-hybrid-varieties-types]] creates vulnerability to pests, diseases, and changing climate conditions. Heirloom varieties preserve the genetic diversity that plant breeders may need in the future.
 
 ### Flavor and Nutrition
 
-Many heirloom varieties were selected for flavor rather than shipping qualities or uniform appearance. Gardeners often find that heirloom tomatoes, for example, have far richer flavor than supermarket varieties bred for long shelf life.
+Many heirloom varieties were selected for flavor rather than shipping qualities or uniform appearance. Gardeners often find that heirloom tomatoes, for example, have far richer flavor than supermarket varieties bred for long [[psilocybin-shelf-life-stability]].
 
 ### Self-Reliance
 
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

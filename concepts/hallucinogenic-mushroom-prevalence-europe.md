@@ -1,5 +1,5 @@
 ---
-title: Hallucinogenic Mushroom Prevalence in Europe
+title: emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative Prevalence in Europe
 created: 2026-04-28
 tags:
   - epidemiology
@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-Use of hallucinogenic mushrooms lay relatively dormant in Europe from the late 1950s until availability and prevalence increased during the late 1990s and early 2000s. Data from multiple survey sources including general population surveys, school-based studies (ESPAD), and targeted clubbing surveys paint a consistent picture: lifetime prevalence is considerably lower than for cannabis but approaches or equals that of ecstasy among young people in several European countries.
+Use of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] lay relatively dormant in Europe from the late 1950s until availability and prevalence increased during the late 1990s and early 2000s. Data from multiple survey sources including general population surveys, school-based studies (ESPAD), and targeted clubbing surveys paint a consistent picture: lifetime prevalence is considerably lower than for cannabis but approaches or equals that of ecstasy among young people in several European countries.
 
 ## General Population Surveys (Ages 15 to 24)
 
@@ -87,4 +87,4 @@ The average age for first use of hallucinogenic mushrooms was reported as 18 to 
 - [[psilocybe-cubensis]]
 - [[psilocybin-psilocin-chemistry]]
 - [[smartshop-and-online-mushroom-markets]]
-- Dose Effects and Health Risks of Psilocybin Mushrooms
+- [[hallucinogenic-mushroom-dose-effects-clinical]] and Health Risks of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]

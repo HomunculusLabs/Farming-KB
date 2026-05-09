@@ -1,5 +1,5 @@
 ---
-title: Arbuscular Mycorrhizal Fungal Diversity — Patterns and Distribution
+title: comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi entomopathogenic-fungal-diversity-cordyceps-insect-pathogens — Patterns and Distribution
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -67,7 +67,7 @@ Similar ratios of species per genus in deserts, grasslands, tropical forests, an
 ## Biogeographic Patterns
 
 ### Shared Species Between Continents
-- 61% of Glomineae species shared between Namib Desert (Africa) and Sonoran Desert (North America)
+- 61% of Glomineae species shared between Namib Desert (Africa) and Sonoran Desert ([[psilocybin-north-america-pacific-northwest]])
 - Paraglomus occultum, Acaulospora scrobiculata, Archaeospora leptoticha, Gigaspora gigantea, Scutellospora calospora: widely distributed on most continents
 
 ### Factors Affecting Distribution
@@ -80,7 +80,7 @@ Similar ratios of species per genus in deserts, grasslands, tropical forests, an
 
 ### Why Trap Cultures Are Essential
 - Field sporulation may not represent true diversity (some species don't sporulate)
-- Minimum fungal biomass needed before reproduction commences
+- Minimum [[bioremediation-fungal-biomass-biosorbent-material]] needed before reproduction commences
 - Multiple trap culture cycles dramatically increase species detected
 - Second cycle: 2-3x more species; Third cycle: even more
 
@@ -132,7 +132,7 @@ Similar ratios of species per genus in deserts, grasslands, tropical forests, an
 - Form on germination tubes before mycorrhiza formation
 
 ## Key References and Repositories
-- **INVAM** (International Culture Collection of Vesicular Arbuscular Mycorrhizal Fungi): West Virginia University
+- **INVAM** (International Culture Collection of Vesicular Arbuscular [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]): West Virginia University
 - **BEG** (Banque Europeenne des Glomales): European collection
 - Oregon State University Mycological Collections
 - Farlow Herbarium, Harvard University
@@ -140,10 +140,10 @@ Similar ratios of species per genus in deserts, grasslands, tropical forests, an
 
 ## See Also
 
+- [[fungal-coral-reef-diversity]]
+- [[fungal-hot-spring-diversity]]
+- [[soil-chytridiomycetes-diversity-distribution]]
+
 - [[mycorrhizal-types-diversity]]
 
 - [[arbuscular-mycorrhizal-fungal-diversity]]
-
-## See Also
-
-- [[arbuscular-mycorrhizal-colonization-patterns]]

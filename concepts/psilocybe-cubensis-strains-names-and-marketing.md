@@ -1,5 +1,5 @@
 ---
-title: "Psilocybe Cubensis Strains, Names and Marketing"
+title: "Psilocybe psilocybe cubensis strains names and marketing, Names and Marketing"
 created: 2026-04-26
 tags:
   - mycology
@@ -18,8 +18,8 @@ type: concept
 
 ## The Commercial Fiction of Mushroom Strain Varieties
 
-Psilocybe cubensis is by far the most widely cultivated magic mushroom
-species, and the one most commonly bought and sold around the world. Yet
+Psilocybe cubensis is by far the most widely cultivated [[australian-magic-mushroom-common-names]]
+species, and the one most commonly bought and sold [[fungi-around-the-world-species-distribution]]. Yet
 the commercial strain names under which it is marketed, such as 'Thai',
 'Colombian', 'Ecuadorian' and many others, largely represent a fiction
 of marketing rather than genuine biological difference.
@@ -29,7 +29,7 @@ of marketing rather than genuine biological difference.
 Psilocybe cubensis was first collected by the American mycologist
 Franklin Sumner Earle (1856-1929) in 1904 in Cuba, hence its species
 epithet, although he originally placed it in the genus Stropharia. It
-is much larger than its diminutive cousin the Liberty Cap, its
+is much larger than its diminutive cousin the [[peter-mantle-liberty-cap-chromatographic-discovery-1969]], its
 distinctive golden-brown flying-saucer-shaped cap reaching sizes of up
 to eight centimetres across.
 
@@ -50,12 +50,12 @@ cubensis around the world. Whether cattle-farming actually spread the
 mushroom to new territories or simply provided the already occurring
 species with the ecological habitat to colonise is unknown. What makes
 the species so important is that it has proved the easiest to cultivate:
-most of the magic mushrooms bought and sold, or grown in home
+most of the [[guzman-magic-mushrooms-african-species]] bought and sold, or grown in home
 terrariums, are cubensis.
 
 ## The Strain Marketing Illusion
 
-Though different strains of cubensis exist, and cultivated mushrooms
+Though different strains of cubensis exist, and [[fungi-cultivated-mushrooms-pathogens-competitors]]
 are marketed as such, the commercial varieties are more often than not
 identical. Every mycelium produces several 'flushes' of mushrooms, which
 can be made to look different by varying the water regime, or the time
@@ -101,4 +101,4 @@ this. [[psilocybe-cubensis-miniculture-production-data-and-flush-longevity]]
 
 - [[pf-tek-psilocybe-fanaticus]]
 - [[psilocybin-mushroom-chemistry]]
-- [[mushroom-cultivation-underground-history]]
+- mushroom-cultivation-underground-history

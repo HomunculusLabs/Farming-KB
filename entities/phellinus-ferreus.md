@@ -28,7 +28,7 @@ typically replace the pioneer fungi as decomposition progresses
 and wood chemistry changes. Additionally, Hyphoderma setigerum
 and Sterium hirsutum were associated with insect activity on
 the decaying wood, suggesting complex interactions between
-fungal community development and invertebrate colonization. The
+[[air-pollution-fungal-community-responses]] development and invertebrate colonization. The
 ordered replacement of fungal species through this successional
 gradient demonstrates the dynamic nature of wood decay
 communities and the importance of species-specific functional
@@ -41,7 +41,7 @@ that enable it to be among the first fungi to colonize
 partially living branches in the forest canopy. These
 adaptations likely include the ability to tolerate or overcome
 the chemical defenses present in dying host tissue, efficient
-spore dispersal mechanisms that allow colonization of newly
+[[aquatic-fungi-spore-dispersal-ingold]] mechanisms that allow colonization of newly
 available substrates, and competitive strategies that
 facilitate establishment in the presence of other potentially
 competing microorganisms. The pioneer status of P. ferreus
@@ -57,18 +57,18 @@ The occurrence of Phellinus ferreus in canopy deadwood
 highlights the importance of aboveground decomposition
 processes in forest ecosystems. Standing dead branches and
 other canopy woody debris represent a significant pool of
-organic matter whose decomposition is largely mediated by
-fungal communities distinct from those operating on the forest
+[[hamilton-composting-and-organic-matter-management]] whose decomposition is largely mediated by
+[[biodiversity-of-fungi-soil-fungal-communities-agriculture]] distinct from those operating on the forest
 floor. The canopy environment presents unique conditions for
 wood decay, including different moisture regimes, temperature
 fluctuations, and exposure patterns compared to ground-level
 substrates. Understanding the fungal communities responsible
 for canopy decomposition, with P. ferreus as a key pioneer
 species, is essential for developing comprehensive models of
-forest carbon and nutrient cycling. The standing deadwood niche
+forest carbon and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. The standing deadwood niche
 occupied by P. ferreus and its associates represents an often
 overlooked component of forest ecosystem function that
-contributes substantially to overall forest productivity and
+contributes substantially to overall [[fukuoka-textdoc-forest-productivity-without-fertilizer]] and
 biodiversity maintenance.
 
 ## See Also
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

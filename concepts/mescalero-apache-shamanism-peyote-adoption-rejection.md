@@ -1,5 +1,5 @@
 ---
-title: "Mescalero Apache Shamanism and Peyote Use: Adoption and Rejection"
+title: "Mescalero [[mescalero-apache-peyote-use]] shamanism peyote adoption rejection and Peyote Use: Adoption and Rejection"
 created: 2026-04-28
 tags: [mescalero, apache, peyote, shamanism, hallucinogens, native-american, harner, boyer, witchcraft, cultural-change]
 date: 2026-04-25
@@ -40,7 +40,7 @@ Mexican groups.
 Despite documented use, Mescaleros were excluded from early
 peyote distribution maps and listed as non-users by the Bureau
 of Indian Affairs. Opler's 1930s fieldwork revealed forty years
-of elaborate peyote ceremonies and Lipan shamanistic peyote use.
+of elaborate [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]] and Lipan shamanistic peyote use.
 
 ## Apache Religious Philosophy
 

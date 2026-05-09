@@ -1,5 +1,5 @@
 ---
-title: Amazonia and Unexplored Neotropical Regions
+title: Amazonia and guzman allen gartz amazonia and unexplored neotropical regions Regions
 created: 2026-04-28
 tags:
   - amazonia
@@ -25,7 +25,7 @@ underestimates tropical species richness.
 
 Gartz (1996) observed that "The mushrooms occur in abundance wherever
 mycologists abound," highlighting how collection effort rather than true
-biological distribution shapes our understanding of fungal diversity. This
+biological distribution shapes our understanding of [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]. This
 is particularly evident in the global map of neurotropic Psilocybe
 localities, which shows more records in the northern hemisphere than the
 southern, despite the higher number of species in the south. Europe has
@@ -36,7 +36,7 @@ collection records.
 ## The Amazon Basin: A Mycological Black Hole
 
 The Amazon basin, the world's largest tropical rainforest, remains
-remarkably poorly explored for neurotropic fungi. While Mueller and Halling
+remarkably poorly explored for [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]. While Mueller and Halling
 (1995) analyzed the high biodiversity of Agaricales in Neotropical forests,
 they did not consider any species of Psilocybe, despite these being very
 common in the area (Guzmán et al., 1994, 1997b). This omission illustrates
@@ -48,7 +48,7 @@ discovery there.
 ## Africa: High Biodiversity, Few Records
 
 Africa presents a striking contrast between its known high biodiversity and
-the scarcity of neurotropic fungal records. Only 6-8 neurotropic species of
+the scarcity of [[mexico-center-neurotropic-fungal-biodiversity]] records. Only 6-8 neurotropic species of
 Psilocybe are known from the entire continent. [[fungal-evolution]] and biogeography as documented in
 [[guzman-allen-gartz-neotropical-psilocybe-species]].
 ## Practical Considerations
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

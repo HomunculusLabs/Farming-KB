@@ -1,5 +1,5 @@
 ---
-title: "Soil Preparation and Bed Preparation"
+title: "Soil Preparation and azurescens-outdoor-bed-preparation-woodchips"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
@@ -14,11 +14,11 @@ Source: Steve Solomon, "Gardening When It Counts" (2005)
 
 ## The Fundamental Task of Gardening
 
-Vegetable gardening, at its core, consists of: bare and loosen the soil surface so seeds can sprout; eliminate competing wild plants; space plants so they are not overly competing with each other; and make the soil more fertile and moist than nature provides. These few practices are almost all there is to successful vegetable gardening.
+[[home-vegetable-garden-planning]], at its core, consists of: bare and loosen the soil surface so seeds can sprout; eliminate competing wild plants; space plants so they are not overly competing with each other; and make the soil more fertile and moist than nature provides. These few practices are almost all there is to successful vegetable gardening.
 
 ## Understanding Your Soil
 
-Before preparing beds, assess what lies beneath your feet. Solomon recommends digging a test hole at least 36 inches (90 cm) deep. Observe:
+Before preparing beds, assess what [[bloomfield-what-lies-beneath-mycelial-architecture-hyphal-biology-subterranean-fungus]] your feet. Solomon recommends digging a test hole at least 36 inches (90 cm) deep. Observe:
 
 - Topsoil layer (usually darker, 6-12 inches): the fertile surface layer
 - Subsoil: typically lighter in color, may be clayey
@@ -57,7 +57,7 @@ Best done at the end of summer (not spring) in harsh climates. Steps:
 1. Mow grass as close to the ground as possible (scalp it)
 2. Let short clippings remain; remove tall clippings
 3. Spread amendments (lime, COF, manure/compost) per Chapter 2 recommendations
-4. For clay: spread 1 inch of decomposed organic matter and 100 lbs agricultural lime per 1,000 sq ft (first year only)
+4. For clay: spread 1 inch of decomposed [[hamilton-composting-and-organic-matter-management]] and 100 lbs agricultural lime per 1,000 sq ft (first year only)
 5. Dig or till the area
 
 ## Tools and Sharpening
@@ -96,7 +96,7 @@ Roots breathe oxygen and exhale carbon dioxide. They cannot get oxygen from leav
 ## Summary of Bed Preparation
 
 1. Assess soil type with jar test and observation hole
-2. Spread amendments appropriate to vegetable demand level
+2. Spread amendments appropriate to [[solomon-vegetable-demand-classification-low-medium-high]] level
 3. Dig or till at the right moisture (especially critical for clay)
 4. Rake beds into 4-foot-wide raised rows
 5. Keep tools sharp for efficient work

@@ -48,7 +48,7 @@ misidentifications and synonyms.
 
 France has one of the most diverse recorded neurotropic fungal floras
 in Europe, with records of Psilocybe cyanescens, P. semilanceata,
-Copelandia cyanescens, Inocybe aeruginascens, I. corydalina,
+Copelandia cyanescens, [[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]], I. corydalina,
 I. haemacta, and Amanita muscaria among others. Germany similarly
 shows a rich assemblage, with documented populations of P. bohemica,
 P. cyanescens, P. semilanceata, P. serbica, Gymnopilus spectabilis
@@ -59,8 +59,8 @@ of European neurotropic fungi. Psilocybe bohemica was first described
 from Czech specimens, and the country has produced extensive chemical
 studies on P. coprinifacies, P. mairei and P. semilanceata.
 Scandinavian countries including Finland, Denmark and Norway have
-documented P. semilanceata, P. fimetaria, Conocybe cyanopus and
-Pluteus salicinus, with Finnish researchers notably contributing
+documented P. semilanceata, P. fimetaria, [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] and
+[[gartz-pluteus-salicinus-wood-inhabiting-psilocybin]], with Finnish researchers notably contributing
 chemical analyses of psilocybin content.
 
 Southern European countries show more tropical and subtropical
@@ -103,18 +103,18 @@ diversity to the European mycoflora.
 
 ## The Claviceps and Amanita Components
 
-Claviceps purpurea, the ergot fungus, is widely distributed across
+[[bloomfield-ergot-claviceps-purpurea-ergotism]], the ergot fungus, is widely distributed across
 Europe and has been documented from most European countries. C.
 nigricans and C. paspali are also present. Amanita muscaria, A.
 pantherina and A. regalis are found throughout Europe, with A.
 muscaria being particularly common in boreal and temperate forests.
 The Amanita species, containing ibotenic acid rather than
 psilocybin, represent a chemically distinct group of neurotropic
-fungi with deep cultural significance in Siberian traditions.
+fungi with deep [[ethnomycology-cultural-significance-sacred-fungi]] in Siberian traditions.
 
 ## Exploration Gaps and Biases
 
-Despite intensive mycological exploration, Guzmán, Allen and Gartz
+Despite intensive [[guzman-allen-gartz-mycological-exploration-bias-and-underexplored-regions]], Guzmán, Allen and Gartz
 noted that the European Psilocybe diversity may still be
 underestimated. The authors pointed out that whatever region
 mycologists study, new species are found, suggesting that even
@@ -126,9 +126,14 @@ but species richness remains moderate.
 
 ## See also
 
-[[guzman-allen-gartz-psilocybe-transcontinental-species-pairs]]
+guzman-allen-gartz-psilocybe-transcontinental-species-pairs
 [[guzman-allen-gartz-neurotropic-fungi-classification-system]]
 
 ## See Also
 
+- neurotropic-fungi-in-europe
+
 - [[guzman-allen-gartz-hongo-nine-distribution-types-neurotropic-fungi]]
+- [[neurotropic-fungi]]
+- [[guzman-allen-gartz-neurotropic-fungi-australasia]]
+- [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]]

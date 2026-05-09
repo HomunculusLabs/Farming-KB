@@ -13,7 +13,7 @@ type: concept
 Cryptic species are two or more distinct species that are morphologically
 identical or nearly so, but are reproductively isolated and genetically
 divergent. In mycology, cryptic speciation is pervasive and represents a major
-component of the "unknown" fungal biodiversity — species that exist in nature
+component of the "unknown" [[biodiversity-fungal-biodiversity-estimation-methods]] — species that exist in nature
 but are hidden under a single described name.
 
 ## Prevalence in Fungi
@@ -34,7 +34,7 @@ used in traditional taxonomy ([[mycotoxins]],
   genetically distinct formae speciales, many of which may warrant species
   status.
 - **Morchella esculenta** (morel) — phylogenetic studies reveal multiple
-  cryptic species across North America and Europe that are
+  cryptic species across [[psilocybin-north-america-pacific-northwest]] and Europe that are
   indistinguishable macroscopically.
 - **Armillaria mellea** (honey mushroom) — one of the most well-studied
   cases, with multiple biological species recognized within what was once
@@ -53,8 +53,8 @@ distributions, and conservation needs.
 
 Cryptic speciation has real-world implications beyond taxonomy. In plant
 pathology, misidentifying a pathogen due to cryptic diversity can lead to
-failed disease management strategies. In pharmaceutical mycology, different
-cryptic species may produce different bioactive compounds. In biosecurity,
+failed [[plant-disease-management-solomon]] strategies. In pharmaceutical mycology, different
+cryptic species may produce different [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]. In biosecurity,
 cryptic invasive species may evade detection because they are identified as
 a known native species.
 
@@ -78,7 +78,7 @@ combinations of parental traits. Whole-genome sequencing has revealed
 extensive introgression in genera like Candida, Saccharomyces, and
 Neurospora, blurring the distinction between species and challenging
 traditional species concepts. Hybridization may also be a source of
-novel functional diversity, producing genotypes capable of colonizing
+novel [[fungal-functional-diversity-decomposition]], producing genotypes capable of colonizing
 new niches or hosts.
 
 ## See Also

@@ -5,11 +5,12 @@ updated: 2026-04-15
 type: concept
 tags: [reference]
 sources:
-  - raw/papers/the-mushroom-cultivator-stamets.md
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Mycopesticides (Stamets)
 
-Mycopesticides are fungi used to control insect pests, offering an environmentally friendly alternative to chemical pesticides. Paul Stamets' work on mycopesticides centers on entomopathogenic fungi -- particularly Metarhizium anisopliae -- and represents one of the most commercially developed applications of mycorestoration.
+Mycopesticides are fungi used to control insect pests, offering an environmentally friendly alternative to chemical pesticides. Paul Stamets' work on mycopesticides centers on [[singh-entomopathogenic-fungi-biocontrol-agents]] -- particularly Metarhizium anisopliae -- and represents one of the most commercially developed applications of mycorestoration.
 
 ## Discovery: Carpenter Ants and the Artist Conk
 
@@ -49,7 +50,7 @@ Entomopathogenic fungi can be delivered via many carriers, making deployment hig
 - **Wood chips and sawdust**: natural substrates that blend into garden and forest environments
 - **Paper and cardboard**: absorb mycelial extracts and can be placed along insect trails
 - **Biodegradable fabrics**: for controlled-release applications
-- **Agricultural waste products**: cornstalks, wheat straw, and other roughage can serve as media for infusing mycelia
+- **[[fungi-in-composting-and-agricultural-waste-conversion]] products**: cornstalks, [[non-sterilized-wheat-straw-oyster-cultivation]], and other roughage can serve as media for infusing mycelia
 - **Sterilized rice**: a standard spawn medium used in laboratory and early-stage production
 
 Follow-up research at Texas A&M demonstrated that termites seeking wood burrowed to the location of presporulating mycelium and stopped -- an "arrestant" behavior viewed as a unique benefit. The mycelium acts as both attractant and trap.
@@ -59,7 +60,7 @@ Follow-up research at Texas A&M demonstrated that termites seeking wood burrowed
 Mycopesticides have broad potential across agricultural settings:
 
 - **Termite control in structures**: replacing toxic chemical treatments that temporarily succeed at best and are generally disappointing since the insects usually return. Chemical treatments can be toxic to humans, other animals, and the environment.
-- **Crop pest management**: forestalling or preventing pest outbreaks associated with farms, including beetles, locusts, and other crop-damaging insects.
+- **Crop [[cannabis-pest-management-guide]]**: forestalling or preventing pest outbreaks associated with farms, including beetles, locusts, and other crop-damaging insects.
 - **Livestock pest management**: targeting flies and other insects associated with cattle and pig feedlots.
 
 ## Ecological Considerations
@@ -67,7 +68,7 @@ Mycopesticides have broad potential across agricultural settings:
 Stamets articulates several principles for responsible development:
 
 - **Not to wage war against the insect kingdom** but to enlist fungal allies for intelligent, natural, and localized control of targeted insects when and where they threaten people, buildings, or the environment. The goal is balance, not extinction.
-- **Targeted vs. broad-spectrum**: the EPA has encouraged the study of Metarhizium anisopliae specifically because it minimizes potential harm to nontargeted insects -- including bees, butterflies, and other beneficial insects -- while precisely targeting unwanted pests.
+- **Targeted vs. broad-spectrum**: the EPA has encouraged the study of Metarhizium anisopliae specifically because it minimizes potential harm to nontargeted insects -- including bees, butterflies, and other [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] -- while precisely targeting unwanted pests.
 - **Resistance management**: using the fungal genome as an indigenous source of new strains limits tolerance buildup in target insect populations, unlike chemical pesticides where resistance evolves predictably.
 - **License patents** to those who will best promote nature-friendly alternatives to toxic chemical treatments.
 - **Respect the sanctity of all species**, preserve biodiversity, and protect environmental health.
@@ -85,6 +86,9 @@ Stamets envisions landscapes customized with mycelial matrices populated by fung
 ## See Also
 
 - [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] -- biocontrol methods
-- [[fungal-parasites-invertebrates]] -- parasitic fungi
+- fungal-parasites-invertebrates -- [[escovopsis-parasitic-fungi-attine-ant-gardens]]
 - [[fungal-ecology]] -- ecological context
-- [[fungal-biodiversity-forest-floor]]
+- fungal-biodiversity-forest-floor
+- [[mycorestoration]]
+- [[ganoderma-applanatum]]
+- [[mycopesticides]]

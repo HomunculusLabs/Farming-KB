@@ -1,5 +1,5 @@
 ---
-title: "EMCDDA Hallucinogenic Mushroom Emerging Trend Analysis"
+title: "EMCDDA emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative emcdda-epod-project-emerging-trend-detection-methodology Analysis"
 created: 2026-04-28
 tags:
   - emerging-trends
@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-This EMCDDA thematic paper (2006) presents hallucinogenic mushrooms as a case
+This EMCDDA thematic paper (2006) presents [[eu-legislative-responses-hallucinogenic-mushrooms-2001-2006]] as a case
 study in tracking and understanding emerging drug trends in the European
 Union. The case study highlights the importance of lifestyle trends and
 economic interests in the diffusion of and responses to an emerging drug
@@ -98,7 +98,7 @@ Since 2001, six EU Member States have tightened their legislation on
 hallucinogenic mushrooms to coincide with concerns about increasing
 prevalence. New legislation appears to have had an immediate impact on both
 the availability of hallucinogenic mushrooms in the UK and on the general
-volume of internet sales. The UK Mixmag survey found 67% of respondents
+volume of internet sales. The UK [[emcdda-mixmag-survey-magic-mushroom-prevalence-trends-2000-2005]] found 67% of respondents
 reporting reduced availability after the 2005 legal change.
 
 ### Cost/Benefits of Use
@@ -146,4 +146,4 @@ drug surveillance, one that considers the role of lifestyle trends, economic
 forces, and the speed of internet-facilitated diffusion. The case illustrates
 ## See Also
 
-- [[emcdda-hallucinogenic-mushroom-dose-effects]]
+- [[hallucinogenic-mushroom-eu-prevalence-adolescent-use-patterns]]

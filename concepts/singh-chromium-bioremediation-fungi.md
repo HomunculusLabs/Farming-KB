@@ -1,5 +1,5 @@
 ---
-title: Chromium Bioremediation by Fungi
+title: singh chromium bioremediation fungi by Fungi
 created: 2026-04-26
 tags: [mycoremediation, biosorption, chromium, heavy-metals]
 date: 2026-04-25
@@ -14,7 +14,7 @@ type: concept
 Chromium is a highly toxic heavy metal that exists in two primary
 oxidation states: hexavalent chromium Cr(VI), which is highly toxic,
 carcinogenic, and mobile, and trivalent chromium Cr(III), which is less
-toxic and more amenable to removal. Fungal biosorption offers effective
+toxic and more amenable to removal. [[singh-binary-ternary-fungal-biosorption-systems]] offers effective
 strategies for chromium removal from industrial wastewaters, with the
 added benefit of reducing Cr(VI) to the less harmful Cr(III) state.
 
@@ -115,9 +115,9 @@ Certain wood-decay fungi demonstrate remarkable chromium tolerance,
 particularly relevant for CCA-treated wood remediation. Some isolates
 of Wolfiporia cocos can degrade pine wood treated with high
 concentrations of copper chromated arsenate (CCA) wood preservatives.
-Eleven of 12 isolates of the dry-rot fungus Serpula lacrymans have shown
+Eleven of 12 isolates of the dry-rot fungus [[fungal-serpula-lacrymans-dry-rot-buildings]] have shown
 tolerance to copper-based wood preservatives, including copper citrate.
-These findings suggest that ligninolytic fungi could play a role in the
+These findings suggest that [[biochemistry-of-ligninolytic-fungi-bioremediation]] could play a role in the
 remediation of CCA-treated waste wood, an increasingly significant
 waste management challenge as treated wood enters disposal streams.
 
@@ -128,7 +128,7 @@ particularly promising approach for chromium remediation. Future work
 should focus on optimizing the simultaneous removal and reduction of
 Cr(VI) to Cr(III), developing fungal strains with enhanced chromium
 tolerance, and scaling up laboratory biosorption systems for industrial
-wastewater treatment applications. The use of dead fungal biomass as
+[[mollison-designers-wastewater-treatment-wetlands]] applications. The use of dead [[bioremediation-fungal-biomass-biosorbent-material]] as
 a substitute for ion-exchange resins in chromium removal is an
 established concept that deserves further process optimization.
 

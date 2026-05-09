@@ -16,9 +16,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Guzmán, G. (2005). Species diversity of the genus Psilocybe (Fr.) P. Kumm. in the world mycobiota, with special attention to hallucinogenic properties. International Journal of Medicinal Mushrooms, 7(4), 305-317."
+  - "Guzmán, G. (2005). Species diversity of the genus Psilocybe (Fr.) P. Kumm. in the world mycobiota, with special attention to hallucinogenic properties. International Journal of comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive, 7(4), 305-317."
   - "Guzmán, G. (1983). The Genus Psilocybe: A Systematic Revision of the Known Species Including the History, Distribution and Chemistry of the Hallucinogenic Species. J. Cramer."
-  - "Stamets, P. (1996). Psilocybin Mushrooms of the World: An Identification Guide. Ten Speed Press."
+  - "Stamets, P. (1996). [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World: An Identification Guide. Ten Speed Press."
   - "Schultes, R.E. & Hofmann, A. (1979). Plants of the Gods: Origins of Hallucinogenic Use. McGraw-Hill."
   - "Guzmán, G., Allen, J.W., & Gartz, J. (2000). A worldwide geographical distribution of the neurotropic fungi. An analysis and discussion. Annales des Sciences Naturelles, Botanique, 1(1), 71-86."
 ---
@@ -29,9 +29,9 @@ sources:
 
 **Psilocybe caerulescens** is a psilocybin-containing mushroom in the family Hymenogastraceae, notable for its historical significance in Mesoamerican indigenous ceremonies and its natural distribution spanning Mexico through Central America.
 
-The species was one of the mushrooms identified by R. Gordon Wasson and Roger Heim during their famous 1950s expeditions to Mexico, where it was documented as part of the Mazatec mushroom complex used in healing and divination rituals.
+The species was one of the mushrooms identified by R. Gordon Wasson and Roger Heim during their famous 1950s expeditions to Mexico, where it was documented as part of the [[maria-sabina-mazatec-mushroom-ceremony]] complex used in [[metzner-shamanic-healing-and-divination-paradigm]] rituals.
 
-It is closely related to **Psilocybe mexicana** and **Psilocybe weilii**, sharing similar habitat preferences for disturbed grassy areas and forest margins, and is distinguished by its blue-staining reaction upon bruising and its preference for subtropical montane environments.
+It is closely related to **[[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]** and **Psilocybe weilii**, sharing similar habitat preferences for disturbed grassy areas and forest margins, and is distinguished by its blue-staining reaction upon bruising and its preference for subtropical montane environments.
 
 The epithet *caerulescens* (Latin: "becoming blue") refers to the distinctive blue bruising reaction caused by oxidation of psilocybin and psilocin.
 
@@ -45,7 +45,7 @@ The epithet *caerulescens* (Latin: "becoming blue") refers to the distinctive bl
 
 **Synonyms:** Psilocybe caerulescens var. mazatecorum Heim, Psilocybe mazatecorum Heim, Psilocybe zapotecorum Heim (in part), Deconica caerulescens (Murrill) Noordel.
 
-**Etymology:** *Caerulescens* from Latin *caeruleus* (blue), referring to the characteristic blue bruising. This bluing reaction is a hallmark of psilocybin/psilocin presence across the genus.
+**Etymology:** *Caerulescens* from Latin *caeruleus* (blue), referring to the characteristic blue bruising. This [[field-guide-psilocybin-bluing-reaction-identification]] is a hallmark of psilocybin/psilocin presence across the genus.
 
 **Common names:** Landslide mushroom, derrumbe (Mexican Spanish, "landslide"), Mazatec mushroom, San Isidro mushroom.
 
@@ -99,4 +99,5 @@ Cultivation of P. caerulescens is less documented than [[psilocybe-mexicana]] �
 
 ## See Also
 
-- [[psilocybin-mushroom-potency-comparison-by-species]]
+- psilocybin-mushroom-potency-comparison-by-species
+- [[psilocybin-mushroom]]

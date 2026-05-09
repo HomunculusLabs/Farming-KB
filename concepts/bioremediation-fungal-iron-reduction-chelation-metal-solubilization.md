@@ -14,7 +14,7 @@ type: concept
 Fungi can alter the speciation and mobility of metals and minerals
 through the production of organic acids and other chelating agents. Iron
 solubilization is a particularly important process because iron is
-essential for fungal metabolism but is largely unavailable in its oxidized
+essential for [[singh-fungal-metabolism-pahs]] but is largely unavailable in its oxidized
 ferric form in aerobic environments. This process connects to [[mycoremediation]].
 
 ## Mechanisms of Iron Solubilization
@@ -26,10 +26,10 @@ niger during fermentation processes. Oxalic acid is produced by many
 wood-rotting fungi and plays a central role in brown rot decay and metal
 mobilization.
 
-In the brown rot fungus Serpula lacrymans, oxalic acid secretion leads
+In the brown rot fungus [[fungal-serpula-lacrymans-dry-rot-buildings]], oxalic acid secretion leads
 to accumulation of iron oxalate crystals at the decay front. The iron
 oxalate dihydrate mineral (humboldtine) forms as a result of the fungus
-extracting iron from surrounding building materials. This mineral
+extracting iron from surrounding [[natural-building-materials-guide]]. This mineral
 formation has diagnostic value for detecting dry rot in buildings.
 
 ## Ferric Iron Reduction
@@ -49,8 +49,8 @@ This iron mobilization is particularly important in calcareous soils
 where iron availability is limited.
 
 Wood-decay fungi alter iron speciation during decomposition. White rot
-fungi that produce lignin peroxidases often use veratryl alcohol as a
-redox mediator, indirectly involving iron redox chemistry. Brown rot
+fungi that produce lignin peroxidases often use [[staycare-veratryl-alcohol-as-lignin-peroxidase-mediator]] as a
+[[staycare-fungal-redox-mediator-chemistry-pollutant-degradation]], indirectly involving iron redox chemistry. Brown rot
 fungi employ a more direct iron reduction strategy as part of their
 Fenton-based decay mechanism.
 
@@ -82,7 +82,7 @@ for the full mechanism.
 ## Environmental Implications
 
 Fungal iron reduction has significant implications for
-bioremediation strategies targeting iron-containing contaminants.
+[[comparison-bioremediation-strategies-vs-biostimulation-techniques]] targeting iron-containing contaminants.
 The ability of fungi to cycle between oxidized and reduced iron
 states contributes to biogeochemical iron cycling in both aerobic
 and anaerobic soil environments. This redox cycling can mobilize
@@ -90,6 +90,9 @@ or immobilize associated metals and metalloids depending on local
 conditions.
 
 ## See Also
+
+- [[bioremediation-fungal-metal-metalloid-transformations]]
+- [[fungal-intracellular-metal-binding-molecules]]
 
 - [[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]]
 - [[mycoremediation]]

@@ -5,14 +5,15 @@ tags: [cannabis, hydroponics, NFT, aeroponics, water-culture]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Nutrient Film Technique and Aeroponic Systems
 
 Nutrient Film Technique (NFT) and aeroponics represent the high-
-performance end of hydroponic cannabis cultivation. Jorge Cervantes
+performance end of hydroponic [[query-how-does-no-till-cannabis-cultivation-work]]. Jorge Cervantes
 describes both systems in detail, noting their exceptional growth
 rates alongside their reduced margin for error compared to systems
 that use growing medium as a buffer.
@@ -20,8 +21,8 @@ that use growing medium as a buffer.
 ## Nutrient Film Technique (NFT)
 
 NFT systems suspend plant roots in shallow gullies or channels
-through which a thin film of nutrient solution flows continuously.
-Root hairs responsible for most water and nutrient uptake are
+through which a thin film of [[cannabis-nutrient-solution-preparation]] flows continuously.
+Root hairs responsible for most water and [[plant-nutrient-uptake-mechanisms]] are
 submerged in turbulently flowing solution, while the tops of roots
 remain in humid air. The system requires no traditional growing
 medium -- plants are typically started in small rockwool cubes or
@@ -65,7 +66,7 @@ debris from blocking gullies and the pump.
 Many NFT systems are hybrids. In some, nutrient solution is
 delivered via spaghetti tubing to each plant, with more irrigation
 sites ensuring each plant receives proper feeding. Others employ
-spray nozzles inside the gully. However, Cervantes warns that hybrid
+[[ingham-spray-nozzles-equipment-compost-tea]] inside the gully. However, Cervantes warns that hybrid
 systems are often poorly planned. White PVC pipe allows light to
 reach roots, causing them to turn green or rot. Nozzles inside
 sealed pipe are difficult to access for maintenance when they clog.
@@ -94,7 +95,7 @@ into the growth chamber and turn on the system.
 - Exceptionally fast growth rates
 - Efficient use of water and nutrients
 - Clean root systems that are easy to inspect
-- Excellent for cloning and early vegetative growth
+- Excellent for cloning and early [[cannabis-vegetative-growth-stage]]
 
 ### Aeroponic Risks and Challenges
 
@@ -123,7 +124,7 @@ Both NFT and aeroponic systems share vulnerabilities:
 - Nozzle and emitter clogging from nutrient precipitates or debris
 - Root rot from stagnant solution or light exposure to roots
 - Rapid pH and EC shifts due to the absence of medium buffering
-- Salt buildup in gullies and chambers that can damage roots
+- [[cervantes-salt-buildup-leaching-management]] in gullies and chambers that can damage roots
 - Disease spreads quickly through the shared nutrient solution
 
 Preventive maintenance includes daily checks of pump operation, pH

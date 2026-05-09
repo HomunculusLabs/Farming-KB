@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [comparison, fermentation, kombucha, kefir, probiotics]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -22,7 +23,7 @@ profiles, and the daily effort required to produce them.
 
 ## Kombucha
 
-kombucha brewing
+[[query-how-does-kombucha-brewing-work]]
 
 Kombucha is produced through the fermentation of sweetened tea by a
 symbiotic culture of bacteria and yeast known as a SCOBY.
@@ -33,7 +34,7 @@ together in symbiosis.
 The primary fermentation begins when the SCOBY is added to a mixture of
 tea and sugar, typically using black, green, or a blend of teas.
 Over the course of 7 to 30 days, the yeast in the SCOBY converts the
-sugar into ethanol, and acetic acid bacteria then convert that ethanol
+sugar into ethanol, and acetic [[bionutrients-lab-lactic-acid-bacteria-serum]] then convert that ethanol
 into acetic acid and gluconic acid, giving kombucha its characteristic
 tart and vinegary taste.
 
@@ -69,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

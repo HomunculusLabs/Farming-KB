@@ -37,7 +37,7 @@ populations have been severely reduced by centuries of exploitation and
 now occupy a fraction of their original range.
 
 * Cedrus libani* is classified as Vulnerable by the IUCN Red List. Remaining
-populations are fragmented and face ongoing pressure from climate change,
+populations are fragmented and face ongoing pressure from [[dighton-fungi-climate-change-feedback]],
 grazing, and tourism.
 
 ## Taxonomy and Morphology
@@ -90,7 +90,7 @@ Cedar of Lebanon forms ectomycorrhizal associations with diverse fungal
 taxa. Documented partners include species of *Laccaria*, *Paxillus*, and
 *Tomentella*.
 
-These mycorrhizal relationships are critical for nutrient uptake in the
+These mycorrhizal relationships are critical for [[plant-nutrient-uptake-mechanisms]] in the
 nutrient-poor mountain soils where cedars grow. The fungi enhance phosphorus
 absorption and may provide drought protection through improved water uptake.
 
@@ -107,7 +107,7 @@ and a distinctive resinous scent.
 The wood has been prized since antiquity. King Solomon's Temple in Jerusalem
 was reportedly built with cedar of Lebanon timber. Egyptian pharaohs used
 cedar for sarcophagi and ship construction. The timber's natural preservative
-properties made it invaluable for building materials in Mediterranean
+properties made it invaluable for [[natural-building-materials-guide]] in Mediterranean
 climates.
 
 Modern uses include fine cabinetry, veneer, and ornamental woodworking.
@@ -115,7 +115,7 @@ Harvesting from natural stands is now largely prohibited, with timber sourced
 from plantations in Europe and elsewhere.
 
 Cedar resin has been used medicinally and as incense since ancient times.
-The essential oil extracted from cedar wood continues to be used in perfumery
+The [[permaculture-designers-manual-essential-oil-plants]] extracted from cedar wood continues to be used in perfumery
 and aromatherapy.
 
 ## Cultivation and Conservation
@@ -124,7 +124,7 @@ Cedar of Lebanon is widely cultivated as an ornamental tree in temperate
 regions worldwide. It is a popular park and garden specimen, valued for
 its majestic form and historical associations.
 
-Seed germination requires cold stratification for 30–60 days. Germination
+[[cannabis-seed-germination-methods]] requires cold stratification for 30–60 days. Germination
 rates are typically 40–60%. Young trees grow slowly, reaching 1–1.5 meters
 in the first five years. Growth accelerates after establishment.
 

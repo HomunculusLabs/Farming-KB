@@ -42,7 +42,7 @@ The gills are adnate to slightly decurrent, moderately spaced, and white to pale
 The stem (stipe) is slender, central, hollow, and fragile. It measures 20 to 50 mm in length and 1 to 2 mm in thickness. The stem surface is smooth, colored similarly to the cap or slightly paler, often with a whitish basal mycelium. The base may be slightly tomentose where it attaches to the substrate. The stem is insititious, arising directly from the substrate without a distinct bulb or root-like base structure.
 
 ### Spores and Microscopic Features
-The spore print is white. Basidiospores are ellipsoid to roughly amygdaliform, smooth, and non-amyloid, measuring approximately 7-9 × 4-5 µm. Basidia are typically four-spored, clavate, and measure 20-25 µm in length. Cheilocystidia are numerous, cylindrical to ventricose, often with projecting necks. The pileipellis is a cutis of interwoven hyphae with embedded pigments. Clamp connections are present on the hyphae, a useful diagnostic feature for distinguishing *Mycena* species from morphologically similar genera.
+The [[spore-print]] is white. Basidiospores are ellipsoid to roughly amygdaliform, smooth, and non-amyloid, measuring approximately 7-9 × 4-5 µm. Basidia are typically four-spored, clavate, and measure 20-25 µm in length. Cheilocystidia are numerous, cylindrical to ventricose, often with projecting necks. The pileipellis is a cutis of interwoven hyphae with embedded pigments. Clamp connections are present on the hyphae, a useful diagnostic feature for distinguishing *Mycena* species from morphologically similar genera.
 
 ### Odor and Taste
 The odor is mild and indistinct. The taste is mealy or slightly radish-like but not particularly distinctive. This species is not considered edible and should not be consumed without proper chemical analysis and expert identification.
@@ -53,9 +53,9 @@ The odor is mild and indistinct. The taste is mealy or slightly radish-like but 
 
 ## Bioluminescence
 
-Like several other species in the genus *Mycena*, *M. purpureofusca* exhibits bioluminescence. The gills and sometimes the stem base emit a faint greenish glow in darkness, which is visible to dark-adapted eyes. This phenomenon is caused by the enzyme luciferase acting on the substrate luciferin in an oxygen-dependent reaction. The bioluminescence is thought to serve ecological functions related to spore dispersal or possibly as a deterrent to nocturnal invertebrate predators.
+Like several other species in the genus *Mycena*, *M. purpureofusca* exhibits bioluminescence. The gills and sometimes the stem base emit a faint greenish glow in darkness, which is visible to dark-adapted eyes. This phenomenon is caused by the enzyme luciferase acting on the substrate luciferin in an oxygen-dependent reaction. The bioluminescence is thought to serve ecological functions related to [[spore-dispersal]] or possibly as a deterrent to nocturnal invertebrate predators.
 
-The intensity of bioluminescence varies with environmental conditions including temperature, humidity, and the age of the fruiting body. Freshly developed basidiocarps typically exhibit the strongest luminescence. The bioluminescent system in *Mycena* is distinct from that found in other bioluminescent fungi such as Omphalotus and Armillaria, suggesting multiple independent evolutionary origins of fungal light emission.
+The intensity of bioluminescence varies with environmental conditions including temperature, humidity, and the age of the fruiting body. Freshly developed basidiocarps typically exhibit the strongest luminescence. The bioluminescent system in *Mycena* is distinct from that found in other [[bioluminescent-fungi]] such as Omphalotus and Armillaria, suggesting multiple independent evolutionary origins of fungal light emission.
 
 ## Chemistry and Psychoactive Properties
 
@@ -82,12 +82,12 @@ Multiple factors influence the tryptamine content of fungal collections:
 
 *Mycena purpureofusca* can be confused with several other small, purplish-brown *Mycena* species:
 
-- **Mycena pura** — Similar coloration but typically larger and with a more distinctive radish-like odor
+- **[[mycena-pura]]** — Similar coloration but typically larger and with a more distinctive radish-like odor
 - **Mycena rosea** — Pinker overall coloration, found in similar habitats
 - **Mycena galopus** — Common and widespread, brownish cap, exudes a white latex when cut
 - **Mycena sanguinolenta** — Bleeds a reddish fluid when cut, typically smaller
 
-Accurate identification requires microscopic examination of spore morphology and cheilocystidia characteristics, as macroscopic features alone are often insufficient for reliable species determination in this genus.
+Accurate identification requires [[fungal-microscopic-examination-mounting-media-techniques]] of spore morphology and cheilocystidia characteristics, as macroscopic features alone are often insufficient for reliable species determination in this genus.
 
 ## Cultural and Historical Context
 
@@ -113,4 +113,4 @@ The psychoactive properties of *Mycena* species are less well-documented in the 
 
 - Schultes, R.E. (1976). *A Golden Guide to Hallucinogenic Plants*. Golden Press, New York.
 - Desjardin, D.E., et al. Bioluminescent *Mycena* species from tropical and temperate forests.
-- Stamets, P. (1996). *Psilocybin Mushrooms of the World*. Ten Speed Press.
+- Stamets, P. (1996). *[[psilocybin-mushrooms]] of the World*. Ten Speed Press.

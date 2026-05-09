@@ -22,7 +22,7 @@ Traditional ceremonies are conducted primarily for the benefit of the shaman's
 relatives and community. These tend to be deeper, more authentic rituals with
 stronger spiritual significance. The shaman's reputation and social standing
 within the community provide accountability and context. Stuart observed
-one practitioner ("E" in San Francisco) widely regarded as an honorable man,
+one practitioner ("E" in [[shipibo-san-francisco-ceremonial-center-ucayali]]) widely regarded as an honorable man,
 who held private family services where [[ayahuasqueros]] catering to tourists:
 
 - **Shaman B**: An elderly practitioner in Yarina who hosted nightly
@@ -47,7 +47,7 @@ experience."
 ## Icaros
 
 Icaros are the healing songs chanted by the ayahuasquero during the
-ceremony. They are a central component of the Shipibo ayahuasca tradition
+ceremony. They are a central component of the [[san-francisco-shipibo-ayahuasca-ceremonial-center]] tradition
 and serve multiple purposes:
 
 - **Structuring the experience**: The icaros guide the emotional and visual
@@ -66,7 +66,7 @@ and serve multiple purposes:
 
 ## References
 
-- Stuart, R. "Ayahuasca Tourism: A Cautionary Tale." *[[maps]]*, Volume XII,
+- Stuart, R. "[[stuart-r-ayahuasca-tourism-cautionary-ethnography]]: A Cautionary Tale." *[[maps]]*, Volume XII,
   Number 2, Summer 2002.
 ## Practical Considerations
 
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

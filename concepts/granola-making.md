@@ -24,7 +24,7 @@ Granola is a baked breakfast food consisting of rolled oats, nuts, seeds, sweete
 
 Sweetener binds the granola together and creates clusters.
 
-- Maple syrup — classic, deep flavor, good binder
+- [[maple-syrup-production]] — classic, deep flavor, good binder
 - Honey — excellent binder, golden color, floral sweetness
 - Brown sugar — adds caramel notes and crunch
 - Coconut sugar — lower glycemic, earthy flavor
@@ -37,7 +37,7 @@ Sweetener binds the granola together and creates clusters.
 Fat carries flavor, promotes browning, and helps crisp the granola.
 
 - Coconut oil — popular choice, adds mild coconut flavor, solid at room temperature
-- Olive oil — fruity, savory notes; use a mild/light olive oil
+- [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]] — fruity, savory notes; use a mild/light [[olive-cultivation-and-olive-oil-production]]
 - Avocado oil — neutral flavor, high smoke point
 - Butter — rich, classic flavor; melt before adding
 - Ghee (clarified butter) — buttery flavor without the milk solids that can burn
@@ -141,32 +141,6 @@ Add after baking to prevent burning and drying out.
 ## Customizing
 
 ### Flavor Profiles
-
-- Maple Pecan: maple syrup, pecans, cinnamon, vanilla, a pinch of nutmeg
-- Coconut Almond: coconut oil, coconut flakes, almonds, coconut extract
-- Chocolate Peanut: cocoa powder, peanuts, chocolate chips (added after cooling)
-- Apple Pie: dried apples, cinnamon, nutmeg, a pinch of allspice
-- Ginger Molasses: molasses, crystallized ginger, cinnamon, cloves
-- Honey Walnut: honey, butter, walnuts, a pinch of sea salt flakes on top
-- Citrus Pistachio: orange zest, pistachios, cardamom, honey
-
-### Dietary Adaptations
-
-- Vegan: use maple syrup and coconut oil or olive oil (no honey or butter)
-- Nut-free: use only seeds (pumpkin, sunflower, hemp, sesame)
-- Sugar-free: use monk fruit sweetener or allulose (may affect browning)
-- Gluten-free: use certified GF oats
-- High-protein: add protein powder (half the amount in dry ingredients), extra nuts and seeds
-- Keto: replace oats with a mix of coconut flakes, nuts, and seeds; use sugar-free sweetener
-
-## Storage
-
-- Store in an airtight glass jar or container at room temperature
-- Keeps for 2-3 weeks at room temperature
-- Refrigerate for up to 6 weeks
-- Freeze for up to 3 months in a sealed freezer bag
-- If granola loses crunch, spread on a baking sheet and toast at 300F for 5-10 minutes
-- Add dried fruit just before eating if storing for long periods (fruit can make granola soggy)
 
 ## See Also
 

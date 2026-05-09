@@ -1,27 +1,36 @@
 ---
 title: Microfungi Litter and Wood Debris Diversity Survey Methods
 created: 2026-04-19
-updated: 2026-04-19
+updated: 2026-05-09
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi, biodiversity, survey-methods]
 sources: []
 ---
-
 # Microfungi Litter and Wood Debris Diversity Survey Methods
 
-Updated: 2026-04-18
+## Overview
 
-Microfungi are microscopic fungi excluding yeasts, lichens, and those obligately associated with living plants. They include ascomycetes, basidiomycetes, and their anamorphic states. Surveys of microfungi on wood, plant debris, and leaf litter are fundamental to understanding fungal biodiversity, decomposition processes, and ecosystem function.
+Microfungi are microscopic fungi excluding yeasts, lichens, and those
+obligately associated with living plants. They include ascomycetes,
+basidiomycetes, and their anamorphic states. Surveys of microfungi on
+wood, plant debris, and leaf litter are fundamental to understanding
+[[biodiversity-fungal-biodiversity-estimation-methods]], [[fungal-decomposition-processes]], and [[dighton-mycorrhizal-diversity-ecosystem-function]].
+
+See [[biodiversity-microfungi-litter-wood-debris]] and
+[[microfungal-biodiversity-ecology-wood-debris-sampling]] for
+related topics, and [[mycetozoan-survey-methods-substratum-plating]]
+for mycetozoan methods.
 
 ## Sampling Strategy for Wood and Plant Debris
 
 ### Minimum Collection Protocol
 
-For comprehensive species inventory:
-- **Minimum 20 collections per category** (e.g., per tree species, per decay stage)
-- **From at least 10 different trees** of each species
-- Collections should span available decay stages
-- Record: host species, diameter, decay stage, bark condition, exposure, moisture, associated fungi visible to naked eye
+For comprehensive species inventory, a minimum of 20 collections per
+category (e.g., per tree species, per decay stage) should be made
+from at least 10 different trees of each species. Collections should
+span available decay stages. Record: host species, diameter, decay
+stage, bark condition, exposure, moisture, and associated fungi
+visible to the naked eye.
 
 ### Substratum Categories
 
@@ -34,77 +43,108 @@ For comprehensive species inventory:
 
 ## Two Complementary Methods
 
-### 1. Direct Culturing from Substratum
+### Direct Culturing from Substratum
 
-Place small pieces of substratum directly on isolation media:
-- Surface sterilize or not, depending on objectives (sterilization for endophytes; no sterilization for surface-inhabiting species)
-- Use multiple media types to capture different fungal groups
-- Incubate at various temperatures
-- Standard method yields most species when combined with moist chamber
+Place small pieces of substratum directly on isolation media. Surface
+sterilize or not depending on objectives -- sterilization for
+endophytes, no sterilization for surface-inhabiting species. Use
+multiple media types to capture different fungal groups. Incubate at
+various temperatures. This method alone yields fewer species than
+when combined with [[moist-chamber-technique-fungal-fruiting]] incubation.
 
-### 2. Moist Chamber Incubation
+### Moist Chamber Incubation
 
-Place substratum pieces in humid chambers to encourage sporulation of fungi already present:
-- Use large Petri dishes, plastic boxes, or glass jars
-- Maintain high humidity with moist filter paper, sterile water, or water agar
-- Incubate at room temperature or site temperature
-- Examine daily for 4-8 weeks under dissecting microscope
-- Transfer sporulating colonies to pure culture
+Place substratum pieces in humid chambers to encourage sporulation of
+fungi already present. Use large Petri dishes, plastic boxes, or
+glass jars. Maintain high humidity with moist filter paper, sterile
+water, or water agar. Incubate at room temperature or site
+temperature. Examine daily for 4-8 weeks under dissecting microscope.
+Transfer sporulating colonies to pure culture.
 
-Combining both methods captures the greatest diversity -- some species sporulate readily in moist chambers but fail to grow on agar, while others grow on media but do not sporulate in moist chambers.
+Combining both methods captures the greatest number of species, as
+some fungi sporulate only in culture while others sporulate only on
+the natural substratum under humid conditions.
 
-## Species Concepts in Microfungi
+## Culture Media and Identification
 
-### Host Specialization
+### Standard Media Types
 
-Microfungi fall along a spectrum of host specialization:
-- **Necrotrophic specialists:** Tightly adapted to particular host species; often host-specific
-- **Broad-necrotrophic generalists:** Capable of colonizing many host species
-- **Saprobic generalists:** Little or no host specificity; found on many substrata types
+Effective isolation of microfungi requires a range of media:
+- **Malt Extract Agar (MEA)**: General-purpose medium supporting
+  broad fungal diversity.
+- **Potato Dextrose Agar (PDA)**: Supports rapid growth of many
+  saprotrophic species.
+- **Corn Meal Agar (CMA)**: Promotes sporulation of many
+  dematiaceous hyphomycetes.
+- **Czapek's Agar**: Selective for certain ascomycetes; useful for
+  reducing bacterial contamination.
+- **Antibiotic-amended media**: Adding chloramphenicol or
+  streptomycin suppresses bacterial growth.
 
-Physical characteristics of the substratum (moisture content, hardness, chemical composition, decay stage) are often stronger determinants of fungal community composition than host taxonomy. Guild evolution in microfungi may be driven more by substratum physical properties than by host phylogeny.
+### Identification Approaches
 
-### DNA and Molecular Approaches
+Microfungi are identified primarily by their reproductive structures
+(conidia, conidiophores, ascomata, and ascospores). Sporulation in
+culture is essential for morphological identification. Many species
+require specific conditions (light cycles, temperature fluctuations)
+to produce diagnostic structures. Modern surveys increasingly combine
+morphological identification with DNA barcoding using ITS markers.
 
-Ribosomal DNA analysis has revised many host-based classifications:
-- **Colletotrichum:** Species complexes formerly separated by host association now reclassified based on molecular data
-- **Phomopsis:** DNA analysis reveals many "host-specific" species are actually generalists
-- Host range of individual species is often broader than morphological species concepts suggested
+## Data Analysis Methods
 
-Molecular methods allow identification of non-sporulating isolates that would otherwise remain undetermined. rDNA sequencing can elucidate phylogenetic position when morphological characters are insufficient.
+### Diversity Metrics
 
-## Biodiversity Assessment
+Standard ecological indices are used to quantify microfungal
+diversity in litter and wood debris surveys:
 
-### Rarefaction and Diversity Indices
+- **Species richness (S)**: Simple count of species collected.
+- **Shannon-Wiener index (H')**: Accounts for both richness and
+  evenness of species distribution.
+- **Simpson's index (D)**: Emphasizes the contribution of dominant
+  species to overall diversity.
+- **Sorensen's coefficient**: Measures similarity between fungal
+  communities from different substrata or sites.
 
-Rarefaction curves plot cumulative species number against sampling effort. When curves approach asymptote, sampling is likely sufficient. Most studies require 50-100 collections per habitat type to adequately characterize microfungal diversity.
+See [[fungal-diversity-indices-community-analysis]] for detailed
+methodology.
 
-### Guild Structure
+### Succession Analysis
 
-Microfungi on decaying wood form recognizable guilds based on:
-- Successional position (early, mid, late colonizers)
-- Nutritional mode (sugar fungi, cellulose decomposers, lignin decomposers)
-- Fructification habit (hyphomycetes on surfaces, coelomycetes within tissue, ascomycetes with perithecia/apothecia)
+Microfungal communities on decomposing litter and wood follow
+predictable succession patterns. Early colonizers are typically
+fast-growing, opportunistic species with broad substrate ranges.
+Later successional stages include more specialized decomposers of
+recalcitrant polymers (cellulose, lignin). Sampling across multiple
+time points or decay stages allows researchers to characterize these
+successional trajectories.
 
-### Temperature and Moisture Relations
+## Tropical and Subtropical Considerations
 
-Little reliable data exists on how temperature and water relations affect microfungal diversity patterns. This represents a significant gap in understanding global fungal distributions.
+### Unique Challenges
 
-### Tropical vs. Temperate Diversity
+Tropical microfungal surveys face distinct challenges: higher species
+diversity requires larger sample sizes for adequate inventory;
+faster decomposition rates narrow the window for collecting
+intermediate decay stages; and high humidity accelerates fungal
+growth in moist chambers, requiring more frequent examination. Many
+tropical microfungi do not sporulate readily in culture, complicating
+identification.
 
-No direct evidence exists that tropical regions harbor greater microfungal species diversity than temperate regions. The assumption of tropical hyperdiversity, while plausible, remains untested for most microfungal groups. Sampling intensity is typically much higher in temperate regions, confounding comparisons.
+### Recommended Modifications
 
-## Practical Considerations
+For tropical surveys, increase minimum collections to 30 per
+category. Examine moist chambers daily rather than every 2-3 days.
+Include specialized media for tropical species (e.g., oatmeal agar,
+V8 juice agar). Preserve specimens in silica gel for molecular
+analysis when cultures fail to sporulate. Collaborate with
+taxonomic specialists for difficult groups.
 
-- **Preservation:** Air-dry voucher specimens; some microfungi degrade quickly and must be processed immediately
-- **Photography:** Document sporulating structures in situ before disturbance
-- **Isolation:** Transfer to pure culture whenever possible; non-sporulating cultures can be characterized by molecular methods
-- **Seasonality:** Some species fruit only during specific seasons; year-round sampling needed for complete inventories
-- **Habitat variation:** Edge vs. interior, canopy vs. understory, and moisture gradients all affect community composition
+## Modern Molecular Approaches
 
-## See Also
+### Environmental DNA metabarcoding
 
-- [[mycetozoan-survey-methods-substratum-plating]]
-- [[fungicolous-fungi-sporocarp-inhabiting-species]]
-- [[fungal-diversity-leaf-litter-coarse-woody-debris]]
-- [[fungal-diversity-indices-community-analysis]]
+Culture-independent methods using high-throughput sequencing of
+environmental DNA from litter and wood substrata are revolutionizing
+[[microfungal-diversity-host-plant-relationship]] surveys. ITS metabarcoding can detect species
+that resist cultivation, providing a more complete picture of fungal
+[[core-endorhiza-bacterial-community-composition-cannabis]]. However, molecular methods alone cannot

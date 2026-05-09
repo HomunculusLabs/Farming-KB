@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Critique of the American Food System as Strategic Weapon"
+title: "Fukuoka's Critique of the American Food System as fukuoka food strategic weapon critique"
 source: masanobu-fukuoka-the-road-back-to-nature
 topics: geopolitics, food-policy, agriculture, international-trade, japan-us-relations
 ---
@@ -25,7 +25,7 @@ food which is then shipped abroad and used as a strategic weapon."
 
 ### Petroleum-Dependent Agriculture
 
-American agriculture's dependence on petroleum — for fertilizer
+[[fukuoka-american-agriculture-fields-of-death]]'s dependence on petroleum — for fertilizer
 manufacturing, pesticide production, mechanization, and transport —
 means that the food produced is not truly abundant but is
 manufactured at enormous energy cost. The caloric output of the
@@ -40,7 +40,7 @@ vulnerable.
 
 ### Export-Driven Production
 
-The vast scale of American agricultural production is not driven by
+The vast scale of [[fukuoka-american-agricultural-decline]] production is not driven by
 the dietary needs of the American people but by the demands of
 export markets. Farmers working thousands of acres in central
 California grow rice one year, leave the land fallow the next
@@ -91,7 +91,7 @@ and a richer, happier life would have no need to export crops.
 
 ## The Alternative Vision
 
-Fukuoka proposed that if American farmers adopted natural farming
+Fukuoka proposed that if American farmers adopted [[comparison-natural-farming-vs-permaculture]]
 methods — or even traditional organic methods — they could produce
 abundant food on small acreages and live well without the need for
 export markets. This would transform food from a weapon into a
@@ -114,7 +114,7 @@ to other countries.
 ## The Sunkist Example
 
 Fukuoka noted that California's Sunkist Corporation was hurting
-mandarin orange production in Japan through competition. Yet the
+[[fukuoka-mandarin-orange-citrus]] production in Japan through competition. Yet the
 individual American citrus farmers were not benefiting from this
 international market dominance. The profits flowed to the
 corporation, not to the growers.
@@ -137,7 +137,7 @@ power.
 His solution — a return to small-scale, self-sufficient, natural
 farming — remains controversial but continues to inspire movements
 for food sovereignty, local food systems, and agricultural
-decentralization around the world.
+decentralization [[fungi-around-the-world-species-distribution]].
 
 ### See Also
 

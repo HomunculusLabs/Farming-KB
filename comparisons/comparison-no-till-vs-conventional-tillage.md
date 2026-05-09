@@ -4,7 +4,9 @@ created: 2026-04-28
 tags: [comparison, soil-management, no-till, tillage, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: comparison
 ---
 
@@ -13,7 +15,7 @@ type: comparison
 ## Overview
 
 No-till and conventional tillage represent fundamentally different philosophies of soil management with
-cascading effects on soil biology, physical structure, carbon storage, and long-term agricultural
+cascading effects on soil biology, physical structure, [[holmgren-soil-humus-carbon-storage-rebuilding]], and long-term agricultural
 productivity. No-till farming eliminates mechanical soil disturbance, preserving fungal networks, soil
 aggregates, and the complex biological communities that develop in undisturbed soil profiles. Conventional
 tillage uses plows, discs, rototillers, and cultivators to invert and loosen soil, providing short-term
@@ -34,10 +36,10 @@ can break up compacted layers that impede root growth and water percolation.
 However, tillage has severe and well-documented biological and structural costs. Each tilling event severs
 mycorrhizal hyphal networks, which can take weeks to months to regenerate and may never fully recover their
 original extent, species diversity, and interplant connectivity. The physical destruction of soil aggregates
-exposes protected organic matter to rapid oxidation by soil microbes, releasing stored soil carbon as CO2 to
+exposes protected [[hamilton-composting-and-organic-matter-management]] to rapid oxidation by soil microbes, releasing stored soil carbon as CO2 to
 the atmosphere and progressively reducing soil organic matter levels. Tillage shifts the soil microbial
 community from a fungal-dominated system associated with stable, perennial conditions to a
-bacterial-dominated system associated with disturbance and early ecological succession.
+bacterial-dominated system associated with disturbance and early [[holmgren-ecological-succession-and-pulsing]].
 
 Repeated tillage creates a "tillage pan" or hardpan layer at the bottom of the tilled zone, where the
 repeated passage of tractor wheels, plow shares, and tiller tines compacts the soil into an impermeable
@@ -56,7 +58,7 @@ loss of topsoil represents an essentially irreversible loss of productive capaci
 | Organic Matter | Increases 30-50% over 5-10 years | Decreases 0.5-2% annually through oxidation |
 | Water Infiltration | Excellent; stable pore networks | Poor long-term; surface sealing and compaction |
 | Erosion | Minimal; surface mulch and aggregates protect | High; bare, loose soil vulnerable to wind and water |
-| Carbon Storage | Net carbon sequestration in stable humus | Net carbon emission from organic matter oxidation |
+| Carbon Storage | Net [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] in stable humus | Net carbon emission from organic matter oxidation |
 | Weed Control | Mulch, cover crops, rotation, competition | Mechanical cultivation, burial of weed seeds |
 | Weed Seed Bank | Declines progressively (no new seed burial) | Brings buried seeds to surface, germination flushes |
 | Amendment Strategy | Surface application, banding, foliar | Deep incorporation of compost, lime, fertilizers |
@@ -81,10 +83,10 @@ intervention.
 
 No-till is the best choice for long-term soil health improvement, carbon sequestration, and building
 resilient agricultural systems. It is particularly valuable in erosion-prone areas, drought-prone regions
-where water retention is critical, and organic farming systems where soil biology serves as the foundation
+where water retention is critical, and [[coleman-deep-organic-farming-philosophy]] systems where soil biology serves as the foundation
 of fertility and pest management. No-till is well-suited to permanent bed systems, perennial crop
 management, and any operation that values reduced input costs and labor over time. Gardeners transitioning
-to no-till often start with sheet mulching (lasagna gardening) to establish initial weed suppression before
+to no-till often start with [[comparison-sheet-mulching-vs-chop-and-drop-mulching]] (lasagna gardening) to establish initial weed suppression before
 moving to ongoing management.
 
 ## When to Choose Conventional Tillage

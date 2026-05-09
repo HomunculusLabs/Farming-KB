@@ -1,5 +1,5 @@
 ---
-title: Plant Communication Through Volatile Organic Compounds
+title: Plant Communication Through fungal-volatile-organic-compounds-communication Compounds
 source: grahamholmes-what-a-plant-knowsindd.md
 type: concept
 tags: [plant-communication, VOCs, volatile-organic-compounds, allelopathy, plant-defense, mycorrhizal-network]
@@ -13,7 +13,7 @@ For most of scientific history, communication was considered a capacity unique
 to animals. Plants were viewed as passive organisms, incapable of signaling or
 receiving information from their neighbors. This view has been decisively
 overturned by decades of research demonstrating that plants engage in
-sophisticated chemical communication — both with other plants and with other
+sophisticated [[bloomfield-siren-songs-fungal-chemical-communication-reproduction-chapter-7]] — both with other plants and with other
 organisms in their environment.
 
 Plants "speak" primarily through volatile organic compounds (VOCs) — diverse
@@ -59,7 +59,7 @@ on their volatile profiles, choosing nitrogen-rich hosts over nitrogen-poor
 ones.
 
 Predatory insects have evolved to intercept plant communication signals. When a
-plant releases HIPVs to warn its neighbors, parasitoid wasps and predatory mites
+plant releases HIPVs to warn its neighbors, [[comparison-parasitoid-wasps-vs-chemical-pesticides]] and [[comparison-predatory-mites-vs-ladybugs-biocontrol]]
 detect these same volatiles and use them as cues to locate the herbivore
 attacking the plant. This creates a tritrophic interaction where the plant's
 alarm signal recruits the herbivore's natural enemies — a form of indirect
@@ -74,7 +74,7 @@ Perhaps the most revolutionary discovery in plant communication has been the
 recognition of common mycorrhizal networks (CMNs) — networks of fungal hyphae
 connecting the root systems of multiple plants. Arbuscular [[plant-memory-and-associative-learning]]
 - allelopathy chemical competition between plants
-- mycorrhizal symbiosis and nutrient exchange
+- [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] and [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]
 
 ## See Also
 

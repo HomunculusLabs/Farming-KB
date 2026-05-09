@@ -1,5 +1,5 @@
 ---
-title: Cannabis and Alzheimer's Disease Research
+title: Cannabis and Alzheimer's cannabis-huntingtons-disease-research
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -55,7 +55,7 @@ No cure exists. Current treatments focus on:
 
 4. **Antioxidant effects:** CBD has well-documented antioxidant properties that may protect neurons from oxidative stress, a key factor in neurodegeneration
 
-5. **Behavioral symptom management:** Anecdotal and clinical evidence suggests cannabis may help manage agitation, aggression, sleep disturbance, and appetite loss in Alzheimer's patients
+5. **Behavioral [[cannabis-cancer-symptom-management]]:** Anecdotal and clinical evidence suggests cannabis may help manage agitation, aggression, sleep disturbance, and appetite loss in Alzheimer's patients
 
 ### Mechanism of Action
 
@@ -76,7 +76,7 @@ For Alzheimer's patients, the goals are neuroprotection and symptom management:
 
 ### Special Considerations for Elderly Patients
 - Start with very low doses and increase slowly
-- Use non-smoked delivery methods (tinctures, edibles, capsules)
+- Use non-smoked [[cannabis-delivery-methods-comparison]] (tinctures, edibles, capsules)
 - Monitor for confusion, dizziness, or increased disorientation
 - Consult with neurologist and caregivers
 - Be aware of drug interactions with Alzheimer's medications
@@ -95,14 +95,14 @@ The relationship between emotional well-being and cognitive function is well-doc
 
 ## See Also
 
-- cannabis alzheimers research
+- [[blesching-cannabis-alzheimers-dementia]] research
 - [[cannabis-for-neurological-conditions]]
 - [[cannabis-anti-inflammatory-applications]]
 - [[cannabis-health-index]]
 
 ## Source
 
-Uwe Blesching, *The Cannabis Health Index*, Alzheimer's section
+[[uwe-blesching]], *The [[blesching-cannabis-health-index-autoimmune-conditions]]*, Alzheimer's section
 ## Merged: Cannabis for Alzheimer's Disease
 
 # Cannabis for Alzheimer's Disease

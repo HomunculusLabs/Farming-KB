@@ -11,12 +11,12 @@ type: query
 # How Do I Use Cover Crops to Improve Soil Health?
 
 ## Short Answer
-Cover crops improve soil health by adding organic matter, fixing atmospheric
+Cover crops improve soil health by adding [[hamilton-composting-and-organic-matter-management]], fixing atmospheric
 nitrogen, breaking up compacted soil with deep roots, suppressing weeds,
 preventing erosion, and feeding the soil food web. Plant legumes like crimson
-clover and hairy vetch for nitrogen fixation, grasses like cereal rye for
+clover and hairy vetch for [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], grasses like cereal rye for
 biomass and weed suppression, and broadleaves like buckwheat for fast biomass
-and phosphorus cycling. Terminate by chop and drop, crimping, or mowing
+and [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]]. Terminate by [[comparison-chop-and-drop-mulching-vs-mulching-guide]], crimping, or mowing
 before the plants set seed.
 
 ## Detailed Explanation
@@ -43,12 +43,12 @@ Weed suppression occurs through both competition and allelopathy. Dense
 cover crop stands shade out weed seeds, preventing germination and
 establishment during the fallow period. Some species like cereal rye,
 sorghum-sudangrass, and buckwheat release allelopathic chemicals from their
-roots and decomposing residues that inhibit weed seed germination. This
+roots and decomposing residues that inhibit weed [[cannabis-seed-germination-methods]]. This
 natural herbicidal effect can persist for weeks after the cover crop is
 terminated, giving your subsequent cash crop a head start without any
 chemical herbicide applications. The [[soil-food-web]], and build
   long-term soil fertility with each successive planting
-- Legumes like crimson clover and hairy vetch fix 50 to 150 pounds of
+- Legumes like [[comparison-lupin-vs-crimson-clover-green-manure]] and hairy vetch fix 50 to 150 pounds of
   nitrogen per acre through Rhizobium symbiosis
 - Deep-rooted species like daikon radish and cereal rye break up compacted
   soil layers and improve water infiltration
@@ -58,6 +58,8 @@ chemical herbicide applications. The [[soil-food-web]], and build
   and drop or crimping before seed set
 
 ## Related
+
+- [[query-how-do-amf-improve-plant-nutrient-uptake]]
 
 - [[query-how-do-i-choose-the-right-cover-crop-for-my-garden]]
 - [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]]
@@ -80,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

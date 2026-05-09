@@ -1,5 +1,5 @@
 ---
-title: 2C-E - PIHKAL Entry #24 Compound Profile
+title: 2C-E - 2c-b-pihkal-entry-20 #24 Compound Profile
 created: 2026-04-26
 updated: 2026-04-22
 sources: PIHKAL Entry #24
@@ -25,7 +25,7 @@ tags: [phenethylamine, shulgin]
 - The phenethylamine homologue of DOET; the ethyl homologue of [[allegro-names-of-the-gods-and-their-fertility-origins]] active range. The compound's potency is high relative to its [[2c-d-pihkal-entry-23]] cousin (which requires 20-60 mg for similar levels).
 
 ### 16 mg -- "Devil-Angel Pairing"
-A complex experience characterized by contrasting internal states. While one partner experienced ecstatic white-light ascent into "God-space" and an out-of-body experience (seeing "the young Jesus at the bottom of a ladder drifting upwards"), the 2C-E user was "fighting my way ... [OUTPUT TRUNCATED - 343171 chars omitted out of 393171 total] ... a brown ooze," seeing "all the funny gargoyles around the base allegro fertility philosophy of the ancient near east ladder surrounded by picnic bunting." Described as "the 4th of July, rather than Easter" -- a more chaotic, earthy, challenging experience compared to the transcendent states accessible with other compounds.
+A complex experience characterized by contrasting internal states. While one partner experienced ecstatic white-light ascent into "God-space" and an out-of-body experience (seeing "the young Jesus at the bottom of a ladder drifting upwards"), the 2C-E user was "fighting my way ... [OUTPUT TRUNCATED - 343171 chars omitted out of 393171 total] ... a brown ooze," seeing "all the funny gargoyles around the base allegro [[allegro-fertility-philosophy-of-the-ancient-near-east]] of the ancient [[ancient-cannabis-use-near-east-and-egypt]] ladder surrounded by picnic bunting." Described as "the 4th of July, rather than Easter" -- a more chaotic, earthy, challenging experience compared to the transcendent states accessible with other compounds.
 
 ### 20 mg -- "Eternal Museum Viewer"
 Profound visual alteration of spatial perception. The garden outside the window appeared "painted on the window" with every petal, tuft of grass, and leaf "carefully sculptured in fine strokes of oil paint on the surface [[2c-d-pihkal-entry-23]] (methyl) is "pharmacological tofu" requiring 20-60 mg for moderate effects, while 2C-E (ethyl) is a "complete psychedelic" at 10-25 mg. This is one of the most dramatic potency jumps in the 2C series. The corresponding amphetamine homologue DOET is even longer-acting and more potent.
@@ -52,7 +52,7 @@ Synthesized from p-dimethoxybenzene via Friedel-Crafts acetylation to give 2,5-d
 - The compound can produce transient anxiety/panic states ("toxic psychosis" symptoms) that resolve within 20 minutes. Having a trusted [trip sitter is strongly recommended.
 - Not a "recreational" compound -- it is demanding and challenging. Approach with intention and respect.
 - The 5-EtO variant (2CE-5ETO) lasts 16+ hours. If you encounter it, plan accordingly.
-- See [[harm-reduction-guide]] for general psychedelic safety principles.
+- See [[harm-reduction-guide]] for general psychedelic [[shulgin-safety-principles-self-experimentation]].
 - See [legal context for jurisdictional status.
 - The [dosage ambiguity in [[allegro-fertility-philosophy-of-the-ancient-near-east]]
 - [[allegro-names-of-the-gods-and-their-fertility-origins]]
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

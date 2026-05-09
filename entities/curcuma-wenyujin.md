@@ -46,7 +46,7 @@ The essential oil content of dried rhizome ranges from 1.5–4.0%. Major volatil
 
 The compound exhibits broad-spectrum antitumor activity through multiple mechanisms: induction of apoptosis via mitochondrial pathways, cell cycle arrest at G2/M phase, inhibition of angiogenesis, and reversal of multidrug resistance.
 
-Clinical trials in China have demonstrated efficacy against lung, liver, breast, and brain cancers, both as monotherapy and in combination with conventional chemotherapeutics. The injectable formulation improves quality of life scores and reduces chemotherapy-related adverse effects.
+[[mushroom-cancer-clinical-trials-overview]] in China have demonstrated efficacy against lung, liver, breast, and brain cancers, both as monotherapy and in combination with conventional chemotherapeutics. The injectable formulation improves quality of life scores and reduces chemotherapy-related [[blesching-cannabis-safety-adverse-effects-evidence]].
 
 ### Furanodiene
 
@@ -80,15 +80,15 @@ Wenzhou produces 200–300 tonnes of dried rhizome annually. The species is prot
 
 ## Chemistry and Quality Control
 
-Chinese Pharmacopoeia specifies curdione content ≥ 0.3% and germacrone ≥ 0.1% by HPLC as minimum quality standards for *C. wenyujin* rhizome. β-elemene content is used as an additional quality marker in commercial grading.
+Chinese Pharmacopoeia specifies curdione content ≥ 0.3% and germacrone ≥ 0.1% by HPLC as minimum [[aact-compost-quality-standards-ingham]] for *C. wenyujin* rhizome. β-elemene content is used as an additional quality marker in commercial grading.
 
 The rhizome also contains diarylheptanoids, including turmerone derivatives and curcuminoid analogues specific to the *C. wenyujin* chemotype. These non-volatile compounds contribute to the species' distinctive anti-inflammatory profile compared to other Curcuma species.
 
 Phenolic content ranges from 15–25 mg GAE/g dried rhizome. The antioxidant capacity (DPPH IC₅₀) is approximately 45 μg/mL for the ethanol extract, significantly higher than the aqueous extract.
 
-The essential oil composition varies significantly with harvest timing, processing method, and geographic origin. Shade-drying preserves volatile content better than sun-drying, with 20–30% higher curdione retention.
+The essential oil composition varies significantly with [[cannabis-harvest-timing-visual-cues]], processing method, and geographic origin. Shade-drying preserves volatile content better than sun-drying, with 20–30% higher curdione retention.
 
-Aromatic water distillation of fresh rhizome yields a volatile oil rich in β-elemene suitable for pharmaceutical extraction. Industrial β-elemene production uses fractional distillation of the crude oil, achieving >95% purity.
+Aromatic water distillation of fresh rhizome yields a volatile oil rich in β-elemene suitable for pharmaceutical extraction. Industrial β-elemene production uses [[cannabis-fractional-distillation-cannabinoids]] of the crude oil, achieving >95% purity.
 
 ## Ecological and Economic Significance
 
@@ -96,7 +96,7 @@ Aromatic water distillation of fresh rhizome yields a volatile oil rich in β-el
 
 The species has been studied for its phytoremediation potential, showing capacity to accumulate heavy metals from contaminated soils. However, this trait raises food safety concerns for rhizomes harvested from polluted sites.
 
-Conservation efforts focus on maintaining genetic diversity in cultivated populations, as the narrow endemic range and long cultivation history have led to genetic bottlenecking. Germplasm banks in Zhejiang maintain >50 accessions for breeding programs.
+Conservation efforts focus on maintaining genetic diversity in cultivated populations, as the narrow endemic range and long [[cuthill-mushroom-cultivation-history-19th-century]] have led to genetic bottlenecking. Germplasm banks in Zhejiang maintain >50 accessions for breeding programs.
 
 ## See Also
 

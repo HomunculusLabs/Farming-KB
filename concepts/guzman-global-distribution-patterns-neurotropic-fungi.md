@@ -3,7 +3,7 @@
 
 ## Overview
 
-The worldwide geographical distribution of neurotropic (hallucinogenic/psychedelic) fungi, as analyzed by Guzmán, Allen & Gartz (2000), reveals striking biogeographical patterns that reflect the interplay of climate, vegetation, mammalian ecology, and human cultural practices. Of the 216 known species of neurotropic fungi, the majority are concentrated in tropical and subtropical regions, with particular diversity hotspots in Mesoamerica, South America, Southeast Asia, and Oceania. These patterns have significant implications for understanding the coevolution of fungi, mammals, and humans.
+The worldwide geographical [[global-distribution-of-neurotropic-fungi]] (hallucinogenic/psychedelic) fungi, as analyzed by Guzmán, Allen & Gartz (2000), reveals striking biogeographical patterns that reflect the interplay of climate, vegetation, mammalian ecology, and human cultural practices. Of the 216 known species of neurotropic fungi, the majority are concentrated in tropical and subtropical regions, with particular diversity hotspots in Mesoamerica, South America, Southeast Asia, and Oceania. These patterns have significant implications for understanding the coevolution of fungi, mammals, and humans.
 
 ## Hemispheric Asymmetry: The Austral Hemisphere Bias
 
@@ -15,7 +15,7 @@ One of the most significant findings of Guzmán et al. is that the majority of [
 
 Mexico has the highest diversity of neurotropic fungi of any country, with 76 known species. Of these, 44 belong to the genus Psilocybe, representing 39% of the world's total Psilocybe species. This extraordinary concentration is attributed to Mexico's varied topography, which includes tropical lowland forests, subtropical cloud forests, temperate pine-oak woodlands, and high-altitude grasslands — each providing distinct habitat types for different Psilocybe species.
 
-Mexico is also the center of documented indigenous use of neurotropic fungi, with at least nine indigenous ethnic groups (including the Mazatec, Mixtec, Zapotec, Nahuatl, and Chatino) known to use [[neurotropic-fungi-in-south-america]] is less well-documented than in Mexico, but the use of ayahuasca (a brew containing DMT from *Banisteriopsis caapi* and other plants) throughout the Amazon basin suggests a deep cultural relationship with psychoactive fungi and plants in the region.
+Mexico is also the center of documented indigenous use of neurotropic fungi, with at least nine indigenous ethnic groups (including the Mazatec, Mixtec, Zapotec, Nahuatl, and Chatino) known to use neurotropic-fungi-in-south-america is less well-documented than in Mexico, but the use of ayahuasca (a brew containing DMT from *Banisteriopsis caapi* and other plants) throughout the Amazon basin suggests a deep cultural relationship with psychoactive fungi and plants in the region.
 
 ### Central America
 
@@ -29,11 +29,11 @@ Oceania — particularly Australia and New Guinea — has a distinctive neurotro
 
 ### Africa
 
-Africa remains the most underexplored continent for neurotropic fungi. While species have been recorded from West Africa, Central Africa, East Africa, and Southern Africa, the mycological exploration of most African countries is far less complete than that of the Americas or Asia. The tropical forests of Central and West Africa likely harbor many undocumented species. *Psilocybe cubensis* is widespread in African cattle pastures, and indigenous use of psychoactive mushrooms has been reported from several regions, though systematic documentation is lacking.
+Africa remains the most underexplored continent for neurotropic fungi. While species have been recorded from West Africa, Central Africa, East Africa, and Southern Africa, the [[guzman-allen-gartz-mycological-exploration-bias-and-underexplored-regions]] of most African countries is far less complete than that of the Americas or Asia. The tropical forests of Central and West Africa likely harbor many undocumented species. *Psilocybe cubensis* is widespread in African cattle pastures, and indigenous use of psychoactive mushrooms has been reported from several regions, though systematic documentation is lacking.
 
 ### Europe
 
-Europe has a relatively small neurotropic mycota, dominated by temperate species such as *Psilocybe semilanceata*, *P. cyanescens*, *P. serbica*, *Inocybe aeruginascens*, and *Gymnopilus spectabilis*. The indigenous use of neurotropic fungi in Europe is limited to the historical use of *Amanita muscaria* by Siberian peoples (the Chukchee and Koryak) and possibly by pre-Christian European cultures. The Viking use of *A. muscaria* before battle (the "berserker" hypothesis) remains speculative.
+Europe has a relatively small neurotropic mycota, dominated by temperate species such as *[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]*, *P. cyanescens*, *P. serbica*, *[[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]]*, and *Gymnopilus spectabilis*. The indigenous use of [[ethnobotanical-use-of-neurotropic-fungi-in-mexico]] Europe is limited to the historical use of *[[allegro-amanita-muscaria-properties-and-pharmacology]]* by Siberian peoples (the Chukchee and Koryak) and possibly by pre-Christian European cultures. The Viking use of *A. muscaria* before battle (the "berserker" hypothesis) remains speculative.
 
 ### North America (United States and Canada)
 
@@ -61,7 +61,7 @@ The biogeographical patterns of neurotropic fungi reflect several key habitat pr
 
 - **Temperature:** Most Psilocybe species are tropical or subtropical, with optimal growth temperatures between 20–30°C. Temperate species typically fruit in autumn when temperatures are moderate and humidity is high.
 - **Humidity:** High humidity is essential for fruiting. The seasonal timing of fruiting in temperate species corresponds to periods of high precipitation.
-- **Substrate:** Different species are adapted to different substrates: dung (coprophilous species), decaying wood (lignicolous species), soil (terrestrial species), and [[worldwide-distribution-psilocybe-species]] analysis. First, the inventory of neurotropic fungi is far from complete, particularly in underexplored tropical regions. New species continue to be described from tropical America, Southeast Asia, and Africa, and the total number of known neurotropic species has increased substantially since the paper's publication. Second, the reported distributions of many species are based on relatively few collections, and the true ranges of these species are likely broader than currently documented. Third, taxonomic uncertainties — particularly within the *Psilocybe* genus, where molecular phylogenetics has revealed significant cryptic diversity — complicate both species counts and distribution mapping.
+- **Substrate:** Different species are adapted to different substrates: dung (coprophilous species), decaying wood (lignicolous species), soil (terrestrial species), and worldwide-distribution-psilocybe-species analysis. First, the inventory of neurotropic fungi is far from complete, particularly in underexplored tropical regions. New species continue to be described from tropical America, Southeast Asia, and Africa, and the total number of known neurotropic species has increased substantially since the paper's publication. Second, the reported distributions of many species are based on relatively few collections, and the true ranges of these species are likely broader than currently documented. Third, taxonomic uncertainties — particularly within the *Psilocybe* genus, where molecular phylogenetics has revealed significant cryptic diversity — complicate both species counts and distribution mapping.
 
 ## Future Directions
 
@@ -69,7 +69,7 @@ Modern molecular techniques, particularly DNA barcoding and environmental DNA (e
 
 ## See Also
 
-- [[mexico-neurotropic-fungi-biodiversity-center-guzman-2000]]-fungi-biodiversity-hotspot
+- mexico-neurotropic-fungi-biodiversity-center-guzman-2000-fungi-biodiversity-hotspot
 - [[fungal-biogeography]]
 - teonanacatl divine mushroom mesoamerica
 
@@ -80,3 +80,6 @@ Modern molecular techniques, particularly DNA barcoding and environmental DNA (e
 - Wasson, R.G. (1980). *The Wondrous Mushroom: Mycolatry in Mesoamerica*. McGraw-Hill.
 - Guzmán, G. (2005). "Species concept in the genus Psilocybe." *International Journal of Medicinal Mushrooms*, 7(1&2): 93–102.
 - Allen, J.W. & Gartz, J. (2001). "New species of Psilocybe from Thailand." *Mycologia*, 93(1): 45–50.
+- [[distribution-of-neurotropic-fungi]]
+- [[neurotropic-fungi]]
+- [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]]

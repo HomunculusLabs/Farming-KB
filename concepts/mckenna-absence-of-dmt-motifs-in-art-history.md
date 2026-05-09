@@ -1,5 +1,5 @@
 ---
-title: Absence of DMT Motifs in Human Art History
+title: Absence of mckenna-absence-dmt-motifs-art-mahayana-thanka-problem in Human Art History
 created: 2026-05-06
 tags:
 type: concept
@@ -22,7 +22,7 @@ sources:
 One of the most puzzling observations in the phenomenology of dimethyltryptamine is
 the near-total absence of its characteristic imagery in the visual art traditions of
 human civilization. Despite the intensity, consistency, and cross-cultural reproducibility
-of the DMT experience, the specific motifs encountered in the tryptamine state — the
+of the [[mckenna-dmt-experience-and-hyperspace]], the specific motifs encountered in the tryptamine state — the
 self-transforming geometric entities, the hyperspatial architectures, the machine-elf
 beings — are strikingly absent from the world's art historical record.
 
@@ -119,6 +119,10 @@ media. This suggests that the visual art record provides, at best, a highly filt
 and distorted window into the full range of human visionary experience.
 
 ## See Also
+
+- [[mckenna-absence-dmt-motifs-art-mahayana-thanka-problem]]
+
+- [[mckenna-dmt-visual-cortex-intensity-fourth-dimensional-light-deployment]]
 
 - [[dmt-black-hole-effect-and-shamanic-practice]]
 - [[mckenna-critique-of-seti-and-cultural-blindness]]

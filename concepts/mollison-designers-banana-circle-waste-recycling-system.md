@@ -1,5 +1,5 @@
 ---
-title: Banana Circle Waste Recycling System
+title: comparison-banana-circle-vs-herb-spiral ecological sanitation and waste recycling systems System
 created: 2026-04-28
 tags:
   - permaculture-design
@@ -17,7 +17,7 @@ type: concept
 # Banana Circle Waste Recycling System
 
 The banana circle is one of the most iconic and immediately productive elements in
-[[permaculture-designers-manual-bamboo]], it converts organic waste and
+permaculture-designers-manual-bamboo, it converts organic waste and
 greywater into a dense productive polyculture centred on bananas and papaya.
 It is a classic demonstration of the permaculture principle that every waste
 product of one system becomes the resource input for another.
@@ -29,8 +29,8 @@ and 0.5 to 1 metre deep, excavated in a well-drained location. The excavated
 soil is mounded up around the rim of the pit to form a raised ring. This
 ring becomes the planting zone. The pit itself functions as an active
 composting chamber and [[permaculture-pawpaw]]) are
-interspersed between the bananas on the mound. Sweet potato, cassava,
-lemongrass, taro, and other [[pdc-zone-one-garden-design]] intensively managed productive elements.
+interspersed between the bananas on the mound. [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]], cassava,
+lemongrass, taro, and other pdc-zone-one-garden-design intensively managed productive elements.
 
 ## Species Composition
 
@@ -49,12 +49,12 @@ The layered polyculture within a banana circle includes:
 
 - **Edge species:** Sugarcane, pigeon pea, and leguminous shrubs can be
   established on the outer perimeter to provide additional mulch material,
-  wind protection, and nitrogen fixation.
+  [[cervantes-wind-protection-outdoor-cannabis]], and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
 
 ## Construction Steps
 
-1. Select a site with good sunlight, preferably within [[permaculture-zone-planning]], [[composting-systems]], and tropical food forests. They serve
-as anchor elements in [[permaculture-chicken-tractors]] and [[permaculture-designers-manual-keyhole-garden]]
+1. Select a site with good sunlight, preferably within permaculture-zone-planning, [[composting-systems]], and tropical food forests. They serve
+as anchor elements in [[permaculture-chicken-tractors]] and permaculture-designers-manual-keyhole-garden
 ## Practical Considerations
 
 When working with Banana Circle Waste Recycling System, several practical factors should be
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

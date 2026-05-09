@@ -1,5 +1,5 @@
 ---
-title: Fungal Decomposition and Nutrient Cycling in Ecosystems (Dighton)
+title: Fungal Decomposition and comparison-nutrient-cycling-vs-nutrient-dense-gardening in Ecosystems (Dighton)
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -11,11 +11,11 @@ sources: [raw/papers/john-dighton-fungi-in-ecosystem-processes.md]
 
 Updated: 2026-04-18
 
-Source: John Dighton, *Fungi in Ecosystem Processes*, Chapter 2.
+Source: John Dighton, *Fungi in [[fungal-ecosystem-processes-overview]]*, Chapter 2.
 
 ## The Central Role of Fungi in Decomposition
 
-Fungi are the primary decomposers of plant-derived organic matter in terrestrial ecosystems. Their filamentous growth form allows them to penetrate solid substrates, secrete extracellular enzymes at the hyphal tip, and translocate nutrients through mycelial networks. This combination of traits makes fungi uniquely effective at breaking down complex plant polymers including cellulose, lignin, chitin, cutin, and suberin.
+Fungi are the primary decomposers of plant-derived organic matter in terrestrial ecosystems. Their filamentous growth form allows them to penetrate solid substrates, secrete extracellular enzymes at the hyphal tip, and translocate nutrients through [[fungal-mycelial-networks-nutrient-translocation]]. This combination of traits makes fungi uniquely effective at breaking down complex plant polymers including cellulose, lignin, chitin, cutin, and suberin.
 
 ## Plant Litter Input and Decomposition Rates
 
@@ -30,7 +30,7 @@ Plant litter input varies enormously across ecosystem types (Dighton's Table 2.9
 Three primary factors control decomposition rates:
 1. **Climate** — temperature and moisture are the dominant controllers
 2. **Litter quality** — lignin:nitrogen ratio, phenolic content, C:N ratio
-3. **Soil biota composition** — the specific fungal and bacterial community present
+3. **Soil biota composition** — the specific fungal and [[core-endorhiza-bacterial-community-composition-cannabis]] present
 
 Melillo et al. (1982) established that nitrogen and lignin content jointly control hardwood leaf litter decomposition dynamics, with high-lignin litter decomposing more slowly regardless of nitrogen content.
 
@@ -54,7 +54,7 @@ Robinson et al. (1993a,b) showed resource capture by interacting fungal colonize
 ## Aquatic Decomposition
 
 Fungi play important roles in freshwater and marine decomposition:
-- **Streams**: Aquatic hyphomycetes (Ingoldian fungi) are the primary decomposers of submerged leaf litter, with decomposition rates regulated by water chemistry (Suberkropp and Chauvet, 1995)
+- **Streams**: [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]] (Ingoldian fungi) are the primary decomposers of submerged leaf litter, with decomposition rates regulated by water chemistry (Suberkropp and Chauvet, 1995)
 - **Salt marshes**: Fungi contribute significantly to biodegradation of *Spartina* and other marsh vegetation (Meyers, 1974). Mansfield and Barlocher (1993) documented seasonal variation of fungal biomass in salt marsh sediments
 - **Mangroves**: Newell and Fell (1992) measured ergosterol content of living, submerged, and decaying red mangrove leaves and twigs
 - **Marine/terrestrial ecotones**: Newell (1996) described impacts of eukaryotic mycelial decomposers at land-sea interfaces
@@ -72,7 +72,7 @@ In agricultural systems, the decomposition of post-harvest crop residues is crit
 
 ## Anti-Fungal Plant Defenses
 
-Plants produce a range of anti-fungal compounds that slow decomposition of their tissues. Dighton's Table 2.10 catalogs phenolic compounds from plant surfaces that inhibit fungal colonization. These include tannins, flavonoids, and other secondary metabolites that vary among plant species and influence both the rate and pathway of decomposition.
+Plants produce a range of anti-fungal compounds that slow decomposition of their tissues. Dighton's Table 2.10 catalogs phenolic compounds from plant surfaces that inhibit fungal colonization. These include tannins, flavonoids, and other [[antifungal-secondary-metabolites-coprophilous-fungi]] that vary among plant species and influence both the rate and pathway of decomposition.
 
 ## Rock Weathering by Fungi
 
@@ -87,7 +87,7 @@ Landeweert et al. (2001) demonstrated that [[fungal-decomposition]]
 - [[fungal-decomposition-processes]]
 - [[fungal-decomposition-succession-resource-quality]]
 - [[fungal-decomposition-kinetics]]
-- [[fungal-chitin-decomposition-nutrient-cycling]]
-- [[fungal-competition-respiration-decomposition]]
-- [[fungal-biodiversity-in-soil-ecosystems]]
-- [[fungal-communities-succession]]
+- fungal-chitin-decomposition-nutrient-cycling
+- fungal-competition-respiration-decomposition
+- fungal-biodiversity-in-soil-ecosystems
+- fungal-communities-succession

@@ -4,12 +4,13 @@ created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [natural-farming, fruit-tree, orchard, gardening]
-sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka Orchard Method
 
-Fukuoka maintained a productive citrus orchard on his family farm using natural farming principles — no pruning, no fertilizer, no pesticide, and no weeding. His orchard was more productive and disease-resistant than conventional orchards.
+Fukuoka maintained a productive [[fukuoka-citrus-orchard-establishment-bare-hillside]] on his family farm using natural [[natural-farming-principles-fukuoka]] — no pruning, no fertilizer, no pesticide, and no weeding. His orchard was more productive and disease-resistant than conventional orchards.
 
 ## Key Principles
 
@@ -29,7 +30,7 @@ Fukuoka maintained a productive citrus orchard on his family farm using natural 
 
 ### Pest Management
 - No pesticides used
-- Beneficial insects attracted by diverse understory vegetation
+- [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] attracted by diverse understory vegetation
 - Healthy trees in living soil resist pest damage naturally
 - Some fruit loss to pests is accepted as natural
 
@@ -37,14 +38,14 @@ Fukuoka maintained a productive citrus orchard on his family farm using natural 
 - Vegetables and grains grown between and under fruit trees
 - Nitrogen-fixing legumes improve soil for all plants
 - Multi-layer production: tree canopy, understory crops, ground cover
-- Mimics natural forest structure
+- Mimics natural [[mollison-wet-tropical-forest-structure-and-polyculture]]
 
 ## Establishment
 1. Plant fruit tree seedlings (or grafted trees on wild rootstock)
 2. Sow white clover as ground cover
 3. Mulch heavily with straw in first year to suppress weeds and retain moisture
 4. Don't prune — let trees develop natural form
-5. Don't fertilize — let the ground cover and mulch cycle nutrients
+5. Don't fertilize — let the [[natural-ground-cover-and-straw-mulching]] mulch cycle nutrients
 6. Don't spray — let natural balance develop
 
 ## Species for Fukuoka-Style Orchards
@@ -57,7 +58,7 @@ Fukuoka maintained a productive citrus orchard on his family farm using natural 
 
 ## Results
 - Fukuoka's mandarin oranges were considered among the best in the region
-- Soil organic matter increased every year
+- Soil [[hamilton-composting-and-organic-matter-management]] increased every year
 - Labor was minimal — primarily harvesting
 - Trees were long-lived and disease-resistant
 - Multi-layer production from orchard floor to tree canopy
@@ -87,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -5,20 +5,21 @@ updated: 2026-04-15
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka Soil Building Approach
 
-Masanobu Fukuoka's approach to soil building within [[soil-food-web-structure]] to regenerate itself. Over twenty-five years, he transformed hard, depleted red clay into rich, dark, humus-laden soil more than four inches deep.
+Masanobu Fukuoka's approach to soil building within [[soil-food-web-structure]] to regenerate itself. Over twenty-five years, he transformed hard, depleted [[jadam-red-clay-powder-method]] into rich, dark, humus-laden soil more than four inches deep.
 
 ## The Central Principle
 
-"There is no wiser course in farming than the path of wholesome soil improvement." But Fukuoka's path was the opposite of conventional soil improvement. Instead of hauling organic matter from elsewhere and burying it, he let the soil build itself through:
+"There is no wiser course in farming than the path of wholesome soil improvement." But Fukuoka's path was the opposite of conventional soil improvement. Instead of hauling [[hamilton-composting-and-organic-matter-management]] from elsewhere and burying it, he let the soil build itself through:
 
 1. Returning all crop residues (straw, chaff, hulls) to the field surface
-2. Permanent leguminous ground cover ([[desertification-and-vegetation-loss|soil regeneration]]:
+2. Permanent leguminous [[fukuoka-citrus-orchard-ground-cover-cultivation]] ([[desertification-and-vegetation-loss|soil regeneration]]:
 - Cut down the natural forest cover, plant Japanese red pine or cedar, and the soil depletes and erodes within a few generations
-- Take a barren mountain with poor red clay soil, plant pine or cedar with ground cover of clover and alfalfa, and as the green manure enriches and softens the soil, weeds and bushes grow up, and a rich cycle of regeneration begins
+- Take a barren mountain with poor red clay soil, plant pine or cedar with ground cover of clover and alfalfa, and as the [[comparison-green-manure-guide-vs-mulch-types-and-effects]] enriches and softens the soil, weeds and bushes grow up, and a rich cycle of regeneration begins
 - "There are instances in which the top four inches of soil have become enriched in less than ten years"
 
 ## The Self-Building Soil System
@@ -106,4 +107,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

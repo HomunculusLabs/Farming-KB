@@ -1,5 +1,5 @@
 ---
-title: Swale Design and Water Management
+title: comparison-swale-design-vs-contour-swale-irrigation-design and Water Management
 created: 2026-04-28
 tags: [natural-farming, water-management, swales, permaculture, conservation, earthworks]
 date: 2026-04-25
@@ -10,10 +10,10 @@ type: concept
 
 # Swale Design and Water Management
 
-Water management is the single most critical aspect of sustainable land
+[[water-management]] is the single most critical aspect of sustainable land
 design. Swales are shallow ditches dug across the slope of the land that
 capture and channel water into the soil rather than allowing it to run
-off. Combined with dams, diversion drains, and rainwater collection,
+off. Combined with dams, [[mollison-designers-diversion-drains-and-interceptor-banks]], and rainwater collection,
 swales form the backbone of a natural water management system that can
 transform degraded land into productive, water-retentive landscapes.
 
@@ -62,7 +62,7 @@ slope. The soil is loosened up to help water penetrate. The second swale
 is placed 10 to 60 feet away from the first, depending on the amount of
 rainfall you get per year.
 
-In very wet climates, swales can be closer together. In arid regions,
+In very wet climates, swales can be closer together. In [[fukuoka-natural-farming-in-arid-regions]],
 they should be spaced farther apart. The slope of the land also affects
 spacing: steeper slopes need swales closer together.
 

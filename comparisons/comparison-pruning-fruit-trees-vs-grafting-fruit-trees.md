@@ -1,5 +1,5 @@
 ---
-title: "Pruning Fruit Trees vs Grafting Fruit Trees"
+title: "comparison pruning fruit trees vs grafting fruit trees Trees vs holzer-grafting-fruit-forest Trees"
 created: 2026-04-28
 tags: [comparison, fruit-trees, orchard-management, propagation]
 date: 2026-04-25
@@ -15,7 +15,7 @@ type: comparison
 [[grafting-fruit-trees]]
 
 Grafting is a propagation technique that joins two plants into one: a scion (the
-upper portion producing the desired fruit variety) and a rootstock (the lower
+upper portion producing the desired [[old-fruit-variety-selection]]) and a rootstock (the lower
 portion providing the root system). The three main techniques are whip-and-tongue
 (for scion and rootstock of similar diameter), cleft grafting (for grafting onto
 larger branches or established trees), and T-budding (for summer budding using a
@@ -27,7 +27,7 @@ The power of grafting lies in combining the best traits of two different plants.
 Rootstocks provide disease resistance, size control (dwarfing rootstocks produce
 trees 40 to 60 percent of standard size), soil adaptation, and anchorage. Scions
 provide the specific fruit variety — Honeycrisp apple, Santa Rosa plum, or any
-named cultivar. Grafting is the only way to reproduce named fruit varieties
+named cultivar. Grafting is the only way to reproduce named [[holzer-stone-fruit-varieties-and-growing]]
 true-to-type; growing from seed produces unpredictable offspring. Topworking —
 grafting new varieties onto existing trees — allows growers to change varieties
 on established trees without waiting years for a new tree to bear.
@@ -47,7 +47,7 @@ will root and the dwarfing effect is lost.
 | Aspect | Pruning | Grafting |
 |--------|---------|----------|
 | Purpose | Shape, maintain, and improve existing trees | Create new trees or change varieties |
-| Timing | Annual (dormant season for most species) | Late winter/early spring (whip-and-tongue); summer (T-budding) |
+| Timing | Annual (dormant season for most species) | Late winter/[[coleman-overwintered-onions-and-early-spring-crops]] (whip-and-tongue); summer (T-budding) |
 | Skill level | Moderate (learnable in a season) | High (requires practice for consistency) |
 | Plant material needed | Existing tree | Scion wood + rootstock |
 | Reversibility | Branches grow back (regrowth possible) | Graft failure means starting over |

@@ -12,9 +12,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Buchbauer, G. et al. (1993). \"Fragrance compounds as essential oil components.\" Journal of the Society of Cosmetic Chemists, 44, 237–248."
+  - "Buchbauer, G. et al. (1993). \"Fragrance compounds as permaculture-designers-manual-essential-oil-plants components.\" Journal of the Society of Cosmetic Chemists, 44, 237–248."
   - "Jirovetz, L. et al. (1992). \"Analysis of essential oil constituents.\" Wiener Medizinische Wochenschrift, 142(17), 395–400."
-  - "Chen, W. & Viljoen, A.M. (2010). \"Geraniol — a review of a commercially important fragrance material.\" South African Journal of Botany, 76(4), 643–651."
+  - "Chen, W. & Viljoen, A.M. (2010). \"Geraniol — a review of a commercially important fragrance material.\" [[kanna-sceletium-south-african-narcotic]] Journal of Botany, 76(4), 643–651."
   - "Elson, C.E. et al. (1999). \"Isoprenoid-mediated inhibition of mevalonate synthesis.\" Advances in Experimental Medicine and Biology, 469, 157–170."
 ---
 
@@ -22,7 +22,7 @@ sources:
 
 ## Overview
 
-Geraniol is an acyclic monoterpenoid alcohol found in the essential oils of
+Geraniol is an acyclic monoterpenoid alcohol found in the [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] of
 numerous aromatic plants, including rose, geranium, palmarosa, citronella,
 and lemon. It is one of the most commercially important fragrance compounds
 globally, used extensively in perfumery, cosmetics, food flavoring, and
@@ -107,8 +107,8 @@ and dairy products. FEMA GRAS status (Generally Recognized As Safe)
 with typical use levels of 1–50 ppm in food.
 
 **Agriculture:**
-Geraniol has been investigated as a natural pesticide and plant defense
-elicitor. Its antimicrobial properties make it a candidate for
+Geraniol has been investigated as a [[jadam-natural-pesticide-institute-and-research]] and plant defense
+elicitor. Its [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] make it a candidate for
 post-harvest preservation of fruits and vegetables.
 ## Related Compounds
 

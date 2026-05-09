@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mushrooms, fungi, business, economics, homesteading, cultivation, food]
-sources: []
+sources:
+  sources: []
 ---
 
 # Homestead Mushroom Business
@@ -17,19 +18,19 @@ Growing and selling mushrooms on a homestead scale offers high returns on low ca
 - Fastest to fruit (2-4 weeks from inoculation)
 - Multiple varieties: blue, pink, golden, king, phoenix
 - Grow on straw, coffee grounds, cardboard, hardwood sawdust
-- Yield: 50-100% biological efficiency (1 lb mushrooms per lb dry substrate)
+- Yield: 50-100% [[stamets-biological-efficiency-yield]] (1 lb mushrooms per lb dry substrate)
 - Price: $8-12/lb retail
 
 ### Shiitake (Lentinula edodes)
 - Most recognized gourmet mushroom
-- Grow on hardwood logs (oak, maple, beech) or supplemented sawdust blocks
+- Grow on hardwood logs (oak, maple, beech) or [[oyster-mushroom-supplemented-sawdust-blocks]] blocks
 - Log method: 6-12 month incubation, fruit for 3-6 years
 - Block method: 2-3 month incubation, fruit in 6-8 weeks
 - Yield: 25-40% on logs (per year), 75-100% on blocks
 - Price: $10-16/lb retail
 
 ### Lion's Mane (Hericium erinaceus)
-- Growing demand for medicinal and culinary use
+- Growing demand for [[holzer-medicinal-and-culinary-herbs-compendium]] use
 - Grow on supplemented hardwood sawdust
 - Slower than oyster but higher value
 - Yield: 50-75% biological efficiency
@@ -53,7 +54,7 @@ Setup requirements:
 - Light: ambient room light (no grow lights needed for most)
 - Shelving: wire shelves with space between blocks
 
-Substrate preparation:
+[[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]:
 1. Hardwood sawdust + wheat bran (80:20 ratio) + water to 60% moisture
 2. Sterilize in pressure cooker or autoclave (15 psi, 90 min for bags)
 3. Cool to room temperature in clean environment
@@ -109,7 +110,7 @@ Requirements vary by state. Common requirements:
 - Commercial kitchen or dedicated facility for fresh sales (some states)
 - Business license (county/city)
 - Sales tax permit
-- Mushroom identification certification (some states require)
+- [[psilocybin-mushroom-identification-guide]] certification (some states require)
 - Labeling: species, weight, farm name, address, "keep refrigerated"
 
 Check your state's Department of Agriculture for specific requirements. Some states (Pennsylvania, for example) have specific mushroom growing licenses.
@@ -119,7 +120,7 @@ Check your state's Department of Agriculture for specific requirements. Some sta
 ### Low-Tech Indoor (Oyster mushrooms, small scale)
 - Pressure cooker (large): $100-200
 - Grow bags with filter patches: $50-100
-- Substrate materials (sawdust, bran): $50-100
+- [[growing-gourmet-substrate-materials-wood-types]] (sawdust, bran): $50-100
 - Spawn: $50-100
 - Humidifier: $30-80
 - Shelving: $50-100
@@ -142,26 +143,8 @@ Check your state's Department of Agriculture for specific requirements. Some sta
 - Consider outdoor wine cap beds for zero-energy production
 - Seasonal: oysters year-round indoors, shiitake seasonal on logs
 - Target: $1,000-3,000/month at medium scale (50-200 blocks/week)
-
-## Sales Channels
-
-- Farmers markets: see [[farmers-market-selling-guide]]
-- Restaurants: chefs seek local mushrooms, approach directly
-- CSAs: add mushroom share or include in vegetable boxes
-- Online sales: see online homestead sales
-- On-farm sales: pick-your-own mushroom events
-- Food co-ops and natural grocery stores
-
-## Common Problems
-
-- Contamination (green mold, trichoderma): maintain clean procedures, sterilize properly
-- Low yields: check moisture, fresh air exchange, spawn quality
-- Pests: fungus gnats (sticky traps, nematodes), slugs (diatomaceous earth)
-- Storage: refrigerate at 34-38F, store in paper bags (not plastic -- they sweat)
-- Shelf life: 7-10 days refrigerated for most species
-
-The mushroom business fits well into a diversified homestead with [[homestead-herb-business]] products and connects to broader [[fungal-biology-fundamentals|fungi]] and [[fungal-biology-fundamentals|mycology]] knowledge.
-
 ## Related
 
 - [[online-homestead-sales]]
+- [[gourmet-medicinal-mushroom-shiitake-cultivation-logs]]
+- [[query-how-to-grow-shiitake-mushrooms-on-logs]]

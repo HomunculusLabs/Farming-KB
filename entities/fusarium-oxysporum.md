@@ -16,8 +16,8 @@ type: entity
 **Also known as:** Fusarium wilt pathogen
 
 ## Overview
-Fusarium oxysporum is a widespread soil-borne fungal pathogen that causes
-vascular wilt diseases in over 100 plant species. The species is divided
+Fusarium oxysporum is a widespread soil-borne [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] that causes
+[[cervantes-fusarium-vascular-wilt-diseases]] diseases in over 100 plant species. The species is divided
 into numerous formae speciales (f. sp.), each specialized to infect a
 particular host plant. It is one of the most economically damaging plant
 pathogens worldwide, affecting crops from banana to tomato to cotton.
@@ -57,9 +57,9 @@ specificity and include f. sp. cubense (banana), f. sp. lycopersici
 - Over 120 formae speciales have been described
 
 ### Cell Biology
-- Woronin body development shows an early hexagonal form that
+- Woronin [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] shows an early hexagonal form that
   matures into an oval form (Wergin, 1973)
-- Woronin bodies plug septal pores to maintain cellular integrity
+- [[fungal-woronin-bodies-and-septal-pore-organization]] plug septal pores to maintain cellular integrity
   after damage
 - HEX-1 homologs are conserved across Fusarium species
 

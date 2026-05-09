@@ -1,5 +1,5 @@
 ---
-title: Wine Cap Mushroom Cultivation
+title: Wine Cap accessible-mushroom-cultivation-for-disabilities
 created: 2026-04-17
 updated: 2026-04-18
 type: concept
@@ -11,7 +11,7 @@ sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 
 Wine cap mushrooms (Stropharia rugosoannulata), also known as king stropharia, garden giant, or burgundy mushrooms, are among the easiest and most rewarding mushrooms for [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] with Vegetables
 
-Wine caps integrate directly into vegetable garden systems:
+Wine caps integrate directly into [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] systems:
 
 ### Compatible Plantings
 - **Corn**: beds between corn rows benefit from shade and moisture
@@ -21,8 +21,8 @@ Wine caps integrate directly into vegetable garden systems:
 
 ### Benefits and Cautions
 - Wood chip mulch retains moisture for vegetables and mushrooms simultaneously
-- Mycelium improves soil structure, nutrient cycling, and can suppress some soil-borne pathogens
-- Increased biodiversity attracts beneficial insects; chip bed serves double duty as mulch
+- Mycelium improves soil structure, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and can suppress some soil-borne pathogens
+- Increased biodiversity attracts [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]; chip bed serves double duty as mulch
 - Avoid species sensitive to high wood chip mulch; never use treated or painted chips
 
 ## Maintenance and Longevity
@@ -35,7 +35,7 @@ Wine caps integrate directly into vegetable garden systems:
 
 ### Troubleshooting
 - **Green mold (Trichoderma)**: bed too dry or hot; increase moisture
-- **Slugs and snails**: hand-pick or use beer traps
+- **[[query-how-to-get-rid-of-slugs-and-snails-organically]]**: hand-pick or use beer traps
 - **No fruiting**: may need more time, moisture, or a temperature trigger
 - **Small mushrooms**: bed may need thinning or additional substrate
 
@@ -48,7 +48,7 @@ Wine caps integrate directly into vegetable garden systems:
 ## Related
 - [[mushroom-cultivation-bulk-substrates]]
 - [[gaias-garden-cover-crops-soil-building]]
-- [[sterile-technique-mushroom-cultivation]]
+- [[mushroom-cultivation-sterile-technique]]
 ## Practical Considerations
 
 When working with Wine Cap Mushroom Cultivation, several practical factors should be
@@ -65,7 +65,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +107,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

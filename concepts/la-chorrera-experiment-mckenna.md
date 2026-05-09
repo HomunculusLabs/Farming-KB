@@ -1,5 +1,5 @@
 ---
-title: La Chorrera Experiment McKenna
+title: La la chorrera experiment mckenna McKenna
 created: 2026-04-28
 tags: [mckenna, psychedelics, experiment, stropharia]
 date: 2026-04-25
@@ -23,7 +23,7 @@ Banisteriopsis vines -- the ayahuasca -- near Florencia.
 
 The McKennas were deeply immersed in the shamanic traditions of
 the lower Rio Putumayo of Colombia. Terence's encounter with
-Amazonian shamanism convinced him of the salvific importance of
+[[mckenna-food-gods-amazonian-shamanism-ayahuasca]] convinced him of the salvific importance of
 hallucinogenic plants and the shamanic institutions their use
 implies. The brothers' Amazonian experiences formed the
 foundation for what would become a lifetime of advocacy for the
@@ -40,9 +40,9 @@ subjective experience and objective reality could be dissolved
 through the intelligent use of tryptamine compounds.
 
 The McKennas theorized that the tryptamine molecules present in
-Stropharia cubensis mushrooms could interact with human genetic
+[[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] mushrooms could interact with human genetic
 material at a fundamental level. This hypothesis was rooted in
-the observation that tryptamine hallucinogens -- including DMT,
+the observation that [[mckenna-tryptamine-hallucinogens-and-consciousness]] -- including DMT,
 psilocin, and psilocybin -- share structural similarities with
 serotonin, a neurotransmitter that plays critical roles in mood,
 consciousness, and possibly in neurogenesis and gene expression.
@@ -52,7 +52,7 @@ combined with harmine and harmaline (beta-carboline alkaloids
 derived from [[ebb-and-flow]] of novelty (habit-breaking
 change) throughout history. This theory, while controversial and
 ultimately not scientifically validated, represented one of the
-first serious attempts to integrate psychedelic experience with
+first serious attempts to integrate [[leary-psychedelic-experience-bardo-mapping]] with
 mathematical modeling and systems theory.
 
 ## Legacy and Significance
@@ -69,7 +69,7 @@ The experiment directly inspired Terence McKenna's later career as
 one of the most influential advocates for psychedelic culture.
 His concepts of "hyperspace," the "Transcendent Other," and the
 role of psychedelics as tools for accessing what he called the
-"Archaic Revival" all trace their origins to the La Chorrera
+"[[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]" all trace their origins to the La Chorrera
 experience. Dennis McKenna went on to become a respected
 ethnopharmacologist, contributing to the scientific understanding
 of psychedelic compounds.

@@ -16,7 +16,7 @@ type: concept
 
 # Lemonator
 
-Lemonator is a sativa-dominant hybrid cannabis strain bred by the Next
+Lemonator is a sativa-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] bred by the Next
 Generation Seed Company of Canada. As its name suggests, this strain is
 characterized by its pronounced citrus aroma and flavor, delivered through a
 genetic lineage that includes Llimonet Haze crossed with an unidentified indica
@@ -41,9 +41,9 @@ contributes to the overall yield potential.
 
 The Next Generation Seed Company was founded in 1997 in Canada and has built a
 strong reputation as a reliable source of quality genetics and interesting
-hybrid plants. With over two decades in the cannabis seed industry, the company
+hybrid plants. With over two decades in the [[cervantes-cannabis-seed-purchasing-storage]] industry, the company
 has earned respect in their native Canada as well as expanding recognition in
-the United States and Europe. Their breeding focus includes creating strains
+the [[dmt-containing-plants-united-states-halpern]] and Europe. Their breeding focus includes creating strains
 that perform well in northern climates while maintaining the desirable
 qualities of their genetic parentage.
 
@@ -52,7 +52,7 @@ qualities of their genetic parentage.
 Lemonator is a versatile strain suitable for both indoor and outdoor
 cultivation, though it is best suited to European or Canadian climates that do
 not experience extreme summer heat. The plant grows tall, making it a good
-candidate for training techniques. Key cultivation details include:
+candidate for [[cannabis-training-techniques-comparison]]. Key cultivation details include:
 
 - **Flowering time**: 10 weeks from forced flowering
 - **Outdoor harvest**: Very beginning of October
@@ -61,7 +61,7 @@ candidate for training techniques. Key cultivation details include:
 - [[cannabis-sativa]] - Overview of sativa cannabis varieties
 - haze-strains - The Haze family of cannabis strains
 - terpenes - Aromatic compounds including citrus terpenes
-- canadian-cannabis - Cannabis cultivation in Canada
+- canadian-cannabis - [[query-how-does-no-till-cannabis-cultivation-work]] in Canada
 
 ## See Also
 
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

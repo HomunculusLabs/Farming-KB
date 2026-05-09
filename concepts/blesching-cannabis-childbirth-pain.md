@@ -21,7 +21,7 @@ to manage and treat gynecological issues by healers, midwives, herbalists, and
 doctors versed in the art of natural healing. Used by Sumerian physicians and
 later by their Egyptian counterparts, the plant has made its way into many
 cultures to ease difficult childbirth, menstrual difficulties, threatened
-abortion, morning sickness, postpartum bleeding, eclampsia, urinary
+abortion, [[cho-morning-sickness-and-plant-cross-over-period]], postpartum bleeding, eclampsia, urinary
 difficulties, gonorrhea, menopausal symptoms, and decreased libido.
 
 ## Historical Use in Childbirth
@@ -47,7 +47,7 @@ and physicians supports historical records that describe the efficacy of
 cannabis in easing childbirth and childbirth pains. Based on time-proven safety
 records and the discoveries of the body's own natural
 [[blesching-cannabis-pregnancy]] for more on cannabis and pregnancy, and
-[[blesching-endocannabinoid-system-overview]] to modulate
+[[endocannabinoid-system-overview]] to modulate
 pain, reduce anxiety, and promote relaxation may explain part of cannabis's
 historical role in supporting women through childbirth. The plant's potential
 to ease the fear-tension-pain cycle that obstetrician Grantly Dick-Read
@@ -56,9 +56,9 @@ described may be particularly relevant.
 The endocannabinoid system also modulates oxytocin, the hormone central to
 uterine contractions during labor. The interplay between these systems may
 contribute to cannabis's reported ability to both reduce pain and support the
-progress of labor. See [[blesching-endocannabinoid-system-overview]]
+progress of labor. See [[endocannabinoid-system-overview]]
 may eventually lead to clinical studies examining cannabis's role in labor
-pain management.
+[[cannabis-pain-management-protocols]].
 
 ## Related Topics
 
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -18,7 +18,7 @@ Anxiety is one of the most common mental health conditions worldwide, affecting 
 
 Anxiety is a normal reaction to the subjective experience of stress, such as "performance anxiety." It occurs when anticipation of future events is associated with thoughts and feelings not rooted in the present moment. While anxieties are a normal part of life, chronic or constant anxiety can be debilitating to quality of life and produce real physiological changes in both the short and long term.
 
-Western medicine considers anxiety disorders mood disorders and defines five basic types:
+[[fukuoka-eastern-western-medicine-healing-world-crisis]] considers anxiety disorders mood disorders and defines five basic types:
 
 - **Generalized Anxiety Disorder (GAD):** Chronic worry about anticipated events. Symptoms include unreasonable worry, tense and aching muscles, headaches, trembling, and sweating
 - **Obsessive-Compulsive Disorder (OCD):** Characterized by compulsive personal rituals that provide a sense of control over unwanted thoughts or feelings
@@ -26,7 +26,7 @@ Western medicine considers anxiety disorders mood disorders and defines five bas
 - **Post-Traumatic Stress Disorder (PTSD):** Develops after undergoing or witnessing significant trauma; patients re-experience trauma in mind, avoid feelings, and may have anger outbursts
 - **Social Anxiety Disorder:** Anticipation of severely humiliating events; physical symptoms include red face, trembling, sweating, nausea
 
-Doctors often prescribe pharmaceuticals (anti-anxiety drugs, antidepressants) or psychological intervention. Adverse effects of pharmaceutical anti-anxiety medication range from mild to fatal.
+Doctors often prescribe pharmaceuticals (anti-anxiety drugs, antidepressants) or psychological intervention. [[blesching-cannabis-safety-adverse-effects-evidence]] of pharmaceutical anti-anxiety medication range from mild to fatal.
 
 ## Cannabis Research for Anxiety
 
@@ -71,7 +71,7 @@ Cannabis produces a well-documented biphasic dose response for anxiety, meaning 
 Low to moderate doses of THC (typically 2.5-10 mg) tend to produce anxiolytic effects, reducing anxiety and promoting relaxation.
 Higher doses of THC (typically above 15 mg) can paradoxically increase anxiety, producing racing thoughts, paranoia, and panic attacks.
 This inverted-U dose-response curve is one of the most clinically important aspects of cannabinoid therapy for anxiety.
-CBD modifies this relationship: when CBD is co-administered with THC, it raises the threshold at which THC becomes anxiogenic, effectively widening the therapeutic window.
+CBD modifies this relationship: when CBD is co-administered with THC, it raises the threshold at which THC becomes anxiogenic, effectively widening the [[blesching-cannabis-therapeutic-window-dosing]].
 A 1:1 THC:CBD ratio is often recommended for anxiety patients who are sensitive to THC's psychoactive effects.
 This biphasic pattern underscores the importance of starting with low doses and titrating gradually, a principle emphasized throughout the [[cannabis-endocannabinoid-system]] for the molecular biology of endocannabinoid signaling.
 
@@ -80,8 +80,8 @@ This biphasic pattern underscores the importance of starting with low doses and 
 CBD's anxiolytic mechanism extends beyond the endocannabinoid system to include direct activation of serotonin 5-HT1A receptors.
 A 2014 study by Campos et al. demonstrated that CBD's anti-anxiety effects in animal models were blocked by 5-HT1A antagonists, confirming the serotonergic pathway.
 This dual mechanism — CB1/CB2 modulation plus 5-HT1A activation — may explain why CBD is effective for anxiety even in individuals who do not respond to conventional SSRIs.
-CBD also activates TRPV1 (transient receptor potential vanilloid 1) channels, which are involved in pain signaling and stress response.
-The multi-target pharmacology of CBD contrasts with single-mechanism pharmaceuticals and may underlie its broad therapeutic profile for anxiety, as documented in [[cannabis-terpene-profile]] for detailed terpene pharmacology.
+CBD also activates TRPV1 (transient receptor potential vanilloid 1) channels, which are involved in pain signaling and [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]].
+The multi-target pharmacology of CBD contrasts with single-mechanism pharmaceuticals and may underlie its broad therapeutic profile for anxiety, as documented in [[cannabis-terpene-profile]] for detailed [[cannabis-terpene-pharmacology-and-entourage-effect]].
 
 ## Comparison with Pharmaceutical Anxiolytics
 
@@ -98,4 +98,4 @@ The optimal approach for many patients may involve combining cannabis with thera
 
 ## Source
 
-Uwe Blesching, *The Cannabis Health Index*, Anxiety section
+Uwe Blesching, *The [[blesching-cannabis-health-index-autoimmune-conditions]]*, Anxiety section

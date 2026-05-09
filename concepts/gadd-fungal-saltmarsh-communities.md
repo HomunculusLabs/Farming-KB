@@ -1,5 +1,5 @@
 ---
-title: "Fungal Communities in Salt Marsh Ecosystems"
+title: "biodiversity-of-fungi-soil-fungal-communities-agriculture in Salt Marsh Ecosystems"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
@@ -17,11 +17,11 @@ Fungal communities in salt marshes play a critical role in the decomposition of 
 
 ## The Smooth Cordgrass Standing-Decay System
 
-Spartina alterniflora is the dominant macrophyte in Atlantic and Gulf coast salt marshes of North America. Its shoots undergo "standing decay" while still erect in the marsh, providing a unique above-ground decomposition environment dominated by fungal ascomycetes rather than the basidiomycetes that dominate terrestrial wood decomposition.
+Spartina alterniflora is the dominant macrophyte in Atlantic and Gulf coast salt marshes of [[psilocybin-north-america-pacific-northwest]]. Its shoots undergo "standing decay" while still erect in the marsh, providing a unique above-ground decomposition environment dominated by fungal ascomycetes rather than the basidiomycetes that dominate terrestrial wood decomposition.
 
 ### Biomass and Productivity
 
-- Fungal biomass production in smooth-cordgrass marshes exceeds 0.5 kg m-2 yr-1
+- [[bioremediation-fungal-biomass-biosorbent-material]] production in smooth-cordgrass marshes exceeds 0.5 kg m-2 yr-1
 - This is comparable to forest-floor ecosystem production rates
 - Production flows to litter-comminuting invertebrates (gastropods, arthropods) at the base of the marsh food web
 - Cordgrass ascomycetes expel approximately 5.9 billion ascospores m-2 yr-1
@@ -42,7 +42,7 @@ These species occupy more than 90% of decaying blade area at sites with low graz
 - Several undescribed species
 
 ### Community Identification
-DNA-based methods (rDNA/ITS PCR with ascomycete-selective primers) confirmed the same predominant species identified by direct microscopy. T-RFLP analysis revealed the same community composition.
+DNA-based methods (rDNA/ITS PCR with ascomycete-selective primers) confirmed the same predominant species identified by direct microscopy. T-RFLP analysis revealed the same [[core-endorhiza-bacterial-community-composition-cannabis]].
 
 ## Lignocellulose Decomposition
 
@@ -75,12 +75,17 @@ The salt marsh [[fungal-ecology]].
 - Newell, S.Y. & Porter, D. (2000). Microbial secondary production from saltmarsh grass shoots.
 - Newell, S.Y. et al. (1996). Lignocellulolysis by ascomycetes of saltmarsh grass.
 - Lyons, J.I. et al. (2003). Diversity of ascomycete laccase gene sequences in salt marsh.
-- Buchan, A. et al. (2002, 2003). Dynamics of bacterial and fungal communities on decaying salt marsh grass.
+- Buchan, A. et al. (2002, 2003). Dynamics of [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] communities on decaying salt marsh grass.
 - Kohlmeyer, J. & Kohlmeyer, E. (1979). Marine Mycology.
 - Bergbauer, M. & Newell, S.Y. (1992). Contribution to lignocellulose degradation by Phaeosphaeria spartinicola.
-- Eggert, C. et al. (1997). Laccase is essential for lignin degradation by Pycnoporus cinnabarinus.
+- Eggert, C. et al. (1997). Laccase is essential for [[query-how-does-lignin-degradation-by-fungi-work]] by Pycnoporus cinnabarinus.
 
 ## See Also
+
+- [[gadd-saltmarsh-fungal-decomposition]]
+
+- [[gadd-fungal-imaging-techniques]]
+- [[gadd-fungal-sporulation-aerobiology]]
 
 - [[soil-food-web-nutrient-cycling]]
 - [[fungal-biodiversity-forest-ecosystems]]

@@ -1,7 +1,7 @@
 ---
-title: "KNF Potassium Deficiency and Excess"
+title: "KNF knf potassium deficiency and excess and Excess"
 created: 2026-04-28
-tags: [knf, [[natural-farming]], potassium, deficiency, plant-health]
+tags: [knf, natural-farming, potassium, deficiency, plant-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [chos-global-natural-farming.md]
@@ -32,7 +32,7 @@ Potassium performs ten essential functions in plant physiology:
 4. Regulates plant stomata and water use. Potassium content in guard
    cells controls stomatal opening and closing. In light, guard cells
    produce ATP through photosynthesis and absorb potassium using this
-   energy, causing turgor pressure to rise and stomata to open.
+   energy, causing [[bloomfield-turgor-pressure-and-hyphal-invasion]] to rise and stomata to open.
 
 5. Promotes synthesis of CO2-fixing enzyme and decreases diffusive
    resistance of CO2 in leaves.
@@ -94,7 +94,11 @@ Potassium deficiency occurs under several conditions:
 
 Applying too much WS-K can cause secondary problems:
 
-1. Magnesium deficiency occurs if the potassium level is excessive.
+1. [[query-how-to-fix-magnesium-deficiency-in-cannabis]] occurs if the potassium level is excessive.
    High potassium competes with magnesium for uptake, causing the
    plant to suffer from magnesium shortage even when soil magnesium
    levels are adequate. For more on magnesium in cannabis, see [[knf-lab-culturing-and-uses]], see that page.
+## See Also
+- [[natural-farming-fpj-preparation]]
+- [[knf-lab-culturing-and-uses]]
+- [[plant-macronutrient-functions-nitrogen-phosphorus-potassium]]

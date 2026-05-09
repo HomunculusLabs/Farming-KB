@@ -1,5 +1,5 @@
 ---
-title: Ethical Investment And Earth Banking
+title: Ethical ethical investment and earth banking Banking
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-Ethical investment represents "one of the truly new phenomena of this century" -- a reaction to the misuse of money by governments, large aid agencies, and rapacious investors. Bill Mollison's Permaculture Designers Manual (Chapter 14, Section 14.13) provides a comprehensive framework for redirecting capital toward earth care, people care, and fair shares.
+Ethical investment represents "one of the truly new phenomena of this century" -- a reaction to the misuse of money by governments, large aid agencies, and rapacious investors. [[bill-mollison]]'s Permaculture [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] (Chapter 14, Section 14.13) provides a comprehensive framework for redirecting capital toward earth care, people care, and fair shares.
 
 ## The Ethical Investment Movement
 
@@ -83,7 +83,7 @@ Enterprises that:
 - Fuel crop processing
 - Small farm development
 - Large-scale property retrofit
-- Orchard establishment
+- [[fukuoka-citrus-orchard-establishment-bare-hillside]]
 - Research into new energy forms
 
 ### Permanent
@@ -110,7 +110,8 @@ Some credit unions already employ corporate watchdogs whose sole job is to monit
 
 ## Related Topics
 
-- [[permaculture-local-currency-systems]]
-- [[right-livelihood-and-permaculture-business]]
-- [[mollison-property-trusts-ethical-investment]]
+- permaculture-local-currency-systems
+- right-livelihood-and-permaculture-business
+- mollison-property-trusts-ethical-investment
 - [[permaculture-on-farm-alcohol-fuel-production]]
+- [[permaculture-design]]

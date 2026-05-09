@@ -8,7 +8,7 @@ tags: [fungi, basidiomycota, agaricales, cortinariaceae,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources: []
   - "/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
 ---
 # Gymnopilus penetrans
@@ -22,7 +22,7 @@ surveys conducted by Guzmán, Allen, and Gartz. This species is a
 saprotrophic wood-decomposer found growing on decaying stumps,
 logs, and fallen branches of coniferous and occasionally
 broadleaf trees. It is characterized by its orange-to-brown
-coloration, rusty-ginger spore print, and a dry, scaly to
+coloration, rusty-ginger [[comparison-spore-print-collection-vs-spore-syringe-production]], and a dry, scaly to
 fibrillose cap surface. The species name "penetrans" likely
 refers to its habit of deeply penetrating the wood substrate on
 which it grows, reflecting its role as a primary or secondary
@@ -90,7 +90,7 @@ decomposer of woody material.
 | Clamp connections | Present |
 ## Distribution and Habitat
 - **Geographic range:** Widely distributed across temperate
-  Europe and parts of North America; also reported from
+  Europe and parts of [[psilocybin-north-america-pacific-northwest]]; also reported from
   Asia in regions with suitable temperate forests
 - **Substrate:** Saprotrophic, growing on decaying wood of
   coniferous trees (especially Pinus, Picea, Abies) and
@@ -116,7 +116,7 @@ psilocybin-containing members of the genus Gymnopilus:
 - **Baeocystin:** Minor amounts detected in some collections
 - **Norbaeocystin:** Trace quantities reported
 - **Other compounds:** Like other Gymnopilus species, G.
-  penetrans may contain additional bioactive compounds;
+  penetrans may contain additional [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]];
   the genus is chemically diverse beyond its tryptamine
   alkaloids
 - **Note:** Published potency data should be treated as

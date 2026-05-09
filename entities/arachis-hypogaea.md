@@ -65,7 +65,7 @@ Peanuts are a significant dietary source of niacin (vitamin B3), folate, vitamin
 
 Major allergenic proteins include Ara h 1 (vicilin-type), Ara h 2 (conglutin), and Ara h 3 (glycinin), which together account for the majority of peanut allergy cases. Peanut allergy affects 1–2% of the population in Western countries.
 
-Aflatoxin contamination by *Aspergillus flavus* and *A. parasiticus* is a serious food safety concern, particularly in tropical regions with suboptimal drying and storage conditions. Regulatory limits for aflatoxins in peanuts are 4–20 ppb depending on the market.
+Aflatoxin contamination by *Aspergillus flavus* and *A. parasiticus* is a serious food safety concern, particularly in tropical regions with suboptimal [[psilocybin-mushroom-drying-and-storage-methods]] conditions. Regulatory limits for aflatoxins in peanuts are 4–20 ppb depending on the market.
 
 ## Cultivation
 
@@ -75,19 +75,19 @@ The crop cycle is 90–150 days depending on cultivar and growing conditions. Ha
 
 Harvesting involves digging plants from the soil, inverting them for field drying, and subsequently threshing to separate pods from vines. Mechanized harvesting requires careful timing to minimize pod losses.
 
-Nitrogen fixation through symbiosis with *Bradyrhizobium* species can provide 60–80% of the crop's nitrogen requirement, reducing fertilizer inputs. Inoculation with effective bradyrhizobial strains is practiced in many peanut-growing regions. In soils without established bradyrhizobial populations, inoculation can increase pod yield by 15–30%.
+[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] through symbiosis with *Bradyrhizobium* species can provide 60–80% of the crop's nitrogen requirement, reducing fertilizer inputs. Inoculation with effective bradyrhizobial strains is practiced in many peanut-growing regions. In soils without established bradyrhizobial populations, inoculation can increase pod yield by 15–30%.
 
-Major pests include the tobacco thrips (*Frankliniella fusca*), lesser cornstalk borer (*Elasmopalpus lignosellus*), and various species of root-knot nematodes (*Meloidogyne* spp.). Integrated pest management strategies combine resistant cultivars with biological control agents.
+Major pests include the tobacco thrips (*Frankliniella fusca*), lesser cornstalk borer (*Elasmopalpus lignosellus*), and various species of root-knot nematodes (*Meloidogyne* spp.). Integrated pest management strategies combine resistant cultivars with [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents.
 
 Foliar diseases including early leaf spot (*Cercospora arachidicola*) and late leaf spot (*Phaeoisariopsis personata*) are the most yield-limiting factors worldwide. Fungicide application schedules are calibrated to disease pressure and weather conditions.
 
 ## Ecological Role
 
-As a legume, A. hypogaea forms symbiotic relationships with nitrogen-fixing rhizobia, contributing to soil nitrogen cycling. Peanut rotations with cereals can significantly reduce nitrogen fertilizer requirements for subsequent crops.
+As a legume, A. hypogaea forms symbiotic relationships with nitrogen-fixing rhizobia, contributing to soil [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]]. Peanut rotations with cereals can significantly reduce nitrogen fertilizer requirements for subsequent crops.
 
 The extensive root system improves soil structure and reduces erosion on sandy soils. Peanut production is particularly important in conservation agriculture systems in semi-arid tropics.
 
-The crop provides habitat and forage for beneficial insects including pollinators and predatory species. Intercropping peanuts with cereals can enhance overall farmland biodiversity.
+The crop provides habitat and forage for [[coleman-beneficial-insects-and-ecological-pest-control]] including pollinators and predatory species. Intercropping peanuts with cereals can enhance overall farmland biodiversity.
 
 Peanut hay (the dried vines after harvest) is a valuable livestock feed, containing 8–12% protein. This dual-purpose nature makes peanuts especially important for smallholder farming systems.
 
@@ -95,7 +95,7 @@ Peanut hay (the dried vines after harvest) is a valuable livestock feed, contain
 
 Peanut oil is the primary product of global peanut production, used for cooking, frying, and food manufacturing. High-oleic cultivars with extended shelf life have gained significant market share since the 1990s.
 
-Peanut butter, made from roasted and ground kernels, is a staple food in North America and is increasingly popular globally. Roasted peanuts, boiled peanuts, and peanut confections are major snack products.
+Peanut butter, made from roasted and ground kernels, is a staple food in [[psilocybin-north-america-pacific-northwest]] and is increasingly popular globally. Roasted peanuts, boiled peanuts, and peanut confections are major snack products.
 
 Industrial uses include peanut oil as a biofuel feedstock, as a base for paints and varnishes, and in soap manufacturing. The protein fraction is used in animal feed formulations.
 
@@ -107,7 +107,7 @@ Peanut skins, a byproduct of blanching, are rich in polyphenols and are being in
 - [[cicer-arietinum]]
 - [[phaseolus-vulgaris]]
 - [[aflatoxin]]
-- [[resveratrol]]
+- resveratrol
 - [[porphyra-umbilicalis]]
 - [[psophocarpus-tetragonolobus]]
 - [[vigna-unguiculata]]

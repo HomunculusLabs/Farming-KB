@@ -1,5 +1,5 @@
 ---
-title: Rust Fungi Taxonomy Diversity and Distribution
+title: Rust copelandia-panaeoloideae-neurotropic-fungi-taxonomy-distribution Diversity and Distribution
 created: 2026-04-28
 tags:
   - mycology
@@ -38,10 +38,10 @@ although they sometimes may be found simultaneously on the same host.
 
 Some rust species require several seasons and two unrelated species of
 host plants, often in different families or orders, to complete their
-life cycles. A spore stage produced on one host is only capable of
+[[bloomfield-rust-fungus-life-cycles-puccinia-haustoria-spermatia]]. A spore stage produced on one host is only capable of
 infecting the other (alternate) host. Species with reduced life cycles
 (microcyclic rusts) are more common in cool temperate to subarctic
-regions, where a short growing season selects for rusts that can
+regions, where a short [[savory-growing-season-and-non-growing-season-management]] selects for rusts that can
 survive perennially on the telial host.
 
 ## Species Richness
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

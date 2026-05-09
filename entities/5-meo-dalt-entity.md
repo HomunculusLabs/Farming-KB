@@ -26,7 +26,7 @@ sources:
 
 ## Overview
 
-5-MeO-DALT is a synthetic psychedelic tryptamine first synthesized and characterized by Alexander Shulgin and described in *TiHKAL* (Tryptamines I Have Known and Loved). The compound features a 5-methoxy substitution on the indole ring and N,N-diallyl groups on the terminal amine — a substitution pattern that is rare among both natural and synthetic tryptamines. It is known for its relatively short duration, mild to moderate visual effects, and distinctive body load, making it an atypical member of the psychedelic tryptamine family.
+5-MeO-DALT is a synthetic psychedelic tryptamine first synthesized and characterized by Alexander Shulgin and described in *TiHKAL* (Tryptamines I Have Known and Loved). The compound features a 5-methoxy substitution on the indole ring and N,N-diallyl groups on the terminal amine — a substitution pattern that is rare among both natural and synthetic tryptamines. It is known for its relatively [[savory-short-duration-grazing-and-cell-systems]], mild to moderate visual effects, and distinctive body load, making it an atypical member of the psychedelic tryptamine family.
 
 ## Chemical Information
 
@@ -86,7 +86,7 @@ The N,N-diallyl substitution is pharmacologically significant. Compared to N,N-d
 - **Common:** 10–20 mg
 - **Strong:** 20–30 mg
 
-**Note:** Dosage ranges are derived from self-reporting in the research chemical community and have not been established through clinical trials. Individual sensitivity varies considerably.
+**Note:** Dosage ranges are derived from self-reporting in the research chemical community and have not been established through [[mushroom-cancer-clinical-trials-overview]]. Individual sensitivity varies considerably.
 
 ## Effects
 
@@ -94,7 +94,7 @@ The N,N-diallyl substitution is pharmacologically significant. Compared to N,N-d
 The psychedelic effects of 5-MeO-DALT are generally described as:
 
 - **Visuals:** Mild to moderate closed-eye visuals (CEVs) — geometric patterns, color shifts, flowing textures. Open-eye visuals are typically subtle, consisting of color enhancement, mild patterning, and softening of edges. Significantly less visual intensity than DMT, psilocin, or LSD at comparable perceived doses.
-- **Head space:** Light to moderate cognitive alteration. Users frequently describe a "surface-level" psychedelic experience — thoughts are loosened and associative but ego dissolution is uncommon at typical doses. Some users find the headspace surprisingly clear, even analytical.
+- **Head space:** Light to moderate cognitive alteration. Users frequently describe a "surface-level" [[leary-psychedelic-experience-bardo-mapping]] — thoughts are loosened and associative but [[psilocybin-ego-dissolution-mechanisms]] is uncommon at typical doses. Some users find the headspace surprisingly clear, even analytical.
 - **Body sensations:** A distinctive physical component is frequently reported — tingling, buzzing, or vibrating sensations in the extremities, mild to moderate nausea during onset, and a generalized sense of physical energy or restlessness.
 - **Emotional effects:** Can range from euphoria and amusement to mild anxiety. The emotional tone is highly set-and-setting dependent.
 - **Auditory effects:** Mild sound distortion and enhanced music appreciation.
@@ -117,7 +117,7 @@ The psychedelic effects of 5-MeO-DALT are generally described as:
 - Readily available in powdered form from chemical suppliers
 
 ### Current Status
-The compound has been scheduled in several countries including the UK (Class B, 2014), Japan, China, and parts of Australia. In the United States, it exists in a legal gray area — not specifically scheduled under the Controlled Substances Act but potentially prosecutable under the Federal Analog Act if intended for human consumption. It has largely fallen out of favor as newer compounds have appeared and legal pressure has increased.
+The compound has been scheduled in several countries including the UK (Class B, 2014), Japan, China, and parts of Australia. In the [[dmt-containing-plants-united-states-halpern]], it exists in a legal gray area — not specifically scheduled under the Controlled [[controlled-substances-act-and-psychedelic-research]] but potentially prosecutable under the Federal Analog Act if intended for human consumption. It has largely fallen out of favor as newer compounds have appeared and legal pressure has increased.
 
 ## Toxicology and Safety
 

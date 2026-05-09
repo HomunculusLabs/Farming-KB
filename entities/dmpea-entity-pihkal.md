@@ -1,5 +1,5 @@
 ---
-title: "DMPEA -- 3,4-DIMETHOXYPHENETHYLAMINE -- PIHKAL Entry #60"
+title: "DMPEA -- 3,4-DIMETHOXYPHENETHYLAMINE -- 2c-b-pihkal-entry-20 #60"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -40,9 +40,9 @@ PIHKAL entry #60. 3,4-DIMETHOXYPHENETHYLAMINE.
 
 Why all the interest? Why keep pursuing a compound that is so obviously without activity? Or a metabolite that is also without activity? The answer is that these are totally fascinating compounds just because they have no activity! By the way, in this instance, I actually made up most of the quotations. I am not sure that the subjects actually said, "Nothing," but they did report that there were no effects. In my own experiments, my notes record the phrase, "No effects whatsoever."
 
-A little background: one of the transmitter heavyweights in the brain is dopamine. Dopamine is called dopamine because it is an amine that comes from an amino acid that is 3,4-dihydroxyphenylalanine and this, in German, is Di-Oxo-Phenyl-Alanine, or DOPA. The levo-optical (or L-) isomer of DOPA has rather cutely been called the punch-drunk Spanish matador, or El Dopa. But that is not part of the story.
+A little background: one of the transmitter heavyweights in the brain is dopamine. Dopamine is called dopamine because it is an amine that comes from an [[cho-fish-amino-acid-preparation]] that is 3,4-dihydroxyphenylalanine and this, in German, is Di-Oxo-Phenyl-Alanine, or DOPA. The levo-optical (or L-) isomer of DOPA has rather cutely been called the punch-drunk Spanish matador, or El Dopa. But that is not part of the story.
 
-The story is really about the "Pink Spot of Schizophrenia." Many years ago, an observation was made in a biochemical laboratory on the East Coast that stirred up a rolling controversy. It had been found that if the urines of schizophrenic patients (sloppily called "schizophrenic urines") were extracted in such and such a way, and the extracts chromatographed, a pink spot would develop at a particular place on the chromatogram. Well, if this proved to be true with
+The story is really about the "Pink Spot of Schizophrenia." Many years ago, an observation was made in a biochemical laboratory on the [[fukuoka-east-coast-forest-livestock-soil-damage]] that stirred up a rolling controversy. It had been found that if the urines of schizophrenic patients (sloppily called "schizophrenic urines") were extracted in such and such a way, and the extracts chromatographed, a pink spot would develop at a particular place on the chromatogram. Well, if this proved to be true with
 
 urines of a sick population, and were this proved to be different from the urines of a healthy population, it would constitute an objective diagnosis of schizophrenia. A simple chemical test to confirm a pathology that had defied all efforts to achieve consensus amongst the psychiatrists of the world.
 
@@ -64,7 +64,7 @@ By the way, I cannot say I like the chlorpromazine trip. There is no real commun
 
 ## Synthesis
 
-A solution of 33 g 3,4-dimethoxybenzaldehyde in 140 mL acetic acid was treated with 23 mL nitromethane and 12.5 g anhydrous ammonium acetate, and heated on the steam bath for 45 min. To this there was slowly added, with good stirring, 300 mL H2O, and the resulting solids were removed by filtration. The product was finely ground under a small amount of MeOH, filtered again, and air dried to give 13.5 g 3,4-dimethoxy-beta-nitrostyrene with a mp of 142-143 deg C.
+A solution of 33 g 3,4-dimethoxybenzaldehyde in 140 mL acetic acid was treated with 23 mL nitromethane and 12.5 g anhydrous ammonium acetate, and heated on the [[scythian-cannabis-steam-bath-ritual]] for 45 min. To this there was slowly added, with good stirring, 300 mL H2O, and the resulting solids were removed by filtration. The product was finely ground under a small amount of MeOH, filtered again, and air dried to give 13.5 g 3,4-dimethoxy-beta-nitrostyrene with a mp of 142-143 deg C.
 
 To a stirred suspension of 12.0 g LAH in 500 mL anhydrous Et2O that was at a gentle reflux and under an inert atmosphere, there was added 11.45 g 3,4-dimethoxy-beta-nitrostyrene by leaching it from a thimble in
 

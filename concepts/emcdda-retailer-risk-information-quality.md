@@ -1,5 +1,5 @@
 ---
-title: "EMCDDA Retailer Risk Information Quality on Hallucinogenic Mushrooms"
+title: "EMCDDA Retailer Risk Information Quality on emcdda-hallucinogenic-mushrooms-emerging-trend-europe"
 created: 2026-04-28
 tags:
   - emcdda
@@ -26,7 +26,7 @@ rarely addresses negative outcomes or dosage variability.
 
 Smartshops in the Netherlands, the primary retail channel for
 hallucinogenic mushrooms in Europe, typically provide warning labels
-on fresh mushroom products. An example from a pack of Psilocybe
+on fresh [[cotter-mushroom-products-and-value-added-applications]]. An example from a pack of Psilocybe
 cubensis purchased in an Amsterdam smartshop in February 2006 warned
 that persons under 18 should not use the product, as well as those
 who are pregnant, taking medication, or suffering from mental illness.
@@ -66,7 +66,7 @@ was the systematic bias toward positive effects. The vast majority of
 online shops excluded information on possible negative side effects.
 Only a minority of sites explicitly mentioned nausea and sickness,
 which are among the most commonly reported acute effects, with over a
-quarter of recent users in UK clubbing surveys reporting nausea or
+quarter of recent users in UK [[emcdda-hallucinogenic-mushroom-clubbing-surveys-and-prevalence]] reporting nausea or
 vomiting.
 
 This bias is understandable from a commercial perspective, as
@@ -108,7 +108,7 @@ infrastructure surrounding drugs like heroin, cocaine, and ecstasy.
 
 Beyond retailer-provided information, users increasingly access
 dedicated internet websites for more detailed guidance on
-hallucinogenic mushroom effects, dosages, chemistry, and personal
+hallucinogenic [[psychedelic-mushroom-effects-guide]], dosages, chemistry, and personal
 experience reports. Sites such as Erowid, the Shroomery, and
 Mycotopia provide trip reports, dosage calculators, and community
 forums where users share practical advice.
@@ -125,14 +125,14 @@ distinguish reliable from unreliable guidance.
 
 The information gap identified by the EMCDDA has direct implications
 for consumer safety. Users who receive only positive framing from
-retailers are less prepared for adverse effects such as panic attacks,
+retailers are less prepared for [[blesching-cannabis-safety-adverse-effects-evidence]] such as panic attacks,
 which the Mixmag survey found affected nearly a quarter of recent
 users. The absence of dosage standardisation information further
 compounds risks, as potency varies significantly between species,
 growing conditions, and individual specimens.
 
 The combination of commercially biased retailer information, limited
-official prevention materials, and variable internet resources means
+official prevention materials, and variable [[emcdda-internet-resources-magic-mushroom-websites]] means
 that consumers of hallucinogenic mushrooms in Europe faced a
 fragmented and often incomplete information environment during the
 peak of the smartshop trade in the early to mid-2000s.

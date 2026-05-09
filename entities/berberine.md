@@ -26,8 +26,8 @@ sources:
 Berberine is a quaternary ammonium isoquinoline alkaloid found in roots, rhizomes,
 stems, and bark of numerous plant species. Used in Ayurveda and Traditional
 Chinese Medicine for millennia, it is one of the most extensively researched
-plant-derived bioactive compounds, with over 4,000 studies documenting effects on
-metabolic syndrome, cardiovascular disease, gastrointestinal disorders, and
+plant-derived [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]], with over 4,000 studies documenting effects on
+[[cannabis-metabolic-syndrome-research]], cardiovascular disease, gastrointestinal disorders, and
 microbial infections.
 
 ## Chemical Identity
@@ -56,7 +56,7 @@ Produced via the plant isoquinoline alkaloid pathway:
 - Key intermediates: dopamine → (S)-norcoclaurine → (S)-reticuline →
   (S)-scoulerine → berberine
 - Berberine bridge enzyme (BBE) catalyzes the critical oxidative cyclization
-- Accumulated primarily in root bark, rhizomes, and inner bark
+- Accumulated primarily in [[iboga-root-bark-preparation]], rhizomes, and inner bark
 - Synthesis induced by biotic stress and elicitor treatment
 
 ## Natural Sources
@@ -90,7 +90,7 @@ Produced via the plant isoquinoline alkaloid pathway:
 - **Peak plasma:** 1–2 hours post-administration; half-life: 3–5 hours
 - **Distribution:** Widely distributed to liver, kidney, muscle, brain
 - **Excretion:** Primarily fecal; minor urinary excretion
-- **Drug interactions:** ⚠️ Inhibits CYP3A4, CYP2D6, P-glycoprotein;
+- **[[cannabis-drug-interactions-and-contraindications]]:** ⚠️ Inhibits CYP3A4, CYP2D6, P-glycoprotein;
   significant interactions with statins, cyclosporine, macrolides
 
 ## Therapeutic Applications
@@ -112,7 +112,7 @@ Produced via the plant isoquinoline alkaloid pathway:
 
 - Active against *S. aureus* (including MRSA), *E. coli*, *Shigella*,
   *Salmonella*, *V. cholerae*, *H. pylori*
-- Antifungal against *Candida albicans*, *Trichophyton*, *Malassezia*
+- Antifungal against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*, *Trichophyton*, *Malassezia*
 - Antiprotozoal against *Giardia* and *Leishmania* spp.
 - Synergistic with conventional antibiotics, partially reversing resistance
 
@@ -140,6 +140,8 @@ Produced via the plant isoquinoline alkaloid pathway:
 - Annual global production: several hundred metric tons
 
 ## See Also
+
+- [[stephania-tetrandra]]
 
 - [[piperine]]
 - [[glycyrrhiza-glabra]]

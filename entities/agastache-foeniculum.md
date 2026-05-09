@@ -22,7 +22,7 @@ sources:
 
 Agastache foeniculum (anise hyssop) is a perennial herbaceous plant in the
 mint family (Lamiaceae) native to prairies, savannas, and open woodlands of
-central and northern North America. It is widely recognized for its aromatic,
+central and northern [[psilocybin-north-america-pacific-northwest]]. It is widely recognized for its aromatic,
 anise-scented foliage and its exceptional value as a pollinator plant,
 attracting bees, butterflies, and hummingbirds in large numbers.
 
@@ -92,7 +92,7 @@ managed gardens. Individual plants are relatively short-lived (3–5 years)
 but volunteer seedlings maintain colony persistence.
 
 The species is largely pest-free and resistant to deer and rabbit browsing due
-to its aromatic foliage. Powdery mildew and root rot in poorly drained soils
+to its aromatic foliage. [[cervantes-powdery-mildew-prevention-treatment]] and root rot in poorly drained soils
 are the primary disease concerns.
 
 ## Traditional and Modern Uses
@@ -108,7 +108,7 @@ blends. The flowers are edible and used as a garnish.
 
 Traditional Indigenous uses include poultices for burns, decoctions for coughs
 and colds, and infusions for digestive complaints. Pharmacological studies have
-identified several bioactive compounds:
+identified several [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:
 
 - **Methylchavicol (estragole)**: Primary aromatic compound; contributes
   antimicrobial and carminative properties
@@ -122,7 +122,7 @@ identified several bioactive compounds:
 
 Anise hyssop is among the most effective native perennial plants for supporting
 pollinator diversity. Studies consistently rank Agastache species in the top
-five genera for bee visitation frequency in North American pollinator gardens.
+five genera for bee visitation frequency in [[growing-gourmet-north-american-reishi-species]] pollinator gardens.
 
 Key ecological functions:
 
@@ -134,10 +134,10 @@ Key ecological functions:
 - **Seed source**: Goldfinches and other seed-eating birds consume dried
   seed heads through winter
 
-In permaculture design, anise hyssop serves multiple functions: as a dynamic
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], anise hyssop serves multiple functions: as a dynamic
 accumulator in herb spirals, as a border plant in food forests, and as a
 companion plant in vegetable gardens where its aromatic properties may help
-repel certain pest insects. Its drought tolerance and low maintenance
+repel certain pest insects. Its [[dighton-fungal-drought-tolerance-plant-water-relations]] and low maintenance
 requirements make it suitable for xeriscaping and ecological restoration
 projects.
 ## See Also

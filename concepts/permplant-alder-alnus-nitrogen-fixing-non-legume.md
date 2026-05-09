@@ -47,7 +47,7 @@ Specific uses include:
   tissue, bond, envelope, and book papers)
 - Clogs, turnery, chair making, and cart building
 - Carving, bowls, spoons, and wooden heels
-- Charcoal production (used in gunpowder manufacture)
+- [[mollison-designers-charcoal-production-biochar-soil-amendment]] (used in gunpowder manufacture)
 
 Notably, alder wood grows harder in water and becomes remarkably strong
 when permanently submerged, making it ideal for waterside structures,
@@ -67,7 +67,7 @@ coppices well.
 A large tree to 27 metres with a conical shape. Grows rapidly on most
 sites including chalk soils and dry sites. Can reach 15 metres in 20
 years. An excellent choice for |windbreaks
-on difficult sites.
+on [[permaculture-difficult-sites-plant-guide]].
 
 ### Alnus glutinosa (Common Alder / Black Alder)
 Occurs naturally throughout Europe and North Africa. Grows to 27 metres
@@ -93,7 +93,7 @@ coppices well and makes good charcoal.
 The leaves of common alder are eaten by horses, goats, cows, and sheep.
 The ability of wide-spaced alder plantings to increase fodder production
 several fold through nitrogen fixation and shelter makes them valuable
-components of [[broadscale-permaculture-techniques-mollison]] designs.
+components of broadscale-permaculture-techniques-mollison designs.
 
 ## Dye and Medicinal Uses
 

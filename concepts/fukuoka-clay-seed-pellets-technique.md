@@ -1,5 +1,5 @@
 ---
-title: Clay Seed Pellets for Desert Revegetation
+title: Clay clay-seed-pellets-direct-seeding for fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique
 source: Masanobu Fukuoka - Sowing Seeds in the Desert (2012)
 created: 2026-05-08
 tags: [natural-farming, desert-revegetation, seed-pellets, fukuoka, direct-seeding, restoration]
@@ -7,13 +7,13 @@ tags: [natural-farming, desert-revegetation, seed-pellets, fukuoka, direct-seedi
 
 ## Overview
 
-[[desert-revegetation]]. The method involves encasing seeds of many plant species within protective clay balls that can be broadcast by hand or from aircraft over vast areas of degraded land. The pellets protect seeds from predation by birds, rodents, and insects, regulate moisture exposure, and create conditions favorable for germination even in harsh desert environments. Fukuoka revived and refined this ancient technique, demonstrating its effectiveness through projects in Africa, the United States, India, Greece, and the Philippines.
+[[desert-revegetation]]. The method involves encasing seeds of many plant species within protective clay balls that can be broadcast by hand or from aircraft over vast areas of degraded land. The pellets protect seeds from predation by birds, rodents, and insects, regulate moisture exposure, and create conditions favorable for germination even in harsh desert environments. Fukuoka revived and refined this ancient technique, demonstrating its effectiveness through projects in Africa, the [[dmt-containing-plants-united-states-halpern]], India, Greece, and the Philippines.
 
 ## Purpose and Origin
 
-The clay seed pellet was originally conceived for direct seeding of rice, barley, and vegetables in Fukuoka's no-till farming system on his farm in Japan. In that context, the pellets protected seeds scattered onto untilled fields from being eaten by birds and insects before germination. Fukuoka later recognized that the same principle could be applied at a much larger scale for the revegetation of deserts and degraded lands worldwide.
+The clay seed pellet was originally conceived for [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] of rice, barley, and vegetables in Fukuoka's no-till farming system on his farm in Japan. In that context, the pellets protected seeds scattered onto untilled fields from being eaten by birds and insects before germination. Fukuoka later recognized that the same principle could be applied at a much larger scale for the revegetation of deserts and degraded lands worldwide.
 
-Farmers around the world had been encasing seeds in clay pellets for years before Fukuoka's work. He did not claim to have invented the technique but rather revived it and adapted it for broad-scale ecological restoration. As a result of his ad [[heirloom-vegetable-varieties]] le varieties and native plants, propagating them, and sharing them with other farmers and gardeners. This grassroots movement preserves useful plants that would otherwise be lost and provides the genetic diversity that large-scale revegetation requires.
+Farmers [[fungi-around-the-world-species-distribution]] had been encasing seeds in clay pellets for years before Fukuoka's work. He did not claim to have invented the technique but rather revived it and adapted it for broad-scale ecological restoration. As a result of his ad [[heirloom-vegetable-varieties]] le varieties and native plants, propagating them, and sharing them with other farmers and gardeners. This grassroots movement preserves useful plants that would otherwise be lost and provides the genetic diversity that large-scale revegetation requires.
 
 ## See Also
 
@@ -96,4 +96,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

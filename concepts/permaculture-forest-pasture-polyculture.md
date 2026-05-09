@@ -1,5 +1,5 @@
 ---
-title: Permaculture Forest Pasture Polyculture
+title: Permaculture permaculture forest pasture polyculture Polyculture
 created: 2026-04-23
 updated: 2026-04-23
 type: concept
@@ -30,7 +30,7 @@ It is from data on seasonal feed shortfalls that the intelligent agriculturist c
 
 - Carob pods
 
-- Honey locust pods
+- [[permaculture-honey-locust-pod-fodder-system]] pods
 
 - Foliage of Coprosma, pampas, and Chaelocephalum
 
@@ -54,7 +54,7 @@ A gradual 4–10 year changeover to the correct balance of tree crop species wou
 
 - Expensive forest harvesters
 
-- Feed-grain storage and processing
+- Feed-grain [[mushroom-storage-and-processing-methods]]
 
 - Hay-making that is essential in "pasture only" farming
 
@@ -64,11 +64,11 @@ Mollison observes that this was likely the normal habit of cattle and other larg
 
 ## Stress Reduction and Yield Benefits
 
-As a secondary effect of forest-pasture systems, less stress is placed on herds from heat and cold shock, and far less energy is needed by the farmer and flock over the whole year. An estimated 15% of beef yield is lost due to lack of shelter alone.
+As a secondary effect of forest-pasture systems, less stress is placed on herds from heat and [[growing-gourmet-cold-shock-temperature-initiation-fruiting]], and far less energy is needed by the farmer and flock over the whole year. An estimated 15% of beef yield is lost due to lack of shelter alone.
 
 ## St. Barbe-Baker's 22% Tree Planting Principle
 
-St. Barbe-Baker asserts that where 22% of the land is planted to productive trees, yields double on the remaining 78% of the land surface. This means that no yields are lost by farm forestry — the gains depend entirely on design planning.
+St. Barbe-Baker asserts that where 22% of the land is planted to productive trees, yields double on the remaining 78% of the land surface. This means that no yields are lost by [[mollison-farm-forestry-and-woodlot-design]] — the gains depend entirely on design planning.
 
 If such systems were evolved on a broad scale, it is probable that the extremes of drought and flood would also be modified by the forests, and the whole region would benefit from the pasture/forest polyculture.
 
@@ -106,7 +106,7 @@ Such areas permit the development of a rolling permaculture that initially provi
 
 ## Establishment Process
 
-The first narrow or nuclear plantings should contain many species in almost random assembly, fairly thickly planted so that thinnings are available for pole timbers. The process follows these steps:
+The first narrow or nuclear plantings should contain many species in almost [[hemenway-random-assembly-design-technique]], fairly thickly planted so that thinnings are available for pole timbers. The process follows these steps:
 
 1. **Reduce pests** by broadscale control or netted fencing
 

@@ -1,5 +1,5 @@
 ---
-title: atropa belladonna
+title: belladonna-atropa-belladonna-ethnobotany
 created: 2026-04-28
 type: species
 tags:
@@ -24,7 +24,7 @@ sources:
 
 Atropa belladonna, commonly known as Deadly Nightshade, is one of the most
 notorious toxic plants in the European pharmacopoeia and a central figure in
-the history of European witchcraft, folk medicine, and classical toxicology.
+the history of [[harner-european-witchcraft-hallucinogens]], folk medicine, and classical toxicology.
 Native to Europe, North Africa, and parts of Asia, this perennial herbaceous
 plant contains potent tropane alkaloids, principally atropine, hyoscyamine,
 and scopolamine. Its name, derived from Italian for "beautiful lady," recalls
@@ -56,7 +56,7 @@ inches (20 centimeters) in length. They are arranged alternately along the
 stem, with one leaf at each node. The leaf surface is dark green above and
 paler beneath, with a slightly unpleasant odor when crushed.
 
-The flowers are one of the most distinctive features of the plant. They are
+The flowers are one of the most [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] of the plant. They are
 bell-shaped, clearly displaying the characteristic corolla form of the
 Nightshade family. The flowers are typically dull purplish-green or brownish-
 purple in color, approximately 0.75 to 1 inch (2 to 2.5 centimeters) long,
@@ -106,7 +106,7 @@ compounds. The three major alkaloids are:
 
 Atropa belladonna figured prominently as an important ingredient in many of
 the witches' brews of the Middle Ages. Along with Henbane (Hyoscyamus albus
-and H. niger) and Mandrake (Mandragora officinarum), Belladonna constitutes
+and H. niger) and Mandrake ([[mandrake-mandragora-officinarum-in-european-folklore]]), Belladonna constitutes
 one of the three main inebriating plants of European witchcraft. These plants
 were believed to enable witches to fly, transform into animals, and commune
 with spirits and demons.
@@ -131,7 +131,7 @@ recorded uses of atropine in ophthalmology.
 ## Toxicology
 
 Both medicinal and extremely toxic, Atropa belladonna has a narrow
-therapeutic index. Ingestion of even small quantities of the leaves or
+[[cannabis-therapeutic-index-overview]]. Ingestion of even small quantities of the leaves or
 berries can cause serious anticholinergic poisoning, characterized by dry
 mouth, blurred vision, tachycardia, urinary retention, agitation, and
 hallucinations. Severe poisoning can progress to coma, respiratory failure,
@@ -139,6 +139,8 @@ and death.
 
 ## See Also
 
+- [[nerium-oleander]]
+
 - [[datura-metel]] — Asian Datura species with tropane alkaloids
-- [[anadenanthera-colubrina]] — South American [[tabernanthe-iboga]] — African iboga shrub with ibogaine
+- [[anadenanthera-colubrina]] — [[chiric-caspi-brunfelsia-south-american-hallucinogen]] [[tabernanthe-iboga]] — African iboga shrub with ibogaine
 - [[atropine]]

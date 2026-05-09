@@ -41,7 +41,7 @@ Chem 91 is the direct parent of **[[sour-diesel]]**, **[[girl-scout-cookies]]** 
 
 The cut was originally shared within a small circle of East Coast growers before migrating to California in the early 2000s.
 
-Its influence on modern cannabis breeding is difficult to overstate — most contemporary high-THC hybrid lines trace back to Chem 91 or its immediate descendants.
+Its influence on modern [[oner-cannabis-breeding-fundamentals]] is difficult to overstate — most contemporary high-THC hybrid lines trace back to Chem 91 or its immediate descendants.
 
 ## Appearance and Aroma
 
@@ -87,7 +87,7 @@ The high begins with an immediate head rush characterized by euphoria, heightene
 
 This cerebral phase gradually gives way to a heavy body stone that can be profoundly sedative at higher doses.
 
-Users commonly report relief from chronic pain, stress, anxiety, and insomnia.
+Users commonly report relief from [[cannabis-chronic-pain-management]], stress, anxiety, and insomnia.
 
 The effects are long-lasting, typically persisting 2–4 hours depending on dosage and individual tolerance.
 
@@ -99,21 +99,23 @@ Common side effects include dry mouth, dry eyes, and in some cases, anxiety or p
 
 Chem 91 is considered a moderately difficult strain to cultivate, best suited for experienced growers.
 
-It can be grown indoors or outdoors but performs best in a controlled indoor environment with stable temperature and humidity.
+It can be grown indoors or outdoors but performs best in a controlled indoor environment with stable [[greg-green-temperature-and-humidity-control]].
 
 **Flowering time:** 9–10 weeks indoors.
 
 **Yield:** Moderate, typically 300–400 g/m² indoors.
 
-The plants exhibit strong, stretching growth during the vegetative phase and develop dense, resinous colas.
+The plants exhibit strong, stretching growth during the [[green-cannabis-grow-bible-vegetative-phase-management]] and develop dense, resinous colas.
 
 Chem 91 is sensitive to nutrient burn and requires careful feeding schedules with moderate nitrogen during veg and reduced nitrogen during flower.
 
-Pest resistance is moderate; the dense bud structure can be susceptible to botrytis (bud rot) in humid conditions.
+[[cannabis-disease-pest-resistance-breeding-clarke]] is moderate; the dense bud structure can be susceptible to botrytis (bud rot) in humid conditions.
 
-The strain responds well to training techniques including SCROG, LST, and supercropping.
+The strain responds well to [[cannabis-training-techniques-comparison]] including SCROG, LST, and supercropping.
 
 ## See Also
+
+- [[chemdog]]
 
 - [[og-kush]]
 - [[sfv-og]]

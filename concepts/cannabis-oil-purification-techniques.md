@@ -1,11 +1,11 @@
 ---
-title: Cannabis Oil Purification Techniques
+title: Cannabis cannabis oil purification techniques Techniques
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 # Cannabis Oil Purification Techniques
 
@@ -19,7 +19,7 @@ After extracting cannabis oil through [[neem-oil-cannabis]], the oil contains re
 
 ## Chromatographic Purification (Laboratory Scale)
 
-For producing pharmaceutical-grade cannabinoids, Cannabis Alchemy references column chromatography:
+For producing pharmaceutical-grade cannabinoids, [[lemon-cannabis-alchemy-advanced-refinement-techniques]] references column chromatography:
 
 - Crude CBD is chromatographed on Florisil adsorbent
 - Elution with 30% chloroform in hexane separates CBD from impurities
@@ -108,4 +108,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

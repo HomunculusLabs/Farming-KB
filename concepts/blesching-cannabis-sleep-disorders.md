@@ -1,8 +1,8 @@
 ---
-title: Cannabis for Sleep Disorders and Insomnia
+title: Cannabis for cannabis-sleep-disorders-and-insomnia and Insomnia
 created: 2026-04-26
 updated: 2026-04-24
-sources: "Uwe Blesching, The Cannabis Health Index (CHI)"
+sources: "uwe-blesching, The blesching-cannabis-health-index-autoimmune-conditions (CHI)"
 wikilinks: "blesching-endocannabinoid-system-overview blesching-cannabinoid-pharmacology blesching-cannabis-ptsd-anxiety cannabis-chronic-pain-management"
 type: concept
 tags: [cannabis]
@@ -28,7 +28,7 @@ Insomnia may produce symptoms of:
 - Hormone disruption
 
 Each of these carries its own set of possible complications, including
-hypertension or heart disease.
+hypertension or [[blesching-cannabis-heart-disease]].
 
 If insomnia follows acute pain, jet lag, or a new work schedule, it is
 usually self-correcting with time. Insomnia due to other causes is more
@@ -54,7 +54,7 @@ chronic insomnia, which usually returns once the medication is stopped.
 
 Like cannabis, the majority of common pharmacological treatments for insomnia
 affect both body and mind. Most studies on the effects of cannabis and sleep
-took place in the 1970s and 1980s. These early studies revealed that cannabis
+took place in the 1970s and 1980s. These [[hofmann-lsd-clinical-research-early-studies]] revealed that cannabis
 had a varied impact on sleep. The plant seemed to act like a sedative in some
 ways but also reduced deep sleep.
 
@@ -89,18 +89,18 @@ shown that the use of indica and indica-dominant strains with their particular
 mix of cannabinoid ratios, namely a relatively lower THC:CBD combination,
 encourages sedation, relaxation, and grounding effects.
 
-Indicas or indica-heavy hybrids contain a lower THC:CBD ratio favoring CB2
+Indicas or indica-heavy hybrids contain a lower THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]] favoring CB2
 expression when compared to sativas or sativa-heavy strains. This may
 contribute to their more pronounced sedative effects.
 
 ## Sleep Disturbances in Other Conditions
 
 Insomnia and sleep disturbances are commonly reported comorbidities across
-many of the conditions covered in the Cannabis Health Index:
+many of the conditions covered in the [[blesching-cannabis-health-index-autoimmune-conditions]]:
 
 ### Cancer Patients
 
-Night sweats and pain frequently disrupt sleep. Nabilone (a synthetic THC
+[[blesching-cannabis-cancer-night-sweats]] and pain frequently disrupt sleep. Nabilone (a synthetic THC
 analog) has been shown to effectively treat night sweats and improve quality
 of life in cancer patients. The cannabinoid positively affected pains,
 anorexia, and nausea in addition to its sleep benefits.

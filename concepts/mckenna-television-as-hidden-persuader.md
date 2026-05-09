@@ -19,7 +19,7 @@ postwar era introduced an all-pervasive, ultra-powerful society-shaping drug. Th
 drug was the first of a growing group of high-technology drugs that deliver the user
 into an alternative reality by acting directly on the user's sensorium, without
 chemicals being introduced into the [[sacramental-ayahuasca-legal-battles-united-states]] esm than
-this? In the United States, there are many more televisions than households, the
+this? In the [[dmt-containing-plants-united-states-halpern]], there are many more televisions than households, the
 average television set is on six hours a day, and the average person watches more
 than five hours a day, nearly one-third their waking time.
 
@@ -39,8 +39,8 @@ and technologies, television's basic character cannot be changed; television is 
 more reformable than is the technology that produces automatic assault rifles.
 
 ## [[mckenna-dominator-culture-and-suppression-of-ecstasy]] m that relied on mass media for social control. The suppression of
-psychedelic research was not merely a public health measure but a defense of the
-dominator culture's primary technology of social control. The replacement of the
+[[mckenna-suppression-psychedelic-research-lsd-therapy]] was not merely a public health measure but a defense of the
+[[mckenna-dominator-culture-and-suppression-of-ecstasy]]'s primary technology of social control. The replacement of the
 psychedelic movement with a cocaine-fueled yuppie consumer culture represented the
 successful reassertion of television's dominion over the American mind.
 
@@ -51,7 +51,7 @@ provides escape from reality, creates dependency, distorts perception, and serve
 interests of those who control its distribution. The critical difference is that
 television's addiction is socially sanctioned, commercially supported, and
 politically useful. While society wages war on chemical intoxicants, it subsidizes
-and celebrates the most pervasive and powerful drug of all. The war on drugs, viewed
+and celebrates the most pervasive and powerful drug of all. The [[cervantes-war-on-drugs-statistics]], viewed
 through this lens, appears not as a public health campaign but as a competition
 between rival methods of mass intoxication, with the state's preferred drug,
 television, enjoying a monopoly position.
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

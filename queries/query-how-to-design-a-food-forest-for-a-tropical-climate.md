@@ -12,7 +12,9 @@ tags:
   - tropical-fruits
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 type: query
 ---
 
@@ -30,11 +32,11 @@ Tropical climates are generally defined by consistent warmth (mean annual temper
 
 - **Wet tropics (rainforest climate):** Year-round rainfall with no true dry season. Annual rainfall exceeds 2,000 mm. These regions support the highest biodiversity and most complex food forests. Key challenge: excessive rainfall can cause waterlogging and nutrient leaching. Design response: mound beds, chinampas, and deep-rooted canopy trees to manage water; biochar and mulch to retain nutrients.
 - **Seasonal tropics (monsoon/savanna climate):** Distinct wet and dry seasons. Wet season brings heavy rains; dry season may bring 3–6 months of little to no rainfall. Key challenge: drought stress during the dry season. Design response: water harvesting (swales, ponds), drought-tolerant species, and deep mulching to conserve soil moisture.
-- **Tropical highlands:** Elevation above 1,000 m creates cooler conditions with occasional frost. Temperature determines the species palette more than anything else. Key challenge: cooler nights limit tropical species; frost risk. Design response: choose species appropriate to the local thermal zone; use thermal mass and windbreaks for frost protection.
+- **Tropical highlands:** Elevation above 1,000 m creates cooler conditions with occasional frost. Temperature determines the species palette more than anything else. Key challenge: cooler nights limit tropical species; frost risk. Design response: choose species appropriate to the local thermal zone; use thermal mass and windbreaks for [[holzer-frost-protection-techniques]].
 
 ### How do I choose the right species for my tropical food forest?
 
-Species selection should be guided by four factors: **climate zone** (rainfall pattern, temperature, elevation), **soil conditions** (drainage, pH, fertility), **market or personal preferences** (what you want to eat or sell), and **ecological function** (what role the plant plays in the system). Below is a starter species list organized by canopy layer:
+Species selection should be guided by four factors: **[[holzer-climate-zone-microclimate-creation]]** (rainfall pattern, temperature, elevation), **soil conditions** (drainage, pH, fertility), **market or personal preferences** (what you want to eat or sell), and **ecological function** (what role the plant plays in the system). Below is a starter species list organized by canopy layer:
 
 **Emergent / Overstory Canopy (>20 m):**
 - Breadfruit (*Artocarpus altilis*)
@@ -66,7 +68,7 @@ Species selection should be guided by four factors: **climate zone** (rainfall p
 - Ginger (*Zingiber officinale*)
 - Turmeric (*Curcuma longa*)
 - Katuk (*Sauropus androgynus*)
-- Moringa (*Moringa oleifera*)
+- Moringa (*[[comparison-moringa-oleifera-vs-moringa-stenopetala]]*)
 
 **Groundcover / Climber Layer:**
 - Squash and pumpkins (*Cucurbita* spp.)
@@ -101,9 +103,9 @@ Establishment typically follows this sequence:
 
 1. **Site preparation (Month 0):** Clear existing vegetation (chop and drop preferred over burning), install swales or contour earthworks, and sheet mulch the entire area with cardboard or newspaper topped with 15–30 cm of organic mulch.
 
-2. **Groundcover and nitrogen fixers (Month 1–3):** Broadcast a mix of fast-growing leguminous groundcovers (pigeon pea, peanut, clover) and nitrogen-fixing trees (Gliricidia, Leucaena, Inga, Flemingia). These will suppress weeds, fix nitrogen, and begin building soil.
+2. **Groundcover and nitrogen fixers (Month 1–3):** Broadcast a mix of fast-growing leguminous groundcovers (pigeon pea, peanut, clover) and nitrogen-fixing trees (Gliricidia, Leucaena, Inga, Flemingia). These will suppress weeds, [[query-how-to-fix-nitrogen-toxicity-in-cannabis]], and begin building soil.
 
-3. **Sub-canopy and fruit trees (Month 3–12):** Plant fruit trees, banana circles, and perennial vegetables into openings in the groundcover. Mulch heavily around each planting. Protect young trees from wind and grazing animals.
+3. **Sub-canopy and fruit trees (Month 3–12):** Plant fruit trees, banana circles, and [[comparison-perennial-vegetables-vs-cover-crops]] into openings in the groundcover. Mulch heavily around each planting. Protect young trees from wind and grazing animals.
 
 4. **Herbaceous and root crops (Month 6–18):** Fill gaps between trees with cassava, sweet potato, taro, and herbs. These provide food and income while the tree crops mature.
 
@@ -113,8 +115,8 @@ Establishment typically follows this sequence:
 
 ### How do I manage pests and diseases in a tropical food forest?
 
-Tropical food forests have a significant advantage over monocultures when it comes to pest management: biodiversity creates [[query-how-to-design-a-food-forest-guild-for-fruit-trees]]
+Tropical food forests have a significant advantage over monocultures when it comes to [[cannabis-pest-management-guide]]: biodiversity creates [[query-how-to-design-a-food-forest-guild-for-fruit-trees]]
 - [[query-how-can-i-design-a-climate-resilient-food-forest]]
 
-- [[mollison-tropical-and-coastal-permaculture-design]]
+- mollison-tropical-and-coastal-permaculture-design
 - [[permaculture-designers-manual-cold-climate-design]]

@@ -1,5 +1,5 @@
 ---
-title: NMR Characterization of Psilocin and Psilocybin
+title: NMR Characterization of [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]]
 created: 2026-04-28
 tags:
   - nmr

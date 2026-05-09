@@ -1,17 +1,18 @@
 ---
-title: "How Do I Prevent and Treat Damping Off in Cannabis Seedlings?"
+title: "How Do I query-how-do-i-identify-prevent-and-treat-fusarium-wilt cervantes-damping-off-seedling-disease-prevention in query-what-causes-cannabis-seedlings-to-die-and-how-to-save-them?"
 created: 2026-04-28
 tags: [query, cannabis, seedlings, diseases, troubleshooting]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
 # How Do I Prevent and Treat Damping Off in Cannabis Seedlings?
 
 ## Short Answer
-Damping off is a soil-borne fungal disease that attacks cannabis seedlings
+Damping off is a soil-borne [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] that attacks cannabis seedlings
 at the soil line, causing stems to pinch and collapse, usually killing the
 plant within hours. It is caused by pathogens like pythium-ultimum|Pythium,
 fusarium-oxysporum|Fusarium, and Rhizoctonia that thrive in overly
@@ -35,7 +36,7 @@ tiny seedlings that can be easily displaced. Good drainage is essential;
 containers must have adequate holes and the medium should not be so fine
 that it becomes compacted and water-retentive. Adding perlite-cannabis|perlite
 or vermiculite-cannabis|vermiculite improves aeration and drainage
-in seed starting mixes. Some growers cover seedling trays with a humidity
+in [[comparison-cannabis-cloning-vs-seed-starting-indoors]] mixes. Some growers cover seedling trays with a humidity
 dome to maintain surface moisture, but these must be removed or vented
 regularly to prevent the stagnant, humid conditions that favor damping
 off pathogens.
@@ -67,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

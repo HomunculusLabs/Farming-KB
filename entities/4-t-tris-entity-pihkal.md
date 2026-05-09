@@ -1,5 +1,5 @@
 ---
-title: "4-T-TRIS (4-THIOTRESCALINE; 4-THIOTRISESCALINE;) -- PIHKAL Entry #179"
+title: "4-T-TRIS (4-THIOTRESCALINE; 4-THIOTRISESCALINE;) -- 2c-b-pihkal-entry-20 #179"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -65,7 +65,7 @@ provided 18.5 g of white crystals with a mp of 26-27 deg C. Anal.
 To a stirred solution of 17.3 g of 1,3-diethoxy-2-ethylthiobenzene in
 175 mL CH2Cl2 there was added 11.8 g elemental bromine dissolved in
 100 mL CH2Cl2. There was an immediate loss of color, and the obvious
-evolution of HBr gas. After stirring at ambient temperature for 1 h,
+evolution of HBr gas. After stirring at [[jadam-ambient-temperature-principle]] for 1 h,
 the dark solution was added to 150 mL H2O containing 1 g of sodium
 dithionite. Shaking immediately discharged the residual bromine
 color, and the organic phase was separated, The aqueous phase was
@@ -86,7 +86,7 @@ ice/MeOH bath, there was added 125 mL of a 1.6 M solution of
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

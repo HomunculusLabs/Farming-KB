@@ -1,5 +1,5 @@
 ---
-title: Holzer Pond Shape - Deep and Shallow Zones, Fridge Effect, and Wind
+title: sepp-holzer-pond-construction Shape - Deep and Shallow Zones, Fridge Effect, and Wind
 created: 2026-04-26
 tags: [pond-construction, aquaculture, microclimate, water-management, holzer]
 date: 2026-04-25
@@ -28,7 +28,7 @@ refrigerator. The principle is simple but profound:
 - The interplay between warm shallow water and cool deep water creates
   temperature variety that supports diverse aquatic life.
 - The cool deep zones prevent the entire pond from overheating in summer and
-  provide frost protection in winter.
+  provide [[holzer-frost-protection-techniques]] in winter.
 
 ## Alignment to Existing Winds
 
@@ -74,8 +74,8 @@ amphibians, and waterfowl each find their preferred niche.
 ## Surrounding Landscape
 
 The area surrounding the pond should be planted with a diverse mix of trees,
-shrubs, and ground cover. Trees provide shade that moderates water
-temperature. Their roots help stabilise banks. Leaf fall adds organic matter
+shrubs, and [[fukuoka-citrus-orchard-ground-cover-cultivation]]. Trees provide shade that moderates water
+temperature. Their roots help stabilise banks. Leaf fall adds [[hamilton-composting-and-organic-matter-management]]
 to the water. The pond becomes the centrepiece of a [[holzer-permaculture-landscape-design]].
 
 ## Related Topics

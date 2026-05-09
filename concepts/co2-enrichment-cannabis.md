@@ -1,5 +1,5 @@
 ---
-title: CO2 Enrichment Cannabis
+title: CO2 [[core-endorhiza-microbiome-proteobacteria-enrichment-cannabis]]
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -10,7 +10,7 @@ tags: [cannabis]
 
 # CO2 Enrichment Cannabis
 
-Carbon dioxide (CO2) enrichment is the practice of elevating CO2 levels in an enclosed
+[[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] (CO2) enrichment is the practice of elevating CO2 levels in an enclosed
 grow environment to accelerate plant growth. Cannabis can use more CO2 than the 300-400
 ppm naturally present in ambient air. By increasing CO2 to 1200-1500 ppm, plants can grow
 up to 30 percent faster, provided that light, water, and nutrients are not limiting.
@@ -33,7 +33,7 @@ early if CO2 enrichment is used.
 CO2-enriched plants benefit from higher temperatures -- 75 to 80 degrees F (24-26
 degrees C) stimulates more rapid metabolism. However, when temperatures exceed 85 degrees F
 (29 degrees C), CO2 enrichment becomes ineffective. At 90 degrees F (32 degrees C),
-growth stops entirely. Temperature control is critical when using CO2. When CO2 is
+growth stops entirely. [[hamilton-greenhouse-heating-and-temperature-control]] is critical when using CO2. When CO2 is
 enriched to 0.12-0.15 percent, a temperature of 85 degrees F is possible without harming
 plants.
 
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

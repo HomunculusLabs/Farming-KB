@@ -1,5 +1,5 @@
 ---
-title: "Dioscorea Population Effects and Plant Impact on Reproduction"
+title: "mckenna dioscorea population reproduction effects Effects and Plant Impact on Reproduction"
 created: 2026-04-28
 tags: [botany, reproduction, evolution, population-genetics, dioscorea, mckenna]
 date: 2026-04-28
@@ -23,7 +23,7 @@ These effects mean that a group's choice of food plants can function as an uncon
 
 The mutagenic dimension of plant chemistry adds another layer to the evolutionary story.
 
-Many plant secondary metabolites are reactive molecules capable of interacting with DNA.
+Many plant [[antifungal-secondary-metabolites-coprophilous-fungi]] are reactive molecules capable of interacting with DNA.
 
 Molds and fungi growing on cereal grains and other foods are among the most powerful natural mutagens.
 
@@ -113,4 +113,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

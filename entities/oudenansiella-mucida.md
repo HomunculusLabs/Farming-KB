@@ -35,7 +35,7 @@ sources:
 *Oudemansiella mucida* is primarily a European species with a somewhat restricted distribution:
 
 - **Europe:** Widespread and locally common throughout the continent, from the British Isles to eastern Europe and from Scandinavia to the Mediterranean. It is particularly abundant in beech-dominated forests of Central Europe (Germany, Austria, Czech Republic, Slovakia, Poland).
-- **North America:** Rarely reported, with some collections from eastern Canada; these may represent a distinct but closely related species.
+- **[[psilocybin-north-america-pacific-northwest]]:** Rarely reported, with some collections from eastern Canada; these may represent a distinct but closely related species.
 - **Asia:** Reported from Japan and China, though Asian material may represent different taxa within the genus complex.
 
 The species is **strongly associated with beech** (*Fagus sylvatica* in Europe). It is almost always found growing on:
@@ -51,9 +51,9 @@ Fruiting occurs from late summer through late autumn (August–November), with p
 *Oudemansiella mucida* occupies an interesting ecological niche as both a **saprotroph** and a **weak parasite**:
 
 1. **Parasitic phase:** The fungus colonizes the bark of living beech branches, penetrating the periderm and establishing in the cambial region. This colonization can cause local dieback of smaller branches.
-2. **Saprotrophic phase:** After the branch or section of bark dies, the fungus continues to decompose the dead wood, contributing to nutrient cycling.
+2. **Saprotrophic phase:** After the branch or section of bark dies, the fungus continues to decompose the dead wood, contributing to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
-The species is a **white-rot decomposer**, producing lignin-degrading enzymes (primarily laccases and manganese peroxidases) that break down the structural polymers of wood. This decomposition process releases nutrients locked in woody tissue back into the forest ecosystem.
+The species is a **white-rot decomposer**, producing lignin-degrading enzymes (primarily laccases and manganese peroxidases) that break down the structural polymers of wood. This decomposition process releases nutrients locked in woody tissue back into the [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]].
 
 Fruiting typically occurs after periods of cool, wet weather and can be triggered by sudden drops in temperature. The fungus often fruits in large, spectacular clusters that can cover entire sections of dead beech branches.
 
@@ -73,7 +73,7 @@ Fruiting typically occurs after periods of cool, wet weather and can be triggere
 
 ## Bioactive Compounds
 
-*Oudemansiella mucida* has attracted attention from pharmaceutical researchers due to its production of bioactive secondary metabolites:
+*Oudemansiella mucida* has attracted attention from pharmaceutical researchers due to its production of bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]]:
 
 - **Mucidin (Strobilurin A):** A potent antifungal compound first isolated from *O. mucida* in the 1970s. Mucidin inhibits mitochondrial respiration in competing fungi by blocking electron transport at the cytochrome bc1 complex (Complex III). This discovery led to the development of the strobilurin class of agricultural fungicides, now among the most widely used fungicides worldwide.
 - **Oudemansin A:** Another antifungal metabolite with a similar mechanism of action, contributing to the species' competitive advantage on wood substrates.
@@ -85,9 +85,9 @@ The discovery of mucidin from this species represents one of the most significan
 
 *Oudemansiella mucida* is not considered threatened on a European scale, as beech forests remain extensive. However, it is sensitive to:
 
-- Forest management practices that remove dead wood and standing dead branches
+- [[mollison-pdc-forest-management-products]] practices that remove dead wood and standing dead branches
 - Air pollution and acid deposition affecting beech forest health
-- Climate change altering the distribution and health of beech forests
+- [[dighton-fungi-climate-change-feedback]] altering the distribution and health of beech forests
 
 In regions where beech forests are declining, *O. mucida* populations are correspondingly reduced.
 

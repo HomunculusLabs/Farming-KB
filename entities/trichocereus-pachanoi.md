@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/gottlieb-a-peyote-and-other-psychoactive-
 
 # Trichocereus pachanoi
 
-**San Pedro** is a fast-growing, columnar cactus native to the Andean mountains of South America. It is one of the most widely cultivated [[trichocereus-bridgesii]] and T. peruvianus.
+**[[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]]** is a fast-growing, columnar cactus native to the Andean mountains of South America. It is one of the most widely cultivated [[trichocereus-bridgesii]] and T. peruvianus.
 
 Natural hybrids are common in areas where species ranges overlap, particularly in southern Peru and northern Bolivia, further complicating taxonomic classification.
 
@@ -26,7 +26,7 @@ The alkaloid profile of San Pedro is generally simpler than that of peyote, whic
 
 The use of San Pedro in Andean healing ceremonies (known as huachuma or Wachuma) dates back at least 3,000 years. Archaeological evidence from the Chavín de Huántar culture (circa 900 BCE) includes stone carvings depicting the cactus and ceramic representations of the plant.
 
-The Chavín de Huántar archaeological site contains the famous Staff God carving, which depicts a figure holding a San Pedro cactus in each hand. This image, dating to approximately 900 BCE, is among the earliest known artistic representations of a psychoactive plant in the Americas.
+The Chavín de Huántar archaeological site contains the famous Staff God carving, which depicts a figure holding a San [[san-pedro-cactus-history]] in each hand. This image, dating to approximately 900 BCE, is among the earliest known artistic representations of a psychoactive plant in the Americas.
 
 It strongly suggests that San Pedro was central to Chavín religious practice. The Chavín culture is considered the origin point of the San Pedro ceremonial tradition, and its influence spread throughout the Andean region.
 
@@ -38,7 +38,7 @@ San Pedro remains actively used in Peru, Ecuador, and Bolivia, and has gained si
 
 ## Preparation Methods
 
-Traditional preparation of San Pedro for ceremonial use involves slicing the fresh cactus into thin sections, boiling them in water for several hours, and reducing the liquid to a thick, bitter-tasting drink. The preparation is often flavored with herbs or citrus to improve palatability.
+[[kava-traditional-preparation-ceremonial-context]] of San Pedro for ceremonial use involves slicing the fresh cactus into thin sections, boiling them in water for several hours, and reducing the liquid to a thick, bitter-tasting drink. The preparation is often flavored with herbs or citrus to improve palatability.
 
 Modern extraction techniques allow for the isolation of crude alkaloid extracts from San Pedro. Common methods include acid-base extraction using food-safe reagents. These concentrates significantly reduce the volume of material that must be consumed while preserving the full spectrum of active alkaloids.
 
@@ -46,7 +46,7 @@ The traditional boil method, while less convenient, preserves what many practiti
 
 ## Legal Status
 
-San Pedro is uncontrolled in most countries, including the United States, where it is primarily sold and grown as an ornamental plant. However, the extraction or preparation of [[entheogen-trichocereus-genus-mescaline-cacti]]
+San Pedro is uncontrolled in most countries, including the [[dmt-containing-plants-united-states-halpern]], where it is primarily sold and grown as an ornamental plant. However, the extraction or preparation of [[entheogen-trichocereus-genus-mescaline-cacti]]
 - [[trichocereus-bridgesii]]
 
 - [[trichocereus-bridgesii]]
@@ -69,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

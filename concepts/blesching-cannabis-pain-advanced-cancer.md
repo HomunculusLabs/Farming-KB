@@ -19,10 +19,10 @@ type: concept
 ## Overview
 
 Pain due to advanced cancer represents one of the most challenging clinical
-scenarios in pain management. As cancer progresses, pain often intensifies and
+scenarios in [[cannabis-pain-management-protocols]]. As cancer progresses, pain often intensifies and
 may become unresponsive to conventional analgesic approaches. The Cannabis
 Health Index assigns this condition a high evidence rating based on 2 studies
-reviewed with a total CHI value of 10, yielding a CHI score of 5.00.
+reviewed with a total CHI value of 10, yielding a [[blesching-cannabis-chi-score-methodology]] of 5.00.
 
 See also: [[cannabis-chronic-pain-management]],
 [[blesching-cannabis-neuropathic-pain]],
@@ -80,7 +80,7 @@ constipation, and the risk of dependence.
 ### The THC:CBD Synergy
 
 The use of a THC:CBD combination (rather than isolated THC) appears to be
-important. The entourage effect -- where multiple cannabinoids work together
+important. The [[cannabis-terpene-entourage-effect-profiles]] -- where multiple cannabinoids work together
 synergistically -- may explain why whole-plant or broad-spectrum cannabis
 preparations show superior pain relief compared to isolated compounds.
 
@@ -117,15 +117,15 @@ multiple pathways:
 
 Research has demonstrated the importance of dose dependency in cannabinoid
 pain reduction. Too little can be sub-optimal while too much can actually
-increase pain sensitivity. It is advisable to start at a low dose and work
-up slowly to determine the most effective therapeutic window.
+increase pain sensitivity. It is advisable to start at a [[ultra-low-dose-brassinosteroid-response-psilocybe-cubensis]] and work
+up slowly to determine the most effective [[blesching-cannabis-therapeutic-window-dosing]].
 
 ### Combination Therapy
 
 Cannabinoids cannot replace opiates' strong analgesic properties, especially
 in cases of new trauma or injuries. However, in conjunction with a reduced
 amount of opiates, cannabinoids can produce a synergy of effective pain
-control while reducing the risk of adverse effects and habit-forming
+control while reducing the risk of [[blesching-cannabis-safety-adverse-effects-evidence]] and habit-forming
 potential.
 
 ## Mind-Body Medicine and Cancer Pain

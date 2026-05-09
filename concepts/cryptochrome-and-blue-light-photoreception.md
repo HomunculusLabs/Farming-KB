@@ -1,5 +1,5 @@
 ---
-title: Cryptochrome and Blue Light Photoreception
+title: Cryptochrome and chamovitz-julius-von-sachs-blue-light-phototropism Photoreception
 created: 2026-04-28
 tags: [botany, photobiology, photoreceptors, cryptochrome, blue-light, phototropism, plant-senses]
 date: 2026-04-28
@@ -41,7 +41,7 @@ The molecular identity of blue light photoreceptors remained unknown for over
 a century after Sachs's initial observation. It was not until the 1990s that
 genetic screens in Arabidopsis thaliana identified mutants defective in blue
 light responses. These forward genetic screens, combined with positional
-cloning, revealed two major classes of blue light photoreceptors that operate
+cloning, revealed two [[ascomycota-phylogeny-major-classes-lineages]] of blue light photoreceptors that operate
 in parallel: cryptochromes and phototropins.
 
 ## Phototropins: Directional Light Sensors
@@ -59,7 +59,7 @@ When blue light strikes the LOV domains, the FMN undergoes a reversible
 cysteine-dependent photochemical reaction activating the kinase domain. This
 phosphorylates NPH3 (NON-PHOTOTROPIC HYPOCOTYL 3) family proteins, which
 recruit auxin redistribution machinery. Auxin accumulates on the shaded side of
-the stem, promoting cell elongation through cell wall acidification and
+the stem, promoting [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] through [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] acidification and
 expansin activation, causing the plant to bend toward light.
 
 This explains Darwin's experiment at the molecular level: the coleoptile tip
@@ -120,7 +120,7 @@ evolutionary conservation of blue light sensing across kingdoms.
 
 ## Relevance to Controlled Agriculture
 
-Blue light supplementation in indoor growing promotes compact growth, enhances
+Blue light supplementation in [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]] promotes [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]], enhances
 chlorophyll content, and synchronises circadian rhythms. Excessive blue light
 inhibits stem elongation, so blue-to-red ratios must be balanced for optimal
 development.
@@ -130,4 +130,3 @@ development.
 - [[daniel-chamovitz]]
 - [[what-a-plant-knows-plant-vision-and-light-perception]] for the red/far-red photoreceptor system
 - [[plant-vision-and-phototropism]] for Darwin's foundational experiments
-- [[what-a-plant-knows-plant-vision-and-light-perception]] for the primary source

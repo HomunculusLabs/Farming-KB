@@ -18,7 +18,7 @@ In *Teaming with Microbes*, Lowenfels and Lewis present nematodes as essential p
 - Feed on [[teaming-with-microbes-overview]], nematodes mineralize nutrients:
 - They consume bacteria and fungi that contain immobilized nitrogen
 - They excrete excess nitrogen as plant-available ammonium
-- Their contribution to nutrient cycling is significant due to their abundance and feeding rates
+- Their contribution to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] is significant due to their abundance and feeding rates
 - The combination of protozoa and nematodes ensures robust nutrient mineralization
 
 ## Nematode Communities as Bioindicators
@@ -40,7 +40,7 @@ See also: [[teaming-with-microbes-bacteria]], [[nematodes-in-soil-ecology]]
 The principles outlined on this page connect directly to hands-on work in gardens,
 farms, and homesteads. Integrating these concepts with complementary techniques from
 related disciplines can significantly improve outcomes. Start with small-scale
-implementation and scale up as understanding deepens through direct observation.
+implementation and scale up as understanding deepens through [[fukuoka-direct-observation-method]].
 ## Practical Considerations
 
 When working with Teaming with Microbes — Nematodes, several practical factors should be
@@ -57,7 +57,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,4 +99,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

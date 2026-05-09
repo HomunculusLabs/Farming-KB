@@ -5,7 +5,8 @@ updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Philosophy of Eating
@@ -26,7 +27,7 @@ Our bodies are adapted to the food that grows naturally in our place. This princ
 
 ## Food as Identity
 
-Fukuoka saw food as a fundamental expression of cultural and regional identity. The traditional Japanese diet -- rice, barley, millet, vegetables, pickles, miso, fish -- was not just a collection of foods but a coherent system that had evolved over centuries in harmony with the Japanese climate and landscape.
+Fukuoka saw food as a fundamental expression of cultural and regional identity. The traditional [[fukuoka-japanese-diet-worse]] -- rice, barley, millet, vegetables, pickles, miso, fish -- was not just a collection of foods but a coherent system that had evolved over centuries in harmony with the Japanese climate and landscape.
 
 The loss of this dietary system was, for Fukuoka, a loss of cultural identity. When Japanese people eat hamburgers and processed foods, they are not just changing their diet -- they are changing who they are.
 
@@ -60,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

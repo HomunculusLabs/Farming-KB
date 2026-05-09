@@ -24,7 +24,7 @@ sources:
 
 Canavalia ensiformis (jack bean) is a perennial climbing legume in the family Fabaceae, native to tropical Central and South America. It is widely cultivated throughout the tropics and subtropics as a cover crop, green manure, and occasionally as a food crop after appropriate processing to remove antinutritional factors.
 
-The species is valued in permaculture systems for its vigorous growth, deep root system, and high nitrogen fixation capacity. Jack bean can produce 200–400 kg N/ha/year, making it one of the most productive leguminous green manures available for tropical agroecosystems.
+The species is valued in permaculture systems for its vigorous growth, deep root system, and high [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] capacity. Jack bean can produce 200–400 kg N/ha/year, making it one of the most productive leguminous green manures available for tropical agroecosystems.
 
 Jack bean seeds contain the lectin concanavalin A (Con A), a protein extensively used in biochemistry and immunology research as a T-cell mitogen and glycoprotein-binding reagent. This industrial significance has driven substantial research into the species' biochemistry.
 
@@ -54,7 +54,7 @@ The genus name honors the Italian naturalist Ferrante Imperato. The specific epi
 
 ## Phytochemistry
 
-Jack bean seeds contain several notable bioactive compounds that influence both their nutritional value and industrial applications.
+Jack bean seeds contain several notable [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] that influence both their nutritional value and industrial applications.
 
 **Lectins and proteins:**
 
@@ -83,11 +83,11 @@ Trypsin inhibitors reduce protein digestibility by approximately 50% in raw seed
 
 ## Cultivation and Permaculture
 
-C. ensiformis is adapted to tropical and subtropical climates (0–1,500 m elevation) with annual rainfall of 600–2,000 mm. It tolerates acid soils (pH 4.5–6.5) better than most legumes and shows moderate drought tolerance once established.
+C. ensiformis is adapted to tropical and subtropical climates (0–1,500 m elevation) with annual rainfall of 600–2,000 mm. It tolerates acid soils (pH 4.5–6.5) better than most legumes and shows moderate [[dighton-fungal-drought-tolerance-plant-water-relations]] once established.
 
-**Establishment:** Direct seeding at 30–50 kg/ha, 50–100 cm row spacing, or broadcast as a cover crop at 80–120 kg/ha. Scarification improves germination of the hard-coated seeds. Seed inoculation with Bradyrhizobium is recommended on first planting.
+**Establishment:** [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] at 30–50 kg/ha, 50–100 cm row spacing, or broadcast as a cover crop at 80–120 kg/ha. Scarification improves germination of the hard-coated seeds. Seed inoculation with Bradyrhizobium is recommended on first planting.
 
-**Growth parameters:**
+**[[chen-maitake-growth-parameters-environmental-control]]:**
 
 - Days to flowering: 60–90
 - Days to maturity: 180–270
@@ -98,7 +98,7 @@ C. ensiformis is adapted to tropical and subtropical climates (0–1,500 m eleva
 
 **Permaculture functions:** Jack bean serves as a living mulch, suppressing weeds through rapid canopy closure and shading. The deep taproot breaks compacted soil layers and cycles nutrients from subsoil to surface. As green manure, incorporated biomass decomposes rapidly, releasing fixed nitrogen for subsequent crops.
 
-The species is effective on degraded and marginal soils, including acidic tropical ultisols and oxisols where conventional legumes perform poorly. It has been used successfully for erosion control on steep slopes and mine reclamation sites.
+The species is effective on degraded and marginal soils, including acidic tropical ultisols and oxisols where conventional legumes perform poorly. It has been used successfully for [[permplant-willows-salix-erosion-control-fodder]] on steep slopes and mine reclamation sites.
 
 **Pest resistance:** Jack bean has few serious pest problems in the tropics. Foliage is relatively unpalatable to cattle and goats, reducing grazing pressure. The canavanine content provides insect resistance to bruchid beetles and other seed predators.
 
@@ -114,7 +114,9 @@ The species is effective on degraded and marginal soils, including acidic tropic
 
 ## See Also
 
+- [[canavalia-gladiata]]
+
 - [[vicia-villosa]] — Hairy vetch, temperate cover crop legume
 - [[robinia-pseudoacacia]] — Black locust, temperate nitrogen-fixing tree
-- [[lupinus-albus]] — White lupin, another legume with antinutritional seed alkaloids
-- [[glycine-max-soybean-permaculture]] — Soybean, major leguminous oilseed
+- lupinus-albus — White lupin, another legume with antinutritional seed alkaloids
+- [[glycine-max]] — Soybean, major leguminous oilseed

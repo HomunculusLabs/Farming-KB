@@ -2,7 +2,7 @@
 
 ## Overview
 
-Flush count variation describes the observed differences in the number and distribution of fruiting bodies produced across multiple flushes (harvests) when brassinosteroid-treated fungal cultures are compared to untreated controls. In the Gartz (1990) study, brassinosteroid treatment with 22S,23S-homobrassinolide at 10⁻² ppm dramatically altered the flush pattern of *Psilocybe cubensis* on dung/grain substrate, particularly enhancing first flush productivity.
+Flush count variation describes the observed differences in the number and distribution of fruiting bodies produced across multiple flushes (harvests) when brassinosteroid-treated fungal cultures are compared to untreated controls. In the Gartz (1990) study, brassinosteroid treatment with 22S,23S-homobrassinolide at 10⁻² ppm dramatically altered the flush pattern of *[[psilocybe-cubensis]]* on dung/grain substrate, particularly enhancing first flush productivity.
 
 ## Normal Flush Dynamics in Mushroom Cultivation
 
@@ -63,7 +63,7 @@ The front-loaded flush pattern of brassinosteroid-treated cultures has implicati
 - The shortened time to first flush (3–3.5 weeks vs 4–5 weeks) reduces total cultivation time by approximately 25–30%.
 
 ### Substrate Efficiency
-The increase in dry mass per unit substrate (3.4–3.9 g vs 2.3–2.9 g per 10 g substrate) represents a 48–70% improvement in biological efficiency. This means significantly more product per unit of substrate cost, which is economically significant for commercial operations.
+The increase in dry mass per unit substrate (3.4–3.9 g vs 2.3–2.9 g per 10 g substrate) represents a 48–70% improvement in [[biological-efficiency]]. This means significantly more product per unit of substrate cost, which is economically significant for commercial operations.
 
 ### Quality Considerations
 The suppression of incomplete fruiting bodies is a quality advantage. In conventional cultivation, malformed mushrooms must be culled, representing wasted resources. Brassinosteroid treatment appears to reduce this waste, improving the ratio of harvestable to total fruiting bodies produced.
@@ -103,9 +103,9 @@ The brassinosteroid effect stands out for its dramatic impact on first flush pro
 The flush count variation phenomenon raises several questions for future investigation:
 
 1. **Dose-response profiling**: Testing a range of brassinosteroid concentrations would reveal the optimal dose for maximizing total yield versus front-loading production.
-2. **Multi-species validation**: Extending the study to commercially important edible and medicinal species (e.g., *Pleurotus ostreatus*, *Ganoderma lucidum*, *Agaricus bisporus*) would determine the generalizability of the effect.
+2. **Multi-species validation**: Extending the study to commercially important edible and medicinal species (e.g., *[[pleurotus-ostreatus]]*, *[[ganoderma-lucidum]]*, *[[agaricus-bisporus]]*) would determine the generalizability of the effect.
 3. **Molecular mechanisms**: Transcriptomic analysis of brassinosteroid-treated mycelium during the vegetative-to-reproductive transition could identify the genetic pathways responsible for enhanced primordia formation.
-4. **Combination treatments**: Testing brassinosteroids alongside other enhancement methods (cold shock, supplementation, optimized environmental parameters) could reveal synergistic effects.
+4. **Combination treatments**: Testing brassinosteroids alongside other enhancement methods (cold shock, supplementation, optimized [[mushroom-cultivation-environmental-parameters]]) could reveal synergistic effects.
 5. **Long-term effects**: Assessing whether repeated brassinosteroid exposure across multiple cultivation generations leads to adaptation or reduced responsiveness would inform sustainable commercial application.
 
 ## Practical Limitations

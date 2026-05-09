@@ -5,7 +5,7 @@ type: species
 tags: [psilocybin-mushroom, agaricales, strophariaceae, temperate, north-america]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md]
+sources: sources: []
 ---
 
 # Psilocybe ovoideocystidiata
@@ -50,21 +50,21 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 
 ## Distribution and Habitat
 
-- Native to the eastern United States, ranging from Pennsylvania to Ohio, Kentucky, and West Virginia
+- Native to the eastern [[dmt-containing-plants-united-states-halpern]], ranging from Pennsylvania to Ohio, Kentucky, and West Virginia
 - Found in the Ohio River Valley and extending into parts of the Appalachian region
 - Grows in temperate hardwood forests, particularly in association with riparian zones
 - Fruits in spring, typically April through early June, and again in autumn
 - Found growing on woody debris, decaying hardwood logs, wood chips, and mulch
-- Prefers areas with rich organic matter and high humidity
+- Prefers areas with rich [[hamilton-composting-and-organic-matter-management]] and high humidity
 - Often encountered along riverbanks and floodplains where wood has accumulated
 
 ## Chemistry and Psychoactivity
 
 - Contains [[psilocin]] as primary psychoactive alkaloids
 - Moderate potency compared to other Psilocybe species
-- Bluing reaction is prominent on the cap, gills, and stipe when damaged
+- [[field-guide-psilocybin-bluing-reaction-identification]] is prominent on the cap, gills, and stipe when damaged
 - Potency can vary depending on substrate, age, and environmental conditions
-- Active at typical psilocybin mushroom dosages
+- Active at typical [[emcdda-psilocybin-mushroom-dose-and-effects]] dosages
 
 ## Identification Notes
 
@@ -85,11 +85,11 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 
 - [[psilocybe-cyanescens]] — more robust, wavy cap margin, different cystidia, and typically autumn fruiting
 - [[psilocybe-subaeruginosa]] — Australian species with similar appearance but different distribution
-- Several non psychoactive Galerina and Stropharia species share similar habitat and should be carefully distinguished
+- Several [[raw-cannabis-thca-non-psychoactive-therapeutic-properties]] Galerina and Stropharia species share similar habitat and should be carefully distinguished
 
 ## Etymology
 
-The specific epithet "ovoideocystidiata" refers to the distinctive ovate shaped cheilocystidia, which are a key diagnostic feature for this species under microscopic examination.
+The specific epithet "ovoideocystidiata" refers to the distinctive ovate shaped cheilocystidia, which are a key diagnostic feature for this species under [[fungal-microscopic-examination-mounting-media-techniques]].
 
 ## Ecology and Seasonality
 

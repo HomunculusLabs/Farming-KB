@@ -21,7 +21,7 @@ type: concept
 
 ## Overview
 
-The third principle of Fukuoka's [[fungal-bioturbation-and-soil-aggregate-formation]] that fruit trees depend on.
+The third principle of Fukuoka's fungal-bioturbation-and-soil-aggregate-formation that fruit trees depend on.
 
 ### Exposure to Temperature Extremes
 Without a weed cover, soil temperatures fluctuate more dramatically between day and night. This stresses root systems of fruit trees and reduces microbial activity near the soil surface.
@@ -30,14 +30,14 @@ Without a weed cover, soil temperatures fluctuate more dramatically between day 
 Bare soil loses water rapidly through evaporation. Weed cover acts as living mulch, retaining soil moisture and reducing the need for irrigation.
 
 ### Disruption of Beneficial Insect Habitat
-Weeds provide habitat for predatory insects that control pest populations. Removing weeds eliminates this natural pest control, creating the conditions that make pesticide application seem necessary.
+Weeds provide habitat for predatory insects that [[query-how-do-parasitoid-wasps-control-pest-populations]] populations. Removing weeds eliminates this [[cho-natural-pest-control-methods]] control, creating the conditions that make pesticide application seem necessary.
 
 ## Rice and Barley: The Succession Cropping Method
 
 Fukuoka extends the no-weeding principle to [[natural-farming-principles-fukuoka]]:
 
 ### Natural Balance
-There is no good or evil in nature. Natural farming admits to the existence neither of insect pests nor of beneficial insects. By extension, it does not admit to the existence of weeds versus crops. These are human categories imposed on a natural system that recognizes no such distinctions.
+There is no good or evil in nature. [[comparison-natural-farming-vs-permaculture]] admits to the existence neither of insect pests nor of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. By extension, it does not admit to the existence of weeds versus crops. These are human categories imposed on a natural system that recognizes no such distinctions.
 
 ### Trust in Natural Succession
 When a problem arises, the natural farmer reflects that it was probably triggered by some human mistake. Invariably, the cause lies in some action by man. If weeds are overwhelming a crop, it is because the crop was weakened by some unnatural practice, not because weeds are inherently harmful.
@@ -53,7 +53,7 @@ For farmers seeking to implement the no-weeding principle, Fukuoka offers concre
 Before attempting to manage weeds, study the natural succession patterns in your area. Learn which weeds appear first after disturbance, which follow, and which dominate mature stands. Understanding this sequence allows strategic intervention.
 
 ### Choose Beneficial Ground Covers
-Select ground cover plants that serve multiple purposes: nitrogen fixation, [[fukuoka-textdoc-minor-grains-soil-preservation-health-foods]]
+Select ground cover plants that serve multiple purposes: [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], [[fukuoka-textdoc-minor-grains-soil-preservation-health-foods]]
 ## Practical Considerations
 
 When working with Weeds as Beneficial Plants - Soil Enrichment and Ecological Coexistence, several practical factors should be
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,9 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+## See Also
+- [[fukuoka-textdoc-weed-utility-grass-soil-enrichment]]
+- [[ground-cover-plants]]
+- [[beneficial-insect-habitat]]
+- [[natural-farming]]
+- [[fukuoka-textdoc-no-fertilizer-principle-natural-soil-fertility]]

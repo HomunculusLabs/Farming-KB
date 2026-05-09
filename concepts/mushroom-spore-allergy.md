@@ -1,16 +1,13 @@
 ---
-title: Mushroom Spore Allergy
+title: emcdda-hallucinogenic-mushroom-spore-distribution-home-cultivation Allergy
 created: 2026-04-16
 updated: 2026-04-18
 type: concept
-tags: [[mycology, mushrooms, cultivation]
-sources: []
+tags: [mycology, mushrooms, cultivation]
+sources:
+  sources: []
 ---
-
-# Mushroom Spore Allergy and Sensitivity
-Mushroom cultivation and handling carry specific health risks related to spore exposure, allergic reactions, and biochemical sensitivities. The most significant occupational hazard in commercial mushroom farming is spore-related respiratory illness, while consumers face risks from specific biochemical compounds in certain species.
-
-Understanding these risks is essential for anyone engaged in [[pleurotus-ostreatus]] (the Oyster mushroom). This is primarily an occupational hazard affecting workers who pick mushrooms indoors in enclosed growing environments where spore concentrations build to extremely high levels.
+# Mushroom Spore Allergy and Sensitivity Mushroom cultivation and handling carry specific health risks related to spore exposure, allergic reactions, and biochemical sensitivities. The most significant occupational hazard in commercial mushroom farming is spore-related respiratory illness, while consumers face risks from specific biochemical compounds in certain species. Understanding these risks is essential for anyone engaged in [[pleurotus-ostreatus]] (the Oyster mushroom). This is primarily an occupational hazard affecting workers who pick mushrooms indoors in enclosed growing environments where spore concentrations build to extremely high levels.
 
 ### Symptoms
 
@@ -40,13 +37,13 @@ Workers who initially tolerate contact with Oyster spores often develop increase
 
 - Harvesting mushrooms before full spore maturity (before gills darken and spores release) significantly reduces exposure
 
-- Short-haired Oyster varieties and species with lower spore production (like [[pleurotus-pulmonarius]] (Phoenix oyster):** Similar spore production volume to P. ostreatus and capable of triggering the same sensitization response.
+- Short-haired Oyster varieties and species with lower spore production (like [[pleurotus-pulmonarius]] ([[growing-gourmet-phoenix-oyster-pulmonarius-cultivation]]):** Similar spore production volume to P. ostreatus and capable of triggering the same sensitization response.
 
-- **[[pleurotus-eryngii]] (King oyster):** Lower spore production than other Oyster species, making it a preferred choice for commercial operations concerned about worker health.
+- **[[pleurotus-eryngii]] ([[growing-gourmet-king-oyster-eryngii-cultivation]]):** Lower spore production than other Oyster species, making it a preferred choice for commercial operations concerned about worker health.
 
 ### Moderate-Risk Species
 
-- **[[laminar-flow-hood-guide]] for spawn preparation and inoculation work to maintain sterile conditions
+- **[[laminar-flow-hood-guide]] for [[azurescens-spawn-preparation-grain-to-wood]] and inoculation work to maintain sterile conditions
 
 ### Administrative Controls
 
@@ -67,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Mushroom Potency and Dosage Guide
+title: emcdda-psilocybin-mushroom-dose-and-effects Potency and Dosage Guide
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -17,13 +17,13 @@ Mushroom potency is primarily determined by the concentration of psilocybin and 
 
 | Species | Approximate Max Psilocybin | Notes |
 |---------|---------------------------|-------|
-| [[psilocybe-semilanceata]] | Up to ~1% | Liberty Cap; native European species; widely available |
+| [[psilocybe-semilanceata]] | Up to ~1% | [[peter-mantle-liberty-cap-chromatographic-discovery-1969]]; native European species; widely available |
 | Psilocybe bohemica | Up to ~1% | Central European species |
-| [[psilocybin-mushroom-distribution-worldwide]] of potency variation is complex and influenced by genetic, environmental, and post-harvest factors.
+| [[psilocybin-mushroom-distribution-worldwide]] of [[psilocybe-cubensis-potency-variation-by-flush]] is complex and influenced by genetic, environmental, and post-harvest factors.
 
 ## Psychoactive Dose Ranges
 
-Based on clinical research (Hasler et al, 2004), psychoactive psilocybin doses are estimated at 45-315 micrograms per kilogram of body weight. Translating this to mushroom weight:
+Based on [[hofmann-lsd-clinical-research-early-studies]] (Hasler et al, 2004), psychoactive psilocybin doses are estimated at 45-315 micrograms per kilogram of body weight. Translating this to mushroom weight:
 
 ### Dried Mushrooms
 - **Light dose**: 0.5-1.0g dried
@@ -66,7 +66,7 @@ The experience is most commonly described as "tripping" and shares characteristi
 
 - [[asian-psilocybin-mushroom-guide]]
 
-- [[turner-psilocybin-mushroom-experience-guide]]
+- turner-psilocybin-mushroom-experience-guide
 - [[psilocybin-mushrooms-and-ecology]]
 - [[microdosing-theory-and-practice]]
 ## Practical Considerations
@@ -88,3 +88,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[psilocybin-psilocin-chemistry-serotonin-5ht2a-mechanism-emcdda-2006]]

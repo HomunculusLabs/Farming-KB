@@ -42,7 +42,7 @@ model ignores. Increasing leaf area to capture more light also increases
 shading of lower leaves, reducing their photosynthetic contribution. A
 denser canopy also increases humidity within the crop, promoting disease.
 More efficient conversion of light to chemical energy may produce more
-vegetative growth at the expense of grain production. Improving the harvest
+[[cannabis-vegetative-growth-stage]] at the expense of [[fukuoka-no-till-grain-production-method]]. Improving the harvest
 index may reduce the plant's overall vigor and disease resistance.
 
 Second, Fukuoka argued that the model treats photosynthesis as if it were
@@ -50,7 +50,7 @@ a purely physical process — light in, sugar out — when in fact it is a
 biological process embedded in a complex organism interacting with its
 environment. The plant does not photosynthesize at a fixed rate determined
 by leaf area and light intensity. It adjusts its photosynthetic rate in
-response to nutrient availability, water status, temperature, pest pressure,
+response to [[ph-and-nutrient-availability-garden-soils]], water status, temperature, pest pressure,
 and competitive interactions with neighboring plants. Any attempt to
 maximize one aspect of this complex system inevitably affects all others.
 
@@ -92,7 +92,7 @@ Fukuoka argued that agricultural scientists consistently ignored what he
 called "original factors" — the inherent characteristics of the plant and
 its environment that determine yield potential before any human intervention.
 The most important of these original factors are the genetic constitution
-of the plant and the natural fertility of the soil. A plant growing in
+of the plant and the [[fukuoka-natural-fertility-cycle]] of the soil. A plant growing in
 fertile soil with adequate rainfall will produce a certain yield regardless
 of whether the farmer applies fertilizer or pesticide. The scientist who
 attributes the yield to these inputs is confusing correlation with
@@ -107,12 +107,12 @@ to build its fertility naturally. The scientist, unable to conduct the
 counterfactual experiment (growing the crop without fertilizer in the same
 field), assumes that the fertilizer was responsible. This assumption
 becomes embedded in the scientific literature and is used to justify
-ever-increasing fertilizer application.
+ever-increasing [[cervantes-fertilizer-application-strain-feeding]].
 
 ## The Reality of Natural Yields
 
 Fukuoka's own farming experience provided the most powerful rebuttal to
-the high-yield theory. His natural rice paddies, managed without tillage,
+the high-yield theory. His [[fukuoka-lundberg-family-farms-natural-rice-transition]] paddies, managed without tillage,
 fertilizer, pesticides, or weeding, consistently produced yields comparable
 to or exceeding those of scientifically managed paddies in the same region.
 His "Happy Hill" rice variety, developed through natural selection in his

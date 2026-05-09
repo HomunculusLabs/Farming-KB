@@ -1,5 +1,5 @@
 ---
-title: Companion Planting Science in Permaculture
+title: comparison-companion-planting-reference-vs-jadam-monoculture-critique Science in Permaculture
 created: 2026-04-28
 tags:
   - permaculture
@@ -20,9 +20,9 @@ in close proximity for mutual benefit. While traditional companion planting
 guides are often based on folklore and anecdote, the Permaculture Designers
 Manual seeks to ground these associations in observable ecological
 mechanisms. Mollison categorises companion planting benefits into several
-scientifically documented processes: nitrogen fixation, pest deterrence
+scientifically documented processes: [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], pest deterrence
 through biochemical and physical means, allelopathy, microclimate
-modification, and spatial resource partitioning.
+modification, and spatial [[fungal-resource-partitioning-decomposition-sequences]].
 
 ## Nitrogen Fixation Associations
 
@@ -44,7 +44,7 @@ beans, and the squash shades the soil and suppresses weeds with its
 broad leaves. This principle extends to mollison designers agroforestry and integrated tree crops
 systems where nitrogen-fixing trees support understory crops.
 
-## Pest Deterrence and [[mollison-designers-integrated-pest-management-design]].
+## Pest Deterrence and mollison-designers-integrated-pest-management-design.
 
 ## Allelopathy: Chemical Interactions Between Plants
 
@@ -91,7 +91,7 @@ that can improve growing conditions. Shade-tolerant species benefit from
 the partial shade cast by taller companions during hot periods.
 Windbreak species reduce evaporative water loss from downwind crops.
 [[mollison-designers-food-forest-succession-design]]
-and intensive garden systems alike.
+and [[comparison-zone-1-intensive-garden-vs-zone-5-wilderness]] systems alike.
 
 ## Limitations and Critical Thinking
 
@@ -108,5 +108,7 @@ guidance than any generalised planting chart.
 ## Cross-References
 
 - [[mollison-designers-food-forest-succession-design]]: Multi-strata companion systems
-- mollison designers nutrient cycling: Nitrogen fixation in polycultures
-- [[mollison-designers-humus-building-and-soil-organic-matter]]: Allelopathic weed control
+- mollison designers [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]: Nitrogen fixation in polycultures
+- [[mollison-designers-humus-building-and-soil-organic-matter]]: Allelopathic [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
+## See Also
+- [[companion-planting]]

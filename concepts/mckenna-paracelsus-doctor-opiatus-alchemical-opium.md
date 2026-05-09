@@ -1,5 +1,5 @@
 ---
-title: "Paracelsus, Doctor Opiatus, and the Alchemical Revival of Opium"
+title: "Paracelsus, mckenna paracelsus doctor opiatus alchemical opium, and the Alchemical Revival of Opium"
 created: 2026-04-28
 tags: [opium, paracelsus, alchemy, psychopharmacology, McKenna, food-of-the-gods, history-of-medicine]
 date: 2026-04-28
@@ -16,7 +16,7 @@ physician-alchemist Paracelsus — as the pivotal force that revived opium's use
 medicine and set themckenna-opium-de-quincey-and-birth-of-psychopharmacology era of psychopharmacology. This narrative
 connects the alchemical quest to release the "spirit" locked within matter directly to the
 pharmacological isolation of active compounmckenna-symbiosis-and-human-plant-relationshipsrocess that would ultimately
-transform sacred plant relationships into the addictive drug culture of shroom cultural history mushroom in ancient civilizationsthe Ancient World
+transform sacred plant relationships into the addictive drug culture of shroom [[shroom-cultural-history-hippie-revolution-and-counterculture]] [[shroom-cultural-history-mushroom-in-ancient-civilizations]] civilizationsthe [[allegro-plants-and-drugs-in-the-ancient-world]]
 
 McKenna provides a sweeping overview of opium's place in ancient civilizations. The opium
 poppy, *, heroin, and the entire class of opioid pharmaceuticals
@@ -46,7 +46,7 @@ alchemical nostrum to pharmaceutical product was gradual but continuous.
 
 ## The Demeter-Poppy Connection
 
-McKenna draws a significant connection between opium and the Minoan goddess tradition
+McKenna draws a significant connection between opium and the Minoan [[mckenna-coca-mama-coca-inca-goddess-tradition]]
 through the figure of Demeter. Early Minoan texts testify that poppies were widely
 cultivated on both Crete and Pylos during the Late Minoan period. The poppy head was used
 as an ideogram in financial tallies, with yields so huge that scholars initially assumed

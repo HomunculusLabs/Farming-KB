@@ -22,7 +22,7 @@ receptors. It was the first known cholinomimetic alkaloid isolated from a natura
 remains one of the most important mushroom toxins from both a pharmacological and historical
 perspective.
 
-Despite its enduring association with the fly agaric ([[amanita-muscaria-entity]] contains only trace quantities of muscarine
+Despite its enduring association with the [[amanita-muscaria-fly-agaric-history-and-pharmacology]] ([[amanita-muscaria-entity]] contains only trace quantities of muscarine
 that are insufficient to produce significant toxicity. The true clinical significance of
 muscarine lies in other, less famous mushroom species that contain it in far greater
 concentrations.
@@ -57,7 +57,7 @@ the foundation for the systematic study of mushroom alkaloids.
 
 Subsequent research, particularly in the mid-twentieth century, revealed that muscaria contains only minute quantities of muscarine (approximately 0.0002 to 0.003% of
 fresh weight), and that its psychoactive effects are primarily due to other compounds,
-notably ibotenic acid and its decarboxylation product muscimol.
+notably [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] and its decarboxylation product muscimol.
 
 ## Natural Occurrence
 
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

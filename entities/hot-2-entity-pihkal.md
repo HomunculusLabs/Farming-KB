@@ -1,5 +1,5 @@
 ---
-title: "HOT-2 (2,5-DIMETHOXY-4-ETHYLTHIO-N-HYDROXYPHENETHYLAMINE) -- PIHKAL Entry #87"
+title: "HOT-2 (2,5-DIMETHOXY-4-ETHYLTHIO-N-HYDROXYPHENETHYLAMINE) -- 2c-b-pihkal-entry-20 #87"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # HOT-2
 
-PIHKAL entry #87. 2,5-DIMETHOXY-4-ETHYLTHIO-N-HYDROXYPHENETHYLAMINE.
+[[2c-b-pihkal-entry-20]] #87. 2,5-DIMETHOXY-4-ETHYLTHIO-N-HYDROXYPHENETHYLAMINE.
 
 ## Chemical Name
 
@@ -83,7 +83,7 @@ added 3.5 mL of a 10 M borane dimethylsulfide complex, followed by 0.5
 g sodium borohydride as a solid. There was a slight exothermic
 response, and the color slowly faded. Stirring was continued for a
 week. There was then added 40 mL H2O and 20 mL concentrated HCl, and
-the reaction mixture heated on the steam bath for 15 minutes, with the
+the reaction mixture heated on the [[scythian-cannabis-steam-bath-ritual]] for 15 minutes, with the
 THF at reflux. After cooling again to room temperature, all was
 
 poured into 1 L H2O and washed with 3x75 mL CH2Cl2, which removed all

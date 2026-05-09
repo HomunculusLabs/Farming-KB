@@ -11,7 +11,7 @@ sources: []
 
 Updated: 2026-04-18
 
-Access to clean water is fundamental to sustainable living, agriculture, and public health. Desalination and water treatment technologies range from simple low-tech methods suitable for homesteads to industrial-scale plants. For [[sustainable-living-habits-for-homesteads]]
+Access to clean water is fundamental to [[natural-farming-sustainable-living-principles]], agriculture, and public health. Desalination and water treatment technologies range from simple low-tech methods suitable for homesteads to industrial-scale plants. For [[sustainable-living-habits-for-homesteads]]
 - [[constructed-wetlands-wastewater-treatment]]
 - [[constructed-wetlands-wastewater-treatment]]
 - [[water-pathways-through-plants]]
@@ -144,4 +144,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

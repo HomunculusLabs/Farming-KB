@@ -5,12 +5,13 @@ updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Nature's Self-Organizing Principles
 
-Masanobu Fukuoka's observations of how nature organizes itself without human intervention form the practical backbone of his [[fukuoka-natural-orchard-development]] works with succession rather than against it. Rather than maintaining a monoculture of fruit trees, he allows a diverse community of plants to develop naturally beneath and between the trees. This approach creates a more resilient and productive system than conventional orchard management.
+Masanobu Fukuoka's observations of how nature organizes itself without human intervention form the practical backbone of his [[fukuoka-natural-orchard-development]] works with succession rather than against it. Rather than maintaining a monoculture of [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], he allows a diverse community of plants to develop naturally beneath and between the trees. This approach creates a more resilient and productive system than conventional [[fukuoka-orchard-management-detailed]].
 
 ## No Waste in Nature
 
@@ -103,4 +104,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

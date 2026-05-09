@@ -27,7 +27,7 @@ DMT N-oxide has been detected in several natural sources, contributing to the co
 
 ## Pharmacology
 
-The pharmacological activity of DMT N-oxide is less well characterized than that of [[serotonin]] receptors, particularly 5-HT₁A and 5-HT₂A, though generally at lower potency than DMT itself. The N-oxide group reduces the basicity of the amine nitrogen, which is an important feature for 5-HT receptor binding.
+The pharmacological activity of DMT N-oxide is less well characterized than that of [[serotonin]] receptors, particularly 5-HT₁A and 5-HT₂A, though generally at lower potency than DMT itself. The N-oxide group reduces the basicity of the amine nitrogen, which is an important feature for 5-HT [[tihkal-receptor-binding-serotonin]].
 - **Blood-brain barrier penetration**: Due to its increased polarity, DMT N-oxide crosses the blood-brain barrier less efficiently than [[dimethyltryptamine]] using:
 
 - **LC-MS/MS**: The most reliable method, as the N-oxide has a distinct mass (+16 Da compared to DMT) and fragmentation pattern.
@@ -45,7 +45,7 @@ A particularly interesting aspect of DMT N-oxide pharmacology is its potential f
 
 ## Endogenous DMT and the Trace Amine Hypothesis
 
-The discovery of DMT N-oxide alongside endogenous [[dimethyltryptamine]] and DMT N-oxide have been reported to interact with sigma-1 receptors, which are involved in cellular stress response and neuroprotection.
+The discovery of DMT N-oxide alongside endogenous [[dimethyltryptamine]] and DMT N-oxide have been reported to interact with sigma-1 receptors, which are involved in cellular [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] and neuroprotection.
 - **Neuroplasticity**: Recent research has demonstrated that sub-threshold doses of [[psychotria-viridis]] leaves have been found to contain both [[dimethyltryptamine]] may gradually oxidize to form DMT N-oxide during storage, particularly if not properly dried or if stored under conditions that favor oxidation.
 - **Extraction considerations**: Standard extraction protocols for [[dimethyltryptamine]] and its possible physiological roles:
 
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

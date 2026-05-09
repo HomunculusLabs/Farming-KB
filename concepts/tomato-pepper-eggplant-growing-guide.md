@@ -1,5 +1,5 @@
 ---
-title: Tomato Pepper and Eggplant Growing Guide
+title: Tomato Pepper and tomato pepper eggplant growing guide Guide
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -18,7 +18,7 @@ Tomatoes, peppers, and eggplants are close relatives in the nightshade family (S
 
 - Solomon recommends new gardeners learn to grow tomatoes first; once mastered, peppers and eggplants will seem easier.
 - All three species are self-pollinating, making seed saving relatively straightforward.
-- Hybrid varieties exist for all three but are expensive because each flower must be hand-pollinated. Hybrid tomato seed wholesales for close to $1,000 per pound.
+- [[cervantes-hybrid-varieties-types]] exist for all three but are expensive because each flower must be hand-pollinated. Hybrid tomato seed wholesales for close to $1,000 per pound.
 - These species respond to spacing: the more growing space you give them, the more they will produce.
 
 ## Tomatoes
@@ -62,7 +62,7 @@ Tomatoes, peppers, and eggplants are close relatives in the nightshade family (S
 
 - Fruit worms (same as corn earworm): control with Bt spray.
 - Hornworms: handpick.
-- Blossom-end rot: indicates calcium deficiency. Apply lime if subsoil doesn't offer sufficient calcium. Problem will fade away after a few years of light lime applications.
+- Blossom-end rot: indicates [[knf-calcium-deficiency-symptoms]]. Apply lime if subsoil doesn't offer sufficient calcium. Problem will fade away after a few years of light lime applications.
 - Many tomato diseases are problems of commercial fields. If roots have room, weather is favorable, and soil is reasonably fertile, the vine usually won't become sick.
 
 ### Seed Saving
@@ -82,7 +82,7 @@ Tomatoes, peppers, and eggplants are close relatives in the nightshade family (S
 ## Eggplant (Aubergine)
 
 - Requires the warmest conditions of the three species.
-- In cool climates, may need black plastic mulch to warm soil.
+- In cool climates, may need black [[jadam-plastic-mulch-problems]] to warm soil.
 - Very aggressive growers in suitable weather -- a five-year-old Fijian eggplant bush was observed at 5 feet tall and 6 feet in diameter.
 - Space 24-36 inches (60-90 cm) apart.
 - Once a year, trim back by half and mulch with chicken manure.
@@ -98,10 +98,10 @@ Tomatoes, peppers, and eggplants are close relatives in the nightshade family (S
 ## Related
 
 - [[transplanting-techniques-solomon]]
-- [[holmgren-tripartite-altruism]]
+- holmgren-tripartite-altruism
 - [[solomon-growing-tomatoes]], *Gardening When It Counts*, Chapter on solanaceous crops
 
-## Merged: [[solomon-gardening-when-it-counts-index]] (2005) by Steve Solomon.
+## Merged: [[solomon-gardening-when-it-counts-index]] (2005) by [[steve-solomon]].
 
 ## Overview
 
@@ -111,7 +111,7 @@ Tomatoes, peppers, and eggplant are close relatives in the Solanaceae family. Ma
 
 ### Growing Details
 
-Most varieties need 100-120 growing days from emergence to first ripe fruit. Where there are fewer than 150 frost-free days, gardeners must get at least a 50-day head start using transplants. In warm climates, direct seeding is possible, but transplants still extend production.
+Most varieties need 100-120 growing days from emergence to first ripe fruit. Where there are fewer than 150 frost-free days, gardeners must get at least a 50-day head start using transplants. In warm climates, [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] is possible, but transplants still extend production.
 
 **Solomon's transplant strategy:** If your frost-free season exceeds 150 days, grow only two or three early-maturing bush determinate transplants for early table supply. Then direct-seed more indeterminate types in the garden. This frees you from dependence on nursery seedlings and lets you choose your own varieties.
 
@@ -126,7 +126,7 @@ Side shoots emerge from each leaf notch in a repeating pattern of three: two wea
 
 ### Varieties
 
-Hybrid tomatoes offer disease resistance, which matters to commercial growers who run down their soil and don't rotate enough. Some heirlooms have superior flavor but may lack disease resistance and climate adaptation. Solomon advises experimenting with one new heirloom per year while mainly growing locally proven varieties.
+Hybrid tomatoes offer disease resistance, which matters to commercial growers who run down their soil and don't rotate enough. Some heirlooms have superior flavor but may lack disease resistance and [[jeavons-climate-adaptation-growing-seasons]]. Solomon advises experimenting with one new heirloom per year while mainly growing locally proven varieties.
 
 The best flavor is found in slicing (firm-fleshed, not watery) "beefsteak" varieties that require warm humid nights. In maritime climates these often fail to ripen. Cherry tomatoes (indeterminate) are the most aggressively growing and best suited to dry gardening. Paste varieties contain less moisture and cook down in half the time, saving energy. They are also superior for drying.
 

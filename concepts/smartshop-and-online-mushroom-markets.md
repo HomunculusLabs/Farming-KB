@@ -1,10 +1,10 @@
 ---
-title: Smartshop and Online Mushroom Markets
+title: Smartshop and Online emcdda-hallucinogenic-mushroom-markets-availability
 tags: [markets, retail, smartshops, e-commerce, Netherlands, UK, availability, supply]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - EMCDDA Thematic Paper: Hallucinogenic Mushrooms, An Emerging Trend Case Study (2006)created: 2026-05-07
+  - EMCDDA Thematic Paper: emcdda-hallucinogenic-mushrooms-emerging-trend-europe, An emcdda-epod-project-emerging-trend-detection-methodology Case Study (2006)created: 2026-05-07
 type: concept
 
 created: 2026-05-07
@@ -24,7 +24,7 @@ A smartshop is a retail establishment specialising in psychoactive herbal substa
 
 - Estimated **120 to 150 smartshops** in the Netherlands (exact number unknown)
 - Concentrated in Amsterdam
-- Sell legal, predominantly natural products including magic mushrooms
+- Sell legal, predominantly natural products including [[guzman-magic-mushrooms-african-species]]
 - Some coffee shops also sell mushrooms
 - "Paddo cabs" provide home delivery services
 - Headshops (drug paraphernalia) and grow shops (marijuana cultivation supplies) sometimes stock mushrooms
@@ -61,13 +61,13 @@ Despite hallucinogenic mushrooms growing wild throughout much of Europe, the EMC
 
 ### Market Snapshot (January 2006)
 
-A systematic search using Google and AltaVista identified **39 unique online shops** selling hallucinogenic mushroom products:
+A systematic search using Google and AltaVista identified **39 unique online shops** selling hallucinogenic [[cotter-mushroom-products-and-value-added-applications]]:
 
 | Search Term | Google Hits | Altavista Hits | Unique Shops |
 |---|---|---|---|
 | Magic mushrooms shop | 16 (of 837,000) | 14 (of 674,000) | 19 |
 | Buy magic mushrooms | 16 (of 686,000) | 10 (of 733,000) | 16 |
-| Psilocybe cubensis shop | 24 (of 60,500) | 5 (of 52,100) | 24 |
+| [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] shop | 24 (of 60,500) | 5 (of 52,100) | 24 |
 | Buy psilocybe cubensis | 17 (of 29,900) | 7 (of 32,700) | 18 |
 
 ### Geographic Distribution

@@ -11,9 +11,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "ElSohly, M.A. et al. (2016). \"Changes in Cannabis Potency Over the Last Two Decades.\" Biological Psychiatry."
+  - "ElSohly, M.A. et al. (2016). \"Changes in green-cannabis-potency-maximizing Over the Last Two Decades.\" Biological Psychiatry."
   - "Mudge, E.M. et al. (2019). \"Cannabinoid and Terpene Profiling of Cannabis.\" Molecules."
-  - "Russo, E.B. (2011). \"Taming THC: Potential Cannabis Synergy and Phytocannabinoid-Terpenoid Entourage Effects.\" British Journal of Pharmacology."
+  - "Russo, E.B. (2011). \"Taming THC: Potential Cannabis Synergy and Phytocannabinoid-Terpenoid [[beta-caryophyllene-entourage-effects-cannabis]].\" British Journal of Pharmacology."
   - "Casajuana Cogul, E. et al. (2018). \"The Association Between Cannabis and Anxiety.\" Current Psychiatry Reports."
   - "High Times Cannabis Cup records (2014–2016)."
 ---
@@ -109,7 +109,7 @@ Gorilla Glue is moderately difficult to cultivate, rewarding experienced growers
 - **Training**: Responds exceptionally well to LST (Low Stress Training), SCROG, and topping. Branch structure benefits from early training to support heavy bud weight.
 - **Nutrient requirements**: Heavy feeder, particularly during weeks 4–8 of flowering. CalMag supplementation is important to prevent deficiencies.
 - **Support critical**: Buds become extremely dense and heavy — trellis netting, bamboo stakes, or yo-yo hangers are essential to prevent branches from snapping under the weight.
-- **Common challenges**: Susceptible to botrytis (bud rot) in high humidity environments due to dense bud structure. Spider mites and powdery mildew can also be issues. The resinous nature of the plant makes pest identification and treatment more difficult.
+- **Common challenges**: Susceptible to botrytis (bud rot) in high humidity environments due to dense bud structure. Spider mites and [[cervantes-powdery-mildew-prevention-treatment]] can also be issues. The resinous nature of the plant makes pest identification and treatment more difficult.
 - **Harvest indicators**: Trichomes predominantly cloudy with 10–20% amber for peak potency. Harvest window is approximately 8–9 weeks.
 
 ## Awards and Recognition
@@ -123,17 +123,19 @@ Gorilla Glue's competitive track record is among the most decorated of any moder
 
 ## Notable Phenotypes
 
-Several distinct Gorilla Glue phenotypes have been selected from the original breeding program:
+Several distinct Gorilla Glue phenotypes have been selected from the original [[cervantes-breeding-program-design-goal-setting]]:
 
 - **GG#1**: First phenotype selected; moderate potency, balanced effects
-- **GG#4**: The commercially released phenotype; highest potency, heaviest resin production
+- **GG#4**: The commercially released phenotype; highest potency, heaviest [[cannabis-glandular-trichome-types-resin-production-clarke]]
 - **GG#5**: Slightly less potent than GG#4 but with more complex flavor notes
 - **New Glue (GG#5 × GG#1)**: Backcross developed by GG Strains for enhanced vigor
 
 ## Trademark Dispute
 
-In 2017, the Gorilla Glue adhesive company (Gorilla Glue Inc.) initiated trademark proceedings against GG Strains. The resulting settlement required the cannabis strain to be officially rebranded as "Original Glue" or "GG#4" in commercial markets. Despite the legal name change, the original "Gorilla Glue" name remains ubiquitous in cannabis culture and dispensary menus worldwide.
+In 2017, the Gorilla Glue adhesive company (Gorilla Glue Inc.) initiated trademark proceedings against GG Strains. The resulting settlement required the cannabis strain to be officially rebranded as "Original Glue" or "GG#4" in commercial markets. Despite the legal name change, the original "Gorilla Glue" name remains ubiquitous in [[mckenna-cannabis-culture-history]] and dispensary menus worldwide.
 ## See Also
+
+- [[cannabis-gorilla-glue]]
 
 - [[cannabis-terpene-profiles]]
 

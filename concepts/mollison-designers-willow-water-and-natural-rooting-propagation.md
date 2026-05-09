@@ -1,5 +1,5 @@
 ---
-title: "Willow Water and Natural Rooting Propagation"
+title: "Willow Water and mollison designers willow water and natural rooting propagation Propagation"
 created: 2026-04-26
 tags:
   - permaculture
@@ -19,9 +19,9 @@ type: concept
 In *Permaculture: A Designers' Manual*, Bill Mollison highlights the
 remarkable properties of willow (Salix species) for vegetative
 propagation. Fresh willow chips soaked in water produce a natural
-solution rich in rooting hormones that can be used to promote root
+solution rich in [[cervantes-rooting-hormones-cloning]] that can be used to promote root
 growth in cuttings of many other species. This low-technology
-approach to propagation supports [[mollison-seed-resources-and-sovereignty]].
+approach to propagation supports mollison-seed-resources-and-sovereignty.
 
 ## Willow Water as Natural Rooting Hormone
 
@@ -55,7 +55,7 @@ permaculture systems. They serve multiple functions simultaneously:
 Matsudana willow provides strict windbreak for crops such as
 kiwifruit on the plains. The strict form allows minimal space loss
 on the ground and needs little maintenance to control shape. This
-connects to [[mollison-windbreak-design]].
+connects to mollison-windbreak-design.
 
 ## Activated Charcoal from Willow
 
@@ -64,10 +64,10 @@ charcoal used in water filtration. The charcoal is produced by
 burning willow wood in a low-oxygen environment and then "activating"
 it through steaming. This activated charcoal is used in [[mollison-designers-plant-nursery-establishment]] for local
   plant supply
-- mollison designers soil erosion control on stream banks
+- mollison designers soil [[permplant-willows-salix-erosion-control-fodder]] on stream banks
   and waterways (willow roots stabilise riparian soils)
 - [[mollison-designers-pioneer-species-for-exhausted-tropical-soils]] as a pioneer in cool and temperate zones
-- [[mollison-aquatic-plant-systems]] for streamside planting
+- mollison-aquatic-plant-systems for streamside planting
 
 ## Low-Tech Self-Reliance
 

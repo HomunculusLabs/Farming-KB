@@ -1,19 +1,19 @@
 ---
-title: Succession Planting for Year-Round Harvests
+title: succession-planting for Year-Round Harvests
 created: 2026-04-26
 tags: [succession-planting, crop-rotation, year-round-harvest, eliot-coleman]
-sources: The Winter Harvest Handbook, Eliot Coleman (2009)
+sources: The coleman-claytonia-winter-harvest-cultivation Handbook, eliot-coleman (2009)
 type: concept
 updated: 2026-04-26
 ---
 
 # [[winter-succession-planting]]
 
-- [[coleman-winter-greens]] — Individual crop details
-- [[coleman-greenhouse-soil-management]] — Soil care between plantings
+- coleman-winter-greens — Individual crop details
+- coleman-greenhouse-soil-management — Soil care between plantings
 ## Background and Context
 
-Succession Planting for Year-Round Harvests is an important subject that has garnered significant attention
+[[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] for Year-Round Harvests is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough
@@ -61,7 +61,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -139,4 +139,6 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-
+## See Also
+- [[succession-planting]]
+- [[dom]]

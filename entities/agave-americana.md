@@ -21,7 +21,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Gentry, H.S. (1982). "Agaves of Continental North America." University of Arizona Press.
+  - Gentry, H.S. (1982). "Agaves of Continental psilocybin-north-america-pacific-northwest." University of Arizona Press.
   - Garcia-Mendoza, A. (2007). "Agavaceae." In: "Flora del Valle de Tehuacán-Cuicatlán," UNAM.
   - Eguiarte, L.E. et al. (2000). "Agave (Agavaceae)." In: "Economic Botany," Springer.
   - Colunga-GarcíaMarín, P. et al. (2007). "Diversidad y Distribución del Género Agave." Boletín de la Sociedad Botánica de México, 81, 43–52.
@@ -34,10 +34,10 @@ sources:
 **Agave americana** (American agave, century plant) is a large succulent perennial
 in the family Asparagaceae, native to Mexico and the southern United States.
 Known as "century plant" for the mistaken belief that it flowers only once per
-century, it actually blooms after 10–30 years of vegetative growth.
+century, it actually blooms after 10–30 years of [[cannabis-vegetative-growth-stage]].
 
 The species is one of the most widely cultivated agaves globally, valued for
-its dramatic architectural form, drought tolerance, and utility as a fiber,
+its dramatic architectural form, [[dighton-fungal-drought-tolerance-plant-water-relations]], and utility as a fiber,
 fermentable sugar, and medicinal plant. It has naturalized across Mediterranean
 Europe, Africa, South Asia, and Australia.
 
@@ -83,7 +83,7 @@ It tolerates light frost to -8°C but is damaged by prolonged freezing.
 ## Cultivation and Uses
 
 Propagation is primarily by vegetative offsets (bulbils from the inflorescence
-or basal pups), which produce clones true to type. Seed propagation yields
+or basal pups), which produce clones true to type. [[jeavons-seed-propagation-techniques]] yields
 genetic variation. Plants establish readily in well-drained soils and require
 minimal irrigation.
 
@@ -102,7 +102,7 @@ as a vegetable in Mexican cuisine. The leaves yield a sweet sap when heated.
 
 **Medicinal:** Traditional uses include wound healing (pulp applied as a
 poultice), treatment of digestive disorders (pulque), anti-inflammatory
-applications (leaf sap), and treatment of skin conditions. Modern research has
+applications (leaf sap), and treatment of [[cannabis-for-skin-conditions-detailed]]. Modern research has
 identified steroidal saponins and flavonoids with anti-inflammatory activity.
 
 ## Permaculture Applications
@@ -130,7 +130,9 @@ fermentable sugars.
 
 ## See Also
 
-- [[opuntia-ficus-indica]] — prickly pear, companion arid-zone permaculture plant
+- [[genipa-americana]]
+
+- [[opuntia-ficus-indica]] — [[comparison-agave-vs-prickly-pear-cultivation]], companion arid-zone permaculture plant
 - *prosopis-glandulosa* — mesquite, arid-zone nitrogen-fixing companion
 - [[simmondsia-chinensis]] — jojoba, arid-zone oilseed for permaculture
 - [[ephedra-sinica]] — arid-zone medicinal shrub

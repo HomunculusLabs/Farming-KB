@@ -27,7 +27,7 @@ character of each compound:
 
 - **+** — Threshold effects, minimal alteration of perception
 - **++** — Clear psychedelic effects, moderate intensity
-- **+++** — Strong psychedelic experience, full spectrum of effects
+- **+++** — Strong [[leary-psychedelic-experience-bardo-mapping]], full spectrum of effects
 - **++++** — Exceptional and unique experience, transformative potential
 - **±** — Minus means less than expected, plus means more intense
 
@@ -42,7 +42,7 @@ substitute before being scheduled.
 
 **Dosage:** 12-24 mg (oral)
 **Duration:** 4-8 hours
-**Shulgin Rating:** +++
+**[[tihkal-shulgin-rating-scale]]:** +++
 
 Shulgin described 2C-B as producing colorful visuals with manageable
 body load, noting empathogenic qualities at lower doses and more
@@ -123,7 +123,7 @@ Several important safety considerations apply across the 2C family:
   duration. What lasts 6 hours for one may persist 10+ for another.
 - **Vasoconstriction:** Many 2C compounds produce peripheral
   vasoconstriction, potentially hazardous for cardiovascular conditions.
-- **Set and setting:** Intensity demands careful attention to mental
+- **[[lsd-set-and-setting-framework]]:** Intensity demands careful attention to mental
   state and physical environment.
 - **Pharmacological uncertainty:** Limited formal research exists for
   most 2C compounds. Shulgin's work remains the primary reference.
@@ -135,4 +135,3 @@ The 2C compounds are closely related to the [[phenethylamine-chemistry-basics]] 
 
 - [[pihkal-doa-family]] — DOx amphetamine derivatives
 - [[phenethylamine-chemistry-basics]] — Biography of the chemist
-- [[phenethylamine-chemistry-basics]] — Overview of the broader class

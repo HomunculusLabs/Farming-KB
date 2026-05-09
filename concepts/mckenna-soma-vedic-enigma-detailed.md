@@ -2,7 +2,7 @@
 title: The Soma Enigma — Vedic Candidates and Wasson's Theories
 source: mckenna_t-food_of_the_gods.md
 author: Terence McKenna
-chapter: 7 - Searching for Soma: The Golden Vedic Enigma
+chapter: 7 - Searching for Soma: The Golden mckenna soma vedic enigma detailed
 tags: [mckenna, soma, vedic, wasson, amanita, peganum, harmala, rig-veda]
 ---
 
@@ -29,9 +29,9 @@ ecstasy, immortality, and direct communion with the gods.
 ## The Wasson Amanita Theory
 
 R. Gordon Wasson, the banker-turned-ethnomycologist who introduced
-psilocybin mushrooms to the Western world through his 1957 *Life*
-magazine article, proposed that Soma was the fly agaric mushroom,
-*Amanita muscaria*. McKenna presents Wasson's argument and its
+[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] to the Western world through his 1957 *Life*
+magazine article, proposed that Soma was the [[amanita-muscaria-fly-agaric-history-and-pharmacology]] mushroom,
+*[[allegro-amanita-muscaria-properties-and-pharmacology]]*. McKenna presents Wasson's argument and its
 considerable problems:
 
 ### Evidence for Amanita muscaria
@@ -58,7 +58,7 @@ dramatic appearance and its prominence in Siberian shamanism.
 
 ## Peganum harmala as Soma
 
-McKenna gives serious consideration to *Peganum harmala* (Syrian rue)
+McKenna gives serious consideration to *Peganum harmala* ([[golden-guide-syrian-rue-and-maoi-plants]])
 as a candidate for Soma. This plant contains harmine and harmaline
 — beta-carboline alkaloids that are:
 
@@ -131,7 +131,7 @@ metaphorical language of the Rig Veda.
 
 ## See Also
 
-- [[amanita-muscaria-entity]] - Fly agaric chemistry and cultural history
+- [[amanita-muscaria-entity]] - Fly agaric [[amanita-muscaria-cultural-history]] history
 - [[archaic-revival-philosophy]] - Recovering lost plant knowledge
 
 ## See Also

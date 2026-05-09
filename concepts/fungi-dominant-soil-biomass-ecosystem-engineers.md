@@ -1,5 +1,5 @@
 ---
-title: Fungi as Dominant Soil Biomass and Ecosystem Engineers
+title: Fungi as fungi dominant soil biomass ecosystem engineers and Ecosystem Engineers
 created: 2026-04-28
 tags:
   - fungal-ecology
@@ -53,7 +53,7 @@ engineer their environment through biochemical processes.
 The secretion of organic acids, enzymes, and chelating compounds into the soil
 solution represents a form of chemical engineering that can dissolve mineral
 matrices, release bound nutrients, and alter soil pH over scales ranging from
-micrometres around individual hyphae to metres across entire mycelial networks.
+micrometres around individual hyphae to metres across entire [[fungal-mycelial-networks-nutrient-translocation]].
 
 ## Soil Aggregate Formation and Stabilization
 
@@ -84,11 +84,11 @@ and water-holding capacity, making it a key indicator of soil health.
 
 Fungi are the primary agents of decomposition for recalcitrant organic materials,
 particularly lignin and cellulose, the two most abundant organic polymers on Earth.
-White-rot basidiomycetes possess lignin peroxidase, manganese peroxidase, and
-laccase enzymes that can oxidatively depolymerize lignin, a feat matched by few
+White-rot basidiomycetes possess lignin peroxidase, [[fungal-manganese-peroxidase-remediation]], and
+[[singh-fungal-laccase-enzymes-bioremediation]] that can oxidatively depolymerize lignin, a feat matched by few
 other organisms.
 Brown-rot fungi employ a non-enzymatic Fenton chemistry mechanism to depolymerize
-cellulose, generating hydroxyl radicals through the reaction of hydrogen peroxide
+cellulose, generating hydroxyl radicals through the reaction of [[cervantes-hydrogen-peroxide-sterilization]]
 with ferrous iron.
 The decomposition activity of fungi has a characteristic spatial pattern that reflects
 their foraging strategy.
@@ -101,7 +101,7 @@ fungal biomass, reducing leaching losses from the ecosystem.
 The enzymatic capabilities of fungi extend beyond lignin and cellulose to include
 chitin, keratin, cutin, suberin, and a wide range of aromatic compounds.
 This enzymatic versatility allows fungi to decompose virtually all natural organic
-materials and many synthetic compounds, including polycyclic aromatic hydrocarbons,
+materials and many synthetic compounds, including [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons,
 polychlorinated biphenyls, and certain pesticides.
 This decomposer versatility positions fungi as key organisms in both natural carbon
 cycling and applied bioremediation.
@@ -139,4 +139,7 @@ other metals, and the physical penetration of mineral matrices by hyphal tips
 
 - [[common-mycorrhizal-networks]]
 - [[arbuscular-mycorrhizal-fungi]] for AMF symbiosis mechanisms
-- [[fungal-bioremediation]] for heavy metal and pollutant cleanup applications
+- fungal-bioremediation for heavy metal and pollutant cleanup applications
+- [[decomposition]]
+- [[mycelial-networks]]
+- [[mycorrhizal-fungi]]

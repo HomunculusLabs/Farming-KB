@@ -19,8 +19,8 @@ Psilocybe caerulea is a litter mushroom with distinctive bluish-green
 coloration that fades to yellow-green with age. Originally described
 as Stropharia caerulea, it was transferred to Psilocybe by Noordeloos.
 Found in manure-enriched soils and garden habitats across Europe and
-northwestern North America, it is possibly mildly active, though no
-chemical analyses have been published. The name "caerulea" refers to
+northwestern [[psilocybin-north-america-pacific-northwest]], it is possibly mildly active, though no
+[[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] have been published. The name "caerulea" refers to
 the azure blue color of fresh specimens. In Europe, P. caerulea is more
 common than its close relative Psilocybe aeruginosa.
 
@@ -53,7 +53,7 @@ Europe, and northwestern North America. It thrives in garden-like
 habitats and manure-enriched soils, making it one of the more
 accessible Psilocybe species for observation. The species is
 particularly associated with anthropogenic habitats: compost piles,
-enriched garden beds, and areas where organic matter has been
+enriched garden beds, and areas where [[hamilton-composting-and-organic-matter-management]] has been
 concentrated by human activity. In Europe, P. caerulea is reported
 more frequently than P. aeruginosa, suggesting it may be better
 adapted to the milder, more disturbed environments typical of
@@ -69,8 +69,8 @@ psychoactivity. The species illustrates the challenges of
 classifying mushrooms based on morphology alone, as the boundary
 between Stropharia and Psilocybe has been debated for decades.
 Its relative abundance in Europe compared to P. aeruginosa makes
-it an important subject for future chemical analysis that could
-confirm or deny its place among psychoactive fungi.
+it an important subject for future [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] that could
+confirm or deny its place among [[cattle-dispersal-psychoactive-fungi-australia]].
 
 ## See Also
 - [[psilocybe-southeast-asia-pacific]]

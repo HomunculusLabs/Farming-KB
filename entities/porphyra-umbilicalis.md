@@ -51,7 +51,7 @@ Seasonal growth patterns vary geographically. In northern populations, the thall
 
 ## Nutrition and Bioactive Compounds
 
-*Porphyra* species are among the most nutritious seaweeds, and *P. umbilicalis* is no exception. Protein content ranges from 25–45% of dry weight, the highest among commonly consumed macroalgae, with a favorable essential amino acid profile.
+*Porphyra* species are among the most nutritious seaweeds, and *P. umbilicalis* is no exception. Protein content ranges from 25–45% of dry weight, the highest among commonly consumed macroalgae, with a favorable essential [[cho-fish-amino-acid-preparation]] profile.
 
 The species is rich in B vitamins, particularly B12, B6, and folate. It also contains significant amounts of vitamin A (as beta-carotene), vitamin C, and vitamin E. These concentrations make it a valuable dietary supplement.
 
@@ -61,7 +61,7 @@ Phycoerythrin, the red pigment-protein complex, is a major bioactive compound wi
 
 Sulfated polysaccharides called porphyrans exhibit immunomodulatory, antiviral, and antitumor activities in preclinical studies. These compounds are structurally distinct from the fucoidans and carrageenans found in brown and red algae.
 
-The lipid fraction is rich in polyunsaturated fatty acids, particularly eicosapentaenoic acid (EPA), comprising 30–50% of total fatty acids. This makes *P. umbilicalis* a significant plant-based source of omega-3 fatty acids.
+The lipid fraction is rich in polyunsaturated [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]], particularly eicosapentaenoic acid (EPA), comprising 30–50% of total fatty acids. This makes *P. umbilicalis* a significant plant-based source of omega-3 fatty acids.
 
 ## Aquaculture and Harvesting
 
@@ -89,9 +89,9 @@ Modern commercial products include dried laver flakes, laver seasoning blends, a
 
 *Porphyra umbilicalis* plays an important role in intertidal food webs. The thin thallus is grazed by numerous herbivorous invertebrates including limpets, periwinkles, and amphipods. It is also consumed by some intertidal fish species.
 
-The species contributes significantly to primary production in the intertidal zone. Its high photosynthetic efficiency, combined with tolerance of extreme conditions, allows it to produce biomass in environments where few other organisms can survive.
+The species contributes significantly to [[lichens-primary-production-soil-formation-dighton]] in the intertidal zone. Its high photosynthetic efficiency, combined with tolerance of extreme conditions, allows it to produce biomass in environments where few other organisms can survive.
 
-During periods of thallus deterioration, particularly in summer, large quantities of organic material are released into the coastal ecosystem. This detritus supports benthic microbial communities and contributes to coastal nutrient cycling.
+During periods of thallus deterioration, particularly in summer, large quantities of organic material are released into the coastal ecosystem. This detritus supports benthic microbial communities and contributes to coastal [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 The conchocelis phase, which bores into mollusk shells, has a commensal relationship with its host. While the filaments extract minimal nutrients, heavy infestations can weaken shell integrity in commercially important bivalve species.
 

@@ -21,7 +21,7 @@ created: 2026-04-28
 
 Momordica charantia, commonly known as bitter melon or bitter gourd, is a tropical and subtropical vine in the family Cucurbitaceae.
 
-It is widely cultivated across South and Southeast Asia, Africa, and the Caribbean for its edible fruit.
+It is widely cultivated across South and [[psilocybe-southeast-asia-pacific]], Africa, and the Caribbean for its edible fruit.
 
 The fruit is distinctive for its warty, oblong appearance and intensely bitter flavor.
 
@@ -71,9 +71,9 @@ Fruiting begins 60–70 days after sowing, with harvest continuing for 2–3 mon
 
 Yields range from 10–20 tonnes per hectare under good management.
 
-Common pests include fruit flies, aphids, and powdery mildew in humid conditions.
+Common pests include fruit flies, aphids, and [[cervantes-powdery-mildew-prevention-treatment]] in humid conditions.
 
-Companion planting with allium species can help deter certain insect pests.
+[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] with allium species can help deter certain insect pests.
 
 ## Bioactive Compounds and Pharmacology
 
@@ -87,7 +87,7 @@ Polypeptide-p mimics insulin action, promoting glucose uptake in peripheral tiss
 
 Momordicosides are triterpenoid glycosides with anti-inflammatory and anticancer properties.
 
-Multiple clinical trials have shown bitter melon reduces fasting blood glucose in type 2 diabetics.
+Multiple [[mushroom-cancer-clinical-trials-overview]] have shown bitter melon reduces fasting blood glucose in type 2 diabetics.
 
 However, effects are modest compared to conventional pharmaceuticals, and standardization remains challenging.
 
@@ -119,9 +119,9 @@ The dense foliage provides shade and microclimate moderation for understory crop
 
 Its rapid growth makes it effective as a seasonal ground cover in agroforestry systems.
 
-The plant attracts pollinators and beneficial insects when in flower.
+The plant attracts pollinators and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] when in flower.
 
-Crop residue after harvest can be incorporated into compost as a nutrient-rich green material.
+[[jadam-crop-residue-fertilizer]] after harvest can be incorporated into compost as a nutrient-rich green material.
 
 ## See Also
 

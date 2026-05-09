@@ -1,5 +1,5 @@
 ---
-title: Cho's Natural Farming Philosophy
+title: Cho's Natural fukuoka-do-nothing-farming-philosophy-and-practice
 source: Dr. Cho Han Kyu's Korean Natural Farming System
 topics:
   - natural-farming
@@ -30,7 +30,7 @@ was influenced by the Green Revolution's heavy chemical reliance. Dr. Cho
 observed that while chemicals initially boosted yields, they gradually
 degraded soil health, increased costs, reduced quality, and created
 dependency. He sought an alternative maintaining productivity while
-restoring ecological balance.
+restoring [[fukuoka-ecological-balance-principles]].
 
 ## Maximizing Inborn Potential
 
@@ -50,7 +50,7 @@ materials and organisms, and maintaining ecological relationships that
 sustain ecosystem health. In practice, this translates to using indigenous
 microorganisms rather than laboratory strains, mulching with local plant
 materials, and managing pests through biological balance rather than
-chemical warfare. The farm is a living ecosystem the farmer stewards.
+[[solomon-root-exudates-and-allelopathy]]. The farm is a living ecosystem the farmer stewards.
 
 ## No Chemical Inputs
 
@@ -77,7 +77,7 @@ right times. The farmer's primary task is to feed and protect soil life.
 
 A distinctive aspect of Cho's approach is embracing grasses and weeds as
 beneficial components. Grasses protect soil from erosion, moderate
-temperature, conserve moisture, provide habitat for beneficial organisms,
+temperature, conserve moisture, provide [[query-how-do-i-design-habitat-for-beneficial-insects]] organisms,
 and contribute organic matter as mulch. Brown Rice Vinegar manages
 excessive weed growth without killing beneficial cover. This contrasts
 with conventional farming's emphasis on bare, clean soil, which Dr. Cho
@@ -115,7 +115,7 @@ the nutrient cycle on the farm.
 
 ## Pest and Disease Philosophy
 
-In Cho's philosophy, pests and diseases are symptoms of imbalance, not
+In Cho's philosophy, [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] are symptoms of imbalance, not
 enemies to eradicate. A healthy plant in healthy soil is naturally
 resistant. When pests appear, the farmer asks why rather than reaching
 for a pesticide. The answer usually involves nutrient imbalance, soil
@@ -139,7 +139,7 @@ Dr. Cho continued developing his system until his passing. The Janong
 ## See Also
 
 - [Nutritive Cycle Theory](cho-nutritive-cycle-theory.md)
-- [Indigenous Microorganisms (IMO)](indigenous-microorganisms-imo.md)
+- [[beneficial-indigenous-microorganisms-bim]] (IMO)](indigenous-microorganisms-imo.md)
 - [Natural Farming Inputs](natural-farming-inputs-cho.md)
 ## See Also
 - [[cho-indigenous-microorganisms-collection-and-cultivation]]

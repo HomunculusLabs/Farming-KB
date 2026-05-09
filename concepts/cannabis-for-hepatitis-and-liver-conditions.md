@@ -1,5 +1,5 @@
 ---
-title: "Cannabis for Hepatitis and Liver Conditions"
+title: "Cannabis for cannabis for hepatitis and liver conditions Conditions"
 created: "2026-04-17"
 updated: "2026-04-17"
 type: concept
@@ -15,9 +15,9 @@ The liver is the largest gland in the human body, performing essential functions
 
 Hepatitis is inflammation of the liver and can be characterized as acute or chronic. Acute hepatitis usually lasts no more than a couple of months. Chronic hepatitis can be a lifelong debilitating disease. Most commonly, the liver becomes inflamed as a result of the hepatic viruses A, B, C, D, or E, which represent a major health problem worldwide.
 
-Viral hepatitis is contagious, while non-viral forms are not. However, toxins, alcohol, and many pharmacological medications such as acetaminophen and ibuprofen can also produce hepatitis. Other viruses (such as those causing yellow fever), bacterial infections like leptospirosis, poisonous mushrooms, and autoimmune disease in which the body attacks its own liver can all cause hepatitis.
+Viral hepatitis is contagious, while non-viral forms are not. However, toxins, alcohol, and many pharmacological medications such as acetaminophen and ibuprofen can also produce hepatitis. Other viruses (such as those causing yellow fever), [[cannabis-for-bacterial-infections-and-mrsa]] like leptospirosis, [[palmer-poisonous-mushrooms-deadly-species]], and autoimmune disease in which the body attacks its own liver can all cause hepatitis.
 
-Signs and symptoms vary but include generalized weakness, decreased energy, loss of appetite, nausea, vomiting, diarrhea, clay-colored bowel movements, pain in joints or muscles, and headaches. Symptoms may progress to dark urine, jaundice (yellowing of skin and eyes), tenderness over the liver, enlarged spleen and lymph nodes. Chronic hepatitis can lead to cirrhosis (scarring), liver cancer, and premature death.
+Signs and symptoms vary but include generalized weakness, decreased energy, loss of appetite, nausea, vomiting, diarrhea, clay-colored bowel movements, pain in joints or muscles, and headaches. Symptoms may progress to dark urine, jaundice (yellowing of skin and eyes), tenderness over the liver, enlarged spleen and lymph nodes. Chronic hepatitis can lead to cirrhosis (scarring), [[cannabis-and-liver-cancer-research]], and premature death.
 
 ## Overview of Hepatitis Types
 
@@ -33,7 +33,7 @@ Cannabinoids have demonstrated the ability to minimize the frequent adverse side
 
 A study using THC, anandamide, and inhibition of FAAH (the enzyme that breaks down anandamide) in a murine (animal) model showed that all three approaches could inhibit hepatitis. A separate clinical study with 21 hepatitis C patients undergoing interferon and ribavirin therapy found that oral THC and Nabilone (a synthetic cannabinoid) reduced nausea and vomiting and improved appetite. A third study with 71 recovering substance users with hepatitis C found that cannabis users were able to maintain adherence to the challenging medication regimen.
 
-The combined CHI (Cannabis Health Index) value for hepatitis research is 8, based on 3 studies reviewed, indicating a moderate level of evidence-based confidence.
+The combined CHI ([[blesching-cannabis-health-index-autoimmune-conditions]]) value for hepatitis research is 8, based on 3 studies reviewed, indicating a moderate level of evidence-based confidence.
 
 ## Strain-Specific Considerations
 
@@ -45,7 +45,7 @@ For hepatitis, the anti-inflammatory and antiviral properties of cannabinoids ap
 
 ## Complementary and Supportive Approaches
 
-Several botanical allies have shown promise in supporting liver health alongside cannabis. Basil (Ocimum basilicum) extracts have demonstrated broad-spectrum antiviral activity including against hepatitis B in Taiwanese research. Clove essential oil has shown antiviral effects against hepatitis C in a Tunisian study. Saffron (Crocus sativus) may possess both anticancer activity and activity against hepatitis.
+Several botanical allies have shown promise in supporting liver health alongside cannabis. Basil (Ocimum basilicum) extracts have demonstrated broad-spectrum antiviral activity including against hepatitis B in Taiwanese research. Clove [[permaculture-designers-manual-essential-oil-plants]] has shown antiviral effects against hepatitis C in a Tunisian study. Saffron (Crocus sativus) may possess both anticancer activity and activity against hepatitis.
 
 Fennel has been shown to protect rats from chemically induced liver damage, and rosemary leaf infusions have been used in Cuba to treat liver and gallbladder conditions. These botanicals can be incorporated into a comprehensive liver-support protocol that includes [[cannabis-endocannabinoid-system]]
 - [[cannabis-for-diabetes-and-metabolic-syndrome]]
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -15,10 +15,10 @@ type: concept
 
 # Cool Humid Climate Design Overview
 
-Mollison devotes extensive attention to the cool humid climate zone, which
-covers much of northern Europe, eastern North America, southern South America,
+Mollison devotes extensive attention to the cool humid [[holzer-climate-zone-microclimate-creation]], which
+covers much of northern Europe, [[polypore-fungi-eastern-north-america]] America, southern South America,
 and highland regions globally. This is the most agriculturally productive
-temperate zone, but also the most demanding in terms of frost management and
+[[guzman-magic-mushrooms-temperate-zone-species]], but also the most demanding in terms of frost management and
 seasonal planning.
 
 ## Defining Features
@@ -41,7 +41,7 @@ Design must adapt accordingly.
 
 Understanding frost is fundamental to site design in these climates:
 
-- **Cold air drainage:** Cold air is denser and flows downhill like water,
+- **Cold [[hemenway-cold-air-drainage-and-frost-management]]:** Cold air is denser and flows downhill like water,
   pooling in valleys, hollows, and behind barriers. Mollison calls these
   "frost pockets" and advises against placing frost-sensitive plants or
   animal shelters in them.
@@ -70,7 +70,7 @@ Windbreaks are critical in cool humid climates for three reasons:
 2. Desiccating winter winds damage evergreens and cause soil erosion
 3. Windbreaks reduce heating costs for structures by 20-40%
 
-Mollison's windbreak design principles:
+Mollison's windbreak [[holmgren-permaculture-twelve-design-principles-framework]]:
 - Use multiple rows with mixed species for resilience
 - Include fast-growing pioneers (poplar, alder) alongside slower climax
   species (oak, beech) for rapid establishment
@@ -83,7 +83,7 @@ Mollison's windbreak design principles:
 
 Cool humid climate soils share several features:
 
-- **High organic matter accumulation:** The combination of adequate moisture
+- **High [[hamilton-composting-and-organic-matter-management]] accumulation:** The combination of adequate moisture
   and cool temperatures slows decomposition, allowing thick humus layers to
   develop. This is an asset -- these soils are naturally fertile.
 
@@ -108,3 +108,7 @@ storage during long winters.
 
 See also: [[mollison-designers-free-range-forage-design-principles]],
 [[holzer-climate-zone-microclimate-creation]]
+
+## See Also
+
+- [[cool-climate-home-garden-mollison]]

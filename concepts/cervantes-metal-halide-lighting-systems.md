@@ -1,11 +1,12 @@
 ---
-title: Metal Halide Lighting Systems
+title: cervantes metal halide lighting systems Lighting Systems
 created: 2026-04-28
 tags: [cannabis, lighting, metal-halide, hid, indoor-growing]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -18,7 +19,7 @@ cannabis cultivators and have been a staple since the 1970s. See also
 [[cervantes-high-pressure-sodium-lighting]],
 and [[cervantes-vegetative-phase]]
 due to their blue-heavy spectrum. They promote compact, bushy growth
-with short internodes. Many growers use MH for vegetative growth and
+with short internodes. Many growers use MH for [[cannabis-vegetative-growth-stage]] and
 switch to [[cervantes-flowering-phase]] for the red-heavy spectrum that promotes
 bud development.
 ## Practical Applications
@@ -38,7 +39,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -88,7 +89,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -98,4 +99,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -24,7 +24,7 @@ the fungal kingdom that span thousands of years.
 
 ## Ancient Origins: Mesoamerican Mushroom Cults
 
-The use of hallucinogenic mushrooms dates back several thousand
+The use of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] dates back several thousand
 years, with its center in the mountains of southern Mexico. The
 Aztecs called these mushrooms teonanacatl, meaning "flesh of
 the gods" in the Nahuatl language. Spanish chroniclers of the
@@ -43,7 +43,7 @@ desired by princes for their festivals and "fetch a high price."
 
 Archaeological evidence pushes the origins even further back.
 Mexican frescoes dating to approximately 300 AD feature designs
-suggestive of mushrooms. The mushroom stones excavated from
+suggestive of mushrooms. The [[mckenna-mushroom-stones-of-guatemala]] excavated from
 highland Maya sites in Guatemala, dating to approximately 1000
 BC, consist of a stem with a human or animal face surmounted by
 an umbrella-shaped top. Now interpreted as icons connected with
@@ -73,9 +73,9 @@ The modern era of psilocybin ethnobotany began with R. Gordon
 Wasson, a vice president of J.P. Morgan, who became fascinated
 with the cultural role of mushrooms. In 1955, Wasson and his
 wife Valentina participated in a mushroom velada ceremony with
-Mazatec curandera Maria Sabina in Huautla de Jimenez, Oaxaca.
-His 1957 Life magazine article "Seeking the Magic Mushroom"
-introduced psilocybin mushrooms to the Western world and
+Mazatec curandera [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]] in Huautla de Jimenez, Oaxaca.
+His 1957 Life magazine article "Seeking the [[australian-magic-mushroom-common-names]]"
+introduced [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] to the Western world and
 catalyzed scientific and cultural interest.
 
 ## McKenna's Stoned Ape Hypothesis
@@ -83,5 +83,7 @@ catalyzed scientific and cultural interest.
 [[psychedelic-plant-sources]] for broader context.
 
 ## See Also
+
+- [[coleus-blumei-and-coleus-pumilus-potential-psychoactivity]]
 
 - [[kava-kava-ethnobotany-chemistry]]

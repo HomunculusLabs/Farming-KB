@@ -1,5 +1,5 @@
 ---
-title: McKenna's Shamanism and Techniques of Ecstasy
+title: McKenna's mckenna shamanism and techniques of ecstasy of Ecstasy
 source: mckenna_t-food_of_the_gods.md
 topics: shamanism, ethnobotany, trance, healing, spirituality
 ---
@@ -30,7 +30,7 @@ must shamanize in order to remain cured.
 
 ## The Initiation
 
-The shamanic initiation involves a symbolic death and resurrection, which
+The shamanic initiation involves a symbolic [[allegro-death-and-resurrection-in-the-mushroom-cult]], which
 is understood as a radical transformation into a superhuman condition.
 The neophyte undergoes initiatory sickness and trances, lying as though
 dead or in deep trance for days on end. During this time, helping spirits
@@ -63,7 +63,7 @@ different from recreational drug use.
 
 ## The Shaman vs. the Patient
 
-A crucial distinction in shamanic healing is that usually, if drugs are
+A crucial distinction in [[metzner-shamanic-healing-and-divination-paradigm]] is that usually, if drugs are
 used, the shaman — not the patient — takes the drug. The motivation is
 entirely different from modern medicine. The shamanic plants allow the
 healer to journey into an invisible realm where the causality of the
@@ -119,17 +119,20 @@ experience that was shamanism's foundation.
 The suppression of shamanic gnosis, with its reliance on ecstatic
 dissolution of the ego, has robbed us of life's meaning, McKenna argued.
 We are killing the planet to keep intact the wrongheaded assumptions of
-the ego-dominator cultural style.
+the ego-dominator [[mckenna-cannabis-cultural-style-and-feminine-plant]].
 
 ## Modern Relevance
 
 McKenna saw the revival of interest in shamanic practices as part of a
-broader "Archaic revival" — a return to pre-industrial, pre-literate
-attitudes toward community, substance use, and nature. This revival
+broader "[[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]" — a return to pre-industrial, pre-literate
+[[weil-cultural-attitudes-toward-altered-states]] community, substance use, and nature. This revival
 represents a recovery of the relationship that humans evolved with nature
 through the use of psychoactive plants before the fall into history.
 
 ## See Also
+
+- [[mckenna-ecstasy-as-social-catalyst]]
+- [[shamanism-and-techniques-of-ecstasy]]
 
 - [[mckenna-stoned-ape-hypothesis]]
 - [[partnership-vs-dominator-culture-mckenna]]

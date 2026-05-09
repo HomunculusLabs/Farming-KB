@@ -1,5 +1,5 @@
 ---
-title: Psilocybe cubensis Flush Variation in Alkaloid Levels
+title: brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting bigwood-beug-miniculture-rye-grain-flush-variation-method in Alkaloid Levels
 created: 2026-05-08
 source: "Bigwood & Beug (1982). Variation of psilocybin and psilocin levels. Journal of Ethnopharmacology, 5(3), 287–291."
 tags:
@@ -19,11 +19,11 @@ strain** of *Psilocybe cubensis* (originally collected in Pucallpa, Peru).
 
 The key finding was that **psilocybin and psilocin do not follow the same
 pattern** across flushes. Their accumulation dynamics are independent, suggesting
-different biosynthetic regulation or degradation pathways for each compound.
+different biosynthetic regulation or [[staycare-chlorophenol-degradation-pathways-white-rot-fungi]] for each compound.
 
 ## Psilocin: Strong Flush-Dependent Pattern
 
-Psilocin exhibits a clear and reproducible pattern across successive flushes:
+Psilocin exhibits a clear and reproducible [[psilocin-accumulation-pattern-across-flushes]] successive flushes:
 
 ### Flushes 1–2: Absent or Near-Zero
 
@@ -75,7 +75,7 @@ The absence of a clear trend for psilocybin means that:
 
 ## Experimental Design
 
-Bigwood & Beug studied three independent rye grain minicultures of the Amazon
+Bigwood & Beug studied three independent [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] minicultures of the Amazon
 strain, each producing up to six flushes over a cultivation period of
 approximately 20 weeks. This design allowed assessment of both **within-strain
 variability** (differences between minicultures) and **between-flush
@@ -119,7 +119,7 @@ implications:
 - **Potency estimation from flush number is unreliable**: The independent
   variation of psilocybin and psilocin means that total psychoactive content
   cannot be predicted from flush number alone.
-- **Bioassay comparisons require chemical analysis**: Subjective potency
+- **Bioassay comparisons require [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]**: Subjective potency
   assessments across flushes are confounded by the complex and opposing
   patterns of the two active compounds.
 - **Research standardization demands analytical verification**: For clinical
@@ -127,6 +127,9 @@ implications:
   verified rather than assumed to have consistent potency.
 - **The early absence of psilocin is notable**: Mushrooms from the first flush
 ## See Also
+
+- [[flush-count-variation-brassinosteroid-treated-cultures]]
+- [[sam-stein-psilocybe-cubensis-bad-trip-1961]]
 
 - [[psilocybin-psilocin-chemistry]] — Chemical structure and pharmacology
 - [[psilocybe-cubensis-cap-stem-alkaloid-distribution]] — Cap vs. stem

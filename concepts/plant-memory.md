@@ -14,7 +14,7 @@ aliases: [plant learning, plant epigenetics, how plants remember, acquired
 
 The concept of plant memory challenges the conventional view that only
 animals with nervous systems can retain information about past experiences.
-[[mimosa]]-pudica]] habituation**: When touched repeatedly, the sensitive
+[[mimosa-pudica]] habituation**: When touched repeatedly, the sensitive
   plant's leaf-folding response diminishes over time. The plant "remembers"
   that the stimulus is not threatening and stops responding. This
   habituation can persist for 30–40 minutes.
@@ -51,7 +51,7 @@ mechanisms:
   modifications that alter gene expression patterns without changing the
   DNA sequence.
 - **Nutrient memory**: Offspring of plants grown in nutrient-poor
-  conditions may show altered root architecture and nutrient uptake
+  conditions may show altered root [[mycelial-cord-architecture-and-nutrient-translocation-basidiomycetes]] uptake
   strategies.
 
 ## Molecular Mechanisms
@@ -68,7 +68,7 @@ clock allows plants to anticipate regular environmental cycles:
   daytime gas exchange
 - **Floral opening**: Flowers open at specific times of day, timed by
   the circadian clock
-- **Insect defense**: Production of defensive compounds peaks when
+- **[[endophytic-fungi-grass-symbiosis-insect-defense-alkaloids-epichloe-neotyphodium]]**: Production of defensive compounds peaks when
   herbivorous insects are most active
 
 The circadian clock persists even in constant conditions (free-running
@@ -118,16 +118,18 @@ Plant memory has profound ecological implications:
 
 - **Invasive species success**: Plants with robust stress memory
   mechanisms may be better colonizers of novel environments
-- **Climate adaptation**: Epigenetic memory may facilitate rapid
+- **[[jeavons-climate-adaptation-growing-seasons]]**: Epigenetic memory may facilitate rapid
   adaptation to changing conditions without genetic mutation
 - **Agricultural breeding**: Understanding plant memory can improve crop
   resilience through priming treatments and epigenetic selection
 
 ## See Also
 
-- [[phytochrome-and-shade-avoidance]]
-- [[phytochrome-and-shade-avoidance]]
+- phytochrome-and-shade-avoidance
+- phytochrome-and-shade-avoidance
 
 ## See Also
 
 - [[plant-memory-what-a-plant-remembers]]
+- [[plant-memory-and-associative-learning]]
+- [[plant-memory-environmental-learning]]

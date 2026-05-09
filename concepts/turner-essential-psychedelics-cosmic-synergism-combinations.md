@@ -1,5 +1,5 @@
 ---
-title: Cosmic Synergism and Psychedelic Combinations - Turner's Essential Psychedelics Guide
+title: Cosmic Synergism and Psychedelic Combinations - Turner's turner-essential-psychedelics-5-meo-dmt-void-experience Guide
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,7 +10,7 @@ tags: [psychedelics]
 
 # Cosmic Synergism and Psychedelic Combinations
 
-Turner dedicates a full chapter to "Multiple Combinations -- Cosmic Synergism,"
+Turner dedicates a full chapter to "[[turner-multiple-combinations-cosmic-synergism]] -- Cosmic Synergism,"
 documenting his experiments combining various psychedelics. He notes that those
 who use multiple combinations typically exercise a high degree of caution, and
 that these combinations can be very heavy, both physically and mentally.
@@ -77,16 +77,16 @@ the ketamine recovery period is diminished when used with 2C-B.
 After extensive experimentation, Turner decided against combining ketamine with
 any natural psychedelics (psilocybin, mescaline, DMT). He felt that the
 "entities" of natural psychedelic realms were adverse to having their realms
-polluted by ketamine combinations. This was reinforced by an experience
+polluted by [[turner-ketamine-combinations-and-cydelikspace-navigation]]. This was reinforced by an experience
 combining ketamine with mescaline, where he felt he had seriously insulted
 "Mescalito" -- the living entity conglomeration of all mescaline experiences.
 
 ## Harmala as the Universal Potentiator
 
-Harmala alkaloids are the most versatile combination agent in Turner's guide:
+[[turner-harmala-alkaloids-preparation-and-dosage]] are the most versatile combination agent in Turner's guide:
 - Add a mystical, ancient quality to LSD
 - Intensify and extend both forms of DMT
-- Combine beautifully with psilocybin mushrooms
+- Combine beautifully with [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]
 - Are MAO inhibitors, also making DMT orally active
 - Produce feelings of subtle energy flowing and enhancement of perception
 - Give the sensation of being in a distant galaxy aeons in the future
@@ -108,7 +108,7 @@ realms have been explored for millennia by shamans and mystics.
 - psychedelic reality
 - cydelikspace
 - ego dissolution
-- set and setting
+- [[lsd-set-and-setting-framework]]
 - evolutionary consciousness
 - [[turner-ketamine-combinations-and-cydelikspace-navigation]]
 - [[turner-psychedelic-combination-experience-reports]]

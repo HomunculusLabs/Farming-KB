@@ -1,5 +1,5 @@
 ---
-title: "Inoculation Techniques and Hygiene"
+title: "cotter inoculation techniques and hygiene and Hygiene"
 created: 2026-04-28
 tags: [inoculation, hygiene, sanitation, contamination-prevention, spawn-run]
 date: 2026-04-25
@@ -11,10 +11,10 @@ type: concept
 
 # Inoculation Techniques and Hygiene
 
-Inoculation, the process of introducing mushroom spawn into prepared growing
-medium, is the most difficult step to master in mushroom cultivation. Sanitation
+Inoculation, the process of introducing [[cuthill-mushroom-spawn-preparation-historical]] into prepared growing
+medium, is the most difficult step to master in [[accessible-mushroom-cultivation-for-disabilities]]. Sanitation
 measures are critical since the grower is in direct contact with both prepared
-media and pure culture spawn. Clean tools, clean hands, clean floors, clean
+media and pure [[pure-culture-spawn-method-duggar-usda-1902]]. Clean tools, clean hands, clean floors, clean
 containers, and clean everything: it takes only one set of dirty hands to ruin
 an entire day or more of work.
 
@@ -40,7 +40,7 @@ remove them for other purposes.
 
 For bulk substrates, inoculation entails mixing spawn into the substrate,
 transferring the mixture to containers, and moving containers to the spawn run
-area. A basic method for oyster mushrooms on shredded straw is to cool media on
+area. A basic method for [[query-how-to-grow-oyster-mushrooms-at-home]] on shredded straw is to cool media on
 a clean tarp, mix spawn thoroughly, and fill containers immediately. Spread
 media in an even layer 3 to 4 inches deep, break spawn into the smallest
 fragments possible, broadcast evenly across the surface, and lightly rake in.
@@ -86,7 +86,7 @@ Handle spawn carefully before inoculation. Oyster mushroom spawn, for example,
 is extremely fast-growing and can become matted or overcolonized if left too
 long. Break apart matted spawn during inoculation as you spread it through the
 media. Record the details of each batch in a cultivation journal including
-growing media formulas, spawn rates, temperatures, and yield data. This
+growing [[growing-gourmet-agar-media-formulas-preparation]], spawn rates, temperatures, and yield data. This
 information is invaluable for refining your process over time.
 
 ## Sterile Inoculation for Laboratory Work

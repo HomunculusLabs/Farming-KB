@@ -21,9 +21,9 @@ sources:
 # Ergotamine
 
 Ergotamine is a naturally occurring **ergoline alkaloid** produced by the
-fungus *Claviceps purpurea* (ergot), a parasitic organism infecting rye and
+fungus *[[bloomfield-ergot-claviceps-purpurea-ergotism]]* (ergot), a parasitic organism infecting rye and
 other cereal grasses. First isolated in pure chemical form in 1918 by Arthur
-Stoll at Sandoz Laboratories, it was the first ergot alkaloid obtained in
+Stoll at Sandoz Laboratories, it was the first [[kykeon-composition-and-ergot-alkaloid-hypothesis]] obtained in
 chemically pure form and became one of the most important drugs in modern
 pharmacology.
 
@@ -35,7 +35,7 @@ pharmacology.
 - **Trade name**: Gynergen (original Sandoz preparation)
 - **Solubility**: Sparingly soluble in water; soluble in organic solvents
 
-Ergotamine is a peptide ergot alkaloid (ergopeptine) containing a lysergic acid
+Ergotamine is a peptide ergot alkaloid (ergopeptine) containing a [[ergot-and-lysergic-acid-history]]
 moiety linked to a tripeptide cyclol ring system. It belongs to the ergotamine
 group of ergopeptines, sharing the characteristic tetracyclic ergoline ring
 derived from lysergic acid with related compounds including ergostine,
@@ -61,7 +61,7 @@ same lysergic acid core as ergotamine.
 
 *Claviceps purpurea* is an ascomycete fungus growing parasitically on rye and
 other cereals. Infested kernels develop into light-brown to violet-brown curved
-sclerotia ("spurs") replacing normal grains. The fungus has two life cycle
+sclerotia ("spurs") replacing normal grains. The fungus has two [[bloomfield-fungal-life-cycle-spiral-versus-circle]]
 stages: an active stage producing alkaloid-rich sclerotia, and a dormant stage.
 When sclerotia fall to the ground, they sprout ascocarps bearing threadlike
 ascospores that disseminate to infect new grain heads, completing the cycle.
@@ -112,7 +112,7 @@ Ergotamine opened the field of ergot alkaloid pharmacology, yielding:
 
 ## Safety and Toxicity
 
-Ergotamine has a narrow therapeutic index. Overdose causes severe peripheral
+Ergotamine has a narrow [[cannabis-therapeutic-index-overview]]. Overdose causes severe peripheral
 vasoconstriction, ischemia, gangrene, nausea, vomiting, hypertension, and
 chronic ergotism. Contraindications include peripheral vascular disease,
 coronary artery disease, hypertension, and pregnancy (except specific obstetric
@@ -120,6 +120,11 @@ indications).
 
 ## See Also
 
+- [[lysergamide]]
+
 - [[dmt]] — non-ergoline psychedelic for comparison
-- [[ibotenic-acid-entity]] — glutamate-receptor agonist from Amanita species
+- ibotenic-acid-entity — glutamate-receptor agonist from Amanita species
 - [[psilocybin]] — mushroom-derived psychedelic acting on serotonin receptors
+- [[lysergic-acid]]
+- [[albert-hofmann]]
+- [[claviceps-purpurea]]

@@ -42,7 +42,7 @@ suggesting this is not the sole mechanism.
 
 ### Microbial Changes in the Rhizosphere
 
-AMF colonization alters the bacterial and fungal community composition
+AMF colonization alters the [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] [[core-endorhiza-bacterial-community-composition-cannabis]]
 of the rhizosphere and mycorrhizosphere. These changes may favor
 antagonistic microorganisms that suppress nematode populations. The
 mycorrhizosphere provides a larger zone of microbial influence compared
@@ -53,12 +53,12 @@ around the root system.
 
 AMF may physically occupy root cortical cells and intercellular spaces
 that would otherwise be available for nematode feeding sites. The
-presence of AMF structures in root tissues could directly interfere with
+presence of [[bacterial-associates-amf-structures-biocontrol]] in root tissues could directly interfere with
 nematode establishment and reproduction within the root.
 
 ### Biochemical Changes in Root Tissues
 
-Mycorrhizal colonization modifies root biochemistry, including the
+[[arbuscular-mycorrhizal-colonization-patterns]] modifies root biochemistry, including the
 production of defense-related compounds. These biochemical changes may
 render root tissues less suitable for nematode development. Symbiosis
 related proteins that accumulate during AMF colonization may also play a

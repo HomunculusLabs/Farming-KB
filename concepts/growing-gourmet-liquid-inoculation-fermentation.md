@@ -1,5 +1,5 @@
 ---
-title: Liquid Inoculation and Spore Mass Fermentation
+title: growing gourmet liquid inoculation fermentation and Spore Mass Fermentation
 created: 2026-04-26
 tags: [liquid-inoculation, fermentation, spawn-production, mushroom-cultivation, mycelium-expansion]
 date: 2026-04-25
@@ -11,15 +11,15 @@ type: concept
 
 # Liquid Inoculation and Spore Mass Fermentation
 
-Liquid inoculation techniques represent the frontier of
+Liquid [[cotter-inoculation-techniques-and-hygiene]] represent the frontier of
 efficient [[agrocybe-aegerita-detailed]] (Black Poplar Mushroom)
 - [[lentinula-edodes]] (Shiitake)
 - [[pleurotus-citrinopileatus]] (Golden Oyster)
 - [[pleurotus-eryngii]] (King Oyster)
-- [[pleurotus-pulmonarius]] (Phoenix Oyster)
+- [[pleurotus-pulmonarius]] ([[growing-gourmet-phoenix-oyster-pulmonarius-cultivation]])
 
 Excluded are mushrooms requiring microflora such as the
-Button Mushroom ([[agaricus-brunnescens]]) and King Stropharia
+[[growing-gourmet-button-mushroom-agaricus-cultivation]] ([[agaricus-brunnescens]]) and King Stropharia
 (Stropharia rugoso-annulata).
 
 ## Creating a Spore-Mass Master
@@ -101,13 +101,13 @@ failure.
 Theoretically, the germination of spores in mass creates
 multitudes of strains which will compete with one another
 for nutrients. This was long accepted as one of the
-"Commandments" of Mushroom Culture. Scientists in China,
+"Commandments" of [[mazatec-mushroom-culture-and-velada]]. Scientists in China,
 whose knowledge had not been contaminated by such pre-
 conceptions, first demonstrated that spore mass inoculation
 works effectively at commercial scale.
 
 ## References
 
-- Stamets, P. Growing Gourmet and Medicinal Mushrooms,
+- Stamets, P. Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]],
   Chapters 14-15.
 - Chang, S.T., J.A. Buswell & P.G. Miles (eds.), 1992.

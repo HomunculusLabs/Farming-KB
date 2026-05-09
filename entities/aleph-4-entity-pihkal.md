@@ -1,5 +1,5 @@
 ---
-title: "ALEPH-4 (4-Isopropylthio-2,5-dimethoxy-A) -- PIHKAL Entry #5"
+title: "ALEPH-4 (4-Isopropylthio-2,5-dimethoxy-A) -- 2c-b-pihkal-entry-20 #5"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -42,7 +42,7 @@ PIHKAL entry #5. 4-Isopropylthio-2,5-dimethoxy-A.
 > eyes-closed imagery that is just barely possible with music while
 > lying down. But, going outside, there were no obvious sources of the
 > sounds that I heard. Could I drive? I suspect so. I took a shower
-> and did just that Q I drove to San Francisco without incident, and
+> and did just that Q I drove to [[shipibo-san-francisco-ceremonial-center-ucayali]] without incident, and
 > walked amongst the many strange faces on the downtown streets.
 >
 > (with 12 mg) The experience was very intense but completely under
@@ -75,7 +75,7 @@ choose not to try them.
 A solution of 2.0 g
 2,5-dimethoxy-4-((i)-propylthio)benzaldehyde (see under 2C-T-4 for its
 synthesis) in 12 mL nitroethane was treated with 0.4 g anhydrous
-ammonium acetate and heated on the steam bath for 12 h, then allowed
+ammonium acetate and heated on the [[scythian-cannabis-steam-bath-ritual]] for 12 h, then allowed
 to stir for another 12 h at room temperature. The excess
 solvent/reagent was removed under vacuum leaving a residue as a heavy
 deep orange two-phase oily mass. This was brought into one phase with
@@ -97,7 +97,7 @@ anhydrous THF. This mixture was held at reflux for 1 day, then
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

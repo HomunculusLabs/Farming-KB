@@ -1,5 +1,5 @@
 ---
-title: Mental Health Applications (Blesching, Cannabis Health Index)
+title: Mental Health Applications (Blesching, blesching-cannabis-health-index-autoimmune-conditions)
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -37,7 +37,7 @@ Anxiety disorders affect nearly 2 in 10 people in the U.S. Five types: generaliz
 - A 2010 meta-analysis confirmed CBD's therapeutic potential as antipsychotic, anxiolytic, and antidepressant (Sao Paulo, Brazil)
 
 ### Biphasic Dose Response in Anxiety
-The relationship between cannabinoid dose and anxiety response follows a characteristic biphasic curve. Low-to-moderate doses of THC (2.5-10mg) produce anxiolytic effects, while higher doses (>15mg) frequently increase anxiety, paranoia, and heart rate. CBD modulates this curve -- when co-administered with THC, CBD raises the threshold at which THC begins producing anxiogenic effects. This biphasic pharmacology explains why some patients report both relief and worsening of anxiety from cannabis depending on dose and ratio. Blesching recommends patients carefully document dose-response relationships in a journal to identify their individual therapeutic window.
+The relationship between cannabinoid dose and anxiety response follows a characteristic biphasic curve. Low-to-moderate doses of THC (2.5-10mg) produce anxiolytic effects, while higher doses (>15mg) frequently increase anxiety, paranoia, and heart rate. CBD modulates this curve -- when co-administered with THC, CBD raises the threshold at which THC begins producing anxiogenic effects. This biphasic pharmacology explains why some patients report both relief and worsening of anxiety from cannabis depending on dose and ratio. Blesching recommends patients carefully document dose-response relationships in a journal to identify their individual [[blesching-cannabis-therapeutic-window-dosing]].
 
 ### Social Anxiety Disorder
 Social anxiety disorder (SAD) has one of the strongest evidence bases for cannabinoid treatment among anxiety subtypes. Key findings include:
@@ -76,7 +76,7 @@ Recent research has illuminated how cannabinoids may facilitate the processing o
 - Untreated first-episode paranoid schizophrenics showed anandamide levels **8 times higher** than healthy controls -- suggesting a compensatory adaptation to disease state (UC Irvine, 2004)
 - CBD reduces symptoms of acute paranoid schizophrenia as effectively as pharmaceutical Amisulpride but without significant side effects
 ### CBD's Mechanism in Psychosis
-CBD's antipsychotic action appears to work through a fundamentally different mechanism than conventional antipsychotics. Rather than blocking dopamine D2 receptors (the mechanism of both typical and atypical antipsychotics), CBD may act as a partial agonist at the 5-HT1A serotonin receptor and an allosteric modulator of CB1 and CB2 receptors. This explains its favorable side-effect profile: without D2 receptor blockade, patients avoid the extrapyramidal symptoms, weight gain, metabolic syndrome, and hyperprolactinemia associated with pharmaceutical antipsychotics. Functional MRI studies show that CBD normalizes aberrant neural activity patterns in the striatum, medial temporal lobe, and midbrain of schizophrenia patients.
+CBD's antipsychotic action appears to work through a fundamentally different mechanism than conventional antipsychotics. Rather than blocking dopamine D2 receptors (the mechanism of both typical and atypical antipsychotics), CBD may act as a partial agonist at the 5-HT1A serotonin receptor and an allosteric modulator of CB1 and CB2 receptors. This explains its favorable side-effect profile: without D2 receptor blockade, patients avoid the extrapyramidal symptoms, weight gain, [[cannabis-metabolic-syndrome-research]], and hyperprolactinemia associated with pharmaceutical antipsychotics. Functional MRI studies show that CBD normalizes aberrant neural activity patterns in the striatum, medial temporal lobe, and midbrain of schizophrenia patients.
 
 ### Caution
 Blesching notes cannabis may increase risk of developing schizophrenia in young adults with a known family history of psychosis. Cannabis is not itself a causal factor but may be a co-factor.
@@ -88,7 +88,7 @@ The ECS influences dopamine, norepinephrine, GABA, and glutamate -- all implicat
 Self-medication with cannabis among ADHD patients is widely reported in clinical surveys. A 2015 German study found that cannabis preparations improved concentration, sleep quality, and reduced impulsivity in adult ADHD patients. Cannabinoids may help compensate for dopaminergic deficits in the prefrontal cortex by modulating CB1 receptor activity, which indirectly influences dopamine release. However, Blesching cautions that long-term heavy cannabis use during adolescence may impair executive function, suggesting treatment should be reserved for adults or carefully supervised in younger patients.
 
 ### Obsessive-Compulsive Disorder
-OCD, classified among anxiety disorders in the DSM framework, has shown preliminary responsiveness to cannabinoid therapy. The endocannabinoid system modulates the cortico-striatal-thalamo-cortical (CSTC) circuit, which is hyperactive in OCD patients. Case reports describe patients achieving significant symptom reduction with THC-dominant preparations, particularly for intrusive thoughts. The anxiolytic properties of CBD may also reduce the distress associated with compulsive behaviors, though controlled clinical trials remain limited. Elevations in cerebrospinal fluid anandamide levels have been observed in OCD patients, paralleling findings in schizophrenia and suggesting a compensatory endocannabinoid upregulation in response to compulsive behavioral pathology.
+OCD, classified among anxiety disorders in the DSM framework, has shown preliminary responsiveness to cannabinoid therapy. The endocannabinoid system modulates the cortico-striatal-thalamo-cortical (CSTC) circuit, which is hyperactive in OCD patients. Case reports describe patients achieving significant symptom reduction with THC-dominant preparations, particularly for intrusive thoughts. The anxiolytic properties of CBD may also reduce the distress associated with compulsive behaviors, though controlled [[mushroom-cancer-clinical-trials-overview]] remain limited. Elevations in cerebrospinal fluid anandamide levels have been observed in OCD patients, paralleling findings in schizophrenia and suggesting a compensatory endocannabinoid upregulation in response to compulsive behavioral pathology.
 
 ## Dosing Considerations for Mental Health
 Blesching emphasizes that mental health applications require particularly careful dosing protocols. Key principles include:
@@ -108,7 +108,7 @@ Sleep disruption is both a symptom and a contributing factor to virtually every 
 
 ## Related Topics
 - [[blesching-cannabis-health-index-dosage-guidelines-medical]]
-- blesching cannabis health index mental health applications
+- blesching cannabis health blesching cannabis health index mental health applications health applications
 - [[cannabis-for-sleep-disorders]]
 - [[cannabis-sleep-disorders]]
 - [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]]

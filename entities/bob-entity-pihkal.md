@@ -1,5 +1,5 @@
 ---
-title: "BOB (4-Bromo-2,5,beta-trimethoxy-PEA) -- PIHKAL Entry #13"
+title: "BOB (4-Bromo-2,5,beta-trimethoxy-PEA) -- 2c-b-pihkal-entry-20 #13"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -28,7 +28,7 @@ PIHKAL entry #13. 4-Bromo-2,5,beta-trimethoxy-PEA.
 > in all, pretty negative.
 >
 > (with 10 mg) I had to get away and into myself, so I weeded in the
-> vegetable garden for almost an hour. Then I lay down in the bedroom,
+> [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] for almost an hour. Then I lay down in the bedroom,
 > and enjoyed a magnificent vegetable garden, in Southern France, in my
 > mind's eye. An extraordinary zucchini. And the weeds had all been
 > magically pulled. In another couple of hours a neurological
@@ -97,7 +97,7 @@ addition of 1.0 g
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

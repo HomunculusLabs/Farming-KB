@@ -5,7 +5,7 @@ type: species
 tags: [psilocybin, agaric, tropical, hallucinogenic, fungi]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3erpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md]
+sources: sources: []
 ---
 
 # Psilocybe singeriana
@@ -14,21 +14,21 @@ sources: [/Users/t3erpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamet
 
 ## Taxonomy and Etymology
 
-The species epithet commemorates Rolf Singer, one of the most prolific agaric taxonomists of the 20th century, who made significant contributions to the classification of Psilocybe and related genera. Singer's monographic work on agarics in tropical America laid the groundwork for understanding fungal diversity in neotropical regions. The species was described from material collected in tropical habitats.
+The species epithet commemorates Rolf Singer, one of the most prolific agaric taxonomists of the 20th century, who made significant contributions to the classification of Psilocybe and related genera. Singer's monographic work on agarics in tropical America laid the groundwork for understanding [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] in neotropical regions. The species was described from material collected in tropical habitats.
 
 ## Description
 
 ### Macroscopic Features
 
-- **Cap:** Convex to broadly convex, sometimes with a slight umbo. Surface smooth to slightly wrinkled, hygrophanous. Color ranges from brown to ochraceous when moist, fading to a paler tan or buff as it dries. Bluing reaction may be noticeable on bruising, especially on the cap margin.
+- **Cap:** Convex to broadly convex, sometimes with a slight umbo. Surface smooth to slightly wrinkled, hygrophanous. Color ranges from brown to ochraceous when moist, fading to a paler tan or buff as it dries. [[field-guide-psilocybin-bluing-reaction-identification]] may be noticeable on bruising, especially on the cap margin.
 - **Gills:** Adnate to sinuate, moderately crowded. Color progresses from grayish to dark purple-brown as spores mature.
 - **Stipe:** Central, cylindrical, and relatively slender. Surface is whitish to pale brown, sometimes with fine fibrils or a subtle silky sheen. Bluish discoloration develops where handled or injured.
 - **Partial Veil:** May form a thin, evanescent annular zone on the upper stipe, leaving little more than a fibrillose ring zone in maturity.
-- **Spore Print:** Dark purplish brown.
+- **[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Dark purplish brown.
 
 ### Microscopic Features
 
-- **Spores:** Ellipsoid to ovoid, thick-walled, with a prominent apical germ pore. Spore size is consistent with the typical range for Psilocybe section.
+- **Spores:** Ellipsoid to ovoid, thick-walled, with a prominent apical germ pore. Spore size is consistent with the typical range for [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]].
 - **Basidia:** Clavate, bearing four sterigmata.
 - **Cheilocystidia:** Abundant, polymorphic, often forming a sterile band on gill edges. Cells are ventricose with narrow necks, sometimes capitate.
 - **Pleurocystidia:** Present in some collections, similar in morphology to cheilocystidia.
@@ -43,7 +43,7 @@ Presumed to contain [[psilocin]] based on its placement in the genus and reporte
 
 ## Similar Species
 
-[[psilocybe-caerulescens-profile]] may also occur in similar habitats. Definitive identification requires microscopic examination of spore morphology and cystidial characters.
+psilocybe-caerulescens-profile may also occur in similar habitats. Definitive identification requires [[fungal-microscopic-examination-mounting-media-techniques]] of spore morphology and cystidial characters.
 
 ## Notes
 
@@ -66,7 +66,7 @@ most important locally.
 
 ## System Connections
 
-This topic often overlaps with nutrient cycling, habitat design, water
+This topic often overlaps with [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], habitat design, water
 management, and low-input production. In a farming knowledge base, those
 connections matter because a single intervention can affect pest
 pressure, soil biology, yields, and long-term resilience.

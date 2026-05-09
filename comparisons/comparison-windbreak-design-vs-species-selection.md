@@ -1,10 +1,11 @@
 ---
-title: "Windbreak Design vs Species Selection"
+title: "comparison windbreak design vs species selection vs Species Selection"
 created: 2026-04-28
 tags: [comparison, windbreak, shelterbelt, permaculture, agroforestry]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -35,11 +36,11 @@ flanks, and low shrubs along the outermost windward edge. Each position demands 
 densities, and lifespans to maintain the designed cross-sectional profile over decades.
 
 The choice between deciduous and evergreen species is a critical selection factor with significant seasonal implications. Deciduous species
-such as willows, poplars, and hackberries provide excellent summer wind protection and allow winter sunlight to reach adjacent areas, while
+such as willows, poplars, and hackberries provide excellent summer [[cervantes-wind-protection-outdoor-cannabis]] and allow winter sunlight to reach adjacent areas, while
 evergreen conifers like spruce, pine, and juniper offer continuous year-round shelter. In cold climates where winter wind chill is a primary
 concern, prioritizing evergreen species on the windward side ensures protection during the most damaging season.
 
-Nitrogen-fixing species play an especially valuable role in windbreak compositions. Trees and shrubs such as black locust, autumn olive, sea
+Nitrogen-fixing species play an especially valuable role in windbreak compositions. Trees and shrubs such as [[comparison-black-locust-vs-honey-locust]], autumn olive, sea
 buckthorn, and alder convert atmospheric nitrogen into plant-available forms, gradually improving soil fertility along the windbreak
 corridor. This is particularly beneficial in degraded or marginal soils where establishing any vegetation is challenging. Nitrogen fixers
 are often placed on the windward edge or interspersed throughout the rows, reducing external fertilizer inputs while supporting companion

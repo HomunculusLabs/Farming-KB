@@ -19,7 +19,7 @@ type: concept
 Ergot (*[[eleusinian-mysteries]] Connection
 
 It has been convincingly argued that ergot played a role in the
-Eleusinian mysteries of ancient Greece, the most important religious
+[[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] of ancient Greece, the most important religious
 initiation ceremony of the ancient Hellenic world. The mysteries at
 Eleusis, conducted for nearly two thousand years, may have involved
 the controlled use of ergot-containing preparations to induce visionary
@@ -30,7 +30,7 @@ the afterlife to those who underwent the secret ceremonies.
 ## Chemical Constituents and the Discovery of LSD
 
 The pharmacologically active constituents of ergot are ergoline
-alkaloids, mainly derivatives of lysergic acid. These alkaloids form
+alkaloids, mainly derivatives of [[ergot-and-lysergic-acid-history]]. These alkaloids form
 the basis of important medicines used today in obstetrics, internal
 medicine, and psychiatry. The most potent hallucinogen known, lysergic
 acid diethylamide (LSD), is a semisynthetic derivative of ergot.
@@ -49,7 +49,7 @@ plant. Its accidental psychoactive effects shaped European history,
 inspired religious speculation about ancient mysteries, and ultimately
 led to the synthesis of LSD. The ergot alkaloids demonstrate how natural
 substances, even those never intentionally used by human cultures, can
-open new frontiers in pharmacology and the study of altered states.
+open new frontiers in pharmacology and the study of [[weil-the-natural-mind-altered-states-normalcy]].
 
 The story of ergot also illustrates the thin line between poison and
 medicine, between accidental intoxication and deliberate visionary

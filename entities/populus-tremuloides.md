@@ -10,9 +10,9 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of North America: Volume 2, Hardwoods." USDA Forest Service Agriculture Handbook 654.
+  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 2, Hardwoods." USDA Forest Service Agriculture Handbook 654.
   - Mitton, J.B. & Grant, M.C. (1996). "Genetic variation and the natural history of quaking aspen." BioScience, 46(1), 25-31.
-  - DeByle, N.V. & Winokur, R.P. (1985). "Aspen: Ecology and Management in the Western United States." USDA Forest Service General Technical Report RM-119.
+  - DeByle, N.V. & Winokur, R.P. (1985). "Aspen: Ecology and Management in the Western [[dmt-containing-plants-united-states-halpern]]." USDA Forest Service General Technical Report RM-119.
   - Kemperman, J.A. & Barnes, B.V. (1976). "Clone size in American aspens." Canadian Journal of Botany, 54(22), 2605-2609.
 ---
 
@@ -24,7 +24,7 @@ It is the most widely distributed tree species on the continent, ranging from Al
 
 Quaking aspen is famous for forming massive clonal colonies through root suckering, including the "Pando" clone in Utah, which is considered one of the largest organisms on Earth by mass.
 
-The species is a fast-growing, shade-intolerant pioneer that colonizes disturbed sites and plays a critical role in forest succession across boreal and montane landscapes.
+The species is a fast-growing, shade-intolerant pioneer that colonizes disturbed sites and plays a critical role in [[mollison-designers-food-forest-succession-design]] across boreal and montane landscapes.
 
 ## Taxonomy and Morphology
 
@@ -40,7 +40,7 @@ The distinctive white bark provides effective camouflage against winter snow and
 
 **Leaves:** Alternate, nearly circular to broadly ovate, 3–8 cm in diameter, with a flattened petiole that allows the leaf blade to flutter in even light breezes.
 
-This fluttering movement reduces heat loading, increases photosynthetic efficiency through improved air circulation, and produces the characteristic "quaking" sound of aspen groves.
+This fluttering movement reduces heat loading, increases photosynthetic efficiency through improved [[stamets-growing-room-air-circulation-co2-management]], and produces the characteristic "quaking" sound of aspen groves.
 
 Leaf color in autumn is a brilliant golden-yellow, creating some of the most visually striking fall displays in the western United States and Canada.
 
@@ -52,7 +52,7 @@ Leaf color in autumn is a brilliant golden-yellow, creating some of the most vis
 
 ## Distribution and Habitat
 
-Quaking aspen occupies the broadest geographic range of any North American tree species, spanning from 55°N to 19°N latitude.
+Quaking aspen occupies the broadest geographic range of any [[growing-gourmet-north-american-reishi-species]] tree species, spanning from 55°N to 19°N latitude.
 
 In the east, it ranges from Newfoundland to Iowa and southward along the Appalachian Mountains. In the west, it occurs from Alaska through the Rocky Mountains into northern Mexico.
 
@@ -84,7 +84,7 @@ The species' early-successional nature creates a shifting mosaic of open and clo
 
 Aspen forests support higher avian species richness than adjacent conifer stands, including cavity-nesters that depend on the soft wood for excavation.
 
-Fungal pathogens, particularly those causing canker diseases and root rot, play a natural role in stand dynamics by creating gaps that trigger new sucker growth.
+[[bloomfield-fungal-pathogens-and-parasites]], particularly those causing canker diseases and root rot, play a natural role in stand dynamics by creating gaps that trigger new sucker growth.
 
 ## Timber and Uses
 
@@ -109,6 +109,8 @@ Trees typically reach 15–25 m in height at maturity, with a trunk diameter of 
 The species is highly susceptible to browsing damage by ungulates, which can suppress regeneration and prevent stand replacement in heavily grazed areas.
 
 ## See Also
+
+- [[populus-grandidentata]]
 
 - [[acer-saccharum]]
 - [[betula-pendula]]

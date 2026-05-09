@@ -1,5 +1,5 @@
 ---
-title: Mayan Tobacco Shamanism and Enema Rituals
+title: Mayan mckenna maya tobacco shamanism enemas and Enema Rituals
 created: 2026-04-28
 tags:
   - ethnobotany
@@ -17,7 +17,7 @@ type: concept
 
 [[nicotiana-rustica]]: The Shamanic Tobacco
 
-The tobacco [[stamets-mushrooms-world-south-america]]. This wild tobacco is far
+The tobacco stamets-mushrooms-world-south-america. This wild tobacco is far
 more potent, chemically complex, and potentially hallucinogenic than
 commercial cigarette tobacco. The difference between the two species is
 profound, representing entirely different relationships with the plant.
@@ -25,7 +25,7 @@ profound, representing entirely different relationships with the plant.
 N. rustica was cured and rolled into cigars which were smoked in rituals.
 The trancelike state that followed was central to Mayan shamanism. The
 effects were partially synergized by the presence of compounds that
-included MAO inhibitors, naturally occurring [[antiviral-properties-of-mushrooms]] nicotine.
+included MAO inhibitors, naturally occurring antiviral-properties-of-mushrooms nicotine.
 
 ## Chemical Complexity of Native Tobacco
 
@@ -43,7 +43,7 @@ Throughout the Americas, tobacco served as the ever-present adjunct to
 more powerful and visionary hallucinogenic plants wherever they were used
 in traditional and shamanic contexts. Tobacco is never used alone in
 authentic shamanic practice; it is always part of a larger pharmacological
-and ceremonial complex. Its role is supportive and preparatory, creating
+and [[elaphomyces-cordyceps-ceremonial-complex-oaxaca-guzman-1998]]. Its role is supportive and preparatory, creating
 the altered state foundation upon which deeper visionary experiences are
 built.
 
@@ -72,10 +72,10 @@ syringe, demonstrating the pervasiveness of this practice.
 
 If the enemas of the ancient Maya were like those of the Peruvian
 Indians, they were intoxicating or hallucinogenic. The preparations may
-the preparations may have consisted of fermented balche, a sacred honey mead.
-could have been fortified with tobacco or with morning glory seed
-infusions containing lysergic acid amide. Datura infusions, with their
-powerful tropane alkaloids, and even hallucinogenic mushrooms may have
+the preparations may have consisted of fermented balche, a sacred [[mckenna-honey-mead-dionysian-cult]].
+could have been fortified with tobacco or with [[golden-guide-morning-glory-and-ololiuqui]] seed
+infusions containing [[ergot-and-lysergic-acid-history]] amide. Datura infusions, with their
+powerful tropane alkaloids, and even [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] may have
 been administered in this manner. Tobacco infusions alone were certainly
 used.
 

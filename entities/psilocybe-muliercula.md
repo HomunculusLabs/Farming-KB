@@ -10,19 +10,19 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 # Psilocybe muliercula
 
-**Psilocybe muliercula** is a species of neurotropic mushroom in the family Strophariaceae, originally described from Mexico. It is one of the lesser-known psilocybin-containing fungi documented in the comprehensive worldwide survey by Guzmán, Allen & Gartz (1998), which cataloged 216 species of neurotropic fungi across four major groups. The species contributes to the extraordinary fungal biodiversity of Mexico, which possesses the highest diversity of neurotropic fungi of any country on Earth.
+**Psilocybe muliercula** is a species of neurotropic mushroom in the family Strophariaceae, originally described from Mexico. It is one of the lesser-known psilocybin-containing fungi documented in the comprehensive [[oyster-mushroom-substrate-materials-worldwide-survey-comparison]] by Guzmán, Allen & Gartz (1998), which cataloged 216 species of neurotropic fungi across four major groups. The species contributes to the extraordinary [[biodiversity-fungal-biodiversity-estimation-methods]] of Mexico, which possesses the highest diversity of neurotropic fungi of any country on Earth.
 
 ## Taxonomy
 
 *Psilocybe muliercula* was described by Gastón Guzmán as part of his extensive taxonomic work on Mexican Psilocybe species spanning several decades. Guzmán, the world's foremost authority on Psilocybe taxonomy, described dozens of new species from Mexico throughout his career. The specific epithet "muliercula" is derived from Latin, referring to the diminutive or delicate nature of the fruiting bodies. It belongs to the diverse assemblage of Psilocybe species found predominantly in the subtropical and tropical forests of southern Mexico, where the genus reaches its greatest species diversity.
 
-The genus Psilocybe was established by Paul Kummer in 1871 and currently contains over 200 described species worldwide. In the Guzmán, Allen & Gartz (1998) survey, 116 species of Psilocybe were recognized as neurotropic, making it by far the largest genus among the psychoactive fungi. The genus is characterized by dark purplish brown spore prints, the presence of a partial veil in many species, and the frequent development of a bluing reaction when the flesh is bruised or damaged.
+The genus Psilocybe was established by Paul Kummer in 1871 and currently contains over 200 described species worldwide. In the Guzmán, Allen & Gartz (1998) survey, 116 species of Psilocybe were recognized as neurotropic, making it by far the largest genus among the [[cattle-dispersal-psychoactive-fungi-australia]]. The genus is characterized by dark purplish brown spore prints, the presence of a partial veil in many species, and the frequent development of a [[field-guide-psilocybin-bluing-reaction-identification]] when the flesh is bruised or damaged.
 
 ## Distribution
 
 This species is endemic to Mexico, which holds the highest diversity of neurotropic fungi globally with 76 species, 44 of which belong to the genus Psilocybe — representing approximately 39% of the world's known psilocybin-containing Psilocybe species. Like many Mexican Psilocybe species, *P. muliercula* is associated with humid subtropical forest environments and is typically found growing on soil, often in association with decaying plant material or in grassy areas within or near forested regions.
 
-The concentration of neurotropic fungal diversity in Mexico is attributed to the country's varied topography, tropical and subtropical climate zones, and the long history of indigenous use that has driven scientific attention and collection efforts. The states of Oaxaca, Puebla, Veracruz, and Chiapas are particularly rich in Psilocybe species diversity, corresponding to areas where indigenous cultures have traditionally used psychoactive fungi in ceremonial and healing contexts.
+The concentration of neurotropic fungal diversity in Mexico is attributed to the country's varied topography, tropical and subtropical [[mollison-climate-zones-permaculture-strategies]], and the long history of indigenous use that has driven scientific attention and collection efforts. The states of Oaxaca, Puebla, Veracruz, and Chiapas are particularly rich in Psilocybe species diversity, corresponding to areas where indigenous cultures have traditionally used psychoactive fungi in ceremonial and healing contexts.
 
 ## Description
 
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

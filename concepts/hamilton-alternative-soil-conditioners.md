@@ -1,5 +1,5 @@
 ---
-title: Alternative Soil Conditioners in Organic Gardening
+title: Alternative Soil Conditioners in hamilton-geoffhamilton-nick-organic-gardening-companion-planting
 created: 2026-04-28
 tags: [soil-conditioners, compost, organic-gardening, hamilton, amendments]
 date: 2026-04-25
@@ -20,10 +20,10 @@ properties.
 
 ## Spent Mushroom Compost
 
-A mixture of horse manure, peat, and chalk prepared by commercial
+A mixture of [[falconer-horse-manure-varieties]], peat, and chalk prepared by commercial
 mushroom growers. It is a very useful, if slightly alkaline, soil
 conditioner. Leave it for at least a year before use to leach out
-chemical insecticides and eliminate pests such as fungus gnats. After
+chemical insecticides and eliminate pests such as [[query-how-to-control-fungus-gnats-organically]]. After
 a year it should have the consistency of coarse peat.
 
 Mushroom compost can be put directly onto soil around plants but use
@@ -81,10 +81,10 @@ Coverage: 0.5 to 1 lb (0.25 to 0.5kg) per square yard/meter.
 ## Composted Pine Bark
 
 Chipped bark from the timber industry, sometimes partially composted
-before sale. It makes an excellent mulch for organic weed control.
+before sale. It makes an excellent mulch for organic [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]].
 However, it has no nutrient value and two significant disadvantages.
 First, it is very expensive. Second, the lignin in bark takes a long
-time to break down, so bacteria use nitrogen in the rotting process.
+time to [[query-can-fungi-break-down-plastic-pollution]], so bacteria use nitrogen in the rotting process.
 Unless you add large amounts of nitrogen fertilizer, use bark only as
 a mulch rather than a soil conditioner dug into the ground.
 
@@ -114,7 +114,7 @@ is getting watering and feeding regimes right.
 
 Fallen leaves can be collected and composted separately to produce leaf
 mold, an excellent soil conditioner. Leaves break down more slowly than
-other organic matter because they contain more lignin. Collect leaves in
+other [[hamilton-composting-and-organic-matter-management]] because they contain more lignin. Collect leaves in
 autumn, store in black plastic bags with a few holes punched in, or
 pile in a wire mesh enclosure. After one to two years, the leaves will
 have broken down into a dark, crumbly material ideal for improving soil

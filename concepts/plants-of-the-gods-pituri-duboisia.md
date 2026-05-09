@@ -80,7 +80,7 @@ The book notes that Pituri leaves have been used for at least 40,000
 years in Australian rituals, making it one of the longest-documented
 continuous psychoactive plant uses in human history. This timescale
 predates the arrival of modern humans in Europe and the development
-of agriculture in the Near East.
+of agriculture in the [[ancient-cannabis-use-near-east-and-egypt]].
 
 ## Comparison with Other Solanaceous Drugs
 
@@ -90,7 +90,7 @@ affinities with other hallucinogenic solanaceous plants documented in
 and Brugmansia. However, Pituri's primary alkaloids are
 nicotine-related rather than the tropane alkaloids (atropine,
 the tropane alkaloids (atropine, scopolamine, hyoscyamine) that dominate
-the Old World solanaceous hallucinogens.
+the [[datura-metel-old-world-ethnobotany]] solanaceous hallucinogens.
 
 ## Aboriginal Australian Context
 

@@ -16,7 +16,7 @@ created: 2026-04-28
 
 # Nutrified Agar Media Formulas and Preparation for Mushroom Culture
 
-Agar media is the foundational substrate for mushroom tissue culture. It provides the nutrients and physical structure necessary for isolating, purifying, and expanding mushroom mycelium in the laboratory. The selection and preparation of agar media directly influences the rate and character of mycelial growth, making it one of the most critical skills in mushroom cultivation.
+Agar media is the foundational [[grass-seed-substrate-for-mushroom-cultivation]] tissue culture. It provides the nutrients and physical structure necessary for isolating, purifying, and expanding mushroom mycelium in the laboratory. The selection and preparation of agar media directly influences the rate and character of mycelial growth, making it one of the most critical skills in mushroom cultivation.
 
 ## Standard Agar Media Formulas
 
@@ -34,7 +34,7 @@ Potato Dextrose Yeast Agar utilizes potato extract as its base carbohydrate sour
 
 ### Oatmeal Malt Yeast Enriched Agar (OMYA)
 
-Oatmeal-based media provides a complex carbohydrate source that more closely mimics the natural substrate of many mushroom species. The oatmeal component adds micronutrients and trace minerals not found in simpler sugar-based media. This medium is particularly favored for species that are difficult to fruit, as it can stimulate more natural mycelial behavior.
+Oatmeal-based media provides a complex carbohydrate source that more closely mimics the natural substrate of many mushroom species. The oatmeal component adds [[teaming-with-nutrients-micronutrients-and-trace-elements]] minerals not found in simpler sugar-based media. This medium is particularly favored for species that are difficult to fruit, as it can stimulate more natural mycelial behavior.
 
 ### Dog Food Agar (DFA)
 
@@ -51,7 +51,7 @@ A critical technique for improving strain performance is the addition of end-sub
 - **Acclimates the mycelium to its destined fruiting habitat**, selectively activating its enzymatic systems
 - **Challenges the mycelium** to produce the specific enzymes needed for that substrate
 - **Improves downstream performance** — mycelia grown with end-substrate additions colonize fruiting substrates faster and fruit sooner
-- **Parent cells retain genetic memory** that is passed downstream through the mycelial networks
+- **Parent cells retain genetic memory** that is passed downstream through the [[fungal-mycelial-networks-nutrient-translocation]]
 
 Substrates high in endospores (such as manures or soils) should be treated by first boiling an aqueous concoction for at least an hour. After boiling, sugar, agar, and other supplements are added, and the media is sterilized using standard procedures.
 
@@ -93,7 +93,7 @@ After the media components have been combined and sterilized, the hot liquid aga
 
 ### Cloning Wild Specimens vs. Cultivated Mushrooms
 
-Starting a mushroom strain by cloning involves transferring a small piece of mushroom tissue onto sterile agar media. Wild specimens require more careful handling because they carry a higher microbial load than cultivated mushrooms. Surface sterilization protocols for wild specimens should be more rigorous, often involving a series of alcohol and hydrogen peroxide dips.
+Starting a mushroom strain by cloning involves transferring a small piece of mushroom tissue onto sterile agar media. Wild specimens require more careful handling because they carry a higher microbial load than cultivated mushrooms. [[challenge-organisms-nasa-microwave-surface-sterilization-testing]] protocols for wild specimens should be more rigorous, often involving a series of alcohol and [[cervantes-hydrogen-peroxide-sterilization]] dips.
 
 ### Tissue Culture Procedure
 
@@ -105,7 +105,7 @@ The tearing method is preferred over cutting because tearing separates the tissu
 
 Spore collection is accomplished by placing a mature mushroom cap gills-down on a clean sheet of paper, foil, or glass. Within hours to days, a spore print forms as millions of spores are released from the basidia. These spores can then be hydrated and germinated on agar media.
 
-Spore germination rates vary enormously by species, strain age, and storage conditions. The advantage of spore germination is genetic diversity — each spore represents a unique recombinant genotype, allowing the cultivator to screen for superior performers. The disadvantage is that each spore germination produces a monokaryotic mycelium that must undergo dikaryotization before it can form fruiting bodies.
+Spore germination rates vary enormously by species, strain age, and [[vegetable-storage-conditions-by-temperature-and-humidity]]. The advantage of spore germination is genetic diversity — each spore represents a unique recombinant genotype, allowing the cultivator to screen for superior performers. The disadvantage is that each spore germination produces a monokaryotic mycelium that must undergo dikaryotization before it can form fruiting bodies.
 
 ## Purifying a Culture
 
@@ -134,5 +134,8 @@ Cultivators should routinely include uninoculated control plates alongside inocu
 ## Related Concepts
 
 - [[growing-gourmet-volunteer-primordia-agar-media|Volunteer Primordia on Agar Media]]
-- [[growing-gourmet-strain-evaluation-28-features|28 Features for Strain Evaluation]]
+- 28 Features for Strain Evaluation
 - [[growing-gourmet-culture-slant-preservation-cryogenic-storage|Culture Slant Preservation and Cryogenic Storage]]
+- [[growing-gourmet-volunteer-primordia-agar-media]]
+- [[growing-gourmet-mycelial-morphology-classification-agar-media]]
+- [[hypholoma-sublateritium]]

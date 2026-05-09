@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-**Limnophila aromatica** (Lam.) Merr., commonly known as rice paddy herb, rao răm (Vietnamese), or phak kayang (Lao), is an aromatic aquatic or semi-aquatic herb in the family Plantaginaceae. It is widely cultivated and foraged across Southeast Asia as a culinary herb and traditional medicinal plant.
+**Limnophila aromatica** (Lam.) Merr., commonly known as rice paddy herb, rao răm (Vietnamese), or phak kayang (Lao), is an aromatic aquatic or semi-aquatic herb in the family Plantaginaceae. It is widely cultivated and foraged across [[psilocybe-southeast-asia-pacific]] as a culinary herb and traditional medicinal plant.
 
 The species is most recognized for its distinctive herbaceous aroma with citrus and cumin notes, which complements sour soups and fish dishes. It is an essential ingredient in Vietnamese *canh chua* (sour soup) and Lao *kaeng som*.
 
@@ -56,13 +56,13 @@ The flavor profile combines elements of cumin, lemon, and a mild bitterness. Som
 
 ## Bioactive Compounds and Traditional Medicine
 
-The essential oil of L. aromatica is rich in monoterpenes and sesquiterpenes. Major constituents include limonene, perillaldehyde, α-terpineol, and elemol. The oil composition varies by geographic origin and harvest timing.
+The essential oil of L. aromatica is rich in monoterpenes and sesquiterpenes. Major constituents include limonene, perillaldehyde, α-terpineol, and elemol. The oil composition varies by geographic origin and [[cannabis-harvest-timing-visual-cues]].
 
 In Vietnamese folk medicine, the herb is used to treat digestive complaints, flatulence, and fever. A decoction of the whole plant is consumed for coughs and respiratory ailments.
 
-In Ayurvedic traditions of India, Limnophila species are used as diaphoretics and for treating skin conditions. L. aromatica is sometimes used interchangeably with related species in local herbal practice.
+In Ayurvedic traditions of India, Limnophila species are used as diaphoretics and for treating [[cannabis-for-skin-conditions-detailed]]. L. aromatica is sometimes used interchangeably with related species in local herbal practice.
 
-Modern pharmacological studies have demonstrated antioxidant, anti-inflammatory, and antimicrobial activities for leaf extracts. In vitro studies show activity against *Staphylococcus aureus* and *Candida albicans*.
+Modern pharmacological studies have demonstrated antioxidant, anti-inflammatory, and antimicrobial activities for leaf extracts. In vitro studies show activity against *Staphylococcus aureus* and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*.
 
 ## Cultivation
 
@@ -76,7 +76,7 @@ Harvesting begins 30–45 days after planting. The herb can be harvested multipl
 
 L. aromatica contributes to aquatic biodiversity by providing habitat and food for small invertebrates in rice paddy ecosystems. The plant helps maintain water quality by absorbing excess nutrients.
 
-In integrated rice-aquaculture systems, the herb serves as both a crop and habitat plant. Its presence supports beneficial insect populations that contribute to natural pest control in rice paddies.
+In integrated rice-aquaculture systems, the herb serves as both a crop and habitat plant. Its presence supports [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] populations that contribute to natural pest control in rice paddies.
 
 ## Related Species
 
@@ -94,7 +94,7 @@ Rice paddy herb is primarily harvested from the wild or from informal cultivatio
 
 Urbanization and the conversion of traditional rice paddies to aquaculture or development threaten wild populations in Vietnam's Mekong Delta and around Bangkok. However, the species is not currently considered at risk.
 
-The growing interest in Southeast Asian cuisine globally has increased demand for the fresh herb in diaspora communities. Export of fresh or frozen rice paddy herb from Thailand and Vietnam to North America, Europe, and Australia is expanding.
+The growing interest in Southeast Asian cuisine globally has increased demand for the fresh herb in diaspora communities. Export of fresh or frozen rice paddy herb from Thailand and Vietnam to [[psilocybin-north-america-pacific-northwest]], Europe, and Australia is expanding.
 
 ## Distinction from Similar Culinary Herbs
 
@@ -110,5 +110,5 @@ In Cambodian markets, the herb may be sold alongside *Oenanthe javanica* (water 
 - [[ocimum-basilicum]]
 - [[zingiber-officinale]]
 - [[murraya-koenigii]]
-- [[ocimum-sanctum]]
+- ocimum-sanctum
 - [[salvia-officinalis]]

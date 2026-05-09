@@ -33,7 +33,7 @@ sources:
 
 The species is a rhizomatous perennial that forms dense colonies in marshy areas, stream banks, and alkaline wetlands. It produces distinctive white cone-shaped flower spikes surrounded by white bracts in spring, resembling a single flower from a distance.
 
-Yerba mansa is one of the most important medicinal plants in the ethnobotany of the American Southwest. It occupies a similar cultural niche to goldenseal (*Hydrastis canadensis*) in eastern North American herbalism, and is sometimes used as a substitute.
+Yerba mansa is one of the most important medicinal plants in the ethnobotany of the American Southwest. It occupies a similar cultural niche to goldenseal (*Hydrastis canadensis*) in [[polypore-fungi-eastern-north-america]] American herbalism, and is sometimes used as a substitute.
 
 ## Taxonomy and Morphology
 
@@ -45,7 +45,7 @@ Yerba mansa is one of the most important medicinal plants in the ethnobotany of 
 
 **Flowers:** Inflorescence is a dense conical spike 1–3 cm long on a stout scape 15–30 cm tall. The spike is subtended by 4–6 large white bracts, 1–2 cm long, giving the appearance of a single flower. Individual flowers are small and lack sepals and petals.
 
-**Roots:** Extensive creeping rhizome system with thick, fleshy, reddish-brown roots that produce a warm, spicy aroma when broken. The rhizome is the primary medicinal part and contains the highest concentration of bioactive compounds.
+**Roots:** Extensive creeping rhizome system with thick, fleshy, reddish-brown roots that produce a warm, spicy aroma when broken. The rhizome is the primary medicinal part and contains the highest concentration of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]].
 
 ## Distribution and Habitat
 
@@ -59,7 +59,7 @@ Elevation range is from near sea level to approximately 2000 meters. It is most 
 
 Yerba mansa is among the most widely used medicinal plants in Southwestern herbal traditions. The Pueblo, Navajo, Apache, Hopi, and numerous other indigenous groups employ it for a broad range of conditions.
 
-The most common preparation is a decoction of the dried rhizome, used as a wash or soak for skin infections, wounds, burns, and fungal conditions. The anti-inflammatory and antimicrobial properties make it effective for treating cuts, abrasions, and slow-healing ulcers.
+The most common preparation is a decoction of the dried rhizome, used as a wash or soak for skin infections, wounds, burns, and fungal conditions. The anti-inflammatory and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] make it effective for treating cuts, abrasions, and slow-healing ulcers.
 
 Internal use includes tea for digestive complaints, respiratory infections, colds, and sore throats. The plant is valued as a blood purifier and general tonic. Some traditions use it for arthritis pain and joint inflammation.
 
@@ -73,7 +73,7 @@ The rhizome contains methyleugenol, a phenylpropene compound that contributes bo
 
 Flavonoids and phenolic compounds from the rhizome demonstrate significant free radical scavenging activity. Methanol and aqueous extracts show antioxidant capacity comparable to standard references in DPPH and lipid peroxidation assays.
 
-Antimicrobial activity has been confirmed against both Gram-positive and Gram-negative bacteria, including *Staphylococcus aureus*, *Streptococcus pyogenes*, and *Escherichia coli*. Antifungal activity against *Candida albicans* and *Aspergillus niger* has also been documented.
+Antimicrobial activity has been confirmed against both Gram-positive and Gram-negative bacteria, including *Staphylococcus aureus*, *Streptococcus pyogenes*, and *Escherichia coli*. Antifungal activity against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and *Aspergillus niger* has also been documented.
 
 Anti-inflammatory effects include inhibition of cyclooxygenase (COX) enzymes and reduction of pro-inflammatory cytokines (TNF-α, IL-6) in vitro. These mechanisms support the traditional use for inflammatory skin and mucosal conditions.
 
@@ -89,11 +89,11 @@ Rhizome harvest for medicinal use typically begins in the second or third year a
 
 ## Permaculture and Ecological Applications
 
-*Anemopsis californica* has significant potential in constructed wetlands and water-treatment systems. Its tolerance for saline and alkaline conditions makes it useful for phytoremediation of contaminated water in arid regions.
+*Anemopsis californica* has significant potential in [[comparison-constructed-wetlands-vs-bioswales]] and water-treatment systems. Its tolerance for saline and alkaline conditions makes it useful for phytoremediation of contaminated water in arid regions.
 
 The dense root mat stabilizes stream banks and marsh edges against erosion. In permaculture designs, yerba mansa can serve as a living mulch around seasonal water features, providing both medicinal harvest and ecological services.
 
-It is a valuable component of native pollinator gardens in the Southwest, attracting native bees and beneficial insects during its spring flowering period. The spreading rhizome habit creates habitat for amphibians and aquatic invertebrates.
+It is a valuable component of native pollinator gardens in the Southwest, attracting native bees and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] during its spring flowering period. The spreading rhizome habit creates habitat for amphibians and aquatic invertebrates.
 
 ## See Also
 

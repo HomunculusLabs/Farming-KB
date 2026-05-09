@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Drug Testing and Adulterant Screening
+title: Psychedelic psychedelic drug testing and adulterant screening and Adulterant Screening
 created: 2026-04-17
 updated: 2026-04-18
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Drug testing is one of the most important harm reduction practices available. The unregulated nature of many psychoactive substances means that what you receive may not be what you expect. Adulterants, substitutes, and misidentified compounds can turn a manageable experience into a dangerous or fatal one. Reagent testing and fentanyl test strips provide accessible, low-cost methods to verify substance identity before consumption.
+Drug testing is one of the most important [[adverse-effects-and-harm-reduction-psilocybin]] practices available. The unregulated nature of many psychoactive substances means that what you receive may not be what you expect. Adulterants, substitutes, and misidentified compounds can turn a manageable experience into a dangerous or fatal one. Reagent testing and fentanyl test strips provide accessible, low-cost methods to verify substance identity before consumption.
 
 ## Why Test Matters
 
@@ -111,7 +111,7 @@ Test every substance that did not come directly from a pharmaceutical source or 
 - MDMA (powder and pills)
 - Methamphetamine
 - Counterfeit pharmaceuticals (Xanax, OxyContin, Adderall)
-- Heroin (ubiquitously in North America)
+- Heroin (ubiquitously in [[psilocybin-north-america-pacific-northwest]])
 
 ## Interpreting Results
 

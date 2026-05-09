@@ -1,14 +1,12 @@
 ---
-title: Mycorrhizal Carbon and Nutrient Economics
+title: mycoheterotrophic-plants-mycorrhizal-carbon-theft and Nutrient Economics
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
-tags: [[mycology, soil-biology, symbiosis]
+tags: [mycology, soil-biology, symbiosis]
 sources: ["raw/papers/john-dighton-fungi-in-ecosystem-processes.md"]
 ---
-# Mycorrhizal Carbon and Nutrient Economics
-
-Mycorrhizal fungi form the largest biological interface between plants and soil, mediating massive fluxes of carbon, nitrogen, phosphorus, and other nutrients. The economics of these exchanges determine ecosystem productivity, soil carbon storage, and plant community composition. See [[fungal-biogeochemistry]] for broader context.
+# Mycorrhizal Carbon and Nutrient Economics Mycorrhizal fungi form the largest biological interface between plants and soil, mediating massive fluxes of carbon, nitrogen, phosphorus, and other nutrients. The economics of these exchanges determine ecosystem productivity, soil carbon storage, and plant community composition. See [[fungal-biogeochemistry]] for broader context.
 
 ## Carbon Flux to Mycorrhizal Fungi
 
@@ -16,7 +14,7 @@ Mycorrhizal fungi form the largest biological interface between plants and soil,
 
 EM associations dominate in boreal and temperate forests:
 - 10-30% of net photosynthate passes into EM fungi in forest ecosystems
-- EM mycelium accounts for over 70% of total soil microbial biomass in boreal forests
+- EM mycelium accounts for over 70% of total soil microbial biomass in [[fungal-diversity-boreal-forests-taiga]]
 - EM mycelium has unusually high C:N ratios (18.5-21.9), making it a significant carbon sink
 - 14C analysis shows ECM sporocarps contain carbon photosynthetically fixed only 0-2 years previously
 - The "Gadgil effect": EM fungi suppress saprotrophic decomposition by competing for limiting nutrients, increasing C:N and C:P ratios of remaining residues
@@ -27,16 +25,16 @@ See [[arbuscular-mycorrhizal-fungi]] for further details on AM biology.
 
 ERM associations dominate in heathlands and acidic soils:
 - ERM fungi enable incomplete decomposition of lignocellulose
-- This produces recalcitrant humic compounds that accumulate as soil organic matter
+- This produces recalcitrant humic compounds that accumulate as soil [[hamilton-composting-and-organic-matter-management]]
 - ERM associations contribute to the characteristic thick organic horizons of heathland soils
 
-See [[glomalin]] is the recalcitrant glycoprotein produced by AM hyphae that contributes significantly to stable soil carbon pools.
+See [[glomalin-and-soil-carbon]] is the recalcitrant glycoprotein produced by AM hyphae that contributes significantly to stable soil carbon pools.
 
 ## Nitrogen Economics
 
 ### The Saprotrophic-Mycorrhizal Divide
 
-Stable isotope studies (δ15N) reveal a consistent pattern: ECM fungi are enriched in 15N compared to both their host plants and saprotrophic fungi. This reflects the distinct nitrogen sources used by each guild:
+[[fungal-stable-isotope-ecology]] studies (δ15N) reveal a consistent pattern: ECM fungi are enriched in 15N compared to both their host plants and saprotrophic fungi. This reflects the distinct nitrogen sources used by each guild:
 - **Saprotrophs**: Decompose organic matter, acquiring nitrogen from diverse sources
 - **ECM fungi**: Directly access organic nitrogen (amino acids, proteins) from soil organic matter, fractionating isotopes differently
 - **Plants**: Receive nitrogen from mycorrhizal partners, showing the most depleted 15N values
@@ -59,9 +57,9 @@ Cord-forming basidiomycetes demonstrate sophisticated resource allocation:
 
 ## Carbon Flow and Plant Community Effects
 
-Carbon flow through mycorrhizal networks has profound effects on plant community composition:
+Carbon flow through [[dighton-mycorrhizal-networks-carbon-transfer]] has profound effects on plant community composition:
 - **Direct effects**: Differential carbon supply to neighbouring plants through common mycorrhizal networks can alter competitive hierarchies. Seedlings of EM-associated species may receive carbon from established trees, conferring a survival advantage.
-- **Indirect effects**: The Gadgil effect reduces litter decomposition rates under EM-dominated stands, creating soil conditions that favour EM-associated plants over those dependent on rapid nutrient turnover. This feedback mechanism helps maintain distinct vegetation types.
+- **Indirect effects**: The Gadgil effect reduces [[dighton-pine-needle-litter-decomposition-fungal-succession]] rates under EM-dominated stands, creating soil conditions that favour EM-associated plants over those dependent on rapid nutrient turnover. This feedback mechanism helps maintain distinct vegetation types.
 - **AM vs EM strategies**: AM-associated plant communities (grasslands, early-successional forests) and EM-associated communities (late-successional boreal and temperate forests) represent alternative stable states driven partly by mycorrhizal-mediated carbon and nutrient economics. The [[fungal-role-in-carbon-cycling]] and are relevant to understanding [[mycorrhizal-plant-defense]] under climate stress
 
 ## See Also
@@ -90,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

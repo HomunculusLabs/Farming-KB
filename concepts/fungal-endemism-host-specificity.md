@@ -19,8 +19,8 @@ type: concept
 Endemism, the restriction of a species to a particular geographic
 area, and host specificity, the dependence of a fungal species on
 one or a limited number of host organisms, are fundamental concepts
-in understanding fungal biodiversity and distribution. These factors
-interact to shape the composition of fungal communities across
+in understanding [[biodiversity-fungal-biodiversity-estimation-methods]] and distribution. These factors
+interact to shape the composition of [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] across
 ecosystems and influence conservation priorities.
 
 ## Endemism in Fungi
@@ -49,7 +49,7 @@ pathogens infect only a single host species, while others have broad
 host ranges spanning multiple plant families. Powdery mildews reach
 their greatest diversity in temperate regions and are relatively
 host-specific, but they are not representative of all plant-
-parasitic fungal diversity in tropical regions. Rusts may be more
+parasitic [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] in tropical regions. Rusts may be more
 representative; in one Neotropical study, one in three plant species
 was parasitized by a unique rust species.
 
@@ -64,7 +64,7 @@ interspersed with nonhost species.
 ## Host Specificity in Mycorrhizal Fungi
 
 Mycorrhizal fungi show a range of host specificity. Some
-ectomycorrhizal fungi are host-specific to particular tree genera
+[[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] are host-specific to particular tree genera
 or families, while others associate with a broad range of hosts.
 The [[host-recognition-mycoparasitism-fungal-specificity]]
 
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

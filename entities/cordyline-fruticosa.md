@@ -21,7 +21,7 @@ sources:
 
 ## Overview
 
-Cordyline fruticosa, commonly known as ti plant, Hawaiian ti, and good luck plant, is an evergreen shrub in the family Asparagaceae. It is one of the most culturally significant plants in Oceania and Southeast Asia, deeply embedded in the spiritual, medicinal, and culinary traditions of Pacific Island peoples.
+Cordyline fruticosa, commonly known as ti plant, Hawaiian ti, and good luck plant, is an evergreen shrub in the family Asparagaceae. It is one of the most culturally significant plants in Oceania and [[psilocybe-southeast-asia-pacific]], deeply embedded in the spiritual, medicinal, and culinary traditions of Pacific Island peoples.
 
 The species is believed to have been introduced throughout the Pacific by Austronesian voyagers as one of their most important canoe plants. Its broad, glossy leaves and vibrant color forms make it one of the most widely recognized ornamental tropical plants in the world.
 
@@ -37,7 +37,7 @@ The plant is an unbranched or sparingly branched evergreen shrub growing 1-5 met
 
 Leaves are spirally arranged, lanceolate to elliptic, 30-60 cm long and 5-10 cm wide, with entire margins and a conspicuous midrib. Leaf color is extremely variable among cultivars, ranging from plain green to striking combinations of red, pink, purple, orange, cream, and variegated patterns.
 
-Flowers are borne in large terminal panicles 30-60 cm long, with fragrant, tubular, pale lavender to whitish-pink perianth segments. Individual flowers are 1-2 cm long with six tepals and prominent exerted stamens. Flowering is triggered by cool temperatures and short day length.
+Flowers are borne in large terminal panicles 30-60 cm long, with fragrant, tubular, pale lavender to whitish-pink perianth segments. Individual flowers are 1-2 cm long with six tepals and prominent exerted stamens. Flowering is triggered by cool temperatures and short [[coleman-winter-day-length-and-persephone-months]].
 
 Fruit are small, rounded berries 6-10 mm in diameter, transitioning from green to bright red or purple at maturity. Each berry contains 3-6 seeds. Fruit set is variable among cultivars, with some ornamental selections producing few or no viable seeds.
 
@@ -59,7 +59,7 @@ The ti plant holds paramount cultural importance across the Pacific Islands. In 
 
 Throughout Polynesia, ti leaves are believed to possess protective spiritual properties. They are planted around homes to ward off evil spirits, used in purification rituals, and worn as lei during important ceremonies. In Samoan culture, the ti plant is central to healing ceremonies and is associated with the god of war.
 
-In Southeast Asia, the plant has extensive medicinal applications. In Malay traditional medicine, the roots are used to treat fever, headache, and joint pain. Philippine folk medicine employs ti root decoctions for coughs, asthma, and urinary tract infections. In Indonesian jamu medicine, ti leaves are applied externally for skin conditions and wounds.
+In Southeast Asia, the plant has extensive medicinal applications. In Malay traditional medicine, the roots are used to treat fever, headache, and joint pain. Philippine folk medicine employs ti root decoctions for coughs, asthma, and urinary tract infections. In Indonesian jamu medicine, ti leaves are applied externally for [[cannabis-for-skin-conditions-detailed]] and wounds.
 
 Vietnamese traditional medicine uses ti root preparations as a diuretic and anti-inflammatory agent. In southern China, Cordyline fruticosa is used in folk remedies for treating hemorrhoids, swellings, and traumatic injuries. The rhizome is also employed as an emmenagogue in several Southeast Asian healing traditions.
 
@@ -73,7 +73,7 @@ Cordyline fruticosa is one of the most widely cultivated tropical ornamental pla
 
 Propagation is most commonly achieved through stem cuttings and stem sections, which root readily in moist media. Terminal cuttings 15-30 cm long produce the fastest results. The plant also propagates from cane sections laid horizontally in propagation beds, with multiple shoots emerging from each node.
 
-Cultivated plants prefer partial shade in hot climates and regular irrigation during dry periods. Fertilization with a balanced slow-release formula supports vigorous growth and rich leaf coloration. Major pests include spider mites, mealybugs, and scale insects, particularly under greenhouse conditions.
+Cultivated plants prefer partial shade in hot climates and regular irrigation during dry periods. Fertilization with a balanced slow-release formula supports vigorous growth and rich leaf coloration. Major pests include [[cervantes-spider-mites-identification-control]], mealybugs, and scale insects, particularly under greenhouse conditions.
 
 In temperate regions, ti plant is grown as a houseplant or patio plant, moved indoors during cold months. Plants tolerate indoor conditions well provided they receive bright indirect light and moderate humidity.
 
@@ -95,7 +95,7 @@ Phytochemical analysis of Cordyline fruticosa has identified several bioactive c
 
 Flavonoids identified in the leaves include luteolin, apigenin, and their glycoside derivatives, which contribute to the plant's antioxidant capacity. Phenolic acids including caffeic acid and ferulic acid have also been detected in leaf extracts.
 
-Preliminary pharmacological studies have demonstrated antimicrobial activity of root extracts against Staphylococcus aureus, Escherichia coli, and Candida albicans. Anti-inflammatory effects in carrageenan-induced paw edema models support the traditional use of ti root preparations for inflammatory conditions.
+Preliminary pharmacological studies have demonstrated antimicrobial activity of root extracts against Staphylococcus aureus, Escherichia coli, and [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]. Anti-inflammatory effects in carrageenan-induced paw edema models support the traditional use of ti root preparations for inflammatory conditions.
 
 Further research is needed to fully characterize the phytochemical profile and validate the extensive ethnopharmacological claims associated with Cordyline fruticosa. The variability among cultivars and geographic populations represents both a challenge and an opportunity for identifying superior chemotypes.
 
@@ -106,7 +106,7 @@ Further research is needed to fully characterize the phytochemical profile and v
 - [[curcuma-longa]]
 - [[convallaria-majalis]]
 - [[eucalyptus-globulus]]
-- [[punica-granatum]]
+- punica-granatum
 - [[rosmarinus-officinalis-entity]]
 - [[salvia-officinalis]]
 - [[thymus-vulgaris-entity]]

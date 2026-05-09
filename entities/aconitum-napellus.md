@@ -65,9 +65,9 @@ European temperate flora and immediately diagnostic.
   from the British Isles and northern Spain east to the Carpathians
 - **Habitat:** Damp mountain meadows, subalpine pastures, stream banks, forest
   clearings, and rocky slopes at 300–2,600 m elevation
-- **Naturalized:** Parts of North America, New Zealand, and Scandinavia
+- **Naturalized:** Parts of [[psilocybin-north-america-pacific-northwest]], New Zealand, and Scandinavia
 - **Soil preference:** Moist, well-drained, neutral to slightly acidic soils
-  rich in organic matter; tolerates partial shade
+  rich in [[hamilton-composting-and-organic-matter-management]]; tolerates partial shade
 
 ## Chemistry: Aconite Alkaloids
 
@@ -92,8 +92,8 @@ toxin is heat-stable — cooking does not destroy it.
 **Traditional European medicine (historical):**
 - Used externally as a counter-irritant for neuralgia, rheumatism, and joint
   pain; applied as liniment or poultice in highly diluted preparations
-- Internal use was largely abandoned in Western medicine by the 20th century
-  due to the narrow therapeutic index
+- Internal use was largely abandoned in [[fukuoka-eastern-western-medicine-healing-world-crisis]] by the 20th century
+  due to the narrow [[cannabis-therapeutic-index-overview]]
 
 **Traditional Chinese medicine:**
 - Processed *Aconitum* root (Zhi Fuzi) is used after extended hydrolytic

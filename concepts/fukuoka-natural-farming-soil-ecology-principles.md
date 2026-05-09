@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka Natural Farming Soil Ecology Principles"
+title: "masanobu-fukuoka-natural-farming-philosophy Farming Soil Ecology Principles"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -16,7 +16,7 @@ human intervention is minimized.
 ## The Soil Cultivates Itself
 Fukuoka's first principle -- no cultivation -- derives from his observation that
 the earth cultivates itself naturally. Plant roots penetrate and aerate the soil,
-microorganisms and small animals decompose organic matter, and earthworms create
+microorganisms and small animals decompose [[hamilton-composting-and-organic-matter-management]], and earthworms create
 channels for air and water circulation. Ploughing disrupts this self-organizing
 system and triggers cascading ecological problems.
 When a natural area is brought under the plough, strong weeds such as crabgrass
@@ -30,7 +30,7 @@ Fukuoka challenged the assumption that soil fertility declines without human
 intervention. He posed a question to soil fertility experts: "If a field is
 left to itself, will the soil's fertility increase or will it become depleted?"
 While experts equivocated, Fukuoka's own experience demonstrated that uncultivated
-land increases in fertility through a natural cycle:
+land increases in fertility through a [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]]:
 1. Organic remains of plants and animals accumulate on the surface
 2. Bacteria and fungi decompose this material
 3. Rainwater carries nutrients deep into the soil
@@ -45,7 +45,7 @@ Fukuoka's four principles directly support soil ecology:
 1. **No cultivation** -- preserves soil structure, microbial communities, and
    the natural layering of organic matter
 2. **No chemical fertilizer or prepared compost** -- avoids burning away soil
-   microorganisms and organic matter. Chemical fertilizers drain the soil of
+   microorganisms and organic matter. [[cervantes-chemical-fertilizers-guide]] drain the soil of
    essential nutrients, causing yearly depletion
 3. **No weeding by tillage or herbicides** -- weeds play their part in building
    soil fertility and balancing the biological community. They should be
@@ -65,14 +65,14 @@ Over 25 years of this practice, Fukuoka estimated the top four inches of his
 orchard soil (formerly hard red clay) became enriched through returning organic
 residues to the soil.
 White clover serves as a permanent leguminous ground cover, fixing nitrogen and
-providing green manure. Sown at about one pound per quarter acre alongside the
+providing green manure. Sown at about one pound per [[fukuoka-agriculture-tomorrow-quarter-acre-vision]] alongside the
 grain crops, it acts as a living mulch that enriches the soil, keeps the ground
 moist and well-aerated, and suppresses weeds.
 ## Orchard Soil Restoration
 Fukuoka's most dramatic demonstration of natural soil ecology was the
 restoration of barren mountain slopes. Beginning with hard red clay so compacted
 that a shovel could not penetrate it, he used a multi-layered approach:
-- Tall trees (pine, cedar, Morishima acacia) for windbreaks and deep soil
+- Tall trees (pine, cedar, [[fukuoka-morishima-acacia-orchard-integration]]) for windbreaks and deep soil
   improvement. The Morishima acacia, a nitrogen-fixing Australian import, sends
   deep roots and fertilizes subsoil through rhizobium bacteria
 - Citrus trees in the middle layer

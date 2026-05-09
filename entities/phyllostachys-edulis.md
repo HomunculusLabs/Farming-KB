@@ -29,7 +29,7 @@ created: 2026-05-07
 
 **Moso bamboo**, **Mao bamboo**, **Chinese timber bamboo**
 
-*Phyllostachys edulis* is the world's most economically important bamboo species, native to China and Taiwan. A running bamboo in the grass family (Poaceae), it produces the largest culms of any temperate bamboo — reaching heights of 20–28 meters and diameters of 10–20 cm. Moso bamboo is harvested for timber, edible shoots, paper pulp, textiles, and biochar, and plays a significant role in carbon sequestration, erosion control, and permaculture design. China maintains approximately 7 million hectares of bamboo forest, of which moso comprises roughly 70%.
+*Phyllostachys edulis* is the world's most economically important bamboo species, native to China and Taiwan. A running bamboo in the grass family (Poaceae), it produces the largest culms of any temperate bamboo — reaching heights of 20–28 meters and diameters of 10–20 cm. Moso bamboo is harvested for timber, edible shoots, paper pulp, textiles, and biochar, and plays a significant role in [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]], [[permplant-willows-salix-erosion-control-fodder]], and [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]. China maintains approximately 7 million hectares of bamboo forest, of which moso comprises roughly 70%.
 
 ## Botanical Description
 
@@ -48,7 +48,7 @@ The shooting season occurs in spring (March–May in the Northern Hemisphere). N
 
 ## Growth Cycle and Ecology
 
-Moso bamboo exhibits one of the most remarkable growth rates in the plant kingdom. During the shooting phase, a single culm can elongate up to 91 cm in 24 hours — driven by cell expansion (not cell division) powered by hydraulic pressure from the root system. This rapid growth is fueled by carbohydrate reserves stored in the rhizome network over the previous growing season.
+Moso bamboo exhibits one of the most remarkable growth rates in the plant kingdom. During the shooting phase, a single culm can elongate up to 91 cm in 24 hours — driven by cell expansion (not cell division) powered by hydraulic pressure from the root system. This rapid growth is fueled by carbohydrate reserves stored in the rhizome network over the previous [[savory-growing-season-and-non-growing-season-management]].
 
 Moso bamboo typically flowers gregariously (synchronously across large populations) on a cycle of approximately 60–120 years, though the exact interval varies by population. After flowering, the entire stand usually dies back, though the rhizome system may survive and regenerate. The last major moso flowering event in China occurred in the early 2000s.
 
@@ -95,7 +95,7 @@ Moso bamboo is among the most effective terrestrial carbon sinks:
 
 In permaculture design, moso bamboo serves multiple functions:
 
-- **Rapid biomass production**: Provides massive quantities of mulch, compost material, and building poles
+- **Rapid [[dighton-fungal-biomass-production-aquatic-ecosystems]]**: Provides massive quantities of mulch, compost material, and building poles
 - **Windbreak and microclimate**: Dense stands create sheltered microclimates for sensitive crops
 - **Erosion control**: The extensive rhizome network binds soil on slopes and riparian zones
 - **Water management**: Can be planted along swales and contour lines to stabilize earthworks
@@ -126,7 +126,7 @@ Moso bamboo prefers well-drained, loamy to sandy loam soils (pH 5.0–7.0) with 
 - **Bamboo mites** (*Schizotetranychus celarius*): Cause stippling on foliage
 - **Bamboo mealybug** (*Antonina crawii*): Infests culms and branches
 - **Armillaria root rot**: In poorly drained or stressed stands
-- **Bamboo wilt** (*Fusarium* spp.): vascular wilt in warm, humid conditions
+- **Bamboo wilt** (*Fusarium* spp.): [[cervantes-fusarium-vascular-wilt-diseases]] in warm, humid conditions
 
 ## See Also
 
@@ -135,4 +135,6 @@ Moso bamboo prefers well-drained, loamy to sandy loam soils (pH 5.0–7.0) with 
 
 - Bamboo — general bamboo overview
 - [[food-forest-permaculture|Food Forest]] — integration into agroforestry systems
-- [[tagasaste|Tagasaste]] — complementary fast-growing multipurpose plant
+- Tagasaste — complementary fast-growing multipurpose plant
+
+- [[phyllostachys-nigra]]

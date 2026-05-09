@@ -12,7 +12,7 @@ tags:
   - food-crop
   - andes
 sources:
-  - León, J. (1968). "Root Crops in the Tropical Americas." CIAT.
+  - León, J. (1968). "permaculture-plants-root-crops-and-tubers in the Tropical Americas." CIAT.
   - Austin, D.F. (2010). "Foods of the Gods." CRC Press.
   - Bradford, K.J. (2013). "Underutilized Crops: Canna edulis." Field Crops Research.
   - National Research Council (1989). "Lost Crops of the Incas." National Academies Press.
@@ -39,7 +39,7 @@ The rhizomes are composed primarily of **starch (approximately 70–80% dry weig
 - Fat: <0.5 g
 - Dietary fiber: 2–3 g
 
-**Key minerals:** Potassium, phosphorus, magnesium, and calcium in moderate amounts. Vitamin C content is low compared to other root vegetables.
+**Key minerals:** Potassium, phosphorus, magnesium, and calcium in moderate amounts. Vitamin C content is low compared to other [[growing-root-vegetables-guide]].
 
 **Culinary applications in the Andes:**
 
@@ -58,7 +58,7 @@ Achira is propagated vegetatively through **rhizome division**, as most cultivat
 ## See Also
 
 - [[mckenna-dioscorea-population-reproduction-effects]] — winged yam, tropical tuber crop
-- [[helianthus-tuberosus]] — Jerusalem artichoke, temperate tuber crop
+- [[helianthus-tuberosus]] — [[comparison-jerusalem-artichoke-vs-potato]], temperate tuber crop
 - xanthosoma sagittifolium — tannia, another starchy tropical tuber
 ## Practical Considerations
 
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Set and Setting
+title: Psychedelic set-and-setting
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -10,11 +10,11 @@ sources:
 
 # Psychedelic Set and Setting
 
-The concept of "set and setting"--the recognition that the psychological and physical context of psychedelic use is at least as important as the pharmacological properties of the substance itself--is one of the foundational insights of psychedelic research. Powell's The Psilocybin Solution emphasizes this principle throughout, drawing on the Harvard Psilocybin Project's research and the broader psychedelic literature.
+The concept of "set and setting"--the recognition that the psychological and physical context of psychedelic use is at least as important as the pharmacological properties of the substance itself--is one of the foundational insights of [[mckenna-suppression-psychedelic-research-lsd-therapy]]. Powell's The [[psilocybin]] Solution emphasizes this principle throughout, drawing on the [[leary-harvard-psilocybin-project]] Project's research and the broader psychedelic literature.
 
 ## Definition
 
-- **Set**: The subject's mental state, expectations, personality, mood, preparation, and intention prior to the psychedelic experience
+- **Set**: The subject's mental state, expectations, personality, mood, preparation, and intention prior to the [[leary-psychedelic-experience-bardo-mapping]]
 - **Setting**: The physical, social, and cultural environment in which the experience takes place
 
 The term was coined by [[ralph-metzner]] in the context of their Harvard research, though the principle had been implicitly recognized by indigenous shamanic traditions for millennia.
@@ -62,11 +62,11 @@ Powell contrasts the indigenous approach to set and setting with modern recreati
 - No guidance structure
 - The experience is "trivialized" by the context
 
-McKenna, as quoted by Powell, notes that "private drug taking is viewed as dubious; solitary drug use is viewed as positively morbid; and, indeed, all introspection is seen this way" in dominator culture.
+McKenna, as quoted by Powell, notes that "private drug taking is viewed as dubious; solitary drug use is viewed as positively morbid; and, indeed, all introspection is seen this way" in [[mckenna-dominator-culture-and-suppression-of-ecstasy]].
 
 ## Therapeutic Implications
 
-The set and setting principle has direct implications for psychedelic therapy:
+The set and setting principle has direct implications for [[metzner-psycholytic-psychedelic-therapy-models]]:
 
 1. **Therapeutic alliance**: The relationship between guide/therapist and subject is paramount
 2. **Preparation**: Extensive preparation sessions help establish positive expectations and address fears
@@ -76,7 +76,7 @@ The set and setting principle has direct implications for psychedelic therapy:
 
 ## The Context Determines the Content
 
-A fundamental insight: the pharmacological profile of psilocybin defines only some of the parameters of the experience. The context (setting) is "at least as important." The same molecule can produce a mystical union with the divine (in a chapel on Good Friday) or a terrifying ego dissolution (in a sterile clinical setting without preparation). The drug opens the door, but set and setting determine what is found on the other side.
+A fundamental insight: the pharmacological profile of psilocybin defines only some of the parameters of the experience. The context (setting) is "at least as important." The same molecule can produce a mystical union with the divine (in a chapel on Good Friday) or a terrifying [[psilocybin-ego-dissolution-mechanisms]] (in a sterile clinical setting without preparation). The drug opens the door, but set and setting determine what is found on the other side.
 
 ## See Also
 
@@ -123,7 +123,7 @@ McKenna's analysis of the 1960s centers on LSD's function as a deconditioning ag
 
 The suppression of psychedelic research was not driven by genuine concern for public health but by the recognition that these substances threatened the dominator social order at its foundations.
 
-## Connection to Shamanism
+## Connection to [[shamanism]]
 
 In shamanic traditions, boundary dissolution is the method and the goal: the shaman deliberately dissolves the boundary between ordinary reality and the spirit world in order to access healing knowledge and communicate with non-human intelligences. This practice is not pathological but functional: it serves the community by restoring balance and harmony.
 

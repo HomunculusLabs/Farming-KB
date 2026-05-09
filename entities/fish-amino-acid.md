@@ -1,5 +1,5 @@
 ---
-title: Fish Amino Acid
+title: cho-fish-amino-acid-preparation Acid
 created: 2026-04-28
 type: chemical
 tags: [knf, faa, natural-farming-acid, fermentation, cho-global]
@@ -11,20 +11,20 @@ sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
 # Fish Amino Acid
 
 **Fish Amino Acid (FAA)** is a [[decomposition]] by providing nitrogen for microbial protein synthesis
-* Particularly beneficial when composting high-carbon materials (wood chips, sawdust, straw) that have low nitrogen content
+* Particularly beneficial when composting high-carbon materials ([[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]], sawdust, straw) that have low nitrogen content
 
 ## Synergistic Combinations
 
-FAA is most effective when combined with other KNF inputs:
+FAA is most effective when combined with other [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]]:
 
-* **FAA + FPJ (1:500 each):** Balanced nitrogen and potassium/growth hormone application for vegetative growth
+* **FAA + FPJ (1:500 each):** Balanced nitrogen and potassium/growth hormone application for [[cannabis-vegetative-growth-stage]]
 * **FAA + OHN (1:1000 each):** Combines nitrogen supplementation with disease protection
 * **FAA + WCA (1:1000 each):** During fruiting, FAA provides nitrogen while Water-Soluble Calcium supports cell wall strength and fruit quality
-* **FAA + BRV (Brown Rice Vinegar):** BRV's acetic acid helps stabilize FAA and enhances nutrient absorption through mild acidification of leaf surfaces
+* **FAA + BRV (Brown [[brown-rice-vinegar-brv]]):** BRV's acetic acid helps stabilize FAA and enhances nutrient absorption through mild acidification of leaf surfaces
 
 ## Precautions
 
-* **Over-application:** Excessive FAA causes lush, soft vegetative growth that is more susceptible to pests and diseases, delays flowering, and reduces fruit quality
+* **Over-application:** Excessive FAA causes lush, soft vegetative growth that is more susceptible to [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]], delays flowering, and reduces fruit quality
 * **Pest attraction:** Fish-based products can attract flies, ants, and other pests. Apply in the evening when pest activity is lower. Soil applications may require protective barriers.
 * **Phytotoxicity:** Undiluted FAA or over-concentrated applications (>1:200) can burn leaves and roots, particularly on sensitive crops (lettuce, herbs, seedlings)
 * **Odor:** FAA retains a fishy odor even after dilution. Consider this when applying near residential areas or in greenhouse operations
@@ -111,4 +111,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

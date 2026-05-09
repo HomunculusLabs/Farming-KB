@@ -5,11 +5,12 @@ updated: 2026-04-15
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Mycological Terms Glossary
 
-Key mycological terms used in the study of fungi, drawn from the glossary of *Mycelium Running* by [[mycorrhizal-networks-common-mycelial-network]]. Essential for genetic recombination and network formation.
+Key mycological terms used in the study of fungi, drawn from the glossary of *[[woodlovers-mycelium-running-pathway-technique]]* by [[mycorrhizal-networks-common-mycelial-network]]. Essential for genetic recombination and network formation.
 
 **annulus**: A ring, collar, or cellular skirt forming on the stem, typically originating from a portion of the partial veil. Seen in species like shiitake and garden giant.
 
@@ -21,7 +22,7 @@ Key mycological terms used in the study of fungi, drawn from the glossary of *My
 
 **Basidiomycetes**: The class of fungi that bear spores upon a clublike cell (basidium). Includes pore, gill, tooth, and jelly fungi. The largest class of mushroom-forming fungi.
 
-**biological efficiency**: The percentage measurement of yield of fresh mushrooms from the dry weight of the substrate. 100% biological efficiency means 25% of a substrate's mass (at 75% moisture) yields fresh mushrooms (at 90% moisture).
+**[[stamets-biological-efficiency-yield]]**: The percentage measurement of yield of fresh mushrooms from the dry weight of the substrate. 100% biological efficiency means 25% of a substrate's mass (at 75% moisture) yields fresh mushrooms (at 90% moisture).
 
 **brown rot**: A condition caused by the degradation of cellulose by fungi, leaving the substrate brown due to undecomposed lignin. Caused by fungi like maitake and chicken-of-the-woods.
 
@@ -51,9 +52,9 @@ Key mycological terms used in the study of fungi, drawn from the glossary of *My
 
 **deliquescing**: Autodigestion by which gills and cap melt into liquid. Typical of *Coprinus* species (shaggy mane, inky caps).
 
-**dikaryotic**: The state where two individual nuclei are present in each [[mycorrhizal-fungi-basics-lowenfels]] that form a sheath around root tips and grow between root cells without penetrating them. Common in temperate forest trees (pines, oaks, firs, Douglas fir).
+**dikaryotic**: The state where two individual nuclei are present in each mycorrhizal-fungi-basics-lowenfels that form a sheath around root tips and grow between root cells without penetrating them. Common in temperate forest trees (pines, oaks, firs, Douglas fir).
 
-**endomycorrhizae**: Mycorrhizal fungi that penetrate root cells. Common in many plants including cedars, redwoods, and most agricultural crops. Also called arbuscular mycorrhizae (AM).
+**endomycorrhizae**: [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] that penetrate root cells. Common in many plants including cedars, redwoods, and most agricultural crops. Also called arbuscular mycorrhizae (AM).
 
 **endospores**: Spores formed internally.
 
@@ -69,7 +70,7 @@ Key mycological terms used in the study of fungi, drawn from the glossary of *My
 
 **fruitbody**: The mushroom structure — the visible reproductive organ of fungi.
 
-**fruiting**: The event of mushroom formation and development.
+**fruiting**: The event of [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] and development.
 
 ## G-H
 
@@ -77,7 +78,7 @@ Key mycological terms used in the study of fungi, drawn from the glossary of *My
 
 **genotype**: The total genetic heritage or constitution of an organism.
 
-**heterothallic**: Having two or more morphologically similar mating types within a species. Compatible spore types must combine to produce fertile [[mushroom-strain-selection-genetics]] offspring.
+**heterothallic**: Having two or more morphologically similar mating types within a species. Compatible spore types must combine to produce fertile mushroom-strain-selection-genetics offspring.
 
 **homothallic**: Having one strain type that is dikaryotic and self-fertile, typically producing two spores per basidium.
 
@@ -85,7 +86,7 @@ Key mycological terms used in the study of fungi, drawn from the glossary of *My
 
 **hypha, hyphae**: The individual fungal cell — a threadlike filament. The building block of mycelium.
 
-**hyphal aggregates**: Visible clusters of hyphae resembling cottony tufts, often preceding primordia formation.
+**hyphal aggregates**: Visible clusters of hyphae resembling cottony tufts, often preceding [[growing-gourmet-primordia-formation-pinning]].
 
 **hyphosphere**: The microscopic environment in direct proximity to the hyphae.
 
@@ -111,7 +112,7 @@ Key mycological terms used in the study of fungi, drawn from the glossary of *My
 
 **myceliated**: A condition whereby mycelium has colonized or infused through a substrate (term coined by Stamets).
 
-**mycelium, mycelia**: The fungal network of threadlike cells. The vegetative body of fungi, typically hidden within substrates.
+**mycelium, mycelia**: The [[mycelium-running-mycelium-natures-internet-fungal-network-theory]] of threadlike cells. The vegetative body of fungi, typically hidden within substrates.
 
 **mycology**: The study of fungi.
 
@@ -126,3 +127,6 @@ Key mycological terms used in the study of fungi, drawn from the glossary of *My
 **mycosphere**: The environment in which mycelium operates.
 
 **mycotopia**: An environment in which fungi are actively used to enhance or preserve ecological equilibrium (term coined by Stamets).
+## See Also
+- [[biological-efficiency]]
+- [[mycorrhizal-fungi]]

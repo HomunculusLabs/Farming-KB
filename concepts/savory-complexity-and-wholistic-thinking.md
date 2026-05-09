@@ -1,5 +1,5 @@
 ---
-title: Complexity and Wholistic Thinking
+title: savory complexity and wholistic thinking Thinking
 created: 2026-04-28
 tags:
   - holism
@@ -16,7 +16,7 @@ type: concept
 
 # Complexity and Wholistic Thinking
 
-Allan Savory's Holistic Resource Management is built on the philosophical
+Allan Savory's [[savory-holistic-resource-management-animal-impact]] Management is built on the philosophical
 foundation of holism, the idea that wholes are greater than the sum of their
 parts and that the whole is the only reality in nature. This stands in direct
 opposition to the reductionist approach that has dominated Western science and
@@ -63,8 +63,8 @@ ignoring this principle.
 The natural world is astoundingly complex. Rangelands contain a tremendous
 variety of grasses, forbs, brush, and trees, all growing at different rates
 and responding differently to grazing, rainfall, and soil conditions. Wildlife
-interacts with livestock. Soil microorganisms affect plant growth. Water
-cycles connect to mineral cycles which connect to energy flow. No human mind
+interacts with livestock. Soil microorganisms [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]. Water
+cycles connect to mineral cycles which connect to [[savory-energy-flow-and-solar-capture]]. No human mind
 can hold all these variables simultaneously.
 
 Savory adapted a military planning procedure from the Royal Military Academy
@@ -96,4 +96,8 @@ actual bottleneck in the system rather than symptoms of deeper problems.
 The [[savory-reductionist-vs-holistic-science]]
 - [[savory-holistic-decision-making]]
 - [[savory-testing-and-management-guidelines]]
-- [[bullwhip-effect]]
+- bullwhip-effect
+
+## See Also
+
+- [[complexity-and-connections]]

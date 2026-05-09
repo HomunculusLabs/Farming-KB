@@ -23,7 +23,7 @@ sources:
 ## Overview
 
 **Ramie** (*Boehmeria nivea*) is a perennial herbaceous plant in the family
-Urticaceae, cultivated for over 6,000 years as one of the oldest textile fiber
+Urticaceae, cultivated for over 6,000 years as one of the oldest [[natural-dye-plants]]
 crops in human history. Native to East Asia, ramie produces one of the strongest
 natural fibers known, exceeding cotton in tensile strength and rivaling silk in
 luster when properly processed.
@@ -99,14 +99,14 @@ and bacterial growth, and absorbs moisture readily.
 
 ## Permaculture Applications
 
-Ramie offers multiple functions in permaculture design systems:
+Ramie offers multiple functions in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] systems:
 
 - **Soil stabilization:** The dense rhizome network makes ramie excellent for
-  erosion control on slopes, riverbanks, and degraded lands.
-- **Biomass production:** Rapid growth produces large quantities of organic
+  [[permplant-willows-salix-erosion-control-fodder]] on slopes, riverbanks, and degraded lands.
+- **[[dighton-fungal-biomass-production-aquatic-ecosystems]]:** Rapid growth produces large quantities of organic
   matter for mulch and compost.
-- **Nutrient cycling:** Deep roots mine subsoil minerals and bring them to the
-  surface through leaf litter decomposition.
+- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]:** Deep roots mine subsoil minerals and bring them to the
+  surface through leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]].
 - **Polyculture integration:** Can serve as a windbreak or living fence in
   food forest systems, with the fiber crop providing economic yield alongside
   food-producing understory plants.
@@ -134,4 +134,4 @@ protein on a dry weight basis).
 - [[glycyrrhiza-uralensis]]
 - [[broussonetia-papyrifera]]
 - [[vicia-villosa]]
-- [[glycine-max-soybean-permaculture]]
+- [[glycine-max]]

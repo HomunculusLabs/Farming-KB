@@ -1,5 +1,5 @@
 ---
-title: "Snow, Ice, and Winter Design Strategies in Cool Climates"
+title: "Snow, Ice, and mollison designers snow ice and winter design strategies Strategies in greenhouse-cool-climates-mollison"
 created: 2026-04-26
 tags:
   - permaculture
@@ -16,8 +16,8 @@ type: concept
 
 # Snow, Ice, and Winter Design Strategies in Cool Climates
 
-In the cool humid and cold climates described by Bill Mollison in
-[[mollison-designers-swale-spacing-and-contour-interval]] or cisterns in spring. See [[water-storage-techniques]] for water storage.
+In the [[mollison-designers-cool-humid-climate-design-overview]] and cold climates described by Bill Mollison in
+mollison-designers-swale-spacing-and-contour-interval or cisterns in spring. See [[water-storage-techniques]] for water storage.
 
 ## Snow as a Reflector and Heat Concentrator
 
@@ -59,7 +59,7 @@ in front of the bare-leaf and white-stemmed stands of birch for
 about 4 m or so from their stems. Rock walls backed by birch give
 an early warm site to plant out vegetables. The Chinese use slanted
 bamboo and straw lean-tos to achieve this early growth of
-vegetables and to extend their growing season. See [[bamboo-permaculture-design]] for bamboo applications.
+vegetables and to extend their [[savory-growing-season-and-non-growing-season-management]]. See bamboo-permaculture-design for bamboo applications.
 
 Stone walls, when embayed, form very warm early sites, as do
 semicircles of tyres facing into the low sun. Such embayment can
@@ -73,7 +73,7 @@ earth-sheltered growing structures.
 
 Ice is, like glass and water, a transparent refracting medium
 suitable for lens construction, so very cold areas can construct
-very cheap ice lenses for solar energy concentrators. Ice lenses
+very cheap ice lenses for [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] concentrators. Ice lenses
 poured as water in moulds can be turned out cheaply, and focused
 to direct heat to storages or machines during daylight hours.
 
@@ -115,6 +115,8 @@ Rock walls backed by birch, tyre embayments, bamboo lean-tos, and
 earth-formed reflectors all represent low-cost, high-effect
 strategies for extending the growing season and reducing energy
 inputs in cold climates. These strategies connect directly to
-[[mollison-designers-cool-temperate-soils-and-landform-water-conservation]] design. See also [[zone-and-sector-analysis]] for zone and sector planning in cold climates.
+mollison-designers-cool-temperate-soils-and-landform-water-conservation design. See also [[zone-and-sector-analysis]] for [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]] planning in cold climates.
 
 ## See Also
+
+- [[mollison-designers-avalanche-awareness-and-snow-stability]]

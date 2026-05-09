@@ -1,18 +1,13 @@
 ---
-title: Ecological Design Principles
+title: williams pdc ecological design principles Principles
 created: 2026-04-28
-tags: [[permaculture, ecological-design, sustainability, systems-thinking,
-      green-building]
+tags: [permaculture, ecological-design, sustainability, systems-thinking, green-building]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  [/Users/t3rpz/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+sources: [/Users/t3rpz/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-
-# Ecological Design Principles
-
-[[permaculture-principles]]. The plant palette
+# Ecological Design Principles [[permaculture-principles]]. The plant palette
 for a design needs to be native and appropriate, making research a
 critical component of ecological design.
 
@@ -29,7 +24,7 @@ The design principles of permaculture provide the framework for doing
 ecological design. However, understanding what ecological design IS
 provides essential context. Just studying permaculture without
 understanding the context of ecological design does not give a full
-picture of the goals of a permaculture design.
+picture of the goals of a [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]].
 
 The permaculture designer must understand that ecological design is
 about the whole life support infrastructure, as well as the quality of
@@ -55,7 +50,7 @@ against them.
 
 ## See Also
 
-- [[permaculture-design-principles]]
+- [[permaculture-design-principles-beginners]]
 - [[passive-solar-design]]
 ## Practical Considerations
 
@@ -73,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

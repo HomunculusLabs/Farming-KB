@@ -10,10 +10,10 @@ tags: [cannabis, plant-growth]
 
 # Cannabis Feminized Seeds
 
-Feminized seeds are cannabis seeds bred to produce only female (XX)
+Feminized seeds are [[query-how-to-store-cannabis-seeds-for-long-term-viability]] bred to produce only female (XX)
 plants, eliminating the need to identify and remove males during
 cultivation. Cervantes provides a detailed scientific explanation of
-the biology behind feminized seed production, including the role of
+the biology behind feminized [[cervantes-seed-production-storage]], including the role of
 sex chromosomes, ethylene, and hormone treatments.
 
 ## The Science of Sex Determination

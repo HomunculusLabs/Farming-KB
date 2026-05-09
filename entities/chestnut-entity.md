@@ -12,7 +12,7 @@ type: entity
 
 **Type:** Species (Plant)
 **Category:** Nut-producing deciduous tree
-**Also known as:** Castanea spp, sweet chestnut, Spanish chestnut,
+**Also known as:** Castanea spp, [[holzer-sweet-chestnut-and-nut-trees]], Spanish chestnut,
 marron
 
 ## Overview
@@ -38,10 +38,10 @@ also coppiced for timber production.
   m; prized timber in Europe; coppiced; yields up to 5,000 kg/ha of
   nuts; nuts tastier roasted, boiled, or preserved
 - **C. crenata** (Japanese chestnut): Smaller tree; coppices well;
-  excellent nut crop strains developed
+  excellent [[permplant-chestnuts-castanea-nut-crop-coppice]] strains developed
 - **C. mollissima** (Chinese chestnut): To 20 m; sweeter than European;
-  resistant to Phytophthora root fungus
-- **C. dentata** (American chestnut): Once a major North American
+  resistant to [[amf-biocontrol-phytophthora-root-exudate-modification]] fungus
+- **C. dentata** (American chestnut): Once a major [[growing-gourmet-north-american-reishi-species]]
   deciduous tree; nearly destroyed by bark fungus in early 1900s;
   nuts said to be the sweetest of any species
 - **C. alnifolia** (downy chinquapin): Small clumping tree from
@@ -62,7 +62,7 @@ Fat 4.1 g, Potassium 875 mg, Phosphorus 162 mg
 - **Food:** Eaten raw, roasted, boiled, dried, pickled; traditional
   European staple carbohydrate
 - **Timber:** Young timber tough and durable; coppiced for sustainable
-  harvest; old growth mainly useful as firewood
+  harvest; [[fungal-roles-in-old-growth-forests]] mainly useful as firewood
 - **Ornamental:** Large spreading canopy provides excellent shade
 
 ### Cautions
@@ -72,7 +72,7 @@ Fat 4.1 g, Potassium 875 mg, Phosphorus 162 mg
   surviving populations
 
 ## Relevance
-Chestnut is one of the most important staple nut trees for temperate
+Chestnut is one of the most important staple [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]] for temperate
 [[2-4-dma-entity-pihkal]]
 - [[macadamia-entity]]
 - Oak

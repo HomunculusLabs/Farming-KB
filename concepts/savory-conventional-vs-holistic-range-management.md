@@ -1,5 +1,5 @@
 ---
-title: Conventional vs Holistic Range Management
+title: Conventional vs savory conventional vs holistic range management Management
 created: 2026-04-28
 tags:
   - range-management
@@ -30,7 +30,7 @@ Key differences from conventional management include:
   are developed on paper using an aide memoire procedure, with constant
   monitoring and replanning.
 - **Whole ecosystem management replaces single-species focus**: All tools
-  are tested against their effects on [[savory-mineral-cycle-management]], energy flow, and [[savory-riparian-area-management]]
+  are tested against their effects on [[savory-mineral-cycle-management]], [[savory-energy-flow-and-solar-capture]], and [[savory-riparian-area-management]]
 
 - [[savory-reductionist-vs-holistic-science]]
 - [[savory-stock-density-vs-stocking-rate]]
@@ -113,4 +113,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

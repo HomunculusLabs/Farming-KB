@@ -16,8 +16,8 @@ updated: 2026-04-28
 sources:
   - "Grieve, M. (1931). A Modern Herbal. Jonathan Cape."
   - "McClintock, E. (1970). A Monograph of the Genus Mentha."
-  - "Salem, M. (2015). Mentha piperita. In: Herbal Medicine. Springer."
-  - "Mimica-Dukic, N. & Bozin, B. (2008). Essential oils. In: Medicinal and Aromatic Plants."
+  - "Salem, M. (2015). Mentha piperita. In: [[childrens-herbal-medicine]]. Springer."
+  - "Mimica-Dukic, N. & Bozin, B. (2008). [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]. In: Medicinal and Aromatic Plants."
 ---
 
 # Mentha piperita
@@ -27,8 +27,8 @@ sources:
 Mentha piperita (peppermint) is a sterile natural hybrid of
 watermint (*M. aquatica*) and spearmint (*M. spicata*), among
 the most widely cultivated aromatic herbs. Valued for high
-menthol content, medicinal properties, and culinary
-versatility. The global essential oil industry exceeds several
+menthol content, [[ginseng-cultivation-and-medicinal-properties]], and culinary
+versatility. The global [[permaculture-designers-manual-essential-oil-plants]] industry exceeds several
 thousand tonnes annually, with major production in the US,
 India, and Eastern Europe. A sterile allotetraploid (2n = 72),
 it produces no viable seeds and spreads only vegetatively.
@@ -65,7 +65,7 @@ spikes 3–7 cm. Blooms July–September. Sterile.
 
 ## See Also
 
-- [[permaculture-companion-planting]]
+- permaculture-companion-planting
 ## Practical Considerations
 
 Successful implementation of mentha piperita requires attention to
@@ -84,4 +84,4 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+- [[mentha-pulegium]]

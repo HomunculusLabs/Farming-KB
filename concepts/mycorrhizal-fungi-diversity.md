@@ -1,35 +1,22 @@
 ---
-title: Mycorrhizal Fungi Diversity
+title: arbuscular-mycorrhizal-fungi-biology-symbiosis Diversity
 created: 2026-04-28
-tags: [[mycology, symbiosis, ecology, soil-science]
+tags: [mycology, symbiosis, ecology, soil-science]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 type: concept
 ---
-
-# Mycorrhizal Fungi Diversity
-
-Mycorrhizal fungi form mutualistic associations with plant roots, facilitating
-nutrient exchange that is fundamental to terrestrial ecosystem function. Over
-90% of all plant species form mycorrhizal partnerships, yet the diversity of
-the fungal partners remains poorly characterized. Mycorrhizal fungi represent
-a critical intersection of fungal biodiversity and ecosystem services, making
-their documentation and conservation a matter of global importance.
-
-## Major Mycorrhizal Types
-
-There are several distinct types of mycorrhizal associations, each involving
-different fungal lineages. [[common-mycorrhizal-networks]]." Global EMF diversity is estimated at
+# Mycorrhizal Fungi Diversity Mycorrhizal fungi form mutualistic associations with plant roots, facilitating nutrient exchange that is fundamental to terrestrial ecosystem function. Over 90% of all plant species form mycorrhizal partnerships, yet the diversity of the fungal partners remains poorly characterized. Mycorrhizal fungi represent a critical intersection of fungal biodiversity and ecosystem services, making their documentation and conservation a matter of global importance. ## Major Mycorrhizal Types There are several distinct types of mycorrhizal associations, each involving different fungal lineages. [[common-mycorrhizal-networks]]." Global EMF diversity is estimated at
 20,000-25,000 species, with perhaps only half formally described. Tropical
 forests, once thought to be dominated by AMF, are now known to harbor diverse
-EMF communities, particularly in dipterocarp forests of Southeast Asia and
+EMF communities, particularly in dipterocarp forests of [[psilocybe-southeast-asia-pacific]] and
 monodominant forests of the Amazon. The discovery of EMF in tropical ecosystems
 has substantially revised our understanding of global mycorrhizal biogeography.
 
 ## Common Mycorrhizal Networks
 
-Individual mycorrhizal fungal mycelia can connect multiple trees of the same or
+Individual [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] mycelia can connect multiple trees of the same or
 different species, forming underground networks through which carbon, nitrogen,
 phosphorus, water, and signaling molecules can be transferred. These networks,
 sometimes called "[[fungal-biodiversity-overview]]
@@ -112,4 +99,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

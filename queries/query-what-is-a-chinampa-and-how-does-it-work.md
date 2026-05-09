@@ -5,6 +5,7 @@ tags: [query, chinampa, permaculture, aquaculture, ancient-agriculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: query
 ---
@@ -26,9 +27,9 @@ lake beds of Lake Texcoco into one of the most intensively productive agricultur
 zones in the pre-Columbian world, capable of supporting a population of over
 200,000 people in the island city of Tenochtitlan.
 
-The [[permaculture-designers-manual-chinampa-systems]] adapted this ancient technique
+The permaculture-designers-manual-chinampa-systems adapted this ancient technique
 for modern permaculture applications, recognizing that chinampas embody several
-core permaculture principles including working with water, maximizing edge effect,
+core permaculture principles including working with water, maximizing [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]],
 and creating closed-loop nutrient cycles.
 
 The fertility of chinampas comes from the constant renewal of organic material.
@@ -38,12 +39,12 @@ fertilizer input. The canals also accumulate nutrient-rich sediment from the
 surrounding watershed, which is periodically scooped up and added to the growing
 surfaces.
 
-The [[mollison-chinampa-canal-and-channel-aquaculture]] highlights how the canal
+The mollison-chinampa-canal-and-channel-aquaculture highlights how the canal
 system also supports productive aquaculture. Fish, crayfish, and aquatic plants
 grown in the canals provide additional food sources and contribute nutrients to
 the chinampa system through their waste products.
 
-Common crops grown on chinampas include maize, beans, squash, chili peppers,
+Common crops grown on chinampas include maize, beans, squash, [[query-how-to-grow-chili-peppers-from-seed-to-harvest]],
 tomatoes, amaranth, and a wide variety of vegetables and herbs. The chinampas
 also supported flowers like marigolds, which were culturally significant and
 served as pest deterrents for neighboring food crops.
@@ -57,9 +58,9 @@ The [[chinampas-agriculture]]
 - Self-renewing fertility from aquatic vegetation and canal sediment eliminates
   the need for external fertilizer inputs
 - The system is highly resilient to both drought and flooding due to the
-  constant water availability and raised bed design
+  constant water availability and [[comparison-chinampas-vs-raised-bed-gardening]] design
 - Modern adaptations can replicate chinampa principles at any scale using
-  raised beds with integrated water channels
+  [[comparison-raised-beds-vs-hugelkultur]] with integrated water channels
 
 ## Related
 
@@ -85,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

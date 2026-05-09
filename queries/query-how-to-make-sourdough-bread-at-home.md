@@ -1,10 +1,11 @@
 ---
-title: "How to Make Sourdough Bread at Home"
+title: "How to Make query how to make sourdough bread at home at Home"
 created: 2026-04-28
 tags: [query, sourdough, fermentation, bread-baking, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -28,10 +29,10 @@ fermentation produces.
 
 The foundation of sourdough baking is the starter, also called a levain or
 mother culture. A sourdough starter is a living community of wild yeast (primarily
-Saccharomyces exiguus) and lactic acid bacteria (Lactobacillus species) that
+Saccharomyces exiguus) and lactic [[lactic-acid-bacteria-knf]] (Lactobacillus species) that
 coexist in a symbiotic relationship within a mixture of flour and water.
 
-The [[faires-yogurt-and-sourdough-making]] resource provides a practical approach
+The faires-yogurt-and-sourdough-making resource provides a practical approach
 to creating and maintaining sourdough cultures as part of a broader homesteading
 kitchen.
 
@@ -46,7 +47,7 @@ feeding, while those kept in cooler environments (65 to 70 degrees) ferment more
 slowly and develop more complex sour flavors.
 
 The [[wild-fermentation-vs-cultured-yeast]] comparison explains why the complex
-microbial ecology of sourdough produces flavors that commercial yeast simply
+[[fukuoka-microbial-ecology-decomposition]] of sourdough produces flavors that commercial yeast simply
 cannot replicate.
 
 ## Key Points
@@ -70,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,3 +114,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[lamb-bread]]

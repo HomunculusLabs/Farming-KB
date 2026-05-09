@@ -17,7 +17,7 @@ Source: Biodiversity of Fungi (Hyde et al., eds.), Chapters 7, 13, 19
 
 ### Major Pathogen Groups
 
-Soil-borne fungal pathogens are among the most significant constraints on agricultural production worldwide. Major groups include:
+Soil-borne fungal pathogens are among the most significant constraints on [[fukuoka-agricultural-production-net-energy-deduction]] worldwide. Major groups include:
 
 - **Fusarium** species: Cause wilt, root rot, and crown rot in many crops. F. oxysporum has specialized formae speciales that attack specific host species. F. graminearum causes head blight in cereals and produces mycotoxins.
 - **Rhizoctonia** species: R. solani has a very broad host range and causes damping-off, root rot, and stem canker. It persists in soil as sclerotia.
@@ -26,9 +26,9 @@ Soil-borne fungal pathogens are among the most significant constraints on agricu
 - **Gaeumannomyces** species: G. graminis causes take-all disease of wheat and other cereals.
 - **Sclerotinia** species: S. sclerotiorum has a very broad host range and persists as sclerotia in soil.
 
-See also: [[fungal-plant-pathogen-interactions]], [[fungal-chlamydospore-formation-and-survival]], [[fungal-mycoparasitism-and-biocontrol-interactions]]
+See also: fungal-plant-pathogen-interactions, [[fungal-chlamydospore-formation-and-survival]], [[fungal-mycoparasitism-and-biocontrol-interactions]]
 
-4. **Induced systemic resistance**: Biocontrol agents can prime plant defense responses, making plants more resistant to subsequent pathogen attack. See [[three-pillars-mushroom-cultivation-spawn-substrate-environment]], [[fungal-competition-antagonism-soil]]
+4. **[[endophytic-mycorrhizal-induced-systemic-resistance]] resistance**: Biocontrol agents can prime plant defense responses, making plants more resistant to subsequent pathogen attack. See [[three-pillars-mushroom-cultivation-spawn-substrate-environment]], fungal-competition-antagonism-soil
 
 ### Key Biocontrol Fungi
 
@@ -36,16 +36,16 @@ See also: [[fungal-plant-pathogen-interactions]], [[fungal-chlamydospore-formati
 - T. harzianum: Effective against Rhizoctonia, Fusarium, Pythium, and Sclerotinia
 - T. viride: Used against soil-borne pathogens and as a seed treatment
 - T. virens: Produces gliotoxin; effective against Rhizoctonia and Pythium
-- Mode of action includes mycoparasitism, antibiosis, competition, and induced resistance
+- Mode of action includes mycoparasitism, antibiosis, competition, and [[mycorrhiza-induced-resistance-defense-priming]]
 
-See also: [[fungal-mycoparasitism-and-biocontrol-interactions]], [[mycorrhizal-biocontrol]]: Mycorrhizal fungi contribute to disease suppression through:
+See also: [[fungal-mycoparasitism-and-biocontrol-interactions]], [[mycorrhizal-biocontrol]]: Mycorrhizal fungi contribute to [[aact-disease-suppression-mechanisms-ingham]] through:
 - Physical barrier: The fungal mantle of ectomycorrhizae physically blocks pathogen access to roots
-- Altered root exudation: Mycorrhizal colonization changes root exudate profiles, affecting pathogen attraction
+- Altered root exudation: [[arbuscular-mycorrhizal-colonization-patterns]] changes root exudate profiles, affecting pathogen attraction
 - Induced resistance: Priming of plant defense responses
 - Competition for photosynthate: Mycorrhizal fungi compete with pathogens for root carbohydrates
 - Improved nutrition: Better-nourished plants are more resistant to disease
 
-See also: [[fungal-mycorrhizal-pathogen-interactions]]
+See also: fungal-mycorrhizal-pathogen-interactions
 
 ## Soil Food Web and Disease Suppression
 
@@ -53,7 +53,7 @@ See also: [[fungal-mycorrhizal-pathogen-interactions]]
 
 Soil fauna contribute to disease suppression through:
 - **Feeding on pathogens**: Nematophagous fungi and predatory nematodes directly consume pathogen propagules
-- **Grazing stimulation**: Selective grazing on non-pathogenic fungi can stimulate compensatory growth and nutrient mineralization
+- **Grazing stimulation**: [[dighton-selective-grazing-fungal-community-shifts]] on non-pathogenic fungi can stimulate compensatory growth and nutrient mineralization
 - **Disruption of pathogen networks**: Earthworm burrows and faunal movement disrupt pathogen hyphal networks and sclerotia
 - **Competition enhancement**: Faunal grazing maintains fungal communities in an active growth phase, enhancing competitive ability against pathogens
 
@@ -89,3 +89,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[biodiversity-fungi-entomopathogenic-insect-pathogens]]

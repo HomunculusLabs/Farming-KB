@@ -11,7 +11,7 @@ type: concept
 
 # Manure Quality Variability and Fertilizer Value
 
-Steve Solomon's analysis in *Gardening When It Counts* systematically challenges the conventional wisdom that manure is a reliable garden fertilizer. While manure has been the backbone of agricultural fertility for millennia, Solomon demonstrates that its nutrient content varies enormously depending on species, diet, bedding material, handling, and storage conditions. This variability makes manure an unpredictable fertilizer that can actively harm gardens if relied upon uncritically.
+[[steve-solomon]]'s analysis in *Gardening When It Counts* systematically challenges the conventional wisdom that manure is a reliable garden fertilizer. While manure has been the backbone of agricultural fertility for millennia, Solomon demonstrates that its nutrient content varies enormously depending on species, diet, bedding material, handling, and [[spawn-storage-conditions]]. This variability makes manure an unpredictable fertilizer that can actively harm gardens if relied upon uncritically.
 
 ## The Horse Manure Example
 
@@ -29,7 +29,7 @@ Different livestock species produce manure with dramatically different nutrient 
 - **Cattle manure**: Moderate concentration, highly variable with diet
 - **Sheep and goat manure**: Similar to cattle but generally slightly higher in nutrients
 
-The difference between "hot" manure like chicken and "cold" manure like horse is not merely a matter of degree; it represents fundamentally different materials requiring different management strategies.
+The difference between "hot" manure like chicken and "cold" manure like horse is not merely a matter of degree; it represents fundamentally different materials requiring different [[weed-management-strategies]].
 
 ## Feedlot Steer Versus Range Cattle
 
@@ -66,7 +66,7 @@ Composting further alters the nutrient profile in important ways:
 
 ## The Seedmeal Comparison
 
-Solomon contrasts manure with seedmeals as more reliable organic fertilizers. Seedmeals (cottonseed meal, soybean meal, canola meal, flaxseed meal) offer several advantages:
+Solomon contrasts manure with seedmeals as more reliable [[cannabis-organic-fertilizers]]. Seedmeals (cottonseed meal, soybean meal, canola meal, flaxseed meal) offer several advantages:
 
 1. **Consistent NPK values**: Manufactured products with known, standardized nutrient content
 2. **Minimal carbon**: Contain little carbon relative to nitrogen, releasing nutrients relatively quickly without causing immobilization
@@ -74,7 +74,7 @@ Solomon contrasts manure with seedmeals as more reliable organic fertilizers. Se
 4. **No pathogens**: Processing eliminates disease organisms present in raw manure
 5. **No weed seeds**: Manufacturing destroys viable weed seeds
 
-While more expensive per unit of nitrogen than free manure, their predictability makes seedmeals far more cost-effective in the context of garden fertility management where the goal is providing specific amounts of nutrients to specific crops.
+While more expensive per unit of nitrogen than free manure, their predictability makes seedmeals far more cost-effective in the context of garden [[coleman-compost-and-organic-fertility-management]] where the goal is providing specific amounts of nutrients to specific crops.
 
 ## Practical Risks of Manure Reliance
 
@@ -92,7 +92,7 @@ Solomon recommends treating manure primarily as a **soil conditioner** and sourc
 
 - Apply composted manure generously for humus-building benefits
 - Manage actual crop nutrition separately using tested materials with known nutrient content
-- Use organic sources (seedmeals, bone meal, rock minerals) or synthetic fertilizers for predictable nutrition
+- Use organic sources (seedmeals, bone meal, rock minerals) or [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] for predictable nutrition
 - Consider the Complete Organic Fertilizer (COF) recipe as a balanced, reliable alternative to manure-based fertility programs
 
 ## When Manure Is Worth Using

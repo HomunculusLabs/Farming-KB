@@ -1,15 +1,15 @@
 ---
-title: "c4 and cam photosynthesis — Carbon Concentrating Mechanisms"
+title: "c4 and comparison-c3-c4-and-cam-photosynthesis-pathways — Carbon Concentrating Mechanisms"
 created: 2026-04-28
 updated: 2026-05-06
 tags: [photosynthesis, plant-physiology, c4-plants, cam-plants, carbon-fixation, plant-biochemistry, crop-science, water-use-efficiency, climate-change]
 date: 2026-05-02
 type: concept
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  sources: []
 ---
 
-c4 and cam photosynthesis are evolutionary adaptations that concentrate
+c4 and [[comparison-c3-c4-and-cam-photosynthesis-pathways]] are evolutionary adaptations that concentrate
 CO₂ around Rubisco, suppressing photorespiration and improving
 efficiency under conditions that disadvantage standard C3 photosynthesis.
 C4 plants achieve this through spatial separation — initial CO₂ fixation
@@ -97,7 +97,7 @@ include cacti (Cactaceae), orchids (Orchidaceae — the largest CAM
 family), bromeliads, and succulents (Crassulaceae, Aizoaceae).
 Important CAM crops include pineapple, agave (tequila production and
 emerging bioenergy feedstock), and vanilla. CAM plants dominate deserts,
-epiphytic tropical canopy niches, and saline environments. Many species
+epiphytic tropical canopy niches, and [[halotolerant-halophilic-fungi-saline-environments]]. Many species
 exhibit facultative CAM, switching between C3 and CAM depending on water
 availability. The ice plant (Mesembryanthemum crystallinum) switches
 from C3 to full CAM over 7-14 days under salt or drought stress. The
@@ -124,7 +124,7 @@ Rising CO₂ (~420 ppm, projected 550-1000 ppm by 2100) directly
 benefits C3 plants by suppressing photorespiration; FACE experiments
 show 10-25% C3 yield increases at ~550 ppm. Above 700-800 ppm the C4
 photosynthetic advantage largely disappears. Rising temperatures
-simultaneously favor C4 plants. [[cuthill-mushroom-growing-seasons-and-temperature]]/drought
+simultaneously favor C4 plants. cuthill-mushroom-growing-seasons-and-temperature/drought
 stress. [[hamilton-organic-fertilizers-and-plant-nutrition]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 - [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]]

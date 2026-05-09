@@ -6,7 +6,8 @@ type: concept
 tags: [irrigation, water, hydrology, agriculture, crop-science, climate,
   soil-moisture, plant-physiology, meteorology, farming, drought, plants]
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 Evapotranspiration (ET) is the combined process of water transfer from land
 surface to atmosphere through **evaporation** from soil, water surfaces, and
@@ -23,10 +24,10 @@ with standing water).
 ## ET Components
 
 Three main components contribute to total ET (ET = E + T + Ei):
-- **Soil evaporation (E)**: Dominates during early growth stages with sparse
+- **Soil evaporation (E)**: Dominates during [[cervantes-seedling-care-early-growth]] stages with sparse
   canopy cover (can be 40–60% of ET during germination). Driven by net
-  radiation, wind speed, vapor pressure deficit (VPD), and near-surface soil
-  moisture. The energy-limited stage (Stage 1, soil at field capacity) gives
+  radiation, wind speed, [[cervantes-vapor-pressure-deficit-transpiration]] deficit (VPD), and near-surface soil
+  moisture. The energy-limited stage (Stage 1, soil at [[bulk-substrate-field-capacity]]) gives
   E ≈ E₀; the falling-rate stage (Stage 2, below a threshold ~60% of field
   capacity) declines as hydraulic conductivity drops exponentially.
 - **Plant transpiration (T)**: Dominates once canopy cover exceeds ~30–40%
@@ -46,7 +47,7 @@ The **FAO-56 Penman-Monteith** equation is the global standard for ET₀:
 
   λET₀ = [Δ(Rₙ − G) + ρₐcₚ(es − ea)/rₐ] / [Δ + γ(1 + rₛ/rₐ)]
 
-Where Δ = slope of saturation vapor pressure curve (kPa/°C), Rₙ = net
+Where Δ = slope of saturation [[query-what-is-vapor-pressure-deficit-and-why-does-it-matter-for-cannabis]] curve (kPa/°C), Rₙ = net
 radiation (MJ/m²/d), G = soil heat flux (MJ/m²/d), ρₐ = air density (kg/m³),
 cₚ = specific heat of moist air (MJ/kg/°C), es − ea = vapor pressure deficit
 (kPa), rₐ = aerodynamic resistance (s/m), rₛ = surface (canopy) resistance
@@ -61,7 +62,7 @@ The FAO-56 dual crop coefficient approach partitions ET into:
 
 where **Kcb** = basal crop coefficient (transpiration component, species- and
 stage-specific) and **Ke** = soil evaporation coefficient (function of wet soil
-surface fraction and evaporative demand). Four growth stages define Kcb:
+surface fraction and [[evaporative-demand-hypothesis-mushroom-tropism]]). Four growth stages define Kcb:
 - **Initial** (planting to 10% cover): Kcb ≈ 0.15–0.30; Ke dominates
 - **Development** (10% to effective full cover): Kcb increases linearly
 - **Mid-season** (full cover to senescence onset): Kcb ≈ 0.95–1.20 for most
@@ -112,7 +113,7 @@ storage anomalies. ECOSTRESS (ISS) provides 70 m thermal data at diurnal scale.
 improve water productivity (WP = yield/ET). **Regulated deficit irrigation
 (RDI)** targets specific phenological stages where water stress has minimal
 yield impact. Key principles:
-- [[mollison-village-complex-elements-in-the-humid-tropics]] at the same temperatirrigation-systemsiation**: Primary energy source. Aerosols, clouds, and panel
+- mollison-village-complex-elements-in-the-humid-tropics at the same temperatirrigation-systemsiation**: Primary energy source. Aerosols, clouds, and panel
   shading (agrivoltaics) directly reduce available energy for ET.
 ## See Also
 

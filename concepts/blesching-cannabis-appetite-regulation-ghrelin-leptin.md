@@ -1,5 +1,5 @@
 ---
-title: "Cannabis, Appetite Regulation, Ghrelin, and Leptin"
+title: "Cannabis, blesching cannabis appetite regulation ghrelin leptin, Ghrelin, and Leptin"
 created: 2026-04-26
 tags: [appetite, ghrelin, leptin, hypothalamus, cachexia]
 date: 2026-04-25
@@ -14,7 +14,7 @@ type: concept
 One of cannabis's most well-known effects is appetite stimulation, commonly
 called "the munchies." In "The [[uwe-blesching]] moves
 Blesching moves beyond this colloquial understanding to provide a detailed neuroendocrine
-analysis of how the blesching [[blesching-endocannabinoid-system-overview]].
+analysis of how the blesching [[endocannabinoid-system-overview]].
 hunger hormone ghrelin and the satiety hormone leptin. This has profound
 clinical implications for cachexia, HIV/AIDS wasting, cancer-related
 anorexia, and eating disorders. See also [[blesching-cannabinoid-pharmacology]] for THC receptor pharmacology):
@@ -100,7 +100,7 @@ Cannabis's role in cachexia management:
 
 - **Appetite stimulation**: THC reliably increases appetite and caloric
   intake in cachectic patients. For dosing guidance, see [[blesching-cannabis-dosing-strategies]].
-- **Weight gain**: Clinical trials in HIV/AIDS patients demonstrate
+- **Weight gain**: [[mushroom-cancer-clinical-trials-overview]] in HIV/AIDS patients demonstrate
   significant weight gain with dronabinol (synthetic THC) and whole-plant
   cannabis.
 - **Mood improvement**: Cachexia often involves depression and anxiety
@@ -118,7 +118,7 @@ wasting, one of the best-studied clinical applications:
 - HIV/AIDS wasting syndrome was an FDA-approved indication for dronabinol
   (Marinol) based on robust clinical evidence.
 - Whole-plant cannabis may be more effective than isolated THC due to
-  additional anti-inflammatory compounds and the entourage effect.
+  additional anti-inflammatory compounds and the [[cannabis-terpene-entourage-effect-profiles]].
 - Cannabis may also address HIV-related neuropathic pain, insomnia, and
   anxiety as comorbid conditions that compound wasting.
 - Modern antiretroviral therapy has reduced but not eliminated wasting

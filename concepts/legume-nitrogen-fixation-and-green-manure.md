@@ -4,7 +4,7 @@ Legumes are among the most important plants in sustainable agriculture because o
 
 This biological process provides a renewable source of nitrogen that can reduce or eliminate the need for synthetic fertilizers.
 
-Understanding how legumes fix nitrogen, and how to make that nitrogen available to other plants, is fundamental to organic gardening, [[three-sisters]] [[cover-crops]]
+Understanding how legumes fix nitrogen, and how to make that nitrogen available to other plants, is fundamental to [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]], three-sisters [[cover-crops]]
 
 Green manuring is the practice of growing plants specifically to be incorporated into the soil while still green.
 
@@ -22,13 +22,13 @@ They have deeper, more taproot-like structures that improve drainage and tilth i
 
 Mustards also dissolve and absorb mineralized phosphorus, and can excrete appreciable amounts back into the soil through their roots.
 
-Alfalfa, as both a legume and a dynamic accumulator, serves multiple purposes as a green manure.
+Alfalfa, as both a legume and a [[nutrient-dynamic-accumulator-reference]], serves multiple purposes as a green manure.
 
 Its deep taproot mines minerals from subsoil layers, and when left in the field, there is a slow but steady improvement in the soil's supply of available phosphorus.
 
 When selecting green manure crops, gardeners should consider their soil type, climate, the specific nutrients they wish to add, and the timing of their rotation.
 
-Matching the right cover crop to the right niche in the garden calendar is essential for maximizing the soil-building benefits.
+Matching the right cover crop to the right niche in the [[cervantes-garden-calendar-checklist]] is essential for maximizing the soil-building benefits.
 
 ## Dynamic Accumulators and Legume Synergies
 
@@ -36,14 +36,14 @@ Dynamic accumulators are plants that concentrate greater-than-usual amounts of s
 
 Legumes serve as dynamic accumulators of both nitrogen and phosphorus, cycling phosphorus from deeper soil layers to the surface when used as green manures.
 
-By combining legumes with other accumulators in a diverse cover crop mix, gardeners can address multiple nutrient deficiencies simultaneously.
+By combining legumes with other accumulators in a diverse cover crop mix, gardeners can address multiple [[hamilton-nutrient-deficiencies-and-treatment]] simultaneously.
 
 The key is to grow these accumulators, allow them to concentrate nutrients in their biomass, and then recycle those nutrients through composting, mulching, or incorporation.
 
 ## Sources
 
 - Cocannouer, Joseph. Weeds: Guardians of the Soil. New York: Devin-Adair, 1950.
-- Pfeiffer, Ehrenfried. Weeds and What They Tell. Springfield, IL: BioDynamic Farming and Gardening.
+- Pfeiffer, Ehrenfried. Weeds and What They Tell. Springfield, IL: [[comparison-biodynamic-farming-vs-organic-farming]] and Gardening.
 - Rateaver, Gargyla and Gylver. The Organic Method Primer. Pauma Valley, CA: B. and G. Rateaver, 1973.
 - Hill, Stuart. Weeds as Indicators of Soil Conditions. MacDonald Journal, June 1977.
 ## Practical Considerations
@@ -62,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,3 +105,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[solomon-green-manure-decomposition-and-carbon-nitrogen-timing]]

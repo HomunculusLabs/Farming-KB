@@ -1,5 +1,5 @@
 ---
-title: Topping, Pruning and Training Cannabis Plants
+title: Topping, hamilton-pruning-and-training-fruit-trees Cannabis Plants
 created: 2026-04-26
 tags:
   - cannabis
@@ -21,7 +21,7 @@ the advanced methods covered in
 [[cannabis-vegetative-stage-management]] covers
 the optimal timing window. The procedure involves cutting the top of
 the plant just above the last branch formation, typically during the
-3rd or 4th week of vegetative growth. The cut is made by shearing away
+3rd or 4th week of [[cannabis-vegetative-growth-stage]]. The cut is made by shearing away
 the main stem tip.
 
 ### How Topping Works
@@ -65,14 +65,14 @@ can also be pruned without problems).
 
 Training is performed by attaching a piece of thread to the stem and
 bending the plant over. The thread is locked down to either another part
-of the stem or a piece of the grow room frame. Growers have produced
+of the stem or a piece of the [[cannabis-grow-room-setup]] frame. Growers have produced
 plants in various shapes including corkscrews, full circles, and
 horizontal arrangements.
 
 ### Horizontal Training
 
 Some growers train their plants to grow horizontally across the
-vegetative stage. During flowering, the light is moved above the plant
+[[comparison-cannabis-vegetative-stage-vs-flowering-stage]]. During flowering, the light is moved above the plant
 to encourage thicker bud growth along the main stem. While results are
 inconsistent, successful horizontal training can produce excellent
 overall bud production.

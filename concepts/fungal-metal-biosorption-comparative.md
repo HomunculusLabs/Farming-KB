@@ -1,9 +1,9 @@
 ---
-title: Fungal Metal Biosorption — Comparative Analysis
+title: Fungal fungal-heavy-metal-biosorption-and-detoxification — Comparative Analysis
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
 # [[fungal-bioaccumulation-vs-biosorption]], and for detailed mechanisms see [[aspergillus-fumigatus]] | UO₂²⁺ | 0.81 | Bhainsa & D'Souza, 1999 |
@@ -30,7 +30,7 @@ Uranium (as uranyl ion UO₂²⁺) is consistently biosorbed to the highest leve
 - R. arrhizus demonstrated uptake exceeding commercial ion-exchange resins for U and Th (Tsezos & Volesky, 1981)
 
 ### Lead (Consistently High)
-Lead is repeatedly found to be biosorbed to high levels across diverse genera, reflecting its high electronegativity and affinity for cell wall functional groups.
+Lead is repeatedly found to be biosorbed to high levels across diverse genera, reflecting its high electronegativity and affinity for [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] functional groups.
 
 ### Divalent Cations (Moderate)
 Cd²⁺, Cu²⁺, Zn²⁺, and other divalent cations typically show uptake in the 0.1–0.5 mmol/g range.
@@ -41,12 +41,12 @@ Alkali metals are generally not biosorbed, though Ag⁺ is appreciably taken up 
 ## Cell Wall Chemistry and Binding Sites
 
 ### Functional Groups
-Fungal cell walls contain multiple potential binding sites:
+[[gadd-fungal-cell-structure]] walls contain multiple potential binding sites:
 
 - **Chitin/chitosan**: Key binding sites identified in early studies; amino groups coordinate metals
 - **Carboxyl groups**: Account for up to 55% of Zn binding by P. chrysogenum and 70% by [[trichoderma-reesei]]; preferentially bound at low concentrations due to higher affinity
 - **Phosphoryl groups**: Account for up to 95% of Pb binding by P. chrysogenum (Sarrat et al., 1999)
-- **Sulfhydryl groups**: Present in some species; contribute to heavy metal binding
+- **Sulfhydryl groups**: Present in some species; contribute to heavy [[chelation-and-metal-binding-in-plants]]
 
 ### Binding Mechanisms
 The binding process involves:
@@ -98,7 +98,7 @@ Toxic metal anions (CrO₄²⁻, AsO₄³⁻, MoO₄²⁻, VO₄³⁻) show oppo
 
 ## Practical Applications and Limitations
 
-Despite extensive research since the 1980s, actual industrial application of fungal biosorption remains unproven. Less than 20% of biosorption publications from 1998–2000 focused on fungi. Key limitations:
+Despite extensive research since the 1980s, actual industrial application of [[singh-binary-ternary-fungal-biosorption-systems]] remains unproven. Less than 20% of biosorption publications from 1998–2000 focused on fungi. Key limitations:
 
 - Case-specific uptake values that vary widely with experimental conditions
 - Difficulty comparing results across studies

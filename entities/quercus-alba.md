@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of North America: Volume 2, Hardwoods." USDA Forest Service Agriculture Handbook 654.
+  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 2, Hardwoods." USDA Forest Service Agriculture Handbook 654.
   - Johnson, P.S., Shifley, S.R. & Rogers, R. (2009). "The Ecology and Silviculture of Oaks." CABI Publishing.
   - Abrams, M.D. (1996). "Distribution, historical development and ecophysiological attributes of oak species in the eastern United States." Annals of Forest Science, 53(2-3), 487-512.
   - Nixon, K.C. (1993). "Infrageneric classification of Quercus (Fagaceae) and typification of sectional names." Annales des Sciences Forestières, 50(S1), 25-34.
@@ -70,13 +70,13 @@ White-tailed deer, wild turkey, black bear, gray squirrel, fox squirrel, raccoon
 
 The low tannin content of white oak acorns (compared to red oaks) makes them significantly more palatable and digestible for wildlife.
 
-Over 500 species of Lepidoptera caterpillars have been documented feeding on oak foliage, making Quercus the single most important genus for caterpillar diversity in eastern North America.
+Over 500 species of Lepidoptera caterpillars have been documented feeding on oak foliage, making Quercus the single most important genus for caterpillar diversity in [[polypore-fungi-eastern-north-america]] America.
 
 These caterpillars in turn serve as the primary food source for nesting songbirds, providing the protein-rich diet required for chick development.
 
 White oak cavities, whether formed through heart rot or branch breakage, provide critical denning habitat for bats, squirrels, wood ducks, and various cavity-nesting birds.
 
-Mycorrhizal associations with ectomycorrhizal fungi are essential for nutrient uptake, linking white oak roots to extensive belowground fungal networks.
+Mycorrhizal associations with [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] are essential for [[plant-nutrient-uptake-mechanisms]], linking white oak roots to extensive belowground fungal networks.
 
 ## Timber and Woodworking
 
@@ -96,9 +96,9 @@ The Janka hardness rating for white oak is approximately 1,360 lbf (6,050 N), cl
 
 White oak is propagated from seed, requiring 30–90 days of cold stratification at 1–5°C for reliable germination.
 
-Direct seeding is common in reforestation and restoration plantings, though seed predation by wildlife can significantly reduce establishment rates.
+[[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] is common in reforestation and restoration plantings, though seed predation by wildlife can significantly reduce establishment rates.
 
-Container-grown seedlings are preferred for difficult sites, with planting typically done in early spring before bud break.
+Container-grown seedlings are preferred for [[permaculture-difficult-sites-plant-guide]], with planting typically done in early spring before bud break.
 
 Growth rates are moderate, with trees reaching 18–24 m in height at maturity on good sites. Annual height growth averages 30–60 cm in young trees.
 

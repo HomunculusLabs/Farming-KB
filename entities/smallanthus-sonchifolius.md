@@ -55,7 +55,7 @@ Yacon is native to the eastern slopes of the Andes, from Colombia through Ecuado
 
 The species thrives in temperate to subtropical conditions with moderate rainfall and well-drained, fertile soils. It tolerates light frost but is killed by hard freezes. Optimal growth occurs at 18–25°C.
 
-It has been introduced to Japan, New Zealand, Australia, Europe, and North America as a novel crop. In Japan, yacon cultivation and processing became commercially significant during the 1990s.
+It has been introduced to Japan, New Zealand, Australia, Europe, and [[psilocybin-north-america-pacific-northwest]] as a novel crop. In Japan, yacon cultivation and processing became commercially significant during the 1990s.
 
 ## Bioactive Compounds
 
@@ -83,7 +83,7 @@ The tubers are low in calories (approximately 15–20 kcal per 100 g fresh weigh
 
 ## Cultivation
 
-Yacon is propagated from stem cuttings or crown divisions, as seed production is rare outside native environments. Planting occurs in spring after the last frost, with harvest 6–8 months later.
+Yacon is propagated from stem cuttings or crown divisions, as [[cervantes-seed-production-storage]] is rare outside native environments. Planting occurs in spring after the last frost, with harvest 6–8 months later.
 
 Plants require full sun to partial shade and moderate water. They are relatively pest-free and disease-resistant, making them suitable for low-input and organic cultivation systems.
 
@@ -91,11 +91,11 @@ Yields of 30–60 tonnes per hectare are achievable under good conditions. Tuber
 
 ## Permaculture Applications
 
-Yacon fits well into food forest and perennial vegetable systems. Its tall growth provides shade for understory plants during summer, while the dying-back tops add organic matter in winter.
+Yacon fits well into food forest and perennial vegetable systems. Its tall growth provides shade for understory plants during summer, while the dying-back tops add [[hamilton-composting-and-organic-matter-management]] in winter.
 
-The deep root system helps break compacted soils and brings up nutrients from lower soil horizons. The high biomass production makes yacon a useful green manure crop in rotation systems.
+The deep root system helps break compacted soils and brings up nutrients from lower soil horizons. The high [[dighton-fungal-biomass-production-aquatic-ecosystems]] makes yacon a useful [[comparison-green-manure-guide-vs-mulch-types-and-effects]] crop in rotation systems.
 
-It can serve as a companion plant in diverse polycultures with other Andean root crops. The species' pest resistance reduces the need for inputs in integrated growing systems.
+It can serve as a companion plant in diverse polycultures with other Andean root crops. The species' [[cannabis-disease-pest-resistance-breeding-clarke]] reduces the need for inputs in integrated growing systems.
 
 ## History and Ethnobotany
 

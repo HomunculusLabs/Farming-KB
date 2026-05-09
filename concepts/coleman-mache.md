@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Eliot Coleman (2009). "The Winter Harvest Handbook." Chelsea Green.
+  - Eliot Coleman (2009). "The coleman-claytonia-winter-harvest-cultivation Handbook." Chelsea Green.
 ---
 
 # Mâche — The Winter Salad Green That Never Stops Growing
@@ -23,7 +23,7 @@ the cold season.
 
 ## Winter Growth Capability
 
-Unlike most winter crops, which slow or stop growth during the coldest
+Unlike most [[coleman-semi-hibernating-winter-crops-harvest-extension]], which slow or stop growth during the coldest
 months and are harvested from established stands, mâche genuinely continues
 to grow through the winter. This makes it an indispensable component of any
 winter salad production system.
@@ -39,7 +39,7 @@ supplies.
 ## Harvest Methods
 
 Mâche is harvested and sold as whole plants rather than as cut-and-come-
-again leaves. This is a key distinction from most other winter greens at
+again leaves. This is a key distinction from most other [[coleman-winter-greens-nutritional-quality-cold-sweetening]] at
 Four Season Farm, where spinach, lettuce, and many other crops are
 harvested leaf-by-leaf for regrowth.
 
@@ -48,7 +48,7 @@ sowings is critical for maintaining a steady supply throughout the season.
 Each planting provides a single harvest window, so gaps in the sowing
 schedule create gaps in availability.
 
-When included in salad mix, mâche is typically cut at three-quarters of
+When included in [[coleman-baby-leaf-salad-mix-quality-standards]], mâche is typically cut at three-quarters of
 full size. At this stage the leaves are tender and mild, complementing
 other winter greens without overpowering them.
 
@@ -73,7 +73,7 @@ The timing of late sowings demands particular precision. Sowing on October
 25 targets a March 1 harvest. A sowing one week too early or too late can
 mean the difference between a perfect crop and a mediocre one.
 
-This precision requirement reflects the plant's sensitivity to day length
+This precision requirement reflects the plant's sensitivity to [[coleman-winter-day-length-and-persephone-months]]
 and temperature accumulation. As days lengthen in late winter, mâche
 responds by accelerating toward flowering. If the plants are not large
 enough when this shift occurs, they bolt before reaching harvestable size.

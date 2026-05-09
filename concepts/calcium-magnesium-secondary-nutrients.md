@@ -1,5 +1,5 @@
 ---
-title: Calcium and Magnesium — Secondary Macronutrients in Soil
+title: Calcium and Magnesium — plant-secondary-macronutrients-calcium-magnesium-and-sulfur in Soil
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -10,13 +10,13 @@ sources:
 
 # Calcium and Magnesium — Secondary Macronutrients in Soil
 
-Calcium (Ca) and magnesium (Mg) are essential secondary macronutrients that play critical roles in plant nutrition and soil health. Beyond their direct nutritional value, they profoundly influence soil structure, pH, and nutrient availability.
+Calcium (Ca) and magnesium (Mg) are essential secondary macronutrients that play critical roles in plant nutrition and soil health. Beyond their direct nutritional value, they profoundly influence soil structure, pH, and [[ph-and-nutrient-availability-garden-soils]].
 
 ## Calcium (Ca)
 
 ### Functions in Plants
-- **Cell wall structure:** Calcium pectate (calcium bridges between pectin molecules) is essential for cell wall strength and integrity
-- **Cell membrane stability:** Calcium maintains membrane integrity and selective permeability
+- **[[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] structure:** Calcium pectate (calcium bridges between pectin molecules) is essential for cell wall strength and integrity
+- **[[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] stability:** Calcium maintains membrane integrity and selective permeability
 - **Root growth:** Essential for root tip elongation and root hair development
 - **Cell division:** Required for normal cell division (spindle formation)
 - **Signaling:** Functions as an intracellular messenger in stress responses
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

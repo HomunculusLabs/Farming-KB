@@ -54,7 +54,7 @@ Application timing matters. Soil drenches are most effective during periods of a
 | **Approach** | Targeted microbial strains for specific functions | Broad-spectrum soil food web diversity |
 | **Cost** | Moderate; varies by product and crop coverage | Low; compost and food resources are inexpensive |
 | **Complexity** | Low application complexity; selection requires knowledge | Moderate; brewing requires equipment and monitoring |
-| **Best For** | Legume crops, perennial establishment, P-deficient soils | General soil health recovery, foliar disease suppression |
+| **Best For** | Legume crops, perennial establishment, P-deficient soils | General soil health recovery, foliar [[aact-disease-suppression-mechanisms-ingham]] |
 | **Drawbacks** | Species may not persist; wrong strain wastes money | Short-lived biology; inconsistent if brewing is poor |
 | **Application** | Seed coat, soil drench, root dip | Soil drench, foliar spray |
 | **Persistence** | Seasonal to multi-year, especially mycorrhizae | Days to weeks; requires repeated applications |
@@ -65,19 +65,19 @@ Application timing matters. Soil drenches are most effective during periods of a
 
 Select biofertilizers when you need a predictable, targeted biological input. Inoculating legume seed with the correct Rhizobium strain before planting is one of the most reliable and cost-effective practices in agriculture, capable of fixing 50 to 300 kg of nitrogen per hectare depending on the legume species and growing conditions. This can represent a significant cost saving on nitrogen fertilizer, which is one of the most expensive inputs in many farming systems.
 
-Mycorrhizal inoculants are valuable when establishing perennial crops, orchards, or timber plantations on degraded soils where native mycorrhizal networks have been depleted by prolonged tillage, fallow periods, or chemical inputs. Phosphate-solubilizing inoculants make sense in soils with high total phosphorus but low availability.
+[[pgpr-mycorrhizal-inoculants-microplant-establishment]] are valuable when establishing perennial crops, orchards, or timber plantations on degraded soils where native [[dighton-mycorrhizal-networks-carbon-transfer]] have been depleted by prolonged tillage, fallow periods, or chemical inputs. Phosphate-solubilizing inoculants make sense in soils with high total phosphorus but low availability.
 
-Biofertilizers also suit operations that want a simple, repeatable input without investing in brewing equipment. Commercial products come with clear application rates and integrate easily into existing planting workflows with minimal training or infrastructure changes. Regulatory considerations also differ: biofertilizers are typically registered as agricultural inputs with defined application rates, while compost tea falls into a regulatory gray area in many jurisdictions.
+Biofertilizers also suit operations that want a simple, repeatable input without investing in [[compost-tea-brewing-equipment-ingham]]. Commercial products come with clear application rates and integrate easily into existing planting workflows with minimal training or infrastructure changes. Regulatory considerations also differ: biofertilizers are typically registered as agricultural inputs with defined application rates, while compost tea falls into a regulatory gray area in many jurisdictions.
 
 ## When to Choose Compost Tea
 
 Compost tea is the better choice when the goal is overall soil biology restoration rather than a single nutrient function. Farms transitioning from conventional to biological management often use compost tea as a bridge, rapidly repopulating soils that have been depleted by tillage and chemical inputs.
 
-Foliar applications are particularly effective for disease suppression on high-value vegetable and fruit crops. Compost tea is also ideal for farms that already produce high-quality compost as part of their nutrient management plan, closing the loop with very little additional cost.
+Foliar applications are particularly effective for disease suppression on high-value vegetable and fruit crops. Compost tea is also ideal for farms that already produce high-quality compost as part of their [[green-cannabis-grow-bible-nutrient-management-ppm]] plan, closing the loop with very little additional cost.
 
 The brewing process itself is educational. Farmers who brew compost tea develop a deeper understanding of soil biology that informs all of their land management decisions, from cover crop selection to tillage frequency and residue management. Regular compost tea applications, typically every two to four weeks during the growing season, help maintain the biological momentum that supports plant health and nutrient cycling.
 
-For farmers new to biological management, starting with compost tea is often easier than evaluating and selecting among the many biofertilizer products on the market. The brewing process teaches core concepts about microbial ecology that inform better decision-making across the entire farm system.
+For farmers new to biological management, starting with compost tea is often easier than evaluating and selecting among the many biofertilizer products on the market. The brewing process teaches core concepts about [[fukuoka-microbial-ecology-decomposition]] that inform better decision-making across the entire farm system.
 
 ## Hybrid Approaches
 

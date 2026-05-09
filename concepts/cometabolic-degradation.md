@@ -1,5 +1,5 @@
 ---
-title: Cometabolic Degradation Pathways
+title: Cometabolic staycare-chlorophenol-degradation-pathways-white-rot-fungi
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -14,7 +14,7 @@ Cometabolism is a process in which microorganisms transform a compound that they
 
 The transformation occurs incidentally through enzymes that are produced for the metabolism of other substrates, known as primary substrates or growth substrates.
 
-Cometabolism is a critical concept in environmental microbiology and bioremediation because many environmentally persistent pollutants, including chlorinated solvents, polycyclic aromatic hydrocarbons, and certain pesticides, are degraded primarily or exclusively through cometabolic pathways.
+Cometabolism is a critical concept in environmental microbiology and bioremediation because many environmentally persistent pollutants, including chlorinated solvents, [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons, and certain pesticides, are degraded primarily or exclusively through cometabolic pathways.
 
 Understanding cometabolic degradation is essential for designing effective [[bioaugmentation-strategies]] for recalcitrant contaminant treatment.
 
@@ -42,9 +42,9 @@ Low molecular weight PAHs such as naphthalene and phenanthrene can serve as grow
 
 White-rot fungi are particularly important for cometabolic PAH degradation because their ligninolytic enzyme system has broad substrate specificity.
 
-The lignin peroxidase of Phanerochaete chrysosporium oxidizes PAHs through one-electron oxidation, generating aryl radical cations that undergo subsequent non-enzymatic reactions including ring opening and incorporation of oxygen.
+The [[fungal-lignin-peroxidase-veratryl-alcohol]] of [[staycare-phanerochaete-chrysosporium-in-bioremediation]] oxidizes PAHs through one-electron oxidation, generating aryl radical cations that undergo subsequent non-enzymatic reactions including ring opening and incorporation of oxygen.
 
-Manganese peroxidase, also produced by white-rot fungi, oxidizes PAHs indirectly through the generation of Mn(III) chelates and lipid peroxidation intermediates that diffuse into the soil matrix and attack sorbed PAH molecules.
+[[fungal-manganese-peroxidase-remediation]], also produced by white-rot fungi, oxidizes PAHs indirectly through the generation of Mn(III) chelates and lipid peroxidation intermediates that diffuse into the soil matrix and attack sorbed PAH molecules.
 
 Fungal PAH degradation is described in detail in [[fungal-pah-degradation-pathways]].
 
@@ -54,7 +54,7 @@ Pseudomonas and Sphingomonas species growing on naphthalene or phenanthrene can 
 
 ## Cometabolism of Pesticides and Other Xenobiotics
 
-Many synthetic pesticides are degraded through cometabolic pathways because their chemical structures are not recognized as growth substrates by most soil microorganisms.
+Many synthetic pesticides are degraded through cometabolic pathways because their [[plants-of-the-gods-chemical-structures-hallucinogens]] are not recognized as growth substrates by most soil microorganisms.
 
 The herbicide atrazine is cometabolized by bacteria expressing enzymes for the metabolism of other s-triazine compounds.
 
@@ -68,7 +68,7 @@ Supply of electron donors and acceptors must be balanced to maintain the redox c
 
 Methanotrophic systems require continuous methane and oxygen supply, which presents engineering challenges for in situ groundwater treatment.
 
-Bioaugmentation with organisms possessing high cometabolic activity can accelerate treatment, as described in [[fungal-bioreactor-types-for-pollutant-removal]] and monitored natural attenuation, can provide more robust and reliable treatment of contaminated sites.
+Bioaugmentation with organisms possessing high cometabolic activity can accelerate treatment, as described in fungal-bioreactor-types-for-pollutant-removal and monitored natural attenuation, can provide more robust and reliable treatment of contaminated sites.
 ## Practical Considerations
 
 Successful implementation of Cometabolic Degradation Pathways requires attention to
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

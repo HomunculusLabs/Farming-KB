@@ -1,10 +1,11 @@
 ---
-title: "Sheet Mulching vs Double Digging"
+title: "comparison-sheet-mulching-vs-chop-and-drop-mulching vs comparison-double-digging-vs-no-till"
 created: 2026-04-28
 tags: [comparison, garden-beds, soil-preparation, permaculture, biointensive]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/john-jeavons-how-to-grow-more-vegetables.md"
 type: comparison
 ---
 
@@ -15,7 +16,7 @@ Sheet mulching and double digging are two fundamentally opposed
 approaches to creating productive garden beds. Sheet mulching,
 also known as lasagna gardening, builds fertile soil from the
 surface downward through layered organic materials without soil
-disturbance. Double digging, central to the biointensive method
+disturbance. Double digging, central to the [[jeavons-grow-biointensive-method-overview]]
 developed by John Jeavons, creates deep, loose beds through
 mechanical soil inversion to 24 inches deep. The choice between
 these methods involves tradeoffs between labor, time, soil
@@ -32,7 +33,7 @@ sunlight from reaching existing vegetation and weed seeds, sheet
 mulching can convert lawn areas, weedy lots, or compacted ground into
 plantable beds without the need for herbicides or intensive manual
 weeding. The thick mulch layer also retains soil moisture, moderates
-soil temperature, and provides habitat for beneficial soil organisms
+soil temperature, and provides [[query-how-do-i-design-habitat-for-beneficial-insects]] soil organisms
 including earthworms, fungi, and bacteria that accelerate the
 decomposition process.
 
@@ -48,7 +49,7 @@ in partially decomposed beds.
 ## Double Digging
 [[solomon-double-digging]]
 
-Double digging is an intensive bed preparation method that loosens
+Double digging is an [[coleman-french-intensive-bed-method]] preparation method that loosens
 soil to a depth of approximately 24 inches by systematically removing
 topsoil, loosening the subsoil beneath it, and replacing the topsoil
 with incorporated amendments. Developed and popularized by John Jeavons
@@ -99,7 +100,7 @@ when the existing ground is covered with persistent weeds or grass
 that needs smothering, or when soil biology preservation is a priority.
 It is the natural choice for permaculture practitioners, no-till
 gardeners, and anyone building new garden space in advance of the
-growing season. Sheet mulching is particularly effective on slopes and
+[[savory-growing-season-and-non-growing-season-management]]. Sheet mulching is particularly effective on slopes and
 erodible sites where soil disturbance would increase erosion risk.
 
 The method also shines for creating garden beds over compacted urban

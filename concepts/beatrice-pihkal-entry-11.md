@@ -1,5 +1,5 @@
 ---
-title: BEATRICE (N-Methyl-DOM) - PIHKAL Entry #11
+title: BEATRICE (N-Methyl-DOM) - 2c-b-pihkal-entry-20 #11
 created: 2026-04-28
 tags: [pihkal, amphetamine, dom-analogue, n-methyl, classic-ladies]
 date: 2026-04-28
@@ -115,6 +115,12 @@ reduced potency and increased stimulant character. This parallels
 findings across the phenethylamine/amphetamine class.
 
 ## See Also
+
+- [[2c-t-4-pihkal-entry-41]]
+- [[ariadne-pihkal-entry-8]]
+- [[boh-pihkal-entry-15]]
+- [[asb-pihkal-entry-9]]
+- [[b-pihkal-entry-10]]
 
 - [[dom]]
 - [[pihkal-mdma]]

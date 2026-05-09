@@ -1,5 +1,5 @@
 ---
-title: Phoenix Oyster Mushroom (Pleurotus pulmonarius) Cultivation
+title: growing gourmet phoenix oyster pulmonarius cultivation Mushroom (Pleurotus pulmonarius) Cultivation
 created: 2026-04-26
 tags:
   - mycology
@@ -14,12 +14,12 @@ sources:
 type: concept
 ---
 
-# Phoenix Oyster Mushroom ([[pleurotus-species-and-varieties]] and differs largely in
-its habitat preference for conifer woods. In the Western United States,
+# Phoenix Oyster Mushroom (pleurotus-species-and-varieties and differs largely in
+its habitat preference for conifer woods. In the Western [[dmt-containing-plants-united-states-halpern]],
 P. pulmonarius is usually found at higher altitudes than P. ostreatus
 which prefers lowland river valleys. P. pulmonarius is primarily a
 spring mushroom while P. ostreatus grows most prevalently summer to
-fall. The North American collections show a wider range in color than
+fall. The [[growing-gourmet-north-american-reishi-species]] collections show a wider range in color than
 European collections. P. pulmonarius hosts a large complex of varieties,
 offering cultivators a rich resource for new strains.
 
@@ -67,7 +67,7 @@ some conifers.
 ## Microscopic Features
 
 Spores white to yellowish to lavender grey when dense, more or less
-cylindrical, 7.5-11 x 3-4 micrometers. [[spawn-grain-to-grain-transfer]] sown directly into pasteurized straw or
+cylindrical, 7.5-11 x 3-4 micrometers. [[spawn-grain-to-grain-transfer]] sown directly into [[oyster-mushroom-pasteurized-straw-cultivation]] or
 sterilized sawdust. More economically grown on pasteurized substrates,
 especially cereal straws, than on wood-based substrates.
 
@@ -82,7 +82,7 @@ sugar cane bagasse, coffee waste, pulp mill sludge, cotton waste and
 numerous other agricultural and forest waste by-products. Royse and
 Bahier (1988) found that 20% alfalfa hay added to wheat straw
 substantially increased yields. Yields peaked with wheat straw, alfalfa,
-and delayed release nutrients combined.
+and [[mushroom-delayed-release-supplements]] nutrients combined.
 
 ### Containers
 Perforated plastic bags, columns, bags, trays, vertical racks, and
@@ -119,7 +119,7 @@ Every 7-10 days for 3 flushes.
 
 ## Yield and Harvest
 
-Biological efficiency 100-200%, greatly affected by the size of the
+[[stamets-biological-efficiency-yield]] 100-200%, greatly affected by the size of the
 fruitbody at harvest and whether a fourth or fifth flush is achieved.
 Because this mushroom grows so quickly, timing of harvest is critical.
 Mushrooms more often form individually, in twos or threes, but rarely
@@ -129,3 +129,4 @@ trait not generally seen with other Pleurotus species. If picked at full
 ## See Also
 
 - [[growing-gourmet-polypore-mushrooms-cultivation-overview]]
+- [[growing-gourmet-tarragon-oyster-euosmus-cultivation]]

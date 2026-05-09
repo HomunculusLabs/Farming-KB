@@ -13,7 +13,7 @@ type: concept
 
 Turf and lawn management with [[elaine-ingham]]'s soil foodweb
 approach. Lawns typically suffer from compacted soil, loss of
-fungal communities, and over-reliance on chemical inputs that
+[[biodiversity-of-fungi-soil-fungal-communities-agriculture]], and over-reliance on chemical inputs that
 destroy beneficial biology. Ingham's field guide provides specific
 guidance for restoring lawn health through compost tea and
 biological management.
@@ -23,7 +23,7 @@ biological management.
 Ingham describes her own experience as instructive: after achieving
 good soil tilth in her yard, she neglected it for about 8 years.
 The result was thatch development, moss out of control, hard soil,
-and loss of fungal communities. Contributing factors included:
+and loss of fungal communities. [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]] included:
 - Herbicide drift from neighborhood applications
 - Heavy foot traffic (kids playing soccer) compacting soil
 - Clay substrate with poor natural structure
@@ -31,12 +31,12 @@ and loss of fungal communities. Contributing factors included:
 - Forgetting to apply compost for years
 
 Rain can compact soil where biology is too low. Hard soil surfaces
-suggest lack of appropriate biology, lack of food (organic matter),
+suggest lack of appropriate biology, lack of food ([[hamilton-composting-and-organic-matter-management]]),
 or past impacts that wiped out the biology.
 
 ## Diagnosing Lawn Problems
 
-Signs that your lawn has lost its fungal community:
+Signs that your lawn has lost its [[air-pollution-fungal-community-responses]]:
 - Thatch accumulation (fungi normally decompose thatch)
 - Moss proliferation (indicates bacterial dominance, poor
   drainage, low fungal activity)
@@ -46,7 +46,7 @@ Signs that your lawn has lost its fungal community:
   bacterial systems)
 - Compacted, hard soil surface
 - Poor water infiltration
-- Grubs and root-feeding pests (beneficial nematodes and fungi
+- Grubs and root-feeding pests ([[ingham-beneficial-nematodes-soil-food-web]] and fungi
   depleted)
 
 ## Assessing What Biology Is Lacking
@@ -69,7 +69,7 @@ Ingham provides this recipe for fungal AACT for lawns:
 - Small amount of molasses (1 teaspoon per 5 gallons, or 0.5
   gallons in 500-gallon brewer)
 - Kelp at 0.1% (half pound in 5-gallon brew)
-- Fish hydrolysate at 0.1%
+- [[comparison-fish-hydrolysate-vs-fish-emulsion]] at 0.1%
 - Humic acid or protein meals for additional fungal food
 - Water as carrier for the tea
 

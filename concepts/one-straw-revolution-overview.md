@@ -5,15 +5,16 @@ updated: 2026-04-15
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # The One-Straw Revolution -- Overview
 
-The One-Straw Revolution (1975) by Masanobu Fukuoka is one of the foundational texts of the sustainable agriculture movement. Part farming manual, part philosophical treatise, part spiritual memoir, the book presents a radical alternative to both conventional chemical agriculture and organic farming. Since its publication, it has influenced permaculture, regenerative agriculture, agroecology, and the broader environmental movement worldwide.
+The One-Straw Revolution (1975) by Masanobu Fukuoka is one of the foundational texts of the sustainable agriculture movement. Part farming manual, part philosophical treatise, part spiritual memoir, the book presents a radical alternative to both conventional chemical agriculture and [[coleman-deep-organic-farming-philosophy]]. Since its publication, it has influenced permaculture, regenerative agriculture, agroecology, and the broader environmental movement worldwide.
 
 ## About the Author
 
-Masanobu Fukuoka (1913-2008) was a Japanese farmer, philosopher, and microbiologist born in Iyo, Ehime Prefecture, on the island of Shikoku. After training as a plant pathologist and working at the Yokohama Customs Office's agricultural inspection division, he experienced a spiritual crisis at age 25 that fundamentally changed his understanding of life and nature. He abandoned his scientific career, returned to his family's farm, and spent the next several decades developing and refining what he called "natural farming" -- a method of growing food that works with nature rather than against it.
+Masanobu Fukuoka (1913-2008) was a Japanese farmer, philosopher, and microbiologist born in Iyo, Ehime Prefecture, on the island of Shikoku. After training as a plant pathologist and working at the Yokohama Customs Office's agricultural inspection division, he experienced a spiritual crisis at age 25 that fundamentally changed his understanding of life and nature. He abandoned his scientific career, returned to his family's farm, and spent the next several decades developing and refining what he called "[[comparison-natural-farming-vs-permaculture]]" -- a method of growing food that works with nature rather than against it.
 
 ## The Central Thesis
 
@@ -26,7 +27,7 @@ The One-Straw Revolution argues that modern agriculture -- and by extension, mod
 The book is organized into several sections that weave together practical farming advice, philosophical reflection, and personal narrative:
 
 ### Part One: A Look at the Work
-Practical descriptions of Fukuoka's farming methods, including:
+Practical descriptions of Fukuoka's [[natural-farming-methods-comparison]], including:
 - [[fukuoka-natural-orchard-management]] -- the natural mandarin orange orchard
 - [[clay-ball-seed-pellets]] -- the seed protection technique
 - [[four-principles-of-natural-farming]] that define Fukuoka's approach:
@@ -75,7 +76,7 @@ The One-Straw Revolution has had profound influence across multiple fields:
 - Yields: ~22 bushels (1,300 pounds) per quarter acre for both rice and winter grain -- matching top conventional yields
 - Labor: one or two people can manage a quarter-acre rice/barley field with just a few days of work per year
 - Soil improvement: continuous improvement in soil quality over 25+ years without any inputs
-- Pest and disease: no significant problems despite zero pesticide use
+- [[hamilton-pest-and-disease-control-organic]]: no significant problems despite zero pesticide use
 
 ## Limitations and Criticisms
 
@@ -93,9 +94,9 @@ Originally published in Japanese in 1975, the book has been translated into nume
 
 ## Related
 
-- [[natural-farming-philosophy]] -- natural farming philosophy in depth
+- [[natural-farming-philosophy]] -- natural [[fukuoka-do-nothing-farming-philosophy-and-practice]] in depth
 - [[fukuoka-do-nothing-farming-and-spiritual-life]] -- do-nothing farming
 - [[fukuoka-rice-and-barley-natural-farming]] -- the rice/barley system
-- [[fukuoka-vegetable-growing-natural-method]] -- vegetable growing
+- [[fukuoka-vegetable-growing-natural-method]] -- [[fukuoka-semi-wild-vegetable-growing-natural-method]]
 - [[fukuoka-ground-cover-strategy]] -- ground cover approach
 - regenerative agriculture history -- broader regenerative context

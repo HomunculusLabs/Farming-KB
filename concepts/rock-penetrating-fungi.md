@@ -3,14 +3,12 @@ title: Rock-Penetrating Fungi and Lithotrophic Interactions
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: [/Users/t3rpz/wiki/raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md]
 ---
-# Rock-Penetrating Fungi and Lithotrophic Interactions
-
-Fungi are among the most powerful agents of biological rock weathering on Earth, capable of dissolving and penetrating solid stone through a combination of biochemical and biomechanical mechanisms. As documented in Nicholas Money's Mr. Bloomfield's Orchard, rock-penetrating fungi play critical roles in soil formation, nutrient cycling, and even the initial colonization of land surfaces. These organisms blur the boundary between the biological and geological worlds and are closely linked to mycorrhizal-symbiosis and [[fungal-biology-fundamentals]]
+# Rock-Penetrating Fungi and Lithotrophic Interactions Fungi are among the most powerful agents of biological rock weathering on Earth, capable of dissolving and penetrating solid stone through a combination of biochemical and biomechanical mechanisms. As documented in Nicholas Money's Mr. Bloomfield's Orchard, rock-penetrating fungi play critical roles in soil formation, nutrient cycling, and even the initial colonization of land surfaces. These organisms blur the boundary between the biological and geological worlds and are closely linked to mycorrhizal-symbiosis and [[fungal-biology-fundamentals]]
 - [[truffle-evolution-and-hypogeous-fungi]]
-- [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]
+- fungal-symbiosis-with-plants-beyond-mycorrhizae
 - [[nutrient-movement-through-soil-to-plant-roots]]
 ## Background and Context
 
@@ -62,7 +60,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -112,7 +110,7 @@ Building resilience into systems through diversity, redundancy, and
 adaptive capacity helps mitigate the impacts of these uncertainties.
 
 Knowledge gaps and the ongoing evolution of understanding mean that
-current best practices represent our current state of knowledge rather
+current [[knf-imo-diversity-and-best-practices]] represent our current state of knowledge rather
 than final answers. Practitioners should maintain intellectual humility
 and remain open to new information and approaches that may improve
 upon established methods. Continuous learning and observation are
@@ -140,4 +138,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

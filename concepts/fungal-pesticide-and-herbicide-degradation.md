@@ -1,33 +1,17 @@
 ---
-title: Fungal Pesticide and Herbicide Degradation
+title: Fungal fungal pesticide and herbicide degradation Degradation
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-
-# Fungal Pesticide and Herbicide Degradation
-
-Fungi play important roles in the degradation of agricultural pesticides and herbicides in soil environments. Their mycelial growth maximizes both physical/mechanical and enzymatic contact with the environment, giving them advantages over bacteria for sorption-limited contaminants. The extensive hyphal networks produced by fungi can penetrate soil aggregates and access contaminants that are otherwise poorly bioavailable to smaller microbial cells.
-
-The significance of fungal degradation of pesticides has grown as regulatory pressure has increased on pesticide residues in soil and water. Many synthetic pesticides are structurally related to natural lignin-derived compounds, making them susceptible to the broad-specificity oxidative enzymes produced by ligninolytic fungi. See [[fungal-formulation-in-situ-bioremediation]]
-
-## Environmental Factors Affecting Degradation
-
-Several environmental variables influence the rate and extent of fungal pesticide degradation:
-
-- **Soil organic matter**: Higher organic matter increases pesticide sorption, reducing bioavailability but potentially providing co-substrate for co-metabolic degradation
-- **Moisture content**: Optimal moisture supports fungal growth and enzyme production; waterlogged conditions shift degradation toward anaerobic pathways
-- **Temperature**: Mesophilic fungi perform optimally at 20-30°C; temperature extremes reduce enzymatic activity
-- **pH**: Affects both fungal physiology and pesticide speciation, with implications for degradation kinetics
-
-See [[mycoremediation-pesticides]]
+# Fungal Pesticide and Herbicide Degradation Fungi play important roles in the degradation of agricultural pesticides and herbicides in soil environments. Their mycelial growth maximizes both physical/mechanical and enzymatic contact with the environment, giving them advantages over bacteria for sorption-limited contaminants. The extensive hyphal networks produced by fungi can penetrate soil aggregates and access contaminants that are otherwise poorly bioavailable to smaller microbial cells. The significance of fungal degradation of pesticides has grown as regulatory pressure has increased on pesticide residues in soil and water. Many synthetic pesticides are structurally related to natural lignin-derived compounds, making them susceptible to the broad-specificity oxidative enzymes produced by ligninolytic fungi. See fungal-formulation-in-situ-bioremediation ## Environmental Factors Affecting Degradation Several environmental variables influence the rate and extent of fungal pesticide degradation: - **Soil organic matter**: Higher organic matter increases pesticide sorption, reducing bioavailability but potentially providing co-substrate for co-metabolic degradation - **Moisture content**: Optimal moisture supports fungal growth and enzyme production; waterlogged conditions shift degradation toward anaerobic pathways - **Temperature**: Mesophilic fungi perform optimally at 20-30°C; temperature extremes reduce enzymatic activity - **pH**: Affects both fungal physiology and pesticide speciation, with implications for degradation kinetics See [[mycoremediation-pesticides]]
 - [[enzymatic-degradation-in-mycoremediation]]
 - [[nitrogen-transfer-through-common-mycorrhizal-networks]]
 - [[singh-ligninolytic-enzymes-fungal-bioremediation]]
 - [[fungal-degradation-of-pesticides]]
-- [[fungal-bioremediation-organic-pollutants]]
+- fungal-bioremediation-organic-pollutants
 - [[fungal-enzymatic-diversity-decomposition]]
 - [[fungal-enzyme-systems]]
 ## Practical Applications
@@ -107,4 +91,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

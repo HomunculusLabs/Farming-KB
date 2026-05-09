@@ -1,10 +1,10 @@
 ---
-title: JADAM Herb Solution (JHS) - Fermented Plant Juice for Pest Control
+title: JADAM Herb Solution (JHS) - bionutrients-lab-fermented-plant-juice-fpj for Pest Control
 created: 2026-04-26
 updated: 2026-04-23
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
-  - JADAM Organic Farming: The Way to Ultra-Low-Cost Agriculture (Youngsang Cho, 2016)
+  - JADAM [[coleman-deep-organic-farming-philosophy]]: The Way to Ultra-Low-Cost Agriculture (Youngsang Cho, 2016)
 type: concept
 tags: [fermentation, jadam, plants]
 ---
@@ -12,8 +12,8 @@ tags: [fermentation, jadam, plants]
 # JADAM Herb Solution (JHS) - Fermented Plant Juice for Pest Control
 
 JADAM Herb Solution (JHS) is a boiled herbal extract used primarily for
-its insect-controlling effect in the JADAM natural pesticide system.
-Unlike Korean Natural Farming's [[jadam-wetting-agent-jwa]], forming foam readily, whereas
+its insect-controlling effect in the JADAM [[jadam-natural-pesticide-institute-and-research]] system.
+Unlike Korean [[comparison-natural-farming-vs-permaculture]]'s [[jadam-wetting-agent-jwa]], forming foam readily, whereas
 herbal solutions brewed in vinegar or wood vinegar do not mix as well.
 
 Fermented extracts from vinegar or alcohol can work but add complexity
@@ -39,7 +39,7 @@ aphids, mites, and most moth species.
 ### Medium Level: Gingko
 
 The gingko tree has what Cho calls "the perfect defense mechanism
-against pests and diseases." Fresh leaves, fallen leaves, and fruits are
+against [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]." Fresh leaves, fallen leaves, and fruits are
 all used for JHS production.
 
 ### Strong Level: Korean Pasque Flower Root (KPFR)
@@ -70,7 +70,7 @@ Mix 3 to 20 liters of JHS with water to make 500 liters (132 gal) of
 finished spray solution. The concentration is adjusted based on pest
 severity. For fog machines, use 10 L of JHS per 17 L of water.
 
-JHS also functions as an excellent liquid fertilizer, providing nutrients
+JHS also functions as an excellent [[jadam-liquid-fertilizer-nutritional-perspective]], providing nutrients
 unimaginable with chemical pesticides. [[jadam-herb-solution-jhs]]
 - [[jadam-jhs-nutritional-analysis]]
 - [[jadam-jms-jhs-pesticide]]
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: Fungal Pathogens in Agriculture
+title: bloomfield-fungal-pathogens-and-parasites in Agriculture
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -21,7 +21,7 @@ Fungal pathogens are the most significant cause of crop disease worldwide, respo
 - **Botrytis** (Botrytis cinerea): Gray mold. Affects virtually all crops, especially in cool damp conditions. Post-harvest rot
 
 ### Soil-Borne Root and Stem Pathogens
-- **Fusarium wilt** (Fusarium oxysporum): Vascular wilt, blocks water transport. Race-specific strains. Affects tomato, banana (Panama disease), cotton, watermelon
+- **Fusarium wilt** (Fusarium oxysporum): [[cervantes-fusarium-vascular-wilt-diseases]], blocks water transport. Race-specific strains. Affects tomato, banana (Panama disease), cotton, watermelon
 - **Verticillium wilt** (Verticillium dahliae): Similar to Fusarium wilt but broader host range. Affects potato, tomato, pepper, eggplant
 - **Rhizoctonia** (Rhizoctonia solani): Damping-off of seedlings, stem canker, root rot. Very broad host range. Soil inhabitant (survives as sclerotia)
 - **Pythium** (Pythium spp.): Damping-off, root rot. Water mold. Favored by waterlogged soils
@@ -45,14 +45,14 @@ Fungal pathogens are the most significant cause of crop disease worldwide, respo
 ### Biological Control
 - **Trichoderma**: Antagonistic fungus used as seed treatment and soil drench. Competes with pathogens, produces antibiotics, parasitizes pathogenic fungi
 - **Bacillus subtilis**: Bacterial biocontrol agent. Produces antifungal compounds
-- **Mycorrhizal fungi**: Protect roots from pathogen colonization
+- **[[arbuscular-mycorrhizal-fungi-biology-symbiosis]]**: Protect roots from pathogen colonization
 - **Compost tea**: Apply beneficial organisms that compete with pathogens
 
 ### Organic Approved Fungicides
 - Copper-based products (Bordeaux mix): broad-spectrum, some soil accumulation concern
 - Sulfur: effective against powdery mildew, rusts
 - Neem oil: antifungal and insecticidal
-- Potassium bicarbonate: changes leaf surface pH, inhibits spore germination
+- Potassium bicarbonate: changes leaf surface pH, inhibits [[growing-gourmet-spore-germination-strain-isolation]]
 - Biological fungicides (Trichoderma-based products)
 
 ### Integrated Management
@@ -64,10 +64,10 @@ Fungal pathogens are the most significant cause of crop disease worldwide, respo
 - Rotate crops to break pathogen cycles
 
 ## Related
-- [[natural-farming-pest-management]] — for organic pest management
+- [[natural-farming-pest-management]] — for organic [[cannabis-pest-management-guide]]
 - [[companion-planting-deterrents]] — for prevention-based approaches
 - [[mycopesticides-fungal-biocontrol]] — for fungal biocontrol agents
-- [[soil-food-web-structure]] — for biological disease suppression
+- [[soil-food-web-structure]] — for biological [[aact-disease-suppression-mechanisms-ingham]]
 ## Practical Considerations
 
 Successful implementation of Fungal Pathogens in Agriculture requires attention to
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -8,7 +8,7 @@ sources: []
 ---
 # BOHD
 
-**PIHKAL Entry #16** -- 2,5-Dimethoxy-beta-hydroxy-4-methylphenethylamine
+**[[2c-b-pihkal-entry-20]] #16** -- 2,5-Dimethoxy-beta-hydroxy-4-methylphenethylamine
 
 ## Chemical Name
 
@@ -31,7 +31,7 @@ further tests are planned.
 
 A solution of 0.4 g 1-(2,5-dimethoxy-4-methylphenyl)-1-methoxy-2-nitroethane
 (see preparation in the recipe for BOD) in 3.0 mL acetic acid was heated to 100
-degrees C on a steam bath. There was added 1.0 g powdered zinc, followed by
+degrees C on a [[scythian-cannabis-steam-bath-ritual]]. There was added 1.0 g powdered zinc, followed by
 additional acetic acid as needed to maintain smooth stirring. After 0.5 h there
 was added 1.0 mL concentrated HCl and, following an additional few minutes
 heating, the reaction mixture was poured into 300 mL H2O. After washing the

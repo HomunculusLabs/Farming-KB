@@ -1,5 +1,5 @@
 ---
-title: Kitchen Garden Herbs and Medicinal Plants
+title: holzer kitchen garden herbs and medicinal plants Herbs and Medicinal Plants
 created: 2026-04-26
 tags:
   - herbs
@@ -21,7 +21,7 @@ common herbs. This knowledge, largely forgotten in the age of pharmaceuticals,
 represents a vital aspect of [[holzer-kitchen-garden-layout-and-traditional-gardening]] and reflects the broader [[holzer-medicinal-and-culinary-herbs-compendium]] and the broader tradition of
 herbal plant remedies.
 ## The Pharmacy on the Doorstep
-The wide selection of medicinal herbs turned kitchen gardens into an
+The wide selection of [[permaculture-plants-medicinal-herbs-healing]] turned kitchen gardens into an
 indispensable source of valuable medicines for every farm. This was useful
 because doctors and midwives were often difficult to reach and also took a
 long time to arrive. In every kitchen garden there was an even mixture of
@@ -29,7 +29,7 @@ medicinal herbs that might be needed. Every farmer had their own recipes for
 medicinal creams, tinctures, compresses, poultices, and teas.
 ### Coughs and Colds
 If someone in the family fell ill, the first thing Holzer's mother did was
-go into the garden. For coughs she made a tea from mint, lemon balm, and
+go into the garden. For coughs she made a tea from mint, [[comparison-lemon-balm-vs-passionflower]], and
 marsh mallow. The soothing effect of marsh mallow (Althaea officinalis) on
 sore throats, hoarseness, and dry coughs has since been scientifically
 recognised.
@@ -57,7 +57,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,4 +99,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

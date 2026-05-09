@@ -1,5 +1,5 @@
 ---
-title: Coleman's Winter Harvest Three Components
+title: Coleman's coleman-claytonia-winter-harvest-cultivation Three Components
 created: 2026-05-08
 tags: [farming, winter-harvest, Eliot-Coleman, greenhouse, succession-planting, cold-hardy-vegetables, four-season-farming]
 date: 2026-05-08
@@ -15,7 +15,7 @@ Eliot Coleman's winter harvest system at Four Season Farm in Harborside,
 Maine (USDA Zone 5) rests on three foundational components that work
 synergistically. No single element is sufficient on its own; the magic
 emerges from their interaction. Together they enable year-round vegetable
-production in an unheated greenhouse without any artificial heat, fossil
+production in an [[coleman-unheated-greenhouse-design]] without any artificial heat, fossil
 fuels, or complex technology.
 
 ## 1. Cold-Hardy Vegetables
@@ -23,7 +23,7 @@ fuels, or complex technology.
 The first component is the selection of plant species and varieties
 naturally adapted to cold conditions. Coleman focuses on crops that are
 not merely tolerant of cold but actively improved by it. Many of these
-are "winter-annual" crops — plants whose natural life cycle involves
+are "winter-annual" crops — plants whose natural [[bloomfield-fungal-life-cycle-spiral-versus-circle]] involves
 germinating in fall, growing slowly through winter, and bolting in
 spring. Examples include mache (corn salad), claytonia (miner's
 lettuce), and minutina.
@@ -49,7 +49,7 @@ antioxidant benefits.
 
 The second component is precise timing of sowings, beginning August 1 —
 what Coleman calls the "second spring." This date marks the point when
-day length and temperatures begin to moderate after midsummer peak,
+[[coleman-winter-day-length-and-persephone-months]] and temperatures begin to moderate after midsummer peak,
 creating conditions favorable for establishing crops that will mature
 slowly through fall and winter.
 
@@ -76,7 +76,7 @@ and receptive to germination even in midwinter.
 The third component is the protected cultivation environment: standard
 plastic-covered hoop houses with an inner layer of floating row cover
 suspended on wire wickets over the crops. This double-layer system is
-what Coleman calls a "cold house" — deliberately avoiding the term
+what Coleman calls a "[[coleman-cold-house-wind-protection-microclimate]]" — deliberately avoiding the term
 "unheated greenhouse" to prevent assumptions about the need for
 insulation or supplementary heating systems.
 
@@ -120,7 +120,7 @@ greenhouse against the winter cold, the system works with natural plant
 hardiness, the sun's energy, and the insulating properties of still air
 trapped between two translucent layers. The result is fresh, local
 vegetables harvested year-round in one of the coldest regions of the
-United States, using minimal external inputs and no fossil fuels for
+[[dmt-containing-plants-united-states-halpern]], using minimal external inputs and no fossil fuels for
 heating.
 
 ## Key Principles

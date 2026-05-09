@@ -72,9 +72,9 @@ This creates a paradox at the heart of agricultural science: its methods are str
 A scientist who attempts to test no-fertilizer cultivation must either:
 
 1. **Use standard experimental methods** (pots, controlled conditions) — which destroy the very soil biology that makes no-fertilizer farming work, guaranteeing poor results that "prove" fertilizer is necessary
-2. **Use natural field conditions** — which introduces too many uncontrolled variables for conventional experimental design, making the results unpublishable by scientific standards
+2. **Use natural field conditions** — which introduces too many uncontrolled variables for conventional [[lightproof-cap-experimental-design-phototropism]], making the results unpublishable by scientific standards
 
-Either way, the no-fertilizer hypothesis is never fairly tested. The methodological requirements of science and the ecological requirements of natural farming are mutually exclusive.
+Either way, the no-fertilizer hypothesis is never fairly tested. The methodological requirements of science and the ecological requirements of [[comparison-natural-farming-vs-permaculture]] are mutually exclusive.
 
 ## Institutional Barriers to Fundamental Questions
 
@@ -94,18 +94,18 @@ The possibility that the paradigm itself is wrong — that plants do not need fe
 
 ## Consequences for Agricultural Knowledge
 
-The practical consequence of this bias is that agricultural science has accumulated vast knowledge about how to optimize fertilizer application while remaining fundamentally ignorant about how plants actually obtain their nutrients in nature. Researchers can tell you precisely how many pounds of nitrogen a citrus tree consumes per unit of growth, but cannot explain how forest trees obtain the same nutrients without any application at all.
+The practical consequence of this bias is that agricultural science has accumulated vast knowledge about how to optimize [[cervantes-fertilizer-application-strain-feeding]] while remaining fundamentally ignorant about how plants actually obtain their nutrients in nature. Researchers can tell you precisely how many pounds of nitrogen a citrus tree consumes per unit of growth, but cannot explain how forest trees obtain the same nutrients without any application at all.
 
 This knowledge gap matters because it means that when the fertilizer paradigm eventually encounters its limits — through soil degradation, water pollution, energy scarcity, or economic unsustainability — the scientific community will have no alternative framework to offer. The knowledge needed for a post-fertilizer agriculture does not exist within the research system because the research system was never designed to produce it.
 
-Fukuoka's natural farming, developed through decades of direct observation and experimentation outside the research establishment, represents one of the few coherent alternatives. Its rejection by agricultural science is not surprising — it is precisely the fate that Kuhn predicted for challenges to established paradigms.
+Fukuoka's natural farming, developed through decades of [[fukuoka-direct-observation-method]] and experimentation outside the research establishment, represents one of the few coherent alternatives. Its rejection by agricultural science is not surprising — it is precisely the fate that Kuhn predicted for challenges to established paradigms.
 
 ## Broader Implications for Scientific Bias
 
 This pattern extends beyond fertilizer research. Fukuoka observes the same structural bias in:
 
 - **Tillage research**: No-plow experiments are rarely conducted because plowing is assumed necessary
-- **Pest control research**: No-spray experiments are rare because spraying is assumed necessary
+- **[[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] research**: No-spray experiments are rare because spraying is assumed necessary
 - **Weeding research**: No-weed experiments are rare because weed-free fields are assumed necessary
 
 In each case, the practice exists before the research that justifies it. The research does not test whether the practice is beneficial; it assumes the benefit and studies how to optimize it.
@@ -114,7 +114,7 @@ This is not science in the service of truth but science in the service of existi
 
 ## What Would Valid Research Look Like?
 
-Fukuoka's own farm serves as a kind of long-term experiment, though one that does not meet conventional scientific standards. He grew rice and barley without plowing for over twenty years and "never saw any sign of a decline in yields due to reduced soil fertility." This observation, coupled with the productivity of mountain forests, constitutes evidence that no-fertilizer cultivation is not merely possible but sustainable over decades.
+Fukuoka's own farm serves as a kind of long-term experiment, though one that does not meet conventional scientific standards. He grew [[fukuoka-rice-and-barley-natural-farming]] without plowing for over twenty years and "never saw any sign of a decline in yields due to reduced soil fertility." This observation, coupled with the productivity of mountain forests, constitutes evidence that no-fertilizer cultivation is not merely possible but sustainable over decades.
 
 A soil scientist who examined his fields reportedly said: "A study can look at the changes that arise with no-tillage farming, but it can't be used to judge the merit of no-tillage farming based on conventional ideas." This admission reveals the limits of conventional frameworks for evaluating fundamentally different approaches to agriculture.
 

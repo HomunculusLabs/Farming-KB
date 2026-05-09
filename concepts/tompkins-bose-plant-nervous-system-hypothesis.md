@@ -5,7 +5,7 @@ tags:
   - plant-neurobiology
   - bose
   - electrophysiology
-  - plant-perception
+  - [[plant-perception]]
   - tropisms
 date: 2026-04-25
 updated: 2026-04-25
@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-Sir Jagadis Chandra Bose's research, extensively documented in *The
+Sir Jagadis [[jagadis-chandra-bose-plant-research]]'s research, extensively documented in *The
 Secret Life of Plants*, represents one of the most ambitious attempts to
 demonstrate that plants possess a nervous system analogous to that of
 animals. Working in Calcutta in the early 1900s, Bose developed

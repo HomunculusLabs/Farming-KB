@@ -1,5 +1,5 @@
 ---
-title: "Green Manures and Cover Crops"
+title: "jeavons green manures cover crops and Cover Crops"
 created: 2026-04-28
 tags: [biointensive, green-manures, cover-crops, nitrogen-fixation,
   soil-fertility, legumes, compost-crops]
@@ -12,19 +12,19 @@ type: concept
 # Green Manures and Cover Crops
 
 Green manures are cover crops grown specifically to improve soil
-fertility. In conventional organic gardening, these crops — typically
+fertility. In conventional [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]], these crops — typically
 legumes such as vetch, clover, alfalfa, beans, or peas — are grown
 until the plants reach 10% to 50% flower, then dug directly into the
-soil. In the GROW BIOINTENSIVE method, green manure crops serve a
+soil. In the [[jeavons-grow-biointensive-method-overview]] method, green manure crops serve a
 different but equally important role, with important modifications
 to the traditional approach.
 
 ## Traditional Green Manuring
 
 The traditional practice involves growing nitrogen-rich legumes and
-incorporating them into the soil at the flowering stage. At this
+incorporating them into the soil at the [[cannabis-flowering-stage-management]]. At this
 point, a maximum of nitrogen has been fixed in the root nodules. The
-key indicator of successful nitrogen fixation is visible when you
+key indicator of successful [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] is visible when you
 cut a nodule in half with a fingernail: if the inside is pink,
 the nodules have fixed nitrogen effectively.
 
@@ -58,13 +58,13 @@ pile while also providing nutritious food.
 
 Legumes serve dual purposes in the GROW BIOINTENSIVE system:
 
-- **Heavy givers in crop rotation**: After harvesting
+- **Heavy givers in [[comparison-crop-rotation-vs-cover-cropping]]**: After harvesting
   [[jeavons-composting-methods]] before returning them
 to the soil.
 
 ## See Also
 
-- [[cover-crops-and-green-manures]]
+- [[cover-crops-green-manures]]
 ## Practical Considerations
 
 Successful implementation of Green Manures and Cover Crops requires attention to
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

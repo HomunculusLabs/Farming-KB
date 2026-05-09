@@ -22,7 +22,7 @@ type: concept
 Dermatophytes are a specialized group of fungi that infect the keratinized tissues of
 humans and other animals, including skin, hair, and nails. These infections, collectively
 known as tinea or ringworm, represent some of the most common and contagious fungal
-diseases worldwide. Unlike many fungal pathogens that are opportunistic and require
+diseases worldwide. Unlike many [[bloomfield-fungal-pathogens-and-parasites]] that are opportunistic and require
 compromised immunity, dermatophytes can infect otherwise healthy individuals with
 remarkable efficiency.
 
@@ -33,7 +33,7 @@ the outermost layers of the skin. Keratin is an intermediate filament protein ex
 into hair follicles, where it crystallizes into the familiar shafts of hair. From a
 nutritional perspective, a full head of human hair locks up approximately 1,000 calories,
 equivalent to the energy in a couple of cheeseburgers. This energy is unavailable to
-animals that lack the specific enzymes needed to dissolve keratin into an amino acid soup.
+animals that lack the specific enzymes needed to dissolve keratin into an [[cho-fish-amino-acid-preparation]] soup.
 Dermatophytes, however, possess these keratinolytic enzymes and can feast upon this
 resource that no animal can digest.
 
@@ -55,7 +55,7 @@ radial growth pattern of a mushroom-forming mycelium spreading through a meadow.
 corporis can manifest as intricate patterns of concentric rings formed by overlapping
 scales of infected skin that eventually cover the entire body. From a distance, heavily
 infected patients appear tattooed. Some ringworm fungi grow on a patient for decades,
-causing wholesale hair loss. Modern antifungal drugs, such as terbinafine (marketed as
+causing wholesale [[blesching-cannabis-hair-loss-alopecia]]. Modern antifungal drugs, such as terbinafine (marketed as
 Lamisil), are highly effective at curing these infections, representing a triumph of
 pharmaceutical science over what were once intractable conditions.
 
@@ -64,7 +64,7 @@ pharmaceutical science over what were once intractable conditions.
 Even healthy human skin is colonized by a varied collection of fungi. The scalp
 provides a grease bath where yeasts of the genus Malassezia immerse themselves in
 sebaceous fat and gorge on dandruff flakes. Malassezia is a microscopic epicure that
-can be cultured on agar medium only if bathed with olive oil, with mycologists
+can be cultured on agar medium only if bathed with [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]], with mycologists
 swearing by extra virgin. Dandruff is a complex complaint exacerbated by stress, diet,
 hormone balance, and weather, but it is always accompanied by Malassezia. The active
 component of Head and Shoulders shampoo, pyrithione zinc, inhibits fungal
@@ -105,7 +105,7 @@ environments such as schools, athletic facilities, and military barracks.
 
 Dermatophytes are readily isolated by sampling infected skin, hair, or nail scrapings
 and culturing on Sabouraud's agar, a medium with an acidic pH that selectively favors
-fungal growth over bacterial contaminants. In laboratory settings, dermatophyte
+[[brassinosteroid-fungal-growth-promotion]] over bacterial contaminants. In laboratory settings, dermatophyte
 cultures can contaminate incubators and spread to researchers, as documented at the
 University of Exeter where a student's feet were consumed by athlete's foot caused by
 a laboratory escapee. This underscores the importance of laminar airflow hoods and
@@ -125,5 +125,6 @@ spectrum of relationships between fungi and human hosts.
 ## Related Topics
 
 - [[bloomfield-fungal-parasites-of-insects]]
-- [[bloomfield-poisonous-mushrooms-and-mycotoxins]]
+- bloomfield-poisonous-mushrooms-and-mycotoxins
 - [[bloomfield-amatoxin-poisoning-mechanism]]
+- [[human-fungal-pathogens]]

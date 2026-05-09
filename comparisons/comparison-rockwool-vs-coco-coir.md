@@ -1,5 +1,5 @@
 ---
-title: "Rockwool vs Coco Coir"
+title: "comparison rockwool vs coco coir Coir"
 created: 2026-04-28
 tags: [comparison, growing-mediums, cannabis, hydroponics]
 date: 2026-04-25
@@ -9,7 +9,7 @@ type: comparison
 ---
 # Rockwool vs Coco Coir
 A detailed comparison of two of the most widely used growing substrates
-in cannabis cultivation and hydroponics. Both offer approximately 90%
+in [[query-how-does-no-till-cannabis-cultivation-work]] and hydroponics. Both offer approximately 90%
 porosity but differ significantly in their origin, chemistry, environmental
 impact, and overall grower experience. Understanding the strengths and
 weaknesses of each medium is essential for selecting the right substrate
@@ -43,7 +43,7 @@ Key advantages of coco coir:
 - Highly versatile across hydroponic and soil-based systems
 Drawbacks of coco coir:
 - Can stay too wet in dense containers, requiring extra
-  ventilation to prevent root rot
+  ventilation to prevent [[cannabis-root-rot-prevention-and-treatment]]
 - Variable quality between brands with potential high sodium
   content in cheap or poorly processed coir
 - Limited nutrient buffering compared to living soil,
@@ -68,12 +68,12 @@ sterility, and control matter most. It excels in cloning and propagation
 where a clean start is critical, commercial-scale operations that demand
 batch-to-batch consistency and traceability, DWC, NFT, and ebb-and-flow
 setups with automated feeding, and diagnostic growing where you need
-plant symptoms to directly reflect nutrient solution composition without
+plant symptoms to directly reflect [[cannabis-nutrient-solution-preparation]] composition without
 medium interference.
 ## When to Choose Coco Coir
 Choose coco coir for hand-watered or automated drip systems, sustainable
 growing operations focused on reducing environmental impact, outdoor soil
-amendment and raised bed mixes, container gardening on patios or balconies,
+amendment and [[comparison-chinampas-vs-raised-bed-gardening]] mixes, [[comparison-cold-frame-gardening-vs-container-gardening-guide]] on patios or balconies,
 and for growers who want a forgiving medium that bridges the gap between
 the precision of pure hydroponics and the biological richness of living
 soil approaches.

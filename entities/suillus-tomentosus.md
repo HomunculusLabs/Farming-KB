@@ -11,7 +11,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Smith AH, Thiers HD (1964). A Contribution to a Monograph of North American Species of Suillus. University of Michigan.
+  - Smith AH, Thiers HD (1964). A Contribution to a Monograph of growing-gourmet-north-american-reishi-species Species of Suillus. University of Michigan.
   - Kuo M (2024). "Suillus tomentosus." MushroomExpert.com.
   - Nguyen NH, Bruns TD, Kennedy PG (2016). "Not all fungi are equal in the nitrogen economy of ectomycorrhizal symbiosis." New Phytologist 209(3): 1085–1096.
   - Binder M, Hibbett DS (2006). "Molecular systematics and biological diversification of Boletales." Mycologia 98(6): 971–981.
@@ -28,7 +28,7 @@ western North America.
 
 The species is notable for its distinctive woolly-fibrillose cap surface and
 its importance as a mycorrhizal partner in forest regeneration. It plays a
-significant role in nitrogen cycling and phosphorus uptake in pine forest
+significant role in [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]] and phosphorus uptake in pine forest
 ecosystems.
 
 Unlike many Suillus species that are considered edible but mediocre, *S.
@@ -94,7 +94,7 @@ and clearcuts where pines are re-establishing.
 As an ectomycorrhizal fungus, *S. tomentosus* forms mutualistic
 associations with the fine roots of coniferous host trees. The fungal
 mantle surrounds root tips, and a Hartig net penetrates between cortical
-cells, facilitating bidirectional nutrient exchange.
+cells, facilitating bidirectional [[arbuscule-isolation-and-nutrient-exchange-mechanisms]].
 
 The fungus receives photosynthate (carbon compounds) from the host tree and
 provides enhanced access to soil nitrogen and phosphorus in return. Suillus
@@ -107,7 +107,7 @@ in pine forest regeneration after disturbance, and has been investigated
 for use in commercial forest nursery inoculation programs.
 
 Research has shown that *Suillus* species, including *S. tomentosus*, can
-access phosphorus from mineral sources (apatite) through organic acid
+access phosphorus from mineral sources (apatite) through [[fungal-organic-acid-metal-solubilization]]
 exudation, a capability that benefits host trees growing on nutrient-poor
 soils.
 
@@ -126,7 +126,7 @@ Young specimens with firm flesh are preferred. The mushroom is suitable for
 sautéing, drying, or pickling. Its flavor is mild and slightly nutty,
 without the strong resinous taste common to some Suillus species.
 
-As with all wild mushrooms, positive identification is essential. *S.
+As with all [[edible-wild-mushrooms-by-region]], positive identification is essential. *S.
 tomentosus* can be confused with other Suillus species, though its
 distinctive woolly cap surface and association with hard pines aid
 identification.
@@ -135,6 +135,6 @@ identification.
 
 - [[suillus-granulatus]] — granulated bolete, widespread edible Suillus
 - [[suillus-pungens]] — pungent Suillus, California endemic
-- [[boletus-edulis-entity]] — king bolete, premier edible mycorrhizal mushroom
+- [[boletus-edulis-entity]] — king bolete, premier edible [[mycelium-running-mycorrhizal-mushroom-gardens]]
 - [[lactarius-deliciosus]] — saffron milk cap, mycorrhizal with conifers
 - [[ectomycorrhiza]] — ectomycorrhizal associations detail

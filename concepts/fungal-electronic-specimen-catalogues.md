@@ -1,85 +1,149 @@
 ---
-title: Fungal Electronic Specimen Catalogues and Databases
+title: Fungal fungal electronic specimen catalogues Catalogues and Databases
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, databases, biodiversity-informatics, taxonomy]
 sources: []
 ---
-
 # Fungal Electronic Specimen Catalogues and Databases
 
-Electronic specimen catalogues have transformed how herbarium data are managed, shared, and used in biodiversity research. As fungal inventories accelerate, the need for efficient digital record-keeping has become critical.
+Electronic specimen catalogues have transformed how
+herbarium data are managed, shared, and used in
+biodiversity research. As fungal inventories accelerate,
+the need for efficient digital record-keeping has
+become critical for advancing taxonomic science and
+conservation efforts worldwide.
 
 ## Elements of Electronic Catalogues
 
-Electronic specimen databases capture the essential information associated with each fungal specimen:
+Electronic specimen databases capture the essential
+information associated with each fungal specimen:
+taxonomic identification (current name, basionym,
+synonyms, identifier), collector and collection number,
+date and geographic locality (country, state/province,
+latitude/longitude, elevation), habitat and substratum
+information, host association data, herbarium accession
+number, type specimen designation (holotype, isotype,
+neotype, etc.), and associated organisms and ecological
+context.
 
-- **Taxonomic identification** (current name, basionym, synonyms, identifier)
-- **Collector and collection number**
-- **Date and geographic locality** (country, state/province, latitude/longitude, elevation)
-- **Habitat and substratum** information
-- **Host association** data
-- **Herbarium accession number**
-- **Type specimen designation** (holotype, isotype, neotype, etc.)
-- **Associated organisms** and ecological context
+Modern databases may also include molecular data such
+as DNA barcode sequences, photographic records of fresh
+specimens and microscopic features, and links to
+published descriptions or phylogenetic analyses.
 
 ## Functions of Digital Catalogues
 
-Electronic catalogues serve multiple purposes:
+Electronic catalogues serve multiple purposes in mycology
+and biodiversity science. Inventory management tracks
+specimen holdings and loans between institutions.
+Taxonomic research is enabled by efficient searching
+for specimens by taxon, geography, host, or date.
 
-1. **Inventory management** — tracking specimen holdings and loans
-2. **Taxonomic research** — enabling efficient searching for specimens by taxon, geography, host, or date
-3. **Biogeographic analysis** — mapping species distributions and range changes
-4. **Conservation assessment** — evaluating rarity, endemism, and threat status
-5. **Public access** — making specimen data available to researchers worldwide via the internet
+Biogeographic analysis uses specimen records to map
+species distributions and detect range changes over
+time. Conservation assessment evaluates rarity, endemism,
+and threat status based on distributional data. Public
+access makes specimen data available to researchers
+worldwide via the internet, democratizing access to
+biodiversity knowledge.
 
-## Data Entry Process
+## Major Fungal Databases
 
-Converting existing herbarium card catalogues and handwritten labels to electronic format requires significant labor:
+### Index Fungorum
 
-1. **Transcription** of label data into standardized database fields
-2. **Georeferencing** — converting locality descriptions to latitude/longitude coordinates
-3. **Taxonomic verification** — updating names to current nomenclature
-4. **Quality control** — reviewing entries for errors and inconsistencies
-5. **Barcode integration** — linking physical specimens to digital records via barcodes
+Index Fungorum is one of the most comprehensive
+nomenclatural databases for fungi, maintained at the
+Royal Botanic Gardens, Kew. It tracks fungal names,
+their publication details, type information, and
+current taxonomic status. With over one million fungal
+names recorded, it serves as the primary reference for
+nomenclatural questions in mycology.
+
+### MycoBank
+
+MycoBank, maintained by the Westerdijk Fungal
+Biodiversity Institute in the Netherlands, is the
+official fungal nomenclatural registry under the
+International Code of Nomenclature for algae, fungi,
+and plants. All new fungal names must be registered
+in MycoBank to be validly published since 2013. It
+also stores associated data including diagnoses,
+type specimens, and molecular data.
+
+### GBIF
+
+The [[psilocybe-global-biodiversity-hotspots]] Information Facility aggregates
+[[fungal-biodiversity-data-analysis]] from thousands of institutions
+worldwide. Fungal specimen records from hundreds of
+herbaria are accessible through GBIF, enabling large-
+scale analyses of fungal distributions, phenology, and
+macroecological patterns. GBIF currently hosts millions
+of fungal occurrence records.
+
+### UNITE
+
+The UNITE database focuses on [[biodiversity-fungal-molecular-identification-dna-barcoding]]
+of fungi, providing a curated reference library of ITS
+sequences for fungal species. Each species hypothesis
+is represented by a sequence cluster with associated
+metadata including geographic origin, substrate, and
+taxonomic information. UNITE is essential for
+[[fungal-dark-taxa-environmental-dna-sequencing]] studies and metabarcoding analyses.
+
+## Data Entry and Digitization
+
+Converting existing herbarium card catalogues and
+handwritten labels to electronic format requires
+significant labor. The process involves transcription
+of label data into standardized database fields,
+georeferencing (converting locality descriptions to
+latitude/longitude coordinates), taxonomic verification
+(updating names to current nomenclature), quality
+control (reviewing entries for errors), and barcode
+integration (linking physical specimens to digital
+records).
+
+Digitization workflows increasingly incorporate
+optical character recognition for automated label
+reading, machine learning for taxonomic name
+resolution, and crowdsourced georeferencing through
+platforms like GeoLocate.
+
+## Data Standards and Interoperability
+
+Multiple herbaria may use different database systems,
+data formats, and taxonomic frameworks. Interoperability
+between databases remains a significant challenge.
+The Darwin Core standard provides a shared vocabulary
+for biodiversity data exchange, defining terms for
+occurrence records, taxonomic information, and
+geographic data.
+
+The ABCD schema provides a more detailed standard
+specifically designed for collection data. Mapping
+local databases to these international standards
+enables data sharing through aggregation platforms
+like GBIF and iDigBio.
 
 ## Concerns and Challenges
 
 ### Data Quality
 
-Handwritten labels often contain incomplete, ambiguous, or illegible information. Place names change, political boundaries shift, and taxonomic concepts evolve. Maintaining data accuracy requires ongoing curation.
+Handwritten labels often contain incomplete, ambiguous,
+or illegible information. Place names change, political
+boundaries shift, and taxonomic concepts evolve.
+Maintaining data accuracy requires ongoing curation
+and expert review of database entries.
 
-### Standardization
+### Sensitive Data
 
-Multiple herbaria may use different database systems, data formats, and taxonomic frameworks. Interoperability between databases remains a significant challenge. Efforts such as the International Transfer Format for Botanical Garden Data (ITF) and more recent standards aim to facilitate data exchange.
-
-### Intellectual Property and Sensitive Data
-
-Some collection data may be sensitive — precise localities of rare or commercially valuable species may need to be restricted. Access controls and data-use agreements are important considerations.
-
-### Long-Term Maintenance
-
-Digital databases require ongoing maintenance, backup, and migration to keep pace with changing technology. The costs of long-term data curation must be factored into project budgets.
-
-## Integration with Broader Networks
-
-Fungal specimen databases increasingly connect to larger biodiversity informatics networks:
-
-- **GBIF** (Global Biodiversity Information Facility)
-- **SpeciesLink** and regional biodiversity portals
-- **Index Fungorum** and other nomenclatural databases
-- **GenBank** and other molecular sequence repositories
-
-Integration allows researchers to combine specimen data with environmental, molecular, and taxonomic information for comprehensive biodiversity analyses.
-
-## Impact on Fungal Systematics
-
-Electronic catalogues have dramatically improved the efficiency of monographic work, floristic studies, and conservation assessments. They enable researchers to locate and request specimens remotely, reducing the need for physical visits to herbaria and accelerating the pace of taxonomic research.
-
+Some collection data may be sensitive. Precise
 ## See Also
 
-- [[fungal-biodiversity-inventory-design]]
-- [[fungal-species-estimates-taxonomy]]
-- [[fungal-biodiversity-conservation-status]]
+- [[fungal-specimen-collection-herbarium-management]]
+- [[fungal-biodiversity-herbarium-collections]]
+- [[fungal-type-specimens]]
 - [[fungal-monitoring-long-term-studies]]
+- [[fungal-taxonomic-impediment]]

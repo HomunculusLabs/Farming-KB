@@ -1,5 +1,5 @@
 ---
-title: Mimosa hostilis
+title: entheogen-jurema-mimosa-hostilis-ethnobotany
 created: 2026-05-06
 type: species
 tags: [psychedelic-compounds, dmt, herbal-plants, ethnobotany, leguminosae, permaculture]
@@ -33,14 +33,14 @@ DMT is extracted from the bark using basic aqueous extraction:
 
 *Mimosa hostilis* offers valuable functions in tropical and subtropical permaculture systems:
 
-- **Nitrogen fixation:** Rhizobial symbiosis fixes atmospheric nitrogen, improving soil fertility for adjacent plantings
-- **Drought tolerance:** Once established, survives extended dry periods — valuable for dryland permaculture in semi-arid zones
+- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]:** Rhizobial symbiosis fixes atmospheric nitrogen, improving soil fertility for adjacent plantings
+- **[[dighton-fungal-drought-tolerance-plant-water-relations]]:** Once established, survives extended dry periods — valuable for dryland permaculture in semi-arid zones
 - **Pioneer species:** Rapid growth on degraded soils; breaks up compacted subsoil with deep taproot
-- **Erosion control:** Dense root network stabilizes soil on slopes and degraded land
+- **[[permplant-willows-salix-erosion-control-fodder]]:** Dense root network stabilizes soil on slopes and degraded land
 - **Mulch source:** Prunings produce nitrogen-rich green mulch
 - **Shade tree:** Canopy provides dappled shade for understory crops in food forests
 - **Pest deterrent:** Saponins and tannins in leaves provide some resistance to browsing animals
-- **Biomass production:** Fast-growing, coppiceable for continuous biomass harvest
+- **[[dighton-fungal-biomass-production-aquatic-ecosystems]]:** Fast-growing, coppiceable for continuous biomass harvest
 - **Pollinator support:** Flowers attract bees and other pollinators during dry season when few other plants bloom
 
 ### Caution in Permaculture
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

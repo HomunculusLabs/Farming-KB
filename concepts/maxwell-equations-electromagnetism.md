@@ -141,4 +141,4 @@ In **SI units** (engineering standard), ε₀ and μ₀ appear explicitly with *
 and **B** in Tesla. In **Gaussian CGS** (theoretical physics), ε₀ = μ₀ = 1, **E**
 and **B** share dimensions, and c appears explicitly in Faraday's and Ampère's laws.
 
-See also: [[seed-saving-and-plant-breeding]]
+See also: [[natural-farming-guide-seed-saving-and-heirloom-varieties]]

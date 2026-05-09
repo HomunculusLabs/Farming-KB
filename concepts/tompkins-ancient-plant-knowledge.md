@@ -27,7 +27,7 @@ The original Zendavesta, sacred writings of the ancient Zoroastrians,
 claimed that Zarathustra taught his people how to breed food plants that
 still form our chief source of nourishment. Gustav Fechner was so
 inspired by this tradition that he titled his own philosophical work
-Zendavesta. William James called it "a wonderful book by a wonderful
+Zendavesta. [[metzner-william-james-radical-empiricism-multiple-consciousness]] called it "a wonderful book by a wonderful
 genius."
 
 ## Greek and Roman Plant Philosophy
@@ -72,7 +72,7 @@ Burbank expecting to find files of data but discovered the "laboratory"
 was kept in Burbank's head, with notes on brown-paper bag tearings and
 envelope backs.
 
-Burbank told the 1901 San Francisco Floral Congress: "The chief work of
+Burbank told the 1901 [[shipibo-san-francisco-ceremonial-center-ucayali]] Floral Congress: "The chief work of
 the botanists of yesterday was the study and classification of dried,
 shriveled plant mummies whose souls had fled. We have learned that they
 are as plastic in our hands as clay in the hands of the potter."
@@ -102,8 +102,8 @@ among a hundred wheat grains improves growth.
 ## The "Law of Togetherness"
 
 Cocannouer articulated a "law of togetherness of all things" drawn from
-traditional farming wisdom. Ancient farmers understood companion planting,
-crop rotation, and soil maintenance through observation and tradition --
+traditional farming wisdom. Ancient farmers understood [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]],
+[[comparison-crop-rotation-vs-cover-cropping]], and soil maintenance through observation and tradition --
 knowledge that modern chemical agriculture abandoned. Pfeiffer's
 chromatographic experiments confirmed what peasant intuition had long
 held about plant symbiosis.
@@ -114,7 +114,7 @@ Theosophical teachings held that plants have etheric and astral bodies,
 functioning on planes beyond the physical. This energy body "duplicates
 the human body" and serves as "the channel through which life
 communicates with the physical body, the medium for telepathic and
-clairvoyant projection." Kirlian photography was interpreted by Soviet
+clairvoyant projection." [[tompkins-kirlian-photography-plant-auras]] was interpreted by Soviet
 researchers as visual confirmation of these ancient descriptions.
 
 ## Key Quotes
@@ -133,4 +133,7 @@ researchers as visual confirmation of these ancient descriptions.
 
 - [[plant-perception]]
 - [[plant-fungal-signaling-mycorrhiza]]
-- [[mycorrhizal-plant-signaling]]
+- mycorrhizal-plant-signaling
+- [[companion-planting]]
+- [[tompkins-plant-perception-experiments]]
+- [[tompkins-mitogenetic-rays-plant-cell-communication]]

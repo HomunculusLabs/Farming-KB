@@ -10,8 +10,8 @@ sources: []
 
 ## Short Answer
 
-Root exudates are organic compounds secreted by plant roots into the surrounding soil.
-They include sugars, amino acids, organic acids, enzymes, and secondary metabolites.
+Root exudates are [[fungal-volatile-organic-compounds-communication]] secreted by plant roots into the surrounding soil.
+They include sugars, amino acids, organic acids, enzymes, and [[antifungal-secondary-metabolites-coprophilous-fungi]].
 These compounds fuel the [[rhizosphere-ecology]] around every living root.
 Through exudation, plants actively recruit beneficial microbes and suppress pathogens.
 
@@ -22,7 +22,7 @@ Through exudation, plants actively recruit beneficial microbes and suppress path
 Plants allocate a significant portion of their photosynthetic output below ground.
 Estimates suggest 10 to 40 percent of fixed carbon is released as [[rhizosphere-ecology]] is the narrow zone of soil directly influenced by root secretions.
 Exudates create a nutrient-rich hotspot that supports microbial populations orders of magnitude higher than bulk soil.
-This microbial community in turn influences nutrient availability, disease suppression, and soil structure.
+This [[edaphic-factors-microbial-community-structure]] in turn influences [[ph-and-nutrient-availability-garden-soils]], [[aact-disease-suppression-mechanisms-ingham]], and soil structure.
 
 Bacteria feed on simple sugars and amino acids near the root surface.
 Protozoa consume those bacteria, releasing plant-available nitrogen through the microbial loop.
@@ -50,7 +50,7 @@ The [[soil-food-web]] management expands the rhizosphere and enhances exudate-dr
 
 Perennial plants maintain root systems year-round and produce a steadier exudate flow.
 This continuous carbon supply supports stable, diverse microbial communities in the rhizosphere.
-Annual crops have a shorter exudation window concentrated during active vegetative growth.
+Annual crops have a shorter exudation window concentrated during active [[cannabis-vegetative-growth-stage]].
 
 Cover crops and green manures fill the exudation gap between annual cash crops.
 Their living roots sustain [[rhizosphere-ecology]] is built entirely around the flow of exudate carbon from roots.
@@ -77,3 +77,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[query-what-are-dung-beetles-and-how-do-they-benefit-soil-and-pasture-health]]

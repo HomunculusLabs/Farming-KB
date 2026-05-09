@@ -1,5 +1,5 @@
 ---
-title: "Natural Pest Control and Disease Management in Mushroom Cultivation"
+title: "cho-natural-pest-control-methods Control and plant-disease-management-solomon in accessible-mushroom-cultivation-for-disabilities"
 created: 2026-04-28
 tags: [pest-control, disease-management, mushroom-cultivation, IPM,
       fungus-gnats, mold-control, Trichoderma, biological-control,
@@ -14,10 +14,10 @@ type: concept
 goal is preventing outbreaks through proper media treatments, cleanliness, and
 tool sanitation. The cultivator is the most frequent contamination vector during
 media preparation and spawning. Mushrooms absorb gases, liquids, and sometimes
-heavy metals from their environment, making it critical to never spray pesticides
-or synthetic chemicals on fruiting mushrooms. Mushrooms can break down some
+[[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] from their environment, making it critical to never spray pesticides
+or synthetic chemicals on fruiting mushrooms. Mushrooms can [[query-can-fungi-break-down-plastic-pollution]] some
 herbicides in substrate via [[fukuoka-bushman-world-ecological-balance]].
-Spiders in rafters weave webs between mushroom columns, catching fungus gnats.
+Spiders in rafters weave webs between mushroom columns, catching [[query-how-to-control-fungus-gnats-organically]].
 Anole lizards patrol racks and tables, snapping up beetles. Leopard tree frogs
 raised from tadpoles in aquariums position themselves near column exit holes,
 waiting to consume emerging gnats. These predators fill [[mushroom-substrates]].
@@ -110,3 +110,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[ingham-leaf-curl-taphrina-disease-control]]

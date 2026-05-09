@@ -50,7 +50,7 @@ represents a fundamental human capacity.
 
 Michael Harner proposed the concept of "core shamanism," arguing that certain
 universal elements exist across all shamanic traditions regardless of cultural
-specificity. These include the shamanic journey, the use of rattles and drums,
+specificity. These include the [[harner-shamanic-journey-and-altered-states]], the use of rattles and drums,
 power animals, and the concept of a three-tiered cosmos. Harner's Foundation
 for Shamanic Studies has taught these core techniques to thousands of Western
 students, generating both enthusiasm and criticism regarding the
@@ -84,18 +84,18 @@ Many shamanic traditions incorporate psychoactive plants as tools for entering
 altered states. The use of entheogens (generating the divine within) is
 widespread and well-documented across cultures:
 
-- **Ayahuasca** in Amazonian shamanism, containing DMT and harmala alkaloids,
+- **Ayahuasca** in [[mckenna-food-gods-amazonian-shamanism-ayahuasca]], containing DMT and [[turner-harmala-alkaloids-preparation-and-dosage]],
   used for healing, divination, and spiritual teaching. The brew is prepared
   through complex cooking processes that have been refined over centuries.
 - **Peyote** in Native American Church ceremonies, containing mescaline, used
   for healing and communal prayer. Its use extends back over 5,000 years in
   North America.
-- **Psilocybin mushrooms** in Mazatec and other Mesoamerican traditions, used
+- **[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]** in Mazatec and other Mesoamerican traditions, used
   for divination and healing. These mushrooms were known to the Aztecs as
   "teonanacatl," flesh of the gods.
 - **Iboga** among the Bwiti of Central Africa, used in initiation rites and
   healing ceremonies. The root bark contains ibogaine, a potent psychedelic.
-- **Fly agaric** (Amanita muscaria) in Siberian shamanism, one of the oldest
+- **Fly agaric** ([[allegro-amanita-muscaria-properties-and-pharmacology]]) in Siberian shamanism, one of the oldest
   documented entheogenic traditions. Shamans would consume the mushroom and
   enter trance states for healing and divination.
 
@@ -118,7 +118,7 @@ voluntary, directed, and recalled with clarity.
 ## Modern Relevance
 
 Contemporary interest in shamanism has grown significantly, with many people
-seeking shamanic healing practices outside their traditional cultural contexts.
+seeking [[metzner-shamanic-healing-and-divination-paradigm]] practices outside their traditional cultural contexts.
 This has raised important questions about cultural appropriation and the
 dangers of extracting practices from their indigenous frameworks. Researchers
 in transpersonal psychology have explored connections between shamanic states

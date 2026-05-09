@@ -21,16 +21,16 @@ sources:
 
 # Purple Punch
 
-**Purple Punch** is an indica-dominant hybrid cannabis strain created by crossing **Granddaddy Purple** (also known as Grand Daddy Purps or GDP) with **Larry OG**.
-First bred by Supernova Gardens in the San Francisco Bay Area, it has become one of the most popular and commercially successful cannabis strains of the late 2010s and 2020s.
+**Purple Punch** is an indica-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] created by crossing **Granddaddy Purple** (also known as Grand Daddy Purps or GDP) with **Larry OG**.
+First bred by Supernova Gardens in the [[shipibo-san-francisco-ceremonial-center-ucayali]] Bay Area, it has become one of the most popular and commercially successful cannabis strains of the late 2010s and 2020s.
 Renowned for its striking purple coloration, sweet dessert-like aroma, and deeply relaxing effects, Purple Punch has earned a reputation as a premier "nighttime" strain.
 Its genetic lineage connects two legendary California cannabis pillars — the colorful, fruity [[granddaddy-purple]] defined the purple cannabis aesthetic, while Larry OG represents the pinnacle of Southern California's OG Kush lineage.
-This combination yields a plant with the visual appeal and fruit-forward character of GDP combined with the potency and resin production of the OG family.
+This combination yields a plant with the visual appeal and fruit-forward character of GDP combined with the potency and [[cannabis-glandular-trichome-types-resin-production-clarke]] of the OG family.
 
 ## Appearance
 
 - Buds are medium to large in size, densely packed with a rounded, chunky structure
-- Coloration ranges from deep violet and royal purple to dark forest green, often with vivid purple undertones
+- Coloration ranges from deep violet and royal purple to dark [[trichoderma-forest-green-mold-guide]], often with vivid purple undertones
 - Purple coloration intensifies as plants are exposed to cooler nighttime temperatures during late flowering
 - Thick coat of frosty white trichomes covering the entire flower surface
 - Bright orange to rust-colored pistils (stigmas) winding through the calyxes
@@ -105,7 +105,7 @@ The high THC content combined with minimal CBD produces potent psychoactive effe
 | Condition | Reported Efficacy | Notes |
 |-----------|------------------|-------|
 | Insomnia | Very High | One of the most effective strains for sleep onset |
-| Chronic pain | High | Full-body relaxation reduces muscle tension |
+| [[cannabis-chronic-pain-management]] | High | Full-body relaxation reduces muscle tension |
 | Stress and anxiety | High | Calming without being overly intoxicating |
 | Depression | Moderate | Mood elevation helps with mild symptoms |
 | Loss of appetite | High | Strong appetite-stimulating properties |
@@ -119,7 +119,7 @@ The high THC content combined with minimal CBD produces potent psychoactive effe
 - **Structure:** Bushy with lateral branching; benefits from LST, ScrOG, and topping
 - **Nutrients:** Moderate to heavy feeder, especially mid-flowering
 - **Color enhancement:** Cooler nighttime temps (< 15°C) in weeks 5–7 deepen purple coloration
-- **Resistance:** Good mold/mildew resistance; moderate pest resistance
+- **Resistance:** Good mold/mildew resistance; moderate [[cannabis-disease-pest-resistance-breeding-clarke]]
 - **Humidity:** Keep below 50% RH in late flowering to prevent bud rot in dense colas
 
 ## Notable Crosses and Descendants

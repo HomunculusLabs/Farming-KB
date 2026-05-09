@@ -1,5 +1,5 @@
 ---
-title: "How Do I Identify Psilocybe Cubensis Mushrooms?"
+title: "How Do I query-how-to-identify-psilocybe-cubensis-in-the-wild Cubensis Mushrooms?"
 created: 2026-04-28
 tags: [query, mycology, mushroom-identification, psilocybin]
 date: 2026-04-25
@@ -42,7 +42,7 @@ handling, so younger specimens are often easier to identify definitively.
 
 ### Blue Bruising Reaction
 One of the most famous and diagnostically significant features of this species is its
-tendency to bruise blue when damaged or handled. This bluing reaction occurs due to the
+tendency to bruise blue when damaged or handled. This [[field-guide-psilocybin-bluing-reaction-identification]] occurs due to the
 oxidation of the psychoactive compounds [[psilocin]] upon exposure
 to air. The blue color typically develops within 20 to 60 minutes of injury and can
 range from a pale steel blue to a deep indigo. However, it is critically important to
@@ -53,18 +53,18 @@ if they are very young or very old. The bluing reaction should be considered a
 supportive characteristic, not a definitive one.
 
 ### Microscopic Features
-Microscopic examination can provide definitive confirmation of identification. The
+[[fungal-microscopic-examination-mounting-media-techniques]] can provide definitive confirmation of identification. The
 spores of Psilocybe cubensis are ellipsoidal to slightly amygdaliform (almond-shaped)
 in frontal view and subovoid in side view, measuring approximately 11.5 to 17.5 µm by
 8 to 11.5 µm. They have a thick wall and a distinct germ pore at the apical end.
 Basidia are typically four-spored, though occasional two-spored and three-spored
 varieties exist. The two-spored varieties tend to produce larger spores and are often
-associated with higher [[stamets-psylo-identification-macroscopic-microscopic]].
+associated with higher stamets-psylo-identification-macroscopic-microscopic.
 
 ### Habitat and Distribution
 Understanding where Psilocybe cubensis grows is equally important for identification.
 This species is a coprophilous (dung-inhabiting) mushroom that thrives in tropical and
-subtropical regions around the world. It is most commonly found growing directly on the
+subtropical regions [[fungi-around-the-world-species-distribution]]. It is most commonly found growing directly on the
 dung of herbivores such as cattle, horses, and water buffalo, though it can also appear
 on enriched soils and decaying plant matter. The mushroom fruits prolifically after
 warm rains during the warmer months, typically when temperatures range from 24 to 30°C
@@ -72,10 +72,10 @@ warm rains during the warmer months, typically when temperatures range from 24 t
 amounts of [[stamets-psi-psilocybin-potency-comparative-scale]].
 
 ### Safety and Look-alikes
-Safety cannot be overstated when identifying wild mushrooms. Several species can be
+Safety cannot be overstated when identifying [[edible-wild-mushrooms-by-region]]. Several species can be
 confused with Psilocybe cubensis, with the most dangerous being members of the genus
 Galerina, particularly Galerina marginata, which contains the same deadly amatoxins
-found in the death cap mushroom (Amanita phalloides). These toxic look-alikes can share
+found in the death [[wine-cap-mushroom-cultivation]] (Amanita phalloides). These toxic look-alikes can share
 similar brownish cap colors and may be found in similar habitats, including on decaying
 wood and sometimes near dung. The critical differences lie in spore print color
 (Galerina species produce a rusty-brown print) and the more persistent, well-developed
@@ -92,6 +92,6 @@ When venturing into the field to collect specimens, employing proper
   tropical and subtropical climates worldwide
 - Always compare against deadly look-alikes such as Galerina species — consult
   [[psilocybe-cubensis]]
-- [[stamets-psylo-dangers-mistaken-identification]]
-- [[stamets-psylo-six-classic-habitats]]
+- stamets-psylo-dangers-mistaken-identification
+- stamets-psylo-six-classic-habitats
 - [[stamets-psi-psilocybin-potency-comparative-scale]]

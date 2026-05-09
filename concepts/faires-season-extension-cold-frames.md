@@ -1,9 +1,9 @@
 ---
-title: "Season Extension with Cold Frames"
+title: "comparison-season-extension-techniques-vs-cold-frame-gardening with Cold Frames"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
-  - "Nicole Faires, The Ultimate Guide to Natural Farming and Sustainable Living"
+  - "Nicole Faires, The Ultimate Guide to comparison-natural-farming-vs-permaculture and natural-farming-sustainable-living-principles"
 type: concept
 tags: [reference]
 ---
@@ -14,7 +14,7 @@ Season extension allows growers to produce food well beyond the natural growing 
 
 ## Rotating Planting Season
 
-In cold climates, create a continuous rotation: cold-hardy salad vegetables in early spring, summer vegetables, more cold-hardy salads, then root crops and winter-hardy vegetables. In some areas, a green manure crop can precede spring planting.
+In cold climates, create a continuous rotation: cold-hardy [[hamilton-salad-vegetables-organic]] in early spring, summer vegetables, more cold-hardy salads, then root crops and winter-hardy vegetables. In some areas, a green manure crop can precede spring planting.
 
 ## Frost Protection Devices
 
@@ -31,7 +31,7 @@ A cloche is a miniature greenhouse placed over individual plants. Options includ
 
 A cold frame is a wooden box (usually a raised bed) with a glass or plastic lid that opens on a hinge. Old house windows work well for lids. The window opens during the day for ventilation and closes at night to trap heat.
 
-Cold frames can be covered with either glass or plastic. They act as a passive solar collector, trapping warmth from sunlight during the day and releasing it slowly at night.
+Cold frames can be covered with either glass or plastic. They act as a [[comparison-passive-solar-vs-earth-sheltered]] collector, trapping warmth from sunlight during the day and releasing it slowly at night.
 
 ### Other Protection
 
@@ -94,7 +94,7 @@ Climate zones are somewhat useless due to increasingly extreme weather. Greater 
 You have a great deal of control over small area climates through windbreaks, irrigation, and terraces. You could grow almost anything anywhere with the right microclimate. Goals:
 
 - A large body of water warms and cools more slowly than surrounding environment, moderating temperature (less frost near oceans)
-- Remove mulch from soil in spring so dirt can warm up; use mulch at almost every other time for moisture retention, erosion control, temperature stability, and weed suppression
+- Remove mulch from soil in spring so dirt can warm up; use mulch at almost every other time for moisture retention, [[permplant-willows-salix-erosion-control-fodder]], temperature stability, and weed suppression
 - Plants absorb solar energy; forest canopy absorbs heat during day, shading the floor, with cool air drawn in and warm air flowing out at night
 - Use trellising to create shady, cool microclimates in otherwise hot, sunny areas
 
@@ -105,7 +105,10 @@ The fire sector should be kept clear of litter and dead logs, with grass kept sh
 ## See Also
 
 - [[faires-seed-starting-transplanting-guide]]
-- [[faires-city-desert-and-cold-climate-garden-strategies]]
-- [[faires-city-desert-and-cold-climate-garden-strategies]]
+- faires-city-desert-and-cold-climate-garden-strategies
+- faires-city-desert-and-cold-climate-garden-strategies
 - [[holzer-green-manure-and-soil-building-plants]]
-- [[faires-no-energy-food-storage]]
+- faires-no-energy-food-storage
+- [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]
+- [[nicole-faires]]
+- [[natural-farming]]

@@ -1,5 +1,5 @@
 ---
-title: JADAM Nutritional Balance Fertilizer
+title: JADAM jadam nutritional balance fertilizer Fertilizer
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 JADAM's approach to nutritional balance is radically simpler than conventional
 methods. Instead of adjusting individual N, P, K elements, JADAM uses crop
-residues and wild grass as the main fertilizer -- materials that already contain
+residues and [[jadam-cover-crop-wild-grass-symbiosis]] as the main fertilizer -- materials that already contain
 the perfect balance of nutrients the crop needs.
 
 ## The Core Principle
@@ -26,7 +26,7 @@ residues to return those same nutrients.
 ### Base Fertilizer (before planting)
 - Cover crop residues
 - Previous crop residues
-- Optionally: grass-fed animal manure
+- Optionally: grass-fed [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]]
 - Scatter on field in autumn, apply [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]]: 500 L
 - Sea water: 20-60 L (or sea salt 0.5-1.5 kg)
 - Phyllite solution: 20-60 L
@@ -42,7 +42,7 @@ residues to return those same nutrients.
 
 ## GC-JLF: The Main Additional Fertilizer
 
-Wild grass and crop residues JADAM liquid fertilizer (GC-JLF) is the centerpiece
+Wild grass and crop residues JADAM [[jadam-liquid-fertilizer-nutritional-perspective]] (GC-JLF) is the centerpiece
 of JADAM nutritional balance. It provides all N, P, K, Ca, Mg, B, etc. in the
 ratios that plants need.
 
@@ -53,9 +53,9 @@ work.
 
 ## Related
 
-- [[ultra-low-jadam-fertilizer-program]] -- detailed crop-specific programs
+- [[jadam-fertilizer-program]] -- detailed crop-specific programs
 - jadam-element-function-reference -- element functions and deficiency signs
-- [[soil-food-web-structure]] -- biology behind nutrient cycling
+- [[soil-food-web-structure]] -- biology behind [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 ## Practical Considerations
 
 When working with JADAM Nutritional Balance Fertilizer, several practical factors should be
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -18,7 +18,7 @@ Westerners have long sought alternative spiritual traditions -- from Zen in the 
 **Popular destinations:**
 - **Iquitos, Peru** -- the primary hub for ayahuasca tourism
 - **San Francisco (Shipibo town), Peru** -- proclaimed "Centro Ceremonial del Ayahuasca" with a large sign at its entrance
-- **Brazilian ayahuasca churches** -- Santo Daime, União do Vegetal (UDV)
+- **[[metzner-barquinha-umbanda-and-afro-brazilian-ayahuasca-syncretism]] churches** -- Santo Daime, União do Vegetal (UDV)
 - **American-led retreats** -- more expensive but English-speaking; Peter Gorman's tours noted as particularly worthwhile
 
 Peruvians regard ayahuasca as an herbal tonic rather than an illegal drug. Government tourist agencies sponsor ayahuasca festivals, and even Peru's president Alejandro Toledo participated in a ceremony.
@@ -27,7 +27,7 @@ Peruvians regard ayahuasca as an herbal tonic rather than an illegal drug. Gover
 
 Most shamans are unfamiliar with Western pharmaceuticals. Tourists are responsible for knowing that ayahuasca has adverse interactions with:
 - **AIDS medications** -- one AIDS patient died during a ceremony in Bolivia despite being healthy enough to dance at the start
-- **Antidepressants and psychiatric medications** -- particularly SSRIs (risk of serotonin syndrome due to MAOI activity of harmala alkaloids)
+- **Antidepressants and psychiatric medications** -- particularly SSRIs (risk of serotonin syndrome due to MAOI activity of [[turner-harmala-alkaloids-preparation-and-dosage]])
 - Various other prescription medicines
 
 Tourists should research drug interactions thoroughly before attending any ceremony.
@@ -58,7 +58,7 @@ Ayahuasca tourism creates significant economic disparities:
 ## Integration Challenges
 
 Stuart raises a fundamental question: is it worth traveling to another continent for an entheogenic experience? He suggests that for someone interested *only* in experiencing ayahuasca:
-- It may be more cost-effective to brew at home with ingredients from an ethnobotanical supplier
+- It may be more cost-effective to brew at home with ingredients from an [[ayahuasca-diy-home-brewing-ethnobotanical-supplier-guide]]
 - With an experienced sitter, one could have an intense experience in safety and comfort
 - However, the cultural immersion of traveling to Peru has its own value
 
@@ -70,7 +70,7 @@ Pentecostal, Adventist, and Catholic missionaries have gained many converts in i
 
 ## The MAPS Connection and Cactus Research
 
-R. Stuart's observations were made during a cactus identification research project in Ucayali, Peru, supported by a grant from Bob Wallace to MAPS (Multidisciplinary Association for Psychedelic Studies). This connection illustrates how ayahuasca tourism research intersects with broader psychedelic scholarship. The [[natto-making]] for more on his contributions to entheogenic art and [[shipibo-icaros-healing-songs]] represents one of the most developed and musically sophisticated forms of entheogenic ceremony in the Amazon.
+R. Stuart's observations were made during a cactus identification research project in Ucayali, Peru, supported by a grant from Bob Wallace to MAPS ([[maps-multidisciplinary-association-for-psychedelic-studies]] for Psychedelic Studies). This connection illustrates how ayahuasca tourism research intersects with broader psychedelic scholarship. The [[natto-making]] for more on his contributions to entheogenic art and [[shipibo-icaros-healing-songs]] represents one of the most developed and musically sophisticated forms of [[shamanic-entheogenic-ceremony-structure-common-elements]] in the Amazon.
 
 ## Practical Considerations for Prospective Tourists
 
@@ -86,7 +86,7 @@ Based on Stuart's field observations, prospective ayahuasca tourists should cons
 ## See Also
 
 - [[ayahuasca-brewing-guide]] -- practical guide to ayahuasca preparation and use
-- [[beta-carboline-chemistry]] -- chemistry and pharmacology of the brew
+- [[beta-carboline-chemistry]] -- [[psilocybin-psilocin-chemistry-and-pharmacology-emcdda]] of the brew
 - banisteriopsis caapi -- the primary ayahuasca vine
 - [[shipibo-icaros-healing-songs]] -- Shipibo healing songs
 - [[entheogenic-ceremony-preparation]] -- preparing for entheogenic experiences

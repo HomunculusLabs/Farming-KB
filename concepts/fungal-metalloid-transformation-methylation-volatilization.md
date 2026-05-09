@@ -1,5 +1,5 @@
 ---
-title: "Fungal Metalloid Transformation and Methylation"
+title: "Fungal fungal metalloid transformation methylation volatilization and Methylation"
 created: 2026-04-28
 tags: [metalloid, biomethylation, volatilization, bioremediation, arsenic, selenium]
 date: 2026-04-25
@@ -21,7 +21,7 @@ strategies.
 
 Reduction processes are integral to [[fungal-growth-dynamics]] on
 silver nitrate media results in blackened colonies with metallic
-silver precipitated in and around cell walls. Both enzymic and
+silver precipitated in and around [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]. Both enzymic and
 non-enzymic copper(II)-reducing systems have been purified from
 Debaryomyces hansenii cell walls, with the enzyme involved in
 controlling copper uptake. Reductive processes are now known to be
@@ -48,7 +48,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -98,7 +98,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -108,4 +108,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

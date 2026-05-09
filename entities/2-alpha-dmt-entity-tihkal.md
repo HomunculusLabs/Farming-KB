@@ -1,5 +1,5 @@
 ---
-title: 2 Alpha Dmt Entity Tihkal
+title: 2 Alpha 2-me-dmt-entity-tihkal Tihkal
 created: 2026-04-17
 updated: 2026-04-17
 type: entity
@@ -30,7 +30,7 @@ At 450 mg, effects include mild intoxication similar to having had too many drin
 
 The compound presents a paradox in structure-activity relationships (SAR). Adding a 2-methyl group typically protects tryptamines from first-pass metabolic destruction by MAO, increasing oral potency. But with alpha-MT, which is already immune to this enzyme system and already orally active, the same modification decreases potency by approximately 10 times and shifts the character from stimulant to sedative.
 
-This finding challenged Shulgin's general understanding of tryptamine pharmacology and demonstrated that SAR principles have important exceptions depending on the base molecule's existing properties.
+This finding challenged Shulgin's general understanding of [[mckenna-food-gods-tryptamine-pharmacology-indoles]] and demonstrated that SAR principles have important exceptions depending on the base molecule's existing properties.
 
 ## Extensions and Commentary
 
@@ -50,13 +50,13 @@ Shulgin, A. & Shulgin, A. TIHKAL: The Continuation. Entry #7, 2,alpha-DMT. Trans
 
 ## Historical Context
 
-2-alpha-DMT was synthesized and bioassayed by Alexander Shulgin as part of his systematic exploration of tryptamine structure-activity relationships documented in TIHKAL. This compound occupies a particularly instructive position in the series because it challenges one of Shulgin's own generalizations about how 2-position methyl substitution affects oral activity in tryptamines.
+2-alpha-DMT was synthesized and bioassayed by Alexander Shulgin as part of his systematic exploration of tryptamine structure-activity relationships documented in TIHKAL. This compound occupies a particularly instructive position in the series because it challenges one of Shulgin's own generalizations about how 2-position methyl substitution affects [[tihkal-oral-activity-mao-inhibition]] in tryptamines.
 
 The discovery that 2-methyl substitution could either enhance or diminish oral activity depending on the base molecule was an important finding that shaped subsequent research directions. It demonstrated that SAR principles in psychopharmacology are context-dependent and that simple analogical reasoning from one compound to another can lead to incorrect predictions.
 
 ## Modern Significance
 
-In the contemporary study of serotonin receptor pharmacology, 2-alpha-DMT serves as a valuable data point for understanding how steric modifications at the indole 2-position affect receptor binding and functional activity. The compound's unusual profile — sedative rather than psychedelic, with dramatically reduced potency — suggests that the 2-methyl group may shift receptor affinity away from 5-HT2A and toward other receptor subtypes.
+In the contemporary study of serotonin receptor pharmacology, 2-alpha-DMT serves as a valuable data point for understanding how steric modifications at the indole 2-position affect [[tihkal-receptor-binding-serotonin]] and functional activity. The compound's unusual profile — sedative rather than psychedelic, with dramatically reduced potency — suggests that the 2-methyl group may shift receptor affinity away from 5-HT2A and toward other receptor subtypes.
 
 The paradoxical finding with this compound remains relevant to modern drug design efforts, where the goal is often to separate desirable therapeutic effects from undesirable side effects by subtle structural modifications. The 2-alpha-DMT case demonstrates both the potential and the limitations of this approach.
 
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

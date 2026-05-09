@@ -1,5 +1,5 @@
 ---
-title: Cannabis for Lung Cancer
+title: Cannabis for psk-breast-lung-cancer-clinical-trials
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -10,16 +10,16 @@ sources:
 
 updated: 2026-18
 
-Cannabinoids show promising anti-tumor activity against lung cancer through apoptosis induction, anti-angiogenic effects, and immune modulation. The [[cannabis-endocannabinoid-system]]
+Cannabinoids show promising anti-tumor activity against lung cancer through apoptosis induction, anti-angiogenic effects, and [[cancer-immune-modulation-mechanisms]]. The [[cannabis-endocannabinoid-system]]
 - [[cannabis-cbd-therapeutic-profile]]
 - [[cannabis-anti-inflammatory-applications]]
 
 ## Source
 
-Blesching, U. (2015). *The Cannabis Health Index*. Chapter IV: "Lung Cancer." North Atlantic Books.
+Blesching, U. (2015). *The [[blesching-cannabis-health-index-autoimmune-conditions]]*. Chapter IV: "Lung Cancer." North Atlantic Books.
 
 ## Merged: Cannabis for Skin Cancer
-The skin is the largest organ of the body. It transmits sensations to the brain, provides temperature regulation, and protects from environmental toxins and pathogens. The [[cannabis-endocannabinoid-system]] in skin tissue provides multiple pathways for combating skin cancer: Direct anti-tumor activity: [[cannabis-thc-therapeutic-profile]] binds both receptors relatively equally. Related: [[cannabis-for-dermatological-conditions]], [[cannabis-for-cancer-patients]], [[cannabis-cannabinoid-receptor-pharmacology]] modulation induces apoptosis of human melanoma cells. The [[cannabis-endocannabinoid-system]] is present in skin tissue, where it regulates various functions including cell growth and immune response. Related: [[cannabis-cbd-therapeutic-profile]], [[cannabis-for-dermatological-conditions]], [[cannabis-cannabinoid-receptor-pharmacology]] and CB2 receptor sites. By 2008, the Rostock experiment confirmed anandamide's abilities, as well as that of [[cannabis-endocannabinoid-system]] plays a dual protective role in cervical cancer. Related: [[cannabis-cbd-therapeutic-profile]], [[cannabis-and-brain-cancer-research]], [[cannabis-cannabinoid-receptor-pharmacology]] or CB2 receptors that was able to destroy pancreatic cancer cell lines in the laboratory. The [[cannabis-cbd-therapeutic-profile]]-rich preparations may be particularly effective. Related: [[blesching-cannabis-cannabinoid-terpene-entourage-effect]], [[cannabis-for-liver-cancer]], [[cannabis-for-colon-cancer]]
+The skin is the largest organ of the body. It transmits sensations to the brain, provides temperature regulation, and protects from environmental toxins and pathogens. The [[cannabis-endocannabinoid-system]] in skin tissue provides multiple pathways for combating skin cancer: Direct anti-tumor activity: [[cannabis-thc-therapeutic-profile]] binds both receptors relatively equally. Related: [[cannabis-for-dermatological-conditions]], [[cannabis-for-cancer-patients]], [[cannabis-cannabinoid-receptor-pharmacology]] modulation induces apoptosis of human melanoma cells. The [[cannabis-endocannabinoid-system]] is present in skin tissue, where it regulates various functions including cell growth and immune response. Related: [[cannabis-cbd-therapeutic-profile]], [[cannabis-for-dermatological-conditions]], [[cannabis-cannabinoid-receptor-pharmacology]] and CB2 receptor sites. By 2008, the Rostock experiment confirmed anandamide's abilities, as well as that of [[cannabis-endocannabinoid-system]] plays a dual protective role in cervical cancer. Related: [[cannabis-cbd-therapeutic-profile]], [[cannabis-and-brain-cancer-research]], [[cannabis-cannabinoid-receptor-pharmacology]] or CB2 receptors that was able to destroy pancreatic [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines in the laboratory. The [[cannabis-cbd-therapeutic-profile]]-rich preparations may be particularly effective. Related: [[blesching-cannabis-cannabinoid-terpene-entourage-effect]], [[cannabis-for-liver-cancer]], [[cannabis-for-colon-cancer]]
 ## Practical Applications
 
 Cannabis for Lung Cancer has a range of practical applications that make it relevant to
@@ -97,4 +97,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

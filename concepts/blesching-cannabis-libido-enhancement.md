@@ -12,9 +12,9 @@ type: concept
 
 Cannabis has a long historical association with sexual arousal and has been
 used as an aphrodisiac across numerous cultures for centuries. The Cannabis
-Health Index assigns a CHI score of 2 for cannabis and libido enhancement,
+Health Index assigns a [[blesching-cannabis-chi-score-methodology]] of 2 for cannabis and libido enhancement,
 indicating preliminary but limited evidence. While anecdotal reports are
-abundant, rigorous clinical research on cannabis as a sexual aid remains
+abundant, rigorous [[hofmann-lsd-clinical-research-early-studies]] on cannabis as a sexual aid remains
 sparse, reflecting broader cultural and regulatory barriers to studying
 cannabis in sexual health contexts.
 
@@ -96,7 +96,7 @@ context of sexual function. Low to moderate doses tend to produce the
 desired effects of relaxation, sensory enhancement, and reduced anxiety,
 while higher doses may impair coordination, reduce genital responsiveness,
 and diminish the ability to maintain focus on the sexual experience.
-Finding the optimal dose within the therapeutic window is critical for
+Finding the optimal dose within the [[blesching-cannabis-therapeutic-window-dosing]] is critical for
 using cannabis effectively as a sexual aid.
 
 Individual variation in response to cannabis for sexual enhancement is
@@ -107,7 +107,7 @@ use, and the quality of the relationship between sexual partners. What
 enhances sexual experience for one person may diminish it for another,
 making personal experimentation and self-observation essential.
 
-Strain selection may also influence the sexual enhancement effects of
+[[blesching-cannabis-strain-selection-receptor-targeting]] may also influence the sexual enhancement effects of
 cannabis. Indica-dominant strains with their more relaxing, body-centered
 effects may be preferred by some users for promoting physical relaxation
 and sensory awareness. Sativa-dominant strains with their more cerebral,

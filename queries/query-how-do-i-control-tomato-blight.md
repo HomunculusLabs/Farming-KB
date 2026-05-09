@@ -1,10 +1,10 @@
 ---
-title: "How Do I Control Tomato Blight?"
+title: "How Do I query how do i control tomato blight Blight?"
 tags: [query, tomato, disease, blight, organic-gardening]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 
 # How Do I Control Tomato Blight?
@@ -15,7 +15,7 @@ Tomato blight is controlled through a combination of resistant varieties,
 cultural prevention practices, organic and synthetic fungicides, and
 prompt removal of infected plant material. The three most common blight
 diseases are early blight (Alternaria solani), late blight (Phytophthora
-infestans), and Septoria leaf spot (Septoria lycopersici). Each requires
+infestans), and Septoria [[jadam-canker-leaf-spot-pesticide]] (Septoria lycopersici). Each requires
 slightly different management, but overlapping strategies exist.
 
 Prevention is far more effective than treatment once symptoms appear.
@@ -52,7 +52,7 @@ Mulching around the base of plants prevents soil from splashing onto
 lower leaves during rain or irrigation. This is particularly important
 for early blight and Septoria, whose spores live in the soil.
 
-Avoid overhead watering; use drip irrigation or soaker hoses instead.
+Avoid overhead watering; use [[comparison-drip-irrigation-vs-passive-irrigation]] or soaker hoses instead.
 If overhead watering is necessary, water early in the morning so leaves
 dry quickly.
 
@@ -60,7 +60,7 @@ Remove lower leaves once fruits begin forming on the first cluster.
 This improves airflow and removes the oldest leaves most susceptible to
 infection.
 
-Rotate crops on a three-year minimum cycle, avoiding planting tomatoes,
+[[query-what-is-the-best-way-to-rotate-crops-in-a-vegetable-garden]] on a three-year minimum cycle, avoiding planting tomatoes,
 potatoes, peppers, or eggplants in the same location. All are members
 of the Solanaceae family and share many diseases.
 

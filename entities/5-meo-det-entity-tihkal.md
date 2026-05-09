@@ -1,5 +1,5 @@
 ---
-title: 5 Meo Det (Tihkal)
+title: 5 5 meo det [[2-alpha-dmt-entity-tihkal]] (Tihkal)
 created: 2026-04-16
 updated: 2026-04-16
 type: entity
@@ -59,6 +59,7 @@ the primary target of psychedelic tryptamines.
 The prominent vertigo is a pharmacologically distinctive feature that may
 reflect activity at 5-HT1A receptors in the vestibular nucleus, or at
 [[5-meo-dipt-compound-profile]]
+
 ## Practical Considerations
 
 Successful implementation of 5 Meo Det (Tihkal) requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

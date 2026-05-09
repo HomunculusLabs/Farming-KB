@@ -1,5 +1,5 @@
 ---
-title: Falconer Mushroom Cultivation History
+title: Falconer accessible-mushroom-cultivation-for-disabilities History
 created: 2026-04-13
 updated: 2026-04-15
 type: concept
@@ -15,7 +15,7 @@ a window into the state of [[sterilization-techniques-mushroom-cultivation]] wer
   developed. Brick spawn consisted of mycelium colonized manure pressed into
   bricks and dried for storage. These bricks were broken up and planted in
   the prepared beds.
-- **Temperature and ventilation management** — critical for Agaricus bisporus
+- **Temperature and ventilation management** — critical for [[genetic-improvement-agaricus-bisporus-molecular-approaches]]
   cultivation. Victorian growers developed sophisticated systems of flues,
   vents, and dampers to maintain the constant cool temperatures that mushrooms
   prefer.
@@ -29,8 +29,8 @@ a window into the state of [[sterilization-techniques-mushroom-cultivation]] wer
 |--------|--------------------------|-----------------|
 | Spawn | Brick spawn from established beds | Pure culture grain spawn on sterile media |
 | Substrate | Composted horse manure | Supplemented compost; various formulations |
-| Sterilization | None or minimal | Pressure sterilization of grain spawn |
-| Contamination control | Limited | Laminar flow hoods, sterile technique |
+| Sterilization | None or minimal | [[boil-a-bag-pressure-sterilization-technique]] of grain spawn |
+| Contamination control | Limited | Laminar flow hoods, [[cultivator-sterile-technique-and-agar-culture]] |
 | Species focus | Agaricus bisporus primarily | Hundreds of species cultivated |
 | Environment | Mushroom houses with manual venting | Automated climate-controlled chambers |
 | Knowledge basis | Empirical tradition | Mycological science |
@@ -41,17 +41,17 @@ Falconer's work is part of a lineage of mushroom cultivation literature that
 extends from early French cave cultivation through modern commercial
 operations. These historical texts are valuable for understanding how
 cultivation knowledge evolved and which fundamental principles remain unchanged.
-The basic sequence of substrate preparation, spawn introduction, and
+The basic sequence of [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]], spawn introduction, and
 environmental management established in Falconer's era remains the foundation
 of commercial Agaricus cultivation today, even as the specific techniques
 have been refined and expanded.
 
 ## See Also
 
-- [[nineteenth-century-mushroom-literature]] — Victorian-era mushroom knowledge
+- nineteenth-century-mushroom-literature — Victorian-era mushroom knowledge
 - [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] — Modern spawn production methods
 - [[magic-mushroom-cultivation-history]]
-- [[falconer-paris-cave-mushroom-cultivation]]
+- falconer-paris-cave-mushroom-cultivation
 ## Practical Considerations
 
 When working with Falconer Mushroom Cultivation History, several practical factors should be
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

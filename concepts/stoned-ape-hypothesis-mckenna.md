@@ -5,11 +5,11 @@
 The stoned ape hypothesis is a controversial theory proposed by Terence McKenna
 in his 1992 book "Food of the Gods: The Search for the Original Tree of
 Knowledge." The theory posits that the consumption of psilocybin-containing
-mushrooms, specifically Stropharia cubensis (Psilocybe cubensis), by early
+mushrooms, specifically [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] ([[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]), by early
 hominids was a primary catalyst in the evolution of human consciousness,
 language, and culture.
 
-McKenna argued that the inclusion of hallucinogenic mushrooms in the diet of
+McKenna argued that the inclusion of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] in the diet of
 emerging humans on the African grasslands fundamentally altered the trajectory
 of human evolution by changing behavioral patterns upon which natural selection
 was operating.
@@ -24,10 +24,10 @@ certain branches of cognitive archaeology.
 McKenna developed the stoned ape hypothesis as part of a broader argument about
 the relationship between psychoactive plants and human civilization. He
 organized his analysis into four historical phases: "Paradise" (prehistoric
-partnership with psychoactive plants), "Paradise Lost" (the rise of dominator
+partnership with psychoactive plants), "[[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]" (the rise of dominator
 cultures that suppressed plant-based spirituality), "Hell" (the era of
 addictive and destructive drugs including alcohol, sugar, and synthetic
-narcotics), and "Paradise Regained" (the potential recovery of a harmonious
+narcotics), and "[[mckenna-paradise-regained-dmt-hyperspace]]" (the potential recovery of a harmonious
 relationship with nature through psychedelic exploration).
 
 The hypothesis was situated within a larger intellectual tradition that
@@ -36,7 +36,7 @@ between "partnership" and "dominator" models of social organization. McKenna
 drew on Eisler's framework to argue that prehistoric mushroom-using cultures
 were partnership societies characterized by egalitarianism, Goddess worship,
 and ecological harmony, which were later overthrown by patriarchal,
-hierarchical dominator cultures.
+hierarchical [[partnership-and-dominator-cultures-in-human-history]].
 
 ## The Core Argument
 

@@ -4,7 +4,9 @@ created: 2026-04-28
 tags: [query, permaculture, water-harvesting, ponds, earthworks]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: query
 ---
 
@@ -12,7 +14,7 @@ type: query
 
 ## Short Answer
 A gley pond is a sealed water retention pond created using a biological gley layer made from organic materials that
-anaerobically decompose to form an impermeable barrier. This traditional technique uses green manure, grass, leaves, or
+anaerobically decompose to form an impermeable barrier. This traditional technique uses [[comparison-green-manure-guide-vs-mulch-types-and-effects]], grass, leaves, or
 other carbon-rich vegetation compacted beneath the pond liner to create a natural, self-sealing waterproof membrane.
 Gley ponds are a low-cost, sustainable alternative to plastic liners and compacted clay dams, particularly well-suited
 to permaculture and homesteading applications.
@@ -20,7 +22,7 @@ to permaculture and homesteading applications.
 ## What Is Gleying
 
 Gleying is a soil science term that describes the mottled, grey-blue coloration that develops in waterlogged, anaerobic
-soils due to the reduction of iron and manganese oxides by microbial activity. In the context of pond construction,
+soils due to the reduction of iron and manganese oxides by microbial activity. In the context of [[holzer-pond-construction-and-aquaculture]],
 gleying refers to the deliberate creation of an anaerobic, organic-rich layer that becomes impermeable to water through
 the production of waxy, gelatinous byproducts of anaerobic decomposition.
 
@@ -40,7 +42,7 @@ simultaneously: irrigation water storage, fire protection, wildlife habitat, aqu
 aesthetic value. Position the pond to integrate with existing or planned earthworks, swales, and drainage patterns for
 maximum system efficiency.
 
-In permaculture design, ponds are often placed at the intersection of multiple water flows or at keypoint positions in
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], ponds are often placed at the intersection of multiple water flows or at keypoint positions in
 the landscape where they can intercept and store runoff from large catchment areas above them. The [[clay-pellet-seed-balls]] and related soil technologies can be useful for stabilizing pond edges and establishing beneficial vegetation
 around the water's margin.
 
@@ -49,7 +51,7 @@ around the water's margin.
 Gley ponds offer several significant advantages over conventional pond construction methods. They eliminate the cost of
 synthetic pond liners, which can be one of the most expensive components of pond construction. They use locally
 available organic materials rather than imported products. They create a biological seal that is self-repairing and
-potentially permanent. They integrate naturally with permaculture design principles by using biological processes rather
+potentially permanent. They integrate naturally with permaculture [[holmgren-permaculture-twelve-design-principles-framework]] by using biological processes rather
 than synthetic materials.
 
 The main limitations include higher labor requirements for excavation and compaction compared to simply installing a
@@ -57,9 +59,9 @@ plastic liner, a longer timeline to achieve full sealing compared to clay or syn
 very sandy or porous soils, and the need for abundant organic material which may not be available in arid regions.
 
 ## Key Points
-- Gley ponds use anaerobic decomposition of organic matter to create a natural impermeable seal
+- Gley ponds use anaerobic decomposition of [[hamilton-composting-and-organic-matter-management]] to create a natural impermeable seal
 - Fresh green vegetation compacted beneath a protective soil layer forms the waterproof membrane
-- Site selection should prioritize clay or loam soils with natural water collection capacity
+- [[fukuoka-creating-natural-farm-site-selection-establishment]] should prioritize clay or loam soils with natural water collection capacity
 - The organic layer is compacted, saturated, covered with soil, and filled slowly over several days
 - Full sealing typically takes 4 to 8 weeks; initial seepage is normal during this period
 - Gley ponds eliminate the cost of synthetic liners and create a self-repairing biological seal
@@ -85,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

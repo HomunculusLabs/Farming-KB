@@ -1,5 +1,5 @@
 ---
-title: Blesching Cannabis Gaba Glutamate Endocannabinoid System
+title: Blesching blesching cannabis gaba glutamate endocannabinoid system Glutamate endocannabinoid-system
 created: 2026-04-26
 tags: [gaba, glutamate, neurotransmitters, endocannabinoid-system, neurochemistry]
 date: 2026-04-25
@@ -13,7 +13,7 @@ type: concept
 
 Gamma-aminobutyric acid (GABA) and glutamate are the brain's primary
 inhibitory and excitatory neurotransmitters, respectively. Their balance is
-fundamental to all nervous system function. In "The endocannabinoid-system]],"
+fundamental to all nervous system function. In "The endocannabinoid-system,"
 [[cannabis-endocannabinoid-system]]
 (ECS) modulates both GABA and glutamate signaling, making it a master
 regulator of neural excitation and inhibition.
@@ -28,11 +28,11 @@ implicated in:
 - Anxiety disorders (insufficient GABA signaling)
 - Insomnia (inability to downregulate arousal)
 - Epilepsy (failure to suppress excessive neuronal firing)
-- Chronic pain (reduced inhibitory tone in pain pathways)
+- [[cannabis-chronic-pain-management]] (reduced inhibitory tone in pain pathways)
 - Muscle spasms (insufficient motor neuron inhibition)
 
 Benzodiazepines and barbiturates work primarily by enhancing GABA-A receptor
-activity, which explains both their cervantes terpenoid pharmacology and their
+activity, which explains both their cervantes [[cervantes-terpenoid-pharmacology-therapeutic-effects]] and their
 significant side effect and dependence profiles.
 
 ## Glutamate: The Primary Excitatory Neurotransmitter
@@ -53,8 +53,11 @@ The balance between GABA inhibition and glutamate excitation is maintained
 through elegant feedback loops in which the [[blesching-cannabis-health-index-autoimmune-conditions]]
 
 ## See Also
-
-- [[blesching-cannabis-epinephrine-norepinephrine-endocannabinoid-system]]
+- norepinephrine- [[query-what-causes-root-rot-in-cannabis-and-how-to-prevent-it]]
+- [[query-what-causes-nutrient-burn-in-cannabis-and-how-to-prevent-it]]
+- [[query-what-causes-cannabis-bud-rot-and-how-to-prevent-it]]
+- [[query-what-causes-airy-loose-cannabis-buds-and-how-to-prevent-them]]
+- [[cannabis-cannabinoid-receptor-pharmacology]]
 ## Practical Considerations
 
 When working with Blesching Cannabis Gaba Glutamate Endocannabinoid System, several practical factors should be
@@ -71,7 +74,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +116,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

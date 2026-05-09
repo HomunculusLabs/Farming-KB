@@ -5,7 +5,7 @@
 The United States presents a complex legal landscape regarding the religious use
 of naturally occurring psychoactive plants.
 While the First Amendment protects religious freedom,
-the Controlled Substances Act prohibits possession and use of many hallucinogenic compounds,
+the Controlled [[controlled-substances-act-and-psychedelic-research]] prohibits possession and use of many hallucinogenic compounds,
 creating tension between religious practice and drug law.
 Several religious traditions have established or sought legal protections
 for their sacramental use of psychoactive plants,
@@ -28,7 +28,7 @@ with ingestion of their psychoactive sacrament.
 ### Expansion and Legal Battles
 
 Both religions have expanded into the US and Europe.
-A 2001 Netherlands court case recognized the Santo Daime as a valid religion.
+A 2001 Netherlands court case recognized the [[metzner-brazilian-ayahuasca-churches-structural-comparison-santo-daime-udv-barquinha]] as a valid religion.
 In November 2000, Oregon's Board of Pharmacy issued a religious exemption
 for sacramental ayahuasca to the Santo Daime.
 
@@ -74,7 +74,7 @@ Similar findings exist for LSD-assisted treatment of addiction
 - Grob, C.S. et al. (1996). Human pharmacology of hoasca. Psychopharmacology.
 ## Practical Considerations
 
-Successful implementation of Sacramental Religious Use Hallucinogenic Plants United States requires attention to
+Successful implementation of Sacramental sacramental religious use hallucinogenic plants united states [[dmt-containing-plants-united-states-halpern]] requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

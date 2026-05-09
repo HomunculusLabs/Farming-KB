@@ -1,5 +1,5 @@
 ---
-title: Grass Seed Cultivation of Psilocybe Mushrooms
+title: Grass grass seed cultivation of psilocybe mushrooms of Psilocybe Mushrooms
 created: 2026-04-28
 tags:
   - cultivation
@@ -37,9 +37,9 @@ of different grass species work well. The seed must not be treated with
 ## Sclerotia Production
 
 [[psilocybe-mexicana]] produce sclerotia while
-still colonizing in the jar — no casing or fruiting chamber needed. Sclerotia
+still colonizing in the jar — no casing or [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]] needed. Sclerotia
 enlarge until approximately 4 months after inoculation. Jars should be kept in
-a clean, preferably dark location. Sclerotia also form in the casing layer of
+a clean, preferably dark location. Sclerotia also form in the [[gourmet-medicinal-mushroom-casing-layer-techniques]] of
 cased trays.
 
 ## See Also
@@ -63,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +105,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

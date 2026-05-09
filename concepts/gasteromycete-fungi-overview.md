@@ -3,29 +3,25 @@ title: Gasteromycete Fungi Overview
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [[mycology, fungi]
-sources: []
+tags: [mycology, fungi]
+sources:
+  sources: []
 ---
-# Gasteromycete Fungi Overview
-
-Gasteromycetes (from Greek: gaster = stomach, mycetes = fungi, "stomach fungi") are
-[[stinkhorn-fungi-biology]]
-- **Cage fungi** (Clathrus, Anthurus, Laternea) - Elaborate cage or star-shaped receptacles
-  [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
+# Gasteromycete Fungi Overview Gasteromycetes (from Greek: gaster = stomach, mycetes = fungi, "stomach fungi") are stinkhorn-fungi-biology - **Cage fungi** (Clathrus, Anthurus, Laternea) - Elaborate cage or star-shaped receptacles [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
 - **Earth-stars** (Geastrum) - Puffballs surrounded by star-shaped outer layers that open upon
   maturity
 - **Earth-balls** (Scleroderma) - Hard, often purple-spored puffball relatives
-- **Bird's nest fungi** (Cyathus, Nidula, Crucibulum) - Cup-shaped fruiting bodies containing
+- **Bird's [[bloomfield-birds-nest-fungi-peridiole-splash-herbivore-dispersal]]** (Cyathus, Nidula, Crucibulum) - Cup-shaped fruiting bodies containing
   spore packets (peridioles) [[sequestrate-fungi-truffles-hypogeous-dispersal]]
-- **Sphaerobolus** - The "artillery fungus" that shoots spore balls explosively
+- **Sphaerobolus** - The "[[bloomfield-sphaerobolus-artillery-fungus-spore-launch]]" that shoots spore balls explosively
 
 ## Evolutionary Origins
 
 Gasteromycetes are not a natural (monophyletic) group. They evolved independently from different
 lineages of gilled mushroom ancestors (agarics) and boletes. The key evolutionary theme is the
-gradual loss of the unfolding capacity of the fruiting body:
+gradual loss of the unfolding capacity of the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]:
 
-1. Ancestral mushrooms had exposed gills or pores and discharged spores via [[mushroom-evaporative-cooling]]).
+1. Ancestral mushrooms had exposed gills or pores and discharged spores via mushroom-evaporative-cooling).
 
 ## Sphaerobolus: The Artillery Fungus
 
@@ -42,7 +38,7 @@ Sphaerobolus is adapted for passage through herbivore digestive systems.
 - [[stinkhorns-and-cage-fungi]] - Cage fungi detail
 - [[xerophilic-xerotolerant-fungi]] - Bird's nest fungi
 - [[basidiomycete-phylum-guide]] - Phylum classification
-- [[fungal-spore-biology]] - General spore biology
+- [[fungal-spore-biology]] - General [[fungal-spore-biology-dispersal]]
 
 Source: Nicholas P. Money, "Mr. Bloomfield's Orchard" (Oxford University Press, 2002), Chapter 1.
 ## Practical Considerations
@@ -61,7 +57,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +99,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

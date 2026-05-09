@@ -1,5 +1,5 @@
 ---
-title: Casing Soils for Mushroom Cultivation
+title: Casing Soils for accessible-mushroom-cultivation-for-disabilities
 created: 2026-04-26
 tags:
   - mycology
@@ -33,7 +33,7 @@ greatly enhanced. The casing serves several critical functions:
 
 ## Applications in Gourmet Mushroom Cultivation
 
-In the cultivation of gourmet and medicinal mushrooms, casing soils have
+In the cultivation of gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]], casing soils have
 limited applications. Cultivators should be forewarned that green-mold
 contamination often occurs with soil-based casing layers, especially when
 air circulation is poor and coupled with contact with wood. The possible
@@ -50,13 +50,13 @@ fruit well, or at all.
 
 ### Dependent on Casing (soil microorganisms required):
 - Agaricus brunnescens - The Button Mushroom
-- Agaricus bitorquis - The Warm Weather Button Mushroom
+- [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]] - The Warm Weather Button Mushroom
 
 ### Benefited by Casing:
 - Agrocybe aegerita - The Black Poplar Mushroom
-- Coprinus comatus - The Shaggy Mane
-- Ganoderma lucidum - Reishi or Ling Chi
-- Volvariella volvacea - The Paddy Straw Mushroom
+- [[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]] - The Shaggy Mane
+- [[stamets-reishi-ganoderma-lucidum-cultivation]] - Reishi or Ling Chi
+- [[paddy-straw-mushroom-volvariella-volvacea-cultivation]] - The Paddy Straw Mushroom
 
 ### Not Requiring Casing:
 - Most Pleurotus species (Oyster mushrooms)
@@ -138,8 +138,13 @@ temperature. This is the ideal time to apply casing and synchronize the
 other factors favorable to mushroom formation. The casing layer provides
 the microclimate necessary for this critical transition.
 
-## Related Topics
+## Related
+
+- [[cotter-casing-soils-microbial-triggers]]
+
+- [[gourmet-mushroom-polypore-cultivation]]
+- [[growing-gourmet-thermogenesis-mushroom-cultivation]]
+- [[growing-gourmet-iconic-types-mushroom-mycelium]] Topics
 
 - [[growing-gourmet-fruiting-parameters]]
 - [[growing-gourmet-shaggy-mane-coprinus-cultivation]]
-- [[growing-gourmet-reishi-cultivation]]

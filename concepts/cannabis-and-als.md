@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-**Source:** The Cannabis Health Index (Uwe Blesching) | **CHI:** 19 | **Studies:** 7 | **Updated:** 2026-04-18
+**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]] (Uwe Blesching) | **CHI:** 19 | **Studies:** 7 | **Updated:** 2026-04-18
 
 ## Overview
 
@@ -20,7 +20,7 @@ Amyotrophic lateral sclerosis (ALS), also known as Lou Gehrig's disease, is a pr
 
 # Cannabis for ALS (Amyotrophic Lateral Sclerosis)
 
-ALS, also known as Lou Gehrig's disease, is a chronic degenerative neurological illness involving the selective loss of motor neurons in the brain and spinal cord. The name derives from Greek: "a-myo-trophic" meaning no-muscle-nourishment, "lateral" referring to muscles on either side of affected nerves, and "sclerosis" meaning hardening. Without nourishment, muscles waste away along with the ability to initiate movement.
+ALS, also known as Lou Gehrig's disease, is a chronic degenerative neurological illness involving the selective loss of motor neurons in the brain and [[blesching-cannabis-spinal-cord-injuries]]. The name derives from Greek: "a-myo-trophic" meaning no-muscle-nourishment, "lateral" referring to muscles on either side of affected nerves, and "sclerosis" meaning hardening. Without nourishment, muscles waste away along with the ability to initiate movement.
 
 ## Disease Overview
 
@@ -44,7 +44,7 @@ A 2010 Swiss study on 27 ALS patients receiving 5 mg THC twice daily found no ch
 
 A 2010 review from Rome confirmed cannabinoids regulate immune responses and protect nerve cell function and integrity. A 2007 review from the University of Rome found the [[cannabis-thc-therapeutic-profile]] acts as a glutamate antagonist, reducing excitotoxic damage to motor neurons. The anti-inflammatory properties of cannabinoids, particularly through CB2 receptor activation, help modulate the immune response and reduce neuroinflammation.
 
-The antioxidant properties of cannabinoids protect neurons from oxidative stress, a key contributor to neurodegeneration. The muscle-relaxant effects may help reduce cramps and spasms, while appetite stimulation addresses the nutritional challenges faced by ALS patients.
+The antioxidant properties of cannabinoids protect neurons from [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], a key contributor to neurodegeneration. The muscle-relaxant effects may help reduce cramps and spasms, while appetite stimulation addresses the nutritional challenges faced by ALS patients.
 
 Bronchodilation helps maintain respiratory function, and sleep-inducing properties address the sleep disturbances common in ALS. The neuroprotective effects work across multiple pathways to slow the progression of motor neuron death.
 
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

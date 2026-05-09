@@ -13,12 +13,12 @@ sources:
   - Jaynes, R.A. (1988). "Kalmia: The Laurel Book." Timber Press.
   - USDA NRCS (2024). "Kalmia latifolia L. — Mountain Laurel." PLANTS Database.
   - Leach, W.J. (1962). "A Revision of the Genus Kalmia." Virginia Agricultural Experiment Station Bulletin 154.
-  - U.S. Forest Service (2024). "Silvics of North America: Kalmia latifolia."
+  - U.S. Forest Service (2024). "Silvics of [[psilocybin-north-america-pacific-northwest]]: Kalmia latifolia."
 ---
 
 ## Overview
 
-**Kalmia latifolia**, commonly known as mountain laurel, is an evergreen shrub in the family Ericaceae native to eastern North America.
+**Kalmia latifolia**, commonly known as mountain laurel, is an evergreen shrub in the family Ericaceae native to [[polypore-fungi-eastern-north-america]] America.
 
 It is celebrated for its showy clusters of pink-to-white flowers and glossy, dark green foliage.
 
@@ -38,7 +38,7 @@ It has a dense, multi-stemmed growth habit with spreading branches forming a rou
 
 Leaves are evergreen, alternate, elliptic to lanceolate, 5–12 cm long and 2–4 cm wide.
 
-The leaf surface is dark glossy green above and paler below, with entire margins that may be slightly revolute.
+The [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is dark glossy green above and paler below, with entire margins that may be slightly revolute.
 
 Flowering occurs from May through July, producing terminal corymbose clusters of 50–150 flowers.
 
@@ -96,7 +96,7 @@ Despite its toxicity, deer browse the foliage lightly, and the plant provides im
 
 The explosive anther mechanism deposits pollen directly onto the bee's thorax and legs as it triggers the stamens.
 
-Other insect visitors include butterflies, moths, and smaller native bees, though they are less effective pollinators.
+Other insect visitors include butterflies, moths, and smaller [[query-how-to-attract-native-bees-and-beneficial-insects]], though they are less effective pollinators.
 
 The evergreen foliage provides important year-round cover and thermal refuge for birds and small mammals.
 
@@ -110,9 +110,9 @@ In fire-prone ecosystems, mountain laurel resprouts from basal burls and rhizome
 
 ## Horticultural Significance
 
-**Kalmia latifolia** is one of the most widely cultivated native North American ornamental shrubs.
+**Kalmia latifolia** is one of the most widely cultivated native [[growing-gourmet-north-american-reishi-species]] ornamental shrubs.
 
-Numerous cultivars have been selected for flower color, plant form, cold hardiness, and disease resistance.
+Numerous cultivars have been selected for flower color, plant form, [[coleman-cold-hardiness-testing-ratings]], and disease resistance.
 
 Popular cultivars include 'Ostbo Red', 'Minuet', 'Elf', 'Carousel', and 'Freckles'.
 
@@ -128,8 +128,8 @@ Its combination of evergreen foliage, attractive bark, and spectacular floral di
 
 ## See Also
 
-- [[gaultheria-procumbens]]
-- [[arctostaphylos-uva-ursi]]
+- gaultheria-procumbens
+- arctostaphylos-uva-ursi
 - [[vaccinium-angustifolium]]
 - [[vaccinium-uliginosum]]
 - [[vaccinium-macrocarpon]]

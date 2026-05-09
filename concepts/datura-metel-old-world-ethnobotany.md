@@ -1,5 +1,5 @@
 ---
-title: "Datura metel: Old World Ethnobotany and Cultural History"
+title: "Datura metel: datura metel old world ethnobotany Ethnobotany and shroom-cultural-history-hippie-revolution-and-counterculture"
 created: "2026-04-17"
 updated: "2026-04-17"
 type: concept
@@ -15,11 +15,11 @@ Datura metel, known as dhatura and dutra in India, is an important Old World spe
 
 Datura metel is a robust annual or short-lived perennial plant with large, ovate leaves and striking purple or white flowers. The plant produces spiny capsules containing numerous kidney-shaped seeds. All parts of the plant contain highly toxic tropane alkaloids, with the highest concentrations found in the seeds and leaves.
 
-Datura metel is one of approximately 20 species of Datura distributed across both hemispheres. The genus belongs to the nightshade family, Solanaceae, and shares the characteristic tropane alkaloid chemistry of related hallucinogenic plants including [[henbane-hyoscyamus-niger-ethnobotany]], and [[mandrake-mandragora-officinarum-in-european-folklore]] in European tradition, where the plant was similarly believed to possess potent properties related to love and fertility. These cross-cultural parallels suggest that the tropane alkaloids may have consistent effects on human psychology that are interpreted in culturally specific but convergent ways.
+Datura metel is one of approximately 20 species of Datura distributed across both hemispheres. The genus belongs to the nightshade family, Solanaceae, and shares the characteristic tropane [[ergot-alkaloid-chemistry-history]] of related hallucinogenic plants including [[henbane-hyoscyamus-niger-ethnobotany]], and [[mandrake-mandragora-officinarum-in-european-folklore]] in European tradition, where the plant was similarly believed to possess potent properties related to love and fertility. These cross-cultural parallels suggest that the tropane alkaloids may have consistent effects on human psychology that are interpreted in culturally specific but convergent ways.
 
 ## Datura and Cannabis Combinations
 
-Datura metel is commonly mixed with cannabis and smoked in Asia to this day. This combination, which may seem surprising given the very different pharmacological profiles of the two plants, has been documented across South and Southeast Asia. The tropane alkaloids of datura combined with the cannabinoids of cannabis produce a complex intoxication that differs significantly from either plant alone.
+Datura metel is commonly mixed with cannabis and smoked in Asia to this day. This combination, which may seem surprising given the very different pharmacological profiles of the two plants, has been documented across South and [[psilocybe-southeast-asia-pacific]]. The tropane alkaloids of datura combined with the cannabinoids of cannabis produce a complex intoxication that differs significantly from either plant alone.
 
 Leaves of the white-flowered form (D. fastuosa) are also smoked with cannabis or tobacco in many parts of Africa and Asia. This widespread practice of combining datura with other psychoactive plants reflects a common pattern in ethnopharmacology, where plant admixtures are used to modify, enhance, or extend the effects of primary intoxicants.
 
@@ -59,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

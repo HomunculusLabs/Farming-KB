@@ -18,10 +18,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Moerman, D.E. (1998). "Native American Ethnobotany." Timber Press.
+  - Moerman, D.E. (1998). "halpern-sacramental-peyote-and-native-american-church Ethnobotany." Timber Press.
   - Tilford, G.L. (1997). "Edible and Medicinal Plants of the West." Mountain Press.
   - Hitchcock, C.L. & Cronquist, A. (1973). "Flora of the Pacific Northwest." University of Washington Press.
-  - Werier, D. et al. (2022). "Pedicularis groenlandica." Flora of North America. http://floranorthamerica.org
+  - Werier, D. et al. (2022). "Pedicularis groenlandica." Flora of [[psilocybin-north-america-pacific-northwest]]. http://floranorthamerica.org
   - Schofield, J.J. (1989). "Discovering Wild Plants." Alaska Northwest Books.
 ---
 
@@ -36,7 +36,7 @@ the Rocky Mountains and Sierra Nevada used the plant as a muscle relaxant
 and analgesic, and modern herbalists value it for similar applications.
 
 The species is a root hemiparasite, supplementing its photosynthesis by
-extracting water, mineral nutrients, and secondary metabolites from the
+extracting water, mineral nutrients, and [[antifungal-secondary-metabolites-coprophilous-fungi]] from the
 roots of neighboring plants — particularly sedges, grasses, and asters.
 
 ## Taxonomy
@@ -47,7 +47,7 @@ roots of neighboring plants — particularly sedges, grasses, and asters.
 
 Originally described from Greenland material by Anders Retzius. The
 specific epithet references the type locality, though the species is far
-more abundant in the North American Rockies than in Greenland. No
+more abundant in the [[growing-gourmet-north-american-reishi-species]] Rockies than in Greenland. No
 infraspecific taxa are currently recognized.
 
 ## Morphology
@@ -107,7 +107,7 @@ has not been fully characterized in peer-reviewed literature.
 ## Cultivation
 
 Cultivation is challenging due to the hemiparasitic requirement.
-Seed germination requires cold stratification (30–60 days at 4°C) and
+[[cannabis-seed-germination-methods]] requires cold stratification (30–60 days at 4°C) and
 the presence of appropriate host plant roots for sustained growth.
 In practice, seeds are sown in pots already containing established
 host species (grasses, sedges, or *Aster* spp.).

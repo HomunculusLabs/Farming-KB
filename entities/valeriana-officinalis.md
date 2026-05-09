@@ -29,7 +29,7 @@ sources:
 
 Valeriana officinalis, commonly known as valerian, is a perennial flowering
 plant in the family Caprifoliaceae (traditionally Valerianaceae). Native to
-Europe and parts of Asia, it has been used as a medicinal herb growing guide for over 2,000
+Europe and parts of Asia, it has been used as a [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]] [[comparison-bean-growing-guide-vs-pepper-growing-guide]] for over 2,000
 years, most prominently as a sedative and anxiolytic agent.
 
 The dried root is one of the most widely used herbal sleep aids in both
@@ -98,5 +98,9 @@ elevation. Tolerates clay soils and seasonal waterlogging.
 
 - **Valeriana jatamansi:** Himalayan species, higher valepotriate content;
   used in Ayurveda.
-- **Valeriana edulis:** North American species with edible roots.
+- **Valeriana edulis:** [[growing-gourmet-north-american-reishi-species]] species with edible roots.
 - **Centranthus ruber (red valerian):** Ornamental relative, not
+
+## See Also
+
+- [[ligusticum-porteri]]

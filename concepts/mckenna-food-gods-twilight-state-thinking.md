@@ -11,9 +11,9 @@ type: concept
 
 # Twilight-State Thinking in Food of the Gods
 
-In *Food of the Gods*, Terence McKenna adopts and extends the concept
+In *Food of the Gods*, [[terence-mckenna]] adopts and extends the concept
 of "twilight-state thinking" from the work of science writer John
-Pfeiffer to argue that altered states of consciousness were not merely
+Pfeiffer to argue that [[weil-the-natural-mind-altered-states-normalcy]] of consciousness were not merely
 incidental to prehistoric human culture but were essential to its
 development. The concept provides a bridge between McKenna's
 [[mckenna-food-gods-archaic-revival]] he advocates would, in part, restore the deliberate and purposeful pursuit of twilight states as a legitimate and essential component of human culture.
@@ -39,7 +39,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -89,7 +89,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -99,4 +99,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

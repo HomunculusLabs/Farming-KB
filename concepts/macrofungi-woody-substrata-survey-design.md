@@ -1,21 +1,14 @@
 ---
-title: Macrofungi on Woody Substrata — Survey Design
+title: Macrofungi on [[biodiversity-macrofungi-woody-substrata]] substrata [[fungal-survey-design-role-of-volunteers]] — fungal-survey-design-role-of-volunteers
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [[mycology, fungi]
-sources: []
+tags: [mycology, fungi]
+sources:
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-
-# Macrofungi on Woody Substrata — Survey Design
-
-Wood-inhabiting macrofungi are a diverse and ecologically critical group requiring specialized survey protocols. Their substrata range from tiny twigs to large trunks, each supporting distinct fungal communities.
-
-## Ecological Importance
-
-All decay fungi recycle lignocellulosic and mineral nutrients back into ecosystems. Their activities soften woody tissues, making them more amenable to bird and small-mammal habitation and use by arthropods, nematodes, and other invertebrates. Wood in advanced stages of decay is important for establishment of mycorrhizal associations with seedlings, and decayed woody debris acts as a moisture sink for maintaining mycorrhizal fungi in seasonally dry forests.
-
-The role of wood-inhabiting fungi in [[fungal-species-richness-and-diversity-indices]] literature.
+# Macrofungi on Woody Substrata — Survey Design Wood-inhabiting macrofungi are a diverse and ecologically critical group requiring specialized survey protocols. Their substrata range from tiny twigs to large trunks, each supporting distinct fungal communities. ## Ecological Importance All decay fungi recycle lignocellulosic and mineral nutrients back into ecosystems. Their activities soften woody tissues, making them more amenable to bird and small-mammal habitation and use by arthropods, nematodes, and other invertebrates. Wood in advanced stages of decay is important for establishment of mycorrhizal associations with seedlings, and decayed woody debris acts as a moisture sink for maintaining mycorrhizal fungi in seasonally dry forests. The role of wood-inhabiting fungi in [[fungal-species-richness-and-diversity-indices]] literature.
 
 ## Open Research Questions
 
@@ -27,13 +20,13 @@ The role of wood-inhabiting fungi in [[fungal-species-richness-and-diversity-ind
 
 - How does species composition change through the course of decay?
 
-- How do forest productivity and substratum abundance influence mycodiversity?
+- How do [[fukuoka-textdoc-forest-productivity-without-fertilizer]] and substratum abundance influence mycodiversity?
 
 ## See Also
 
 - [[litter-wood-decomposing-fungi]]
-- [[macrofungi-sampling]]
-- [[fungal-community-ecology]]
+- macrofungi-sampling
+- fungal-community-ecology
 - [[fungal-diversity-leaf-litter-coarse-woody-debris]]
 ## Practical Applications
 
@@ -52,7 +45,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -102,7 +95,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -112,4 +105,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

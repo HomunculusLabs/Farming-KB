@@ -1,5 +1,5 @@
 ---
-title: Sticky Traps and Physical Pest Monitoring for Cannabis
+title: cervantes sticky traps pest monitoring and hamilton-netting-and-physical-pest-barriers Monitoring for Cannabis
 created: 2026-04-26
 tags:
   - cannabis
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -33,7 +34,7 @@ traps them on contact. This provides both population monitoring and
 physical control.
 
 ### Target Pests
-Yellow sticky traps help monitor and contain several key cannabis pests:
+Yellow sticky traps help monitor and contain several key [[green-cannabis-pests-prevention]]:
 - Fungus gnats (primary target for monitoring)
 - Thrips (helps control populations)
 - Winged aphids (often the first to enter a garden)
@@ -94,13 +95,13 @@ is completely non-toxic.
 
 ## The Role of Monitoring in IPM
 
-Cervantes outlines a logical progression of insect control:
+Cervantes outlines a logical progression of [[mushroom-pests-insect-control-stamets]]:
 
 1. Prevention (cleanliness, new soil, disease-resistant plants,
-   climate control, companion planting)
+   climate control, [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]])
 2. Manual Removal (fingers, sponges)
 3. Organic Sprays (pyrethrum, neem, insecticidal soap)
-4. Natural Predators (beneficial insects)
+4. Natural Predators ([[comparison-beneficial-insects-guide-vs-integrated-pest-management]])
 5. Chemicals (last resort)
 
 Monitoring with sticky traps fits into the prevention stage, providing

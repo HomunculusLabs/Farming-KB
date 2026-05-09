@@ -1,5 +1,5 @@
 ---
-title: "Nitrogen Cycle and Organic Nitrogen Sources"
+title: "query-how-does-the-nitrogen-cycle-work-in-a-garden and Organic Nitrogen Sources"
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Jeff Lowenfels, Teaming with Nutrients"
@@ -28,7 +28,7 @@ specialized microorganisms to break these bonds and make nitrogen available to p
 nitrogen-fixing bacteria live in symbiotic relationships with plants in root nodules, such as
 Rhizobia nodules on legumes. Others, such as Azotobacter, are free-living soil organisms.
 
-Today, the Haber-Bosch process allows for artificial nitrogen fixation, and only about 50 to 60
+Today, the Haber-Bosch process allows for artificial [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], and only about 50 to 60
 percent of available nitrogen is produced by biological systems. The Haber-Bosch process provides
 over half a billion tons of artificial manures each year, requiring a staggering 5 percent of the
 world's natural gas production.
@@ -37,7 +37,7 @@ Fixed nitrogen in the form of ammonium (NH4+) and nitrate (NO3-) is taken up and
 various compounds within the plant. When plants die, they decompose. The decay by bacteria and
 fungi results in ammonification, the production of NH4+. Some of this is taken up by plants, and
 the rest is converted by nitrifying bacteria to nitrite (NO2-), which is then converted by
-bacteria and Archaea into NO3-. Some nitrate is absorbed by plants and assimilated, some remains
+[[teaming-with-microbes-bacteria-and-archaea-in-soil]] into NO3-. Some nitrate is absorbed by plants and assimilated, some remains
 in the soil, and the rest washes out of the soil.
 
 When soil or water containing nitrogen becomes anaerobic, nitrates are converted back to
@@ -57,7 +57,7 @@ molecules, and the plant provides the housing for this activity as well as carbo
 that the bacteria consume. The amount of oxygen has to be limited for the enzymes to work, and
 the root nodules provide such an environment. There is enough nitrogen for the legume and the
 bacteria to share. Up to 20 percent excess nitrogen is produced as well, and it moves into the
-soil and soil food web, where much of it is brought to plants by mycorrhizal fungi. Many
+soil and soil food web, where much of it is brought to plants by [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]. Many
 commercial mixtures of Rhizobia are available, and there has to be a specific match between the
 right species of Rhizobia with the right kind of plant.
 
@@ -86,7 +86,7 @@ hair, human urine, soybean meal, and Chilean nitrate.
 
 A good all-purpose source of nitrogen containing trace elements. Alfalfa meal feeds bacteria and
 fungi and is usually covered with protozoa, each of which can cycle 10,000 bacteria a day into
-plant-usable ammonium. It contains natural growth hormones and is available for cycling into
+plant-usable ammonium. It contains [[ingham-natural-growth-regulators-soil-microbes]] hormones and is available for cycling into
 nutrients for about 1 to 4 months.
 
 ### Bat Guano (N-P-K 10-3-1)
@@ -140,6 +140,8 @@ results in a higher pH.
 
 ## See Also
 
-- [[lowenfels-nutrients-phosphorus-mycorrhizae]] - Phosphorus and mycorrhizal nutrient delivery
+- [[urea-cycle-biochemistry]]
+
+- lowenfels-nutrients-phosphorus-mycorrhizae - Phosphorus and [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] delivery
 - [[lowenfels-nutrients-micronutrients]] - Molybdenum's role in nitrogen fixation
 - [[lowenfels-nutrients-foliar-feeding-sap-analysis]] - Foliar nitrogen application limitations

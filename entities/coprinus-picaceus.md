@@ -37,15 +37,15 @@ The taxonomy of the coprinoid fungi has undergone significant revision. The genu
 - **Fruiting Induction:** Some coprinoid fungi require specific environmental triggers for basidiocarp development, including changes in temperature, light exposure, and substrate composition. Fruiting in culture is often erratic
 - **Spore Germination:** Basidiospores can be germinated on nutrient-poor agar media. The presence of compatible mating types is required for completion of the sexual cycle
 - **Microscopic Identification:** Features including spore size and shape, presence of a germ pore, cheilocystidia and pleurocystidia morphology, and pileipellis structure are diagnostic. Melzer's reagent and KOH mounts are standard
-- **Molecular Identification:** ITS rDNA sequencing provides reliable species-level identification. LSU rDNA and TEF1-alpha gene regions are also useful for phylogenetic studies within the Psathyrellaceae
+- **[[biodiversity-fungal-molecular-identification-dna-barcoding]]:** ITS rDNA sequencing provides reliable species-level identification. LSU rDNA and TEF1-alpha gene regions are also useful for phylogenetic studies within the Psathyrellaceae
 
 ## Conservation Status and Environmental Concerns
 
 - **Habitat Sensitivity:** *C. picaceus* is associated with unimproved calcareous grasslands and ancient woodlands, habitats that have declined significantly across Europe due to agricultural intensification, afforestation, and urban development
-- **Soil Disturbance:** Plowing, liming, and application of inorganic fertilizers to calcareous grasslands can reduce populations of *C. picaceus* and other saprotrophic fungi by altering soil chemistry and organic matter availability
+- **Soil Disturbance:** Plowing, liming, and application of [[ingham-inorganic-fertilizers-soil-biology-damage]] to calcareous grasslands can reduce populations of *C. picaceus* and other saprotrophic fungi by altering soil chemistry and organic matter availability
 - **Bioindicator Potential:** The presence or absence of *C. picaceus* and other grassland fungi has been proposed as an indicator of habitat quality and continuity in calcareous grassland monitoring programs
-- **Climate Change:** Changes in precipitation patterns and temperature regimes may affect fruiting phenology and the suitability of current habitats for *C. picaceus* and related species
-- **Nitrogen Deposition:** Elevated atmospheric nitrogen deposition from agricultural and industrial sources can alter the competitive balance between fungal species in calcareous grasslands, potentially favoring nitrophilic species over specialist fungi like *C. picaceus*
+- **[[dighton-fungi-climate-change-feedback]]:** Changes in precipitation patterns and temperature regimes may affect [[macrofungal-fruiting-phenology-climate-variability]] and the suitability of current habitats for *C. picaceus* and related species
+- **[[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]:** Elevated atmospheric nitrogen deposition from agricultural and industrial sources can alter the competitive balance between fungal species in calcareous grasslands, potentially favoring nitrophilic species over specialist fungi like *C. picaceus*
 
 ## See Also
 
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

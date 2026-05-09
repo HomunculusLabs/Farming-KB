@@ -1,5 +1,5 @@
 ---
-title: Hydrogen Peroxide in Cannabis Cultivation
+title: cervantes hydrogen peroxide sterilization in query-how-does-no-till-cannabis-cultivation-work
 created: 2026-04-26
 tags:
   - hydrogen-peroxide
@@ -10,16 +10,17 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Hydrogen Peroxide in Cannabis Cultivation
 
 Hydrogen peroxide (H2O2) is a versatile tool in cannabis cultivation
-that provides sterilization, disease prevention, and root zone
+that provides sterilization, [[cervantes-pest-disease-prevention-overview]], and root zone
 oxygenation benefits. Similar to water but carrying an extra, unstable
-oxygen molecule, hydrogen peroxide can break down into a reactive atom
+oxygen molecule, hydrogen peroxide can [[query-can-fungi-break-down-plastic-pollution]] into a reactive atom
 that either attaches itself to another oxygen atom or attacks an
 organic molecule.
 
@@ -36,7 +37,7 @@ multiple benefits in horticulture:
   pathogens, spores, and disease-causing organisms.
 
 - Organic material is broken down, preventing the buildup of dead
-  matter that can harbor pests and diseases.
+  matter that can harbor [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]].
 
 ## Water Purification
 
@@ -54,7 +55,7 @@ plants. See [[cervantes-seed-germination]].
 
 Hydrogen peroxide can be applied as a soil drench to treat root
 diseases and improve root zone oxygen levels. It is effective against
-pythium (root rot) and other root pathogens when applied at the first
+pythium ([[cannabis-root-rot-prevention-and-treatment]]) and other root pathogens when applied at the first
 signs of infection. The oxygen release also stimulates root growth in
 stressed or recovering plants.
 

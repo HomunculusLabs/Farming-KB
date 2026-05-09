@@ -1,5 +1,5 @@
 ---
-title: Piriformospora indica
+title: linum-album-piriformospora-indica-co-culture-system
 created: 2026-04-28
 tags: [piriformospora-indica, endophyte, biocontrol, plant-growth-promotion, basidiomycota]
 date: 2026-04-25
@@ -23,7 +23,7 @@ model organism for studying beneficial plant-microbe interactions.
 
 *P. indica* can be multiplied in mass scale on cheap and industrially
 produced simplified nutrient medium. This ease of cultivation distinguishes
-it from arbuscular mycorrhizal fungi, which cannot be grown in the absence
+it from [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi, which cannot be grown in the absence
 of a living plant. The ability to culture *P. indica* axenically opens
 possibilities for biotechnological applications that have been restricted for
 other mycorrhizal fungi due to their obligate biotrophic nature.
@@ -55,7 +55,7 @@ interferes with the host cell death program to form a mutualistic interaction.
 
 ## Plant Growth Promotion
 
-*P. indica* vastly improves growth and overall biomass production of diverse
+*P. indica* vastly improves growth and overall [[dighton-fungal-biomass-production-aquatic-ecosystems]] of diverse
 hosts, including legumes and medicinally and economically important species.
 Plants tested include *Bacopa monnieri*, *Azadirachta indica* (neem),
 *Withania somnifera*, *Spilanthes calva*, *Adhatoda vasica*, and
@@ -78,7 +78,7 @@ availability to host plants.
 - **Salt tolerance:** Promotes tolerance to salt stress in host plants.
 - **Heavy metal resistance:** Provides resistance against heavy-metal
   contamination in soil.
-- **Transplant shock:** Overcomes transient transplant shock when
+- **[[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]]:** Overcomes transient transplant shock when
   inoculated into tissue culture-raised plantlets, leading to nearly 100%
   survival on transfer to the field.
 
@@ -88,7 +88,7 @@ Deactivating the Arabidopsis gene DMI-1, which encodes an ion carrier
 required for mycorrhiza formation in legumes, does not affect the beneficial
 interaction between *P. indica* and Arabidopsis. This suggests that the
 signaling pathway for *P. indica* colonization differs from that of
-canonical arbuscular mycorrhizal symbiosis.
+canonical arbuscular [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]].
 
 A leucine-rich repeat (LRR) protein is required for growth promotion and
 enhanced seed production mediated by *P. indica* in *Arabidopsis thaliana*
@@ -100,7 +100,7 @@ glucan-water dikinase (SEX1) in roots (Sherameti et al. 2005).
 
 *P. indica* is a potential candidate for multiple agricultural applications:
 
-- **Biofertilizer:** Enhances nutrient uptake and plant growth
+- **Biofertilizer:** Enhances [[plant-nutrient-uptake-mechanisms]] and plant growth
 - **Bioprotector:** Provides resistance against pathogens and abiotic stress
 - **Bioregulator:** Modulates plant hormone pathways and gene expression
 - **Bioherbicide/weedicide potential:** Alters competitive dynamics
@@ -132,4 +132,7 @@ plant growth promotion.
 
 - [[fungal-plant-defense]]
 - [[arbuscular-mycorrhizal-fungi]]
-- [[mycorrhizal-symbiosis]]
+- mycorrhizal-symbiosis
+- [[arabidopsis-thaliana]]
+- [[azadirachta-indica]]
+- [[bacopa-monnieri]]

@@ -23,7 +23,7 @@ created: 2026-05-07
 
 Rudolf Joseph Lorenz Steiner (1861-1925) was an Austrian philosopher, esotericist, and social reformer who founded anthroposophy, a spiritual movement emphasizing the development of intuitive cognition. His work spans philosophy, education, agriculture, medicine, architecture, and the arts.
 
-Steiner's Agricultural Course of 1924 established the foundations of biodynamic farming, a holistic approach to agriculture that predates and significantly influenced the organic farming movement. Biodynamic principles have had a lasting impact on sustainable and regenerative agriculture practices worldwide.
+Steiner's Agricultural Course of 1924 established the foundations of [[comparison-biodynamic-farming-vs-organic-farming]], a holistic approach to agriculture that predates and significantly influenced the [[coleman-deep-organic-farming-philosophy]] movement. Biodynamic principles have had a lasting impact on sustainable and regenerative agriculture practices worldwide.
 
 Through his pedagogical theories, Steiner also founded the Waldorf education system, now operating over 1,200 schools globally. His architectural designs, particularly the Goetheanum in Dornach, Switzerland, remain influential in organic architecture.
 
@@ -53,9 +53,9 @@ The Anthroposophical Society was formally established at the Christmas Conferenc
 
 In June 1924, Steiner delivered eight lectures on agriculture to a group of farmers in Koberwitz (now Kobierzyce, Poland). This Agricultural Course laid the foundations for biodynamic farming, one of the first systematic approaches to organic agriculture.
 
-Biodynamic agriculture treats the farm as a self-sustaining organism in which soil, plants, animals, and the farmer form an integrated whole. Key principles include minimal external inputs, closed-loop nutrient cycling, and the integration of livestock with crop production.
+Biodynamic agriculture treats the farm as a self-sustaining organism in which soil, plants, animals, and the farmer form an integrated whole. Key principles include minimal external inputs, closed-loop [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and the integration of livestock with crop production.
 
-Steiner introduced nine biodynamic preparations (numbered 500-508), used in homeopathic quantities to enhance soil fertility, compost quality, and plant health. Preparation 500 (horn manure) and 501 (horn silica) are the most widely used, applied as field sprays.
+Steiner introduced nine [[comparison-biodynamic-preparations-vs-biofertilizers]] (numbered 500-508), used in homeopathic quantities to enhance soil fertility, [[aact-compost-quality-standards-ingham]], and plant health. Preparation 500 (horn manure) and 501 (horn silica) are the most widely used, applied as field sprays.
 
 The biodynamic calendar, based on astronomical and lunar cycles, guides planting, cultivation, and harvesting schedules. Root days, flower days, leaf days, and fruit days are distinguished according to the zodiacal position of the Moon.
 
@@ -85,7 +85,7 @@ Steiner's architectural philosophy, termed "organic architecture" or "organic bu
 
 The first Goetheanum was destroyed by fire on New Year's Eve 1922-1923. Steiner immediately designed a second Goetheanum, constructed of reinforced concrete between 1924 and 1928 (completed posthumously). The building remains the headquarters of the Anthroposophical Society.
 
-Steiner's design principles influenced expressionist architecture and the organic architecture movement. His emphasis on sculptural form, flowing spaces, and the relationship between building and landscape prefigured later developments in organic and ecological design.
+Steiner's [[holmgren-permaculture-twelve-design-principles-framework]] influenced expressionist architecture and the organic architecture movement. His emphasis on sculptural form, flowing spaces, and the relationship between building and landscape prefigured later developments in organic and ecological design.
 
 In the visual arts, Steiner developed the theory of "anthroposophical art" and founded the art of eurythmy in 1912. Eurythmy is a movement art that makes visible speech and music through choreographed gestures, and it remains a core component of Waldorf education.
 
@@ -101,10 +101,10 @@ Anthroposophical medicine has been recognized as a distinct medical system by th
 
 ## See Also
 
-- [[permaculture]]
+- permaculture
 - [[david-holmgren]]
 - [[hugelkultur]]
-- [[comfrey]]
+- comfrey
 - [[swale]]
 - [[guild-planting]]
 - [[withania-somnifera]]

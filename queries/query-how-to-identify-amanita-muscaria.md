@@ -1,5 +1,5 @@
 ---
-title: "How to Identify Amanita Muscaria (Fly Agaric)"
+title: "How to query how to identify amanita muscaria Muscaria (amanita-muscaria-fly-agaric-history-and-pharmacology)"
 created: 2026-04-28
 tags: [query, mushroom-identification, amanita, foraging, mycology]
 date: 2026-04-28
@@ -55,7 +55,7 @@ features for distinguishing Amanita species.
 ## Related Questions
 
 - [[query-how-to-identify-and-avoid-the-death-cap-amanita-phalloides]]
-- [[palmer-about-mushrooms-edible-species-identification]]
+- palmer-about-mushrooms-edible-species-identification
 - [[wild-foraging-guide]]
 ## Practical Considerations
 
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

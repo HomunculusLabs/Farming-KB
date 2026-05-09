@@ -1,11 +1,11 @@
 ---
-title: Cannabis Terpene Profiles and Their Effects
+title: Cannabis cannabis-terpene-profiles-sativa and Their Effects
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
 tags: [cannabis, terpenes, aroma, flavor, effects]
 sources:
-  - "S.T. Oner - Cannabis Sativa Volume 3: The Essential Guide"
+  - "S.T. Oner - comparison-cannabis-sativa-vs-cannabis-indica Volume 3: The Essential Guide"
 ---
 
 # Cannabis Terpene Profiles and Their Effects
@@ -60,7 +60,7 @@ compounds) create pungent, fuel-like aromas:
 - **Jack Diesel**: Inherits the fuel-like aroma from NYC Diesel lineage
 - **Sour Diesel crosses**: "Fuel-like Sour Diesel smell from the parent plant"
 - **White Diesel**: "Fuel-like flavors that express both tastes of the parent plants"
-  (NYC Diesel and White Widow)
+  (NYC Diesel and [[white-widow-cannabis]])
 - **Chupacabra**: "Smells dankier than Kush but not as stinky as Cheese, with tones
   of incense"
 
@@ -73,15 +73,15 @@ compounds) create pungent, fuel-like aromas:
 ### Sweet and Sugary
 
 - **Doobie's Malawi**: "Buds smell like sugar and spice and taste like sweet coffee"
-- **Acapulco Gold**: "Taste of burnt sugar"
+- **[[acapulco-gold]]**: "Taste of burnt sugar"
 - **Hawaiian Wave**: Parent Double Glock described as "sweet but powerful"
-- **CookieWreck**: Sweet cookie notes from the Girl Scout Cookies lineage
+- **CookieWreck**: Sweet cookie notes from the Girl [[girl-scout-cookies]] lineage
 
 ### Skunky and Pungent
 
-- **Critical Haze**: Retains skunky characteristics from the Critical Mass parent
-- **Amnesia Haze**: Skunk genetics contribute to the base aroma
-- **KillerSkunk**: Heavy, pungent skunk aroma "stifling at best" near harvest time
+- **Critical Haze**: Retains skunky characteristics from the [[critical-mass]] parent
+- **[[amnesia-haze]]**: Skunk genetics contribute to the base aroma
+- **KillerSkunk**: Heavy, pungent skunk aroma "stifling at best" near [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]]
 
 ### Haze-Specific Profiles
 

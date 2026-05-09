@@ -2,7 +2,7 @@
 title: Blesching Cannabis Dosing Strategies
 created: 2026-04-26
 updated: 2026-04-25
-sources: "uwe-blesching, The Cannabis Health Index (CHI)"
+sources: "uwe-blesching, The blesching-cannabis-health-index-autoimmune-conditions (CHI)"
 wikilinks: "blesching-endocannabinoid-system-overview blesching-cannabinoid-pharmacology blesching-cannabis-health-index-dosage-guidelines-medical blesching-cannabis-health-index-cannabinoid-terpene-synergy"
 type: concept
 tags: [cannabis]
@@ -12,9 +12,9 @@ tags: [cannabis]
 
 ## Overview
 
-While the existing dosage guidelines page covers the subjective therapeutic
-window and administration methods, this page focuses on condition-specific
-dosing strategies, strain selection principles, THC:CBD ratio optimization, and
+While the existing dosage guidelines page covers the [[cannabis-subjective-therapeutic-window-dosing]]
+window and [[cannabis-administration-methods-comparison]], this page focuses on condition-specific
+dosing strategies, strain [[cannabis-breeding-selection-principles-clarke]], THC:CBD ratio optimization, and
 practical titration protocols derived from Blesching's extensive review of
 clinical studies. For the pharmacological basis of THC and CBD, see [[cannabis-anxiety-research]] for condition-specific evidence.
 
@@ -33,7 +33,7 @@ patient's dominant deficiency:
 
 ### CB2 Deficiency (Immune/Inflammatory Conditions)
 - Conditions: autoimmune diseases, chronic inflammation, arthritis,
-  inflammatory bowel disease, dermatological conditions
+  [[blesching-cannabis-inflammatory-bowel-disease]] disease, dermatological conditions
 - Strategy: Choose strains with lower THC:CBD ratios (indica-dominant)
 - CBD has greater affinity for CB2 receptors
 - Indicas generally more sedating, relaxing, grounding; more physical
@@ -80,7 +80,7 @@ Blesching's studies reveal condition-specific dose sensitivity:
 
 ### GERD
 - 10 mg THC: Significantly reduced symptoms
-- 20 mg THC: Produced adverse effects (nausea, vomiting, hypotension)
+- 20 mg THC: Produced [[blesching-cannabis-safety-adverse-effects-evidence]] (nausea, vomiting, hypotension)
 - Conclusion: Narrow therapeutic window; careful titration essential
 
 ### Alzheimer's Agitation

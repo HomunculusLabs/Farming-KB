@@ -14,8 +14,8 @@ sources:
   - Ju, Y.-M. & Rogers, J.D. (1996). "A revision of the genus Hypoxylon." Mycologia Memoir No. 20. APS Press.
   - Whalley, A.J.S. (1996). "The xylariaceous way of life." Mycological Research, 100(8), 897-904.
   - Petrini, O. et al. (1995). "Host specificity and biodiversity in xylariaceous endophytes." Canadian Journal of Botany, 73(S1), S84-S91.
-  - Stadler, M. et al. (2014). "A polythetic approach to the genus Hypoxylon." Fungal Diversity, 64(1), 1–51.
-  - Sieber, T.N. (2007). "Endophytic fungi in forest trees." In: Microbial Root Endophytes. Springer, Berlin.
+  - Stadler, M. et al. (2014). "A polythetic approach to the genus Hypoxylon." [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]], 64(1), 1–51.
+  - Sieber, T.N. (2007). "[[comparison-endophytic-fungi-vs-mycorrhizal-fungi]] in forest trees." In: Microbial Root Endophytes. Springer, Berlin.
 created: 2026-04-28
 ---
 
@@ -23,7 +23,7 @@ created: 2026-04-28
 
 Hypoxylon fuscum is a pyrenomycetous ascomycete fungus in the family Xylariaceae,
 commonly found as a saprotrophic decomposer on dead hardwood branches and logs
-in temperate and boreal forests. The species produces characteristic dark
+in temperate and [[fungal-diversity-boreal-forests-taiga]]. The species produces characteristic dark
 stromata that erupt through the bark of colonized wood, forming pulvinate to
 effused-reflexed cushions.
 
@@ -63,7 +63,7 @@ germ slit running the length of the spore on the convex side.
 ## Distribution and Habitat
 
 H. fuscum is widely distributed across temperate and boreal regions of the
-Northern Hemisphere, with confirmed records from Europe, North America, and
+Northern Hemisphere, with confirmed records from Europe, [[psilocybin-north-america-pacific-northwest]], and
 northern Asia. It occurs less frequently in subtropical montane forests.
 
 The species is primarily associated with dead branches and twigs of Betula
@@ -81,7 +81,7 @@ forests, including shaded ravines and stream corridors.
 
 ## Bioactive Compounds
 
-H. fuscum produces a range of secondary metabolites characteristic of the
+H. fuscum produces a range of [[antifungal-secondary-metabolites-coprophilous-fungi]] characteristic of the
 Xylariaceae, including cytotoxic and antimicrobial compounds.
 
 The species is a known producer of hypoxylonol and related metabolites,
@@ -99,7 +99,7 @@ that gene expression for secondary metabolism shifts with the fungal lifestyle.
 ## Ecological Role
 
 As a saprotroph, H. fuscum contributes to the decomposition of hardwood
-branches, facilitating nutrient cycling in forest ecosystems. It acts as a
+branches, facilitating [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest ecosystems. It acts as a
 primary colonizer of dead twigs, often succeeded by other fungal species in
 a well-documented succession sequence.
 

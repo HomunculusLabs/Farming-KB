@@ -15,19 +15,19 @@ sources:
   - https://www.leafly.com/strains/og-kush
   - https://www.wikileaf.com/strain/og-kush/
   - Clarke, R.C. & Merlin, M.D. (2013). Cannabis: Evolution and Ethnobotany. University of California Press.
-  - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency Over the Last Two Decades." Biological Psychiatry.
+  - ElSohly, M.A. et al. (2016). "Changes in [[green-cannabis-potency-maximizing]] Over the Last Two Decades." Biological Psychiatry.
 created: 2026-05-07
 ---
 
 # OG Kush
 
-**OG Kush** is a legendary cannabis strain widely regarded as one of the most influential and foundational hybrids in modern cannabis genetics. An indica-dominant hybrid (typically reported as 55% indica / 45% sativa), OG Kush has served as a parent or ancestor to hundreds of popular cultivars including [[tahoe-og]]. Its name is said to originate from "Ocean Grown" Kush, referencing its cultivation along the Southern California coast, though the exact etymology remains debated among cannabis historians.
+**OG Kush** is a legendary [[blesching-cannabis-strain-selection-receptor-targeting]] widely regarded as one of the most influential and foundational hybrids in modern [[vic-high-cannabis-genetics-mendelian-inheritance]]. An indica-dominant hybrid (typically reported as 55% indica / 45% sativa), OG Kush has served as a parent or ancestor to hundreds of popular cultivars including [[tahoe-og]]. Its name is said to originate from "Ocean Grown" Kush, referencing its cultivation along the Southern California coast, though the exact etymology remains debated among cannabis historians.
 
 ## Genetic Lineage
 
-The precise genetic origins of OG Kush are one of cannabis culture's most enduring mysteries. The most widely accepted theory traces it to a cross between a **Chemdawg** cut (itself derived from a bag seed found at a Grateful Dead show in 1991) and a **Lemon Thai** x **[[screen-of-green]] (SCROG)
+The precise genetic origins of OG Kush are one of [[mckenna-cannabis-culture-history]]'s most enduring mysteries. The most widely accepted theory traces it to a cross between a **Chemdawg** cut (itself derived from a bag seed found at a Grateful Dead show in 1991) and a **Lemon Thai** x **[[screen-of-green]] (SCROG)
 - **Nutrient sensitivity:** Can be sensitive to nitrogen levels during mid-to-late flowering; taper nitrogen by week 3 of flower to prevent " fox-tailing" and harsh smoke
-- **Pest resistance:** Moderate; susceptible to spider mites and powdery mildew in high-humidity environments
+- **Pest resistance:** Moderate; susceptible to spider mites and [[cervantes-powdery-mildew-prevention-treatment]] in high-humidity environments
 - **Flush:** Benefits from a 1–2 week flush before harvest for smoother flavor
 
 ## Effects and Medical Applications
@@ -44,7 +44,7 @@ OG Kush produces a characteristic "creeper" onset that builds over 10–15 minut
 ### Medical Applications
 
 - **Stress and anxiety:** Potent anxiolytic effects at moderate doses; limonene content contributes to mood elevation
-- **Pain management:** Strong analgesic properties for chronic pain, migraines, and muscle spasms
+- **Pain management:** Strong analgesic properties for [[cannabis-chronic-pain-management]], migraines, and muscle spasms
 - **Insomnia:** Effective sleep aid at higher doses; myrcene and linalool contribute to sedative effects
 - **Appetite stimulation:** Reliable munchies effect
 - **Depression:** Euphoric onset can provide temporary relief from depressive symptoms
@@ -74,6 +74,9 @@ OG Kush occupies a singular position in cannabis culture and genetics:
 - **[[sundae-driver]]** (Girl Scout Cookies descendant)
 
 ## See Also
+
+- [[grease-monkey]]
+- [[stardawg]]
 ## Practical Considerations
 
 Successful implementation of og kush requires attention to
@@ -92,4 +95,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

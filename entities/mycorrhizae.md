@@ -48,7 +48,7 @@ Suzanne Simard's landmark research on Douglas-fir and paper birch forests demons
 ### Crop Productivity
 
 AMF inoculation has shown consistent yield improvements in:
-- Legumes (15–40% increase in nodulation and nitrogen fixation)
+- Legumes (15–40% increase in nodulation and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]])
 - Cereals (10–30% increase in phosphorus uptake)
 - Solanaceous crops (improved tomato and pepper fruit quality)
 - Perennial fruit crops (enhanced establishment and stress tolerance)
@@ -58,7 +58,7 @@ AMF inoculation has shown consistent yield improvements in:
 Mycorrhizal fungi are critical in ecological restoration:
 - Mine tailings reclamation: AMF improve heavy metal tolerance and soil aggregation
 - Degraded pasture recovery: Inoculation accelerates native plant recolonization
-- Erosion control: Extraradical hyphae and glomalin (a glycoprotein produced by AMF) bind soil particles into stable aggregates
+- [[permplant-willows-salix-erosion-control-fodder]]: Extraradical hyphae and glomalin (a glycoprotein produced by AMF) bind soil particles into stable aggregates
 
 ### Permaculture Design
 
@@ -95,10 +95,10 @@ The global mycorrhizal inoculant market has grown substantially, with products t
 
 ## Mycorrhizae and Plant Communication
 
-Research since the mid-2010s has revealed that common mycorrhizal networks serve as conduits for inter-plant chemical signaling:
+Research since the mid-2010s has revealed that common mycorrhizal networks serve as conduits for inter-plant [[plant-hormones-and-chemical-signaling-systems]]:
 
 - **Herbivore defense signals**: Tomato plants connected via CMN increase production of defensive volatile organic compounds (VOCs) when neighboring plants are attacked by herbivores
-- **Drought signaling**: Water-stressed plants transmit hydraulic and chemical signals through CMNs that trigger stomatal closure in connected, non-stressed plants
+- **Drought signaling**: Water-stressed plants transmit hydraulic and [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] through CMNs that trigger stomatal closure in connected, non-stressed plants
 - **Allelopathy**: Some plants use CMNs to transfer allelopathic compounds that suppress competitor growth (e.g., black walnut *Juglans nigra* juglone transfer)
 - **Carbon sharing among kin**: Studies in *Ambrosia psilostachya* (sandhill ragweed) and Douglas-fir suggest that plants preferentially share carbon with genetically related individuals through CMNs, though this remains debated
 
@@ -115,9 +115,9 @@ GRSP concentrations are used as a bioindicator of AMF activity and soil health i
 
 ## Threats
 
-- **Nitrogen deposition** shifts forest composition from ECM-dominated to AM-dominated communities and reduces overall mycorrhizal diversity
+- **[[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]** shifts forest composition from ECM-dominated to AM-dominated communities and reduces overall mycorrhizal diversity
 - **Soil compaction** from heavy machinery destroys hyphal networks; recovery may take 3–10 years
-- **Fungicides** (especially phosphonates and some triazoles) reduce mycorrhizal colonization in agricultural systems
+- **Fungicides** (especially phosphonates and some triazoles) reduce [[arbuscular-mycorrhizal-colonization-patterns]] in agricultural systems
 - **Phosphorus saturation**: Long-term application of high-P fertilizers can permanently reduce a soil's mycorrhizal inoculum potential
 - **Climate change**: Altered precipitation patterns and warming temperatures may disrupt the timing of plant-fungal phenological synchrony
 - **Monoculture agriculture**: Reduces mycorrhizal diversity to 10–20% of levels found in natural ecosystems; cover cropping can partially restore diversity

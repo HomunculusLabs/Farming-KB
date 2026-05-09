@@ -1,7 +1,8 @@
 ---
 created: 2026-04-12
 source: biodiversity-of-fungi (Hyde et al. Ch. 13, Jeffries/Young)
-sources: []
+sources:
+  sources: []
 tags:
 - fungicolous
 - mycoparasites
@@ -13,7 +14,6 @@ title: Fungicolous Fungi
 type: concept
 updated: 2026-04-12
 ---
-
 
 # Fungicolous Fungi
 
@@ -38,7 +38,7 @@ The term "fungicolous" encompasses all fungi that grow on or within other fungi.
 
 ### Hyperparasitism
 - Parasite of a parasite (e.g., fungus parasitizing a plant pathogenic fungus)
-- Important concept in biological control
+- Important concept in [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]
 - Examples: *Verticillium lecanii* on rust fungi, *Sphaerellopsis filum* on willow rust
 
 ### Saprotrophic Fungicolous
@@ -56,7 +56,7 @@ The term "fungicolous" encompasses all fungi that grow on or within other fungi.
 ### Ascomycetes (Most Diverse Group)
 
 **Hypocreales**:
-- *Hypomyces* species: Parasitize mushroom fruiting bodies. H. lactifluorum on Lactarius (creates "lobster mushroom"), H. chrysospermus on Boletus, H. polyporinus on polypores
+- *Hypomyces* species: Parasitize [[ectomycorrhizal-mushroom-fruiting-ecology]] bodies. H. lactifluorum on Lactarius (creates "lobster mushroom"), H. chrysospermus on Boletus, H. polyporinus on polypores
 - *Clonostachys* and *Gliocladium*: Necrotrophic mycoparasites used in biocontrol
 - *Nectria*: Some species fungicolous on other fungi
 - *Trichoderma*: Important biocontrol agents; T. harzianum, T. viride parasitize other fungi via hyphal coiling, lytic enzyme secretion
@@ -109,7 +109,7 @@ The term "fungicolous" encompasses all fungi that grow on or within other fungi.
 ### Chemical Interactions
 - **Antibiotic production**: Many fungicolous fungi produce antifungal compounds (gliotoxin, viridin, trichodermin)
 - **Lytic enzymes**: Cellulases, chitinases, glucanases that degrade host cell walls
-- **Volatile organic compounds**: Some Trichoderma species produce VOCs inhibitory to other fungi
+- **[[fungal-volatile-organic-compounds-communication]] compounds**: Some Trichoderma species produce VOCs inhibitory to other fungi
 - **Siderophores**: Iron-chelating compounds that starve competitors
 
 ### Signaling
@@ -121,9 +121,9 @@ The term "fungicolous" encompasses all fungi that grow on or within other fungi.
 
 - **Natural biocontrol**: Mycoparasites regulate populations of plant pathogenic fungi in natural ecosystems
 - **Community structure**: Fungicolous fungi influence the composition and succession of fungal communities
-- **Nutrient cycling**: By decomposing fungal biomass, they recycle nutrients bound in fungal tissue
+- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]**: By decomposing fungal biomass, they recycle nutrients bound in fungal tissue
 - **Evolutionary pressure**: Select for resistant host strains and counter-resistance strategies
-- **Disease suppression**: Important mechanism of disease suppressive soils
+- **[[aact-disease-suppression-mechanisms-ingham]]**: Important mechanism of disease suppressive soils
 
 ## Applications
 
@@ -136,30 +136,10 @@ The term "fungicolous" encompasses all fungi that grow on or within other fungi.
 ### Mushroom Cultivation
 - Fungicolous fungi are major contaminants in mushroom cultivation
 - *Hypomyces* species destroy cultivated mushroom crops
-- *Trichoderma* species cause "green mold" disease on mushroom compost
+- *Trichoderma* species cause "green mold" disease on [[staycare-spent-mushroom-compost-bioremediation]]
 - Understanding fungicolous interactions helps develop resistant strains
 
 ### Medicine
-- Fungicolous fungi are sources of antifungal antibiotics
-- Understanding mycoparasitism may lead to new antifungal drugs
-- Competition between fungi in human body (e.g., oral cavity, gut) involves fungicolous interactions
-
-## Collection and Study
-
-- Collect diseased or abnormal fungal fruiting bodies
-- Observe fungal specimens for overgrowth, discoloration, or deformity caused by parasites
-- Isolate fungicolous fungi from surface-sterilized fungal tissue
-- Hypomyces Fruiting Agar (HFA) stimulates perithecia of Hypomyces
-- Pairing cultures of suspected mycoparasite with potential hosts on agar
-
-## Research Needs
-
-- Many fungicolous species remain undescribed
-- Molecular tools revealing previously unknown diversity
-- Metagenomic surveys of fungal communities detecting fungicolous interactions
-- Co-evolutionary dynamics between hosts and parasites poorly understood
-- Climate change effects on fungicolous relationships unknown
-
 ## Related Topics
 
 - [[fungal-bacterial-interactions]] — Fungal interactions with bacteria

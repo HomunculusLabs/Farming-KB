@@ -13,12 +13,12 @@ tags: [cannabis]
 The photoperiod is the relationship between the duration of the light period and dark
 period in a 24-hour cycle. Cannabis is a photoperiodic-reactive plant: the length of
 daily darkness controls whether the plant remains in [[flowering-phase-cannabis]]. Understanding photoperiodism is fundamental to
-successful cannabis cultivation.
+successful [[query-how-does-no-till-cannabis-cultivation-work]].
 
 ## Biological Mechanism
 
 [[cannabis-cloning]], transplanting, pruning, and training are all
-initiated during the vegetative stage under a long-day photoperiod.
+initiated during the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] under a long-day photoperiod.
 
 ## Flowering Photoperiod
 
@@ -31,7 +31,7 @@ the autumnal equinox and is the optimum daylight-to-dark relationship.
 ## Critical Dark Period
 
 The dark period must be total and uninterrupted. Light interruption during the critical
-dark period can revert plants to vegetative growth. This is why [[autoflowering-cannabis]] varieties inherit this trait and ignore photoperiod
+dark period can revert plants to [[cannabis-vegetative-growth-stage]]. This is why [[autoflowering-cannabis]] varieties inherit this trait and ignore photoperiod
 cues entirely. Ruderalis crosses bloom in the middle of summer when the photoperiod
 does not induce flowering in standard cannabis.
 
@@ -40,7 +40,7 @@ does not induce flowering in standard cannabis.
 Plants grown from seed under 18/6 will show pre-flowers (indicating sex) around the
 fourth week of vegetative growth, even though they are not receiving a flowering
 photoperiod. This allows growers to identify and remove males before switching to 12/12.
-Pre-flowers develop after the plant has completed its initial vegetative growth stage,
+Pre-flowers develop after the plant has completed its initial vegetative [[cho-plant-growth-stage-treatment-protocols]],
 providing a window for sex identification.
 
 ## Photoperiod and Outdoor Growing
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

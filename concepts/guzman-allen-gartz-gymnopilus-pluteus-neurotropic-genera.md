@@ -20,7 +20,7 @@ type: concept
 Among the non-Psilocybe genera containing neurotropic species,
 Gymnopilus and Pluteus represent two of the most significant
 lineages. Gymnopilus contributes 14 species to the worldwide
-neurotropic fungi inventory, while Pluteus adds 6 species. Both
+[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] inventory, while Pluteus adds 6 species. Both
 genera belong to the Cortinariaceae and Plutaceae respectively and
 contain species that have been chemically confirmed to possess
 psilocybin or related indole alkaloids, though their neurotropic
@@ -39,7 +39,7 @@ and G. purpuratus have been the most extensively studied for their
 neurotropic properties.
 
 Gymnopilus spectabilis, widely known as the big laughing mushroom,
-has an extensive distribution across North America, Europe and parts
+has an extensive distribution across [[psilocybin-north-america-pacific-northwest]], Europe and parts
 of Asia. It is documented from numerous U.S. states including
 California, Oregon, Washington, Michigan, Ohio, Tennessee, New York,
 New Mexico, Texas and others. In Europe, it has been recorded from
@@ -53,12 +53,12 @@ was originally described from South America and is well documented
 from Chile, where it has been the subject of extensive chemical
 studies by Gartz and colleagues. The species is also reported from
 Brazil, Argentina and Uruguay, making it one of the most characteristic
-neurotropic Gymnopilus species of the southern hemisphere. In Europe,
+neurotropic Gymnopilus species of the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]. In Europe,
 G. purpuratus has been reported from scattered locations, possibly
 representing introduced populations.
 
 Gartz and Muller (1990) and Gartz (1991a, b, c) conducted detailed
-chemical analyses of Chilean specimens of G. purpuratus, contributing
+[[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] of Chilean specimens of G. purpuratus, contributing
 significantly to the understanding of psilocybin variation within the
 genus. The species demonstrates that Gymnopilus neurotropic diversity
 is not evenly distributed globally but concentrates in specific
@@ -94,7 +94,7 @@ G. viridans. This regional concentration parallels the high
 diversity of Psilocybe species in the same area.
 
 The Hesler (1969) monograph provided foundational taxonomic work on
-Gymnopilus in the southeastern United States, documenting G.
+Gymnopilus in the southeastern [[dmt-containing-plants-united-states-halpern]], documenting G.
 aeruginosus, G. liquiritiae, G. luteofolius, G. luteus, G. sapineus,
 G. spectabilis and G. validipes from that region. These early
 records remain important references for understanding the genus
@@ -107,7 +107,7 @@ P. atricapillus, P. cyanopus, P. glaucus, P. nigriviridis,
 P. salicinus and P. villosus. Unlike Gymnopilus, which grows on
 both hardwoods and conifers, Pluteus species are typically
 wood-inhabiting fungi found on stumps, logs and woody debris of
-broadleaf trees. Pluteus salicinus is the most widely distributed
+broadleaf trees. [[gartz-pluteus-salicinus-wood-inhabiting-psilocybin]] is the most widely distributed
 of the neurotropic Pluteus species, documented from North America,
 Europe, Asia and Africa.
 
@@ -135,5 +135,7 @@ Europe and Morocco, extending the genus reach into North Africa.
 [[guzman-allen-gartz-global-psilocybe-biogeography]]
 
 ## See Also
+
+- [[gartz-pluteus-salicinus-wood-inhabiting-psilocybin]]
 
 - [[guzman-allen-gartz-hongo-nine-distribution-types-neurotropic-fungi]]

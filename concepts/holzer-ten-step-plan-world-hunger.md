@@ -1,5 +1,5 @@
 ---
-title: Holzer Ten Step Plan for World Hunger
+title: Holzer Ten holzer ten step plan world hunger for World Hunger
 created: 2026-04-26
 tags:
   - food-security
@@ -16,7 +16,7 @@ type: concept
 
 # Holzer Ten Step Plan for World Hunger
 
-Sepp Holzer presents a comprehensive ten-step plan to combat world hunger,
+[[comparison-sepp-holzer-vs-biodynamic]] presents a comprehensive ten-step plan to combat world hunger,
 arguing that the planet can feed three times the current population (21 billion
 instead of 7 billion) through respect for all living beings and sensible
 management of nature's resources: sun, rain, and soil. He contends that famine
@@ -111,11 +111,11 @@ slopes that needs to feed a family quickly?
 The answer: get two or three pigs, divide the land into four paddocks, and
 use the pigs to work the ground. After opening and composting the soil, sow
 lettuces, radishes, herbs, potatoes, and grain. Move pigs through paddocks
-in rotation while planting berry bushes and fruit trees between vegetables.
+in rotation while planting berry bushes and [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] between vegetables.
 Within months, previously unproductive land becomes a beautiful garden with
 great soil and full biodiversity.
 
 ## See Also
 
-- [[reforestation-with-pigs]] for animal integration (Steps 2 and 5)
-- [[permaculture-seed-saving-breeding]] for seed autonomy
+- [[reforestation-with-pigs]] for [[mollison-animal-integration-permaculture-design]] (Steps 2 and 5)
+- [[permaculture-seed-saving-breeding]] for [[holzer-seed-autonomy-preserving-old-varieties]]

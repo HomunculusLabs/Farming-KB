@@ -5,14 +5,15 @@ updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 Updated: 2026-04-18
 
 ## Overview
 
-The wine-cap mushroom (Stropharia rugoso-annulata), also known as the garden giant or king stropharia, is Paul Stamets' preferred species for [[mycelium-running-techniques]]
+The wine-cap mushroom (Stropharia rugoso-annulata), also known as the garden giant or [[cotter-king-stropharia-cultivation]], is Paul Stamets' preferred species for [[mycelium-running-techniques]]
 
 ***
 
@@ -21,7 +22,7 @@ The wine-cap mushroom (Stropharia rugoso-annulata), also known as the garden gia
 Stropharia rugoso-annulata is a distinctive mushroom with the following traits:
 - Large fruiting bodies with wine-red to burgundy caps
 - Grows robustly on wood chip substrates
-- Extremely aggressive mycelial growth
+- Extremely aggressive [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
 - Tolerant of a wide range of environmental conditions
 - Native to temperate regions but adaptable
 
@@ -49,14 +50,14 @@ The mycofiltration beds at Kamilche Point were constructed:
 - Dimensions: approximately 50 feet wide by 200 feet long (10,000 square feet)
 - Substrate: wood chips, inoculated with Stropharia rugoso-annulata spawn
 - Position: strategically placed to intercept water flowing from upstream sources
-- Design: beds allowed contaminated water to percolate through mycelial mats before reaching sensitive downstream areas
+- Design: beds allowed contaminated water to percolate through [[singh-mycelial-mats-and-biological-soil-crusts]] before reaching sensitive downstream areas
 
 ### Results
 
 The Stropharia beds proved remarkably effective at filtering:
 - **Fecal coliform bacteria** — dramatically reduced levels in water passing through the beds
 - **Silt and sediment** — trapped by the dense mycelial mat
-- **Nutrient runoff** — excess nutrients absorbed by the fungal network
+- **Nutrient runoff** — excess nutrients absorbed by the [[mycelium-running-mycelium-natures-internet-fungal-network-theory]]
 
 The effectiveness against fecal coliform was particularly significant because:
 - Fecal contamination threatens shellfish farming operations
@@ -91,11 +92,11 @@ Water percolating through the mycelial bed:
 Stropharia is valued not only for filtration but also for soil creation:
 - Approximately 12 inches of wood chips decompose into 1-2 inches of rich soil in 2-3 years when inoculated with mycelium
 - Without inoculation, the same decomposition takes 4-5 years
-- The resulting soil is rich in organic matter, well-structured, and teeming with microbial life
+- The resulting soil is rich in [[hamilton-composting-and-organic-matter-management]], well-structured, and teeming with microbial life
 - [[tahuya-forest-road-reclamation]], Stropharia was recommended for future trials alongside other white rot, brown rot, and mycorrhizal species. The dense mycelial mat it creates is ideal for:
 - Stabilizing road surfaces
 - Filtering runoff into streams
-- Creating insect habitat
+- Creating [[hemenway-insectary-plants-and-beneficial-insects]]
 - Building soil from woody debris
 
 ***
@@ -104,4 +105,4 @@ Stropharia is valued not only for filtration but also for soil creation:
 
 - [[mycorestoration-overview]]
 - [[query-difference-between-white-rot-and-brown-rot-fungi]]
-- [[mycoforestry-forest-management-with-fungi]]
+- mycoforestry-forest-management-with-fungi

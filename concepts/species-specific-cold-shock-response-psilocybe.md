@@ -31,7 +31,7 @@ cold shock and which do not, based on practical cultivation experience.
 ## The Cold Shock Technique
 
 The cold shock procedure described in the source involves placing cased trays in a
-refrigerator for one night before transferring them to the fruiting chamber. This
+refrigerator for one night before transferring them to the [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]]. This
 typically means approximately 12 to 16 hours at refrigerator temperature, around 2
 to 4 degrees Celsius, followed by a return to fruiting temperatures of 20 to 25
 degrees Celsius.
@@ -42,7 +42,7 @@ favourable for reproduction. Many temperate mushroom species have evolved to fru
 in response to cooling temperatures and increased rainfall.
 
 The cold shock technique exploits this biological programming to trigger fruiting in
-artificial cultivation environments where seasonal cues are absent. The procedure is
+[[fukuoka-matsutake-artificial-cultivation-attempt]] environments where seasonal cues are absent. The procedure is
 straightforward and requires no specialised equipment beyond a standard domestic
 refrigerator.
 
@@ -63,8 +63,8 @@ failing to form primordia even when the casing layer is fully colonised and humi
 and air exchange are adequate.
 
 For these difficult strains, the cold shock provides the additional environmental
-trigger needed to initiate the transition from vegetative mycelial growth to
-reproductive fruiting body formation. Without the cold shock, these strains may sit
+trigger needed to initiate the transition from vegetative [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] to
+reproductive fruiting [[suppressed-incomplete-fruit-body-formation-brassinosteroid-treatment]]. Without the cold shock, these strains may sit
 in the fruiting chamber for extended periods without producing any mushrooms,
 eventually contaminating or drying out before fruiting occurs.
 
@@ -80,8 +80,8 @@ light exposure before returning to normal fruiting conditions.
 ## Species That Do Not Benefit
 
 Three specific species are identified in the source as not benefiting from cold shock
-treatment in the grass seed cultivation context. [[psilocybe-tampanensis-entity]], and [[psilocybe-cubensis]] is an
-easy fruiting strain for which cold shock is not necessary. This strain reliably
+treatment in the grass [[grass-seed-cultivation-of-psilocybe-mushrooms]] context. [[psilocybe-tampanensis-entity]], and [[psilocybe-cubensis]] is an
+easy [[cold-shock-fruiting-strain-specificity]] for which cold shock is not necessary. This strain reliably
 initiates pinning when simply moved from the casing incubation environment to the
 fruiting chamber with its standard temperature, humidity, and light conditions.
 

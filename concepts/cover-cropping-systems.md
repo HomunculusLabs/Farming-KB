@@ -1,11 +1,11 @@
 ---
-title: Cover Cropping Systems
+title: fukuoka-clover-cover-cropping-soil-ecology Systems
 created: 2026-04-28
 tags: [agriculture, soil-health, cover-crops, permaculture, sustainability]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-design-course.md
+  sources: []
   - ~/wiki/raw/papers/a-selection-permaculture-plants.md
 type: concept
 ---
@@ -15,9 +15,9 @@ type: concept
 ## Overview
 
 Cover cropping is the practice of growing plants primarily for the benefit
-of the soil and broader ecosystem rather than for harvest. Cover crops
+of the soil and broader ecosystem rather than for harvest. [[gaias-garden-cover-crops-soil-building]]
 protect soil from erosion, suppress weeds, fix atmospheric nitrogen,
-improve soil structure, increase organic matter, enhance water
+improve soil structure, increase [[hamilton-composting-and-organic-matter-management]], enhance water
 infiltration, and support beneficial microbial communities. In
 permaculture and sustainable agriculture systems, cover crops are
 essential tools for maintaining soil fertility and ecosystem health
@@ -32,7 +32,7 @@ soil surface from raindrop impact and drying winds. This protective
 cover is particularly critical during fallow periods between cash crops
 when soil would otherwise be bare and vulnerable.
 
-Nitrogen fixation is a major benefit of leguminous cover crops. Through
+[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] is a major benefit of leguminous cover crops. Through
 symbiotic relationships with Rhizobium bacteria, legumes convert
 atmospheric nitrogen into ammonium, a plant-available form. When the
 cover crop is terminated and incorporated into soil, this fixed nitrogen
@@ -71,7 +71,7 @@ aggregates and create channels for water movement.
 In perennial pasture systems, diverse mixtures of grasses and forbs
 create self-sustaining cover. Ancient pastures in Europe containing 30
 to 40 species per square meter demonstrate the productivity achievable
-through species-diverse permanent ground cover. Newman Turner's
+through species-diverse permanent [[fukuoka-citrus-orchard-ground-cover-cultivation]]. Newman Turner's
 Fertility Pastures showed that cattle grazing complex pastures
 naturally self-medicate by selecting plants with medicinal properties,
 maintaining health without pharmaceutical intervention.
@@ -86,7 +86,13 @@ improve water infiltration and root penetration for subsequent crops.
 When the radish decomposes, it leaves channels filled with organic
 matter that earthworms readily colonize.
 
-## Integration with [[perennial-food-forests]]
+## Integration with perennial-food-forests
 - [[urban-permaculture-rainwater-harvesting-graywater]]
-- compost tea brewing
+- compost [[compost-tea-brewing-equipment-ingham]]
 - [[soil-food-web-structure]]
+## See Also
+- [[vigna-unguiculata]]
+- [[building-soil]]
+- [[compost-tea-brewing]]
+- [[brassica-napus]]
+- [[trifolium-incarnatum]]

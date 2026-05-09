@@ -22,7 +22,7 @@ created: 2026-04-28
 
 ## Overview
 
-**Morus rubra** L., the red mulberry, is a deciduous tree native to eastern and central North America.
+**Morus rubra** L., the red mulberry, is a deciduous tree native to eastern and central [[psilocybin-north-america-pacific-northwest]].
 
 It produces sweet, dark reddish-purple berries that have been used as food by Indigenous peoples for millennia.
 
@@ -64,7 +64,7 @@ The fruit is juicy and sweet, ripening over an extended period from June through
 
 ## Distribution and Habitat
 
-M. rubra is native to the eastern United States, from southern New England west to South Dakota and south to Texas and Florida.
+M. rubra is native to the eastern [[dmt-containing-plants-united-states-halpern]], from southern New England west to South Dakota and south to Texas and Florida.
 
 Its native range extends into southern Ontario, though populations there are considered at risk.
 
@@ -102,9 +102,9 @@ Trees begin bearing fruit at 5–10 years of age when grown from seed.
 
 **Pollination:** Dioecious trees require both male and female specimens for fruit production. Monoecious individuals are self-fertile.
 
-In permaculture design, red mulberry serves multiple functions: food production, wildlife habitat, erosion control, and shade.
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], red mulberry serves multiple functions: food production, wildlife habitat, [[permplant-willows-salix-erosion-control-fodder]], and shade.
 
-It integrates well into food-forest guilds with nitrogen-fixing companions like **[[comfrey]]**.
+It integrates well into food-forest guilds with nitrogen-fixing companions like **comfrey**.
 
 The extended fruiting period provides a reliable food source during the mid-summer gap between spring berries and fall fruit.
 

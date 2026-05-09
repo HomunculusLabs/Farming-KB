@@ -15,7 +15,7 @@ protists. In mycology, spores serve as the primary mechanism for dispersal,
 survival, and reproduction. Unlike seeds, spores contain no pre-formed embryo
 and require less energy to produce, allowing fungi to generate them in
 enormous quantities -- a single mushroom can release billions of spores over
-its lifetime. Spores are central to fungal identification, ecology, and life
+its lifetime. Spores are central to [[pcr-methods-fungal-identification-monitoring]], ecology, and life
 cycle strategies.
 
 ## Types of Fungal Spores
@@ -75,11 +75,11 @@ Fungi employ diverse dispersal strategies:
   spore-producing surfaces to catch air currents. Spore fall speed, shape,
   and mass are optimized for aerodynamic dispersal. Some bracket fungi
   produce spores in vertical tubes that create upward convection currents.
-- **Water dispersal** -- Aquatic fungi and rain-splash mechanisms. Some
+- **Water dispersal** -- [[bloomfield-ingoldian-aquatic-fungi-spore-dispersal]] and rain-splash mechanisms. Some
   fungi shoot spores forcibly (ballistospory) into the air when a water
   droplet contacts the spore.
 - **Animal dispersal** -- Truffles rely on mammals digging them up and
-  dispersing spores through feces. Entomopathogenic fungi infect insects
+  dispersing spores through feces. [[singh-entomopathogenic-fungi-biocontrol-agents]] infect insects
   and release spores from the dead host.
 - **Explosive discharge** -- Pilobolus, the "cannonball fungus," grows on
   herbivore dung and shoots its entire sporangium up to 2 meters toward
@@ -94,7 +94,7 @@ allows fungi to colonize new habitats and survive periods when conditions are
 unfavorable for growth.
 
 Germination is triggered by environmental cues: moisture, specific
-temperature ranges, nutrient availability, and sometimes chemical signals
+temperature ranges, [[ph-and-nutrient-availability-garden-soils]], and sometimes [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]
 from host organisms. Some spores require dormancy-breaking treatments like
 heat shock or exposure to specific compounds before they will germinate.
 
@@ -120,4 +120,4 @@ peaking in late summer and autumn in temperate regions.
 - [[mushroom-anatomy]]
 - [[mycorrhiza]]
 
-See also: [[fungal-spore-biology-and-dispersal-mechanisms]]
+See also: [[fungal-spore-dispersal-mechanisms]]

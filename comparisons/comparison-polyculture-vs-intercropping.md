@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [comparison, organic-farming, permaculture, crop-design, biodiversity]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -12,18 +13,18 @@ type: comparison
 
 ## Overview
 Polyculture and intercropping both grow multiple species together, but they
-differ in [[faires-plant-communities-and-guilds]] mimicking
+differ in faires-plant-communities-and-guilds mimicking
 natural ecosystems, where plants fill [[polyculture-design-hemenway]]
 
-Polyculture design creates plant communities of several to many species that
+[[aquatic-polyculture-design-mollison]] creates plant communities of several to many species that
 interact dynamically, much like natural ecosystems. Pioneered for temperate
 climates by Ianto Evans in the 1980s and drawing on indigenous knowledge from
 Jajarkot, Nepal and other traditional cultures, polycultures go beyond simply
 avoiding negative interactions between plants. In a true polyculture, the plants
-themselves create microclimates, living mulch, and nutrient cycling systems that
+themselves [[query-how-do-i-create-microclimates-in-my-garden]], [[comparison-living-mulch-vs-cover-crops]], and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] systems that
 enhance the whole community's productivity through ecological self-organization.
 
-The design principles emphasize diversity across plant families, varied root
+The [[holmgren-permaculture-twelve-design-principles-framework]] emphasize diversity across plant families, varied root
 depths and canopy heights, overlapping harvest times, and continuous observation
 and harvesting to prevent overcrowding. A well-designed polyculture includes
 fast-growing shallow-rooted species that cover soil quickly (radishes, mustard
@@ -72,7 +73,7 @@ polyculture matrix of mixed greens and herbs. A farm might also use relay
 intercropping to transition between seasonal polyculture plantings, maintaining
 continuous ground cover and biological activity. See
 [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
-- Companion Planting Vs Polyculture
+- [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] Vs Polyculture
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 ## Practical Considerations
 
@@ -92,4 +93,5 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[companion-planting]]

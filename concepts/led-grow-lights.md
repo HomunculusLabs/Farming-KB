@@ -1,5 +1,5 @@
 ---
-title: LED Grow Lights for Cannabis
+title: comparison-cmh-vs-led-grow-lights Lights for Cannabis
 created: 2026-04-26
 tags:
   - mushroom-processing
@@ -23,13 +23,13 @@ Once dried, mushrooms can be stored for many months and sold in their
 natural form or powdered for soups, spice mixtures, teas, and other
 products. Some cultivators even sterilize their dried mushrooms without
 harm to prolong storage. Proper dehydration technique directly affects
-the texture, flavor retention, market value, and shelf life of the
+the texture, flavor retention, market value, and [[psilocybin-shelf-life-stability]] of the
 final product. This is a critical step in [[hps-grow-lights]]
 
 - [[mushroom-growing-methods-comparison]]
 
 - [[shiitake-mushroom-cultivation]]
-- [[growing-gourmet-flush-management-cropping-cycles]]
+- growing-gourmet-flush-management-cropping-cycles
 - [[growing-gourmet-medicinal-polysaccharides-mushroom-compounds]]
 ## Practical Applications
 
@@ -108,4 +108,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

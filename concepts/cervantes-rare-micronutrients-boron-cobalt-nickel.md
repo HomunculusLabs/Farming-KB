@@ -1,11 +1,12 @@
 ---
-title: Rare Micronutrients for Cannabis
+title: cervantes rare micronutrients boron cobalt nickel for Cannabis
 created: 2026-04-26
 tags: [cannabis, nutrients, micronutrients, boron, cervantes]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -86,11 +87,11 @@ to form aromatic compounds.
 When deficient, problems with nitrogen availability
 occur. This is because cobalt-deficient soil
 supports fewer nitrogen-fixing bacteria, reducing
-the overall nitrogen cycle efficiency.
+the overall [[query-how-does-the-nitrogen-cycle-work-in-a-garden]] efficiency.
 
 ## Nickel (Ni)
 
-Enzymes require nickel to break down and use
+Enzymes require nickel to [[query-can-fungi-break-down-plastic-pollution]] and use
 nitrogen from urea. It is also essential to iron
 absorption. Nickel is seldom deficient and its
 symptoms are subtly mixed with other nutrient

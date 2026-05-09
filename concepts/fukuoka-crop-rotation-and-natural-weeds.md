@@ -5,13 +5,14 @@ updated: 2026-04-15
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka Crop Rotation and Natural Weeds
 
 ## Weeds as Friends
 
-Fukuoka inverted the conventional farmer's view of weeds. Rather than enemies to be eliminated, weeds are allies in soil building and ecological balance. His approach to weeds is one of management through competition and timing, not eradication through tillage or herbicides.
+Fukuoka inverted the conventional farmer's view of weeds. Rather than enemies to be eliminated, weeds are allies in soil building and [[fukuoka-ecological-balance-principles]]. His approach to weeds is one of management through competition and timing, not eradication through tillage or herbicides.
 
 The key insight: "When a field is left to itself, the weeds eventually settle into a stable, predictable community." This community differs fundamentally from the weed community in cultivated soil. Tillage brings dormant seeds to the surface, triggering germination of weed species that would otherwise remain buried indefinitely. The farmer who ploughs "is, quite literally, sowing the seeds of his own misfortune."
 
@@ -31,7 +32,7 @@ This is not a rotation in the conventional sense of changing crops in different 
 
 When cultivation ceases, the weed community undergoes a dramatic shift. In the first year, weeds may seem more numerous because the soil's seed bank -- accumulated from years of cultivation -- is still germinating. But by the second and third year, the weed picture changes markedly.
 
-The weeds that dominate untilled soil tend to be perennials with shallow root systems (clover, chickweed, plantain) rather than the deep-rooted annuals that plague tilled soil. These shallow-rooted weeds do not compete strongly with grain crops and actually contribute to soil health by fixing nitrogen (legumes), breaking up surface compaction, and providing organic matter when they die back.
+The weeds that dominate untilled soil tend to be perennials with shallow root systems (clover, chickweed, plantain) rather than the deep-rooted annuals that plague tilled soil. These shallow-rooted weeds do not compete strongly with grain crops and actually contribute to soil health by fixing nitrogen (legumes), breaking up surface compaction, and providing [[hamilton-composting-and-organic-matter-management]] when they die back.
 
 ## Straw Mulch as Weed Control
 
@@ -42,7 +43,7 @@ The spread of threshed straw across the field after harvest serves multiple purp
 - Provides organic matter as it decomposes, feeding soil microbiology
 - Creates habitat for ground beetles and other weed-seed predators
 
-Fukuoka found that 6-10 inches of straw mulch was sufficient to suppress nearly all weed germination. The few weeds that did emerge through the mulch were easily pulled by hand -- a task that required minutes per field rather than the hours or days of mechanical weeding in conventional systems.
+Fukuoka found that 6-10 inches [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] was sufficient to suppress nearly all weed germination. The few weeds that did emerge through the mulch were easily pulled by hand -- a task that required minutes per field rather than the hours or days of mechanical weeding in conventional systems.
 
 ## How Crops Outcompete Weeds
 
@@ -54,8 +55,8 @@ The principle is not that weeds cannot grow in a Fukuoka field -- they can and d
 
 Fukuoka observed that different weeds appeared at different stages of the crop cycle, and that these "volunteer" weeds served specific ecological functions:
 
-- **Early season**: Chickweed and shepherd's purse protect soil surface and fix nitrogen
-- **Mid-season**: Smartweed and barnyard grass provide habitat for beneficial insects
+- **Early season**: Chickweed and shepherd's purse protect soil surface and [[query-how-to-fix-nitrogen-toxicity-in-cannabis]]
+- **Mid-season**: Smartweed and barnyard grass provide [[query-how-do-i-design-habitat-for-beneficial-insects]] insects
 - **Late season**: Wild grasses contribute organic matter at the end of the cycle
 
 This succession was not random but represented the soil's microbiome selecting for plants that address the soil's current needs. The farmer's role is to observe and cooperate with this succession, not to fight it.
@@ -68,7 +69,7 @@ White clover ([[fukuoka-weed-ecology]] for the full ecological analysis.
 
 Fukuoka's tolerance for weeds is part of his broader polycultural approach. His fields are not monocultures but multi-species communities: rice or barley as the primary crop, clover as nitrogen-fixing ground cover, and various volunteer weeds filling ecological niches. This polyculture provides:
 
-- Greater resilience to pests and diseases (no monoculture vulnerability)
+- Greater resilience to [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] (no monoculture vulnerability)
 - More efficient use of light, water, and nutrients (different root depths, growth habits)
 - Continuous soil cover (no bare soil periods between crops)
 - Habitat for beneficial organisms at all times of year

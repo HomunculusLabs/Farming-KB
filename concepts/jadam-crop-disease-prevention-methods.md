@@ -1,5 +1,5 @@
 ---
-title: JADAM Crop Disease Prevention Methods
+title: JADAM Crop cervantes-pest-disease-prevention-overview Methods
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
@@ -15,19 +15,19 @@ JADAM's approach to crop disease prevention centers on a fundamental shift: from
 
 Disease occurs when a certain virus, bacteria, or pest takes control of the soil or plant surface. JADAM's solution: maximize the population and diversity of microorganisms so no single pathogen can dominate.
 
-The analogy: athlete's foot fungi cannot establish on the foot of someone who walks barefoot, because the foot is already full of diverse microorganisms. The competition prevents disease-causing organisms from becoming prevalent. Apply the same logic to canker and powdery mildew.
+The analogy: athlete's foot fungi cannot establish on the foot of someone who walks barefoot, because the foot is already full of diverse microorganisms. The competition prevents disease-causing organisms from becoming prevalent. Apply the same logic to canker and [[cervantes-powdery-mildew-prevention-treatment]].
 
 ## Why Disinfection Fails
 
 - Pathogens like canker and powdery mildew bacteria are ubiquitous (everywhere in soil)
 - One spore can propagate to 1 billion in 10 hours
 - Eliminating crop residues cannot eradicate them
-- Chemical pesticides are building pathogen resistance
+- Chemical pesticides are building [[mycorrhizal-pathogen-resistance-mechanisms]]
 - Even the most toxic chemicals cannot control powdery mildew effectively
 
 ## Method 1: JMS Soil Application
 
-The most important disease prevention measure. Apply JMS (JADAM microorganism solution) every time you water.
+The most important disease prevention measure. Apply JMS (JADAM [[jadam-microorganism-solution-culturing]]) every time you water.
 
 ### How It Works
 
@@ -49,7 +49,7 @@ The most important disease prevention measure. Apply JMS (JADAM microorganism so
 
 - Prevents soil-borne diseases
 - Controls soil nematodes
-- Controls powdery mildew via foliar application
+- Controls powdery mildew via [[ultra-low-cost-foliar-application-methods]]
 - Improves soil quality simultaneously
 - Costs almost nothing
 
@@ -92,7 +92,7 @@ JADAM rejects the common practice of destroying crop residues to prevent disease
 
 ### Soil Temperature
 
-Cover crops prevent the extreme temperature fluctuations that stress plants and invite disease. Stable soil temperatures keep roots functioning properly throughout the growing season.
+Cover crops prevent the extreme temperature fluctuations that stress plants and invite disease. Stable soil temperatures keep roots functioning properly throughout the [[savory-growing-season-and-non-growing-season-management]].
 
 ### Soil Compaction
 

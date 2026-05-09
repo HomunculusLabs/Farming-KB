@@ -12,12 +12,12 @@ type: entity
 
 **Type:** Species
 **Category:** Basidiomycete
-**Also known as:** King Stropharia, Garden Giant
+**Also known as:** [[cotter-king-stropharia-cultivation]], [[mycelium-running-garden-giant-stamets]]
 
 ## Overview
 
 Stropharia rugoso-annulata, commonly called King Stropharia or the
-Garden Giant, is a large edible mushroom in the family Strophariaceae.
+Garden Giant, is a large [[bloomfield-boletus-satanus-edible-mushroom-hazards]] in the family Strophariaceae.
 Originally described by [[pleurotus-eryngii]]
 - [[morchella-esculenta]]
 - [[stropharia-caerulea]]
@@ -98,4 +98,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

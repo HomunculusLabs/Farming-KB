@@ -12,7 +12,7 @@ type: query
 
 ## Short Answer
 
-Food can be preserved without refrigeration using traditional methods including root cellaring, lacto-fermentation, drying, curing, smoking, and canning.
+Food can be preserved without refrigeration using traditional methods including [[comparison-root-cellaring-guide-vs-canning-and-preserving]], lacto-fermentation, drying, curing, smoking, and canning.
 
 Each method works by altering the conditions that cause food to spoil.
 
@@ -26,11 +26,11 @@ Food spoilage is caused by microorganisms, enzymes, and oxidation.
 
 All preservation methods work by eliminating or inhibiting one or more of these agents.
 
-Understanding which method addresses which spoilage mechanism helps you choose the right technique for each food type.
+Understanding which method addresses which spoilage mechanism helps you [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] technique for each food type.
 
 The [[root-cellaring-and-no-energy-food-storage]] reference explains how to maintain ideal conditions for long-term storage.
 
-Root crops need 32 to 40 degrees Fahrenheit with high humidity.
+[[permaculture-plants-root-crops-and-tubers]] need 32 to 40 degrees Fahrenheit with high humidity.
 
 Squash and onions prefer slightly warmer, drier conditions around 50 to 60 degrees.
 
@@ -56,7 +56,7 @@ Fruits, vegetables, herbs, and meats can all be preserved through drying.
 
 Methods include solar dehydrators, air drying, and low-temperature oven drying.
 
-Solar dehydrators use passive solar energy to dry food without electricity.
+Solar dehydrators use [[comparison-passive-solar-vs-earth-sheltered]] energy to dry food without electricity.
 
 A well-designed solar dehydrator maintains temperatures between 100 and 140 degrees Fahrenheit.
 

@@ -1,9 +1,11 @@
 ---
-title: "Pond Design vs Dam Construction"
+title: "comparison pond design vs dam construction vs comparison-dam-construction-vs-swale-design"
 tags: [comparison, water-management, earthworks, permaculture]
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources:
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # Pond Design vs Dam Construction
@@ -15,7 +17,7 @@ significantly in scale, engineering complexity, and primary purpose.
 [[dam-construction]] involves larger-scale impoundments designed for
 irrigation supply, stock water, and landscape rehydration across
 significant catchments. Understanding where each is appropriate helps
-land managers choose the right structure for their site conditions,
+land managers [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] structure for their site conditions,
 budget, and water goals.
 
 ## Pond Design
@@ -27,10 +29,10 @@ across valleys or depressions. They are the primary tool for landscape
 rehydration in permaculture, especially in arid and seasonally dry
 climates where reliable water storage determines the viability of
 agriculture. Bill Mollison emphasised that water storage is the
-foundation of productive landscapes, making dam design a core skill for
+foundation of productive landscapes, making [[mollison-farm-dam-design-modifications]] a core skill for
 permaculture designers working on broadacre properties.
 
-Site selection is the most critical step. The ideal dam site has a
+[[fukuoka-creating-natural-farm-site-selection-establishment]] is the most critical step. The ideal dam site has a
 naturally confined valley with a narrow outlet, suitable foundation
 material (impervious clay or rock), adequate catchment area, and no
 toxic geological materials in the soil. The catchment-to-dam ratio
@@ -52,7 +54,7 @@ inspection and maintenance are essential for ongoing safety.
 |--------|------|-----|
 | **Scale** | Small to medium (garden to acre) | Medium to large (acre to hectares) |
 | **Primary Purpose** | Multi-functional habitat | Large-scale water storage |
-| **Engineering** | Minimal; hand tools possible | Significant; machinery required |
+| **Engineering** | Minimal; [[garden-hand-tools-solomon]] possible | Significant; machinery required |
 | **Wall Design** | Simple shaped earth | Compacted clay core, engineered slopes |
 | **Spillway** | Basic overflow channel | Engineered flood-grade spillway |
 | **Sealing** | Liner, gley, or natural clay | Compacted clay core, bentonite |

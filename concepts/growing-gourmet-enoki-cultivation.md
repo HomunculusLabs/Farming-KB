@@ -1,5 +1,5 @@
 ---
-title: Enoki Cultivation (Growing Gourmet & Medicinal Mushrooms)
+title: Enoki Cultivation (Growing Gourmet & comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive)
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
@@ -16,7 +16,7 @@ Enoki (Flammulina velutipes), also known as Enokitake, is a popular cultivated m
 
 ## Common Names
 
-Enoki bears numerous common names reflecting its characteristics and cultural significance:
+Enoki bears numerous common names reflecting its characteristics and [[ethnomycology-cultural-significance-sacred-fungi]]:
 - Enokitake (Japanese: "Snow Peak Mushroom")
 - Nametake ("Slimy Mushroom," referring to the mucilaginous surface when cooked)
 - Yuki-motase ("Snow Mushroom," from its white cultivated appearance)
@@ -55,11 +55,11 @@ The dramatic difference between wild and cultivated Enoki is one of the most str
 - Achieved through elevated CO2 and limited light
 
 ### Environmental Manipulation
-The cultivated morphology is achieved by two key environmental factors:
+The cultivated morphology is achieved by two key [[duggar-mushroom-environmental-factors-temperature-moisture-light]]:
 1. **Elevated CO2**: Maintaining CO2 levels well above 1,000 ppm causes stems to elongate dramatically as the mycelium searches for fresh air
 2. **Limited light**: Restricting light exposure prevents cap expansion and maintains the white color by inhibiting pigment development
 
-These conditions are essentially the opposite of optimal growing conditions for most other gourmet mushrooms, where low CO2 and good light are desired.
+These conditions are essentially the opposite of optimal growing conditions for most other [[growing-gourmet-mushrooms-civilization-history]], where low CO2 and good light are desired.
 
 ## Fruiting Parameters
 
@@ -96,7 +96,7 @@ Enoki mycelium is white, typically forming a fine, somewhat wispy mat on agar me
 
 ## Substrate and Cultivation Method
 
-Enoki is commercially cultivated on supplemented sawdust in bottles or bags. The standard substrate is hardwood sawdust (often a mix of several species) supplemented with rice bran or wheat bran. The substrate is sterilized, inoculated, and incubated until fully colonized.
+Enoki is commercially cultivated on [[oyster-mushroom-supplemented-sawdust-blocks]] in bottles or bags. The standard substrate is hardwood sawdust (often a mix of several species) supplemented with rice bran or wheat bran. The substrate is sterilized, inoculated, and incubated until fully colonized.
 
 For the characteristic long-stemmed cultivated form, the colonized substrate is exposed to elevated CO2 and minimal light conditions. In commercial operations, this is often achieved by placing a collar (tube) around the opening of the fruiting bottle, which the mushrooms grow through, creating the elongated stem effect.
 
@@ -107,7 +107,7 @@ Enoki mushrooms are harvested by cutting the entire cluster at the base. They ar
 ## Culinary Uses
 
 Enoki is a staple of Japanese and other Asian cuisines. Common preparations include:
-- Hot pot and sukiyaki (the traditional preparation)
+- Hot pot and sukiyaki (the [[kava-traditional-preparation-ceremonial-context]])
 - Soups and noodle dishes
 - Stir-fries with brief cooking
 - Salads when very fresh (light blanching recommended)

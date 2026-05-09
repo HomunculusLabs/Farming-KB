@@ -1,5 +1,5 @@
 ---
-title: Environmental DNA Metabarcoding
+title: Environmental environmental-dna-metabarcoding-fungi
 created: 2026-04-28
 tags: [genomics, mycology, ecology, biodiversity]
 date: 2026-04-28
@@ -14,10 +14,10 @@ type: concept
 
 Environmental DNA (eDNA) metabarcoding is a molecular approach that identifies
 organisms from DNA extracted directly from environmental samples such as soil,
-water, air, or bulk tissue. For fungal biodiversity, eDNA metabarcoding has
+water, air, or bulk tissue. For [[biodiversity-fungal-biodiversity-estimation-methods]], eDNA metabarcoding has
 revolutionized diversity estimates by revealing vast numbers of taxa invisible
 to traditional morphology-based surveys. The technique has become the standard
-tool for large-scale fungal biodiversity assessment, enabling surveys that would
+tool for large-scale fungal [[fungal-biodiversity-assessment-methods]], enabling surveys that would
 be prohibitively expensive or impossible using traditional culturing and
 microscopy.
 
@@ -30,7 +30,7 @@ environmental DNA. For fungi, soil samples of approximately 0.25 grams are
 typical, though larger samples increase detection of rare taxa. Sample
 preservation methods (freezing, ethanol storage, or commercial preservation
 buffers) affect downstream DNA quality and community representation. Spatial
-sampling design -- number of samples, spacing, and composite versus individual
+[[macrofungal-sampling-design-plots-transects]] -- number of samples, spacing, and composite versus individual
 sampling -- critically influences diversity estimates.
 
 ### DNA Extraction and Amplification
@@ -69,7 +69,7 @@ uncertainty for most environmental sequences.
 
 eDNA metabarcoding has consistently revealed 5-10x more fungal taxa in samples
 than traditional culturing or fruiting body surveys detect. A single soil
-sample from a tropical forest may yield 500-1,000 fungal ASVs, most of which
+sample from a [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] may yield 500-1,000 fungal ASVs, most of which
 cannot be assigned to described species. Global-scale studies using eDNA have
 sampled thousands of sites across all continents, revealing biogeographic
 patterns that were invisible to traditional methods. These findings have driven
@@ -119,7 +119,7 @@ quantitative metatranscriptomics.
 
 Sequencing expressed RNA from environmental samples captures only actively
 transcribing organisms, filtering out DNA from dormant, dead, or extracellular
-sources. This provides a more dynamic view of functional community composition
+sources. This provides a more dynamic view of functional [[core-endorhiza-bacterial-community-composition-cannabis]]
 but is more expensive and technically challenging due to rapid RNA degradation.
 
 ### Shotgun Metagenomics
@@ -140,7 +140,6 @@ cannot be assigned to species-level taxa using reference databases alone.
 
 ## See Also
 
-- [[fungal-species-estimates]]
 - [[fungal-species-estimates]]
 - [[fungal-ecology]]
 

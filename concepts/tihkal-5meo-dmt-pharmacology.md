@@ -38,7 +38,7 @@ The intravenous route shows dramatically enhanced potency: effects at 0.25 mg, w
 | Property | DMT | 5-MeO-DMT |
 |----------|-----|-----------|
 | IV potency | 4-30 mg | 0.25-3 mg |
-| Visual character | Rich visual hallucinations, colors, patterns | Often described as "white-out," ego dissolution, less visual |
+| Visual character | Rich visual hallucinations, colors, patterns | Often described as "white-out," [[psilocybin-ego-dissolution-mechanisms]], less visual |
 | Emotional tone | Can be terrifying, complex imagery | "Cosmic consciousness," "ruthless love," unconditional |
 | Somatic effects | Distinct "plastic taste" when smoked | Mild taste when smoked |
 | Subjective quality | Complex, narrative visual experiences | Overwhelming singularity, inability to judge, total implosion |
@@ -73,7 +73,7 @@ At excessive smoked doses, 5-MeO-DMT has produced:
 - **Virola rufuta**: Root and bark contain ~95% 5-MeO-DMT
 - **Dictyoloma incanescens**: First botanical identification (Rutaceae family)
 - **Sonora Desert Toad** (Bufo alvarius): Venom contains up to 15% 5-MeO-DMT, along with 5-MeO-NMT and bufotenine
-- **South American snuffs**: Yakee, yato, parica, epena, nyakwana
+- **[[chiric-caspi-brunfelsia-south-american-hallucinogen]] snuffs**: Yakee, yato, parica, epena, nyakwana
 
 ## Ayahuasca and Oral Activity
 
@@ -89,6 +89,8 @@ When combined with harmaline (an MAO inhibitor), oral 5-MeO-DMT becomes active a
 - TIHKAL commentary on Hoasca vs. Ayahuasca
 
 ## See Also
+
+- [[dmt-botanical-sources-pharmacology]]
 
 - [[pihkal-introduction-and-methodology]]
 - [[tryptamine-consciousness-theory]]

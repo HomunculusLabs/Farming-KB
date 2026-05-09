@@ -1,5 +1,5 @@
 ---
-title: Cannabinoid-Terpene Entourage Effect (Blesching, cannabis-health-index)
+title: Cannabinoid-Terpene cannabis-terpene-entourage-effect-profiles (Blesching, cannabis-health-index)
 created: 2026-04-26
 updated: 2026-04-25
 sources: "cannabis-for-epilepsy-and-seizure-disorders, The cannabis-health-index (CHI)"
@@ -13,10 +13,10 @@ tags: [cannabis]
 ## Overview
 
 While the existing cannabinoid-terpene synergy page covers the foundational
-concepts, this page dives deeper into the specific terpene profiles,
+concepts, this page dives deeper into the specific [[cannabis-terpene-profiles-sativa]],
 individual terpene properties, spice-based cannabinoid synergies, and the
 practical application of the entourage effect in therapeutic cannabis use, as
-documented throughout Blesching's Cannabis Health Index.
+documented throughout Blesching's [[blesching-cannabis-health-index-autoimmune-conditions]].
 
 ## The Entourage Effect in Detail
 
@@ -38,7 +38,7 @@ compounds through multiple synergistic mechanisms:
 
 | Property | Sativa | Indica |
 |----------|--------|--------|
-| THC:CBD Ratio | Higher THC to Lower CBD | Lower THC to Higher CBD |
+| THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]] | Higher THC to Lower CBD | Lower THC to Higher CBD |
 | General Effect | Stimulating, energizing, uplifting | Sedating, relaxing, grounding |
 | Primary Domain | Mental/emotional | Physical |
 | Temperament | Usually more extrovert | Usually more introvert |
@@ -63,7 +63,7 @@ of the entourage effect as it applies beyond cannabis:
 ### BCP Content in Common Spices
 | Spice | BCP Content |
 |-------|-------------|
-| Black pepper | Up to 35% |
+| [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]] | Up to 35% |
 | Clove | 7-19% |
 | Indian bay leaf (Cinnamomum tamala) | 14% |
 | Basil ([[blesching-cannabis-health-index-cannabinoid-terpene-synergy]]
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

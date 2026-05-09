@@ -32,7 +32,7 @@ For 500 L (132 gal) of spray solution:
 - Thrips (including tangerine thrips)
 - Turnip moth larvae
 - Pear psylla
-- Fruit fly
+- [[fukuoka-australia-fruit-fly-incident]]
 - Onion fly
 - Mosquito
 - Grasshopper
@@ -55,7 +55,7 @@ This recipe can be used as a soil pesticide by halving the amounts of both JWA a
 
 ## Red Clay Enhancement
 
-- Add 0.5 kg (1.1 lb) of very fine red clay powder to increase effectiveness
+- Add 0.5 kg (1.1 lb) of very fine red [[jadam-red-clay-powder-method]] to increase effectiveness
 - See jadam red clay powder method for making fine red clay powder
 
 ## Combined Coverage
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

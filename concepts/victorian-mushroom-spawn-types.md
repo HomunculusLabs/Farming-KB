@@ -1,5 +1,5 @@
 ---
-title: Victorian Mushroom Spawn Types
+title: falconer-victorian-mushroom-cooking-recipes Spawn Types
 tags: [mushroom, spawn, history, victorian, cultivation, falconer]
 date: 2026-04-28
 updated: 2026-04-28
@@ -16,7 +16,7 @@ type: concept
 Victorian mushroom growers relied on four principal types of spawn:
 
 - **Brick spawn** (English spawn)
-- **Flake spawn** (French spawn)
+- **[[french-flake-spawn-vs-brick-spawn]]** (French spawn)
 - **Mill-track spawn** (natural spawn from horse paths)
 - **Virgin spawn** (wild spawn from fields and manure piles)
 
@@ -24,11 +24,11 @@ Each type had distinct trade networks, manufacturing processes, and reputations 
 
 ## Brick Spawn (English Spawn)
 
-Brick spawn was the most commonly imported spawn in America during the 1890s. It was manufactured primarily around London, England, by specialized firms who kept their methods closely guarded. Market gardeners in the United States imported approximately 4,000 bushels (64,000 pounds) of brick spawn annually, with about half handled through New York seedsmen alone.
+Brick spawn was the most commonly imported spawn in America during the 1890s. It was manufactured primarily around London, England, by specialized firms who kept their methods closely guarded. Market gardeners in the [[dmt-containing-plants-united-states-halpern]] imported approximately 4,000 bushels (64,000 pounds) of brick spawn annually, with about half handled through New York seedsmen alone.
 
 ### Physical Characteristics
 
-Brick spawn was sold in the form of dry, hard, solid manure bricks completely permeated with mushroom mycelium. Bricks from different manufacturers varied in size and weight:
+Brick spawn was sold in the form of dry, hard, solid manure bricks completely permeated with mushroom [[mycelium]]. Bricks from different manufacturers varied in size and weight:
 
 - Some varieties packed ten bricks to the bushel
 - Others packed fourteen bricks per bushel
@@ -76,7 +76,7 @@ The supply of genuine mill-track spawn was already declining by the 1890s. As ho
 
 ### Why It Was Superior
 
-The superiority of mill-track spawn was attributed to the fact that it arose naturally from mushroom spores under ideal conditions: the constant trampling of horses created a perfectly compressed, aerated, and moisture-retentive manure bed in which the mycelium could develop over many years without disturbance. This slow, natural colonization produced mycelium of exceptional vigor.
+The superiority of mill-track spawn was attributed to the fact that it arose naturally from [[query-how-to-store-mushroom-spores-long-term]] under ideal conditions: the constant trampling of horses created a perfectly compressed, aerated, and moisture-retentive manure bed in which the mycelium could develop over many years without disturbance. This slow, natural colonization produced mycelium of exceptional vigor.
 
 ## Virgin Spawn (Wild Spawn)
 
@@ -117,7 +117,7 @@ Proper storage was critical for maintaining spawn viability. Falconer provided d
 
 ### Fresh Versus Old Spawn
 
-Falconer was emphatic about the importance of using fresh spawn. Given that it took three months from gathering manure for beds until mushroom harvest, the risk and expense of using old spawn was considered unjustifiable. He had used old spawn often enough to be convinced of its general worthlessness unless preserved with the greatest care.
+Falconer was emphatic about the importance of using fresh spawn. Given that it took three months from gathering manure for beds until [[duggar-mushroom-harvest-and-post-harvest]], the risk and expense of using old spawn was considered unjustifiable. He had used old spawn often enough to be convinced of its general worthlessness unless preserved with the greatest care.
 
 ## The Spawn Trade
 

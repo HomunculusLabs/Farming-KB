@@ -18,14 +18,14 @@ sources:
 Cladonia alpestris is a member of the Cladoniaceae, a family of lichenized fungi
 in the Ascomycota. The species has been subject to taxonomic revision and is
 sometimes treated as Cladonia stellaris. It is circumpolar in distribution,
-forming extensive ground cover in boreal forests, arctic tundra, and subarctic
+forming extensive ground cover in [[fungal-diversity-boreal-forests-taiga]], arctic tundra, and subarctic
 heathlands. The species is a major component of the ground layer vegetation
-across vast areas of northern North America, Europe, and Asia, where it can
+across vast areas of northern [[psilocybin-north-america-pacific-northwest]], Europe, and Asia, where it can
 dominate the forest floor for hundreds of square kilometers.
 
 ## Lichen Structure and Nutrient Cycling
 
-In the classification of lichen growth forms, Cladonia represents a mat-forming genus (Type 3 lichens) that contributes significantly to soil surface ecology. Unlike some other lichen types with more structured internal differentiation, Cladonia has a more diffuse association with the substrate, with elements distributed throughout the thallus rather than concentrated in specific layers. This diffuse organization may influence nutrient exchange with the substrate and sensitivity to environmental conditions.
+In the classification of lichen growth forms, Cladonia represents a mat-forming genus (Type 3 lichens) that contributes significantly to soil surface ecology. Unlike some other lichen types with more structured internal differentiation, Cladonia has a more diffuse association with the substrate, with elements distributed throughout the thallus rather than concentrated in specific layers. This diffuse organization may influence [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] with the substrate and sensitivity to environmental conditions.
 
 ### Organic Matter Contribution
 
@@ -40,7 +40,7 @@ development of soil organic horizons in boreal and tundra ecosystems.
 
 ### Growth Rate Studies
 
-The growth rate of fruticose lichens including Cetraria spp., Cladonia spp., and Stereocaulon spp. has been measured in various environments. Cladonia stellaris (synonym of C. alpestris) showed growth rates of 62 to 99 mm under certain conditions, with annual biomass production varying considerably between sites. The relatively slow growth rates of mat-forming lichens mean that recovery from disturbance (such as fire or grazing) can take decades, making these communities particularly vulnerable to land use changes.
+The growth rate of fruticose lichens including Cetraria spp., Cladonia spp., and Stereocaulon spp. has been measured in various environments. Cladonia stellaris (synonym of C. alpestris) showed growth rates of 62 to 99 mm under certain conditions, with annual [[dighton-fungal-biomass-production-aquatic-ecosystems]] varying considerably between sites. The relatively slow growth rates of mat-forming lichens mean that recovery from disturbance (such as fire or grazing) can take decades, making these communities particularly vulnerable to land use changes.
 
 ## Allelopathic Effects on Trees
 
@@ -72,7 +72,7 @@ Quantitative effects on white spruce:
 
 ### Phosphorus-Specific Inhibition
 
-Nitrogen content was consistently less reduced than phosphorus content across both tree species, and potassium, calcium, and magnesium plant content were not affected by the lichen mulch. This indicates that the allelopathic effect specifically targets phosphorus nutrition rather than general nutrient availability or plant water status. The phosphorus-specific nature of the inhibition suggests that lichen compounds may interfere with phosphorus uptake mechanisms or phosphorus availability in the rhizosphere.
+Nitrogen content was consistently less reduced than phosphorus content across both tree species, and potassium, calcium, and magnesium plant content were not affected by the lichen mulch. This indicates that the allelopathic effect specifically targets phosphorus nutrition rather than general [[ph-and-nutrient-availability-garden-soils]] or plant water status. The phosphorus-specific nature of the inhibition suggests that lichen compounds may interfere with phosphorus uptake mechanisms or [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] in the rhizosphere.
 
 ### Comparison with Cladonia rangiferina
 
@@ -129,7 +129,7 @@ Cladonia alpestris shows somewhat stronger phosphorus-specific allelopathic effe
 
 ## See Also
 
-- [[lichen-air-quality-biomonitoring-sampling-protocols]]
+- lichen-air-quality-biomonitoring-sampling-protocols
 
 - [[fungal-biodiversity-forest-ecosystems]]
 
@@ -140,3 +140,6 @@ Cladonia alpestris shows somewhat stronger phosphorus-specific allelopathic effe
 - arctostaphylos uva ursi - bearberry ground cover showing less allelopathic inhibition than Cladonia alpestris
 - Cetraria - genus of fruticose lichens sharing boreal habitat and slow growth rates with Cladonia
 - Stereocaulon - genus of fruticose lichens in boreal and tundra ecosystems
+- [[saprotrophic-fungi]]
+- [[decomposition]]
+- [[ectomycorrhiza]]

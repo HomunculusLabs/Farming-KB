@@ -1,5 +1,5 @@
 ---
-title: Bloomfield Chytrid Fungi Early Fungal Evolution
+title: Bloomfield bloomfield chytrid fungi early fungal evolution Early Fungal Evolution
 created: 2026-04-28
 tags:
   - mycology
@@ -30,7 +30,7 @@ The zoospores of chytrid fungi drive themselves through water using a
 single tail called a whiplash flagellum. Flagellate cells are found in
 most eukaryotes, with the exception of nematode worms, flowering plants,
 and everything in Kingdom Fungi apart from the chytrids. Human flagella
-(known as cilia when there are many on a single cell) push sperm cells
+(known as cilia when there are many on a [[fungal-single-cell-protein-production]]) push sperm cells
 toward eggs, circulate mucus in our lungs, and enable us to hear.
 
 The breakdown of fuel molecules in mitochondria powers flagellar motion.
@@ -45,7 +45,7 @@ Chytrids are found everywhere in freshwater habitats and wet soils.
 They are among the most ecologically diverse fungal groups, occupying
 roles as saprobes, parasites of plants and animals, and symbionts in
 the digestive systems of herbivores. Their dependence on water for
-[[batrachochytrium-dendrobatidis]] and Amphibian Decline
+[[batrachochytrium-dendrobatidis]] and [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]]
 
 Recently, chytrids achieved fame by parasitizing frogs and toads.
 Biologists have been concerned by declining amphibian populations in
@@ -61,7 +61,7 @@ casualties, the infections may be secondary consequences of other
 stressors. Another study found that western toad eggs in the Pacific
 Northwest were succumbing to the oomycete Saprolegnia ferax when
 exposed to damaging UV-B radiation from decreased pond depth linked to
-climate change.
+[[dighton-fungi-climate-change-feedback]].
 
 ## Plant Pathogenic Chytrids
 
@@ -105,3 +105,7 @@ microorganisms critical to digestion, including the bacteria responsible
 for methane production. This food processing activity parallels the
 ecological role of [[arthur-mushrooms-and-mankind-fungi-in-human-evolution]]
 - [[biodiversity-fungi-soil-fungal-communities]]
+
+## See Also
+
+- [[bloomfield-ghosts-of-evolution-osage-orange-anachronism]]

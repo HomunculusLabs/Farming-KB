@@ -11,20 +11,20 @@ tags:
   - podophyllotoxin
   - anticancer
   - woodland-herb
-  - permaculture
+  - permaculture|permaculture
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Moraes, M.D., et al. (2020). "Podophyllotoxin: current perspectives on its anticancer and antiviral activities." Phytotherapy Research, 34(8), 1832-1846.
   - Canel, C., et al. (2000). "Podophyllotoxin." Phytochemistry, 54(2), 115-120.
   - Imbert, C. (1998). "Discovering podophyllotoxins." Biochimie, 80(3), 207-222.
-  - Moerman, D.E. (1998). Native American Ethnobotany. Timber Press.
-  - Lloyd, J.U. (1924). "Podophyllum peltatum." Bulletin of the Lloyd Library, 10.
+  - Moerman, D.E. (1998). [[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany. Timber Press.
+  - Lloyd, J.U. (1924). "Podophyllum peltatum." Bulletin of the lloyd-library|Lloyd Library, 10.
 ---
 
 # Podophyllum peltatum
 
-*Podophyllum peltatum*, the American mayapple, is a herbaceous perennial of the family Berberidaceae, native to deciduous woodlands of eastern North America. It is the primary natural source of podophyllotoxin, a lignan compound used in the semi-synthesis of the anticancer drugs etoposide and teniposide.
+*Podophyllum peltatum*, the American mayapple, is a herbaceous perennial of the family Berberidaceae, native to deciduous woodlands of [[polypore-fungi-eastern-north-america]] America. It is the primary natural source of podophyllotoxin, a lignan compound used in the semi-synthesis of the anticancer drugs etoposide and teniposide.
 
 The species is immediately recognizable by its single large, umbrella-like leaf (two leaves in mature, fruiting plants) and the single waxy white flower that nodds beneath the leaf canopy. The common name "mayapple" reflects its emergence in spring and the apple-like fruit that ripens in late summer.
 
@@ -57,7 +57,7 @@ The genus name refers to the foot-like appearance of the leaves (Greek *pous* = 
 
 *P. peltatum* is native to **eastern North America**, ranging from southern Ontario and Quebec west to Minnesota and south to Texas and Florida. It is absent from the Great Plains and the arid Southwest.
 
-The species is characteristic of **deciduous forest understories**, particularly in rich, moist, well-drained soils with high organic matter content.
+The species is characteristic of **deciduous forest understories**, particularly in rich, moist, well-drained soils with high [[hamilton-composting-and-organic-matter-management]] content.
 It thrives in partial to full shade and is one of the dominant herbaceous species in many eastern deciduous forest communities.
 
 Typical habitat associations include oak-hickory forests, maple-beech forests, floodplain woodlands, and disturbed woodland edges. It is often found growing alongside *Trillium*, *Sanguinaria* (bloodroot), *Polygonatum* (Solomon's seal), and *Maianthemum* (mayflower).
@@ -75,7 +75,7 @@ This mechanism makes it a valuable lead compound for anticancer drug development
 - **α-Peltatin and β-peltatin:** 0.1–0.4% — structural analogues with similar activity
 - **4'-Demethylpodophyllotoxin:** Minor constituent
 - **Deoxypodophyllotoxin:** Trace amounts
-- **Quercetin and kaempferol glycosides:** Flavonoid constituents
+- **Quercetin and [[kaempferol|kaempferol]] glycosides:** Flavonoid constituents
 
 Podophyllotoxin itself is too toxic for systemic use but serves as the chemical precursor for three important semi-synthetic anticancer drugs:
 
@@ -94,14 +94,14 @@ The demand for podophyllotoxin for drug manufacturing has led to overharvesting 
 
 **Native American medicine:** The rhizome was one of the most widely used medicinal plants among eastern Native American tribes, employed as a powerful emetic, cathartic (laxative), and anthelmintic. The Cherokee used it for deafness, the Iroquois as a liver tonic, and the Penobscot as an anticonstipation remedy. Nearly every eastern tribe recognized its purgative properties.
 
-**19th-century medicine:** Podophyllin resin (a crude alcoholic extract of the rhizome) was an official drug in the United States Pharmacopeia from 1820 to 1942 and in the National Formulary from 1942 to 1960. It was prescribed as a cholagogue (stimulates bile flow) and cathartic, though its use declined due to narrow therapeutic index and severe toxicity at excessive doses.
+**19th-century medicine:** Podophyllin resin (a crude alcoholic extract of the rhizome) was an official drug in the [[dmt-containing-plants-united-states-halpern]] Pharmacopeia from 1820 to 1942 and in the National Formulary from 1942 to 1960. It was prescribed as a cholagogue (stimulates bile flow) and cathartic, though its use declined due to narrow [[cannabis-therapeutic-index-overview]] and severe toxicity at excessive doses.
 
 **Modern use:** Limited to purified podophyllotoxin preparations for topical HPV treatment and as a source material for semi-synthetic anticancer drug production.
 The crude resin is no longer used systemically. Wild harvesting has declined substantially due to conservation concerns and the development of alternative production methods.
 
 ## Cultivation and Permaculture
 
-*P. peltatum* can be cultivated from rhizome divisions or seed, though seed germination requires a prolonged cold stratification period (3–6 months at 4°C) followed by warm stratification. Plants propagated from seed typically require 3–5 years to reach flowering maturity.
+*P. peltatum* can be cultivated from rhizome divisions or seed, though [[cannabis-seed-germination-methods]] requires a prolonged cold stratification period (3–6 months at 4°C) followed by warm stratification. Plants propagated from seed typically require 3–5 years to reach flowering maturity.
 
 In permaculture and forest garden designs, mayapple serves as a **shade-tolerant ground cover** for the herbaceous layer beneath deciduous canopy trees.
 Its spreading rhizomatous habit allows it to form dense colonies that suppress weeds, and its early spring emergence captures light before canopy leaf-out.
@@ -114,5 +114,5 @@ The species is low-maintenance once established, requiring only adequate moistur
 
 - [[colchicine]] — Another plant-derived antimitotic compound from autumn crocus
 - [[atropa-belladonna]] — Deadly nightshade, a toxic medicinal plant with parallel ethnobotanical significance
-- [[permaculture]] — Design framework integrating mayapple as a forest garden understory species
-- [[resveratrol]] — A stilbenoid compound from unrelated plants, contrasts podophyllotoxin's lignan biosynthetic pathway
+- permaculture — Design framework integrating mayapple as a forest garden understory species
+- resveratrol — A stilbenoid compound from unrelated plants, contrasts podophyllotoxin's lignan biosynthetic pathway

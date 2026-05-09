@@ -47,7 +47,7 @@ sources: ["domain-knowledge"]
 - **THCV:** Trace amounts
 - **Total cannabinoids:** Approximately 16–21%
 - **Consistency:** One of Skunk #1's defining hallmarks — reliable potency regardless of
-  grow conditions or phenotype selection
+  grow conditions or [[vic-high-cannabis-phenotype-selection-criteria]]
 - **Ratio:** Heavily THC-dominant with minimal CBD interference, producing clear and
   predictable psychoactive effects
 
@@ -59,7 +59,7 @@ sources: ["domain-knowledge"]
 - **Limonene:** Citrus undertone — supports mood elevation and brightness
 - **Linalool:** Trace — faint floral sweetness
 - **Overall aroma:** Intensely pungent, skunky, and sweet — this strain is the origin of
-  the term "skunk weed" in global cannabis culture
+  the term "skunk weed" in global [[mckenna-cannabis-culture-history]]
 - **Flavor profile:** Earthy and sweet on inhale; smooth with lingering skunky sweetness
   and subtle citrus on exhale
 - **Cultural note:** The signature skunky aroma is one of the most recognizable scents
@@ -83,7 +83,7 @@ sources: ["domain-knowledge"]
 
 ## Historical Significance
 - **Breeding revolution:** First cannabis strain purposefully bred as a stabilized hybrid,
-  fundamentally changing the trajectory of cannabis cultivation worldwide
+  fundamentally changing the trajectory of [[query-how-does-no-till-cannabis-cultivation-work]] worldwide
 - **Descendant count:** Influenced hundreds — possibly thousands — of descendant strains
   across multiple continents over five decades
 - **Linguistic impact:** The name "Skunk" became a generic term for any potent cannabis
@@ -92,7 +92,7 @@ sources: ["domain-knowledge"]
 - **Gold standard:** Sensi Seeds' Skunk #1 is widely considered the benchmark against which
   all other hybrid strains are measured by breeders and growers
 - **Commercial foundation:** Served as the base genetic for an enormous portion of modern
-  commercial cannabis breeding programs globally
+  commercial [[oner-cannabis-breeding-fundamentals]] programs globally
 - **Cultural icon:** Represents the pivotal transition from landrace-only cultivation to the
   modern era of hybrid breeding and commercial seed production
 
@@ -102,13 +102,13 @@ sources: ["domain-knowledge"]
 - **Flowering time:** 7–8 weeks (56 days typical; some phenotypes finish by day 49)
 - **Indoor yield:** 500–600 g/m² under optimal conditions
 - **Outdoor yield:** High; harvest late September to early October (Northern Hemisphere)
-- **Height:** Medium-tall; manageable indoors with basic training techniques
+- **Height:** Medium-tall; manageable indoors with basic [[cannabis-training-techniques-comparison]]
 - **Resilience:** Highly pest-resistant and disease-resistant; very forgiving of common
   grower errors such as overfeeding or temperature fluctuations
 - **Climate adaptability:** Performs well in temperate, Mediterranean, continental, and
   warm tropical climates
 - **Training response:** Responds excellently to SOG, ScrOG, LST, supercropping, and
-  mainlining; adapts well to most cultivation methods
+  mainlining; adapts well to most [[synthetic-log-cultivation-methods-guide]]
 - **Nutrient needs:** Moderate feeder; standard nutrient schedules work well
 - **Clone performance:** Clones root easily and maintain mother characteristics
 - **Odor control:** Extremely pungent during flowering; carbon filtration is strongly

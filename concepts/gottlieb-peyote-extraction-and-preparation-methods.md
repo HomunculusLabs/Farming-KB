@@ -1,5 +1,5 @@
 ---
-title: "Peyote Extraction and Preparation Methods"
+title: "gottlieb peyote extraction and preparation methods and Preparation Methods"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -50,7 +50,7 @@ A method which avoids both the bitterness and the nausea:
 
 1. Grind 8-16 grams of dried peyote into a fine powder
 2. Boil in a pint of water for 30 minutes
-3. Strain and further boil to reduce volume to one half pint
+3. Strain and further boil to reduce volume to one [[pf-tek-jar-size-importance-half-pint-reliability]]
 4. After cooling, take as an enema using a small bulb syringe
 5. Retain for at least two hours
 6. If there is fecal matter in the lower bowel, take a small cleansing enema first
@@ -68,7 +68,7 @@ a day before taking peyote.
 - Nausea or queasiness is sometimes experienced half an hour after taking peyote
 - This usually passes in less than an hour
 - A sip of grapefruit juice will sometimes dispel the sick feeling
-- During peyote ceremonies, Indians encourage vomiting rather than restraint
+- During [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]], Indians encourage vomiting rather than restraint
 - Throwing up is considered a purging of both physical and spiritual ills
 
 ## Pure Mescaline Extraction from Peyote or San Pedro

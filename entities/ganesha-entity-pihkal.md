@@ -1,5 +1,5 @@
 ---
-title: "GANESHA (G; 2,5-DIMETHOXY-3,4-DIMETHYLAMPHETAMINE) -- PIHKAL Entry #85"
+title: "GANESHA (G; 2,5-DIMETHOXY-3,4-DIMETHYLAMPHETAMINE) -- 2c-b-pihkal-entry-20 #85"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -87,7 +87,7 @@ the 3- and the 4-positions that are part of the GANESHA concept. And
 ## Synthesis
 A solution of 15.4 g 2,5-dimethoxy-3,4-dimethylbenzaldehyde
 (see under 2C-G for the preparation) in 50 mL nitroethane was treated
-with 3 g anhydrous ammonium acetate and heated on the steam bath for
+with 3 g anhydrous ammonium acetate and heated on the [[scythian-cannabis-steam-bath-ritual]] for
 12 h. The excess nitroethane was removed under vacuum, and the
 residual oil was diluted with a equal volume of MeOH. There was the
 slow generation of deep red cottage-cheese-like crystals which were
@@ -118,7 +118,7 @@ hydrochloride (GANESHA) with a mp of 168-169 deg C. This was not
 improved by recrystallization from either EtOAc or nitroethane. Anal.
 (C13H22ClNO2) N.
 ## Safety Notes
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited shulgin safety principles and should not be taken as established safe doses. Many PIHKAL compounds are potent and psychoactive substances that may carry unknown risks. Mckenna [[ganesha-entity]]
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited shulgin [[shulgin-safety-principles-self-experimentation]] and should not be taken as established safe doses. Many PIHKAL compounds are potent and psychoactive substances that may carry unknown risks. Mckenna [[ganesha-entity]]
 - [[pihkal-introduction-and-methodology]]
 - PIHKAL (the source book)
 - [[qualitative-comments-methodology-pihkal]]

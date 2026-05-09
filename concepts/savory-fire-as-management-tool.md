@@ -16,7 +16,7 @@ type: concept
 
 # Fire as a Management Tool
 
-Fire is one of the six tools available in the Holistic Resource
+Fire is one of the six tools available in the [[savory-holistic-resource-management-animal-impact]]
 Management model, but it is perhaps the most emotionally charged and
 poorly understood. Savory argues that the frequency of fire has
 undergone a recent, unnatural, and geometric increase against the
@@ -51,15 +51,15 @@ high levels of predation. It was the combination of fire and animal
 impact that produced the productivity found by early Europeans on the
 American prairies, not fire alone. This is a fact easily overlooked.
 
-When Native American fire use is discussed in isolation from the animal
+When [[halpern-sacramental-peyote-and-native-american-church]] fire use is discussed in isolation from the animal
 impact that accompanied it, managers draw dangerously incomplete
 conclusions about fire's ecological role.
 
 ## Primary Effect: Soil Surface Exposure
 
 The first and most important effect of fire is that it tends to expose
-soil surfaces. Since soil surface management is central to the
-management of all four ecosystem foundation blocks, this trait must
+soil surfaces. Since soil [[jadam-soil-surface-management-no-till]] is central to the
+management of all four [[savory-ecosystem-foundation-blocks]] blocks, this trait must
 be kept in mind before all others. Bare ground is conspicuous
 immediately after fire, and more critically, the time required to
 rebuild litter between plants depends on brittleness, grazing
@@ -68,7 +68,7 @@ pressure, rest, and animal impact.
 Soil exposure has the greatest impact where soil cover takes longest
 to form, the lower rainfall brittle environments. If fire is combined
 with either rest or low animal impact, soil cover accumulates even more
-slowly. The guidelines for burning in Holistic Management discuss using
+slowly. The guidelines for burning in [[savory-holistic-management-overview]] discuss using
 other disturbances with fire instead of the commonly recommended two
 years of rest.
 
@@ -96,7 +96,7 @@ Savory recounts attending an American Soil Conservation Service training
 session on prescribed burning where discussion centered on time of day
 to burn, wind velocities, temperatures, width of firebreaks, and legal
 liability. Throughout the entire day, no word was uttered about effects
-on ecosystem processes or how burning might fit possible landscape
+on [[fungal-ecosystem-processes-overview]] or how burning might fit possible landscape
 goals. Every supporting argument rested on ancient beliefs or research
 focused on individual plant species at the expense of the four
 ecosystem processes.
@@ -130,6 +130,8 @@ prevent the soil exposure from causing long-term damage to water and
 mineral cycles.
 
 ## See Also
+
+- [[fire-og]]
 
 - savory holistic resource management fire as tool
 

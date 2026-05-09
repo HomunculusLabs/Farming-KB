@@ -19,7 +19,7 @@ type: concept
 In Amazonian vegetalismo, every plant possesses a spirit or "mother"
 (madre) -- a conscious being that guards, teaches, and sometimes
 punishes those who interact with the plant. These spirit mothers are
-the conservers and caretakers of the vegetation. As Pablo Amaringo
+the conservers and caretakers of the vegetation. As [[pablo-amaringo]]
 states: "They are the ones that have taken over these plants. They
 are the conservers, they take care of the plants." The mothers do
 not give visions to persons who fail to comply with the requirements
@@ -27,7 +27,7 @@ of the ciencia vegetalista.
 
 ## The Nature of Plant Spirits
 
-Plant spirits appear in ayahuasca visions in anthropomorphic form --
+Plant spirits appear in [[amaringo-ayahuasca-visions-shipibo-iconography]] in anthropomorphic form --
 often as women, kings, or animals. The sacha-huarmi (women of the
 forest) appear in visions as seated women in conversation, their
 true nature being plants found in certain Amazonian locations where
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

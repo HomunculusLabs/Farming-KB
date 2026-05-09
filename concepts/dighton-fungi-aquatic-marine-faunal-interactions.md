@@ -16,19 +16,19 @@ type: concept
 
 # Fungi in Aquatic and Marine Faunal Interactions
 
-Fungal interactions with animals in aquatic and marine ecosystems range
+[[singh-fungal-interactions-with-heavy-metals-in-soil]] with animals in aquatic and [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]] range
 from mutualistic associations that enhance animal nutrition to pathogenic
 relationships causing disease. Fungi condition leaf litter to improve
 its palatability for shredder invertebrates, form obligate gut symbioses
 with aquatic insects, and serve as essential dietary components for
 marine wood-boring crustaceans. These interactions are critical for
-energy flow and nutrient cycling in aquatic food webs.
+energy flow and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in aquatic food webs.
 
 ## Leaf Conditioning for Freshwater Shredders
 
 In freshwater streams, fungal degradation of leaf litter "conditions"
 the leaf material to make it more palatable for faunal grazing. Barlocher
-and Kendrick (1975) regard aquatic hyphomycetes as intermediaries in
+and Kendrick (1975) regard [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]] as intermediaries in
 energy flow in stream ecosystems. The amphipod Gammarus increased in
 weight faster relative to food ingested when provided with leaves
 colonized by fungi including Humicola, Anguillospora, Clavariopsis,
@@ -82,7 +82,7 @@ important for sustaining invertebrate herbivore populations. The
 amphipod Ulorchestia spartinophila has complex dietary requirements
 and grows best and produces the most offspring when fed on decaying
 leaves containing high fungal biomass. The fungal role in improving
-nutritional quality of decomposing plant material extends from
+[[coleman-winter-greens-nutritional-quality-cold-sweetening]] of decomposing plant material extends from
 freshwater streams to estuarine and marine environments.
 
 ## Gut Symbiont Fungi
@@ -112,9 +112,12 @@ production and fitness requires further investigation.
 
 - [[dighton-fungi-mangrove-coastal-ecosystems]]
 - [[dighton-fungal-grazing-feedbacks-decomposition]]
-- [[freshwater-fungi-ingoldian-spores]]
+- freshwater-fungi-ingoldian-spores
 
 ## Sources
 
-- Dighton, J. (2003). Fungi in Ecosystem Processes. Marcel Dekker.
+- Dighton, J. (2003). Fungi in [[fungal-ecosystem-processes-overview]]. Marcel Dekker.
   Chapters 2 and 4.
+- [[decomposition]]
+- [[fungal-hyphae]]
+- [[marine-fungi-diversity-sampling]]

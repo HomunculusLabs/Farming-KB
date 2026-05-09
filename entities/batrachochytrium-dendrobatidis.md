@@ -27,7 +27,7 @@ Chytrids were among the earliest-diverging fungal lineages.
 
 B. dendrobatidis represents a notable example of a basal fungal lineage evolving to become a highly virulent vertebrate pathogen.
 
-Its phylogenetic position was elucidated through multilocus sequence typing (MLST), placing it firmly within the Chytridiomycota.
+Its phylogenetic position was elucidated through [[fungi-multilocus-sequence-typing-molecular-epidemiology]] typing (MLST), placing it firmly within the Chytridiomycota.
 
 Key taxonomic details include:
 
@@ -54,7 +54,7 @@ The zoospores possess a single posterior flagellum and are chemotactically attra
 
 Chytridiomycosis has caused population declines and species extinctions across six continents.
 
-The disease has been particularly devastating in Central America, South America, and Australia.
+The disease has been particularly devastating in [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], South America, and Australia.
 
 In these regions it has driven dozens of species to extinction.
 
@@ -62,7 +62,7 @@ Some affected species experienced population crashes of over 90 percent within m
 
 The global scale of B. dendrobatidis impact has drawn comparisons to the most destructive wildlife diseases in history.
 
-The species is considered a sentinel for the broader threat that fungal pathogens pose to vertebrate biodiversity.
+The species is considered a sentinel for the broader threat that [[bloomfield-fungal-pathogens-and-parasites]] pose to vertebrate biodiversity.
 
 ## Molecular Epidemiology
 
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

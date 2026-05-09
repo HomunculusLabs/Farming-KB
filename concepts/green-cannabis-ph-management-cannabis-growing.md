@@ -1,5 +1,5 @@
 ---
-title: pH Management for Cannabis Growing
+title: pH Management for query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work
 created: 2026-04-26
 tags:
   - cannabis
@@ -18,8 +18,8 @@ type: concept
 
 pH is one of the three main factors to consider when evaluating growing
 medium for cannabis (along with nutrients and structure). Greg Green's
-"The Cannabis Grow Bible" emphasizes that maintaining proper pH is
-essential for nutrient availability and overall plant health. pH problems
+"The Cannabis [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]]" emphasizes that maintaining proper pH is
+essential for [[ph-and-nutrient-availability-garden-soils]] and overall plant health. pH problems
 can cause [[green-cannabis-rockwool-hydroponic-growing-media]]
   systems: Cannabis prefers a pH range of 5.2 to 6.3.
 
@@ -50,7 +50,7 @@ The recommended approach:
 
 Over time, experienced growers learn exactly how much lime their
 specific soil needs to correct acidity. This knowledge comes through
-trial and error -- Greg Green notes that the best cannabis growers are
+trial and error -- Greg Green notes that the [[query-what-is-the-best-cannabis-grow-medium-for-beginners]] growers are
 those who have made and learned from many mistakes.
 
 ### Correcting Alkaline Soil (pH Above 7)
@@ -93,7 +93,7 @@ nutrient availability in water-based growing systems.
 ### pH Adjustment in Hydroponics
 
 In hydroponics, pH Up and pH Down liquid solutions are the standard
-adjustment method (rather than lime or organic amendments used in soil).
+adjustment method (rather than lime or [[cervantes-organic-amendments-chart]] used in soil).
 These are inexpensive and can be added directly to the nutrient
 reservoir.
 

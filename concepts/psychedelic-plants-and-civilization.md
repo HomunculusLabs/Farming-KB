@@ -9,11 +9,11 @@ sources:
 ---
 # Psychedelic Plants and Civilization
 
-The central thesis of Terence McKenna's *Food of the Gods* is that Psychedelic Plants and Civilization are not peripheral curiosities in human history but are foundational to the emergence of civilization, consciousness, and culture itself. McKenna argues that human history can be read as a series of relationships with plants—relationships made and broken—and that the suppression of [[mycorrhizal-plant-signaling]]. Drawing on examples from nature—clown fish and anemones, leafcutter ants and their cultivated fungi, mitochondria joining with cells—he argued that plants and humans have coevolved in relationships of mutual benefit over millions of years.
+The central thesis of Terence McKenna's *Food of the Gods* is that Psychedelic Plants and Civilization are not peripheral curiosities in human history but are foundational to the emergence of civilization, consciousness, and culture itself. McKenna argues that human history can be read as a series of relationships with plants—relationships made and broken—and that the suppression of mycorrhizal-plant-signaling. Drawing on examples from nature—clown fish and anemones, leafcutter ants and their cultivated fungi, mitochondria joining with cells—he argued that plants and humans have coevolved in relationships of mutual benefit over millions of years.
 
 The key insight is that psychoactive compounds in plants may function as "exopheromones"—chemical messengers that act across species lines. Where plant hallucinogens occur, cultures are "quickly introduced to ever more novel information, sensory input, and behavior and thus are bootstrapped to higher and higher states of self-reflection." This is the Transcendent-Other: the encounter with nature as alive and intelligent, "Nature without her cheerfully reassuring mask of ordinary space, time, and causality."
 
-McKenna suggested that the notion of nature as an organism whose interconnected components communicate through chemical signals is only beginning to be studied. "Nature, far from being endless warfare among the species, is an endless dance of diplomacy. And diplomacy is largely a matter of language."
+McKenna suggested that the notion of nature as an organism whose interconnected components communicate through [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] is only beginning to be studied. "Nature, far from being endless warfare among the species, is an endless dance of diplomacy. And diplomacy is largely a matter of language."
 
 ## The Four-Part Structure
 
@@ -37,7 +37,7 @@ McKenna argued that the most powerful mutagens in the natural environment occur 
 
 ## The Abundance Problem
 
-McKenna noted a striking geographical pattern: the New World tropics are phenomenally rich in hallucinogenic plants, while the Old World tropics—especially Africa—support almost none. He suggested this is because "the longer an environment has been exposed to human beings, the fewer its native hallucinogens." Plants that catalyze consciousness may have been consumed to extinction in their original habitats, or the human-plant symbiosis they supported may have been disrupted by dominator culture's expansion.
+McKenna noted a striking geographical pattern: the New World tropics are phenomenally rich in hallucinogenic plants, while the [[datura-metel-old-world-ethnobotany]] tropics—especially Africa—support almost none. He suggested this is because "the longer an environment has been exposed to human beings, the fewer its native hallucinogens." Plants that catalyze consciousness may have been consumed to extinction in their original habitats, or the human-plant symbiosis they supported may have been disrupted by [[mckenna-dominator-culture-and-suppression-of-ecstasy]]'s expansion.
 
 ## The Diet as Destiny
 
@@ -67,7 +67,7 @@ McKenna concluded that "there is no solution to the 'drug problem,' or to the pr
 ## Merged: Sugar, Coffee, Tea, and Chocolate in European Colonialism
 In Chapter 11 of *Food of the Gods*, [[permaculture-designers-manual-sugar-crops]]. This process culminates in Sartre's declaration that "nature is mute." McKenna responds: "Nature is not mute, but modern man is deaf." Sugar and caffeine drugs reinforce industrial civilization's emphasis on efficiency at the price of Archaic values — a theme explored more broadly in [[mckenna-archaic-revival]]**, displacing partnership values and Archaic connection to nature with efficiency, hierarchy, and consumption.
 ## Merged: Stoned Ape Hypothesis
-The stoned ape hypothesis is Terence McKenna's theory that [[mycorrhizal-plant-signaling]]. The stoned ape hypothesis underpins McKenna's broader concept of the [[mckenna-diet-symbiosis-human-evolution]] - [[mckenna-archaic-revival]] — The call to reclaim partnership with nature - McKenna, Terence.
+The stoned ape hypothesis is Terence McKenna's theory that mycorrhizal-plant-signaling. The stoned ape hypothesis underpins McKenna's broader concept of the [[mckenna-diet-symbiosis-human-evolution]] - [[mckenna-archaic-revival]] — The call to reclaim partnership with nature - McKenna, Terence.
 ## Practical Considerations
 
 Successful implementation of Psychedelic Plants and Civilization requires attention to
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,137 +1,138 @@
 ---
-title: Psilocybin Mushrooms — Species and Pharmacology
-slug: psilocybin-mushrooms-species-and-pharmacology
-source: halpern-m-hallucinogens-dissociative-agents-growing-in-us.md
-tags: [psilocybin, mushrooms, mycology, pharmacology, psychoactive]
-created: 2026-05-08
+title: "forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc: Species and Pharmacology"
+tags:
+  - hallucinogen
+  - psilocybin
+  - psilocin
+  - tryptamine
+  - mushroom
+  - schedule-I
+  - pharmacology
+source:
+  author: "Halpern, J.H."
+  year: 2004
+  title: "Hallucinogens: an update"
+  journal: "Pharmacology & Therapeutics"
+  volume: 102
+  pages: "131-138"
 ---
-
-# Psilocybin Mushrooms — Species and Pharmacology
 
 ## Overview
 
-Psilocybe species mushrooms, commonly known as "magic mushrooms,"
-contain the hallucinogens psilocybin (4-phosphoryloxy-N,N-
-dimethyltryptamine) and psilocin (4-hydroxy-N,N-dimethyltryptamine).
-Although labeled toxic because they are psychoactive, these
-mushrooms are not lethal and are not known to induce internal
-organ damage. The primary risk comes from misidentification of
-wild specimens.
+Psilocybin mushrooms are a group of [[ethnomycology-psychoactive-fungi]] containing the
+indolealkylamine compounds psilocybin and psilocin. These mushrooms belong
+primarily to the genus *Psilocybe*, with over 180 species worldwide known to
+produce these psychoactive alkaloids. Among the most widely recognized is
+*Psilocybe cubensis*, a robust species frequently cultivated for both research
+and recreational purposes. Their psychoactive effects have been valued in
+ceremonial and spiritual contexts for centuries, and they remain among the
+most commonly used naturally occurring hallucinogens.
 
-## Active Compounds
+The genus *Psilocybe* encompasses a diverse array of species distributed across
+tropical and subtropical regions. *Psilocybe cubensis* is the most well-known
+owing to its large size, ease of cultivation, and widespread availability.
+Other notable species include *[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]* (liberty cap),
+*[[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]*, and *[[stamets-psi-psilocybe-azurescens-species-guide]]*, each with distinct
+morphological features and potency profiles. Many *Psilocybe* species are
+small and inconspicuous, thriving in grasslands, pastures, and decaying wood.
 
-### Psilocybin
-The phosphorylated prodrug form. Psilocybin is metabolized in
-the gut by alkaline phosphatase into psilocin, making psilocin
-the actual intoxicating compound (Lindenblatt et al., 1998).
+## Key Details
 
-### Psilocin
-The dephosphorylated active metabolite. Psilocin acts as a
-serotonin 5-HT2A receptor agonist, the primary mechanism of
-action shared with LSD and DMT.
+### Chemistry of Psilocybin and Psilocin
 
-### Concentration
-Total psilocybin content varies with mushroom species, subspecies,
-and preparation. Psilocybe cubensis, the most common species,
-typically contains 10-12 mg psilocybin per gram of dried mushroom
-(Stamets, 1996; Musshoff et al., 2000).
+Psilocybin (O-phosphoryl-4-hydroxy-N,N-dimethyltryptamine) is a prodrug
+rapidly dephosphorylated in vivo to its active metabolite, psilocin
+(4-hydroxy-N,N-dimethyltryptamine, or 4-OH-DMT). Both are structural
+analogues of serotonin (5-HT) and belong to the tryptamine class of
+[[psychedelic-compounds-reference]]. Psilocybin is relatively stable, whereas psilocin
+is labile and susceptible to oxidation. Fresh mushrooms containing primarily
+psilocybin degrade upon drying, converting to psilocin and then to less active
+oxidation products if not properly stored.
 
-## Geographic Distribution in the United States
+Biosynthesis proceeds through enzymatic conversion of tryptophan to tryptamine,
+followed by methylation and hydroxylation. Total alkaloid content varies
+considerably among species, specimens, and growth conditions. *P. cubensis*
+typically contains 0.5–1.0% combined alkaloids by dry weight, while potent
+species like *P. azurescens* may exceed 1.5%.
 
-Psilocybe species are found in many regions worldwide. In the US,
-they are coprophagous (dung-growing), found on cow and horse manure:
+### Dosage and Effects
 
-- **Gulf States**: Florida through the southern Gulf States to
-  Texas, in pastures
-- **Pacific Northwest**: Coastline from California into Canada,
-  in pasture and grain fields
-- **Other regions**: Scattered in temperate grasslands and
-  manured fields
+A typical dose of dried *P. cubensis* ranges from 1 to 2.5 grams,
+corresponding to approximately 10–25 mg of psilocybin. Onset occurs within
+20–60 minutes, with peak effects at 60–120 minutes. Total duration is
+generally 4–6 hours. Subjective effects include perceptual alterations,
+visual hallucinations with geometric patterns, synesthesia, enhanced
+introspection, and mystical or spiritual experiences at higher doses.
 
-Some indigenous tribes in Oaxaca, Mexico still consider these
-mushrooms sacred; sacramental use extends historically to the
-Aztec civilization and earlier (Wasson, 1961).
+### Geographic Distribution
 
-## Dosage and Intoxication
+In the United States, psilocybin mushrooms grow abundantly from Florida
+through the Gulf States to Texas, where warm, humid climates and frequent
+rainfall provide ideal conditions. The Pacific Northwest supports populations
+of cold-tolerant species such as *P. cyanescens* and *P. azurescens*. Many
+*Psilocybe* species are coprophagous, growing on herbivore dung, particularly
+cattle and horse manure, explaining their association with pastures.
 
-### Typical Dose
-Approximately 40 micrograms psilocybin per kg body weight produces
-threshold intoxication. Typically 1-2 grams of dried mushroom are
-ingested, yielding 4-20 mg of psilocybin.
+## Mechanism/Biology
 
-### Time Course
-Intoxication peaks within the first 2 hours, diminishing over the
-subsequent 3-4 hours. Total experience duration is approximately
-5-6 hours.
+Psilocin acts as a partial agonist at serotonin 5-HT2A receptors, the
+principal mechanism underlying hallucinogenic effects. Additional affinity for
+5-HT1A, 5-HT2C, and 5-HT2B receptors contributes to subjective complexity.
+Psilocybin and psilocin exhibit significant [[psilocybin-tolerance-cross-tolerance]] with [[lsd]]
+and other classical 5-HT2A hallucinogens. This cross-tolerance develops
+rapidly and persists for several days, supporting classification within a
+common serotonergic hallucinogen category.
 
-### Cross-Tolerance
-Cross-tolerance occurs between LSD and psilocybin/psilocin, but
-not as readily as between LSD and mescaline (Isbell et al., 1961).
-This suggests partial overlap in receptor pharmacology.
+Metabolism involves hepatic dephosphorylation by alkaline phosphatases to
+yield psilocin, followed by glucuronidation and renal excretion. The
+elimination half-life of psilocin is approximately 2–3 hours. Psilocybin
+itself has limited direct activity, serving as a stable, bioavailable
+delivery form resistant to degradation during storage and first-pass
+metabolism.
 
-## Cultivation
+## Safety/Risks
 
-A small industry supplies mycologists and those seeking
-hallucinogens with spore prints and cultivation materials. Growing
-from spore prints eliminates the risk of misidentification and
-poisoning associated with wild foraging. Mushroom spore prints
-remain legal in most US states (except California).
+Psilocybin and psilocin are Schedule I substances under the U.S. Controlled
+Substances Act, making possession, cultivation, and distribution a federal
+offense. However, mushroom spores do not contain these alkaloids and are not
+explicitly controlled in most jurisdictions. This loophole has enabled sale
+of spore syringes and prints for microscopy purposes, though cultivation
+from spores remains illegal.
 
-Cultivation typically involves inoculating sterilized grain or
-substrate with spore solution, allowing mycelial colonization,
-then inducing fruiting conditions with appropriate humidity,
-temperature, and fresh air exchange.
-
-## Legal Status
-
-Psilocybe spp. mushrooms, psilocybin, and psilocin are Schedule I
-drugs in the United States. This means they are considered to have
-no accepted medical use and high potential for abuse. Despite this
-classification, clinical research into therapeutic applications
-has accelerated in the 2020s, particularly for treatment-resistant
-depression, end-of-life anxiety, and substance use disorders.
-
-## Health Risks
-
-### Misidentification
-The most significant risk with wild mushrooms is dangerous
-misidentification. Several toxic mushroom species grow in similar
-habitats and can be confused with Psilocybe species. Ingestion
-of toxic lookalikes (particularly Galerina species containing
-amatoxins) can cause liver failure and death.
-
-### Psychological Risks
-While not physically toxic, psilocybin can cause acute anxiety,
-panic reactions, and in rare cases precipitate prolonged
-psychological distress in susceptible individuals. Set and
-setting significantly influence outcomes.
-
-### Lack of Physical Toxicity
-Despite Schedule I classification, psilocybin mushrooms are
-not lethal and do not cause organ damage. The LD50 in mice
-is extremely high relative to active doses.
-
-## Historical and Cultural Context
-
-Psilocybin mushrooms have a rich ethnomycological history:
-- Used by Mazatec and other indigenous Mexican peoples for
-  centuries in healing and divination ceremonies
-- Introduced to Western science by R. Gordon Wasson in 1957
-  after his experiences with Mazatec curandera Maria Sabina
-- Studied extensively in the 1960s before being made illegal
-- Subject of renewed clinical research in the 21st century
-
-## Comparison with Other Psychedelics
-
-| Property | Psilocybin | LSD | DMT | Mescaline |
-|----------|-----------|-----|-----|-----------|
-| Duration | 5-6 hr | 8-12 hr | 15-30 min | 8-12 hr |
-| Source | Mushroom | Synthetic | Plant/frog | Cactus |
-| Oral active | Yes | Yes | With MAOI | Yes |
-| Schedule I | Yes | Yes | Yes | Yes |
+A significant safety concern is misidentification. Toxic species such as
+[[galerina-marginata]] share habitats with psilocybin mushrooms and produce the same
+deadly amatoxins as *Amanita phalloides*. Proper identification requires
+attention to spore print color, gill attachment, bruising reactions, and
+microscopic features.
 
 ## See Also
 
-- [[mescaline-peyote-san-pedro-cactus]]
 - [[amanita-muscaria-muscimol-ibotenic-acid]]
-- [[morning-glory-lsa-and-ergoline-alkaloids]]
+- [[lsd]]
+- [[psychedelic-compounds-reference]]
+- [[psilocybin-tolerance-cross-tolerance]]
+- [[salvia-divinorum-pharmacology]]
+- [[mescaline-peyote-san-pedro-cactus]]
+
+## Historical and Ceremonial Context
+
+Psilocybin mushrooms hold deep significance in Mesoamerican cultures. The
+Aztecs called them *teonanácatl* ("flesh of the gods"). Archaeological
+evidence including mushroom-shaped figurines dated to ~500 BCE in Guatemala
+and Mexico attests to their ritual antiquity. In the Sierra Mazateca of
+Oaxaca, indigenous Mazatec healers continue using psilocybin mushrooms in
+[[metzner-shamanic-healing-and-divination-paradigm]] ceremonies, documented by R. Gordon Wasson in the
+1950s during a velada guided by curandera María Sabina.
+
+Albert Hofmann isolated psilocybin and psilocin from *P. mexicana* in 1958.
+His synthesis enabled controlled [[hofmann-lsd-clinical-research-early-studies]] characterizing the
+pharmacological profile. This early research, conducted before scheduling of
+classical hallucinogens, established the foundation for contemporary interest
+in psilocybin as a potential therapeutic agent for depression, anxiety, and
+substance use disorders.
+
+*Psilocybe* species are characterized by hygrophanous caps that change color
+when drying, often exhibiting a bluing reaction when bruised due to psilocin
+oxidation. Spore prints are dark purplish-brown, distinguishing them from
+look-alikes. Species differentiation requires examination of cap shape,
+bruising, and microscopic features.

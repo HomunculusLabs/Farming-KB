@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
 
 # Lactobacillus
 
-*Lactobacillus* is a genus of Gram-positive, facultatively anaerobic, rod-shaped bacteria that are among the most important microorganisms in food fermentation, human health, and sustainable agriculture. As the primary agents of **lactic acid fermentation**, species of *Lactobacillus* convert sugars into lactic acid, creating the acidic environments that preserve food, inhibit pathogens, and shape the microbial ecology of diverse habitats from the human gut to agricultural soils.
+*Lactobacillus* is a genus of Gram-positive, facultatively anaerobic, rod-shaped bacteria that are among the most important microorganisms in food fermentation, human health, and sustainable agriculture. As the primary agents of **lactic acid fermentation**, species of *Lactobacillus* convert sugars into lactic acid, creating the acidic environments that preserve food, inhibit pathogens, and shape the [[fukuoka-microbial-ecology-decomposition]] of diverse habitats from the human gut to agricultural soils.
 
 ## Taxonomy
 
@@ -42,7 +42,7 @@ The acidic environment created by lactic acid production (pH typically dropping 
 
 - **Dairy**: Yogurt, cheese, kefir, buttermilk, and cultured butter rely on *Lactobacillus* species in combination with *Streptococcus thermophilus* and other LAB
 - **Vegetables**: Sauerkraut, kimchi, and pickles are produced by spontaneous or directed *Lactobacillus* fermentation
-- **Grains**: Sourdough bread, porridge, and traditional cereal beverages depend on *Lactobacillus* for acidification and flavor development
+- **Grains**: [[query-how-to-make-sourdough-bread-at-home]], porridge, and traditional cereal beverages depend on *Lactobacillus* for acidification and flavor development
 - **Beverages**: Kombucha (in combination with yeasts), traditional fermented beverages
 
 ## Role in Human Health
@@ -50,7 +50,7 @@ The acidic environment created by lactic acid production (pH typically dropping 
 *Lactobacillus* species are among the most widely studied and commercially used **probiotic** organisms. Documented health benefits include:
 
 - **Gastrointestinal health**: Maintenance of gut barrier integrity, competitive exclusion of pathogens, and modulation of intestinal immune responses
-- **Immune modulation**: Enhancement of mucosal immunity, including increased secretory IgA production
+- **[[cancer-immune-modulation-mechanisms]]**: Enhancement of mucosal immunity, including increased secretory IgA production
 - **Metabolic effects**: Improved lactose digestion, cholesterol metabolism, and short-chain fatty acid production
 - **Prevention of antibiotic-associated diarrhea**: Restoration of gut microbiota after antibiotic treatment
 
@@ -58,11 +58,11 @@ The human gastrointestinal tract harbors approximately 100 billion *Lactobacillu
 
 ## Role in Agriculture and Soil Biology
 
-In the context of **Korean Natural Farming (KNF)** and similar sustainable agriculture systems, *Lactobacillus* species play critical roles:
+In the context of **Korean [[comparison-natural-farming-vs-permaculture]] (KNF)** and similar sustainable agriculture systems, *Lactobacillus* species play critical roles:
 
-- **Soil health**: Lactic acid bacteria in soil suppress pathogenic microorganisms, solubilize minerals, and contribute to nutrient cycling
+- **Soil health**: Lactic acid bacteria in soil suppress pathogenic microorganisms, solubilize minerals, and contribute to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 - **Compost acceleration**: LAB inoculation accelerates compost decomposition and reduces odor
-- **Plant disease suppression**: LAB produce bacteriocins and organic acids that inhibit plant pathogens
+- **Plant [[aact-disease-suppression-mechanisms-ingham]]**: LAB produce bacteriocins and organic acids that inhibit plant pathogens
 - **Manure treatment**: Application of LAB to animal manure reduces ammonia emissions and pathogen loads
 - **KNF inputs**: *Lactobacillus* is the primary organism in **Lactic Acid Bacteria Serum (LABS)**, a key KNF preparation used as a foliar spray, soil drench, and compost inoculant
 

@@ -3,6 +3,7 @@ title: Aeroponics for Cannabis
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
@@ -11,13 +12,13 @@ tags: [cannabis]
 
 # Aeroponics for Cannabis
 
-Aeroponics is the most advanced and highest-performing hydroponic growing method available for cannabis cultivation. Aeroponic systems use no growing medium at all, instead suspending plant roots in a dark growth chamber where they are misted with oxygen-rich nutrient solution at regular intervals. The root chamber environment is maintained at or near 100 percent humidity around the clock.
+Aeroponics is the most advanced and highest-performing [[cannabis-grow-hydroponic-growing-systems]] method available for [[query-how-does-no-till-cannabis-cultivation-work]]. Aeroponic systems use no growing medium at all, instead suspending plant roots in a dark growth chamber where they are misted with oxygen-rich [[cannabis-nutrient-solution-preparation]] at regular intervals. The root chamber environment is maintained at or near 100 percent humidity around the clock.
 
 ## How Aeroponics Works
 
 In an aeroponic system, plant roots hang freely inside a sealed, light-proof chamber. Nutrient solution is delivered to the roots through misting nozzles or atomizing devices that create a fine spray or fog. The high-humidity environment allows roots to absorb nutrients and oxygen simultaneously at maximum efficiency.
 
-Plants are most often grown in net pots filled with a small amount of Cannabis Growing Mediums and suspended from the top of the system. The net pots anchor the plants while allowing roots to extend into the misting chamber below.
+Plants are most often grown in net pots filled with a small amount of [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]] Mediums and suspended from the top of the system. The net pots anchor the plants while allowing roots to extend into the misting chamber below.
 
 ## Root Environment
 
@@ -41,11 +42,11 @@ Aeroponic nutrient solutions must be carefully maintained:
 - **EC/TDS**: Monitor carefully and adjust based on growth stage.
 - **Filtration**: Use inline filters to prevent nozzle clogging.
 - **Solution changes**: Change nutrient solution every one to two weeks.
-- **Temperature**: Keep reservoir temperature between 65 and 70 degrees F (18 to 21 degrees C).
+- **Temperature**: Keep [[cervantes-reservoir-temperature-management]] between 65 and 70 degrees F (18 to 21 degrees C).
 
 ## Cannabis Cultivation in Aeroponics
 
-Aeroponics is suitable for all stages of cannabis growth, from [[cannabis-vegetative-growth-stage]] and [[deep-water-culture]] submerges roots in aerated solution, providing a buffer against short interruptions. Aeroponics has no such buffer and roots dry quickly if misting stops.
+Aeroponics is suitable for all [[query-what-are-the-stages-of-cannabis-growth]] growth, from [[cannabis-vegetative-growth-stage]] and [[deep-water-culture]] submerges roots in aerated solution, providing a buffer against short interruptions. Aeroponics has no such buffer and roots dry quickly if misting stops.
 - **vs. NFT**: [[ebb-and-flow]] uses a growing medium for buffering. Aeroponics has no medium and requires more precise management.
 - **vs. Bubbleponics**: [[cervantes-passive-wick-hydroponic-systems]] are passive and low-tech. Aeroponics is the opposite: active, high-tech, and demanding.
 

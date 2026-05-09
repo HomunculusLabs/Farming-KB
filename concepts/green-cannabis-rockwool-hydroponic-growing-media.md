@@ -1,5 +1,5 @@
 ---
-title: Rockwool and Hydroponic Growing Media
+title: Rockwool and cannabis-grow-hydroponic-growing-systems Media
 created: 2026-04-26
 tags:
   - cannabis
@@ -52,11 +52,11 @@ stabilizes the pH level of the rockwool before planting.
 
 ### Uses for Rockwool
 
-Rockwool cubes serve multiple purposes in cannabis cultivation:
+Rockwool cubes serve multiple purposes in [[query-how-does-no-till-cannabis-cultivation-work]]:
 
 - Seed germination: Seeds placed in rockwool cubes have easy access to
   moisture and can be monitored visually.
-- Rooting cuttings: Rockwool cubes are described as excellent for
+- [[cannabis-cloning-rooting-cuttings-method-clarke]]: Rockwool cubes are described as excellent for
   [[green-cannabis-grow-bible-hydroponics-and-the-bubbler]].
 - Perlite: A good medium that does not come with any nutrients, often
   mixed with soil to improve drainage.
@@ -82,7 +82,7 @@ the normal time required for a soil grow. Additional benefits include:
 - Massive root clusters -- a single plant can fill a 2-gallon bucket
   with root growth.
 - Precise control over nutrient delivery and pH levels.
-- Elimination of soil-borne pests and diseases.
+- Elimination of soil-borne [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]].
 
 ## Disadvantages and Risks
 
@@ -92,7 +92,7 @@ Specific concerns include:
 
 - pH can slip up and down very quickly in hydroponics systems and
   requires frequent monitoring.
-- Algae growth can occur if the nutrient reservoir is exposed to light.
+- Algae growth can occur if the [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]] is exposed to light.
   Reservoirs should be kept light-tight using thick black PVC tape or
   similar materials.
 - Nutrient strength must be carefully managed -- cannabis often finds
@@ -109,7 +109,7 @@ between soil and hydroponic systems:
 - Soil systems: Cannabis prefers a pH of 7.0.
 - Hydroponic systems: Cannabis prefers a pH range of 5.2 to 6.3.
 - pH Up and pH Down liquid adjusting solutions are used in hydroponics
-  rather than the lime or organic amendments used in soil.
+  rather than the lime or [[cervantes-organic-amendments-chart]] used in soil.
 
 ## Grow and Bloom Formulations
 

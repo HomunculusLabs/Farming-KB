@@ -1,5 +1,5 @@
 ---
-title: Seed Germination Techniques (Solomon)
+title: Seed seed germination techniques solomon (Solomon)
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -14,7 +14,7 @@ Updated: 2026-04-18
 
 Source: Gardening When It Counts, Steve Solomon, Chapter 5
 
-Solomon teaches germination as a science, based on laboratory protocols adapted for home garden conditions. The key principle: replicate ideal germination conditions as closely as possible in the field.
+Solomon teaches germination as a science, based on laboratory protocols adapted for [[cool-climate-home-garden-mollison]] conditions. The key principle: replicate ideal germination conditions as closely as possible in the field.
 
 ## Laboratory Germination Protocol
 
@@ -35,7 +35,7 @@ Two factors most affect field germination:
 **Moisture**: Soil should be moist but not wet. Overwatering:
 - Lowers soil temperature (cold water from the hose)
 - Promotes damping-off fungus (which kills seedlings at the soil line)
-- Promotes powdery mildew on cucurbits
+- Promotes [[cervantes-powdery-mildew-prevention-treatment]] on cucurbits
 - Reduces soil aeration
 
 **Temperature**: Each species has an optimal range. Too cold = slow or no germination. Too hot = seeds may die or lose vigor.
@@ -43,7 +43,7 @@ Two factors most affect field germination:
 ## The Furrow Technique
 
 For sowing small seeds close to the surface:
-1. After bed preparation, press a hand-shaped depression about half an inch deep in the loosened soil
+1. After [[azurescens-outdoor-bed-preparation-woodchips]], press a hand-shaped depression about half an inch deep in the loosened soil
 2. Space seeds in the furrow at the desired interval
 3. Cover by pushing a bit of loose surface soil back over the seeds — not heavy, just enough to contact
 
@@ -74,7 +74,7 @@ Less frequent watering is better than more frequent:
 4. Room temperature should exceed 65°F (18°C)
 5. In 3-4 days, roots should emerge
 6. Plant immediately before roots get long and brittle
-7. Place 2 sprouting seeds per station, root pointing down
+7. Place 2 [[solomon-sprouting-seeds-and-early-season-nutrition]] per station, root pointing down
 
 ### Chitting Cucurbits (Melons, Squash, Cucumbers)
 1. Use the germination cabinet (75-80°F)

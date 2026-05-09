@@ -22,7 +22,7 @@ sources:
 
 ## Overview
 
-*Rhamnus purshiana* (cascara sagrada, sacred bark) is a deciduous shrub or small tree in the family Rhamnaceae, native to the Pacific Northwest of North America.
+*Rhamnus purshiana* (cascara sagrada, sacred bark) is a deciduous shrub or small tree in the family Rhamnaceae, native to the Pacific Northwest of [[psilocybin-north-america-pacific-northwest]].
 
 It is the botanical source of cascara, one of the most widely used herbal laxatives in Western pharmacopeias for over a century. The dried, aged bark contains anthraquinone glycosides that stimulate colonic motility.
 
@@ -88,7 +88,7 @@ It was listed in the U.S. Pharmacopeia from 1890 until removed in 2002 due to in
 
 Standardized preparations deliver 20–30 mg of hydroxyanthracene derivatives per dose, taken as tablets, liquid extracts, or bark tea.
 
-Contraindications include intestinal obstruction, appendicitis, inflammatory bowel disease, and pregnancy. Long-term use beyond 1–2 weeks is not recommended.
+Contraindications include intestinal obstruction, appendicitis, [[blesching-cannabis-inflammatory-bowel-disease]] disease, and pregnancy. Long-term use beyond 1–2 weeks is not recommended.
 
 ## Harvesting and Processing
 

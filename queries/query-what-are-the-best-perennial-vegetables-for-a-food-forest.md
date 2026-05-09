@@ -1,5 +1,5 @@
 ---
-title: "What Are the Best Perennial Vegetables for a Food Forest"
+title: "What Are the Best comparison-perennial-vegetables-vs-cover-crops for a Food Forest"
 created: 2026-04-28
 tags: [query, perennial-vegetables, food-forest, permaculture, homesteading]
 date: 2026-04-25
@@ -32,7 +32,7 @@ years while the crown develops an extensive root system. Once established,
 asparagus provides one of the earliest spring harvests available, with
 tender spears emerging as soon as the soil warms. All-male varieties like
 Jersey Giant produce heavier yields than traditional mixed-sex plantings
-because they do not divert energy into seed production.
+because they do not divert energy into [[cervantes-seed-production-storage]].
 
 Jerusalem artichokes, also called sunchokes, are among the most productive
 perennial vegetables, capable of producing enormous yields of tubers from a
@@ -41,23 +41,25 @@ have valuable spots in the food forest, providing aromatic allium flavor
 with minimal replanting effort from year to year.
 
 Leafy perennial greens round out the food forest vegetable layer
-beautifully. Sorrel produces lemony-tasting leaves from early spring through
+beautifully. Sorrel produces lemony-tasting leaves from [[coleman-overwintered-onions-and-early-spring-crops]] through
 late fall and thrives in partial shade beneath taller plants. Good King
 Henry, a traditional European pot herb, produces edible leaves, flower buds,
 and seeds for multiple harvests. Sea kale, a coastal native, produces
 blanchable shoots similar to asparagus in early spring. The
-[[perennial-food-forests]] guide demonstrates how to
-layer these ground covers with taller perennials and canopy trees for
-maximum productivity per square foot.
+perennial-food-forests guide demonstrates how to
+layer these [[permaculture-plants-food-forest-ground-covers-bamboos]] with taller perennials and canopy trees for
+maximum productivity per [[comparison-biointensive-vs-square-foot-gardening]].
 
 ## Key Points
-- [[permaculture-jerusalem-artichoke]] are extremely
+- permaculture-jerusalem-artichoke are extremely
   productive but need containment strategies to prevent invasiveness
 - Perennial kales and tree collards provide year-round greens with minimal
   maintenance once established
-- Use the [[gaias-garden-vine-layer-food-forest]] based on its light and space requirements
+- Use the gaias-garden-vine-layer-food-forest based on its light and space requirements
 
-## Related Questions
+## Related
+
+- [[blanching-vegetables-for-freezing]] Questions
 - [[query-how-to-start-a-food-forest]]
 - [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]]
 
@@ -80,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

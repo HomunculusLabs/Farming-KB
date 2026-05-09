@@ -34,10 +34,10 @@ separately. Coleman found it easier to spot bad leaves or occasional
 detritus when only one shape and color of leaf is in the wash basin at a
 time.
 
-Root crops receive different treatment. Carrots are harvested one layer
+[[permaculture-plants-root-crops-and-tubers]] receive different treatment. Carrots are harvested one layer
 deep with field grit still clinging and then thoroughly washed. This
 attention to cleaning extends to removing any aphid residue or other
-insect material, though winter greenhouse pests are minimal.
+insect material, though [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]] pests are minimal.
 
 ## The Salad Mixer
 
@@ -78,7 +78,7 @@ bags instead of bulk boxes.
 
 ## Root Crop Storage
 
-Winter harvesting extends beyond fresh greens to stored crops. From
+[[coleman-winter-harvesting-techniques]] extends beyond fresh greens to stored crops. From
 storage, Coleman offers onions, garlic, shallots, winter squash, celery
 root, parsley root, scorzonera, and storage beets. The cool-soil storage
 of certain crops in the ground, such as carrots left in unheated
@@ -110,7 +110,9 @@ and packing flow continuously without bottlenecks. Coleman believes that
 "a little analysis always results in a simpler, quicker, and more
 pleasant way of doing any job."
 
-## Related Concepts
+## Related
+
+- [[coleman-winter-harvest-post-harvest-handling]] Concepts
 
 - [[coleman-winter-harvesting-techniques]] — harvest methods that
   influence post-harvest quality

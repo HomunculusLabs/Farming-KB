@@ -1,5 +1,5 @@
 ---
-title: Psilocybe semilanceata
+title: guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution
 created: 2026-04-28
 tags:
   - mycology
@@ -17,7 +17,7 @@ type: concept
 # Psilocybe semilanceata
 
 Psilocybe semilanceata, commonly known as the liberty cap, is the most common wild
-hallucinogenic mushroom in Europe and one of the most potent naturally occurring sources of
+[[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]] in Europe and one of the most potent naturally occurring sources of
 [[psilocybe-cubensis]], which is predominantly cultivated for the commercial market,
 P. semilanceata is primarily encountered in the wild, where it is foraged by mushroom hunters
 rather than purchased through retail channels.
@@ -27,12 +27,12 @@ rather than purchased through retail channels.
 Psilocybe semilanceata is a small brown mushroom, consistent with the general appearance of
 most psilocybin-containing fungi. Like other members of its genus, it bruises blue when
 handled due to the oxidation of psilocybin and [[psilocybe-cubensis]]. Some specimens of related high-potency species
-such as Psilocybe azurescens and Psilocybe bohemica may contain even higher concentrations.
+such as [[stamets-psi-psilocybe-azurescens-species-guide]] and Psilocybe bohemica may contain even higher concentrations.
 The high potency of P. semilanceata, combined with the natural variability in alkaloid
 content depending on growing conditions and specimen age, makes dose estimation particularly
 challenging for wild-foraged mushrooms.
 
-Mushroom potency depends on species or variety, origin, growing conditions, and age. Given
+[[pf-tek-mushroom-potency-and-age-relationship]] depends on species or variety, origin, growing conditions, and age. Given
 that psychoactive psilocybin doses are estimated between 45 micrograms per kilogram of body
 weight and 315 micrograms per kilogram, users must make speculative calculations to determine
 the number or weight of mushrooms needed for desired effects. These calculations are
@@ -41,7 +41,7 @@ substances may be present in different proportions, and short-term tolerance dev
 
 ## Wild Foraging Practice
 
-The practice of collecting wild hallucinogenic mushrooms, known as magic mushroom hunting,
+The practice of collecting wild [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]], known as magic mushroom hunting,
 is documented in several EU countries. In Poland, residents in local communities in the south
 of the country observed young people aged 15 to 19 actively seeking P. semilanceata. In
 Ireland, community representatives in the Kilkenny region reported that mushrooms were
@@ -77,7 +77,7 @@ prevalence estimates, albeit at higher levels.
 ## Legal Status
 
 Psilocybe semilanceata is specifically named in some national legislation. Denmark, for
-example, controls Psilocybe semilanceata, Psilocybe cubensis, and other fungi or spores
+example, controls Psilocybe semilanceata, [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]], and other fungi or spores
 containing psilocin or psilocybin, including grown, dried, or processed specimens. In
 Ireland, legislation exempts mushrooms growing in an uncultivated state, creating a specific
 legal distinction between wild-growing P. semilanceata and cultivated or prepared specimens.

@@ -1,17 +1,17 @@
 ---
-title: Hallucinogenic Mushrooms — European Prevalence and Trends
+title: emcdda-hallucinogenic-mushrooms-emerging-trend-europe — hallucinogenic-mushroom-european-prevalence-polydrug-clustering-barriers-emcdda-2006 and Trends
 source: carolina-mushrooms_08qxp.md
  mined: 2026-05-08
 tags: [psilocybin, mushrooms, europe, prevalence, drug-trends, emcdda]
-aliases: [magic mushrooms prevalence EU, psilocybin mushroom use statistics]
+aliases: [[guzman-magic-mushrooms-african-species]] prevalence EU, [[emcdda-psilocybin-mushroom-dose-and-effects]] use statistics]
 ---
 # Hallucinogenic Mushrooms — European Prevalence and Trends
 
 ## Overview
 
 Hallucinogenic mushrooms containing [[psilocybin-pharmacology]]
-- pf tek cultivation method
-- [[gaias-garden-flowering-tree-desert-restoration-case-study]]" by Hillebrand, Olszewski & Sedefov
+- pf tek [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]]
+- gaias-garden-flowering-tree-desert-restoration-case-study" by Hillebrand, Olszewski & Sedefov
 
 ## See Also
 
@@ -144,4 +144,5 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-
+- [[pf-tek-cultivation-method]]
+- [[psilocybin-mushroom]]

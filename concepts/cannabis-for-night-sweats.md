@@ -52,7 +52,7 @@ Addressing underlying emotional distress through therapy, meditation, or other m
 - Sage tea: Traditional remedy for excessive sweating
 - Black cohosh: Used for menopausal night sweats
 - Valerian: Sleep promotion and anxiety reduction
-- (E)-beta-caryophyllene: FDA-approved dietary cannabinoid activating CB2 receptors; found in black pepper, rosemary, basil, clove, cinnamon
+- (E)-beta-caryophyllene: FDA-approved dietary cannabinoid activating CB2 receptors; found in [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], rosemary, basil, clove, cinnamon
 
 ### Lifestyle Factors
 - Cool sleeping environment
@@ -70,7 +70,7 @@ These findings align with broader research on the therapeutic potential and ecol
 
 ## Source
 
-Blesching, U. (2015). *The Cannabis Health Index*. Chapter IV: "Night Sweats." North Atlantic Books.
+Blesching, U. (2015). *The [[blesching-cannabis-health-index-autoimmune-conditions]]*. Chapter IV: "Night Sweats." North Atlantic Books.
 ## Practical Considerations
 
 Successful implementation of Cannabis for Night Sweats requires attention to
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

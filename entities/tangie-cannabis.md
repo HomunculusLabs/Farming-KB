@@ -14,14 +14,14 @@ sources:
 
 ## Overview
 
-Tangie is a sativa-dominant cannabis strain renowned for its vivid tangerine citrus aroma and uplifting cerebral effects. Created by crossing [[skunk-1]], Tangie is a modern revival of the popular Tangerine Dream phenotype that was highly sought-after in the 1990s Amsterdam coffeeshop scene. Originally bred by DNA Genetics, Tangie quickly became a staple in European cannabis culture before spreading to North American markets. With a distinctive sweet-tangerine bouquet that is among the most recognizable in cannabis, Tangie has earned a devoted following among both recreational consumers and medical patients. The strain consistently rates 4.5 out of 5 stars across major platforms and has accumulated nearly 30,000 followers on Leafly alone.
+Tangie is a sativa-dominant cannabis strain renowned for its vivid tangerine citrus aroma and uplifting cerebral effects. Created by crossing [[skunk-1]], Tangie is a modern revival of the popular Tangerine Dream phenotype that was highly sought-after in the 1990s Amsterdam coffeeshop scene. Originally bred by DNA Genetics, Tangie quickly became a staple in European [[mckenna-cannabis-culture-history]] before spreading to [[growing-gourmet-north-american-reishi-species]] markets. With a distinctive sweet-tangerine bouquet that is among the most recognizable in cannabis, Tangie has earned a devoted following among both recreational consumers and medical patients. The strain consistently rates 4.5 out of 5 stars across major platforms and has accumulated nearly 30,000 followers on Leafly alone.
 
 ## Lineage and Breeding History
 
 - **Type:** Sativa (pure sativa classification)
 - **Lineage:** California Orange × Skunk #1
   - **California Orange** (also known as Cali-O): A classic sativa-dominant strain known for its sweet orange flavor and balanced effects — provides Tangie's citrus foundation and uplifting character
-  - **Skunk #1:** The foundational hybrid that underpins much of modern cannabis breeding — contributes potency, yield, and the skunky undertone that balances the sweetness
+  - **Skunk #1:** The foundational hybrid that underpins much of modern [[oner-cannabis-breeding-fundamentals]] — contributes potency, yield, and the skunky undertone that balances the sweetness
 - **Breeder:** DNA Genetics (Amsterdam-based seed company)
 - **Year introduced:** Approximately 2012–2013, gaining prominence after winning the High Times Cannabis Cup
 - **Genetic inspiration:** Tangie was developed as a remake of the legendary Tangerine Dream, a phenotype that circulated in Amsterdam coffeeshops during the 1990s and was prized for its exceptional citrus flavor profile
@@ -46,11 +46,11 @@ Tangie's terpene profile is dominated by citrus-forward compounds that produce i
 
 Tangie exhibits classic sativa growth patterns and is moderately challenging to cultivate:
 
-- **Plant structure:** Medium to tall height with vigorous vegetative growth. Develops strong lateral branching with elongated, slightly airy buds typical of sativa varieties.
+- **Plant structure:** Medium to tall height with vigorous [[cannabis-vegetative-growth-stage]]. Develops strong lateral branching with elongated, slightly airy buds typical of sativa varieties.
 - **Flowering time:** Approximately 9–10 weeks indoors (66 days average). Outdoor harvest in late October to early November in the Northern Hemisphere.
 - **Yield:** High. Indoor yields of 450–550 g/m² are typical. Outdoor plants can produce substantial harvests under favorable conditions.
 - **Preferred environment:** Performs best outdoors in warm, Mediterranean-like climates. Can be grown indoors but requires adequate vertical space due to sativa stretch.
-- **Growing difficulty:** Moderate. Responds well to topping and training techniques (LST, SCROG) to manage height and maximize light exposure. Medium to heavy feeder during vegetative and early flowering stages.
+- **Growing difficulty:** Moderate. Responds well to topping and [[cannabis-training-techniques-comparison]] (LST, SCROG) to manage height and maximize light exposure. Medium to heavy feeder during vegetative and early flowering stages.
 - **Resin production:** Produces sticky, resin-coated buds with high trichome density, making it suitable for concentrate extraction.
 
 ## Effects Profile
@@ -88,7 +88,7 @@ Tangie's uplifting, clear-headed effects make it particularly well-suited for da
 - Has served as a parent strain for multiple award-winning hybrids including [[og-kush]] — Foundational West Coast indica-dominant hybrid for comparison
 - [[jack-herer]] — Classic sativa-dominant hybrid with comparable creative, cerebral effects
 - [[amnesia-haze]] — Sativa-dominant strain with similar potency and cerebral stimulation
-- [[cannabis-indoor-growing-basics]] — Pure landrace sativa with energetic daytime effects
+- [[cannabis-indoor-growing-basics]] — Pure [[african-landrace-sativa-modern-hybrids]] with energetic daytime effects
 - [[limonene]] — Citrus terpene key to Tangie's signature aroma
 - [[pinene]] — Pine terpene supporting Tangie's clear-headed focus
 - california-orange — Parent strain contributing citrus genetics

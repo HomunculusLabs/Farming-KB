@@ -37,8 +37,8 @@ Cannabis requires 16 essential elements for healthy growth. In a living soil sys
 - **Deficiency**: Lower leaves turn pale yellow (chlorosis), progressing upward. Stunted growth.
 - **Excess**: Dark green foliage, excessive stretching, delayed flowering, soft stems.
 - **Organic sources**: Blood meal, feather meal, alfalfa meal, fish meal, compost, worm castings
-- **Demand**: Highest during vegetative stage; reduced during flowering
-- **Microbiome impact**: Nitrogen is the single strongest predictor of cannabis microbial community composition (Winston et al. 2014, r-stat: 0.465). Both deficiency and excess alter which soil microbes thrive — aim for steady, moderate N rather than large fluctuations. See [[cannabis-root-microbiome]]
+- **Demand**: Highest during [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]; reduced during flowering
+- **Microbiome impact**: Nitrogen is the single strongest predictor of cannabis microbial [[core-endorhiza-bacterial-community-composition-cannabis]] (Winston et al. 2014, r-stat: 0.465). Both deficiency and excess alter which soil microbes thrive — aim for steady, moderate N rather than large fluctuations. See [[cannabis-root-microbiome]]
 
 ### Phosphorus (P)
 - **Role**: Root development, flower formation, energy transfer (ATP), seed production
@@ -59,7 +59,7 @@ Cannabis requires 16 essential elements for healthy growth. In a living soil sys
 - **Deficiency**: Distorted new growth, brown spots on leaves, root tips die back
 - **Organic sources**: Dolomite lime, oyster shell flour, gypsum, bone meal, eggshells
 - **Note**: Calcium is immobile in plants — deficiency shows in new growth first
-- Living soil with adequate amendment usually prevents calcium deficiency
+- Living soil with adequate amendment usually prevents [[knf-calcium-deficiency-symptoms]]
 
 ### Magnesium (Mg)
 - **Role**: Central atom in chlorophyll molecule, enzyme cofactor, phosphorus transport
@@ -81,7 +81,7 @@ Cannabis requires 16 essential elements for healthy growth. In a living soil sys
 | Zinc (Zn) | Growth hormone production, enzyme function | Small, distorted new leaves, short internodes | Kelp, compost, zinc sulfate |
 | Copper (Cu) | Lignin synthesis, respiration | Wilting, darkened or bluish leaves | Kelp, compost |
 | Boron (B) | Cell wall formation, pollen tube growth | Cracked stems, hollow stems, bud die-off | Borax (trace), kelp |
-| Molybdenum (Mo) | Nitrogen fixation, enzyme function | Similar to N deficiency, whiptail in leaves | Kelp, compost |
+| Molybdenum (Mo) | [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], enzyme function | Similar to N deficiency, whiptail in leaves | Kelp, compost |
 
 ## Nutrient Ratios by Stage (Living Soil)
 
@@ -103,7 +103,7 @@ In a [[cannabis-living-soil-guide]] system, the soil biology handles most nutrie
 - **Week 4-5 flower**: Langbeinite + oyster shell flour (K, Ca, Mg)
 
 ### Compost Tea Schedule
-- Aerated compost tea (ACT) every 1-2 weeks
+- [[actively-aerated-compost-tea-aact-brewing]] tea (ACT) every 1-2 weeks
 - Add molasses (1 tbsp/gallon) to feed microbial activity
 - Optional: add [[lactic-acid-bacteria-lab]] serum for additional terpene production support
 
@@ -120,37 +120,10 @@ Unlike hydroponics, living soil does not require strict pH management:
 Per Lowenfels' "Teaming With Nutrients", each nutrient has an optimal pH range. In living soil, microbes adjust local pH around roots through exudate production, making nutrients available that would otherwise be locked out. This is why living soil with active biology can support healthy plants across a wider pH range than hydroponic systems. Key lockouts to watch: Fe, Mn, Zn become unavailable above pH 7.5; Ca and Mg become deficient below pH 5.5.
 
 ### Nutrient Mobility and Deficiency Diagnosis (Lowenfels)
-Understanding nutrient mobility in the plant is key to diagnosing problems:
+Understanding [[plant-nutrient-mobility-in-soil]] the plant is key to diagnosing problems:
 - **Mobile nutrients** (N, P, K, Mg): Deficiency shows in OLDER leaves first — plant relocates them to new growth
 - **Immobile nutrients** (Ca, Fe, Mn, B, Cu, S, Mo): Deficiency shows in NEW growth first — cannot be relocated
 - This is why N deficiency yellows bottom leaves while Ca deficiency distorts top growth
-
-### Mycorrhizal Nutrient Uptake for Cannabis (Lowenfels)
-Per "Teaming With Fungi", cannabis forms arbuscular mycorrhizae with Rhizophagus intraradices and Funneliformis mosseae. Studies show:
-- Inoculated plants have increased growth and larger flowers
-- Full mycelial colonization can take up to 6 weeks from seed — benefits begin earlier as colonies establish
-- Mycorrhizae provide up to 80% of plant P and significant N from soil
-- Works in hydroponic substrates (rockwool) as well as living soil
-- Do NOT over-apply phosphorus — excess P (>70 ppm) inhibits mycorrhizal formation
-- See [[mycorrhizal-networks]] for full mycorrhizal ecology
-
-## Common Nutrient Problems and Causes
-
-| Problem | Likely Cause | Solution |
-|---|---|---|
-| Nitrogen deficiency early | Under-amended soil | Top-dress blood meal or compost |
-| Calcium deficiency | RO water, low pH | Add oyster shell flour or cal-mag |
-| Iron lockout | pH too high (>7.0) | Add elemental sulfur or acidic compost |
-| General yellowing | Overwatering, root issues | Let soil dry, check drainage |
-| Tip burn | Nutrient excess or light stress | Flush with plain water, raise lights |
-
-## Terpene and Cannabinoid Biosynthesis
-
-The biosynthesis of cannabinoids and terpenes shares precursors with fatty acid pathways:
-- Olivetolic acid production increases under UV-B light exposure
-- Hexanoyl-CoA (from hexanoate) is a primer for cannabinoid biosynthesis
-- Application of [[lactic-acid-bacteria-lab]] serum may provide hexanoic acid as a substrate, potentially boosting cannabinoid production
-- Adequate phosphorus and potassium during flowering supports terpene production
 
 ## Related Pages
 

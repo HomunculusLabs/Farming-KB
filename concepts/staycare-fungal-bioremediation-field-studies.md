@@ -19,7 +19,7 @@ type: concept
 ## Overview
 
 Field-scale and pilot studies represent the critical bridge between laboratory
-research on [[staycare-phanerochaete-chrysosporium-in-bioremediation]], Phanerochaete sordida, and Trametes hirsuta to detoxify
+research on [[staycare-phanerochaete-chrysosporium-in-bioremediation]], [[staycare-phanerochaete-sordida-in-bioremediation]], and Trametes hirsuta to detoxify
 PCP and creosote-contaminated soil. Key findings included:
 
 - P. sordida proved the most effective inoculant due to its high
@@ -34,7 +34,7 @@ Successful field application requires maintaining optimal conditions for
 both fungal growth and pollutant transformation:
 
 - **Moisture content**: must be carefully managed as it directly affects
-  fungal metabolic activity and enzyme production
+  fungal [[arbuscule-isolation-metabolic-activity-assays]] and enzyme production
 - **Soil pH**: each inoculant has optimal pH ranges for growth and enzyme
   activity; conditions should be maintained as close to optimal as
   economically possible
@@ -51,18 +51,18 @@ A variety of techniques are available to monitor fungal growth and activity
 in field soils, including:
 
 - Image analysis to quantify mycelial extension and coverage
-- Determination of extracellular enzyme activities in soil samples
+- Determination of [[dighton-fungal-extracellular-enzyme-systems-decomposition]] activities in soil samples
 - In situ fungal gene expression via extraction of fungal mRNA and
   subsequent quantification by reverse transcriptase polymerase chain
   reaction
-- Chemical analysis of pollutant concentrations and transformation products
+- [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of pollutant concentrations and transformation products
 - [[staycare-bioavailability-pollutants-fungal-bioremediation]]
   is a major factor controlling transformation rates
 - **Manganese addition**: stimulates fungal biotransformation of atrazine
-  by increasing membrane permeability and manganese peroxidase activity;
+  by increasing membrane permeability and [[fungal-manganese-peroxidase-remediation]] activity;
   soil solution concentrations range from 0.1 micromoles per liter in
   aerated alkaline soils to 400 micromoles per liter in submerged soils
-- **Organic amendments**: straw, wood chips, and other lignocellulosic
+- **[[cervantes-organic-amendments-chart]]**: straw, wood chips, and other lignocellulosic
   materials provide both a growth substrate for fungi and can enhance
   indigenous microbial activity
 

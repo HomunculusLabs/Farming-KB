@@ -1,16 +1,17 @@
 ---
-title: Pollen Collection and Storage for Cannabis Breeding
+title: cannabis-pollen-collection-storage-clarke and Storage for oner-cannabis-breeding-fundamentals
 created: 2026-04-26
 tags:
   - cannabis
   - breeding
   - pollen
   - pollination
-  - seed production
+  - [[cervantes-seed-production-storage]]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -18,7 +19,7 @@ type: concept
 
 Pollen collection is a critical skill for any cannabis breeder. Proper
 technique ensures viable pollen is available when needed for controlled
-crosses, while careful storage extends pollen's short natural shelf life
+crosses, while careful storage extends pollen's short natural [[psilocybin-shelf-life-stability]]
 to enable breeding across different flowering timelines.
 
 ## When to Collect Pollen
@@ -49,7 +50,7 @@ branch and bag so the pollen does not escape into the environment.
 ## Timing of Pollen Collection
 
 Different cannabis varieties release pollen at different times during
-the flowering cycle. Indica-dominant males tend to flower faster than
+the [[cannabis-sativa-flowering-cycle-management]]. Indica-dominant males tend to flower faster than
 sativa-dominant males. A breeder working with both types must time
 pollen collection carefully to have viable pollen available when the
 female plants are receptive.
@@ -116,3 +117,7 @@ keeps the rest of the crop seedless, which is critical for
 [[cervantes-seed-production-storage]] - Seed production overview
 - [[cannabis-genetics-and-breeding]] - Breeding fundamentals
 - [[cervantes-flowering-phase]] - Flowering cycle management
+
+## See Also
+
+- [[cannabis-pollen-collection-storage-clarke]]

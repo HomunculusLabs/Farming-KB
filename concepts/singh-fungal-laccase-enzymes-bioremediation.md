@@ -1,5 +1,5 @@
 ---
-title: "Fungal Laccase Enzymes in Bioremediation"
+title: "Fungal staycare-laccase-enzymes-in-bioremediation in Bioremediation"
 created: 2026-04-26
 tags:
   - laccase
@@ -47,7 +47,7 @@ non-enzymatic rearrangements, polymerizations, or quinone formation.
 Laccases exhibit remarkably broad substrate specificity, oxidizing:
 - Phenolic compounds and polyphenols
 - Aromatic amines and methoxy-substituted phenols
-- Polycyclic aromatic hydrocarbons (PAHs)
+- [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs)
 - Synthetic dyes including azo, anthraquinone, and triphenylmethane
   dyes
 - Polychlorinated biphenyls (PCBs)
@@ -65,8 +65,8 @@ potentials that native laccase alone cannot attack.
 
 White-rot basidiomycetes are the most prolific laccase producers:
 
-- [[cancer-medicinal-mushrooms-pleurotus-ostreatus]] and pleurotus eryngii: Oyster mushrooms
-  that produce both laccase and versatile peroxidase, enabling
+- [[cancer-medicinal-mushrooms-pleurotus-ostreatus]] and pleurotus eryngii: [[query-how-to-grow-oyster-mushrooms-at-home]]
+  that produce both laccase and [[singh-versatile-peroxidase-vp-multifunctional]], enabling
   synergistic degradation of complex pollutants.
 - [[aspergillus-niger-in-fungal-bioleaching]], neurospora crassa,
 and botrytis cinerea also produce laccases, though generally at lower
@@ -76,7 +76,7 @@ specific activities compared to basidiomycetes.
 
 Laccases are deployed across multiple bioremediation contexts:
 
-1. **Textile wastewater treatment**: Decolorization of synthetic dyes
+1. **Textile [[mollison-designers-wastewater-treatment-wetlands]]**: Decolorization of synthetic dyes
    from textile effluents, achieving >90% color removal for many azo
    and anthraquinone dyes within 24-72 hours.
 2. **Phenolic waste treatment**: Removal of phenols from industrial
@@ -103,7 +103,7 @@ Laccase production and activity are influenced by:
   60 degrees C, with thermotolerant strains retaining activity above 70
   degrees C.
 - **Cultivation mode**: Solid-state fermentation often yields higher
-  laccase titers than submerged fermentation for many fungal species.
+  laccase titers than [[cancer-medicinal-mushrooms-submerged-fermentation-production]] for many fungal species.
 
 ## See Also
 

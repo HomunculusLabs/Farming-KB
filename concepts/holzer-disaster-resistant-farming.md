@@ -5,7 +5,8 @@ updated: 2026-04-14
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 ## Building Resilience Through Diversity
 
@@ -36,15 +37,15 @@ The Chernobyl disaster (1986) wiped out Holzer's mushroom income overnight despi
 - The more diverse the system, the more stable it will be
 
 ### Against Disease
-- Old varieties bred for local conditions are more disease-resistant than modern hybrids
+- [[holzer-old-varieties-and-seed-saving]] bred for local conditions are more disease-resistant than modern hybrids
 - Plants growing in their preferred location (right soil, moisture, sun) develop higher nutrient content and natural disease resistance
 - Strong, healthy plants are less susceptible -- insects prefer weakened plants
 - No chemical inputs means soil life remains intact, supporting plant immune systems
 
 ### Against Extreme Weather
 - Terraces prevent erosion on steep slopes during heavy rainfall
-- Humus storage ditches and ponds manage excess water
-- Green manure left standing protects soil from frost and wind
+- [[holzer-humus-storage-ditches]] ditches and ponds manage excess water
+- [[comparison-green-manure-guide-vs-mulch-types-and-effects]] left standing protects soil from frost and wind
 - Microclimates created by water bodies, stones, and windbreaks buffer temperature extremes
 - Deep-rooted plants on slopes prevent landslides
 - No bare soil means no wind erosion
@@ -53,7 +54,7 @@ The Chernobyl disaster (1986) wiped out Holzer's mushroom income overnight despi
 - 60 ponds and water gardens across the farm provide water reserves
 - Humus-rich soil retains moisture far better than depleted soil
 - Mulch prevents evaporation
-- Raised beds soak up and store rainwater like a sponge
+- [[comparison-raised-beds-vs-hugelkultur]] soak up and store rainwater like a sponge
 - Plants selected for local conditions require no additional irrigation
 
 ## Soil Resilience
@@ -62,7 +63,7 @@ The Chernobyl disaster (1986) wiped out Holzer's mushroom income overnight despi
 - Continuous green manure maintains and builds humus
 - Polycultures do not exhaust any single nutrient
 - Earthworms and other soil organisms maintain soil structure
-- Mycorrhizal networks help plants access water and nutrients during stress
+- [[dighton-mycorrhizal-networks-carbon-transfer]] help plants access water and nutrients during stress
 
 ## Livestock Resilience
 
@@ -70,7 +71,7 @@ The Chernobyl disaster (1986) wiped out Holzer's mushroom income overnight despi
 - Outdoor living builds natural immunity
 - Diverse forage in polyculture paddocks provides balanced nutrition
 - Earth-sheltered housing provides protection without energy inputs
-- Poultry serve as alarm systems and pest control, adding another function
+- Poultry serve as alarm systems and [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], adding another function
 
 ## Project Adaptability
 

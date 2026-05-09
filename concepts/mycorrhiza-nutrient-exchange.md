@@ -1,5 +1,5 @@
 ---
-title: Mycorrhiza Nutrient Exchange
+title: Mycorrhiza arbuscule-isolation-and-nutrient-exchange-mechanisms
 created: 2026-04-28
 tags: [nutrient-cycling, phosphorus, nitrogen, mycorrhiza, plant-nutrition]
 date: 2026-04-25
@@ -12,7 +12,7 @@ type: concept
 
 ## The Carbon-For-Nutrients Trade
 
-Mycorrhizal symbiosis is fundamentally a bi-directional exchange: carbon
+[[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] is fundamentally a bi-directional exchange: carbon
 flows from plant to fungus while inorganic nutrients move from fungus to
 plant. The fungus helps the host plant absorb inorganic nitrogen and
 phosphorus from the soil, and in return receives carbohydrates produced
@@ -47,7 +47,7 @@ tissue.
 
 For ectomycorrhizal fungi such as *Hebeloma cylindrosporum*, acid
 phosphatase activity on extramatrical hyphae is typically much more
-pronounced than alkaline phosphatase activity. In arbuscular mycorrhizal
+pronounced than alkaline phosphatase activity. In [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]]
 fungi, the situation varies by species: *Glomus intraradices* shows higher
 alkaline than acid phosphatase activity in extraradical mycelium, while
 *Scutellospora calospora* shows the inverse pattern.
@@ -59,7 +59,7 @@ that coils, like arbuscules, function in phosphorus transfer.
 
 ## Nitrogen Uptake
 
-Mycorrhizal fungi significantly enhance plant nitrogen acquisition. Studies
+Mycorrhizal fungi significantly enhance plant [[fungal-bacterial-predators-nitrogen-acquisition-soil-ecology]]. Studies
 using compartmented culture systems and isotopic tracers have demonstrated
 the essential role of AM fungi in nitrogen uptake and its subsequent
 translocation to host plants. Microelectrode measurements along
@@ -93,7 +93,7 @@ used for these in vitro cultures.
 
 The interaction between rhizobia and arbuscular mycorrhiza fungi has
 received considerable attention because of the relatively high phosphorus
-demand of nitrogen fixation. The two symbioses typically act synergistically,
+demand of [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. The two symbioses typically act synergistically,
 resulting in greater nitrogen and phosphorus content in combination than when
 each is inoculated onto the legume alone. Legumes are typically coarse-rooted
 and therefore inefficient in extracting phosphorus from soil. AM fungi
@@ -121,7 +121,7 @@ Mycorrhizal fungi form a complex web that captures and assimilates
 nutrients, conserving the nutrient capital in soils. In non-mycorrhizal
 conditions, much of this fertility is wasted or lost from the system. The
 mycorrhizal mycelium acts as a nutrient retention mechanism, reducing
-leaching losses and maintaining nutrient availability within the rooting
+leaching losses and maintaining [[ph-and-nutrient-availability-garden-soils]] within the rooting
 zone. This nutrient conservation function is especially important in
 nutrient-poor and disturbed ecosystems.
 

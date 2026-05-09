@@ -22,15 +22,15 @@ Biochar is a carbon-rich solid material produced through the pyrolysis of biomas
 
 ### Compost
 
-Compost is decomposed organic matter produced through aerobic microbial breakdown of feedstocks such as food waste, yard trimmings, and manure. It is rich in humus, macronutrients (NPK), micronutrients, and a diverse microbial community. Compost provides immediate soil fertility, improves [[soil-building-ecological-garden]], vegetable gardens, erosion control |
+Compost is decomposed [[hamilton-composting-and-organic-matter-management]] produced through aerobic microbial breakdown of feedstocks such as food waste, yard trimmings, and manure. It is rich in humus, macronutrients (NPK), micronutrients, and a diverse [[edaphic-factors-microbial-community-structure]]. Compost provides immediate soil fertility, improves [[soil-building-ecological-garden]], vegetable gardens, [[permplant-willows-salix-erosion-control-fodder]] |
 
 ## When to Use Biochar
 
-- **Nutrient leaching is a problem:** Biochar's porous structure adsorbs nutrients, reducing runoff in sandy or highly weathered soils. Cation exchange capacity (CEC) can increase by 20–50% with biochar application.
-- **Long-term carbon sequestration is a goal:** Biochar locks carbon into a stable form resistant to microbial decomposition for centuries. Approximately 50% of feedstock carbon is retained in biochar after pyrolysis.
+- **Nutrient leaching is a problem:** Biochar's porous structure adsorbs nutrients, reducing runoff in sandy or highly weathered soils. [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity (CEC) can increase by 20–50% with biochar application.
+- **Long-term [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] is a goal:** Biochar locks carbon into a stable form resistant to microbial decomposition for centuries. Approximately 50% of feedstock carbon is retained in biochar after pyrolysis.
 - **Acidic soils need liming:** Alkaline biochar (pH 8–11) can substitute for or supplement lime applications, particularly useful in tropical and subtropical regions with highly weathered, acidic soils.
 - **Drought-prone or sandy soils:** Biochar's water-holding capacity significantly improves moisture availability. Studies show 15–25% yield increases in drought conditions with biochar-amended soils.
-- **Heavy metal or contaminant remediation:** Biochar can immobilize certain heavy metals (Pb, Cd, Cu) and organic pollutants through surface adsorption and precipitation reactions.
+- **Heavy metal or contaminant remediation:** Biochar can immobilize certain [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] (Pb, Cd, Cu) and organic pollutants through surface adsorption and precipitation reactions.
 
 ## When to Use Compost
 
@@ -114,4 +114,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

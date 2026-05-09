@@ -15,7 +15,7 @@ updated: 2026-04-28
 sources:
   - "Clarke, R.C. & Merlin, M.D. (2013). \"Cannabis: Evolution and Ethnobotany.\" University of California Press."
   - "Green, J.M. (2009). \"The Cannabis Grow Bible.\" Green Candy Press."
-  - "ElSohly, M.A. et al. (2016). \"Changes in Cannabis Potency Over the Last Two Decades.\" Biological Psychiatry, 79(7), 613-619."
+  - "ElSohly, M.A. et al. (2016). \"Changes in [[green-cannabis-potency-maximizing]] Over the Last Two Decades.\" Biological Psychiatry, 79(7), 613-619."
   - "Hazekamp, A. & Fischedick, J.T. (2012). \"Cannabis — from cultivar to chemovar.\" Drug Testing and Analysis, 4(7-8), 660-667."
 ---
 
@@ -23,9 +23,9 @@ sources:
 
 ## Overview
 
-White Widow is an indica-dominant hybrid cannabis strain created in the
+White Widow is an indica-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] created in the
 Netherlands during the early 1990s, widely regarded as one of the most
-influential strains in modern cannabis breeding.
+influential strains in modern [[oner-cannabis-breeding-fundamentals]].
 
 Bred by Shantibaba of Green House Seeds in Amsterdam, White Widow earned
 its name from the dense coating of white trichomes that covers mature buds,
@@ -37,12 +37,12 @@ decades after its release. It won the High Times Cannabis Cup in 1995.
 
 ## Lineage
 
-White Widow is a cross between a Brazilian sativa landrace and a
+White Widow is a cross between a Brazilian [[cannabis-sativa-landrace-strains]] and a
 South Indian indica landrace.
 
 The Brazilian parent contributes uplifting cerebral effects, vigorous
 stretch during flowering, and resistance to mold. The South Indian
-parent provides dense bud structure, heavy resin production, and the
+parent provides dense bud structure, heavy [[cannabis-glandular-trichome-types-resin-production-clarke]], and the
 relaxing body effects characteristic of indica genetics.
 
 Genetic ratio is approximately 60% indica / 40% sativa, though this
@@ -115,7 +115,7 @@ September to mid-October. Plants produce medium-to-high yields of
 
 The strain responds well to both soil and hydroponic systems. It has
 good resistance to mold and pests, inherited from its landrace parents.
-Plant height reaches 80–140 cm indoors; training techniques (SCROG,
+Plant height reaches 80–140 cm indoors; [[cannabis-training-techniques-comparison]] (SCROG,
 LST) improve yield and light penetration.
 
 White Widow performs best with moderate nutrient levels and benefits

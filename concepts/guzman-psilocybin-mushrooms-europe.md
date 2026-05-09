@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Mushrooms of Europe
+title: forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of Europe
 created: 2026-04-26
 aliases:
   - Neurotropic fungi of Europe
@@ -24,7 +24,7 @@ updated: 2026-04-26
 Europe has a well-documented neurotropic mycobiota, particularly in western and
 central regions. While Europe has fewer Psilocybe species than tropical regions,
 several species are widespread and well-studied, including the famous liberty cap
-(Psilocybe semilanceata), which is the most commonly consumed wild psilocybin
+([[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]), which is the most commonly consumed wild psilocybin
 mushroom globally.
 
 ## Widely Distributed European Species
@@ -70,17 +70,17 @@ silvatica, P. strictipes, P. pelliculosa.
 
 ### Great Britain and Ireland
 The British Isles are particularly well-documented. Key species: Amanita
-muscaria, A. pantherina, Claviceps purpurea, Conocybe kuehneriana, Copelandia
+muscaria, A. pantherina, [[bloomfield-ergot-claviceps-purpurea-ergotism]], Conocybe kuehneriana, Copelandia
 cyanescens, [[inocybe-aeruginascens-profile]] (first described from Germany by Babos 1968), I.
 coelestium, I. corydalina (both varieties), I. haemacta, Psilocybe
 bohemica, P. cyanescens, P. mairei, P. semilanceata, P. serbica, P.
 strictipes.
 
 ### France
-Amanita muscaria, A. pantherina, Claviceps purpurea, Copelandia anomala, C.
-cyanescens, Inocybe aeruginascens, I. corydalina, I. haemacta, Panaeolina
+[[allegro-amanita-muscaria-properties-and-pharmacology]], A. pantherina, Claviceps purpurea, Copelandia anomala, C.
+cyanescens, [[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]], I. corydalina, I. haemacta, Panaeolina
 foenisecii, Panaeolus papilionaceus, P. subbalteatus, [[gymnopilus-purpuratus-profile]], G. spectabilis, Inocybe aeruginascens, I. corydalina
-(both varieties), I. haemacta, Panaeolus papilionaceus, Pluteus salicinus,
+(both varieties), I. haemacta, Panaeolus papilionaceus, [[gartz-pluteus-salicinus-wood-inhabiting-psilocybin]],
 Psilocybe cyanescens, P. liniformans var. liniformans, P. puberula, P.
 semilanceata, P. strictipes.
 

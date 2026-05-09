@@ -2,7 +2,7 @@
 
 ## Overview
 
-[[raised-bed-gardening]] gardening, popularized by John
+ gardening, popularized by John
 Jeavons and widely adopted since the 1970s, is not the optimal approach for most
 home food gardeners. Through years of variety trials at his [[john-jeavons]] was the leading advocate,
 and Solomon himself wrote three gardening books recommending intensive methods.
@@ -30,9 +30,9 @@ more succulent vegetables that are faster to harvest and clean.
 
 ### Column 3: Extensive Spacing (Good Rainfall)
 
-Small plants on wide raised beds, larger ones in slightly raised single rows,
+Small plants on wide [[comparison-raised-beds-vs-hugelkultur]], larger ones in slightly raised single rows,
 sprawling species in widely spaced hills. Crops like corn and okra are grown
-on flat ground. Even after crop growth makes it difficult to walk between
+on flat ground. Even after [[coleman-sunlight-and-winter-crop-growth-rates]] makes it difficult to walk between
 rows, a garden using this spacing may go through rainless weeks without
 significant moisture stress because plants have spread sufficient roots to
 benefit from capillary moisture rising from the subsoil. Weeds are easy to

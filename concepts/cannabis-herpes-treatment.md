@@ -3,7 +3,7 @@ title: Cannabis Treatment for Herpes
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "Blesching - The Cannabis Health Index"
+  - "Blesching - The blesching-cannabis-health-index-autoimmune-conditions"
 type: concept
 tags: [cannabis]
 ---

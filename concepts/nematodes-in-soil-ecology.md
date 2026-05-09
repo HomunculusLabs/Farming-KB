@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Nematodes are nonsegmented, blind roundworms that are the second most dominant form of animal life after arthropods. Over 20,000 species have been identified, with scientists suggesting as many as 1 million may exist. Most gardeners only know the parasitic root-feeders, but the majority of nematodes are beneficial mineralizers crucial to soil nutrient cycling.
+Nematodes are nonsegmented, blind roundworms that are the second most dominant form of animal life after arthropods. Over 20,000 species have been identified, with scientists suggesting as many as 1 million may exist. Most gardeners only know the parasitic root-feeders, but the majority of nematodes are beneficial mineralizers crucial to soil [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 ## The Five Feeding Groups
 
@@ -26,7 +26,7 @@ Have stylet mouthparts for puncturing the chitin cell walls of fungal hyphae. Li
 
 ### Predatory Nematodes
 
-Feed on protozoa, algae, other small soil food web members, and even other nematodes. They prevent overgrazing of bacteria and fungi and keep destructive nematode populations (especially root-feeders) in check. The first beneficial nematodes sold commercially for gardening were used to control slugs.
+Feed on protozoa, algae, other small soil food web members, and even other nematodes. They prevent overgrazing of bacteria and fungi and keep destructive nematode populations (especially root-feeders) in check. The first [[ingham-beneficial-nematodes-soil-food-web]] sold commercially for gardening were used to control slugs.
 
 ### Root-Feeding Nematodes (Herbivores/Plant Parasites)
 
@@ -34,7 +34,7 @@ Have needle-like stylets that puncture plant cell walls. They can be ectoparasit
 
 ### Omnivorous Nematodes
 
-Eat any and all of the above, down to the merest fungus spore. Some also ingest organic matter directly, contributing to decomposition.
+Eat any and all of the above, down to the merest [[bloomfield-sphaerobolus-artillery-fungus-spore-launch]]. Some also ingest [[hamilton-composting-and-organic-matter-management]] directly, contributing to decomposition.
 
 ## Numbers in Soil
 
@@ -58,7 +58,7 @@ Because nematodes are larger than bacteria, fungi, and protozoa, they require mo
 
 Nematodes serve multiple critical functions:
 
-- **Nutrient cycling**: Bacterial and fungal feeders mineralize nutrients
+- **Nutrient cycling**: [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] feeders mineralize nutrients
 - **Population control**: Predators keep root-feeding and other nematode species in check
 - **Food source**: They are prey for larger organisms (microarthropods, some fungi)
 - **Decomposition**: Their movement and feeding indirectly promote organic matter breakdown
@@ -74,7 +74,7 @@ Nematodes serve multiple critical functions:
 
 **To suppress root-feeding nematodes:**
 - Build a diverse food web with adequate predators
-- Use cover crops (some, like marigolds, have nematicidal properties)
+- Use [[gaias-garden-cover-crops-soil-building]] (some, like marigolds, have nematicidal properties)
 - Ensure good fungal dominance where appropriate ([[bacterial-vs-fungal-soil]])
 - Avoid over-fertilization with nitrogen which can favor root-feeders
 

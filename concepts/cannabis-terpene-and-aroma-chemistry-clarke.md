@@ -1,5 +1,5 @@
 ---
-title: Cannabis Terpene and Aroma Chemistry (Clarke)
+title: oner-cannabis-terpene-profiles-effects and Aroma Chemistry (Clarke)
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -40,13 +40,13 @@ There is often a large difference between the aroma of fresh and dry floral clus
 Biosynthetic relationships between terpenes and cannabinoids have been firmly established. Cannabinoids are synthesized within the plant from terpene precursors. Changes in aromatic terpene levels parallel changes in cannabinoid levels during maturation. As connections between aroma and psychoactivity are uncovered, the breeder will be better able to make field selections of prospective high-THC parents without complicated analysis.
 
 ### Terpene Biosynthesis Pathways
-Cannabis terpenes are produced through two primary biosynthetic pathways in the plant:
+[[query-what-are-cannabis-terpenes-and-why-do-they-matter]] are produced through two primary biosynthetic pathways in the plant:
 - **Mevalonate pathway (MVA)**: Operates in the cytosol; produces sesquiterpenes (C15) such as caryophyllene and humulene from three isoprene units. The enzyme farnesyl pyrophosphate synthase catalyzes the key condensation step
 - **MEP/DOXP pathway**: Operates in plastids; produces monoterpenes (C10) such as myrcene, limonene, pinene, and linalool from two isoprene units. Geranyl pyrophosphate (GPP) is the key intermediate
-The olivetolic acid precursor for cannabinoid biosynthesis is produced via a polyketide pathway, which then combines with GPP (from the MEP pathway) through the action of the prenyltransferase enzyme GOT (geranyltransferase) to form CBGA (cannabigerolic acid) -- the universal cannabinoid precursor. This shared terpene precursor means that conditions favoring terpene production (intense light, warm temperatures, low nitrogen) simultaneously promote cannabinoid biosynthesis.
+The olivetolic acid precursor for [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]] is produced via a polyketide pathway, which then combines with GPP (from the MEP pathway) through the action of the prenyltransferase enzyme GOT (geranyltransferase) to form CBGA (cannabigerolic acid) -- the universal cannabinoid precursor. This shared terpene precursor means that conditions favoring terpene production (intense light, warm temperatures, low nitrogen) simultaneously promote cannabinoid biosynthesis.
 
 ### Terpene-Cannabinoid Synergy (Entourage Effect)
-Terpenes may modulate the pharmacological effects of cannabinoids through several mechanisms: influencing cannabinoid receptor binding affinity, altering cell membrane permeability to cannabinoids, and engaging independent receptor systems (such as caryophyllene at CB2). The terpene profile of a given cannabis strain may thus contribute significantly to its overall therapeutic and psychoactive character beyond what THC and CBD content alone would predict.
+Terpenes may modulate the pharmacological effects of cannabinoids through several mechanisms: influencing [[cannabis-cannabinoid-receptor-pharmacology]] binding affinity, altering cell membrane permeability to cannabinoids, and engaging independent receptor systems (such as caryophyllene at CB2). The terpene profile of a given cannabis strain may thus contribute significantly to its overall therapeutic and psychoactive character beyond what THC and CBD content alone would predict.
 
 ## Terpenes as Pest Defense
 
@@ -102,7 +102,7 @@ Cannabis resins deteriorate as they age, and the aromatic principles and cannabi
 
 ### Factors Affecting Terpene Retention
 The rate of terpene degradation depends on several environmental and storage factors:
-- **Temperature**: Terpenes are volatile organic compounds; storage above 20°C accelerates evaporation and oxidative degradation. Refrigeration (2-8°C) significantly extends shelf life
+- **Temperature**: Terpenes are [[fungal-volatile-organic-compounds-communication]] compounds; storage above 20°C accelerates evaporation and oxidative degradation. Refrigeration (2-8°C) significantly extends shelf life
 - **Light exposure**: UV radiation catalyzes terpene oxidation and cannabinoid conversion; amber glass or opaque containers are essential for long-term storage
 - **Oxygen**: Oxidation converts monoterpenes to terpene oxides and epoxides with altered aromas; vacuum-sealed or nitrogen-flushed containers minimize this degradation
 - **Humidity**: Excess moisture promotes microbial degradation of both terpenes and cannabinoids, while extremely dry conditions can accelerate terpene volatilization
@@ -110,7 +110,7 @@ The rate of terpene degradation depends on several environmental and storage fac
 
 ## Related Topics
 
-- [[cannabis-chemotype-classification-cannabinoid-breeding]] - Chemotype classification
+- [[cannabis-chemotype-classification-cannabinoid-breeding]] - [[cannabis-chemotype-classification-cannabinoid-breeding]]
 - [[cannabis-terpene-profile]] - Terpene profiles
 
 ## See Also

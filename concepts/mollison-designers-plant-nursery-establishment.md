@@ -34,7 +34,7 @@ out to a carefully-designed long-term plan.
 
 Every plantation needs a mulched, shaded nursery, no matter how
 modest. Shade is most cheaply provided by light-foliaged legumes at
-wide spacing (such as Acacia or Albizia). The nursery should be
+[[solomon-wide-spacing-versus-intensive-gardening-debate]] (such as Acacia or Albizia). The nursery should be
 established early in the planning stages as one of the critical
 first priorities, along with access ways, shelter, and water supply.
 
@@ -44,15 +44,15 @@ first priorities, along with access ways, shelter, and water supply.
 Shade is essential for tender seedlings and cuttings. In tropical
 and subtropical areas, 30-50% shade cloth or living shade from
 light-foliaged legumes is appropriate. In cooler climates, a simple
-glasshouse or cold frame provides both warmth and protection from
+glasshouse or [[comparison-cold-frame-gardening-vs-container-gardening-guide]] provides both warmth and protection from
 wind. The [[mollison-designers-seed-pelleting-and-pretreatment]],
-potting soils should incorporate soil from nodulating legume trees
+potting soils should incorporate soil from nodulating [[permaculture-plants-legume-trees-acacia-carob-locust]]
 to provide inoculant.
 
 ### Irrigation
 A reliable water supply is critical. Hand watering, mist systems,
-or gravity-fed drip irrigation all serve. Wastewater from the house
-can be directed to nursery beds, connecting to [[mollison-seed-resources-and-sovereignty]]
+or gravity-fed [[comparison-drip-irrigation-vs-passive-irrigation]] all serve. Wastewater from the house
+can be directed to nursery beds, connecting to mollison-seed-resources-and-sovereignty
 and reduces establishment costs.
 
 Many useful plants can be propagated from cuttings, divisions,
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

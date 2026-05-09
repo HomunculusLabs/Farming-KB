@@ -1,118 +1,149 @@
 ---
 title: Marine Mycelial Fungi
 created: 2026-04-16
-updated: 2026-04-16
+updated: 2026-05-09
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi, marine-biology, ecology]
 sources: []
 ---
 # Marine Mycelial Fungi
 
 ## Overview
 
-The existence of indigenous fungi confined to marine habitats was not recognized until about 40 years before the publication of "Biodiversity of Fungi" (Johnson and Sparrow 1961). Marine fungi are not a taxonomic group but are defined ecologically. Marine and estuarine environments -- oceans, shores, river mouths, tidal creeks, sounds, lagoons, and connected saltwater bodies -- occupy 75% of the globe. Inland salt lakes are also included as their mycota appears identical to oceanic mycota.
+The existence of indigenous fungi confined to marine habitats was not
+recognized until about 40 years before the publication of
+"[[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]" (Johnson and Sparrow 1961). Marine fungi are
+not a taxonomic group but are defined ecologically. Marine and
+estuarine environments -- oceans, shores, river mouths, tidal creeks,
+sounds, lagoons, and connected saltwater bodies -- occupy 75% of the
+globe. Inland salt lakes are also included as their mycota appears
+identical to oceanic mycota.
 
 ## Ecological Definitions
 
 Kohlmeyer and Kohlmeyer (1979) proposed key ecological categories:
 
-- **Obligate marine fungi**: Grow and sporulate exclusively in marine or estuarine habitats; permanently or intermittently submerged
-- **Facultative marine fungi**: Normally occupy freshwater or terrestrial milieus but can grow (and possibly sporulate) in marine environments
-- **Terrestrial but halotolerant**: Restricted to immersed parts of estuarine or marine plants
+- **Obligate marine fungi**: Grow and sporulate exclusively in marine
+  or estuarine habitats; permanently or intermittently submerged.
+- **Facultative marine fungi**: Normally occupy freshwater or
+  terrestrial milieus but can grow (and possibly sporulate) in marine
+  environments.
+- **Terrestrial but halotolerant**: Restricted to immersed parts of
+  estuarine or marine plants.
+
+These categories reflect the continuum from fully marine to
+terrestrial lifestyles and complicate [[fungal-biodiversity-estimates]].
 
 ## Eumycota (True Fungi)
 
 ### Habitats and Modes of Life
 
-Marine eumycotic fungi are:
+Marine eumycotic fungi occupy diverse [[ecological-roles-fungi-ecosystems]]:
 
-- **Saprotrophs**: Important decomposers of cellulose (driftwood, pilings, mangrove roots, marsh plants), washed-up algae, seagrass leaves, and animal products (chitin, keratin, tunicin, calcium carbonate)
-- **Symbionts**: Form several types of associations:
-  - **Lichenoids**: With phototrophic partners (cyanobacteria or green algae); Halographis runica is an endolith in submerged snail shells and worm tubes
-  - **True submarine lichens**: Arthopyrenia halodytes in barnacle tests; Verrucaria serpuloides on submerged rocks
-  - **Mycophycobioses**: Obligate symbioses with marine macroalgae (e.g., Mycophycias ascophylli on Ascophyllum nodosum)
-- **Parasites**: About 40 species of higher marine fungi are parasitic, mostly Ascomycota on algae; Trichomycaris on crab carapace; Mycaureola dilseae (only known filamentous basidiomycete parasitizing algae)
+- **Saprotrophs**: Important decomposers of cellulose (driftwood,
+  pilings, mangrove roots, marsh plants), washed-up algae, seagrass
+  leaves, and animal products (chitin, keratin, tunicin, calcium
+  carbonate).
+- **Symbionts**: Form several types of associations, including
+  lichenoids with cyanobacteria or green algae (e.g., *Halographis
+  runica* in submerged snail shells), true submarine lichens
+  (*Arthopyrenia halodytes* in barnacle tests), and mycophycobioses
+  (obligate symbioses with [[seaweed-and-marine-macroalgae-in-agriculture]]).
+- **Parasites**: About 40 species of higher marine fungi are
+  parasitic, mostly Ascomycota on algae. *Mycaureola dilseae* is the
+  only known filamentous basidiomycete parasitizing algae.
 
-### Distribution
+### Distribution Patterns
 
-- Occur mainly in the intertidal zone where most hosts/substrata are located
-- Some species collected in deep sea (deepest record: 5,315 m)
-- Distribution limited primarily by availability of dissolved oxygen
-- No fungal settlement in "minimum oxygen zones" (below 0.30 ml/liter dissolved oxygen)
-- Growth occurs at oxygen contents of 1.26 ml/liter and above
+Marine fungi occur mainly in the intertidal zone where most organic
+substrata are deposited. Tropical and subtropical regions harbor
+greater species diversity than temperate zones. [[mangrove-ecosystems-and-coastal-restoration]]
+are particularly rich in marine fungal species, with estimates
+suggesting over 200 species associated with mangrove woody debris
+alone. Wood substrata support the highest diversity of all marine
+fungal habitats.
 
-### Size and Characteristics
+## Adaptations to Marine Environments
 
-- All marine fungi are microscopic
-- Largest marine Ascomycota and Basidiomycota are only 4-5 mm in diameter
-- Distinct from terrestrial counterparts in physiological requirements
+### Osmotic and Salinity Tolerance
 
-## Oomycota (Marine Mycelial Oomycetes)
+Marine fungi must cope with high and fluctuating salinity. Obligate
+marine species typically accumulate compatible solutes such as
+glycerol, mannitol, and arabitol to maintain cellular osmotic
+balance. Their cell walls often contain elevated levels of
+melanin and other pigments that provide additional protection
+against UV radiation and desiccation during low-tide exposure.
 
-### Classification Issues
+### Enzymatic Adaptations
 
-Marine oomycetes are phylogenetically distinct from true fungi:
+Marine wood-decomposing fungi produce cellulolytic and ligninolytic
+enzymes adapted to function at higher salinities than their
+terrestrial counterparts. Many also produce alginate lyases and
+other enzymes for degrading algal polysaccharides. These enzymatic
+capabilities allow marine fungi to access a wide range of substrata
+unavailable to strictly terrestrial species.
 
-- Classified as Oomycetes in Kingdom Chromista or Peronosporomycetes in Kingdom Straminipila
-- Diploid mycelial states (vs. haploid in eumycotic fungi)
-- Egglike sexual spores (oospores) after gametangial fusion
-- Biflagellate swimming zoospores as asexual propagules
-- Fungus-like morphologies likely arose through convergent evolution
+### Spore Dispersal Strategies
 
-### Ecological Role
+Marine fungal spores must survive immersion and locate appropriate
+substrata in a vast aquatic environment. Many produce appendaged
+spores (ascospores with gelatinous sheaths or filamentous
+attachments) that increase buoyancy and facilitate attachment to
+wood surfaces. Some species release spores in synchrony with tidal
+cycles to maximize the probability of encountering new substrata.
 
-Most marine mycelial oomycotes are decomposers:
+## Biogeochemical Roles
 
-- **Primary habitat**: Fallen leaves entering aquatic environments along coastlines
-- **Key ecosystem**: Mangroves (subtropical to tropical zones; 12 t/ha/year litterfall at equator)
-- **Halophytophthora species**: The most prominent marine oomycotic decomposers
-- **Timing**: Mycelial oomycotes begin occupying mangrove leaves within 2 hours of leaf fall; 80-100% of fallen leaves occupied within 24-48 hours of submergence
-- **Zoospore dispersal**: Spores released from submerged decaying leaves near mangrove stands; do not travel more than a few meters from source
-- **Temperate zones**: Also prominent leaf decomposers outside mangrove ecosystems (river mouths, landward edges of saltmarshes)
+### Carbon Cycling in Coastal Ecosystems
 
-### Distinct Decomposer Community
+Marine fungi are major decomposers of vascular plant debris in
+coastal waters, processing mangrove litter, seagrass detritus, and
+salt marsh plant material. Their enzymatic activities convert
+complex plant polymers into forms accessible to bacteria and other
+microorganisms, driving [[nutrient-cycling-in-soil]] coastal food webs.
 
-Marine oomycotes are a distinct part of the decomposer community of submerged mangrove leaves, separate from both marine eumycotic fungi and terrestrial decomposers. No freshwater mycelial oomycotes characteristic of freshwater have been found as participants in marine leaf-decomposition systems.
+Fungal decomposition rates vary with temperature, salinity, and
+substrate quality. In tropical mangroves, fungi can decompose wood
+within months, while in colder temperate waters, the same process
+may take years. This temperature dependence has implications for
+carbon storage in coastal ecosystems under climate change.
 
-## Biodiversity Inventory Methods
+### Nitrogen Fixation Associations
 
-### Collecting Methods
+Some marine fungi form associations with nitrogen-fixing bacteria
+within decaying wood and algal substrata. These consortia contribute
+fixed nitrogen to otherwise nitrogen-limited marine environments.
+The fungal mycelium provides physical structure and organic carbon
+for the bacterial partners, while receiving nitrogen in return.
 
-- Wood samples (driftwood, pilings, mangrove roots)
-- Marsh plant material
-- Algae (washed-up, attached)
-- Leaf litter (especially mangrove leaves for oomycotes)
-- Animal substrata (shells, chitin)
+## Taxonomic Diversity
 
-### Isolation
+### Dominant Groups
 
-- Direct observation of substrata under microscope
-- Baiting techniques with natural substrata
-- Culture on seawater-based media
-- Incubation at temperatures reflecting collection site
+Ascomycota dominate the marine mycota, accounting for approximately
+70-80% of described species. Basidiomycota are less common in marine
+environments but include some notable lignicolous species. The
+Chytridiomycota and other basal fungal lineages are represented
+primarily by zoosporic species that parasitize marine algae and
+invertebrates.
 
-## Key Sampling Considerations
+### Known and Estimated Diversity
 
-- Salinity of collection site must be recorded
-- Dissolved oxygen levels affect distribution
-- Seasonal variation in leaf fall and fungal activity
-- Zonation from marine to estuarine to freshwater
-- Distinction between obligate and facultative marine species requires careful documentation
+Fewer than 1,500 species of marine fungi have been formally
+described, but estimates based on molecular surveys suggest the true
+diversity may exceed 10,000 species. Molecular environmental DNA
+sampling has revealed numerous uncultured clades that appear to be
+specialized for marine lifestyles, indicating that conventional
+culture-based methods have captured only a fraction of marine fungal
+diversity.
 
-## Significance
+## Conservation and Threats
 
-Marine fungi are important for:
-
-- Decomposition of coastal plant material (especially mangrove leaves)
-- Carbon cycling in coastal ecosystems
-- Symbiotic relationships with marine algae
-- Understanding of convergent evolution (Oomycota vs. Eumycota)
-- Discovery of novel enzymes adapted to saline conditions
-- Potential sources of new bioactive compounds
-
+Coastal development, mangrove destruction, and marine pollution
+threaten marine fungal habitats worldwide. The loss of mangrove
+forests alone may drive hundreds of marine fungal species toward
+extinction before they are even described. Oil spills and chemical
 ## See Also
-
-- [[freshwater-fungi-biodiversity]]
-- [[zoosporic-fungi]]
-- [[fungal-decomposition-processes]]
-- [[fungal-role-in-carbon-cycling]]
+- [[dighton-fungi-aquatic-marine-faunal-interactions]]
+- [[marine-fungi-diversity-sampling]]
+- [[marine-estuarine-fungi]]

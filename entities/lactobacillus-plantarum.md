@@ -53,7 +53,7 @@ traditional food fermentation. It plays a central role in the production of:
 
 - **Vegetable fermentations** — L. plantarum is the dominant organism in the
   fermentation of sauerkraut, kimchi, pickled vegetables, and traditional
-  fermented vegetables worldwide. Its acid tolerance and competitive ability
+  [[comparison-fermented-vegetables-vs-canning]] worldwide. Its acid tolerance and competitive ability
   make it well-suited for these environments.
 - **Dairy fermentations** — It contributes to the ripening of certain cheeses
   and is used in some fermented milk products as an adjunct culture.
@@ -61,7 +61,7 @@ traditional food fermentation. It plays a central role in the production of:
   production of fermented sausages, salami, and other cured meat products,
   where it contributes to acidification, flavor development, and safety.
 - **Cereal and grain fermentations** — It is involved in the fermentation of
-  sourdough bread, traditional African fermented cereals, and grain-based
+  [[query-how-to-make-sourdough-bread-at-home]], traditional African fermented cereals, and grain-based
   beverages.
 - **Silage fermentation** — L. plantarum is widely used as an inoculant in
   agricultural silage production, improving preservation and nutritional
@@ -75,12 +75,12 @@ L. plantarum has been extensively studied for its probiotic characteristics:
   gastric acid and bile salts, enabling survival transit through the stomach.
 - **Competitive exclusion** — L. plantarum strains can inhibit pathogenic
   bacteria through production of bacteriocins (particularly plantaricins),
-  organic acids, and hydrogen peroxide.
-- **Immune modulation** — Research has demonstrated that certain strains can
+  organic acids, and [[cervantes-hydrogen-peroxide-sterilization]].
+- **[[cancer-immune-modulation-mechanisms]]** — Research has demonstrated that certain strains can
   modulate immune responses, enhancing intestinal barrier function.
 - **Anti-inflammatory effects** — Some strains have shown anti-inflammatory
   properties in clinical studies, potentially beneficial for conditions such
-  as irritable bowel syndrome and inflammatory bowel disease.
+  as [[blesching-cannabis-irritable-bowel-syndrome]] syndrome and [[blesching-cannabis-inflammatory-bowel-disease]] disease.
 
 ## Notable Strains
 
@@ -95,4 +95,5 @@ L. plantarum has been extensively studied for its probiotic characteristics:
 
 - [[natfarm-lacto-fermentation-preservation]]
 - [[cho-fermented-plant-juice-preparation]]
-- [[faires-pickling-and-advanced-fermentation]]
+- faires-pickling-and-advanced-fermentation
+- [[lactic-acid-bacteria]]

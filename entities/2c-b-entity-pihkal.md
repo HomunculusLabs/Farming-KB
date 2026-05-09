@@ -1,5 +1,5 @@
 ---
-title: "2C-B (4-Bromo-2,5-dimethoxy-PEA) -- PIHKAL Entry #20"
+title: "2C-B (4-Bromo-2,5-dimethoxy-PEA) -- 2c-b-pihkal-entry-20 #20"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -106,7 +106,7 @@ wrong vial. And my death was to be a consequence of a totally stupid
 
 A solution of 100 g of 2,5-dimethoxybenzaldehyde in 220 g
 nitromethane was treated with 10 g anhydrous ammonium acetate, and
-heated on a steam bath for 2.5 h with occasional swirling. The
+heated on a [[scythian-cannabis-steam-bath-ritual]] for 2.5 h with occasional swirling. The
 deep-red reaction mixture was stripped of the excess nitromethane
 under vacuum, and the residue crystallized spontaneously. This crude
 nitrostyrene was purified by grinding under IPA, filtering, and
@@ -129,7 +129,7 @@ The combined mother liquors and washings were freed of solvent under
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

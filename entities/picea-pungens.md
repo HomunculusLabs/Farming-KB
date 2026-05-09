@@ -10,8 +10,8 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Alexander, R.R. (1987). "Picea pungens — Blue Spruce." In: Burns, R.M. & Honkala, B.H. (eds.), Silvics of North America, Vol. 1. USDA Forest Service.
-  - Debreczy, Z. & Rácz, I. (2011). "Conifers Around the World." DendroPress.
+  - Alexander, R.R. (1987). "Picea pungens — Blue Spruce." In: Burns, R.M. & Honkala, B.H. (eds.), Silvics of psilocybin-north-america-pacific-northwest, Vol. 1. USDA Forest Service.
+  - Debreczy, Z. & Rácz, I. (2011). "Conifers [[fungi-around-the-world-species-distribution]]." DendroPress.
   - USDA NRCS (2023). "Picea pungens — Plant Guide." plants.usda.gov.
   - IUCN Red List (2023). "Picea pungens."
 ---
@@ -54,7 +54,7 @@ Elevational range extends from 1,800 to 3,400 meters. The species typically grow
 
 It prefers well-drained, loamy to sandy soils derived from igneous or sedimentary parent material. The species is adapted to cold continental climates with relatively low annual precipitation (400–1,000 mm).
 
-In its native range, blue spruce is most abundant in riparian corridors and ravines where moisture is available during the growing season. It is less drought-tolerant than many of its Rocky Mountain associates.
+In its native range, blue spruce is most abundant in riparian corridors and ravines where moisture is available during the [[savory-growing-season-and-non-growing-season-management]]. It is less drought-tolerant than many of its Rocky Mountain associates.
 
 The species often occurs as a codominant with Douglas-fir (*Pseudotsuga menziesii*), ponderosa pine (*Pinus ponderosa*), and quaking aspen (*Populus tremuloides*) at lower elevational limits of its range.
 
@@ -82,13 +82,13 @@ Blue spruce provides habitat and food for numerous wildlife species. The seeds a
 
 Mature trees provide nesting sites for raptors including Cooper's hawk and great horned owl. Dense foliage offers winter cover for deer, elk, and various small mammal species.
 
-The species forms ectomycorrhizal associations with a range of fungal taxa, enhancing nutrient uptake in the often nutrient-poor mountain soils it inhabits.
+The species forms ectomycorrhizal associations with a range of fungal taxa, enhancing [[plant-nutrient-uptake-mechanisms]] in the often nutrient-poor mountain soils it inhabits.
 
-Blue spruce is moderately susceptible to several pests and diseases. The spruce budworm (*Choristoneura fumiferana*), spruce gall adelgids (*Adelges* spp.), and cytospora canker (*Leucostoma kunzei*) are the most significant agents of damage.
+Blue spruce is moderately susceptible to several [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. The spruce budworm (*Choristoneura fumiferana*), spruce gall adelgids (*Adelges* spp.), and cytospora canker (*Leucostoma kunzei*) are the most significant agents of damage.
 
 In urban and ornamental settings, blue spruce is particularly vulnerable to spider mites (*Oligonychus ununguis*) during hot, dry summers, which can cause significant needle loss and aesthetic damage.
 
-Proper siting with adequate air circulation and soil moisture management can reduce mite pressure. Horticultural oils and miticides are commonly employed in managed landscapes.
+Proper siting with adequate [[stamets-growing-room-air-circulation-co2-management]] and soil moisture management can reduce mite pressure. Horticultural oils and miticides are commonly employed in managed landscapes.
 
 ## Timber and Uses
 

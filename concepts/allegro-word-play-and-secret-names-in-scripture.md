@@ -4,7 +4,8 @@ created: 2026-05-02
 updated: 2026-05-02
 type: concept
 tags: [history, mythology]
-sources: []
+sources:
+  - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 ---
 title: "Word Play and Secret Names in Scripture"
@@ -49,7 +50,7 @@ appreciate the deepest level.
 ## The Secret Mushroom Names
 
 Allegro listed several Sumerian phrases that he identified as the "secret
-names" of the sacred mushroom, arguing that much of the mythology and
+names" of the [[allegro-the-sacred-mushroom-amanita-identification]], arguing that much of the mythology and
 homiletics of both the Old and New Testaments was built upon word-play
 derived from these names. The principal names included compound Sumerian
 phrases describing the mushroom's physical characteristics: its shape (a
@@ -83,7 +84,7 @@ and "forgive" -- all concepts central to the Gospel message.
 
 Allegro demonstrated how what appear to be personal names in the biblical
 narrative are in fact disguised plant names, specifically mushroom names.
-The name "Jonah," for instance, he traced to mushroom nomenclature, noting
+The name "Jonah," for instance, he traced to [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]], noting
 that the famous plant that gave Jonah shade -- which "came into being in a
 night and perished in a night" and was subject to the depredation of worms
 -- was certainly a fungus.
@@ -100,7 +101,7 @@ Allegro devoted considerable attention to the classical problem of plant
 name confusion. Pliny the Elder and other ancient naturalists frequently
 complained that the same plant was known by multiple names, and that the
 same name was applied to different plants. This confusion, Allegro argued,
-was not accidental but was the direct result of the mushroom cult's practice
+was not accidental but was the direct result of the [[african-mushroom-cult-history]]'s practice
 of concealing the true identity of the sacred fungus by transferring its
 names to other plants.
 
@@ -108,7 +109,7 @@ The name "Paeony," for example, was traced to a Sumerian original meaning
 "capsule of fecundity; womb" -- a clear reference to the mushroom's volva.
 Pliny's description of the Paeony as a plant that "prevents the mocking
 delusions that the Fauns bring us in our sleep" made far more sense if the
-plant in question was actually the psychoactive [[faires-herbal-medicine-from-the-garden]] flower we know today.
+plant in question was actually the psychoactive faires-herbal-medicine-from-the-garden flower we know today.
 
 Similarly, the plant called Cotuledon (Navelwort) derived from Sumerian
 words meaning "ball-and-socket" or "penis-and-vulva," its sexual
@@ -128,4 +129,8 @@ mushroom references everywhere could find them anywhere, rendering it
 unfalsifiable. Nevertheless, the specific etymological connections Allegro
 proposed -- tracing individual words from Greek through Semitic languages
 to their Sumerian origins -- remain a provocative contribution to the study
-of ancient Near Eastern religion and linguistics.
+of [[allegro-fertility-philosophy-of-the-ancient-near-east]] Eastern religion and linguistics.
+
+## See Also
+
+- [[word-automation-and-macros]]

@@ -3,7 +3,7 @@
 
 ## Overview
 
-*Psilocybe tampanensis* and *Psilocybe mexicana* are notable among [[casing-layer-materials-and-formulas]] and fruiting chamber to produce harvestable
+*Psilocybe tampanensis* and *[[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]* are notable among casing-layer-materials-and-formulas and [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]] to produce harvestable
 tissue, these species can yield sclerotia entirely in vitro, simplifying cultivation
 considerably.
 
@@ -17,7 +17,7 @@ harvest, occurs within a sealed jar over approximately four months.
 
 - **Psilocybe tampanensis** — Originally discovered near Tampa, Florida in 1977, this rare
   species is known for producing moderately potent sclerotia. It is one of the less
-  commonly cultivated psilocybin mushrooms but is prized by enthusiasts for its unique
+  commonly cultivated [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] but is prized by enthusiasts for its unique
   sclerotia-forming ability and distinct alkaloid profile.
 
 - **Psilocybe mexicana** — A species native to high-altitude regions of Mexico with a long
@@ -49,7 +49,7 @@ uncolonized seed visible. The mycelium binds the grass seed into a cohesive whit
 
 ## Sclerotia Formation Phase
 
-After full colonization, the mycelium shifts from vegetative growth to sclerogenesis — the
+After full colonization, the mycelium shifts from [[cannabis-vegetative-growth-stage]] to sclerogenesis — the
 biological process of forming sclerotia. This transition occurs spontaneously and does not
 require any change in environmental conditions, substrate addition, or casing application.
 
@@ -66,14 +66,19 @@ To harvest, the consolidated substrate block is removed intact and carefully bro
 apart by hand. Sclerotia are separated from the remaining grass seed and mycelium,
 ## See Also
 
-- [[psilocybe-tampanensis-cultivation]]-species-profile
+- [[jar-shaking-colonization-acceleration-grain-spawn-grass-seed]]
+- [[sclerotia-timeline-and-harvest-optimization-psilocybe]]
+
+- [[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]]
+
+- psilocybe-tampanensis-cultivation-species-profile
 - [[grass-seed-cultivation-of-psilocybe-mushrooms]]-substrate-preparation
 - sterilization pressure cooker techniques
 - casing layer techniques trays
-- magic truffles potency comparison
+- magic truffles [[psilocybe-cubensis-strain-potency-comparison-amazon-mr-equadorian]]
 ## Practical Considerations
 
-Successful implementation of Sclerotia Timeline Psilocybe Tampanensis Mexicana Grass Seed Jar requires attention to
+Successful implementation of [[psilocybe-mexicana-sclerotia-timeline-dark-incubation-flush-pattern]] Psilocybe Tampanensis Mexicana Grass Seed Jar requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -89,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

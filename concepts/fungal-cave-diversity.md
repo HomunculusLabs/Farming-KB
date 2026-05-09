@@ -3,14 +3,10 @@ title: Fungal Diversity in Caves
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Diversity in Cave and Subterranean Environments
-
-Caves and subterranean environments represent unique fungal habitats characterized by constant temperature, high humidity, darkness, and limited organic matter input. These conditions select for specialized fungal communities adapted to perpetual darkness and oligotrophic conditions.
-
-[[fungal-biodiversity]]
+# Fungal Diversity in Cave and Subterranean Environments Caves and subterranean environments represent unique fungal habitats characterized by constant temperature, high humidity, darkness, and limited organic matter input. These conditions select for specialized fungal communities adapted to perpetual darkness and oligotrophic conditions. [[fungal-biodiversity]]
 
 ## Cave Fungal Habitats
 
@@ -18,17 +14,17 @@ Caves provide stable environments with constant temperature approximating the me
 
 Different cave zones, from entrance areas with some light to deep zones in perpetual darkness, support distinct fungal communities. Air currents, water flow patterns, and mineralogy create additional habitat variation within caves.
 
-[[fungal-environmental-sensing]]
+fungal-environmental-sensing
 
 ## Oligotrophic Cave Fungi
 
-Fungi in deep cave zones must grow oligotrophically, using extremely limited nutrient sources. Cave walls, sediments, and water films support slow-growing fungal communities adapted to nutrient scarcity. The nutrient flux in deep cave environments has been estimated at orders of magnitude below surface soils, creating conditions that select for fungi capable of sustained metabolic activity on minimal substrate availability.
+Fungi in deep cave zones must grow oligotrophically, using extremely limited nutrient sources. Cave walls, sediments, and water films support slow-growing fungal communities adapted to nutrient scarcity. The nutrient flux in deep cave environments has been estimated at orders of magnitude below surface soils, creating conditions that select for fungi capable of sustained [[arbuscule-isolation-metabolic-activity-assays]] on minimal substrate availability.
 
-The ability of fungi to grow on minimal nutrient inputs is a key adaptation for cave colonization. Many cave fungi grow very slowly and produce distinctive morphological features in response to the oligotrophic conditions. Some develop highly melanized cell walls that may serve dual functions: protecting against oxidative stress in the cave environment and slowing metabolic rates to conserve energy. Others produce extensive but sparsely branched mycelial networks that maximize surface area for nutrient absorption while minimizing the energetic cost of growth.
+The ability of fungi to grow on minimal nutrient inputs is a key adaptation for cave colonization. Many cave fungi grow very slowly and produce distinctive morphological features in response to the oligotrophic conditions. Some develop highly melanized cell walls that may serve dual functions: protecting against oxidative stress in the cave environment and slowing metabolic rates to conserve energy. Others produce extensive but sparsely branched [[fungal-mycelial-networks-nutrient-translocation]] that maximize surface area for nutrient absorption while minimizing the energetic cost of growth.
 
-Oligotrophic cave fungi have attracted interest from biotechnology researchers because their metabolic adaptations may produce novel enzymes and secondary metabolites. Extremotolerant fungi from cave environments have yielded compounds with antimicrobial, antioxidant, and anticancer properties in preliminary screening studies, suggesting that cave ecosystems may harbor untapped pharmacological resources.
+Oligotrophic cave fungi have attracted interest from biotechnology researchers because their metabolic adaptations may produce novel enzymes and [[antifungal-secondary-metabolites-coprophilous-fungi]]. Extremotolerant fungi from cave environments have yielded compounds with antimicrobial, antioxidant, and anticancer properties in preliminary screening studies, suggesting that cave ecosystems may harbor untapped pharmacological resources.
 
-[[fungal-functional-diversity]]
+fungal-functional-diversity
 
 ## Bat Guano Communities
 
@@ -52,7 +48,7 @@ Management of lampenflora and its associated fungal communities is an active are
 
 Fungal succession in caves follows organic matter input events. When organic material enters a cave, whether through flooding, animal activity, or surface input, a predictable sequence of fungal colonization occurs, from rapid colonizers exploiting simple compounds to slower-growing specialists.
 
-The slow rates of organic matter processing in caves mean that successional sequences play out over much longer timescales than in surface environments. Primary colonizers such as *Mucor* and *Rhizopus* species appear within days of organic matter introduction, rapidly utilizing simple sugars and amino acids. These are followed by *Penicillium* and *Aspergillus* species that decompose more complex polysaccharides and cellulose. Late-successional fungi, including some melanized species adapted to extremely low nutrient availability, may persist on mineral substrates long after the original organic input has been fully processed.
+The slow rates of organic matter processing in caves mean that successional sequences play out over much longer timescales than in surface environments. Primary colonizers such as *Mucor* and *Rhizopus* species appear within days of organic matter introduction, rapidly utilizing simple sugars and amino acids. These are followed by *Penicillium* and *Aspergillus* species that decompose more complex polysaccharides and cellulose. Late-successional fungi, including some melanized species adapted to extremely low [[ph-and-nutrient-availability-garden-soils]], may persist on mineral substrates long after the original organic input has been fully processed.
 
 Flood events in caves provide particularly important successional dynamics. Seasonal flooding deposits fresh organic material and sediment throughout cave passages, resetting successional clocks in affected zones. The fungal communities that develop in flood-affected areas often differ markedly from those in undisturbed cave zones, creating a mosaic of successional stages within a single cave system. Studying these flood-driven successional patterns provides insights into how cave ecosystems respond to disturbance and how quickly they recover.
 
@@ -66,7 +62,7 @@ Molecular methods are particularly valuable in cave environments, where many fun
 
 The physical challenges of cave sampling should not be underestimated. Access to deep cave zones often requires caving expertise and specialized equipment, limiting the number of researchers who can conduct in-situ sampling. Remote monitoring using sterile settle plates or passive air samplers left in place for weeks or months provides an alternative, but the risk of sample contamination or loss in the cave environment requires careful experimental design.
 
-[[culturing-culture-independent-fungi]]
+culturing-culture-independent-fungi
 
 ## Speleothem-Associated Fungi
 
@@ -90,7 +86,7 @@ Many cave fungal isolates show unique physiological adaptations not present in t
 
 ## Cave Fungi and Human Health
 
-Cave environments can harbor pathogenic fungi, particularly in guano-rich zones. *Histoplasma capsulatum*, the causative agent of histoplasmosis, thrives in bat guano deposits in caves and represents a significant occupational hazard for spelunkers, researchers, and cave workers. Other potentially pathogenic fungi found in caves include *Cryptococcus neoformans* and certain *Aspergillus* species capable of causing respiratory infections in immunocompromised individuals.
+Cave environments can harbor pathogenic fungi, particularly in guano-rich zones. *Histoplasma capsulatum*, the causative agent of histoplasmosis, thrives in bat guano deposits in caves and represents a significant occupational hazard for spelunkers, researchers, and cave workers. Other potentially pathogenic fungi found in caves include *[[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]]* and certain *Aspergillus* species capable of causing respiratory infections in immunocompromised individuals.
 
 The relatively stable conditions of caves may serve as reservoirs for these pathogens, maintaining viable populations over extended periods. Understanding cave fungal ecology is therefore not only relevant to conservation but also to public health monitoring in regions with significant cave visitation or where cave-derived materials (guano, sediments) are used in agriculture.
 
@@ -98,7 +94,7 @@ The relatively stable conditions of caves may serve as reservoirs for these path
 
 Cave fungal communities are vulnerable to disturbance from tourism, pollution, and changes in surface ecosystems that affect organic matter input and water quality. Cave conservation must consider the fungal component of these fragile ecosystems.
 
-Cave management practices can directly affect fungal communities in several ways. Gate installation at cave entrances alters airflow patterns and humidity regimes that fungi depend on, sometimes unintentionally shifting community composition. Human visitation introduces organic matter (hair, skin cells, lint) and microbial propagules from the surface that can overwhelm native cave microorganisms. Chemical contaminants from agricultural runoff or industrial pollution entering through groundwater can be toxic to sensitive cave fungi or can stimulate opportunistic species that outcompete native communities.
+Cave management practices can directly affect fungal communities in several ways. Gate installation at cave entrances alters airflow patterns and humidity regimes that fungi depend on, sometimes unintentionally shifting [[core-endorhiza-bacterial-community-composition-cannabis]]. Human visitation introduces organic matter (hair, skin cells, lint) and microbial propagules from the surface that can overwhelm native cave microorganisms. Chemical contaminants from agricultural runoff or industrial pollution entering through groundwater can be toxic to sensitive cave fungi or can stimulate opportunistic species that outcompete native communities.
 
 White-nose syndrome, caused by the fungus *Pseudogymnoascus destructans*, dramatically illustrates the vulnerability of cave ecosystems to fungal disturbance. While this pathogen primarily affects hibernating bats, its introduction to North American caves from Eurasia demonstrates how easily cave microbial communities can be disrupted by novel organisms introduced through human activity.
 

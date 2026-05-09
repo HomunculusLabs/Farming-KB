@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-**Utricularia vulgaris**, the common bladderwort, is a free-floating aquatic carnivorous plant with a circumboreal distribution. It is one of the most widely distributed carnivorous plant species, occurring across Europe, Asia, and North America.
+**Utricularia vulgaris**, the common bladderwort, is a free-floating aquatic carnivorous plant with a circumboreal distribution. It is one of the most widely distributed carnivorous plant species, occurring across Europe, Asia, and [[psilocybin-north-america-pacific-northwest]].
 
 The species is named for its numerous microscopic bladder-like traps (utricles) borne on submerged leaf segments. These traps are among the fastest-moving structures in the plant kingdom, sucking in prey in less than one millisecond.
 
@@ -66,13 +66,13 @@ When a prey organism contacts one of the trigger hairs on the trapdoor, the seal
 
 The resulting suction pulls water and prey into the bladder in less than one millisecond, with entrance velocities reaching several meters per second. The trapdoor then immediately reseals, and the pumping process begins again to reset the trap.
 
-The pumping mechanism is driven by active transport of ions across the bladder wall, creating an osmotic gradient that draws water out. ATPase enzymes in the glandular cells power this ion transport process.
+The pumping mechanism is driven by [[diffusion-osmosis-and-active-transport-in-plants]] of ions across the bladder wall, creating an osmotic gradient that draws water out. ATPase enzymes in the glandular cells power this ion transport process.
 
 Prey items include protozoa, rotifers, nematodes, water fleas, mosquito larvae, and small aquatic worms. Digestion occurs through enzyme secretion over a period of hours to days, and nutrients are absorbed through the bladder wall.
 
 ## Bioactive Compounds
 
-*Utricularia vulgaris* produces a variety of secondary metabolites including flavonoids, iridoid glycosides, and phenolic acids. These compounds are produced in both vegetative tissue and trap glands.
+*Utricularia vulgaris* produces a variety of [[antifungal-secondary-metabolites-coprophilous-fungi]] including flavonoids, iridoid glycosides, and phenolic acids. These compounds are produced in both vegetative tissue and trap glands.
 
 The trap fluid contains proteases, lipases, and phosphatases that digest captured prey. Some of these **enzyme** compounds are constitutively expressed, while others are induced by the presence of prey.
 

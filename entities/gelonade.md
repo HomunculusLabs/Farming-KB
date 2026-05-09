@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly Staff (2021). "Gelonade Cannabis Strain Information." Leafly.com.
+  - Leafly Staff (2021). "Gelonade blesching-cannabis-strain-selection-receptor-targeting Information." Leafly.com.
   - AllBud (2022). "Gelonade Weed Strain Review." AllBud.com.
   - Cookies Fam Genetics. "Strain Library: Gelonade." cookiesfam.com.
   - MJApe (2022). "Gelonade Strain Review and Grow Info." MjApe.com.
@@ -22,7 +22,7 @@ created: 2026-04-28
 
 Gelonade is a sativa-dominant hybrid cannabis strain bred by the Cookies Fam genetics group, created by crossing Lemon Tree with Gelato #41.
 
-The strain won first place in the Hybrid category at the 2018 High Times Cannabis Cup in San Francisco, establishing its reputation among top-tier modern cultivars.
+The strain won first place in the Hybrid category at the 2018 High Times Cannabis Cup in [[shipibo-san-francisco-ceremonial-center-ucayali]], establishing its reputation among top-tier modern cultivars.
 
 Gelonade is known for its bright, citrus-forward aroma, potent cerebral effects, and visually striking buds covered in frosty trichomes.
 
@@ -41,7 +41,7 @@ Buds are medium to large in size with a dense, elongated structure typical of sa
 
 The coloration ranges from bright lime green to deeper forest green, often featuring vivid orange pistils and occasional purple highlights under cooler growing conditions.
 
-A heavy coating of translucent trichomes gives the flowers a frosted, silvery appearance, with resin production that extends to the sugar leaves.
+A heavy coating of translucent trichomes gives the flowers a frosted, silvery appearance, with [[cannabis-glandular-trichome-types-resin-production-clarke]] that extends to the sugar leaves.
 
 ## Aroma and Flavor
 
@@ -79,11 +79,11 @@ Common effects reported include elevated mood, increased sociability, enhanced c
 
 ## Cultivation
 
-Gelonade can be grown indoors, outdoors, or in greenhouse environments, with indoor cultivation generally producing the highest quality and most consistent results.
+Gelonade can be grown indoors, outdoors, or in greenhouse environments, with [[cannabis-sativa-indoor-cultivation-techniques]] generally producing the highest quality and most consistent results.
 
 Flowering time is approximately 9–10 weeks indoors, with outdoor harvests typically ready by mid to late October in northern latitudes.
 
-Plants exhibit moderate stretch during the early flowering phase and respond well to training techniques such as low-stress training and scrogging.
+Plants exhibit moderate stretch during the early [[green-cannabis-grow-bible-flowering-phase-and-harvest]] and respond well to [[cannabis-training-techniques-comparison]] such as low-stress training and scrogging.
 
 Yields are average to above-average, with indoor growers reporting 400–500 g/m² under optimal conditions.
 

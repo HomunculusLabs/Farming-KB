@@ -64,7 +64,7 @@ central and southern Europe to the Caucasus. Also native to eastern Asia
 Appalachian Mountains of the [[fungal-ecosystem-indicator-species]] of ancient woodlands
 in parts of its European range.
 
-In North America, the Appalachian populations are considered native relicts
+In [[psilocybin-north-america-pacific-northwest]], the Appalachian populations are considered native relicts
 or early European introductions — their origin remains debated.
 
 ## Bioactive Compounds
@@ -114,7 +114,7 @@ Flowers are pollinated by bees and other insects attracted to the strong
 fragrance. Red berries are dispersed by birds, which are relatively
 insensitive to the cardiac glycosides.
 
-In woodland ecosystems, the plant contributes to ground cover diversity
+In woodland ecosystems, the plant contributes to [[fukuoka-citrus-orchard-ground-cover-cultivation]] diversity
 and provides early-season nectar for pollinators. Deer generally avoid it
 due to toxicity.
 

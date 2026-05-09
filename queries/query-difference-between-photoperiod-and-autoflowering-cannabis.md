@@ -1,17 +1,18 @@
 ---
-title: "What Is the Difference Between Photoperiod and Autoflowering Cannabis"
+title: "What Is the query difference between photoperiod and autoflowering cannabis and comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle"
 created: 2026-04-28
 tags: [query, cannabis, breeding, photoperiod, autoflowering]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
 # What Is the Difference Between Photoperiod and Autoflowering Cannabis?
 
 ## Short Answer
-Photoperiod cannabis strains require a change in light cycle, typically from 18 hours of light to 12 hours, to trigger flowering. Autoflowering cannabis strains flower automatically based on age, regardless of light schedule, due to Cannabis ruderalis genetics. Autoflowers are faster from seed to harvest and easier for beginners, while photoperiod strains offer greater yields, more training options, and wider genetic variety.
+Photoperiod cannabis strains require a change in light cycle, typically from 18 hours of light to 12 hours, to trigger flowering. Autoflowering cannabis strains flower automatically based on age, regardless of light schedule, due to [[cervantes-cannabis-ruderalis-autoflowering]] genetics. Autoflowers are faster from seed to harvest and easier for beginners, while photoperiod strains offer greater yields, more training options, and wider genetic variety.
 
 ### Understanding the Photoperiod Response
 
@@ -31,11 +32,11 @@ From a breeding perspective, autoflowers present unique challenges. Because they
 
 ### Growing Autoflowers: Practical Tips
 
-Autoflowers perform best when given a stable environment from day one. Start seeds directly in their final container to avoid the transplant shock that can permanently stunt an autoflower. A five to seven gallon fabric pot is sufficient for most autoflowering strains. Use a light, well-aerated soil mix and avoid heavy nutrient amendments in the early stages. Feed lightly during the first three weeks, then increase nutrient strength gradually as the plant enters its rapid growth phase around week four. Many experienced autoflower growers use an 18/6 or 20/4 light schedule from seed to harvest, though some run 24 hours of light for maximum growth speed. The 12/12 schedule used for photoperiod flowering will work but does not maximize autoflower yield.
+Autoflowers perform best when given a stable environment from day one. Start seeds directly in their final container to avoid the transplant shock that can permanently stunt an autoflower. A five to seven gallon fabric pot is sufficient for most autoflowering strains. Use a light, well-aerated soil mix and avoid heavy nutrient amendments in the early stages. Feed lightly during the first three weeks, then increase nutrient strength gradually as the plant enters its rapid growth phase around week four. Many experienced autoflower growers use an 18/6 or 20/4 light schedule from seed to harvest, though some run 24 hours of light for maximum growth speed. The 12/12 schedule used for [[cannabis-photoperiod-flowering-cycle]] will work but does not maximize autoflower yield.
 
 ### Growing Photoperiod Strains: Practical Tips
 
-Photoperiod strains offer much more flexibility in how they are grown. From seed, you can vegetate a plant for four to eight weeks before flipping to 12/12 for flowering. From clone, you can root cuttings, vegetate them for as long as you like, and flower on your own schedule. This allows growers to maintain mother plants and produce a continuous supply of clones for perpetual harvests. Training techniques like topping (cutting the main growing tip to encourage two colas), low-stress training (bending and tying branches), and screen of green (scrogging through a horizontal net) all work well with photoperiod strains because the vegetative period gives plants time to recover and redirect growth energy.
+Photoperiod strains offer much more flexibility in how they are grown. From seed, you can vegetate a plant for four to eight weeks before flipping to 12/12 for flowering. From clone, you can root cuttings, vegetate them for as long as you like, and flower on your own schedule. This allows growers to maintain mother plants and produce a continuous supply of clones for perpetual harvests. [[cannabis-training-techniques-comparison]] like topping (cutting the main growing tip to encourage two colas), low-stress training (bending and tying branches), and screen of green (scrogging through a horizontal net) all work well with photoperiod strains because the vegetative period gives plants time to recover and redirect growth energy.
 
 ## Key Points
 - Photoperiod strains require a 12-hour dark period to flower; autoflowers flower based on age alone
@@ -48,7 +49,7 @@ Photoperiod strains offer much more flexibility in how they are grown. From seed
 
 While photoperiod strains still hold the edge in maximum yield potential per plant, the gap has narrowed considerably. A well-grown photoperiod plant under optimal conditions can yield four to eight ounces or more per plant indoors, while a top autoflower might produce two to five ounces. Outdoors, photoperiod plants can exceed a pound per plant with a long vegetative period and favorable conditions, while autoflowers typically max out around three to eight ounces. However, autoflowers allow multiple harvests per season in many climates, so the annual yield per square foot can be competitive when two or three autoflower crops are harvested in the time it takes to grow one photoperiod crop.
 
-Potency has reached parity between the two types. Modern autoflowering strains regularly test between 18 and 25 percent THC, with some exceeding that range, matching or exceeding many photoperiod strains. The terpene profiles of autoflowers have also improved dramatically, with breeders successfully translating the flavors and aromas of popular photoperiod varieties into their autoflowering counterparts. CBD-dominant autoflowers are widely available for medicinal users who want high CBD with minimal THC.
+Potency has reached parity between the two types. Modern autoflowering strains regularly test between 18 and 25 percent THC, with some exceeding that range, matching or exceeding many photoperiod strains. The [[cannabis-terpene-profiles-sativa]] of autoflowers have also improved dramatically, with breeders successfully translating the flavors and aromas of popular photoperiod varieties into their autoflowering counterparts. CBD-dominant autoflowers are widely available for medicinal users who want high CBD with minimal THC.
 
 ### Light Requirements and Energy Costs
 
@@ -93,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

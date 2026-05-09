@@ -21,13 +21,13 @@ sources:
 
 ## Overview
 
-**Zingiber cassumunar** Roxb., commonly known as cassumunar ginger, plai (Thai: ปลาย), or Borneo ginger, is a perennial herbaceous plant in the family Zingiberaceae. It is native to Southeast Asia and is one of the most important medicinal plants in Thai traditional medicine.
+**Zingiber cassumunar** Roxb., commonly known as cassumunar ginger, plai (Thai: ปลาย), or Borneo ginger, is a perennial herbaceous plant in the family Zingiberaceae. It is native to [[psilocybe-southeast-asia-pacific]] and is one of the most important medicinal plants in Thai traditional medicine.
 
 The species is distinguished from common ginger by its smaller stature, distinct rhizome aroma, and characteristic lanceolate leaves with a purplish tinge along the midrib. The rhizome has a camphoraceous, slightly sweet fragrance.
 
 In Thailand, cassumunar ginger has been used for centuries in traditional medicine preparations. It is a key ingredient in many herbal compress formulations used in Thai massage therapy.
 
-The essential oil of *Z. cassumunar* has gained commercial importance in the cosmetics and personal care industry. It is used in analgesic balms, massage oils, and anti-inflammatory topical products throughout Southeast Asia.
+The [[permaculture-designers-manual-essential-oil-plants]] of *Z. cassumunar* has gained commercial importance in the cosmetics and personal care industry. It is used in analgesic balms, massage oils, and anti-inflammatory topical products throughout Southeast Asia.
 
 Scientific research has validated several traditional uses, particularly the anti-inflammatory and analgesic properties of the rhizome oil. Several pharmaceutical products derived from the species are commercially available in Thailand.
 
@@ -77,7 +77,7 @@ Other significant compounds include zerumbone, cinnamaldehyde, benzyl benzoate, 
 
 - **Anti-inflammatory activity:** Essential oil and DMPBD inhibit COX-2, 5-LOX, and TNF-α pathways. Topical application reduces carrageenan-induced paw edema by 40–60% in animal models.
 - **Analgesic effects:** DMPBD shows significant pain-relieving activity in acetic acid writhing and hot plate tests, with efficacy comparable to ibuprofen at equivalent doses.
-- **Antimicrobial properties:** Essential oil inhibits *Propionibacterium acnes*, *Staphylococcus aureus*, and *Malassezia furfur*, supporting traditional use for skin conditions.
+- **[[mycelium-running-mushroom-antimicrobial-properties-species-chart]]:** Essential oil inhibits *Propionibacterium acnes*, *Staphylococcus aureus*, and *Malassezia furfur*, supporting traditional use for [[cannabis-for-skin-conditions-detailed]].
 - **Antiallergic activity:** Rhizome extracts suppress IgE-mediated mast cell degranulation and histamine release in vitro.
 - **Mosquito repellent:** The essential oil provides 2–4 hours of protection against *Aedes aegypti* and *Anopheles* species when applied topically.
 
@@ -103,7 +103,7 @@ The essential oil is used in aromatherapy for stress relief, muscle relaxation, 
 
 Cassumunar ginger is propagated primarily through rhizome division. Planting is done at the onset of the rainy season using rhizome segments with 2–3 buds, planted 5–8 cm deep.
 
-Spacing of 30 × 30 cm is standard for field cultivation. The crop performs best under 30–50% shade, making intercropping with fruit trees or rubber plantations advantageous.
+Spacing of 30 × 30 cm is standard for field cultivation. The crop performs best under 30–50% shade, making intercropping with [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] or rubber plantations advantageous.
 
 Harvesting occurs 8–10 months after planting when aerial parts begin to senesce. Rhizome yields average 10–15 tonnes per hectare under good management.
 
@@ -111,7 +111,7 @@ Post-harvest, rhizomes are washed, sliced, and either dried for powder productio
 
 Major pests include rhizome borers, nematodes, and leaf-rolling caterpillars. Fungal diseases, particularly rhizome rot caused by *Pythium* spp., can cause significant losses in waterlogged conditions.
 
-Tissue culture propagation has been developed for large-scale planting material production. This method ensures genetic uniformity and disease-free planting stock.
+Tissue [[stamets-cultivator-liquid-culture-propagation-methods]] has been developed for large-scale planting material production. This method ensures genetic uniformity and disease-free planting stock.
 
 ## See Also
 

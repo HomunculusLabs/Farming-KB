@@ -1,5 +1,5 @@
 ---
-title: Amanita Muscaria Living Vessel and Grail
+title: allegro-amanita-muscaria-properties-and-pharmacology Living Vessel and Grail
 created: 2026-04-19
 updated: 2026-04-18
 type: concept
@@ -26,7 +26,7 @@ The living bread is described as "perhaps the greatest of Amanita Muscaria's Mag
 
 ### Initial Setup
 
-1. Start with a clean glass jar (1-gallon wide-mouth canning jars preferred)
+1. Start with a clean [[sterile-spore-print-collection-glass-jar-technique]] (1-gallon wide-mouth canning jars preferred)
 2. Clean thoroughly with detergent, rinse, soak with chlorine bleach solution if necessary
 3. Place extracted Amanita muscaria pieces in the jar
 4. Add nutrient liquid (grape juice, barley water, or honey water)

@@ -36,7 +36,7 @@ region. It is named in honor of Salvador, likely referencing the
 Salvadoran context of the original investigations.
 
 *P. salvinus* remains poorly known in the mycological literature, with
-relatively few confirmed collections and limited modern chemical analysis
+relatively few confirmed collections and limited modern [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]
 of its psilocybin content.
 
 ## Taxonomy
@@ -50,7 +50,7 @@ of its psilocybin content.
 - **Species:** *P. salvinus* Singer (1958)
 
 The genus *Pluteus* is characterized by free gills (not attached to
-the stipe), pink spore prints, and growth on wood or woody debris.
+the stipe), pink spore prints, and growth on wood or [[fungal-succession-woody-debris-ecology]].
 Most species in the genus are saprotrophic and not psychoactive; the
 presence of psilocybin in *P. salvinus* is a secondary biochemical
 feature not shared with the majority of its congeners.
@@ -107,7 +107,7 @@ debris on the forest floor.
 ## Chemistry and Effects
 
 *P. salvinus* has been confirmed to contain psilocybin, the primary
-psychoactive indole alkaloid found in hallucinogenic mushrooms. The
+psychoactive [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] found in [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]. The
 original analysis by Singer and colleagues detected psilocybin in
 basidiocarp tissue using paper chromatography methods.
 
@@ -115,7 +115,7 @@ Quantitative analyses of psilocybin and psilocin content are limited.
 Based on available data from related psychoactive *Pluteus* species,
 psilocybin content is likely in the low to moderate range (estimated
 0.1–0.5% dry weight), making it significantly less potent than
-concentrated cultivated *Psilocybe cubensis* strains.
+concentrated cultivated *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* strains.
 
 The psychoactive effects are consistent with classical tryptamine
 psychedelics: visual and auditory alterations, altered perception of
@@ -137,6 +137,6 @@ mushrooms from other genera.
   species found on wood, but with adnate gills, brown spore print, and
   distinctive odor; some *Inocybe* species contain dangerous levels of
   muscarine.
-- **[[baeocystin]] — A related psilocybin mushroom alkaloid often found
+- **[[baeocystin]] — A related [[emcdda-psilocybin-mushroom-dose-and-effects]] alkaloid often found
   co-occurring with psilocybin in psychoactive fungal species.
 - [[psilocybin]] — The primary psychoactive compound found across

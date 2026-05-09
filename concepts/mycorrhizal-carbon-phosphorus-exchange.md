@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Carbon and Phosphorus Exchange
+title: mycoheterotrophic-plants-mycorrhizal-carbon-theft and Phosphorus Exchange
 created: 2026-04-28
 tags: [mycorrhiza, nutrient-exchange, symbiosis, soil-biology]
 date: 2026-04-25
@@ -10,7 +10,7 @@ type: concept
 
 # Mycorrhizal Carbon and Phosphorus Exchange
 
-Arbuscular mycorrhizal (AM) fungi form the most widespread
+[[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] (AM) fungi form the most widespread
 symbiotic associations on Earth, colonizing the roots of an
 enormous range of plant species from bryophytes to angiosperms.
 The hallmark of these associations is bi-directional nutrient
@@ -37,7 +37,7 @@ intracellular structures called vesicles and arbuscules that form
 in root cortical cells during development. Aseptate hyphae enter
 root cortical cells and form these characteristic structures. The
 plasmalemma of the host cell invaginates and encloses the
-arbuscules, creating an extensive interface for nutrient exchange.
+arbuscules, creating an extensive interface for [[arbuscule-isolation-and-nutrient-exchange-mechanisms]].
 
 AM fungi belong to nine genera: Gigaspora, Scutellospora, Glomus,
 Acaulospora, Entrophospora, Archaeospora, Gerdemannia,
@@ -65,19 +65,19 @@ to colonize the root and produce nodules.
 
 ## Pathogen Protection
 
-Mycorrhizal fungi colonize feeder roots and interact with root
+[[arbuscular-mycorrhizal-fungi-biology-symbiosis]] colonize feeder roots and interact with root
 pathogens that parasitize the same tissue. In ecosystems where
 phosphorus uptake is low, a major role of mycorrhizal fungi may
 be protection from endemic pathogens such as Fusarium species.
 Proposed protective mechanisms include: development of a
 mechanical barrier (especially the ECM mantle), production of
 antibiotic compounds, competition for nutrients including
-siderophore production, and induction of generalized host defense
+[[singh-fungal-siderophore-production-iron-acquisition]], and induction of generalized host defense
 mechanisms.
 
 ## [[symbiotic-fungi-mycorrhizal-carbon-trading]]
 - [[mycorrhiza]] overview
 - nutrient exchange in plant-fungal systems
-- symbiosis mechanisms
+- [[lichen-symbiosis-mechanisms-photobiont-selection]]
 - soil biology principles
 - arbuscular mycorrhiza detailed structure

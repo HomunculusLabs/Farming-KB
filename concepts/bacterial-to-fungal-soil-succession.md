@@ -9,7 +9,7 @@ sources: [papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.m
 
 ## The Succession Principle
 
-Soil ecosystems undergo predictable patterns of microbial succession, progressing from bacterial-dominated communities toward fungal-dominated communities over time. This succession mirrors the broader ecological succession from disturbed, early-succession plant communities (weeds, annuals) toward late-succession communities (perennials, shrubs, trees). Understanding this succession is fundamental to [[mycorrhizal-fungi-basics-lowenfels]] and colleagues at Oregon State University, who observed consistent correlations between plant types, soil disturbance history, and the ratio of fungal to bacterial biomass in soils.
+Soil ecosystems undergo predictable patterns of microbial succession, progressing from bacterial-dominated communities toward fungal-dominated communities over time. This succession mirrors the broader [[holmgren-ecological-succession-and-pulsing]] from disturbed, early-succession plant communities (weeds, annuals) toward late-succession communities (perennials, shrubs, trees). Understanding this succession is fundamental to mycorrhizal-fungi-basics-lowenfels and colleagues at Oregon State University, who observed consistent correlations between plant types, soil disturbance history, and the ratio of fungal to bacterial biomass in soils.
 
 ## The F:B Ratio
 
@@ -33,11 +33,11 @@ Bacterial dominance in disturbed soils is driven by several factors:
 ## The Plant-Microbe Connection
 
 Plants actively influence the F:B ratio through their root exudate chemistry:
-- Annual plants, vegetables, and grasses tend to produce exudates that feed bacterial communities, maintaining bacterial dominance
+- Annual plants, vegetables, and grasses tend to produce exudates that feed [[cultivar-endorhiza-bacterial-communities-cannabis]], maintaining bacterial dominance
 - Perennial plants, shrubs, and trees produce exudates that support fungal communities, promoting fungal dominance
-- During different times of the growing season, populations of rhizosphere bacteria and fungi wax and wane depending on the nutrient needs of the plant and the exudates it produces
+- During different times of the growing season, populations of [[lowenfels-rhizosphere-bacteria-plant-interaction]] and fungi wax and wane depending on the nutrient needs of the plant and the exudates it produces
 
-This means that the plant community and the microbial community co-evolve. The plant selects its microbial partners through exudate chemistry, and the microbial community in turn determines what nutrients are available and in what form.
+This means that the plant community and the [[edaphic-factors-microbial-community-structure]] co-evolve. The plant selects its microbial partners through exudate chemistry, and the microbial community in turn determines what nutrients are available and in what form.
 
 ## Succession and Nutrient Cycling
 
@@ -66,7 +66,7 @@ The shift from bacterial to fungal dominance changes how nutrients cycle in soil
 ## Disturbance and Succession Reset
 
 Any significant soil disturbance resets succession toward bacterial dominance:
-- Tillage physically severs fungal hyphae, destroying mycorrhizal networks
+- Tillage physically severs fungal hyphae, destroying [[dighton-mycorrhizal-networks-carbon-transfer]]
 - Erosion removes the organic matter and biological communities from surface soils
 - Chemical applications (pesticides, fungicides, high-salt fertilizers) kill or suppress fungi more than bacteria
 - Compaction reduces the air-filled pore space that many fungi require
@@ -81,7 +81,7 @@ Gardeners can estimate the F:B ratio through several methods:
 - **Smell test**: Healthy fungal soils often have a pleasant forest-floor aroma. Sour or ammonia smells indicate bacterial/anaerobic dominance
 - **Decomposition test**: Place equal pieces of wood and green material on the soil surface. In fungal-dominated soils, wood decomposes at a rate closer to green material. In bacterial-dominated soils, green material decomposes much faster than wood
 - **Plant indicators**: The spontaneous weed species that appear can indicate successional stage. Annual weeds (pigweed, lamb's quarter) indicate bacterial dominance. Perennial and woody species indicate more fungal conditions
-- **Professional testing**: Soil food web laboratories can quantify bacterial and fungal biomass through direct microscopy
+- **Professional testing**: Soil food web laboratories can quantify [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] biomass through direct microscopy
 
 ## The Bigger Picture
 

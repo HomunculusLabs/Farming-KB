@@ -34,7 +34,7 @@ Unlike common ginger (Z. officinale), myoga is harvested for its above-ground fl
 
 The specific epithet *mioga* is derived from the Japanese name *myōga* (茗荷), which has been used for this plant since at least the Heian period (794–1185 CE). The species was first described scientifically by William Roscoe in 1807.
 
-Z. mioga is one of the most cold-tolerant members of the Zingiberaceae, capable of surviving winter temperatures down to −15°C in dormant rhizomes. This cold hardiness distinguishes it from most tropical Zingiber species and allows cultivation in temperate regions.
+Z. mioga is one of the most cold-tolerant members of the Zingiberaceae, capable of surviving winter temperatures down to −15°C in dormant rhizomes. This [[coleman-cold-hardiness-testing-ratings]] distinguishes it from most tropical Zingiber species and allows cultivation in temperate regions.
 
 Plants grow 0.3–1.0 m tall from an extensive network of underground rhizomes. Leaf blades are lanceolate to elliptic, 25–35 cm long and 5–8 cm wide, with a smooth, glossy surface. The pseudostem is slender and often arching under the weight of leaves.
 
@@ -54,14 +54,14 @@ The species is increasingly naturalized outside its native range in temperate re
 
 ### Cultivated Varieties
 
-Several named cultivars of Z. mioga have been developed in Japan, selected for yield, bud size, and harvest timing. Key cultivars include:
+Several named cultivars of Z. mioga have been developed in Japan, selected for yield, bud size, and [[cannabis-harvest-timing-visual-cues]]. Key cultivars include:
 
 - **'Daruma'** — A high-yielding standard variety with large flower buds. Most widely grown commercially in Japan.
 - **'Ichiban'** — An early-flowering cultivar, producing buds 2–3 weeks ahead of standard types. Commands premium market prices.
 - **'Yamabuki'** — Selected for enhanced cold hardiness. Suitable for cultivation at higher elevations and northern latitudes.
 - **'Tosa-no-Hana'** — A Kochi prefecture local variety with particularly aromatic buds, considered a premium gourmet product.
 
-Vegetative propagation maintains cultivar characteristics, as the species rarely sets viable seed in cultivation. Germplasm collections are maintained at several Japanese agricultural research stations.
+Vegetative propagation maintains cultivar characteristics, as the species rarely sets viable seed in cultivation. Germplasm collections are maintained at several [[fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse]] research stations.
 
 ## Phytochemistry
 
@@ -77,7 +77,7 @@ Myoga flower buds are one of the defining ingredients in Japanese cuisine, used 
 
 The buds are also used in tempura, pickled in vinegar or soy sauce, and added to miso soup. In Korea, young flower buds are blanched and served as a seasoned vegetable side dish (*namul*). The young shoots, which emerge in spring before the leaves, are also edible and are harvested as a seasonal delicacy.
 
-Myoga is widely available in Japanese markets during its harvest season from mid-summer to early autumn. Multiple harvests are possible from a single planting, as new flower buds are produced continuously through the growing season.
+Myoga is widely available in Japanese markets during its harvest season from mid-summer to early autumn. Multiple harvests are possible from a single planting, as new flower buds are produced continuously through the [[savory-growing-season-and-non-growing-season-management]].
 
 The flavor profile is best preserved when myoga is consumed raw or only lightly cooked. Extended heating diminishes the characteristic aroma and produces an undesirable bitterness. For this reason, it is typically added to hot dishes at the very end of cooking or used as a raw garnish.
 
@@ -92,13 +92,13 @@ Modern pharmacological studies have identified several bioactive properties:
 - **Antioxidant:** Methanol extracts show significant DPPH radical scavenging activity, comparable to standard antioxidants at equivalent concentrations.
 - **Antiplatelet:** Crude extracts inhibit platelet aggregation in vitro, though the active constituents and mechanism require further characterization.
 
-⚠️ Therapeutic use of myoga is not supported by clinical trial data. The species is primarily a culinary plant, and medicinal claims are based on traditional use and preclinical studies only.
+⚠️ Therapeutic use of myoga is not supported by [[psilocybin-clinical-trial-landscape-2020-2025]] data. The species is primarily a culinary plant, and medicinal claims are based on traditional use and preclinical studies only.
 
 ## Cultivation
 
 Myoga is propagated by rhizome division in early spring before new growth emerges. Rhizome pieces with 2–3 viable buds are planted 5–10 cm deep and spaced 30–50 cm apart. The crop is uniquely shade-tolerant among Zingiber species and is often grown under deciduous trees or shade structures.
 
-Optimal soil conditions include well-drained, loamy soils rich in organic matter with pH 5.5–6.5. Consistent soil moisture is critical during the growing season, though established plants tolerate brief drought periods. Mulching with leaf litter or straw is standard practice to retain moisture and suppress weeds.
+Optimal soil conditions include well-drained, loamy soils rich in [[hamilton-composting-and-organic-matter-management]] with pH 5.5–6.5. Consistent soil moisture is critical during the growing season, though established plants tolerate brief drought periods. Mulching with leaf litter or straw is standard practice to retain moisture and suppress weeds.
 
 Flower bud harvest begins in the second year after planting and continues annually. Yields range from 0.5–2.0 kg per m² depending on plant density and management. The crop is remarkably low-maintenance once established, with few serious pest or disease problems.
 

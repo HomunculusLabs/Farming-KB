@@ -1,5 +1,5 @@
 ---
-title: "Natural Culture Community and the Vision of Green Earth"
+title: "fukuoka-matsutake-natural-culture-medium-microbiological-innovation Community and the Vision of Green Earth"
 tags: [fukuoka, philosophy, natural-culture, community, ecological-civilization, spiritual-ecology]
 date: 2026-04-28
 updated: 2026-04-28
@@ -16,7 +16,7 @@ Masanobu Fukuoka articulated his vision for an alternative civilization he
 called "natural culture and community." This was not a retreat to primitivism
 but a proposal for a fundamentally different relationship between humanity
 and the natural world, grounded in his experience of restoring degraded land
-through [[fukuoka-world-travels-global-influence]], convinced him that regreening the earth and sowing seeds in the desert is the path society must follow. His visits to India, Africa, Europe, and the United States revealed both the severity of environmental degradation and the potential for recovery through natural methods.
+through [[fukuoka-world-travels-global-influence]], convinced him that regreening the earth and sowing seeds in the desert is the path society must follow. His visits to India, Africa, Europe, and the [[dmt-containing-plants-united-states-halpern]] revealed both the severity of environmental degradation and the potential for recovery through natural methods.
 
 The [[fukuoka-clay-seed-pellets]] demonstrated that large-scale revegetation
 was technically feasible with minimal resources. The aerial mangrove seeding
@@ -30,8 +30,8 @@ Fukuoka described Ms. Aveliw's natural farm in the Philippines as a concrete
 realization of natural culture. She read The One-Straw Revolution, conducted
 practical research for almost ten years, then established her farm in four
 years mainly by scattering seeds and planting trees. The result was an
-assortment of fruit trees (banana, papaya, guava, durian, coffee) beneath
-thick ground cover of perennials and green manure, with orchids, birds, and
+assortment of [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] (banana, papaya, guava, durian, coffee) beneath
+thick [[fukuoka-citrus-orchard-ground-cover-cultivation]] of perennials and [[comparison-green-manure-guide-vs-mulch-types-and-effects]], with orchids, birds, and
 fish ponds. Despite the Philippines' generally poor soils and widespread
 deforestation, she created abundance through harmony with nature.
 
@@ -56,7 +56,7 @@ nature is unclear.
 Fukuoka pointed to his own farm as evidence that the vision was achievable.
 The land had been occupied since the Stone Age and was once covered with
 ancient forest of at least eight Metasequoia species. Over centuries, the
-soil eroded to clay subsoil. His forty-five years of natural farming
+soil eroded to clay subsoil. His forty-five years of [[comparison-natural-farming-vs-permaculture]]
 restored it to forest-level fertility without external inputs, creating the
 "fruit tree jungle" that Larry Korn encountered in 1973.
 
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

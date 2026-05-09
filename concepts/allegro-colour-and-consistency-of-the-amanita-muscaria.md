@@ -1,5 +1,5 @@
 ---
-title: Colour and Consistency of the Amanita Muscaria (Allegro)
+title: allegro colour and consistency of the amanita muscaria of the allegro-amanita-muscaria-properties-and-pharmacology (Allegro)
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 # Colour and Consistency of the Amanita Muscaria
 
-Allegro argues that the distinctive colouring of the Amanita muscaria — the deep red cap contrasting with the white stem and the white or yellowish "warts" from the broken volva — is the key to identifying it as the specific subject of the sacred mushroom cult, traceable through a vast web of nomenclature, mythology, and biblical allusion.
+Allegro argues that the distinctive colouring of the Amanita muscaria — the deep red cap contrasting with the white stem and the white or yellowish "warts" from the broken volva — is the key to identifying it as the specific subject of the [[allegro-the-sacred-mushroom-amanita-identification]] cult, traceable through a vast web of nomenclature, mythology, and biblical allusion.
 
 ## The Golden Fleece: Red Cloak of the Mushroom
 
@@ -48,7 +48,7 @@ The name Lazarus plays on "Lazuli," the blue mineral containing flecks of gold, 
 
 ## Scholarly Significance and Criticism
 
-Allegro's interpretation of death and resurrection mythology as mushroom-derived remains one of the most contested aspects of [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
+Allegro's interpretation of [[allegro-death-and-resurrection-in-the-mushroom-cult]] mythology as mushroom-derived remains one of the most contested aspects of [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
 
 ## See Also
 
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

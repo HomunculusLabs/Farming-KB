@@ -1,5 +1,5 @@
 ---
-title: Fungal Bioremediation of BTEX Compounds
+title: staycare-composting-as-a-fungal-bioremediation-strategy of BTEX Compounds
 created: 2026-04-28
 tags: [bioremediation, BTEX, petroleum-hydrocarbons, white-rot-fungi, volatile-organics]
 date: 2026-04-25
@@ -39,8 +39,8 @@ involves complex mixtures rather than single compounds.
 ### Nutrient Conditions and Enzyme Involvement
 
 Remarkably, much greater BTEX degradation occurred in malt extract
-medium or in defined high-nitrogen medium, where lignin peroxidase (LiP)
-and manganese peroxidase (MnP) expression is blocked, than in defined
+medium or in defined high-nitrogen medium, where [[fungal-lignin-peroxidase-veratryl-alcohol]] (LiP)
+and [[fungal-manganese-peroxidase-remediation]] (MnP) expression is blocked, than in defined
 low-nitrogen medium where the ligninolytic enzyme system is active.
 This finding is significant because it indicates that BTEX degradation
 by P. chrysosporium does not depend on the lignin-degrading system.
@@ -48,7 +48,7 @@ by P. chrysosporium does not depend on the lignin-degrading system.
 The implication is that alternative enzyme systems, probably upregulated
 under nutrient-rich conditions, are responsible for BTEX degradation.
 This contrasts with the degradation of many other xenobiotics by white
-rot fungi, which typically requires ligninolytic conditions. Cytochrome
+[[comparison-white-rot-fungi-vs-brown-rot-fungi-biodegradation]], which typically requires ligninolytic conditions. Cytochrome
 P450 monooxygenase systems, which are more active under nutrient-rich
 conditions, are likely candidates for the enzymatic pathway involved.
 
@@ -93,7 +93,7 @@ The observation that BTEX, TCE, and some other compounds are degraded
 more effectively under nutrient-rich non-ligninolytic conditions has
 important implications for bioremediation strategy design. It suggests
 that the traditional emphasis on nitrogen-limited conditions for
-ligninolytic enzyme induction may not be optimal for all target
+ligninolytic [[fungal-enzyme-induction-and-regulation]] may not be optimal for all target
 pollutants. For BTEX-contaminated sites, nutrient-rich conditions may
 be more appropriate.
 

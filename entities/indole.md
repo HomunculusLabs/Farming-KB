@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-around-the-world-by-joche
 
 # Indole
 
-**Indole** (2,3-benzopyrrole) is an aromatic heterocyclic organic compound consisting of a fused benzene ring and a pyrrole ring. It is the fundamental structural scaffold underlying the entire class of tryptamine alkaloids — including the neurotransmitter [[psilocybin]] and [[lsd-lysergic-acid-diethylamide-experience-guide]]. The indole ring system is one of the most pharmacologically significant heterocycles in nature.
+**Indole** (2,3-benzopyrrole) is an aromatic heterocyclic [[plant-olfaction-volatile-organic-compound-signaling]] consisting of a fused benzene ring and a pyrrole ring. It is the fundamental structural scaffold underlying the entire class of tryptamine alkaloids — including the n and [[lsd-lysergic-acid-diethylamide-experience-guide]]. The indole ring system is one of the most pharmacologically significant heterocycles in nature.
 
 ## Chemical Properties
 
@@ -65,16 +65,16 @@ The indole ring is the defining structural feature that distinguishes tryptamine
 
 ## Environmental and Ecological Significance
 
-Indole and its derivatives play important roles in microbial ecology:
+Indole and its derivatives play important roles in [[fukuoka-microbial-ecology-decomposition]]:
 
 - **Bacterial signaling:** Indole functions as a quorum-sensing molecule in E. coli and other bacteria, regulating biofilm formation, virulence, and antibiotic resistance
-- **Plant-microbe interactions:** Indole-3-acetic acid (IAA) produced by rhizosphere bacteria promotes plant root growth and nutrient uptake
-- **Soil chemistry:** Indole derivatives from decomposing organic matter contribute to soil nitrogen cycling
-- **Marine environment:** Indole-containing compounds are produced by marine bacteria and algae; some have antimicrobial properties
+- **Plant-microbe interactions:** Indole-3-acetic acid (IAA) produced by [[lowenfels-rhizosphere-bacteria-plant-interaction]] promotes plant root growth and nutrient uptake
+- **Soil chemistry:** Indole derivatives from decomposing organic matter contribute to soil [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]]
+- **Marine environment:** Indole-containing compounds are produced by marine bacteria and algae; some have [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]
 
 ## Historical Context
 
-Indole was first isolated in 1866 by Adolf von Baeyer from the indigo dye reduction product indoxyl. The name derives from "indigo" + "oleum" (oil), reflecting its origin from indigo processing. The Fischer indole synthesis, developed by Emil Fischer in 1883, became the foundational method for constructing indole rings and enabled the systematic exploration of indole alkaloid chemistry. The recognition of the indole nucleus as the structural basis of [[tryptophan]] — indole-3-substituted essential amino acid; biosynthetic precursor to all natural indole alkaloids
+Indole was first isolated in 1866 by Adolf von Baeyer from the indigo dye reduction product indoxyl. The name derives from "indigo" + "oleum" (oil), reflecting its origin from indigo processing. The Fischer indole synthesis, developed by Emil Fischer in 1883, became the foundational method for constructing indole rings and enabled the systematic exploration of indole [[ergot-alkaloid-chemistry-history]]. The recognition of the indole nucleus as the structural basis of [[tryptophan]] — indole-3-substituted essential amino acid; biosynthetic precursor to all natural indole alkaloids
 - [[serotonin]] — 5-hydroxyindole derivative; principal mammalian indole neurotransmitter
 - [[dimethyltryptamine]] — 4-substituted indole with N,N-dimethyl; endogenous psychedelic
 - [[tryptamine-consciousness-theory]] — indole-ethylamine parent class of all psychoactive tryptamines

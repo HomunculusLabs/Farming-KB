@@ -17,7 +17,7 @@ type: concept
 Cannabis is a tall, erect, annual herb in the family
 Cannabaceae. As described by Robert Connell Clarke, it is one
 of the oldest cultivated plants, with thousands of years of
-co-evolution alongside human agricultural practices. The genus
+co-evolution alongside human [[mycorrhizal-agricultural-practices]]. The genus
 Cannabis has been the subject of extensive taxonomic debate,
 with varying classifications proposed by different authorities.
 Understanding its biology is essential for both conservation
@@ -26,7 +26,7 @@ and breeding purposes.
 ## Taxonomic Classification
 
 The taxonomy of Cannabis has long been controversial. Most
-authorities recognize a single species, Cannabis sativa L.,
+authorities recognize a single species, [[comparison-cannabis-sativa-vs-cannabis-indica]] L.,
 with several subspecies: C. sativa subsp. sativa (tall,
 narrow-leafleted plants adapted to tropical and subtropical
 latitudes), C. sativa subsp. indica (shorter, broader
@@ -34,11 +34,11 @@ leafleted plants from Central Asia), and C. sativa subsp.
 ruderalis (small, weedy plants from Central Europe and Russia).
 
 Some taxonomists, notably Lamarck and later Schultes, have
-proposed separate species status for Cannabis indica. The
+proposed separate species status for [[cannabis-indica]]. The
 ruderalis populations are nearly always high in CBD and low in
 THC. The debate continues, but most modern botanical references
 follow the single-species classification while acknowledging
-the distinct phenotypic groups. See [[cannabis-sex-determination-floral-biology]] for detailed reproductive biology.
+the distinct phenotypic groups. See [[cannabis-sex-determination-floral-biology]] for detailed [[clarke-marijuana-botany-sex-determination-reproductive-biology]].
 
 ## Genetic Diversity and Conservation
 
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

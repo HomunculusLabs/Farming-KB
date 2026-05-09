@@ -1,5 +1,5 @@
 ---
-title: Tryptamine Chemistry - Psilocin and Psilocybin Synthesis
+title: psilocybin-tryptamine-chemistry-fungi - tryptamine chemistry psilocin and psilocybin synthesis Synthesis
 created: 2026-05-08
 updated: 2026-05-08
 sources:
@@ -55,7 +55,7 @@ The Shirota synthesis starts from commercially available 4-hydroxyindole (3):
 anhydride in pyridine/CH₂Cl₂ at 0°C to room temperature, yielding
 4-acetylindole (4) as ivory white crystals in constant yield (34 g scale).
 
-**Step 2 — Glyoxylation**: Treatment of 4 with oxalyl chloride in ether at
+**Step 2 — Glyoxylation**: Treatment of 4 with [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] in ether at
 0°C, followed by n-hexane at -20°C, affording yellow crystals of the
 glyoxalyl chloride intermediate (5).
 
@@ -82,7 +82,7 @@ tetrabenzylpyrophosphate and n-BuLi in THF at -78°C to 0°C.
 ### Unexpected Zwitterionic Intermediate
 
 After the standard aqueous workup, an unexpected transformation occurred.
-The O,O-dibenzyl phosphate intermediate (7) underwent spontaneous
+The O,O-dibenzyl [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]] (7) underwent spontaneous
 intramolecular rearrangement. Hydrolytic cleavage of one O-benzyl group
 occurred, and the freed benzyl group migrated to the nitrogen of the
 N,N-dimethyl moiety, forming a zwitterionic N,O-dibenzyl phosphate
@@ -108,7 +108,7 @@ with CH₂Cl₂, yielding 8 in over 85% yield.
 
 ### Final Deprotection
 
-Catalytic hydrogenolysis of 8 (H₂, Pd/C, MeOH, room temperature) removes
+[[shirota-catalytic-hydrogenolysis-debenzylation-psilocybin]] of 8 (H₂, Pd/C, MeOH, room temperature) removes
 both benzyl groups simultaneously, yielding psilocybin (2) as a white needle
 crystalline powder. The overall yield from psilocin exceeds 72%, even at
 gram scale — a dramatic improvement over previously reported yields of 20%
@@ -123,7 +123,7 @@ gram scale — a dramatic improvement over previously reported yields of 20%
 | Shirota et al. (2003) | >72% | No |
 
 The elimination of chromatographic purification and the high yield make this
-route practical for producing analytical standard compounds at gram scale.
+route practical for producing analytical [[shirota-forensic-standard-compounds-magic-mushroom-identification]] at gram scale.
 
 ## Spectroscopic Data
 

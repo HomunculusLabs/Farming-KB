@@ -1,40 +1,15 @@
 ---
-title: "Right Livelihood in Permaculture"
+title: "pdc-right-livelihood-and-permaculture-economics in permaculture"
 created: 2026-04-28
-tags: [[permaculture, right-livelihood, economics, gift-economy,
-       barter, sustainability, permaculture-ethics]
+tags: [permaculture, right-livelihood, economics, gift-economy, barter, sustainability, permaculture-ethics]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+sources: [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-
-# Right Livelihood in Permaculture
-
-Right livelihood is the permaculture principle of earning a living in
-ways that align with ecological ethics, personal values, and
-sustainable systems design. Living in a sustainable way is more than
-just an issue of architecture and infrastructure systems; it is also
-an issue of lifestyle choices and personal habits. One of the most
-important lifestyle choices we all make is how we earn our livelihood.
-
-## Defining Livelihood Beyond Money
-
-In modern times most people find livelihood to be synonymous with
-earning money. However the true definition of livelihood means
-securing the necessities of life. While in the modern system money is
-the means by which we acquire necessities, there are many more ways
-to acquire these necessities than by the exchange of money. With
-[[integrate-rather-than-segregate]] economic streams: combine market,
-  barter, gift, local production, and skill shares for maximum
-  resilience
-- Do not depend solely on any single stream: diversity in economic
-  input mirrors ecological diversity and creates stability
-- First earth care, then self care, then fair share: the hierarchy of
-  [[williams-pdc-invisible-structures]]
+# Right Livelihood in Permaculture Right livelihood is the permaculture principle of earning a living in ways that align with ecological ethics, personal values, and sustainable systems design. Living in a sustainable way is more than just an issue of architecture and infrastructure systems; it is also an issue of lifestyle choices and personal habits. One of the most important lifestyle choices we all make is how we earn our livelihood. ## Defining Livelihood Beyond Money In modern times most people find livelihood to be synonymous with earning money. However the true definition of livelihood means securing the necessities of life. While in the modern system money is the means by which we acquire necessities, there are many more ways to acquire these necessities than by the exchange of money. With integrate-rather-than-segregate economic streams: combine market, barter, gift, local production, and skill shares for maximum resilience - Do not depend solely on any single stream: diversity in economic input mirrors ecological diversity and creates stability - First earth care, then self care, then fair share: the hierarchy of [[williams-pdc-invisible-structures]]
 - [[williams-pdc-community-design]]
-- [[pdc-invisible-structures-and-social-design]]
+- pdc-invisible-structures-and-social-design
 ## Practical Applications
 
 Right Livelihood in Permaculture has a range of practical applications that make it relevant to
@@ -52,7 +27,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -102,7 +77,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -112,4 +87,5 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[pdc-right-livelihood-and-permaculture-economics]]

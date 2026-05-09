@@ -1,5 +1,5 @@
 ---
-title: Dolomite Lime and pH Buffering for Cannabis
+title: cervantes dolomite lime ph buffering and pH Buffering for Cannabis
 created: 2026-04-26
 tags:
   - cannabis
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -68,7 +69,7 @@ hydrated lime and 0.75 cup dolomite lime. Hydrated lime is immediately
 available, whereas the slower-acting dolomite buffers the pH over the
 long term. Do not use more than 0.5 cup of hydrated lime per cubic foot
 of soil. The beauty of hydrated lime is that it washes out of soil in
-about two weeks. Hydrated lime is also used as a grow room fungicide:
+about two weeks. Hydrated lime is also used as a [[cannabis-grow-room-setup]] fungicide:
 sprinkle on the floor and around the room to kill fungus on contact.
 
 ### Quicklime (Calcic Lime)
@@ -81,12 +82,12 @@ use quicklime; it is toxic to plants.
 Dolomite lime adjusts and balances the pH and makes phosphates more
 available. It is generally applied to sweeten or de-acidify soil. It
 consists of calcium and magnesium, and is sometimes listed as a primary
-nutrient, though generally referred to as a secondary nutrient.
+nutrient, though generally referred to as a [[cervantes-secondary-nutrient-deficiency]].
 
 If growing in a soil or soilless mix with a pH below 7, incorporating
 one cup of fine dolomite lime per gallon of medium ensures adequate
 supplies of calcium and magnesium. This is particularly important for
-preventing magnesium deficiency, which is common indoors, especially in
+preventing [[query-how-to-fix-magnesium-deficiency-in-cannabis]], which is common indoors, especially in
 acidic soils.
 
 ## Raising pH
@@ -106,7 +107,7 @@ and peat moss also help to acidify soil and lower pH.
 
 ## Water pH Considerations
 
-In dry climates such as the desert Southwest United States, Spain, and
+In dry climates such as the desert Southwest [[dmt-containing-plants-united-states-halpern]], Spain, and
 Australia, irrigation water is often alkaline with a pH above 6.0. The
 water in rainy climates such as the Pacific Northwest, the UK, and the
 Netherlands is often acidic with a pH below 6.0. After repeated watering,

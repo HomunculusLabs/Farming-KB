@@ -12,9 +12,9 @@ type: entity
 
 **Type:** Species (Plant)
 **Category:** Multipurpose arid-zone medicinal tree
-**Also known as:** [[permaculture]] systems. Azadirachtin
-provides effective, biodegradable insect control without the ecological
-damage of synthetic pesticides. Its extreme drought tolerance, soil-improving
+**Also known as:** permaculture systems. Azadirachtin
+provides effective, biodegradable [[mushroom-pests-insect-control-stamets]] without the ecological
+damage of synthetic pesticides. Its extreme [[dighton-fungal-drought-tolerance-plant-water-relations]], soil-improving
 qualities, and valuable timber make it a cornerstone species for sustainable
 dryland agriculture.
 
@@ -22,7 +22,7 @@ dryland agriculture.
 
 - [[moringa]]
 - Cape Lilac
-- [[jojoba]]
+- jojoba
 - Botanical Insecticides
 - Arid Land Forestry
 ## Practical Applications
@@ -102,4 +102,5 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+- [[cervantes-neem-oil-organic-pest-control]]
+- [[comparison-neem-oil-vs-diatomaceous-earth]]

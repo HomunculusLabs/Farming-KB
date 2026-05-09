@@ -43,13 +43,13 @@ Leaf cells are smooth, quadrate to rectangular in the alar regions, and elongate
 
 When moist, the leaves spread outward and the turf appears softer and more open. Upon drying, leaves contract and curve tightly, giving the cushion its characteristic swept or broom-like appearance. This hygroscopic movement aids water channeling toward the stem base.
 
-Sexual reproduction produces archegonia and antheridia on separate branches of the same plant. The species is autoicous, with perigonia borne on short side branches below the archegonia. Fertilization requires a water film for sperm motility.
+[[fungal-life-cycles-sexual-reproduction-metamorphosis]] produces archegonia and antheridia on separate branches of the same plant. The species is autoicous, with perigonia borne on short side branches below the archegonia. Fertilization requires a water film for sperm motility.
 
 The sporophyte bears an erect, cylindrical capsule on a reddish seta 1.5 to 3 cm long. Capsules are 2 to 3 mm long, furrowed when dry, with a rostrate operculum. Spores are 12 to 18 μm in diameter, finely papillose, and mature in summer.
 
 ## Distribution and Habitat
 
-Dicranum scoparium has a circumboreal distribution across Europe, Asia, and North America. It occurs from lowland to subalpine elevations, reaching its greatest abundance in boreal and temperate coniferous forests.
+Dicranum scoparium has a circumboreal distribution across Europe, Asia, and [[psilocybin-north-america-pacific-northwest]]. It occurs from lowland to subalpine elevations, reaching its greatest abundance in boreal and temperate coniferous forests.
 
 In North America, it ranges from Alaska to Newfoundland and southward in the Appalachian Mountains to Georgia. In Europe, it is found from Scandinavia to the Mediterranean and eastward through Russia. Disjunct populations occur in montane North Africa and the Caucasus.
 
@@ -63,9 +63,9 @@ Dicranum scoparium tolerates moderate light levels and can persist in forest ope
 
 Dicranum scoparium plays a significant role in forest floor water dynamics. Its dense cushions absorb and retain rainwater, creating moist microhabitats that benefit soil invertebrates and seedling establishment of vascular plants.
 
-The species is a pioneer colonizer of bare wood and disturbed forest floor. It facilitates succession by trapping organic debris and contributing to humus formation as older portions of the mat die and decompose.
+The species is a pioneer colonizer of bare wood and disturbed forest floor. It facilitates succession by trapping organic debris and contributing to [[lowenfels-humus-formation-benefits]] as older portions of the mat die and decompose.
 
-Numerous invertebrates inhabit its cushions, including springtails (Collembola), mites (Acari), and nematodes. These microarthropod communities contribute to nutrient cycling within the moss layer.
+Numerous invertebrates inhabit its cushions, including springtails (Collembola), mites (Acari), and nematodes. These microarthropod communities contribute to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within the moss layer.
 
 It frequently associates with other forest-floor mosses such as [[hypnum-cupressiforme]], and [[polytrichum-commune]]
 - [[pleurozium-schreberi]]
@@ -95,3 +95,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[leptospermum-scoparium]]

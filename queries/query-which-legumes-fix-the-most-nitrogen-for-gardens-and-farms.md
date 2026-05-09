@@ -1,10 +1,11 @@
 ---
-title: "Which legumes fix the most nitrogen for gardens and farms?"
+title: "Which query which legumes fix the most nitrogen for gardens and farms the most nitrogen for gardens and farms?"
 created: 2026-04-28
 tags: [query, legumes, cover-crops, nitrogen]
 date: 2026-05-02
 updated: 2026-05-02
 sources:
+  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: query
 ---
@@ -23,18 +24,18 @@ For most gardens, the winning legume is not the theoretical highest fixer, but t
 
 ### Biomass is the first filter
 
-Nitrogen fixation is tied to living plant growth.
+[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] is tied to living plant growth.
 A legume cannot add much nitrogen if it germinates poorly, grows slowly, or gets terminated too early.
 A lush stand with deep roots and abundant leaf area can support more rhizobia activity than a sparse stand.
-That is why [[mollison-pasture-legumes-and-forage-legumes-of-the-tropics]] and [[cover-crops-green-manures]] and [[cover-cropping-systems]] is often more important than chasing a single maximum number.
+That is why mollison-pasture-legumes-and-forage-legumes-of-the-tropics and [[cover-crops-green-manures]] and [[cover-cropping-systems]] is often more important than chasing a single maximum number.
 
 ### Grain legumes and garden beans
 
-Garden beans and peas fix nitrogen, but they are not always the biggest soil builders.
+Garden [[query-do-beans-and-peas-feed-nearby-plants-with-nitrogen]] [[query-how-to-fix-nitrogen-toxicity-in-cannabis]], but they are not always the biggest soil builders.
 They often send much of their nitrogen into pods and seeds, especially when the harvest is removed.
 Roots and leaves still contribute nitrogen after the crop ends, but the net return can be modest.
 This is why [[solomon-growing-beans-and-peas]] are crop guides rather than complete fertility plans.
-Beans are still valuable because they produce food while participating in biological nitrogen fixation.
+Beans are still valuable because they produce food while participating in [[biological-nitrogen-fixation-agriculture]] fixation.
 They simply should not be treated as a substitute for a dedicated green manure stand.
 
 ### Tropical and subtropical legumes
@@ -44,7 +45,7 @@ Sunn hemp, cowpea, pigeon pea, leucaena, gliricidia, and other tropical support 
 Some are annual cover crops, while others are coppiced shrubs or trees.
 Their value comes from repeated pruning, mulch production, forage, shade, and nitrogen fixation.
 The tree-legume side is covered by [[permaculture-nitrogen-fixing-trees]].
-Tropical pasture and forage design is covered by [[rhizobia-legume-nodule-formation]].
+[[mollison-designers-tropical-pasture-grass-species-and-establishment]] and forage design is covered by [[rhizobia-legume-nodule-formation]].
 The broader symbiosis is explained in [[mollison-designers-legume-tree-inoculation-and-nitrogen-distribution]] adds design context.
 
 ### Soil nitrogen can suppress fixation
@@ -83,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

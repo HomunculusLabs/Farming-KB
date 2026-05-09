@@ -13,7 +13,7 @@ sources:
 
 # Pleurotus citrinopileatus
 
-**Pleurotus citrinopileatus**, commonly known as the golden oyster mushroom or yellow oyster mushroom, is an edible gilled fungus in the family Pleurotaceae. Native to subtropical hardwood forests of East and Southeast Asia, it is prized for its striking golden-yellow coloration, delicate texture, and rich cashew- or almond-like aroma. Among the most visually distinctive of all cultivated mushrooms, it has gained popularity in commercial and home cultivation worldwide.
+**Pleurotus citrinopileatus**, commonly known as the golden oyster mushroom or yellow oyster mushroom, is an edible gilled fungus in the family Pleurotaceae. Native to subtropical hardwood forests of East and Southeast Asia, it is prized for its striking golden-yellow coloration, delicate texture, and rich cashew- or almond-like aroma. Among the most visually distinctive of all [[fungi-cultivated-mushrooms-pathogens-competitors]], it has gained popularity in commercial and home cultivation worldwide.
 
 ## Taxonomy
 
@@ -63,7 +63,7 @@ Golden oysters are among the fastest-colonizing and most productive of all culti
 - **Colonization:** Incubation at 22–28°C with 85–90% humidity. Full colonization typically occurs in 10–14 days — significantly faster than most other oyster species.
 - **Fruiting initiation:** Temperature drop to 18–22°C, high humidity (90–95%), abundant fresh air exchange, and 500–1000 lux of indirect light. High FAE is critical; insufficient air exchange causes elongated, stringy stems.
 - **Fruiting and harvest:** Primordia form within 3–7 days after induction. Mature mushrooms are ready 5–10 days after pinning. Harvest before caps fully flatten and before spore release begins. Multiple flushes (3–5) are typical.
-- **Yield:** Biological efficiency of 100–150% under optimized conditions, among the highest of any cultivated oyster mushroom.
+- **Yield:** [[stamets-biological-efficiency-yield]] of 100–150% under optimized conditions, among the highest of any cultivated oyster mushroom.
 - **Pitfall:** Golden oysters are extremely aggressive colonizers and can fruit at temperatures up to 30°C, but high temperatures produce thin-fleshed, rapidly maturing mushrooms with reduced shelf life. Cooler fruiting temperatures (18–20°C) produce denser, more flavorful fruiting bodies.
 
 ## Nutritional Composition
@@ -84,7 +84,7 @@ Research on *P. citrinopileatus* bioactivity, while less extensive than for some
 
 - **Antioxidant activity:** Methanolic extracts show strong DPPH and ABTS radical scavenging activity, attributed to phenolic compounds and carotenoid pigments.
 - **Immunomodulation:** Polysaccharide extracts activate macrophages and enhance NK cell activity in vitro.
-- **Antimicrobial activity:** Crude extracts demonstrate inhibitory effects against *Staphylococcus aureus*, *Escherichia coli*, and *Candida albicans*.
+- **Antimicrobial activity:** Crude extracts demonstrate inhibitory effects against *Staphylococcus aureus*, *Escherichia coli*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*.
 - **Hypocholesterolemic effects:** Animal studies show that dietary supplementation reduces serum total cholesterol and LDL cholesterol, likely through β-glucan-mediated bile acid binding.
 - **Anti-tumor activity:** Polysaccharide fractions have demonstrated anti-proliferative effects against human cancer cell lines in vitro, though clinical evidence is lacking.
 
@@ -101,7 +101,7 @@ Golden oysters are considered a gourmet edible with a distinctive flavor profile
 
 ## Invasive Potential
 
-Golden oyster mushrooms have become naturalized in parts of North America and Europe after escaping cultivation. The species is an aggressive colonizer that can outcompete native wood-decay fungi. It has been documented growing wild in the eastern United States, the Pacific Northwest, and parts of Central Europe. While not considered a serious ecological threat, its spread has raised awareness about the importance of responsible disposal of spent mushroom substrate.
+Golden oyster mushrooms have become naturalized in parts of [[psilocybin-north-america-pacific-northwest]] and Europe after escaping cultivation. The species is an aggressive colonizer that can outcompete native wood-decay fungi. It has been documented growing wild in the eastern United States, the Pacific Northwest, and parts of Central Europe. While not considered a serious ecological threat, its spread has raised awareness about the importance of responsible disposal of spent [[gourmet-medicinal-mushroom-substrate-preparation]].
 
 ### Documented Naturalized Populations
 - **United States:** First reported in the wild in the Midwest (Ohio, Illinois) in the 2010s, now found across much of the eastern US and Pacific Northwest. Spreads rapidly along waterways where logs and woody debris are present.
@@ -130,4 +130,4 @@ Golden oyster mushrooms have become naturalized in parts of North America and Eu
 - [[candida-albicans]]
 - [[pleurotus-ostreatus]] — Common oyster mushroom, the most widely cultivated *Pleurotus* species
 - [[trametes-versicolor-entity]] — Turkey tail mushroom, another prolific wood-decay fungus with medicinal properties
-- [[hericium-erinaceus]] — Lion's mane mushroom, a non-gilled medicinal and culinary fungus
+- [[hericium-erinaceus]] — Lion's mane mushroom, a non-gilled [[holzer-medicinal-and-culinary-herbs-compendium]] fungus

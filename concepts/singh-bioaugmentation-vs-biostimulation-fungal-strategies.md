@@ -1,5 +1,5 @@
 ---
-title: Singh Bioaugmentation Vs Biostimulation Fungal Strategies
+title: Singh Bioaugmentation Vs singh bioaugmentation vs biostimulation fungal strategies Strategies
 created: 2026-04-26
 tags:
   - bioaugmentation
@@ -21,11 +21,11 @@ type: concept
 Two principal strategies exist for enhancing [[phanerochaete-chrysosporium]] for ligninolytic activity) are
   introduced as vegetative mycelium, spores, or colonized substrate.
 
-- Consortium inoculation: Mixed fungal communities or fungal-bacterial
+- Consortium inoculation: Mixed [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] or fungal-bacterial
   consortia are introduced to target complex contaminant mixtures and
   exploit complementary metabolic capabilities.
 
-- Mycelial mat transplantation: Pre-grown mycelial mats are placed on
+- Mycelial mat transplantation: Pre-grown [[singh-mycelial-mats-and-biological-soil-crusts]] are placed on
   or in contaminated soil, providing immediate hyphal coverage and
   enzymatic activity.
 
@@ -54,7 +54,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -96,4 +96,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

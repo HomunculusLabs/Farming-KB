@@ -21,7 +21,7 @@ created: 2026-05-07
 
 ## Overview
 
-*Termitomyces fuliginosus* is a tropical edible mushroom in the family Lyophyllaceae, obligately associated with fungus-growing termites of the genus *Macrotermes*. It is one of several *Termitomyces* species that serve as the primary fungal symbiont in termite fungus combs across sub-Saharan Africa.
+*Termitomyces fuliginosus* is a tropical [[bloomfield-boletus-satanus-edible-mushroom-hazards]] in the family Lyophyllaceae, obligately associated with fungus-growing termites of the genus *Macrotermes*. It is one of several *Termitomyces* species that serve as the primary fungal symbiont in termite fungus combs across sub-Saharan Africa.
 
 The species is highly valued as a food source across Central and West Africa, where it fruiting bodies appear seasonally following heavy rains. Among the *Termitomyces* species, *T. fuliginosus* is noted for its relatively large size and excellent culinary qualities.
 
@@ -67,11 +67,11 @@ Nutritional analysis of *Termitomyces* species shows high protein content (20-35
 
 The mushrooms are typically collected by local communities during the fruiting season and consumed fresh, dried, or preserved by smoking. They command premium prices in local and regional markets, providing important seasonal income for rural communities.
 
-Bioactive compounds with antioxidant, antimicrobial, and immunomodulatory properties have been isolated from *Termitomyces* species. Polysaccharide fractions have shown antitumor activity in preliminary studies, though clinical validation is lacking.
+[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] with antioxidant, antimicrobial, and immunomodulatory properties have been isolated from *Termitomyces* species. Polysaccharide fractions have shown antitumor activity in preliminary studies, though clinical validation is lacking.
 
 ## Cultivation
 
-Artificial cultivation of *T. fuliginosus* has proven extremely challenging due to its obligate dependence on the termite fungus comb. The fungus requires specific conditions and substrate composition provided by termite agriculture that are difficult to replicate in laboratory settings.
+[[fukuoka-matsutake-artificial-cultivation-attempt]] of *T. fuliginosus* has proven extremely challenging due to its obligate dependence on the termite fungus comb. The fungus requires specific conditions and substrate composition provided by termite agriculture that are difficult to replicate in laboratory settings.
 
 Research efforts have partially succeeded in growing the mycelium on sterilized plant-based substrates supplemented with termite-derived materials. However, fruiting body production under artificial conditions remains unreliable, with most attempts yielding only vegetative mycelium.
 
@@ -79,9 +79,9 @@ The primary method of "cultivation" remains indirect, through the maintenance an
 
 ## Ecological Significance
 
-Fungus-growing termites and their *Termitomyces* symbionts play a critical role in tropical ecosystem nutrient cycling. The termite-fungus comb system processes enormous quantities of plant litter, accelerating decomposition and nutrient mineralization in savanna and forest ecosystems.
+Fungus-growing termites and their *Termitomyces* symbionts play a critical role in tropical ecosystem [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. The termite-fungus comb system processes enormous quantities of plant litter, accelerating decomposition and nutrient mineralization in savanna and forest ecosystems.
 
-Estimates suggest that *Macrotermes* colonies process 1-2 kg of dry plant material per day. The combined activity of fungus-growing termites across the African tropics contributes significantly to soil formation, organic matter turnover, and nitrogen cycling.
+Estimates suggest that *Macrotermes* colonies process 1-2 kg of dry plant material per day. The combined activity of fungus-growing termites across the African tropics contributes significantly to soil formation, organic matter turnover, and [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]].
 
 The termite mounds themselves create localized hotspots of soil fertility and microbial diversity. Mound soils are enriched in organic carbon, available phosphorus, and exchangeable cations compared to surrounding soils, creating resource islands that support distinct plant communities.
 
@@ -95,18 +95,21 @@ The genus *Termitomyces* comprises approximately 30 described species, primarily
 
 The Asian *Termitomyces* species, including *T. clypeatus* and *T. microcarpus*, are associated with different termite genera (*Odontotermes*, *Microtermes*) and occupy distinct phylogenetic positions within the genus.
 
-*Termitomyces* is the only known genus of basidiomycete fungi that has evolved an obligate mutualism with termites. This contrasts with the attine ant-fungus mutualism, which involves a distant lineage of leucocoprinaceous fungi, representing an independent evolutionary origin of insect agriculture.
+*Termitomyces* is the only known genus of [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] that has evolved an obligate mutualism with termites. This contrasts with the attine ant-fungus mutualism, which involves a distant lineage of leucocoprinaceous fungi, representing an independent evolutionary origin of insect agriculture.
 
 ## See Also
+
+- [[termitomyces-eurrhizus]]
+- [[termitomyces-titanellus]]
 
 - [[termitomyces-heimii]]
 - [[pleurotus-ostreatus]]
 - [[lentinula-edodes]]
 - [[agaricus-bisporus]]
-- [[comfrey]]
+- comfrey
 - [[boletus-edulis-entity]]
 - [[amanita-muscaria-entity]]
 - [[morchella-esculenta]]
 - [[grifola-frondosa]]
-- [[coprinus-comatus-detailed]]
+- [[coprinus-comatus]]
 - [[hugelkultur]]

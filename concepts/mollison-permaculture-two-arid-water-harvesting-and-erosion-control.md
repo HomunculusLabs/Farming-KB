@@ -87,6 +87,6 @@ The recommended ratio for runoff catchment to garden area is 16 to 20 to 1. A do
 
 - [[organic-vegetable-growing-calendar]]
 - [[permaculture-earthworks-and-water-harvesting]]
-- [[mollison-arid-settlement-home-garden-design]]
-- [[mollison-arid-lands-design-and-erosion-control]]
+- mollison-arid-settlement-home-garden-design
+- mollison-arid-lands-design-and-erosion-control
 - [[mollison-permaculture-two-broadscale-soil-improvement]]

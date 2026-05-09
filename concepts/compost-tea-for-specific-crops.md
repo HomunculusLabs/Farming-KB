@@ -24,7 +24,7 @@ The general protocol applies across all crop types:
    dressing on crop residue
 2. Pre-planting: Apply 15 gallons of compost tea per acre as soil
    drench 2 weeks before planting
-3. Growing season: Apply 5 gallons per acre as foliar spray monthly,
+3. [[savory-growing-season-and-non-growing-season-management]]: Apply 5 gallons per acre as foliar spray monthly,
    starting 2 weeks before bud break
 4. Transplanting: Mix 30-50% compost/wormcastings with site soil,
    gradually mixing with native soil away from the plug (no sharp
@@ -54,7 +54,7 @@ Specific vineyard protocol:
   tea; plant vines 6 inches away from drip emitter
 - Cover crops: Thyme or marjoram as understory; grasses with
   nitrogen fixers between rows; mow before harvest if needed
-- Mildew: "Getting fungal compost tea on later in the season is the
+- Mildew: "Getting [[bacterial-vs-fungal-compost-teas]] tea on later in the season is the
   only way not to have problems with mildew." Teas with bacteria
   alone are not effective against mildew fungi.
 - After pesticide application (especially sulfur): Apply compost tea
@@ -76,7 +76,7 @@ Specific turf protocol:
 - Thatch removal: Apply fungal compost tea to decompose thatch
   instead of physical removal
 - Overseeding: Spray seeds with compost tea; consider adding
-  mycorrhizal fungal spores if root colonization is lacking
+  [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] spores if root colonization is lacking
 - Fungicide recovery: Apply compost tea 3-5 days after application
 - Herbicide reduction: Expected over time as desirable grasses
   outcompete weeds and nitrate is immobilized
@@ -106,14 +106,14 @@ Specific annual crop protocol:
 
 - Soil drench: 15 gallons per acre 2 weeks before planting
 - Foliar: 5 gallons per acre monthly during growing season
-- Direct seeding: Spray with compost tea while planting to wet seed
+- [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]]: Spray with compost tea while planting to wet seed
   beds
 - Transplanting: 30-50% compost mix with site soil, water with
   compost tea
 - Nutrient additions: First year may need additional nutrients;
   second year usually drops significantly; may not be required by
   year three
-- Reduce fertilizer program by 1/3 each year based on soil foodweb
+- Reduce [[jadam-fertilizer-program-design]] by 1/3 each year based on soil foodweb
   reports
 
 ## Reducing Chemical Inputs Over Time
@@ -132,7 +132,7 @@ Ingham's data consistently shows:
 ## Quality Testing
 
 All compost teas should meet SFI minimum standards for bacterial and
-fungal biomass. Test first three brews with a mix of thermal compost
+fungal biomass. Test first three brews with a mix of [[ingham-thermal-compost-versus-worm-compost]]
 and worm compost, and adjust recipes based on results.
 
 ## See Also

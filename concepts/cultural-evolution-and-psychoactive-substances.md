@@ -1,5 +1,5 @@
 ---
-title: Cultural Evolution and Psychoactive Substances
+title: Cultural cultural evolution and psychoactive substances Substances
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -52,7 +52,7 @@ The transition from what McKenna calls partnership societies to dominator
 societies marked a critical shift in the relationship between cultures and
 psychoactive plants. Partnership cultures, characterized by egalitarianism,
 Goddess worship, and shamanic plant use, were gradually replaced by
-hierarchical, patriarchal dominator cultures that suppressed the open-ended
+hierarchical, patriarchal [[partnership-and-dominator-cultures-in-human-history]] that suppressed the open-ended
 experimental investigation of nature.
 
 This historical transition had profound consequences for cultural evolution. As
@@ -69,7 +69,7 @@ another at astounding speed, humans can now electronically synapse with each
 other across the globe, representing a new phase in cultural evolution.
 
 The concept of cultural evolution driven by psychoactive substances has practical
-implications for understanding current debates about drug policy. If psychoactive
+implications for understanding current debates about [[mckenna-modest-proposal-drug-policy-reform]]. If psychoactive
 plants have been fundamental to human cultural development, then their
 criminalization represents not merely a public health measure but a suppression
 of a deeply rooted dimension of human experience and creativity.
@@ -78,7 +78,7 @@ The archaeological and ethnographic evidence for psychoactive influence on
 cultural evolution includes the widespread presence of psychoactive plant imagery
 in ancient art, the universality of shamanic practices involving plant
 medicines, and the correlation between periods of cultural flowering and
-openness to altered states of consciousness.
+openness to [[weil-the-natural-mind-altered-states-normalcy]] of consciousness.
 
 Critics argue that the evidence for psychoactive causation in cultural evolution
 is largely circumstantial. However, the sheer ubiquity of psychoactive plant use

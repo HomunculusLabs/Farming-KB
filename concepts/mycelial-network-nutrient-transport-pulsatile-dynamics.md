@@ -1,5 +1,5 @@
 ---
-title: Mycelial Network Nutrient Transport and Pulsatile Dynamics
+title: gadd-mycelial-network-dynamics Nutrient Transport and Pulsatile Dynamics
 created: 2026-04-28
 tags:
   - mycelium
@@ -19,9 +19,9 @@ sources:
 type: concept
 ---
 # Mycelial Network Nutrient Transport and Pulsatile Dynamics
-Basidiomycetes are the major agents of decomposition and nutrient cycling in forest
+Basidiomycetes are the major agents of decomposition and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest
 ecosystems, occurring as both saprotrophs and mycorrhizal symbionts.
-Their mycelial networks represent some of the most complex biological transport
+Their [[fungal-mycelial-networks-nutrient-translocation]] represent some of the most complex biological transport
 systems in nature, capable of scavenging and sequestering nutrients from soil,
 concentrating nutrients from decomposing organic matter, and relocating nutrients
 between different organic resources across distances that can span metres or even
@@ -73,7 +73,7 @@ micrometres, consistent with electron microscopy data.
 The vacuolar system serves multiple functions beyond nutrient transport, including
 storage of metabolites, regulation of cellular pH, sequestration of toxic
 compounds, and maintenance of turgor pressure.
-Its role in nutrient translocation exploits the interconnected tubular network as a
+Its role in [[dighton-fungal-nutrient-translocation-element-redistribution]] exploits the interconnected tubular network as a
 low-resistance pathway for the movement of amino acids, sugars, and other soluble
 compounds between different regions of the hyphae.
 
@@ -88,7 +88,7 @@ This critical finding suggests that the vacuolar system acts as an important org
 for coordinating and controlling tip growth and branching.
 The system could potentially be regulated to change its translocation capacity
 according to local nutrient conditions, shifting between increasing transport to
-active tips and preventing unnecessary nutrient mobility by isolating tips.
+active tips and preventing unnecessary [[cervantes-nutrient-mobility-deficiency-diagnosis]] by isolating tips.
 The poise between translocation being sufficient or insufficient depending on the
 amount of branching and status of the vacuolar network provides the fungus with a
 built-in regulatory mechanism.
@@ -120,7 +120,7 @@ In simple microcosms with mycelium growing from a central inoculum, colony
 development followed two distinct phases.
 The first phase showed symmetrical growth and nutrient distribution.
 This was followed by a transition to sparser, more asymmetric growth.
-The duration of the first phase depended on nutrient availability and the
+The duration of the first phase depended on [[ph-and-nutrient-availability-garden-soils]] and the
 developmental age of the colony.
 Added damp cellulosic resources triggered a change in internal nitrogen allocation,
 promoting marked nitrogen accumulation and asymmetric growth tightly focused on the
@@ -136,6 +136,8 @@ exploration followed by focused exploitation of discovered resources.
 ## Pulsatile Transport Discovery
 
 ## See Also
+
+- [[mycelial-network-nutrient-dynamics]]
 
 - [[decomposition]]
 - [[mycelial-networks]]

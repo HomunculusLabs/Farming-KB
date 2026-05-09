@@ -24,10 +24,10 @@ drain quickly but retain few nutrients. Clay soils hold nutrients and water but
 drain poorly and can become compacted. Loam, a balanced mixture of all three
 particles, is considered ideal for most garden plants.
 
-Organic matter, though typically composing only a small percentage of the soil
+[[hamilton-composting-and-organic-matter-management]], though typically composing only a small percentage of the soil
 by weight, is critical to soil health. It improves structure in both sandy and
 clay soils, increases water-holding capacity, provides nutrients as it
-decomposes, and supports the diverse microbial community essential for nutrient
+decomposes, and supports the diverse [[edaphic-factors-microbial-community-structure]] essential for nutrient
 cycling.
 
 ## Soil pH and Nutrient Availability
@@ -62,7 +62,7 @@ volatilization as ammonia gas, and denitrification in waterlogged conditions.
 
 Phosphorus is essential for energy transfer (ATP), root development, flowering,
 and fruit production. It is relatively immobile in soil and tends to accumulate
-near the surface. [[fungi-in-the-environment-symbiotic-relationships]] with plant roots. Mycorrhizal fungi, for example,
+near the surface. [[fungi-in-the-environment-symbiotic-relationships]] with plant roots. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]], for example,
 extend root networks and improve nutrient and water uptake in exchange for
 carbon from the host plant.
 
@@ -79,7 +79,7 @@ materials (browns like leaves, straw, paper), nitrogen-rich materials (greens
 like grass clippings, kitchen scraps), adequate moisture, and oxygen. A carbon-
 to-nitrogen ratio of roughly 30:1 produces the best results.
 
-A properly managed compost pile heats to 130 to 160 degrees Fahrenheit within
+A properly managed [[mushroom-cultivator-compost-pile-management]] heats to 130 to 160 degrees Fahrenheit within
 days, killing weed seeds and most pathogens. Turning the pile every one to two
 weeks maintains aerobic conditions and accelerates decomposition. Finished
 compost is dark, crumbly, and has an earthy aroma. It can be applied to garden
@@ -88,7 +88,7 @@ beds as a soil amendment, used as a mulch, or incorporated into potting mixes.
 ## Cover Crops
 
 Cover crops are plants grown primarily to benefit the soil rather than for
-harvest. Leguminous cover crops like crimson clover, hairy vetch, and winter
+harvest. Leguminous cover crops like [[comparison-lupin-vs-crimson-clover-green-manure]], hairy vetch, and winter
 peas fix atmospheric nitrogen. Grasses like cereal rye and annual ryegrass
 produce abundant biomass and scavenge residual nitrogen. Brassicas like
 daikon radish break compaction with deep taproots.
@@ -103,5 +103,5 @@ provides the most reliable results. Samples are typically taken from the top
 six inches of soil in established gardens or the top four inches for lawns.
 Testing every two to three years is sufficient for most home gardens.
 
-See also: [[home-vegetable-gardening]], crop rotation,
-[[fungal-chitin-decomposition-nutrient-cycling]]
+See also: [[home-vegetable-gardening]], [[comparison-crop-rotation-vs-cover-cropping]],
+fungal-chitin-decomposition-nutrient-cycling

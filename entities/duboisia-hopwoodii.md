@@ -3,7 +3,7 @@ title: Duboisia hopwoodii
 created: 2026-04-28
 type: species
 tags:
-  - nicotine
+  - [[nicotine]]
   - solanaceae
   - australia
   - aboriginal
@@ -81,8 +81,8 @@ leaves include:
 In addition to the leaf alkaloids, hallucinogenic tropane alkaloids
 have been discovered in the roots of Duboisia hopwoodii:
 
-- **Hyoscyamine**
-- **Scopolamine**
+- **[[hyoscyamine]]**
+- **[[scopolamine]]**
 
 These tropane alkaloids are characteristic of the Solanaceae
 family and are found in many related psychoactive plants including

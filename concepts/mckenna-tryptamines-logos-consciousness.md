@@ -9,7 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-Central to Terence McKenna's philosophy of tryptamines is the concept of the Logos—a self-revealing intelligence encountered at the peak of psychedelic experience.
+Central to [[terence-mckenna]]'s philosophy of tryptamines is the concept of the Logos—a self-revealing intelligence encountered at the peak of [[leary-psychedelic-experience-bardo-mapping]].
 
 McKenna uses the term "Logos" in a sense closer to its original Greek and Hermetic meanings than to its Christian theological usage, referring to a universal principle of rational order that pervades reality.
 
@@ -47,7 +47,7 @@ McKenna speculates that ordinary human language may be a degenerate or limited v
 
 In the hypercontinuum, he suggests, meaning is not encoded in sequential symbols but is directly beheld as a spatial phenomenon—a "visible language" in which the content of communication is immediately apparent.
 
-The implication is that the evolution of language is not yet complete and that future forms of communication may more closely approximate the translinguistic modality of the Logos.
+The implication is that the [[mckenna-women-gatherers-and-evolution-of-language]] is not yet complete and that future forms of communication may more closely approximate the translinguistic modality of the Logos.
 
 ## The Logos as Universal Attractor
 
@@ -67,7 +67,7 @@ This teleological reading of the Logos distinguishes McKenna's approach from pur
 
 The encounter with the Logos typically involves a dissolution or transcendence of the ordinary ego, which McKenna describes as a necessary precondition for genuine contact.
 
-The ego, in McKenna's framework, functions as a filter or reducing valve that limits the amount of information available to consciousness—a concept he adapts from Aldous Huxley and Henri Bergson.
+The ego, in McKenna's framework, functions as a filter or reducing valve that limits the amount of information available to consciousness—a concept he adapts from [[aldous-huxley]] and Henri Bergson.
 
 Tryptamines temporarily disable this filter, allowing consciousness to expand beyond its ordinary boundaries and to encounter the Logos directly.
 
@@ -89,7 +89,7 @@ McKenna describes the teaching as "higher dimensional"—it cannot be fully tran
 
 The pedagogical character of the Logos encounter suggests that the intelligence behind the experience is not indifferent to human beings but is actively engaged in a process of communication and education.
 
-This aspect of the experience has led some researchers, including Rick Strassman, to draw parallels with the concept of a "spiritual teacher" or "guide" in indigenous shamanic traditions.
+This aspect of the experience has led some researchers, including [[rick-strassman]], to draw parallels with the concept of a "spiritual teacher" or "guide" in indigenous shamanic traditions.
 
 ## The Logos and Philip K. Dick's VALIS
 
@@ -101,7 +101,7 @@ Both McKenna and Dick describe the encountered intelligence as being constituted
 
 The parallel extends to the phenomenology of the encounter: both describe experiences of overwhelming informational density, of contact with entities that appear to be made of language, and of a teaching that concerns the nature of reality.
 
-The convergence between McKenna's psychedelic reports and Dick's non-drug mystical experiences suggests that the Logos can be accessed through multiple means, not only through tryptamines.
+The convergence between McKenna's psychedelic reports and Dick's non-drug [[psilocybin-mystical-experiences-personality-change]] suggests that the Logos can be accessed through multiple means, not only through tryptamines.
 
 McKenna cites Dick's work as independent confirmation that the Logos is a genuine feature of reality rather than a drug-specific artifact.
 

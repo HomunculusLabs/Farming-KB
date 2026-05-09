@@ -1,5 +1,5 @@
 ---
-title: "5-TME (5-THIOMETAESCALINE;) -- PIHKAL Entry #165"
+title: "5-TME (5-THIOMETAESCALINE;) -- 2c-b-pihkal-entry-20 #165"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -51,7 +51,7 @@ a thick precipitate which was stirred for 5 min. There was then added
 thinner and lighter. The dry ice bath was removed and the reaction
 allowed to come to room temperature over the course of 15 min. This
 was then added to 400 mL of dilute HCl. The two phases were
-separated, and the aqueous phase was heated on the steam bath for 1 h
+separated, and the aqueous phase was heated on the [[scythian-cannabis-steam-bath-ritual]] for 1 h
 which generated a separate yellow oily phase. On cooling, this set to
 a yellow solid, which was removed by filtration, washed with H2O, and
 sucked relatively free of H2O. These yellow solids weighed 14.4 g and
@@ -69,7 +69,7 @@ in 100 mL nitromethane, there was added 0.5 g anhydrous ammonium
 acetate and the mixture was heated on the steam bath for 1.5 h, at
 which time most of the aldehyde had disappeared and there was a
 sizeable quantity of nitrostyrene as well as a cascade of wrong things
-down to the origin, as seen by TLC on silica gel, with CH2Cl2. The
+down to the origin, as seen by TLC on [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]], with CH2Cl2. The
 excess nitromethane was removed under vacuum, and the residual red oil
 was dissolved in 25 mL of hot MeOH and decanted from a small amount of
 insoluble material. With cooling in an ice bath for 20 min, bright
@@ -85,9 +85,12 @@ were chromatographically and analytically identical. Anal.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
+
+- [[4-tme-entity-pihkal]]
+- [[3-tme-entity-pihkal]]
 
 - [[mme-entity-pihkal]]
 

@@ -10,7 +10,7 @@ tags: [agroforestry, permaculture, fencing, windbreak, livestock, polyculture]
 
 A living fence (also called a hedge, live fence, or fedge) is a line of closely planted shrubs and trees that serves as a barrier, boundary marker, windbreak, and wildlife corridor. Unlike conventional post-and-wire fencing, living fences are self-repairing, long-lived, productive, and increase in value over time as they mature. They represent one of the oldest forms of land division, with hedgerow systems in Britain and Europe dating back thousands of years.
 
-In permaculture design, living fences are multifunctional elements that simultaneously provide wind protection, livestock containment, wildlife habitat, erosion control, forage, fuelwood, and microclimate moderation. They transform a boundary — normally a dead, unproductive edge — into a productive biological corridor.
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], living fences are multifunctional elements that simultaneously provide wind protection, livestock containment, wildlife habitat, [[permplant-willows-salix-erosion-control-fodder]], forage, fuelwood, and microclimate moderation. They transform a boundary — normally a dead, unproductive edge — into a productive biological corridor.
 
 ## Functions of Living Fences
 
@@ -32,7 +32,7 @@ Root systems of hedge plants stabilize soil on slopes, ditch banks, and field ma
 
 ### Production
 
-Living fences can yield firewood, livestock fodder (leaf hay), fruits, nuts, medicinal herbs, craft materials (basketry willow, hazel hurdles), nitrogen fixation (when leguminous species are included), and mulch material through regular trimming.
+Living fences can yield firewood, livestock fodder (leaf hay), fruits, nuts, medicinal herbs, craft materials (basketry willow, hazel hurdles), [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] (when leguminous species are included), and mulch material through regular trimming.
 
 ## Species Selection
 
@@ -40,7 +40,7 @@ Living fences can yield firewood, livestock fodder (leaf hay), fruits, nuts, med
 
 These form the structural backbone of livestock-containment hedges:
 
-- **Osage orange (Maclura pomifera)**: Exceptionally durable, rot-resistant wood; dense thorny growth; native to central North America; traditional fencing tree of the Great Plains before barbed wire
+- **Osage orange (Maclura pomifera)**: Exceptionally durable, rot-resistant wood; dense thorny growth; native to central [[psilocybin-north-america-pacific-northwest]]; traditional fencing tree of the Great Plains before barbed wire
 - **Hawthorn (Crataegus spp.)**: Classic European hedgerow species; dense thorny branches; excellent wildlife habitat; medicinal berries
 - **Blackthorn (Prunus spinosa)**: Extremely thorny; produces sloe berries for gin; excellent stock-proof barrier
 - **Honey locust (Gleditsia triacanthos)**: Ferocious thorns on young growth; nitrogen-fixing; edible pods for livestock; fast-growing
@@ -52,12 +52,12 @@ These form the structural backbone of livestock-containment hedges:
 These are woven into the barrier hedge to add yield:
 
 - **Elderberry (Sambucus nigra/canadensis)**: Medicinal berries; wildlife food; fast growth in moist locations
-- **Blackberry and raspberry (Rubus spp.)**: Bramble fruit production; natural livestock deterrent
+- **Blackberry and raspberry (Rubus spp.)**: Bramble fruit production; [[fukuoka-natural-livestock-farming]] deterrent
 - **Hazelnut (Corylus avellana)**: Nut production; traditional coppice species for hurdle-making
 - **Sea buckthorn (Hippophae rhamnoides)**: Nitrogen-fixing; nutrient-rich berries; excellent coastal species
 - **Goumi (Elaeagnus multiflora)**: Nitrogen-fixing; edible fruit; drought-tolerant once established
 - **Aronia (Aronia melanocarpa)**: Superfood berries; ornamental; wildlife food source
-- **Willow (Salix spp.)**: Fast establishment; biomass production; basketry material; livestock browse; living fence posts
+- **Willow (Salix spp.)**: Fast establishment; [[dighton-fungal-biomass-production-aquatic-ecosystems]]; basketry material; livestock browse; living fence posts
 
 ### Nitrogen-Fixing Support Species
 
@@ -110,7 +110,9 @@ Beyond the savings on conventional fencing materials ($5–15 per linear foot fo
 
 ## See Also
 
+- [[comparison-living-fences-vs-hedgerows]]
+
 - [[forest-edge-windbreak-rainfall-compression]] — windbreak physics
 - [[leucaena-alley-cropping-systems]] — multipurpose tree systems
 - [[chop-and-drop-mulching]] — using hedge trimmings as mulch
-- [[permaculture-designers-manual-coppice-systems]] — coppice and pollard techniques
+- permaculture-designers-manual-coppice-systems — coppice and pollard techniques

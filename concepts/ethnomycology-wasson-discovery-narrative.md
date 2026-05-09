@@ -9,15 +9,15 @@ sources:
 ---
 # Ethnomycology — Wasson's Discovery Narrative
 
-**Source:** The Road to Eleusis, Chapter I — R. Gordon Wasson
+**Source:** The [[the-road-to-eleusis-wasson-hofmann-ruck]], Chapter I — R. Gordon Wasson
 
 ## Overview
 
-R. Gordon Wasson's [[psychedelic-secrecy-comparative-eleusis-mesoamerica]] in 1955. This discovery fundamentally changed the understanding of the role of psychoactive fungi in human religion and culture.
+R. Gordon Wasson's [[psychedelic-secrecy-comparative-eleusis-mesoamerica]] in 1955. This discovery fundamentally changed the understanding of the role of [[cattle-dispersal-psychoactive-fungi-australia]] in human religion and culture.
 
 ## The 1955 Discovery
 
-Wasson, a banker and amateur mycologist, and his wife Valentina Pavlovna Wasson, a pediatrician, first traveled to Mexico in search of mushroom rituals in 1953. Their successful participation in a [[kykeon-composition-and-ergot-alkaloid-hypothesis]] contained a preparation of [[mushrooms-as-food-of-the-gods-broma-theon]] for mushrooms was, in Wasson's view, a fossil of an older mycophilic phase that had been largely but not entirely erased.
+Wasson, a banker and amateur mycologist, and his wife Valentina Pavlovna Wasson, a pediatrician, first traveled to Mexico in search of mushroom rituals in 1953. Their successful participation in a [[kykeon-composition-and-ergot-alkaloid-hypothesis]] contained a preparation of mushrooms-as-food-of-the-gods-broma-theon for mushrooms was, in Wasson's view, a fossil of an older mycophilic phase that had been largely but not entirely erased.
 
 ## Comparative Method
 
@@ -31,13 +31,13 @@ This comparative method was both the strength and the vulnerability of the [[psy
 
 ## Valentina Pavlovna Wasson's Contribution
 
-The valentina pavlovna wasson in the discovery of Mesoamerican mushroom rituals has been increasingly recognized by scholars. A Russian-born pediatrician, she brought a unique cross-cultural perspective to the project: growing up in Russia (a mycophilic culture), she was astonished by her American husband's mycophobic reaction to wild mushrooms.
+The valentina pavlovna wasson in the discovery of Mesoamerican mushroom rituals has been increasingly recognized by scholars. A Russian-born pediatrician, she brought a unique cross-cultural perspective to the project: growing up in Russia (a mycophilic culture), she was astonished by her American husband's mycophobic reaction to [[edible-wild-mushrooms-by-region]].
 
 It was Valentina who first proposed that the cultural divide over mushrooms might reflect deep religious and spiritual differences, not merely culinary preferences. Her insight drove the couple's research program and ultimately led to the Mexico expeditions. She co-authored "Mushrooms, Russia and History" (1957), the foundational text of ethnomycology, and participated directly in the 1955 velada ceremony.
 
 ## The Mexico Expeditions and Their Consequences
 
-The [[three-pillars-mushroom-cultivation-spawn-substrate-environment]], particularly for Maria Sabina, who felt betrayed by the exposure. The influx of outsiders disrupted traditional practices and attracted law enforcement attention. The episode became a cautionary tale about the ethics of ethnographic research and the vulnerability of indigenous knowledge systems.
+The [[three-pillars-mushroom-cultivation-spawn-substrate-environment]], particularly for [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]], who felt betrayed by the exposure. The influx of outsiders disrupted traditional practices and attracted law enforcement attention. The episode became a cautionary tale about the ethics of ethnographic research and the vulnerability of indigenous knowledge systems.
 
 ## Scholarly Response and Criticism
 
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,11 +1,12 @@
 ---
-title: "Cervantes - Nematodes, Root Maggots, and Soil Pests"
+title: "Cervantes - Nematodes, cervantes nematodes root maggots soil pests, and Soil Pests"
 created: 2026-04-26
 tags: [cannabis, nematodes, root-maggots, soil-pests, pest-control]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -14,7 +15,7 @@ type: concept
 Soil-borne pests that attack cannabis roots can be
 among the most difficult problems to diagnose and
 control. Because the damage occurs underground, symptoms
-often resemble nutrient deficiencies or diseases. Jorge
+often resemble [[hamilton-nutrient-deficiencies-and-treatment]] or diseases. Jorge
 Cervantes provides detailed guidance on identifying and
 managing nematodes, root maggots, and other subterranean
 pests that threaten cannabis gardens.
@@ -57,9 +58,9 @@ pests themselves.
   nematodes and can be planted as a companion crop.
 - **Beneficial fungi** (Myrothecium verrucaria, trade
   name DiTera ES) attack pest nematodes.
-- **Beneficial nematodes** (Steinernema feltiae) are
+- **[[ingham-beneficial-nematodes-soil-food-web]]** (Steinernema feltiae) are
   predatory and attack pest nematode species.
-- **Neem oil** applied as a soil drench can help
+- **[[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]** applied as a soil drench can help
   suppress nematode populations.
 - Nematodes rarely cause problems indoors in clean
   grow rooms with fresh growing medium.
@@ -93,7 +94,7 @@ appetite.
 - Cabbage maggots attack roots, leaving hollowed-out
   channels and holes in larger roots
 - Both species destroy small hair-like feeder roots
-- Wounds foster soft rot and fungal diseases including
+- Wounds foster [[staycare-soft-rot-fungi-in-pollutant-degradation]] and fungal diseases including
   Fusarium and Pythium
 
 ### Control
@@ -144,3 +145,6 @@ around stem joints.
 ## Leafhoppers
 
 ### Identification
+## See Also
+
+- [[cervantes-root-maggots-cutworms]]

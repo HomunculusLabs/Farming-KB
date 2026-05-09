@@ -15,7 +15,7 @@ These traditional herbal remedies were once found in almost every "home pharmacy
 
 ### Ingredients
 - Two heaped double handfuls of calendula (Calendula officinalis) — whole plant including stem, leaves and flowers
-- Roughly half a litre of lard (available from a butcher), or vegetable oil (e.g. olive oil)
+- Roughly half a litre of lard (available from a butcher), or vegetable oil (e.g. [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]])
 - If using vegetable oil: 200-250g beeswax per litre of oil as thickening agent
 
 ### Method
@@ -77,7 +77,7 @@ Applied directly to heavily bleeding wounds. Its ability to stop bleeding means 
 
 ## Drawing Salve (Traditional)
 
-Made from tree resin (liquid larch pitch) mixed with different medicinal herbs and applied as a poultice. The effect was so powerful it could treat inflammation and festering wounds in a very short time.
+Made from tree resin (liquid larch pitch) mixed with different [[permaculture-plants-medicinal-herbs-healing]] and applied as a poultice. The effect was so powerful it could treat inflammation and festering wounds in a very short time.
 
 ## Onion, Garlic and Horseradish Poultice
 

@@ -1,18 +1,19 @@
 ---
-title: Fukuoka Citrus Orchard Ground Cover Cultivation
+title: Fukuoka fukuoka-citrus-orchard-establishment-bare-hillside fukuoka-ground-cover-strategy Cultivation
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Citrus Orchard Ground Cover Cultivation
 
 updated: 2026-04-18
 
-When Fukuoka set out to revive his father's orchard of old citrus trees following World War II, he began by studying soil conditioning and ground cover cultivation. This became one of the most practical and detailed aspects of his [[citrus-reticulata]]
+When Fukuoka set out to revive his father's orchard of old [[fukuoka-textdoc-search-natural-form-citrus-trees]] following World War II, he began by studying soil conditioning and ground cover cultivation. This became one of the most practical and detailed aspects of his [[citrus-reticulata]]
 
 - [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-white-clover-ground-cover]]
@@ -20,7 +21,7 @@ When Fukuoka set out to revive his father's orchard of old citrus trees followin
 - [[fukuoka-white-clover-ground-cover]]
 ## Practical Applications
 
-Fukuoka Citrus Orchard Ground Cover Cultivation has a range of practical applications that make it relevant to
+[[fukuoka-citrus-orchard-establishment-bare-hillside]] Ground Cover Cultivation has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -35,7 +36,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -85,7 +86,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -95,4 +96,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

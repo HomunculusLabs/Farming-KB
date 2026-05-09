@@ -1,35 +1,18 @@
 ---
-title: Fungal Metagenomics and Molecular Diversity Assessment
+title: Fungal Metagenomics and Molecular ingham-soil-food-web-diversity-assessment-dna-molecular-methods
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology, fungi]
-sources: []
+tags: [mycology, fungi]
+sources:
+  sources: []
 ---
-# Fungal Metagenomics and Molecular Diversity Assessment
-
-Molecular approaches have revolutionized the assessment of fungal biodiversity, enabling detection of species that are impossible or difficult to culture. These culture-independent methods provide a more complete picture of fungal community composition and have revealed that fungal diversity is vastly greater than previously estimated from culture-based studies.
-
-## Nuclear Ribosomal DNA as a Molecular Marker
-
-The nuclear ribosomal RNA gene cluster is the most widely used molecular marker for fungal biodiversity studies. It contains both conserved regions for universal primer binding and variable regions for species discrimination:
-
-- **18S (SSU) rDNA**: Small subunit ribosomal DNA, useful for broad phylogenetic placement and community-level studies at higher taxonomic levels
-
-- **ITS (Internal Transcribed Spacer) regions**: The most widely used barcode region for fungi, including ITS1, the 5.8S gene, and ITS2. The ITS region is the official DNA barcode for fungi and shows high interspecific variation
-
-- **28S (LSU) rDNA**: Large subunit ribosomal DNA, useful for phylogenetic studies at genus to order level
-
-Conserved regions flanking the variable ITS region allow design of universal fungal primers that amplify most fungal taxa from environmental samples. Oligonucleotide primers may generate more than 100 amplified products from individual sporocarp tissues, reflecting the presence of multiple fungal genomes.
-
-## Mitochondrial DNA Markers
-
-The [[fungal-biodiversity]] in ecosystem processes such as [[fungal-ecology]], these tools have revealed the vast hidden diversity of soil fungal communities and the temporal dynamics of community assembly. In bioremediation, molecular monitoring of fungal communities during treatment processes provides insights into the microorganisms responsible for pollutant degradation. In plant pathology, molecular detection of pathogenic fungi in environmental samples enables early disease detection and monitoring.
+# Fungal Metagenomics and Molecular Diversity Assessment Molecular approaches have revolutionized the assessment of fungal biodiversity, enabling detection of species that are impossible or difficult to culture. These culture-independent methods provide a more complete picture of fungal community composition and have revealed that fungal diversity is vastly greater than previously estimated from culture-based studies. ## Nuclear Ribosomal DNA as a Molecular Marker The nuclear ribosomal RNA gene cluster is the most widely used molecular marker for fungal biodiversity studies. It contains both conserved regions for universal primer binding and variable regions for species discrimination: - **18S (SSU) rDNA**: Small subunit ribosomal DNA, useful for broad phylogenetic placement and community-level studies at higher taxonomic levels - **ITS (Internal Transcribed Spacer) regions**: The most widely used barcode region for fungi, including ITS1, the 5.8S gene, and ITS2. The ITS region is the official DNA barcode for fungi and shows high interspecific variation - **28S (LSU) rDNA**: Large subunit ribosomal DNA, useful for phylogenetic studies at genus to order level Conserved regions flanking the variable ITS region allow design of universal fungal primers that amplify most fungal taxa from environmental samples. Oligonucleotide primers may generate more than 100 amplified products from individual sporocarp tissues, reflecting the presence of multiple fungal genomes. ## Mitochondrial DNA Markers The [[fungal-biodiversity]] in ecosystem processes such as [[fungal-ecology]], these tools have revealed the vast hidden diversity of soil fungal communities and the temporal dynamics of community assembly. In bioremediation, molecular monitoring of fungal communities during treatment processes provides insights into the microorganisms responsible for pollutant degradation. In plant pathology, molecular detection of pathogenic fungi in environmental samples enables early disease detection and monitoring.
 
 ## Related Topics
 
 - [[fungal-molecular-identification]]
-- [[culturing-culture-independent-fungi]]
+- culturing-culture-independent-fungi
 - [[fungal-biodiversity-measurement-methods]]
 
 ## References
@@ -37,7 +20,7 @@ The [[fungal-biodiversity]] in ecosystem processes such as [[fungal-ecology]], t
 - Biodiversity of Fungi (2004), Chapter 6: Molecular Approaches to Assessing Fungal Biodiversity
 - Bruns, T.D. et al. 1991. Evolutionary relationships within the fungi
 - Anderson, I.C. and Cairney, J.W.G. 2004. Diversity and ecology of soil fungal communities
-- [[fungal-functional-diversity]] for functional diversity concepts.
+- fungal-functional-diversity for [[fungal-functional-diversity-decomposition]] concepts.
 
 Functional redundancy is a key mechanism underpinning fungal community resilience. Many fungal species perform similar ecological functions, particularly within broad functional groups such as white-rot decomposers, brown-rot decomposers, or ectomycorrhizal partners. If one species is lost to disturbance, others with overlapping functional capabilities may partially compensate for its loss. The degree of functional redundancy varies among fungal functional groups and ecosystem types, being generally higher in species-rich tropical forests than in species-poor boreal or managed ecosystems.
 
@@ -47,7 +30,7 @@ Several biological and ecological mechanisms contribute to fungal community resi
 
 Dispersal from regional species pools allows re-colonization of disturbed habitats, maintaining connectivity between local and regional communities. The aerial spore rain that constantly deposits fungal propagules across landscapes provides a continual supply of potential colonists, enabling community recovery even after severe local extinctions.
 
-The perennial nature of mycelial networks provides a persistent biological framework that can regenerate from surviving hyphal fragments even after above-ground damage. Many fungi can regrow from small hyphal fragments or from mycelium surviving at depth in soil or wood, providing a biological legacy that accelerates post-disturbance recovery.
+The perennial nature of [[fungal-mycelial-networks-nutrient-translocation]] provides a persistent biological framework that can regenerate from surviving hyphal fragments even after above-ground damage. Many fungi can regrow from small hyphal fragments or from mycelium surviving at depth in soil or wood, providing a biological legacy that accelerates post-disturbance recovery.
 ## Practical Considerations
 
 When working with Fungal Metagenomics and Molecular Diversity Assessment, several practical factors should be
@@ -64,7 +47,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +89,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

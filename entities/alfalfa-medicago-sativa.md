@@ -1,5 +1,5 @@
 ---
-title: "Alfalfa (Medicago sativa)"
+title: "Alfalfa (medicago-sativa)"
 created: 2026-04-28
 type: species
 tags: [fabaceae, legume, nitrogen-fixer, forage-crop, permaculture, dynamic-accumulator, cover-crop, herbal-plant, medicinal-plant, pollinator-habitat, green-manure]
@@ -14,7 +14,7 @@ sources:
 # Alfalfa (*Medicago sativa*)
 
 ## Overview
-Alfalfa is a perennial flowering plant in the legume family Fabaceae and one of the world's most important forage crops. Known as "lucerne" in the UK, Australia, New Zealand, and parts of Asia, it has been cultivated for over 4,000 years. Its extraordinarily deep taproot system (extending to 15+ meters) grants it exceptional drought resistance and the ability to access minerals unavailable to shallower-rooted plants. Alfalfa serves as a nitrogen-fixing cover crop, livestock forage, green manure, herbal medicine, and human food (sprouts). It is a keystone species in permaculture design owing to its multiple ecological functions.
+Alfalfa is a perennial flowering plant in the legume family Fabaceae and one of the world's most important forage crops. Known as "lucerne" in the UK, Australia, New Zealand, and parts of Asia, it has been cultivated for over 4,000 years. Its extraordinarily deep taproot system (extending to 15+ meters) grants it exceptional drought resistance and the ability to access minerals unavailable to shallower-rooted plants. Alfalfa serves as a nitrogen-fixing cover crop, livestock forage, green manure, [[herbal-medicine]], and human food (sprouts). It is a keystone species in [[permaculture-design]] owing to its multiple ecological functions.
 
 ## Taxonomy and Naming
 - **Kingdom:** Plantae
@@ -66,10 +66,10 @@ Alfalfa hay is valued for its high protein and mineral content. Values below are
 ## Permaculture Applications
 - **Nitrogen fixation:** Symbiosis with *Rhizobium meliloti* fixes 100–300 kg N/ha/year, enriching soil for subsequent crops and neighboring plants.
 - **Dynamic accumulator:** Deep taproot mines subsoil minerals (calcium, magnesium, potassium, iron) and deposits them in leaf tissue; returns nutrients to surface soil via mulch and decomposition.
-- **Biomass generation:** Produces 8–20 tonnes dry matter/ha/year across multiple cuttings; ideal material for mulch, compost, and sheet mulching systems.
+- **Biomass generation:** Produces 8–20 tonnes dry matter/ha/year across multiple cuttings; ideal material for mulch, compost, and [[sheet-mulching]] systems.
 - **Pollinator support:** Prolonged bloom period provides nectar and pollen for honeybees, bumblebees, and native solitary bees; critical for apiary integration.
 - **Erosion control:** Dense root network and ground cover stabilize slopes, roadcuts, and riparian zones; used in conservation seedings.
-- **Alley cropping companion:** Intercropped between orchard rows or nut trees to suppress weeds, cycle nutrients, and provide cut-and-carry mulch for tree crops.
+- **[[alley-cropping]] companion:** Intercropped between orchard rows or nut trees to suppress weeds, cycle nutrients, and provide cut-and-carry mulch for tree crops.
 
 ## Cultivation and Management
 Alfalfa prefers well-drained loam to clay loam soils with pH 6.5–7.5. It is intolerant of prolonged waterlogging and acidic soils (pH <6.0). Seed is typically inoculated with *R. meliloti* before planting at 10–25 kg/ha. Optimal seeding depth is 6–13 mm. First cutting occurs at early bloom (10–25% flower); subsequent cuttings follow a 28–35 day interval depending on climate. Harvest frequency ranges from 3 cuttings/year in cool temperate zones to 11 in subtropical irrigated systems. Stand lifespan is 3–12+ years with proper management (adequate potassium and phosphorus fertility, pest management, rotational rest). Winter hardiness varies by cultivar (dormancy ratings 1–11). Alfalfa weevil (*Hypera postica*) and potato leafhopper (*Empoasca fabae*) are primary insect pests.
@@ -94,7 +94,7 @@ Alfalfa integrates well into diverse polyculture guilds, particularly in food fo
 | Fruit trees | Beneficial | N-fixing understory, mulch source |
 | Tomato | Beneficial | Provides nitrogen; avoid shading |
 | Berry bushes | Beneficial | Living mulch, nutrient cycling |
-| Comfrey | Synergistic | Both dynamic accumulators; complementary root depths |
+| Comfrey | Synergistic | Both [[dynamic-accumulators]]; complementary root depths |
 | Black locust | Synergistic | Dual N-fixers in food forest canopy + understory |
 | Clover | Neutral | Both legumes; some resource overlap |
 | Oats/barley | Beneficial | Nurse crop during establishment |

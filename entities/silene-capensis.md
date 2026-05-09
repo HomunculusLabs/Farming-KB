@@ -63,7 +63,7 @@ omndini* (diviner-healer) practice:
   serving, taken daily for up to two weeks. Extended use beyond this period is discouraged in traditional practice.
 - **Preparation**: The foam preparation method is critical — the mechanical agitation (beating) rather than simple
   decoction or infusion is believed to activate the oneirogenic compounds, possibly through enzymatic or mechanical
-  cell wall disruption.
+  [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] disruption.
 
 ## Chemical Constituents and Pharmacology
 
@@ -90,14 +90,14 @@ Research into the active constituents of *S. capensis* is ongoing and has yielde
   year; growth accelerates in year two. Root harvest is typically done at 2–3 years.
 - **Hardiness**: Hardy to approximately USDA zone 8; tolerates light frost but not prolonged freezing. In colder
   climates, grow in containers and overwinter indoors.
-- **Pests**: Relatively pest-free; aphids may occasionally attack flowering stems. Root rot is the primary disease
+- **Pests**: Relatively pest-free; aphids may occasionally attack flowering stems. [[cannabis-root-rot-prevention-and-treatment]] is the primary disease
   concern in waterlogged soils.
 
 ## Safety and Legal Status
 
 *Silene capensis* is not scheduled or controlled in most jurisdictions. No significant toxicity has been reported in
 traditional or experimental use. Mild gastrointestinal discomfort (nausea, bloating) has been reported with excessive
-consumption of the raw root foam. No drug interactions have been documented, though the saponin content could
+consumption of the raw root foam. No [[cannabis-drug-interactions-and-contraindications]] have been documented, though the saponin content could
 theoretically enhance absorption of co-administered substances. Pregnant and breastfeeding women are traditionally
 advised to avoid use.
 
@@ -105,7 +105,7 @@ advised to avoid use.
 
 *Silene capensis* is one of several plants traditionally used to enhance dreaming. A comparative overview:
 
-- **Calea zacatechichi** (Mexican dream herb) — Bitter leaf tea; activates dream recall more than vividness. Contains
+- **Calea zacatechichi** (Mexican [[calea-zacatechichi-dream-herb-ethnobotany]]) — Bitter leaf tea; activates dream recall more than vividness. Contains
   sesquiterpene lactones and flavonoids. Effects felt immediately but do not accumulate.
 - **Entada rheedii** (African dream bean) — Seeds consumed whole; produces dream enhancement similar to *S. capensis*
   but with shorter onset. Contains saponins and alkaloids.
@@ -125,8 +125,9 @@ published as of 2026.
 
 ## See Also
 
+- [[silene-undulata]]
+
 - [[mimosa-tenuiflora]]
 - [[entada-rheedii]]
 - oneirogens
 - [[calea-zacatechichi]]
-- [[entada-rheedii]]

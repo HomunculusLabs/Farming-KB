@@ -44,21 +44,21 @@ Ursolic acid (3β-hydroxy-urs-12-en-28-oic acid) is a pentacyclic triterpenoid c
 
 ## Natural Sources
 
-Ursolic acid is biosynthesized via the mevalonate pathway from 2,3-oxidosqualene through the action of ursolic acid synthase (α-amyrin synthase), which cyclizes the precursor into the ursane skeleton. Major dietary and botanical sources include:
+Ursolic acid is biosynthesized via the mevalonate pathway from 2,3-oxidosqualene through the action of ursolic acid synthase (α-amyrin synthase), which cyclizes the precursor into the ursane skeleton. Major dietary and [[dmt-botanical-sources-pharmacology]] include:
 
 **Fruits** (primarily in peel/wax coating):
 - **Apple** (Malus domestica): Richest common dietary source; peel contains 0.5–1.0 mg/g. Daily intake from apples: 2–12 mg
 - **Cranberry** (Vaccinium macrocarpon): Significant content in fruit and leaves
 - **Blueberry, bilberry, lingonberry** (Vaccinium spp.): Moderate skin content
 - **Pear, peach, plum, cherry, loquat, jujube**: Present in peel waxes
-- **Olive** (Olea europaea): Present in fruit and olive oil
+- **Olive** (Olea europaea): Present in fruit and [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]]
 
-**Herbs and medicinal plants**:
+**[[holzer-kitchen-garden-herbs-and-medicinal-plants]] plants**:
 - **Holy basil / Tulsi** ([[rosmarinus-officinalis-entity]]): 1.5–3.0% in dried leaves; richest herbal source
 - **Oregano** ([[prunella-vulgaris]]), elderberry, honeysuckle (Lonicera japonica)**: Present in aerial parts
 
 **Traditional medicines containing ursolic acid**:
-- Bearberry (Arctostaphylos uva-ursi) — original source; loquat leaf (Eriobotrya japonica); oldenlandia diffusa (Chinese anticancer herb); Ganoderma lucidum (reishi triterpenoid fraction)
+- Bearberry (Arctostaphylos uva-ursi) — original source; loquat leaf (Eriobotrya japonica); oldenlandia diffusa (Chinese anticancer herb); [[stamets-reishi-ganoderma-lucidum-cultivation]] (reishi triterpenoid fraction)
 
 ## Pharmacology and Mechanisms of Action
 
@@ -119,7 +119,7 @@ The primary limitation of ursolic acid as a therapeutic agent is its poor aqueou
 - **Dietary supplement**: Marketed for sports nutrition (muscle-building, fat-burning), often combined with ashwagandha or creatine. Typical doses: 150–500 mg/day
 - **Skin care**: Topical anti-aging and anti-inflammatory formulations; stimulates collagen and inhibits MMP-1
 - **Cancer adjunct**: Investigated as adjuvant to chemotherapy; enhances doxorubicin, cisplatin, and 5-FU efficacy in preclinical models
-- **Metabolic syndrome**: Insulin sensitization, lipid modulation, and hepatoprotection in NAFLD/NASH
+- **[[cannabis-metabolic-syndrome-research]]**: Insulin sensitization, lipid modulation, and hepatoprotection in NAFLD/NASH
 - **Traditional medicine**: Active constituent in Ayurvedic, TCM, Kampo, and European herbal pharmacopoeias
 
 ## Safety Profile
@@ -128,7 +128,7 @@ The primary limitation of ursolic acid as a therapeutic agent is its poor aqueou
 - **Subchronic toxicity** (90-day, rat): NOAEL 1,000 mg/kg/day
 - **Genotoxicity**: Negative in Ames test and chromosome aberration assay
 - **Human tolerability**: Well-tolerated at 500 mg/day for 12 weeks; mild GI discomfort at higher doses
-- **Drug interactions**: May potentiate antidiabetic medications; CYP450 interactions possible; avoid during pregnancy
+- **[[cannabis-drug-interactions-and-contraindications]]**: May potentiate antidiabetic medications; CYP450 interactions possible; avoid during pregnancy
 
 ## Key Details
 
@@ -144,8 +144,6 @@ The primary limitation of ursolic acid as a therapeutic agent is its poor aqueou
 | Safety | Excellent (NOAEL 1000 mg/kg/day, rat) |
 | Primary limitation | Poor solubility and bioavailability |
 
-## Relevance
-
 ## See Also
 
-- [[herbal-medicine-making]]
+- [[herbal-medicine-making-basics]]

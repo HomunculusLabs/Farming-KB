@@ -5,7 +5,8 @@ updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka Water Management
@@ -74,7 +75,7 @@ The entire system of water management -- levee building, mole control, communal 
 
 ---
 
-Source: Masanobu Fukuoka, The Natural Way of Farming: The Theory and Practice of Green Philosophy
+Source: Masanobu Fukuoka, The Natural Way of Farming: The Theory and Practice of [[fukuoka-sowing-green-philosophy-one-grain-revolution]]
 
 ## See Also
 
@@ -83,7 +84,7 @@ Source: Masanobu Fukuoka, The Natural Way of Farming: The Theory and Practice of
 
 ## Intermittent Irrigation Rather Than Continuous Flooding
 
-Fukuoka does not hold standing water in his rice paddies for extended periods. During the first half of the rice growing season, the rice does well under conditions similar to [[fukuoka-farming-for-all-quarter-acre-vision]], standing water is not used, but careful water management remains essential.
+Fukuoka does not hold standing water in his rice paddies for extended periods. During the first half of the rice [[savory-growing-season-and-non-growing-season-management]], the rice does well under conditions similar to [[fukuoka-farming-for-all-quarter-acre-vision]], standing water is not used, but careful water management remains essential.
 
 ## The Seasonal Water Cycle
 
@@ -93,7 +94,7 @@ The year in Fukuoka's paddies follows a distinctive water pattern:
 - **June and July**: The field is left unirrigated entirely, following the [[fukuoka-rice-and-barley-natural-farming]]. Fukuoka describes building levees each year as essential work:
 
 1. Carefully cut the grass on the old levee with a sickle
-2. Break down the levee with an open-ended hoe
+2. [[query-can-fungi-break-down-plastic-pollution]] the levee with an open-ended hoe
 3. Dig up soil at the bottom of the levee and, drawing water alongside, break up and knead the earth with a three-pronged cultivator
 4. Build up the levee and, after letting it stand, plaster the top and sides with earth
 

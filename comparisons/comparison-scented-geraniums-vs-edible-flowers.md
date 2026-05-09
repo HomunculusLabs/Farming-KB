@@ -1,5 +1,5 @@
 ---
-title: Scented Geraniums vs Edible Flowers
+title: comparison scented geraniums vs edible flowers vs Edible Flowers
 tags: [scented-geraniums, pelargonium, edible-flowers, companion-planting, culinary-herbs, garden-planning, container-gardening]
 date: 2026-05-03
 updated: 2026-05-03
@@ -27,18 +27,18 @@ Scented geraniums (*Pelargonium* spp.) and edible flowers both bring beauty, fla
 | **Culinary versatility** | Infusions, jellies, baking, drinks | Garnish, salads, candying |
 | **Essential oil production** | Yes (commercial scale) | Generally no |
 | **Medicinal use** | Significant (geranium oil) | Limited (calendula, chamomile notable exceptions) |
-| **Drought tolerance** | High once established | Varies widely |
+| **[[dighton-fungal-drought-tolerance-plant-water-relations]]** | High once established | Varies widely |
 | **Pest deterrence** | Moderate (scent masking) | Low (some like marigolds excepted) |
 | **Shade tolerance** | Low–moderate | Varies (violas, nasturtiums more tolerant) |
-| **Cold hardiness** | Very low (frost-tender) | Varies (pansies hardy, basil flowers not) |
+| **[[coleman-cold-hardiness-testing-ratings]]** | Very low (frost-tender) | Varies (pansies hardy, basil flowers not) |
 | **Propagation ease** | Very easy (cuttings) | Easy (seed for most, division for perennials) |
-| **Indoor growing** | Excellent | Limited (mostly low-light annuals) |
+| **[[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]]** | Excellent | Limited (mostly low-light annuals) |
 
 ## Culinary Comparison
 
 ### Flavor Profile
 
-**Scented geraniums** offer intense, concentrated aromatics that persist through cooking processes like baking, jelly-making, and syrup infusion. A single rose-scented leaf can perfume an entire cake. Their flavors are primarily derived from essential oils ([[linalool]]), giving them a depth that most edible flowers lack.
+**Scented geraniums** offer intense, concentrated aromatics that persist through cooking processes like baking, jelly-making, and syrup infusion. A single rose-scented leaf can perfume an entire cake. Their flavors are primarily derived from [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] ([[linalool]]), giving them a depth that most edible flowers lack.
 
 **Edible flowers** (nasturtium, calendula, viola, borage, chamomile, squash blossoms, etc.) provide visual appeal with complementary flavors that are typically lighter and more subtle. Nasturtium has peppery heat, borage tastes of cucumber, calendula is slightly bitter and tangy. They excel as garnishes and fresh additions rather than as primary flavoring agents.
 
@@ -68,7 +68,7 @@ Scented geraniums (*Pelargonium* spp.) and edible flowers both bring beauty, fla
 
 ### Space Efficiency
 
-**Scented geraniums** are space-efficient in containers—a single 8-inch pot yields leaves throughout the growing season. They grow well on windowsills, patios, and balconies. Their evergreen nature in warm climates means year-round productivity from a small footprint.
+**Scented geraniums** are space-efficient in containers—a single 8-inch pot yields leaves throughout the [[savory-growing-season-and-non-growing-season-management]]. They grow well on windowsills, patios, and balconies. Their evergreen nature in warm climates means year-round productivity from a small footprint.
 
 **Edible flowers** generally need more garden space to produce meaningful yields. Nasturtiums sprawl, squash needs room, and many others need dedicated bed space. However, they interplant well with vegetables, making them efficient as companion planters rather than standalone crops.
 
@@ -76,5 +76,5 @@ Scented geraniums (*Pelargonium* spp.) and edible flowers both bring beauty, fla
 
 **Scented geraniums** benefit from their aromatic oils, which provide moderate pest deterrence. Whiteflies and aphids are the main concerns. Their scent can help mask neighboring plants from certain pests, making them functional companion plants.
 
-**Edible flowers** vary enormously. Marigolds (technically edible, though mostly ornamental) repel nematodes; nasturtiums attract aphids away from crops ([[permaculture]] and [[comparison-cannabis-decarboxylation-chemistry-vs-edibles-guide]]
+**Edible flowers** vary enormously. Marigolds (technically edible, though mostly ornamental) repel nematodes; nasturtiums attract aphids away from crops (permaculture and [[comparison-cannabis-decarboxylation-chemistry-vs-edibles-guide]]
 - [[comparison-duck-keeping-vs-rabbit-husbandry]]

@@ -56,7 +56,7 @@ The species inhabits shallow, still or slow-moving freshwater bodies including p
 
 Water depth typically ranges from 10 to 200 cm. The plant may be found floating freely at the surface or submerged at greater depths where light penetration permits photosynthesis.
 
-The species is tolerant of moderate nutrient levels but is outcompeted by filamentous algae in highly eutrophic conditions. It persists as a soil seed bank when surface water recedes seasonally.
+The species is tolerant of moderate nutrient levels but is outcompeted by filamentous algae in highly eutrophic conditions. It persists as a soil [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]] when surface water recedes seasonally.
 
 In Australia, the species occurs across most states except the arid interior. Populations in southeastern Australia are notable for producing exceptionally large bladders.
 
@@ -74,7 +74,7 @@ Prey consists primarily of protozoa, rotifers, and small crustaceans including c
 
 Digestive enzymes are secreted by glandular cells within the bladder. Nutrient absorption occurs across the bladder wall, supplementing the plant's photosynthetic nutrition.
 
-Studies using stable isotope analysis have confirmed that bladderwort prey contribute significant nitrogen and phosphorus to the plant's nutrient budget. Captured zooplankton can provide 30–50% of the plant's total nitrogen uptake.
+Studies using [[fungal-stable-isotope-ecology]] analysis have confirmed that bladderwort prey contribute significant nitrogen and phosphorus to the plant's nutrient budget. Captured zooplankton can provide 30–50% of the plant's total nitrogen uptake.
 
 The trap mechanism is reset within 15–30 minutes after firing. Each bladder can capture prey multiple times throughout its functional lifespan of several weeks.
 
@@ -86,9 +86,9 @@ The species can form extensive floating mats that reduce light penetration to th
 
 Pollinators include small bees, flies, and butterflies that visit the aerial flowers. The flowers are self-compatible but also attract insect visitors for cross-pollination.
 
-In rice paddy ecosystems, the species has been investigated for its potential as a biological control agent against mosquito larvae. Its carnivorous bladders can significantly reduce larval populations in standing water.
+In [[fukuoka-textdoc-creating-rice-paddy-natural-methods]] ecosystems, the species has been investigated for its potential as a [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent against mosquito larvae. Its carnivorous bladders can significantly reduce larval populations in standing water.
 
-The species accumulates certain heavy metals in its tissues, suggesting potential applications in phytoremediation of contaminated freshwater systems.
+The species accumulates certain [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] in its tissues, suggesting potential applications in phytoremediation of contaminated freshwater systems.
 
 Aquatic oligochaete worms and chironomid midge larvae are among the most common inhabitants of bladderwort mats. These invertebrates benefit from the shelter provided by the dense stolon network.
 

@@ -1,5 +1,5 @@
 ---
-title: Psilocybe semilanceata Distribution and Ecology
+title: Psilocybe psilocybe semilanceata distribution ecology and Ecology
 created: 2026-04-28
 tags:
   - mycology
@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Guzmán, Allen & Gartz (1998) - A Worldwide Geographical Distribution of the Neurotropic Fungi"
+  - "Guzmán, Allen & Gartz (1998) - A Worldwide Geographical Distribution of the challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification"
 type: concept
 ---
 
@@ -27,7 +27,7 @@ The species was first described by Elias Fries (as Agaricus semilanceatus) and l
 ## Morphology
 
 - **Pileus**: Conic to campanulate, 0.5 to 2.5 cm diameter; usually with a distinct nipple like papilla; hygrophanous, olive brown when moist, pale tan when dry; often with a separable gelatinous pellicle
-- **Bluing reaction**: Moderate; stipe and sometimes pileus bruise blue green, especially at the base
+- **[[field-guide-psilocybin-bluing-reaction-identification]]**: Moderate; stipe and sometimes pileus bruise blue green, especially at the base
 - **Stipe**: Slender, 4 to 10 cm long, 1 to 3 mm thick; whitish to pale brown, often with a whitish partial veil that forms a fragile annular zone
 - **Spore print**: Dark purplish brown
 - **Habitat**: Primarily in grasslands, pastures, meadows, and lawns; often associated with rich, fertilized soils; also found in dune grasses and mountain meadows
@@ -118,7 +118,7 @@ P. semilanceata has been the subject of extensive chemical analysis:
 - **Psilocybin content**: Variable, typically 0.2% to 1.0% dry weight; one of the more potent Psilocybe species
 - **Psilocin content**: Usually present at lower levels than psilocybin
 - **Baeocystin**: Present in most specimens
-- **Variability**: Potency varies significantly by specimen age, geographic origin, and growing conditions
+- **Variability**: Potency varies significantly by [[guzman-allen-gartz-psilocybin-volatility-specimen-age-degradation]], geographic origin, and growing conditions
 
 ### Notable Chemical Studies
 
@@ -135,11 +135,11 @@ Ohenoja et al. (1987) made the notable discovery that herbarium specimens lose p
 - 1954 specimen: 0.67% psilocybin (dry weight)
 - 1976 specimen: 0.84% psilocybin (dry weight)
 
-This finding corroborates indigenous Mexican knowledge, where dried specimens older than one year are considered inactive and discarded.
+This finding corroborates [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]] knowledge, where dried specimens older than one year are considered inactive and discarded.
 ## See Also
 
 - [[psilocybe-cubensis]]
-- Mexico as Center of Neurotropic Fungi Diversity
+- Mexico as Center of Neurotropic [[freshwater-fungi-diversity-and-sampling]]
 - Psilocybin Chemistry
 - [[baeocystin]]
 - [[neurotropic-fungi]]

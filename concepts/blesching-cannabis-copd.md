@@ -35,7 +35,7 @@ emphysema. At advanced stages, even slight exertion causes shortness of breath.
 
 - A 2005 German case study enrolled 18 COPD patients with secondary weight
   loss and limited exertion potential. Patients received twice-daily oral
-  cannabis oil containing 3.3-4.2 mg THC. After 16 days, results showed an
+  [[cervantes-hash-cannabis-oil-production]] containing 3.3-4.2 mg THC. After 16 days, results showed an
   average weight gain of 1.5 kg and a 36% average increase in walking
   distance -- a significant achievement compared to orthodox protocols (CHI 3)
 - A 2009 Canadian population-based study from St. Paul's Hospital and the
@@ -50,7 +50,7 @@ emphysema. At advanced stages, even slight exertion causes shortness of breath.
 The endocannabinoid system plays a protective role in chronic obstructive
 pulmonary disease, acute lung injury, acute respiratory distress syndrome,
 and allergic asthma. Its therapeutic action works through prevention or
-modulation of inflammation and oxidative stress. THC binds to both CB1 and CB2
+modulation of inflammation and [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]. THC binds to both CB1 and CB2
 receptor sites relatively equally, providing both anti-inflammatory and
 antioxidant effects.
 
@@ -67,7 +67,7 @@ cannabinoids.
 
 Research suggests turmeric may play a protective role in COPD and acute lung
 injury through its anti-inflammatory and antioxidant properties. Scientists
-have recommended clinical trials using turmeric for chronic and acute lung
+have recommended [[mushroom-cancer-clinical-trials-overview]] using turmeric for chronic and acute lung
 disorders. This aligns with the broader anti-inflammatory mechanisms shared by
 both cannabis and curcumin.
 
@@ -90,6 +90,6 @@ additional respiratory irritation.
 
 ## Related Topics
 
-- [[blesching-endocannabinoid-system-overview]]
+- [[endocannabinoid-system-overview]]
 - [[blesching-cannabis-immune-system-modulation]]
 - [[blesching-cannabis-administration-methods]]

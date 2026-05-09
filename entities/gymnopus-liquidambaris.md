@@ -52,7 +52,7 @@ Spores are ellipsoid, 6–9 × 3–4.5 μm, inamyloid, smooth, and thin-walled. 
 
 ## Distribution and Habitat
 
-*G. liquidambari* is found in eastern North America, from the northeastern United States through the Appalachian region and south to the Gulf Coast states.
+*G. liquidambari* is found in [[polypore-fungi-eastern-north-america]] America, from the northeastern United States through the Appalachian region and south to the Gulf Coast states.
 
 It fruits primarily on fallen leaves, twigs, and small branches of *Liquidambar styraciflua* (American sweetgum), especially in bottomland hardwood forests and riparian corridors.
 
@@ -62,13 +62,13 @@ Collections have also been reported from mixed hardwood forests where sweetgum i
 
 ## Ecological Role
 
-*Gymnopus liquidambari* is primarily **saprotrophic**, decomposing lignocellulosic material in sweetgum leaf litter and contributing to nutrient cycling in forest ecosystems.
+*Gymnopus liquidambari* is primarily **saprotrophic**, decomposing lignocellulosic material in sweetgum leaf litter and contributing to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest ecosystems.
 
-As a member of the litter-decomposing fungal community, it plays a role in breaking down tough leaf cuticles and secondary compounds characteristic of *Liquidambar* foliage, which contains tannins and resinous compounds.
+As a member of the litter-decomposing [[air-pollution-fungal-community-responses]], it plays a role in breaking down tough leaf cuticles and secondary compounds characteristic of *Liquidambar* foliage, which contains tannins and resinous compounds.
 
 The species may also have weak **ectomycorrhizal associations** with sweetgum roots, though this has not been definitively established. Some *Gymnopus* species exhibit facultative mycorrhizal capabilities.
 
-Its persistence and rapid recolonization of litter after rainfall make it a consistent contributor to decomposition processes throughout the growing season.
+Its persistence and rapid recolonization of litter after rainfall make it a consistent contributor to decomposition processes throughout the [[savory-growing-season-and-non-growing-season-management]].
 
 ## Similar Species
 
@@ -94,16 +94,16 @@ The name *liquidambari* refers to its consistent association with sweetgum trees
 
 *Gymnopus liquidambari* is considered **non-toxic but not recommended for consumption** due to its small size, tough texture, and unremarkable flavor. No cases of poisoning have been documented.
 
-The species has no known economic significance as an edible or medicinal mushroom. Its primary importance is ecological, as a component of the saprotrophic fungal community in sweetgum-dominated forests.
+The species has no known economic significance as an edible or [[gourmet-medicinal-mushroom-casing-layer-techniques]]. Its primary importance is ecological, as a component of the saprotrophic fungal community in sweetgum-dominated forests.
 
 For mycologists, *G. liquidambari* serves as a useful indicator species for bottomland hardwood forest ecosystems where *Liquidambar styraciflua* is present.
 
-Its host specificity makes it potentially useful in forest health monitoring — changes in its frequency may reflect shifts in sweetgum litter quality, forest hydrology, or decomposition dynamics.
+Its host specificity makes it potentially useful in forest health monitoring — changes in its frequency may reflect shifts in sweetgum [[dighton-litter-quality-fungal-decomposition-rates]], forest hydrology, or decomposition dynamics.
 
 ## See Also
 
 - [[lignin-degradation]]
 - [[boletus-edulis-entity]]
-- [[coprinus-comatus-detailed]]
+- [[coprinus-comatus]]
 - [[agaricus-campestris]]
 - [[armillaria-mellea-entity]]

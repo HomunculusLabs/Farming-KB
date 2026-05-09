@@ -1,5 +1,5 @@
 ---
-title: "EEE -- 2,4,5-TRIETHOXYAMPHETAMINE -- PIHKAL Entry #73"
+title: "EEE -- 2,4,5-TRIETHOXYAMPHETAMINE -- 2c-b-pihkal-entry-20 #73"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -39,7 +39,7 @@ binding affinity at serotonin 5-HT2A receptors and other monoamine targets.
 
 In the Shulgin framework, the 4-position substitution is considered the most
 critical determinant of psychedelic activity in the 2,4,5-trisubstituted
-amphetamine series. The 2- and 5-positions modulate potency, duration, and
+[[pihkal-dob-doi-dom-amphetamine-series-comparison]]. The 2- and 5-positions modulate potency, duration, and
 qualitative character. EEE's lack of human bioassay data means its receptor
 binding profile remains uncharacterized, though its close structural
 relationship to active compounds like MEM suggests potential serotonergic
@@ -58,12 +58,12 @@ substitution tend to exhibit psychedelic effects, while substitution at the
 ## Legal Status
 
 As a substituted amphetamine, EEE may fall under analogue drug legislation in
-many jurisdictions. In the United States, the Federal Analog Act could
+many jurisdictions. In the [[dmt-containing-plants-united-states-halpern]], the Federal Analog Act could
 potentially classify EEE as a Schedule I controlled substance if intended for
 human consumption, due to its structural similarity to known psychedelic
 amphetamines. In the United Kingdom, substituted amphetamines with
 psychedelic properties are generally controlled under the Psychoactive
-Substances Act or existing Misuse of Drugs regulations. Specific scheduling
+[[controlled-substances-act-and-psychedelic-research]] or existing Misuse of Drugs regulations. Specific scheduling
 varies by country.
 
 ## Similar Compounds

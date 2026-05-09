@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-**Curcuma angustifolia** (East Indian arrowroot, tikhur, koorka) is a perennial herb in the family Zingiberaceae, native to the Indian subcontinent and Southeast Asia. It is cultivated primarily for its rhizomes, which yield a high-quality starch traditionally used as a dietary staple and thickening agent.
+**Curcuma angustifolia** (East Indian arrowroot, tikhur, koorka) is a perennial herb in the family Zingiberaceae, native to the Indian subcontinent and [[psilocybe-southeast-asia-pacific]]. It is cultivated primarily for its rhizomes, which yield a high-quality starch traditionally used as a dietary staple and thickening agent.
 
 The species is distinguished from other Curcuma by its narrow lanceolate leaves and the fine, easily extracted starch granules within its tuberous roots. It occupies a unique ecological niche as both a wild forest floor species and a semi-cultivated crop in tribal agricultural systems across central and eastern India.
 
@@ -42,7 +42,7 @@ In its natural habitat, the plant is typically found on forest margins, stream b
 
 ## Bioactive Compounds and Pharmacology
 
-The rhizomes and tuberous roots contain starch as the primary metabolite (55–78% dry weight), along with curcuminoids (curcumin, demethoxycurcumin, bisdemethoxycurcumin) at 0.5–1.5%, essential oils (0.3–0.8%) rich in ar-turmerone and curlone, and phenolic acids including ferulic and caffeic acid derivatives.
+The rhizomes and tuberous roots contain starch as the primary metabolite (55–78% dry weight), along with curcuminoids (curcumin, demethoxycurcumin, bisdemethoxycurcumin) at 0.5–1.5%, [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] (0.3–0.8%) rich in ar-turmerone and curlone, and phenolic acids including ferulic and caffeic acid derivatives.
 
 Additional compounds include flavonoids (quercetin, kaempferol), terpenoids, and glycosides. The essential oil profile differs from *C. longa*, with higher proportions of α-zingiberene and β-sesquiphellandrene.
 
@@ -54,7 +54,7 @@ Modern pharmacological studies confirm anti-inflammatory activity via COX-2 inhi
 
 Cultivation of *C. angustifolia* is concentrated in the tribal districts of Chhattisgarh, Jharkhand, Odisha, and Madhya Pradesh in India, where it is grown as a rain-fed crop under partial forest canopy or in home gardens.
 
-Planting is done with whole or split rhizomes at the onset of the monsoon (June–July) at a spacing of 30–45 cm. The crop requires partial shade (40–60% light interception) and benefits from intercropping with leguminous trees or fruit trees.
+Planting is done with whole or split rhizomes at the onset of the monsoon (June–July) at a spacing of 30–45 cm. The crop requires partial shade (40–60% light interception) and benefits from intercropping with leguminous trees or [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]].
 
 Harvest occurs 8–10 months after planting (February–April), when aerial parts senesce. Tubers are dug, washed, crushed, and the starch extracted through repeated water washing and settling. Fresh rhizome yields of 8–15 tonnes per hectare are reported under semi-managed conditions.
 
@@ -66,7 +66,7 @@ Tikhur starch is consumed as a food ingredient across central and eastern India,
 
 The starch has superior gel clarity and viscosity compared to commercial corn starch, making it valued in traditional confectionery. It is also used as a thickening agent in curries and as a base for infant weaning foods in tribal communities.
 
-Economic significance extends to the cottage industry sector, where tikhur starch processing provides seasonal employment for tribal women. Market prices fluctuate with availability, and the product commands a premium over common arrowroot starches.
+Economic significance extends to the [[mollison-designers-cottage-industry-and-home-business]] sector, where tikhur starch processing provides seasonal employment for tribal women. Market prices fluctuate with availability, and the product commands a premium over common arrowroot starches.
 
 The plant has limited ornamental use due to its attractive but brief flowering period. Some horticultural interest exists in the ginger collection community, though it remains far less common than *C. longa* or *Hedychium* species in cultivation.
 

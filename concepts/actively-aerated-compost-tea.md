@@ -1,5 +1,5 @@
 ---
-title: Actively Aerated Compost Tea
+title: Actively actively-aerated-compost-tea-aact-brewing Tea
 created: 2026-04-28
 tags:
   - compost-tea
@@ -23,11 +23,11 @@ maintaining aerobic conditions through active aeration. Developed and
 promoted by Dr. Elaine Ingham through the Soil Foodweb Institute, AACT
 is used as a biological amendment to restore and maintain the [[soil-food-web]] provides five benefits:
 
-1. **Disease suppression**: Disease organisms are outcompeted through food
+1. **[[aact-disease-suppression-mechanisms-ingham]]**: Disease organisms are outcompeted through food
    resource competition and physical occupation of infection sites.
 2. **Nutrient retention**: Nutrients are held in biological biomass rather
    than leaching through soil into groundwater.
-3. **Nutrient cycling**: Nutrients are made available at rates plants require,
+3. **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]**: Nutrients are made available at rates plants require,
    potentially eliminating inorganic fertilizer needs.
 4. **Toxin decomposition**: Bacteria and fungi capable of consuming toxic
    materials must be present and fed to repair chemical damage.
@@ -38,7 +38,7 @@ is used as a biological amendment to restore and maintain the [[soil-food-web]] 
 ## Critical Aeration Requirement
 
 Maintaining aerobic conditions is the single most critical factor. When
-dissolved oxygen drops and conditions become anaerobic:
+[[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] drops and conditions become anaerobic:
 
 - Beneficial fungi, protozoa, and nematodes are killed
 - Human pathogens such as Clostridium, E. coli, Salmonella, and Shigella
@@ -46,7 +46,7 @@ dissolved oxygen drops and conditions become anaerobic:
 - Beneficial communities never recover their full diversity even if returned
   to aerobic conditions
 
-Anaerobic conditions can produce putrefying organic matter with potentially
+Anaerobic conditions can produce putrefying [[hamilton-composting-and-organic-matter-management]] with potentially
 toxic byproducts. True compost does not contain human pathogens due to
 temperature, worm gut passage, aerobic organism competition, and predation.
 
@@ -59,7 +59,7 @@ Dr. Ingham advocates direct microscopy for assessing compost tea biology:
 - Fungal morphology and hyphal diameter critical for identification are lost
 - Protozoa and [[mycorrhizal-networks-common-mycelial-network]]
   associations, soil aggregation through [[teaming-with-microbes-phyllosphere]]
-protection, drip irrigation with appropriate filtration, or specialized
+protection, [[comparison-drip-irrigation-vs-passive-irrigation]] with appropriate filtration, or specialized
 compost tea delivery systems for large-scale agriculture.
 
 ## See Also
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

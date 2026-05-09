@@ -1,5 +1,5 @@
 ---
-title: Shamanism as Archaic Technique of Ecstasy
+title: Shamanism as shamanism as archaic technique of ecstasy of Ecstasy
 created: 2026-04-28
 tags:
   - shamanism
@@ -34,7 +34,7 @@ The shamanic initiation involves a period of profound psychological crisis. The 
 
 During prolonged trance, the novice is approached by helping spirits and may receive instruction from them.
 
-Invariably, the novice undergoes an episode of mystical death and resurrection, possibly seeing themselves reduced to a skeleton and reclothed with new flesh, or boiled in a cauldron and devoured by spirits only to be made whole again.
+Invariably, the novice undergoes an episode of mystical [[allegro-death-and-resurrection-in-the-mushroom-cult]], possibly seeing themselves reduced to a skeleton and reclothed with new flesh, or boiled in a cauldron and devoured by spirits only to be made whole again.
 
 Eliade showed that while particular motifs may vary between cultures, the general structure is clear: the neophyte undergoes a radical transformation into a superhuman condition.
 
@@ -66,7 +66,7 @@ Shamanic plants do not stimulate the immune system or the body's natural defense
 
 Rather, they allow the healer to journey into an invisible realm where the causality of the ordinary world is replaced with the rationale of natural magic.
 
-In this realm, language, ideas, and meaning have greater power than cause and effect.
+In this realm, language, ideas, and meaning have greater power than [[fukuoka-textdoc-no-cause-and-effect-in-nature]].
 
 Sympathies, resonances, intentions, and personal will are linguistically magnified through poetic rhetoric. The imagination is invoked and sometimes its forms are beheld visibly.
 
@@ -94,13 +94,13 @@ By entering the domain of plant intelligence, the shaman becomes privileged to a
 
 Common sense assumes that the raw stuff of what language expresses is relatively constant and common to all humans. Yet the Hopi language has no past or future tenses or concepts. The Inuit have no first-person pronoun.
 
-If language is accepted as the primary datum of knowing, then the Western rational tradition has been sadly misled.
+If language is accepted as the [[decentralizing-bender-perceiving-self-primary-datum-mckenna]] of knowing, then the Western rational tradition has been sadly misled.
 
 Only shamanic approaches can address the most fundamental questions: who are we, where did we come from, and toward what fate do we move?
 
 ## Icaros and the Magic of Song
 
-McKenna described witnessing the use of icaros, magical curing songs, in Amazonian ayahuasca ceremonies.
+McKenna described witnessing the use of icaros, magical curing songs, in [[harner-amazonian-ayahuasca-preparation-methods]] ceremonies.
 
 These are no ordinary songs but visible manifestations of power that enfold participants and provide security.
 
@@ -136,5 +136,5 @@ Only a recovery of the relationship that humanity evolved with nature through us
 - [[ayahuasca-preparation]]
 - Transcendent Other
 - [[psilocybin]]
-- Archaic Revival
+- [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]
 - [[indole-hallucinogens-and-human-evolution]]

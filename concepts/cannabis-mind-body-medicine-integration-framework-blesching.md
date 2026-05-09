@@ -1,5 +1,5 @@
 ---
-title: Cannabis Mind-Body Medicine Integration Framework
+title: Cannabis Mind-Body cannabis mind body medicine integration framework blesching Framework
 source: uwe-blesching-the-cannabis-health-index.md
 tags: [cannabis, mind-body, endocannabinoid, healing, mindfulness, CHI]
 created: 2026-05-08
@@ -13,7 +13,7 @@ created: 2026-05-08
 integration of evidence-based cannabis science with mind-body medicine
 techniques. Rather than treating cannabis solely as a pharmacological agent,
 the book frames it as a tool within a broader healing framework that
-incorporates mindfulness, emotional intelligence, intention-setting, and
+incorporates mindfulness, [[blesching-cannabis-emotional-intelligence-healing-framework]], intention-setting, and
 conscious neuroplasticity. This approach is grounded in the bidirectional
 relationship between the [[serotonin]] — "I am happy"
 
@@ -62,13 +62,13 @@ issues that require your attention." Memories and scenarios may emerge in
 Chapter V of the book outlines a structured progression for mind-body
 integration:
 
-1. **Deep Relaxation** — Using cannabis or meditation to enter a
+1. **[[blesching-cannabis-deep-relaxation-healing]]** — Using cannabis or meditation to enter a
    parasympathetic-dominant state, which the book links to enhanced ECS
    activity and immune function.
 
 2. **Emotional Intelligence** — A multi-stage process including taking
    ownership of current states, releasing suppressed emotions, identifying
-   unhealthy mental-emotional habits (guilt, martyrdom, harbored anger),
+   unhealthy mental-emotional habits (guilt, martyrdom, [[guilt-martyrdom-harbored-anger-as-health-hazards]]),
    and building healthy alternatives (discernment, curiosity, gratitude,
    compassion, forgiveness).
 
@@ -89,7 +89,7 @@ integration:
 
 ## Critical Perspective
 
-The mind-body framework in the Cannabis Health Index is ambitious in scope,
+The mind-body framework in the [[blesching-cannabis-health-index-autoimmune-conditions]] is ambitious in scope,
 attempting to bridge molecular pharmacology, clinical evidence, and
 psychological healing practice. Its strength lies in making the connection
 between the ECS and emotional regulation explicit and actionable. However,

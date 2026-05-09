@@ -6,11 +6,11 @@ In *Food of the Gods*, [[amanita-muscaria-entity]]* — the iconic red-and-white
 mushroom of fairy tales and Siberian shamanism.
 
 Wasson's argument drew on several lines of evidence: the Rig Veda describes Soma as
-growing in the mountains (consistent with the boreal habitat of *Amanita muscaria*),
-having no leaves, stems, or seeds (consistent with mushroom morphology), and being
+growing in the mountains (consistent with the boreal habitat of *[[allegro-amanita-muscaria-properties-and-pharmacology]]*),
+having no leaves, stems, or seeds (consistent with [[pf-tek-mushroom-morphology-and-lifecycle-stages]]), and being
 collected by people who traveled to the mountains to harvest it. The Siberian use of
 *Amanita muscaria* as a shamanic intoxicant provided an ethnographic parallel for a sacred
-mushroom cult in an Indo-European cultural context.
+[[african-mushroom-cult-history]] in an Indo-European cultural context.
 
 Wasson published his theory in *Soma: Divine Mushroom of Immortality* (1968), and it
 quickly became the accepted explanation in both academic and popular circles. However,
@@ -27,7 +27,7 @@ regions. The environment of Vedic India, while mountainous, is predominantly sub
 While *Amanita muscaria* does occur at high altitudes in the Himalayas, transporting
 sufficient quantities for regular ritual use would have been logistically challenging.
 
-**Pharmacological inadequacy**: *Amanita muscaria* contains ibotenic acid and
+**Pharmacological inadequacy**: *Amanita muscaria* contains [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] and
 muscimol, compounds that produce sedative, dissociative, and deliriant effects rather
 than the euphoric, visionary, and stimulant effects described in the Rig Veda. The
 Rig Veda describes Soma as producing exhilaration, heightened energy, and ecstatic
@@ -50,7 +50,7 @@ McKenna explored several alternative candidates for Soma:
 **[[beta-carboline]] alkaloids that are monoamine oxidase inhibitors
 (MAOIs). While not strongly hallucinogenic on their own, harmaline compounds produce
 visual effects and, critically, potentiate the effects of DMT when consumed together.
-McKenna suggested that Soma might have been a combination of *Peganum harmala* and a
+McKenna suggested that Soma might have been a combination of *[[mckenna-food-gods-peganum-harmala-soma]]* and a
 DMT-containing plant, creating what modern psychopharmacology recognizes as an
 ayahuasca-like brew.
 
@@ -63,7 +63,7 @@ have long lunar associations in Middle Eastern and Indian folklore).
 **[[stropharia-cubensis]]* and *Panaeolus* species. The effects of psilocybin
 — euphoria, enhanced visual perception, visionary experience, and feelings of divine
 connection — more closely match the Vedic descriptions than those of *Amanita
-muscaria*. Psilocybin mushrooms do grow in the Indian subcontinent, and some species
+muscaria*. [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] do grow in the Indian subcontinent, and some species
 occur in cow dung, connecting them to the sacred status of cattle in Vedic culture.
 
 **Haoma**: McKenna drew parallels between Vedic Soma and the Zoroastrian Haoma, the

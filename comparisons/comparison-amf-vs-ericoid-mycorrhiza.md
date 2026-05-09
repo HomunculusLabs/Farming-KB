@@ -1,13 +1,6 @@
 ---
-title: "Comparison Amf Vs Ericoid Mycorrhiza"
-created: 2026-05-02
-updated: 2026-05-02
-type: comparison
-tags: [fungal-ecology, mycology, symbiosis]
-sources: []
 ---
----
-title: "[[ericoid-mycorrhiza]]"
+title: "ericoid-mycorrhiza"
 tags:
   - mycorrhiza
   - soil-biology
@@ -16,12 +9,13 @@ tags:
   - comparative-review
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 ---
 
 # Arbuscular Mycorrhizal Fungi vs Ericoid [[mycorrhizal-fungi]] (AMF) and ericoid mycorrhiza are two distinct types of endomycorrhizal associations that colonize plant roots intracellularly. Despite sharing the broad category of endomycorrhizae, they differ profoundly in fungal taxonomy, host range, ecological niche, and functional role.
 
-AMF form the most widespread plant symbiosis on Earth, associating with 80-90% of terrestrial plants across nearly all ecosystems, from tropical forests to temperate grasslands and agricultural fields. They are the default mycorrhizal partner for the majority of crop species and play a central role in global nutrient cycling and soil health.
+AMF form the most widespread plant symbiosis on Earth, associating with 80-90% of terrestrial plants across nearly all ecosystems, from tropical forests to temperate grasslands and agricultural fields. They are the default mycorrhizal partner for the majority of crop species and play a central role in global [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and soil health.
 
 Ericoid mycorrhiza, by contrast, are a highly specialized partnership confined almost exclusively to the Ericaceae family. They dominate in acidic, nutrient-poor, and often waterlogged environments such as heathlands, bogs, and tundra where few other mycorrhizal types can function effectively.
  
@@ -63,7 +57,7 @@ The ericoid symbiosis is essential for the success of Ericaceae on marginal site
 ## When to Choose AMF
 
 - Establishing or improving mycorrhizal associations in most agricultural crops, pastures, and home gardens where the host plants are AMF-compatible.
-- Enhancing phosphorus availability in neutral to slightly acidic soils with moderate to high organic matter.
+- Enhancing [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] in neutral to slightly acidic soils with moderate to high organic matter.
 - Improving soil structure and water retention through glomalin-mediated aggregation on degraded or compacted sites.
 - Supporting drought-stressed or disease-susceptible plantings across diverse species and growing conditions.
 - Large-scale row crop or horticultural operations where broad-spectrum inoculation is practical and cost-effective.
@@ -74,17 +68,17 @@ AMF inoculants are widely available as commercial products and can be applied as
 ## When to Choose Ericoid Mycorrhiza
 
 - Cultivating Ericaceae in acidic, organic-rich, or nutrient-poor soils typical of heathlands, bogs, and mountainous sites.
-- Growing blueberries, cranberries, or rhododendrons in container media or field soils with low mineral nutrient availability and high organic content.
+- Growing blueberries, cranberries, or rhododendrons in container media or field soils with low mineral [[ph-and-nutrient-availability-garden-soils]] and high organic content.
 - Restoring disturbed heathland, peatland, or alpine tundra ecosystems where Ericaceae are key pioneer or dominant species.
 - Managing plantings on acidic sites with elevated aluminum or iron that would otherwise be toxic to unprotected roots.
-- Supporting nitrogen acquisition from organic matter decomposition in cold or waterlogged soils where mineralization rates are naturally slow.
+- Supporting [[fungal-bacterial-predators-nitrogen-acquisition-soil-ecology]] from organic matter decomposition in cold or waterlogged soils where mineralization rates are naturally slow.
 - Establishing ornamental Ericaceae plantings in landscaped settings where native soil conditions favor ericoid associations.
  
 Ericoid inoculants are less commercially available than AMF products but can be sourced from specialist suppliers or propagated from native soil collections in established heathland sites. When sourcing inoculum, matching the fungal isolate to the target species and local soil conditions improves establishment success significantly.
 
 ## Hybrid Approaches
 
-In mixed plantings that include both Ericaceae and non-host species (such as interplanting blueberries with cover crops or orchard companions), AMF and ericoid mycorrhiza can coexist in the same soil without direct antagonism. Each fungal type colonizes its respective host without cross-interference, potentially offering complementary benefits: AMF support companion plants and contribute to soil aggregation and phosphorus cycling, while ericoid fungi supply the Ericaceae with organic nitrogen and metal detoxification.
+In mixed plantings that include both Ericaceae and non-host species (such as interplanting blueberries with cover crops or orchard companions), AMF and ericoid mycorrhiza can coexist in the same soil without direct antagonism. Each fungal type colonizes its respective host without cross-interference, potentially offering complementary benefits: AMF support companion plants and contribute to soil aggregation and [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]], while ericoid fungi supply the Ericaceae with organic nitrogen and [[staycare-phytochelatins-and-intracellular-metal-detoxification-in-fungi]].
 
 In ecological restoration projects on acidic sites, combining ericoid inoculation with AMF for interplanted nurse species can accelerate succession and improve overall site productivity. For commercial berry production, maintaining healthy AMF populations in adjacent cover crop rows while inoculating the Ericaceae with ericoid-specific fungi represents an integrated approach to whole-system soil health management.
 

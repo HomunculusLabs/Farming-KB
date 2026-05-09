@@ -56,13 +56,13 @@ Conidiophores are irregularly branched, bearing whorls of phialides at the nodes
 
 Conidia are ellipsoidal to fusiform, smooth-walled, and produced in long divergent chains. Conidial dimensions are approximately 2.5–3.0 × 1.8–2.2 µm.
 
-The lilac pigmentation is due to a mixture of polyketide-derived secondary metabolites, including lecanoric acid derivatives.
+The lilac pigmentation is due to a mixture of polyketide-derived [[antifungal-secondary-metabolites-coprophilous-fungi]], including lecanoric acid derivatives.
 
 ## Distribution and Habitat
 
 P. lilacinum is a cosmopolitan soil fungus found on every inhabited continent. It is particularly abundant in tropical and subtropical agricultural soils.
 
-It has been isolated from a wide range of substrates including forest soils, cultivated fields, rhizosphere soil, decomposing organic matter, and insect cadavers. It thrives in warm, moist conditions with optimal growth at 25–30°C.
+It has been isolated from a wide range of substrates including forest soils, cultivated fields, rhizosphere soil, decomposing [[hamilton-composting-and-organic-matter-management]], and insect cadavers. It thrives in warm, moist conditions with optimal growth at 25–30°C.
 
 The species is frequently recovered from soils previously cropped with nematode-susceptible plants, suggesting it may respond to nematode root exudates as a colonization signal.
 
@@ -80,7 +80,7 @@ Egg parasitism rates of 60–90% have been documented in controlled greenhouse t
 
 P. lilacinum produces an diverse array of bioactive secondary metabolites.
 
-Serine proteases (particularly the 33 kDa PLP-1 protease) are the primary virulence factors against nematode eggshells. These enzymes degrade the structural proteins of the nematode egg chorion and vitelline layer.
+Serine proteases (particularly the 33 kDa PLP-1 protease) are the primary [[fungal-virulence-factors-host-immune-evasion]] against nematode eggshells. These enzymes degrade the structural proteins of the nematode egg chorion and vitelline layer.
 
 Leucinostatins are peptide-like secondary metabolites with antifungal, antitumor, and insecticidal properties. These amphipathic peptides disrupt mitochondrial membranes.
 
@@ -102,9 +102,9 @@ Standard media contain molasses, corn steep liquor, or soybean meal as carbon an
 
 Commercial formulations include wettable powders, granular products for soil application, and seed-coating treatments. Shelf stability of conidia is improved by desiccation to below 5% moisture content and storage at 4°C.
 
-Field application rates typically range from 2–4 kg product per hectare, applied at planting or as a soil drench. Efficacy is highest in sandy, well-drained soils with moderate organic matter.
+Field [[ingham-compost-tea-application-rates-and-timing]] typically range from 2–4 kg product per hectare, applied at planting or as a soil drench. Efficacy is highest in sandy, well-drained soils with moderate organic matter.
 
-Combination applications with mycorrhizal inoculants or rhizobacteria can produce synergistic effects, improving both nematode suppression and plant growth promotion simultaneously.
+Combination applications with [[pgpr-mycorrhizal-inoculants-microplant-establishment]] or rhizobacteria can produce synergistic effects, improving both nematode suppression and plant [[brassinosteroid-growth-promotion-psilocybe-cubensis]] simultaneously.
 
 ## Related Species
 

@@ -22,7 +22,7 @@ sources:
 
 Dryopteris filix-mas, the male fern, is a large, deciduous fern native to temperate regions of the Northern Hemisphere. It is one of the most widespread and recognizable ferns in Europe, where it has a long history of use as a traditional anthelmintic remedy.
 
-The species was once the principal pharmaceutical treatment for tapeworm infections in Europe and North America, with its rhizome yielding the potent anthelmintic compound filicin. Though largely superseded by synthetic anthelmintics, the male fern remains a significant species in both ethnobotany and horticulture.
+The species was once the principal pharmaceutical treatment for tapeworm infections in Europe and [[psilocybin-north-america-pacific-northwest]], with its rhizome yielding the potent anthelmintic compound filicin. Though largely superseded by synthetic anthelmintics, the male fern remains a significant species in both ethnobotany and horticulture.
 
 ## Taxonomy and Morphology
 
@@ -46,7 +46,7 @@ Spores are monolete, 30–38 μm, ellipsoidal, and brown, produced from July thr
 
 Dryopteris filix-mas has a broad distribution across temperate Europe, western and central Asia, and western North America. In Europe, it occurs from the Mediterranean to Scandinavia and from the British Isles to western Russia.
 
-In North America, native populations are found along the Pacific coast from Alaska to California, though the species has been widely naturalized in eastern North America through horticultural introduction. Disjunct Asian populations occur in the Himalayas, China, and Japan.
+In North America, native populations are found along the Pacific coast from Alaska to California, though the species has been widely naturalized in [[polypore-fungi-eastern-north-america]] America through horticultural introduction. Disjunct Asian populations occur in the Himalayas, China, and Japan.
 
 The species colonizes a wide range of shaded habitats including deciduous and coniferous woodlands, hedgerows, stream banks, rocky slopes, and montane meadows. It prefers moist, well-drained, neutral to acidic soils rich in organic matter.
 
@@ -64,13 +64,13 @@ These phloroglucinol derivatives act as potent anthelmintics by paralyzing the m
 
 The anthelmintic activity is primarily effective against tapeworms, including Taenia saginata, Taenia solium, and Diphyllobothrium latum, with limited efficacy against nematodes and trematodes. The therapeutic window is relatively narrow, and toxic doses produce severe gastrointestinal and neurological symptoms.
 
-Adverse effects include nausea, vomiting, abdominal pain, dizziness, visual disturbances, and in severe cases, convulsions and respiratory depression. Hepatotoxicity and nephrotoxicity have been reported following overdose, likely due to the phloroglucinol compounds damaging hepatic and renal tissue.
+[[blesching-cannabis-safety-adverse-effects-evidence]] include nausea, vomiting, abdominal pain, dizziness, visual disturbances, and in severe cases, convulsions and respiratory depression. Hepatotoxicity and nephrotoxicity have been reported following overdose, likely due to the phloroglucinol compounds damaging hepatic and renal tissue.
 
 The volatile oil fraction of the rhizome contributes to both therapeutic activity and toxicity. Modern pharmaceutical preparations used oleoresin extracts standardized to phloroglucinol content, with dosing carefully calibrated to maximize anthelmintic efficacy while minimizing toxicity.
 
 Research into the mechanism of action has shown that the phloroglucinol derivatives interfere with the tapeworm's energy metabolism, specifically inhibiting ATP production in the parasite's musculature. This dual action — muscular paralysis and metabolic inhibition — accounts for the rapid detachment and expulsion of worms following treatment.
 
-The rhizome also contains smaller quantities of tannins, flavonoids, and triterpenoids, though these compounds are not believed to contribute significantly to the anthelmintic effect. Some of these secondary metabolites may have antimicrobial or antioxidant properties.
+The rhizome also contains smaller quantities of tannins, flavonoids, and triterpenoids, though these compounds are not believed to contribute significantly to the anthelmintic effect. Some of these [[antifungal-secondary-metabolites-coprophilous-fungi]] may have antimicrobial or antioxidant properties.
 
 ## Traditional and Modern Uses
 
@@ -86,7 +86,7 @@ Despite being largely abandoned in mainstream medicine by the mid-20th century, 
 
 In horticulture, Dryopteris filix-mas is valued as a reliable, robust fern for shade gardens and woodland plantings. Numerous cultivars have been selected, including 'Cristata' (crested frond tips), 'Barnesii' (narrow pinnae), and 'Linearis Polydactyla' (finely divided fronds).
 
-The species is also used in ecological restoration and erosion control on shaded slopes, where its dense root system helps stabilize soil. Its tolerance of a range of conditions makes it a versatile choice for naturalistic landscape plantings.
+The species is also used in ecological restoration and [[permplant-willows-salix-erosion-control-fodder]] on shaded slopes, where its dense root system helps stabilize soil. Its tolerance of a range of conditions makes it a versatile choice for naturalistic landscape plantings.
 
 ## Ecological Role
 
@@ -94,7 +94,7 @@ In forest ecosystems, Dryopteris filix-mas contributes to the diversity and stru
 
 The species serves as a host plant for several specialist insects, including larvae of the fern moth (Horisme radicaria) and various sawfly species. These herbivores typically cause only minor defoliation and do not significantly impact fern vitality.
 
-The frond litter of male fern decomposes relatively quickly compared to some other fern species, contributing to nutrient cycling in forest floor ecosystems. The resulting humus is rich in organic matter and supports diverse soil microbial communities.
+The frond litter of male fern decomposes relatively quickly compared to some other fern species, contributing to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest floor ecosystems. The resulting humus is rich in organic matter and supports diverse soil microbial communities.
 
 In mixed deciduous woodlands, Dryopteris filix-mas often grows alongside other shade-tolerant ferns and woodland herbs, forming diverse ground cover communities. Its competitive ability is moderate, allowing coexistence with a range of understory species.
 

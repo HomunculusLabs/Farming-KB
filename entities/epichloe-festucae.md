@@ -16,7 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Schardl, C.L. et al. (2013). "Epichloë endophytes: clavicipitaceous symbionts." Mycologia 105(6): 1433-1457.
-  - Scott, B. & Schardl, C.L. (2011). "Epichloë festucae and the grass symbiosis." Fungal Genetics and Biology 48(2): 82-90.
+  - Scott, B. & Schardl, C.L. (2011). "Epichloë festucae and the [[endophytic-fungi-grass-symbiosis-insect-defense-alkaloids-epichloe-neotyphodium]]." Fungal Genetics and Biology 48(2): 82-90.
   - Clay, K. & Schardl, C.L. (2002). "Evolutionary origins and ecological consequences of endophyte symbiosis." Annual Review of Ecology and Systematics 33: 451-470.
   - Leuchtmann, A. et al. (2014). "Epichloë endophytes in natural grass populations." Evolutionary Applications 7(3): 375-385.
 aliases:
@@ -29,11 +29,11 @@ aliases:
 
 **Epichloë festucae** is a systemic fungal endophyte in the family Clavicipitaceae
 (order Hypocreales) that forms symbiotic associations with cool-season grasses of the
-genus *Festuca*. Unlike entomopathogenic fungi that kill their hosts, *E. festucae*
+genus *Festuca*. Unlike [[singh-entomopathogenic-fungi-biocontrol-agents]] that kill their hosts, *E. festucae*
 maintains a persistent mutualistic relationship within aboveground plant tissues,
 transmitted vertically through host seeds.
 
-The fungus confers significant agronomic benefits including enhanced drought tolerance,
+The fungus confers significant agronomic benefits including enhanced [[dighton-fungal-drought-tolerance-plant-water-relations]],
 improved nutrient acquisition, and protection from herbivorous insects via production of
 bioactive alkaloids. Certain strains, however, produce ergot alkaloids toxic to livestock,
 making strain selection critical for pastoral use.
@@ -75,13 +75,13 @@ oxygen species signaling, preventing host defense activation while maintaining h
 growth within the apoplast.
 
 The symbiotic interface involves direct hyphal-to-plant-cell contact through the plant
-cell wall, with nutrient exchange occurring across a specialized matrix. Mutations in
+cell wall, with [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] occurring across a specialized matrix. Mutations in
 signaling pathways (e.g., noxA, sakA) disrupt hyphal morphology and can convert the
 interaction from mutualistic to pathogenic.
 
 ## Bioactive Alkaloids
 
-*E. festucae* produces four major classes of bioactive alkaloids that mediate grass-herbivore
+*E. festucae* produces four [[ascomycota-phylogeny-major-classes-lineages]] of bioactive alkaloids that mediate grass-herbivore
 interactions. Peramine is a pyrrolopyrazine alkaloid that deters insect herbivores
 including *Listronotus bonariensis* (Argentine stem weevil) without toxicity to mammals.
 
@@ -97,7 +97,7 @@ toxic compounds.
 ## Distribution and Host Range
 
 *E. festucae* is distributed globally wherever its *Festuca* hosts grow, across temperate
-grasslands of Europe, North America, South America, New Zealand, and Australia. It has
+grasslands of Europe, [[psilocybin-north-america-pacific-northwest]], South America, New Zealand, and Australia. It has
 been deliberately introduced into pastoral systems worldwide through infected seed.
 
 Natural host species include *Festuca rubra* (red fescue), *F. ovina* (sheep fescue),

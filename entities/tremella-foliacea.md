@@ -15,7 +15,7 @@ updated: 2026-04-28
 sources:
   - "Bandoni, R.J. (1958). \"The genus Tremella.\" Sydowia, 12, 194–206."
   - "Kirk, P.M. et al. (2008). Dictionary of the Fungi, 10th Ed. CABI."
-  - "Fungorum, GBIF. (2024). Tremella foliacea. Global Biodiversity Information Facility."
+  - "Fungorum, GBIF. (2024). Tremella foliacea. [[psilocybe-global-biodiversity-hotspots]] Information Facility."
   - "EFLORA BC. (2024). E-Flora BC: Electronic Atlas of the Plants of British Columbia."
   - "Bandoni, R.J. & Ginns, J.H. (2012). Treasures from the Kingdom of Fungi. Fungifama."
 ---
@@ -24,7 +24,7 @@ sources:
 
 ## Overview
 
-*Tremella foliacea* is a jelly fungus in the family Tremellaceae, recognized by its foliose, brown-to-reddish, gelatinous fruiting body that resembles a crumpled leaf or brain-like mass.
+*Tremella foliacea* is a jelly fungus in the family Tremellaceae, recognized by its foliose, brown-to-reddish, gelatinous [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] that resembles a crumpled leaf or brain-like mass.
 
 It is a common temperate species found fruiting on dead hardwood branches, particularly oaks, during cool wet conditions in autumn and winter. The species is an obligate parasite on *Stereum* species, using their mycelium as a substrate base for fruiting.
 
@@ -64,7 +64,7 @@ Edible but bland and gelatinous in texture, it is occasionally collected in Asia
 
 ## Distribution and Habitat
 
-- **Geographic range:** Circumboreal and widespread across temperate Northern Hemisphere; North America (coast to coast), Europe, Asia
+- **Geographic range:** Circumboreal and widespread across temperate Northern Hemisphere; [[psilocybin-north-america-pacific-northwest]] (coast to coast), Europe, Asia
 - **Habitat:** Exclusively on dead attached or fallen hardwood branches and logs
 - **Substrate specificity:** Primarily on oaks (*Quercus* spp.), also on beech (*Fagus*), alder (*Alnus*), birch (*Betula*), and occasionally conifers
 - **Season:** Late autumn through winter (October–February); occasionally in spring after wet periods
@@ -85,7 +85,7 @@ This relationship is non-lethal to the host — the *Stereum* colony continues t
 
 ### Ecological Role
 
-- **Successional role:** Occupies a late-stage position on dead wood already colonized by *Stereum* [[fungal-succession]] on hardwood debris in temperate forests
+- **Successional role:** Occupies a late-stage position on [[fungal-dead-wood-diversity]] already colonized by *Stereum* fungal-succession on hardwood debris in temperate forests
 - **Moisture dynamics:** Gelatinous fruiting bodies can absorb and retain significant water, potentially moderating microhabitat moisture for other organisms
 - **Invertebrate habitat:** Provides temporary shelter and food for small insects and springtails during wet months
 
@@ -95,6 +95,6 @@ This relationship is non-lethal to the host — the *Stereum* colony continues t
 |---------|------------------------|
 | *Tremella fuciformis* | White to translucent; fruiting on *Annulohypoxylon* (not *Stereum*); commercially cultivated |
 | *Tremella aurantia* | Bright orange to yellow; larger, more erect; parasitizes *Stereum hirsutum* |
-| *[[decomposition-cycles]] and diverse fungal communities
-- **[[tremella-fuciformis-entity]] — Snow fungus, commercially cultivated close relative with significant medicinal research
+| *[[decomposition-cycles]] and diverse [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
+- **[[tremella-fuciformis]] — Snow fungus, commercially cultivated close relative with significant medicinal research
 - [[sterilization]] — Sterilization techniques relevant to laboratory culture of Tremellaceae

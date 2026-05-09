@@ -1,5 +1,5 @@
 ---
-title: Natural Farming Livestock Integration
+title: comparison-natural-farming-vs-permaculture faires-livestock-integration-permaculture
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -15,13 +15,13 @@ Integrating livestock into a farming system creates closed nutrient loops, reduc
 
 ### Benefits
 - Eat insect pests (grasshoppers, beetles, caterpillars, slugs)
-- Scratch and till soil, incorporating organic matter
+- Scratch and till soil, incorporating [[hamilton-composting-and-organic-matter-management]]
 - Produce manure (high in nitrogen, excellent fertilizer)
 - Control weed seeds by eating them before they set
 - Produce eggs and meat
 
 ### Integration Methods
-- **Chicken tractors**: Moveable pens placed over garden beds between crops; chickens scratch, fertilize, and weed the bed in 1-2 weeks
+- **[[mollison-designers-chicken-tractors-egg-production]]**: Moveable pens placed over garden beds between crops; chickens scratch, fertilize, and weed the bed in 1-2 weeks
 - **Free-range in orchards**: Chickens forage fallen fruit (reducing pest overwintering), eat codling moth larvae, and fertilize fruit trees
 - **Deep litter system**: Chickens in a coop with deep bedding (straw, leaves) that composts in place; remove finished compost for garden beds
 - **Winter housing**: Chickens can overwinter in a greenhouse, adding CO2 and heat while producing manure
@@ -55,7 +55,7 @@ Integrating livestock into a farming system creates closed nutrient loops, reduc
 - Manure is a good soil amendment (needs composting before use)
 
 ### Integration
-- Rotational grazing on marginal land, brushy areas, and fallow fields
+- [[comparison-rotational-grazing-vs-continuous-grazing]] on marginal land, brushy areas, and fallow fields
 - Fence with electric netting; rotate every 3-7 days
 - 2-4 goats per acre on brushy land
 - Keep away from fruit trees and gardens (they eat everything)
@@ -70,7 +70,7 @@ Integrating livestock into a farming system creates closed nutrient loops, reduc
 - [[paddock-system-pigs]] — for pig integration in permaculture
 - [[holzer-livestock-integration]] — for Sepp Holzer's approach
 - [[duck-rice-paddy]] — for duck-rice integration
-- [[animal-manure-guide]] — for manure nutrient content and use
+- [[animal-manure-guide]] — for [[solomon-manure-nutrient-variability-and-quality]] content and use
 ## Practical Considerations
 
 Successful implementation of Natural Farming Livestock Integration requires attention to
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

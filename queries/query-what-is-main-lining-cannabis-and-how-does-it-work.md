@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [query, cannabis, training, yield, canopy]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -21,7 +22,7 @@ indoor grows.
 ## Detailed Explanation
 
 Main-lining, also known as manifolding, is one of the most
-structured and systematic approaches to cannabis training. Unlike
+structured and systematic approaches to [[query-sog-vs-scrog-cannabis-training-methods]]. Unlike
 casual topping or low-stress training, main-lining follows a
 specific protocol: top the seedling to create two main stems,
 then top each of those stems to create four, and optionally
@@ -54,7 +55,7 @@ of plant architecture manipulation that make this possible. It is
 important to note that main-lining is best suited for photoperiod
 strains and is not recommended for [[cannabis-training-techniques-comparison]] page can help you
 decide which training approach best fits your growing style and
-strain selection. For growers interested in maximizing their
+[[blesching-cannabis-strain-selection-receptor-targeting]]. For growers interested in maximizing their
 indoor yield with a small number of plants, main-lining is one of
 the most rewarding techniques to learn and master over successive
 grows. The visual symmetry of a well-executed manifold is striking and makes for an impressive garden display.
@@ -64,7 +65,7 @@ grows. The visual symmetry of a well-executed manifold is striking and makes for
 - Expect a 2 to 4 week longer vegetative period, but significantly higher yield per watt
 - Combine with a scrog screen or stakes for support during heavy [[autoflowering-cannabis]]
 - Use clean tools and soft ties to avoid damaging the plant during repeated topping and tying
-- Start with a healthy, well-rooted seedling before attempting any topping or training techniques
+- Start with a healthy, well-rooted seedling before attempting any topping or [[cannabis-training-techniques-comparison]]
 
 ## Related
 
@@ -91,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

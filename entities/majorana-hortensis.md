@@ -14,7 +14,7 @@ sources:
   - Mabberley, D.J. (2017). "Mabberley's Plant-Book: A Portable Dictionary of Plants." 4th ed. Cambridge University Press.
   - Bown, D. (2001). "The Herb Society of America Encyclopedia of Herbs & Their Uses." DK Publishing.
   - Rivera, D. et al. (2006). " ethnobotanical review of wild edible plants in the Mediterranean." Economic Botany 60(2): 126-145.
-  - Parejo, I. et al. (2002). "Natural Antioxidant Activity of the Essential Oil of Origanum majorana." Planta Medica 68: 735-738.
+  - Parejo, I. et al. (2002). "Natural Antioxidant Activity of the [[permaculture-designers-manual-essential-oil-plants]] of Origanum majorana." Planta Medica 68: 735-738.
   - WHO (1999). "WHO Monographs on Selected Medicinal Plants, Vol. 1." World Health Organization, Geneva.created: 2026-05-07
 
 created: 2026-05-07
@@ -66,13 +66,13 @@ The species grows wild on dry, rocky hillsides, in garigue and maquis vegetation
 
 Sweet marjoram is typically grown as an annual in temperate climates, as it is not frost-hardy below -5°C. In warmer climates (USDA zones 9–10), it can persist as a short-lived perennial.
 
-**Propagation:** Primarily from seed, sown indoors 6–8 weeks before the last frost. Germination occurs in 7–14 days at 20–22°C. Softwood cuttings and division of established clumps are also effective propagation methods.
+**Propagation:** Primarily from seed, sown indoors 6–8 weeks before the last frost. Germination occurs in 7–14 days at 20–22°C. Softwood cuttings and division of established clumps are also effective [[vegetative-propagation-methods-mollison]].
 
-**Growing conditions:** Full sun, well-drained soil (sandy loam preferred), pH 6.5–7.5. The plant is drought-tolerant once established but performs best with regular, moderate watering. Overwatering or poorly drained soil promotes root rot.
+**Growing conditions:** Full sun, well-drained soil (sandy loam preferred), pH 6.5–7.5. The plant is drought-tolerant once established but performs best with regular, moderate watering. Overwatering or poorly drained soil promotes [[cannabis-root-rot-prevention-and-treatment]].
 
 **Harvest:** Leaves can be harvested once plants reach 15 cm in height. For maximum essential oil content, harvest just before flowering. Drying is the standard preservation method — hang bundles in a warm, dark, well-ventilated area.
 
-**Companion planting:** Sweet marjoram is an excellent companion plant in vegetable gardens. It attracts beneficial insects including pollinators and predatory wasps. It is traditionally planted near tomatoes, peppers, and eggplants.
+**[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:** Sweet marjoram is an excellent companion plant in vegetable gardens. It attracts [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] including pollinators and predatory wasps. It is traditionally planted near tomatoes, peppers, and eggplants.
 
 ## Bioactive Compounds
 
@@ -95,7 +95,7 @@ The essential oil of Majorana hortensis has been extensively studied for its bio
 
 **Traditional medicine:** In European folk medicine, sweet marjoram tea has been used to treat digestive complaints (bloating, flatulence, cramps), respiratory conditions (coughs, bronchitis, sinusitis), and nervous tension. Externally, the oil was applied for rheumatic pain and muscle aches.
 
-**Modern pharmacology:** Antioxidant activity of the essential oil is well-documented (Parejo et al., 2002). Antimicrobial activity against Gram-positive bacteria (Staphylococcus aureus, Bacillus subtilis) and some fungal pathogens has been demonstrated in vitro. Anti-inflammatory effects are attributed to linalool and terpinen-4-ol via inhibition of COX-2 and NF-κB pathways.
+**Modern pharmacology:** Antioxidant activity of the essential oil is well-documented (Parejo et al., 2002). Antimicrobial activity against Gram-positive bacteria (Staphylococcus aureus, Bacillus subtilis) and some [[bloomfield-fungal-pathogens-and-parasites]] has been demonstrated in vitro. Anti-inflammatory effects are attributed to linalool and terpinen-4-ol via inhibition of COX-2 and NF-κB pathways.
 
 ## Related Species
 

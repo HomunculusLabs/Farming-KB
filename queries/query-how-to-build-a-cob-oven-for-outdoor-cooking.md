@@ -1,7 +1,7 @@
 ---
-title: "How to Build a Cob Oven for Outdoor Cooking"
+title: "How to Build a comparison-cob-oven-construction-vs-rocket-stove for Outdoor Cooking"
 created: 2026-04-28
-tags: [query, [[permaculture]]
+tags: [query, permaculture
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
@@ -14,11 +14,11 @@ type: query
 
 A cob oven is an earthen oven made from clay, sand, and straw that can reach temperatures over 800 degrees Fahrenheit, making it ideal for baking bread, roasting vegetables, and cooking pizzas.
 
-Building one costs under fifty dollars in materials and can be completed in a single weekend with basic hand tools.
+Building one costs under fifty dollars in materials and can be completed in a single weekend with basic [[garden-hand-tools-solomon]].
 
 ## What Is Cob and Why Use It
 
-Cob is one of the oldest building materials known to humanity, consisting of clay-rich subsoil mixed with sand and straw. It is fireproof, inexpensive, and can be sourced directly from your property in many regions.
+Cob is one of the oldest [[natural-building-materials-guide]] known to humanity, consisting of clay-rich subsoil mixed with sand and straw. It is fireproof, inexpensive, and can be sourced directly from your property in many regions.
 
 Unlike brick ovens, cob ovens do not require mortar or fired bricks, making them accessible to anyone regardless of construction experience.
 
@@ -132,7 +132,7 @@ Rake out the coals and sweep the floor clean with a damp cloth.
 
 The oven temperature at this point is ideal for pizza, flatbreads, and quick roasting.
 
-As the oven cools over the next several hours, the dropping temperature range is perfect for bread, casseroles, roasts, and eventually slow-cooked beans or dried fruits.
+As the oven cools over the next several hours, the dropping [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] is perfect for bread, casseroles, roasts, and eventually slow-cooked beans or dried fruits.
 
 ## Key Points
 
@@ -145,3 +145,4 @@ As the oven cools over the next several hours, the dropping temperature range is
 
 - [[cob-building]]
 - [[cob-oven-construction]]
+- [[comparison-solar-cooking-vs-cob-oven]]

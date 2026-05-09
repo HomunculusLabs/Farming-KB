@@ -42,7 +42,7 @@ create the illusion of participation, and consumer goods that create the illusio
 of satisfaction. These three systems form an interlocking web from which
 escape requires a fundamental shift in consciousness.
 
-McKenna connects this to the broader pattern of dominator culture: the
+McKenna connects this to the broader pattern of [[mckenna-dominator-culture-and-suppression-of-ecstasy]]: the
 consequence of having broken off the symbiotic relationship with the Gaian
 matrix of the planet. This is the consequence of lack of partnership, the legacy
 of imbalance between the sexes, and the terminal phase of a long descent into
@@ -50,7 +50,7 @@ meaninglessness and toxic existential confusion.
 
 ## The MK-ULTRA Connection and Mass Hypnosis
 
-McKenna notes that the CIA and military intelligence gave significant attention
+McKenna notes that the CIA and [[metzner-military-intelligence-lsd-psychotomimetic-weapon-programs]] gave significant attention
 to psychedelics during the 1960s through projects such as MK and MK-ULTRA. The
 widespread belief that the conclusion of these studies was that television was
 the drug of choice for mass hypnosis, while reasonable, should not be taken at
@@ -121,7 +121,7 @@ regimentation and erosion of civil liberties.
 
 - [[mckenna-consciousness-expansion-and-drug-war]]
 - [[mckenna-dominator-culture-and-suppression-of-ecstasy]]
-- mckenna   a modest proposal drug policy reform
+- mckenna   a [[mckenna-modest-proposal-drug-policy-reform]] drug policy reform
 
 ## See Also
 

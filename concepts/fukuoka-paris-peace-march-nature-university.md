@@ -5,7 +5,8 @@ updated: 2026-04-16
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka Paris Peace March and International Nature University
 
@@ -19,7 +20,7 @@ Fukuoka was invited to speak at the evening gathering in a large renovated wareh
 
 ## The Roots of Peace and War
 
-Fukuoka's philosophy of peace connects directly to his farming philosophy:
+Fukuoka's philosophy of peace connects directly to his [[fukuoka-do-nothing-farming-philosophy-and-practice]]:
 
 - Peace cannot be won with weapons -- this has always been true throughout history
 - The theory of biological evolution (strong feed on weak, survival of the fittest) is founded on error
@@ -27,21 +28,21 @@ Fukuoka's philosophy of peace connects directly to his farming philosophy:
 - The true state of nature has no strong or weak, no eternal victors or absolute losers
 - It is unpardonable to mistake natural selection as a law of nature and believe military force is the proper course
 
-He wrote an open letter to world leaders: "No grudge runs as deep as one over food. If you use food as a strategic weapon, you may earn the hatred of the entire world."
+He wrote an open letter to world leaders: "No grudge runs as deep as one over food. If you use food as a [[fukuoka-food-strategic-weapon-critique]], you may earn the hatred of the entire world."
 
 ## The International Nature University
 
-In Paris, Fukuoka met the son of an important American Indian chief who was practicing [[fukuoka-food-as-strategic-weapon]] and reinforces why natural farming is not merely an agricultural technique but a political and moral imperative. When food production requires expensive purchased inputs, farmers become dependent on the same power structures that use food as a weapon.
+In Paris, Fukuoka met the son of an important American Indian chief who was practicing [[fukuoka-food-as-strategic-weapon]] and reinforces why [[comparison-natural-farming-vs-permaculture]] is not merely an agricultural technique but a political and moral imperative. When food production requires expensive purchased inputs, farmers become dependent on the same power structures that use food as a weapon.
 
 ## The American Indian Perspective
 
 The American Indian chief's son who proposed the university embodied a perspective that resonated deeply with Fukuoka. Indigenous peoples around the world maintained sustainable relationships with their environments for thousands of years before being disrupted by colonial agriculture.
 
-Fukuoka saw in this man's Paris garden -- growing vegetables by natural farming methods in the heart of a European capital -- proof that his philosophy could take root anywhere. The scattering of vegetable seeds in urban settings was itself an act of ecological restoration and cultural bridge-building.
+Fukuoka saw in this man's Paris garden -- [[container-growing-vegetables-herbs]] by natural [[natural-farming-methods-comparison]] in the heart of a European capital -- proof that his philosophy could take root anywhere. The scattering of vegetable seeds in urban settings was itself an act of ecological restoration and cultural bridge-building.
 
 ## Weapons for Defense?
 
-Fukuoka observed fundamental differences between European and Japanese attitudes toward nature and defense:
+Fukuoka observed fundamental differences between European and Japanese [[weil-cultural-attitudes-toward-altered-states]] nature and defense:
 
 - In Europe, all countries share common boundaries with no way to predict when enemy tanks might cross
 - This has led to the philosophy: "Instead of defending one's country with weapons, it is better that each individual acquire a philosophy of firmly protecting peace"
@@ -60,6 +61,8 @@ Standing at the Peace Memorial in Hiroshima, Fukuoka reflected on how the same i
 The peace message connects to an earlier episode in Fukuoka's life. In 1941, as a young man in his twenties, he wrote a letter to Franklin D. Roosevelt expressing his thoughts on the dreadfulness of approaching war. The letter was never delivered. Decades later, in "The Road Back to Nature," he prepared to write a similar letter to the leaders of the United States, the Soviet Union, and other countries.
 
 ## Related
+
+- [[fukuoka-international-nature-university-peace-march]]
 
 - [[fukuoka-cultural-disease-five-senses-alienated-nature]] Concepts
 
@@ -86,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

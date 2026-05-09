@@ -22,9 +22,9 @@ The genus Inocybe is one of the most surprising members of the neurotropic fungi
 
 ## Overview of Neurotropic Inocybe Species
 
-The Guzmán, Allen, and Gartz (1998) worldwide survey documented the following Inocybe species as containing psilocybin, baeocystin, or related indole compounds:
+The Guzmán, Allen, and Gartz (1998) [[oyster-mushroom-substrate-materials-worldwide-survey-comparison]] documented the following Inocybe species as containing psilocybin, baeocystin, or related indole compounds:
 
-- **Inocybe aeruginascens** — the most extensively studied neurotropic Inocybe; first reported by Babos (1968) from Hungary, later documented extensively from Germany by Drewitz (1983), Hohmeyer (1984), and Gartz (1985a through 1996). This species contains psilocybin, psilocin, and baeocystin.
+- **[[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]]** — the most extensively studied neurotropic Inocybe; first reported by Babos (1968) from Hungary, later documented extensively from Germany by Drewitz (1983), Hohmeyer (1984), and Gartz (1985a through 1996). This species contains psilocybin, psilocin, and baeocystin.
 - **Inocybe coelestium** — described by Kuyper (1986), documented from Austria, Germany, and the Netherlands. Contains psilocybin and related compounds.
 - **Inocybe corydalina** — widespread in Europe; occurs in two varieties: var. corydalina and var. erinaceomorpha. Both contain psilocybin.
 - **Inocybe haemacta** — documented from many European countries including Austria, Bulgaria, Czechoslovakia, Denmark, France, Germany, Great Britain, Hungary, Italy, Netherlands, Spain, Switzerland, and Yugoslavia. Also reported from Israel and Morocco.
@@ -78,9 +78,9 @@ The psilocybin-containing Inocybe species share the same basic indole alkaloid p
 
 - **Psilocybin** (4-PO-DMT) -- the primary [[psilocin]]
 - **Psilocin** (4-HO-DMT) — the dephosphorylated active metabolite
-- **Baeocystin** (4-PO-NMT) -- a lower homolog of [[neurotropic-fungi-biogeographic-patterns|convergent evolution]].
+- **Baeocystin** (4-PO-NMT) -- a lower homolog of convergent evolution.
 
-The distribution pattern of neurotropic Inocybe species is also distinctive: they are concentrated in temperate and boreal regions of the Northern Hemisphere (particularly Europe), unlike many psilocybin-containing genera that are tropical or subtropical. This temperate distribution correlates with the ectomycorrhizal ecology of Inocybe, which forms associations with trees in the families Pinaceae, Fagaceae, and Betulaceae.
+The distribution pattern of neurotropic Inocybe species is also distinctive: they are concentrated in temperate and boreal regions of the Northern Hemisphere (particularly Europe), unlike many psilocybin-containing genera that are tropical or subtropical. This [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]] correlates with the ectomycorrhizal ecology of Inocybe, which forms associations with trees in the families Pinaceae, Fagaceae, and Betulaceae.
 
 ## Inocybe aeruginascens: A Case Study
 
@@ -98,12 +98,12 @@ Inocybe aeruginascens deserves special attention as the most thoroughly document
 Several significant gaps exist in our understanding of neurotropic Inocybe species:
 
 1. **Tropical diversity**: Almost all documented neurotropic Inocybe species are from temperate regions, but the genus is diverse in tropical forests. Systematic chemical screening of tropical Inocybe species would likely reveal additional neurotropic taxa.
-2. **Southern Hemisphere**: No neurotropic Inocybe species have been documented from South America, Africa south of the Sahara, or Australasia, despite the genus being present in these regions.
+2. **[[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]**: No neurotropic Inocybe species have been documented from South America, Africa south of the Sahara, or Australasia, despite the genus being present in these regions.
 3. **Phylogenetic studies**: Modern molecular phylogenetics has not been applied to understanding the evolution of psilocybin biosynthesis in Inocybe. Whether the neurotropic species form a monophyletic clade or represent multiple independent origins within the genus remains unknown.
-4. **Toxicity**: The co-occurrence of psilocybin with other potentially toxic compounds in some Inocybe species needs further investigation to assess the safety profile of consuming neurotropic Inocybe species.
+4. **Toxicity**: The co-occurrence of psilocybin with other potentially toxic compounds in some Inocybe species needs further investigation to assess the [[cannabis-safety-profile-and-overdose-risk]] of consuming neurotropic Inocybe species.
 
 ## See Also
 
 - [[neurotropic-fungi-classification]] -- classification of all neurotropic fungi
-- [[psilocybin-and-indole-alkaloid-chemistry-in-fungi]] -- indole alkaloid chemistry in fungi
+- psilocybin-and-indole-alkaloid-chemistry-in-fungi -- indole [[ergot-alkaloid-chemistry-history]] in fungi
 - [[inocybe-aeruginascens-profile]] -- detailed I. aeruginascens species profile

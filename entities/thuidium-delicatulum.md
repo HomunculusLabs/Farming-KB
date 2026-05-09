@@ -50,7 +50,7 @@ The sporophyte bears a cylindrical, curved capsule on a roughened seta 1.5 to 2.
 
 ## Distribution and Habitat
 
-Thuidium delicatulum is widespread across eastern North America, Europe, and Asia. In North America, it occurs from Nova Scotia to Ontario and southward to Florida and Texas, with disjunct populations in the Pacific Northwest.
+Thuidium delicatulum is widespread across [[polypore-fungi-eastern-north-america]] America, Europe, and Asia. In North America, it occurs from Nova Scotia to Ontario and southward to Florida and Texas, with disjunct populations in the Pacific Northwest.
 
 In Europe, it ranges from the British Isles and Scandinavia to the Mediterranean and eastward through central Russia. It is generally absent from arctic and alpine zones, preferring lowland and montane temperate forests.
 
@@ -66,13 +66,13 @@ Thuidium delicatulum also colonizes stone walls, foundations, and other man-made
 
 Thuidium delicatulum forms dense mats that significantly enhance forest floor moisture retention. The feathery branching structure creates a thick, spongy layer that absorbs rainwater and slowly releases it, maintaining humid conditions for soil organisms and seedling establishment.
 
-The species facilitates succession on disturbed forest floor by trapping leaf litter and organic debris. Over time, this accumulated material decomposes and contributes to soil humus formation, creating favorable conditions for vascular plant colonization.
+The species facilitates succession on disturbed forest floor by trapping leaf litter and organic debris. Over time, this accumulated material decomposes and contributes to soil [[lowenfels-humus-formation-benefits]], creating favorable conditions for vascular plant colonization.
 
 Its mats provide habitat for diverse invertebrate communities including springtails, mites, nematodes, and various insect larvae. Small amphibians and reptiles may shelter within the moss layer during periods of extreme weather.
 
-Thuidium delicatulum commonly associates with [[hypnum-cupressiforme]], [[dicranum-scoparium]] in mixed bryophyte communities. These assemblages form the dominant ground cover in many temperate deciduous forests.
+Thuidium delicatulum commonly associates with [[hypnum-cupressiforme]], [[dicranum-scoparium]] in mixed bryophyte communities. These assemblages form the dominant [[fukuoka-citrus-orchard-ground-cover-cultivation]] in many temperate deciduous forests.
 
-The species is moderately sensitive to air pollution and desiccation. It declines under heavy nitrogen deposition but recovers well from moderate disturbance if moisture conditions are maintained.
+The species is moderately sensitive to air pollution and desiccation. It declines under heavy [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] but recovers well from moderate disturbance if moisture conditions are maintained.
 
 Vegetative propagation is the primary mode of colony expansion. Stem fragments dispersed by water runoff, wind, or animal activity readily establish on suitable moist substrates. This dispersal mechanism allows rapid colonization of disturbed sites.
 
@@ -90,7 +90,7 @@ In cultivation, mats may expand 3 to 8 cm per year under ideal conditions. The s
 
 In ecological research, Thuidium delicatulum serves as a model organism for studying pleurocarpous moss branching architecture and its functional consequences for water retention and gas exchange.
 
-The species has been investigated for its ability to accumulate atmospheric heavy metals, particularly lead and cadmium, making it a candidate for passive biomonitoring of air quality in urban and industrial environments.
+The species has been investigated for its ability to accumulate atmospheric [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]], particularly lead and cadmium, making it a candidate for passive biomonitoring of [[cervantes-air-quality-ventilation]] in urban and industrial environments.
 
 Traditional uses include employment as bedding material and wound dressing by indigenous peoples of eastern North America. However, these applications were secondary to the more absorbent Sphagnum species.
 

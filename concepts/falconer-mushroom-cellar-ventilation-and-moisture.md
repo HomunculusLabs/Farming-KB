@@ -1,9 +1,9 @@
 ---
-title: Falconer Mushroom Cellar Ventilation and Moisture
+title: Falconer [[falconer-mushroom-cellar-management]] Ventilation and Moisture
 created: 2026-04-28
 tags:
   [
-    mushroom-cultivation,
+    [[mushroom-cultivation]],
     cellar-growing,
     ventilation,
     moisture-management,
@@ -73,7 +73,7 @@ directly beneath them.
 
 ## Condensation and Drip
 
-One of the chief troubles with flat-roofed mushroom cellars
+One of the chief troubles with flat-roofed [[nineteenth-century-mushroom-cellars]]
 is the drip from the condensed moisture rising from the beds,
 and this is more apparent in unheated than in heated cellars.
 The wet gathers upon the ceiling and, having no slope to run

@@ -15,7 +15,7 @@ type: query
 
 ## Direct Answer
 
-Bacteriophages (phages) are viruses that infect and kill bacteria — and they're everywhere in your soil, with estimates of 10^8 to 10^9 particles per gram. They act as natural population controllers, preventing any single bacterial species from dominating the soil community. This keeps your soil microbiome diverse and resilient, which directly supports healthier plant growth. Phages also move genes between bacteria (including traits like nitrogen fixation and disease resistance), making them hidden drivers of soil function. In agriculture, they're increasingly used as targeted biocontrol agents against plant pathogens — a natural alternative to chemical pesticides.
+Bacteriophages (phages) are viruses that infect and kill bacteria — and they're everywhere in your soil, with estimates of 10^8 to 10^9 particles per gram. They act as natural population controllers, preventing any single bacterial species from dominating the soil community. This keeps your soil microbiome diverse and resilient, which directly supports healthier plant growth. Phages also move genes between bacteria (including traits like [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] and disease resistance), making them hidden drivers of soil function. In agriculture, they're increasingly used as targeted biocontrol agents against plant pathogens — a natural alternative to chemical pesticides.
 
 ## Key Mechanisms: How Phages Shape Soil Bacterial Communities
 
@@ -35,7 +35,7 @@ Some phages don't kill immediately — they insert their DNA into the host bacte
 
 This gene-sharing function is why soil microbiomes can adapt so quickly to new challenges. When a disease pressure arrives, beneficial bacteria can acquire defense genes from their neighbors through phage-mediated transfer — sometimes within a single growing season. This is one reason why soils with long histories of organic management tend to be more disease-suppressive: their bacterial communities have had time to accumulate beneficial traits through phage-driven evolution.
 
-Phages are the most efficient gene-swapping machines in soil. When they replicate, they sometimes package fragments of bacterial DNA and carry them to new host bacteria. This is how traits like nitrogen fixation genes, phosphorus solubilization ability, and pathogen resistance spread through the soil community — sometimes across unrelated bacterial species.
+Phages are the most efficient gene-swapping machines in soil. When they replicate, they sometimes package fragments of bacterial DNA and carry them to new host bacteria. This is how traits like nitrogen fixation genes, phosphorus solubilization ability, and [[mycorrhizal-pathogen-resistance-mechanisms]] spread through the soil community — sometimes across unrelated bacterial species.
 
 ## Impact on Beneficial Soil Bacteria
 
@@ -60,7 +60,7 @@ PGPR like *Pseudomonas fluorescens* and *Bacillus subtilis* produce antibiotics,
 If you're considering phage-based biocontrol, here's what to know:
 
 - **Timing matters.** Apply phages preventively or at the very first sign of disease. They work best before pathogen populations explode.
-- **Combine with cultural practices.** Phages aren't a silver bullet — they work best as part of an integrated disease management approach alongside sanitation, crop rotation, and resistant varieties.
+- **Combine with cultural practices.** Phages aren't a silver bullet — they work best as part of an integrated [[plant-disease-management-solomon]] approach alongside sanitation, crop rotation, and resistant varieties.
 - **Storage and application.** Many phage products are sensitive to UV light and high temperatures. Apply in the evening or on cloudy days, and store according to label directions.
 - **Resistance management.** Unlike chemical pesticides, phages co-evolve with their targets, but using phage cocktails (mixtures of multiple phage types) further reduces the risk of pathogens developing resistance.
 
@@ -70,7 +70,7 @@ Phage therapy for crops is real and commercially available. Here are practical e
 
 - **Fire Blight Control:** Phage cocktails targeting *Erwinia amylovora* are used on apple and pear orchards, often combined with streptomycin for resistance management.
 
-- **Potato Soft Rot:** Phages against *Dickeya* and *Pectobacterium* species have shown strong results in storage and field trials, reducing tuber rot by significant margins.
+- **Potato Soft Rot:** Phages against *Dickeya* and *Pectobacterium* species have shown strong results in [[mollison-designers-soil-water-storage-and-field-capacity]] trials, reducing tuber rot by significant margins.
 
 - **Citrus Canker:** Phage applications against *Xanthomonas citri* are being tested in Florida groves as a copper-free alternative.
 
@@ -86,7 +86,7 @@ Tillage disrupts soil structure and the microhabitats where phage-bacteria inter
 
 ### Maintain Organic Matter
 
-Soil organic matter provides the carbon substrates that support diverse bacterial populations. More bacterial diversity means phage diversity stays distributed across many hosts rather than concentrating on a few. Compost, cover crops, and mulch all feed this system.
+[[savory-soil-organic-matter-and-decomposition-dynamics]] provides the carbon substrates that support diverse bacterial populations. More bacterial diversity means phage diversity stays distributed across many hosts rather than concentrating on a few. Compost, cover crops, and mulch all feed this system.
 
 ### Use Diverse Rotations
 
@@ -113,7 +113,7 @@ Broad-spectrum chemical pesticides and some synthetic fertilizers can reduce bac
 
 **Can I buy phages to add to my soil?** Not yet for general soil health — but phage biocontrol products for specific diseases are available and growing in number. Focus on soil health practices for now, and watch this space.
 
-**Do compost teas contain phages?** Yes — well-made, aerated compost teas are rich in both beneficial bacteria and their associated phages. This is one reason compost teas can be effective for disease suppression.
+**Do compost teas contain phages?** Yes — well-made, aerated compost teas are rich in both beneficial bacteria and their associated phages. This is one reason compost teas can be effective for [[aact-disease-suppression-mechanisms-ingham]].
 
 **Can phages harm my plants directly?** No. Bacteriophages only infect bacteria. They are completely harmless to plants, animals, and humans.
 

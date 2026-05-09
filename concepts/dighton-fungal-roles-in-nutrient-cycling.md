@@ -1,5 +1,5 @@
 ---
-title: "Fungal Roles in Nutrient Cycling"
+title: "Fungal Roles in comparison-nutrient-cycling-vs-nutrient-dense-gardening"
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -15,7 +15,7 @@ ecosystems, functioning not merely as decomposers but as agents of nutrient
 immobilization, translocation, and controlled release. The traditional view
 of decomposition and mineralization by saprotrophs followed by plant uptake
 aided by mycorrhizae has been revised to recognize a much closer association
-of mycorrhizal fungi with the decomposition process, with synergistic
+of [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] with the decomposition process, with synergistic
 interactions between saprotrophic and mycorrhizal communities.
 
 ## Nutrient Immobilization in Fungal Biomass
@@ -32,7 +32,7 @@ Stark (1972) demonstrated that hyphae had 193-272% greater N content and
 104-223% greater P content than the pine needle litter they colonized,
 suggesting substantial nutrient immobilization into fungal biomass. Marumoto
 et al. (1982) showed that the rate of carbon loss as CO2 was similar between
-decomposing bacterial and fungal cells, but the rate of nitrogen
+decomposing [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] cells, but the rate of nitrogen
 mineralization (as both NH4 and NO3-N) was slower from decomposing fungal
 cells, indicating longer N retention in fungal tissues.
 
@@ -92,8 +92,8 @@ the heterogeneity of resource distribution.
 ## Phosphorus Cycling
 
 Fungi play a critical role in P cycling through multiple mechanisms:
-immobilization into biomass, translocation through mycelial networks,
-phosphatase enzyme production for solubilizing organic P, and rock dissolution
+immobilization into biomass, translocation through [[fungal-mycelial-networks-nutrient-translocation]],
+phosphatase [[ligninolytic-enzyme-production-bioremediation]] for solubilizing organic P, and rock dissolution
 through organic acid secretion. Cord-forming fungi are particularly important
 in tropical forests where P binding to aluminum and iron oxides limits plant
 availability. Fungi are therefore an important control on nutrient retention
@@ -123,7 +123,7 @@ interactions).
 ## The Decomposition-Mycorrhizal Integration
 
 The revised model of nutrient cycling recognizes close coupling between
-saprotrophic and mycorrhizal communities. Ectomycorrhizal fungi can access
+saprotrophic and mycorrhizal communities. [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] can access
 organic forms of N and P, potentially competing with saprotrophs. Lindahl et
 al. (1999) demonstrated net P transfer from the saprotroph Hypholoma
 fasciculare to ECM fungi (Suillus, Paxillus), with up to 25% of saprotroph P
@@ -137,5 +137,4 @@ translocate mineral nutrients derived from saprotroph activity.
 - [[dighton-ectomycorrhizal-ecosystem-impact]]
 - [[dighton-wood-decay-ecosystem-carbon]]
 - [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]
-- [[dighton-wood-decay-ecosystem-carbon]]
 - [[biodiversity-of-fungi-biomass-carbon-soil-structure]]

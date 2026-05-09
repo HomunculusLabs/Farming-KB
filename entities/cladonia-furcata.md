@@ -11,7 +11,7 @@ updated: 2026-05-08
 sources:
   - Ahti T. (2000). "Cladoniaceae." Flora Neotropica Monograph 78.
   - Purvis OW, Coppins BJ, Hawksworth DL, et al. (1992). The Lichen Flora of Great Britain and Ireland. London: Natural History Museum.
-  - Brodo IM, Sharnoff SD, Sharnoff S (2001). Lichens of North America. New Haven: Yale University Press.
+  - Brodo IM, Sharnoff SD, Sharnoff S (2001). Lichens of [[psilocybin-north-america-pacific-northwest]]. New Haven: Yale University Press.
   - Nimis PL, Martellos S (2017). ITALIC – The Information System on Italian Lichens. University of Trieste.
 ---
 
@@ -55,7 +55,7 @@ Apothecia are rare, brown to reddish-brown, terminal on branch tips, with a smoo
 
 ## Distribution and Habitat
 
-Cladonia furcata has a **circumpolar distribution** across Europe, North America, and Asia, extending into temperate and boreal regions of the Southern Hemisphere.
+Cladonia furcata has a **circumpolar distribution** across Europe, North America, and Asia, extending into temperate and boreal regions of the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]].
 
 It is particularly abundant in Scandinavia, the British Isles, the Pacific Northwest of North America, and across Siberia.
 
@@ -67,7 +67,7 @@ Elevation ranges from sea level to subalpine zones, though it is most characteri
 
 ## Chemistry
 
-Cladonia furcata is chemically polymorphic, producing different secondary metabolites depending on the chemotype.
+Cladonia furcata is chemically polymorphic, producing different [[antifungal-secondary-metabolites-coprophilous-fungi]] depending on the chemotype.
 
 The most common chemotype contains **fumarprotocetraric acid** and protocetraric acid, which give a P+ (yellow to red) spot test reaction.
 
@@ -83,13 +83,13 @@ Cladonia furcata is an important component of **ground-dwelling lichen communiti
 
 It provides microhabitat structure for nematodes, tardigrades, and various arthropods that inhabit the mat of branching podetia.
 
-The species is sensitive to atmospheric pollution, particularly sulfur dioxide and ammonia nitrogen deposition, making it a reliable **bioindicator** of air quality.
+The species is sensitive to atmospheric pollution, particularly sulfur dioxide and ammonia [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]], making it a reliable **bioindicator** of air quality.
 
 In nitrogen-enriched environments, C. furcata tends to decline and is replaced by nitrophilic species such as Xanthoria parietina or Physcia spp.
 
 It plays a minor role in soil formation and stabilization through its contribution to cryptogamic crusts on sandy or disturbed substrates.
 
-Reproduction is primarily vegetative through fragmentation of brittle podetia, with sexual reproduction via ascospores being uncommon.
+Reproduction is primarily vegetative through fragmentation of brittle podetia, with [[fungal-life-cycles-sexual-reproduction-metamorphosis]] via ascospores being uncommon.
 
 The species occasionally hosts lichenicolous fungi, including *Lichenoconium pyxidatae*, which parasitizes the podetia and can reduce local abundance.
 
@@ -97,7 +97,7 @@ Cladonia furcata shows a degree of **substrate specificity** across its range, w
 
 ## Uses and Cultural Significance
 
-Cladonia furcata has limited direct economic use but has been investigated for its **antimicrobial properties**, particularly extracts rich in fumarprotocetraric acid.
+Cladonia furcata has limited direct economic use but has been investigated for its **[[mycelium-running-mushroom-antimicrobial-properties-species-chart]]**, particularly extracts rich in fumarprotocetraric acid.
 
 In traditional lichenology, the species was historically collected as part of broad "reindeer moss" harvests in Scandinavia, though C. rangiferina and C. stellaris were preferred.
 

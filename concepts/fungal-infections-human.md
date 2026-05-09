@@ -1,5 +1,5 @@
 ---
-title: Fungal Infections in Humans
+title: blesching-cannabis-fungal-infections-candida in Humans
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Fungal infections (mycoses) range from superficial skin conditions to life-threatening systemic diseases. An estimated 1.5 million people die from fungal infections annually worldwide, a figure that exceeds deaths from malaria or tuberculosis. The incidence of invasive fungal infections has risen dramatically over the past three decades, driven by increasing populations of immunocompromised patients, advances in medical interventions, and climate change expanding the geographic range of pathogenic fungi.
+Fungal infections (mycoses) range from superficial skin conditions to life-threatening systemic diseases. An estimated 1.5 million people die from fungal infections annually worldwide, a figure that exceeds deaths from malaria or tuberculosis. The incidence of invasive fungal infections has risen dramatically over the past three decades, driven by increasing populations of immunocompromised patients, advances in medical interventions, and [[dighton-fungi-climate-change-feedback]] expanding the geographic range of pathogenic fungi.
 
 ## Classification of Fungal Infections
 
@@ -40,7 +40,7 @@ Infect keratinized tissues (skin, hair, nails):
 
 ### Mucocutaneous Mycoses
 
-- **Oral candidiasis (thrush)**: White pseudomembranous plaques on oral mucosa caused by Candida albicans and other Candida species. Common in infants, immunocompromised patients, and those using inhaled corticosteroids
+- **Oral candidiasis (thrush)**: White pseudomembranous plaques on oral mucosa caused by [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]] and other Candida species. Common in infants, immunocompromised patients, and those using inhaled corticosteroids
 - **Vulvovaginal candidiasis**: Vaginal itching, discharge, and irritation; affects ~75% of women at least once. C. albicans causes 80-90% of cases; C. glabrata and C. tropicalis are less common but more resistant to azole treatment
 - **Intertrigo**: Candida infection in skin folds; erythematous, macerated lesions with satellite pustules
 
@@ -87,7 +87,7 @@ Candida species are commensal organisms in the human microbiome (gastrointestina
 
 ### Aspergillosis
 
-Caused primarily by Aspergillus fumigatus (~90% of cases), with A. flavus, A. niger, and A. terreus also pathogenic.
+Caused primarily by [[gadd-aspergillus-fumigatus-glucan-virulence]] (~90% of cases), with A. flavus, A. niger, and A. terreus also pathogenic.
 
 **Clinical presentations**:
 - **Invasive pulmonary aspergillosis (IPA)**: Most common form. Affects immunocompromised patients (neutropenia, transplant recipients, chronic corticosteroid use). Presents with fever, cough, pleuritic chest pain, hemoptysis. CT shows characteristic halo sign or air-crescent sign. Mortality 40-80%
@@ -97,14 +97,14 @@ Caused primarily by Aspergillus fumigatus (~90% of cases), with A. flavus, A. ni
 
 **Treatment**:
 - **Voriconazole**: First-line for invasive aspergillosis
-- **Isavuconazole**: Non-inferior to voriconazole with better safety profile
+- **Isavuconazole**: Non-inferior to voriconazole with better [[cannabis-safety-profile-and-overdose-risk]]
 - **Amphotericin B**: Lipid formulations for salvage therapy
 - **Echinocandins**: Used in combination therapy or as salvage
 - **Azole-resistant A. fumigatus**: Increasing globally due to environmental azole use in agriculture; represents a major emerging threat
 
 ### Cryptococcosis
 
-Caused by encapsulated yeast Cryptococcus neoformans and C. gattii.
+Caused by encapsulated yeast [[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]] and C. gattii.
 
 **Risk factors**: HIV/AIDS (CD4 < 100 cells/μL), organ transplantation, corticosteroid use, sarcoidosis. C. gattii can infect immunocompetent individuals.
 
@@ -139,36 +139,12 @@ Caused by fungi in the order Mucorales (Rhizopus, Mucor, Lichtheimia, Cunningham
 
 Caused by Pneumocystis jirovecii (formerly P. carinii), now classified as a fungus (not a protozoan).
 
-**Risk factors**: HIV/AIDS (CD4 < 200), primary immunodeficiencies, organ transplantation, chemotherapy, chronic corticosteroid use.
-
-**Clinical features**: Subacute onset of fever, non-productive cough, progressive dyspnea. Chest X-ray shows bilateral interstitial infiltrates; may be normal early. Elevated serum LDH.
-
-**Treatment**:
-- **Trimethoprim-sulfamethoxazole (TMP-SMX)**: First-line; both treatment and prophylaxis
-- **Alternatives**: Atovaquone, clindamycin-primaquine, pentamidine, caspofungin
-
-### Endemic Mycoses
-
-Geographically restricted systemic mycoses:
-
-- **Histoplasmosis** (Histoplasma capsulatum): Endemic in Ohio and Mississippi River valleys, Central and South America. Found in bat guano and bird droppings. Acute pulmonary infection; can disseminate in immunocompromised patients
-- **Coccidioidomycosis** (Valley Fever; Coccidioides immitis, C. posadasii): Endemic in southwestern US, northern Mexico, parts of Central and South America. Desert soil fungus. Often self-limited pneumonia; can disseminate (meningitis, bone, skin)
-- **Blastomycosis** (Blastomyces dermatitidis): Endemic in Mississippi and Ohio River valleys, Great Lakes region. Acute or chronic pulmonary disease; can disseminate to skin, bone, genitourinary tract
-- **Talaromycosis** (Penicilliosis; Talaromyces marneffei): Endemic in Southeast Asia. Opportunistic infection in HIV/AIDS patients. Fever, skin lesions, generalized lymphadenopathy
-
-## Antifungal Drug Classes
-
-| Class | Examples | Mechanism | Spectrum |
-|-------|---------|-----------|----------|
-| Polyenes | Amphotericin B | Binds ergosterol, forms membrane pores | Broad (yeasts, molds, some dimorphic) |
-| Azoles | Fluconazole, Itraconazole, Voriconazole, Posaconazole, Isavuconazole | Inhibit ergosterol synthesis (lanosterol 14α-demethylase) | Broad, species-dependent |
-| Echinocandins | Caspofungin, Micafungin, Anidulafungin | Inhibit β-1,3-glucan synthase | Candida, Aspergillus (not Cryptococcus or Mucorales) |
-| Flucytosine | Flucytosine | Inhibits DNA/RNA synthesis (pyrimidine analog) | Candida, Cryptococcus (used in combination) |
-| Terbinafine | Terbinafine | Inhibits squalene epoxidase | Dermatophytes (primarily) |
-
-See [[fungal-toxins-reference]] for poisoning from toxic mushrooms and [[fungal-antibiotics]] for antifungal compounds derived from fungi.
-
 ## Related
+
+- [[pythium-insidiosum-oomycete-human-infection-pythiosis]]
+
+- [[histoplasma-capsulatum-ohio-valley-disease-dimorphic-fungus]]
 
 - [[fungal-allergies]]
 - [[fungal-vaccines]]
+- [[singh-fungal-interactions-with-heavy-metals-in-soil]]

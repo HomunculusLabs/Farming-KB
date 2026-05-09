@@ -17,7 +17,7 @@ all parts of the tree, including leaves, fruit, branches, trunks, and roots,
 and are caused by a diverse array of fungal pathogens with complex life cycles
 and varied modes of infection. Managing fungal diseases in orchards requires
 integrated approaches that combine cultural practices, resistant varieties,
-biological control, and judicious use of chemical fungicides.
+[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]], and judicious use of [[cervantes-chemical-fungicides-insecticides]].
 
 ## Foliar Diseases
 
@@ -58,7 +58,7 @@ notable for its ability to infect both living and dead plant tissue, and
 it can persist as dormant structures (sclerotia) in soil and plant debris
 for extended periods. Post-harvest losses from Botrytis are particularly
 significant in stored fruit, where the fungus can spread rapidly under
-cool, humid storage conditions if infected fruit are not removed promptly
+cool, humid [[vegetable-storage-conditions-by-temperature-and-humidity]] if infected fruit are not removed promptly
 from storage facilities and packing lines.
 
 ## Canker and Wood Diseases
@@ -92,16 +92,16 @@ in many fruit tree species. These water mold pathogens thrive in poorly
 drained soils and can kill trees of any age when conditions favor their
 development. Thielaviopsis black root rot and Rosellinia white root rot
 are additional root pathogens that affect fruit trees in various growing
-regions around the world.
+regions [[fungi-around-the-world-species-distribution]].
 
 ## Management Strategies
 
-Integrated disease management in fruit orchards combines multiple approaches
+Integrated [[plant-disease-management-solomon]] in fruit orchards combines multiple approaches
 to reduce disease pressure while minimizing chemical inputs. Cultural
 practices such as pruning to improve air circulation, removing and destroying
 diseased wood and mummified fruit, and managing orchard floor debris can
 significantly reduce inoculum levels. Resistant cultivars, where available,
-provide the most sustainable and cost-effective form of disease control.
+provide the most sustainable and cost-effective form of [[hamilton-pest-and-disease-control-organic]].
 Biological control agents, including antagonistic fungi such as
 Aureobasidium pullulans and Trichoderma species, can suppress disease
 development when applied as pre-harvest treatments in integrated programs.

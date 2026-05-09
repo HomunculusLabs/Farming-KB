@@ -1,5 +1,5 @@
 ---
-title: "Phytotoxicity Testing for Bioremediation Assessment"
+title: "singh phytotoxicity testing bioremediation assessment for Bioremediation Assessment"
 created: 2026-04-26
 tags:
   - phytotoxicity
@@ -21,7 +21,7 @@ bioremediation assessment, providing essential information about the
 ecological safety and completeness of treatment processes. While chemical
 analysis (HPLC, GC-MS, COD/BOD measurements) quantifies pollutant
 concentrations, phytotoxicity bioassays reveal the biological impact of
-treated effluents and soils on living organisms, including the potential
+treated effluents and soils on [[savory-living-organisms-as-tools]], including the potential
 toxicity of intermediate metabolites that may form during biodegradation.
 A treated effluent may show reduced pollutant concentrations but retain
 or even increase toxicity if harmful transformation products accumulate.
@@ -29,7 +29,7 @@ or even increase toxicity if harmful transformation products accumulate.
 ## Importance in Bioremediation Monitoring
 
 Phytotoxicity testing is essential because:
-- Chemical analysis alone cannot predict biological effects of complex
+- [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] alone cannot predict biological effects of complex
   mixtures of parent compounds and degradation intermediates
 - Synergistic or antagonistic interactions among residual contaminants
   may produce unexpected toxicity
@@ -95,7 +95,7 @@ and genotoxicity bioassay:
 
 - **Root growth inhibition**: Measurement of root length and number
   after 48-72 hours exposure
-- **Mitotic index**: Microscopic examination of root tip meristems to
+- **Mitotic index**: [[fungal-microscopic-examination-mounting-media-techniques]] of root tip meristems to
   assess cell division frequency; reduced mitotic index indicates
   cytotoxicity
 - **Chromosomal aberrations**: Scoring of micronuclei, chromosome
@@ -120,7 +120,7 @@ potential impacts of treated effluents on aquatic receiving waters:
   seconds of gentle agitation are recorded as immobilized (dead)
 - **EC50 determination**: The effective concentration causing 50%
   immobilization is calculated from dose-response curves
-- **Sensitivity**: D. magna is highly sensitive to heavy metals,
+- **Sensitivity**: D. magna is highly sensitive to [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]],
   pesticides, surfactants, and phenolic compounds commonly found in
   industrial effluents
 
@@ -140,12 +140,9 @@ Comprehensive bioremediation assessment may include:
 - **Earthworm avoidance and survival tests**: Eisenia fetida responses
   to treated soils
 - **Ames test (Salmonella mutagenicity)**: Detection of mutagenic
-  activity in treated samples, particularly important for azo dye
-  degradation products (aromatic amines)
-
-- [[singh-fungal-interactions-with-heavy-metals-in-soil]]
-- [[singh-pah-biodegradation-fungi-soils-bioreactors]]
-
 ## See Also
 
 - [[singh-white-rot-fungi-lignin-modifying-enzymes-bioremediation]]
+- [[triticum-aestivum]]
+- [[sorghum-bicolor]]
+- [[mycoremediation]]

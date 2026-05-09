@@ -61,7 +61,7 @@ the world.
 
 Ice water extraction, popularized as "bubble hash," uses cold water and
 mechanical agitation to separate trichomes from plant material. Cannabis
-material is mixed with ice and water, then agitated. The cold temperature
+material is mixed with ice and water, then agitated. The [[snow-mold-fungi-cold-temperature-plant-pathogens]]
 makes trichomes brittle so they break free, while plant fibers remain flexible
 and intact.
 
@@ -85,7 +85,7 @@ Hashish quality is traditionally assessed by several criteria:
   black (lower quality, more plant contamination)
 - **Texture**: Properly aged hash should be pliable at room temperature
 - **Melt quality**: Premium hash bubbles and melts completely when heated
-- **Aroma**: Complex terpene profiles indicate careful processing
+- **Aroma**: Complex [[cannabis-terpene-profiles-sativa]] indicate careful processing
 
 ## See Also
 

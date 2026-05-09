@@ -1,5 +1,5 @@
 ---
-title: "MP (METAPROSCALINE; 3,4-DIMETHOXY-5-(n)-PROPOXYPHENETHYLAMINE) -- PIHKAL Entry #137"
+title: "MP (METAPROSCALINE; 3,4-DIMETHOXY-5-(n)-PROPOXYPHENETHYLAMINE) -- 2c-b-pihkal-entry-20 #137"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -68,14 +68,14 @@ solution allowed to return to room temperature. There was then added
 200 mL of an aqueous solution containing 20 g ammonium sulfate. The
 Et2O layer was separated, washed with saturated ammonium sulfate
 solution, and the organic solvents removed under vacuum. The residue
-was dissolved in 250 mL of 70% MeOH and 14 mL of 30% hydrogen peroxide
+was dissolved in 250 mL of 70% MeOH and 14 mL of 30% [[cervantes-hydrogen-peroxide-sterilization]]
 added in small portions. This reaction was very exothermic, and
 
 (Additional synthesis details available in source.)
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

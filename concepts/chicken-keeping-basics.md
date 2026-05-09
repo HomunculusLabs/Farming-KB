@@ -1,5 +1,5 @@
 ---
-title: Chicken Keeping Basics
+title: comparison-chicken-keeping-vs-beekeeping-basics Basics
 created: 2026-04-17
 updated: 2026-04-18
 type: concept
@@ -10,7 +10,7 @@ sources: []
 # Chicken Keeping Basics
 
 Backyard chickens are one of the most accessible livestock for homesteaders,
-providing eggs, manure, pest control, and entertainment.
+providing eggs, manure, [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], and entertainment.
 
 ## Choosing a Breed
 
@@ -24,7 +24,7 @@ Bred for maximum production, lighter bodied.
 ### Dual-Purpose (Meat and Eggs)
 Heavier, suitable for both eggs and table.
 - **Orpington:** 200-280 brown, very docile, good mothers.
-- **Wyandotte:** 200-240 brown, cold hardy, beautiful plumage.
+- **Wyandotte:** 200-240 brown, [[coleman-cold-hardy-varieties]], beautiful plumage.
 - **Brahma:** 150-200 brown, very large (10-12 lb), gentle giants.
 
 ### Bantams
@@ -88,9 +88,9 @@ beds. Size: 10 sq ft per bird minimum. Move daily for intensive, every 2-3
 days for lighter systems.
 
 ### Composting Integration
-Chicken manure: N-P-K ~1.8-1.5-0.8. Hot compost required before garden use
+Chicken manure: N-P-K ~1.8-1.5-0.8. [[query-what-is-the-difference-between-hot-compost-and-cold-compost]] required before garden use
 (raw manure will burn plants). Compost with carbon materials at 1:2 to 1:3
-N:C ratio for 3-6 months. Deep litter method: layer straw/shavings, composts
+N:C ratio for 3-6 months. [[comparison-deep-litter-vs-hot-composting]] method: layer straw/shavings, composts
 in place, generates winter heat, reduces cleaning.
 
 ### Garden Integration
@@ -99,7 +99,10 @@ want scratched. Foraging reduces feed costs 10-30%.
 
 ## See Also
 
-- [[permaculture-plant-guilds]] — Plant guilds complementing chicken forage
-- [[guild-design-methodology]]
+- permaculture-plant-guilds — Plant guilds complementing chicken forage
+- guild-design-methodology
 - [[teaming-with-microbes-plant-control]]
 - [[permaculture-multi-purpose-plants]]
+- [[chicken-keeping]]
+- [[comparison-chicken-keeping-vs-beekeeping-basics]]
+- [[comparison-chicken-keeping-vs-quail-husbandry]]

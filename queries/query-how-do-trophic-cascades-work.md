@@ -1,5 +1,5 @@
 ---
-title: How Do Trophic Cascades Work and Why Do They Matter?
+title: How Do query how do trophic cascades work Work and Why Do They Matter?
 tags: trophic-cascade, ecology, predator-prey, food-web, keystone-species, ecosystem-dynamics, conservation, top-down-regulation
 date: 2026-04-28
 updated: 2026-04-28
@@ -47,13 +47,13 @@ More subtly, predators can affect ecosystems without killing prey — simply by 
 
 **Top-down cascades** (predator-driven) occur when higher trophic levels regulate lower ones. The classic "green world" hypothesis — the world is green because predators keep herbivores in check — is a top-down model.
 
-**Bottom-up cascades** (resource-driven) occur when nutrient availability or primary productivity limits higher trophic levels. More nitrogen → more [[invasive-species-management]] can be so destructive: they enter food webs where natural controls are absent. Feral cats in Australia, lionfish in the Caribbean, and Burmese pythons in the Everglades all cause cascading effects because no native predator controls them.
+**Bottom-up cascades** (resource-driven) occur when [[ph-and-nutrient-availability-garden-soils]] or primary productivity limits higher trophic levels. More nitrogen → more [[invasive-species-management]] can be so destructive: they enter food webs where natural controls are absent. Feral cats in Australia, lionfish in the Caribbean, and Burmese pythons in the Everglades all cause cascading effects because no native predator controls them.
 
 ## Cascades in Human-Dominated Landscapes
 
 ### Agricultural Systems
 
-Trophic cascades operate in farms too. Broad-spectrum insecticides kill natural enemies (predators, parasitoids) along with pests, triggering secondary pest outbreaks. Conservation biological control works by maintaining or restoring predator populations to suppress pests through top-down regulation — essentially managing a beneficial trophic cascade.
+Trophic cascades operate in farms too. Broad-spectrum insecticides kill natural enemies (predators, parasitoids) along with pests, triggering secondary pest outbreaks. Conservation [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] works by maintaining or restoring predator populations to suppress pests through top-down regulation — essentially managing a beneficial trophic cascade.
 
 ### Urban and Suburban Ecosystems
 

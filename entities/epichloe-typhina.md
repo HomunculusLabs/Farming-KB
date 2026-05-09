@@ -69,12 +69,12 @@ inheritance.
 
 ### Mutualism and Pathogenicity
 - Symptomless endophytic colonization provides host grasses
-  with enhanced resistance to herbivores, drought tolerance,
+  with enhanced resistance to herbivores, [[dighton-fungal-drought-tolerance-plant-water-relations]],
   and competitive ability
 - Alkaloid production (ergot alkaloids, lolines, peramine)
   deters insect and mammalian herbivory
 - Choke disease results when stromata develop on
-  inflorescences, preventing seed production
+  inflorescences, preventing [[cervantes-seed-production-storage]]
 - The balance between mutualism and pathogenicity depends
   on environmental conditions, host genotype, and fungal
   genotype
@@ -110,7 +110,7 @@ inheritance.
 - Molecular phylogenetic analysis using ITS rDNA, beta-
   tubulin, and translation elongation factor genes
 - Mitochondrial DNA inheritance studies (Chung et al. 1996)
-- Microscopic examination of host tissue for intercellular
+- [[fungal-microscopic-examination-mounting-media-techniques]] of host tissue for intercellular
   hyphae
 - Alkaloid profiling using HPLC and GC-MS
 - Staining procedures for analyzing endophytic colonization
@@ -119,7 +119,7 @@ inheritance.
 ### Economic Significance
 - Beneficial endophyte associations in turf and forage
   grasses reduce insecticide and irrigation requirements
-- Choke disease can reduce seed production in grass seed
+- Choke disease can reduce seed production in [[disposable-tray-casing-method-grass-seed-substrate]]
   crops
 - Endophyte-infected tall fescue (Festuca arundinacea)
   causes fescue toxicosis in livestock due to ergot
@@ -127,7 +127,7 @@ inheritance.
 
 ## Relevance
 Epichloe typhina is a model system for studying the evolutionary
-transition between mutualism and parasitism in fungal endophytes. The
+transition between mutualism and parasitism in [[fungi-in-the-environment-fungal-endophytes-plant-communities]]. The
 hybridization events documented in the source text, which gave rise to
 asexual Neotyphodium lineages, illustrate how fungal endophytes
 generate genetic diversity. Understanding the ecological and
@@ -135,6 +135,8 @@ physiological features of E. typhina is essential for managing
 endophyte-enhanced grasses in agriculture and turf management.
 
 ## See Also
+
+- [[epichloe-festucae]]
 
 - [[claviceps-purpurea]]
 - [[trichoderma-viride]]

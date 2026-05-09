@@ -40,7 +40,7 @@ Fruits are round, ovoid, or pear-shaped berries, 4–12 cm in diameter. Skin col
 
 ## Distribution and Habitat
 
-P. guajava is native to an area stretching from southern Mexico through Central America into northern South America. Pre-Columbian cultivation and trade spread it throughout the neotropics.
+P. guajava is native to an area stretching from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] into northern South America. Pre-Columbian cultivation and trade spread it throughout the neotropics.
 
 The species was introduced to Asia by Spanish and Portuguese traders in the 16th century. It is now pantropical, cultivated between approximately 23°N and 23°S latitude.
 
@@ -54,7 +54,7 @@ Guava is exceptionally rich in vitamin C, containing 200–400 mg per 100 g of f
 
 The fruit is consumed fresh, juiced, or processed into nectars, jams, jellies, pastes (goiabada), and dried snacks. In Mexico and Latin America, guava paste with cheese is a traditional dessert.
 
-In Southeast Asia, unripe guava is eaten raw with salt, chili, and vinegar as a crunchy snack. In India, guava is a common street food, often sold with a spice mix of chaat masala.
+In [[psilocybe-southeast-asia-pacific]], unripe guava is eaten raw with salt, chili, and vinegar as a crunchy snack. In India, guava is a common street food, often sold with a spice mix of chaat masala.
 
 The leaves are brewed as a tea in many cultures, valued for their supposed anti-diarrheal and anti-diabetic properties. Guava leaf tea is commercially available in Japan, Taiwan, and Brazil.
 
@@ -62,11 +62,11 @@ The leaves are brewed as a tea in many cultures, valued for their supposed anti-
 
 The leaves contain a rich polyphenol profile including quercetin, guaijaverin, avicularin, and kaempferol derivatives. Tannins account for 10–20% of leaf dry weight, contributing to anti-diarrheal activity.
 
-Guava leaf extract inhibits alpha-glucosidase with comparable potency to the pharmaceutical drug acarbose in vitro. Multiple clinical trials have demonstrated that guava leaf tea reduces postprandial blood glucose by 10–25% in type 2 diabetic patients.
+Guava leaf extract inhibits alpha-glucosidase with comparable potency to the pharmaceutical drug acarbose in vitro. Multiple [[mushroom-cancer-clinical-trials-overview]] have demonstrated that guava leaf tea reduces postprandial blood glucose by 10–25% in type 2 diabetic patients.
 
 The fruit contains lycopene (particularly in red-fleshed varieties) at concentrations comparable to tomatoes. Carotenoids, including β-carotene and cryptoxanthin, contribute significant antioxidant capacity.
 
-Essential oil from the leaves is dominated by limonene, caryophyllene, and eucalyptol. The oil exhibits broad-spectrum antimicrobial activity against Gram-positive bacteria and several Candida species.
+[[permaculture-designers-manual-essential-oil-plants]] from the leaves is dominated by limonene, caryophyllene, and eucalyptol. The oil exhibits broad-spectrum antimicrobial activity against Gram-positive bacteria and several Candida species.
 
 Bark extracts have demonstrated anti-spasmodic and anti-diarrheal effects in animal models. Traditional use of bark decoctions for gastrointestinal complaints is supported by these pharmacological findings.
 
@@ -76,9 +76,9 @@ Guava is most commonly propagated by seed, though air-layering, grafting, and st
 
 Commercial orchards are typically planted at 5–7 meter spacing with 150–250 trees per hectare. Annual yields range from 15–25 tonnes per hectare under good management.
 
-Major pests include the Caribbean fruit fly (*Anastrepha suspensa*), guava whitefly, and fruit-boring moths. Integrated pest management combining pheromone traps, biological control, and targeted sprays is standard practice.
+Major pests include the Caribbean fruit fly (*Anastrepha suspensa*), guava whitefly, and fruit-boring moths. Integrated pest management combining pheromone traps, [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]], and targeted sprays is standard practice.
 
-Pruning is performed annually to maintain tree shape and remove dead or diseased wood. In subtropical regions, guava produces two distinct fruiting seasons per year.
+Pruning is performed annually to maintain tree shape and remove dead or diseased wood. In subtropical regions, guava produces two distinct [[azurescens-fruiting-seasons-and-conditions]] per year.
 
 ## Traditional and Ethnobotanical Use
 
@@ -111,7 +111,7 @@ Commercial guava cultivation centers on a limited number of named cultivars sele
 ## See Also
 
 - [[terminalia-chebula]]
-- [[punica-granatum]]
+- punica-granatum
 - [[curcuma-longa]]
 - [[eugenol]]
 - caryophyllene

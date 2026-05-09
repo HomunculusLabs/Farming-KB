@@ -12,11 +12,11 @@ sources:
 
 ## Overview
 
-On the Krameterhof, all land is managed as part of a paddock system. All livestock are kept outside the whole year round. Animals that have their natural needs fulfilled remain healthy and happy, grow well, and provide good offspring. The system moves in a circle, making additional feeding unnecessary because the animals work for themselves.
+On the Krameterhof, all land is managed as part of a paddock system. All livestock are kept outside the whole [[coleman-year-round-marketing-calendar]]. Animals that have their natural needs fulfilled remain healthy and happy, grow well, and provide good offspring. The system moves in a circle, making additional feeding unnecessary because the animals work for themselves.
 
 ## Stocking Rate
 
-Depending on soil conditions and vegetation, Sepp Holzer keeps between three and twelve pigs per hectare in a paddock. The stocking rate should be adapted to fit the amount of food naturally available.
+Depending on soil conditions and vegetation, [[comparison-sepp-holzer-vs-biodynamic]] keeps between three and twelve pigs per hectare in a paddock. The stocking rate should be adapted to fit the amount of food naturally available.
 
 ## Key Design Elements
 
@@ -34,13 +34,13 @@ Simple open structures made of rough timber logs or stones are built for shelter
 
 ### Forage
 
-Extra feeding is rarely necessary because there is enough vegetation throughout the year. Even in winter, pigs find food beneath the snow -- they dig up Jerusalem artichokes, which taste like sweet potato. Always ensure enough tubers and root crops remain in the soil despite grazing, so plants can propagate themselves.
+Extra feeding is rarely necessary because there is enough vegetation throughout the year. Even in winter, pigs find food beneath the snow -- they dig up Jerusalem artichokes, which taste like [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]. Always ensure enough tubers and [[permaculture-plants-root-crops-and-tubers]] remain in the soil despite grazing, so plants can propagate themselves.
 
 ## The Paddock Cycle
 
 1. Pigs move from one paddock to the next
 2. The churned-up soil is sown with a mixture of different crops (turnips, potatoes, cabbages, peas, etc.)
-3. In the next paddock, pigs reduce the number of stinging nettles between fruit trees
+3. In the next paddock, pigs reduce the number of stinging nettles between [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
 4. Each grazed paddock is sown with a seed mixture
 5. Once enough time has passed, pigs return to the first paddock
 
@@ -51,7 +51,7 @@ The pigs' digging behaviour is particularly helpful with Jerusalem artichokes: t
 - **Soil preparation:** Pigs plough through top layers of earth searching for food, loosening and aerating the soil
 - **Directed tilling:** Scatter loose feed (peas, grain, maize) in appropriate places to direct pigs precisely. Compacted soil can be loosened with minimal effort.
 - **Snail regulation:** Movable pens place pigs where snail populations are high. Mix collected snails with normal feed until pigs acquire a taste. Pigs need a great deal of water to digest snails.
-- **Insect control:** Soil insects like cockchafers and chafers are controlled by rooting activity
+- **[[mushroom-pests-insect-control-stamets]]:** Soil insects like cockchafers and chafers are controlled by rooting activity
 - **Cyclical benefit:** Soil prepared and fertilised by pigs -> lush plant growth -> windfall fruit and roots as feed -> snails and insects eaten -> finest bacon from humanely kept animals
 
 ## Related
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

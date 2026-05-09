@@ -15,7 +15,7 @@ updated: 2026-04-28
 sources:
   - Smith, M.M. (2004). "Sceletium — a review." *Journal of Ethnopharmacology*, 92(2-3), 263-266.
   - Gericke, N., & Van Wyk, B.E. (2001). "Sceletium — a review update." *Journal of Ethnopharmacology*, 72(1-2), 31-41.
-  - Harvey, A.L. et al. (2011). "Pharmacological actions of the South African medicinal and functional food plant Sceletium tortuosum." *Phytochemistry*, 72(11), 1442-1450.
+  - Harvey, A.L. et al. (2011). "Pharmacological actions of the [[kanna-sceletium-south-african-narcotic]] medicinal and functional food plant Sceletium tortuosum." *Phytochemistry*, 72(11), 1442-1450.
   - Van Wyk, B.E., & Gericke, N. (2000). *People's Plants: A Guide to Useful Plants of Southern Africa*. Briza Publications.
 created: 2026-05-07
 ---
@@ -47,7 +47,7 @@ The genus name *Sceletium* (from Greek *skeletos*, "skeleton") refers to the pro
 
 ## Distribution and Habitat
 
-Endemic to **South Africa**: Western Cape (Cederberg, Namaqualand, West Coast), Northern Cape (Great Karoo), Eastern Cape, and southern Free State. Found on rocky outcrops, quartzite gravel flats, semi-arid renosterveld, and sandy well-drained soils at elevations up to ~1,200 m. Drought-tolerant; winter-rainfall Mediterranean climate zones.
+Endemic to **South Africa**: Western Cape (Cederberg, Namaqualand, West Coast), Northern Cape (Great Karoo), Eastern Cape, and southern Free State. Found on rocky outcrops, quartzite gravel flats, semi-arid renosterveld, and sandy well-drained soils at elevations up to ~1,200 m. Drought-tolerant; winter-rainfall Mediterranean [[mollison-climate-zones-permaculture-strategies]].
 
 ## Traditional Use
 
@@ -63,7 +63,7 @@ The indigenous **Khoikhoi** and **San** peoples of South Africa have used *Scele
 
 ### Preparation Methods
 
-Traditional preparation involves a critical **fermentation process**: fresh leaves/stems are crushed, placed in closed containers, and fermented 5–8 days. This converts precursor alkaloids into the more psychoactive mesembrine-type compounds. The fermented material is sun-dried, then chewed, sniffed as snuff, or smoked. Unfermented material is significantly less potent.
+[[kava-traditional-preparation-ceremonial-context]] involves a critical **fermentation process**: fresh leaves/stems are crushed, placed in closed containers, and fermented 5–8 days. This converts precursor alkaloids into the more psychoactive mesembrine-type compounds. The fermented material is sun-dried, then chewed, sniffed as snuff, or smoked. Unfermented material is significantly less potent.
 
 ### Historical Documentation
 
@@ -91,7 +91,7 @@ The primary active constituents are **mesembrine-type alkaloids**:
 
 ## Modern Therapeutic Applications
 
-Clinical research has explored *Sceletium* for:
+[[hofmann-lsd-clinical-research-early-studies]] has explored *Sceletium* for:
 
 - **Anxiety and stress:** Significant anxiolytic effects with standardized extracts (Zembrin®)
 - **Depression:** Antidepressant efficacy comparable to low-dose SSRIs in preliminary trials
@@ -109,7 +109,7 @@ Clinical research has explored *Sceletium* for:
 
 - **Conservation:** Listed as **Vulnerable** on the SANBI Red List; wild populations threatened by overharvesting and habitat loss
 - **South Africa:** Protected plant — wild collection requires permits
-- **United States:** Legal; sold as a dietary supplement
+- **[[dmt-containing-plants-united-states-halpern]]:** Legal; sold as a dietary supplement
 - **European Union:** Generally legal as a novel food ingredient
 - **Australia:** Not scheduled; available as a supplement
 
@@ -117,6 +117,5 @@ Clinical research has explored *Sceletium* for:
 
 - [[mesembrine]]
 
-- [[mesembrine]] — Primary active alkaloid
 - [[psilocybin]] — Comparison with classical psychedelic tryptamines
 - [[kratom-mitragyna-speciosa-pharmacology]] — Another ethnobotanical psychoactive plant

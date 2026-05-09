@@ -15,7 +15,7 @@ parents to combine desirable traits from each into offspring with
 superior characteristics. It is the foundation of modern cannabis
 variety development and the primary strategy used by commercial seed
 companies. Cervantes' breeding chapter provides a thorough treatment of
-hybrid types, hybrid vigor, and hybrid breeding strategies.
+hybrid types, [[cannabis-hybrid-vigor-and-phenotypes-clarke]], and hybrid breeding strategies.
 
 ## What Is a Hybrid
 
@@ -67,12 +67,12 @@ conditions, making F1 hybrids more resilient.
 
 ## Commercial Significance of F1 Hybrids
 
-F1 seed production offers strategic advantages for seed companies:
+F1 [[cervantes-seed-production-storage]] offers strategic advantages for seed companies:
 
 - True-breeding seed can be easily reproduced by open-pollination, but
   most seed companies have no interest in selling easily reproduced
   seed.
-- By releasing only hybrids of their pure lines, seed banks ensure
+- By releasing only hybrids of their pure lines, [[cannabis-seed-banks-and-genetics]] ensure
   customers must return to buy more F1 seed for each new planting.
 - This also protects the breeder's long-term investment by preventing
   competitors from reproducing their work.
@@ -99,7 +99,7 @@ Outbreeding is the process of crossing or hybridizing plants from
 different families, groups, or varieties with no close relationship.
 Any time a breeder uses plants outside the immediate family, hybrid
 seed is produced. Outbreeding introduces new genetic material to each
-respective gene pool, creating novel combinations of traits.
+respective [[cannabis-gene-pool-preservation-acclimatization-clarke]], creating novel combinations of traits.
 
 ## Combining Ability
 

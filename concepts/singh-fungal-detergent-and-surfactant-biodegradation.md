@@ -1,5 +1,5 @@
 ---
-title: Fungal Detergent and Surfactant Biodegradation
+title: singh fungal detergent and surfactant biodegradation and Surfactant Biodegradation
 created: 2026-04-28
 tags:
   - biodegradation
@@ -18,9 +18,9 @@ type: concept
 
 Synthetic surfactants and detergents are among the most widely produced
 and discharged organic chemicals worldwide, entering aquatic and
-terrestrial environments through domestic and industrial wastewater. While
-bacterial communities in activated sludge systems handle much of the
-biological degradation of these compounds, fungi contribute important
+terrestrial environments through domestic and [[fungal-industrial-wastewater-treatment]]. While
+[[cultivar-endorhiza-bacterial-communities-cannabis]] in activated sludge systems handle much of the
+biological degradation of these compounds, [[query-how-do-fungi-contribute-to-carbon-sequestration]] important
 complementary capabilities, particularly for recalcitrant surfactant
 structures and under conditions unfavorable to bacteria. Singh's
 treatment of fungal surfactant biodegradation connects to the broader
@@ -70,7 +70,7 @@ molecules more accessible to other enzyme systems.
 ## Key Fungal Genera in Surfactant Biodegradation
 
 Several fungal genera have demonstrated significant surfactant
-degradation capabilities. White rot basidiomycetes including Trametes,
+degradation capabilities. [[comparison-brown-rot-vs-white-rot-bioremediation]] basidiomycetes including Trametes,
 Phanerochaete, and Pleurotus species degrade LAS, NPEOs, and their
 metabolites through their ligninolytic enzyme systems. Ascomycetes such
 as Aspergillus, Penicillium, and Fusarium species are effective

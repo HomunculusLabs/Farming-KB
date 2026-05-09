@@ -1,5 +1,5 @@
 ---
-title: "Water Harvesting and Storage in Permaculture Landscapes"
+title: "Water [[grain-harvesting-and-storage]] in permaculture Landscapes"
 created: 2026-04-26
 tags:
   - water
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+  sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: concept
 ---
 
@@ -22,7 +23,7 @@ vehicle for building the productive capacity of land.
 ## Urban Catchment Management
 
 Strategies to catch and use water run-off from buildings and hard surfaces for
-household use and garden irrigation reflect progressive approaches to urban
+household use and [[query-how-do-i-build-and-manage-a-greywater-system-for-garden-irrigation]] reflect progressive approaches to urban
 catchment management. These aim to absorb and use stormwater as close to the
 source as possible, reversing the conventional approach of rapid drainage that
 degrades streams and wastes a valuable resource.
@@ -37,7 +38,7 @@ retention and infiltration.
 
 At Melliodora, all these examples of slope use have been applied: tanks sited
 high for gravity feed, swales to slow and spread water, and terraces to create
-productive growing space on sloping land. These earthworks represent the
+productive [[cotter-growing-space-design-fruiting-rooms]] on sloping land. These earthworks represent the
 appropriate use of non-renewable resources (fossil fuels powering bulldozers) to
 create infrastructure that can be maintained indefinitely, by human labour if
 necessary.
@@ -70,7 +71,7 @@ siltation, and salinity. This catchment pattern of land use has been promoted by
 both the Landcare movement and the earlier Soil Conservation movement.
 
 See also: [[permaculture-design]],
-[[holmgren-appropriate-non-renewable-resources]]
+holmgren-appropriate-non-renewable-resources
 ## Practical Considerations
 
 Successful implementation of Water Harvesting and Storage in Permaculture Landscapes requires attention to
@@ -90,3 +91,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[holmgren-aboriginal-management-edge-landscapes]]

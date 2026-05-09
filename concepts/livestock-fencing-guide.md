@@ -4,14 +4,16 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [animal-husbandry, homesteading, livestock, equipment, construction]
-sources: []
+sources:
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # Livestock Fencing Guide
 
 Fencing is one of the most important investments on a homestead. Good fencing
 keeps animals where they belong, protects them from predators, and enables
-rotational grazing systems that improve pasture health. The right fence depends
+[[comparison-rotational-grazing-vs-continuous-grazing]] systems that improve pasture health. The right fence depends
 on the species, terrain, budget, and management style. This guide covers the
 major fencing types used in homestead livestock systems.
 
@@ -19,7 +21,7 @@ major fencing types used in homestead livestock systems.
 
 ### Overview
 Electric fencing is the most versatile and cost-effective option for
-rotational grazing and temporary paddocks. It works by delivering a brief,
+[[comparison-rotational-grazing-vs-set-stocking]] and temporary paddocks. It works by delivering a brief,
 high-voltage pulse that trains animals to respect the barrier. The psychological
 barrier is as important as the physical one.
 
@@ -142,50 +144,7 @@ longest-lasting fencing option, with a lifespan of 40+ years.
 - Calculate paddock size based on stocking density and rest period needs.
   See [[pasture-management]].
 - Design lanes (permanent alleys) for animal movement between paddocks.
-- Water access in every paddock, or lane access to a central water point.
-- Use permanent fencing for the perimeter and division lanes; portable
-  fencing for internal paddock divisions.
-- Plan gate placement to allow easy movement between paddocks.
-
-### Species-Specific Notes
-- **Cattle:** 2-3 strands of poly wire or electric tape at 30, 40, and 50
-  inches. Train first.
-- **Sheep:** Electric net fencing or 4-5 strands at 6, 12, 18, 28, and 40
-  inches. Sheep have poor depth perception and need visible wire.
-- **Goats:** Electric net fencing or 4-5 strands with tight spacing at the
-  bottom (6, 12, 18, 30, 40 inches). Goats test fences — use strong
-  energizers.
-- **Pigs:** 2-3 strands at 6, 12, and 24 inches. Strong energizer (6+
-  joules). Bury bottom wire or use logs along bottom to prevent rooting under.
-  See [[pig-husbandry]].
-- **Poultry:** Electric net fencing with small mesh (2x3 inch or smaller).
-  42-48 inch height. Clip wings on flying breeds.
-
-## Gates
-
-- Match gate width to purpose: 4 ft for foot traffic, 12-16 ft for
-  equipment and cattle.
-- Use the same or heavier construction than the adjoining fence.
-- Metal tube gates are durable and low-maintenance.
-- Hang gates on the correct side (opens into the paddock, not onto a lane).
-- Provide latches that can be operated with one hand.
-
-## Maintenance
-
-- Walk fence lines monthly. Look for: loose wires, broken posts, vegetation
-  contact, sagging, rust, damaged insulators.
-- Test electric fence voltage at the furthest point regularly.
-- Re-tension high-tensile wire seasonally (spring and fall).
-- Replace damaged insulators and broken wires promptly.
-- Keep vegetation cleared 2-3 feet on both sides of electric fences.
-- Repair gates and latches immediately — a broken gate negates the entire
-  fence line.
-
-## Links
-
-- [[goat-husbandry]]
-- [[sheep-husbandry]]
-- [[pig-husbandry]]
-- [[cattle-husbandry]]
+## See Also
 - [[pasture-management]]
-- [[duck-keeping]]
+- mollison-designers-electric-fencing-in-permaculture-systems
+- [[mollison-designers-woven-fence-hedge-live-barrier]]

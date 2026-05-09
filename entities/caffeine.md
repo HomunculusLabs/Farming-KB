@@ -120,11 +120,11 @@ The pathway appears to have evolved independently at least five times across the
 
 - **Coffea arabica** (coffee) — 1.0–1.5% caffeine in beans
 - **Coffea canephora** (robusta coffee) — 2.0–2.7% caffeine, roughly double arabica
-- **Camellia sinensis** (tea) — 2.5–4.5% in dried leaves
+- **[[camellia-sinensis-entity]]** (tea) — 2.5–4.5% in dried leaves
 - **Theobroma cacao** (cacao) — 0.1–0.4% in beans; also contains theobromine
 - **Paullinia cupana** (guaraná) — 3–6% in seeds; highest caffeine content of any plant
 - **Ilex guayusa** — 1.5–3.0% in dried leaves
-- **Ilex paraguariensis** (yerba mate) — 0.7–1.7% in dried leaves
+- **Ilex paraguariensis** ([[comparison-caffeine-plants-yerba-mate-vs-guayusa-vs-yaupon-vs-tea]]) — 0.7–1.7% in dried leaves
 - **Cola acuminata** (kola nut) — 1.5–2.5%
 
 ## Tolerance and Dependence
@@ -135,12 +135,14 @@ Caffeine withdrawal is recognized in DSM-5 as a psychiatric condition. Symptoms 
 
 ## Legal Status
 
-Unregulated worldwide. No scheduling under the UN Convention on Psychotropic Substances. Permitted in all jurisdictions as a food additive and pharmaceutical ingredient.
 ## Related
 
-- [[theobromine]]
+- theobromine
 - [[ethylone]]
 
 ## See Also
 
-- [[caffeine-plants-and-stimulant-herb-cultivation]]
+- [[query-what-are-caffeine-plants-and-how-do-i-grow-them]]
+- [[ilex-paraguariensis]]
+- [[coffea-arabica]]
+- [[coffea-canephora]]

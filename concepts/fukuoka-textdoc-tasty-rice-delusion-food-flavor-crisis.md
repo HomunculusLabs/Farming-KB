@@ -1,5 +1,5 @@
 ---
-title: The Tasty Rice Delusion: How the Pursuit of Flavor Distanced Man from True Food
+title: The fukuoka-tasty-rice-illusion-food-processing Delusion: How the Pursuit of Flavor Distanced Man from True Food
 created: 2026-04-28
 tags:
   - fukuoka
@@ -38,7 +38,7 @@ Fukuoka does not deny that taste differences exist between rice varieties, but a
 these differences are very small. Even if a farmer sacrifices yields to perfect
 techniques for growing a good-tasting variety, no rice would win unanimous praise by a
 panel of samplers. The difference between varieties is always subject to reversal
-depending on the land, cultivation method, and weather. Poor-tasting varieties may
+depending on the land, [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]], and weather. Poor-tasting varieties may
 approach tasty ones in flavor under good conditions, while tasty rice hit by bad
 weather and pest damage often becomes less palatable than poor-tasting rice.
 
@@ -104,7 +104,7 @@ distanced them from true flavor.
 ## White Rice and the Loss of Natural Flavor
 
 Fukuoka traces how adults lose their instinctive sense of taste. They normally eat
-white rice prepared by polishing brown rice to remove the bran. To compensate for
+white rice prepared by polishing [[cho-brown-rice-vinegar-preparation]] to remove the bran. To compensate for
 the loss in flavor, they add meat sauce to white rice or eat it with sashimi.
 Tasty rice thus becomes rice that is easy to flavor and season. People delude
 themselves into thinking of white rice, stripped of aroma and taste peculiar to

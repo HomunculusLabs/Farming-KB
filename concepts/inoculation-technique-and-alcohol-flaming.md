@@ -1,5 +1,5 @@
 ---
-title: Inoculation Technique and Alcohol Flaming
+title: Inoculation inoculation technique and alcohol flaming Flaming
 created: 2026-04-28
 tags: [inoculation, sterile-technique, spore-syringe, mycology, flaming]
 date: 2026-04-28
@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-Inoculation is the process of introducing spores into the sterilized substrate
+Inoculation is the process of introducing spores into the [[oyster-mushroom-non-sterilized-substrate-cultivation]]
 jars. This is one of the most critical steps in the PF TEK because it is the
 moment when the sterile environment of the jar is breached, creating
 opportunity for contamination. Proper technique, including the use of alcohol
@@ -27,9 +27,9 @@ Before beginning inoculation, several conditions must be met:
   Inoculating a warm jar will kill the spores. This is a common cause of
   non-germination.
 
-- **Lid tightness**: Ensure the jar lid is tightened securely.
+- **Lid tightness**: Ensure the [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] is tightened securely.
 
-- **[[mushroom-spore-syringe-and-inoculation]] Inoculation Procedure
+- **mushroom-spore-syringe-and-inoculation Inoculation Procedure
 
 ### Step 1: Expose the Needle Holes
 
@@ -44,7 +44,7 @@ back towards the center of the lid, with the needle tip touching the inside
 glass surface of the jar. This angling is important because it directs the
 spore solution downward along the side of the jar, allowing it to flow down
 and inoculate the substrate cake rather than being absorbed by the non-
-nutritive dry vermiculite layer at the top.
+nutritive [[pf-tek-dry-vermiculite-contaminant-barrier]] layer at the top.
 
 ### Step 3: Deposit the Spore Solution
 
@@ -95,7 +95,7 @@ tools.
 
 ### Equipment
 
-- Denatured alcohol fuel (hardware stores)
+- Denatured [[permaculture-on-farm-alcohol-fuel-production]] (hardware stores)
 - Tequila shot glass (inverted as a burner)
 - Match or lighter
 - Eye dropper
@@ -137,7 +137,6 @@ If spores fail to germinate, consider these common causes:
 3. **Heat damage in transit**: Syringes exposed to extreme heat during
    shipping.
 
-4. **Freezing damage**: Extreme low temperatures may destroy spores.
 ## See Also
 
 - [[incubation-and-colonization]]
@@ -145,3 +144,5 @@ If spores fail to germinate, consider these common causes:
 ## See Also
 
 - [[pf-tek-inoculation-without-lids-and-alcohol-flaming]]
+- [[sterilization]]
+- [[pf-tek-inoculation-technique-and-syringe-management]]

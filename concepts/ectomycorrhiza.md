@@ -1,21 +1,13 @@
 ---
 title: Ectomycorrhiza
 created: 2026-04-28
-tags: [[mycology, ecology, botany, forest-ecology]
+tags: [mycology, ecology, botany, forest-ecology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mushrooms-fungi-from-around-the-world.md]
 type: concept
 ---
-
-# Ectomycorrhiza
-
-Ectomycorrhiza (ECM) is a form of symbiotic association between certain soil
-fungi and the roots of woody plants, primarily trees and shrubs in temperate,
-boreal, and some tropical forests. Unlike arbuscular mycorrhizae, ECM fungi
-do not penetrate root cells but instead form a sheath around the root tip and
-a network between root cells, creating an interface for nutrient exchange that
-is critical for forest ecosystem function. [[ectomycorrhizal-associations]] have evolved independently in multiple fungal
+# Ectomycorrhiza Ectomycorrhiza (ECM) is a form of symbiotic association between certain soil fungi and the roots of woody plants, primarily trees and shrubs in temperate, boreal, and some tropical forests. Unlike arbuscular mycorrhizae, ECM fungi do not penetrate root cells but instead form a sheath around the root tip and a network between root cells, creating an interface for nutrient exchange that is critical for forest ecosystem function. [[ectomycorrhizal-associations]] have evolved independently in multiple fungal
 lineages, primarily within the Basidiomycota and Ascomycota. Approximately
 7,000 to 10,000 fungal species are estimated to form ECM associations, though
 the majority do not produce visible fruiting bodies and can only be detected
@@ -67,8 +59,8 @@ nitrogen and phosphorus compounds in soil organic matter. This capability
 gives ECM trees a competitive advantage on nutrient-poor or acidic soils
 where mineral nutrients are scarce.
 
-The nitrogen cycle in boreal and temperate forests is dominated by ECM
-fungi, which serve as the primary pathway for nitrogen transfer from soil
+The [[query-how-does-the-nitrogen-cycle-work-in-a-garden]] in boreal and temperate forests is dominated by ECM
+fungi, which serve as the primary pathway for [[symbiotic-fungi-mycorrhizal-nitrogen-transfer-networks]] from soil
 organic matter to trees. Without ECM associations, coniferous forests on
 nutrient-poor soils would be severely nitrogen-limited and unable to sustain
 the productivity levels observed.
@@ -76,12 +68,12 @@ the productivity levels observed.
 ## Forest Succession
 
 ECM associations play a key role in forest succession. Pioneer species that
-colonize disturbed sites are often arbuscular mycorrhizal, while later
-successional species in temperate and boreal forests tend to be
-ectomycorrhizal. This shift influences soil chemistry, nutrient cycling, and
+colonize disturbed sites are often [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]], while later
+successional species in temperate and [[fungal-diversity-boreal-forests-taiga]] tend to be
+ectomycorrhizal. This shift influences soil chemistry, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and
 the competitive dynamics among tree species. ECM fungi can also inhibit the
 establishment of non-mycorrhizal or AM plant species through competitive
-exclusion, helping to maintain forest community composition.
+exclusion, helping to maintain forest [[core-endorhiza-bacterial-community-composition-cannabis]].
 
 ## Climate Change Implications
 

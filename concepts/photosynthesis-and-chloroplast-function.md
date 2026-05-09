@@ -35,7 +35,7 @@ Through a series of enzyme-mediated steps, ATP and NADPH from the light reaction
 
 ## Sugar Production Scale
 
-Each chloroplast can create thousands of sugar molecules per second, provided there is sufficient light. With approximately 500,000 chloroplasts per square millimeter of leaf surface, a single leaf is a remarkably productive sugar factory. The world's plants use more than 100 billion tons of carbon, hydrogen, and oxygen to produce enough glucose to fill a line of tanker trucks 25-30 million miles long.
+Each chloroplast can create thousands of sugar molecules per second, provided there is sufficient light. With approximately 500,000 chloroplasts per square millimeter of [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]], a single leaf is a remarkably productive sugar factory. The world's plants use more than 100 billion tons of carbon, hydrogen, and oxygen to produce enough glucose to fill a line of tanker trucks 25-30 million miles long.
 
 ## Glucose as Building Material
 
@@ -61,7 +61,7 @@ While chloroplasts produce some ATP directly, most cellular ATP is produced in m
 
 ## Environmental Factors Affecting Photosynthesis
 
-Several environmental variables influence the rate of photosynthesis beyond nutrient availability. Light intensity follows a saturation curve: initially, photosynthesis increases linearly with light, but plateaus when all reaction centers are occupied. Temperature affects enzyme kinetics -- most C3 plants peak between 25-30°C, beyond which Rubisco's oxygenation activity increases, leading to photorespiration.
+Several environmental variables influence the rate of photosynthesis beyond [[ph-and-nutrient-availability-garden-soils]]. Light intensity follows a saturation curve: initially, photosynthesis increases linearly with light, but plateaus when all reaction centers are occupied. Temperature affects enzyme kinetics -- most C3 plants peak between 25-30°C, beyond which Rubisco's oxygenation activity increases, leading to photorespiration.
 
 Water availability indirectly affects photosynthesis through stomatal closure. When water is scarce, guard cells lose turgor and stomata close, reducing CO2 intake. The interconnected water transport system that sustains this process is described in [[von-liebig-law-of-the-minimum-and-fertilizer-history]].
 
@@ -69,7 +69,7 @@ Water availability indirectly affects photosynthesis through stomatal closure. W
 
 Photosynthesis has evolved multiple times in Earth's history, with different organisms independently developing light-harvesting capabilities. C4 photosynthesis, found in crops like maize and sugarcane, concentrates CO2 in specialized bundle sheath cells to reduce photorespiration.
 
-CAM photosynthesis, used by cacti and orchids, temporally separates CO2 fixation (at night) from the Calvin cycle (during day) to minimize water loss. Understanding these adaptations is crucial for crop selection in different climates and informs breeding programs aimed at improving photosynthetic efficiency in major food crops.
+[[comparison-c3-c4-and-cam-photosynthesis-pathways]], used by cacti and orchids, temporally separates CO2 fixation (at night) from the Calvin cycle (during day) to minimize water loss. Understanding these adaptations is crucial for [[cover-crop-selection-guide]] in different climates and informs breeding programs aimed at improving photosynthetic efficiency in major food crops.
 
 ## Related
 

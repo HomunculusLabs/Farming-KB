@@ -11,7 +11,7 @@ sources:
 Actinomycetes are a remarkable group of soil bacteria that bridge the
 gap between bacteria and fungi in both form and function. Belonging to
 the order Actinomycetales (with Streptomyces as the best-known genus),
-they play essential roles in decomposing resistant organic compounds and
+they play essential roles in decomposing resistant [[fungal-volatile-organic-compounds-communication]] and
 shaping the character of healthy soil.
 
 ## Fungal-Like Growth Form
@@ -21,7 +21,7 @@ they grow filaments, almost like fungal hyphae. These branching
 filamentous structures give actinomycetes several advantages:
 
 - **Physical reach**: Like fungi, they can extend across soil particles
-  to access organic matter that ordinary bacteria cannot reach
+  to access [[hamilton-composting-and-organic-matter-management]] that ordinary bacteria cannot reach
 - **Predator defense**: Their filamentous growth, combined with
   connecting soil particles, makes them too large to be eaten by
   their natural predators, the [[singh-fungal-roles-in-soil-aggregate-formation]]
@@ -66,7 +66,7 @@ amended soils tend to have fewer disease problems.
 Actinomycetes occupy a unique position in the
 [[teaming-with-microbes-bacteria]]
 - [[teaming-with-microbes-decomposition-pathways]]
-- [[fungal-cellulose-decomposition-fungal-enzymes]]
+- fungal-cellulose-decomposition-fungal-enzymes
 - [[fungal-roles-soil-food-webs]]
 ## Practical Considerations
 
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,6 +1,6 @@
 ---
-title: Soil Foodweb Biology and Balance
-source: The Field Guide for [[actively-aerated-compost-tea]] - Elaine Ingham
+title: Soil soil foodweb biology balance and Balance
+source: The Field Guide for actively-aerated-compost-tea - Elaine Ingham
 source_author: Dr. Elaine R. Ingham
 tags: [soil-foodweb, soil-biology, bacteria, fungi, protozoa, nematodes, trophic-levels, nutrient-cycling]
 created: 2026-05-08
@@ -14,7 +14,7 @@ Dr. [[decomposition]],
 and soil structure formation.
 
 Healthy soil contains billions of organisms per single teaspoon. These
-organisms decompose organic matter, cycle nutrients, fix atmospheric
+organisms decompose [[hamilton-composting-and-organic-matter-management]], cycle nutrients, fix atmospheric
 nitrogen, and create soil structure through their biological activities.
 The foodweb is the living engine that drives soil fertility without
 the need for synthetic chemical inputs.
@@ -35,13 +35,13 @@ higher trophic levels.
 Above the decomposers are grazers — protozoa and bacterial-feeding
 nematodes — that consume bacteria and release plant-available nutrients
 through their waste products. This grazing activity is essential for
-nutrient cycling because it converts microbial biomass into forms that
+[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] because it converts microbial biomass into forms that
 plant roots can absorb.
 
 At the highest trophic levels are predatory nematodes, microarthropods,
 and larger organisms that regulate grazer and decomposer populations.
 This multi-level structure ensures no single organism group dominates
-unchecked, maintaining ecological balance and system resilience.
+unchecked, maintaining [[fukuoka-ecological-balance-principles]] and system resilience.
 
 ## Bacterial vs. Fungal Dominated Soils
 
@@ -91,7 +91,7 @@ scale and through the soil profile.
 
 Fungal-feeding nematodes regulate fungal populations and cycle nutrients
 held in fungal biomass. Predatory nematodes consume other nematodes,
-providing biological control of root-feeding species. This diversity
+providing [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] of root-feeding species. This diversity
 of feeding strategies makes nematodes valuable bioindicators.
 
 Root-feeding nematodes are generally only problematic when the soil
@@ -102,5 +102,9 @@ for root resources and active predation.
 ## Balancing Biology and Chemistry
 
 Soil biology directly influences soil chemistry in profound ways.
-Microbial activity determines nutrient availability, pH buffering
+Microbial activity determines [[ph-and-nutrient-availability-garden-soils]], pH buffering
 capacity, [[compost-tea-recipe-guide]]
+## See Also
+- [[decomposition]]
+- [[compost-tea-recipe-guide]]
+- [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]]

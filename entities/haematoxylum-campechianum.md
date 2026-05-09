@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-**Haematoxylum campechianum**, commonly known as logwood, campeachy wood, or palo de tinta, is a thorny leguminous tree native to Central America and southern Mexico.
+**Haematoxylum campechianum**, commonly known as logwood, campeachy wood, or palo de tinta, is a thorny leguminous tree native to [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and southern Mexico.
 
 It is one of the most historically significant dye plants in world commerce, producing hematoxylin, a pigment that yields deep reds, purples, blues, and blacks.
 
@@ -46,7 +46,7 @@ Pods are green when young, turning brown at maturity, and may persist on the tre
 
 Logwood is native to the coastal regions of southern Mexico (particularly the Yucatán Peninsula, especially the area around Campeche), Belize, Guatemala, and Honduras.
 
-It has been widely introduced throughout the tropics and is naturalized in many Caribbean islands, West Africa, and parts of Southeast Asia.
+It has been widely introduced throughout the tropics and is naturalized in many Caribbean islands, West Africa, and parts of [[psilocybe-southeast-asia-pacific]].
 
 The species thrives in lowland tropical forests, coastal thickets, mangrove margins, and seasonally flooded areas.
 
@@ -54,7 +54,7 @@ It tolerates a range of soil types including saline, calcareous, and poorly drai
 
 Elevation range is from sea level to approximately 400 m.
 
-Annual rainfall requirements are 750–2000 mm, with the tree exhibiting notable drought tolerance once established.
+Annual rainfall requirements are 750–2000 mm, with the tree exhibiting notable [[dighton-fungal-drought-tolerance-plant-water-relations]] once established.
 
 ## Historical Significance
 
@@ -62,7 +62,7 @@ Logwood was used as a dye by the Maya civilization long before European contact.
 
 Spanish conquistadors encountered its use in the Yucatán in the early 16th century and began exporting it to Europe.
 
-The dye quickly became highly valued for producing blacks, purples, and blues in the European textile industry.
+The dye quickly became highly valued for producing blacks, purples, and blues in the European [[staycare-fungal-treatment-of-textile-industry-wastewater]].
 
 Conflicts between Spanish, British, and French interests over logwood harvesting rights in Central America were frequent from the 17th to 19th centuries.
 

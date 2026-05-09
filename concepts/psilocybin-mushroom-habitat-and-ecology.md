@@ -1,9 +1,10 @@
 ---
-title: Psilocybin Mushroom Habitat and Ecology
+title: emcdda-psilocybin-mushroom-dose-and-effects Habitat and Ecology
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 tags: [ecology, habitat, mushroom-cultivation, psilocybin]
 ---
@@ -18,13 +19,13 @@ All psilocybin mushrooms are saprophytes -- they grow on dead plant material. Pa
 
 Support tall, thin, small, conic-capped Psilocybes such as P. strictipes, P. liniformans, P. semilanceata, P. mexicana, and P. samuiensis. The associated grasses include fescues, bent grasses, canary grasses, perennial ryes, sedges, and duneland grasses. Grasslands grazed by sheep, horses, cattle, yaks, water buffalo, or bison tend to be most productive. Borders along forestlands are naturally cooler, often the best picking locations, and have the longest fruitings during drier weather.
 
-Many grassland psilocybin species also form sclerotia (hardened nutlike structures) in culture -- a protective mechanism for surviving recurring fires and droughts. Species known to produce sclerotia: P. mexicana, P. semilanceata, P. tampanensis, and Conocybe cyanopus. Sclerotia can persist underground for months or years, fruiting when conditions become favorable. P. tampanensis sclerotia ("philosopher's stones") have become well-known in cultivation.
+Many grassland psilocybin species also form sclerotia (hardened nutlike structures) in culture -- a protective mechanism for surviving recurring fires and droughts. Species known to produce sclerotia: P. mexicana, P. semilanceata, P. tampanensis, and [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]]. Sclerotia can persist underground for months or years, fruiting when conditions become favorable. P. tampanensis sclerotia ("philosopher's stones") have become well-known in cultivation.
 
 In long-established treeless pastures, the likelihood of encountering a deadly poisonous mushroom resembling a Psilocybe is fairly remote. However, new pastures created by cutting back a forest complicate the general rules about habitats and mushrooms. Habitats in transition will phase in diverse mushroom populations, and habitat as a target indicator is far more useful in those environments that have achieved ecological autonomy and stability than those that are in transition.
 
 ### 2. Dung Deposits
 
-Dung is a great supporter of mushrooms. Since dung deposits are usually in grasslands, grass-loving Psilocybes can appear in the same geographical niche. Dung deposits are short-lived habitats where mushrooms flourish in days. The most prominent dung-exploiting species are P. cubensis, P. coprophila, Panaeolus cyanescens, and Panaeolus subbalteatus. P. angustispora favors marmot or elk dung in the Cascade mountains.
+Dung is a great supporter of mushrooms. Since dung deposits are usually in grasslands, grass-loving Psilocybes can appear in the same geographical niche. Dung deposits are short-lived habitats where mushrooms flourish in days. The most prominent dung-exploiting species are P. cubensis, P. coprophila, [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]], and [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]. P. angustispora favors marmot or elk dung in the Cascade mountains.
 
 Psilocybe cubensis is the quintessential dung species, found on the dung of cattle, horses, and buffalo throughout the subtropics. Panaeolus cyanescens is even more potent and is widespread in tropical and subtropical pastures worldwide. Dung habitats are particularly productive during the rainy season when moisture levels are high.
 
@@ -90,17 +91,17 @@ All psilocybin mushrooms are saprophytic, meaning they obtain nutrients by decom
 
 ## Conservation Concerns
 
-Several psilocybin mushroom species face conservation threats despite their ecological success in anthropogenic habitats. P. azurescens, one of the most potent species known, has an extremely limited natural range restricted to the coastal dunes of Oregon and the Columbia River estuary in the Pacific Northwest. Coastal development, erosion control projects, and habitat disturbance threaten these populations. P. tampanensis is known from only two collections in Florida and is considered critically rare in the wild, though it is maintained in cultivation. Over-harvesting from popular public gathering sites such as parks and university campuses has depleted local populations of P. cyanescens and P. stuntzii. The legal status of psilocybin mushrooms in most countries complicates conservation efforts, as researchers cannot obtain collecting permits for scheduled substances. Climate change may also threaten species with narrow temperature or moisture requirements, particularly highland tropical species that depend on specific elevational temperature gradients.
+Several psilocybin mushroom species face conservation threats despite their ecological success in anthropogenic habitats. P. azurescens, one of the most potent species known, has an extremely limited natural range restricted to the coastal dunes of Oregon and the Columbia River estuary in the Pacific Northwest. Coastal development, [[permplant-willows-salix-erosion-control-fodder]] projects, and habitat disturbance threaten these populations. P. tampanensis is known from only two collections in Florida and is considered critically rare in the wild, though it is maintained in cultivation. Over-harvesting from popular public gathering sites such as parks and university campuses has depleted local populations of P. cyanescens and P. stuntzii. The legal status of psilocybin mushrooms in most countries complicates conservation efforts, as researchers cannot obtain collecting permits for scheduled substances. Climate change may also threaten species with narrow temperature or moisture requirements, particularly highland tropical species that depend on specific elevational temperature gradients.
 
 ## Sclerotia Formation and Ecological Survival Strategies
 
-Several psilocybin species produce sclerotia, hardened masses of dense mycelium that serve as survival structures during periods of environmental stress. Sclerotia formation is most commonly observed in species from arid or semi-arid grassland habitats where seasonal drought and fire are regular occurrences. P. mexicana and P. tampanensis are the best-known sclerotium-producing species. Sclerotia can survive underground for months or years without moisture, remaining dormant until favorable conditions return. They contain both nutrient reserves and viable mycelial tissue capable of regrowing when rehydrated. In the context of [[fungal-interactions-soil-fauna]] that maintain ecosystem function. In grassland ecosystems, the extensive mycelial networks of terricolous Psilocybe species may contribute to soil aggregation and water retention, improving conditions for plant growth in the same habitats where the mushrooms fruit.
+Several psilocybin species produce sclerotia, hardened masses of dense mycelium that serve as survival structures during periods of environmental stress. Sclerotia formation is most commonly observed in species from arid or semi-arid grassland habitats where seasonal drought and fire are regular occurrences. P. mexicana and P. tampanensis are the best-known sclerotium-producing species. Sclerotia can survive underground for months or years without moisture, remaining dormant until favorable conditions return. They contain both nutrient reserves and viable mycelial tissue capable of regrowing when rehydrated. In the context of fungal-interactions-soil-fauna that maintain ecosystem function. In grassland ecosystems, the extensive [[fungal-mycelial-networks-nutrient-translocation]] of terricolous Psilocybe species may contribute to soil aggregation and water retention, improving conditions for plant growth in the same habitats where the mushrooms fruit.
 
 - [[psilocybin-mushroom-habitats-ecology]]
 - [[microfungal-biodiversity-ecology-wood-debris-sampling]]
-- [[psilocybin-mushroom-identification-field-guide]]
-- [[fungal-succession-patterns]]
+- psilocybin-mushroom-identification-field-guide
+- fungal-succession-patterns
 - [[psilocybe-weilii-species-profile]]
-- [[rare-endangered-fungi-conservation]]
+- rare-endangered-fungi-conservation
 - [[mushroom-spore-catapult-mechanism]]
 - [[psilocybin-mushroom-taxonomy]]

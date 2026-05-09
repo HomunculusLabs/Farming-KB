@@ -21,9 +21,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - ElSohly MA et al. (2016). "Changes in Cannabis Potency Over the Last 2 Decades (1995–2014)." Drug and Alcohol Dependence, 171, 142-145.
+  - ElSohly MA et al. (2016). "Changes in green-cannabis-potency-maximizing Over the Last 2 Decades (1995–2014)." Drug and Alcohol Dependence, 171, 142-145.
   - Raber JC et al. (2015). "Cannabis Potency and Composition of Pain Patient Medications." Journal of Psychoactive Drugs, 47(4), 288-297.
-  - Casajuana C et al. (2022). "The medical use of cannabis for chronic pain: A review." Journal of Cannabis Research, 4(1), 35.
+  - Casajuana C et al. (2022). "The medical use of cannabis for [[cannabis-chronic-pain-management]]: A review." Journal of Cannabis Research, 4(1), 35.
   - https://www.leafly.com/strains/bubba-kush
   - https://www.allbud.com/marijuana-strains/indica/bubba-kush
 ---
@@ -32,7 +32,7 @@ sources:
 
 ## Overview
 
-**Bubba Kush** is a heavy indica-dominant cannabis strain renowned for profoundly relaxing,
+**Bubba Kush** is a heavy indica-dominant [[blesching-cannabis-strain-selection-receptor-targeting]] renowned for profoundly relaxing,
 sedative effects that have made it a staple among medical patients and recreational users
 seeking deep physical relaxation and sleep support. Originating in late 1990s California,
 it descends from an OG Kush cross with an unnamed Northern Lights phenotype, combining OG
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

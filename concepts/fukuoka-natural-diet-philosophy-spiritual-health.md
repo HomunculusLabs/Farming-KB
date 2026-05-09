@@ -1,5 +1,5 @@
 ---
-title: Fukuoka Natural Diet Philosophy and Spiritual Health
+title: masanobu-fukuoka-natural-farming-philosophy Diet Philosophy and Spiritual Health
 created: 2026-04-28
 tags:
   - food
@@ -20,7 +20,7 @@ type: concept
 
 ## Overview
 
-In the final chapters of The Natural Way of Farming, Masanobu Fukuoka extended his philosophy beyond agriculture into the realm of human diet and health. He argued that natural farming, natural diet, and natural healing are inseparable parts of one whole. The food one eats, the way it is grown, and the spiritual condition of the person who eats it form a unified system. Fukuoka's dietary philosophy rejected both the modern industrial diet and rigid dietary prescriptions, advocating instead for a return to eating rooted in gratitude, locality, and spiritual clarity.
+In the final chapters of The Natural Way of Farming, Masanobu Fukuoka extended his philosophy beyond agriculture into the realm of human diet and health. He argued that [[comparison-natural-farming-vs-permaculture]], natural diet, and natural healing are inseparable parts of one whole. The food one eats, the way it is grown, and the spiritual condition of the person who eats it form a unified system. Fukuoka's dietary philosophy rejected both the modern industrial diet and rigid dietary prescriptions, advocating instead for a return to eating rooted in gratitude, locality, and spiritual clarity.
 
 ## The Trinity of Natural Living
 
@@ -37,7 +37,7 @@ This creates a chicken and egg problem that Fukuoka resolved through the concept
 Fukuoka surveyed the landscape of competing dietary philosophies and found them all fundamentally flawed:
 
 - **Raw food advocates** claim man should eat only uncooked food, while physicians warn that raw diets without full knowledge are dangerous.
-- **Brown rice proponents** claim its merits while scientists proclaim the benefits of white rice.
+- **[[cho-brown-rice-vinegar-preparation]] proponents** claim its merits while scientists proclaim the benefits of white rice.
 - **Cooking enthusiasts** argue that cooking enriches the human diet, while opponents say it creates sick people.
 - **Water debates**: some claim fresh water is beneficial, others harmful.
 - **Salt controversies**: some acclaim salt as invaluable while others attribute a range of diseases to excessive intake.
@@ -60,14 +60,14 @@ Fukuoka proposed a provocative thesis: illness begins when man moves away from n
 
 However, he distinguished between true healing and superficial dietary fixes:
 
-- **Natural food without a natural body is insufficient**: Even if urban dwellers succeed in obtaining natural food, without a natural body and spirit prepared to receive such food, merely consuming it does not constitute a natural diet.
-- **Farmers today are not producing natural foods**: The materials for a natural diet do not exist in the modern food system.
+- **Natural food without a [[fukuoka-natural-body-and-health]] is insufficient**: Even if urban dwellers succeed in obtaining natural food, without a natural body and spirit prepared to receive such food, merely consuming it does not constitute a natural diet.
+- **Farmers today are not producing [[fukuoka-natural-foods-movement-america]]**: The materials for a natural diet do not exist in the modern food system.
 - **Complex natural diets defeat their purpose**: The very complexity of eating a natural diet in an urban environment would drive people further from nature rather than closer to it.
 - **There is no universal standardized natural diet**: To push upon people living in different environments and of different races and temperaments a rigid, standardized natural diet is an impossibility.
 
 ## Beyond Yin and Yang
 
-Fukuoka engaged critically with macrobiotic dietary theory, which classifies foods as yin or yang and seeks balance between them. While acknowledging that yin yang classification can be useful as a practical guide, he rejected it as a final truth:
+Fukuoka engaged critically with macrobiotic dietary theory, which classifies foods as yin or yang and seeks balance between them. While acknowledging that [[fukuoka-textdoc-food-mandala-yin-yang-seasonal-natural-diet]] classification can be useful as a practical guide, he rejected it as a final truth:
 
 Man is like a blind man without any idea of where he is headed. He has had no choice but to take science's cane of knowledge and tap out the road at his feet, relying on the principle of yin and yang to set the direction of his travels. Whatever direction he has taken, he has thought with his head and eaten with his mouth. What I wish to say is that he must stop eating with his head and clear his mind and heart.
 
@@ -97,7 +97,9 @@ The act of eating becomes a form of communion with the divine. Chewing well, eat
 
 Fukuoka distilled his dietary philosophy into a simple prescription: eat cooked and salted food, consume all things in moderation, gather foods of the seasons that grow close at hand. What one must then do is devote oneself fully to the principles of holism, the inseparability of the body from the land, and a simple local diet. People must realize that a diet of surfeit which relies on foods from far-off lands leads the world astray and invites human ills.
 
-## Related Concepts
+## Related
+
+- [[natural-diet-philosophy]] Concepts
 
 - [[fukuoka-natural-body-and-health]]
 - [[do-nothing-farming]]

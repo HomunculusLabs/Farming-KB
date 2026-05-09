@@ -10,16 +10,16 @@ updated: 2026-04-26
 # Multi-Crop Planting and Intercropping Patterns
 
 Multi-crop [[john-jeavons]] describes
-this as one of the most sophisticated forms of companion planting, combining
+this as one of the most sophisticated forms of [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]], combining
 heavy feeders, heavy givers, and light feeders in a single bed to create a
 self-sustaining nutritional cycle above and below ground.
 
 ## The Classic Three-Sister Pattern
 
-The canonical example of multi-crop planting in the GROW BIOINTENSIVE method
+The canonical example of multi-crop planting in the [[jeavons-grow-biointensive-method-overview]] method
 combines corn (a heavy feeder), bush beans (a heavy giver), and beets (a light
 feeder) in the same bed. This pattern follows the same nutritional logic as
-crop rotation over time, but compressed into space: the beans fix nitrogen that
+[[comparison-crop-rotation-vs-cover-cropping]] over time, but compressed into space: the beans [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] that
 feeds the corn, the beets are light feeders that rest the soil, and all three
 crops share the same growing area.
 
@@ -37,7 +37,7 @@ sections within each bed need not be equal thirds.
 
 Adjustments must be made when following one heavy feeder with another in the
 same bed. Extra fertilizer and compost should be added to compensate for the
-nutrient demand. Because of space limitations, some plants that are not
+[[vegetable-nutrient-demand-levels]]. Because of space limitations, some plants that are not
 companions may need to be grown together; in such cases, lower yields may need
 to be accepted.
 
@@ -49,7 +49,7 @@ space" achieves the same nutritional cycling simultaneously. Both approaches
 can be combined for even greater efficiency.
 
 It is easier to companion plant over time rather than in space, especially for
-beginning gardeners. An easy place to start is with salad vegetables, since
+beginning gardeners. An easy place to start is with [[hamilton-salad-vegetables-organic]], since
 these are generally companions of each other. The complexity can be increased
 gradually as the gardener gains experience.
 

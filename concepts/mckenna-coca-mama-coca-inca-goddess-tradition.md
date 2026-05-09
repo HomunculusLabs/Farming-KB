@@ -1,5 +1,5 @@
 ---
-title: "Coca and the Mama Coca Goddess Tradition of the Inca"
+title: "Coca and the mckenna coca mama coca inca goddess tradition Goddess Tradition of the Inca"
 created: 2026-04-28
 tags: [coca, inca, sacred-plants, ethnobotany, McKenna, food-of-the-gods, indigenous-traditions]
 date: 2026-04-28
@@ -36,7 +36,7 @@ new vice of the wealthy and depraved.
 The trajectory from medical miracle to social menace followed the same pattern McKenna
 identifies with every purified plant alkaloid. The medical benefit was real — local
 anesthesia was a genuine advance — but the addictive potential of the concentrated compound
-eventually overshadowed the therapeutic application. The dominator culture, unable to
+eventually overshadowed the therapeutic application. The [[mckenna-dominator-culture-and-suppression-of-ecstasy]], unable to
 distinguish between the sacred whole plant and its purified essence, moved to suppress
 both.
 
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

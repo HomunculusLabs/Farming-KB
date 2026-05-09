@@ -1,5 +1,5 @@
 ---
-title: Juncao Technology for Mushroom Cultivation
+title: Juncao Technology for accessible-mushroom-cultivation-for-disabilities
 tags: [juncao, mushroom, substrate, grass, cultivation, china, pleurotus, alternative-substrate, sustainable]
 date: 2026-04-28
 updated: 2026-04-28
@@ -11,7 +11,7 @@ type: concept
 
 # Juncao Technology for Mushroom Cultivation
 
-Juncao (菌草) is a Chinese term where Jun (菌) means fungi and Cao (草) means grass. Juncao technology represents a comprehensive approach to cultivating edible and medicinal fungi using herbaceous plants as substrate materials, replacing traditional substrates such as sawdust, wheat bran, and rice bran.
+Juncao (菌草) is a Chinese term where Jun (菌) means fungi and Cao (草) means grass. Juncao technology represents a comprehensive approach to cultivating edible and medicinal fungi using herbaceous plants as [[growing-gourmet-substrate-materials-wood-types]], replacing traditional substrates such as sawdust, wheat bran, and rice bran.
 
 ## Origins and Development
 
@@ -77,7 +77,7 @@ From 1983 to 2003, 37 Juncao species were selected as suitable for mushroom cult
 - Themeda gigantea
 - Paspalum wettsteinii
 - Paspalum dilatatum
-- Vetiveria zizanioides (vetiver grass)
+- Vetiveria zizanioides ([[comparison-vetiver-grass-vs-bamboo-for-erosion-control]])
 - Sorghum propinquum
 - Sorghum sudanense
 - Cymbopogon citratus (lemongrass)
@@ -113,11 +113,11 @@ Multiple Pleurotus species thrive on Juncao, including P. ostreatus, P. sapidus,
 
 - [[agaricus-blazei]]
 - [[ganoderma-lucidum]] and [[hericium-erinaceus]] (lion's mane)
-- [[auricularia-auricula]] and Auricularia cornea (wood ear)
-- [[pholiota-nameko]] and [[coprinus-comatus-detailed]] (shaggy mane)
-- [[armillaria-mellea-entity]] and [[coriolus-versicolor]] (turkey tail)
+- [[auricularia-auricula]] and Auricularia cornea ([[growing-gourmet-wood-ear-auricularia-cultivation]])
+- [[pholiota-nameko]] and [[coprinus-comatus]] ([[growing-gourmet-shaggy-mane-coprinus-cultivation]])
+- [[armillaria-mellea-entity]] and [[coriolus-versicolor]] ([[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]])
 - [[juncao-grass-substrate-technique]]
 
 - [[mushroom-substrates]]
-- [[mushroom-spawn-production]]
+- mushroom-spawn-production
 - [[mushroom-cultivation-bulk-substrates]]

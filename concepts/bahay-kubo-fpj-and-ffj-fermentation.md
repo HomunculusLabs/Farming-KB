@@ -48,7 +48,7 @@ Kangkong is a vegetable that grows extremely fast in freshwater or highly moist 
 - Use axillary buds of kangkong as primary material
 - Substitute fast-growing plants: kelp, mugwort, cucumber, squash, watermelon tips
 - Ferment using the general formula
-- Spray and/or water plants to accelerate vegetative growth
+- Spray and/or water plants to accelerate [[cannabis-vegetative-growth-stage]]
 - Natural farmers observe that fast-growing plants carry concentrated growth hormones
 
 ### Banana-Squash-Papaya (BSP) FPJ — Flowering and Fruiting
@@ -58,8 +58,8 @@ A major fermented extract for inducing flowering and fruiting, especially in veg
 - Banana provides high potassium levels
 - Papaya and squash supply beta-carotene
 - In the Philippines, conventional mango growers use potassium nitrate for flowering induction; BSP is the natural alternative
-- Local organic farmers have also experimented successfully with seaweed extract for mango flowering
-- Temperate climate substitutes: comfrey + squash + carrot
+- Local organic farmers have also experimented successfully with [[comparison-seaweed-extract-vs-fish-hydrolysate]] for mango flowering
+- [[permaculture-designers-manual-temperate-climate-design]] substitutes: comfrey + squash + carrot
 - Select materials with high nitrogen and potassium content for this purpose
 
 ### Seaweed Extract
@@ -94,7 +94,7 @@ The general rule: higher protein materials produce higher nitrogen when composte
 
 ### Ginger-Garlic Extract — Natural Antibiotic
 
-Based on the Korean Natural Farming recipe that originally included Chinese herbs (Angelica acutiloba, Glycurrhiza uralensis, Cinnamomum loureirii). These herbs share the property of aiding digestion.
+Based on the Korean [[comparison-natural-farming-vs-permaculture]] recipe that originally included Chinese herbs (Angelica acutiloba, Glycurrhiza uralensis, Cinnamomum loureirii). These herbs share the property of aiding digestion.
 
 1. Chop up equal amounts of ginger and garlic
 2. Soak in beer or wine overnight (12 hours)
@@ -114,11 +114,11 @@ Based on Yasushi Inoue's Nutrioperiodism theory (1930s): plants need specific nu
 3. Allow to sit for a couple of weeks until eggshells are broken down
 4. Dilute 1:20 and spray/water during the changeover period
 
-Soybean stem ash is considered excellent for this purpose. Calcium phosphate is described as good for plants' "morning sickness" — the transitional stage before flowering/fruiting.
+Soybean stem ash is considered excellent for this purpose. Calcium phosphate is described as good for plants' "[[cho-morning-sickness-and-plant-cross-over-period]]" — the transitional stage before flowering/fruiting.
 
 ## Combining Bionutrients with BIM
 
-In practice, beneficial indigenous microorganisms and bionutrients are mixed together for application:
+In practice, beneficial [[beneficial-indigenous-microorganisms-bim]] and bionutrients are mixed together for application:
 
 - BIM provides the microbial workforce
 - Bionutrients provide the food/nutrition for those microbes

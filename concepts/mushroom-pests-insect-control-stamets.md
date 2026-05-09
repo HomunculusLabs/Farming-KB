@@ -1,21 +1,13 @@
 ---
-title: Mushroom Pests and Insect Control
+title: Mushroom Pests and mushroom pests insect control stamets
 created: 2026-04-26
-tags: [[mycology, mushroom-cultivation, pests, integrated-pest-management, stamets]
+tags: [mycology, mushroom-cultivation, pests, integrated-pest-management, stamets]
 date: 2026-04-25
 updated: 2026-04-25
-sources: [raw/papers/the-mushroom-cultivator-stamets.md]
+sources: sources: []
 type: concept
 ---
-
-# Mushroom Pests and Insect Control
-
-Chapter XIV of The Mushroom Cultivator details the major pests encountered
-in mushroom culture. Mushroom flies and midges are present wherever fungi
-are found in nature, attracted by the odor of decomposing matter and
-growing mycelium. Their larvae cause the most extensive damage, either by
-feeding on mycelial cells or tunneling through fruitbodies. A commercial
-mushroom farm is always under siege by these pests. For [[cultivator-compost-preparation-phase-methods]]
+# Mushroom Pests and Insect Control Chapter XIV of The Mushroom Cultivator details the major pests encountered in mushroom culture. Mushroom flies and midges are present wherever fungi are found in nature, attracted by the odor of decomposing matter and growing mycelium. Their larvae cause the most extensive damage, either by feeding on mycelial cells or tunneling through fruitbodies. A commercial mushroom farm is always under siege by these pests. For [[cultivator-compost-preparation-phase-methods]]
     for proper pasteurization protocols.
 2.  **Airtight rooms** — Phase II, spawning, spawn running, and cropping
     rooms must be sealed. Spawn running rooms should be the most secure,
@@ -58,9 +50,9 @@ Populations build to a peak in September-October. Females lay 150-170
 eggs at a time, attracted to the smell of newly pasteurized compost.
 
 ### Damage
--   Larvae feed on running mycelium and compost, reducing it to a foul
+-   Larvae feed on [[mycelium-running-mycelium-natures-internet-fungal-network-theory]] and compost, reducing it to a foul
     smelling, soggy mass.
--   Migration into casing layer coincides with first pin formation.
+-   Migration into [[gourmet-medicinal-mushroom-casing-layer-techniques]] coincides with first pin formation.
 -   Symptoms: dead pinheads, loose mushroom connections, brown/black
     spots, "salt shaker pins" perforated by larval tunnels, browning at
     stem cut.
@@ -87,7 +79,7 @@ eggs at a time, attracted to the smell of newly pasteurized compost.
 | Pupa     |    8    |   28    |
 
 Females lay up to 50 eggs near mycelium. Larvae tunnel into mushrooms
-through the stem base, causing secondary bacterial infections. Females
+through the stem base, causing secondary [[cannabis-for-bacterial-infections-and-mrsa]]. Females
 will **not lay eggs in total darkness** — a key control method.
 
 ## Cecid Fly (Gall Midge)

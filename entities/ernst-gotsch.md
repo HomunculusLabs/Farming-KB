@@ -16,7 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Götsch E. (1996). "Breakthrough in Agriculture: Syntropic Farming." Retired from publication; lectures and workshop materials distributed through Project Life Institute.
-  - Wilmsen C., Fikret P. (2017). "Syntropic Agriculture: A Dialogue with Ernst Götsch." Agroecology and Sustainable Food Systems, 41(8), 808-822.
+  - Wilmsen C., Fikret P. (2017). "[[query-what-is-syntropic-agriculture-and-how-do-i-start]]: A Dialogue with Ernst Götsch." Agroecology and Sustainable Food Systems, 41(8), 808-822.
   - Via Campesina (2019). "Ernst Götsch and Syntropic Farming in Brazil." La Via Campesina Documentation Series.
   - Tavares M.S. (2015). "Life in Syntropy: A Film About Ernst Götsch." Documentary film, 45 min.
   - Fonseca M.L. (2020). "Syntropic Agriculture as a Regenerative Strategy for Degraded Pastures in the Brazilian Atlantic Forest." Agroforestry Systems, 94(4), 1485-1497.
@@ -26,7 +26,7 @@ sources:
 
 ## Overview
 
-**Ernst Götsch** (born 1948, Raperswil, Switzerland) is a Swiss-born farmer, researcher, and agricultural pioneer based in Bahia, Brazil. He is the creator of **syntropic agriculture** (agricultura sintrópica), a farming system based on natural succession dynamics, stratification, and the intensive management of biomass accumulation to regenerate degraded land while producing food and timber.
+**Ernst Götsch** (born 1948, Raperswil, Switzerland) is a Swiss-born farmer, researcher, and agricultural pioneer based in Bahia, Brazil. He is the creator of **[[syntropic-agriculture]]** (agricultura sintrópica), a farming system based on natural succession dynamics, stratification, and the intensive management of biomass accumulation to regenerate degraded land while producing food and timber.
 
 Götsch moved to Brazil in the 1970s and spent decades restoring degraded cattle pasture and Atlantic Forest fragments on his farm, **Fazenda Olhos d'Água**, in Piraí do Norte, Bahia. Through systematic observation of forest regeneration patterns and the deliberate orchestration of plant succession, he transformed exhausted, eroded land into productive, biodiverse agroforestry systems.
 
@@ -34,7 +34,7 @@ His work is distinct from conventional permaculture in its emphasis on **continu
 
 ## Biography
 
-Götsch was born in 1948 in Rapperswil, Switzerland. He studied agriculture and forestry in Switzerland before traveling to Brazil in the early 1970s, initially working on conventional agricultural projects. His observations of land degradation caused by industrial farming methods led him to question conventional approaches and seek alternatives based on natural ecosystem processes.
+Götsch was born in 1948 in Rapperswil, Switzerland. He studied agriculture and forestry in Switzerland before traveling to Brazil in the early 1970s, initially working on conventional agricultural projects. His observations of land degradation caused by industrial [[natural-farming-methods-comparison]] led him to question conventional approaches and seek alternatives based on natural [[fungal-ecosystem-processes-overview]].
 
 In the 1980s, he acquired Fazenda Olhos d'Água, a 120-hectare property in southern Bahia that had been degraded by decades of cattle grazing and fire. Over the following decades, he systematically restored the land using his succession-based approach, creating dense, stratified agroforestry systems that now produce cacao, coffee, tropical fruits, timber, and dozens of other crops while supporting regenerated forest canopy.
 
@@ -53,7 +53,7 @@ Syntropic agriculture is grounded in Götsch's observation that natural ecosyste
 - **Succession orchestration:** Plantings are arranged in temporal succession, with short-cycle species (lettuce, radishes, beans) establishing first, followed by medium-cycle species (papaya, banana, cacao), and finally long-cycle canopy species (timber trees, climax forest species). Each successional stage prepares conditions for the next.
 - **Stratification:** Plantings are arranged in vertical strata (ground cover, understory, mid-canopy, emergent canopy) to maximize light capture and space utilization, mimicking natural forest structure.
 - **Placenta pruning:** Selective pruning of fast-growing species deposits organic matter directly onto the soil surface. This biomass decomposes rapidly in the tropical heat, creating a self-fertilizing system that eliminates the need for external inputs. Götsch refers to this as "placenta" because the pruned material nourishes the next generation of plants.
-- **Consortium planting:** Multiple species are planted together in dense configurations, with each species performing specific ecosystem functions (nitrogen fixation, pest deterrence, biomass production, light regulation, microclimate creation).
+- **Consortium planting:** Multiple species are planted together in dense configurations, with each species performing specific ecosystem functions ([[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], pest deterrence, [[dighton-fungal-biomass-production-aquatic-ecosystems]], light regulation, [[mollison-designers-microclimate-creation-frost-protection]]).
 
 The system produces increasing yields over time as the soil improves and the canopy closes, reversing the typical decline in productivity seen in conventional agriculture.
 
@@ -98,11 +98,11 @@ Adaptation to temperate climates is an active area of experimentation. In cooler
 
 ## Influence and Legacy
 
-Götsch's influence on the regenerative agriculture movement has grown substantially since the 2010s:
+Götsch's influence on regenerative agriculture ture movement has grown substantially since the 2010s:
 
 - His methods have been adopted by the Brazilian government's low-carbon agriculture program (ABC Plan) as a recommended practice for restoring degraded pasture.
 - Syntropic agriculture practitioners now operate across Brazil, with training centers in Bahia, Minas Gerais, São Paulo, and Paraná.
-- The approach has influenced the broader permaculture and agroforestry movements, providing a more precise, succession-based methodology that complements permaculture design principles.
+- The approach has influenced the broader permaculture and agroforestry movements, providing a more precise, succession-based methodology that comp [[permaculture-design-principles-overview]] principles.
 - International organizations including the World Bank and FAO have referenced syntropic agriculture as a promising climate-smart agriculture strategy.
 
 Critics note that syntropic agriculture requires **intensive labor and management skill**, particularly in the first 3–5 years as the system establishes.
@@ -111,7 +111,7 @@ Despite these limitations, the demonstrated capacity to restore degraded land wh
 
 ## See Also
 
-- [[permaculture]] — The broader design framework within which syntropic agriculture operates
+- permaculture — The broader design framework within which syntropic agriculture operates
 - [[agroforestry]] — The practice of integrating trees with crops, which syntropic agriculture intensifies
-- [[geoff-lawton]] — Permaculture designer who has incorporated syntropic principles into food forest design
+- [[geoff-lawton]] — Permaculture designer who has incorporated syntropic prin [[food-forest-design]]-forest design
 - [[ben-falk]] — Vermont-based farmer applying succession-based design in temperate climates

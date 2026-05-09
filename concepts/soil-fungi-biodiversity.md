@@ -1,7 +1,8 @@
 ---
 created: 2026-04-12
 source: biodiversity-of-fungi (Hyde et al. Chs. 4-5, Bills/Christensen/Widden)
-sources: []
+sources:
+  sources: []
 tags:
 - soil-fungi
 - biodiversity
@@ -14,10 +15,9 @@ type: concept
 updated: 2026-04-12
 ---
 
-
 # Soil Fungi Biodiversity
 
-Soil is arguably the most diverse habitat for fungi on Earth, supporting an estimated 1.5 million or more fungal species. Soil fungi include decomposers, mycorrhizal symbionts, plant pathogens, predators, and parasites, forming the backbone of terrestrial nutrient cycling.
+Soil is arguably the most diverse habitat for fungi on Earth, supporting an estimated 1.5 million or more fungal species. Soil fungi include decomposers, mycorrhizal symbionts, plant pathogens, predators, and parasites, forming the backbone of terrestrial [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 ## Overview
 
@@ -32,7 +32,7 @@ The soil fungal community is one of the most complex biological systems known. A
 - Key genera: *Trichoderma*, *Penicillium*, *Aspergillus*, *Fusarium*, *Gliocladium*, *Cladosporium*, *Mucor*, *Rhizopus*
 
 ### Mycorrhizal Fungi (see [[mycorrhizal-types]])
-- **Arbuscular mycorrhizal (AM) fungi**: Glomeromycota; associated with ~80% of plant species; form arbuscules in root cortical cells; major component of soil fungal biomass
+- **[[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] (AM) fungi**: Glomeromycota; associated with ~80% of plant species; form arbuscules in root cortical cells; major component of soil fungal biomass
 - **Ectomycorrhizal (ECM) fungi**: Primarily Basidiomycetes; associate with trees (Pinaceae, Fagaceae, Betulaceae); form mantle and Hartig net around roots
 - Soil hyphal networks extend root foraging zone by 10-100x
 
@@ -40,7 +40,7 @@ The soil fungal community is one of the most complex biological systems known. A
 - Cause root rots, wilts, damping-off, and other diseases
 - Key genera: *Fusarium*, *Verticillium*, *Rhizoctonia*, *Pythium* (Oomycete), *Phytophthora* (Oomycete)
 - Survive in soil as resting structures (chlamydospores, sclerotia, oospores)
-- Often managed through crop rotation and biological control
+- Often managed through crop rotation and [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]
 
 ### Predaceous Soil Fungi
 - Trap and digest nematodes, amoebae, and other microfauna
@@ -57,7 +57,7 @@ The soil fungal community is one of the most complex biological systems known. A
 ### Yeasts
 - Common in soil, especially in association with plant surfaces and exudates
 - Key genera: *Cryptococcus*, *Rhodotorula*, *Sporobolomyces*, *Candida*
-- Often detected by dilution plating
+- Often detected by [[particle-filtration-dilution-plating-microfungal-isolation]]
 
 ## Vertical Distribution
 
@@ -72,7 +72,7 @@ Soil fungi show distinct vertical stratification:
 
 ### Soil Properties
 - **Organic matter**: Primary driver of fungal diversity; more organic matter = more fungi
-- **pH**: Strongly affects community composition; most fungi prefer slightly acidic (pH 5-6)
+- **pH**: Strongly affects [[core-endorhiza-bacterial-community-composition-cannabis]]; most fungi prefer slightly acidic (pH 5-6)
 - **Moisture**: Fungal activity peaks at field capacity; both drought and waterlogging reduce diversity
 - **Texture**: Clay soils retain more water and organic matter; sandy soils have lower fungal biomass
 - **Cation exchange capacity (CEC)**: Higher CEC supports more diverse fungal communities
@@ -125,7 +125,7 @@ Soil fungi show distinct vertical stratification:
 
 ### Soil Structure
 - Mycelium binds soil particles into aggregates
-- AM fungi produce glomalin (see [[glomalin]])
+- AM fungi produce glomalin (see [[glomalin-and-soil-carbon]])
 - Hyphae stabilize macroaggregates (>250 um)
 - Improves water infiltration and retention
 
@@ -137,53 +137,14 @@ Soil fungi show distinct vertical stratification:
 
 ### Food Web Support
 - Fungal biomass is high-quality food for fungivorous nematodes, microarthropods
-- See [[fungi-soil-food-webs]]
-- Fungal channel energy flow is more efficient than bacterial channel
-
-## Methods for Studying Soil Fungi
-
-### Traditional Culturing
-- Soil dilution plating on selective media (DRBC, GAN, PDA + antibiotics)
-- Soil washing techniques
-- Warcup soil plate method
-- Baiting with buried substrates
-
-### Molecular Methods
-- DNA extraction from soil (MoBio PowerSoil, CTAB)
-- ITS metabarcoding (Illumina MiSeq most common)
-- Metagenomics for functional gene analysis
-- Quantitative PCR for specific groups (AM fungi, pathogens)
-
-### Direct Observation
-- Soil thin sections for hyphal length and biomass
-- Ergosterol extraction as fungal biomass proxy
-- Phospholipid fatty acid (PLFA) analysis (18:2omega6,9 = fungal marker)
-- Fluorescence microscopy with fungal-specific stains
-
-## Conservation
-
-Soil fungal diversity is threatened by:
-- Agricultural intensification (monoculture, tillage, fungicides)
-- Deforestation and habitat destruction
-- Soil compaction and erosion
-- Climate change (altered temperature and moisture regimes)
-- Pollution (heavy metals, pesticides)
-
-Conservation priorities:
-- Preserve undisturbed habitats (old-growth forests, native grasslands)
-- Promote no-till and reduced-input agriculture
-- Maintain organic matter inputs
-- Reduce fungicide use
-- Document baseline diversity before species are lost
-
 ## Related Topics
 
 - [[fungal-biodiversity-biogeography]] — Global fungal diversity
-- [[soil-food-web-nutrient-cycling]] — Soil ecosystem processes
+- [[soil-food-web-nutrient-cycling]] — Soil [[fungal-ecosystem-processes-overview]]
 - [[mycorrhizal-types]] — Mycorrhizal associations
 - [[fungal-ecology]] — Fungal ecology overview
 - [[fungi-soil-food-webs]] — Fungal roles in soil food webs
 - [[no-till-gardening-method]] — Impact of tillage on soil fungi
-- [[glomalin]] — Mycorrhizal soil glue
+- [[glomalin-and-soil-carbon]] — Mycorrhizal soil glue
 - [[fungal-sampling-methods]] — Field methods
 - [[fungal-conservation-strategies]]

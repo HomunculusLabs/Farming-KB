@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Green Philosophy and One-Grain Revolution"
+title: "Fukuoka's fukuoka sowing green philosophy one grain revolution and One-Grain Revolution"
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Masanobu Fukuoka, Sowing Seeds in the Desert (Chelsea Green, 2012)"
@@ -10,7 +10,7 @@ tags: [fukuoka]
 
 # Fukuoka's Green Philosophy and One-Grain Revolution
 
-*Fukuoka's vision for transforming human civilization through natural farming —
+*Fukuoka's vision for transforming human civilization through [[comparison-natural-farming-vs-permaculture]] —
 the green philosophy, the economic critique, and the spiritual revolution that
 underlies his plan to revegetate the earth.*
 
@@ -88,7 +88,7 @@ gravel with Fukuoka, understanding that it would be wonderful if the area turned
 green.
 
 Fukuoka compared Western and Eastern medicine to illustrate two approaches:
-Western medicine treats localized symptoms (like conventional agriculture treats
+[[fukuoka-eastern-western-medicine-healing-world-crisis]] treats localized symptoms (like conventional agriculture treats
 specific problems), while Eastern medicine seeks the overall health of the whole
 person (like natural farming seeks the health of the entire ecosystem). Both are
 moving in opposite directions.
@@ -121,7 +121,7 @@ blueprint.
 The natural farming revolution's goal was nothing less than returning the earth
 to the paradise it once was. Fukuoka's measures for countering desertification
 were exactly the same as the basic natural farming method. One could refer to it
-as a natural farming revolution whose goal is to re-create the Garden of Eden
+as a natural farming revolution whose goal is to re-create the [[allegro-garden-of-eden-and-delight]]
 where people would live together in abundance, in freedom, and in peace.
 
 ## Abandoning What We Think We Know

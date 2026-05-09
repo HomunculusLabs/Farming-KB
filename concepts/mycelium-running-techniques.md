@@ -5,7 +5,8 @@ updated: 2026-04-12
 type: concept
 tags: [mycology, techniques, spawn, inoculation, cultivation, mycorestoration]
 sources:
-  - raw/papers/mycelium-running-stamets.md
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # Mycelium Running — Techniques & Spawn Preparation
@@ -25,7 +26,7 @@ Practical cultivation methods from *Mycelium Running* by [[paul-stamets]]. Cover
 - Take a piece of internal flesh from a fresh mushroom
 - Place on sterilized agar media in a petri dish
 - Captures the exact genetic composition of the parent mushroom
-- Requires sterile technique and a clean workspace
+- Requires [[cultivator-sterile-technique-and-agar-culture]] and a clean workspace
 - Best for: replicating exceptional specimens, commercial production
 
 ### From Stem Butts
@@ -73,7 +74,7 @@ Practical cultivation methods from *Mycelium Running* by [[paul-stamets]]. Cover
 3. Seal with wax to prevent desiccation
 4. Mycelium colonizes the stump over 1-2 years
 5. Mushrooms fruit from the stump for several years
-6. Species that combat Armillaria blight: Sparassis crispa, Hypholoma capnoides, Trametes versicolor
+6. Species that combat Armillaria blight: Sparassis crispa, [[growing-gourmet-hypholoma-capnoides-cultivation]], [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]
 
 ## Mycofilter Installation
 
@@ -93,8 +94,8 @@ Layered construction for filtering water (see [[mycoremediation-techniques]]):
 | Stropharia rugoso-annulata | Wood chips, straw | 60-80°F | 2-6 months | Garden giant; loves bacteria |
 | Pleurotus ostreatus | Straw, corncobs, paper | 55-80°F | 2-4 weeks | Very aggressive; multiple flushes |
 | Lentinula edodes (Shiitake) | Hardwood logs, sawdust | 55-75°F | 6-18 months | Needs cold shock to fruit |
-| Grifola frondosa (Maitake) | Oak logs, buried wood | 55-70°F | 6-12 months | Difficult to cultivate |
-| Ganoderma lucidum (Reishi) | Hardwood, supplemented sawdust | 70-85°F | 2-4 months | Medicinal; antiviral, anticancer |
+| [[maitake-grifola-frondosa-comprehensive-profile]] (Maitake) | Oak logs, buried wood | 55-70°F | 6-12 months | Difficult to cultivate |
+| [[stamets-reishi-ganoderma-lucidum-cultivation]] (Reishi) | Hardwood, [[oyster-mushroom-supplemented-sawdust-blocks]] | 70-85°F | 2-4 months | Medicinal; antiviral, anticancer |
 | Trametes versicolor (Turkey tail) | Wood chips, logs | 60-80°F | 2-6 months | Medicinal; PSK/PSP anticancer |
 
 ## Sterile Technique Essentials
@@ -107,6 +108,8 @@ For tissue cloning and grain spawn production:
 - Monitor for contamination: green molds (Trichoderma), bacterial slime, off-colors
 
 ## See Also
+
+- [[mycelium-running-remediating-toxic-waste]]
 
 - [[garden-mushroom-growing]] for companion planting strategies
 - [[mycoremediation-techniques]] for pollution cleanup deployment

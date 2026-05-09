@@ -1,5 +1,5 @@
 ---
-title: Organic Vegetable Garden: Crop Rotation and Deep Beds
+title: Organic fukuoka-dutch-priest-vegetable-garden-spiritual-renewal: comparison-crop-rotation-vs-cover-cropping and Deep Beds
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -14,7 +14,7 @@ Updated: 2026-04-18
 
 The organic vegetable garden relies on proper soil management, systematic [[hamilton-deep-bed-system]], manure all plots every year
 - Dig manure in during fall; lime in spring just prior to sowing or planting
-- Some gross-feeding vegetables (tomatoes, zucchini, squashes, peppers) benefit from liquid kelp every two weeks during the growing season
+- Some gross-feeding vegetables (tomatoes, zucchini, squashes, peppers) benefit from liquid kelp every two weeks during the [[savory-growing-season-and-non-growing-season-management]]
 
 ## The Deep Bed System
 
@@ -25,7 +25,7 @@ The deep bed method has been practiced for centuries worldwide. Instead of long 
 - Deep, loose soil allows roots to penetrate downward, so crops can be planted closer together
 - Dramatically increased yields per square foot
 - Improved drainage in heavy soils when beds are raised
-- Improved water retention in light soils when extra organic matter is worked into the top layer
+- Improved water retention in light soils when extra [[hamilton-composting-and-organic-matter-management]] is worked into the top layer
 
 ### Soil Preparation
 1. Dig deeply, breaking up the subsoil
@@ -51,7 +51,7 @@ Keep a garden diary recording sowing, planting, and harvesting dates. Many moder
 - [[vegetable-garden-guide]]
 
 ## Source
-- Hamilton, Geoff & Nick Hamilton. "Organic Gardening." The Vegetable Garden section, pp. 132-136.
+- Hamilton, Geoff & Nick Hamilton. "[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]." The Vegetable Garden section, pp. 132-136.
 - [[gaias-garden-cover-crops-soil-building]]
 - [[cover-crops-soil-health]]
 ## Practical Considerations
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

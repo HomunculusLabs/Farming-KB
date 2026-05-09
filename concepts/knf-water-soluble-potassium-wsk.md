@@ -10,10 +10,10 @@ type: concept
 
 # Water-Soluble Potassium (WS-K)
 
-Water-Soluble Potassium (WS-K) is a Korean Natural Farming input
+Water-Soluble Potassium (WS-K) is a Korean [[comparison-natural-farming-vs-permaculture]] input
 prepared from tobacco stems. Potassium is one of the three primary
 macronutrients essential for plant growth, and its deficiency can
-significantly reduce crop yield and quality. In KNF, WS-K is extracted
+significantly reduce [[fukuoka-hotel-analogy-crop-yield-model]] and quality. In KNF, WS-K is extracted
 through a simple water-percolation method using dried tobacco stems,
 providing a natural source of this critical nutrient without
 synthetic fertilizers.
@@ -32,7 +32,7 @@ concentrations, potassium decreases the growth rate, the size of
 fruit, and the moisture content in tissues. When stomata are open,
 potassium content in guard cells is high; when closed, it is low.
 Guard cells produce ATP through photosynthesis and absorb potassium
-using this energy. Potassium accumulation creates turgor pressure
+using this energy. Potassium accumulation creates [[bloomfield-turgor-pressure-and-hyphal-invasion]]
 that opens stomata for gas exchange.
 
 Additionally, potassium promotes synthesis of carbon dioxide-fixing
@@ -99,7 +99,7 @@ Weather conditions must always be considered when applying WS-K.
 
 While potassium is essential, excess application carries risks:
 
-- Excessive potassium causes magnesium deficiency in plants.
+- Excessive potassium causes [[query-how-to-fix-magnesium-deficiency-in-cannabis]] in plants.
 - The symptoms are similar to gas disorder and appear in the middle
   part of leaves.
 - Careful attention to dilution ratios and weather conditions helps
@@ -110,7 +110,7 @@ While potassium is essential, excess application carries risks:
 The source specifies optimal conditions for both preparation and
 storage of WS-K:
 
-- Optimum temperature range: 23 to 25 degrees Celsius.
+- Optimum [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]: 23 to 25 degrees Celsius.
 - Store and prepare in a cool, shaded area with no direct sunlight.
 - These conditions maintain the biological activity and stability of
   the water-soluble potassium solution.
@@ -130,7 +130,7 @@ storage of WS-K:
 
 ## Applications
 
-- Treating potassium deficiency in crops showing chlorosis on older
+- Treating [[query-how-to-fix-potassium-deficiency-in-cannabis]] crops showing chlorosis on older
   leaves
 - Promoting starch synthesis and translocation of photosynthates
 - Enhancing meristematic tissue growth for cell division

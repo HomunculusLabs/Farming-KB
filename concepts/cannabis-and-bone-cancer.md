@@ -9,7 +9,7 @@ sources:
 ---
 # Cannabis and Bone Cancer
 
-**Source:** The Cannabis Health Index, Uwe Blesching, PhD (2017)
+**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]], Uwe Blesching, PhD (2017)
 **Updated:** 2026-04-19
 
 ## Evidence-Based Therapeutic Potential
@@ -25,11 +25,11 @@ Primary bone cancers include osteosarcoma (most common in children and young adu
 
 ## Cannabis and Bone Cancer
 
-Bone cancer patients often suffer severe pain. Opiates, while reducing pain initially, have been associated with further bone destruction, contributing to more pain over time. A 2010 Tucson, Arizona study treated animals with bone cancer using peripheral synthetic cannabinoid AM1241 (a CB2 agonist). Daily use over seven days significantly reduced both spontaneous and evoked bone cancer pain, significantly reduced bone loss, and decreased cancer-induced bone fracture incidence — all without the detrimental effects of opiates.
+Bone cancer patients often suffer severe pain. Opiates, while reducing pain initially, have been associated with further bone destruction, contributing to more pain over time. A 2010 Tucson, Arizona study treated animals with bone cancer using peripheral synthetic cannabinoid AM1241 (a CB2 agonist). Daily use over seven days significantly reduced both spontaneous and evoked bone cancer pain, significantly reduced bone loss, and decreased cancer-induced [[blesching-cannabis-bone-fracture-healing]] incidence — all without the detrimental effects of opiates.
 
 University of Minnesota researchers (2008) found that higher levels of anandamide reduced bone cancer pain while lower levels increased it, concluding that "manipulation of peripheral endocannabinoid signaling is a promising strategy for the management of bone cancer pain."
 
-A British review (2008) supported that "cannabinoid receptor ligands show great promise in the treatment of bone diseases associated with accelerated osteoclastic bone resorption, including osteoporosis, rheumatoid arthritis, and bone metastasis."
+A British review (2008) supported that "[[cannabis-cannabinoid-receptor-pharmacology]] ligands show great promise in the treatment of bone diseases associated with accelerated osteoclastic bone resorption, including osteoporosis, rheumatoid arthritis, and bone metastasis."
 
 ### Study Summary
 
@@ -55,15 +55,15 @@ Patients should follow [[cannabis-drug-interactions-and-contraindications]] with
 
 The Arizona study used CB2-stimulating synthetic cannabinoid AM1241. CBD has greater affinity for CB2 receptors than CB1. Indica strains have relatively less THC and more CBD/CBN, thus favoring CB2 signaling. For bone cancer specifically, indica-dominant strains may offer the most relevant cannabinoid profile.
 
-Strains rich in [[cannabis-terpene-profile]] of selected strains may also contribute to pain management through entourage effects, with myrcene and beta-caryophyllene being particularly relevant for their analgesic and anti-inflammatory properties.
+Strains rich in [[cannabis-terpene-profile]] of selected strains may also contribute to pain management through [[beta-caryophyllene-entourage-effects-cannabis]], with myrcene and beta-caryophyllene being particularly relevant for their analgesic and anti-inflammatory properties.
 
 ## Symptom Management in Bone Cancer
 
 Beyond the direct anti-resorptive and anti-tumor effects studied, cannabis may help manage the broader symptom burden experienced by bone cancer patients. Pain is typically the most debilitating symptom, and cannabinoid-based analgesia offers an alternative to opioids that carries lower risk of respiratory depression and physical dependence. Patients may also benefit from cannabis for:
 
 - Anxiety and depression related to diagnosis and treatment
-- Sleep disturbances caused by chronic pain
-- Nausea and appetite loss during chemotherapy
+- Sleep disturbances caused by [[cannabis-chronic-pain-management]]
+- [[cannabis-for-nausea-and-appetite-stimulation]] loss during chemotherapy
 - Muscle spasms near affected bone sites
 
 These symptom-management benefits align with the broader [[cannabis-chronic-pain-management]] evidence base.

@@ -1,11 +1,11 @@
 ---
-title: "Stock Culture Preservation Methods"
+title: "mushroom cultivator stock culture preservation Preservation Methods"
 created: 2026-04-28
-tags: [[mycology]], strain-preservation, culture-storage, slant-culture,
+tags: [mycology], strain-preservation, culture-storage, slant-culture,
       mushroom-cultivator, strain-vitality]
 date: 2026-04-25
 updated: 2026-04-25
-sources: [~/wiki/raw/papers/the-mushroom-cultivator-stamets.md]
+sources: sources: []
 type: concept
 ---
 
@@ -17,7 +17,7 @@ cultures, commonly called "slants," are media-filled glass test tubes
 sterilized and inoculated with mushroom [[mushroom-cultivator-agar-media-formulas]] discussed by Stamets and Chilton
 
 ### Procedure
-1. Mix the chosen agar media formula
+1. Mix the chosen [[growing-gourmet-agar-media-formulas-preparation]] formula
 2. Fill test tubes one-third of the way
 3. Plug with cotton and cover with aluminum foil (or screw on cap
    if tubes are of this type)
@@ -43,7 +43,7 @@ Incubate slants for one week at 75 degrees Fahrenheit (24 degrees
 Celsius). Once the mycelium has covered a major portion of the agar's
 surface and appears free of contamination, store at 35-40 degrees
 Fahrenheit (2-4 degrees Celsius). At these temperatures, the
-metabolic activity of most mycelia is lowered to a level where growth
+[[arbuscule-isolation-metabolic-activity-assays]] of most mycelia is lowered to a level where growth
 and nutrient absorption virtually stop.
 
 ### Vitality Checking Schedule

@@ -11,11 +11,11 @@ sources:
 
 # Exopheromones and Plant Intelligence
 
-Exopheromones are chemical messengers that act across species lines — signals that plants, fungi, and other organisms use to communicate with and influence the behavior of other species. Terence McKenna introduced this concept in "Food of the Gods" to explain how psychoactive plant compounds might function not merely as defensive toxins but as a form of interspecies chemical communication, particularly in the relationship between hallucinogenic plants and humans.
+Exopheromones are chemical messengers that act across species lines — signals that plants, fungi, and other organisms use to communicate with and influence the behavior of other species. Terence McKenna introduced this concept in "Food of the Gods" to explain how psychoactive plant compounds might function not merely as defensive toxins but as a form of interspecies [[bloomfield-siren-songs-fungal-chemical-communication-reproduction-chapter-7]], particularly in the relationship between hallucinogenic plants and humans.
 
 ## Pheromones and Chemical Communication
 
-The concept builds on the established science of pheromones — intraspecies chemical signals discovered in insects but later found to operate in mammals as well. Pheromones govern mating, alarm, trail-following, and social organization within species. McKenna proposed extending this framework to encompass interspecies chemical signaling:
+The concept builds on the established science of pheromones — intraspecies [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] discovered in insects but later found to operate in mammals as well. Pheromones govern mating, alarm, trail-following, and social organization within species. McKenna proposed extending this framework to encompass interspecies [[plant-hormones-and-chemical-signaling-systems]]:
 
 - **Pheromones**: Chemical signals between members of the same species (established science)
 - **Allomones**: Chemical signals between species that benefit the sender (a subset of exopheromones)
@@ -36,7 +36,7 @@ If nature maximizes cooperation, then chemical compounds produced by one species
 
 McKenna proposed that plant alkaloids function as what he called "chemical diplomats" — agents of interspecies communication that mediate the relationship between plants and the animals that consume them. This stands in stark contrast to the conventional view of alkaloids as mere waste products or defensive poisons.
 
-The conventional view holds that alkaloids are secondary metabolites with no primary function in the plant's metabolism, produced as evolutionary accidents or as deterrents against herbivory. McKenna challenged this view on several grounds:
+The conventional view holds that alkaloids are [[antifungal-secondary-metabolites-coprophilous-fungi]] with no primary function in the plant's metabolism, produced as evolutionary accidents or as deterrents against herbivory. McKenna challenged this view on several grounds:
 
 - Alkaloids are chemically complex and energetically expensive to produce, suggesting they serve important functions
 - They are often highly specific in their effects on animal nervous systems, implying coevolutionary adaptation
@@ -65,7 +65,7 @@ The subjective experience of encountering an alien intelligence during psychedel
 Since McKenna's writing, scientific research has increasingly validated the concept of interspecies chemical communication, though not always in the way he envisioned:
 
 - **Plant-insect communication**: Plants release volatile organic compounds (VOCs) when attacked by herbivores, which attract predators of those herbivores — a clear example of interspecies signaling that benefits both the plant and the predator
-- **Mycorrhizal networks**: Fungal networks connecting trees and other plants facilitate nutrient exchange and chemical signaling, sometimes described as a "wood wide web"
+- **[[dighton-mycorrhizal-networks-carbon-transfer]]**: Fungal networks connecting trees and other plants facilitate nutrient exchange and chemical signaling, sometimes described as a "wood wide web"
 - **Root exudates**: Plants release chemicals through their roots that influence the behavior of soil microorganisms, attracting beneficial bacteria and deterring pathogens
 - **Acoustic signaling**: Some research suggests plants can detect and respond to acoustic signals, including the sounds of flowing water and herbivore feeding
 - **Allelopathy**: Plants release chemicals that inhibit the growth of competing species, a form of interspecies chemical interaction
@@ -108,7 +108,7 @@ Despite these limitations, the concept of exopheromones remains a provocative fr
 
 ## The Amazonian Parallel: Ayahuasca as Exopheromone System
 
-The Amazonian ayahuasca complex provides perhaps the most compelling real-world example of the exopheromone concept in action. Ayahuasca requires the combination of two plants: *Banisteriopsis caapi*, which contains harmine and harmaline (MAO inhibitors), and *Psychotria viridis* or *Diplopterys cabrerana*, which contains DMT.
+The [[harner-amazonian-ayahuasca-preparation-methods]] complex provides perhaps the most compelling real-world example of the exopheromone concept in action. Ayahuasca requires the combination of two plants: *Banisteriopsis caapi*, which contains harmine and harmaline (MAO inhibitors), and *Psychotria viridis* or *Diplopterys cabrerana*, which contains DMT.
 
 Neither plant is psychoactive when consumed alone. DMT is inactive orally because it is rapidly broken down by monoamine oxidase in the gut, while the B. caapi vine alone produces only mild sedative effects. The probability that Amazonian indigenous peoples discovered this specific combination through trial and error is vanishingly small — it requires knowing that two otherwise unremarkable plants must be combined, in the correct proportions, and prepared in a specific way.
 

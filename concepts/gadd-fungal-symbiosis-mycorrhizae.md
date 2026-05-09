@@ -22,7 +22,7 @@ Ectomycorrhizae are formed primarily by basidiomycetes (with some ascomycetes) o
 
 - **Hartig net**: A labyrinthine network of fungal hyphae that penetrates between root cortical cells without entering the cells themselves. This is the primary site of nutrient exchange.
 - **Fungal mantle**: A dense sheath of fungal tissue that completely encloses the root tip, often visible as a thickening or color change. The mantle can constitute a substantial proportion of root biomass.
-- **Extraradical mycelium**: An extensive network of hyphae extending from the mantle into the surrounding soil, greatly increasing the effective absorptive surface area of the root system. Individual ectomycorrhizal networks can extend for meters from the root tip.
+- **Extraradical mycelium**: An extensive network of hyphae extending from the mantle into the surrounding soil, greatly increasing the effective absorptive surface area of the root system. Individual [[symbiotic-fungi-ectomycorrhizal-networks-overview]] can extend for meters from the root tip.
 - **Rhizomorphs and cords**: Specialized hyphal aggregates that facilitate long-distance transport of water and nutrients.
 
 Ectomycorrhizal forests were once thought to occur primarily in temperate to boreal zones, but they are now known to abound in many tropical forests as well. The fungi involved are diverse taxonomically, spanning many genera of basidiomycetes and ascomycetes, with many producing conspicuous above-ground sporocarps (mushrooms, boletes, truffles) that have been central to mycological inventory work.
@@ -36,7 +36,7 @@ Arbuscular mycorrhizae, formed by fungi in the Glomeromycota (formerly placed in
 - **Intraradical hyphae**: Fungal hyphae that grow between and within root cortical cells.
 - **Extraradical hyphae**: Extending from roots into soil, these hyphae explore soil volumes inaccessible to roots and can transport nutrients over considerable distances.
 
-Arbuscular mycorrhizal fungi produce individual spores (150-1000 micrometers diameter) in soil or roots. Spores are large relative to those of other fungi but are produced individually rather than in aggregated fruiting bodies. AM fungal species diversity has been historically underestimated because identification requires microscopic examination of root colonization patterns and spore morphology. Molecular methods have revealed much greater AM fungal diversity than culture-dependent methods.
+[[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi produce individual spores (150-1000 micrometers diameter) in soil or roots. Spores are large relative to those of other fungi but are produced individually rather than in aggregated fruiting bodies. AM fungal species diversity has been historically underestimated because identification requires [[fungal-microscopic-examination-mounting-media-techniques]] of root colonization patterns and spore morphology. Molecular methods have revealed much greater AM fungal diversity than culture-dependent methods.
 
 ### Other Mycorrhizal Types
 
@@ -54,10 +54,10 @@ The fungus absorbs water and mineral nutrients from the soil and transfers them 
 Mycorrhizal associations have profound ecological consequences:
 
 - **Nutrient acquisition**: Mycorrhizal hyphae access soil volumes and nutrient pools unavailable to roots alone, particularly immobile nutrients like phosphorus. The fine diameter and extensive branching of extraradical hyphae give them a much larger absorptive surface area per unit biomass than roots.
-- **Plant community dynamics**: Mycorrhizal associations influence plant competitive interactions and community composition. Different plant species may form associations with different fungal partners, creating complex networks of interaction.
+- **Plant community dynamics**: Mycorrhizal associations influence plant competitive interactions and [[core-endorhiza-bacterial-community-composition-cannabis]]. Different plant species may form associations with different fungal partners, creating complex networks of interaction.
 - **Stress tolerance**: Mycorrhizal plants typically show improved tolerance to drought, heavy metals, salinity, and pathogen attack compared to non-mycorrhizal plants.
 - **Soil aggregation**: Extraradical hyphae and associated fungal secretions (glomalin-related soil proteins produced by AM fungi) contribute to soil aggregate stability and soil structure.
-- **Common mycorrhizal networks**: Individual mycorrhizal fungal networks can simultaneously connect multiple host plants of the same or different species, creating pathways for resource sharing and signaling between plants.
+- **Common mycorrhizal networks**: Individual mycorrhizal fungal networks can simultaneously connect multiple host plants of the same or different species, creating pathways for [[mycelial-network-resource-sharing-plants]] and signaling between plants.
 - **Succession**: Mycorrhizal fungal communities change predictably during forest stand development, with different fungal assemblages characteristic of young, mature, and old-growth forests.
 
 ## Sequestrate Mycorrhizal Fungi
@@ -68,14 +68,13 @@ In old-growth Pinaceae forests of the Pacific Northwestern United States, seques
 
 ## Research Methods
 
-Mycorrhizal fungi are studied through a combination of field surveys (sporocarp collection and identification), root sampling and microscopic examination (clearing and staining of root tips to visualize fungal structures), and molecular methods (DNA extraction from roots or soil, PCR amplification of fungal ribosomal genes, and community profiling). Molecular approaches have revealed that the diversity of mycorrhizal fungi, especially the "hidden" species that do not produce conspicuous sporocarps, is much greater than previously recognized. Competitive RT-PCR and microarray-based transcript analyses are being applied to study gene expression in mycorrhizal associations in situ.
+Mycorrhizal fungi are studied through a combination of field surveys (sporocarp collection and identification), root sampling and microscopic examination (clearing and staining of root tips to visualize fungal structures), and molecular methods (DNA extraction from roots or soil, PCR amplification of fungal ribosomal genes, and community profiling). [[staycare-molecular-approaches-fungal-bioremediation]] have revealed that the diversity of mycorrhizal fungi, especially the "hidden" species that do not produce conspicuous sporocarps, is much greater than previously recognized. Competitive RT-PCR and microarray-based transcript analyses are being applied to study gene expression in mycorrhizal associations in situ.
 
 ## See Also
 
 - [[arbuscular-mycorrhizal-colonization-patterns]]
 - [[arbuscular-mycorrhizal-fungi]]
 - [[arbuscular-mycorrhizal-fungal-diversity]]
-- [[arbuscular-mycorrhizal-colonization-patterns]]
 - [[arbuscular-mycorrhizal-spore-extraction-methods]]
 - [[arbuscule-intraradical-hyphae-isolation-mycorrhizal-roots]]
 - [[agricultural-chemicals-mycorrhizal-impact]]

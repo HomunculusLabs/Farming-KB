@@ -1,5 +1,5 @@
 ---
-title: Brittle vs Nonbrittle Environments
+title: savory holistic resource management brittle vs nonbrittle environments Environments
 created: 2026-04-28
 tags:
   - holistic-management
@@ -29,7 +29,7 @@ maintained.
 In brittle environments, however, prolonged nondisturbance leads to further
 deterioration and instability. Old plant material accumulates because
 breakdown occurs mainly through slow oxidation and weathering rather than
-biological decay. Perennial grasses die as accumulated old growth blocks
+biological decay. Perennial grasses die as accumulated [[fungal-roles-in-old-growth-forests]] blocks
 sunlight from reaching growing points. Soil surfaces become capped and
 exposed. This is why the old belief that all damaged land should be left
 undisturbed has proven wrong for over half the earth's land surface.
@@ -49,7 +49,7 @@ The brittle/nonbrittle distinction has profound management implications:
 
 - **Over half of the earth's land surface** leans toward the brittle end
   of the scale, meaning that practices developed in the nonbrittle
-  environments of northern Europe and eastern North America are often
+  environments of northern Europe and [[polypore-fungi-eastern-north-america]] America are often
   inappropriate for most of the world's land.
 - In brittle environments, some form of periodic soil surface disturbance
   is essential for maintaining healthy [[savory-animal-impact-and-herd-effect]] becomes critical in brittle
@@ -58,6 +58,7 @@ The brittle/nonbrittle distinction has profound management implications:
 - [[savory-water-cycle-management]] and [[desertification]]
 - [[savory-rest-as-management-tool]]
 - [[savory-water-cycle-management]]
+
 ## Practical Considerations
 
 Successful implementation of Brittle vs Nonbrittle Environments requires attention to
@@ -76,4 +77,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

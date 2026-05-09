@@ -85,13 +85,13 @@ Relies on wild yeasts present on fruit, in the winery/brewery, or in the environ
 - Traditional cider making
 
 ### Sourdough Yeasts
-Sourdough is a symbiotic culture of wild yeasts and lactic acid bacteria (LAB). The dominant yeast is typically Kazachstania exigua (formerly Saccharomyces exiguus) or Candida milleri, which coexists with Lactobacillus sanfranciscensis. These yeasts are acid-tolerant, allowing them to thrive in the sourdough environment alongside LAB.
+Sourdough is a symbiotic culture of wild yeasts and lactic [[lactic-acid-bacteria-knf]] (LAB). The dominant yeast is typically Kazachstania exigua (formerly Saccharomyces exiguus) or Candida milleri, which coexists with Lactobacillus sanfranciscensis. These yeasts are acid-tolerant, allowing them to thrive in the sourdough environment alongside LAB.
 
 ## Brewing Applications
 
 ### Ale Fermentation (Saccharomyces cerevisiae)
 - Top-fermenting: yeast rises to the surface during active fermentation
-- Temperature range: 15-24 C
+- [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]: 15-24 C
 - Produces esters (fruity) and phenols (spicy, clove-like)
 - Styles: pale ale, IPA, stout, porter, Belgian ales, wheat beer
 
@@ -116,8 +116,8 @@ Yeast in baking produces CO2 which leavens dough, creating the light, airy textu
 - Bioethanol production: engineered yeast strains convert corn, sugarcane, or cellulosic biomass to fuel ethanol
 - Recombinant protein production: yeast is a preferred expression system for pharmaceuticals (insulin, hepatitis B vaccine, human serum albumin)
 - Nutritional supplements: inactive dry yeast (nutritional yeast) is rich in B vitamins and protein
-- Yeast extract: used as flavor enhancer (Marmite, Vegemite) and growth medium supplement
-- Bioremediation: certain yeast species can biodegrade pollutants or accumulate heavy metals
+- [[marmite-yeast-extract-straw-substrate]]: used as flavor enhancer (Marmite, Vegemite) and growth medium supplement
+- Bioremediation: certain yeast species can biodegrade pollutants or accumulate [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]
 
 ## Related
 

@@ -1,12 +1,13 @@
 ---
-title: Aquatic Plant Systems and Pond Design
+title: Aquatic Plant Systems and comparison-pond-design-vs-dam-construction
 created: 2026-04-28
-tags: [[permaculture]], aquaculture, ponds, aquatic-plants, water-storage, 
+tags: [permaculture], aquaculture, ponds, aquatic-plants, water-storage, 
 wetland, duck-potato, wild-rice, watercress, mussels, algae, 
 sewage-treatment, bio-remediation]
 date: 2026-04-25
 updated: 2026-04-25
-sources: [~/wiki/raw/papers/bill-mollison-permaculture-design-course.md]
+sources: sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
 
@@ -93,10 +94,10 @@ lower in acid than most garden soils. Most things in the pond like lime.
 
 ## Ducks and Pond Integration
 
-You can figure on eight ducks to a quarter acre. But the more ducks you
+You can figure on eight ducks to a [[fukuoka-agriculture-tomorrow-quarter-acre-vision]]. But the more ducks you
 put on, the more manure you get. Ducks give you an additional crop, and
 they greatly assist the turnover of the energy in the pond. Wild rice is
-good in this situation because it comes up in the vegetative stage, and
+good in this situation because it comes up in the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]], and
 grows well above the duck.
 
 Mulberries are great feed for stock in water, as well as on land. White
@@ -122,3 +123,5 @@ phosphates and nitrates. You can let that go into your pond.
 
 - [[mollison-course-swales-and-earthworks-design]] for swale-fed ponds
 - [[mollison-course-coppice-forest-management]] for forest water systems
+- permaculture-water-pond-systems-design-course
+- [[permaculture]]

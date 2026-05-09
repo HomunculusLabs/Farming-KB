@@ -1,18 +1,19 @@
 ---
-title: Trellis Shadehouse Design Mollison
+title: Trellis trellis shadehouse design mollison Mollison
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
-  - raw/papers/bill-mollison-permaculture-design-course.md
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # Trellis and Shadehouse Design in Permaculture
 
 updated: 2026-04-18
 
-Permaculture Two (1979) Section 5.3 details trellis and shadehouse design for climate modification, food production, and wind protection around buildings.
+Permaculture Two (1979) Section 5.3 details trellis and shadehouse design for climate modification, food production, and [[cervantes-wind-protection-outdoor-cannabis]] around buildings.
 
 ## Why Trellis
 
@@ -24,7 +25,7 @@ Trellis has a multiple effect on the building environment:
 
 - Separates functional space into recreational, garden, or service area
 - Prevents the flow of cold winds along walls
-- Acts as a sun trap
+- Acts as a [[mollison-designers-sun-trap-and-frost-pocket-design]]
 - Presents a basic structure for vine crop production
 
 ## Trellis Construction
@@ -59,8 +60,8 @@ The refreshing coolness of a shadehouse in the hot Australian summer has to be e
 
 The shadehouse forms part of the reactive house ventilation system (see [[permaculture-chicken-tractors]]
 - [[cool-climate-settlement-design-mollison]]
-- [[mollison-permaculture-two-sod-roof-construction]]
-- [[mollison-permaculture-two-sound-walls-noise-control]]
+- mollison-permaculture-two-sod-roof-construction
+- mollison-permaculture-two-sound-walls-noise-control
 ## Practical Considerations
 
 Successful implementation of Trellis Shadehouse Design Mollison requires attention to
@@ -79,4 +80,9 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[query-how-do-i-design-and-plant-a-hops-trellis-system-for-home-brewing]]
+- [[mollison-course-swales-and-earthworks-design]]
+- [[mollison-pdc-small-pond-frog-habitat-design]]
+- [[mollison-designers-food-forest-succession-design]]
+- [[mollison-designers-high-island-and-tropical-valley-design]]

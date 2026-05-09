@@ -14,8 +14,8 @@ sources:
 **Mycena galopus** is a saprotrophic basidiomycete fungus in the family
 Mycenaceae, commonly known as the milky mycena. It is one of the most
 important saprotrophic fungi in temperate and boreal forest floor
-ecosystems, playing a key role in leaf litter decomposition and
-competitive interactions with ectomycorrhizal fungi. The species is
+ecosystems, playing a key role in leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]] and
+competitive interactions with [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]. The species is
 particularly significant in coniferous forests where it dominates the
 decomposer community.
 
@@ -50,7 +50,7 @@ decomposition was much greater with the saprotroph Lepista nuda
 (decomposition constant k = 1.00, respiration 14.0 mg CO2/day/g) than
 with ectomycorrhizal species Thelephora terrestris (k = 0.15, 4.5
 mg CO2/day/g) or Suillus bovinus (k = 0.22, 11.0 mg CO2/day/g).
-Nitrogen mineralization only occurred with Lepista, supporting the view
+[[fungal-nitrogen-mineralization-pathways]] only occurred with Lepista, supporting the view
 that specialized saprotrophs are superior competitors for organic
 resources compared to ectomycorrhizal fungi.
 
@@ -59,7 +59,7 @@ resources compared to ectomycorrhizal fungi.
 Lindahl et al. (1999) showed that interactions between ectomycorrhizal
 fungi and the saprotroph Hypholoma fasciculare resulted in net transfer
 of phosphorus from the saprotroph to mycorrhizal fungi. Up to 25% of P
-in the saprotroph mycelium was captured by mycorrhizal fungi and
+in the saprotroph mycelium was captured by [[mollison-designers-mycorrhizal-fungi-and-soil-microbiology]]
 translocated to the host tree within 30 days, while the reciprocal
 transfer was three orders of magnitude lower.
 
@@ -77,7 +77,7 @@ tinctorius 0.2%).
 ### Grazing-Mediated Community Change
 
 Newell (1984a, b) provided a classic demonstration of how selective
-grazing can alter fungal community composition in Sitka spruce
+grazing can alter fungal [[core-endorhiza-bacterial-community-composition-cannabis]] in Sitka spruce
 plantation forests. In ungrazed systems, Marasmius preferred leaf
 litter habitat while Mycena preferred soil. Collembolan grazing by O.
 armatus displaced both fungi from optimal habitats to suboptimal
@@ -109,7 +109,7 @@ Mycena galopus occupies a critical position at the interface of
 decomposition and grazing in forest floor ecosystems. Its role as a
 competitive suppressor of ectomycorrhizal decomposition, combined with
 high palatability to collembola, means that changes in its abundance
-can have cascading effects on both nutrient cycling rates and soil
+can have cascading effects on both [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] rates and soil
 faunal community structure. The displacement of M. galopus from optimal
 habitat by collembolan grazing illustrates how top-down control by
 microarthropods can influence bottom-up processes like decomposition

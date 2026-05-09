@@ -1,5 +1,5 @@
 ---
-title: Cytochrome P450 in Fungal Biodegradation of Pollutants
+title: Cytochrome P450 in gadd-fungal-biodegradation-bioremediation of Pollutants
 created: 2026-04-28
 tags: [bioremediation, cytochrome-p450, fungal-enzymes, xenobiotic-metabolism]
 date: 2026-04-25
@@ -12,7 +12,7 @@ type: concept
 
 Cytochrome P450 monooxygenases are intracellular enzyme systems found in
 both ligninolytic and non-ligninolytic fungi that play a critical role in
-the initial oxidation of polycyclic aromatic hydrocarbons (PAHs) and other
+the initial oxidation of [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs) and other
 xenobiotic compounds. Unlike the extracellular lignin-modifying enzymes
 (LiP, MnP, and laccase) deployed by white rot fungi, cytochrome P450
 systems operate inside fungal cells and represent an alternative pathway
@@ -46,7 +46,7 @@ intermediates are formed during bioremediation of PAH-contaminated sites.
 
 ## Key Fungal Species with Cytochrome P450 Activity
 
-Cunninghamella elegans and C. echinulata have been confirmed to possess
+[[staycare-cunninghamella-elegans-in-bioremediation]] and C. echinulata have been confirmed to possess
 genes for cytochrome P450 monooxygenase. C. elegans also has an
 oxidoreductase gene that is induced by n-tetradecane, though the
 inducibility of the cytochrome P450 monooxygenase gene itself remains
@@ -92,10 +92,10 @@ including pyrene sulfates and hydroxypyrene glucuronides.
 
 ## Role in Dye and Surfactant Degradation
 
-Cytochrome P450 systems also participate in the degradation of synthetic
+Cytochrome P450 systems also participate in the [[singh-fungal-degradation-of-synthetic-dyes-and-textile-waste]]
 dyes and surfactants. The degradation of furan derivatives by fungi is
 thought to involve P450 monooxygenases. Linear alkylbenzene sulfonate
-(LAS), an anionic surfactant, undergoes fungal transformation through
+(LAS), an anionic surfactant, undergoes [[singh-fungal-transformation-metals-metalloids]] through
 oxidative pathways that may involve cytochrome P450 enzymes.
 
 ## Advantages and Limitations for Bioremediation
@@ -115,7 +115,7 @@ may be more toxic than parent compounds. Since fungi can generate the same
 reactive epoxides and quinones as mammalian systems, the balance between
 detoxification and metabolic activation must be carefully evaluated for
 each fungal-pollutant combination. The dependence on intracellular
-metabolism also means that pollutant uptake across the cell membrane is a
+metabolism also means that pollutant uptake across the [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] is a
 prerequisite for degradation, potentially limiting effectiveness against
 poorly bioavailable compounds.
 

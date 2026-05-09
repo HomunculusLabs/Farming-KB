@@ -25,7 +25,7 @@ updated: 2026-04-28
 sources:
   - McMinn, H.E. (1939). An Illustrated Manual of California Shrubs. University of California Press.
   - "Ceanothus thyrsiflorus." USDA NRCS PLANTS Database. https://plants.usda.gov/
-  - Condron, T. et al. (2018). "Nitrogen fixation by Ceanothus in California ecosystems." Plant and Soil, 428(1-2), 273-287.
+  - Condron, T. et al. (2018). "[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] by Ceanothus in California ecosystems." Plant and Soil, 428(1-2), 273-287.
   - Bornstein, C. et al. (2005). California Native Plants for the Garden. Cachuma Press.
   - Bentrup, G. (2008). "Conservation buffers: Design guidelines for buffers, corridors, and greenways." USDA Forest Service General Technical Report SRS-109.
 created: 2026-04-28
@@ -39,7 +39,7 @@ The species is renowned for its spectacular displays of fragrant blue to violet-
 
 Beyond its ornamental value, *C. thyrsiflorus* is ecologically significant as a nitrogen-fixing plant capable of forming root nodules with *Frankia* actinomycetes, enriching soil fertility without requiring external nitrogen inputs.
 
-These qualities — drought tolerance, nitrogen fixation, pollinator support, erosion control, and ornamental beauty — make it a valuable multipurpose species for permaculture design, ecological restoration, and sustainable landscaping.
+These qualities — [[dighton-fungal-drought-tolerance-plant-water-relations]], nitrogen fixation, pollinator support, [[permplant-willows-salix-erosion-control-fodder]], and ornamental beauty — make it a valuable multipurpose species for [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], ecological restoration, and sustainable landscaping.
 
 ## Taxonomy and Morphology
 
@@ -71,7 +71,7 @@ Coastal populations experience a Mediterranean climate with cool, wet winters an
 
 Nitrogen fixation rates in *Ceanothus* species have been measured at 2–20 kg N/ha/year, depending on age, stand density, and environmental conditions. This is comparable to many leguminous plants.
 
-The fixed nitrogen becomes available to neighboring plants through root exudation, leaf litter decomposition, and mycorrhizal transfer networks. *Ceanothus* is therefore a significant nitrogen donor in mixed plantings.
+The fixed nitrogen becomes available to neighboring plants through root exudation, leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]], and mycorrhizal transfer networks. *Ceanothus* is therefore a significant nitrogen donor in mixed plantings.
 
 Frankia nodules on ceanothus roots are visible as coral-like structures, typically 2–10 mm in diameter, found on both lateral and fine roots. Nodulation is most active during the cool, moist winter months.
 
@@ -83,7 +83,7 @@ The dense evergreen canopy provides year-round cover and nesting habitat for bir
 
 The extensive root system stabilizes slopes and prevents soil erosion on steep terrain. Roots extend both deeply and laterally, binding soil effectively on coastal bluffs and road cuts.
 
-*Ceanothus* foliage contains secondary metabolites (ceanothic acid, ceanothine) that provide some deer and rabbit resistance, though young plants may be browsed.
+*Ceanothus* foliage contains [[antifungal-secondary-metabolites-coprophilous-fungi]] (ceanothic acid, ceanothine) that provide some deer and rabbit resistance, though young plants may be browsed.
 
 ## Cultivation and Propagation
 

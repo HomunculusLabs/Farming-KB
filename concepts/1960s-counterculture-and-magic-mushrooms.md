@@ -1,9 +1,9 @@
 ---
-title: 1960s Counterculture and Magic Mushrooms
+title: 1960s 1960s counterculture and magic mushrooms Mushrooms
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "Letcher - Shroom: A Cultural History of the Magic Mushroom"
+  - "Letcher - Shroom: A shroom-cultural-history-hippie-revolution-and-counterculture of the Magic Mushroom"
 type: concept
 tags: [counterculture, culture, mushroom-cultivation, mushrooms]
 ---
@@ -15,7 +15,7 @@ obscure ethnographic curiosity into a symbol of cultural rebellion. While LSD wa
 psychedelic sixties -- when Jimi Hendrix asked "Are you experienced?" he meant "Have you dropped Acid?" --
 magic mushrooms played a vital supporting role in the direction and development of the counterculture. As
 Letcher observes, the great swirling outpouring of fashion, art, and especially music that characterised the
-era all attempted in some way to reflect the psychedelic experience. "You didn't have to take the drug to
+era all attempted in some way to reflect the [[leary-psychedelic-experience-bardo-mapping]]. "You didn't have to take the drug to
 pick up what would have been termed 'the vibes'," reminisced one writer. "The LSD culture spread far wider
 and faster than the drug itself."
 
@@ -28,7 +28,7 @@ of a colleague who had read Wasson's Life article, Leary travelled to the Mexica
 an elderly Mexican woman willingly parted with a bundle of freshly picked mushrooms for just a few pesos.
 
 Whereas Wasson had tramped through the hinterlands in search of a primitive encounter with Sabina and her
-holy mushroom veladas, Leary, rather tellingly, took his mushrooms by the pool, with cold beers and dry
+holy [[metzner-mazatec-mushroom-veladas-darkness-singing-and-christian-syncretism]], Leary, rather tellingly, took his mushrooms by the pool, with cold beers and dry
 martinis close at hand. He was joined by an indolent circle of academics -- and their bikini-clad wives -- who
 were moved to try anything to while away the long, hot summer days. Leary oscillated between having intense
 sensual encounters and the feeling that he was being dragged backwards through his own evolutionary history.
@@ -45,7 +45,7 @@ took psilocybin with them in a "supportive environment." Subjects were asked to 
 whatever way they felt appropriate.
 
 Over the years that the project ran, from 1960 to 1963, some two hundred doses were administered. Increasing
-numbers of subjects returned with reports of religious, spiritual, or mystical experiences. The project became
+numbers of subjects returned with reports of religious, spiritual, or [[psilocybin-mystical-experiences-personality-change]]. The project became
 cliquey, with furtive nods and winks between those that "had" and those that "hadn't." After attracting too
 much unwelcome press attention -- particularly over the issue of giving psilocybin to graduate students -- the
 project was forcibly closed. Harvard gave Leary his marching orders.
@@ -88,4 +88,4 @@ Used to seeing [[wasson-rediscovery-of-psilocybin]]
 - [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 - [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 - [[psilocybin-mushroom-dissemination-1950s-1970s]]
-- [[mexican-inquisition-against-mushroom-cults]]
+- mexican-inquisition-against-mushroom-cults

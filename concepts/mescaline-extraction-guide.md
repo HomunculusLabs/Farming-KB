@@ -11,9 +11,9 @@ sources: []
 
 ## Overview
 
-Mescaline (3,4,5-trimethoxyphenethylamine) is a naturally occurring phenethylamine alkaloid found in several cactus species, most notably peyote (Lophophora williamsii), San Pedro (Trichocereus pachanoi), and Peruvian Torch (Trichocereus peruvianus). It is one of the oldest known psychoactive compounds — evidence of peyote use dates back over 5,000 years.
+Mescaline (3,4,5-trimethoxyphenethylamine) is a naturally occurring phenethylamine alkaloid found in several cactus species, most notably peyote (Lophophora williamsii), [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]] (Trichocereus pachanoi), and Peruvian Torch (Trichocereus peruvianus). It is one of the oldest known psychoactive compounds — evidence of peyote use dates back over 5,000 years.
 
-This guide covers extraction methods for isolating mescaline from cactus material. Mescaline is a Schedule I controlled substance in the United States and many other countries. This information is provided for educational and harm-reduction purposes.
+This guide covers extraction methods for isolating mescaline from cactus material. Mescaline is a Schedule I controlled substance in the [[dmt-containing-plants-united-states-halpern]] and many other countries. This information is provided for educational and harm-reduction purposes.
 
 ## The Chemistry
 
@@ -142,18 +142,8 @@ Note: Mescaline sulfate and acetate have different molecular weights, so adjust 
 
 Onset: 45–90 minutes. Peak: 2–4 hours. Duration: 8–12 hours.
 
-## Safety Considerations
-
-- Mescaline produces a long-duration experience — plan for 12+ hours
-- Nausea during onset is common and sometimes severe
-- Cardiovascular effects include increased heart rate and blood pressure
-- Not recommended for people with heart conditions, schizophrenia, or bipolar disorder
-- NaOH and solvents are hazardous — use proper safety equipment
-- Xylene and toluene are toxic and flammable — adequate ventilation is critical
-- See [[psychedelic-plants-legal-status]] for legal status
-- See [[san-pedro-cactus-preparation]] for non-extraction cactus preparation
-
 ## Related Topics
 
 - [[san-pedro-cactus-preparation]] — traditional San Pedro preparation without chemistry
 - [[peyote-ceremony-guide]] — traditional peyote use and ceremony
+- [[mescaline-peyote-san-pedro-cactus]]

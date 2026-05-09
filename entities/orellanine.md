@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Richard, J.M. et al. (1988). "Orellanine and orelline: two unexpected main natural metabolites from lethal Cortinarius mushrooms." Journal of Toxicology: Clinical Toxicology, 26(1-2), 51-73.
   - Holmdahl, J. et al. (1987). "Fatal poisoning by Cortinarius speciosissimus." The Lancet, 330(8558), 437-438.
-  - De Bellis, R. et al. (2019). "Cortinarius mushroom poisoning: A review of the recent literature." Clinical Toxicology, 57(12), 1097-1108.
+  - De Bellis, R. et al. (2019). "Cortinarius [[european-mushroom-poisoning-history]]: A review of the recent literature." Clinical Toxicology, 57(12), 1097-1108.
   - Antkowiak, W.Z. & Gessner, W.P. (1979). "The structure of orellanine." Tetrahedron Letters, 20(21), 1931-1934.
 created: 2026-04-28
 ---
@@ -40,9 +40,9 @@ Orellanine exerts its toxicity primarily through selective damage to the proxima
 
 The compound acts as a potent inhibitor of protein synthesis in renal tubular cells. It interferes with both DNA and RNA synthesis, leading to disruption of ribosomal function and translational arrest. This inhibition is relatively selective for renal tubular cells, possibly due to active uptake and concentration mechanisms in the proximal tubule.
 
-Orellanine generates reactive oxygen species (ROS) through redox cycling of its bipyridyl N-oxide moieties. The resulting oxidative stress causes lipid peroxidation of tubular cell membranes, mitochondrial dysfunction, and activation of apoptotic pathways. Glutathione depletion has been observed in affected renal tissue.
+Orellanine generates reactive oxygen species (ROS) through redox cycling of its bipyridyl N-oxide moieties. The resulting [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] causes lipid peroxidation of tubular cell membranes, mitochondrial dysfunction, and activation of apoptotic pathways. Glutathione depletion has been observed in affected renal tissue.
 
-Additional proposed mechanisms include disruption of cellular energy metabolism through interference with the electron transport chain, and direct tubulointerstitial inflammation mediated by cytokine release from damaged epithelial cells. The combination of metabolic inhibition, oxidative damage, and inflammatory response produces irreversible acute tubular necrosis.
+Additional proposed mechanisms include disruption of cellular energy metabolism through interference with the electron [[electron-transport-chain-mitochondrial-respiration]], and direct tubulointerstitial inflammation mediated by cytokine release from damaged epithelial cells. The combination of metabolic inhibition, oxidative damage, and inflammatory response produces irreversible acute tubular necrosis.
 
 ## Toxicokinetics and Clinical Presentation
 
@@ -62,9 +62,9 @@ The oliguric or anuric renal failure phase manifests with rising serum creatinin
 
 Orellanine is produced by several *Cortinarius* species in Section Orellani. The primary species are *Cortinarius orellanus* (the type species, known as the Fool's Webcap) and *Cortinarius rubellus* (syn. *C. speciosissimus*), both native to Europe.
 
-Additional orellanine-producing species include *C. henryi* (North America), *C. rainierensis* (Pacific Northwest), and *C. orellanus* f. *sterilis*. The concentration of orellanine varies significantly among species, with *C. rubellus* generally containing higher levels than *C. orellanus*.
+Additional orellanine-producing species include *C. henryi* ([[psilocybin-north-america-pacific-northwest]]), *C. rainierensis* (Pacific Northwest), and *C. orellanus* f. *sterilis*. The concentration of orellanine varies significantly among species, with *C. rubellus* generally containing higher levels than *C. orellanus*.
 
-The toxin is concentrated primarily in the cap and gill tissue, with lower levels in the stipe. Mycelial cultures produce only trace amounts, suggesting that orellanine biosynthesis is tied to fruiting body development. Environmental factors including substrate composition and temperature influence toxin production.
+The toxin is concentrated primarily in the cap and gill tissue, with lower levels in the stipe. Mycelial cultures produce only trace amounts, suggesting that orellanine biosynthesis is tied to fruiting body development. [[duggar-mushroom-environmental-factors-temperature-moisture-light]] including substrate composition and temperature influence toxin production.
 
 ## Treatment and Prognosis
 
@@ -101,7 +101,7 @@ In forensic contexts, orellanine can be detected in urine, blood, and gastric co
 ## Related Compounds
 
 - **Orelline** — non-toxic reduction product of orellanine
-- **Muscimol** — nephrotoxic isoxazole from *Amanita muscaria*
+- **Muscimol** — nephrotoxic isoxazole from *[[allegro-amanita-muscaria-properties-and-pharmacology]]*
 - **Amatoxin** — hepatotoxic bicyclic peptide from *Amanita* species
 - **Gyromitrin** — volatile hepatotoxic hydrazine from *Gyromitra* species
 - **Orellinine** — minor metabolite from orellanine-producing *Cortinarius*

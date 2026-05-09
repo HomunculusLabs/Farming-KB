@@ -14,7 +14,7 @@ sources:
     url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3436618/"
   - title: "Improvement of cognitive functions by oral intake of Hericium erinaceus"
     url: "https://pubmed.ncbi.nlm.nih.gov/19384956/"
-  - title: "Neurotrophic properties of the Lion's Mane medicinal mushroom, Hericium erinaceus"
+  - title: "Neurotrophic properties of the Lion's Mane [[gourmet-medicinal-mushroom-casing-layer-techniques]], Hericium erinaceus"
     url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3339815/"
   - title: "Dietary intake of Hericium erinaceus suppresses Aβ deposition and ameliorates cognitive deficits in AβPP/PS1 transgenic mice"
     url: "https://pubmed.ncbi.nlm.nih.gov/29112986/"
@@ -28,7 +28,7 @@ sources:
 
 ## Overview
 
-**Lion's Mane** (*Hericium erinaceus*) is an edible and medicinal mushroom belonging to the tooth fungus group. Native to North America, Europe, and Asia, it is distinguished by its cascading white spines that resemble a lion's mane. Long valued in traditional chinese medicine (TCM) and japanese cuisine, Lion's Mane has attracted significant modern scientific interest for its potential nootropic and neuroprotective properties. Research has focused on its unique bioactive compounds — notably hericenones and erinacines — which stimulate nerve growth factor (NGF) synthesis and may support cognitive function, nerve regeneration, and neurological health.
+**Lion's Mane** (*Hericium erinaceus*) is an edible and medicinal mushroom belonging to the tooth fungus group. Native to [[psilocybin-north-america-pacific-northwest]], Europe, and Asia, it is distinguished by its cascading white spines that resemble a lion's mane. Long valued in traditional chinese medicine (TCM) and japanese cuisine, Lion's Mane has attracted significant modern scientific interest for its potential nootropic and neuroprotective properties. Research has focused on its unique [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] — notably hericenones and erinacines — which stimulate nerve growth factor (NGF) synthesis and may support cognitive function, nerve regeneration, and neurological health.
 
 ## Taxonomy & Classification
 
@@ -62,16 +62,16 @@ The mushroom has historically been consumed as a decoction, dried powder, or who
 
 The most compelling area of modern research concerns Lion's Mane's effects on the nervous system. Both hericenones and erinacines have been demonstrated to cross the blood brain barrier and stimulate synthesis of nerve growth factor (NGF) and brain derived neurotrophic factor (BDNF) — proteins critical for neuronal growth, maintenance, and survival.
 
-A landmark double-blind, placebo-controlled clinical trial by Mori et al. (2009) in Japanese adults aged 50–80 with mild cognitive impairment showed that oral intake of Lion's Mane (3 g/day for 16 weeks) significantly improved cognitive function compared to placebo, though benefits declined after supplementation ceased.
+A landmark double-blind, placebo-controlled [[psilocybin-clinical-trial-landscape-2020-2025]] by Mori et al. (2009) in Japanese adults aged 50–80 with mild cognitive impairment showed that oral intake of Lion's Mane (3 g/day for 16 weeks) significantly improved cognitive function compared to placebo, though benefits declined after supplementation ceased.
 
 Animal studies have demonstrated that Lion's Mane extract can:
 - Reduce amyloid beta plaque deposition in [[hericium-erinaceus-lions-mane-cultivation]]
 
 - [[medicinal-mushrooms]]
 - nerve growth factor
-- Reishi (*Ganoderma lucidum*)
+- Reishi (*[[stamets-reishi-ganoderma-lucidum-cultivation]]*)
 - Cordyceps (*Ophiocordyceps sinensis*)
-- turkey tail (*Trametes versicolor*)
+- turkey tail (*[[staycare-trametes-versicolor-bioremediation-applications]]*)
 ## Practical Considerations
 
 Successful implementation of Lion's Mane (Hericium erinaceus) requires attention to
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

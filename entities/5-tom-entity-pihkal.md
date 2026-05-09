@@ -1,5 +1,5 @@
 ---
-title: "5-TOM (2-METHOXY-4-METHYL-5-METHYLTHIOAMPHETAMINE) -- PIHKAL Entry #172"
+title: "5-TOM (2-METHOXY-4-METHYL-5-METHYLTHIOAMPHETAMINE) -- 2c-b-pihkal-entry-20 #172"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -94,7 +94,7 @@ To a solution of 6.6 g KOH pellets in 100 mL hot EtOH there
 was added a solution of 15.4 g methylthio-m-cresol
 (3-methyl-4-(methylthio)phenol, Crown-Zellerbach Corporation) in 25 mL
 EtOH. This was followed by the addition of 17 g methyl iodide, and
-the mixture was held at reflux on the steam bath for 16 h. The
+the mixture was held at reflux on the [[scythian-cannabis-steam-bath-ritual]] for 16 h. The
 reaction mixture was poured into 400 mL H2O, acidified with HCl, and
 extracted with 4x50 mL CH2Cl2. These were pooled, washed with 3x50 mL
 5% NaOH, once with dilute HCl, and then the solvent was removed under
@@ -135,6 +135,9 @@ methylation with methyl iodide and KOH in MeOH, gave
 ## Safety Notes
 
 ## See Also
+
+- [[2-tom-entity-pihkal]]
+- [[2-tom-entity]]
 
 - [[5-tom-entity]]
 

@@ -17,9 +17,9 @@ type: comparison
 
 ## Overview
 
-[[chinampas]] are two of the most productive and ecologically integrated growing systems available to [[decomposition]] versus water-based capillary nutrient cycling. Hugelkultur transforms waste wood into a moisture-retaining raised bed, while chinampas create artificial agricultural islands in shallow water. Choosing between them depends primarily on available water, space, climate, and whether you want a terrestrial or aquatic-based system.
+chinampas are two of the most productive and ecologically integrated growing systems available to [[decomposition]] versus water-based capillary [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. Hugelkultur transforms waste wood into a moisture-retaining raised bed, while chinampas create artificial agricultural islands in shallow water. Choosing between them depends primarily on available water, space, climate, and whether you want a terrestrial or aquatic-based system.
 
-Despite their different origins (Central European permaculture versus Mesoamerican wetland agriculture), both systems share core [[hugelkultur]] is a permaculture technique that creates raised beds by burying logs, branches, and woody debris under layers of organic matter and topsoil. As the wood decomposes over 5 to 20 years, it slowly releases nutrients, acts as a sponge for moisture, and builds deep, fertile soil.
+Despite their different origins (Central European permaculture versus Mesoamerican wetland agriculture), both systems share core [[hugelkultur]] is a permaculture technique that creates raised beds by burying logs, branches, and woody debris under layers of [[hamilton-composting-and-organic-matter-management]] and topsoil. As the wood decomposes over 5 to 20 years, it slowly releases nutrients, acts as a sponge for moisture, and builds deep, fertile soil.
 The technique originated in Eastern Europe and Germany, where forest-edge gardeners observed that plants grew more vigorously on rotting logs and stumps. Modern permaculture practitioners have refined and popularized the method worldwide, adapting it to a wide range of climates and materials.
 
 **How it works:** A trench is dug, large logs are laid at the bottom, progressively smaller branches are added on top, then nitrogen-rich layers (manure, compost), green material, and finally topsoil cap the mound. The result is a raised bed that can be 3 to 6 feet tall. The internal wood acts like a sponge, absorbing water during rains and releasing it slowly during dry periods.
@@ -29,10 +29,10 @@ Over time, fungal [[hugelkultur-beds]] improve with age rather than degrading.
 - Dramatically reduces or eliminates irrigation needs once established
 - Turns waste wood and brush into a productive resource
 - Builds deep, living soil with excellent drainage and moisture retention
-- Extends the growing season through thermal mass of decomposing wood
+- Extends the [[savory-growing-season-and-non-growing-season-management]] through thermal mass of decomposing wood
 - Very low cost when on-site wood is available
 - Supports a wide range of perennial and annual crops
-- Can be shaped into swales for additional [[chinampas]] are artificial agricultural islands built in shallow lake beds or wetlands, originally developed by the Aztecs in the Valley of Mexico. Often called "floating gardens," they are among the most productive agricultural systems ever devised, capable of yielding up to seven harvests per year. The Aztec chinampa system fed an empire of millions from the shallow lakes surrounding Tenochtitlan.
+- Can be shaped into swales for additional chinampas are artificial agricultural islands built in shallow lake beds or wetlands, originally developed by the Aztecs in the Valley of Mexico. Often called "floating gardens," they are among the most productive agricultural systems ever devised, capable of yielding up to seven harvests per year. The Aztec chinampa system fed an empire of millions from the shallow lakes surrounding Tenochtitlan.
 Surviving chinampas in the Xochimilco district of Mexico City remain in active agricultural use today, centuries after their creation, demonstrating the long-term viability of this method.
 
 **How it works:** Beds are constructed by layering mud, lake sediment, and decaying vegetation between plantings of willow (which anchor the structure). They sit in 2 to 6 feet of water, drawing moisture and nutrients upward through capillary action from the water below. The surrounding water provides thermal buffering, keeping root zones stable even during frosts.
@@ -67,11 +67,11 @@ Drought conditions that lower water levels can expose roots and stress plants, m
 | **Setup labor** | High | Moderate to high |
 | **Cost** | Very low | Low to moderate |
 | **Ideal climate** | Temperate to continental | Temperate to subtropical |
-| **Crop types** | Perennials, fruit bushes, deep-rooted veg | Leafy greens, herbs, shallow-rooted veg |
+| **Crop types** | Perennials, fruit bushes, deep-rooted veg | [[solomon-leafy-greens-growing]], herbs, shallow-rooted veg |
 | **Aquaculture integration** | Possible but not inherent | Core design feature |
 | **Longevity** | 5 to 20 years (then rebuild) | Indefinite with maintenance |
 | **Space needed** | Large terrestrial footprint | Water surface area required |
-| **Season extension** | Thermal mass from decomposition | Thermal buffering from water |
+| **[[comparison-season-extension-techniques-vs-cold-frame-gardening]]** | Thermal mass from decomposition | Thermal buffering from water |
 | **Nutrient source** | Decomposing wood and organic layers | Capillary action from water and sediment |
 | **Origin** | Central European / German permaculture | Mesoamerican (Aztec) agriculture |
 | **Maintenance** | Low after establishment; add mulch | Moderate; dredge canals, replenish sediment |
@@ -79,7 +79,7 @@ Drought conditions that lower water levels can expose roots and stress plants, m
 
 ## When to Choose Hugelkultur
 
-Choose [[chinampas]] when you have access to a pond, wetland, or can construct a shallow water basin on your property. They are ideal for homesteads integrating water management with food production, permaculture designs centered on aquaculture, and gardeners seeking maximum yield per square foot. Container chinampas adapted for small water features make this system accessible even to those without a natural wetland. Chinampas are the superior choice when year-round vegetable production and aquaculture integration are primary goals.
+Choose chinampas when you have access to a pond, wetland, or can construct a shallow water basin on your property. They are ideal for homesteads integrating water management with food production, permaculture designs centered on aquaculture, and gardeners seeking maximum yield per square foot. Container chinampas adapted for small water features make this system accessible even to those without a natural wetland. Chinampas are the superior choice when year-round [[dry-gardening-unirrigated-vegetable-production-solomon]] and aquaculture integration are primary goals.
 For urban and suburban growers, small-scale container chinampas can be built in decorative ponds or even large stock tanks, bringing this ancient technology into modern small-space gardens.
 
 ## Hybrid Approaches
@@ -90,7 +90,7 @@ Designers should also consider wind patterns, sun exposure, and access paths whe
 
 ## See Also
 
-- [[chinampas]]
+- chinampas
 
 Both systems reward patience and observation. The first season may show modest results as biological networks establish, but productivity compounds significantly in subsequent years as soil ecology matures and nutrient cycles close.
 Growers who invest the upfront effort in either system typically find that long-term yields far exceed those of conventional garden beds while maintenance demands drop substantially over time.

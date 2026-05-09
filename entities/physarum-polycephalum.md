@@ -16,11 +16,11 @@ sources:
 
 # Physarum polycephalum
 
-Physarum polycephalum is a plasmodial slime mold (myxomycete) that has become one of the most important model organisms in cell biology, protistology, and biologically inspired computing. It is easily recognized by its bright yellow, multinucleate plasmodium that can reach impressive sizes and exhibits remarkable information-processing capabilities that have attracted attention from fields ranging from molecular biology to computer science and urban planning.
+Physarum polycephalum is a plasmodial [[biological-slime-mold-computing]] (myxomycete) that has become one of the most important model organisms in cell biology, protistology, and biologically inspired computing. It is easily recognized by its bright yellow, multinucleate plasmodium that can reach impressive sizes and exhibits remarkable information-processing capabilities that have attracted attention from fields ranging from molecular biology to computer science and urban planning.
 
 ## Taxonomy and Classification
 
-P. polycephalum (Schweinitz) belongs to the Myxogastria (Myxomycetes) within the Amoebozoa. Phylogenetic analyses using EF-1 alpha amino acid sequences indicate that plasmodial and cellular slime molds comprise a monophyletic group (Baldauf and Doolittle 1997; Baldauf et al. 2000). While historically studied by mycologists due to their spore-producing fruiting bodies, molecular evidence has conclusively demonstrated that slime molds are not true fungi but belong to a separate eukaryotic lineage, the Amoebozoa, which is more closely related to animals and fungi than to plants.
+P. polycephalum (Schweinitz) belongs to the Myxogastria (Myxomycetes) within the Amoebozoa. Phylogenetic analyses using EF-1 alpha [[cho-fish-amino-acid-preparation]] sequences indicate that plasmodial and cellular [[bloomfield-slime-molds-myxomycetes-plasmodial-protists]] comprise a monophyletic group (Baldauf and Doolittle 1997; Baldauf et al. 2000). While historically studied by mycologists due to their spore-producing fruiting bodies, molecular evidence has conclusively demonstrated that slime molds are not true fungi but belong to a separate eukaryotic lineage, the Amoebozoa, which is more closely related to animals and fungi than to plants.
 
 ## Morphology and Life Cycle
 
@@ -44,11 +44,11 @@ Myxamoebae of compatible mating types fuse to form a zygote, which then undergoe
 
 ## Habitat and Distribution
 
-P. polycephalum is commonly found on rotting wood, leaf litter, and other decaying organic matter in temperate forests worldwide. In the field, large plasmodia are often seen on rotting wood or feeding on wood-rotting basidiomycetes, where they exploit the partially decayed wood as a nutrient source. Plasmodia can also be located by the distinctive slime trails they leave behind as they migrate across surfaces.
+P. polycephalum is commonly found on rotting wood, [[dighton-fungal-decomposition-leaf-litter-dynamics]], and other decaying [[hamilton-composting-and-organic-matter-management]] in temperate forests worldwide. In the field, large plasmodia are often seen on rotting wood or feeding on wood-rotting basidiomycetes, where they exploit the partially decayed wood as a nutrient source. Plasmodia can also be located by the distinctive slime trails they leave behind as they migrate across surfaces.
 
 ### Moist Chamber Cultivation
 
-The moist chamber technique works well for culturing P. polycephalum when harsh environmental conditions prevent fruiting in the field (Braun and Keller 1993). Moist chambers consist of Petri dishes or fingerbowls in which substrata are placed onto an appropriate source of moisture, either moistened paper or agar. This technique is a standard method for collecting and studying myxomycetes from field samples.
+The moist [[moist-chamber-technique-fungal-fruiting]] works well for culturing P. polycephalum when harsh environmental conditions prevent fruiting in the field (Braun and Keller 1993). Moist chambers consist of Petri dishes or fingerbowls in which substrata are placed onto an appropriate source of moisture, either moistened paper or agar. This technique is a standard method for collecting and studying myxomycetes from field samples.
 
 ## Biological Problem-Solving
 

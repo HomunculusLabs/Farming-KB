@@ -43,10 +43,10 @@ loamy. Their manure adds fertility. They leave the ground rough, creating
 diverse microclimates. After the first paddock is worked, move them to the
 next. See [[holzer-assessing-the-land]]):
 - Size, orientation, slope, and microclimates.
-- Soil type (sandy, clay, humus), soil life (worms, woodlice).
+- Soil type (sandy, clay, humus), [[soil-life]] (worms, woodlice).
 - Water situation: rainfall, wells, groundwater level, rainwater catchment.
 - Wind direction and strength.
-- Previous cultivation history.
+- Previous [[cuthill-mushroom-cultivation-history-19th-century]].
 - What would the land look like without human interference?
 
 ## The Fokin Hoe
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

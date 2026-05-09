@@ -1,5 +1,5 @@
 ---
-title: "Fungal Biosensors for Environmental Monitoring"
+title: "singh fungal biosensors environmental monitoring for Environmental Monitoring"
 created: 2026-04-28
 tags: [mycoremediation, biosensors, environmental-monitoring, fungal-biotechnology, detection-methods]
 date: 2026-04-25
@@ -14,7 +14,7 @@ type: concept
 Fungal biosensors are analytical devices that employ fungal biological components
 as biorecognition elements for detecting and quantifying environmental pollutants.
 Singh's treatment of biosensor technology highlights how the sensitivity of fungal
-cells to specific contaminants, combined with advances in signal transduction,
+cells to specific contaminants, combined with advances in [[fungal-environmental-sensing-signal-transduction-read]],
 provides real-time monitoring capabilities essential for effective mycoremediation
 process control and environmental surveillance. These devices complement
 conventional [[gadd-fungal-biofilms-quorum-sensing]] immobilized on a
@@ -41,7 +41,7 @@ growth, or enzyme activity changes, producing measurable signals:
   substrate presence. These are relevant for monitoring [[singh-fungal-biosorption-heavy-metals]]
   events alter ionic composition at the biofilm-transducer interface.
 - **Impedimetric biosensors**: Measure changes in electrochemical impedance
-  spectra of fungal cell layers. Cell membrane damage from toxic compounds
+  spectra of fungal cell layers. [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] damage from toxic compounds
   alters charge transfer resistance.
 
 ### Enzyme-Based Fungal Biosensors
@@ -49,7 +49,7 @@ growth, or enzyme activity changes, producing measurable signals:
 Purified fungal enzymes immobilized on transducer surfaces provide higher
 specificity than whole-cell systems. Key enzyme-based biosensors include:
 
-- **[[singh-fungal-metabolism-phenols-chlorophenols]] and
+- **singh-fungal-metabolism-phenols-chlorophenols and
   detecting phenolic pollutants in wastewater.
 - **Peroxidase biosensors**: Using [[singh-versatile-peroxidase-vp-multifunctional]]
   for detecting peroxide-generating pollutants. The [[fungal-cytochrome-p450-biodegradation]] biosensors**: Fungal cytochrome P450 enzymes detect
@@ -61,7 +61,7 @@ such as Aspergillus and Penicillium spores are commonly employed.
 
 ### Heavy Metal Detection
 
-Fungal biosensors detect heavy metals through several mechanisms. Metal binding
+Fungal biosensors detect heavy metals through several mechanisms. [[chelation-and-metal-binding-in-plants]]
 to cell wall components alters surface charge and conductivity, detectable by
 electrochemical transducers. Metal-induced stress responses upregulate specific
 fungal genes that can be linked to reporter systems. Applications include
@@ -69,9 +69,9 @@ monitoring [[singh-selenium-arsenic-biotransformation-fungi]]
 contamination, and [[singh-fungal-degradation-pesticides]] enzyme systems provide
   specificity for organophosphate, carbamate, and triazine detection.
 - **Phenolic compounds**: Laccase-based biosensors offer sensitive detection
-  of chlorophenols, including [[fungal-treatment-pharmaceutical-wastewater]] and [[fungal-bioreactor-types]] provide real-time
+  of chlorophenols, including fungal-treatment-pharmaceutical-wastewater and [[fungal-bioreactor-types]] provide real-time
 feedback on remediation progress. [[singh-fungal-biosorption-reactors-heavy-metals]]
-for heavy metal treatment use biosensors to detect breakthrough and optimize
+[[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]] treatment use biosensors to detect breakthrough and optimize
 biomass regeneration timing.
 
 ## Advantages and Limitations
@@ -79,7 +79,7 @@ biomass regeneration timing.
 ### Advantages
 
 - **Rapid response**: Biosensors provide results within minutes to hours,
-  compared to days for culture-based methods and hours for chemical analysis.
+  compared to days for culture-based methods and hours for [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]].
 - **Continuous monitoring**: In-situ deployment enables real-time contaminant
   tracking, essential for dynamic remediation environments.
 - **Low cost**: After initial development, biosensor operation costs are

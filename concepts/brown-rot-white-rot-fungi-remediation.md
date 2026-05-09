@@ -5,7 +5,7 @@ updated: 2026-04-19
 type: concept
 tags: [remediation, environment]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources: []
 ---
 
 Updated: 2026-04-18
@@ -43,10 +43,10 @@ Brown rot fungi produce quinone reductases and other enzymes powerful enough to 
 ### Characteristics
 
 White rot fungi are more numerous than brown rotters. They produce enzymes that break down the recalcitrant brown fiber in wood (lignin), leaving the cellulose largely intact — giving the wood a white appearance. White rot fungi are the primary [[cotter-mycoremediation-overview]])
-- **Maitake** (Grifola frondosa)
+- **Maitake** ([[maitake-grifola-frondosa-comprehensive-profile]])
 - **Turkey tail** ([[ganoderma-lucidum-reishi-comprehensive-profile]])
 - **Artist conk** (Ganoderma applanatum)
-- **Crust fungus** (Phanerochaete chrysosporium)
+- **Crust fungus** ([[staycare-phanerochaete-chrysosporium-in-bioremediation]])
 - **Shiitake** (Lentinula edodes)
 
 ***
@@ -73,9 +73,9 @@ Brown rot fungi, with their quinone reductases from species like Gloeophyllum tr
 
 White rot fungi excel at degrading:
 - Petroleum hydrocarbons (diesel, oil, gasoline, coal tar)
-- Chlorinated aromatic compounds (PCBs, dioxins)
+- [[fungal-chlorinated-aromatic-degradation]] compounds (PCBs, dioxins)
 - Pesticides and herbicides (DDT, aldrin, chlordane, atrazine)
-- Anthracenes and polycyclic aromatic hydrocarbons (PAHs)
+- Anthracenes and [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs)
 - Chemical warfare agents (VX, sarin, soman)
 - Textile dyes and estrogen-based pharmaceuticals
 
@@ -85,7 +85,7 @@ White rot fungi excel at degrading:
 
 Some mushroom species produce both types of rot, leaving a mottled white and brown discoloration in wood. Examples include:
 - **Bear's head** (Hericium abietis) — causes white rot in the core while outer regions become brown
-- **Clustered woodlover** (Hypholoma capnoides) — grows on conifers, cedars, and redwoods; produces dark-colored wood despite belonging to the Strophariaceae family of white rotters
+- **Clustered woodlover** ([[growing-gourmet-hypholoma-capnoides-cultivation]]) — grows on conifers, cedars, and redwoods; produces dark-colored wood despite belonging to the Strophariaceae family of white rotters
 
 ***
 
@@ -96,7 +96,7 @@ Stamets provides a comprehensive table mapping mushroom species to their habitat
 | Species | Garden | Wood | Straw | Compost | Rot Type |
 |---------|--------|------|-------|---------|----------|
 | Pleurotus ostreatus | X | X | X | X | White |
-| Trametes versicolor | X | X | X | | White |
+| [[staycare-trametes-versicolor-bioremediation-applications]] | X | X | X | | White |
 | Ganoderma lucidum | X | X | | | White |
 | Grifola frondosa | X | | | X | White |
 | Lentinula edodes | X | X | X | | White |
@@ -107,9 +107,11 @@ Stamets provides a comprehensive table mapping mushroom species to their habitat
 
 ***
 
-## Related Topics
+## Related
 
-- [[mycoremediation-oil-spills]] — Oil spill cleanup case studies
+- [[mycelium-running-white-rot-brown-rot-fungi]] Topics
+
+- mycoremediation-oil-spills — Oil spill cleanup case studies
 - [[cotter-mycoremediation-overview]] — Oyster mushroom bioremediation specifics
 - [[bioavailability-in-fungal-bioremediation]] — Bioavailability considerations in fungal remediation
 - [[mycoremediation]] — Comparison with bacterial bioremediation

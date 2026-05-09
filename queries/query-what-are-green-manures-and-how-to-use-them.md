@@ -21,7 +21,7 @@ fertilizers and herbicides through natural biological processes.
 ## Detailed Explanation
 
 ### Green Manures vs. Cover Crops
-Green manures and cover crops are closely related terms that are often used
+Green manures and [[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil]] closely related terms that are often used
 interchangeably, but they have a subtle distinction. A cover crop is any crop
 grown to protect and improve soil between cash crop cycles, while a green
 manure specifically refers to a crop that is intentionally turned into the
@@ -33,11 +33,11 @@ even small garden spaces can significantly reduce their dependence on imported
 nitrogen fertilizers.
 
 ### Building Soil Organic Matter
-Beyond nitrogen fixation, green manures build soil organic matter. When a dense
+Beyond [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], green manures build soil organic matter. When a dense
 stand of green manure is terminated and decomposes, it adds substantial
 quantities of carbon to the soil in the form of plant residues, root exudates,
 and associated microbial biomass. This organic matter improves soil structure,
-water-holding capacity, cation exchange capacity, and biological activity. The
+water-holding capacity, [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity, and biological activity. The
 [[soil-nutrient-cycling]] process is enhanced because green manure roots explore
 different soil horizons than the preceding cash crop, bringing nutrients from
 deeper layers to the surface.
@@ -45,17 +45,17 @@ deeper layers to the surface.
 ### Choosing the Right Green Manure
 Selecting the right green manure depends on your goals, timing, and climate.
 For nitrogen fixation, clovers (crimson, red, white, and berseem) and vetches
-(hairy vetch, common vetch) are top choices. For rapid biomass production and
+(hairy vetch, common vetch) are top choices. For rapid [[dighton-fungal-biomass-production-aquatic-ecosystems]] and
 weed suppression, buckwheat excels in warm weather and winter rye dominates in
 cool conditions. For deep soil penetration and compaction breaking, daikon
 radish (tillage radish) sends a massive taproot several feet deep that
 decomposes in winter, leaving channels for water infiltration and root
-penetration. For drought tolerance, cowpeas and sorghum-sudangrass perform in
+penetration. For [[dighton-fungal-drought-tolerance-plant-water-relations]], cowpeas and sorghum-sudangrass perform in
 hot, dry conditions.
 
 ### Termination Timing and Methods
 Termination timing affects the balance between biomass production and nutrient
-release. Green manures terminated at the flowering stage offer the best
+release. Green manures terminated at the [[cannabis-flowering-stage-management]] offer the best
 combination of maximum biomass production and sufficient nitrogen content.
 Earlier termination yields less organic matter but releases nitrogen faster
 because younger tissue has a lower carbon-to-nitrogen ratio. Later termination
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,26 +1,28 @@
 ---
-title: "How to Run a Perpetual Cannabis Harvest Cycle"
+title: "How to Run a query how to run perpetual cannabis harvest cycle Harvest Cycle"
 created: 2026-04-28
 tags: [query, cannabis, perpetual-harvest, growing-schedule, yield]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: query
 ---
 
 # How to Run a Perpetual Cannabis Harvest Cycle
 
 ## Short Answer
-A perpetual harvest cycle keeps cannabis plants in multiple growth stages
+A [[cervantes-perpetual-harvest-cycle]] cycle keeps cannabis plants in multiple growth stages
 simultaneously, typically using two or three separate spaces or rooms so
-that a new batch of clones enters the vegetative stage every 2 to 4 weeks
+that a new batch of clones enters the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] every 2 to 4 weeks
 while mature plants are harvested from the flowering room. This system
 provides a steady, predictable supply of cannabis and maximizes the use of
 expensive grow equipment by ensuring that flowering lights and space are
 never sitting empty between harvests.
 
 ## Detailed Explanation
-Most novice growers run their cannabis garden in batches: start seeds or
+Most novice growers run their cannabis garden in batches: [[query-what-is-seed-starting-and-when-should-i-start-seeds-indoors]] or
 clones, grow them through vegetative and flowering stages, harvest
 everything, then start over. This batch approach means that the grow room
 and all its equipment sit idle for weeks after each harvest while new plants
@@ -29,7 +31,7 @@ this downtime by staggering plants across multiple growth stages so that
 there is always something ready to harvest, always something in peak
 flowering, and always something growing vegetatively. The
 [[cannabis-vegetative-stage]] guide covers how to time
-vegetative growth periods so that plants are ready to move into flowering on
+[[cannabis-vegetative-growth-stage]] periods so that plants are ready to move into flowering on
 a predictable schedule.
 
 Cloning is the backbone of any perpetual system. Because you need a steady
@@ -67,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,3 +112,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[cervantes-perpetual-harvest-cycle]]

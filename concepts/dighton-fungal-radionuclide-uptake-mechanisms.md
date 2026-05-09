@@ -1,5 +1,5 @@
 ---
-title: "Fungal Radionuclide Uptake Mechanisms"
+title: "dighton-fungal-radionuclide-accumulation-ecosystem-retention Uptake Mechanisms"
 created: 2026-04-26
 tags:
   - mycology
@@ -17,7 +17,7 @@ type: concept
 # Fungal Radionuclide Uptake Mechanisms
 
 The mechanisms by which fungi accumulate radionuclides involve both
-passive physicochemical processes at the cell wall and active metabolic
+passive physicochemical processes at the [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] and active metabolic
 uptake. Understanding these mechanisms is essential for predicting
 radionuclide behavior in contaminated ecosystems and for developing
 fungal-based remediation strategies. Research following the Chernobyl
@@ -27,7 +27,7 @@ pathways, specificity, and species variation.
 ## Cell Wall Ion Exchange
 
 Radionuclide uptake mechanisms in fungi have been related to cell-wall
-ion exchange sites and by potassium replacement. The fungal cell wall,
+ion exchange sites and by potassium replacement. The [[gadd-fungal-cell-structure]] wall,
 composed of chitin, glucans, and glycoproteins, provides numerous
 negatively charged binding sites that can exchange cations with the
 surrounding solution. Adsorption of radionuclides onto ion-exchange
@@ -39,7 +39,7 @@ composition, which differs among fungal taxa and growth conditions.
 
 Potassium replacement is species-specific in its mechanism. In the
 filamentous fungus [[glomus-mosseae]] significantly
-increased strontium-90 uptake. However, arbuscular mycorrhizal
+increased strontium-90 uptake. However, [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]]
 symbiosis in Festuca ovina reduced radiocesium uptake into shoots.
 Clint and Dighton (1992) showed that radiocesium influx into
 mycorrhizal heather (Calluna vulgaris) was lower than into
@@ -66,8 +66,8 @@ radionuclide leaching.
 
 ## Sources
 
-- Dighton, J. (2003). Fungi in Ecosystem Processes. Marcel Dekker.
-  Chapter 6: Fungal Interactions with Humans.
+- Dighton, J. (2003). Fungi in [[fungal-ecosystem-processes-overview]]. Marcel Dekker.
+  Chapter 6: [[singh-fungal-interactions-with-heavy-metals-in-soil]] with Humans.
 ## Practical Considerations
 
 Successful implementation of Fungal Radionuclide Uptake Mechanisms requires attention to
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: "Club des Hachischins and Nineteenth-Century Literary Hashish"
+title: "mckenna club des hachischins and nineteenth century literary hashish Hachischins and Nineteenth-Century Literary Hashish"
 created: 2026-05-06
 tags:
   - history
@@ -24,7 +24,7 @@ The Club des Hachischins was a celebrated circle of nineteenth-century French wr
 artists, and intellectuals who gathered regularly in Paris to explore the effects of
 cannabis under controlled conditions. Meeting in the damask-hung rooms of the Hotel
 Luzan on the Ile St.-Louis, these respectable literary figures conducted what were
-essentially private experiments in consciousness expansion.
+essentially private experiments in [[mckenna-consciousness-expansion-and-drug-war]].
 
 The club represented a unique moment in drug history: a period when psychoactive
 substances were not controlled and carried no social stigma among the educated
@@ -42,7 +42,7 @@ the Parisian Bohemian demimonde.
 The meetings were organized and supplied by J.J. Moreau de Tours, a world
 traveler and psychiatrist who provided a form of jellied Algerian hashish called
 dawamesc. Moreau was a serious researcher who believed that the study of
-[[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] study of the psychological effects of cannabis.
+[[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] study of the [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] of cannabis.
 
 Moreau's central thesis was that hashish intoxication mimicked certain forms of
 mental illness and that by studying these artificially induced states, one could
@@ -52,7 +52,7 @@ framework that had previously characterized discussions of intoxication.
 
 His detailed accounts of hashish effects sparked interest across Europe,
 setting off a wave of experimentation. His methodology of careful
-self-observation would later influence psychedelic research protocols.
+self-observation would later influence [[mckenna-suppression-psychedelic-research-lsd-therapy]] protocols.
 
 ## The Romantic Context
 
@@ -77,7 +77,7 @@ frontiers.
 
 While the French explored hashish in club settings, American writers pursued a
 more solitary and literary engagement with the drug. Fitz Hugh Ludlow, a
-little-known bon vivant of [[nineteenth-century-mycology-public-ignorance]] deur that nineteenth-century hashish eaters routinely reported.
+little-known bon vivant of nineteenth-century-mycology-public-ignorance deur that nineteenth-century hashish eaters routinely reported.
 Taylor's approach was knowledge-seeking rather than hedonistic, and for him the
 drug states raised genuine questions about human psychology.
 
@@ -89,7 +89,7 @@ the Romantic sensibility were almost made for each other.
 
 The legal and intellectual ambience surrounding drug use in the early nineteenth
 c [[mckenna-modest-proposal-drug-policy-reform]] ious inquiry remains a model for what
-rational drug policy might look like.
+rational [[mckenna-modest-proposal-drug-policy-reform]] might look like.
 
 ## The Decline of Literary Hashish
 
@@ -101,6 +101,8 @@ The tradition persisted in attenuated form through the Beat Generation of the
 1950s and the psychedelic counterculture of the 1960s. But the genteel,
 scholarly atmosphere of the Club des Hachischins would never be replicated.
 ## See Also
+
+- [[mckenna-orientomania-and-european-discovery-of-hashish]]
 
 - [[mckenna-hashish-scythians-and-classical-cannabis]]
 - [[mckenna-cannabis-culture-history]]

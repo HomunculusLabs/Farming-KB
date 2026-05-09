@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Growing Gourmet and Medicinal Mushrooms (Stamets, 1993), Chapter 15
+  - Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive (Stamets, 1993), Chapter 15
 type: concept
 created: 2026-04-28
 ---
@@ -20,7 +20,7 @@ created: 2026-04-28
 
 ## Overview
 
-Spawn storage is one of the most underappreciated yet critical aspects of mushroom cultivation. The vitality of mushroom spawn declines predictably from the moment it reaches full colonization. How spawn is stored, for how long, and under what conditions directly determines whether a cultivation project succeeds or fails. Understanding the biology of spawn aging enables cultivators to make informed decisions about timing, inventory management, and quality control.
+Spawn storage is one of the most underappreciated yet critical aspects of [[accessible-mushroom-cultivation-for-disabilities]]. The vitality of mushroom spawn declines predictably from the moment it reaches full colonization. How spawn is stored, for how long, and under what conditions directly determines whether a cultivation project succeeds or fails. Understanding the biology of spawn aging enables cultivators to make informed decisions about timing, inventory management, and quality control.
 
 ## The Inevitable Decline of Spawn Viability
 
@@ -76,18 +76,21 @@ Refrigeration blowers and cooling elements attract and collect dust particles, w
 
 ## Species-Specific Cold Sensitivity
 
-Some species are more receptive to cold storage than others. Tropical species may die upon exposure to cold temperatures. Volvariella volvacea (the Paddy Straw Mushroom) is one notable example that cannot tolerate refrigeration at all.
+Some species are more receptive to cold storage than others. Tropical species may die upon exposure to cold temperatures. [[paddy-straw-mushroom-volvariella-volvacea-cultivation]] (the Paddy Straw Mushroom) is one notable example that cannot tolerate refrigeration at all.
 
-Conversely, cold-weather Oyster strains (Pleurotus ostreatus and allies) can be shocked into fruiting upon placement into a cold room. Cultivators commonly observe Oyster mushrooms fruiting frantically within spawn containers that were otherwise hermetically sealed. The force of this premature fruiting can actually split plastic seams, unscrew lids on bottles, and force apart filter membranes.
+Conversely, cold-weather Oyster strains (Pleurotus ostreatus and allies) can be shocked into fruiting upon placement into a cold room. Cultivators commonly observe [[query-how-to-grow-oyster-mushrooms-at-home]] fruiting frantically within spawn containers that were otherwise hermetically sealed. The force of this premature fruiting can actually split plastic seams, unscrew lids on bottles, and force apart filter membranes.
 
 ## The Commercial Spawn Industry Problem
 
-Cold storage of spawn is widely utilized by the commercial Agaricus (Button mushroom) industry, which has historically been fractured into specialty companies producing spawn separately from those growing mushrooms. When inventories exceed demand, spawn is kept for as long as possible under refrigeration. Often the consumer, not knowing better, becomes the victim of a spawn producer's over-production.
+Cold storage of spawn is widely utilized by the commercial Agaricus ([[growing-gourmet-button-mushroom-agaricus-cultivation]]) industry, which has historically been fractured into specialty companies producing spawn separately from those [[falconer-growing-mushrooms-in-sheds]]. When inventories exceed demand, spawn is kept for as long as possible under refrigeration. Often the consumer, not knowing better, becomes the victim of a spawn producer's over-production.
 
 If the spawn fails, the excuse heard more often than not is that the spawn was mishandled by the purchaser. This type of business relationship is intrinsically problematic and represents yet another reason why mushroom farms should generate their own spawn whenever possible.
 
 ## See Also
 
 - [[growing-gourmet-spawn-production]]
-- [[growing-gourmet-stock-culture-library]]
+- growing-gourmet-stock-culture-library
 - [[growing-gourmet-strain-senescence-degeneration]]
+- [[oyster-mushroom]]
+- [[pleurotus-ostreatus]]
+- [[volvariella-volvacea]]

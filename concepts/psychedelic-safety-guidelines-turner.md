@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Safety Guidelines - Turner
+title: Psychedelic psychedelic safety guidelines turner - Turner
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -22,7 +22,7 @@ Based on D.M. Turner's "The Essential Psychedelic Guide" and 18 years of persona
 - Fasting or dietary changes prior to tripping can reduce nauseous feelings
 
 ### MAO Inhibitors
-Two psychedelics discussed are MAO inhibitors: 5-MeO-DMT and the Harmala alkaloids. MAO (Mono-Amine-Oxidase) is an enzyme that breaks down certain foods and chemicals. If these are present while taking an MAO inhibitor, they will not be broken down, potentially causing discomfort, illness, or death.
+Two psychedelics discussed are MAO inhibitors: 5-MeO-DMT and the [[turner-harmala-alkaloids-preparation-and-dosage]]. MAO (Mono-Amine-Oxidase) is an enzyme that breaks down certain foods and chemicals. If these are present while taking an MAO inhibitor, they will not be broken down, potentially causing discomfort, illness, or death.
 
 **Very Dangerous with MAO Inhibitors:**
 - Sedatives and tranquilizers
@@ -39,7 +39,7 @@ Two psychedelics discussed are MAO inhibitors: 5-MeO-DMT and the Harmala alkaloi
 
 **Potentially Dangerous with MAO Inhibitors:**
 - Beer, white wine
-- Cocoa, yeast extract
+- Cocoa, [[marmite-yeast-extract-straw-substrate]]
 - Pineapple, sauerkraut, pickled herring
 - Soy sauce, cream
 - Avocados (especially overripe), bananas (especially overripe)
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

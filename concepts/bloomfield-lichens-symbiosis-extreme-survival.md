@@ -12,7 +12,7 @@ type: concept
 
 Lichens are composite organisms formed from the symbiotic partnership
 between fungi and photosynthetic algae or cyanobacteria. They represent
-one of the most successful life strategies on Earth, colonizing extreme
+one of the most successful [[microfungal-life-strategies-ruderal-competitive-stress-tolerant]] on Earth, colonizing extreme
 environments from arctic tundra to tropical forests, and from bare rock
 to tree bark. Despite their ecological importance, they remain
 understudied relative to their diversity and abundance.
@@ -41,7 +41,7 @@ surface that blast ascospores into the air. A smaller selection of
 basidiomycetes also form lichens, bearing tiny mushrooms rather than
 cups. Close to half of all identified fungi are ascomycetes, and
 more than forty percent of these, approximately 13,500 species, are
-lichens. This makes lichenized fungi one of the largest groups of
+lichens. This makes [[biodiversity-lichenized-fungi-symbiosis]] one of the largest groups of
 organisms on the planet.
 
 ## Melanin Protection
@@ -53,7 +53,7 @@ and gamma rays. The energy from this radiation is transferred deep
 into the pigment's molecular structure and emitted as heat, protecting
 the photosynthetic pigments of the algal partner from UV damage. The
 pigment may also delay freezing by warming the lichen, prolonging
-metabolic activity at low temperatures.
+[[arbuscule-isolation-metabolic-activity-assays]] at low temperatures.
 
 Melanin's protective role extends to free-living fungi as well. Dark-
 pigmented fungi can survive on exposed surfaces like garden sheds and
@@ -84,7 +84,7 @@ Lichens grow extremely slowly. Crustose species form circular
 mycelial signatures on rocks, slate roofing, and tombstones at rates
 of a few millimeters or at most a centimeter per year. This slow
 growth, combined with their sensitivity to air pollution (especially
-sulfur dioxide), makes lichens valuable bioindicators of air quality.
+sulfur dioxide), makes lichens valuable bioindicators of [[cervantes-air-quality-ventilation]].
 Their presence or absence on tree bark or stone surfaces can reveal
 the pollution history of an area.
 
@@ -120,8 +120,10 @@ pollutants making them living monitors of environmental health.
 
 ## Related
 
+- [[bloomfield-ascospore-extreme-resilience-electron-microscope-survival]]
+
 - [[bloomfield-fungal-biology-and-hyphal-growth]] for the
   fundamental biology of the fungal partners in lichens
 - [[fungal-symbiosis-with-plants]]
-- [[fungal-ecology-decomposition-cycles]] for fungal roles in
-  ecosystem processes
+- [[fungal-ecology-decomposition-cycles]] for [[dighton-fungal-roles-in-nutrient-cycling]] in
+  [[fungal-ecosystem-processes-overview]]

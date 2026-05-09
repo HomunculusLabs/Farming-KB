@@ -5,7 +5,8 @@ updated: 2026-04-21
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 # Raised Beds
 
@@ -13,7 +14,7 @@ From "Sepp Holzer's Permaculture" by Sepp Holzer.
 
 ## Advantages Over Ground-Level Beds
 
-Raised beds have a substantial advantage over normal beds at ground level. They create microclimates, which according to their position relative to the course of the sun and prevailing wind direction, provide very different plants with the conditions they need. The beds are built loosely, which helps the soil to retain more water, and they soak up rainwater like a sponge.
+Raised beds have a substantial advantage over normal beds at ground level. They [[query-how-do-i-create-microclimates-in-my-garden]], which according to their position relative to the course of the sun and prevailing wind direction, provide very different plants with the conditions they need. The beds are built loosely, which helps the soil to retain more water, and they soak up rainwater like a sponge.
 
 The water is stored in the lower levels of the beds and the hollows between them, while the raised part dries out far more quickly. The result is both dry and wet areas. The raised part warms up more quickly, a great advantage in colder climates and at high altitudes. Well-aerated and correctly-planted raised beds can help to slow down the freezing of the topsoil.
 
@@ -53,7 +54,7 @@ holzer raised bed design principles | [[holzer-terrace-construction-guide]] | [[
 - Walk the land extensively during different seasons and weather conditions before beginning any earthworks or planting.
 - Construct raised beds using available materials — logs, branches, soil, and organic matter in layered mounds.
 - Install ponds and water features at high points to enable gravity-fed irrigation and create reflective microclimates.
-- Integrate livestock grazing patterns with crop rotation to naturally fertilize and manage vegetation.
+- Integrate [[savory-livestock-grazing-planning]] patterns with crop rotation to naturally fertilize and manage vegetation.
 - Plant fruit trees and berry bushes on mounds and slopes where water drainage is optimal.
 - Use stone walls and large rocks as thermal mass to create warm microclimates for heat-loving crops.
 - Establish polyculture strips with diverse root depths, growth habits, and maturity dates.
@@ -67,11 +68,11 @@ Related topics in this wiki include: [[sepp-holzer-method]], [[sepp-holzer-terra
 
 Sepp Holzer began farming on his family's steep mountain land in Austria as a teenager, learning through experimentation.
 The Krameterhof demonstrates that high-altitude farms can be more productive than conventional lowland operations.
-Holzer's fish ponds serve multiple functions: aquaculture, irrigation, fire protection, and microclimate creation.
-Terrace construction on slopes prevents erosion while creating level planting areas with improved water retention.
-Mushroom cultivation on logs and in raised beds provides additional food production and aids decomposition.
+Holzer's fish ponds serve multiple functions: aquaculture, irrigation, fire protection, and [[mollison-designers-microclimate-creation-frost-protection]].
+[[holzer-terrace-construction-guide]] on slopes prevents erosion while creating level planting areas with improved water retention.
+[[accessible-mushroom-cultivation-for-disabilities]] on logs and in raised beds provides additional food production and aids decomposition.
 Holzer's pig paddock system uses animals to root and fertilize soil in controlled areas before planting.
-Ancient grain varieties selected for mountain conditions show superior resilience and nutritional quality.
+Ancient grain varieties selected for mountain conditions show superior resilience and [[coleman-winter-greens-nutritional-quality-cold-sweetening]].
 The method has been successfully adapted in projects across Europe, Africa, Asia, and the Americas.
 ## Practical Considerations
 
@@ -91,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

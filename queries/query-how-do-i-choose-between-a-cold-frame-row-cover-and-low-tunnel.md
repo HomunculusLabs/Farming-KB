@@ -8,7 +8,7 @@ sources:
   - https://extension.umn.edu/yard-and-garden-planning/season-extension-techniques
   - https://attra.ncat.org/attra-pub/summaries/summary.php?pub=299
   - https://www.sare.org/publications/season-extension-techniques-for-market-gardeners/
-  - Coleman, Eliot. The Winter Harvest Handbook. Chelsea Green, 2009.
+  - Coleman, Eliot. The [[coleman-claytonia-winter-harvest-cultivation]] Handbook. Chelsea Green, 2009.
 type: query
 ---
 
@@ -17,10 +17,10 @@ type: query
 ## Quick Answer
 
 - **Row cover** (floating or wire-supported) → Best for large areas, insect exclusion, and light frost (2–6 °F of protection) on a tight budget.
-- **Low tunnel** (hoops + poly or row cover) → Best when you need taller clearance, stronger wind protection, and 6–10 °F of frost protection over multiple rows.
+- **Low tunnel** (hoops + poly or row cover) → Best when you need taller clearance, stronger [[cervantes-wind-protection-outdoor-cannabis]], and 6–10 °F of [[holzer-frost-protection-techniques]] over multiple rows.
 - **Cold frame** (rigid box with glazing) → Best for seed starting, hardening off transplants, and growing cold-hardy greens through deep winter in a permanent, insulated structure.
 
-Start with row covers if you're new to season extension. Add low tunnels for taller crops or harsher conditions. Invest in cold frames when you need a reliable, year-round growing shelter.
+Start with row covers if you're new to [[cervantes-season-extension-cloches-row-covers]]. Add low tunnels for taller crops or harsher conditions. Invest in cold frames when you need a reliable, year-round growing shelter.
 
 ## Decision Matrix
 
@@ -63,7 +63,7 @@ A low tunnel uses metal or PVC hoops (typically 3–4 ft tall) covered with poly
 A cold frame is a bottomless box with a transparent lid (glass, polycarbonate, or heavy poly) angled toward the south. Choose it when:
 
 - **You're starting seeds in late winter.** Cold frames warm the soil weeks before the ground thaws, letting you sow hardy greens (spinach, arugula, mache) in February or March.
-- **You need to harden off transplants.** A cold frame provides a protected intermediate step between indoor grow lights and the open garden, reducing transplant shock.
+- **You need to harden off transplants.** A cold frame provides a protected intermediate step between indoor grow lights and the open garden, reducing [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]].
 - **You want to grow through winter.** With an insulated base and double-glazed lid, a cold frame can sustain cold-hardy crops (kale, leeks, carrots) through Zones 5–6 winters—especially with a row cover blanket inside.
 - **You prefer a permanent garden feature.** Unlike tunnels and covers that get stored each season, a well-built cold frame stays in place year-round, ready whenever you need it.
 
@@ -74,7 +74,7 @@ A cold frame is a bottomless box with a transparent lid (glass, polycarbonate, o
 Absolutely—layering is the secret to serious season extension:
 
 - **Row cover inside a cold frame** → Adds 4–6 °F on top of the frame's protection. This combo can keep plants alive through single-digit nights in Zone 5–6.
-- **Low tunnel over a cold-frame bed** → Unusual but effective: build the cold frame at ground level and stretch a low tunnel over the whole thing for a double-insulated growing space.
+- **Low tunnel over a cold-frame bed** → Unusual but effective: build the cold frame at ground level and stretch a low tunnel over the whole thing for a double-insulated [[cotter-growing-space-design-fruiting-rooms]].
 - **Row cover under a low tunnel** → The most common combo. Hoops hold the main cover; a lightweight fabric draped directly on plants adds frost insurance on the coldest nights.
 
 The general rule: each additional layer adds roughly 2–5 °F of protection, but also reduces light transmission. Remove inner layers during the day or on sunny days to avoid etiolation and overheating.

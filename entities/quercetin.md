@@ -27,7 +27,7 @@ aliases:
 ---
 # Quercetin
 
-**Quercetin** (3,3',4',5,7-pentahydroxyflavone) is a plant-derived flavonoid polyphenol and one of the most abundant and extensively studied bioactive compounds in the human diet. A potent antioxidant, anti-inflammatory, and immunomodulatory agent, quercetin is found in high concentrations in capers, red onions, kale, berries, apples, tea, and red wine. Beyond its dietary presence, quercetin has attracted intense research interest for its senolytic properties (ability to selectively kill senescent cells), exercise performance benefits, antiviral activity, and potential in preventing and treating chronic diseases including cardiovascular disease, neurodegenerative conditions, and cancer.
+**Quercetin** (3,3',4',5,7-pentahydroxyflavone) is a plant-derived flavonoid polyphenol and one of the most abundant and extensively studied [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] in the human diet. A potent antioxidant, anti-inflammatory, and immunomodulatory agent, quercetin is found in high concentrations in capers, red onions, kale, berries, apples, tea, and red wine. Beyond its dietary presence, quercetin has attracted intense research interest for its senolytic properties (ability to selectively kill senescent cells), exercise performance benefits, antiviral activity, and potential in preventing and treating chronic diseases including cardiovascular disease, neurodegenerative conditions, and cancer.
 
 ## Chemical Identity
 
@@ -36,14 +36,14 @@ aliases:
 - **Molecular Weight:** 302.24 g/mol
 - **CAS Number:** 117-39-5
 - **Appearance:** Yellow-green crystalline powder
-- **Solubility:** Poorly soluble [[piperine]] (from black pepper):** Inhibits hepatic glucuronidation, potentially increasing quercetin bioavailability
+- **Solubility:** Poorly soluble [[piperine]] (from [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]]):** Inhibits hepatic [[glucuronidation]], potentially increasing quercetin bioavailability
 - **Fats:** Quercetin absorption is enhanced when consumed with dietary fat due to improved micelle formation in the intestine
 - **Fermentation:** [[curcumin]]
-- [[resveratrol]]
+- resveratrol
 - rutin
-- kaempferol
-- apigenin
-- luteolin
+- [[kaempferol]]
+- [[apigenin]]
+- [[luteolin]]
 - catechin
 ## Practical Considerations
 
@@ -61,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -104,3 +104,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[punica-granatum]]

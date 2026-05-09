@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-**Monarda didyma**, commonly known as bee balm, Oswego tea, or crimson beebalm, is a perennial herbaceous plant in the mint family (Lamiaceae). Native to eastern North America, it is cultivated widely for its striking scarlet flowers, aromatic foliage, and medicinal properties. The common name "bee balm" reflects its historical use as a poultice for bee stings and its attractiveness to pollinators. "Oswego tea" derives from the Oswego people of the Iroquois Confederacy, who taught early settlers to brew the leaves as a tea substitute after the Boston Tea Party.
+**Monarda didyma**, commonly known as bee balm, Oswego tea, or crimson beebalm, is a perennial herbaceous plant in the mint family (Lamiaceae). Native to [[polypore-fungi-eastern-north-america]] America, it is cultivated widely for its striking scarlet flowers, aromatic foliage, and medicinal properties. The common name "bee balm" reflects its historical use as a poultice for bee stings and its attractiveness to pollinators. "Oswego tea" derives from the Oswego people of the Iroquois Confederacy, who taught early settlers to brew the leaves as a tea substitute after the Boston Tea Party.
 
 ## Taxonomy
 
@@ -56,7 +56,7 @@ sources:
 
 **Oswego tea:** Leaves brewed as a tea substitute, especially popular during the American Revolution after British tea was boycotted. The flavor is reminiscent of Earl Grey tea due to the bergamot-like aroma.
 
-**Medicinal:** Native American uses included:
+**Medicinal:** [[halpern-sacramental-peyote-and-native-american-church]] uses included:
 - Iroquois: leaf tea for colds, fever, and stomach ailments
 - Cherokee: poultice of crushed leaves for headaches and skin infections
 - Blackfoot: infusion for mouth and throat infections
@@ -74,7 +74,7 @@ sources:
 
 **Propagation:** Division of established clumps in spring or autumn; softwood cuttings in early summer; seed (stratification improves germination). Division every 3–4 years maintains vigor.
 
-**Maintenance:** Deadheading extends bloom period. Cut back to ground level in autumn. Susceptible to powdery mildew (Erysiphe cichoracearum), especially in humid conditions with poor air circulation — resistant cultivars are available.
+**Maintenance:** Deadheading extends bloom period. Cut back to ground level in autumn. Susceptible to [[cervantes-powdery-mildew-prevention-treatment]] (Erysiphe cichoracearum), especially in humid conditions with poor air circulation — resistant cultivars are available.
 
 **Notable cultivars:**
 - 'Jacob Cline' — tall (120 cm), mildew-resistant, deep red
@@ -97,11 +97,11 @@ Deer generally avoid browsing due to the aromatic, strongly flavored foliage.
 Bee balm is a versatile multi-functional plant in permaculture designs:
 
 - **Pollinator support** — provides nectar during the mid-summer gap when many other plants have finished flowering
-- **Dynamic accumulator** — deep roots mine minerals from subsoil, accessible through surface mulch or compost
+- **[[nutrient-dynamic-accumulator-reference]]** — deep roots mine minerals from subsoil, accessible through surface mulch or compost
 - **Herb layer in food forests** — fills the 60–120 cm niche between ground covers and small shrubs
 - **Edge plantings** — thrives at the interface between cultivated areas and wild zones
-- **Medicinal guild** — integrates well with other medicinal herbs in a dedicated [[companion-planting]]** — aromatic foliage may help deter certain pest insects when interplanted with tomatoes and peppers
-- **Erosion control** — spreading rhizomes stabilize soil along stream banks and swales
+- **Medicinal guild** — integrates well with other [[permaculture-plants-medicinal-herbs-healing]] in a dedicated [[companion-planting]]** — aromatic foliage may help deter certain pest insects when interplanted with tomatoes and peppers
+- **[[permplant-willows-salix-erosion-control-fodder]]** — spreading rhizomes stabilize soil along stream banks and swales
 
 ## Related Species
 

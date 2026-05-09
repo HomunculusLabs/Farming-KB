@@ -1,5 +1,5 @@
 ---
-title: Cannabis Seed Purchasing, Ordering, and Storage
+title: cervantes cannabis seed purchasing storage Purchasing, Ordering, and Storage
 created: 2026-04-28
 tags:
   - seed-purchasing
@@ -9,19 +9,20 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 synonyms:
   - seed ordering
-  - seed bank security
+  - [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]] security
   - discreet shipping
   - seed viability
-  - seed germination storage
+  - [[cannabis-seed-germination-methods]] storage
 type: concept
 ---
 
 # Cannabis Seed Purchasing, Ordering, and Storage
 
-Jorge Cervantes provides detailed guidance on acquiring cannabis seeds
+Jorge Cervantes provides detailed guidance on acquiring [[query-how-to-store-cannabis-seeds-for-long-term-viability]]
 safely and storing them properly to maintain viability. In many
 jurisdictions, seed acquisition carries legal risk, making discretion
 paramount.

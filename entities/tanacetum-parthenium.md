@@ -30,9 +30,9 @@ sources:
 
 **Tanacetum parthenium**, commonly known as feverfew, is a perennial herbaceous
 plant in the family Asteraceae. Native to the Balkan Peninsula and the Caucasus,
-it has become naturalized across Europe, North America, and temperate regions
+it has become naturalized across Europe, [[psilocybin-north-america-pacific-northwest]], and temperate regions
 worldwide. Feverfew is best known for its long history of use in preventing
-migraine headaches and reducing fever, with modern clinical trials supporting
+migraine headaches and reducing fever, with modern [[mushroom-cancer-clinical-trials-overview]] supporting
 its prophylactic efficacy against migraines.
 
 The plant bears a strong aromatic scent reminiscent of chamomile, to which it

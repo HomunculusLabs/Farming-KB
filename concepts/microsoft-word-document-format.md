@@ -1,5 +1,5 @@
 ---
-title: Microsoft Word Document Format
+title: [[microsoft-word]] binary-document-format-reverse-engineering
 created: 2026-04-28
 tags: [document-format, word-processing, file-format, microsoft-office]
 date: 2026-04-28
@@ -10,7 +10,7 @@ type: concept
 
 # Microsoft Word Document Format
 
-Microsoft Word document formats are the file formats used by Microsoft Word,
+Microsoft [[word-document-formats]] are the file formats used by Microsoft Word,
 one of the most widely used word processing applications in the world. The
 formats have evolved significantly over several decades, from proprietary
 binary formats to open XML-based standards.

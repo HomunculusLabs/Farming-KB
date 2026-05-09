@@ -1,10 +1,11 @@
 ---
-title: Orchard Insects and the Pruning Connection
+title: fukuoka orchard insects pruning connection and the Pruning Connection
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [regenerative, troubleshooting]
-sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Orchard Insects and the Pruning Connection
@@ -17,11 +18,11 @@ This insight is fundamental to his [[fukuoka-pest-ecology]] in orchard systems.
 
 ## The Original Orchard Experiment
 
-When Fukuoka first went up to the citrus orchard to practice what he
-thought was natural farming before the end of the war, he did no
+When Fukuoka first went up to the [[fukuoka-citrus-orchard-establishment-bare-hillside]] to practice what he
+thought was [[comparison-natural-farming-vs-permaculture]] before the end of the war, he did no
 pruning and left the orchard to itself. The trees had already been
 improperly pruned by his father, with branches intertwined, and the
-entire orchard withered away. The mandarin orange trees died.
+entire orchard withered away. The [[fukuoka-mandarin-orange-citrus]] trees died.
 
 This experience forced him to reconsider what "natural" really means.
 It is not enough to simply abandon previously mismanaged trees. True
@@ -61,7 +62,7 @@ of a tree is inherently strong and resistant.
 Fukuoka drew a parallel between raising children and raising fruit
 trees. In raising children, many parents make the same mistake he made
 in the orchard at first. For example, teaching music to children is as
-unnecessary as pruning orchard trees. When children are raised in a
+unnecessary as [[fukuoka-textdoc-no-weeding-no-fertilizer-no-pruning-orchard-conclusion]] trees. When children are raised in a
 natural environment without forced instruction, they develop their own
 natural abilities.
 
@@ -73,7 +74,7 @@ pruned tree loses its natural form and becomes susceptible to pests.
 ## Insects as Indicators
 
 In Fukuoka's naturally managed orchard, where trees were not pruned
-and grew in a diverse community of weeds and ground cover, insect
+and grew in a diverse community of weeds and [[fukuoka-ground-cover-strategy]], insect
 problems were minimal. When insects did appear, they were a sign that
 something was out of balance. Rather than reaching for pesticides,
 Fukuoka would look for the underlying cause -- usually related to some

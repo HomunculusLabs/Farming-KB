@@ -1,10 +1,11 @@
 ---
-title: "Aquaculture in Permaculture vs Backyard Pond Building"
+title: "Aquaculture in Permaculture vs comparison aquaculture in permaculture vs backyard pond building Building"
 created: 2026-04-28
 tags: [comparison, water-systems, aquaculture, permaculture, pond-management]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: comparison
 ---
@@ -15,15 +16,15 @@ type: comparison
 
 Water systems on a homestead or farm can range from simple wildlife ponds to complex
 integrated aquaculture ecosystems. [[backyard-pond-building]] represent two ends of this spectrum. Permaculture aquaculture, rooted in Bill
-Mollison's design principles, treats water as a highly productive resource that yields more
+Mollison's [[holmgren-permaculture-twelve-design-principles-framework]], treats water as a highly productive resource that yields more
 food per unit area than land-based agriculture when properly managed. Backyard pond building
 takes a more accessible approach, focusing on wildlife habitat, aesthetics, water storage,
 and moderate ecological benefit.
 
-Both approaches share foundational principles like edge effect maximization, species
+Both approaches share foundational principles like [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]] maximization, species
 diversity, and natural biological filtration. The key differences lie in scale, primary
 purpose, management intensity, and the degree of food production integration. Understanding
-these distinctions helps you choose the right approach for your property, goals, and
+these distinctions helps you [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] approach for your property, goals, and
 available time commitment.
 
 ## Aquaculture in Permaculture
@@ -49,7 +50,7 @@ recommended to maintain stable water temperatures and chemistry. Goldfish and ko
 most common choices for backyard ponds, though native minnows and mosquito fish provide
 excellent mosquito control with minimal feeding requirements.
 
-Site selection is critical. Full sun encourages beneficial plant growth and supports a
+[[fukuoka-creating-natural-farm-site-selection-establishment]] is critical. Full sun encourages beneficial plant growth and supports a
 healthy ecosystem, but locating under trees leads to constant leaf debris. A balance of
 morning sun and afternoon shade is often ideal.
 
@@ -81,7 +82,7 @@ extract maximum caloric yield from every acre.
 
 The dryland rotation cycle is particularly valuable for homesteaders who want to integrate
 aquatic and terrestrial food production without relying on external fertilizers. The
-nutrient cycling between pond sediment and cropland creates a self-reinforcing fertility
+[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] between pond sediment and cropland creates a self-reinforcing fertility
 loop that reduces or eliminates the need for purchased amendments.
 
 ## When to Choose Backyard Pond Building

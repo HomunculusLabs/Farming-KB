@@ -1,5 +1,5 @@
 ---
-title: Substrate Preparation Mushroom Growing
+title: cotter-compost-substrate-preparation-manure-mushroom-cultivation duggar-mushroom-growing-history-and-methods
 created: 2026-04-28
 tags: [substrate-preparation, mushroom-bags, sawdust, rice-straw,
   pasteurization, inoculation]
@@ -65,8 +65,8 @@ The standard sawdust-based substrate recipe per 100 kg sawdust base:
 
 This recipe serves as a reference and can be modified by adding rice
 flour, sticky rice flour, corn flour, cassava peels, cotton waste, soybean
-residue, and other nutritious agricultural waste. In cool climates,
-additives up to 20 percent are acceptable. For hot climatic zones, do not
+residue, and other nutritious [[fungi-in-composting-and-agricultural-waste-conversion]]. In [[greenhouse-cool-climates-mollison]],
+additives up to 20 percent are acceptable. For hot [[permaculture-designers-manual-climatic-zones-tropical]], do not
 exceed 7.5 percent additives.
 
 ## Bag Production Process
@@ -80,7 +80,7 @@ exceed 7.5 percent additives.
 5. **Fill plastic bags** (polypropylene 7 x 12.5 inches) with substrate
    using a small shovel while sitting on the floor.
 6. **Compact substrate** by hitting bags with an empty bottle or hand,
-   or use a compacting machine for higher production and quality.
+   or use a compacting machine for higher [[cannabis-resin-production-and-quality-traits-clarke]].
 7. **Place plastic ring** on the bag neck.
 8. **Pull top through** the plastic neck and fold down on the ring.
 9. **Tie with rubber band** to secure.

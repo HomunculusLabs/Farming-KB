@@ -1,5 +1,5 @@
 ---
-title: "Three Distinctive Features of Traditional Shamanic Entheogenic Ceremonies"
+title: "Three metzner-three-distinctive-features-shamanic-entheogenic-ceremonies of Traditional Shamanic metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti"
 source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 author: Ralph Metzner
 tags: [shamanism, ceremony, singing, darkness, silence, entheogen, ritual, icaros]
@@ -63,7 +63,7 @@ own training. Each *icaro* has a specific function—some for calling protective
 spirits, some for extracting illness, some for opening visionary portals. The
 shaman's repertoire of songs constitutes their primary therapeutic toolkit.
 
-In the Mazatec mushroom ceremonies of Mexico, the healer "sings almost
+In the [[maria-sabina-mazatec-mushroom-ceremony]] ceremonies of Mexico, the healer "sings almost
 uninterruptedly throughout the night, weaving into his or her chants the names
 of Christian saints, spirit allies and the spirits of the Earth, the elements,
 animals and plants, the sky, the waters and the fire." The syncretic blending
@@ -74,7 +74,7 @@ cultural adaptation.
 
 The third distinctive feature is that traditional ceremonies "are almost always
 done in darkness or low light—which facilitates the emergence of visions." The
-exception is the peyote ceremony of the Native American Church, conducted around
+exception is the peyote ceremony of the [[halpern-sacramental-peyote-and-native-american-church]] Church, conducted around
 a central fire, where participants may see visions by staring into the flames.
 
 Darkness serves multiple functions in the entheogenic context. It eliminates
@@ -129,9 +129,9 @@ a ritually defined visual space.
 
 Metzner noted that modern "hybrid therapeutic-shamanic rituals" have
 incorporated all three of these features from the shamanic model. Neoshamanic
-medicine circles typically use eye-shades to create darkness, employ recorded
+[[metzner-neoshamanic-medicine-circles-structure-and-practice]] typically use eye-shades to create darkness, employ recorded
 or live drumming and singing, and minimize verbal interaction during the
-expanded state. The talking staff or council practice further structures
+expanded state. The [[metzner-talking-staff-and-preparation-integration-in-hybrid-ceremonies]] or council practice further structures
 silence: only the person holding the staff speaks or sings, and there is no
 discussion, questioning, or interpretation.
 ## See Also

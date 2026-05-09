@@ -1,128 +1,102 @@
 ---
-title: Fungal Building Material Deterioration
+title: Fungal fungal building material deterioration Deterioration
 created: 2026-04-16
-updated: 2026-04-16
+updated: 2026-05-09
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi, biodeterioration, building-materials, decay]
 sources: []
 ---
-Fungal Deterioration of Building Materials
+# Fungal Deterioration of Building Materials
 
 Fungi are significant agents of biodeterioration for a wide range of
-building and construction materials including wood, concrete, stone, brick,
-ceramic materials, and associated mineral-based products. Fungal attack on
-these materials causes substantial economic losses through structural damage
-and reduces the service life of infrastructure, including barriers for
+building and construction materials including wood, concrete, stone,
+brick, ceramic materials, and associated mineral-based products. Fungal
+attack causes substantial economic losses through structural damage and
+reduces the service life of infrastructure, including barriers for
 nuclear waste storage.
 
-Mechanisms of Building Material Deterioration
+## Mechanisms of Building Material Deterioration
 
-Fungi deteriorate building materials through the same mechanisms they employ
-for mineral weathering in natural environments:
+Fungi deteriorate building materials through the same mechanisms they
+employ for [[mycorrhizal-mineral-weathering-nutrient-acquisition]] in natural environments:
 
-1. Biomechanical weathering: Hyphal penetration into cracks, pores, and
-   along crystal planes. Fungal hyphae exert considerable mechanical force
-   derived from osmotically generated turgor pressure. Penetration is
-   facilitated by thigmotropic reactions and lubrication with mucilaginous
-   slime containing acidic and metal-chelating metabolites.
+1. **Biomechanical weathering:** Hyphal penetration into cracks, pores,
+   and along crystal planes. Fungal hyphae exert considerable mechanical
+   force from osmotically generated [[bloomfield-turgor-pressure-and-hyphal-invasion]]. Penetration is
+   facilitated by thigmotropic reactions and lubrication with acidic
+   and metal-chelating mucilaginous slime.
 
-2. Biochemical weathering: Excretion of organic acids (oxalic, citric,
-   gluconic) that dissolve mineral matrices through acidolysis and
-   complexolysis. Carbon dioxide from fungal respiration forms carbonic
-   acid that further attacks alkaline materials.
+2. **Biochemical weathering:** Excretion of organic acids (oxalic,
+   citric, gluconic) that dissolve mineral matrices through acidolysis
+   and complexolysis. Carbon dioxide from fungal respiration forms
+   carbonic acid that further attacks alkaline materials.
 
-3. Indirect effects: Shrinking and swelling of hydrated mucilage produced
-   by many fungi creates physical stresses in porous materials. Secondary
-   mineral precipitation can alter pore structure and permeability.
+3. **Indirect effects:** Shrinking and swelling of hydrated mucilage
+   creates physical stresses in porous materials. Secondary mineral
+   precipitation can alter pore structure and permeability.
 
-Wood Deterioration in Buildings
+## Wood Deterioration in Buildings
 
-Wood remains the most economically significant building material affected
-by fungal deterioration. Dry rot fungi (Serpula lacrymans and Meruliporia
-incrassata) are the most destructive agents, capable of transporting water
-over meters through rhizomorph systems to moisten and colonize dry wood.
-The basidiomycete Lentinus lepideus (train wrecker) shows high tolerance to
-creosote preservative and attacks insufficiently treated wooden structures.
+Wood remains the most economically significant building material
+affected by fungal deterioration. Dry rot fungi (*Serpula lacrymans*
+and *Meruliporia incrassata*) are the most destructive agents, capable
+of transporting water over meters through rhizomorph systems to
+moisten and colonize dry wood.
 
-Wet rot fungi including Coniophora puteana attack wood that is pre-moistened
-by plumbing leaks, flooding, or persistent envelope leaks. The financial
-impact of wood decay in buildings is substantial: dry rot exclusions are
-written into most homeowners insurance policies.
+The basidiomycete *Lentinus lepideus* shows high tolerance to creosote
+preservative and attacks insufficiently treated wooden structures. Wet
+rot fungi including *Coniophora puteana* attack wood that is
+pre-moistened by plumbing leaks, flooding, or persistent condensation.
 
-Concrete and Cement Deterioration
+Brown-rot fungi preferentially degrade cellulose and hemicellulose,
+leaving a characteristic brown, cubical residue. White-rot fungi
+degrade all wood components including lignin, producing a bleached,
+fibrous residue. The enzyme systems involved overlap with those used in
+natural forest decomposition but operate within [[fungal-biodiversity-built-environments-indoor-mycobiome]].
 
-Any type of building or ceramic material, concrete, and cement can be
-degraded by fungi (Diercks et al., 1991; Gaylarde and Morton, 1999; Kikuchi
-and Sreekumari, 2002; Roberts et al., 2002). Under certain conditions,
-deterioration of concrete by fungi may be more efficient than that caused by
-bacteria (Perfettini et al., 1991; Gu et al., 1998).
+## Concrete and Stone Deterioration
 
-Fungal attack on concrete arises from acidolysis and complexolysis mechanisms.
-Aspergillus niger and other species can colonize and corrode concrete surfaces
-over periods of years, avoiding areas filled with granite aggregate while
-attacking the cement matrix (Fomina et al., 2005c). The experimental
-six-month colonization of concrete by Aspergillus flavipes demonstrated that
-fungi readily establish on barrier concrete materials.
+[[query-how-do-fungi-contribute-to-carbon-sequestration]] to concrete degradation through acid attack on
+calcium compounds. Oxalic acid produced by fungi reacts with calcium
+hydroxide and calcium silicate hydrate in concrete, forming calcium
+oxalate crystals. This process weakens the cement matrix and increases
+porosity, accelerating water ingress and further deterioration.
 
-Stone and Building Material Deterioration
+Filamentous fungi including *Aspergillus*, *Penicillium*, and
+*Fusarium* species colonize concrete surfaces, particularly in damp
+environments such as basements, tunnels, and water treatment
+facilities. Black fungi (*Aureobasidium pullulans*) produce dark
+pigments that stain building surfaces.
 
-Fungal weathering of limestone, sandstone, and marble has been extensively
-documented (Gomez-Alarcon et al., 1994; Hirsch et al., 1995; Kumar and
-Kumar, 1999; Sterflinger, 2000). Alkaline rocks are generally more
-susceptible to fungal attack than acidic rocks (Eckhardt, 1985; Kumar and
-Kumar, 1999).
+Stone deterioration involves both biochemical dissolution of mineral
+grains and biomechanical disruption along grain boundaries. Fungal
+colonization of sandstone, limestone, and marble buildings is a major
+conservation concern, particularly for cultural heritage structures.
 
-Microscopical analyses of phototrophic epilithic microbial communities
-from the Roman Catacombs found that the most frequently encountered fungal
-isolates were Sporotrichum and Aspergillus species (Albertano and Urzi, 1999).
-Cultivation studies on sandstone identified Pleospora, Acremonium,
-Engyodontium, Stemphylium, and Penicillium as common stone-inhabiting fungi.
+## Prevention and Control Strategies
 
-Deteriogenic biofilms on buildings develop as complex microbial communities
-including fungi, bacteria, algae, and cyanobacteria. These biofilms trap
-moisture, produce organic acids, and create microenvironments that accelerate
-material degradation (Gaylarde and Morton, 1999).
+Moisture control is the primary strategy for preventing fungal
+deterioration of building materials. Maintaining relative humidity
+below 65% inhibits most [[brassinosteroid-fungal-growth-promotion]]. Building design should ensure
+adequate ventilation, drainage, and vapor barriers to prevent moisture
+accumulation.
 
-Nuclear Waste Storage Concerns
+Chemical preservatives including copper-based compounds, borates, and
+organic biocides protect wood from fungal attack. However, some fungi
+develop tolerance to commonly used preservatives, necessitating
+integrated approaches combining material selection, design, and
+chemical treatment.
 
-Microbial ability to corrode concrete barrier materials raises concerns for
-both existing and future nuclear waste storage facilities. Fungi can adapt
-to severe radioactive contamination, as demonstrated by the colonization of
-highly radioactive concrete at the Chernobyl Shelter. Myco-corrosion may
-reduce the theoretically calculated service life of concrete barriers,
-creating potential risk from release of radionuclides into the environment.
+Novel approaches include biocontrol using antagonistic fungi such as
+*Trichoderma* species, and the development of building materials
+incorporating antifungal compounds. Nanotechnology-based coatings with
+antifungal properties are an emerging area of research for protecting
+both organic and inorganic building materials.
 
-The combination of fungal tolerance to radiation, ability to corrode
-concrete, and capacity to accumulate radionuclides creates a complex risk
-profile for long-term nuclear waste containment. Assessment of long-term
-environmental consequences of storage technologies should account for the
-biogeochemical activity of soil fungal communities.
+## See Also
 
-Secondary Mineral Formation on Buildings
-
-Fungal activity on building materials produces secondary minerals including
-calcium oxalate (whewellite and weddellite), calcium carbonate (calcite),
-and various metal oxalates. These secondary minerals can:
-- Create unsightly surface deposits (efflorescence)
-- Alter the porosity and permeability of materials
-- Create new surfaces for further biological colonization
-- In some cases, cement existing structures through mineral precipitation
-
-Prevention and Remediation
-
-Strategies for preventing fungal deterioration include:
-- Moisture control to limit fungal growth
-- Chemical preservatives (creosote, chromated copper arsenate)
-- Material selection favoring less susceptible substrates
-- Design features that minimize water retention
-- Regular inspection and maintenance
-
-Remediation of fungal deterioration requires understanding of the specific
-mechanisms involved, as different fungal species and deterioration processes
-may require different treatment approaches.
-
-Related topics:
-- [[fungal-biogeochemistry]]
 - [[fungal-communities-extreme-environments]]
 - [[dry-rot-fungi-serpula-meruliporia]]
-- [[lignin-degradation-mechanisms-wood-rot-fungi]]
+- [[fungal-decomposition-lignin-cellulose]]
+- [[fungal-adaptations-environmental-gradients]]
+- [[fungal-biosorption-mechanisms]]

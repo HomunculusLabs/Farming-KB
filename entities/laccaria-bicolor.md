@@ -19,7 +19,7 @@ Laccaria bicolor is an ectomycorrhizal basidiomycete fungus that forms
 associations with a broad range of tree species, including conifers and
 hardwoods. It was the first ectomycorrhizal fungus to have its genome
 fully sequenced, and has been extensively studied for its biocontrol
-properties against plant pathogens and its role in forest ecosystem
+properties against plant pathogens and its role in [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]]
 dynamics.
 
 ## Taxonomy and Classification
@@ -39,12 +39,12 @@ dynamics.
 - Gills are broadly attached, lavender to pinkish in color
 - Stem is fibrous, scaly at the base, purplish
 - Spores are broadly elliptical and spiny
-- Spore print is white to pale pink
+- [[comparison-spore-print-collection-vs-spore-syringe-production]] is white to pale pink
 
 ### Host Range
 - Associates with a wide range of tree hosts including pine, spruce,
   fir, birch, poplar, and oak
-- Commonly used in commercial mycorrhizal inoculants for forestry
+- Commonly used in commercial [[pgpr-mycorrhizal-inoculants-microplant-establishment]] for forestry
   and reforestation
 - L. laccata and L. proxima are closely related species with similar
   ecology
@@ -67,8 +67,8 @@ dynamics.
   through negative feedback mechanisms (Lapeyrie et al., 1991)
 
 ### Nitrogen Utilization
-- Belongs to a group of ectomycorrhizal fungi that rely primarily on
-  enhancing nutrient uptake from mineralization by saprotrophic
+- Belongs to a group of [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] that rely primarily on
+  enhancing [[plant-nutrient-uptake-mechanisms]] from mineralization by saprotrophic
   microbial communities (Read, 1991b)
 - Considered a relatively poor enzyme producer compared to species
   like Paxillus involutus and Amanita spp.
@@ -93,7 +93,7 @@ in forestry inoculants worldwide. Its broad host range and biocontrol
 properties make it valuable for sustainable forestry and reforestation
 projects. In permaculture, it represents a model organism for understanding
 how mycorrhizal associations can reduce dependency on chemical pesticides
-and fertilizers in tree crop systems.
+and fertilizers in [[mollison-tree-crop-systems-permaculture]] systems.
 
 ## See Also
 

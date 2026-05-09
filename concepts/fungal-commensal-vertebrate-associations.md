@@ -2,7 +2,7 @@
 title: "Fungal Commensal Associations with Vertebrates"
 created: 2026-04-26
 tags:
-  - [[fungal-ecology]]
+  - fungal-ecology
   - commensalism
   - microbiome
   - medical-mycology
@@ -77,14 +77,14 @@ certain Candida species are the primary examples.
 Ordinarily harmless fungi that can invade animal tissues or
 extensively colonize body surfaces when a host becomes
 immunocompromised or is exposed to a heavy load of potentially
-immunodepressing fungal inoculum. This is by far the largest category
+immunodepressing [[ingham-fungal-inoculum-sourcing]]. This is by far the largest category
 of fungi associated with vertebrate disease.
 
 ### Specialized Pathogens
 
 Fungi with specific adaptations for vertebrate pathogenesis, including
 thermal dimorphism, resistance to phagocytic killing, and specific
-nutrient requirements met by the host environment. The Onygenalean
+[[cannabis-soil-and-nutrient-requirements]] met by the host environment. The Onygenalean
 systemic pathogens (Blastomyces, Histoplasma, Paracoccidioides,
 Coccidioides) exemplify this category.
 
@@ -101,3 +101,4 @@ of animal population densities, influencing factors such as the
 ## See Also
 
 - [[dighton-fungal-mycophagy-vertebrate-invertebrate-diets]]
+- [[fungi-in-the-environment-fungal-species-recognition-phylogenetics]]

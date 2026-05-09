@@ -1,5 +1,5 @@
 ---
-title: Ketamine Psychedelic Journey Guide
+title: Ketamine ketamine psychedelic journey guide Guide
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Ketamine Psychedelic Journey Guide
 
-Ketamine is rated intensity "10 to Infinity" by Turner, who calls it "The Ultimate Psychedelic Journey." It is a general anesthetic (marketed as Ketalar by Parke Davis) that produces profoundly dissociative psychedelic experiences at sub-anesthetic doses.
+Ketamine is rated intensity "10 to Infinity" by Turner, who calls it "The [[ketamine-ultimate-psychedelic-journey]] Journey." It is a general anesthetic (marketed as Ketalar by Parke Davis) that produces profoundly dissociative psychedelic experiences at sub-anesthetic doses.
 
 ## History
 
@@ -77,17 +77,17 @@ The contrast between psycholytic and psychedelic therapy illustrates a fundament
 
 ## The Harvard Research Project
 
-**Timothy Leary, Frank Barron, and Richard Alpert** conducted research at Harvard that focused not on treatment but on exploring the value of the psychedelic experience for "normals" (mostly graduate students), artists, musicians, poets, and writers. They introduced the concept of "consciousness expansion" and popularized the "set and setting" hypothesis: that the primary determinants of a psychedelic experience are the internal set (intention, expectation, motivation) and the external setting or context, including the presence of a guide.
+**Timothy Leary, Frank Barron, and Richard Alpert** conducted research at Harvard that focused not on treatment but on exploring the value of the psychedelic experience for "normals" (mostly graduate students), artists, musicians, poets, and writers. They introduced the concept of "[[mckenna-consciousness-expansion-and-drug-war]]" and popularized the "set and setting" hypothesis: that the primary determinants of a psychedelic experience are the internal set (intention, expectation, motivation) and the external setting or context, including the presence of a guide.
 
 The set and setting framework remains foundational to modern psychedelic therapy, emphasizing that the therapeutic context is as important as the pharmacological substance.
 
-The set and setting hypothesis was perhaps the Harvard project's most enduring contribution to psychedelic science. While the specific research conducted at Harvard was methodologically limited by modern standards, the insight that the character of a psychedelic experience depends more on the psychological and environmental context than on the specific substance or dose has been consistently supported by subsequent research. This insight underlies the modern emphasis on therapeutic preparation, integration, and the carefully controlled clinical settings used in contemporary psychedelic therapy trials.
+The set and [[metzner-set-and-setting-hypothesis-origins-and-extensions]] was perhaps the Harvard project's most enduring contribution to psychedelic science. While the specific research conducted at Harvard was methodologically limited by modern standards, the insight that the character of a psychedelic experience depends more on the psychological and environmental context than on the specific substance or dose has been consistently supported by subsequent research. This insight underlies the modern emphasis on therapeutic preparation, integration, and the carefully controlled clinical settings used in contemporary psychedelic therapy trials.
 
 ## Military Interest
 
 Considerable research was devoted for about ten years to determining effective surreptitious delivery systems for LSD as a weapon of war or espionage. Ironically, LSD's capacity to tap into "awesome worlds of cosmic consciousness" — rather than making subjects predictably submissive — ruined its applicability as a weapon. Projects MKUltra and other classified programs explored LSD's potential for interrogation and mind control, ultimately concluding that its effects were too unpredictable for tactical use.
 
-The military research programs, while ethically reprehensible by modern standards, inadvertently contributed to the scientific understanding of LSD's pharmacology and psychological effects. The extensive dose-response data collected by military researchers, much of which was later declassified, provided valuable information about the relationship between dose, duration, and subjective experience. However, the programs also generated enormous public distrust of government-funded psychedelic research, contributing to the political climate that led to prohibition.
+The military research programs, while ethically reprehensible by modern standards, inadvertently contributed to the scientific understanding of LSD's pharmacology and [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]]. The extensive dose-response data collected by military researchers, much of which was later declassified, provided valuable information about the relationship between dose, duration, and subjective experience. However, the programs also generated enormous public distrust of government-funded [[mckenna-suppression-psychedelic-research-lsd-therapy]], contributing to the political climate that led to prohibition.
 
 ## The Empathogen Revolution
 

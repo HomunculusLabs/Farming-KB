@@ -10,7 +10,7 @@ sources:
 
 # Names of the Gods and Their Fertility Origins
 
-John Allegro's central philological discovery is that the principal god-names of the ancient Near East — across Greek, Semitic, and Indo-European traditions — derive from a common Sumerian vocabulary of fertility and sexuality. This chapter-by-chapter analysis of divine nomenclature reveals that behind the apparent diversity of ancient religion lay a unified conception of the deity as a life-giving, fecundating power.
+John Allegro's central philological discovery is that the principal god-names of the [[allegro-fertility-philosophy-of-the-ancient-near-east]] East — across Greek, Semitic, and Indo-European traditions — derive from a common Sumerian vocabulary of fertility and sexuality. This chapter-by-chapter analysis of divine nomenclature reveals that behind the apparent diversity of ancient religion lay a unified conception of the deity as a life-giving, fecundating power.
 
 ## Zeus, Yahweh, and the Single Deity
 
@@ -50,7 +50,7 @@ The processes and balance of nature demanded the effective use of the god's seed
 
 ## Scholarly Significance and Criticism
 
-Allegro's interpretation of death and resurrection mythology as mushroom-derived remains one of the most contested aspects of [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
+Allegro's interpretation of [[allegro-death-and-resurrection-in-the-mushroom-cult]] mythology as mushroom-derived remains one of the most contested aspects of [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
 
 ## See Also
 
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

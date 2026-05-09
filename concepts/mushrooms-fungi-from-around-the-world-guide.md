@@ -1,31 +1,23 @@
 ---
-title: "Mushrooms and Fungi From Around the World"
+title: "Mushrooms and Fungi From fungi-around-the-world-species-distribution"
 created: 2026-04-28
-tags: [[mycology, biodiversity, global-fungi, field-guide, ethnography]
+tags: [mycology, biodiversity, global-fungi, field-guide, ethnography]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/mushrooms-fungi-from-around-the-world.md]
 type: concept
 ---
-
-# Mushrooms and Fungi From Around the World
-
-This source document is a slideshow-format presentation cataloguing
-fungal diversity across major world regions. While the extracted text
-consists primarily of section titles rather than detailed species
-descriptions (images were not extractable from the PDF), the
-organizational structure reveals the scope and geographic coverage of
-global [[mycorrhizal-fungi]] form symbiotic associations with
+# Mushrooms and Fungi From Around the World This source document is a slideshow-format presentation cataloguing fungal diversity across major world regions. While the extracted text consists primarily of section titles rather than detailed species descriptions (images were not extractable from the PDF), the organizational structure reveals the scope and geographic coverage of global [[mycorrhizal-fungi]] form symbiotic associations with
 the roots of an estimated 80-90% of all plant species, facilitating
 nutrient uptake in exchange for photosynthetic carbon. Pathogenic
 fungi regulate populations of plants, insects, and other organisms.
 
 The global survey format of this presentation underscores that
-fungal biodiversity is both vast and underappreciated. Estimates
+[[biodiversity-fungal-biodiversity-estimation-methods]] is both vast and underappreciated. Estimates
 suggest there may be 2.2 to 3.8 million fungal species worldwide,
 of which only approximately 150,000 have been formally described.
 This means the majority of fungal species remain unknown to science,
-particularly in tropical and Southern Hemisphere regions.
+particularly in tropical and [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] regions.
 
 ## Ethnomylogical Significance
 
@@ -35,12 +27,12 @@ psychoactive fungi into their ceremonial and healing practices.
 African cultures have long used various mushrooms as food and
 medicine. European and Asian traditions include both culinary
 mushroom use and, in some regions, the ritual use of psychoactive
-species such as Amanita muscaria.
+species such as [[allegro-amanita-muscaria-properties-and-pharmacology]].
 
 ## Visual Documentation and Field Mycology
 
 The slideshow format highlights the importance of visual
-documentation in mycology. Fungal identification often relies
+documentation in mycology. [[pcr-methods-fungal-identification-monitoring]] often relies
 heavily on macroscopic features including cap shape, color, gill
 structure, spore print color, and habitat. Photographs taken in
 situ provide irreplaceable records of fungal appearance in their
@@ -66,7 +58,7 @@ studied. The urgency of fungal biodiversity surveys is therefore
 not merely academic but constitutes a conservation imperative.
 
 Fungi play critical roles in ecosystem function, including nutrient
-cycling, soil formation, plant symbiosis, and carbon sequestration.
+cycling, soil formation, plant symbiosis, and [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]].
 Loss of fungal diversity could therefore have cascading effects on
 entire ecosystems, making documentation and conservation of fungal
 biodiversity a matter of ecological importance beyond the interests
@@ -94,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

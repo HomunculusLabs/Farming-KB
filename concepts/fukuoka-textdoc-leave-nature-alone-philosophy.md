@@ -1,5 +1,5 @@
 ---
-title: Leave Nature Alone - The Foundation of Non-Intervention
+title: fukuoka textdoc leave nature alone philosophy Alone - The Foundation of Non-Intervention
 created: 2026-04-28
 tags: [natural-farming, philosophy, non-intervention, ecology, mu]
 date: 2026-04-28
@@ -37,10 +37,12 @@ occurs in the weasels and snakes that feed on them. This chain of
 consequences illustrates the interconnected nature of
 [[fukuoka-philosophy-of-non-intervention]] and connects directly to the
 [[fukuoka-textdoc-no-cause-and-effect-in-nature]]. When we stop trying to identify causes and apply targeted
-interventions, we free ourselves from the endless chain of cause and effect
+interventions, we free ourselves from the endless chain of [[fukuoka-textdoc-no-cause-and-effect-in-nature]]
 that leads only to deeper entanglement with nature's destruction.
 
 ## See Also
+
+- [[fukuoka-textdoc-traditional-farmer-philosophy-mu-nothingness]]
 
 - [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-ecological-balance-principles]]
@@ -61,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +105,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

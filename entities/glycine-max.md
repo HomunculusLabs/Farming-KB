@@ -38,7 +38,7 @@ created: 2026-04-28
 
 Domesticated from the wild progenitor *Glycine soja* in East Asia approximately 5,000–9,000 years ago, soybean has become a cornerstone of global agriculture. The crop provides vegetable oil, protein meal, soy milk, tofu, tempeh, miso, natto, and numerous industrial products.
 
-Soybean fixes atmospheric nitrogen through symbiosis with *Bradyrhizobium japonicum*, contributing 50–300 kg N/ha annually. This nitrogen-fixing capacity, combined with high biomass production, makes it valuable as a cover crop and green manure in rotation systems.
+Soybean fixes atmospheric nitrogen through symbiosis with *Bradyrhizobium japonicum*, contributing 50–300 kg N/ha annually. This nitrogen-fixing capacity, combined with high [[dighton-fungal-biomass-production-aquatic-ecosystems]], makes it valuable as a cover crop and green manure in rotation systems.
 
 ## Taxonomy and Morphology
 
@@ -46,7 +46,7 @@ Soybean fixes atmospheric nitrogen through symbiosis with *Bradyrhizobium japoni
 
 **Authority:** (L.) Merr., 1917. Basionym: *Phaseolus max* L. The wild ancestor is *Glycine soja* Sieb. & Zucc., a trailing vine native to East Asia.
 
-**Growth habit:** Erect to semi-erect annual herb, 20–180 cm tall depending on cultivar and growing conditions. Determinate types cease vegetative growth at flowering, while indeterminate types continue vegetative and reproductive growth simultaneously.
+**Growth habit:** Erect to semi-erect annual herb, 20–180 cm tall depending on cultivar and growing conditions. Determinate types cease [[cannabis-vegetative-growth-stage]] at flowering, while indeterminate types continue vegetative and [[knf-reproductive-growth-stage]] simultaneously.
 
 **Leaves:** Trifoliate, with ovate to lanceolate leaflets 6–15 cm long. Petioles are long and slender. Leaves are pubescent with both simple and hooked trichomes, a trait influencing insect resistance.
 
@@ -60,7 +60,7 @@ Soybean fixes atmospheric nitrogen through symbiosis with *Bradyrhizobium japoni
 
 Soybean is cultivated from 50°N to 40°S, with major production concentrated in the United States (33% of global production), Brazil (30%), Argentina (12%), China (4%), and India (3%).
 
-The crop is adapted to a wide range of soils but performs best in well-drained, fertile loams with pH 5.5–7.0 and high organic matter. It is moderately drought-tolerant but requires adequate moisture during flowering and pod fill for optimal yield.
+The crop is adapted to a wide range of soils but performs best in well-drained, fertile loams with pH 5.5–7.0 and high [[hamilton-composting-and-organic-matter-management]]. It is moderately drought-tolerant but requires adequate moisture during flowering and pod fill for optimal yield.
 
 Optimal temperatures for growth range from 20–30°C, with sensitivity to both frost and extreme heat. Photoperiod sensitivity strongly influences flowering time and limits cultivar adaptation to relatively narrow latitude bands.
 
@@ -88,7 +88,7 @@ Soybean straw and hulls provide mulch material for garden beds and food forest u
 
 ## Cultivation
 
-Seeding rate is 200–400 seeds/m² for grain production, with row spacing of 18–76 cm depending on cultivar and environment. Inoculation with *Bradyrhizobium japonicum* is recommended on sites without recent soybean history.
+Seeding rate is 200–400 seeds/m² for [[fukuoka-no-till-grain-production-method]], with row spacing of 18–76 cm depending on cultivar and environment. Inoculation with *Bradyrhizobium japonicum* is recommended on sites without recent soybean history.
 
 Planting depth is 2.5–5 cm in firm, moist seedbeds. Planting date is determined by soil temperature (minimum 10°C at 5 cm depth) and frost-free period. Most production regions target late spring planting for autumn harvest.
 
@@ -102,15 +102,15 @@ Soybean oil is the second most produced vegetable oil globally, used for cooking
 
 Industrial applications include soy-based adhesives, plastics, inks, solvents, and foams. Soy lecithin, extracted from the oil, serves as an emulsifier in food processing, pharmaceuticals, and cosmetics.
 
-Soy-based building materials including particleboard, insulation foam, and wood finishes have been developed as renewable alternatives to petroleum-derived products. These applications are growing as sustainability concerns drive demand for bio-based industrial inputs.
+Soy-based [[natural-building-materials-guide]] including particleboard, insulation foam, and wood finishes have been developed as renewable alternatives to petroleum-derived products. These applications are growing as sustainability concerns drive demand for bio-based industrial inputs.
 
 ## See Also
 
 - [[medicago-sativa]]
 - [[trifolium-pratense]]
 - phaseolus vulgaris
-- [[glycine-max-soybean-permaculture]]
+- glycine max
 - [[azadirachta-indica]]
 - [[vicia-villosa]]
 - [[melilotus-officinalis]]
-- [[lupinus-albus]]
+- lupinus-albus

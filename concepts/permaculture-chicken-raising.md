@@ -1,20 +1,15 @@
 ---
-title: Permaculture Chicken Raising
+title: [[permaculture-chicken-tractor-system]] Raising
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [[permaculture, design]
+tags: [permaculture, design]
 sources: []
 ---
-
-# Permaculture Chicken Raising
-
-updated: 2026-04-18
-
-Chickens are one of the most productive livestock animals in [[permaculture-zone-planning]] and profit from them in [[korean-natural-farming-lab-and-ohn-recipes]]
+# Permaculture Chicken Raising updated: 2026-04-18 Chickens are one of the most productive livestock animals in permaculture-zone-planning and profit from them in [[korean-natural-farming-lab-and-ohn-recipes]]
 - [[korean-natural-farming-imo-recipes]]
 - [[urban-permaculture-trees-water-cycling]]
-- [[urban-permaculture-fodder-trees-livestock]]
+- [[urban-permaculture-trees-water-cycling]]
 ## Background and Context
 
 Permaculture Chicken Raising is an important subject that has garnered significant attention
@@ -65,7 +60,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -143,4 +138,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

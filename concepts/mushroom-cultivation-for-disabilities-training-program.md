@@ -1,17 +1,12 @@
 ---
-title: Mushroom Cultivation Training Program for People with Disabilities
+title: accessible-mushroom-cultivation-for-disabilities mushroom-disabilities-training-program-design for People with Disabilities
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[mycology, mushrooms, cultivation]
+tags: [mycology, mushrooms, cultivation]
 sources: [/Users/t3rpz/wiki/raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
 ---
-
-Updated: 2026-04-18
-
-Source: FAO RAP Publication 2001/12, "A Training Manual on Mushroom Cultivation for People with Disabilities" by Johanne Hanko. Based on TCP/THA/8821(A) project, Ubon Ratchathani province, Thailand.
-
-The FAO training program integrates three pillars: rehabilitation, [[accessible-mushroom-cultivation-for-disabilities]], [[mushroom-spawn-making-detailed]], [[tropical-mushroom-spawn-production-materials]]
+Updated: 2026-04-18 Source: FAO RAP Publication 2001/12, "A [[mushroom-cultivation-disabilities-training-manual-overview]] on Mushroom Cultivation for People with Disabilities" by Johanne Hanko. Based on TCP/THA/8821(A) project, Ubon Ratchathani province, Thailand. The FAO training program integrates three pillars: rehabilitation, [[accessible-mushroom-cultivation-for-disabilities]], [[mushroom-spawn-making-detailed]], tropical-mushroom-spawn-production-materials
 - [[building-with-natural-materials]]
 - [[mushroom-disabilities-training-program-design]]
 ## Background and Context
@@ -142,4 +137,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

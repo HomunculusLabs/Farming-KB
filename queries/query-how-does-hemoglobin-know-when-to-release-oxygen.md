@@ -1,9 +1,9 @@
 ---
-title: "How does hemoglobin know when to release oxygen?"
+title: "How does query how does hemoglobin know when to release oxygen when to release oxygen?"
 type: query
 question: "How does hemoglobin know when to release oxygen?"
 tags: [biochemistry, physiology, hemoglobin, oxygen-transport, bohr-effect]
-related: [[hemoglobin-oxygen-transport-biochemistry]], hemoglobin-vs-myoglobin, hemoglobin-oxygen-transport-biochemistry]
+related: hemoglobin-oxygen-transport-biochemistry, hemoglobin-vs-myoglobin, hemoglobin-oxygen-transport-biochemistry]
 created: 2026-05-02
 updated: 2026-05-06
 sources: []
@@ -14,7 +14,7 @@ Hemoglobin does not know in a conscious sense.
 It releases oxygen because local chemical conditions change its binding affinity.
 In the lung, high oxygen pressure favors loading.
 In tissues, lower oxygen pressure favors unloading.
-Active tissues also produce carbon dioxide, hydrogen ions, heat, and metabolites.
+Active tissues also produce [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]], hydrogen ions, heat, and metabolites.
 These signals shift hemoglobin toward a lower-affinity state.
 The result is automatic oxygen delivery to places where metabolism is high.
 ## What is the main trigger?
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

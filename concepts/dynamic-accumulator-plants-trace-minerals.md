@@ -1,5 +1,5 @@
 ---
-title: Dynamic Accumulator Plants — Trace Minerals
+title: nutrient-dynamic-accumulator-reference Plants — Trace Minerals
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -22,7 +22,7 @@ This same principle has been used to locate copper and selenium deposits — a f
 
 ## Correcting Deficiencies with Accumulators
 
-Accumulator plants can correct specific soil nutrient problems. For example, a zinc deficiency in corn in Florida was corrected by allowing zinc-accumulating "weeds" to flourish during fallow years. After these accumulators were tilled into the soil, the corn crop grew without signs of deficiency. This demonstrates the practical agricultural value of allowing targeted accumulator plants to grow and then recycling their biomass.
+Accumulator plants can correct specific soil nutrient problems. For example, a [[query-how-to-fix-zinc-deficiency-in-cannabis]] in corn in Florida was corrected by allowing zinc-accumulating "weeds" to flourish during fallow years. After these accumulators were tilled into the soil, the corn crop grew without signs of deficiency. This demonstrates the practical agricultural value of allowing targeted accumulator plants to grow and then recycling their biomass.
 
 ## Key Trace Mineral Accumulators
 
@@ -31,7 +31,7 @@ Accumulator plants can correct specific soil nutrient problems. For example, a z
 These plants accumulate across multiple trace mineral categories:
 
 - **Comfrey** (*Symphytum officinale*) — one of the most comprehensive accumulators; accumulates N, P, K, Ca, Mg, and trace minerals including Fe, Cu, Zn, and more
-- **Stinging nettle** (*Urtica urens*) — exceptional across nearly all nutrient categories; rich in iron especially
+- **[[comparison-stinging-nettle-vs-horsetail]]** (*Urtica urens*) — exceptional across nearly all nutrient categories; rich in iron especially
 - **Dandelion** (*Taraxacum vulgare*) — deep taproot mines trace minerals from subsoil layers
 - **Lamb's quarters** (*Chenopodium album*) — accumulates a wide range of micronutrients
 - **Horsetails** (*Equisetum* spp.) — particularly noted for silica accumulation; also accumulates other trace minerals
@@ -44,7 +44,7 @@ These plants accumulate across multiple trace mineral categories:
 ### Iron (Fe) Accumulators
 
 - Dandelion, dock/sorrel species, plantains, chickweed, watercress
-- Many accumulators indirectly improve iron availability through soil acidification from organic matter decomposition
+- Many accumulators indirectly improve iron availability through soil acidification from [[hamilton-composting-and-organic-matter-management]] decomposition
 
 ### Manganese (Mn) Accumulators
 
@@ -70,9 +70,9 @@ These plants accumulate across multiple trace mineral categories:
 
 - Alfalfa (*Medicago sativa*)
 - Borage (*Borago officinalis*)
-- Bracken fern (*Pteridium aquilinum*)
+- [[dynamic-accumulator-bracken-fern-potash]] (*Pteridium aquilinum*)
 - Burdock (*Arctium minus*)
-- Calamus (*Acorus calamus*)
+- Calamus (*[[sweet-flag-acorus-calamus-ethnobotany]]*)
 - Caragana (Siberian pea shrub)
 - Caraway (*Carum carvi*)
 - Carrot leaves (*Daucus carota*)

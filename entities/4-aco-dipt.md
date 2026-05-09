@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Shulgin, A. & Shulgin, A. (1997). "TIHKAL: The Continuation." Transform Press.
   - Dean, R.A. et al. (2013). "Metabolic fate of 4-acetoxy-N,N-diisopropyltryptamine." Drug Metabolism and Disposition 41(1): 215–223.
-  - Brandt, S.D. et al. (2016). "Return of the lysergamides." Drug Testing and Analysis 8(9): 931–940.
+  - Brandt, S.D. et al. (2016). "Return of the lysergamides." [[psychedelic-drug-testing-and-adulterant-screening]] and Analysis 8(9): 931–940.
   - Halberstadt, A.L. et al. (2020). "Pharmacology of psychoactive tryptamines." Pharmacology & Therapeutics 208: 107485.
 ---
 
@@ -33,7 +33,7 @@ dominant tryptamines like 4-AcO-DMT.
 
 As an acetylated prodrug of 4-HO-DiPT, 4-AcO-DiPT undergoes
 deacetylation in vivo to produce the active hydroxy metabolite.
-Legal status varies by jurisdiction; it is unscheduled in many
+[[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction; it is unscheduled in many
 countries but controlled under analogue acts in others.
 
 ## Chemical Properties
@@ -68,7 +68,7 @@ in the body to form 4-HO-DiPT, which is the primary active metabolite.
 - **TAAR1** — trace amine-associated receptor; uncertain affinity
 
 The diisopropyl substitution pattern is known to alter the
-receptor binding profile relative to dimethyl tryptamines. In the
+[[tihkal-receptor-binding-serotonin]] profile relative to dimethyl tryptamines. In the
 DiPT series, this substitution produces a distinctive shift toward
 auditory effects over visual effects, likely due to altered
 distribution or receptor subtype selectivity.
@@ -104,7 +104,7 @@ Shulgin's TIHKAL entry):
 4-AcO-DiPT is unscheduled in most countries, but its legal status
 is often governed by analogue drug legislation:
 
-- **United States** — potentially covered under the Federal Analogue
+- **[[dmt-containing-plants-united-states-halpern]]** — potentially covered under the Federal Analogue
   Act as an analogue of a Schedule I controlled substance
 - **United Kingdom** — Class A under the Psychoactive Substances
   Act 2016 and/or generic tryptamine controls
@@ -129,6 +129,6 @@ is often governed by analogue drug legislation:
 - [[4-ho-dipt-entity-tihkal]]
 - [[tryptamine]]
 - [[psilocin]]
-- [[4-aco-dmt]]
+- [[4-acetoxy-dmt]]
 - Psychedelic-Compounds
 - Research-Chemicals

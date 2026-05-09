@@ -76,11 +76,11 @@ Total CHI Value: 8 (3 studies reviewed)
 
 Pre-clinical studies suggest THC is neuroprotective before stroke; CBD is
 neuroprotective when used before and after stroke; and CBD may provide
-neuroprotection independently of the currently known cannabinoid receptor
+neuroprotection independently of the currently known [[cannabis-cannabinoid-receptor-pharmacology]]
 system. CBD has higher affinity for CB2, while THC binds relatively equally to
 CB1 and CB2.
 
-Indicas and indica-heavy hybrids contain a lower THC:CBD ratio favoring CB2
+Indicas and indica-heavy hybrids contain a lower THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]] favoring CB2
 expression compared to sativas. Raw, fresh leaf or juice contains non-
 psychoactive CBD-acid at higher concentrations, increasing CB2 activation.
 
@@ -115,4 +115,4 @@ stubbornness, and integrating previously hidden or oppressed characteristics.
 
 - [[blesching-cannabis-atherosclerosis]]
 - [[blesching-cannabis-alzheimers-disease]]
-- [[blesching-endocannabinoid-system-overview]]
+- [[endocannabinoid-system-overview]]

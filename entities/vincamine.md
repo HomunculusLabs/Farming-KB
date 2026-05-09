@@ -52,7 +52,7 @@ Standard oral dosage in clinical practice ranges from 30–60 mg/day, typically 
 
 Onset of action is gradual, consistent with its mechanism of vascular remodeling rather than acute vasodilation. Peak plasma concentrations occur 1–2 hours post-dose, with an elimination half-life of 4–6 hours for the parent compound.
 
-Common side effects include mild gastrointestinal discomfort, headache (paradoxically, given its use for headache), and transient hypotension. Rare adverse effects include arrhythmias, rash, and drug interactions with anticoagulants and antiplatelet agents.
+Common side effects include mild gastrointestinal discomfort, headache (paradoxically, given its use for headache), and transient hypotension. Rare [[blesching-cannabis-safety-adverse-effects-evidence]] include arrhythmias, rash, and [[cannabis-drug-interactions-and-contraindications]] with anticoagulants and antiplatelet agents.
 
 ## Natural Sources and Biosynthesis
 
@@ -74,13 +74,13 @@ Vinpocetine, the apovincaminic acid ethyl ester derivative, is produced semi-syn
 
 Vincamine has been approved as a prescription medication in several European countries, Japan, and China for the treatment of cerebral circulatory disorders. Primary indications include chronic cerebral vascular insufficiency, senile dementia, and post-stroke rehabilitation.
 
-Clinical trials have demonstrated modest but consistent improvements in cognitive function tests including the Mini-Mental State Examination (MMSE) and the Clock Drawing Test. A meta-analysis of 12 randomized controlled trials (n=1,543) found a statistically significant improvement in attention and memory scores compared to placebo.
+[[mushroom-cancer-clinical-trials-overview]] have demonstrated modest but consistent improvements in cognitive function tests including the Mini-Mental State Examination (MMSE) and the Clock Drawing Test. A meta-analysis of 12 randomized controlled trials (n=1,543) found a statistically significant improvement in attention and memory scores compared to placebo.
 
 The compound has also been investigated for tinnitus management, showing moderate benefit in patients with vascular-origin tinnitus. Studies in diabetic retinopathy suggest potential benefit in improving retinal microcirculation, though evidence remains preliminary.
 
 ## Related Compounds
 
-Vinpocetine (ethyl apovincaminate) is the most pharmacologically significant derivative. It retains the PDE1 inhibitory and neuroprotective activity of vincamine with improved pharmacokinetics. Vinpocetine is widely marketed as a dietary supplement in the United States and as a prescription drug in Europe and Japan.
+Vinpocetine (ethyl apovincaminate) is the most pharmacologically significant derivative. It retains the PDE1 inhibitory and neuroprotective activity of vincamine with improved pharmacokinetics. Vinpocetine is widely marketed as a dietary supplement in the [[dmt-containing-plants-united-states-halpern]] and as a prescription drug in Europe and Japan.
 
 Eburnamonine, the stereoisomer of vincamine, shows similar but less potent vasodilatory activity. Apovincaminic acid, the decarboxylated derivative, serves as a synthetic intermediate but has limited direct pharmacological activity.
 
@@ -92,7 +92,7 @@ Vincamine is approved as a prescription pharmaceutical in Germany, France, Italy
 
 In the United States, vincamine is not an FDA-approved drug but is available as a dietary supplement. Vinpocetine, its derivative, occupies a similar regulatory status in the US market. The FDA has issued warning letters to manufacturers making unsubstantiated cognitive enhancement claims.
 
-The compound is not listed under the UN Convention on Psychotropic Substances or the Controlled Substances Act. Its legal status in most countries is unrestricted for research purposes, though marketing claims are regulated as pharmaceutical or dietary supplement claims.
+The compound is not listed under the UN Convention on Psychotropic Substances or the Controlled [[controlled-substances-act-and-psychedelic-research]]. Its legal status in most countries is unrestricted for research purposes, though marketing claims are regulated as pharmaceutical or dietary supplement claims.
 
 ## See Also
 
@@ -101,7 +101,7 @@ The compound is not listed under the UN Convention on Psychotropic Substances or
 - [[voacangine-entity]]
 - [[rauwolfia-serpentina]]
 - [[uncaria-tomentosa]]
-- [[mitragynine]]
+- mitragynine
 - [[caffeine]]
 - [[ephedra-sinica]]
 - [[hypericin]]

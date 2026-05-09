@@ -1,5 +1,5 @@
 ---
-title: Japanese Document Processing
+title: Japanese fukuoka-document-processing-research
 created: 2026-04-28
 tags: [japanese, typography, text-processing, internationalization]
 date: 2026-04-28
@@ -92,7 +92,7 @@ page layout algorithms.
 
 ## Japanese-Specific Word Processing Features
 
-Microsoft Word and other word processors include Japanese-specific features
+[[microsoft-word]] and other word processors include Japanese-specific features
 including IME (Input Method Editor) integration, which converts phonetic input
 to Japanese characters;jisage (indentation) for emphasis using wider character
 spacing; andwarichu (inline two-line text) for annotations within running text.

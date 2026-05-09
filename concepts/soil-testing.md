@@ -41,9 +41,9 @@ Soil testing is the foundation of informed soil management. Without knowing your
 
 | Parameter | What It Tells You | Ideal Range (Most Crops) |
 |-----------|-------------------|--------------------------|
-| **pH** | Nutrient availability, microbial activity, toxic element solubility | 6.0–6.8 |
-| **Organic Matter (OM)** | Soil structure, water retention, microbial habitat, nutrient reservoir | 3–8% |
-| **CEC** (Cation Exchange Capacity) | Soil's ability to hold nutrients; texture indicator | Varies by soil type |
+| **pH** | [[ph-and-nutrient-availability-garden-soils]], microbial activity, toxic element solubility | 6.0–6.8 |
+| **[[hamilton-composting-and-organic-matter-management]] (OM)** | Soil structure, water retention, microbial habitat, [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]] | 3–8% |
+| **CEC** ([[mollison-designers-tropical-soils-and-cation-exchange-management]] Capacity) | Soil's ability to hold nutrients; texture indicator | Varies by soil type |
 | **Base Saturation** | Balance of Ca, Mg, K, Na, H on exchange sites | See [[interpreting-soil-test-results]] |
 | **NPK** | Primary macronutrient levels | Varies by crop |
 
@@ -69,7 +69,7 @@ Soil testing is the foundation of informed soil management. Without knowing your
 | **Nitrate-N** | Pre-sidedress (pre-plant N planning), sandy soils |
 | **Lead / Heavy metals** | Urban gardens, near old structures, industrial areas |
 | **Soil biological activity** | CO2 respiration test, microbial biomass |
-| **Mycorrhizal colonization** | Root staining, to assess fungal partnerships |
+| **[[arbuscular-mycorrhizal-colonization-patterns]]** | Root staining, to assess fungal partnerships |
 | **Soil texture** | Once per field — doesn't change, drives CEC and drainage |
 
 ## Lab Tests vs. DIY Tests
@@ -125,37 +125,11 @@ Soil testing is the foundation of informed soil management. Without knowing your
 | Suspected micronutrient problem | Lab test (include micronutrients) |
 | Urban garden / heavy metal concern | Lab test with metals panel |
 | Tracking compost amendment effects | pH meter + DIY OM test |
-| Cannabis living soil bed | pH meter + annual lab test |
+| [[modern-farm-cannabis-living-soil-vs-hydroponic-debate]] soil bed | pH meter + annual lab test |
 
 ## Sampling Technique (Critical)
 
 Bad sampling produces bad data. Follow this protocol:
-
-### Tools
-- Clean stainless steel trowel or soil probe (not galvanized — zinc contamination)
-- Plastic bucket (not metal for micronutrient samples)
-- Ziploc bags (clean)
-- Permanent marker
-
-### Method
-1. **Divide the area into zones** — each distinct soil type, previous crop, or amendment history gets its own sample
-2. **Take 10–15 subsamples per zone** — walk a zigzag pattern, collect from 0–6 inch depth (standard garden) or 0–8 inches (field crops)
-3. **Mix subsamples in the plastic bucket** — break up clods, remove rocks and roots
-4. **Fill sample bag** — take ~2 cups from the mixed sample
-5. **Label clearly** — date, location, depth, crop intended
-6. **Don't sample right after amendments** — wait 2–4 weeks after liming, fertilizing, or compost application
-7. **Don't sample wet soil** — soil should be moist enough to form a ball but dry enough to crumble
-
-### Sampling for Different Situations
-
-| Situation | Depth | Notes |
-|-----------|-------|-------|
-| Vegetable garden | 0–6 inches | Annual crops, root zone |
-| Perennial beds / orchard | 0–12 inches | Deeper root systems |
-| Pasture / field | 0–6 inches | Standard |
-| Problem diagnosis | Split: 0–6 and 6–12 | Compare surface vs subsoil |
-| Container / raised bed | Full depth | Mix entire root zone |
-
 ## See Also
 
 - [[interpreting-soil-test-results]] — how to read your lab report and plan amendments

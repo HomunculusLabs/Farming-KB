@@ -19,13 +19,13 @@ Conventional farming treats weeds as competitors that must be completely elimina
 - Expensive herbicide purchases
 - Soil degradation from chemical exposure
 - Loss of soil microbial diversity
-- Removal of potential organic matter that could build soil
+- Removal of potential [[hamilton-composting-and-organic-matter-management]] that could build soil
 
 The irony: farmers spend money killing wild grass, then spend more money buying fertilizer to replace what the wild grass would have provided for free.
 
 ## Wild Grass as Fertilizer
 
-Wild grass and crops are "the same plants." Wild grass has a nutrient composition similar to crops, making it an excellent base and additional fertilizer. Wild grass JADAM Liquid Fertilizer (JLF) is the primary additional fertilizer in the JADAM system.
+Wild grass and crops are "the same plants." Wild grass has a nutrient composition similar to crops, making it an excellent base and additional fertilizer. Wild grass JADAM [[jadam-liquid-fertilizer-nutritional-perspective]] (JLF) is the primary additional fertilizer in the JADAM system.
 
 The nitrogen content of various JLF materials shows the range:
 - Wild grass: 0.01% nitrogen
@@ -38,7 +38,7 @@ The nitrogen content of various JLF materials shows the range:
 - Raw anchovy: 5.08%
 - Fish meal: 7.44%
 
-Wild grass may be lower in nitrogen than other inputs, but it provides the complete nutritional balance that crops need, including trace minerals and microbial food sources.
+Wild grass may be lower in nitrogen than other inputs, but it provides the complete [[jadam-nutritional-balance-fertilizer]] that crops need, including trace minerals and microbial food sources.
 
 ## Cover Crops as the Ideal
 
@@ -64,7 +64,7 @@ Leaving some plant cover on soil surface:
 - Reduces moisture evaporation
 - Moderates soil temperature
 - Prevents compaction from rain impact
-- Provides habitat for beneficial microorganisms
+- Provides [[query-how-do-i-design-habitat-for-beneficial-insects]] microorganisms
 - Eventually decomposes and feeds soil
 
 ## The Complementary Relationship
@@ -74,7 +74,7 @@ Soil that is rich and biologically active naturally suppresses problematic weeds
 ## The Cost Equation
 
 Wild grass is free. The only cost to convert it into fertilizer is water and a container (essentially free). Compare this to:
-- Commercial organic fertilizer: expensive, imported
+- Commercial [[complete-organic-fertilizer-cof-recipe-solomon]]: expensive, imported
 - Chemical fertilizer: expensive, soil-degrading
 - Herbicide to kill grass: expensive, then you must buy fertilizer to replace it
 
@@ -86,7 +86,7 @@ Grass-Crop JADAM Liquid Fertilizer (GC-JLF) combines wild grass and crop residue
 
 ## Traditional Wisdom
 
-Korean farmers for thousands of years understood the value of wild plants. They used every available organic matter. The modern practice of sterilizing fields of all non-crop plants is an imported industrial approach that destroys the natural fertility cycle.
+Korean farmers for thousands of years understood the value of wild plants. They used every available organic matter. The modern practice of sterilizing fields of all non-crop plants is an imported industrial approach that destroys the [[fukuoka-natural-fertility-cycle]] cycle.
 
 ## See Also
 

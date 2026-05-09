@@ -15,7 +15,7 @@ updated: 2026-04-28
 sources:
   - Schultes, R.E. & Hofmann, A. (1980). "The Botany and Chemistry of Hallucinogens." 2nd ed. Charles C. Thomas.
   - Anderson, E.F. (2001). "The Cactus Family." Timber Press.
-  - Trout, K. (2005). "Sacred Cacti: San Pedro, Peruvian Torch, and Other Ethnogenic Trichocereus Species." Trout's Notes.
+  - Trout, K. (2005). "Sacred Cacti: [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]], Peruvian Torch, and Other Ethnogenic Trichocereus Species." Trout's Notes.
   - Torres, C.M. & Repke, D.B. (2006). "Anadenanthera: Visionary Plant of Ancient South America." Haworth Press.
 created: 2026-04-28
 ---
@@ -92,9 +92,9 @@ Variation in alkaloid content is influenced by genetics, growing conditions, age
 
 ## Ethnobotanical and Historical Significance
 
-The archaeological record of mescaline cactus use in the Andes is among the oldest documented entheogenic traditions in the world.
+The archaeological record of [[peyote-mescaline-cactus-pharmacology]] use in the Andes is among the oldest documented entheogenic traditions in the world.
 
-Ceramic effigy vessels depicting the San Pedro cactus from the Chavín de Huántar site (circa 900 BCE) represent the earliest clear evidence of ritual cactus use.
+Ceramic effigy vessels depicting the San [[san-pedro-cactus-history]] from the Chavín de Huántar site (circa 900 BCE) represent the earliest clear evidence of ritual cactus use.
 
 In contemporary Andean healing traditions (*curanderismo*), *E. peruviana* is prepared as a bitter decoction called *cimora* or *huachuma*, consumed during all-night ceremonial healing sessions.
 
@@ -108,7 +108,7 @@ The cactus is also planted as a living fence (*cercos vivos*) around homes and f
 
 *E. peruviana* is straightforward to cultivate and grows rapidly under appropriate conditions, making it popular among cactus enthusiasts.
 
-It prefers well-draining, mineral-rich soil (gritty cactus mix with pumice, perlite, or coarse sand), full sun to partial shade, and moderate watering during the growing season.
+It prefers well-draining, mineral-rich soil (gritty cactus mix with pumice, perlite, or coarse sand), full sun to partial shade, and moderate watering during the [[savory-growing-season-and-non-growing-season-management]].
 
 Propagation is typically by seed or by rooting cut segments. Cuttings should be calloused for 2–4 weeks before planting to prevent rot.
 
@@ -116,7 +116,7 @@ Growth rates of 30–60 cm per year are common in warm climates with regular fer
 
 The species is relatively cold-hardy, tolerating brief freezes to -5°C if kept dry, though prolonged cold or wet conditions during winter are lethal.
 
-Pests include mealybugs, scale insects, and spider mites; fungal rot is the primary disease concern, particularly from overwatering or poor drainage.
+Pests include mealybugs, scale insects, and [[cervantes-spider-mites-identification-control]]; fungal rot is the primary disease concern, particularly from overwatering or poor drainage.
 
 ## See Also
 

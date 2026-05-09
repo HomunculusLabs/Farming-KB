@@ -12,19 +12,19 @@ type: concept
 
 # Cho's Plant Growth Stage Treatments
 
-Dr. Cho Han Kyu's Korean Natural Farming system applies specific
-cho-natural-farming-inputs-overview|natural farming inputs at different stages of plant growth. This system is rooted in the [[master-cho-knf-fpj-fermented-plant-juice-guide]] is the primary input, supporting nitrogen-demanding growth.
+Dr. Cho Han Kyu's Korean [[comparison-natural-farming-vs-permaculture]] system applies specific
+cho-natural-farming-inputs-overview|natural [[natural-farming-inputs-cho]] at different stages of plant growth. This system is rooted in the [[master-cho-knf-fpj-fermented-plant-juice-guide]] is the primary input, supporting nitrogen-demanding growth.
 
 -   All inputs diluted at approximately 1:1000 ml of water.
--   FPJ used at lower concentrations during early vegetative growth to
+-   FPJ used at lower concentrations during early [[cannabis-vegetative-growth-stage]] to
     build disease resistance.
 -   At juvenile leaf stage, apply at roughly 1:800 dilution.
--   Avoid inputs that stimulate reproductive growth during this stage.
+-   Avoid inputs that stimulate [[knf-reproductive-growth-stage]] during this stage.
 
 ## Treatment 2: Cross-Over Period Stage
 
 This transition from vegetative to reproductive growth is when plants
-need phosphoric acid most. Cho calls it "morning sickness" by analogy to
+need [[cho-water-soluble-phosphoric-acid-preparation]] most. Cho calls it "[[cho-morning-sickness-and-plant-cross-over-period]]" by analogy to
 pregnant women craving sour foods.
 
 -   [[cho-water-soluble-calcium-and-potassium]] is the primary input.
@@ -62,6 +62,8 @@ establishment.
 
 ## See Also
 
+- [[cho-plant-growth-stage-treatment-protocols]]
+
 - [[knf-nutritive-cycle-theory]]
 -   [[knf-seed-treatment-and-soil-foundation]]
 -   [[water-soluble-calcium-wca]]
@@ -83,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

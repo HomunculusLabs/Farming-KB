@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Harm Reduction Guide
+title: Psychedelic adverse-effects-and-harm-reduction-psilocybin Guide
 created: 2026-04-17
 updated: 2026-04-18
 type: concept
@@ -24,7 +24,7 @@ The single most important harm reduction principle. Effects scale non-linearly w
 - **Threshold**: Minimum dose for perceptible effects
 - **Light**: Noticeable changes in perception and mood, manageable
 - **Moderate**: Strong visual and cognitive effects, significant alteration of thought patterns
-- **Strong**: Intense experience, potential for ego dissolution, requires experience and preparation
+- **Strong**: Intense experience, potential for [[psilocybin-ego-dissolution-mechanisms]], requires experience and preparation
 - **Heroic**: Very high dose, complete ego dissolution, only for very experienced users with extensive preparation
 
 Always research substance-specific dosing ranges from trusted sources (Erowid, PsychonautWiki) before use. Individual sensitivity varies enormously due to body weight, metabolism, stomach contents, and natural variation.
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

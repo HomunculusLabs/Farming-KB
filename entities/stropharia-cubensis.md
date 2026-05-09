@@ -1,5 +1,5 @@
 ---
-title: Stropharia cubensis
+title: mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal
 created: 2026-04-28
 type: species
 tags:
@@ -33,7 +33,7 @@ among cultivators and psychonauts, though mycological authorities including Gast
 (1983) transferred it to the genus Psilocybe as [[psilocybe-cyanescens]] of the Pacific Northwest). The current
 accepted name is [[psilocybin]] (typically 0.5–1.2% dry weight)
 and [[psilocybin]] content. Schedule
-I in the United States under the Controlled Substances Act. Legal status varies globally:
+I in the [[dmt-containing-plants-united-states-halpern]] under the Controlled [[controlled-substances-act-and-psychedelic-research]]. [[ayahuasca-tourism-legal-status-by-country]] varies globally:
 the Netherlands banned fresh mushrooms in 2008, while Brazil does not specifically schedule
 the mushrooms themselves. Decriminalization measures have passed in multiple US
 jurisdictions since 2019, with Oregon (2020) and Colorado (2022) establishing regulated
@@ -58,7 +58,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -100,4 +100,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

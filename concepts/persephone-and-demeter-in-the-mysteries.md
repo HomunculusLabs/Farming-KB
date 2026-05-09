@@ -2,7 +2,7 @@
 title: Persephone and Demeter Mythology in the Mysteries
 created: 2026-04-26
 updated: 2026-04-24
-sources: The Road to Eleusis (Wasson, Hofmann, Ruck)
+sources: The the-road-to-eleusis-wasson-hofmann-ruck (Wasson, Hofmann, Ruck)
 type: concept
 tags: [reference]
 ---
@@ -38,7 +38,7 @@ the psychotropic herbs.
 
 ## Demeter's Three Solutions to Death
 
-The Homeric Hymn narrates how Demeter, in grief for her lost daughter,
+The [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]] narrates how Demeter, in grief for her lost daughter,
 came to Eleusis. Her journey there is a sympathetic imitation of
 Persephone's entrance into the citadel of Hades, for Eleusis was a
 simulacrum of the other world. Demeter first attempts to assuage her grief
@@ -95,7 +95,7 @@ to every initiate.
 Demeter's special response to the problem of death was Triptolemus, the
 trifold warrior, who becomes the apostle of cultivation, traveling the
 world on a serpent chariot spreading the gospel of grain. His sacred barley,
-grown in the Rarian plain, was the principal ingredient in the kykeon. Like
+grown in the [[rarian-plain-sacred-grain-eleusis]], was the principal ingredient in the kykeon. Like
 the grain that was his emblem, he was the son of the trifold queens in the
 house of the lord of death -- another form of Dionysus.
 

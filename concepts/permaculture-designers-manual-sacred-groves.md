@@ -3,18 +3,13 @@ title: Sacred Groves
 created: 2026-04-15
 updated: 2026-04-21
 type: concept
-tags: [[permaculture, design]
+tags: [permaculture, design]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
-
-# Sacred Groves
-
-updated: 2026-04-18
-
-From: [[permaculture-designers-manual-wildlife-corridors]] - connecting protected areas
-- [[permaculture-designers-manual-tropical-climates]] - traditional forest management
-- [[permaculture-designers-manual-cover-crops-detailed]] - forest preservation and production
-- [[permaculture-designers-manual-aquaculture-species]]
+# Sacred Groves updated: 2026-04-18 From: [[permaculture-designers-manual-wildlife-corridors]] - connecting protected areas
+- permaculture-designers-manual-tropical-climates - traditional [[mollison-pdc-forest-management-products]]
+- permaculture-designers-manual-cover-crops-detailed - forest preservation and production
+- permaculture-designers-manual-aquaculture-species
 ## Background and Context
 
 Sacred Groves is an important subject that has garnered significant attention
@@ -143,4 +138,7 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-
+## See Also
+- [[permaculture-designers-manual-settlement-types]]
+- [[permaculture-designers-manual-pattern-application]]
+- [[permaculture-designers-manual-temperate-climate-design]]

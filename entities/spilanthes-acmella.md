@@ -14,7 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://pubmed.ncbi.nlm.nih.gov/ — spilanthol pharmacology and immunomodulatory studies
-  - https://powo.science.kew.org/ — taxonomic authority and distribution
+  - https://powo.science.kew.org/ — [[bloomfield-taxonomic-authority-debate-lloyd-underwood-atkinson]] and distribution
   - Pandey, S. et al. "Spilanthes acmella: A Review on Its Ethnobotany, Phytochemistry, and Pharmacological Potential." Journal of Ethnopharmacology, 2018.
   - Prakash, O. et al. "Acmella oleracea: A Comprehensive Review on Its Phytochemistry and Pharmacological Properties." Phytotherapy Research, 2021.
 ---
@@ -43,12 +43,12 @@ sources:
 - **Flowers:** Distinctive globular flower heads, 1–2 cm diameter, yellow-orange central cone surrounded by a ring of pale yellow ray florets; the cone is the most bioactive part
 - **Seeds:** Small dark achenes, 2–3 mm
 - **Roots:** Fibrous, shallow, suitable for container cultivation
-- **Pollination:** Insect-pollinated, attractive to butterflies and beneficial insects
+- **Pollination:** Insect-pollinated, attractive to butterflies and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 
 ## Distribution and Habitat
 
 - **Native range:** Tropics of South America (Brazil, Peru, Bolivia)
-- **Naturalized:** Throughout tropical Africa, South and Southeast Asia, the Caribbean, and parts of the southern United States
+- **Naturalized:** Throughout tropical Africa, South and [[psilocybe-southeast-asia-pacific]], the Caribbean, and parts of the southern [[dmt-containing-plants-united-states-halpern]]
 - **Habitat:** Open fields, roadsides, disturbed ground, cultivated gardens; thrives in full sun to partial shade
 - **Hardiness:** Frost-tender, perennial only in USDA zones 10–12; grown as an annual elsewhere
 - **Soil preference:** Well-drained, moderately fertile soils; tolerates poor soils and drought once established
@@ -58,7 +58,7 @@ sources:
 - **Spilanthol (N-isobutyl-2E,6Z,8E-decatrienamide):** Primary bioactive alkylamide responsible for the characteristic tingling, numbing, and sialagogue (saliva-stimulating) effects; structurally similar to sanshool in Sichuan peppercorn
 - **Alkylamides:** Additional unsaturated fatty acid amides contributing to anti-inflammatory and immunomodulatory activity
 - **Flavonoids:** Including luteolin, apigenin, and their glycosides with antioxidant properties
-- **Essential oil:** Rich in (E)-β-caryophyllene, limonene, and germacrene D
+- **[[permaculture-designers-manual-essential-oil-plants]]:** Rich in (E)-β-caryophyllene, limonene, and germacrene D
 - **Tannins:** Astringent polyphenols supporting traditional use for gum health
 - **Phytosterols:** Including β-sitosterol and stigmasterol
 
@@ -93,7 +93,7 @@ sources:
 
 - **Fresh herb yield:** 2–4 kg/m² per season under good conditions
 - **Dried flower head yield:** Approximately 200–400 g/m²; spilanthol content ranges from 0.5–1.5% dry weight
-- **Essential oil yield:** 0.1–0.3% by steam distillation of aerial parts
+- **Essential oil yield:** 0.1–0.3% by [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] of aerial parts
 - **Economic potential:** Growing demand as a specialty culinary ingredient and natural anesthetic in the herbal products market; small-scale commercial cultivation is viable in tropical regions
 
 ## See Also

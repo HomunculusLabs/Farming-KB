@@ -1,5 +1,5 @@
 ---
-title: Spanish Cannabis Seed Companies
+title: Spanish cervantes-cannabis-seed-purchasing-storage Companies
 tags:
   - cannabis-strains
   - seed-companies
@@ -15,9 +15,9 @@ type: concept
 ---
 
 # Spanish Cannabis Seed Companies
-Spain has emerged as one of the world's most important centers of cannabis breeding and seed
+Spain has emerged as one of the world's most important centers of [[oner-cannabis-breeding-fundamentals]] and seed
 production. With relatively permissive cannabis laws compared to many other European nations,
-Spain has attracted talented breeders from around the world and fostered a thriving domestic
+Spain has attracted talented breeders from [[fungi-around-the-world-species-distribution]] and fostered a thriving domestic
 breeding scene. Spanish seed companies are now recognized globally for their innovative genetics,
 commitment to quality, and unique access to Latin American and tropical genetic stock.
 
@@ -33,7 +33,7 @@ sativa-dominant hybrid development. The cultural connections between Spain and L
 also proven invaluable, giving Spanish breeders access to genetics from Mexico, Colombia, Chile,
 and other countries with rich cannabis traditions.
 Many Spanish breeders have traveled extensively to source rare landrace varieties, returning
-with genetic material that has enriched the global cannabis gene pool. The result is a breeding
+with genetic material that has enriched the global cannabis [[cannabis-gene-pool-preservation-acclimatization-clarke]]. The result is a breeding
 scene that is perhaps more diverse and innovative than any other in Europe.
 
 ## Notable Spanish Seed Companies
@@ -42,7 +42,7 @@ scene that is perhaps more diverse and innovative than any other in Europe.
 
 Based in Spain, ACE Seeds is renowned for working with rare and exotic genetics from around the
 world. They specialize in landrace preservation and sativa varieties from tropical regions, with
-a catalog that reads like a world tour of cannabis genetics.
+a catalog that reads like a world tour of [[vic-high-cannabis-genetics-mendelian-inheritance]].
 Their [[kali-mist]] with Amnesia, they created a strain that makes
 excellent hash and oil, reflecting the company's focus on extraction-friendly genetics.
 The company's name signals their orientation toward therapeutic applications, and their strains

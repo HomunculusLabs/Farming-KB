@@ -1,5 +1,5 @@
 ---
-title: "History of Mycology Pioneers"
+title: "bloomfield [[history-of-mycology-timeline]] pioneers Pioneers"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -16,7 +16,7 @@ British Fungi, 1871) into a rigorous scientific discipline. As G.C. Ainsworth
 notes in his Introduction to the History of Mycology (1976), some natural
 historians seriously disputed the living nature of fungi throughout the eighteenth
 century, and as recently as 1804 the idea that fungi were offspring of comets
-was not universally ridiculed. [[agar]] they produced hybrid mycelia with both types.
+was not universally ridiculed. agar they produced hybrid mycelia with both types.
 
 **Plant pathology**: Buller confirmed that flies spread wheat stem rust by
 visiting infected leaves.
@@ -48,7 +48,7 @@ for his consuming interest in mycology. Seven volumes of his journal Mycological
 Notes appeared between 1898 and 1925, serving as both a serious publication and
 a bully pulpit.
 
-Lloyd took issue with the practice of appending taxonomic authority names after
+Lloyd took issue with the practice of appending [[bloomfield-taxonomic-authority-debate-lloyd-underwood-atkinson]] names after
 species binomials, denouncing academics who published incompetent or false
 descriptions of new species simply to inflate their reputations. He created the
 fictional mycologist "N.J. McGinty" to ridicule offenders -- some scientists
@@ -79,7 +79,7 @@ acquired scientific knowledge after quitting law and pursuing research at the
 Jardin de Plantes in Paris; he wrote most of the text while Charles created the
 illustrations. Charles's three-dimensional depictions of fungi "far exceed" any
 photograph in information content -- "it is as if he shrank himself to the size
-of a spore and drew the fungal forest that towered around him." Only 100 copies
+of a [[spore]] and drew the fungal forest that towered around him." Only 100 copies
 of their Fungi Hypogaei (1851) were printed.
 
 ## Other Key Figures

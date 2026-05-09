@@ -23,7 +23,7 @@ sources:
 commonly known as black-fruited shell ginger. The specific epithet *melanocarpa*
 refers to the distinctive dark-colored fruits produced by the species.
 
-The plant is native to Borneo and surrounding islands in Maritime Southeast Asia.
+The plant is native to Borneo and surrounding islands in Maritime [[psilocybe-southeast-asia-pacific]].
 It is a moderately sized rhizomatous herb found in lowland and hill tropical
 forests, where it contributes to the understory diversity.
 
@@ -79,7 +79,7 @@ during cooking. The large leaves impart a subtle aromatic quality to rice and
 other foods prepared in leaf wrappers.
 
 The dark fruits are occasionally used in traditional crafts and as a source of
-dark pigment for natural dyeing. However, this practice appears to be localized
+dark pigment for [[query-how-do-i-start-natural-dyeing-with-plants]]. However, this practice appears to be localized
 and uncommon compared to the use of other plant dyes in the region.
 
 Knowledge of the species' medicinal properties is primarily maintained by
@@ -92,9 +92,9 @@ Chemical investigation of A. melanocarpa has been limited, as with many
 Bornean Zingiberaceae species. Preliminary phytochemical screening of rhizome
 extracts has revealed the presence of flavonoids, tannins, and terpenoids.
 
-Essential oil analysis of related Alpinia species suggests that A. melanocarpa
+[[permaculture-designers-manual-essential-oil-plants]] analysis of related Alpinia species suggests that A. melanocarpa
 likely contains sesquiterpenes and monoterpenes typical of the genus. Common
-Alpinia volatile compounds include 1,8-cineole, α-pinene, and β-pinene.
+Alpinia [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] include 1,8-cineole, α-pinene, and β-pinene.
 
 Laboratory screening of crude rhizome extracts has shown moderate antibacterial
 activity against selected Gram-positive bacteria. Antioxidant activity has been
@@ -126,6 +126,8 @@ Several Malaysian and Indonesian botanical institutions maintain living
 collections of Alpinia species from Borneo.
 
 ## See Also
+
+- [[alpinia-kuhlii]]
 
 - [[alpinia-officinarum]]
 - [[alpinia-calcarata]]

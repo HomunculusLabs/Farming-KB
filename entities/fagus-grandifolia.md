@@ -10,15 +10,15 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of North America: Volume 2, Hardwoods." USDA Forest Service Agriculture Handbook 654.
+  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 2, Hardwoods." USDA Forest Service Agriculture Handbook 654.
   - Tubbs, C.H. & Houston, D.R. (1990). "American Beech (Fagus grandifolia Ehrh.)." USDA Forest Service Silvics Manual.
   - Forrester, J.A., McGee, G.G. & Mitchell, M.J. (2003). "Effects of beech bark disease on aboveground biomass and species composition in a mature northern hardwood forest." Canadian Journal of Forest Research, 33(12), 2262-2275.
-  - Cogbill, C.V. (2000). "Dynamics of the boreal forests of the Laurentian Highlands, Canada." Canadian Journal of Forest Research, 30(7), 1070-1083.
+  - Cogbill, C.V. (2000). "Dynamics of the [[fungal-diversity-boreal-forests-taiga]] of the Laurentian Highlands, Canada." Canadian Journal of Forest Research, 30(7), 1070-1083.
 ---
 
 ## Overview
 
-**Fagus grandifolia**, commonly known as American beech, is a large deciduous tree native to eastern North America.
+**Fagus grandifolia**, commonly known as American beech, is a large deciduous tree native to [[polypore-fungi-eastern-north-america]] America.
 
 It is a climax hardwood species of the eastern deciduous and mixed forests, recognized by its smooth, silvery-gray bark and distinctive mast production.
 
@@ -38,7 +38,7 @@ It is closely related to European beech (*Fagus sylvatica*), and some authoritie
 
 **Bark:** Thin, smooth, and silvery-gray throughout the life of the tree, a characteristic that distinguishes it from virtually all other eastern hardwoods.
 
-Bark often bears numerous initials, carvings, and markings due to its smooth surface, which unfortunately creates entry points for fungal pathogens.
+Bark often bears numerous initials, carvings, and markings due to its smooth surface, which unfortunately creates entry points for [[bloomfield-fungal-pathogens-and-parasites]].
 
 **Leaves:** Alternate, simple, elliptic to ovate, 6–14 cm long and 3–6 cm wide, with coarsely toothed margins and 9–14 pairs of lateral veins.
 
@@ -66,7 +66,7 @@ Beech bark disease is a complex disease syndrome caused by the interaction of th
 
 The beech scale, accidentally introduced from Europe around 1890, feeds on bark sap and creates wounds that allow entry of the *Neonectria* fungi, which cause cankering and wood decay.
 
-The disease has killed or severely damaged millions of American beech trees across the northeastern United States and Maritime Canada since the 1930s.
+The disease has killed or severely damaged millions of American beech trees across the northeastern [[dmt-containing-plants-united-states-halpern]] and Maritime Canada since the 1930s.
 
 Trees with naturally occurring resistance to the scale insect have been identified, and breeding programs are underway to develop disease-resistant stock for reforestation.
 
@@ -82,7 +82,7 @@ The dense shade cast by American beech strongly influences understory plant comm
 
 This dense canopy also creates a cool, moist microclimate on the forest floor that benefits moisture-dependent organisms including amphibians and certain fern species.
 
-Beech leaf litter is slow to decompose, contributing to thick duff layers that influence soil development and nutrient cycling over long time scales.
+Beech leaf litter is slow to decompose, contributing to thick duff layers that influence soil development and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] over long time scales.
 
 ## Timber and Uses
 

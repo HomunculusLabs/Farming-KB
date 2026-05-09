@@ -1,5 +1,5 @@
 ---
-title: "Jealousy (Cannabis Strain)"
+title: "Jealousy (blesching-cannabis-strain-selection-receptor-targeting)"
 type: strain
 tags:
   - cannabis
@@ -45,15 +45,15 @@ Gelato #41 contributes high THC production, dense bud structure, and sweet citru
 
 The genetic ratio is approximately **70% indica / 30% sativa**, though the sativa influence from the Thin Mint Cookies ancestor (via Gelato) is detectable in the initial cerebral onset.
 
-Both parent strains carry awards and widespread recognition: Gelato #41 was selected from the original Gelato cross for its exceptional resin production and balanced effects, while Sunset Sherbet is one of the most influential dessert strains of the 2010s.
+Both parent strains carry awards and widespread recognition: Gelato #41 was selected from the original Gelato cross for its exceptional [[cannabis-glandular-trichome-types-resin-production-clarke]] and balanced effects, while Sunset Sherbet is one of the most influential dessert strains of the 2010s.
 
 This dual-heritage gives Jealousy a complexity that appeals to both connoisseur consumers seeking nuanced flavor and medical patients seeking reliable physical relaxation.
 
 ## Appearance
 
-Buds are medium to large, densely packed with a chunky, tapered structure. Colors range from deep forest green to rich violet, with bright orange pistils woven throughout.
+Buds are medium to large, densely packed with a chunky, tapered structure. Colors range from deep [[trichoderma-forest-green-mold-guide]] to rich violet, with bright orange pistils woven throughout.
 
-The trichome coverage is exceptionally heavy, giving flowers a frosted, silvery-white appearance even before full maturity. This resin density translates to high essential oil content and potent extracts.
+The trichome coverage is exceptionally heavy, giving flowers a frosted, silvery-white appearance even before full maturity. This resin density translates to high [[permaculture-designers-manual-essential-oil-plants]] content and potent extracts.
 
 The visual presentation is one of the strain's strongest market attributes — the contrast between dark purple calyxes and white trichomes creates a distinctive bag appeal that commands premium pricing in licensed dispensaries.
 
@@ -93,7 +93,7 @@ Flowering time is **8–9 weeks** indoors, with outdoor harvest in early to mid-
 
 Indoor yields range from 350–450 g/m². The strain responds well to low-stress training (LST), topping, and SCROG methods. Plants exhibit moderate stretch during early flowering.
 
-Jealousy is considered moderately difficult to cultivate, requiring attention to humidity control (resin-heavy buds are susceptible to botrytis in high humidity) and nutrient management to maximize terpene expression.
+Jealousy is considered moderately difficult to cultivate, requiring attention to [[cervantes-humidity-control-dehumidification]] (resin-heavy buds are susceptible to botrytis in high humidity) and [[green-cannabis-grow-bible-nutrient-management-ppm]] to maximize terpene expression.
 
 The strain expresses its best color and flavor at moderate temperatures (18–24°C during flowering) with a 10–15°C day-night differential. Excessive heat can reduce terpene volatility and diminish aroma intensity.
 

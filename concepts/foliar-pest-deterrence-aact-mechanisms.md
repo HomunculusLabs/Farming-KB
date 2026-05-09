@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Elaine Ingham Ph.D., The Field Guide I for Actively Aerated Compost Tea (AACT), 2004"
+  - "elaine-ingham Ph.D., The Field Guide I for Actively Aerated Compost Tea (AACT), 2004"
 type: concept
 ---
 
@@ -25,11 +25,11 @@ When compost tea is applied to leaf surfaces, it can reduce foliar pest pressure
 
 The community of microorganisms applied to the leaf surface may be directly repugnant to insect pests. When beneficial bacteria and fungi establish themselves on foliage, they create a biological barrier that insects find unattractive or hostile. This is analogous to the way certain companion plants repel insects through their associated microbiomes.
 
-The exact compounds involved are not fully characterized, but the principle is straightforward: a healthy, diverse microbial community on the leaf surface creates conditions that deter insect landing and feeding. Local, indigenous organisms are likely to be more effective than generic commercial inocula because they are already adapted to the local environment and pest complex.
+The exact compounds involved are not fully characterized, but the principle is straightforward: a healthy, diverse [[edaphic-factors-microbial-community-structure]] on the leaf surface creates conditions that deter insect landing and feeding. Local, indigenous organisms are likely to be more effective than generic commercial inocula because they are already adapted to the local environment and pest complex.
 
 ### 2. CO2 Elevation Disrupting Pest Attraction
 
-Insects use a variety of chemical signals to locate host plants. CO2 concentration on the leaf surface is one such signal. When beneficial microorganisms colonize the leaf, their respiration elevates local CO2 levels. This altered atmospheric signature sends the wrong signal to insect pests that use CO2 gradients to locate suitable host plants.
+Insects use a variety of [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] to locate host plants. CO2 concentration on the leaf surface is one such signal. When [[forest-and-bamboo-beneficial-microorganisms]] colonize the leaf, their respiration elevates local CO2 levels. This altered atmospheric signature sends the wrong signal to insect pests that use CO2 gradients to locate suitable host plants.
 
 Plants under stress emit different volatile profiles than healthy plants. Insects have evolved to detect these stress signals and preferentially attack weakened plants. By establishing a robust microbial community on the leaf surface, the CO2 signature changes, making the plant appear less stressed or less suitable as a host.
 
@@ -77,7 +77,7 @@ Compost tea is most effective as a protectant, applied before pest pressure buil
 
 ### Sticker-Spreaders
 
-Using a sticker-spreader improves organism adhesion to leaf surfaces. Unsulfured blackstrap molasses at concentrations above 3% to 5% serves this function while also feeding beneficial fungi. Other options include aloe vera, saponin-based products, and fish hydrolysates (used carefully to avoid phytotoxicity).
+Using a sticker-spreader improves organism adhesion to leaf surfaces. Unsulfured blackstrap molasses at concentrations above 3% to 5% serves this function while also feeding beneficial fungi. Other options include [[aloe-vera]], saponin-based products, and fish hydrolysates (used carefully to avoid phytotoxicity).
 
 Dormant oils are not recommended as they can harm beneficial organisms. Any product applied with the tea should be evaluated for its impact on the microbial community.
 
@@ -100,7 +100,7 @@ A simple field assessment method is to compare untreated control plants with tre
 - **Vineyards**: Adequate bacterial and fungal coverage on leaf surfaces, combined with compost tea applications, reduced the need for sulfur and other chemical sprays from 10 to 14 per season down to approximately one in SARE grant trials. The key was maintaining both bacterial and fungal biomass on leaves, especially late in the season.
 - **Scale on rhododendrons**: Compost tea applications have shown effectiveness against armored and soft scale insects.
 - **Black spot and powdery mildew**: The competitive exclusion mechanism prevents these foliar diseases, which indirectly reduces the stress-related signals that attract secondary pests.
-- **Fruit fly larvae**: Soil drench applications of compost tea containing Beauveria bassiana have been used to attack larval stages in soil, while foliar applications of beneficial bacteria repel adult flies.
+- **Fruit fly larvae**: Soil drench applications of compost tea containing [[beauveria-bassiana]] have been used to attack larval stages in soil, while foliar applications of beneficial bacteria repel adult flies.
 
 ## Integrated Approach
 

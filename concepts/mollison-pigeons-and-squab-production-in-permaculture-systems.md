@@ -1,5 +1,5 @@
 ---
-title: Pigeons and Squab Production in Permaculture Systems
+title: Pigeons and mollison pigeons and squab production in permaculture systems in Permaculture Systems
 created: 2026-04-26
 tags:
   - permaculture
@@ -16,7 +16,7 @@ type: concept
 
 # Pigeons and Squab Production in Permaculture Systems
 
-Bill Mollison's [[permaculture]] systems. Their role extends far beyond squab production to
+Bill Mollison's permaculture systems. Their role extends far beyond squab production to
 include phosphate recycling, seed dispersal, and the maintenance of
 nutrient cycles within the designed landscape.
 
@@ -44,9 +44,9 @@ tree or along a crop line.
 
 ## Pigeons in the Zone 1 Garden
 
-In Mollison's zone planning system, pigeons are classified as small,
+In Mollison's [[mollison-course-zone-planning-and-design]] system, pigeons are classified as small,
 quiet domestic animals suitable for Zone 1. Placed within 6 metres of
-the home alongside rabbits, guinea pigs, and culinary herbs, pigeons
+the home alongside rabbits, guinea pigs, and [[holzer-medicinal-and-culinary-herbs-compendium]], pigeons
 require frequent observation but minimal management.
 
 Their loft can be integrated with the house structure, placed above
@@ -64,12 +64,12 @@ natural reforestation process by carrying and depositing seeds of
 berry-producing and fruiting trees throughout the landscape.
 
 This seed-dispersal function connects pigeons directly to
-[[mollison-soil-improvement-and-rehabilitation]] systems.
+mollison-soil-improvement-and-rehabilitation systems.
 
 ## Foraging Range and Behaviour
 
 Pigeons naturally forage the streets and open areas around human
-settlements. In urban permaculture systems, feral pigeons are already
+settlements. In [[pdc-urban-permaculture-design-principles]] systems, feral pigeons are already
 performing a foraging and waste-recycling function, though their
 unmanaged populations can become a nuisance. The permaculture approach
 is to design managed pigeon systems that capture the benefits of this
@@ -85,9 +85,9 @@ in the soil seed bank.
 Pigeons function within the broader animal system alongside:
 
 - [[mollison-rabbits-in-permaculture-design-and-soil-preparation]]
-  in zone 1 nutrient cycling
+  in zone 1 [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 - [[mollison-domestic-small-animals-zone-one]] in garden
-  grass control
+  [[mollison-geese-grass-control-and-integrated-poultry]]
 - Bees for pollination of forage crops
 
 Mollison emphasises that in the established tropical system, the usual

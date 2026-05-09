@@ -1,145 +1,114 @@
 ---
-title: Fungal Biomass Estimation Methods
+title: Fungal fungal biomass estimation methods Methods
 created: 2026-04-16
-updated: 2026-04-16
+updated: 2026-05-09
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi, biomass, methods, soil-mycology]
 sources: []
 ---
-Fungal Biomass Estimation Methods
+# Fungal Biomass Estimation Methods
 
 Accurate measurement of fungal biomass in soil and organic matter is
-essential for understanding fungal contributions to decomposition, nutrient
-cycling, and carbon storage. Multiple methods exist, each with distinct
-advantages and limitations. No single method captures all aspects of fungal
-biomass, and researchers typically use complementary approaches.
+essential for understanding fungal contributions to decomposition,
+[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and carbon storage. Multiple methods exist, each with
+distinct advantages and limitations. No single method captures all
+aspects of fungal biomass, and researchers typically use complementary
+approaches.
 
-Ergosterol Analysis
+## Ergosterol Analysis
 
-Ergosterol is a sterol found in the cell membranes of most fungi but absent
-from plants, animals, and most bacteria. It serves as a biomarker for living
-fungal biomass. Ergosterol is extracted from soil or litter samples using
-organic solvents (typically methanol or ethanol) and quantified by high-
-performance liquid chromatography (HPLC) or gas chromatography (GC).
+Ergosterol is a sterol found in the cell membranes of most fungi but
+absent from plants, animals, and most bacteria. It serves as a
+biomarker for living fungal biomass. Ergosterol is extracted from soil
+or litter samples using organic solvents (typically methanol or ethanol)
+and quantified by high-performance liquid chromatography (HPLC) or gas
+chromatography (GC).
 
-Ergosterol concentration is converted to fungal biomass using conversion
-factors that relate ergosterol content to dry weight. Typical conversion
-factors range from 3-11 micrograms ergosterol per mg fungal dry weight,
-varying with fungal species and growth conditions.
+Ergosterol concentration is converted to fungal biomass using
+conversion factors relating ergosterol content to dry weight. Typical
+conversion factors range from 3-11 micrograms ergosterol per mg fungal
+dry weight, varying with fungal species and growth conditions.
 
-Advantages of ergosterol analysis:
+**Advantages:**
 - Specific to fungi (minimal interference from other organisms)
-- Primarily measures living biomass (ergosterol degrades rapidly after
-  cell death)
+- Primarily measures living biomass (ergosterol degrades rapidly
+  after cell death)
 - Sensitive and reproducible
 - Applicable to both soil and litter substrates
 
-Limitations:
-- Marine oomycetes (e.g., Halophytopthora) do not contain ergosterol
+**Limitations:**
+- Marine oomycetes do not contain ergosterol
 - Conversion factors vary among fungal taxa and growth conditions
 - Does not distinguish between saprotrophic and mycorrhizal fungi
 - Some fungi show variable ergosterol content depending on growth phase
 
-Hyphal Length Measurements
+## Hyphal Length Measurements
 
 Direct microscopic measurement of hyphal length involves extracting
 hyphae from soil or litter, staining them (typically with fluorescent
-dyes such as fluorescein diacetate (FDA) for live hyphae or aniline blue
-for total hyphae), and measuring length using microscopy with grid-line
+dyes such as fluorescein diacetate for live hyphae or aniline blue for
+total hyphae), and measuring length using microscopy with grid-line
 intersections or image analysis.
 
-Hyphal length is converted to biomass using assumed hyphal diameters and
-specific densities. The method provides both total and FDA-active (living)
-fungal hyphal lengths. Typical soil hyphal lengths range from 10 to over
-100 m/g soil.
+Hyphal length is converted to biomass using assumed hyphal diameter
+values. The agar-film technique and membrane filter methods improve
+accuracy by providing a flat mounting surface. This method is
+labor-intensive and requires significant expertise but provides direct
+visual evidence of fungal biomass distribution.
 
-Griffiths et al. (1995) showed that the combination of mycorrhizal root
-colonization and extraradical hyphal length measurements gave the greatest
-predictive power for fungal contributions to ecosystem processes. In
-agricultural soils, mycorrhizal root colonization and soil hyphal length
-increased linearly with decreasing phosphorus availability.
+## Molecular Methods
 
-Advantages:
-- Direct visualization of fungal mycelium
-- FDA staining distinguishes living from dead hyphae
-- Relatively inexpensive equipment required
-- Provides spatial distribution information
+### Quantitative PCR (qPCR)
 
-Limitations:
-- Time-consuming and labor-intensive
-- Hyphae may be broken during extraction, underestimating length
-- Cannot identify fungi to species level
-- Difficult to distinguish mycelial types (saprotrophic vs mycorrhizal)
+DNA-based quantification uses primers targeting fungal ribosomal genes
+(ITS, 18S rRNA) to estimate total fungal biomass from soil DNA
+extracts. qPCR provides high sensitivity and can distinguish broad
+fungal groups through group-specific primers. However, results depend
+on DNA extraction efficiency, primer specificity, and copy number
+[[psilocybin-psilocin-variation-across-flushes]] taxa.
 
-Substrate-Induced Respiration (SIR)
+### Phospholipid Fatty Acid (PLFA) Analysis
 
-SIR measures the respiratory response of soil microorganisms to glucose
-addition. The method involves adding glucose to soil samples and measuring
-the initial rate of CO2 production. Selective inhibition with antibiotics
-(cycloheximide for fungi, streptomycin for bacteria) can partition total
-SIR respiration into fungal and bacterial components.
+PLFA profiling quantifies microbial [[core-endorhiza-bacterial-community-composition-cannabis]] based on
+[[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] acids in cell membranes. The 18:2omega6,9 fatty acid
+is used as a fungal biomarker. PLFA analysis provides simultaneous
+information about total microbial biomass and the fungal-to-bacterial
+biomass ratio. Limitations include the inability to distinguish between
+saprotrophic and mycorrhizal fungi and potential overlap with some
+protist fatty acids.
 
-SIR-derived fungal biomass provides an index of metabolically active fungal
-biomass. The method is rapid and can be applied to large numbers of samples.
-However, antibiotic inhibition is not perfectly selective and may underestimate
-fungal contributions.
+## Substrate-Induced Respiration
 
-Chloroform Fumigation-Extraction
+Selective inhibition of fungal respiration using antibiotics allows
+estimation of fungal versus bacterial contributions to total soil
+respiration. Cycloheximide inhibits fungal protein synthesis while
+streptomycin or oxytetracycline inhibits bacteria. The difference in
+CO2 production between treatments estimates fungal [[arbuscule-isolation-metabolic-activity-assays]].
 
-The chloroform fumigation-extraction method measures total microbial biomass
-(carbon, nitrogen, phosphorus) by lysing cells with chloroform vapor and
-measuring the flush of released nutrients. The method provides total
-microbial biomass but does not distinguish fungal from bacterial biomass
-unless combined with selective inhibitors.
+This method measures active fungal biomass rather than total biomass,
+as dormant or inactive hyphae do not respire significantly. Results
+are influenced by temperature, moisture, and substrate availability at
+the time of measurement, making it sensitive to experimental conditions.
 
-ATP Measurements
+## Methodological Considerations
 
-Adenosine triphosphate (ATP) content provides an index of total active
-microbial biomass. ATP degrades rapidly upon cell death, making it a
-good indicator of metabolically active organisms. However, ATP extraction
-efficiency varies among organisms and substrates, and the method does not
-distinguish fungal from bacterial biomass.
+Comparing results across methods is challenging because each technique
+measures a different aspect of fungal biomass. Ergosterol measures
+living membrane content, PLFA measures total membrane lipids, hyphal
+length measures physical filament presence, and qPCR measures DNA
+content. These metrics can diverge substantially depending on fungal
+physiological state, community composition, and environmental
+conditions.
 
-Phospholipid Fatty Acid (PLFA) Analysis
+Researchers recommend using multiple complementary methods and reporting
+results in comparable units. Standardization of extraction protocols,
+conversion factors, and analytical procedures remains an ongoing
+challenge in soil mycology.
 
-PLFA analysis profiles membrane lipids extracted from soil organisms.
-Specific fatty acids serve as biomarkers for different microbial groups:
-18:2omega6,9 is the primary fungal biomarker. PLFA analysis simultaneously
-provides information about total microbial biomass, fungal:bacterial ratios,
-and microbial community structure.
+## See Also
 
-PLFA analysis can estimate fungal biomass and community composition, but
-the 18:2omega6,9 fatty acid is also present in some plants and protozoa,
-creating potential overestimation of fungal biomass.
-
-Molecular Methods
-
-DNA-based methods including quantitative PCR (qPCR) with fungal-specific
-primers and metagenomic sequencing provide estimates of fungal biomass and
-community composition. Internal transcribed spacer (ITS) region amplification
-is increasingly used for fungal community analysis due to higher species-level
-resolution than 18S rRNA genes.
-
-Limitations of molecular methods include variable rRNA gene copy numbers
-among species, biases in DNA extraction efficiency (between spores and
-mycelia, and among species), and difficulty converting gene copy numbers
-to biomass estimates.
-
-Comparison of Methods
-
-Different methods yield different estimates of fungal biomass because they
-measure different aspects of the fungal community. Ergosterol and FDA-active
-hyphal lengths measure living biomass, PLFA measures total membrane lipids
-(including dead cells), SIR measures metabolically active biomass, and DNA
-methods measure genetic material (including dormant propagules).
-
-Fogel and Hunt (1983) showed that fungal biomass represented approximately
-2% of total standing stock organic matter in a second-growth Douglas fir
-forest, demonstrating that even small proportional biomass can represent
-significant absolute nutrient stocks.
-
-Related topics:
-- [[fungal-respiration-carbon-flux]]
 - [[fungal-enzymatic-diversity-decomposition]]
 - [[arbuscular-mycorrhizal-fungal-diversity]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
+- [[fungal-contributions-soil-structure]]
+- [[fungal-role-in-carbon-cycling]]

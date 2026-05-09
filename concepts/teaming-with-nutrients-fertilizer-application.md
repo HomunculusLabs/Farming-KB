@@ -1,5 +1,5 @@
 ---
-title: Fertilizer Application Methods and Timing
+title: cervantes-fertilizer-application-strain-feeding Methods and Timing
 created: 2026-04-18
 updated: 2026-18-04
 type: concept
@@ -48,15 +48,15 @@ Dilute per label instructions. Use to soak transplants (1:4 dilution) before pla
 
 The timing of fertilizer application is as critical as the method.
 Plants have distinct growth phases with different nutrient demands.
-During early vegetative growth, nitrogen demand is highest as plants build leaf tissue and chlorophyll.
+During early [[cannabis-vegetative-growth-stage]], nitrogen demand is highest as plants build leaf tissue and chlorophyll.
 During flowering and fruiting, phosphorus and potassium demand increases as plants invest energy in reproductive structures.
 Applying nitrogen-rich fertilizers late in the season can delay fruit ripening and reduce storage quality in root crops — excess nitrogen in carrots, for example, causes hairy, forked roots and reduced sugar content.
 Conversely, insufficient nitrogen early in the season produces stunted, pale plants that never catch up.
-Lowenfels recommends applying the bulk of slow-release organic fertilizers at planting time, with lighter side dressings during the growing season matched to the crop's growth stage.
+Lowenfels recommends applying the bulk of slow-release [[hamilton-organic-fertilizers-and-plant-nutrition]] at planting time, with lighter side dressings during the [[savory-growing-season-and-non-growing-season-management]] matched to the crop's growth stage.
 
 ## Nutrient Mobility and Placement
 
-Understanding nutrient mobility in soil is essential for choosing the correct application method.
+Understanding [[plant-nutrient-mobility-in-soil]] soil is essential for choosing the correct application method.
 Nitrogen (as nitrate) is highly mobile and moves readily with water through the soil profile, making it susceptible to leaching beyond the root zone, particularly in sandy soils or during heavy rainfall.
 Phosphorus, by contrast, is essentially immobile — it moves less than 1 centimetre from its point of application.
 This is why broadcasting phosphorus on the soil surface is so inefficient: the nutrient stays at the surface, far from the deeper root zones of established plants.
@@ -66,7 +66,7 @@ Banding immobile nutrients like phosphorus directly into the root zone at planti
 
 ## Soil Food Web Considerations
 
-The [[compost-building-guide]] alongside concentrated organic fertilizers feeds the soil food web while providing immediately available nutrients.
+The [[compost-building-guide]] alongside [[hamilton-concentrated-organic-fertilizer-products]] fertilizers feeds the soil food web while providing immediately available nutrients.
 
 ## Application Rates and Calibration
 
@@ -81,3 +81,8 @@ Source: Teaming with Nutrients (Lowenfels), Chapter 10
 - [[teaming-with-nutrients-fertilizer-sources]]
 - [[teaming-with-microbes-compost-mulch-tea]]
 - [[soil-testing-and-interpretation]]
+
+## See Also
+
+- [[cervantes-fertilizer-application-strain-feeding]]
+- [[teaming-with-nutrients-biofertilizers]]

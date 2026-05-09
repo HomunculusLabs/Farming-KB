@@ -1,5 +1,5 @@
 ---
-title: Money-Sucking Octopus Economy - Critique of Centralized Capitalism
+title: Money-Sucking fukuoka money sucking octopus economy critique - Critique of Centralized Capitalism
 tags:
   - economics
   - philosophy
@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-The **money-sucking octopus economy** is Masanobu Fukuoka's metaphor for the centralized, self-reinforcing economic system that he believed was destroying both the natural environment and authentic human culture. Developed during his observations of global agriculture and economics, the octopus represents how political, military, and corporate power concentrates wealth at the center while impoverishing rural communities and farmers at the periphery.
+The **money-sucking octopus economy** is [[masanobu-fukuoka]]'s metaphor for the centralized, self-reinforcing economic system that he believed was destroying both the natural environment and authentic human culture. Developed during his observations of global agriculture and economics, the octopus represents how political, military, and corporate power concentrates wealth at the center while impoverishing rural communities and farmers at the periphery.
 
 ## The Structure of the Octopus
 
@@ -95,10 +95,10 @@ He noted that agrarian landscapes still existing in Asia, Africa, and India repr
 
 ## Connection to Agriculture
 
-The octopus economy directly enables destructive agricultural practices:
+The octopus economy directly enables destructive [[mycorrhizal-agricultural-practices]]:
 
 - Commodification of food disconnects people from the land
-- Cash crop monocultures replace diverse subsistence farming
+- [[cash-crop-guide]] monocultures replace diverse subsistence farming
 - The distribution system rewards middlemen rather than producers
 - Petroleum-based agriculture becomes possible only through centralized economic control
 - Whoever controls petroleum can control the world's food supply

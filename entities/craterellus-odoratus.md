@@ -9,7 +9,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Petersen, R.H. (1975). "The genus Craterellus in North America." Nova Hedwigia, 25, 1–110.
+  - Petersen, R.H. (1975). "The genus Craterellus in psilocybin-north-america-pacific-northwest." Nova Hedwigia, 25, 1–110.
   - Kuo, M. (2024). "Craterellus odoratus." MushroomExpert.com.
   - Arora, D. (1986). "Mushrooms Demystified." Ten Speed Press.
   - Buyck, B. et al. (2016). "The nomenclatural history of Craterellus." Mycotaxon, 131(2), 277–288.
@@ -18,7 +18,7 @@ created: 2026-05-07
 
 ## Overview
 
-**Craterellus odoratus** is an edible chanterelle-relative in the family Cantharellaceae, commonly known as the **fragrant chanterelle** or **orange chanterelle**. It is a mycorrhizal mushroom found in association with hardwood and conifer trees across eastern North America and parts of Asia.
+**Craterellus odoratus** is an edible chanterelle-relative in the family Cantharellaceae, commonly known as the **fragrant chanterelle** or **orange chanterelle**. It is a [[mycelium-running-mycorrhizal-mushroom-gardens]] found in association with hardwood and conifer trees across [[polypore-fungi-eastern-north-america]] America and parts of Asia.
 
 The species is noted for its bright orange to apricot coloration, funnel-shaped fruiting body, and a distinctive fruity aroma that is often described as resembling apricots or ripe stone fruit. Unlike the true chanterelle (*Cantharellus cibarius*), it has smooth, wrinkled hymenium rather than blunt ridges.
 
@@ -93,15 +93,17 @@ Like other wild mushrooms, *C. odoratus* is a source of ergosterol, selenium, an
 
 ## Ecological Role and Permaculture Potential
 
-*C. odoratus* forms ectomycorrhizal associations with hardwood trees, facilitating nutrient exchange between fungal mycelium and host roots. The mycelial network extends root reach for phosphorus, nitrogen, and micronutrients.
+*C. odoratus* forms ectomycorrhizal associations with hardwood trees, facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between fungal mycelium and host roots. The [[gadd-mycelial-network-dynamics]] extends root reach for phosphorus, nitrogen, and micronutrients.
 
 In forest ecosystems, the species contributes to decomposition of organic matter and carbon cycling. Its fruiting bodies provide food for forest mammals, slugs, and insects. The species' sporadic fruiting pattern suggests sensitivity to environmental conditions.
 
-The permaculture potential of *C. odoratus* lies in its mycorrhizal role with oak and beech. Establishing native chanterelle species in food-forest designs can enhance tree health while providing a secondary yield of edible mushrooms.
+The permaculture potential of *C. odoratus* lies in its mycorrhizal role with oak and beech. Establishing native chanterelle species in food-forest designs can enhance tree health while providing a secondary yield of [[palmer-edible-mushrooms-north-america]].
 
 Successful cultivation of *Craterellus* species remains experimental. Inoculation of oak seedlings with spore slurries or mycelial cultures has shown promise in long-term field trials, but reliable fruiting induction has not been achieved commercially.
 
 ## See Also
+
+- [[craterellus-ignicolor]]
 
 - [[cantharellus-tubaeformis]]
 - [[boletus-edulis-entity]]

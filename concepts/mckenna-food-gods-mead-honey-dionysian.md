@@ -15,7 +15,7 @@ In *Food of the Gods*, Terence McKenna explores the complex relationship
 between honey, mead, and the religious traditions of the ancient
 Mediterranean, arguing that the intoxicating properties of fermented
 honey played a crucial transitional role in the shift from mushroom-
-based partnership religion to the alcohol-based dominator culture. The
+based partnership religion to the alcohol-based [[mckenna-dominator-culture-and-suppression-of-ecstasy]]. The
 figure of Dionysus, with his deep associations with both honey and
 ecstatic ritual, occupies a pivotal position in this transitional
 history.
@@ -46,11 +46,11 @@ fermented intoxicants known to humanity. McKenna notes that very early
 in the development of human culture, the intoxicating effects of
 fermented honey and fruit juices must have been noticed. Mead was the
 recreational drug of the Indo-European tribes, a cultural trait they
-shared with the mushroom-using pastoralists of the ancient Near East.
+shared with the mushroom-using pastoralists of the [[allegro-fertility-philosophy-of-the-ancient-near-east]] East.
 
-One of the most astonishing murals unearthed at Catal Huyuk apparently
+One of the most astonishing murals unearthed at [[mckenna-catal-huyuk-natufian-link]] apparently
 depicts the life cycle and metamorphosis of honeybees, suggesting that
-beekeeping and honey processing were important enough to the religious
+[[faires-beekeeping-and-honey-production]] processing were important enough to the religious
 and cultural life of that Neolithic city to merit prominent artistic
 representation. This find connects honey to the partnership cultures
 that McKenna sees as the original context for humanity's relationship
@@ -64,7 +64,7 @@ This belief, he argues, makes more sense when understood as an effort
 to connect bees as a source of honey and mead, the supplanting
 intoxicant, with cattle and the older mushroom cult. In the ancient
 Near East, cattle dung provided the substrate on which psychoactive
-mushrooms, particularly *Stropharia cubensis*, grew in abundance. The
+mushrooms, particularly *[[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]*, grew in abundance. The
 association of bees with cattle may thus encode a cultural memory of
 the transition from mushroom-based religion to mead-based intoxication.
 
@@ -119,11 +119,13 @@ The honey-mead-mushroom complex, as McKenna presents it, illustrates
 his larger argument that the history of human intoxication is not a
 simple story of progress from ignorance to knowledge but rather a more
 complex and often tragic story of gain and loss, in which the pursuit
-of altered states of consciousness led humanity progressively further
+of [[weil-the-natural-mind-altered-states-normalcy]] of consciousness led humanity progressively further
 from the original partnership with the plant kingdom that McKenna
 believes was the foundation of human culture.
 
 ## See Also
+
+- [[mckenna-honey-mead-dionysian-cult]]
 
 - [[mckenna-food-gods-fall-consciousness]]
 - [[mckenna-food-gods-natural-synthetic-drugs]]

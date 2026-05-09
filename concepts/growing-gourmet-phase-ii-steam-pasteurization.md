@@ -1,5 +1,5 @@
 ---
-title: Phase II Chamber Steam Pasteurization of Bulk Mushroom Substrates
+title: Phase II Chamber Steam Pasteurization of Bulk query-what-are-the-best-mushroom-substrates-for-different-species
 tags:
   - mushroom-cultivation
   - pasteurization
@@ -9,14 +9,14 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Growing Gourmet and Medicinal Mushrooms, Paul Stamets, 1993, Chapter 18
+  - Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive, Paul Stamets, 1993, Chapter 18
 type: concept
 created: 2026-04-28
 ---
 
 # Phase II Chamber Steam Pasteurization of Bulk Mushroom Substrates
 
-The Phase II chamber is a highly insulated room into which steam is injected for the purpose of pasteurizing bulk substrates such as wheat straw, cereal straws, and other agricultural waste products. Pasteurization selectively kills off populations of temperature-sensitive micro-organisms, leaving a resident population that presents little competition to mushroom mycelium for approximately two weeks, providing ample opportunity for full colonization.
+The Phase II chamber is a highly insulated room into which steam is injected for the purpose of pasteurizing bulk substrates such as wheat straw, cereal straws, and other [[fungi-in-composting-and-agricultural-waste-conversion]] products. Pasteurization selectively kills off populations of temperature-sensitive micro-organisms, leaving a resident population that presents little competition to mushroom mycelium for approximately two weeks, providing ample opportunity for full colonization.
 
 ## Pasteurization vs. Sterilization
 
@@ -40,7 +40,7 @@ Many cultivators convert shipping containers into Phase II chambers. Others cust
 
 ### Chamber Sizing
 
-One ton of chopped and soaked wheat straw occupies approximately 250 cubic feet of space, equivalent to a 10 x 10 x 2.5 ft volume. An additional 25% allowance should be made for variation in chop size, air plenums, and handling needs. Five dry tons of wheat straw functionally fill a thousand square foot growing room when filled to 1/4th of total air volume, though Stamets prefers filling to only 1/8th of capacity (a 7:1 air-to-substrate ratio).
+One ton of chopped and soaked wheat straw occupies approximately 250 cubic feet of space, equivalent to a 10 x 10 x 2.5 ft volume. An additional 25% allowance should be made for variation in chop size, air plenums, and handling needs. Five dry tons of wheat straw functionally fill a thousand square foot [[duggar-mushroom-growing-room-design]] when filled to 1/4th of total air volume, though Stamets prefers filling to only 1/8th of capacity (a 7:1 air-to-substrate ratio).
 
 ## Pre-Pasteurization Substrate Preparation
 
@@ -118,7 +118,7 @@ Straw is stuffed into a wire basket and submerged in 160 degrees F (71 degrees C
 
 ### Hydrated Lime Bath
 
-Two to four pounds of hydrated lime (calcium hydroxide) per 50 gallons of water raises pH to 9.5 or higher, killing pH-sensitive competitor organisms. Chopped straw is immersed overnight, then drained and inoculated. Oyster mushroom mycelia tolerate this alkaline environment better than most competitors, with pH naturally falling to suitable levels within a week as the mycelium secretes acids.
+Two to four pounds of hydrated lime (calcium hydroxide) per 50 gallons of water raises pH to 9.5 or higher, killing pH-sensitive competitor organisms. Chopped straw is immersed overnight, then drained and inoculated. [[cotter-oyster-mushroom-cultivation]] mycelia tolerate this alkaline environment better than most competitors, with pH naturally falling to suitable levels within a week as the mycelium secretes acids.
 
 ### Bleach Bath
 
@@ -130,9 +130,12 @@ Beer yeast (Saccharomyces cerevisiae) is propagated in warm water with malt suga
 
 ## Related Concepts
 
-- [[growing-gourmet-cold-pasteurization-bulk-substrates|Cold Pasteurization of Bulk Substrates]]
-- [[growing-gourmet-biological-efficiency-yield|Biological Efficiency and Yield]]
+- Cold Pasteurization of Bulk Substrates
+- [[stamets-biological-efficiency-yield]] and Yield
 
 ## See Also
 
 - [[query-difference-between-pasteurization-and-sterilization-mushroom-growing]]
+- [[oyster-mushroom]]
+- [[mushroom-substrates]]
+- [[substrate-preparation]]

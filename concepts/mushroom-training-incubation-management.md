@@ -1,5 +1,5 @@
 ---
-title: Mushroom Bag Incubation Management
+title: oyster-mushroom-bag-preparation-and-pasteurization Incubation Management
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
@@ -32,7 +32,7 @@ Incubation is the period during which mycelium colonizes the substrate inside ea
 | Stage | Timeline |
 |-------|----------|
 | Mycelium growth | 3 to 4 days |
-| Fruiting body | 4 to 5 days |
+| [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] | 4 to 5 days |
 | 1st flush | 7 to 9 days |
 | 2nd flush | 14 to 16 days |
 | 3rd flush | 21 to 23 days |
@@ -52,7 +52,7 @@ During incubation, the following monitoring tasks should be performed:
 
 3. Keep bags clean at all times
 
-4. Allow natural pest control where possible
+4. Allow [[cho-natural-pest-control-methods]] control where possible
 
 5. Identify and separate contaminated bags immediately
 
@@ -69,7 +69,7 @@ When contamination is detected, several options are available:
 - Tear the plastic bags off and reuse the sawdust substrate
 - Ferment substrate as compost for gardening
 
-See [[mushroom-training-oyster-straw-cultivation]] only need the cotton plug removed, while [[mushroom-training-shiitake-cultivation]] and other species may require cutting the bag at the shoulder or making side cuts.
+See mushroom-training-oyster-straw-cultivation only need the cotton plug removed, while [[mushroom-training-shiitake-cultivation]] and other species may require cutting the bag at the shoulder or making side cuts.
 
 ## Temperature Management
 
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

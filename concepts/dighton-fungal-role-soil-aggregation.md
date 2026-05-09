@@ -1,7 +1,7 @@
 ---
 title: Fungal Role in Soil Aggregation
 created: 2026-04-26
-sources: Dighton (2003) "Fungi in Ecosystem Processes" Ch. 2, 6
+sources: Dighton (2003) "Fungi in fungal-ecosystem-processes-overview" Ch. 2, 6
 tags: [soil-aggregation, glomalin, macroaggregate, microaggregate, soil-structure, carbon-sequestration]
 related: [dighton-fungal-decomposition-nutrient-cycling, dighton-fungal-responses-climate-change]
 type: concept
@@ -12,7 +12,7 @@ updated: 2026-04-26
 
 ## Overview
 
-Soil aggregation -- the binding of soil particles into stable structural units -- is a critical process for soil fertility, erosion resistance, water infiltration, and carbon sequestration. Fungi play a central role in aggregate formation and stabilization through their physical hyphal networks, polysaccharide secretions, and production of the persistent glycoprotein glomalin.
+Soil aggregation -- the binding of soil particles into stable structural units -- is a critical process for soil fertility, erosion resistance, water infiltration, and [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]. Fungi play a central role in [[soil-aggregate-formation-fungal-contributions]] and stabilization through their physical hyphal networks, polysaccharide secretions, and production of the persistent glycoprotein glomalin.
 
 ## Aggregate Hierarchy
 
@@ -24,7 +24,7 @@ Soil aggregates exist in a hierarchy (Tisdall and Oades, 1982):
 
 ### 1. Physical Binding by Hyphae
 
-Mycorrhizal fungi and root carbohydrate exudates create bacterial and fungal "hot spots" in soil that enhance aggregate density and size (Guggenberger et al., 1999). Fungal hyphae physically enmesh soil particles:
+[[arbuscular-mycorrhizal-fungi-biology-symbiosis]] and root carbohydrate exudates create [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] "hot spots" in soil that enhance aggregate density and size (Guggenberger et al., 1999). Fungal hyphae physically enmesh soil particles:
 
 - Hyphae penetrate between mineral particles, acting as a web to retain soil
 - The longevity of fungal hyphae (compared to rapid bacterial turnover) provides greater permanence to the soil-stabilizing function
@@ -39,7 +39,7 @@ Both fungi and bacteria secrete polysaccharides that act as glue, binding minera
 
 ### 3. Glomalin Production
 
-Glomalin is a glycoprotein produced by arbuscular mycorrhizal fungi (Wright and Upadhyaya, 1996):
+Glomalin is a glycoprotein produced by [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi (Wright and Upadhyaya, 1996):
 
 - May account for **30-60%** of carbon in undisturbed soils (Treseder and Allen, 2000)
 - Highly resistant to decomposition

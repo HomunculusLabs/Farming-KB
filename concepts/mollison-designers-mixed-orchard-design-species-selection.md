@@ -1,5 +1,5 @@
 ---
-title: "Mixed Orchard Design and Species Selection"
+title: "Mixed truffle-orchard-design-establishment and Species Selection"
 created: 2026-04-28
 tags:
   - permaculture
@@ -26,8 +26,8 @@ to a single product.
 
 This approach follows the principle of each element performing
 multiple functions. A single tree species might produce fruit, but
-a diverse orchard produces fruit, nitrogen fixation, pest confusion,
-wind protection, bee forage, poultry forage, and mulch -- all from
+a diverse orchard produces fruit, [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], pest confusion,
+[[cervantes-wind-protection-outdoor-cannabis]], bee forage, [[free-range-poultry-forage-design-mollison]], and mulch -- all from
 the same land area.
 
 ## Canopy Layers and Vertical Stacking
@@ -53,7 +53,7 @@ orchard:
 
 4. **Herbaceous layer:** Comfrey, borage, herbs, annual vegetables,
    and green manure crops that suppress weeds, cycle nutrients, and
-   attract beneficial insects.
+   attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]].
 
 5. **Ground layer and root zone:** Ground covers, nitrogen-fixing
    legumes, and root crops. [[zone-1-intensive-garden]] systems.
@@ -69,7 +69,7 @@ Nitrogen-fixing trees are essential companions in the mixed orchard.
 Mollison recommends interplanting leguminous species such as black
 locust (Robinia pseudoacacia), honey locust, tagasaste (Chamaecytisus
 palmensis), and acacia species. These provide nitrogen to neighboring
-fruit trees through root exudation and leaf litter decomposition,
+fruit trees through root exudation and leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]],
 reducing or eliminating the need for imported fertilizers.
 
 Black locust also provides excellent fence posts and firewood. Honey

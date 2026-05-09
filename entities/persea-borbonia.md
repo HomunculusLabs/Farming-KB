@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Little EL Jr (1979). "Silvics of North America, Vol. 1: Conifers." USDA Forest Service.
+  - Little EL Jr (1979). "Silvics of psilocybin-north-america-pacific-northwest, Vol. 1: Conifers." USDA Forest Service.
   - Fraedrich SW, Harrington TC, Rabaglia RJ et al. (2008). "Laurel wilt caused by Raffaelea lauricola." Plant Disease 92(2): 215-229.
   - Wunderlin RP, Hansen BF (2008). "Atlas of Florida Vascular Plants." Institute of Systematic Botany.
   - Kubitzki K, Rohwer JG, Bittrich V (1993). "The Families and Genera of Vascular Plants, Vol. 2." Springer.
@@ -20,7 +20,7 @@ sources:
 
 **Persea borbonia** (redbay) is an evergreen tree in the family Lauraceae, native to the southeastern United States. It is a dominant component of coastal plain forests, maritime hammocks, and bay swamps across the Atlantic and Gulf coastal plains.
 
-Redbay is ecologically significant as a primary food source for wildlife, particularly birds, and as the most severely affected host of **laurel wilt disease**, a devastating fungal pathogen vectored by the invasive redbay ambrosia beetle.
+Redbay is ecologically significant as a primary food source for wildlife, particularly birds, and as the most severely affected host of **laurel wilt disease**, a devastating [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] vectored by the invasive redbay ambrosia beetle.
 
 Since the arrival of laurel wilt in the early 2000s, millions of redbay trees have been killed across their range, causing cascading ecological impacts.
 
@@ -40,7 +40,7 @@ The trunk is straight, 30–60 cm in diameter, with dark reddish-brown to nearly
 
 Leaves are simple, alternate, elliptic to oblanceolate, 5–15 cm long and 2–5 cm wide.
 
-The leaf surface is dark green and glossy above, paler and pubescent (especially along the midrib) beneath.
+The [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is dark green and glossy above, paler and pubescent (especially along the midrib) beneath.
 
 Leaf margins are entire, and crushed leaves emit a strong, spicy aroma characteristic of the Lauraceae.
 
@@ -84,7 +84,7 @@ Redbay foliage is browsed sparingly by deer but is an important winter browse in
 
 The species is a larval host for the palamedes swallowtail butterfly (*Papilio palamedes*), which has experienced significant population declines due to laurel wilt.
 
-Fallen leaves contribute significantly to the nutrient cycling of forest floor ecosystems.
+Fallen leaves contribute significantly to the [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] of forest floor ecosystems.
 
 In bayhead swamp communities, redbay is a dominant canopy species alongside sweetbay magnolia and loblolly bay.
 
@@ -104,7 +104,7 @@ Mortality rates exceed 90% in affected stands, and the disease has killed an est
 
 The disease has spread to all states within the native range of *P. borbonia* and continues to expand westward.
 
-Research on resistance breeding and biological control is ongoing, though no effective management strategy has been developed for wild populations.
+Research on [[cannabis-disease-pest-resistance-breeding-clarke]] and [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] is ongoing, though no effective management strategy has been developed for wild populations.
 
 ## Ethnobotanical Use
 

@@ -1,28 +1,25 @@
 ---
-title: Mushroom Crop Sustaining, Flushing, Watering, and Harvesting
+title: Mushroom mushroom crop sustaining flushing watering harvesting, Flushing, Watering, and Harvesting
 created: 2026-04-26
-tags: [[mycology, mushroom-cultivation, harvesting, flushing, watering, environmental-control, crop-management, stamets]
+tags: [mycology, mushroom-cultivation, harvesting, flushing, watering, environmental-control, crop-management, stamets]
 date: 2026-04-25
 updated: 2026-04-28
-sources: [raw/papers/the-mushroom-cultivator-stamets.md]
+sources: sources: []
 type: concept
 ---
-
-# mushroom crop sustaining flushing watering harvesting, Flushing, Watering, and Harvesting
-
-Chapter X of The [[knf-fmc-floor-and-temperature-control]] During Cropping
+# mushroom crop sustaining flushing watering harvesting, Flushing, Watering, and Harvesting Chapter X of The [[knf-fmc-floor-and-temperature-control]] During Cropping
 
 Once [[mushroom-growing-room-environmental-control]] — humidifiers, steam
 injection, or evaporative pad systems, combined with proper air circulation.
 
 ## Air Movement During Cropping
 
-Air movement in the growing room is designed to create even flow across
+Air movement in the [[duggar-mushroom-growing-room-design]] is designed to create even flow across
 all levels of cropping surface, counteracting temperature stratification
 and dead air pockets by equalizing the room environment. During pin
 initiation, fresh air removes metabolic gases produced by mycelium.
-Although gas production is reduced once vegetative growth gives way to
-fruiting, the high metabolic activity of a maturing crop still generates
+Although gas production is reduced once [[cannabis-vegetative-growth-stage]] gives way to
+fruiting, the high [[arbuscule-isolation-metabolic-activity-assays]] of a maturing crop still generates
 significant CO2. Proper air circulation prevents localized high CO2
 concentrations that cause elongated stems and small underdeveloped caps.
 
@@ -30,14 +27,14 @@ concentrations that cause elongated stems and small underdeveloped caps.
 
 ### Cased Substrates
 
-The casing layer provides the primary water reservoir that supplies
+The [[gourmet-medicinal-mushroom-casing-layer-techniques]] provides the primary water reservoir that supplies
 flushes and maintains the high-humidity microclimate. Mushrooms are 90%
 water, and this water must come primarily from the casing layer and
 substrate. Key principles:
 
 1. **Before button stage:** Only light mistings. Substantial watering
    before buttons form damages pins.
-2. **After button stage:** Begin building casing moisture back up to
+2. **After button stage:** Begin building [[mushroom-casing-moisture-management]] back up to
    pre-pinning peak through daily light-to-moderate waterings.
 3. **Timing:** Reach peak moisture just prior to main harvest.
 4. **Application:** Use fine misting nozzle; avoid high water pressure and

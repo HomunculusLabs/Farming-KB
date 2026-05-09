@@ -1,5 +1,5 @@
 ---
-title: Cultural Defense and Criticism of Psychedelic Use
+title: powell cultural defense criticism psychedelic use and Criticism of Psychedelic Use
 created: 2026-04-28
 tags: [psilpsilocybinlture, history, Koestler, Graves, Huxley, criticism, powell]
 date: 2026-04-25
@@ -12,7 +12,7 @@ type: concept
 
 The reception of psilocybin in Western intellectual culture has been
 marked by both enthusiastic advocacy and fierce criticism. Simon G.
-Powell's The Psilocybin Solution examines the key figures who shaped the
+Powell's The [[powell-psilocybin-solution-ecological-cognition-theory]] examines the key figures who shaped the
 debate, exploring why some embraced the mushroom as a tool of
 transformation while others rejected it, often on grounds that reveal
 more about the critic's psychological state than about the substance
@@ -31,7 +31,7 @@ something into the mind that is not already there.
 
 Koestler perceived psilocybin as a technological product, largely because
 his experience came in the form of a Sandoz pill, the perfect symbol of a
-modern technological fix. This contrasts sharply with the wild mushroom
+modern technological fix. This contrasts sharply with the [[emcdda-wild-mushroom-foraging-misidentification-hazards]]
 as a natural symbol. Powell suggests that Koestler's negative attitude
 stemmed principally from his painful memories as a prisoner of war and
 unresolved conflicts in his psyche. Leary concluded that Koestler's
@@ -60,7 +60,7 @@ cannot flow and blossom.
 ## Robert Graves and the Warning of Self-Knowledge
 
 The poet Robert Graves, who originally notified R. Gordon Wasson of the
-secret mushroom ceremonies in Mexico, tried psilocybin in Wasson's New
+secret [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]] in Mexico, tried psilocybin in Wasson's New
 York apartment in 1960. Graves was apprehensive about perceiving demons
 behind his closed eyes. As it transpired, he need not have worried. He
 saw a mountain-top Eden and experienced the bliss of innocence and the
@@ -71,7 +71,7 @@ Graves predicted that a once sacred substance entrusted to an elite few
 would soon be sought out by jaded sensation seekers, though they would
 likely be dissatisfied since psilocybin was not a drug in the stupefying
 sense. His warning remains relevant: whoever prepares to eat
-hallucinogenic mushrooms should take as careful stock of their maldous-huxleyal well-being as initiates took before attending the Eleusinian
+[[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] should take as careful stock of their maldous-huxleyal well-being as initiates took before attending the Eleusinian
 Mysteries. The peculiar virtue of [[aldous-huxley]] explicitly summed up the early mood of optimism surrounding
 psychedelics in a 1961 speech to psychologists. He predicted that
 psychological science would inevitably be confronted with data on the

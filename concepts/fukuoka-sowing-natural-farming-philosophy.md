@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka Natural Farming Philosophy — Refined (Sowing Seeds in the Desert)"
+title: "masanobu-fukuoka-natural-farming-philosophy fukuoka-do-nothing-farming-philosophy-and-practice — Refined (Sowing Seeds in the Desert)"
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Masanobu Fukuoka, Sowing Seeds in the Desert (Chelsea Green, 2012)"
@@ -36,7 +36,7 @@ nature, and the only deity he would ever worship.
 
 Fukuoka's first attempt to practice his insight was a "magnificent failure." He
 let nature have a free hand in his father's citrus orchard — he failed to prune
-the trees, insects and diseases appeared, and he wiped out more than two hundred
+the trees, [[solomon-insects-and-diseases-integrated-approach]] appeared, and he wiped out more than two hundred
 trees. This taught him the critical distinction between non-intervention and
 taking human responsibility. It was not natural farming; it was abandonment.
 Natural farming requires human presence and active observation, but it rejects
@@ -77,7 +77,7 @@ from past through present to future is an artifact of human measurement.
 Transcendent time is a continuous moment of the present. When one sees and
 operates within that time, it is the unity of all things that is perceived. He
 proposed a "Dharma Wheel Theory of Flux in All Things" as an alternative to
-Darwin's theory of natural selection. Nature expands in all directions,
+Darwin's [[fukuoka-natural-way-of-farming-theory-of-natural-farming]] selection. Nature expands in all directions,
 three-dimensionally, and at the same time contracts and converges. Its center is
 forever motionless and forever one.
 
@@ -88,7 +88,7 @@ whether natural farming could be mixed with conventional or organic practices,
 he was adamant that it could not. One either lives in the absolute world of
 nature, or in the fantasy world of human thoughts. There is no middle ground.
 This philosophical absolutism is the key distinction between natural farming and
-organic farming, which Fukuoka saw as merely a lesser form of the same mistake —
+[[coleman-deep-organic-farming-philosophy]], which Fukuoka saw as merely a lesser form of the same mistake —
 still imposing human judgment on natural processes.
 
 ## The Philosophy Is Everything
@@ -105,7 +105,7 @@ the world's deserts proceed directly.
 In nature, Fukuoka argued, there are no beneficial or harmful insects. Plants,
 people, butterflies, and dragonflies appear separate but each is an equal
 participant. They share the same mind and life spirit. They form a single living
-organism. To speak of creatures as beneficial insects, harmful insects,
+organism. To speak of creatures as [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], harmful insects,
 pathogenic bacteria, or troublesome birds is like saying the right hand is good
 and the left hand is bad. Nature is an endless cycle in which all things
 participate in the same dance of life and death.

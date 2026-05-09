@@ -44,7 +44,7 @@ Timber framing has centuries of engineering precedent across European
     craft requires significant skill in layout, cutting, and joinery, but
     produces extremely strong and durable structures with many centuries-old
     examples still standing. Timber frames accommodate any rectangular
-    footprint and work with diverse enclosure systems including straw bale,
+    footprint and work with diverse enclosure systems including [[comparison-cob-construction-vs-straw-bale-construction]],
     hempcrete, cob, light straw-clay, and structural insulated panels. The
     exposed timber aesthetic is a primary attraction, with oak, Douglas fir,
     eastern white pine, and reclaimed timber among the common material
@@ -56,7 +56,7 @@ Timber framing has centuries of engineering precedent across European
 | Geometry | Round or polygonal only | Rectangular (any shape) |
 | Central Support | None (self-supporting loop) | Posts and columns
     required |
-| Interior Space | Open center with oculus | Open bays defined by posts
+| Interior Space | [[comparison-central-leader-vs-open-center-fruit-tree-training]] with oculus | Open bays defined by posts
     |
 | Material Preference | Roundwood (unmilled poles) | Milled dimensional
     timber |
@@ -77,7 +77,7 @@ Timber framing has centuries of engineering precedent across European
 Choose a reciprocal roof when designing a round or polygonal building
     where an open, column-free interior with a dramatic central opening is
     desired. Reciprocal roofs are ideal for eco-village structures, garden
-    pavilions, meditation spaces, yurts, greenhouses, and any natural building
+    pavilions, meditation spaces, yurts, greenhouses, and any [[query-how-do-i-choose-a-natural-building-method-for-my-climate]]
     project using locally sourced roundwood. The simpler joinery and lower
     material cost make reciprocal roofs accessible to beginner builders
     working with green woodworking techniques. The central oculus provides

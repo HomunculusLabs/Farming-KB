@@ -1,19 +1,13 @@
 ---
-title: Pasteurization In Mushroom Cultivation
+title: Pasteurization In mushroom-cultivation
 created: 2026-04-28
-tags: [[mycology, sterilization, agriculture, hygiene]
+tags: [mycology, sterilization, agriculture, hygiene]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
 type: concept
 ---
-
-# Pasteurization in Mushroom Cultivation
-
-Pasteurization is a heat treatment process used in mushroom cultivation to
-eliminate or substantially reduce competing organisms from substrates while
-preserving beneficial microorganisms that aid the cultivation process. Unlike
-[[mushroom-substrates]] involves heating the material to
+# Pasteurization in Mushroom Cultivation Pasteurization is a heat treatment process used in mushroom cultivation to eliminate or substantially reduce competing organisms from substrates while preserving beneficial microorganisms that aid the cultivation process. Unlike [[mushroom-substrates]] involves heating the material to
 60 to 80 degrees Celsius for a sustained period. The most commonly recommended
 parameters are:
 
@@ -53,7 +47,7 @@ process for even treatment.
 ### Solar Pasteurization
 
 In regions with consistent strong sunlight, substrate can be pasteurized using
-solar energy. The substrate is sealed in clear or black polyethylene bags and
+[[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]]. The substrate is sealed in clear or black polyethylene bags and
 placed in direct sunlight. Internal temperatures can reach pasteurization
 thresholds for several hours. This method is low-cost and sustainable but
 dependent on weather conditions and less reliable than thermal methods.
@@ -61,7 +55,7 @@ dependent on weather conditions and less reliable than thermal methods.
 ### Alkaline Pasteurization (Cold Treatment)
 
 An alternative to heat treatment, alkaline pasteurization involves soaking the
-substrate in a hydrated lime (calcium hydroxide) solution at a pH of 12 to 13
+substrate in a [[cervantes-hydrated-lime-quicklime-ph-adjustment]] (calcium hydroxide) solution at a pH of 12 to 13
 for 12 to 18 hours. The extreme alkalinity kills most competitors. After
 soaking, the substrate is drained, and the pH gradually drops to levels
 tolerable by mushroom mycelium. This method is popular in tropical regions
@@ -89,5 +83,6 @@ contamination issues.
 ## See Also
 
 - [[cotter-oyster-mushroom-cultivation]]
-- [[mushroom-spawn-production]]
+- mushroom-spawn-production
 - Trichoderma (common substrate contaminant)
+- [[mycelium]]

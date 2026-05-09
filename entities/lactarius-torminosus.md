@@ -29,9 +29,9 @@ sources:
 
 **Lactarius torminosus**, commonly known as the woolly milkcap, is a basidiomycete
 fungus in the family Russulaceae. It is mycorrhizal with birch (*Betula* spp.) and
-found across temperate and boreal regions of Europe, Asia, and North America. The
+found across temperate and boreal regions of Europe, Asia, and [[psilocybin-north-america-pacific-northwest]]. The
 species is notable for causing severe gastrointestinal distress if consumed raw or
-improperly prepared, yet holds cultural significance in Scandinavia and Eastern
+improperly prepared, yet holds [[ethnomycology-cultural-significance-sacred-fungi]] in Scandinavia and Eastern
 Europe where it is parboiled and prepared as a traditional food.
 
 ## Taxonomy
@@ -77,13 +77,13 @@ abdominal cramps, and profuse diarrhea. The acrid latex (primarily the sesquiter
 lactone strobilol and related velutinal esters) is responsible for the irritant
 effect. Cooking destroys much of the toxicity, and in Finnish, Karelian, and
 Russian tradition the mushrooms are parboiled (discarding the water), then
-pickled or salted for long-term storage. Despite traditional preparation, modern
+pickled or salted for long-term storage. Despite [[kava-traditional-preparation-ceremonial-context]], modern
 mycological authorities recommend avoiding this species due to the narrow margin
 between "properly prepared" and "dangerous."
 
 ## Edibility and Cultural Use
 
-In Finland, *L. torminosus* is one of the most commercially harvested wild mushrooms,
+In Finland, *L. torminosus* is one of the most commercially harvested [[edible-wild-mushrooms-by-region]],
 ranked among the top five by weight. Known as *karvaletti* (bitter milkcap) in
 Finnish. In Russia and the Baltics it is salted and fermented as a traditional
 appetizer (*solёnye griby*). Traditional preparation involves at least two changes
@@ -112,8 +112,8 @@ exchange in boreal and temperate birch ecosystems. The mycorrhizal association
 enhances host tree phosphorus and nitrogen uptake, while the fungus receives
 photosynthate carbon. In birch-dominated landscapes undergoing reforestation,
 *Lactarius* species are important indicator organisms of healthy mycorrhizal
-communities. The species is sensitive to heavy nitrogen deposition and declines
-in eutrophied boreal forests, making it a potential bioindicator of forest health.
+communities. The species is sensitive to heavy [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] and declines
+in eutrophied [[fungal-diversity-boreal-forests-taiga]], making it a potential bioindicator of forest health.
 
 ## See Also
 

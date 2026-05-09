@@ -11,7 +11,7 @@ entity_type: "compound"
 source: "TIHKAL"
 source_entry: "#32"
 classification: ["tryptamine"]
-synthesis_method: "from 5,6-methylenedioxyindole via oxalyl chloride and methylisopropylamine"
+synthesis_method: "from 5,6-methylenedioxyindole via [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] and methylisopropylamine"
 status: ["research chemical", "threshold activity only"]
 legal_status: ["varies by jurisdiction"]
 created: 2026-04-15
@@ -31,7 +31,7 @@ sources:
 
 The full chemical name is 5,6-methylenedioxy-3-[2-(isopropylmethylamino)ethyl]indole, also designated as 5H-1,3-dioxolo-[4,5-f]indole-7-ethaneamine, N-methyl-N-isopropyl.
 
-The free base has a melting point of 87-89 degrees Celsius. Mass spectral data shows the characteristic C4H12N+ fragment at m/z 86 (100%), the indolemethylene+ fragment at m/z 174 (7%), and the parent ion at m/z 260 (9%).
+The free base has a melting point of 87-89 degrees Celsius. Mass [[shirota-psilocybin-crystal-form-spectral-data-and-analytical-characterization]] shows the characteristic C4H12N+ fragment at m/z 86 (100%), the indolemethylene+ fragment at m/z 174 (7%), and the parent ion at m/z 260 (9%).
 
 This compound is the N-methyl-N-isopropyl member of the "methylenedioxy trilogy" described in the TIHKAL commentary, which also includes [[5-6-mdo-dipt-entity-tihkal]]. The methyl-isopropyl nitrogen pattern is the same one found in the much more active compounds [[4-ho-mipt-entity-tihkal]].
 
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: Fungi in Composting and Agricultural Waste Conversion
+title: Fungi in Composting and fungi in composting and agricultural waste conversion Conversion
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -14,11 +14,11 @@ Fungi play essential roles in the composting process and the bioconversion of ag
 
 ## The Composting Process
 
-Composting is defined as the microbial breakdown of organic waste material in a thermophilic, aerobic environment, producing stabilized organic matter (humus). It can be viewed as solid-state fermentation of organic wastes using a mixed population of microorganisms operating in succession.
+Composting is defined as the microbial breakdown of organic waste material in a thermophilic, aerobic environment, producing stabilized [[hamilton-composting-and-organic-matter-management]] (humus). It can be viewed as solid-state fermentation of organic wastes using a mixed population of microorganisms operating in succession.
 
 ### Three Phases of Composting
 
-1. **Mesophilic phase**: Temperature rises from ambient as bacteria initiate decomposition; temperature range 5-37C, optimum 25-30C. Raw compost contains approximately 10^7 colony-forming units (cfu) of mesophilic fungi per gram. Predominant fungi: Geotrichum spp. and the thermotolerant Aspergillus fumigatus.
+1. **Mesophilic phase**: Temperature rises from ambient as bacteria initiate decomposition; [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] 5-37C, optimum 25-30C. Raw compost contains approximately 10^7 colony-forming units (cfu) of mesophilic fungi per gram. Predominant fungi: Geotrichum spp. and the thermotolerant [[gadd-aspergillus-fumigatus-glucan-virulence]].
 
 2. **Thermophilic phase**: Temperature exceeds 45C, reaching 55-70C. Thermophilic fungi dominate, including Thermomyces lanuginosus and Aspergillus fumigatus. This phase is critical for pathogen destruction.
 
@@ -38,7 +38,7 @@ All composting systems showed about 50 to 60% mineralization of pentachloropheno
 
 ### White-Rot Fungi in Lignocellulose Degradation
 
-White-rot fungi produce ligninolytic enzymes that degrade lignin, enabling subsequent cellulose and hemicellulose access. Thermomyces lanuginosus produces xylanase that has been used successfully to enhance bleaching of kraft pulp. Pleurotus ostreatus grown on corn cobs increased dietary fibre content up to 78% and significantly prevented colon cancer development in rat studies.
+White-rot fungi produce [[singh-ligninolytic-enzymes-fungal-bioremediation]] that degrade lignin, enabling subsequent cellulose and hemicellulose access. Thermomyces lanuginosus produces xylanase that has been used successfully to enhance bleaching of kraft pulp. Pleurotus ostreatus grown on corn cobs increased dietary fibre content up to 78% and significantly prevented colon cancer development in rat studies.
 
 ### Coffee Pulp Treatment
 
@@ -64,7 +64,7 @@ The EU produces approximately 10^7 tonnes of sugar beet roots annually. White-ro
 
 ### Apple and Tomato Pomace
 
-- Apple pomace: Used for ethanol and citric acid production via SSF; Thamnidium elegans produces gamma-linoleic acid on apple pomace
+- Apple pomace: Used for ethanol and citric [[staycare-fungal-organic-acid-production-metal-leaching]] via SSF; Thamnidium elegans produces gamma-linoleic acid on apple pomace
 
 - Tomato pomace: Geotrichum candidum used in SSF to increase protein content and digestibility
 
@@ -82,6 +82,6 @@ Composting integrates with broader [[soil-food-web-nutrient-cycling]]
 
 - [[organic-composting-methods]]
 
-- [[fungal-bioremediation]]
+- fungal-bioremediation
 - [[fungal-single-cell-protein-production]]
 - [[humus-formation-and-soil-organic-matter]]

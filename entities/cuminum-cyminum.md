@@ -22,7 +22,7 @@ sources:
 
 Cuminum cyminum, commonly known as cumin, is an annual herbaceous plant in the family Apiaceae. It is one of the oldest and most widely used spice crops in human history, with evidence of cultivation dating back over 5,000 years to the ancient Levant and Egypt.
 
-The plant is valued primarily for its dried fruits (commonly called cumin seeds), which are used extensively in cuisines across South Asia, the Middle East, North Africa, Latin America, and Southeast Asia. Cumin is a signature flavor in chili con carne, garam masala, ras el hanout, and many curry blends.
+The plant is valued primarily for its dried fruits (commonly called cumin seeds), which are used extensively in cuisines across South Asia, the Middle East, North Africa, Latin America, and [[psilocybe-southeast-asia-pacific]]. Cumin is a signature flavor in chili con carne, garam masala, ras el hanout, and many curry blends.
 
 Beyond its culinary importance, cumin has a long history of medicinal use in Ayurvedic, Unani, and traditional Middle Eastern medicine systems. India is the world's largest producer and consumer, accounting for roughly 70% of global output.
 
@@ -54,7 +54,7 @@ It is brownish-yellow to dark brown, with prominent longitudinal ridges. Each me
 
 Minor constituents include α-pinene, limonene, 1,8-cineole, linalool, and carveol. The essential oil composition varies significantly with geographic origin, with Indian cumin typically higher in cuminaldehyde than Middle Eastern varieties.
 
-**Nutritional composition (per 100 g seeds):** approximately 375 kcal, 18 g protein, 22 g fat (rich in petroselinic acid), 44 g carbohydrate, and 11 g dietary fiber. The seeds provide significant iron (66 mg/100 g), calcium (931 mg), and manganese (3.3 mg).
+**[[dighton-fungal-nutritional-composition-animal-diets]] (per 100 g seeds):** approximately 375 kcal, 18 g protein, 22 g fat (rich in petroselinic acid), 44 g carbohydrate, and 11 g dietary fiber. The seeds provide significant iron (66 mg/100 g), calcium (931 mg), and manganese (3.3 mg).
 
 **Pharmacological activities:**
 
@@ -66,7 +66,7 @@ Minor constituents include α-pinene, limonene, 1,8-cineole, linalool, and carve
 
 - **Antidiabetic:** Aqueous seed extract reduced blood glucose levels by 25–35% in streptozotocin-induced diabetic rats at 200 mg/kg/day over 28 days.
 
-- **Hypolipidemic:** Daily oral administration of cumin powder (1 g/day) significantly reduced total cholesterol, LDL cholesterol, and triglycerides in human clinical trials.
+- **Hypolipidemic:** Daily oral administration of cumin powder (1 g/day) significantly reduced total cholesterol, LDL cholesterol, and triglycerides in human [[mushroom-cancer-clinical-trials-overview]].
 
 ## Culinary and Nutritional Use
 
@@ -90,15 +90,15 @@ Irrigation is applied at flowering and pod-filling stages. Harvest is done by cu
 
 ## Ecology and Applications
 
-Cumin is a moderate nectar source for pollinators, particularly honeybees and syrphid flies. The flowers attract a range of beneficial insects during the brief 2–3 week flowering period.
+Cumin is a moderate nectar source for pollinators, particularly honeybees and syrphid flies. The flowers attract a range of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] during the brief 2–3 week flowering period.
 
-The essential oil has applications beyond food and medicine. It is used in perfumery, soap making, and as a natural pesticide due to its insecticidal and repellent properties against stored grain pests.
+The essential oil has applications beyond food and medicine. It is used in perfumery, soap making, and as a [[jadam-natural-pesticide-institute-and-research]] due to its insecticidal and repellent properties against stored grain pests.
 
 Cumin straw (post-harvest residue) is used as animal fodder in arid regions, though its nutritional value is moderate. The crop fits well in rotation with wheat, cotton, and chickpea in dryland farming systems.
 
 Cumin is intercropped with fenugreek or coriander in some regions. The deep taproot helps break compacted soil layers, providing a mild soil-conditioning benefit in rotation sequences.
 
-Cumin is considered a climate-resilient crop due to its drought tolerance and low water requirements. Research interest is growing in its potential as a low-input spice for semi-arid agricultural systems threatened by water scarcity.
+Cumin is considered a climate-resilient crop due to its [[dighton-fungal-drought-tolerance-plant-water-relations]] and low water requirements. Research interest is growing in its potential as a low-input spice for semi-arid agricultural systems threatened by water scarcity.
 
 In **folk medicine** across Central and South Asia, cumin is taken for cold symptoms, as a galactagogue for nursing mothers, and as a digestive aid for infants (diluted cumin water). A paste of ground cumin is applied topically for insect bites and minor wounds.
 
@@ -106,6 +106,6 @@ In **folk medicine** across Central and South Asia, cumin is taken for cold symp
 
 - [[foeniculum-vulgare-entity]]
 - [[zingiber-officinale]]
-- [[ferula-assafoetida]]
+- ferula-assafoetida
 - [[salvia-officinalis]]
 - [[solanum-tuberosum]]

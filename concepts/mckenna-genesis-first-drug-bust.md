@@ -17,9 +17,9 @@ type: concept
 
 In *Food of the Gods*, Terence McKenna interprets the Book of Genesis as an
 allegorical account of humanity's expulsion from a psychedelic mushroom-using
-partnership society. He frames the story of Adam and Eve's fall from Eden as
+[[mckenna-dominator-vs-partnership-society-model]]. He frames the story of Adam and Eve's fall from Eden as
 "history's first drug bust," in which a dominator storm god (Jehovah) casts out
-humans who have consumed the forbidden fruit of the Tree of Knowledge, a
+humans who have consumed the [[tree-of-knowledge-and-forbidden-fruit-theory]] of the Tree of Knowledge, a
 substance McKenna identifies as the psilocybin-containing mushroom *Stropharia
 cubensis*. This reading transforms the Genesis narrative from a story of
 original sin into a record of ecological catastrophe and cultural displacement.
@@ -31,7 +31,7 @@ woman sees that the fruit is "good to eat, and that it was pleasing to the eye
 and pleasing to contemplate." She eats it and shares it with her husband. "Then
 the eyes of both of them were opened and they discovered that they were naked."
 McKenna reads this as a description of the attainment of self-reflective
-consciousness, catalyzed by the psilocybin mushroom. The phrase "the eyes of
+consciousness, catalyzed by the [[emcdda-psilocybin-mushroom-dose-and-effects]]. The phrase "the eyes of
 both of them were opened" suggests an experience of enhanced perception and
 self-awareness entirely consistent with psychedelic intoxication.
 
@@ -52,7 +52,7 @@ the transformative event. Eve is the one who first recognizes the value of the
 fruit, evaluates it critically, eats it, and shares it with her companion. In
 McKenna's reading, this reflects an earlier cultural reality in which women were
 the custodians of plant knowledge and shamanic practice within partnership
-societies. The suppression of this feminine role in subsequent dominator culture
+societies. The suppression of this feminine role in subsequent [[mckenna-dominator-culture-and-suppression-of-ecstasy]]
 is encoded in the biblical narrative as the "fall" of humanity.
 
 The story of Genesis is, in McKenna's framing, the story of a woman who is
@@ -67,7 +67,7 @@ enhanced their appreciation of sensuality.
 The woman as mistress of magical plants connects to the broader pattern of
 Goddess worship in Neolithic cultures, where female religious officials likely
 presided over mushroom-using ceremonies. The prevalence of female symbolism in
-the shrines at Catal Huyuk is overwhelming; the presence of built-in "recliners"
+the shrines at [[mckenna-catal-huyuk-natufian-link]] is overwhelming; the presence of built-in "recliners"
 in some shrines suggests that curing or midwifery in a shamanic style may have
 been part of the rites, practices most likely conducted by women.
 
@@ -76,7 +76,7 @@ been part of the rites, practices most likely conducted by women.
 The serpent in the Genesis story plays a crucial role as the agent who
 encourages the woman to eat the fruit. McKenna connects this motif to the
 broader archaic pattern in which serpents are associated with secret plant
-knowledge and immortality. He notes direct parallels with the myth of Glaukos,
+knowledge and immortality. He notes direct parallels with the [[mckenna-myth-of-glaukos-honey-death-resurrection-minoan-religion]],
 son of King Minos and Pasiphae, in which a serpent demonstrates knowledge of a
 resurrection herb. In both Genesis and the Glaukos myth, the serpent possesses
 accurate and secret information about plants that confer extraordinary states of
@@ -116,6 +116,8 @@ displacement, recast in subsequent retelling as a moral tale about disobedience
 and divine punishment. What was once a story about climate and migration became
 
 ## See Also
+
+- [[p-glycoprotein-drug-transport]]
 
 - [[mckenna-tassili-plateau-round-head-civilization]]
 - [[mckenna-food-gods-tassili-cave-paintings]]

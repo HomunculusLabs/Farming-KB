@@ -25,7 +25,7 @@ several regions.
 
 Carob pod meal is widely used as livestock feed, particularly for cattle, horses,
 sheep, goats, and poultry, providing energy, fiber, and protein. The pods can constitute
-up to 20 percent of ruminant feed rations without adverse effects. In times of scarcity,
+up to 20 percent of ruminant feed rations without [[blesching-cannabis-safety-adverse-effects-evidence]]. In times of scarcity,
 carob pods have served as a famine food for human populations, as they store well for
 years when kept dry.
 
@@ -37,8 +37,8 @@ approximately 35 to 42 percent of the seed weight and is extracted from the endo
 is used as a thickening, stabilizing, and gelling agent in food products (ice cream, cream
 cheese, baked goods, sauces, salad dressings), pharmaceuticals (laxatives, controlled-
 release formulations), cosmetics (creams, lotions), and [[nitrogen-fixing-trees]]. While
-the nitrogen fixation rates are moderate compared to many other leguminous trees, the
-carob contributes [[mollison-lawn-reform-and-alternatives-in-permaculture-design]], carob serves as a canopy-layer food tree in Mediterranean [[leaf-litter-microfungal-diversity-tropical-temperate]]. The dense evergreen canopy provides year-round shade, wind protection, and mulch
+the [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] rates are moderate compared to many other leguminous trees, the
+carob contributes [[mollison-lawn-reform-and-alternatives-in-permaculture-design]], carob serves as a canopy-layer food tree in Mediterranean [[leaf-litter-microfungal-diversity-tropical-temperate]]. The dense evergreen canopy provides year-round shade, [[cervantes-wind-protection-outdoor-cannabis]], and mulch
 from fallen leaves and pods. It functions effectively as a living fence and windbreak when
 planted in hedgerow configurations. When intercropped with olives, grapes, citrus, or
 pasture, it provides shade without severely competing for surface water due to its deep
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

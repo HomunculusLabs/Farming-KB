@@ -2,7 +2,7 @@
 
 Medicinal cannabis consists of two primary species, *Cannabis sativa* and
 *Cannabis indica*, which produce different ratios of the primary
-cannabinoids THC, CBD, and CBN. These ratios are therapeutically
+[[cervantes-cannabinoids-thc-cbd-chemistry]], CBD, and CBN. These ratios are therapeutically
 significant because they determine the balance between psychoactive and
 non-psychoactive effects, influencing which conditions each strain is best
 suited to address.
@@ -45,7 +45,7 @@ lower THC-to-higher CBD/CBN ratio produces effects that are generally:
 - **Sleep-promoting**: Can function as a sleep aid
 
 Indicas are often considered for conditions involving anxiety, insomnia,
-chronic pain, and muscle spasms, where a calming, physical effect is
+[[cannabis-chronic-pain-management]], and muscle spasms, where a calming, physical effect is
 desired. The higher CBD content provides greater CB2 receptor activation,
 which modulates immune and inflammatory responses without significant
 psychoactive effects.
@@ -112,7 +112,7 @@ sedation.
 ## Receptor Affinity Differences
 
 The therapeutic differentiation between sativa and indica can be
-understood through their cannabinoid receptor affinity profiles:
+understood through their [[cannabis-cannabinoid-receptor-pharmacology]] affinity profiles:
 
 - **THC** (higher in sativas): Binds both CB1 and CB2 receptors with
   relatively equal affinity, producing simultaneous effects on the
@@ -129,11 +129,10 @@ appearance or potency.
 ## Limitations of the Sativa-Indica Framework
 
 The sativa-indica classification, while useful, is an oversimplification.
-Several factors complicate strain selection:
+Several factors complicate [[blesching-cannabis-strain-selection-receptor-targeting]]:
 
-- **Terpene profiles**: Aromatic compounds (terpenoids) contribute
+- **[[cannabis-terpene-profiles-sativa]]**: Aromatic compounds (terpenoids) contribute
   significantly to therapeutic effects and may vary independently of
-  the THC:CBD ratio
 ## See Also
 
 - [[blesching-cannabis-therapeutic-window-dosing]] — Establishing optimal
@@ -142,7 +141,7 @@ Several factors complicate strain selection:
 
 ## Sources
 
-- Blesching, U. (2015). *The Cannabis Health Index*. North Atlantic
+- Blesching, U. (2015). *The [[blesching-cannabis-health-index-autoimmune-conditions]]*. North Atlantic
   Books.
 
 ## See Also

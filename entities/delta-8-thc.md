@@ -94,19 +94,19 @@ The vast majority of commercial Δ⁸-THC is produced through **chemical isomeri
 
 ### Quality and Safety Concerns
 
-The semi-synthetic production process raises significant safety concerns:
+The semi-synthetic [[directed-inoculum-production-process-for-amf]] raises significant safety concerns:
 
 - **Residual solvents**: Improper purification can leave hazardous solvent residues
 - **Acid catalysts**: Incomplete removal of acidic catalysts poses health risks
 - **Byproducts**: Isomerization produces Δ⁹-THC, Δ¹⁰-THC, and other isomers; product testing frequently shows Δ⁹-THC levels exceeding legal hemp thresholds
 - **Lack of standardization**: The largely unregulated market has inconsistent dosing and purity
-- **Contamination**: Some products have been found to contain heavy metals, pesticides, and cutting agents
+- **Contamination**: Some products have been found to contain [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]], pesticides, and cutting agents
 
 ## Legal Status
 
 The legal status of Δ⁸-THC exists in a complex and rapidly evolving gray area:
 
-- **Federal (United States)**: The 2018 Farm Bill legalized hemp and its derivatives, including cannabinoids like CBD. Since Δ⁸-THC can be synthesized from hemp-derived CBD, it was initially argued to be legal. The DEA's 2020 Interim Final Rule stated that "synthetically derived tetrahydrocannabinols" remain Schedule I, but the status of hemp-derived isomers remains contested in courts.
+- **Federal ([[dmt-containing-plants-united-states-halpern]])**: The 2018 Farm Bill legalized hemp and its derivatives, including cannabinoids like CBD. Since Δ⁸-THC can be synthesized from hemp-derived CBD, it was initially argued to be legal. The DEA's 2020 Interim Final Rule stated that "synthetically derived tetrahydrocannabinols" remain Schedule I, but the status of hemp-derived isomers remains contested in courts.
 - **State level**: As of 2026, over 20 U.S. states have explicitly banned or restricted Δ⁸-THC products, while others allow their sale with varying regulations on age, testing, and labeling.
 - **International**: Most countries classify Δ⁸-THC as a controlled substance alongside Δ⁹-THC under their respective drug scheduling conventions.
 

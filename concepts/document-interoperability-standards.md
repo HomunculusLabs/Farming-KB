@@ -19,7 +19,7 @@ archival, and they underpin the global ecosystem of document management.
 ## The Interoperability Problem
 
 Document interoperability has been a persistent challenge since the early days
-of word processing. Proprietary document formats created vendor lock-in, where
+of word processing. Proprietary [[word-document-formats]] created vendor lock-in, where
 documents created in one application could not be faithfully reproduced in
 another. This problem manifests in multiple ways: visual fidelity (does the
 document look the same?), semantic fidelity (is the structure and metadata
@@ -63,7 +63,7 @@ OOXML's ISO standardization improved interoperability by providing a public
 specification for the most widely used document format. However, the
 specification's length (over 6,000 pages) and complexity mean that full
 compliance is difficult to achieve, and implementers often support subsets
-of the standard. Microsoft Word itself does not fully conform to the Strict
+of the standard. [[microsoft-word]] itself does not fully conform to the Strict
 version of ISO 29500, instead using a transitional variant.
 
 ## PDF as an Interoperability Format
@@ -91,7 +91,7 @@ occurs when a document references fonts not available on the target system.
 Complex layouts involving text boxes, floating images, and multi-column
 sections are particularly prone to conversion artifacts.
 
-Conversion fidelity testing involves automated comparison of source and
+[[document-format-conversion-fidelity]] testing involves automated comparison of source and
 converted documents using metrics like text content accuracy, layout
 similarity, and style preservation. Organizations that require high-fidelity
 conversion often develop custom conversion pipelines that handle their

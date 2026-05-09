@@ -18,7 +18,7 @@ type: concept
 
 The larger organisms of the soil food web, including arthropods and other
 macrofauna, are the visible ecosystem engineers that shape soil structure,
-drive decomposition of coarse organic matter, and regulate populations of
+drive decomposition of coarse [[hamilton-composting-and-organic-matter-management]], and regulate populations of
 smaller soil organisms. In "Teaming With Microbes," Lowenfels and Lewis
 describe these creatures as the shredders, predators, and aerators of the
 soil ecosystem. While less numerous than bacteria or fungi, their physical
@@ -32,7 +32,7 @@ per square meter in healthy soils. They are named for their forked
 appendage, the furcula, which allows them to jump when threatened.
 Springtails are primarily fungivores, feeding on fungal hyphae and spores.
 In doing so, they disperse fungal propagules through the soil and stimulate
-fungal growth through selective grazing. Some species also feed on decaying
+fungal growth through [[dighton-selective-grazing-fungal-community-shifts]]. Some species also feed on decaying
 plant material and bacterial colonies. Springtails prefer moist conditions
 and are sensitive to soil compaction and chemical contamination, making them
 useful bioindicators of soil health.
@@ -49,7 +49,7 @@ levels:
   of one to three years. They play a key role in breaking down coarse
   organic matter and incorporating it into the soil matrix.
 - **Mesostigmatid mites** are predators that feed on nematodes, small
-  arthropods, and other mites. They are important biological control agents,
+  arthropods, and other mites. They are important [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents,
   regulating populations of pest organisms in the soil food web.
 - **Prostigmatid mites** include both predators and fungivores, filling
   various ecological niches within the soil community.
@@ -77,14 +77,14 @@ abundance are reliable indicators of soil biological health.
 Millipedes are detritivores that feed on coarse organic debris, particularly
 decaying wood and leaf litter. They play a critical role in the initial
 breakdown of large organic materials, fragmenting them into smaller pieces
-that provide greater surface area for bacterial and fungal colonization. This
+that provide greater surface area for [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] colonization. This
 fragmentation accelerates the overall decomposition process. Millipedes
 prefer moist habitats and are most active during warm, wet conditions.
 
 Centipedes, in contrast, are predators. They feed on insects, spiders,
 earthworms, and other small soil animals. As top predators in the soil food
 web, centipedes help regulate populations of other soil arthropods and
-contribute to biological pest control. Their presence indicates a complex,
+contribute to [[cervantes-biological-pest-control-predators]] control. Their presence indicates a complex,
 multi-trophic-level soil food web.
 
 ## Beetles and Other Macroarthropods
@@ -115,7 +115,7 @@ The physical activities of soil macrofauna profoundly influence soil
 structure. Earthworm burrows create macropores that improve drainage and
 aeration. Ant tunnels and termite galleries serve similar functions.
 Arthropod movement through soil pores mixes organic and mineral particles,
-promoting aggregate formation. The fecal pellets of earthworms, mites, and
+promoting [[soil-aggregate-formation-fungal-contributions]]. The fecal pellets of earthworms, mites, and
 springtails act as microaggregates that are stable in soil. These structural
 improvements complement the chemical aggregation mediated by
 [[lowenfels-nematode-food-web-roles]], [[lowenfels-soil-protozoa-cycling]] create the complex trophic

@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/cultivation-of-panaeolus-cyanescens-and-p
 
 # Psilocybe martinezii
 
-**Psilocybe martinezii** is a psilocybin-containing mushroom in the family Hymenogastraceae, originally described from the state of Oaxaca in southern Mexico. The species was first collected by the Mexican mycologist gastón-guzmán and named in honor of a local collector who assisted with fieldwork in the region. It belongs to Psilocybe section Mexicanae, a group characterized by small, delicate fruiting bodies that often grow in rich soils or on dung.
+**Psilocybe martinezii** is a psilocybin-containing mushroom in the family Hymenogastraceae, originally described from the state of Oaxaca in southern Mexico. The species was first collected by the Mexican mycologist gastón-guzmán and named in honor of a local collector who assisted with fieldwork in the region. It belongs to [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]] Mexicanae, a group characterized by small, delicate fruiting bodies that often grow in rich soils or on dung.
 
 ## Taxonomy
 
@@ -32,7 +32,7 @@ The species is known primarily from Oaxaca state in southern Mexico, where it oc
 
 ## Chemistry
 
-Analytical studies have confirmed the presence of [[psilocin]] in psilocybe martinezii. Baeocystin and norbaeocystin have also been detected. The total tryptamine content is comparable to [[psilocybe-mexicana]] and [[psilocybe-caerulescens]] and [[psilocybe-mexicana]] and [[psilocybe-mexicana]] is the most similar species, from which psilocybe martinezii can be distinguished by its slightly larger spores, different cheilocystidia morphology, and geographic distribution patterns. psilocybe atlantis (from Georgia, USA) is another close relative with overlapping microscopic features but a disjunct North American distribution. [[psilocybe-subbrunneascens]] from Guatemala shares the section Mexicanae placement but has a paler cap coloration and slightly smaller spores. Small Deconica species of similar habitats can be separated by their lack of bluing reaction and absence of psilocybin.
+Analytical studies have confirmed the presence of [[psilocin]] in psilocybe martinezii. Baeocystin and norbaeocystin have also been detected. The total tryptamine content is comparable to [[psilocybe-mexicana]] and [[psilocybe-caerulescens]] and [[psilocybe-mexicana]] and [[psilocybe-mexicana]] is the most similar species, from which psilocybe martinezii can be distinguished by its slightly larger spores, different cheilocystidia morphology, and geographic [[guzman-global-distribution-patterns-neurotropic-fungi]]. psilocybe atlantis (from Georgia, USA) is another close relative with overlapping microscopic features but a disjunct North American distribution. [[psilocybe-subbrunneascens]] from Guatemala shares the section Mexicanae placement but has a paler cap coloration and slightly smaller spores. Small Deconica species of similar habitats can be separated by their lack of bluing reaction and absence of psilocybin.
 
 ## Identification Notes
 
@@ -44,12 +44,12 @@ Field identification of psilocybe martinezii is challenging due to its small siz
 - Growth on or near decomposed herbivore dung at moderate elevations (1,000–2,000 m)
 - Dark purplish brown spore print
 
-The bluing reaction in psilocybe martinezii is described as moderate to strong, which helps distinguish it from some section Mexicanae species with weaker bruising. However, the difference between "moderate" and "weak" bluing can be subjective and is best assessed on fresh, moist specimens. The slightly thickened stipe base with mycelial tomentum is a useful supporting character, as is the overall silky appearance of the stipe. Definitive identification requires microscopic examination of spore dimensions (7–9 × 4.5–5.5 µm) and cheilocystidia morphology, which differ subtly from those of the most similar species, [[psilocybe-mexicana]] — the type species of section Mexicanae
+The bluing reaction in psilocybe martinezii is described as moderate to strong, which helps distinguish it from some section Mexicanae species with weaker bruising. However, the difference between "moderate" and "weak" bluing can be subjective and is best assessed on fresh, moist specimens. The slightly thickened stipe base with mycelial tomentum is a useful supporting character, as is the overall silky appearance of the stipe. Definitive identification requires [[fungal-microscopic-examination-mounting-media-techniques]] of spore dimensions (7–9 × 4.5–5.5 µm) and cheilocystidia morphology, which differ subtly from those of the most similar species, [[psilocybe-mexicana]] — the type species of section Mexicanae
 - [[psilocybe-subbrunneascens]] — Guatemalan species with overlapping morphology
-- gastón-guzmán — primary authority on Mexican psilocybin mushrooms
+- gastón-guzmán — primary authority on Mexican [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]
 - [[psilocybin]] — primary psychoactive compound
 - [[baeocystin]] — secondary tryptamine alkaloid
-- [[psilocybe-zapotecorum]] — Oaxacan species of section Zapotecorum
+- [[psilocybe-zapotecorum]] — Oaxacan species of [[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]]
 ## Practical Considerations
 
 When working with Psilocybe martinezii, several practical factors should be
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

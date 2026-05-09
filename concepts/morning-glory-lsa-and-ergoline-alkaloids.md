@@ -1,5 +1,5 @@
 ---
-title: "Morning Glory LSA and Ergoline Alkaloids"
+title: "golden-guide-morning-glory-and-ololiuqui LSA and Ergoline Alkaloids"
 created: 2026-04-28
 tags: [lsa, morning-glory, ergoline-alkaloids, hawaiian-baby-woodrose,
        hallucinogens, lysergamides]
@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-Lysergic acid amide (LSA, also known as "ergine") is a naturally
+[[ergot-and-lysergic-acid-history]] amide (LSA, also known as "ergine") is a naturally
 occurring ergoline alkaloid found in the seeds of several plant
 species. LSA is a close chemical analogue of [[lsd]] does
 not occur in nature, LSA is present in the seeds of [[ipomoea-violacea]] (morning glory). [[lsd]] and has both quantitative and qualitative differences from its
@@ -49,12 +49,12 @@ flowers. Seeds contain LSA at 0.02% by dry weight, substantially
 lower than Argyreia nervosa. A much larger quantity is needed: 150 to
 200 seeds (approximately 3 to 6 grams) yield an average dose. Ipomoea
 violacea and related Ipomoea corymbosa seeds were used historically in
-Central America for shamanic and ceremonial purposes.
+[[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] for shamanic and ceremonial purposes.
 
 ### Stipa robusta (Sleepygrass)
 
 The highest concentrations of LSA have been found in Stipa robusta
-(Achnatherum robustum), growing in the southwestern United States.
+(Achnatherum robustum), growing in the southwestern [[dmt-containing-plants-united-states-halpern]].
 However, there is no history of shamanic tradition with this plant and
 no evidence that it is commonly ingested for intoxication.
 
@@ -116,7 +116,7 @@ associated with ergotism at typical doses), and sedation that impairs
 coordination and judgment.
 
 LSA is a Schedule III controlled substance under the Controlled
-Substances Act. The seeds themselves are not specifically scheduled
+[[controlled-substances-act-and-psychedelic-research]]. The seeds themselves are not specifically scheduled
 and remain widely available through garden supply retailers and online
 vendors, creating a legal gray area.
 

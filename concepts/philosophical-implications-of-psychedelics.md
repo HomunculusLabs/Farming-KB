@@ -10,7 +10,7 @@ sources:
 
 # Philosophical Implications of Psychedelics
 
-Powell's The Psilocybin Solution develops a comprehensive philosophical system based on the implications of the psychedelic experience, arguing that entheogenic compounds like psilocybin reveal fundamental truths about the nature of reality, consciousness, and information that are inaccessible through ordinary modes of cognition.
+Powell's The [[powell-psilocybin-solution-ecological-cognition-theory]] develops a comprehensive philosophical system based on the implications of the [[leary-psychedelic-experience-bardo-mapping]], arguing that entheogenic compounds like psilocybin reveal fundamental truths about the nature of reality, consciousness, and information that are inaccessible through ordinary modes of cognition.
 
 ## Reality as Information
 
@@ -78,7 +78,7 @@ Powell's overarching philosophical claim is that psychedelics are not merely int
 - philosophical implications of psychedelics
 
 ## Merged: Psilocybin and Consciousness
-Simon G. Powell's The Psilocybin Solution develops a comprehensive theory of consciousness grounded in the psychedelic experience, arguing that psilocybin mushrooms are not merely interesting pharmacological curiosities but are "Gaia's special mushroom"--a product of the living Earth specifically designed (through evolutionary processes) to catalyze expanded awareness in human beings. It is this holistic nature of religious thought which links it with psychedelic thought." - [[psilocybin-vs-other-psychedelics]] - [[psychedelic-set-and-setting]] - [[urban-ayahuasca-iquitos-healing]] The landmark study in this field is Walter Pahnke's 1962 "Good Friday Experiment," conducted under the auspices of Timothy Leary's Harvard Psilocybin Project.
+Simon G. Powell's The Psilocybin Solution develops a comprehensive theory of consciousness grounded in the psychedelic experience, arguing that [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] are not merely interesting pharmacological curiosities but are "Gaia's special mushroom"--a product of the living Earth specifically designed (through evolutionary processes) to catalyze expanded awareness in human beings. It is this holistic nature of religious thought which links it with psychedelic thought." - [[psilocybin-vs-other-psychedelics]] - [[psychedelic-set-and-setting]] - [[urban-ayahuasca-iquitos-healing]] The landmark study in this field is Walter Pahnke's 1962 "Good [[good-friday-experiment-marsh-chapel]]," conducted under the auspices of Timothy Leary's [[leary-harvard-psilocybin-project]] Project.
 ## Merged: Psychedelic Integration Practices
 Powell's The Psilocybin Solution addresses psychedelic integration primarily through the lens of his broader philosophical framework: the challenge of incorporating expanded awareness into ordinary life. While he does not provide a systematic integration manual, his discussion of the post-psychedelic experience contains important principles and observations. The most dramatic example Powell offers of successful integration is Aldous Huxley, who "even asked his wife to inject him with LSD shortly before he died, so assured was he that a psychedelic state of mind could prepare him to face the final stage of human life." - [[psychedelic-set-and-setting]] - [[timothy-leary-harvard-psilocybin-experiments]]
 - [[psilocybin-consciousness-as-information-in-process]]

@@ -24,7 +24,7 @@ cold and dry conditions.
 
 The hyphae of ECM fungi grow between the cortical and epidermal cells of the
 root, forming a network called the **Hartig net**. This intercellular
-labyrinthine structure is the primary site of nutrient exchange between the
+labyrinthine structure is the primary site of [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between the
 fungal and plant partners. A **mantle** of densely packed hyphae covers the
 root surface, and extramatrical **mycelium** extends from the mantle into the
 surrounding soil. Together, these structures provide a large surface area for
@@ -58,7 +58,7 @@ Ectomycorrhizal fungi can intercept and redistribute carbon between
 ectomycorrhizal tree species in the field. Carbon flow from host to fungus
 represents a significant below-ground carbon sink. The extramatrical
 mycelium of ECM fungi forms extensive networks in soil that may connect
-multiple host plants, facilitating inter-plant carbon transfer.
+multiple host plants, facilitating inter-plant [[singh-mycorrhizal-network-carbon-transfer-plants]].
 
 The first sequenced genome of an ectomycorrhizal fungus, *Laccaria bicolor*
 (Martin et al. 2008), provided insights into the genomic basis of the
@@ -111,11 +111,11 @@ plays a role in establishing ECM associations.
 
 ## Comparison with Arbuscular Mycorrhizae
 
-Ectomycorrhizal and arbuscular mycorrhizal associations differ fundamentally
+Ectomycorrhizal and [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] associations differ fundamentally
 in their structural organization and host ranges. ECM fungi form a mantle and
 Hartig net without penetrating cells, while AM fungi form intracellular
 arbuscules. ECM associations are predominantly with woody plants in
-temperate and boreal forests, whereas AM associations occur across nearly all
+temperate and [[fungal-diversity-boreal-forests-taiga]], whereas AM associations occur across nearly all
 plant taxa globally. Both types enhance plant nutrient acquisition and
 provide bioprotection, but through different mechanistic pathways.
 
@@ -131,10 +131,10 @@ phytotoxicity and improving plant survival in contaminated soils.
 ## Ecological Significance
 
 Ectomycorrhizal fungi play crucial roles in forest ecosystem functioning.
-They facilitate nutrient cycling, particularly of nitrogen and phosphorus
+They facilitate [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], particularly of nitrogen and phosphorus
 in forest soils. ECM associations contribute to soil carbon storage through
 the production of recalcitrant fungal compounds. They also influence plant
-community composition and succession dynamics in forest ecosystems. The
+[[core-endorhiza-bacterial-community-composition-cannabis]] and succession dynamics in forest ecosystems. The
 diversity of ECM fungal communities serves as an indicator of forest health
 and ecosystem integrity.
 

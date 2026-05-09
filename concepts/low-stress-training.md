@@ -3,6 +3,7 @@ title: Low-Stress Training (LST)
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
@@ -11,7 +12,7 @@ tags: [reference]
 
 # Low-Stress Training (LST)
 
-Low-Stress Training (LST) is a cannabis cultivation technique that involves bending and securing branches to create an even, flat canopy without cutting or damaging plant tissue. Cervantes describes bending as a training method that "alters the flow of hormones" and is "much easier on plants than pruning." LST is the foundation of many other training techniques including [[main-lining]], and is considered the safest and most forgiving approach to canopy management.
+Low-Stress Training (LST) is a [[query-how-does-no-till-cannabis-cultivation-work]] technique that involves bending and securing branches to create an even, flat canopy without cutting or damaging plant tissue. Cervantes describes bending as a training method that "alters the flow of hormones" and is "much easier on plants than pruning." LST is the foundation of many other [[cannabis-training-techniques-comparison]] including [[main-lining]], and is considered the safest and most forgiving approach to canopy management.
 
 ## Core Concept
 
@@ -23,7 +24,7 @@ Unlike pruning or supercropping, LST causes minimal stress to the plant. Cervant
 
 The fundamental LST process:
 
-1. Start when plants have 3-5 nodes (sets of branches) during the vegetative stage
+1. Start when plants have 3-5 nodes (sets of branches) during the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]
 2. Select a flexible branch and gently bend it away from the center of the plant
 3. Secure the branch in its new position using soft ties, wire ties, or string
 4. Anchor the tie to the rim of the container or a stake in the soil
@@ -115,7 +116,7 @@ LST is often combined with [[cannabis-root-bound-symptoms-and-management]] situa
 
 ## LST in Confined Spaces
 
-Cervantes specifically addresses growing in confined spaces like attics and basements with low ceilings. In a room with a 4-foot (120 cm) ceiling, "much can be done to compensate for the loss of height, including cloning, bending, pruning, and using smaller wattage lamps." LST is the primary tool for these situations, as it keeps plants low while still allowing adequate vegetative growth before flowering.
+Cervantes specifically addresses growing in confined spaces like attics and basements with low ceilings. In a room with a 4-foot (120 cm) ceiling, "much can be done to compensate for the loss of height, including cloning, bending, pruning, and using smaller wattage lamps." LST is the primary tool for these situations, as it keeps plants low while still allowing adequate [[cannabis-vegetative-growth-stage]] before flowering.
 
 ## See Also
 

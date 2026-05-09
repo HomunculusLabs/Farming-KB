@@ -1,5 +1,5 @@
 ---
-title: Endophytic Fungi and Plant Growth Promotion in Contaminated Soils
+title: comparison-endophytic-fungi-vs-mycorrhizal-fungi and Plant brassinosteroid-growth-promotion-psilocybe-cubensis in Contaminated Soils
 created: 2026-04-26
 tags:
   - endophytic-fungi
@@ -33,7 +33,7 @@ Endophytic fungi reside in intercellular spaces, vascular tissues,
 and individual cells of aboveground and belowground plant organs.
 Key genera include:
 
-- Dark septate endophytes (DSE): Exophiala, Leptodontidium, and
+- Dark [[dark-septate-endophytes-root-colonizing-fungi]] (DSE): Exophiala, Leptodontidium, and
   Cadophora species are common in stressed and contaminated
   environments. They form melanized hyphae and microsclerotia in
   roots.
@@ -46,7 +46,7 @@ Key genera include:
   endophytes found in diverse plant species, including those growing
   on metal-contaminated or hydrocarbon-impacted soils.
 
-- Serendipita indica (formerly Piriformospora indica): A versatile
+- Serendipita indica (formerly [[linum-album-piriformospora-indica-co-culture-system]]): A versatile
   root endophyte that colonizes a broad host range and promotes growth
   under nutrient stress and metal contamination.
 
@@ -105,7 +105,7 @@ contaminants:
 - Endophytic strains isolated from plants growing on petroleum-
   contaminated soils can degrade aliphatic and aromatic hydrocarbons.
 
-- Laccase-producing endophytes contribute to PAH degradation within
+- Laccase-producing endophytes contribute to [[fungal-pah-degradation-and-soil-bioremediation]] within
   the plant rhizosphere and endosphere.
 
 - Metal-tolerant endophytes accumulate and compartmentalize heavy
@@ -118,7 +118,7 @@ contaminants:
   on contaminated sites improves survival rates and biomass
   production.
 
-- Multi-trait endophytes (combining ACC deaminase, metal tolerance,
+- Multi-trait endophytes (combining ACC deaminase, [[fungal-metal-tolerance-mechanisms]],
   and pollutant degradation) offer the greatest potential for
   enhancing phytoremediation outcomes.
 

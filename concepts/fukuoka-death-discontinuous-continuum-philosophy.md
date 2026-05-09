@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Philosophy of Death and the Discontinuous Continuum"
+title: "Fukuoka's Philosophy of Death and the fukuoka death discontinuous continuum philosophy"
 source: masanobu-fukuoka-the-road-back-to-nature
 topics: philosophy, natural-farming, spirituality, life-and-death, zen-buddhism
 ---
@@ -8,9 +8,9 @@ topics: philosophy, natural-farming, spirituality, life-and-death, zen-buddhism
 
 ## The Interview at Shunjusha
 
-In the introduction to *The Road Back to Nature*, [[natural-farming]] from mere organic farming. Organic farming replaces
+In the introduction to *The Road Back to Nature*, [[natural-farming]] from mere [[coleman-deep-organic-farming-philosophy]]. Organic farming replaces
 synthetic inputs with natural ones but retains the interventionist,
-purpose-driven mindset. Natural farming, as Fukuoka conceives it,
+purpose-driven mindset. [[comparison-natural-farming-vs-permaculture]], as Fukuoka conceives it,
 requires a fundamental shift in consciousness.
 
 ### See Also
@@ -145,4 +145,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

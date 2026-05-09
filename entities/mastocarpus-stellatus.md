@@ -49,11 +49,11 @@ The species tolerates a range of salinities but is less tolerant of reduced sali
 
 ## Chemistry and Nutrition
 
-M. stellatus produces kappa-carrageenan as its primary cell wall polysaccharide. The kappa-carrageenan from this species has higher gel strength and gelling temperature than that extracted from most Kappaphycus species.
+M. stellatus produces kappa-carrageenan as its primary [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] polysaccharide. The kappa-carrageenan from this species has higher gel strength and gelling temperature than that extracted from most Kappaphycus species.
 
 Carrageenan yield ranges from 35–55% of dry weight, with seasonal variation linked to reproductive state and environmental conditions. Yield is generally highest during summer months.
 
-Environmental factors including light intensity, nutrient availability, and water temperature all influence carrageenan biosynthesis rates.
+[[duggar-mushroom-environmental-factors-temperature-moisture-light]] including light intensity, [[ph-and-nutrient-availability-garden-soils]], and water temperature all influence carrageenan biosynthesis rates.
 
 Protein content ranges from 10–15% of dry weight. The species contains a full complement of essential amino acids, with particularly high levels of alanine and glutamic acid.
 
@@ -87,9 +87,9 @@ The species is occasionally used in cosmetics and pharmaceutical formulations wh
 
 ## Related Species
 
-The genus Mastocarpus contains approximately 10 species distributed primarily in temperate waters. M. papillatus is the most closely related species, found along the Pacific coast of North America.
+The genus Mastocarpus contains approximately 10 species distributed primarily in temperate waters. M. papillatus is the most closely related species, found along the Pacific coast of [[psilocybin-north-america-pacific-northwest]].
 
-M. jardinii occurs in the southern hemisphere along the coasts of Chile and Peru. It is morphologically similar to M. stellatus but occupies colder, more exposed habitats.
+M. jardinii occurs in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] along the coasts of Chile and Peru. It is morphologically similar to M. stellatus but occupies colder, more exposed habitats.
 
 The relationship between Mastocarpus and Chondrus has been extensively studied. Molecular data confirm that they are distinct genera, despite their morphological similarity and overlapping ecological niches.
 
@@ -99,7 +99,7 @@ Hybridization between M. stellatus and C. crispus has been reported but appears 
 
 M. stellatus is not currently listed as threatened, but local population declines have been documented in heavily harvested areas. Overharvesting in parts of Ireland and Scotland has prompted seasonal collection restrictions.
 
-Climate change poses a long-term threat through rising sea surface temperatures and increased storm frequency. The species' northern range limit may shift poleward as southern populations experience thermal stress.
+[[dighton-fungi-climate-change-feedback]] poses a long-term threat through rising sea surface temperatures and increased storm frequency. The species' northern range limit may shift poleward as southern populations experience thermal stress.
 
 Conservation efforts focus on sustainable harvest management rather than active cultivation. Natural regeneration from remaining holdfasts is generally sufficient to recover biomass within 2–3 growing seasons after disturbance.
 

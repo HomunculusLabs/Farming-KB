@@ -16,11 +16,11 @@ type: concept
 
 # Winter Day Length and Persephone Months
 
-One of the most common objections to winter vegetable production in
+One of the most common objections to winter [[dry-gardening-unirrigated-vegetable-production-solomon]] in
 northern latitudes is the belief that there is insufficient winter
 sunlight. This misconception ignores the fundamental relationship
 between latitude and day length. Understanding this relationship is
-essential for planning a successful winter harvest.
+essential for planning a successful [[coleman-claytonia-winter-harvest-cultivation]].
 
 ## Latitude Comparisons
 
@@ -44,7 +44,7 @@ By contrast, the southern tip of Great Britain sits just above the
 lies on the 54th parallel, the same latitude as Great Whale River,
 Quebec, on the shores of icy Hudson Bay. Britain's maritime climate
 is mild but its short winter days are a serious obstacle to winter
-vegetable growing.
+[[fukuoka-semi-wild-vegetable-growing-natural-method]].
 
 ## The Ten-Hour Day Threshold
 
@@ -107,7 +107,7 @@ practical farming experience:
 - **Beltane** (May 1): Beginning of the summer pastoral season.
   Outdoor transplanted vegetables begin their season of rapid growth.
 - **Lughnasadh** (August 1): First day of fall. Almost every crop is
-  in full production; the fall planting season for winter crops begins.
+  in full production; the fall planting season for [[coleman-semi-hibernating-winter-crops-harvest-extension]] begins.
 - **Samhain** (November 1): Start of winter, end of outdoor harvest,
   beginning of the next Persephone period.
 
@@ -128,14 +128,20 @@ very slowly until the ten-hour day returns in February.
 
 ## Double Coverage Benefits
 
-An unheated greenhouse with inner row-cover tunnels provides 6 to 7
+An [[coleman-unheated-greenhouse-design]] with inner row-cover tunnels provides 6 to 7
 degrees Fahrenheit of freeze protection at 25 degrees F outside.
-This protection increases progressively as ambient temperature drops
+This protection increases progressively as [[jadam-ambient-temperature-principle]] drops
 -- to 30 to 35 degrees F when the outside temperature reaches
 -15 degrees F. The diurnal influx of solar heat warms covered beds
 above freezing during the day, keeping soil unfrozen by mid-morning
 and ready for replanting.
 
-See also [[coleman-planting-schedules]], and
+See also coleman-planting-schedules, and
 [[coleman-mache-and-specialty-winter-greens]]
+- [[coleman-winter-harvest-washing-and-packing]]
+## See Also
+- [[coleman-persephone-months-winter-day-length]]
+- [[coleman-winter-greens-variety-selection]]
+- [[coleman-soil-preparation-for-winter]]
+- [[coleman-backwards-farm-winter-only-summer-fallow]]
 - [[coleman-winter-harvest-washing-and-packing]]

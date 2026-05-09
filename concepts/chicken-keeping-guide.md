@@ -1,5 +1,5 @@
 ---
-title: Chicken Keeping Guide
+title: comparison-chicken-keeping-vs-beekeeping-basics Guide
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Ultimate Guide to Natural Farming and Sustainable Living, Nicole Faires
+Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and Sustainable Living, Nicole Faires
 
 Chickens are the most accessible livestock for small-scale and homestead farming. They provide eggs, meat, manure, and pest control while requiring relatively modest space and investment.
 
@@ -22,8 +22,8 @@ Chickens serve multiple functions in a sustainable homestead:
 - **Meat**: Dual-purpose breeds provide both eggs and meat
 - **Pest control**: Chickens eat insects, grubs, and small pests in the garden and orchard
 - **Fertilizer**: Chicken manure is rich in nitrogen and makes excellent compost when properly aged
-- **Soil preparation**: Chicken tractors allow birds to till, fertilize, and weed garden beds before planting
-- **Waste recycling**: Chickens consume kitchen scraps, reducing waste
+- **Soil preparation**: [[mollison-designers-chicken-tractors-egg-production]] allow birds to till, fertilize, and weed garden beds before planting
+- **[[mollison-designers-banana-circle-waste-recycling-system]]**: Chickens consume kitchen scraps, reducing waste
 
 ## Housing and Coop Design
 
@@ -38,7 +38,7 @@ Chickens serve multiple functions in a sustainable homestead:
 
 ### Chicken Tractors
 
-A chicken tractor is a movable coop without a floor that allows chickens to graze on fresh ground:
+[[query-how-to-design-a-chicken-tractor-system]] is a movable coop without a floor that allows chickens to graze on fresh ground:
 
 - **A-frame design**: Triangular house with an enclosed wire pen — most common small design
 - **Rectangular design**: House takes up 1/3 of the space with a cutout for chickens to enter the run
@@ -125,7 +125,7 @@ A brooder is simply a box with a heat lamp that replaces a broody hen:
 
 ## Related Topics
 
-- [[zone-1-intensive-garden]] — integrating chickens near the home
+- [[zone-1-intensive-garden]] — [[query-benefits-of-integrating-chickens-into-permaculture]] near the home
 - [[composting-methods-comparison]] — using chicken manure in compost
 - [[goat-keeping-guide]] — comparing livestock
 - [[knf-livestock-chicken-house-natural-farming]]

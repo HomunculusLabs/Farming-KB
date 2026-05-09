@@ -19,7 +19,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Thiers, H.D. (1975). "California boletes: the genus Suillus." Mycotaxon 2(2): 197–218.
-  - Smith, A.H. & Thiers, H.D. (1964). "A contribution toward a monograph of North American species of Suillus." Ann Arbor: University of Michigan Press.
+  - Smith, A.H. & Thiers, H.D. (1964). "A contribution toward a monograph of [[growing-gourmet-north-american-reishi-species]] species of Suillus." Ann Arbor: University of Michigan Press.
   - Arora, D. (1986). "Mushrooms Demystified." Ten Speed Press.
   - Kuo, M. (2024). "Suillus pungens." MushroomExpert.com. https://www.mushroomexpert.com/suillus_pungens.html
 ---
@@ -67,13 +67,13 @@ Basidiomycota → Agaricomycetes → Boletales → **Suillaceae → *Suillus →
 - **Odor:** Very strong, pungent, and distinctive — often described as
   acrid, fruity, or chemical-like. This is the most reliable field character.
 - **Taste:** Mild to slightly acidic.
-- **Spore print:** Olive-brown to cinnamon-brown.
+- **[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Olive-brown to cinnamon-brown.
 - **Spores:** Smooth, ellipsoid to fusiform, 7–10 × 3–4 µm.
 
 ## Distribution and Habitat
 
 - **Geographic range:** Endemic to coastal California, with documented
-  populations from the San Francisco Bay Area south to San Luis Obispo County.
+  populations from the [[shipibo-san-francisco-ceremonial-center-ucayali]] Bay Area south to San Luis Obispo County.
 - **Habitat:** Exclusively ectomycorrhizal with Monterey pine (*Pinus radiata*).
   Found in coastal pine forests, often in sandy or loamy soils.
 - **Season:** Late autumn through early winter (November–February), appearing
@@ -84,18 +84,18 @@ Basidiomycota → Agaricomycetes → Boletales → **Suillaceae → *Suillus →
 ## Ecological Role
 
 S. pungens forms obligate ectomycorrhizal associations with Monterey pine,
-facilitating nutrient exchange between the fungal mycelium and host root
+facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between the fungal mycelium and host root
 system. The fungus aids in phosphorus and nitrogen uptake for the tree while
 receiving photosynthetically derived carbon compounds.
 
 Monterey pine forests along the California coast are relatively restricted in
 extent, making S. pungens a specialist of a narrowly distributed ecosystem.
-Its strong odor may serve a role in spore dispersal attraction or deterrence
+Its strong odor may serve a role in [[aquatic-fungi-spore-dispersal-ingold]] attraction or deterrence
 of mycophagous invertebrates, though this has not been experimentally verified.
 
 ## Cultivation Notes
 
-No established cultivation methods exist for S. pungens. Like most Suillus species,
+No established [[synthetic-log-cultivation-methods-guide]] exist for S. pungens. Like most Suillus species,
 it is dependent on living host roots for survival and cannot be grown on
 sterile substrates. Inoculation of pine seedlings with spore slurries has been
 attempted experimentally for other Suillus species with limited success.

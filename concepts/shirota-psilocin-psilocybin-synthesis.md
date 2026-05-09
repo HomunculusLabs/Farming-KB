@@ -1,5 +1,5 @@
 ---
-title: "Shirota Psilocin and Psilocybin Synthesis"
+title: "Shirota tryptamine-chemistry-psilocin-and-psilocybin-synthesis Synthesis"
 created: 2026-04-28
 tags: [psilocybin, psilocin, organic-synthesis, phosphorylation, zwitterion, shirota, pharmaceutical-chemistry, analytical-standards]
 date: 2026-04-28
@@ -14,22 +14,22 @@ Osamu Shirota, Wataru Hakamata, and Yukihiro Goda published "Concise
 Large-Scale Synthesis of Psilocin and Psilocybin" in the Journal of Natural
 Products in 2003. Working at the National Institute of Health Sciences in
 Tokyo, the team achieved the first gram-scale syntheses of both [[psilocybin]] (4-PO-DMT), the principal hallucinogenic
-constituents of "magic mushrooms," without requiring any chromatographic
+constituents of "[[guzman-magic-mushrooms-african-species]]," without requiring any chromatographic
 purification step.
 
 ## Background and Motivation
 
 Psilocin and psilocybin are indolealkylamine hallucinogens structurally
-similar to the neurotransmitter [[psilocybin-mushrooms]].
+similar to the n.
 
 The use of magic mushrooms became popular among young people in Japan due to
 relatively low cost and lower perceived legal stigma compared to other drugs.
 Consequently, since June 6, 2002, fungi containing psilocin and psilocybin
 have been regulated under the Narcotics and Psychotropic Control Law in Japan.
-Identification of hallucinogenic mushrooms using morphological and microscopic
+Identification of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] using morphological and microscopic
 analysis is difficult without expert mycologists, so chromatographic methods
 including TLC, GC, and HPLC are typically employed. These analytical methods
-require pure standard compounds, which are difficult to isolate from mushroom
+require pure [[shirota-forensic-standard-compounds-magic-mushroom-identification]], which are difficult to isolate from mushroom
 material at gram scale because psilocin readily decomposes and psilocybin has
 high polarity.
 
@@ -56,7 +56,7 @@ characterization of a zwitterionic intermediate. When the phosphorylation
 reaction of psilocin with tetrabenzylpyrophosphate was performed in THF at
 minus 78 degrees Celsius to 0 degrees Celsius, the expected O,O-dibenzyl
 phosphate derivative (compound 7) was formed but proved unstable. Standard
-aqueous workup followed by NMR analysis revealed complicated signals, and TLC
+aqueous workup followed by [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]] revealed complicated signals, and TLC
 showed an additional spot at the origin consisting of a whitish material that
 no longer dissolved in dichloromethane.
 
@@ -94,6 +94,6 @@ excess reagent.
 
 ## Final Deprotection
 
-Catalytic hydrogenolysis of the zwitterionic intermediate using palladium on
+[[shirota-catalytic-hydrogenolysis-debenzylation-psilocybin]] of the zwitterionic intermediate using palladium on
 carbon in methanol at room temperature removed both benzyl groups and yielded
 [[shirota-psilocin-instability-chromatographic-challenges]]

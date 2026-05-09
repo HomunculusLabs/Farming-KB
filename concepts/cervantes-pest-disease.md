@@ -1,11 +1,12 @@
 ---
-title: "Cannabis Pest and Disease Identification"
+title: "query-how-to-use-neem-oil-for-cannabis-pest-control and solomon-disease-identification-and-organic-remedies"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
 tags: [cannabis]
 sources:
-  - raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # Cannabis Pest and Disease Identification
@@ -18,7 +19,7 @@ Prevention is the best medicine for pest and disease problems in the garden. Goo
 
 - Maintain proper temperature (72-76°F / 22-24°C)
 - Maintain proper humidity (45-55% ideal)
-- Ensure adequate air circulation and ventilation
+- Ensure adequate [[stamets-growing-room-air-circulation-co2-management]] and ventilation
 - Keep grow room and tools clean
 - Use sterile tools between plants
 - Inspect plants regularly
@@ -26,7 +27,7 @@ Prevention is the best medicine for pest and disease problems in the garden. Goo
 
 ## Air Circulation as Prevention
 
-Air circulation helps prevent harmful pest and fungus attacks. Omnipresent mold spores do not land and grow as readily when air is stirred by a fan. Insects and spider mites find it difficult to live in an environment constantly bombarded by air currents.
+Air circulation helps prevent harmful pest and fungus attacks. Omnipresent mold spores do not land and grow as readily when air is stirred by a fan. Insects and [[cervantes-spider-mites-identification-control]] find it difficult to live in an environment constantly bombarded by air currents.
 
 ## Common Pests
 
@@ -42,7 +43,7 @@ Air circulation helps prevent harmful pest and fungus attacks. Omnipresent mold 
 - Small dark flies around soil surface
 - Larvae feed on roots in moist soil
 - More common in overwatered gardens
-- Yellow sticky traps help monitor populations
+- Yellow [[cervantes-sticky-traps-pest-monitoring]] help monitor populations
 
 ### Aphids
 - Cluster on new growth and undersides of leaves
@@ -62,7 +63,7 @@ Air circulation helps prevent harmful pest and fungus attacks. Omnipresent mold 
 ## Common Diseases
 
 ### Botrytis (Bud Rot / Gray Mold)
-- The most destructive fungal disease
+- The most destructive [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]]
 - Thrives in cool, humid conditions (humidity above 80%)
 - Attacks dense buds from inside out
 - Brown, mushy spots on buds
@@ -92,3 +93,7 @@ Hydrated lime is used as a grow room fungicide. Sprinkle it on the floor and aro
 ## [[cervantes-indoor-grow-room-setup]] — Ventilation and environmental control
 - [[cervantes-cloning]] — Clone sanitation practices
 - [[cervantes-companion-planting-pest-deterrent]]
+
+## See Also
+
+- [[cervantes-pest-disease-prevention-overview]]

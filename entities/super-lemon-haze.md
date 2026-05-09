@@ -11,7 +11,7 @@ sources:
   - "https://www.allbud.com/super-lemon-haze/strain"
 ---
 # Super Lemon Haze
-Super Lemon Haze (SLH) is a sativa-dominant cannabis strain created by
+Super Lemon Haze (SLH) is a sativa-dominant [[blesching-cannabis-strain-selection-receptor-targeting]] created by
 Amsterdam-based breeder Franco Loja of Green House Seed Company. A two-time
 High Times Cannabis Cup winner (2008 and 2009), SLH is celebrated for its
 intense lemon-citrus aroma, uplifting cerebral effects, and reliable
@@ -71,10 +71,10 @@ The leaves themselves emit a faint citrus scent when rubbed.
   Performs well in greenhouse environments.
 - **Training**: Responds well to LST, ScrOG, and topping to manage height
   and improve canopy light distribution.
-- **Nutrients**: Moderate-to-heavy feeder during vegetative growth. Reduce
+- **Nutrients**: Moderate-to-heavy feeder during [[cannabis-vegetative-growth-stage]]. Reduce
   nitrogen in weeks 6–8 of flowering to encourage terpene development.
-- **Pest Resistance**: Good general resistance. Monitor for spider mites
-  and powdery mildew in indoor environments.
+- **[[cannabis-disease-pest-resistance-breeding-clarke]]**: Good general resistance. Monitor for [[cervantes-spider-mites-identification-control]]
+  and [[cervantes-powdery-mildew-prevention-treatment]] in indoor environments.
 - **Harvest Indicators**: Trichomes shift from cloudy to mixed cloudy/amber
   at peak maturity. Citrus aroma intensifies in the final 1–2 weeks.
 ## Effects Profile
@@ -92,7 +92,7 @@ Effects begin within 2–5 minutes of inhalation and last approximately
 - **Fatigue**: Stimulating sativa profile useful for daytime fatigue
 - **Anxiety**: Limonene-dominant profile may provide anxiolytic benefits,
   though higher doses can be counterproductive for some users
-- **Chronic Pain**: Moderate analgesic properties from caryophyllene and
+- **[[cannabis-chronic-pain-management]]**: Moderate analgesic properties from caryophyllene and
   myrcene content
 - **ADHD**: Some patients report improved focus (anecdotal, not validated)
 - **Nausea**: Anti-emetic effects consistent with sativa-dominant strains

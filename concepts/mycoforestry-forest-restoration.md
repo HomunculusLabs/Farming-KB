@@ -4,7 +4,8 @@ created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [mycoforestry, mycorestoration, forest-restoration, mycorrhizal, fungi, mycology, ecology, environment, forestry, conservation]
-sources: [raw/papers/mycelium-running-stamets.md]
+sources: sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # Mycoforestry and Forest Restoration
@@ -13,19 +14,19 @@ Mycoforestry is the use of fungi to restore and sustain forest ecosystems. It en
 
 ## The Mycelial Network
 
-In old-growth forests, mycelial networks form a "mycelial mat" -- a vast underground web connecting trees, plants, and soil organisms. This mycorrhizal network facilitates nutrient exchange between trees, distributes water, and creates soil structure. In fact, the mycelium of a single fungal organism can extend for hundreds or even thousands of acres. When old-growth forests are cut, this network is destroyed, and recovery is extremely slow without intervention.
+In old-growth forests, [[fungal-mycelial-networks-nutrient-translocation]] form a "mycelial mat" -- a vast underground web connecting trees, plants, and soil organisms. This [[arbuscular-mycorrhizal-network-visualization-anastomosis]] facilitates nutrient exchange between trees, distributes water, and creates soil structure. In fact, the mycelium of a single fungal organism can extend for hundreds or even thousands of acres. When old-growth forests are cut, this network is destroyed, and recovery is extremely slow without intervention.
 
 ## Mycorrhizal Inoculation
 
 Mycorrhizal fungi form symbiotic associations with plant roots, extending the root system's reach and enabling the plant to access nutrients and water that would otherwise be unavailable. Mycorrhizal inoculation of seedlings involves:
 
-1. Applying mycorrhizal inoculum (such as MycoGrow) to seedling roots at planting time
+1. Applying [[arbuscular-mycorrhizal-inoculum-production-best-practices]] (such as MycoGrow) to seedling roots at planting time
 2. Ensuring the inoculum contacts the root zone directly
-3. Planting seedlings in sites where native mycorrhizal networks have been disrupted
+3. Planting seedlings in sites where native [[dighton-mycorrhizal-networks-carbon-transfer]] have been disrupted
 
 Benefits of mycorrhizal inoculation:
 - Increased nutrient uptake (phosphorus, nitrogen, micronutrients)
-- Enhanced drought tolerance
+- Enhanced [[dighton-fungal-drought-tolerance-plant-water-relations]]
 - Protection against root pathogens
 - Improved soil structure through glomalin production
 
@@ -53,7 +54,7 @@ Future trials for mycoforestry use a matrix of white rot, brown rot, and mycorrh
 ## See Also
 
 - [[mycofiltration-water-treatment]]
-- [[mycoremediation-overview]]
+- [[cotter-mycoremediation-overview]]
 - [[fungal-ecology-decomposition-cycles]]
 - [[paul-stamets]]
 ## Practical Considerations
@@ -72,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

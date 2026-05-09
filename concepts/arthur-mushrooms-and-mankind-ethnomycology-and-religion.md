@@ -3,14 +3,14 @@ title: "Ethnomycology and Religion: Arthur's Synthesis"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
-  - "Arthur J - Mushrooms and Mankind"
+  - "Arthur J - arthur mushrooms and mankind ethnomycology and religion"
 type: concept
 tags: [ethnomycology, mushroom-cultivation, mushrooms, mycology]
 ---
 
 # Ethnomycology and Religion: Arthur's Synthesis
 
-James Arthur's "Mushrooms and Mankind" offers a sweeping synthesis of ethnomycology and comparative religion, arguing that psychoactive mushrooms -- especially Amanita muscaria -- constitute the hidden thread connecting virtually all world religions. The work weaves together philology, symbology, art history, and scriptural interpretation to build its case.
+James Arthur's "Mushrooms and Mankind" offers a sweeping synthesis of ethnomycology and comparative religion, arguing that psychoactive mushrooms -- especially [[allegro-amanita-muscaria-properties-and-pharmacology]] -- constitute the hidden thread connecting virtually all world religions. The work weaves together philology, symbology, art history, and scriptural interpretation to build its case.
 
 ## The Discipline of Ethnomycology
 
@@ -22,9 +22,9 @@ The study necessarily crosses multiple disciplines: psychology, ethnology, philo
 
 Arthur's most detailed ethnomycological analysis centers on Christmas traditions:
 
-**Santa Claus as shaman**: Siberian shamans dressed in red and white, entered through the roof opening of homes (the chimney), and carried mushrooms in bags. The transition from indigenous shaman to St. Nicholas (patron saint of children in Russia) to Santa Claus represents the Christianization of shamanic practice.
+**[[fly-agaric-santa-claus-myth]] as shaman**: Siberian shamans dressed in red and white, entered through the roof opening of homes (the chimney), and carried mushrooms in bags. The transition from indigenous shaman to St. Nicholas (patron saint of children in Russia) to Santa Claus represents the Christianization of shamanic practice.
 
-**The Christmas tree**: Coniferous trees are brought indoors and gifts placed underneath -- precisely where Amanita muscaria grows in nature (mycorrhizal with pine/birch). The tradition of ornamenting the tree traces to the German "Paradise Tree" decorated with apples representing the fruit of the Tree of Knowledge.
+**The [[arthur-christmas-tree-amanita-muscaria]]**: Coniferous trees are brought indoors and gifts placed underneath -- precisely where Amanita muscaria grows in nature (mycorrhizal with pine/birch). The tradition of ornamenting the tree traces to the German "Paradise Tree" decorated with apples representing the fruit of the Tree of Knowledge.
 
 **Reindeer flight**: Siberian reindeer are known to eat Amanita muscaria; their behavior under its influence gave rise to the mythology of flying reindeer.
 

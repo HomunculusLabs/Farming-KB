@@ -1,5 +1,5 @@
 ---
-title: "Ololiuqui and Morning Glory Seeds"
+title: "schultes ololiuqui and morning glory Glory Seeds"
 created: 2026-04-28
 tags:
   - ololiuqui
@@ -88,9 +88,9 @@ divination and witchcraft, Ololiuqui is taken at night and, in contrast
 to Peyote and the mushrooms, is administered to a single individual
 alone in a quiet, secluded place.
 
-The use of the hallucinogenic Morning Glories, so significant in the
+The use of the hallucinogenic [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]], so significant in the
 life of pre-Hispanic Mexico, hid in the hinterlands until the present
-century. As with the sacred mushrooms, the seeds "still serve the
+century. As with the [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]], the seeds "still serve the
 natives as an ever present help in time of trouble."
 
 ## Chemistry: Lysergic Acid Amides
@@ -104,7 +104,7 @@ establishes its relationship with these ergoline alkaloids as well as
 with the active principles of *Psilocybe* and the brain hormone
 serotonin.
 
-LSD (lysergic acid diethylamide), a semi-synthetic compound, is the
+LSD (lysergic [[lsd-lysergic-acid-diethylamide-experience-guide]]), a semi-synthetic compound, is the
 most potent hallucinogen known. It differs from lysergic acid amide
 only by replacement of two hydrogen atoms for two ethyl groups. The
 active principle of Ololiuqui (hallucinogenic dose 2-5 mg), however,
@@ -125,7 +125,7 @@ intoxication.
 
 ## See Also
 
-- [[hofmann-lsd-pharmacology-serotonin-brain]] -- Chemical analysis of lysergic acid amides
+- [[hofmann-lsd-pharmacology-serotonin-brain]] -- [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of lysergic acid amides
 - [[schultes-peyote-tracks-little-deer]] -- Other major Mesoamerican hallucinogen
 - [[entheogen-tetrapteris-methystica-alternative-caapi]] -- Plants in sacred ceremonial contexts
 - [[hofmann-ololiuqui-morning-glory-investigation]]

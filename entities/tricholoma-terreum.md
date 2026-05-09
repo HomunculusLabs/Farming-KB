@@ -28,7 +28,7 @@ The species was originally described by Jacob Christian Schäffer in 1762 as Aga
 
 For many decades T. terreum was considered one of the safest edible Tricholoma species, recommended as a beginner's mushroom due to its lack of toxic lookalikes.
 
-Recent biochemical studies have prompted renewed investigation into its safety profile, though it remains widely consumed in Mediterranean countries.
+Recent biochemical studies have prompted renewed investigation into its [[cannabis-safety-profile-and-overdose-risk]], though it remains widely consumed in Mediterranean countries.
 
 ## Taxonomy
 
@@ -68,7 +68,7 @@ Flesh is white, thin, with a mild farinaceous odor and taste reminiscent of fres
 
 Tricholoma terreum is found across most of Europe, from Scandinavia to the Mediterranean, and extends into North Africa and parts of temperate Asia.
 
-It is most common in the Mediterranean region, where it forms an important part of the autumn mushroom harvest in Spain, Italy, and southern France.
+It is most common in the Mediterranean region, where it forms an important part of the autumn [[duggar-mushroom-harvest-and-post-harvest]] in Spain, Italy, and southern France.
 
 The species is strictly ectomycorrhizal, forming associations primarily with Pinus sylvestris (Scots pine) and P. nigra (black pine).
 
@@ -78,7 +78,7 @@ It is occasionally found under other conifers including spruce (Picea spp.) and 
 
 ## Culinary and Nutritional Value
 
-Tricholoma terreum is widely regarded as an excellent edible mushroom with a delicate, mild flavor that pairs well with eggs, cream sauces, and pasta dishes.
+Tricholoma terreum is widely regarded as an excellent [[bloomfield-boletus-satanus-edible-mushroom-hazards]] with a delicate, mild flavor that pairs well with eggs, cream sauces, and pasta dishes.
 
 It is one of the most commercially collected wild mushrooms in parts of Catalonia and the Languedoc region of France.
 
@@ -86,7 +86,7 @@ The texture is firm and pleasant when young, though specimens can become somewha
 
 Nutritional analysis shows moderate protein content, low fat, and measurable amounts of potassium, phosphorus, and B-group vitamins.
 
-Unlike many popular edible mushrooms, T. terreum contains negligible levels of heavy metals when collected from unpolluted forest sites.
+Unlike many popular [[palmer-edible-mushrooms-north-america]], T. terreum contains negligible levels of heavy metals when collected from unpolluted forest sites.
 
 It is not cultivated commercially and remains exclusively a foraged species, contributing to local rural economies in southern Europe.
 
@@ -96,7 +96,7 @@ In 2014, a Chinese research group reported that T. terreum contained peptides th
 
 This finding generated significant controversy in the mycological community, as T. terreum had been consumed safely for centuries.
 
-Subsequent European studies found no evidence of rhabdomyolytic peptides in European collections, suggesting possible geographic variation or taxonomic confusion.
+Subsequent European studies found no evidence of rhabdomyolytic peptides in European collections, suggesting possible geographic variation or [[neurotropic-fungi-taxonomic-confusion-and-identification]].
 
 The original Chinese study has been criticized for potential misidentification of specimens, as T. equestre and T. terreum can be confused in the field.
 
@@ -104,7 +104,7 @@ Current consensus among European mycological societies is that T. terreum remain
 
 ## Ecology
 
-As an ectomycorrhizal species, Tricholoma terreum plays a role in nutrient cycling within coniferous forest ecosystems.
+As an ectomycorrhizal species, Tricholoma terreum plays a role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within coniferous forest ecosystems.
 
 It contributes to phosphorus and nitrogen uptake for its host trees in exchange for photosynthetic carbon compounds.
 

@@ -1,11 +1,12 @@
 ---
-title: Fukuoka Natural Diet Four Types
+title: masanobu-fukuoka-natural-farming-philosophy Diet Four Types
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka Natural Diet Four Types
@@ -20,11 +21,11 @@ A lax, self-indulgent diet influenced by the external world that submits to crav
 
 The empty diet is driven by cravings for flavor and stimulation rather than genuine bodily need. People who practice this diet pursue novelty in food, consuming highly processed, artificially flavored, and out-of-season products. This diet reflects a fundamental disconnection between the eater and the source of food — a hallmark of [[fukuoka-critique-western-dietetics]].
 
-In contrast with the simple Eastern diet of brown rice and vegetables that provides everything the body needs, Western dietetics teaches that health cannot be maintained unless one has a balanced diet with a full complement of nutrients: starch, fat, protein, vitamins, minerals, and so on.
+In contrast with the simple Eastern diet of brown rice and vegetables that provides everything the body needs, [[fukuoka-critique-western-dietetics-nutritional-science]] teaches that health cannot be maintained unless one has a balanced diet with a full complement of nutrients: starch, fat, protein, vitamins, minerals, and so on.
 
 ## Type 3: Diet of Principle
 
-The diet of natural man based on spiritual laws. Extending beyond Western science and centered on Eastern philosophy, it places restrictions on foods, aiming for "centripetal convergence." This could be called a diet of principle and includes what is normally referred to as "natural diet." The principle of yin and yang guides food selection toward harmony with nature and local conditions.
+The diet of natural man based on spiritual laws. Extending beyond Western science and centered on [[fukuoka-western-eastern-philosophy-agriculture]], it places restrictions on foods, aiming for "centripetal convergence." This could be called a diet of principle and includes what is normally referred to as "natural diet." The principle of yin and yang guides food selection toward harmony with nature and local conditions.
 
 All things exist in nature; nothing is lacking, nothing is present in excess. The foods of nature are complete and whole in and of themselves. It is only fitting that nature is not subject to man's criteria, to his choosing and rejecting, his cooking and combining. The diet of principle emphasizes eating foods of the seasons that grow close at hand, consuming all things in moderation, and the inseparability of the body from the land.
 
@@ -46,11 +47,11 @@ Ordinary man must work toward the ultimate goal by first practicing a natural di
 
 This diet is founded on the view that man does not live through his own efforts but was created and is supported by nature. Food is not something that man selects from within nature; it is a gift bestowed from above. A true natural diet becomes possible only when food, the body, and the soul fuse together completely within nature.
 
-The diet of true man is life and sustenance provided by the heavens. Its character as food lies neither exclusively in itself nor in man. What could be called a diet of non-discrimination achieved by the union of nature and man is a diet that the self, which is infused with and embodies the will of heaven, takes subconsciously.
+The diet of true man is life and sustenance provided by the heavens. Its character as food lies neither exclusively in itself nor in man. What could be called a diet of non-discrimination achieved by the union of [[fukuoka-god-nature-and-man-as-one]] is a diet that the self, which is infused with and embodies the will of heaven, takes subconsciously.
 
 ## The Trinity
 
-Fukuoka concludes: "Natural farming, natural diet, and natural healing are all part of one whole. Without an established natural diet, farmers have no idea what it is they should produce. Both natural diet and natural farming can be achieved only by natural people. This trinity begins and is realized at once."
+Fukuoka concludes: "[[comparison-natural-farming-vs-permaculture]], natural diet, and natural healing are all part of one whole. Without an established natural diet, farmers have no idea what it is they should produce. Both natural diet and natural farming can be achieved only by natural people. This trinity begins and is realized at once."
 
 This trinity connects farming, food, and health into a single inseparable whole. See [[fukuoka-natural-body-and-health]].
 
@@ -62,7 +63,7 @@ Illness begins when man moves away from nature, and the severity with which he i
 
 ## Diet and the Seasons
 
-The plants of the mountains and streams always grow and mature while maintaining the best possible nutrient balance. Out-of-season vegetables and fruit are unnatural and incomplete. The eggplants, tomatoes, and cucumbers grown by natural farming methods under the open sun twenty or thirty years ago are no longer to be found. Without a distinct fall or winter it is hardly surprising that greenhouse produce no longer has the flavor or fragrance it once had.
+The plants of the mountains and streams always grow and mature while maintaining the best possible nutrient balance. Out-of-season vegetables and fruit are unnatural and incomplete. The eggplants, tomatoes, and cucumbers grown by natural [[natural-farming-methods-comparison]] under the open sun twenty or thirty years ago are no longer to be found. Without a distinct fall or winter it is hardly surprising that greenhouse produce no longer has the flavor or fragrance it once had.
 
 ## The Centrifugal and Centripetal Diets
 

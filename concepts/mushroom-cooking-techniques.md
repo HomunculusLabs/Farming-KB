@@ -1,5 +1,5 @@
 ---
-title: Mushroom Cooking Techniques
+title: falconer-mushroom-cooking-selection-and-preparation Techniques
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -14,9 +14,9 @@ Mushrooms are versatile ingredients with diverse textures and flavors that respo
 ## Fundamental Principles
 
 ### Why Cook Mushrooms
-All wild mushrooms should be cooked before eating. Raw mushrooms contain:
+All [[edible-wild-mushrooms-by-region]] should be cooked before eating. Raw mushrooms contain:
 - Chitin in cell walls (indigestible raw)
-- Potential pathogens from the growing environment
+- Potential pathogens from the [[cannabis-growing-environment-setup]]
 - Heat-sensitive toxins in some species
 - Agaritine in raw Agaricus species (reduced by cooking)
 
@@ -60,7 +60,7 @@ Excellent for developing deep, concentrated flavor:
 - Spread in single layer on sheet pan (do not overcrowd)
 - Roast 20-30 minutes, tossing halfway through
 - Edges should be deeply browned and slightly crisp
-- Works well for: portobello, shiitake, king oyster, maitake
+- Works well for: portobello, shiitake, [[growing-gourmet-king-oyster-eryngii-cultivation]], maitake
 
 ### Grilling
 Best for large, meaty mushrooms:
@@ -118,7 +118,7 @@ Preservation method that also creates flavor:
 - Do not pair with vinegar or strong acids (masks flavor)
 
 ### Porcini/Boletes (Boletus edulis group)
-- Rich, nutty, meaty flavor; the "king" of edible mushrooms
+- Rich, nutty, meaty flavor; the "king" of [[palmer-edible-mushrooms-north-america]]
 - Check all boletes for blue staining (some are bitter or toxic)
 - Best methods: sauteing, drying, risotto, soups
 - Pair with: pasta, rice, Parmesan, thyme, white wine
@@ -143,56 +143,6 @@ Preservation method that also creates flavor:
 - Complex, peppery flavor; layered, feathery texture
 - Tear into pieces along natural segments
 - Best methods: roasting, braising, tempura, soups
-- Pair with: soy sauce, butter, sage, roasted meats
-- Crisps beautifully when roasted at high heat
-
-### Chicken of the Woods (Laetiporus sulphureus)
-- Chicken-like texture and mild flavor when young
-- Only harvest and eat young, soft specimens (tender when pressed)
-- Older specimens become woody, bitter, and can cause GI issues
-- Best methods: sauteing like chicken, breading and frying
-- Pair with: lemon, butter, garlic, herbs, cream sauces
-
-### Lion's Mane (Hericium erinaceus)
-- Delicate, seafood-like flavor and texture
-- Compares to lobster or crab meat
-- Best methods: gentle sauteing in butter, tempura, crab cake substitute
-- Pair with: lemon, butter, Old Bay seasoning, cream
-- Overcooking makes it rubbery; cook just until golden
-
-## Avoiding Bitterness
-
-### Causes of Bitter Mushrooms
-- Old or over-mature specimens (most common cause)
-- Certain species are inherently slightly bitter (some boletes, Russula)
-- Improper storage (refrigerate immediately; use within days)
-- Contamination from bitter tree species (eucalyptus, some conifers)
-- Burning during cooking
-
-### Fixing Bitterness
-- Parboil bitter mushrooms in salted water for 5-10 minutes; discard water
-- Soak in milk or buttermilk (works for some bitter compounds)
-- Use in strongly flavored dishes where bitterness is less noticeable
-- Add sweetness to balance (mirin, honey, caramelized onions)
-- Acid (lemon juice, vinegar) can mask bitterness in some dishes
-
-## Flavor Pairing Guide
-
-### Classic Combinations
-- Mushrooms + cream + thyme (universal)
-- Mushrooms + garlic + butter + parsley (French)
-- Mushrooms + soy sauce + ginger + sesame (Asian)
-- Mushrooms + Parmesan + white wine + risotto (Italian)
-- Mushrooms + bacon + cream (Anglo-American)
-- Mushrooms + eggs + chives (breakfast)
-
-### Wine Pairings
-- Earthy mushrooms (porcini, chanterelle): Pinot Noir, Nebbiolo
-- Delicate mushrooms (morel, chanterelle): Chardonnay, Chenin Blanc
-- Rich preparations (cream sauces): Chardonnay, Viognier
-- Asian preparations: Riesling, Gewurztraminer
-- Avoid heavy tannic reds that clash with mushroom earthiness
-
 ## See Also
 
 - [[edible-wild-mushrooms-by-region]] -- finding mushrooms to cook with

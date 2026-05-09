@@ -12,7 +12,7 @@ updated: 2026-04-28
 sources:
   - Shulgin, A.T. & Shulgin, A. (1997). "TIHKAL: The Continuation." Transform Press.
   - Shulgin, A.T., Carter, M.F. & Shulgin, A. (1980). "Central Stimulant Properties of 4-Alkoxy Substituted Amphetamines." Journal of Medicinal Chemistry 23: 380–383.
-  - Dean, B.J. et al. (2013). "Analytical Profiles of Tryptamine Substitutes." Drug Testing and Analysis 5(9-10): 754–761.
+  - Dean, B.J. et al. (2013). "Analytical Profiles of Tryptamine Substitutes." [[psychedelic-drug-testing-and-adulterant-screening]] and Analysis 5(9-10): 754–761.
   - EMCDDA (2016). "New Psychoactive Substances: Tryptamines." EMCDDA-Europol Joint Publications.
 created: 2026-04-28
 ---
@@ -56,7 +56,7 @@ requiring storage under inert atmosphere at low temperatures.
 
 4-HO-DiPT acts primarily as a serotonin 5-HT₂A receptor agonist, the same
 mechanism underlying the psychedelic effects of psilocin, LSD, and DMT. The
-diisopropyl substitution pattern likely influences receptor binding affinity
+diisopropyl substitution pattern likely influences [[tihkal-receptor-binding-serotonin]] affinity
 and selectivity relative to the unsubstituted parent compound.
 
 The compound also shows affinity for 5-HT₁A receptors, contributing to
@@ -111,16 +111,16 @@ availability on the research chemical market has been intermittent.
 ## Legal Status
 
 4-HO-DiPT is unscheduled in most jurisdictions but may fall under analogue
-acts or generic designer drug legislation. In the United States, the Federal
+acts or generic designer drug legislation. In the [[dmt-containing-plants-united-states-halpern]], the Federal
 Analogue Act potentially classifies it as a controlled substance analogue of
 a Schedule I drug.
 
 As of 2026, 4-HO-DiPT is explicitly controlled in the United Kingdom under
-the Psychoactive Substances Act (2016). It is also controlled in several
+the Psychoactive [[controlled-substances-act-and-psychedelic-research]] (2016). It is also controlled in several
 European countries, including Germany (NpSG) and Austria (SMG).
 
 The compound has been detected in forensic drug samples across Europe and
-North America since the mid-2000s, though it remains less prevalent than
+[[psilocybin-north-america-pacific-northwest]] since the mid-2000s, though it remains less prevalent than
 4-HO-MET, 4-AcO-DMT, or 5-MeO-DMT in analytical seizure data.
 ## Related Compounds
 

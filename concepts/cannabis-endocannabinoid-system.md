@@ -30,7 +30,7 @@ The endocannabinoid system (ECS) is the biological system that cannabis interact
 - **2-AG (2-Arachidonoylglycerol)**: The most abundant endocannabinoid — binds both CB1 and CB2, involved in immune function
 
 ### Metabolic Enzymes
-- **FAAH** (Fatty Acid Amide Hydrolase): Breaks down anandamide
+- **FAAH** (Fatty [[lysergic-acid-amide-containing-plants-halpern]] Hydrolase): Breaks down anandamide
 - **MAGL** (Monoacylglycerol Lipase): Breaks down 2-AG
 - These enzymes regulate how long endocannabinoids act in the body
 
@@ -61,6 +61,8 @@ The endocannabinoid system (ECS) is the biological system that cannabis interact
 The ECS explains why cannabis treats such a wide variety of conditions — it is not that cannabis is a wonder drug, but that the ECS is involved in regulating virtually every physiological system. When the ECS is deficient (clinical endocannabinoid deficiency hypothesis), cannabis can supplement the body's own cannabinoids.
 
 ## Related
+
+- [[etizolam]]
 - [[cannabis-cbd-therapeutic-profile]] — for CBD specifics
 - [[cannabis-thc-therapeutic-profile]] — for THC specifics
 - [[cannabis-for-chronic-pain]] — for pain applications
@@ -84,3 +86,8 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[thc-cbd-therapeutic-profiles]]
+
+- [[cannabinoid-receptor-pharmacology]]

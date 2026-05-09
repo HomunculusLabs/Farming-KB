@@ -1,15 +1,13 @@
 ---
-title: Fungal Olive Mill Wastewater Treatment
+title: Fungal Olive Mill mollison-designers-wastewater-treatment-wetlands
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [[mycology, fungi]
-sources: []
+tags: [mycology, fungi]
+sources:
+  sources: []
 ---
-
-# Fungal Olive Mill Wastewater Treatment
-
-Olive mill wastewater (OMW) is one of the most problematic agricultural and industrial effluents in Mediterranean countries, where olives account for approximately 98% of global production. [[ligninolytic-enzymes-bioremediation]] and other enzyme systems to break down the phenolic components of OMW.
+# Fungal Olive Mill Wastewater Treatment Olive mill wastewater (OMW) is one of the most problematic agricultural and industrial effluents in Mediterranean countries, where olives account for approximately 98% of global production. [[ligninolytic-enzymes-bioremediation]] and other enzyme systems to break down the phenolic components of OMW.
 
 Microbial composition studies of OMW from disposal ponds have identified several species of bacteria, yeasts, and molds. Strains of Fusarium, Paecilomyces, Penicillium, and Scopulariopsis exhibited a marked capacity for the detoxification of OMW, removing its antibacterial activity completely.
 
@@ -19,9 +17,9 @@ Multiple fungal species have been evaluated for OMW treatment:
 
 ### White-Rot Fungi
 
-Phanerochaete flavido-alba decolorizes OMW in static or semistatic cultures at 30 degrees Celsius. The toxicity of the culture medium was eliminated up to 70%, as determined by a Microtox system. The fungus produces manganese-dependent peroxidase (MnP) and laccase, which are able to decolorize and reduce the aromatic compounds and toxicity simultaneously.
+Phanerochaete flavido-alba decolorizes OMW in static or semistatic cultures at 30 degrees Celsius. The toxicity of the [[fukuoka-matsutake-culture-medium-appendix]] was eliminated up to 70%, as determined by a Microtox system. The fungus produces manganese-dependent peroxidase (MnP) and laccase, which are able to decolorize and reduce the aromatic compounds and toxicity simultaneously.
 
-Phanerochaete chrysosporium eliminates more than 50% of the color and phenols from OMW within 6 days. In some studies, P. chrysosporium achieved 92% phenolic reduction, 75% COD reduction, and 75% TOC reduction from undiluted OMW within 150 hours.
+[[staycare-phanerochaete-chrysosporium-in-bioremediation]] eliminates more than 50% of the color and phenols from OMW within 6 days. In some studies, P. chrysosporium achieved 92% phenolic reduction, 75% COD reduction, and 75% TOC reduction from undiluted OMW within 150 hours.
 
 A strain of P. chrysosporium isolated from Moroccan OMW has the ability to degrade OMW under different culture conditions, achieving 60% phenolic reduction, 60% COD reduction, and 60% decolorization of 50% diluted OMW within 9 days.
 
@@ -39,19 +37,19 @@ Penicillium strain P4 produces the best biomass yield of 21.5 g dry weight per l
 
 Fungal fermentation of OMW has been conducted in various [[white-rot-fungi-bioremediation]] can oxidize phenolic compounds in OMW, reducing toxicity and color.
 
-The enzyme approach offers advantages in terms of process control and the ability to treat concentrated OMW without the toxicity limitations associated with living cells. However, enzyme production and stability costs must be considered in process economics.
+The enzyme approach offers advantages in terms of process control and the ability to treat concentrated OMW without the toxicity limitations associated with living cells. However, [[ligninolytic-enzyme-production-bioremediation]] and stability costs must be considered in process economics.
 
 ## Toxicity Testing
 
-Toxicity testing of treated OMW is essential for evaluating treatment effectiveness. The Microtox system, which uses luminescent bacteria to measure toxicity, has been employed to assess the reduction in toxicity achieved by fungal treatment. Complete removal of antibacterial activity has been demonstrated with certain fungal strains.
+Toxicity testing of treated OMW is essential for evaluating treatment effectiveness. The Microtox system, which uses luminescent bacteria to measure toxicity, has been employed to assess the reduction in toxicity achieved by [[singh-biopile-fungal-treatment-contaminated-soil]]. Complete removal of antibacterial activity has been demonstrated with certain fungal strains.
 
 ## Economic Considerations
 
-The economic viability of fungal OMW treatment depends on multiple factors including the scale of operation, the degree of treatment required, the value of any byproducts (such as [[fungal-wastewater-treatment]]
+The economic viability of fungal OMW treatment depends on multiple factors including the scale of operation, the degree of treatment required, the value of any byproducts (such as fungal-wastewater-treatment
 - [[white-rot-fungi-bioremediation]]
 - [[fungal-single-cell-protein-production]]
-- [[brown-rot-fungi-biodegradation]]
-- [[fungal-ligninolytic-enzymes-in-industrial-applications]]
+- brown-rot-fungi-biodegradation
+- fungal-ligninolytic-enzymes-in-industrial-applications
 ## Practical Considerations
 
 When working with Fungal Olive Mill Wastewater Treatment, several practical factors should be
@@ -68,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

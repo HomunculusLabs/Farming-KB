@@ -12,7 +12,7 @@ sources: []
 
 Supramolecular chemistry studies chemical systems in which the most important structure is built from noncovalent interactions rather than from a single covalent skeleton.
 It asks how molecules recognize one another, assemble into larger architectures, exchange partners, and perform functions that are not obvious from the isolated components.
-The field sits between organic chemistry, coordination chemistry, biochemistry, polymer science, and nanotechnology because all of those areas depend on reversible molecular organization.
+The field sits between [[pericyclic-reactions-organic-chemistry]], coordination chemistry, biochemistry, polymer science, and nanotechnology because all of those areas depend on reversible molecular organization.
 A useful slogan is chemistry beyond the molecule: the covalent molecule remains important, but the organized ensemble becomes the functional object.
 This perspective explains why supramolecular chemistry is central to enzymes, membranes, receptors, DNA base pairing, self-assembled monolayers, molecular capsules, and responsive materials.
 Unlike ordinary synthesis, supramolecular design often treats binding affinity, shape complementarity, solvent, entropy, and kinetics as first-class design variables.
@@ -24,7 +24,7 @@ Electrostatic attraction organizes ion pairs, salts, zwitterions, and many biomo
 Metal-ligand coordination can be reversible yet geometrically precise, making it a bridge between classic inorganic complexes and self-assembled supramolecular cages.
 Pi-pi stacking, cation-pi binding, anion-pi binding, and edge-to-face aromatic interactions help arrange aromatic molecules in receptors, foldamers, nucleic acids, and organic semiconductors.
 Van der Waals contacts are individually weak but collectively decisive when a guest fits tightly in a host cavity or when many hydrocarbon surfaces pack together.
-The hydrophobic effect drives nonpolar surfaces together in water and is essential for micelles, protein folding, membrane formation, and many drug-receptor interactions.
+The hydrophobic effect drives nonpolar surfaces together in water and is essential for micelles, [[protein-folding-and-misfolding-diseases-biochemistry]], membrane formation, and many drug-receptor interactions.
 Halogen bonding, chalcogen bonding, and pnictogen bonding show that sigma-hole interactions can be designed with directionality similar to hydrogen bonding.
 No single force usually explains a supramolecular structure; useful complexes normally depend on cooperative reinforcement among several weak interactions.
 
@@ -35,7 +35,7 @@ Classic host-guest systems include crown ethers binding alkali metal cations, cy
 A receptor can be preorganized so that its binding groups are already arranged for the guest, reducing the entropic penalty of complex formation.
 Alternatively, a flexible receptor can adapt around a guest, trading weaker preorganization for broader substrate scope and induced-fit behavior.
 Selectivity can arise from a better fit to the target, exclusion of competitors, different desolvation costs, or different kinetics of association and dissociation.
-Biochemical recognition follows the same principles: enzyme active sites, antibody binding pockets, riboswitches, lectins, and transport proteins are all supramolecular receptors.
+Biochemical recognition follows the same principles: enzyme active sites, antibody binding pockets, riboswitches, lectins, and [[plant-cell-membrane-transport-proteins]] are all supramolecular receptors.
 The distinction between lock-and-key and induced fit is therefore not just biological language but a general design problem in receptor chemistry.
 
 ## Host-Guest Chemistry
@@ -52,7 +52,7 @@ Cucurbiturils are valued for exceptionally strong binding to cationic and hydrop
 ## Self-Assembly
 
 Self-assembly is the spontaneous organization of components into ordered structures under thermodynamic or kinetic control.
-Thermodynamic self-assembly favors the most stable product available under reversible conditions, so error correction is possible through bond breaking and reformation.
+Thermodynamic self-assembly favors the most stable product available under reversible conditions, so [[quantum-error-correction]] is possible through bond breaking and reformation.
 Kinetic self-assembly can trap metastable products, which may be useful when a material needs persistence rather than equilibrium exchange.
 Amphiphiles self-assemble into micelles, vesicles, bilayers, and liquid-crystalline phases because polar and nonpolar regions minimize unfavorable contacts with solvent.
 DNA nanotechnology uses base-pair recognition to build two-dimensional and three-dimensional structures with programmed addressability.
@@ -74,10 +74,10 @@ These systems connect supramolecular chemistry with molecular machines, responsi
 
 Biology can be read as a vast catalog of supramolecular chemistry in water.
 DNA base pairing combines hydrogen bonding with aromatic stacking to store information and template replication.
-Protein folding uses hydrophobic collapse, hydrogen-bonded secondary structure, salt bridges, metal binding, and van der Waals packing to form active three-dimensional structures.
+Protein folding uses hydrophobic collapse, hydrogen-bonded secondary structure, salt bridges, [[chelation-and-metal-binding-in-plants]], and van der Waals packing to form active three-dimensional structures.
 Enzymes stabilize transition states by arranging weak interactions in space, often producing enormous rate accelerations without forming permanent bonds to the product.
 Membranes are self-assembled amphiphile structures whose fluidity, curvature, phase behavior, and protein content are regulated by supramolecular interactions.
-Receptor pharmacology is also supramolecular: agonists, antagonists, allosteric modulators, and covalent inhibitors differ in how they bind and alter conformational ensembles.
+[[cannabis-cannabinoid-receptor-pharmacology]] is also supramolecular: agonists, antagonists, allosteric modulators, and covalent inhibitors differ in how they bind and alter conformational ensembles.
 Because water competes for hydrogen bonds and solvates ions, biological supramolecular recognition often relies on buried hydrophobic surfaces and precise desolvation.
 
 ## Applications
@@ -117,4 +117,4 @@ These limitations make careful controls and orthogonal characterization essentia
 - [[plant-cellulose-and-carbohydrate-chemistry]]
 - [[psychedelic-mushroom-chemistry]]
 
-See also: [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]]
+See also: [[legume-nitrogen-fixation-and-green-manure]]

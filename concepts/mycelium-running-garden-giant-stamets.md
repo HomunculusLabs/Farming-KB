@@ -3,7 +3,8 @@ title: "Garden Giant Mushroom (Stropharia rugoso-annulata) in Mycorestoration"
 created: 2026-04-26
 updated: "2025-04-23"
 sources:
-  - "raw/papers/mycelium-running-stamets.md"
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 tags: [gardening, mycelium]
 ---
@@ -11,7 +12,7 @@ tags: [gardening, mycelium]
 # Garden Giant Mushroom (Stropharia rugoso-annulata) in Mycorestoration
 
 The garden giant, also known as king stropharia or wine-cap stropharia
-([[mycelium-natures-internet]]
+(mycelium-natures-internet
 as a premier species for [[mycofiltration-of-water]], and companion cultivation in gardens.
 
 ## Key Characteristics
@@ -19,14 +20,14 @@ as a premier species for [[mycofiltration-of-water]], and companion cultivation 
 - Large, robust mushrooms often exceeding 12 inches in diameter
 - Thrives on wood chips and woody debris
 - A heliotrope (sun-loving) that benefits from grass microclimates
-- Produces rhizomorphic mycelium that holds substrates together
+- Produces [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]] that holds substrates together
 - Particularly effective at consuming bacteria and filtering pathogens
 - Summer fruiting species in temperate climates
 
 ## Role in Mycofiltration
 
 Stamets's first major [[unknown-mycelium-mycofiltration]]
-by spreading [[mycofiltration-silt-erosion-control]].
+by spreading mycofiltration-silt-erosion-control.
 
 ## Companion Cultivation with Garden Vegetables
 
@@ -38,7 +39,7 @@ emerge between rows of corn and tend to perpetuate themselves.
 
 Stamets confirmed that corn and garden giants grow well together, with
 mushrooms often selecting to fruit near emerging cornstalks. In
-[[mushroom-cultivation-in-kenya]] per 100
+ per 100
    square feet
 4. Add another 2-4 inches of wood chips on top, moisten again
 5. Cover with torn cardboard to prevent moisture loss
@@ -47,23 +48,23 @@ mushrooms often selecting to fruit near emerging cornstalks. In
 
 Grass plays an important role: the stems collect condensation at the
 soil-air interface where primordia form, creating a nurturing
-environment for mushroom formation. The constant wicking of water
+environment for [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]. The constant wicking of water
 through evaporation, combined with replenishment from dew or rain,
 stimulates fruiting.
 
 ## Ecological Benefits
 
-The garden giant provides multiple ecosystem services:
+The garden giant provides multiple [[biodiversity-of-fungi-ecosystem-services-agriculture]]:
 
 - **Soil building**: Foot-deep beds of inoculated wood chips decompose
   into 1-2 inches of rich soil within 2-3 years
-- **Erosion control**: Rhizomorphic mycelium grips substrates and
+- **[[permplant-willows-salix-erosion-control-fodder]]**: Rhizomorphic mycelium grips substrates and
   stabilizes slopes
 - **Water filtration**: Mycelial mats consume bacteria and filter
   pathogens from runoff
 - **Biodiversity support**: Larvae in mature mushrooms feed fish and
   birds, creating food chain connections
-- **Carbon cycling**: Fungal decomposition releases cool CO2 gradually,
+- **Carbon cycling**: [[dighton-fungal-decomposition-leaf-litter-dynamics]] releases cool CO2 gradually,
   unlike combustion which releases hot CO2 rapidly
 
 ## As a Food Source
@@ -88,6 +89,8 @@ advancing tips.
 
 ## See Also
 
+- [[mycelium-running-stamets-mushrooms-as-medicine]]
+
 - [[mycelium-running-pest-control-with-fungi]] -- using fungi against insects
 - [[mycoremediation-basics]] -- decontaminating toxic waste
-- [[mycelium-running-symbiotic-fungi-relationships]] -- fungal ecology
+- [[mycelium-running-symbiotic-fungi-relationships]] -- [[gadd-fungal-ecology-endophytes]]

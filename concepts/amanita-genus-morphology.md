@@ -45,8 +45,8 @@ In the young stage, a membranous partial veil encloses the developing gills. As 
 Not all members of the genus are harmful. Ramsbottom (1945) describes:
 
 **Deadly species** (cell-degenerating toxins):
-- [[ramsbottom-poisonous-fungi-toxins-and-symptoms]] — destroying angel
-- [[allegro-colour-and-consistency-of-the-amanita-muscaria]] — fly agaric
+- [[ramsbottom-poisonous-fungi-toxins-and-symptoms]] — [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]
+- [[allegro-colour-and-consistency-of-the-amanita-muscaria]] — [[amanita-muscaria-fly-agaric-history-and-pharmacology]]
 - [[agaricus-species-guide]] — Caesar's mushroom, much prized on the Continent but absent from Britain
 
 **Less dangerous:**
@@ -56,11 +56,11 @@ Not all members of the genus are harmful. Ramsbottom (1945) describes:
 
 - [[ramsbottom-poisonous-fungi-species]]
 - [[mushroom-foraging-safety-guide]]
-- [[mushroom-etymology-and-nomenclature]]
+- mushroom-etymology-and-nomenclature
 
 ## Related
 
-- [[mushroom-poisoning-and-lookalikes]]
+- mushroom-poisoning-and-lookalikes
 - [[mushroom-foraging-safety]]
 ## Practical Considerations
 
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

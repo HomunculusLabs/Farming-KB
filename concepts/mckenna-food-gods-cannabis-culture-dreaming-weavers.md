@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and Culture: The Dreaming Weavers"
+title: "Cannabis and Culture: The mckenna-cannabis-dreaming-weavers"
 created: 2026-04-28
 tags: [food-of-the-gods, cannabis, hashish, scythians, india, partnership-society, archaic-revival, ludlow, mckenna]
 date: 2026-04-28
@@ -19,7 +19,7 @@ Cannabis, a native of the heartlands of Central Asia, was spread throughout the 
 
 Because of its pandemic range and environmental adaptability, cannabis has had a major impact on human social forms and cultural self-images. When the resin of the cannabis plant is collected together into black sticky balls, its effects are comparable to the power of a hallucinogen, providing that the material is eaten. This is the classic hashish.
 
-The thousands of names by which cannabis is known in hundreds of languages are testament not only to its cultural history and ubiquity but also its power to move the language-making faculty of the poetic soul.
+The thousands of names by which cannabis is known in hundreds of languages are testament not only to its [[amanita-muscaria-cultural-history]] and ubiquity but also its power to move the language-making faculty of the poetic soul.
 
 Kunubu it is called in an Assyrian letter tentatively dated 685 B.C.; a hundred years later it is referred to as kannapu, the root of the Greek and Latin cannabis. It is bang, beng, and bbnj; it is ganja, gangika, and ganga.
 
@@ -37,7 +37,7 @@ The Scythians, a nomadic central Asian group who entered eastern Europe around 7
 
 The Scythians, transported by the vapour, shout aloud. Herodotus also describes a second method where Scythians sat in a circle, threw fruit of a peculiar kind onto a fire, and became intoxicated by inhaling the fumes, "just as the Greeks do by wine."
 
-Remarkably, though the Scythians had discovered that inhaling cannabis smoke was the most effective way to enjoy it, they were unable to make the creative leap to the invention of the pipe. The Greek herbalist Dioscorides also described cannabis, but until effective smoking practices were adopted, it made no inroads into European culture.
+Remarkably, though the Scythians had discovered that inhaling cannabis smoke was the most effective way to enjoy it, they were unable to make the creative leap to the invention of the pipe. The Greek herbalist Dioscorides also described cannabis, but until effective smoking practices were adopted, it made no inroads into [[fukuoka-road-european-culture-of-food]].
 
 ## India, China, and Spiritual Power
 
@@ -55,7 +55,7 @@ The Roman natural historian Pliny reproduces a fragment from Democratus concerni
 
 Because the climate favored the growth of hemp and Islam encouraged its use over alcohol, in the Near Eastern and Arab worlds, cannabis became the intoxicant of choice for many. By A.D. 950 use and abuse of hashish is widespread enough to occupy a prominent position in the literature of the period.
 
-A perfect encapsulation of dominator attitudes toward cannabis is contained in a story of a Moslem priest exhorting against the use of "beng." So carried away was he by his discourse that a paper containing the prohibited drug fell from his breast into the midst of his audience.
+A perfect encapsulation of dominator [[weil-cultural-attitudes-toward-altered-states]] cannabis is contained in a story of a Moslem priest exhorting against the use of "beng." So carried away was he by his discourse that a paper containing the prohibited drug fell from his breast into the midst of his audience.
 
 The priest without loss of countenance cried immediately, "There is this enemy, this demon of which I have told you; the force of my words has put it to flight, take care that in quitting me it does not hurl itself on one of you and possess him." As this story makes clear, the ego of the monotheist is capable of extraordinary feats of self-delusion.
 
@@ -63,7 +63,7 @@ The priest without loss of countenance cried immediately, "There is this enemy, 
 
 McKenna proposes that the degree to which the style and way of life of an entire culture can be imbued with the attitudes engendered by a particular psychoactive plant is a fruitful theme. There is something to the notion that the architectural styles of Mughal Delhi or tenth-century Isfahan are somehow derivative of or inspired by the visions of hashish.
 
-Outpourings of style and aesthetically managed personal display are usually anathema to the nuts-and-bolts mentality of dominator cultures. In dominator cultures without any living traditions of use of plants that dissolve social conditioning, such displays are usually felt to be the prerogative of women.
+Outpourings of style and aesthetically managed personal display are usually anathema to the nuts-and-bolts mentality of [[archaic-revival-partnership-vs-dominator-cultures]]. In dominator cultures without any living traditions of use of plants that dissolve social conditioning, such displays are usually felt to be the prerogative of women.
 
 The longer hair lengths for men seen with the rise of marijuana use in the United States in the 1960s were a textbook case of an influx of apparently feminine values accompanying the use of a boundary-dissolving plant. The hysterical reaction to such a minor adjustment in folkways revealed the insecurity felt by the male ego in the presence of any factor that might tend to restore the importance of partnership.
 
@@ -73,7 +73,7 @@ Cannabis occurs in both a male and a female form. It is the identification, care
 
 Not only do males not produce a usable drug, but if the pollen from male plants reaches females, the females will begin to set seed and will cease their production of resin. It is thus a kind of happy coincidence that the subjective effects of ingesting cannabis and the care needed to produce good resin both conspire to accentuate values oriented toward honoring and preserving the feminine.
 
-Of all the pandemic plant intoxicants inhabiting the earth, cannabis is second only to mushrooms in its promotion of the social values and sensory ratios that typified the original partnership societies. Cannabis is anathema to the dominator culture because it deconditions or decouples users from accepted values.
+Of all the pandemic plant intoxicants inhabiting the earth, cannabis is second only to mushrooms in its promotion of the social values and sensory ratios that typified the original partnership societies. Cannabis is anathema to [[mckenna-dissolution-of-the-dominator-culture]] because it deconditions or decouples users from accepted values.
 
 Because of its subliminally psychedelic effect, cannabis, when pursued as a lifestyle, places a person in intuitive contact with less goal-oriented and less competitive behavior patterns. For these reasons marijuana is unwelcome in the modern office environment, while coffee, which reinforces industrial values, is both welcomed and encouraged.
 

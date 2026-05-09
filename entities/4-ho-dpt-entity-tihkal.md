@@ -33,7 +33,7 @@ classic psychedelic activity on tryptamine derivatives.
 
 The systematic exploration of N,N-dialkyl substitution on the tryptamine
 nitrogen atom, combined with the 4-hydroxy group, has been one of the most
-productive avenues in psychedelic tryptamine research. The pattern that
+productive avenues in psychedelic [[mckenna-baconian-exploration-tryptamine-research-methodology]]. The pattern that
 emerges is remarkably consistent: compounds with up to six total carbons on
 the nitrogen atom (regardless of the specific alkyl groups) tend to be active
 in the 10-20 mg range orally.
@@ -53,7 +53,7 @@ enhances receptor affinity and selectivity compared to unsubstituted tryptamines
 The dipropyl substitution pattern creates a more lipophilic compound compared
 to psilocin, which could affect both blood-brain barrier penetration and
 metabolic clearance. The propyl groups may also engage in additional hydrophobic
-interactions with the receptor binding pocket, potentially modifying the
+interactions with the [[tihkal-receptor-binding-serotonin]] pocket, potentially modifying the
 qualitative character of the experience.
 
 In vitro binding studies on related 4-hydroxytryptamines have shown Ki values
@@ -82,7 +82,7 @@ structure-activity relationship:
 
 The general trend shows that within the "up to six carbons" rule, potency
 and duration remain relatively consistent, with the specific alkyl groups
-modulating qualitative effects more than quantitative potency.
+modulating [[mdma-qualitative-effects-phenomenology]] more than quantitative potency.
 
 ## Harm Reduction and Safety Considerations
 
@@ -92,7 +92,7 @@ modulating qualitative effects more than quantitative potency.
 
 - The compound's metabolic fate is unknown; potential interactions with MAO inhibitors or SSRIs cannot be ruled out
 
-- Standard psychedelic precautions apply: careful attention to set and setting, trusted sitter, adequate hydration
+- Standard psychedelic precautions apply: careful attention to [[lsd-set-and-setting-framework]], trusted sitter, adequate hydration
 
 - The dipropyl groups may affect liver metabolism differently than dimethyl groups; caution with pre-existing liver conditions
 
@@ -121,4 +121,4 @@ multiple steps) has limited its availability even within research communities.
 
 ## Related TIHKAL Entries
 
-- 4 ho dpt entity tihkal — non-hydroxylated counterpart
+- 4 ho 4 ho dpt entity tihkal tihkal — non-hydroxylated counterpart

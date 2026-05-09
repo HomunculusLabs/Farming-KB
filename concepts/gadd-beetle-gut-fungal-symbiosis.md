@@ -18,7 +18,7 @@ type: concept
 
 The gut of beetles (Coleoptera) is a remarkably rich and underexplored
 habitat for yeasts and other fungi. Research by Blackwell and colleagues
-has revealed diverse fungal communities in beetle guts, from
+has revealed diverse [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] in beetle guts, from
 mushroom-feeding beetles harbouring undescribed yeast species to
 wood-boring beetles with specialised xylose-fermenting yeasts in their
 hindguts.
@@ -97,8 +97,8 @@ parental care in passalid beetles.
 ## Functional roles of gut fungi
 
 Proposed functions of gut microbes in wood-boring insects include
-cellulose, hemicellulose, and lignin degradation; pheromone production;
-detoxification of foodstuffs; nitrogen fixation; and vitamin synthesis.
+cellulose, hemicellulose, and [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]]; pheromone production;
+detoxification of foodstuffs; [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]; and vitamin synthesis.
 However, arthropods including termites and wood-boring beetles produce
 endogenous cellulases, requiring caution in attributing all digestive
 functions to gut microbes. The yeasts may instead process metabolic
@@ -112,7 +112,7 @@ microbes hypothesised to have functions similar to termite gut
 communities. Both termites and passalid beetles are wood-ingesting
 detritivores with microbes restricted to the hindgut. Functional
 parallels include potential contributions to lignocellulose degradation
-and nutrient cycling, though the specific microbial taxa differ.
+and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], though the specific microbial taxa differ.
 
 ## Biotechnological implications
 
@@ -121,18 +121,20 @@ Xylose fermentation is essential for efficient bioethanol production
 from lignocellulosic biomass, as xylose constitutes approximately 30%
 of hardwood hemicellulose. Understanding the ecology and physiology of
 these yeasts in their natural beetle gut habitat may inform industrial
-strain development for biofuel production.
+[[vic-high-true-breeding-strain-development-stabilization]] for biofuel production.
 
 ## Broader significance
 
 The discovery of extensive yeast diversity in beetle guts, including
 species from novel clades, highlights insect guts as a reservoir of
-fungal biodiversity. Community-level approaches are essential to
+[[biodiversity-fungal-biodiversity-estimation-methods]]. Community-level approaches are essential to
 understand gut inhabitants. The insect gut is considered a 'hot spot'
 of microbial gene exchange and adaptation, with important implications
 for insect speciation, habitat utilisation, and survival.
 
 ## Related
+
+- [[gadd-beetle-gut-fungal-symbiosis-and-coevolution]]
 
 - [[gadd-fungal-ecology-saprotrophs]]
 - [[gadd-fungal-nutrition-metabolism]]

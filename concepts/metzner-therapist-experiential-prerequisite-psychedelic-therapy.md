@@ -1,5 +1,5 @@
 ---
-title: Therapist Experiential Prerequisite in Psychedelic-Assisted Psychotherapy
+title: metzner therapist experiential prerequisite psychedelic therapy Prerequisite in Psychedelic-Assisted Psychotherapy
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -18,7 +18,7 @@ out as both the most operationally significant and the most controversial: the
 requirement that the therapist or guide possess personal experience with the
 psychedelic state before working with clients. This principle — that effective
 psychedelic-assisted psychotherapy demands the therapist's own experiential
-knowledge of the terrain — distinguishes psychedelic therapy from virtually
+knowledge of the terrain — distinguishes [[metzner-psycholytic-psychedelic-therapy-models]] from virtually
 all other pharmacological interventions and creates a fundamental tension with
 the norms of modern clinical practice.
 
@@ -59,7 +59,7 @@ Metzner's phrase "severely limited" communication captures the nature of
 the problem precisely. It is not that communication becomes impossible, but
 that it becomes qualitatively different — more like trying to describe color
 to someone who has been blind from birth than like discussing a shared
-experience. The therapist without personal psychedelic experience may
+experience. The therapist without personal [[leary-psychedelic-experience-bardo-mapping]] may
 intellectually understand what the client is describing but cannot resonate
 with it experientially, cannot distinguish between normative and aberrant
 features of the psychedelic state, and cannot calibrate their interventions
@@ -89,10 +89,10 @@ psychedelic therapists. It implies that psychedelic experience should be a
 component of therapist education, not merely a subject of theoretical study.
 Metzner noted that "a significant role for psychedelic experience could be
 in the training of psychotherapists" — a position that was shared by many
-practitioners in the original wave of psychedelic research.
+practitioners in the original wave of [[mckenna-suppression-psychedelic-research-lsd-therapy]].
 
 In the contemporary revival of psychedelic therapy, this principle remains
-controversial. Current clinical trials typically do not require therapists
+controversial. Current [[mushroom-cancer-clinical-trials-overview]] typically do not require therapists
 to have personal psychedelic experience, partly for legal reasons and partly
 because the modern regulatory framework treats psychedelic therapy as a
 pharmacological intervention rather than as a fundamentally experiential
@@ -108,7 +108,7 @@ shamanic societies that it is hardly even discussed," he noted. Shamanic
 healers working with entheogenic plants typically undergo "lengthy
 initiation and training (sometimes lasting years) under the guidance of an
 experienced elder before working with others." The parallel is striking: in
-both Western psychedelic therapy and indigenous shamanism, the guide's
+both [[shamanic-vs-western-psychedelic-healing]] therapy and indigenous shamanism, the guide's
 personal experience with the non-ordinary state is considered essential to
 their capacity to facilitate healing in others.
 

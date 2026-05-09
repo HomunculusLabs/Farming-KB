@@ -9,7 +9,7 @@ sources:
 ---
 # 2C-T-17
 
-2C-T-17 (2,5-dimethoxy-4-(s)-butylthiophenethylamine), also known as NIMITZ, is a psychedelic phenethylamine and a member of the 2C-T family described in PiHKAL entry #48.
+2C-T-17 (2,5-dimethoxy-4-(s)-butylthiophenethylamine), also known as NIMITZ, is a psychedelic phenethylamine and a member of the 2C-T family described in [[2c-b-pihkal-entry-20]] #48.
 
 It was nicknamed after the Nimitz Freeway (State Highway 17) connecting Oakland to San Jose, paralleling the "17" in its systematic designation.
 
@@ -63,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +105,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

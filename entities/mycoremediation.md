@@ -20,7 +20,7 @@ sources:
   - Kulshreshtha S, Mathur N, Bhatnagar P. "Mushroom as a product and their role in mycoremediation." _Ambient Science_, 2014.
   - Akhtar N, Verma S, Khan GD. "Mycoremediation of pollutants: a cost-effective and eco-friendly approach for environmental cleanup." _Environmental Science and Pollution Research_, 2021.
   - Pankhurst CE, Ophel-Keller K, Doube BM, Gupta VVSR. "Current status and prospects for soil biological management in sustainable agriculture." _Biology and Fertility of Soils_, 1996.
-  - Lakshmi V, Das N, Sahoo S. "Biodegradation of polycyclic aromatic hydrocarbons by filamentous fungi." _Applied Biochemistry and Biotechnology_, 2022.
+  - Lakshmi V, Das N, Sahoo S. "Biodegradation of [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons by filamentous fungi." _Applied Biochemistry and Biotechnology_, 2022.
 ---
 
 # Mycoremediation
@@ -31,9 +31,9 @@ Fungi produce a remarkable arsenal of **extracellular enzymes** that break down 
 | Enzyme | Primary Substrates | Produced By |
 |--------|-------------------|-------------|
 | **[[white-rot-fungi-in-pesticide-and-btex-bioremediation]] fungi (*Phanerochaete*, *Trametes*) |
-| **Manganese peroxidase (MnP)** | Phenolic compounds, lignin derivatives, PAHs | White-rot fungi |
+| **[[fungal-manganese-peroxidase-remediation]] (MnP)** | Phenolic compounds, lignin derivatives, PAHs | White-rot fungi |
 | **Laccase** | Phenols, anilines, dyes, pesticides | White-rot fungi, some bacteria |
-| **Manganese-independent peroxidase** | Chlorinated aromatics, DDT | *[[fungal-biology-fundamentals]] is key to optimizing these processes.
+| **Manganese-independent peroxidase** | [[fungal-biodegradation-chlorinated-aromatics-and-btex]], DDT | *[[fungal-biology-fundamentals]] is key to optimizing these processes.
 
 ### 2. Biosorption
 Fungal **cell walls** are composed of chitin, glucans, and proteins with abundant functional groups (amino, carboxyl, hydroxyl, phosphate, sulfhydryl) that bind heavy metals through:
@@ -45,8 +45,8 @@ Fungal **cell walls** are composed of chitin, glucans, and proteins with abundan
 
 **Biosorption capacity** varies by species and metal. For a deeper exploration of heavy metal mycoremediation, see the dedicated guide:
 - *Pleurotus ostreatus* (oyster mushroom): Cu²⁺ 12.4 mg/g, Pb²⁺ 8.7 mg/g, Cd²⁺ 6.2 mg/g, Zn²⁺ 5.1 mg/g
-- *Ganoderma lucidum* (reishi): Pb²⁺ 34 mg/g, Cd²⁺ 22 mg/g, Hg²⁺ 18 mg/g
-- *Trametes versicolor* (turkey tail): Cu²⁺ 15 mg/g, Cr⁶⁺ 9 mg/g, Ni²⁺ 7 mg/g
+- *[[stamets-reishi-ganoderma-lucidum-cultivation]]* (reishi): Pb²⁺ 34 mg/g, Cd²⁺ 22 mg/g, Hg²⁺ 18 mg/g
+- *[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]* (turkey tail): Cu²⁺ 15 mg/g, Cr⁶⁺ 9 mg/g, Ni²⁺ 7 mg/g
 - *Aspergillus niger*: UO₂²⁺ (uranium) 186 mg/g (dead biomass, dried)
 
 ### 3. Bioaccumulation
@@ -129,8 +129,10 @@ Direct application to contaminated sites without excavation:
 ## Key Species for Mycoremediation
 
 ### White-Rot Basidiomycetes (Primary Organic Pollutant Degraders)
-- **_Phanerochaete chrysosporium_:** The most extensively studied white-rot fungus; produces powerful lignin peroxidases and manganese peroxidases; effective against PAHs, PCBs, dyes, and explosives
+- **_[[staycare-phanerochaete-chrysosporium-in-bioremediation]]_:** The most extensively studied white-rot fungus; produces powerful lignin peroxidases and manganese peroxidases; effective against PAHs, PCBs, dyes, and explosives
 - **_Trametes versicolor_ (turkey tail):** Produces laccase and manganese peroxidase; highly effective against dyes, pharmaceuticals, and endocrine-disrupting compounds; easily cultivated and robust
 ## See Also
+
+- [[ceriporia-spissa]]
 
 - mycoremediation — Integration of bioremediation with ecosystem recovery

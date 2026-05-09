@@ -1,10 +1,10 @@
 ---
-title: JADAM Position on Brown Rice Vinegar and Vinegar-Based Inputs
+title: JADAM Position on Brown brown-rice-vinegar-brv and Vinegar-Based Inputs
 created: 2026-04-26
 updated: 2026-04-23
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
-  - JADAM Organic Farming: The Way to Ultra-Low-Cost Agriculture (Youngsang Cho, 2016)
+  - JADAM [[coleman-deep-organic-farming-philosophy]]: The Way to Ultra-Low-Cost Agriculture (Youngsang Cho, 2016)
 type: concept
 tags: [jadam, vinegar]
 ---
@@ -44,11 +44,11 @@ application where vinegar serves a practical purpose: the quick
 production of [[cho-brown-rice-vinegar-preparation]] is produced by
 fermenting cooked brown rice through an alcohol stage and then an acetic
 acid stage. The process takes several weeks and produces a vinegar rich
-in amino acids and organic compounds. In the KNF system, BRV serves
+in amino acids and [[fungal-volatile-organic-compounds-communication]]. In the KNF system, BRV serves
 multiple functions including as a solvent for mineral extraction, a
-foliar spray for pest deterrence, and a soil amendment.
+foliar spray for [[foliar-pest-deterrence-aact-mechanisms]], and a soil amendment.
 
-JADAM does not produce brown rice vinegar as a farming input. The
+JADAM does not produce brown rice vinegar as a [[chos-global-natural-farming-input-reduction-methods]]. The
 boiling-based JHS method replaces the herb-extraction function. [[brown-rice-vinegar-brv]]
 - [[fermented-plant-extract-fpe]]
 - Wood Vinegar Pyroligneous Acid
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -21,7 +21,7 @@ sources:
 
 **Drosera anglica**, commonly known as the English sundew or great sundew, is a perennial carnivorous plant in the family Droseraceae.
 
-It is one of the most widely distributed sundew species, with a circumboreal range spanning North America, Europe, and Asia.
+It is one of the most widely distributed sundew species, with a circumboreal range spanning [[psilocybin-north-america-pacific-northwest]], Europe, and Asia.
 
 The species is recognized by its elongated, paddle-shaped leaves covered in glandular tentacles that secrete sticky mucilage to capture insect prey.
 
@@ -41,7 +41,7 @@ The lamina is green to reddish and covered on both surfaces with glandular trich
 
 The mucilage is composed primarily of polysaccharides and contains traces of digestive enzymes. It glistens in sunlight, attracting insects visually.
 
-Sessile (stalkless) glands along the leaf surface produce additional digestive enzymes including proteases and phosphatases once prey is captured.
+Sessile (stalkless) glands along the [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] produce additional digestive enzymes including proteases and phosphatases once prey is captured.
 
 Flowers are borne on a single, erect scape that rises 10–30 cm above the rosette. The inflorescence is a one-sided cyme, with flowers opening sequentially from the base upward.
 
@@ -51,13 +51,13 @@ Seed capsules are small, dehiscent, and release numerous fine seeds that are dis
 
 ## Distribution and Habitat
 
-*Drosera anglica* has a broad circumboreal distribution. In North America, it ranges from Alaska across Canada to the northeastern United States, with disjunct populations in the Rocky Mountains and along the Pacific Northwest coast.
+*Drosera anglica* has a broad circumboreal distribution. In North America, it ranges from Alaska across Canada to the northeastern [[dmt-containing-plants-united-states-halpern]], with disjunct populations in the Rocky Mountains and along the Pacific Northwest coast.
 
 In Europe, it occurs from Scandinavia and the British Isles southward to the Iberian Peninsula, the Alps, and the Balkans. Asian populations extend through Siberia to Japan and Korea.
 
 The species is found in open, nutrient-poor wetland habitats. Typical sites include sphagnum bogs, marshes, fens, wet heathland, pond margins, and seepage slopes.
 
-It requires permanently moist to saturated, acidic soils with low nutrient availability. Optimal pH ranges from 4.0 to 6.0.
+It requires permanently moist to saturated, acidic soils with low [[ph-and-nutrient-availability-garden-soils]]. Optimal pH ranges from 4.0 to 6.0.
 
 The species tolerates cold winters and is frequently found at higher latitudes and elevations than most other *Drosera* species. It can survive being submerged for extended periods.
 
@@ -87,7 +87,7 @@ Indoor growers can provide dormancy by placing plants in a cool location (2–5�
 
 Propagation is most commonly achieved through leaf cuttings, which root readily in moist peat. Gemmae (vegetative buds produced in winter) offer another reliable propagation method.
 
-Seed germination requires no stratification but benefits from surface sowing on wet peat. Seedlings reach flowering size in approximately 2–3 years.
+[[cannabis-seed-germination-methods]] requires no stratification but benefits from surface sowing on wet peat. Seedlings reach flowering size in approximately 2–3 years.
 
 ## Conservation Status
 
@@ -97,7 +97,7 @@ Habitat loss through wetland drainage, peat extraction, and agricultural convers
 
 In parts of its European range, the species has declined significantly due to land-use changes. It is protected under national legislation in several European countries.
 
-Climate change may impact circumboreal populations by altering hydrological regimes and raising temperatures beyond the species' thermal optimum for dormancy.
+[[dighton-fungi-climate-change-feedback]] may impact circumboreal populations by altering hydrological regimes and raising temperatures beyond the species' thermal optimum for dormancy.
 
 ## See Also
 
@@ -106,3 +106,5 @@ Climate change may impact circumboreal populations by altering hydrological regi
 - [[utricularia-vulgaris]]
 - [[sarracenia-flava]]
 - [[nepenthes-rajah]]
+
+- [[drosera-linearis]]

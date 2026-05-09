@@ -1,10 +1,11 @@
 ---
-title: "How to Deal with Deer and Other Wildlife in Your Garden"
+title: "How to query how to deal with deer and other wildlife in your garden and Other Wildlife in Your Garden"
 created: 2026-04-28
 tags: [query, gardening, pests, wildlife, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -62,7 +63,7 @@ planted as a perimeter border around more vulnerable crops. This approach aligns
 with [[comparison-trap-cropping-vs-beneficial-insects]] with
 sacrificial plants can reduce damage significantly.
 
-In permaculture design, wildlife management is integrated into the broader site
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], wildlife management is integrated into the broader site
 plan from the beginning. Zone analysis identifies where wildlife pressure is
 highest and plans accordingly, placing the most vulnerable crops in zones closer
 to the house where monitoring and protection are easier. Windbreaks and

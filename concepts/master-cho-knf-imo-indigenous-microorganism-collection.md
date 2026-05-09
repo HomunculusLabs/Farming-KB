@@ -10,18 +10,18 @@ tags: [knf]
 
 # Master Cho's IMO Collection Guide
 
-Indigenous Microorganisms (IMO) are organisms that have lived in harmony with the soil in a particular region, contributing to establishing the environment they inhabit. IMO are the main protagonists that bring vigor to the land and have proliferated in diversity over time. They withstand any weather conditions and, given the right environment, perform their function with great vitality.
+[[beneficial-indigenous-microorganisms-bim]] (IMO) are organisms that have lived in harmony with the soil in a particular region, contributing to establishing the environment they inhabit. IMO are the main protagonists that bring vigor to the land and have proliferated in diversity over time. They withstand any weather conditions and, given the right environment, perform their function with great vitality.
 
 ## Necessity of IMO
 
-Achieving the right soil conditions -- invigorating the life of the soil -- is the most important aspect of practical natural farming. The optimal living environment for microbes and small animals must be provided. The goal of natural farming is to revitalize increasingly desolate earth by reinstating these organisms to their original design.
+Achieving the right soil conditions -- invigorating the life of the soil -- is the most important aspect of practical [[comparison-natural-farming-vs-permaculture]]. The optimal living environment for microbes and small animals must be provided. The goal of natural farming is to revitalize increasingly desolate earth by reinstating these organisms to their original design.
 
 ## Characteristics of IMO
 
-- **Decomposition ability**: IMO break down complex organic materials (plants, animals, excrements, organic fertilizers) into simpler compounds absorbable by plants.
+- **Decomposition ability**: IMO break down complex organic materials (plants, animals, excrements, [[hamilton-organic-fertilizers-and-plant-nutrition]]) into simpler compounds absorbable by plants.
 - **Catalysis of chemical processes**: Microorganisms produce numerous enzymes, antibiotics, organic acids, and complexes. Most chemical reactions in soil and plants rely on these enzyme catalysts.
 - **Ecosystem revitalization**: When soil is revitalized through IMO use, bacteria and fungi appear first, followed by nematodes, earthworms, mole crickets, and moles.
-- **Disease suppression**: IMO convert weak soil into healthy soil by solubilizing trace minerals and enhancing nutrient circulation. Recovered microbial diversity rapidly reduces disease occurrence.
+- **[[aact-disease-suppression-mechanisms-ingham]]**: IMO convert weak soil into healthy soil by solubilizing trace minerals and enhancing nutrient circulation. Recovered microbial diversity rapidly reduces disease occurrence.
 
 ## Collecting IMO (IMO #1)
 
@@ -93,11 +93,13 @@ The empty 1/3 volume of the lunch box is fully covered by white microorganisms (
 ## Using IMO
 
 - **Soil foundation**: Scatter IMO #4 over field, minimum 150kg/ha. Apply 2-3 hours before sunset. For successive cropping disorder, treat 14 days before seeding.
-- **Fermented mixed compost**: Mix with compost materials at 1:10 ratio, ferment 7-14 days.
+- **[[cho-fermented-mixed-compost-methods]] compost**: Mix with compost materials at 1:10 ratio, ferment 7-14 days.
 - **Liquid form**: Put IMO #4 in hemp cloth bag, soak at 1/500-1/1000 dilution. Prevents Fusarium wilt and damping-off.
-- **Livestock**: Agricultural mineral water with IMO #4 enables healthy growth of pigs and chickens.
+- **Livestock**: [[knf-agricultural-mineral-water]] water with IMO #4 enables healthy growth of pigs and chickens.
 
 ## See Also
+
+- [[knf-imo-collection-methods]]
 
 - [[indigenous-microorganisms-imo]]
 - [[knf-oriental-herbal-nutrient]]

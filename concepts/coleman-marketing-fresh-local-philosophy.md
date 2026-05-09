@@ -3,7 +3,7 @@ title: Marketing Philosophy — Fresh, Local, and Beyond Organic
 created: 2026-05-08
 sources:
   - path: /Users/t3rpz/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md
-    title: The Winter Harvest Handbook - [[eliot-coleman]]
+    title: The [[coleman-claytonia-winter-harvest-cultivation]] Handbook - eliot-coleman
     author: Eliot Coleman
 updated: 2026-05-08
 type: concept
@@ -15,7 +15,7 @@ tags: [reference]
 ## The Industrialization of Organic
 
 Eliot Coleman has been involved in organic agriculture since 1965.
-In those early days, the distinctiveness of organic farming gave
+In those early days, the distinctiveness of [[coleman-deep-organic-farming-philosophy]] gave
 small growers a unique marketing advantage. That advantage
 disappeared when organic became industrialized. As more and more
 organic produce became available from distant sources, the word
@@ -95,7 +95,7 @@ the farm constantly seeks efficiency improvements.
 
 One example: installing larger-diameter pipes and raising water
 pressure cut by 75 percent the time required to drain and refill
-sinks between washing different leaf types in the salad mix. For
+sinks between washing different leaf types in the [[coleman-baby-leaf-salad-mix-quality-standards]]. For
 maximum efficiency, sinks need to be in continual use, so one person
 begins washing as soon as the first buckets are harvested. Speed of
 work matters -- harvesters need quick hands, a quick mind, and a
@@ -123,3 +123,4 @@ day-by-day planting calendar from them.
 
 - [[coleman-four-season-farm]]
 - [[coleman-deep-organic-history-and-philosophy]]
+- [[coleman-deep-organic-farming-philosophy]]

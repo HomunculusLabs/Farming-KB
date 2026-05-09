@@ -10,7 +10,7 @@ sources:
 
 # Mushroom Species Cultivation Parameters
 
-Detailed cultivation tables for gourmet, medicinal, and ecologically important mushroom species. Based on [[paul-stamets]]' *Mycelium Running* (2005) species chapters. See also [[mushroom-species-guide]], [[specialty-mushroom-species]], [[mushroom-cultivation-basics]], and [[mushroom-substrates]].
+Detailed cultivation tables for gourmet, medicinal, and ecologically important mushroom species. Based on [[paul-stamets]]' *[[woodlovers-mycelium-running-pathway-technique]]* (2005) species chapters. See also [[mushroom-species-guide]], [[specialty-mushroom-species]], [[mushroom-cultivation-basics]], and [[mushroom-substrates]].
 
 ## Primary Cultivation Species
 
@@ -18,14 +18,14 @@ Detailed cultivation tables for gourmet, medicinal, and ecologically important m
 
 | Parameter | Value |
 |-----------|-------|
-| Substrate | Straw, wood chips, sawdust, paper, coffee grounds, cotton waste, many agricultural byproducts |
+| Substrate | Straw, wood chips, sawdust, paper, [[oyster-mushroom-coffee-grounds-cultivation]], cotton waste, many agricultural byproducts |
 | Colonization temp | 65-80°F (18-27°C); optimum 75°F (24°C) |
 | Fruiting temp | 50-75°F (10-24°C); optimum 60-65°F (15-18°C) |
 | Humidity | 85-95% for fruiting |
 | Fresh air exchange | High — needs significant FAE |
 | Light | Indirect light; 500-1000 lux |
 | pH | 5.0-7.0; optimum 6.0-6.5 |
-| Colonization time | 10-21 days on supplemented sawdust |
+| Colonization time | 10-21 days on [[oyster-mushroom-supplemented-sawdust-blocks]] |
 | Time to first fruit | 3-14 days after introducing fruiting conditions |
 | Yield | 0.5-1.5 lbs per lb dry substrate (50-150% BE) |
 | Difficulty | Easy — excellent beginner species |
@@ -42,7 +42,7 @@ Detailed cultivation tables for gourmet, medicinal, and ecologically important m
 | Fresh air exchange | Moderate to high |
 | Light | Ambient outdoor light; indirect |
 | pH | 5.5-7.0 |
-| Colonization time | 2-4 months on outdoor wood chip beds |
+| Colonization time | 2-4 months on [[stamets-outdoor-wood-chip-bed-mycelium-transplantation]] chip beds |
 | Time to first fruit | 4-12 months after outdoor planting |
 | Yield | Highly variable outdoors; can produce for 3-4 years from single inoculation |
 | Difficulty | Easy outdoors |
@@ -99,16 +99,17 @@ Detailed cultivation tables for gourmet, medicinal, and ecologically important m
 | Difficulty | Moderate |
 | Key notes | Medicinal: erinacines and hericenones stimulate NGF (nerve growth factor); neuroprotective properties |
 
-
 ## Additional Species
 
-For Reishi, Turkey Tail, Almond Mushroom, outdoor/ecological species, mycoremediation species, and substrate preparation reference, see [[mushroom-ecological-species]].
+For Reishi, Turkey Tail, Almond Mushroom, outdoor/ecological species, mycoremediation species, and [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] reference, see [[mushroom-ecological-species]].
 
 ## See Also
+
+- [[psilocybian-species-cultivation-parameters]]
 
 - [[mushroom-ecological-species]] -- Additional species and mycoremediation
 - [[mushroom-species-guide]] for concise species profiles
 - [[specialty-mushroom-species]] for additional species
 - [[mushroom-cultivation-basics]] for the 10-step process
 - [[mushroom-substrates]] for substrate science
-- [[mushroom-substrate-comparison]] for substrate comparison tables
+- [[mushroom-substrate-comparison]] for [[brassinosteroid-substrate-comparison-agar-vs-dung-grain-psilocybe-cubensis]] tables

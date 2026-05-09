@@ -1,5 +1,5 @@
 ---
-title: "metzner Hybrid Circle Ritual Structure and Council Practice"
+title: "metzner metzner hybrid circle ritual structure and council practice Ritual Structure and Council Practice"
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -10,16 +10,16 @@ sources: [raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 # Hybrid Circle Ritual Structure and Council Practice
 
 In his 1998 review, Ralph Metzner provided a detailed description of
-the "neoshamanic medicine circles" he had observed and participated in
+the "[[metzner-neoshamanic-medicine-circles-structure-and-practice]] circles" he had observed and participated in
 over more than a decade. These circles represent a hybrid of Western
 psychotherapeutic and traditional shamanic approaches to working with
 entheogenic plant medicines, creating a new ceremonial form adapted
-to the needs and capacities of contemporary Western seekers.
+to the needs and capacities of contemporary [[ayahuasca-tourism-western-seekers-and-integration]].
 
 ## Scope of Observation
 
 Metzner reported being "a participant and observer in over 100 such
-circle rituals, in both Europe and North America, involving several
+circle rituals, in both Europe and [[psilocybin-north-america-pacific-northwest]], involving several
 hundred participants, many of them repeatedly." This substantial
 body of firsthand experience gives his description particular authority
 as an ethnographic account of an emerging spiritual practice.
@@ -27,7 +27,7 @@ as an ethnographic account of an emerging spiritual practice.
 ## Core Structural Elements
 
 These hybrid circles preserved certain basic elements from traditional
-shamanic healing ceremonies while adapting others to a Western context.
+[[metzner-shamanic-healing-and-divination-paradigm]] ceremonies while adapting others to a Western context.
 The elements typically included:
 
 - **Circle structure** — participants sitting or lying in a circle,
@@ -95,7 +95,7 @@ an ongoing practice of working with entheogenic plant substances seem
 to have expanded their belief systems beyond the boundaries of the
 conventional materialistic paradigm of Western science and psychology."
 
-These practitioners accepted the reality of "nonmaterial spirit beings"
+These practitioners accepted the reality of "nonmaterial [[metzner-spirit-beings-multiple-realities-entheogens]]"
 and recognized that "we live in multiple worlds of consciousness," while
 also accepting "the validity of many Western psychological insights,
 including those of Freud, C.G. Jung and Wilhelm Reich."

@@ -34,11 +34,11 @@ mortierella alpina displays the characteristic morphology of the Mortierellales:
 - **Colony:** On potato dextrose [[aspergillus-flavus]] and A. nidulans
 - In frequently cut forests, mortierella alpina persisted as a dominant species, alongside Absidia corymbifera and Rhizopus oryzae
 
-This pattern suggests that mortierella alpina is an indicator of moderate to high disturbance intensity in forest ecosystems. Its increased abundance with cutting frequency reflects changes in soil conditions, organic matter inputs, and microbial community structure that accompany forest management activities.
+This pattern suggests that mortierella alpina is an indicator of moderate to high disturbance intensity in forest ecosystems. Its increased abundance with cutting frequency reflects changes in soil conditions, [[hamilton-composting-and-organic-matter-management]] inputs, and [[edaphic-factors-microbial-community-structure]] structure that accompany [[mollison-pdc-forest-management-products]] activities.
 
 ### Nutrient Cycling
 
-As a soil saprotroph, mortierella alpina contributes to the decomposition of organic matter and the cycling of nutrients in soil ecosystems. The species is capable of degrading complex organic compounds, including cellulose and chitin, releasing mineral nutrients that become available for plant uptake.
+As a soil saprotroph, mortierella alpina contributes to the decomposition of organic matter and the cycling of nutrients in soil ecosystems. The species is capable of degrading complex [[fungal-volatile-organic-compounds-communication]], including cellulose and chitin, releasing mineral nutrients that become available for plant uptake.
 
 ### Lipid Metabolism
 
@@ -52,11 +52,11 @@ In soil environments, mortierella alpina competes with bacteria, other fungi, an
 
 The mycelium of mortierella alpina may serve as a food source for soil microarthropods such as [[biodiesel-production]] research.
 - **Ecological monitoring:** The species serves as a bioindicator of forest disturbance and soil quality, helping forest managers assess the impacts of harvesting and other management activities on soil microbial communities.
-- **Enzyme production:** Some Mortierella species produce industrially useful enzymes, including lipases and proteases.
+- **[[ligninolytic-enzyme-production-bioremediation]]:** Some Mortierella species produce industrially useful enzymes, including lipases and proteases.
 
 ## Research Notes
 
-Dighton (2003) references mortierella alpina in the context of soil microfungal community responses to forest management intensity. Its presence as a dominant species in periodically and frequently cut forest ecosystems, replacing M. stylospora of virgin forests, illustrates how human activities can alter [[soil-fungal-community-composition]] and the implications of such changes for ecosystem functioning.
+Dighton (2003) references mortierella alpina in the context of soil microfungal community responses to forest management intensity. Its presence as a dominant species in periodically and frequently cut forest ecosystems, replacing M. stylospora of virgin forests, illustrates how human activities can alter soil-fungal-community-composition and the implications of such changes for ecosystem functioning.
 
 ## See Also
 
@@ -64,7 +64,7 @@ Dighton (2003) references mortierella alpina in the context of soil microfungal 
 - Zygomycota
 - soil fungi
 - forest ecology
-- fatty acid production
+- fatty [[staycare-fungal-organic-acid-production-metal-leaching]]
 - soil microbial community
 ## Practical Considerations
 
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

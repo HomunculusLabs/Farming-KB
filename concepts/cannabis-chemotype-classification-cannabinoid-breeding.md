@@ -1,11 +1,11 @@
 ---
-title: Cannabis Chemotype Classification and Cannabinoid Level Breeding (Clarke)
+title: Cannabis cannabis chemotype classification cannabinoid breeding and Cannabinoid Level Breeding (Clarke)
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 
 # Cannabis Chemotype Classification and Cannabinoid Level Breeding
@@ -83,6 +83,6 @@ The type of high associated with different strains results from varying levels o
 ## Related Topics
 
 - [[cannabis-breeding-basics]] - Breeding fundamentals
-- [[cannabis-strain-selection-guide]] - Strain selection guidance
+- [[cannabis-strain-selection-guide]] - [[blesching-cannabis-strain-selection-receptor-targeting]] guidance
 - [[cannabis-fiber-vs-drug-strain-phenotypes-clarke]]
 - [[cannabis-african-indian-strain-descriptions-clarke]]

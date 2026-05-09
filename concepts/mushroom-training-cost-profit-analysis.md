@@ -1,5 +1,5 @@
 ---
-title: Mushroom Cultivation Cost and Profit Analysis
+title: mushroom-cultivation Cost and Profit Analysis
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
@@ -15,7 +15,7 @@ sources:
 
 # Mushroom Cultivation Cost and Profit Analysis
 
-The FAO training manual provides detailed cost calculations for mushroom bag production,
+The FAO [[mushroom-cultivation-disabilities-training-manual-overview]] provides detailed cost calculations for [[oyster-mushroom-bag-preparation-and-pasteurization]] production,
 startup investment estimates, and profitability projections at various scales. These figures,
 based on conditions in Ubon Ratchathani province, Thailand (as of February 2000), demonstrate
 that mushroom cultivation can be a viable enterprise for people with disabilities when
@@ -29,7 +29,7 @@ managed properly.
 |------|---------------------|
 | Sawdust | 0.76 |
 | PP Bags (plastic) | 0.24 |
-| Rice bran | 0.23 |
+| [[jadam-rice-bran-problems]] | 0.23 |
 | Gypsum | 0.06 |
 | Limestone | 0.03 |
 | Magnesium sulfate | 0.02 |
@@ -50,9 +50,9 @@ managed properly.
 | Sales price (plus 17% profit) | 3.95 |
 
 Labor costs include making bags (0.30), pasteurization (0.07),
-[[mushroom-training-substrate-preparation]] to other
+mushroom-training-substrate-preparation to other
   farmers
-- Selling spent substrate as compost or organic fertilizer
+- Selling [[oyster-mushroom-spent-substrate-recycling]] as compost or [[complete-organic-fertilizer-cof-recipe-solomon]]
 - Processing mushrooms into value-added [[mushroom-training-straw-mushroom-cultivation]] from recycled
   substrate
 
@@ -93,4 +93,5 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[mushroom-cultivation]]

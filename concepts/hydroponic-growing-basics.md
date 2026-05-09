@@ -1,5 +1,5 @@
 ---
-title: Hydroponic Growing Basics
+title: cannabis-grow-hydroponic-growing-systems Basics
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Hydroponic Growing Basics
 
-Hydroponics is the practice of growing plants without soil by delivering nutrients dissolved in water directly to the root zone. For cannabis cultivation, hydroponics offers faster growth rates, higher yields, and precise control over nutrient delivery compared to soil-based methods. This guide covers the major hydroponic systems, nutrient management, pH control, and essential practices.
+Hydroponics is the practice of growing plants without soil by delivering nutrients dissolved in water directly to the root zone. For [[query-how-does-no-till-cannabis-cultivation-work]], hydroponics offers faster growth rates, higher yields, and precise control over nutrient delivery compared to soil-based methods. This guide covers the major hydroponic systems, [[green-cannabis-grow-bible-nutrient-management-ppm]], pH control, and essential practices.
 
 ## Advantages of Hydroponics
 
@@ -18,7 +18,7 @@ Hydroponics is the practice of growing plants without soil by delivering nutrien
 - Precise control over nutrient ratios and concentrations
 - Reduced water usage (water is recirculated, not lost to soil drainage)
 - Fewer soil-borne pests and pathogens
-- Cleaner growing environment
+- Cleaner [[cannabis-growing-environment-setup]]
 - Easier to automate and monitor
 
 ## Disadvantages
@@ -34,7 +34,7 @@ Hydroponics is the practice of growing plants without soil by delivering nutrien
 
 ### Deep Water Culture (DWC)
 
-The simplest active hydroponic system. Plant roots hang directly in an oxygenated nutrient solution.
+The simplest active hydroponic system. Plant roots hang directly in an oxygenated [[cannabis-nutrient-solution-preparation]].
 
 How it works:
 - Plants are suspended in net pots filled with inert growing medium (hydroton, rockwool, coco coir)
@@ -47,7 +47,7 @@ Pros:
 - Simple to build and maintain
 - Low component count
 - Excellent for single-plant or small-scale grows
-- Very low maintenance during vegetative stage
+- Very low maintenance during [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]
 
 Cons:
 - Root rot risk if temperature exceeds 72°F / 22°C
@@ -141,45 +141,6 @@ Cons:
 - Organic nutrients are problematic in drip systems (clogging, biofilm)
 
 ## Nutrient Solution Management
-
-### Electrical Conductivity (EC)
-
-EC measures dissolved nutrient concentration in millisiemens/cm (mS/cm) or PPM:
-
-- Seedlings/clones: EC 0.4-0.8 (PPM 200-400)
-- Early vegetative: EC 0.8-1.2 (PPM 400-600)
-- Late vegetative: EC 1.2-1.8 (PPM 600-900)
-- Early flowering: EC 1.5-2.0 (PPM 750-1000)
-- Mid flowering: EC 1.8-2.4 (PPM 900-1200)
-- Late flowering: EC 1.5-2.0 (PPM 750-1000, reducing nitrogen)
-
-### pH Management
-
-Optimal range: 5.5-6.5 (ideal: 5.8-6.2). Below 5.5 risks micronutrient toxicity; above 6.5 causes macronutrient lockout. pH drifts naturally — check daily. pH Down: phosphoric acid. pH Up: potassium hydroxide or potassium silicate.
-
-### Water Quality
-
-- RO water is ideal — clean base for nutrient mixing
-- Municipal water may need carbon filtration (chlorine/chloramine removal)
-- Hard water complicates nutrient management
-
-### Nutrient Products
-
-Synthetic mineral lines: General Hydroponics (Flora), Advanced Nutrients, Canna, Botanicare. Organic hydroponics is possible but prone to biofilm clogging.
-
-## Temperature and Dissolved Oxygen
-
-- Water temperature: 65-70°F (18-21°C). Above 72°F / 22°C promotes root rot; below 60°F / 15°C slows uptake
-- Dissolved oxygen target: 6-8 mg/L (air pumps and stones essential for DWC)
-- Water chillers may be needed in warm environments
-
-## Common Problems
-
-- Root rot (Pythium): brown, slimy roots with foul odor. Prevent with proper temperature, beneficial bacteria (Hydroguard, Voodoo Juice), and hydrogen peroxide
-- Nutrient lockout: pH outside optimal range. Flush and adjust pH
-- Nutrient burn: EC too high. Lower concentration and flush with plain water
-- Algae: caused by light exposure to nutrient solution. Cover all reservoirs and tubing
-- Tip burn: potassium or calcium deficiency, or excessive light/heat
 
 ## See Also
 

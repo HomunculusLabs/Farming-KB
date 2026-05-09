@@ -1,5 +1,5 @@
 ---
-title: "2C-SE (4-Methylseleno-2,5-dimethoxy-PEA) -- PIHKAL Entry #38"
+title: "2C-SE (4-Methylseleno-2,5-dimethoxy-PEA) -- 2c-b-pihkal-entry-20 #38"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -40,7 +40,7 @@ would be needed (100 milligrams. or more), some discretion was felt
 desirable. There was certainly an odd taste and an odd smell. I
 remember some early biochemical work where selenium replaced sulfur in
 
-some amino acid chemistry, and things got pretty toxic. It might be
+some [[cho-fish-amino-acid-preparation]] chemistry, and things got pretty toxic. It might be
 appropriate to get some general animal toxicity data before exploring
 those dosages that might get to a +++.
 
@@ -94,7 +94,7 @@ Microanalysis gave C = 49.86, 49.69; H = 5.32, 5.47. As C9H12SeO2
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

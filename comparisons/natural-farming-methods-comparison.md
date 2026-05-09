@@ -1,6 +1,6 @@
 ---
 
-title: Natural Farming Methods Comparison
+title: comparison-natural-farming-vs-permaculture Methods Comparison
 created: 2026-04-11
 updated: 2026-04-12
 type: comparison
@@ -34,9 +34,9 @@ A comparison of the major natural farming approaches that avoid synthetic chemic
 | Method | Founder | Country | Era | Primary Focus |
 |--------|---------|---------|-----|---------------|
 | Fukuoka Natural Farming | Masanobu Fukuoka | Japan | 1940s-2008 | Do-nothing farming |
-| Korean Natural Farming (KNF) | Cho Han-Kyu | Korea | 1960s-2018 | Fermented inputs, IMO |
+| [[query-jadam-vs-korean-natural-farming]] Farming (KNF) | Cho Han-Kyu | Korea | 1960s-2018 | Fermented inputs, IMO |
 | JADAM | Cho Youngsang | Korea | 1990s-present | Ultra-low-cost KNF |
-| Biodynamic Agriculture | Rudolf Steiner | Germany | 1924-present | Cosmic rhythms, preparations |
+| [[query-what-is-biodynamic-agriculture-and-how-does-it-differ-from-organic]] | Rudolf Steiner | Germany | 1924-present | Cosmic rhythms, preparations |
 | Permaculture | Mollison & Holmgren | Australia | 1978-present | Design systems, ecology |
 | Nutrient-Dense Gardening | Steve Solomon | USA | 2000s-present | Complete mineralization |
 | Regenerative Agriculture | Multiple | Global | 2010s-present | Soil health, carbon |
@@ -88,7 +88,7 @@ A comparison of the major natural farming approaches that avoid synthetic chemic
 - **JADAM** — Budget-conscious growers, large-scale farmers transitioning from chemical
 - **Permaculture** — Homesteaders, landscape designers, long-term food systems
 - **Biodynamic** — Wine growers, spiritual farmers, biodynamic certification seekers
-- **Solomon COF** — Vegetable gardeners focused on nutritional quality
+- **Solomon COF** — Vegetable gardeners focused on [[coleman-winter-greens-nutritional-quality-cold-sweetening]]
 
 ## Key Similarities
 
@@ -107,7 +107,7 @@ All natural farming methods share:
 2. **Spirituality** — Biodynamic and Fukuoka are deeply spiritual; JADAM and Solomon are practical/scientific
 3. **Scale** — Permaculture designs at landscape scale; KNF/JADAM work at field scale; Fukuoka at farm scale
 4. **Certification** — Biodynamic and organic have certification paths; KNF and JADAM don't
-5. **Animal integration** — Permaculture and biodynamic integrate animals; KNF focuses on plants; Solomon is plant-focused
+5. **[[mollison-animal-integration-permaculture-design]]** — Permaculture and biodynamic integrate animals; KNF focuses on plants; Solomon is plant-focused
 
 ## Choosing a Method
 
@@ -116,9 +116,11 @@ These approaches are not mutually exclusive. Many practitioners combine elements
 - **Permaculture design + KNF inputs** — common combination
 - **Fukuoka philosophy + Solomon minerals** — minimalist with complete nutrition
 - **JADAM cost savings + permaculture layout** — practical and well-designed
-- **Biodynamic preps + regenerative grazing** — soil health + livestock integration
+- **Biodynamic preps + regenerative grazing** — soil health + [[faires-livestock-integration-permaculture]]
 
 ## See Also
+
+- [[comparison-mealworm-farming-vs-cricket-farming]]
 
 - [[natural-farming-fukuoka]] — Fukuoka's method
 - [[knf-preparations]] — KNF input catalog

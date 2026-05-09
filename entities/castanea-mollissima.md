@@ -12,13 +12,13 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Jaynes, R.A. (1975). "Handbook of North American Nut Trees."
+  - Jaynes, R.A. (1975). "Handbook of growing-gourmet-north-american-reishi-species comparison-nut-trees-vs-grain-farming-for-caloric-staple-production."
     Northern Nut Growers Association.
   - Payn, K.G. et al. (1992). "Chestnut." In: Moore, J. & Ballington,
     J.R. "Crop Production Science in Horticulture." CABI.
-  - Anagnostakis, S.L. (2012). "Chestnut breeding in the United States."
+  - Anagnostakis, S.L. (2012). "Chestnut breeding in the [[dmt-containing-plants-united-states-halpern]]."
     Plant Breeding Reviews 34: 429–452.
-  - FAO (2022). "FAOSTAT: Chestnut Production Data." Rome.
+  - FAO (2022). "FAOSTAT: Chestnut [[psilocybe-cubensis-miniculture-production-data-and-flush-longevity]]." Rome.
   - Burnham, C.R. et al. (1986). "Breeding Blight-Resistant Chestnuts."
     Plant Disease 70(9): 863–869.
 ---
@@ -100,7 +100,7 @@ years.
 orchards. High-yielding cultivars exceed 5 tonnes/ha.
 
 **Propagation:** Seeds (stratified 3 months at 2–4°C), grafting, or
-tissue culture. Seed-grown trees vary significantly; grafted clones
+[[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]. Seed-grown trees vary significantly; grafted clones
 ensure consistent quality.
 
 **Pests:** Major pests include Asian chestnut gall wasp (*Dryocosmus
@@ -111,7 +111,7 @@ parasitoid) have been effective against gall wasp.
 ## Permaculture and Agroforestry Applications
 
 Chinese chestnut is a keystone species in temperate [[ectomycorrhizal-associations]] (with *Pisolithus* spp., *Scleroderma*
-  spp.) enhance soil nitrogen cycling and [[castanea-sativa]]
+  spp.) enhance soil [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]] and [[castanea-sativa]]
 - [[juglans-nigra]]
 - castanea entity
 - [[comfrey-symphytum-officinale]]

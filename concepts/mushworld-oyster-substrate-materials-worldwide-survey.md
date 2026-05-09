@@ -9,7 +9,7 @@ The survey opens with a striking calculation of the untapped potential:
 - Total available agricultural waste: ~500 billion kg dry; forestry waste: ~100 billion kg dry
 - If fully utilized across all 600 billion kg, could produce **60kg of mushrooms per person per year**
 - **200g of mushrooms** can efficiently replace **100g of meat** as a protein source (Souci et al., 1975-1989)
-- 30% of the world population is protein-deficient — mushroom cultivation on waste substrates offers a partial solution
+- 30% of the world population is protein-deficient — [[accessible-mushroom-cultivation-for-disabilities]] on waste substrates offers a partial solution
 
 ## C/N Ratio and pH Guidelines
 
@@ -23,7 +23,7 @@ Most surveyed wastes fall within C/N ratios of **32–600** and pH of **5.0–7.
 
 ### Legume Straws and Pods
 
-- **Soybean stems**: Best substrate for *P. sajor-caju* in India at **77% biological efficiency** (Pani et al., 1997). Soybean husks and straw also good for *P. ostreatus* in Yugoslavia
+- **Soybean stems**: Best substrate for *P. sajor-caju* in India at **77% [[stamets-biological-efficiency-yield]]** (Pani et al., 1997). Soybean husks and straw also good for *P. ostreatus* in Yugoslavia
 - **Pea straw** (*Pisum* sp.): 43% cellulose, 15% lignin, 0.9% N, C/N=45. Good basic substrate for *Pleurotus*
 - **Bean pods and straw**: Useful as substrate component or in bulk for *Pleurotus* (Poppe et al., 1995)
 - **French bean haulms**: For *Pleurotus* (Sohi et al., 1989)
@@ -36,23 +36,23 @@ Most surveyed wastes fall within C/N ratios of **32–600** and pH of **5.0–7.
 - **Cotton waste** (gin waste, mill droppings, husks): 56–86% BE for *Pleurotus*. Variable N content (0.25–1.45%). Widely regarded as premium substrate. More than 50 author references cited
 - **Groundnut shells**: Successful for *P.[[staycare-fungal-treatment-of-textile-industry-wastewater]] waste**: Card sweeping, chimney waste, weaving waste for *Pleurotus* (Khan et al., 1989)
 - **Vegetable biomass**: Bitter gourd, chili, cowpea, French beans, winged bean, pumpkin, tomato, okra — all gave good results with *P. sajor-caju* in India (Ganeshan et al., 1989)
-- **Cactus, Agave and Yucca**: Drought-resistant plants useful as mushroom substrate component (Stamets, 1993)
+- **Cactus, Agave and Yucca**: Drought-resistant plants useful as [[gourmet-medicinal-mushroom-substrate-preparation]] component (Stamets, 1993)
 - **Cardamon pulp**: 113% BE for *Pleurotus* (Martinez-Carrera, 1989)
 - **Lemon grass leaves**: 113% BE for *Pleurotus*
 - **Pepper leaves**: 57% BE for *Pleurotus*
 
 ### Spent Substrates — Circular Cultivation
 
-- **Spent *Volvariella* compost**: Dried and reused for *P. sajor-caju* with **80% biological efficiency** (Chang & Miles, 1989). Demonstrates the viability of sequential mushroom cropping
+- **Spent *Volvariella* compost**: Dried and reused for *P. sajor-caju* with **80% biological efficiency** (Chang & Miles, 1989). Demonstrates the viability of sequential [[stamets-mushroom-cropping-containers-design-comparison]]
 - **Spent *Pleurotus* substrate**: Suggested as substrate for King Stropharia (*Stropharia rugosoannulata*). Also: half spent *Volvariella* + 20% rice bran for efficient *Pleurotus* (Quimio, via Oei 1991)
 - **Spent *Agaricus* compost**: Amended with cotton waste for satisfactory *Volvariella* cultivation. Shows how one mushroom's waste becomes another's food
 - Spent composts increase crude protein vs raw straw, usable as [[mushworld-oyster-cultivation-case-studies-developing-countries]]
 - oyster mushroom carbon nitrogen ratio
-- [[spent-mushroom-substrate-recycling]]
+- spent-mushroom-substrate-recycling
 - oyster mushroom cotton waste substrate
 ## Practical Considerations
 
-When working with Mushworld Oyster Substrate Materials Worldwide Survey, several practical factors should be
+When working with Mushworld Oyster [[growing-gourmet-substrate-materials-wood-types]] Worldwide Survey, several practical factors should be
 carefully considered to achieve optimal results. These include
 the specific conditions of the implementation context, available
 resources, timing requirements, and the interactions between this
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,3 +109,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[oyster-mushroom-substrate-materials-worldwide-survey-comparison]]

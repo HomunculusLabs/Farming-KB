@@ -1,5 +1,5 @@
 ---
-title: Psilocybe Cubensis Potency Harvest Timing
+title: brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting mushroom-potency-harvest-age Timing
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 type: concept
 tags: [psilocybe-cubensis, mushroom-potency, harvest-timing, alkaloid-preservation, drying, aborts]
@@ -9,7 +9,7 @@ created: 2026-05-08
 other experienced cultivators demonstrated that this characterization is
 misleading. The actual potency of P. cubensis depends heavily on three factors:
 what the mushroom is grown on, its age or maturity at harvest, and how it is
-preserved after harvest. When grown on brown rice, harvested young, and cool-dried
+preserved after harvest. When grown on [[cho-brown-rice-vinegar-preparation]], harvested young, and cool-dried
 with desiccant, P. cubensis can achieve a baseline psilocybin content comparable
 to P. semilanceata at approximately 1%.
 
@@ -95,4 +95,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

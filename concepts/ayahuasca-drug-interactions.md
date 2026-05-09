@@ -15,7 +15,7 @@ pharmacological interactions with MAOIs, potentially affecting drug metabolism t
 
 Anyone considering ayahuasca should take the following precautions:
 
-- Consult a physician knowledgeable about [[ayahuasca-pharmacology-MAOI-interactions]]
+- Consult a physician knowledgeable about [[ayahuasca-pharmacology-maoi-interactions]]
 
 - [[ayahuasca-tourism-in-peru]]
 - [[banisteriopsis-caapi]]
@@ -98,3 +98,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[ayahuasca-pharmacology-and-drug-interactions]]

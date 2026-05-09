@@ -13,7 +13,7 @@ sources:
   - Tomlinson, P.B. (1986). "The Botany of Mangroves." Cambridge University Press.
   - Spalding, M., Kainuma, M. & Collins, L. (2010). "World Atlas of Mangroves." Earthscan.
   - Duke, N.C. (2006). "Australia's Mangroves: The Authoritative Guide." University of Queensland.
-  - Farnsworth, E.J. & Ellison, A.M. (1997). "Global patterns of mangrove forest structure and function." Biotropica, 29(2), 195–212.
+  - Farnsworth, E.J. & Ellison, A.M. (1997). "Global patterns of mangrove [[mollison-wet-tropical-forest-structure-and-polyculture]] and function." Biotropica, 29(2), 195–212.
   - Alongi, D.M. (2009). "The Energetics of Mangrove Forests." Springer.
 ---
 
@@ -35,7 +35,7 @@ The species epithet *mangle* derives from the Taino word for the tree, adopted i
 
 Red mangrove is an evergreen tree reaching 10–20 meters in height under optimal conditions. Mature trees develop a spreading canopy with leathery, elliptical leaves 5–15 cm long.
 
-The leaves are opposite, simple, entire, and dark green on the upper surface with small salt-excreting glands on the underside. Leaf drop averages 2–3 leaves per cm² of canopy per month, contributing significant organic matter to the detrital food web.
+The leaves are opposite, simple, entire, and dark green on the upper surface with small salt-excreting glands on the underside. Leaf drop averages 2–3 leaves per cm² of canopy per month, contributing significant [[hamilton-composting-and-organic-matter-management]] to the detrital food web.
 
 **Prop roots** are the diagnostic feature — thick, reddish-brown aerial roots that arch outward from the lower trunk before entering the substrate. A single mature tree may produce dozens of prop roots, creating a dense root labyrinth that supports diverse epifaunal communities.
 
@@ -55,7 +55,7 @@ Red mangrove tolerates salinities from near-freshwater to full seawater (35 ppt)
 
 Red mangrove is a keystone species of coastal tropical ecosystems. Its prop root complex provides structural habitat for oysters, barnacles, sponges, tunicates, and juvenile fish. Studies have documented over 200 species of fish utilizing mangrove root systems as nursery grounds.
 
-The species contributes significantly to coastal carbon sequestration. Mangrove soils store an average of 1,023 Mg C ha⁻¹, roughly three to five times more than terrestrial forests on a per-area basis. This "blue carbon" makes mangrove conservation a priority for climate change mitigation.
+The species contributes significantly to coastal [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]. Mangrove soils store an average of 1,023 Mg C ha⁻¹, roughly three to five times more than terrestrial forests on a per-area basis. This "blue carbon" makes mangrove conservation a priority for [[dighton-fungi-climate-change-feedback]] mitigation.
 
 Prop roots dissipate wave energy, reducing erosion and protecting shorelines during storms. Studies estimate that a 100-meter-wide mangrove belt can reduce wave height by 66%, providing billions of dollars in avoided flood damage annually.
 
@@ -69,7 +69,7 @@ Red mangrove wood is dense, durable, and resistant to marine borers, making it h
 
 In traditional medicine, bark extracts have been used to treat diarrhea, dysentery, fever, and wounds. The astringent properties are attributed to polyphenolic compounds including catechins, proanthocyanidins, and gallotannins.
 
-Modern applications include mangrove restoration for coastal defense and carbon credit projects. Red mangrove is the primary species used in mangrove plantation programs due to its rapid establishment from propagules and broad environmental tolerance.
+Modern applications include [[comparison-mangrove-restoration-vs-constructed-wetlands]] for coastal defense and carbon credit projects. Red mangrove is the primary species used in mangrove plantation programs due to its rapid establishment from propagules and broad environmental tolerance.
 
 The species is planted for aquaculture pond stabilization and as a biological filter in integrated mangrove-aquaculture systems. Prop root microhabitats support edible oyster and crab populations that provide supplementary livelihoods for coastal communities.
 
@@ -81,7 +81,7 @@ Optimal planting conditions include sheltered sites with minimal wave exposure, 
 
 Propagation from seeds in nurseries is also practiced. Seeds germinate in 7–14 days under humid conditions and produce transplantable seedlings within 4–6 months. Nursery-grown seedlings allow better control of planting density and species composition.
 
-Major restoration initiatives include the Mangrove Capital of Africa project in Senegal, the "Mangrove for the Future" program across Southeast Asia, and large-scale replanting efforts in Vietnam, Thailand, and Bangladesh following cyclone damage.
+Major restoration initiatives include the Mangrove Capital of Africa project in Senegal, the "Mangrove for the Future" program across [[psilocybe-southeast-asia-pacific]], and large-scale replanting efforts in Vietnam, Thailand, and Bangladesh following cyclone damage.
 
 ## See Also
 

@@ -50,7 +50,7 @@ Spores are 10–14 μm in diameter, finely papillose, and produced in large quan
 
 ## Distribution and Habitat
 
-*Hypnum cupressiforme* has a virtually cosmopolitan distribution. It occurs throughout Europe, North America, Asia, Africa, South America, and Australasia, making it one of the most widely distributed moss species globally.
+*Hypnum cupressiforme* has a virtually cosmopolitan distribution. It occurs throughout Europe, [[psilocybin-north-america-pacific-northwest]], Asia, Africa, South America, and Australasia, making it one of the most widely distributed moss species globally.
 
 The species colonizes an extraordinarily broad range of substrates. It is equally common as an epiphyte on tree bark and branches, on rocks and stone walls, on soil and humus, and on decaying wood.
 
@@ -62,7 +62,7 @@ It ranges from lowland to montane elevations, occurring from sea level to over 2
 
 *Hypnum cupressiforme* plays an important role in forest epiphyte communities. Its dense mats retain moisture and create microhabitats for invertebrates, including mites, springtails, and small beetles.
 
-The species contributes to nutrient cycling in forest canopies. Epiphytic mats intercept atmospheric deposition and throughfall, trapping particulate matter and dissolved nutrients that are slowly released to the host tree ecosystem.
+The species contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest canopies. Epiphytic mats intercept atmospheric deposition and throughfall, trapping particulate matter and dissolved nutrients that are slowly released to the host tree ecosystem.
 
 It serves as a substrate for other bryophytes and lichens. Mature *H. cupressiforme* cushions frequently support colonies of liverworts and crustose lichens that establish on the moss surface.
 
@@ -78,9 +78,9 @@ The species was used in traditional Scandinavian and Scottish horticulture as a 
 
 In Japanese moss gardening (*kokedama* and moss lawns), *Hypnum* species are valued for their fine texture and adaptability. The species is frequently used in bonsai underplantings and terrarium displays for its feathery, delicate appearance.
 
-Modern applications include use as a bioindicator for air quality monitoring. The species' sensitivity and wide distribution make it a standard organism for biomonitoring heavy metal deposition and atmospheric pollution levels.
+Modern applications include use as a bioindicator for [[cervantes-air-quality-ventilation]] monitoring. The species' sensitivity and wide distribution make it a standard organism for biomonitoring [[dighton-fungal-biosorption-heavy-metal-remediation]] deposition and atmospheric pollution levels.
 
-In pharmaceutical research, *Hypnum* species have been investigated for bioactive secondary metabolites. Extracts have shown antimicrobial and antioxidant properties in laboratory studies, though clinical applications remain unexplored.
+In pharmaceutical research, *Hypnum* species have been investigated for bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]]. Extracts have shown antimicrobial and antioxidant properties in laboratory studies, though clinical applications remain unexplored.
 
 ## Cultivation and Conservation
 
@@ -90,12 +90,14 @@ For terrarium and bonsai cultivation, pre-collected mats can be pressed onto pre
 
 The species is not considered threatened globally due to its extreme abundance and wide distribution. However, local populations in heavily polluted urban areas have declined, reflecting broader trends in epiphytic bryophyte communities.
 
-Conservation priorities focus on maintaining mature forest stands with diverse bark substrates. Retention of dead wood and veteran trees provides critical epiphytic habitat for *H. cupressiforme* and associated bryophyte species.
+Conservation priorities focus on maintaining mature forest stands with diverse bark substrates. Retention of [[fungal-dead-wood-diversity]] and veteran trees provides critical epiphytic habitat for *H. cupressiforme* and associated bryophyte species.
 
 ## See Also
 
+- [[hypnum-lacunosum]]
+
 - [[sphagnum-cuspidatum]]
-- [[peltigera-apthosa]]
+- [[peltigera-aphthosa]]
 - [[sticta-sylvatica]]
 - [[nephroma-expansible]]
 - [[equisetum-hyemale]]

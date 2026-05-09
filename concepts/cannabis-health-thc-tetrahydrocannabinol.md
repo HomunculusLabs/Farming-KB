@@ -42,8 +42,8 @@ importance of the [[blesching-cannabis-cannabinoid-terpene-entourage-effect]] in
 The psychoactive effects of THC are dose-dependent. Effects may include
 euphoria, relaxation, altered perception of time, enhanced sensory
 experiences, increased appetite, and changes in mood and cognition.
-However, exceeding one's subjective therapeutic window can produce
-adverse effects including anxiety, paranoia, tachycardia, ataxia
+However, exceeding one's [[cannabis-subjective-therapeutic-window-dosing]] window can produce
+[[blesching-cannabis-safety-adverse-effects-evidence]] including anxiety, paranoia, tachycardia, ataxia
 (unsteady gait), aphasia (inability to speak clearly), unusual
 perceptions of all senses including hallucinations, slight increase in
 heart rate, subtle shifts in blood pressure, and panic upon first-ever
@@ -72,7 +72,7 @@ recorded 10,008 deaths in the same period.
 
 ## Strain Considerations
 
-Plant-based THC content varies by cannabis strain. Sativa strains tend
+Plant-based THC content varies by [[blesching-cannabis-strain-selection-receptor-targeting]]. Sativa strains tend
 to have higher THC-to-CBD ratios, producing more stimulating, energizing
 effects. Indica strains tend to have lower THC-to-CBD ratios, producing
 more sedating, relaxing effects. Patients with neurological or mental
@@ -83,7 +83,7 @@ CB2-deficient) may benefit from lower THC-to-CBD ratios.
 ## THC in Cancer Treatment
 
 The constituents of cannabis, particularly THC, have demonstrated
-remarkable abilities to produce apoptosis (cancer cell death) in a great
+remarkable abilities to produce apoptosis ([[blesching-cannabis-apoptosis-and-cancer-cell-death]] death) in a great
 variety of cancer manifestations. As early as 1974, research showed
 that the active chemical agent in marijuana curbed the growth of three
 kinds of cancer (lung, breast, and viral-induced leukemia) in mice.

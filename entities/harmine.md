@@ -22,7 +22,7 @@ sources:
 
 Harmine is a β-carboline alkaloid and reversible inhibitor of monoamine oxidase A
 (MAO-A). It is the principal psychoactive β-carboline in Banisteriopsis caapi, the
-primary botanical component of ayahuasca, and in Peganum harmala (Syrian rue).
+primary botanical component of ayahuasca, and in [[mckenna-food-gods-peganum-harmala-soma]] (Syrian rue).
 
 Harmine's significance lies primarily in its role as a monoamine oxidase inhibitor,
 which allows orally administered dimethyltryptamine (DMT) to become psychoactive by
@@ -37,7 +37,7 @@ It also has documented antidepressant, neuroprotective, and anti-cancer properti
 - **IUPAC name:** 7-Methoxy-1-methyl-9H-pyrido[3,4-b]indole
 - **Molecular formula:** C₁₃H₁₂N₂O
 - **Molecular weight:** 212.25 g/mol
-- **Chemical class:** β-Carboline (harmala alkaloid)
+- **Chemical class:** β-Carboline ([[mckenna-telepathine-harmala-alkaloid-discovery]])
 - **CAS number:** 442-51-3
 - **SMILES:** COc1cc2c(cc1)nc3c2n(cc3)C
 
@@ -61,7 +61,7 @@ Harmine is a competitive reversible inhibitor of MAO-A with IC₅₀ values of
 approximately 0.1–5 µM depending on assay conditions. This inhibition prevents
 the oxidative deamination of monoamine neurotransmitters and exogenous tryptamines.
 
-This inhibition is the pharmacological basis for ayahuasca's oral activity. DMT is
+This inhibition is the pharmacological basis for ayahuasca's [[tihkal-oral-activity-mao-inhibition]]. DMT is
 rapidly metabolized by MAO-A in the gut when ingested alone. Co-administration of
 harmine-containing plants allows DMT to reach systemic circulation.
 
@@ -99,12 +99,12 @@ nausea and vomiting are attributable primarily to the β-carboline alkaloids.
 ## Source Plants
 
 **Banisteriopsis caapi (Ayahuasca vine):** The traditional and primary source of
-harmine in Amazonian shamanism. B. caapi bark contains 0.1–0.6% harmine along
+harmine in [[mckenna-food-gods-amazonian-shamanism-ayahuasca]]. B. caapi bark contains 0.1–0.6% harmine along
 with harmaline and tetrahydroharmine. Different varieties ("colors") of caapi are
 recognized by indigenous practitioners based on their alkaloid profiles and
 subjective qualities.
 
-**Peganum harmala (Syrian rue):** Seeds contain 2–5% total harmala alkaloids,
+**Peganum harmala (Syrian rue):** Seeds contain 2–5% total [[turner-harmala-alkaloids-preparation-and-dosage]],
 primarily harmine and harmaline. Used as an ayahuasca analogue in the Middle East,
 Central Asia, and by modern psychonauts. More potent and less predictable than B.
 caapi due to higher alkaloid concentration and different ratios.
@@ -141,4 +141,4 @@ many countries. Religious use of ayahuasca is protected in Brazil and Peru.
 - [[amanita-muscaria-entity]]
 - [[ibogaine]]
 - myristicin
-- piper methysticum
+- [[plants-of-the-gods-piper-methysticum-kava]]

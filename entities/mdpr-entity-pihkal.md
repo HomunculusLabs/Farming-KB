@@ -1,5 +1,5 @@
 ---
-title: "MDPR (N-PROPYL-MDA; 3,4-METHYLENEDIOXY-N-PROPYLAMPHETAMINE) -- PIHKAL Entry #118"
+title: "MDPR (N-PROPYL-MDA; 3,4-METHYLENEDIOXY-N-PROPYLAMPHETAMINE) -- 2c-b-pihkal-entry-20 #118"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # MDPR
 
-PIHKAL entry #118. N-PROPYL-MDA; 3,4-METHYLENEDIOXY-N-PROPYLAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #118. N-PROPYL-MDA; 3,4-METHYLENEDIOXY-N-PROPYLAMPHETAMINE.
 
 ## Chemical Name
 
@@ -113,7 +113,7 @@ N.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

@@ -1,7 +1,7 @@
 ---
 source: mckenna_t-food_of_the_gods.md
 source_author: Terence McKenna
-title: War as Vector of Addiction
+title: mckenna war as vector of addiction of Addiction
 topic: psychedelics
 created: 2026-05-08
 ---
@@ -62,7 +62,7 @@ for twentieth-century government collusion in international drug trafficking.
 
 ## War, Intelligence, and the Modern Drug Trade
 
-McKenna extended the analysis to the twentieth century, noting that the pattern
+McKenna extended the analysis to the [[coleman-louis-savier-twentieth-century-maraicher]], noting that the pattern
 of government involvement in drug trafficking established during the Opium Wars
 had been repeated, "albeit with some new wrinkles, in Central Intelligence
 Agency collusion in the international heroin and cocaine trade of our own time."
@@ -87,7 +87,7 @@ filled by a more potent, more dangerous substitute.
 
 This pattern applies not only to opiates but to all drug classes. The
 suppression of psychedelics in the 1960s was followed by an explosion in
-cocaine and heroin use. The "war on drugs" has consistently produced more
+cocaine and heroin use. The "[[cervantes-war-on-drugs-statistics]]" has consistently produced more
 drugs, more potent drugs, and more destructive drugs — the opposite of its
 stated intent.
 
@@ -110,7 +110,7 @@ intoxication became an advertisement for intoxication.
 The war-drug vector suggests that drug addiction is not merely a personal or
 medical problem but a structural feature of modern civilization. As long as
 war and covert operations are instruments of state policy, drugs will continue
-to flow through the channels they create. The "drug war" is not a war against
+to flow through the channels they create. The "[[mckenna-drug-war-and-human-freedom]]" is not a war against
 drugs but a continuation of the same pattern by other means.
 
 ## See Also

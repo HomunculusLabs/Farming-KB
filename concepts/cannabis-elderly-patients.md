@@ -9,12 +9,12 @@ sources:
 ---
 # Cannabis for Elderly Patients
 
-The elderly population stands to benefit significantly from cannabis-based therapies, as many age-related conditions have shown responsiveness to cannabinoids. However, special considerations for dosing, drug interactions, and administration methods are essential for safe and effective use in older adults.
+The elderly population stands to benefit significantly from cannabis-based therapies, as many age-related conditions have shown responsiveness to cannabinoids. However, special considerations for dosing, [[cannabis-drug-interactions-and-contraindications]], and [[cannabis-administration-methods-comparison]] are essential for safe and effective use in older adults.
 
 ## Age-Related Conditions with Evidence for Cannabis Benefit
 
 ### Chronic Pain
-Pain is one of the most common complaints among elderly patients. The Cannabis Health Index provides strong evidence for cannabis in chronic pain management, including arthritis (the leading cause of disability in the U.S.), neuropathic pain, and fibromyalgia. Given that NSAIDs cause 41,000 hospitalizations and 3,300 deaths annually in older adults from ulcer complications alone, cannabis represents a potentially safer analgesic alternative.
+Pain is one of the most common complaints among elderly patients. The [[blesching-cannabis-health-index-autoimmune-conditions]] provides strong evidence for cannabis in chronic [[cannabis-pain-management-protocols]], including arthritis (the leading cause of disability in the U.S.), neuropathic pain, and fibromyalgia. Given that NSAIDs cause 41,000 hospitalizations and 3,300 deaths annually in older adults from ulcer complications alone, cannabis represents a potentially safer analgesic alternative.
 
 ### Neurodegenerative Diseases
 - **Alzheimer's disease**: CB2 agonists induced removal of beta-amyloid from human tissue; Nabilone dramatically reduced agitation and behavioral symptoms (CHI Value: 10)
@@ -54,7 +54,7 @@ Elderly patients should begin at half the standard starting dose due to:
 - Consider that peak effects may take longer to manifest
 
 ### The Therapeutic Window May Be Narrower
-The range between effective dose and dose producing adverse effects may be compressed in elderly patients. Close monitoring and careful journaling are especially important.
+The range between effective dose and dose producing [[blesching-cannabis-safety-adverse-effects-evidence]] may be compressed in elderly patients. Close monitoring and careful journaling are especially important.
 
 ## Polypharmacy Concerns
 
@@ -107,7 +107,7 @@ For elderly patients who cannot tolerate any psychoactive effects:
 - **CBD-only products**: Available as oils, capsules, and topicals
 - **Raw cannabis juice**: Non-psychoactive, high-CBD delivery
 - **Topical preparations**: Localized relief without systemic effects
-- **(E)-Beta-caryophyllene**: Dietary cannabinoid in common spices (black pepper, clove, cinnamon) that activates CB2 without psychoactivity
+- **(E)-Beta-caryophyllene**: Dietary cannabinoid in common spices ([[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], clove, cinnamon) that activates CB2 without psychoactivity
 
 ## Cognitive Considerations
 
@@ -126,5 +126,5 @@ See also: [[cannabis-drug-interactions-and-contraindications]], doi entity, [[ca
 
 ## Related
 
-- [[cannabis-beta-caryophyllene-dietary-cannabinoid]]
+- [[beta-caryophyllene-dietary-cannabinoid]]
 - [[cannabis-for-bone-cancer-pain]]

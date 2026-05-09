@@ -10,7 +10,7 @@ sources:
 # DOBU
 
 **Chemical name:** 2,5-Dimethoxy-4-(n)-butylamphetamine
-**PiHKAL entry:** #63
+**[[2c-b-pihkal-entry-20]]:** #63
 
 ## Overview
 
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

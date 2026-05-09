@@ -1,5 +1,5 @@
 ---
-title: "Gallery Forests and Valley Bottomland Systems"
+title: "mollison designers gallery forests and valley bottomland systems and Valley Bottomland Systems"
 created: 2026-04-26
 tags:
   - forest-ecology
@@ -37,7 +37,7 @@ populations.
 Tree roots along watercourses stabilise banks against
 erosion during flood events. The root networks bind soil
 particles and prevent the channel scour that would otherwise
-widen streams and destroy valley-bottom agricultural land.
+widen streams and destroy valley-bottom [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]].
 
 ### Water Quality Regulation
 Gallery forests filter runoff before it enters streams,
@@ -50,7 +50,7 @@ eutrophication downstream.
 The shade and wind reduction created by gallery forests
 moderate temperatures and reduce evaporation from adjacent
 water surfaces and croplands. This microclimate effect can
-extend the growing season and reduce water requirements for
+[[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season and reduce water requirements for
 nearby crops.
 
 ## Products and Services
@@ -75,7 +75,7 @@ combining:
 - Gallery forest along the watercourse
 - [[mollison-tropical-home-garden-design]]
   using the rich alluvial soils
-- [[mollison-grain-crops-and-no-tillage-systems]] on the most fertile soils
+- mollison-grain-crops-and-no-tillage-systems on the most fertile soils
 
 ### Buffer Zones
 Maintain buffer zones of natural or planted forest between

@@ -1,5 +1,5 @@
 ---
-title: Non-Sterilized Wheat Straw Oyster Mushroom Cultivation
+title: Non-Sterilized Wheat Straw Oyster accessible-mushroom-cultivation-for-disabilities
 tags: [oyster-mushroom, wheat-straw, substrate, pasteurization, lime, low-cost, cultivation, pleurotus]
 date: 2026-04-28
 updated: 2026-04-28
@@ -11,7 +11,7 @@ type: concept
 
 # Non-Sterilized Wheat Straw Oyster Mushroom Cultivation
 
-Traditional [[mushroom-spawn]] evenly across the substrate surface. Finally, spread yellow pulse powder uniformly over the spawned substrate as a nitrogen supplement.
+Traditional mushroom-spawn evenly across the substrate surface. Finally, spread yellow pulse powder uniformly over the spawned substrate as a nitrogen supplement.
 
 ### Step 6: Sealing
 
@@ -19,11 +19,11 @@ Cover all shelves tightly with a polythene sheet, ensuring no air can enter. Thi
 
 ### Step 7: Mycelial Colonization
 
-After 7 to 8 days, mycelium begins growing and spreading across the shelf surface. During mycelial growth, maintain room temperature at 10 to 15 degrees Celsius for optimal results. This temperature range provides the most favorable environmental conditions for colonization.
+After 7 to 8 days, mycelium begins growing and spreading across the shelf surface. During [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]], maintain room temperature at 10 to 15 degrees Celsius for optimal results. This [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] provides the most favorable environmental conditions for colonization.
 
 ### Step 8: Full Colonization
 
-Approximately 50 days after spawning, the entire shelf will be colonized with white mycelial growth. The original wheat straw mixture will no longer be visible. At this point, remove the polythene sheet to induce [[oyster-mushroom]] cultivation techniques including non pasteurized straw substrate methods, cold water lime pasteurization, and hydrated lime treatment of straw substrates. The principle of using alkaline conditions to suppress competing organisms while supporting Pleurotus mycelium underlies several low cost mushroom cultivation approaches developed for resource-limited growers.
+Approximately 50 days after spawning, the entire shelf will be colonized with white mycelial growth. The original wheat straw mixture will no longer be visible. At this point, remove the polythene sheet to induce [[oyster-mushroom]] cultivation techniques including non [[oyster-mushroom-pasteurized-straw-cultivation]] substrate methods, cold water lime pasteurization, and [[cervantes-hydrated-lime-quicklime-ph-adjustment]] treatment of straw substrates. The principle of using alkaline conditions to suppress competing organisms while supporting Pleurotus mycelium underlies several low [[low-cost-mushroom-growing-house-construction-developing-countries]] cultivation approaches developed for resource-limited growers.
 
 ## See Also
 
@@ -106,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

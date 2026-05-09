@@ -1,5 +1,5 @@
 ---
-title: Coconut Palm Polyculture Systems
+title: mollison coconut palm polyculture systems Polyculture Systems
 created: 2026-04-26
 tags: [coconut, palm, tropical, polyculture, permaculture]
 date: 2026-04-25
@@ -43,7 +43,7 @@ tumeric, and vines.
 ## Structure of Humid Tropical Polyculture
 
 Any humid tropical polyculture that duplicates or imitates the
-normal structure of a tropical forest is likely to succeed. The
+normal structure of a [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] is likely to succeed. The
 structure refers to the final cross-sectional appearance of any
 polyculture. Near large markets, it is feasible to introduce
 large tree species into the palm system, and to use the fruits
@@ -56,8 +56,8 @@ Proximity to village or settlement decides species complexity.
 Zoning out from settlement, one might place:
 
 - Productive trees in palms (total species: 8-12)
-- Palms within crop and avenue cropping (total: 30-35)
-- Animal forage and free range in palms (total: 8-20)
+- Palms within crop and [[mollison-avenue-cropping-with-legumes]] (total: 30-35)
+- [[permaculture-designers-manual-animal-forage-systems]] and free range in palms (total: 8-20)
 - Village garden and trellis, roof crop, greens (total: 100-150)
 - Fuel-wood in dwarf palm (total: 3-4)
 - Forest and tree reserves
@@ -84,14 +84,14 @@ be selected according to several criteria:
 
 As almost all coconuts must be seed-grown, variation in all crop
 characteristics can be expected, subject to later selection and
-culling. Even if grown from root tips in tissue culture, meristem
+culling. Even if grown from root tips in [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]], meristem
 and single-cell mutations are very high. In seed-grown crop,
 about one in twenty trees may show very different characteristics,
 and of these perhaps one-third will be favourable for site.
 
 This indicates a need for initial over-planting to allow for a
 2-4% cull within the first 7 years (when a fair estimate of
-vigour, nut production, bearing, and pest resistance can be made)
+vigour, nut production, bearing, and [[cannabis-disease-pest-resistance-breeding-clarke]] can be made)
 and another 2-4% cull in years 7-14, when the tree is mature.
 Culling and replanting in palm crop can be a continuous process.
 
@@ -114,5 +114,11 @@ for the padi crops.
 ## Integration with the Tropical Garden
 
 In the [[mollison-tree-crop-systems-permaculture]]
-- [[mollison-guild-design]]
-- [[mollison-plant-stacking-and-interaction]]
+- mollison-guild-design
+- mollison-plant-stacking-and-interaction
+## See Also
+- [[mollison-designers-coconut-palm-dominant-polyculture]]
+- [[bill-mollison]]
+- [[cocos-nucifera]]
+- [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]]
+- [[mollison-bamboo-permaculture-systems]]

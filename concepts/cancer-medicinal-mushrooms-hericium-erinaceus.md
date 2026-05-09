@@ -1,5 +1,5 @@
 ---
-title: Hericium Erinaceus Bioactive Compounds and Cancer Research
+title: Hericium Erinaceus query-what-are-the-main-bioactive-compounds-in-medicinal-plants and Cancer Research
 created: 2026-04-26
 tags: [medicinal-mushrooms, cancer-research, lion-mane, neuroprotective]
 date: 2026-04-25
@@ -14,7 +14,7 @@ type: concept
 Hericium erinaceus, commonly known as Lion's Mane or Yamabushitake in
 Japan, is an edible and medicinal mushroom that has attracted
 considerable research attention for its bioactive compounds. The species
-is recognised among the major medicinal mushrooms with antitumour
+is recognised among the major [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] with antitumour
 polysaccharides, though detailed clinical cancer studies remain limited
 compared to other well-studied species such as PSK, Lentinan and
 Maitake.
@@ -56,18 +56,18 @@ medicinal mushrooms with antitumour properties, alongside Lentinula
 (edodes), Auricularia, Grifola, Flammulina, Pleurotus and Tremella.
 The species is listed among the ten most important medicinal mushrooms
 in traditional Chinese medicine (alongside Auricularia auricula, Trametes
-versicolor, Flammulina velutipes, Ganoderma lucidum, Grifola frondosa,
+versicolor, Flammulina velutipes, [[stamets-reishi-ganoderma-lucidum-cultivation]], [[maitake-grifola-frondosa-comprehensive-profile]],
 Lentinus edodes, Schizophyllum commune, Tremella fuciformis and Poria
 cocos).
 
 ## Polysaccharide Content by Source
 
-Analysis of polysaccharide content across different cultivation methods
+Analysis of polysaccharide content across different [[synthetic-log-cultivation-methods-guide]]
 shows that H. erinaceus yields approximately 800 mg/g of polysaccharide
 from fruiting body material. Notably, no polysaccharides have been
 isolated from its submerged cultured mycelium or liquid cultured broth,
 suggesting that the fruit-body may be the preferred source for
-antitumour polysaccharide extraction.
+antitumour [[mushroom-polysaccharide-extraction-chemistry]].
 
 ## Historical Use in Traditional Medicine
 

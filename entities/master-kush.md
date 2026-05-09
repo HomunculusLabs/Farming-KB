@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-Master Kush is a classic indica-dominant cannabis strain renowned for its potent sedative effects, complex earthy-pungent aroma, and exceptional resin production. Originally bred in Amsterdam in the 1990s, it was developed from two distinct Hindu Kush landrace selections brought from the mountainous border region between Afghanistan and Pakistan.
+Master Kush is a classic indica-dominant [[blesching-cannabis-strain-selection-receptor-targeting]] renowned for its potent sedative effects, complex earthy-pungent aroma, and exceptional [[cannabis-glandular-trichome-types-resin-production-clarke]]. Originally bred in Amsterdam in the 1990s, it was developed from two distinct Hindu Kush landrace selections brought from the mountainous border region between Afghanistan and Pakistan.
 
 The strain won the High Times Cannabis Cup twice, taking first place in 1992 and again in 1993, cementing its reputation as one of the premier indica varieties of its era. Master Kush became a foundational breeding line that has influenced hundreds of subsequent cultivars, particularly in the "Kush" family of strains.
 
@@ -61,7 +61,7 @@ The aroma is classically "Kush" — a complex blend of damp earth, aged wood, an
 - **Duration:** 2–3 hours, with lingering body effects for an additional 1–2 hours
 - **Primary effects:** Deep physical relaxation, euphoria, cerebral calm, stress dissolution
 - **Body effects:** Heavy body stone, muscle tension relief, couch-lock at higher doses
-- **Medical applications:** Chronic pain, insomnia, anxiety, muscle spasms, PTSD-related sleep disturbance, appetite stimulation
+- **Medical applications:** [[cannabis-chronic-pain-management]], insomnia, anxiety, muscle spasms, PTSD-related sleep disturbance, appetite stimulation
 - **Side effects:** Dry mouth, dry eyes, dizziness at high doses, potential paranoia in anxiety-prone individuals, strong sedation
 
 The psychoactive profile is heavily body-dominant with a gentle cerebral uplift that transitions into a pervasive sense of physical calm. The strain is best suited for evening or nighttime use. At moderate doses it promotes relaxation without complete sedation; at higher doses it produces deep couch-lock and sleepiness.
@@ -77,7 +77,7 @@ The psychoactive profile is heavily body-dominant with a gentle cerebral uplift 
 - **Nutrient needs:** Moderate feeder; benefits from phosphorus and potassium supplementation during flowering
 - **Training:** Responds well to LST, ScrOG, and supercropping; naturally bushy structure benefits from early training
 
-Master Kush is considered an excellent strain for novice growers due to its hardy genetics, compact stature, and forgiving growth pattern. It performs well in both soil and hydroponic setups. The strain's indica heritage makes it well-suited to SOG (Sea of Green) cultivation methods.
+Master Kush is considered an excellent strain for novice growers due to its hardy genetics, compact stature, and forgiving growth pattern. It performs well in both soil and hydroponic setups. The strain's indica heritage makes it well-suited to SOG (Sea of Green) [[synthetic-log-cultivation-methods-guide]].
 
 ## Terpene Profile
 
@@ -100,9 +100,9 @@ Master Kush has been used extensively as a breeding parent, contributing its res
 
 ## Cultural Significance
 
-Master Kush emerged during the golden age of Amsterdam cannabis breeding in the early 1990s, a period when Dutch seed companies were refining landrace genetics into stabilized commercial varieties. Its back-to-back Cannabis Cup victories in 1992–1993 established it as a benchmark strain against which other indicas were measured.
+Master Kush emerged during the golden age of Amsterdam [[oner-cannabis-breeding-fundamentals]] in the early 1990s, a period when Dutch seed companies were refining landrace genetics into stabilized commercial varieties. Its back-to-back Cannabis Cup victories in 1992–1993 established it as a benchmark strain against which other indicas were measured.
 
-The strain represents a cultural bridge between traditional hashish-producing regions of Central Asia and Western cannabis culture. Its heavy resin production and indica profile are direct inheritances from centuries of selective breeding by Afghan and Pakistani farmers who cultivated cannabis for charas and hashish production in the Hindu Kush mountain range.
+The strain represents a cultural bridge between traditional hashish-producing regions of Central Asia and Western [[mckenna-cannabis-culture-history]]. Its heavy resin production and indica profile are direct inheritances from centuries of selective breeding by Afghan and Pakistani farmers who cultivated cannabis for charas and hashish production in the Hindu Kush mountain range.
 
 Master Kush's name reflects the breeder's intention to create a "master" expression of Kush genetics — distilling the essential characteristics of Hindu Kush landraces into a stable, high-performing cultivar. The strain remains popular among medical cannabis patients seeking reliable sedative effects and among breeders seeking authentic Kush foundation stock.
 

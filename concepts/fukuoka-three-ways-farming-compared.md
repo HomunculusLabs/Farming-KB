@@ -5,7 +5,8 @@ updated: 2026-04-21
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # The Three Ways of Farming Compared
@@ -14,7 +15,7 @@ From "The Natural Way of Farming: The Theory" by Masanobu Fukuoka.
 
 ## Mahayana Natural Farming
 
-When the human spirit and human life blend with the natural order and man devotes himself entirely to the service of nature, he lives freely as an integral part of the natural world, subsisting on its bounty without having to resort to purposeful effort. This type of farming transcends time and space and reaches the zenith of understanding and enlightenment.
+When the human spirit and human life blend with the natural order and man devotes himself entirely to the service of nature, he lives freely as an integral part of the natural world, subsisting on its bounty without having to resort to purposeful effort. This type of [[fukuoka-natural-farming-transcends-time-space]] time and space and reaches the zenith of understanding and enlightenment.
 
 The relationship between man and nature is like an ideal marriage in which the partners together realize a perfect life without asking for, giving, or receiving anything of each other. Mahayana farming is the very embodiment of life in accordance with nature.
 
@@ -26,7 +27,7 @@ Hinayana farming attempts to cast off human knowledge and action and devote itse
 
 ## Scientific Farming
 
-Man exists in a state of contradiction, basically estranged from nature, living in a totally artificial world, yet longing for a return to nature. Scientific farming forever wanders blindly, now calling upon the blessings of nature, now rejecting it in favor of human knowledge and action. It uses all possible means, increasing the number of swords.
+Man exists in a state of contradiction, basically estranged from nature, living in a totally artificial world, yet longing for a [[emcdda-return-to-nature-megatrend-mushroom-appeal]]. Scientific farming forever wanders blindly, now calling upon the blessings of nature, now rejecting it in favor of human knowledge and action. It uses all possible means, increasing the number of swords.
 
 ## Yield Comparison
 
@@ -53,8 +54,8 @@ The irregular shape of scientific farming represents the distortions and imperfe
 
 ## Practical Applications
 
-- Start with a small area and observe natural vegetation patterns before introducing any cultivation.
-- Use straw mulch and living ground covers (such as white clover) to suppress weeds and build soil organic matter.
+- Start with a small area and observe natural [[holmgren-vegetation-patterns-biomass-fertility]] before introducing any cultivation.
+- Use straw mulch and living ground covers (such as white clover) to suppress weeds and build soil [[hamilton-composting-and-organic-matter-management]].
 - Introduce seed balls in early spring or fall to establish crops without tilling the soil.
 - Allow beneficial weeds to grow alongside crops — they often serve important ecological functions.
 - Rotate between rice in summer and winter grains (barley, wheat) using the same flooded field without tilling.
@@ -69,10 +70,10 @@ The irregular shape of scientific farming represents the distortions and imperfe
 For further reading, consult Masanobu Fukuoka's 'The One-Straw Revolution' and 'The Natural Way of Farming'.
 The natural farming movement has inspired practitioners worldwide to reconsider the role of human intervention in food production.
 Key to success is abandoning the mindset that nature needs to be controlled and instead learning to cooperate with natural processes.
-Winter grain cultivation without tilling demonstrates how carefully timed seeding can work with seasonal cycles.
+Winter [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] without tilling demonstrates how carefully timed seeding can work with seasonal cycles.
 The relationship between soil microorganisms, plant roots, and organic matter is central to Fukuoka's method.
 Natural farming orchards use a layered approach: tall trees, understory fruit trees, shrubs, ground covers, and root crops.
-Fukuoka's methods have been adapted successfully in tropical, temperate, and arid climates around the world.
+Fukuoka's methods have been adapted successfully in tropical, temperate, and arid climates [[fungi-around-the-world-species-distribution]].
 ## Practical Considerations
 
 Successful implementation of Fukuoka Three Ways of Farming Compared requires attention to
@@ -91,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -3,20 +3,11 @@ title: Maitake Cultivation from Stamets
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [[mushroom-cultivation, species-guide, maitake, gourmet-mushrooms]
-sources: [raw/papers/the-mushroom-cultivator-stamets.md]
+tags: [mushroom-cultivation, species-guide, maitake, gourmet-mushrooms]
+sources: sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-
-# Maitake (Grifola frondosa) Cultivation from Stamets
-#mushroom-cultivation #medicinal-mushrooms #polypore-cultivation #outdoor-cultivation
-
-Updated: 2026-04-18
-
-Source: Paul Stamets, Growing Gourmet and Medicinal Mushrooms (1993), Maitake chapter and Ch. 5
-
-## Overview
-
-Maitake (Grifola frondosa), known as Hen of the Woods, is a premier medicinal and culinary mushroom. Native to eastern North America, Japan, and Europe, it grows at the base of oak trees and other hardwoods. Maitake has gained significant attention for anti-cancer properties, particularly its D-fraction beta-glucan. See also [[maitake-grifola-frondosa-comprehensive-profile]], [[maitake-d-fraction-research]].
+# Maitake (Grifola frondosa) Cultivation from Stamets #mushroom-cultivation #medicinal-mushrooms #polypore-cultivation #outdoor-cultivation Updated: 2026-04-18 Source: Paul Stamets, Growing Gourmet and Medicinal Mushrooms (1993), Maitake chapter and Ch. 5 ## Overview Maitake (Grifola frondosa), known as Hen of the Woods, is a premier medicinal and culinary mushroom. Native to eastern North America, Japan, and Europe, it grows at the base of oak trees and other hardwoods. Maitake has gained significant attention for anti-cancer properties, particularly its D-fraction beta-glucan. See also [[maitake-grifola-frondosa-comprehensive-profile]], [[maitake-d-fraction-research]].
 
 ## Natural Habitat
 
@@ -25,19 +16,19 @@ Maitake (Grifola frondosa), known as Hen of the Woods, is a premier medicinal an
 - Late summer to autumn fruiting
 - Forms large, overlapping clusters of brownish-gray fan-shaped caps
 - Can reach 20+ pounds in the wild
-- A brown rot fungus
+- A [[comparison-brown-rot-vs-white-rot-bioremediation]] fungus
 - Mycorrhizal association suspected but not confirmed
 
 ## Growth Parameters
 
-**Spawn Run:**
+**[[mushroom-spawn-run-thermogenesis-cotter]]:**
 - Temperature: 70-75F (21-24C)
 - Relative Humidity: 95-100%
 - Duration: 30-45 days
 - CO2: >5000 ppm
 - Light: Not needed
 
-**Primordia Formation:**
+**[[growing-gourmet-primordia-formation-pinning]]:**
 - Temperature: 55-65F (13-18C)
 - Relative Humidity: 95-100%
 - Duration: 7-14 days
@@ -66,10 +57,10 @@ Maitake (Grifola frondosa), known as Hen of the Woods, is a premier medicinal an
 
 ### Key Cultivation Notes
 - More challenging to cultivate indoors than Oyster or Shiitake
-- Requires careful temperature management for primordia initiation
+- Requires careful temperature management for [[chen-maitake-primordia-initiation-fruiting]]
 - The temperature drop from spawn run to primordia is critical
-- Maitake is one of the species recommended for Stage 3 of species sequencing (with 10% supplement added to spent substrate)
-- See [[stamets-reishi-ganoderma-lucidum-cultivation]] and Hypholoma capnoides in stump culture
+- Maitake is one of the species recommended for Stage 3 of species sequencing (with 10% supplement added to [[oyster-mushroom-spent-substrate-recycling]])
+- See [[stamets-reishi-ganoderma-lucidum-cultivation]] and [[growing-gourmet-hypholoma-capnoides-cultivation]] in stump culture
 - See [[oyster-mushroom-species-fruiting-parameters]]
 
 ## See Also
@@ -93,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

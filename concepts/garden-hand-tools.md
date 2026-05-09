@@ -1,5 +1,5 @@
 ---
-title: Garden Hand Tools
+title: Garden garden-hand-tools-solomon
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-The basic techniques of practical organic gardening draw from traditional methods. The spade has been with us since Roman times and remains the best tool for digging; the hoe has controlled weeds since cultivation began. Organic techniques should combine the best of modern technology with tried-and-tested traditional methods. Buy the best quality you can afford -- cheap tools do not last and make work harder. Buy slowly, one tool at a time if budget is tight. With spades and forks especially, do not buy tools that are too large for you.
+The basic techniques of practical [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] draw from traditional methods. The spade has been with us since Roman times and remains the best tool for digging; the hoe has controlled weeds since cultivation began. Organic techniques should combine the best of modern technology with tried-and-tested traditional methods. Buy the best quality you can afford -- cheap tools do not last and make work harder. Buy slowly, one tool at a time if budget is tight. With spades and forks especially, do not buy tools that are too large for you.
 
 ## Essential Large Tools
 
@@ -25,7 +25,7 @@ The most-used tool in the garden. Stainless steel is best -- soil falls off the 
 
 ### Rakes
 
-Forged steel rakes are best. Those with more than 12 teeth are difficult to use unless you are very strong. A spring-tine (lawn) rake is useful for removing dead thatch from lawns and raking in grass seed.
+Forged steel rakes are best. Those with more than 12 teeth are difficult to use unless you are very strong. A spring-tine (lawn) rake is useful for removing dead thatch from lawns and raking in [[disposable-tray-casing-method-grass-seed-substrate]].
 
 ### Hoes
 
@@ -74,7 +74,7 @@ Wooden spade-shaped scraper carried in pocket. Use regularly while digging to re
 
 ### Rotary Cultivator
 
-Invaluable for large gardens: creates fine seedbeds quickly and incorporates [[green-manure-crops]], compost, and organic matter into soil. However, hand dig at least part of the garden annually -- constant rotary cultivating can create an impermeable "glazed" layer. Most cultivate to 6-9in depth.
+Invaluable for large gardens: creates fine seedbeds quickly and incorporates [[green-manure-crops]], compost, and [[hamilton-composting-and-organic-matter-management]] into soil. However, hand dig at least part of the garden annually -- constant rotary cultivating can create an impermeable "glazed" layer. Most cultivate to 6-9in depth.
 
 ### String Trimmer
 

@@ -16,20 +16,20 @@ sources:
 # Mycena cyanorrhiza
 **Mycena cyanorrhiza** is a small, distinctive mushroom in the family
 Mycenaceae confirmed to contain [[psilocin]]. It is
-notable among the genus Mycena for its pronounced bluing reaction when
+notable among the genus Mycena for its pronounced [[field-guide-psilocybin-bluing-reaction-identification]] when
 bruised, making it one of the more easily recognized psychoactive members of
-this large and diverse genus. The species was first described from North America
+this large and diverse genus. The species was first described from [[psilocybin-north-america-pacific-northwest]]
 and has since been documented in other temperate regions, representing one of
-the more accessible examples of psilocybin production outside the traditional
+the more accessible examples of [[gottlieb-psilocybin-production-extraction-methods]] outside the traditional
 psychoactive genera.
 ## Taxonomy and Classification
 Mycena cyanorrhiza is classified in the order Agaricales, family
 Mycenaceae, genus Mycena. The genus contains over 500 described species
 and is one of the most species-rich genera of agaricoid fungi, found in
 virtually every terrestrial habitat worldwide. Most Mycena species are small,
-saprotrophic mushrooms that decompose leaf litter, wood, or other plant debris.
+saprotrophic mushrooms that decompose [[dighton-fungal-decomposition-leaf-litter-dynamics]], wood, or other plant debris.
 The discovery of psilocybin in certain Mycena species was significant
-because it expanded the known taxonomic distribution of psychoactive fungi
+because it expanded the known taxonomic distribution of [[cattle-dispersal-psychoactive-fungi-australia]]
 beyond Psilocybe, Panaeolus, Gymnopilus, Conocybe, Pluteus,
 and Inocybe.
 The phylogenetic implications are particularly interesting because Mycena is

@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-A fundamental question in compost tea production is whether thermal (heat-based) compost or worm compost (vermicompost) produces superior results. Dr. Elaine Ingham's research demonstrates that both methods can produce equally excellent compost for tea brewing, but each has distinct characteristics that affect their suitability for different applications.
+A fundamental question in compost tea production is whether thermal (heat-based) compost or worm compost (vermicompost) produces superior results. Dr. [[elaine-ingham]]'s research demonstrates that both methods can produce equally excellent compost for tea brewing, but each has distinct characteristics that affect their suitability for different applications.
 
 ## Equally Valid, Not Inherently Superior
 
@@ -23,7 +23,7 @@ Ingham states explicitly that one composting process is not inherently better th
 - Adequate fungal biomass (150 to 500 or more micrograms per gram dry weight for fungal compost)
 - Active organism populations within desired ranges
 - Sufficient protozoa (50,000 or more per gram)
-- Beneficial nematodes (20 to 100 per gram)
+- [[ingham-beneficial-nematodes-soil-food-web]] (20 to 100 per gram)
 - Absence of root-feeding nematodes and human pathogens
 
 Either process can produce fungal-dominant or bacterial-dominant compost depending on starting materials and management. Either can become anaerobic if poorly managed. The quality of the final product depends on process control, not on the method chosen.
@@ -91,15 +91,15 @@ For compost to produce quality compost tea, it must contain adequate populations
 
 ### Cedar Grove Products Warning
 
-Ingham explicitly warns against using Cedar Grove compost products, stating they "do not make compost." The implication is that their product lacks the biological diversity and organism levels required for effective compost tea production.
+Ingham explicitly warns against using Cedar Grove compost products, stating they "do not make compost." The implication is that their product lacks the [[fungi-convention-on-biological-diversity]] and organism levels required for effective compost tea production.
 
 ### Mushroom Compost Limitations
 
-Mushroom compost can be problematic because it is high in peat, sometimes high in sawdust, potentially high in salts, and may contain antibiotics. It is dominated by *Agaricus* hyphae, which represents a narrow fungal diversity. Mushroom compost has a very wide carbon-to-nitrogen ratio and serves as food for a limited number of fungi, not necessarily the beneficial species needed for disease suppression. It can also immobilize nitrogen, causing plant stunting or death from nitrogen, sulfur, and phosphorus deficiency if not properly amended.
+Mushroom compost can be problematic because it is high in peat, sometimes high in sawdust, potentially high in salts, and may contain antibiotics. It is dominated by *Agaricus* hyphae, which represents a narrow fungal diversity. Mushroom compost has a very wide carbon-to-nitrogen ratio and serves as food for a limited number of fungi, not necessarily the beneficial species needed for [[aact-disease-suppression-mechanisms-ingham]]. It can also immobilize nitrogen, causing plant stunting or death from nitrogen, sulfur, and [[query-how-to-fix-phosphorus-deficiency-in-cannabis]] if not properly amended.
 
 ### Micronized Compost
 
-Micronized (finely ground) compost suffers severe organism damage. Protozoa and nematodes are lost completely. Total fungi are reduced to less than 1 microgram per gram. Total bacteria drop to 1 to 5 micrograms per gram. Activity is lost entirely. A potential remedy is to spray micronized compost with actively aerated compost tea to re-inoculate the material with living organisms.
+Micronized (finely ground) compost suffers severe organism damage. [[teaming-with-microbes-protozoa-and-nematodes]] are lost completely. Total fungi are reduced to less than 1 microgram per gram. Total bacteria drop to 1 to 5 micrograms per gram. Activity is lost entirely. A potential remedy is to spray micronized compost with actively aerated compost tea to re-inoculate the material with living organisms.
 
 ## Mineral Retention and Compost Biology
 

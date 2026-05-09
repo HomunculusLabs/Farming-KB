@@ -1,5 +1,5 @@
 ---
-title: Permaculture Edible Perennials and Food Forest Understory
+title: Permaculture permaculture plants edible perennials understory and Food Forest Understory
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,7 +10,7 @@ tags: [culture, permaculture, plants]
 
 # Permaculture Edible Perennials and Food Forest Understory
 
-The food forest understory layer contains shrubs, herbaceous perennials, and ground covers that produce food, provide habitat for beneficial organisms, cycle nutrients, and create the layered ecosystem structure that characterises mature food forests. This page covers the edible perennial species and understory strategies from the source.
+The food forest understory layer contains shrubs, herbaceous perennials, and ground covers that produce food, provide [[query-how-do-i-design-habitat-for-beneficial-insects]] organisms, cycle nutrients, and create the layered ecosystem structure that characterises mature food forests. This page covers the edible perennial species and understory strategies from the source.
 
 ## Understory Fruit Shrubs
 
@@ -30,7 +30,7 @@ Evergreen slender tree to 10.5 m from coastal southern Brazil. Withstands -3C. V
 Compact evergreen shrub 3-6 m from Brazilian lowlands. Fruit small (~2 cm), deep wine-red with strawberry-like texture and flavour. Hardier than common guava (to -5C). Also yellow variety available (larger, 3 cm, creamier flavour).
 
 ### Ugni (Ugni molinae, syn. Myrtus ugni)
-Also called Chilean guava, myrtle berry. Slow-growing evergreen shrub to 2 m, native to Chile. Drought tolerant and withstands some frost. In mountainous forest clearings but also grown as ornamental and fruiting hedge. Branches hang down and take root -- easy propagation.
+Also called Chilean guava, myrtle berry. Slow-growing evergreen shrub to 2 m, native to Chile. [[permplant-carob-drought-tolerant-food-tree]] and withstands some frost. In mountainous forest clearings but also grown as ornamental and fruiting hedge. Branches hang down and take root -- easy propagation.
 
 ## Understory Herbaceous Perennials
 
@@ -89,7 +89,7 @@ Deciduous tree to 18 m. The swollen fruit stem is edible (tastes like raisins). 
 
 ## Pawpaw (Asimina triloba) -- Native Understory Tree
 
-Deciduous shrub or low tree native to North America, growing up to 12 m. Occurs naturally as thicket understorey in open woodland -- an ideal natural understory species. Prefers well-drained, fertile soil rich in organic matter. Tolerates snow conditions. Can sucker out to about a quarter acre in ideal conditions.
+Deciduous shrub or low tree native to [[psilocybin-north-america-pacific-northwest]], growing up to 12 m. Occurs naturally as thicket understorey in open woodland -- an ideal natural understory species. Prefers well-drained, fertile soil rich in organic matter. Tolerates snow conditions. Can sucker out to about a quarter acre in ideal conditions.
 
 The largest native fruit of North America (up to 300g), with banana custard flavour. Yellow fruiting varieties superior to white. Nutritionally: carbohydrate 16.8%, protein 5.2%, fat 0.9%. The inner bark was stripped and made into string for fishing nets, lines, and rope.
 
@@ -107,8 +107,8 @@ The following can be introduced to pasture to increase both honey production and
 
 - **Vertical stacking**: Combine canopy trees (walnut, chestnut) with understory shrubs (feijoa, guava) and ground covers (strawberry, herbs)
 - **Succession planning**: Use fast-bearing shrubs and perennials while canopy trees mature
-- **Self-harvesting systems**: Design understory plants that animals can harvest themselves (poultry forage species)
-- **Nutrient cycling**: Place deep-rooted perennials (chicory, comfrey, dock) between productive plants to mine and cycle nutrients
+- **Self-harvesting systems**: Design understory plants that animals can harvest themselves ([[free-range-poultry-forage-design-mollison]] species)
+- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]**: Place deep-rooted perennials (chicory, comfrey, dock) between productive plants to mine and cycle nutrients
 - **Extended harvest**: Select species fruiting in different seasons for year-round food availability
 - **Allelopathy awareness**: Walnut produces juglone that inhibits many plants -- choose compatible understory species
 

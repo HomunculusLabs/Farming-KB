@@ -5,14 +5,15 @@ updated: 2026-04-24
 type: concept
 tags: [farming, philosophy, one-straw-revolution, fukuoka, natural-farming]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka's One-Straw Revolution Continuation
-[[natural-farming-fukuoka]]'s mature continuation of the philosophy first articulated in [[fukuoka-five-principles-natural-farming]]. Written nearly a decade later, after his world travels, the book deepens, extends, and in some ways corrects the earlier work. It shows how Fukuoka's thinking evolved from a Japanese farming method into a global ecological and spiritual philosophy.
+[[natural-farming-fukuoka]]'s mature continuation of the philosophy first articulated in fukuoka-five-principles-natural-farming. Written nearly a decade later, after his world travels, the book deepens, extends, and in some ways corrects the earlier work. It shows how Fukuoka's thinking evolved from a Japanese farming method into a global ecological and [[fukuoka-spiritual-philosophy-farming]].
 ## From Farm to World
 Drawing on [[fukuoka-natural-farming-method]] he developed informs the global perspective here. The One-Straw Revolution (1975) was primarily about farming in Japan — about growing rice and barley without plowing, chemicals, or compost. The Road Back to Nature expands this radically. Fukuoka traveled to America, Europe, and Africa, applying his methods to deserts, orchards, and refugee camps. The book's scope encompasses not just agriculture but diet, education, spirituality, war and peace, biotechnology, and the future of civilization.
 During his travels, Fukuoka visited the United States, where he observed
-American agriculture's dependence on chemical inputs and mechanization with
+[[fukuoka-american-agriculture-fields-of-death]]'s dependence on chemical inputs and mechanization with
 alarm. He spent time at the Zen Center near San Francisco, where students
 were already practicing his methods after reading The One-Straw Revolution.
 In Europe, he traveled through Germany, Switzerland, and other countries,
@@ -22,13 +23,13 @@ Western agricultural "aid" programs were destroying traditional farming
 systems that had sustained communities for generations. He attempted to
 demonstrate natural farming methods in desertified areas of Somalia and
 other regions, using [[fukuoka-road-back-desert-reclamation]].
-These experiences convinced him that the principles of natural farming were
+These experiences convinced him that the [[four-principles-of-natural-farming]] farming were
 universal and not limited to the temperate rice-growing regions of Japan.
 The book documents both the successes and frustrations of these
 international efforts, providing a candid assessment of what worked and
 what did not in different cultural and ecological contexts.
 ## The Reception Worldwide
-The global reception of [[masanobu-fukuoka]] as a leading voice in [[fukuoka-natural-farming-vs-organic-farming]]. Fukuoka notes that "advances from organic gardening to natural farming are likely to continue to be made by people with an affinity toward natural methods," but warns that "most people do not yet understand the distinction between organic gardening and natural farming. Both scientific agriculture and organic farming are basically scientific in their approach."
+The global reception of [[masanobu-fukuoka]] as a leading voice in [[fukuoka-natural-farming-vs-organic-farming]]. Fukuoka notes that "advances from organic gardening to natural farming are likely to continue to be made by people with an affinity toward natural methods," but warns that "most people do not yet understand the distinction between organic gardening and natural farming. Both [[fukuoka-critique-scientific-agriculture-civilization]] and organic farming are basically scientific in their approach."
 ## The Critique of Science Matured
 Where The One-Straw Revolution questioned agricultural science, The Road Back to Nature mounts a comprehensive critique of reductionism, Darwinism, biotechnology, and the entire scientific worldview. [[fukuoka-road-back-to-nature-overview]] — the continuation book itself
 - [[fukuoka-road-critique-of-modern-science]] — the deepened critique
@@ -46,7 +47,7 @@ terms of farming and nature rather than religious language. His critique of
 reductionist science anticipates arguments later developed by thinkers like
 Fritjof Capra and Arne Naess, though Fukuoka's version is grounded in
 concrete agricultural experience rather than theoretical physics or
-ecology. His distinction between "discriminating knowledge" (bunkenchi)
+ecology. His distinction between "[[non-discriminating-knowledge-and-critique-of-scientific-reductionism]]" (bunkenchi)
 and "non-discriminating knowledge" (mubunkenchi) provides the
 epistemological foundation for his entire philosophy: the former divides
 the world into subject and object, self and nature, while the latter
@@ -71,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

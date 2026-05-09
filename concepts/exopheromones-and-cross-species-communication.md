@@ -19,7 +19,7 @@ type: concept
 # Exopheromones and Cross-Species Communication
 
 The concept of exopheromones represents a radical departure from
-conventional understanding of chemical signaling in nature. Unlike
+conventional understanding of [[plant-hormones-and-chemical-signaling-systems]] in nature. Unlike
 ordinary pheromones, which act among members of a single species,
 exopheromones are chemical messengers that operate across species lines,
 allowing individuals of one species to influence members of an entirely
@@ -31,7 +31,7 @@ natural world.
 ## Alkaloids as Dynamic Metabolites
 
 Alkaloids, including all the major hallucinogens, have traditionally been
-regarded as secondary metabolites, incidental by-products of plant
+regarded as [[antifungal-secondary-metabolites-coprophilous-fungi]], incidental by-products of plant
 metabolism. McKenna challenged this view, arguing that the evidence
 suggests otherwise. Alkaloids are formed in the greatest amounts in
 tissues that are most active in overall metabolism. They are not inert
@@ -48,7 +48,7 @@ psychoactive compounds may serve critical ecological functions.
 
 The notion of nature as an organismic and planetary whole that mediates
 and controls its own development through the release of chemical
-messages challenges the classical Darwinian view of nature as endless
+messages challenges the classical Darwinian [[fukuoka-view-of-nature-and-human-hubris]] as endless
 warfare among competing species. Most evolutionary biologists have long
 held this classical view to be incomplete. Nature is increasingly
 understood as an endless dance of diplomacy, and diplomacy is largely a
@@ -110,10 +110,10 @@ evolutionary strategy rather than a series of independent accidents.
 The idea that secondary compounds in plants are not truly secondary but
 serve essential communicative and regulatory functions aligns with
 emerging understanding of chemical ecology. Plants produce an enormous
-diversity of bioactive compounds that influence the behavior,
+diversity of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] that influence the behavior,
 reproduction, and survival of other organisms in their environment. The
 hallucinogenic alkaloids may represent the most dramatic examples of
-this cross-species chemical communication.
+this cross-species [[bloomfield-siren-songs-fungal-chemical-communication-reproduction-chapter-7]].
 
 ## Implications for Human-Plant Relationships
 

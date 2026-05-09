@@ -5,7 +5,7 @@ tags: [query, humanure, composting, sanitation, permaculture, waste-recycling]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
+  sources: []
 type: query
 ---
 
@@ -17,17 +17,17 @@ Humanure is human waste that has been composted through a thermophilic process t
 When properly managed, humanure composting eliminates pathogens and produces a material that is safe for garden use.
 The [[humanure-composting-systems]] page covers the engineering of composting toilet systems for pathogen destruction.
 Temperatures above 122 degrees Fahrenheit for at least 24 hours are generally sufficient to kill most human pathogens.
-A well-managed humanure compost pile will reach temperatures of 120 to 160 degrees Fahrenheit during active decomposition.
-The [[permaculture-designers-manual-composting-toilet-design]] page covers thermophilic composting toilet design principles.
+A well-managed humanure [[mushroom-cultivator-compost-pile-management]] will reach temperatures of 120 to 160 degrees Fahrenheit during active decomposition.
+The permaculture-designers-manual-composting-toilet-design page covers thermophilic composting toilet [[holmgren-permaculture-twelve-design-principles-framework]].
 Composting transforms human waste from a hazardous pollutant into a valuable resource that builds soil fertility.
 
 ## Composting Toilet Systems
 
-Composting toilets are the primary technology for collecting and processing humanure safely.
+[[comparison-composting-toilets-vs-greywater-systems-detailed]] are the primary technology for collecting and processing humanure safely.
 The [[composting-toilets]] resource covers different types including self-contained, centralized, and urine-diverting models.
 Simple DIY systems can be built from five-gallon buckets with tight-fitting lids and sawdust cover material.
 These bucket systems cost under twenty dollars to build and work well for individual households or small families.
-The [[faires-composting-toilets-and-humanure]] page covers composting toilet options for homesteads and off-grid properties.
+The faires-composting-toilets-and-humanure page covers composting toilet options for homesteads and off-grid properties.
 
 ## The Humanure Process
 
@@ -38,7 +38,7 @@ The [[mollison-designers-compost-toilet-humanure-systems]] resource covers manag
 Finished humanure compost looks and smells like rich garden soil with no resemblance to the original waste material.
 A proper curing period ensures that even the most resistant pathogens and parasite eggs are completely destroyed.
 The entire process is aerobic, meaning it relies on oxygen-loving organisms and produces no methane or foul odors.
-This is in stark contrast to anaerobic sewage treatment which produces methane, a potent greenhouse gas.
+This is in stark contrast to anaerobic sewage treatment which produces methane, a potent [[dighton-fungal-greenhouse-gas-nitrogen-saturation]].
 
 ## Safety Considerations and Best Practices
 
@@ -47,7 +47,7 @@ The [[humanure-composting]] resource emphasizes the importance of adequate carbo
 Compost should be turned regularly to maintain aerobic conditions and distribute heat evenly throughout the pile.
 Monitoring pile temperature with a compost thermometer confirms that pathogen-killing temperatures are achieved.
 A long-stemmed compost thermometer is an essential tool for any humanure composting system.
-The [[permaculture-designers-manual-composting-toilet-design]] page covers the ecological rationale for humanure recycling.
+The permaculture-designers-manual-composting-toilet-design page covers the ecological rationale for [[solomon-humanure-recycling-and-composting]].
 Composting toilets use no water, saving thousands of gallons per household per year compared to flush toilets.
 The average flush toilet uses over five thousand gallons of clean water per person per year to transport waste.
 Humanure composting closes the nutrient loop by returning the fertility in human waste back to the soil.
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

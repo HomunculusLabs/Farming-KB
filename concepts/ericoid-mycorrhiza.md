@@ -31,7 +31,7 @@ Hartig net.
 
 The arbutoid mycorrhizae, which share some characteristics with ericoid
 types, can be distinguished by the presence of a dolipore septum in their
-internal hyphae, a feature absent in ericoid mycorrhizal fungi.
+internal hyphae, a feature absent in [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] fungi.
 
 ## Structural Organization
 
@@ -39,7 +39,7 @@ Infection of each cortical cell takes place from the outer cortical wall;
 lateral spread from cell to cell does not occur. The fungal hyphae enter
 epidermal or cortical cells and form dense intracellular coils that
 completely fill the cell lumen. These coils represent the primary interface
-for nutrient exchange between the fungal and plant partners.
+for [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between the fungal and plant partners.
 
 Infected cells appear to be fully packed with fungal hyphae. The fungal
 wall is typically thin at the interface with the plant cytoplasm,
@@ -66,8 +66,8 @@ ecosystems.
 ## Nutrient Acquisition in Acidic Soils
 
 Ericoid mycorrhizal associations are particularly adapted to acidic,
-organic soils with low nutrient availability. The fungi play a crucial role
-in nitrogen mineralization, breaking down complex organic nitrogen compounds
+organic soils with low [[ph-and-nutrient-availability-garden-soils]]. The fungi play a crucial role
+in [[fungal-nitrogen-mineralization-pathways]], breaking down complex organic nitrogen compounds
 in soil organic matter and making nitrogen available to the host plant. This
 capability is essential in heathland soils where most nitrogen is bound in
 recalcitrant organic forms such as polyphenols and lignin-derived compounds.
@@ -113,8 +113,8 @@ symbionts and decomposers.
 In ecosystems dominated by Ericaceae, ericoid mycorrhizal fungi are major
 contributors to nitrogen cycling. They mineralize organic nitrogen and
 transfer it to host plants, influencing the overall nitrogen budget of the
-ecosystem. The efficiency of this nitrogen transfer can affect plant
-community composition and ecosystem productivity.
+ecosystem. The efficiency of this [[symbiotic-fungi-mycorrhizal-nitrogen-transfer-networks]] can affect plant
+[[core-endorhiza-bacterial-community-composition-cannabis]] and ecosystem productivity.
 
 Ericoid mycorrhizal associations also influence competition between plant
 species. Ericaceous plants with effective mycorrhizal partners can outcompete
@@ -139,7 +139,10 @@ and organic matter decomposition enzymes provides insights into how these
 fungi function in their challenging soil environments.
 ## See Also
 
-- [[mycorrhizal-symbiosis]]
+- mycorrhizal-symbiosis
 - [[ectomycorrhizal-associations]]
 - [[mycorrhiza-nutrient-exchange]]
-- [[arctostaphylos-uva-ursi]]
+- arctostaphylos-uva-ursi
+- [[decomposition]]
+- [[ectomycorrhiza]]
+- [[arbutoid-mycorrhiza]]

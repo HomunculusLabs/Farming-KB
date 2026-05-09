@@ -11,7 +11,7 @@ sources:
 
 Updated: 2026-04-18
 
-Fungal dominant compost tea is an actively aerated compost tea (AACT) formulation that promotes high fungal biomass. It is essential for perennial plant systems, disease suppression against mildew and other fungal pathogens, and building soil structure in mature ecosystems.
+Fungal dominant compost tea is an actively [[actively-aerated-compost-tea]] tea (AACT) formulation that promotes high fungal biomass. It is essential for perennial plant systems, [[aact-disease-suppression-mechanisms-ingham]] against mildew and other fungal pathogens, and building soil structure in mature ecosystems.
 
 ## When to Use Fungal Tea
 
@@ -20,16 +20,16 @@ Fungal dominant tea is appropriate when:
 - Managing fungal diseases such as mildew, botrytis, and fusarium
 - Growing perennial plants, trees, shrubs, and vines (which prefer fungal soils)
 - Building soil structure in perennial systems (fungal hyphae bind soil aggregates)
-- Transitioning from bacterial to fungal soil dominance for succession
+- Transitioning from [[ingham-bacterial-to-fungal-succession-soil-food-web]] soil dominance for succession
 - Decomposing thatch in turf systems
-- Inoculating with mycorrhizal fungal partners
+- Inoculating with [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] partners
 - Managing root-feeding pests (certain fungi are predators of root-feeding nematodes)
 
 ## Core Recipe
 
 The fungal dominant AACT recipe differs from bacterial tea primarily in food selection:
 
-Compost base: Use compost known to contain high fungal biomass. Thermal compost with woody materials and worm compost that includes woody debris are good sources. The compost must contain adequate fungi to extract -- test with SFI if possible. Use approximately 1 pound of compost per 5 gallons of water.
+Compost base: Use compost known to contain high fungal biomass. [[ingham-thermal-compost-versus-worm-compost]] with woody materials and worm compost that includes woody debris are good sources. The compost must contain adequate fungi to extract -- test with SFI if possible. Use approximately 1 pound of compost per 5 gallons of water.
 
 Foods for fungi:
 - Humic acid: 1-4 tablespoons per 5 gallons (the primary fungal food)
@@ -66,7 +66,7 @@ This step is particularly important when the starting compost has low fungal bio
 2. Add pre-activated compost (or regular compost) to the brewer basket
 3. Add fungal foods to the water
 4. Brew for 24-48 hours (fungal tea may benefit from longer brewing than bacterial tea)
-5. Maintain dissolved oxygen above 6 ppm throughout
+5. Maintain [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] above 6 ppm throughout
 6. The tea should smell earthy, like forest floor -- never sour or putrid
 7. Apply immediately
 
@@ -97,7 +97,7 @@ Not all machines extract fungi adequately. Machines must maintain aeration and h
 ## See Also
 
 - [[aact-bacterial-dominant-tea]]
-- [[mycorrhizal-inoculation-techniques]]
+- mycorrhizal-inoculation-techniques
 - [[bacterial-vs-fungal-compost-teas]]
 - [[fungal-succession-woody-debris-ecology]]
 - [[building-soil]]

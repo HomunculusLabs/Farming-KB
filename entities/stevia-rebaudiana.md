@@ -35,7 +35,7 @@ steviol glycosides — intensely sweet compounds found in its leaves that are
 200–300 times sweeter than sucrose with negligible caloric content.
 
 The plant has been used for centuries by the Guaraní peoples of South America,
-who called it *ka'a he'ẽ* ("sweet herb") and used it to sweeten yerba mate
+who called it *ka'a he'ẽ* ("sweet herb") and used it to sweeten [[comparison-caffeine-plants-yerba-mate-vs-guayusa-vs-yaupon-vs-tea]]
 and other beverages. Today, stevia extracts are among the most commercially
 significant natural sweeteners worldwide, approved for food use in over 150
 countries.
@@ -62,7 +62,7 @@ departments) and the adjacent border regions of Brazil, at elevations of
 good drainage and thrives in subtropical climates with moderate rainfall.
 
 Commercial cultivation now spans China (the world's largest producer), Japan,
-South Korea, Brazil, Paraguay, India, Kenya, and the United States. China
+South Korea, Brazil, Paraguay, India, Kenya, and the [[dmt-containing-plants-united-states-halpern]]. China
 accounts for roughly 80% of global stevia leaf production.
 
 ## Bioactive Compounds
@@ -96,7 +96,7 @@ Clinical evidence supports several health-relevant activities:
 - **Anti-hyperglycemic** — enhances insulin secretion and sensitivity via
   transient receptor potential channels; reduces postprandial glucose.
 - **Anti-hypertensive** — stevioside demonstrated blood pressure reduction
-  in multiple clinical trials, particularly at doses of 750–1500 mg/day.
+  in multiple [[mushroom-cancer-clinical-trials-overview]], particularly at doses of 750–1500 mg/day.
 - **Anti-inflammatory** — steviol and its glycosides inhibit NF-κB
   activation and reduce pro-inflammatory cytokine production.
 - **Anti-oxidant** — leaf extracts show DPPH and ABTS radical scavenging
@@ -107,7 +107,7 @@ acceptable daily intake of 4 mg steviol equivalents per kg body weight.
 
 ## Cultivation
 
-Stevia is propagated by seed, stem cuttings, or tissue culture. Seed-grown
+Stevia is propagated by seed, stem cuttings, or [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]. Seed-grown
 plants show high genetic variability, so commercial production favors clonal
 propagation via cuttings for glycoside profile consistency.
 
@@ -131,12 +131,12 @@ names include Truvia, Pure Via, and SweetLeaf. The global stevia market
 exceeded $700 million USD in 2024.
 
 In traditional medicine, the leaves have been used for diabetes, obesity,
-hypertension, heartburn, and as a contraceptive in some South American
+hypertension, heartburn, and as a contraceptive in some [[chiric-caspi-brunfelsia-south-american-hallucinogen]]
 communities.
 
 ## See Also
 
 - [[glycyrrhiza-glabra]] — another natural sweetener with pharmacological activity
-- [[matricaria-chamomilla]] — chamomile, Asteraceae medicinal herb
+- [[matricaria-chamomilla]] — chamomile, Asteraceae [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]]
 - steviol glycosides — detailed chemistry of stevia's sweet compounds
 - [[ginger-growing-guide]] — rhizomatous spice with anti-inflammatory properties

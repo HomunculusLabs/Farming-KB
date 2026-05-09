@@ -1,5 +1,5 @@
 ---
-title: "How does one-carbon metabolism affect methylation?"
+title: "How does one-carbon query how does one carbon metabolism affect methylation methylation?"
 aliases: [how one-carbon metabolism affects methylation, folate methionine cycle methylation, methyl donors and one carbon metabolism]
 tags: [query, biochemistry, metabolism, epigenetics, nutrition]
 created: 2026-05-02
@@ -14,15 +14,15 @@ One-carbon metabolism affects methylation by controlling the supply and recyclin
 It also controls the removal of S-adenosylhomocysteine, a product that can inhibit methyltransferase enzymes when it accumulates.
 The folate cycle, vitamin B12-dependent methionine synthase, choline-derived betaine pathway, and transsulfuration pathway all influence this methylation balance.
 However, methylation is not determined by nutrient supply alone.
-Enzyme activity, cell type, chromatin state, development, inflammation, oxidative stress, and compartmentation all shape the final outcome.
+Enzyme activity, cell type, chromatin state, development, inflammation, [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], and compartmentation all shape the final outcome.
 
 ## What is being methylated?
 
 Methylation means adding a one-carbon methyl group to another molecule.
 Cells methylate DNA, RNA, histones, phospholipids, neurotransmitter-related compounds, creatine precursors, hormones, and xenobiotics.
 DNA methylation can influence gene expression, imprinting, genome stability, and developmental programs.
-Histone methylation can either activate or repress chromatin depending on the exact amino acid residue modified.
-RNA methylation can alter splicing, translation, stability, and stress response.
+Histone methylation can either activate or repress chromatin depending on the exact [[cho-fish-amino-acid-preparation]] residue modified.
+RNA methylation can alter splicing, translation, stability, and [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]].
 Small-molecule methylation can change solubility, activity, or clearance.
 So the word methylation describes a large family of reactions, not one single process.
 

@@ -11,13 +11,13 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-A green manure is a crop grown specifically to add organic matter to beds that are empty for a period of time. It is sown with the intention of digging it into the soil to provide organic matter and plant food. While more valuable to large-scale farmers, green manure is also useful in small gardens — particularly on light soils where winter nutrient leaching is a major concern.
+A green manure is a crop grown specifically to add [[hamilton-composting-and-organic-matter-management]] to beds that are empty for a period of time. It is sown with the intention of digging it into the soil to provide organic matter and plant food. While more valuable to large-scale farmers, green manure is also useful in small gardens — particularly on light soils where winter nutrient leaching is a major concern.
 
 ## Benefits
 
 - **Organic matter:** Soft green material rots down quickly, adding organic matter and increasing biological activity
-- **Nutrient cycling:** Deep-rooting crops bring minerals from lower soil levels to the surface (e.g., red clover and lupins root down over 7ft/2m)
-- **Nitrogen fixation:** Leguminous plants fix nitrogen through bacteria in root nodules; nitrogen becomes available to the next crop when dug in
+- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]:** Deep-rooting crops bring minerals from lower soil levels to the surface (e.g., red clover and lupins root down over 7ft/2m)
+- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]:** Leguminous plants [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] through bacteria in root nodules; nitrogen becomes available to the next crop when dug in
 - **Weed suppression:** Dense ground cover provides shade and competition for water and nutrients
 - **Soil protection:** Prevents winter leaching of nutrients on light soils; roots break up soil and improve drainage
 
@@ -41,7 +41,7 @@ Choose a plant that:
 - For fairly large crops, cut up finely before cultivating (rotary mower or cylinder mower for low crops)
 - Allow a period of wilting (a few days) before digging in
 - Do not bury material deeper than ~6in (15cm)
-- If crop has become hard and woody, apply liquid fertilizer (liquid seaweed or animal manure) to assist rotting
+- If crop has become hard and woody, apply [[jadam-liquid-fertilizer-nutritional-perspective]] (liquid seaweed or animal manure) to assist rotting
 - Taller plants: work into surface with rotary cultivator, then cultivate more deeply after a few days
 
 ## Nitrogen-Fixing Green Manures
@@ -75,7 +75,7 @@ Choose a plant that:
 ## Non-Nitrogen-Fixing Green Manures
 
 ### Buckwheat — *Fagopyrum esculentum*
-- Needs whole summer; sow in warm weather (spring/summer), dig in fall
+- Needs whole summer; sow in [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]] (spring/summer), dig in fall
 - Sow: rows ~6in apart or scatter at 1oz (30g) per 7 sq yard/meter
 - Tall with extensive root system; plenty of organic matter; attracts hoverflies (eat greenfly)
 - Does not fix nitrogen; leave a few plants to mature for seed

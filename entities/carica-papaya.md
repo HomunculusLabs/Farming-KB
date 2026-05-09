@@ -12,14 +12,14 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Morton, J.F. (1987). "Papaya." In: Fruits of Warm Climates. Creative Resource Systems.
-  - Krishna, K.L. et al. (2008). "Chemistry and Pharmacology of Carica papaya." Natural Product Radiance 7(4): 364–373.
+  - Krishna, K.L. et al. (2008). "[[psilocybin-psilocin-chemistry-and-pharmacology-emcdda]] of Carica papaya." Natural Product Radiance 7(4): 364–373.
   - OECD. (2005). "Carica papaya: Consensus Document on the Biology of Fruits." ENV/JM/MONO(2005)7.
   - Nakasone, H.Y. & Paull, R.E. (1998). "Tropical Fruits." CAB International.
 ---
 
 ## Overview
 
-Carica papaya, commonly known as papaya or pawpaw, is a fast-growing, semi-woody tropical tree in the family Caricaceae, widely cultivated for its sweet, nutrient-dense fruit. Native to the neotropics of Central America and southern Mexico, it is now grown throughout the world's tropical and subtropical regions.
+Carica papaya, commonly known as papaya or pawpaw, is a fast-growing, semi-woody tropical tree in the family Caricaceae, widely cultivated for its sweet, nutrient-dense fruit. Native to the neotropics of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and southern Mexico, it is now grown throughout the world's tropical and subtropical regions.
 
 The species is remarkable among fruit trees for its rapid growth cycle — flowering can begin within 3–6 months of planting, and fruit is typically harvestable within 9–12 months. This precocity, combined with high year-round productivity, makes papaya one of the most efficient tropical food crops per unit of land and time.
 
@@ -83,7 +83,7 @@ Economic lifespan of a papaya planting is typically 2–4 years, after which pro
 
 Irrigation is critical during dry periods, as papaya has a relatively shallow root system concentrated in the top 30–60 cm of soil. Drip irrigation is preferred over overhead sprinkler systems to minimize foliar disease pressure from the fungal pathogen Asperisporium caricae (papaya black spot).
 
-Integrated pest management in papaya includes regular monitoring for fruit fly populations using methyl eugenol traps, biological control of mites with predatory mites (Phytoseiulus spp.), and cultural practices such as removing and destroying infected plant material to reduce disease inoculum.
+Integrated pest management in papaya includes regular monitoring for fruit fly populations using methyl eugenol traps, [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] of mites with predatory mites (Phytoseiulus spp.), and cultural practices such as removing and destroying infected plant material to reduce disease inoculum.
 
 ## Permaculture Applications
 
@@ -91,22 +91,22 @@ Papaya is a valuable multi-purpose species in tropical permaculture systems. Its
 
 The shallow root system and relatively open canopy make papaya compatible with a wide range of understory crops. In agroforestry systems, it is commonly interplanted with bananas, citrus, coffee, cacao, and various vegetables and herbs. The shade it casts is light enough for shade-tolerant crops but sufficient to moderate ground-level temperatures.
 
-Leaf fall contributes organic matter and nutrients to the soil surface, supporting soil biology and nutrient cycling. The trunk, when felled at the end of its productive life, decomposes rapidly, adding substantial biomass to the system.
+Leaf fall contributes organic matter and nutrients to the soil surface, supporting soil biology and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. The trunk, when felled at the end of its productive life, decomposes rapidly, adding substantial biomass to the system.
 
 Papain extraction from unripe fruit latex provides an income stream from processing-grade fruit that is too small or damaged for fresh market sale. The seeds have anthelmintic properties and can be used for internal parasite control in both humans and livestock, representing an integrated pest management approach.
 
-In tropical food forest designs, papaya serves as a dynamic accumulator — its deep-reaching root system (relative to its size) mines nutrients from subsoil layers and deposits them on the surface through leaf litter. This nutrient-cycling function supports surrounding plants and contributes to overall system fertility.
+In tropical food forest designs, papaya serves as a [[nutrient-dynamic-accumulator-reference]] — its deep-reaching root system (relative to its size) mines nutrients from subsoil layers and deposits them on the surface through leaf litter. This nutrient-cycling function supports surrounding plants and contributes to overall system fertility.
 
-The species is also useful for erosion control on tropical slopes, where its rapid establishment helps stabilize soil during the critical early stages of perennial polyculture development. Papaya's short lifespan (2–4 years) naturally opens canopy gaps as it senesces, creating succession opportunities for longer-lived species.
+The species is also useful for [[permplant-willows-salix-erosion-control-fodder]] on tropical slopes, where its rapid establishment helps stabilize soil during the critical early stages of perennial polyculture development. Papaya's short lifespan (2–4 years) naturally opens canopy gaps as it senesces, creating succession opportunities for longer-lived species.
 
 ## See Also
 
 - [[mangifera-indica]]
-- [[gliricidia-sepium]]
+- gliricidia-sepium
 - [[manihot-esculenta]]
-- [[tithonia-diversifolia]]
+- tithonia-diversifolia
 - [[azolla-filiculoides]]
-- [[sesbania-grandiflora]]
+- sesbania-grandiflora
 - [[dioscorea-alata]]
 - [[pachyrhizus-erosus]]
 - [[canavalia-ensiformis]]

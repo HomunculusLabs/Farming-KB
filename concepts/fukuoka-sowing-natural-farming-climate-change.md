@@ -1,5 +1,5 @@
 ---
-title: "Natural Farming and Climate Change — Fukuoka's Analysis"
+title: "Natural biointensive-carbon-farming Change — Fukuoka's Analysis"
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Masanobu Fukuoka, Sowing Seeds in the Desert (Chelsea Green, 2012)"
@@ -24,7 +24,7 @@ earlier it was covered by deep forests - India's vegetation had disappeared
 rapidly over forty to fifty years, now covering less than 10 percent of the
 land's surface - The Himalayas had become bald, treeless mountains in just
 twenty years - The Philippines, Thailand, Malaysia, and Indonesia saw land
-conditions deteriorate as nature-protecting farming methods were swallowed by
+conditions deteriorate as nature-protecting [[natural-farming-methods-comparison]] were swallowed by
 modern civilization - Tropical rain forests in Asia and Brazil were being
 deforested at rates that would make oxygen scarce
 
@@ -44,12 +44,12 @@ but become hundred-year mistakes. The main reason water disappears from rivers
 is that rain has stopped falling. Building dams to redirect river flow puts the
 cart before the horse.
 
-**Drip irrigation and water-retaining materials.** While locally effective,
+**[[comparison-drip-irrigation-vs-passive-irrigation]] and water-retaining materials.** While locally effective,
 these require materials and energy that make them questionable as long-term
 solutions. Super-absorbent resins plowed into soil in Egypt, plastic pipes in
 Mexico and Israel — all short-term expedients.
 
-**Scientific study and computer simulation.** China's massive effort to halt the
+**[[roger-heim-scientific-study-psilocybin]] and computer simulation.** China's massive effort to halt the
 Taklamakan Desert used satellites, airplanes, remote surveys, deep boring, soil
 analysis, and computer simulations. Every plan for revegetation created this way
 failed. Governments then said they needed to go back and reanalyze the data —
@@ -97,7 +97,7 @@ This "deduction" rather than production is largely due to the shift from hand
 labor, draft animals, and cover crops to machinery and chemicals (which require
 factories, mining, and drilling). Modern petroleum-based farming is not
 producing anything — it is producing a loss. The apparent increase in food
-production is subsidized by rapid depletion of the soil's organic matter,
+production is subsidized by rapid depletion of the soil's [[hamilton-composting-and-organic-matter-management]],
 squandering stored solar energy.
 
 Whoever controls petroleum controls the world's food supply. When obtaining one
@@ -125,7 +125,7 @@ scattered, localized efforts end up as half-baked measures.
 
 - [[fukuoka-sowing-seed-ball-desert-revegetation]] — The alternative
 approach Fukuoka advocates - [[fukuoka-road-critique-of-modern-science]] — Earlier
-critique of scientific approaches
+[[fukuoka-critique-of-scientific-agriculture]] approaches
 
 ## See Also
 

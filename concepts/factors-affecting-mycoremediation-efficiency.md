@@ -1,5 +1,5 @@
 ---
-title: Factors Affecting Mycoremediation Efficiency
+title: Factors factors affecting mycoremediation efficiency Efficiency
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Factors Affecting Mycoremediation Efficiency
 
-The efficiency of fungal bioremediation is influenced by a complex interplay of environmental, biological, and chemical factors. Understanding these factors is essential for optimizing remediation strategies and achieving successful outcomes at contaminated sites.
+The efficiency of [[staycare-composting-as-a-fungal-bioremediation-strategy]] is influenced by a complex interplay of environmental, biological, and chemical factors. Understanding these factors is essential for optimizing remediation strategies and achieving successful outcomes at contaminated sites.
 
 ## Environmental Conditions
 
@@ -36,11 +36,11 @@ changes.
 
 ## Related Topics
 - [[mycoremediation]]
-- [[growing-gourmet-biological-efficiency-yield]]
+- growing-gourmet-biological-efficiency-yield
 - [[soil-food-web]]
 - [[mycoremediation]]
 - [[mycoremediation-site-assessment]]
-- [[mycoremediation-chemical-warfare-agents]]
+- mycoremediation-chemical-warfare-agents
 
 ## Notes for Further Development
 - Add local observations when available.
@@ -61,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

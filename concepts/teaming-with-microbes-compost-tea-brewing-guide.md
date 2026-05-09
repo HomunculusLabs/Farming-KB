@@ -5,16 +5,16 @@ updated: 2026-04-23
 type: concept
 tags: [compost-tea, brewing, soil-food-web, microbiology]
 sources:
-  - "raw/papers/teaming-with-microbes-lowenfels.md"
+  sources: []
 ---
 
 # Compost Tea Brewing Guide
 
-Actively aerated compost tea (AACT) is the third tool in the [[teaming-with-microbes-overview]], overcoming the limitations of bulk compost and mulch applications. Plants generate exudates from leaves that attract bacteria and fungi to the phyllosphere; compost tea can deliver these protective microbes where compost and mulch cannot reach.
+Actively [[actively-aerated-compost-tea]] tea (AACT) is the third tool in the [[teaming-with-microbes-overview]], overcoming the limitations of bulk compost and mulch applications. Plants generate exudates from leaves that attract bacteria and fungi to the phyllosphere; compost tea can deliver these protective microbes where compost and mulch cannot reach.
 
 ## What AACT is — and is not
 
-**Compost leachate** is liquid that oozes from pressed compost. It has some nutrient value but does not impart microbial life — bacteria and fungi are attached to organic matter with biological glues and do not simply wash off.
+**Compost leachate** is liquid that oozes from pressed compost. It has some nutrient value but does not impart microbial life — bacteria and fungi are attached to [[hamilton-composting-and-organic-matter-management]] with biological glues and do not simply wash off.
 
 **Compost extract** involves soaking compost in water for weeks, producing an anaerobic soup with loss of aerobic microbial diversity and risk of pathogens and alcohols. Not recommended.
 
@@ -35,7 +35,7 @@ Larger pumps with two air outlets are better. Sufficient aeration is critical �
 
 ### Air stone vs soaker hose
 
-Bubbles under 1 millimeter can cut up microbes. Aquarium air stones work well if kept clean. An alternative: a 2-foot coil of soaker hose (designed for drip irrigation) taped to the bucket bottom provides better bubble coverage than a stone.
+Bubbles under 1 millimeter can cut up microbes. Aquarium air stones work well if kept clean. An alternative: a 2-foot coil of soaker hose (designed for [[comparison-drip-irrigation-vs-passive-irrigation]]) taped to the bucket bottom provides better bubble coverage than a stone.
 
 ### The compost sock
 
@@ -63,7 +63,7 @@ Nonsulfured molasses (powdered or liquid), cane syrup, maple syrup, and fruit ju
 
 ### Fungal foods
 
-To encourage fungal growth, add kelp (Ascophyllum nodosum, a cold-water kelp), [[teaming-with-microbes-fungi-and-mycorrhizal-relationships]] only at the very end of the brew cycle; earlier addition destroys fragile spores and hyphae. Since mycorrhizal fungi live off root exudates, the tea must reach plant roots quickly.
+To encourage fungal growth, add kelp (Ascophyllum nodosum, a cold-water kelp), [[teaming-with-microbes-fungi-and-mycorrhizal-relationships]] only at the very end of the brew cycle; earlier addition destroys fragile spores and hyphae. Since [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] live off root exudates, the tea must reach plant roots quickly.
 
 Brew for 24-36 hours. Good tea develops a healthy, sweet, earthy smell — especially when molasses is used. Use within 4 hours of manufacture. Tea lasts 3-5 days if refrigerated or if air continues bubbling through it. If it smells bad, it has gone anaerobic — discard it, do not put it on plants.
 
@@ -73,10 +73,14 @@ You can never apply too much compost tea — no ill effects from unlimited appli
 
 ## Cleanup
 
-Bacterial bioslime is strong stuff and clogs air holes and tubing. It appears in the strangest places — bucket sides, bottom crevices, inside hoses and fittings. Clean immediately while still wet: wipe off or flush with water. Use 3% hydrogen peroxide or 5% baking soda for dried slime.
+Bacterial bioslime is strong stuff and clogs air holes and tubing. It appears in the strangest places — bucket sides, bottom crevices, inside hoses and fittings. Clean immediately while still wet: wipe off or flush with water. Use 3% [[cervantes-hydrogen-peroxide-sterilization]] or 5% baking soda for dried slime.
 
 ## See also
 
 - [[teaming-with-microbes-compost-biology]]
-- teaming with microbes compost tea brewing guide
+- teaming with [[teaming-with-microbes-compost-biology]] tea brewing guide
 - [[compost-tea-aact]]
+
+## See Also
+
+- [[braggot-brewing-guide]]

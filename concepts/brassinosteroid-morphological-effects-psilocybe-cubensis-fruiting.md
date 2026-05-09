@@ -1,5 +1,5 @@
 ---
-title: Brassinosteroid Morphological Effects on Psilocybe Cubensis Fruiting
+title: Brassinosteroid brassinosteroid morphological effects psilocybe cubensis fruiting on brassinosteroid-psilocybe-cubensis-growth-promotion-gartz-1990 Fruiting
 created: 2026-04-28
 tags:
   - brassinosteroid
@@ -20,13 +20,13 @@ sources:
 type: concept
 ---
 
-# Brassinosteroid Morphological Effects on Psilocybe Cubensis Fruiting
+# Brassinosteroid Morphological Effects on psilocybe cubensis Fruiting
 
-The 1990 study by Gartz, Adam, and Vorbrodt demonstrated that the brassinosteroid 22S,23S-homobrassinolide, when applied at 0.01 ppm to cultures of Psilocybe cubensis, produced not only accelerated growth and increased yield but also unexpected morphological changes in the resulting fruiting bodies. This was the first published investigation of brassinosteroid activity on fungi, extending the known biological activity of these steroidal phytohormones beyond the plant kingdom into the fungal domain.
+The 1990 study by Gartz, Adam, and Vorbrodt demonstrated that the brassinosteroid 22S,23S-homobrassinolide, when applied at 0.01 ppm to cultures of Psilocybe cubensis, produced not only accelerated growth and increased yield but also unexpected morphological changes in the resulting fruiting bodies. This was the first published investigation of brassinosteroid [[phytohormone-activity-on-fungi-literature-gap-brassinosteroid]], extending the known biological activity of these steroidal phytohormones beyond the plant kingdom into the fungal domain.
 
 ## Brassinosteroids as Plant Growth Regulators
 
-Brassinosteroids represent a class of steroidal plant growth regulators regarded by several laboratories as a further group of phytohormones, analogous to auxins, gibberellins, cytokinins, ethylene, and abscisic acid. At the time of the study, approximately 30 members had been detected across a wide variety of higher plants including Angiospermae and Gymnospermae, as well as in a green alga. The first brassinosteroid isolated, brassinolide, was identified from rape (Brassica napus) pollen in 1979.
+Brassinosteroids represent a class of steroidal plant growth regulators regarded by several laboratories as a further group of phytohormones, analogous to auxins, gibberellins, cytokinins, ethylene, and abscisic acid. At the time of the study, approximately 30 members had been detected across a wide variety of higher plants including Angiospermae and Gymnospermae, as well as in a green alga. The first brassinosteroid isolated, brassinolide, was identified from ra brassica napus apus) pollen in 1979.
 
 Their growth-promoting activity involves complex physiological effects including increased cell elongation and cell division, enhanced photosynthesis, improved stress resistance, and higher crop yields. Promising results in agricultural application had been reported by multiple groups. However, no studies on the occurrence or activity of brassinosteroids on fungi had been published prior to this work, making the Gartz study a genuine frontier investigation.
 
@@ -55,13 +55,13 @@ The effects on fruiting in the dung/grain substrate were dramatic across multipl
 The first flush of fruit bodies appeared in 3 to 3.5 weeks with brassinosteroid treatment, compared to 4 to 5 weeks in controls. This 25 to 30% reduction in time to first harvest could significantly increase annual production cycles for commercial cultivation operations. The accelerated timeline suggests that brassinosteroid treatment advances the onset of the fruiting developmental program.
 
 ### First Flush Productivity
-Treated cultures produced 4 to 7 mushrooms in the first flush, versus 1 to 3 in the control. This two to threefold increase in first-flush yield is particularly important because the first flush typically produces the largest and most valuable fruit bodies in commercial mushroom cultivation.
+Treated cultures produced 4 to 7 mushrooms in the first flush, versus 1 to 3 in the control. This two to threefold increase in first-flush yield is particularly important because the first flush typically produces the largest and most valuable fruit bodies in com  tivation.
 
 ### Total Dry Mass
 Steroid-treated cultures yielded 3.4 to 3.9 g dry weight per 10 g substrate, compared to 2.3 to 2.9 g in controls. This represents a 30 to 48% increase in total dry mass yield. When combined with the accelerated timeline, the effective productivity increase per unit time is even more substantial.
 
 ### Suppression of Abortive Fruit Bodies
-The formation of abortive or incomplete fruit bodies, which are normally present in mushroom cultivation and represent wasted metabolic resources, was almost completely suppressed by the brassinosteroid. This is a particularly valuable effect because abortives consume substrate nutrients without producing harvestable product and complicate the harvest process by requiring manual separation.
+The formation of abortive or incomplete fruit bodies, which are normally present in [[accessible-mushroom-cultivation-for-disabilities]] and represent wasted metabolic resources, was almost completely suppressed by the brassinosteroid. This is a particularly valuable effect because abortives consume substrate nutrients without producing harvestable product and complicate the harvest process by requiring manual separation.
 
 ## Morphological Alteration: Loss of the Annulus
 
@@ -70,7 +70,7 @@ Perhaps the most scientifically intriguing finding was the morphological effect 
 The absence of the annulus in treated specimens suggests that the brassinosteroid either:
 
 1. **Accelerates development past the veil-rupture stage**: If development is sufficiently accelerated, the partial veil may rupture at an earlier stage when it is less developed or more delicate, resulting in no persistent annular tissue.
-2. **Directly interferes with annulus differentiation**: The brassinosteroid may alter the gene expression program responsible for partial veil tissue development, preventing proper annulus formation.
+2. **Directly interferes with annulus differentiation**: The brassinosteroid may alter the gene expression program responsible for partial veil tissue development, preventing proper [[brassinosteroid-suppressed-annulus-formation-psilocybe-cubensis]].
 3. **Modifies the mechanical properties of the veil tissue**: The steroidal compound might change the cell wall composition or structure of the partial veil, causing it to tear away completely rather than leaving a remnant ring.
 
 This morphological change has taxonomic implications since the presence, structure, and position of the annulus are used as diagnostic characters in keys for identifying Psilocybe species. A brassinosteroid-responsive morphological character could potentially lead to misidentification in laboratory contexts, though this is unlikely in natural settings given the trace concentrations involved.
@@ -107,7 +107,7 @@ Two related concept pages document additional brassinosteroid effects in Psilocy
 
 ## Dry Matter and Alkaloid Considerations
 
-While the primary endpoint measured in the Gartz study was morphological (fruit body number, appearance, and development), the authors noted that the growth-promoting effects of brassinosteroids would likely translate into increased dry matter yield per culture. In commercial mushroom cultivation, increased biological efficiency (the ratio of fresh mushroom weight to dry substrate weight) is a key economic parameter. The reduction in abortive fruit bodies, which represent wasted metabolic investment by the mycelium, further contributes to overall production efficiency.
+While the primary endpoint measured in the Gartz study was morphological (fruit body number, appearance, and development), the authors noted that the growth-promoting effects of brassinosteroids would likely translate into increased dry matter yield per culture. In commercial mushroom cultivation [[stamets-biological-efficiency-yield]] l efficiency (the ratio of fresh mushroom weight to dry substrate weight) is a key economic parameter. The reduction in abortive fruit bodies, which represent wasted metabolic investment by the mycelium, further contributes to overall production efficiency.
 
 The study did not quantify the alkaloid content (psilocybin and psilocin) of brassinosteroid-treated fruit bodies, leaving open the question of whether the growth-promoting effects extend to the biosynthesis of psychoactive compounds. Given that brassinosteroids influence metabolic pathways in plants, it is plausible that fungal secondary metabolism could also be affected, though this remains to be investigated systematically.
 
@@ -115,7 +115,5 @@ The study did not quantify the alkaloid content (psilocybin and psilocin) of bra
 
 - [[brassinosteroid-anti-stress-effects-crop-science]]
 
-- [[brassinosteroid]]
-- [[brassinosteroid]]
 - [[brassinosteroid]]
 - [[brassinosteroid-fungal-fruiting-body-morphology]]

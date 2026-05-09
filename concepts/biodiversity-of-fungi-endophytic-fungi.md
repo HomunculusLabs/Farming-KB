@@ -1,5 +1,5 @@
 ---
-title: Endophytic Fungi - Biodiversity, Ecology, and Agricultural Significance
+title: comparison-endophytic-fungi-vs-mycorrhizal-fungi - Biodiversity, Ecology, and Agricultural Significance
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -23,7 +23,7 @@ See also: [[endophytic-fungal-diversity]], [[clavicipitaceous-grass-endophytes]]
 
 ### Host Specificity
 
-Endophyte communities show varying degrees of host specificity. Some species appear to be host-generalists found across multiple plant species, while others are restricted to specific host taxa. Host phylogeny, tissue type, and geographic location all influence endophyte community composition.
+Endophyte communities show varying degrees of host specificity. Some species appear to be host-generalists found across multiple plant species, while others are restricted to specific host taxa. Host phylogeny, tissue type, and geographic location all influence endophyte [[core-endorhiza-bacterial-community-composition-cannabis]].
 
 Studies have shown that:
 - A single leaf from a tropical tree may harbor 10-30+ endophyte species
@@ -70,13 +70,13 @@ See also: fungal-pathogen-resistance, [[fungal-endophytes-agricultural-crops]]
 
 Endophytes are being explored as biocontrol agents against plant diseases. Some endophytic species produce antimicrobial compounds effective against important plant pathogens. The internal colonization of plant tissues gives endophytes a unique advantage as biocontrol agents, as they are already positioned within the host tissue where pathogens attempt to establish.
 
-See also: [[fungal-mycoparasitism-and-biocontrol-interactions]], [[fungal-bioremediation]], [[piriformospora-indica-in-plant-fungal-co-culture]] is a notable example of a cultivable endophytic fungus that promotes growth across a wide range of host plants.
+See also: [[fungal-mycoparasitism-and-biocontrol-interactions]], fungal-bioremediation, [[piriformospora-indica-in-plant-fungal-co-culture]] is a notable example of a cultivable endophytic fungus that promotes growth across a wide range of host plants.
 
 ## Sampling and Isolation
 
-Isolation of endophytes typically involves surface sterilization of plant tissues followed by plating on nutrient media. Key considerations:
+Isolation of endophytes typically involves [[challenge-organisms-nasa-microwave-surface-sterilization-testing]] of plant tissues followed by plating on nutrient media. Key considerations:
 
-- Surface sterilization must be thorough enough to eliminate epiphytic fungi while not killing endophytes within tissues
+- Surface sterilization must be thorough enough to eliminate [[foliar-epiphytic-fungi-sooty-mildews-powdery-mildews]] while not killing endophytes within tissues
 - Multiple isolation media increase the range of fungi recovered
 - Incubation conditions (temperature, light) affect which species grow
 - Slow-growing fungi may be overgrown by fast-growing species on rich media
@@ -88,4 +88,4 @@ See also: [[endophyte-sampling-methods]], [[bacterial-endophyte-isolation-detect
 
 ### Functional Genomics
 
-The application of genomics to endophyte research is revealing the genetic basis of endophytism, including genes involved in plant colonization, nutrient exchange, secondary metabolite production, and stress tolerance. Understanding these genetic mechanisms may enable more targeted applications in agriculture.
+The application of genomics to endophyte research is revealing the genetic basis of endophytism, including genes involved in plant colonization, [[arbuscule-isolation-and-nutrient-exchange-mechanisms]], [[fungal-elicitors-enhanced-secondary-metabolite-production]] production, and stress tolerance. Understanding these genetic mechanisms may enable more targeted applications in agriculture.

@@ -11,7 +11,7 @@ updated: 2026-05-08
 sources:
   - Garbary, D.J. et al. (2018). "Bangia (Bangiaceae, Rhodophyta) in the Canadian Maritimes." Botanica Marina.
   - Brodie, J. & Zuccarello, G.C. (2007). "Systematics of the Bangiophycidae (Rhodophyta): molecular and morphological perspectives." Phycological Research.
-  - Schneider, C.W. & Searles, R.B. (1991). Seaweeds of the Southeastern United States. Duke University Press.
+  - Schneider, C.W. & Searles, R.B. (1991). Seaweeds of the Southeastern [[dmt-containing-plants-united-states-halpern]]. Duke University Press.
   - Guiry, M.D. & Guiry, G.M. (2025). "Bangia atropurpurea." AlgaeBase.
 ---
 
@@ -38,7 +38,7 @@ Growth occurs by diffuse intercalary cell division. Apical cells are absent — 
 
 ## Distribution and Habitat
 
-Bangia atropurpurea has a broad distribution across temperate coastlines of the Northern Hemisphere. It is reported from the North Atlantic (Europe, eastern North America), the North Pacific, and the Baltic Sea.
+Bangia atropurpurea has a broad distribution across temperate coastlines of the Northern Hemisphere. It is reported from the North Atlantic (Europe, [[polypore-fungi-eastern-north-america]] America), the North Pacific, and the Baltic Sea.
 
 The species is euryhaline, tolerating salinities from approximately 5 to 35 PSU. This adaptability allows it to colonize estuaries, river mouths, and brackish lagoons in addition to fully marine habitats.
 
@@ -74,7 +74,7 @@ Fatty acid profiling reveals a predominance of palmitic acid (C16:0), arachidoni
 
 Total lipid content ranges from 2–5% of dry weight, with glycolipids and phospholipids constituting the majority of membrane lipids. Sterol composition is dominated by cholesterol and desmosterol.
 
-Preliminary screening has identified mild antibacterial activity against Gram-positive bacteria, attributed to phenolic compounds and brominated secondary metabolites.
+Preliminary screening has identified mild antibacterial activity against Gram-positive bacteria, attributed to phenolic compounds and brominated [[antifungal-secondary-metabolites-coprophilous-fungi]].
 
 ## Economic and Research Significance
 
@@ -90,7 +90,7 @@ Bangia atropurpurea is consumed as a minor edible seaweed in parts of Japan, Kor
 
 The species is not commercially cultivated at scale, unlike its close relatives in the nori industry. Wild harvest remains the primary source, and yields are modest compared to other edible red algae.
 
-Nutritional analysis shows protein content of 18–25% dry weight, with a favorable amino acid profile including all essential amino acids. Mineral content is rich in iodine, iron, calcium, and magnesium.
+Nutritional analysis shows protein content of 18–25% dry weight, with a favorable [[cho-fish-amino-acid-preparation]] profile including all essential amino acids. Mineral content is rich in iodine, iron, calcium, and magnesium.
 
 Dietary fiber from cell wall polysaccharides constitutes 30–40% of dry weight. These algal fibers have prebiotic properties, supporting beneficial gut microbiota in animal feeding trials.
 
@@ -100,7 +100,7 @@ Flavor is described as mildly briny with subtle umami notes, less intense than n
 
 Bangia atropurpurea is not currently listed as threatened or endangered on any regional red list. Its broad distribution and tolerance of varied salinity conditions contribute to a stable global population.
 
-Local declines have been noted in heavily polluted estuaries where industrial runoff degrades water quality. The species is moderately sensitive to heavy metals, particularly copper and zinc, and serves as a bioindicator of coastal contamination.
+Local declines have been noted in heavily polluted estuaries where industrial runoff degrades water quality. The species is moderately sensitive to [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]], particularly copper and zinc, and serves as a bioindicator of coastal contamination.
 
 Climate warming may extend the species' range northward in both the Atlantic and Pacific basins. Increased frequency of thermal stress events in the intertidal zone could conversely reduce populations at the southern edge of its range.
 

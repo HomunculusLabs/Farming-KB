@@ -54,7 +54,7 @@ The species was originally described by João de Loureiro in 1790 and later revi
 
 Lesser yam is native to tropical and subtropical Asia, with its center of diversity in the region encompassing southern China, mainland Southeast Asia, and the Indonesian archipelago. It has been introduced and naturalized throughout the Pacific Islands, South Asia, East Africa, and tropical America.
 
-The species thrives in warm, humid tropical climates with annual rainfall of 1,000–2,000 mm distributed across a 5–8 month growing season. It performs well from sea level to 1,500 m elevation, tolerating a wider temperature range than many other Dioscorea species (18–35°C optimal).
+The species thrives in warm, humid tropical climates with annual rainfall of 1,000–2,000 mm distributed across a 5–8 month growing season. It performs well from sea level to 1,500 m elevation, tolerating a wider [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] than many other Dioscorea species (18–35°C optimal).
 
 Lesser yam is adapted to a broad range of soil types including sandy loams, red laterites, volcanic soils, and degraded acidic soils. It is notably drought-tolerant once established, surviving extended dry periods through dormancy and tuber moisture reserves. This resilience makes it particularly valuable in marginal agricultural environments where rice and maize cultivation is unreliable.
 
@@ -74,7 +74,7 @@ The tubers are rich in carbohydrates (primarily starch, comprising 20–30% of f
 
 Lesser yam tubers contain dioscorine, a mildly toxic alkaloid present in most Dioscorea species, though at lower concentrations than in D. hispida or D. dumetorum.
 
-Cooking effectively degrades dioscorine, making the tubers safe for consumption. Some varieties require peeling and soaking before cooking to fully eliminate bitterness. Traditional preparation methods including roasting, boiling, and frying have been empirically validated to reduce alkaloid content below toxic thresholds.
+Cooking effectively degrades dioscorine, making the tubers safe for consumption. Some varieties require peeling and soaking before cooking to fully eliminate bitterness. [[kava-traditional-preparation-ceremonial-context]] methods including roasting, boiling, and frying have been empirically validated to reduce alkaloid content below toxic thresholds.
 
 ## Cultivation and Permaculture
 
@@ -86,7 +86,7 @@ The crop has a growing period of 7–11 months, with tuber maturation typically 
 
 **Permaculture functions:**
 
-- **Vertical production:** The climbing habit enables high-yield production in minimal ground area, making it suitable for smallholder and urban permaculture systems.
+- **Vertical production:** The climbing habit enables high-yield production in minimal ground area, making it suitable for smallholder and [[pdc-urban-permaculture-design-principles]] systems.
 - **Agroforestry integration:** Grows effectively beneath fruit trees (coconut, breadfruit, mango) and between annual crops, utilizing vertical space without competing for ground-level light.
 - **Soil stabilization:** The extensive tuber network and vine coverage reduce erosion on slopes and improve soil structure through root penetration.
 - **Food security buffer:** Reliable production in years when grain crops fail makes lesser yam an essential component of resilient subsistence farming systems.
@@ -98,9 +98,9 @@ The most significant pest is the yam beetle (*Heteroligus meles*), which damages
 
 Yam beetle damage can reduce yields by 20–40% in heavily infested plots. Nematode infestations are particularly problematic in continuously cropped fields where fallow periods are insufficient.
 
-Fungal diseases include anthracnose (*Colletotrichum gloeosporioides*), leaf spot (*Cercospora* spp.), and tuber rot (*Fusarium* spp.). Viral diseases, particularly Dioscorea latent virus and yam mosaic virus, can cause significant yield losses in regions with high disease pressure.
+Fungal diseases include anthracnose (*Colletotrichum gloeosporioides*), leaf spot (*Cercospora* spp.), and tuber rot (*Fusarium* spp.). [[cervantes-viral-diseases-cannabis]], particularly Dioscorea latent virus and yam mosaic virus, can cause significant yield losses in regions with high disease pressure.
 
-Integrated pest management combining crop rotation, clean sett selection, biological control agents, and resistant varieties provides the most sustainable approach to disease management in smallholder systems.
+Integrated pest management combining crop rotation, clean sett selection, [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents, and resistant varieties provides the most sustainable approach to [[plant-disease-management-solomon]] in smallholder systems.
 
 ## Ethnobotany and Cultural Significance
 
@@ -115,5 +115,5 @@ In Filipino traditional medicine, poultices of grated lesser yam are applied to 
 ## See Also
 
 - [[dioscorea-alata]] [[xanthosoma-sagittifolium]]
-[[pachyrhizus-erosus]] [[vicia-faba]] [[typha-latifolia-entity]] [[caragana-arborescens]]
-[[elaeagnus-angustifolia]]
+[[pachyrhizus-erosus]] [[vicia-faba]] typha-latifolia-entity [[caragana-arborescens]]
+elaeagnus-angustifolia

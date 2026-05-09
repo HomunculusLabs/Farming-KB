@@ -1,5 +1,5 @@
 ---
-title: Entomopathogenic Fungi as Biocontrol Agents
+title: singh entomopathogenic fungi biocontrol agents as Biocontrol Agents
 created: 2026-04-28
 tags:
   - biocontrol
@@ -16,13 +16,13 @@ type: concept
 
 # Entomopathogenic Fungi as Biocontrol Agents
 
-Entomopathogenic fungi are specialized fungal pathogens that infect and
+Entomopathogenic fungi are specialized [[bloomfield-fungal-pathogens-and-parasites]] that infect and
 kill insects, playing important roles in natural population regulation
-and serving as active ingredients in biological pest control products.
+and serving as active ingredients in [[cervantes-biological-pest-control-predators]] control products.
 With over 700 species described across Ascomycota and Basidiomycota,
 these fungi represent a diverse group of organisms with complex life
 cycles involving both saprophytic and pathogenic phases. Singh's coverage
-of entomopathogenic fungi highlights their significance in integrated pest
+of entomopathogenic fungi highlights their significance in [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 management and their connections to broader themes of
 [[verticillium-lecanii]]) is effective
 against soft-bodied insects including aphids, whiteflies, and thrips, as
@@ -109,4 +109,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

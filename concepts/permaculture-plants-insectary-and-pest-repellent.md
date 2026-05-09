@@ -1,5 +1,5 @@
 ---
-title: Permaculture Insectary and Pest Repellent Plants
+title: Permaculture permaculture plants insectary and pest repellent Repellent Plants
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -33,7 +33,7 @@ Species with combined bee forage, medicinal (to livestock), and fire-retardant p
 |-------|--------|--------|--------------|
 | Balm | | | |
 | Borage | | | Long season |
-| Capeweed | N | P | Early spring |
+| Capeweed | N | P | [[coleman-overwintered-onions-and-early-spring-crops]] |
 | Chicory | N | P | |
 | Dandelion | N | P | Long season |
 | Fennel | | | Long season |
@@ -51,7 +51,7 @@ Species with combined bee forage, medicinal (to livestock), and fire-retardant p
 
 | Plant | Nectar | Pollen | Season/Notes |
 |-------|--------|--------|--------------|
-| Clovers | N | P | Up to 400 kg/ha N yield; crimson clover especially high |
+| Clovers | N | P | Up to 400 kg/ha N yield; [[comparison-lupin-vs-crimson-clover-green-manure]] especially high |
 | Cowpea | N | P | |
 | Lotus spp | N | P | |
 | Lucerne | N | P | Very long flowering; 78-285 kg/ha/day measured |
@@ -100,7 +100,7 @@ Specific applications documented:
 ### Neem (Azadirachta indica)
 Family: Meliaceae. Deep-rooted, broad-leaved tree, usually evergreen. Native to dry forests of India through Burma. Potentially among the most valuable arid land trees. Seeds and leaves yield azadarachtin (same active compound as cape lilac). Wood resists decay and insects, tougher than teak. Planted as companion to mango and Ficus religiosa in sacred groves in India.
 
-Additional pest control uses:
+Additional [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] uses:
 - Dried leaves placed in books, grain, and clothes to repel insects
 - Twigs used as toothbrushes (natural insect repellent in mouth)
 - Presscake from oil extraction used as insecticide
@@ -119,7 +119,7 @@ The strong smell of cedar wood keeps insects away. Used for carpentry where inse
 
 ## Companion Planting for Pest Management
 
-The book's companion planting lists support [[hamilton-beneficial-insects-and-biological-pest-control]] through beneficial insect attraction and pest deterrence.
+The book's companion planting lists support [[hamilton-beneficial-insects-and-biological-pest-control]] through [[mollison-designers-insectary-plants-and-beneficial-insect-habitat]] attraction and [[foliar-pest-deterrence-aact-mechanisms]].
 
 ### Good Companions (Vegetables/Herbs)
 

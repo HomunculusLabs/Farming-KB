@@ -1,17 +1,18 @@
 ---
-title: Living Mulch Systems Guide
+title: comparison-living-mulch-vs-cover-crops Systems Guide
 created: 2026-04-28
 tags: [living-mulch, ground-cover, clover, nitrogen-fixation, weed-suppression]
 date: 2026-04-27
 updated: 2026-04-27
-sources: [raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md, raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
 # Living Mulch Systems Guide
 
 Living mulch refers to low-growing plants deliberately maintained beneath or
-between crop plants to provide continuous ground cover. Unlike dead mulch
+between crop plants to provide continuous [[fukuoka-citrus-orchard-ground-cover-cultivation]]. Unlike dead mulch
 (materials like straw, leaves, or cardboard that must be collected and carried
 in), living mulch consists of actively growing plants that self-maintain
 through reproduction. Both types serve important functions in [[fukuoka-clover-and-green-manure-cropping]]
@@ -67,7 +68,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -145,4 +146,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

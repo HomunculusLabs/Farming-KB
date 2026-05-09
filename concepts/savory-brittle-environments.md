@@ -30,7 +30,7 @@ Brittleness is not the same as fragility. Fragile areas may be nonbrittle (a del
 
 The degree of brittleness derives not from total rainfall so much as from the **distribution of precipitation and atmospheric humidity throughout the year**.
 
-**Brittle environments** characteristically experience erratic distribution of moisture during the year. A thirty- to fifty-inch rainfall area that has very dry periods in the middle of its growing season and a long dry season may be extremely brittle. The pattern of humidity determines brittleness more than total precipitation.
+**Brittle environments** characteristically experience erratic distribution of moisture during the year. A thirty- to fifty-inch rainfall area that has very dry periods in the middle of its [[savory-growing-season-and-non-growing-season-management]] and a long dry season may be extremely brittle. The pattern of humidity determines brittleness more than total precipitation.
 
 **Nonbrittle environments** characteristically experience reliable moisture in the growing season. Even though total precipitation may seldom top twenty inches a year, during remaining months atmospheric humidity does not drop severely.
 
@@ -54,14 +54,14 @@ The distribution of precipitation, elevation, temperature, and prevailing winds 
 
 The seasonal pattern of humidity determines how quickly communities establish and maintain themselves on bare surfaces. It also dictates whether decay of old plant material will be:
 
-- **Biological, rapid, and starting near ground level** (nonbrittle environments): Microorganisms break down material quickly, releasing nutrients and allowing light to reach growing points.
+- **Biological, rapid, and starting near ground level** (nonbrittle environments): Microorganisms [[query-can-fungi-break-down-plastic-pollution]] material quickly, releasing nutrients and allowing light to reach growing points.
 - **Chemical (oxidation) and physical (weathering), slow, and starting from upper parts** (brittle environments): Material oxidizes and weathers from the top down, often remaining standing for years as dead, grey, oxidizing material that blocks light to growing points.
 
 The easiest way to determine where an environment falls on the scale is to examine the decay process on old vegetation. At the nonbrittle extreme, decay is 100 percent biological. This decreases steadily toward the brittle extreme, where chemical and physical decay dominate.
 
 ## Why This Matters
 
-Since over half the earth's land surface leans toward the brittle end of the scale, it is no surprise that desertification is spreading at the rate it is. Standard management practices—rest, moderate stocking, fire—were developed primarily in the nonbrittle environments of northern Europe and the eastern United States, where modern agricultural science has its roots.
+Since over half the earth's land surface leans toward the brittle end of the scale, it is no surprise that desertification is spreading at the rate it is. Standard management practices—rest, moderate stocking, fire—were developed primarily in the nonbrittle environments of northern Europe and the eastern [[dmt-containing-plants-united-states-halpern]], where modern agricultural science has its roots.
 
 In nonbrittle environments, leaving land undisturbed allows recovery. In brittle environments, prolonged nondisturbance leads to further deterioration and instability. This single insight explains why practices imported from Europe have devastated grasslands worldwide.
 
@@ -77,16 +77,19 @@ Practical indicators of brittleness include:
 
 - **Decay process**: Is dead plant material rotting from the base (biological) or oxidizing from the top (chemical)?
 - **Bare soil recovery**: Do bare areas rapidly recolonize with plants (nonbrittle) or remain bare for years (brittle)?
-- **Plant spacing**: Are grass plants close together or widely spaced with bare ground between?
+- **Plant spacing**: Are grass plants close together or widely spaced with [[savory-bare-ground-and-soil-exposure]] between?
 - **Mosses and lichens**: Do lichens hang from trees and mosses grow on trunks (nonbrittle) or are these absent (brittle)?
 - **Seasonal humidity**: Does humidity remain relatively constant year-round (nonbrittle) or drop severely during dry months (brittle)?
 
 ## Sources
 
-- Savory, Allan. *Holistic Resource Management*, Chapter 5. Island Press, 1988.
+- Savory, Allan. *[[savory-holistic-resource-management-animal-impact]] Management*, Chapter 5. Island Press, 1988.
 
 ## See Also
 
-- [[permaculture-designers-manual-grazing-management]]
+- permaculture-designers-manual-grazing-management
 - [[livestock-fencing-guide]]
 - [[glomalin-and-soil-carbon]]
+- [[desertification]]
+- [[savory-non-brittle-environments]]
+- [[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]]

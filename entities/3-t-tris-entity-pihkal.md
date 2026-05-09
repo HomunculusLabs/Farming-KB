@@ -1,5 +1,5 @@
 ---
-title: "3-T-TRIS (3-THIOTRESCALINE; 3-THIOTRISESCALINE;) -- PIHKAL Entry #178"
+title: "3-T-TRIS (3-THIOTRESCALINE; 3-THIOTRISESCALINE;) -- 2c-b-pihkal-entry-20 #178"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -47,7 +47,7 @@ satisfactorily for quite a while.
 
 Its intrinsic worth proved, however, to be its very limitation. It
 was quickly apparent that the principal value, to behavioral
-researchers, of the reports of new hallucinogenic drugs, was not in
+researchers, of the reports of new [[metzner-hallucinogenic-drugs-psychotherapy-shamanism]], was not in
 the nature of their action but in the amount of stuff needed to
 produce that action. This was an essential axis against which the
 
@@ -76,7 +76,7 @@ insoluble gummy phase. The mixture was allowed to come to room
 temperature over the course of 1 h, and then added to 400 mL of dilute
 HCl. The organic phase was separated and stripped of solvent under
 vacuum. This residue was combined with the original aqueous phase,
-and the mixture was heated on the steam bath for 2 h. The aqueous
+and the mixture was heated on the [[scythian-cannabis-steam-bath-ritual]] for 2 h. The aqueous
 mixture was cooled to room temperature, extracted with 3x100 mL
 CH2Cl2, the extracts pooled, washed with H2O, and the solvent removed
 under vacuum to yield 11.0 g of an amber oil. This was distilled at
@@ -106,7 +106,7 @@ A solution of 5.6 g of borane-methyl sulfide complex (10 M BH3 in
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

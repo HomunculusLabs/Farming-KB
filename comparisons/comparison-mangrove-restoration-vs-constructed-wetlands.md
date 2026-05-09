@@ -1,5 +1,5 @@
 ---
-title: "Mangrove Restoration vs Constructed Wetlands"
+title: "comparison mangrove restoration vs constructed wetlands vs comparison-constructed-wetlands-vs-bioswales"
 created: 2026-04-28
 tags: [mangroves, constructed-wetlands, coastal-restoration, wastewater-treatment, wetland-ecology, comparison]
 date: 2026-04-28
@@ -8,7 +8,7 @@ sources:
   - "Lewis, R.R. III. (2009). Methods and Criteria for Successful Mangrove Forest Restoration. Coastal Wetlands: An Integrated Ecosystem Approach."
   - "Kadlec, R.H. & Wallace, S. (2008). Treatment Wetlands, 2nd Edition. CRC Press."
   - "Mcleod, E. et al. (2011). A Blueprint for Blue Carbon. Conservation International."
-  - "Vymazal, J. (2011). Constructed Wetlands for Wastewater Treatment: Five Decades of Experience. Environmental Science & Technology, 45(1), 61–69."
+  - "Vymazal, J. (2011). Constructed Wetlands for [[mollison-designers-wastewater-treatment-wetlands]]: Five Decades of Experience. Environmental Science & Technology, 45(1), 61–69."
   - "Spalding, M. et al. (2010). World Atlas of Mangroves. Earthscan/Routledge."
   - "Donato, D.C. et al. (2011). Mangroves Among the Most Carbon-Rich Forests in the Tropics. Nature Geoscience, 4, 293–297."
 type: comparison
@@ -20,7 +20,7 @@ Mangrove restoration and constructed wetlands are both nature-based solutions le
 
 ## Primary Purpose
 
-**Mangrove restoration** aims to re-establish natural mangrove forests along tropical and subtropical coastlines. Its primary goals are coastal protection (storm surge attenuation by 40–66% per 100 m of forest width), shoreline stabilization, biodiversity recovery, and blue carbon sequestration. Restoration is typically driven by conservation, climate adaptation, and fisheries recovery objectives.
+**Mangrove restoration** aims to re-establish natural mangrove forests along tropical and subtropical coastlines. Its primary goals are coastal protection (storm surge attenuation by 40–66% per 100 m of forest width), shoreline stabilization, biodiversity recovery, and blue carbon sequestration. Restoration is typically driven by conservation, [[jeavons-climate-adaptation-growing-seasons]], and fisheries recovery objectives.
 
 **Constructed wetlands** are engineered systems designed primarily for wastewater treatment and stormwater management. They replicate natural wetland processes (sedimentation, microbial degradation, plant uptake) to remove pollutants including BOD (85–95% removal), nitrogen (40–80%), phosphorus (40–90%), and pathogens. Secondary benefits include habitat creation and aesthetic value.
 
@@ -88,7 +88,7 @@ Site constraints differ markedly. Mangrove restoration requires access to intert
 
 ## Scalability
 
-Mangrove restoration scales from community-level plots (<1 ha) to landscape-level efforts (>10,000 ha). Large-scale success depends on watershed management and regional hydrology. Indonesia's national mangrove restoration targets 600,000 ha by 2024.
+Mangrove restoration scales from community-level plots (<1 ha) to landscape-level efforts (>10,000 ha). Large-scale success depends watershed management ment and regional hydrology. Indonesia's national mangrove restoration targets 600,000 ha by 2024.
 
 Constructed wetlands scale from single-household systems (10–50 m²) to municipal treatment plants (>100 ha). Modular design allows phased expansion. Limitations include land availability near urban centers.
 
@@ -98,7 +98,7 @@ Scaling mangrove restoration faces governance and tenure challenges: establishin
 
 ### Choose Mangrove Restoration When:
 - Working in tropical/subtropical coastal zones
-- Coastal protection and erosion control are primary needs
+- Coastal protection and [[permplant-willows-salix-erosion-control-fodder]] are primary needs
 - Blue carbon credits or fisheries recovery are desired
 - Long-term ecosystem self-maintenance is preferred over engineered solutions
 
@@ -110,13 +110,13 @@ Scaling mangrove restoration faces governance and tenure challenges: establishin
 
 ## Complementary Applications
 
-These approaches can work synergistically in coastal settings. **Mangrove treatment wetlands** combine engineered tidal flow with mangrove plantings to treat municipal wastewater while restoring coastal habitat. In integrated coastal management, constructed wetlands upstream can reduce pollutant loads reaching mangrove ecosystems. Combined systems are operational in locations including China, Vietnam, and the Caribbean, demonstrating pollutant removal rates of 70–90% for nitrogen and phosphorus while providing ecosystem services valued at $5,000–$15,000/ha/year.
+These approaches can work synergistically in coastal settings. **Mangrove treatment wetlands** combine engineered tidal flow with mangrove plantings to treat municipal wastewater while restoring coastal habitat. In integrated coastal management, constructed wetlands upstream can reduce pollutant loads reaching mangrove ecosystems. Combined systems are operational in locations including China, Vietnam, and the Caribbean, demonstrating pollutant removal rates of 70–90% for nitrogen and phosphorus while providing [[biodiversity-of-fungi-ecosystem-services-agriculture]] valued at $5,000–$15,000/ha/year.
 
 ## Summary
 
 Mangrove restoration and constructed wetlands represent distinct but complementary strategies in ecological engineering. Selection depends on geography, primary objectives, timeline, and available resources. Both deliver ecosystem services exceeding their installation costs over their operational lifetimes.
 
-In permaculture and ecological design contexts, both approaches offer valuable tools: constructed wetlands for closed-loop water cycling on-site, and mangrove restoration for coastal projects aiming to restore ecological infrastructure at the landscape scale.
+In [[permaculture]] and ecological design contexts, both approaches offer valuable tools: constructed wetlands for closed-loop water cycling on-site, and mangrove restoration for coastal projects aiming to restore ecological infrastructure at the landscape scale.
 
 See also: [[dighton-fungi-mangrove-coastal-ecosystems]]
 

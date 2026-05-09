@@ -1,10 +1,11 @@
 ---
-title: "How Do I Fix Soil Compaction in My Garden?"
+title: "How Do I query how do i fix soil compaction in my garden in My Garden?"
 created: 2026-04-28
 tags: [query, soil, compaction, garden, remediation]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -25,10 +26,10 @@ In severe cases, you may notice a distinct plow pan layer a few inches below the
 For information on addressing these deeper compaction layers, [[jadam-soil-compaction-heavy-machinery]], which explains how even a single pass with heavy machinery can undo years of careful soil building.
 
 Adding organic matter is perhaps the most important long-term solution for compacted soil in any garden setting.
-Compost, well-rotted manure, leaf mold, and other organic amendments work on multiple levels simultaneously.
+Compost, well-rotted manure, leaf mold, and other [[cervantes-organic-amendments-chart]] work on multiple levels simultaneously.
 They physically separate soil particles that have been pressed together, feed the soil food web that builds stable aggregates, and improve both water retention and drainage.
 A two- to three-inch layer of compost applied as a top dressing each year can gradually transform even stubbornly compacted soil into a loose, crumbly growing medium.
-The biological processes behind this transformation are explored in depth in [[earthworm-ecology]], which details how different species contribute to soil aeration, nutrient cycling, and aggregate formation.
+The biological processes behind this transformation are explored in depth in [[earthworm-ecology]], which details how different species contribute to soil aeration, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and [[soil-aggregate-formation-fungal-contributions]].
 
 Preventing future compaction is just as important as fixing existing problems in your garden.
 Adopt permanent raised beds or defined pathways to keep foot traffic off growing areas permanently.
@@ -40,8 +41,8 @@ Within one to two growing seasons, most compacted garden soils can be significan
 
 Regular soil testing can help track improvements in soil structure over time as compaction is remediated through these methods.
 Pay attention to organic matter percentage, bulk density, and infiltration rate as key indicators of soil health improvement.
-Cover crops like crimson clover and winter rye provide living root systems that naturally break up compacted layers throughout the growing season.
-Sheet mulching, also known as lasagna gardening, can create new garden beds on top of compacted soil without any tilling required.
+Cover crops like [[comparison-lupin-vs-crimson-clover-green-manure]] and winter rye provide living root systems that naturally break up compacted layers throughout the growing season.
+[[comparison-sheet-mulching-vs-chop-and-drop-mulching]], also known as lasagna gardening, can create new garden beds on top of compacted soil without any tilling required.
 Gypsum (calcium sulfate) can improve clay soil structure by promoting flocculation of clay particles without significantly raising soil pH.
 The calcium in gypsum replaces sodium on clay particle surfaces in sodic soils, allowing particles to clump and create larger pore spaces.
 A thick layer of organic mulch absorbs the impact of raindrops and foot traffic, protecting the soil surface from crusting and sealing.

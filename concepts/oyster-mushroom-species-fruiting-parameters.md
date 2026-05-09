@@ -1,19 +1,17 @@
 ---
-title: Oyster Mushroom Species and Fruiting Parameters
+title: cotter-oyster-mushroom-cultivation Species and [[growing-gourmet-fruiting-parameters]]
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [[mycology, cultivation, mushrooms]
+tags: [mycology, cultivation, mushrooms]
 sources: []
 ---
-# Oyster Mushroom Species and Fruiting Parameters
-
-The genus Pleurotus encompasses a diverse group of edible mushrooms commonly known as oyster mushrooms. With over 30 recognized species and numerous strains, Pleurotus offers cultivators a wide range of options adapted to different climates, substrates, and market preferences. Understanding the specific [[oyster-mushroom-species-overview]]
+# Oyster Mushroom Species and Fruiting Parameters The genus Pleurotus encompasses a diverse group of edible mushrooms commonly known as oyster mushrooms. With over 30 recognized species and numerous strains, Pleurotus offers cultivators a wide range of options adapted to different climates, substrates, and market preferences. Understanding the specific [[oyster-mushroom-species-overview]]
 
 - [[oyster-mushroom-substrate-preparation]]
 - [[oyster-mushroom-shelf-cultivation]]
-- [[oyster-mushroom-fruiting-abnormalities-environmental-causes]]
-- [[mushroom-substrate-recipes]]
+- oyster-mushroom-fruiting-abnormalities-environmental-causes
+- mushroom-substrate-recipes
 ## Background and Context
 
 Oyster Mushroom Species and Fruiting Parameters is an important subject that has garnered significant attention
@@ -64,7 +62,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -143,3 +141,6 @@ conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
 
+## See Also
+
+- [[mushroom-species-parameters-comparison]]

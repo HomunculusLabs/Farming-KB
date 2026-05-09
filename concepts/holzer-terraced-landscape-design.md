@@ -1,9 +1,10 @@
 ---
-title: Holzer Terraced Landscape Design
+title: Holzer holzer terraced landscape design Design
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 type: concept
 tags: [design, holzer]
 ---
@@ -49,7 +50,7 @@ On loam soils, material separation is unnecessary (except for the humus layer). 
 
 ### Embankment Construction
 
-To stabilise embankments, risers are constructed by removing topsoil and underlying layers until reaching solid, stable material. The riser forms the foundation, angled slightly into the hill. The embankment is then built up replacing excavated layers, with topsoil as the uppermost layer. Fruit trees and bushes establish deep roots into the embankment, contributing greatly to its stability.
+To stabilise embankments, risers are constructed by removing topsoil and underlying layers until reaching solid, stable material. The riser forms the foundation, angled slightly into the hill. The embankment is then built up replacing excavated layers, with topsoil as the uppermost layer. [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and bushes establish deep roots into the embankment, contributing greatly to its stability.
 
 ### Working with Water
 
@@ -82,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

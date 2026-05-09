@@ -1,5 +1,5 @@
 ---
-title: Cannabis Foliar Feeding
+title: Cannabis comparison-foliar-feeding-vs-compost-tea-nutrients
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -16,7 +16,7 @@ Foliar feeding means spraying nutrients or bio-stimulants onto foliage to augmen
 
 ## How It Works
 
-The waxy (cuticle) surface coating of cystolith hairs and resin on cannabis foliage makes leaves poor water absorbers. This barrier wards off pest and disease attacks but also slows penetration of sprays. Nutrients enter primarily through the stomata on the leaf undersides. Even young marijuana plants have waxy hairs that impair liquid penetration.
+The waxy (cuticle) surface coating of cystolith hairs and resin on cannabis foliage makes leaves poor water absorbers. This barrier wards off [[hamilton-pest-and-disease-control-organic]] attacks but also slows penetration of sprays. Nutrients enter primarily through the stomata on the leaf undersides. Even young marijuana plants have waxy hairs that impair liquid penetration.
 
 Young leaves are more permeable than older leaves. Nutrients and additives penetrate immature leaves faster than tougher, older leaves, but they are also easier to damage with strong sprays.
 
@@ -34,7 +34,7 @@ Measure the pH of the spray and keep it between 7.0 and 8.5. Stomata close below
 
 ### 5. Use Surfactants
 
-Use a surfactant (wetting agent) with all sprays. Spreader-stickers allow stomata on the leaves to be penetrated. Nonionic spreaders are most common and do not react with most pesticides. Avoid droplets forming on leaves -- stop application before droplets appear.
+Use a surfactant ([[jadam-nutrient-management-wetting-agent-and-calcium]]) with all sprays. Spreader-stickers allow stomata on the leaves to be penetrated. Nonionic spreaders are most common and do not react with most pesticides. Avoid droplets forming on leaves -- stop application before droplets appear.
 
 ### 6. Spray Concentration
 
@@ -48,7 +48,7 @@ Use a surfactant (wetting agent) with all sprays. Spreader-stickers allow stomat
 
 ### Spreaders (Wetting Agents)
 
-Reduce surface tension of sprays and keep them from beading up and rolling off foliage. Big bulbous drops mean you need more spreader; flat sliding drops mean too much. Nonionic spreaders that do not ionize in water are the most common and do not react with most pesticides.
+Reduce [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] of sprays and keep them from beading up and rolling off foliage. Big bulbous drops mean you need more spreader; flat sliding drops mean too much. Nonionic spreaders that do not ionize in water are the most common and do not react with most pesticides.
 
 ### Stickers
 

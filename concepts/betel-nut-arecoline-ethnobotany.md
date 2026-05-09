@@ -1,5 +1,5 @@
 ---
-title: betel nut arecoline ethnobotany
+title: betel betel nut arecoline ethnobotany ethnobotany
 created: 2026-04-28
 tags: [betel-nut, ethnobotany, arecoline, stimulant-plants]
 date: 2026-04-25
@@ -14,7 +14,7 @@ type: concept
 
 The betel nut (Areca catechu), also known as areca nut, is the seed of
 the areca palm, a tall, slender tree cultivated across tropical and
-subtropical regions of South and Southeast Asia, the Pacific Islands,
+subtropical regions of South and [[psilocybe-southeast-asia-pacific]], the Pacific Islands,
 and East Africa. The practice of chewing betel nut -- typically
 combined with betel leaf (Piper betle), slaked lime (calcium hydroxide),
 and sometimes tobacco -- is one of the most widespread psychoactive
@@ -112,4 +112,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

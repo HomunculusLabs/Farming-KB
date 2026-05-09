@@ -1,5 +1,5 @@
 ---
-title: "GMO (Cannabis Strain)"
+title: "GMO (blesching-cannabis-strain-selection-receptor-targeting)"
 created: 2026-04-28
 type: strain
 tags:
@@ -31,7 +31,7 @@ The strain has earned a devoted following among medical patients seeking potent 
 
 | Parent | Type | Contribution |
 |--------|------|-------------|
-| **Girl Scout Cookies (GSC)** | Indica-dominant hybrid (OG Kush × Durban Poison) | Sweet, earthy base notes; high resin production; indica body effects |
+| **Girl Scout Cookies (GSC)** | Indica-dominant hybrid (OG Kush × Durban Poison) | Sweet, earthy base notes; high [[cannabis-glandular-trichome-types-resin-production-clarke]]; indica body effects |
 | **Chemdawg** | Balanced hybrid (Nigerian × Thai landrace × Chemdog lineage) | Diesel, chemical pungency; potency; complex terpene depth |
 
 - **Genetic ratio:** Approximately 90% indica / 10% sativa
@@ -99,11 +99,11 @@ The caryophyllene-dominant profile is unusual and directly responsible for the g
 
 ## Medical Applications
 
-- **Chronic pain:** Strong analgesic properties; effective for neuropathic and musculoskeletal pain
+- **[[cannabis-chronic-pain-management]]:** Strong analgesic properties; effective for neuropathic and musculoskeletal pain
 - **Insomnia:** One of the most effective strains for sleep induction in high-THC indica category
 - **Stress and anxiety:** Potent anxiolytic effects at moderate doses; may worsen anxiety at very high doses
 - **Muscle spasms:** Significant muscle-relaxant properties
-- **Nausea and appetite loss:** Stimulates appetite effectively (antiemetic)
+- **[[cannabis-for-nausea-and-appetite-stimulation]] loss:** Stimulates appetite effectively (antiemetic)
 - **PTSD:** Some patients report relief from intrusive thoughts and hyperarousal
 
 ## Side Effects
@@ -119,10 +119,10 @@ The caryophyllene-dominant profile is unusual and directly responsible for the g
 - **Yield:** Moderate to high; 350–500 g/m² indoors; 400–600 g/plant outdoors
 - **Difficulty:** Moderate; requires attention to humidity (dense buds prone to mold/bud rot)
 - **Climate preference:** Warm, dry Mediterranean climate preferred; keep humidity below 50% in late flowering
-- **Indoor considerations:** Strong odor control essential; carbon filtration mandatory
+- **Indoor considerations:** Strong [[cannabis-odor-control-and-carbon-filters]] essential; carbon filtration mandatory
 - **Training:** Responds well to LST, ScROG, and topping; develops heavy lateral branches
 - **Nutrient needs:** Heavy feeder during flowering; responds well to phosphorus and potassium supplementation
-- **Pest resistance:** Moderate; dense foliage requires good airflow management
+- **[[cannabis-disease-pest-resistance-breeding-clarke]]:** Moderate; dense foliage requires good airflow management
 - **Ideal harvest window:** When 70–80% of trichomes are milky with some amber
 
 ## Notable Phenotypes and Crosses

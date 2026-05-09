@@ -4,12 +4,13 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fruit-tree, orchard, agriculture, pruning, cultivation, techniques, plant-growth, species]
-sources: []
+sources:
+  sources: []
 ---
 
 # Grafting Fruit Trees
 
-Grafting is the art of joining two plants together so they grow as one. In fruit tree production, the scion (top portion) provides the desired fruit variety while the rootstock (bottom portion) provides disease resistance, size control, and soil adaptation. Grafting is essential for reproducing named fruit varieties that do not come true from seed.
+Grafting is the art of joining two plants together so they grow as one. In fruit tree production, the scion (top portion) provides the desired [[old-fruit-variety-selection]] while the rootstock (bottom portion) provides disease resistance, size control, and soil adaptation. Grafting is essential for reproducing named [[holzer-stone-fruit-varieties-and-growing]] that do not come true from seed.
 
 ## Grafting Basics
 
@@ -59,7 +60,7 @@ The whip-and-tongue is the strongest graft for joining scions and rootstocks of 
 6. **Join the pieces**: Slide the scion tongue into the rootstock tongue so they interlock. The cambium layers must align on at least one side (preferably both).
 7. **Wrap tightly**: Begin wrapping below the graft union, working upward. Overlap each wrap by half. Cover the entire cut surface. Use parafilm or grafting tape.
 8. **Seal**: Apply grafting wax to any exposed cut surfaces. If using parafilm, the wrap alone is often sufficient.
-9. **Heal**: Keep grafted trees at 50-65°F in a humid environment (callus formation). A cold frame, unheated greenhouse, or refrigerator drawer works. Graft union heals in 2-4 weeks.
+9. **Heal**: Keep grafted trees at 50-65°F in a humid environment (callus formation). A cold frame, [[coleman-unheated-greenhouse-design]], or refrigerator drawer works. Graft union heals in 2-4 weeks.
 
 ### Best Timing
 
@@ -89,7 +90,7 @@ Cleft grafting is used to topwork established trees (changing the variety) or wh
 
 ## Bud Grafting (T-Budding)
 
-T-budding uses a single bud from the scion variety, inserted under the bark of the rootstock. It is the most efficient method for large-scale nursery production and works well during the active growing season.
+T-budding uses a single bud from the scion variety, inserted under the bark of the rootstock. It is the most efficient method for large-scale nursery production and works well during the active [[savory-growing-season-and-non-growing-season-management]].
 
 ### Steps
 
@@ -134,5 +135,5 @@ T-budding uses a single bud from the scion variety, inserted under the bark of t
 
 - [[pruning-fruit-trees]] for training grafted trees
 - [[plant-propagation-methods]] for other propagation techniques
-- [[fruit-tree-pruning]] for orchard management
+- [[fruit-tree-pruning]] for [[fukuoka-orchard-management-detailed]]
 - [[orchard-management]] for comprehensive fruit tree care

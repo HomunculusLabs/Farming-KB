@@ -11,9 +11,9 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Semple, J.C. et al. (1999). "Solidago." In Flora of North America North of Mexico, Vol. 20. Oxford University Press.
+  - Semple, J.C. et al. (1999). "Solidago." In Flora of psilocybin-north-america-pacific-northwest North of Mexico, Vol. 20. Oxford University Press.
   - USDA NRCS (2024). "Solidago odora Ait." PLANTS Database. https://plants.usda.gov
-  - Moerman, D.E. (1998). *Native American Ethnobotany*. Timber Press.
+  - Moerman, D.E. (1998). *[[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany*. Timber Press.
   - Cullina, W. (2000). *The New England Wild Flower Society Guide to Growing and Propagating Wildflowers*. Houghton Mifflin.
 ---
 
@@ -21,7 +21,7 @@ sources:
 
 **Solidago odora**, commonly known as anise-scented goldenrod, sweet goldenrod, or blue mountain tea, is a rhizomatous perennial herb in the family Asteraceae. It is native to the eastern and central United States, where it occurs in dry, open woodlands, sandy barrens, and rocky ridges.
 
-The species is distinguished from other goldenrods by the anise-like fragrance of its crushed leaves and its slender, wand-like inflorescences. This characteristic aroma has made it one of the most historically significant goldenrods in North American herbal medicine.
+The species is distinguished from other goldenrods by the anise-like fragrance of its crushed leaves and its slender, wand-like inflorescences. This characteristic aroma has made it one of the most historically significant goldenrods in [[growing-gourmet-north-american-reishi-species]] herbal medicine.
 
 S. odora was adopted as the state wildflower of Delaware in 2019, recognizing its ecological importance and cultural heritage. It is valued in horticulture for its compact form, pleasant scent, and attractiveness to pollinators.
 
@@ -37,7 +37,7 @@ Plants grow 40 to 100 centimeters tall from a short, branching rhizome. Stems ar
 
 Leaves are alternate, lanceolate to narrowly elliptic, 5 to 12 centimeters long and 0.5 to 2 centimeters wide, with serrate margins. The foliage is notably thin-textured and translucent when held against light, a useful field character.
 
-Crushed leaves emit a strong, sweet fragrance reminiscent of anise or licorice, caused by the presence of methyl chavicol (estragole) and related volatile compounds in the leaf tissues.
+Crushed leaves emit a strong, sweet fragrance reminiscent of anise or licorice, caused by the presence of methyl chavicol (estragole) and related [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] in the leaf tissues.
 
 The inflorescence is a narrow, paniculate array of small flower heads along the upper portion of the stem. Individual heads are about 3 to 4 millimeters across, with 6 to 12 yellow ray florets and 3 to 8 disk florets.
 
@@ -85,7 +85,7 @@ The tea was traditionally consumed both hot and cold, with honey added to mask a
 
 Contemporary herbalists occasionally recommend S. odora as a milder alternative to other Solidago species in urinary tract preparations, though this usage is not supported by clinical trials.
 
-The essential oil obtained by steam distillation of the flowering tops has been investigated for its aromatic and potential therapeutic properties, though commercial production is limited.
+The essential oil obtained by [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] of the flowering tops has been investigated for its aromatic and potential therapeutic properties, though commercial production is limited.
 
 Yield of dried herb is approximately 200 to 400 grams per square meter when harvested at peak bloom.
 
@@ -99,13 +99,13 @@ The pollen of S. odora is moderately heavy and not readily wind-dispersed, contr
 
 The seeds provide food for sparrows, juncos, and other ground-feeding birds through autumn and winter. The dense, low foliage offers cover for small mammals and ground-nesting insects.
 
-In ecological restoration, S. odora is included in native meadow and woodland edge seed mixes for dry, sandy sites. Its drought tolerance and ability to persist on nutrient-poor soils make it a reliable component of sustainable landscapes.
+In ecological restoration, S. odora is included in native meadow and woodland edge seed mixes for dry, sandy sites. Its [[dighton-fungal-drought-tolerance-plant-water-relations]] and ability to persist on nutrient-poor soils make it a reliable component of sustainable landscapes.
 
 The species is one of the last goldenrods to bloom in the fall, providing a critical nectar bridge for migrating monarch butterflies and late-season bumble bee queens preparing for overwintering.
 
 ## See Also
 
-- [[solidago-virgaurea]]
+- solidago-virgaurea
 - [[echinacea-purpurea]]
 - [[achillea-millefolium]]
 - [[coreopsis-lanceolata]]

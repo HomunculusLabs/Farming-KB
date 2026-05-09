@@ -1,5 +1,5 @@
 ---
-title: 'How Do I Grow Vanilla at Home?'
+title: 'How Do I query how do i grow vanilla at home at Home?'
 tags: [vanilla, orchid, home-growing, greenhouse, tropical-plants, indoor-gardening, curing, FAQ]
 created: 2026-05-03
 updated: 2026-05-03
@@ -12,12 +12,12 @@ sources:
   - https://www.britannica.com/plant/vanilla
 type: query
 ---
-# How Do I Grow Vanilla [[vanilla-planifolia]] ([[biodiversity-fungi-endophytes-tropical-plants]] for companion species with similar requirements.
+# How Do I Grow Vanilla [[vanilla-planifolia]] (biodiversity-fungi-endophytes-tropical-plants for companion species with similar requirements.
 
 ## What kind of soil/potting mix?
 
-Vanilla is an epiphytic orchid—**never use standard potting soil**. Use a loose, well-draining mix of medium-grade orchid bark (60%), perlite or pumice (20%), and sphagnum moss or coco coir (20%). A blend suited for orchid care works perfectly. Ensure the pot has excellent drainage; sitting in water causes rapid [[cannabis-root-rot-prevention-and-treatment]] for treatment details.
-- **Pests:** Mealybugs, scale, and spider mites are the usual suspects. Treat with neem oil or insecticidal soap.
+Vanilla is an epiphytic orchid—**never use standard potting soil**. Use a loose, well-draining mix of medium-grade orchid bark (60%), perlite or pumice (20%), and sphagnum moss or [[comparison-coco-coir-cannabis-vs-peat-free-gardening]] (20%). A blend suited for orchid care works perfectly. Ensure the pot has excellent drainage; sitting in water causes rapid [[cannabis-root-rot-prevention-and-treatment]] for treatment details.
+- **Pests:** Mealybugs, scale, and [[cervantes-spider-mites-identification-control]] are the usual suspects. Treat with [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] or insecticidal soap.
 
 ## What varieties are best [[query-what-are-the-best-mushrooms-for-beginners-to-grow]], best bean production. Start here.
 - **Vanilla × tahitensis** (Tahitian vanilla): More compact, fruitier flavor, harder to source.
@@ -33,11 +33,11 @@ Yes, with care. In USDA zones 9b–10, vanilla can grow outdoors in a sheltered,
 
 Use a balanced orchid fertilizer (e.g., 20-20-20) diluted to half strength:
 
-- **Growing season (spring–fall):** Feed every 2 weeks.
+- **[[savory-growing-season-and-non-growing-season-management]] (spring–fall):** Feed every 2 weeks.
 - **Rest period (winter):** Feed once per month or stop entirely.
 - Switch to a bloom booster (higher phosphorus, like 10-30-20) in late winter to encourage flowering.
 
-Flush with plain water monthly to prevent salt buildup. See fertilizing orchids for details.
+Flush with plain water monthly to prevent [[cervantes-salt-buildup-leaching-management]]. See fertilizing orchids for details.
 
 ## How do I overwinter vanilla?
 
@@ -58,6 +58,7 @@ Flush with plain water monthly to prevent salt buildup. See fertilizing orchids 
 ❌ **Don't:** Place in full direct sun, cold drafts, or over-fertilize.
 
 Growing vanilla is a marathon, not a sprint. With consistent care and realistic expectations, it's one of the most fascinating indoor gardening projects you can undertake.
+
 ## Practical Considerations
 
 Successful implementation of How Do I Grow Vanilla at Home? requires attention to
@@ -76,4 +77,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

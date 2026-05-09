@@ -25,7 +25,7 @@ Dodonaea viscosa, commonly known as hop bush or sticky hop bush, is a widespread
 
 It is native to a vast geographic range spanning Africa, Asia, Australia, and the Pacific Islands, as well as parts of the Americas.
 
-The species is remarkably versatile, valued in traditional medicine, land rehabilitation, erosion control, and as a source of dye and fuelwood.
+The species is remarkably versatile, valued in traditional medicine, land rehabilitation, [[permplant-willows-salix-erosion-control-fodder]], and as a source of dye and fuelwood.
 
 Its common name derives from the hop-like appearance of its papery, winged fruits, which superficially resemble the cones of Humulus lupulus.
 
@@ -60,7 +60,7 @@ The plant has a dense, bushy habit with multiple erect or spreading branches ari
 
 Leaves are simple, alternate, lanceolate to linear-lanceolate, 4–12 cm long and 0.5–2 cm wide, with entire margins.
 
-The leaf surface is viscid and resinous, especially when young, with a characteristic sticky texture that distinguishes it from related species.
+The [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is viscid and resinous, especially when young, with a characteristic sticky texture that distinguishes it from related species.
 
 Leaf color ranges from bright green to yellowish-green or greyish-green depending on the subspecies and growing conditions.
 
@@ -96,7 +96,7 @@ In India and Pakistan, the species is used in Ayurvedic and Unani medicine for t
 
 Pharmacological studies have confirmed anti-inflammatory, analgesic, antimicrobial, and antioxidant activities in leaf and stem extracts.
 
-Key bioactive compounds include diterpenoids (dodonaeic acids), flavonoids (vitexin, isovitexin), and saponins.
+Key [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include diterpenoids (dodonaeic acids), flavonoids (vitexin, isovitexin), and saponins.
 
 Antimicrobial activity has been demonstrated against both Gram-positive and Gram-negative bacteria, including some antibiotic-resistant strains.
 
@@ -104,9 +104,9 @@ Antimicrobial activity has been demonstrated against both Gram-positive and Gram
 
 Dodonaea viscosa is increasingly recognized as a valuable species for ecological restoration and permaculture systems.
 
-Its deep root system and drought tolerance make it excellent for erosion control on degraded hillsides and mine rehabilitation sites.
+Its deep root system and [[dighton-fungal-drought-tolerance-plant-water-relations]] make it excellent for erosion control on degraded hillsides and mine rehabilitation sites.
 
-The plant establishes readily from direct seeding and shows rapid early growth, quickly providing ground cover on disturbed soils.
+The plant establishes readily from [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] and shows rapid early growth, quickly providing ground cover on disturbed soils.
 
 As a windbreak, D. viscosa provides effective shelter for more sensitive understory plantings in exposed sites.
 
@@ -114,7 +114,7 @@ It serves as a nurse plant, creating favorable microclimates for the establishme
 
 The species is fire-adapted, resprouting vigorously after burning, making it suitable for fire-prone landscape management.
 
-It can fix nitrogen indirectly through associations with mycorrhizal fungi, improving soil fertility on degraded sites.
+It can fix nitrogen indirectly through associations with [[arbuscular-mycorrhizal-fungi-biology-symbiosis]], improving soil fertility on degraded sites.
 
 The colorful fruits and dense foliage provide habitat and food for birds, while the foliage supports various butterfly and moth larvae.
 

@@ -1,5 +1,5 @@
 ---
-title: Cannabis Seed Selection and Seed Banks - Greg Green's Cannabis Grow Bible
+title: Cannabis cannabis-seed-selection-and-strain-types and Seed Banks - Greg Green's green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible
 created: 2026-04-26
 tags:
   - cannabis-seeds
@@ -17,7 +17,7 @@ type: concept
 # Cannabis Seed Selection and Seed Banks
 
 Greg Green's Cannabis Grow Bible devotes Chapter 2 to the critical topic
-of choosing seeds and selecting a reputable seed bank. Selecting the
+of [[solomon-choosing-seeds-and-catalogs]] and selecting a reputable seed bank. Selecting the
 right seeds is one of the most important decisions a grower makes, as
 genetics fundamentally determine the potential of every plant.
 
@@ -84,7 +84,7 @@ planning your grow:
 
 - Germination: 1 to 2 weeks
 - Seedling stage: 2 to 3 weeks
-- Vegetative growth: 3 weeks to several months (grower controlled)
+- [[cannabis-vegetative-growth-stage]]: 3 weeks to several months (grower controlled)
 - Pre-flowering: 1 to 2 weeks
 - Flowering: 6 to 10 weeks (strain dependent)
 
@@ -100,7 +100,7 @@ plant is not pollinated, it continues to produce resin and pistils in an
 effort to catch pollen, resulting in bigger and more potent buds.
 
 Seeded buds are less potent because the plant diverts energy away from
-resin production and into seed development. The sinsemilla technique is
+[[cannabis-glandular-trichome-types-resin-production-clarke]] and into seed development. The sinsemilla technique is
 the single most important factor in producing high-quality cannabis.
 
 ## Producing Your Own Seeds
@@ -119,7 +119,7 @@ works well enough. Pollen can also be stored in the freezer for up to
 
 ## Growing Factors
 
-When choosing seeds, consider your growing environment:
+When choosing seeds, consider your [[cannabis-growing-environment-setup]]:
 
 - Indoor space constraints favor Indica-dominant strains.
 - Outdoor grows can accommodate taller Sativa plants.

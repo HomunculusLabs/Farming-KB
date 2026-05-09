@@ -77,7 +77,7 @@ Small coherent precipitates are sheared by dislocations through chemical (new in
 
 **Anisotropy**: direction-dependent yield and r-value (Lankford coefficient r = ε_width/ε_thickness). High r >> 1 resists thinning (good for deep drawing). Elastic anisotropy: FCC (Zener ratio A ≈ 1), BCC (A ≈ 2–3 for Fe), HCP (highly anisotropic).
 
-**CPFEM**: crystal plasticity [[finite-element-method]] method incorporating orientation and slip physics: dγ^α/dt = γ̇₀|τ^α/τ_c^α|^(1/m)sign(τ^α), with hardening matrix h_αβ coupling slip systems (self = 1, latent q ≈ 1.0–1.4). **VPSC models** treat grains as ellipsoidal inclusions in a homogeneous effective medium for efficient texture simulation.
+**CPFEM**: crystal plasticity  method incorporating orientation and slip physics: dγ^α/dt = γ̇₀|τ^α/τ_c^α|^(1/m)sign(τ^α), with hardening matrix h_αβ coupling slip systems (self = 1, latent q ≈ 1.0–1.4). **VPSC models** treat grains as ellipsoidal inclusions in a homogeneous effective medium for efficient texture simulation.
 
 ## Dislocation Density Evolution and GNDs
 

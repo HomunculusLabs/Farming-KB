@@ -20,7 +20,7 @@ The genus Amanita contains some of the most recognizable, most beautiful, and
 most deadly mushrooms in the world. With approximately 600 described species,
 Amanita is one of the largest genera of agarics and includes species of
 enormous ecological, cultural, and medical importance. Members of this genus
-range from the deadly death cap and destroying angel to the iconic fly agaric,
+range from the deadly death cap and [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]] to the iconic fly agaric,
 perhaps the most depicted mushroom in human art and folklore.
 
 ## Taxonomic Features
@@ -41,20 +41,20 @@ cases of misidentification and fatal poisoning.
 
 Most Amanita species are ectomycorrhizal, forming symbiotic associations with
 the roots of trees. Different species show preferences for different tree
-partners. Amanita muscaria (the fly agaric) is commonly associated with
+partners. [[allegro-amanita-muscaria-properties-and-pharmacology]] (the fly agaric) is commonly associated with
 birch and pine, while Amanita phalloides (the death cap) forms associations
 with oaks and other hardwoods.
 
 These mycorrhizal relationships mean that Amanita species are generally found
 growing in forests or near trees, and their distribution is closely tied to
 the distribution of their tree partners. The introduction of Amanita phalloides
-to regions outside its native European range, including North America and
+to regions outside its native European range, including [[psilocybin-north-america-pacific-northwest]] and
 Australia, has been facilitated by the planting of European tree species with
 which the fungus can form mycorrhizal associations.
 
 ## The Death Cap (Amanita phalloides)
 
-Amanita phalloides is responsible for the majority of mushroom poisoning
+Amanita phalloides is responsible for the majority of [[european-mushroom-poisoning-history]]
 deaths worldwide. The cap is typically olive-green to yellowish, 5 to 15
 centimeters in diameter, with a smooth surface that may bear remnants of
 the white universal veil. The gills are white and crowded, the stalk is
@@ -91,7 +91,7 @@ because they can be confused with several edible white species.
 
 Young specimens of destroying angels, before the cap has expanded, are
 especially hazardous because they can resemble the immature "button" stage
-of edible mushrooms. The white gills, white stalk, and partial veil are
+of [[palmer-edible-mushrooms-north-america]]. The white gills, white stalk, and partial veil are
 features shared with many harmless species, and only careful examination of
 the volva at the base reveals the mushroom's true identity.
 
@@ -111,7 +111,7 @@ simply too great to justify the risk.
 
 Beyond their toxicological significance, Amanita species play important
 ecological roles as mycorrhizal partners of forest trees. They contribute
-to nutrient cycling by decomposing organic matter and transferring minerals
+to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by decomposing organic matter and transferring minerals
 from soil to their tree partners. Their fruiting bodies provide food for
 various insects and other invertebrates, and some mammals can consume
 toxic Amanita species without apparent harm.

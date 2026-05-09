@@ -21,7 +21,7 @@ created: 2026-04-28
 
 # Salvia hispanica
 
-Salvia hispanica, commonly known as chia, is an annual herbaceous plant in the mint family (Lamiaceae) cultivated for its hydrophilic seeds that are exceptionally rich in omega-3 fatty acids, dietary fiber, and protein.
+Salvia hispanica, commonly known as chia, is an annual herbaceous plant in the mint family (Lamiaceae) cultivated for its hydrophilic seeds that are exceptionally rich in omega-3 [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]], dietary fiber, and protein.
 
 Native to central and southern Mexico and Guatemala, chia was a staple crop of pre-Columbian Mesoamerican civilizations, valued by the Aztecs and Maya as a food, medicine, and religious offering.
 
@@ -57,7 +57,7 @@ Optimal growing conditions include 500–1500 mm annual rainfall, mean temperatu
 
 The species is drought-tolerant once established but is sensitive to frost and waterlogging. Daylength sensitivity (short-day photoperiod response) limits cultivation to tropical and subtropical latitudes.
 
-Commercial cultivation now occurs in Mexico, Argentina, Bolivia, Peru, Ecuador, Australia, and parts of Central America.
+Commercial cultivation now occurs in Mexico, Argentina, Bolivia, Peru, Ecuador, Australia, and parts of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]].
 
 ## Nutritional Composition
 
@@ -66,7 +66,7 @@ Chia seeds are notable for their exceptionally high alpha-linolenic acid (ALA) c
 - **Omega-3 fatty acids (ALA):** 17.8–20.3 g per 100 g dry weight
 - **Omega-6 fatty acids (LA):** 5.8–7.0 g per 100 g
 - **Dietary fiber:** 34–40 g per 100 g (of which 85–93% is insoluble fiber)
-- **Protein:** 16–19 g per 100 g, with a favorable amino acid profile
+- **Protein:** 16–19 g per 100 g, with a favorable [[cho-fish-amino-acid-preparation]] profile
 - **Calcium:** 500–630 mg per 100 g (comparable to dairy milk per calorie)
 - **Iron:** 7.7–15.6 mg per 100 g
 - **Antioxidants:** Chlorogenic acid, caffeic acid, flavonols, and myricetin
@@ -95,18 +95,20 @@ Seed maturity occurs 120–150 days after planting, with harvest when approximat
 
 Average yields range from 600–1200 kg/ha under rain-fed conditions, with irrigated commercial operations achieving 1500–2500 kg/ha.
 
-Pest pressure is generally low, though aphids and whiteflies can affect plants during vegetative growth. No major diseases significantly impact commercial chia production.
+Pest pressure is generally low, though aphids and whiteflies can affect plants during [[cannabis-vegetative-growth-stage]]. No major diseases significantly impact commercial chia production.
 
 The crop fits well in rotation with legumes and cereals in tropical farming systems, contributing to biodiversity on smallholder farms.
 
 ## Related Species
 
-- **Salvia columbariae** — Desert chia, native to the southwestern United States and northern Mexico, smaller seeds.
+- **Salvia columbariae** — Desert chia, native to the southwestern [[dmt-containing-plants-united-states-halpern]] and northern Mexico, smaller seeds.
 - **Salvia polystachya** — Wild chia of central Mexico, closely related and occasionally cultivated.
 - **Salvia officinalis** — Common sage, European culinary herb in the same genus.
 - **Salvia miltiorrhiza** — Danshen, Traditional Chinese Medicine species used for cardiovascular conditions.
 
 ## See Also
+
+- [[salvia-sclarea]]
 
 - [[ocimum-basilicum]]
 - [[mentha-piperita]]

@@ -1,5 +1,5 @@
 ---
-title: Core Endorhiza Bacterial Community Composition in Cannabis
+title: Core core endorhiza bacterial community composition cannabis Community Composition in Cannabis
 tags:
   - cannabis
   - microbiome
@@ -47,7 +47,7 @@ Its low-level presence in living plants may represent genuine endophytic coloniz
 
 The family Oxalobacteraceae (order Burkholderiales, class Betaproteobacteria) was a consistent core component. Members are common in soil and rhizosphere environments, and some species degrade oxalic acid.
 
-Oxalic acid is a compound produced by many plants that can be toxic at elevated concentrations. This detoxification service may be particularly relevant for cannabis, as calcium oxalate crystals are common in cannabis tissues.
+Oxalic acid is a compound produced by many plants that can be toxic at elevated concentrations. This detoxification service may be particularly relevant for cannabis, as [[fungal-calcium-oxalate-crystals]] crystals are common in cannabis tissues.
 
 Oxalate-degrading endophytes could prevent crystal formation and associated cellular damage in root tissues, explaining their consistent selection across all cultivars through the [[two-tier-selection-model]]. This enrichment suggests the endorhiza environment selectively favors actinomycete traits such as filamentous growth aiding tissue colonization.
 
@@ -65,7 +65,7 @@ The most significant individual OTU shift was the decrease in Acidobacteria from
 
 Of the 51 OTUs significantly differentiating sample types, 17 increased in abundance within the endorhiza relative to the rhizosphere. These were predominantly Proteobacteria from the Rhizobiales order.
 
-Mean abundance correlations declined progressively across compartments: bulk soil to rhizosphere (Pearson rho: 0.92), rhizosphere to endorhiza (rho: 0.63), bulk soil to endorhiza (rho: 0.42). This declining correlation mirrors the alpha diversity gradient.
+Mean abundance correlations declined progressively across compartments: bulk soil to rhizosphere (Pearson rho: 0.92), rhizosphere to endorhiza (rho: 0.63), bulk soil to endorhiza (rho: 0.42). This declining correlation mirrors the alpha [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]].
 
 ## Core Versus Cultivar-Specific Communities
 
@@ -77,17 +77,17 @@ Cultivars modulate abundances within the existing soil-derived community rather 
 
 ## Functional Implications for Cultivation
 
-The core endorhiza community provides multiple simultaneous services. Pseudomonas contributes siderophore production, pathogen suppression, and growth promotion. Oxalobacteraceae provides oxalate detoxification.
+The core endorhiza community provides multiple simultaneous services. Pseudomonas contributes [[singh-fungal-siderophore-production-iron-acquisition]], pathogen suppression, and growth promotion. Oxalobacteraceae provides oxalate detoxification.
 
 Actinomycetales contribute antibiotic production and polymer degradation. Xanthomonadaceae contribute nutrient cycling and stress tolerance. Sphingobacteriales contribute carbohydrate degradation.
 
-This functionally diverse consortium addresses multiple plant needs simultaneously. Understanding core taxa functions and their interactions with cultivar-specific members could guide bioinoculant development for cannabis cultivation.
+This functionally diverse consortium addresses multiple plant needs simultaneously. Understanding core taxa functions and their interactions with cultivar-specific members could guide bioinoculant development for [[query-how-does-no-till-cannabis-cultivation-work]].
 
 Core community inoculants would provide baseline benefits across cultivars, while cultivar-specific additions could optimize performance for particular genetic backgrounds. The challenge lies in developing formulations that include core organisms capable of colonizing all cannabis genotypes while also including cultivar-specific components that are only beneficial for targeted cultivars.
 
 ## Limitations of Current Knowledge
 
-The core community was defined based on 16S rRNA gene sequencing from five cultivars grown in California soils. Broader sampling across different geographic regions, soil types, and cultivation methods (indoor, outdoor, greenhouse) would test whether this core is truly universal or represents a regional subset.
+The core community was defined based on 16S rRNA gene sequencing from five cultivars grown in California soils. Broader sampling across different geographic regions, soil types, and [[synthetic-log-cultivation-methods-guide]] (indoor, outdoor, greenhouse) would test whether this core is truly universal or represents a regional subset.
 
 Functional characterization of the core taxa through culture-dependent isolation and gnotobiotic experiments would move beyond correlative observations to demonstrate the specific benefits each taxon provides to cannabis plants.
 

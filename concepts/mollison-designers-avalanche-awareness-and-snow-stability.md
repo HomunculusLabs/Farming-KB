@@ -1,5 +1,5 @@
 ---
-title: Mollison Designers Avalanche Awareness And Snow Stability
+title: Mollison mollison designers avalanche awareness and snow stability Awareness And Snow Stability
 created: 2026-04-26
 tags:
   - permaculture
@@ -20,8 +20,8 @@ In steep cold-country landscapes, avalanches represent one of the
 most dramatic and dangerous natural forces that designers must
 account for. Mollison devotes significant attention in the cool
 humid climates chapter to the physics, indicators, and preventive
-strategies for avalanche management. Settlement design, road
-placement, and forest management all must integrate avalanche
+strategies for avalanche management. [[cool-climate-settlement-design-mollison]], road
+placement, and [[mollison-pdc-forest-management-products]] all must integrate avalanche
 awareness to protect human life and infrastructure.
 
 ## When Avalanches Occur
@@ -123,8 +123,11 @@ set of strategies:
 A new threat follows on the death of steep slope forests by acid
 rain damage, which removes the natural stabilising effect of tree
 cover. [[mollison-designers-snow-ice-and-winter-design-strategies]],
-[[mollison-settlement-siting-on-slopes-and-landscape-profile]].
+mollison-settlement-siting-on-slopes-and-landscape-profile.
 
 ## See Also
 
-- [[mollison-designers-introduction-to-permaculture-philosophy]]
+- mollison-designers-introduction-to-permaculture-philosophy
+- [[mollison-designers-snow-ice-and-winter-design-strategies]]
+- [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]]
+- [[mollison-designers-lime-and-cement-natural-building]]

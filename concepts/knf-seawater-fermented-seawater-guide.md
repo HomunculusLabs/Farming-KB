@@ -1,5 +1,5 @@
 ---
-title: Korean Natural Farming Seawater and Fermented Seawater
+title: Korean comparison-natural-farming-vs-permaculture cho-seawater-and-fermented-seawater Seawater
 created: 2026-04-14
 updated: 2026-04-18
 type: concept
@@ -21,7 +21,7 @@ The key minerals in seawater for agricultural purposes include magnesium (essent
 
 1. **Complete mineral supplementation:** Provides a full spectrum of minerals that may be deficient in depleted soils
 2. **Improves crop quality:** Minerals contribute to better taste, texture, nutritional value, and shelf life of produce
-3. **Enhances disease resistance:** Well-nourished plants with balanced minerals are more resistant to pests and diseases
+3. **Enhances disease resistance:** Well-nourished plants with balanced minerals are more resistant to [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]
 4. **Livestock supplement:** When added to drinking water, supports animal health and productivity
 
 ## Raw Seawater Usage
@@ -42,7 +42,7 @@ See also [[knf-mineral-liquid]], [[knf-water-soluble-calcium]], and [[cucurbita-
 
 - [[knf-seawater-and-fermented-seawater]], [[kombucha-and-fermented-teas-guide]], [[fermented-hot-sauce-guide]], [[knf-fpj-ratio-guide]], [[knf-indigenous-microorganism-culture]] that solubilize phosphorus, fix nitrogen, and decompose organic matter. This dual feeding action — minerals for the plant and minerals for the microbial workforce — is why seawater applications often produce visible improvements in plant vigor that cannot be replicated by adding individual mineral salts.
 
-Dr. Maynard Murray's pioneering research in "Sea Energy Agriculture" (1976) demonstrated that crops grown with sea minerals showed significantly lower pest and disease pressure compared to conventionally fertilized controls. He attributed this to the complete mineral spectrum enabling plants to synthesize full complements of defensive compounds — a finding consistent with both KNF practice and [[knf-imo-four-stage-cultivation]] is introduced, lactic acid bacteria and yeast populations proliferate, partially chelating the mineral ions and producing organic acids, vitamins, and growth-promoting substances. This biological transformation makes the minerals more readily absorbable by plant roots and leaf surfaces compared to raw seawater. The fermentation process also reduces the sodium chloride concentration relative to other minerals through selective microbial uptake and precipitation, slightly improving the mineral balance for agricultural use.
+Dr. Maynard Murray's pioneering research in "Sea Energy Agriculture" (1976) demonstrated that crops grown with sea minerals showed significantly lower [[hamilton-pest-and-disease-control-organic]] pressure compared to conventionally fertilized controls. He attributed this to the complete mineral spectrum enabling plants to synthesize full complements of defensive compounds — a finding consistent with both KNF practice and [[knf-imo-four-stage-cultivation]] is introduced, lactic acid bacteria and yeast populations proliferate, partially chelating the mineral ions and producing organic acids, vitamins, and growth-promoting substances. This biological transformation makes the minerals more readily absorbable by plant roots and leaf surfaces compared to raw seawater. The fermentation process also reduces the sodium chloride concentration relative to other minerals through selective microbial uptake and precipitation, slightly improving the [[holmgren-mineral-balance-soil-fertility]] for agricultural use.
 
 Quality indicators for finished fermented seawater include a sweet-sour aroma (indicating active lactic acid fermentation), absence of putrid or alcoholic odors (which signal contamination), and a slightly viscous consistency from microbial exopolysaccharides. A pH of approximately 3.5-4.5 indicates successful fermentation. If the preparation develops a white surface mold film, it should be discarded and remade, as this indicates dominance by undesirable aerobic fungi over the intended lactic acid bacteria.
 ## Practical Considerations
@@ -61,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

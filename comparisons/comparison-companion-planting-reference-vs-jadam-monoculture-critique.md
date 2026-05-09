@@ -1,10 +1,11 @@
 ---
-title: "Companion Planting vs Monoculture"
+title: "comparison companion planting reference vs jadam monoculture critique vs Monoculture"
 created: 2026-04-28
 tags: [comparison, planting-strategy, permaculture, organic-gardening, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 # Companion Planting vs Monoculture
@@ -31,13 +32,13 @@ cycle. The deeper roots reach, the more mineral supply is brought to the
 surface. That is how forests become greener and healthier over time.
 The problem with human monoculture, according to JADAM, is not the
 single-species planting itself but the removal of crop residues that breaks the
-mineral cycle. After harvesting fruits, humans typically eliminate all remaining
+[[savory-mineral-cycle-management]]. After harvesting fruits, humans typically eliminate all remaining
 crop residues (stems, leaves, roots), effectively exporting the soil's mineral
-wealth with each harvest. The nutritional balance of crop residue is perfectly
+wealth with each harvest. The [[jadam-nutritional-balance-fertilizer]] of crop residue is perfectly
 suited to the same crop that produced it, making it the ideal fertilizer. JADAM
 argues that the conventional recommendation to destroy all crop residues because
 they harbor disease organisms is misguided, since these pathogens are ubiquitous
-in soil and impossible to eradicate. Instead, disease prevention should focus on
+in soil and impossible to eradicate. Instead, [[cervantes-pest-disease-prevention-overview]] should focus on
 maintaining microbial diversity in the soil so that no single pathogen can
 establish dominance.
 JADAM draws an analogy with athlete's foot: people who walk barefoot never
@@ -46,14 +47,14 @@ microorganisms that prevent any single fungus from dominating. The same
 principle applies to farming: when soil hosts a rich diversity of bacteria,
 fungi, and other microorganisms, no single pathogen can gain the upper hand.
 JADAM has documented numerous case studies on its website where farmers resolved
-supposed "monoculture disorder" in peppers, strawberries, and fruit trees simply
+supposed "[[jadam-monoculture-disorder-crop-residues]]" in peppers, strawberries, and fruit trees simply
 by returning crop residues to the soil instead of removing and burning them.
 ## Key Differences
 | Aspect | Companion Planting | Monoculture (JADAM approach) |
 |--------|-------------------|------------------------------|
 | Biodiversity | High (multiple species interplanted) | Low (single species) |
 | Pest management | Biological (diverse plant defenses) | Microbial diversity in soil |
-| Nutrient cycling | Shared between species (N fixation) | Closed loop via residue return |
+| [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] | Shared between species (N fixation) | Closed loop via residue return |
 | Planning complexity | High (combinations, timing, spacing) | Low (single crop management) |
 | Scalability | Garden to small diversified farm | Any scale |
 | Equipment efficiency | Lower (different crops, different needs) | High (uniform crop, uniform treatment) |
@@ -92,6 +93,9 @@ could have marigold borders for nematode control, basil interplanted at row
 ends, and a diverse hedgerow of insectary plants (yarrow, dill, fennel) around
 the perimeter. This maintains the equipment and harvesting efficiency of
 ## See Also
+
+- [[comparison-companion-planting-vs-green-manure]]
+- [[comparison-monoculture-vs-polyculture]]
 - [[comparison-companion-planting-vs-polyculture]]
 - [[comparison-polyculture-vs-intercropping]]
 - [[comparison-living-mulch-vs-cover-crops]]

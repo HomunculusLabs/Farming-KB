@@ -1,6 +1,6 @@
 ---
-title: Psilocybin Synthesis via Zwitterionic Intermediate
-aliases: [[psilocybin-chemical-synthesis]], zwitterionic phosphate intermediate]
+title: psilocin-psilocybin-synthesis-shirota via psilocybin-synthesis-zwitterionic-intermediate-filtration-method
+aliases: psilocybin-chemical-synthesis, [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]] intermediate]
 tags: [chemistry, synthesis, psilocybin, tryptamines, organic chemistry]
 sources:
   - concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
@@ -39,7 +39,7 @@ is added all at once. Stirring continues for 1 hour while the temperature
 is allowed to warm to 0 degrees Celsius.
 
 After checking for the production of the dibenzyl-protected intermediate
-(compound 7), aminopropyl silica gel is added to the reaction mixture. The
+(compound 7), aminopropyl [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] is added to the reaction mixture. The
 mixture is diluted with ethyl acetate and filtered through a Celite pad.
 The filtrate is concentrated, redissolved in dichloromethane, and stored
 overnight.
@@ -96,7 +96,7 @@ provides a simple and elegant purification method.
 
 ## Final Deprotection to Psilocybin
 
-Catalytic hydrogenolysis of the zwitterionic intermediate (compound 8) using
+[[shirota-catalytic-hydrogenolysis-debenzylation-psilocybin]] of the zwitterionic intermediate (compound 8) using
 palladium on carbon in methanol at room temperature led to psilocybin
 (compound 2) as a crystalline product without any chromatographic
 purification. The isolated yield from psilocin was greater than 72%, even
@@ -120,6 +120,10 @@ C12H18N2O4P.
 
 This synthesis established a practical route to gram-scale psilocybin
 production without chromatographic purification, addressing a significant
-need for analytical standard compounds in forensic and regulatory contexts.
+need for analytical [[shirota-forensic-standard-compounds-magic-mushroom-identification]] in forensic and regulatory contexts.
 The discovery of the zwitterionic N,O-dibenzyl phosphate intermediate was
 an unexpected finding that was fully characterized by 2D NMR analyses.
+## See Also
+- [[psilocin]]
+- [[psilocin-synthesis-4-hydroxyindole-to-psilocin]]
+- [[intramolecular-benzyl-migration-zwitterionic-phosphate-psilocybin-synthesis]]

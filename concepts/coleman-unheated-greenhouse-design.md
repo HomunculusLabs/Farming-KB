@@ -1,8 +1,8 @@
 ---
-title: Unheated Greenhouse Design and Construction
+title: coleman unheated greenhouse design Design and Construction
 created: 2026-04-26
 tags: [greenhouse-design, unheated-greenhouse, hoop-house, high-tunnel, eliot-coleman]
-sources: The Winter Harvest Handbook, Eliot Coleman (2009)
+sources: The coleman-claytonia-winter-harvest-cultivation Handbook, Eliot Coleman (2009)
 type: concept
 updated: 2026-04-26
 ---
@@ -77,7 +77,7 @@ The 22 x 48 foot houses use shorter lengths dictated by end-wall ventilation nee
 
 Gothic-style (pointed-arch) hoop design is preferred over Quonset (half-circle) profiles because the gothic shape sheds snow and rain more effectively. In climates with significant snowfall, this is critical — snow loads can collapse flatter structures. The pointed arch also provides greater headroom at the sides of the tunnel, making it easier to work near the edges of the growing beds.
 
-Corner diagonal bracing on the shorter houses provides lateral stability during moves and under wind loads. Crossbars on each hoop serve a dual purpose: preventing splaying during moves and providing overhead structure for trellising tomatoes, cucumbers, and other vining crops during the summer growing season.
+Corner diagonal bracing on the shorter houses provides lateral stability during moves and under wind loads. Crossbars on each hoop serve a dual purpose: preventing splaying during moves and providing overhead structure for trellising tomatoes, cucumbers, and other vining crops during the summer [[savory-growing-season-and-non-growing-season-management]].
 
 ## Plastic Replacement and Maintenance
 
@@ -97,12 +97,14 @@ The key insight is that cold-hardy vegetables do not need warm temperatures — 
 
 ## Integration with the Winter Harvest System
 
-The greenhouse design is inseparable from the winter-harvest philosophy. The structures are sized, oriented, and covered specifically to support the three-component system: cold-hardy vegetables, succession planting, and protected cultivation. The mobility option further enhances the system by allowing soil recovery, green manure cropping, and pest/disease prevention on a two-year cycle.
+The greenhouse design is inseparable from the winter-harvest philosophy. The structures are sized, oriented, and covered specifically to support the three-component system: cold-hardy vegetables, [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]], and protected cultivation. The mobility option further enhances the system by allowing soil recovery, green manure cropping, and pest/[[cervantes-pest-disease-prevention-overview]] on a two-year cycle.
 
-The minimal technology approach extends to all aspects of the design: no automated ventilation, no heating systems, no complicated heat-storage apparatus. The goal is the lowest-tech, most economical path to year-round vegetable production.
+The minimal technology approach extends to all aspects of the design: no automated ventilation, no heating systems, no complicated heat-storage apparatus. The goal is the lowest-tech, most economical path to year-round [[dry-gardening-unirrigated-vegetable-production-solomon]].
 
 ## See Also
 
+- [[coleman-greenhouse-ventilation-design]]
+
 - [[coleman-winter-harvest-philosophy]] — The movable greenhouse concept
-- [[coleman-greenhouse-soil-management]] — Soil preparation for greenhouse growing
+- coleman-greenhouse-soil-management — Soil preparation for greenhouse growing
 - [[coleman-cold-hardy-varieties]] — Crops suited to unheated winter production

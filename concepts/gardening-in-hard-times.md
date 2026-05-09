@@ -21,23 +21,23 @@ sources:
 
 # Gardening in Hard Times
 
-Strategies for productive vegetable gardening when resources — water, fertilizer, money, energy — are limited or uncertain. Based primarily on Steve Solomon's "Gardening When It Counts."
+Strategies for productive [[home-vegetable-garden-planning]] when resources — water, fertilizer, money, energy — are limited or uncertain. Based primarily on Steve Solomon's "Gardening When It Counts."
 
 ## The Problem with Modern Gardening
 
-Modern intensive gardening methods (raised beds, close spacing, frequent watering) have a hidden dependency:
+Modern [[solomon-wide-spacing-versus-intensive-gardening-debate]] methods (raised beds, close spacing, frequent watering) have a hidden dependency:
 
 - **Raised beds need constant watering** — they drain faster than in-ground beds
 - **Close spacing demands constant fertility inputs** — more plants per area = more nutrients removed
 - **Drip irrigation requires infrastructure** — pumps, filters, tubing, timers
-- **Transplant production needs supplies** — potting mix, trays, grow lights, heat mats
+- **Transplant production needs supplies** — [[solomon-potting-mix-and-seedling-soil-recipe]], trays, grow lights, heat mats
 
 When these inputs become expensive or unavailable, intensive gardens fail. Solomon advocates for **low-input, wide-spacing gardening** that produces more food per unit of effort and cost.
 
 ## Low-Input Gardening Principles
 
 ### 1. Wide Spacing
-- Space plants 2-4x wider than intensive methods recommend
+- Space plants 2-4x wider than [[row-gardening-vs-intensive-methods-solomon]] recommend
 - Each plant has more root space to forage for water and nutrients
 - Plants develop deeper, more drought-resistant root systems
 - Less total water needed per unit of food produced
@@ -96,10 +96,10 @@ In areas with >20 inches of annual rainfall, it's possible to garden without irr
 2. **Use mulch** — 4-6 inches of organic mulch dramatically reduces evaporation
 3. **Choose appropriate crops** — drought-adapted varieties
 4. **Wide spacing** — reduces competition for limited water
-5. **Build soil organic matter** — each 1% OM increases water-holding by ~20,000 gal/acre
+5. **Build soil [[hamilton-composting-and-organic-matter-management]]** — each 1% OM increases water-holding by ~20,000 gal/acre
 
 ### Graywater Use
-- Divert washing machine, shower, and sink water to garden
+- Divert [[cervantes-washing-machine-hash]], shower, and sink water to garden
 - Use biodegradable soap only
 - Apply through mulch basin, not directly on foliage
 - See [[homestead-water-systems]] for details

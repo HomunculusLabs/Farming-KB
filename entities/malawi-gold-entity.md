@@ -20,13 +20,13 @@ sources:
 
 # Malawi Gold
 
-**Malawi Gold** is a pure sativa landrace cannabis strain originating from the
+**Malawi Gold** is a pure sativa [[cervantes-landrace-cannabis-populations]] strain originating from the
 Shire Highlands and Lake Malawi region of Malawi, southeastern Africa. It is
-one of the most legendary and genetically significant African landrace strains,
+one of the most legendary and genetically significant African [[sativa-landrace-strains-and-geographic-origins]],
 renowned for its exceptionally long flowering period, potent cerebral effects,
 and role as foundational breeding stock for numerous modern hybrids. Alongside
 Thai, Colombian, and Afghan landraces, Malawi Gold is considered one of the
-four pillars of classical cannabis genetics.
+four pillars of classical [[vic-high-cannabis-genetics-mendelian-inheritance]].
 
 ## Lineage and Genetics
 
@@ -34,7 +34,7 @@ Malawi Gold is a pure landrace variety with no documented hybridization until
 modern times. It has been cultivated by Malawian farmers for centuries,
 gradually adapted to the local climate and selected for potency through
 traditional seed-saving practices. The strain belongs to the narrow-leaflet
-drug-type (NLD) chemotype classification, expressing high THC and typically
+drug-type (NLD) [[cannabis-chemotype-classification-cannabinoid-breeding]], expressing high THC and typically
 negligible CBD.
 
 Genetic analysis places Malawi Gold in the "Flat" clade of African cannabis
@@ -118,7 +118,7 @@ fermentation, producing a distinctive dark, potent product.
 
 In temperate climates, the long flowering period requires early indoor
 germination (February-March) for outdoor harvest before October frost, or
-full indoor cultivation. Yields are moderate to high (400-600 g/m² indoor)
+full [[cannabis-sativa-indoor-cultivation-techniques]]. Yields are moderate to high (400-600 g/m² indoor)
 with aggressive training (LST, SCROG) to manage height.
 
 ## Medical Applications
@@ -127,7 +127,7 @@ The high THC, low CBD profile limits formal medical applications but anecdotal
 reports indicate utility for:
 
 - Treatment-resistant depression (euphoric and motivating effects)
-- Chronic fatigue and daytime fatigue disorders
+- [[cannabis-chronic-fatigue-research]] and daytime fatigue disorders
 - ADHD symptom management (focus-enhancing at moderate doses)
 - Appetite suppression (unusual for cannabis; attributed to THCV content)
 - PTSD (reported therapeutic introspective qualities at ceremonial doses)
@@ -140,6 +140,9 @@ Malawi Gold has been used extensively as breeding stock:
 - **Chocolope** — Malawi Gold × Chocolate Thai (DNA Genetics)
 ## See Also
 
+- [[oner-sativa-landrace-preservation]]
+
 - [[cannabis-sativa]] — Species-level overview of sativa cannabis
-- [[thai-stick-entity]] — Southeast Asian landrace with similar flowering traits
+- thai-stick-entity — Southeast Asian landrace with similar flowering traits
 - [[purple-haze]] — Landrace hybrid central to modern sativa genetics
+- [[4-ho-dpt-entity-tihkal]]

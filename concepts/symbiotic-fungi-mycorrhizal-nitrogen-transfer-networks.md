@@ -17,7 +17,7 @@ sources: [raw/papers/symbiotic-fungi.md]
 
 # Mycorrhizal Nitrogen Transfer Networks
 
-Source: Symbiotic Fungi (Varma and Kharkwal, eds.), Chapters 4, 17
+Source: [[mycelium-running-symbiotic-fungi-relationships]] (Varma and Kharkwal, eds.), Chapters 4, 17
 
 ## Introduction
 
@@ -78,7 +78,7 @@ particularly in N-limited habitats.
 - Difficult to demonstrate plant-to-plant N transfer through CMNs alone
 - May demonstrate magnitude of 15N fractionations during long-term N translocation
 
-Nitrogen has two stable isotopes:
+Nitrogen has two [[gadd-stable-isotopes-saprotrophic-fungi]]:
 
 - 14N: 99.6337% of atmospheric N
 - 15N: 0.3663% of atmospheric N

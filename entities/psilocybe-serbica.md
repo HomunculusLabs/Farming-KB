@@ -16,7 +16,7 @@ sources:
   - Borovička, J. et al. (2012). "Photosymbiontic diversity in
     Psilocybe." Mycological Progress, 14(2), 1–16.
   - Noordeloos, M.E. et al. (1999). "Monograph of Psilocybe."
-    Fungal Diversity Press.
+    [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] Press.
 ---
 
 # Psilocybe serbica
@@ -58,7 +58,7 @@ work confirmed *P. serbica* as a distinct lineage within the
 - **Flesh:** Thin, whitish; bruises distinctly blue to blue-green,
   especially at stipe base — strong and rapid blueing is a reliable
   field character
-- **Spore print:** Dark purple-brown
+- **[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Dark purple-brown
 - **Spores:** (10)11–14 × 7–8.5 µm, ellipsoid, thick-walled,
   with germ pore; Q = 1.4–1.7
 - **Cheilocystidia:** Ventricose to lageniform, 15–30 × 5–8 µm,
@@ -112,14 +112,14 @@ though baeocystin pharmacology remains poorly characterized.
 - **Humidity:** 85–95% for primordia and fruiting
 - **Difficulty:** Moderate — cool fruiting requires temperature-
   controlled chambers
-- **Yield:** Biological efficiency 30–50% on supplemented sawdust
+- **Yield:** [[stamets-biological-efficiency-yield]] 30–50% on [[oyster-mushroom-supplemented-sawdust-blocks]]
 
 ## Ecological Role
 
 *P. serbica* is a primary decomposer of hardwood lignocellulose
 in temperate montane forests. Its preference for beech positions
-it as a significant agent of woody debris decomposition in Central
-European mountain ecosystems, contributing to nutrient cycling
+it as a significant agent of [[fungal-succession-woody-debris-ecology]] decomposition in Central
+European mountain ecosystems, contributing to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 by breaking down recalcitrant wood components.
 
 ## Similar Species

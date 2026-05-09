@@ -1,11 +1,12 @@
 ---
-title: Natural Livestock Integration Philosophy
+title: Natural faires-livestock-integration-permaculture Philosophy
 created: 2026-04-18
 updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Natural Livestock Integration Philosophy
@@ -18,7 +19,7 @@ Fukuoka's vision for livestock farming stands in stark opposition to modern conc
 
 The caloric inefficiency of modern livestock farming makes it destructive:
 
-- **Broilers**: 50% energy efficiency (output vs input)
+- **Broilers**: 50% [[fukuoka-textdoc-energy-efficiency-agricultural-labor]] (output vs input)
 - **Pork**: 20% efficiency
 - **Milk**: 15% efficiency
 - **Beef**: 8% efficiency
@@ -55,7 +56,7 @@ Raising large numbers of genetically improved Holstein cows and beef cattle in i
 
 In his idealized vision of livestock farming, Fukuoka described:
 
-> Bees busily making the rounds of clover and vegetable blossoms thickly flowering beneath trees laden heavy with fruit; semi-wild chickens and rabbits frolicking with dogs in fields of growing wheat, and great numbers of ducks and mallards playing in the rice paddy; at the foot of the hills and in the valleys, black pigs and boars grow fat on worms and crayfish, and from time to time goats peer out from the thickets and trees.
+> Bees busily making the rounds of clover and vegetable blossoms thickly flowering beneath trees laden heavy with fruit; semi-wild chickens and rabbits frolicking with dogs in fields of growing wheat, and great numbers of ducks and mallards playing in the [[fukuoka-textdoc-creating-rice-paddy-natural-methods]]; at the foot of the hills and in the valleys, black pigs and boars grow fat on worms and crayfish, and from time to time goats peer out from the thickets and trees.
 
 This scene represents an organic partnership between man, animal, and nature — an environment comfortable for small animals is also an ideal setting for man.
 
@@ -92,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

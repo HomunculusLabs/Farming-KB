@@ -1,5 +1,5 @@
 ---
-title: Psilocybin and Consciousness Expansion
+title: Psilocybin and mckenna-consciousness-expansion-and-drug-war
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Simon G. Powell's "The Psilocybin Solution" argues that psilocybin mushrooms offer a key to understanding the nature of consciousness itself. Rather than viewing altered states as aberrations, Powell positions them as natural products of the environment that can reveal fundamental truths about how the mind constructs reality.
+Simon G. Powell's "The [[powell-psilocybin-solution-ecological-cognition-theory]]" argues that [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] offer a key to understanding the nature of consciousness itself. Rather than viewing [[weil-the-natural-mind-altered-states-normalcy]] as aberrations, Powell positions them as natural products of the environment that can reveal fundamental truths about how the mind constructs reality.
 
 ## The Mutability of Consciousness
 
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

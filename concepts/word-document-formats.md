@@ -1,5 +1,5 @@
 ---
-title: word document formats
+title: microsoft-word-document-format-history formats
 created: 2026-04-28
 tags:
   - microsoft-word
@@ -120,7 +120,7 @@ the rendering of floating objects and text wrapping. Converting a document
 from Compatibility Mode to full .docx mode can cause reflow that changes
 page count, particularly in long documents with complex formatting.
 
-Format conversion between .docx and other formats is handled by built-in
+[[document-format-conversion-fidelity]] between .docx and other formats is handled by built-in
 converters in Word and by third-party libraries. Word's built-in PDF export
 uses a high-fidelity rendering engine that maps OOXML formatting to PDF
 structures, though complex layouts involving floating objects and automatic

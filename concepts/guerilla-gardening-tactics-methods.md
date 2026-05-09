@@ -1,5 +1,5 @@
 ---
-title: Guerilla Gardening Tactics and Methods
+title: Guerilla guerilla gardening tactics methods and Methods
 created: 2026-04-28
 tags: [urban-permaculture, guerilla-gardening, community-action, urban-agriculture]
 date: 2026-04-25
@@ -14,7 +14,7 @@ type: concept
 Guerilla gardening is the unsanctioned cultivation of plants on land that the gardener
 does not legally own or rent, including vacant lots, roadside margins, parking strips,
 railway embankments, and other neglected urban spaces. The practice merges principles
-of [[sheet-mulching]] with cardboard, newspaper, and organic matter creates new soil profiles
+of [[sheet-mulching]] with cardboard, newspaper, and [[hamilton-composting-and-organic-matter-management]] creates new soil profiles
 above contaminated substrates without requiring soil removal. Building compost from
 kitchen scraps, restaurant waste, and yard debris transforms urban waste streams into
 fertile growing medium. The key principle is working with what is available rather
@@ -24,7 +24,7 @@ than purchasing inputs.
 One of the most elegant [[mycorrhizal-networks]].
 
 ### Seed Bombing and Direct Seeding
-Broadcasting seed in clay pellets or simple seed balls allows rapid colonization of
+Broadcasting seed in [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] or simple [[comparison-seed-balls-vs-direct-seeding]] allows rapid colonization of
 large areas with minimal soil preparation. Seeds of hardy native species, green
 manures, and food crops can be mixed with clay and compost, formed into balls, and
 scattered in accessible areas during favorable conditions. This technique works
@@ -33,7 +33,7 @@ where conventional planting is impractical. The clay protects seeds from predati
 and desiccation while the compost provides initial nutrients for germination.
 
 ### Vertical Growing and Edge Exploitation
-Cities offer extraordinary amounts of edge and vertical growing space. Balconies,
+Cities offer extraordinary amounts of edge and vertical [[cotter-growing-space-design-fruiting-rooms]]. Balconies,
 rooftops, walls, fences, and fire escapes all provide growing surfaces. urban  permaculture principles emphasize maximizing these edge effects. Tomatoes can ripen
 on rooftops, onions can frame sidewalks, and climbing plants can transform blank walls
 into productive vertical gardens. The city contains more edge than most people
@@ -54,7 +54,7 @@ of sticks and blackberries just to prove we can grow food even in really crappy 
 Guerilla gardening applies permaculture principles at the urban scale: observing
 patterns of water, sun, and human traffic; using biological resources over imported
 inputs; producing no waste by cycling urban organic matter; and valuing edge effects.
-It demonstrates that urban permaculture is not limited to private property but can
+It demonstrates that [[pdc-urban-permaculture-design-principles]] is not limited to private property but can
 extend across the entire urban landscape, transforming cities and suburbs into large
 productive gardens.
 
@@ -85,5 +85,7 @@ so valued by their communities that formal legalization follows naturally.
   abandoned rubble lots and rooftops and lawns and starting community gardens."
 
 ## See Also
+
+- [[guerilla-gardening-tactics]]
 
 - [[guerilla-gardening-guide]]

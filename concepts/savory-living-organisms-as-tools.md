@@ -1,5 +1,5 @@
 ---
-title: "Living Organisms as Tools"
+title: "savory living organisms as tools as Tools"
 created: 2026-04-28
 tags: [biological-control, succession, holistic-management, tools, ecology]
 date: 2026-04-27
@@ -10,7 +10,7 @@ type: concept
 
 # Living Organisms as Tools
 
-In holistic resource management, living organisms, from soil microorganisms to
+In [[savory-holistic-resource-management-animal-impact]] management, living organisms, from soil microorganisms to
 large game animals, serve as powerful tools for achieving landscape and
 production goals. Savory argues that the tendency to treat Earth as a machine
 rather than a living thing has blinded us to the potential of working with
@@ -57,17 +57,17 @@ microorganisms in creating an environment where his grain thrived.
 The use of biological controls in lieu of chemicals represents a generally more
 positive marriage of modern science and succession. Clear examples include
 breeding ladybugs to prey on aphids and nurturing certain bugs that eat problem
-plants. Parasites that attack fly larvae can decimate fly populations in
+plants. Parasites that attack [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]] can decimate fly populations in
 feedyards. Screw worms have been controlled through the release of sterile
 males that mate with females who then die without reproducing.
 
-When prickly pear cacti were introduced to Australia in the 1920s, they
+When [[comparison-agave-vs-prickly-pear-cultivation]] cacti were introduced to Australia in the 1920s, they
 thrived so extensively that the land was considered useless. The cost of
 removing them mechanically or chemically exceeded the land's value, so
 entomologists found a moth larvae that proved to be voracious eaters of the
 cacti. Within five years of release, the moth had destroyed the vast majority
 of the infestation. Such measures have usually proven less damaging to
-ecosystem processes than direct use of chemical poisons.
+[[fungal-ecosystem-processes-overview]] than direct use of chemical poisons.
 
 ### The Green Revolution and Its Limits
 
@@ -125,4 +125,4 @@ force it into artificial isolation.
 - [[savory-plant-succession-and-community-dynamics]]
 - [[savory-wildlife-livestock-integration]]
 
-See also: [[holistic-grazing-and-pasture-management]]
+See also: [[pasture-management-and-forage]]

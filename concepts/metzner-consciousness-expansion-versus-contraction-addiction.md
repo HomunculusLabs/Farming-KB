@@ -1,5 +1,5 @@
 ---
-title: "metzner Consciousness Expansion Versus Contraction in Addiction"
+title: "metzner mckenna-consciousness-expansion-and-drug-war Versus Contraction in Addiction"
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -12,9 +12,9 @@ sources: [raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 In his 1998 review, Ralph Metzner articulated a model of addiction and
 recovery based on the contrast between **consciousness-expanding**
 hallucinogens and **consciousness-contracting** addictive substances.
-This framework connects psychedelic therapy to the treatment of substance
+This framework connects [[metzner-psycholytic-psychedelic-therapy-models]] to the treatment of substance
 abuse and provides a theoretical basis for the observed effectiveness
-of entheogenic ceremonies in reducing addiction.
+of [[metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti]] in reducing addiction.
 
 ## Leary's Consciousness Expansion Concept
 
@@ -60,14 +60,14 @@ individual to broader possibilities for meaning and fulfillment.
 Metzner cites evidence that participation in entheogenic religious
 ceremonies is associated with reduced substance abuse:
 
-- **Native American Church**: Peyote ceremonies "tend to reduce the
+- **[[halpern-sacramental-peyote-and-native-american-church]] Church**: Peyote ceremonies "tend to reduce the
   incidence of alcoholism and drug addiction" among Native American
   populations (McClusky 1997). The NAC has served as a cultural
   bulwark against the devastating effects of alcoholism that have
   plagued many Native communities.
 
 - **Brazilian hoasca churches**: Research by Charles Grob, Dennis
-  McKenna, and others confirmed that membership in the Santo Daime,
+  McKenna, and others confirmed that membership in the [[metzner-brazilian-ayahuasca-churches-structural-comparison-santo-daime-udv-barquinha]],
   Uniao de Vegetal (UDV), and Barquinia churches and long-term
   use of ayahuasca is "associated with no adverse health effects —
   and indeed with a reduction of addictions and other
@@ -78,3 +78,7 @@ ceremonies is associated with reduced substance abuse:
 Metzner discusses [[metzner-four-paradigms-psychedelic-healing]]
 - [[entheogen-bwiti-iboga-initiation-fang-society]]
 - [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]]
+
+## See Also
+
+- [[metzner-addiction-transcendence-consciousness-expansion-as-antidote]]

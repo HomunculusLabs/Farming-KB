@@ -1,5 +1,5 @@
 ---
-title: "Golden Guide: Psilocybin Mushrooms Overview"
+title: "Golden Guide: forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc Overview"
 created: 2026-04-28
 tags: [hallucinogenic-plants, psilocybin, psilocin, mushrooms, mexico,
   mazatec, teonanacatl, stropharia, panaeolus, conocybe, agaricaceae]
@@ -17,13 +17,13 @@ Indian language. These mushrooms, all of the family Agaricaceae, are still
 valued in Mexican magic or religious rites. They belong to four genera:
 *Conocybe* and *Panaeolus*, almost cosmopolitan in their range; *Psilocybe*,
 found in North and South America, Europe, and Asia; and *Stropharia*, known
-in North America, the West Indies, and Europe.
+in [[psilocybin-north-america-pacific-northwest]], the West Indies, and Europe.
 
 ## Ancient Mushroom Worship
 
 Mushroom worship seems to have roots in centuries of native tradition.
 Mexican frescoes, going back to A.D. 300, have designs suggestive of
-mushrooms. Even more remarkable are the artifacts called mushroom stones,
+mushrooms. Even more remarkable are the artifacts called [[mckenna-mushroom-stones-of-guatemala]],
 excavated in large numbers from highland Maya sites in Guatemala and dating
 back to 1000 B.C. Consisting of a stem with a human or animal face and
 surmounted by an umbrella-shaped top, they long puzzled archaeologists. Now
@@ -40,7 +40,7 @@ mushrooms with orange stems.
 
 ## Early Spanish Accounts
 
-Early use of the sacred mushrooms is known mainly from the extensive
+Early use of the [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]] is known mainly from the extensive
 descriptions written by Spanish clerics. One chronicler, writing in the
 mid-1500s, referred frequently to those mushrooms "which are harmful and
 intoxicate like wine," so that those who eat them "see visions, feel a
@@ -79,8 +79,8 @@ intercedes with supernatural forces.
 ## Species Used
 
 Kinds of mushrooms used by different shamans are determined partly by
-personal preference and partly by the purpose of use. *Stropharia cubensis*
-and *Psilocybe mexicana* may be the most commonly employed, but half a dozen
+personal preference and partly by the purpose of use. *[[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]*
+and *[[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]* may be the most commonly employed, but half a dozen
 other species of *Psilocybe* as well as *Conocybe siliginoides* and
 *Panaeolus sphinctrinus* are also important. The native names are colorful:
 *Psilocybe aztecorum* is called "children of the waters"; *P. zapotecorum*,
@@ -126,6 +126,8 @@ psilocybin-containing mushrooms been purposefully used for ceremonial
 intoxication.
 
 ## See Also
+
+- [[psilocybin-mushrooms-new-zealand-guide]]
 
 - [[golden-guide-amanita-muscaria-and-soma]]
 - [[golden-guide-peyote-and-mescaline-cacti]]

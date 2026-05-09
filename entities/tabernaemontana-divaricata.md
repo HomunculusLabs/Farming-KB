@@ -46,7 +46,7 @@ sources:
 - *Ervatamia divaricata* (L.) Burkhill — common synonym in older botanical literature
 - *Tabernaemontana coronaria* (Willd.) — synonym in some classifications
 - **'Flore Pleno'** — double-flowered cultivar, most commonly grown ornamental form
-- **'Dwarf'** — compact cultivar reaching 0.5–1 m, popular in container gardening
+- **'Dwarf'** — compact cultivar reaching 0.5–1 m, popular in [[cervantes-container-gardening-pot-size]]
 - Over 60 cultivars have been described, varying in flower form (single, semi-double, double), petal arrangement, and growth habit
 
 ## Botanical Description
@@ -55,17 +55,17 @@ sources:
 
 ## Distribution and Habitat
 
-The species is native to India, Sri Lanka, Bangladesh, Myanmar, Thailand, and southern China. It has been widely naturalized and cultivated across tropical and subtropical regions worldwide, including the Caribbean, Pacific Islands, and parts of Africa and the Americas. In its native range, it grows in moist deciduous and semi-evergreen forests, along stream banks, and in disturbed areas at low to medium elevations (0–800 m). It thrives in well-drained, fertile soils with full sun to partial shade and is tolerant of a range of soil types including clay and limestone. The plant naturalizes readily in tropical gardens and can become somewhat weedy in favorable conditions, spreading through seed dispersal ecology and mechanisms and root suckering. In Florida and Hawaii, it has escaped cultivation and is occasionally found in disturbed habitats.
+The species is native to India, Sri Lanka, Bangladesh, Myanmar, Thailand, and southern China. It has been widely naturalized and cultivated across tropical and subtropical regions worldwide, including the Caribbean, [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], and parts of Africa and the Americas. In its native range, it grows in moist deciduous and semi-evergreen forests, along stream banks, and in disturbed areas at low to medium elevations (0–800 m). It thrives in well-drained, fertile soils with full sun to partial shade and is tolerant of a range of soil types including clay and limestone. The plant naturalizes readily in tropical gardens and can become somewhat weedy in favorable conditions, spreading through seed dispersal ecology and mechanisms and root suckering. In Florida and Hawaii, it has escaped cultivation and is occasionally found in disturbed habitats.
 
 ## Traditional Medicinal Use
 
 *T. divaricata* has been used in Ayurvedic medicine for over 2,000 years under the Sanskrit name **"tagara"** (not to be confused with *Valeriana wallichii*, also called tagara). Key traditional applications include:
 - **Pain relief:** Latex applied topically for toothache, headache, and muscular pain
 - **Wound healing:** Leaf paste and latex applied to cuts, ulcers, and skin infections
-- **Respiratory conditions:** Leaf decoction used for coughs, bronchitis, and asthma
+- **[[cannabis-respiratory-conditions]]:** Leaf decoction used for coughs, bronchitis, and asthma
 - **Fever reduction:** Root bark decoction used as an antipyretic
 - **Ophthalmic use:** Leaf juice applied for eye inflammation and conjunctivitis
-- **Gastrointestinal disorders:** Root preparations used for dysentery and abdominal pain
+- **[[blesching-cannabis-gastrointestinal-disorders]]:** Root preparations used for dysentery and abdominal pain
 - **Antidote:** Various preparations used as an antidote for snakebite and insect stings
 
 In Chinese traditional medicine, the plant is classified as cooling and bitter, used to clear heat, reduce inflammation, and promote wound healing.
@@ -83,9 +83,9 @@ The species produces a remarkably diverse alkaloid profile with over 66 alkaloid
 
 Modern research has validated several traditional uses, with pharmacological studies spanning antimicrobial, anti-inflammatory, analgesic, and anticancer activities:
 - **Analgesic and anti-inflammatory:** Coronaridine and voacangine demonstrate significant analgesic activity in rodent models (acetic acid writhing test, hot plate test), mediated through opioid and serotonergic pathways. Anti-inflammatory effects are attributed to inhibition of COX-2 and reduction of pro-inflammatory cytokines (IL-6, TNF-α).
-- **Antimicrobial:** Crude extracts and isolated alkaloids show activity against *Staphylococcus aureus*, *Escherichia coli*, *Pseudomonas aeruginosa*, and *Candida albicans*, with MIC values ranging from 32–256 µg/mL depending on the extract and organism.
+- **Antimicrobial:** Crude extracts and isolated alkaloids show activity against *Staphylococcus aureus*, *Escherichia coli*, *Pseudomonas aeruginosa*, and *[[candida-albicans]]*, with MIC values ranging from 32–256 µg/mL depending on the extract and organism.
 - **Anticancer potential:** Coronaridine, tabernanthine, and conodurine exhibit cytotoxic activity against multiple cancer cell lines including breast (MCF-7), lung (A549), and hepatocellular carcinoma (HepG2) lines, with IC50 values in the low micromolar range. Apoptosis induction occurs through caspase-3 activation and mitochondrial membrane depolarization.
-- **Antioxidant:** Methanolic leaf extracts show significant DPPH and ABTS radical scavenging activity, attributed to phenolic compounds and alkaloids. The antioxidant capacity is comparable to that of ascorbic acid at equivalent concentrations.
+- **Antioxidant:** Methanolic leaf extracts show significant DPPH and ABTS radical scavenging activity, attributed to [[ingham-tannins-terpenes-phenolic-compounds]] and alkaloids. The antioxidant capacity is comparable to that of ascorbic acid at equivalent concentrations.
 - **Antidiabetic potential:** Recent in vitro studies have demonstrated α-glucosidase and α-amylase inhibition by root bark extracts, suggesting potential utility in managing postprandial hyperglycemia.
 
 ## Toxicology and Safety
@@ -99,7 +99,7 @@ While *T. divaricata* has a long history of safe traditional use, the presence o
 
 ## Permaculture and Landscape Applications
 
-The pinwheel flower serves multiple functions in [[southeast-asian-mushroom-tourism-bali]] garden centers, with annual nursery sales estimated in the millions of plants.
+The pinwheel flower serves multiple functions in southeast-asian-mushroom-tourism-bali garden centers, with annual nursery sales estimated in the millions of plants.
 - **Pharmaceutical research:** Interest in the species' iboga-type alkaloids has driven research funding from pharmaceutical companies investigating novel anti-cancer and anti-inflammatory drug leads. Coronaridine derivatives are in preclinical evaluation at several research institutions.
 - **Traditional medicine trade:** Dried roots and root bark are sold in Ayurvedic and Siddha medicine markets across India, particularly in Tamil Nadu and Kerala. Prices range from $5–15 per kilogram depending on quality and source.
 - **Essential oil:** Steam-distilled essential oil from the flowers, though low-yield (0.1–0.3%), is used in niche perfumery for its subtle jasmine-like fragrance with green, fresh undertones.

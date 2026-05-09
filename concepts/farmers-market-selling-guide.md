@@ -1,5 +1,5 @@
 ---
-title: Farmers Market Selling Guide
+title: Farmers farmers market selling guide Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Farmers Market Selling Guide
 
-Farmers markets are the primary sales channel for homestead-scale producers. They offer direct consumer access, premium pricing, and community building. Success requires preparation, presentation, and relationship skills. This guide covers booth setup, display, pricing, licensing, and sales techniques.
+Farmers markets are the primary sales channel for homestead-scale producers. They offer direct consumer access, premium pricing, and [[urban-permaculture-community-building-social-design]]. Success requires preparation, presentation, and relationship skills. This guide covers booth setup, display, pricing, licensing, and sales techniques.
 
 ## Getting Started
 
@@ -92,7 +92,7 @@ Check your state's cottage food law for specifics -- see homestead tax planning 
 ### The Power of Samples
 - Cut fruit for sampling with toothpicks
 - Bread slices with butter or jam
-- Hot sauce with crackers
+- [[fermented-hot-sauce-guide]] with crackers
 - Samples increase sales 20-40%
 - Have napkins, toothpicks, and a trash container
 - Check market rules on sampling (some require permits)
@@ -109,11 +109,11 @@ Check your state's cottage food law for specifics -- see homestead tax planning 
 | Item | Price Range |
 |---|---|
 | Vegetables (per lb) | $3-6 |
-| Salad mix (per bag) | $4-7 |
+| [[coleman-baby-leaf-salad-mix-quality-standards]] (per bag) | $4-7 |
 | Pasture eggs (dozen) | $5-9 |
 | Grass-fed ground beef (lb) | $8-12 |
 | Grass-fed steaks (lb) | $15-25 |
-| Sourdough bread (loaf) | $6-12 |
+| [[query-how-to-make-sourdough-bread-at-home]] (loaf) | $6-12 |
 | Dried herbs (1oz) | $3-6 |
 | Hot sauce (5oz) | $7-12 |
 | Jam/jelly (8oz) | $6-9 |
@@ -140,33 +140,11 @@ Check your state's cottage food law for specifics -- see homestead tax planning 
 
 ### Educating Customers
 - Recipe cards with market purchases
-- Cooking tips and storage advice
-- Explain why your products cost more (grass-fed, organic, hand-harvested)
-- Customers who understand your methods become advocates
-
-## Sales Tips
-
-- Arrive early for setup (1-2 hours before market opens)
-- Stay until official close (latecomers are often buyers)
-- Smile, make eye contact, greet everyone
-- Stand up and stay engaged (sitting behind a table creates distance)
-- Keep your booth tidy throughout the day
-- Track sales by item to identify best sellers
-- Accept SNAP/EBT if the market offers it (many provide token systems)
-- Partner with complementary vendors: bread + jam, meat + vegetables
-
-## Record Keeping
-
-- Track daily sales by product (spreadsheet or app)
-- Record weather, customer count, and notes
-- Calculate revenue per hour (market time + prep + travel)
-- Use data to decide which markets and products are most profitable
-- Keep receipts for all market expenses (booth fees, supplies, equipment)
-
-Farmers market success builds the foundation for [[online-homestead-sales]] and supports the broader [[csa-farm-share-model]] approach to homestead revenue.
-
 ## Related
 
 - [[online-homestead-sales]]
 
-See also: [[community-food-systems-and-csa-farms]]
+See also: community-economics-in-permaculture
+- [[comparison-pepper-growing-guide-vs-tomato-growing-guide]]
+## See Also
+- [[permaculture]]

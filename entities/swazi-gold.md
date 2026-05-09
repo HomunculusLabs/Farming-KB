@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-Swazi Gold is a pure sativa landrace cannabis strain originating from the mountainous regions of Swaziland (now Eswatini) in southern Africa.
+Swazi Gold is a pure sativa [[cervantes-landrace-cannabis-populations]] strain originating from the mountainous regions of Swaziland (now Eswatini) in southern Africa.
 
 The strain is considered one of the foundational African landraces and has contributed genetics to numerous modern hybrid cultivars.
 
@@ -32,13 +32,13 @@ Swazi Gold is a pure landrace with no documented hybridization in its native ran
 
 It belongs to the narrow-leaflet drug-type (NLDT) chemotype associated with tropical and subtropical African cannabis populations.
 
-Genetic analysis places it within the southern African cannabis gene pool, distinct from both South Asian and Central Asian lineages.
+Genetic analysis places it within the southern African cannabis [[cannabis-gene-pool-preservation-acclimatization-clarke]], distinct from both South Asian and Central Asian lineages.
 
 The strain has been used as a parent in crosses with Asian and Afghan varieties to create hybrids with improved flowering times.
 
 Notable descendants include various "Swazi" crosses and African sativa hybrids developed by Dutch seed companies in the 1990s and 2000s.
 
-Its genetics have also contributed to breeding programs in Thailand, Jamaica, and Brazil through international seed exchange.
+Its genetics have also contributed to breeding programs in Thailand, Jamaica, and Brazil through [[fukuoka-oil-companies-international-seed-war]] exchange.
 
 ## Appearance
 
@@ -114,5 +114,5 @@ Side effects may include dry mouth, dry eyes, anxiety in sensitive individuals, 
 - [[chemdawg]]
 - [[purple-haze]]
 - [[jack-herer]]
-- [[gelato-cannabis]]
+- [[gelato]]
 - [[runtz-entity]]

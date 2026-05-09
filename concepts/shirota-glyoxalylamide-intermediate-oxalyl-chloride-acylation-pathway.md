@@ -2,7 +2,7 @@
 
 ## Overview
 In the 2003 paper by Shirota, Hakamata, and Goda describing the concise
-large-scale synthesis of psilocin and psilocybin, the glyoxalylamide
+large-scale synthesis of [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]], the glyoxalylamide
 intermediate (compound 6) represents a critical step in the synthetic
 sequence from 4-hydroxyindole to psilocin. This intermediate is formed through
 a two-step acylation-amidation conversion starting from 4-acetylindole (compound
@@ -64,7 +64,7 @@ handling before the next synthetic step.
 ### Contrast with the Benzyl Route
 The authors note that the 4-O-benzyl derivative of 4-hydroxyindole was
 "somewhat unstable, without careful control of the reaction conditions, and
-was not isolated in crystal form." The acetyl protection route avoids these
+was not isolated in crystal form." The [[shirota-4-hydroxyindole-acetyl-protection-experimental]] route avoids these
 problems, producing stable crystalline intermediates at each step. This
 practical advantage was a primary factor in the selection of the acetyl
 protection strategy over the benzyl alternative.
@@ -113,7 +113,7 @@ high-yielding, contributing to the overall practicality of the synthesis.
 ## Scale Considerations
 
 ### Gram-Scale Production
-The synthesis was demonstrated on gram scale (80 mmol of compound 6, yielding
+The synthesis was demonstrated on [[shirota-gram-scale-chromatography-free-psilocybin-synthesis]] (80 mmol of compound 6, yielding
 14.3 g of psilocin at 87.5% yield). The use of filtration-based isolation at
 each step makes the synthesis readily scalable, as filtration is a standard
 industrial operation that can be performed at any scale without the
@@ -126,6 +126,8 @@ times 80% for step 2 times 85% for step 3 times approximately 100% for step 4
 This represents a significant improvement over previously reported syntheses.
 
 ## See Also
+
+- [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]]
 - [[shirota-psilocin-psilocybin-synthesis-from-4-hydroxyindole]]
 - [[shirota-oxalyl-chloride-glyoxalylamide-crystallization-psilocin-route]]
-- [[shirota-4-hydroxyindole-starting-material-synthesis]]
+- shirota-4-hydroxyindole-starting-material-synthesis

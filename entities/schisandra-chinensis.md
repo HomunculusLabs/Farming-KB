@@ -101,7 +101,7 @@ Additional: organic acids (citric, malic, tartaric), vitamins C/E, trace volatil
 ## Pharmacology
 **Hepatoprotective:** Schisandrol B and schisandrin enhance hepatic glutathione and activate Nrf2/ARE signaling. Protect against CCl₄, acetaminophen, and ethanol-induced injury by reducing lipid peroxidation and stabilizing hepatocyte membranes.
 
-**Antioxidant:** DBCOD lignans scavenge ROS (superoxide, hydroxyl radicals). Schisandrin increases mitochondrial glutathione redox status and enhances SOD, catalase, GPx activity.
+**Antioxidant:** DBCOD lignans scavenge ROS (superoxide, hydroxyl radicals). Schisandrin increases mitochondrial [[one-carbon-metabolism-vs-glutathione-redox-biology]] status and enhances SOD, catalase, GPx activity.
 
 **Anti-inflammatory:** Schisandrin and schisantherin A suppress NF-κB and MAPK pathways, reducing TNF-α, IL-6, IL-1β via IκB kinase inhibition.
 
@@ -109,3 +109,7 @@ Additional: organic acids (citric, malic, tartaric), vitamins C/E, trace volatil
 - [[herbal-materia-medica]]
 - schisandra sphenanthera — Southern Schisandra, related medicinal species
 - [[rhodiola-rosea]] — Arctic root, comparative adaptogenic profile
+
+## See Also
+
+- [[schisandra-sphenanthera]]

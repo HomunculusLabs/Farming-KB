@@ -1,5 +1,5 @@
 ---
-title: "3-TASB (3-THIOASYMBESCALINE;) -- PIHKAL Entry #146"
+title: "3-TASB (3-THIOASYMBESCALINE;) -- 2c-b-pihkal-entry-20 #146"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -105,9 +105,11 @@ anhydrous Et2O was placed in a He atmosphere, well stirred, and cooled
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
+
+- [[5-tasb-entity-pihkal]]
 
 - [[4-tasb-entity-pihkal]]
 

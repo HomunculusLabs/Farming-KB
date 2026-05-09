@@ -1,6 +1,6 @@
 # Soil Food Web and Building Living Soil
 
-The soil food web is the vast community of organisms living in soil — from bacteria and fungi to earthworms and beetles — that drives nutrient cycling, decomposes organic matter, and builds the fertile, structured soil that plants depend on.
+The soil food web is the vast community of organisms living in soil — from bacteria and fungi to earthworms and beetles — that drives [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], decomposes [[hamilton-composting-and-organic-matter-management]], and builds the fertile, structured soil that plants depend on.
 
 Understanding and supporting this living system is one of the core principles of [[elaine-ingham]], founder of Soil Foodweb Inc, calls these subsurface swarms "microherds" — a fitting name for the grazing, migrating, cycling communities that transform dead matter into living fertility.
 
@@ -30,11 +30,11 @@ The fate of a falling leaf illustrates the elegant, multi-stage process by which
 
 First, a leaf falls to the ground, initially too dry for most decomposers to colonize. Dew and rain gradually leach out protective polyphenols and other defensive compounds the tree produced while the leaf was alive.
 
-Once sufficiently moistened, bacteria bloom across the leaf surface. They secrete enzymes that tear apart cell wall sugars and soluble compounds. This bacterial bloom is rapid and dense, drawing nitrogen and other nutrients from the surrounding soil to fuel reproduction.
+Once sufficiently moistened, bacteria bloom across the [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]]. They secrete enzymes that tear apart cell wall sugars and soluble compounds. This bacterial bloom is rapid and dense, drawing nitrogen and other nutrients from the surrounding soil to fuel reproduction.
 
 ### Stage Two: Fungal Colonization
 
-Next, wind-borne [[cation-exchange-capacity]] makes humus a natural nutrient reservoir. It slowly releases minerals as plant roots demand them through proton exchange, acting as a time-release fertilizer maintained entirely by biological processes.
+Next, wind-borne [[cation-exchange-capacity]] makes humus a natural [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]]. It slowly releases minerals as plant roots demand them through proton exchange, acting as a time-release fertilizer maintained entirely by biological processes.
 
 ### Humus and Soil Structure
 
@@ -58,9 +58,9 @@ The remaining 98 percent was recycled back into the system through biological de
 
 ### The Agricultural Contrast
 
-By contrast, conventional agricultural land typically loses 25 to 60 percent of its calcium and other nutrients annually through leaching, erosion, and harvest removal. Nature achieves near-complete recycling efficiency through diverse, multi-layered biological systems, while simplified human systems hemorrhage nutrients and rely on external inputs to compensate.
+By contrast, conventional [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] typically loses 25 to 60 percent of its calcium and other nutrients annually through leaching, erosion, and harvest removal. Nature achieves near-complete recycling efficiency through diverse, multi-layered biological systems, while simplified human systems hemorrhage nutrients and rely on external inputs to compensate.
 
-Those external inputs — synthetic fertilizers, mined minerals, transported compost — are energetically expensive and ecologically disruptive. They address the symptom (nutrient deficiency) while undermining the cause (biological nutrient cycling).
+Those external inputs — synthetic fertilizers, mined minerals, transported compost — are energetically expensive and ecologically disruptive. They address the symptom ([[cannabis-grow-nutrient-deficiency-problem-solving]]) while undermining the cause (biological nutrient cycling).
 
 The lesson for permaculture designers is clear. Building living soil is not an optional enhancement — it is the foundation upon which productive, resilient, self-maintaining landscapes are built. Feed the soil food web, and it will feed everything else.
 ## Practical Considerations
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: ALEPH-2 - PIHKAL Entry #4 Compound Profile
+title: ALEPH-2 - 2c-b-pihkal-entry-20 #4 Compound Profile
 created: 2026-04-26
 updated: 2026-04-22
 sources: PIHKAL Entry #4
@@ -66,7 +66,7 @@ Synthesized from 2,5-dimethoxy-4-(ethylthio)benzaldehyde (see [[aleph-7-pihkal-e
 - Long duration (8-16 hours) requires full-day planning.
 - Muscular tremor, shakes, and tooth-rubbiness are common even as effects diminish.
 - Driving is absolutely contraindicated even in the apparent absence of visual effects.
-- The [[harm-reduction-guide]] for general psychedelic safety principles.
+- The [[harm-reduction-guide]] for general psychedelic [[shulgin-safety-principles-self-experimentation]].
 - The [[pihkal-cautionary-note-and-legal-context]] for jurisdictional status.
 
 ## See Also
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

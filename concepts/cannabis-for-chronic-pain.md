@@ -1,5 +1,5 @@
 ---
-title: Cannabis for Chronic Pain
+title: Cannabis for cannabis-chronic-pain-management
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -55,7 +55,7 @@ Chronic pain is the most common reason patients use medical cannabis, and it has
 
 ## Key Terpenes for Pain
 - **Myrcene**: Muscle relaxant, sedative (found in indica strains)
-- **Beta-caryophyllene**: Anti-inflammatory, CB2 agonist (found in black pepper, cannabis)
+- **Beta-caryophyllene**: Anti-inflammatory, CB2 agonist (found in [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], cannabis)
 - **Pinene**: Anti-inflammatory, bronchodilator
 - **Linalool**: Analgesic, anxiolytic (found in lavender, cannabis)
 
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

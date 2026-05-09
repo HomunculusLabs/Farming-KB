@@ -33,7 +33,7 @@ sources:
 **6. Root Layer (Rhizosphere) — 0–2+ meters deep**
 - Edible root crops and tuberous perennials
 - Species: Potatoes (in early succession), yacon, oca, mashua, groundnut (*[[stropharia-rugosoannulata]]*), shiitake on logs, oyster mushrooms, king stropharia in mulch paths, chanterelles (long-term)
-- Function: Decomposition, nutrient cycling, mycorrhizal networks connecting plants, additional food yield
+- Function: Decomposition, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], [[dighton-mycorrhizal-networks-carbon-transfer]] connecting plants, additional food yield
 
 **9. Aquatic/Wetland Layer**
 - Ponds, swales, and boggy areas integrated into the design
@@ -45,7 +45,7 @@ sources:
 ### Succession-Based Establishment
 Food forests are established using **accelerated natural succession**, progressing through stages:
 
-1. ** pioneer/ground prep** (Year 0–1): Sheet mulching, nitrogen-fixing cover crops, initial soil building
+1. ** pioneer/ground prep** (Year 0–1): [[comparison-sheet-mulching-vs-chop-and-drop-mulching]], nitrogen-fixing cover crops, initial soil building
 2. **Herb/shrub establishment** (Year 1–3): Plant shrubs, herbaceous perennials, and initial support trees
 3. **Canopy gap dynamics** (Year 3–7): Fruit trees begin producing; understory fills in
 4. **Mature food forest** (Year 7–20+): Full canopy closure, self-regulating system, peak yields
@@ -53,10 +53,10 @@ Food forests are established using **accelerated natural succession**, progressi
 ### Guild Design
 Species are grouped into **functional guilds** — plant communities that support each other through:
 
-- **Nitrogen fixation:** Leguminous plants (clover, lupine, eleagnus, seaberry) add atmospheric nitrogen to soil
-- **Dynamic accumulators:** Deep-rooted plants (comfrey, dandelion, chicory, yarrow) mine subsoil minerals
+- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]:** Leguminous plants (clover, lupine, eleagnus, seaberry) add atmospheric nitrogen to soil
+- **[[comparison-dynamic-accumulators-vs-cover-crops]]:** Deep-rooted plants (comfrey, dandelion, chicory, yarrow) mine subsoil minerals
 - **Pest confusers:** Aromatic plants (alliums, mints, tansy, nasturtium) mask crop scents from pests
-- **Pollinator attractors:** Flowering plants across the season to support beneficial insects
+- **Pollinator attractors:** Flowering plants across the season to support [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 - **Mulch producers:** Plants that generate biomass for sheet mulching (comfrey, cardoon, clover)
 - **Habitat plants:** Provide shelter and food for predatory insects, birds, and amphibians
 

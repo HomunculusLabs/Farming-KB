@@ -3,32 +3,13 @@ title: Cattail
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[permaculture, design]
+tags: [permaculture, design]
 sources: [papers/a-selection-permaculture-plants.md]
 ---
+Updated: 2026-04-18 Cattails (Typha spp.) are among the most versatile perennial water plants. All parts are edible, and the plants can be woven into useful items. They grow worldwide and are excellent for wetland zones. They play an important role in faires-swales-and-water-conservation systems, cattails help stabilize swale banks and filter runoff water. ## Medicinal Uses The pollen has traditional use as a coagulant for wound healing. The jelly-like substance between young leaf sheaths has been used topically for burns and wounds. The root mucilage has demulcent properties. ## Craft and Material Uses Cattail leaves have been used for thousands of years to weave mats, baskets, chair seats, and thatching. The brown flower spikes make excellent tinder for fire-starting. The seed fluff was historically used as stuffing for pillows and mattresses, and as insulation material. ## Wildlife Value Cattails provide critical habitat for many species. Red-winged blackbirds nest in the stalks, muskrats eat the rhizomes and build lodges from the stalks, and many amphibians and insects shelter among the plants. They are an essential component of [[comparison-constructed-wetlands-vs-bioswales]] for water treatment. ## See Also - [[permaculture-pond-and-water-garden]]
 
-Updated: 2026-04-18
-
-Cattails (Typha spp.) are among the most versatile perennial water plants. All parts are edible, and the plants can be woven into useful items. They grow worldwide and are excellent for wetland zones. They play an important role in [[faires-swales-and-water-conservation]] systems, cattails help stabilize swale banks and filter runoff water.
-
-## Medicinal Uses
-
-The pollen has traditional use as a coagulant for wound healing. The jelly-like substance between young leaf sheaths has been used topically for burns and wounds. The root mucilage has demulcent properties.
-
-## Craft and Material Uses
-
-Cattail leaves have been used for thousands of years to weave mats, baskets, chair seats, and thatching. The brown flower spikes make excellent tinder for fire-starting. The seed fluff was historically used as stuffing for pillows and mattresses, and as insulation material.
-
-## Wildlife Value
-
-Cattails provide critical habitat for many species. Red-winged blackbirds nest in the stalks, muskrats eat the rhizomes and build lodges from the stalks, and many amphibians and insects shelter among the plants. They are an essential component of constructed wetlands for water treatment.
-
-## See Also
-
-- [[permaculture-pond-and-water-garden]]
-
-- [[permaculture-zone-planning]]
-- [[permaculture-ground-cover-plants]]
+- permaculture-zone-planning
+- permaculture-ground-cover-plants
 ## Practical Applications
 
 Cattail has a range of practical applications that make it relevant to
@@ -46,7 +27,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -96,7 +77,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -106,4 +87,5 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+- [[permaculture]]
+- [[permaculture-design-process]]

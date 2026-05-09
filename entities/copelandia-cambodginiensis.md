@@ -11,7 +11,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3erpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # Copelandia cambodginiensis
@@ -45,11 +46,13 @@ consistent with those of other [[stamets-panaeolus-cyanescens-copelandia-identif
 
 ## See Also
 
+- [[copelandia-cambodginiensis-profile]]
+
 - [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]
 
 - [[psilocin-and-psilocybin-chemistry]]
-- [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]
 - [[copelandia-panaeolus-genera]]
+
 ## Practical Considerations
 
 When working with Copelandia cambodginiensis, several practical factors should be
@@ -66,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

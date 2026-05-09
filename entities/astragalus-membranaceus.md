@@ -51,7 +51,7 @@ It thrives in full sun, well-drained sandy or loamy soils, and tolerates drought
 
 ## Active Compounds
 
-The therapeutic activity of Astragalus is attributed to several classes of bioactive compounds:
+The therapeutic activity of Astragalus is attributed to several classes of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:
 
 ### Saponins (Astragalosides)
 
@@ -95,7 +95,7 @@ In TCM, Astragalus is classified as a **Qi tonic** that tonifies the Spleen and 
 Astragalus is one of the most commonly used herbs in TCM formulations, appearing in hundreds of classical prescriptions including:
 
 - **Yu Ping Feng San (Jade Windscreen Powder):** With Atractylodes and Saposhnikovia — the classic immune-protective formula
-- **Bu Zhong Yi Qi Tang (Tonify the Middle and Augment the Qi Decoction):** With Ginseng, Bupleurum, and others — for chronic fatigue and organ prolapse
+- **Bu Zhong Yi Qi Tang (Tonify the Middle and Augment the Qi Decoction):** With Ginseng, Bupleurum, and others — for [[cannabis-chronic-fatigue-research]] and organ prolapse
 - **Huang Qi Gui Zhi Wu Wu Tang:** For blood deficiency with cold extremities
 
 ## Modern Clinical Applications
@@ -104,10 +104,10 @@ Astragalus is one of the most commonly used herbs in TCM formulations, appearing
 
 Astragalus is one of the best-researched immunomodulatory herbs:
 
-- **Prevention of upper respiratory infections:** Multiple clinical trials show reduced frequency, duration, and severity of colds, particularly in immunocompromised individuals
+- **Prevention of upper respiratory infections:** Multiple [[mushroom-cancer-clinical-trials-overview]] show reduced frequency, duration, and severity of colds, particularly in immunocompromised individuals
 - **Chemotherapy support:** Adjunctive use during chemotherapy significantly reduces side effects (nausea, fatigue, immune suppression) and may enhance treatment efficacy
 - **HIV/AIDS support:** Some evidence for CD4+ T-cell count improvement and reduction of opportunistic infections
-- **Autoimmune modulation:** Paradoxically useful in autoimmune conditions due to its bidirectional (normalizing) immune effects — stimulating weak immunity while calming overactive immune responses
+- **Autoimmune modulation:** Paradoxically useful in [[cannabis-autoimmune-conditions-detailed]] due to its bidirectional (normalizing) immune effects — stimulating weak immunity while calming overactive immune responses
 
 ### Cardiovascular Health
 
@@ -138,6 +138,8 @@ Astragalus activates **telomerase**, the enzyme that maintains telomere length �
 
 ## Cultivation and Permaculture Applications
 ## See Also
+
+- [[strobilanthes-cusia]]
 
 - [[companion-planting]]
 - [[panax-ginseng]] — Another premier adaptogen and Qi tonic

@@ -1,10 +1,11 @@
 ---
-title: "Solar Dehydrator vs Root Cellar"
+title: "comparison-solar-dehydrator-vs-electric-dehydrator vs comparison-root-cellar-vs-ice-house"
 created: 2026-04-28
 tags: [comparison, food-preservation, off-grid, homesteading, storage]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -81,11 +82,11 @@ humidity adjustment.
 | Food state | Dried and preserved | Fresh and living |
 | Energy needed | Sunlight (active) | None (passive) |
 | Storage duration | 1-3 years at room temp | 3-8 months in cellar |
-| Climate dependence | Needs sun, warm weather | Needs cold winters |
+| Climate dependence | Needs sun, [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]] | Needs cold winters |
 | Construction cost | Low ($100-300) | High ($500-5000+) |
 | Space needed | Small outdoor area | Excavated underground space |
 | Food quality | Concentrated flavor | Original texture |
-| Best foods | Fruits, herbs, jerky | Root crops, apples, squash |
+| Best foods | Fruits, herbs, jerky | [[permaculture-plants-root-crops-and-tubers]], apples, squash |
 | Maintenance | Seasonal cleaning | Daily monitoring in season |
 | Skill required | Basic carpentry | Excavation, drainage, ventilation |
 
@@ -98,7 +99,7 @@ tomatoes, vegetable chips, and jerky. They work best in sunny climates
 with long growing seasons and are perfect for homesteaders who want a
 low-cost, low-skill entry into food preservation. If your primary
 preservation goal is extending the utility of a diverse garden harvest
-rather than keeping root vegetables fresh through winter, the dehydrator
+rather than keeping [[growing-root-vegetables-guide]] fresh through winter, the dehydrator
 is the more versatile tool.
 
 ## When to Choose a Root Cellar
@@ -114,3 +115,7 @@ storage described in [[solar-dehydrator-plans]]
 - [[root-cellaring-and-no-energy-food-storage]]
 - [[comparison-root-cellaring-vs-dehydration]]
 - [[comparison-solar-dehydrator-vs-electric-dehydrator]]
+
+## See Also
+
+- [[comparison-root-cellar-vs-ice-house]]

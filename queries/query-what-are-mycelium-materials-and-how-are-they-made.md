@@ -23,7 +23,7 @@ Mycelium materials are products made by growing fungal mycelium (the root-like n
 
 The core process has five stages:
 
-**1. Substrate preparation** — Agricultural waste (sawdust, hemp hurds, straw, corn stalks) is milled to a consistent size and pasteurized to kill competing microorganisms. Moisture is adjusted to about 65%.
+**1. [[substrate-preparation]]** — Agricultural waste (sawdust, hemp hurds, straw, corn stalks) is milled to a consistent size and pasteurized to kill competing microorganisms. Moisture is adjusted to about 65%.
 
 **2. Inoculation** — Fungal spawn (mycelium grown on grain or in liquid culture) is mixed into the substrate at 5–15% by weight.
 
@@ -59,11 +59,11 @@ It depends on the format and application:
 
 The most common species for material production:
 
-- ***Ganoderma lucidum*** (Reishi) — produces dense, hard materials; used for structural panels and MycoWorks' Reishi™ leather
-- ***Pleurotus ostreatus*** (Oyster mushroom) — fast-growing, reliable; used for packaging and insulation foam
+- ***[[ganoderma-lucidum]]*** (Reishi) — produces dense, hard materials; used for structural panels and MycoWorks' Reishi™ leather
+- ***[[pleurotus-ostreatus]]*** (Oyster mushroom) — fast-growing, reliable; used for packaging and insulation foam
 - ***Trametes versicolor*** (Turkey tail) — produces fine-textured, strong mats; used for leather alternatives
-- ***Fomes fomentarius*** (Tinder conk) — extremely dense; used for tool handles and hard structural items
-- ***Schizophyllum commune*** (Split gill) — naturally flexible; used for rubbery and foam-like materials
+- ***[[fomes-fomentarius]]*** (Tinder conk) — extremely dense; used for tool handles and hard structural items
+- ***[[schizophyllum-commune]]*** (Split gill) — naturally flexible; used for rubbery and foam-like materials
 
 ## Is It Really Environmentally Better Than Plastic?
 
@@ -121,7 +121,7 @@ Packaging is already mainstream — IKEA and Dell have shipped products in mycel
 - [Mycelium Materials and Fungal Biomanufacturing](../topics/mycelium-materials-and-fungal-biomanufacturing.md) — full technical deep-dive
 - [Mycelium Materials vs Synthetic Bioplastics](../comparisons/comparison-mycelium-materials-vs-bioplastics-pla-pha.md) — comparison with PLA and PHA
 - [Mycelium Networks and Fungal Ecology](../topics/mycelium-networks-and-fungal-ecology.md) — the biology behind the materials
-- [Oyster Mushroom Cultivation and Species Guide](../topics/oyster-mushroom-cultivation-and-species-guide.md) — growing the fungi used in materials
+- [Oyster [[mushroom-cultivation]] and Species Guide](../topics/oyster-mushroom-cultivation-and-species-guide.md) — growing the fungi used in materials
 
 ## See Also
 

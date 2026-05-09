@@ -10,7 +10,7 @@ sources:
 
 # Beta-Carboline Chemistry
 
-Beta-carbolines (9H-pyrido[3,4-b]indoles) are a family of tricyclic compounds formed by the condensation of tryptamine derivatives with aldehydes or ketones, producing a fused ring system incorporating the original indole plus a third nitrogen-containing ring. In [[ayahuasca-preparation-and-ceremony]] pharmacology and serve as the oldest known monoamine oxidase inhibitors used by humans.
+Beta-carbolines (9H-pyrido[3,4-b]indoles) are a family of tricyclic compounds formed by the condensation of tryptamine derivatives with aldehydes or ketones, producing a fused ring system incorporating the original indole plus a third nitrogen-containing ring. In  pharmacology and serve as the oldest known monoamine oxidase inhibitors used by humans.
 
 ## Chemical Structure
 
@@ -24,15 +24,15 @@ Three categories are recognized by their degree of saturation:
 
 ## Harmaline (TIHKAL #13)
 
-Synthesis from 6-methoxytryptamine and glycolaldehyde: The aldehyde condenses with the primary amine of the tryptamine, forming 1-hydroxymethyl-7-methoxy-tetrahydro-beta-carboline, which is dehydrated with phosphoric acid to yield the final product.
+Synthesis from 6-methoxytryptamine and glycolaldehyde: The aldehyde condenses with the primary amine of the tryptamine, forming 1-hydroxymethyl-7-methoxy-tetrahydro-beta-carboline, which is dehydrated with [[cho-water-soluble-phosphoric-acid-preparation]] to yield the final product.
 
 **Dosage**: 150-300 mg oral
 **Duration**: 5-8 hours
 
 Effects include visual tracers, shimmer, and a general "clouding" of consciousness. Shulgin notes dietary concerns associated with MAO inhibition and provides detailed reports of harmaline combined with [[harmala-alkaloids-and-ayahuasca-preparation]]
-- Peganum harmala (Syrian rue): harmine and harmaline in concentrations up to 3-7% of seed weight
-- Passiflora incarnata (passionflower): trace amounts of harmala alkaloids
-- Human tissues: endogenous beta-carbolines (pinoline, harmane) are found in the pineal gland and brain
+- [[mckenna-food-gods-peganum-harmala-soma]] (Syrian rue): harmine and harmaline in concentrations up to 3-7% of seed weight
+- Passiflora incarnata (passionflower): trace amounts of [[turner-harmala-alkaloids-preparation-and-dosage]]
+- Human tissues: endogenous beta-carbolines (pinoline, harmane) are found in the [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]] and brain
 
 ## See Also
 
@@ -43,7 +43,7 @@ Effects include visual tracers, shimmer, and a general "clouding" of consciousne
 ## Merged: MAOI Oral Activity Requirement
 The pharmacological necessity of monoamine oxidase inhibition (MAOI) for oral tryptamine activity is one of the most practically important principles in [[5-methoxy-compounds]] - [[5-meo-dmt-compound-profile]] - beta carboline chemistry - beta carboline chemistry - beta carboline chemistry
 ## Merged: Harmala Alkaloids
-The harmala alkaloids are a specific subset of beta-carbolines derived primarily from two botanical sources: Banisteriopsis caapi (the ayahuasca vine of the Amazon) and Peganum harmala (Syrian rue, native to Mediterranean North Africa and Central Asia). These compounds have been used by humans for at least several thousand years and are the pharmacological key to ayahuasca's oral activity. - beta carboline chemistry - beta carboline chemistry - beta carboline chemistry - 5-meo-dmt-compound-profile - The first of the harmala alkaloids to be isolated (1847) - Fully aromatic beta-carboline (3,4-dihydroharmine oxidized) - Potent reversible inhibitor of monoamine oxidase type A (MAO-A) - Present in B.
+The harmala alkaloids are a specific subset of beta-carbolines derived primarily from two [[dmt-botanical-sources-pharmacology]]: Banisteriopsis caapi (the ayahuasca vine of the Amazon) and Peganum harmala (Syrian rue, native to Mediterranean North Africa and Central Asia). These compounds have been used by humans for at least several thousand years and are the pharmacological key to ayahuasca's oral activity. - beta carboline chemistry - beta carboline chemistry - beta carboline chemistry - 5-meo-dmt-compound-profile - The first of the harmala alkaloids to be isolated (1847) - Fully aromatic beta-carboline (3,4-dihydroharmine oxidized) - Potent reversible inhibitor of monoamine oxidase type A (MAO-A) - Present in B.
 - turner-harmala-alkaloids-preparation-and-dosage
 
 ## See Also
@@ -65,7 +65,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +107,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

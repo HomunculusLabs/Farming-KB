@@ -5,7 +5,8 @@ tags: [solid-state-physics, electrical-engineering, materials-science, semicondu
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
-sources: []
+sources:
+  sources: []
 ---
 
 ## Overview
@@ -15,7 +16,7 @@ Semiconductor band structure describes the allowed and forbidden electron energi
 The central feature is the band gap between a filled valence band and an empty or partly populated conduction band. Electrons promoted
 across the gap behave as mobile negative carriers, while the missing valence electrons behave as mobile positive holes.
 
-Band structure connects quantum mechanics to device engineering. The same energy diagram that explains optical absorption also explains
+Band structure connects [[quantum-mechanics-fundamentals]] to device engineering. The same energy diagram that explains optical absorption also explains
 rectifying junctions, transistors, solar cells, light-emitting diodes, photodiodes, and many failure modes in integrated circuits.
 
 Unlike a simple circuit model, band structure is spatially local. Bands can bend near surfaces, junctions, gates, and charged defects, so
@@ -71,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,9 +109,8 @@ advance the field as a whole. Cross-pollination of ideas from biology,
 ecology, data science, and traditional knowledge systems generates novel
 perspectives and solutions that may not emerge within any single domain.
 
-For continued learning, recommended resources include current research
+For continued learning, recommended resources include [[psychedelic-therapy-current-research]]
 publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

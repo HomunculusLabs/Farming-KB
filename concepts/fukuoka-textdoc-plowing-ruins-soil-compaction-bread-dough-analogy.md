@@ -1,5 +1,5 @@
 ---
-title: Plowing Ruins Soil - Compaction and the Bread Dough Analogy
+title: fukuoka-plowing-ruins-soil-structure-mechanism Soil - Compaction and the Bread Dough Analogy
 created: 2026-05-06
 tags:
   - natural-farming
@@ -21,7 +21,7 @@ type: concept
 
 ## Overview
 
-One of the four foundational principles of Fukuoka's natural farming is "no cultivation." Fukuoka argues that plowing, far from being beneficial, actively destroys soil structure and fertility. His central metaphor, comparing plowed soil to kneaded bread dough, illustrates how the very practice that farmers believe softens their soil actually hardens and compacts it. The no-cultivation principle challenges the most fundamental assumption in agriculture: that a farmer must work the soil to grow crops.
+One of the four foundational principles of Fukuoka's [[comparison-natural-farming-vs-permaculture]] is "no cultivation." Fukuoka argues that plowing, far from being beneficial, actively destroys soil structure and fertility. His central metaphor, comparing plowed soil to kneaded bread dough, illustrates how the very practice that farmers believe softens their soil actually hardens and compacts it. The no-cultivation principle challenges the most fundamental assumption in agriculture: that a farmer must work the soil to grow crops.
 
 ## The Bread Dough Analogy
 
@@ -54,7 +54,7 @@ When rain falls on finely worked soil, the surface particles seal together, form
 
 Fukuoka cites the unintended discovery that followed the introduction of postwar herbicides as empirical proof that plowing hardens soil:
 
-Wet paddy fields were normally tilled five, six, or even seven times during the growing season. The more zealous farmers competed with each other to increase the number of plowings. Everyone thought this softened the soil in the paddy and let more air into the ground.
+Wet paddy fields were normally tilled five, six, or even seven times during the [[savory-growing-season-and-non-growing-season-management]]. The more zealous farmers competed with each other to increase the number of plowings. Everyone thought this softened the soil in the paddy and let more air into the ground.
 
 After World War II, when herbicides became available, farmers discovered that when they sprayed their fields with herbicides and reduced the frequency of plowing, their yields improved. This demonstrated that intertillage had been effective as a weeding process but had been worthless as a means for loosening the soil.
 
@@ -69,7 +69,7 @@ Plowing creates a self-perpetuating cycle of soil degradation:
 5. Man concludes that more plowing is needed to soften it
 6. Each additional pass further degrades the soil
 7. The soil becomes progressively harder and less fertile
-8. Man eventually relies entirely on chemical fertilizers to compensate for lost fertility
+8. Man eventually relies entirely on [[cervantes-chemical-fertilizers-guide]] to compensate for lost fertility
 
 Fukuoka identifies the critical insight: the reason a farmer has to plow his rice field is that he plowed it the year before, then flooded and harrowed it, breaking the clods of earth into smaller and smaller particles, driving the air out and compacting the soil. Because he kneads the earth like bread dough, the field has to be plowed each year.
 
@@ -111,7 +111,7 @@ Fukuoka traces the need for plowing back to two fundamental agricultural practic
 People transplant saplings without giving a thought to what they are doing. They graft a scion to the stock of another species or clip the roots of a fruit sapling and transplant it. From this point on, the roots cease to grow straight and lose the ability to penetrate hard rock. Even a slight entanglement of roots during transplanting interferes with normal growth and weakens the tree's ability to send roots deep into the soil.
 
 ### Shallow Root Growth from Fertilizer
-Applying chemical fertilizers encourages trees to grow a shallow root structure that extends along the topsoil rather than penetrating deeply. Shallow-rooted trees cannot access the deep soil channels created by natural root action, making the soil more susceptible to compaction.
+Applying chemical fertilizers encourages trees to grow a shallow root structure that extends along the topsoil rather than penetrating deeply. Shallow-rooted trees cannot access the deep soil channels created by [[fukuoka-textdoc-soil-self-plowing-natural-root-action]] action, making the soil more susceptible to compaction.
 
 ## Implications for Modern Agriculture
 
@@ -124,7 +124,7 @@ Rather than tilling the entire field each season, farmers should establish perma
 Any necessary soil disturbance should be kept to an absolute minimum. Even walking on wet soil can cause compaction that takes years to repair through natural processes.
 
 ### Surface Mulching
-Rather than incorporating organic matter through plowing, organic materials should be left on the soil surface as mulch. This protects the soil structure, feeds soil organisms from above, and allows natural processes to incorporate the material at their own pace.
+Rather than incorporating [[hamilton-composting-and-organic-matter-management]] through plowing, organic materials should be left on the soil surface as mulch. This protects the soil structure, feeds soil organisms from above, and allows natural processes to incorporate the material at their own pace.
 
 ### Trust in Natural Processes
 The farmer must accept that soil lives of its own accord and plows itself. It needs no help from man. We can either choose to see the soil as imperfect and take hoe in hand, or trust the soil and leave the business of working it to nature.

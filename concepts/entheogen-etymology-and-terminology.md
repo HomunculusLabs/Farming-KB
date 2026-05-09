@@ -14,8 +14,8 @@ LSD in 1943). Huxley had provided Osmond with his first mescaline experience,
 immortalized in *The Doors of Perception* (1954). 29|
 The word combines the Greek roots *psyche* (mind or soul) and *delos*
 (manifest or visible), yielding "mind-manifesting." [[metzner-entheogen-terminology-and-worldview-paradigms]] 171|
-- [Psychedelic Set and Setting](psychedelic-set-and-setting.md)
-- [European Psycholytic Therapy 1960s 1970s](european-psycholytic-therapy-1960s-1970s.md)
+- [Psychedelic [[lsd-set-and-setting-framework]](psychedelic-set-and-setting.md)
+- [European [[european-psycholytic-therapy-1960s-1970s]] 1960s 1970s](european-psycholytic-therapy-1960s-1970s.md)
 - [[metzner-psycholytic-psychedelic-psychotherapy-models-comparison]]
 ## Background and Context
 
@@ -145,4 +145,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

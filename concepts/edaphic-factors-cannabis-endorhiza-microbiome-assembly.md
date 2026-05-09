@@ -1,5 +1,5 @@
 ---
-title: Edaphic Factors in Cannabis Endorhiza Microbiome Assembly
+title: soil-edaphic-factors-microbial-communities in Cannabis cannabinoid-concentration-endorhiza-microbiome-correlation-cannabis Assembly
 created: 2026-04-28
 tags:
   - cannabis
@@ -19,13 +19,13 @@ type: concept
 
 # Edaphic Factors in Cannabis Endorhiza Microbiome Assembly
 
-The assembly of microbial communities in and around Cannabis roots is governed by a hierarchy of factors in which soil physicochemical properties (edaphic factors) are the primary determinant of overall community composition, while cultivar genotype fine-tunes the endorhiza community structure. This two-tier model, supported by the landmark Winston et al. (2014) study, has significant implications for understanding plant-microbe interactions in this commercially and medicinally important crop.
+The assembly of microbial communities in and around Cannabis roots is governed by a hierarchy of factors in which soil physicochemical properties (edaphic factors) are the primary determinant of overall [[core-endorhiza-bacterial-community-composition-cannabis]], while cultivar genotype fine-tunes the endorhiza community structure. This two-tier model, supported by the landmark Winston et al. (2014) study, has significant implications for understanding plant-microbe interactions in this commercially and medicinally important crop.
 
 ## Dominance of Soil Type Over Community Composition
 
-Across two independent experiments involving five Cannabis cultivars (Sour Diesel, Bookoo Kush, Burmese, White Widow, and Maui Wowie) grown in sandy loam soils, soil type was overwhelmingly the strongest predictor of microbial community composition. In the second experiment, which featured significant edaphic variation between two soil types (Mo-Bio soil and Orange County soil), unweighted UniFrac analysis showed soil type accounted for 32% of community variation (ADONIS: R² = 0.32, p = 0.001). When both experiments were pooled, soil type remained highly significant (ADONIS: R² = 0.196, p = 0.001 for unweighted; R² = 0.323, p = 0.001 for weighted UniFrac).
+Across two independent experiments involving five Cannabis cultivars (Sour Diesel, Bookoo Kush, Burmese, White Widow, and Maui Wowie) grown in sandy loam soils, soil type was overwhelmingly the strongest predictor of [[edaphic-factors-microbial-community-structure]] composition. In the second experiment, which featured significant edaphic variation between two soil types (Mo-Bio soil and Orange County soil), [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]] analysis showed soil type accounted for 32% of community variation (ADONIS: R² = 0.32, p = 0.001). When both experiments were pooled, soil type remained highly significant (ADONIS: R² = 0.196, p = 0.001 for unweighted; R² = 0.323, p = 0.001 for weighted UniFrac).
 
-The number of significant OTU differences attributable to soil type was far greater than for any other factor: 690 significant OTUs by weighted ANOVA and 657 by unweighted g-test with FDR correction. This dwarfs the 51 significant OTUs for sample type and 71 for strain in weighted analysis. The overwhelming dominance of soil in determining which organisms are present underscores the importance of soil management in Cannabis cultivation.
+The number of significant OTU differences attributable to soil type was far greater than for any other factor: 690 significant OTUs by weighted ANOVA and 657 by unweighted g-test with FDR correction. This dwarfs the 51 significant OTUs for sample type and 71 for strain in weighted analysis. The overwhelming dominance of soil in determining which organisms are present underscores the importance of soil management in [[query-how-does-no-till-cannabis-cultivation-work]].
 
 ## Soil Physical and Chemical Profiles
 

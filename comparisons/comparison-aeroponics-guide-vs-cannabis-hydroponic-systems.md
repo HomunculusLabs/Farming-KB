@@ -11,10 +11,10 @@ type: comparison
 # Aeroponics vs Hydroponics
 
 ## Overview
-Aeroponics and hydroponics are both soilless growing methods that deliver
+[[query-what-is-the-difference-between-aeroponics-and-hydroponics-for-cannabis]] are both soilless [[mushroom-growing-methods-comparison]] that deliver
 nutrients directly to plant roots, bypassing traditional soil media. Hydroponics
 suspends roots in a nutrient-rich water solution, while aeroponics mist roots
-with nutrient solution in an air-filled chamber. Both systems offer faster
+with [[cannabis-nutrient-solution-preparation]] in an air-filled chamber. Both systems offer faster
 growth rates and higher yields than soil-based cultivation, but they differ
 significantly in complexity, cost, water efficiency, and the level of
 maintenance required. Understanding these differences helps growers choose the
@@ -25,7 +25,7 @@ system that matches their experience level, budget, and quality expectations.
 
 Hydroponics encompasses a range of soilless growing methods where plant roots
 are submerged in or periodically exposed to nutrient-rich water. Common
-hydroponic systems for cannabis include Deep Water Culture (DWC), where roots
+hydroponic systems for cannabis include [[cannabis-deep-water-culture-guide]] (DWC), where roots
 hang directly in aerated nutrient solution; Nutrient Film Technique (NFT), where
 a thin film of solution flows over roots; Ebb and Flow (flood and drain), which
 periodically floods the root zone; and drip irrigation systems that deliver
@@ -42,7 +42,7 @@ is widely available, relatively affordable, and supported by extensive community
 knowledge.
 
 The main disadvantages include the need to actively manage nutrient solution
-parameters (pH, EC/TDS, temperature, and dissolved oxygen), higher water and
+parameters (pH, EC/TDS, temperature, and [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]]), higher water and
 nutrient consumption compared to aeroponics, and the potential for rapid disease
 spread through the shared water reservoir. Root rot (pythium) is the most common
 problem, particularly in warm conditions where dissolved oxygen levels drop.
@@ -85,13 +85,15 @@ with predictable results and manageable maintenance requirements.
 Some systems combine elements of both approaches. Aeroponic cloners are commonly
 used for the propagation phase while plants are later transplanted to hydroponic
 or soil systems for vegetative and flowering stages. Fogponics, a variant of
-aeroponics that uses ultrasonic foggers instead of spray nozzles, aims to
+aeroponics that uses ultrasonic foggers instead of [[ingham-spray-nozzles-equipment-compost-tea]], aims to
 provide even finer mist coverage while reducing clogging issues. High-pressure
 aeroponic (HPA) systems, which generate a micro-fine mist at higher pressures,
 represent the premium end of aeroponic technology and are used primarily by
 experienced commercial cultivators.
 
 ## See Also
+
+- [[comparison-aquaponics-vs-cannabis-hydroponic-systems]]
 
 - [[cannabis-grow-hydroponic-growing-systems]]
 - [[cannabis-indoor-growing-basics]]

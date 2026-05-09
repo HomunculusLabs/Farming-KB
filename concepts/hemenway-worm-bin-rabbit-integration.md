@@ -1,5 +1,5 @@
 ---
-title: Worm Bin and Rabbit Integration for Composting
+title: hemenway worm bin rabbit integration and Rabbit Integration for Composting
 created: 2026-04-26
 tags: [composting, animals, rabbits, worms, soil]
 date: 2026-04-25
@@ -11,8 +11,8 @@ type: concept
 
 # Worm Bin and Rabbit Integration for Composting
 
-Toby Hemenway describes a clever integration of rabbit housing
-with worm composting that turns two separate animal systems into
+Toby Hemenway describes a clever integration of [[mollison-designers-rabbit-housing-and-manure-management]]
+with [[hamilton-worm-composting-manure]] that turns two separate animal systems into
 one seamless soil-building operation. This technique links
 rabbits and worms together in a mutually beneficial cycle that
 produces excellent compost, reduces waste, and eliminates the
@@ -25,7 +25,7 @@ the garden but can be cumbersome to manage. Traditional methods
 require collecting, transporting, and composting the manure
 separately, which adds labor and can create odor problems. Since
 rabbits do not eat insects or scratch the soil, they are not
-ideally suited to [[hemenway-ecological-garden-design]] framework. The rabbits are
+ideally suited to hemenway-ecological-garden-design framework. The rabbits are
 fed from garden surplus (weeds, excess greens, trimmings), and
 their manure, processed by worms, returns fertility to the
 garden. This creates a tight nutrient cycle that reduces
@@ -49,7 +49,7 @@ solution for the entire household.
 
 ## See Also
 
-- [[hemenway-soil-food-web-garden]]
+- hemenway-soil-food-web-garden
 - [[gaias-garden-bringing-the-soil-to-life]]
 - [[hemenway-greywater-design-philosophy]]
 ## Practical Considerations
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,6 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+- [[toby-hemenway]]
+- [[permaculture-principles]]
+- [[hemenway-chicken-tractor-and-poultry-integration]]

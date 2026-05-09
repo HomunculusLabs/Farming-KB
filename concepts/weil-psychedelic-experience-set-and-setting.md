@@ -1,5 +1,5 @@
 ---
-title: Weil — Psychedelic Experience: Set and Setting
+title: Weil — leary-psychedelic-experience-bardo-mapping: lsd-set-and-setting-framework
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -11,7 +11,7 @@ tags: [psychedelics]
 
 ## The Set and Setting Framework
 
-In *The Natural Mind* (1972), Andrew Weil gives sustained attention to the concepts of "set" and "setting" — terms that had been developing in psychedelic research since the early 1960s, particularly through the work of Timothy Leary, Ralph Metzner, and Richard Alpert at Harvard. Weil's contribution was to integrate set and setting into his broader theory of consciousness and to argue that these factors are not merely incidental to the drug experience but are in fact its primary determinants.
+In *The Natural Mind* (1972), [[andrew-weil]] gives sustained attention to the concepts of "set" and "setting" — terms that had been developing in [[mckenna-suppression-psychedelic-research-lsd-therapy]] since the early 1960s, particularly through the work timothy leary ea richard alpert chard Alpert at Harvard. Weil's contribution was to integrate set and setting into his broader theory of consciousness and to argue that these factors are not merely incidental to the drug experience but are in fact its primary determinants.
 
 The set and setting framework was first formally articulated in *The Psychedelic Experience* (1964), Leary, Metzner, and Alpert's manual based on the Tibetan Book of the Dead. Weil, who had been a student at Harvard during this period and had personally witnessed both the research and its controversial aftermath, brought a physician's perspective to the framework and connected it to a more general theory of consciousness.
 
@@ -39,7 +39,7 @@ Weil argues that set and setting are far more important than the specific pharma
 
 This observation directly challenges the standard pharmacological model, which holds that drugs produce specific effects by virtue of their chemical structure. If set and setting are the primary determinants of experience, then the drug itself plays a relatively minor role — it is the trigger, not the content.
 
-Weil extends this argument to its radical conclusion: the common distinction between "good" drugs and "bad" drugs is largely meaningless outside of specific cultural contexts. The same substance that produces mystical experiences in a ceremonial setting can produce panic attacks in a hostile one. The problem with "bad trips" is not the drug but the context in which it is used.
+Weil extends this argument to its radical conclusion: the common distinction between "good" drugs and "bad" drugs is largely meaningless outside of specific cultural contexts. The same substance that produces [[psilocybin-mystical-experiences-personality-change]] in a ceremonial setting can produce panic attacks in a hostile one. The problem with "bad trips" is not the drug but the context in which it is used.
 
 ## The Importance of Cultural Framework
 
@@ -54,7 +54,7 @@ Weil places particular emphasis on the role of cultural framework in shaping set
 
 Modern Western users, by contrast, typically ingest psychedelics in contexts that are culturally impoverished — without ritual preparation, without experienced guides, without a shared symbolic framework, and often in settings that are actively hostile to the experience (fear of arrest, social stigma, lack of integration support). Under these conditions, the same substances that produce beneficial experiences in traditional contexts frequently produce confusion, anxiety, and psychological distress.
 
-Weil argues that this difference in context, not any pharmacological difference, accounts for much of the disparity in outcomes between traditional and Western psychedelic use.
+Weil argues that this difference in context, not any pharmacological difference, accounts for much of the disparity in outcomes between traditional and [[shamanic-vs-western-psychedelic-healing]] use.
 
 ## The Guide's Role
 
@@ -113,7 +113,7 @@ Weil's analysis of set and setting has relevance beyond psychedelic drugs. The s
 - **Alcohol:** The effects of alcohol are heavily influenced by set and setting. The same blood alcohol concentration can produce convivial sociability at a party, aggression in a bar fight, or relaxation at home. Cultural expectations about alcohol's effects are a form of set that significantly shapes the actual experience.
 - **Cannabis:** The subjective effects of cannabis are notoriously variable, even for the same user with the same strain. The "set" component is so powerful that experienced users can often predict the quality of a cannabis experience based on their mental state before consumption.
 - **Meditation:** Even internal methods of consciousness alteration are influenced by set and setting. The same meditation technique can produce very different experiences depending on the meditator's expectations, physical environment, and social context.
-- **Breathwork:** Holotropic breathwork and other breathing practices demonstrate that even non-pharmacological methods can produce powerful altered states — and that the quality of these states depends on set and setting just as much as drug-induced states do.
+- **Breathwork:** [[metzner-holotropic-breathwork-and-grof-perinatal-matrices]] and other breathing practices demonstrate that even non-pharmacological methods can produce powerful altered states — and that the quality of these states depends on set and setting just as much as drug-induced states do.
 
 ## Limitations of the Set and Setting Framework
 

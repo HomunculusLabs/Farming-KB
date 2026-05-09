@@ -1,5 +1,5 @@
 ---
-title: "4-TME (4-THIOMETAESCALINE;) -- PIHKAL Entry #164"
+title: "4-TME (4-THIOMETAESCALINE;) -- 2c-b-pihkal-entry-20 #164"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -92,7 +92,7 @@ butyllithium in hexane, 1.8 mL of dry acetonitrile, and 5.0 g of
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

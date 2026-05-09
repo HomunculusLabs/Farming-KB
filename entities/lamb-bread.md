@@ -20,7 +20,7 @@ created: 2026-04-28
 
 ## Overview
 
-**Lamb's Bread** (also spelled **Lamb's Breath**) is a legendary sativa-dominant landrace cannabis strain originating from Jamaica, deeply associated with Rastafarian spiritual practice and Jamaican cannabis culture.
+**Lamb's Bread** (also spelled **Lamb's Breath**) is a legendary sativa-dominant [[cervantes-landrace-cannabis-populations]] strain originating from Jamaica, deeply associated with Rastafarian spiritual practice and Jamaican [[mckenna-cannabis-culture-history]].
 
 The strain rose to international prominence through its association with Bob Marley and the reggae movement of the 1970s, though its use in Jamaica predates this by generations.
 
@@ -36,13 +36,13 @@ Lamb's Bread is a Jamaican landrace sativa, meaning it has been selectively prop
 
 Its exact genetic lineage is uncertain, but it likely descends from early Indian or African cannabis introductions brought to the Caribbean during the colonial era via the Atlantic slave trade.
 
-Jamaican landrace strains share genetic affinity with other Caribbean and Central American sativas, forming part of a broader neo-tropical sativa gene pool.
+Jamaican [[sativa-landrace-strains-and-geographic-origins]] share genetic affinity with other Caribbean and Central American sativas, forming part of a broader neo-tropical sativa gene pool.
 
 The strain has been cultivated in Jamaica's interior mountain regions — particularly St. Ann, St. Mary, and Westmoreland parishes — where the tropical climate, volcanic soils, and ample rainfall provide ideal growing conditions.
 
 Rastafarian cultivation of Lamb's Bread is traditionally organic, with plants grown intercropped with food crops in hillside gardens without synthetic fertilizers or pesticides.
 
-Modern commercial seeds labeled "Lamb's Bread" vary in authenticity; genuine landrace material is increasingly rare due to globalization of cannabis genetics and hybridization.
+Modern commercial seeds labeled "Lamb's Bread" vary in authenticity; genuine landrace material is increasingly rare due to globalization of [[vic-high-cannabis-genetics-mendelian-inheritance]] and hybridization.
 
 ## Appearance
 
@@ -111,15 +111,15 @@ Lamb's Bread is considered a moderately challenging strain to cultivate, primari
 
 The strain performs best in warm, humid, tropical or subtropical climates with consistent temperatures of 22–30°C.
 
-Indoor cultivation requires significant vertical space due to the plant's vigorous stretching; training techniques (LST, SCROG, or topping) are strongly recommended.
+Indoor cultivation requires significant vertical space due to the plant's vigorous stretching; [[cannabis-training-techniques-comparison]] (LST, SCROG, or topping) are strongly recommended.
 
-The strain responds well to organic cultivation methods and living soil approaches, consistent with its traditional Rastafarian growing practices.
+The strain responds well to organic [[synthetic-log-cultivation-methods-guide]] and living soil approaches, consistent with its traditional Rastafarian growing practices.
 
 Pest and disease resistance is moderate; the airy bud structure provides some protection against bud rot in humid conditions, though vigilance is still required.
 
 ## See Also
 
-- [[thai-stick-entity]]
+- thai-stick-entity
 - [[colombian-gold]]
 - [[green-crack]]
 - [[skunk-1]]

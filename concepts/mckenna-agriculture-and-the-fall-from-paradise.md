@@ -26,7 +26,7 @@ At that point the retreat from the natural world began, and the dualism of human
 
 ## The Mushroom-Agriculture Conflict
 
-The transition from hunting and gathering to agriculture was also a transition from the mushroom-using partnership society to the grain-worshipping dominator society. The reason is straightforward: use of hallucinogens can only be sanctioned in hunting and gathering societies.
+The transition from hunting and gathering to agriculture was also a transition from the mushroom-using [[mckenna-dominator-vs-partnership-society-model]] to the grain-worshipping dominator society. The reason is straightforward: use of hallucinogens can only be sanctioned in hunting and gathering societies.
 
 When agriculturists use these plants, they are unable to get up at dawn the morning after and go hoe the fields. At that point, corn and grain become gods -- gods that symbolize domesticity and hard labor. These replace the old goddesses of plant-induced ecstasy.
 
@@ -40,7 +40,7 @@ The shift from partnership to dominator was not instantaneous but gradual. The e
 
 ## The Loss of Ecstatic Religion
 
-The most significant loss in the transition from hunter-gatherer to agricultural society was the loss of ecstatic religion. The mushroom ceremonies of the Paleolithic, in which the entire community participated in the dissolution of boundaries and the encounter with the Transcendent Other, were replaced by the priestly religions of the agricultural civilizations, in which only a select few -- the priests and the kings -- had access to the sacred.
+The most significant loss in the transition from hunter-gatherer to agricultural society was the loss of ecstatic religion. The [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]] of the Paleolithic, in which the entire community participated in the dissolution of boundaries and the encounter with the Transcendent Other, were replaced by the priestly religions of the agricultural civilizations, in which only a select few -- the priests and the kings -- had access to the sacred.
 
 This is the meaning of the Fall: not the loss of a physical paradise but the loss of the direct experience of the sacred. The human species did not fall from grace; it fell from gnosis. And with the loss of gnosis came the loss of meaning, the loss of connection to the natural world, and the rise of the dominator ego.
 
@@ -58,9 +58,9 @@ For McKenna, the cave paintings are evidence of a consciousness that was deeply 
 
 ## The Path Back
 
-The path back to the partnership society does not lie in a return to hunting and gathering -- that is neither possible nor desirable for the billions of people who now inhabit the earth. It lies, rather, in a recovery of the values of the partnership society: gender equality, ecological balance, respect for the sacred dimension of existence, and the use of psychedelics to dissolve the boundaries of the ego and reconnect with the natural world.
+The path back to the partnership society does not lie in a return to hunting and gathering -- that is neither possible nor desirable for the billions of people who now inhabit the earth. It lies, rather, in a recovery of the values of the partnership society: gender equality, [[fukuoka-ecological-balance-principles]], respect for the sacred dimension of existence, and the use of psychedelics to dissolve the boundaries of the ego and reconnect with the natural world.
 
-This is the Archaic Revival -- not a retreat into the past but a creative synthesis of ancient wisdom and modern knowledge, informed by the psychedelic experience and directed toward the creation of a sustainable and just society.
+This is the [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]] -- not a retreat into the past but a creative synthesis of ancient wisdom and modern knowledge, informed by the [[leary-psychedelic-experience-bardo-mapping]] and directed toward the creation of a sustainable and just society.
 
 ## The Path Back
 
@@ -82,9 +82,11 @@ The Fertile Crescent -- the arc of land stretching from the Persian Gulf through
 
 McKenna argues that the Fertile Crescent was also the site of the final suppression of the mushroom-using partnership culture. The old goddess religion, with its emphasis on fertility, sexuality, and the dissolution of boundaries, was gradually replaced by the patriarchal religions of the sky gods -- gods of war, law, and order.
 
-The ancient Sumerian and Babylonian civilizations that arose in the Fertile Crescent were dominator cultures par excellence: hierarchical, militaristic, and profoundly alienated from the natural world. Their legacy -- the city, the state, the standing army, the written law -- is the foundation of the dominator civilization that now dominates the entire planet.
+The ancient Sumerian and Babylonian civilizations that arose in the Fertile Crescent were [[partnership-and-dominator-cultures-in-human-history]] par excellence: hierarchical, militaristic, and profoundly alienated from the natural world. Their legacy -- the city, the state, the standing army, the written law -- is the foundation of the dominator civilization that now dominates the entire planet.
 
 ## See Also
+
+- [[mckenna-epilogue-from-grasslands-to-the-starship]]
 
 - [[mckenna-hyperspace-law-and-the-remarkable-overmind]]
 

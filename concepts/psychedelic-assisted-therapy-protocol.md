@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Assisted Therapy Protocol
+title: Psychedelic metzner-mdma-assisted-therapy-research Protocol
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Psychedelic-assisted therapy (PAT) is a clinical approach that combines the administration of psychedelic substances (in this case, psilocybin) with structured psychological support. Unlike conventional pharmacotherapy, PAT leverages the acute psychoactive experience itself as a therapeutic mechanism, with the therapist serving as a guide rather than a director. Modern protocols have been refined through decades of clinical research and draw on earlier models from the mid-20th century.
+Psychedelic-assisted therapy (PAT) is a clinical approach that combines the administration of psychedelic substances (in this case, psilocybin) with structured psychological support. Unlike conventional pharmacotherapy, PAT leverages the acute psychoactive experience itself as a therapeutic mechanism, with the therapist serving as a guide rather than a director. Modern protocols have been refined through decades of [[hofmann-lsd-clinical-research-early-studies]] and draw on earlier models from the mid-20th century.
 
 ## Theoretical Foundation
 
@@ -20,7 +20,7 @@ Psychedelic-assisted therapy (PAT) is a clinical approach that combines the admi
 PAT relies heavily on non-specific therapeutic factors that are common across psychotherapy modalities:
 
 - **Therapeutic alliance**: The trust and rapport between patient and therapist is the single strongest predictor of outcomes
-- **Set and setting**: The patient's psychological state and the physical/interpersonal environment profoundly shape the experience
+- **[[lsd-set-and-setting-framework]]**: The patient's psychological state and the physical/interpersonal environment profoundly shape the experience
 - **Expectancy**: Patient beliefs and expectations about the treatment influence both the experience and outcomes
 - **Meaning-making**: The patient's capacity to construct helpful narratives from the experience determines therapeutic benefit
 
@@ -38,7 +38,7 @@ Psilocybin-assisted therapy appears to work through several specific mechanisms:
 
 ### Inclusion Criteria
 
-Typical inclusion criteria for clinical trials:
+Typical inclusion criteria for [[mushroom-cancer-clinical-trials-overview]]:
 
 - Adults aged 21-65 (varies by study)
 - Diagnosis of the target condition (depression, anxiety, substance use disorder)
@@ -139,53 +139,8 @@ The dosing session room is carefully prepared:
 
 - **Minimal intervention**: The default is quiet, supportive presence
 - **Non-directive**: Do not steer the experience; follow the patient's lead
-- **Physical touch**: Only with prior consent; a hand on the shoulder or hand can be deeply grounding
-- **Medication management**: Benzodiazepines (typically lorazepam) may be available as a safety net for severe anxiety, but are rarely needed
-- **Record-keeping**: Therapists may take brief notes on observable behavior and notable themes
-
-## Phase 3: Integration Sessions
-
-### Number and Structure
-
-Integration typically consists of 1-3 sessions, each lasting 60-90 minutes, scheduled in the days and weeks following the dosing session.
-
-### Goals of Integration
-
-1. **Narrative construction**: Help the patient articulate and make meaning of the experience
-2. **Identify insights**: Extract actionable insights from often-ineffable experiences
-3. **Emotional processing**: Continue to process emotions that arose during the session
-4. **Behavioral planning**: Translate insights into concrete behavioral changes
-5. **Support vulnerability**: The post-session period can be emotionally raw; provide containment
-6. **Relapse prevention**: Develop strategies for maintaining gains and preventing regression
-
-### Integration Techniques
-
-- Guided reflection and journaling
-- Art therapy and creative expression
-- Mindfulness and somatic awareness practices
-- Cognitive restructuring of identified maladaptive patterns
-- Values clarification and goal-setting
-- Relapse prevention planning (for substance use disorders)
-- Referral to ongoing therapy or support groups as needed
-
-## Training Requirements
-
-There is no universally standardized training for psychedelic therapists, but emerging programs share common elements:
-
-- Clinical licensure (psychology, psychiatry, social work, counseling)
-- Training in the specific therapeutic model being used
-- Personal experience with altered states of consciousness (either through experiential training or personal practice)
-- Supervised clinical hours conducting psychedelic-assisted therapy
-- Knowledge of psychedelic pharmacology, safety, and ethics
-- Cultural competency and awareness of indigenous traditions
-
-Major training programs include those at CIIS (California Institute of Integral Studies), MAPS (Multidisciplinary Association for Psychedelic Studies), Synthesis Institute, and several university-affiliated programs.
-
-## Ethical Considerations
-
-- **Informed consent**: Patients must understand the experimental nature, potential risks, and limitations
-- **Power dynamics**: The altered state creates vulnerability; therapists must maintain strict boundaries
-- **Cultural respect**: Acknowledge indigenous traditions without appropriation
-- **Equity and access**: Ensure diverse representation in trials and eventual clinical availability
-- **Avoiding hype**: Therapists must not overstate evidence or promise outcomes
-See [[psilocybin-clinical-trials]] for the evidence base supporting this protocol and [[psychedelic-mushroom-set-and-setting]] for foundational set and setting principles.
+## See Also
+- [[psychedelic-mushroom-effects-guide]]
+- turner-psilocybin-mushroom-experience-guide
+- [[psychedelic-experience-preparation]]
+- [[psychedelic-therapy-mechanisms]]

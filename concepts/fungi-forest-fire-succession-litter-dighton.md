@@ -11,7 +11,7 @@ sources: [raw/papers/john-dighton-fungi-in-ecosystem-processes.md]
 
 Updated: 2026-04-18
 
-Source: John Dighton, *Fungi in Ecosystem Processes*, Chapters 2-4.
+Source: John Dighton, *Fungi in [[fungal-ecosystem-processes-overview]]*, Chapters 2-4.
 
 ## Fire and Mycorrhizal Community Dynamics
 
@@ -29,10 +29,10 @@ Nutrient conditions after fire are influenced by:
 - Loss of organic matter
 - Changes in physical characteristics of soil (increased heating from solar radiation absorption by darkened soil surface)
 
-These altered conditions affect relative survival of mycorrhizal species and their physiological function, potentially shifting the community composition even when inoculum survives.
+These altered conditions affect relative survival of mycorrhizal species and their physiological function, potentially shifting the [[core-endorhiza-bacterial-community-composition-cannabis]] even when inoculum survives.
 
 ### Arbuscular Mycorrhizae and Fire
-In dry sclerophyllous shrub communities in Australia, Torpy et al. (1999) showed that fire effects on arbuscular mycorrhizal colonization of roots were more closely related to the density of host plants than to direct fire effects on the mycorrhizae themselves.
+In dry sclerophyllous shrub communities in Australia, Torpy et al. (1999) showed that fire effects on arbuscular [[arbuscular-mycorrhizal-colonization-patterns]] of roots were more closely related to the density of host plants than to direct fire effects on the mycorrhizae themselves.
 
 ## Forest Succession and Fungal Community Change
 
@@ -42,7 +42,7 @@ The quality of litter resources changes predictably during forest succession:
 - **Mid succession** — mixed litter quality as forest composition diversifies
 - **Late succession** — slow-decomposing litter from dominant canopy species (high lignin, low nitrogen)
 
-These changes in resource quality drive corresponding shifts in the decomposer fungal community.
+These changes in [[fungal-decomposition-resource-quality-determinants]] drive corresponding shifts in the decomposer fungal community.
 
 ### Leaf Litter Harvesting Effects
 Repeated harvesting of forest floor leaf litter in Swedish spruce forests reduced the abundance of ectomycorrhizae on roots but not the number of species (Mahmood et al., 1999). This suggests that mycorrhizal diversity is resilient to moderate disturbance, though function may be reduced.
@@ -82,7 +82,7 @@ Extracts of the grass *Deschampsia flexuosa*:
 - Inhibited growth of *L. proxima*, *P. involutus*, and *R. luteolus*
 - Enhanced growth of *Laccaria bicolor*
 
-Koide et al. (1998) showed differential effects of polyphenols (catechin, epicatechin gallate) and volatile compounds (alpha- and beta-pinene) on ECM fungi, with pine phenolics stimulating *Suillus intermedius* but reducing *Amanita rubescens*.
+Koide et al. (1998) showed differential effects of polyphenols (catechin, epicatechin gallate) and [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] (alpha- and beta-pinene) on ECM fungi, with pine phenolics stimulating *Suillus intermedius* but reducing *Amanita rubescens*.
 
 ## Rhododendron Effects on Forest Regeneration
 
@@ -103,7 +103,7 @@ This demonstrates that changing the photosynthetic capacity of one species can a
 
 ### Elk Browsing of Willow
 Peinetti et al. (2001) showed winter browsing of willow by elk:
-- Induces higher shoot biomass production but similar leaf biomass
+- Induces higher shoot [[dighton-fungal-biomass-production-aquatic-ecosystems]] but similar leaf biomass
 - Produces fewer but larger shoots and leaves
 - Inhibits flowering
 - Likely increases soil nitrogen uptake while reducing belowground carbon allocation
@@ -122,5 +122,5 @@ These changes would alter the demands placed on mycorrhizal communities — redu
 
 - [[ectomycorrhizal-ecology]]
 - [[fungal-biodiversity-forest-ecosystems]]
-- [[fungal-communities-succession]]
+- fungal-communities-succession
 - [[ericoid-mycorrhiza-heathland-ecosystems]]

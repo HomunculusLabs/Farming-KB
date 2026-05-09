@@ -1,5 +1,5 @@
 ---
-title: JADAM Nutritional Balance Philosophy
+title: JADAM jadam-nutritional-balance-fertilizer Philosophy
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -11,11 +11,11 @@ sources:
 
 ## Overview
 
-JADAM's approach to soil fertility and fertilizer management is radically simpler than conventional organic farming. Rather than analyzing and adjusting individual nutrients (N, P, K, Ca, Mg, B, etc.), JADAM provides the complete nutritional balance that crops need by using materials "similar to the crops" -- wild grass, crop residues, and cover crops.
+JADAM's approach to soil fertility and fertilizer management is radically simpler than conventional [[coleman-deep-organic-farming-philosophy]]. Rather than analyzing and adjusting individual nutrients (N, P, K, Ca, Mg, B, etc.), JADAM provides the complete nutritional balance that crops need by using materials "similar to the crops" -- wild grass, crop residues, and cover crops.
 
 ## The Problem with Individualized Nutrition
 
-Modern fertilizer science takes an "individualized" approach: consider each nutrient element separately, add or subtract in fertilizer application, and design separate fertilizer programs for each growth stage (high-N for vegetative growth, high-P for flowering, high-K for fruit enlargement, high-Ca for maturing).
+Modern fertilizer science takes an "individualized" approach: consider each nutrient element separately, add or subtract in [[cervantes-fertilizer-application-strain-feeding]], and design separate fertilizer programs for each growth stage (high-N for vegetative growth, high-P for flowering, high-K for fruit enlargement, high-Ca for maturing).
 
 JADAM argues this method:
 - Is nearly impossible for farmers to practice correctly
@@ -27,12 +27,12 @@ JADAM argues this method:
 
 ## The Danger of Unbalanced Organic Matter
 
-Simply putting organic matter into soil does not make you an organic farmer. Common organic fertilizers can disrupt soil nutritional balance:
+Simply putting organic matter into soil does not make you an organic farmer. Common [[hamilton-organic-fertilizers-and-plant-nutrition]] can disrupt soil nutritional balance:
 - Rice bran: good for rice, but overuse on tomatoes changes soil balance toward rice-growing conditions
 - Perilla pulp: higher nitrogen than rice bran, but repeated use ruins strawberries by shifting balance toward perilla-growing conditions
 - Oil cakes: 50% castor pomace in most commercial products; overuse makes soil suitable for castor farming, not your crop
 
-JADAM observes: "Many organic produce I tasted around the world had inferior taste and quality compared to conventional produce." The reason: failure to provide the optimum nutritional balance for the specific crop.
+JADAM observes: "Many organic produce I tasted [[fungi-around-the-world-species-distribution]] had inferior taste and quality compared to conventional produce." The reason: failure to provide the optimum nutritional balance for the specific crop.
 
 ## The Simple Solution
 
@@ -78,6 +78,6 @@ Youngsang Cho quotes Karl Marx: "When commercial capital occupies a position of 
 ## See Also
 
 - [[jadam-customized-liquid-fertilizer]] -- crop-specific fertilizers
-- [[jadam-phyllite-solution]] -- mineral balance through rock powder
+- [[jadam-phyllite-solution]] -- [[holmgren-mineral-balance-soil-fertility]] through rock powder
 - [[jadam-human-manure-liquid-fertilizer]]
 - [[jadam-cover-crop-wild-grass-symbiosis]]

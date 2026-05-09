@@ -44,7 +44,7 @@ Small-strain theory linearizes deformation and is adequate for many structures, 
 Kinematic compatibility ensures that the strain field corresponds to a physically possible displacement field rather than an arbitrary collection of local distortions.
 
 ## Stress and Forces
-Internal forces in a continuum are represented by stress, a tensor that maps the orientation of a surface to the traction acting across it.
+Internal forces in a continuum are represented by stress, a tensor that [[maps]] the orientation of a surface to the traction acting across it.
 
 Cauchy stress is the standard measure in the current configuration and includes normal stresses, shear stresses, hydrostatic pressure, and deviatoric components.
 
@@ -85,11 +85,11 @@ Thermodynamic consistency, calibration data, and the intended range of strain, r
 ## Solids, Fluids, and Materials
 In solid mechanics, continuum theory predicts deformation, vibration, buckling, yielding, fracture, fatigue, creep, and contact.
 
-In fluid mechanics, it describes pressure, viscosity, flow acceleration, turbulence, diffusion, heat transfer, and free-surface motion.
+In fluid mechanics, it describes pressure, viscosity, flow acceleration, turbulence, diffusion, [[heat-transfer-coefficient]], and free-surface motion.
 
 Rheology occupies the boundary between solids and fluids by studying materials whose response depends strongly on rate and history.
 
-Materials science uses continuum models to connect microstructure with macroscopic behavior through homogenization, crystal plasticity, phase- field models, and damage mechanics.
+Materials science uses continuum models to connect microstructure with macroscopic behavior through homogenization, [[dislocation-theory-crystal-plasticity]], phase- field models, and damage mechanics.
 
 Geomechanics applies continuum ideas to soils, rocks, faults, reservoirs, and glaciers, often requiring porosity, pore pressure, friction, and inelastic deformation.
 
@@ -128,7 +128,7 @@ It makes physical design quantitative by turning geometry, loads, material param
 
 The field also provides a bridge between laboratory measurements and computational simulation because measured material constants enter constitutive laws.
 
-Modern multiphysics simulation often couples mechanical deformation with heat transfer, electromagnetism, chemistry, phase change, diffusion, or fluid flow.
+Modern multiphysics simulation often couples mechanical deformation with heat transfer, electromagnetism, chemistry, [[phase-change-materials-thermal-energy-storage]], diffusion, or fluid flow.
 
 The most important practical skill is not merely solving equations but selecting the simplest model that captures the controlling physics at the relevant scale.
 ## See Also

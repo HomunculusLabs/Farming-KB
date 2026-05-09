@@ -16,12 +16,12 @@ essential infrastructure for long-term, totally fertilizer-free cultivation.
 The basic strategy for achieving permanent soil fertility on a natural farm
 is to create deep, rich soil through the integrated management of forested
 areas, bamboo groves, and shelterbelts that serve as both direct and indirect
-sources of organic matter and biological diversity.
+sources of [[hamilton-composting-and-organic-matter-management]] and biological diversity.
 
 ## The Preserve as Fertility Source
 
 The woods surrounding a natural farm should be treated as a natural preserve
-and used as a direct or indirect source of organic fertilizer. There are
+and used as a direct or indirect source of [[complete-organic-fertilizer-cof-recipe-solomon]]. There are
 several methods for building deep, fertile soil: direct burial of coarse
 organic matter deep in the ground; gradual soil improvement by planting
 grasses and trees that send roots deep into the soil; and enrichment of the
@@ -58,7 +58,7 @@ as Chinese hackberry, zelkova, paulownia, cherry, maple, and eucalyptus.
 
 The fertile land at the foot of hills and in valleys should be planted with
 oak and evergreens such as cryptomeria and live oak, interplanted with walnut
-and ginkgo. This layered planting approach creates a diverse forest ecosystem
+and ginkgo. This layered planting approach creates a diverse [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]]
 that builds soil at multiple depths and provides a range of products and
 ecological services.
 
@@ -93,7 +93,7 @@ places, evergreen oaks, holly, and other trees are also used.
 
 Windbreaks serve multiple ecological functions: they reduce wind speed at
 ground level, decreasing soil erosion and moisture loss; they create
-microclimates that benefit both crops and beneficial insects; they provide
+microclimates that benefit both crops and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]; they provide
 habitat for birds that control insect pests; and their leaf litter contributes
 to soil organic matter.
 
@@ -116,13 +116,13 @@ fragmented, cause-and-effect thinking rather than holistic understanding.
 ## Integration with the Complete Natural Farm
 
 The wood preserve, bamboo grove, and shelterbelt are not optional additions
-to a natural farm but integral components. Fukuoka's farm establishment
+to a natural farm but integral components. Fukuoka's [[fukuoka-textdoc-farm-establishment-site-selection-soil-prep]]
 design placed the wood preserve uphill from the orchard and garden so that
 rainwater carries nutrients and organic matter from the forest humus down to
 the cultivated areas.
 
 This gravity-fed fertility system requires no hauling, no composting, and no
-fertilizer application. The forest builds soil, the rain moves it, and the
+[[cervantes-fertilizer-application-strain-feeding]]. The forest builds soil, the rain moves it, and the
 crops benefit. The bamboo grove provides supplementary organic matter for
 trench composting when additional soil building is needed. The shelterbelts
 protect the entire system from wind damage while contributing their own leaf

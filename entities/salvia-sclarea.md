@@ -12,7 +12,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Kintzios S.E. (2000). "Sage: The Genus Salvia." Medicinal and Aromatic Plants — Industrial Profiles. Harwood Academic.
-  - Hajhashemi V. et al. (2000). "Antinociceptive and Anti-inflammatory Effects of S. sclarea Essential Oil." Journal of Ethnopharmacology, 69(2), 141-146.
+  - Hajhashemi V. et al. (2000). "Antinociceptive and Anti-inflammatory Effects of S. sclarea [[permaculture-designers-manual-essential-oil-plants]]." Journal of Ethnopharmacology, 69(2), 141-146.
   - Ulubelen A. (2003). "Cardiovascular and Central Nervous System Effects of Salvia sclarea." Phytotherapy Research, 17(1), 20-23.
   - Pistelli L. et al. (1997). "Essential Oil Composition of Salvia sclarea." Journal of Essential Oil Research, 9(2), 187-190.
 ---
@@ -55,7 +55,7 @@ The corolla is 15–25 mm long, bilabiate, with a pale blue to white upper lip a
 
 *Salvia sclarea* is native to the Mediterranean region, extending from southern Europe (France, Italy, Greece) through the Balkans and Turkey to Central Asia (Iran, Turkmenistan).
 
-It has naturalized in parts of North America, South America, and northern Europe. Escaped populations occur in the eastern United States, particularly in disturbed sites and roadsides.
+It has naturalized in parts of [[psilocybin-north-america-pacific-northwest]], South America, and northern Europe. Escaped populations occur in the eastern United States, particularly in disturbed sites and roadsides.
 
 The species prefers dry, calcareous soils in full sun. It is common in scrubland, grassland margins, and rocky slopes at elevations up to 1500 m.
 
@@ -69,9 +69,9 @@ Seedlings are thinned to 30–45 cm spacing. The plant performs best in poor to 
 
 Harvest for essential oil occurs when the plants are in full flower, typically 90–120 days after sowing. The entire flowering aerial portion is cut and either steam-distilled fresh or dried for later extraction.
 
-Essential oil yields range from 0.1–1.0% of fresh plant weight, depending on cultivar, growing conditions, and harvest timing. Major commercial producers include Russia, France, Bulgaria, and Morocco.
+Essential oil yields range from 0.1–1.0% of fresh plant weight, depending on cultivar, growing conditions, and [[cannabis-harvest-timing-visual-cues]]. Major commercial producers include Russia, France, Bulgaria, and Morocco.
 
-The plant is relatively pest-resistant, though spider mites and whiteflies can affect greenhouse crops. Root rot from *Fusarium* species occurs in poorly drained soils.
+The plant is relatively pest-resistant, though [[cervantes-spider-mites-identification-control]] and whiteflies can affect greenhouse crops. Root rot from *Fusarium* species occurs in poorly drained soils.
 
 ## Chemistry and Pharmacology
 
@@ -83,7 +83,7 @@ Pharmacological studies have demonstrated several bioactivities. The essential o
 
 Anti-inflammatory activity has been documented in carrageenan-induced edema models, with the oil reducing paw swelling comparable to standard anti-inflammatory drugs at appropriate doses.
 
-Antimicrobial activity has been demonstrated against *Staphylococcus aureus*, *Escherichia coli*, and *Candida albicans*. The oil also shows moderate antioxidant capacity in DPPH radical scavenging assays.
+Antimicrobial activity has been demonstrated against *Staphylococcus aureus*, *Escherichia coli*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*. The oil also shows moderate antioxidant capacity in DPPH radical scavenging assays.
 
 Topical application of the oil has shown wound-healing acceleration in animal studies, attributed to both antimicrobial and anti-inflammatory mechanisms. The oil promotes fibroblast proliferation and collagen deposition.
 
@@ -97,7 +97,7 @@ Young leaves can be used sparingly in salads, omelettes, and herb butters. The f
 
 The essential oil is extensively used in perfumery as a fixative and top-note modifier. It blends well with bergamot, cedarwood, jasmine, and sandalwood.
 
-In aromatherapy, clary sage oil is used for stress relief, hormonal balance, and as a relaxant. It is one of the most commonly used essential oils in massage therapy and diffusion blends.
+In aromatherapy, clary sage oil is used for stress relief, hormonal balance, and as a relaxant. It is one of the most commonly used [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] in massage therapy and diffusion blends.
 
 Sclareolide, a degradation product of sclareol, is produced commercially from clary sage extracts. This lactone is widely used as a flavoring agent in the food industry, particularly in beverages and dairy products.
 

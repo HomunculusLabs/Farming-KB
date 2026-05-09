@@ -5,7 +5,7 @@ updated: 2026-04-21
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources: []
 ---
 # Green Manure Crops
 From "Sepp Holzer's Permaculture" by Sepp Holzer.
@@ -13,7 +13,7 @@ From "Sepp Holzer's Permaculture" by Sepp Holzer.
 I use green manure crops on any area of land that needs to be improved or lies
 fallow. This could be on slopes, embankments or new plots of land. The crops that
 are grown in addition to the main crop can be varied to suit different
-requirements and the intended purpose. Ancient cereals are also well suited to
+requirements and the intended purpose. [[holzer-ancient-cereals-growing]] are also well suited to
 this. The more diverse the plants are, the more stable the system is and the
 more useful it can be.
 Areas where green manure crops are cultivated have the advantage that the
@@ -41,7 +41,7 @@ that I could grow demanding fruit trees after only two to three years.
 ## Recommended Species
 Key legumes: yellow lupin, narrow-leaved lupin, white lupin, garden pea, grass
 pea, fodder vetch, yellow and white sweet clover, red clover, lucerne. These
-provide nitrogen fixation, deep rooting, and forage.
+provide [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], deep rooting, and forage.
 The mixture of sweet clover, lucerne, vetch, peas, lupins, sunflowers and
 different tubers like Jerusalem artichokes and turnips is particularly well
 suited to slope stabilisation.
@@ -60,13 +60,13 @@ creates a closed nutrient loop: plants grow, animals eat and fertilize, soil
 improves, plants grow better — without any external inputs.
 ## Green Manure and Soil Microbiology
 The soil-building power of green manure crops extends far beyond the addition of
-organic matter. Living root systems exude sugars, amino acids, and organic acids
+[[hamilton-composting-and-organic-matter-management]]. Living root systems exude sugars, amino acids, and organic acids
 into the rhizosphere, feeding diverse communities of soil bacteria, fungi,
-protozoa, and nematodes. These microorganisms drive nutrient cycling, suppress
+protozoa, and nematodes. These microorganisms drive [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], suppress
 soil-borne diseases through competitive exclusion, and build soil aggregates
 that improve structure, water infiltration, and water-holding capacity. Legume
 roots form associations with rhizobia bacteria that fix atmospheric nitrogen,
-making it available to subsequent crops. Mycorrhizal fungi associated with green
+making it available to subsequent crops. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] associated with green
 manure roots extend the effective nutrient-absorbing surface area of the root
 system and connect individual plants through underground networks that facilitate
 nutrient and information exchange. When green manure crops die and decompose —
@@ -78,7 +78,7 @@ fertilizers.
 ## Ancient Grains as Green Manure
 Holzer specifically recommends ancient cereal varieties as components of green
 manure mixtures. Emmer wheat (Triticum dicoccum), einkorn wheat (Triticum
-monococcum), spelt (Triticum spelta), and other heritage grains produce vigorous
+monococcum), spelt (Triticum spelta), and other [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]] produce vigorous
 root systems that improve soil structure, generate substantial biomass, and can
 be harvested for grain if desired. These ancient varieties are adapted to low-
 input conditions — they perform well without synthetic fertilizers or pesticides,

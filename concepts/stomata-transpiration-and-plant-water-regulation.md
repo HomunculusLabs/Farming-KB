@@ -13,7 +13,7 @@ Stomata (singular: stoma) are microscopic pores found primarily on the underside
 
 ## Stomatal Structure
 
-Each stoma consists of two **guard cells** -- specialized kidney-shaped or bean-shaped cells that flank the pore. Guard cells are unique because they are the only epidermal cells containing chloroplasts (most leaf surface cells lack them). This allows guard cells to perform photosynthesis and generate the ATP needed for active transport.
+Each stoma consists of two **guard cells** -- specialized kidney-shaped or bean-shaped cells that flank the pore. Guard cells are unique because they are the only epidermal cells containing chloroplasts (most [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] cells lack them). This allows guard cells to perform photosynthesis and generate the ATP needed for [[diffusion-osmosis-and-active-transport-in-plants]].
 
 The cell walls of guard cells are thicker on the side facing the pore and thinner on the opposite side. When guard cells swell with water, the thinner walls stretch more, pulling the thicker walls apart and opening the stoma. When they lose water, they deflate and the stoma closes.
 
@@ -46,7 +46,7 @@ About 90% of a plant's water loss occurs through stomatal transpiration. This me
 ### Scale of Water Movement
 
 - A mature maize plant transpires about 4 gallons (15 liters) per week
-- One acre of maize transpires 350,000 gallons (1.3 million liters) during a 100-day growing season
+- One acre of maize transpires 350,000 gallons (1.3 million liters) during a 100-day [[savory-growing-season-and-non-growing-season-management]]
 - Birch trees each transpire 200-1,000 gallons (760-3,800 liters) per week
 
 ### The Transpiration Stream
@@ -84,7 +84,7 @@ When water is scarce, the hormone **abscisic acid (ABA)** is produced in roots a
 High temperatures increase transpiration rates. If water loss exceeds uptake, stomata close to prevent dehydration.
 
 ### Humidity
-Low humidity increases the transpiration rate (steeper water vapor gradient between leaf interior and atmosphere).
+[[pf-tek-low-humidity-symptoms-and-remediation]] increases the transpiration rate (steeper water vapor gradient between leaf interior and atmosphere).
 
 ## Stomatal Density
 
@@ -99,12 +99,12 @@ Calcium ions serve as secondary messengers in stomatal regulation. When ABA sign
 
 ## Guttation vs Transpiration
 
-When transpiration is minimal (night, high humidity) and root pressure is strong, water may be pushed out of the leaf through specialized structures called **hydathodes** rather than through stomata. This is guttation -- visible as droplets on leaf tips.
+When transpiration is minimal (night, high humidity) and [[guttation-root-pressure-and-maple-sap-physiology]] is strong, water may be pushed out of the leaf through specialized structures called **hydathodes** rather than through stomata. This is guttation -- visible as droplets on leaf tips.
 
 ## Implications for Gardeners
 
 Understanding stomatal regulation explains many practical observations:
-- Why plants wilt in hot afternoon sun (stomata close to conserve water, reducing evaporative cooling)
+- Why plants wilt in hot afternoon sun (stomata close to conserve water, reducing [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]])
 - Why misting helps (increases humidity, reduces transpiration demand)
 - Why over-fertilizing with potassium can affect water relations (excess K disrupts the K pump balance)
 - Why plants in windy locations need more water (wind removes the boundary layer of humid air, increasing transpiration)

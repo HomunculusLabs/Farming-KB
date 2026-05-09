@@ -1,5 +1,5 @@
 ---
-title: Set and Setting — Eleusinian Initiation Methodology
+title: lsd-set-and-setting-framework — set and setting eleusinian initiation methodology Methodology
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -9,11 +9,11 @@ sources:
 ---
 # Set and Setting — Eleusinian Initiation Methodology
 
-**Source:** The Road to Eleusis, Chapters I, III — Wasson, Ruck
+**Source:** The [[the-road-to-eleusis-wasson-hofmann-ruck]], Chapters I, III — Wasson, Ruck
 
 ## Overview
 
-The Eleusinian Mysteries exemplified what modern psychedelic researchers call "set and setting" — the deliberate preparation of psychological mindset and physical environment to maximize the therapeutic and spiritual potential of the psychedelic experience. The [[lesser-and-greater-eleusinian-mysteries]] systematically optimized both variables.
+The [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] exemplified what modern psychedelic researchers call "set and setting" — the deliberate preparation of psychological mindset and physical environment to maximize the therapeutic and spiritual potential of the [[leary-psychedelic-experience-bardo-mapping]]. The [[lesser-and-greater-eleusinian-mysteries]] systematically optimized both variables.
 
 ## Set Preparation at Eleusis
 
@@ -29,7 +29,7 @@ The preparatory period for the Mysteries extended over months:
 
 ## Setting Design
 
-The [[eleusinian-oracle-vs-mexican-mushroom-oracle]], which served individual supplicants.
+The eleusinian-oracle-vs-mexican-mushroom-oracle, which served individual supplicants.
 
 Nevertheless, the hierophants developed a group methodology that worked reliably for over a millennium. The key elements were:
 
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

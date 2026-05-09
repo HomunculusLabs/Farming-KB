@@ -1,5 +1,5 @@
 ---
-title: Rust Fungus Life Cycles and the Complexity of Plant Pathology
+title: bloomfield rust fungus life cycles puccinia haustoria spermatia bloomfield-rust-fungi-life-cycles-barberry-wheat and the Complexity of Plant Pathology
 created: 2026-04-28
 tags:
   - mycology
@@ -49,7 +49,7 @@ specialization among plant varieties within each crop.
 
 ### Germ Tube Navigation and Stomatal Entry
 
-A uredospore germinates on the waxy leaf surface and sends out a germ
+A uredospore germinates on the waxy [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] and sends out a germ
 tube programmed to find stomata. The tube grows across the leaf, rising
 over microscopic ridges formed by epidermal cell junctions and falling
 into intervening valleys. Because only one in five or fewer lines of
@@ -67,7 +67,7 @@ mazes for rusts, predicting growth patterns before seeding surfaces
 with spores.
 
 The cellular mechanism likely involves stretch-activated calcium
-channels in the fungal membrane. As the hypha forces itself over a
+channels in the [[ergosterol-fungal-membrane-biology]]. As the hypha forces itself over a
 ridge, channels open, allowing calcium to flood in and trigger cascades
 that "inform" the fungus of the obstacle size. This tactile sensitivity
 is related to the mechanism of human touch, though tuned to vastly
@@ -76,7 +76,7 @@ different spatial scales.
 ### Telial Stage and Winter Survival
 
 Telial pustules develop within uredial lesions toward the end of the
-growing season. Each teliospore is a pair of swollen cells on a stalk,
+[[savory-growing-season-and-non-growing-season-management]]. Each teliospore is a pair of swollen cells on a stalk,
 with thick pigmented walls designed for survival. Teliospores remain in
 sores and survive winter in frozen stubble. In spring, warmth triggers
 germination: both cells produce short hyphae, and meiosis packages four
@@ -85,7 +85,7 @@ daughter nuclei into bean-shaped spores at the tips of spikes.
 A critical discovery from A.H.R. Buller's work: a droplet of fluid
 appears at the base of every spore before launch. This "Buller's drop"
 reveals these third-type spores are basidiospores, proving rusts are
-basidiomycete fungi, distant cousins of mushrooms.
+[[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]], distant cousins of mushrooms.
 
 ### Basidiospore Dispersal and Barberry Infection
 
@@ -137,11 +137,9 @@ wheat, it germinates, penetrates through a stoma, feeds with haustoria,
 and after a few days, uredial pustules burst through the leaf. The cycle
 is complete: two hosts, four spore types, insect-mediated sex, and three
 acts of plant penetration.
-
-## Why So Complex?
-
-The standard explanation centers on resilience: two hosts with different
 ## See Also
+
+- [[bloomfield-puccinia-monoica-pseudoflowers-rust-mimicry]]
 
 - [[bloomfield-buller-experimental-mycology]] for Buller's contributions
 - [[bloomfield-fungal-spore-discharge-and-dispersal]] for Buller's drop

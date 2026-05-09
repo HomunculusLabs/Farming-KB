@@ -12,11 +12,11 @@ date: 2026-05-03
 updated: 2026-05-03
 sources:
   - "FAO. FAOSTAT — Crops and livestock products. Food and Agriculture Organization of the United Nations. https://www.fao.org/faostat/"
-  - "Vance, C.P., Graham, P.H. & Allan, D.L. (2000). Biological nitrogen fixation: Phosphorus — a critical future need? In: Nitrogen Fixation: From Molecules to Crop Productivity. Springer."
+  - "Vance, C.P., Graham, P.H. & Allan, D.L. (2000). [[biological-nitrogen-fixation-agriculture]] fixation: Phosphorus — a critical future need? In: Nitrogen Fixation: From Molecules to Crop Productivity. Springer."
   - "Siddique, K.H.M., Loss, S.P., Herwig, S.P. & Wilson, J.M. (1996). Growth, yield and water use of chickpea (Cicer arietinum L.) in a Mediterranean-type environment. Australian Journal of Experimental Agriculture, 36(7), 837–844."
   - "ICARDA — International Center for Agricultural Research in the Dry Areas. https://www.icarda.org/"
   - "Muehlbauer, F.J., Sarker, A. & Vandenberg, A. (2010). Lentil breeding. In: Handbook of Plant Breeding, Vol. 5, Springer."
-  - "Link, W., Balk, J. & Märländer, B. (2010). Nitrogen turnover and nitrate leaching after grain legume cultivation. In: Grain Legumes, Springer."
+  - "Link, W., Balk, J. & Märländer, B. (2010). Nitrogen turnover and nitrate leaching after grain legume cultivation. In: [[query-best-grain-legumes-for-a-small-homestead]], Springer."
 type: comparison
 created: 2026-05-03
 ---
@@ -66,7 +66,7 @@ Fava beans and lentils are the highest in protein, making them excellent meat al
 | Practice | Fava Bean | Chickpea | Lentil |
 |----------|-----------|----------|--------|
 | **Planting depth** | 5–8 cm | 5–8 cm | 3–6 cm |
-| **Row spacing** | 30–60 cm | 20–45 cm | 15–30 cm |
+| **[[wide-row-spacing-intensive-gardening-comparison]]** | 30–60 cm | 20–45 cm | 15–30 cm |
 | **Seeding rate** | 80–120 kg/ha | 50–80 kg/ha | 30–60 kg/ha |
 | **Inoculation** | Often needed on new land | Often needed | Often needed |
 | **Weed management** | Competitive once established | Moderate competitiveness | Poor — requires careful management |
@@ -89,9 +89,9 @@ Ascochyta blight is a shared threat across all three, though caused by different
 
 | Aspect | Fava Bean | Chickpea | Lentil |
 |--------|-----------|----------|--------|
-| **Biomass production** | High (5–10 t/ha dry) | Moderate (3–6 t/ha dry) | Low (2–4 t/ha dry) |
-| **Soil organic matter** | Excellent builder | Moderate builder | Low builder |
-| **Erosion control** | Good (dense canopy) | Fair | Poor (sparse canopy) |
+| **[[dighton-fungal-biomass-production-aquatic-ecosystems]]** | High (5–10 t/ha dry) | Moderate (3–6 t/ha dry) | Low (2–4 t/ha dry) |
+| **Soil [[hamilton-composting-and-organic-matter-management]]** | Excellent builder | Moderate builder | Low builder |
+| **[[permplant-willows-salix-erosion-control-fodder]]** | Good (dense canopy) | Fair | Poor (sparse canopy) |
 | **Residual N for following crop** | 50–100+ kg/ha | 30–60 kg/ha | 20–40 kg/ha |
 ## See Also
 

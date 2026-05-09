@@ -9,7 +9,7 @@ type: concept
 sources: []
 ---
 
-Superconductivity is a quantum mechanical phenomenon in which certain materials exhibit
+Superconductivity is a [[mckenna-quantum-mechanical-correlates-hallucinogenesis]] phenomenon in which certain materials exhibit
 zero electrical resistance and expel magnetic fields below a characteristic critical
 temperature (Tc). Discovered by Heike Kamerlingh Onnes in 1911 at Leiden University
 in solid mercury at 4.2 K, it remains one of the most profound phenomena in condensed
@@ -135,5 +135,5 @@ room-temperature C-S-H claim underscored the field's reproducibility challenges.
 
 - [[bamboo-as-building-material]]
 
-See also: [[holistic-grazing-and-pasture-management]]
-See also: [[seed-saving-and-plant-breeding]]
+See also: [[pasture-management-and-forage]]
+See also: [[natural-farming-guide-seed-saving-and-heirloom-varieties]]

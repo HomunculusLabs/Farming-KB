@@ -13,7 +13,7 @@ sources:
 
 ## Overview
 
-Psilocybin (O-phosphoryl-4-hydroxy-N,N-dimethyltryptamine) and its dephosphorylated active metabolite psilocin (4-hydroxy-N,N-dimethyltryptamine, 4-HO-DMT) are the principal psychoactive compounds found in "magic mushrooms." They are [[5-meo-dmt-compound-profile]] and serotonin. Isolated by Albert Hofmann in 1958 from Psilocybe mexicana, psilocybin acts as a prodrug: it is converted to psilocin in the body, which then acts primarily as a 5-HT2A receptor agonist.
+Psilocybin (O-phosphoryl-4-hydroxy-N,N-dimethyltryptamine) and its dephosphorylated active metabolite psilocin (4-hydroxy-N,N-dimethyltryptamine, 4-HO-DMT) are the principal psychoactive compounds found in "[[guzman-magic-mushrooms-african-species]]." They are [[5-meo-dmt-compound-profile]] and serotonin. Isolated by Albert Hofmann in 1958 from [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]], psilocybin acts as a prodrug: it is converted to psilocin in the body, which then acts primarily as a 5-HT2A receptor agonist.
 
 ## Chemistry
 
@@ -42,9 +42,9 @@ Mushrooms also contain baeocystin (4-phosphoryloxy-N-methyltryptamine) and norba
 - **Prodrug relationship:** Psilocybin is dephosphorylated by alkaline phosphatase enzymes in the body to produce psilocin, which crosses the blood-brain barrier
 - **Oral bioavailability:** Good -- unlike [[psilocybin]]
 
-- [[psilocybin-mushroom-distribution-worldwide]] -- Global distribution by region
+- [[psilocybin-mushroom-distribution-worldwide]] -- [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]] by region
 - [[psychedelic-dose-response]] -- Dose-response relationships across psychedelics
-- [[gartz-magic-mushrooms-global-distribution-patterns]]
+- gartz-magic-mushrooms-global-distribution-patterns
 ## Practical Considerations
 
 When working with Psilocybin Compound Profile, several practical factors should be
@@ -61,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

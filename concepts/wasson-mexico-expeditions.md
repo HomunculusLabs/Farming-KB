@@ -11,7 +11,7 @@ sources:
 
 Between 1953 and the mid-1960s, [Robert Gordon Wasson made ten
 successive trips to Mexico in pursuit of indigenous psychoactive mushroom use. These
-expeditions resulted in the introduction of [psilocybin mushrooms to Western awareness and indirectly catalysed the psychedelic revolution
+expeditions resulted in the introduction of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] to Western awareness and indirectly catalysed the psychedelic revolution
 of the 1960s.
 
 ## Background and Origins
@@ -23,10 +23,10 @@ Mushrooms, Russia and History (1957).
 
 In 1952, Wasson received two letters that would change the course of his life. Both
 arrived virtually in the same post, alerting him to the existence of the Mesoamerican
-mushroom stones and to the fact that the Aztec teonanacatl ("flesh of the gods") had
+[[mckenna-mushroom-stones-of-guatemala]] and to the fact that the Aztec teonanacatl ("flesh of the gods") had
 been a mushroom rather than, as scholars had assumed, a cactus or other plant.
 
-Wasson wrote to the Austrian anthropologist Richard Evans Schultes's colleague Roberto Weitlaner and to the Czech engineer Blasius
+Wasson wrote to the Austrian anthropologist Richard [[richard-evans-schultes-updated]]'s colleague Roberto Weitlaner and to the Czech engineer Blasius
 Reko, both of whom had reported on indigenous mushroom use in Oaxaca. Reko forwarded
 Wasson's letter to Eunice Pike, a missionary resident in the Mazatec town of Huautla
 de Jimenez. Pike confirmed that mushrooms were indeed used in curing rituals and
@@ -72,7 +72,7 @@ returned to Huautla and arranged his now-infamous meeting with the curandera
 [Maria Sabina (1894-1985).
 
 Sabina was not only a locally respected and renowned healer but, most importantly,
-she agreed to let both Wasson and Richardson eat the sacred mushrooms. They thus
+she agreed to let both Wasson and Richardson eat the [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]]. They thus
 became the first known Westerners to intentionally consume psilocybin mushrooms in
 an indigenous ceremonial context.
 
@@ -85,7 +85,7 @@ the Platonic realm of forms.
 ## The Life Article and Its Aftermath
 
 Wasson's account of his experiences was published in the popular American magazine
-Life on 13 May 1957, under the title "Seeking the Magic Mushroom." The article was
+Life on 13 May 1957, under the title "Seeking the [[australian-magic-mushroom-common-names]]." The article was
 read by millions and played a pivotal role in kick-starting the psychedelic
 revolution.
 
@@ -101,7 +101,7 @@ Huautla an essential countercultural destination.
 ## Consequences for the Mazatec
 
 The impact of Wasson's publications on the Mazatec community was profound and largely
-negative. The influx of Western seekers disrupted traditional practices and placed
+negative. The influx of [[ayahuasca-tourism-western-seekers-and-integration]] disrupted traditional practices and placed
 enormous pressure on local curanderos.
 
 For many hippies arriving in Huautla, the mushrooms were "psychedelic" commodities,

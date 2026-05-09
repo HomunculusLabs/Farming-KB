@@ -12,7 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-Research from The Cannabis Health Index documents applications of cannabis in obstetrics and gynecology including menstrual pain (dysmenorrhea), endometriosis, morning sickness, menopause, and fertility. Historical use of cannabis in women's health dates back thousands of years.
+Research from The [[blesching-cannabis-health-index-autoimmune-conditions]] documents applications of cannabis in obstetrics and gynecology including menstrual pain (dysmenorrhea), endometriosis, [[cho-morning-sickness-and-plant-cross-over-period]], menopause, and fertility. Historical use of cannabis in women's health dates back thousands of years.
 
 ## Menstrual Pain (Dysmenorrhea)
 
@@ -75,11 +75,15 @@ Anandamide levels fluctuate during the menstrual cycle in relationship to estrog
 ### Safety Considerations
 **Greenland, Richwald, and Honda (1983)**: "The effects of marijuana use during pregnancy. II. A study in a low-risk home-delivery population."
 
-Study found no significant adverse effects from marijuana use during pregnancy in a low-risk population, but this is a single study and current medical consensus advises against cannabis use during pregnancy due to potential effects on fetal brain development.
+Study found no significant [[blesching-cannabis-safety-adverse-effects-evidence]] from marijuana use during pregnancy in a low-risk population, but this is a single study and current medical consensus advises against cannabis use during pregnancy due to potential effects on fetal brain development.
 
 ## Osteoporosis and Women's Health
 
 Post-menopausal women are at highest risk for osteoporosis. The CB2 receptor's role in bone regulation (see [[cannabis-for-interstitial-cystitis]] Topics
 
 - [[cannabis-endocannabinoid-system]]
-- [[cannabis-endocannabinoid-system]] is deeply integrated with female reproductive biology. In a trial on mice, scientists from Vanderbilt University Medical Center (2002) examined the role of the [[cannabis-cannabinoid-receptor-pharmacology]] receptors on the fertilized egg work together toward successful implantation in the uterine wall. Related: [[cannabis-thc-cbd-ratio-guide-for-conditions]], [[cannabis-for-chronic-pain]], [[cannabis-administration-methods-comparison]] for detailed delivery route information. See [[cannabis-womens-health]] for broader women's health applications - [[cannabis-for-chronic-pain]] for general pain management - [[cannabis-anti-inflammatory-applications]] for anti-inflammatory mechanisms - [[cannabis-dosing-guidelines]] for dosing strategies - [[cannabis-health-index]] for the CHI methodology The formal evidence base for cannabis in menstrual pain is extremely limited with only one study reviewed.
+- [[cannabis-endocannabinoid-system]] is deeply integrated with female reproductive biology. In a trial on mice, scientists from Vanderbilt University Medical Center (2002) examined the role of the [[cannabis-cannabinoid-receptor-pharmacology]] receptors on the fertilized egg work together toward successful implantation in the uterine wall. Related: [[cannabis-thc-cbd-ratio-guide-for-conditions]], [[cannabis-for-chronic-pain]], [[cannabis-administration-methods-comparison]] for detailed delivery route information. See [[cannabis-womens-health]] for broader women's health applications - [[cannabis-for-chronic-pain]] for general [[cannabis-pain-management-protocols]] - [[cannabis-anti-inflammatory-applications]] for anti-inflammatory mechanisms - [[cannabis-dosing-guidelines]] for dosing strategies - [[cannabis-health-index]] for the CHI methodology The formal evidence base for cannabis in menstrual pain is extremely limited with only one study reviewed.
+
+## See Also
+
+- [[womens-health-herbs]]

@@ -1,5 +1,5 @@
 ---
-title: Brain Neuroscience and Psychedelic Mechanism
+title: Brain brain neuroscience and psychedelic mechanism Mechanism
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -8,7 +8,7 @@ tags: [reference]
 ---
 # Brain Neuroscience and Psychedelic Mechanism
 
-Simon G. Powell dedicates Chapter 5 of "The Psilocybin Solution" to a detailed exploration of the neuroscience underlying psychedelic experience. Titled "The Mushroom and the Synapse," the chapter investigates the neuronal architecture of the brain to comprehend the nature and potential dynamics of consciousness, examining how psilocybin and related compounds interact with the brain's information-processing systems.
+Simon G. Powell dedicates Chapter 5 of "The [[powell-psilocybin-solution-ecological-cognition-theory]]" to a detailed exploration of the neuroscience underlying [[leary-psychedelic-experience-bardo-mapping]]. Titled "The Mushroom and the Synapse," the chapter investigates the neuronal architecture of the brain to comprehend the nature and potential dynamics of consciousness, examining how psilocybin and related compounds interact with the brain's information-processing systems.
 
 ## The Neuron and the Nervous System
 
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

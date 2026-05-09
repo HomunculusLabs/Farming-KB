@@ -1,24 +1,25 @@
 ---
-title: Cannabis Flowering Stage Management
+title: green-cannabis-flowering-management Stage Management
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [cannabis, cultivation]
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 # Cannabis Flowering Stage Management
 
-Flowering is triggered by changing the light schedule to 12 hours of light and 12 hours of uninterrupted darkness (12/12). During this stage, cannabis plants develop their resinous buds over 8-12 weeks depending on strain genetics.
+Flowering is triggered by changing the [[query-best-light-schedule-for-cannabis]] to 12 hours of light and 12 hours of uninterrupted darkness (12/12). During this stage, cannabis plants develop their resinous buds over 8-12 weeks depending on strain genetics.
 
 ## Light Schedule
 
 The 12/12 photoperiod is critical. Even brief light leaks during the dark period can:
 - Cause hermaphroditism (plants developing both male and female sex organs).
-- Delay flowering or cause plants to revert to vegetative growth.
+- Delay flowering or cause plants to revert to [[cannabis-vegetative-growth-stage]].
 - Reduce overall yield and potency.
 
-Switch to HPS (High Pressure Sodium) lights or adjust LED spectrum to emphasize red/far-red wavelengths, which promote flower development. As described by Chamovitz in What a Plant Knows, phytochrome receptors detect the length of continuous darkness -- plants measure the night, not the day.
+Switch to HPS (High [[cervantes-high-pressure-sodium-lighting]]) lights or adjust LED spectrum to emphasize red/far-red wavelengths, which promote flower development. As described by Chamovitz in What a Plant Knows, phytochrome receptors detect the length of continuous darkness -- plants measure the night, not the day.
 
 ## Flowering Phase Breakdown
 
@@ -59,7 +60,7 @@ Switch to HPS (High Pressure Sodium) lights or adjust LED spectrum to emphasize 
 
 ### Late Flowering
 - Reduce or eliminate nitrogen in the final 2-3 weeks.
-- Flush with plain water or very light nutrient solution.
+- Flush with plain water or very light [[cannabis-nutrient-solution-preparation]].
 
 ## Trichome Monitoring
 
@@ -83,13 +84,13 @@ Flushing involves stopping nutrient feed 1-2 weeks before harvest and watering w
 ## Environmental Adjustments During Flower
 
 - **Temperature**: Slightly cooler than veg (65-80°F day). A wider day/night differential (10-15°F) can improve terpene production and color expression.
-- **Humidity**: Lower than veg (40-50% RH) to prevent bud rot and powdery mildew. In the final 2 weeks, dropping to 30-40% can help prevent mold.
+- **Humidity**: Lower than veg (40-50% RH) to prevent bud rot and [[cervantes-powdery-mildew-prevention-treatment]]. In the final 2 weeks, dropping to 30-40% can help prevent mold.
 - **CO2**: If supplementing, continue through weeks 4-5 of flower, then discontinue.
 
 ## See Also
 
 - [[cannabis-terpene-profile]] for understanding terpene development
-- [[fungal-chromogens-and-color-change]]
+- fungal-chromogens-and-color-change
 - [[cannabis-vegetative-stage-management]] for vegetative growth techniques, cannabis flowering stage management for flowering period care, and [[cannabis-cloning-and-mother-plants]] for mother plant maintenance. See cannabis pest management for IPM practices suitable for perpetual systems. Related: [[cannabis-photoperiodism-and-light-cycles]]
 ## Merged: Cannabis Floral Morphology
 Cannabis floral morphology encompasses the structure, development, and anatomical features of male and female cannabis flowers. Understanding flower structure is essential for growers, breeders, and anyone working with cannabis, as the floral characteristics determine both reproductive biology and the quality of the final consumable product. - [[cannabis-trichome-types-and-development]] - cannabis flowering stage management - [[cannabis-genetics-and-breeding]] - cannabis-seed-morphology-and-viability - [[cannabis-environment-control]] - [[cannabis-vegetative-stage-management]] - cannabis flowering stage management - cannabis pest management - [[cannabis-photoperiodism-and-light-cycles]] - [[cannabis-lighting-guide]] Normal household temperatures are generally suitable for growing cannabis.

@@ -20,7 +20,7 @@ The ecological niches and substrates where psilocybin-containing mushrooms natur
 
 ## Overview
 
-Psilocybin mushrooms are saprophytic fungi -- they obtain nutrients by decomposing organic matter. Their habitat preferences are determined by substrate availability, moisture, temperature, and the presence of specific nutrients. Understanding habitat is essential for both identification and foraging.
+[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] are saprophytic fungi -- they obtain nutrients by decomposing organic matter. Their habitat preferences are determined by substrate availability, moisture, temperature, and the presence of specific nutrients. Understanding habitat is essential for both identification and foraging.
 
 ## Major Habitat Categories
 
@@ -29,7 +29,7 @@ Psilocybin mushrooms are saprophytic fungi -- they obtain nutrients by decomposi
 The most characteristic habitat for many psilocybin species, particularly in tropical and subtropical regions:
 
 - **Primary species**: *Psilocybe cubensis* is the quintessential dung-inhabiting species, found on the dung of cattle, horses, and other herbivores across tropical and subtropical regions worldwide.
-- Other dung-associated species include *Panaeolus cyanescens*, *P. subbalteatus*, and *P. coprophila*.
+- Other dung-associated species include *[[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]*, *P. subbalteatus*, and *P. coprophila*.
 - Mushrooms typically fruit directly from dung pats or from soil heavily enriched with manure.
 - Seasonal availability depends on rainfall patterns; in tropical regions, fruiting can occur year-round during wet periods.
 - McKenna noted that psilocybin mushrooms of the genus *Psilocybe* grow predominantly on the dung of ungulate herbivores, placing them in the ecological path of early hominids who hunted these animals.
@@ -38,7 +38,7 @@ The most characteristic habitat for many psilocybin species, particularly in tro
 
 Temperate grassland habitats support some of the most widely distributed psilocybin species:
 
-- **Primary species**: *Psilocybe semilanceata* (liberty cap) fruits in autumn in pastures, meadows, and grassy fields, particularly those grazed by sheep and cattle. It does not grow directly on dung but on grass-rich soils enriched by animal activity.
+- **Primary species**: *[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]* (liberty cap) fruits in autumn in pastures, meadows, and grassy fields, particularly those grazed by sheep and cattle. It does not grow directly on dung but on grass-rich soils enriched by animal activity.
 - *Panaeolus cinctulus* occurs in horse pastures and manured fields.
 - Grassland species typically prefer cool, damp autumn conditions and are among the most widely distributed psilocybin fungi in Europe and North America.
 - Species in this habitat often fruit in fairy rings or scattered clusters.
@@ -47,7 +47,7 @@ Temperate grassland habitats support some of the most widely distributed psilocy
 
 Urban and suburban environments support psilocybin mushrooms in landscaped areas:
 
-- **Primary species**: *Psilocybe cyanescens* ("wavy caps") has become naturalized worldwide in wood chip mulch used in landscaping, particularly in the Pacific Northwest of North America and Western Europe.
+- **Primary species**: *[[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]* ("wavy caps") has become naturalized worldwide in wood chip mulch used in landscaping, particularly in the Pacific Northwest of North America and Western Europe.
 - *Psilocybe allenii* and *P. ovoideocystidiata* also occur in mulched garden beds.
 - These species benefit from the nutrient-rich, moisture-retentive environment of hardwood bark mulch.
 - Fruiting typically occurs in autumn when temperatures drop and moisture increases.
@@ -65,7 +65,7 @@ Forests in tropical and subtropical regions harbor the greatest diversity of psi
 
 Specialized coastal habitats support some of the most potent known psilocybin species:
 
-- **Primary species**: *Psilocybe azurescens* occurs in the coastal dune grasslands of Oregon and Washington, growing in sandy soils among dune grasses.
+- **Primary species**: *[[stamets-psi-psilocybe-azurescens-species-guide]]* occurs in the coastal dune grasslands of Oregon and Washington, growing in sandy soils among dune grasses.
 - *Psilocybe cyanescens* also occurs in coastal settings.
 - These species are adapted to the salt spray, sandy soils, and maritime climate of Pacific coastal dunes.
 
@@ -75,7 +75,7 @@ Some psilocybin species are lignicolous (wood-decomposing):
 
 - **Primary species**: *Psilocybe subaeruginosa* (Australia) fruits on decaying hardwood logs and wood chips.
 - *Gymnopilus* species grow on decaying wood and tree stumps.
-- *Pluteus salicinus* occurs on decaying hardwood.
+- *[[gartz-pluteus-salicinus-wood-inhabiting-psilocybin]]* occurs on decaying hardwood.
 - Wood-inhabiting species typically require higher humidity and fruit in autumn.
 
 ### 7. Highland and Alpine Meadows

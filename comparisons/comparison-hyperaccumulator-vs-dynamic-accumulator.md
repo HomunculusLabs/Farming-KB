@@ -1,5 +1,5 @@
 ---
-title: "Hyperaccumulator vs Dynamic Accumulator"
+title: "comparison hyperaccumulator vs dynamic accumulator Accumulator"
 created: 2026-04-28
 tags: [comparison, phytoremediation, plants, soil-health, nutrient-cycling]
 date: 2026-04-25
@@ -14,14 +14,14 @@ type: comparison
 
 ## Overview
 
-Hyperaccumulators and dynamic accumulators are both categories of plants that
+Hyperaccumulators and [[comparison-dynamic-accumulators-vs-cover-crops]] are both categories of plants that
 concentrate minerals at elevated levels, but they serve fundamentally different
 purposes and operate through different biological mechanisms. Hyperaccumulators are
-defined by their extraordinary ability to accumulate heavy metals to toxic
+defined by their extraordinary ability to accumulate [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] to toxic
 concentrations, primarily used in phytoremediation of contaminated sites. Dynamic
 accumulators are valued in gardening and agriculture for gathering and cycling
 nutrients from deep soil layers to the surface. Confusing the two categories can
-lead to poor plant selection for either soil remediation or nutrient management.
+lead to poor plant selection for either soil remediation or [[green-cannabis-grow-bible-nutrient-management-ppm]].
 
 ## Hyperaccumulator Plants
 
@@ -110,4 +110,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

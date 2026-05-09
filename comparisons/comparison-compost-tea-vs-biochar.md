@@ -12,13 +12,13 @@ type: comparison
 # Compost Tea vs Biochar
 
 ## Overview
-Compost tea (specifically actively aerated compost tea, or AACT) and biochar serve
+Compost tea (specifically actively [[actively-aerated-compost-tea]] tea, or AACT) and biochar serve
 complementary but distinct roles in soil management. Compost tea delivers a concentrated
 liquid burst of living microorganisms to soil and plant surfaces, providing immediate
-biological activity and disease suppression. Biochar provides a persistent carbon
+biological activity and [[aact-disease-suppression-mechanisms-ingham]]. Biochar provides a persistent carbon
 structure that improves soil physical properties, nutrient retention, and water-holding
 capacity over decades to millennia. One is a living biological inoculant applied
-repeatedly throughout the growing season; the other is an inert carbon amendment applied
+repeatedly throughout the [[savory-growing-season-and-non-growing-season-management]]; the other is an inert carbon amendment applied
 once or periodically for permanent soil transformation. Together they represent the
 biological and structural pillars of soil health.
 
@@ -28,7 +28,7 @@ Biochar is pyrolyzed biomass (wood, nut shells, bamboo, crop residues) heated in
 oxygen conditions at 400 to 700 degrees Celsius to create a highly porous carbon
 structure with enormous internal surface area. Inspired by Amazonian terra preta
 soils that have remained fertile for 500 to 2,500 years without amendment, biochar
-acts as a persistent mineral sponge that improves cation exchange capacity, holds
+acts as a persistent mineral sponge that improves [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity, holds
 three to five times its weight in water, provides microbial habitat (refugia), and
 sequesters carbon with half-lives of hundreds to thousands of years in soil.
 
@@ -45,7 +45,7 @@ potentially problematic for already alkaline conditions.
 Biochar's strengths are its permanence (a single application lasts decades to
 centuries), water retention in sandy soils (reducing irrigation needs 10 to 30
 percent), nutrient leaching reduction (holding nutrients that would otherwise wash
-away), and carbon sequestration (permanently removing carbon from the atmosphere). Its
+away), and [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] (permanently removing carbon from the atmosphere). Its
 weaknesses are that it is not a fertilizer, requires pre-charging to avoid nutrient
 tie-up, raises pH, and quality varies enormously with feedstock and production
 temperature.
@@ -66,7 +66,7 @@ temperature.
 
 ## When to Choose Compost Tea
 Compost tea is the right choice for immediate biological intervention: boosting soil
-microbiology before planting, suppressing disease outbreaks through foliar application,
+microbiology before planting, suppressing disease outbreaks through [[ultra-low-cost-foliar-application-methods]],
 or recovering stressed plants. It suits no-till gardens, living soil systems, and any
 growing operation that already produces quality compost. Compost tea is ideal for
 regular seasonal applications throughout the growing season when rapid biological

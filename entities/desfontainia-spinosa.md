@@ -44,7 +44,7 @@ The berry is white or greenish yellow, globose, approximately 0.5 inches (1.2 cm
 
 ## Distribution
 
-The species occurs in the highlands of Central America and South America. It has been specifically reported as a hallucinogen from Chile and southern Colombia, suggesting a distribution along the Andean cordillera.
+The species occurs in the highlands of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and South America. It has been specifically reported as a hallucinogen from Chile and southern Colombia, suggesting a distribution along the Andean cordillera.
 
 The plant is found at elevations between 1,500 and 3,500 meters, growing in cloud forests and montane habitats. Its range extends from Colombia through Ecuador, Peru, and Bolivia into southern Chile and Argentina. It prefers humid, shaded environments and is often found growing as an understory shrub in montane forest ecosystems.
 
@@ -60,15 +60,17 @@ The key distinction of D. spinosa from these tropane-containing plants is the ap
 
 ## Conservation and Research Needs
 
-As an understudied psychoactive plant, D. spinosa presents significant opportunities for pharmacological research. Priority areas include isolation and identification of the active alkaloids, characterization of receptor binding profiles, and documentation of remaining indigenous knowledge about its preparation and use. Conservation of both the plant and the cultural traditions surrounding its use should be considered an ethnobotanical priority.
+As an understudied psychoactive plant, D. spinosa presents significant opportunities for pharmacological research. Priority areas include isolation and identification of the active alkaloids, characterization of [[tihkal-receptor-binding-serotonin]] profiles, and documentation of remaining indigenous knowledge about its preparation and use. Conservation of both the plant and the cultural traditions surrounding its use should be considered an ethnobotanical priority.
 
 ## See Also
+
+- [[capparis-spinosa]]
 
 - [[prunus-spinosa]]
 
 - [[brugmansia-sanguinea]] — another "Borrachero" of the Andes
 - [[lobelia-tupa]] — Tabaco del Diablo, used by Mapuche Indians
-- [[lophophora-williamsii]] — Peyote, comparison of New World hallucinogenic plants
+- [[lophophora-williamsii]] — Peyote, comparison of New [[old-world-hallucinogenic-plants-overview]] plants
 ## Practical Considerations
 
 Successful implementation of Desfontainia spinosa requires attention to
@@ -87,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

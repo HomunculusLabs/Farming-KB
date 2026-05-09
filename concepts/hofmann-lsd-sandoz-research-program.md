@@ -1,5 +1,5 @@
 ---
-title: The Sandoz LSD Research Program and Clinical Trials
+title: The Sandoz LSD Research Program and mushroom-cancer-clinical-trials-overview
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Albert Hofmann, LSD - My Problem Child"
@@ -32,7 +32,7 @@ the psychiatric clinic of the University of Zurich. Werner A. Stoll, M.D. (son
 of Professor Arthur Stoll), who led this research, published his results in
 1947 in the Schweizer Archiv fur Neurologie und Psychiatrie, under the title
 "Lysergsaure-diathylamid, ein Phantasticum aus der Mutterkorngruppe" (Lysergic
-acid diethylamide, a phantasticum from the ergot group).
+[[lsd-lysergic-acid-diethylamide-experience-guide]], a phantasticum from the ergot group).
 
 The tests involved healthy research subjects as well as schizophrenic patients.
 The dosages, substantially lower than Hofmann's first self-experiment with 0.25

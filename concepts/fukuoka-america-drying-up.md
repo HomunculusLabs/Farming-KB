@@ -5,12 +5,13 @@ updated: 2026-04-18
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # America Is Drying Up
 
-In *The Road Back to Nature*, [[desertification]] caused by [[fukuoka-critique-soil-cultivation]] consuming and exhausting organic matter
+In *The Road Back to Nature*, [[desertification]] caused by [[fukuoka-critique-soil-cultivation]] consuming and exhausting [[hamilton-composting-and-organic-matter-management]]
 - Few [[fertilizer-pollution-environmental-impact]] through irrigation gradually renders the land less and less productive, creating a vicious cycle where more irrigation is needed to compensate for declining fertility.
 
 ## The Fallow System
@@ -21,7 +22,7 @@ Because the land lacks fertility for continuous cropping:
 - From the air, the land shows alternating green and brown stripes
 - This creates a checkerboard pattern visible from great altitude
 
-Farmers working many-thousand-acre farms in central California grow rice one year, leave the land fallow the next simply to get rid of unwanted millet, and raise summer wheat the third year — meaning they grow only one crop of rice every three years. Fukuoka saw this as an extraordinary waste of land and energy.
+Farmers working many-thousand-acre farms in central California grow rice one year, leave the land fallow the next simply to [[query-how-to-get-rid-of-slugs-and-snails-organically]] of unwanted millet, and raise summer wheat the third year — meaning they grow only one crop of rice every three years. Fukuoka saw this as an extraordinary waste of land and energy.
 
 ## The Cycle of Impoverishment
 
@@ -30,12 +31,12 @@ Fukuoka connects this to his broader analysis of [[fukuoka-natural-soil-fertilit
 
 ## Declining Energy Returns
 
-Fukuoka quantified the failure of modern scientific farming in terms of energy returns:
+Fukuoka quantified the failure of modern [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] in terms of energy returns:
 
-- The yield ratio — the ratio of energy yield to energy input — has been halving every ten years
+- The yield ratio — the ratio of [[holmgren-biomass-fuels-and-energy-yield-ratios]] to energy input — has been halving every ten years
 - At the time of his writing, only one half of the energy poured into the land was recovered
 - To harvest one calorie of food energy, farmers were putting two calories into the land
-- American agriculture could be better characterized as "an industry striving to curtail declines in production" rather than raising productivity
+- [[fukuoka-american-agriculture-fields-of-death]] could be better characterized as "an industry striving to curtail declines in production" rather than raising productivity
 
 ## The Economic Consequence
 
@@ -64,7 +65,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +107,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

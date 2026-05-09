@@ -18,7 +18,7 @@ type: concept
 
 The three highest degrees in traditional Amazonian vegetalista medicine
 are the banco, the sumiruna (sumi), and the muraya. These represent
-ascending levels of shamanic power, each with distinct specialties,
+ascending levels of [[icaros-shamanic-power-songs]], each with distinct specialties,
 spiritual domains, and abilities. One can only reach these degrees
 through years of dieting and fasting with
 [[yakuruna-water-spirits-of-the-amazon]] domain. In visions, the muraya
@@ -72,7 +72,7 @@ particles.
 The banco is the highest degree, a master of all three realms: the
 atmospheric or sidereal, the terrestrial, and the aquatic. He
 possesses sublime powers and has a flying wheel and a diamond sword
-as weapons. The banco lies beneath his mosquito net while various
+as weapons. The banco [[bloomfield-what-lies-beneath-mycelial-architecture-hyphal-biology-subterranean-fungus]] his mosquito net while various
 beings descend a spiritual spiral. Three beings sit on him: an old
 king called Maucanuelotz ("the oldest king"), expert in occult
 science, and his two princes Chaimibaco and Huambrarrah. They devise
@@ -131,6 +131,8 @@ wolves and other animals to evade sorcerers. The banco commands the
 Aceropunta battleship and can raise powers from the depths of the
 earth, including the alipa-tren (train of the earth), the
 ## See Also
+
+- amaringo-three-shamanic-ranks-muraya-sumiruna-banco
 
 - [[shamanic-powers-ayahuasca]] -- Powers wielded at each degree
 - [[plant-teachers-ayahuasca]] -- How the degrees are achieved

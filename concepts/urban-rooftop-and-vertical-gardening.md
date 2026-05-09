@@ -1,5 +1,5 @@
 ---
-title: Urban Rooftop and Vertical Gardening
+title: Urban urban rooftop and vertical gardening Gardening
 created: 2026-04-28
 tags: [urban-permaculture, rooftop-garden, vertical-garden, container-growing, urban-farming]
 date: 2026-04-27
@@ -53,7 +53,7 @@ green roofs with 2 to 6 inches of substrate support succulents, herbs, and
 wildflowers, while intensive green roofs with 6 to 24 inches or more can
 support vegetables and even small shrubs. Lightweight soil mixes using
 perlite, vermiculite, and compost reduce structural loads while maintaining
-moisture retention and nutrient availability.
+moisture retention and [[ph-and-nutrient-availability-garden-soils]].
 
 ## Vertical Gardening Techniques
 
@@ -90,7 +90,7 @@ even salad greens in specially designed pocket systems.
 
 Container growing on balconies, patios, and stairways multiplies growing
 area through vertical stacking. Tomatoes ripen on rooftops; onions frame
-sidewalks. Window boxes, hanging baskets, and tiered plant stands all
+sidewalks. Window boxes, [[hamilton-hanging-baskets-organic]], and tiered plant stands all
 contribute to the total food production of an urban site. Creative vertical
 space usage is a core principle of urban permaculture design.
 
@@ -99,7 +99,7 @@ space usage is a core principle of urban permaculture design.
 Urban permaculture is intensely social. Everything you do is within sight,
 sound, or touch of a neighbor. Rather than privatize and control daily
 activities, urban permaculture seeks to increase and share the diverse
-paths, places, and patterns of urban conviviality. Community building is
+paths, places, and patterns of urban conviviality. [[urban-permaculture-community-building-social-design]] is
 very much a matter of good design, following patterns that connect rather
 than alienate.
 
@@ -116,12 +116,12 @@ the plants in turn moderate the building's temperature.
 
 Urban food production relies on strategies for making the most of limited
 area:
-- Succession planting to harvest multiple crops from the same space
+- [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] to harvest multiple crops from the same space
 - Interplanting fast and slow-growing crops together
 - Using dwarf and bush varieties bred for container growing
 - Maximizing edge effects with curved and irregular bed shapes
 - Growing edible ornamentals that serve both aesthetic and food functions
-- Collecting and composting organic waste from the household
+- Collecting and [[comparison-vermicomposting-vs-composting-organic-garden]] waste from the household
 
 ## Transforming the Urban Landscape
 

@@ -1,6 +1,6 @@
 ---
 
-title: Dairy and Cheese Making
+title: mollison-designers-goat-dairy-and-cheese-production Making
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -75,7 +75,7 @@ Processing goat milk into cheese, butter, yogurt, and other dairy products on th
 
 - Dosage: ~¼-½ tsp liquid rennet per gallon (follow package); dilute in cool chlorine-free water
 - Store liquid rennet in fridge; freeze for long-term (1+ year)
-- **Plant rennet:** Stinging nettle, cardoon thistle, fig sap (see [[herbal-medicine]])
+- **Plant rennet:** [[comparison-stinging-nettle-vs-horsetail]], cardoon thistle, fig sap (see [[herbal-medicine]])
 
 ## Fresh Dairy Products
 
@@ -102,7 +102,7 @@ Processing goat milk into cheese, butter, yogurt, and other dairy products on th
 3. Set 12-18 hours until clean break (curd pulls from pot edge, whey is clear-yellow)
 4. Ladle into cheesecloth; drain 6-12 hours at room temp
 5. Salt (1 tsp/lb); add herbs, garlic, honey, or pepper as desired
-- **Yield:** ~1 lb per gallon. **Shelf life:** 1-2 weeks refrigerated; freezes 3 months
+- **Yield:** ~1 lb per gallon. **[[psilocybin-shelf-life-stability]]:** 1-2 weeks refrigerated; freezes 3 months
 
 ### Ricotta (from whey)
 - Heat saved whey to 195-200°F; add ¼ cup white vinegar per gallon; drain in cheesecloth 15-30 min
@@ -148,50 +148,3 @@ Processing goat milk into cheese, butter, yogurt, and other dairy products on th
 2. Chill to 50-55°F; churn (jar, mixer, or hand crank)
 3. Drain buttermilk; wash butter in cold water until clear (prevents rancidity)
 4. Salt to taste (1% by weight); form into logs; freeze for long storage
-- **Yield:** ~2 cups butter per gallon (with separator)
-
-### Ghee
-- Melt butter slowly; skim foam; cook until solids turn golden
-- Strain through cheesecloth; shelf-stable at room temp for months; smoke point 485°F
-
-## Aging
-
-| Parameter | Range | Notes |
-|---|---|---|
-| Temperature | 50-55°F (10-13°C) | Cooler = slower aging |
-| Humidity | 80-90% | Too dry = cracks; too wet = mold |
-| Light | Dark | UV degrades cheese |
-
-- **Mini cave:** Modified mini-fridge with temperature controller ($30-50)
-- **Waxing:** Food-grade wax, 2-3 coats. Prevents moisture loss. Remove before eating.
-- **Natural rind:** Brush with brine/oil; develops complex flavor. Best for tomme, reblochon.
-- **Vacuum seal:** Easiest for hard cheeses; good moisture retention.
-
-## Equipment
-
-| Item | Cost | Essential? |
-|---|---|---|
-| Dairy thermometer | $8-15 | Yes |
-| Stainless pot (8+ qt) | $30-60 | Yes |
-| Cheesecloth / butter muslin | $5-10 | Yes |
-| Cheese molds | $5-15 | Soft cheese |
-| Cheese press | $30-80 | Hard cheese |
-| pH meter | $10-50 | Recommended |
-| Cream separator | $100-300 | Butter |
-| Mini-fridge + thermostat | $100-200 | Aging |
-
-## Troubleshooting
-
-| Problem | Likely Cause | Fix |
-|---|---|---|
-| Curd won't set | UP milk, cold, weak rennet, chlorinated water | Use raw/pasteurized (not UP) milk; check temp; fresh rennet |
-| Bitter cheese | Too much rennet, excess proteolysis | Reduce rennet 25%; drain sooner |
-| Off-flavors (barnyard) | Poor hygiene, old milk, buck proximity | Filter + cool fast; clean equipment; separate buck |
-| Slimy surface | Yeast contamination | Improve sanitation; reduce humidity |
-| Cracked rind | Too dry | Increase humidity; wax or oil |
-
-## Integration Notes
-- Whey is rich in protein and minerals — feed to ducks, goats, or add to compost
-- [[lactic-acid-bacteria-lab]] are central to all fermented dairy — same principles as EM and FPJ
-- Herbs from [[herbal-medicine]] and [[permaculture-useful-plants-reference]] flavor fresh cheeses beautifully
-- See [[seasonal-planning]] for dairying schedules and [[food-preservation-canning]] for storage methods

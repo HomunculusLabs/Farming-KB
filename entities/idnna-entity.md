@@ -9,7 +9,7 @@ sources:
 ---
 # IDNNA (2,5-Dimethoxy-N,N-dimethyl-4-iodoamphetamine)
 
-IDNNA is a substituted amphetamine compound developed as a potential brain imaging agent for nuclear medicine. It is the N,N-dimethyl derivative of [[doi-entity]].
+IDNNA is a substituted amphetamine compound developed as a potential [[neurochemical-probes-brain-imaging-pihkal]] agent for nuclear medicine. It is the N,N-dimethyl derivative of [[doi-entity]].
 
 The compound was investigated primarily for its potential as a positron emission tomography (PET) brain imaging agent.
 
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

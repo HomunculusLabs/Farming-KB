@@ -1,11 +1,11 @@
 ---
-title: Cannabis Tinctures and Edibles
+title: query-how-to-make-cannabis-tinctures-at-home and Edibles
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 # Cannabis Tinctures and Edibles
 
@@ -28,7 +28,7 @@ Tinctures and edibles are cannabis consumption methods that deliver cannabinoids
 ### Timing and Temperature
 - THCA decarboxylation peaks at ~220°F (105°C)
 - Overheating (>300°F/150°C) degrades THC to CBN (more sedative, less psychoactive)
-- Target: 70-80% decarboxylation (some THCA retained for entourage effect)
+- Target: 70-80% decarboxylation (some THCA retained for [[cannabis-terpene-entourage-effect-profiles]])
 
 ## Tinctures
 
@@ -37,7 +37,7 @@ Tinctures and edibles are cannabis consumption methods that deliver cannabinoids
 - **Golden Dragon**: Heat-assisted extraction. Cannabis simmered in alcohol (low heat, double boiler) for 20 minutes. Faster but less full-spectrum
 - **Dosage**: 1 dropper (1 ml) = approximately 10mg THC (varies with starting material and extraction efficiency)
 - **Sublingual use**: Hold under tongue for 60-90 seconds before swallowing. Faster onset (15-45 min) than swallowing
-- **Shelf life**: 6-12 months at room temperature (alcohol preserves indefinitely)
+- **[[psilocybin-shelf-life-stability]]**: 6-12 months at room temperature (alcohol preserves indefinitely)
 
 ### Glycerin Tinctures
 - Vegetable glycerin instead of alcohol
@@ -72,7 +72,7 @@ Tinctures and edibles are cannabis consumption methods that deliver cannabinoids
 - Use in any recipe calling for butter
 
 ### Canna-Oil
-- Same process as cannabutter using coconut oil, olive oil, or any cooking oil
+- Same process as cannabutter using coconut oil, [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]], or any cooking oil
 - Coconut oil preferred: high fat content, good cannabinoid absorption, mild flavor
 - Works for vegan recipes
 
@@ -122,6 +122,6 @@ Tinctures and edibles are cannabis consumption methods that deliver cannabinoids
 
 ## Related
 - [[cannabis-concentrates-and-extracts]] — for extraction methods
-- [[cannabis-thc-therapeutic-profile]] — for THC therapeutic details
+- [[cannabis-thc-therapeutic-profile]] — for [[cannabis-thc-therapeutic-profile]] details
 - [[cannabis-safety-profile-and-overdose-risk]]
 - [[cannabis-terpene-entourage-effect]]

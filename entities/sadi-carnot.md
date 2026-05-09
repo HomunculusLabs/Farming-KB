@@ -69,7 +69,7 @@ updated: 2026-05-02
 - He died in relative obscurity and did not see the later influence of his work.
 
 ## Legacy
-- Carnot supplied the theoretical upper bound for all heat engines.
+- Carnot supplied the theoretical upper bound for all [[query-why-cant-heat-engines-be-100-percent-efficient]].
 - His work helped turn practical engine improvement into thermodynamic science.
 - The Carnot limit remains central in power generation, refrigeration, and heat-pump analysis.
 - His name anchors Carnot efficiency, Carnot theorem, and the Carnot cycle.
@@ -82,4 +82,5 @@ updated: 2026-05-02
 - Related topic: second law of thermodynamics.
 - Related technology: steam engines and heat engines.
 ## See Also
+- [[modern-homes-mold-crisis-energy-efficient-construction]]
 - [[query-what-is-the-difference-between-hot-compost-and-cold-compost]]

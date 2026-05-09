@@ -1,15 +1,13 @@
 ---
-title: Agaricus bitorquis
+title: stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation
 created: 2026-04-28
 type: species
-tags: [[mycology, identification, gourmet-mushrooms, agaricus]
+tags: [mycology, identification, gourmet-mushrooms, agaricus]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 ---
-# Agaricus bitorquis
-
-Agaricus bitorquis, commonly known as the Pavement Mushroom or the City Mushroom, is a robust edible Agaricus species noted for its tolerance of compacted, disturbed soils. Often found growing through asphalt, along roadsides, and in urban environments, this hardy mushroom is one of the most adaptable members of the genus. Its ability to thrive in poor, compacted substrates makes it a distinctive species among the meadow-inhabiting Agaricus group. See [[agaricus-brunnescens]] for the cultivated button mushroom.
+# Agaricus bitorquis Agaricus bitorquis, commonly known as the Pavement Mushroom or the City Mushroom, is a robust edible Agaricus species noted for its tolerance of compacted, disturbed soils. Often found growing through asphalt, along roadsides, and in urban environments, this hardy mushroom is one of the most adaptable members of the genus. Its ability to thrive in poor, compacted substrates makes it a distinctive species among the meadow-inhabiting Agaricus group. See [[agaricus-brunnescens]] for the cultivated button mushroom.
 
 ## Taxonomy and Description
 
@@ -45,9 +43,9 @@ A. bitorquis is a secondary decomposer adapted to disturbed environments. Its ab
 The heat tolerance of A. bitorquis has attracted research interest for several reasons:
 
 - **Warm-weather cultivation:** Can fruit at temperatures up to 85°F (29°C), significantly higher than the optimal range for A. brunnescens (60-65°F). This makes it potentially valuable for cultivation in tropical and subtropical regions where cooling costs for A. brunnescens cultivation are prohibitive.
-- **Reduced energy costs:** Warm-weather cultivation eliminates or reduces the need for refrigeration during fruiting, potentially lowering production costs significantly.
-- **Season extension:** Could be used to extend the growing season in temperate climates, producing mushrooms during summer months when A. brunnescens cultivation is difficult.
-- **Urban agriculture potential:** Its tolerance of compacted, poor-quality soils makes it an interesting candidate for urban mushroom cultivation projects.
+- **Reduced energy costs:** Warm-weather cultivation eliminates or reduces the need for refrigeration during fruiting, potentially lowering [[fukuoka-textdoc-production-costs-not-coming-down]] significantly.
+- **[[comparison-season-extension-techniques-vs-cold-frame-gardening]]:** Could be used to [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season in temperate climates, producing mushrooms during summer months when A. brunnescens cultivation is difficult.
+- **Urban agriculture potential:** Its tolerance of compacted, poor-quality soils makes it an interesting candidate for urban [[accessible-mushroom-cultivation-for-disabilities]] projects.
 
 ## Detailed Morphology
 
@@ -81,4 +79,4 @@ A. bitorquis is comparable to other Agaricus species in nutritional content:
 - [[agaricus-arvensis]] — Horse Mushroom, larger grassland species
 - [[agaricus-subrufescens]] — Almond Agaricus with medicinal properties
 - [[marasmius-oreades]] — Fairy Ring Mushroom, another common lawn species
-- the-mushroom-cultivator-stamets — Detailed composting and cultivation methods
+- the-mushroom-cultivator-stamets — Detailed composting and [[synthetic-log-cultivation-methods-guide]]

@@ -1,5 +1,5 @@
 ---
-title: Mixmag Survey Magic Mushroom Prevalence Trends 2000 to 2005
+title: Mixmag Survey Magic hallucinogenic-mushroom-prevalence-europe Trends 2000 to 2005
 created: 2026-04-28
 tags:
   - emcdda
@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - EMCDDA Thematic Papers - Hallucinogenic Mushrooms: An Emerging Trend Case Study (Hillebrand, Olszewski, Sedefov, 2006)
+  - EMCDDA Thematic Papers - emcdda-hallucinogenic-mushrooms-emerging-trend-europe: An Emerging Trend Case Study (Hillebrand, Olszewski, Sedefov, 2006)
 type: concept
 ---
 
@@ -60,11 +60,11 @@ The fact that less than half of users expressed an intention to repeat the exper
 
 The Mixmag data consistently showed substantially higher prevalence estimates than general population or school-based surveys. For example, lifetime prevalence among Mixmag respondents far exceeded the rates reported in UK general population surveys for young adults aged 16 to 19, which stood at approximately 11% in 2000. This disparity confirms that hallucinogenic mushroom use was heavily concentrated within dance music and clubbing subcultures.
 
-Among current drug users within the Mixmag sample, defined as those who had used cannabis or any other drug during the past three months and intended to use drugs in the future, lifetime prevalence of hallucinogenic mushroom use rose to 44%, compared to 24% for the overall clubber sample. This finding underscores the strong association between hallucinogenic mushroom use and broader polydrug use patterns within recreational drug using populations.
+Among current drug users within the Mixmag sample, defined as those who had used cannabis or any other drug during the past three months and intended to use drugs in the future, lifetime prevalence of hallucinogenic mushroom use rose to 44%, compared to 24% for the overall clubber sample. This finding underscores the strong association between hallucinogenic mushroom use and broader [[emcdda-clubbing-survey-prevalence-data-polydrug-use-patterns-mushrooms]] within recreational drug using populations.
 
 ## Clubbing Survey Context Across Europe
 
-The Mixmag data should be understood within the broader context of clubbing surveys conducted across Europe during the same period. Non-probability surveys in dance music settings in Belgium, France, Hungary, Italy, the Netherlands, and the UK produced diverse prevalence estimates for hallucinogenic mushroom use. Lifetime prevalence ranged from 9% of clubbers in Budapest (Hungary, 1999, 1,059 respondents across 33 party settings) to 55% in France (2004, 1,500 respondents across five urban centres where electronic music is played).
+The Mixmag data should be understood within the broader context of [[emcdda-hallucinogenic-mushroom-clubbing-surveys-and-prevalence]] conducted across Europe during the same period. Non-probability surveys in dance music settings in Belgium, France, Hungary, Italy, the Netherlands, and the UK produced diverse prevalence estimates for hallucinogenic mushroom use. Lifetime prevalence ranged from 9% of clubbers in Budapest (Hungary, 1999, 1,059 respondents across 33 party settings) to 55% in France (2004, 1,500 respondents across five urban centres where electronic music is played).
 
 Other notable clubbing survey findings included:
 
@@ -90,11 +90,11 @@ The Dutch risk assessment from 2000 reinforced this finding, noting that halluci
 
 ## Telephone Helpline Data as a Complementary Source
 
-Telephone helpline data provided an additional perspective on the impact of hallucinogenic mushroom use. According to FESAT (the European Foundation of Drug Helplines) reports based on biannual information from 26 drug telephone helplines in 16 European countries, there was no significant increase in calls related to hallucinogenic mushrooms during 2004. Belgium reported that 1% of all inquiries to Druglijn in Flanders in both 2003 and 2004 were related to hallucinogenic mushrooms.
+Telephone helpline data provided an additional perspective on the impact of hallucinogenic mushroom use. According to FESAT (the European Foundation of Drug Helplines) reports based on biannual information from 26 drug [[hallucinogenic-mushroom-telephone-helplines-and-emergency-response]] in 16 European countries, there was no significant increase in calls related to hallucinogenic mushrooms during 2004. Belgium reported that 1% of all inquiries to Druglijn in Flanders in both 2003 and 2004 were related to hallucinogenic mushrooms.
 
 The Swedish Poisons Information Centre reported that calls related to hallucinogenic mushrooms peaked at 96 in 1998 but had declined to a relatively low and stable level of 30 to 40 calls annually during the subsequent five years. This decline, which predated the legislative changes in other EU countries, may reflect the natural attrition of an emerging trend as initial novelty effects wore off and as barriers to repeat use (negative experiences, unpredictable potency) took effect.
 
-The helpline data are significant because they represent a demand-driven indicator: people who contact helplines have typically experienced or witnessed adverse effects and are seeking information or assistance. The low and declining helpline contact rates suggest that serious adverse events from hallucinogenic mushroom use were relatively rare, consistent with the broader finding that acute toxicity of psilocybin is low and that most negative outcomes are psychological rather than physical.
+The helpline data are significant because they represent a demand-driven indicator: people who contact helplines have typically experienced or witnessed [[blesching-cannabis-safety-adverse-effects-evidence]] and are seeking information or assistance. The low and declining helpline contact rates suggest that serious adverse events from hallucinogenic mushroom use were relatively rare, consistent with the broader finding that acute toxicity of psilocybin is low and that most negative outcomes are psychological rather than physical.
 
 ## UK South East England Nightclub Survey
 
@@ -115,6 +115,8 @@ The Mixmag survey has several significant limitations. As a non-probability samp
 Despite these limitations, the Mixmag survey remains the only available multi-year trend dataset specifically tracking hallucinogenic mushroom use during a critical period of market expansion and subsequent prohibition.
 
 ## See Also
+
+- [[eu-magic-mushroom-prevalence-and-market-trends]]
 
 - [[hallucinogenic-mushroom-prevalence-europe]]
 - [[emcdda-hallucinogenic-mushroom-markets-availability]]

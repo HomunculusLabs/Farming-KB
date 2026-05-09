@@ -19,7 +19,7 @@ created: 2026-05-07
 
 ## Overview
 
-**Gelato 33** (also known as Gelato #33 or Larry Bird) is a balanced hybrid cannabis strain bred by the Cookie Family in the San Francisco Bay Area during the early 2010s.
+**Gelato 33** (also known as Gelato #33 or Larry Bird) is a balanced hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] bred by the Cookie Family in the San Francisco Bay Area during the early 2010s.
 
 It is a specific phenotype of the broader Gelato genetic line, selected for its exceptional bag appeal, potency, and complex flavor profile.
 
@@ -51,7 +51,7 @@ The calyxes are tightly packed and covered in a thick layer of frosty white tric
 
 Bright orange pistils wind through the bud structure in moderate density, becoming more pronounced as flowers mature.
 
-The overall visual impression is one of deep, rich coloration with exceptional resin production that is immediately apparent to the eye.
+The overall visual impression is one of deep, rich coloration with exceptional [[cannabis-glandular-trichome-types-resin-production-clarke]] that is immediately apparent to the eye.
 
 ## Aroma and Flavor
 
@@ -93,7 +93,7 @@ Medically, patients report using Gelato 33 for chronic pain management, stress r
 
 The linalool content may contribute to anxiolytic effects, while caryophyllene offers potential anti-inflammatory benefits.
 
-Potential adverse effects include dry mouth, dry eyes, anxiety at high doses, and mild paranoia in sensitive individuals.
+Potential [[blesching-cannabis-safety-adverse-effects-evidence]] include dry mouth, dry eyes, anxiety at high doses, and mild paranoia in sensitive individuals.
 
 ## Cultivation
 
@@ -101,20 +101,23 @@ Gelato 33 is considered a moderate-difficulty strain suitable for growers with s
 
 **Flowering time:** 8–9 weeks indoors, with outdoor harvest typically occurring in early to mid-October.
 
-**Indoor yield:** 400–500 g/m² under optimal conditions with proper training and environmental control.
+**Indoor yield:** 400–500 g/m² under optimal conditions with proper training and [[eclss-environmental-control-life-support]].
 
 The plants respond well to low-stress training (LST) and scrog methods, developing a bushy structure with multiple bud sites.
 
 Color expression (purple hues) is enhanced by cooler nighttime temperatures during the final two weeks of flowering.
 
-The strain is susceptible to powdery mildew in high-humidity environments and requires adequate airflow and ventilation.
+The strain is susceptible to [[cervantes-powdery-mildew-prevention-treatment]] in high-humidity environments and requires adequate airflow and ventilation.
 
-Pest resistance is moderate, with spider mites being the most common pest issue in indoor cultivation.
+Pest resistance is moderate, with spider mites being the most common pest issue in [[cannabis-sativa-indoor-cultivation-techniques]].
 
 ## See Also
 
+- [[bacio-gelato]]
+- [[gelato-41]]
+
 - [[thin-mint-cookies]]
 - [[runtz-entity]]
-- [[wedding-cake-cannabis]]
+- [[wedding-cake]]
 - [[sour-diesel]]
 - [[jack-herer]]

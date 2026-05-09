@@ -17,15 +17,15 @@ sources:
 
 ## Introduction
 
-pleurotus euosmus is a lesser-known member of the Oyster mushroom genus, valued
-among gourmet mushroom cultivators for its distinctive aromatic qualities. The species
+pleurotus euosmus is a lesser-known member of the [[cotter-oyster-mushroom-cultivation]] genus, valued
+among [[growing-gourmet-mushroom-dehydration-methods-equipment]] cultivators for its distinctive aromatic qualities. The species
 epithet "euosmus" derives from Greek, meaning "good smelling" or "fragrant," a direct
 reference to the pleasant bouquet that sets this mushroom apart from many of its
 [[growing-gourmet-pleurotus-tuber-regium-african-sclerotial-oyster]],
 [[growing-gourmet-pleurotus-tuber-regium-african-sclerotial-oyster]],
 [[growing-gourmet-pleurotus-tuber-regium-african-sclerotial-oyster]].
 
-The species also qualifies for liquid inoculation techniques, sharing this distinction
+The species also qualifies for liquid [[cotter-inoculation-techniques-and-hygiene]], sharing this distinction
 with other commercially significant fungi such as
 agrocybe-aegerita|Pioppino, flammulina-velutipes|Enoki,
 ganoderma-lucidum|Reishi, hericium-erinaceus|Lion's Mane,
@@ -34,7 +34,7 @@ lentinula-edodes|Shiitake, and pholiota-nameko|Nameko.
 
 ## Description
 
-Fruitbodies of pleurotus euosmus exhibit the classic Oyster mushroom morphology
+Fruitbodies of pleurotus euosmus exhibit the classic Oyster [[pf-tek-mushroom-morphology-and-lifecycle-stages]]
 with a fan-shaped to shell-shaped pileus (cap) that typically ranges from 5 to 12 cm
 in diameter. The cap surface is smooth, often with a subtle sheen, and can vary in
 coloration from pale cream to light tan or greyish tones depending on growing conditions.
@@ -66,7 +66,7 @@ comprehensive distribution records remain incomplete.
 
 In nature, pleurotus euosmus functions as a wood and straw saprophyte, decomposing
 dead or dying hardwood material in forest and grassland environments. It is typically
-found growing on fallen logs, standing dead timber, and accumulated woody debris.
+found growing on fallen logs, standing dead timber, and accumulated [[fungal-succession-woody-debris-ecology]].
 
 The species favors warm, humid conditions and is most commonly encountered during late
 spring through early autumn when temperatures are elevated and moisture levels are
@@ -74,7 +74,7 @@ adequate.
 
 Its natural ecological role mirrors that of other [[growing-gourmet-pleurotus-tuber-regium-african-sclerotial-oyster]].
 
-In preparation, P. euosmus can be used similarly to other Oyster mushrooms: sauteed,
+In preparation, P. euosmus can be used similarly to other [[query-how-to-grow-oyster-mushrooms-at-home]]: sauteed,
 stir-fried, added to soups, or incorporated into pasta dishes and risottos. Its
 aromatic qualities are best preserved with gentle cooking methods that do not overwhelm
 the delicate fragrance. Pairing with light sauces, herbs, and mild cheeses allows the

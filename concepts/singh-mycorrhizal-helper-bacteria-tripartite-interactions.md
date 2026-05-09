@@ -19,7 +19,7 @@ type: concept
 Mycorrhizal helper bacteria (MHB) are a functional group of rhizosphere
 bacteria that selectively promote the establishment and functioning of
 mycorrhizal symbioses. These bacteria form the third partner in the
-tripartite interactions between plants, arbuscular mycorrhizal (AM) or
+tripartite interactions between plants, [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] (AM) or
 ectomycorrhizal (ECM) fungi, and bacteria, creating complex microbial
 consortia that enhance plant fitness and soil health. Singh's treatment
 of MHB underscores their role as mediators of [[singh-fungal-plant-growth-promoting-mechanisms]].
@@ -27,7 +27,7 @@ of MHB underscores their role as mediators of [[singh-fungal-plant-growth-promot
 ## Definition and Functional Group
 
 MHB are not a taxonomic group but are defined by their functional ability
-to enhance mycorrhizal colonization. They were first described by Garbaye
+to enhance [[arbuscular-mycorrhizal-colonization-patterns]]. They were first described by Garbaye
 (1994) and include species from diverse genera such as Pseudomonas,
 Bacillus, Streptomyces, and Burkholderia. Unlike general plant
 growth-promoting rhizobacteria (PGPR), MHB specifically stimulate fungal
@@ -39,9 +39,9 @@ or indirect, mediated through plant signaling pathways.
 
 ### Direct Effects on Fungal Partners
 MHB produce a range of metabolites that directly stimulate fungal growth.
-Volatile organic compounds (VOCs) such as 2,3-butanediol and acetoin
+[[fungal-volatile-organic-compounds-communication]] compounds (VOCs) such as 2,3-butanediol and acetoin
 released by certain Pseudomonas strains trigger faster hyphal branching
-and increased metabolic activity in arbuscular mycorrhizal fungi. Some
+and increased [[arbuscule-isolation-metabolic-activity-assays]] in arbuscular mycorrhizal fungi. Some
 MHB also secrete siderophores that improve iron nutrition for both the
 fungus and the host plant, a mechanism shared with
 [[mycoremediation-pahs]] contexts where
@@ -63,12 +63,12 @@ inoculant generally produces the best results.
 ## Signaling in Tripartite Systems
 
 Molecular communication among the three partners involves a complex web
-of chemical signals. Strigolactones released by plant roots stimulate
+of [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]. Strigolactones released by plant roots stimulate
 both AM fungal hyphal branching and, indirectly, MHB colonization of the
 rhizosphere. Mycorrhizal fungi release Myc factors (lipochitooligosaccharides) that activate plant symbiotic signaling pathways; MHB can
 amplify this signal or produce analogous compounds. Quorum-sensing
 molecules such as N-acyl homoserine lactones from MHB regulate biofilm
-formation and coordinate the bacterial community associated with the
+formation and coordinate the [[core-endorhiza-bacterial-community-composition-cannabis]] associated with the
 mycorrhizal mantle. Cross-kingdom signaling via diffusible VOCs enables
 communication between spatially separated partners.
 
@@ -77,4 +77,4 @@ communication between spatially separated partners.
 MHB-inoculated mycorrhizal systems are valuable tools for ecological
 restoration and [[singh-fungal-plant-growth-promoting-mechanisms]]
 - [[singh-fungal-siderophore-production-iron-acquisition]]
-- [[singh-ectomycorrhizal-morphotype-identification]]
+- singh-ectomycorrhizal-morphotype-identification

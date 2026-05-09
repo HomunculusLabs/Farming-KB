@@ -1,5 +1,5 @@
 ---
-title: Dosage Unpredictability and Subjective Experience Variation in Psilocybin Mushrooms
+title: Dosage Unpredictability and Subjective Experience Variation in forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc
 tags:
   - dosage
   - psilocybin
@@ -14,7 +14,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Bigwood, J. and Beug, M.W. (1982). Variation of Psilocybin and Psilocin Levels with Repeated Flushes of Mature Sporocarps of Psilocybe cubensis. Journal of Ethnopharmacology, 5, 287-291.
+  - Bigwood, J. and Beug, M.W. (1982). Variation of Psilocybin and Psilocin Levels with Repeated Flushes of Mature Sporocarps of brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting. Journal of Ethnopharmacology, 5, 287-291.
 type: concept
 created: 2026-04-28
 ---
@@ -31,7 +31,7 @@ what can be attributed to [[set-and-setting]], formalized by Norman Zinberg and 
 and others, has long been the dominant framework for understanding variability in psychedelic
 experiences. Bigwood and Beug's data adds a critical third variable: actual pharmacological dose
 received. Their conclusion states explicitly that "variations in the subjective experience will not
-only come from the effects of set and setting but will also stem in very real measure from large
+only come from the effects of [[lsd-set-and-setting-framework]] but will also stem in very real measure from large
 dosage differences."
 
 This conclusion is grounded in hard analytical data rather than anecdotal observation. The
@@ -69,13 +69,13 @@ accumulate.
 ## Dosage Thresholds and Experience Quality
 
 The tenfold variation among street samples has direct implications for the type and intensity of
-experience a user will have. Contemporary clinical research suggests approximate dosage thresholds
+experience a user will have. Contemporary [[hofmann-lsd-clinical-research-early-studies]] suggests approximate dosage thresholds
 for oral psilocybin:
 
 - Sub-perceptual (below 1 mg): Minimal detectable effects, possible subtle mood enhancement
 - Low (1 to 5 mg): Mild perceptual changes, heightened color perception, mood elevation
 - Moderate (5 to 15 mg): Noticeable alterations in consciousness, visual phenomena, introspective insights
-- High (15 to 25 mg): Profound alterations, mystical-type experiences possible, ego dissolution
+- High (15 to 25 mg): Profound alterations, mystical-type experiences possible, [[psilocybin-ego-dissolution-mechanisms]]
 - Very high (above 25 mg): Intense experiences with complete ego dissolution, possible anxiety or challenging experiences
 
 Given that 1 gram of dried Psilocybe cubensis might contain anywhere from 0.7 mg to 8.3 mg of
@@ -97,7 +97,7 @@ psilocybin levels are similar, adding yet another layer of unpredictability to w
 ## Implications for Clinical Research
 
 The dosage unpredictability problem underscores the importance of using chemically standardized
-psilocybin preparations rather than whole mushroom material in clinical research. Clinical trials
+psilocybin preparations rather than whole mushroom material in clinical research. [[mushroom-cancer-clinical-trials-overview]]
 using synthetic psilocybin (such as those conducted by Roland Griffiths and colleagues at Johns
 Hopkins, and Robin Carhart-Harris at Imperial College London) administer precise milligram doses of
 pure compound, eliminating the variability that Bigwood and Beug documented. For

@@ -1,5 +1,5 @@
 ---
-title: Designer States of Consciousness Critique in Food of the Gods
+title: mckenna food gods designer states of consciousness of Consciousness Critique in Food of the Gods
 created: 2026-04-28
 tags: [consciousness, mckenna, media-critique, dominator, culture]
 date: 2026-04-28
@@ -78,7 +78,7 @@ yet it goes largely unexamined and unchallenged.
 ## Psychedelics as Exopheromones
 
 McKenna develops the concept of psychedelics as "exopheromones,"
-chemical signals that act between members of a species to dissolve the
+[[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] that act between members of a species to dissolve the
 dominant ego and promote connection with the broader matrix of
 experience. In this framing, psychedelics are not recreational
 substances but evolutionary tools that promote the expansion of
@@ -98,7 +98,7 @@ of mass culture.
 
 McKenna credits the botanists and chemists who preserved and
 rediscovered the psychoactive plants and compounds that offer an
-alternative to manufactured consciousness: Richard Schultes, R. Gordon
+alternative to manufactured consciousness: [[mckenna-richard-schultes-harvard-ethnobotany-psychoactive-plants]], R. Gordon
 Wasson and his wife Valentina, and Albert Hofmann. Thanks to them, in
 this most chaotic of centuries, humanity has taken into its frail hands
 the means to do something about the predicament of manufactured

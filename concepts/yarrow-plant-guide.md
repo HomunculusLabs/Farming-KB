@@ -1,10 +1,11 @@
 ---
-title: Yarrow Growing Guide
+title: Yarrow comparison-bean-growing-guide-vs-pepper-growing-guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [medicine, plants, cultivation, species-profiles, companion-planting, pollinators, permaculture, ethnobotany]
-sources: []
+sources:
+  sources: []
 ---
 
 # Yarrow Growing Guide (Achillea millefolium)
@@ -14,7 +15,7 @@ sources: []
 Yarrow is a hardy perennial herb native to temperate regions of the Northern
 Hemisphere. Named for Achilles, who supposedly used it to treat soldiers'
 wounds during the Trojan War, yarrow has been a staple medicinal plant across
-European, Asian, and Native American herbal traditions for millennia. It is
+European, Asian, and [[halpern-sacramental-peyote-and-native-american-church]] herbal traditions for millennia. It is
 also an excellent companion plant, pollinator attractor, and drought-tolerant
 garden resident.
 
@@ -34,7 +35,7 @@ and yellow varieties.
 
 ## Medicinal Uses
 
-Yarrow is one of the most versatile medicinal herbs in the temperate garden.
+Yarrow is one of the most versatile [[permaculture-plants-medicinal-herbs-healing]] in the temperate garden.
 Its primary active compounds include achilleine (a hemostatic alkaloid),
 flavonoids, tannins, and essential oils (chamazulene, camphor, eucalyptol).
 
@@ -64,7 +65,7 @@ Yarrow is one of the best all-around companion plants for a homestead garden:
 
 - Attracts predatory insects: Ladybugs, lacewings, hoverflies, and parasitic
   wasps are drawn to yarrow's nectar-rich flowers. These insects are
-  biological control agents for aphids, caterpillars, and other pests.
+  [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents for aphids, caterpillars, and other pests.
 - Improves soil: Yarrow accumulates copper, potassium, and phosphorus. Its
   deep root system opens compacted soil and draws nutrients to the surface.
 - Boosts essential oil production: When planted near aromatic herbs, yarrow
@@ -130,8 +131,8 @@ protected from light. Properly dried yarrow retains potency for 1-2 years.
 
 ## Common Issues
 
-Yarrow is largely pest and disease free. Overly rich soil or excessive
-moisture can cause powdery mildew or root rot. Aphids occasionally appear
+Yarrow is largely [[hamilton-pest-and-disease-control-organic]] free. Overly rich soil or excessive
+moisture can cause [[cervantes-powdery-mildew-prevention-treatment]] or root rot. Aphids occasionally appear
 but rarely cause significant damage. The aromatic foliage naturally deters
 deer and rabbits.
 

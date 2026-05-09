@@ -1,5 +1,5 @@
 ---
-title: Chicken Tractors and Egg Production
+title: mollison designers chicken tractors egg production and Egg Production
 created: 2026-04-28
 tags:
   - permaculture
@@ -26,7 +26,7 @@ systems where the outputs of one element become inputs for others.
 
 ## Chicken Tractor Design
 
-A chicken tractor is a lightweight, floorless enclosure that confines
+[[query-how-to-design-a-chicken-tractor-system]] is a lightweight, floorless enclosure that confines
 chickens to a specific area of ground while allowing them access to
 soil, vegetation, insects, and sunlight. The tractor is moved regularly
 to fresh ground, distributing manure evenly and preventing the buildup
@@ -117,7 +117,7 @@ Feed strategies in permaculture chicken systems emphasize reducing
 imported feed through:
   - Free-ranging within the tractor enclosure over diverse vegetation
   - Kitchen scraps and food waste
-  - Black soldier fly larvae and other insect protein sources
+  - [[comparison-black-soldier-fly-composting-vs-bokashi]] fly larvae and other insect protein sources
   - Dedicated fodder crops such as comfrey, amaranth, and millet
   - Grain from on-site production (corn, sorghum, wheat)
   - Supplementary minerals: grit for digestion, oyster shell or
@@ -135,13 +135,14 @@ and manuring, clean up crop residues after harvest, control pests
 and weeds in fallow areas, and fertilize orchard floors between fruit
 trees. This multi-functional approach exemplifies the permaculture
 principle of each element performing multiple functions.
-
 ## See Also
 
-- mollison designers integrated animal systems
+- mollison [[mollison-designers-integrated-vermiculture-composting-systems]] animal systems
 - mollison designers zone planning
-- mollison designers small livestock forage
-- mollison designers composting methods
+- mollison designers small [[permaculture-livestock-forage-systems]]
+- mollison [[mollison-designers-composting-toilets-and-humanure]] methods
 - [[mollison-designers-charcoal-production-biochar-soil-amendment]]
-- [[permaculture-designers-manual-chicken-tractors]]
+- permaculture-designers-manual-chicken-tractors
 - [[mollison-designers-plant-nursery-seedling-production]]
+- [[bill-mollison]]
+- [[mollison-designers-market-garden-intensive-production-design]]

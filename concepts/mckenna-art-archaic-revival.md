@@ -1,5 +1,5 @@
 ---
-title: "Art and the Archaic Revival"
+title: "Art and the mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained"
 created: 2026-04-28
 tags: [mckenna, food-of-the-gods, archaic-revival, art, shamanism, imagination,
 exopheromones, language, dominator-culture, consciousness-expansion, cultural-
@@ -15,9 +15,9 @@ type: concept
 
 ## Overview
 
-In the final chapter of *Food of the Gods*, "Anticipating the Archaic Paradise,"
+In the final chapter of *Food of the Gods*, "Anticipating the [[mckenna-archaic-paradise-techniques-ecstasy]],"
 Terence McKenna articulates a vision of art as the primary shamanic response to
-dominator culture. He frames the Archaic Revival as a clarion call to recover
+[[mckenna-dominator-culture-and-suppression-of-ecstasy]]. He frames the Archaic Revival as a clarion call to recover
 humanity's birthright through creative expression synergized by psychedelic
 experience. Art, in McKenna's formulation, is not merely an aesthetic practice
 but a technology of consciousness, a means of reconnecting with the Gaian mind
@@ -31,7 +31,7 @@ exopheromones that dissolve the dominant ego, then they are also enzymes that
 synergize the human imagination and empower language. They cause us to connect
 and reconnect the contents of the collective mind in ever more implausible,
 beautiful, and self-fulfilling ways. Art becomes the medium through which the
-psychedelic experience is integrated into culture and transmitted across
+[[leary-psychedelic-experience-bardo-mapping]] is integrated into culture and transmitted across
 generations.
 
 In McKenna's archaic framework, this creative function was continuous and
@@ -65,7 +65,7 @@ temporal distortion, and a tendency to experience mild hallucinations, is
 nothing more than a gloss for egoless and unbounded psychedelic arousal.
 Pfeiffer neglected to discuss psychoactive plants, but McKenna fills this gap by
 arguing that the twilight state was maintained and catalyzed by the ritual
-ingestion of psilocybin mushrooms.
+ingestion of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]].
 
 ## The Technological Imperative
 
@@ -89,7 +89,7 @@ states of consciousness.
 
 ## Psychedelics as Enzymes of Imagination
 
-McKenna develops the concept of psychedelics as exopheromones, chemical signals
+McKenna develops the concept of psychedelics as exopheromones, [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]
 from the plant kingdom that regulate the symbiotic relationship between humans
 and the vegetable mind. Beyond this ecological function, they act as enzymes of
 the imagination. In the state of hallucinogenic intoxication, creativity is not

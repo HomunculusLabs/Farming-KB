@@ -92,7 +92,7 @@ Amaringo describes the two plants as snake spirits:
 
 ## Legacy
 
-Amaringo's paintings bridge Amazonian shamanism and the global art world, providing an unparalleled visual record of ayahuasca visionary experiences. His work contributed to international awareness of Amazonian plant medicine traditions and the concept of plant consciousness.
+Amaringo's paintings bridge [[mckenna-food-gods-amazonian-shamanism-ayahuasca]] and the global art world, providing an unparalleled visual record of ayahuasca visionary experiences. His work contributed to international awareness of Amazonian plant medicine traditions and the concept of plant consciousness.
 
 ## See Also
 

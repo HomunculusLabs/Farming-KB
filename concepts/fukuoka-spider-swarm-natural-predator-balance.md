@@ -1,5 +1,5 @@
 ---
-title: Fukuoka Spider Swarm and Natural Predator Balance
+title: Fukuoka fukuoka spider swarm natural predator balance and fukuoka-natural-predator-protection Balance
 tags: [fukuoka, natural-farming, pest-control, spiders, ecology, biological-control]
 date: 2026-04-28
 updated: 2026-04-28
@@ -22,8 +22,8 @@ of apparently harmless ash.
 This experience illustrated his broader principle: "Applying an insecticide is not simply a
 matter of eliminating the leafhoppers together with their natural predators. Many other
 essential dramas of nature are affected." Even organic inputs can disrupt the [[conventional-vs-organic-vs-regenerative|Green Revolution]]. The "Good Rice Movement" depended on weak, improved seed
-varieties that required chemicals and insecticides eight to ten times per growing season. In a
-short time the soil was burned clean of microorganisms and organic matter. Crops came to be
+varieties that required chemicals and insecticides eight to ten times per [[savory-growing-season-and-non-growing-season-management]]. In a
+short time the soil was burned clean of microorganisms and [[hamilton-composting-and-organic-matter-management]]. Crops came to be
 dependent on nutrients added from the outside in the form of chemical fertilizer.
 
 Fukuoka estimated that abandoning chemicals would cause only about ten percent loss in the first
@@ -113,4 +113,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

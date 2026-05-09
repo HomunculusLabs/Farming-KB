@@ -48,7 +48,7 @@ Sporulation of Sanghuangporus villosus occurs throughout the year in perennial b
 
 ## Bioactive Compounds and Pharmacology
 
-Sanghuangporus villosus produces a diverse array of bioactive secondary metabolites consistent with the sanghuang group. Polysaccharides are the primary bioactive constituents, with beta-glucans representing the major immunomodulatory fraction. Water-soluble polysaccharides from the fruiting body show significant immunostimulatory activity.
+Sanghuangporus villosus produces a diverse array of bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]] consistent with the sanghuang group. Polysaccharides are the primary bioactive constituents, with beta-glucans representing the major immunomodulatory fraction. Water-soluble polysaccharides from the fruiting body show significant immunostimulatory activity.
 
 Triterpenoids isolated from the species include inotodiol, trametenolic acid, and several lanostane-type triterpenes unique to the Sanghuangporus genus. These compounds demonstrate anti-inflammatory activity through inhibition of NF-kappaB signaling and suppression of pro-inflammatory cytokine production.
 
@@ -74,11 +74,11 @@ Clinical trials of sanghuang-derived preparations have shown encouraging results
 
 ## Cultivation
 
-Cultivation of Sanghuangporus villosus remains challenging due to its slow growth rate and specific substrate requirements. Artificial cultivation has been achieved on supplemented hardwood sawdust substrates, primarily using oak or beech sawdust enriched with wheat bran and gypsum.
+Cultivation of Sanghuangporus villosus remains challenging due to its slow growth rate and specific substrate requirements. [[fukuoka-matsutake-artificial-cultivation-attempt]] has been achieved on supplemented hardwood sawdust substrates, primarily using oak or beech sawdust enriched with wheat bran and gypsum.
 
 Optimal cultivation parameters include temperatures of 25-28 degrees Celsius for mycelial growth and 18-22 degrees Celsius for fruiting initiation. High relative humidity of 85-95% is required for normal basidiocarp development. The time from inoculation to harvest ranges from 90-180 days, significantly longer than most cultivated medicinal mushrooms.
 
-Biological efficiency on sawdust substrates is relatively low at 5-15% fresh weight, reflecting the slow-growing nature of the species. Research on liquid culture fermentation for production of mycelial biomass and extracellular polysaccharides offers a more efficient alternative for industrial-scale bioactive compound production.
+[[stamets-biological-efficiency-yield]] on sawdust substrates is relatively low at 5-15% fresh weight, reflecting the slow-growing nature of the species. Research on liquid culture fermentation for production of mycelial biomass and extracellular polysaccharides offers a more efficient alternative for industrial-scale bioactive compound production.
 
 Submerged fermentation optimization has identified glucose and yeast extract as preferred carbon and nitrogen sources for maximum polysaccharide yield. Pilot-scale bioreactors have achieved biomass concentrations of 15-25 g/L dry weight within 7-10 days, significantly faster than solid-state cultivation timelines.
 
@@ -86,9 +86,9 @@ Submerged fermentation optimization has identified glucose and yeast extract as 
 
 Accurate identification of Sanghuangporus species is critical for both medicinal use and scientific research, as commercial "sanghuang" products frequently contain misidentified species. S. villosus can be distinguished from the commercially important S. linteus by its velvety pileus surface and host preference for Quercus species.
 
-Molecular identification using ITS (internal transcribed spacer) region sequencing has become the standard method for species discrimination within the genus. Phylogenetic analysis reveals that Sanghuangporus species form distinct clades corresponding to their geographic origin and host associations.
+[[biodiversity-fungal-molecular-identification-dna-barcoding]] using ITS (internal transcribed spacer) region sequencing has become the standard method for species discrimination within the genus. Phylogenetic analysis reveals that Sanghuangporus species form distinct clades corresponding to their geographic origin and host associations.
 
-Morphological overlap among species has historically led to taxonomic confusion, with many herbarium specimens requiring DNA barcoding for accurate identification. The revision of the genus in 2019 clarified species boundaries and provided reliable morphological keys for field identification.
+Morphological overlap among species has historically led to [[neurotropic-fungi-taxonomic-confusion-and-identification]], with many herbarium specimens requiring DNA barcoding for accurate identification. The revision of the genus in 2019 clarified species boundaries and provided reliable morphological keys for field identification.
 
 The ecological role of Sanghuangporus species as wood-decay fungi contributes to nutrient cycling and forest dynamics in East Asian temperate forests. Their preference for oak-dominated forests links them to some of the most biodiverse and threatened forest ecosystems in the region, creating an intersection between conservation of the fungi and their host tree communities.
 
@@ -100,7 +100,7 @@ Conservation concerns have prompted research into artificial cultivation and sus
 
 The international trade in sanghuang products has expanded significantly with growing interest in medicinal mushrooms worldwide. Quality standardization efforts focus on establishing species-specific chemical marker profiles to ensure product authenticity and protect consumers from adulterated or misidentified material.
 
-International regulatory frameworks for medicinal mushrooms vary significantly, with sanghuang classified as a dietary supplement in most Western countries and as a traditional medicine in China, Japan, and Korea. Harmonization of quality standards and good manufacturing practices remains an ongoing challenge for the global sanghuang industry.
+International regulatory frameworks for medicinal mushrooms vary significantly, with sanghuang classified as a dietary supplement in most Western countries and as a traditional medicine in China, Japan, and Korea. Harmonization of [[aact-compost-quality-standards-ingham]] and good manufacturing practices remains an ongoing challenge for the global sanghuang industry.
 
 ## See Also
 

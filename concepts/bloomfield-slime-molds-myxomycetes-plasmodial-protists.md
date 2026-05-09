@@ -1,5 +1,5 @@
 ---
-title: Slime Molds, Myxomycetes, and Plasmodial Protists
+title: bloomfield slime molds myxomycetes plasmodial protists, Myxomycetes, and Plasmodial Protists
 created: 2026-04-28
 tags:
   - protist-biology
@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# [[kingdom-fungi-overview]]. They belong to several distinct
+# kingdom-fungi-overview. They belong to several distinct
 groups, the most prominent being the Myxomycetes (plasmodial slime
 molds), Dictyosteliida (cellular slime molds), and Protosteliida. Their
 resemblance to fungi is a striking example of convergent evolution,
@@ -104,4 +104,9 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[myxomycetes-slime-molds]]
+- [[fungal-phylogeny-microsporidia-slime-molds]]
+- [[teaming-with-microbes-algae-slime-molds]]
+- [[slime-molds]]
+- [[bloomfield-pythium-oomycete-water-molds]]

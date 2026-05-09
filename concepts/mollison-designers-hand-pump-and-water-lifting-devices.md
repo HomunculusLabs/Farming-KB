@@ -16,8 +16,8 @@ type: concept
 
 # Hand Pump and Water Lifting Devices
 
-Bill Mollison surveys traditional and [[permaculture]]: A Designers' Manual. He presents these technologies as
-essential for [[integrate-rather-than-segregate]] sucked from above. This distinction is critical for well and
+Bill Mollison surveys traditional and permaculture: A Designers' Manual. He presents these technologies as
+essential for integrate-rather-than-segregate sucked from above. This distinction is critical for well and
 pump design.
 
 ## Shadoof (Sweep or Well-Pole)
@@ -130,3 +130,11 @@ sustainability is local maintenance capacity:
 - Keep critical spare parts (washers, valves, seals) on site
 - Protect moving parts from weather and corrosion
 - Regular inspection of well casing and water quality
+## See Also
+- [[bill-mollison]]
+- [[mollison-designers-soil-water-storage-in-forest-systems]]
+- [[mollison-designers-trout-and-cool-water-aquaculture-species]]
+- [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
+- [[mollison-designers-soil-water-storage-and-field-capacity]]
+
+- [[semiconductor-physics-and-devices]]

@@ -1,5 +1,5 @@
 ---
-title: Soil Fungal Isolation Techniques — Suspension Plating and Selective Media
+title: Soil selective-agents-fungal-isolation-antibiotics-fungicides Techniques — Suspension Plating and Selective Media
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -22,7 +22,7 @@ Soil fungal surveys rely on indirect isolation techniques in which fungal propag
 
 ## Suspension Plating
 
-The most commonly used method (often incorrectly called "dilution plating"):
+The most commonly used method (often incorrectly called "[[particle-filtration-dilution-plating-microfungal-isolation]]"):
 
 ### Basic Protocol
 1. Prepare dilution series from 5-20g soil in sterile water (ratios of 1:100 to 1:200,000)
@@ -85,9 +85,11 @@ Discourage practice of taking only "different-looking" colonies arbitrarily. Str
 
 ## See Also
 
+- [[fungal-microscopic-examination-mounting-media-techniques]]
+
 - [[soil-chytridiomycete-isolation-baiting-techniques]]
 
-- [[fungal-culture-preservation-methods]]
+- fungal-culture-preservation-methods
 - [[molecular-methods-fungal-taxonomy-and-diversity]]
 - [[particle-filtration-dilution-plating-microfungal-isolation]]
 - [[bark-beetle-fungi-ophiostomatales-collection-isolation]]

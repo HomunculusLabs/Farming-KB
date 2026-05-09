@@ -1,12 +1,12 @@
 ---
-title: Mushroom Spore Printing Syringe Preparation Pf Tek
+title: emcdda-hallucinogenic-mushroom-spore-distribution-home-cultivation Printing mushroom-spore-syringe-preparation-and-storage Pf Tek
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 type: concept
 tags: [spore-print, spore-syringe, mushroom-propagation, sterile-technique, mycology]
 created: 2026-05-08
 ---
 # Mushroom Spore Printing and [[psilocybe-cubensis]], the print appears as a deep purple
-deposit. Spore printing is the standard method for preserving mushroom genetics
+deposit. Spore printing is the standard method for preserving [[stamets-mushroom-genetics-mating-systems-reproduction]]
 and initiating new cultivation cycles. The [[psilocybe-cubensis-potency-harvest-timing]]
 - [[mushroom-cultivation]]
 ## Background and Context
@@ -138,3 +138,6 @@ conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
 
+## See Also
+
+- [[mushroom-spore-syringe-preparation-inoculation]]

@@ -11,13 +11,13 @@ type: entity
 # Sapodilla
 
 **Type:** Species (Plant)
-**Category:** Evergreen fruit tree
+**Category:** Evergreen [[comparison-berry-growing-vs-fruit-tree-pruning]]
 **Also known as:** Manilkara zapota, sapota, Santo Domingo apricot,
 marmalade plum, naseberry, nispero, chiku, chicle tree
 
 ## Overview
 Sapodilla is a large, slow-growing, attractively shaped evergreen tree
-(5-18 m) native to Central America. It produces russet-brown fruit with
+(5-18 m) native to [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. It produces russet-brown fruit with
 honey-coloured, juicy, very sweet pulp. The tree is the original source
 of chicle, the natural latex base for chewing gum. It begins fruiting
 at about 8 years from seed (3-4 years from grafts), is drought
@@ -37,7 +37,7 @@ termite-resistant timber used since Mayan times.
 - **First fruit:** 8 years from seed, 3-4 years from grafts
 
 ### Growth Requirements
-- Soil: Prefers moist, well-drained soil with organic matter; adaptable
+- Soil: Prefers moist, well-drained soil with [[hamilton-composting-and-organic-matter-management]]; adaptable
   to many soil types
 - Drought: Tolerant
 - Salt spray: Reasonably tolerant
@@ -71,7 +71,7 @@ termite-resistant timber used since Mayan times.
   furniture, cabinet making, railway sleepers, flooring, tool handles,
   rulers; Mayan temple lintels still intact
 - **Shade:** Good shade or windbreak species
-- **Animal forage:** Some potential
+- **[[permaculture-designers-manual-animal-forage-systems]]:** Some potential
 
 ### Propagation
 - Grafted plants preferred (seed-grown trees may not grow true to type)

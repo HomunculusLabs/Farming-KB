@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-Water quality is one of the most critical yet overlooked factors in pesticide effectiveness. JADAM emphasizes that only when pesticide "wets" the target fully can it effectively control pests and leave no marks on fruits or leaves. The quality of water plays a decisive role in determining the wetting power of any pesticide, whether natural or chemical.
+Water quality is one of the most critical yet overlooked factors in pesticide effectiveness. JADAM emphasizes that only when pesticide "wets" the target fully can it effectively [[query-how-to-control-pests-without-chemicals]] and leave no marks on fruits or leaves. The quality of water plays a decisive role in determining the wetting power of any pesticide, whether natural or chemical.
 
 ## Hard Water vs Soft Water
 
@@ -98,4 +98,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

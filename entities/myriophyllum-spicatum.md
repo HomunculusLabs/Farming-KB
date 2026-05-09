@@ -21,7 +21,7 @@ sources:
 
 **Myriophyllum spicatum**, commonly known as Eurasian watermilfoil, is a submerged aquatic plant in the family Haloragaceae native to Europe, Asia, and North Africa.
 
-It is one of the most aggressive invasive aquatic plants in North America, where it was introduced in the 1940s and has since spread to most U.S. states and Canadian provinces.
+It is one of the most aggressive invasive aquatic plants in [[psilocybin-north-america-pacific-northwest]], where it was introduced in the 1940s and has since spread to most U.S. states and Canadian provinces.
 
 The species forms dense monospecific stands that displace native vegetation, impede recreation, and alter aquatic ecosystem function.
 
@@ -65,11 +65,11 @@ It tolerates water depths from 0.5 to 10 meters, with optimal growth in 1–4 me
 
 Preferred substrates include fine sand, silt, and organic mud, though it can root in coarser gravels.
 
-The plant is highly tolerant of a wide temperature range, surviving winter dormancy under ice cover in northern latitudes.
+The plant is highly tolerant of a wide [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]], surviving winter dormancy under ice cover in northern latitudes.
 
 ## Ecology and Interactions
 
-Eurasian watermilfoil forms dense surface canopies that shade out native submerged macrophytes and reduce dissolved oxygen.
+Eurasian watermilfoil forms dense surface canopies that shade out native submerged macrophytes and reduce [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]].
 
 These monospecific stands reduce habitat complexity compared to diverse native plant communities, negatively affecting fish and invertebrate diversity.
 
@@ -91,7 +91,7 @@ Despite its invasive status, *M. spicatum* has been investigated for phytoremedi
 
 The plant efficiently accumulates nitrogen, phosphorus, and certain heavy metals including lead and cadmium from contaminated water.
 
-Harvested biomass has been tested as feedstock for biogas production through anaerobic digestion.
+Harvested biomass has been tested as feedstock for biogas production through [[biogas-digester-basics]].
 
 In its native range the species is a component of balanced aquatic plant communities and is not considered problematic.
 
@@ -111,7 +111,7 @@ Mechanical harvesting with aquatic weed cutters provides immediate relief but pr
 
 Herbicide treatments using 2,4-D, diquat, or fluridone are effective but raise concerns about non-target impacts on native plants.
 
-The milfoil weevil (*Euhrychiopsis lecontei*) is a specialist herbivore that has been deployed as a biological control agent in North America.
+The milfoil weevil (*Euhrychiopsis lecontei*) is a specialist herbivore that has been deployed as a [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent in North America.
 
 Benthic barrier mats placed on lake bottoms can suppress established beds by blocking light to rooted plants.
 
@@ -119,7 +119,7 @@ Prevention through boat inspection and decontamination programs is considered th
 
 ## Reproductive Biology
 
-Sexual reproduction in *M. spicatum* produces small flowers above the water surface on emergent spikes. Pollination occurs primarily by wind, though insect visitation has also been documented. Seed production is variable and often low compared to vegetative output.
+[[fungal-life-cycles-sexual-reproduction-metamorphosis]] in *M. spicatum* produces small flowers above the water surface on emergent spikes. Pollination occurs primarily by wind, though insect visitation has also been documented. Seed production is variable and often low compared to vegetative output.
 
 Seeds are minute and lack specialized dispersal structures, limiting natural seed-based spread. Germination rates under laboratory conditions range from 10–60% depending on temperature and light regimes. Seed banks in sediments can persist for several years.
 

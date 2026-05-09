@@ -1,8 +1,8 @@
 ---
-title: "Biological Pest Control and Succession"
+title: "cervantes-biological-pest-control-predators Control and Succession"
 created: 2026-04-28
 tags: [holistic-management, biological-control, succession-management,
-  [[integrated-pest-management]], ecosystem-complexity, green-revolution]
+  integrated-pest-management, ecosystem-complexity, green-revolution]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [savory-holistic-resource-management.md]
@@ -21,13 +21,13 @@ type: concept
 
 - [[natural-farming-guide-biological-pest-control-predators]]
 
-- grasshopper and insect outbreaks - How ecosystem health affects
+- [[savory-grasshopper-and-insect-outbreaks]] outbreaks - How ecosystem health affects
   pest populations
-- cause and effect guideline - Testing whether controls address
+- [[fukuoka-textdoc-no-cause-and-effect-in-nature]] guideline - Testing whether controls address
   causes or symptoms
-- living organisms as tools - Using organisms as management tools
-- technology as management tool - Broader technological context
-- complexity and wholistic thinking - Why complexity prevents
+- [[savory-living-organisms-as-tools]] as tools - Using organisms as management tools
+- [[savory-technology-as-management-tool]] tool - Broader technological context
+- [[savory-complexity-and-wholistic-thinking]] thinking - Why complexity prevents
   outbreaks
 ## Practical Applications
 
@@ -106,4 +106,4 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+- [[jadam-pest-control-with-natural-pesticides-jhs]]

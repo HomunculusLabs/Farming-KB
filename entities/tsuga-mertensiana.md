@@ -10,8 +10,8 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Little, E.L. (1979). "Checklist of United States Trees (Native and Naturalized)." USDA Forest Service Agriculture Handbook 541.
-  - Taylor, R.J. (1993). "Tsuga." In: Flora of North America North of Mexico, Vol. 2. Oxford University Press.
+  - Little, E.L. (1979). "Checklist of dmt-containing-plants-united-states-halpern Trees (Native and Naturalized)." USDA Forest Service Agriculture Handbook 541.
+  - Taylor, R.J. (1993). "Tsuga." In: Flora of [[psilocybin-north-america-pacific-northwest]] North of Mexico, Vol. 2. Oxford University Press.
   - Klinka, K. et al. (2000). "Distribution and Synopsis of Ecological and Silvical Characteristics of Tree Species of British Columbia." Canadian Forest Service.
   - Farjon, A. (2017). "A Handbook of the World's Conifers." 2nd ed. Brill.
 ---
@@ -64,13 +64,13 @@ The seeds are consumed by numerous bird and mammal species, including crossbills
 
 Mountain hemlock is relatively fire-sensitive due to its thin bark and shallow root system. Stand-replacing fires are the dominant disturbance regime in subalpine forests where this species occurs. Post-fire regeneration is often slow, relying on seed dispersal from unburned refugia.
 
-The species forms ectomycorrhizal associations with a diverse community of fungal partners. These symbiotic relationships enhance nutrient uptake, particularly phosphorus and nitrogen, in the often nutrient-poor subalpine soils. Common mycorrhizal associates include *Cortinarius*, *Russula*, and *Lactarius* species.
+The species forms ectomycorrhizal associations with a diverse community of fungal partners. These symbiotic relationships enhance [[plant-nutrient-uptake-mechanisms]], particularly phosphorus and nitrogen, in the often nutrient-poor subalpine soils. Common mycorrhizal associates include *Cortinarius*, *Russula*, and *Lactarius* species.
 
 In subalpine ecosystems, mountain hemlock stands play a critical role in snowpack retention and hydrological regulation. Their dense crowns intercept and slowly release snowmelt, contributing to sustained summer streamflows in mountain watersheds.
 
 The species is moderately shade-tolerant, able to persist in the understory for extended periods before release opportunities arise. It regenerates well on decaying logs, nurse logs, and in canopy gaps created by windthrow or fire.
 
-Mountain hemlock forests support diverse epiphytic communities, including extensive moss and lichen growth on branches and trunks. Old-growth stands harbor significant biomass and contribute to carbon storage in high-elevation landscapes.
+Mountain hemlock forests support diverse epiphytic communities, including extensive moss and lichen growth on branches and trunks. Old-growth stands harbor significant biomass and [[query-how-do-fungi-contribute-to-carbon-sequestration]] storage in high-elevation landscapes.
 
 ## Timber and Economic Uses
 
@@ -98,7 +98,7 @@ Several dwarf cultivars have been selected from witch's broom mutations and are 
 
 Notable cultivars include 'Elizabeth', a compact rounded form reaching approximately 1 meter in height at maturity. 'Bergman' is another dwarf selection with dense blue-green foliage and a slow growth rate, making it popular in alpine gardens.
 
-Climate change poses a potential long-term threat to mountain hemlock throughout much of its range. As temperatures rise and winter snowpacks diminish, the species may face increasing competition from lower-elevation conifers migrating upslope.
+[[dighton-fungi-climate-change-feedback]] poses a potential long-term threat to mountain hemlock throughout much of its range. As temperatures rise and winter snowpacks diminish, the species may face increasing competition from lower-elevation conifers migrating upslope.
 
 Indigenous peoples of the Pacific Northwest used mountain hemlock wood for carving, tool handles, and construction of shelters and fish traps. The inner bark was occasionally used as a food source during times of scarcity.
 

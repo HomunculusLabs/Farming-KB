@@ -22,22 +22,22 @@ sources:
 
 - **Kingdom:** Fungi
 - **Division:** Basidiomycota
-- **Class:** [[baeocystin]]** — A related [[gymnopilus-luteofolius]] — Related psychoactive species with similar coloration
+- **Class:** [[baeocystin]]** — A related gymnopilus-luteofolius — Related psychoactive species with similar coloration
 - [[psilocybe-cyanescens]] — Potent psychoactive species for comparison of tryptamine profiles
 
 ## Safety Notes
 
-While *Gymnopilus aeruginosus* contains psilocybin, accurate field identification of *Gymnopilus* species is difficult. Some species in the genus are bitter and unpleasant but non-psychoactive. The intense bitter taste at psychoactive doses would make consumption extremely unpleasant. Proper identification should always be confirmed microscopically by examining spore morphology and ornamentation. The rusty-brown spore print and rough spore walls are key diagnostic features that distinguish *Gymnopilus* from other wood-inhabiting genera.
+While *Gymnopilus aeruginosus* contains psilocybin, accurate field identification of *Gymnopilus* species is difficult. Some species in the genus are bitter and unpleasant but non-psychoactive. The intense bitter taste at psychoactive doses would make consumption extremely unpleasant. Proper identification should always be confirmed microscopically by examining spore morphology and ornamentation. The rusty-brown [[comparison-spore-print-collection-vs-spore-syringe-production]] and rough spore walls are key diagnostic features that distinguish *Gymnopilus* from other wood-inhabiting genera.
 
 ## Conservation Status
 
-*Gymnopilus aeruginosus* has not been formally assessed for conservation status. Its association with decaying hardwood in temperate forests suggests that populations are tied to the availability of suitable woody substrates. Forest management practices that remove dead wood and fallen logs may impact local populations, though the species is not currently considered at risk.
+*Gymnopilus aeruginosus* has not been formally assessed for conservation status. Its association with decaying hardwood in temperate forests suggests that populations are tied to the availability of suitable woody substrates. [[mollison-pdc-forest-management-products]] practices that remove [[fungal-dead-wood-diversity]] and fallen logs may impact local populations, though the species is not currently considered at risk.
 
 ## References
 
 - Schultes, R.E. (1976). *A Golden Guide to Hallucinogenic Plants*. Golden Press, New York.
-- Stamets, P. (1996). *Psilocybin Mushrooms of the World*. Ten Speed Press.
-- Guzmán, G., Allen, J.W., & Gartz, J. (1998). A worldwide geographical distribution of the neurotropic fungi. *Mycotaxon*, 71, 71-91.
+- Stamets, P. (1996). *[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World*. Ten Speed Press.
+- Guzmán, G., Allen, J.W., & Gartz, J. (1998). A worldwide geographical distribution of the [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]. *Mycotaxon*, 71, 71-91.
 ## Practical Considerations
 
 When working with Gymnopilus aeruginosus, several practical factors should be
@@ -54,7 +54,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -96,4 +96,7 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+## See Also
+- [[psilocybin-mushrooms]]
+- [[neurotropic-fungi]]
+- [[psilocybin-mushroom]]

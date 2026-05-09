@@ -1,5 +1,5 @@
 ---
-title: "Greenhouse Heating and Temperature Control"
+title: "biomass-compost-greenhouse-heating-systems and Temperature Control"
 created: 2026-04-28
 tags: [greenhouse, heating, temperature, insulation, protected-cultivation]
 date: 2026-04-25
@@ -12,7 +12,7 @@ type: concept
 
 The amount of heat used in a greenhouse determines what can be grown and
 when. In temperate climates, frost-tender plants can only be kept in a
-cold greenhouse for four to six weeks before the last expected frost. By
+[[coleman-cold-greenhouse-double-layer-protection]] for four to six weeks before the last expected frost. By
 providing just enough heat to keep frost at bay, the greenhouse becomes
 far more productive. Half-hardy perennials like fuchsias and geraniums can
 be overwintered, and tender plants can be started much earlier.
@@ -85,14 +85,14 @@ containing plants that need protection.
 
 A propagator reduces heating costs by restricting the heated area. These
 enclosed cases with built-in heating elements maintain a steady 65-70
-degrees F (18-21 degrees C) for seed germination. A small propagator can
+degrees F (18-21 degrees C) for [[cannabis-seed-germination-methods]]. A small propagator can
 accommodate all the seeds needed by most gardens. Homemade versions can be
 made from a wooden box lined with heavy plastic and filled with expanded
 styrofoam granules, heated by an electric cable or even boiling water.
 
 ### Hot Beds
 
-A hot bed heats plant roots by surrounding them with fresh horse manure.
+A hot bed heats plant roots by surrounding them with fresh [[falconer-horse-manure-varieties]].
 It is a cheap, organic alternative to undersoil cable heating. Build a
 layer of fresh strawy horse manure, add two more layers with a second
 soil layer and lime between them, then cover with soil. The decomposing
@@ -114,7 +114,7 @@ because it targets heat directly where the plant needs it most.
 - Ventilate during sunny days even in winter to prevent overheating
 - Remove insulation promptly in spring to maximise light
 - Keep heaters well-maintained and serviced annually
-- Position heaters where air circulation is even throughout the house
+- Position heaters where [[stamets-growing-room-air-circulation-co2-management]] is even throughout the house
 - Use capillary matting or trickle irrigation to simplify watering
 - Always ensure greenhouse plants are hardened off before moving outside
 

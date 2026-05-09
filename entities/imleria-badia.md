@@ -24,7 +24,7 @@ sources:
 
 Imleria badia, the bay bolete, is an edible ectomycorrhizal mushroom in
 Boletaceae, widely distributed across temperate forests of Europe, Asia, and
-North America. It fruits from mid-summer through late autumn beneath conifers
+[[psilocybin-north-america-pacific-northwest]]. It fruits from mid-summer through late autumn beneath conifers
 and hardwoods, and remains one of the most commonly collected wild edible
 mushrooms in central and northern Europe.
 
@@ -92,15 +92,15 @@ Cannot be grown on sterile substrate like saprotrophic species.
 Nursery inoculation of *Pinus sylvestris* seedlings has shown limited
 success, with the most promising approach being field planting of
 mycorrhizal seedlings. Yields are inconsistent and all commercial supply
-comes from wild foraging, primarily in eastern Europe.
+comes from [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]], primarily in eastern Europe.
 
 ## Ecological Role
 
-As an ectomycorrhizal species, I. badia facilitates nutrient exchange —
+As an ectomycorrhizal species, I. badia facilitates [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] —
 particularly phosphorus and nitrogen — between soil and host plants through
-its mycelial network.
+its [[gadd-mycelial-network-dynamics]].
 
-It shows moderate heavy metal tolerance and has been studied as a
+It shows moderate heavy [[fungal-metal-tolerance-mechanisms]] and has been studied as a
 bioindicator for forest soil contamination. It accumulates cesium-137 from
 radioactive fallout, useful for monitoring Chernobyl-affected regions.
 

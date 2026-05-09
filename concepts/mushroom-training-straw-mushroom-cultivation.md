@@ -13,14 +13,14 @@ sources:
   - ~/wiki/raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 ---
 
-# [[volvariella-volvacea-cultivation-guide]]), known as "Hed Fang" in Thailand, are among the
-fastest-growing cultivated mushrooms with a complete production cycle of only 7 to 23 days.
+# volvariella-volvacea-cultivation-guide), known as "Hed Fang" in Thailand, are among the
+fastest-growing [[fungi-cultivated-mushrooms-pathogens-competitors]] with a complete production cycle of only 7 to 23 days.
 Unlike [[volvariella-volvacea]] (Thai) | Hed Fang Thai | 29 to 37 C | Summer and rainy |
 | Volvariella volvacea (Taiwan) | Hed Fang Taiwan | 28 to 38 C | Summer and rainy |
-| [[mushroom-spawn]]
+| mushroom-spawn
    - 1 layer of sawdust waste from old bags
    - 1 layer of broken spent bags
-   - 1 layer of straw mushroom spawn
+   - 1 layer of mushroom training straw mushroom cultivation spawn
    - 1 layer of sawdust waste from old bags
    - 1 layer of broken spent bags
    - 1 layer of straw mushroom spawn
@@ -35,7 +35,7 @@ Unlike [[volvariella-volvacea]] (Thai) | Hed Fang Thai | 29 to 37 C | Summer and
 ## Bed Arrangement
 
 9. Repeat the bed-making operation several times, leaving approximately 20 cm between each
-   cake to allow space for mushroom growth and access
+   cake to allow space for [[pf-tek-mushroom-growth-timeline]] and access
 
 10. Make a drain around the series of cakes to allow drainage of excess water
 
@@ -49,7 +49,7 @@ Unlike [[volvariella-volvacea]] (Thai) | Hed Fang Thai | 29 to 37 C | Summer and
     temperature inside the bed
 
 14. After 3 days, allow air into the bed by setting up a curve under the plastic sheet to
-    create more air circulation
+    create more [[stamets-growing-room-air-circulation-co2-management]]
 
 ## Fruiting and Harvesting
 
@@ -64,15 +64,15 @@ are still edible but command a lower market price.
 ## Advantages of Straw Mushroom Cultivation
 
 - Extremely fast production cycle (7 to 23 days total)
-- Recycles spent substrate from bag cultivation, reducing waste
+- Recycles [[oyster-mushroom-spent-substrate-recycling]] from bag cultivation, reducing waste
 - Can be grown outdoors with minimal infrastructure
 - Higher temperature tolerance suits tropical climates
-- Low input costs using agricultural waste materials
+- Low input costs using [[fungi-in-composting-and-agricultural-waste-conversion]] materials
 - Can serve as a complementary crop alongside bag-based cultivation
 
 ## Relationship to Other Cultivation Methods
 
-Straw mushroom cultivation fits into the broader [[mushroom-training-oyster-straw-cultivation]], ear mushroom, and other
+Straw mushroom cultivation fits into the broader mushroom-training-oyster-straw-cultivation, ear mushroom, and other
 species cultivation are broken down and reused as the primary substrate for straw mushroom
 beds. This creates a nearly zero-waste production system.
 
@@ -83,3 +83,9 @@ beds. This creates a nearly zero-waste production system.
 - More susceptible to pest damage in outdoor settings
 - Multiple production cycles require careful scheduling
 - Heavy rainfall can disrupt outdoor beds despite drainage provisions
+## See Also
+- [[mushroom-cultivation]]
+- [[volvariella-volvacea]]
+- [[mushroom-cultivation-for-disabilities-training-program]]
+- [[training-program-mushroom-cultivation]]
+- [[mushroom-cultivation-disabilities-training-manual-overview]]

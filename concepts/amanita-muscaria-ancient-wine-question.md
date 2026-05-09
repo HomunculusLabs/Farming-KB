@@ -1,5 +1,5 @@
 ---
-title: Amanita Muscaria Ancient Wine Question
+title: allegro-amanita-muscaria-properties-and-pharmacology Ancient Wine Question
 created: 2026-04-19
 updated: 2026-04-18
 type: concept
@@ -9,7 +9,7 @@ tags: [amanita-muscaria, mycology]
 
 # Amanita Muscaria and the Ancient Wine Question
 
-One of the most provocative arguments in "Amanita Muscaria: Herb of Immortality" concerns the nature of ancient wine. The author proposes that some or all ancient wines -- particularly those used in sacramental contexts -- were not alcoholic beverages but rather water-based extracts of [[amanita-muscaria-ambrosia-preparation]] of [[amanita-muscaria-eucharist-wafer-preparation]])
+One of the most provocative arguments in "Amanita Muscaria: [[amanita-muscaria-herb-of-immortality-soma-hypothesis]]" concerns the nature of ancient wine. The author proposes that some or all ancient wines -- particularly those used in sacramental contexts -- were not alcoholic beverages but rather water-based extracts of [[amanita-muscaria-ambrosia-preparation]] of [[amanita-muscaria-eucharist-wafer-preparation]])
 - **Wine** = Mushroom blood (grape juice extract diluted with water)
 
 The Last Supper becomes a mushroom Eucharist ceremony.
@@ -66,8 +66,8 @@ The sequence might have been:
 If the theory is correct, it would mean:
 
 1. The transformation of water into wine (at Cana, and in Dionysian ritual) was a reference to diluting concentrated mushroom extract
-2. All ancient wine cultures may have originated from Amanita muscaria preparation
-3. The development of alcoholic fermentation may have been discovered as a side effect of mushroom preparation
+2. All ancient wine cultures may have originated from Amanita [[amanita-muscaria-preparation-methods]]
+3. The development of alcoholic fermentation may have been discovered as a side effect of [[magic-mushroom-preparation-and-consumption-methods]]
 4. The universal ancient practice of wine dilution preserves a fossil of the original mushroom-based beverage
 
 ## See Also
@@ -76,6 +76,8 @@ If the theory is correct, it would mean:
 - [[amanita-muscaria-drying-and-preparation]] -- Pre-processing
 - [[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]] -- Vedic evidence
 - [[amanita-muscaria-sacramental-wine-preparation]]
+- [[amanita-in-ancient-religion]]
+
 ## Practical Considerations
 
 Successful implementation of Amanita Muscaria Ancient Wine Question requires attention to
@@ -94,4 +96,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

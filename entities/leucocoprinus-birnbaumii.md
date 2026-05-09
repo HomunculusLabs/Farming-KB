@@ -22,7 +22,7 @@ sources:
 
 # Leucocoprinus birnbaumii (Flowerpot Parasol)
 
-**Leucocoprinus birnbaumii**, commonly known as the **flowerpot parasol**, **plantpot dapperling**, or **yellow houseplant mushroom**, is a species of agaric fungus in the family **Agaricaceae**. It is the most frequently encountered mushroom growing in indoor potted plants and greenhouses worldwide, recognized by its bright yellow coloration and its association with commercial potting soils.
+**Leucocoprinus birnbaumii**, commonly known as the **flowerpot parasol**, **plantpot dapperling**, or **yellow houseplant mushroom**, is a species of agaric fungus in the family **Agaricaceae**. It is the most frequently encountered [[duggar-mushroom-growing-history-and-methods]] in indoor potted plants and greenhouses worldwide, recognized by its bright yellow coloration and its association with commercial potting soils.
 
 ## Taxonomy and Nomenclature
 
@@ -93,8 +93,8 @@ The species is **cosmopolitan** in distribution, found indoors on every inhabite
 
 Despite its toxicity to humans, *L. birnbaumii* plays important ecological roles:
 
-- **Decomposition of organic matter** in potting soils and compost
-- **Nutrient mineralization** — breaks down complex organic compounds into plant-available forms
+- **Decomposition of [[hamilton-composting-and-organic-matter-management]]** in potting soils and compost
+- **Nutrient mineralization** — breaks down complex [[fungal-volatile-organic-compounds-communication]] into plant-available forms
 - **Bioindicator** — its presence indicates warm, moist, organic-rich conditions
 - **Soil ecology** — contributes to the microbial diversity of container substrates
 
@@ -103,10 +103,10 @@ Despite its toxicity to humans, *L. birnbaumii* plays important ecological roles
 The fungus persists in potting soil as **mycelium** within the organic component (peat, composted bark, coconut coir). When environmental conditions align — temperatures above 20°C (68°F), high humidity, and adequate moisture — the mycelium produces fruiting bodies. The lifecycle follows the typical agaric pattern:
 
 1. **Mycelial colonization** of organic substrate
-2. **Primordia formation** in response to humidity and temperature triggers
+2. **[[growing-gourmet-primordia-formation-pinning]]** in response to humidity and temperature triggers
 3. **Fruiting body maturation** within 2–5 days
 4. **Spore release** via basidia on the gill surfaces
-5. **Spore dispersal** by air currents; spores contaminate new potting media
+5. **[[aquatic-fungi-spore-dispersal-ingold]]** by air currents; spores contaminate new potting media
 
 Mushrooms may appear repeatedly from the same pot over weeks or months as the mycelium cycles through fruiting. They typically disappear when soil dries out or temperatures drop.
 
@@ -117,7 +117,7 @@ Mushrooms may appear repeatedly from the same pot over weeks or months as the my
 | ***Leucocoprinus cepistipes*** | White to cream-colored; lacks yellow pigmentation; also found in greenhouses |
 | ***Leucocoprinus fragilissimus*** | Very fragile, translucent; more strongly striate cap margin |
 | ***Lepiota* spp.** | Often larger, with brown scales; many are toxic |
-| ***Chlorophyllum molybdites*** | Much larger, green spore print; causes severe GI toxicity |
+| ***[[guzman-chlorophyllum-molybdites-toxic-edible-paradox-yoruba-divinatory-use]]*** | Much larger, green spore print; causes severe GI toxicity |
 
 ## Management in Indoor Settings
 
@@ -132,7 +132,7 @@ For indoor gardeners encountering *L. birnbaumii*:
 
 ## See Also
 
-- [[chlorophyllum-molybdites]]
+- chlorophyllum-molybdites
 - [[mucor-piriformis]]
 - [[trichoderma]]
 - [[mycorrhiza]]

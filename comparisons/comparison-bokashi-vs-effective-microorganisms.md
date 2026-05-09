@@ -1,5 +1,5 @@
 ---
-title: Bokashi vs Effective Microorganisms (EM)
+title: comparison bokashi vs effective microorganisms Microorganisms (EM)
 tags:
   - composting
   - fermentation
@@ -34,7 +34,7 @@ type: comparison
 | **Origin** | Traditional Japanese practice, centuries old | Developed by Teruo Higa, University of the Ryukyus, ~1980 |
 | **Type** | Process / method | Product / inoculant |
 | **Core principle** | Anaerobic lactic acid fermentation preserves organic matter | Multi-strain microbial consortium for soil and waste applications |
-| **Key organisms** | Lactobacillus spp., yeasts, photosynthetic bacteria (when inoculated) | *Lactobacillus plantarum*, *Lactobacillus casei*, *Saccharomyces cerevisiae*, *Rhodopseudomonas palustris*, and others |
+| **Key organisms** | Lactobacillus spp., yeasts, photosynthetic bacteria (when inoculated) | *[[lactobacillus-plantarum]]*, *[[saccharomyces-cerevisiae]][[rhodopseudomonas-palustris]] as palustris*, and others |
 | **Processing environment** | Anaerobic (sealed container) | Not a process — EM is *applied to* various processes |
 | **End product** | Fermented (pre-composted) organic matter, pH ~3.5–4.5 | Not an end product — EM is an input |
 | **Time to process** | 2–4 weeks fermentation + 2–4 weeks soil burial | Varies by application (days to weeks depending on use) |
@@ -42,7 +42,7 @@ type: comparison
 | **Cost** | Low (can make inoculant bran at home) | Moderate (EM-1 concentrate is proprietary and purchased) |
 | **Requires EM?** | No — can use native lactobacilli from rice wash or other sources | N/A — EM IS the product |
 | **Odor** | Sweet-sour, pickled smell (when successful) | EM itself has a sweet-sour smell |
-| **Nutrient retention** | Excellent — anaerobic fermentation preserves N, C, K | Improves nutrient cycling when applied to soil or compost |
+| **Nutrient retention** | Excellent — [[jadam-anaerobic-fermentation-principles]] preserves N, C, K | Improves nutrient cycling when applied to soil or compost |
 | **Pathogen control** | Lactic acid suppresses many pathogens; not thermophilic | Competitive exclusion by beneficial microbes |
 | **Weed seed destruction** | No — fermentation does not kill weed seeds | No — EM alone does not kill weed seeds |
 
@@ -52,7 +52,7 @@ type: comparison
 
 Bokashi fermentation follows a straightforward sequence:
 
-1. **Preparation**: A carrier material (typically wheat bran, rice bran, or sawdust) is inoculated with a lactic acid bacteria source and allowed to ferment briefly. This produces "bokashi bran."
+1. **Preparation**: A carrier material (typically wheat bran, rice bran, or sawdust) is in lactic acid bacteria ic acid bacteria source and allowed to ferment briefly. This produces "bokashi bran."
 2. **Layering**: Kitchen scraps are placed in a sealed anaerobic container in layers, each layer sprinkled with bokashi bran. The container must be airtight to maintain anaerobic conditions.
 3. **Fermentation**: The sealed container is kept at room temperature for 2–4 weeks. Lactic acid bacteria dominate, producing lactic acid and lowering the pH to 3.5–4.5. This acidic environment suppresses putrefaction and most pathogens.
 4. **Burial or composting**: The fermented material is not finished compost — it still looks like the original food scraps (though pickled). It must be buried in soil or added to a compost pile for 2–4 weeks of aerobic decomposition before it is fully stabilized.
@@ -81,7 +81,7 @@ Bokashi fermentation follows a straightforward sequence:
 EM is a proprietary blend of approximately 80+ microorganism strains, with the key groups being:
 
 - **Lactic acid bacteria** (*Lactobacillus plantarum*, *L. casei*, *L. fermentum*): Produce lactic acid, suppress pathogens, and drive fermentation.
-- **Yeasts** (*Saccharomyces cerevisiae* and others): Produce vitamins, growth factors, and bioactive compounds; break down organic matter.
+- **Yeasts** (*Saccharomyces cerevisiae* and others): Produce vitamins, growth factors, and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]; break down organic matter.
 - **Photosynthetic bacteria** (*Rhodopseudomonas palustris*): Fix nitrogen, synthesize amino acids, and degrade harmful substances.
 - **Actinomycetes** (*Streptomyces* spp.): Decompose complex organic matter including lignin and chitin.
 - **Filamentous fungi** (*Aspergillus* spp., *Penicillium* spp.): Break down cellulose and other complex organics.
@@ -94,9 +94,9 @@ EM is used for far more than bokashi fermentation:
 
 - **Soil drench**: Diluted EM-A applied directly to soil to boost microbial diversity
 - **Compost accelerator**: Added to aerobic compost piles to speed decomposition and improve quality
-- **Foliar spray**: Diluted EM sprayed on plant foliage for disease suppression
+- **Foliar spray**: Diluted EM sprayed on plant foliage for [[aact-disease-suppression-mechanisms-ingham]]
 - **Odor control**: Applied to animal housing, manure piles, and waste treatment
-- **Water treatment**: Used in constructed wetlands and aquaculture for water quality
+- **Water treatment**: Used in [[comparison-constructed-wetlands-vs-bioswales]] and aquaculture for water quality
 - **Seed treatment**: Soaking seeds in EM solution before planting
 - **Animal feed additive**: EM-fermented feed for livestock to improve digestion and reduce pathogens
 
@@ -134,14 +134,10 @@ The evidence for EM specifically is more contested. Some meta-analyses and syste
 - **Compost quality**: EM-treated compost often matures faster and has higher nutrient content, but results are inconsistent across studies and substrate types.
 - **Crop yields**: Some studies report yield increases of 5–20% with EM application; others find no significant effect. Response appears to depend strongly on initial soil conditions.
 - **Disease suppression**: EM has shown promise for suppressing certain soil-borne diseases, likely through competitive exclusion and antibiosis, but results vary by pathogen and crop.
-- **Soil microbiology**: EM application can shift soil microbial community structure, but whether these shifts are beneficial, persistent, or significant is debated.
+- **Soil microbiology**: EM application can shift soil [[edaphic-factors-microbial-community-structure]] structure, but whether these shifts are beneficial, persistent, or significant is debated.
 
 ## See Also
 
-- [[comparison-foliar-feeding-vs-vermicompost-tea]]
-
-- fermented foods and beverages — broader context of lactic acid fermentation
-- fermented dairy and cultured milk products — lactobacillus ecology in food systems
+- fermented foods and beverages foods and beverages — broader context of lac fermented dairy and cultured milk products d cultured milk products — lactobacillus ecology in food systems
 - [[no-till-cannabis]] — systems where fermented inputs shine
-- [[lowenfels-soil-structure-aggregates]] — how microbial inputs influence soil architecture
-- wild fermentation and spontaneous cultures — alternatives to branded inoculants
+- [[lowenfels-soil-structure-aggregates]] — how microbial inputs influe [[wild-fermentation-vs-cultured-yeast]] and spontaneous cultures — alternatives to branded inoculants

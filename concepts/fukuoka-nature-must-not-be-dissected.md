@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka Nature Must Not Be Dissected"
+title: "Fukuoka fukuoka nature must not be dissected Not Be Dissected"
 created: 2026-04-28
 tags:
   - natural-farming
@@ -17,13 +17,13 @@ type: concept
 # Fukuoka: Nature Must Not Be Dissected
 
 In "The Natural Way of Farming," Masanobu Fukuoka presents a
-fundamental epistemological critique of modern scientific agriculture:
+fundamental epistemological [[fukuoka-road-critique-of-modern-science]] [[fukuoka-critique-scientific-agriculture-civilization]]:
 the belief that nature can be understood by dissecting and analysing its
 parts. This argument forms a cornerstone of [[four-principles-of-natural-farming]]. If nature cannot be improved through understanding its parts,
 then human interventions based on partial knowledge (tillage, fertilizer,
 pesticides, weeding) are inherently misguided. Instead,
-[[fukuoka-critique-of-scientific-agriculture]] and [[fukuoka-mahayana-and-hinayana-natural-farming]] framework. Mahayana natural farming accepts that nature's
-wholeness transcends human comprehension, while scientific farming's
+[[fukuoka-critique-of-scientific-agriculture]] and [[fukuoka-mahayana-and-hinayana-natural-farming]] framework. Mahayana [[comparison-natural-farming-vs-permaculture]] accepts that nature's
+wholeness transcends human comprehension, while [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]'s
 fundamental error is believing that dissected knowledge can be reassembled
 into effective action. [[fukuoka-natural-farming-philosophy]]
 - [[four-principles-of-natural-farming]]
@@ -106,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

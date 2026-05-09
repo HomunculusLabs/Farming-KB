@@ -1,5 +1,5 @@
 ---
-title: "Pulp and Paper Mill Effluent Fungal Treatment"
+title: "Pulp and Paper Mill Effluent singh-biopile-fungal-treatment-contaminated-soil"
 created: 2026-04-28
 tags: [mycoremediation, pulp-paper, effluent-decolorization, lignin-degradation]
 date: 2026-04-25
@@ -25,7 +25,7 @@ bleach plant wastewaters with distinct properties:
 
 - **C1-stage effluent (first chlorination)**: Low molecular weight, high
   BOD, low color, toxic, and mutagenic. Contains chlorinated phenols,
-  resins, fatty acids, chlorinated hydrocarbons, and hypochlorite
+  resins, [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]], chlorinated hydrocarbons, and hypochlorite
   degradation products
 - **E1-stage effluent (first alkaline extraction)**: Highly colored,
   contributing 80% of total color, 30% of BOD, and 60% of COD from the
@@ -42,13 +42,13 @@ Of 110 pure cultures screened, 10 strains decolorize 75 to 85% of
 extraction-stage effluent within 24 to 48 hours. Key species include:
 
 ### White-Rot Fungi
-- **Trametes versicolor**: Most extensively studied; decolorizes
+- **[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]**: Most extensively studied; decolorizes
   efficiently in presence of sugar refinery or brewery wastes as carbon
   cosubstrate; combined ozone-fungal treatment removes more color than
   either method alone
-- **Phanerochaete chrysosporium**: Pellets remove more than 60% E1-stage
+- **[[staycare-phanerochaete-chrysosporium-in-bioremediation]]**: Pellets remove more than 60% E1-stage
   effluent color within 24 hours through rapid adsorption
-- **Ganoderma lucidum**: Demonstrated decolorization capacity for kraft
+- **[[stamets-reishi-ganoderma-lucidum-cultivation]]**: Demonstrated decolorization capacity for kraft
   mill effluents
 - **Lentinus edodes**: Removes 73% color without additional carbon
   source; LiP and MnP levels enhanced fourfold with preirradiation
@@ -90,7 +90,7 @@ periods.
 
 - **Carbon cosubstrate**: Glucose, sugar refinery waste, and brewery
   waste enhance decolorization efficiency for multiple fungal species
-- **Nitrogen limitation**: Promotes ligninolytic enzyme production in
+- **Nitrogen limitation**: Promotes ligninolytic [[ligninolytic-enzyme-production-bioremediation]] in
   white-rot fungi
 - **pH and temperature**: Species-specific optima must be maintained
 - **Effluent dilution**: Reduces toxicity and improves fungal activity
@@ -125,6 +125,11 @@ molecular-weight distribution analysis.
 
 ## See Also
 
+- [[paper-plane]]
+
 - [[singh-ligninolytic-enzymes-fungal-bioremediation]]
-- [[singh-fungal-metabolism-phenols-chlorophenols]]
-- [[biobleaching-of-pulp-by-white-rot-fungi]]
+- singh-fungal-metabolism-phenols-chlorophenols
+- biobleaching-of-pulp-by-white-rot-fungi
+- [[phanerochaete-chrysosporium]]
+- [[aspergillus-niger]]
+- [[coriolus-versicolor]]

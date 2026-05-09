@@ -17,10 +17,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Maa, E. & Figi, P. (2014). \"The case for medical marijuana in epilepsy.\" Epilepsia 55(6): 783-786."
+  - "Maa, E. & Figi, P. (2014). \"The case for cervantes-medical-marijuana-pharmacology in epilepsy.\" Epilepsia 55(6): 783-786."
   - "Press, C.A. et al. (2015). \"Parental reporting of response to oral cannabis extracts for treatment of refractory epilepsy.\" Epilepsy & Behavior 45: 49-52."
   - "Gupta, S.K. (2015). \"FDA approvals of cannabinoid-based pharmaceuticals.\" FDA Presentation."
-  - "Lewis, M.A. et al. (2018). \"Cannabidiol as a potential treatment for anxiety and sleep disorders.\" Journal of Clinical Pharmacy and Therapeutics 43(5): 635-641."
+  - "Lewis, M.A. et al. (2018). \"Cannabidiol as a potential treatment for anxiety and [[cannabis-sleep-disorders-and-insomnia]].\" Journal of Clinical Pharmacy and Therapeutics 43(5): 635-641."
   - "https://www.charlottesweb.com/about-us"
 aliases:
   - CW
@@ -48,7 +48,7 @@ Charlotte's Web was bred from a cross between unknown hemp-type genetics and a h
 
 The exact parentage is proprietary to the Stanley Brothers, but genetic analysis places it as an indica-dominant hybrid with sativa-influenced morphology.
 
-The strain emerged from a breeding program focused on isolating plants with CBD:THC ratios exceeding 20:1 from a population of Rocky Mountain-grown cannabis.
+The strain emerged from a [[cervantes-breeding-program-design-goal-setting]] focused on isolating plants with CBD:THC ratios exceeding 20:1 from a population of Rocky Mountain-grown cannabis.
 
 It is not directly related to other named commercial strains like ACDC or Harlequin, though all share the trait of CBD dominance.
 
@@ -64,7 +64,7 @@ THCa levels are negligible, as the hemp is typically harvested at full maturity 
 
 **Dominant terpenes:** Myrcene (herbal, sedative), pinene (pine, focus), caryophyllene (peppery, anti-inflammatory), and limonene (citrus, mood-elevating).
 
-The terpene profile contributes to an entourage effect that enhances the anti-seizure and anxiolytic properties of CBD.
+The terpene profile contributes to an [[cannabis-terpene-entourage-effect-profiles]] that enhances the anti-seizure and anxiolytic properties of CBD.
 
 Total terpene content is moderate (1.0–1.5%), lower than many THC-dominant cultivars, reflecting the hemp-type genetics.
 
@@ -74,13 +74,13 @@ The primary therapeutic application is in treatment-resistant epilepsy, particul
 
 In the landmark 2017 New England Journal of Medicine study (Devinsky et al.), pharmaceutical CBD derived from similar high-CBD genetics reduced seizure frequency by 39% in Dravet syndrome patients.
 
-Charlotte's Web has also been reported effective for anxiety disorders, chronic pain, inflammation, sleep disturbances, and PTSD.
+Charlotte's Web has also been reported effective for anxiety disorders, [[cannabis-chronic-pain-management]], inflammation, sleep disturbances, and PTSD.
 
 Users consistently report no psychoactive intoxication at standard doses, making it suitable for children, elderly patients, and THC-sensitive individuals.
 
 Common subjective effects include mild relaxation, improved mood, reduced anxiety, and enhanced sleep quality without cognitive impairment.
 
-Adverse effects are generally mild: dry mouth, drowsiness, diarrhea, and changes in appetite or weight at higher doses.
+[[blesching-cannabis-safety-adverse-effects-evidence]] are generally mild: dry mouth, drowsiness, diarrhea, and changes in appetite or weight at higher doses.
 
 ## Cultivation
 
@@ -115,4 +115,4 @@ The documentary "Weed" by Dr. Sanjay Gupta, which first aired on CNN in August 2
 - [[white-widow-entity]]
 - [[piperine]]
 - [[berberine]]
-- [[ocimum-sanctum]]
+- ocimum-sanctum

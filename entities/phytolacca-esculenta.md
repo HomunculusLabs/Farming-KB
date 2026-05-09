@@ -22,7 +22,7 @@ sources:
 
 **Phytolacca esculenta**, commonly known as Indian poke or Chinese pokeweed, is a perennial herbaceous plant in the family Phytolaccaceae.
 
-It is native to East Asia, where its large, starchy taproot has been used as a food crop and medicinal plant for centuries.
+It is native to [[neurotropic-fungi-japan-east-asia-species-cultural-context]], where its large, starchy taproot has been used as a food crop and medicinal plant for centuries.
 
 The species is closely related to the American pokeweed (*Phytolacca americana*) but is distinguished by its smaller stature and different root morphology.
 
@@ -64,7 +64,7 @@ It prefers rich, moist, well-drained soils in partial shade to full sun.
 
 The plant is adapted to temperate and subtropical climates with warm summers and moderate winters.
 
-It has been introduced to parts of Europe and North America as a curiosity or medicinal plant but has not become widely naturalized.
+It has been introduced to parts of Europe and [[psilocybin-north-america-pacific-northwest]] as a curiosity or medicinal plant but has not become widely naturalized.
 
 ## Edibility and Culinary Use
 
@@ -72,7 +72,7 @@ The starchy taproot of **Phytolacca esculenta** is the primary edible organ, tho
 
 Raw roots contain triterpenoid saponins and are toxic, causing nausea, vomiting, and diarrhea if ingested unprocessed.
 
-Traditional preparation involves peeling, slicing, and soaking the root in multiple changes of water, often for 24–48 hours.
+[[kava-traditional-preparation-ceremonial-context]] involves peeling, slicing, and soaking the root in multiple changes of water, often for 24–48 hours.
 
 The soaked root pieces are then boiled extensively, typically for several hours, to leach out water-soluble toxins.
 
@@ -100,7 +100,7 @@ The plant's bioactive constituents include phytolaccatoxin, phytolaccigenin, and
 
 These compounds have demonstrated anti-inflammatory, diuretic, and immunomodulatory effects in laboratory studies.
 
-However, the therapeutic window is narrow, and improper preparation or excessive dosage can cause severe poisoning.
+However, the [[blesching-cannabis-therapeutic-window-dosing]] is narrow, and improper preparation or excessive dosage can cause severe poisoning.
 
 Symptoms of pokeweed poisoning include abdominal pain, persistent vomiting, bloody diarrhea, and in severe cases, respiratory paralysis.
 
@@ -112,17 +112,22 @@ Pregnant women and children are particularly vulnerable to pokeweed toxicity.
 
 It can be propagated from seed, which requires cold stratification for optimal germination.
 
-Root division of established plants in early spring is a reliable vegetative propagation method.
+Root division of established plants in [[coleman-overwintered-onions-and-early-spring-crops]] is a reliable vegetative propagation method.
 
 Plants prefer deep, fertile, well-drained loam in full sun to partial shade.
 
-The species responds well to regular watering and moderate fertilization during the growing season.
+The species responds well to regular watering and moderate fertilization during the [[savory-growing-season-and-non-growing-season-management]].
 
 Roots are typically harvested in autumn, 2–3 years after planting, when they have reached sufficient size.
 
 The plant is relatively pest-free, though slugs may damage young shoots in damp conditions.
 
 ## See Also
+
+- [[phytolacca-americana]]
+- [[phytolacca-dodecandra]]
+- [[dioscorea-esculenta]]
+- [[umbilicaria-esculenta]]
 
 - [[ipomoea-batatas]]
 - [[colocasia-esculenta]]

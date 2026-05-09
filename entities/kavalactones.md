@@ -28,7 +28,7 @@ sources:
 | Dihydrokavain | 232.24 | DHK | Sedation; analgesic properties |
 | Methysticin | 274.27 | M | Sodium channel blockade; neuroprotective |
 | Dihydromethysticin | 276.29 | DHM | Sodium channel blockade; anti-convulsant |
-| Yangonin | 258.27 | Y | CB1 cannabinoid receptor partial agonist |
+| Yangonin | 258.27 | Y | CB1 [[cannabis-cannabinoid-receptor-pharmacology]] partial agonist |
 | Desmethoxyyangonin | 244.25 | DMY | MAO-B reversible inhibition; dopaminergic |
 
 ## Pharmacology
@@ -61,7 +61,7 @@ sources:
 - **Absorption:** Rapid GI absorption; onset 20–40 min
 - **Distribution:** Highly protein-bound; crosses BBB readily; large Vd
 - **Metabolism:** Hepatic via CYP2C9, CYP2C19, CYP3A4; Phase I oxidation + Phase II glucuronidation
-- **Drug interactions:** Potential CYP-mediated (warfarin, alprazolam, cimetidine)
+- **[[cannabis-drug-interactions-and-contraindications]]:** Potential CYP-mediated (warfarin, alprazolam, cimetidine)
 - **Half-life:** 7–11 hours for kavain; total kavalactone elimination ~9 hours
 - **Excretion:** Renal (glucuronide conjugates); minor biliary
 
@@ -113,7 +113,7 @@ sources:
 
 | Region | Status |
 |---|---|
-| United States | Legal (FDA advisory 2002; not scheduled) |
+| [[dmt-containing-plants-united-states-halpern]] | Legal (FDA advisory 2002; not scheduled) |
 | European Union | Varies by state; Germany permits pharmaceutical extracts |
 | United Kingdom | Banned as food supplement (2002) |
 | Australia | Banned (2007); under re-evaluation as of 2024 |
@@ -123,11 +123,9 @@ sources:
 
 - [[glucuronidation]]
 
-- [[glucuronidation]]
-
-- Kava — the plant *Piper methysticum* and its ethnobotany
+- Kava — the plant *[[plants-of-the-gods-piper-methysticum-kava]]* and its ethnobotany
 - GABA-A Receptor — primary target of kavalactone anxiolysis
 
 ## See Also
 
-- [[entheogenic-plants-and-psychoactive-flora]]
+- [[gaian-psychotherapy-and-entheogenic-plants]]

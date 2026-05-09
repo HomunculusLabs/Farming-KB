@@ -1,5 +1,5 @@
 ---
-title: "Psilocybin Potency and Alkaloid Variations"
+title: "allen-psilocybin-potency-australian-species and Alkaloid Variations"
 created: 2026-04-26
 updated: "2026-04-23"
 sources:
@@ -16,7 +16,7 @@ is his systematic analysis of the alkaloid content of psychoactive
 mushrooms from around the world. Through extensive chemical testing, Gartz
 revealed remarkable variations in potency -- both between species and
 within the same species from different geographic locations, at different
-stages of development, and under different storage conditions. These
+stages of development, and under different [[vegetable-storage-conditions-by-temperature-and-humidity]]. These
 findings have important implications for both safety and the understanding
 of fungal biochemistry.
 
@@ -46,9 +46,9 @@ roughly double the psilocybin of Psilocybe pelliculosa, which itself has
 only 30-50% of the cyanescens content. The newly discovered Psilocybe
 azurescens from Oregon is described as unusually large and very potent.
 
-Among the non-Psilocybe genera, Gymnopilus purpuratus stands out for
+Among the non-Psilocybe genera, [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]] stands out for
 having the highest psilocin concentration of any European species, with
-smaller specimens showing higher concentrations. Pluteus salicinus yielded
+smaller specimens showing higher concentrations. [[gartz-pluteus-salicinus-wood-inhabiting-psilocybin]] yielded
 surprisingly variable results: European specimens contained up to 1.57%
 psilocybin in caps, while American collections identified as the same
 species contained no alkaloids at all, demonstrating that the same species
@@ -60,7 +60,7 @@ Gartz investigated whether the concept of "chemical races" -- distinct
 populations of the same species with significantly different alkaloid
 profiles -- applies to psychoactive mushrooms. Combined analyses of
 [[psilocybe-cubensis-potency-variation-by-flush]]
-revealed significant differences in alkaloid distribution between cap and
+revealed significant differences in [[cap-and-stem-alkaloid-distribution-in-psilocybe-cubensis-strains]] between cap and
 stem tissues. Caps consistently contained higher psilocybin concentrations
 than stems -- in one sample series, caps ranged from 1.22% to 1.57%
 psilocybin while stems ranged from 0.48% to 1.14%. Urea content followed
@@ -79,7 +79,7 @@ The stability of psychoactive alkaloids varies considerably between
 compounds. Psilocybin is relatively stable when mushrooms are dried and
 stored at temperatures below 50 degrees Celsius (122 degrees Fahrenheit).
 Psilocin, however, is considerably less stable. Gartz found that levels of
-both psilocin and psilocybin were significantly lower in very old and
+both [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] were significantly lower in very old and
 strongly discolored fruiting bodies and mycelia of [[psilocybe-bohemica-central-european]] displays the most
 impressive bluing reaction among the species Gartz examined, yet its
 psilocin levels are low or non-existent. This is because the bluing
@@ -93,5 +93,5 @@ whose exact structure remains undetermined.
 Conversely, species with high psilocybin but slight bluing -- such as
 [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]]
 - [[psilocybin-mushroom-potency-and-dosage-guide]]
-- [[gartz-magic-mushrooms-global-distribution-patterns]]
+- gartz-magic-mushrooms-global-distribution-patterns
 - [[metol-testing-bluing-reaction-mushrooms]]

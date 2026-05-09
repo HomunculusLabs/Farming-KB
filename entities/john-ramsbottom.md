@@ -24,7 +24,7 @@ sources:
 
 # John Ramsbottom
 
-British mycologist at the British Museum (Natural History), authority on poisonous fungi, and author of the influential 1945 reference "Poisonous Fungi."
+British mycologist at the British Museum (Natural History), authority on [[ramsbottom-poisonous-fungi-identification-guide]], and author of the influential 1945 reference "Poisonous Fungi."
 
 ## Overview
 
@@ -32,7 +32,7 @@ John Ramsbottom (1885-1974) was a British mycologist who served as Keeper of Bot
 
 ## Key Contributions
 
-- **Systematic debunking of foraging myths**: Proved that every traditional rule for distinguishing edible from poisonous mushrooms is worthless
+- **Systematic debunking of foraging myths**: Proved that every traditional rule for distinguishing edible from [[palmer-poisonous-mushrooms-deadly-species]] is worthless
 - **Species-level toxicology**: Detailed descriptions of all British poisonous fungi with clinical symptom profiles
 - **Historical poisoning documentation**: Compiled case studies from classical antiquity through 1944
 - **Treatment assessment**: Evaluated historical and contemporary poisoning treatments, including the Institut Pasteur antiphalloidian serum
@@ -43,12 +43,12 @@ Ramsbottom classified poisonous fungi into three categories by mechanism:
 
 ### 1. Cell-Degenerating Toxins (Long Incubation, Often Fatal)
 - **Amanita phalloides** (Death Cap) -- responsible for 90%+ of recorded deaths; 50-90% fatality rate
-- **Amanita verna** (Fools' Mushroom) -- pure white, more dangerous due to resemblance to edible mushrooms
-- **Amanita virosa** (Destroying Angel) -- conical cap, floccosely scaly stem, rare in Britain
+- **Amanita verna** (Fools' Mushroom) -- pure white, more dangerous due to resemblance to [[palmer-edible-mushrooms-north-america]]
+- **[[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]** (Destroying Angel) -- conical cap, floccosely scaly stem, rare in Britain
 - **Lepiota helveola** (Poisonous Lepiota) -- mild Amanita phalloides-type symptoms, much less dangerous
 
 ### 2. Neurotoxic Toxins (Nervous System Paralysis)
-- **Amanita muscaria** (Fly Agaric) -- never causes death in healthy people; delirium, hallucinations, stupor, amnesia
+- **[[allegro-amanita-muscaria-properties-and-pharmacology]]** (Fly Agaric) -- never causes death in healthy people; delirium, hallucinations, stupor, amnesia
 - **Amanita pantherina** (False Blusher) -- similar but more serious symptoms than muscaria
 - **Inocybe Patouillardi** -- caused deaths (Surrey 1937); Amanita muscaria-type poisoning
 
@@ -120,7 +120,7 @@ Ramsbottom cited these standard works:
 
 ## Legacy
 
-Ramsbottom's work is referenced in modern [[mushroom-identification]] guides, [[mushroom-poisoning-guide]], and [[mushroom-poisoning-guide]]. His insistence on species-specific identification rather than reliance on folk rules remains the gold standard in foraging safety education. See [[ramsbottom-poisonous-fungi-species]] for his complete species descriptions.
+Ramsbottom's work is referenced in modern mushroom-identification guides, [[mushroom-poisoning-guide]], and [[mushroom-poisoning-guide]]. His insistence on species-specific identification rather than reliance on folk rules remains the gold standard in [[mushroom-foraging-safety-guide]] education. See [[ramsbottom-poisonous-fungi-species]] for his complete species descriptions.
 
 ## Related
-[[mushroom-identification-resources]], [[edible-wild-mushrooms-by-region]], [[mushroom-folklore-and-culture]], [[mushroom-poisoning-guide]], [[ramsbottom-poisonous-fungi-species]]
+mushroom-identification, [[edible-wild-mushrooms-by-region]], [[mushroom-folklore-and-culture]], [[mushroom-poisoning-guide]], [[ramsbottom-poisonous-fungi-species]]

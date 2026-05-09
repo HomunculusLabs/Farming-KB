@@ -23,13 +23,13 @@ This framework repositions psychoactive plants from recreational substances to e
 
 Central to McKenna's argument is the concept of exopheromones. While conventional pheromones act as chemical messengers among members of a single species, exopheromones act across species lines, allowing individuals to influence members of a different species. Some exopheromones enable small groups of individuals to affect an entire community or biome.
 
-The notion that nature is an organismic, planetary whole that mediates and controls its own development through chemical messages challenges the classical Darwinian view of nature as endless warfare. McKenna cited evolutionary biologists who have long held that nature, far from being "tooth and claw," is an "endless dance of diplomacy" mediated through chemical signaling. Nature appears to maximize mutual cooperation and mutual coordination of goals — to be indispensable to the organisms with which one shares an environment is the strategy that ensures successful breeding and continued survival.
+The notion that nature is an organismic, planetary whole that mediates and controls its own development through chemical messages challenges the classical Darwinian view of nature as endless warfare. McKenna cited evolutionary biologists who have long held that nature, far from being "tooth and claw," is an "endless dance of diplomacy" mediated through [[plant-hormones-and-chemical-signaling-systems]]. Nature appears to maximize mutual cooperation and mutual coordination of goals — to be indispensable to the organisms with which one shares an environment is the strategy that ensures successful breeding and continued survival.
 
 ## The Role of Secondary Compounds
 
-Plant hallucinogens are typically classified as "secondary metabolites" — compounds not directly involved in the primary processes of growth and reproduction. McKenna challenged this classification. Evidence shows that alkaloids, usually regarded as secondary, are formed in the greatest amounts in tissues most active in overall metabolism. They are not inert end products but exist in a dynamic state, fluctuating in both concentration and rate of metabolic decay. The role of these alkaloids in the chemistry of metabolism makes clear that they are essential to the life and survival strategy of the organism, acting in ways not yet understood.
+Plant hallucinogens are typically classified as "[[antifungal-secondary-metabolites-coprophilous-fungi]]" — compounds not directly involved in the primary processes of growth and reproduction. McKenna challenged this classification. Evidence shows that alkaloids, usually regarded as secondary, are formed in the greatest amounts in tissues most active in overall metabolism. They are not inert end products but exist in a dynamic state, fluctuating in both concentration and rate of metabolic decay. The role of these alkaloids in the chemistry of metabolism makes clear that they are essential to the life and survival strategy of the organism, acting in ways not yet understood.
 
-Three hypotheses exist for why plants produce bioactive compounds:
+Three hypotheses exist for why plants produce [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:
 
 1. **Defense theory**: Toxic compounds make plants unpalatable and deter herbivory
 2. **Attraction theory**: Bioactive compounds attract pollinators or seed dispersers
@@ -56,7 +56,7 @@ The suppression of the natural human fascination with altered states of consciou
 
 ## The Archaic Revival
 
-McKenna proposed an "Archaic Revival" as the necessary cultural response to the dominator culture's destructive trajectory. This revival would involve recovering the plant-human relationships that characterized partnership societies — relationships based on respect, reciprocity, and the recognition that nature is alive and intelligent. The psychedelic community, which McKenna described as a worldwide and growing subculture of hyperdimensional explorers, many scientifically sophisticated, represents the vanguard of this revival.
+McKenna proposed an "Archaic Revival" as the necessary cultural response to the [[mckenna-dominator-culture-and-suppression-of-ecstasy]]'s destructive trajectory. This revival would involve recovering the plant-human relationships that characterized partnership societies — relationships based on respect, reciprocity, and the recognition that nature is alive and intelligent. The psychedelic community, which McKenna described as a worldwide and growing subculture of hyperdimensional explorers, many scientifically sophisticated, represents the vanguard of this revival.
 
 The suppression of altered states is not merely about drugs but about the suppression of the religious sensibility itself — an experience of religio based on plant-human relationships that were in place long before the advent of history. Restriction of religious use of psychedelic plants is, in McKenna's framing, a civil rights issue: the repression of a legitimate religious sensibility and the oldest form of human spirituality.
 
@@ -70,9 +70,9 @@ This multi-level framework challenges the conventional scientific view of psycho
 
 ## The Problem of Modern Reductionism
 
-McKenna's theory also functions as a critique of modern pharmacology's approach to psychoactive compounds. The isolation and study of individual molecules — psilocybin, DMT, mescaline — strips these substances of their cultural and ecological context. The full experience induced by a plant hallucinogen in its traditional setting involves not just the active compound but the set and setting, the expectations and beliefs of the participant, the guidance of experienced practitioners, and the integration of the experience into a broader worldview.
+McKenna's theory also functions as a [[fukuoka-road-critique-of-modern-science]] pharmacology's approach to psychoactive compounds. The isolation and study of individual molecules — psilocybin, DMT, mescaline — strips these substances of their cultural and ecological context. The full experience induced by a plant hallucinogen in its traditional setting involves not just the active compound but the set and setting, the expectations and beliefs of the participant, the guidance of experienced practitioners, and the integration of the experience into a broader worldview.
 
-Modern clinical research, while valuable, tends to treat these compounds as interchangeable tools for studying brain function or treating specific disorders. McKenna would argue that this approach misses the essential nature of the plant-human relationship and the transformative potential that exists only within the full ceremonial and cultural context.
+Modern [[hofmann-lsd-clinical-research-early-studies]], while valuable, tends to treat these compounds as interchangeable tools for studying brain function or treating specific disorders. McKenna would argue that this approach misses the essential nature of the plant-human relationship and the transformative potential that exists only within the full ceremonial and cultural context.
 
 ## See Also
 

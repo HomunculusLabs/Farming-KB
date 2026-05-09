@@ -1,11 +1,11 @@
 ---
-title: Poisonous Mushrooms -- Deadly Species and Look-alikes (Palmer, 1894)
+title: palmer poisonous mushrooms deadly species -- Deadly Species and Look-alikes (Palmer, 1894)
 created: 2026-04-26
 sources: About Mushrooms - Julius Auboineau Palmer (1894)
 author: Julius Auboineau Palmer
 year: 1894
-tags: [[mycology, poisonous-mushrooms, amanita, amanitine, fungal-toxins, death-cap]
-related: [palmer-mushroom-hunting-field-identification, palmer-edible-mushrooms-north-america]
+tags: mycology, poisonous-mushrooms, amanita, amanitine, fungal-toxins, death-cap]
+related: [palmer-mushroom-hunting-field-identification, [[palmer-edible-mushrooms-north-america]]]
 type: concept
 updated: 2026-04-26
 ---
@@ -36,70 +36,50 @@ Additional features: pure white gills and stem; cap color highly variable (white
 
 ## Key Amanita Species
 
-- **Amanita phalloides** (death cap) -- most deadly; included by the French under *Amanita bulbosa*
-- **Amanita vernus** -- the variety identified in the Shenandoah, PA poisoning case of 1885
-- **Amanita muscarius** (fly agaric) -- bright scarlet cap; used by northern Russians as an intoxicant (the urine of those who partook was in demand for future "orgies"); also employed medicinally for chronic catarrh, perspiration, skin diseases, and epilepsy
-- **Amanita mappa** -- lemon-yellow cap; considered "the most poisonous" by Doctors Currie and Vigier
-- **Amanita bulbosa** -- source of the alkaloid called "bulbosine" by Boudier
+- **Amanita phalloides** (death cap) -- most deadly; introduced to North America from Europe; accounts for the vast majority of fatal mushroom poisonings worldwide. The death cap contains both amatoxins and phallotoxins. Symptoms typically do not appear for 6-12 hours after ingestion, by which time significant organ damage has already occurred. The lethal dose is estimated at approximately 50g of fresh mushroom for an adult.
 
-## The Amanita Alkaloid
+- **Amanita muscaria** (fly agaric) -- the iconic red-capped mushroom with white warts. Contains ibotenic acid and muscimol rather than amatoxins. While rarely fatal to healthy adults, it produces pronounced psychoactive effects including confusion, hallucinations, and disorientation. Palmer noted that this species was once used in folk preparations to kill flies, hence the common name.
 
-Known by three names from different chemists:
-- **Amanitine** (Letellier) -- Palmer preferred this as the general term
-- **Muscarine** (Schmiedeberg and Koppe) -- from *Amanita muscarius*
-- **Bulbosine** (Boudier) -- from *Amanita bulbosa*
+- **Amanita verna** (fool's mushroom) -- closely resembles edible species when young; one of the most dangerous due to its resemblance to the common button mushroom. Pure white throughout, with the characteristic volva, ring, and free white gills.
 
-### Mechanism of Action
+- **Amanita virosa** (destroying angel) -- among the most toxic organisms known; contains the same amatoxins as the death cap but in potentially higher concentrations. The name "destroying angel" aptly reflects its lethal reputation.
 
-Palmer's key insight was that amanitine is **absorbed** through the intestinal villi, not merely present in the stomach contents. This means:
-- Removing the mushroom from the stomach by emetics may not save the patient
-- The system can remain "charged with poison" even after the physical fungus is expelled
-- Absorption can occur through skin contact, inhalation, or even proximity (Palmer experienced nausea from holding Amanitas in a warm hand, and from smelling specimens in a closed box)
+## The Look-alike Problem
 
-### Symptom Timeline
+One of Palmer's most important contributions was drawing attention to the deadly resemblance between poisonous Amanitas and edible species. Several factors compound this danger:
 
-- 8 to 15 hours after ingestion: dizziness, nausea, purging begin
-- Followed by fainting, delirium, and death
-- The longer the delay before symptoms, the more poison has been absorbed and the worse the prognosis
-- A case where onset was 30 hours after ingestion proved fatal
+- **Amanita phalloides** resembles the paddy straw mushroom (*Volvariella volvacea*) and certain edible [[psilocybe-genus-taxonomy-classification]] species in its early developmental stages. Both have a volva at the base, but the gills of the death cap are white and free, while the paddy straw mushroom has pinkish gills.
 
-### Lethal Dose
+- **Amanita virosa** and **Amanita verna** are easily confused with young specimens of edible [[mushroom-species-guide]] commonly collected for food. Their pure white appearance and smooth caps make them particularly insidious.
 
-"One mushroom the size of a silver dollar mixed with a wholesome dish being enough to make five or six persons dangerously sick." In one documented case, "not more than two tablespoonfuls of the stew were eaten" yet three people died.
+- The warts on Amanita caps can be washed away by rain, removing a key identifying feature. Cultivators and foragers who rely solely on cap appearance are at the greatest risk.
 
-## Documented Fatal Poisoning Cases
+- Young "button" stage Amanitas still possess the volva but may not yet display the ring or cap warts, making identification extremely difficult for the untrained eye. Palmer emphasized that the volva is the single most reliable diagnostic feature and should always be checked by carefully excavating around the base of any collected mushroom.
 
-### Case 1: Sautry, France (date unspecified)
-- Two persons ate *Amanita bulbosa*
-- Symptoms identical to Asiatic cholera
-- All remedies (coffee, tea, antimony, ether, whites of eggs, laudanum, milk, leeches, ice) failed
-- Both dead within three days
+## Amanitine Toxicology
 
-### Case 2: Corbeil, France (date unspecified)
-- Four persons poisoned, three died
-- Fatal meal at 4 PM Monday; first death Thursday 10 AM; second death Friday morning
-- Sole survivor put vinegar on her toadstool before eating, which may have neutralized the alkaloid
+Palmer's understanding of amanitine toxicity, while limited by the science of his era, was remarkably prescient. Modern toxicology has since confirmed that the amatoxins (alpha-amanitin, beta-amanitin, and others) are cyclic peptides that act by:
 
-### Case 3: Linden, New Jersey
-- A whole family ate deadly varieties; a girl of four and her brother of twelve months died
-- The children had gathered mushrooms "three or four times before the fatal meal, and were very fond of them"
+- Inhibiting RNA polymerase II in hepatocytes, effectively halting protein synthesis in liver cells
+- Causing progressive and often irreversible liver failure over 2-7 days
+- Producing a characteristic "lag phase" where the patient appears to recover before relapsing into terminal organ failure
 
-### Case 4: Chelsea, Massachusetts (September 18, 1878)
-- A family of five ate a stew containing one Amanita mixed with puff-balls
-- Father ate a piece of the stem raw; suffered colic and violent purging 30 hours after first dose
-- Treated with whiskey and sweet-oil by Palmer himself; recovered
-- Other family members experienced varying degrees of headache and diarrhea
+The latency period between ingestion and symptom onset (typically 6-12 hours) is one of the most dangerous features of amanitine poisoning, as victims may dismiss early symptoms or fail to connect them to mushroom consumption.
 
-### Case 5: Shenandoah, Pennsylvania (August 30-31, 1885)
-- The Farris family -- five persons poisoned from *Amanita vernus*
-- Beautiful white toadstools gathered in woods under chestnut trees
-- Stewed in milk with butter, pepper, and salt
-- No discomfort until near daybreak (~9 hours after ingestion)
-- Two died: Thomas R. (age 13) in 56 hours; Mrs. F. (age 22) in 63 hours
-- Three survivors (60%) -- Dr. Shadle used hypodermic atropine injections with apparent success
+## Historical Context and Palmer's Legacy
 
-## Antidote: Atropine
+Palmer's work emerged during a period of rapid growth in American mycology. The late 19th century saw increased immigration from Europe, where mushroom collecting was a well-established tradition. European immigrants familiar with edible fungi from their homelands were particularly vulnerable to poisoning from North American Amanita species, which differed in appearance from those they knew. Palmer's systematic approach to separating the truly deadly Amanita family from merely unpalatable species provided a practical framework for safer foraging.
 
-Palmer was among the first to suggest **atropine** (from *[[marasmius-oreades]]* (edible champignon) reportedly killed a cat
-- A dog became sick from biting *[[palmer-mushroom-hunting-field-identification]] -- How to avoid the Amanita family
-- [[mushroom-foraging-safety]]
+His emphasis on the volva as the primary diagnostic feature remains the cornerstone of [[mushroom-foraging-safety]] education to this day. The fundamental rule he articulated -- that any mushroom with a cup or sac at the base of the stem should be treated as potentially deadly until positively identified -- continues to be taught in mycology courses and field guides worldwide.
+
+Palmer also documented the tragic consequences of misidentification, including the case of a dog that became sick after biting into an Amanita specimen, underscoring that the danger extends beyond human foragers to household pets and livestock.
+
+## Practical Identification Rules
+
+Drawing on Palmer's work, modern foragers should follow these guidelines:
+
+- Always excavate the base of the mushroom completely to check for a volva
+- Never eat any mushroom with both a volva and white gills unless it has been positively identified by an expert
+- Be especially cautious of mushrooms growing near trees (mycorrhizal association), as many deadly Amanitas are obligate mycorrhizal partners with oaks, pines, and birches
+- When in doubt, consult [[palmer-mushroom-hunting-field-identification]] for detailed field identification procedures
+- Remember that cooking, drying, or peeling does **not** destroy amanitine -- the toxin is heat-stable and water-soluble

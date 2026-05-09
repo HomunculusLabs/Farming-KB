@@ -1,5 +1,5 @@
 ---
-title: "Cyanide Biodegradation by Fungi"
+title: "fungal-cyanide-biodegradation-detailed by Fungi"
 created: 2026-04-28
 tags: [cyanide, biodegradation, cyanide-hydratase, fusarium,
       metal-cyanide-complexes, fungal-detoxification, nitrilase,
@@ -64,7 +64,7 @@ Major industrial sources of cyanide contamination include:
 ## Cyanogenesis by Fungi
 
 Despite its toxicity, several fungal species produce cyanide as a
-secondary metabolite. Cyanogenesis is widespread within the
+[[fungal-elicitors-enhanced-secondary-metabolite-production]]. Cyanogenesis is widespread within the
 Basidiomycetes and also occurs among Ascomycetes and Zygomycetes.
 [[fusarium-solani]], [[fusarium-lateritium]],
 Gloeocercospora sorghi, and Leptosphaeria maculans.
@@ -82,7 +82,7 @@ properties vary among fungal sources:
 | G. sorghi | 7-8 | 45 | 12 |
 
 The Km values are high (4-43 mmol/L), indicating a low affinity for
-cyanide. This may limit commercial potential for effluent treatment
+cyanide. This may limit commercial potential [[staycare-fungal-pellet-bioreactors-for-effluent-treatment]]
 but is adequate for environmental concentrations. Phylogenetic
 analysis groups cyanide hydratase with nitrilase enzymes rather than
 nitrile hydratases, and nucleic acid sequences show 65-82% homology
@@ -100,7 +100,7 @@ nitrogen source for growth. The complete pathway involves three steps:
 Fusarium solani IHEM 8026, isolated from contaminated alkaline wastes,
 grows on cyanide at pH 9.2-10.7 with associated biomass increase.
 Radiolabelling confirmed the complete pathway from cyanide through
-formamide and formic acid to carbon dioxide, with ammonia utilized as
+formamide and formic acid to [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]], with ammonia utilized as
 a nitrogen source (Dumestre et al., 1997a; Barclay et al., 1998a).
 
 ## Metal-Cyanide Complex Degradation
@@ -119,11 +119,11 @@ The mechanism likely involves dissociation of free cyanide from the
 metal complex rather than direct enzymatic attack on the intact
 complex. Evidence includes: the same cyanide hydratase gene is
 induced by both KCN and metal-cyanide complexes (confirmed by
-RT-PCR), and growth rates correlate with complex stability and free
+RT-PCR), and [[coleman-sunlight-and-winter-crop-growth-rates]] correlate with complex stability and free
 cyanide availability rather than total cyanide concentration.
 
 ## Related Concepts
 
 - [[staycare-fungal-biosorption-of-heavy-metals]] — General fungal-metal
   interactions including biosorption and precipitation
-- [[fungal-bioremediation]]
+- fungal-bioremediation

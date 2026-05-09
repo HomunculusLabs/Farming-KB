@@ -18,14 +18,14 @@ sources:
 - **Desmanthus** — Greek *desme* (bundle) + *anthos* (flower), for the clustered inflorescences
 - **illinoensis** — named for Illinois, within its native central [[mimosa-hostilis]]
 - Typical method: acid-base extraction using HCl and NaOH
-- DMT yields lower than Mimosa hostilis (0.5–1.0%), making it a less efficient but legally accessible alternative
+- DMT yields lower than [[entheogen-jurema-mimosa-hostilis-ethnobotany]] (0.5–1.0%), making it a less efficient but legally accessible alternative
 - Legal status as a common native legume in most jurisdictions, combined with cold-hardiness, sustains interest
 
 | Species | DMT (root bark) | Cold Hardiness | Difficulty |
 |---------|-----------------|---------------|------------|
 | [[biological-nitrogen-fixation-agriculture]]:** Symbiosis with Bradyrhizobium spp.; estimated 50–150 kg N/ha/year; useful as [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] lding:** Deep taproot (1–3 m) breaks compacted layers, improves structure; dense roots reduce erosion; high biomass adds organic matter annually
-- **Drought tolerance:** Highly drought-tolerant once established; goes semi-dormant under water stress; suitable for xeriscaping and low-input agriculture
-- **Conservation:** Key component of prairie restoration mixes across the Great Plains
+- **[[dighton-fungal-drought-tolerance-plant-water-relations]]:** Highly drought-tolerant once established; goes semi-dormant under water stress; suitable for xeriscaping and low-input agriculture
+- **Conservation:** Key component of [[comparison-prairie-restoration-vs-silvopasture]] mixes across the Great Plains
 
 ## Cultivation Notes
 
@@ -36,9 +36,9 @@ sources:
 
 ## See Also
 
-- [[nitrogen-fixing-plants]] — index of nitrogen-fixing species for agriculture
-- prairie restoration — techniques for restoring native North American grasslands
-- tryptamine alkaloids — chemistry and pharmacology of plant tryptamines
+- nitrogen-fixing-plants — index of nitrogen-fixing species for agriculture
+- prairie restoration — techniques for restoring native [[growing-gourmet-north-american-reishi-species]] grasslands
+- tryptamine alkaloids — [[psilocybin-psilocin-chemistry-and-pharmacology-emcdda]] of plant tryptamines
 - entheogenic plants guide — overview of plants with psychoactive properties
 - extraction methods — laboratory techniques for isolating plant alkaloids
 ## Practical Considerations
@@ -57,7 +57,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,4 +99,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

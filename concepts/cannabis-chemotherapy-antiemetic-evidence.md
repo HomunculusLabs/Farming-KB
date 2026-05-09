@@ -12,7 +12,7 @@ tags: [cannabis, chemotherapy, antiemetic, nausea, THC, CBD, evidence-based, onc
 Chemotherapy-induced nausea and vomiting (CINV) remains one of the most
 distressing side effects of cancer treatment, affecting up to 80% of
 patients. Cannabis and its cannabinoids, particularly THC, have been studied
-since the 1970s for antiemetic properties. The Cannabis Health Index (CHI)
+since the 1970s for antiemetic properties. The [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI)
 by Uwe Blesching systematically reviews this evidence across dozens of
 clinical studies.
 
@@ -23,7 +23,7 @@ chemotherapy nausea when conventional antiemetics failed. These anecdotal
 reports prompted the first controlled trials, demonstrating that oral THC
 (dronabinol/Marinol) effectively reduced CINV. This led to FDA approval of
 dronabinol in 1985, one of the first cannabinoid pharmaceuticals approved
-in the United States.
+in the [[dmt-containing-plants-united-states-halpern]].
 
 ## Pharmacological Mechanism
 
@@ -36,7 +36,7 @@ potential synergistic benefits when combined with conventional antiemetics.
 
 THC is the primary antiemetic cannabinoid. CBD may contribute through
 serotonin receptor modulation (5-HT1A) and anti-inflammatory pathways. The
-entourage effect of whole-plant cannabis may enhance efficacy beyond
+[[cannabis-terpene-entourage-effect-profiles]] of whole-plant cannabis may enhance efficacy beyond
 isolated THC.
 
 ## Clinical Evidence
@@ -116,5 +116,5 @@ experience supporting cannabinoid antiemetic efficacy.
 ## See Also
 
 - [[cannabis-neuroprotection]]
-- [[endocannabinoid-system]]
+- [[cannabis-health-endo-cannabinoid-system]]
 - [[cannabidiol-cbd]]

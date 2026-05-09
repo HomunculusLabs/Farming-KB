@@ -3,49 +3,10 @@ title: Moringa (Miracle Tree)
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[permaculture, design]
+tags: [permaculture, design]
 sources: []
 ---
-
-Updated: 2026-04-18
-
-Moringa (Moringa oleifera) is one of the most nutritious plants on Earth. Nearly every part is edible — leaves, flowers, pods, and seeds. It grows extremely quickly and can be coppiced annually, making it an outstanding multi-purpose food crop.
-
-## Uses
-
-- Seedpod and sugar source
-
-- Edible leaves, flowers, pods, and seeds
-
-- Animal forage (leaves and pods usable without processing)
-
-## Growing Conditions
-
-- Full sun required
-
-- Well-drained soil
-
-- Regular watering
-
-- Warm temperatures (frost intolerant)
-
-- Grows to 15 feet (5 m) in just 1 year
-
-## Varieties
-
-There are approximately 13 species of Moringa, but Moringa oleifera is the most widely cultivated. Within this species, several cultivars have been developed for specific purposes. PKM-1 and PKM-2 are Indian varieties bred for early flowering and heavy pod production. African types tend to produce larger, more robust leaves. Some dwarf varieties are available for container growing and easy harvest. Moringa stenopetala, a related African species, is also cultivated for its larger, milder-tasting leaves and greater cold tolerance.
-
-## Propagation
-
-Moringa is most commonly propagated from seed. Seeds germinate readily within 1-2 weeks when planted in warm, well-drained soil. Direct seeding works well in tropical climates. Cuttings are also effective — take 3-6 foot hardwood cuttings (1-2 inches diameter) and plant them directly in the ground or in deep containers. Cuttings establish faster and produce sooner than seed-grown trees, though they develop weaker root systems. For nursery production, sow seeds in individual pots to avoid taproot disturbance during transplanting.
-
-## Management
-
-The tree can be cut down to 3 feet (1 m) every year and will regrow, producing edible pods within easy reach. After several years, a single tree produces thousands of pods.
-
-## Companion Planting
-
-Moringa serves as a [[mulch-producing-plants]]. It pairs well with banana, papaya, and pigeon pea in tropical [[permaculture-beekeeping]] support species.
+Updated: 2026-04-18 Moringa ([[comparison-moringa-oleifera-vs-moringa-stenopetala]]) is one of the most nutritious plants on Earth. Nearly every part is edible — leaves, flowers, pods, and seeds. It grows extremely quickly and can be coppiced annually, making it an outstanding multi-purpose food crop. ## Uses - Seedpod and sugar source - Edible leaves, flowers, pods, and seeds - [[permaculture-designers-manual-animal-forage-systems]] (leaves and pods usable without processing) ## Growing Conditions - Full sun required - Well-drained soil - Regular watering - Warm temperatures (frost intolerant) - Grows to 15 feet (5 m) in just 1 year ## Varieties There are approximately 13 species of Moringa, but Moringa oleifera is the most widely cultivated. Within this species, several cultivars have been developed for specific purposes. PKM-1 and PKM-2 are Indian varieties bred for early flowering and heavy pod production. African types tend to produce larger, more robust leaves. Some dwarf varieties are available for container growing and easy harvest. Moringa stenopetala, a related African species, is also cultivated for its larger, milder-tasting leaves and greater cold tolerance. ## Propagation Moringa is most commonly propagated from seed. Seeds germinate readily within 1-2 weeks when planted in warm, well-drained soil. [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] works well in tropical climates. Cuttings are also effective — take 3-6 foot hardwood cuttings (1-2 inches diameter) and plant them directly in the ground or in deep containers. Cuttings establish faster and produce sooner than seed-grown trees, though they develop weaker root systems. For nursery production, sow seeds in individual pots to avoid taproot disturbance during transplanting. ## Management The tree can be cut down to 3 feet (1 m) every year and will regrow, producing edible pods within easy reach. After several years, a single tree produces thousands of pods. ## [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] Moringa serves as a [[mulch-producing-plants]]. It pairs well with banana, papaya, and [[comparison-pigeon-pea-vs-cowpea]] in tropical [[permaculture-beekeeping]] support species.
 
 ## Culinary Uses
 
@@ -71,7 +32,7 @@ Moringa leaves are among the most nutrient-dense greens available, containing si
 
 ## Medicinal Uses
 
-Moringa has a long history of use in traditional medicine across South Asia and Africa. The leaves have documented anti-inflammatory, antioxidant, and antimicrobial properties. Moringa seeds contain proteins that can clarify turbid water, acting as natural coagulants — a practice used in simple water purification systems in developing countries. Research has explored moringa's potential for managing blood sugar, cholesterol, and blood pressure, though more clinical studies are needed to confirm these effects.
+Moringa has a long history of use in traditional medicine across South Asia and Africa. The leaves have documented anti-inflammatory, antioxidant, and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. Moringa seeds contain proteins that can clarify turbid water, acting as natural coagulants — a practice used in simple water purification systems in developing countries. Research has explored moringa's potential for managing blood sugar, cholesterol, and blood pressure, though more clinical studies are needed to confirm these effects.
 
 ## Water Purification
 

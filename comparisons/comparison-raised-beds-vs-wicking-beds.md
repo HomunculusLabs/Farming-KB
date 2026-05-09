@@ -11,7 +11,7 @@ type: comparison
 # Raised Beds vs Wicking Beds
 
 ## Overview
-Raised beds and wicking beds are two popular intensive garden systems that
+Raised beds and wicking beds are two popular [[comparison-zone-1-intensive-garden-vs-zone-5-wilderness]] systems that
 improve on traditional in-ground gardening by providing better drainage,
 soil control, and reduced bending. Raised beds are elevated soil-filled
 frames that drain freely from the bottom, while wicking beds incorporate a
@@ -44,10 +44,10 @@ barrels, or stock tanks as well as from lumber frames.
 The limitations include higher construction complexity and cost compared to
 simple raised beds. The reservoir, geotextile barrier, inlet pipe, and
 overflow fitting add materials and labor to the build. Wicking beds can
-develop salt buildup in the soil over time if the water source contains
+develop [[cervantes-salt-buildup-leaching-management]] in the soil over time if the water source contains
 minerals, as the continuous upward wicking concentrates salts in the
 growing medium. The consistent moisture environment is not ideal for all
-crops, particularly Mediterranean herbs like rosemary and thyme that
+crops, particularly [[query-best-mediterranean-herbs-for-beginner-herb-garden]] like rosemary and thyme that
 prefer drying between waterings.
 
 ## Key Differences
@@ -65,9 +65,9 @@ prefer drying between waterings.
 
 ## When to Choose Raised Beds
 Raised beds are the best choice for gardeners who want a simple, proven
-system with maximum flexibility in crop selection and soil management. They
+system with maximum flexibility in [[cover-crop-selection-guide]] and soil management. They
 are ideal for areas with adequate rainfall or reliable watering schedules.
-Raised beds suit intensive vegetable production where regular crop rotation,
+Raised beds suit intensive [[dry-gardening-unirrigated-vegetable-production-solomon]] where regular crop rotation,
 amending, and replanting are part of the seasonal rhythm. They are also
 preferred in regions with heavy clay soil where the improved drainage of
 raised beds is essential, and for gardeners who enjoy the hands-on process
@@ -88,7 +88,7 @@ herbs and crops that prefer well-drained soil with periodic drying, and
 wicking beds for thirsty vegetables that benefit from consistent moisture.
 Some raised bed designs incorporate a small wicking zone at one end while
 maintaining standard drainage at the other, creating a gradient of moisture
-conditions within a single bed. Drip irrigation can also be added to
+conditions within a single bed. [[comparison-drip-irrigation-vs-passive-irrigation]] can also be added to
 standard raised beds to automate watering while maintaining the simplicity
 of the basic raised bed design.
 

@@ -33,9 +33,9 @@ The genus Anthriscus is closely related to *Chaerophyllum* (chervils) and *Myrrh
 
 ## Distribution and Habitat
 
-Wild chervil is found in hedgerows, woodland edges, and rocky slopes from southern Europe through the Caucasus to western Asia. It prefers partial shade and moist, well-drained soils rich in organic matter. Naturalized populations exist in parts of North America, where it occasionally escapes cultivation.
+Wild chervil is found in hedgerows, woodland edges, and rocky slopes from southern Europe through the Caucasus to western Asia. It prefers partial shade and moist, well-drained soils rich in organic matter. Naturalized populations exist in parts of [[psilocybin-north-america-pacific-northwest]], where it occasionally escapes cultivation.
 
-Cultivated chervil is grown commercially in France, Italy, Spain, and parts of central Europe. It is also popular among home gardeners in temperate regions worldwide. The plant performs best in cool conditions (15–20°C) and bolts rapidly in hot weather, making it one of the more challenging culinary herbs to maintain through summer.
+Cultivated chervil is grown commercially in France, Italy, Spain, and parts of central Europe. It is also popular among home gardeners in temperate regions worldwide. The plant performs best in cool conditions (15–20°C) and bolts rapidly in hot weather, making it one of the more challenging [[holzer-medicinal-and-culinary-herbs-compendium]] to maintain through summer.
 
 The United States, particularly the Pacific Northwest and New England, supports a small but growing commercial chervil industry serving upscale restaurants and farmers' markets. Chervil is one of the few culinary herbs that maintains good market value in fresh-cut form due to its perishability and the difficulty of substituting dried material. Hydroponic and indoor vertical farming systems have successfully produced chervil year-round in controlled environments.
 
@@ -47,13 +47,13 @@ The plant reaches harvestable size in 6–8 weeks from sowing. Successive sowing
 
 Indoor cultivation under grow lights or on sunny windowsills extends the harvest season through winter. The plant's preference for cool conditions makes it well-suited to autumn and early spring production in unheated greenhouses. In warm climates, chervil is cultivated as a winter crop during the cooler months.
 
-Chervil is relatively pest-free compared to other Apiaceae crops. Aphids and slugs are occasional problems in humid conditions. The plant is susceptible to powdery mildew in poor air circulation. Companion planting with tomatoes or peppers provides beneficial shade. Chervil also serves as a trap crop for certain aphid species, drawing them away from more valuable crops.
+Chervil is relatively pest-free compared to other Apiaceae crops. Aphids and slugs are occasional problems in humid conditions. The plant is susceptible to [[cervantes-powdery-mildew-prevention-treatment]] in poor air circulation. [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] with tomatoes or peppers provides beneficial shade. Chervil also serves as a trap crop for certain aphid species, drawing them away from more valuable crops.
 
 ## Chemistry and Pharmacology
 
 The essential oil of chervil is composed primarily of **methyl chavicol** (estragole, 40–60%), **linalool** (10–15%), and **1-allyl-2,4-dimethoxybenzene**. Minor constituents include **anethole**, **limonene**, and **alpha-pinene**. The oil content is low (0.03–0.1% of fresh weight), contributing to chervil's subtle aroma.
 
-The essential oil profile varies significantly with harvest stage, plant part, and geographic origin. Young leaves harvested before flowering contain the highest proportion of methyl chavicol and the most desirable aromatic profile. Post-flowering material shows reduced oil content and altered composition, with increased proportions of less desirable sesquiterpenes. Organic cultivation methods have been shown to produce higher total phenolic content compared to conventional practices.
+The essential oil profile varies significantly with harvest stage, plant part, and geographic origin. Young leaves harvested before flowering contain the highest proportion of methyl chavicol and the most desirable aromatic profile. Post-flowering material shows reduced oil content and altered composition, with increased proportions of less desirable sesquiterpenes. Organic [[synthetic-log-cultivation-methods-guide]] have been shown to produce higher total phenolic content compared to conventional practices.
 
 Phenolic compounds in chervil include **quercetin**, **isoquercitrin**, and **caffeic acid derivatives**, which contribute antioxidant activity. The flavonoid profile shows significant radical-scavenging capacity in DPPH and ABTS assays, though at lower concentrations than more widely studied herbs like rosemary or thyme.
 
@@ -89,7 +89,7 @@ Fresh chervil provides notable concentrations of vitamin C (140 mg/100 g), vitam
 
 Recent interest in chervil has focused on its potential as a functional food ingredient. The combination of volatile terpenoids and flavonoid antioxidants makes it a candidate for natural food preservation. Studies on chervil extract incorporated into lipid-rich food systems show delayed oxidation comparable to synthetic antioxidants like BHT.
 
-Preliminary in vitro research on chervil essential oil has demonstrated antimicrobial activity against *Staphylococcus aureus*, *Bacillus subtilis*, and *Candida albicans*. The estragole component, while contributing to this activity, is also a subject of toxicological concern due to genotoxic metabolites identified in rodent studies. The overall risk from culinary use of fresh chervil is considered negligible.
+Preliminary in vitro research on chervil essential oil has demonstrated antimicrobial activity against *Staphylococcus aureus*, *Bacillus subtilis*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*. The estragole component, while contributing to this activity, is also a subject of toxicological concern due to genotoxic metabolites identified in rodent studies. The overall risk from culinary use of fresh chervil is considered negligible.
 
 Chervil root has been investigated as a source of natural gums and mucilage with potential pharmaceutical applications as a thickening and binding agent. The polysaccharide fraction shows interesting rheological properties for formulation science, though commercial extraction has not been developed at scale.
 

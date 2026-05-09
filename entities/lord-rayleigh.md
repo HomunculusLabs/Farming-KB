@@ -14,7 +14,7 @@ fields:
   - physics
   - acoustics
   - optics
-  - fluid dynamics
+  - [[computational-fluid-dynamics]]
   - metrology
 created: 2026-05-02
 updated: 2026-05-02

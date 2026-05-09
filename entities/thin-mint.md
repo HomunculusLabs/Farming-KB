@@ -14,8 +14,8 @@ updated: 2026-04-28
 sources:
   - Leafly Staff (2023). "Thin Mint Strain Information." Leafly. https://www.leafly.com/strains/thin-mint
   - AllBud (2023). "Thin Mint Marijuana Strain Information." AllBud. https://www.allbud.com/marijuana-strains/hybrid/thin-mint
-  - Smart, R. et al. (2017). "The Genetics of Cannabis sativa." Annual Review of Plant Biology, 68, 269–293.
-  - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency Over the Last Two Decades." Biological Psychiatry, 79(7), 613–619.
+  - Smart, R. et al. (2017). "The Genetics of [[comparison-cannabis-sativa-vs-cannabis-indica]]." Annual Review of Plant Biology, 68, 269–293.
+  - ElSohly, M.A. et al. (2016). "Changes in [[green-cannabis-potency-maximizing]] Over the Last Two Decades." Biological Psychiatry, 79(7), 613–619.
   - Giese, M. et al. (2015). "Cannabis and Cannabinoids: Pharmacology, Toxicology, and Therapeutic Potential." Handbook of Experimental Pharmacology, 231, 1–39.
 ---
 ## Overview
@@ -31,7 +31,7 @@ adds peppery warmth and potential anti-inflammatory activity.
 **Linalool** is present in moderate quantities, lending floral sweetness
 and contributing to the strain's relaxing qualities.
 
-**Myrcene**, the most common cannabis terpene overall, appears at elevated
+**Myrcene**, the most common [[oner-cannabis-terpene-profiles-effects]] overall, appears at elevated
 levels in Thin Mint compared to other GSC phenotypes, reinforcing the
 indica-dominant sedative effect.
 
@@ -74,7 +74,7 @@ in users sensitive to THC-dominant strains.
 ## Cultivation
 
 Thin Mint is considered a moderately difficult strain to cultivate,
-requiring attention to training and environmental control for optimal
+requiring attention to training and [[eclss-environmental-control-life-support]] for optimal
 results.
 
 The clone-only genetics mean that growers must obtain verified cuts from
@@ -85,10 +85,10 @@ Indoor flowering time ranges from 9 to 10 weeks, with yields of
 approximately 12–16 ounces per square meter under optimal conditions.
 
 The plants respond well to SCROG ([[screen-of-green]]) and low-stress
-training techniques, which help manage lateral branching and maximize
+[[cannabis-training-techniques-comparison]], which help manage lateral branching and maximize
 light penetration.
 
-Thin Mint is susceptible to powdery mildew in high-humidity environments,
+Thin Mint is susceptible to [[cervantes-powdery-mildew-prevention-treatment]] in high-humidity environments,
 requiring adequate airflow and dehumidification during dense flowering.
 
 Nutrient requirements are moderate to heavy during weeks 4–8 of flowering,

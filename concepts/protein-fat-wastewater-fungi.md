@@ -1,78 +1,17 @@
 ---
-title: Protein and Fat Wastewater Fungal Treatment
+title: Protein and Fat dairy-wastewater-fungal-treatment Treatment
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-
-# Protein and Fat Wastewater Fungal Treatment
-
-## Overview
-
-Large quantities of protein- and fat-containing wastewaters are released from slaughterhouses and tanneries, representing significant pollution challenges. Fungi can be effectively employed to treat these waste streams, simultaneously achieving waste reduction and producing valuable yeast biomass as an animal feed supplement. This application is part of the broader fungal wastewater treatment approach.
-
-## Wastewater Composition
-
-Typical slaughterhouse and tannery wastewater contains approximately 0.05% protein and 0.03% fat. One Swedish facility processed approximately 3000 tons per month with 6-8 g/L fat and 10-13 g/L protein. The fat content includes:
-
-- 43% oleic acid
-- 23% palmitic acid
-- 14% stearic acid
-- 7% linoleic acid
-- 4% palmitoleic acid
-- 2% myristic acid
-- 2% linolenic acid
-
-The amino acid profile is similar to gelatin, and the fat contains approximately 90% free fatty acids with some iron and calcium in the ash.
-
-## Fungal Treatment Process
-
-### Biological Objectives
-
-Biodegradation of fat into yeast biomass achieves two beneficial objectives:
-
-1. Removal of fat from wastewater, simplifying subsequent processing (protein extraction or methane generation)
-2. Production of yeast biomass as a feed supplement
-
-### Candida tropicalis Treatment
-
-Candida tropicalis S001 has been extensively studied for protein-fat wastewater treatment. The process involves:
-
-1. **pH lowering** (heat treatment)
-2. **Yeast culture** at pH 4.0 with 10% CO2 in gas phase
-3. **Sedimentation** to separate biomass
-4. **Output:** Soluble protein (for methane production) and yeast biomass (for feed)
-
-### Growth Characteristics
-
-The maximum specific growth rate of C. tropicalis S001 increases in order: triolein < glycerol < wastewater < glucose. Biomass yields:
-- Glycerol: 0.97 g dry weight/g fat
-- Triolein: 0.68 g dry weight/g fat
-- Glucose: 0.57 g dry weight/g fat
-
-### Reactor Performance
-
-A continuous culture reactor reduces 86% of COD at a feed rate of 40 kg COD/m3 per day, producing methane at 10.8 m3/m3 reactor per day (yield: 0.31 m3 methane/kg COD removed).
-
-## Lipolytic Yeast Species
-
-Several yeasts are recognized for growth on lipids at pH 3.5-4.0:
-
-- **Candida lipolytica:** Grown on fish oil since 1974
-- **Saccharomycopsis lipolytica:** Capable of growth on tallow or lard as sole carbon and nitrogen source
-- **Candida tropicalis:** Effective on protein-fat mixtures
-- **Geotrichum candidum:** Used with stickwater (fish meal and oil industry by-product)
-
-## Competitive Advantages of Low pH Operation
-
-Growth of yeasts at low pH provides a sterilizing effect in continuous systems, as most bacteria cannot grow or compete at pH 3.5-4.0. This eliminates the need for sterile operating conditions and reduces contamination risk in continuous processes. This principle applies broadly across [[dairy-wastewater-fungal-treatment]] treatment.
+# Protein and Fat Wastewater Fungal Treatment ## Overview Large quantities of protein- and fat-containing wastewaters are released from slaughterhouses and tanneries, representing significant pollution challenges. Fungi can be effectively employed to treat these waste streams, simultaneously achieving waste reduction and producing valuable yeast biomass as an animal feed supplement. This application is part of the broader fungal wastewater treatment approach. ## Wastewater Composition Typical slaughterhouse and tannery wastewater contains approximately 0.05% protein and 0.03% fat. One Swedish facility processed approximately 3000 tons per month with 6-8 g/L fat and 10-13 g/L protein. The fat content includes: - 43% oleic acid - 23% palmitic acid - 14% stearic acid - 7% linoleic acid - 4% palmitoleic acid - 2% myristic acid - 2% linolenic acid The amino acid profile is similar to gelatin, and the fat contains approximately 90% free fatty acids with some iron and calcium in the ash. ## Fungal Treatment Process ### Biological Objectives Biodegradation of fat into yeast biomass achieves two beneficial objectives: 1. Removal of fat from wastewater, simplifying subsequent processing (protein extraction or methane generation) 2. Production of yeast biomass as a feed supplement ### Candida tropicalis Treatment Candida tropicalis S001 has been extensively studied for protein-fat wastewater treatment. The process involves: 1. **pH lowering** (heat treatment) 2. **Yeast culture** at pH 4.0 with 10% CO2 in gas phase 3. **Sedimentation** to separate biomass 4. **Output:** Soluble protein (for methane production) and yeast biomass (for feed) ### Growth Characteristics The maximum specific growth rate of C. tropicalis S001 increases in order: triolein < glycerol < wastewater < glucose. Biomass yields: - Glycerol: 0.97 g dry weight/g fat - Triolein: 0.68 g dry weight/g fat - Glucose: 0.57 g dry weight/g fat ### Reactor Performance A continuous culture reactor reduces 86% of COD at a feed rate of 40 kg COD/m3 per day, producing methane at 10.8 m3/m3 reactor per day (yield: 0.31 m3 methane/kg COD removed). ## Lipolytic Yeast Species Several yeasts are recognized for growth on lipids at pH 3.5-4.0: - **Candida lipolytica:** Grown on fish oil since 1974 - **Saccharomycopsis lipolytica:** Capable of growth on tallow or lard as sole carbon and nitrogen source - **Candida tropicalis:** Effective on protein-fat mixtures - **Geotrichum candidum:** Used with stickwater (fish meal and oil industry by-product) ## Competitive Advantages of Low pH Operation Growth of yeasts at low pH provides a sterilizing effect in continuous systems, as most bacteria cannot grow or compete at pH 3.5-4.0. This eliminates the need for sterile operating conditions and reduces contamination risk in continuous processes. This principle applies broadly across  treatment.
 
 ## See Also
 
 - protein fat wastewater fungi -- broader fungal wastewater treatment overview
-- [[soybean-oil-wastewater-fungi]] -- soybean oil wastewater treatment
+- [[soybean-oil-wastewater-fungi]] -- soybean [[soybean-oil-wastewater-fungi]] treatment
 
 ## Merged: Fungal Treatment Industrial Wastewaters
 
@@ -92,8 +31,8 @@ Fungi offer several distinctive advantages for wastewater treatment compared to 
 
 - **Low pH tolerance:** Many yeasts grow optimally at pH 3.5-4.0, providing a sterilizing effect against bacterial competitors
 - **Easy biomass recovery:** Filamentous fungi form pellets or flocs recoverable by simple filtration
-- **Value-added products:** Fungal biomass from treatment can serve as animal feed supplements (single-cell protein)
-- **Broad substrate range:** Fungi produce diverse extracellular enzymes enabling degradation of complex organic matter
+- **Value-added products:** [[bioremediation-fungal-biomass-biosorbent-material]] from treatment can serve as animal feed supplements (single-cell protein)
+- **Broad substrate range:** Fungi produce diverse extracellular enzymes enabling degradation of complex [[hamilton-composting-and-organic-matter-management]]
 
 The most commonly used yeast is Candida utilis, valued for its ability to utilize a wide variety of carbon and nitrogen sources, rapid growth at high yields, and tolerance of low pH. Fungi Imperfecti convert biodegradable organic matter into mycelium with high protein content that forms recoverable flocs.
 
@@ -102,7 +41,7 @@ The most commonly used yeast is Candida utilis, valued for its ability to utiliz
 Multiple reactor configurations have been adapted for fungal wastewater treatment:
 
 - **Stirred tank reactors:** Most common for submerged cultivation
-- **Packed-bed reactors:** Prone to clogging from agricultural waste substrates
+- **Packed-bed reactors:** Prone to clogging from [[fungi-in-composting-and-agricultural-waste-conversion]] substrates
 - **Bubble columns:** Subject to solids sedimentation
 - **Fluidized-bed and airlift tower loop reactors:** Suspend solids in upflowing liquid; suitable for pellet-forming and immobilized microorganisms
 - **Membrane bioreactors (MBRs):** Employ ultrafiltration or microfiltration for complete biomass retention
@@ -118,7 +57,7 @@ Several approaches to cell immobilization are employed:
 3. Immobilization in hydrogel matrices (e.g., calcium alginate)
 4. Microbial pellets or granulated sludges
 
-Low spore concentration, dilute medium, and low shear stress favor pellet formation. Above a critical pellet size, oxygen depletion leads to hollow pellet formation and cell death.
+Low spore concentration, dilute medium, and low shear stress favor [[singh-fungal-pellet-formation-bioremediation]]. Above a critical pellet size, oxygen depletion leads to hollow pellet formation and cell death.
 
 ## Wastewater Types and Treatment Approaches
 

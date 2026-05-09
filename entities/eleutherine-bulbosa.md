@@ -57,9 +57,9 @@ capsule containing dark brown, winged seeds.
 ## Distribution and Habitat
 
 Native to the Amazon basin, spanning northern Brazil, Peru, Colombia,
-Ecuador, Bolivia, and the Guianas. Also found in Central America and
+Ecuador, Bolivia, and the Guianas. Also found in [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and
 the Caribbean (Trinidad and Tobago). The species has been introduced
-to tropical Africa and Southeast Asia.
+to tropical Africa and [[psilocybe-southeast-asia-pacific]].
 
 It grows in humid lowland tropical forests, along riverbanks, in
 forest clearings, and in disturbed sites. Elevational range: 0–800 m.
@@ -68,7 +68,7 @@ annual rainfall exceeding 1,500 mm.
 
 ## Bioactive Compounds
 
-The corms contain a distinctive array of secondary metabolites,
+The corms contain a distinctive array of [[antifungal-secondary-metabolites-coprophilous-fungi]],
 primarily naphthoquinones and naphthalene-derived lignans:
 
 - **Eleutherin** (red naphthoquinone): The namesake compound;
@@ -80,7 +80,7 @@ primarily naphthoquinones and naphthalene-derived lignans:
 - **Eleuthero** and **elecanacin**: Phenylethylphenanthrolignans;
   exhibit significant antifungal and antibacterial activity.
 - **Eleuthoside B**: A naphthalene glucoside with moderate
-  cytotoxicity against select cancer cell lines.
+  cytotoxicity against select [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines.
 
 The total naphthoquinone content of dried corms ranges from
 0.3–1.2% depending on source and processing. The orange-red
@@ -124,10 +124,10 @@ is easily cultivated at scale due to its low input requirements.
 ## Ecological Role
 
 Eleutherine bulbosa occupies forest gap and edge habitats in Amazonian
-ecosystems. Its flowers provide nectar and pollen for native bees and
+ecosystems. Its flowers provide nectar and pollen for [[query-how-to-attract-native-bees-and-beneficial-insects]] and
 butterflies. The corms are consumed by some mammalian herbivores,
 and the plant contributes to the understory diversity of secondary
-forest succession.
+[[mollison-designers-food-forest-succession-design]].
 
 ## Related Species
 

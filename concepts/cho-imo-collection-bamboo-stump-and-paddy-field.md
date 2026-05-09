@@ -1,5 +1,5 @@
 ---
-title: "IMO Collection from Bamboo Stump and Paddy Field"
+title: "bahay-kubo-imo-collection-and-preparation from Bamboo Stump and Paddy Field"
 created: 2026-04-28
 tags:
   - natural-farming
@@ -16,14 +16,14 @@ type: concept
 
 # IMO Collection from Bamboo Stump and Paddy Field
 
-Dr. Cho's Korean Natural Farming system describes multiple methods for
+Dr. Cho's Korean [[comparison-natural-farming-vs-permaculture]] system describes multiple methods for
 collecting [[cho-indigenous-microorganisms-collection-and-cultivation]] for the standard forest method.
 
 ## Method 1: Bamboo Stump Collection
 
 ### Rationale
 
-Bamboo groves host diverse microbial communities within their hollow
+[[fukuoka-textdoc-bamboo-groves-wood-preserves-soil-fertility]] host diverse microbial communities within their hollow
 stems. Natural sugars in bamboo sap attract a wide range of
 microorganisms. This method captures those microbes along with bamboo
 juice containing growth-promoting compounds.
@@ -68,8 +68,8 @@ on your specific climate.
 Harvested rice paddies contain unique microbial populations including
 powerful decomposers. This method specifically targets anaerobic
 microorganisms adapted to breaking down rice straw and crop residues,
-particularly Bacillus species valued for their role in organic matter
-decomposition and disease suppression.
+particularly Bacillus species valued for their role in [[hamilton-composting-and-organic-matter-management]]
+decomposition and [[aact-disease-suppression-mechanisms-ingham]].
 
 ### Key Microbes Collected
 
@@ -96,7 +96,7 @@ decomposition and disease suppression.
 3. Cover with steel wire net to prevent rodent damage
 4. Cover with plastic sheet to prevent rain infiltration
 5. IMOs will colonise the rice in approximately one week
-6. After 4 days, the rice will be covered with fungal growth, creating
+6. After 4 days, the rice will be covered with [[brassinosteroid-fungal-growth-promotion]], creating
    IMO-1
 7. Transfer the fungi-colonised rice to a clay pot or jar
 8. Mix jaggery with IMO-1 in a 1:1 ratio to create IMO-2

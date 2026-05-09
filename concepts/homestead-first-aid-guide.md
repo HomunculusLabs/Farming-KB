@@ -80,14 +80,14 @@ Many homesteaders incorporate herbal medicine as a complement to conventional fi
 - **Yarrow (Achillea millefolium)** — dried leaves or powder sprinkled on wounds to stop bleeding. Has documented astringent and antiseptic properties.
 - **Calendula salve** — promotes wound healing and reduces inflammation. Apply to minor cuts, scrapes, and burns after initial treatment.
 - **Honey (raw, medical grade)** — applied topically to wounds, honey has antibacterial properties and promotes healing. Manuka honey has the most research behind it.
-- **Lavender essential oil** — diluted and applied to minor burns for pain relief. A few drops on a cloth can help with headache or mild anxiety.
+- **Lavender [[permaculture-designers-manual-essential-oil-plants]]** — diluted and applied to minor burns for pain relief. A few drops on a cloth can help with headache or mild anxiety.
 - **Echinacea tincture** — may support immune response at early signs of infection. Not a substitute for antibiotics when clearly indicated.
 
 Always document any herbal or natural remedy use alongside conventional treatments in your health records.
 
 ## Snake Bites
 
-Know the venomous snakes in your region before you need this information. In North America: rattlesnakes, copperheads, cottonmouths, and coral snakes are the primary concerns.
+Know the venomous snakes in your region before you need this information. In [[psilocybin-north-america-pacific-northwest]]: rattlesnakes, copperheads, cottonmouths, and coral snakes are the primary concerns.
 
 **Do:**
 - Call 911 or your local emergency number immediately

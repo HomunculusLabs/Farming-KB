@@ -40,7 +40,7 @@ Central American mushroom stones dating from approximately 1000 BCE to 900 CE ha
 
 ### Siberian Shamanism
 
-Amanita muscaria (fly agaric) was central to the shamanic traditions of the Chukchee and Koryak peoples of Siberia, as documented by [[r-gordon-wasson]] and Wasson (1957). Shamans consumed the mushroom to enter trance states for healing and divination. The practice of drinking urine of those who had consumed Amanita (to recycle the active compound muscimol while filtering ibotenic acid) is well documented. The reindeer's fondness for Amanita may explain the origin of the flying reindeer legend associated with Santa Claus.
+[[allegro-amanita-muscaria-properties-and-pharmacology]] (fly agaric) was central to the shamanic traditions of the Chukchee and Koryak peoples of Siberia, as documented by [[r-gordon-wasson]] and Wasson (1957). Shamans consumed the mushroom to enter trance states for [[metzner-shamanic-healing-and-divination-paradigm]]. The practice of drinking urine of those who had consumed Amanita (to recycle the active compound muscimol while filtering ibotenic acid) is well documented. The reindeer's fondness for Amanita may explain the origin of the flying reindeer legend associated with Santa Claus.
 
 ## Mushrooms in European Folklore
 
@@ -65,7 +65,7 @@ A widespread mythological belief across cultures held that mushrooms grow where 
 ### The Serpent and the Mushroom
 Multiple mythological traditions link serpents and mushrooms:
 - The Garden of Eden serpent reveals secret knowledge about the fruit of the Tree of Knowledge
-- The Feathered Serpent (Quetzalcoatl/Kukulcan): mushroom emerges from egg (button) like a snake hatching, the expanding stem resembles a snake, and after decay the mushroom leaves a hole resembling a snake's lair
+- The [[amanita-muscaria-feathered-serpent-phoenix]] (Quetzalcoatl/Kukulcan): mushroom emerges from egg (button) like a snake hatching, the expanding stem resembles a snake, and after decay the mushroom leaves a hole resembling a snake's lair
 - Mithra was born entwined with the serpent from a stone (mushroom button)
 - The Hindu Naga serpent Vasouki in the churning-of-the-milky-ocean myth
 
@@ -99,14 +99,14 @@ The term "magic mushrooms" gained popularity in the 1960s counterculture. Earlie
 - **"Fool's mushrooms" / "Joker's mushrooms"** — European colloquial terms reflecting skepticism
 - **"Divine mushroom"** (teonanacatl) — Nahuatl name used by Aztec peoples
 - **"Mushrooms of pure laughter"** — Mexican colloquial name
-- **"Little boy"** (apipiltzin), **"Mayor"** (atkad), **"That eruptions thing"** (di nize taaya) — Indigenous Mexican names
+- **"Little boy"** (apipiltzin), **"Mayor"** (atkad), **"That eruptions thing"** (di nize taaya) — [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]] names
 - **"Sacred mushrooms"** / **"Entheogenic mushrooms"** — Modern scholarly terms
 - **"Dancing mushrooms"** (maitake) / **"Laughing mushrooms"** (waraitake) — Japanese names
 - **"San Isidros"** — Mexican Spanish name for Psilocybe cubensis (after Saint Isidore, patron of agriculture)
 - **"Little birds"** (pajaritos) — Mexican Spanish for P. mexicana
 - **"Landslides"** (derrumbes) — Mexican Spanish for P. zapotecorum
 
-British colloquial names for P. semilanceata include "Liberty Cap" (dating to M.C. Cooke in the 19th century), "Magic Mushroom," "Blue Legs," and "Pixie Caps." In Australia, P. cubensis is called "gold top" and Panaeolus cyanescens are "blue meanies" (after the Yellow Submarine characters). "Mushies" is common Australian slang.
+British colloquial names for P. semilanceata include "Liberty Cap" (dating to M.C. Cooke in the 19th century), "Magic Mushroom," "Blue Legs," and "Pixie Caps." In Australia, P. cubensis is called "gold top" and [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]] are "blue meanies" (after the Yellow Submarine characters). "Mushies" is common Australian slang.
 
 ## Mushrooms in Art and Literature
 
@@ -131,27 +131,19 @@ England has traditionally been mycophobic — mushrooms viewed as "poisonous, sl
 ### Modern Mushroom Clubs and Foraging Culture
 
 - Amateur mycological societies exist worldwide, offering forays, identification workshops, and specimen collections
-- The North American Mycological Association (NAMA) and British Mycological Society connect amateur and professional mycologists
-- Foraging culture combines culinary interest, naturalist observation, and in some cases, interest in psychoactive species
-- Modern foraging apps and online communities have democratized identification knowledge while also creating risks from misidentification
-
-## Mr. Bloomfield's Orchard
-
-The title of [[nicholas-money]]'s book refers to an abandoned apple orchard belonging to the village milkman, whose century-old trees formed "a solid canopy, beneath which sickening fruits swelled and decayed." The orchard was consumed by "bitter rot, black rot, blossom end rot, canker, rust, powdery mildew, rubbery wood, and scab." Mushrooms of all colors sprouted under the diseased branches: "a pink-gilled Agaricus, scarlet waxy caps, and masses of ink-caps that bled into the grass." This image captures the essential paradox of fungi — simultaneously agents of destruction and beauty, decay and renewal.
-
 ## See Also
+
+- [[gourmet-mushroom-natural-culture]]
+- [[mushroom-folklore-misinterpretations]]
+- [[mycophiles-and-mushroom-culture]]
 
 - [[psychedelic-mushroom-history]] — Chronological timeline from prehistoric to modern
 - [[amanita-muscaria-guide]] — Fly agaric identification, chemistry, and Siberian use
 - [[entheogen-culture]] — Entheogens across cultures
-- [[mushroom-identification-resources]] — Identification methods and safety
+- mushroom-identification — [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] and safety
 - [[edible-wild-mushrooms-by-region]] — Regional foraging guide
 - [[nicholas-money]] — Author of Mr. Bloomfield's Orchard
 - [[christmas-mushroom-symbolism]] — Christmas traditions and Amanita connections
 - [[mythological-mushroom-symbolism]] — Mushroom symbolic vocabulary across cultures
 - [[mushrooms-and-mankind]] — Arthur's comprehensive ethnomycological theory
 - [[sacred-sacrament-mushroom-rites]] — Comparative sacramental mushroom rites
-
-## Related
-
-- [[psychedelic-integration-guide]]

@@ -19,21 +19,21 @@ type: comparison
 
 ## Overview
 
-Lion's Mane (*Hericium erinaceus*) and Cordyceps (*Cordyceps militaris*) represent two of the most commercially significant medicinal mushrooms, yet their cultivation methods, substrates, and market applications differ substantially. Lion's Mane is a traditional wood-decomposing fungus prized for both culinary use and its nootropic properties, while Cordyceps is a specialized medicinal crop cultivated primarily for its unique bioactive compounds.
+Lion's Mane (*Hericium erinaceus*) and Cordyceps (*Cordyceps militaris*) represent two of the most commercially significant medicinal mushrooms, yet their cultivation methods, substrates, and market applications differ substantially. Lion's Mane is a traditional wood-decomposing fungus prized for both culinary use and its nootropic properties, while Cordyceps is a specialized medicinal crop cultivated primarily for its unique [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]].
 
-Choosing between the two depends on your growing infrastructure, target market, and experience level. Both species demand careful attention to sterile technique, but the specific skills, equipment, and environmental controls required diverge significantly after the initial lab work.
+Choosing between the two depends on your growing infrastructure, target market, and experience level. Both species demand careful attention to [[cultivator-sterile-technique-and-agar-culture]], but the specific skills, equipment, and environmental controls required diverge significantly after the initial lab work.
 
 ## Lion's Mane Cultivation
 
 [[cordyceps-cultivation]]
 
-Cordyceps cultivation centers on *C. militaris*, the only commercially viable species for artificial cultivation. The famous *C. sinensis* remains uncultivable outside its natural habitat, where it parasitizes ghost moth larvae in the Himalayan highlands. *C. militaris* produces distinctive orange to red club-shaped fruitbodies and is cultivated almost exclusively for medicinal supplements due to its high cordycepin (3′-deoxyadenosine) content.
+Cordyceps cultivation centers on *C. militaris*, the only commercially viable species for [[fukuoka-matsutake-artificial-cultivation-attempt]]. The famous *C. sinensis* remains uncultivable outside its natural habitat, where it parasitizes ghost moth larvae in the Himalayan highlands. *C. militaris* produces distinctive orange to red club-shaped fruitbodies and is cultivated almost exclusively for medicinal supplements due to its high cordycepin (3′-deoxyadenosine) content.
 
 ### Substrate and Preparation
 
 Unlike Lion's Mane, Cordyceps fruits on sterile grain substrates such as rice or soy-based preparations. Many commercial formulations incorporate insect protein sources like silkworm pupae or mealworms, which can enhance cordycepin production and more closely replicate the natural insect-host relationship of wild Cordyceps.
 
-Substrate preparation requires meticulous attention to sterility. Grain is hydrated, supplemented, and distributed into culture jars or grow bags before being sterilized. Because grain substrates are particularly susceptible to bacterial contamination, some growers opt for fractional sterilization (tyndallization) in addition to standard pressure sterilization.
+[[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] requires meticulous attention to sterility. Grain is hydrated, supplemented, and distributed into culture jars or grow bags before being sterilized. Because grain substrates are particularly susceptible to bacterial contamination, some growers opt for fractional sterilization (tyndallization) in addition to standard [[boil-a-bag-pressure-sterilization-technique]].
 
 ### Environmental Requirements
 
@@ -92,9 +92,11 @@ However, cross-contamination risk between wood-based and grain-based substrate w
 
 Staggered production schedules can help maximize the use of shared equipment. For example, Lion's Mane blocks can be prepared and incubated during weeks when Cordyceps jars are in their fruiting phase, reducing scheduling conflicts and allowing growers to maintain continuous output across both product lines.
 
-Regardless of the approach chosen, both species reward growers who invest in understanding their specific biological requirements and maintain rigorous quality standards throughout the cultivation process.
+Regardless of the approach chosen, both species reward growers who invest in understanding their specific biological requirements and maintain rigorous [[aact-compost-quality-standards-ingham]] throughout the cultivation process.
 
 ## See Also
+
+- [[comparison-cordyceps-vs-lions-mane-cultivation]]
 
 - [[lions-mane-hericium-erinaceus]]
 

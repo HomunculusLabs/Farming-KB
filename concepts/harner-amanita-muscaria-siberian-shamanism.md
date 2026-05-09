@@ -1,7 +1,7 @@
 ---
-title: Amanita Muscaria in Siberian Shamanism
+title: allegro-amanita-muscaria-properties-and-pharmacology in [[siberian-shamanism-and-amanita]]
 created: 2026-04-26
-sources: Harner (ed.), Hallucinogens and Shamanism (1973), Introduction (Harner)
+sources: Harner (ed.), hallucinogens-and-shamanism-harner-anthology (1973), Introduction (Harner)
 related:
   - amanita-muscaria
   - siberian-shamanism
@@ -16,7 +16,7 @@ updated: 2026-04-26
 
 ## "Classic" Shamanism
 
-The term "shaman" comes from the language of the **Tungus tribe of Siberia**. Northeast Asia is the home of what has been commonly termed "classic" shamanism -- the first to be described in detail in the ethnological literature. In this region, a close relationship exists between the psychoactive mushroom **fly-agaric** (*Amanita muscaria*) and the shamanistic act.
+The term "shaman" comes from the language of the **Tungus tribe of Siberia**. Northeast Asia is the home of what has been commonly termed "classic" shamanism -- the first to be described in detail in the ethnological literature. In this region, a close relationship exists between the [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] **fly-agaric** (*[[amanita-muscaria]]*) and the shamanistic act.
 
 ## Pharmacology
 
@@ -48,7 +48,7 @@ Jochelson (1905-1908), who traveled among the Koryak in 1900-1901, provides the 
 
 > "There is reason to think that the effect of fly-agaric would be stronger were not its alkaloid quickly taken out of the organism with the urine. The Koryak knows this by experience, and the urine of persons intoxicated with fly-agaric is not wasted. The drunkard himself drinks it to prolong his hallucinations, or he offers it to others as a treat."
 
-This practice of drinking the urine of intoxicated persons to recycle the active compounds (primarily muscimol, which is excreted largely unmetabolized) is one of the most distinctive features of Siberian *Amanita* use.
+This practice of drinking the urine of intoxicated persons to recycle the active compounds (primarily muscimol, which is excreted largely unmetabolized) is one of the most [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] of Siberian *Amanita* use.
 
 ## Overlooked in Theoretical Literature
 
@@ -87,7 +87,7 @@ Yet by patient library research one can find overwhelming evidence of such subst
 
 ## The Soma Question
 
-While Harner does not address it directly in this work, the use of *Amanita muscaria* in Siberian shamanism has long been connected to the debate over the identity of **Soma**, the divine hallucinogenic plant of the ancient Vedic rituals of India. R. Gordon Wasson's argument that Soma was *Amanita muscaria* rests in part on the Siberian parallels, particularly the urine-recycling practice, which Wasson connected to Vedic passages about filtering and purifying Soma.
+While Harner does not address it directly in this work, the use of *Amanita muscaria* in Siberian shamanism has long been connected to the debate over the identity of **Soma**, the divine hallucinogenic plant of the ancient Vedic rituals of India. R. [[gordon-wasson-comparative-method-ethnomycology]]'s argument that Soma was *Amanita muscaria* rests in part on the Siberian parallels, particularly the urine-recycling practice, which Wasson connected to Vedic passages about filtering and purifying Soma.
 ## See Also
 
 - [[harner-cross-cultural-patterns-shamanic-plant-use]]

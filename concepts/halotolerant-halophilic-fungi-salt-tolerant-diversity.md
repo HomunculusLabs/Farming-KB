@@ -1,5 +1,5 @@
 ---
-title: "Halotolerant and Halophilic Fungi - Salt-Tolerant Diversity"
+title: "Halotolerant and halotolerant-halophilic-fungi-saline-environments - Salt-Tolerant Diversity"
 created: 2026-04-26
 tags:
   - fungal-ecology
@@ -77,7 +77,7 @@ documented from these extreme habitats:
 - **Hortaea werneckii**: A black, yeastlike fungus associated
   with hypersaline saltpans of 15-30% salinity. It is
   facultatively halotolerant and has been the subject of
-  extensive study regarding its mechanisms of salt tolerance.
+  extensive study regarding its mechanisms of [[fungal-salt-tolerance-and-ion-homeostasis]].
 - **Phaeotheca triangularis**: An obligate halophile from
   hypersaline environments.
 - **Aureobasidium pullulans**: A dothidealean fungus that is
@@ -89,7 +89,7 @@ These black, yeastlike fungi from the Dothideales and
 Chaetothyriales are phylogenetically diverse and represent
 remarkable adaptations to extreme salinity. Typical marine
 fungi have not been detected in saltpan environments, suggesting
-that the fungal communities of hypersaline habitats are distinct
+that the [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] of hypersaline habitats are distinct
 from those of marine environments.
 
 ## Halotolerant Fungi of Salted Foods

@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  sources: []
 ---
 
 # Psilocybe moellerii
@@ -45,23 +45,23 @@ Originally described by Guzmán from Brazilian collections. Named in honor of a 
 
 ## Distribution and Habitat
 
-A neotropical species found primarily in Brazil, Colombia, and other parts of northern South America and Central America. It is a coprophilous (dung-inhabiting) fungus, fruiting directly on herbivore dung—particularly cattle and horse—in pastures and open grasslands. It has also been reported from enriched soils in tropical and subtropical lowland environments. Fruiting is closely tied to warm, wet conditions.
+A neotropical species found primarily in Brazil, Colombia, and other parts of northern South America and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. It is a coprophilous (dung-inhabiting) fungus, fruiting directly on herbivore dung—particularly cattle and horse—in pastures and open grasslands. It has also been reported from enriched soils in tropical and subtropical lowland environments. Fruiting is closely tied to warm, wet conditions.
 
 ## Chemistry and Pharmacology
 
-Contains psilocybin and psilocin. Quantitative analyses indicate moderate potency. The species bluing reaction is strong and immediate, consistent with significant concentrations of [[panaeolus-cyanescens-entity]]* also grows on dung in the same regions but belongs to a different genus and has black spores and a mottled gill pattern.
+Contains psilocybin and psilocin. Quantitative analyses indicate moderate potency. The species [[field-guide-psilocybin-bluing-reaction-identification]] is strong and immediate, consistent with significant concentrations of [[panaeolus-cyanescens-entity]]* also grows on dung in the same regions but belongs to a different genus and has black spores and a mottled gill pattern.
 
 ## Cultivation
 
-No established cultivation protocols exist specifically for *P. moellerii*. Its coprophilous nature suggests that pasteurized dung-based substrates would likely support growth, analogous to methods used for cultivating *Psilocybe cubensis*, but this remains unconfirmed experimentally. The species has not entered commercial or amateur cultivation circuits.
+No established cultivation protocols exist specifically for *P. moellerii*. Its coprophilous nature suggests that pasteurized dung-based substrates would likely support growth, analogous to methods used for cultivating *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*, but this remains unconfirmed experimentally. The species has not entered commercial or amateur cultivation circuits.
 
 ## Etymology
 
-Named for its original collector or descriptor associated with early mycological work in Brazil. The specific epithet commemorates contributions to tropical mycological exploration in the region.
+Named for its original collector or descriptor associated with early mycological work in Brazil. The specific epithet commemorates contributions to tropical [[guzman-allen-gartz-mycological-exploration-bias-and-underexplored-regions]] in the region.
 
 ## See Also
 
-- [[neotropical-psilocybin-mushrooms]]
+- neotropical-psilocybin-mushrooms
 ## Practical Considerations
 
 Successful implementation of Psilocybe moellerii requires attention to
@@ -80,4 +80,4 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+- [[psilocybe-cubensis]]

@@ -1,5 +1,5 @@
 ---
-title: Biological Nitrogen Fixation in Agriculture
+title: comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer Fixation in Agriculture
 created: 2026-05-02
 updated: 2026-05-02
 type: concept
@@ -100,7 +100,7 @@ diazotrophs** include *Azotobacter* (aerobic, all three nitrogenase types),
 
 Soybean fixes 100–300 kg N/ha/yr (50–80% of crop N); alfalfa 150–350 kg
 N/ha/yr (80–95%). Globally, agricultural BNF contributes ~25–40 Tg N/yr:
-grain legumes 12–20 Tg, forage legumes 8–14 Tg, rice paddies 2–5 Tg — ~15–
+[[query-best-grain-legumes-for-a-small-homestead]] 12–20 Tg, forage legumes 8–14 Tg, rice paddies 2–5 Tg — ~15–
 25% of crop N inputs vs. ~120–150 Tg N/yr from Haber-Bosch. Brazil's soybean
 contributes ~3–5 Tg N/yr from ~40 million hectares. Legume N credits to
 subsequent crops: soybean 20–50 kg N/ha, pea 20–60 kg N/ha, terminated
@@ -111,10 +111,10 @@ alfalfa 80–200 kg N/ha, deriving from residue mineralization and rhizodepositi
 
 Formulations: **peat-based** (6–12 month shelf life, 10⁹–10¹⁰ CFU/g, seed
 slurry), **liquid** (precision equipment compatible, osmoprotectants), andmycorrhizal-fungi-furrow, avoids pesticide incompatibility, 2–10 kg/ha).
-Minimum standard: 10⁶ cells/seed at planting. Strain selection prioritizes
-fixation efficiency, competitiveness for nodule occupancy, stress tolerance,
-and genetic stability. Co-inoculation with PGPR or mycorrhizal fungi enhances
-performance through improved P nutrition and disease suppression.
+Minimum standard: 10⁶ cells/seed at planting. [[blesching-cannabis-strain-selection-receptor-targeting]] prioritizes
+fixation efficiency, competitiveness for nodule occupancy, [[fungal-lichen-stress-tolerance-and-poikilohydry]],
+and genetic stability. Co-inoculation with PGPR or [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] enhances
+performance through improved P nutrition and [[aact-disease-suppression-mechanisms-ingham]].
 
 ## Factors Affecting BNF Efficiency
 

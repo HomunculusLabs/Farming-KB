@@ -1,5 +1,5 @@
 ---
-title: "How to Build and Manage a Root Cellar"
+title: "How to query-how-do-i-build-and-manage-a-greywater-system-for-garden-irrigation a Root Cellar"
 created: 2026-04-28
 tags: [query, root-cellar, food-storage, construction, preservation]
 date: 2026-04-25
@@ -16,7 +16,7 @@ A root cellar is an underground or partially underground storage space that uses
 
 It keeps temperatures between 32 and 40 degrees Fahrenheit with high humidity, ideal for storing root crops and hardy vegetables through winter without electricity.
 
-Proper design includes ventilation, drainage, and humidity management for long-term food storage.
+Proper design includes ventilation, drainage, and [[stamets-cultivator-humidity-management-fogging-systems]] for long-term food storage.
 
 ## Detailed Explanation
 
@@ -28,7 +28,7 @@ This is typically around 50 to 55 degrees Fahrenheit at depths of 6 to 8 feet.
 
 A root cellar uses this natural thermal mass to keep food cool in summer and above freezing in winter.
 
-Combined with proper ventilation and humidity management, this creates optimal storage conditions for many crops.
+Combined with proper ventilation and humidity management, this creates optimal [[vegetable-storage-conditions-by-temperature-and-humidity]] for many crops.
 
 The [[root-cellar-design-and-construction]] resource covers site evaluation criteria including soil type, water table depth, and proximity to utilities.
 
@@ -54,7 +54,7 @@ Monitor temperatures daily using a thermometer placed at carrot height, not eye 
 
 ### What to Store
 
-Root cellars are ideal for storing root vegetables, hardy greens, cabbage, apples, pears, and fermented foods.
+Root cellars are ideal for storing [[growing-root-vegetables-guide]], hardy greens, cabbage, apples, pears, and fermented foods.
 
 Potatoes, sweet potatoes, carrots, beets, turnips, and parsnips all store well for months in proper conditions.
 
@@ -62,15 +62,17 @@ The [[canning-and-preserving]] guide covers complementary preservation methods f
 
 Maintain cleanliness by sweeping floors and removing debris between storage seasons.
 
-Scrub shelves and walls with a mild vinegar solution to prevent mold growth.
+Scrub shelves and walls with a mild vinegar solution to [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]] growth.
 
 Keep the cellar dark, as light causes potatoes to turn green and produce toxic solanine.
 
 ## Key Points
 
 - Root cellars maintain ideal storage conditions using natural earth insulation without any electricity
-- [[ultra-low-cost-food-preservation]] combines root cellaring with fermentation and drying for a complete system
+- [[ultra-low-cost-food-preservation]] combines [[comparison-root-cellaring-guide-vs-canning-and-preserving]] with fermentation and drying for a complete system
 ## Related
+
+- [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]]
 
 - [[query-how-to-store-food-without-refrigeration]]
 - [[query-how-does-lacto-fermentation-work-for-food-preservation]]
@@ -92,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

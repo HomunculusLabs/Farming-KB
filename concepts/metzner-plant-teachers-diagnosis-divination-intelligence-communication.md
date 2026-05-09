@@ -40,7 +40,7 @@ ingests it.
 In shamanic traditions, the process of determining the cause of an illness is
 called "divination" or "seeing." When the shaman ingests the plant teacher,
 they enter a visionary state in which the hidden causes of illness become
-perceptible. This is equivalent to what Western medicine calls "diagnosis," but
+perceptible. This is equivalent to what [[fukuoka-eastern-western-medicine-healing-world-crisis]] calls "diagnosis," but
 the process is radically different. Where Western diagnosis proceeds through
 symptom analysis, laboratory testing, and differential reasoning, shamanic
 diagnosis proceeds through direct visionary perception of the spiritual and
@@ -52,7 +52,7 @@ where a toxic implant came from and from whom; where a soul fragment has been
 "lost" and how it may be retrieved; what particular herbs should be used for
 the person's illness; whether the illness has a natural or sorcerous cause; and
 what the prognosis for recovery may be. This information is received through
-visions, auditory phenomena (the "voices" of the plant or spirit beings),
+visions, auditory phenomena (the "voices" of the plant or [[metzner-spirit-beings-multiple-realities-entheogens]]),
 bodily sensations, and direct intuitive knowing.
 
 ### The Amazonian Ayahuasca Context
@@ -104,7 +104,7 @@ healing, morality, and the nature of reality.
 The Huichol people's relationship with peyote is similarly pedagogical. The
 long pilgrimage to Wirikuta to find the sacred cactus is understood as an
 educational journey in which the peyote teaches the pilgrims about creation,
-cosmology, and their place in the natural order. The singing and storytelling
+cosmology, and their place in the [[fukuoka-textdoc-natural-order-food-chain-unity]]. The singing and storytelling
 that accompany the peyote ceremony are understood as transmissions of the
 cactus's wisdom.
 
@@ -118,13 +118,13 @@ providing access to ancestral knowledge and guidance.
 ## Implications for Modern Therapeutic Practice
 
 ### The Amplifier Analogy Revisited
-The "amplifier analogy" used in Western psychedelic psychotherapy—that the
+The "amplifier analogy" used in Western [[metzner-psychedelic-psychotherapy-clinical-history]]—that the
 drug functions as a nonspecific amplifier of psychic contents—is compatible
 with the plant teacher concept but does not fully capture it. The plant teacher
 concept adds an agentic dimension: the plant is not merely amplifying what is
 already in the person's mind but is actively contributing information from its
 own perspective. The shamanic model thus suggests a more participatory and
-dialogical understanding of the psychedelic experience than the Western
+dialogical understanding of the [[leary-psychedelic-experience-bardo-mapping]] than the Western
 pharmacological model typically allows.
 
 ### The Microscope Metaphor
@@ -138,5 +138,8 @@ intelligences.
 
 ## See Also
 - [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]]
-- [[metzner-huichol-wirikuta-pilgrimage-and-peyote-ceremony-structure]]
-- [[metzner-bwiti-iboga-mirror-initiation-and-ancestor-communication]]
+- metzner-huichol-wirikuta-pilgrimage-and-peyote-ceremony-structure
+- metzner-bwiti-iboga-mirror-initiation-and-ancestor-communication
+- [[psychedelic-psychotherapy]]
+- [[ralph-metzner]]
+- [[peyote-ceremony]]

@@ -11,7 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Mueller, G.M. (1992). \"Systematics of Laccaria (Agaricales) in the continental United States and Canada.\" Mycotaxon, 44, 1-60."
-  - "Wilson, A.W. et al. (2017). \"Systematics of the genus Laccaria (Agaricales, Basidiomycota) in North America.\" Mycologia, 109(5), 795-818."
+  - "Wilson, A.W. et al. (2017). \"Systematics of the genus Laccaria (Agaricales, Basidiomycota) in [[psilocybin-north-america-pacific-northwest]].\" Mycologia, 109(5), 795-818."
   - "Kropp, B.R. & Mueller, G.M. (1999). \"Laccaria.\" In: Cannon, P.F. et al. (eds.), Fungi of Europe."
   - "https://www.mycobank.org/Laccaria/ochropurpurea"
 created: 2026-05-07
@@ -21,7 +21,7 @@ created: 2026-05-07
 
 ## Overview
 
-*Laccaria ochropurpurea* is a basidiomycete fungus in the family Hydnangiaceae, commonly known as the purple laccaria or purple-gilled laccaria. It is an ectomycorrhizal associate primarily of oaks and other hardwoods in eastern North America.
+*Laccaria ochropurpurea* is a basidiomycete fungus in the family Hydnangiaceae, commonly known as the purple laccaria or purple-gilled laccaria. It is an ectomycorrhizal associate primarily of oaks and other hardwoods in [[polypore-fungi-eastern-north-america]] America.
 
 The species is notable for its large size within the genus, reaching pileus diameters of 10–15 cm, making it one of the most robust Laccaria species. Despite being edible, it is not widely collected for the table due to its fibrous texture.
 
@@ -71,7 +71,7 @@ It favors well-drained sandy or loamy soils in mature forest stands.
 
 ## Ecology
 
-As an ectomycorrhizal fungus, *L. ochropurpurea* facilitates nutrient exchange with host trees, enhancing phosphorus and nitrogen uptake.
+As an ectomycorrhizal fungus, *L. ochropurpurea* facilitates [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] with host trees, enhancing phosphorus and nitrogen uptake.
 
 The species contributes to soil aggregation through hyphal networks and is considered a moderate to good mycorrhizal colonizer in forest restoration contexts.
 
@@ -103,8 +103,12 @@ Some foragers collect young specimens for soups and stews, where prolonged cooki
 
 - **[[laccaria-laccata]]** — Smaller overall (cap 1–5 cm), more uniformly pinkish gills, finer stipe.
 - **[[laccaria-bicolor]] — Closely related ectomycorrhizal Laccaria species
-- [[laccaria-proxima]] — Western North American counterpart
-- [[mycorrhiza]] — Overview of mycorrhizal symbiosis
+- laccaria-proxima — Western [[growing-gourmet-north-american-reishi-species]] counterpart
+- [[mycorrhiza]] — Overview of [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]
 - [[russula-emetica]] — Another colorful ectomycorrhizal genus
 - [[pleurotus-ostreatus]] — Edible mushroom for comparison
-- [[amanita-muscaria-entity]] — Iconic mycorrhizal mushroom species
+- [[amanita-muscaria-entity]] — Iconic [[mycelium-running-mycorrhizal-mushroom-gardens]] species
+
+## See Also
+
+- [[laccaria-amethystea]]

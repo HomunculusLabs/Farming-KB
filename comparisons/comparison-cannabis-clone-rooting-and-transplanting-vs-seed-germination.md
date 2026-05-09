@@ -1,10 +1,11 @@
 ---
-title: "Cannabis Clone Rooting vs Seed Germination"
+title: "Cannabis cannabis-clone-rooting-and-transplanting vs cannabis-seed-germination-methods"
 created: 2026-04-28
 tags: [comparison, cloning, germination, propagation, genetics]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 # Cannabis Clone Rooting vs Seed Germination
@@ -37,7 +38,7 @@ Rooting can be accomplished through several mediums, each with different timelin
 are popular, typically producing roots in 7 to 14 days when kept moist and warm. Peat pellets offer
 a similar timeline with an organic alternative. Water cloning places cuttings in aerated water,
 producing visible roots in 7 to 21 days. Aeroponic cloners provide the fastest results by misting
-cuttings with nutrient solution, often producing roots in 5 to 10 days. Regardless of medium, clones
+cuttings with [[cannabis-nutrient-solution-preparation]], often producing roots in 5 to 10 days. Regardless of medium, clones
 require high humidity (70-80%), warm temperatures (75-80F), and indirect light during rooting.
 
 The primary advantage of cloning is genetic consistency. Every clone taken from a mother
@@ -54,14 +55,14 @@ nutrients. There is also a risk of transmitting pests, diseases, and genetic deg
 
  is-grow-bible-hydroponics-and-the-bubbler ow-harvesting-drying-curing bible 
 
-Seed germination is the process of activating a dormant cannabis seed into a new, growing
+Seed germination is the process of activating a dormant [[cervantes-cannabis-seed-purchasing-storage]] into a new, growing
 plant. A cannabis seed requires only three things to germinate: moisture, warmth, and
 oxygen. The optimal temperature for germination is approximately 78 degrees Fahrenheit (25
 degrees Celsius), and seeds will typically sprout within 2 to 7 days when maintained in
 the 70 to 90 degree range. Water is the primary trigger that activates seed hormones,
 specifically abscisic acid (ABA) which maintains dormancy, cytokinins which promote cell
 division, and gibberellins which stimulate growth. Once the seed absorbs water, these
-hormonal shifts initiate metabolic activity and the seed embryo begins to swell and push
+hormonal shifts initiate [[arbuscule-isolation-metabolic-activity-assays]] and the seed embryo begins to swell and push
 out a root tip, typically becoming visible within 55 to 72 hours of initial hydration.
 
 The germination process demands careful moisture management. Seeds must be kept consistently
@@ -79,7 +80,7 @@ that may express different traits from their siblings. This variation gives grow
 to hunt for exceptional phenotypes within a seed pack, often called "pheno hunting," which can
 uncover plants with superior characteristics not present in either parent. Seeds also carry no
 pathogens, pests, or accumulated genetic defects from previous generations. However, seeds add 2 to
-4 weeks to the overall grow timeline compared to clones, require sex determination for regular seeds,
+4 weeks to the overall grow timeline compared to clones, require [[cannabis-sex-determination-floral-biology]] for regular seeds,
 and introduce uncertainty about final plant characteristics that clones eliminate entirely.
 
 ## Key Differences
@@ -104,6 +105,8 @@ Clone rooting is the optimal choice when you have already identified a superior 
 to reproduce it consistently. Commercial growers, medical cultivators, and anyone needing reliable,
 predictable results from grow [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]], and then reverse
 ## See Also
+
+- [[comparison-seed-balls-vs-transplanting]]
 
 - 
 

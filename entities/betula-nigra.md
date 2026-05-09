@@ -12,8 +12,8 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Dirr, M.A. (2009). Manual of Woody Landscape Plants. Stipes Publishing.
-  - Burns, R.M. & Honkala, B.H. (1990). Silvics of North America, Vol. 2. USDA Forest Service.
-  - Little, E.L. (1979). Checklist of United States Trees. USDA Forest Service.
+  - Burns, R.M. & Honkala, B.H. (1990). Silvics of [[psilocybin-north-america-pacific-northwest]], Vol. 2. USDA Forest Service.
+  - Little, E.L. (1979). Checklist of [[dmt-containing-plants-united-states-halpern]] Trees. USDA Forest Service.
   - Cappiello, P. & Shadow, D. (2005). Dogwoods, Lilacs, Magnolias, and Many More. Timber Press.
 ---
 
@@ -33,13 +33,13 @@ Bark on young trees is silvery-white with pronounced lenticels, exfoliating in p
 
 Leaves are alternate, simple, ovate to rhombic, 4–8 cm long and 3–6 cm wide. Leaf margins are doubly serrate with 6–10 lateral veins per side.
 
-The upper leaf surface is dark green and glossy, while the lower surface is paler with scattered glandular dots. Autumn color is generally unreliable — yellow at best — which limits its ornamental appeal in colder climates.
+The upper [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is dark green and glossy, while the lower surface is paler with scattered glandular dots. Autumn color is generally unreliable — yellow at best — which limits its ornamental appeal in colder climates.
 
 Flowers are wind-pollinated catkins appearing before leaf emergence in early spring. Male catkins are 5–8 cm long, pendulous, and brownish-yellow.
 
 Female catkins are erect, cylindrical, 1.5–3 cm long, and greenish. Fruiting catkins disintegrate at maturity, releasing tiny winged nutlets approximately 1.5 mm long.
 
-The root system is shallow and wide-spreading, with the majority of fine roots concentrated in the upper 30 cm of soil. This rooting pattern contributes to the species' effectiveness in erosion control but also makes it susceptible to windthrow on exposed sites.
+The root system is shallow and wide-spreading, with the majority of fine roots concentrated in the upper 30 cm of soil. This rooting pattern contributes to the species' effectiveness in [[permplant-willows-salix-erosion-control-fodder]] but also makes it susceptible to windthrow on exposed sites.
 
 Winter buds are ovoid, pointed, and approximately 4–6 mm long, with 2–3 overlapping scales. Twig color is brown to reddish-brown, often with a slight pubescence in the first year.
 
@@ -51,7 +51,7 @@ River birch is strongly associated with riparian corridors, floodplains, and swa
 
 It grows on a wide range of soil types including clay, loam, sand, and alluvial substrates. Soil pH tolerance spans from moderately acidic (pH 4.5) to slightly alkaline (pH 7.5).
 
-Elevation range is typically 0–500 meters, though scattered populations occur up to 900 meters in the southern Appalachians. The species tolerates brief flooding periods of up to several weeks during the growing season.
+Elevation range is typically 0–500 meters, though scattered populations occur up to 900 meters in the southern Appalachians. The species tolerates brief flooding periods of up to several weeks during the [[savory-growing-season-and-non-growing-season-management]].
 
 In the northern portion of its range, river birch often grows as a multi-stemmed clump originating from a single root system. Southern populations tend to develop single, straight trunks more readily.
 
@@ -65,7 +65,7 @@ Transplanting success is highest with container-grown or B&B (balled-and-burlapp
 
 The wood is light, close-grained, and moderately strong with a specific gravity of approximately 0.49. It is used commercially for furniture, cabinetry, woodenware, and turned objects, though volumes are limited compared to more abundant hardwoods.
 
-Historically, Native American peoples used the bark for constructing canoes, baskets, and roofing material. The sap can be tapped in early spring and boiled into syrup, though sugar content is lower than that of sugar maple.
+Historically, [[halpern-sacramental-peyote-and-native-american-church]] peoples used the bark for constructing canoes, baskets, and roofing material. The sap can be tapped in early spring and boiled into syrup, though sugar content is lower than that of sugar maple.
 
 Irrigation during establishment is critical — the species is among the least drought-tolerant birches, and leaf scorch develops rapidly under water stress. Mulch layers of 5–8 cm help retain soil moisture in landscape settings.
 

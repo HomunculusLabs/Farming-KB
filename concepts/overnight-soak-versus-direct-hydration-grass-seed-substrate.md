@@ -2,7 +2,7 @@
 
 ## Overview
 
-Two primary methods exist for preparing grass seed substrate for mushroom cultivation: direct hydration (mixing dry seed with a measured volume of water) and overnight soaking (pre-soaking seed in water before loading into jars). Each method has distinct advantages and trade-offs affecting substrate homogeneity, colonization speed, contamination risk, and overall cultivation success.
+Two primary methods exist for preparing grass [[grass-seed-substrate-for-mushroom-cultivation]] [[accessible-mushroom-cultivation-for-disabilities]]: direct hydration (mixing dry seed with a measured volume of water) and overnight soaking (pre-soaking seed in water before loading into jars). Each method has distinct advantages and trade-offs affecting substrate homogeneity, colonization speed, contamination risk, and overall cultivation success.
 
 ## Direct Hydration Method
 
@@ -11,7 +11,7 @@ The direct hydration method follows a simple ratio-based approach:
 1. Add 110 g grass seed to each 720 mL jar.
 2. Add 180 mL water directly to the jar.
 3. Place the lid on loosely (not screwed tight).
-4. Cover with a double layer of crumpled tinfoil.
+4. Cover with a [[coleman-cold-greenhouse-double-layer-protection]] of crumpled tinfoil.
 5. Sterilize in a pressure cooker for 60 minutes (2 hours for larger jars or spawn bags).
 6. After sterilization and pressure release, shake jars to distribute moisture.
 
@@ -73,7 +73,7 @@ The guide notes that colonization time on grass seed ranges from 5–20 days dep
 
 ### Contamination Considerations
 
-Both methods rely on pressure cooker sterilization to eliminate contaminants. The overnight soak introduces a theoretical risk of pre-sterilization microbial growth, but this is rendered irrelevant by the sterilization step. The more important contamination consideration is post-sterilization:
+Both methods rely on pressure [[pressure-cooker-sterilization-mushroom-substrate]] to eliminate contaminants. The overnight soak introduces a theoretical risk of pre-sterilization microbial growth, but this is rendered irrelevant by the sterilization step. The more important contamination consideration is post-sterilization:
 
 - **Direct hydration with wet spots**: Overly wet areas in directly hydrated substrate can become anaerobic, creating favorable conditions for anaerobic bacteria that survive sterilization (some bacterial endospores can survive standard pressure cooking).
 - **Overnight soak with proper draining**: Properly drained soaked seed has less risk of anaerobic pockets because excess surface water is removed before jar loading.
@@ -115,6 +115,10 @@ Regardless of hydration method, the guide emphasizes several critical post-steri
 
 ## See Also
 
+- [[overnight-soak-method-homogeneous-grass-seed-substrate]]
+
+- [[overnight-soak-grass-seed-substrate-homogeneity]]
+
 - [[grass-seed-substrate-preparation-mycology]]
 - [[grass-seed-water-absorption-variability-substrate-preparation]]
-- [[grass-seed-species-selection-fungicide-contamination-mushroom-substrate]]
+- grass-seed-species-selection-fungicide-contamination-mushroom-substrate

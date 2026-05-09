@@ -10,11 +10,11 @@ sources:
 
 # Living Plant Systems and Insectary Gardens
 
-Toby Hemenway's guide to creating gardens that support beneficial insects, pollinators, and wildlife through intentional plant selection. From Gaia's Garden, Chapter 6.
+Toby Hemenway's guide to creating gardens that support [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], pollinators, and wildlife through intentional plant selection. From Gaia's Garden, Chapter 6.
 
 ## Why Attract Beneficial Insects
 
-A healthy garden depends on a complex web of relationships between plants, insects, birds, and other creatures. Without pollinators, many crops fail. Without predators, pest populations explode. The ecological garden intentionally creates habitat for these essential partners.
+A [[query-how-to-build-healthy-garden-soil]] depends on a complex web of relationships between plants, insects, birds, and other creatures. Without pollinators, many crops fail. Without predators, pest populations explode. The ecological garden intentionally creates habitat for these essential partners.
 
 ## The Insectary Garden
 
@@ -34,11 +34,11 @@ Many of the best insectary plants are common herbs and flowers:
 - **Umbellifers** (dill, fennel, cilantro/coriander, parsley, Queen Anne's lace, yarrow): Small, shallow flowers perfect for tiny parasitic wasps and hover flies
 - **Composite flowers** (cosmos, sunflowers, asters, zinnias, marigolds): Provide landing platforms and accessible nectar
 - **Mint family** (lavender, rosemary, thyme, oregano, bee balm, catnip): Long-blooming, attractive to bees and other pollinators
-- **Legumes** (clover, vetch, peas, beans): Attract predatory wasps and provide nitrogen fixation
+- **Legumes** (clover, vetch, peas, beans): Attract predatory wasps and provide [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
 
 ### Designing for Continuous Bloom
 
-Beneficial insects need food throughout the growing season. Plan for:
+Beneficial insects need food throughout the [[savory-growing-season-and-non-growing-season-management]]. Plan for:
 
 - **Early spring:** Crocus, snowdrops, early-blooming bulbs, winter-blooming heathers
 - **Spring:** Clover, phacelia, alyssum, candytuft, early-blooming herbs
@@ -65,7 +65,7 @@ Hedgerows are linear plantings of shrubs, trees, and herbs that serve multiple f
 - **Berry and nut production** for humans and wildlife
 - **Insectary function** when including flowering shrubs
 - **Privacy screening** and boundary definition
-- **Microclimate creation** through wind reduction and shade
+- **[[mollison-designers-microclimate-creation-frost-protection]]** through wind reduction and shade
 
 ### Hedgerow Plant Selection
 
@@ -117,6 +117,6 @@ In dryland gardens, plant trees in small depressions connected by shallow trench
 ## See Also
 
 - [[gaia-garden-plant-guilds]] — plant guild design
-- [[sepp-holzer-garden-helpers-and-pest-regulation]] — garden helpers
-- [[gaias-garden-fruit-tree-selection]]
+- [[sepp-holzer-garden-helpers-and-pest-regulation]] — [[sepp-holzer-garden-helpers-and-pest-regulation]]
+- gaias-garden-fruit-tree-selection
 - [[sepp-holzer-water-gardens-and-aquatic-plants]]

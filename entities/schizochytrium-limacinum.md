@@ -48,17 +48,17 @@ Reproduction occurs through zoospore release or binary fission. Zoospores posses
 
 The species produces DHA via a polyketide synthase (PKS) pathway rather than the conventional fatty acid desaturase-elongase pathway used by most eukaryotes. This PKS system enables very high DHA flux and yields.
 
-Total protein content ranges from 15–25% of dry weight. Carbohydrates, primarily as storage glucans, constitute 10–15%. Squalene, a valuable triterpenoid, is produced as a secondary metabolite at 0.1–1% of dry weight.
+Total protein content ranges from 15–25% of dry weight. Carbohydrates, primarily as storage glucans, constitute 10–15%. Squalene, a valuable triterpenoid, is produced as a [[fungal-elicitors-enhanced-secondary-metabolite-production]] at 0.1–1% of dry weight.
 
 The fatty acid profile is dominated by DHA (22:6n-3), docosapentaenoic acid (22:5n-6), and palmitic acid (16:0). This distinctive profile differs markedly from fish oil, which contains both DHA and EPA.
 
 ## Cultivation
 
-*S. limacinum* is an obligate heterotroph, requiring organic carbon for growth. It cannot grow photoautotrophically, which distinguishes it fundamentally from algal DHA producers like *Nannochloropsis*.
+*S. limacinum* is an obligate heterotroph, requiring [[dighton-fungal-dissolved-organic-carbon-production]] for growth. It cannot grow photoautotrophically, which distinguishes it fundamentally from algal DHA producers like *Nannochloropsis*.
 
-Industrial cultivation uses fed-batch fermentation in stirred-tank bioreactors ranging from 500 L to 500,000 L. Glucose or corn syrup serves as the primary carbon source, supplemented with nitrogen (yeast extract, corn steep liquor) and marine salts.
+Industrial cultivation uses fed-batch fermentation in stirred-tank bioreactors ranging from 500 L to 500,000 L. Glucose or corn syrup serves as the primary carbon source, supplemented with nitrogen ([[marmite-yeast-extract-straw-substrate]], corn steep liquor) and marine salts.
 
-Optimal growth temperature is 25–30°C with pH maintained at 6.0–7.0. Dissolved oxygen must be maintained above 20% saturation to support aerobic metabolism and maximize DHA synthesis.
+Optimal growth temperature is 25–30°C with pH maintained at 6.0–7.0. [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] must be maintained above 20% saturation to support aerobic metabolism and maximize DHA synthesis.
 
 Fermentation runs typically last 48–96 hours, reaching biomass densities of 50–200 g/L dry weight.
 
@@ -68,7 +68,7 @@ Downstream processing involves cell harvesting by centrifugation, lipid extracti
 
 ## Applications
 
-**Infant formula:** Algal DHA from *S. limacinum* is added to virtually all premium infant formula products worldwide. DHA and ARA (arachidonic acid, from *Mortierella alpina*) are combined to mimic the fatty acid profile of human breast milk.
+**Infant formula:** Algal DHA from *S. limacinum* is added to virtually all premium infant formula products worldwide. DHA and ARA (arachidonic acid, from *[[mortierella-alpina]]*) are combined to mimic the fatty acid profile of human breast milk.
 
 **Dietary supplements:** DHA oil is marketed in softgel capsules and liquid formulations for cardiovascular, cognitive, and prenatal health. Algal DHA is the preferred source for vegetarians and individuals concerned about ocean contaminants in fish oil.
 
@@ -90,7 +90,7 @@ The ability to accumulate large lipid reserves rapidly may serve an ecological f
 
 Classical strain improvement through random mutagenesis (UV, chemical) and screening has produced industrial strains with DHA titers exceeding 50% of total fatty acids. Selection pressure under high-glucose, low-temperature conditions has been particularly effective.
 
-Genetic engineering is well developed for *S. limacinum*, with established protocols for transformation, gene knockout, and overexpression. The PKS genes responsible for DHA synthesis have been characterized and manipulated to redirect carbon flux toward DHA.
+[[fukuoka-textdoc-genetic-engineering-critique-warning]] is well developed for *S. limacinum*, with established protocols for transformation, gene knockout, and overexpression. The PKS genes responsible for DHA synthesis have been characterized and manipulated to redirect carbon flux toward DHA.
 
 Metabolic engineering strategies include overexpression of malonyl-CoA synthase, knockdown of competing fatty acid synthase pathways, and introduction of alternative carbon assimilation routes. These approaches have yielded strains with 20–40% improvements in DHA productivity.
 
@@ -110,7 +110,7 @@ The order Thraustochytrida contains numerous genera with unexplored biotechnolog
 - fermentation
 - nutrition
 - sustainability
-- climate change
+- [[dighton-fungi-climate-change-feedback]]
 - photosynthesis
 - proteomics
 - [[cannabis-anti-inflammatory-applications]]

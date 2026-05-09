@@ -2,7 +2,7 @@
 title: DiPT
 created: 2026-04-28
 type: chemical
-tags: [[tryptamine]], psychedelic, auditory, serotonergic, research-chemical]
+tags: [tryptamine], psychedelic, auditory, serotonergic, research-chemical]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
@@ -13,12 +13,12 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 **N,N-Diisopropyltryptamine** is an unusual psychedelic tryptamine distinguished by its uniquely auditory-dominant effects — it is one of the very few psychedelics that produces profound auditory distortion with minimal visual or cognitive alteration. First synthesized by [[det]] (N,N-diethyl-
 tryptamine), which is Schedule I. In practice, this means prosecution for
 possession or sale is possible under analogue drug provisions. In the United
-Kingdom, DiPT falls under the Psychoactive Substances Act 2016, making its
+Kingdom, DiPT falls under the Psychoactive [[controlled-substances-act-and-psychedelic-research]] 2016, making its
 production, supply, and importation criminal offenses. Several other countries
 including Germany, Japan, and Australia have also enacted controls through
 generic tryptamine or psychoactive substance legislation. The compound's
 relative obscurity compared to classical psychedelics has kept enforcement
-activity limited, but forensic detection methods for DiPT and its metabolites
+activity limited, but forensic [[singh-detection-methods-degrading-fungi-environment]] for DiPT and its metabolites
 have been developed and are increasingly available to law enforcement.
 
 ## Analogues and Derivatives
@@ -62,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -104,4 +104,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

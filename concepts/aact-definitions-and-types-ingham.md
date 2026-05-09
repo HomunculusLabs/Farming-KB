@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Field Guide I for Actively Aerated Compost Tea, Dr. Elaine Ingham, Soil Foodweb Inc.
+Source: The [[ghouled-field-guide-historical-context]] I for Actively [[actively-aerated-compost-tea-aact-brewing]] Tea, Dr. Elaine Ingham, Soil Foodweb Inc.
 
 Ingham provides precise definitions for the various types of compost tea and related products, emphasizing that the distinctions matter because pathogen response differs based on production conditions.
 
@@ -25,7 +25,7 @@ AACT is the most useful tea for improving plant-growing conditions. Key characte
 - Contains all the important sets of organisms: bacteria, fungi, protozoa, and nematodes
 - If no food resources are put in, active aeration may not be required (oxygen must still be monitored)
 
-Critical: If the liquid goes anaerobic and the beneficial fungi, protozoa, and nematodes are killed, it CANNOT be called compost tea. Anaerobic liquids should be called "putrefying organic matter tea."
+Critical: If the liquid goes anaerobic and the beneficial fungi, protozoa, and nematodes are killed, it CANNOT be called compost tea. Anaerobic liquids should be called "putrefying [[hamilton-composting-and-organic-matter-management]] tea."
 
 AACT is a PREVENTATIVE, not a pesticide. When a vineyard has been in serious disease mode for years, it requires weekly applications to establish beneficial organisms that out-compete the disease community.
 
@@ -35,7 +35,7 @@ AACT is a PREVENTATIVE, not a pesticide. When a vineyard has been in serious dis
 The most useful tea. Actively aerated throughout brewing. Maintains all beneficial organism groups. See above.
 
 ### B. Fermentative Compost Tea (FCT)
-Can select for growth of facultative anaerobic organisms that suppress certain diseases through antibiotic/inhibitory interactions. Lactic acid bacteria or fermentative yeasts dominate, putting aerobic critters "to sleep" (but not killing them). These CAN be resuscitated.
+Can select for growth of facultative [[ingham-anaerobic-organisms-role-soil]] that suppress certain diseases through antibiotic/inhibitory interactions. Lactic [[lactic-acid-bacteria-knf]] or fermentative yeasts dominate, putting aerobic critters "to sleep" (but not killing them). These CAN be resuscitated.
 
 ### C. Long-Brewing Compost Tea (LBCT)
 Starts aerobic, moves through an anaerobic phase, then returns to aerobic by the end. The beneficial communities never fully recover their original diversity after the anaerobic phase.
@@ -73,7 +73,7 @@ If those active ingredients (the full range of beneficial organisms) are not pre
 
 ## Can You Go Anaerobic and Come Back?
 
-You can bring anaerobic tea back to aerobic conditions, but:
+You can bring [[aerobic-vs-anaerobic-tea-benefits-comparison]] back to aerobic conditions, but:
 - The beneficial communities NEVER return to the full range of diversity you want
 - Going anaerobic risks growing human pathogens (Clostridium, E. coli, Salmonella, Shigella)
 - This is not a good idea

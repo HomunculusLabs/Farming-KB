@@ -44,7 +44,7 @@ Most home gardeners grow *C. annuum* varieties (jalapeños, bells, poblanos) bec
 
 ### Timing
 
-Chili peppers need a long growing season. Start seeds **6–10 weeks before your last expected frost date**. For most temperate climates, this means sowing indoors in late winter to early spring (February–March in the Northern Hemisphere). Hotter varieties (*C. chinense*, *C. pubescens*) benefit from the longer end of this range.
+Chili peppers need a long [[savory-growing-season-and-non-growing-season-management]]. Start seeds **6–10 weeks before your last expected frost date**. For most temperate climates, this means sowing indoors in late winter to early spring (February–March in the Northern Hemisphere). Hotter varieties (*C. chinense*, *C. pubescens*) benefit from the longer end of this range.
 
 ### Seed Viability
 
@@ -101,7 +101,7 @@ Consistent moisture is key. Peppers are sensitive to both drought and overwateri
 ### Fertilizing
 
 Peppers are moderate to heavy feeders:
-- **At planting**: Mix in 2–4 liters of compost per square meter; optionally add a balanced organic fertilizer (4-4-4 or 5-5-5)
+- **At planting**: Mix in 2–4 liters of compost per square meter; optionally add a balanced [[complete-organic-fertilizer-cof-recipe-solomon]] (4-4-4 or 5-5-5)
 - **Early growth** (first 4 weeks): Side-dress with nitrogen if growth is slow (fish emulsion, blood meal, or compost tea)
 - **Flowering and fruiting**: Shift to higher-phosphorus and potassium (bone meal, kelp meal, or a 2-5-5 blend) to support fruit production
 - **Avoid excess nitrogen**: Produces lush foliage at the expense of fruit; can also delay maturity
@@ -120,10 +120,10 @@ Peppers are moderate to heavy feeders:
 | Pest | Identification | Control |
 |------|---------------|---------|
 | **Aphids** | Green/black clusters on new growth, curled leaves | Insecticidal soap, ladybugs, neem oil |
-| **Spider mites** | Tiny dots on undersides of leaves, fine webbing | Increase humidity, spray with water, predatory mites |
-| **Flea beetles** | Tiny shot-hole damage on leaves, especially on seedlings | Floating row covers, diatomaceous earth |
-| **Pepper weevil** | Larvae in fruit; small holes with frass | Remove affected fruit, beneficial nematodes |
-| **Hornworms** | Large green caterpillars stripping leaves | Hand-pick; Bacillus thuringiensis (Bt) |
+| **Spider mites** | Tiny dots on undersides of leaves, fine webbing | Increase humidity, spray with water, [[comparison-predatory-mites-vs-ladybugs-biocontrol]] |
+| **Flea beetles** | Tiny shot-hole damage on leaves, especially on seedlings | Floating row covers, [[query-how-to-use-diatomaceous-earth-in-the-garden]] |
+| **Pepper weevil** | Larvae in fruit; small holes with frass | Remove affected fruit, [[ingham-beneficial-nematodes-soil-food-web]] |
+| **Hornworms** | Large green caterpillars stripping leaves | Hand-pick; [[cervantes-bacillus-thuringiensis-bt-control]] (Bt) |
 
 ### Diseases
 
@@ -140,6 +140,8 @@ Peppers are moderate to heavy feeders:
 - **Blossom drop**: Caused by temperatures above 35°C or below 12°C, or inconsistent watering. Usually self-corrects when conditions improve
 - **Sunscald**: Pale, papery patches on fruit exposed to direct sun after leaf loss. Provide adequate foliage cover or shade cloth
 ## See Also
+
+- [[query-how-do-i-grow-garlic-organically-from-planting-to-harvest]]
 
 - [[holzer-raised-bed-techniques-hugelkultur]]
 - [[query-how-do-i-transition-my-cannabis-grow-from-synthetic-to-organic-nutrients]]

@@ -1,5 +1,5 @@
 ---
-title: Fiber vs Drug Cannabis Strain Phenotypes and Gross Morphology (Clarke)
+title: Fiber vs Drug Cannabis cannabis fiber vs drug strain phenotypes clarke and Gross Morphology (Clarke)
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -26,14 +26,14 @@ The F1 and F2 pure-bred offspring of imported varieties are more similar to each
 - **Sex expression**: Often monoecious (selected for even maturation)
 - **Selection history**: Generations of fiber-producing farmers selected for long fibers through even growth and maturation
 - **Harvest**: Usually not grown long enough to set seed (seed interferes with fiber production)
-- **Origin**: Northern temperate climates of Europe, Japan, China, and North America
+- **Origin**: Northern temperate climates of Europe, Japan, China, and [[psilocybin-north-america-pacific-northwest]]
 
 ### Escaped Fiber Strains
 Escaped fiber strains of the midwestern United States are:
 - Tall, skinny, relatively poorly branched
 - Weakly flowered
 - Low in cannabinoid production
-- Represent an escaped race of Cannabis sativa hemp
+- Represent an escaped race of [[comparison-cannabis-sativa-vs-cannabis-indica]] hemp
 
 ### Cannabinoid Profile
 Most fiber strains contain CBD as the primary cannabinoid and little if any THC. This makes them useful for CBD production but unsuitable for psychoactive drug use.
@@ -54,7 +54,7 @@ Drug strains come from specific regions, each with distinctive characteristics:
 - Malawi
 - Jamaica (Caribbean hybrids)
 - South Africa
-- Southeast Asia (Cambodia, Laos, Thailand, Vietnam)
+- [[psilocybe-southeast-asia-pacific]] (Cambodia, Laos, Thailand, Vietnam)
 
 **Subtropical and Temperate (15-40 degrees latitude):**
 - Mexico (Michoacan, Oaxaca, Guerrero)
@@ -70,7 +70,7 @@ Drug strains come from specific regions, each with distinctive characteristics:
 - Selected for strong dioecious tendencies (separate male and female plants)
 - Sex ratio often skewed toward pistillate plants in drug strains
 - Calyx-to-leaf ratio is the primary determinant of floral cluster quality
-- Higher calyx-to-leaf ratio = more adapted to calyx and resin production
+- Higher calyx-to-leaf ratio = more adapted to calyx and [[cannabis-glandular-trichome-types-resin-production-clarke]]
 
 ## Hybrid Drug Phenotypes
 
@@ -97,7 +97,7 @@ Understanding gross phenotypes is essential for selecting parental stock:
 
 ## Related Topics
 
-- [[cannabis-colombian-strain-description-clarke]] - Colombian strain detail
+- [[cannabis-colombian-strain-description-clarke]] - [[cannabis-colombian-strain-description-clarke]] detail
 - [[cannabis-hybrid-vigor-and-phenotypes-clarke]] - Hybrid phenotypes
 - [[cannabis-resin-production-and-quality-traits-clarke]]
 - [[cannabis-glandular-trichome-types-resin-production-clarke]]

@@ -1,5 +1,5 @@
 ---
-title: Mayan Civilisation and Psilocybin Mushroom Use
+title: powell mayan civilisation and psilocybin mushroom use and emcdda-psilocybin-mushroom-dose-and-effects Use
 created: 2026-04-28
 tags: [maya, mesoamerica, mushroom-stones, psilocybin, entheogens,
   archaeology, shamanism, vision-serpents]
@@ -12,7 +12,7 @@ type: concept
 # Mayan Civilisation and Psilocybin Mushroom Use
 
 Simon G. Powell examines the evidence linking the classical Mayan civilisation
-of Mesoamerica to the ritual use of psilocybin mushrooms. Drawing on
+of Mesoamerica to the ritual use of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]. Drawing on
 archaeological finds, art historical analysis, and comparative cultural
 studies, Powell builds a case that the Maya, like their Aztec successors,
 incorporated entheogenic fungi into their religious practices, and that these
@@ -33,7 +33,7 @@ to create infusions.
 ## The Toad Connection
 
 Some mushroom stones carry "toad" effigies at their base, a creature that has
-been mysteriously linked with psychoactive fungi the world over. This
+been mysteriously linked with [[cattle-dispersal-psychoactive-fungi-australia]] the world over. This
 association may stem from knowledge that certain toads exude hallucinogenic
 alkaloids from their skin glands. Powell notes that this curious "toady"
 connection might also account for the fairy tale of The Frog Prince, in which
@@ -76,7 +76,7 @@ Mesoamerican cosmology.
 ## Enema Rites and Hallucinogenic Administration
 
 Recently discovered Mayan vases and pottery depict the classical Mayan elite
-using enemas. This practice was well documented among South American native
+using enemas. This practice was well documented among [[chiric-caspi-brunfelsia-south-american-hallucinogen]] native
 peoples, particularly the Incas, who introduced hallucinogenic infusions into
 the body via enema using bulbed syringes made from local rubber sap. The
 method is nearly as fast-acting as intravenous injection because absorption
@@ -108,7 +108,7 @@ have played in shaping human religious consciousness throughout history.
 
 ## Colombian Evidence: The Sinú Gold Artifacts
 
-Further evidence for the widespread veneration of psilocybin fungi comes
+Further evidence for the widespread veneration of [[guzman-allen-gartz-sacred-non-psilocybin-fungi-cordyceps-and-claviceps]] comes
 from prehispanic Colombia. Hundreds of beautiful gold objects belonging to
 the Sinú culture, dated circa 1200 AD, carry two bell-shaped forms atop
 the head of anthropomorphic figures. Originally called "telephone-bell gods"
@@ -131,3 +131,8 @@ years of subjugation and presenting it to the modern world.
 
 See also: [[powell-universal-symbology-in-entheogenic-visions]], [[emcdda-psilocybin-mushroom-dose-and-effects]]
 - [[psilocybin-mushroom-drying-and-storage-methods]]
+
+## See Also
+
+- [[powell-psilocybin-neuronal-pharmacology-synaptic-mechanisms]]
+- [[powell-psilocybin-end-of-life-anxiety]]

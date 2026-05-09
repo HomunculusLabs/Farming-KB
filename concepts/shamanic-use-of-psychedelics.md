@@ -23,7 +23,7 @@ The cross-cultural patterns of psychedelic plant use in shamanic and indigenous 
 
 ## Defining Shamanism
 
-Shamanism has been described by Mircea Eliade as "the archaic techniques of ecstasy." The shaman is a figure who gains entrance into a hidden world through altered states of consciousness, interacting with powers both helpful and malevolent that operate by rules different from those of ordinary reality. In this other dimension, shamans diagnose illness, retrieve lost souls, negotiate with spirits, and restore balance to individuals and communities.
+Shamanism has been described by Mircea Eliade as "the archaic techniques of ecstasy." The shaman is a figure who gains entrance into a hidden world through [[weil-the-natural-mind-altered-states-normalcy]] of consciousness, interacting with powers both helpful and malevolent that operate by rules different from those of ordinary reality. In this other dimension, shamans diagnose illness, retrieve lost souls, negotiate with spirits, and restore balance to individuals and communities.
 
 Psychedelic plants are not universal in shamanism, but they constitute the most reliable and culturally widespread method of inducing the shamanic trance state across the Americas, parts of Africa, and Asia.
 
@@ -33,7 +33,7 @@ Psychedelic plants are not universal in shamanism, but they constitute the most 
 
 The most complex and powerful of shamanic plant preparations. See [[ayahuasca-preparation-and-ceremony]] for detailed coverage.
 
-- A brew combining *Banisteriopsis caapi* (containing harmala alkaloids that act as MAO inhibitors) with DMT-containing plants (typically *Psychotria viridis* or *Diplopterys cabrerana*).
+- A brew combining *Banisteriopsis caapi* (containing [[turner-harmala-alkaloids-preparation-and-dosage]] that act as MAO inhibitors) with DMT-containing plants (typically *Psychotria viridis* or *Diplopterys cabrerana*).
 - Used by indigenous peoples throughout the Amazon basin, including the Shipibo-Conibo, Shuar, Ashaninka, Quechua, and many others.
 - Shamans use ayahuasca to diagnose illness, communicate with plant spirits, conduct healing ceremonies, and hunt for knowledge.
 - Michael Harner described his first ayahuasca experience among the Shuar of Ecuador: he felt his soul transported in a ship crewed by bird-headed deities and was shown the secrets of life by great black whale-like entities with pterodactyl wings.
@@ -49,13 +49,13 @@ See [[maria-sabina-mazatec-mushroom-ceremony]] for detailed coverage of the Maza
 ### Peyote (North America)
 
 - *Lophophora williamsii*, a small cactus containing mescaline, has been used for thousands of years by indigenous peoples of Mexico and the southwestern United States.
-- The **Native American Church** (NAC) is the largest and most legally recognized peyote-using religious organization, with an estimated 250,000-400,000 members.
+- The **[[halpern-sacramental-peyote-and-native-american-church]] Church** (NAC) is the largest and most legally recognized peyote-using religious organization, with an estimated 250,000-400,000 members.
 - Peyote ceremonies typically involve all-night prayer, singing, drumming, and the consumption of peyote buttons in a structured ritual context.
-- The NAC has fought legal battles to protect peyote use as a religious freedom, achieving partial legal protections under the American Indian Religious Freedom Act (1994).
+- The NAC has fought [[sacramental-ayahuasca-legal-battles-united-states]] to protect peyote use as a religious freedom, achieving partial legal protections under the [[harner-american-indian-peyote-rituals]] Religious Freedom Act (1994).
 
 ### Iboga (Central Africa)
 
-- *Tabernanthe iboga*, a shrub containing the alkaloid ibogaine, is used in initiation ceremonies of the **Bwiti** religion in Gabon and surrounding countries.
+- *[[plants-of-the-gods-tabernanthe-iboga-chemistry]]*, a shrub containing the alkaloid ibogaine, is used in initiation ceremonies of the **Bwiti** religion in Gabon and surrounding countries.
 - Bwiti practitioners consume large doses of iboga root bark in multi-day ceremonies that produce visionary experiences and are understood as encounters with the ancestors and the divine.
 - Ibogaine has attracted scientific interest for its apparent ability to interrupt opioid addiction, though it carries significant cardiac risks.
 

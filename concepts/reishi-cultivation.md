@@ -16,7 +16,7 @@ sources:
 
 ## Overview
 
-Reishi (Ganoderma lucidum), known as Lingzhi in Chinese medicine, is arguably the most revered medicinal mushroom in the world, with over 2,000 years of recorded use in traditional Chinese medicine. It is characterized by its distinctive kidney- or fan-shaped, lacquered appearance with a reddish-brown, varnished upper surface. While too woody and bitter for culinary use, Reishi is cultivated primarily for its medicinal compounds, particularly polysaccharides and triterpenoids.
+Reishi ([[stamets-reishi-ganoderma-lucidum-cultivation]]), known as Lingzhi in Chinese medicine, is arguably the most revered [[gourmet-medicinal-mushroom-casing-layer-techniques]] in the world, with over 2,000 years of recorded use in traditional Chinese medicine. It is characterized by its distinctive kidney- or fan-shaped, lacquered appearance with a reddish-brown, varnished upper surface. While too woody and bitter for culinary use, Reishi is cultivated primarily for its medicinal compounds, particularly polysaccharides and triterpenoids.
 
 ## Species Description
 
@@ -28,7 +28,7 @@ Natural habitat: saprophytic on dead or dying hardwood trees, especially oaks, m
 
 ### Standard Conk Cultivation
 
-Produces the familiar shelf-like fruiting body:
+Produces the familiar shelf-like [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]:
 
 - **Substrate:** Supplemented hardwood sawdust (oak preferred) in bags or jars
 - **Supplementation:** 10-20% wheat bran
@@ -77,7 +77,7 @@ Reishi grows well on a variety of grains including rye, millet, and brown rice. 
 
 Reishi fruiting demands specific conditions:
 
-- **Temperature:** Reishi fruits at warmer temperatures than most cultivated mushrooms (70-85°F / 21-29°C)
+- **Temperature:** Reishi fruits at warmer temperatures than most [[fungi-cultivated-mushrooms-pathogens-competitors]] (70-85°F / 21-29°C)
 - **Humidity:** Very high (85-95%); lower humidity leads to cracked, malformed conks
 - **Fresh air exchange:** Moderate for standard conks; minimal for antler growth
 - **Light:** Important for color development -- low light produces pale, poorly formed conks
@@ -115,9 +115,9 @@ Many commercial products combine both extracts for full-spectrum preparations.
 
 Reishi is the most extensively studied [[medicinal-mushroom-guide-reishi|medicinal mushroom]], with research supporting:
 
-- **Immune modulation:** Beta-glucans enhance immune function without overstimulation
+- **[[cancer-immune-modulation-mechanisms]]:** Beta-glucans enhance immune function without overstimulation
 - **Anti-inflammatory:** Ganoderic acids reduce inflammation through multiple pathways
-- **Anti-tumor activity:** Laboratory studies show tumor-inhibiting effects; clinical trials ongoing
+- **Anti-tumor activity:** Laboratory studies show tumor-inhibiting effects; [[mushroom-cancer-clinical-trials-overview]] ongoing
 - **Liver protection:** Hepatoprotective effects demonstrated in multiple studies
 - **Cardiovascular benefits:** Blood pressure reduction, cholesterol modulation, antiplatelet effects
 - **Adaptogenic properties:** Helps the body manage stress and maintain homeostasis

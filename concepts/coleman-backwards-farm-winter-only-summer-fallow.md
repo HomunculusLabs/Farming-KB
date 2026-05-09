@@ -3,12 +3,12 @@
 ## Overview
 
 One of the most unconventional experiments in Eliot Coleman's development
-of the winter harvest system was the "backwards farm" — a commercial
+of the [[coleman-claytonia-winter-harvest-cultivation]] system was the "backwards farm" — a commercial
 operation that produced vegetables only during the eight months from
 October through May, taking the summer months off. For several years in
 the early 1990s, Coleman and his partner Barbara Damrosch grew no summer
 crops at all, concentrating all their energy on exploring and refining
-the uncharted potential of winter vegetable production. The experiment
+the uncharted potential of winter [[dry-gardening-unirrigated-vegetable-production-solomon]]. The experiment
 revealed both the possibilities and the limitations of winter-only farming.
 
 ## The Backwards Farm Concept
@@ -49,9 +49,9 @@ soil fertility to the high levels required for intensive winter production.
 Cover crops of oats, peas, buckwheat, and clover were planted, grown, and
 incorporated into the soil during the warm months when biological activity
 was at its peak. This green manure program was essential for maintaining
-soil health and organic matter levels in the intensively managed greenhouse
+soil health and [[hamilton-composting-and-organic-matter-management]] levels in the intensively managed greenhouse
 beds. The summer was also used for greenhouse maintenance, infrastructure
-improvements, and the refinement of planting schedules and crop varieties.
+improvements, and the refinement of planting schedules and [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]].
 
 ## Economic Comparison: Summer Versus Winter
 
@@ -66,7 +66,7 @@ as long.
 
 The economic calculus was more nuanced than the raw revenue numbers
 suggested. Winter production required fewer inputs — no irrigation, no
-pest control, no heat — and the crops were largely self-maintaining once
+[[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], no heat — and the crops were largely self-maintaining once
 established. Summer production, by contrast, required intensive
 management: irrigation, pest scouting and control, trellising, pruning,
 and frequent harvesting. The labor requirements of summer farming were
@@ -85,7 +85,7 @@ implications for the design of small farm enterprises. The conventional
 model of year-round production may not be sustainable for farmers working
 without hired labor.
 
-The backwards farm experiment suggested an alternative: seasonal farming
+The backwards [[coleman-backwards-farm-experiment-winter-only]] suggested an alternative: seasonal farming
 with a genuine off-season. A farm that produced intensively for eight or
 nine months and then closed down completely for three or four months would
 give the farmer time for rest, planning, infrastructure maintenance, and
@@ -121,6 +121,8 @@ during the transition periods. The result is a farm that produces food every
 month of the year but still allows for brief periods of reduced intensity.
 
 ## See Also
+
+- [[coleman-backwards-farm-experiment-winter-only]]
 
 - [[coleman-double-layer-protection-greenhouse-row-cover]]
 - [[coleman-winter-harvest-philosophy]]

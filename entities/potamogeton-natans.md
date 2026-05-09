@@ -13,12 +13,12 @@ sources:
   - Wiegleb, G. & Kaplan, Z. (1998). "A conspectus of Potamogetonaceae." Folia Geobotanica, 33(1), 1–19.
   - Preston, C.D. (1995). "Aquatic plants in Britain and Ireland." Harley Books.
   - Hollingsworth, P.M. et al. (2002). "Molecular systematics of Potamogeton." Botanical Journal of the Linnean Society, 140(2), 147–193.
-  - Crow, G.E. & Hellquist, C.B. (2000). "Aquatic and Wetland Plants of Northeastern North America." University of Wisconsin Press.
+  - Crow, G.E. & Hellquist, C.B. (2000). "[[permaculture-plants-aquatic-and-wetland-species]] Plants of Northeastern [[psilocybin-north-america-pacific-northwest]]." University of Wisconsin Press.
 ---
 
 ## Overview
 
-**Potamogeton natans**, commonly known as floating pondweed or broad-leaved pondweed, is a widespread freshwater aquatic plant in the family Potamogetonaceae.
+**Potamogeton natans**, commonly known as floating pondweed or broad-leaved pondweed, is a widespread [[biodiversity-fungi-freshwater-aquatic-habitats]] plant in the family Potamogetonaceae.
 
 It is native to temperate and subarctic regions of the Northern Hemisphere, where it grows in ponds, lakes, slow-moving rivers, and marshes.
 
@@ -82,7 +82,7 @@ The floating leaf canopy shades the water column below, reducing algal growth an
 
 This shading effect can suppress competing submerged macrophyte species in dense stands.
 
-Detritus from senescing leaves contributes organic matter to the benthic food web during autumn leaf-fall.
+Detritus from senescing leaves contributes [[hamilton-composting-and-organic-matter-management]] to the benthic food web during autumn leaf-fall.
 
 The species serves as a substrate for periphyton growth, supporting diverse algal and microbial communities.
 
@@ -90,7 +90,7 @@ Aphids and other herbivorous insects occasionally feed on submerged leaf tissues
 
 ## Human Uses
 
-**Potamogeton natans** is used in constructed wetlands and natural pond restoration projects for water quality improvement.
+**Potamogeton natans** is used in [[comparison-constructed-wetlands-vs-bioswales]] and natural pond restoration projects for water quality improvement.
 
 Its dense growth absorbs dissolved nutrients including nitrogen and phosphorus, reducing eutrophication in small water bodies.
 
@@ -116,15 +116,17 @@ Seeds require cold stratification at 4°C for 4–8 weeks to break dormancy befo
 
 Optimal growth temperature ranges from 18–25°C during the active growing season from May to September.
 
-The species is generally free of serious pests and diseases in cultivation, though snail grazing can damage young shoots.
+The species is generally free of serious [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] in cultivation, though snail grazing can damage young shoots.
 
 Regular thinning of dense stands prevents oxygen depletion and maintains healthy water circulation in contained ponds.
 
 ## See Also
 
+- [[potamogeton-perfoliatus]]
+
 - [[nuphar-lutea]]
 - [[lemna-minor]]
 - [[pistia-stratiotes]]
 - [[pontederia-cordata]]
-- [[typha-latifolia-entity]]
+- typha-latifolia-entity
 - wetland

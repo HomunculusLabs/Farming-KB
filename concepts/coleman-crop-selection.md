@@ -1,5 +1,5 @@
 ---
-title: "Crop Selection Principles for Winter Harvest Systems"
+title: "Crop cannabis-breeding-selection-principles-clarke for coleman-claytonia-winter-harvest-cultivation Systems"
 type: concept
 tags:
   - crop-selection
@@ -28,7 +28,7 @@ can survive, let alone grow, during the winter months in an unheated
 greenhouse. Coleman identified a specific set of crops that have sufficient
 genetic cold tolerance to be productive in this environment.
 
-The cold-tolerant crops fall into several categories. Leafy greens
+The cold-tolerant crops fall into several categories. [[solomon-leafy-greens-growing]]
 dominate the winter harvest, including spinach, lettuce, mâche, endive,
 escarole, arugula, claytonia, and various Asian greens. Root crops like
 carrots, turnips, and radishes also perform well. Alliums including
@@ -37,7 +37,7 @@ scallions and leeks round out the core winter harvest crops.
 Crops that are merely cold-tolerant but not winter-productive — those that
 survive but do not grow — have a more limited role in the system. They may
 be planted in autumn for harvest during a defined window, but they cannot
-provide the sustained production that the core winter crops deliver.
+provide the sustained production that the core [[coleman-semi-hibernating-winter-crops-harvest-extension]] deliver.
 
 ## Quality Enhancement by Cold
 
@@ -75,7 +75,7 @@ harvest planting schedule represent the results of this extensive trialing.
 ## Harvest Style Considerations
 
 Crop selection also considers the harvest style used in the winter harvest
-system. Most winter greens are harvested by the cut-and-come-again method,
+system. Most [[coleman-winter-greens-nutritional-quality-cold-sweetening]] are harvested by the cut-and-come-again method,
 where individual leaves are cut from the plant and it regrows for
 subsequent harvests.
 
@@ -101,7 +101,7 @@ the latest winter sowings. These slow-bolting varieties extend the harvest
 window further into spring, bridging the gap between winter and outdoor
 spring production.
 
-The relationship between day length and crop behavior is one of the most
+The relationship between [[coleman-winter-day-length-and-persephone-months]] crop behavior is one of the most
 important variables in the winter harvest system, and understanding it is
 essential for effective scheduling.
 

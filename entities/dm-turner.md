@@ -10,11 +10,11 @@ sources:
 
 # D. M. Turner
 
-D. M. Turner (1962–1996) was an American psychonaut and author of *The Essential Psychedelic Guide* (1994, Panther Press, ISBN 0-9642636-1-0), one of the first comprehensive comparative guides covering multiple psychedelic substances from a user's perspective. His work covered LSD, psilocybin mushrooms, mescaline, DMT, MDMA, 2C-B, ketamine, and harmala alkaloids with detailed dosage information, effects descriptions, and safety advice.
+D. M. Turner (1962–1996) was an American psychonaut and author of *The Essential Psychedelic Guide* (1994, Panther Press, ISBN 0-9642636-1-0), one of the first comprehensive comparative guides covering multiple psychedelic substances from a user's perspective. His work covered LSD, [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]], mescaline, DMT, MDMA, 2C-B, ketamine, and [[turner-harmala-alkaloids-preparation-and-dosage]] with detailed dosage information, effects descriptions, and safety advice.
 
 ## The Essential Psychedelic Guide
 
-Turner's guide was written to "expand the body of knowledge available on psychedelics" and provided hard-to-find, accurate data on dosage and administration for a wide range of entheogenic substances. What distinguished Turner's work was his vivid, lucid narration from the frontier of consciousness itself — his trip reports conveyed the essence of the psychedelic experience in a manner previously thought impossible using prose. He also presented novel philosophical thinking about the bizarre, extreme, and sometimes sublime dimensions accessible through entheogens.
+Turner's guide was written to "expand the body of knowledge available on psychedelics" and provided hard-to-find, accurate data on dosage and administration for a wide range of entheogenic substances. What distinguished Turner's work was his vivid, lucid narration from the frontier of consciousness itself — his trip reports conveyed the essence of the [[leary-psychedelic-experience-bardo-mapping]] in a manner previously thought impossible using prose. He also presented novel philosophical thinking about the bizarre, extreme, and sometimes sublime dimensions accessible through entheogens.
 
 ## CydelikSpace Framework
 
@@ -114,4 +114,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

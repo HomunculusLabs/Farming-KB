@@ -14,7 +14,7 @@ Multiple sclerosis (MS) is one of the most common neurological diseases, a chron
 ## Evidence-Based Confidence Level
 
 - **Total Studies Reviewed:** 26
-- **CHI Value:** 91 (among the highest in the Cannabis Health Index)
+- **CHI Value:** 91 (among the highest in the [[blesching-cannabis-health-index-autoimmune-conditions]])
 
 ## How Cannabis Addresses MS Symptoms
 
@@ -28,7 +28,7 @@ Cannabis addresses MS through multiple mechanisms:
 
 ## Extensive Clinical Evidence
 
-The 26 studies reviewed span from 1981 to 2009 and examine animal models, laboratory research, and human clinical trials.
+The 26 studies reviewed span from 1981 to 2009 and examine animal models, laboratory research, and human [[mushroom-cancer-clinical-trials-overview]].
 
 ### Landmark Findings
 
@@ -39,14 +39,14 @@ The 26 studies reviewed span from 1981 to 2009 and examine animal models, labora
 - No evidence of tolerance development over 2 years of testing
 - Effective as adjunctive analgesic for MS-related central neuropathic pain
 
-**Inhaled Cannabis:** A University of Calgary study (2003) of 420 MS patients showed reduced anxiety, depression, spasticity, and chronic pain. A University of Arizona study (1997) of 112 patients found reduced spasticity, pain, tremor, depression, anxiety, and paresthesia.
+**Inhaled Cannabis:** A University of Calgary study (2003) of 420 MS patients showed reduced anxiety, depression, spasticity, and [[cannabis-chronic-pain-management]]. A University of Arizona study (1997) of 112 patients found reduced spasticity, pain, tremor, depression, anxiety, and paresthesia.
 
 **Dronabinol (oral THC):** A 2008 case study from the Department of Veterans Affairs reported improvement in sleep, decreased anxiety, and decreased craving for illicit cannabis use in a patient with paroxysmal dystonia and complex vocal tics.
 
 ### Mechanism Studies
 
 - **Endocannabinoid deficiency in MS:** Patients with MS showed significantly reduced levels of all tested endocannabinoids (anandamide, 2-AG, PEA, OEA) in cerebrospinal fluid compared to controls
-- **CB1 as antispastic target:** Animal studies confirmed CB1 as the main cannabinoid receptor responsible for antispastic effects
+- **CB1 as antispastic target:** Animal studies confirmed CB1 as the main [[cannabis-cannabinoid-receptor-pharmacology]] responsible for antispastic effects
 - **Adhesion molecule inhibition:** Animal research (Madrid, 2009) showed cannabinoids inhibit brain adhesion molecules, potentially slowing MS progression
 
 ## Study Highlights
@@ -78,11 +78,11 @@ Cannabis use in MS patients has been shown to reduce:
 - Both THC and CBD show therapeutic value for MS
 - Sativex uses a standardized THC:CBD ratio similar to natural cannabis flowers
 - Indica and indica-dominant strains contain lower THC:CBD ratios, favoring CB2 activation
-- Within proper therapeutic dosage, adverse effects (reduced balance, nausea, dizziness) are usually well tolerated
+- Within proper therapeutic dosage, [[blesching-cannabis-safety-adverse-effects-evidence]] (reduced balance, nausea, dizziness) are usually well tolerated
 
 ## Adverse Effects Warning
 
-Most clinical studies report dose-dependent adverse effects including reduced balance and posture, nausea, dizziness, and at high dosages, negative psychological symptoms such as anxiety. These are usually negligible compared to benefits when used within the proper subjective therapeutic dose.
+Most clinical studies report dose-dependent adverse effects including reduced balance and posture, nausea, dizziness, and at high dosages, negative psychological symptoms such as anxiety. These are usually negligible compared to benefits when used within the proper [[cannabis-subjective-therapeutic-window-dosing]] dose.
 
 ## Related Topics
 

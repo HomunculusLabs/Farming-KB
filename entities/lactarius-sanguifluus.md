@@ -20,9 +20,9 @@ sources:
   - "Basso, M.T. (1999). Lactarius Pers. Fungi Europaei Volume 7. Edizioni Candusso, Allessandria."
   - "Heilmann-Clausen, J., et al. (1998). The genus Lactarius in Denmark. Mycotaxon, 68, 313-334."
   - "Nuytinck, J. (2005). Studies in Lactarius subgenus Dapetes. PhD thesis, Ghent University."
-  - "Berglund, L. & Miller, O.K. (2002). The Lactarius sanguifluus group in western North America. Mycotaxon, 84, 161-170."
+  - "Berglund, L. & Miller, O.K. (2002). The Lactarius sanguifluus group in western [[psilocybin-north-america-pacific-northwest]]. Mycotaxon, 84, 161-170."
   - "Breitenbach, J. & Kränzlin, F. (1991). Fungi of Switzerland Volume 3: Boletes and Agarics. Verlag Mykologia."
-  - "Fleming, A. (2013). Edible and Poisonous Mushrooms of the World. Timber Press."
+  - "Fleming, A. (2013). Edible and [[palmer-poisonous-mushrooms-deadly-species]] of the World. Timber Press."
   - "https://www.mycobank.org/Biolomics.aspx?Table=Mycobank&Rec=184956"
 ---
 
@@ -48,9 +48,9 @@ Originally described by *Paulet* in the late 18th century and validated by Elias
 - *L. sanguifluus* sensu stricto (Mediterranean/North African populations)
 - *L. deliciosus* var. *sanguifluus* (sometimes merged)
 - *L. vinosus* (Q) — treated as separate by some authorities
-- North American populations may represent distinct species (*L. sanguifluus* sensu Berglund & Miller)
+- [[growing-gourmet-north-american-reishi-species]] populations may represent distinct species (*L. sanguifluus* sensu Berglund & Miller)
 
-Molecular phylogenetic studies (Nuytinck 2005, 2008) support recognition of *L. sanguifluus* and *L. deliciosus* as distinct species, despite their close morphological similarity and long history of taxonomic confusion.
+Molecular phylogenetic studies (Nuytinck 2005, 2008) support recognition of *L. sanguifluus* and *L. deliciosus* as distinct species, despite their close morphological similarity and long history of [[neurotropic-fungi-taxonomic-confusion-and-identification]].
 
 ## Macroscopic Description
 
@@ -122,7 +122,7 @@ The species is most abundant in **young to mature pine plantations and natural p
 
 - Overharvesting in popular foraging areas (especially near urban centers in Spain)
 - Habitat loss from pine forest conversion and urbanization
-- Climate change affecting Mediterranean rainfall patterns and autumn fruiting
+- [[dighton-fungi-climate-change-feedback]] affecting Mediterranean rainfall patterns and autumn fruiting
 
 Best practices include cutting mushrooms at the base (not uprooting), leaving some specimens for spore dispersal, avoiding raking of forest floor litter, and following local collection regulations. In Spain, commercial collectors require permits in many regions.
 
@@ -130,4 +130,4 @@ Best practices include cutting mushrooms at the base (not uprooting), leaving so
 
 - [[lactarius-indigo]] — Indigo milk cap, North American species with dramatically different coloration
 - [[russula-cyanoxantha]] — Russula from the same habitat for comparison
-- [[fungal-ecology-forest-ecosystems]] — Forest ecosystem fungal ecology
+- [[fungal-ecology-forest-ecosystems]] — [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] fungal ecology

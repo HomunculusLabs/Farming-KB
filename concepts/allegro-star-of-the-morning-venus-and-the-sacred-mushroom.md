@@ -1,5 +1,5 @@
 ---
-title: Star of the Morning — Venus and the Sacred Mushroom (Allegro)
+title: Star of the Morning — Venus and the allegro-the-sacred-mushroom-amanita-identification (Allegro)
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -14,9 +14,9 @@ Allegro shows that the identification of the sacred mushroom with the morning st
 
 ## The Dioscouroi as Morning and Evening Star
 
-As Gemini, the Heavenly Twins (Dioscouroi) were identified specifically with the morning and evening star. Similarly, Jesus proclaims himself as "the bright and morning star" (Rev 22:16). This is a word-play on one of the most important Greek names of the Holy Plant, Peristereon, spelt out within bilingual Christian communities as the Aramaic Bar- ("son of") and Greek aster ("star") and heos ("of the morning").
+As Gemini, the [[allegro-heavenly-twins-and-the-mushroom-hermaphrodite]] (Dioscouroi) were identified specifically with the morning and evening star. Similarly, Jesus proclaims himself as "the bright and morning star" (Rev 22:16). This is a word-play on one of the most important Greek names of the Holy Plant, Peristereon, spelt out within bilingual Christian communities as the Aramaic Bar- ("son of") and Greek aster ("star") and heos ("of the morning").
 
-The title "Son of the Star" had profound messianic significance within Judaism, from the Old Testament promise: "a star shall come forth out of Jacob, and a comet shall rise out of Israel" (Num 24:17). The leader of the Jewish rebels of the Second Revolt (Bar Kokhba) adopted the title as his own.
+The title "Son of the Star" had profound messianic significance within Judaism, from the [[allegro-old-testament-figures-as-fertility-deities]] promise: "a star shall come forth out of Jacob, and a comet shall rise out of Israel" (Num 24:17). The leader of the Jewish rebels of the Second Revolt (Bar Kokhba) adopted the title as his own.
 
 ## Isaiah's Oracle: The Fallen Morning Star
 
@@ -48,7 +48,7 @@ The Greek phoinix ("Phoenix") — name of the palm tree, the bird, the Levantine
 
 The identification of the morning star with Lucifer — the fallen angel of Christian tradition — is, in Allegro's reading, a late development of the mushroom-star identification. The "fall" of Lucifer from heaven (Isaiah 14:12) describes the mushroom's lifecycle: rising gloriously from the earth, expanding to its full majesty, then deliquescing and disappearing. The Christian demonization of Lucifer preserved the memory of the mushroom's celestial connection while inverting its meaning — what was once the sacred connector of heaven and earth became the symbol of rebellion against divine authority.
 
-This inversion is characteristic of what Allegro saw as the systematic suppression of the mushroom cult by the dominator culture. The [[mckenna-transcendent-other-and-exopheromones]] explores a comparable concept in the context of DMT experiences.
+This inversion is characteristic of what Allegro saw as the systematic suppression of the [[african-mushroom-cult-history]] by the [[mckenna-dominator-culture-and-suppression-of-ecstasy]]. The [[mckenna-transcendent-other-and-exopheromones]] explores a comparable concept in the context of DMT experiences.
 
 ## Key Points
 
@@ -59,7 +59,7 @@ This inversion is characteristic of what Allegro saw as the systematic suppressi
 
 ## Scholarly Significance and Criticism
 
-While mainstream scholars have largely rejected Allegro's specific philological claims, his work raised important questions about the relationship between psychoactive substances and the development of religious ideas in the ancient world. Contemporary research into entheogenic practices, as documented in [[mushroom-star-fire-anunnaki]]
+While mainstream scholars have largely rejected Allegro's specific philological claims, his work raised important questions about the relationship between psychoactive substances and the development of religious ideas in the ancient world. Contemporary research into entheogenic practices, as documented in mushroom-star-fire-anunnaki
 
 - [[allegro-philological-methodology]]
 - [[allegro-biblical-references-to-mushrooms-and-fungi]]
@@ -85,3 +85,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[allegro-linguistic-evidence]]

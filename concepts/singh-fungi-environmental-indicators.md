@@ -1,5 +1,5 @@
 ---
-title: "Fungi as Environmental Indicators"
+title: "Fungi as fungi-as-environmental-indicators-and-biosensors"
 created: 2026-04-28
 tags: [mycoremediation, bioindicators, environmental-monitoring, fungal-ecology]
 date: 2026-04-25
@@ -21,14 +21,14 @@ contamination events.
 
 Fungal species respond to environmental changes in measurable ways. Unlike
 some organisms that simply survive or perish, fungi can accumulate specific
-pollutants, alter their growth patterns, or change community composition in
+pollutants, alter their growth patterns, or change [[core-endorhiza-bacterial-community-composition-cannabis]] in
 response to contamination gradients. This responsiveness allows researchers
 and environmental managers to use fungal populations as living sensors of
 ecosystem integrity.
 
 The use of fungi as indicators is based on several principles:
 - Species composition shifts reflect pollution levels
-- Metal accumulation in fruiting bodies indicates soil contamination
+- [[dighton-fungal-heavy-metal-accumulation-bioremediation]] in fruiting bodies indicates soil contamination
 - Community diversity declines correlate with environmental stress
 - Specific taxa are associated with particular contamination types
 
@@ -83,9 +83,9 @@ Key applications of fungal biosensors include:
 Changes in fungal community structure serve as indicators of broader
 ecosystem health. Molecular methods including DNA extraction protocols
 (FDM), PCR-based detection, and community profiling enable rapid
-assessment of fungal diversity in contaminated environments.
+[[monitoring-and-assessment-of-fungal-bioremediation]] diversity in contaminated environments.
 
-Soil fungal communities respond to:
+Soil [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] respond to:
 - Organic and inorganic pollutant loading
 - pH shifts from acid deposition
 - Heavy metal contamination gradients
@@ -97,7 +97,7 @@ Soil fungal communities respond to:
 Fungal species alone cannot map pollution precisely. Their use as
 indicators requires:
 - Taxonomic expertise for accurate species identification
-- Standardized sampling protocols across sites
+- Standardized [[lichen-biodiversity-sampling-protocols-data-analysis]] across sites
 - Consideration of seasonal and temporal variation
 - Integration with chemical and physical monitoring data
 - Reference databases of expected community composition

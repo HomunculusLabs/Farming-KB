@@ -5,7 +5,7 @@ type: species
 tags: [psilocybin-mushroom, agaricales, strophariaceae, temperate, south-america]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md]
+sources: sources: []
 ---
 
 # Psilocybe columbiana
@@ -19,11 +19,11 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 - **Authority:** Guzmán (1977)
 - **Synonyms:** None widely accepted; sometimes discussed alongside the [[psilocybin]] and [[psilocybe-mexicana]] — similar morphology but different distribution and microscopic features
 - [[psilocybe-liniformans]] — similar small stature but different geographic range and gill features
-- Non psychoactive Mycena and Galerina species in similar habitats require careful exclusion
+- [[raw-cannabis-thca-non-psychoactive-therapeutic-properties]] Mycena and Galerina species in similar habitats require careful exclusion
 
 ## Conservation
 
-- Cloud forest and paramo ecosystems in the Colombian Andes are threatened by deforestation, agriculture, and climate change
+- Cloud forest and paramo ecosystems in the Colombian Andes are threatened by deforestation, agriculture, and [[dighton-fungi-climate-change-feedback]]
 - The species may be vulnerable to habitat loss and fragmentation
 - Limited distribution and specialized habitat requirements make it potentially sensitive to environmental disturbance
 - Conservation of Andean cloud forests would benefit this and many other poorly known fungal species
@@ -36,7 +36,7 @@ The specific epithet "columbiana" refers to Colombia, the country where the spec
 
 - Controlled substance in Colombia under laws regulating psychoactive substances
 - Covered under international drug scheduling conventions for psilocybin containing fungi
-- Protected status complicated by the general lack of legal recognition of fungal biodiversity in the region
+- Protected status complicated by the general lack of legal recognition of [[biodiversity-fungal-biodiversity-estimation-methods]] in the region
 ## Practical Applications
 
 Psilocybe columbiana has a range of practical applications that make it relevant to
@@ -114,4 +114,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

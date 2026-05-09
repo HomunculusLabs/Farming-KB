@@ -1,5 +1,5 @@
 ---
-title: Manganese Peroxidase in Fungal Bioremediation
+title: fungal-manganese-peroxidase-remediation in staycare-composting-as-a-fungal-bioremediation-strategy
 created: 2026-04-28
 tags: [bioremediation, mycoremediation, manganese-peroxidase, fungal-enzymes]
 date: 2026-04-25
@@ -18,9 +18,11 @@ system. Fungal enzymes that produce H2O2, including glucose oxidase,
 glyoxal oxidase, and aryl alcohol oxidase, are essential co-factors.
 MnP can also generate H2O2 independently through oxidation of organic
 acids. The interplay between these enzymes determines the overall
-degradative capacity of white rot fungi in bioremediation systems.
+degradative capacity of [[comparison-brown-rot-vs-white-rot-bioremediation]] fungi in bioremediation systems.
 
 ## See Also
+
+- [[staycare-cunninghamella-elegans-in-bioremediation]]
 
 - [[staycare-phanerochaete-chrysosporium-in-bioremediation]]
 - [[biochemistry-of-ligninolytic-fungi-bioremediation]]
@@ -101,4 +103,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

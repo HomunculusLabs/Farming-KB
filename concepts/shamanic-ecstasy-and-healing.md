@@ -30,7 +30,7 @@ time, they are approached in dreams by helping spirits and may receive
 instruction from them.
 
 Invariably during this prolonged trance the novice undergoes an episode of
-mystical death and resurrection. They may see themselves reduced to a
+mystical [[allegro-death-and-resurrection-in-the-mushroom-cult]]. They may see themselves reduced to a
 skeleton and then clothed with new flesh, or boiled in a cauldron, devoured
 by spirits, and then made whole again. The shaman's organs may be removed
 and replaced with "magical stones" and then sewn up again.
@@ -49,7 +49,7 @@ remain cured.
 ## Techniques of Ecstasy
 
 Not all shamans use intoxication with plants to obtain ecstasy, but all
-[[mckenna-cannabis-cultural-style-and-feminine-plant]] e ego-dominator cultural style.
+[[mckenna-cannabis-cultural-style-and-feminine-plant]] e ego-dominator [[mckenna-cannabis-cultural-style-and-feminine-plant]].
 
 The terror the ego feels in contemplating the dissolution of boundaries
 between self and world lies behind the suppression of [[guzman-allen-gartz-sacred-puffballs-gasteromycetes-indigenous-cultures]] er, diviner, psychopomp (guide of
@@ -63,10 +63,10 @@ sensibility of humanity, predating all organized religion.
 
 The late twentieth and early twenty-first centuries have seen a significant
 revival of interest in shamanic practices, particularly in the context of
-psychedelic therapy and the growing acceptance of plant medicines such as
-ayahuasca, psilocybin mushrooms, and iboga in therapeutic and spiritual
-contexts. Contemporary movements such as the Santo Daime and União do
-Vegetal churches in Brazil practice syncretic forms of Amazonian shamanism
+[[metzner-psycholytic-psychedelic-therapy-models]] and the growing acceptance of plant medicines such as
+ayahuasca, [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]], and iboga in therapeutic and spiritual
+contexts. Contemporary movements such as the [[metzner-brazilian-ayahuasca-churches-structural-comparison-santo-daime-udv-barquinha]] and União do
+Vegetal churches in Brazil practice syncretic forms of [[mckenna-food-gods-amazonian-shamanism-ayahuasca]]
 using ayahuasca as a sacrament.
 
 ## See Also
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

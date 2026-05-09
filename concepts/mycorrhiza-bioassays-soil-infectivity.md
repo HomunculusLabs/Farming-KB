@@ -4,11 +4,12 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [reference]
-sources: []
+sources:
+  sources: []
 ---
 # Mycorrhiza Bioassays for Soil Infectivity Assessment
 
-Mycorrhiza bioassays are standardized experimental procedures used to quantify the infectivity of arbuscular mycorrhizal (AM) fungal communities in soil.
+Mycorrhiza bioassays are standardized experimental procedures used to quantify the infectivity of [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] (AM) fungal communities in soil.
 
 These bioassays provide essential information about the capacity of indigenous AM fungi to colonize plant roots, which directly influences plant nutrition, health, and soil fertility.
 
@@ -16,7 +17,7 @@ Bioassays complement direct microscopic assessment of root colonization by enabl
 
 ## Rationale for Bioassay-Based Assessment
 
-Direct measurement of mycorrhizal colonization at a single point in time provides limited understanding of interactions between AM fungi and host plants.
+Direct measurement of [[arbuscular-mycorrhizal-colonization-patterns]] at a single point in time provides limited understanding of interactions between AM fungi and host plants.
 
 The diversity and dynamics of mycorrhizal associations vary in space and time, making single-time-point measurements insufficient.
 
@@ -46,7 +47,7 @@ Direct assessment of AM fungal colonization involves microscopic observation of 
 
 Root length colonized and percentage of root length colonized are the most common parameters.
 
-The magnified intersection method developed by McGonigle and colleagues assesses the proportion of root length containing specific mycorrhizal structures: arbuscules, vesicles, and intraradical hyphae.
+The magnified intersection method developed by McGonigle and colleagues assesses the proportion of root length containing specific mycorrhizal structures: arbuscules, vesicles, and [[arbuscule-intraradical-hyphae-isolation-mycorrhizal-roots]].
 
 This provides more complete understanding of relationships between colonization intensity and mycorrhizal function compared to simple presence-absence scoring.
 
@@ -82,7 +83,7 @@ Mycorrhiza bioassays have been applied to investigate the effects of agricultura
 
 Studies have compared AM fungal diversity and infectivity between agricultural and natural ecosystems, generally finding lower diversity in agricultural systems.
 
-Bioassays have been used to assess the impacts of tillage, crop rotation, fertilizer application, and pesticide use on mycorrhizal inoculum potential.
+Bioassays have been used to assess the impacts of tillage, crop rotation, [[cervantes-fertilizer-application-strain-feeding]], and pesticide use on [[arbuscular-mycorrhizal-inoculum-production-best-practices]] potential.
 
 In restoration ecology, bioassays help evaluate the recovery of mycorrhizal communities after disturbance and the effectiveness of inoculation strategies.
 
@@ -90,7 +91,7 @@ In restoration ecology, bioassays help evaluate the recovery of mycorrhizal comm
 
 Molecular assays complement traditional bioassay methods by enabling identification of AM fungal species in root and soil samples without the need for spore morphology assessment.
 
-Molecular techniques including PCR-based detection, T-RFLP, and next-generation sequencing provide higher resolution of AM fungal community composition.
+Molecular techniques including PCR-based detection, T-RFLP, and next-generation sequencing provide higher resolution of AM fungal [[core-endorhiza-bacterial-community-composition-cannabis]].
 
 However, bioassays remain essential for assessing functional infectivity, which molecular methods alone cannot determine.
 

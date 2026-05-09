@@ -16,7 +16,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Blesching, Uwe. "The Cannabis Health Index." North Atlantic Books, 2015. Chapter IV.
+  - Blesching, Uwe. "The blesching-cannabis-health-index-autoimmune-conditions." North Atlantic Books, 2015. Chapter IV.
 type: concept
 ---
 
@@ -32,7 +32,7 @@ Cachexia typically occurs as a secondary condition in chronic destructive diseas
 
 ### Cancer-Related Anorexia-Cachexia
 
-Patients with progressive or late-stage cancer who experience weight loss due to limited appetite, nausea, and increased weakness are suffering from cancer-related anorexia-cachexia syndrome. This condition involves complex metabolic changes driven by pro-inflammatory cytokines, tumor-derived factors, and hypothalamic dysregulation. The endocannabinoid system is directly involved in appetite regulation through CB1 receptors in the hypothalamus and other brain regions.
+Patients with progressive or late-stage cancer who experience weight loss due to limited appetite, nausea, and increased weakness are suffering from cancer-related anorexia-cachexia syndrome. This condition involves complex metabolic changes driven by pro-inflammatory cytokines, tumor-derived factors, and hypothalamic dysregulation. The endocannabinoid system is directly involved in [[blesching-cannabis-appetite-regulation-ghrelin-leptin]] through CB1 receptors in the hypothalamus and other brain regions.
 
 ### AIDS-Related Anorexia
 
@@ -77,7 +77,7 @@ Researchers at the University of Ottawa hypothesized that cannabinoids might mit
 
 ### Mixed Results in Cancer Anorexia
 
-A 2006 Swiss study at Cantonal Hospital in St. Gallen divided 164 cancer patients into three groups receiving a six-week course of cannabis extract (2.5 mg THC and 1 mg CBD), oral THC alone, or placebo. This randomized, double-blind, placebo-controlled trial found no significant difference in appetite or quality of life between the groups. Importantly, no reports of toxicity were noted. This study demonstrates that while cannabinoids are generally safe, efficacy in cancer-related anorexia specifically may vary depending on patient population, cannabinoid preparation, and dosing protocol.
+A 2006 Swiss study at Cantonal Hospital in St. Gallen divided 164 cancer patients into three groups receiving a six-week course of cannabis extract (2.5 mg THC and 1 mg CBD), oral THC alone, or placebo. This randomized, double-blind, placebo-controlled trial found no significant difference in appetite or quality of life between the groups. Importantly, no reports of toxicity were noted. This study demonstrates that while cannabinoids are generally safe, efficacy in cancer-related anorexia specifically may vary depending on patient population, cannabinoid preparation, and [[trace-water-dosing-protocol-microwave-surface-sterilization]].
 
 ### Dronabinol in HIV and Cancer
 
@@ -95,7 +95,7 @@ Nabilone is a synthetic cannabinoid approved for chemotherapy-induced nausea and
 
 ### Sativex
 
-Sativex is an oral spray derived from whole cannabis plant extract containing approximately equal proportions of THC and CBD. Unlike isolated synthetic cannabinoids, Sativex preserves the full spectrum of plant cannabinoids and terpenes, potentially offering enhanced therapeutic effects through the entourage effect.
+Sativex is an oral spray derived from whole cannabis plant extract containing approximately equal proportions of THC and CBD. Unlike isolated synthetic cannabinoids, Sativex preserves the full spectrum of plant cannabinoids and terpenes, potentially offering enhanced therapeutic effects through the [[cannabis-terpene-entourage-effect-profiles]].
 
 ## Dosing Considerations
 
@@ -104,7 +104,7 @@ When using cannabinoid therapy for appetite stimulation, several dosing principl
 - Start with low doses and increase gradually until the desired effect is achieved
 - Oral preparations may take 30 minutes to 2 hours to take effect, longer on a full stomach
 - Monitor for both therapeutic effects and side effects
-- The subjective therapeutic window varies by individual based on endocannabinoid tone, body weight, and tolerance
+- The [[cannabis-subjective-therapeutic-window-dosing]] window varies by individual based on endocannabinoid tone, body weight, and tolerance
 - Side effects at appropriate doses tend to be mild and manageable
 
 ## Safety Profile
@@ -124,7 +124,7 @@ Patients are encouraged to explore whether emotional factors such as unresolved 
 ## See Also
 
 - [[blesching-cannabis-anorexia-cachexia]]
-- [[endocannabinoid-system]]
+- [[cannabis-health-endo-cannabinoid-system]]
 - [[tetrahydrocannabinol-thc]]
 - [[cannabidiol-cbd]]
-- Mind Body Medicine and Emotional Molecules
+- Mind [[mind-body-medicine-and-endocannabinoid-system]] and Emotional Molecules

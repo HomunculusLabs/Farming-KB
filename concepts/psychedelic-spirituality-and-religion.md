@@ -10,8 +10,8 @@ sources: [raw/papers/harner-j-hallucinogens-and-shamanism.md]
 The relationship between psychoactive substances and spiritual practice extends
 across virtually every human culture and spans thousands of years. Psychedelic
 compounds have served as sacraments, divinatory tools, and catalysts for mystical
-experience in traditions ranging from the ancient Eleusinian Mysteries to
-contemporary ayahuasca ceremonies in the Amazon basin. Understanding this
+experience in traditions ranging from the ancient [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] to
+contemporary [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] in the Amazon basin. Understanding this
 relationship is essential for grasping why psychedelics continue to provoke such
 intense fascination, controversy, and scientific inquiry.
 
@@ -75,7 +75,7 @@ vast awareness, filtered through the limiting valve of the brain and nervous
 system, and that psychedelics temporarily disable this filtering mechanism.
 
 Timothy Leary and Richard Alpert (Ram Dass) popularized the concept of set and
-setting as the primary determinants of psychedelic experience, emphasizing that
+setting as the primary determinants of [[leary-psychedelic-experience-bardo-mapping]], emphasizing that
 the same compound could produce either mystical revelation or psychological crisis
 depending on context, intention, and environment. The psychedelic churches and
 communities that emerged in the 1960s represent ongoing attempts to integrate
@@ -84,13 +84,13 @@ indigenous traditions and modern psychological understanding.
 
 ## Psychedelics and Mystical Experience
 
-Modern clinical research has formalized the connection between psychedelics and
-mystical-type experiences. The psilocybin research program at Johns Hopkins
+Modern [[hofmann-lsd-clinical-research-early-studies]] has formalized the connection between psychedelics and
+mystical-type experiences. The [[early-paris-psilocybin-research-1960s]] program at Johns Hopkins
 developed validated scales (the Mystical Experience Questionnaire) to quantify
 psychedelic experiences that participants rate as among the most meaningful of
 their lives. These experiences are characterized by a sense of unity, transcendence
 of time and space, deeply felt positive mood, and the noetic quality of
-encountering objective truth — precisely the features that William James
+encountering objective truth — precisely the features that [[metzner-william-james-radical-empiricism-multiple-consciousness]]
 identified as the marks of genuine mystical experience in his landmark work "The
 Varieties of Religious Experience."
 

@@ -33,7 +33,7 @@ TIHKAL entry #48. An indole analogue of amphetamine that functions as both a mon
 
 ### Oral Experiences
 
-- **15 mg, orally**: "I got a strong psychedelic experience that lasted about twelve hours, but an unexpected relief from my chronic depression that lasted for four days."
+- **15 mg, orally**: "I got a strong [[leary-psychedelic-experience-bardo-mapping]] that lasted about twelve hours, but an unexpected relief from my chronic depression that lasted for four days."
 - **20 mg, orally**: "Nothing happened for three hours -- I thought I had drawn a blank. Then I became a little uncomfortable, restless. I feel completely washed out, exhausted. And I had a hang-over the next morning."
 - **30 mg, orally**: "It felt a little like speed, strong speed. Yet I found myself yawning and in sort of a dreaminess state and quite lethargic. It lasted a long time."
 - **30 mg, orally** (detailed): "Effects first noted in just over an hour -- a general numbness and a mild loss of motor coordination. A hand tremor and jaw tightness persisted throughout. No open or closed-eye visuals, but the visual field was altered such that the outside world appeared unreal and alien. I slept well at the 12th hour."
@@ -71,7 +71,7 @@ TIHKAL entry #48. An indole analogue of amphetamine that functions as both a mon
 
 # alpha-N-DMT (alpha,N-Dimethyltryptamine)
 
-alpha-N-DMT, also known as alpha,N-dimethyltryptamine or N-methyl-alpha-methyltryptamine, is a synthetic tryptamine compound documented by Alexander Shulgin in TIHKAL. It occupies a unique pharmacological position as the tryptamine analogue of methamphetamine, paralleling the structural relationship between amt entity tihkal and amphetamine.
+alpha-N-DMT, also known as alpha,N-dimethyltryptamine or N-methyl-alpha-methyltryptamine, is a synthetic tryptamine compound documented by Alexander Shulgin in TIHKAL. It occupies a unique pharmacological position as the tryptamine analogue of methamphetamine, paralleling the [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] between amt entity tihkal and amphetamine.
 
 ## Chemistry and Structure
 
@@ -107,7 +107,7 @@ This divergence between the tryptamine and phenethylamine families demonstrates 
 
 ## Extensions and Commentary
 
-Shulgin questioned whether making the tertiary amine (alpha-N-DMT) less psychedelic than the primary amine (amt entity tihkal) was an argument for the primary amine being the active form at serotonin receptors. If the primary amine is the actual pharmacophore, then adding steric bulk to the nitrogen might hinder receptor binding.
+Shulgin questioned whether making the tertiary amine (alpha-N-DMT) less psychedelic than the primary amine (amt entity tihkal) was an argument for the primary amine being the active form at serotonin receptors. If the primary amine is the actual pharmacophore, then adding steric bulk to the nitrogen might hinder [[tihkal-receptor-binding-serotonin]].
 
 However, this theory is complicated by other examples in the tryptamine series where tertiary amines show equal or greater potency than their primary counterparts, such as [[alpha-methyltryptamine]]) - the primary amine parent compound, a well-known psychedelic stimulant.
 

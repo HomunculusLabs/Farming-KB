@@ -58,7 +58,7 @@ On [[decomposition]], following primary colonizers. May share substrate with oth
 - **Xylarial A and B** — novel sesquiterpenoids with antibacterial activity
 - **Pestalotiopsin analogs** — compounds showing activity against plant pathogenic fungi
 - **Phenolic compounds** — including caffeic acid derivatives and melanin-related pigments
-- **Xylanase and cellulase enzymes** — involved in wood decomposition; of industrial interest for biomass conversion
+- **Xylanase and cellulase enzymes** — involved in [[fungal-wood-decomposition-spatial-variation]]; of industrial interest for biomass conversion
 
 ### Medicinal Potential
 Research on *X. polymorpha* specifically is limited, but studies on related *Xylaria* species have shown:
@@ -84,3 +84,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[xylaria-polymorpha]]

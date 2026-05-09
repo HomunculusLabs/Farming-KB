@@ -41,7 +41,7 @@ The species grows naturally in moist forests, grassy slopes, and along stream ba
 
 Cultivated production is centered in Sichuan and Zhejiang provinces, where the plant is grown in well-drained sandy loam soils. Major cultivation areas use raised beds to prevent waterlogging of the tuberous roots.
 
-The ornamental varieties, especially dwarf forms, are widely planted in gardens globally. The species has become naturalized in parts of the southeastern United States and mild-climate regions worldwide.
+The ornamental varieties, especially dwarf forms, are widely planted in gardens globally. The species has become naturalized in parts of the southeastern [[dmt-containing-plants-united-states-halpern]] and mild-climate regions worldwide.
 
 ## Bioactive Compounds
 
@@ -51,7 +51,7 @@ Homoisoflavonoids are a distinctive class of compounds found in the species. Met
 
 Polysaccharides constitute 30–50% of the dried root weight. These water-soluble β-glucans and fructans are responsible for the immunomodulatory effects attributed to the herb.
 
-Additional constituents include amino acids (particularly asparagine), oligosaccharides, and trace amounts of alkaloids. The essential oil from leaves contains linalool and various sesquiterpenes.
+Additional constituents include amino acids (particularly asparagine), oligosaccharides, and trace amounts of alkaloids. The [[permaculture-designers-manual-essential-oil-plants]] from leaves contains linalool and various sesquiterpenes.
 
 ## Pharmacology and Traditional Use
 
@@ -59,7 +59,7 @@ In TCM theory, *mai men dong* targets the lung, stomach, and heart meridians. It
 
 Modern pharmacological research supports several traditional uses. Steroidal saponins exhibit expectorant, anti-inflammatory, and cardioprotective effects in animal models.
 
-Homoisoflavonoids from the roots demonstrate COX-2 inhibitory activity comparable to non-steroidal anti-inflammatory drugs. These compounds also show protective effects against oxidative stress in neuronal cell models.
+Homoisoflavonoids from the roots demonstrate COX-2 inhibitory activity comparable to non-steroidal anti-inflammatory drugs. These compounds also show protective effects against [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in neuronal cell models.
 
 The root polysaccharides stimulate macrophage activity and enhance immune function in preclinical studies. This immunomodulatory effect may underlie the traditional use of *mai men dong* in convalescence.
 
@@ -71,7 +71,7 @@ Commercial cultivation of O. japonicus for medicinal use follows a 2–3 year pr
 
 Optimal growing conditions include partial shade, well-drained loamy soils with pH 5.5–6.5, and consistent moisture. The tuberous roots develop best in sandy soils that allow easy excavation at harvest.
 
-Root harvesting occurs in the second or third year after planting, typically during the dormant season in early spring or late autumn. Yields of dried tubers average 1500–3000 kg per hectare.
+Root harvesting occurs in the second or third year after planting, typically during the dormant season in [[coleman-overwintered-onions-and-early-spring-crops]] or late autumn. Yields of dried tubers average 1500–3000 kg per hectare.
 
 Post-harvest processing involves washing, removing fibrous roots, and drying. The roots are traditionally processed by brief steaming or sweating before drying, which reduces bitterness and improves storage quality.
 
@@ -83,11 +83,11 @@ The formula is traditionally prescribed for lung heat with yin deficiency, prese
 
 *Sheng Mai San* (Pulse-Generating Powder) is another classical formula containing *mai men dong* alongside ginseng and schisandra. It is used to treat qi and yin deficiency with symptoms of fatigue, spontaneous sweating, and a weak pulse.
 
-This formula has been extensively studied in modern cardiology. Clinical trials in China have demonstrated its efficacy in improving cardiac function and reducing symptoms in patients with chronic heart failure.
+This formula has been extensively studied in modern cardiology. [[mushroom-cancer-clinical-trials-overview]] in China have demonstrated its efficacy in improving cardiac function and reducing symptoms in patients with chronic heart failure.
 
 ## Related Species
 
-The genus Ophiopogon contains approximately 65 species distributed across East and Southeast Asia. Several species are used medicinally in their respective regions.
+The genus Ophiopogon contains approximately 65 species distributed across East and [[psilocybe-southeast-asia-pacific]]. Several species are used medicinally in their respective regions.
 
 O. jaburan, a closely related species from Japan, is used interchangeably with O. japonicus in some preparations. It is more commonly cultivated as an ornamental due to its broader leaves and greater shade tolerance.
 

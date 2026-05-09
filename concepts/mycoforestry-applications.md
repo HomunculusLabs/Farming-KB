@@ -9,7 +9,7 @@ sources:
 ---
 # Mycoforestry Applications
 
-Mycoforestry applies fungal biology to forest ecosystem management, combining remediation of contaminated sites with reforestation and sustainable forestry practices. Mycorrhizal and saprotrophic fungi contribute to soil formation, nutrient cycling, plant establishment, and contaminant detoxification in forested and reforested landscapes.
+Mycoforestry applies fungal biology to forest ecosystem management, combining remediation of contaminated sites with reforestation and sustainable [[mycelium-running-forestry-practices-and-mushrooms]]. Mycorrhizal and saprotrophic fungi contribute to soil formation, nutrient cycling, plant establishment, and contaminant detoxification in forested and reforested landscapes.
 
 ## Mycorrhizal Fungi in Contaminated Sites
 
@@ -32,7 +32,7 @@ Glomalin from VAM fungi sequesters Cu, Cd, Pb, and Mn, acting as a long-term soi
 ## Forest Soil Remediation
 
 Fungi mediate key remediation processes in forest soils:
-- **Petroleum hydrocarbon degradation:** ECM fungi show limited but documented capacity to degrade petroleum hydrocarbons. VAM fungi occur in both polluted and nonpolluted forest soils.
+- **[[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] degradation:** ECM fungi show limited but documented capacity to degrade petroleum hydrocarbons. VAM fungi occur in both polluted and nonpolluted forest soils.
 - **Radionuclide retention:** Fungi are responsible for long-term retention of radiocesium in organic forest soil horizons. About 22% of 137Cs is bound by fungal mycelia in top 5 cm of coniferous forest soil.
 - **PAH transformation:** White-rot fungi native to forest soils transform high-molecular-weight PAHs that resist bacterial degradation.
 - **PCP detoxification:** Field trials demonstrate fungal conversion of PCP in creosote-contaminated forest soils.
@@ -55,7 +55,7 @@ Mycoforestry principles extend naturally into agroforestry, where tree-crop inte
 
 - **Silvopastoral systems:** Mycorrhizal inoculation of shade trees in silvopastoral systems improves forage production beneath trees by enhancing nutrient cycling and soil structure. The fungal networks connecting trees and pasture grasses facilitate nutrient transfer.
 - **Alley cropping:** In alley cropping systems, mycorrhizal fungal networks linking hedgerow trees with alley crops can redistribute nutrients from deeper soil layers exploited by tree roots to shallower-rooted annual crops.
-- **Forest gardens and food forests:** In perennial polyculture systems, a diverse mycorrhizal community supports multiple plant functional types simultaneously. Ectomycorrhizal fungi associate with nut and fruit trees, while arbuscular mycorrhizal fungi support understory herbs and shrubs. This functional diversity in fungal symbionts is a key advantage of polycultural agroforestry over monoculture forestry.
+- **Forest gardens and food forests:** In perennial polyculture systems, a diverse mycorrhizal community supports multiple plant functional types simultaneously. Ectomycorrhizal fungi associate with nut and fruit trees, while [[singh-arbuscular-mycorrhizal-fungi-soil-remediation]] support understory herbs and shrubs. This functional diversity in fungal symbionts is a key advantage of polycultural agroforestry over monoculture forestry.
 - **Shade-grown coffee and cacao:** These systems rely heavily on arbuscular mycorrhizal fungi for nutrient uptake by the crop trees. Inoculation with effective VAM strains improves yield and reduces fertilizer requirements in established shade-grown systems.
 
 ## Commercial Applications and Case Studies
@@ -65,13 +65,13 @@ Several documented field applications demonstrate the commercial viability of my
 - **Mine reclamation in the Appalachian region (USA):** Pisolithus tinctorius inoculation of loblolly pine seedlings on abandoned coal mine sites increased seedling survival from 40% to over 85% and accelerated site stabilization. The inoculated stands developed closed canopies within 8-10 years compared to 15-20 years for uninoculated controls.
 - **Radioactive site remediation near Chernobyl:** Field studies demonstrated that mycorrhizal pine and birch stands effectively immobilize radiocesium in the organic soil horizon, preventing migration into groundwater. Fungi are responsible for retaining approximately 22% of total 137Cs in the top soil layers.
 - **Petroleum-contaminated forest sites in Canada:** Field trials using ectomycorrhizal inoculation with Laccaria species on conifer seedlings planted in creosote-contaminated soils showed improved survival and growth rates, with measurable reduction in PAH concentrations in the rooting zone over a 5-year monitoring period.
-- **Commercial mycorrhizal inoculum production:** Companies such as Mycorrhizal Applications and Premier Tech have developed commercial-scale production of mycorrhizal inoculants for forestry and restoration applications. Products include spore-based inoculants, colonized root fragments, and granular formulations suitable for nursery and field application.
+- **Commercial mycorrhizal [[directed-inoculum-production-process-for-amf]]:** Companies such as Mycorrhizal Applications and Premier Tech have developed commercial-scale production of mycorrhizal inoculants for forestry and restoration applications. Products include spore-based inoculants, colonized root fragments, and granular formulations suitable for nursery and field application.
 
 ## Limitations and Challenges
 
 Despite promising results, mycoforestry faces several practical limitations that constrain widespread adoption:
 
-- **Environmental variability:** Field conditions (temperature extremes, drought, competition from indigenous microorganisms, and variable contaminant profiles) can reduce inoculant survival and effectiveness compared to controlled greenhouse conditions.
+- **Environmental variability:** Field conditions (temperature extremes, drought, competition from [[beneficial-indigenous-microorganisms-bim]], and variable contaminant profiles) can reduce inoculant survival and effectiveness compared to controlled greenhouse conditions.
 - **Inoculant establishment:** Introduced fungi often fail to compete with well-established indigenous fungal communities. Successful colonization is more likely on severely degraded or sterilized substrates where indigenous fungal populations are reduced.
 - **Time scale:** Mycoforestry benefits develop over years to decades, while remediation targets and funding cycles often operate on shorter timeframes. Patience and long-term monitoring commitment are essential but difficult to secure.
 - **Regulatory barriers:** Release of non-native fungal species for remediation may be restricted by environmental regulations in some jurisdictions. Genetically modified fungi face even greater regulatory hurdles.
@@ -83,7 +83,7 @@ Despite promising results, mycoforestry faces several practical limitations that
 
 Emerging approaches may address current limitations of mycoforestry:
 
-- **Microbiome-informed inoculation:** Understanding the existing soil microbial community allows design of inocula that complement rather than compete with indigenous fungi. Metagenomic profiling of target sites before inoculation can identify functional gaps that introduced fungi could fill.
+- **Microbiome-informed inoculation:** Understanding the existing soil [[edaphic-factors-microbial-community-structure]] allows design of inocula that complement rather than compete with indigenous fungi. Metagenomic profiling of target sites before inoculation can identify functional gaps that introduced fungi could fill.
 - **Adapted inoculum development:** Selecting fungal strains from contaminated sites similar to the target site improves establishment success. Directed evolution and strain improvement techniques may further enhance the remediation capabilities of inoculant fungi.
 - **Combined fungal-bacterial consortia:** Designing multi-kingdom microbial consortia that combine fungal degradation capabilities with bacterial metabolic pathways may achieve more complete contaminant removal than fungi alone.
 - **Remote sensing for monitoring:** Hyperspectral imaging and drone-based monitoring can assess vegetation establishment and stress as proxies for remediation progress across large mycoforestry sites, reducing the cost and labor of field monitoring.
@@ -114,7 +114,7 @@ Mycoforestry combines fungal and plant remediation capabilities:
 
 ## See Also
 
-- [[mycoremediation-heavy-metals-detailed]]
+- [[mycoremediation-of-heavy-metals]]
 - [[mycoforestry]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]]
 - [[biodiversity-of-fungi-biomass-carbon-soil-structure]]

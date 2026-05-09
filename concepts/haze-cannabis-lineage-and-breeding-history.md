@@ -1,6 +1,6 @@
 ---
-title: Haze Cannabis Lineage and Breeding History
-source: Cannabis Sativa Volume 3 - S.T. Oner, The Rev
+title: Haze haze cannabis lineage and breeding history and Breeding History
+source: [[comparison-cannabis-sativa-vs-cannabis-indica]] Volume 3 - S.T. Oner, The Rev
 created: 2026-05-08
 tags: [cannabis, sativa, haze, breeding, genetics, history]
 ---
@@ -9,13 +9,13 @@ tags: [cannabis, sativa, haze, breeding, genetics, history]
 
 ## Overview
 
-The Haze cannabis lineage represents one of the most influential genetic families in cannabis history. Originating in California during the 1970s, Haze became the foundation for countless modern sativa-dominant hybrids and defined the psychedelic, cerebral effects that sativa enthusiasts prize. Its complex breeding history involves multiple landrace sativa varieties from four continents, making it one of the most genetically diverse and important cultivar families ever created. The Haze lineage's impact on modern cannabis cannot be overstated: it has shaped the definition of what a premium sativa experience means.
+The Haze cannabis lineage represents one of the most influential genetic families in cannabis history. Originating in California during the 1970s, Haze became the foundation for countless modern sativa-dominant hybrids and defined the psychedelic, cerebral effects that sativa enthusiasts prize. Its complex breeding history involves multiple [[african-landrace-sativa-modern-hybrids]] varieties from four continents, making it one of the most genetically diverse and important cultivar families ever created. The [[sativa-haze-lineage-breeding-history]]'s impact on modern cannabis cannot be overstated: it has shaped the definition of what a premium sativa experience means.
 
 ## Origins in 1970s California
 
-The Haze brothers (also known as the Haze Brigade) developed the original Haze cultivar in the Santa Cruz, California area during the early to mid-1970s. This was during a period when indoor cannabis breeding was essentially unknown and all breeding was done outdoors. The breeding environment was fundamentally different from modern practices: prevailing winds carried pollen from male plants to receptive females at varying distances, and multiple varieties were often grown together, resulting in open pollination that breeders called "trainwreck" genetics.
+The Haze brothers (also known as the Haze Brigade) developed the original Haze cultivar in the Santa Cruz, California area during the early to mid-1970s. This was during a period when indoor [[oner-cannabis-breeding-fundamentals]] was essentially unknown and all breeding was done outdoors. The breeding environment was fundamentally different from modern practices: prevailing winds carried pollen from male plants to receptive females at varying distances, and multiple varieties were often grown together, resulting in open pollination that breeders called "trainwreck" genetics.
 
-The original Haze was created by crossing several landrace sativa varieties. While exact parentage has been debated, the generally accepted lineage includes [[northern-lights]] ghts #5 and Haze that became one of the most sought-after cannabis varieties in the world. This cross was significant because it demonstrated that Haze's desirable effects could be combined with indica genetics to create more manageable plants while retaining the signature cerebral high.
+The original Haze was created by crossing several landrace sativa varieties. While exact parentage has been debated, the generally accepted lineage includes  ghts #5 and Haze that became one of the most sought-after cannabis varieties in the world. This cross was significant because it demonstrated that Haze's desirable effects could be combined with indica genetics to create more manageable plants while retaining the signature cerebral high.
 
 The Netherlands' coffeeshop culture provided a unique environment for Haze varieties to gain popularity. Regular consumers could sample different Haze-based varieties side by side and develop preferences, creating market demand that drove further breeding innovation. Amnesia Haze became one of the most popular coffeeshop varieties in Amsterdam and throughout the Netherlands.
 
@@ -102,4 +102,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

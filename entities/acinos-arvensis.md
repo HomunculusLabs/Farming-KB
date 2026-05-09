@@ -11,7 +11,7 @@ updated: 2026-05-08
 sources:
   - Conforti, F. et al. (2006). "Chemical composition and biological activities of Acinos arvensis." Journal of Food Biochemistry, 30(1), 1–12.
   - Formisano, C. et al. (2007). "Volatile constituents of Acinos arvensis from Italy." Journal of Chromatography A, 1170(1–2), 241–245.
-  - Rosselli, S. et al. (2007). "Antibacterial and antifungal activity of Acinos arvensis essential oil." Flavour and Fragrance Journal, 22(5), 398–401.
+  - Rosselli, S. et al. (2007). "Antibacterial and antifungal activity of Acinos arvensis [[permaculture-designers-manual-essential-oil-plants]]." Flavour and Fragrance Journal, 22(5), 398–401.
   - Tuttolomondo, T. et al. (2013). "Essential oil composition of Acinos arvensis from Sicily." Natural Product Communications, 8(12), 1729–1732.
 ---
 
@@ -63,11 +63,11 @@ Basil thyme is rarely cultivated intentionally, but it can be grown in rock gard
 - **Soil:** Well-drained, sandy or gravelly, low to moderate fertility. Tolerates alkaline conditions.
 - **Light:** Full sun preferred; tolerates partial shade.
 - **Water:** Very low once established; sensitive to waterlogging.
-- **Spacing:** 10–15 cm between plants, suitable for ground cover in dry areas.
+- **Spacing:** 10–15 cm between plants, suitable for [[fukuoka-citrus-orchard-ground-cover-cultivation]] in dry areas.
 
 The plant is generally pest-free and requires minimal maintenance. It self-seeds prolifically in suitable conditions.
 
-In herbal gardens, it is valued for its compact form, drought tolerance, and attractive flowers that attract small pollinators.
+In herbal gardens, it is valued for its compact form, [[dighton-fungal-drought-tolerance-plant-water-relations]], and attractive flowers that attract small pollinators.
 
 ## Chemistry and Pharmacology
 
@@ -87,7 +87,7 @@ Populations from different geographic regions show markedly different profiles, 
 
 The essential oil demonstrates notable antibacterial activity against *Bacillus subtilis*, *Staphylococcus aureus*, and *Escherichia coli* in vitro.
 
-Moderate antifungal activity has been reported against *Candida albicans* and *Aspergillus niger*.
+Moderate antifungal activity has been reported against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and *Aspergillus niger*.
 
 Antioxidant assays indicate free-radical scavenging capacity, primarily attributed to pulegone and menthone content.
 

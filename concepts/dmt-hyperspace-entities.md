@@ -9,7 +9,7 @@ in [[tryptamine-logos-language]]
 
 ## Sources
 - McKenna, T. (1992). [[tryptamine-hallucinogens-and-consciousness]].
-  *The Archaic Revival*. HarperSanFrancisco.
+  *The [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]*. HarperSanFrancisco.
 - Strassman, R. (2001). *DMT: The Spirit Molecule*. Park Street Press.
 - Luke, D. (2011). Discarnate entities and dimethyltryptamine.
   *Journal of Near-Death Studies*, 29(3), 159–181.
@@ -141,4 +141,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

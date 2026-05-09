@@ -10,7 +10,7 @@ type: query
 ---
 # How Do I Make Compost Tea for My Plants?
 ## Short Answer
-Compost tea is a liquid extract made by steeping high-quality compost in aerated water to multiply beneficial microorganisms. The preferred method is actively aerated compost tea (AACT), brewed with an air pump for 24-36 hours to encourage aerobic bacteria and fungi. AACT provides disease suppression and nutrient cycling when applied to plants and soil, and is more biologically diverse than non-aerated compost extract.
+Compost tea is a liquid extract made by steeping high-quality compost in aerated water to multiply beneficial microorganisms. The preferred method is actively [[actively-aerated-compost-tea]] tea (AACT), brewed with an air pump for 24-36 hours to encourage aerobic bacteria and fungi. AACT provides [[aact-disease-suppression-mechanisms-ingham]] and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] when applied to plants and soil, and is more biologically diverse than non-aerated compost extract.
 ## Types of Compost Tea
 The [[aact-definitions-and-types-ingham]] resource distinguishes several related preparations:
 | Type | Method | Aeration | Best For |
@@ -18,7 +18,7 @@ The [[aact-definitions-and-types-ingham]] resource distinguishes several related
 | AACT (actively aerated) | Brew 24-36 hours with air pump | Continuous | Disease suppression, soil inoculation |
 | Compost extract | Stir compost in water, use immediately | None | Quick nutrient extraction |
 | Compost leachate | Liquid draining from compost pile | None | Mild soil drench, not for foliar |
-| Non-aerated tea | Steep 1-14 days without aeration | None | Anaerobic organisms only |
+| Non-aerated tea | Steep 1-14 days without aeration | None | [[ingham-anaerobic-organisms-role-soil]] only |
 AACT is the preferred method for most applications because continuous aeration supports diverse and active microbial populations.
 ## Bacterial vs. Fungal Tea
 Choosing between tea types depends on what you are growing:
@@ -47,7 +47,7 @@ Choosing between tea types depends on what you are growing:
 - Add microbial food sources (see recipe below)
 **Step 3: Aerate**
 - Run the air pump continuously for 24-36 hours
-- Maintain dissolved oxygen above 6 mg/L
+- Maintain [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] above 6 mg/L
 - Vigorous bubbling should be visible at the surface
 **Step 4: Monitor the brew**
 - Good tea develops a sweet, earthy smell
@@ -65,7 +65,7 @@ The [[compost-tea-application-rates]] guide covers specific recommendations.
 | Soil drench | 20 gal/acre (or 2 cups/sq ft) | Every 2-4 weeks | Soak root zone thoroughly |
 | Foliar spray | 5-10 gal/acre | Every 2-3 weeks | Apply morning or evening |
 | Seed treatment | Soak seeds 1-2 hours | Before planting | Inoculates seed surface |
-| Transplant dip | Dip roots in undiluted tea | At planting | Reduces transplant shock |
+| Transplant dip | Dip roots in undiluted tea | At planting | Reduces [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]] |
 Foliar application is particularly effective for disease suppression because beneficial organisms coat leaf surfaces and outcompete pathogens.
 The [[aact-definitions-and-types-ingham]] for terminology
 - Choose [[aact-fungal-dominant-tea]] for perennials
@@ -91,3 +91,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[query-how-do-i-make-biodynamic-preparations-for-my-farm-or-garden]]

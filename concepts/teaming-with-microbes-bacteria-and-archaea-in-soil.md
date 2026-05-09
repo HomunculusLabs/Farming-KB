@@ -1,5 +1,5 @@
 ---
-title: "Bacteria and Archaea in Soil"
+title: "teaming with microbes bacteria and archaea in soil in Soil"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -12,7 +12,7 @@ tags: [soil]
 
 Bacteria are the smallest and most numerous organisms in the soil food web. A
 single teaspoon of good garden soil contains up to a billion bacteria. They are
-the primary decomposers of organic matter, second only to fungi, and form the
+the primary decomposers of [[hamilton-composting-and-organic-matter-management]], second only to fungi, and form the
 base of the soil food web pyramid. Without bacteria, we would be smothered in
 our own wastes in a matter of months. Three basic shapes are represented in
 soil: coccus (spherical), bacillus (rod-shaped), and spiral.
@@ -35,7 +35,7 @@ protozoa and nematodes or die and are themselves decayed. Because bacteria
 attach to soil particles, the nutrients they contain remain in the soil rather
 than leaching away.
 
-Soil bacteria are attracted to plant root exudates and concentrate in the
+Soil bacteria are attracted to plant [[mycorrhizal-root-exudates-pathogen-interactions]] and concentrate in the
 rhizosphere, where they also feed on cells sloughed off during root-tip growth.
 They act as "small bags of fertilizer," retaining nutrients until protozoa and
 nematodes come along and eat them, releasing excess nitrogen as ammonium waste
@@ -43,7 +43,7 @@ right in the rhizosphere where roots can absorb it.
 
 Individual plants can control the numbers and kinds of bacteria attracted to
 the rhizosphere by the exudates they produce. During different times of the
-growing season, rhizosphere bacterial populations wax and wane depending on
+[[savory-growing-season-and-non-growing-season-management]], rhizosphere bacterial populations wax and wane depending on
 the plant's nutrient needs.
 
 ## Feeding Mechanisms
@@ -53,7 +53,7 @@ best decomposing young, still-fresh plant material ("green" material) rich in
 sugars, which are easier for bacteria to digest than complex carbon compounds
 ("brown" material). Bacteria use enzymes to break the bonds holding organic
 chains together and digest food -- all done outside the organism before
-ingestion. They take in food directly through cell walls via active transport,
+ingestion. They take in food directly through cell walls via [[diffusion-osmosis-and-active-transport-in-plants]],
 where membrane proteins act as molecular pumps.
 
 ## Aerobic vs. Anaerobic Bacteria
@@ -91,7 +91,7 @@ living in soil), and Rhizobium (symbiotic in legume root nodules, forming
 visible nodules). Nitrifying bacteria -- Nitrosomonas converting ammonium to
 nitrites, and Nitrobacter converting nitrites to nitrates -- require pH above
 7. Denitrifying bacteria convert nitrogen salts back to atmospheric N2,
-keeping the nitrogen cycle moving.
+keeping the [[query-how-does-the-nitrogen-cycle-work-in-a-garden]] moving.
 
 ## Pathogens and Defenses
 

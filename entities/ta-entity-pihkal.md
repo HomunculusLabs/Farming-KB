@@ -1,5 +1,5 @@
 ---
-title: "TA (2,3,4,5-TETRAMETHOXYAMPHETAMINE) -- PIHKAL Entry #145"
+title: "TA (2,3,4,5-TETRAMETHOXYAMPHETAMINE) -- 2c-b-pihkal-entry-20 #145"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -94,7 +94,7 @@ solvent from the pooled extracts under vacuum gave 42 g of residue
 that appeared to be mainly phenol, with a little formate and aldehyde.
 This was dissolved in 200 mL of 10% NaOH, allowed to stand for 2 h at
 [[scythian-cannabis-steam-bath-ritual]] methyl iodide and the
-mixture was held on the steam bath for 2 h. This was poured into
+mixture was held on the [[scythian-cannabis-steam-bath-ritual]] for 2 h. This was poured into
 aqueous base, and extracted with 3x100 mL CH2Cl2. Removal of the
 
 (Additional synthesis details available in source.)

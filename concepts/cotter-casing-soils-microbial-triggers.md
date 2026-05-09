@@ -1,5 +1,5 @@
 ---
-title: Casing Soils and Microbial Fruiting Triggers
+title: cotter casing soils microbial triggers and Microbial Fruiting Triggers
 created: 2026-04-26
 tags: [casing-soil, microbial-interaction, fruiting-trigger, soil-science, agaricus]
 date: 2026-04-25
@@ -21,7 +21,7 @@ substrate colonization is complete to reduce competition from organisms.
 
 Most wood-decomposing mushrooms (shiitakes, oysters) do not require microbial
 interactions for fruiting, so casing is generally reserved for species that grow
-on composted manure, grasses, and agricultural wastes -- primarily terrestrial
+on [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]], grasses, and agricultural wastes -- primarily terrestrial
 mushrooms in the wild.
 
 ## Casing Soil Composition
@@ -68,7 +68,7 @@ to benefit include:
 
 - Agaricus spp. (white button, portabella, almond portabella)
 - Lepiota spp. (parasol)
-- Stropharia spp. (king stropharia)
+- Stropharia spp. ([[cotter-king-stropharia-cultivation]])
 - Clitocybe spp. (blewits)
 - Morchella spp. (morels)
 
@@ -117,10 +117,10 @@ Once the optimal dilution is identified, harvest casing soil from successful
 jars (at mycelial knotting stage, before full fruiting to avoid contaminants)
 and blend into larger volumes of sterilized water and casing soil for expansion.
 
-On a commercial scale, aerobic bioreactors (similar to beer brewing equipment
+On a commercial scale, aerobic bioreactors (similar to beer [[compost-tea-brewing-equipment-ingham]]
 with filtered air injection) can accommodate batch production of casing
 microbial culture. Healthy mushroom stem bases from "clean" growing beds can
-perpetuate the microbial community for subsequent casing batches.
+perpetuate the [[edaphic-factors-microbial-community-structure]] for subsequent casing batches.
 
 ### Cautions
 

@@ -4,19 +4,21 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [reference]
-sources: []
+sources:
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 # Biostimulation Techniques
 
 Biostimulation is a bioremediation strategy that involves stimulating the indigenous microbial population at a contaminated site to enhance their natural ability to degrade pollutants. Rather than introducing external organisms (bioaugmentation), biostimulation provides the conditions, nutrients, or other amendments that allow native microorganisms to carry out remediation more efficiently.
 
-The approach is based on the principle that contaminated environments typically contain microorganisms with the genetic potential to degrade many pollutants, but their activity is limited by environmental factors such as nutrient availability, oxygen supply, pH, moisture, or temperature. By modifying these parameters, biostimulation accelerates the natural attenuation process that would otherwise proceed slowly or incompletely.
+The approach is based on the principle that contaminated environments typically contain microorganisms with the genetic potential to degrade many pollutants, but their activity is limited by [[duggar-mushroom-environmental-factors-temperature-moisture-light]] such as [[ph-and-nutrient-availability-garden-soils]], oxygen supply, pH, moisture, or temperature. By modifying these parameters, biostimulation accelerates the natural attenuation process that would otherwise proceed slowly or incompletely.
 
 ## Nutrient Addition
 
 Nutrient addition is the most common form of biostimulation. In many contaminated environments, particularly those affected by petroleum hydrocarbons, the ratio of carbon (from the contaminant) to nitrogen and phosphorus is extremely high, creating a nutrient imbalance that limits microbial growth and activity. Adding nitrogen and phosphorus in appropriate ratios can dramatically increase the rate of contaminant degradation.
 
-Nitrogen sources include ammonium salts (ammonium nitrate, ammonium sulfate), urea, and slow-release fertilizers. Phosphorus is typically added as phosphate salts (tripolyphosphate, superphosphate) or as phosphorus-rich organic amendments. The optimal carbon-to-nitrogen-to-phosphorus (C:N:P) ratio for petroleum hydrocarbon biodegradation is generally cited as 100:10:1, though this varies with the type of contaminant, soil characteristics, and microbial community composition.
+Nitrogen sources include ammonium salts (ammonium nitrate, ammonium sulfate), urea, and slow-release fertilizers. Phosphorus is typically added as phosphate salts (tripolyphosphate, superphosphate) or as phosphorus-rich [[cervantes-organic-amendments-chart]]. The optimal carbon-to-nitrogen-to-phosphorus (C:N:P) ratio for petroleum hydrocarbon biodegradation is generally cited as 100:10:1, though this varies with the type of contaminant, soil characteristics, and microbial [[core-endorhiza-bacterial-community-composition-cannabis]].
 
 Fertilizer formulations must be selected carefully. Water-soluble fertilizers provide rapid nutrient availability but may leach from the treatment zone. Slow-release or encapsulated fertilizers provide sustained nutrient supply over longer periods. Oleophilic fertilizers (nutrients dissolved in or adhered to vegetable oils) are particularly effective for petroleum-contaminated shorelines because they adhere to oil films and deliver nutrients directly to the microbial communities degrading the oil.
 
@@ -26,13 +28,13 @@ Aerobic microbial degradation is generally much faster than anaerobic degradatio
 
 Bioventing is the most widely used oxygen delivery method for vadose zone soils. Air is injected into or extracted from the soil through wells, delivering oxygen to stimulate aerobic degradation of petroleum hydrocarbons and other volatile organic compounds. Air flow rates are carefully controlled to maximize oxygen delivery while avoiding volatilization of contaminants.
 
-Biosparging injects air directly into the saturated zone to deliver oxygen to groundwater-contaminated environments. Hydrogen peroxide injection has been used as an alternative oxygen source because it is more soluble in water than atmospheric oxygen, though its application requires careful management to avoid inhibiting microbial activity at high concentrations.
+Biosparging injects air directly into the saturated zone to deliver oxygen to groundwater-contaminated environments. [[cervantes-hydrogen-peroxide-sterilization]] injection has been used as an alternative oxygen source because it is more soluble in water than atmospheric oxygen, though its application requires careful management to avoid inhibiting microbial activity at high concentrations.
 
 Oxygen-releasing compounds (ORCs) such as magnesium peroxide or calcium peroxide can be placed in the subsurface to provide slow, sustained oxygen release over weeks to months. These are particularly useful for passive treatment systems where active injection is impractical.
 
 ## Electron Acceptor Amendment
 
-For anaerobic degradation pathways, adding alternative electron acceptors can stimulate contaminant transformation. Nitrate addition stimulates denitrifying bacteria that can degrade aromatic hydrocarbons and BTEX compounds under anoxic conditions. Sulfate addition promotes sulfate-reducing bacteria that can degrade certain chlorinated compounds and PAHs.
+For anaerobic [[staycare-chlorophenol-degradation-pathways-white-rot-fungi]], adding alternative electron acceptors can stimulate contaminant transformation. Nitrate addition stimulates denitrifying bacteria that can degrade aromatic hydrocarbons and BTEX compounds under anoxic conditions. Sulfate addition promotes sulfate-reducing bacteria that can degrade certain chlorinated compounds and PAHs.
 
 Chelated iron amendments have been investigated for stimulating Fenton-like reactions that generate hydroxyl radicals capable of degrading recalcitrant organic contaminants. The choice of electron acceptor depends on the contaminant type, site geochemistry, and the metabolic capabilities of the indigenous microbial community.
 
@@ -58,7 +60,7 @@ Composting has been successfully applied to treat soils contaminated with explos
 
 ## See Also
 
-- [[fungal-bioremediation]] — fungal approaches to contaminant degradation
+- fungal-bioremediation — fungal approaches to contaminant degradation
 - [[composting-methods-comparison]] — composting as a biostimulation strategy
 - [[white-rot-fungi-bioremediation]] — ligninolytic fungi for pollutant degradation
 
@@ -84,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

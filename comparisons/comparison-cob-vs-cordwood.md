@@ -4,17 +4,18 @@ created: 2026-04-28
 tags: [comparison, natural-building, construction, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
 # Cob vs Cordwood
 
-Cob building uses clay, sand, straw, and water mixed into monolithic
+[[comparison-cob-building-vs-adobe-construction]] uses clay, sand, straw, and water mixed into monolithic
 sculpted walls, offering ancient, extremely low-cost construction with great
 design freedom. Cordwood construction lays debarked log ends crosswise in
 mortar beds, combining thermal mass with insulation in a visually distinctive
-wall system. Both are natural building methods suited to owner-builders.
+wall system. Both are [[query-how-do-i-choose-a-natural-building-method-for-my-climate]] methods suited to owner-builders.
 
 ## Overview
 
@@ -47,7 +48,7 @@ in a weekend workshop.
 | Skill required | Intuitive, learnable by doing | Learnable in weekend workshop |
 | Wall thickness | 18 to 24 inches monolithic | 12 to 24 inches depending on log length |
 | Durability | 500+ years with proper details | Centuries with good mortar and protection |
-| Best For | Sculptural design in mild climates | Cold-climate energy efficiency |
+| Best For | Sculptural design in mild climates | Cold-climate [[fukuoka-textdoc-energy-efficiency-agricultural-labor]] |
 
 ## When to Choose Cob
 
@@ -62,7 +63,7 @@ bottles for light features.
 
 Cob performs best with a good roof overhang, a raised stone foundation that
 keeps walls dry, and breathable lime or earthen plaster finishes. Hybrid
-buildings can use cob on south-facing walls for passive solar mass and a
+buildings can use cob on south-facing walls for [[comparison-passive-solar-vs-earth-sheltered]] mass and a
 more insulating material on north-facing walls.
 
 ## When to Choose Cordwood
@@ -92,7 +93,7 @@ built-in furniture, or sculptural elements.
 
 The foundation and roof systems for both methods are similar, typically
 rubble trench or reinforced concrete foundations with a good vapor barrier,
-and timber frame or living roof structures. This compatibility makes
+and [[comparison-bamboo-construction-vs-timber-frame-basics]] or living roof structures. This compatibility makes
 combining them straightforward for builders comfortable with both materials.
 
 ## Bottom Line

@@ -1,5 +1,5 @@
 ---
-title: "Jagadis Chandra Bose"
+title: "Jagadis [[jagadis-chandra-bose-plant-research]]"
 created: 2026-04-28
 updated: 2026-05-06
 type: entity
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

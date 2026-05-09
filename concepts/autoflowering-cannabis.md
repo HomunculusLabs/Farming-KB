@@ -1,5 +1,5 @@
 ---
-title: Autoflowering Cannabis
+title: comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -17,11 +17,11 @@ response to changes in the [[photoperiod-cannabis]] response that controls stand
 
 - **Multiple harvests per season:** Plant successive crops outdoors from spring through
   summer for continuous harvesting
-- **No light schedule management:** No need to change to 12/12 for flowering
-- **Fast life cycle:** Most autoflowers complete from seed to harvest in 8-12 weeks
+- **No [[query-best-light-schedule-for-cannabis]] management:** No need to change to 12/12 for flowering
+- **Fast [[bloomfield-fungal-life-cycle-spiral-versus-circle]]:** Most autoflowers complete from seed to harvest in 8-12 weeks
 - **Compact size:** Typically smaller than photoperiod strains, suitable for discreet
   growing
-- **Flexible planting:** Can be planted outdoors at any time during the growing season
+- **Flexible planting:** Can be planted outdoors at any time during the [[savory-growing-season-and-non-growing-season-management]]
 - **Ideal for [[vegetative-phase-cannabis]] indefinitely:** Plants flower on
   their own schedule
 - **Less training flexibility:** Techniques like [[screen-of-green]] are limited by the short vegetative window
@@ -43,7 +43,7 @@ time and allows planting in remote sites with shorter growing seasons.
 
 ## Not Suitable as Mother Plants
 
-Autoflowering varieties do not make suitable [[cannabis-cloning]] programs because they cannot be maintained in vegetative growth
+Autoflowering varieties do not make suitable [[cannabis-cloning]] programs because they cannot be maintained in [[cannabis-vegetative-growth-stage]]
 indefinitely. Once an autoflower begins its flowering program, it cannot be reversed.
 This is one of the key distinctions between autoflowering and photoperiod cannabis for
 commercial growers who rely on clone production.
@@ -69,6 +69,8 @@ growers in Scandinavia, Canada, and other high-latitude regions.
 
 ## See Also
 
+- [[chionanthus-virginicus]]
+
 - [[photoperiod-cannabis]] -- the mechanism autoflowers bypass
 - [[guerilla-growing]] -- ideal use case for autoflowers
 - [[light-schedule-cannabis]] -- why autoflowers differ
@@ -91,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

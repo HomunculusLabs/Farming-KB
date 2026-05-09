@@ -1,8 +1,9 @@
 ---
-title: HPS Grow Lights
+title: comparison-cmh-vs-hps-grow-lights Lights
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
@@ -11,14 +12,14 @@ tags: [reference]
 
 # HPS Grow Lights
 
-High Pressure Sodium (HPS) lamps are a type of [[flowering-phase-cannabis]] of cannabis. HPS lamps produce an orange-red spectrum that promotes dense bud
-development and are the standard light source for commercial indoor cannabis cultivation.
+High [[cervantes-high-pressure-sodium-lighting]] (HPS) lamps are a type of [[flowering-phase-cannabis]] of cannabis. HPS lamps produce an orange-red spectrum that promotes dense bud
+development and are the standard light source for commercial indoor [[query-how-does-no-till-cannabis-cultivation-work]].
 
 ## HID Lamp Family
 
 HID lamps produce light by passing electricity through vaporized gas enclosed in a clear
 ceramic arc tube under high pressure. The HID family includes mercury vapor (obsolete for
-growing), metal halide (MH), and High Pressure Sodium (HPS). Among these, 600-watt HPS
+growing), [[cervantes-metal-halide-lighting-systems]] (MH), and High Pressure Sodium (HPS). Among these, 600-watt HPS
 lamps are the most electrically efficient in lumens-per-watt conversion.
 
 ## Efficiency and Wattage

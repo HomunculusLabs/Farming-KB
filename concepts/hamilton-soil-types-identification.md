@@ -1,5 +1,5 @@
 ---
-title: Soil Types and Identification in Organic Gardening
+title: Soil Types and Identification in hamilton-geoffhamilton-nick-organic-gardening-companion-planting
 created: 2026-04-28
 tags: [soil, organic-gardening, hamilton, soil-science, growing-medium]
 date: 2026-04-25
@@ -14,9 +14,9 @@ type: concept
 Geoff Hamilton regarded the soil as the basic raw material of the
 gardener's art, never to be dismissed as mere "dirt." It is far more
 than a collection of mineral particles used to anchor roots. A large
-part of its makeup is organic matter in various stages of decay, along
+part of its makeup is [[hamilton-composting-and-organic-matter-management]] in various stages of decay, along
 with air and water, all essential for supporting plant and animal life.
-The soil provides a home for millions of living organisms such as soil
+The soil provides a home for millions of [[savory-living-organisms-as-tools]] such as soil
 fungi, algae, bacteria, insects, and worms, which work to provide the
 right conditions for healthy plant growth.
 
@@ -37,7 +37,7 @@ Soil is made up of three distinct layers:
   regular addition of organic matter.
 
 - **Subsoil**: Low in nutrients, generally containing few or no
-  microorganisms, and inhospitable to roots. Double digging breaks up
+  microorganisms, and inhospitable to roots. [[comparison-double-digging-vs-no-till]] breaks up
   subsoil and improves drainage without bringing it to the surface.
 
 - **Parent material**: The original mineral from which the soil was

@@ -35,7 +35,7 @@ Despite its ecological impact, the species remains commercially available as an 
 
 **Authority:** Linnaeus published the species in 1762 based on specimens from the Black Sea coast of Turkey.
 
-The invasive populations in Britain and Ireland are primarily hybrids between *R. ponticum* ssp. *ponticum* and the Iberian endemic *R. ponticum* ssp. *baeticum*, with additional introgression from *R. catawbiense* and *R. maximum* (North American species introduced for ornamental breeding).
+The invasive populations in Britain and Ireland are primarily hybrids between *R. ponticum* ssp. *ponticum* and the Iberian endemic *R. ponticum* ssp. *baeticum*, with additional introgression from *R. catawbiense* and *R. maximum* ([[growing-gourmet-north-american-reishi-species]] species introduced for ornamental breeding).
 
 **Leaves** are evergreen, broadly elliptic to oblanceolate, 10–20 cm long and 3–6 cm wide. The upper surface is dark green and glossy; the lower surface is pale green with a dense indumentum of scales.
 
@@ -63,7 +63,7 @@ Outside its native range, the species has naturalized in parts of France, Belgiu
 
 **Habitat** in invasive range includes acid oak-woodland, coniferous plantations, heathland, peat bog margins, and riparian corridors. It tolerates deep shade and can establish beneath closed forest canopy.
 
-The species thrives in acidic soils (pH 3.5–6.0) with high organic matter content and abundant moisture. It is intolerant of calcareous soils.
+The species thrives in acidic soils (pH 3.5–6.0) with high [[hamilton-composting-and-organic-matter-management]] content and abundant moisture. It is intolerant of calcareous soils.
 
 ## Invasive Species Status
 
@@ -73,11 +73,11 @@ The species spreads both vegetatively (layering, root suckers) and by seed. Matu
 
 Seedlings establish most readily on disturbed ground, but the species also colonizes closed-canopy woodland through its shade tolerance. Once established, it forms dense monocultures that exclude virtually all other vegetation.
 
-Control methods include mechanical cutting (requires follow-up treatment), herbicide application (glyphosate or triclopyre), and biological control research targeting the leaf-feeding weevil *Polydrusus sericeus*.
+Control methods include mechanical cutting (requires follow-up treatment), herbicide application (glyphosate or triclopyre), and [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] research targeting the leaf-feeding weevil *Polydrusus sericeus*.
 
 The species is particularly problematic in native oak-woodland and Atlantic oak-woodland habitats, where it replaces the rich ground flora that characterizes these conservation-priority communities.
 
-Eradication is extremely difficult due to the extensive soil seed bank, which can remain viable for 2–3 years, and the plant's ability to resprout from cut stumps.
+Eradication is extremely difficult due to the extensive soil [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]], which can remain viable for 2–3 years, and the plant's ability to resprout from cut stumps.
 
 ## Toxicity and Chemistry
 
@@ -97,20 +97,22 @@ The nectar is also toxic to honeybees (*Apis mellifera*), though bumblebees (*Bo
 
 Despite its invasive impact, *R. ponticum* provides some ecological value in the landscapes where it has naturalized. The dense evergreen canopy offers winter shelter for birds and small mammals.
 
-The early spring flowers provide an important nectar source for bumblebees and other long-tongued insects at a time when few other plants are in bloom.
+The [[coleman-overwintered-onions-and-early-spring-crops]] flowers provide an important nectar source for bumblebees and other long-tongued insects at a time when few other plants are in bloom.
 
 Several Lepidoptera species have adapted to use *R. ponticum* as a larval host plant in its invasive range, including the rhododendron leafhopper (*Graphocephala fennahi*) and the chestnut-leaf miner (*Cameraria ohridella*).
 
 The species significantly reduces plant diversity beneath its canopy. Studies in British woodlands have documented 80–90% reductions in ground flora species richness under *R. ponticum* thickets compared to adjacent uninvaded areas.
 
-The dense leaf litter of *R. ponticum* produces an acidic mulch that further inhibits germination of competing plant species, creating a positive feedback loop that reinforces its dominance.
+The dense [[dighton-fungal-decomposition-leaf-litter-dynamics]] of *R. ponticum* produces an acidic mulch that further inhibits germination of competing plant species, creating a positive feedback loop that reinforces its dominance.
 
 Soil microbial communities beneath *R. ponticum* thickets show altered mycorrhizal associations and reduced decomposition rates compared to native woodland, potentially affecting long-term soil fertility.
 
 ## See Also
 
+- [[rhododendron-ferrugineum]]
+
 - [[kalmia-angustifolia]]
 - [[vaccinium-myrtillus]]
-- [[arctostaphylos-uva-ursi]]
+- arctostaphylos-uva-ursi
 - [[calluna-vulgaris]]
 - [[quercus-robur]]

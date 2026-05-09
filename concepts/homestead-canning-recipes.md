@@ -9,11 +9,11 @@ sources: []
 
 # Homestead Canning Recipes
 
-Canning preserves homestead harvests for year-round use. Two methods exist: water-bath canning (high-acid foods, pH below 4.6) and pressure canning (low-acid foods). Botulism risk makes strict adherence to tested recipes non-negotiable.
+Canning preserves homestead harvests for year-round use. Two methods exist: water-bath canning (high-acid foods, pH below 4.6) and [[comparison-pressure-canning-vs-water-bath-canning]] (low-acid foods). Botulism risk makes strict adherence to tested recipes non-negotiable.
 
 ## Equipment
 
-- Pressure canner (not a pressure cooker -- must have a dial gauge or weighted gauge)
+- [[pf-tek-pressure-canner-sterilization]] (not a pressure cooker -- must have a dial gauge or weighted gauge)
 - Water-bath canner with rack
 - Mason jars (regular or wide-mouth) and two-piece lids
 - Jar lifter, headspace tool, bubble remover, funnel

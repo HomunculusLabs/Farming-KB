@@ -30,7 +30,7 @@ The barbiturate scheduling was the only infinite, open-ended chemical classifica
 
 Specific Contradictions Shulgin Documented
 
-Lysergic acid and lysergic acid amide were listed as depressants (Schedule III), but Shulgin noted this classification was "pharmacologically improper." Their sole reason for inclusion was serving as precursors for LSD synthesis. As precursors, they could legally be placed in the same or higher schedule than the drug producible from them. Yet LSD itself was Schedule I while its precursors were only Schedule III -- a clear inversion of control logic.
+[[ergot-and-lysergic-acid-history]] and lysergic [[lysergic-acid-amide-containing-plants-halpern]] were listed as depressants (Schedule III), but Shulgin noted this classification was "pharmacologically improper." Their sole reason for inclusion was serving as precursors for LSD synthesis. As precursors, they could legally be placed in the same or higher schedule than the drug producible from them. Yet LSD itself was Schedule I while its precursors were only Schedule III -- a clear inversion of control logic.
 
 Apomorphine was listed as an opium component, but Shulgin pointed out it was actually a chemical conversion product of morphine, was emetic in action, and had no analgesic or abuse potential. Its inclusion was "pharmacologically capricious."
 
@@ -56,7 +56,7 @@ He noted that the thebaine-derived oripavine analogs could achieve 10,000-fold p
 
 Legal Precursor Paradoxes
 
-Shulgin highlighted that many precursors to scheduled drugs were themselves unscheduled or only lightly controlled. Phenylacetone, the recognized precursor to amphetamine and methamphetamine, was noted at all supply sources as a potential illicit precursor but was not itself a controlled chemical, costing less than $10 per pound. Ecgonine (Schedule II) served as a cocaine precursor but was classified as a stimulant rather than a precursor. Lysergic acid amide (Schedule III) was readily available from morning glory seeds despite being a Schedule I drug precursor.
+Shulgin highlighted that many precursors to scheduled drugs were themselves unscheduled or only lightly controlled. Phenylacetone, the recognized precursor to amphetamine and methamphetamine, was noted at all supply sources as a potential illicit precursor but was not itself a controlled chemical, costing less than $10 per pound. Ecgonine (Schedule II) served as a cocaine precursor but was classified as a stimulant rather than a precursor. Lysergic acid amide (Schedule III) was readily available from [[golden-guide-morning-glory-and-ololiuqui]] seeds despite being a Schedule I drug precursor.
 
 Pharmaceutical Exemptions
 
@@ -67,6 +67,8 @@ Shulgin's Proposed Approach
 Rather than either the specificity or generality approach, Shulgin implicitly advocated for a predictive framework: understanding the chemical families with open-ended modification potential and preparing to recognize and respond to new compounds as they emerge, rather than attempting to legislatively enumerate all possible future drugs. His paper served as both a map of these vulnerable chemical families and a demonstration of why current scheduling approaches were structurally inadequate to the task.
 
 ## See Also
+
+- [[shulgin-future-psychedelics-research-predictions]]
 - [[shulgin-future-drugs]]
 - [[mckenna-heroin-cocaine-and-synthetic-drugs]]
 - [[controlled-substances-act-and-psychedelic-research]]
@@ -94,4 +96,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -14,14 +14,14 @@ Dighton (2003) provides a comprehensive treatment of how fungi drive leaf litter
 decomposition, emphasizing the succession of fungal species on decomposing
 substrates, the role of litter chemistry in governing decomposition rates, and
 the interactions between fungi and other soil organisms. The decomposition
-process is a cascade mediated by fungal enzymatic activity, resource quality,
+process is a cascade mediated by fungal enzymatic activity, [[fungal-decomposition-resource-quality-determinants]],
 and competitive interactions among species.
 
 ## Resource Quality and Decomposition Rate
 
 The chemical composition of leaf litter is the primary determinant of its
 resistance to decomposition. The C:N and lignin:N ratios serve as key
-predictors of decomposition rate and nitrogen mineralization. Where C:N or
+predictors of decomposition rate and [[fungal-nitrogen-mineralization-pathways]]. Where C:N or
 lignin:N ratios are high, decomposition rates are reduced. Herbaceous leaf
 litter ranges from 15:1 to 160:1 in C:N ratio, while tree leaf litter ranges
 from 20:1 to 300:1. Secondary plant metabolites, particularly polyphenols and
@@ -57,7 +57,7 @@ basidiomycete colonization related to cellulose and lignin loss.
 **Stage 3 — Late-stage colonizers:** Mycorrhizal fungi enter along with soil
 arthropods, exploiting more recalcitrant materials. The close association
 between mycorrhizal fungi and decomposing organic matter has been shown for
-both ectomycorrhizal and arbuscular mycorrhizal associations.
+both ectomycorrhizal and [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] associations.
 
 ## The Swift et al. (1979) Model
 
@@ -75,7 +75,7 @@ enzymes. Diversity thus decreases through the decomposition cascade.
 Different enzyme systems degrade specific plant compounds. Sinsabaugh and
 Liptak (1997) compiled a comprehensive list:
 
-- **Lignin**: Lignin peroxidase, manganese peroxidase, glucose oxidase,
+- **Lignin**: [[fungal-lignin-peroxidase-veratryl-alcohol]], [[fungal-manganese-peroxidase-remediation]], glucose oxidase,
   cellobiose oxidase, arylalcohol oxidase, glyoxaloxidase, laccases
 - **Cellulose**: Exo-1,4-beta-glucanase, endo-1,4-beta-glucanase,
   1,4-beta-glucosidases
@@ -119,7 +119,7 @@ depended on patch size. Microscopic FT-IR spectroscopy studies (Mascarenhas
 et al., 2000; Dighton et al., 2001) reveal real-time microscale (100 x 100
 micrometer) changes in leaf surface carbohydrate chemistry caused by fungal
 colonization. Scaling these observations from the leaf litter patch scale to
-ecosystem-level nutrient cycling remains an unresolved challenge.
+ecosystem-level [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] remains an unresolved challenge.
 
 In tropical forests, approximately 7% of total leaf litter fall is trapped in
 the canopy by fungal hyphae and rhizomorphs of Marasmius and Marasmiellus
@@ -138,8 +138,6 @@ groups parallels changes in the chemical composition of plant residues.
 
 ## See Also
 
-- [[fungi-forest-fire-succession-litter-dighton]]
-- [[dighton-wood-decay-ecosystem-carbon]]
 - [[fungi-forest-fire-succession-litter-dighton]]
 - [[dighton-wood-decay-ecosystem-carbon]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

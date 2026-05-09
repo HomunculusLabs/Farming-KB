@@ -24,11 +24,11 @@ associated with intoxication caused by the fungus Claviceps, which grows
 parasitically on certain cereals.
 
 The kykeon was the potion consumed during the culminating phase of the
-Eleusinian initiation. Its preparation involved barley, water, and
+[[set-and-setting-eleusinian-initiation-methodology]]. Its preparation involved barley, water, and
 pennyroyal (Mentha pulegium), but Schultes and Hofmann argue that the
 psychoactive component came from ergot-contaminated grain. By far the most
 important species of Claviceps is C. purpurea, the ergot of rye, though the
-Greek formulation likely used wild grass species rather than cultivated rye.
+Greek formulation likely used [[jadam-cover-crop-wild-grass-symbiosis]] species rather than cultivated rye.
 
 See also: [[kykeon-potion-and-ergot-hypothesis-at-eleusis]]
 
@@ -43,7 +43,7 @@ pharmacological properties intimately.
 
 See also: [[wasson-hofmann-ruck-collaboration]], [[ergot-fungus]], [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]],
 [[soma-vedic-history]], [[amanita-muscaria-cultural-history]],
-albert hofmann, richard evans schultes updated
+albert hofmann, richard [[richard-evans-schultes-updated]] updated
 ## Practical Considerations
 
 When working with Kykeon Elixir in Plants of the Gods, several practical factors should be
@@ -60,7 +60,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +102,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

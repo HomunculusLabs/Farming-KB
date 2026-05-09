@@ -13,7 +13,7 @@ sources:
   - Das, S. et al. (2022). "Curcuma caesia Roxb.: A review on phytochemistry, ethnobotany, and pharmacology." Journal of Ethnopharmacology, 285, 114836.
   - Singh, R. et al. (2020). "Pharmacological potential of black turmeric (Curcuma caesia)." Phytomedicine, 68, 153183.
   - Pandey, M.K. & Sharma, P.K. (2019). "Ethnomedicinal uses of Curcuma species in tribal communities of Northeast India." Indian Journal of Traditional Knowledge, 18(2), 354-362.
-  - Kumar, V. et al. (2018). "Curcuminoids and essential oil composition of Curcuma caesia from Manipur." Industrial Crops and Products, 122, 295-301.
+  - Kumar, V. et al. (2018). "Curcuminoids and [[permaculture-designers-manual-essential-oil-plants]] composition of Curcuma caesia from Manipur." Industrial Crops and Products, 122, 295-301.
   - Sakurai, K. et al. (2021). "Anti-inflammatory activity of Curcuma caesia rhizome extract." Natural Product Communications, 16(7).
 ---
 
@@ -55,7 +55,7 @@ Black turmeric is native to the Indian subcontinent. Its natural range extends a
 
 The species is also reported from Bangladesh, Myanmar, and Thailand, though these populations are less studied. Some taxonomic uncertainty exists regarding Southeast Asian specimens attributed to *C. caesia*.
 
-It typically grows at elevations of 100–900 meters. The plant thrives in moist, well-drained loamy soils rich in organic matter, often in partial shade under forest canopy.
+It typically grows at elevations of 100–900 meters. The plant thrives in moist, well-drained loamy soils rich in [[hamilton-composting-and-organic-matter-management]], often in partial shade under forest canopy.
 
 Natural habitats include tropical and subtropical moist deciduous forests, forest margins, and grassy slopes. It prefers warm, humid conditions with annual rainfall of 1500–3000 mm.
 
@@ -70,10 +70,10 @@ The dark pigmentation is attributed to a combination of curcuminoids and anthocy
 **Pharmacological studies demonstrate:**
 
 - **Anti-inflammatory activity:** Rhizome extracts inhibit COX-2 and TNF-α pathways in vitro, comparable to standard curcumin at equivalent doses.
-- **Antimicrobial effects:** Essential oil shows activity against *Staphylococcus aureus*, *Escherichia coli*, and *Candida albicans* with MIC values of 0.5–2 mg/mL.
-- **Antioxidant capacity:** DPPH and ABTS assays show strong free-radical scavenging, attributed to the synergistic effect of curcuminoids and volatile compounds.
+- **Antimicrobial effects:** Essential oil shows activity against *Staphylococcus aureus*, *Escherichia coli*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* with MIC values of 0.5–2 mg/mL.
+- **Antioxidant capacity:** DPPH and ABTS assays show strong free-radical scavenging, attributed to the synergistic effect of curcuminoids and [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]].
 - **Analgesic properties:** Animal models confirm significant pain-relieving effects at doses of 200–400 mg/kg body weight.
-- **Anticancer potential:** Preliminary in vitro studies indicate cytotoxicity against breast and colon cancer cell lines, though clinical data is lacking.
+- **Anticancer potential:** Preliminary in vitro studies indicate cytotoxicity against breast and [[cannabis-and-colon-cancer-research]] cell lines, though clinical data is lacking.
 
 The unique curcuminoid-to-anthocyanin ratio may contribute to pharmacological effects not observed in standard turmeric preparations.
 
@@ -99,7 +99,7 @@ The crop requires 7–9 months to reach maturity. Harvesting typically occurs in
 
 Shade requirements are more pronounced than for common turmeric. The plant performs best under 30–50% shade, making intercropping with larger trees or partial canopy cover beneficial.
 
-Major challenges include rhizome rot caused by *Pythium* and *Fusarium* species, and viral diseases transmitted by aphids. Storage losses are significant due to the rhizome's high moisture content.
+Major challenges include rhizome rot caused by *Pythium* and *Fusarium* species, and [[cervantes-viral-diseases-cannabis]] transmitted by aphids. Storage losses are significant due to the rhizome's high moisture content.
 
 Conservation through cultivation is increasingly promoted. Several Indian agricultural universities have developed improved propagation techniques to reduce pressure on wild populations.
 

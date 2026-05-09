@@ -16,7 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Leafly Strain Database"
-  - "AllBud Cannabis Strain Reviews"
+  - "AllBud [[blesching-cannabis-strain-selection-receptor-targeting]] Reviews"
   - "Wikileaf Strain Information"
 ---
 
@@ -30,14 +30,14 @@ competitions. Its name references both the pronounced grape terpene profile and
 its ability to overwhelm even seasoned consumers with its potency — hence
 "ape." THC content typically ranges from 15–23%, with some phenotypes testing
 higher. The effects are heavily physical, making it a popular choice among
-medical patients managing chronic pain, insomnia, muscle spasms, and anxiety.
+medical patients managing [[cannabis-chronic-pain-management]], insomnia, muscle spasms, and anxiety.
 
 ## Lineage and Genetics
 - **Parent 1:** Mendocino Purps (indica-dominant, purple phenotype, Northern
   California heritage)
 - **Parent 2:** Skunk #1 or Skunk lineage (balanced hybrid, pungent aroma,
   cerebral contribution)
-- **Parent 3:** Afghani (pure indica, resin production, sedative body stone)
+- **Parent 3:** Afghani (pure indica, [[cannabis-glandular-trichome-types-resin-production-clarke]], sedative body stone)
 - **Breeder:** Apothecary Genetics, California
 - **Genetic Ratio:** Approximately 70–80% indica / 20–30% sativa
 - **Ploidy:** Diploid (standard)
@@ -61,7 +61,7 @@ sticky, resinous texture.
   exhale with a lingering skunky finish
 - **Smoke:** Thick, smooth, slightly expansive in the lungs
 The grape aroma intensifies as buds cure properly, peaking around 4–6 weeks of
-drying and curing.
+[[comparison-cannabis-drying-and-curing-vs-flushing-before-harvest]].
 
 ## Cannabinoid and Terpene Profile
 ### Cannabinoids
@@ -95,7 +95,7 @@ drying and curing.
 ### Medical Applications
 - **Insomnia:** Strong sedative properties make it effective for sleep onset
 - **Chronic pain:** Full-body analgesia for neuropathic and musculoskeletal pain
-- **Anxiety and PTSD:** Calming effects reduce racing thoughts and hyperarousal
+- **[[cannabis-anxiety-and-ptsd-treatment]]:** Calming effects reduce racing thoughts and hyperarousal
 - **Muscle spasms:** Antispasmodic relief for MS, fibromyalgia, and cramps
 - **Appetite stimulation:** Useful for cachexia, nausea, and eating disorders
 - **Stress relief:** General anxiolytic and mood-stabilizing properties
@@ -131,7 +131,7 @@ drying and curing.
 Grape Ape has been a West Coast staple since the late 2000s and holds a
 dedicated following among both recreational and medical consumers. Its vivid
 purple buds have made it one of the most visually recognizable strains in
-cannabis culture. The strain has been featured in multiple High Times Cannabis
+[[mckenna-cannabis-culture-history]]. The strain has been featured in multiple High Times Cannabis
 Cup competitions and remains a consistent dispensary favorite. Grape Ape has
 also served as a genetic building block in modern breeding, contributing to
 crosses like Grape Cream Cake, Grape Stomper, and various purple-leaning hybrid

@@ -24,7 +24,7 @@ Mochi, also known as Mochi Gelato or Gelato 47, is a balanced hybrid cannabis st
 
 The strain is named for its dense, trichome-frosted buds that resemble Japanese mochi rice cakes in their pale, powdery appearance. It has earned a reputation for potent, relaxing effects paired with a sweet, dessert-like flavor profile.
 
-Mochi has won or placed in multiple cannabis competitions, contributing to its popularity in legal markets across North America.
+Mochi has won or placed in multiple cannabis competitions, contributing to its popularity in legal markets across [[psilocybin-north-america-pacific-northwest]].
 
 ## Lineage
 
@@ -94,19 +94,19 @@ Users commonly reach for Mochi for evening or late-day use due to its relaxing c
 
 ## Cultivation
 
-Mochi is considered a moderately challenging strain to grow, requiring attention to environmental control and nutrient management.
+Mochi is considered a moderately challenging strain to grow, requiring attention to [[eclss-environmental-control-life-support]] and [[green-cannabis-grow-bible-nutrient-management-ppm]].
 
 The plants perform well in both indoor and outdoor settings, though indoor cultivation allows better control of the purple coloration development.
 
 Flowering time is approximately 8–10 weeks indoors, with outdoor harvest typically ready by mid-October in northern hemisphere temperate climates.
 
-Indoor yields average 300–400 g/m² under optimal conditions with training techniques such as SCROG or LST.
+Indoor yields average 300–400 g/m² under optimal conditions with [[cannabis-training-techniques-comparison]] such as SCROG or LST.
 
 The plants respond well to low-stress training and tend to develop a bushy canopy that benefits from early topping.
 
-Temperature control during the late flowering phase (dropping nighttime temperatures to 15–18°C) enhances anthocyanin production and purple coloration.
+Temperature control during the late [[green-cannabis-grow-bible-flowering-phase-and-harvest]] (dropping nighttime temperatures to 15–18°C) enhances anthocyanin production and purple coloration.
 
-Nutrient requirements are moderate to heavy during the vegetative stage; the strain is sensitive to overfeeding during flowering.
+Nutrient requirements are moderate to heavy during the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]; the strain is sensitive to overfeeding during flowering.
 
 ## Medical Applications
 

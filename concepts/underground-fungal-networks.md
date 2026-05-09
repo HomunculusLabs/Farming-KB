@@ -28,16 +28,16 @@ roots. In [[mycelium-as-natures-internet]]
 - [[mycelium-running-stamets-fungal-ecology-networks]]
 - [[mycelial-networks]](mycelium-network.md)
 - [[fungal-symbiosis-with-plants]](fungal-symbiosis-with-plants.md)
-- [Fungal Pathogens and Human Disease]([[fungal-life-cycles]](fungal-life-cycles.md)
+- [[bloomfield-fungal-pathogens-and-parasites]] and Human Disease]([[fungal-life-cycles]](fungal-life-cycles.md)
 
 ## References
 
 - Money, N. P. (2002). *Mr. Bloomfield's Orchard: The Mysterious World
   of Mushrooms, Molds, and Mycologists*. Oxford University Press.
-  Chapter 3: What Lies Beneath.
+  Chapter 3: What [[bloomfield-what-lies-beneath-mycelial-architecture-hyphal-biology-subterranean-fungus]].
 - Webster, J. (1980). *Introduction to Fungi*. Cambridge University
   Press.
-- Smith, S. E. & Read, D. J. (2008). *[[mycorrhizal-symbiosis]]*, 3rd
+- Smith, S. E. & Read, D. J. (2008). *mycorrhizal-symbiosis*, 3rd
   ed. Academic Press.
 ## Practical Considerations
 
@@ -55,7 +55,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -97,4 +97,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

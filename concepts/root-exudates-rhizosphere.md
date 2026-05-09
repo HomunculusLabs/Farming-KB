@@ -1,5 +1,5 @@
 ---
-title: Root Exudates and the Rhizosphere
+title: mycorrhizal-root-exudates-pathogen-interactions and the Rhizosphere
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -27,7 +27,7 @@ and on cellular material sloughed off as the plant's root tips grow.
 
 All exudate secretion and cell sloughing takes place in the rhizosphere -- a
 zone immediately around the roots extending out about a tenth of an inch (a
-couple of millimeters). Under an electron microscope, the rhizosphere looks
+couple of millimeters). Under an [[bloomfield-ascospore-extreme-resilience-electron-microscope-survival]], the rhizosphere looks
 like jelly or jam. It contains a constantly changing mix of soil organisms
 including bacteria, fungi, [[protozoa-roles-in-soil]], all competing for exudates, water, and
 minerals.
@@ -38,8 +38,8 @@ At the center of any viable soil food web are plants. Plants control the food
 web for their own benefit -- an amazing fact too little understood by
 gardeners. Studies show that individual plants can control the numbers and
 kinds of fungi and bacteria attracted to the rhizosphere by the exudates they
-produce. During different times of the growing season, populations of
-rhizosphere bacteria and fungi wax and wane depending on the nutrient needs
+produce. During different times of the [[savory-growing-season-and-non-growing-season-management]], populations of
+[[lowenfels-rhizosphere-bacteria-plant-interaction]] and fungi wax and wane depending on the nutrient needs
 of the plant and the exudates it produces.
 
 ## The Nutrient Cycling Loop
@@ -86,3 +86,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[mycorrhiza-root-exudates]]

@@ -105,11 +105,11 @@ Spirulina is cultivated in open raceway ponds or closed photobioreactors.
 Optimal growth occurs at pH 8.5-11, temperatures of 25-38°C, and high light
 intensity. The alkaline environment inhibits competing microorganisms.
 
-### Permaculture and Sustainability
+### [[permaculture]] and Sustainability
 
 - **Aquaculture integration**: Nutrient-rich wastewater from fish farms
   serves as growth medium.
-- **Carbon sequestration**: Fixes CO₂ at ~10× the rate of terrestrial
+- **[[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]**: Fixes CO₂ at ~10× the rate of terrestrial
   plants per unit area.
 - **Land efficiency**: More protein per hectare than soy, corn, or cattle.
 - **Bioremediation**: Treats municipal and agricultural wastewater while
@@ -132,19 +132,17 @@ and interferon-gamma production.
 
 ### Metabolic Effects
 
-Clinical trials demonstrate reduced fasting blood glucose, HbA1c, and lipid
+[[mushroom-cancer-clinical-trials-overview]] demonstrate reduced fasting blood glucose, HbA1c, and lipid
 profiles (total cholesterol, LDL, triglycerides) in type 2 diabetes and
-metabolic syndrome. Mechanisms include increased insulin sensitivity and
+[[cannabis-metabolic-syndrome-research]]. Mechanisms include increased insulin sensitivity and
 inhibition of hepatic gluconeogenesis.
 
 ### Heavy Metal Chelation
 
-Spirulina acts as a biosorbent for lead, cadmium, mercury, and arsenic due
-to surface binding sites on cell wall polysaccharides. Used adjunctively for
 ## See Also
 
 - [[dom]]
-- [[permaculture]]
+- permaculture
 
 ## See Also
 

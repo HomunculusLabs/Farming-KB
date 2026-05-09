@@ -1,11 +1,12 @@
 ---
-title: Fukuoka Quarter Acre Farmer Do Nothing Farming
+title: Fukuoka fukuoka-agriculture-tomorrow-quarter-acre-vision Farmer Do do-nothing-farming-method
 created: 2026-04-18
 updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Quarter-Acre Farmer and Do-Nothing Farming
@@ -14,13 +15,13 @@ updated: 2026-18
 
 Fukuoka's vision of the "quarter-acre farmer" represents the practical application of his [[fukuoka-seed-ball-methods-advanced]] containing seed rice
 7. Scatter pellets over straw before New Year
-8. Nothing left to do until winter grain harvest
+8. Nothing left to do until [[direct-seeded-no-tillage-rice-winter-grain-succession]] harvest
 
 The labor of one or two people is more than enough for a quarter-acre.
 
 ## The Philosophy of Mu
 
-Natural farming originates in the philosophy of "Mu," or nothingness, and returns to a "do-nothing" nature. This is not laziness or abandonment but a profound trust in nature's wisdom. The objective of natural farming is non-action and a return to nature.
+[[comparison-natural-farming-vs-permaculture]] originates in the philosophy of "Mu," or nothingness, and returns to a "do-nothing" nature. This is not laziness or abandonment but a profound trust in nature's wisdom. The objective of natural farming is non-action and a [[emcdda-return-to-nature-megatrend-mushroom-appeal]].
 
 The "do-nothing" age of consolidation and convergence has arrived. Man must hurry to establish a new way of life and a spiritual culture founded on communion with nature rather than consumption and exploitation.
 
@@ -57,7 +58,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,4 +100,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

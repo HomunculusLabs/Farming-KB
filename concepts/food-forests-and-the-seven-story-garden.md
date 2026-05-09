@@ -6,7 +6,7 @@ A food forest, also called a forest garden, is a multi-layered edible landscape 
 the structure and function of a natural forest. It produces food, fuel, fiber, medicine, and
 habitat for people and wildlife within a self-sustaining ecosystem.
 
-The concept arises from ecological succession: the end result of succession nearly everywhere
+The concept arises from [[holmgren-ecological-succession-and-pulsing]]: the end result of succession nearly everywhere
 is forest. A suburban yard with water and no mowing will naturally become woodland. Instead of
 fighting this trend, permaculture works with it to create productive, food-bearing forests.
 
@@ -42,7 +42,7 @@ Regional climate matters significantly. Northern gardens need more open spacing 
 sun's angle is lower. Southern gardens can support denser planting without sacrificing
 understory productivity.
 
-On hilly land, forest gardens are the most ecologically sound way to develop slopes.
+On hilly land, [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] are the most ecologically sound way to develop slopes.
 
 Garden shape can vary depending on site conditions. A U-shape facing the sun creates a warm
 sun-trap microclimate. Symmetric layouts offer formal beauty, while asymmetric designs follow
@@ -61,7 +61,7 @@ The system is mostly perennial and self-seeding, eliminating tilling and dramati
 seasonal replanting labor. Soil structure remains intact year after year, building long-term
 fertility rather than depleting it.
 
-Biodiversity rebounds quickly. Birds, beneficial insects, amphibians, and other wildlife
+Biodiversity rebounds quickly. Birds, [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], amphibians, and other wildlife
 return to the layered habitat, providing natural pest control and pollination services.
 
 Production spans the full calendar. Cool-season greens provide winter harvests, berries arrive
@@ -75,8 +75,8 @@ indigenous cultures developed sophisticated multi-layered polycultures long befo
 agriculture. Early European anthropologists often did not recognize these as gardens because
 they looked "untamed" compared to conventional row-cropped fields.
 
-[[robert-hart]] transplanted tropical forest garden concepts to temperate gardens in the late
-twentieth century. His book *Forest Gardening* was the first comprehensive guide for the
+robert-hart transplanted [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] garden concepts to temperate gardens in the late
+[[coleman-louis-savier-twentieth-century-maraicher]]. His book *Forest Gardening* was the first comprehensive guide for the
 Northern Hemisphere. Patrick Whitefield followed with *How to Make a Forest Garden*, adapted
 for a British audience.
 
@@ -101,7 +101,7 @@ terraces absorb heat, soften temperature swings, and fight frost.
 His "companieros" system groups guild plants by function: nitrogen fixers (pea shrubs, fava
 beans, clovers, fenugreek, alfalfa), bee plants (borage, comfrey), insectary species (fennel,
 celery, dill, coriander), and pest-confusers (horseradish, Mexican marigold, garlic mustard).
-Medicinal herbs serve as a market crop: echinacea, St. John's-wort, astragalus, and
+[[permaculture-plants-medicinal-herbs-healing]] serve as a market crop: echinacea, St. John's-wort, astragalus, and
 artemisia. His work shows food forests can be economically viable at extreme elevations.
 ## See Also
 
@@ -110,3 +110,5 @@ artemisia. His work shows food forests can be economically viable at extreme ele
 - [Ecological Succession](ecological-succession.md)
 - [Agroforestry](agroforestry.md)
 - [Forest Gardening](forest-gardening.md)
+- [[forest-gardens]]
+- [[jerusalem-artichoke]]

@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Network Chemical Signaling and Plant Communication
+title: Mycorrhizal Network plant-hormones-and-chemical-signaling-systems and Plant Communication
 created: 2026-04-28
 tags: [mycorrhizal-networks, plant-signaling, allelopathy, defense-priming]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: concept
 
 # Mycorrhizal Network Chemical Signaling and Plant Communication
 
-The common mycelial network (CMN), formed by interconnecting hyphae of
+The common [[gadd-mycelial-network-dynamics]] (CMN), formed by interconnecting hyphae of
 [[mycorrhizal-fungi]] establish extensive hyphal networks in soil that
 simultaneously colonize the roots of neighboring plants. A single fungal
 genet can connect dozens of individual plants across meters of soil:
@@ -22,7 +22,7 @@ genet can connect dozens of individual plants across meters of soil:
   continuous cytoplasmic pathways for resource and signal transmission
 - The network provides both direct hyphal connections between plants and
   indirect pathways through shared soil pore water
-- CMN architecture varies with fungal species, plant community composition,
+- CMN architecture varies with fungal species, plant [[core-endorhiza-bacterial-community-composition-cannabis]],
   and soil physical properties
 
 Glomeromycotan fungi, the dominant AMF group, form the most extensive CMNs
@@ -34,7 +34,7 @@ through common hyphal mantles and Hartig net interfaces.
   CMNs to distribute juglone and related compounds more broadly through
   plant communities
 - Some plants appear to send inhibitory signals through CMNs to suppress
-  the growth of competing species, analogous to chemical warfare
+  the growth of competing species, analogous to [[solomon-root-exudates-and-allelopathy]]
 - The fungal partner may modify transported allelochemicals through
   enzymatic transformation, altering their biological activity
 
@@ -53,9 +53,9 @@ between connected plants:
 - Nitrogen and phosphorus move through hyphal networks from nutrient-rich
   to nutrient-poor patches, connecting plants across soil resource
   heterogeneity
-- Mother plants can provision seedlings through shared mycorrhizal networks,
+- Mother plants can provision seedlings through shared [[dighton-mycorrhizal-networks-carbon-transfer]],
   enhancing seedling establishment and survival in competitive environments
-- The magnitude of resource sharing depends on source-sink gradients,
+- The magnitude of [[mycelial-network-resource-sharing-plants]] depends on source-sink gradients,
   fungal species identity, and plant demand
 
 This resource sharing creates biological market dynamics where plants that

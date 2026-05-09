@@ -1,5 +1,5 @@
 ---
-title: Salad Crops Growing Guide
+title: Salad root-crops-growing-guide Guide
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -12,17 +12,17 @@ sources:
 
 updated: 2026-04-18
 
-Growing your own salad vegetables is particularly beneficial because their quality and flavor depends on freshness. They take up comparatively little space and most can be grown all year-round if some protection against frost is provided. Salad crops are fast-growing and not usually troubled by many pests and diseases. They all require a moisture-retentive soil.
+Growing your own [[hamilton-salad-vegetables-organic]] is particularly beneficial because their quality and flavor depends on freshness. They take up comparatively little space and most can be grown all year-round if some protection against frost is provided. Salad crops are fast-growing and not usually troubled by many [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. They all require a moisture-retentive soil.
 
 ## Lettuce (Lactuca sativa)
 
-As the prime summer salad vegetable, lettuce is considered a "must" for the vegetable garden. In most climates it can be grown almost all year-round outside and, by using cloches or cultivating in a heated greenhouse, you can harvest throughout the year.
+As the prime summer salad vegetable, lettuce is considered a "must" for the [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]. In most climates it can be grown almost all year-round outside and, by using cloches or cultivating in a heated greenhouse, you can harvest throughout the year.
 
 **Varieties:** For earliest sowings choose quick-maturing types like Tom Thumb or Buttercrunch. For successional sowing outside: Great Lakes or Avoncrisp, or Romaine varieties Paris White or Lobjoits Green Cos. For loose-head: Salad Bowl or the red-leaved Lollo Rossa. Many cut-and-come-again mixtures are available; Saladisi is a good variety.
 
 **Soil and Site:** Water-retentive soil with pH about 6.5. Grow in soil that was manured for a previous crop — freshly manured soil is too rich and likely to cause rotting at the base. All varieties need a relatively cool spot; in hot summer gardens, sow in semi-shade. No extra feeding needed. Lettuce is often interplanted between slower-maturing crops like Brussels sprouts or cabbages.
 
-**Sowing and Planting:** First sowing in seed trays in the heated greenhouse in late winter. Start seeds in trays of organic compost at 60-65F (15-18C). Transfer to a larger tray about 2in (5cm) apart when large enough to handle, growing on at about 50F (20C). When seedlings are about 2in (5cm) tall, plant out under cloches in early spring, 6in (15cm) apart in rows 6in (15cm) apart.
+**Sowing and Planting:** First sowing in seed trays in the heated greenhouse in late winter. Start seeds in trays of organic compost at 60-65F (15-18C). Transfer to a larger tray about 2in (5cm) apart when large enough to handle, growing on at about 50F (20C). When seedlings are about 2in (5cm) tall, plant out under cloches in [[coleman-overwintered-onions-and-early-spring-crops]], 6in (15cm) apart in rows 6in (15cm) apart.
 
 Continue sowing outside about every two weeks until midsummer, thinning to about 9in (23cm) apart. Use thinnings to plant another row or two. Final sowing in midsummer, covered with cloches in early fall to mature.
 
@@ -54,7 +54,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -96,4 +96,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

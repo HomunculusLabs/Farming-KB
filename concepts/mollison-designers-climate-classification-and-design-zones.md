@@ -1,5 +1,5 @@
 ---
-title: Climate Classification and Design Zones
+title: mollison designers climate classification and design zones and holmgren-site-design-zones-slopes-cellular
 created: 2026-04-28
 tags:
   - permaculture
@@ -17,7 +17,7 @@ type: concept
 # Climate Classification and Design Zones
 
 Climate is the primary determinant of [[water-management]] focuses on drainage and
-disease prevention. In semiarid climates, every drop of rain must be captured
+[[cervantes-pest-disease-prevention-overview]]. In semiarid climates, every drop of rain must be captured
 and directed to productive use.
 
 ## Tropical Climate Design
@@ -25,9 +25,9 @@ and directed to productive use.
 Tropical climates (Koppen A groups) are subdivided into equatorial wet, tropical
 monsoonal, and tropical savanna. Year-round warmth eliminates frost risk but
 introduces challenges of heavy seasonal rainfall, leaching, pest pressure, and
-soil organic matter depletion. Design strategies include layered food forests,
+soil [[hamilton-composting-and-organic-matter-management]] depletion. Design strategies include layered food forests,
 raised beds for drainage, mulch systems to protect soil biology, and
-integration of livestock for nutrient cycling.
+integration of livestock for [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 In wet-dry tropical zones, design must accommodate pronounced wet and dry
 seasons. Water harvesting during the wet season supports dry-season production.
@@ -58,7 +58,7 @@ Continental climates (Koppen D groups) have large annual temperature ranges,
 with hot summers and cold winters. Short growing seasons of 90 to 150 days
 demand efficient use of warm months. Design strategies include: maximising
 solar gain with south-facing slopes, using thermal mass and shelterbelts,
-selecting early-maturing varieties, and employing season extension with
+selecting early-maturing varieties, and employing [[comparison-season-extension-techniques-vs-cold-frame-gardening]] with
 cloches, cold frames, and greenhouses.
 
 Perennial systems focus on cold-hardy fruits and nuts: apples, pears, plums,
@@ -67,6 +67,8 @@ species choice. The result is a design that works with climate rather than
 against it, reducing energy inputs and increasing resilience.
 
 ## See Also
+
+- mollison-designers-resources-classification-and-yields
 
 - [[mollison-designers-house-design-climate-zones]]
 - [[mollison-designers-snow-ice-and-winter-design-strategies]]
@@ -88,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

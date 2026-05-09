@@ -1,5 +1,5 @@
 ---
-title: Inocybe aeruginascens Profile
+title: gartz-inocybe-aeruginascens-distribution-and-psychoactivity Profile
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -31,7 +31,7 @@ lowest degrees of variability in psilocybin content across samples from differen
 locations.
 
 The species contains only trace amounts of psilocin, which explains its
-relatively weak bluing reaction compared to species like
+relatively weak [[field-guide-psilocybin-bluing-reaction-identification]] compared to species like
 [[psilocybe-cubensis-potency-variation-by-flush]].
 
 ### Iron Chloride Test
@@ -74,7 +74,7 @@ Inocybe species contain dangerous levels of muscarine and other toxins. The risk
 of fatal misidentification is significant. Only experienced mycologists should
 attempt to collect or identify any Inocybe species for any purpose. The
 greenish tint and weak bluing reaction are insufficient for reliable
-identification — microscopic examination of spore ornamentation and cystidia is
+identification — [[fungal-microscopic-examination-mounting-media-techniques]] of spore ornamentation and cystidia is
 essential.
 
 ## See Also

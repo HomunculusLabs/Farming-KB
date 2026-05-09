@@ -1,5 +1,5 @@
 ---
-title: Hamilton Crop Rotation and Vegetable Planning
+title: Hamilton Crop Rotation and hamilton-vegetable-planning-rotation
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -12,18 +12,18 @@ sources:
 
 ## Overview
 
-Crop rotation is a fundamental practice in organic gardening that prevents soil exhaustion, breaks pest and disease cycles, and maintains soil fertility. The organic garden requires careful planning of what to grow where and when, considering the nutritional demands of different crop families and their relationship to previous plantings.
+Crop rotation is a fundamental practice in [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] that prevents soil exhaustion, breaks [[hamilton-pest-and-disease-control-organic]] cycles, and maintains soil fertility. The organic garden requires careful planning of what to grow where and when, considering the nutritional demands of different crop families and their relationship to previous plantings.
 
 ## Principles of Crop Rotation
 
-The basis of rotation is to avoid growing the same family of vegetables on the same piece of ground in successive years. Different plant families have different nutritional requirements and are susceptible to different pests and diseases. By rotating crops, soil nutrients are used more evenly and pathogen populations are disrupted.
+The basis of rotation is to avoid growing the same family of vegetables on the same piece of ground in successive years. Different plant families have different nutritional requirements and are susceptible to different [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. By rotating crops, soil nutrients are used more evenly and pathogen populations are disrupted.
 
 ## Main Crop Families
 
 ### Brassicas (Cabbage Family)
 - Cabbage, broccoli, cauliflower, kale, Brussels sprouts, kohlrabi, turnips, swedes, radishes
 - High nitrogen feeders
-- Follow legumes in rotation (which fix nitrogen)
+- Follow legumes in rotation (which [[query-how-to-fix-nitrogen-toxicity-in-cannabis]])
 - Common pests: cabbage root fly, cabbage white butterfly, club root
 - Protect with carpet pads around transplants, bird netting, and crop covers
 
@@ -35,7 +35,7 @@ The basis of rotation is to avoid growing the same family of vegetables on the s
 
 ### Root Vegetables
 - Potatoes, carrots, parsnips, beets, Jerusalem artichokes, salsify, scorzonera, celeriac
-- Potatoes: heavy feeders, earth up main crop twice during growing season, spray against blight at two-week intervals, burn foliage if blight present, dig and store in autumn
+- Potatoes: heavy feeders, earth up main crop twice during [[savory-growing-season-and-non-growing-season-management]], spray against blight at two-week intervals, burn foliage if blight present, dig and store in autumn
 - Carrots: erect fly barriers around rows, sow successional crops, store in ground or lift before ground freezes
 - Parsnips and Hamburg parsley: dig up and store a few before ground freezes for winter use
 

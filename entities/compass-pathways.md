@@ -21,11 +21,11 @@ sources:
 
 # Compass Pathways
 
-Compass Pathways (NASDAQ: CMPS) is a UK-based mental health care company focused on developing psilocybin-based therapies for treatment-resistant depression (TRD). Founded in 2016, it is the most advanced publicly traded company pursuing regulatory approval for a synthetic psilocybin formulation, known as COMP360. The company has conducted the largest randomized, controlled, multi-site psilocybin clinical trial to date and received FDA Breakthrough Therapy Designation for its lead program.
+Compass Pathways (NASDAQ: CMPS) is a UK-based mental health care company focused on developing psilocybin-based therapies for treatment-resistant depression (TRD). Founded in 2016, it is the most advanced publicly traded company pursuing regulatory approval for a synthetic psilocybin formulation, known as COMP360. The company has conducted the largest randomized, controlled, multi-site psilocybin [[psilocybin-clinical-trial-landscape-2020-2025]] to date and received FDA Breakthrough Therapy Designation for its lead program.
 
 ## Founding and Leadership
 
-Compass Pathways was founded in 2016 by George Goldsmith (Chairman) and Ekaterina Malievskaia (Chief Medical Officer), a married couple who were motivated by Malievskaia’s personal experience with depression and psychedelic therapy. Kabir Nath serves as CEO. The company is headquartered in London, United Kingdom, with additional offices in New York City.
+Compass Pathways was founded in 2016 by George Goldsmith (Chairman) and Ekaterina Malievskaia (Chief Medical Officer), a married couple who were motivated by Malievskaia’s personal experience with depression and [[metzner-psycholytic-psychedelic-therapy-models]]. Kabir Nath serves as CEO. The company is headquartered in London, United Kingdom, with additional offices in New York City.
 
 Goldsmith and Malievskaia founded the company after witnessing the limitations of conventional antidepressant treatments and the promising early results from academic researchers like [[mollison-designers-road-water-harvesting-and-integration]] sessions afterward. The approach is designed for patients who have not responded to at least two prior antidepressant treatments.
 
@@ -48,13 +48,13 @@ While treatment-resistant depression remains the lead indication, Compass has ex
 
 ## Partnerships and Collaborations
 
-Compass has built a network of partnerships to support its clinical development and commercialization strategy. King’s College London has been a longstanding research partner for [[permaculture-designers-manual-education-and-training]] the therapist workforce needed to deliver psilocybin-assisted therapy at scale.
+Compass has built a network of partnerships to support its clinical development and commercialization strategy. King’s College London has been a longstanding research partner for permaculture-designers-manual-education-and-training the therapist workforce needed to deliver psilocybin-assisted therapy at scale.
 
 ## Controversies and Criticisms
 
 Compass Pathways has faced several controversies during its development:
 
-**Patenting psychedelics:** The company faced significant backlash from the psychedelic community for filing patents on psilocybin-related methods and formulations. Critics argued that patenting compounds derived from natural fungi was unethical and could restrict patient access. Compass defended the patents as necessary to fund large-scale clinical trials and ensure quality control in a pharmaceutical context.
+**Patenting psychedelics:** The company faced significant backlash from the psychedelic community for filing patents on psilocybin-related methods and formulations. Critics argued that patenting compounds derived from natural fungi was unethical and could restrict patient access. Compass defended the patents as necessary to fund large-scale [[mushroom-cancer-clinical-trials-overview]] and ensure quality control in a pharmaceutical context.
 
 **Executive compensation:** The compensation of top executives relative to the company’s pre-revenue status and declining stock price drew criticism from investors and patient advocates.
 
@@ -66,16 +66,16 @@ Despite these criticisms, Compass’s rigorous clinical trial methodology has ge
 
 ## Competitive Landscape
 
-Compass operates in an increasingly competitive psychedelic medicine landscape. Key competitors include Cybin Inc. (NYSE: CYBN), which is developing psilocybin and other psychedelic compounds; Mind Medicine MindMed (NASDAQ: MNMD), which is pursuing LSD-based therapies; and ATAI Life Sciences (NASDAQ: ATAI), a platform company with multiple psychedelic programs. The non-profit Usona Institute also maintains a competing psilocybin research program for depression.
+Compass operates in an increasingly competitive psychedelic medicine landscape. Key competitors include Cybin Inc. (NYSE: CYBN), which is developing psilocybin and other psychedelic compounds; Mind Medicine MindMed (NASDAQ: MNMD), which is pursuing LSD-based therapies; and ATAI Life Sciences (NASDAQ: ATAI), a platform company with multiple psychedelic programs. The non-profit Usona Institute also maintains a competing [[early-paris-psilocybin-research-1960s]] program for depression.
 
 ## Current Status (2025–2026)
 
 As of 2025–2026, Compass Pathways is in a critical “prove it” moment. Phase 3 results will determine whether psilocybin therapy can achieve FDA approval as a legitimate pharmaceutical treatment for treatment-resistant depression. Financial pressures remain significant with the company operating in a challenging capital markets environment. The broader psychedelic medicine field has experienced a substantial hype-to-reality correction, with many smaller companies failing or pivoting. However, Compass remains one of the best-funded and most clinically advanced companies in the sector, with the largest body of clinical evidence supporting its lead program.
 
-If Phase 3 results are positive, Compass could submit a New Drug Application (NDA) to the FDA potentially as early as 2026, which would make COMP360 the first approved psychedelic therapy in the United States.
+If Phase 3 results are positive, Compass could submit a New Drug Application (NDA) to the FDA potentially as early as 2026, which would make COMP360 the first approved psychedelic therapy in the [[dmt-containing-plants-united-states-halpern]].
 
 ## Related Entities
 
 - [[alexander-shulgin]] — psychopharmacologist who synthesized and characterized many psychedelic compounds
-- Heffter Research Institute — non-profit psychedelic research organization
+- Heffter Research Institute — non-profit [[mckenna-suppression-psychedelic-research-lsd-therapy]] organization
 - Usona Institute — non-profit psilocybin research institute

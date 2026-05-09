@@ -22,7 +22,7 @@ sources:
 
 Dictyota dichotoma is a species of brown macroalgae in the order Dictyotales, widely distributed across temperate and tropical marine coastlines. It is one of the most recognisable seaweeds in the intertidal and shallow subtidal zones of the Atlantic, Pacific, and Indian Oceans.
 
-The species is notable for its flat, dichotomously branching thallus and its prolific production of bioactive diterpenoid metabolites. These secondary metabolites have attracted significant interest for their antimicrobial, antifouling, and cytotoxic properties.
+The species is notable for its flat, dichotomously branching thallus and its prolific production of bioactive diterpenoid metabolites. These [[antifungal-secondary-metabolites-coprophilous-fungi]] have attracted significant interest for their antimicrobial, antifouling, and cytotoxic properties.
 
 Common names include netted weed, forked weed, and false ivory bush. The species epithet "dichotoma" refers to its characteristic repeated forking pattern.
 
@@ -40,7 +40,7 @@ Reproductive structures include separate male (antheridia) and female (oogonia) 
 
 ## Distribution and Habitat
 
-Dictyota dichotoma has a broad global distribution spanning the northeast Atlantic from Norway to the Canary Islands, the Mediterranean Sea, and warm-temperate to tropical waters of the Indo-Pacific. It is also recorded from the Atlantic coast of North America, Brazil, and southern Africa.
+Dictyota dichotoma has a broad [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]] spanning the northeast Atlantic from Norway to the Canary Islands, the Mediterranean Sea, and warm-temperate to tropical waters of the Indo-Pacific. It is also recorded from the Atlantic coast of [[psilocybin-north-america-pacific-northwest]], Brazil, and southern Africa.
 
 The species typically inhabits the lower intertidal zone and shallow subtidal reef flats at depths of 0–15 m. It is most abundant on rocky substrates in areas with moderate to high water movement.
 
@@ -62,7 +62,7 @@ Cytotoxic activity against various human cancer cell lines (A549, HeLa, MCF-7) h
 
 ## Ecology and Applications
 
-Dictyota dichotoma plays an important ecological role in coastal marine ecosystems as both a primary producer and a habitat-forming organism. Its complex branching structure provides refuge for small invertebrates and juvenile fish.
+Dictyota dichotoma plays an important ecological role in coastal [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]] as both a primary producer and a habitat-forming organism. Its complex branching structure provides refuge for small invertebrates and juvenile fish.
 
 The species is consumed by a limited range of generalist herbivores, most notably sea urchins (Paracentrotus lividus) and certain opisthobranch molluscs that have evolved tolerance to its diterpenoid defences. Sea hares of the genus Aplysia are specialist feeders that sequester diterpenes for their own chemical defence.
 
@@ -78,7 +78,7 @@ Cultivation of Dictyota dichotoma has been explored on a small experimental scal
 
 Optimal growth conditions include temperatures of 18–24°C, salinities of 30–35‰, and irradiance of 50–150 μmol photons m⁻² s⁻¹. Growth rates of 3–7% per day have been achieved under controlled conditions.
 
-Enrichment with nitrogen and phosphorus significantly enhances biomass production. Nitrate concentrations of 50–100 μM and phosphate concentrations of 5–10 μM support maximum growth rates.
+Enrichment with nitrogen and phosphorus significantly enhances [[dighton-fungal-biomass-production-aquatic-ecosystems]]. Nitrate concentrations of 50–100 μM and phosphate concentrations of 5–10 μM support maximum growth rates.
 
 Indoor tank culture using artificial seawater and LED lighting has produced consistent yields. Outdoor cultivation on rope or net systems has also been trialled with moderate success, though grazing pressure and storm damage remain challenges.
 
@@ -98,7 +98,7 @@ Dictyota dichotoma has become a model organism for studying chemical ecology in 
 
 The species has contributed significantly to the field of marine natural products chemistry. Several of its diterpenoids were among the first marine secondary metabolites to have their absolute configurations determined by X-ray crystallography.
 
-Climate change research has identified D. dichotoma as a potential indicator species for warming oceans. Its range has been expanding northward in the northeast Atlantic over recent decades, consistent with rising sea surface temperatures.
+[[dighton-fungi-climate-change-feedback]] research has identified D. dichotoma as a potential indicator species for warming oceans. Its range has been expanding northward in the northeast Atlantic over recent decades, consistent with rising sea surface temperatures.
 
 Recent transcriptomic studies have begun to elucidate the biosynthetic pathways responsible for diterpenoid production. Understanding these pathways could enable sustainable production of valuable metabolites through biotechnological approaches.
 

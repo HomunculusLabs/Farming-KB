@@ -1,5 +1,5 @@
 ---
-title: "Getting a Natural Diet"
+title: "Getting a fukuoka-natural-diet-as-foundation"
 created: 2026-04-28
 tags: [natural-diet, seasonal-eating, food-mandala, yin-yang, practical-diet]
 date: 2026-04-28
@@ -14,7 +14,7 @@ type: concept
 ## Overview
 
 Fukuoka presents his practical philosophy of natural eating, which parallels
-his approach to natural farming. A true natural diet is a way of eating where
+his approach to [[comparison-natural-farming-vs-permaculture]]. A true natural diet is a way of eating where
 one feeds randomly with an undiscriminating attitude on food taken from the
 wild, crops grown by natural farming, and fish and shellfish caught using
 natural methods. Natural diet and natural farming are not separate ideas but
@@ -75,7 +75,7 @@ urchins, and sea cucumbers.
 ## Beyond Yin and Yang
 
 Fukuoka incorporates but transcends both Western nutritional science and the
-Eastern philosophy of yin and yang. Summer is hot and yang, winter is cold and
+[[fukuoka-western-eastern-philosophy-agriculture]] of yin and yang. Summer is hot and yang, winter is cold and
 yin. The diet maintains a balance: in summer one should eat yin foods, in
 winter yang foods. Vegetables are green, seaweed is blue, cereal grains are
 yellow, and meat is red. Grains, being intermediate, serve as the staple with
@@ -92,7 +92,7 @@ of itself without his needing to know anything.
 
 Nothing surpasses the culinary artistry of home-made miso and tofu cooking,
 and of fish cooked on the rocks by the river or at the fireside after
-flavoring with crude, natural salt prepared by burning sea salt with brush
+flavoring with crude, natural salt prepared by burning [[jadam-sea-salt-and-mineral-solutions]] with brush
 and seaweed. The osechi-ryori dishes prepared for New Year's, with salted
 salmon and herring roe paired with kelp and black soybeans, goes beyond
 tradition to a perfect pairing of man and nature.

@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Therapy Models Comparison
+title: metzner-psycholytic-psychedelic-therapy-models Models Comparison
 created: 2026-04-13
 updated: 2026-04-13
 type: comparison
@@ -8,14 +8,14 @@ sources: []
 ---
 # Psychedelic Therapy Models Comparison
 
-Psychedelic-assisted therapy encompasses a diverse range of approaches, from rigorously controlled clinical protocols to indigenous ceremonial traditions that predate modern medicine by millennia. Each model operates from different assumptions about the nature of healing, the role of the guide or therapist, the appropriate dose, and the importance of preparation and integration. This comparison covers five major models. For historical context, see [[psychedelic-therapy-set-and-setting]] and integration practices in [[stanislav-grof]] developed this approach at Spring Grove State Hospital in the 1960s. Unlike psycholytic therapy, it uses high doses intended to produce a full mystical or ego-dissolution experience. The therapist acts as a non-directive sitter — present, reassuring, but not interpreting. Music is carefully curated to support the emotional arc of the experience. Grof later developed Holotropic Breathwork as a drug-free method to access similar non-ordinary states.
+Psychedelic-assisted therapy encompasses a diverse range of approaches, from rigorously controlled clinical protocols to indigenous ceremonial traditions that predate modern medicine by millennia. Each model operates from different assumptions about the nature of healing, the role of the guide or therapist, the appropriate dose, and the importance of preparation and integration. This comparison covers five major models. For historical context, see [[psychedelic-therapy-set-and-setting]] and integration practices in [[stanislav-grof]] developed this approach at Spring Grove State Hospital in the 1960s. Unlike [[european-psycholytic-therapy-1960s-1970s]], it uses high doses intended to produce a full mystical or ego-dissolution experience. The therapist acts as a non-directive sitter — present, reassuring, but not interpreting. Music is carefully curated to support the emotional arc of the experience. Grof later developed [[metzner-holotropic-breathwork-and-grof-perinatal-matrices]] as a drug-free method to access similar non-ordinary states.
 
-**Key features:** High doses, 1-3 sessions, non-directive sitter, music as therapeutic tool, emphasis on perinatal matrices and transpersonal experiences.
+**Key features:** High doses, 1-3 sessions, non-directive sitter, music as therapeutic tool, emphasis on [[metzner-grof-perinatal-matrices-and-transpersonal-realms]] and transpersonal experiences.
 **Evidence base:** Historical studies for alcoholism, terminal illness anxiety, and neurosis. Modern influence on Johns Hopkins and MAPS approaches.
 
 ### MAPS MDMA-Assisted Therapy Protocol
 
-The Multidisciplinary Association for Psychedelic Studies (MAPS) has developed the most rigorously studied psychedelic therapy protocol for PTSD. MDMA (80-120 mg, with optional 40-60 mg booster at 1.5-2 hours) is administered in three sessions spaced 3-5 weeks apart. Each session is preceded by three preparatory therapy sessions and followed by multiple integration sessions. Two therapists (male/female pair) maintain a supportive but non-directive presence. The protocol prioritizes safety, patient autonomy, and structured therapeutic framing.
+The [[maps-multidisciplinary-association-for-psychedelic-studies]] for Psychedelic Studies (MAPS) has developed the most rigorously studied psychedelic therapy protocol for PTSD. MDMA (80-120 mg, with optional 40-60 mg booster at 1.5-2 hours) is administered in three sessions spaced 3-5 weeks apart. Each session is preceded by three preparatory therapy sessions and followed by multiple integration sessions. Two therapists (male/female pair) maintain a supportive but non-directive presence. The protocol prioritizes safety, patient autonomy, and structured therapeutic framing.
 
 **Key features:** FDA Phase 3 trials completed, structured protocol with manual, co-therapist model, extensive preparation and integration, inner-directed approach.
 **Evidence base:** Strongest clinical evidence base of any psychedelic therapy — Phase 3 trials showed 67% of MDMA group no longer met PTSD criteria vs 32% placebo.
@@ -29,7 +29,7 @@ Researchers at Johns Hopkins University have developed a protocol for high-dose 
 
 ### Indigenous Ceremony
 
-Indigenous psychedelic traditions span thousands of years and multiple continents: ayahuasca ceremonies in the Amazon (Shipibo, Ashaninka, Yawanawa), peyote ceremonies in North America (Native American Church), Mazatec mushroom ceremonies in Mexico, iboga initiation rites in Gabon (Bwiti), and San Pedro ceremonies in the Andes. The role of the guide (curandero, shaman, mara'akame) is active — they may sing icaros, perform rituals, diagnose illness, and engage directly with the participant's experience. Ceremonies are communal, with music (singing, drumming, rattles), prayer, and traditional cosmology providing the therapeutic framework.
+Indigenous psychedelic traditions span thousands of years and multiple continents: [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] in the Amazon (Shipibo, Ashaninka, Yawanawa), peyote ceremonies in North America (Native American Church), Mazatec mushroom ceremonies in Mexico, iboga initiation rites in Gabon (Bwiti), and San Pedro ceremonies in the Andes. The role of the guide (curandero, shaman, mara'akame) is active — they may sing icaros, perform rituals, diagnose illness, and engage directly with the participant's experience. Ceremonies are communal, with music (singing, drumming, rattles), prayer, and traditional cosmology providing the therapeutic framework.
 
 **Key features:** Dose determined by tradition (not individualized pharmacology), communal setting, active guide, cultural/spiritual framework, plant preparations (not isolated compounds), dietary and behavioral preparation (dieta), ongoing ceremony participation.
 **Evidence base:** Growing ethnographic and clinical interest; ayahuasca shows promise for depression and addiction in observational studies.
@@ -107,4 +107,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

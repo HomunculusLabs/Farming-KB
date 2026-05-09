@@ -1,10 +1,11 @@
 ---
-title: Contaminants of Mushroom Culture in The Mushroom Cultivator
+title: cultivator-contaminants-of-mushroom-culture Culture in The Mushroom Cultivator
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [gardening]
 sources:
+  sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Contaminants of Mushroom Culture in The Mushroom Cultivator
@@ -49,10 +50,10 @@ Molds and bacteria do not grow well in a climate specifically adjusted for mushr
 - Contaminants thrive in prolonged stagnant air environments whereas mushrooms do not
 - The differences are frequently subtle -- small deviations from optimal conditions predispose to contamination
 
-**Environmental factors that favor contaminants:**
+**[[duggar-mushroom-environmental-factors-temperature-moisture-light]] that favor contaminants:**
 - Stagnant air pockets (breeding grounds for Trichoderma and Pseudomonas)
 - Excessive humidity without adequate air movement
-- Wet mushroom caps (prime sites for Bacterial Blotch)
+- Wet mushroom caps (prime sites for [[growing-gourmet-bacterial-blotch-disease-management]])
 - Over-wet substrates and casings
 - Temperature extremes outside the species' range
 
@@ -61,7 +62,7 @@ Molds and bacteria do not grow well in a climate specifically adjusted for mushr
 ### Green Molds (Most Common and Damaging)
 
 - **Trichoderma (Forest Green Mold)**: The most common contaminant in mushroom culture. Rapidly colonizes substrates, casing soils, and compost. Green spore clouds easily spread. Thrives in stale air and on over-wet substrates. Control: improve air circulation, reduce moisture, maintain hygiene.
-- **Penicillium (Bluish Green Mold)**: Extremely common airborne contaminant. Often appears along petri dish periphery or near transfer points. Control: HEPA filtration, careful sterile technique.
+- **Penicillium (Bluish Green Mold)**: Extremely common airborne contaminant. Often appears along petri dish periphery or near transfer points. Control: HEPA filtration, careful [[cultivator-sterile-technique-and-agar-culture]].
 - **Aspergillus (Green Mold)**: Common on grain spawn and compost. Some species produce aflatoxins. Control: proper grain sterilization (full hour at 15 psi).
 - **Cladosporium (Dark Green Mold)**: Common airborne contaminant in many environments.
 
@@ -75,7 +76,7 @@ Molds and bacteria do not grow well in a climate specifically adjusted for mushr
 
 - **Dactylium (Cobweb Mold)**: One of the most easily recognized contaminants. Fine white cobweb-like growth over casing and mushrooms. Spreads rapidly by air. Control: reduce humidity, increase air circulation, salt treatments.
 - **Mycelia Sterilia (White Mold)**: Sterile white mycelium with no visible spore structures. Can be confused with mushroom mycelium. Distinguished by different growth pattern and lack of fruiting.
-- **Mycogone (Wet Bubble)**: Causes distorted mushroom formation with wet, bubble-like lesions.
+- **Mycogone (Wet Bubble)**: Causes distorted [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] with wet, bubble-like lesions.
 - **Verticillium (Dry Bubble)**: Causes dry, brownish lesions on mushroom caps and stems.
 
 ### Bacterial Contaminants
@@ -107,15 +108,15 @@ Molds and bacteria do not grow well in a climate specifically adjusted for mushr
 
 1. **Prevention over cure** -- maintain strict hygiene at all stages
 2. **Rapid colonization** -- the faster mycelium dominates, the less opportunity for competitors
-3. **Proper environmental control** -- avoid conditions that favor contaminants
+3. **Proper [[eclss-environmental-control-life-support]]** -- avoid conditions that favor contaminants
 4. **Early identification** -- recognize and isolate contaminated cultures immediately
 5. **Complete removal** -- discard all contaminated materials; do not attempt to salvage partially contaminated cultures
 6. **Facility hygiene** -- regular cleaning and disinfection between crops
 
 ## See Also
 
-- [[stamets-contamination-identification-and-control]] -- Stamets' complete contaminants chapter
-- [[mushroom-contamination-control-strategies]] -- identification key
+- stamets-contamination-identification-and-control -- Stamets' complete contaminants chapter
+- mushroom-contamination-control-strategies -- identification key
 - [[mushroom-sterile-technique-detailed]] -- sterile technique methods
-- [[sterile-technique-mushroom-cultivation]]
+- [[mushroom-cultivation-sterile-technique]]
 - [[environmental-control-mushroom-growing]]

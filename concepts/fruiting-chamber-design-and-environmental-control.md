@@ -1,19 +1,13 @@
 ---
-title: Fruiting Chamber Design and Environmental Control
+title: gottlieb-psilocybin-cultivation-fruiting-chamber-design Design and eclss-environmental-control-life-support
 created: 2026-04-28
-tags: [[mycology, cultivation, fruiting, humidity, environmental-control]
+tags: [mycology, cultivation, fruiting, humidity, environmental-control]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 type: concept
 ---
-
-# Fruiting Chamber Design and Environmental Control
-
-The transition from vegetative mycelial growth to fruiting body production is
-triggered by environmental cues. A fruiting chamber is any enclosed space that
-allows the grower to manipulate these cues — primarily humidity, fresh air
-exchange, temperature, [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]] one most
+# Fruiting Chamber Design and Environmental Control The transition from vegetative mycelial growth to fruiting body production is triggered by environmental cues. A fruiting chamber is any enclosed space that allows the grower to manipulate these cues — primarily humidity, fresh air exchange, temperature, [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]] one most
 often neglected by beginners. As mycelium colonizes a [[teaming-with-microbes-humus-formation-and-glomalin]] encourage
 vegetative growth. Introducing fresh air drops CO2 levels and signals the
 organism that it has reached a substrate surface where [[water-management]] by weight, [[allen-gymnopilus-and-other-psychoactive-genera]] diseases.
@@ -23,7 +17,7 @@ signals seasonal change and initiates pinning for many species. Cold shock —
 submerging blocks in near-freezing water for 12 to 24 hours — is standard
 practice for shiitake.
 
-**Light** is required by all cultivated mushrooms, contrary to persistent myths.
+**Light** is required by all [[fungi-cultivated-mushrooms-pathogens-competitors]], contrary to persistent myths.
 While mushrooms are not photosynthetic, they use light as a directional cue for
 fruiting body orientation (phototropism) and as a developmental signal. Indirect
 ambient light or a 12 hour on/off cycle with fluorescent or LED lighting at
@@ -31,11 +25,11 @@ ambient light or a 12 hour on/off cycle with fluorescent or LED lighting at
 
 ## Simple Chamber Designs
 
-**The shotgun fruiting chamber (SGFC)** is a transparent plastic tote with
+**The [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] chamber (SGFC)** is a transparent plastic tote with
 quarter-inch holes drilled on all six sides in a two-inch grid pattern, filled
 with two to four inches of damp perlite. The holes provide passive FAE while
 the perlite evaporative surface maintains high humidity. The SGFC works
-reasonably well for small-scale oyster and Psilocybe cubensis grows but
+reasonably well for small-scale oyster and [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] grows but
 provides inconsistent results with species that demand precise environmental
 control.
 
@@ -78,7 +72,7 @@ long, fuzzy stems and small caps in stagnant air. They are the most sensitive
 species to inadequate ventilation and the most rewarding when conditions are
 correct.
 
-**Shiitake (Lentinula edodes)** requires a cold shock or temperature fluctuation
+**Shiitake ([[staycare-lentinula-edodes-in-bioremediation]])** requires a cold shock or temperature fluctuation
 to initiate pinning. After pinning, it prefers 80 to 85 percent humidity rather
 than the 90 percent plus preferred by oysters. Excess humidity on shiitake caps
 causes bacterial rot and brown blotch.
@@ -109,5 +103,5 @@ more important than hitting exact setpoints.
 
 ## See Also
 
-- [[grain-spawn-production]]
+- grain-spawn-production
 - [[medicinal-mushroom-compounds-and-health-benefits]]

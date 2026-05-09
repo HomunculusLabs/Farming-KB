@@ -21,7 +21,7 @@ created: 2026-04-28
 
 ## Overview
 
-Phyllanthus niruri, commonly known as chanca piedra ("stone breaker"), is a small annual herb in the family Phyllanthaceae. It is widely distributed throughout tropical and subtropical regions worldwide and has been used for centuries in traditional medicine systems across South America, India, and Southeast Asia.
+Phyllanthus niruri, commonly known as chanca piedra ("stone breaker"), is a small annual herb in the family Phyllanthaceae. It is widely distributed throughout tropical and subtropical regions worldwide and has been used for centuries in traditional medicine systems across South America, India, and [[psilocybe-southeast-asia-pacific]].
 
 The species has attracted significant pharmacological interest for its hepatoprotective, antiviral, and lithotriptic (stone-breaking) properties. Clinical and preclinical studies have investigated its efficacy against hepatitis B, kidney stones, and various inflammatory conditions.
 
@@ -56,7 +56,7 @@ The genus Phyllanthus contains over 700 species and was historically placed in E
 
 **Fruit:** Trilocular capsule, 2-3 mm diameter, smooth, green maturing to tan or brown. Seeds trigonous, approximately 1 mm, brown, with longitudinal ridges.
 
-**Roots:** Fibrous root system, shallow, spreading. The root contains the highest concentration of lignans and other bioactive compounds.
+**Roots:** Fibrous root system, shallow, spreading. The root contains the highest concentration of lignans and other [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]].
 
 ## Distribution and Habitat
 
@@ -70,9 +70,9 @@ In traditional Amazonian medicine, the entire plant is harvested and prepared as
 
 ### Key Bioactive Compounds
 
-P. niruri contains a diverse array of secondary metabolites with documented pharmacological activity:
+P. niruri contains a diverse array of [[antifungal-secondary-metabolites-coprophilous-fungi]] with documented pharmacological activity:
 
-**Lignans:** Phyllanthin and hypophyllanthin are the major lignans, responsible for much of the hepatoprotective activity. These aryltetralin-type lignans modulate hepatic enzyme activity and reduce oxidative stress in hepatocytes. Niranthin is another significant lignan with anti-inflammatory properties.
+**Lignans:** Phyllanthin and hypophyllanthin are the major lignans, responsible for much of the hepatoprotective activity. These aryltetralin-type lignans modulate hepatic enzyme activity and reduce [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in hepatocytes. Niranthin is another significant lignan with anti-inflammatory properties.
 
 **Tannins:** Corilagin, geraniin, ellagic acid, and gallic acid contribute antioxidant and hepatoprotective effects. Geraniin is an ellagitannin with documented antiviral activity against hepatitis B surface antigen.
 
@@ -86,13 +86,13 @@ P. niruri contains a diverse array of secondary metabolites with documented phar
 
 The hepatoprotective effects of P. niruri are among the most extensively studied. Multiple animal models have demonstrated protection against carbon tetrachloride, acetaminophen, ethanol, and galactosamine-induced hepatotoxicity.
 
-Mechanisms include stabilization of hepatic cell membranes, enhancement of hepatic glutathione levels, inhibition of lipid peroxidation, and modulation of cytochrome P450 enzymes. Clinical trials in patients with chronic hepatitis B have shown reductions in serum transaminases and, in some studies, clearance of hepatitis B surface antigen (HBsAg).
+Mechanisms include stabilization of hepatic cell membranes, enhancement of hepatic glutathione levels, inhibition of lipid peroxidation, and modulation of cytochrome P450 enzymes. [[mushroom-cancer-clinical-trials-overview]] in patients with chronic hepatitis B have shown reductions in serum transaminases and, in some studies, clearance of hepatitis B surface antigen (HBsAg).
 
 Results across clinical trials have been inconsistent, with some studies showing significant antiviral effects and others finding no difference from placebo. Meta-analyses suggest the heterogeneity may relate to differences in extract standardization, dosing, and patient populations.
 
 ### Antilithiatic Activity
 
-The name "chanca piedra" (stone breaker) reflects the traditional use for kidney stones. In vitro and animal studies have demonstrated that P. niruri extract inhibits calcium oxalate crystal aggregation and modifies the crystalline structure of urinary stones.
+The name "chanca piedra" (stone breaker) reflects the traditional use for kidney stones. In vitro and animal studies have demonstrated that P. niruri extract inhibits [[fungal-calcium-oxalate-crystals]] crystal aggregation and modifies the crystalline structure of urinary stones.
 
 The extract interferes with the nucleation, growth, and aggregation phases of calcium oxalate crystallization. It also appears to relax ureteral smooth muscle in animal models, potentially facilitating stone passage. Several small clinical trials have reported reduced stone recurrence rates with prophylactic use of P. niruri preparations.
 

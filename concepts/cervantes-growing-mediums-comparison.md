@@ -1,5 +1,5 @@
 ---
-title: "Growing Mediums Comparison"
+title: "cervantes growing mediums comparison Comparison"
 created: 2026-04-28
 tags:
   - cannabis-cultivation
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "/Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md"
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -54,7 +55,7 @@ provides good drainage, moisture retention, and root penetration.
 - **Loam:** Best all-around. Different-sized particles create diverse
   pore spaces for drainage and moisture retention.
 
-Soil pH should be 6.5-7.0 for optimal nutrient availability.
+Soil pH should be 6.5-7.0 for optimal [[ph-and-nutrient-availability-garden-soils]].
 
 ## Soilless Mixes
 
@@ -65,7 +66,7 @@ peat moss, and coconut coir.
 ### Advantages
 - Complete control over fertilizer concentration, moisture, and pH
 - Good texture, water retention, and drainage
-- Can be leached efficiently to prevent salt buildup
+- Can be leached efficiently to prevent [[cervantes-salt-buildup-leaching-management]]
 - pH balanced near 6.0-7.0 unless fortified
 
 ### Popular Brands
@@ -84,7 +85,7 @@ Active recovery hydroponic systems use substrates that drain rapidly
 and hold plenty of air:
 
 ### Expanded Clay (Hydroton/Hydroclay)
-- Large clay pellets that expedite drainage and hold air
+- Large [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] that expedite drainage and hold air
 - Excellent for ebb-and-flow, drip, and top-feed systems
 - Can be sterilized and reused
 - CEC of 20
@@ -100,7 +101,7 @@ and hold plenty of air:
 - Renewable, organic alternative to peat moss
 - Excellent water retention and aeration
 - Popular in Dutch passive hydroponic systems
-- Can be used in trays with drip irrigation
+- Can be used in trays with [[comparison-drip-irrigation-vs-passive-irrigation]]
 
 ### Pea Gravel and Lava Rock
 - Inexpensive and reusable
@@ -110,7 +111,7 @@ and hold plenty of air:
 
 ## Rooting and Seedling Mediums
 
-For cloning and seed starting:
+For [[green-cannabis-grow-bible-cloning-and-seed-propagation]] starting:
 - **Rockwool plugs:** Strong root systems in about two weeks
 - **Peat pellets:** Compressed peat that expands when watered
 - **Sand/perlite/vermiculite mix:** 1/3 of each; sand and perlite
@@ -138,6 +139,9 @@ For cloning and seed starting:
 - Always add 10-30% coarse perlite to improve drainage in any mix
 
 ## See Also
+
+- [[comparison-garlic-vs-onion-growing]]
+- [[cervantes-net-pots-growing-slabs]]
 
 - [[cervantes-hydroponic-systems]]
 - [[cervantes-soil-amendments-perlite-vermiculite-pumice]]

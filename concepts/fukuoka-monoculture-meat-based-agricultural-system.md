@@ -5,12 +5,13 @@ updated: 2026-04-28
 type: concept
 tags: [fukuoka, monoculture, livestock, natural-farming, agriculture-critique, soil-fertility]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka on Monoculture and the Meat-Based Agricultural System
 
-In *The Road Back to Nature*, Masanobu Fukuoka extended his critique of modern
+In *The Road Back to Nature*, Masanobu Fukuoka extended his [[fukuoka-road-critique-of-modern-science]]
 agriculture beyond Japan to analyze the structural problems of American farming.
 He identified monoculture and the meat-based dietary system as the twin pillars
 of an agricultural model that systematically destroys soil fertility, degrades
@@ -49,7 +50,7 @@ monocropping degrades agricultural land.
 
 **Organic matter depletion:** The soil's organic matter is consumed and
 exhausted by continuous cultivation of a single crop type. When the same plant
-residue is returned to the soil year after year, the microbial community becomes
+residue is returned to the soil year after year, the [[edaphic-factors-microbial-community-structure]] becomes
 unbalanced. Fewer species of microbes survive in soil that receives only one
 kind of organic input, and this reduced biodiversity weakens the soil's capacity
 to cycle nutrients, maintain structure, and resist disease.
@@ -61,7 +62,7 @@ compaction and cracking cycle destroys the crumb structure that allows root
 penetration, water infiltration, and gas exchange, all essential for healthy
 soil biology.
 
-**Topsoil erosion:** Pulverized soil with depleted organic matter has poor
+**[[fukuoka-irrigation-topsoil-erosion-salt-accumulation]]:** Pulverized soil with depleted organic matter has poor
 aggregate structure and cannot resist wind or water erosion. Fukuoka estimated
 topsoil loss rates of perhaps ten or more tons per acre per year during rainfall
 events. Unlike Japanese terraced rice fields with their reservoirs, American
@@ -69,7 +70,7 @@ rolling farmland has no structural defenses against erosion. When the loose soil
 dries between rains, it is carried off by wind as dust and scattered.
 
 **Chemical dependency:** As natural soil fertility declines under continuous
-monocropping, farmers become increasingly dependent on chemical fertilizers to
+monocropping, farmers become increasingly dependent on [[cervantes-chemical-fertilizers-guide]] to
 maintain yields. These fertilizers further degrade soil biology by favoring
 certain microbial populations over others, creating a negative feedback loop
 where declining biological fertility requires ever greater chemical inputs.
@@ -85,7 +86,7 @@ because the farming system itself has destroyed its capacity for continuous use.
 Fukuoka traced the ultimate cause of American land degradation to the meat-based
 diet of the population. The settlers and immigrants who came to America from the
 British Isles, France, Spain, and other European countries were all meat-eaters,
-and livestock farming for meat consumption began two or three hundred years ago
+and [[fukuoka-textdoc-natural-livestock-farming-open-grazing]] for meat consumption began two or three hundred years ago
 when these lands were first settled.
 
 America had established an agriculture that does not grow the staff of human
@@ -137,7 +138,7 @@ but the elimination of plant diversity that grazing pressure produced.
 ## The Primitive Nature of Modern Agriculture
 
 Despite its appearance of technological sophistication, Fukuoka considered
-American agriculture to be "extremely crude, primitive agriculture." The crops
+[[fukuoka-american-agriculture-fields-of-death]] to be "extremely crude, primitive agriculture." The crops
 are not raised by the forces of nature but are processed with petroleum energy.
 ## See Also
 

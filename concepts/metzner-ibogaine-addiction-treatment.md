@@ -1,5 +1,5 @@
 ---
-title: Ibogaine Addiction Treatment
+title: metzner ibogaine addiction treatment Treatment
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
@@ -39,14 +39,14 @@ deceased ancestors, and other nonordinary entities.
 
 ### Initiation and Death-Rebirth Experience
 
-Bwiti initiation involves a powerful death-rebirth experience, in which the initiate's
+[[mckenna-iboga-tabernanthe-ibogaine-fang-bwiti-initiation-cult]] involves a powerful death-rebirth experience, in which the initiate's
 "head is opened up," after which they are able to converse with their ancestor spirits,
 who can guide them in their lives. The Bwiti ceremonies are held in temples, with an
 altar and officiating priests, where the initiate men and women, daubed with white
 mud, sit and sing in lengthy ceremonies. A mirror is often present in the assembly
 room, in which initiates may "see" their ancestral spirits. This ceremonial structure
 -- with its altar, sacred space, music, and experienced guides -- embodies the
-principles of intentional set and setting that Western psychedelic therapy would only
+principles of intentional [[lsd-set-and-setting-framework]] that [[shamanic-vs-western-psychedelic-healing]] therapy would only
 later formalize.
 
 ## Pharmacological Research on Addiction
@@ -78,7 +78,7 @@ consciousness characterized by contraction and fixation. All addictive narcotics
 stimulants -- whether heroin, cocaine, alcohol, or amphetamines -- share the property
 of narrowing and rigidifying awareness. Addiction represents a contracted, fixated
 state of awareness that paradoxically is itself an altered state -- the "addiction and
-transcendence as altered states of consciousness" framework that Metzner explored in
+transcendence as [[weil-the-natural-mind-altered-states-normalcy]] of consciousness" framework that Metzner explored in
 earlier work (1994).
 
 The "consciousness-expanding" hallucinogens work in the opposite direction: they open
@@ -127,7 +127,7 @@ it bridges indigenous African ethnopharmacology with contemporary clinical inter
 addiction treatment. Its dual existence as both a traditional ceremonial sacrament with
 centuries of cultural refinement and a subject of modern pharmacological research
 exemplifies Metzner's argument that the respectful use of hallucinogens for shamanic
-healing and divination -- reaching into prehistoric times -- provides a foundation of
+[[metzner-shamanic-healing-and-divination-paradigm]] -- reaching into prehistoric times -- provides a foundation of
 safety and efficacy that newly synthesized drugs cannot match.
 
 The more plausible assumption, as Metzner states, is that all the

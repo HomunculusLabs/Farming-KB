@@ -4,7 +4,7 @@
 
 Brix is a measurement of dissolved solids — primarily sugars — in plant sap,
 taken using a handheld refractometer. In AACT programs, Brix readings serve as
-a field-accessible indicator of plant health and nutritional quality. Dr. Elaine
+a field-accessible indicator of plant health and [[coleman-winter-greens-nutritional-quality-cold-sweetening]]. Dr. Elaine
 Ingham approaches Brix testing with characteristic scientific caution, noting
 that while elevated Brix readings can indicate that a plant is obtaining what it
 needs, the relationship is complex and requires careful interpretation.
@@ -35,7 +35,7 @@ The theory behind Brix as a health indicator rests on plant physiology. Plants
 produce sugars through photosynthesis. When a plant is healthy and its soil
 foodweb is functioning properly, it can efficiently produce photosynthates. These
 sugars provide energy for metabolism, serve as building blocks for structural
-compounds, and fuel secondary metabolite production for defense against pests
+compounds, and fuel [[fungal-elicitors-enhanced-secondary-metabolite-production]] production for defense against pests
 and disease.
 
 A plant with adequate mineral nutrition and a healthy root-associated microbial
@@ -43,7 +43,7 @@ community tends to produce more photosynthates than it immediately needs for
 basic growth. The excess sugars accumulate in plant tissue, resulting in higher
 Brix readings. These surplus sugars are available for the plant to invest in
 defense compounds, giving the plant greater resistance to insect pests and
-fungal pathogens.
+[[bloomfield-fungal-pathogens-and-parasites]].
 
 Ingham's testing has shown that vegetables, grapes, and strawberries grown with
 healthy foodwebs in the soil contain three to ten times more protein than plants
@@ -59,11 +59,11 @@ several linked mechanisms. When [[aact-applications-guide-ingham]]
 
 ## Source
 
-- Ingham, Elaine R. *The Field Guide for [[actively-aerated-compost-tea]] (AACT)*.
+- Ingham, Elaine R. *The [[ghouled-field-guide-historical-context]] for [[actively-aerated-compost-tea]] (AACT)*.
   Sustainable Studies Institute, 2004.
 ## Practical Considerations
 
-Successful implementation of Brix Testing Plant Health Indicator Ingham requires attention to
+Successful implementation of [[ingham-brix-testing-plant-quality]] Health Indicator Ingham requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

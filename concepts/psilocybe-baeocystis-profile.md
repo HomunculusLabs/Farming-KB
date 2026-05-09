@@ -1,5 +1,5 @@
 ---
-title: "Psilocybe baeocystis Profile"
+title: "stamets-psi-psilocybe-baeocystis-knobby-tops Profile"
 created: 2026-04-28
 tags:
   - psilocybin
@@ -16,7 +16,7 @@ type: concept
 
 # Psilocybe baeocystis
 
-Psilocybe baeocystis is a moderately sized psilocybin mushroom
+Psilocybe baeocystis is a moderately sized [[emcdda-psilocybin-mushroom-dose-and-effects]]
 commonly known as the "potent psilocybe" or informally as "knobby
 tops." It is one of the more potent members of the Psilocybe genus
 and is notable for lending its name to the psychoactive compound
@@ -26,7 +26,7 @@ baeocystin, which was first isolated from this species.
 
 The species was first described scientifically by Singer and Smith in
 1958. The specific epithet "baeocystis" comes from Greek and Latin
-roots. The compound baeocystin, a phosphoric acid ester of
+roots. The compound baeocystin, a [[cho-water-soluble-phosphoric-acid-preparation]] ester of
 4-hydroxytryptamine, was identified in specimens of this species and
 named accordingly. This minor alkaloid is also found in other
 Psilocybe species but was first characterized from P. baeocystis.
@@ -70,11 +70,11 @@ thick walls and a distinct germ pore at the apex.
 ## Habitat and Distribution
 
 Psilocybe baeocystis is primarily found in the Pacific Northwest region
-of North America. Its documented range extends through coastal and
+of [[psilocybin-north-america-pacific-northwest]]. Its documented range extends through coastal and
 inland regions of Oregon, Washington, and British Columbia. The species
 has also been reported from parts of California.
 
-In the Psilocybin Mushroom Image Guide, P. baeocystis is documented
+In the Psilocybin [[psilocybin-mushroom-image-guide-habitat-clues]] Guide, P. baeocystis is documented
 through photographs showing specimens growing on moss, which aligns
 with its known habitat preferences. The species typically fruits in
 the autumn months, from September through November, favoring the cool,
@@ -91,7 +91,7 @@ has been applied, particularly in ornamental garden settings.
 The species seems to favor disturbed habitats where woody debris has
 been introduced, including parks, garden beds, and the edges of
 forested areas. It is sometimes found in association with other
-psilocybin mushrooms such as [[mushroom-identification]], proper caution should be
+[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] such as mushroom-identification, proper caution should be
 exercised. Several toxic species share similar habitats and general
 appearance, making positive identification essential before any
 consumption. Key lookalikes to be aware of include species of

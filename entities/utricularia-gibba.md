@@ -54,7 +54,7 @@ The bladderwort trap operates as one of the fastest known movements in the plant
 
 When trigger hairs on the trap door are touched by prey, the door snaps open in approximately 0.5 milliseconds. The pressure differential sucks water and prey into the bladder in a fraction of a second.
 
-The trap door then reseals, and the digestive process begins. Enzymes secreted by glandular cells within the bladder break down the captured organisms over several hours.
+The trap door then reseals, and the digestive process begins. Enzymes secreted by glandular cells within the bladder [[query-can-fungi-break-down-plastic-pollution]] the captured organisms over several hours.
 
 Primary prey items include protozoa, rotifers, nematodes, and small crustaceans such as copepods and water fleas. The traps are too small to capture larger organisms.
 
@@ -66,7 +66,7 @@ Despite its compact size, the genome contains a full complement of flowering pla
 
 This pattern contrasts with the genome expansion seen in most angiosperms. U. gibba has experienced strong selective pressure to minimize non-functional DNA, possibly due to its highly specialized aquatic lifestyle.
 
-Comparative genomics suggests that carnivory in Lentibulariaceae evolved independently of other carnivorous plant lineages. The genetic toolkit for trap development and digestive enzyme production was assembled from pre-existing genes.
+Comparative genomics suggests that carnivory in Lentibulariaceae evolved independently of other carnivorous plant lineages. The genetic toolkit for trap development and digestive [[ligninolytic-enzyme-production-bioremediation]] was assembled from pre-existing genes.
 
 ## Cultivation
 
@@ -74,13 +74,13 @@ U. gibba is among the easiest carnivorous plants to grow and often appears uninv
 
 The species requires no special substrate. It grows freely floating or anchored to aquatic plants, rocks, or driftwood in still or slowly moving water.
 
-It thrives in full sun to partial shade and tolerates a wide temperature range. In temperate regions, it survives winter as dormant turions or resting buds.
+It thrives in full sun to partial shade and tolerates a wide [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]. In temperate regions, it survives winter as dormant turions or resting buds.
 
 Control is difficult once established. Manual removal of stolons provides only temporary relief, as remaining fragments quickly regenerate. Commercial herbicides may harm non-target aquatic organisms.
 
 ## Ecological Significance
 
-U. gibba plays an important ecological role in aquatic food webs. By preying on zooplankton and micro-invertebrates, it influences nutrient cycling and population dynamics in freshwater ecosystems.
+U. gibba plays an important ecological role in aquatic food webs. By preying on zooplankton and micro-invertebrates, it influences [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and population dynamics in freshwater ecosystems.
 
 The species can reach high population densities in nutrient-enriched waters. Dense mats of U. gibba stolons provide habitat and shelter for small aquatic organisms including insect larvae.
 
@@ -88,7 +88,7 @@ In some regions, U. gibba is used as a bioindicator of water quality. Its presen
 
 Research has demonstrated that U. gibba traps undergo developmental plasticity in response to prey availability. Plants in prey-rich environments produce more numerous and larger bladders than those in prey-poor conditions.
 
-The bladderwort's capture of mosquito larvae has prompted interest in its potential as a biological control agent. However, its effectiveness varies with trap density and water conditions.
+The bladderwort's capture of mosquito larvae has prompted interest in its potential as a [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent. However, its effectiveness varies with trap density and water conditions.
 
 U. gibba also contributes to carbon cycling in freshwater ecosystems. Through photosynthesis and prey digestion, it mediates the transfer of both organic and inorganic carbon between trophic levels.
 
@@ -100,9 +100,13 @@ The genus Utricularia contains approximately 240 species, making it the largest 
 
 Hybridization is documented within the genus, though it is less common than in Sarracenia or Nepenthes. Natural hybrids typically show intermediate trap morphology.
 
-The bladderwort trapping mechanism is convergent with the suction-feeding strategy of some aquatic animals. This represents one of the most remarkable examples of convergent evolution between plant and animal kingdoms.
+The bladderwort trapping mechanism is convergent with the suction-feeding strategy of some [[fungi-aquatic-animals-pathogens-parasites]]. This represents one of the most remarkable examples of convergent evolution between plant and animal kingdoms.
 
 ## See Also
+
+- [[utricularia-sandersonii]]
+
+- [[clitocybe-gibba]]
 
 - [[drosera-rotundifolia]]
 - [[pinguicula-vulgaris]]
@@ -115,3 +119,5 @@ The bladderwort trapping mechanism is convergent with the suction-feeding strate
 - wetland
 - biodiversity
 - nutrition
+
+- [[utricularia-longifolia]]

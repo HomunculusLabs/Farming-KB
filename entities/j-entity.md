@@ -9,7 +9,7 @@ sources:
 ---
 # J (BDB; 2-Amino-1-(3,4-methylenedioxyphenyl)butane)
 
-J, also known as BDB, is a phenethylamine compound and the alpha-ethyl homologue of [[mbdb-entity]] (Methyl-J). The compound is listed as PIHKAL entry #94.
+J, also known as BDB, is a phenethylamine compound and the alpha-ethyl homologue of [[mbdb-entity]] (Methyl-J). The compound is listed as [[2c-b-pihkal-entry-20]] #94.
 
 ## Chemical Classification
 
@@ -43,7 +43,7 @@ The experience does not rise to a full psychedelic intoxication.
 
 After about 90 minutes at this level, the effects gradually decline over two hours, followed by fatigue and languor.
 
-At 200 mg with a 75 mg supplement, subjects reported a very strong climb with a good interior feeling described as having some [[mdma]].
+At 200 mg with a 75 mg supplement, subjects reported a very strong climb with a good interior feeling described as having some mdma.
 
 ## Synthesis
 
@@ -51,7 +51,7 @@ The synthesis of J begins with the Grignard reagent of propyl bromide reacted wi
 
 The Grignard addition produces 1-(3,4-methylenedioxyphenyl)-2-butanol, which is dehydrated to the corresponding butene.
 
-The olefin is oxidized to the ketone 1-(3,4-methylenedioxyphenyl)-2-butanone using performic acid (hydrogen peroxide and formic acid).
+The olefin is oxidized to the ketone 1-(3,4-methylenedioxyphenyl)-2-butanone using performic acid ([[cervantes-hydrogen-peroxide-sterilization]] and formic acid).
 
 The ketone is reductively aminated with ammonium acetate and sodium cyanoborohydride to produce J.
 
@@ -77,13 +77,13 @@ The "J" code name follows Shulgin's alphabetical naming system for MDA homologue
 
 ## Relationship to MDMA and MBDB
 
-J is the alpha-ethyl analogue of [[mdma]] is the N-methyl derivative of MDA.
+J is the alpha-ethyl analogue of mdma is the N-methyl derivative of MDA.
 
-[[mdma]] procedure.
+mdma procedure.
 
 ## See Also
 
-[[mdma]]
+mdma
 
 [[mde-entity]]
 

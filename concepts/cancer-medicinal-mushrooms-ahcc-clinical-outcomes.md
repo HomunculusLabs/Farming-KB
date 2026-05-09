@@ -1,5 +1,5 @@
 ---
-title: AHCC Active Hexose Correlated Compound Cancer Outcomes
+title: AHCC ahcc-active-hexose-correlated-compound Correlated Compound Cancer Outcomes
 created: 2026-04-26
 tags: [medicinal-mushrooms, cancer-research, immunotherapy, hepatocellular]
 date: 2026-04-25
@@ -13,7 +13,7 @@ type: concept
 
 Active Hexose Correlated Compound (AHCC) is a proprietary extract
 prepared from the co-cultivation of several Basidiomycete mushrooms
-including Lentinus edodes, Trametes versicolor and Schizophyllum commune
+including Lentinus edodes, [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] and Schizophyllum commune
 grown on rice (Ghoneum et al., 1995). The exact species complement and
 methods of preparation are not publicly available, making independent
 verification of the product difficult.
@@ -40,7 +40,7 @@ efficacy against hepatocellular carcinoma and other cancers.
 The low molecular weight of AHCC glucans may in fact contribute to
 their oral bioavailability, as larger polysaccharides such as Lentinan
 and Schizophyllan are effective only by parenteral routes. This
-parallel with the acid-treated Agaricus blazei glucan (which becomes
+parallel with the acid-treated [[cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides]] glucan (which becomes
 orally active after molecular weight reduction) suggests a general
 principle: lower molecular weight may enable oral delivery of mushroom
 glucans.
@@ -65,7 +65,7 @@ postoperative hepatocellular carcinoma patients.
 
 ## Arabinoxylane Derivative and NK Cell Activation
 
-A derivative of AHCC, arabinoxylane (MGN-3), derived from rice bran
+A derivative of AHCC, arabinoxylane (MGN-3), derived from [[jadam-rice-bran-problems]]
 fermentation, was found by Ghoneum (1998) to increase human natural
 killer (NK) cell activity by a factor of five over a two-month period.
 This represents one of the most significant NK cell activation findings

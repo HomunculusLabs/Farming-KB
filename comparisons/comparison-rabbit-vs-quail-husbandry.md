@@ -1,5 +1,5 @@
 ---
-title: "Rabbit vs Quail Husbandry"
+title: "comparison rabbit vs quail husbandry Husbandry"
 created: 2026-04-28
 tags: [comparison, livestock, homesteading, micro-livestock, poultry]
 date: 2026-04-25
@@ -64,7 +64,7 @@ openings.
 
 ## When to Choose Rabbits
 Rabbits are the better choice for homesteaders seeking substantial meat
-production from a modest breeding program. Their larger size means fewer
+production from a modest [[cervantes-breeding-program-design-goal-setting]]. Their larger size means fewer
 animals to process for the same amount of meat, and their ability to thrive
 on pasture and hay reduces feed costs. Rabbit manure is a significant
 benefit for gardeners, providing large quantities of ready-to-use

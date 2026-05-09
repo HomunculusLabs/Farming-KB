@@ -65,8 +65,8 @@ massive synchronized flushes reported by coffee growers suggest
 complex environmental triggers for fruiting. The conspecificity
 with P. semperviva (convexa variety, common in Puebla) illustrates
 the taxonomic complexity within Mexican Psilocybe species. Its
-presence in South American countries (Brazil, Colombia, Argentina)
-expands the known distribution of psychoactive fungi beyond the
+presence in [[chiric-caspi-brunfelsia-south-american-hallucinogen]] countries (Brazil, Colombia, Argentina)
+expands the known distribution of [[cattle-dispersal-psychoactive-fungi-australia]] beyond the
 well-documented Mexican species.
 
 ## See Also
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

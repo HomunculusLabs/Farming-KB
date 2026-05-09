@@ -61,12 +61,12 @@ explored cannabinoids as potential treatments for schizophrenia:
 
 ## Evidence-Based Confidence Level
 
-From Uwe Blesching's Cannabis Health Index (CHI):
+From Uwe Blesching's [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI):
 
 The CHI value for cannabis in the context of schizophrenia and related
 psychiatric conditions is derived from studies examining CBD as an
 antipsychotic agent. The evidence is considered preliminary but promising,
-with a combined CHI value of 14 from the anxiety/schizophrenia research
+with a combined CHI value of 14 from the anxiety/[[cannabis-schizophrenia-research-detailed]]
 cluster.
 
 ## Key Distinction: Risk Factor vs. Treatment
@@ -84,7 +84,7 @@ of schizophrenia:
   psychosis-inducing effects. CBD has greater affinity for CB2 receptors.
 
 This suggests that whole-plant cannabis preparations with a balanced
-THC:CBD ratio, or CBD-dominant preparations, may have a more favorable
+THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]], or CBD-dominant preparations, may have a more favorable
 risk-benefit profile for individuals concerned about psychiatric side effects.
 
 ## Strain-Specific Considerations

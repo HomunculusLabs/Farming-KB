@@ -1,11 +1,12 @@
 ---
-title: Bee Feeding and Fungal Pesticides
+title: Bee bee feeding and fungal pesticides Pesticides
 created: 2026-04-13
 updated: 2026-04-15
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Bee Feeding and Fungal Pesticides
 
@@ -40,7 +41,7 @@ Infection proceeds through several stages:
 
 The insect cuticle is the first and most important barrier to infection. Entomopathogenic fungi produce a suite of enzymes to breach it:
 
-- **Proteases**: Degrade cuticular proteins, particularly the protein matrix of the procuticle. Pr1 and Pr2 proteases from Metarhizium are well-characterized virulence factors
+- **Proteases**: Degrade cuticular proteins, particularly the protein matrix of the procuticle. Pr1 and Pr2 proteases from Metarhizium are well-characterized [[fungal-virulence-factors-host-immune-evasion]]
 - **Chitinases**: Break down chitin fibers in the endocuticle
 - **Lipases**: Degrade the epicuticular wax layer
 - **Esterases**: Help penetrate the outer lipid barrier
@@ -61,7 +62,7 @@ Death typically occurs 3-7 days after infection, depending on the fungus, the in
 
 ### Protecting Hives from Varroa Mites
 
-The Varroa destructor mite is the most significant threat to managed honey bees worldwide. Entomopathogenic fungi have been investigated as biological control agents against Varroa:
+The Varroa destructor mite is the most significant threat to managed honey bees worldwide. Entomopathogenic fungi have been investigated as [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents against Varroa:
 
 - **Metarhizium anisopliae**: Strains of M. anisopliae have shown efficacy against Varroa in laboratory and field trials. Application methods include dusting hives with fungal spores or placing spore-impregnated materials inside the hive
 - **Beauveria bassiana**: Also effective against Varroa in controlled studies, with some commercial products available for beekeepers
@@ -113,8 +114,8 @@ Major commercial mycopesticide products include:
 - No toxic residue accumulation in honey, wax, or the environment
 - Self-replicating in the environment (unlike chemical pesticides that must be reapplied)
 - Insects do not develop resistance as easily due to multi-target attack
-- Compatible with organic farming systems
-- Safe for humans, mammals, and most beneficial insects at recommended application rates
+- Compatible with [[coleman-deep-organic-farming-philosophy]] systems
+- Safe for humans, mammals, and most [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] at recommended [[ingham-compost-tea-application-rates-and-timing]]
 - Can be integrated into integrated pest management (IPM) programs
 
 ## Challenges and Limitations

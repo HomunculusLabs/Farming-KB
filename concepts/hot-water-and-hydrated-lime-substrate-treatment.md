@@ -1,5 +1,5 @@
 ---
-title: Hot Water and Hydrated Lime Substrate Treatment
+title: Hot Water and cervantes-hydrated-lime-quicklime-ph-adjustment Substrate Treatment
 created: 2026-04-28
 tags:
   - mushroom-cultivation
@@ -21,10 +21,10 @@ type: concept
 # Hot Water and Hydrated Lime Substrate Treatment
 
 Hot water treatment and hydrated lime soaks are two of the most accessible
-substrate preparation methods for mushroom cultivators, especially beginners.
+[[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] methods for mushroom cultivators, especially beginners.
 Unlike full sterilization in a pressure cooker, these methods use simpler
 equipment while providing adequate contamination control for many species of
-edible mushrooms.
+[[palmer-edible-mushrooms-north-america]].
 
 ## Hot Water Pasteurization
 
@@ -42,11 +42,11 @@ requires more careful temperature monitoring.
 ## The Boil-a-Bag Technique
 
 The boil-a-bag method, developed by D.H. Jarrold, adapts hot water
-treatment for indoor cultivation using heat-resistant plastic bags. The
+treatment for [[cannabis-sativa-indoor-cultivation-techniques]] using heat-resistant plastic bags. The
 process begins by chopping straw into short pieces, approximately one to
 two inches in length.
 
-A heaped tablespoon of yeast extract (Marmite or Vegemite) is dissolved in
+A heaped tablespoon of [[marmite-yeast-extract-straw-substrate]] (Marmite or Vegemite) is dissolved in
 boiling water, poured into a bucket with six additional liters of boiling
 water, and poured over chopped straw. After soaking for two hours, the
 straw is drained in a bathtub and cooled. Three to four handfuls of brown
@@ -66,9 +66,9 @@ Full sterilization, by contrast, creates a blank slate. Every organism is
 killed, leaving the substrate vulnerable to the first contaminant that
 lands on it. While sterilization is necessary for supplemented substrates
 (see [[nitrogen-supplementation-for-mushroom-substrates]]
-- [[growing-gourmet-biological-efficiency-yield]]
+- growing-gourmet-biological-efficiency-yield
 - [[growing-gourmet-gypsum-lime-ph-management]]
-- oyster mushroom cultivation
+- oyster [[accessible-mushroom-cultivation-for-disabilities]]
 ## Practical Considerations
 
 Successful implementation of Hot Water and Hydrated Lime Substrate Treatment requires attention to
@@ -87,4 +87,9 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[oyster-mushroom]]
+- [[substrate-preparation]]
+- [[mushroom-cultivation]]
+- [[sterilization]]
+- [[substrate-consistency-water-absorption-grass-seed]]

@@ -69,7 +69,7 @@ After cooking:
 
 - Commercial natto starter (Bacillus subtilis natto spores) — most reliable, available from Japanese suppliers and online
 - Store-bought natto — use 1-2 tablespoons of fresh natto as a starter; mash and mix with a small amount of sterile water to create a slurry
-- Traditional method: wrap steamed beans in rice straw (warazuri) — Bacillus subtilis naturally colonizes rice straw
+- Traditional method: wrap steamed beans in [[fukuoka-rice-straw-mulch-central-technique]] (warazuri) — Bacillus subtilis naturally colonizes rice straw
 
 ### Inoculation Process
 
@@ -94,7 +94,7 @@ After cooking:
    - Shallow glass or ceramic dishes
    - Foil trays
    - Traditional natto boxes (cedar boxes with paper wrapping)
-   - Canning jar rings with plastic wrap stretched across (placed bean-side down)
+   - [[pf-tek-canning-jar-lid-configuration]] rings with plastic wrap stretched across (placed bean-side down)
 3. Cover loosely with plastic wrap, cheesecloth, or paper towels
 4. Place a wet paper towel or damp cloth nearby to maintain humidity (prevents beans from drying out)
 5. Incubate at target temperature
@@ -142,30 +142,8 @@ Traditional serving:
 Other uses:
 - Natto sushi rolls (natto maki)
 - Mixed with okra or kimchi for extra texture
-- Natto spaghetti (natto pasta)
-- On toast or crackers
-- Blended into smoothies (for the adventurous)
-
-## Nutritional Profile
-
-- High-quality complete protein (roughly 18g per 100g serving)
-- Vitamin K2 (MK-7) — 100g provides well over the daily recommended intake
-- Nattokinase — potential cardiovascular benefits (fibrinolytic enzyme)
-- Probiotics — Bacillus subtilis supports gut health
-- Iron, calcium, magnesium, potassium
-- Vitamin C (produced during fermentation, not present in raw soybeans)
-- Enzymes that improve digestibility of soy proteins
-
-## Troubleshooting
-
-- No ammonia smell — fermentation temperature was too low or beans were not inoculated properly
-- Too strong / overpowering smell — over-fermented; reduce time or temperature slightly
-- Not sticky — beans may be undercooked, or insufficient fermentation time; ensure 24-48 hours refrigeration aging
-- Bean texture too hard — cook longer; beans must be very soft before inoculation
-- Slimy or rotten smell (not ammonia) — contamination from other bacteria; discard
-
 ## See Also
 
-- [[tempeh-making]] — fermented soybeans using fungal culture
+- [[tempeh-making]] — fermented soybeans using [[biodiversity-fungal-culture-preservation]]
 - [[miso-making]] — fermented soybean paste using koji
 - [[kimchi-making]] — another traditional fermented food with distinct texture and flavor

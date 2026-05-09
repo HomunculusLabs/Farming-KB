@@ -9,7 +9,7 @@ sources: []
 
 # Homestead Planning and Zoning
 
-Before breaking ground on any homestead project, understanding local zoning laws, building codes, and land-use regulations is essential. Violations can result in fines, forced removal of structures, and legal battles that drain time and money. Research before you buy, not after you build.
+Before breaking ground on any homestead project, understanding local zoning laws, building codes, and land-use regulations is essential. Violations can result in fines, forced removal of structures, and [[sacramental-ayahuasca-legal-battles-united-states]] that drain time and money. Research before you buy, not after you build.
 
 ## Understanding Zoning
 
@@ -83,7 +83,7 @@ Some jurisdictions allow agricultural structures (barns, sheds, greenhouses) wit
 
 ## Agricultural Tax Exemptions
 
-Most states offer agricultural property tax exemptions or preferential assessment rates for land actively used for agricultural production. Requirements typically include:
+Most states offer agricultural property tax exemptions or preferential assessment rates for land actively used for [[fukuoka-agricultural-production-net-energy-deduction]]. Requirements typically include:
 
 - Minimum acreage (varies from 5 to 40 acres depending on state)
 - Minimum gross agricultural income per year (often $500-$2,500)

@@ -20,10 +20,10 @@ Detailed cultivation data for psilocybin-bearing mushroom species compiled from 
 | Season | Early summer through late autumn |
 | Habitat | Cow dung or rich soil, scattered, grouped, or clustered |
 | Range | Florida and other southern US states; also tropical regions worldwide |
-| Substrate | Uncased compost or rye grain |
+| Substrate | Uncased compost or [[bigwood-beug-miniculture-rye-grain-flush-variation-method]] |
 | Optimal MEA growth | 80°F (27°C) |
 
-One of the more potent tropical psilocybian species. Spores germinate readily on all standard agar media, making it relatively accessible for cultivation. See also [[psilocybin-potency-dosage-guide]] for dosing considerations.
+One of the more potent tropical psilocybian species. Spores germinate readily on all standard [[growing-gourmet-agar-media-formulas-preparation]], making it relatively accessible for cultivation. See also [[psilocybin-potency-dosage-guide]] for dosing considerations.
 
 ### Psilocybe caerulescens
 
@@ -63,7 +63,7 @@ The most commonly cultivated psilocybian species and the standard recommended fo
 | Substrate | Earth, leaves, twigs, occasionally decomposing wood |
 | Range | Northwestern USA |
 
-A species strongly associated with the Pacific Northwest. Often found in urban settings on wood chip mulch. Its autumn fruiting pattern and wood-based habitat distinguish it from the dung-loving species.
+A species strongly associated with the Pacific Northwest. Often found in urban settings on [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] mulch. Its autumn fruiting pattern and wood-based habitat distinguish it from the dung-loving species.
 
 ### Psilocybe mexicana
 
@@ -74,7 +74,7 @@ A species strongly associated with the Pacific Northwest. Often found in urban s
 | Substrate | Mosses, herbs, roadsides, humid meadows, cornfields, near pine forests |
 | Range | Mexico, especially limestone regions |
 
-The species used by R. Gordon Wasson in his famous 1955 ceremony with Maria Sabina, which introduced psilocybin mushrooms to Western science. See [[wasson-hofmann-psilocybin-connection]] for historical context.
+The species used by R. Gordon Wasson in his famous 1955 ceremony with [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]], which introduced [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] to Western science. See [[wasson-hofmann-psilocybin-connection]] for historical context.
 
 ### Psilocybe pelliculosa
 
@@ -97,7 +97,7 @@ A cold-weather species fruiting well into December. Despite its small size, it i
 | Fruiting temperature | 43-59°F (6-15°C) |
 | Range | Quebec area |
 
-Notable for its exceptionally low fruiting temperature range (43-59°F), making it one of the most cold-tolerant psilocybian species. This cold requirement makes it impractical for cultivation in most environments without specialized cooling equipment.
+Notable for its exceptionally low fruiting [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] (43-59°F), making it one of the most cold-tolerant psilocybian species. This cold requirement makes it impractical for cultivation in most environments without specialized cooling equipment.
 
 ### Psilocybe semilanceata (Liberty Cap)
 

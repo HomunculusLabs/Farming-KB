@@ -5,7 +5,7 @@ updated: 2026-04-15
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/sepp-holzer-practical-guide.md"
+  sources: []
 ---
 # History of Plant Science
 
@@ -21,14 +21,14 @@ The history of plant science spans from the earliest botanical observations to m
 | Marcello Malpighi | 1628-1694 | Anatome Plantarum; co-founder of plant anatomy |
 | Stephen Hales | 1677-1761 | Pioneer of plant physiology; water transport studies |
 | Charles Darwin | 1809-1882 | Plant movement and tropism research |
-| Francis Darwin | 1848-1925 | Co-authored Power of Movement in Plants |
+| Francis Darwin | 1848-1925 | Co-authored [[darwin-power-of-movement-in-plants]] in Plants |
 
 ## Legacy and Modern Relevance
 
 Modern plant science builds directly on these historical foundations:
 - Grew's pollen observations presaged modern palynology and plant reproductive biology
 - Hales' water transport models evolved into our understanding of the soil-plant-atmosphere continuum
-- The Darwins' tropism research led directly to the discovery of plant hormones and signal transduction pathways
+- The Darwins' tropism research led directly to the discovery of plant hormones and [[fungal-environmental-sensing-signal-transduction-read]] pathways
 - Plant anatomy remains essential for understanding [[medicinal-mushroom-guide-cordyceps]] biology
 
 ## See Also
@@ -36,7 +36,7 @@ Modern plant science builds directly on these historical foundations:
 - [[plant-perception]]
 - [[plant-defense-mechanisms]]
 - [[endophytic-fungi]]
-- [[shikimate-pathway-in-fungi]]
+- shikimate-pathway-in-fungi
 ## Practical Applications
 
 History of Plant Science has a range of practical applications that make it relevant to
@@ -114,4 +114,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

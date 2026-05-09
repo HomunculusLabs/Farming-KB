@@ -14,8 +14,8 @@ sources:
 Leonurus sibiricus, commonly known as Siberian motherwort or
 marihuanilla (little marijuana), is an annual or biennial herb in
 the family Lamiaceae native to Siberia, Mongolia, China, and
-other parts of East Asia. It has spread widely as an introduced
-species across the Americas, Europe, and Southeast Asia, often
+other parts of [[neurotropic-fungi-japan-east-asia-species-cultural-context]]. It has spread widely as an introduced
+species across the Americas, Europe, and [[psilocybe-southeast-asia-pacific]], often
 growing as a weed in disturbed areas. The plant is valued in
 traditional Chinese medicine (where it is called yi mu cao) and
 has gained attention in ethnobotanical circles for its mildly
@@ -72,7 +72,7 @@ The genus name derives from the Greek 'leon' (lion) and 'oura'
 ## Distribution and Habitat
 
 - **Native range:** Siberia, Mongolia, northern China, Korea, Japan
-- **Introduced range:** Widespread in North America, Central and South America (especially Mexico and Brazil), Europe, Southeast Asia
+- **Introduced range:** Widespread in [[psilocybin-north-america-pacific-northwest]], Central and South America (especially Mexico and Brazil), Europe, Southeast Asia
 - **Habitat:** Disturbed areas, roadsides, waste places, fields, riverbanks
 - **Elevation:** 0-2000 m
 - **Climate:** Temperate to subtropical; cold-hardy to -20°C
@@ -82,7 +82,7 @@ In parts of Mexico and Brazil, L. sibiricus has become
 naturalized and is locally harvested for its psychoactive
 properties. In Chiapas, Mexico, it is sold in markets as
 'marihuanilla' and smoked alone or mixed with other herbs. Its
-weedy habit and prolific seed production make it a successful
+weedy habit and prolific [[cervantes-seed-production-storage]] make it a successful
 colonizer of disturbed habitats.
 
 ## Chemistry and Active Compounds

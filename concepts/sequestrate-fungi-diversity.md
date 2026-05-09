@@ -1,16 +1,13 @@
 ---
-title: Sequestrate Fungi Diversity
+title: Sequestrate freshwater-fungi-diversity-and-sampling
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
-tags: [[mycology, fungi]
-sources: []
+tags: [mycology, fungi]
+sources:
+  sources: []
 ---
-# Sequestrate Fungi Diversity
-
-## Overview
-
-Sequestrate fungi are fungi whose spore-bearing structures remain enclosed, do not forcibly discharge spores, and typically fruit underground (hypogeously). This diverse ecological group includes truffles, false truffles, and related forms that have evolved independently multiple times from mushroom-forming (agaricoid) ancestors. They represent one of the most poorly documented yet ecologically important components of [[ascomycete-phylum-guide]], [[fungal-speciation-evolution]] for broader evolutionary context.
+# Sequestrate Fungi Diversity ## Overview Sequestrate fungi are fungi whose spore-bearing structures remain enclosed, do not forcibly discharge spores, and typically fruit underground (hypogeously). This diverse ecological group includes truffles, false truffles, and related forms that have evolved independently multiple times from mushroom-forming (agaricoid) ancestors. They represent one of the most poorly documented yet ecologically important components of [[ascomycete-phylum-guide]], [[fungal-speciation-evolution]] for broader evolutionary context.
 
 ### Morphological Reduction Sequences
 
@@ -26,13 +23,13 @@ These parallel reductions from mushroom to simple sequestrate forms show converg
 
 ### Trophic Relationships
 
-The mycorrhizal or saprobic habits of epigeous relatives carry over into sequestrate descendants. Host specificity is often maintained to the same degree (Molina and Trappe 1982). Mycorrhizal fungi absorb water and nutrients from soil and transfer them to the host plant; in return, they receive photosynthates. Saprobic sequestrate fungi produce enzymes to extract energy from dead organic matter. These relationships are central to [[fungal-spore-biology]].
+The mycorrhizal or saprobic habits of epigeous relatives carry over into sequestrate descendants. Host specificity is often maintained to the same degree (Molina and Trappe 1982). [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] absorb water and nutrients from soil and transfer them to the host plant; in return, they receive photosynthates. Saprobic sequestrate fungi produce enzymes to extract energy from dead organic matter. These relationships are central to [[fungal-spore-biology]].
 
 ### Specialized Functions
 
 Several sequestrate genera perform specialized ecological roles:
 
-- *Hysterangium* and *Gautieria* form dense mycelial mats in forest soil with specific biogeochemical properties, influencing soil chemistry and nutrient cycling
+- *Hysterangium* and *Gautieria* form dense mycelial mats in forest soil with specific biogeochemical properties, influencing soil chemistry and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 - *Rhizopogon* induces prolific branching of host rootlets through auxin production (the ancestral epigeous *Suillus* also exhibits this trait)
 - *Tuber melanosporum* (Périgord black truffle) produces herbicidal compounds that reduce weed competition with host trees
 - *Rhizopogon* enhances survival and growth of *Pseudotsuga menziesii* (Douglas fir) seedlings in forest plantations, making it valuable for reforestation
@@ -47,16 +44,16 @@ Sequestrate fungi are difficult to study because most fruit underground. In comp
 
 ### Survey Protocols
 
-A crew of six trained personnel can survey about 10 hectares per day. Surveys should be conducted for a minimum of 3 years (preferably 5), visiting each area every 2-3 weeks during fruiting seasons. In Europe, dogs are trained to find commercially valuable truffles. Without dogs, collectors rely on animal digs and habitat knowledge. These methods are an important component of broader [[fungal-conservation-endangered-species]] for conservation frameworks.
+A crew of six trained personnel can survey about 10 hectares per day. Surveys should be conducted for a minimum of 3 years (preferably 5), visiting each area every 2-3 weeks during [[azurescens-fruiting-seasons-and-conditions]]. In Europe, dogs are trained to find commercially valuable truffles. Without dogs, collectors rely on animal digs and habitat knowledge. These methods are an important component of broader [[fungal-conservation-endangered-species]] for conservation frameworks.
 
 ## Related Topics
 
 - [[fungal-speciation-evolution]] -- evolutionary origins of sequestrate forms
 - [[ectomycorrhizal-fungal-ecology]] -- mycorrhizal associations of sequestrate fungi
 - [[fungal-endemism-and-biogeography]] -- geographic patterns in sequestrate distributions
-- [[fungal-biodiversity]] -- sequestrate fungi within global fungal diversity
+- [[fungal-biodiversity]] -- sequestrate fungi within global [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[basidiomycete-phylum-guide]] -- Basidiomycete sequestrate diversity
-- [[fungal-inventory-methods]] -- field survey techniques
+- fungal-inventory-methods -- field survey techniques
 ## Practical Considerations
 
 When working with Sequestrate Fungi Diversity, several practical factors should be
@@ -73,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

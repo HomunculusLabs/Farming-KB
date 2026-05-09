@@ -1,13 +1,6 @@
 ---
-title: "Comparison Chinampas Vs Raised Bed Gardening"
-created: 2026-05-02
-updated: 2026-05-02
-type: comparison
-tags: [gardening, permaculture]
-sources: []
 ---
----
-title: "[[raised-bed-gardening]]"
+title: "raised-bed-gardening"
 tags: [comparison, growing-methods, intensive-gardening, water-management, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
@@ -22,7 +15,7 @@ to improve drainage, soil quality, and growing conditions, but they differ funda
 their relationship to water. Chinampas are built in or adjacent to shallow water bodies, using
 capillary wicking from below to maintain constant moisture, while raised beds are free-draining
 structures built on dry land. Chinampas are among the most productive agricultural systems ever
-developed, while raised beds are the most accessible intensive gardening method for home
+developed, while raised beds are the most accessible [[solomon-wide-spacing-versus-intensive-gardening-debate]] method for home
 growers.
 
 ## Chinampas
@@ -31,7 +24,7 @@ Raised beds elevate the growing surface in framed structures typically 4 feet wi
 from both sides), any length, and 6-24 inches tall. They are filled with custom soil mixes —
 commonly Mel's Mix (1/3 compost, 1/3 peat moss or coir, 1/3 vermiculite) or alternatives
 blending topsoil, compost, and aeration materials. Beds are constructed from cedar, redwood,
-pine, corrugated metal, concrete blocks, or stone, with drip irrigation recommended for
+pine, corrugated metal, concrete blocks, or stone, with [[comparison-drip-irrigation-vs-passive-irrigation]] recommended for
 consistent moisture.
 
 Raised beds are the foundation of most home vegetable gardens because they solve multiple
@@ -39,7 +32,7 @@ problems simultaneously: they improve drainage in heavy soils, prevent soil comp
 gardener never walks on the growing surface), warm 2-4 weeks earlier in spring for earlier
 planting, allow complete control over soil quality regardless of native conditions, and reduce
 weed pressure. They are accessible to gardeners with mobility limitations, highly productive
-per square foot, and can be built anywhere — patios, rooftops, driveways, or degraded land.
+per [[comparison-biointensive-vs-square-foot-gardening]], and can be built anywhere — patios, rooftops, driveways, or degraded land.
 The initial investment in materials and soil mix is modest compared to the multi-year
 productivity gains.
 
@@ -47,7 +40,7 @@ The drawbacks of raised beds include higher irrigation requirements than in-grou
 (elevated soil drains faster and dries more quickly), the upfront cost of materials and soil
 fill (especially for deep beds), and the limited lifespan of wooden frames (3-15 years
 depending on material). Deep-rooted crops may be constrained by bed depth, and the custom soil
-mix requires periodic replenishment as organic matter decomposes. In very hot climates, raised
+mix requires periodic replenishment as [[hamilton-composting-and-organic-matter-management]] decomposes. In very hot climates, raised
 beds can overheat and dry out rapidly without mulch and consistent irrigation.
 
 ## Key Differences
@@ -68,7 +61,7 @@ beds can overheat and dry out rapidly without mulch and consistent irrigation.
 Chinampas are the best choice for homesteads with existing ponds, wetlands, or the willingness
 to construct water features, and for sites where maximum productivity per unit area is the
 goal. They suit permaculture designs that integrate plant cultivation with aquaculture,
-climates where water thermal buffering extends the growing season, and growers who want a
+climates where water thermal buffering extends the [[savory-growing-season-and-non-growing-season-management]], and growers who want a
 self-fertilizing, self-watering growing system. The pond-edge extension approach makes
 chinampas accessible even on small water features, and container chinampas (wicking beds) bring
 the concept to dry-land gardens.
@@ -86,7 +79,7 @@ Raised beds are the right choice for the vast majority of home gardeners: they w
 site, in any climate, with any budget. They suit urban and suburban yards, patios, rooftops,
 and community gardens where ground soil is poor or contaminated. Raised beds are ideal for
 beginners because the system is simple, well-documented, and forgiving. They accommodate
-intensive planting methods like square foot gardening, and their modular nature allows
+intensive native american planting methods and indigenous agriculture like square foot gardening, and their modular nature allows
 expansion over time. For gardeners without water features or the desire to maintain them,
 raised beds deliver most of the productivity benefits of intensive growing with far simpler
 infrastructure.
@@ -96,4 +89,8 @@ Wicking beds are essentially a chinampa concept adapted to dry-land gardening �
 with a water reservoir below the soil that wicks moisture upward. Raised beds built adjacent to
 ponds can incorporate capillary wicking from the water body. [[wicking-bed-construction]]
 - [[comparison-keyhole-garden-vs-square-foot-gardening]]
+- chinampas
+
+## See Also
+
 - [[chinampas]]

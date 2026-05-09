@@ -31,13 +31,13 @@ particular promise against digestive system cancers.
 - **Family:** Hymenochaetaceae
 - **Habitat:** Parasitic and saprophytic on mulberry and other
   hardwood trees
-- **Distribution:** East Asia (China, Japan, Korea), also found in
+- **Distribution:** [[neurotropic-fungi-japan-east-asia-species-cultural-context]] (China, Japan, Korea), also found in
   tropical and subtropical regions
 - **Conservation:** Wild populations are declining due to
   overharvesting; cultivated mycelium now the primary source
 
 ### Morphology
-- Woody, hoof-shaped or bracket-like fruiting body
+- Woody, hoof-shaped or bracket-like [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]
 - Upper surface dark brown to black, cracked with age
 - Pore surface rust-brown
 - Extremely tough texture (not edible)
@@ -92,7 +92,7 @@ medicine to modern pharmaceutical development. Its approval as a
 medicine in Korea (1997) makes it one of the few mushroom-derived
 products with full pharmaceutical status. The multi-stakeholder
 research model (industry, government, academia) in Korea provides
-a template for developing other medicinal mushroom products. The
+a template for developing other [[gourmet-medicinal-mushroom-casing-layer-techniques]] products. The
 shift from wild-harvested fruiting bodies to fermenter-cultured
 mycelium addresses both sustainability and quality control concerns.
 

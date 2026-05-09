@@ -1,6 +1,6 @@
 ---
 title: "One-Carbon Metabolism"
-aliases: [one carbon metabolism, folate-mediated one-carbon metabolism, folate methionine cycle]
+aliases: [[query-how-does-one-carbon-metabolism-affect-methylation]], folate-mediated one-carbon metabolism, folate methionine cycle]
 tags: [biochemistry, metabolism, nutrition, epigenetics, pharmacology]
 created: 2026-05-02
 type: topic
@@ -19,10 +19,10 @@ A useful definition is that one-carbon metabolism is the economy of transferable
 
 ## Historical Background
 
-The study of one-carbon metabolism emerged from work on folate deficiency, anemia, and nucleotide synthesis in the twentieth century.
+The study of one-carbon metabolism emerged from work on folate deficiency, anemia, and nucleotide synthesis in the [[coleman-louis-savier-twentieth-century-maraicher]].
 Folate was recognized as an anti-anemia factor because rapidly dividing blood-cell precursors require folate-derived carbon units to make DNA.
 Vitamin B12 research revealed that folate metabolism and methionine metabolism were chemically intertwined rather than independent nutritional topics.
-The identification of S-adenosylmethionine established a biochemical explanation for the transfer of methyl groups to DNA, proteins, phospholipids, and small molecules.
+The identification of [[s-adenosylmethionine]] established a biochemical explanation for the transfer of methyl groups to DNA, proteins, phospholipids, and small molecules.
 Cancer chemotherapy also shaped the field because antifolate drugs demonstrated that blocking folate-dependent reactions could selectively harm rapidly dividing cells.
 Later molecular biology added an epigenetic dimension by connecting methyl donor supply to DNA and histone methylation.
 Modern systems biology now treats the pathway as a compartmentalized flux network rather than a simple vitamin chart.
@@ -67,7 +67,7 @@ Serine, glycine, sarcosine, dimethylglycine, and related substrates can feed mit
 Mitochondrial serine hydroxymethyltransferase and the glycine cleavage system are important sources of one-carbon flux in many tissues.
 Mitochondria can export formate to the cytosol, where it supports purine synthesis, thymidylate synthesis, and other folate-dependent reactions.
 This arrangement lets cells connect energy metabolism, amino acid catabolism, and biosynthesis.
-Rapidly proliferating cells often increase serine uptake and mitochondrial folate flux to support biomass production.
+Rapidly proliferating cells often increase serine uptake and mitochondrial folate flux to support [[dighton-fungal-biomass-production-aquatic-ecosystems]].
 Mitochondrial impairment can disturb nucleotide pools, redox state, and methylation without presenting only as a deficiency of ATP.
 Compartmentation is therefore essential to interpreting pathway diagrams and metabolic measurements.
 
@@ -111,7 +111,7 @@ Methotrexate inhibits dihydrofolate reductase and is used in oncology, autoimmun
 Trimethoprim and pyrimethamine exploit differences between microbial or protozoal folate enzymes and human enzymes.
 5-fluorouracil inhibits thymidylate synthase through a complex involving reduced folate.
 Leucovorin can rescue normal cells after high-dose methotrexate and can also intensify fluoropyrimidine effects.
-Nitrous oxide can inactivate vitamin B12-dependent methionine synthase, creating acute disruption in susceptible patients.
+[[nitrous-oxide]] can inactivate vitamin B12-dependent methionine synthase, creating acute disruption in susceptible patients.
 Some detoxification processes consume methyl donors or glutathione, indirectly linking xenobiotic metabolism to one-carbon and sulfur pathways.
 These examples show why the network is important in both therapy and adverse-effect risk.
 

@@ -1,15 +1,15 @@
 ---
-title: Cannabis Fractional Distillation
+title: Cannabis cannabis fractional distillation cannabinoids
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 # Cannabis Fractional Distillation
 
-Fractional distillation is an advanced refinement technique that separates cannabis oil into its component cannabinoids based on differences in their boiling points under reduced pressure. This process can yield products of significantly higher purity than simple extraction and winterization, potentially reaching nearly pure THC. Fractional distillation represents one of the most sophisticated techniques available in cannabis alchemy, bridging the gap between kitchen-scale extraction and pharmaceutical-grade cannabinoid isolation.
+Fractional distillation is an [[cannabis-advanced-refinement-fractional-distillation]] technique that separates [[cervantes-hash-cannabis-oil-production]] into its component cannabinoids based on differences in their boiling points under reduced pressure. This process can yield products of significantly higher purity than simple extraction and winterization, potentially reaching nearly pure THC. Fractional distillation represents one of the most sophisticated techniques available in [[lemon-cannabis-alchemy-direct-vaporization]], bridging the gap between kitchen-scale extraction and pharmaceutical-grade cannabinoid isolation.
 
 ## Principles of Fractional Distillation
 
@@ -21,7 +21,7 @@ Many impurities in crude cannabis oil do not vaporize under the distillation con
 
 ## Historical Context: The Adams Method
 
-The foundational work on cannabis oil fractional distillation was performed by Roger Adams in 1940, published in volume 62 of the Journal of the American Chemical Society. Adams used wild hemp grown in Minnesota during the 1938 season, extracting the dried plant material with 95 percent ethyl alcohol.
+The foundational work on cannabis oil fractional distillation was performed by Roger Adams in 1940, published in volume 62 of the Journal of the American Chemical Society. Adams used wild hemp grown in Minnesota during the 1938 season, extracting the dried plant material with 95 percent [[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]].
 
 Adams' method involved several stages. First, the ethanolic extract was concentrated by flashing off solvent under vacuum, never raising the temperature above 50 degrees Celsius. The concentrated solution contained approximately 23.1 grams of solids per 100 milliliters of ethanol.
 
@@ -49,7 +49,7 @@ The vacuum pump must be capable of achieving pressures in the range of 0.1 to 5 
 
 Different cannabinoids vaporize at different temperatures under a given pressure, allowing them to be collected as separate fractions. The first fraction to distill typically contains lighter compounds, solvents, and monoterpenes. Subsequent fractions contain increasingly heavier cannabinoids and sesquiterpenes.
 
-The THC-rich fraction is collected at a specific temperature range determined by the operating pressure. Careful monitoring of the distillation temperature allows the operator to switch receiving flasks at the appropriate moments, separating the THC fraction from both lighter and heavier fractions.
+The THC-rich fraction is collected at a specific [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] determined by the operating pressure. Careful monitoring of the distillation temperature allows the operator to switch receiving flasks at the appropriate moments, separating the THC fraction from both lighter and heavier fractions.
 
 The heaviest fraction, containing high-boiling-point compounds and any remaining material, is left in the distillation flask. This residue contains cannabinoids that did not vaporize under the operating conditions and may be subjected to a second distillation at higher temperature or lower pressure.
 

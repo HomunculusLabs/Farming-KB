@@ -18,7 +18,7 @@ type: concept
 
 Herbarium specimens and live fungal cultures are critical resources
 for systematists, ecologists, and conservation biologists. These
-collections document species distribution patterns, fruiting
+collections document species [[guzman-global-distribution-patterns-neurotropic-fungi]], fruiting
 phenologies, host associations, and species composition data for
 specific sites. Collections that originated more than 100 years ago
 provide irreplaceable historical baselines against which to measure
@@ -51,7 +51,7 @@ information systems enables biogeographic analyses.
 ## See Also
 
 - [[dna-barcoding-fungal-identification]]
-- [[rare-endangered-fungi-conservation]]
+- rare-endangered-fungi-conservation
 - culture collection fungi
 ## Practical Considerations
 
@@ -69,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +111,6 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+- [[biodiversity-fungal-herbarium-collections]]
+- [[fungal-biodiversity-herbarium-collections]]
+- [[fungal-specimen-collection-herbarium-management]]

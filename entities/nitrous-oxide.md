@@ -15,7 +15,7 @@ sources:
   - Weimann, J. (2003). "Gas density and airway resistance." British Journal of Anaesthesia 90(2): 166-172.
   - Jevtović-Todorović, V. et al. (1998). "Prolonged exposure to inhalational anesthetic causes neurodegeneration in the developing brain." Annals of Neurology 43(3): 358-364.
   - EMCDDA (2023). "Nitrous Oxide — Drug Profile." European Monitoring Centre for Drugs and Drug Addiction.
-  - Committee on the Ethics of Animal Experiments (2015). "Nitrous oxide for procedural analgesia." Pain Medicine 16(6): 1083-1091.
+  - Committee on the Ethics of [[hofmann-lsd-animal-experiments-toxicity]] (2015). "Nitrous oxide for procedural analgesia." Pain Medicine 16(6): 1083-1091.
 created: 2026-05-07
 ---
 
@@ -110,10 +110,10 @@ for whipped cream dispensers and as a medical gas for anesthesia.
 
 Recreational use has prompted regulatory responses in several jurisdictions.
 The UK classified nitrous oxide as a Class C controlled substance in November
-2023 under the Psychoactive Substances Act. Japan and several Australian states
+2023 under the Psychoactive [[controlled-substances-act-and-psychedelic-research]]. Japan and several Australian states
 have restricted sale to minors.
 
-In the United States, nitrous oxide is unscheduled at the federal level,
+In the [[dmt-containing-plants-united-states-halpern]], nitrous oxide is unscheduled at the federal level,
 though several states and municipalities have enacted local restrictions on
 sales intended for recreational inhalation. The DEA has considered but not
 acted on scheduling recommendations.
@@ -121,7 +121,7 @@ acted on scheduling recommendations.
 ## See Also
 
 - [[dextromethorphan]]
-- [[mdma]]
+- mdma
 - pcp
 - [[salvinorin-a-entity]]
 - [[psilocybin]]

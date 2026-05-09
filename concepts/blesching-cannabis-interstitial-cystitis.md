@@ -6,7 +6,7 @@ tags:
   - interstitial-cystitis
   - bladder-health
   - chronic-pain
-  - endocannabinoid-system
+  - [[cannabis-health-endo-cannabinoid-system]]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
@@ -27,7 +27,7 @@ text.
 Common symptoms of interstitial cystitis include pain in the pelvic region
 (vagina, perineum), a chronic sensation of needing to urinate or having voided
 incompletely, painful burning upon urination, and polyuria (high frequency of
-urination). The chronic pain may also present as acute flare-ups, which are
+urination). The [[cannabis-chronic-pain-management]] may also present as acute flare-ups, which are
 often triggered by stress, menses, bacteria, or sexual activity.
 
 Cystitis can be a debilitating condition that may severely reduce quality of
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

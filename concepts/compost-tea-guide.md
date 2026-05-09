@@ -24,7 +24,7 @@ sources:
 
 # Compost Tea Guide — Complete AACT Manual
 
-Actively Aerated Compost Tea (AACT) is a water extract of compost, brewed with food resources and actively aerated to multiply beneficial microorganisms. Developed by Dr. Elaine Ingham, AACT delivers the full [[soil-food-web-nutrient-cycling]] — bacteria, fungi, protozoa, and nematodes — to soil and foliage. It is NOT anaerobic tea, leachate, or manure tea. True compost contains no human pathogens; AACT brewed aerobically maintains that safety.
+Actively [[actively-aerated-compost-tea]] Tea (AACT) is a water extract of compost, brewed with food resources and actively aerated to multiply beneficial microorganisms. Developed by Dr. Elaine Ingham, AACT delivers the full [[soil-food-web-nutrient-cycling]] — bacteria, fungi, protozoa, and nematodes — to soil and foliage. It is NOT anaerobic tea, leachate, or manure tea. True compost contains no human pathogens; AACT brewed aerobically maintains that safety.
 
 ## Equipment
 
@@ -32,7 +32,7 @@ Actively Aerated Compost Tea (AACT) is a water extract of compost, brewed with f
 - **5-gallon bucket**: Air pump + air stone + paint strainer bag. Simplest setup for home gardeners.
 - **25-50 gallon brewers**: Small diaphragm pumps, multiple airstones. Suitable for homestead scale.
 - **Commercial 100-500+ gallon**: High-output regenerative blowers, venturi injectors, mesh extraction bags. For farms, orchards, turf.
-- **Key requirement**: Minimum 0.05 CFM air per gallon of water. Dissolved oxygen (DO) must stay above 6 ppm throughout the brew.
+- **Key requirement**: Minimum 0.05 CFM air per gallon of water. [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] (DO) must stay above 6 ppm throughout the brew.
 
 ### Components
 - **Air pump**: Must run continuously. Diaphragm pumps for small batches; regenerative blowers for large.
@@ -47,7 +47,7 @@ Actively Aerated Compost Tea (AACT) is a water extract of compost, brewed with f
 - Should contain visible fungal hyphae (white threads)
 - Worm castings = excellent bacterial source
 - Forest humus = excellent fungal source
-- Thermal compost = balanced bacteria:fungi depending on feedstocks
+- [[ingham-thermal-compost-versus-worm-compost]] = balanced bacteria:fungi depending on feedstocks
 - Test compost via Soil Foodweb lab if possible — know your biology
 
 ### Food Resources (select for desired organism group)
@@ -123,7 +123,7 @@ Ingham recommends microscope assessment at 400x magnification:
 | Predatory nematodes | Large mouth, fast | 1-5/g |
 
 - High ciliates indicate anaerobic/compacted conditions
-- Root-feeding nematodes present = need more beneficial nematodes, mycorrhizae, and fungi
+- Root-feeding nematodes present = need more [[ingham-beneficial-nematodes-soil-food-web]], mycorrhizae, and fungi
 
 ## Troubleshooting
 
@@ -134,33 +134,15 @@ Ingham recommends microscope assessment at 400x magnification:
 | Low DO (<5.5 ppm) | Too much food, warm temp, insufficient aeration | Add more air, reduce food next batch, cool water |
 | No foam at all | Low biology in compost, insufficient food | Use better compost, add molasses |
 | Slime on surfaces | Anaerobic bacteria | Discard, clean equipment thoroughly |
-| Brown/gray color | Poor compost quality | Source better compost with visible biology |
+| Brown/gray color | Poor [[aact-compost-quality-standards-ingham]] | Source better compost with visible biology |
 | Temperature >85°F | Microbes consuming oxygen faster than aeration | Cool water, shade brewer, reduce food |
 
 ## Storage and Shelf Life
-
-- AACT must be used within 4-6 hours of brewing for maximum benefit
-- NEVER store in sealed containers — organisms need oxygen
-- If must store briefly: keep aerated, use within 24 hours, biology declining rapidly
-- Compost tea cannot be shipped or stored long-term — brew fresh on-site
-- This is why commercial compost tea products are typically extracts, not true AACT
-
-## Bacterial vs. Fungal Tea
-
-| Factor | Bacterial Tea | Fungal Tea |
-|--------|--------------|------------|
-| Target crops | Vegetables, annuals, brassicas | Trees, shrubs, perennials, cannabis flower |
-| Compost source | Worm castings, thermal compost | Forest humus, fungal compost |
-| Food | Molasses, fish hydrolysate | Kelp, humic acid, oatmeal, oat straw |
-| Molasses | 2-4 Tbsp | 0-1 Tbsp (less) |
-| Brew time | 18-24 hours | 24-36 hours |
-| Bacteria:Fungi ratio | High bacterial | High fungal |
-
 ## See Also
 
 - [[composting-systems]] — compost production as AACT ingredient source
 - [[soil-food-web-nutrient-cycling]] — the organisms AACT delivers
-- [[cannabis-living-soil-guide]] — AACT in living soil cannabis cultivation
+- [[cannabis-living-soil-guide]] — AACT in [[comparison-living-soil-cannabis-vs-hydroponic-cannabis]] cultivation
 - [[vermicomposting]] — worm castings as premium AACT ingredient
 - [[mycorrhizal-fungi]] — add spores at application time
 - [[compost-tea-aact]] — concise AACT summary

@@ -15,7 +15,7 @@ An ayahuasquero is a practitioner who prepares and serves ayahuasca in
 ceremonial contexts. The role encompasses a wide spectrum of individuals,
 from deeply respected community elders to enterprising commercial operators.
 Understanding the diversity of ayahuasqueros is essential for anyone
-considering participating in ayahuasca ceremonies in South America.
+considering participating in [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] in South America.
 
 ## The Spectrum of Practice
 
@@ -33,7 +33,7 @@ and someone who soon asked for money or gifts at every opportunity.
 This case illustrates the gap between spiritual reputation and personal
 conduct that tourists may encounter.
 
-In contrast, another practitioner in the Shipibo town of San Francisco,
+In contrast, another practitioner in the Shipibo town of [[shipibo-san-francisco-ceremonial-center-ucayali]],
 known as "E," was widely regarded as an honorable man. At night, icaros
 (sacred healing songs) could be heard in the darkness of his home while
 he held private services for his family. He charged about ten dollars to
@@ -42,7 +42,7 @@ charged by more commercially oriented practitioners.
 
 ## Economic Motivations
 
-Ayahuasca tourism has created significant economic incentives that shape
+[[stuart-r-ayahuasca-tourism-cautionary-ethnography]] has created significant economic incentives that shape
 who becomes an ayahuasquero and how they practice. One nephew of a Yarina-
 area shaman earned a couple hundred dollars per month catering to tourists
 while his neighbors could not afford a thirty-cent taxi ride. He charged
@@ -87,7 +87,7 @@ and cultural resonance.
 
 Shamanic practice often runs in families. In one observed case, a shaman's
 son served as the director of the family's religious practice and was
-giving workshops in the United States while the father conducted ceremonies
+giving workshops in the [[dmt-containing-plants-united-states-halpern]] while the father conducted ceremonies
 in Peru. This transnational dimension of shamanic practice illustrates how
 traditional knowledge is adapting to global demand.
 

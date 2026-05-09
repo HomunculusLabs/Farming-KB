@@ -19,7 +19,7 @@ type: concept
 Mollison addresses shade as a critical design factor that affects plant
 productivity, animal comfort, building efficiency, and microclimate
 management. Understanding how to create, manage, and utilize shade is
-essential for designing productive systems across all climate zones.
+essential for designing productive systems across all [[mollison-climate-zones-permaculture-strategies]].
 
 ## The Intrinsic Value of Shade
 
@@ -45,11 +45,11 @@ such as Butia palm, Jacaranda, or Tipuana tipu.
 In the tropics, spacing permeable-crowned trees throughout crops reduces
 both light and temperature. Examples include using Prosopis trees with
 millet crops in India, or partially shading taro in Hawaii. Trials of
-light-transmitting or thin-crowned palms and legume trees show that if
+light-transmitting or thin-crowned palms and [[permaculture-plants-legume-trees-acacia-carob-locust]] show that if
 water is sufficient, crops under leguminous trees do much better in the
 tropics than a crop standing on its own.
 
-Part of the problem in the tropics (both for biomass production and
+Part of the problem in the tropics (both for [[dighton-fungal-biomass-production-aquatic-ecosystems]] and
 nutrition) is that non-adapted temperate crops are persistently grown
 there. True tropical plants can not only stand much higher levels of
 light before saturation, but can also maintain photosynthesis at low
@@ -88,7 +88,7 @@ a more moist site. Designers can plan such shaded niches by placing
 large rocks, earth mounds, and structures to cast useful shadows.
 
 ### Shadehouses and Structures
-In zone 0, the house or village, good house design includes an attached
+In zone 0, the house or village, good [[mollison-designers-house-design-climate-zones]] includes an attached
 glasshouse or shadehouse. Shadehouses protect seedlings, nursery plants,
 and delicate species from extreme sun and wind. Shadehouses are
 especially important in tropical and arid climates where direct sun can
@@ -105,16 +105,16 @@ species. This is covered in [[mollison-gangammas-mandala-and-banana-circle-garde
 
 Many fire-resistant plants are also wind-resistant, sharing adaptations
 like waxy or hairy leaf surfaces that reduce both desiccation from wind
-and heat stress from sun. Shade and shelter often work together: a
+and [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]] from sun. Shade and shelter often work together: a
 windbreak that reduces wind chill also casts useful shade. The designer
 should consider both functions when selecting species.
 
 ## Integration with Permaculture Systems
 
-- [[mollison-microclimate-creation]] for comprehensive microclimate
+- mollison-microclimate-creation for comprehensive microclimate
   modification.
 - [[mollison-tropical-home-garden-design]] for tropical shade systems.
-- [[mollison-zone-and-sector-analysis]] for placing shade elements in
+- mollison-zone-and-sector-analysis for placing shade elements in
   optimal positions.
 
 ## Key Principles
@@ -128,5 +128,11 @@ should consider both functions when selecting species.
 4. Shade reduces ground temperatures by up to 15 degrees C, critical
   for livestock and human comfort.
 5. Shaded soils retain moisture and avoid lethal temperature extremes.
-6. Combine shade with wind protection for compound benefits in exposed
+6. Combine shade with [[cervantes-wind-protection-outdoor-cannabis]] for compound benefits in exposed
   sites.
+## See Also
+- [[mollison-designers-coffee-shade-growing-systems]]
+- [[mollison-designers-shade-grown-coffee-and-cacao-systems]]
+- [[mollison-designers-legume-shade-tree-pasture-systems]]
+- [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]]
+- [[mollison-bamboo-permaculture-systems]]

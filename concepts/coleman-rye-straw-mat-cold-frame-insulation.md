@@ -14,7 +14,7 @@ system of overnight cold protection using one-inch-thick mats made from rye stra
 straw mats could be rolled out over the glass covers of cold frames to provide extra
 insulation on cold nights, then rolled up and stored during the day to allow full light
 penetration. This simple but effective technology was a key component of the extraordinary
-year-round vegetable production system that made Paris famous as the vegetable capital of
+year-round [[dry-gardening-unirrigated-vegetable-production-solomon]] system that made Paris famous as the vegetable capital of
 Europe.
 
 ## The French Intensive System
@@ -68,11 +68,11 @@ the soil from below.
 
 The straw mats complemented this bottom heat by insulating the top of the frames, preventing
 heat loss through the glass at night. Together, the hotbed below and the straw mat above
-created a remarkably stable growing environment.
+created a remarkably stable [[cannabis-growing-environment-setup]].
 
 When the hotbed manure had lost its heat and broken down into crumbly compost, it was
 shoveled out and used as a soil amendment. Composted horse manure mixed with straw was
-considered by many growers of the time to be the only suitable manure for vegetable growing.
+considered by many growers of the time to be the only suitable manure for [[fukuoka-semi-wild-vegetable-growing-natural-method]].
 
 ## The Labor Requirement
 
@@ -81,7 +81,7 @@ mats across every cold frame and cloche. Every morning, the mats had to be rolle
 
 Given that some maraichers managed thousands of cloches and extensive areas of cold frames,
 the daily task of managing the straw mats required a large and dedicated workforce. The
-average labor force was six workers per 1.5 acres, and during the nineteenth century the work
+average labor force was six workers per 1.5 acres, and during the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] the work
 day often ran to 16 hours.
 
 This level of hand labor and attention to detail was one of the reasons the French system
@@ -106,9 +106,9 @@ were for large-scale operations.
 
 ## Legacy
 
-The French maraichage system eventually disappeared as the twentieth century progressed.
+The French maraichage system eventually disappeared as the [[coleman-louis-savier-twentieth-century-maraicher]] progressed.
 Automobiles replaced horses, eliminating the supply of fresh manure. Urban expansion consumed
-the land. Chemical fertilizers and large-scale production displaced intensive artisanal
+the land. [[cervantes-chemical-fertilizers-guide]] and large-scale production displaced intensive artisanal
 growing.
 
 But the techniques and inspiration were not totally lost. They remained alive in old books

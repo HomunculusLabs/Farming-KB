@@ -29,7 +29,7 @@ together, so these compounds decompose more slowly.
 Even tougher are the polymers known as lignins, which give
 wood its strength; chitins, which make up the armored coats of
 insects; and certain types of waxes. Only specialized soil
-organisms, particularly fungi, can break down these tenacious
+organisms, particularly fungi, can [[query-can-fungi-break-down-plastic-pollution]] these tenacious
 molecules.
 
 In a process that is poorly understood, microbes and other
@@ -49,7 +49,7 @@ buildup of humus.
 When pushed, soil organisms can decompose humus, but only
 grudgingly, and usually if there is nothing else to eat. If
 humus levels are dropping, it is a sign that the soil is in
-very bad shape. It means that easily digested organic matter is
+very bad shape. It means that easily digested [[hamilton-composting-and-organic-matter-management]] is
 gone, and the inhabitants are, in effect, burning down the
 house to keep warm.
 
@@ -119,9 +119,9 @@ rain and forms clay-bound, root-thwarting clods.
 
 ## Humus and Fungal Networks
 
-[[composting-science-solomon]] and [[gaias-garden-sheet-mulching]] to add constant
+[[composting-science-solomon]] and gaias-garden-sheet-mulching to add constant
   organic matter
-- Use [[gaias-garden-mulch-plants-ecological-garden]] to
+- Use gaias-garden-mulch-plants-ecological-garden to
   protect soil surfaces
 - Compost all available organic waste and return it to the soil
 - See [[gaias-garden-soil-food-web-and-humus]] for the complete

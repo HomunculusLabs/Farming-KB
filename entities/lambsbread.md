@@ -25,12 +25,12 @@ sources:
 # Lambsbread
 
 **Lambsbread** (also spelled Lamb's Bread or Lamb's Breath) is a legendary
-sativa [[southeast-asian-mushroom-tourism-bali]] and South
+sativa southeast-asian-mushroom-tourism-bali and South
   Indian sativa genetics brought to the Caribbean during the colonial era
 - **Breeder:** Landrace — developed through natural selection by Jamaican
   growers over generations
 - **Genetic stability:** Moderate — phenotypic variation equery-how-do-i-create-a-seed-bank-and-start-seed-savingo
-  landrace genetics and informal [[gartz-magic-mushrooms-species-south-america]]
+  landrace genetics and informal gartz-magic-mushrooms-species-south-america
 contributed additional [[terpene-profile-chemotaxonomy]]:
 
 ### Primary Aromas
@@ -52,7 +52,7 @@ tropical fruit character.
 | **THC** | 15–22% | Varies by grower and phenotype |
 | **CBD** | 0.1–0.5% | Low, though some phenotypes approach 1% |
 | **CBN** | <0.1% | Negligible in fresh flower |
-| **THCV** | 0.1–0.3% | Occasionally detectable, contributes to energy |
+| **THCV** | 0.1–0.3% | Occasionally [[det|det]]ectable, contributes to energy |
 
 Traditional Jamaican landraces generally test lower in THC than modern
 hybrids, but Lambsbread is considered a higher-THC landrace by historical
@@ -65,8 +65,8 @@ standards.
 | **Myrcene** | 0.4–0.8% | Relaxation, earthy base |
 | **Caryophyllene** | 0.3–0.7% | Anti-inflammatory, peppery |
 | **Limonene** | 0.2–0.5% | Mood elevation, citrus |
-| **Pinene** | 0.2–0.4% | Alertness, pine |
-| **Humulene** | 0.1–0.2% | Anti-inflammatory, woody |
+| **[[pinene|Pinene]]** | 0.2–0.4% | Alertness, pine |
+| **[[humulene|Humulene]]** | 0.1–0.2% | Anti-inflammatory, woody |
 | **Terpinolene** | 0.1–0.2% | Antioxidant, floral |
 
 The terpinolene content is notable and relatively high compared to most

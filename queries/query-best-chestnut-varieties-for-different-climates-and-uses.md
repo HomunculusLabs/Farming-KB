@@ -1,5 +1,5 @@
 ---
-title: "Query: Best Chestnut Varieties for Different Climates and Uses" tags:
+title: "Query: query best chestnut varieties for different climates and uses Varieties for Different Climates and Uses" tags:
 type: query
 created: 2026-05-06
   - chestnut   - nut-trees
@@ -20,7 +20,7 @@ tags: []
 
 ## Quick Decision Guide
 
-**What climate zone are you in?** | USDA Zone | Best Species | Key Consideration |
+**What [[holzer-climate-zone-microclimate-creation]] are you in?** | USDA Zone | Best Species | Key Consideration |
 |-----------|-------------|-------------------| | 3–4 | [[query-best-walnut-varieties-for-different-climates-and-uses]]
 
 - [[query-how-to-design-a-food-forest-guild-for-fruit-trees]]
@@ -103,3 +103,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[query-best-citrus-varieties-for-different-climates]]

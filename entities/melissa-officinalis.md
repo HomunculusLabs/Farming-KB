@@ -61,7 +61,7 @@ The genus name *Melissa* derives from Greek μέλισσα (melissa), meaning "h
 
 ## Distribution and Habitat
 
-Melissa officinalis is native to the Mediterranean region, southern Europe, western Asia, and parts of North Africa. It has been widely naturalized across temperate Europe, North America, and parts of South America through centuries of cultivation.
+Melissa officinalis is native to the Mediterranean region, southern Europe, western Asia, and parts of North Africa. It has been widely naturalized across temperate Europe, [[psilocybin-north-america-pacific-northwest]], and parts of South America through centuries of cultivation.
 
 The species prefers rich, moist, well-drained loamy soils with a pH of 6.0–7.5. It thrives in partial shade to full sun and is hardy to USDA zones 4–9.
 
@@ -88,11 +88,11 @@ Melissa officinalis has a long history of use in European, Persian, and Islamic 
 
 **Cognitive function:** A landmark 2003 clinical trial demonstrated significant cognitive improvement in mild-to-moderate Alzheimer's disease patients after 16 weeks of Melissa extract (60 drops/day), with benefits in agitation reduction and cognitive scores.
 
-**Herpes simplex:** Topical application of lemon balm cream (1% extract) reduces episode frequency, healing time, and symptom severity in recurrent herpes labialis, supported by multiple clinical trials.
+**Herpes simplex:** Topical application of lemon balm cream (1% extract) reduces episode frequency, healing time, and symptom severity in recurrent herpes labialis, supported by multiple [[mushroom-cancer-clinical-trials-overview]].
 
 ## Essential Oil and Phytochemistry
 
-The essential oil of Melissa officinalis is obtained by steam distillation of aerial parts, yielding 0.1–0.3% oil.
+The essential oil of Melissa officinalis is obtained by [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] of aerial parts, yielding 0.1–0.3% oil.
 
 ### Major Constituents
 
@@ -125,10 +125,10 @@ The flavor is intensely lemony with subtle mint and honey notes. Leaves are best
 Melissa officinalis offers several functions in permaculture design:
 
 - **Pollinator support:** Flowers are highly attractive to bees, butterflies, and other pollinators throughout the growing season
-- **Companion planting:** Repels aphids, squash bugs, and cabbage moths when interplanted with vegetables
+- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:** Repels aphids, squash bugs, and cabbage moths when interplanted with vegetables
 - **Ground cover:** Dense low growth suppresses weeds when planted as a living mulch
-- **Dynamic accumulator:** Deep roots mine minerals from subsoil, returning them to the surface as leaf litter
-- **Erosion control:** Rhizomatous root system stabilizes soil on slopes and banks
+- **[[nutrient-dynamic-accumulator-reference]]:** Deep roots mine minerals from subsoil, returning them to the surface as leaf litter
+- **[[permplant-willows-salix-erosion-control-fodder]]:** Rhizomatous root system stabilizes soil on slopes and banks
 - **Medicinal guild:** Integrates well into medicinal herb spirals and polyculture herb gardens
 
 The plant requires minimal maintenance once established, tolerates poor soils, and self-seeds readily in suitable conditions.

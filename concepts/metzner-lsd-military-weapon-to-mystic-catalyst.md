@@ -1,5 +1,5 @@
 ---
-title: LSD from Military Weapon to Mystic Catalyst in Postwar Research
+title: LSD from Military Weapon to metzner-lsd-psychotomimetic-military-mystic-catalyst-origins in Postwar Research
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Ralph Metzner's 1998 review of hallucinogenic drugs in psychotherapy and
+Ralph Metzner's 1998 review of hallucinogenic [[hallucinogenic-drugs-in-psychotherapy-and-shamanism]] and
 shamanism documents a remarkable trajectory in the early history of LSD: from
 its initial characterization as a "psychotomimetic" agent capable of simulating
 psychosis, through its evaluation as a military and intelligence weapon by the
@@ -83,7 +83,7 @@ The failure of the military program paralleled a shift in psychiatric
 understanding of LSD. The psycholytic model, developed primarily in European
 research centers, abandoned the notion that LSD simulated psychosis and
 instead conceptualized it as a tool for therapeutic psychic opening. In
-psycholytic therapy, patients with anxiety, depression, obsessive-compulsive
+[[european-psycholytic-therapy-1960s-1970s]], patients with anxiety, depression, obsessive-compulsive
 disorders, and psychosomatic conditions received LSD in a series of sessions
 at gradually increasing doses while undergoing psychoanalytic interaction.
 
@@ -92,7 +92,7 @@ defenses — would make patients "more vividly aware of his or her previously
 unconscious emotional dynamics and reaction patterns," leading to therapeutic
 insight. Stanislav Grof, working within this model, made the further
 discovery that increasing doses could access even deeper layers of the
-unconscious, including what he called "perinatal matrices" — relived
+unconscious, including what he called "[[metzner-grof-perinatal-matrices-and-transpersonal-realms]]" — relived
 experiences of birth that preceded childhood memories entirely.
 
 ## The Psychedelic Model
@@ -108,7 +108,7 @@ produce radical insight and personality transformation.
 Initially applied to the treatment of alcoholism — where LSD was thought
 to simulate the life-changing "bottoming out" experience — psychedelic
 therapy was later extended to broader populations of "normals" by Leary
-and his Harvard colleagues. The concept of "consciousness expansion" was
+and his Harvard colleagues. The concept of "[[mckenna-consciousness-expansion-and-drug-war]]" was
 introduced to contrast the psychedelic state with the contracted, fixated
 awareness characteristic of addictions and compulsions.
 
@@ -126,7 +126,9 @@ order that had initially sought to exploit it.
 
 ## See Also
 
+- [[metzner-lsd-psychotomimetic-military-mystic-catalyst-origins]]
+
 - [[metzner-lsd-psychotherapy-approaches]] — Metzner's detailed treatment
 - [[metzner-five-fundamental-conclusions-psychedelic-psychotherapy]] — core principles
 - [[hofmann-delysid-product-psychotherapy]] — Sandoz LSD in clinical context
-- [[leary-harvard-psilocybin-project]] — Harvard psychedelic research
+- [[leary-harvard-psilocybin-project]] — Harvard [[mckenna-suppression-psychedelic-research-lsd-therapy]]

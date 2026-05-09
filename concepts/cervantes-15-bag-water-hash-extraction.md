@@ -5,7 +5,8 @@ created: 2026-04-25
 type: concept
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 tags: [cannabis, hash, water-extraction, bubble-hash, grading]
 ---
 
@@ -17,13 +18,13 @@ smaller micron bags to separate increasingly refined grades of
 hashish. Cervantes profiles the method developed by Mono, who
 uses bags from several manufacturers to extract more resin
 than anybody else. More wet sieves separate more and different
-qualities of cannabis resin.
+qualities of [[cannabis-resin-production-and-quality-traits-clarke]].
 
 ## Theory of Multi-Bag Extraction
 
 Resin heads are different sizes, and they fall through
 different size pores in a sieve. You can separate different
-sizes of resin glands with different size wet or dry sieves.
+sizes of [[greg-green-trichomes-and-resin-glands]] with different size wet or dry sieves.
 The 15-bag system works in two distinct phases:
 
 Phase 1: Wash and separate resin glands from marijuana
@@ -58,7 +59,7 @@ once the process begins.
 ## The 15-Bag Array
 
 The bags used in the 15-bag system and their approximate
-yields from 100 grams of White Widow leaf:
+yields from 100 grams of [[white-widow-cannabis]] leaf:
 
 First Run Bags:
 - 220 micron (work bag): retains bulk leaf material

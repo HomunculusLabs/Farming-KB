@@ -11,13 +11,13 @@ tags: [farming, rice, barley, no-till, direct-seeding, natural-farming, fukuoka]
 
 [[natural-farming]]."
 
-The testing center at Kinki University eventually established a natural farming project team with students from several departments to study his methods. However, Fukuoka remained skeptical that institutional research could capture the essence of his approach, noting that specialists always want to isolate and study individual components rather than understanding the whole system.
+The testing center at Kinki University eventually established a [[comparison-natural-farming-vs-permaculture]] project team with students from several departments to study his methods. However, Fukuoka remained skeptical that institutional research could capture the essence of his approach, noting that specialists always want to isolate and study individual components rather than understanding the whole system.
 
 ## Influence on Modern No-Till Agriculture
 
-Fukuoka's no-till rice and grain system has influenced agricultural movements worldwide. Larry Korn, who lived and worked on Fukuoka's farm for two years, noted that many researchers in mainstream American agriculture were trying to develop no-tillage systems for grains but "no one could figure out how to do it, at least not without drenching the fields with herbicides." Fukuoka's demonstration that high-yielding no-till grain production was possible without herbicides was therefore particularly significant.
+Fukuoka's no-till rice and grain system has influenced agricultural movements worldwide. Larry Korn, who lived and worked on Fukuoka's farm for two years, noted that many researchers in mainstream [[fukuoka-american-agriculture-fields-of-death]] were trying to develop no-tillage systems for grains but "no one could figure out how to do it, at least not without drenching the fields with herbicides." Fukuoka's demonstration that high-yielding no-till grain production was possible without herbicides was therefore particularly significant.
 
-The system has been adapted to various climates and conditions around the world. While the specific techniques (clover varieties, timing, crop selection) require local adaptation, the underlying principles — no tillage, permanent ground cover, surface seeding, and straw mulch — have proven broadly applicable.
+The system has been adapted to various climates and conditions [[fungi-around-the-world-species-distribution]]. While the specific techniques (clover varieties, timing, crop selection) require local adaptation, the underlying principles — no tillage, permanent ground cover, surface seeding, and straw mulch — have proven broadly applicable.
 
 ## Challenges for Adopters
 
@@ -31,7 +31,7 @@ One of the most striking aspects of Fukuoka's rice fields was the abundance of i
 
 Fukuoka understood that this insect diversity was not a problem but a solution. An agricultural expert from the Kochi Prefecture Testing Centre visited to investigate why rice leafhoppers were scarce in Fukuoka's unsprayed fields. He discovered that while harmful insects were few, their natural predators were far more numerous than in the chemically sprayed fields. The fields were being maintained "by means of a natural balance established among the various insect communities."
 
-This observation has profound implications for pest management. When pesticides are applied, both pests and predators are killed, but pests typically recover faster due to their shorter life cycles and higher reproductive rates. The result is a pesticide treadmill: each application creates conditions that favor the next pest outbreak, requiring ever more spraying. Fukuoka's approach, by maintaining the full insect community, achieved pest control through ecological balance rather than chemical warfare.
+This observation has profound implications for pest management. When pesticides are applied, both pests and predators are killed, but pests typically recover faster due to their shorter life cycles and higher reproductive rates. The result is a pesticide treadmill: each application creates conditions that favor the next pest outbreak, requiring ever more spraying. Fukuoka's approach, by maintaining the full insect community, achieved pest control through [[fukuoka-ecological-balance-principles]] rather than [[solomon-root-exudates-and-allelopathy]].
 
 ## Ecological Benefits
 
@@ -57,7 +57,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -100,3 +100,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[direct-seeding-non-cultivation]]

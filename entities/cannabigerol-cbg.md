@@ -11,7 +11,7 @@ type: entity
 # Cannabigerol (CBG)
 
 **Type:** Chemical / Phytocannabinoid
-**Category:** Minor cannabis cannabinoid (biosynthetic precursor)
+**Category:** Minor [[blesching-cannabis-cannabinoid-terpene-entourage-effect]] (biosynthetic precursor)
 **Also known as:** CBG, cannabigerol
 
 ## Overview
@@ -33,10 +33,10 @@ only trace amounts (usually less than 1%) in most cannabis strains.
 - CBGA converts to THCA, CBDA, and CBCA via plant enzymes
 
 ### Receptor Affinity
-CBG demonstrates dual receptor binding, engaging both CB1 and CB2
+CBG demonstrates dual [[tihkal-receptor-binding-serotonin]], engaging both CB1 and CB2
 cannabinoid receptors. This broad receptor affinity distinguishes it
 from CBD (which preferentially targets CB2) and makes it potentially
-useful for conditions requiring both neurological and immune modulation.
+useful for conditions requiring both neurological and [[cancer-immune-modulation-mechanisms]].
 
 ### Therapeutic Applications
 - **Anti-cancer:** Tested alongside CBD, CBC, CBD-acid, and THC-acid in
@@ -52,11 +52,11 @@ useful for conditions requiring both neurological and immune modulation.
 - **Depression:** Tested among cannabinoids evaluated for antidepressant
   properties, with its dual CB1/CB2 binding suggesting potential
   mood-modulating effects.
-- **Colon cancer:** CBG-acid (CBGA) was found to inhibit colon cancer
+- **[[cannabis-and-colon-cancer-research]]:** CBG-acid (CBGA) was found to inhibit colon cancer
   cell proliferation in laboratory settings.
 
 ### Biosynthetic Pathway
-CBGA is the central precursor in cannabis cannabinoid biosynthesis:
+CBGA is the central precursor in cannabis [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]]:
 1. Geranyl pyrophosphate + olivetolic acid yield CBGA
 2. THCA synthase converts CBGA to THCA (then THC)
 3. CBDA synthase converts CBGA to CBDA (then CBD)
@@ -79,9 +79,11 @@ interest in "minor cannabinoids" has positioned CBG as a promising
 target for breeders and researchers. Its antibacterial properties
 against MRSA are particularly noteworthy given the global antibiotic
 resistance crisis. CBG-rich cannabis strains represent an emerging area
-of medical cannabis cultivation.
+of medical [[query-how-does-no-till-cannabis-cultivation-work]].
 
 ## See Also
+
+- [[cannabigerol]]
 
 - [[tetrahydrocannabinol-thc]]
 - [[cannabichromene-cbc]]

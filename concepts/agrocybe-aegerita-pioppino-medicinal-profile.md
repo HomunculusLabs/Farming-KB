@@ -5,16 +5,17 @@ updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
-**Source:** Mycelium Running (Paul Stamets) | **Updated:** 2026-04-18
+**Source:** [[woodlovers-mycelium-running-pathway-technique]] (Paul Stamets) | **Updated:** 2026-04-18
 
 ## Overview
 
-Known as pioppino, black poplar mushroom, or yanagimatsutake (Japanese), Agrocybe aegerita is an excellent edible and medicinal mushroom. It is one of Stamets' favorite edible mushrooms and an excellent candidate for stump recycling and log cultivation. See also [[mycoremediation-species-selection-guide]], and [[antiviral-properties-of-mushrooms]]
+Known as pioppino, [[growing-gourmet-black-poplar-agrocybe-cultivation]] mushroom, or yanagimatsutake (Japanese), Agrocybe aegerita is an excellent edible and [[gourmet-medicinal-mushroom-casing-layer-techniques]]. It is one of Stamets' favorite [[palmer-edible-mushrooms-north-america]] and an excellent candidate for stump recycling and [[comparison-mushroom-log-cultivation-vs-monotub-cultivation]]. See also mycoremediation-species-selection-guide, and antiviral-properties-of-mushrooms
 - [[medicinal-mushroom-extraction-preparation]]
-- [[agaricus-brasiliensis-almond-mushroom-medicinal-profile]]
+- agaricus-brasiliensis-almond-mushroom-medicinal-profile
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[agrocybe-aegerita-detailed]]
 ## Background and Context
@@ -145,4 +146,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

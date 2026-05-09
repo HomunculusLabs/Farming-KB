@@ -26,14 +26,14 @@ Fimming (an acronym for "F*** I Missed") removes roughly 75 to 90 percent of
 the shoot tip while leaving the bottom 10 to 25 percent intact. This partial removal can produce anywhere from three to
 six new growth tips, but results are considerably less predictable.
 
-Both techniques are typically performed during the vegetative stage, ideally
+Both techniques are typically performed during the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]], ideally
 when the plant has developed three to five true nodes and is roughly three to
 five weeks old. Performing these cuts too early can stunt the plant, while
 waiting too long reduces the recovery window before flowering begins.
 
 ## The Science of Apical Dominance
 
-Understanding why topping and fimming work requires a brief look at the biology
+Understanding why [[query-what-is-the-difference-between-topping-and-fimming-cannabis]] work requires a brief look at the biology
 of apical dominance. Cannabis plants, like many annuals, allocate the majority
 of their growth energy to the tallest, highest point of the plant. This apical
 meristem produces auxins — a class of plant hormones that travel downward

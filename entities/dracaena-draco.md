@@ -63,7 +63,7 @@ In cultivation, D. draco is hardy to approximately −2 to −4 °C. In frost-pr
 
 Growth rate is slow but steady. Container-grown specimens typically reach 2–3 m in 15–20 years. In-ground cultivation in suitable climates produces faster growth, with trees branching after 8–12 years.
 
-Pests are minimal; scale insects (Coccus hesperidum) and mealybugs may infest the crown in humid conditions. Root rot from Phytophthora is the primary disease concern in over-irrigated plantings.
+Pests are minimal; scale insects (Coccus hesperidum) and mealybugs may infest the crown in humid conditions. [[cannabis-root-rot-prevention-and-treatment]] from Phytophthora is the primary disease concern in over-irrigated plantings.
 
 ## Chemistry and Uses
 
@@ -73,7 +73,7 @@ Historically, the resin was valued as a pigment, varnish, and incense across Med
 
 In traditional Canary Island folk medicine, dragon's blood was applied topically for skin ailments, ulcers, and bone fractures. Internal use included treatment for dysentery and respiratory conditions.
 
-Modern research has identified anti-inflammatory, antioxidant, and antimicrobial activities in dragon's blood extracts. Dracorhodin shows cytotoxic activity against several human cancer cell lines in vitro.
+Modern research has identified anti-inflammatory, antioxidant, and antimicrobial activities in dragon's blood extracts. Dracorhodin shows cytotoxic activity against several human [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines in vitro.
 
 The resin continues to be harvested commercially from wild trees in the Canary Islands and Cape Verde, though at much reduced scale compared to historical levels. It is sold as a specialty incense and woodworking finish.
 
@@ -91,9 +91,9 @@ The El Drago de Icod, the most famous living specimen, is fenced and protected a
 
 In its native Macaronesian habitat, D. draco functions as a keystone structure in xerophytic plant communities. The massive trunk and crown provide perching sites and nesting habitat for birds, particularly Columba livia and Corvus corax.
 
-The flowers are a significant nectar source for native bees and the Canary Islands endemic butterfly Gonepteryx cleobulus. Flowering occurs in summer, filling a temporal niche when few other native plants are in bloom.
+The flowers are a significant nectar source for [[query-how-to-attract-native-bees-and-beneficial-insects]] and the Canary Islands endemic butterfly Gonepteryx cleobulus. Flowering occurs in summer, filling a temporal niche when few other native plants are in bloom.
 
-Leaf litter from D. draco decomposes slowly due to high fiber content, contributing to a humus layer that supports understory herbs and ferns. The shade beneath mature canopies creates microhabitat diversity.
+[[dighton-fungal-decomposition-leaf-litter-dynamics]] from D. draco decomposes slowly due to high fiber content, contributing to a humus layer that supports understory herbs and ferns. The shade beneath mature canopies creates microhabitat diversity.
 
 The fruits are consumed by frugivorous birds including the endemic laurel pigeon (Columba junoniae). Seed passage through avian digestive tracts enhances germination rates, suggesting a coevolved dispersal mutualism.
 

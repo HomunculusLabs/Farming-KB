@@ -1,11 +1,12 @@
 ---
-title: Guerrilla Growing Tactics
+title: cannabis-guerrilla-growing-guide Tactics
 created: 2026-04-26
 tags: [cannabis, outdoor-growing, security, guerrilla, cervantes]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -17,7 +18,7 @@ prowess. Depending upon your location and local
 laws, clandestine guerrilla growing in remote
 locations could be your only option for cultivating
 cannabis outdoors. The approach demands careful
-planning at every stage, from site selection to
+planning at every stage, from [[fukuoka-creating-natural-farm-site-selection-establishment]] to
 harvest, and carries significant legal risk.
 
 ## Site Selection
@@ -63,7 +64,7 @@ risk of discovery, but make sure your plants cannot
 be seen from the boat. Many people use waterways
 and explore land bordering rivers.
 
-Solar energy is an outstanding way to move water
+[[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] is an outstanding way to move water
 to remote locations. A 75-watt solar panel can
 supply enough power to a pump to move 75 gallons
 (285 L) of water 35 feet (10.5 m) uphill and more
@@ -123,7 +124,7 @@ place away from the trailhead.
 ## Timing and Harvest
 
 Harvest before cold, damp autumn weather sets in,
-which causes bud mold and powdery mildew. Many
+which causes bud mold and [[cervantes-powdery-mildew-prevention-treatment]]. Many
 plants can take a short mild freeze (30-32F,
 -1 to 0C), but extended freezing can kill them.
 Pay close attention to weather forecasts and apply
@@ -139,7 +140,9 @@ the secure veil of twilight. Be prepared with a
 believable story and props: fishing pole, camera,
 or bird identification book.
 
-## Related Topics
+## Related
+
+- [[guerrilla-mycology]] Topics
 
 - [[cervantes-strain-selection]]
 - [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]

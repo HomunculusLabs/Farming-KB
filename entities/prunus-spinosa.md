@@ -67,11 +67,11 @@ The early flowering makes blackthorn an important early nectar source; however, 
 
 Native across Europe from the British Isles and Scandinavia (south of 63°N) to the Mediterranean, eastward through Turkey to the Caucasus and northern Iran.
 
-It also occurs in northwest Africa (Morocco, Algeria, Tunisia) and has been widely naturalized in New Zealand and parts of eastern North America.
+It also occurs in northwest Africa (Morocco, Algeria, Tunisia) and has been widely naturalized in New Zealand and parts of [[polypore-fungi-eastern-north-america]] America.
 
 The species occupies a broad ecological range from sea level to 1,600 m, tolerating both acidic and calcareous soils.
 
-It is a characteristic component of European hedgerows, scrub communities, forest edges, and secondary succession on abandoned agricultural land.
+It is a characteristic component of European hedgerows, scrub communities, forest edges, and secondary succession on abandoned [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]].
 
 Blackthorn is highly tolerant of exposure, wind, and moderate shade, though it fruits most abundantly in full sun.
 
@@ -79,7 +79,7 @@ Blackthorn is highly tolerant of exposure, wind, and moderate shade, though it f
 
 Sloe berries are far too astringent to eat raw and are almost exclusively consumed after processing, most famously as sloe gin (sloe berries steeped in gin with sugar).
 
-The traditional preparation involves picking sloes after the first frost (which softens the astringency) or pricking each berry before steeping.
+The [[kava-traditional-preparation-ceremonial-context]] involves picking sloes after the first frost (which softens the astringency) or pricking each berry before steeping.
 
 Sloe gin, sloe jelly, sloe jam, and fruit preserves are traditional across Britain, Ireland, France, Germany, and central Europe.
 
@@ -117,8 +117,10 @@ Root suckering habit can be managed by periodic cutting; the plant regrows vigor
 
 ## See Also
 
-- [[crataegus-monogyna]]
-- [[rubus-idaeus-entity]]
+- crataegus-monogyna
+- rubus-idaeus-entity
 - rubus occidentalis
 - [[sambucus-nigra]]
-- [[hippophae-rhamnoides]]
+- hippophae-rhamnoides
+- [[prunus-domestica]]
+- [[capparis-spinosa]]

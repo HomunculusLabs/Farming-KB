@@ -3,7 +3,7 @@ title: "arnica montana"
 created: 2026-04-28
 type: species
 tags:
-  - herbal-medicine
+  - [[herbal-medicine]]
   - medicinal-plant
   - asteraceae
   - anti-inflammatory
@@ -27,7 +27,7 @@ Arnica montana, commonly known as mountain arnica or wolfsbane (not to be
 confused with Aconitum), is a perennial herbaceous plant in the family
 Asteraceae. Native to the mountainous regions of Europe, it has been used
 for centuries in traditional medicine as a topical anti-inflammatory and
-analgesic. Modern clinical research supports its efficacy for bruising,
+analgesic. Modern [[hofmann-lsd-clinical-research-early-studies]] supports its efficacy for bruising,
 muscle soreness, and postoperative swelling.
 
 The species is critically endangered in several European countries due to

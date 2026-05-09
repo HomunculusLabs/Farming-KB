@@ -1,5 +1,5 @@
 ---
-title: "PEA (PHENETHYLAMINE) -- PIHKAL Entry #142"
+title: "PEA (PHENETHYLAMINE) -- 2c-b-pihkal-entry-20 #142"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -7,7 +7,7 @@ tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
 # PEA
-PIHKAL entry #142. PHENETHYLAMINE.
+[[2c-b-pihkal-entry-20]] #142. PHENETHYLAMINE.
 
 ## Chemical Name
 
@@ -72,7 +72,7 @@ apparent.
       To a large measure, this book has emphasized the "phenyl" end
 of the phenethylamine molecule, and the "what," the "where," and the
 "how many" of the substituent groups involved. There is a broad
-variety of chemical groups that can be attached to the benzene ring,
+variety of [[guzman-allen-gartz-four-chemical-groups-neurotropic-fungi]] that can be attached to the benzene ring,
 at one or more of the five available positions, and in an unending
 number of combinations. And, in any given molecule, the greater the
 number of substituents on the benzene ring, the greater the likelihood

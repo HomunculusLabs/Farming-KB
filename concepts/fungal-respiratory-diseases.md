@@ -3,22 +3,20 @@ title: Fungal Respiratory Diseases
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Respiratory Diseases
-
-Fungal diseases of the respiratory system range from benign allergic reactions to life-threatening invasive infections. As documented in [[mycotoxins-and-human-health]] for ingestion-related fungal diseases and [[aspergillus-fumigatus]]* and related species, is the most common invasive mold infection worldwide. *A. fumigatus* produces vast quantities of airborne conidia (2-10 billion per day from a single colony) that are small enough (2-3 micrometers) to reach the deep lung. In immunocompetent individuals, these spores are efficiently cleared by alveolar macrophages. In immunocompromised patients — particularly those with neutropenia from chemotherapy or organ transplant immunosuppression — the fungus can establish invasive disease with mortality rates exceeding 50%.
+# Fungal Respiratory Diseases Fungal diseases of the respiratory system range from benign allergic reactions to life-threatening invasive infections. As documented in [[mycotoxins-and-human-health]] for ingestion-related fungal diseases and [[aspergillus-fumigatus]]* and related species, is the most common invasive mold infection worldwide. *A. fumigatus* produces vast quantities of airborne conidia (2-10 billion per day from a single colony) that are small enough (2-3 micrometers) to reach the deep lung. In immunocompetent individuals, these spores are efficiently cleared by alveolar macrophages. In immunocompromised patients — particularly those with neutropenia from chemotherapy or organ transplant immunosuppression — the fungus can establish invasive disease with mortality rates exceeding 50%.
 
 The fungus grows as branching hyphae within lung tissue, invading blood vessels and causing hemorrhagic infarction. Treatment relies on azole antifungals (voriconazole, posaconazole) or amphotericin B.
 
 ### Cryptococcosis
 
-*Cryptococcus neoformans* is a yeast with a distinctive polysaccharide capsule that causes life-threatening meningitis, particularly in patients with HIV/AIDS. The organism is acquired by inhalation from environmental sources — soil contaminated with pigeon droppings and eucalyptus trees are significant reservoirs. After pulmonary inhalation, the yeast may disseminate to the central nervous system, causing cryptococcal meningoencephalitis. Approximately 220,000 cases of cryptococcal meningitis occur annually worldwide, with the majority in sub-Saharan Africa.
+*[[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]]* is a yeast with a distinctive polysaccharide capsule that causes life-threatening meningitis, particularly in patients with HIV/AIDS. The organism is acquired by inhalation from environmental sources — soil contaminated with pigeon droppings and eucalyptus trees are significant reservoirs. After pulmonary inhalation, the yeast may disseminate to the central nervous system, causing cryptococcal meningoencephalitis. Approximately 220,000 cases of cryptococcal meningitis occur annually worldwide, with the majority in sub-Saharan Africa.
 
 ### Mucormycosis
 
-Mucormycosis (zygomycosis) is caused by members of the order Mucorales — rapidly growing molds found in soil and decaying organic matter. The most devastating form, rhinocerebral mucormycosis, begins in the paranasal sinuses and rapidly invades surrounding tissues, including the brain. It is strongly associated with diabetic ketoacidosis and iron overload states. The fungus has a predilection for invading blood vessels (angioinvasion), causing tissue necrosis and black eschar formation. Treatment requires aggressive surgical debridement combined with high-dose liposomal amphotericin B.
+Mucormycosis (zygomycosis) is caused by members of the order Mucorales — rapidly growing molds found in soil and decaying [[hamilton-composting-and-organic-matter-management]]. The most devastating form, rhinocerebral mucormycosis, begins in the paranasal sinuses and rapidly invades surrounding tissues, including the brain. It is strongly associated with diabetic ketoacidosis and iron overload states. The fungus has a predilection for invading blood vessels (angioinvasion), causing tissue necrosis and black eschar formation. Treatment requires aggressive surgical debridement combined with high-dose liposomal amphotericin B.
 
 ## Hypersensitivity and Allergic Fungal Diseases
 
@@ -64,7 +62,7 @@ Chest CT scans are the primary imaging modality for invasive fungal pneumonias. 
 - **Cryptococcal antigen** — Latex agglutination or lateral flow assay for cryptococcal polysaccharide capsule antigen in serum and CSF
 
 ### Molecular Methods
-PCR-based detection of fungal DNA from respiratory specimens is increasingly available, offering faster diagnosis than culture. Metagenomic next-generation sequencing (mNGS) of BAL fluid can identify unexpected fungal pathogens, though clinical interpretation requires expertise.
+PCR-based detection of fungal DNA from respiratory specimens is increasingly available, offering faster diagnosis than culture. Metagenomic next-generation sequencing (mNGS) of BAL fluid can identify unexpected [[bloomfield-fungal-pathogens-and-parasites]], though clinical interpretation requires expertise.
 
 ## Antifungal Drug Classes
 
@@ -82,8 +80,8 @@ Treatment of fungal respiratory diseases relies on several drug classes:
 
 Several trends are increasing the clinical importance of fungal respiratory diseases:
 
-- **Antifungal resistance** — Azole-resistant *Aspergillus fumigatus* is emerging globally, driven by both agricultural azole use and clinical selection pressure
-- **Climate change** — Expanding ranges of endemic fungi (*Histoplasma*, *Coccidioides*, *Blastomyces*) as warming temperatures create new suitable habitats
+- **Antifungal resistance** — Azole-resistant *[[gadd-aspergillus-fumigatus-glucan-virulence]]* is emerging globally, driven by both agricultural azole use and clinical selection pressure
+- **[[dighton-fungi-climate-change-feedback]]** — Expanding ranges of endemic fungi (*Histoplasma*, *Coccidioides*, *Blastomyces*) as warming temperatures create new suitable habitats
 - **Immunosuppressed populations** — Growing numbers of patients receiving chemotherapy, organ transplants, and biologic immunosuppressants
 - **COVID-19-associated pulmonary aspergillosis** — A newly recognized complication of severe COVID-19, particularly in critically ill patients
 
@@ -122,7 +120,7 @@ The universal teenage pursuit of self-destruction is not responsible for all cas
 
 The chitinous walls of the spores and their ability to absorb moisture made them effective as a crude styptic powder. These traditional uses demonstrate that puffball spores have been valued for their absorbent and hemostatic properties long before their respiratory hazards were recognized.
 
-Native American and European folk traditions both record the use of puffball spores as wound dressings. The dried spore mass was applied directly to cuts and abrasions, where its absorbency helped to control bleeding and the chitin may have provided some antimicrobial benefit.
+[[halpern-sacramental-peyote-and-native-american-church]] and European folk traditions both record the use of puffball spores as wound dressings. The dried spore mass was applied directly to cuts and abrasions, where its absorbency helped to control bleeding and the chitin may have provided some antimicrobial benefit.
 
 ## Puffball Spore Production
 

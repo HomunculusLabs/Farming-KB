@@ -5,7 +5,8 @@ updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 Updated: 2026-04-18
@@ -22,13 +23,13 @@ Source: [[arbuscular-mycorrhizal-inoculum-production-best-practices]])
 1. Wood chip matrix was spread 6 inches deep over the road length
 2. Handfuls of Pleurotus ostreatus spawn were tossed on top
 3. Six bales of wheat straw were spread over the top to hold moisture
-4. Mycogrow mycorrhizal inoculum and Regreen erosion control seed were broadcast using a seeder
+4. Mycogrow [[arbuscular-mycorrhizal-inoculum-production-best-practices]] and Regreen [[permplant-willows-salix-erosion-control-fodder]] seed were broadcast using a seeder
 5. Work was completed in mid-April during intermittently heavy rainfall
 6. One week later, seeds were already sprouting — first stages of restoration
 
 ### Species Selection: Pleurotus ostreatus
 
-The oyster mushroom was selected as the keystone species because:
+The [[cotter-oyster-mushroom-cultivation]] was selected as the keystone species because:
 - It is a primary saprophyte indigenous to the region
 - It is aggressive and adaptable, growing under varied conditions and temperatures
 - It rapidly colonizes wood substrates
@@ -49,7 +50,7 @@ After three years, the reclaimed road showed dramatic results:
 
 ### Soil Creation
 
-For every 12 inches of wood chips, approximately 1-2 inches of soil were created after 4 years of decomposition by oyster mushrooms. The sequence of ecological recovery:
+For every 12 inches of wood chips, approximately 1-2 inches of soil were created after 4 years of decomposition by [[query-how-to-grow-oyster-mushrooms-at-home]]. The sequence of ecological recovery:
 1. Mushrooms grow, attracting insects
 2. Rotting mushrooms become breeding grounds for fly larvae and grubs
 3. Insects attract animals from lizards to birds
@@ -70,8 +71,8 @@ Ugly roads — the source of numerous ecological problems — are transformed in
 - **Moisture enhancement** — remoistening arid landscapes
 - **Habitat enhancement** — reestablishing native mycoflora (soil-building [[cortes-island-mycoforestry-project]] — Stamets' forest restoration experiment
 - [[mycoforestry-forest-restoration]] — Forest restoration with fungi
-- [[brown-rot-white-rot-fungi-remediation]] — Wood decomposition mechanisms
-- [[mycopesticides-stamets]] — Related insect control applications
+- [[brown-rot-white-rot-fungi-remediation]] — [[fungal-wood-decomposition-spatial-variation]] mechanisms
+- [[mycopesticides-stamets]] — Related [[mushroom-pests-insect-control-stamets]] applications
 ## Practical Considerations
 
 Successful implementation of Tahuya Forest Road Reclamation requires attention to
@@ -90,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

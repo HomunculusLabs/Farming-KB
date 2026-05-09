@@ -1,30 +1,13 @@
 ---
-title: Fungal Degradation of Explosives: TNT, RDX, and Related Compounds
+title: singh-fungal-degradation-endocrine-disrupting-compounds of Explosives: TNT, RDX, and Related Compounds
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology, fungi]
-sources: []
+tags: [mycology, fungi]
+sources:
+  sources: []
 ---
-# Fungal Degradation of Explosives: TNT, RDX, and Related Compounds
-
-Military explosives such as TNT (2,4,6-trinitrotoluene) and RDX (Royal Demolition eXplosive, cyclotrimethylenetrinitramine) are persistent [[fungal-bioremediation]] strategies.
-
-## TNT: Properties and Environmental Concerns
-
-TNT is the most widely studied explosive compound in fungal bioremediation research. It is a nitroaromatic compound that is:
-
-- Highly toxic to microorganisms, plants, and animals at relatively low concentrations
-
-- Mutagenic and potentially carcinogenic
-
-- Relatively insoluble in water but soluble in organic solvents
-
-- Persistent in soil and groundwater due to the stability of the nitroaromatic ring
-
-- Found at contaminated military sites as both soil and groundwater pollution, and in waste streams known as "pink water"
-
-TNT contamination is particularly problematic because the compound can persist for decades in soil environments. The challenge for [[phanerochaete-chrysosporium]], TNT degradation was inhibited by these intermediate metabolites rather than by TNT itself, creating a self-limiting transformation process
+# Fungal Degradation of Explosives: TNT, RDX, and Related Compounds Military explosives such as TNT (2,4,6-trinitrotoluene) and RDX (Royal Demolition eXplosive, cyclotrimethylenetrinitramine) are persistent fungal-bioremediation strategies. ## TNT: Properties and Environmental Concerns TNT is the most widely studied explosive compound in fungal bioremediation research. It is a nitroaromatic compound that is: - Highly toxic to microorganisms, plants, and animals at relatively low concentrations - Mutagenic and potentially carcinogenic - Relatively insoluble in water but soluble in organic solvents - Persistent in soil and groundwater due to the stability of the nitroaromatic ring - Found at contaminated military sites as both soil and groundwater pollution, and in waste streams known as "pink water" TNT contamination is particularly problematic because the compound can persist for decades in soil environments. The challenge for [[phanerochaete-chrysosporium]], TNT degradation was inhibited by these intermediate metabolites rather than by TNT itself, creating a self-limiting transformation process
 
 ### Oxidative Ring Cleavage
 
@@ -50,11 +33,11 @@ Some fungi can oxidatively attack the aromatic ring of TNT:
 
 P. chrysosporium has been the most extensively studied fungus for TNT degradation, but with mixed results:
 
-- TNT inhibits MnP production, which is a key enzyme in the [[mycorrhizal-fungi-basics-lowenfels]] that demonstrated TNT reduction, with intact mycelia showing enhanced transformation compared to cell-free extracts
+- TNT inhibits MnP production, which is a key enzyme in the mycorrhizal-fungi-basics-lowenfels that demonstrated TNT reduction, with intact mycelia showing enhanced transformation compared to cell-free extracts
 
 - **Penicillium and Aspergillus species** -- various strains show tolerance and transformation capacity for nitroaromatic compounds
 
-- **Cladosporium resinae** -- showed tolerance to RDX at 100 ppm in radial colony growth assays, suggesting broad tolerance to energetic compounds
+- **Cladosporium resinae** -- showed tolerance to RDX at 100 ppm in radial colony growth assays, suggesting broad tolerance to [[fungal-degradation-energetic-compounds-detailed]]
 
 ## RDX: Degradation and Mineralization
 
@@ -76,7 +59,7 @@ RDX is a nitramine explosive that, along with TNT, is one of the most predominan
 
 ## HMX and Other Energetic Compounds
 
-HMX (octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazocine) is a common co-contaminant with RDX and is increasingly used as a propellant. Very few studies have specifically examined HMX degradation by fungi.
+HMX (octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazocine) is a common co-contaminant with RDX and is increasingly used as a propellant. Very few studies have specifically examined HMX [[query-how-does-lignin-degradation-by-fungi-work]].
 
 Other energetic compounds where fungal degradation has been studied include:
 

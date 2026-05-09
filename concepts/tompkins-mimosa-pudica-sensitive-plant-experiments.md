@@ -1,5 +1,5 @@
 ---
-title: Mimosa pudica and Sensitive Plant Experiments
+title: tompkins mimosa pudica sensitive plant experiments and Sensitive Plant Experiments
 created: 2026-04-28
 tags:
   - plant-perception
@@ -40,12 +40,12 @@ with patterns recorded by a jet of ink only a few microns wide.
 The goal was to pick up plant reactions that had hitherto gone unnoticed
 by conventional equipment. Byrd also planned to work with Acetabularia
 cremulata, a primitive marine alga only two inches long but made of a
-single cell, to determine whether removing its nucleus would eliminate
+[[fungal-single-cell-protein-production]], to determine whether removing its nucleus would eliminate
 response capability.
 
 ## Bose's Pioneering Mimosa Research
 
-The book extensively documents Sir Jagadis Chandra Bose's work with
+The book extensively documents Sir Jagadis [[jagadis-chandra-bose-plant-research]]'s work with
 Mimosa pudica in the early 1900s. Bose demonstrated several remarkable
 parallels between mimosa responses and animal nervous system function:
 

@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Poulsen AD (2006). "Eryngium foetidum L." In: Grubben GJH, Denton OA, eds. Plant Resources of Tropical Africa 1.
-  - Martins AP et al. (2015). "Chemical composition and bioactivity of Eryngium foetidum essential oil." Journal of Ethnopharmacology 173: 359–365.
+  - Martins AP et al. (2015). "Chemical composition and bioactivity of Eryngium foetidum [[permaculture-designers-manual-essential-oil-plants]]." Journal of Ethnopharmacology 173: 359–365.
   - Gupta MP (1995). "270 Plants of Panama." Editorial Universitaria.
   - Bello J et al. (1998). "Eryngium foetidum: A traditional herb with multiple uses." Economic Botany 52(4): 392–403.
 ---
@@ -19,8 +19,8 @@ sources:
 ## Overview
 
 **Eryngium foetidum** is a tropical perennial herb in the family Apiaceae,
-widely cultivated and naturalized throughout the Caribbean, Central America,
-South America, and Southeast Asia. It is commonly known as culantro, sawtooth
+widely cultivated and naturalized throughout the Caribbean, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]],
+South America, and [[psilocybe-southeast-asia-pacific]]. It is commonly known as culantro, sawtooth
 coriander, recao, Mexican coriander, and fitweed.
 
 The species is valued for its intensely aromatic leaves, which are used as a
@@ -29,7 +29,7 @@ sativum*) but significantly more pungent and long-lasting.
 
 Unlike coriander, which bolts and loses flavor rapidly in hot weather,
 *Eryngium foetidum* thrives in tropical and subtropical conditions and
-maintains its flavor throughout the growing season.
+maintains its flavor throughout the [[savory-growing-season-and-non-growing-season-management]].
 
 In traditional medicine, the plant has been used to treat fever, headache,
 convulsions, and digestive complaints across multiple cultures.
@@ -97,7 +97,7 @@ limonene and α-pinene.
 
 Pharmacological studies have demonstrated antibacterial activity against
 *Salmonella*, *Shigella*, and *Staphylococcus aureus*. Antifungal activity
-has been observed against *Candida albicans* and dermatophyte species.
+has been observed against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and dermatophyte species.
 
 Anti-inflammatory and analgesic effects have been documented in animal
 models, supporting traditional use for pain relief. The aqueous extract
@@ -121,7 +121,7 @@ preserve flavor. They retain aroma far better than coriander leaves when
 dried or frozen, making them practical for storage and transport.
 
 In some regions, the roots are used as a flavoring agent, and the young
-leaves are consumed raw in salads. The herb pairs well with chili peppers,
+leaves are consumed raw in salads. The herb pairs well with [[query-how-to-grow-chili-peppers-from-seed-to-harvest]],
 garlic, lime, and cumin.
 
 ## See Also

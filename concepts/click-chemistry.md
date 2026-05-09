@@ -9,7 +9,7 @@ sources: []
 ---
 
 ## Overview
-Click chemistry is a design philosophy for chemical reactions that join molecular fragments rapidly, selectively, and in operationally simple conditions.
+Click chemistry is a [[hemenway-greywater-design-philosophy]] for chemical reactions that join molecular fragments rapidly, selectively, and in operationally simple conditions.
 The term was introduced by K. Barry Sharpless, Hartmuth Kolb, and M. G. Finn to describe reactions that behave like reliable molecular connectors rather than delicate total-synthesis maneuvers.
 A click reaction is expected to give high yields, tolerate water and oxygen when possible, form benign byproducts, and require little chromatographic purification.
 The idea is not one reaction but a screening criterion: choose transformations that make useful bonds with minimal fuss.
@@ -99,7 +99,7 @@ Click chemistry also improves reproducibility because a robust coupling step red
 
 For interdisciplinary projects, a simple reaction protocol lowers the barrier between synthetic chemistry and biology.
 
-This is why click chemistry became a shared language across organic chemistry, pharmacology, proteomics, and biomaterials.
+This is why click chemistry became a shared language across [[pericyclic-reactions-organic-chemistry]], pharmacology, proteomics, and biomaterials.
 
 ## Limitations and Pitfalls
 Not every high-yielding reaction is a click reaction in the useful sense; the reaction must be selective in the intended environment.

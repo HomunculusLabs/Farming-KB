@@ -1,5 +1,5 @@
 ---
-title: "Emergency and Scavenged Container Use for Mushroom Cultivation"
+title: "Emergency and Scavenged Container Use for accessible-mushroom-cultivation-for-disabilities"
 created: 2026-04-28
 tags:
   - mushroom-cultivation
@@ -49,13 +49,13 @@ Cut smaller columns in summer since colonization generates additional heat.
 Metal or PVC culvert pipes from commercial landscaping suppliers offer a
 reusable alternative to disposable polyethylene. Predrill columns with
 half-inch holes staggered about 6 to 8 inches apart around the surface for gas
-exchange and mushroom formation. Install removable caps on each end, fill with
+exchange and [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]. Install removable caps on each end, fill with
 spawned medium, and pack tightly to eliminate air pockets.
 
 Columns can sit upright held by tethers, or be arranged in frames stacked like
 a wall. For wall configurations, drill fruiting holes only on aisle-facing
 sides. Recycled plastic culvert pipes and other tubular nonbiodegradable
-materials also work. Best suited for oyster mushroom cultivation on
+materials also work. Best suited for [[cotter-oyster-mushroom-cultivation]] cultivation on
 pasteurized substrates.
 
 ## Black Nursery Pots
@@ -99,7 +99,7 @@ horizontal-fruiters, crack the lid slightly for gas exchange and mist
 periodically. Wash and rinse with diluted bleach between uses.
 
 Buckets are ideal for urban cultivation: they take little space, require no
-support structure, and can produce oyster mushrooms year-round. Anyone with a
+support structure, and can produce [[query-how-to-grow-oyster-mushrooms-at-home]] year-round. Anyone with a
 stove, a large pot, and a few buckets can establish a productive system in an
 extra bathroom, closet, or basement, scaling the number of buckets to
 individual harvest needs.
@@ -107,7 +107,7 @@ individual harvest needs.
 ## Wooden Trays
 
 Wooden trays suit horizontal fruiters requiring open tops and no side holes.
-Use untreated conifer wood to resist fungal degradation. Untreated rough-cut
+Use untreated conifer wood to resist [[singh-fungal-degradation-endocrine-disrupting-compounds]]. Untreated rough-cut
 pine planks from sawdust suppliers work well and can last three years or more.
 The exposed surface area suits casing with nonnutritive potting soil to
 promote mushroom formation and introduce beneficial bacteria.

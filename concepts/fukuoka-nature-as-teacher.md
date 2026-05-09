@@ -1,11 +1,12 @@
 ---
-title: Fukuoka: Nature as Teacher
+title: Fukuoka: jadam-nature-as-teacher-philosophy
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 Updated: 2026-04-18
@@ -16,15 +17,15 @@ The concept of nature as teacher is foundational to [[fukuoka-soil-building-appr
 
 ## The Shortest Road
 
-For twenty to thirty years, Fukuoka has not read a single book on agriculture, yet has stayed at the forefront of rice cultivation practices in Japan. His findings reported ten years ago are only now being confirmed by agricultural testing stations — arriving at the same conclusions, but a decade later.
+For twenty to thirty years, Fukuoka has not read a single book on agriculture, yet has stayed at the forefront of [[jadam-rice-cultivation-methods]] practices in Japan. His findings reported ten years ago are only now being confirmed by agricultural testing stations — arriving at the same conclusions, but a decade later.
 
-This claim is both a personal boast and a structural argument. Fukuoka is not saying he is smarter than agricultural scientists; he is saying that direct observation of nature is faster than scientific research. The scientist must formulate hypotheses, design experiments, collect data, and publish results — a process that takes years. The farmer who observes nature directly can see the same truths in a single growing season.
+This claim is both a personal boast and a structural argument. Fukuoka is not saying he is smarter than agricultural scientists; he is saying that [[fukuoka-direct-observation-method]] of nature is faster than scientific research. The scientist must formulate hypotheses, design experiments, collect data, and publish results — a process that takes years. The farmer who observes nature directly can see the same truths in a single [[savory-growing-season-and-non-growing-season-management]].
 
 The ten-year lag also reveals something about the nature of scientific institutions. They are not organized to discover truths but to confirm them through approved methodologies. Fukuoka's insights were available to anyone with eyes to see, but the scientific establishment could not accept them until they had been validated through the proper procedures.
 
 ## Rejection of Organic Farming as Natural Farming
 
-Fukuoka distinguishes sharply between organic farming and natural farming:
+Fukuoka distinguishes sharply between organic farming [[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]]:
 
 - Organic farming is Eastern farming on the same plane as Western farming — still dependent on human knowledge and intervention
 
@@ -65,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

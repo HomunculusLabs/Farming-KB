@@ -29,7 +29,7 @@ sources:
 
 **Tuber borchii** Vittad., commonly known as the **bianchetto truffle** or **whitish truffle**, is an ectomycorrhizal ascomycete fungus in the family Tuberaceae.
 
-Native to the Mediterranean basin, it is harvested commercially in Italy, France, Spain, and increasingly in cultivated plantations across Europe, North America, and the Southern Hemisphere.
+Native to the Mediterranean basin, it is harvested commercially in Italy, France, Spain, and increasingly in cultivated plantations across Europe, [[psilocybin-north-america-pacific-northwest]], and the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]].
 
 Unlike the more celebrated *Tuber melanosporum* (Périgord black truffle) and *T. magnatum* (white truffle), the bianchetto occupies a broader ecological niche and tolerates a wider range of host trees and soil conditions, making it both more accessible to foragers and more amenable to cultivation.
 
@@ -53,7 +53,7 @@ It forms ectomycorrhizal associations with a broad host range, including **Pine*
 
 The species favors sandy or sandy-loam soils with pH 6.5–8.0, good drainage, and moderate organic matter. It fruits in autumn through early spring (October–March), typically at 2–15 cm soil depth.
 
-Compared to *T. magnatum*, the bianchetto tolerates drier conditions and a wider temperature range, partly explaining its broader geographic distribution.
+Compared to *T. magnatum*, the bianchetto tolerates drier conditions and a wider [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]], partly explaining its broader geographic distribution.
 
 The species has been successfully introduced outside its native range through inoculated plantations. In New Zealand, *T. borchii* has naturalized in *Pinus radiata* forests and is harvested commercially on both North and South Islands.
 
@@ -67,7 +67,7 @@ Climate change may expand the potential cultivation range northward, as warmer w
 
 Inoculated seedlings of *Pinus pinea*, *Corylus avellana*, or *Quercus* spp. are planted at 3–5 m spacing. Fruiting typically begins 4–7 years after planting, with peak production at 10–15 years.
 
-Yields in managed orchards range from 10–50 kg/ha/year, varying with soil quality, host species, and orchard management practices.
+Yields in managed orchards range from 10–50 kg/ha/year, varying with soil quality, host species, and [[fukuoka-orchard-management-detailed]] practices.
 
 Irrigation during summer drought significantly improves yields, as mycelial growth and fruiting initiation require adequate soil moisture.
 
@@ -85,7 +85,7 @@ Nutritionally, bianchetto truffles are low in calories but contain modest amount
 
 ## Ecology and Mycorrhizal Partners
 
-As an obligate ectomycorrhizal symbiont, *T. borchii* depends entirely on living host roots for carbohydrate supply. The mycorrhizal mantle surrounds fine root tips, facilitating bidirectional nutrient exchange.
+As an obligate ectomycorrhizal symbiont, *T. borchii* depends entirely on living host roots for carbohydrate supply. The mycorrhizal mantle surrounds fine root tips, facilitating bidirectional [[arbuscule-isolation-and-nutrient-exchange-mechanisms]].
 
 The fungus provides the host with enhanced phosphorus uptake and protection against certain soil-borne pathogens. In return, the host supplies photosynthate (primarily glucose and fructose) to the fungal mycelium.
 
@@ -111,7 +111,7 @@ In Italy, bianchetto truffles are classified and regulated under regional laws g
 
 *T. borchii* is part of the *Tuber borchii* species complex, which includes several morphologically similar taxa: *T. maculatum*, *T. dryophilum*, and *T. fulgens*.
 
-Differentiation among these species requires microscopic examination of spore morphology and, increasingly, molecular analysis (ITS rDNA sequencing).
+Differentiation among these species requires [[fungal-microscopic-examination-mounting-media-techniques]] of spore morphology and, increasingly, molecular analysis (ITS rDNA sequencing).
 
 *T. borchii* can be distinguished from *T. magnatum* by its smaller size, thinner peridium, and distinctly garlicky aroma. From *T. melanosporum*, it is separated by the lighter-colored gleba and absence of dark, pyramid-shaped warts on the peridium.
 

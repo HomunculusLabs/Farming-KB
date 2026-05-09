@@ -1,5 +1,5 @@
 ---
-title: "Fungal Ecology Networks — Mycelium Running"
+title: "Fungal Ecology Networks — woodlovers-mycelium-running-pathway-technique"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -10,7 +10,7 @@ tags: [ecology, fungi, mycelium]
 
 # Fungal Ecology Networks — Mycelium Running
 
-In "Mycelium Running," Paul Stamets develops the concept of mycelium as the Earth's biological Internet -- a vast, sentient, information-sharing network that underpins all terrestrial ecosystems. He argues that mycelial networks are the neurological system of nature, governing nutrient cycling, soil formation, interspecies communication, and ecosystem resilience. The book presents fungal networks as the foundation upon which all terrestrial life depends.
+In "Mycelium Running," Paul Stamets develops the concept of mycelium as the Earth's biological Internet -- a vast, sentient, information-sharing network that underpins all terrestrial ecosystems. He argues that [[fungal-mycelial-networks-nutrient-translocation]] are the neurological system of nature, governing nutrient cycling, soil formation, interspecies communication, and ecosystem resilience. The book presents fungal networks as the foundation upon which all terrestrial life depends.
 
 ## Mycelium as Nature's Internet
 
@@ -24,7 +24,7 @@ He describes the mycelium as "a consciousness with which we might be able to com
 
 Stamets identifies the mycelial archetype throughout the universe: in the patterns of hurricanes, dark matter, and the Internet. He notes that when the Internet was designed, its weblike structure maximized data pooling while minimizing critical points of failure -- an architecture that mirrors mycelium, the mammalian brain, and computer networks. This, he argues, is an archetypal form: the inevitable consequence of a proven evolutionary model.
 
-The mycelial form echoes across scales -- from computer models of the early universe's primordial filaments to string theory's predictions of matter-energy threads to the structure of spiral galaxies. Nature tends to build upon its successes, and mycelial architecture is one of the most successful evolutionary strategies. Bebber et al. (2007) further explored how understanding information networks in their many forms will lead to a quantum leap in computational power.
+The mycelial form echoes across scales -- from computer models of the early universe's primordial filaments to string theory's predictions of matter-energy threads to the structure of spiral galaxies. Nature tends to build upon its successes, and [[bloomfield-what-lies-beneath-mycelial-architecture-hyphal-biology-subterranean-fungus]] is one of the most successful evolutionary strategies. Bebber et al. (2007) further explored how understanding information networks in their many forms will lead to a quantum leap in computational power.
 
 ## Scale and Density of Mycelial Networks
 
@@ -57,9 +57,9 @@ Fungi decompose and recycle plant debris, filter microbes and sediments from run
 
 Stamets organizes mushroom ecology into four functional categories:
 
-- **Saprophytic mushrooms** (decomposers): Approximately 8,000 known macrofungi. They secrete enzymes and acids that degrade dead plants into simpler molecules, recycling carbon, hydrogen, nitrogen, phosphorus, and minerals for living organisms. Most gourmet and medicinal mushrooms are wood decomposers, the premier recyclers on the planet. They can be divided into primary decomposers (first to consume fresh debris), secondary decomposers (growing on partially broken-down material), and tertiary decomposers (soil dwellers).
+- **[[growing-gourmet-saprophytic-mushrooms-decomposers]]** (decomposers): Approximately 8,000 known macrofungi. They secrete enzymes and acids that degrade dead plants into simpler molecules, recycling carbon, hydrogen, nitrogen, phosphorus, and minerals for living organisms. Most gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] are wood decomposers, the premier recyclers on the planet. They can be divided into primary decomposers (first to consume fresh debris), secondary decomposers (growing on partially broken-down material), and tertiary decomposers (soil dwellers).
 - **Mycorrhizal mushrooms**: Around 2,000-3,000 species that form mutually beneficial relationships with plant roots. The mycelia dramatically increase the plant's ingestion of nutrients and extend the absorption zone well beyond the root structure. David Perry (1994) postulates that the surface area of mycorrhizal fungi may be 10 to 100 times greater than the surface area of leaves in a forest.
-- **Parasitic mushrooms**: Species that derive nutrients from living hosts, sometimes killing them. However, Stamets notes that a rotting tree in a canopied forest is more supportive of biodiversity than a living tree. Parasitic mushrooms may be nature's way of selecting the strongest plants and repairing damaged habitats.
+- **[[growing-gourmet-parasitic-mushrooms-forest-blights]]**: Species that derive nutrients from living hosts, sometimes killing them. However, Stamets notes that a rotting tree in a canopied forest is more supportive of biodiversity than a living tree. Parasitic mushrooms may be nature's way of selecting the strongest plants and repairing damaged habitats.
 - **Endophytic mushrooms**: Fungi living within plant tissues without causing apparent disease, often enhancing growth and promoting disease resistance. Agricultural crops, especially grasses like wheat, benefit from resident endophytic fungi.
 
 Fungi outnumber plants at a ratio of at least 6 to 1, with an estimated 1-2 million species. Only about 10% of fungi produce mushrooms, and only about 10% of mushroom species have been identified -- meaning our taxonomic knowledge is exceeded by our ignorance by at least one order of magnitude.
@@ -94,10 +94,12 @@ Protecting environmental health is directly related to understanding complex fun
 
 - [[mycelium-running-presporulating-mycopesticides]]
 
-- [[mycelium-natures-internet]]
+- mycelium-natures-internet
 - [[mycelium-running-partnerships-with-plants]]
 - [[common-mycorrhizal-networks]]
 - [[biodiversity-of-fungi-decomposition-nutrient-cycling]]
 - [[biodiversity-of-fungi-biomass-carbon-soil-structure]]
 - [[ectomycorrhizal-fungal-ecology]]
 - [[mycelium-running-rot-fungi-wood-decomposition]]
+
+- [[mycelium-running-mycelium-natures-internet-fungal-network-theory]]

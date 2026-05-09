@@ -22,7 +22,7 @@ In their worldwide analysis, Guzmán, Allen and Gartz organized all
 known neurotropic fungi into four distinct chemical groups based on
 the types of psychoactive compounds they contain. This classification
 system is fundamental to understanding the pharmacological diversity
-of hallucinogenic mushrooms and related fungi, and it reflects the
+of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] and related fungi, and it reflects the
 very different biochemical pathways and ecological roles that have
 led to the independent evolution of neurotropic properties across
 multiple fungal lineages.
@@ -33,7 +33,7 @@ The first and largest group comprises fungi containing indolic
 substances, principally psilocybin, psilocin, baeocystin, and
 norbaeocystin. These compounds are most reliably found in the
 bluing species of Psilocybe, which represent the majority of
-neurotropic taxa with 116 species in the paper. The bluing reaction
+neurotropic taxa with 116 species in the paper. The [[field-guide-psilocybin-bluing-reaction-identification]]
 is caused by the oxidation of psilocin and serves as a field
 indicator of neurotropic potential. Within Psilocybe, the bluing
 species belong to sections Aztecorum, Brunneocystidiatae,
@@ -50,7 +50,7 @@ and Pluteus, though many of these reports are disputed.
 
 The second chemical group consists of fungi containing ibotenic acid
 and its decarboxylation product muscimol. These are the iconic Amanita
-species: Amanita muscaria (the fly agaric), A. pantherina (the
+species: [[allegro-amanita-muscaria-properties-and-pharmacology]] (the fly agaric), A. pantherina (the
 panther cap), and A. regalis (the royal agaric). Unlike the indole-
 containing fungi, these species do not produce a bluing reaction and
 their psychoactive effects are qualitatively different, including
@@ -70,7 +70,7 @@ The third group contains fungi with ergot alkaloids, the well-known
 compounds produced by species of Claviceps and possibly Cordyceps.
 Five species of Claviceps are considered: C. nigricans, C. paspali,
 C. purpurea (the classic ergot fungus), C. rolfesii, and C.
-tripsicii. Claviceps purpurea is the most extensively studied and
+tripsicii. [[bloomfield-ergot-claviceps-purpurea-ergotism]] is the most extensively studied and
 produces a range of ergopeptine alkaloids including ergotamine and
 ergocristine, which are derivatives of lysergic acid. The ergot
 fungi are parasites of grasses and cereals, and their alkaloids have
@@ -96,7 +96,7 @@ New Guinea, though Ott (1993) later stated that the boletes do not
 possess neurotropic properties. The puffballs used by the Mixtec
 Indians of Oaxaca, including Lycoperdon mixtecorum and L. marginatum,
 were reported as narcotic fungi but Ott et al. (1975) later showed
-that the sacred puffballs were a mixture of at least nine species,
+that the [[guzman-allen-gartz-sacred-puffballs-gasteromycetes-indigenous-cultures]] were a mixture of at least nine species,
 most of which contained no active compounds. Despite these
 uncertainties, the authors retained these fungi in their checklist
 due to their cultural importance to indigenous communities.
@@ -121,7 +121,7 @@ The four-group classification reveals that neurotropic properties
 have evolved independently multiple times across the fungal kingdom.
 Indole-containing species are scattered across more than a dozen
 genera in multiple families, indicating convergent evolution toward
-psilocybin production. The ergot alkaloid group represents a
+[[gottlieb-psilocybin-production-extraction-methods]]. The ergot alkaloid group represents a
 completely different biosynthetic pathway found in the Ascomycota,
 while the ibotenic acid group is restricted to the Amanitaceae
 within the Basidiomycota. The sacred fungi group highlights the

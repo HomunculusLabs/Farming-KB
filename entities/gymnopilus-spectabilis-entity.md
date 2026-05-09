@@ -19,11 +19,11 @@ tags:
   - ethnobotany
   - ecology
 sources:
-  - Guzmán, G. et al. (2004). "A worldwide geographical distribution of the neurotropic fungi." In: Entheogens and the Development of Culture. Springer.
-  - Stamets, P. (1996). Psilocybin Mushrooms of the World. Ten Speed Press.
+  - Guzmán, G. et al. (2004). "A worldwide geographical distribution of the challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification." In: Entheogens and the Development of Culture. Springer.
+  - Stamets, P. (1996). [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World. Ten Speed Press.
   - Hatanaka, T. (1961). "Taxonomic studies on the genus Gymnopilus." Reports of the Tottori Mycological Institute, 1, 1–69.
   - Bigwood, J. & Beug, M.W. (1982). "Variation in psilocybin and psilocin content." Journal of Psychedelic Drugs, 14(3), 195–200.
-  - Lincoff, G. (1981). The Audubon Society Field Guide to North American Mushrooms. Knopf.
+  - Lincoff, G. (1981). The Audubon Society Field Guide to [[growing-gourmet-north-american-reishi-species]] Mushrooms. Knopf.
 ---
 
 # Gymnopilus spectabilis
@@ -84,7 +84,7 @@ Some *Gymnopilus* species also produce kavalactone-like compounds and bis-noryan
 
 Psychoactive effects are consistent with classical serotonergic psychedelics: visual alterations, altered perception of time, enhanced introspection, and euphoria at moderate doses.
 
-The species is noted in Japanese ethnobotany as *waraitake* ("laughing mushroom"), a name shared with several other psychoactive fungi. Historical accounts describe laughter-inducing effects as a characteristic feature.
+The species is noted in Japanese ethnobotany as *waraitake* ("laughing mushroom"), a name shared with several other [[cattle-dispersal-psychoactive-fungi-australia]]. Historical accounts describe laughter-inducing effects as a characteristic feature.
 
 Onset occurs 30–60 minutes after ingestion, with effects lasting 4–6 hours. The bitter taste makes raw consumption unpleasant, and many foragers report nausea during onset.
 
@@ -92,7 +92,7 @@ The extremely bitter taste and variable potency make accurate dosing difficult. 
 
 ## Ecological Role
 
-As a primary wood decomposer, G. spectabilis plays a significant role in forest nutrient cycling. It breaks down cellulose and lignin in dead hardwood, releasing nutrients back into the soil ecosystem.
+As a primary wood decomposer, G. spectabilis plays a significant role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. It breaks down cellulose and lignin in dead hardwood, releasing nutrients back into the soil ecosystem.
 
 The species contributes to deadwood habitat complexity. Its large fruiting bodies provide food for insects and small mammals, while the decomposed wood supports subsequent fungal and plant succession.
 
@@ -104,7 +104,7 @@ The genus *Gymnopilus* contains approximately 200 species worldwide, many of whi
 
 *G. junonius* (Fr.) P.D. Orton, the European and Asian Laughing Gym, is very closely related and sometimes considered conspecific with G. spectabilis. Molecular studies suggest they may be distinct lineages.
 
-*G. luteofolius* (Peck) Singer is a smaller species with brighter orange colors and thinner flesh. It also contains psilocybin and is more commonly found in the southeastern United States.
+*G. luteofolius* (Peck) Singer is a smaller species with brighter orange colors and thinner flesh. It also contains psilocybin and is more commonly found in the southeastern [[dmt-containing-plants-united-states-halpern]].
 
 *G. purpuratus* (Cooke & Massee) Singer is found in South America and Australia, and has been confirmed to contain psilocybin at levels comparable to some *Psilocybe* species.
 
@@ -113,6 +113,9 @@ Non-psychoactive lookalikes include *G. penetrans* and *G. sapineus*, which are 
 Key identification features for G. spectabilis: large size (cap >8 cm), bright orange coloration, rusty-brown spore print, growth on hardwood, and intensely bitter taste.
 
 ## See Also
+
+- [[gymnopilus-luteus]]
+- [[gymnopilus-viridans]]
 
 - [[psilocybe-cyanescens]]
 - [[psilocybe-subaeruginosa]]

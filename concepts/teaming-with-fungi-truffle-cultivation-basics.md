@@ -1,5 +1,5 @@
 ---
-title: Teaming with Fungi - Truffle Cultivation Basics
+title: Teaming with Fungi - comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation Basics
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,7 +10,7 @@ tags: [cultivation, fungi]
 
 # Teaming with Fungi - Truffle Cultivation Basics
 
-Jeff Lowenfels' "Teaming with Fungi" covers truffle cultivation as a prominent example of the commercial potential of ectomycorrhizal fungi. Truffles -- the subterranean fruiting bodies of certain Ascomycete fungi -- represent one of the most valuable applications of mycorrhizal science, with black truffles (Tuber melanosporum) and other species commanding extraordinary prices. The book presents truffle cultivation within the broader context of ectomycorrhizal ecology, explaining the biological foundations that make cultivated truffle production possible.
+Jeff Lowenfels' "Teaming with Fungi" covers truffle cultivation as a prominent example of the commercial potential of [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]. Truffles -- the subterranean fruiting bodies of certain Ascomycete fungi -- represent one of the most valuable applications of mycorrhizal science, with black truffles (Tuber melanosporum) and other species commanding extraordinary prices. The book presents truffle cultivation within the broader context of ectomycorrhizal ecology, explaining the biological foundations that make cultivated truffle production possible.
 
 ## What Are Truffles?
 
@@ -18,12 +18,12 @@ Truffles are the fruiting bodies (sporocarps) of ectomycorrhizal fungi that grow
 
 ## The Ectomycorrhizal Foundation
 
-Understanding truffle cultivation requires understanding ectomycorrhizal fungi, which differ from the arbuscular mycorrhizal fungi used in agriculture:
+Understanding truffle cultivation requires understanding ectomycorrhizal fungi, which differ from the [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi used in agriculture:
 
 - **Host range**: Ectomycorrhizal fungi associate primarily with trees -- members of Pinaceae (pines), Fagaceae (oaks, beeches), Betulaceae (birches), Salicaceae (poplars, willows), Dipterocarpaceae (tropical hardwoods), and Myrtaceae (eucalyptus, myrtle)
 - **Reproduction**: Most ectomycorrhizal fungi reproduce sexually via large sporocarps (mushrooms, truffles, puffballs), unlike arbuscular fungi which reproduce primarily asexually through spores
 - **Structure**: Ectomycorrhizal fungi form a mantel (sheath) around root tips and a Hartig net between root cells, but do not penetrate the cell wall as arbuscular fungi do
-- **Spore dispersal**: Unlike the heavier arbuscular spores that require water or animals for dispersal, many ectomycorrhizal spores are light enough for wind dispersal
+- **[[aquatic-fungi-spore-dispersal-ingold]]**: Unlike the heavier arbuscular spores that require water or animals for dispersal, many ectomycorrhizal spores are light enough for wind dispersal
 
 Truffle-producing fungi are ectomycorrhizal, meaning any successful cultivation must establish and maintain this root-fungus partnership.
 
@@ -36,7 +36,7 @@ Truffles develop underground as the fruiting bodies of mycorrhizal fungi. The mo
 - **Tuber magnatum** (white truffle): The most valuable species but extremely difficult to cultivate, still primarily wild-harvested in Italy
 - **Other species**: Various desert truffles (Terfezia spp.) and other Tuber species have regional commercial importance
 
-The truffle forms when the fungal mycelium, after months or years of growth through the mycorrhizal network connecting tree roots, accumulates enough resources to produce a fruiting body. The truffle matures underground, developing its characteristic aroma (which serves to attract animals for spore dispersal) over weeks to months.
+The truffle forms when the fungal mycelium, after months or years of growth through the [[arbuscular-mycorrhizal-network-visualization-anastomosis]] connecting tree roots, accumulates enough resources to produce a fruiting body. The truffle matures underground, developing its characteristic aroma (which serves to attract animals for spore dispersal) over weeks to months.
 
 ## Animal Vectors and Spore Dispersal
 
@@ -63,7 +63,7 @@ Truffle-producing fungi require specific soil conditions, particularly well-drai
 
 ### Time to Production
 
-Truffle orchards typically require 5-15 years from planting to first significant harvest, though some modern techniques have reduced this timeline. The long investment period makes proper inoculation and site selection critical.
+Truffle orchards typically require 5-15 years from planting to first significant harvest, though some modern techniques have reduced this timeline. The long investment period makes proper inoculation and [[fukuoka-creating-natural-farm-site-selection-establishment]] critical.
 
 ### The Brule
 

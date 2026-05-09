@@ -1,10 +1,11 @@
 ---
-title: Soil Erosion Control
+title: Soil permplant-willows-salix-erosion-control-fodder
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [erosion, conservation, water-management, earthworks, soil, plants, restoration]
-sources: []
+sources:
+  sources: []
 ---
 
 # Soil Erosion Control
@@ -26,7 +27,7 @@ Water is the primary erosive force in most environments:
 
 - **Stream bank erosion**: Flowing water undercuts and removes soil from stream banks and channel margins. Accelerated by removal of riparian vegetation, increased runoff, and channelization. See [[riparian-zone-restoration]] for bank stabilization methods.
 
-- **Splash erosion**: Raindrop impact detaches soil particles; the initial step in the water erosion process. A single raindrop can splash soil particles 2 feet vertically and 5 feet laterally. Bare soil is most vulnerable; any ground cover dramatically reduces splash erosion.
+- **Splash erosion**: Raindrop impact detaches soil particles; the initial step in the water erosion process. A single raindrop can splash soil particles 2 feet vertically and 5 feet laterally. Bare soil is most vulnerable; any [[fukuoka-citrus-orchard-ground-cover-cultivation]] dramatically reduces splash erosion.
 
 ### Wind Erosion
 Wind erosion dominates in arid and semi-arid regions:
@@ -52,13 +53,13 @@ A = R x K x LS x C x P
 - **K (Soil erodibility)**: Inherent susceptibility of soil to erosion; sandy and silty soils are most erodible
 - **LS (Slope length and steepness)**: Longer and steeper slopes increase erosion exponentially
 - **C (Cover and management)**: Vegetative cover and management practices; the factor most easily modified by landowners
-- **P (Support practices)**: Structural measures like terraces, contour farming, and stripcropping
+- **P (Support practices)**: Structural measures like terraces, [[natural-farming-guide-contour-farming-strip-cropping]], and stripcropping
 
 ### Key Principles
 1. Any exposed soil is vulnerable to erosion
 2. Erosion increases exponentially with slope steepness and length
 3. Vegetation cover is the single most effective erosion control measure
-4. Soil organic matter and aggregation dramatically reduce erodibility
+4. Soil [[hamilton-composting-and-organic-matter-management]] and aggregation dramatically reduce erodibility
 5. Concentrated water flow is far more erosive than sheet flow
 
 ## Vegetative Control Measures
@@ -66,7 +67,7 @@ A = R x K x LS x C x P
 ### Cover Crops
 Living plant cover protects soil from raindrop impact and binds soil with roots:
 
-- **Winter cover crops**: Cereal rye, winter wheat, crimson clover, hairy vetch protect soil through winter
+- **Winter cover crops**: Cereal rye, winter wheat, [[comparison-lupin-vs-crimson-clover-green-manure]], hairy vetch protect soil through winter
 - **Summer cover crops**: Buckwheat, cowpeas, sorghum-sudangrass cover soil between cash crops
 - **Permanent cover**: Maintain permanent vegetation on steep slopes, waterways, and critical areas
 - See [[cover-cropping-guide|cover crop]] for species selection and management details
@@ -90,7 +91,7 @@ Mulch protects soil surface from raindrop impact and reduces runoff velocity:
 ### Terraces
 Terraces break long slopes into shorter segments, reducing runoff velocity:
 
-- **Broad-base terraces**: Gentle, wide terraces suitable for cropland; built with farm equipment
+- **Broad-base terraces**: Gentle, wide terraces suitable for cropland; built with [[coleman-small-farm-equipment-and-tools]]
 - **Bench terraces**: Stepped terraces that create level planting surfaces; common in hillside agriculture worldwide
 - **Narrow-base terraces**: Steeper terraces with grassed backslopes; suitable for pasture and orchard
 - **Contour farming**: Planting rows on the contour (across the slope rather than up and down) reduces erosion by 25-50% compared to up-and-down slope farming
@@ -147,17 +148,3 @@ Consider these factors when assessing erosion risk:
 - Slope steepness: >3% requires management; >15% requires intensive measures
 - Slope length: Long uninterrupted slopes concentrate runoff
 - Soil type: Sandy and silty soils are most erodible; clay soils resist detachment but produce hard-to-manage runoff
-- Cover condition: Bare soil erodes at 100x the rate of well-vegetated soil
-- Drainage patterns: Concentrated flow paths require structural protection
-
-## Integration with Homesteading
-
-Erosion control connects to multiple homesteading systems:
-
-- [[no-till-gardening-method|no till]] and [[cannabis-living-soil-amendment-schedule|living soil]] practices minimize soil disturbance and maintain surface cover
-- [[cover-cropping-guide|cover crop]] plantings provide continuous soil protection between cash crops
-- [[permaculture-earthworks|earthworks]] (swales, terraces, berms) manage water flow and reduce erosive energy
-- [[riparian-zone-restoration]] protects stream banks and water quality
-- [[watershed-management]] addresses erosion at the landscape scale
-- [[prairie-ecology]] principles guide permanent vegetation establishment on marginal lands
-- [[food-forest-design|food forest]] design uses perennial vegetation to maintain permanent soil cover on slopes

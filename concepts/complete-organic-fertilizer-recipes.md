@@ -1,5 +1,5 @@
 ---
-title: Complete Organic Fertilizer (COF) Recipes
+title: Complete complete-organic-fertilizer-cof-recipe-solomon (COF) Recipes
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 # Complete Organic Fertilizer (COF) Recipes
 
-Steve Solomon's Complete Organic Fertilizer (COF) is a balanced organic fertilizer mix designed for vegetable gardens. The formula provides complete nutrition including trace minerals, unlike most chemical fertilizers which supply only NPK. Solomon developed this recipe specifically for [[cervantes-compost-tea-organic-brewing]]
+Steve Solomon's Complete Organic Fertilizer (COF) is a balanced organic fertilizer mix designed for vegetable gardens. The formula provides complete nutrition including trace minerals, unlike most [[cervantes-chemical-fertilizers-guide]] which supply only NPK. Solomon developed this recipe specifically for [[cervantes-compost-tea-organic-brewing]]
 
 ## Why Not Chemical Fertilizer
 
@@ -60,7 +60,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +102,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

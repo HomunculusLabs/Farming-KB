@@ -1,5 +1,5 @@
 ---
-title: The Stametsian Permaculture Model for Mushroom Cultivation
+title: The growing-gourmet-stametsian-permaculture-model Model for accessible-mushroom-cultivation-for-disabilities
 tags:
   - permaculture
   - mushroom-cultivation
@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Growing Gourmet and Medicinal Mushrooms (Stamets, 1993), Chapter 1
+  - Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive (Stamets, 1993), Chapter 1
 type: concept
 created: 2026-04-28
 ---
@@ -31,7 +31,7 @@ This philosophy stands in contrast to conventional industrial mushroom cultivati
 
 ## The Multi-Species Approach
 
-One of the most distinctive features of the Stametsian model is its emphasis on cultivating multiple mushroom species simultaneously in the same geographic area. In nature, dozens of mushroom species coexist in a single forest, each occupying a different ecological niche. A permaculture-oriented cultivator replicates this natural diversity by selecting species that fill complementary roles within the cultivated ecosystem.
+One of the most [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] of the Stametsian model is its emphasis on cultivating multiple mushroom species simultaneously in the same geographic area. In nature, dozens of mushroom species coexist in a single forest, each occupying a different ecological niche. A permaculture-oriented cultivator replicates this natural diversity by selecting species that fill complementary roles within the cultivated ecosystem.
 
 The practical benefits of multi-species cultivation include:
 
@@ -47,7 +47,7 @@ The Stametsian model treats the forest not as a source of raw materials to be ex
 In return, mushroom cultivation contributes to forest health by:
 
 - **Accelerating decomposition**: Mycelium breaks down dead wood faster than it would decompose naturally, cycling nutrients back to the soil more quickly.
-- **Building soil structure**: The mycelial networks that spread through wood and soil create a crumbly, well-aerated soil structure that supports plant growth.
+- **Building soil structure**: The [[fungal-mycelial-networks-nutrient-translocation]] that spread through wood and soil create a crumbly, well-aerated soil structure that supports plant growth.
 - **Suppressing plant diseases**: Many saprophytic fungi produce natural antibiotics and enzymes that inhibit soil-borne plant pathogens.
 - **Supporting wildlife**: Mushroom fruiting bodies provide food for insects, mammals, and birds, while the mycelial networks support a diverse soil food web.
 
@@ -67,7 +67,7 @@ The overstory trees provide shade, wind protection, and leaf litter. Selecting a
 
 ### Ground Layer
 
-The ground layer includes inoculated logs, stumps, wood chips, and straw beds. This is where the actual mushroom production occurs. The arrangement of these substrate materials should reflect the preferences of the target species. Shiitake logs, for example, benefit from partial shade and good air circulation, while King Sturgeon logs prefer damper, more sheltered positions.
+The ground layer includes inoculated logs, stumps, wood chips, and straw beds. This is where the actual mushroom production occurs. The arrangement of these [[growing-gourmet-substrate-materials-wood-types]] should reflect the preferences of the target species. Shiitake logs, for example, benefit from partial shade and good air circulation, while King Sturgeon logs prefer damper, more sheltered positions.
 
 ### Subterranean Layer
 
@@ -87,6 +87,9 @@ The ultimate vision is a landscape where mushroom cultivation is seamlessly wove
 
 ## See Also
 
-- [[growing-gourmet-natural-culture-myco-landscaping]]
+- growing-gourmet-natural-culture-myco-landscaping
 - [[growing-gourmet-saprophytic-mushrooms-decomposers]]
 - [[growing-gourmet-bioremediation-mycofiltration]]
+- [[decomposition]]
+- [[building-soil]]
+- [[soil-food-web]]

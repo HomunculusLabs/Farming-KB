@@ -12,10 +12,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Stamets, Paul. Growing Gourmet and Medicinal Mushrooms. 3rd ed., Ten Speed
+  - Stamets, Paul. Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive. 3rd ed., Ten Speed
     Press, 2000.
   - "Shiitake Mushroom Production on Logs." Field & Forest Products, 2022.
-  - "Growing Shiitake Mushrooms in a Forest Farming System." USDA National
+  - "Growing [[query-how-to-grow-shiitake-mushrooms-on-logs]] in a Forest Farming System." USDA National
     Agroforestry Center, 2018.
   - "Log-Grown Specialty Mushrooms." ATTRA — National Center for Appropriate
     Technology, 2011.
@@ -25,7 +25,7 @@ type: query
 ## Quick Answer
 
 To grow mushrooms on logs at home, you need: fresh hardwood logs (oak or maple
-work best), mushroom spawn (plug or sawdust), a drill, and cheese wax. Cut
+work best), [[cuthill-mushroom-spawn-preparation-historical]] (plug or sawdust), a drill, and cheese wax. Cut
 logs 4–8 inches in diameter and 3–4 feet long during late winter or early
 spring. Drill holes in a diamond pattern every 6 inches, fill with spawn, seal
 with wax, and stack in a shady spot. Wait 6–12 months for colonization, then
@@ -39,7 +39,7 @@ for beginners.
 - **Hardwood logs**: Oak, maple, or beech, 10–20 cm (4–8 in) diameter, 90–120
   cm (3–4 ft) long. Cut during dormancy (late winter to early spring before bud
   break). Use logs within 4–6 weeks of cutting.
-- **Mushroom spawn**: Plug spawn (easiest for beginners) or sawdust spawn
+- **Mushroom spawn**: Plug spawn (easiest for beginners) or [[growing-gourmet-sawdust-spawn-production-use]]
   (faster colonization). Shiitake is the most forgiving species. Order from a
   reputable supplier (Field & Forest Products, Fungi Perfecti, North Spore).
 - **Drill with stop collar**: 12 mm (½ in) bit for sawdust spawn, 8 mm bit for
@@ -57,7 +57,7 @@ plus the cost of tools if you don't already own them.
 
 ### Step 1: Select and Cut Your Logs
 
-Choose healthy living trees or recently fallen hardwood. Oak is the best
+Choose [[jadam-healthy-living-guidelines]] trees or recently fallen hardwood. Oak is the best
 all-around choice — it decomposes slowly, giving 4–7 years of production. Maple
 and beech are good alternatives. Avoid conifers, black walnut, and black
 locust.
@@ -117,7 +117,7 @@ During the spawn run, keep logs moist but not waterlogged:
 
 - In dry weather, mist logs lightly or soak for 12–24 hours once per month
 - Maintain 35–50% moisture content inside the log
-- Ideal temperature: 15–24 °C (59–75 °F)
+- [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]: 15–24 °C (59–75 °F)
 - Check periodically for green mold (*Trichoderma*) at inoculation sites
 
 You'll know colonization is complete when you see white mycelium at the cut
@@ -139,7 +139,6 @@ again. Logs can typically produce 2–4 flushes per year.
 ## Best Mushroom Species for Beginners
 
 | Species | Difficulty | Time to First Crop | Log Life | Best Wood |
-|---|---|---|---|---|
 ## See Also
 
 - [[gourmet-medicinal-mushroom-shiitake-cultivation-logs|Shiitake Mushroom Cultivation]]

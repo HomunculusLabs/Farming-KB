@@ -1,5 +1,5 @@
 ---
-title: Early LSD Clinical Research in Hofmann's LSD: My Problem Child
+title: Early LSD psilocybin-clinical-research-history in Hofmann's LSD: My Problem Child
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -14,7 +14,7 @@ tags: [lsd]
 
 LSD's therapeutic value derived from properties diametrically opposed to tranquilizers: whereas tranquilizers covered up problems, LSD made them "more exposed and more intensely experienced," leading to clearer recognition and greater susceptibility to treatment. Specific mechanisms included:
 
-- **Ego dissolution**: The accustomed worldview undergoes deep transformation, loosening the I-you barrier and releasing patients from egocentric fixations
+- **[[psilocybin-ego-dissolution-mechanisms]]**: The accustomed worldview undergoes deep transformation, loosening the I-you barrier and releasing patients from egocentric fixations
 - **Reviviscence**: Forgotten or suppressed experiences from earliest childhood reappeared not as ordinary recollection but as true reliving (Jean Delay's distinction between reminiscence and reviviscence)
 - **Enhanced suggestibility**: Improved rapport with the therapist
 - **Treatment acceleration**: The speed of unconscious material surfacing could shorten therapy duration, though some psychiatrists considered this a disadvantage
@@ -29,14 +29,14 @@ Pioneers including S. Grof, J. Halifax, E. Kast, S. Cohen, and W. A. Pahnke docu
 
 Hofmann names the front-rank researchers in LSD-assisted psychotherapy:
 
-- **United States**: A. K. Busch, W. C. Johnson, S. Cohen, B. Eisner, H. A. Abramson, H. Osmond, A. Hoffer
+- **[[dmt-containing-plants-united-states-halpern]]**: A. K. Busch, W. C. Johnson, S. Cohen, B. Eisner, H. A. Abramson, H. Osmond, A. Hoffer
 - **England**: R. A. Sandison
 - **Germany**: W. Frederking, H. Leuner
 - **Czechoslovakia**: G. Roubicek, S. Grof
 
 ## The Transition from Remedy to Inebriant
 
-Hofmann notes that for more than ten years, LSD research proceeded productively within medical and scientific channels. The first non-medicinal self-experiments were conducted by "writers, painters, musicians, and other intellectuals," producing psychedelic art and new insights into creative processes. But by the late 1950s, LSD was "swept up in the huge wave of an inebriant mania" spreading across the Western world, becoming "the number-one inebriating drug" and -- to Hofmann's dismay -- his "problem child."
+Hofmann notes that for more than ten years, LSD research proceeded productively within medical and scientific channels. The first non-medicinal self-experiments were conducted by "writers, painters, musicians, and other intellectuals," producing [[hofmann-lsd-psychedelic-art-expression]] and new insights into creative processes. But by the late 1950s, LSD was "swept up in the huge wave of an inebriant mania" spreading across the Western world, becoming "the number-one inebriating drug" and -- to Hofmann's dismay -- his "problem child."
 
 ## See Also
 
@@ -59,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

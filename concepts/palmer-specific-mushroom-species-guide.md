@@ -1,5 +1,5 @@
 ---
-title: Palmer on Specific Edible Mushroom Species
+title: Palmer on Specific bloomfield-boletus-satanus-edible-mushroom-hazards Species
 created: 2026-04-28
 tags: [mushroom-species, edible-fungi, identification, nineteenth-century,
   palmer]
@@ -27,7 +27,7 @@ time of year.
 ## The Meadow and Horse Mushroom
 
 The meadow mushroom ([[palmer-mushroom-anatomy-and-structure]]
-- [[palmer-about-mushrooms-edible-species-identification]]
+- palmer-about-mushrooms-edible-species-identification
 
 ## See Also
 
@@ -109,4 +109,6 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+- [[growing-gourmet-tree-species-guide-mushroom-cultivation]]
+- [[mushroom-species-guide]]
+- [[field-guide-psilocybin-mushroom-species-identification]]

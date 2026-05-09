@@ -1,5 +1,5 @@
 ---
-title: Amanita Muscaria Holy Grail Theory
+title: allegro-amanita-muscaria-properties-and-pharmacology Holy Grail Theory
 created: 2026-04-19
 updated: 2026-04-18
 type: concept
@@ -9,7 +9,7 @@ tags: [amanita-muscaria, mycology]
 
 # Amanita Muscaria Holy Grail Theory
 
-The theory that the Holy Grail of Arthurian legend originated as a [[amanita-muscaria-living-bread-sacrament]] and [[amanita-muscaria-resurrection-experiments]] experiments revealed that when [[amanita-muscaria-ambrosia-preparation]] or [[amanita-muscaria-eucharist-wafer-preparation]]), then the Grail was literally the vessel used to prepare and serve the sacrament.
+The theory that the Holy Grail of Arthurian legend originated as a [[amanita-muscaria-living-bread-sacrament]] and  experiments revealed that when [[amanita-muscaria-ambrosia-preparation]] or [[amanita-muscaria-eucharist-wafer-preparation]]), then the Grail was literally the vessel used to prepare and serve the sacrament.
 
 ### The Emerald Tablet Theory
 
@@ -20,7 +20,7 @@ Some researchers connect the Grail to alchemical traditions and the Emerald Tabl
 ### Supporting Evidence
 
 - The Grail's properties (immortality, healing, light, nourishment) match Amanita muscaria's effects
-- The "living vessel" concept is experimentally verifiable
+- The "[[amanita-muscaria-living-vessel-grail]]" concept is experimentally verifiable
 - The wasteland motif parallels the loss of forest habitat
 - The medieval context of religious persecution explains the need for encoding
 - The multiple, contradictory Grail descriptions (cup, dish, stone) map onto different mushroom preparations
@@ -114,4 +114,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

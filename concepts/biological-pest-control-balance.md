@@ -24,13 +24,13 @@ Fukuoka's fields presented a striking contrast to those of his neighbours. In
 his fields, dragonflies and moths flew up in a flurry. Honeybees buzzed from
 blossom to blossom. Parting the leaves revealed insects, spiders, frogs,
 lizards, and many other small animals bustling about in the cool shade. Moles
-and earthworms burrowed beneath the surface. This balanced rice field ecosystem
+and earthworms burrowed beneath the surface. This balanced rice [[fukuoka-textdoc-field-ecosystem-natural-farm-insects-frogs-dragonflies]]
 meant that it was not uncommon for a plant disease to sweep through the area,
 leaving the crops in these fields unaffected.
 
 In the neighbour's fields, the weeds had all been wiped out by herbicides and
 cultivation, the [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] son, and the soil
-burned clean of organic matter by chemical fertilizers. Farmers worked in the
+burned clean of [[hamilton-composting-and-organic-matter-management]] by [[cervantes-chemical-fertilizers-guide]]. Farmers worked in the
 fields wearing gas masks and long rubber gloves.
 
 ## The Rice Leafhopper Investigation
@@ -81,7 +81,7 @@ Spiders are sensitive to even the slightest human tampering.
 
 ## The Stem Borer Paradox
 
-While working at the Kochi Testing Station, Fukuoka experimented with stem
+While working at the Kochi [[fukuoka-straw-scattering-testing-station-resistance]], Fukuoka experimented with stem
 borer prevention. These insects feed on the rice stem, causing stalks to
 whiten and wither. One field was sprayed with insecticide; another was left
 untreated. The untreated field with many withered stalks produced the higher
@@ -95,13 +95,13 @@ are actually lower.
 
 Testing centre reports publish only about half of experimental results.
 Chemical companies advertise [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] ard, damaging insects
-such as arrowhead scale appeared — the predator community had been
+such as [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] appeared — the predator community had been
 disrupted. Trees following natural form bear fruit yearly without pruning.
 
 ## The Pine Weevil Blight Cascade
 
 Fukuoka analyzed the pine bark weevil outbreak as a cascade: mediating
-nematodes breed within trunks, blocking water and nutrient transport,
+nematodes breed within trunks, blocking water and [[mycelial-network-nutrient-transport-imaging-gadd]],
 killing pines. Nematodes feed on an internal fungus; whether fungus or
 nematode appeared first remains unclear. Effect following effect in every
 direction, the only certainty is that pines are withering in unusual

@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [query, tomatoes, organic-growing, vegetables]
 date: 2026-05-02
 updated: 2026-05-02
-sources: []
+sources:
+  - "raw/papers/steve-solomon-gardening-when-it-counts.md"
 type: query
 ---
 
@@ -12,8 +13,8 @@ type: query
 
 ## Short Answer
 
-Grow organic tomatoes by combining warm soil, healthy transplants, biologically active fertility, steady moisture, and preventive disease management.
-Use [[growing-tomatoes-organically]] for the organic fertility approach.
+Grow organic tomatoes by combining warm soil, healthy transplants, biologically active fertility, steady moisture, and preventive [[plant-disease-management-solomon]].
+Use [[growing-tomatoes-organically]] for the [[coleman-compost-and-organic-fertility-management]] approach.
 [[solomon-growing-tomatoes]] add practical garden-scale and field-scale judgment.
 Under cover, [[tomato-pepper-eggplant-growing-guide]].
 
@@ -27,7 +28,7 @@ Too much quick nitrogen can create leafy plants that set poorly and invite disea
 Too little fertility can leave plants pale just when flowering and fruit fill increase demand.
 Mature compost should smell earthy and should not heat the root zone.
 Slow-release amendments should be mixed evenly rather than concentrated against transplant roots.
-Mulch and organic matter help buffer moisture swings during fruit expansion.
+Mulch and [[hamilton-composting-and-organic-matter-management]] help buffer moisture swings during fruit expansion.
 The aim is steady nutrient release through the whole fruiting period.
 
 ### Plant transplants for strong roots
@@ -48,7 +49,7 @@ The support method should match variety, climate, and available labor.
 
 Tomatoes suffer when the root zone alternates between drought and saturation.
 Uneven water can contribute to cracking and blossom-end rot symptoms.
-Drip irrigation and soaker hoses keep leaves drier than overhead watering.
+[[comparison-drip-irrigation-vs-passive-irrigation]] and soaker hoses keep leaves drier than overhead watering.
 Mulch reduces evaporation and protects the soil surface from splash.
 Water should reach the active root zone rather than dampening only the top inch.
 Container tomatoes need closer monitoring because pots heat and dry quickly.
@@ -66,7 +67,7 @@ Do not work wet plants if disease is spreading through the canopy.
 Rotating the whole nightshade group matters more than moving only tomatoes.
 Shared fertility plans should still respect each crop habit and harvest window.
 Do not crowd all nightshades into one overused bed every year.
-A rotation plan is disease prevention disguised as layout.
+A [[query-how-do-i-design-a-crop-rotation-plan-for-my-vegetable-garden]] is [[cervantes-pest-disease-prevention-overview]] disguised as layout.
 
 ### Harvest and clean up
 

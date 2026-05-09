@@ -36,7 +36,7 @@ Beyond its culinary applications, P. odorata has a long history of use in tradit
 
 The plant is a herbaceous perennial growing 20–60 cm tall. Stems are cylindrical, green to reddish, often rooting at the nodes when in contact with moist soil. This rooting habit makes it an effective ground cover in wet tropical gardens.
 
-Leaves are simple, alternate, lanceolate to elliptic, 5–15 cm long and 2–4 cm wide. The leaf surface is smooth and glossy, dark green above and lighter below, with a characteristic reddish-purple marking at the center of the leaf blade (a chevron or V-shaped pattern) in many populations.
+Leaves are simple, alternate, lanceolate to elliptic, 5–15 cm long and 2–4 cm wide. The [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is smooth and glossy, dark green above and lighter below, with a characteristic reddish-purple marking at the center of the leaf blade (a chevron or V-shaped pattern) in many populations.
 
 Inflorescences are slender, terminal or axillary spikes, 3–8 cm long, bearing small pink to white flowers. Each flower is 3–4 mm long with five tepals. Flowering occurs year-round in tropical conditions but is most prolific during warm, wet months. Fruits are small, dark brown achenes approximately 2 mm long.
 
@@ -50,7 +50,7 @@ P. odorata grows as a **marginal or emergent aquatic plant**, typically found al
 
 ## Chemistry and Bioactive Compounds
 
-The characteristic aroma of P. odorata is primarily attributed to its volatile oil composition, dominated by **aldehydes** and **terpenoids**. The essential oil (0.1–0.5% of fresh weight) contains **decanal** (C10 aldehyde, 20–35%), **dodecanal** (C12 aldehyde, 10–25%), and **undecanal** as the major constituents responsible for the coriander-like fragrance.
+The characteristic aroma of P. odorata is primarily attributed to its volatile oil composition, dominated by **aldehydes** and **terpenoids**. The [[permaculture-designers-manual-essential-oil-plants]] (0.1–0.5% of fresh weight) contains **decanal** (C10 aldehyde, 20–35%), **dodecanal** (C12 aldehyde, 10–25%), and **undecanal** as the major constituents responsible for the coriander-like fragrance.
 
 **Key non-volatile phytochemicals include:**
 
@@ -63,7 +63,7 @@ The characteristic aroma of P. odorata is primarily attributed to its volatile o
 
 - **Antioxidant activity** — DPPH and ABTS radical scavenging with IC50 values of 25–50 µg/mL for crude methanolic extracts
 - **Anti-inflammatory activity** — inhibition of cyclooxygenase-2 (COX-2) and nitric oxide production in LPS-stimulated macrophages at 25–100 µg/mL
-- **Antimicrobial activity** — methanolic extracts inhibit *Staphylococcus aureus*, *Bacillus subtilis*, and *Candida albicans* at MIC values of 125–500 µg/mL
+- **Antimicrobial activity** — methanolic extracts inhibit *Staphylococcus aureus*, *Bacillus subtilis*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* at MIC values of 125–500 µg/mL
 - **Antidiabetic activity** — α-glucosidase inhibition (IC50 40–80 µg/mL) and blood glucose reduction in streptozotocin-induced diabetic rats
 
 ## Culinary and Medicinal Use
@@ -86,13 +86,13 @@ Pests are generally minor but include aphids, spider mites, and fungal leaf spot
 
 Fresh *Persicaria odorata* leaves are approximately 85% water with low caloric content. Per 100 g fresh weight, they provide approximately 25–30 kcal, with modest amounts of protein (2–3 g) and carbohydrates (4–5 g).
 
-Vitamin content includes significant amounts of vitamin A (as beta-carotene), vitamin C, and vitamin K. The beta-carotene concentration is comparable to other dark-green culinary herbs, contributing to antioxidant intake.
+Vitamin content includes significant amounts of vitamin A (as beta-carotene), vitamin C, and vitamin K. The beta-carotene concentration is comparable to other dark-green [[holzer-medicinal-and-culinary-herbs-compendium]], contributing to antioxidant intake.
 
 Mineral content includes calcium, iron, magnesium, and potassium. While concentrations are not as high as in seaweeds, regular consumption contributes meaningfully to daily micronutrient requirements.
 
 ## Related Species
 
-The genus *Persicaria* contains approximately 100 species distributed worldwide. Several other species in the genus are used as culinary or medicinal herbs in different cultural traditions.
+The genus *Persicaria* contains approximately 100 species distributed worldwide. Several other species in the genus are used as culinary or [[permaculture-plants-medicinal-herbs-healing]] in different cultural traditions.
 
 *Persicaria hydropiper* (water pepper) is a pungent relative used as a condiment in Japanese cuisine and as a traditional remedy in European herbal medicine. Its leaves contain the vesicant compound polygonone.
 
@@ -100,7 +100,7 @@ The genus *Persicaria* contains approximately 100 species distributed worldwide.
 
 *Polygonum multiflorum* (he shou wu) is a well-known traditional Chinese medicine herb used for its purported anti-aging and hair-restoring properties. It is botanically related but occupies a very different ecological and cultural niche.
 
-*Persicaria maculosa* (lady's thumb) is a common European and North American weed with documented traditional uses as an astringent and diuretic, though it is not consumed as food.
+*Persicaria maculosa* (lady's thumb) is a common European and [[growing-gourmet-north-american-reishi-species]] weed with documented traditional uses as an astringent and diuretic, though it is not consumed as food.
 
 ## See Also
 

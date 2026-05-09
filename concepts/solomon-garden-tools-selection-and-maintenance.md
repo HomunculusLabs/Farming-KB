@@ -1,5 +1,5 @@
 ---
-title: "Garden Tools Selection and Maintenance"
+title: "solomon garden tools selection and maintenance Selection and Maintenance"
 created: 2026-04-28
 tags: [tools, garden-equipment, hand-tools, maintenance]
 date: 2026-04-28
@@ -10,11 +10,11 @@ type: concept
 ---
 
 # [[steve-solomon]] insists that to vegetable garden successfully you only need
-a few hand tools, provided they are high quality and properly sharpened.
-Garden magazines, garden centers, and seed catalogs all promote the idea
+a few [[garden-hand-tools-solomon]], provided they are high quality and properly sharpened.
+Garden magazines, [[solomon-garden-centers-seedling-traps]], and seed catalogs all promote the idea
 that appealing merchandise is useful and essential, but most of it is
 unnecessary. The critical tools are: a spade or combination shovel, a
-garden hoe, a bow rake, and a file to sharpen the shovel and hoe.
+[[solomon-garden-hoe-and-cultivation-techniques]], a bow rake, and a file to sharpen the shovel and hoe.
 
 ## The Three Essential Tools
 
@@ -62,7 +62,7 @@ store. Inspect what they sell carefully.
 Key indicators of quality include: a handle solidly attached; the tool
 light and well balanced, yet strong; and for combination shovels or
 spades, the top of the blade should be rolled over so you can press
-hard with your foot without pain. Brand names used by tradespeople are
+hard with your foot without pain. [[emcdda-brand-names-user-terms-smartshop-marketing]] used by tradespeople are
 generally reliable indicators of quality.
 
 ## Sharpening the Shovel
@@ -103,7 +103,7 @@ rapidly get dull with use.
 The bow rake is essential for leveling seedbeds and breaking up clods.
 Its rigid tines can also be used for lightly cultivating the soil
 surface. Combined with the shovel and hoe, these four tools (including
-the file) can handle all the work of a garden up to a quarter acre.
+the file) can handle all the work of a garden up to a [[fukuoka-agriculture-tomorrow-quarter-acre-vision]].
 
 ## Short-Handled Versus Long-Handled Tools
 

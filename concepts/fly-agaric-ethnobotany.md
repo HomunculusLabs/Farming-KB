@@ -1,5 +1,5 @@
 ---
-title: Fly Agaric Ethnobotany in Plants of the Gods
+title: amanita-muscaria-fly-agaric-history-and-pharmacology Ethnobotany in Plants of the Gods
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -12,7 +12,7 @@ tags: [agar, ethnobotany]
 
 The fly agaric ([[amanita-muscaria-cultural-history]], documenting its use
 across both hemispheres from Siberian shamanism to Mesoamerican ritual and
-North American indigenous practice.
+[[growing-gourmet-north-american-reishi-species]] indigenous practice.
 
 ## Siberian Shamanism and the Koryak Tradition
 
@@ -50,17 +50,17 @@ refers to urine drinking in the [[amanita-muscaria-ethnobotany]].
 
 See also: [[siberian-fly-agaric-tradition]], [[amanita-muscaria-chemistry-and-pharmacology]],
 [[amanita-muscaria-ethnobotany]] is described by Schultes and Hofmann as a
-beautiful mushroom growing in thin forests, usually under birches, firs, and
+beautiful [[duggar-mushroom-growing-history-and-methods]] in thin forests, usually under birches, firs, and
 young pines, reaching 8-9 inches in height. Three varieties exist: a
-blood-red cap with white warts (Old World and northwestern North America); a
+blood-red cap with white warts ([[datura-metel-old-world-ethnobotany]] and northwestern North America); a
 yellow or orange type (eastern and central North America); and a white variety
 found in Idaho. The cylindrical stem has a bulbous base with a conspicuous
 cream-white ring covered in encircling scales.
 
-See also: [[amanita-in-ancient-religion]],
-[[amanita-preparation-methods]],
+See also: organized religion,
+[[amanita-muscaria-preparation-methods]],
 [[fly-agaric-siberian-shamanic-practice]],
-[[wasson-brough-soma-debate]], richard evans schultes updated,
+[[wasson-brough-soma-debate]], richard [[richard-evans-schultes-updated]] updated,
 albert hofmann
 ## Practical Considerations
 
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

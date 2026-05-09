@@ -1,5 +1,5 @@
 ---
-title: Xylem and Phloem Transport Systems in Plants
+title: Xylem and xylem and phloem transport systems in plants Systems in Plants
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Xylem and Phloem Transport Systems in Plants
 
-Plants have two parallel vascular transport systems that work in fundamentally different ways. The xylem moves water and dissolved nutrients upward (unidirectional), while the phloem transports sugars, amino acids, and organic compounds in both directions. Together, they form the plant's circulatory system.
+Plants have two parallel vascular transport systems that work in fundamentally different ways. The xylem moves water and dissolved nutrients upward (unidirectional), while the phloem transports sugars, amino acids, and [[fungal-volatile-organic-compounds-communication]] in both directions. Together, they form the plant's circulatory system.
 
 ## The Xylem: Water's One-Way Highway
 
@@ -30,7 +30,7 @@ Water moves through xylem without the plant expending any energy. The driving fo
 2. **Cohesion**: Hydrogen bonds between water molecules hold them together as a continuous column
 3. **Adhesion**: Water molecules adhere to the lignified walls of xylem cells
 
-The speed of water movement through xylem: up to 30 meters per hour. A mature maize plant transpires about 4 gallons (15 liters) per week. One acre of maize transpires 350,000 gallons during a 100-day growing season.
+The speed of water movement through xylem: up to 30 meters per hour. A mature maize plant transpires about 4 gallons (15 liters) per week. One acre of maize transpires 350,000 gallons during a 100-day [[savory-growing-season-and-non-growing-season-management]].
 
 ### Tree Rings
 
@@ -54,17 +54,17 @@ Phloem sieve tubes are atypical cells: they lack nuclei, vacuoles, and plastids,
 
 ### Phloem Loading
 
-Getting sugars into the phloem requires energy (active transport). Two methods:
+Getting sugars into the phloem requires energy ([[diffusion-osmosis-and-active-transport-in-plants]]). Two methods:
 
 - **Apoplastic loaders**: Common in temperate climates and herbaceous plants. Sugars move into the cell wall space, then hydrogen ions pumped out of the membrane create a gradient that drives sugar uptake into companion cells.
-- **Symplastic loaders**: Common in tropical climates and trees. Sugars pass through plasmodesmata directly into companion cells. Transport proteins specific to sucrose or proteins facilitate this.
+- **Symplastic loaders**: Common in tropical climates and trees. Sugars pass through plasmodesmata directly into companion cells. [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] specific to sucrose or proteins facilitate this.
 
 ### Source-to-Sink Transport
 
 Phloem flow is bidirectional and driven by pressure:
 
 1. **Source**: An area of high sugar concentration (leaves in summer, roots in spring). Sugars are actively loaded into phloem, creating osmotic pressure.
-2. **Water movement**: Water moves from adjacent xylem into the sieve tube to dilute the sugar, creating turgor pressure.
+2. **Water movement**: Water moves from adjacent xylem into the sieve tube to dilute the sugar, creating [[bloomfield-turgor-pressure-and-hyphal-invasion]].
 3. **Flow**: The pressurized sap (80% sugar) flows toward areas of lower concentration.
 4. **Sink**: An area where sugars are removed and used (growing tips, roots, fruit). Active transport unloads sugars into sink cells.
 

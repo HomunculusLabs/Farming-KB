@@ -11,16 +11,16 @@ type: concept
 
 # Free Spore Ring and Home Cultivation Supply Chain
 
-The European market for hallucinogenic mushrooms was
+The European market for [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] was
 supported by a complex supply chain extending beyond
 retail shops to encompass spore distribution networks,
-cultivation equipment suppliers, and information
+[[gottlieb-psilocybin-cultivation-equipment-and-facilities]] suppliers, and information
 resources that enabled home cultivation. A particularly
 notable element of this supply chain was the Free Spore
 Ring Europe (FSRE), a non-profit organisation that
 distributed mushroom spores at minimal cost. This
 distribution infrastructure significantly expanded access
-to hallucinogenic mushroom cultivation beyond what
+to hallucinogenic [[accessible-mushroom-cultivation-for-disabilities]] beyond what
 commercial retail alone could provide.
 
 ## Spore Prints and Syringes
@@ -51,7 +51,7 @@ The Free Spore Ring Europe (FSRE) represented a distinct
 model of spore distribution that operated outside the
 commercial market. This non-profit organisation offered
 a variety of psilocybin mushroom strains, including
-Psilocybe cubensis and Panaeolus cyanescens, at a price
+Psilocybe cubensis and [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]], at a price
 of 1 euro per print. The minimal pricing structure
 reflected the organisation's stated mission of providing
 access to spore materials rather than generating profit.
@@ -112,7 +112,7 @@ The shift in UK online retailer behaviour following the
 2005 ban illustrated this resilience. Rather than ceasing
 operations entirely, retailers such as EveryOneDoesIt.com
 and Allsalvia.co.uk pivoted to legal alternatives
-including Amanita muscaria (fly agaric) and Amanita
+including [[allegro-amanita-muscaria-properties-and-pharmacology]] (fly agaric) and Amanita
 pantherina (panther mushroom), as well as Purple Ohms
 capsules containing Hawaiian Baby Woodrose seeds with
 lysergic acid amide (LSA). This adaptive capacity
@@ -123,7 +123,7 @@ supply chain with multiple independent components.
 
 The existence of a robust home cultivation supply chain
 raised fundamental questions for drug policy. Traditional
-supply-side drug control strategies focus on disrupting
+supply-side drug [[jadam-weed-control-strategies-natural]] focus on disrupting
 commercial distribution networks, but the decentralised
 nature of spore-based cultivation made this approach
 considerably less effective. When the starting materials
@@ -138,10 +138,12 @@ themselves contain controlled substances. This biological
 reality created a persistent gap in the regulatory
 framework that the EMCDDA identified as a contributing
 factor to the longevity of the hallucinogenic mushroom
-trend in Europe.
-
 ## See also
 
 [[emcdda-hallucinogenic-mushroom-internet-shop-market-snapshot-2006]]
-[[emcdda-hallucinogenic-mushroom-legal-loopholes]]
+emcdda-hallucinogenic-mushroom-legal-loopholes
 [[emcdda-hallucinogenic-mushroom-online-retail-shops]]
+## See Also
+- [[mushroom-cultivation]]
+- [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]]
+- [[lysergic-acid-amide]]

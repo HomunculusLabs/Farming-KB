@@ -12,8 +12,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - McKenna, D.J., et al. (1984). "Monoamine oxidase inhibitors in South American hallucinogenic plants." Journal of Ethnopharmacology 12(2): 179–211.
-  - Samoylenko, V., et al. (2010). "Banisteriopsis caapi: a chemical analysis of the Amazonian psychoactive beverage ayahuasca." Phytochemistry Letters 3(3): 77–81.
+  - McKenna, D.J., et al. (1984). "Monoamine oxidase inhibitors in chiric-caspi-brunfelsia-south-american-hallucinogen hallucinogenic plants." Journal of Ethnopharmacology 12(2): 179–211.
+  - Samoylenko, V., et al. (2010). "Banisteriopsis caapi: a [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of the Amazonian psychoactive beverage ayahuasca." Phytochemistry Letters 3(3): 77–81.
   - Riba, J., et al. (2003). "Increasing tryptamine dose in ayahuasca." Psychopharmacology 166(1): 63–70.
   - Yritia, M., et al. (2005). "Determination of tryptamine, N-methyltryptamine, and N,N-dimethyltryptamine in ayahuasca." Journal of Chromatography B 820(2): 259–266.created: 2026-05-07
 
@@ -62,7 +62,7 @@ The role of THH in the ayahuasca experience has been historically underappreciat
 
 Research by Samoylenko et al. (2010) demonstrated that THH concentrations vary significantly between *B. caapi* varieties. Indigenous healers (ayahuasqueros) often select specific varieties based on the desired qualities of the brew, and THH content is believed to influence the visual, emotional, and somatic characteristics of the experience.
 
-The combination of THH's SRI activity with harmine's MAO-A inhibition and DMT's 5-HT₂A agonism creates a **multi-target pharmacological profile** that is difficult to replicate with isolated compounds. This polypharmacology is considered central to the therapeutic potential of ayahuasca in contemporary clinical research.
+The combination of THH's SRI activity with harmine's MAO-A inhibition and DMT's 5-HT₂A agonism creates a **multi-target pharmacological profile** that is difficult to replicate with isolated compounds. This polypharmacology is considered central to the therapeutic potential of ayahuasca in contemporary [[hofmann-lsd-clinical-research-early-studies]].
 
 ## Synthesis and Biosynthesis
 
@@ -74,7 +74,7 @@ In the biosynthetic pathway within *Banisteriopsis caapi*, THH is formed by enzy
 
 ## Legal Status
 
-Tetrahydroharmine is not specifically scheduled under the **United Nations Convention on Psychotropic Substances** or under the Controlled Substances Act in the United States. It is generally unregulated as an isolated compound in most jurisdictions.
+Tetrahydroharmine is not specifically scheduled under the **United Nations Convention on Psychotropic Substances** or under the Controlled [[controlled-substances-act-and-psychedelic-research]] in the [[dmt-containing-plants-united-states-halpern]]. It is generally unregulated as an isolated compound in most jurisdictions.
 
 However, THH is a natural constituent of *Banisteriopsis caapi*, which is specifically exempted from scheduling in some countries. In the United States, *B. caapi* was removed from the DEA Schedule I list following a 2004 court ruling that found insufficient evidence of its own psychoactive properties independent of DMT-containing admixture plants.
 
@@ -98,7 +98,7 @@ Tetrahydroharmine belongs to the β-carboline alkaloid family, which includes bo
 
 - **Harmine** — the fully aromatic parent compound; potent MAO-A inhibitor and the most abundant β-carboline in *B. caapi*.
 - **Harmaline** — 3,4-dihydroharmine; potent MAO-A inhibitor with stronger tremorogenic and emetic effects than harmine.
-- **Harmalol** — demethylated harmaline; weaker MAO-A inhibitor, found in *Peganum harmala*.
+- **Harmalol** — demethylated harmaline; weaker MAO-A inhibitor, found in *[[mckenna-food-gods-peganum-harmala-soma]]*.
 - **Norharman** (β-carboline) — unmethylated core structure; found in tobacco smoke and various plants.
 - **Harman** — 1-methyl-β-carboline; the fully aromatic analogue of THH, lacking the 3,4-dihydro reduction.
 - **Tetrahydroharmane** — the unmethylated analogue of THH (nor-THH).

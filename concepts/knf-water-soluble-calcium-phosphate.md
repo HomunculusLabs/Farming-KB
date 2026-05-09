@@ -1,5 +1,5 @@
 ---
-title: Water-Soluble Calcium Phosphate (WCP)
+title: Water-Soluble bionutrients-lab-calcium-phosphate-calamansi (WCP)
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 **Updated:** 2026-04-18
 
-Water-Soluble Calcium Phosphate (WCP) is a [[knf-brown-rice-vinegar]] (BRV) as a solvent, WCP supports root development, flowering, fruit set, and reproductive growth. Phosphorus is critical for energy transfer (ATP), root establishment, and reproductive development in plants.
+Water-Soluble Calcium Phosphate (WCP) is a [[knf-brown-rice-vinegar]] (BRV) as a solvent, WCP supports root development, flowering, fruit set, and [[knf-reproductive-growth-stage]]. Phosphorus is critical for energy transfer (ATP), root establishment, and reproductive development in plants.
 
 ## Why Calcium Phosphate Matters
 
@@ -22,7 +22,7 @@ Phosphorus is one of the three primary macronutrients (N-P-K) and plays essentia
 - **Energy transfer:** Phosphorus is a component of ATP (adenosine triphosphate), the energy currency of all living cells
 - **Flowering and fruiting:** Essential for flower formation, pollen viability, seed development, and fruit maturation
 - **Cell division:** Required for DNA and RNA synthesis, which drives cell division and tissue growth
-- **Calcium role:** The calcium component strengthens cell walls and supports nutrient transport to reproductive organs
+- **Calcium role:** The calcium component strengthens cell walls and supports [[mycelial-network-nutrient-transport-imaging-gadd]] to reproductive organs
 
 Combined calcium and phosphate are especially important during the crossover period when plants transition from vegetative to reproductive growth.
 
@@ -37,7 +37,7 @@ Combined calcium and phosphate are especially important during the crossover per
 
 - Apply as a foliar spray 2-3 hours before sunset
 - WCP is most effective during the crossover period when plants shift from vegetative to reproductive growth
-- Can be tank-mixed with [[knf-fish-amino-acid]], and [[knf-nutritive-cycle-theory]], WCP occupies a critical position during the plant's transition from vegetative to reproductive growth. While [[knf-fermented-fruit-juice]] drive vegetative growth through nitrogen supply, and [[water-soluble-calcium-phosphate-wcp]]
+- Can be tank-mixed with [[knf-fish-amino-acid]], and [[knf-nutritive-cycle-theory]], WCP occupies a critical position during the plant's transition from vegetative to reproductive growth. While [[knf-fermented-fruit-juice]] drive [[cannabis-vegetative-growth-stage]] through nitrogen supply, and [[water-soluble-calcium-phosphate-wcp]]
 - [[knf-brown-rice-vinegar]]
 ## Practical Considerations
 
@@ -55,7 +55,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -98,3 +98,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[cho-water-soluble-calcium-phosphate-preparation]]

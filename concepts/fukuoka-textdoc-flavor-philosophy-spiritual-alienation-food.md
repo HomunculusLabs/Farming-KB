@@ -1,5 +1,5 @@
 ---
-title: Flavor Philosophy and Spiritual Alienation from Food
+title: fukuoka-flavor-philosophy-spiritual-alienation-food and fukuoka-textdoc-flavor-delusion-and-spiritual-alienation-from-food from Food
 tags:
   - fukuoka
   - food-philosophy
@@ -66,7 +66,7 @@ the taste of rice. "He normally eats white rice prepared by polishing brown
 rice to remove the bran. To make up for the loss in flavor, he adds meat
 sauce to the white rice or eats it together with sashimi."
 
-Tasty rice thus becomes rice that is easy to flavor and season. People
+[[fukuoka-tasty-rice-illusion-food-processing]] thus becomes rice that is easy to flavor and season. People
 delude themselves into thinking of white rice, "which has been stripped of
 the aroma and taste peculiar to rice, as high-grade rice." Refinements in
 flavoring with petroleum-derived protein have created people unaware that
@@ -109,14 +109,14 @@ True cooking and the pursuit of true flavor are to be found in a
 comprehension of the subtle and exquisite flavors of nature. People who
 cannot eat wild herbs without removing their natural astringency are unable
 to enjoy the flavors of nature. The practical wisdom of early man who sun-
-dried root vegetables and pickled them in salt, rice bran, or miso,
+dried [[growing-root-vegetables-guide]] and pickled them in salt, [[jadam-rice-bran-problems]], or miso,
 enjoying their special taste and aroma, demonstrates a deep understanding
 of the essence of natural flavor that modern gourmands have entirely lost.
 
 Fukuoka concludes that "true culture arises from within nature, and is
 pure, modest, and simple." A culture born of human recreation and vanity
 that is divorced from nature cannot become a true culture. When mankind
-forsakes a natural diet for a civilized diet, he turns away from a true
+forsakes a [[fukuoka-natural-diet-as-foundation]] for a civilized diet, he turns away from a true
 culture and sets off on the road to decline. "Zen and food are one."
 
 ## Related Concepts

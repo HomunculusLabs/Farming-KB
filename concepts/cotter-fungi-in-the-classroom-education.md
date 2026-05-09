@@ -1,5 +1,5 @@
 ---
-title: "Fungi in the Classroom Education"
+title: "Fungi in the mushroom-classroom-education-demos"
 created: 2026-04-28
 tags: [education, mycology-teaching, classroom-activities, science-projects, STEM]
 date: 2026-04-25
@@ -29,7 +29,7 @@ doubling daily growth rate. Making spore prints from harvested mushrooms
 demonstrates the lifecycle completing anew.
 
 Recycling activities include soaking paper and cardboard with spawn to show
-decomposition, and the "coffee cultivator" where spent coffee grounds in a
+decomposition, and the "coffee cultivator" where spent [[oyster-mushroom-coffee-grounds-cultivation]] in a
 bucket are inoculated with oyster mushroom starter culture. The bucket becomes a
 classroom "pet" that students observe daily. For art integration, use
 store-bought mushrooms with gills to make spore prints on construction paper,
@@ -58,7 +58,7 @@ and fungicides in the agar, demonstrate selective growth and resistance.
 
 ## High School Activities (Grades 9 through 12)
 
-Identifying mushrooms outdoors teaches use of dichotomous keys and field guides.
+Identifying [[query-how-to-grow-gourmet-mushrooms-outdoors-on-logs-and-stumps]] teaches use of dichotomous keys and field guides.
 Students examine specimens, make spore prints, and dissect mushrooms to label
 anatomical features. Mycorrhizal relationship experiments use sterilized bean
 seeds planted in plain soil (control) versus soil with mycorrhizal
@@ -73,13 +73,13 @@ document the entire process with daily notes on changes and challenges.
 
 The oil spill remediation experiment uses vegetable oil in a small aquarium.
 Students add shredded grass to absorb the oil, layer it between colonized
-cardboard sheets, and observe mycelial enzyme production (yellow metabolite
+cardboard sheets, and observe mycelial [[ligninolytic-enzyme-production-bioremediation]] (yellow metabolite
 droplets) over several weeks. Red wiggler worms are added at intervals to test
 biological recovery, with the experiment spanning up to three months.
 
 ## College-Level Activities
 
-Entomopathogenic fungi studies involve collecting sluggish or "mummified"
+[[singh-entomopathogenic-fungi-biocontrol-agents]] studies involve collecting sluggish or "mummified"
 insects from gardens and organic farms, then isolating and identifying the
 fungal parasites through DNA analysis. Isolated fungi can be reintroduced to
 insect galleries to determine pathogenicity against agricultural pests.
@@ -94,7 +94,7 @@ determine effective concentrations. This research has applications for
 antibiotic discovery and understanding microbial signaling pathways.
 
 Biofuel production experiments pair fungi with bacteria in sequential
-degradation systems. Fungi perform primary lignin degradation, then the mass
+degradation systems. Fungi perform primary [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]], then the mass
 is added to anaerobic digesters with bacteria like termite gut microbes that
 produce methane, which can be converted to methanol. Students continuously
 sample carbon dioxide levels to track lignin degradation progression. Fungal
@@ -116,6 +116,9 @@ supercolonized grain substrates as sustainable protein sources.
 
 ## See Also
 
-- [[cotter-seven-stages-of-mushroom-cultivation]]
+- cotter-seven-stages-of-mushroom-cultivation
 - [[cotter-recycling-composting-vermicomposting-mushrooms]]
 - [[cotter-agar-tissue-culture-techniques]]
+- [[decomposition]]
+- [[lignin-degradation]]
+- [[vermicomposting]]

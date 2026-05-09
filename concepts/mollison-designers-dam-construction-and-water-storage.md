@@ -1,5 +1,5 @@
 ---
-title: Dam Construction and Water Storage
+title: comparison-dam-construction-vs-swale-design and Water Storage
 created: 2026-04-26
 tags:
   - permaculture
@@ -17,7 +17,7 @@ type: concept
 # Dam Construction and Water Storage
 
 Mollison treats water storage as the single most important element of
-permaculture design. "Without water, there is no life; without stored water,
+[[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]. "Without water, there is no life; without stored water,
 there is no security." He provides detailed practical guidance on dam
 construction drawn from decades of Australian and international experience.
 
@@ -41,7 +41,7 @@ structures serve well as check dams in gully reclamation.
 
 ## Site Selection
 
-Mollison's site selection criteria for dams:
+Mollison's site [[cannabis-breeding-traits-selection-criteria-clarke]] for dams:
 
 1. **Topography:** The ideal site is a gently sloping valley floor narrowing
    to a point, allowing maximum water volume with minimum wall height. The
@@ -53,7 +53,7 @@ Mollison's site selection criteria for dams:
 
 3. **Catchment area:** Calculate the water yield from the catchment using
    rainfall, runoff coefficient, and evaporation data. Mollison provides
-   simple formulas for estimating catchment yield in different climate zones.
+   simple formulas for estimating catchment yield in different [[mollison-climate-zones-permaculture-strategies]].
 
 4. **Soil for construction:** Sufficient clay content (ideally 20-30%) in
    the wall material is essential. Test soil by rolling a moist sample into
@@ -93,7 +93,7 @@ Proper compaction is the difference between a durable dam and a leaky one:
 Sealing methods for leaky dams:
 - Bentonite clay blankets applied to the upstream face
 - Plastic or rubber liners (effective but expensive and UV-sensitive)
-- Gleying: flooding the dam with organic matter (manure, leaves, straw) and
+- Gleying: flooding the dam with [[hamilton-composting-and-organic-matter-management]] (manure, leaves, straw) and
   allowing anaerobic bacteria to create an impermeable biological layer
 
 ## Maintenance
@@ -114,5 +114,7 @@ In the [[mollison-designers-cold-caves-root-cellar-storage]],
 alexander shulgin, [[keypoint-dam-water-storage-earthworks]]
 
 ## See Also
+
+- [[water-tank-selection-and-construction]]
 
 - [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]

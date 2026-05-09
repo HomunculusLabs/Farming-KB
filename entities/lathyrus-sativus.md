@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Campbell, C.G. (1997). Grasspea: Lathyrus sativus L. Promoting the conservation and use of underutilized and neglected crops. IPGRI.
-  - Vaz Patto, M.C. et al. (2006). "Lathyrus sativus." In: Grain Legumes, Springer.
+  - Vaz Patto, M.C. et al. (2006). "Lathyrus sativus." In: [[query-best-grain-legumes-for-a-small-homestead]], Springer.
   - Lambein, F. et al. (2018). "Grass pea and its neurotoxin ODAP." Phytochemistry Reviews.
   - Hanbury, C.D. et al. (2000). "A review of Lathyrus sativus." Experimental Agriculture.
 ---
@@ -64,7 +64,7 @@ This extreme tolerance makes it a reliable crop in marginal environments where o
 
 The crop performs best in neutral to alkaline soils (pH 6.0–8.5) with moderate fertility. Its deep root system (up to 1.5 m) enables access to subsoil moisture unavailable to shallower-rooted crops.
 
-Sowing rates of 40–80 kg per hectare are standard, with row spacing of 25–30 cm. The crop requires no irrigation under rainfed conditions and has minimal fertilizer requirements due to effective nitrogen fixation via Rhizobium symbiosis.
+Sowing rates of 40–80 kg per hectare are standard, with [[wide-row-spacing-intensive-gardening-comparison]] of 25–30 cm. The crop requires no irrigation under rainfed conditions and has minimal fertilizer requirements due to effective [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] via Rhizobium symbiosis.
 
 Weed competition is most severe during early establishment, as seedling growth is initially slow. Once the crop canopy closes, grasspea competes effectively with weeds through its climbing and scrambling growth habit.
 
@@ -72,7 +72,7 @@ Growth duration ranges from 100–180 days depending on variety and environmenta
 
 Yields of 500–1,500 kg grain per hectare are typical, with seed protein content of 26–30% on a dry weight basis. Fodder yields of 2–4 tonnes per hectare provide valuable livestock feed.
 
-Grasspea fodder is palatable to ruminants and has a crude protein content of 18–22%. The crop's dual-purpose nature (grain and fodder) makes it particularly valuable in mixed farming systems where livestock integration is essential.
+Grasspea fodder is palatable to ruminants and has a crude protein content of 18–22%. The crop's dual-purpose nature (grain and fodder) makes it particularly valuable in mixed farming systems where [[faires-livestock-integration-permaculture]] is essential.
 
 Intercropping with cereals (barley, wheat, or teff) is common practice in Ethiopian and South Asian agriculture. The combination improves total system productivity and reduces risk of total crop failure.
 
@@ -100,9 +100,9 @@ Research on β-ODAP biosynthesis has identified key enzymes in the pathway, enab
 
 Grasspea forms effective nitrogen-fixing symbioses with Rhizobium leguminosarum bv. viciae, contributing 40–80 kg nitrogen per hectare to the soil. This makes it valuable in crop rotations with cereals in low-input farming systems.
 
-The crop provides excellent ground cover and erosion control on marginal lands. Its deep root system improves soil structure and can access nutrients from subsoil horizons.
+The crop provides excellent ground cover and [[permplant-willows-salix-erosion-control-fodder]] on marginal lands. Its deep root system improves soil structure and can access nutrients from subsoil horizons.
 
-As a drought-adapted legume, grasspea contributes to food system resilience in regions increasingly affected by climate change. Its role in traditional farming systems maintains agrobiodiversity in some of the world's most vulnerable agricultural communities.
+As a drought-adapted legume, grasspea contributes to food system resilience in regions increasingly affected by [[dighton-fungi-climate-change-feedback]]. Its role in traditional farming systems maintains agrobiodiversity in some of the world's most vulnerable agricultural communities.
 
 The crop's ability to produce both grain and forage from a single planting makes it uniquely efficient for smallholder farmers. Its compatibility with cereal-based systems and minimal input requirements support sustainable intensification of marginal lands.
 
@@ -112,4 +112,4 @@ The crop's ability to produce both grain and forage from a single planting makes
 - [[phaseolus-vulgaris]]
 - [[vigna-radiata]]
 - [[arachis-hypogaea]]
-- [[trigonella-foenum-graecum]]
+- trigonella-foenum-graecum

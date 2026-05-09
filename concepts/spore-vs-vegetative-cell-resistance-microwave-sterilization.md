@@ -3,8 +3,8 @@
 
 ## Overview
 
-Microwave irradiation is an effective method for [[dry-microwave-irradiation-spore-resistance]]
-irradiation, while bacterial and [[low-energy-futures-in-permaculture]] addition:** The small water volume required adds very little
+[[dry-microwave-irradiation-spore-resistance]] is an effective method for [[dry-microwave-irradiation-spore-resistance]]
+irradiation, while bacterial and low-energy-futures-in-permaculture addition:** The small water volume required adds very little
   energy to the overall process.
 - **Broad-spectrum efficacy:** The method effectively destroys bacteria, yeasts,
   and molds — including resistant spore forms — on contaminated surfaces.
@@ -37,12 +37,12 @@ Several factors influence microwave sterilization effectiveness:
 - **Surface geometry:** Complex or shadowed surfaces may receive uneven
   [[fungal-spore-biology]]-dormancy-and-germination
 - planetary protection protocols
-- spacecraft surface sterilization
+- spacecraft [[challenge-organisms-nasa-microwave-surface-sterilization-testing]]
 - dielectric heating mechanisms
-- steam sterilization autoclaving
+- [[pf-tek-steam-sterilization-pot-method-common-pottery]] autoclaving
 ## Practical Considerations
 
-When working with Spore Vs Vegetative Cell Resistance Microwave Sterilization, several practical factors should be
+When working with Spore Vs Vegetative Cell spore vs vegetative cell resistance microwave sterilization Sterilization, several practical factors should be
 carefully considered to achieve optimal results. These include
 the specific conditions of the implementation context, available
 resources, timing requirements, and the interactions between this
@@ -56,7 +56,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -98,4 +98,9 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+## See Also
+- [[microwave-sterilization]]
+- [[sterilization]]
+- [[dry-microwave-irradiation-spore-resistance]]
+- [[bacterial-spore-microwave-resistance]]
+- [[microwave-exposure-system-architecture-surface-sterilization]]

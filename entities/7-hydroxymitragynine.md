@@ -6,7 +6,7 @@ tags: [chemical, alkaloid, indole, opioid-receptor-agonist, kratom, mitragyna-sp
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Takayama, H. et al. (2002). \"7-Hydroxymitragynine, an indole alkaloid derived from Mitragyna speciosa.\" Organic Letters, 4(18), 3149-3151."
+  - "Takayama, H. et al. (2002). \"7-Hydroxymitragynine, an aminopropyl-silica-gel-chromatography-indole-alkaloid-purification derived from kratom-mitragyna-speciosa-pharmacology.\" Organic Letters, 4(18), 3149-3151."
   - "Matsumoto, K. et al. (2004). \"Isolation of 7-hydroxymitragynine from Thai kratom.\" Bioorganic & Medicinal Chemistry Letters, 14(7), 1649-1651."
   - "Kruegel, A.C. et al. (2016). \"Opioid receptor signaling by kratom alkaloids.\" Journal of Medicinal Chemistry, 59(17), 7905-7917."
   - "Prozialeck, W.C. et al. (2012). \"Kratom: An emerging drug of abuse.\" Journal of the American Osteopathic Association, 112(12), 698-704."
@@ -14,7 +14,7 @@ sources:
 
 ## Overview
 
-7-Hydroxymitragynine (7-OH) is an indole alkaloid and the primary active metabolite of mitragynine, the most abundant alkaloid in kratom (*Mitragyna speciosa*). First isolated and characterized in 2002 by Takayama and colleagues from Thai kratom leaves, 7-OH is recognized as the most potent opioid receptor agonist naturally occurring in the kratom plant. Despite constituting only a trace fraction of the raw leaf alkaloid profile, 7-OH is formed in vivo through hepatic metabolism and is believed to be largely responsible for the pronounced analgesic effects attributed to kratom consumption. Its unique pharmacological profile — combining high MOR affinity with G-protein biased signaling — has made it a focal point of research into next-generation analgesics with improved safety margins. Simultaneously, its high potency has drawn regulatory scrutiny as a compound of public health concern.
+7-Hydroxymitragynine (7-OH) is an [[indole]] alkaloid and the primary active metabolite of mitragynine, the most abundant alkaloid in kratom (*Mitragyna speciosa*). First isolated and characterized in 2002 by Takayama and colleagues from Thai kratom leaves, 7-OH is recognized as the most potent opioid receptor agonist naturally occurring in the kratom plant. Despite constituting only a trace fraction of the raw leaf alkaloid profile, 7-OH is formed in vivo through hepatic metabolism and is believed to be largely responsible for the pronounced analgesic effects attributed to kratom consumption. Its unique pharmacological profile — combining high MOR affinity with G-protein biased signaling — has made it a focal point of research into next-generation analgesics with improved safety margins. Simultaneously, its high potency has drawn regulatory scrutiny as a compound of public health concern.
 
 ## Chemical Identity
 
@@ -29,7 +29,7 @@ sources:
 
 7-Hydroxymitragynine acts primarily as a **mu-opioid receptor (MOR) partial agonist** with remarkably high binding affinity. It shows selectivity for MOR over other opioid receptor subtypes, although it maintains measurable affinity at the delta-opioid receptor.
 
-- **MOR Ki**: ~5.1 nM (compared to mitragynine at ~234 nM and morphine at ~20 nM)
+- **MOR Ki**: ~5.1 nM (compared to mitragynine at ~234 nM morphine hine at ~20 nM)
 - **Delta-opioid receptor (DOR) Ki**: ~51 nM
 - **Kappa-opioid receptor (KOR) Ki**: >10,000 nM (negligible affinity)
 
@@ -39,7 +39,7 @@ In functional assays, 7-OH achieves approximately 60–70% of the maximal respon
 
 ## Mechanism of Action
 
-7-Hydroxymitragynine exhibits **G-protein biased signaling** at the mu-opioid receptor. This means it preferentially activates Gᵢ/o-protein-mediated signaling pathways (which underlie analgesia and reward) while showing reduced recruitment of **β-arrestin**, the intracellular scaffolding protein responsible for many adverse effects of classical opioids including respiratory depression, constipation, and tolerance development.
+7-Hydroxymitragynine exhibits **G-protein biased signaling** at the mu-opioid receptor. This means it preferentially activates Gᵢ/o-protein-mediated signaling pathways (which underlie analgesia and reward) while showing reduced recruitment of **β-arrestin**, the intracellular scaffolding protein responsible for many [[blesching-cannabis-safety-adverse-effects-evidence]] of classical opioids including respiratory depression, constipation, and tolerance development.
 
 This biased signaling profile is of considerable therapeutic interest, as it may explain why kratom-derived alkaloids produce analgesia with a comparatively lower incidence of life-threatening respiratory depression compared to conventional opioid drugs.
 
@@ -49,18 +49,18 @@ However, the degree of bias and its clinical relevance in humans remain under ac
 
 ## Occurrence in Nature
 
-7-Hydroxymitragynine is a **trace constituent** of the raw kratom leaf, typically comprising only **0.01–0.02%** of the total alkaloid content. By comparison, mitragynine accounts for approximately 66% of total alkaloids, with paynantheine, speciogynine, and other minor alkaloids making up the remainder. Despite its minimal presence in the plant material, 7-OH is the **primary active metabolite** formed in the body after kratom ingestion.
+7-Hydroxymitragynine is a **trace constituent** of the raw kratom leaf, typically comprising only **0.01–0.02%** of the total alkaloid content. By comparison, mitragynine accounts for approximately 66% of total alkaloids, with paynan  iogynine, and other minor alkaloids making up the remainder. Despite its minimal presence in the plant material, 7-OH is the **primary active metabolite** formed in the body after kratom ingestion.
 
 Hepatic **CYP3A4** enzymes hydroxylate mitragynine at the C7 position to produce 7-OH, making it a major contributor to the overall pharmacological effect of kratom consumption even though it is barely present in the raw leaf. The ratio of 7-OH to mitragynine in vivo varies significantly between individuals depending on metabolic enzyme activity, liver function, and concurrent use of CYP3A4 inhibitors or inducers.
 
-Factors affecting natural 7-OH content in kratom include plant age, harvest timing, growing conditions, and post-harvest processing. Younger leaves and fresh material tend to have slightly higher relative proportions of 7-OH compared to dried, aged leaf products.
+Factors affecting natural 7-OH content in kratom include plant age, [[cannabis-harvest-timing-visual-cues]], growing conditions, and post-harvest processing. Younger leaves and fresh material tend to have slightly higher relative proportions of 7-OH compared to dried, aged leaf products.
 
 ## Pharmacokinetics
 
 - **Oral Bioavailability**: Limited data in humans; animal studies suggest moderate oral bioavailability with significant first-pass metabolism. Sublingual and insufflated routes may bypass some first-pass loss.
 - **Half-life**: Estimated at 1–3 hours based on rodent studies; human pharmacokinetic data are sparse and confounded by the fact that 7-OH is simultaneously produced and eliminated.
 - **Onset of Action**: Rapid onset due to efficient blood-brain barrier penetration, contributing to the relatively fast-acting nature of kratom's analgesic effects.
-- **Metabolic Pathways**: Primarily formed via CYP3A4-mediated hydroxylation of mitragynine. 7-OH itself undergoes further phase I (oxidation, demethylation) and phase II (glucuronidation) metabolism before elimination.
+- **Metabolic Pathways**: Primarily formed via CYP3A4-mediated hydroxylation of mitragynine. 7-OH itself undergoes further phase I (oxidation, demethylation) an glucuronidation curonidation) metabolism before elimination.
 - **Distribution**: Lipophilic nature (log P estimated ~3.5) permits efficient crossing of the blood-brain barrier, consistent with its central opioid effects.
 - **Excretion**: Primarily via renal elimination of glucuronide conjugates, with a small fraction excreted unchanged in feces.
 
@@ -72,7 +72,7 @@ Factors affecting natural 7-OH content in kratom include plant age, harvest timi
 - **Opioid withdrawal management**: Partial agonist activity at MOR may alleviate withdrawal symptoms while producing a ceiling effect on respiratory depression, offering a theoretically safer alternative to methadone or buprenorphine.
 - **Anti-inflammatory effects**: Some evidence of activity beyond opioid receptor-mediated pathways, including modulation of adrenergic and serotonergic systems.
 
-However, 7-OH has a **narrow therapeutic window**, with the effective analgesic dose being close to doses that produce adverse effects. This narrow margin limits its direct therapeutic viability compared to mitragynine, which has a wider safety profile at typical kratom consumption levels. Synthetic derivatives based on the 7-OH scaffold have been explored as potential drug candidates, including the pseudoindoxyl derivatives developed by Váradi and colleagues, which show improved bias profiles and wider therapeutic windows.
+However, 7-OH has a **narrow [[blesching-cannabis-therapeutic-window-dosing]]**, with the effective analgesic dose being close to doses that produce adverse effects. This narrow margin limits its direct therapeutic viability compared to mitragynine, which has a wider safety profile at typical kratom consumption levels. Synthetic derivatives based on the 7-OH scaffold have been explored as potential drug candidates, including the pseudoindoxyl derivatives developed by Váradi and colleagues, which show improved bias profiles and wider therapeutic windows.
 
 ## Safety and Toxicology
 
@@ -96,7 +96,7 @@ The legal status of 7-hydroxymitragynine varies significantly by jurisdiction:
 
 7-Hydroxymitragynine is the **primary oxidative metabolite** of mitragynine, the dominant alkaloid in kratom. The metabolic conversion occurs primarily in the liver via **CYP3A4** enzymes. This relationship has important pharmacological implications:
 
-- Kratom's overall effects represent the combined activity of mitragynine, 7-OH, and other minor alkaloids. The entourage effect may modulate the overall experience.
+- Kratom's overall effects represent the combined activity of mitragynine, 7-OH, and other minor alkaloids. The [[cannabis-terpene-entourage-effect-profiles]] may modulate the overall experience.
 - Individual metabolic variation (CYP3A4 polymorphisms, drug interactions, liver disease) can significantly alter the 7-OH-to-mitragynine ratio experienced by users, potentially leading to variable effects and overdose risk.
 - The delayed formation of 7-OH may contribute to the prolonged duration of effects reported by some kratom users, as metabolite levels persist after parent compound levels decline.
 - Mitragynine's broader receptor profile (including adrenergic and serotonergic activity) provides additional stimulant-like and mood-elevating effects not replicated by 7-OH alone, which is more selectively opioidergic.

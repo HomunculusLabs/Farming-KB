@@ -24,7 +24,7 @@ been
 reassigned to the family Aureobasidiaceae based on phylogenetic
 analyses. A. pullulans is a polymorphic fungus capable of
 switching
-between yeast-like and hyphal growth forms depending on
+between yeast-like and [[bloomfields-orchard-hyphal-growth-and-invasive-biology]] forms depending on
 environmental
 conditions. The species is remarkable for its production of
 pullulan,
@@ -35,10 +35,10 @@ applications.
 
 Aureobasidium pullulans is a cosmopolitan fungus found across
 diverse
-habitats including leaf surfaces, leaf litter, soil, rock
+habitats including leaf surfaces, [[dighton-fungal-decomposition-leaf-litter-dynamics]], soil, rock
 surfaces,
 and aquatic environments. In [[fungal-stress-responses]] and is a key component of
-phyllosphere and endolithic fungal communities.
+phyllosphere and endolithic [[biodiversity-of-fungi-soil-fungal-communities-agriculture]].
 
 The ecological breadth of A. pullulans reflects its physiological
 versatility and ability to survive under conditions that inhibit
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

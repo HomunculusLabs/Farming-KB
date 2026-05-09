@@ -1,17 +1,13 @@
 ---
-title: Earthen Construction Techniques
+title: pdc earthen construction techniques Techniques
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [[permaculture, design, soil, earth-building, construction]
-sources: [raw/papers/bill-mollison-permaculture-design-course.md]
+tags: [permaculture, design, soil, earth-building, construction]
+sources: sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
-
-# Earthen Construction Techniques
-
-updated: 2026-04-18
-
-Earthen construction uses soil as the primary building material, connecting [[solomon-soil-testing-and-interpretation-low-input]] used for construction need relatively high clay content -- typically 20-30% of the earthen material should be clay, with the remainder being sand and aggregate. Clay provides the binding agent (similar to cement in concrete), while sand and aggregate provide structure and prevent cracking.
+# Earthen Construction Techniques updated: 2026-04-18 Earthen construction uses soil as the primary building material, connecting [[solomon-soil-testing-and-interpretation-low-input]] used for construction need relatively high clay content -- typically 20-30% of the earthen material should be clay, with the remainder being sand and aggregate. Clay provides the binding agent (similar to cement in concrete), while sand and aggregate provide structure and prevent cracking.
 
 A simple field test for construction suitability: take a handful of soil and squeeze it into a ball in your fist. When you open your hand, if the sample holds the shape of your fist, it has sufficient clay content for earthen construction.
 
@@ -52,7 +48,7 @@ The most recent addition to earthen construction techniques:
 - Bags (polypropylene or natural) are filled with earthen construction material
 - Stacked like bricks in running bond pattern
 - Barbed wire placed between courses provides tensile strength and prevents sliding
-- After stacking, walls are typically plastered with earthen or lime plaster
+- After stacking, walls are typically plastered with earthen or [[comparison-lime-plaster-vs-earthen-plaster]]
 - Extremely versatile -- can create domes, vaults, and curved walls
 - Does not require high clay content in the soil
 - Particularly suited for rapid construction and disaster relief
@@ -62,15 +58,15 @@ The most recent addition to earthen construction techniques:
 A permaculture structure should fit into its environment in terms of:
 - **Morphology (shape)** -- Forms that work with natural forces rather than against them
 - **Materials** -- Locally sourced, minimally processed, non-toxic
-- **Functions** -- Every structure should serve multiple purposes (stacking functions)
+- **Functions** -- Every structure should serve multiple purposes ([[gaias-garden-stacking-functions-detailed]])
 - **Ecological impact** -- Should maintain material and industrial loops
 
-Beyond the primary function (house, oven, coop, dam), a good designer considers how the structure can also provide shade, create [[pdc-passive-design-principles]] principles are essential when building with earth. Earthen structures excel at passive temperature regulation when oriented correctly. South-facing walls with glazing can create solar heating in winter, while the thermal mass of earthen walls prevents overheating in summer. Earth-sheltered designs (berming earth against walls) further enhance thermal performance.
+Beyond the primary function (house, oven, coop, dam), a good designer considers how the structure can also provide shade, create pdc-passive-design-principles principles are essential when building with earth. Earthen structures excel at passive temperature regulation when oriented correctly. South-facing walls with glazing can create [[mollison-designers-passive-solar-heating-building-design]] in winter, while the thermal mass of earthen walls prevents overheating in summer. Earth-sheltered designs (berming earth against walls) further enhance thermal performance.
 
 ## Soil Sampling and Testing
 
 Before building, take soil samples from your site:
-1. Fill a clear glass jar half-full with soil
+1. Fill a clear [[sterile-spore-print-collection-glass-jar-technique]] half-full with soil
 2. Add water to fill the jar
 3. Close tightly and shake vigorously
 4. After a day, soil settles into layers -- sand (heaviest, bottom), silt (middle), clay (top)

@@ -5,7 +5,7 @@ updated: 2026-04-17
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 
 # Cannabis Chemical Burn Versus Nutrient Deficiency
@@ -20,7 +20,7 @@ Nutrient deficiency, by contrast, looks like a cell collapse with discoloration 
 
 Deficiency symptoms often follow predictable patterns based on nutrient mobility within the plant. Mobile nutrients such as nitrogen, phosphorus, potassium, and magnesium show deficiency symptoms first on older, lower leaves because the plant relocates these elements from older tissue to newer growth. Immobile nutrients such as iron, calcium, and sulfur show symptoms first on newer, upper leaves because the plant cannot relocate them from older tissue.
 
-Nutrient deficiencies tend to produce more uniform discoloration patterns within the affected areas. The tissue may become pale, yellow, or spotted, but it retains a more uniform texture than the crisp, flaky damage of chemical burn.
+[[hamilton-nutrient-deficiencies-and-treatment]] tend to produce more uniform discoloration patterns within the affected areas. The tissue may become pale, yellow, or spotted, but it retains a more uniform texture than the crisp, flaky damage of chemical burn.
 
 [[cannabis-disease-guide]]
 
@@ -28,17 +28,17 @@ Nutrient deficiencies tend to produce more uniform discoloration patterns within
 
 Following a logical sequence helps narrow down the specific cause of plant distress.
 
-Step one: If the plant is in vegetative growth and leaves are going very yellow, nitrogen deficiency is likely. If the plant is flowering with stunted growth and yellow leaves, nitrogen deficiency is also likely. If the plant is flowering without dying appearance but shows red or dark green-yellow coloring, phosphorus deficiency is probable.
+Step one: If the plant is in vegetative growth and leaves are going very yellow, nitrogen deficiency is likely. If the plant is flowering with stunted growth and yellow leaves, nitrogen deficiency is also likely. If the plant is flowering without dying appearance but shows red or dark green-yellow coloring, [[query-how-to-fix-phosphorus-deficiency-in-cannabis]] is probable.
 
-Step two: If leaves are curling up, twisting, and going yellow, first check whether the light is too close or air circulation is insufficient. If environmental factors are fine, magnesium deficiency is likely. Epsom salts at one-quarter to one-third tablespoon per three gallons of water is an appropriate corrective treatment.
+Step two: If leaves are curling up, twisting, and going yellow, first check whether the light is too close or air circulation is insufficient. If [[duggar-mushroom-environmental-factors-temperature-moisture-light]] are fine, [[query-how-to-fix-magnesium-deficiency-in-cannabis]] is likely. Epsom salts at one-quarter to one-third tablespoon per three gallons of water is an appropriate corrective treatment.
 
-Step three: If leaf tips turn brown and curl slightly, potassium deficiency is indicated.
+Step three: If leaf tips turn brown and curl slightly, [[knf-potassium-deficiency-and-excess]] is indicated.
 
 Step four: If the plant appears wilted despite adequate moisture, overwatering may be the cause rather than a nutrient problem.
 
 Step five: If leaf veins remain green while the leaf tissue between them turns yellow, iron deficiency is the probable cause.
 
-Step six: If leaves are yellow at the base with fine tips but not twisted, manganese deficiency may be present.
+Step six: If leaves are yellow at the base with fine tips but not twisted, [[query-how-to-fix-manganese-deficiency-in-cannabis]] may be present.
 
 Step seven: If none of these diagnoses fit, the solution is to flush the soil thoroughly and switch to a complete nutrient program containing NPK, calcium, magnesium, sulfur, and a micronutrient supplement including iron, boron, chlorine, manganese, copper, zinc, and molybdenum.
 
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

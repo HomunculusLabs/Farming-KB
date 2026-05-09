@@ -1,5 +1,5 @@
 ---
-title: Leaf Surface Biology and Exudates in Compost Tea
+title: bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation Biology and Exudates in Compost Tea
 created: 2026-04-26
 tags: [leaf-surface, exudates, foliar-biology, compost-tea, ingham]
 date: 2026-04-25
@@ -12,12 +12,12 @@ type: concept
 # Leaf Surface Biology and Exudates in Compost Tea
 
 Understanding leaf surface biology is essential for effective
-foliar application of [[elaine-ingham]]'s field
+[[ultra-low-cost-foliar-application-methods]] of [[elaine-ingham]]'s field
 guide explains that leaf surfaces, like the [[root-exudates]] to take them up
 
 ## Fungi as Long-Term Holding Sites
 
-Getting fungal biomass onto leaf surfaces is particularly valuable
+Getting [[bioremediation-fungal-biomass-biosorbent-material]] onto leaf surfaces is particularly valuable
 because fungi provide long-term holding sites for subsequent
 organism applications. Bacteria alone provide short-term coverage
 that must be replenished frequently. Fungi persist and create a
@@ -32,7 +32,7 @@ even though bacterial biomass remained high.
 ## Reapplication and the "Taxi-Cab" Problem
 
 New leaf growth emerges without the protective organism community.
-In natural systems, beneficial insects serve as "taxi cabs,"
+In natural systems, [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] serve as "taxi cabs,"
 carrying organisms from older leaves to new growth. When these
 insects are absent (due to pesticide use), the grower must perform
 this transport by reapplying tea.
@@ -44,7 +44,7 @@ on growing leaf surfaces throughout the season.
 ## Saprophytic vs. Pathogenic Fungi on Leaves
 
 Most fungi on leaf surfaces are saprophytic -- they use dead
-organic matter as food. Pathogenic fungi use living tissue. Some
+[[hamilton-composting-and-organic-matter-management]] as food. Pathogenic fungi use living tissue. Some
 species can be both, depending on conditions. The key to preventing
 pathogenic activity is maintaining diverse communities of
 saprophytic organisms that occupy space and consume food resources
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

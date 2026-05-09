@@ -1,5 +1,5 @@
 ---
-title: 5 Tasb Entity
+title: 5 3-tasb-entity-pihkal
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # 5-TASB (5-Thioasymbescaline; 3,5-Dimethoxy-4-(n)-butylthiophenethylamine)
 
-5-TASB is a sulfur-substituted phenethylamine and the butylthio analogue of [[tb-entity]], it demonstrates the euphoric "anti-depressant" pattern without classic psychedelic effects. The compound is listed as PIHKAL entry #148.
+5-TASB is a sulfur-substituted phenethylamine and the butylthio analogue of [[tb-entity]], it demonstrates the euphoric "anti-depressant" pattern without classic psychedelic effects. The compound is listed as [[2c-b-pihkal-entry-20]] #148.
 
 ## Chemical Classification
 
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: Compost Quality Standards
+title: aact-compost-quality-standards-ingham Standards
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -143,4 +143,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

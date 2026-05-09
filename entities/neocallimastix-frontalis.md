@@ -16,7 +16,7 @@ sources:
 
 # Neocallimastix frontalis
 
-Neocallimastix frontalis is an anaerobic chytridiomycete fungus that inhabits the rumen of herbivorous mammals, playing a crucial role in the degradation of plant cell wall material. It is one of the best-studied species of rumen fungi and has been instrumental in understanding the contributions of anaerobic fungi to herbivore digestion, fiber degradation, and the complex microbial ecology of the rumen ecosystem.
+Neocallimastix frontalis is an anaerobic chytridiomycete fungus that inhabits the rumen of herbivorous mammals, playing a crucial role in the degradation of plant [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] material. It is one of the best-studied species of [[anaerobic-rumen-fungi-biology-herbivore-digestion]] and has been instrumental in understanding the contributions of anaerobic fungi to herbivore digestion, fiber degradation, and the complex [[fukuoka-microbial-ecology-decomposition]] of the rumen ecosystem.
 
 ## Taxonomy and Classification
 
@@ -30,7 +30,7 @@ N. frontalis inhabits the rumen, the largest pregastric chamber of ruminant anim
 - Temperature of approximately 38 to 40 degrees Celsius
 - Near-neutral pH maintained by salivary bicarbonate buffering
 - Continuous supply of plant material from feeding
-- Complex microbial community including bacteria, protozoa, archaea, [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] (Mountfort and Asher 1985). These enzymes include both endoglucanases and exoglucanases that work synergistically to depolymerize cellulose chains. The cellulolytic activity of N. frontalis is comparable to or exceeds that of many cellulolytic bacteria, highlighting its importance in rumen fiber digestion.
+- Complex [[edaphic-factors-microbial-community-structure]] including bacteria, protozoa, archaea, [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] (Mountfort and Asher 1985). These enzymes include both endoglucanases and exoglucanases that work synergistically to depolymerize cellulose chains. The cellulolytic activity of N. frontalis is comparable to or exceeds that of many cellulolytic bacteria, highlighting its importance in rumen fiber digestion.
 
 ### Xylanase Production
 
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

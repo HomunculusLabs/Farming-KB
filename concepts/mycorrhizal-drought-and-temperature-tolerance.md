@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Drought and Temperature Tolerance
+title: Mycorrhizal mycorrhizal drought and temperature tolerance Tolerance
 created: 2026-04-29
 updated: 2026-04-29
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 # Mycorrhizal Drought and Temperature Tolerance
 
-Mycorrhizal associations, particularly those formed by arbuscular mycorrhizal fungi, significantly improve the ability of host plants to withstand environmental stresses including drought and extreme temperatures. These protective effects arise from multiple complementary mechanisms that enhance water relations and stress physiology.
+Mycorrhizal associations, particularly those formed by [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi, significantly improve the ability of host plants to withstand environmental stresses including drought and extreme temperatures. These protective effects arise from multiple complementary mechanisms that enhance water relations and stress physiology.
 
 ## Drought Tolerance
 
@@ -28,12 +28,12 @@ The [[singh-mycorrhizae-and-plant-stress-amelioration]] for broader research on 
 
 ### Case Study: Claroideoglomus etunicatum and Corn
 
-Experiments with *Claroideoglomus etunicatum* and corn have provided specific insights into the physiological mechanisms of cold tolerance. These experiments showed:
+Experiments with *Claroideoglomus etunicatum* and corn have provided specific insights into the [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] of cold tolerance. These experiments showed:
 
 - Lower amounts of carbon dioxide stored between plant cells in mycorrhizal plants
 - Higher stomatal conductance in mycorrhizal plants
 
-Both of these factors impact the tolerance of water-filled leaves and vascular parts to cold. Reduced intercellular CO₂ may reflect more efficient photosynthetic regulation under cold stress, while higher stomatal conductance suggests better gas exchange capacity during cold conditions.
+Both of these factors impact the tolerance of water-filled leaves and vascular parts to cold. Reduced intercellular CO₂ may reflect more efficient photosynthetic regulation under cold stress, while higher stomatal conductance suggests better gas [[query-what-is-cation-exchange-capacity-and-why-does-it-matter]] during cold conditions.
 
 ## Integration with Plant Water Regulation
 
@@ -41,7 +41,7 @@ The drought and temperature tolerance mechanisms of mycorrhizal plants are close
 
 ## Related Topics
 
-- [[fungal-resource-translocation-in-mycelial-networks]] — resource movement through mycelial networks
+- fungal-resource-translocation-in-mycelial-networks — resource movement through [[fungal-mycelial-networks-nutrient-translocation]]
 - [[teaming-with-microbes-mycorrhizal-associations]] — mycorrhizal associations in the context of the soil food web
 ## Practical Considerations
 
@@ -59,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

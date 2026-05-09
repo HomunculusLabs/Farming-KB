@@ -9,7 +9,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Growing Gourmet and Medicinal Mushrooms, Paul Stamets, 1993, Chapter 13
+  - Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive, Paul Stamets, 1993, Chapter 13
 type: concept
 created: 2026-04-28
 ---
@@ -22,7 +22,7 @@ The Stamets "P" Value (SPV) is an arithmetic scale devised by Paul Stamets for m
 
 Every sexually reproducing organism is limited in the number of its cell replications. Without further recombination of genes, cell lines decline in vigor and eventually die. This is especially true for mushroom mycelium, where the exponential expansion from two microscopic spores into tons of mycelium over a matter of weeks means that cell division potential far exceeds that of most organisms. Nevertheless, strains eventually die, and unless precautions have been taken, the cultures may never be retrieved.
 
-The P-value system essentially functions as a metric ruler for measuring relative numbers of cell divisions from a culture's birth. A square centimeter of mycelium is generally transferred from one culture dish to the next, meaning each transfer represents a quantifiable expansion of the mycelial network.
+The P-value system essentially functions as a metric ruler for measuring relative numbers of cell divisions from a culture's birth. A square centimeter of mycelium is generally transferred from one culture dish to the next, meaning each transfer represents a quantifiable expansion of the [[gadd-mycelial-network-dynamics]].
 
 ## How the P-Value System Works
 
@@ -59,7 +59,7 @@ Strains maintained at P2 or P3 can be viable for ten years or more, provided tha
 Different mushroom species vary dramatically in their tolerance to serial transfer:
 
 - **Morels** (Morchella spp.) are particularly susceptible to degeneration. Morchella angusticeps loses its ability to form micro-sclerotia in as few as 6 or 7 plate transfers from the original tissue culture.
-- **Shiitake** (Lentinula edodes) and **King Stropharia** (Stropharia rugoso-annulata) also express mutations relatively quickly when transferred beyond P10.
+- **Shiitake** ([[staycare-lentinula-edodes-in-bioremediation]]) and **King Stropharia** (Stropharia rugoso-annulata) also express mutations relatively quickly when transferred beyond P10.
 - Many strains of Morels, Shiitake, and King Stropharia show mutations when transferred for more than 10 petri dishes beyond their origin.
 - **Oyster mushrooms** (Pleurotus spp.) tend to be more tolerant of serial transfer but still benefit from being kept at low P-values.
 
@@ -69,7 +69,7 @@ The slowing of mycelial growth may be partly due to media specificity — the ag
 
 - **Add end-substrates**: Introducing extracted end-substrates (sawdust, straw, etc.) favors normal mycelial development. Only 1 to 3 grams of substrate per liter of nutrient medium is recommended.
 - **Acquaint mycelium with fruiting habitat**: The end-substrate challenges the mycelium and selectively activates its enzymatic systems. This familiarity with the end-substrate greatly improves performance later on.
-- **Parent cells retain genetic memory** passed downstream through mycelial networks. Mycelia grown with end-substrates not only colonize faster but fruit sooner.
+- **Parent cells retain genetic memory** passed downstream through [[fungal-mycelial-networks-nutrient-translocation]]. Mycelia grown with end-substrates not only colonize faster but fruit sooner.
 - Substrates high in endospores (such as manures or soils) should be treated by first boiling an aqueous concoction for at least an hour before adding sugar, agar, and other supplements.
 
 ## The Arithmetic Model
@@ -81,7 +81,7 @@ Since each transfer involves approximately one square centimeter of mycelium bei
 By observing cultures daily, the changeover of characteristics defines what is healthy mycelium and what is not. Variations from the norm should alert the cultivator that the strain is in an active state of mutation. Rarely do mutations in the mycelium result in a stronger strain. Most mutations cause a decline in vigor, productivity, or both.
 
 Key warning signs to watch for during daily inspection include:
-- Sectoring (wedge-shaped zones of differing mycelial morphology)
+- Sectoring (wedge-shaped zones of differing [[growing-gourmet-mycelial-morphology-classification-agar-media]])
 - Slowing of growth rate compared to the strain's established baseline
 - Changes in coloration, especially yellowing or browning of the mycelium
 - Loss of rhizomorphic character in strains that normally display it
@@ -93,11 +93,11 @@ Spawn in advanced states of senescence, although appearing healthy, grows slowly
 
 ## P-Value and the Stock Library Integration
 
-The P-value system works hand-in-hand with the [[growing-gourmet-strain-evaluation-28-features|strain evaluation]] using the 28 features described in Chapter 14.
+The P-value system works hand-in-hand with the strain evaluation using the 28 features described in Chapter 14.
 
 ## Related Concepts
 
 - [[growing-gourmet-strain-senescence-degeneration|Strain Senescence and Degeneration]]
 - [[growing-gourmet-volunteer-primordia-agar-media|Volunteer Primordia on Agar Media]]
 - [[growing-gourmet-culture-slant-preservation-cryogenic-storage|Culture Slant Preservation and Cryogenic Storage]]
-- Nutrified Agar Media Formulas and Preparation
+- Nutrified Agar [[growing-gourmet-agar-media-formulas-preparation]] and Preparation

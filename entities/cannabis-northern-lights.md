@@ -12,14 +12,14 @@ tags:
   - classic
 sources:
   - Clarke, R.C. & Merlin, M.D. (2013). Cannabis: Evolution and Ethnobotany. UC Press.
-  - ElSohly, M.A. et al. (2016). "Changes in cannabis potency over the last decades." Biological Psychiatry, 79(7), 613-619.
+  - ElSohly, M.A. et al. (2016). "Changes in [[green-cannabis-potency-maximizing]] over the last decades." Biological Psychiatry, 79(7), 613-619.
   - Rosenthal, E. (2010). The Big Book of Buds. Quick American Archives.
-  - Smart, R. et al. (2017). "Cannabinoid and terpene profiles of popular cannabis strains." Cannabis and Cannabinoid Research, 2(1), 47-54.
+  - Smart, R. et al. (2017). "Cannabinoid and [[cannabis-terpene-profiles-sativa]] of popular cannabis strains." Cannabis and Cannabinoid Research, 2(1), 47-54.
 ---
 
 # Northern Lights
 
-Northern Lights is a pure indica cannabis strain widely regarded as one of the most influential genetics in cannabis breeding history. Originating from Afghani landrace stock, it was stabilized in the Pacific Northwest during the late 1970s and early 1980s.
+Northern Lights is a pure indica cannabis strain widely regarded as one of the most influential genetics in [[oner-cannabis-breeding-fundamentals]] history. Originating from Afghani landrace stock, it was stabilized in the Pacific Northwest during the late 1970s and early 1980s.
 
 The strain is renowned for its resinous, frosty buds, fast flowering time, and deeply relaxing physical effects. It has served as a foundational parent for countless hybrid strains and remains a staple in both recreational and medical cannabis markets.
 
@@ -33,7 +33,7 @@ Northern Lights won the Cannabis Cup in 1990 and has been inducted into multiple
 - **THC content:** 16–21% (modern commercial averages)
 - **CBD content:** Low (<0.1%)
 
-The original genetics are believed to derive from a single Afghani indica plant selected for its exceptional resin production, compact growth habit, and potent psychoactive effects. Neville Schoenmakers further stabilized and popularized the strain through The Seed Bank in the Netherlands during the 1980s.
+The original genetics are believed to derive from a single Afghani indica plant selected for its exceptional resin production, [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit, and potent psychoactive effects. Neville Schoenmakers further stabilized and popularized the strain through The Seed Bank in the Netherlands during the 1980s.
 
 Eleven numbered phenotypes were reportedly identified from the original seed stock, with NL#1, NL#2, and NL#5 becoming the most commercially significant. NL#5 was selected for its combination of potency, yield, and resin production, and became the basis for most subsequent Northern Lights breeding programs.
 
@@ -78,9 +78,9 @@ Due to the heavy sedative effects, moderate doses are often sufficient. Medical 
 - **Difficulty:** Easy — recommended for beginners
 - **Climate:** Temperate to warm; performs well in controlled indoor environments
 
-Northern Lights is one of the easiest cannabis strains to cultivate, making it a favorite among novice growers. Its compact stature and rapid flowering cycle make it ideal for indoor grows with limited vertical space.
+Northern Lights is one of the easiest cannabis strains to cultivate, making it a favorite among novice growers. Its compact stature and rapid [[cannabis-sativa-flowering-cycle-management]] make it ideal for indoor grows with limited vertical space.
 
-The strain is naturally resistant to mold and pests, a trait inherited from its hardy Afghani landrace genetics. It requires moderate nutrient levels and responds well to both soil and hydroponic growing systems.
+The strain is naturally resistant to mold and pests, a trait inherited from its hardy Afghani landrace genetics. It requires moderate nutrient levels and responds well to both soil and [[cannabis-grow-hydroponic-growing-systems]] systems.
 
 Northern Lights performs exceptionally well in Sea of Green (SOG) setups due to its uniform growth and minimal branching. The plants produce large, dense central colas with excellent resin coverage. Trichome production peaks at approximately 7 weeks of flowering.
 

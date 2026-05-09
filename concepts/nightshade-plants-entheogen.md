@@ -24,8 +24,8 @@ communication with the supernatural, and to transport themselves to far-off
 places. The principal inebriating species were:
 
 - Henbane (Hyoscyamus albus and H. niger)
-- Belladonna or Deadly Nightshade (Atropa belladonna)
-- Mandrake (Mandragora officinarum)
+- Belladonna or Deadly Nightshade ([[belladonna-atropa-belladonna-ethnobotany]])
+- Mandrake ([[mandrake-mandragora-officinarum-in-european-folklore]])
 
 All four species (including Datura) have long histories of use as
 hallucinogens and magic plants connected with sorcery, witchcraft, and
@@ -62,7 +62,7 @@ Apple), all containing tropane alkaloids.
 
 Datura has long been connected to the Hindu god Shiva; garlands of Datura
 blossoms are woven as offerings. In the New World, Datura was employed over
-wide areas, from the southwestern United States through Mexico and into
+wide areas, from the southwestern [[dmt-containing-plants-united-states-halpern]] through Mexico and into
 South America. Sometimes hallucinogens from the Datura group are administered
 to children; among the Jivaro, Brugmansia may be given to boys who are then
 admonished by ancestors during the intoxication.
@@ -90,7 +90,7 @@ effects is the result of similarity in chemical constitution. Their effects
 hallucinogens found in other plant families.
 
 See also: [[amanita-muscaria-cultural-history]],
-richard evans schultes updated, albert hofmann
+richard [[richard-evans-schultes-updated]] updated, albert hofmann
 
 ## See Also
 

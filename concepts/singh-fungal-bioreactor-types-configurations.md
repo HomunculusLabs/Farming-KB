@@ -16,9 +16,9 @@ type: concept
 
 # Fungal Bioreactor Types and Configurations
 
-Fungal bioreactors (mycoreactors) are engineered systems designed to
+[[singh-immobilized-fungal-bioreactors-wastewater-treatment]] (mycoreactors) are engineered systems designed to
 harness the metabolic capabilities of fungi for pollutant removal and
-wastewater treatment. These reactors operate under aerobic or anaerobic
+[[mollison-designers-wastewater-treatment-wetlands]]. These reactors operate under aerobic or anaerobic
 conditions and can be configured as batch, semibatch, sequencing batch,
 or continuous systems. The selection of reactor type depends on the nature
 of the contaminant, fungal species employed, and desired treatment
@@ -46,7 +46,7 @@ pollutant removal applications.
 Trickling filters are among the earliest biofilm reactor types applied in
 wastewater treatment. Wastewater is distributed over a packing material
 colonized by fungal biofilm, allowing contact between the liquid and the
-attached biomass as it percolates downward. Phanerochaete chrysosporium
+attached biomass as it percolates downward. [[staycare-phanerochaete-chrysosporium-in-bioremediation]]
 has been used in immobilized trickling filter configurations for color
 removal from bleach plant effluents, achieving approximately 50%
 decolorization in 3 to 6 hours.
@@ -74,7 +74,7 @@ the bed cross-section.
 
 Fluidized-bed reactors suspend solid particles (or fungal pellets) in an
 upward-flowing liquid stream. Three-phase fluidized and airlift suspension
-reactors are used for both aerobic and anaerobic wastewater treatment and
+reactors are used for both [[query-what-is-the-difference-between-aerobic-and-anaerobic-composting]] wastewater treatment and
 for the cultivation of immobilized and pellet-forming microorganisms.
 Airlift tower loop reactors provide internal circulation of liquid and gas
 without mechanical agitation, reducing energy costs and shear damage to
@@ -84,7 +84,7 @@ Pellet-forming fungi can be cultivated in aerated fluidized beds, bubble
 columns, or suspended airlift loop reactors. However, pellets can grow
 excessively at low energy dissipation rates. Above a critical pellet size,
 depletion of oxygen leads to cell death, resulting in the formation of
-hollow pellets with reduced metabolic activity.
+hollow pellets with reduced [[arbuscule-isolation-metabolic-activity-assays]].
 
 ## Stirred-Tank Reactors
 
@@ -122,7 +122,7 @@ Several types of cell immobilization are employed in fungal bioreactors:
 Celite is commonly used as a carrier for fungi, but clogging occurs as a
 result of excessive growth and fluffy biofilm formation. This can be
 controlled by phosphate limitation, low spore concentration, dilute
-medium, and low shear stress, which favor pellet formation.
+medium, and low shear stress, which favor [[singh-fungal-pellet-formation-bioremediation]].
 
 ## Process Monitoring and Control
 

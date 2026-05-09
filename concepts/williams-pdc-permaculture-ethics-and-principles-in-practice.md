@@ -1,18 +1,17 @@
 ---
-title: "Permaculture Ethics and Principles in Practice"
+title: "permaculture-ethics-and-principles in Practice"
 created: 2026-04-28
-tags: [[permaculture, ethics, design-principles, holmgren]
+tags: [permaculture, ethics, design-principles, holmgren]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-
 # [[permaculture-design]] Course (PDC), the
-framework rests on three foundational ethics and twelve design
-principles originally coined by [[permaculture-ethics]]
+framework rests on three foundational ethics and [[holmgren-permaculture-twelve-design-principles-framework]]
+principles originally coined by permaculture-ethics
 
-The three accepted central Permaculture ethics are adapted from the
+The three accepted central [[williams-pdc-permaculture-ethics-and-holmgrens-principles]] are adapted from the
 work of Mollison and Holmgren: Earth Care, People Care, and Fair Share.
 
 ### Earth Care
@@ -42,16 +41,16 @@ Earth receive their fair share. This means humans share in the Earth's
 bounty and beauty, while also endeavoring to ensure the Earth itself
 receives its fair share of care and resources.
 
-## The 12 [[creatively-use-and-respond-to-change]]
-4. [[integrate-rather-than-segregate]]
-6. Observe and interact
-7. Obtain a yield
-8. Produce no waste
+## The 12 creatively-use-and-respond-to-change
+4. integrate-rather-than-segregate
+6. [[holmgren-observe-and-interact-detailed]]
+7. [[holmgren-obtain-a-yield-detailed]]
+8. [[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]]
 9. Use and value diversity
-10. [[use-edges-and-value-the-marginal]]
-12. [[pdc-yield-harvest-and-seasonal-calendar]]
+10. use-edges-and-value-the-marginal
+12. pdc-yield-harvest-and-seasonal-calendar
 
-- [[faires-permaculture-ethics-and-design-principles]]
+- faires-permaculture-ethics-and-design-principles
 ## Practical Considerations
 
 When working with Permaculture Ethics and Principles in Practice, several practical factors should be
@@ -68,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,3 +110,12 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[williams-pdc-disaster-preparedness]]
+- [[williams-pdc-plants-in-permaculture-systems]]
+- [[williams-pdc-stacking-functions-and-system-integration]]
+
+- pdc-introduction-and-ethics
+- [[permaculture-ethics-and-principles]]
+- [[williams-pdc-permaculture-ethics-and-holmgrens-principles]]

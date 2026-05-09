@@ -1,9 +1,9 @@
 ---
-title: "Mushroom Cultivation for Disabilities - Marketing and Enterprise"
+title: "Mushroom mushroom-cultivation-for-disabilities-training-program - Marketing and Enterprise"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
-  - "A Training Manual: Mushroom Cultivation by People with Disabilities (FAO RAP Publication 2001/12)"
+  - "A mushroom-cultivation-disabilities-training-manual-overview: Mushroom Cultivation by People with Disabilities (FAO RAP Publication 2001/12)"
 type: concept
 tags: [cultivation, mushroom-cultivation]
 ---
@@ -52,9 +52,9 @@ Selling through wholesalers reduces profit margins but saves on marketing expens
 
 ## Pricing and Seasonal Considerations
 
-Mushroom prices depend on the season and type. During rice harvesting periods in Asia, rural people are busy and mushroom demand may shift. During the rainy season, wild mushrooms become available, reducing demand and prices for cultivated varieties.
+Mushroom prices depend on the season and type. During rice harvesting periods in Asia, rural people are busy and mushroom demand may shift. During the rainy season, [[edible-wild-mushrooms-by-region]] become available, reducing demand and prices for cultivated varieties.
 
-For continuous year-round income, the farm should always have some bags at the fruiting stage while others are incubating. This staging approach turns the mushroom farm into a reliable regular income source for the family.
+For continuous year-round income, the farm should always have some bags at the fruiting stage while others are incubating. This staging approach turns the [[query-how-do-i-start-a-small-scale-mushroom-farm-for-profit]] into a reliable regular income source for the family.
 
 ## Quality Control
 
@@ -73,8 +73,8 @@ Mushrooms are highly perishable: they keep in a refrigerator for 12-24 hours. Wi
 Because mushrooms are highly perishable, processing adds value and extends marketability:
 
 - **Drying** -- using electrical or solar dryers (not suitable in rainy season)
-- **Fermented mushrooms ("Pla la hed")** -- shredded oyster mushrooms with roasted rice, salt, and garlic, fermented 3 days in sun then 2 weeks in shade
-- **Fermented mushrooms in banana leaf** -- steamed mushrooms mixed with sticky rice, garlic, and salt
+- **Fermented mushrooms ("Pla la hed")** -- shredded [[query-how-to-grow-oyster-mushrooms-at-home]] with roasted rice, salt, and garlic, fermented 3 days in sun then 2 weeks in shade
+- **Fermented mushrooms in banana leaf** -- steamed [[cancer-medicinal-mushrooms-mixed-extracts-synergism]] with sticky rice, garlic, and salt
 - **"Hed Sawan" (Heavenly mushrooms)** -- sweet snack made from dried shredded mushrooms with palm sugar and sesame seeds
 - **Pickled mushrooms with soya sauce**
 - **Vegetarian shrimp paste mushrooms**
@@ -135,4 +135,4 @@ Constant monitoring of competitors is necessary to maintain market share. The ma
 - [[mushroom-cultivation-disabilities-oyster-mushroom-guide]]
 - [[mushroom-cultivation-basics]]
 - [[mushroom-nutritional-composition]]
-- [[permaculture-designers-manual-crafts-and-income]]
+- permaculture-designers-manual-crafts-and-income

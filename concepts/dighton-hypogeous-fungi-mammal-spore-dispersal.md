@@ -1,5 +1,5 @@
 ---
-title: "Hypogeous Fungi and Mammal-Mediated Spore Dispersal"
+title: "dighton hypogeous fungi mammal spore dispersal and Mammal-Mediated aquatic-fungi-spore-dispersal-ingold"
 created: 2026-04-28
 tags:
   - hypogeous-fungi
@@ -21,13 +21,13 @@ evolved a fundamental dependency on mammals for spore dispersal. Unlike
 epigeous fungi that release spores into air currents, hypogeous fungi produce
 fruiting bodies underground and rely entirely on animals to excavate, consume,
 and disseminate their spores through feces. In [[fungal-ecology]], this dispersal mutualism represents a critical link between
-fungal reproduction and ecosystem [[dighton-ectomycorrhizal-ecosystem-impact]].
+[[bloomfield-fungal-reproduction-and-chemical-communication]] and ecosystem [[dighton-ectomycorrhizal-ecosystem-impact]].
 
 ## Role in Forest Succession
 
 The dispersal of hypogeous fungal spores by rodents is an important
-determinant of mycorrhizal inoculum for plants during early stages of
-succession on bare ground. Allen (1991) showed that vegetation colonizing
+determinant of [[arbuscular-mycorrhizal-inoculum-production-best-practices]] for plants during early stages of
+succession on [[savory-bare-ground-and-soil-exposure]]. Allen (1991) showed that vegetation colonizing
 Mount Saint Helens after the volcanic eruption consisted entirely of
 mycorrhizal species, with spore dispersal by small mammals playing a key
 role in establishing these fungal-plant partnerships.
@@ -45,7 +45,7 @@ relationship.
 
 - [[dighton-fungal-propagule-dispersal-soil-fauna]]
 - [[sequestrate-fungi-truffles-hypogeous-dispersal]]
-- [[fungal-interactions-soil-fauna]]
+- fungal-interactions-soil-fauna
 ## Practical Considerations
 
 When working with Hypogeous Fungi and Mammal-Mediated Spore Dispersal, several practical factors should be
@@ -62,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -104,4 +104,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

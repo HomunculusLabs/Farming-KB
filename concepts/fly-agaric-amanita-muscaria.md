@@ -1,34 +1,35 @@
 ---
-title: Fly Agaric — Amanita muscaria Identification and Preparation
+title: Fly Agaric — allegro-amanita-muscaria-properties-and-pharmacology Identification and Preparation
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [entheogen, species, ethnobotany, psychopharmacology, preparation, safety, mycology, folklore, old-world, beginner, biochemistry]
-sources: []
+sources:
+  - "raw/papers/amanita-muscaria-herb-of-immortality.md"
 ---
 
 # Fly Agaric — Amanita muscaria
 
 ## Overview
 
-Amanita muscaria, the fly agaric, is arguably the most recognizable mushroom on Earth. Its bright red cap dotted with white warts appears in children's books, video games, and folklore worldwide. Despite its iconic appearance, it is not a psilocybin mushroom — its psychoactive compounds are ibotenic acid and muscimol, which act primarily on GABA receptors rather than serotonin receptors.
+Amanita muscaria, the fly agaric, is arguably the most recognizable mushroom on Earth. Its bright red cap dotted with white warts appears in children's books, video games, and folklore worldwide. Despite its iconic appearance, it is not a [[emcdda-psilocybin-mushroom-dose-and-effects]] — its psychoactive compounds are ibotenic acid and muscimol, which act primarily on GABA receptors rather than serotonin receptors.
 
 This is a distinctly different pharmacological profile from psilocybin-containing mushrooms, and the preparation methods are critical for converting the toxic ibotenic acid into the desired muscimol.
 
 ## Identification
 
-Amanita muscaria has several distinctive features:
+Amanita muscaria has several [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]]:
 
 - **Cap**: 8–20 cm diameter, bright red to orange-red, covered in white warts (remnants of the universal veil). Warts wash off easily in rain.
 - **Gills**: Free (not attached to the stem), white, crowded.
 - **Stem**: 5–20 cm tall, white, with a prominent skirt-like ring (annulus) near the top.
 - **Base**: Bulbous base with concentric rings of volval tissue — a key identification feature.
 - **Spore print**: White.
-- **Habitat**: Mycorrhizal with birch and pine, found in temperate and boreal forests across the Northern Hemisphere.
+- **Habitat**: Mycorrhizal with birch and pine, found in temperate and [[fungal-diversity-boreal-forests-taiga]] across the Northern Hemisphere.
 
 ### Dangerous Lookalikes
 
-The most dangerous confusion is with other Amanita species in the section Phalloideae (death cap, destroying angel), which contain amatoxins. These have white gills, white spore prints, and a volval sac — but they lack the red cap with white warts. Always verify the complete suite of features: red cap, white warts, white gills, skirt ring, bulbous base with rings.
+The most dangerous confusion is with other Amanita species in the section Phalloideae (death cap, [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]), which contain amatoxins. These have white gills, white spore prints, and a volval sac — but they lack the red cap with white warts. Always verify the complete suite of features: red cap, white warts, white gills, skirt ring, bulbous base with rings.
 
 Other Amanita species in the Muscaria section exist with yellow or white caps — these contain the same active compounds but are less visually distinctive.
 
@@ -120,4 +121,4 @@ In Scandinavian and European folklore, the fly agaric appears in Christmas tradi
 ## Related Topics
 
 - [[harmala-alkaloids]] — MAOI compounds used in other entheogenic traditions
-- [[psychedelic-mushroom-decriminalization]] — legal reform efforts (note: A. muscaria is legally distinct from psilocybin mushrooms in most jurisdictions)
+- [[psychedelic-mushroom-decriminalization]] — legal reform efforts (note: A. muscaria is legally distinct from [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] in most jurisdictions)

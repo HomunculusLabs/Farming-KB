@@ -17,12 +17,12 @@ type: entity
 
 ## Overview
 Alnus rubra is a fast-growing deciduous tree native to low-elevation
-coastal regions of the Pacific Northwest of North America. It is one
+coastal regions of the Pacific Northwest of [[psilocybin-north-america-pacific-northwest]]. It is one
 of the most productive trees in North America, reaching heights of
 40 m with trunk diameters up to 1 m. Its combination of rapid growth,
 nitrogen-fixing ability through symbiotic root nodules, and vigorous
-competition with grasses makes it an ideal nurse crop in [[nitrogen-fixing-trees]]
-- [[tagasaste]]
+competition with grasses makes it an ideal [[tagasaste-nurse-crop-fodder-systems]] in [[nitrogen-fixing-trees]]
+- tagasaste
 - [[acacia]]
 ## Practical Applications
 
@@ -101,4 +101,5 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[det]]

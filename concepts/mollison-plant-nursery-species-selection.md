@@ -1,5 +1,5 @@
 ---
-title: Plant Nursery and Species Selection for Permaculture
+title: Plant Nursery and Species pioneer-species-selection-for-permaculture-systems
 created: 2026-04-26
 tags: [nursery, propagation, species-selection, permaculture, establishment]
 date: 2026-04-25
@@ -48,7 +48,7 @@ systems. These enterprises include:
   coasts.
 
 - Conservation and reforestation trees for extending natural
-  forests; includes pioneer and selected high-value tree crop
+  forests; includes pioneer and selected high-value [[mollison-tree-crop-systems-permaculture]]
   species.
 
 - Speciality nurseries for herbs, salt-affected areas, smog
@@ -71,7 +71,7 @@ soils:
   to "spike" the soil.
 - Bulbs of lilies, grape hyacinth.
 - Roots of sunroot, comfrey, chicory, horseradish, ginger,
-  sweet potato, tumeric.
+  [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]], tumeric.
 - Divisions of bamboo, banna grass, pampas grass, aloes, agave,
   New Zealand hemp.
 - Seedlings or sets of elephant garlic, asparagus, globe
@@ -79,4 +79,10 @@ soils:
 - Cuttings of small fruits: elderberry, willow, poplar, mulberry,
   Pride of Madeira (Echium fastuosum).
 - Tubed seedlings of Acacia, Prosopis, [[vegetative-propagation-methods-mollison]]
-- [[mollison-seed-resources-and-sovereignty]]
+- mollison-seed-resources-and-sovereignty
+## See Also
+- [[bill-mollison]]
+- [[mollison-hedgerow-barrier-species-selection]]
+- [[permaculture-plant-selection-and-useful-species-categories]]
+- [[mollison-designers-mixed-orchard-design-species-selection]]
+- [[mollison-designers-plant-nursery-seedling-production]]

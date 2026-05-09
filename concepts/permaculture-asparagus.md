@@ -3,21 +3,15 @@ title: Asparagus
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[permaculture, design]
-sources: []
+tags: [permaculture, design]
+sources:
+  sources: []
 ---
-
-Updated: 2026-04-18
-
-Asparagus (Asparagus officinalis) is a long-lived perennial vegetable that provides delicious edible shoots for 15+ years from a single planting. It is a high-nutrition food worth the initial setup effort.
-
-## Botanical Description
-
-Asparagus is a herbaceous perennial that produces feathery, fern-like foliage reaching 3-5 feet (1-1.5 m) tall. The edible spears emerge from a crown and root system in early spring. Mature plants form a large, bushy fern that yellow and die back in autumn. A well-maintained asparagus bed can remain productive for 20-30 years, making it an excellent long-term investment in any [[compost-building-guide]] or well-rotted manure. A soil pH between 6.5 and 7.5 is ideal. Adding rock phosphate or bone meal at planting time supports the deep root system.
+Updated: 2026-04-18 Asparagus (Asparagus officinalis) is a long-lived perennial vegetable that provides delicious edible shoots for 15+ years from a single planting. It is a high-nutrition food worth the initial setup effort. ## Botanical Description Asparagus is a herbaceous perennial that produces feathery, fern-like foliage reaching 3-5 feet (1-1.5 m) tall. The edible spears emerge from a crown and root system in [[coleman-overwintered-onions-and-early-spring-crops]]. Mature plants form a large, bushy fern that yellow and die back in autumn. A well-maintained asparagus bed can remain productive for 20-30 years, making it an excellent long-term investment in any [[compost-building-guide]] or well-rotted manure. A soil pH between 6.5 and 7.5 is ideal. Adding rock phosphate or bone meal at planting time supports the deep root system.
 
 ## Planting
 
-Traditionally grown in a trench about 1 foot (30 cm) deep with 3 inches (8 cm) of composted manure or mushroom compost at the bottom. Space crowns 12-18 inches (30-45 cm) apart in rows 4-5 feet (1.2-1.5 m) wide. Manure tea applied after planting is beneficial.
+Traditionally grown in a trench about 1 foot (30 cm) deep with 3 inches (8 cm) of [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]] or [[staycare-spent-mushroom-compost-bioremediation]] at the bottom. Space crowns 12-18 inches (30-45 cm) apart in rows 4-5 feet (1.2-1.5 m) wide. Manure tea applied after planting is beneficial.
 
 ## Propagation
 
@@ -43,13 +37,13 @@ A mature asparagus bed (3+ years old) can yield 2-4 pounds (1-2 kg) per crown pe
 
 ## Companion Planting
 
-Tomatoes are excellent companions as they repel asparagus beetles. Parsley, basil, and comfrey planted nearby can also deter pests. Keep other competitive plants away from the asparagus bed. Asparagus works well as a [[faires-garden-design-zone-1-layout]] designs.
+Tomatoes are excellent companions as they repel asparagus beetles. Parsley, basil, and comfrey planted nearby can also deter pests. Keep other competitive plants away from the asparagus bed. Asparagus works well as a faires-garden-design-zone-1-layout designs.
 
 ## Pests and Diseases
 
-The asparagus beetle is the most common pest — adults and larvae defoliate the ferns, weakening the crowns. Companion planting with tomatoes helps. Rust and fusarium crown rot can affect plants in humid conditions. Good drainage and removing diseased ferns in autumn reduces disease pressure. See [[permaculture-companion-planting]]
+The asparagus beetle is the most common pest — adults and larvae defoliate the ferns, weakening the crowns. Companion planting with tomatoes helps. Rust and fusarium crown rot can affect plants in humid conditions. Good drainage and removing diseased ferns in autumn reduces disease pressure. See permaculture-companion-planting
 
-- [[permaculture-zone-planning]]
+- permaculture-zone-planning
 ## Practical Considerations
 
 When working with Asparagus, several practical factors should be
@@ -66,7 +60,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +102,6 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+## See Also
+- [[permaculture]]
+- [[permaculture-design-process]]

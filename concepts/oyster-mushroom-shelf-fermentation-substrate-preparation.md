@@ -1,5 +1,5 @@
 ---
-title: Oyster Mushroom Shelf Fermentation Substrate Preparation
+title: cotter-oyster-mushroom-cultivation Shelf Fermentation cotter-compost-substrate-preparation-manure-mushroom-cultivation
 tags:
   - mushroom-cultivation
   - oyster-mushroom
@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - MushWorld, "Oyster mushroom-cultivation" (Mushroom Growers' Handbook 1), 2004. Chapter 7: Cultivation Modes - Shelf Cultivation, with fermentation science excerpted from Dr. Moon-soo Shim, "The Essence of Mushroom Cultivation: Fermentation of Substrate."
+  - MushWorld, "Oyster mushroom-cultivation" (Mushroom Growers' Handbook 1), 2004. Chapter 7: Cultivation Modes - Shelf Cultivation, with fermentation science excerpted from Dr. Moon-soo Shim, "The Essence of accessible-mushroom-cultivation-for-disabilities: Fermentation of Substrate."
 created: 2026-04-28
 type: concept
 ---
@@ -23,13 +23,13 @@ Shelf cultivation involves filling growing shelves with fermented substrate rath
 
 ## Fermentation Science Fundamentals
 
-Fermentation in mushroom cultivation is defined as the conversion of organic matter into unique final products by microorganism enzymes. More specifically, it is the conversion of substrate nutrients into microbial proteins through a succession of microbial populations. The process involves three distinct phases: pre-fermentation, pasteurization, and post-fermentation.
+Fermentation in [[mushroom-cultivation]] is defined as the conversion of organic matter into unique final products by microorganism enzymes. More specifically, it is the conversion of substrate nutrients into microbial proteins through a succession of microbial populations. The process involves three distinct phases: pre-fermentation, pasteurization, and post-fermentation.
 
 ### The Role of Carbon-to-Nitrogen Ratio
 
-The C:N ratio is the most critical parameter in substrate preparation. Different mushroom species require different optimal ratios:
-- Button mushroom (Agaricus bisporus): C:N ratio of 17:1, growing naturally on high-nitrogen materials like horse manure
-- Oyster mushroom and shiitake: C:N ratio of 350-500:1 in their natural wood habitat
+The C:N ratio is the most critical parameter substrate preparation tion. Different mushroom species require different optimal ratios:
+- Button mushroom ([[agaricus-bisporus]]): C:N ratio of 17:1, growing naturally on high-nitrogen materials like horse manure
+- [[oyster-mushroom]] and shiitake: C:N ratio of 350-500:1 in their natural wood habitat
 
 The C:N ratio affects both the fermentation process and final mushroom yield. Key substrate material compositions include:
 
@@ -41,7 +41,7 @@ The C:N ratio affects both the fermentation process and final mushroom yield. Ke
 | Corncob | 7.2 | 47% | 25% | 47% | 0.48% | 97:1 |
 | Sawdust | 5.5 | 54% | 29% | 49% | 0.10% | 491:1 |
 
-Because the main substrate materials often lack sufficient nitrogen, additives such as rice bran or wheat bran are supplemented. The critical consideration is that fermentation converts nitrogen into ammonia nitrogen, which at excessive levels inhibits mycelial growth. Research shows that oyster mushroom yield decreases when ammonia concentration exceeds 68 ppm, and also decreases when total nitrogen falls below the optimal amount.
+Because the main [[growing-gourmet-substrate-materials-wood-types]] often lack sufficient nitrogen, additives such as rice bran or wheat bran are supplemented. The critical consideration is that fermentation converts nitrogen into ammonia nitrogen, which at excessive levels inhibits [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]. Research shows that oyster mushroom yield decreases when ammonia concentration exceeds 68 ppm, and also decreases when total nitrogen falls below the optimal amount.
 
 ### Nitrogen Supplementation Balance
 
@@ -90,7 +90,7 @@ Starting fermentation at 50°C rather than allowing natural temperature progress
 White actinomycetes appear at the final stage of fermentation, indicating that the substrate has been thoroughly and aerobically fermented. Their presence signals several important conditions:
 - The substrate pH has risen above 7, which suppresses green mold growth
 - Aerobic fermentation has proceeded properly
-- The substrate is ready for mushroom mycelial colonization
+- The substrate is ready f mycelial colonization colonization
 
 Actinomycetes grow optimally at pH 8-9 and 45-55°C, making them late-stage participants in the fermentation succession. Thermophilic bacteria peak earlier at pH 7-8 and around 50°C.
 
@@ -130,7 +130,7 @@ A significant innovation in Korean shelf cultivation is the use of black perfora
 - Prevention of small pin abortion
 - Production of quality mushrooms with favorable color and long stipes
 - Higher overall yields
-- Effective disease prevention, particularly against bacterial brown blotch and fungal diseases
+- Effective [[cervantes-pest-disease-prevention-overview]], particularly against bacterial brown blotch and fungal diseases
 - Reduced waterlogged areas on shelf surfaces
 
 ## Decline of Shelf Cultivation in Korea
@@ -142,7 +142,6 @@ Despite producing higher quality mushrooms, shelf cultivation has been declining
 - Bag cultivation is easier and safer, producing acceptable if somewhat lower quality
 
 The fermentation principles remain applicable, particularly in tropical and subtropical regions where fermentation requires less fuel input due to naturally warm conditions. The knowledge may also benefit growers seeking to improve substrate quality through biological processing rather than purely thermal treatment.
-
 ## See Also
 
 ## See Also

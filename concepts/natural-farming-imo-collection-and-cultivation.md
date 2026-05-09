@@ -1,5 +1,5 @@
 ---
-title: Indigenous Microorganism (IMO) Collection and Cultivation
+title: knf-indigenous-microorganism-culture (IMO) Collection and Cultivation
 created: 2026-04-24
 tags: [agriculture, natural-farming, KNF, IMO, microorganisms, soil-health]
 type: concept
@@ -9,16 +9,16 @@ updated: 2026-04-26
 
 # Indigenous Microorganism (IMO) Collection and Cultivation
 
-Indigenous Microorganisms (IMOs) are organisms that have lived in harmony with the soil in a particular region, contributing to establishing the environment they live in. They are the main protagonists that bring vigor to the land, and the inhabitants that have proliferated in diversity through time. IMOs have the ability to withstand any weather conditions and, given the right environment, perform their function with great vitality.
+[[beneficial-indigenous-microorganisms-bim]] (IMOs) are organisms that have lived in harmony with the soil in a particular region, contributing to establishing the environment they live in. They are the main protagonists that bring vigor to the land, and the inhabitants that have proliferated in diversity through time. IMOs have the ability to withstand any weather conditions and, given the right environment, perform their function with great vitality.
 
 ## Why IMOs Matter
 
-In natural farming, the goal is not to feed the plant but to nurture the soil, and the soil nurtures the plant through the IMOs. IMOs have four key functions:
+In [[comparison-natural-farming-vs-permaculture]], the goal is not to feed the plant but to nurture the soil, and the soil nurtures the plant through the IMOs. IMOs have four key functions:
 
 1. **Decomposition**: Break down complex organic materials (plants, animals, excrements) into simpler compounds absorbable by plants
 2. **Catalysis**: Produce enzymes, antibiotics, organic acids, and complexes that drive chemical reactions in soil
 3. **Ecosystem Revitalization**: When applied, bacteria and fungi appear first, followed by nematodes, earthworms, mole crickets, moles, etc.
-4. **Disease Suppression**: Convert weak soil into healthy soil by solubilizing trace minerals and enhancing nutrient circulation
+4. **[[aact-disease-suppression-mechanisms-ingham]]**: Convert weak soil into healthy soil by solubilizing trace minerals and enhancing nutrient circulation
 
 ## IMO #1: Collection
 
@@ -70,14 +70,14 @@ Procedure:
 6. In spring/fall, stir in early morning
 7. The product is foundation stock (IMO-2)
 
-Storage: Keep at 1-15C with good air circulation. Watch for bubbles (indicates loss of effectiveness).
+Storage: Keep at 1-15C with good [[stamets-growing-room-air-circulation-co2-management]]. Watch for bubbles (indicates loss of effectiveness).
 
 ## IMO #3: Pure Stock
 
 Materials:
 - IMO-2
 - Rice bran/flour
-- Paddy straw
+- [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]]
 - NF inputs (OHN 1:1000, FPJ of mugwort/dropwort 1:500, BRV 1:500)
 
 Procedure:

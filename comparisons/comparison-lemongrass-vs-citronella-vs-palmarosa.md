@@ -1,5 +1,5 @@
 ---
-title: "Lemongrass vs Citronella vs Palmarosa — Aromatic Cymbopogon Grasses Compared"
+title: "comparison lemongrass vs citronella vs palmarosa vs Palmarosa — Aromatic Cymbopogon Grasses Compared"
 tags:
   - comparison
   - essential-oils
@@ -11,8 +11,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Ravindran, P.N., Kallupurackal, J.A. (2000). Lemongrass — Cymbopogon citratus. In: K.V. Peter (ed.), Handbook of Herbs and Spices, CRC Press."
-  - "Weyerstahl, P., Marschall-Weyerstahl, H. (1997). Constituents of the essential oil of Cymbopogon martinii. Flavour and Fragrance Journal, 12(3), 179-183."
-  - "Ganjewala, D. (2009). Cymbopogon essential oils: Chemical compositions and bioactivities. International Journal of Essential Oil Therapeutics, 3(1), 56-65."
+  - "Weyerstahl, P., Marschall-Weyerstahl, H. (1997). Constituents of the [[permaculture-designers-manual-essential-oil-plants]] of Cymbopogon martinii. Flavour and Fragrance Journal, 12(3), 179-183."
+  - "Ganjewala, D. (2009). Cymbopogon [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]: Chemical compositions and bioactivities. International Journal of Essential Oil Therapeutics, 3(1), 56-65."
   - "Tanker, M., et al. (2002). Essential oils of Cymbopogon nardus and Cymbopogon winterianus from various origins. Journal of Essential Oil Research, 14(4), 244-248."
 created: 2026-05-07
 type: comparison
@@ -20,7 +20,7 @@ type: comparison
 
 # Lemongrass vs Citronella vs Palmarosa
 
-All three plants belong to the genus *Cymbopogon*, a group of aromatic tropical and subtropical grasses in the Poaceae family valued worldwide for their fragrant essential oils and hydrosol distillation. Though they share a lemony scent profile, their chemistry, uses, and growing requirements differ considerably. This comparison covers the most commercially significant species in each category.
+All three plants belong to the genus *Cymbopogon*, a group of aromatic tropical and subtropical grasses in the Poaceae family valued worldwide for their fragrant essential [[permaculture-designers-manual-essential-oil-plants]] distillation. Though they share a lemony scent profile, their chemistry, uses, and growing requirements differ considerably. This comparison covers the most commercially significant species in each category.
 
 ## Quick Reference Table
 
@@ -30,9 +30,9 @@ All three plants belong to the genus *Cymbopogon*, a group of aromatic tropical 
 | **Primary use** | Culinary, medicinal, aromatherapy | Insect repellent, industrial | Perfumery, skincare, aromatherapy |
 | **Oil yield (dry herb)** | 0.5-1.0% | 1.0-2.0% | 0.3-1.0% |
 | **Plant height** | 0.8-1.8 m | 1.0-1.5 m | 1.5-3.0 m |
-| **Cold hardiness** | USDA 10-11; dies below ~7 C | USDA 10-11; dies below ~5 C | USDA 9b-11; short frost tolerated |
+| **[[coleman-cold-hardiness-testing-ratings]]** | USDA 10-11; dies below ~7 C | USDA 10-11; dies below ~5 C | USDA 9b-11; short frost tolerated |
 | **Propagation** | Division, stem cuttings | Seed, division | Seed, division |
-| **Native region** | South/Southeast Asia | Tropical Asia (Sri Lanka) | India, Pakistan, Nepal |
+| **Native region** | South/[[psilocybe-southeast-asia-pacific]] | Tropical Asia (Sri Lanka) | India, Pakistan, Nepal |
 | **Ornamental value** | Moderate; clumping ornamental grass | Low; coarse, weedy habit | Moderate; tall, graceful habit |
 | **Soil preference** | Rich, well-drained loam | Sandy, well-drained | Light, sandy-loam, tolerates poor soil |
 
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

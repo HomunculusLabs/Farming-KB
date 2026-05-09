@@ -1,29 +1,22 @@
 ---
-title: Mycofiltration of Water Contaminants
-created: 2026-04-14
-updated: 2026-04-15
-type: concept
-tags: [water, conservation]
-sources:
-  - "raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md"
 ---
 # Mycofiltration of Water Contaminants
 
-Mycofiltration uses fungal biomass -- typically mycelial mats, fruiting bodies, or immobilized fungal cultures -- to filter and treat contaminated water. The process exploits both biosorption (passive binding to cell walls) and bioaccumulation (active uptake) along with enzymatic degradation of dissolved pollutants.
+Mycofiltration uses fungal biomass -- typically mycelial mats, fruiting bodies, or immobilized fungal cultures -- to filter and treat contaminated water. The process exploits both biosorption (passive binding to cell walls) and bioaccumulation (active uptake) along with [[enzymatic-degradation-in-mycoremediation]] of dissolved pollutants.
 
 ## Principles
 
 Fungal mycelium provides an extensive network of hyphae with high surface area-to-mass ratio, creating a biological filter matrix. As water passes through fungal biomass, contaminants are removed through:
 - Physical filtration (particulate trapping in mycelial matrix)
 - Biosorption of dissolved metals and organics to cell wall binding sites
-- Enzymatic degradation of organic pollutants by extracellular ligninolytic enzymes
+- Enzymatic degradation of organic pollutants by extracellular [[ligninolytic-enzymes]]
 - Biological oxidation of contaminants by living fungal metabolism
 
 ## Applications
 
-**Heavy Metal Removal:** Fungal biosorption effectively removes metals from wastewater. Rhizopus arrhizus and Aspergillus niger are widely studied biosorbents for zinc, lead, copper, cadmium, and chromium removal. Fixed packed-bed columns with fungal biomass provide continuous treatment. Metal-loaded biomass can be regenerated through acid desorption.
+**[[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]]:** Fungal biosorption effectively removes metals from wastewater. [[rhizopus-arrhizus]] and Aspergillus niger are widely studied biosorbents for zinc, lead, copper, cadmium, and chromium removal. Fixed packed-bed columns with fungal biomass provide continuous treatment. Metal-loaded biomass can be regenerated through acid desorption.
 
-**Organic Pollutant Degradation:** White-rot fungal mycelia in packed-bed and trickling filter configurations degrade phenols, chlorophenols, PAHs, and dye-containing effluents. Enzymes (laccase, MnP, LiP) secreted by mycelia oxidize and transform dissolved organics.
+**Organic [[staycare-bjerkandera-and-pleurotus-in-pollutant-degradation]]:** White-rot fungal mycelia in packed-bed and trickling filter configurations degrade phenols, chlorophenols, PAHs, and dye-containing effluents. Enzymes (laccase, MnP, LiP) secreted by mycelia oxidize and transform dissolved organics.
 
 **Agricultural Wastewater:** Fungi treat distillery spent wash, olive mill wastewater, dairy wastewater, and starch-processing effluents. Removal of color, COD, BOD, and toxicity demonstrated in continuous-flow bioreactors.
 
@@ -37,22 +30,22 @@ Aspergillus and Rhizopus species treat starch-processing wastewater, simultaneou
 
 ### Dairy Wastewater
 
-Filamentous fungi including Mucor and Rhizopus species treat dairy wastewater through biomass production and organic matter assimilation. BOD reductions exceeding 80% are achievable. Fungal biomass produced can serve as animal feed supplement.
+Filamentous fungi including Mucor and Rhizopus species treat dairy wastewater through [[dighton-fungal-biomass-production-aquatic-ecosystems]] and organic matter assimilation. BOD reductions exceeding 80% are achievable. Fungal biomass produced can serve as animal feed supplement.
 
 ### Olive Mill Wastewater
 
-Olive mill wastewater (OMW) is one of the most polluting agro-industrial effluents, with extreme phytotoxicity and high phenolic content. [[fungal-biosorption-mechanisms]]
-- [[mycoremediation-of-textile-dyes]]
-- [[mycofiltration-water-treatment]]
-- [[fungal-distillery-waste-treatment]]
+Olive mill wastewater (OMW) is one of the most polluting agro-industrial effluents, with extreme phytotoxicity and high phenolic content. fungal-biosorption-mechanisms
+- mycoremediation-of-textile-dyes
+- mycofiltration-water-treatment
+- fungal-distillery-waste-treatment
 
 ## Related
 
-- [[permaculture-earthworks-and-water-harvesting]]
+- permaculture-earthworks-and-water-harvesting
 
 ---
 Updated: 2026-04-18
-Source: The Ultimate Guide to Natural Farming and Sustainable Living
+Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]]
 ## Practical Considerations
 
 When working with Mycofiltration of Water Contaminants, several practical factors should be
@@ -69,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,3 +105,5 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+- [[natural-farming-guide-composting-methods-and-techniques]]

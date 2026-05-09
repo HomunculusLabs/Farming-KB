@@ -16,13 +16,13 @@ sources:
 type: concept
 ---
 Masanobu Fukuoka developed the clay pellet (seed ball) technique as a
-cornerstone of his natural farming method. The pellets encapsulate seeds
+cornerstone of his [[comparison-natural-farming-vs-permaculture]] method. The pellets encapsulate seeds
 within a protective coating of soil and clay, carrying beneficial
 microorganisms that support germination and early growth. This technique
 eliminates the need for pesticides, protects seeds from predation, and
 delays germination until natural rainfall creates favorable conditions.
 Fukuoka proposed the method as a practical tool for large-scale
-desert revegetation, envisioning a simple, low-cost approach to
+[[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]], envisioning a simple, low-cost approach to
 restoring barren landscapes worldwide.
 ## Desert Revegetation Concept
 Fukuoka proposed that seeds of certain plants be sown over deserts and
@@ -40,7 +40,7 @@ to microorganisms for understanding large causal relationships. Even
 if the first plant to die off in a desertifying region were identified,
 it would still be impossible to decide whether to begin by planting the
 first type of vegetation to disappear or the last to survive. In
-nature, there is no simple cause and effect. The only effective
+nature, there is no simple [[fukuoka-textdoc-no-cause-and-effect-in-nature]]. The only effective
 approach is to leave things largely up to nature itself.
 One gram of soil on Fukuoka's farm contains about 100 million
 nitrogen-fixing bacteria and other soil-enriching microbes. He believed
@@ -52,10 +52,10 @@ thrive in each location.
 The clay pellets are prepared by mixing the seeds of green manure
 trees such as black wattle, which grow in areas with annual rainfall
 of less than 2 inches, together with the seeds of clover, alfalfa,
-bur clover, and other green manures, plus grain and vegetable seeds.
+bur clover, and other [[jeavons-green-manures-cover-crops]], plus grain and vegetable seeds.
 The seed mixture is coated first with a layer of soil, then with a
 layer of clay, forming microbe-containing clay pellets.
-For field use in rice and barley cultivation, Fukuoka described a more
+For field use in rice and [[fukuoka-textdoc-barley-cultivation-three-stage-no-tillage-evolution]], Fukuoka described a more
 detailed preparation method. The simplest approach is to mix seeds in
 at least a five- to ten-fold quantity of well-crushed clay or red
 earth, add water, and knead until hard by treading. The kneaded
@@ -71,8 +71,8 @@ quarter- to a half-inch in size. For large quantities, a concrete mixer
 can be used. Topsoil-containing clay may also be used, but if pellets
 crumble too early in spring, seeds will be devoured by rodents and
 other pests.
-## The [[natural-farming]], No Tillage Rice Barley Succession,
-Green Manure Cover Cropping
+## The , No Tillage Rice Barley Succession,
+Green Manure [[fukuoka-clover-cover-cropping-soil-ecology]]
 
 ## See Also
 

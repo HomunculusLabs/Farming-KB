@@ -1,5 +1,5 @@
 ---
-title: Endophytic Fungi Living Inside Plants
+title: comparison-endophytic-fungi-vs-mycorrhizal-fungi Living Inside Plants
 created: 2026-04-28
 tags:
   - mycology
@@ -90,18 +90,18 @@ competitive, more resistant to herbivory, and more tolerant of environmental
 stress than uninfected individuals. This can shift the species composition
 of plant communities and affect the animals that depend on them.
 
-The diversity of endophytic fungi in tropical forests is particularly
+The diversity of endophytic [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] forests is particularly
 striking. Individual tropical trees can harbor hundreds of endophyte species
 in their leaves alone. The total number of endophyte species worldwide has
 been estimated at over one million, suggesting that endophytes represent one
-of the largest reservoirs of fungal biodiversity on the planet.
+of the largest reservoirs of [[biodiversity-fungal-biodiversity-estimation-methods]] on the planet.
 
 ## Agricultural Applications
 
 The protective effects of endophytes have been exploited in agriculture.
 Endophyte-infected varieties of tall fescue and perennial ryegrass are widely
-planted as forage and turf grasses because of their enhanced pest resistance
-and stress tolerance. However, some endophyte strains produce alkaloids that
+planted as forage and turf grasses because of their enhanced [[cannabis-disease-pest-resistance-breeding-clarke]]
+and [[fungal-lichen-stress-tolerance-and-poikilohydry]]. However, some endophyte strains produce alkaloids that
 are toxic to livestock, causing syndromes such as fescue toxicosis in cattle
 and ergot-like symptoms in sheep.
 
@@ -113,7 +113,7 @@ promising alternative to chemical pesticides in sustainable agriculture.
 
 Unlike clavicipitaceous endophytes, which are passed from parent to offspring
 through seeds, many endophytes are acquired from the environment through
-horizontal transmission. Spores released from fungal fruiting bodies on dead
+horizontal transmission. Spores released from [[brassinosteroid-fungal-fruiting-body-morphology]] bodies on dead
 plant material are carried by wind or rain to new host plants, where they
 penetrate leaves or stems through stomata, wounds, or direct hyphal invasion.
 

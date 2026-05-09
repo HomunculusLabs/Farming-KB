@@ -5,7 +5,7 @@ updated: 2026-04-12
 type: concept
 tags: [cover-crop, no-till, permaculture, nitrogen, rice, green-manure]
 sources:
-  - raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
+  sources: []
   - raw/papers/gaias-garden-toby-hemenway.md
 ---
 
@@ -13,7 +13,7 @@ sources:
 
 ## Fukuoka's Clover Revolution
 
-Masanobu Fukuoka called his no-till rice and barley system the "clover revolution" because it enabled farming without any pesticides or chemical fertilizers. White clover (ladino clover) serves as a permanent living ground cover in his direct-seeding, no-tillage rice/barley succession system.
+Masanobu Fukuoka called his no-till rice and barley system the "clover revolution" because it enabled farming without any pesticides or [[cervantes-chemical-fertilizers-guide]]. White clover (ladino clover) serves as a permanent living ground cover in his direct-seeding, no-tillage rice/[[direct-seeded-no-tillage-rice-barley-succession-in-clover]] system.
 
 ## How It Works
 
@@ -29,7 +29,7 @@ Masanobu Fukuoka called his no-till rice and barley system the "clover revolutio
 
 ### Benefits of the Clover Cover
 
-- **Nitrogen fixation:** Clover fixes atmospheric nitrogen, feeding companion crops
+- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]:** Clover fixes atmospheric nitrogen, feeding companion crops
 - **Weed suppression:** Dense cover prevents winter weeds from establishing
 - **Soil protection:** Ground cover shields soil from rain and erosion
 - **Moisture retention:** Shade holds moisture in the soil
@@ -42,10 +42,10 @@ Broadcasting directly over the maturing heads of rice requires less work and is 
 
 ## Hemenway's Perspective
 
-Toby Hemenway describes Fukuoka's method as "a great example of stacking functions":
+Toby Hemenway describes Fukuoka's method as "a great example of [[gaias-garden-stacking-functions-detailed]]":
 - Greenery suppresses weeds
 - Shade holds moisture in the soil
-- Blossoms attract beneficial insects
+- Blossoms attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 - Nitrogen fixed by the clover boosts the growth of other crops
 
 To plant crops, Fukuoka simply opens up small areas in the clover and places seeds or transplants in the resulting gaps.
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

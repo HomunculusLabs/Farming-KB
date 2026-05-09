@@ -1,5 +1,5 @@
 ---
-title: House Design for Climate Zones
+title: House Design for mollison-climate-zones-permaculture-strategies
 created: 2026-04-28
 tags:
   - permaculture
@@ -54,18 +54,18 @@ protection become paramount. Mollison advocates:
 - Compact building form to minimise surface area relative to volume,
   reducing heat loss through walls and roof
 - Heavy thermal mass materials (stone, earth, concrete) in floors and
-  north-facing walls (southern hemisphere) to absorb and store solar
+  north-facing walls ([[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]) to absorb and store solar
   energy during the day and release it at night
 - High levels of insulation in roof, walls, and floor, with particular
   attention to eliminating thermal bridges
 - Smaller windows on the poleward (cold) side and larger glazing on the
-  equatorward side to maximise passive solar gain
+  equatorward side to maximise [[comparison-passive-solar-vs-earth-sheltered]] gain
 - Buffer zones: attached greenhouses, conservatories, or enclosed porches
   on the cold side to create an insulating air layer
 - Deciduous trees or deciduous vine-covered pergolas on the equatorward
   side to shade in summer but admit light in winter
 - Earth-sheltering or berming on the cold windward side for additional
-  insulation and wind protection
+  insulation and [[cervantes-wind-protection-outdoor-cannabis]]
 
 Mollison stresses that cold-climate houses benefit from internal heat
 sources such as wood stoves, masonry heaters, and the body heat of
@@ -73,7 +73,7 @@ livestock in integrated systems.
 
 ## Arid and Semi-Arid Climate Design
 
-In dry hot climates the diurnal temperature range is extreme: very hot
+In dry hot climates the diurnal [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] is extreme: very hot
 days and very cold nights. Building design must address both. Key
 strategies include:
 
@@ -85,7 +85,7 @@ strategies include:
 - Small, high windows oriented away from direct sun to minimise heat
   gain while allowing hot air to vent out
 - Light-coloured exterior surfaces to reflect solar radiation
-- Evaporative cooling features such as courtyard water features, unglazed
+- [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]] features such as courtyard water features, unglazed
   terracotta water jars, or wind towers (badgirs) that capture and cool
   breezes
 - Minimal north (equatorward) glazing to prevent summer overheating
@@ -106,6 +106,8 @@ mass:
 [[mollison-designers-wool-insulation-and-natural-textiles]].
 
 ## See Also
+
+- mollison-designers-cool-climate-house-design
 
 - [[mollison-designers-climate-zone-2-orchard-food-forest]]
 - [[mollison-designers-climate-zone-4-forage-gathering]]

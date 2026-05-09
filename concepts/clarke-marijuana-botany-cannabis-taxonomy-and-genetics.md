@@ -1,5 +1,5 @@
 ---
-title: "Cannabis Taxonomy and Genetics: Clarke's Marijuana Botany"
+title: "clarke marijuana botany cannabis taxonomy and genetics and Genetics: Clarke's Marijuana Botany"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -10,7 +10,7 @@ tags: [cannabis]
 
 # Cannabis Taxonomy and Genetics: Clarke's Marijuana Botany
 
-Robert Connell Clarke's "Marijuana Botany: An Advanced Study" (1981) provides a comprehensive scientific framework for understanding Cannabis genetics, from basic Mendelian inheritance to advanced breeding techniques. The work emphasizes the urgent need to preserve genetic diversity in the face of eradication programs, commercial hybridization, and plant patenting.
+Robert Connell Clarke's "Marijuana Botany: An Advanced Study" (1981) provides a comprehensive scientific framework for understanding [[vic-high-cannabis-genetics-mendelian-inheritance]], from basic Mendelian inheritance to advanced [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]]. The work emphasizes the urgent need to preserve genetic diversity in the face of eradication programs, commercial hybridization, and plant patenting.
 
 ## Genetic Fundamentals
 
@@ -26,7 +26,7 @@ Cannabis has a **diploid chromosome number of 2n = 20** (haploid n = 10), with e
 
 ## Mendelian Inheritance in Cannabis
 
-Clarke presents Mendel's two laws as applied to Cannabis breeding:
+Clarke presents Mendel's two laws as applied to [[oner-cannabis-breeding-fundamentals]]:
 
 **Law I (Segregation)**: Each gene in a related pair segregates from the other during gamete formation. A cross between homozygous WW and ww parents produces F1 offspring that are all Ww (heterozygous). Crossing two F1 individuals yields F2 offspring in approximately a 3:1 phenotype ratio (3 dominant : 1 recessive), or 1:2:1 genotype ratio.
 
@@ -49,7 +49,7 @@ Cannabis has 20 chromosomes in its normal diploid state. Polyploidy (multiple ch
 - **Triploids (3n = 30)**: Created by crossing tetraploids with diploids; generally inferior to both parent types.
 - **Aneuploids** (unbalanced chromosome sets): Inferior in every economic respect, characterized by extremely small seeds.
 
-De Pasquale et al. (1979) reported treated plants showed 166-250% increases in THC with decreases in CBD (30-33%) and CBN (39-65%). Clarke notes that colchicine treatment has a very fine line between inducing polyploidy and killing the seed -- if most treated seeds survive, polyploidy was probably not achieved.
+De Pasquale et al. (1979) reported treated plants showed 166-250% increases in THC with decreases in CBD (30-33%) and CBN (39-65%). Clarke notes that [[cannabis-polyploidy-colchicine-treatment-clarke]] has a very fine line between inducing polyploidy and killing the seed -- if most treated seeds survive, polyploidy was probably not achieved.
 
 ## Chromosome Mapping
 
@@ -100,7 +100,7 @@ Clarke describes practical breeding techniques for selecting desirable traits at
 Clarke outlines four fundamental breeding approaches:
 
 1. **Hybridization**: Crossing two varieties with outstanding qualities
-2. **Differentiation**: Inbreeding F1 offspring (selfing or sibling crosses) to realize the full range of the original cross, allowing recessive traits to express
+2. **Differentiation**: Inbreeding F1 offspring (selfing or sibling crosses) to realize the full range of the original cross, allowing [[cervantes-dominance-recessive-traits-alleles]] to express
 3. **Back-crossing**: Crossing offspring with original parents to reinforce parental characteristics
 4. **Recombination**: Crossing two similar true-breeding varieties to preserve mutual traits and restore vigor lost through inbreeding
 

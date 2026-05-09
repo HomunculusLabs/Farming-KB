@@ -1,5 +1,5 @@
 ---
-title: Ascomycete Diversity and Taxonomy
+title: biodiversity ascomycete diversity taxonomy and Taxonomy
 created: 2026-04-28
 tags: [fungi, taxonomy, ascomycota, biodiversity, systematics]
 date: 2026-04-28
@@ -42,7 +42,7 @@ Three major classes of Ascomycota are generally recognized:
 - **Saccharomycetes**: The "true yeasts," found in virtually
   all environments and habitats. Members occupy a paramount
   position in food production for humans and associate with
-  mammals as pathogens (e.g., Candida albicans). They also
+  mammals as pathogens (e.g., [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]). They also
   form mutualisms with various animal groups, including
   numerous endosymbionts of arthropods. The Saccharomycetes
   is a monophyletic clade that probably shares a most recent
@@ -73,10 +73,10 @@ Major lineages include:
   contains the majority of ectomycorrhizal ascomycete species
   and numerous independent lineages of truffles.
 - **Helotiales**: A grossly polyphyletic group including
-  endophytes, mycorrhizal fungi, plant pathogens, and
-  saprobes of litter and woody debris.
+  endophytes, [[arbuscular-mycorrhizal-fungi-biology-symbiosis]], plant pathogens, and
+  saprobes of litter and [[fungal-succession-woody-debris-ecology]].
 - **Plectomycetes**: A clade of Eurotiales and Onygenales
-  containing numerous medically important fungi, including
+  containing numerous [[biodiversity-medically-important-fungi-isolation]], including
   sources of life-saving compounds and causes of serious
   diseases such as valley fever.
 - **Pyrenomycetes**: A clade including Diaporthales,
@@ -132,7 +132,10 @@ of ascostromatic development.
 
 ## See Also
 
-- [[biodiversity-fungi-soil-ecosystems]]
+- biodiversity-fungi-soil-ecosystems
 - [[biodiversity-fungi-temperate-boreal-forests]]
-- [[biodiversity-fungi-plant-mutualisms]]
+- biodiversity-fungi-plant-mutualisms
 - [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]
+- [[ectomycorrhiza]]
+- [[candida-albicans]]
+- [[mycorrhizal-fungi]]

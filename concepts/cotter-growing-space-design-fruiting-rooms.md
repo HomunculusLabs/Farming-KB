@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-The design of indoor growing spaces significantly impacts pest and disease
+The design of [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]] spaces significantly impacts [[organic-pest-and-disease-management]]
 control, environmental management, and overall productivity. Key principles
 include partitioning space by cultivation stage, maintaining cleanliness, and
 proactive pest management. A well-designed space reduces the need for
@@ -22,7 +22,7 @@ pesticides and improves consistency of yields.
 ## Space Partitioning
 
 Large, open spaces where workers, air, insects, and spores move freely
-facilitate the spread of pests and diseases. Partition the growing space into
+facilitate the spread of [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. Partition the growing space into
 smaller rooms or sections separated by curtains, movable partitions, or
 permanent walls. Each partition should correspond to a cultivation stage.
 
@@ -52,7 +52,7 @@ medium -- they rot quickly, attracting flies and bacteria that ruin future
 flushes. Clean drains and plumbing traps weekly with a small amount of bleach.
 Never allow standing water in growing spaces.
 
-Approach pest and disease control proactively. Treat a contaminated module like
+Approach pest and [[hamilton-pest-and-disease-control-organic]] proactively. Treat a contaminated module like
 fire: lock it down and deal with it immediately. Every insect can multiply by
 the hundreds or thousands, so capturing even small numbers is an achievement.
 
@@ -66,7 +66,7 @@ upward to reduce egg-laying opportunities. If gnats are present, inspect
 substrates for Trichoderma molds.
 
 Control methods:
-- Bacillus thuringiensis var. israelensis (Bti): a bacterium that kills larvae
+- [[cervantes-bacillus-thuringiensis-bt-control]] var. israelensis (Bti): a bacterium that kills larvae
   before they become reproductive adults. Mix into substrate during
   inoculation or inject into column holes during outbreaks
 - Vinegar/soap traps: 1/2 cup apple cider vinegar or milk with a few drops of
@@ -129,7 +129,7 @@ Bacteria are most commonly encountered on agar media and in grain spawn. Causes
 include:
 
 - **Over-supplemented media**: High nitrogen levels promote bacterial growth
-  over mycelial growth, creating excessive heat above 100 degrees F
+  over [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]], creating excessive heat above 100 degrees F
 - **Inadequate gas exchange**: Creates anaerobic dead zones populated by
   anaerobic bacteria, resulting in marbled, uneven colonization
 
@@ -140,5 +140,8 @@ degrees C). Avoid nitrogen levels that create excessive heat.
 ## See Also
 
 - [[cotter-laboratory-setup]] -- lab design for clean culture work
-- [[cotter-mushroom-life-cycle-mycelium-biology]] -- environmental requirements
+- cotter-mushroom-life-cycle-mycelium-biology -- environmental requirements
 - [[cotter-oyster-mushroom-cultivation]] -- primary indoor species
+- [[bacillus-thuringiensis]]
+- [[mycoremediation]]
+- [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]]

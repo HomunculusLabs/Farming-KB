@@ -14,11 +14,11 @@ Agroecology is the integrative study and practice of applying ecological concept
 ## Origins and Key Figures
 
 **Miguel Altieri** (UC Berkeley) established agroecology as a discipline with his 1983 textbook. He defined it as the application of ecological concepts to the design of sustainable agroecosystems, emphasizing that pests, nutrient deficiencies, and diseases are symptoms of management failures rather than problems to be chemically solved.
-He developed the concept of **functional biodiversity** — organisms that provide ecosystem services like pest regulation and nutrient cycling — and argued that diversity at genetic, species, and ecosystem levels is the foundation of productive, resilient farming.
+He developed the concept of **functional biodiversity** — organisms that provide [[biodiversity-of-fungi-ecosystem-services-agriculture]] like pest regulation and nutrient cycling — and argued that diversity at genetic, species, and ecosystem levels is the foundation of productive, resilient farming.
 
-**Stephen Gliessman** (UC Santa Cruz) framed agroecology more holistically as the ecology of the entire food system, including economic and social dimensions. His 5-level conversion framework moves from increasing conventional efficiency, through input substitution and system redesign, to reconnecting producers and consumers and ultimately building new global food systems based on equity and food sovereignty.
+**Stephen Gliessman** (UC Santa Cruz) framed agroecology more holistically as the ecology of the entire food system, including [[holmgren-economic-and-social-succession]] dimensions. His 5-level conversion framework moves from increasing conventional efficiency, through input substitution and system redesign, to reconnecting producers and consumers and ultimately building new global food systems based on equity and food sovereignty.
 
-**Wezel et al.** (2009) distinguished three dimensions: agroecology as science, practice, and social movement. The **FAO's 10 Elements of Agroecology** (2019) synthesized these into an international framework encompassing diversity, co-creation of knowledge, synergies, efficiency, recycling, resilience, human values, culture and food traditions, responsible governance, and circular economy.
+**Wezel et al.** (2009) distinguished three dimensions: agroecology as science, practice, and social movement. The **FAO's 10 Elements of Agroecology** (2019) synthesized these into an international framework encompassing diversity, co-creation of knowledge, synergies, efficiency, recycling, resilience, human values, culture and food traditions, responsible governance, and [[zeri-circular-economy-systems]].
 
 ## Core Principles
 
@@ -65,7 +65,7 @@ Habitat management includes beetle banks (unmown grass strips for overwintering 
 
 ## Nutrient Cycling and Closed Loops
 
-The agroecological ideal closes all nutrient loops within the farm system. Key components include returning all crop residues to soil, integrating livestock (animals consume crop by-products; manure is composted and returned), cover cropping (fixing nitrogen, scavenging leached nutrients), and recycling human waste through ecological sanitation. Biological nitrogen fixation by rhizobia in legume root nodules contributes 50-300 kg N/ha/year depending on species — soybeans fix ~100-200 kg, alfalfa ~200-300 kg, common beans ~30-80 kg.
+The agroecological ideal closes all nutrient loops within the farm system. Key components include returning all crop residues to soil, integrating livestock (animals consume crop by-products; manure is composted and returned), cover cropping (fixing nitrogen, scavenging leached nutrients), and recycling human waste through ecological sanitation. [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation by rhizobia in legume root nodules contributes 50-300 kg N/ha/year depending on species — soybeans fix ~100-200 kg, alfalfa ~200-300 kg, common beans ~30-80 kg.
 
 Mycorrhizal networks connect multiple plants, facilitating nutrient and carbon transfer between individuals. Composting follows four phases: mesophilic (20-45°C, bacteria and fungi initiate decomposition), thermophilic (45-70°C, thermophiles decompose complex compounds, killing pathogens and weed seeds above 55°C), cooling (mesophiles recolonize), and curing (weeks to months of stabilization and humus formation). Optimal C:N ratio is 25-30:1, with moisture at 50-60%.
 Vermicomposting uses earthworms (Eisenia fetida) to produce vermicast rich in plant growth hormones and beneficial microorganisms.
@@ -112,12 +112,15 @@ Scaling challenges include knowledge intensity (site-specific management cannot 
 
 ## Current Research Frontiers
 
-Active research areas include soil microbiome engineering (designer inoculants, root exudate-microbiome interactions), precision agroecology (using remote sensing, drones, and AI to optimize diversity-based systems), nutritional quality (evidence that agroecologically grown food has higher micronutrient density), and landscape-level spatial optimization for ecosystem services. Social research frontiers include political ecology of food systems, feminist agroecology, decolonizing food systems, true cost accounting for externalities, and participatory governance for landscape-level management.
+Active research areas include soil microbiome engineering (designer inoculants, root exudate-microbiome interactions), precision agroecology (using remote sensing, drones, and AI to optimize diversity-based systems), [[coleman-winter-greens-nutritional-quality-cold-sweetening]] (evidence that agroecologically grown food has higher micronutrient density), and landscape-level spatial optimization for ecosystem services. Social research frontiers include political ecology of food systems, feminist agroecology, decolonizing food systems, true cost accounting for externalities, and participatory governance for landscape-level management.
 
 The connection between agroecology and One Health — particularly reduced zoonotic disease spillover risk and antimicrobial resistance — is an emerging area of interdisciplinary investigation. Quantifying the full economic value of agroecological ecosystem services (true cost accounting) is critical for policy advocacy, as is developing robust agroecological metrics that go beyond yield to capture soil health, biodiversity, nutritional quality, and social well-being.
 
 ## See Also
 
-- [[permaculture]] — design system for sustainable human settlements integrating ecology, agriculture, and community
+- permaculture — design system for sustainable human settlements integrating ecology, agriculture, and community
 - [[cover-crops]] — multi-functional crops grown between cash crops for soil health and nutrient cycling
-- [[soil-food-web]] — trophic structure and nutrient cycling mediated by soil organisms
+- [[soil-food-web]] — trophic [[root-anatomy-structure-and-nutrient-uptake]] cycling mediated by soil organisms
+- [[desmodium-uncinatum]]
+- [[alley-cropping]]
+- [[decomposition]]

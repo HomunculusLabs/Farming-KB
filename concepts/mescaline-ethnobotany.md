@@ -13,7 +13,7 @@ tags: [ethnobotany, peyote]
 Schultes and Hofmann document mescaline as one of the most significant
 psychoactive alkaloids in the ethnobotanical record, occurring naturally in
 two major cactus genera used ceremonially across the Americas: Peyote
-(Lophophora williamsii) and San Pedro (Trichocereus pachanoi).
+(Lophophora williamsii) and [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]] (Trichocereus pachanoi).
 
 ## Chemical Identity
 
@@ -24,7 +24,7 @@ significant and was one of the first examples of a psychoactive plant
 compound whose structure was understood in relation to human neurochemistry.
 
 See also: mescaline ethnobotany, [[mescaline-peyote-san-pedro-cactus]], ethnomycology,
-[[san-pedro-cactus-history]], [[aztec-entheogens]], [[mescaline-biosynthesis-and-precursor-enhancement]], [[mescaline-reference]], richard evans schultes updated
+[[san-pedro-cactus-history]], [[aztec-entheogens]], [[mescaline-biosynthesis-and-precursor-enhancement]], [[mescaline-reference]], richard [[richard-evans-schultes-updated]] updated
 ## Practical Applications
 
 Mescaline Ethnobotany in Plants of the Gods has a range of practical applications that make it relevant to
@@ -102,4 +102,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

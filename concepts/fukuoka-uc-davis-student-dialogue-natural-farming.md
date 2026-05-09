@@ -1,5 +1,5 @@
 ---
-title: UC Davis Student Dialogue — Natural Farming Questions and Answers
+title: UC fukuoka uc davis student dialogue natural farming Dialogue — comparison-natural-farming-vs-permaculture Questions and Answers
 tags:
   - farming
   - philosophy
@@ -17,13 +17,13 @@ sources:
 
 ## Overview
 
-During his 1986 American tour, Fukuoka visited the Agriculture Department at the University of California, Davis — a leading institution in the development of scientific agriculture in the United States. The dialogue with students revealed both the hunger for alternatives among the next generation of agricultural scientists and the conceptual difficulties of bridging scientific and natural farming worldviews.
+During his 1986 American tour, Fukuoka visited the Agriculture Department at the University of California, Davis — a leading institution in the development of [[fukuoka-critique-scientific-agriculture-civilization]] in the United States. The dialogue with students revealed both the hunger for alternatives among the next generation of agricultural scientists and the conceptual difficulties of bridging scientific and natural farming worldviews.
 
 ## The Context
 
 The UC Davis Agriculture Department had a reputation as a research station for agribusiness. But things were changing: students were pulling faculty toward organic and more sustainable methods. The students managed a farm using organic and natural techniques, growing heirloom crops alongside medicinal and ground cover plants.
 
-However, Fukuoka observed that their use of green manure plants such as clover and alfalfa — the basis for soil improvement — was insufficient. They prioritized high-yielding crops and put off efforts to improve the soil. They seemed unsure about the difference between organic and natural farming.
+However, Fukuoka observed that their use of green manure plants such as clover and alfalfa — the basis for soil improvement — was insufficient. They prioritized high-yielding crops and put off efforts to improve the soil. They seemed unsure about the [[query-what-is-the-difference-between-organic-regenerative-and-biodynamic-agriculture]] and natural farming.
 
 ## The Students' Questions
 
@@ -77,7 +77,7 @@ After the talk, two sheepish-looking gentlemen approached. Their business cards 
 
 ## Significance
 
-The UC Davis dialogue represents a pivotal moment in the transmission of natural farming philosophy to the West:
+The UC Davis dialogue represents a pivotal moment in the transmission of natural [[fukuoka-do-nothing-farming-philosophy-and-practice]] to the West:
 
 - Students at America's premier agricultural school were hungry for alternatives to industrial methods
 - The philosophical depth of natural farming challenged students more than its agricultural techniques
@@ -101,7 +101,7 @@ This does not mean that the farmer's attitude literally causes plant diseases. R
 
 ## The Ethiopian Student's Role
 
-The fact that the student leader who initiated the dialogue was from Ethiopia is significant. Fukuoka had traveled extensively in Africa and had strong opinions about the relationship between traditional African agriculture and natural farming. An Ethiopian student at UC Davis represented the collision of indigenous agricultural wisdom with Western scientific agriculture — precisely the collision that natural farming seeks to resolve by showing that indigenous methods, properly understood, embody a more sophisticated relationship with nature than modern science has achieved.
+The fact that the student leader who initiated the dialogue was from Ethiopia is significant. Fukuoka had traveled extensively in Africa and had strong opinions about the relationship between traditional [[fukuoka-african-agriculture-observations]] and natural farming. An Ethiopian student at UC Davis represented the collision of indigenous agricultural wisdom with Western scientific agriculture — precisely the collision that natural farming seeks to resolve by showing that indigenous methods, properly understood, embody a more sophisticated relationship with nature than modern science has achieved.
 
 ## Fluorescent Lights vs. Sunlight
 

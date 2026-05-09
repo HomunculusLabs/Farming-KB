@@ -1,5 +1,5 @@
 ---
-title: Faires Meat Processing Curing and Smoking
+title: Faires faires meat processing curing and smoking Curing and Smoking
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 # Faires Meat Processing Curing and Smoking
 
-Processing meat on the homestead is an essential skill for self-reliance. When an animal is slaughtered, the meat must be preserved quickly to prevent spoilage. In a permaculture system, any processing of farm products -- including meat -- should be done on site. The Faires guide covers several methods of meat preservation including salting, smoking, making clarified fats, and rendering tallow and lard. See also [[lacto-fermentation-and-food-preservation-methods]].
+Processing meat on the homestead is an essential skill for self-reliance. When an animal is slaughtered, the meat must be preserved quickly to prevent spoilage. In a permaculture system, any processing of [[selling-farm-products-and-business]] -- including meat -- should be done on site. The Faires guide covers several methods of meat preservation including salting, smoking, making clarified fats, and rendering tallow and lard. See also [[lacto-fermentation-and-food-preservation-methods]].
 
 ## Salting Meat
 
@@ -64,7 +64,7 @@ Properly rendered and strained fat should last for years and can be used in soup
 
 Tallow is specifically rendered beef fat (suet). It is harder than lard and has a higher melting point. Tallow was historically one of the most important cooking and lighting fats. It has several advantages:
 - Very stable at high temperatures, excellent for frying
-- Long shelf life [[candle-making]]
+- Long [[psilocybin-shelf-life-stability]] [[candle-making]]
 - Good for seasoning cast-iron cookware
 - Can be used as a leather conditioner and waterproofing treatment
 
@@ -101,4 +101,4 @@ Liver is nature's most concentrated source of vitamin A, iron, B vitamins, and m
 
 ### Kidney
 
-Kidney has a stronger flavour than liver [[faires-low-energy-refrigeration]] used for vegetables
+Kidney has a stronger flavour than liver faires-low-energy-refrigeration used for vegetables

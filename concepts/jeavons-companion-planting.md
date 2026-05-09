@@ -1,5 +1,5 @@
 ---
-title: Companion Planting and Intercropping
+title: comparison-companion-planting-reference-vs-jadam-monoculture-critique and Intercropping
 created: 2026-04-26
 author: John Jeavons
 sources: How to Grow More Vegetables, 8th edition
@@ -41,7 +41,7 @@ Using GROW BIOINTENSIVE spacing with plant leaves barely touching allows good co
 - **Lemon balm** — Creates a beneficial atmosphere, attracts bees.
 - **Marjoram** — Beneficial effect on surrounding plants.
 - **Oregano** — Beneficial effect on surrounding plants.
-- **Stinging nettle** — Helps plants resist spoiling, increases essential oil in herbs, stimulates humus formation, concentrates sulfur, potassium, calcium, and iron.
+- **[[comparison-stinging-nettle-vs-horsetail]]** — Helps plants resist spoiling, increases essential oil in herbs, stimulates [[lowenfels-humus-formation-benefits]], concentrates sulfur, potassium, calcium, and iron.
 - **Valerian** — Helps most vegetables, stimulates phosphorus activity.
 - **Chamomile** — Lime specialist, contains a growth hormone, combats damping off. Concentrates calcium, sulfur, and potash.
 - **Dandelion** — Increases aromatic quality of all herbs, concentrates potash.
@@ -69,12 +69,12 @@ Different plant types can be grown in the same bed simultaneously. Example: corn
 
 - **Sun/Shade** — Corn provides shade for cucumbers. Lettuce nestles among taller plants for partial shade. Sunflowers at the north side of the garden.
 - **Shallow/Deep Rooting** — Shallower-rooting beans interplanted with deeper-rooting corn. Improved soil structure over time.
-- **Fast/Slow Maturing** — French intensive gardeners grew 4 crops at once: radishes, carrots, lettuce, and cauliflower.
+- **Fast/Slow Maturing** — [[coleman-british-adoption-of-french-intensive-gardening]] gardeners grew 4 crops at once: radishes, carrots, lettuce, and cauliflower.
 
 ### Weed, Insect, and Animal Relationships
 
 - **Weed control** — Kale and rape discourage weed growth in the following season. Tagetes minuta (Mexican marigold) kills couch grass, convolvulus, ground ivy, horsetail.
-- **Insect control** — Use older plants with well-developed aroma, and a large variety of herbs. Five different herbs help discourage the cabbageworm butterfly.
+- **[[mushroom-pests-insect-control-stamets]]** — Use older plants with well-developed aroma, and a large variety of herbs. Five different herbs help discourage the cabbageworm butterfly.
 
 ### Insect Control with Specific Plants
 
@@ -94,7 +94,7 @@ Different plant types can be grown in the same bed simultaneously. Example: corn
 
 - Plan your garden 12 months at a time, at least 3 months in advance.
 - Companion plant over time (rotation) is easier than companion planting in space.
-- Start with salad vegetables — generally good companions.
+- Start with [[hamilton-salad-vegetables-organic]] — generally good companions.
 - Be easy on yourself. Learn this year, apply next year.
 - Due to lack of space, you may need to grow some non-companion plants together — accept lower yields or adjust your diet.
 - Herb plants should be reasonably mature when transplanted for optimum effect as companions.

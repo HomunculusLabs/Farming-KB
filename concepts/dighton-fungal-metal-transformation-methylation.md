@@ -1,5 +1,5 @@
 ---
-title: "Fungal Metal Transformation and Methylation Processes"
+title: "Fungal singh-metal-transformation-leaching-mechanisms-fungi and Methylation Processes"
 created: 2026-04-26
 tags:
   - mycology
@@ -23,12 +23,12 @@ dealkylation, reduction, and complexation reactions that can
 significantly alter metal toxicity and mobility in ecosystems. The
 ability of fungi to convert metals between chemical forms has profound
 implications for metal movement through food chains and for
-bioremediation strategies.
+[[comparison-bioremediation-strategies-vs-biostimulation-techniques]].
 
 ## Arsenic Methylation
 
 Byrne et al. (1997) reviewed earlier work showing that numerous
-basidiomycete fungi accumulated arsenic in their fruit bodies. Their
+[[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] accumulated arsenic in their fruit bodies. Their
 discovery of dimethylarsenic acid (DMA) in the ectomycorrhizal
 basidiomycete Laccaria amethystina led to investigation of arsenic
 transformations in fungal tissues. Methylarsonic acid (MA) was found in
@@ -88,8 +88,8 @@ effective bioremediation strategies.
 
 ## Organic Degradation Capabilities
 
-The wood-decaying fungus Phanerochaete chrysosporium has demonstrated
-the ability in field trials to degrade toxic organic compounds by
+The wood-decaying fungus [[staycare-phanerochaete-chrysosporium-in-bioremediation]] has demonstrated
+the ability in field trials to degrade toxic [[fungal-volatile-organic-compounds-communication]] by
 converting chlorine bound in organic form to harmless inorganic forms
 and to degrade aromatic hydrocarbons to carbon dioxide and water
 (Coghlan, 1994). Combined with metal ion accumulation and enzymatic
@@ -108,11 +108,13 @@ can influence the uptake and toxicity of another.
 
 ## See Also
 
+- [[fungal-metalloid-transformation-methylation-volatilization]]
+
 - [[dighton-fungal-biosorption-heavy-metal-remediation]]
 - [[dighton-fungi-acidifying-pollutants-forest-ecosystems]]
 - [[fungal-metal-transformations-biosorption]]
 
 ## Sources
 
-- Dighton, J. (2003). Fungi in Ecosystem Processes. Marcel Dekker.
+- Dighton, J. (2003). Fungi in [[fungal-ecosystem-processes-overview]]. Marcel Dekker.
   Chapter 6: Fungal Interactions with Humans.

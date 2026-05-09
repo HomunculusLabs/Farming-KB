@@ -11,7 +11,7 @@ type: concept
 
 # Cannabis and Rhabdomyosarcoma
 
-The Cannabis Health Index (CHI) provides an evidence-based rating system
+The [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI) provides an evidence-based rating system
 for evaluating the therapeutic potential of cannabis across various
 conditions. For rhabdomyosarcoma, the CHI scores 2 studies with a
 combined CHI value of 1, indicating very preliminary evidence.
@@ -73,7 +73,7 @@ activation while still providing CB1 engagement.
 Applying the paradigm of co-creation to the dreadful events of often-
 fatal infant and childhood diseases or accidents remains a very
 challenging task. What belief(s) in punishment, what guilt, how much
-harbored anger, and what responsibility can a baby have?
+[[guilt-martyrdom-harbored-anger-as-health-hazards]], and what responsibility can a baby have?
 
 If we were privy to the intention and choices made beyond the veil of
 conception or after death's final curtain falls, it would perhaps be

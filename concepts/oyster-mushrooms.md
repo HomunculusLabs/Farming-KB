@@ -1,5 +1,5 @@
 ---
-title: Oyster Mushrooms
+title: query-how-to-grow-oyster-mushrooms-at-home
 created: 2026-04-28
 tags: [mushrooms, cultivation, fungi, gourmet, agriculture]
 date: 2026-04-28
@@ -12,7 +12,7 @@ type: concept
 # Oyster Mushrooms
 
 Oyster mushrooms of the genus Pleurotus are by far the easiest and least
-expensive gourmet mushrooms to cultivate. For small cultivators with limited
+expensive [[growing-gourmet-mushrooms-civilization-history]] to cultivate. For small cultivators with limited
 budgets, Oyster mushrooms are the clear entry point into the gourmet mushroom
 industry. Few other mushrooms demonstrate such adaptability, aggressiveness,
 and productivity. Worldwide Oyster mushroom production surged from 169,000
@@ -52,11 +52,11 @@ brown, golden, and pink. Key cultivated species include:
 ## Biological Efficiency
 
 Oyster mushrooms achieve some of the highest biological efficiencies in
-cultivated mushrooms, often exceeding 100%. During decomposition of dry
+[[fungi-cultivated-mushrooms-pathogens-competitors]], often exceeding 100%. During decomposition of dry
 straw, approximately 50% of mass is liberated as carbon dioxide, 20% is
 lost as residual water, 20% remains as spent compost, and 10% is converted
 into dry mushrooms. This equates to roughly 25% conversion of wet substrate
-mass into fresh mushrooms. Yield varies with harvest timing and substrate
+mass into fresh mushrooms. Yield varies with [[cannabis-harvest-timing-visual-cues]] and substrate
 composition.
 
 ## Nutritional Value
@@ -69,7 +69,7 @@ genetics.
 
 ## Cultivation Challenges
 
-Three notable disadvantages persist in Oyster mushroom cultivation:
+Three notable disadvantages persist in Oyster [[accessible-mushroom-cultivation-for-disabilities]]:
 
 1. **Rapid spoilage**: Mushrooms remain presentable for market for only a
    few days, supporting the argument that local producers should supply
@@ -82,7 +82,7 @@ Three notable disadvantages persist in Oyster mushroom cultivation:
 
 ## By-Products
 
-After the crop cycle, spent Oyster mushroom substrate has significant
+After the crop cycle, spent Oyster [[gourmet-medicinal-mushroom-substrate-preparation]] has significant
 value. It can be rendered into nutritious animal feed for cattle, chickens,
 and pigs, potentially replacing wasteful grain feeding practices. The
 myceliated straw also serves as excellent compost material. At least five
@@ -102,6 +102,9 @@ strains of P. pulmonarius widely grown commercially.
 
 ## See Also
 
-- [[mushroom-mycelium-and-mycofiltration]]
+- mushroom-mycelium-and-mycofiltration
 - [[maitake-grifola-frondosa]]
-- [[growing-gourmet-supplemented-sawdust-sterilization]]
+- growing-gourmet-supplemented-sawdust-sterilization
+- [[decomposition]]
+- [[pleurotus-species]]
+- [[mycofiltration]]

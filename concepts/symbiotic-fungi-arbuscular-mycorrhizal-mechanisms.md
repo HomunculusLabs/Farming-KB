@@ -1,10 +1,10 @@
 ---
-title: Arbuscular Mycorrhizal Mechanisms
+title: comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi Mechanisms
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
-tags: [mycorrhizal, arbuscular, symbiotic symbiotic symbiotic symbiotic symbiotic-fungi-mycorrhiza-history-frank-discovery symbiotic symbiotic-fungi-lichen-symbiosis-agriculture mechanisms mechanisms symbiotic-fungi-streptomycete-mycorrhiza-helper-interactions helper interactions symbiotic-fungi-siderophore-mycorrhizal-iron-acquisition iron acquisition mycorrhizal symbiotic fungi mycorrhizal-nitrogen-transfer-between-plants networks between plants transfer networks, symbiosis, phosphorus, networks]
-sources: [raw/papers/symbiotic fungi arbuscular mycorrhizal colonization patterns proteomics techniques.md]
+tags: [mycorrhizal, arbuscular, symbiotic symbiotic symbiotic symbiotic symbiotic-fungi-mycorrhiza-history-frank-discovery symbiotic symbiotic-fungi-lichen-symbiosis-agriculture mechanisms mechanisms symbiotic-fungi-streptomycete-mycorrhiza-helper-interactions helper interactions symbiotic-fungi-siderophore-mycorrhizal-iron-acquisition iron acquisition mycorrhizal mycelium-running-symbiotic-fungi-relationships mycorrhizal-nitrogen-transfer-between-plants networks between plants transfer networks, symbiosis, phosphorus, networks]
+sources: [raw/papers/symbiotic fungi arbuscular arbuscular-mycorrhizal-colonization-patterns patterns proteomics techniques.md]
 ---
 
 # Arbuscular Mycorrhizal Mechanisms
@@ -13,7 +13,7 @@ Source: symbiotic fungi arbuscular [[arbuscular-mycorrhizal-networks]] for an ov
 - **Extraradical hyphae**: extend from roots into soil for nutrient acquisition
 
 The plasmalemma of the host cell invaginates and encloses the arbuscules, creating an
-extensive interface for nutrient exchange. As with all AM fungi, hyphae multiply within
+extensive interface for [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]. As with all AM fungi, hyphae multiply within
 host cortical tissues and never traverse through the endodermis.
 
 ## Nutrient Uptake and Transfer
@@ -25,7 +25,7 @@ Phosphorus uptake pathway:
 
 1. Soil phosphate is taken up into extraradical hyphae by phosphate transporters
 2. Phosphate is condensed into polyphosphate
-3. Polyphosphate is translocated by protoplasmic streaming into intraradical hyphae
+3. Polyphosphate is translocated by protoplasmic streaming into [[arbuscule-intraradical-hyphae-isolation-mycorrhizal-roots]]
 4. Transfer to host plant occurs at the arbuscular interface
 
 AM fungi increase the absorptive area of roots 10 to 1,000 times. Their mycelia are
@@ -40,7 +40,7 @@ The arbuscule is the main site for nutrient exchange. Key enzymatic markers incl
 - **Alkaline phosphatase (ALP)**: expressed in arbuscules; relates to phosphorus uptake
   efficiency and sugar metabolism
 - **Acid phosphatase (ACP)**: also associated with AM fungal structures
-- **Succinate dehydrogenase (SDH)**: indicates metabolic activity of fungal structures
+- **Succinate dehydrogenase (SDH)**: indicates [[arbuscule-isolation-metabolic-activity-assays]] of fungal structures
 
 Arbuscules can be isolated from host tissue through enzymatic digestion with cellulase
 and pectinase followed by Percoll gradient centrifugation. The Lotus japonicus har1
@@ -106,5 +106,7 @@ species, suggesting plant interconnectedness may be greater than previously thou
 
 ## See Also
 
+- [[mycorrhizal-pathogen-resistance-mechanisms]]
+
 - [[arbuscular-mycorrhizal-fungal-diversity]] — species diversity of Glomeromycota
-- [[mycorrhizal-nitrogen-transfer-between-plants]] — inter-plant nutrient sharing via AM networks
+- mycorrhizal-nitrogen-transfer-between-plants — inter-plant nutrient sharing via AM networks

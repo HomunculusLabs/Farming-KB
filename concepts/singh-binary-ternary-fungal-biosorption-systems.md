@@ -1,5 +1,5 @@
 ---
-title: "Binary and Ternary Fungal Biosorption Systems"
+title: "Binary and Ternary dighton-fungal-biosorption-heavy-metal-remediation Systems"
 created: 2026-04-28
 tags: [mycoremediation, biosorption, heavy-metals, multimetal-systems]
 date: 2026-04-25
@@ -13,7 +13,7 @@ type: concept
 
 While single-metal fungal biosorption is well characterized, real-world
 wastewaters typically contain multiple metal contaminants simultaneously.
-The competitive uptake of multimetal mixtures by fungal biomass is a
+The competitive uptake of multimetal mixtures by [[bioremediation-fungal-biomass-biosorbent-material]] is a
 complex process involving antagonistic and synergistic interactions that
 significantly affect biosorption performance and reactor design.
 
@@ -60,7 +60,7 @@ metal biosorption. Key findings include:
   systems follow the order Hg(II) > Cd(II) > Zn(II); immobilized
   preparations show lower total capacities in multimetal versus
   single-metal systems
-- **Phanerochaete chrysosporium**: Pb(II) ions are more preferential
+- **[[staycare-phanerochaete-chrysosporium-in-bioremediation]]**: Pb(II) ions are more preferential
   than Cd(II) during simultaneous sorption at pH 6.0
 
 ## Ternary Biosorption Systems

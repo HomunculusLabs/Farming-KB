@@ -39,7 +39,7 @@ The vine climbs by twining and requires a strong support structure such as a per
 
 **Leaves** are alternate, broadly ovate to cordate, 8–15 cm long and 7–12 cm wide, with serrate margins and a prominent drip tip.
 
-The upper leaf surface is dark green and often sparsely covered with reddish-brown hairs.
+The upper [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is dark green and often sparsely covered with reddish-brown hairs.
 
 **Flowers** are white to cream-colored, approximately 3–5 cm in diameter, borne in axillary cymes of 1–3 flowers.
 
@@ -63,11 +63,11 @@ In the wild, it grows as a forest-edge vine at elevations of 600–2,000 meters 
 
 It prefers deep, fertile, well-drained loamy soils with adequate moisture and partial shade.
 
-The species is naturalized in several countries including New Zealand, Italy, the United States (California), and Chile.
+The species is naturalized in several countries including New Zealand, Italy, the [[dmt-containing-plants-united-states-halpern]] (California), and Chile.
 
 Naturalized populations occasionally establish from discarded fruit in mild temperate regions.
 
-It requires a growing season of 200–240 frost-free days and approximately 600–1,200 mm of annual rainfall.
+It requires a [[savory-growing-season-and-non-growing-season-management]] of 200–240 frost-free days and approximately 600–1,200 mm of annual rainfall.
 
 Winter chilling requirements are 600–900 hours below 7°C to ensure proper bud break and flowering.
 
@@ -127,8 +127,10 @@ Organic and greenhouse production methods have gained market share in premium ex
 
 ## See Also
 
+- [[actinidia-arguta]]
+
 - [[vitis-vinifera]]
 - [[passiflora-edulis]]
 - [[fukuoka-citrus-orchard-establishment-bare-hillside]]
-- [[rubus-idaeus-entity]]
+- rubus-idaeus-entity
 - [[cydonia-oblonga]]

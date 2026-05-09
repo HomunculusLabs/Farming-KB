@@ -16,7 +16,7 @@ Sclerotia (singular: sclerotium) are compact, hardened masses of fungal [[fungal
 
 ## Cultivation on Grass Seed Substrate
 
-Grass seed is an ideal substrate for sclerotia production due to its loose structure, which allows sclerotia to form freely between individual seeds without physical obstruction.
+Grass seed is an ideal substrate for [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] due to its loose structure, which allows sclerotia to form freely between individual seeds without physical obstruction.
 
 ### Preparation
 1. Prepare grass seed substrate in jars as described in the grass seed substrate documentation
@@ -31,7 +31,7 @@ Grass seed is an ideal substrate for sclerotia production due to its loose struc
 - **Longest growth period**: Sclerotia of *P. tampanensis* continue to enlarge until approximately 4 months after inoculation
 
 ### Expected Yields
-- *Psilocybe tampanensis*: Sclerotia can constitute a significant percentage of the substrate dry weight
+- *[[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]]*: Sclerotia can constitute a significant percentage of the substrate dry weight
 - *Psilocybe mexicana*: Typically produces one large flush of sclerotia
 - Yields vary substantially by strain, substrate quality, and incubation conditions
 
@@ -76,7 +76,7 @@ Sclerotia serve critical ecological functions:
 | Melanin/rind | Present | Absent |
 | Nutrient density | High | Low |
 | Survival time | Months to years | Days to weeks |
-| Secondary metabolites | Concentrated | Dilute |
+| [[antifungal-secondary-metabolites-coprophilous-fungi]] | Concentrated | Dilute |
 | Growth state | Dormant/quiescent | Active |
 
 ## Economic and Commercial Importance
@@ -89,7 +89,7 @@ Sclerotia-producing fungi have significant economic value across several domains
 - **Morchella spp.**: Morel sclerotia are essential to the cultivation cycle of this high-value gourmet mushroom
 
 ### Pharmaceutical Applications
-- **Claviceps purpurea** (ergot): Source of ergot alkaloids used in pharmaceutical manufacturing ([[ergometrine]] for postpartum hemorrhage)
+- **[[bloomfield-ergot-claviceps-purpurea-ergotism]]** (ergot): Source of ergot alkaloids used in pharmaceutical manufacturing ([[ergometrine]] for postpartum hemorrhage)
 - **Wolfiporia extensa**: Contains polysaccharides with demonstrated immunomodulatory, anti-inflammatory, and antitumor activities
 - Research into sclerotial polysaccharides and secondary metabolites is an active area of drug discovery
 
@@ -104,10 +104,10 @@ Current areas of active research in sclerotia biology include:
 - **Molecular regulation**: Identification of genes and signaling pathways controlling sclerotial initiation and development
 - **Metabolomics**: Comprehensive profiling of secondary metabolites produced during sclerotia maturation
 - **Synthetic biology**: Engineering sclerotia production in non-native fungal species for metabolite production
-- **Climate adaptation**: Understanding how changing temperature and moisture patterns affect sclerotial survival and germination in soil ecosystems
+- **[[jeavons-climate-adaptation-growing-seasons]]**: Understanding how changing temperature and moisture patterns affect sclerotial survival and germination in soil ecosystems
 
 ## References
 
-- Stamets, P. (1996). Psilocybin Mushrooms of the World. Ten Speed Press.
+- Stamets, P. (1996). [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World. Ten Speed Press.
 - Willetts, H.J. (1978). "Sclerotium formation." In: The Filamentous Fungi, Vol. 3, pp. 103–129. Edward Arnold.
 - Coley-Smith, J.R., Cooke, R.C. (1971). "Survival and germination of fungal sclerotia." Annual Review of Phytopathology, 9, 65–92.

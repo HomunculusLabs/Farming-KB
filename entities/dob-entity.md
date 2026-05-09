@@ -16,7 +16,7 @@ sources:
 | 100 mg/Kg | Overt shaking at 20 min, persistent hyperactivity |
 | 125 mg/Kg | Loss of righting reflex at 15 min, convulsions at 50 min, death at 80 min |
 | 150 mg/Kg | Spontaneous convulsions at 10 min, death at 22 min |
-**LD50:** Between 100–125 mg/Kg (IP) in mice. **ED50 in man:** ~25 µg/Kg (2 mg for 80 kg person). **Therapeutic index (LD50/ED50):** Exceeds 1000 in mice. However, Shulgin noted that the actual safety margin in humans is likely much lower than this ratio implies.
+**LD50:** Between 100–125 mg/Kg (IP) in mice. **ED50 in man:** ~25 µg/Kg (2 mg for 80 kg person). **[[cannabis-therapeutic-index-overview]] (LD50/ED50):** Exceeds 1000 in mice. However, Shulgin noted that the actual safety margin in humans is likely much lower than this ratio implies.
 ## Radiolabeled DOB Research
 The bromine atom makes DOB a uniquely valuable research tool when labeled with radioactive isotopes (82Br or 77Br). Whole-body scanner studies in human subjects have revealed a fascinating pharmacokinetic pattern:
 - DOB accumulates **first in the lungs** for several hours
@@ -113,4 +113,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -1,23 +1,23 @@
 ---
-title: Root Cellar Design and Construction
+title: Root root cellar design and construction and Construction
 created: 2026-04-17
 updated: 2026-04-18
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources: []
 ---
 
 # Root Cellar Design and Construction
 
 A root cellar uses natural earth insulation to store food at optimal
-temperature and humidity without electricity. Essential for a self-sufficient
+[[greg-green-temperature-and-humidity-control]] without electricity. Essential for a self-sufficient
 homestead.
 
 ## Design Requirements
 
 ### Temperature: 32-40F (0-4C)
-Most root vegetables store best at 32-35F. Below 28F freezes produce; above
+Most [[growing-root-vegetables-guide]] store best at 32-35F. Below 28F freezes produce; above
 45F accelerates spoilage. Soil below frost line stays ~50-55F year-round;
 ventilation cools the cellar below this.
 
@@ -60,7 +60,7 @@ barbed wire between for grip. Plaster with earthen plaster. Dome shape is
 strongest. Excellent thermal mass. Labor intensive.
 
 ### Straw Bale
-Timber frame with straw bale walls, plastered with earthen or lime plaster.
+[[comparison-bamboo-construction-vs-timber-frame-basics]] with straw bale walls, plastered with earthen or [[comparison-lime-plaster-vs-earthen-plaster]].
 R-30+ insulation. Excellent humidity regulation (breathable walls). Must keep
 bales dry. Best for earth-bermed designs where bales don't contact ground.
 
@@ -98,13 +98,13 @@ bales dry. Best for earth-bermed designs where bales don't contact ground.
 - Start with 8x8 ft (64 sq ft — plenty for most families).
 - Face door south to avoid cold north winds.
 - Thick, weather-stripped insulated door with storm door/airlock.
-- Wooden or wire shelving, 12-18 in apart, allow air circulation.
+- Wooden or wire shelving, 12-18 in apart, allow [[stamets-growing-room-air-circulation-co2-management]].
 - Keep thermometer and hygrometer inside; check regularly.
 - No natural light needed. Battery-powered light sufficient for access.
 
 ## See Also
 
 - [[organic-garden-soil-preparation]] — Growing crops for root cellar storage
-- [[permaculture-design-course-notes]]
+- permaculture-design-course-notes
 - [[permaculture-access-and-circulation-design]]
 - [[fukuoka-soil-self-improvement-without-tillage]]

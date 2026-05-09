@@ -19,11 +19,11 @@ Verticillium lecanii is a fungus with dual ecological roles as an
 entomopathogen (insect pathogen) and a mycoparasite of fungal plant
 pathogens. It has been reclassified taxonomically and is now placed in
 the genus Lecanicillium within the Cordycipitaceae family. The species
-is widely used as a biological control agent against insect pests
+is widely used as a [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent against insect pests
 (particularly aphids, whiteflies, and thrips in greenhouse crops) and
 fungal plant pathogens (particularly powdery mildews). The source text
 documents V. lecanii in multiple contexts: mitochondrial genome mapping
-alongside other entomopathogenic fungi, occurrence as a fungal
+alongside other [[singh-entomopathogenic-fungi-biocontrol-agents]], occurrence as a fungal
 endophyte in living bark, association with aphid galls, and its
 mycoparasitic activity against powdery mildews.
 
@@ -72,7 +72,7 @@ mycoparasitic activity against powdery mildews.
 - Fungal growth inside the insect body produces toxins and
   causes death within 3 to 7 days
 - Commercial formulations are widely used in greenhouse
-  vegetable production
+  [[dry-gardening-unirrigated-vegetable-production-solomon]]
 - Effective against greenhouse whitefly (Trialeurodes
   vaporariorum) and various aphid species
 
@@ -108,11 +108,11 @@ mycoparasitic activity against powdery mildews.
   for saprobic growth
 - Also found as an endophyte of foliage, suggesting a
   complex ecological niche spanning plant, insect, and
-  fungal interactions
+  [[singh-fungal-interactions-with-heavy-metals-in-soil]]
 
 ### Research Methods
 - Isolation on selective media with antibacterial antibiotics
-- Molecular identification via ITS rDNA sequencing and
+- [[biodiversity-fungal-molecular-identification-dna-barcoding]] via ITS rDNA sequencing and
   mtDNA RFLP analysis
 - Bioassays against target insect pests under controlled
   conditions
@@ -125,7 +125,7 @@ mycoparasitic activity against powdery mildews.
   pests
 - Provides an alternative to chemical insecticides in
   integrated pest management programs
-- Dual activity against insects and fungal pathogens offers
+- Dual activity against insects and [[bloomfield-fungal-pathogens-and-parasites]] offers
   unique biocontrol potential
 
 ## Relevance

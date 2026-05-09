@@ -64,7 +64,7 @@ Seeds are ribbed and marked with dark longitudinal stripes, with a pleasant swee
 
 Myrrhis odorata is native to the mountains of central and southern Europe, from the Pyrenees eastward to the Balkans and Carpathians.
 
-It has been widely introduced and naturalized in northern Europe, the British Isles, North America, and parts of New Zealand.
+It has been widely introduced and naturalized in northern Europe, the British Isles, [[psilocybin-north-america-pacific-northwest]], and parts of New Zealand.
 
 The species prefers partial shade to full shade in moist, humus-rich soils along woodland edges and stream banks.
 
@@ -74,7 +74,7 @@ Naturalized populations often establish in hedgerows, old gardens, and disturbed
 
 ## Chemistry and Pharmacology
 
-The essential oil of Myrrhis odorata contains several bioactive compounds responsible for its flavor and medicinal properties.
+The [[permaculture-designers-manual-essential-oil-plants]] of Myrrhis odorata contains several [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] responsible for its flavor and medicinal properties.
 
 The primary volatile constituents include **anethole**, **myrtenol**, and various sesquiterpenes.
 
@@ -98,13 +98,13 @@ The high vitamin C content of young spring leaves made the plant valuable for pr
 
 ## Culinary and Edible Uses
 
-Sweet cicely is one of the few culinary herbs with a genuinely sweet flavor, allowing it to reduce sugar in recipes.
+Sweet cicely is one of the few [[holzer-medicinal-and-culinary-herbs-compendium]] with a genuinely sweet flavor, allowing it to reduce sugar in recipes.
 
 Young leaves are used raw in salads or cooked as a pot herb, and they complement both fruit desserts and savory dishes.
 
 The green seeds are used whole in fruit conserves, stewed fruits, and rhubarb preparations to reduce tartness.
 
-The roots can be cooked as a root vegetable with a sweet parsnip-like flavor, though this use is less common today.
+The roots can be cooked as a [[fukuoka-western-root-vegetable-deficiency]] with a sweet parsnip-like flavor, though this use is less common today.
 
 The plant was historically used to flavor liqueurs, cordials, and herbal teas throughout central Europe.
 
@@ -116,11 +116,13 @@ The plant prefers rich, moist soil in partial shade and is hardy to USDA zone 4 
 
 It self-seeds readily in favorable conditions and can become a persistent but not invasive garden resident.
 
-Division of established clumps in early spring or autumn is the most reliable vegetative propagation method.
+Division of established clumps in [[coleman-overwintered-onions-and-early-spring-crops]] or autumn is the most reliable vegetative propagation method.
 
 The plant requires minimal maintenance once established, making it suitable for low-input permaculture and woodland gardens.
 
 ## See Also
+
+- [[viola-odorata]]
 
 - [[artemisia-dracunculus]]
 - [[levisticum-officinale]]

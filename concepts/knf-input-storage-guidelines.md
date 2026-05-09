@@ -1,5 +1,5 @@
 ---
-title: "KNF Input Storage Guidelines"
+title: "KNF knf input storage guidelines Guidelines"
 created: 2026-04-28
 tags: [knf, natural-farming, storage, preservation, inputs]
 date: 2026-04-25
@@ -14,9 +14,9 @@ Proper storage of [[cho-fermented-plant-juice-preparation]], [[knf-fmc-floor-and
 
 ## IMO Storage
 
-Indigenous Microorganisms require special storage conditions:
+[[beneficial-indigenous-microorganisms-bim]] require special [[vegetable-storage-conditions-by-temperature-and-humidity]]:
 - IMO-3 should be kept in a well-ventilated place
-- Store in a container with a net or porous cover for air circulation
+- Store in a container with a net or porous cover for [[stamets-growing-room-air-circulation-co2-management]]
 - During storage, IMO-3 may become warm; this is normal
 - IMOs must be prepared fresh every year for continued results
 - Microorganisms must be continuously maintained in the soil
@@ -32,8 +32,8 @@ Choosing the right container affects input quality:
 - Clay jars: Best for most inputs; breathable and naturally cool
 - Glass jars: Good alternative; brown glass preferred over clear
 - Polyethylene containers: Acceptable for some inputs like FAA
-- Plastic containers: Avoid for IMO and FPJ preparation
-- Wood or bamboo: Required for IMO collection, not for storage
+- Plastic containers: Avoid for IMO and [[knf-fpj-preparation-and-precautions]]
+- Wood or bamboo: Required for [[bahay-kubo-imo-collection-and-preparation]], not for storage
 - Porous paper covers: Allow gas exchange during fermentation
 - Airtight lids: Used only after fermentation is complete for storage
 ## Practical Applications
@@ -113,4 +113,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

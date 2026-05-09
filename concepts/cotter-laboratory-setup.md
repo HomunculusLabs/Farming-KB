@@ -1,9 +1,9 @@
 ---
-title: Laboratory Setup for Mushroom Cultivation
+title: [[lemon-cannabis-alchemy-reflux-apparatus-and-laboratory-setup]] for mushroom-cultivation
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
-tags: [[mycology, laboratory, cultivation, equipment]
+tags: mycology, laboratory, cultivation, equipment]
 sources: [cotter-organic-mushroom-farming-mycoremediation]
 ---
 # Laboratory Setup for Mushroom Cultivation
@@ -12,46 +12,37 @@ Setting up a home mushroom cultivation lab enables sterile tissue culture, spawn
 
 ## Space Requirements
 
-- Any enclosed room works: a closet, partitioned room, or even a sanitized bathroom
-- Floors must be smooth (concrete, tile, or linoleum) for easy cleaning
-- Entry should be well-sealed to prevent contaminated air from entering
-- The space should be dedicated to lab work when in use; avoid traffic and drafts
-- Prepare the lab at least one hour before starting transfers, allowing the HEPA filter to clean the air several times over
+Any enclosed room works — a closet, partitioned room, or even a sanitized bathroom. Floors must be smooth (concrete, tile, or linoleum) for easy cleaning. Entry should be well-sealed to prevent contaminated air from entering. The space should be dedicated to lab work when in use; avoid traffic and drafts. Prepare the lab at least one hour before starting transfers, allowing the HEPA filter to clean the air several times over. Keep a logbook near the workspace for recording culture transfers, dates, and observations.
 
 ## Essential Equipment
 
-- Pressure cooker or sterilizer (rated for 15 PSI; metal-to-metal seals preferred over rubber gaskets)
+- Pressure cooker or sterilizer (rated for 15 PSI; metal-to-metal seals preferred)
 - Laminar flow hood with HEPA filter
 - Agar supplies (powdered agar, potatoes or malt extract)
 - Petri plates (glass reusable or disposable plastic)
 - Erlenmeyer flasks or wide-bottomed glass containers
 - Inoculation loops, scalpels, and dental picks
 - Alcohol lamp for flame sterilization
-- 70% isopropyl alcohol spray for sanitizing surfaces and tools
-- Nitrile or latex gloves
-- Parafilm or tape for sealing plates
-- Infrared temperature gauge (~$30 at hardware stores)
-- Colored permanent markers for labeling plates
+- 70% isopropyl alcohol spray, nitrile or latex gloves, Parafilm or tape
+- Infrared temperature gauge (~$30 at hardware stores) and colored permanent markers
+
+A basic lab can be assembled for under $500. Cotter emphasizes that functionality matters more than appearance.
 
 ## Laminar Flow Hood
 
-The laminar flow hood is the most critical piece of equipment for sterile tissue culture work. It provides a wall of sterile air across the work surface.
-
-- Commercial units advertise 100-600 CFM; ideal is approximately 550 CFM
-- Can be built from any sturdy material (wood, scrap metal, galvanized steel)
-- Interior must be impervious to water; seal wood with epoxy or laminate
-- HEPA filter lasts 1 year with heavy use, 2-3 years with a prefilter on air intake
-- Seal all joints and seams with aluminum tape (HVAC ductwork tape, not silicone caulk)
-- Test for air leaks with a smoldering incense stick; if the glowing end brightens near a seam, air is being pulled in
+The laminar flow hood is the most critical piece of equipment, providing a wall of sterile air across the work surface. Commercial units advertise 100-600 CFM; ideal is approximately 550 CFM. The hood can be built from any sturdy material (wood, scrap metal, galvanized steel). Interior must be impervious to water — seal wood with epoxy or laminate. HEPA filter lasts 1 year with heavy use, 2-3 years with a prefilter on air intake. Seal all joints and seams with aluminum tape (HVAC ductwork tape, not silicone caulk). Test for air leaks with a smoldering incense stick; if the glowing end brightens near a seam, air is being pulled in.
 
 ### Building a Laminar Flow Hood
 
-1. Build a box from sturdy material; dimensions should accommodate the HEPA filter
+1. Build a box from sturdy material accommodating the HEPA filter dimensions
 2. Install the HEPA filter on one side and the blower on the opposite side
-3. Seal all joints and seams with aluminum tape, extending tape over filter frame edges
+3. Seal all joints and seams with aluminum tape, extending over filter frame edges
 4. Turn on the blower and check for adequate airflow
 5. Test all seams with incense to identify and seal any leaks
-6. Professional appearance is unnecessary; functionality is what matters
+
+### Flow Hood Maintenance
+
+A prefilter on the blower intake extends HEPA life dramatically. Replace the prefilter monthly and the HEPA annually. Perform the incense test when replacing the HEPA. Keep the interior wiped down with 70% alcohol before and after each use session.
 
 ## Agar Preparation
 
@@ -62,15 +53,13 @@ The laminar flow hood is the most critical piece of equipment for sterile tissue
 3. Strain the potatoes; measure the hot broth
 4. Pour broth into an Erlenmeyer flask; add 1 teaspoon (~5g) agar powder per 2 cups of broth
 5. Add agar while broth is still hot to prevent clumping; never use cold water
-6. Swirl to dissolve
 
 ### Step 2: Sterilize the Agar
 
 1. Place flask in pressure cooker; plug the top with cotton or polyester fill, cover with foil
 2. Process at 15 PSI for 20 minutes
 3. Allow pressure to drop to 2-3 PSI before moving the cooker
-4. Open the cooker only when pressure is still slightly above 0 PSI (never below, to avoid sucking in contaminated air)
-5. Move hot flask to sanitized work surface using alcohol-soaked paper towel or sanitized jar lifter
+4. Open the cooker only when pressure is still slightly above 0 PSI to avoid sucking in contaminated air
 
 ### Step 3: Pour the Agar
 
@@ -78,50 +67,34 @@ The laminar flow hood is the most critical piece of equipment for sterile tissue
 2. If adding antibiotics, add between 105-110°F (41-43°C)
 3. Wipe down petri plate sleeve with alcohol; trim bottom off sleeve
 4. Invert the stack of plates onto the work surface; remove the sleeve
-5. Divide the stack into groups of 4-5 for efficient pouring
+5. Divide into groups of 4-5 for efficient pouring
 6. Pour agar into each plate base until half full; replace the lid
 7. Two cups of agar fills approximately 20-25 plates
 8. Allow plates to cool to room temperature (~1 hour); check for proper gelling
 
 ### Step 4: Store Agar Plates
 
-- Label plates with date, recipe, and any additives
-- Use color-coded markers for different additives (e.g., green for penicillin G)
-- Seal cultured plates with Parafilm or tape
-- Store extra plates in ziplock bags (3-4 per bag) in the refrigerator
-- Plates keep for 1-2 months refrigerated
-- Discard any bags showing circular green, yellow, or black powdery growth
+Label plates with date, recipe, and additives using color-coded markers. Seal cultured plates with Parafilm. Store extra plates in ziplock bags (3-4 per bag) in the refrigerator for 1-2 months. Discard any bags showing circular green, yellow, or black powdery growth.
 
 ## Alternative Agar Bases
 
-Potato agar is difficult for bacteria to grow on, making it ideal for beginners. For picky species, substitute other bases:
-
-- Powdered brewer's malt
-- Dog or rabbit food
-- Tomato juice
-- Cattle feed
-- Cornmeal
-- Beet pulp
-
-Adding a tablespoon of finely ground sawdust or screened wheat straw powder from the mushroom's preferred fruiting substrate can help cultures adapt and express needed enzymes. Track formulas in a journal to correlate species performance with agar recipes.
+Potato agar is difficult for bacteria to grow on, ideal for beginners. For picky species, substitute powdered brewer's malt, dog or rabbit food, tomato juice, cattle feed, cornmeal, or beet pulp. Adding a tablespoon of finely ground sawdust or wheat straw powder from the mushroom's preferred fruiting substrate can help cultures adapt. The [[mushroom-agar-media-recipes]] reference provides detailed formulations for many species.
 
 ## Adding Antibiotics to Agar
 
-- Ampicillin and streptomycin limit bacterial contaminants
-- Sterile, injectable penicillin G (livestock grade) is most practical and economical
-- Add antibiotic when agar cools below 110°F (43°C); above this temperature destroys it
-- Use a sterile syringe; keep the syringe and antibiotic jar together in a ziplock bag in the refrigerator
-- Wipe both with alcohol before each use
-- Antibiotics can also be used in liquid cultures for longer storage
+Ampicillin and streptomycin limit bacterial contaminants. Sterile, injectable penicillin G (livestock grade) is most practical and economical. Add antibiotic when agar cools below 110°F (43°C); higher temperatures destroy it. Use a sterile syringe; keep syringe and antibiotic jar together in a ziplock bag in the refrigerator.
 
-## Cleanliness Protocols
+## Cleanliness and Contamination
 
 - Wipe down the entire laminar flow hood interior with 70% isopropyl alcohol before work
 - Wipe down all tools and gloves before beginning transfers
 - Leave the room and shut the door for at least one hour after sanitizing
-- Never open a contaminated plate near the laminar flow hood or in the clean room
-- Always have extra prepoured plates ready for unexpected finds in the field
+- Never open a contaminated plate near the laminar flow hood
+- Shower and put on clean clothes before lab work; hair is a major contamination source
+- Work slowly and deliberately — rushing causes more contamination than any other factor
 
-- [[mushroom-cultivation-basics]]
-- [[mushroom-grain-spawn-preparation]]
-- [[mycoremediation-stamets-approach]]
+The primary contamination vector is airborne spores, addressed directly by the flow hood. Humans shed millions of particles per hour, so keep your face back from the work area. Flame-sterilize scalpels and loops between every transfer, and always pressure-cook media at 15 PSI for at least 20 minutes.
+
+## From Lab to [[spawn-production]]
+
+Once clean cultures are established on agar, the next step is transferring mycelium to grain for spawn production. The [[cotter-spawn-production]] method follows directly from these lab techniques: grain jars are sterilized in the same pressure cooker, inoculated under the same flow hood, and incubated until fully colonized. The [[mycoremediation]] applications that Cotter explores in his later chapters all depend on producing large volumes of clean spawn, which in turn depends on this laboratory foundation.

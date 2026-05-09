@@ -1,5 +1,5 @@
 ---
-title: Ayahuasca Shamanism in the Amazon (Harner)
+title: harner ayahuasca shamanism amazon in the Amazon (Harner)
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -10,19 +10,19 @@ tags: [ayahuasca, shamanism]
 
 # Ayahuasca Shamanism in the Amazon
 
-Michael Harner's edited volume "Hallucinogens and Shamanism" (1973) provides some of the earliest detailed anthropological accounts of ayahuasca (Banisteriopsis) shamanism in the Upper Amazon. The book dedicates its first major section entirely to this tradition, with ethnographic chapters on the Cashinahua (Kensinger), Jivaro (Harner), Sharanahua (Siskind), and Campa (Weiss) peoples. A later chapter by Dobkin de Rios extends the analysis to urban settings. Together these chapters establish ayahuasca as central to Amazonian cosmology and social organization.
+[[michael-harner]]'s edited volume "Hallucinogens and Shamanism" (1973) provides some of the earliest detailed anthropological accounts of ayahuasca (Banisteriopsis) shamanism in the Upper Amazon. The book dedicates its first major section entirely to this tradition, with ethnographic chapters on the Cashinahua (Kensinger), Jivaro (Harner), Sharanahua (Siskind), and Campa (Weiss) peoples. A later chapter by Dobkin de Rios extends the analysis to urban settings. Together these chapters establish ayahuasca as central to Amazonian cosmology and social organization.
 
 ## The Upper Amazon as a Living Laboratory
 
-Harner introduces the Upper Amazon rain forest as "one of the last remaining areas of the world where hallucinogenic drugs are used under essentially aboriginal conditions." The four papers in the Amazon section are all based on fieldwork among American Indian tribes where shamanistic practices "typically involve the ingestion of a hallucinogenic tea or brew made from the Banisteriopsis vine." The significance of this region for the study of shamanism cannot be overstated, as the Amazonian cultures have preserved an emphasis on shamanism perhaps because they were "untrammeled by a state religion." Similar circumstances, Harner notes, are "usually found only in the most remote parts of the Old World."
+Harner introduces the Upper Amazon rain forest as "one of the last remaining areas of the world wh [[metzner-hallucinogenic-drugs-psychotherapy-shamanism]] rugs are used under essentially aboriginal conditions." The four papers in the Amazon section are all based on fieldwork among [[harner-american-indian-peyote-rituals]] tribes where shamanistic practices "typically involve the ingestion of a hallucinogenic tea or brew made from the Banisteriopsis vine." The significance of this region for the study of shamanism cannot be overstated, as the Amazonian cultures have preserved an emphasis on shamanism perhaps because they were "untrammeled by a state religion." Similar circumstances, Harner notes, are "usually found only in the most remote parts of the Old World."
 
 ## The Ayahuasca Brew: Botanical and Pharmacological Background
 
 The drink is commonly called yage or yaje in Colombia, ayahuasca (Quechua: "vine of the dead") in Ecuador and Peru, and caapi in Brazil. It is prepared from one or more species of Banisteriopsis (family Malpighiaceae), typically boiled with the leaves of a companion plant. The distribution of native use extends from northwestern Colombia in the north to lowland Bolivia in the south, occurring both east and west of the Andes, and extending eastward into the upper Orinoco area. The plant has also been reported from British Guiana and from as far east as Para, Brazil, at the mouth of the Amazon.
 
-All members of the Banisteriopsis genus grow wild as tree-climbing forest vines, but some tribes cultivate the plants in their gardens as well as collecting them wild. A variety of other plants may be boiled together with Banisteriopsis depending on the tribe. Typically, however, only one other plant is added to the brew. Spruce, who originally made the botanical identification of Banisteriopsis, reported that a "twiner of the genus Haemadictyon" (now called Prestonia) was added. The Jivaro boil Banisteriopsis caapi with the leaves of a similar vine, probably also a species of Banisteriopsis, to produce the tea.
+All members of the Banisteriopsis genus grow wild as tree-climbing forest vines, but some tribes cultivate the plants in their gardens as well as collecting them wild. A variety of other plants may be boiled together with Banisteriopsis depending on the tribe. Typically, however, only one other plant is added to the brew. Spruce, who originally made the botanical identification of Banisteriopsis, reported that a "twiner of the genus Haemadictyon" (now called Prestonia) was added. The Jivaro b banisteriopsis caapi aapi with the leaves of a similar vine, probably also a species of Banisteriopsis, to produce the tea.
 
-The Jivaro brew, called natem, contains the powerful hallucinogenic alkaloids harmaline, harmine, d-tetrahydroharmine, and quite possibly N,N-dimethyltryptamine (DMT). While Banisteriopsis species exist throughout Central America and Mexico, including the Yucatan Peninsula, and at least one species is reported from the southeastern United States, their hallucinogenic use has apparently not been recorded outside South America.
+The Jivaro brew, called natem, contains the powerful hallucinogenic alkaloids harmaline, [[harmine]], d-tetrahydroharmine, and quite possibly N,N-dimethyltryptamine (DMT). While Banisteriopsis species exist throughout [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and Mexico, including the Yucatan Peninsula, and at least one species is reported from the southeastern [[dmt-containing-plants-united-states-halpern]], their hallucinogenic use has apparently not been recorded outside South America.
 
 ## The Jivaro System: "The Sound of Rushing Water"
 
@@ -59,7 +59,7 @@ Kenneth Kensinger documents Banisteriopsis use among the Peruvian Cashinahua, in
 Janet Siskind records visions and curing practices involving ayahuasca among the Sharanahua, contributing to the broader picture of Amazonian plant-mediated shamanism in the western Amazon.
 
 ### Campa (Weiss)
-Gerald Weiss's chapter on the Campa introduces an important distinction between shamanism and priesthood in the context of ayahuasca ceremonies. Weiss documents a shift from individual shamanic practice to more communal, priestly rituals, suggesting that as plant-based religious practice becomes more institutionalized, the direct relationship between individual and plant may be mediated by religious authority structures.
+Gerald Weiss's chapter on the Campa introduces an important distinction between shamanism and priesthood in the context of [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]]. Weiss documents a shift from individual shamanic practice to more communal, priestly rituals, suggesting that as plant-based religious practice becomes more institutionalized, the direct relationship between individual and plant may be mediated by religious authority structures.
 
 ### Urban Adaptation (Dobkin de Rios)
 Marlene Dobkin de Rios documents ayahuasca curing practices in a Peruvian urban slum, demonstrating the adaptation of Amazonian shamanic traditions to modern settings. Her chapter shows that ayahuasca use is not merely a pre-contact phenomenon but continues to evolve in urban contexts, treating conditions such as headaches, fever, weight loss, insomnia, and sadness.
@@ -72,9 +72,7 @@ Harner provides a rare first-person account of drinking the brew among the Conib
 
 The volume establishes ayahuasca not as a peripheral curiosity but as central to Amazonian shamanic worldview. The drug enables direct confrontation with the supernatural, reinforces belief in the reality of the spirit world, and makes shamanic practice accessible to a significant portion of the population.
 
-## Related Topics
-
-- ethnomycology
+## Related To  mycology
 - [[harner-cross-cultural-patterns-shamanic-plant-use]]
 - ethnomycology
 

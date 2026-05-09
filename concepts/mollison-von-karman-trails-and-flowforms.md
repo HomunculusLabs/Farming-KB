@@ -1,5 +1,5 @@
 ---
-title: Flow Over Landscapes: Von Karman Trails and Flowforms
+title: Flow Over Landscapes: mollison von karman trails and flowforms Trails and Flowforms
 created: 2026-04-26
 tags:
   - permaculture
@@ -17,7 +17,7 @@ type: concept
 
 Mollison examines how fluids and gases flow past fixed objects in the
 landscape, describing the Von Karman trail phenomenon and its
-implications for permaculture design of windbreaks, water features,
+implications for [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] of windbreaks, water features,
 and aerodynamic structures.
 
 ## The Overbeck Jet Model
@@ -80,7 +80,7 @@ impediments to perfect streamlined flow.
 
 ## Design Implications for Windbreaks
 
-Understanding Von Karman trails is essential for windbreak design:
+Understanding Von Karman trails is essential for [[comparison-windbreak-design-vs-species-selection]]:
 
 - A single row of trees or a fence creates alternating vortices
   downstream that can cause turbulence damaging to crops or
@@ -101,7 +101,7 @@ Understanding Von Karman trails is essential for windbreak design:
 
 In water systems, Von Karman principles inform:
 
-- **Fish pond design**: Placement of islands, posts, or submerged
+- **Fish [[comparison-pond-design-vs-dam-construction]]**: Placement of islands, posts, or submerged
   structures to create oxygenating turbulence without damaging
   erosion. Intentional weirs in salmon streams induce turbulence
   needed for fish spawning habitats.
@@ -127,4 +127,5 @@ rather than against them.
 
 - [[mollison-fractals-branching-and-conduit-design]]
 - [[mollison-stream-orders-and-branching-magnitudes]]
-- [[mollison-pond-design-freshwater-aquaculture]]
+- mollison-pond-design-freshwater-aquaculture
+- [[permaculture-design]]

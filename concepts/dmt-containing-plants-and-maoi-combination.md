@@ -17,7 +17,7 @@ hallucinogenic tryptamine found in numerous plant species worldwide.
 Indigenous peoples of the Amazon have used DMT for spiritual and
 medicinal purposes for thousands of years. When consumed orally, DMT
 is rapidly broken down by monoamine oxidase (MAO) enzymes in the gut
-and liver, rendering it inactive. To achieve oral activity, DMT must
+and liver, rendering it inactive. To achieve [[tihkal-oral-activity-mao-inhibition]], DMT must
 be combined with a monoamine oxidase inhibitor (MAOI). The most
 well-known preparation combining DMT with an MAOI is the Amazonian
 brew ayahuasca.
@@ -51,7 +51,7 @@ harmaline, and 170 mg of harmine.
 Banisteriopsis caapi is the primary MAOI source in traditional
 ayahuasca preparations. The beta-carboline MAOI content ranges from
 0.05% to 1.95% by dry weight. It is native to the Amazon rainforest
-and does not grow wild in the United States.
+and does not grow wild in the [[dmt-containing-plants-united-states-halpern]].
 
 ### Psychotria viridis (Chacruna)
 
@@ -71,9 +71,9 @@ can be ordered through the Internet.
 
 ### Desmanthus illinoensis (Prairie Bundleflower)
 
-Desmanthus illinoensis has a wide American distribution. The root bark
+Desmanthus illinoensis has a wide American distribution. The [[iboga-root-bark-preparation]]
 of this prairie legume has been found to contain 0.34% DMT by dry
-weight, making it another accessible North American source.
+weight, making it another accessible [[growing-gourmet-north-american-reishi-species]] source.
 
 ## MAOI Sources Available in the United States
 
@@ -112,5 +112,5 @@ intense and difficult to recollect.
 DMT is considered physiologically nonaddictive. The MAOI in orally
 active preparations routinely leads to nausea and vomiting. A pilot
 survey of UDV members in Brazil found no adverse health consequences
-from ayahuasca use. Sacramental ayahuasca use by the Santo Daime and
+from ayahuasca use. Sacramental ayahuasca use by the [[metzner-brazilian-ayahuasca-churches-structural-comparison-santo-daime-udv-barquinha]] and
 UDV religions is discussed in [[desmanthus-illinoensis]]

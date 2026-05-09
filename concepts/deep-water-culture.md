@@ -1,9 +1,9 @@
 ---
-title: Deep Water Culture (DWC) for Cannabis
+title: cannabis-deep-water-culture-guide (DWC) for Cannabis
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [culture, water]
@@ -11,7 +11,7 @@ tags: [culture, water]
 
 # Deep Water Culture (DWC) for Cannabis
 
-Deep Water Culture (DWC) is a hydroponic growing method in which plant roots are submerged directly in an oxygenated nutrient solution. It is one of the simplest and most productive active hydroponic systems available for cannabis cultivation. DWC systems are classified as active recovery hydroponic systems because the nutrient solution is constantly recirculated and aerated.
+Deep Water Culture (DWC) is a [[cannabis-grow-hydroponic-growing-systems]] method in which plant roots are submerged directly in an oxygenated [[cannabis-nutrient-solution-preparation]]. It is one of the simplest and most productive active hydroponic systems available for [[query-how-does-no-till-cannabis-cultivation-work]]. DWC systems are classified as active recovery hydroponic systems because the nutrient solution is constantly recirculated and aerated.
 
 ## How DWC Works
 
@@ -21,7 +21,7 @@ In a typical DWC system, seedlings or clones are held in net pots filled with ex
 
 The pH in DWC systems should be maintained between 5.5 and 6.5, with 5.8 to 6.0 being ideal. Because roots are constantly submerged in the nutrient solution, pH and EC fluctuations can affect plants more rapidly than in systems where roots have a growing medium buffer. Regular monitoring of pH, EC/TDS, and reservoir water level is essential.
 
-The reservoir temperature should be kept in a range that supports healthy root activity. Warmer water holds less dissolved oxygen, so reservoirs should be kept cool, typically between 65 and 70 degrees F (18 to 21 degrees C). An aquarium heater can be used if temperatures drop too low.
+The [[cervantes-reservoir-temperature-management]] should be kept in a range that supports healthy root activity. Warmer water holds less dissolved oxygen, so reservoirs should be kept cool, typically between 65 and 70 degrees F (18 to 21 degrees C). An aquarium heater can be used if temperatures drop too low.
 
 ## Growing Medium Selection
 
@@ -35,7 +35,7 @@ DWC systems can use a variety of growing media in the net pots:
 
 ## Cannabis Cultivation in DWC
 
-DWC is well-suited for all stages of cannabis growth. Clones and seedlings can be started in net pots and transplanted directly into the system once roots reach the nutrient solution. The system supports both vegetative growth and flowering effectively.
+DWC is well-suited for all [[query-what-are-the-stages-of-cannabis-growth]] growth. Clones and seedlings can be started in net pots and transplanted directly into the system once roots reach the nutrient solution. The system supports both vegetative growth and flowering effectively.
 
 Small flowering plants grow well in DWC, and the system is also suitable for larger plants given adequate reservoir volume. DWC systems pair well with [[cannabis-propagation-techniques]] and can produce harvest-ready plants efficiently. For Sea of Green gardens, multiple small DWC buckets can be arranged under a single lighting system.
 
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

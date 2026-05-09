@@ -1,5 +1,5 @@
 ---
-title: "META-DOT (2,4-DIMETHOXY-5-METHYLTHIOAMPHETAMINE) -- PIHKAL Entry #125"
+title: "META-DOT (2,4-DIMETHOXY-5-METHYLTHIOAMPHETAMINE) -- 2c-b-pihkal-entry-20 #125"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -64,7 +64,7 @@ poured slowly into 250 mL of saturated aqueous K2CO3. The precipitate
 that formed was removed by filtration, and dried at 125 deg C to give
 59.6 g crude potassium 2,4-dimethoxybenzenesulfonate. This was finely
 ground, and 30 g of it was treated with 35 g of POCl3 and the mixture
-heated on the steam bath for 2 h. This was cooled to room
+heated on the [[scythian-cannabis-steam-bath-ritual]] for 2 h. This was cooled to room
 temperature, and then poured over 300 mL crushed ice. When all had
 thawed, this was extracted with 2x150 mL Et2O. The extracts were
 pooled, washed with saturated brine, and the solvent removed under
@@ -100,9 +100,11 @@ under vacuum. The residue was distilled to give 8.0 g of
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
+
+- [[ortho-dot-entity-pihkal]]
 
 - [[aleph-entity-pihkal]]
 

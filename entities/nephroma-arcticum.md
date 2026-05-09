@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - Purvis, O.W. et al. (1992). "The Lichen Flora of Great Britain and Ireland." Natural History Museum Publications.
   - Jørgensen, P.M. & James, P.W. (1990). "Nephromataceae." Flora Neotropica Monograph 55.
-  - Goward, T. (1999). "The Lichens of British Columbia." Royal BC Museum, Victoria.
+  - Goward, T. (1999). "The lichens of British Columbia." Royal BC Museum, Victoria.
   - URL: https://www.lichenportal.org/
 created: 2026-04-28
 ---
@@ -53,7 +53,7 @@ Medulla is white and loosely woven. Cortex is well-developed on the upper surfac
 
 ## Distribution and Habitat
 
-**N. arcticum** has a circumpolar distribution, occurring across northern Europe (Scandinavia, Iceland, British Isles), northern North America (Alaska, Canada, northern continental US), and Siberia. It extends southward in mountainous regions.
+**N. arcticum** has a circumpolar distribution, occurring across northern Europe (Scandinavia, Iceland, British Isles), northern [[psilocybin-north-america-pacific-northwest]] (Alaska, Canada, northern continental US), and Siberia. It extends southward in mountainous regions.
 
 The species is strongly associated with old-growth coniferous forests, particularly those dominated by **Picea** (spruce) and **Abies** (fir). It most commonly grows on the trunks and branches of moss-covered trees in humid, shaded microsites.
 
@@ -65,7 +65,7 @@ As a bipartite lichen, **N. arcticum** contributes to primary productivity in bo
 
 The species is an important winter forage for caribou and reindeer in arctic and subarctic regions. Its large thallus provides substantial biomass that remains accessible above snow cover, making it a critical food resource during periods of scarcity.
 
-N. arcticum contributes to nitrogen cycling through the slow release of organically bound nitrogen as thallus fragments decompose. While it lacks a cyanobacterial photobiont capable of direct nitrogen fixation, it facilitates nutrient retention and cycling in the forest canopy.
+N. arcticum contributes to [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]] through the slow release of organically bound nitrogen as thallus fragments decompose. While it lacks a cyanobacterial photobiont capable of direct [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], it facilitates nutrient retention and cycling in the forest canopy.
 
 ## Ethnobotanical Uses
 
@@ -77,7 +77,7 @@ The species was also used as a dye lichen, producing brown to olive-green colors
 
 ## Chemistry and Bioactive Compounds
 
-Nephroma species produce a range of lichen secondary metabolites, primarily depsidones and depsides. **N. arcticum** has been reported to contain **gyrophoric acid** as its primary medullary chemistry, a compound also found in related Peltigerales species.
+Nephroma species produce a range of lichen [[antifungal-secondary-metabolites-coprophilous-fungi]], primarily depsidones and depsides. **N. arcticum** has been reported to contain **gyrophoric acid** as its primary medullary chemistry, a compound also found in related Peltigerales species.
 
 Additional compounds identified from Nephroma include **tenuiorin** and various orsellinic acid derivatives. These phenolic metabolites serve defensive functions, protecting the thallus from herbivory, UV radiation, and microbial attack.
 
@@ -89,7 +89,7 @@ Lichen polysaccharides, including glucans and galactomannans, have been isolated
 
 ## Conservation and Bioindication
 
-**N. arcticum** is sensitive to air pollution, particularly sulfur dioxide and nitrogen oxides. Its decline in southern portions of its range has been documented as an indicator of industrial air quality degradation.
+**N. arcticum** is sensitive to air pollution, particularly sulfur dioxide and nitrogen oxides. Its decline in southern portions of its range has been documented as an indicator of industrial [[cervantes-air-quality-ventilation]] degradation.
 
 In Fennoscandia, the species is considered a bioindicator of old-growth forest continuity. Its presence correlates strongly with forest stand age, structural complexity, and the absence of recent disturbance from logging or fire.
 
@@ -102,7 +102,7 @@ Conservation concerns center on habitat loss from commercial forestry operations
 
 ## See Also
 
-- [[old-growth-forest-fungi-conservation]]
+- old-growth-forest-fungi-conservation
 - boreal forest
 - arctic ecology
 - lichen bioindication
@@ -114,3 +114,4 @@ Conservation concerns center on habitat loss from commercial forestry operations
 - peltigerales
 - usnea
 - cladonia
+- [[lichens]]

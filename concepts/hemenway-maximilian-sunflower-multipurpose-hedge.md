@@ -1,5 +1,5 @@
 ---
-title: Maximilian Sunflower as Multipurpose Hedge Plant
+title: hemenway maximilian sunflower multipurpose hedge as Multipurpose Hedge Plant
 created: 2026-04-26
 tags: [plants, hedges, deer, permaculture, polyculture]
 date: 2026-04-25
@@ -37,7 +37,7 @@ barrier that deters hungry animals from strolling up a slope to
 munch on more desirable plantings. In winter, the stalks can be
 trimmed to about 4 feet high, and the deer really hate the stiff
 spikes that remain. This makes the plant a functional
-alternative or complement to a formal [[gaias-garden-living-mulches-ground-covers]] system.
+alternative or complement to a formal gaias-garden-living-mulches-ground-covers system.
 
 ## Ornamental Value
 
@@ -56,10 +56,10 @@ below a mixed border of shrubs, herbs, and flowers. This
 placement takes advantage of the plant's multiple functions:
 it protects the more valuable plantings upslope from deer,
 provides late-season color visible from the house, builds soil
-on the slope, and supports beneficial insects that also serve
+on the slope, and supports [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] that also serve
 the mixed border.
 
-The plant can also be integrated into [[hemenway-guild-design-roles-and-assembly]]. Its late-season bloom complements
+The plant can also be integrated into hemenway-guild-design-roles-and-assembly. Its late-season bloom complements
 earlier-flowering insectary plants, ensuring a continuous food
 source for pollinators and predators throughout the growing
 season.
@@ -67,7 +67,7 @@ season.
 ## Broader Lessons: Choosing Multipurpose Plants
 
 The Maximilian sunflower case study illustrates a key principle
-of ecological garden design: choose plants that serve as many
+of ecological [[comparison-mandala-garden-design-vs-keyhole-garden-design]]: choose plants that serve as many
 functions as possible. When evaluating any plant for the garden,
 consider not just its primary use but all the roles it can play:
 
@@ -78,7 +78,7 @@ consider not just its primary use but all the roles it can play:
 - Does it provide visual interest through multiple seasons?
 - Does it repel pests or serve as a trap crop?
 
-[[hemenway-cover-crops-guide]], and an ornamental border.
+hemenway-cover-crops-guide, and an ornamental border.
 
 ## Potential Drawbacks
 
@@ -86,6 +86,10 @@ The spreading habit of Maximilian sunflower can be aggressive
 in small gardens. It is best suited to larger properties where
 its rhizomatous spread can be managed or is even desirable. In
 smaller spaces, consider confining it with root barriers or
-choosing less aggressive [[gaias-garden-deer-deflecting-food-hedges]]
-- [[gaias-garden-host-plants-beneficial-insects]]
-- [[gaias-garden-living-mulches-ground-covers]]
+choosing less aggressive gaias-garden-deer-deflecting-food-hedges
+- gaias-garden-host-plants-beneficial-insects
+- gaias-garden-living-mulches-ground-covers
+## See Also
+- [[toby-hemenway]]
+- [[mollison-designers-chestnut-as-multipurpose-tree-crop]]
+- [[oyster-mushroom-sunflower-seed-hull-substrate]]

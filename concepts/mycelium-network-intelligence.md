@@ -44,7 +44,7 @@ ecosystems through scent trails.
 
 ## Sensing and Environmental Response
 
-Mycelial networks are exquisitely sensitive to environmental
+[[fungal-mycelial-networks-nutrient-translocation]] are exquisitely sensitive to environmental
 changes. Hikers, deer, and insects walking across these
 filamentous nets leave impressions that mycelia can sense and
 respond to. The network architecture shares striking
@@ -56,7 +56,7 @@ These [[mycorrhizal-networks]], and serve as foundation species in most
 terrestrial ecosystems. The Gaia hypothesis, proposed by James
 Lovelock and Lynn Margulis, suggests the biosphere intelligently
 pilots its course to sustain life. Stamets sees mycelium as the
-living network that manifests this natural intelligence, acting
+living network that manifests this [[powell-natural-intelligence-and-the-universal-computation]], acting
 as an "exposed sentient membrane, aware and responsive to changes
 in its environment."
 
@@ -66,8 +66,8 @@ The concept of mycelial network intelligence challenges
 conventional definitions of cognition. While fungi lack nervous
 systems, brains, or centralized processing centers, their
 decentralized networks demonstrate information processing,
-environmental sensing, resource optimization, and adaptive
-behavior. Understanding [[mycorrhizal-network-communication]] continues to reveal the
+[[fungal-environmental-sensing-signal-transduction-read]], resource optimization, and adaptive
+behavior. Understanding mycorrhizal-network-communication continues to reveal the
 sophistication of these ancient biological networks.
 ## Practical Considerations
 
@@ -87,4 +87,8 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[mycelial-networks]]
+- [[natural-intelligence]]
+- [[mycelium-network-architecture]]
+- [[mycelium-as-network-organism]]

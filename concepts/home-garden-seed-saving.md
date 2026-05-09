@@ -1,5 +1,5 @@
 ---
-title: Home Garden Seed Saving
+title: cool-climate-home-garden-mollison comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -15,7 +15,7 @@ Saving seed from your own garden is one of the most rewarding aspects of [[heirl
 
 - **Cost saving**: No need to buy fresh seed every year
 - **Self-reliance**: Independence from commercial seed suppliers
-- **Adaptation**: Over successive generations, saved seed becomes better adapted to your garden's specific conditions — soil, climate, and your cultivation methods
+- **Adaptation**: Over successive generations, saved seed becomes better adapted to your garden's specific conditions — soil, climate, and your [[synthetic-log-cultivation-methods-guide]]
 - **Biodiversity**: By growing and saving seed from diverse varieties, you help preserve genetic diversity
 - **Tradition**: Seed saving connects you to centuries of gardening tradition
 
@@ -74,7 +74,7 @@ Some crops cross-pollinate easily, meaning pollen from one variety can fertilize
 
 - **Self-pollinating crops** (beans, peas, lettuce): Little risk of crossing — can grow different varieties nearby
 - **Insect-pollinated crops** (brassicas, carrots, onions): Need significant isolation — at least 1/4 mile for complete purity. In a small garden, growing only one variety of each is the simplest approach
-- **Wind-pollinated crops** (sweet corn, spinach): Can cross over considerable distances
+- **Wind-pollinated crops** ([[growing-sweet-corn-organically]], spinach): Can cross over considerable distances
 
 ## Seed Saving and Crop Rotation
 
@@ -82,11 +82,11 @@ In the [[fukuoka-natural-cover-grass-green-manure]] crop can also be left to pro
 
 ## Legal Considerations
 
-In many countries, older heritage varieties are not protected by plant breeders' rights, so saving and exchanging their seed is unrestricted. However, some modern varieties may be protected. When in doubt, check the legal status of the variety.
+In many countries, older heritage varieties are not protected by plant breeders' rights, so saving and exchanging their seed is unrestricted. However, some modern varieties may be protected. When in doubt, check the [[ayahuasca-tourism-legal-status-by-country]] of the variety.
 
 ## Related
 
 - [[heirloom-vegetable-varieties]] — choosing open-pollinated varieties for seed saving
-- [[green-manure-cover-crops]] — beans as dual-purpose seed and green manure
+- [[green-manure-cover-crops]] — beans as dual-purpose seed and [[comparison-green-manure-guide-vs-mulch-types-and-effects]]
 - [[nursery-management]]
 - [[hamilton-crop-rotation-and-vegetable-planning]]

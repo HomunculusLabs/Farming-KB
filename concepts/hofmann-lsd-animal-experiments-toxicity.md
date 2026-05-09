@@ -1,5 +1,5 @@
 ---
-title: LSD Animal Experiments and Toxicity
+title: [[hofmann-lsd-black-market-and-dangers]] animal experiments toxicity Experiments and Toxicity
 created: 2026-04-28
 tags:
   - lsd
@@ -119,12 +119,12 @@ million people by now have taken LSD."
 
 Despite the limitations of animal models for studying psychic effects,
 the animal research with LSD contributed significantly to neuroscience.
-The distribution patterns, the identification of brain centers
+The [[guzman-global-distribution-patterns-neurotropic-fungi]], the identification of brain centers
 concentrating LSD in the midbrain, and the interactions with serotonin
 and dopamine all emerged from this animal work. LSD served as a tool in
 brain research, illuminating the biochemical processes underlying psychic
 functions. The pharmacological data from animal experiments also provided
-essential safety information that guided human clinical research.
+essential safety information that guided human [[hofmann-lsd-clinical-research-early-studies]].
 
 ## Related Topics
 

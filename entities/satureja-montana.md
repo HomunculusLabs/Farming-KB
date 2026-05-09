@@ -8,7 +8,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Šarić-Kundalić, B. et al. (2010). "Antibacterial activity of Satureja montana L. essential oil." Journal of Medicinal Food, 13(2), 447–451.
+  - Šarić-Kundalić, B. et al. (2010). "Antibacterial activity of Satureja montana L. permaculture-designers-manual-essential-oil-plants." Journal of Medicinal Food, 13(2), 447–451.
   - Skocibusic, M. & Bezić, N. (2004). "Phytochemical analysis and antimicrobial activity of essential oil from Satureja montana." Planta Medica, 70(5), 427–431.
   - Hazzit, M. et al. (2006). "Biological activities of the essential oil and methanol extract of Satureja montana." Chemistry of Biodiversity, 3(8), 868–876.
   - Ochocka, J.R. et al. (1997). "Antimicrobial activity of Santureja montana essential oil." Journal of Ethnopharmacology, 56(1), 81–85.
@@ -18,7 +18,7 @@ sources:
 
 **Satureja montana** L., commonly known as winter savory, is a perennial aromatic herb in the family Lamiaceae.
 
-It is native to the Mediterranean basin, southern Europe, and western Asia. The plant has been used as a culinary spice and medicinal herb since classical antiquity.
+It is native to the Mediterranean basin, southern Europe, and western Asia. The plant has been used as a culinary spice and [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]] since classical antiquity.
 
 Winter savory is distinguished from summer savory (*Satureja hortensis*) by its woody basal stems, evergreen leaves, and more intense pungency.
 
@@ -44,7 +44,7 @@ Flowering occurs from June through September. The leaves are strongly aromatic w
 
 Winter savory is native to the Mediterranean region, extending from the Iberian Peninsula eastward through the Balkans, Italy, Greece, and into western Anatolia.
 
-It has been naturalized in parts of central Europe, the British Isles, and North America through cultivation escape.
+It has been naturalized in parts of central Europe, the British Isles, and [[psilocybin-north-america-pacific-northwest]] through cultivation escape.
 
 The species thrives on dry, calcareous, stony soils in full sun. It is characteristic of garrigue and maquis communities, Mediterranean scrublands, and open rocky hillsides at elevations up to 1,500 meters.
 
@@ -58,13 +58,13 @@ Winter savory is easily propagated from seed, softwood cuttings, or division of 
 
 - **Soil:** Well-drained, sandy or rocky, slightly alkaline (pH 6.5–8.0). Poor to moderate fertility preferred.
 - **Light:** Full sun; tolerates light afternoon shade in hotter climates.
-- **Water:** Low to moderate after establishment. Overwatering promotes root rot and reduces essential oil content.
+- **Water:** Low to moderate after establishment. Overwatering promotes [[cannabis-root-rot-prevention-and-treatment]] and reduces essential oil content.
 - **Spacing:** 20–30 cm between plants.
 - **Harvest:** Aerial parts collected just before or during flowering for maximum essential oil yield.
 
 Leaves can be harvested year-round in mild climates. The plant typically reaches harvestable size within 60–90 days from transplant.
 
-It performs well as a border plant, container specimen, or rock garden addition. Winter savory attracts pollinators and is considered pest-resistant.
+It performs well as a border plant, container specimen, or [[hamilton-rock-garden-design]] addition. Winter savory attracts pollinators and is considered pest-resistant.
 
 ## Chemistry and Pharmacology
 
@@ -84,7 +84,7 @@ Chemical composition varies significantly with geography, harvest stage, and ext
 
 The essential oil demonstrates broad-spectrum antibacterial activity against Gram-positive and Gram-negative pathogens, including *Staphylococcus aureus*, *Escherichia coli*, and *Pseudomonas aeruginosa*.
 
-Antifungal activity has been documented against *Candida albicans* and several dermatophyte species.
+Antifungal activity has been documented against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and several dermatophyte species.
 
 In vitro antioxidant assays show moderate to strong radical scavenging capacity, attributed primarily to carvacrol and thymol content.
 

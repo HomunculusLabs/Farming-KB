@@ -3,31 +3,31 @@
 
 ## Overview
 
-Eliot Coleman identified a critical biological threshold for winter vegetable production: when day length drops below ten hours, [[winter-gardening-season-extension]] tradition relies on cold frames for overwintering rather than active winter production.
+Eliot Coleman identified a critical biological threshold for winter [[dry-gardening-unirrigated-vegetable-production-solomon]]: when day length drops below ten hours, [[winter-gardening-season-extension]] tradition relies on cold frames for overwintering rather than active winter production.
 
 ## Historical Confirmation
 
 The eminent British greenhouse researcher W. J. C. Lawrence confirmed Coleman's experience from his greenhouses at Merton near London on the 51st parallel. In his 1948 work *Science and the Glasshouse*, Lawrence reported that plant growth slowed during the period from October 27 to February 16, when days are shorter than ten hours at that latitude. This independent confirmation from a different era and different growing system lends strong support to the universality of the ten-hour threshold.
 
-Coleman concluded that the winter harvest could be successful as far north as Anchorage, Alaska on the 61st parallel, even though at that latitude the Persephone period would extend from October 16 to February 24—nearly four months of very slow growth. The key would be planting early enough and choosing crops that hold well without deteriorating.
+Coleman concluded that the [[coleman-claytonia-winter-harvest-cultivation]] could be successful as far north as Anchorage, Alaska on the 61st parallel, even though at that latitude the Persephone period would extend from October 16 to February 24—nearly four months of very slow growth. The key would be planting early enough and choosing crops that hold well without deteriorating.
 
 ## The Growth Doubling Pattern
 
-Coleman's planting-date tables show a reasonably consistent pattern across crops: the time from planting to maturity doubles for an early February (Imbolc) harvest in a cool house (minimally heated greenhouse) and triples in a cold house (unheated). This pattern confirms that the Persephone period is the dominant variable in winter growing schedules, not temperature. A crop that matures in 30 days in September will take approximately 60 days in a cool house for a February harvest, and 90 days in a cold house.
+Coleman's planting-date tables show a reasonably consistent [[psilocin-accumulation-pattern-across-flushes]] crops: the time from planting to maturity doubles for an early February (Imbolc) harvest in a cool house (minimally heated greenhouse) and triples in a cold house (unheated). This pattern confirms that the Persephone period is the dominant variable in winter growing schedules, not temperature. A crop that matures in 30 days in September will take approximately 60 days in a cool house for a February harvest, and 90 days in a cold house.
 
 ## Implications for Winter Harvest Planning
 
 1. **Plant early enough**: All crops intended for winter harvest must be planted with enough lead time to reach harvestable size before the Persephone period begins at the grower's latitude. For Coleman, this means most winter crops are sown between August 1 and mid-September.
 
-2. **Choose the right crops**: Some crops hold better than others during the slow-growth period. Spinach continues producing new leaves all winter, unlike kale, which stops new growth entirely during the cold months. Claytonia and mache are excellent because they are true winter annuals adapted to [[coleman-cool-greenhouse]]-greenhouse-just-above-freezing — Minimally heated greenhouses
-- coleman succession planting second spring — Planning for the return of growth
+2. **[[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] crops**: Some crops hold better than others during the slow-growth period. Spinach continues producing new leaves all winter, unlike kale, which stops new growth entirely during the cold months. Claytonia and mache are excellent because they are true winter annuals adapted to [[coleman-cool-greenhouse]]-greenhouse-just-above-freezing — Minimally heated greenhouses
+- coleman [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] second spring — Planning for the return of growth
 - coleman yearly schedule — Full seasonal planning from the Winter Harvest Handbook
 - coleman fall planting timing — Precision sowing dates for winter crops
 - [[coleman-salad-braising-mix-composition]] — Mix design for winter greens
 - [[soil-health-and-management]] underlying winter crop vigor
-- [[coleman-mobile-greenhouse-crop-rotation-patterns]]-greenhouse-movement — Moving houses to follow crops through seasons
+- coleman-mobile-greenhouse-crop-rotation-patterns-greenhouse-movement — Moving houses to follow crops through seasons
 - winter annual vegetables — Crops adapted to short-day conditions
-- day length and plant growth — General principle of photoperiodism in agriculture
+- [[mollison-designers-day-length-and-flowering-response]] plant growth — General principle of photoperiodism in agriculture
 - coleman crop rotation greenhouse — Rotating crops through the Persephone period
 ## Practical Applications
 
@@ -106,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

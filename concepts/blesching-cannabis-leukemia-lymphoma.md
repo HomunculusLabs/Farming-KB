@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and Leukemia and Lymphoma"
+title: "Cannabis and [[cannabis-for-leukemia-and-lymphoma]]"
 created: 2026-04-26
 tags:
   - cannabis
@@ -34,7 +34,7 @@ increases the risk of infections. This glut of malformed white blood cells
 can displace red blood cells and platelets, which carry oxygen and are
 responsible for blood clotting respectively. Signs and symptoms include a
 high white blood cell count, anemia, clotting problems leading to
-opportunistic infections, easy bruising, and spontaneous pinprick bleeds.
+[[blesching-cannabis-aids-opportunistic-infections]], easy bruising, and spontaneous pinprick bleeds.
 
 Lymphomas are classified as Hodgkin's and non-Hodgkin's lymphomas, with
 dozens of sub-classifications. Lymphoma symptoms are similar to leukemia
@@ -126,7 +126,7 @@ guilt, repression, and denial was among significant risk factors.
 - **Turmeric:** Curcumin arrested growth of leukemia in laboratory studies;
   50 patients with chronic lymphocytic leukemia showed improvement
 - **Saffron:** May possess anticancer activity including against leukemia
-- **Myrrh:** Guggulsterone from Commiphora mukul produces apoptosis in
+- **Myrrh:** Guggulsterone from [[commiphora-mukul]] produces apoptosis in
   multiple cancer types including drug-resistant leukemia
 - **Oregano:** Contains aristolochic acid I and II with cancer-fighting
   abilities targeted at leukemia
@@ -135,4 +135,4 @@ guilt, repression, and denial was among significant risk factors.
 
 - [[blesching-cannabis-immune-system-modulation]]
 - [[cannabis-and-sickle-cell-disease]]
-- [[blesching-endocannabinoid-system-overview]]
+- [[endocannabinoid-system-overview]]

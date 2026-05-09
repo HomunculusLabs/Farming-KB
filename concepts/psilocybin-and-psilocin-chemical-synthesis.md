@@ -1,5 +1,5 @@
 ---
-title: Psilocybin and Psilocin Chemical Synthesis
+title: Psilocybin and psilocybin and psilocin chemical synthesis Synthesis
 created: 2026-04-28
 tags: [chemistry, synthesis, psilocybin, psilocin, tryptamines, organic-chemistry, analytical-standards, magic-mushrooms]
 date: 2026-04-28
@@ -21,7 +21,7 @@ Psilocybe mushrooms also contain baeocystin (4-hydroxy-N-methyltryptamine) and n
 
 ### Regulatory Context
 
-Since June 6, 2002, fungi containing psilocin and psilocybin have been regulated by the Narcotics and Psychotropic Control Law in Japan. The popularity of magic mushrooms among young people prompted this regulation.
+Since June 6, 2002, fungi containing [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] have been regulated by the Narcotics and Psychotropic Control Law in Japan. The popularity of magic mushrooms among young people prompted this regulation.
 
 Identification through morphological and microscopic analysis is difficult without expertise, making chromatographic methods (TLC, GC, HPLC) essential. These methods require pure reference standards, creating demand for reliable synthetic routes.
 
@@ -33,11 +33,11 @@ The Shirota synthesis starts from commercially available 4-hydroxyindole and pro
 
 4-Hydroxyindole is protected by acetylation with acetic anhydride in pyridine and dichloromethane at 0 degrees Celsius warming to room temperature.
 
-After aqueous workup and crystallisation, 4-acetylindole is obtained as ivory white crystals. Acetyl protection is preferred over benzyl ether because no separate deprotection step is needed; the acetyl group is removed during lithium aluminum hydride reduction.
+After aqueous workup and crystallisation, 4-acetylindole is obtained as ivory white crystals. [[shirota-4-hydroxyindole-acetyl-protection-experimental]] is preferred over benzyl ether because no separate deprotection step is needed; the acetyl group is removed during lithium aluminum hydride reduction.
 
 ### Step 2: Acylation at the 3-Position
 
-4-Acetylindole is treated with oxalyl chloride in anhydrous diethyl ether at 0 degrees Celsius, followed by addition of n-hexane and storage at minus 20 degrees Celsius overnight.
+4-Acetylindole is treated with [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] in anhydrous diethyl ether at 0 degrees Celsius, followed by addition of n-hexane and storage at minus 20 degrees Celsius overnight.
 
 The oxalyl chloride adduct precipitates as yellow crystals, which are collected by filtration. This installs the glyoxyl group at the reactive 3-position of the indole ring.
 
@@ -61,7 +61,7 @@ Two methods showed promise: the phosphoryl iodide method (using tribenzyl phosph
 
 ### Key Discovery: Zwitterionic Intermediate
 
-The phosphorylation produced a dibenzyl-protected phosphate intermediate that underwent an unexpected intramolecular rearrangement upon workup. One benzyl group migrated from the phosphate oxygen to the tertiary amine nitrogen, forming a zwitterionic N,O-dibenzyl phosphate derivative.
+The phosphorylation produced a dibenzyl-protected [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]] that underwent an unexpected intramolecular rearrangement upon workup. One benzyl group migrated from the phosphate oxygen to the tertiary amine nitrogen, forming a zwitterionic N,O-dibenzyl phosphate derivative.
 
 This transformation involved hydrolytic cleavage of one O-benzyl group followed by quaternisation of the amine by the remaining benzyl group. The structure was fully characterised using multidimensional NMR.
 
@@ -80,7 +80,7 @@ Simple filtration after suspending the reaction mixture in dichloromethane overn
 
 ### Final Deprotection
 
-Catalytic hydrogenolysis using 10% palladium on carbon under hydrogen atmosphere in methanol yielded [[psilocybin]] as white needle crystals.
+[[shirota-catalytic-hydrogenolysis-debenzylation-psilocybin]] using 10% palladium on carbon under hydrogen atmosphere in methanol yielded [[psilocybin]] as white needle crystals.
 
 Melting point: 190 to 198 degrees Celsius. Isolated yield from psilocin exceeded 72% on gram scale, a dramatic improvement over previously reported yields of 20% and 47% that required anion-exchange chromatography.
 
@@ -108,6 +108,8 @@ The Shirota synthesis represents the most practical published route to analytica
 The serendipitous discovery of the self-purifying zwitterionic intermediate was key to achieving this practicality, supporting regulatory analysis of psilocybin-containing mushrooms worldwide.
 
 ## See Also
+
+- [[psilocin-chemical-synthesis]]
 
 - [[query-what-is-the-difference-between-psilocybin-and-psilocin]]
 - [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]]

@@ -11,9 +11,9 @@ type: query
 # What Is Biofumigation and How Does It Work
 
 ## Short Answer
-Biofumigation is an organic pest and disease suppression technique that uses naturally occurring compounds released by
+Biofumigation is an organic pest and [[aact-disease-suppression-mechanisms-ingham]] technique that uses naturally occurring compounds released by
 Brassica family plants when their tissues are chopped and incorporated into soil. The process harnesses glucosinolates,
-sulfur-containing secondary metabolites found in mustards, radishes, and other brassicas, which break down into biocidal
+sulfur-containing [[antifungal-secondary-metabolites-coprophilous-fungi]] found in mustards, radishes, and other brassicas, which break down into biocidal
 isothiocyanates that kill or repel soil-borne pathogens, nematodes, and weed seeds.
 
 ## The Science Behind Biofumigation
@@ -27,7 +27,7 @@ These are volatile, lipophilic compounds that act as natural fumigants in the so
 range of soil organisms at sufficient concentrations, including plant-parasitic nematodes, soil-borne fungi such as
 Fusarium, Pythium, Rhizoctonia, and Verticillium species, certain insect larvae, and even some weed seeds.
 
-The [[brassica-growing-guide]] provides detailed variety selection criteria. Indian mustard varieties like 'Caliente'
+The [[brassica-growing-guide]] provides detailed variety [[cannabis-breeding-traits-selection-criteria-clarke]]. Indian mustard varieties like 'Caliente'
 and 'Nemfix' were specifically bred for biofumigation and produce exceptionally high glucosinolate concentrations in
 their leaf and stem tissues. These proprietary blends combine multiple brassica species to create a broad-spectrum
 glucosinolate profile that targets a wider range of soil organisms.
@@ -39,7 +39,7 @@ drainage and aeration as a secondary benefit beyond biofumigation itself.
 Sorghum-sudangrass hybrids have also shown biofumigant properties due to their production of dhurrin, a cyanogenic
 glucoside that releases hydrogen cyanide upon tissue damage. The [[comparison-crop-rotation-vs-cover-cropping]] framework shows how biofumigant cover crops fit into broader rotational sequences.
 
-Seed at rates of 8 to 12 pounds per acre for mustard and 10 to 15 pounds per acre for radish, depending on row spacing
+Seed at rates of 8 to 12 pounds per acre for mustard and 10 to 15 pounds per acre for radish, depending on [[wide-row-spacing-intensive-gardening-comparison]]
 and seeding method. Drill seed at a depth of one-quarter to one-half inch into well-prepared seedbeds. Brassicas require
 adequate nitrogen fertility for vigorous growth and maximum glucosinolate production, so apply 30 to 50 pounds of
 nitrogen per acre at planting unless preceding a heavy-feeding cash crop.
@@ -56,12 +56,12 @@ not expected.
 
 Allow a minimum of 2 to 4 weeks between biofumigant incorporation and planting the subsequent cash crop. This waiting
 period ensures that isothiocyanate concentrations have declined to levels that are non-phytotoxic to the following crop.
-Direct seeding too soon after incorporation can result in poor germination, stunted seedlings, or complete crop failure
+[[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] too soon after incorporation can result in poor germination, stunted seedlings, or complete crop failure
 in severe cases.
 
 Soil type also influences biofumigation effectiveness. Clay and loam soils retain isothiocyanates longer than sandy
 soils due to higher adsorption capacity, extending the period of effective pest suppression. In sandy soils,
-biofumigation may need to be combined with other pest management strategies for adequate control.
+biofumigation may need to be combined with other [[cannabis-pest-management-guide]] strategies for adequate control.
 
 ## Effectiveness and Limitations
 
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

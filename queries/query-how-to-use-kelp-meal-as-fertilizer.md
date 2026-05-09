@@ -5,6 +5,7 @@ tags: [query, organic-farming, fertilizer, kelp, soil-amendment]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: query
 ---
@@ -12,7 +13,7 @@ type: query
 # How to Use Kelp Meal as Fertilizer
 
 ## Short Answer
-Kelp meal is a slow-release organic fertilizer made from dried seaweed that provides
+Kelp meal is a slow-release [[complete-organic-fertilizer-cof-recipe-solomon]] made from dried seaweed that provides
 a broad spectrum of micronutrients, natural plant growth hormones (cytokinins,
 auxins, and gibberellins), amino acids, and vitamins. Use it as a soil amendment at
 1 to 2 cups per cubic foot of soil, as a top-dress during flowering, or brew it
@@ -20,10 +21,10 @@ into a compost tea for foliar or drench applications.
 
 ## Detailed Explanation
 
-Kelp meal is produced by drying and milling marine macroalgae, primarily species of
+Kelp meal is produced by drying and milling [[hamilton-kelp-and-seaweed-in-organic-gardening]], primarily species of
 Ascophyllum nodosum (knotted wrack) harvested from cold North Atlantic waters. This
-cold-water growing environment concentrates a remarkable density of minerals, trace
-elements, and bioactive compounds that make kelp one of the most versatile organic
+cold-water [[cannabis-growing-environment-setup]] concentrates a remarkable density of minerals, trace
+elements, and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] that make kelp one of the most versatile organic
 amendments available to growers. Unlike synthetic fertilizers that deliver a narrow
 NPK ratio, kelp provides over 60 minerals and trace elements, including iron,
 manganese, zinc, copper, boron, and molybdenum, in forms that are readily available
@@ -38,7 +39,7 @@ aerated for 24 to 48 hours, then applied as a soil drench or foliar spray. Liqui
 kelp extracts, which are concentrated versions of the water-soluble components, are
 also available for growers who prefer ready-to-use products with faster availability.
 
-Kelp meal pairs synergistically with several other common organic amendments. When
+Kelp meal pairs synergistically with several other common [[cervantes-organic-amendments-chart]]. When
 combined with [[biochar]], kelp feeds the microbial communities that
 colonize biochar surfaces and charge its exchange sites with nutrients. As a
 companion to fish-based fertilizers, kelp provides the micronutrients and hormones
@@ -71,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

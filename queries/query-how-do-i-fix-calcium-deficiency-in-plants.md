@@ -1,5 +1,5 @@
 ---
-title: "How Do I Fix Calcium Deficiency in Plants?"
+title: "How Do I Fix knf-calcium-deficiency-symptoms in Plants?"
 created: 2026-04-28
 tags: [query, cannabis, nutrients, deficiency, calcium]
 date: 2026-04-25
@@ -12,12 +12,12 @@ type: query
 
 ## Short Answer
 Calcium deficiency causes distorted new growth, curling leaves,
-brown spots, and tip burn in cannabis and other plants. Fix it by
+brown spots, and tip [[query-what-causes-nutrient-burn-in-cannabis-and-how-to-prevent-it]] and other plants. Fix it by
 ensuring soil pH is in the correct range (6.0 to 7.0 for soil,
 5.5 to 6.2 for hydroponics), applying calcium-rich amendments
 like limestone, gypsum, or cal-mag supplements, and improving
 soil biology to enhance calcium availability. The root cause is
-often pH-related nutrient lockout rather than actual calcium
+often pH-related [[cannabis-nutrient-lockout-and-ph]] rather than actual calcium
 deficiency.
 
 ## Detailed Explanation
@@ -36,19 +36,19 @@ immobile, deficiency is always most visible at the growing points
 of the plant rather than on older, lower leaves.
 
 The most common cause of calcium deficiency is not a lack of
-calcium in the soil or nutrient solution, but rather
+calcium in the soil or [[cannabis-nutrient-solution-preparation]], but rather
 [[dynamic-accumulator-plants-calcium-and-magnesium]] such as
 comfrey, dandelion, and nettle can be chopped and dropped as
 mulch to slowly release calcium as they decompose.
 
 Eggshells are a popular home remedy, though they take
-considerable time to break down and should be powdered and
+considerable time to [[query-can-fungi-break-down-plastic-pollution]] and should be powdered and
 composted first for meaningful effect. In hydroponic and coco
 coir grows, [[teaming-with-nutrients-ph-testing-and-soil-amendment]]
 guide emphasizes that calcium availability is also influenced by
 soil biology and microbial activity.
 
-In the short term, foliar sprays of calcium nitrate or calcium
+In the short term, [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] of calcium nitrate or calcium
 chloride can provide rapid relief to affected plants, though they
 should not be relied upon as the sole solution. Addressing the
 root cause through pH correction and proper amendments will
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

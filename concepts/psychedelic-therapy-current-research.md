@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Therapy Current Research
+title: Psychedelic psychedelic therapy current research Research
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,13 +11,13 @@ sources: []
 
 ## Overview
 
-Psychedelic-assisted therapy represents one of the most significant developments in mental health treatment in decades. After a decades-long research freeze, clinical trials are now demonstrating that substances like MDMA, psilocybin, and ketamine can produce rapid and enduring therapeutic effects for conditions that have been resistant to conventional treatments. This page covers the current state of clinical research across major psychedelic compounds and indications.
+Psychedelic-assisted therapy represents one of the most significant developments in mental health treatment in decades. After a decades-long research freeze, clinical trials are now demonstrating that substances like MDMA, psilocybin, and ketamine can produce rapid and enduring therapeutic effects for conditions that have been resistant to conventional treatments. This page covers the current state of [[hofmann-lsd-clinical-research-early-studies]] across major psychedelic compounds and indications.
 
 ## MDMA-Assisted Therapy for PTSD
 
 ### MAPS Phase 3 Trials
 
-The Multidisciplinary Association for Psychedelic Studies (MAPS), operating through its public benefit corporation Lykos Therapeutics, has conducted the most advanced clinical trials of any psychedelic therapy:
+The [[maps-multidisciplinary-association-for-psychedelic-studies]] for Psychedelic Studies (MAPS), operating through its public benefit corporation Lykos Therapeutics, has conducted the most advanced clinical trials of any psychedelic therapy:
 
 Study design:
 - Randomized, double-blind, placebo-controlled Phase 3 trials
@@ -72,7 +72,7 @@ Usona Institute is conducting research with a different model:
 
 Robin Carhart-Harris and colleagues at Imperial College have conducted foundational research:
 
-- First modern brain imaging studies of psilocybin (fMRI)
+- First modern [[neurochemical-probes-brain-imaging-pihkal]] studies of psilocybin (fMRI)
 - Development of the REBUS (RElaxed Beliefs Under pSychedelics) model
 - Demonstrated psilocybin's effects on default mode network connectivity
 - Research on psilocybin for treatment-resistant depression since 2016
@@ -119,13 +119,13 @@ Ketamine is the only psychedelic-related therapy currently available in legal cl
 
 Small Pharma and UCL are conducting clinical trials with DMT-assisted therapy:
 - Intravenous DMT administration with psychological support
-- Short duration (experience ~20-30 minutes) may allow outpatient treatment
+- [[savory-short-duration-grazing-and-cell-systems]] (experience ~20-30 minutes) may allow outpatient treatment
 - Phase 2 trials underway for treatment-resistant depression
 - Exploring DMT fumarate for longer-duration oral experiences
 
 ### Ibogaine for Addiction
 
-Ibogaine, derived from the root bark of Tabernanthe iboga, shows promise for opioid and stimulant addiction:
+Ibogaine, derived from the root bark of [[plants-of-the-gods-tabernanthe-iboga-chemistry]], shows promise for opioid and stimulant addiction:
 - Single administration can significantly reduce withdrawal symptoms and drug craving
 - Risk of cardiotoxicity (QT prolongation) limits clinical use
 - Ambio Life Sciences and other organizations working on safer analogs
@@ -140,41 +140,9 @@ Active or planned research areas include:
 - Alcohol use disorder
 - Smoking cessation
 - End-of-life anxiety
-- Social anxiety in autism spectrum disorder
-
-## Therapeutic Frameworks
-
-Most psychedelic therapy protocols follow a similar structure:
-
-1. Preparation (1-3 sessions): Building therapeutic alliance, setting intentions, medical screening, explaining the experience
-2. Dosing session (1-3 sessions): Administration in comfortable setting with therapist present, typically 4-8 hours for psilocybin, 6-8 hours for MDMA, eye mask and curated music playlist
-3. Integration (2-5 sessions): Processing the experience, making meaning, implementing behavioral changes
-
-This model differs fundamentally from conventional pharmacotherapy, which typically involves daily dosing without psychological support.
-
-## Regulatory Landscape
-
-As of 2026:
-- MDMA-assisted therapy: Under FDA review, potential rescheduling
-- Psilocybin therapy: FDA Breakthrough Therapy designation, Phase 3 trials ongoing
-- Ketamine/esketamine: FDA-approved and available
-- LSD therapy: Phase 2 trials (MindMed, others) for anxiety and depression
-- DMT therapy: Early-phase clinical trials
-- Ibogaine: Not approved in US; available in unregulated international clinics
-
-Oregon and Colorado have implemented state-level regulated access to psilocybin therapy programs.
-
-## Challenges and Limitations
-
-- Blinding difficulty: Psychedelic effects make true placebo conditions nearly impossible
-- Attrition: Some trials lose participants who find their own psychedelics
-- Long-term data: Most studies have limited follow-up periods
-- Generalizability: Trial populations may not represent real-world patients
-- Cost and access: Even if approved, therapy costs may be prohibitive
-- Training: Insufficient number of trained therapists to meet potential demand
-- Commercialization: Tension between profit motives and therapeutic integrity
-
 ## See Also
+
+- [[psychedelic-therapy-foundations]]
 
 - [[psychedelic-research-timeline]] — historical context for current research
 - [[psychedelic-integration-guide]] — post-therapy integration practices

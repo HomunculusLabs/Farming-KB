@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/bigwood-beug-variation-of-psilocybin-and-
 
 # Psilocybe natmansii
 
-**Psilocybe natmansii** is a rare psilocybin-containing mushroom species in the family Hymenogastraceae, known primarily from grassland habitats in northwestern Europe. It was described by the Dutch mycologist Gerrit J. Keizer and represents one of the less frequently encountered psychoactive members of Psilocybe section Semilanceata.
+**Psilocybe natmansii** is a rare psilocybin-containing mushroom species in the family Hymenogastraceae, known primarily from grassland habitats in northwestern Europe. It was described by the Dutch mycologist Gerrit J. Keizer and represents one of the less frequently encountered psychoactive members of [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]] Semilanceata.
 
 ## Taxonomy and Classification
 
@@ -58,7 +58,7 @@ The species epithet honors C.B. (Kees) Naatmans, a Dutch mycologist who contribu
 - Basidiospores 10 to 13 by 6 to 7.5 µm
 - Ellipsoid to slightly amygdaliform in face view
 - Thick-walled with a distinct germ pore
-- Spore print dark purplish-brown
+- [[comparison-spore-print-collection-vs-spore-syringe-production]] dark purplish-brown
 
 ### Microscopic Features
 - Cheilocystidia abundant, ventricose to lageniform, often with a long narrow neck
@@ -77,14 +77,14 @@ Fruiting occurs in late summer to autumn, typically from August through November
 ## Chemistry
 
 psilocybe natmansii contains [[psilocin]] as its primary psychoactive compounds. Due to the rarity of collections, quantitative analytical data is limited. Available reports suggest moderate tryptamine alkaloid levels, generally lower than those of [[psilocybe-semilanceata]]** — More common and widespread; typically has a more pronounced and persistent papilla, a more viscid pellicle, and prefers richer pastures
-- **[[psilocybe-hispanica]]** — Restricted to the Iberian Peninsula; macroscopically very similar but distinct genetically and microscopically
+- **psilocybe-hispanica** — Restricted to the Iberian Peninsula; macroscopically very similar but distinct genetically and microscopically
 - **[[psilocybe-montana]]** — Generally considered non-psychoactive or very weakly active; does not bruise blue
 
-Accurate identification requires microscopic examination of spore morphology and cystidia, as well as knowledge of the geographic context. DNA barcoding using the ITS region provides definitive identification and has been used to confirm collections.
+Accurate identification requires [[fungal-microscopic-examination-mounting-media-techniques]] of spore morphology and cystidia, as well as knowledge of the geographic context. DNA barcoding using the ITS region provides definitive identification and has been used to confirm collections.
 
 ## Historical Context and Discovery
 
-psilocybe natmansii was first identified as a distinct taxon during systematic surveys of European psilocybin mushrooms conducted by Dutch mycologists in the late 20th century. These surveys, which also documented species such as [[psilocybe-hispanica]], helped establish the diversity of psilocybin-containing species in European grasslands. The species has been confirmed by DNA barcoding in modern collections, validating its status as a genuine taxon rather than a morphological variant of more common species.
+psilocybe natmansii was first identified as a distinct taxon during systematic surveys of European [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] conducted by Dutch mycologists in the late 20th century. These surveys, which also documented species such as psilocybe-hispanica, helped establish the diversity of psilocybin-containing species in European grasslands. The species has been confirmed by DNA barcoding in modern collections, validating its status as a genuine taxon rather than a morphological variant of more common species.
 
 ## Life Cycle and Seasonality
 
@@ -94,7 +94,7 @@ The species typically fruits in scattered individuals or small groups rather tha
 
 ## Toxicology and Safety
 
-psilocybe natmansii is not known to be physically toxic, though it contains the psychoactive compounds [[psilocin]]. As with all wild mushrooms, accurate identification is essential to avoid confusion with potentially dangerous species. The small size and grassland habitat of P. natmansii mean it could potentially be confused with species of [[psilocybe-semilanceata]] may require larger doses for comparable effects. Typical effects include alterations in visual perception, changes in the perception of time and space, enhanced emotional sensitivity, and philosophical or spiritual insights. The onset of effects occurs 20 to 60 minutes after ingestion, with peak effects at 2 to 3 hours and a total duration of 4 to 6 hours.
+psilocybe natmansii is not known to be physically toxic, though it contains the psychoactive compounds [[psilocin]]. As with all [[edible-wild-mushrooms-by-region]], accurate identification is essential to avoid confusion with potentially dangerous species. The small size and grassland habitat of P. natmansii mean it could potentially be confused with species of [[psilocybe-semilanceata]] may require larger doses for comparable effects. Typical effects include alterations in visual perception, changes in the perception of time and space, enhanced emotional sensitivity, and philosophical or spiritual insights. The onset of effects occurs 20 to 60 minutes after ingestion, with peak effects at 2 to 3 hours and a total duration of 4 to 6 hours.
 
 ## Legal Status
 

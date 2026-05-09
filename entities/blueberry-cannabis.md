@@ -23,15 +23,15 @@ sources:
 
 **DJ Short's Blueberry** | **Blueberry Kush** (when crossed with OG)
 
-Blueberry is a legendary indica-dominant cannabis cultivar created by breeder DJ Short in the 1970s–1980s. Widely regarded as one of the most important foundational strains in modern cannabis genetics, Blueberry is celebrated for its distinctively fruity aroma and flavor — evocative of fresh blueberries — and its deeply relaxing, euphoric effects. It was one of the first strains to gain widespread recognition for its terpene-driven sensory profile, winning the High Times Cannabis Cup in 2000 and cementing its status as a classic.
+Blueberry is a legendary indica-dominant cannabis cultivar created by breeder DJ Short in the 1970s–1980s. Widely regarded as one of the most important foundational strains in modern [[vic-high-cannabis-genetics-mendelian-inheritance]], Blueberry is celebrated for its distinctively fruity aroma and flavor — evocative of fresh blueberries — and its deeply relaxing, euphoric effects. It was one of the first strains to gain widespread recognition for its terpene-driven sensory profile, winning the High Times Cannabis Cup in 2000 and cementing its status as a classic.
 
 ## Genetic Background
 
 ### Parentage
 DJ Short developed Blueberry through extensive breeding work beginning in the late 1970s, working with landrace genetics sourced from diverse regions:
-- **Afghan indica:** Contributed the dense bud structure, resin production, and heavy body effects
+- **Afghan indica:** Contributed the dense bud structure, [[cannabis-glandular-trichome-types-resin-production-clarke]], and heavy body effects
 - **Thai sativa:** Contributed the sweet, fruity terpene profile and cerebral uplift
-- **Purple Thai (Oaxacan × Highland Thai):** A complex sativa landrace cross that contributed both the purple coloration potential and additional fruity terpene complexity
+- **Purple Thai (Oaxacan × Highland Thai):** A complex [[cannabis-sativa-landrace-strains]] cross that contributed both the purple coloration potential and additional fruity terpene complexity
 
 ### Breeding History
 - DJ Short began working with these genetics in the Pacific Northwest during the late 1970s and early 1980s
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

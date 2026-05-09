@@ -1,7 +1,7 @@
 ---
-title: The Doi Garment and the Culture of Clothing in Natural Farming
+title: The fukuoka doi garment culture clothing [[korean-natural-farming-and-jadam]] the fukuoka-culture-of-clothing-and-meat in comparison-natural-farming-vs-permaculture
 source: masanobu-fukuoka-the-road-back-to-nature.md
-author: Masanobu Fukuoka
+author: [[masanobu-fukuoka]]
 tags: [fukuoka, natural-farming, clothing, doi, traditional-garments, farmer-attire, japanese-culture]
 ---
 
@@ -9,7 +9,7 @@ tags: [fukuoka, natural-farming, clothing, doi, traditional-garments, farmer-att
 
 ## Overview
 
-During his European travels documented in *The Road Back to Nature*, Masanobu Fukuoka wore
+During his [[fukuoka-european-travels-natural-farming]] documented in *The Road Back to Nature*, Masanobu Fukuoka wore
 traditional Japanese geta (wooden sandals) and a garment called the doi throughout his tour.
 This experience led him to develop a comprehensive philosophy connecting the garments farmers
 wear to their relationship with the land, with God, and with cultural identity. He argued that

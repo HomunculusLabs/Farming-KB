@@ -1,20 +1,21 @@
 ---
-title: "Wood Preserve and Shelterbelt Design for Natural Farms"
+title: "fukuoka-textdoc-farm-establishment-wood-preserve-design and fukuoka-textdoc-shelterbelt-design-environmental-tree-planting for Natural Farms"
 created: 2026-04-28
 tags: [natural-farming, agroforestry, shelterbelt, soil-fertility, bamboo, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
-sources: [~/wiki/raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
 The woods surrounding a natural farm should be treated as a
 natural preserve for the farm and used as a direct or indirect
-source of organic fertilizer. The basic strategy for achieving
+source of [[complete-organic-fertilizer-cof-recipe-solomon]]. The basic strategy for achieving
 long-term, totally fertilizer-free cultivation on a natural farm
 is to create deep, fertile soil. There are several approaches:
 
-1. Direct burial of coarse organic matter deep in the ground.
+1. Direct burial of coarse [[hamilton-composting-and-organic-matter-management]] deep in the ground.
 2. Gradual soil improvement by planting grasses and trees that
    send roots deep into the soil.
 3. Enrichment of the farm by carrying nutrients built up in
@@ -50,7 +51,7 @@ oak, interplanting these with walnut and ginkgo.
 
 A bamboo grove may serve equally well as the reserve. It takes a
 bamboo shoot only one year to grow to full size, so the amount of
-vegetative growth is greater than for ordinary trees. Bamboo is
+[[cannabis-vegetative-growth-stage]] is greater than for ordinary trees. Bamboo is
 therefore valuable as a source of coarse organic material that can
 be buried in the ground for soil improvement.
 
@@ -68,7 +69,7 @@ preventing wind damage, but also for maintaining soil fertility
 and for environmental improvement. Fast-growing trees that are
 commonly planted for this purpose include cedar, cypress, [[fukuoka-textdoc-farm-establishment-wood-preserve-design]]
 
-- [[hemenway-hedgerow-and-shelterbelt-design]]
+- hemenway-hedgerow-and-shelterbelt-design
 - [[fukuoka-straw-mandala-orchard-design]]
 ## Practical Considerations
 
@@ -89,3 +90,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[fukuoka-textdoc-shelterbelt-design-environmental-tree-planting]]

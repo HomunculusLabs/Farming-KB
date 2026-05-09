@@ -1,5 +1,5 @@
 ---
-title: McKenna on the Four Families of Indole Hallucinogens
+title: McKenna on the Four four-families-of-indole-hallucinogens Hallucinogens
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## The Real Missing Link
 
-The notion explored in Food of the Gods is that a particular family of active chemical compounds, the indole hallucinogens, played a decisive role in the emergence of our essential humanness, of the human characteristic of self-reflection. All have a five-sided pyrrole group in association with the benzene ring. These molecular rings make the indoles highly reactive chemically and hence ideal molecules for metabolic activity in the high-energy world of organic life.
+The notion explored in Food of the Gods is that a particular family of active chemical compounds, the indole hallucinogens, played a decisive role in the emergence of our essential humanness, of the human characteristic of self-reflection. All have a five-sided pyrrole group in association with the benzene ring. These molecular rings make the indoles highly reactive chemically and hence ideal molecules for [[arbuscule-isolation-metabolic-activity-assays]] in the high-energy world of organic life.
 
 Hallucinogens may be psychoactive and/or physiologically active. Some indoles are endogenous to the human body — serotonin being a good example. Many more are exogenous, found in plants we can eat. Some behave like hormones and regulate growth or rate of sexual maturation. Others influence mood and state of alertness.
 
@@ -20,9 +20,9 @@ The indole nucleus is one of the most pharmacologically significant molecular sc
 
 ## 1. The LSD-Type Compounds
 
-Found in several related genera of morning glories and ergot, the LSD hallucinogens are rare in nature. LSD is a psychedelic but relatively large doses are necessary to elicit the vivid hallucinations produced by DMT and psilocybin. Nevertheless, many researchers have stressed the importance of the nonhallucinogenic effects of LSD — a sense of mind expansion, increased speed of thought, and the ability to understand complex issues.
+Found in several related genera of [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] and ergot, the LSD hallucinogens are rare in nature. LSD is a psychedelic but relatively large doses are necessary to elicit the vivid hallucinations produced by DMT and psilocybin. Nevertheless, many researchers have stressed the importance of the nonhallucinogenic effects of LSD — a sense of mind expansion, increased speed of thought, and the ability to understand complex issues.
 
-Morning glory seeds (Ipomoea tricolor, I. violacea) contain lysergic acid amide (LSA), a compound closely related to LSD but considerably less potent. Indigenous peoples of Mesoamerica, particularly the Aztecs, used morning glory seeds under the name ololiuqui in divinatory rituals. Richard Schultes and Albert Hofmann identified the active compounds in 1960, and Hofmann demonstrated that ololiuqui seeds contained primarily ergine (LSA) along with other ergoline alkaloids. The presence of LSD-type compounds in both Old World ergot and New World morning glories represents a remarkable example of convergent evolution in indole alkaloid biosynthesis.
+Morning glory seeds (Ipomoea tricolor, I. violacea) contain lysergic acid amide (LSA), a compound closely related to LSD but considerably less potent. Indigenous peoples of Mesoamerica, particularly the Aztecs, used morning glory seeds under the name ololiuqui in divinatory rituals. [[mckenna-richard-schultes-harvard-ethnobotany-psychoactive-plants]] and Albert Hofmann identified the active compounds in 1960, and Hofmann demonstrated that ololiuqui seeds contained primarily ergine (LSA) along with other ergoline alkaloids. The presence of LSD-type compounds in both Old World ergot and New World morning glories represents a remarkable example of convergent evolution in indole alkaloid biosynthesis.
 
 The ergot alkaloids from which LSD is derived have a long history in European culture. Ergotism — caused by consuming ergot-contaminated grain — produced hallucinations and convulsions that may have contributed to European witchcraft trials. The [[mckenna-dmt-experience-and-hyperspace]].
 
@@ -32,13 +32,13 @@ The pharmacokinetics of DMT are unusual. When smoked or injected, the onset is w
 
 Psilocybin, the phosphorylated prodrug of psilocin, is found in over 200 species of mushrooms worldwide. Its effects are longer-lasting than DMT but still relatively brief (4-6 hours). McKenna considered psilocybin the most important of all the indole hallucinogens because of its role in his [[mckenna-ayahuasca-and-amazonian-shamanism]] brew in Amazonian South America.
 
-Beta-carbolines are found in the Banisteriopsis caapi vine (the ayahuasca plant) and in the seeds of Peganum harmala (Syrian rue). The harmala alkaloids also occur in tobacco and several other common plants, suggesting that human exposure to these compounds has been widespread and ancient. Harmine and harmaline are reversible inhibitors of monoamine oxidase A (MAO-A), the enzyme responsible for breaking down monoamine neurotransmitters including serotonin. By inhibiting this enzyme, beta-carbolines not only protect orally ingested DMT from first-pass metabolism but also increase synaptic serotonin levels, contributing to their own psychoactive effects.
+Beta-carbolines are found in the Banisteriopsis caapi vine (the ayahuasca plant) and in the seeds of Peganum harmala (Syrian rue). The [[turner-harmala-alkaloids-preparation-and-dosage]] also occur in tobacco and several other common plants, suggesting that human exposure to these compounds has been widespread and ancient. Harmine and harmaline are reversible inhibitors of monoamine oxidase A (MAO-A), the enzyme responsible for breaking down monoamine neurotransmitters including serotonin. By inhibiting this enzyme, beta-carbolines not only protect orally ingested DMT from first-pass metabolism but also increase synaptic serotonin levels, contributing to their own psychoactive effects.
 
 Beyond their role in ayahuasca, beta-carbolines have been found in a variety of unexpected sources. They are present in trace amounts in chocolate (Theobroma cacao), suggesting that the mood-elevating effects of chocolate may involve beta-carboline activity. They also occur in coffee and certain edible fruits. The widespread presence of these compounds in human food plants raises the possibility that beta-carboline exposure has been a constant, low-level feature of the human diet throughout our evolutionary history.
 
 ## 4. The Ibogaine Family
 
-These substances occur in two related African and South American tree genera, Tabernanthe and Tabernamontana. Tabernanthe iboga is a small, yellow-flowered bush with a history of usage as a hallucinogen in tropical West Africa, particularly among the Bwiti religion of Gabon. Its active compounds bear a structural relationship to beta-carbolines. The Bwiti use iboga root bark in elaborate initiation ceremonies that can involve days of continuous music, dancing, and visionary experience. These ceremonies serve as rites of passage, healing rituals, and communal bonding events, illustrating how iboga functions not merely as a drug but as a cultural technology for social cohesion and personal transformation.
+These substances occur in two related African and South American tree genera, Tabernanthe and Tabernamontana. Tabernanthe iboga is a small, yellow-flowered bush with a history of usage as a hallucinogen in tropical West Africa, particularly among the Bwiti religion of Gabon. Its active compounds bear a [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to beta-carbolines. The Bwiti use iboga root bark in elaborate initiation ceremonies that can involve days of continuous music, dancing, and visionary experience. These ceremonies serve as rites of passage, healing rituals, and communal bonding events, illustrating how iboga functions not merely as a drug but as a cultural technology for social cohesion and personal transformation.
 
 Tabernamontana species from South America produce related indole alkaloids including voacangine and ibogamine, which have been used in traditional medicine throughout the Amazon basin. These compounds share the ibogaine skeleton but typically produce milder effects, suggesting that the Tabernanthe lineage has been under stronger selective pressure for psychoactive potency, possibly due to the intensity of Bwiti ceremonial use.
 
@@ -83,6 +83,8 @@ The revival of clinical research into all four families since the early 2000s ha
 McKenna's analysis fits within his broader framework of the [[mckenna-dissolution-of-the-dominator-culture]] and the [[psychedelic-consciousness-models]] draws on both pharmacological data and phenomenological reports to build integrated models of how these compounds alter consciousness, a project that extends McKenna's original inquiry into the relationship between molecular structure and subjective experience.
 
 ## See Also
+
+- [[four-families-of-indole-hallucinogens]]
 
 - [[mckenna-food-of-the-gods-thesis]]
 - [[psychedelic-mushroom-history]]

@@ -1,7 +1,7 @@
 ---
-title: Nineteenth Century Mushroom Cellars and Growing Structures
+title: mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish Mushroom Cellars and Growing Structures
 slug: nineteenth-century-mushroom-cellars
-source: [[william-falconer]], Mushrooms: How to Grow Them (1891)
+source: william-falconer, Mushrooms: How to Grow Them (1891)
 tags: [mushroom-cellar, greenhouse, historical-agriculture, long-island, mushroom-house, growing-structure, market-gardening]
 ---
 
@@ -11,7 +11,7 @@ tags: [mushroom-cellar, greenhouse, historical-agriculture, long-island, mushroo
 
 [[mushroom-cultivation-history]]
 - [[french-flake-spawn-vs-brick-spawn]] — Materials used to fill these growing structures
-- french flake spawn vs brick spawn — The European tradition of cave cultivation
+- french [[french-flake-spawn-vs-brick-spawn]] vs brick spawn — The European tradition of cave cultivation
 - french flake spawn vs brick spawn — Spawn types used in these cellars
 ## Background and Context
 
@@ -63,7 +63,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -141,4 +141,8 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-
+## See Also
+- [[duggar-mushroom-environmental-factors-temperature-moisture-light]]
+- [[mushroom-cultivation-history]]
+- [[french-flake-spawn-vs-brick-spawn]]
+- [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]

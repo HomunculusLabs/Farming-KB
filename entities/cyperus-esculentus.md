@@ -39,7 +39,7 @@ Archaeological evidence indicates that C. esculentus was cultivated in ancient E
 
 The genus Cyperus is one of the largest genera of monocots, with over 600 species worldwide.
 
-C. esculentus is part of the Cyperus rotundus species complex and exhibits considerable morphological variation across its range.
+C. esculentus is part of the Cyperus rotundus species complex and exhibits considerable morphological [[psilocybin-psilocin-variation-across-flushes]] its range.
 
 Several infraspecific taxa and cultivated varieties have been described, particularly in West Africa and the Mediterranean.
 
@@ -61,7 +61,7 @@ The flesh is white, firm, and sweet, with a distinctive nutty flavor.
 
 ## Distribution and Habitat
 
-Cyperus esculentus has a nearly global distribution in tropical, subtropical, and warm-temperate regions.
+Cyperus esculentus has a nearly [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]] in tropical, subtropical, and warm-temperate regions.
 
 It is believed to be native to Africa, the Mediterranean, and southern Asia, though its exact origin is debated due to ancient cultivation.
 
@@ -79,7 +79,7 @@ In Spain, chufa is grown as a specialized crop for horchata production under reg
 
 Tigernut tubers are nutritionally dense, containing approximately 25–35% fat, 20–30% carbohydrate, and 5–8% protein.
 
-The fat profile is notable for its high oleic acid content (approximately 65–75%), similar to olive oil.
+The fat profile is notable for its high oleic acid content (approximately 65–75%), similar to [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]].
 
 They are also rich in linoleic acid, making the oil potentially valuable for both culinary and cosmetic applications.
 
@@ -117,7 +117,7 @@ Cultivated tigernut is typically planted from whole tubers or tuber segments in 
 
 Planting density ranges from 30,000 to 50,000 tubers per hectare, depending on soil fertility and cultivar.
 
-The crop requires a growing season of approximately 90–120 days from planting to tuber maturity.
+The crop requires a [[savory-growing-season-and-non-growing-season-management]] of approximately 90–120 days from planting to tuber maturity.
 
 Irrigation is essential for commercial production, particularly during tuber-filling stages.
 
@@ -129,12 +129,12 @@ Post-harvest, tubers are washed, dried, and stored in cool, dry conditions.
 
 A major cultivation challenge is volunteer weed emergence from incompletely harvested tubers in subsequent seasons.
 
-In weed management contexts, C. esculentus is notoriously difficult to control due to its extensive tuber bank.
+In [[fukuoka-weed-management-and-green-manure]] contexts, C. esculentus is notoriously difficult to control due to its extensive tuber bank.
 
 ## See Also
 
 - [[colocasia-esculenta]]
 - [[maranta-arundinacea]]
 - [[manihot-esculenta]]
-- [[typha-latifolia-entity]]
+- typha-latifolia-entity
 - [[lathyrus-tuberosus]]

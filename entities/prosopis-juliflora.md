@@ -24,7 +24,7 @@ created: 2026-04-28
 
 **Prosopis juliflora** (Sw.) DC., commonly known as **mesquite**, **vilayati babul**, or **bayahonda**, is a thorny, nitrogen-fixing leguminous tree in the family Fabaceae, subfamily Caesalpinioideae.
 
-Native to Central and South America, it has become one of the world's most widely distributed and controversial tropical trees. It is valued for its extreme resilience and multipurpose utility but reviled for its aggressive invasiveness outside its native range.
+Native to Central and South America, it has become one of the world's most widely distributed and controversial tropical trees. It is valued for its [[bloomfield-ascospore-extreme-resilience-electron-microscope-survival]] and multipurpose utility but reviled for its aggressive invasiveness outside its native range.
 
 The tree is exceptionally drought- and salt-tolerant, capable of establishing where few other woody species survive. It produces nutritious pods that have served as staple food and livestock fodder for indigenous peoples across the Americas for thousands of years.
 
@@ -50,7 +50,7 @@ Seeds are hard-coated, brown, oval, approximately 4–6 mm long, capable of rema
 
 ## Distribution and Habitat
 
-P. juliflora is native to a broad swath of the Americas, from southern Mexico through Central America to northern South America (Colombia, Venezuela, Peru, Ecuador). Its native range extends through the Caribbean islands.
+P. juliflora is native to a broad swath of the Americas, from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to northern South America (Colombia, Venezuela, Peru, Ecuador). Its native range extends through the Caribbean islands.
 
 The species has been introduced to over 80 countries across Africa, Asia, the Middle East, and Australia. It is now naturalized and invasive in large parts of India, Pakistan, East Africa (Kenya, Ethiopia, Tanzania, Sudan), South Africa, Australia, and the Middle East.
 
@@ -82,11 +82,11 @@ The flowers are a major nectar source for honey production. Prosopis honey is li
 
 Outside its native range, P. juliflora is one of the world's most problematic invasive woody plants. It forms dense, impenetrable thickets that displace native vegetation, reduce biodiversity, and alter fire regimes.
 
-The species has transformed millions of hectares of rangeland, grassland, and riparian habitat across Africa and Asia. Competitive advantages include extreme drought tolerance, prolific seed production, long-lived seed banks, efficient nitrogen fixation, and vigorous resprouting after cutting or fire.
+The species has transformed millions of hectares of rangeland, grassland, and riparian habitat across Africa and Asia. Competitive advantages include extreme [[dighton-fungal-drought-tolerance-plant-water-relations]], prolific seed production, long-lived seed banks, efficient [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], and vigorous resprouting after cutting or fire.
 
-Livestock disperse seeds through ingestion and defecation, facilitating rapid range expansion. Control methods include mechanical removal, chemical control with herbicides such as glyphosate and triclopyra, and biological control using the seed-feeding bruchid beetle (*Algarobius prosopis*).
+Livestock disperse seeds through ingestion and defecation, facilitating rapid range expansion. Control methods include mechanical removal, chemical control with herbicides such as glyphosate and triclopyra, and [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] using the seed-feeding bruchid beetle (*Algarobius prosopis*).
 
-Despite its invasiveness, some researchers argue for managed utilization rather than eradication in areas where the species is already established, noting its economic value for fuelwood, fodder, and charcoal production.
+Despite its invasiveness, some researchers argue for managed utilization rather than eradication in areas where the species is already established, noting its economic value for fuelwood, fodder, and [[mollison-designers-charcoal-production-biochar-soil-amendment]].
 
 ## Cultivation and Management
 
@@ -104,8 +104,8 @@ In managed agroforestry systems, spacing of 5–10 m between trees is recommende
 
 ## See Also
 
-- [[gliricidia-sepium]]
-- [[sesbania-grandiflora]]
+- gliricidia-sepium
+- sesbania-grandiflora
 - [[dalbergia-sissoo]]
 - [[biological-nitrogen-fixation-agriculture]]
 - [[food-forest]]

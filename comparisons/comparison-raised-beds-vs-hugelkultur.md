@@ -5,7 +5,8 @@ tags: [comparison, garden-design, permaculture, soil-building,
 water-management]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -13,7 +14,7 @@ type: comparison
 
 ## Overview
 Raised beds and hugelkultur beds both elevate growing surfaces above ground
-level to improve drainage, reduce soil compaction, and extend the growing
+level to improve drainage, reduce soil compaction, and [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]
 season. However, they differ fundamentally in construction method, long-term
 soil dynamics, water management, and input requirements. Traditional raised beds
 are filled with imported soil and compost mixtures, providing immediate planting
@@ -24,13 +25,12 @@ timeline, budget, and whether you need immediate productivity or long-term
 self-sufficiency.
 
 ## Raised Beds
-[[hugelkultur]]
 
 Hugelkultur (German for mound culture) is a permaculture technique that
-buries logs, branches, and woody debris under layers of organic matter and
+buries logs, branches, and woody debris under layers of [[hamilton-composting-and-organic-matter-management]] and
 topsoil to create raised mounds. As the wood decomposes over years, it acts like
 a sponge, absorbing and releasing water and nutrients gradually. Popularized by
-Austrian farmer Sepp Holzer and widely adopted in temperate permaculture design,
+Austrian farmer Sepp Holzer and widely adopted in temperate [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]],
 hugelkultur beds convert waste wood into productive growing space while building
 deep, fertile soil from below. A mature hugelkultur bed can hold enough moisture
 to go weeks without irrigation, even during drought.
@@ -49,7 +49,7 @@ The primary limitation is the initial settling period. Fresh hugelkultur beds
 can settle significantly in the first one to two years as wood decomposes and
 air pockets collapse. Nitrogen drawdown can occur in the first season as soil
 microorganisms use available nitrogen to break down the high-carbon wood core,
-potentially causing nutrient deficiency in plants. This means the best results
+potentially causing [[cannabis-grow-nutrient-deficiency-problem-solving]] in plants. This means the best results
 come after a year or two of decomposition, making hugelkultur a longer-term
 investment. Taller mounds (3 to 6 feet) can also be difficult to plant and
 harvest on slopes, and the rough appearance may not suit all garden aesthetics.
@@ -71,7 +71,7 @@ decomposition |
 generates warmth) |
 | Lifespan | Indefinite with maintenance | 10-20+ years as wood breaks down |
 | Height | Typically 6-12 inches | 2-6 feet (mounds) |
-| Carbon sequestration | Minimal | Significant (buried wood) |
+| [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] | Minimal | Significant (buried wood) |
 | Best for | Immediate results, clean soil, beginners | Long-term investment,
 poor soil, slopes |
 | Nitrogen management | Add compost regularly | Add nitrogen layer during
@@ -86,10 +86,13 @@ gardeners who want precise control over soil composition. Raised beds also work
 well for intensive square foot gardening and situations where the growing
 surface must be at a uniform, accessible height for wheelchair users or those
 with mobility limitations. The predictable, contained environment makes them
-ideal for beginners who want a manageable introduction to vegetable gardening.
+ideal for beginners who want a manageable introduction to [[home-vegetable-garden-planning]].
 See [[hugelkultur-beds]] for detailed construction methods and [[sheet-mulching]] for surface-based alternatives
 that build soil without excavation.
 ## See Also
+
+- [[natfarm-hugelkultur-raised-beds]]
+- [[comparison-raised-beds-vs-wicking-beds]]
 - hugelkultur vs terracing
 - [[sheet-mulching]]
 - [[soil-building-permaculture]]

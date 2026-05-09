@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of North America." Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Nimis, P.L. (2016). "The Lichens of Italy: A Second Annotated Catalogue." EUT Edizioni Università di Trieste.
   - Spribille, T. et al. (2014). "Bryoria section Implexae (Parmeliaceae, Lecanoromycetes) in western North America." "The Bryologist" 117(4): 311–325.
   - McCune, B. & Geiser, L. (2009). "Macrolichens of the Pacific Northwest." 2nd ed. Oregon State University Press.
@@ -30,7 +30,7 @@ Thalli are fruticose, pendulous, and range from 5 to 15 cm in length. Branching 
 
 Branches are cylindrical and somewhat angular in cross-section. Pseudocyphellae (tiny pores for gas exchange) are absent or very sparse, which helps separate this species from the *B. implexa* group. Apothecia are rare; when present they are lecanorine with a brown disc and a paler thalline margin.
 
-The photobiont is a trebouxioid green alga, typically *Trebouxia* species. Medullary chemistry includes fumarprotocetraric acid as the primary secondary metabolite, occasionally accompanied by protocetraric acid.
+The photobiont is a trebouxioid green alga, typically *Trebouxia* species. Medullary chemistry includes fumarprotocetraric acid as the primary [[fungal-elicitors-enhanced-secondary-metabolite-production]], occasionally accompanied by protocetraric acid.
 
 ## Distribution and Habitat
 
@@ -42,7 +42,7 @@ The species is a strict epiphyte, occurring almost exclusively on the bark and b
 
 ## Ecology and Symbiosis
 
-*Bryoria caperata* contributes to canopy epiphyte biomass in boreal forests, where it can form significant draping masses on old-growth conifers. These lichen mats provide microhabitat for invertebrates including mites, springtails, and small insects.
+*Bryoria caperata* contributes to canopy epiphyte biomass in [[fungal-diversity-boreal-forests-taiga]], where it can form significant draping masses on old-growth conifers. These lichen mats provide microhabitat for invertebrates including mites, springtails, and small insects.
 
 The species is moderately sensitive to sulfur dioxide and nitrogen pollution, making it a useful bioindicator of forest air quality. It has declined substantially across central Europe since the industrial era and is recovering only slowly even where air quality has improved.
 
@@ -50,7 +50,7 @@ The species is moderately sensitive to sulfur dioxide and nitrogen pollution, ma
 
 Birds, particularly warblers and kinglets, use *Bryoria* mats as nesting material in old-growth conifer forests across its range. Flying squirrels and other arboreal mammals also incorporate *Bryoria* species into nest construction for insulation.
 
-The lichen plays a role in nutrient cycling within the canopy ecosystem. Through intercepting atmospheric deposition and releasing nutrients upon decomposition, fruticose lichens like *B. caperata* contribute to the nutrient economy of old-growth forests where ground-layer cycling is slow.
+The lichen plays a role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within the canopy ecosystem. Through intercepting atmospheric deposition and releasing nutrients upon decomposition, fruticose lichens like *B. caperata* contribute to the nutrient economy of old-growth forests where ground-layer cycling is slow.
 
 ## Traditional and Ethnobotanical Uses
 
@@ -66,7 +66,7 @@ In European folk traditions, dark fruticose lichens including *Bryoria* were som
 
 Apothecia are produced rarely in most populations, suggesting that sexual reproduction plays a minor role. When present, ascospores are hyaline, unicellular, and broadly ellipsoid, measuring approximately 8–12 × 5–7 µm.
 
-Isidia and soredia are absent, which limits short-distance dispersal compared to sorediate lichens. This dispersal limitation contributes to the species' slow recolonization of forests following disturbance events.
+Isidia and soredia are absent, which limits short-distance dispersal compared to sorediate lichens. This [[fungal-dispersal-limitation-biogeographic-barriers]] contributes to the species' slow recolonization of forests following disturbance events.
 
 The species relies heavily on continuity of suitable habitat for long-term persistence. Fragmented forest landscapes with few mature conifers present dispersal barriers that can take decades to overcome through rare long-distance establishment events.
 
@@ -92,7 +92,7 @@ Some *Bryoria* species contain vulpinic acid and are toxic to mammals, but *B. c
 
 The species is dependent on old-growth forest structure and is negatively affected by clear-cut logging and forest fragmentation. Stand age, bark pH, and canopy continuity are key factors influencing its abundance.
 
-Conservation recommendations include retention of old-growth conifer buffers, reduction of atmospheric nitrogen deposition, and maintenance of continuous forest canopy in managed landscapes.
+Conservation recommendations include retention of old-growth conifer buffers, reduction of atmospheric [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]], and maintenance of continuous forest canopy in managed landscapes.
 
 ## See Also
 

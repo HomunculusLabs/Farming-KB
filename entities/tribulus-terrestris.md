@@ -29,7 +29,7 @@ sources:
 | Genus | *Tribulus* |
 | Species | *T. terrestris* |
 
-The genus *Tribulus* comprises approximately 20 species distributed across warm regions worldwide. The species name *terrestris* (Latin for "of the earth") refers to its prostrate, ground-hugging growth habit. Several botanical varieties have been described, with *T. terrestris* var. *terrestris* being the most widespread. Taxonomic confusion exists between *T. terrestris* and related species, which has implications for the consistency and efficacy of commercial herbal preparations.
+The genus *Tribulus* comprises approximately 20 species distributed across warm regions worldwide. The species name *terrestris* (Latin for "of the earth") refers to its prostrate, ground-hugging growth habit. Several botanical varieties have been described, with *T. terrestris* var. *terrestris* being the most widespread. [[growing-gourmet-pleurotus-sajor-caju-taxonomic-confusion]] exists between *T. terrestris* and related species, which has implications for the consistency and efficacy of commercial herbal preparations.
 
 ## Botanical Description
 
@@ -47,7 +47,7 @@ The genus *Tribulus* comprises approximately 20 species distributed across warm 
 *T. terrestris* is one of the most widely distributed weed species globally:
 
 - **Native range:** Southern Europe, Asia, Africa, and Australia. Believed to originate from the Mediterranean basin or Central Asia.
-- **Introduced/invasive:** Now naturalized across the Americas (North and South), Pacific Islands, and parts of northern Europe. Classified as a noxious weed in many jurisdictions.
+- **Introduced/invasive:** Now naturalized across the Americas (North and South), [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], and parts of northern Europe. Classified as a noxious weed in many jurisdictions.
 - **Habitat:** Extremely adaptable. Thrives in disturbed soils, roadsides, agricultural fields, pastures, sandy areas, and waste ground. Tolerates poor, compacted, saline, and alkaline soils. Prefers full sun and warm temperatures.
 - **Climate:** Grows in USDA hardiness zones 4–11. Drought-tolerant once established. Cannot tolerate waterlogged soils or deep shade.
 
@@ -78,7 +78,7 @@ In Ayurvedic medicine, *T. terrestris* is known as *Gokshura* and has been used 
 - Used to treat urinary tract disorders, kidney stones (*Ashmari*), and dysuria
 - Prescribed for male sexual dysfunction, low libido, and infertility
 - Used as a diuretic and for edema management
-- Employed in joint pain and inflammatory conditions
+- Employed in joint pain and [[cannabis-for-inflammatory-conditions]]
 - Key ingredient in traditional formulations like *Gokshuradi Guggulu* and *Chandraprabha Vati*
 
 ### Traditional Chinese Medicine
@@ -98,7 +98,7 @@ Known as *Ci Ji Li* (蒺藜):
 ## Modern Research
 
 ### Sexual Function and Testosterone
-The most extensively studied area is the effect on testosterone and sexual function, with mixed results:
+The most extensively studied area is the effect on testosterone [[cannabis-for-libido-and-sexual-function]], with mixed results:
 - **Animal studies:** Consistently show increased serum testosterone, LH, and androgen receptor density in rodents. Improved sperm count, motility, and sexual behavior parameters.
 - **Human studies:** Results are conflicting. Some trials show modest increases in free and total testosterone in men with low baseline levels, while others show no significant effect in healthy men. A 2017 meta-analysis concluded that *T. terrestris* supplementation may improve some aspects of male sexual function (libido, erectile function) but does not significantly increase testosterone in healthy subjects.
 - **Women:** Limited evidence suggests potential benefits for female sexual dysfunction, including improved libido and lubrication.
@@ -106,13 +106,13 @@ The most extensively studied area is the effect on testosterone and sexual funct
 ### Athletic Performance
 Marketed widely as a sports supplement for testosterone enhancement:
 - Most well-controlled studies show no significant improvement in testosterone, lean body mass, or athletic performance in trained athletes
-- Some studies report subjective improvements in energy and exercise recovery
+- Some studies report subjective improvements in energy and [[cannabis-and-exercise-recovery]]
 - The World Anti-Doping Agency (WADA) does not currently ban *T. terrestris*, but its use as a testosterone booster remains controversial
 
 ### Urinary Tract Health
 - Evidence supports traditional use as a mild diuretic
 - Some clinical studies demonstrate utility in reducing urinary symptoms in benign prostatic hyperplasia (BPH)
-- May have protective effects against calcium oxalate kidney stones in animal models
+- May have protective effects against [[fungal-calcium-oxalate-crystals]] kidney stones in animal models
 
 ### Cardiovascular Effects
 - Animal studies show hypotensive (blood pressure-lowering) and cardioprotective effects
@@ -141,5 +141,5 @@ Marketed widely as a sports supplement for testosterone enhancement:
 
 - [[mucuna-pruriens]]
 - [[withania-somnifera]] — Ashwagandha, another Ayurvedic adaptogen with androgenic properties
-- [[fiber-plants-permaculture]] — Potential use of Tribulus as a ground cover in permaculture systems
-- [[mucuna-pruriens]] — Velvet bean, another Ayurvedic aphrodisiac and testosterone-supporting herb
+- fiber-plants-permaculture — Potential use of Tribulus as a ground cover in permaculture systems
+- [[thelephora-terrestris]]

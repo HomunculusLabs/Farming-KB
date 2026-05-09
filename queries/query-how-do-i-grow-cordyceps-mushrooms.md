@@ -12,12 +12,12 @@ type: query
 # How Do I Grow Cordyceps Mushrooms?
 ## Short Answer
 Cordyceps militaris can be grown at home by inoculating sterilized grain substrates (typically rice-based) with liquid culture or agar culture in sterile jars, then incubating at 20 to 25 degrees Celsius with 12 hours of light daily until orange fruiting bodies emerge.
-The entire grow happens inside sealed jars without a separate fruiting chamber, making the process simpler in some ways but requiring absolutely sterile conditions.
+The entire grow happens inside sealed jars without a separate [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]], making the process simpler in some ways but requiring absolutely sterile conditions.
 Fruiting bodies mature over 4 to 8 weeks and should be dried at low temperatures to preserve the valuable cordycepin and other medicinal compounds.
 ## Detailed Explanation
 Growing [[cordyceps-sinensis]] grows only on specific caterpillars in the high Himalayas and cannot be practically cultivated, Cordyceps militaris can be grown on grain substrates.
-It produces similar bioactive compounds including cordycepin and beta-glucans, making it an accessible alternative for home cultivators and commercial producers.
-The [[cordyceps-and-entomopathogenic-fungi]] resource provides additional context on the biological adaptations that make this genus unique among cultivated mushrooms.
+It produces similar [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] including cordycepin and beta-glucans, making it an accessible alternative for home cultivators and commercial producers.
+The [[cordyceps-and-entomopathogenic-fungi]] resource provides additional context on the biological adaptations that make this genus unique among [[fungi-cultivated-mushrooms-pathogens-competitors]].
 ### Understanding Cordyceps Biology
 Cordyceps militaris is an entomopathogenic fungus, meaning it naturally parasitizes insect larvae and pupae in the wild.
 The [[grain-spawn-preparation]] principles apply here, though the moisture content and supplement ratios are specifically optimized for Cordyceps.
@@ -32,7 +32,7 @@ This means all viable organisms must be killed, not just reduced in population.
 A pressure cooker capable of reaching 15 PSI (121 degrees Celsius) for a minimum of 90 minutes is required.
 120 minutes is recommended for larger jars to ensure the core temperature is maintained long enough to kill heat-resistant bacterial endospores.
 The [[mushroom-liquid-culture]] preparation for Cordyceps uses a nutrient broth of light malt extract (2 to 4 percent) dissolved in distilled water.
-The broth is sterilized and inoculated in front of a laminar flow hood using strict sterile technique.
+The broth is sterilized and inoculated in front of a laminar flow hood using strict [[cultivator-sterile-technique-and-agar-culture]].
 The liquid culture should be allowed to colonize for 10 to 14 days at 20 to 22 degrees Celsius.
 Gentle agitation every few days helps distribute the growing mycelium throughout the broth for even colonization.
 For inoculation, inject 5 to 10 milliliters of liquid culture into each sterilized jar.
@@ -50,12 +50,12 @@ Keep the jars in a clean area away from direct sunlight, which can overheat the 
 These fluctuations can stress the developing mycelium and reduce the quality and quantity of the final fruiting bodies.
 Colonization typically takes 14 to 21 days, during which the white mycelium spreads across the grain surface.
 The mycelium gradually penetrates between the individual grains, binding them together into a solid colonized block.
-You should see visible growth within 3 to 5 days of inoculation if your liquid culture was active and your inoculation technique was clean.
+You should see visible growth within 3 to 5 days of inoculation if your liquid culture was active and your [[pf-tek-inoculation-technique-and-syringe-management]] was clean.
 Around day 10 to 14, small orange bumps will begin to appear on the mycelial surface.
 These are the primordia or early fruiting body formations that indicate the jar is entering the fruiting phase.
 ### Fruiting and Maturation
 The fruiting phase for Cordyceps militaris is unique because it occurs entirely inside the sealed jar.
-No separate fruiting chamber or humidity management is needed for the process to complete successfully.
+No separate fruiting chamber or [[stamets-cultivator-humidity-management-fogging-systems]] is needed for the process to complete successfully.
 The sealed jar naturally maintains high humidity around the developing fruiting bodies.
 Gas exchange occurs through the filter patch or loose lid on the jar, providing the mycelium with fresh oxygen.
 Temperature should be maintained at 18 to 22 degrees Celsius with 12 hours of light daily during fruiting.
@@ -73,7 +73,7 @@ Carefully grasp each fruiting body at the base near the grain surface and gently
 The fruiting bodies are quite fragile when fresh and should be handled carefully to avoid breaking the slender stems.
 Remove any grain or substrate material clinging to the base of the fruiting bodies after harvesting.
 Drying is essential for preserving Cordyceps militaris and concentrating its medicinal compounds for long-term storage.
-The [[mushroom-cultivation-sterile-laboratory-design]] should be followed rigorously for all inoculation work.
+The mushroom-cultivation-sterile-laboratory-design should be followed rigorously for all inoculation work.
 All inoculation work should be performed in front of a laminar flow hood using flame-sterilized tools.
 Bacterial contamination appears as slimy patches or sour odors in the jar, while mold contamination shows up as colored growth.
 Green, black, or pink growth that is clearly different from the white mycelium indicates mold contamination.

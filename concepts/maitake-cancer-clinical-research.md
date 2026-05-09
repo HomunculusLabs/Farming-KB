@@ -1,5 +1,5 @@
 ---
-title: Maitake Grifola Frondosa Cancer Clinical Research
+title: Maitake maitake-grifola-frondosa-comprehensive-profile Cancer hofmann-lsd-clinical-research-early-studies
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -15,7 +15,7 @@ Grifola frondosa (Maitake, Hen of the Woods) produces beta-D-glucan and glycopro
 
 - Grifron-D (GD): Highly purified beta-1,6 glucan branched with beta-1,3 linkage
 - D-fraction: Beta-glucan glycoprotein complex
-- Crude Maitake powder: Whole mushroom preparation
+- Crude Maitake powder: Whole [[magic-mushroom-preparation-and-consumption-methods]]
 
 Key distinction: GD and D-fraction are orally bioavailable, unlike [[lentinan-pre-clinical-antitumour-models]].
 
@@ -41,7 +41,7 @@ The apparent success of crude Maitake powder by oral administration in cancer th
 
 The anticancer properties of these mushroom-derived compounds operate through multiple pathways:
 
-1. **Immune modulation**: Activation of natural killer (NK) cells, macrophages, and dendritic cells through beta-glucan receptor binding
+1. **[[cancer-immune-modulation-mechanisms]]**: Activation of natural killer (NK) cells, macrophages, and dendritic cells through beta-glucan [[tihkal-receptor-binding-serotonin]]
 2. **Direct antitumor effects**: Induction of apoptosis in cancer cells via mitochondrial pathways
 3. **Anti-angiogenesis**: Inhibition of tumor blood vessel formation
 4. **Anti-metastatic activity**: Prevention of cancer cell migration and invasion
@@ -58,7 +58,7 @@ Mushroom-derived preparations are generally well-tolerated with minimal side eff
 ## Key Points
 
 - Mushroom-derived polysaccharides show immunomodulatory and direct antitumor activity
-- Beta-glucans are the primary bioactive compounds responsible for immune activation
+- Beta-glucans are the primary [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] responsible for immune activation
 - Clinical evidence supports adjunctive use alongside conventional cancer treatments
 - Safety profiles are favorable compared to many conventional therapies
 - Further large-scale clinical trials are needed to optimize dosing protocols
@@ -66,7 +66,7 @@ Mushroom-derived preparations are generally well-tolerated with minimal side eff
 ## See Also
 - [[medicinal-mushroom-guide-meshima]]
 - maitake cancer clinical research
-- [[fungal-immunology-overview]]
+- fungal-immunology-overview
 - [[shiitake-mushroom-cultivation]]
 - [[reishi-mushroom-medicinal-research]]
 ## Practical Considerations
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

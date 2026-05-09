@@ -1,5 +1,5 @@
 ---
-title: Sacred Mushroom Hypothesis
+title: allegro-the-sacred-mushroom-amanita-identification Hypothesis
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -17,7 +17,7 @@ sources:
 
 # Sacred Mushroom Hypothesis
 
-John Marco Allegro's controversial 1970 theory that Christianity originated from a fertility cult centered on the psychoactive *Amanita muscaria* mushroom.
+John Marco Allegro's controversial 1970 theory that Christianity originated from a fertility cult centered on the psychoactive *[[allegro-amanita-muscaria-properties-and-pharmacology]]* mushroom.
 
 ## The Book
 
@@ -38,7 +38,7 @@ Allegro's methodology centered on comparative philology of ancient Near Eastern 
 
 Allegro proposed that ancient Sumerian religion centered on the worship of a primeval mushroom deity associated with fertility, sexuality, and cosmic knowledge. This cult, he argued, persisted underground through millennia, encoded in increasingly cryptic linguistic forms, eventually giving rise to the major religions of the Near East.
 
-He traced what he saw as a continuous tradition from Sumerian mushroom worship through Canaanite religion, Judaism, early Christianity, and Gnosticism.
+He traced what he saw as a continuous tradition from Sumerian mushroom worship through [[allegro-canaanite-religion-and-the-mushroom]], Judaism, early Christianity, and Gnosticism.
 
 ## Reception and Criticism
 
@@ -59,7 +59,7 @@ The book was almost universally rejected by scholars upon publication:
 
 ## Historical Context
 
-Allegro's book did not emerge in isolation. As noted in *Shroom: A Cultural History of the Magic Mushroom*, Wasson's *SOMA* (1968) "can be seen as a foundational text" in the sub-genre of works that "purport to reveal how the world's religions were actually founded upon fly-agaric cults." Wasson's theory about Soma and the Rig Veda, though more scholarly than Allegro's, "unintentionally transformed [the Rig Veda] into a holy, foundational text for the psychedelic movement" and triggered a cascade of increasingly speculative works applying the same pattern to other religions.
+Allegro's book did not emerge in isolation. As noted in *Shroom: A [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the [[australian-magic-mushroom-common-names]]*, Wasson's *SOMA* (1968) "can be seen as a foundational text" in the sub-genre of works that "purport to reveal how the world's religions were actually founded upon fly-agaric cults." Wasson's theory about Soma and the Rig Veda, though more scholarly than Allegro's, "unintentionally transformed [the Rig Veda] into a holy, foundational text for the psychedelic movement" and triggered a cascade of increasingly speculative works applying the same pattern to other religions.
 
 Other works in this tradition included Andrija Puharich's *The Sacred Mushroom: Key to the Door of Eternity* (1959), which claimed ancient Egyptians used fly-agaric based on trance medium channeling, and numerous books by lesser-known authors claiming to find mushroom imagery encoded in everything from cathedral architecture to Christmas decorations.
 
@@ -81,4 +81,4 @@ The broader question Allegro raised -- whether psychoactive plants played a role
 
 - [[amanita-muscaria-ethnobotany]] for the fly-agaric in Siberian and other cultures
 - [[psychedelic-plants-in-ancient-cultures]] for more credible theories about ancient psychedelic use
-- [[mushroom-folklore-and-culture]] for mushroom folklore
+- [[mushroom-folklore-and-culture]] for [[palmer-mushroom-folklore-cultural-significance]]

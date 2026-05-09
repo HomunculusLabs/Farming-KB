@@ -29,7 +29,7 @@ Kingdom Plantae → Clade Eudicots → Clade Asterids → Order Lamiales → Fam
 
 - **Growth habit**: Herbaceous perennial, 30–80 cm tall, spreading by rhizomes to form dense clumps 40–60 cm wide
 - **Stems**: Square (Lamiaceae), branched, pubescent, green to slightly reddish
-- **Leaves**: Opposite, ovate to cordate, 3–7 cm long, dentate margins, deeply veined; bright green with crinkled texture; strong lemon fragrance when crushed from citral-rich essential oil glands
+- **Leaves**: Opposite, ovate to cordate, 3–7 cm long, dentate margins, deeply veined; bright green with crinkled texture; strong lemon fragrance when crushed from citral-rich [[permaculture-designers-manual-essential-oil-plants]] glands
 - **Flowers**: Small, two-lipped, white to pale pink, 8–12 mm, whorled clusters at leaf axils; blooms midsummer to early autumn
 - **Roots**: Fibrous with shallow rhizomes; moderately aggressive spreader
 
@@ -93,13 +93,13 @@ Spacing 30–45 cm. Full sun to partial shade. Moderate water (2.5 cm/week); dro
 
 ### Harvest
 
-Harvest leaves throughout the growing season; peak essential oil content just before flowering. Cut stems 5–10 cm above ground; regrows rapidly. 2–4 cuttings per season. Dry in warm, dark, well-ventilated area at ≤40 °C to preserve volatile oils.
+Harvest leaves throughout the [[savory-growing-season-and-non-growing-season-management]]; peak essential oil content just before flowering. Cut stems 5–10 cm above ground; regrows rapidly. 2–4 cuttings per season. Dry in warm, dark, well-ventilated area at ≤40 °C to preserve volatile oils.
 
 ## Permaculture Applications
 
 - **Pollinator support**: Exceptional bee forage; plant near vegetables and fruit trees to boost pollination
-- **Companion planting**: Repels cabbage moths, squash bugs, and mosquitoes; benefits tomatoes, peppers, brassicas
-- **Ground cover**: Dense spreading habit suppresses weeds in perennial borders
+- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]**: Repels cabbage moths, squash bugs, and mosquitoes; benefits tomatoes, peppers, brassicas
+- **[[fukuoka-citrus-orchard-ground-cover-cultivation]]**: Dense spreading habit suppresses weeds in perennial borders
 - **Beekeeping**: Historically rubbed inside new hives to attract swarms
 - **Chop-and-drop**: Green mulch with mild allelopathic weed suppression
 
@@ -114,7 +114,7 @@ Harvest leaves throughout the growing season; peak essential oil content just be
 
 ### Standardized Extracts
 
-- **Cyracos®** (standardized to 7% rosmarinic acid): 300 mg 2× daily for anxiety; clinical trial dose
+- **Cyracos®** (standardized to 7% rosmarinic acid): 300 mg 2× daily for anxiety; [[psilocybin-clinical-trial-landscape-2020-2025]] dose
 - **Blended preparations**: Often combined with valerian (*Valeriana officinalis*) at 2:1 to 3:1 valerian:lemon balm ratio for sleep support
 
 ### Traditional Preparations
@@ -126,7 +126,7 @@ Harvest leaves throughout the growing season; peak essential oil content just be
 
 ### Harvest Timing for Maximum Potency
 
-Essential oil and rosmarinic acid concentrations peak just before flowering (late spring to early summer). Harvest in late morning after dew dries but before peak heat volatilizes essential oils. Second harvest in early autumn has lower oil content but higher rosmarinic acid — suitable for tinctures over aromatic preparations.
+Essential oil and rosmarinic acid concentrations peak just before flowering (late spring to early summer). Harvest in late morning after dew dries but before peak heat volatilizes [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]. Second harvest in early autumn has lower oil content but higher rosmarinic acid — suitable for tinctures over aromatic preparations.
 
 ## Companion Planting Guide
 
@@ -135,9 +135,6 @@ Lemon balm's pest-repellent and pollinator-attracting properties make it a versa
 - **Tomatoes**: Repels whiteflies and tomato hornworms; improves fruit set via pollinator support
 - **Brassicas**: Deters cabbage white butterflies and cabbage moths with aromatic oils
 - **Squash and cucumbers**: Repels squash bugs; attracts pollinators for better fruit set
-- **Apples and fruit trees**: Planted at the base of fruit trees, attracts pollinators during bloom
-- **Avoid with**: Basil (competitive root space); sage (inhibitory allelopathy reported)
-
 ## See Also
 
 - [[herbal-medicine-making-basics]]
@@ -145,4 +142,7 @@ Lemon balm's pest-repellent and pollinator-attracting properties make it a versa
 
 ## See Also
 
-- [[permaculture-plants-salt-tolerant-fodder-systems]]
+- permaculture-plants-salt-tolerant-fodder-systems
+- [[melissa-officinalis]]
+- [[companion-planting]]
+- [[valeriana-officinalis]]

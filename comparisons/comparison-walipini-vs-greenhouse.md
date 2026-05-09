@@ -13,7 +13,7 @@ type: comparison
 ## Overview
 
 A walipini (underground greenhouse) and a conventional above-ground greenhouse both
-extend the growing season by creating a controlled environment for plants, but they
+[[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season by creating a controlled environment for plants, but they
 achieve this through fundamentally different thermal strategies. The walipini uses
 earth sheltering and geothermal insulation to maintain stable temperatures with
 minimal heating, while a conventional greenhouse relies on solar gain through glazed
@@ -26,7 +26,7 @@ suitability for different climates and budgets.
 [[greenhouse-growing]]
 
 A conventional greenhouse is a structure with glazed walls and roof that captures
-solar energy to create a warm, protected growing environment. Greenhouses serve for
+[[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] to create a warm, protected [[cannabis-growing-environment-setup]]. Greenhouses serve for
 raising seedlings, growing tender crops, overwintering frost-sensitive plants, and
 producing early yields. They are the most versatile and widely used season-extension
 structure in both home gardens and commercial agriculture.
@@ -39,7 +39,7 @@ various foundation options. Adequate ventilation is vital: a 6 by 8 foot greenho
 needs at least two roof vents.
 
 Heating methods include electricity (convenient and accurate temperature control),
-natural gas, propane, wood-fired heaters, and passive solar mass (water barrels,
+natural gas, propane, wood-fired heaters, and [[comparison-passive-solar-vs-earth-sheltered]] mass (water barrels,
 stone walls). The critical metrics are minimum night temperature and maximum day
 temperature, with variation ideally no more than 10 degrees C. Greenhouses can be
 divided into heated and unheated sections for different crop requirements.
@@ -54,7 +54,7 @@ divided into heated and unheated sections for different crop requirements.
 | Construction Cost | Moderate (excavation, liner, framing) | Variable (kits to custom builds) |
 | Construction Difficulty | High (excavation, drainage, waterproofing) | Low to moderate |
 | Summer Performance | Can overheat; requires ventilation | Generally better ventilation options |
-| Growing Space | Limited by excavation depth | Flexible; can be any size |
+| [[cotter-growing-space-design-fruiting-rooms]] | Limited by excavation depth | Flexible; can be any size |
 | Natural Light | Reduced (only from roof glazing) | Full (walls and roof glazed) |
 | Lifespan | 20+ years with proper waterproofing | Varies; 10 to 30+ years |
 | Best Climate | Cold climates with large temp swings | All climates with appropriate design |

@@ -1,5 +1,5 @@
 ---
-title: "Acid House, Rave Culture, and the Second Magic Mushroom Boom"
+title: "Acid House, acid house rave culture and second mushroom boom, and the Second australian-magic-mushroom-common-names Boom"
 created: 2026-04-26
 tags:
   - rave-culture
@@ -47,7 +47,7 @@ the '90s and into the 21st century."
 Timothy Leary's influence, which had waned steadily since his
 imprisonment in the 1970s, revived when he found a new following
 amongst the Rave generation. He addressed crowds at events and his
-message of consciousness expansion resonated with young people who had
+message of [[mckenna-consciousness-expansion-and-drug-war]] resonated with young people who had
 discovered psychoactive substances through dance culture rather than
 through the counterculture of the previous generation. The rave scene
 provided a platform for psychedelic ideas to reach a new audience.
@@ -61,7 +61,7 @@ became, as one commentator observed, "like having a cup of tea." This
 cultural shift was crucial: it removed the stigma and fear that had
 surrounded psychedelics since the moral panics of the previous decade.
 
-In this context, magic mushrooms gained new appeal. They were
+In this context, [[guzman-magic-mushrooms-african-species]] gained new appeal. They were
 perceived as a "natural" and "organic" alternative to synthetic drugs,
 a perception that remains in place today and accounts for at least some
 of their popularity. The effects of mushrooms at moderate street doses
@@ -107,10 +107,10 @@ found their audience within the broader rave and festival culture.
 
 ## The Cultural Significance
 
-The significance of rave culture for magic mushroom history lies not
+The significance of rave culture for magic [[duggar-mushroom-history-and-overview]] lies not
 in any direct connection between Ecstasy and psilocybin, but in the
 broader cultural transformation it represented. Rave normalised
-psychoactive drug use, created social spaces where altered states were
+psychoactive drug use, created social spaces where [[weil-the-natural-mind-altered-states-normalcy]] were
 celebrated rather than condemned, and generated a network of
 alternative culture that could sustain and distribute psychedelic
 knowledge. The loved-up ethos of the dance floor, with its emphasis on
@@ -127,6 +127,9 @@ consciousness grew.
 
 - [[1960s-counterculture-and-magic-mushrooms]] - the first mushroom
   - boom
-- [[mushroom-music-psychedelic-underground]] - music connections
+- mushroom-music-psychedelic-underground - music connections
 - [[psychedelic-prohibition-and-the-war-on-consciousness]] - the
   - prohibition context
+- [[alexander-shulgin]]
+- [[timothy-leary]]
+- [[terence-mckenna]]

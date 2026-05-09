@@ -10,14 +10,14 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 # Gymnopilus badiceps
 
-**Gymnopilus badiceps** is a species of neurotropic mushroom in the family Cortinariaceae (or Hymenogastraceae under more recent phylogenetic classifications based on molecular data). It is one of 14 species of *Gymnopilus* documented as containing psilocybin or related indole alkaloids in the comprehensive worldwide survey by Guzmán, Allen & Gartz (1998), which cataloged 216 species of neurotropic fungi across four major groups.
+**Gymnopilus badiceps** is a species of neurotropic mushroom in the family Cortinariaceae (or Hymenogastraceae under more recent phylogenetic classifications based on molecular data). It is one of 14 species of *Gymnopilus* documented as containing psilocybin or related indole alkaloids in the comprehensive [[oyster-mushroom-substrate-materials-worldwide-survey-comparison]] by Guzmán, Allen & Gartz (1998), which cataloged 216 species of [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] across four major groups.
 
 ## Taxonomy
 
 The genus *Gymnopilus* was established by the Finnish mycologist Petter Adolf Karsten in 1879 and contains approximately 200 described species worldwide. The genus name is derived from the Greek "gymnos" (naked) and "pilus" (cap), referring to the typically smooth, exposed cap surface. Most Gymnopilus species are saprotrophic wood-decomposers, and the genus is characterized by its distinctive rusty-orange to rusty-brown spore prints, which immediately distinguish it from most other psilocybin-containing genera that typically have dark purplish brown spores.
 
-The specific epithet "badiceps" refers to distinctive features of the cap (from Latin "caput," meaning head). *Gymnopilus* species with confirmed psychoactive properties are among the more unusual members of the neurotropic fungi, as their orange-brown spore prints and wood-inhabiting lifestyle differ markedly from the typical image of psilocybin mushrooms. Well-known psychoactive congeners include [[gymnopilus-junonius]], [[gymnopilus-purpuratus]], and [[gymnopilus-spectabilis-entity]] and [[gymnopilus-spectabilis-entity]] — the most well-known psychoactive Gymnopilus, called "Big Laughing Gym"
-- [[gymnopilus-luteofolius]] — distinctive purple-tinted species found in the southeastern United States
+The specific epithet "badiceps" refers to [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] of the cap (from Latin "caput," meaning head). *Gymnopilus* species with confirmed psychoactive properties are among the more unusual members of the neurotropic fungi, as their orange-brown spore prints and wood-inhabiting lifestyle differ markedly from the typical image of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]. Well-known psychoactive congeners include [[gymnopilus-junonius]], [[gymnopilus-purpuratus]], and [[gymnopilus-spectabilis-entity]] and [[gymnopilus-spectabilis-entity]] — the most well-known psychoactive Gymnopilus, called "Big Laughing Gym"
+- gymnopilus-luteofolius — distinctive purple-tinted species found in the southeastern [[dmt-containing-plants-united-states-halpern]]
 - [[gymnopilus-junonius]] — large, widely distributed species with a prominent ring
 - [[gymnopilus-spectabilis-profile]]
 - [[gymnopilus-validipes]]
@@ -101,4 +101,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

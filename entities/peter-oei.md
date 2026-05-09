@@ -14,20 +14,20 @@ sources:
 
 # Peter Oei
 
-Peter Oei is a Dutch mycologist and mushroom cultivation expert, author of *Manual on Mushroom Cultivation: Techniques, Species and Opportunities for Commercial Application* (1991, Tool Publications, Amsterdam) and *Mushroom Cultivation with Special Emphasis on Appropriate Techniques for Developing Countries* (1996). His work has been instrumental in promoting mushroom cultivation in tropical and subtropical regions.
+Peter Oei is a Dutch mycologist and [[accessible-mushroom-cultivation-for-disabilities]] expert, author of *Manual on Mushroom Cultivation: Techniques, Species and Opportunities for Commercial Application* (1991, Tool Publications, Amsterdam) and *Mushroom Cultivation with Special Emphasis on Appropriate Techniques for Developing Countries* (1996). His work has been instrumental in promoting mushroom cultivation in tropical and subtropical regions.
 
 ## Key Contributions
 
-- Authored comprehensive mushroom cultivation manuals covering techniques, species selection, substrate preparation, and spawn production
-- Documented cultivation methods for a wide range of species using locally available substrates: sugarcane bagasse, banana fronds, seed hulls, soybean waste, cactus waste, and various hardwoods
+- Authored comprehensive mushroom cultivation manuals covering techniques, species selection, [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]], and spawn production
+- Documented [[synthetic-log-cultivation-methods-guide]] for a wide range of species using locally available substrates: sugarcane bagasse, banana fronds, seed hulls, soybean waste, cactus waste, and various hardwoods
 - Developed practical lime treatment formulas for straw substrates (Lime 1, 2, and 3) that are referenced in scientific cultivation literature
-- Focused on making [[psilocybin-mushroom-cultivation]] accessible in developing countries using appropriate technology and low-cost methods
+- Focused on making [[psilocybin-cultivation]] accessible in developing countries using [[mollison-designers-appropriate-technology-small-scale-tools]] and low-cost methods
 - His substrate formulas and lime treatment protocols are cited in academic papers on spawn grain and culture medium interactions
 - Provided detailed guidance on wood type selection for different mushroom species, with emphasis on hardwoods over softwoods
 
 ## Substrate Science and Wood Selection
 
-Oei's work provides detailed guidance on selecting substrate materials, emphasizing that hardwoods are generally more useful than softwoods for mushroom cultivation. Recommended hardwoods include alders, birches, hornbeams, chestnuts, chinkapins, beeches, ashes, larches, sweetgums, tanoaks, cottonwoods, willows, ironwoods, walnuts, and elms. He notes that fast-growing, rapidly decomposing hardwoods are generally best because they have greater ratios of starch-enriched sapwood to heartwood, which encourages rapid initial growth and full colonization.
+Oei's work provides detailed guidance on selecting [[growing-gourmet-substrate-materials-wood-types]], emphasizing that hardwoods are generally more useful than softwoods for mushroom cultivation. Recommended hardwoods include alders, birches, hornbeams, chestnuts, chinkapins, beeches, ashes, larches, sweetgums, tanoaks, cottonwoods, willows, ironwoods, walnuts, and elms. He notes that fast-growing, rapidly decomposing hardwoods are generally best because they have greater ratios of starch-enriched sapwood to heartwood, which encourages rapid initial growth and full colonization.
 
 Oei identified the "substrate matrix concept" — mixing smaller and larger particles to create an ideal habitat for mycelium. Smaller particles stimulate quick growth ("leap-off"), while larger particles encourage formation of thick, cord-like rhizomorphs that forcibly penetrate substrate. A 50:50 mixture (by volume) of sawdust and chips of varying particle sizes provides optimal structure.
 
@@ -55,7 +55,7 @@ Oei's manuals document successful cultivation projects across Asia:
 
 ## Legacy in Tropical Mycology
 
-Oei's work on the synthetic-log cultivation methodology is referenced in the maitake (*Grifola frondosa*) cultivation literature, where his 1996 manual is cited as a foundational source for supplemented sawdust-bran substrate preparation. His practical guidance on spawn production using simple clean benches and locally available materials has enabled mushroom cultivation programs throughout Southeast Asia, South Asia, and sub-Saharan Africa.
+Oei's work on the synthetic-log cultivation methodology is referenced in the maitake (*[[maitake-grifola-frondosa-comprehensive-profile]]*) cultivation literature, where his 1996 manual is cited as a foundational source for supplemented sawdust-bran substrate preparation. His practical guidance on spawn production using simple clean benches and locally available materials has enabled mushroom cultivation programs throughout Southeast Asia, South Asia, and sub-Saharan Africa.
 
 ## Significance
 
@@ -65,7 +65,7 @@ Oei's work has been widely referenced in both academic and practical [[mushroom-
 
 - [[paul-stamets]] — complementary cultivation methodology
 - [[mushroom-species-guide]] — cultivation techniques and species
-- [[psilocybin-mushroom-cultivation]] — practical growing methods
+- [[psilocybin-cultivation]] — practical growing methods
 - [[william-falconer]] — earlier mushroom cultivation author
 - [[mushroom-substrates]] — substrate preparation details
 - [[straw-cultivation-methods]] — Oei's straw-based methods
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

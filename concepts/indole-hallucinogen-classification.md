@@ -5,12 +5,12 @@
 Indole hallucinogens are a family of psychoactive compounds characterized by
 their structural feature: a five-sided pyrrole group in association with a
 benzene ring. These molecular rings make the indoles highly reactive
-chemically and hence ideal molecules for metabolic activity in the high-energy
+chemically and hence ideal molecules for [[arbuscule-isolation-metabolic-activity-assays]] in the high-energy
 world of organic life.
 
 The indole hallucinogens represent one of the most pharmacologically and
 culturally significant classes of psychoactive substances. Terence McKenna,
-in "Food of the Gods," identified four principal families of indole
+in "Food of the Gods," identified four principal [[four-families-of-indole-hallucinogens]]
 hallucinogens that occur in plants and have been used by humans for visionary
 and spiritual purposes.
 
@@ -33,8 +33,8 @@ alertness.
 
 ### 1. LSD-Type Compounds
 
-Found in several related genera of morning glories (Ipomoea, Rivea, Argyreia)
-and in ergot fungi (Claviceps purpurea), the LSD hallucinogens are relatively
+Found in several related genera of [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] (Ipomoea, Rivea, Argyreia)
+and in ergot fungi ([[bloomfield-ergot-claviceps-purpurea-ergotism]]), the LSD hallucinogens are relatively
 rare in nature. That they are the best known of the hallucinogens is
 undoubtedly due to the fact that millions of doses of LSD were manufactured
 and sold during the 1960s.
@@ -92,7 +92,7 @@ Psychotria viridis or Diplopterys cabrerana (which contain DMT). The
 beta-carbolines also contribute their own psychoactive effects, including
 mild sedation and visual phenomena.
 
-Beta-carbolines are also found in Peganum harmala (Syrian rue), which grows
+Beta-carbolines are also found in [[mckenna-food-gods-peganum-harmala-soma]] (Syrian rue), which grows
 across arid portions of Mediterranean North Africa and the Middle East.
 Beta-carbolines were legal and virtually unknown to the general public until
 relatively recently.
@@ -104,7 +104,7 @@ Tabernanthe and Tabernamontana. Tabernanthe iboga is a small, yellow-
 flowered bush with a history of usage as a hallucinogen in tropical West
 Africa, particularly among the Fang people of Gabon.
 
-The active compounds of iboga bear a structural relationship to
+The active compounds of iboga bear a [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to
 beta-carbolines. Ibogaine is known more as a powerful aphrodisiac than as a
 hallucinogen. Nevertheless, in sufficient doses it is capable of inducing a
 powerful visionary and emotional experience lasting 24 to 48 hours.

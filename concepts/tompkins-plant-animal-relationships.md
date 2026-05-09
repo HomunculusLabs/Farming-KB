@@ -23,7 +23,7 @@ and their pollinators.
 Over twelve years of experiments on fifty-seven species, Darwin found
 that cross-pollination produced more numerous, larger, heavier, more
 vigorous, and more fertile offspring, even in species normally
-self-pollinating. He identified "hybrid vigor" as the evolutionary
+self-pollinating. He identified "[[cannabis-hybrid-vigor-and-phenotypes-clarke]]" as the evolutionary
 advantage driving plants to develop elaborate mechanisms for ensuring
 cross-fertilization.
 
@@ -83,7 +83,7 @@ unattractive."
 
 ## Mimosa Defense Mechanism
 
-The Mimosa pudica demonstrates active predator avoidance. When a
+The [[tompkins-mimosa-pudica-sensitive-plant-experiments]] demonstrates active predator avoidance. When a
 beetle, ant, or worm crawls up its stem toward delicate leaves, touching
 a spur triggers the stem to raise, leaves to fold up, and the assailant
 is either "rolled off the branch by the unexpected movement or is
@@ -97,7 +97,7 @@ lyricized on how plants lure insects to wriggle into their genitalia,
 drink hidden nectar, and shake fertilizing pollen from distant blossoms
 onto the stigma. He marveled at dispersal mechanisms: the puffball
 waiting to be trodden to release spores, the maple casting propeller
-seeds, fruit trees seducing birds and beasts into distributing seeds
+seeds, [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] seducing birds and beasts into distributing seeds
 "neatly packaged in nourishing manure."
 
 ## Human-Plant Symbiosis
@@ -105,15 +105,15 @@ seeds, fruit trees seducing birds and beasts into distributing seeds
 Fechner proposed that human bodies exist partly to serve plant life --
 surrounding plants with carbon dioxide and, through death, becoming
 manure that plants transform into "the most glorious forms and colors."
-Luther Burbank believed his ability to create new plant varieties
+[[tompkins-luther-burbank-intuitive-breeding]] believed his ability to create new plant varieties
 depended on establishing a relationship of love and attention with his
 plants.
 
 ## Ecological Interdependence
 
 The book documents how removing one species from a plant-animal
-community can have cascading effects. Chemical fertilizers that kill
-soil microorganisms also kill mycorrhizal fungi essential to tree
+community can have cascading effects. [[cervantes-chemical-fertilizers-guide]] that kill
+soil microorganisms also kill [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] essential to tree
 health. Pesticides that eliminate pest insects also eliminate
 pollinators. The "law of togetherness of all things" means that plant
 and animal relationships form an interconnected web.
@@ -132,4 +132,10 @@ and animal relationships form an interconnected web.
 
 - [[what-a-plant-knows-plant-vision-and-light-perception]]
 - [[bacterial-endophytes-plant-roots]]
-- [[mycorrhizal-plant-signaling]]
+- mycorrhizal-plant-signaling
+## See Also
+- [[mimosa-pudica]]
+- [[mycorrhizal-fungi]]
+- [[tompkins-plant-perception-experiments]]
+- [[tompkins-mitogenetic-rays-plant-cell-communication]]
+- [[tompkins-bose-plant-nervous-system-hypothesis]]

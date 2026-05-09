@@ -1,5 +1,5 @@
 ---
-title: Fungal Genomics and Comparative Approaches
+title: gadd fungal genomics comparative approaches and Comparative Approaches
 created: 2026-04-28
 tags:
   - fungal-genomics
@@ -25,7 +25,7 @@ fungal evolution.
 ## Landscape of fungal genome sequencing
 
 As of early 2006, 13 completed fungal genomes were published, including
-Ashbya gossypii, Aspergillus fumigatus, A. oryzae, Cryptococcus
+Ashbya gossypii, [[gadd-aspergillus-fumigatus-glucan-virulence]], A. oryzae, Cryptococcus
 neoformans, Candida glabrata, Debaryomyces hansenii, Encephalitozoon
 cuniculi, Kluyveromyces lactis, Neurospora crassa, Phanerochaete
 chrysosporium, Saccharomyces cerevisiae, Schizosaccharomyces pombe,
@@ -79,7 +79,7 @@ expansion associated with plant infection.
 Comparative genomics reveals differential gene family sizes related to
 lifestyle. Plant pathogens possess expanded families of cutinases,
 cytochrome P450s, and secreted effector proteins. Wood-decay fungi
-(Phanerochaete chrysosporium) have expanded families of lignin-modifying
+([[staycare-phanerochaete-chrysosporium-in-bioremediation]]) have expanded families of lignin-modifying
 enzymes and carbohydrate-active enzymes. Yeast genomes show contraction
 of many gene families relative to filamentous fungi, correlating with
 their simpler morphology and ecology.
@@ -106,7 +106,7 @@ conditions, complementing transcript-level data.
 
 ## High-throughput functional genetics
 
-Functional genomics encompasses genome-level analytical techniques
+[[magnaporthe-grisea-functional-genomics-rice-blast]] encompasses genome-level analytical techniques
 including expression profiling, high-throughput genetic modification,
 and gene mapping. The MGOS database for M. grisea catalogues over
 50,000 insertional mutants with phenotypic data. Of 57,223 assayed
@@ -120,7 +120,7 @@ The Fungal Genomes Initiative at the Broad Institute sequences 25
 fungal genomes to enable broad comparative analysis. This allows
 identification of core fungal genes (shared across all fungi),
 lineage-specific genes, and genes associated with specific lifestyles.
-Comparative analysis of mating-type loci, secondary metabolite gene
+Comparative analysis of mating-type loci, [[fungal-elicitors-enhanced-secondary-metabolite-production]] gene
 clusters, and effector gene families provides insights into fungal
 reproduction, chemical ecology, and host adaptation.
 
@@ -139,8 +139,6 @@ Key challenges include improving functional annotation of fungal genomes
 (70% of M. grisea genes have unknown function), developing efficient
 gene knockout systems for non-model fungi, and integrating genomic data
 with ecological and environmental information. The growing number of
-fungal genomes creates opportunities for pan-genomic analyses that
-capture the full genetic diversity within fungal species and genera.
 ## Related concepts
 
 - [[gadd-aspergillus-fumigatus-glucan-virulence]]

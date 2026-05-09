@@ -1,5 +1,5 @@
 ---
-title: "Panaeolus Cyanescens: Australia Distribution and Ecology"
+title: "stamets-panaeolus-cyanescens-copelandia-identification-ecology: Australia Distribution and Ecology"
 created: 2026-04-28
 tags: [panaeolus, cyanescens, copelandia, australia, distribution,
   dung-inhabiting, blue-meanies, identification, allen]
@@ -60,7 +60,7 @@ as its primary substrate. In Australia, it is most commonly found on:
 
 The species typically fruits 3-7 days after substantial rainfall when
 temperatures are warm. It is gregarious, often producing dense clusters of
-fruiting bodies on a single dung pat. Unlike *Psilocybe cubensis*, which can
+fruiting bodies on a single dung pat. Unlike *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*, which can
 also fruit from enriched soil, *C. cyanescens* is more strictly associated
 with dung itself.
 
@@ -79,11 +79,11 @@ with dung itself.
   bruising intensely blue when handled
 - Flesh: Thin, white to greyish, bruising blue-green
 - Odor: Farinaceous (mealy or flour-like)
-- Spore print: Black
+- [[comparison-spore-print-collection-vs-spore-syringe-production]]: Black
 
 ### Blue-Staining Reaction
 
-One of the most distinctive features of *C. cyanescens* is its intense
+One of the most [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] of *C. cyanescens* is its intense
 blue-staining reaction. Almost any handling of fresh specimens causes rapid
 oxidation to deep blue or blue-green, particularly at the base of the stipe.
 This blueing is caused by the oxidation of psilocine, one of the two major

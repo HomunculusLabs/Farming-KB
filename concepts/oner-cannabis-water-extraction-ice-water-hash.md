@@ -1,16 +1,16 @@
 ---
-title: Cannabis Water Extraction and Ice Water Hash
+title: oner cannabis water extraction ice water hash and Ice Water Hash
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
 tags: [cannabis, extraction, ice-water-hash, bubble-hash, concentrates]
 sources:
-  - "S.T. Oner - Cannabis Sativa Volume 3: The Essential Guide"
+  - "S.T. Oner - comparison-cannabis-sativa-vs-cannabis-indica Volume 3: The Essential Guide"
 ---
 
 # [[cervantes-15-bag-water-hash-extraction]]
 
-Water extraction (also called ice water extraction or bubble hash production) is a
+Water extraction (also called [[comparison-cannabis-ice-water-extraction-vs-hashish-guide]] or bubble hash production) is a
 solventless method of separating [[marijuana-strain-guide-hybrid]] focuses primarily on strain evaluation
 rather than extraction methodology, it provides important context about which strains
 are best suited for this technique and the role of water extraction in modern cannabis
@@ -20,7 +20,7 @@ processing.
 
 Ice water hash relies on two physical properties:
 
-1. **Cold temperature**: Freezing temperatures make trichome heads brittle and cause
+1. **[[snow-mold-fungi-cold-temperature-plant-pathogens]]**: Freezing temperatures make trichome heads brittle and cause
    them to detach easily from plant material. The ice also keeps water viscous enough
    that plant matter floats while dense trichome heads sink.
 2. **Agitation**: Mechanical agitation (stirring or washing) knocks trichome heads
@@ -38,7 +38,7 @@ good candidates for water extraction:
 
 ### High Trichome Density
 
-The most critical factor is abundant resin production:
+The most critical factor is abundant [[cannabis-glandular-trichome-types-resin-production-clarke]]:
 
 - **CookieWreck**: "Heavy trichome production" makes it suitable for hash production
 - **Harlequin**: "Bred specifically to produce some high-grade hash and oils"
@@ -101,7 +101,7 @@ specifically with extraction in mind:
 
 - The distinction between strains good for "smoking the resin or the buds" (Nepalese
   Temple) indicates that some genetics are optimized for extraction
-- Multiple strain reviews note that resinous plants produce enough "finger hash" just
+- Multiple strain reviews note that resinous plants produce enough "[[cervantes-finger-hash-manicuring]]" just
   during trimming to warrant water extraction of the remaining material
 - The trend toward high-THC, high-resin sativa-dominant strains (Jack 47 at 18-24%
   THC) aligns with extraction-focused breeding

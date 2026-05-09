@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Biosynthesis Pathway
+title: Psilocybin psilocybin-biosynthesis-pathway-and-enzymology
 created: 2026-04-13
 updated: 2026-04-15
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Psilocybin Biosynthesis Pathway
 
-Psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine) and its dephosphorylated active metabolite psilocin (4-hydroxy-N,N-dimethyltryptamine) are the primary psychoactive compounds in "magic mushrooms." Understanding their biosynthesis is essential for scientific investigation of production, potency optimization, and the evolution of these compounds in fungi.
+Psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine) and its dephosphorylated active metabolite psilocin (4-hydroxy-N,N-dimethyltryptamine) are the primary psychoactive compounds in "[[guzman-magic-mushrooms-african-species]]." Understanding their biosynthesis is essential for scientific investigation of production, potency optimization, and the evolution of these compounds in fungi.
 
 ## Overview
 
@@ -107,11 +107,11 @@ Typical psilocybin/psilocin content (% dry weight):
 |---------|-----------|----------|-------|
 | P. azurescens | 1.40-1.71% | 0.28-0.34% | Highest known concentrations (~25mg/g total alkaloids) |
 | P. semilanceata | ~1.0% | -- | Standard reference species |
-| P. cubensis | Variable | Variable | Up to 1.0% on brown rice (Gartz); typically lower |
+| P. cubensis | Variable | Variable | Up to 1.0% on [[cho-brown-rice-vinegar-preparation]] (Gartz); typically lower |
 
 ### Factors Affecting Potency
-- **Substrate**: Brown rice substrate produces highest P. cubensis potency
-- **Harvest timing**: Immature specimens are significantly more potent than mature ones
+- **Substrate**: Brown rice substrate produces highest P. [[psilocybe-cubensis-potency-harvest-timing]]
+- **[[cannabis-harvest-timing-visual-cues]]**: Immature specimens are significantly more potent than mature ones
 - **Sporulation**: Potency decreases as spores are produced; harvest before veil breaks
 - **Drying method**: Cool desiccation preserves alkaloids; heat drying leaches constituents
 - **Strain genetics**: Wide variation between substrains
@@ -132,3 +132,7 @@ The blue-staining reaction observed in psilocybin-containing mushrooms is an enz
 See [[mushroom-cultivation-overview]] for how cultivation practices influence alkaloid production, and [[tryptophan-decarboxylase]] that converts tryptophan to tryptamine is subject to feedback inhibition and is the last well-characterized step before the less-understood phosphorylation reactions leading to psilocybin.
 - [[gartz-psilocybin-potency-and-alkaloid-variations]]
 - [[teaming-with-microbes-specific-bacteria-fungi]]
+
+## See Also
+
+- [[psilocybin-biosynthesis-pathway-and-enzymology]]

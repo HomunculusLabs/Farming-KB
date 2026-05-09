@@ -12,7 +12,7 @@ type: concept
 # Natural Three-Dimensional Orchard Design
 
 Masanobu Fukuoka's vision of the natural orchard represents one of the
-most complete and practical expressions of his farming philosophy. Rather
+most complete and practical expressions of his [[cho-natural-farming-philosophy-of-non-interference]]. Rather
 than the conventional monoculture of fruit trees in neat rows on cleared
 land, Fukuoka proposes a multi-layered, three-dimensional food-producing
 ecosystem that integrates fruit trees, green manure trees, vegetables,
@@ -26,7 +26,7 @@ land and valley land must be treated as such. This means working with the
 natural topography, drainage patterns, and microclimates of the site
 rather than reshaping them to fit a preconceived planting plan.
 
-Conventional orchard establishment typically begins with bulldozing,
+Conventional [[fukuoka-citrus-orchard-establishment-bare-hillside]] typically begins with bulldozing,
 grading, and contouring the land to create uniform conditions for a single
 crop. Fukuoka explicitly warns against this practice: one should not clear
 and smooth the land with a bulldozer because this disturbs the humus-rich
@@ -38,7 +38,7 @@ Rather than carting the trunks, branches, and leaves of felled trees off a
 contour-cleared orchard site, it makes more sense to arrange this material
 along contour lines and wait for it to decompose naturally. The branches,
 leaves, and roots decompose after several years, becoming a source of
-organic fertilizer that supplies nutrients to the growing fruit trees. At
+[[complete-organic-fertilizer-cof-recipe-solomon]] that supplies nutrients to the growing fruit trees. At
 the same time, a cover of organic matter helps to curb weed growth,
 prevents soil washout, stimulates the proliferation of microorganisms,
 and serves to enrich and otherwise improve the soil.
@@ -75,7 +75,7 @@ and semiwild vegetables can also be grown in abundance.
 
 This ground layer serves multiple functions simultaneously. It prevents
 soil erosion, suppresses unwanted weeds through competition, maintains
-soil moisture, provides habitat for beneficial insects, and generates
+soil moisture, provides [[query-how-do-i-design-habitat-for-beneficial-insects]] insects, and generates
 organic matter through root turnover and leaf decomposition. The vegetables
 grown here are not cultivated in the conventional sense; they are allowed
 to grow semi-wild, emerging where conditions favor them and producing food
@@ -131,12 +131,12 @@ crabgrass, then with clover, the orchard begins to look like an orchard.
 ## The Succession from Wild to Managed
 
 The progression from wild brush to clover-covered terraces illustrates
-Fukuoka's understanding of ecological succession. He does not fight against
+Fukuoka's understanding of [[holmgren-ecological-succession-and-pulsing]]. He does not fight against
 the natural succession of plants; he guides it. The initial wild growth
 protects the soil and builds organic matter. The transition through
 bracken and kudzu continues soil building while gradually shifting the
 plant community toward more manageable species. The final clover cover
-provides nitrogen fixation, soil protection, and a habitat favorable to
+provides [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], soil protection, and a habitat favorable to
 fruit production, all without the need for chemical inputs.
 
 ## See Also

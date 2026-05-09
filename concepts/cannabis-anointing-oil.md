@@ -1,5 +1,5 @@
 ---
-title: cannabis anointing oil
+title: cannabis cannabis-anointing-oil-blessing-rituals
 created: 2026-04-28
 tags:
   - ritual
@@ -18,7 +18,7 @@ type: concept
 
 The Blessing of the Oil is a cannabis-infused anointing ritual from "Marijuana
 Magick: A Practitioners Guide" by Magus Sativus. This ceremony combines the
-preparation of sacred cannabis-infused olive oil with a formal ritual
+preparation of sacred cannabis-infused [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]] with a formal ritual
 involving a pentagram of yellow candles, incense, rosemary, and anointing
 chants. The ritual is designed to heal the body, cleanse the soul, and open
 the chakras through the sacramental application of the oil.
@@ -54,7 +54,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -96,4 +96,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

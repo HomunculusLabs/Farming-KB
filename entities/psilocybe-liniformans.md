@@ -5,7 +5,7 @@ type: species
 tags: [psilocybin-mushroom, agaricales, strophariaceae, temperate, grassland]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md]
+sources: sources: []
 ---
 
 # Psilocybe liniformans
@@ -53,7 +53,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 ## Distribution and Habitat
 
 - P. liniformans var. liniformans is found in Europe, particularly in the Netherlands, France, and surrounding countries
-- P. liniformans var. americana occurs in the Pacific Northwest of North America
+- P. liniformans var. americana occurs in the Pacific Northwest of [[psilocybin-north-america-pacific-northwest]]
 - Grows in grasslands, pastures, and meadows, particularly in nutrient rich soils
 - Often found in horse pastures and areas with animal dung deposits
 - Fruits in autumn, typically September through November
@@ -65,14 +65,14 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 - Contains [[psilocin]]
 - Considered moderately active
 - The American variety, P. liniformans var. americana, is reported to have higher concentrations of psychoactive alkaloids
-- Bluing reaction is present but can be subtle compared to more potent Psilocybe species
+- [[field-guide-psilocybin-bluing-reaction-identification]] is present but can be subtle compared to more potent Psilocybe species
 - The 2 spored basidia forms tend to produce larger spores and may differ in alkaloid content
 
 ## Identification Notes
 
 - The distinctive gelatinous threads connecting gill edges to the stipe are the key diagnostic feature, visible with careful examination of fresh specimens
 - The combination of small size, grassland habitat, and gelatinous gill connections sets this species apart from other grassland Psilocybe species
-- Microscopic examination reveals the characteristic pleurocystidia and cheilocystidia morphology
+- [[fungal-microscopic-examination-mounting-media-techniques]] reveals the characteristic pleurocystidia and cheilocystidia morphology
 - The bluing reaction, while present, may require careful observation as it can be subtle
 - Spore morphology, particularly the combination of size and germ pore structure, aids identification
 
@@ -82,7 +82,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 - Benefits from nutrient enrichment from animal activity
 - Mycelium colonizes grass roots and surrounding organic material
 - Can form mycorrhizal associations in some contexts
-- Plays a role in nutrient cycling in pastoral ecosystems
+- Plays a role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in pastoral ecosystems
 
 ## Similar Species
 
@@ -93,7 +93,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 ## Varieties
 
 ### P. liniformans var. liniformans
-- European distribution
+- [[fukuoka-european-distribution-system-critique]]
 - Slightly smaller spores
 - Found in meadows and pastures across Western Europe
 
@@ -107,7 +107,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 
 - While not as culturally prominent as Mexican Psilocybe species, P. liniformans has been documented in the European psychoactive mushroom literature since the 1970s
 - The European variety has been used recreationally, particularly in the Netherlands where it was one of the species known to mushroom enthusiasts before legislative changes
-- The American variety, discovered later, expanded understanding of psilocybin mushroom biodiversity in the Pacific Northwest
+- The American variety, discovered later, expanded understanding of [[emcdda-psilocybin-mushroom-dose-and-effects]] biodiversity in the Pacific Northwest
 - Both varieties have contributed to scientific understanding of the Psilocybe genus and its global distribution
 
 ## Conservation and Occurrence

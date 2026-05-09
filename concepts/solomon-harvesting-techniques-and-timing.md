@@ -1,5 +1,5 @@
 ---
-title: "Harvesting Techniques and Timing"
+title: "water-harvesting-techniques-comparison and Timing"
 created: 2026-04-28
 tags: [harvesting, crop-maturity, food-preservation, vegetable-growing]
 date: 2026-04-28
@@ -27,8 +27,8 @@ the gardener can harvest a steady supply over many weeks. This shift from
 intensive to extensive spacing means less time pressure and less waste.
 
 Solomon notes that species that produce an ongoing harvest over many
-weeks (like indeterminate tomatoes, climbing beans, and leafy greens)
-actually yield more per square foot when given wider spacing, because
+weeks (like indeterminate tomatoes, climbing beans, and [[solomon-leafy-greens-growing]])
+actually yield more per [[comparison-biointensive-vs-square-foot-gardening]] when given wider spacing, because
 when intensively planted these plants are quickly stopped by
 overcompetition, their root systems having nowhere to go.
 
@@ -60,7 +60,7 @@ open.
 
 **Cucurbits:** Winter squash and pumpkins are ready when the skin is
 too hard to puncture with a fingernail and the stem has dried. Harvest
-before hard frost. Sweet corn is at its peak when the kernels exude a
+before hard frost. [[growing-sweet-corn-organically]] is at its peak when the kernels exude a
 milky juice when pressed.
 
 ## Handling After Harvest
@@ -95,11 +95,11 @@ remaining plants can access stored subsoil moisture through capillarity.
 
 ## Seed Saving Harvest
 
-When growing plants specifically for seed production, the harvest
+When growing plants specifically for [[cervantes-seed-production-storage]], the harvest
 timing is different from food harvest. Seeds must be fully ripe,
 typically indicated by the seed pod or seed head turning brown or black.
 For biennial seed crops like carrots, beets, and brassicas, the roots
-must be dug in autumn, stored through winter in a root cellar, and
+must be dug in autumn, stored through winter in a [[comparison-root-cellar-vs-ice-house]], and
 replanted in spring to produce seed in their second year.
 
 ## Succession Planting for Extended Harvest

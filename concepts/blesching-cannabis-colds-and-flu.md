@@ -19,7 +19,7 @@ type: concept
 ## Overview
 
 According to orthodox medicine, all common colds as well as all types of
-flu are caused by viral infections. There are hundreds of known and
+flu are caused by [[blesching-cannabis-viral-infections]]. There are hundreds of known and
 ever-mutating cold and flu viruses. However, during every flu outbreak in
 history there have been many people who did not get sick even when
 sufficiently exposed, suggesting susceptibility as a major contributing
@@ -128,7 +128,7 @@ catch it, but 9 out of 10 will stay healthy.
 - **Anise**: Used as an expectorant for coughs and sore throats;
   possesses bronchodilatory qualities from possible antihistamine-like
   properties.
-- **Coconut**: Medium-chain fatty acids can inactivate enveloped viruses
+- **Coconut**: Medium-chain [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] can inactivate enveloped viruses
   and may be used as virucidal agents.
 - **Fennel**: Approved by the German Commission E for catarrh of the
   upper respiratory tract.
@@ -138,7 +138,6 @@ catch it, but 9 out of 10 will stay healthy.
   inflammation such as sore throat during cold episodes.
 - **Oregano**: Tea of oregano may be effective in treating certain
   respiratory illness.
-
 ## Related Topics
 
 - [[cannabis-health-index]]

@@ -1,5 +1,5 @@
 ---
-title: pH and Nutrient Availability in Garden Soils
+title: pH and ph and nutrient availability garden soils in Garden Soils
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Soil pH -- the measure of hydrogen ion concentration on a logarithmic scale from 0 (most acidic) to 14 (most alkaline) -- is arguably the single most important chemical property of soil. It determines whether nutrients are available for plant uptake and which organisms dominate the [[singh-fungal-roles-in-soil-aggregate-formation]] -- mycorrhizal fungi prefer ammonium nitrogen. Coniferous forests naturally create acidic, fungal soils.
+Soil pH -- the measure of hydrogen ion concentration on a logarithmic scale from 0 (most acidic) to 14 (most alkaline) -- is arguably the single most important chemical property of soil. It determines whether nutrients are available for plant uptake and which organisms dominate the [[singh-fungal-roles-in-soil-aggregate-formation]] -- [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] prefer ammonium nitrogen. Coniferous forests naturally create acidic, fungal soils.
 - **Nitrate (NO3-)** dominates in **alkaline soils** (pH above 7). This favors [[solomon-soil-testing-and-interpretation-low-input]] before applying amendments. Over-liming is as damaging as having acidic soil. pH adjustments should be gradual -- never try to change pH by more than 1 point in a single season.
 
 ## Related Topics
@@ -103,4 +103,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

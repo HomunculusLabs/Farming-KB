@@ -13,11 +13,11 @@ sources:
 
 # Apples and Bananas
 
-Apples and Bananas is a modern indica-dominant hybrid cannabis strain resulting from an exceptionally complex multi-way cross within the elite Cookies family lineage. Bred by Compound Genetics, this strain combines the genetics of Platinum Cookies × Granddaddy Purple × Blue Power × Gelatti, creating a cultivar renowned for its intensely fruity, dessert-like aroma profile and deeply relaxing body effects. Released to significant commercial acclaim in the early 2020s, Apples and Bananas exemplifies the contemporary trend toward heavily stacked polyhybrid breeding that maximizes terpene complexity and visual bag appeal.
+Apples and Bananas is a modern indica-dominant hybrid cannabis strain resulting from an exceptionally complex multi-way cross within the elite Cookies family lineage. Bred by Compound Genetics, this strain combines the genetics of Platinum Cookies × [[granddaddy-purple]] × Blue Power × Gelatti, creating a cultivar renowned for its intensely fruity, dessert-like aroma profile and deeply relaxing body effects. Released to significant commercial acclaim in the early 2020s, Apples and Bananas exemplifies the contemporary trend toward heavily stacked polyhybrid breeding that maximizes terpene complexity and visual bag appeal.
 
 ## Strain Classification
 
-- **Species designation:** *Cannabis indica* × *Cannabis sativa* hybrid
+- **Species designation:** *[[cannabis-indica]]* × *[[cannabis-sativa]]* hybrid
 - **Type:** Indica-dominant polyhybrid (approximately 70% indica / 30% sativa)
 - **Breeders:** Compound Genetics
 - **Lineage:** (Platinum Cookies × Granddaddy Purple) × (Blue Power × Gelatti)
@@ -29,7 +29,7 @@ Apples and Bananas is a modern indica-dominant hybrid cannabis strain resulting 
 The genetic architecture of Apples and Bananas represents a deliberate convergence of some of the most influential West Coast breeding programs:
 
 ### Paternal Line: Platinum Cookies × Granddaddy Purple
-- **Platinum Cookies** contributes dense bud structure, high resin production, and the signature Cookies terpene profile (earthy, sweet, slightly pungent). A phenotype of the original Girl Scout Cookies lineage selected for its silvery sheen of trichomes
+- **Platinum Cookies** contributes dense bud structure, high [[cannabis-glandular-trichome-types-resin-production-clarke]], and the signature Cookies terpene profile (earthy, sweet, slightly pungent). A phenotype of t girl scout cookies cout Cookies lineage selected for its silvery sheen of trichomes
 - **Granddaddy Purple** (Ken Estes, early 2000s) introduces deep purple coloration potential, heavy indica sedation, and a grape-like sweetness that rounds out the fruit profile
 
 ### Maternal Line: Blue Power × Gelatti
@@ -85,7 +85,7 @@ The exceptionally high THC content places Apples and Bananas firmly in the "heav
 - **Initial phase:** Cerebral euphoria and mood elevation with a warm, spreading body sensation. Creative and sociable effects are common in the first 30–45 minutes
 - **Secondary phase:** Deep physical relaxation intensifies progressively, often described as "couch-lock" territory at higher doses. The transition from cerebral to somatic effects is smooth rather than abrupt
 - **Duration:** 2–4 hours depending on dose and individual tolerance
-- **Adverse effects:** Dry mouth, dry eyes; at high doses, anxiety, paranoia, or dizziness may occur, particularly in sensitive individuals
+- **[[blesching-cannabis-safety-adverse-effects-evidence]]:** Dry mouth, dry eyes; at high doses, anxiety, paranoia, or dizziness may occur, particularly in sensitive individuals
 
 ### Medical Applications
 - **Pain management:** Effective for chronic pain conditions including neuropathic pain, arthritis, and musculoskeletal inflammation. The high myrcene and caryophyllene content provides meaningful analgesic and anti-inflammatory effects
@@ -97,27 +97,23 @@ The exceptionally high THC content places Apples and Bananas firmly in the "heav
 ## Cultivation
 
 ### Growing Conditions
-- **Difficulty:** Moderate to advanced; requires attention to training and environmental control
+- **Difficulty:** Moderate to advanced; requires attention to training and [[eclss-environmental-control-life-support]]
 - **Indoor flowering time:** 8–9 weeks (56–63 days)
 - **Outdoor harvest:** Early to mid-October (Northern Hemisphere)
 - **Yield:** Moderate to high — 350–500 g/m² indoor; 400–600 g/plant outdoor
-- **Recommended training:** Low-stress training (LST), scrog (screen of green), and defoliation to manage canopy density and improve light penetration to lower bud sites
+- **Recommended training:** Low-stress training (L screen of green een of green), and defoliation to manage canopy density and improve light penetration to lower bud sites
 - **Climate preference:** Temperate to warm; sensitive to cold nighttime temperatures during flowering (can trigger premature anthocyanin expression)
 
 ### Feeding Requirements
-Apples and Bananas is a moderate-to-heavy feeder during the vegetative stage, requiring a balanced NPK regimen. During flowering, the plant responds well to elevated phosphorus and potassium, particularly during weeks 3–6 when bud development is most rapid. Calcium and magnesium supplementation is recommended, as the dense bud structure can create localized deficiencies in fast-growing calyx tissue.
+Apples and Bananas is a moderate-to-heavy feeder during the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]], requiring a balanced NPK regimen. During flowering, the plant responds well to elevated phosphorus and potassium, particularly during weeks 3–6 when bud development is most rapid. Calcium and magnesium supplementation is recommended, as the dense bud structure can create localized deficiencies in fast-growing calyx tissue.
 
 ### Pest and Disease Resistance
-The strain demonstrates moderate resistance to common cannabis pathogens including powdery mildew and botrytis (bud rot), though the extremely dense bud structure creates microclimates that can harbor moisture — adequate airflow and humidity management (below 55% RH during late flowering) are essential to prevent fungal issues.
-
-## Related
-
-- homestead planning and zoning
+The strain demonstrates moderate resistance to common cannabis pathogens including [[cervantes-powdery-mildew-prevention-treatment]] and botrytis (bud rot), though the extremely dense bud structure creates microclimates that can harbor moisture — adequate airflow and [[stamets-cultivator-humidity-management-fogging-systems]] (below 55% RH during late flowering) are essential to prevent fungal iss [[homestead-planning-and-zoning]] planning and zoning
 - [[cannabis-and-liver-cancer-research]]
-- [[glomalin-and-soil-carbon]] Strains
+- glomalin and soil carbon Strains
 
 - **Gelatti:** Direct parent; similar creamy, fruity profile with added OG gas notes
-- **Banana Punch:** Shares the banana ester profile; crosses Banana OG with Purple Punch
+- **Banana Punch:** Shares the banana ester profile; crosses Banana OG with [[purple-punch]]
 - **Runtz:** Shares the Cookies lineage and dessert-like terpene character
 - **Jealousy:** Another Compound Genetics release with overlapping Gelatti lineage
 - **Blueberry:** Ancestor through Blue Power; contributes the berry aromatics

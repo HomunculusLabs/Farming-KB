@@ -1,5 +1,5 @@
 ---
-title: "What Are the Best Nut Trees for a Permaculture Food Forest"
+title: "What Are the Best Nut Trees for a urban-permaculture-food-forest-succession"
 created: 2026-04-28
 tags: [query, food-forest, nut-trees, permaculture, agroforestry]
 date: 2026-04-25
@@ -20,7 +20,7 @@ Each species offers unique benefits and requires specific growing conditions.
 
 Nut trees form the upper canopy layer of a mature food forest and provide some of the highest calorie yields per acre of any perennial crop. Unlike annual vegetables, nut trees produce food for decades with minimal annual maintenance once established.
 
-They also contribute significant organic matter through leaf litter, create shade microclimates for understory plants, and provide habitat for beneficial wildlife. Their deep root systems help break up compacted subsoil and bring minerals up from deep geological layers.
+They also contribute significant [[hamilton-composting-and-organic-matter-management]] through leaf litter, create shade microclimates for understory plants, and provide [[query-how-do-i-design-habitat-for-beneficial-insects]] wildlife. Their deep root systems help break up compacted subsoil and bring minerals up from deep geological layers.
 
 ## Chestnuts
 
@@ -40,15 +40,15 @@ They work well as hedgerow plants, windbreaks, and understory shrubs beneath tal
 
 Most hazelnut varieties reach only 10 to 15 feet in height, making them manageable for small properties.
 
-European hazelnuts produce larger nuts, while American hazelnuts offer greater disease resistance and cold hardiness.
+European hazelnuts produce larger nuts, while American hazelnuts offer greater disease resistance and [[coleman-cold-hardiness-testing-ratings]].
 
 Yields typically range from 5 to 15 pounds per bush once established, with production starting as early as the third or fourth year.
 
 ## Pecans
 
-Pecans are native to North America and produce one of the most commercially valuable nuts in the world.
+Pecans are native to [[psilocybin-north-america-pacific-northwest]] and produce one of the most commercially valuable nuts in the world.
 
-They require deep, well-drained soil and a long growing season with hot summers.
+They require deep, well-drained soil and a long [[savory-growing-season-and-non-growing-season-management]] with hot summers.
 
 Pecan trees can grow extremely large, reaching 70 to 100 feet in height, so they need ample space in a food forest design.
 
@@ -103,5 +103,5 @@ Space trees according to their mature canopy spread, typically 30 to 60 feet apa
 - [[query-best-nut-trees-for-a-permaculture-food-forest-by-climate-zone]] Pages
 
 - [[food-forest-plant-palette]]
-- [[hazelnut-corylus-spp]]
+- hazelnut-corylus-spp
 - [[query-what-are-the-best-dynamic-accumulators-for-permaculture]]

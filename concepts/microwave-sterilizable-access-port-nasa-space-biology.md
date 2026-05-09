@@ -1,5 +1,5 @@
 ---
-title: Microwave Sterilizable Access Port (MSAP)
+title: aseptic-specimen-transfer-space-environment-microwave-sterilizable-access-port Access Port (MSAP)
 concept_type: technology
 domain:
   - space-biology
@@ -31,11 +31,11 @@ created: 2026-05-08
 
 ## Overview
 
-The Microwave Sterilizable Access Port (MSAP) was an innovative sterilization technology developed at NASA's Lyndon B. Johnson Space Center. Documented in the technical report *Sterilizing Surfaces by Irradiation with Microwaves* (NASA MSC-22484), the MSAP represented a novel approach to achieving aseptic access to biologically sensitive systems aboard spacecraft and space stations. The system leveraged precisely controlled microwave energy to sterilize all mating surfaces of a sealed access port, enabling contamination-free transfer of specimens and materials without the drawbacks of conventional sterilization methods.
+The Microwave Sterilizable Access Port (MSAP) was an innovative sterilization technology developed at NASA's Lyndon B. Johnson Space Center. Documented in the technical report *Sterilizing Surfaces by Irradiation with Microwaves* (NASA MSC-22484), the MSAP represented a novel approach to achieving [[eclss-water-system-aseptic-access-space-biology]] to biologically sensitive systems aboard spacecraft and space stations. The system leveraged precisely controlled microwave energy to sterilize all mating surfaces of a sealed access port, enabling contamination-free transfer of specimens and materials without the drawbacks of conventional [[conventional-surface-sterilization-methods-limitations-comparison]].
 
 ## The Problem: Aseptic Access in Space
 
-Operating biological experiments and maintaining environmental control systems in the microgravity environment of space posed unique sterility challenges. NASA required reliable aseptic access to several critical systems:
+Operating biological experiments and maintaining [[eclss-environmental-control-life-support]] systems in the microgravity environment of space posed unique sterility challenges. NASA required reliable aseptic access to several critical systems:
 
 - **ECLSS (Environmental Control and Life Support System) waters:** The potable and hygiene water supplies on spacecraft demanded absolute biological purity. Any breach of sterility during sampling or maintenance could introduce microbial contamination into the crew's water supply with potentially serious health consequences.
 - **Flight experiments:** Biological experiments conducted in orbit required pristine conditions. Contamination from terrestrial organisms would compromise experimental results and waste valuable flight opportunities.
@@ -120,6 +120,8 @@ As a spin-off technology, the MSAP also illustrates the broader value of investi
 
 ## See Also
 
+- [[eclss-water-system-aseptic-access-space-biology]]
+
 - [[microwave-surface-sterilization-2-45ghz-nasa]]
 - [[aseptic-specimen-transfer-space-environment-microwave-sterilizable-access-port]]
-- [[microwave-sterilizable-access-port]]
+- microwave sterilizable access port nasa space biology

@@ -1,5 +1,5 @@
 ---
-title: Tryptamines the Soul and the Extraterrestrial Hypothesis
+title: Tryptamines the Soul and the mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal
 created: 2026-04-28
 tags:
   - philosophy
@@ -20,7 +20,7 @@ type: concept
 ---
 # Tryptamines, the Soul, and the Extraterrestrial Hypothesis
 
-In his 1983 Esalen lecture "Tryptamine Hallucinogens and Consciousness," Terence McKenna
+In his 1983 Esalen lecture "[[mckenna-tryptamine-hallucinogens-and-consciousness]] and Consciousness," Terence McKenna
 presents a provocative argument that tryptamine compounds, particularly DMT and psilocybin, may
 be connecting the human mind to dimensions of intelligence that are genuinely alien or other.
 His discussion oscillates between two complementary interpretations: that the mushroom itself
@@ -50,9 +50,9 @@ network strategy for contact with planetary surfaces and a spore-dispersion stra
 radiating throughout the galaxy.
 
 The spores are deep purple, the color they would need to absorb deep ultraviolet radiation. The
-casing of a spore is one of the hardest organic substances known, with electron density
+casing of a spore is one of the hardest organic substances known, with [[mckenna-fungal-fossil-gap-spore-electron-density-and-metal-hardness]]
 approaching that of a metal. McKenna proposes that spores could reach the edge of a planet's
-atmosphere through Brownian motion and escape into space through interaction with energetic
+atmosphere through [[mckenna-spore-brownian-motion-and-galactic-percolation]] and escape into space through interaction with energetic
 particles. At one-hundredth the speed of light, crossing the galaxy would take approximately
 one hundred million years, far less than the 1.8 billion years that life has existed on Earth,
 making interstellar percolation viable over geological timescales.
@@ -83,7 +83,7 @@ A central feature of the tryptamine experience is its effect on language. The co
 alien intelligence. McKenna distinguishes tryptamine-induced glossolalia from classical
 speaking in tongues. The tryptamine version gives access to what he calls "the assembly
 language that lies behind language," a primal "Ursprache" or original tongue of the sort that
-Robert Graves discussed in *The White Goddess*.
+Robert Graves discussed in *The [[mckenna-primal-ursprache-kabbalistic-zohar-and-white-goddess-glossolalia]]*.
 
 This leads to McKenna's most far-reaching speculation: that human language may be only a shadow
 of a deeper capacity for the direct beholding of meaning in three-dimensional space. Under DMT,
@@ -112,7 +112,7 @@ with this compound." This endogenous presence raises the question of what ordina
 serves.
 
 If DMT is produced naturally by the brain, it may play a role in dreaming, mystical
-experiences, near-death experiences, or other naturally occurring altered states. The fact that
+experiences, near-death experiences, or other naturally occurring [[weil-the-natural-mind-altered-states-normalcy]]. The fact that
 smoking exogenous DMT produces such overwhelmingly alien experiences suggests that the brain's
 capacity for these states is far greater than what is accessed in ordinary consciousness, and
 that tryptamines may be keys to unlocking dimensions of cognitive and perceptual experience

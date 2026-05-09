@@ -1,5 +1,5 @@
 ---
-title: "How to Make a DIY Still Air Box for Mushroom Cultivation"
+title: "How to Make a DIY Still query how to make a diy still air box for mushroom cultivation for accessible-mushroom-cultivation-for-disabilities"
 created: 2026-04-28
 tags: [query, mushroom, cultivation, sterile-technique, sab]
 date: 2026-04-25
@@ -15,7 +15,7 @@ A still air box (SAB) is a simple enclosed workspace that blocks airflow to crea
 contaminant-free environment for sterile mushroom cultivation tasks like agar work, spore
 germination, and grain inoculation. You can build an effective SAB from a large clear
 plastic tote box with two arm holes cut into it. Despite its simplicity, a properly used
-SAB can achieve contamination rates comparable to expensive laminar flow hoods.
+SAB can achieve contamination rates comparable to expensive [[comparison-laminar-flow-hood-vs-fruiting-chamber]] hoods.
 
 ## Detailed Explanation
 
@@ -42,6 +42,8 @@ Proper [[contaminant-identification-and-prevention]]
 
 ## Related
 
+- [[query-how-do-i-make-a-medicinal-mushroom-double-extraction-tincture]]
+
 - [[query-how-do-i-make-a-balanced-herbal-mulch-for-no-till-gardens]] Questions
 - [[query-how-to-make-agar-plates-for-mushroom-cultivation]]
 - [[query-how-to-prevent-and-troubleshoot-mushroom-contamination]]
@@ -61,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +105,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

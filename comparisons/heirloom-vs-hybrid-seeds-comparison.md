@@ -1,5 +1,5 @@
 ---
-title: "Heirloom vs Hybrid Seeds Comparison"
+title: "comparison-heirloom-vs-hybrid-seeds Seeds Comparison"
 created: 2026-04-28
 tags: [seeds, genetics, gardening, farming, plant-breeding, seed-saving]
 date: 2026-04-28
@@ -7,8 +7,8 @@ updated: 2026-04-28
 sources:
   - "Seed Savers Exchange. Heirloom Seed Definition and Standards. seedsavers.org"
   - "University of Georgia Extension. Heirloom vs. Hybrid Vegetable Seeds. extension.uga.edu"
-  - "Cornell University College of Agriculture. Hybrid Vigor (Heterosis) in Crop Plants. ars.usda.gov"
-  - "Organic Seed Alliance. State of Organic Seed Report 2022. seedalliance.org"
+  - "Cornell University College of Agriculture. [[cannabis-hybrid-vigor-and-phenotypes-clarke]] (Heterosis) in Crop Plants. ars.usda.gov"
+  - "[[hamilton-organic-seed-saving-propagation]] Alliance. State of Organic Seed Report 2022. seedalliance.org"
   - "Iowa State University Extension. Selecting Vegetable Seeds. store.extension.iastate.edu"
   - "Kloppenburg, J.R. First the Seed: The Political Economy of Plant Biotechnology. UW Press, 2004."
 type: comparison
@@ -24,11 +24,11 @@ The choice between heirloom and hybrid seeds has significant implications for [[
 
 Not all crops exhibit heterosis equally. Hybrid vigor is most dramatic in cross-pollinated species (corn, onions, brassicas, cucurbits) and less pronounced in predominantly self-pollinated species (beans, lettuce, wheat, peas), which is why hybrid beans remain relatively uncommon.
 
-The commercial exploitation of heterosis requires maintaining two or more genetically uniform inbred parent lines, crossing them under controlled conditions (often hand-emasculation and pollination in greenhouses or isolated fields), and selling only the resulting F1 seed. This process is labor-intensive and expensive, which contributes to the higher cost of hybrid seed. It also means that the genetics of the parent lines are closely held trade secrets — a significant factor in the consolidation of the global seed industry, where three corporations (Bayer-Monsanto, Corteva, and Syngenta-ChemChina) control over 55% of the global commercial seed market.
+The commercial exploitation of heterosis requires maintaining two or more genetically uniform inbred parent lines, crossing them under controlled conditions (often hand-emasculation and pollination in greenhouses or isolated fields), and selling only the resulting F1 seed. This process is labor-intensive and expensive, which contributes to the higher cost of hybrid seed. It also means that the genetics of the parent lines are closely held trade secrets — a significant factor in the consolidation of the [[fukuoka-second-genesis-theory-global-seed-scattering]] industry, where three corporations (Bayer-Monsanto, Corteva, and Syngenta-ChemChina) control over 55% of the global commercial seed market.
 
 ## Seed Saving Implications
 
-The seed-saving distinction between heirlooms and hybrids is one of the most practically important differences for growers. Heirloom and other open-pollinated varieties allow self-reliance: a single seed packet can sustain a gardener indefinitely through careful selection and saving. Hybrid seeds create dependency — growers must repurchase annually from the seed company that controls the parent lines.
+The seed-saving distinction between heirlooms and hybrids is one of the most practically important differences for growers. Heirloom and other open-pollinated varieties allow self-reliance: a [[cervantes-selfing-single-seed-descent]] packet can sustain a gardener indefinitely through careful selection and saving. Hybrid seeds create dependency — growers must repurchase annually from the seed company that controls the parent lines.
 
 This has direct economic implications. A small farm spending $800/year on hybrid seed could reduce costs by 60–80% by transitioning to saved heirloom seed, though potentially at the cost of lower yields and less disease protection. Over a five-year period, the cumulative savings from saved heirloom seed can offset moderate yield reductions.
 
@@ -54,7 +54,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -96,4 +96,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

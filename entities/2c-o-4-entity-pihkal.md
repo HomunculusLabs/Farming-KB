@@ -1,5 +1,5 @@
 ---
-title: "2C-O-4 (4-Isopropoxy-2,5-dimethoxy-PEA) -- PIHKAL Entry #35"
+title: "2C-O-4 (4-Isopropoxy-2,5-dimethoxy-PEA) -- 2c-b-pihkal-entry-20 #35"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -66,7 +66,7 @@ disappointing trials of MPM. If this area is ever re-opened, the
 To a solution of 3.10 g 85% KOH pellets in 30 mL warm MeOH
 there was added 6.16 g 2,5-dimethoxyphenol (there was immediate
 darkening) followed by 8.5 g isopropyl iodide. The reaction mixture
-was heated on the steam bath for 3.5 h. White crystals of KI appeared
+was heated on the [[scythian-cannabis-steam-bath-ritual]] for 3.5 h. White crystals of KI appeared
 at the end of the first h. The mixture was poured into 800 mL H2O (it
 was still basic) and acidified with HCl. This was extracted with
 3x100 mL CH2Cl2, and the combined extracts washed with 2x100 mL 5%
@@ -88,7 +88,7 @@ product with a mp of 76-78 deg C. This was dissolved in an equal weight
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

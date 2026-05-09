@@ -46,11 +46,11 @@ Areas with severe compaction may need repeated treatment over several seasons.
 
 ## Compost Tea for Lawns
 
-Actively aerated compost teas are a key tool for lawn care. Bacterial compost
+Actively [[actively-aerated-compost-tea-aact-brewing]] teas are a key tool for lawn care. Bacterial compost
 teas, made with molasses and bacterial foods, support the nitrate-producing
-bacterial communities that grasses prefer. Applications of five gallons per acre
+[[cultivar-endorhiza-bacterial-communities-cannabis]] that grasses prefer. Applications of five gallons per acre
 can be made through hose-end sprayers or dedicated injection systems. Compost
-teas introduce living organisms directly to the lawn surface and rhizosphere,
+teas introduce [[savory-living-organisms-as-tools]] directly to the lawn surface and rhizosphere,
 speeding the recovery of soil biology after chemical damage. Regular
 applications throughout the growing season maintain robust microbial populations
 that cycle nutrients and suppress disease organisms.
@@ -64,7 +64,7 @@ underlying conditions. Improving soil structure through aeration and compost tea
 applications helps grass outcompete weeds.  Proper mowing height (higher rather
 than lower) shades weed seeds and encourages deeper grass roots. If herbicide
 use is absolutely necessary, it should be followed immediately by applications
-of compost tea to rebuild the damaged microbial community.
+of compost tea to rebuild the damaged [[edaphic-factors-microbial-community-structure]].
 
 ## Seasonal Lawn Care Calendar
 
@@ -80,7 +80,7 @@ reducing the need for any external inputs as the soil food web matures.
 ## Summary
 
 Lawns thrive when supported by a complete soil food web that cycles nutrients,
-builds structure, and suppresses disease. Chemical fertilizers create dependency
+builds structure, and suppresses disease. [[cervantes-chemical-fertilizers-guide]] create dependency
 by killing the organisms that naturally maintain lawns.  Transitioning to
 biological care involves stopping chemicals, leaving clippings, applying compost
 tea, aerating periodically, and managing weeds through improved soil conditions
@@ -90,5 +90,5 @@ water, and fewer inputs while providing a beautiful, resilient turf surface.
 Regular monitoring and adjustment of biological practices ensures the lawn
 remains healthy and resilient throughout the growing season.
 
-Overseeding with clover or other legumes adds nitrogen fixation capacity
+Overseeding with clover or other legumes adds [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] capacity
 to the lawn and reduces the need for any supplementary nitrogen inputs.

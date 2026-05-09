@@ -34,7 +34,7 @@ Starting from p-dimethoxybenzene, Friedel-Crafts acylation with propionyl chlori
 | **Duration** | 10-16 hours |
 | **Onset** | 2-3 hours |
 
-The combination of low dose (6-10 mg), slow onset (2-3 hours), and long duration (10-16 hours) creates significant redosing risk. Users may believe nothing is happening and take more before the first dose has taken effect. Shulgin notes: "There may not be too much latitude in dosage between that which would be modest, or adequate, and that which would be excessive."
+The combination of [[ultra-low-dose-brassinosteroid-response-psilocybe-cubensis]] (6-10 mg), slow onset (2-3 hours), and long duration (10-16 hours) creates significant redosing risk. Users may believe nothing is happening and take more before the first dose has taken effect. Shulgin notes: "There may not be too much latitude in dosage between that which would be modest, or adequate, and that which would be excessive."
 
 ## Qualitative Comments (from PIHKAL)
 
@@ -48,7 +48,7 @@ The combination of low dose (6-10 mg), slow onset (2-3 hours), and long duration
 
 ## Effects
 
-- Powerful psychedelic experience at relatively low doses
+- Powerful [[leary-psychedelic-experience-bardo-mapping]] at relatively low doses
 - Rich, colorful visual hallucinations
 - Deep philosophical and introspective thought
 - Significant time distortion
@@ -68,7 +68,7 @@ A single report of 16 mg was described as "clearly an overdose" and "a physical 
 - Use accurate milligram scales -- the dose range is low (6-10 mg)
 - Despite being a phenethylamine, duration rivals amphetamine-based psychedelics
 - Not well-suited for group settings
-- Narrow therapeutic window -- titrate carefully
+- Narrow [[blesching-cannabis-therapeutic-window-dosing]] -- titrate carefully
 
 ### Synthesis Notes
 

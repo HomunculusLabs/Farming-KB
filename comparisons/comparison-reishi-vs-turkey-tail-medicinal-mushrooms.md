@@ -10,11 +10,11 @@ type: comparison
 
 # Reishi vs Turkey Tail: Medicinal Mushroom Comparison
 
-[[turkey-tail-trametes-versicolor]] (*Trametes versicolor*) are the two most clinically researched medicinal mushrooms in the world. Both are inedible polypores that require extraction for consumption, both have billion-dollar markets, and both are used as cancer adjuvant therapies in Asia. Despite these similarities, they differ markedly in biochemistry, cultivation, traditional use, and therapeutic emphasis.
+[[turkey-tail-trametes-versicolor]] (*[[staycare-trametes-versicolor-bioremediation-applications]]*) are the two most clinically researched medicinal mushrooms in the world. Both are inedible polypores that require extraction for consumption, both have billion-dollar markets, and both are used as cancer adjuvant therapies in Asia. Despite these similarities, they differ markedly in biochemistry, cultivation, traditional use, and therapeutic emphasis.
 
 ## Taxonomy and Biology
 
-| Feature | Reishi (*Ganoderma lucidum*) | Turkey Tail (*Trametes versicolor*) |
+| Feature | Reishi (*[[stamets-reishi-ganoderma-lucidum-cultivation]]*) | Turkey Tail (*Trametes versicolor*) |
 |---|---|---|
 | **Family** | Ganodermataceae | Polyporaceae |
 | **Fruiting body** | Large, kidney-shaped, lacquered red conk | Thin, fan-shaped shelves with concentric colour zones |
@@ -34,7 +34,7 @@ Reishi is a perennial that produces a single large conk per season, while Turkey
 Reishi's medicinal profile is defined by its **dual extraction requirement**. Two major compound classes demand different solvents:
 
 - **Triterpenes** (150+ identified): alcohol-soluble ganoderic acids, ganoderenic acids, lucidenic acids, ganolucidic acids. Responsible for the bitter taste, anti-inflammatory, hepatoprotective, anti-allergic, antihypertensive, and direct anti-tumour properties. No other common medicinal mushroom has such a rich triterpene profile.
-- **Polysaccharides** (100+ beta-D-glucans): water-soluble immune modulators that activate macrophages, NK cells, and T cells via CR3 receptor binding and NF-kappa-B cascades.
+- **Polysaccharides** (100+ beta-D-glucans): water-soluble immune modulators that activate macrophages, NK cells, and T cells via CR3 [[tihkal-receptor-binding-serotonin]] and NF-kappa-B cascades.
 - **Ling Zhi-8 (LZ-8) protein**: a unique immunomodulatory lectin-like protein that stimulates IL-2 production and ICAM-1 expression.
 - **Ganoderans**: blood sugar-regulating polysaccharides.
 - **Adenosine**: anti-platelet and anti-inflammatory.
@@ -93,9 +93,9 @@ Turkey Tail requires only **hot water extraction** since its key compounds (PSK,
 
 ## Traditional and Cultural Context
 
-Reishi holds unparalleled cultural significance in East Asia. Known as Ling Zhi ("Mushroom of Immortality") in China and Mannentake ("10,000-year mushroom") in Japan, it appears in the oldest Chinese pharmacopoeia (Shennong Ben Cao Jing) as a superior herb. It is the most depicted mushroom in ancient East Asian art and has served as a talisman against evil for millennia.
+Reishi holds unparalleled [[ethnomycology-cultural-significance-sacred-fungi]] in East Asia. Known as Ling Zhi ("Mushroom of Immortality") in China and Mannentake ("10,000-year mushroom") in Japan, it appears in the oldest Chinese pharmacopoeia (Shennong Ben Cao Jing) as a superior herb. It is the most depicted [[shroom-cultural-history-mushroom-in-ancient-civilizations]] East Asian art and has served as a talisman against evil for millennia.
 
-Turkey Tail (Yun Zhi, "cloud mushroom") has a humbler cultural profile. Used in traditional Chinese medicine but without the near-mythical status of Reishi. Its prominence is a modern phenomenon driven by clinical research rather than ancient tradition.
+Turkey Tail (Yun Zhi, "cloud mushroom") has a humbler cultural profile. Used in traditional Chinese medicine but without the near-mythical status of Reishi. Its prominence is a modern phenomenon driven by [[hofmann-lsd-clinical-research-early-studies]] rather than ancient tradition.
 
 ## Choosing Between Them
 

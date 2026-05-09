@@ -11,7 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Sagara, N. (1992). "The taxonomic position of the shimeji mushroom." Mycoscience 33(1): 1-8.
-  - Royse, D.J. (2014). "Specialty mushrooms: cultivation and the American mushroom industry." In: Mushrooms: Types, Cultivation and Nutrition, Nova Science Publishers.
+  - Royse, D.J. (2014). "Specialty mushrooms: cultivation and the [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]] industry." In: Mushrooms: Types, Cultivation and Nutrition, Nova Science Publishers.
   - Wasser, S.P. (2014). "Mushrooms as a source of dietary fiber and prebiotics." Journal of Nutrition & Food Sciences 4(3): 1-7.
   - Kim, M.Y. et al. (2009). "Chemical composition and antioxidant activity of Hypsizygus marmoreus." Journal of Agricultural and Food Chemistry 57(5): 1812-1816.
 created: 2026-04-28
@@ -19,7 +19,7 @@ created: 2026-04-28
 
 ## Overview
 
-Hypsizygus tessellatus, commonly known as buna-shimeji or brown beech mushroom, is an edible agaric fungus in the family Lyophyllaceae. It is one of the most commercially important cultivated mushrooms in East Asia, prized for its firm texture, nutty flavor, and extended shelf life compared to other cultivated species.
+Hypsizygus tessellatus, commonly known as buna-shimeji or brown beech mushroom, is an edible agaric fungus in the family Lyophyllaceae. It is one of the most commercially important [[fungi-cultivated-mushrooms-pathogens-competitors]] in East Asia, prized for its firm texture, nutty flavor, and extended shelf life compared to other cultivated species.
 
 The species is closely related to Hypsizygus marmoreus (hon-shimeji), and the two are sometimes treated as conspecific. H. tessellatus is distinguished by its larger cap size, brown cap coloration with white margin, and more robust stipe. Global commercial production exceeds 200,000 metric tons annually, with Japan, China, and Korea as primary producers.
 
@@ -71,9 +71,9 @@ This broad temperature range allows it to occupy diverse ecological niches acros
 
 ## Cultivation
 
-Commercial cultivation of H. tessellatus typically uses supplemented sawdust substrate in bottles or bags. The standard substrate formula combines hardwood sawdust (oak or beech) with rice bran at a 3:1 ratio and 60 to 65 percent moisture content.
+Commercial cultivation of H. tessellatus typically uses [[oyster-mushroom-supplemented-sawdust-blocks]] substrate in bottles or bags. The standard [[pf-tek-measurement-calibration-and-substrate-formula-precision]] combines hardwood sawdust (oak or beech) with rice bran at a 3:1 ratio and 60 to 65 percent moisture content.
 
-Spawn run proceeds at 20 to 25°C for 20 to 30 days. Primordia formation is induced by lowering temperature to 12 to 15°C, maintaining 90 to 95 percent relative humidity, and providing 200 to 500 lux of light. Fruitbody development takes 7 to 14 days, with total biological efficiency ranging from 80 to 120 percent.
+Spawn run proceeds at 20 to 25°C for 20 to 30 days. [[growing-gourmet-primordia-formation-pinning]] is induced by lowering temperature to 12 to 15°C, maintaining 90 to 95 percent relative humidity, and providing 200 to 500 lux of light. Fruitbody development takes 7 to 14 days, with total [[stamets-biological-efficiency-yield]] ranging from 80 to 120 percent.
 
 CO2 concentration during fruiting must be maintained below 1000 ppm, as elevated levels cause stipe elongation and reduced cap expansion. Ventilation rate is a critical parameter, typically set at 5 to 10 air changes per hour in commercial growing rooms. Pinning density is controlled through scraping or mechanical shock to the substrate surface.
 
@@ -109,9 +109,9 @@ Research interest in H. tessellatus has increased substantially since 2010, driv
 
 ## See Also
 
-- [[coprinus-comatus-detailed]]
+- [[coprinus-comatus]]
 - [[grifola-frondosa]]
 - [[lentinula-edodes]]
 - [[pleurotus-ostreatus]]
-- [[tremella-fuciformis-entity]]
+- [[tremella-fuciformis]]
 - [[trametes-versicolor-entity]]

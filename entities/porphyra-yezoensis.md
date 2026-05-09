@@ -18,9 +18,9 @@ sources:
 
 ## Overview
 
-**Porphyra yezoensis** Ueda is a red marine macroalga in the family Bangiaceae, widely cultivated as the primary source of nori in Japan and East Asia. It is one of the most valuable aquaculture seaweeds globally, with annual production exceeding 10 billion sheets of dried nori.
+**Porphyra yezoensis** Ueda is a red marine macroalga in the family Bangiaceae, widely cultivated as the primary source of nori in Japan and [[neurotropic-fungi-japan-east-asia-species-cultural-context]]. It is one of the most valuable aquaculture seaweeds globally, with annual production exceeding 10 billion sheets of dried nori.
 
-The species has a heteromorphic life cycle alternating between a microscopic conchocelis phase and a macroscopic leafy gametophytic phase.
+The species has a heteromorphic [[bloomfield-fungal-life-cycle-spiral-versus-circle]] alternating between a microscopic conchocelis phase and a macroscopic leafy gametophytic phase.
 The gametophyte is the harvested form, processed into the thin dried sheets used in sushi and other Japanese dishes.
 
 P. yezoensis is native to the cold temperate waters of the Northwest Pacific.
@@ -58,12 +58,12 @@ Conchospores are seeded onto nets suspended in the sea during autumn.
 The gametophytic thalli grow on these nets through winter, reaching harvestable size in 30–50 days. Multiple harvests are possible from a single seeding.
 
 The floating net method is the standard cultivation technique.
-Nets are stretched between floating frames in coastal waters, with the depth adjusted to optimize light exposure and nutrient availability.
+Nets are stretched between floating frames in coastal waters, with the depth adjusted to optimize light exposure and [[ph-and-nutrient-availability-garden-soils]].
 
 After harvest, nori is washed, minced, and formed into sheets using a papermaking-like process.
 The sheets are dried and packaged, with premium grades commanding high prices in Japanese markets.
 
-Yields average 3–6 tonnes of dried nori per hectare per season. Disease management, particularly against red rot disease caused by Pythium, is a major challenge requiring careful monitoring and net management.
+Yields average 3–6 tonnes of dried nori per hectare per season. [[plant-disease-management-solomon]], particularly against red rot disease caused by Pythium, is a major challenge requiring careful monitoring and net management.
 
 ## Chemistry and Nutrition
 
@@ -71,7 +71,7 @@ P. yezoensis is nutritionally dense, containing 25–45% protein by dry weight.
 It is particularly rich in vitamin B12, making it an important dietary source for vegetarians. Other vitamins include vitamin A, vitamin C, and several B-complex vitamins.
 
 The mineral profile includes iodine, iron, calcium, phosphorus, and zinc.
-Nori contains significant amounts of taurine, an amino acid with cardiovascular benefits.
+Nori contains significant amounts of taurine, an [[cho-fish-amino-acid-preparation]] with cardiovascular benefits.
 
 Pigments include phycoerythrin, phycocyanin, and allophycocyanin (phycobiliproteins), along with chlorophyll a and carotenoids.
 These pigments contribute to the characteristic color and are commercially extracted as natural food colorants.
@@ -93,7 +93,7 @@ yezoensis. It has a shorter cultivation season and different flavor profile.
 P. yezoensis contributes to intertidal primary productivity and provides habitat for small invertebrates and microalgae during its gametophytic phase.
 The conchocelis phase living within mollusk shells represents an endolithic symbiosis.
 
-The species plays a role in coastal nutrient cycling, absorbing dissolved nitrogen and phosphorus from the water column.
+The species plays a role in coastal [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], absorbing dissolved nitrogen and phosphorus from the water column.
 Nori farms can therefore serve a bioremediation function in eutrophic coastal waters.
 
 ## Economic Importance

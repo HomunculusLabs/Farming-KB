@@ -12,7 +12,7 @@ aliases: [Caesar's mushroom, Caesar's amanita, royal amanita, ovolo, oronge, Kai
 
 **Type:** Species (Fungus — Basidiomycete, Agaricales)
 
-**Category:** Ectomycorrhizal edible mushroom, highly prized culinary species
+**Category:** Ectomycorrhizal [[bloomfield-boletus-satanus-edible-mushroom-hazards]], highly prized culinary species
 
 **Family:** Amanitaceae
 
@@ -20,7 +20,7 @@ aliases: [Caesar's mushroom, Caesar's amanita, royal amanita, ovolo, oronge, Kai
 
 ## Overview
 
-*Amanita caesarea* is one of the most celebrated edible mushrooms in European culinary tradition, historically revered since Roman times as the mushroom of emperors. The species epithet honors Julius Caesar (or the imperial title), reflecting its status as the most prized edible mushroom in ancient Rome. It is an ectomycorrhizal species found primarily in Mediterranean oak and chestnut forests, producing distinctive bright orange-red to vermilion caps with white gills, a large pendulous annulus, and a thick sac-like white volva. While highly prized as a choice edible — often served raw as carpaccio in Italian cuisine — it requires confident identification due to the deadly toxic lookalikes within the genus *Amanita*, particularly the death cap (*A. phalloides*). The North American counterpart is generally considered to be *Amanita jacksonii*. See also [[amanita-phalloides]], and [[mycorrhizal-types-diversity]] and [[amanita-poisoning-identification-antidotes-palmer]] and [[amanita-phalloides]]** (Death Cap): Olive-green cap, thinner flesh — **deadly** (amatoxins). Button stage most easily confused with *A. caesarea* ovolo.
+*Amanita caesarea* is one of the most celebrated [[palmer-edible-mushrooms-north-america]] in European culinary tradition, historically revered since Roman times as the mushroom of emperors. The species epithet honors Julius Caesar (or the imperial title), reflecting its status as the most prized edible [[shroom-cultural-history-mushroom-in-ancient-civilizations]] Rome. It is an ectomycorrhizal species found primarily in Mediterranean oak and chestnut forests, producing distinctive bright orange-red to vermilion caps with white gills, a large pendulous annulus, and a thick sac-like white volva. While highly prized as a choice edible — often served raw as carpaccio in Italian cuisine — it requires confident identification due to the deadly toxic lookalikes within the genus *Amanita*, particularly the death cap (*A. phalloides*). The [[growing-gourmet-north-american-reishi-species]] counterpart is generally considered to be *Amanita jacksonii*. See also [[amanita-phalloides]], and [[mycorrhizal-types-diversity]] and [[amanita-poisoning-identification-antidotes-palmer]] and [[amanita-phalloides]]** (Death Cap): Olive-green cap, thinner flesh — **deadly** (amatoxins). Button stage most easily confused with *A. caesarea* ovolo.
 - **[[amanita-rubescens]]** (Blusher): Pinkish-brown cap with patches; bruises reddish when cut — edible when thoroughly cooked
 - **Amanita crocea**: Orange cap with striations; orange tinge on stem — edible
 
@@ -31,7 +31,7 @@ Key distinguishing feature of *A. caesarea*: bright orange-red cap (never olive-
 - **Nutritional profile (per 100g fresh):** ~90% water, 2–3 g protein, 4–6 g carbohydrates, 0.3–0.5 g fat, ~25–30 kcal
 - **Minerals:** Rich in potassium, phosphorus, magnesium; contains selenium, copper, zinc, iron, manganese
 - **Vitamins:** B-complex (B1, B2, B3, B5, B6, B9), vitamin D2 (ergocalciferol), vitamin C
-- **Bioactive compounds:** Ergosterol (vitamin D2 precursor), phenolic antioxidants, essential amino acids, immunomodulatory polysaccharides
+- **[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:** Ergosterol (vitamin D2 precursor), phenolic antioxidants, essential amino acids, immunomodulatory polysaccharides
 - **Toxicological safety:** No amatoxins, no ibotenic acid or muscimol; safe raw or cooked when correctly identified
 
 ## Conservation Status
@@ -55,7 +55,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -97,4 +97,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

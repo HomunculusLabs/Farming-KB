@@ -1,5 +1,5 @@
 ---
-title: Insectary Plants for Pest Control
+title: Insectary Plants for comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Insectary Plants for Pest Control
 
-Insectary plants are those that attract, shelter, and sustain beneficial insects -- pollinators, predatory insects, and parasitic wasps that naturally control pest populations. In [[permaculture-companion-planting]] for full compatibility lists. Key insectary species include:
+Insectary plants are those that attract, shelter, and sustain [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] -- pollinators, predatory insects, and parasitic wasps that naturally [[query-how-do-parasitoid-wasps-control-pest-populations]] populations. In permaculture-companion-planting for full compatibility lists. Key insectary species include:
 
 - **Marigold** (Tagetes spp) -- deters nematodes; companions to lettuce, potatoes, tomatoes, roses, beans
 - **Nasturtiums** -- attract predatory insects; companions to apples, cabbages, cucumbers
@@ -26,7 +26,7 @@ Insectary plants are those that attract, shelter, and sustain beneficial insects
 - Design for year-round flowering by selecting species that bloom in sequence
 - Layer insectary plants through all vegetation strata: ground covers, herbs, shrubs, canopy trees
 - Introduce a whole range of plants to pastures rather than relying on single species
-- Use progressive rotational grazing of tagasaste to extend its flowering period
+- Use progressive [[comparison-rotational-grazing-vs-continuous-grazing]] of tagasaste to extend its flowering period
 - Place bee forage trees as windbreaks, shelterbelts, and along fence lines for dual function
 - Maintain wild areas as refugia for native beneficial insects
 - Avoid broad-spectrum pesticides that kill beneficial insects alongside pests
@@ -44,7 +44,7 @@ Understanding which beneficial insects you want to support helps guide plant sel
 - Pirate bugs (Anthocoridae): Generalist predators of thrips, spider mites, and small caterpillars. Attracted to small flowers like alyssum, daisies, and marigolds.
 
 **Parasitic wasps:**
-- Trichogramma wasps: Parasitize eggs of Lepidoptera (moth and butterfly pests including cabbage loopers, codling moths, and borers). Among the most widely released biological control agents worldwide. Females require nectar from small, shallow flowers to sustain egg-laying.
+- Trichogramma wasps: Parasitize eggs of Lepidoptera (moth and butterfly pests including cabbage loopers, codling moths, and borers). Among the most widely released [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents worldwide. Females require nectar from small, shallow flowers to sustain egg-laying.
 - Aphidius wasps: Parasitize aphids, turning them into mummified husks. A single female can parasitize 100-300 aphids. They are attracted by the same compounds that aphids respond to, so the presence of some aphids can actually help recruit parasitoids.
 - Chalcid wasps: Parasitize a wide range of pest insects including whiteflies, scale insects, and leaf miners. Many are extremely small (1-3mm) and require tiny flowers for nectar feeding.
 
@@ -58,7 +58,8 @@ Insectary planting is most effective when combined with structural habitat featu
 
 ## Integrated Pest Management with Insectary Plants
 
-The most effective insectary strategies are integrated into a broader pest management approach. Insectary plantings work synergistically with other biological controls: [[beekeeping-problems-and-solutions]] benefits directly from well-planned forage corridors. Monitoring beneficial insect populations -- using yellow sticky traps for parasitic wasps, pitfall traps for ground beetles, and visual counts of ladybird larvae -- helps assess whether insectary plantings are achieving their intended effect. The [[jadam-fruit-tree-winter-pest-control]]
+The most effective insectary strategies are integrated into a broader pest management approach. Insectary plantings work synergistically with other biological controls: [[beekeeping-problems-and-solutions]] benefits directly from well-planned forage corridors. Monitoring beneficial insect populations -- using yellow [[cervantes-sticky-traps-pest-monitoring]] for parasitic wasps, pitfall traps for ground beetles, and visual counts of ladybird larvae -- helps assess whether insectary plantings are achieving their intended effect. The [[jadam-fruit-tree-winter-pest-control]]
+
 ## Practical Considerations
 
 Successful implementation of Insectary Plants for Pest Control requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

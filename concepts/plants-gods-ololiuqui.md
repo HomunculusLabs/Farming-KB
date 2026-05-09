@@ -1,5 +1,5 @@
 ---
-title: "Ololiuqui and Turbina corymbosa"
+title: "Ololiuqui and plants-of-the-gods-turbina-corymbosa-ololiuqui"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
@@ -41,7 +41,7 @@ The patient "believes the Ololiuqui is revealing what he wants to know. When the
 
 An ancient Indian Mother Goddess mural from Teotihuacan, Mexico (circa AD 500), depicts a highly stylized vine of Ololiuqui with priestly attendants. Hallucinogenic nectar appears to flow from the blossoms of the plant, and "disembodied eyes" and birds are stylistic features associated with hallucinogenic intoxication, providing archaeological evidence of the plant's deep antiquity in Mesoamerican religion.
 
-This artistic tradition continued for centuries. The Ololiuqui vine appears in Aztec codices and colonial-era illustrations, always rendered with recognizable morning glory characteristics — the twining habit, cordate leaves, and round seeds that gave the plant its Nahuatl name.
+This artistic tradition continued for centuries. The Ololiuqui vine appears in [[teonanacatl-aztec-codices-archaeology]] and colonial-era illustrations, always rendered with recognizable morning glory characteristics — the twining habit, cordate leaves, and round seeds that gave the plant its Nahuatl name.
 
 ## Ipomoea violacea as Ololiuqui
 
@@ -63,7 +63,7 @@ Some early writers deliberately concealed knowledge of Ololiuqui from the Spanis
 
 ## Modern Research
 
-The psychoactive constituents of Ololiuqui remained unknown for centuries. Chemical analysis by Albert Hofmann in the mid-20th century revealed that the seeds contained lysergic acid alkaloids — a discovery of enormous chemotaxonomic interest, since these compounds were previously known only from ergot fungi (Claviceps purpurea), a parasite of rye. This finding suggested a fascinating biochemical parallel between a New World morning glory and an Old World fungal parasite.
+The psychoactive constituents of Ololiuqui remained unknown for centuries. [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] by Albert Hofmann in the mid-20th century revealed that the seeds contained lysergic acid alkaloids — a discovery of enormous chemotaxonomic interest, since these compounds were previously known only from ergot fungi ([[bloomfield-ergot-claviceps-purpurea-ergotism]]), a parasite of rye. This finding suggested a fascinating biochemical parallel between a New World morning glory and an Old World fungal parasite.
 
 ## Chemistry
 
@@ -76,12 +76,12 @@ The tryptamine radical in the ring structure of lysergic acid establishes its re
 
 ## Related Species
 
-The European bindweed *Convolvulus tricolor* also contains psychoactive alkaloids, although there is no knowledge of any traditional use. In South America, the bindweed *Ipomoea carnea* is used as an inebriant and also contains the psychoactive alkaloid ergotine. The Mazatec also use *Coleus blumei* and *Coleus pumilus* as substitutes, relating them taxonomically to Salvia divinorum.
+The European bindweed *Convolvulus tricolor* also contains psychoactive alkaloids, although there is no knowledge of any traditional use. In South America, the bindweed *Ipomoea carnea* is used as an inebriant and also contains the psychoactive alkaloid ergotine. The Mazatec also use *Coleus blumei* and *[[coleus-blumei-and-coleus-pumilus-potential-psychoactivity]]* as substitutes, relating them taxonomically to Salvia divinorum.
 
 The cultivated morning glory varieties popular in horticulture — such as "Flying Saucers" — are derived from Ipomoea violacea and contain the same psychoactive alkaloids as the traditional Ololiuqui, though at variable concentrations depending on the strain.
 
 ## See Also
 
-- [[teonanacatl-and-mesoamerican-mushroom-cults]] — Psilocybin mushrooms in Mesoamerica
+- teonanacatl-and-mesoamerican-mushroom-cults — [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] in Mesoamerica
 - [[ergot-fungus]] — Source of related ergoline alkaloids
 - [[ololiuqui]]

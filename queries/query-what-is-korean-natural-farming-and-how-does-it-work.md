@@ -1,5 +1,5 @@
 ---
-title: "What Is Korean Natural Farming and How Does It Work?"
+title: "What Is Korean comparison-natural-farming-vs-permaculture and How Does It Work?"
 created: 2026-04-28
 tags: [query, knf, natural-farming, organic, soil-health]
 date: 2026-04-25
@@ -23,15 +23,15 @@ Cho spent decades refining the system through observation and experimentation, e
 
 ### Core Principles and Philosophy
 
-The foundation of KNF rests on the [[comparison-fukuoka-vs-jadam-farming]] explores how Cho's work relates to Masanobu Fukuoka's "do-nothing" farming philosophy and Youngsang Cho's JADAM system.
+The foundation of KNF rests on the [[comparison-fukuoka-vs-jadam-farming]] explores how Cho's work relates to Masanobu Fukuoka's "do-nothing" farming [[jadam-philosophy-and-youngsang-chos-farming-revolution]] Cho's JADAM system.
 While Fukuoka emphasized minimal intervention with natural seed ball techniques and permanent ground cover, KNF provides a more structured input system that gives farmers greater control over plant nutrition and pest management.
-JADAM, founded by a student of Master Cho, further simplifies the KNF approach by reducing the number of inputs and emphasizing anaerobic fermentation methods.
+JADAM, founded by a student of Master Cho, further simplifies the KNF approach by reducing the number of inputs and emphasizing [[jadam-anaerobic-fermentation-principles]] methods.
 Despite these differences, all three systems share a common thread of working with nature rather than against it.
 
 ### Indigenous Microorganisms and Input Production
 
 At the heart of KNF practice is the use of [[cho-natural-farming-inputs-overview]] that serve specific functions throughout the growing cycle.
-These inputs include Fermented Plant Juice (FPJ) made from fast-growing plant tips to supply growth hormones and amino acids, Oriental Herbal Nutrient (OHN) for immune stimulation and pest deterrence, Fish Amino Acid (FAA) for nitrogen supplementation during vegetative growth, and Calcium-Phosphate solutions for structural support during flowering.
+These inputs include [[bionutrients-lab-fermented-plant-juice-fpj]] (FPJ) made from fast-growing plant tips to supply growth hormones and amino acids, [[bionutrients-lab-oriental-herbal-nutrients-ohn]] Nutrient (OHN) for immune stimulation and pest deterrence, Fish Amino Acid (FAA) for nitrogen supplementation during vegetative growth, and Calcium-Phosphate solutions for structural support during flowering.
 Each input is made through controlled fermentation using brown sugar as a preservative and extraction medium.
 The [[fermented-plant-extract-fpe]] is one of the most versatile and commonly used KNF inputs.
 It is made by harvesting vigorously growing plant shoots at their peak nutritional moment, chopping them, mixing with equal weight of brown sugar, and allowing them to ferment for seven days.
@@ -46,7 +46,7 @@ It is particularly useful during flowering and fruiting stages when plants benef
 The cannabis-specific application of FFJ for ripening is documented in the [[comparison-natural-farming-vs-permaculture]] reveals that while permaculture focuses on landscape design and perennial systems, KNF focuses more on biological input production and can be applied to any scale.
 
 KNF is also remarkably scalable and adaptable to different climates, crops, and growing systems.
-The same fundamental inputs work whether you are growing vegetables in a backyard garden, managing a cannabis living soil system, or running a diversified farm.
+The same fundamental inputs work whether you are [[container-growing-vegetables-herbs]] in a backyard garden, managing a cannabis living soil system, or running a diversified farm.
 Because the inputs are made from locally collected microorganisms, they naturally adapt to the specific biological conditions of each region, becoming more effective with continued use as microbial communities establish and mature in the soil.
 This local adaptation is one of KNF's greatest strengths, as commercially produced biological inoculants often contain organisms that are not adapted to the specific conditions of a given farm or garden.
 
@@ -59,6 +59,8 @@ This local adaptation is one of KNF's greatest strengths, as commercially produc
 - The system is adaptable to any scale from container gardens to large commercial farms
 
 ## Related
+
+- [[query-what-is-dry-farming-and-how-does-it-work]]
 
 - [[query-jadam-vs-korean-natural-farming]]
 - [[what-natural-farming-method-should-i-use]]
@@ -81,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,7 +1,7 @@
 ---
-title: Aquaculture Pond Design and Management
+title: holzer-aquaculture-pond-construction Design and Management
 created: 2026-04-28
-tags: [aquaculture, fish-farming, pond-design, [[permaculture]], polyculture]
+tags: [aquaculture, fish-farming, pond-design, permaculture, polyculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md"]
@@ -13,11 +13,11 @@ type: concept
 Aquaculture is a closed-loop system of growing fish in a cycle with plants
 and other animals. These range from small backyard ponds to large intensive
 aboveground tanks. Water systems have the potential to produce much more
-protein per square foot than an equivalent area of land. A successful
+protein per [[comparison-biointensive-vs-square-foot-gardening]] than an equivalent area of land. A successful
 aquaculture system is patterned after productive land-water edges such as
 swamps and coral reefs. In [[urban-permaculture-rainwater-harvesting-graywater]] tanks for
 top-up water. Duckweed and other pond plants can be harvested for
-[[mollison-pond-design-freshwater-aquaculture]]
+mollison-pond-design-freshwater-aquaculture
 ## Practical Applications
 
 Aquaculture Pond Design and Management has a range of practical applications that make it relevant to
@@ -95,4 +95,8 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[duggar-mushroom-environmental-factors-temperature-moisture-light]]
+- [[urban-permaculture-rainwater-harvesting-graywater]]
+- [[pond-design-and-construction]]
+- [[query-how-do-i-design-a-duck-pond-system-for-permaculture]]

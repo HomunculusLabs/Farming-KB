@@ -1,5 +1,5 @@
 ---
-title: "2C-G-5 (3,4-Norbornyl-2,5-dimethoxy-PEA) -- PIHKAL Entry #30"
+title: "2C-G-5 (3,4-Norbornyl-2,5-dimethoxy-PEA) -- 2c-b-pihkal-entry-20 #30"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -104,14 +104,14 @@ which set up as a crystalline solid. The product,
 A solution of 4.6 g POCl3 and 4.6 g N-methylformanilide was heated
 briefly on the steam-bath until the color had become deep claret.
 There was then added 3.05 g of 3,6-dimethoxybenzonorbornane and the
-solution was heated on the steam bath for 12 h. The black, tarry
+solution was heated on the [[scythian-cannabis-steam-bath-ritual]] for 12 h. The black, tarry
 reaction mixture was poured into H2O, and after hydrolysis, the H2O
 
 (Additional synthesis details available in source.)
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

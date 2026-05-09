@@ -1,99 +1,135 @@
 ---
-title: "Mescaline-Containing Cacti"
-created: 2026-04-28
-tags: [mescaline, peyote, cacti, hallucinogens, native-american-church,
-       ethnobotany]
-date: 2026-04-28
-updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md]
-type: concept
+title: Mescaline-Containing Cacti
+slug: mescaline-containing-cacti
+source: halpern-m-hallucinogens-dissociative-agents-growing-in-us.md
+created: 2026-05-08
+tags: [ethnobotany, mescaline, cacti, peyote, hallucinogens, psychopharmacology, native-american]
 ---
 
 # Mescaline-Containing Cacti
 
 ## Overview
 
-Mescaline (beta-3,4,5-trimethoxyphenethylamine) is a naturally
-occurring phenethylamine hallucinogen found in several cactus species.
-The most well-known is peyote ([[hallucinogenic-plants-native-to-united-states]],
-[[sacramental-use-of-psychedelic-plants-in-us]]
+Mescaline (3,4,5-trimethoxyphenethylamine) is a naturally occurring
+phenethylamine hallucinogen found in several cactus species. The most
+famous source is the peyote cactus (Lophophora williamsii), which has
+been used sacramentally by [[halpern-sacramental-peyote-and-native-american-church]] peoples for thousands of years.
+Other mescaline-containing cacti, including Trichocereus pachanoi (San
+Pedro) and Trichocereus peruvianus ([[trichocereus-mescaline-cacti-san-pedro-peruvian-torch-halpern]]), are widely available
+as ornamental plants throughout the [[dmt-containing-plants-united-states-halpern]] despite their psychoactive
+properties.
 
-## [[mescaline-entity]]
-## Practical Applications
+## Peyote (Lophophora williamsii)
 
-Mescaline-Containing Cacti has a range of practical applications that make it relevant to
-both researchers and practitioners. Understanding these applications
-requires familiarity with the underlying principles and their
-manifestation in real-world contexts. The breadth of applications
-reflects the fundamental importance of this topic across disciplines.
+### Botany and Distribution
 
-Implementation varies based on scale, available resources, and
-specific objectives. Small-scale applications may be relatively
-straightforward, while larger implementations require more careful
-planning and coordination. Adaptation to local conditions is always
-essential for achieving optimal results regardless of scale.
+Peyote grows within a narrow strip of desert along the Texas-Mexico border,
+extending deeply into Mexico's Chihuahuan Desert. It is a spineless, slow-
+growing cactus with a small crown (the "button") visible above ground and a
+tuberous, carrot-like root extending below. When properly harvested, the
+crown is cut from the plant leaving the root intact, allowing regrowth.
+Eventually, the root sprouts several new crowns that can be reharvested.
 
-Documented case studies provide valuable reference points, though
-each situation presents unique combinations of opportunities and
-constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
-creative adaptation to local conditions and emerging challenges.
+### Chemistry
 
-## Key Considerations
+Peyote contains over 60 alkaloids, but mescaline is the principal
+hallucinogenic constituent at approximately 1.5% by dry weight. The
+complex alkaloid profile may contribute to the unique subjective qualities
+of the peyote experience compared to synthetic mescaline.
 
-Several important considerations should guide approach and decision-
-making when working with this topic. These include environmental
-factors, resource availability, timing, and the specific goals of the
-implementation. Careful attention to these factors improves outcomes
-and reduces the likelihood of common problems and setbacks.
+### Preparation and Dosing
 
-Environmental conditions play a particularly significant role in
-determining outcomes. Factors such as temperature, moisture, light
-exposure, and seasonal timing can substantially affect results.
-Monitoring these conditions and adapting practices accordingly is
-a hallmark of experienced and effective practice in this area.
+Peyote is consumed as peeled fresh buttons, dried whole buttons, dried
+ground powder (sometimes reconstituted with water), or steeped into warm
+tea. It has a bitter, acrid taste and typically induces nausea and vomiting,
+especially in first-time users. A potent mescaline intoxication is
+approximately 3.75 mg/kg body weight. Peak effects occur within 2–4 hours,
+wearing off over the subsequent 4–6 hours.
 
-Resource considerations include not only material inputs but also
-knowledge, skills, time, and ongoing management capacity. Realistic
-assessment of available resources helps prevent overcommitment and
-enables more sustainable and successful long-term implementations.
+Consumption of pickled peyote is uncommon following a reported case of
+botulism poisoning. The typical sacramental adult dose ranges from a few
+teaspoons to considerably more.
 
-## Common Challenges
+### Native American Church Use
 
-Practitioners commonly encounter several challenges when working with
-Mescaline-Containing Cacti. These include both technical difficulties and broader systemic
-issues that require adaptive management and creative problem-solving.
-Awareness of these common challenges enables more proactive planning
-and faster resolution when issues do arise during implementation.
+Peyote is most commonly consumed as a sacrament in the all-night ceremonies
+of the Native American Church (NAC), which has approximately 300,000 members
+in the United States and Canada. The NAC is pan-tribal and the largest faith
+of Native Americans. Members are prohibited from using all drugs and alcohol
+except peyote. Ceremonies are typically held on Saturdays and holidays in a
+tipi or traditional structure, led by a priest ("Road Man") with prayer
+throughout the night. Morning prayers are followed by blessed food and a
+communal feast. Attendance averages monthly, ranging from weekly to annually.
 
-Technical challenges often relate to the complexity of interactions
-between multiple variables and the difficulty of predicting outcomes
-with certainty. Building in redundancy, monitoring key indicators, and
-maintaining flexibility in approach all help manage this inherent
-uncertainty and improve the resilience of implementations over time.
+## Other Mescaline-Containing Cacti
 
-Learning from both successes and failures is essential for continuous
-improvement. Maintaining records of observations, interventions, and
-outcomes creates a valuable knowledge base that supports progressively
-better results with each iteration of practice and experimentation.
+### Trichocereus pachanoi (San Pedro)
 
-## Integration and Future Development
+Although not indigenous to the United States, San Pedro cacti are very
+common ornamental plants available from garden shops nationwide. Mescaline
+content varies widely from 0.33% to 2.375% by dry weight. These cacti are
+typically prepared by boiling them down into a soupy consistency for
+ingestion. Emesis is even more likely than with peyote due to the large
+volume of plant material consumed.
 
-The greatest value from this topic often comes through integration
-with other systems and approaches. Rather than treating it in isolation,
-considering how it connects with and enhances other elements creates
-more robust and productive overall systems. This integrative approach
-is increasingly recognized as essential for sustainable outcomes.
+### Trichocereus peruvianus (Peruvian Torch)
 
-Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
+Also widely available as an ornamental, with reported mescaline content
+ranging from 0% to 0.82% by dry weight. Like San Pedro, it is prepared by
+boiling into a soup. The extreme variability in mescaline content makes
+dose prediction unreliable.
 
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
+## Legal Status
 
+Mescaline is a Schedule I controlled substance in the United States. However,
+members of the Native American Church who have tribal membership recognized
+by the Bureau of Indian Affairs have clear exemption from federal laws
+regarding peyote possession and distribution, provided it is for traditional
+NAC ceremonial use. Non-Native Americans do not have federal exemption for
+peyote use. The ornamental Trichocereus cacti are not specifically scheduled,
+though their extraction for mescaline would constitute manufacture of a
+controlled substance.
+
+## Mescaline vs Other Classical Hallucinogens
+
+Mescaline differs from other classical hallucinogens in several important
+ways:
+
+- **Chemical class**: Mescaline is a phenethylamine, unlike psilocybin and
+  DMT (tryptamines) and LSD (an ergoline). This different chemical scaffold
+  produces distinct [[tihkal-receptor-binding-serotonin]] profiles and subjective effects.
+- **Dose range**: Mescaline requires a substantially higher dose than other
+  classical hallucinogens — hundreds of milligrams compared to micrograms for
+  LSD or tens of milligrams for psilocybin. This is because mescaline has
+  lower affinity for the 5-HT2A receptor.
+- **Duration**: The mescaline experience (8–12 hours total) is longer than
+  psilocybin (4–6 hours) but shorter than LSD (10–12 hours).
+- **Cross-tolerance**: Cross-tolerance between LSD and mescaline occurs but
+  is less robust than LSD-psilocybin cross-tolerance.
+
+## Ethnobotanical History
+
+Mescaline-containing cacti have the longest documented history of ceremonial
+use among the classical hallucinogens. Archaeological evidence from cave
+paintings and stone carvings suggests peyote use dates back at least 5,700
+years in the Rio Grande region. [[chiric-caspi-brunfelsia-south-american-hallucinogen]] cacti such as San Pedro have
+been used in Andean traditional medicine for over 3,000 years, particularly
+in Peru and Ecuador. The Huichol people of Mexico continue peyote
+pilgrimage traditions to this day.
+
+## Health Considerations
+
+Peyote has a several-thousand-year history of safe ceremonial use. Research
+on NAC members has found no evidence of neuropsychological deficits
+attributable to peyote use. The primary acute risks are nausea, vomiting,
+and the psychological challenges of the hallucinogenic experience itself.
+No deaths have been attributed to peyote intoxication. The broader mescaline-
+containing cacti carry similar risk profiles when properly identified.
+
+## See Also
+
+- [[psilocybin-containing-mushrooms-united-states]] — Another naturally
+  occurring hallucinogen class
+- [[dmt-maoi-plants-united-states]] — DMT and ayahuasca [[dmt-botanical-sources-pharmacology]]
+- [[salvia-divinorum-profile]] — Salvinorin-A and its unique mechanism
+- [[sacramental-religious-use-hallucinogenic-plants-united-states]] — Legal framework

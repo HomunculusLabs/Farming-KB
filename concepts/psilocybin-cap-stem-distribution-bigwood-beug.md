@@ -1,5 +1,5 @@
 ---
-title: Psilocybin and Psilocin Distribution Between Cap and Stem in Psilocybe cubensis
+title: Psilocybin and Psilocin Distribution Between Cap and Stem in brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting
 created: 2026-04-28
 tags: [psilocybin, psilocin, mushroom, alkaloid-distribution, cap, stem, psilocybe-cubensis, bigwood-beug, cultivation, flush]
 date: 2026-04-28
@@ -40,13 +40,13 @@ The Amazon strain (collected near Pucallpa, Peru) diverged from the other two st
 - **Caps:** 5.7 mg/g psilocybin, 0.1 mg/g psilocin
 - **Stems:** 5.7 mg/g psilocybin, 0.0 mg/g psilocin
 
-This strain showed equal psilocybin distribution between cap and stem, and a trace of psilocin was present in the cap rather than the stem. The Amazon strain was the only one of the three tested that placed any psilocin in the cap.
+This strain showed equal [[sandoz-psilocybin-distribution-program]] between cap and stem, and a trace of psilocin was present in the cap rather than the stem. The Amazon strain was the only one of the three tested that placed any psilocin in the cap.
 
 ## General Patterns
 
 ### Psilocybin Concentration in Caps
 
-Across all three strains, caps generally contained higher concentrations of psilocybin than stems, with the exception of the Amazon strain where levels were equal. The cap-to-stem ratio ranged from 1:1 (Amazon) to approximately 2.3:1 (M.R.). This pattern aligns with the general understanding that the cap is the more metabolically active tissue, containing the spore-producing lamellae where alkaloid biosynthesis is concentrated.
+Across all three strains, caps generally contained higher concentrations of psilocybin than stems, with the exception of the Amazon strain where levels were equal. The cap-to-stem ratio ranged from 1:1 (Amazon) to approximately 2.3:1 (M.R.). This pattern aligns with the general understanding that the cap is the more [[isolation-metabolically-active-arbuscules-intraradical-hyphae]] tissue, containing the spore-producing lamellae where alkaloid biosynthesis is concentrated.
 
 ### Psilocin Localization
 
@@ -54,7 +54,7 @@ The most striking finding was the strain-dependent localization of [[hplc-analys
 
 ### Cultivation Conditions
 
-Specimens were grown on a rye-grain medium adapted from methods by San Antonio (1971) and Oss and Oeric (1976) into a "miniculture" system using wide-mouth half-pint jars (~250 ml) charged with 10 g rye grain and 15 ml water, autoclaved and inoculated under sterile conditions. Jars were shaken every four days for 28 days, then cased with a mixture of peat, calcium carbonate, and perlite or vermiculite. Mushrooms were watered with 1 ml sterile water every two days. First flush occurred four to five weeks after inoculation.
+Specimens were grown on a rye-grain medium adapted from methods by San Antonio (1971) and Oss and Oeric (1976) into a "miniculture" system using wide-mouth half-pint jars (~250 ml) charged with 10 g [[bigwood-beug-miniculture-rye-grain-flush-variation-method]] and 15 ml water, autoclaved and inoculated under sterile conditions. Jars were shaken every four days for 28 days, then cased with a mixture of peat, calcium carbonate, and perlite or vermiculite. Mushrooms were watered with 1 ml sterile water every two days. First flush occurred four to five weeks after inoculation.
 
 ### Voucher Specimens
 
@@ -66,7 +66,7 @@ Bigwood and Beug also analyzed five street samples of dried [[psilocybe-cubensis
 
 ## See Also
 
-- [[bigwood-beug-psilocybin-psilocin-variation-analysis]] - Full analysis of flush-to-flush variation
+- bigwood-beug-psilocybin-psilocin-variation-analysis - Full analysis of flush-to-flush variation
 - [[psilocybin-psilocin-flush-accumulation-patterns]] - Detailed flush dynamics
 - [[psilocybe-cubensis]] - Species overview and cultivation
 ## Practical Considerations
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

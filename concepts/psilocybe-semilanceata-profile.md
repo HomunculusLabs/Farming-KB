@@ -1,11 +1,11 @@
 ---
-title: Psilocybe semilanceata Profile
+title: guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution Profile
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [species-profiles, species-identification, mycology, psilocybin, potency, temperate, europe, distribution]
 sources:
-  - raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  sources: []
   - raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md
 ---
 
@@ -13,7 +13,7 @@ sources:
 
 ## Overview
 
-Psilocybe semilanceata, the liberty cap, is the classic and most widely known psychoactive mushroom of Europe. It may be the most common psychoactive Psilocybe mushroom in the world. The first documented case of psilocybin intoxication occurred with this species in London's St. James's Green Park in 1799.
+Psilocybe semilanceata, the [[peter-mantle-liberty-cap-chromatographic-discovery-1969]], is the classic and most widely known psychoactive mushroom of Europe. It may be the most common psychoactive Psilocybe mushroom in the world. The first documented case of psilocybin intoxication occurred with this species in London's St. James's Green Park in 1799.
 
 ## Taxonomy
 
@@ -27,7 +27,7 @@ Psilocybe semilanceata, the liberty cap, is the classic and most widely known ps
 - **Gills**: Olive brown to blackish purple brown, crowded, edges often remaining white. Attachment adnexed to roughly linear.
 - **Stem**: 6-12 cm long, 1.25-2 mm thick, very slender and always twisted. Yellowish or whitish; areas under pressure develop bluish-green stains. Cortinate fibrils appear at center like remnants of a veil.
 - **Flesh**: Pale yellow in cap, ocher brown in stem. Odorless, mild flavor.
-- **Spore print**: Blackish purple brown.
+- **[[comparison-spore-print-collection-vs-spore-syringe-production]]**: Blackish purple brown.
 - **Spores**: 12-16 x 6-8 micrometers, elongated to elliptical.
 
 ## Potency
@@ -42,11 +42,11 @@ Psilocybe semilanceata, the liberty cap, is the classic and most widely known ps
 - **Season**: August to October.
 - **Altitude**: From sea level to 1,720 meters in mountainous regions.
 - **European range**: Finland, Norway, Sweden, Denmark, Germany, Switzerland, Austria, Netherlands, Belgium, France, Russia, Poland, Czech Republic, Hungary, Romania, Scotland, England, Wales, Italy, Spain.
-- **Global range**: Also found in North America (Northern California to British Columbia, and the Pacific Northwest), Australia, and Asia.
+- **Global range**: Also found in [[psilocybin-north-america-pacific-northwest]] (Northern California to British Columbia, and the Pacific Northwest), Australia, and Asia.
 
 ## Historical Significance
 
-The 1799 intoxication of a London family, documented by E. Brande and J. Sowerby, is the earliest known case of psilocybin mushroom intoxication. Symptoms included dilated pupils, spontaneous laughter, delirium, and visual disturbances. M.C. Cooke (c. 1900) later noted that only the blue-bruising variety caused symptoms.
+The 1799 intoxication of a London family, documented by E. Brande and J. Sowerby, is the earliest known case of psilocybin [[panaeolus-mushroom-intoxication-history]]. Symptoms included dilated pupils, spontaneous laughter, delirium, and visual disturbances. M.C. Cooke (c. 1900) later noted that only the blue-bruising variety caused symptoms.
 
 ## Distinguishing Features
 
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

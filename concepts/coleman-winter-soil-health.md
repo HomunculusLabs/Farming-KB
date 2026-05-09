@@ -1,5 +1,5 @@
 ---
-title: "Soil Health in the Winter Harvest Greenhouse"
+title: "Soil Health in the coleman-claytonia-winter-harvest-cultivation Greenhouse"
 type: concept
 tags:
   - soil-health
@@ -30,12 +30,12 @@ for plant growth.
 
 This living soil philosophy means that all management decisions are
 evaluated for their impact on soil biology. Fertilization, tillage,
-irrigation, and crop rotation are all designed to support and enhance the
+irrigation, and [[comparison-crop-rotation-vs-cover-cropping]] are all designed to support and enhance the
 soil's biological activity.
 
 The protected environment of the greenhouse actually supports soil biology
 by moderating temperature extremes. Soil organisms remain active through
-the winter in the greenhouse, continuing to process organic matter and
+the winter in the greenhouse, continuing to process [[hamilton-composting-and-organic-matter-management]] and
 make nutrients available to plants.
 
 ## Compost as the Primary Amendment
@@ -43,7 +43,7 @@ make nutrients available to plants.
 Compost is the foundation of soil fertility at Four Season Farm, and the
 greenhouse beds receive the same compost-based fertility program as the
 outdoor fields. Coleman applied finished compost to the greenhouse beds
-during bed preparation, providing a slow-release source of nutrients and
+during [[azurescens-outdoor-bed-preparation-woodchips]], providing a slow-release source of nutrients and
 organic matter.
 
 The compost serves multiple functions beyond nutrient supply. It improves
@@ -63,7 +63,7 @@ Instead, they are lightly worked to incorporate surface amendments and
 prepare a seedbed.
 
 This minimal-disturbance approach preserves the soil's existing structure,
-protects mycorrhizal networks, and maintains the habitat for soil
+protects [[dighton-mycorrhizal-networks-carbon-transfer]], and maintains the habitat for soil
 organisms that have been established through previous cropping cycles.
 
 The contrast with conventional greenhouse production, which often involves
@@ -90,7 +90,7 @@ potential pathogens, reducing disease pressure on winter crops.
 
 ## Moisture Management
 
-Soil moisture in the winter greenhouse requires careful management. The
+Soil moisture in the [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]] requires careful management. The
 protected environment reduces evaporation compared to outdoor conditions,
 but the cold temperatures also reduce the soil's ability to absorb and
 drain water.

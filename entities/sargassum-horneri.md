@@ -15,7 +15,7 @@ sources:
   - NOAA (2023). "Sargassum horneri Invasive Species Alert." NOAA National Marine Sanctuaries.
   - Yoon, Y.H. et al. (2014). "Distribution of Sargassum horneri in Korean Waters." Algae 29(1): 13–20.
   - Komatsu, T. et al. (2014). "Sargassum horneri Invasion in the Northeast Pacific." Coastal Management 42(1): 1–13.
-  - Li, R. et al. (2020). "Nutritional Composition of Sargassum horneri." Journal of Applied Phycology 32: 2029–2038.
+  - Li, R. et al. (2020). "[[dighton-fungal-nutritional-composition-animal-diets]] of Sargassum horneri." Journal of Applied Phycology 32: 2029–2038.
 ---
 
 ## Overview
@@ -24,7 +24,7 @@ sources:
 
 It is native to the northwest Pacific, occurring along the coasts of Japan, Korea, and China, where it forms extensive subtidal beds.
 
-The species has become an aggressive invader along the Pacific coast of North America and in European waters since the 2000s.
+The species has become an aggressive invader along the Pacific coast of [[psilocybin-north-america-pacific-northwest]] and in European waters since the 2000s.
 
 It is commercially harvested as food and industrial alginate source in its native range, while being managed as an invasive nuisance in introduced regions.
 
@@ -74,7 +74,7 @@ The primary vector for introduction is believed to be hull fouling on commercial
 
 In introduced regions, it displaces native macroalgal assemblages by monopolizing substrate space and reducing light penetration.
 
-The annual life cycle produces massive quantities of drifting biomass that washes ashore, creating nuisance accumulations on beaches.
+The annual [[bloomfield-fungal-life-cycle-spiral-versus-circle]] produces massive quantities of drifting biomass that washes ashore, creating nuisance accumulations on beaches.
 
 Drifting rafts of thalli transport attached epifauna and can facilitate the spread of non-native invertebrate species.
 
@@ -92,13 +92,13 @@ In Japan and Korea, *S. horneri* is commercially harvested for human consumption
 
 The harvested biomass is also processed for alginate extraction, used in food additives, pharmaceuticals, and industrial applications.
 
-The species is rich in fucoidan, alginate, and bioactive compounds with demonstrated antioxidant, antiviral, and anti-inflammatory properties.
+The species is rich in fucoidan, alginate, and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] with demonstrated antioxidant, antiviral, and anti-inflammatory properties.
 
 Annual harvest in East Asia exceeds 100,000 metric tons from both wild collection and aquaculture production.
 
 In Korea, aquaculture of *S. horneri* is practiced using seeded rope culture in coastal waters.
 
-Nutritional analysis shows the species contains significant levels of dietary fiber, minerals (calcium, magnesium, iron), and polyunsaturated fatty acids.
+Nutritional analysis shows the species contains significant levels of dietary fiber, minerals (calcium, magnesium, iron), and polyunsaturated [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]].
 
 In California and Mexico, the invasive populations create economic costs from beach cleanup operations and impacts on tourism and recreation.
 
@@ -110,7 +110,7 @@ Control of invasive populations focuses on early detection, manual removal, and 
 
 Dive teams and volunteer networks conduct periodic removal events in heavily infested areas along the California coast.
 
-Chemical and biological control methods are not currently available for marine macroalgal invasions.
+Chemical and [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] methods are not currently available for marine macroalgal invasions.
 
 Prevention strategies include monitoring hull fouling on vessels and ballast water management in ports within the introduced range.
 

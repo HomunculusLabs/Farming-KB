@@ -1,5 +1,5 @@
 ---
-title: "Cannabis Safety Profile and Adverse Effects"
+title: "Cannabis cannabis-safety-profile-and-overdose-risk and Adverse Effects"
 created: 2026-04-28
 tags: [cannabis, safety, adverse-effects, toxicity, drug-interactions]
 date: 2026-04-25
@@ -13,7 +13,7 @@ type: concept
 Cannabis has a remarkably favorable safety profile compared to most
 pharmaceutical medications, with no confirmed cases of fatal overdose in
 medical literature. However, cannabis is not without risks, and understanding
-its adverse effects, contraindications, and potential drug interactions is
+its adverse effects, contraindications, and potential [[cannabis-drug-interactions-and-contraindications]] is
 essential for safe therapeutic use.
 
 ## Overview
@@ -54,7 +54,7 @@ age of onset an important consideration in clinical cannabis use.
 - THC has a biphasic dose-response curve, meaning low and high doses can
   produce opposite effects
 - Patients with certain psychiatric conditions may be more vulnerable to
-  adverse psychological effects from THC
+  adverse [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] from THC
 
 ## Common Adverse Effects
 
@@ -111,7 +111,7 @@ The key principle of cannabis safety is dose management. At therapeutic
 doses, cannabis is generally well-tolerated with minimal adverse effects.
 As dose increases, the risk of adverse effects rises proportionally. The
 biphasic nature of many cannabinoid effects means that exceeding the
-therapeutic window can not only increase side effects but actually reverse
+[[blesching-cannabis-therapeutic-window-dosing]] can not only increase side effects but actually reverse
 the desired therapeutic effect.
 
 For example, medium doses of THC have been shown to reduce capsaicin-induced

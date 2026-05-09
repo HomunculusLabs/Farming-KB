@@ -11,7 +11,7 @@ entity_type: "compound"
 source: "TIHKAL"
 source_entry: "#31"
 classification: ["tryptamine"]
-synthesis_method: "from 5,6-methylenedioxyindole via oxalyl chloride and dimethylamine"
+synthesis_method: "from 5,6-methylenedioxyindole via [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] and dimethylamine"
 status: ["research chemical", "minimally tested"]
 legal_status: ["varies by jurisdiction"]
 created: 2026-04-15
@@ -69,6 +69,8 @@ Shulgin, A. and Shulgin, A. (1997). Tryptamines I Have Known and Loved: The Chem
 
 ## See Also
 
+- [[5-mes-dmt-entity-tihkal]]
+
 - [[5-6-mdo-dipt-entity-tihkal]] - the diisopropyl member
 - [[tihkal-introduction-and-methodology]] - overview of the TIHKAL project
 - [[5-mapb]]
@@ -90,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

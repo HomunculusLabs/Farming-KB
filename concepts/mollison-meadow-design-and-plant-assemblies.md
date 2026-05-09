@@ -1,7 +1,7 @@
 ---
-title: Mollison on Meadow Design and Plant Assemblies
+title: Mollison on mollison meadow design and plant assemblies and Plant Assemblies
 created: 2026-04-26
-tags: permaculture, meadow, pasture-design, polyculture, plant-communities]
+tags: [permaculture], meadow, pasture-design, polyculture, plant-communities]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
@@ -11,7 +11,7 @@ type: concept
 
 # Meadow Design and Plant Assemblies
 
-In [[permaculture-dandelion]], thistles generally, plantains, docks, and
+In permaculture-dandelion, thistles generally, plantains, docks, and
 chicory. These are all high-value browse species and some are used as
 salad plants and vegetables. They are features of mixed pastures,
 meadows, and grasslands, and provide deep-rooted nutrition cycling.
@@ -77,7 +77,7 @@ compacted soils and worn-out pastures. Using a broad-flanged chisel
 point at 6-10 cm depth and 0.5 to 0.6 m spacing, the roots of existing
 grasses are cut and a seed furrow provided for more vigorous,
 deep-rooted, more nutritious, or drought-resistant grasses or woody
-forages. Early spring and mid-autumn to early winter are the usual
+forages. [[coleman-overwintered-onions-and-early-spring-crops]] and mid-autumn to early winter are the usual
 sowing periods.
 
 With the seed, trace elements, major nutrients, and water-retaining
@@ -86,4 +86,10 @@ include clovers chosen for site, pH, and drainage; spikeroots such as
 dandelion, plantain, and chicory; woody browse species and medicinal
 species such as wormwood, [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]
 
-- [[mollison-desert-cluster-housing-and-street-design]]
+- mollison-desert-cluster-housing-and-street-design
+## See Also
+- [[query-how-do-i-design-and-plant-a-hops-trellis-system-for-home-brewing]]
+- [[mollison-course-swales-and-earthworks-design]]
+- [[mollison-pdc-small-pond-frog-habitat-design]]
+- [[mollison-designers-food-forest-succession-design]]
+- [[mollison-designers-high-island-and-tropical-valley-design]]

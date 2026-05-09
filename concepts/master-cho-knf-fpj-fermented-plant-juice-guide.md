@@ -1,5 +1,5 @@
 ---
-title: Master Cho's FPJ (Fermented Plant Juice) Guide
+title: Master Cho's FPJ (bionutrients-lab-fermented-plant-juice-fpj) Guide
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -14,9 +14,9 @@ Fermented Plant Juice (FPJ) is a fermented extract of plants that helps crops ab
 
 ## Origin and Principles
 
-The method is inspired by Korean kimchi, where lactic acid bacteria grow abundantly. About 100,000-150,000 microbes per 1 sq cm of a leaf are mostly lactic bacteria and yeast useful for plant growth. The essence of the plant is extracted using brown sugar through osmotic pressure. During fermentation, FPJ produces weak alcohols which dissolve chlorophylls.
+The method is inspired by Korean kimchi, where lactic [[lactic-acid-bacteria-knf]] grow abundantly. About 100,000-150,000 microbes per 1 sq cm of a leaf are mostly lactic bacteria and yeast useful for plant growth. The essence of the plant is extracted using brown sugar through osmotic pressure. During fermentation, FPJ produces weak alcohols which dissolve chlorophylls.
 
-The fermentation process occurs in 5 steps: 1) recognition of each other (between microbes and ingredients); 2) harmony; 3) fermentation; 4) affection (stabilization); 5) producing natural farming materials. Fill 2/3 of the jar with materials, leaving 1/3 for the three "chi" (water, air, and heat).
+The fermentation process occurs in 5 steps: 1) recognition of each other (between microbes and ingredients); 2) harmony; 3) fermentation; 4) affection (stabilization); 5) producing [[comparison-natural-farming-vs-permaculture]] materials. Fill 2/3 of the jar with materials, leaving 1/3 for the three "chi" (water, air, and heat).
 
 ## What to Collect
 
@@ -84,12 +84,12 @@ The fermentation process occurs in 5 steps: 1) recognition of each other (betwee
 
 ## How to Use FPJ
 
-| Growth Stage | Recommended FPJ | Dilution |
+| [[cho-plant-growth-stage-treatment-protocols]] | Recommended FPJ | Dilution |
 |---|---|---|
 | Germination to early growth | Japanese mugwort, dropwort, bamboo shoot | x1/500 |
-| Vegetative growth | Mugwort, dropwort, bamboo, reed, arrowroot vine | x1/500 |
+| [[cannabis-vegetative-growth-stage]] | Mugwort, dropwort, bamboo, reed, arrowroot vine | x1/500 |
 | Cross-over period | False acacia flower, child liquid, mulberry, grape | x1/500 |
-| Reproductive growth | Ripe fruit enzymes (chocolate vine, apple, peach, grape) | less than x1/2000 |
+| [[knf-reproductive-growth-stage]] | Ripe fruit enzymes (chocolate vine, apple, peach, grape) | less than x1/2000 |
 | Maturity | Purslane FPJ | less than x1/5000 |
 
 - Do not use FPJ when fungal diseases appear under poor ventilation.
@@ -97,6 +97,8 @@ The fermentation process occurs in 5 steps: 1) recognition of each other (betwee
 - FPJ is used in IMO #3 and IMO #4 preparation.
 
 ## See Also
+
+- [[master-cho-knf-fish-aminos-and-sea-minerals]]
 
 - [[knf-oriental-herbal-nutrient]]
 - [[knf-lactic-acid-bacteria-serum]]

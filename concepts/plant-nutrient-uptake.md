@@ -23,7 +23,7 @@ sources:
 
 # Plant Nutrient Uptake
 
-Plants absorb 17 essential elements: C, H, O (from air and water, ~96% of plant mass) plus 14 mineral nutrients from soil. Understanding HOW plants access these minerals — through cation exchange, root exudates, mycorrhizal pathways, and foliar feeding — is the foundation of [[soil-fertility-management]] and [[cannabis-plant-nutrition]].
+Plants absorb 17 essential elements: C, H, O (from air and water, ~96% of plant mass) plus 14 mineral nutrients from soil. Understanding HOW plants access these minerals — through [[mollison-designers-tropical-soils-and-cation-exchange-management]], root exudates, mycorrhizal pathways, and [[comparison-foliar-feeding-vs-compost-tea-nutrients]] — is the foundation of [[soil-fertility-management]] and [[cannabis-plant-nutrition]].
 
 ## Nutrient Uptake Mechanisms
 
@@ -42,7 +42,7 @@ Plants actively engineer their rhizosphere by secreting sugars, amino acids, org
 Mycorrhizal fungi extend the effective root zone 100-1000x. The fungal hyphae absorb water and dissolved minerals (especially P, Zn, Cu) from soil micropores inaccessible to roots, then exchange them with the plant for carbon (sugars). Up to 80% of plant P and N can come through mycorrhizal pathways.
 
 ### Foliar Feeding
-Leaves can absorb nutrients through stomata and cuticle pores. Foliar application bypasses soil chemistry constraints. Best for micronutrients (Fe, Mn, Zn) and rapid correction of deficiencies. Apply at dawn/dusk when stomata are open. Add a surfactant for better coverage. Foliar feeding supplements but does not replace root uptake.
+Leaves can absorb nutrients through stomata and cuticle pores. [[ultra-low-cost-foliar-application-methods]] bypasses soil chemistry constraints. Best for micronutrients (Fe, Mn, Zn) and rapid correction of deficiencies. Apply at dawn/dusk when stomata are open. Add a surfactant for better coverage. Foliar feeding supplements but does not replace root uptake.
 
 ## Nutrient Mobility
 
@@ -64,11 +64,11 @@ Each nutrient has an optimal pH range for root uptake:
 
 ## Synergistic and Antagonistic Relationships
 
-Key interactions that affect nutrient availability:
+Key interactions that affect [[ph-and-nutrient-availability-garden-soils]]:
 - **K-Ca-Mg antagonism**: Excess potassium competes with calcium and magnesium uptake. Balance all three.
 - **N-Zn**: High nitrogen increases zinc demand. Zinc deficiency can appear in heavily N-fertilized crops.
 - **P-Zn, P-Fe**: Excess phosphorus locks out zinc and iron. Common in soils amended with too much manure or rock phosphate.
-- **Ca-B**: Calcium aids boron mobility. Boron deficiency can occur even with adequate B if Ca is low.
+- **Ca-B**: Calcium aids boron mobility. [[query-how-to-fix-boron-deficiency-in-cannabis]] can occur even with adequate B if Ca is low.
 - **Fe-Mn**: High manganese can induce iron deficiency (and vice versa). Both compete for same uptake sites.
 - **N-S**: Nitrogen and sulfur are synergistic — sulfur is needed for protein synthesis alongside nitrogen.
 - **K-Cl**: Potassium and chlorine compete. High chloride can reduce K uptake.
@@ -98,7 +98,7 @@ Chelates are organic molecules that bind mineral ions, keeping them soluble and 
 ## Microbial Mineralization
 
 The [[soil-food-web-nutrient-cycling]] converts organic matter into plant-available nutrients:
-1. Bacteria and fungi decompose organic compounds (proteins, cellulose, lignin)
+1. Bacteria and fungi decompose [[fungal-volatile-organic-compounds-communication]] (proteins, cellulose, lignin)
 2. They immobilize nutrients in their biomass (N, P, S locked in microbial cells)
 3. Protozoa and bacterial-feeding nematodes graze on microbes, excreting excess N as ammonium (NH₄⁺)
 4. Fungal-feeding nematodes release nutrients from fungal biomass

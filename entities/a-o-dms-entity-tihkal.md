@@ -1,5 +1,5 @@
 ---
-title: Entities/A O Dms Entity Tihkal
+title: Entities/A O a o dms entity tihkal Tihkal
 created: 2026-04-17
 updated: 2026-04-17
 type: entity
@@ -8,7 +8,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 # alpha-O-DMS (5-Methoxy-alpha-Methyltryptamine)
 
-alpha-O-DMS, also known as 5-methoxy-alpha-methyltryptamine or alpha,O-dimethylserotonin, is a potent synthetic tryptamine compound documented by [[agar]] waiting to provide nutrition to whatever was to be introduced into it, but there was no inoculation." The experience was largely physical without sensory, perceptual, or conceptual events. A slight headache appeared the next morning, resolving by noon.
+alpha-O-DMS, also known as 5-methoxy-alpha-methyltryptamine or alpha,O-dimethylserotonin, is a potent synthetic tryptamine compound documented by agar waiting to provide nutrition to whatever was to be introduced into it, but there was no inoculation." The experience was largely physical without sensory, perceptual, or conceptual events. A slight headache appeared the next morning, resolving by noon.
 
 At 2.5 mg orally, onset was gradual. After about 40 minutes, mild nausea appeared lasting a couple of hours, manageable through concentration. As the nausea subsided, a warm glow and centered feeling emerged. The experience was described as persistent and tenacious - the most tenacious substance the subject had taken, with difficulty achieving sleep until approximately 2 AM despite onset in the morning. The next day brought lingering languidity. The subject expressed little enthusiasm about repeating the experience.
 
@@ -34,7 +34,7 @@ Shulgin, A. & Shulgin, A. TIHKAL: The Continuation. Entry #5, alpha-O-DMS. Trans
 
 ## Historical Context
 
-Alpha-O-DMS was one of the most potent orally active tryptamines documented in TIHKAL, with an extremely low dosage threshold. Its synthesis and bioassay represented an important data point in the mapping of tryptamine pharmacology, demonstrating how the combination of alpha-methyl and 5-methoxy substitutions could produce extraordinary potency.
+Alpha-O-DMS was one of the most potent orally active tryptamines documented in TIHKAL, with an extremely low dosage threshold. Its synthesis and bioassay represented an important data point in the mapping of [[mckenna-food-gods-tryptamine-pharmacology-indoles]], demonstrating how the combination of alpha-methyl and 5-methoxy substitutions could produce extraordinary potency.
 
 ## Modern Significance
 
@@ -59,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +101,5 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+## See Also
+- [[dimethyltryptamine]]

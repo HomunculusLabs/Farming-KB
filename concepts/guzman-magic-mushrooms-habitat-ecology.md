@@ -1,21 +1,13 @@
 ---
 title: Habitat and Ecology of Neurotropic Mushrooms
 created: 2026-04-28
-tags: [[mycology, ecology, fungal-habitat, psilocybin-mushrooms, mycology]
+tags: [mycology, ecology, fungal-habitat, psilocybin-mushrooms, mycology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
 type: concept
 ---
-
-# Habitat and Ecology of Neurotropic Mushrooms
-
-## Ecological Overview
-
-Neurotropic fungi occupy diverse ecological niches across the world, from
-arctic-alpine tundra to tropical rainforests. Understanding their habitat
-preferences is essential for both field identification and understanding
-their [[psilocybe-cubensis]]**: The quintessential tropical coprophile; found
+# Habitat and Ecology of Neurotropic Mushrooms ## Ecological Overview Neurotropic fungi occupy diverse ecological niches across the world, from arctic-alpine tundra to tropical rainforests. Understanding their habitat preferences is essential for both field identification and understanding their [[psilocybe-cubensis]]**: The quintessential tropical coprophile; found
   on bovine dung in tropical and subtropical regions worldwide; common
   from Mexico to Thailand to Australia
 - **P. subcubensis**: Similar habitat to P. cubensis but in different
@@ -72,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

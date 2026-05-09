@@ -13,7 +13,7 @@ sources:
 
 # Alchemilla vulgaris
 
-Alchemilla vulgaris, commonly known as common lady's mantle, is a herbaceous perennial plant in the family Rosaceae, native to Europe and northern Asia. Renowned for its fan-shaped, finely lobed leaves that catch and hold dewdrops with striking elegance, lady's mantle has been valued for centuries in European folk medicine and is increasingly recognized in permaculture design for its dynamic accumulator properties, ground-cover utility, and role in supporting beneficial insect populations. The genus name *Alchemilla* derives from the Arabic *al-kimia* (alchemy), referencing the historical belief that the dew collected in its pleated leaves possessed magical or medicinal properties.
+Alchemilla vulgaris, commonly known as common lady's mantle, is a herbaceous perennial plant in the family Rosaceae, native to Europe and northern Asia. Renowned for its fan-shaped, finely lobed leaves that catch and hold dewdrops with striking elegance, lady's mantle has been valued for centuries in European folk medicine and is increasingly recognized in [[permaculture-design]] for its [[nutrient-dynamic-accumulator-reference]] properties, ground-cover utility, and role in supporting [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] populations. The genus name *Alchemilla* derives from the Arabic *al-kimia* (alchemy), referencing the historical belief that the dew collected in its pleated leaves possessed magical or medicinal properties.
 
 ## Taxonomy and Classification
 
@@ -38,7 +38,7 @@ The root system consists of a stout, branching caudex with fibrous roots extendi
 
 ## Distribution and Habitat
 
-Lady's mantle is native to temperate and subarctic regions of Europe, including the British Isles, Scandinavia, the Alps, Carpathians, and extending eastward through northern Asia to Siberia. It has been widely naturalized in North America and New Zealand. The species favors:
+Lady's mantle is native to temperate and subarctic regions of Europe, including the British Isles, Scandinavia, the Alps, Carpathians, and extending eastward through northern Asia to Siberia. It has been widely naturalized in [[psilocybin-north-america-pacific-northwest]] and New Zealand. The species favors:
 
 - **Meadows and pastures:** Particularly on neutral to slightly acidic soils
 - **Mountain grasslands:** Common in alpine and subalpine meadows up to 2,400 m elevation
@@ -49,7 +49,7 @@ Lady's mantle is native to temperate and subarctic regions of Europe, including 
 ## Medicinal Properties
 
 ### Traditional Uses
-Lady's mantle has one of the longest continuous records of use in European herbal medicine, particularly in women's health:
+Lady's mantle has one of the longest continuous records of use in European [[herbal-medicine]], particularly in women's health:
 
 - **Menstrual disorders:** The primary traditional use — employed as a tea or tincture to regulate heavy menstrual bleeding (menorrhagia), alleviate cramps (dysmenorrhea), and ease symptoms of premenstrual syndrome
 - **Menopausal support:** Used to manage hot flashes, night sweats, and hormonal transition symptoms
@@ -62,7 +62,7 @@ Key bioactive constituents include:
 
 - **Tannins:** Elagitannins (pedunculagin, alchemillin, laevigatin) — contribute astringent and anti-inflammatory effects, responsible for the wound-healing and hemostatic properties
 - **Flavonoids:** Quercetin, kaempferol, and their glycosides — antioxidant and anti-inflammatory activity
-- **Phenolic acids:** Chlorogenic acid, caffeic acid, and salicylic acid derivatives
+- **Phenolic acids:** Chlorogenic acid, caffeic acid, and [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]] derivatives
 - **Triterpenes:** Including ursolic acid and oleanolic acid — anti-inflammatory and hepatoprotective effects
 - **Vitamin C:** Present in moderate concentrations in leaf tissue
 
@@ -71,13 +71,13 @@ Contemporary pharmacological studies have validated several traditional uses:
 
 - **Anti-inflammatory activity:** Ethanol extracts demonstrate significant COX-2 inhibition and reduction of pro-inflammatory cytokines (TNF-α, IL-6) in vitro
 - **Antioxidant capacity:** Methanolic leaf extracts show strong DPPH and ABTS radical scavenging activity, primarily attributed to the flavonoid and tannin content
-- **Antimicrobial effects:** Moderate activity against *Staphylococcus aureus*, *Escherichia coli*, and *Candida albicans* has been documented
+- **Antimicrobial effects:** Moderate activity against *Staphylococcus aureus*, *Escherichia coli  albicans* has been documented
 - **Spasmolytic properties:** Extracts exhibit smooth muscle relaxant effects on isolated uterine tissue, supporting the traditional use for menstrual cramps
 
 ## Permaculture Applications
 
 ### Dynamic Accumulator
-Lady's mantle is classified as a dynamic accumulator, drawing minerals from deep soil layers through its root system and depositing them in accessible form through leaf litter decomposition. It is particularly effective at accumulating:
+Lady's mantle is classified as a dynamic accumulator, drawing minerals from deep soil layers through its root system and depositing them in accessible form through leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]]. It is particularly effective at accumulating:
 
 - **Potassium (K):** Concentrated in leaf tissue at levels significantly above surrounding soil averages
 - **Calcium (Ca):** Contributes calcium-rich biomass to the soil surface
@@ -85,10 +85,10 @@ Lady's mantle is classified as a dynamic accumulator, drawing minerals from deep
 - **Trace minerals:** Manganese, magnesium, and zinc are cycled through leaf fall
 
 ### Ground Cover and Weed Suppression
-The dense, low-growing rosette forms an effective living mulch that suppresses weed germination by blocking light to the soil surface. Lady's mantle is especially valuable in orchard understories, food forest ground layers, and between larger perennials where its non-competitive root system coexists well with neighboring plants.
+The dense, low-growing rosette forms an effective living mulch that suppresses weed germination by blocking light to the soil surface. Lady's mantle is especially valuable in orchard understories, [[food-forest]] ground layers, and between larger perennials where its non-competitive root system coexists well with neighboring plants.
 
 ### Insectary Plant
-The open, nectar-rich flowers attract a wide range of beneficial insects:
+The open, nectar-rich flowers attract a wide range of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]:
 
 - **Hoverflies (Syrphidae):** Important aphid predators; lady's mantle flowers are among the most reliable syrphid attractants in temperate plantings
 - **Parasitic wasps:** Small ichneumonid and braconid wasps use the flowers as nectar sources
@@ -123,8 +123,7 @@ Lady's mantle is essentially maintenance-free once established. Cutting back spe
 
 - **Alchemilla mollis:** The most commonly cultivated species; larger leaves, more robust habit, often confused with *A. vulgaris* in horticultural contexts. Less medicinally potent but superior as an ornamental ground cover
 - **Alchemilla alpina:** Alpine lady's mantle; smaller, more silvery foliage, found at higher elevations. Valued in rock gardens and alpine plantings
-- **Alchemilla xanthochlora:** A widespread European microspecies; chemically similar to *A. vulgaris* with comparable medicinal properties
-- **Filipendula ulmaria (Meadowsweet):** Related Rosaceae family member; shares the salicylate-containing chemistry and complementary medicinal uses for inflammation and pain
+- **Alchemilla xanthochlora:** A widespread European microspecies; chemically similar to *A. vulgaris* with comparable medicinal filipendula ulmaria ipendula ulmaria (Meadowsweet):** Related Rosaceae family member; shares the salicylate-containing chemistry and complementary medicinal uses for inflammation and pain
 
 ## Harvesting and Preparation
 

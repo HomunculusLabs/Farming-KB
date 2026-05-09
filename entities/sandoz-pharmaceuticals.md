@@ -10,17 +10,17 @@ sources: [/Users/t3rpz/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md]
 
 # Sandoz Pharmaceuticals
 
-**Sandoz AG** was a Swiss pharmaceutical company headquartered in Basel, Switzerland, founded in 1886 by Alfred Kern (1849–1918) and Edouard Sandoz (1853–1928). Originally a chemical dye manufacturing company, Sandoz evolved into one of the most important pharmaceutical firms of the 20th century, best known as the company where Albert Hofmann discovered **lysergic acid diethylamide (LSD-25)** in 1943.
+**Sandoz AG** was a Swiss pharmaceutical company headquartered in Basel, Switzerland, founded in 1886 by Alfred Kern (1849–1918) and Edouard Sandoz (1853–1928). Originally a chemical dye manufacturing company, Sandoz evolved into one of the most important pharmaceutical firms of the 20th century, best known as the company where Albert Hofmann discovered **[[ergot-and-lysergic-acid-history]] diethylamide (LSD-25)** in 1943.
 
 ## Founding and Early History
 
-Sandoz began as a partnership between chemist Alfred Kern and businessman Edouard Sandoz, initially producing synthetic dyes for the textile industry. The company's chemical expertise soon expanded into pharmaceutical research, a natural progression given the close relationship between dye chemistry and drug discovery in the late 19th century. The company established its pharmaceutical division in 1917 and began producing drugs for cardiovascular, gastrointestinal, and neurological conditions.
+Sandoz began as a partnership between chemist Alfred Kern and businessman Edouard Sandoz, initially producing [[singh-fungal-degradation-of-synthetic-dyes-and-textile-waste]] for the [[staycare-fungal-treatment-of-textile-industry-wastewater]]. The company's chemical expertise soon expanded into pharmaceutical research, a natural progression given the close relationship between dye chemistry and drug discovery in the late 19th century. The company established its pharmaceutical division in 1917 and began producing drugs for cardiovascular, gastrointestinal, and neurological conditions.
 
 The company's early pharmaceutical successes were built on the chemistry of alkaloids and natural products, a tradition that would later prove essential to its most famous discovery.
 
 ## The LSD Discovery
 
-In 1938, Sandoz chemist **Albert Hofmann** was conducting research on ergot alkaloids derived from the fungus *Claviceps purpurea*. His goal was to develop semi-synthetic derivatives of ergot that might serve as circulatory and respiratory stimulants. Among the compounds he synthesized was the 25th in a series of lysergic acid derivatives: **lysergic acid diethylamide**, or LSD-25.
+In 1938, Sandoz chemist **Albert Hofmann** was conducting research on ergot alkaloids derived from the fungus *[[bloomfield-ergot-claviceps-purpurea-ergotism]]*. His goal was to develop semi-synthetic derivatives of ergot that might serve as circulatory and respiratory stimulants. Among the compounds he synthesized was the 25th in a series of lysergic acid derivatives: **lysergic acid diethylamide**, or LSD-25.
 
 Initial pharmacological testing in animals showed no particularly interesting results, and the compound was shelved for five years. On April 16, 1943, Hofmann decided to resynthesize LSD-25 for further examination. During the process, he accidentally absorbed a minute amount through his skin and experienced an extraordinary state of consciousness — the world's first LSD trip. Three days later, on April 19, 1943, Hofmann deliberately ingested 250 micrograms of LSD-25 in what became known as **Bicycle Day**, the most famous self-experiment in the history of pharmacology.
 
@@ -43,7 +43,7 @@ Beyond LSD, Sandoz made significant contributions to pharmaceutical chemistry in
 
 ## Decline of LSD Research and Corporate Evolution
 
-By the mid-1960s, the recreational use of LSD had spread dramatically, fueled by figures like Timothy Leary and Ken Kesey. The association of LSD with the counterculture movement led to increasing regulatory pressure and public controversy. In 1965, Sandoz voluntarily ceased distribution of LSD, and in 1966, the drug was banned in the United States under the Drug Abuse Control Amendment.
+By the mid-1960s, the recreational use of LSD had spread dramatically, fueled by figures like Timothy Leary and Ken Kesey. The association of LSD with the counterculture movement led to increasing regulatory pressure and public controversy. In 1965, Sandoz voluntarily ceased distribution of LSD, and in 1966, the drug was banned in the [[dmt-containing-plants-united-states-halpern]] under the Drug Abuse Control Amendment.
 
 In 1996, Sandoz merged with Ciba-Geigy (itself a merger of Ciba and Geigy) to form **Novartis**, one of the largest pharmaceutical companies in the world. The Sandoz name survives as a generics and biosimilars division of Novartis.
 
@@ -71,7 +71,7 @@ Bromocriptine became a mainstay treatment for Parkinson's disease and
 hyperprolactinemia, demonstrating the therapeutic potential of ergot
 derivatives beyond migraine.
 
-The company's expertise in ergot alkaloid chemistry, originally developed
+The company's expertise in ergot [[ergot-alkaloid-chemistry-history]], originally developed
 for LSD research, proved broadly applicable to drug discovery across
 neurology, endocrinology, and gastroenterology. This exemplifies how basic
 research programs can yield unexpected therapeutic dividends.

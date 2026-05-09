@@ -29,8 +29,8 @@ Humus is the key to sustainable soil fertility. It:
 - Provides nutrients in a form plants can use
 - Improves soil structure (aeration, water retention, drainage)
 - Supports beneficial microbial life
-- Buffers pH and nutrient availability
-- Increases cation exchange capacity (CEC)
+- Buffers pH and [[ph-and-nutrient-availability-garden-soils]]
+- Increases [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity (CEC)
 
 ### Target Humus Level
 GROW BIOINTENSIVE aims to build soil humus to approximately **6%** through regular compost applications.
@@ -51,7 +51,7 @@ Most agricultural systems are open-loop: nutrients are removed with harvests and
 Compost provides balanced nutrition in slow-release form:
 
 ### Major Nutrients
-- **Nitrogen (N):** From compost, legume cover crops, and nitrogen fixation
+- **Nitrogen (N):** From compost, legume cover crops, and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
 - **Phosphorus (P):** From compost; rock phosphate can supplement if needed
 - **Potassium (K):** From compost; wood ash can supplement in small amounts
 
@@ -60,7 +60,7 @@ Compost provides balanced nutrition in slow-release form:
 - All provided in adequate amounts by well-made compost from diverse materials
 
 ### The Nutrient Release Pattern
-Compost provides nutrients gradually over the growing season, reducing leaching losses and matching plant uptake patterns better than synthetic fertilizers.
+Compost provides nutrients gradually over the [[savory-growing-season-and-non-growing-season-management]], reducing leaching losses and matching plant uptake patterns better than synthetic fertilizers.
 
 ## Biological vs. Chemical Fertility
 
@@ -73,7 +73,7 @@ Compost provides nutrients gradually over the growing season, reducing leaching 
 - They destroy soil structure (especially when applied to uncultivated soil)
 
 ### Biological Fertility Advantages
-- Compost feeds the [[soil-testing]]
+- Compost feeds the 
 
 Testing soil helps track progress and identify problems:
 
@@ -81,7 +81,7 @@ Testing soil helps track progress and identify problems:
 1. **pH** (target 6.0-7.0 for most vegetables)
 2. **Nitrogen, Phosphorus, Potassium** levels
 3. **Calcium and Magnesium** ratio
-4. **Organic matter / humus** percentage
+4. **[[hamilton-composting-and-organic-matter-management]] / humus** percentage
 5. **Trace minerals** if problems are suspected
 
 ### When to Test
@@ -103,7 +103,7 @@ Focus on trends over time rather than absolute numbers. In a well-managed GROW B
 - Solution: Compost (buffering), agricultural lime (if needed)
 
 ### Nutrient Imbalances
-- Cause: Repeatedly growing the same crops, poor compost quality
+- Cause: Repeatedly growing the same crops, poor [[aact-compost-quality-standards-ingham]]
 - Solution: Crop rotation, diverse compost ingredients, [[jeavons-composting-methods]]
 - [[jeavons-carbon-farming]]
 - [[jeavons-grow-biointensive-method-overview]]

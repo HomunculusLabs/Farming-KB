@@ -16,8 +16,8 @@ type: concept
 
 # Peyote and the Tracks of the Little Deer
 
-Peyote (*[[schultes-san-pedro-four-winds]] for the South American
-  mescaline cactus used in Andean ceremonies
+Peyote (*[[schultes-san-pedro-four-winds]] for the [[chiric-caspi-brunfelsia-south-american-hallucinogen]]
+  [[peyote-mescaline-cactus-pharmacology]] used in Andean ceremonies
 - [[plants-of-the-gods-cannabis-ancient-cultures]] for another plant
   with deep ceremonial significance across cultures
 - [[schultes-psilocybe-little-flowers-gods]] for Mexican sacred
@@ -99,4 +99,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

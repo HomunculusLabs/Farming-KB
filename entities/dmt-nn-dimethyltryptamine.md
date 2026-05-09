@@ -51,14 +51,14 @@ DMT acts primarily as a partial agonist at the serotonin 5-HT2A receptor, the sa
 
 ### Animal Sources
 - **Bufo alvarius (Sonoran Desert Toad):** Venom contains 5-MeO-DMT and bufotenin (not DMT itself, but structurally related).
-- **Rabbits, rats, mice:** Endogenous DMT detected in brain tissue.
+- **Rabbits, rats, mice:** [[mckenna-endogenous-dmt-brain-familiarity]] detected in brain tissue.
 
 ## Cultural and Historical Use
 
 ### Ayahuasca
 Ayahuasca is the most culturally significant DMT-containing preparation. Originating in the Amazon basin among indigenous peoples of Peru, Brazil, Colombia, and Ecuador, the brew combines DMT-containing plants with *Banisteriopsis caapi*, which contains harmine, harmaline, and tetrahydroharmine — all reversible MAO-A inhibitors. This combination allows DMT to cross into the bloodstream and reach the brain when taken orally.
 
-Ayahuasca is used in ceremonial contexts for healing, divination, and spiritual exploration. In the late 20th and early 21st centuries, its use has spread globally through the Santo Daime and União do Vegetal churches, which have achieved legal recognition for ceremonial ayahuasca use in several countries.
+Ayahuasca is used in ceremonial contexts for healing, divination, and spiritual exploration. In the late 20th and early 21st centuries, its use has spread globally through the [[metzner-brazilian-ayahuasca-churches-structural-comparison-santo-daime-udv-barquinha]] and União do Vegetal churches, which have achieved legal recognition for ceremonial ayahuasca use in several countries.
 
 ### Other Traditional Uses
 - **Snuffs (e.g., Yopo, Vilca):** DMT-containing seeds are toasted, ground, and mixed with alkaline ash (usually from *Prosopis* or *Ceiba* species) to create a freebase form that is absorbed through nasal mucosa.
@@ -71,11 +71,11 @@ Contemporary research into DMT's therapeutic potential is in earlier stages than
 - **Depression:** Small studies suggest rapid and sustained antidepressant effects, possibly mediated through neuroplasticity mechanisms (BDNF upregulation, dendritic spine growth).
 - **Addiction:** Ayahuasca use has been associated with reduced substance use in observational studies, though controlled trials are lacking.
 - **End-of-life anxiety:** Case reports and preliminary studies suggest DMT may reduce fear of death and improve quality of life in terminal patients.
-- **Brain imaging:** fMRI studies reveal that DMT produces the most dramatic disruption of brain connectivity patterns of any known psychedelic, with profound effects on the default mode network and increased global connectivity.
+- **[[neurochemical-probes-brain-imaging-pihkal]]:** fMRI studies reveal that DMT produces the most dramatic disruption of brain connectivity patterns of any known psychedelic, with profound effects on the [[psilocybin-default-mode-network-ego-dissolution]] network and increased global connectivity.
 
 ## Legal Status
 
-- **United States:** Schedule I under the Controlled Substances Act. The plants containing DMT are not specifically scheduled, though extraction or preparation is illegal. Religious exemptions exist for certain ayahuasca-using churches (UDV v. DEA, 2006).
+- **[[dmt-containing-plants-united-states-halpern]]:** Schedule I under the Controlled [[controlled-substances-act-and-psychedelic-research]]. The plants containing DMT are not specifically scheduled, though extraction or preparation is illegal. Religious exemptions exist for certain ayahuasca-using churches (UDV v. DEA, 2006).
 - **International:** Scheduled under the UN Convention on Psychotropic Substances (1971).
 - **Brazil:** Ayahuasca is legal for religious use; DMT itself is controlled.
 - **Peru:** Ayahuasca is recognized as a cultural patrimony.

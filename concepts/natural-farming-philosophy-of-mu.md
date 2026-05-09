@@ -1,5 +1,5 @@
 ---
-title: Natural Farming Philosophy of Mu
+title: Natural fukuoka-do-nothing-farming-philosophy-and-practice of Mu
 created: 2026-04-28
 tags:
   - natural-farming
@@ -21,7 +21,7 @@ type: concept
 
 The philosophy of Mu, meaning nothingness or non-action, is the intellectual and
 spiritual foundation of [[fukuoka-nature-transcends-human-knowledge]] and
-intervention are inherently destructive of the natural order, and that the path to
+intervention are inherently destructive of the [[fukuoka-textdoc-natural-order-food-chain-unity]], and that the path to
 restoring nature and humanity lies in relinquishing the impulse to act.
 
 ## The Origin of Fukuoka's Understanding
@@ -56,7 +56,7 @@ excessive growth and restores balance between the surface and underground portio
 of the plant. The disease might be regarded as nature's way of preventing overly
 dense growth, aiding photosynthesis and assuring full seed production. In this view,
 rice blast is not a final effect but merely one stage in the constant flux of nature,
-simultaneously cause and effect.
+simultaneously [[fukuoka-textdoc-no-cause-and-effect-in-nature]].
 
 ## Critique of Human Knowledge
 
@@ -67,7 +67,7 @@ what they examine is no longer what they think it to be, claim to understand nat
 
 This critique extends to the fundamental methods of scientific reasoning. Both
 inductive reasoning, which builds general theories from specific observations, and
-deductive reasoning, which derives specific predictions from general laws, are
+[[fukuoka-textdoc-critique-inductive-deductive-reasoning-agriculture]], which derives specific predictions from general laws, are
 fundamentally flawed when applied to nature because they assume that nature can be
 understood through the human intellect. Fukuoka contrasted this with the intuitive
 understanding of natural farming, which begins with a broad conclusion reached through
@@ -98,7 +98,7 @@ reduced his farming labor to essentially just sowing seed and spreading straw.
 
 Fukuoka argued that all the various laws identified by agricultural science,
 including the law of diminishing returns, the law of equilibrium, the law of
-adaptation, the law of compensation and cancellation, and Liebig's law of minimum,
+adaptation, the law of compensation and cancellation, and Liebig's [[liebig-law-of-minimum-critique-natural-farming]],
 are merely different manifestations of a single fundamental principle. He called
 this the "Dharmic Law That All Things Return to One."
 
@@ -111,7 +111,7 @@ one, it is natural that they should fuse together.
 
 Fukuoka noted that these fragmentary laws cannot be reassembled into the original
 whole, any more than the pieces of a broken mirror can be reassembled into a mirror
-more perfect than the original. Scientific farming based on the application of such
+more perfect than the original. [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] based on the application of such
 laws is thus fundamentally different from natural farming, which observes the basic
 unity of nature.
 

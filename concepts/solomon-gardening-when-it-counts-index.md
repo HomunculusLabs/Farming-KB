@@ -14,7 +14,7 @@ Updated: 2026-04-18
 
 Source: ~/wiki/raw/papers/gardening-when-it-counts-steve-solomon.md (17,348 lines)
 
-This index tracks all wiki pages created from Steve Solomon's "Gardening When It Counts," a comprehensive guide to vegetable gardening in difficult conditions. Solomon, founder of Territorial Seed Company, draws on decades of Pacific Northwest growing experience to present a practical, sometimes contrarian approach to [[root-competition-plant-spacing-solomon]], and careful [[garden-hand-tools-solomon]] - Essential hand tools, maintenance, purchase philosophy
+This index tracks all wiki pages created from Steve Solomon's "Gardening When It Counts," a comprehensive guide to [[home-vegetable-garden-planning]] in difficult conditions. Solomon, founder of Territorial Seed Company, draws on decades of Pacific Northwest growing experience to present a practical, sometimes contrarian approach to [[root-competition-plant-spacing-solomon]], and careful [[garden-hand-tools-solomon]] - Essential hand tools, maintenance, purchase philosophy
 
 ### Bed and Soil
 
@@ -26,11 +26,11 @@ This index tracks all wiki pages created from Steve Solomon's "Gardening When It
 
 ### Watering
 
-- [[composting-science-solomon]] - C:N ratio, mulch gardening critique, sheet composting, compost paradox
+- [[composting-science-solomon]] - C:N ratio, mulch [[intensive-gardening-critique-solomon]], sheet composting, compost paradox
 
 ### Plant Health and Disease
 
-- [[plant-disease-management-solomon]] - Prevention philosophy, foliar feeding, powdery mildew, compost tea
+- [[plant-disease-management-solomon]] - Prevention philosophy, [[comparison-foliar-feeding-vs-compost-tea-nutrients]], [[cervantes-powdery-mildew-prevention-treatment]], compost tea
 
 - [[intensive-gardening-critique-solomon]] - Critique of close spacing, Square Foot Gardening, scale considerations
 
@@ -40,7 +40,7 @@ This index tracks all wiki pages created from Steve Solomon's "Gardening When It
 
 - [[growing-food-in-hard-times]] - Solomon's approach to food self-sufficiency
 
-- [[geoff-hamilton-organic-techniques]] - Complementary organic gardening perspective
+- [[geoff-hamilton-organic-techniques]] - Complementary [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] perspective
 
 - [[organic-vegetable-growing-calendar]] - Garden tools overview
 
@@ -78,7 +78,7 @@ The fourth cause is the single most important decision the gardener will make ab
 
 ## Why Intensive Methods Demand Irrigation
 
-Intensive gardening methods (close spacing, deeply dug beds, massed plantings) work by loosening the bed to two feet deep so plant root systems can go down instead of out. The high plant density sucks the soil dry so rapidly the gardener must water almost daily during the growing season. This high plant density forms a complete crop canopy quickly - but at the cost of enormous water consumption.
+[[solomon-wide-spacing-versus-intensive-gardening-debate]] methods (close spacing, deeply dug beds, massed plantings) work by loosening the bed to two feet deep so plant root systems can go down instead of out. The high plant density sucks the soil dry so rapidly the gardener must water almost daily during the growing season. This high plant density forms a complete crop canopy quickly - but at the cost of enormous water consumption.
 
 ## The Old-Style Alternative
 

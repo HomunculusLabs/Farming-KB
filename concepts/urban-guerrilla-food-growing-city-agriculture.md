@@ -1,5 +1,5 @@
 ---
-title: "Urban Guerrilla Food Growing and City Agriculture"
+title: "Urban urban guerrilla food growing city agriculture and City Agriculture"
 created: 2026-04-28
 tags: [urban-permaculture, guerrilla-gardening, food-production, community, Clarke]
 date: 2026-04-25
@@ -10,7 +10,7 @@ type: concept
 
 # Urban Guerrilla Food Growing and City Agriculture
 
-We need to start growing food where we live and reclaiming all this
+We need to [[query-how-do-i-start-growing-hazelnut-bushes]] food where we live and reclaiming all this
 knowledge for ourselves and future generations. We cannot keep importing
 and trucking all of our food all over the globe and let big corporations
 control the most basic aspect of our lives for us. There is so much
@@ -29,7 +29,7 @@ oppressive.
 
 ## Grafting Urban Fruit Trees
 
-Local parks could be full of fruit trees and berries. We could graft
+Local parks could be full of [[holzer-wild-fruit-trees-and-hedges]] berries. We could graft
 scion wood of good fruit trees to crab apples in alleyways or
 non-fruiting cherries and peaches and plums in parks, and come back
 later for the harvest. This approach transforms existing ornamental
@@ -40,7 +40,7 @@ or permissions.
 
 We can dumpster tons of bathtubs and tires and milk crates and
 refrigerators and other good stuff to grow things out of. There is more
-edge and vertical growing space than you can shake a stick at in the
+edge and vertical [[cotter-growing-space-design-fruiting-rooms]] than you can shake a stick at in the
 city. The possibilities are rich. Vertical growing strategies maximize
 limited urban footprint, using walls, fences, railings, and trellises
 to expand growing area upward.
@@ -71,7 +71,7 @@ more microclimates. People always want to live on the edges.
 
 When building garden beds or ponds, permaculture designers take edge
 into account and do not just always make them normal rectangles or
-circles. An herb spiral built out of smashed up concrete from an old
+circles. An  built out of smashed up concrete from an old
 building foundation condenses space, creates a bunch of little
 microclimates for shade and sun tolerant herbs, increases the surface
 area, and looks really cool.
@@ -103,7 +103,7 @@ railings. Tomatoes ripen on rooftops. Onions frame sidewalks. The place
 where this happens most visibly is the garden, where we grow, learn,
 swap stories, play, relax, and wonder.
 
-This brings to mind another important practice of urban permaculture:
+This brings to mind another important practice of [[pdc-urban-permaculture-design-principles]]:
 conferring particularity, identity, and conviviality to a place, in
 other words, making it a "somewhere." To convert a lawn into a garden
 is to give it particularity and, according to the way it is done, an
@@ -126,11 +126,11 @@ In asphalt or concrete-covered lots, remove the pavement from the low
 spots and plant trees there. Plant native plants in your guerrilla
 gardens. They can survive on local rainfall, and they bring the real
 world into the heart of the city. Native species have evolved to thrive
-without irrigation, fertilizer, or pest control, making them ideal for
+without irrigation, fertilizer, or [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], making them ideal for
 unmaintained guerrilla plantings.
 
 ## See Also
 
 - [[guerilla-gardening-tactics-methods]]
-- [[urban-permaculture-edge-effect-and-design-principles]]
+- urban-permaculture-edge-effect-and-design-principles
 - [[urban-permaculture-community-building-social-design]]

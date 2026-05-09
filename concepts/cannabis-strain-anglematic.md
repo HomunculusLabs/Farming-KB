@@ -17,14 +17,14 @@ type: concept
 # Angelmatic (Little Angel)
 
 Angelmatic, also known as Little Angel, is an auto-flowering sativa-dominant
-hybrid cannabis strain bred by the Ministry of Cannabis, a Dutch seed bank based
+hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] bred by the Ministry of Cannabis, a Dutch [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]] based
 in Holland. The strain was developed specifically for growers with limited space,
 offering a compact plant that matures quickly regardless of light cycles.
 
 ## Genetics and Lineage
 
 Angelmatic was created by crossing a Little Devil plant with a [[cannabis-sativa]] - Overview of sativa cannabis varieties
-- [[cannabis-flowering-stage-management]] - Guide to auto-flowering cannabis cultivation
+- [[cannabis-flowering-stage-management]] - Guide to auto-flowering [[query-how-does-no-till-cannabis-cultivation-work]]
 
 ## Summary Table
 
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

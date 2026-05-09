@@ -4,12 +4,13 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [diet]
-sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka Five Grains and Food Mandala
 
-In his discussion of the [[natural-farming-fukuoka]] celebrates the traditional food culture built around the "five grains" and introduces his concept of a "food mandala" -- a comprehensive map of seasonal eating that once sustained Japanese farming communities.
+In his discussion of the [[natural-farming-fukuoka]] celebrates the traditional food culture built around the "five grains" and introduces his concept of a "food mandala" -- a comprehensive map of [[fukuoka-seasonal-eating-natural-food-calendar]] that once sustained Japanese farming communities.
 
 ## The Five Grains
 
@@ -17,11 +18,11 @@ Fukuoka identifies the traditional Japanese staple foods:
 
 - Rice, barley, foxtail millet, proso millet, and barnyard millet -- known collectively as the "five grains"
 - These served as the basic dietary principle in the traditional Japanese farming community
-- Today, "little of these five grains is grown anymore, except for rice and barley"
-- The minor grains have been "all but forgotten" due to their small seeds and low yields
+- Today, "little of these five grains is grown anymore, except for [[fukuoka-rice-and-barley-natural-farming]]"
+- The [[fukuoka-minor-grains-millets-superior-foods]] have been "all but forgotten" due to their small seeds and low yields
 - Production shifted almost exclusively to rice and barley
 
-Fukuoka insists that the primitive, small-seed crops are best for human health:
+Fukuoka insists that the primitive, small-seed [[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil]] for human health:
 
 - "It is the primitive, small-seed crops closest to nature, such as the millets, the azuki bean, and buckwheat, which are best for human health"
 - "Energy is more highly condensed in smaller things" -- he would "venture to say that it is probably better to go with what is smaller than bigger"
@@ -31,7 +32,7 @@ Fukuoka insists that the primitive, small-seed crops are best for human health:
 
 Fukuoka describes his vision of complete local food self-sufficiency:
 
-- By adding together the grains, vegetables, fruits, and edible wild herbs that can be gathered from the fields and hills about his [[fukuoka-japanese-diet-worse]], [[fukuoka-specter-food-scarcity]], fukuoka five grains food mandala, [[fukuoka-natural-diet-theory]]
+- By adding together the grains, vegetables, fruits, and [[query-how-do-i-identify-the-most-common-edible-wild-mushrooms]] herbs that can be gathered from the fields and hills about his [[fukuoka-japanese-diet-worse]], [[fukuoka-specter-food-scarcity]], fukuoka five grains food mandala, [[fukuoka-natural-diet-theory]]
 
 ## Merged: Fukuoka Natures Food Mandala Seasonal Eating
 
@@ -57,7 +58,7 @@ Horsetail, bracken, mugwort, osmund, and other mountain plants appear. Young lea
 
 ### Bamboo Shoot Season
 
-Grey rock cod, sea bream, and striped pig fish are at their most delicious. The iris blossom season is celebrated with slender ribbonfish and mackerel sashimi. Green peas, snow peas, lima beans, and fava beans are eaten right from the pod or boiled with brown rice, wheat, or barley.
+Grey rock cod, sea bream, and striped pig fish are at their most delicious. The iris blossom season is celebrated with slender ribbonfish and mackerel sashimi. Green peas, snow peas, lima beans, and fava beans are eaten right from the pod or boiled with [[cho-brown-rice-vinegar-preparation]], wheat, or barley.
 
 ### End of the Rainy Season
 

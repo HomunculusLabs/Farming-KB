@@ -4,16 +4,17 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [reference]
-sources: []
+sources:
+  sources: []
 ---
 
 # Temperature Effects on Plant Nutrient Uptake
 
-Temperature profoundly affects every aspect of nutrient availability and uptake in garden soils, from microbial activity to enzymatic function to water transport.
+Temperature profoundly affects every aspect of [[ph-and-nutrient-availability-garden-soils]] and uptake in garden soils, from microbial activity to enzymatic function to water transport.
 
 ## Plant Growth Thresholds
 
-Plants don't grow (and some die) if temperatures are too cool or too hot. Plant cells need to be growing to take up nutrients. When ground is frozen or temperatures exceed ~95F (35C), plants shut down and fertilizer application is futile.
+Plants don't grow (and some die) if temperatures are too cool or too hot. Plant cells need to be growing to take up nutrients. When ground is frozen or temperatures exceed ~95F (35C), plants shut down and [[cervantes-fertilizer-application-strain-feeding]] is futile.
 
 ### Optimal Temperature Ranges
 
@@ -21,7 +22,7 @@ Different plant species have evolved for different temperature niches:
 
 - **Cool-season crops** (spinach, peas, lettuce): Optimal root growth between 50-65F (10-18C)
 - **Warm-season crops** (tomatoes, peppers, corn): Optimal root growth between 70-85F (21-29C)
-- **Tropical crops** (bananas, cassava): Require consistent temperatures above 60F (16C)
+- **[[mollison-specialist-tropical-crops-forest-products]]** (bananas, cassava): Require consistent temperatures above 60F (16C)
 
 Root growth is particularly sensitive to temperature because roots must elongate to explore new soil volumes for nutrients. Cold soils slow root extension, effectively shrinking the root zone and limiting the plant's access to nutrients.
 
@@ -32,9 +33,9 @@ Root growth is particularly sensitive to temperature because roots must elongate
 - Soil microbes provide more than half the nitrogen used in cultivated fields and gardens
 - Nitrogen-cycling microbes are active between 41F (5C) and 95F (35C)
 - Highest production of usable nitrogen occurs between 75F (24C) and 95F (35C)
-- In cool spring conditions, biological nitrogen cycling is reduced
+- In cool spring conditions, [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] cycling is reduced
 
-The [[mycorrhizal-networks-common-mycelial-network]] that extend root reach are less effective in cold soils because fungal hyphal growth slows dramatically. This compounds the phosphorus availability problem, since phosphorus diffusion through soil is already one of the slowest nutrient movement processes.
+The [[mycorrhizal-networks-common-mycelial-network]] that extend root reach are less effective in cold soils because fungal hyphal growth slows dramatically. This compounds the [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] problem, since phosphorus diffusion through soil is already one of the slowest nutrient movement processes.
 
 ### General Soil Microbial Response
 
@@ -58,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -100,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

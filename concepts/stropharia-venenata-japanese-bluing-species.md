@@ -1,5 +1,5 @@
 ---
-title: Stropharia Venenata Japanese Bluing Species
+title: Stropharia stropharia venenata japanese bluing species Bluing Species
 created: 2026-04-19
 updated: 2026-04-18
 type: concept
@@ -9,7 +9,7 @@ tags: [reference]
 
 # Stropharia Venenata: Japan's Misidentified Bluing Mushroom
 
-Stropharia venenata (originally described as Stropharia caerulescens by S. Imai in 1932) is a psychoactive mushroom species from Japan with a troubled taxonomic history. Unjustly branded for decades as a "highly dangerous poisonous mushroom" due to a citation error, it represents an important case study in how taxonomic mistakes can have lasting consequences for both mycological science and public perception.
+Stropharia venenata (originally described as Stropharia caerulescens by S. Imai in 1932) is a psychoactive mushroom species from Japan with a troubled taxonomic history. Unjustly branded for decades as a "highly dangerous [[growing-gourmet-poisonous-mushroom-lookalikes]]" due to a citation error, it represents an important case study in how taxonomic mistakes can have lasting consequences for both mycological science and public perception.
 
 ## Taxonomic History
 
@@ -38,7 +38,7 @@ The attending physician was clearly unprepared for the situation. Upon seeing th
 
 ### Recovery
 
-All affected family members recovered completely with no lasting effects. This outcome is consistent with [[japanese-laughing-mushroom-tradition]].
+All affected family members recovered completely with no lasting effects. This outcome is consistent with japanese-laughing-mushroom-tradition.
 
 ### Subject Reports
 
@@ -90,7 +90,7 @@ As a close relative of P. cubensis, S. venenata shares many characteristics:
 |---|---|---|
 | Habitat | Wood and dung | Dung |
 | Distribution | Japan | Pan-tropical |
-| Bluing reaction | Yes | Yes |
+| [[field-guide-psilocybin-bluing-reaction-identification]] | Yes | Yes |
 | Primary alkaloid | Psilocybin | Psilocybin |
 | Toxicity | Non-fatal | Non-fatal |
 | Taste (fresh) | Bitter | Mild |
@@ -109,14 +109,14 @@ The bitter taste of fresh S. venenata fruiting bodies serves as a natural safety
 
 ### Context in Japanese Mushroom Culture
 
-Japan has a 2,000-year tradition of mushroom cultivation (beginning with shiitake, Lentinus edodes). The discovery that some Japanese mushrooms contained psychoactive compounds added a new dimension to this tradition.
+Japan has a 2,000-year tradition of [[accessible-mushroom-cultivation-for-disabilities]] (beginning with shiitake, Lentinus edodes). The discovery that some Japanese mushrooms contained psychoactive compounds added a new dimension to this tradition.
 
 ### Knowledge Gaps
 
 Despite Yokoyama's 1973 experiments, much remains unknown about Japanese psychoactive mushrooms:
 
 - Complete geographic distribution of psychoactive species
-- Chemical analysis of most species
+- [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of most species
 - Full documentation of accidental intoxications
 - Ecological requirements of psychoactive species
 - Relationship between Japanese and continental Asian populations
@@ -126,3 +126,5 @@ Despite Yokoyama's 1973 experiments, much remains unknown about Japanese psychoa
 ### Taxonomic Accuracy Matters
 
 The S. venenata case demonstrates that taxonomic errors in mycological monographs can have real-world consequences:
+## See Also
+- [[mushroom-cultivation]]

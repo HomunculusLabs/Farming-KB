@@ -25,7 +25,7 @@ Delivering anticancer agents by oral methods is becoming increasingly important 
 
 ### PSK (Polysaccharide-K)
 
-PSK is confirmed to be orally bioavailable (Sakagami and Aoki, 1991). With a molecular weight of 94,000-100,000 daltons, PSK can be absorbed through the gastrointestinal tract and exert systemic immune-modulating effects. This has been demonstrated in numerous clinical trials where PSK at 3g/day produced measurable immune changes and clinical benefits.
+PSK is confirmed to be orally bioavailable (Sakagami and Aoki, 1991). With a molecular weight of 94,000-100,000 daltons, PSK can be absorbed through the gastrointestinal tract and exert systemic immune-modulating effects. This has been demonstrated in numerous [[mushroom-cancer-clinical-trials-overview]] where PSK at 3g/day produced measurable immune changes and clinical benefits.
 
 ### PSP (Polysaccharide-Peptide)
 
@@ -74,7 +74,7 @@ Despite decades of clinical use of PSK and PSP in humans, bioavailability and ph
 - The exact absorption pathways for protein-bound polysaccharides
 - The relationship between molecular size and absorption efficiency
 - How formulation affects bioavailability
-- The pharmacokinetic profiles (absorption, distribution, metabolism, excretion) of different mushroom compounds
+- The pharmacokinetic profiles (absorption, distribution, metabolism, excretion) of different [[medicinal-mushroom-compounds-and-health-benefits]]
 - Optimal dosing schedules for oral formulations
 
 ## Practical Implications
@@ -85,13 +85,13 @@ The bioavailability differences among mushroom compounds have direct practical c
 - **Lentinan and Schizophyllan**: Require hospital visits for intravenous administration
 - **Acid-treated glucans**: May offer a future pathway for making currently IV-only compounds available orally
 
-For cancer prevention through dietary mushroom intake, the oral bioavailability of mushroom polysaccharides is essential, as prevention requires long-term consistent intake that is only practical through oral consumption.
+For cancer prevention through [[cancer-prevention-dietary-mushroom-intake]] intake, the oral bioavailability of mushroom polysaccharides is essential, as prevention requires long-term consistent intake that is only practical through oral consumption.
 
 ## See Also
 - [[psk-psp-polysaccharide-peptides]]
 - [[mushroom-cancer-clinical-trials-overview]]
 - [[psk-gastric-cancer-clinical-trials]]
-- [[beta-glucan-receptor-binding]]
+- kappa opioid receptor
 - [[cancer-prevention-dietary-mushroom-intake]]
 - [[medicinal-mushroom-guide-agaricus-blazei]]
 - [[agaricus-blazei-murill-research]]

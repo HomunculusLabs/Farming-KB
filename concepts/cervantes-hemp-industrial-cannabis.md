@@ -9,12 +9,13 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 synonyms:
   - industrial hemp
   - fiber cannabis
   - rope cannabis
-  - cannabis sativa hemp
+  - [[comparison-cannabis-sativa-vs-cannabis-indica]] hemp
   - rogue pollen hemp
 type: concept
 ---
@@ -23,7 +24,7 @@ type: concept
 
 Hemp strains occupy a distinct category within *Cannabis sativa*, grown
 primarily for fiber, seed, and industrial applications rather than
-psychoactive resin production. Jorge Cervantes provides key information
+psychoactive [[cannabis-glandular-trichome-types-resin-production-clarke]]. Jorge Cervantes provides key information
 about hemp's characteristics and its implications for drug cannabis
 growers.
 
@@ -90,12 +91,12 @@ allergy sufferers but also used by marijuana growers).
 
 Cervantes frequently references *Hemp Diseases and Pests* by J.M.
 McPartland, R.C. Clarke, and D.P. Watson (CABI Publishing) as the
-definitive resource for cannabis disease and pest management. This
+definitive resource for cannabis disease and [[cannabis-pest-management-guide]]. This
 comprehensive guide covers:
 
 - Fungal diseases affecting all cannabis types
 - Insect pests common to both hemp and drug cannabis
-- Disease identification and treatment protocols
+- [[solomon-disease-identification-and-organic-remedies]] and treatment protocols
 - Biocontrol methods for organic cultivation
 
 The book is recommended for anyone seeking detailed troubleshooting

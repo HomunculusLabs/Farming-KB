@@ -1,5 +1,5 @@
 ---
-title: Soft Fruit Growing Organic
+title: Soft holzer-fruit-growing-marginal-climates Organic
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -36,7 +36,7 @@ Well-drained but moisture-retentive soil. For increased drainage, raise the grow
 ### Planting
 Buy cold-stored runners from a reputable grower who can guarantee freedom from disease. Dress the soil with two handfuls of [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]] plant will not establish; too low and the crown will rot.
 
-Strawberries can also be planted through black plastic on raised beds. Cover a 4ft bed with black plastic, cut slits 18in (45cm) apart, and plant through the slits. This suppresses weeds and prevents soil-borne disease.
+Strawberries can also be planted through black plastic on [[comparison-raised-beds-vs-hugelkultur]]. Cover a 4ft bed with black plastic, cut slits 18in (45cm) apart, and plant through the slits. This suppresses weeds and prevents soil-borne disease.
 
 ### Maintenance
 - **Feeding:** Little fertilizer needed. Too much nitrogen produces excess leaf growth at the expense of fruit. After the crop has been picked, sprinkle a handful of rock potash along each yard/meter of row
@@ -59,10 +59,10 @@ Easy to grow and very prolific. Can be grown in very small spaces as cordons. Wh
 Red: Red Lake, Rovada. White: Blanka.
 
 ### Shapes
-Freestanding bushes or single, double, or triple cordons against a fence, wall, or post-and-wire support. Red and white currants are grown on a "leg" (short stem), unlike black currants which are "stooled" (from ground level).
+Freestanding bushes or single, double, or triple cordons against a fence, wall, or post-and-wire support. Red and white currants are grown on a "leg" (short stem), unlike [[query-how-to-grow-black-currants-at-home]] which are "stooled" (from ground level).
 
 ### Soil and Site
-Soil pH about 6.5. Sunny location. May not suit very cold areas as they flower in early spring.
+Soil pH about 6.5. Sunny location. May not suit very cold areas as they flower in [[coleman-overwintered-onions-and-early-spring-crops]].
 
 ### Planting
 Best planted in fall or early winter. Remove any suckers before planting. Add two handfuls of bone meal per square yard/meter. Freestanding bushes at 5ft (1.5m) apart with 6ft (1.8m) between rows. Cordons: single at 1ft (30cm) apart, double at 2ft (60cm), triple at 3ft (90cm). Tie arms at right angles to the wires. Mulch with well-rotted manure or compost.
@@ -76,7 +76,7 @@ Best planted in fall or early winter. Remove any suckers before planting. Add tw
 Pick stalks from the bush and remove individual currants later with a kitchen fork. Suitable for freezing and canning.
 
 ### Pests and Diseases
-Aphids, birds, mildew, sawfly, and leaf spot.
+Aphids, birds, mildew, sawfly, and [[jadam-canker-leaf-spot-pesticide]].
 
 ## Black Currants (Ribes nigrum)
 

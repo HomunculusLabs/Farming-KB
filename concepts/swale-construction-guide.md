@@ -5,7 +5,7 @@ updated: 2026-04-12
 type: concept
 tags: [permaculture, earthworks, water-management, construction, methods, agriculture]
 sources:
-  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+  sources: []
   - raw/papers/gaias-garden-toby-hemenway.md
 ---
 
@@ -31,7 +31,7 @@ The distance between swales depends on rainfall, slope, and soil type:
 ## How to Lay Out a Swale
 
 1. **Determine spacing**: Use rainfall, slope, and soil type as guides (see above)
-2. **Find the contour line**: Use a leveling device — surveyor's transit, peep-sight level, water level, line level, or build an A-frame level from 1x2 or 2x2 wood
+2. **Find the [[comparison-swale-vs-contour-line-water-management]]**: Use a leveling device — surveyor's transit, peep-sight level, water level, line level, or build an A-frame level from 1x2 or 2x2 wood
 3. **Calibrate the A-frame** (if using): Stand the frame on level ground, mark where a weight on a string crosses the crossbeam. To use, flip the A-frame along the slope; when the string crosses the same mark, the two feet are on the same contour
 4. **Drive pegs**: Mark the course of the swale. On hilly ground, space pegs about 6 feet apart; on flat ground, every 10-15 feet. You will be surprised how much even "flat" ground undulates
 5. **The critical point**: The swale must be truly level so water infiltrates evenly and steadily
@@ -57,11 +57,11 @@ In yards where water pools excessively, dig swales slightly off contour (about 2
 
 ## Example: Tom Ward's Integrated System
 
-Permaculturist Tom Ward built a 3,000-gallon pond on the uphill side of his vegetable garden, fed by downspouts from neighboring houses. A swale runs alongside the pond; overflow dribbles over a rock waterfall into the level swale and sinks into the soil. The garden is just downhill, and the expanding lens of subterranean wetness from the swale provides subsurface irrigation. At the outlet end, blueberry bushes capture any remaining water.
+Permaculturist Tom Ward built a 3,000-gallon pond on the uphill side of his [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]], fed by downspouts from neighboring houses. A swale runs alongside the pond; overflow dribbles over a rock waterfall into the level swale and sinks into the soil. The garden is just downhill, and the expanding lens of subterranean wetness from the swale provides subsurface irrigation. At the outlet end, blueberry bushes capture any remaining water.
 
 ## Connections
 
-See also [[swale-design-construction]] for additional technical detail, permaculture earthworks, [[keyline-design]], [[rainwater-harvesting-systems]], [[earthworks-for-water-management]], and [[permaculture-principle-catch-and-store-energy]].
+See also [[swale-design-construction]] for additional technical detail, [[query-what-are-permaculture-earthworks-and-how-do-i-plan-them]], [[keyline-design]], [[rainwater-harvesting-systems]], [[earthworks-for-water-management]], and [[permaculture-principle-catch-and-store-energy]].
 
 ## Related
 
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

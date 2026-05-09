@@ -10,7 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Bresinsky, A. & Besl, H. (1990). "A Colour Atlas of Poisonous Fungi." Wolfe Publishing.
+  - Bresinsky, A. & Besl, H. (1990). "A Colour Atlas of ramsbottom-poisonous-fungi-identification-guide." Wolfe Publishing.
   - Breitenbach, J. & Kränzlin, F. (1991). "Fungi of Switzerland Vol. 3." Verlag Mykologia.
   - Courtecuisse, R. & Duhem, B. (1995). "Mushrooms and Toadstools of Britain and Europe." HarperCollins.
   - Basso, M.T. (1999). "Fungi Europaei Vol. 7: Hygrophorus." Edizioni Candusso.
@@ -59,7 +59,7 @@ Fruiting occurs from late February through April at elevations of 400–1800 m. 
 
 ## Edibility and Culinary Use
 
-*H. marzuolus* is an excellent edible mushroom, considered one of the finest early-spring species in European cuisine. Its firm flesh holds up well to cooking, and it lacks the slippery texture common to many *Hygrophorus* species.
+*H. marzuolus* is an excellent [[bloomfield-boletus-satanus-edible-mushroom-hazards]], considered one of the finest early-spring species in European cuisine. Its firm flesh holds up well to cooking, and it lacks the slippery texture common to many *Hygrophorus* species.
 
 The mild, slightly nutty flavor pairs well with cream sauces, butter, and light herbs. It is traditionally prepared sautéed in butter or incorporated into risottos and omelets.
 
@@ -81,11 +81,11 @@ It contains measurable quantities of potassium, phosphorus, and B vitamins inclu
 
 ## Ecological Role
 
-As an ectomycorrhizal symbiont, *H. marzuolus* facilitates nutrient exchange between its host trees and the soil. The fungal hyphae extend the effective root zone of host conifers, improving access to phosphorus and micronutrients.
+As an ectomycorrhizal symbiont, *H. marzuolus* facilitates [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between its host trees and the soil. The fungal hyphae extend the effective root zone of host conifers, improving access to phosphorus and micronutrients.
 
-Its early-season fruiting provides a food source for invertebrates and small mammals when few other fungal resources are available. Slugs and snails frequently feed on the caps.
+Its early-season fruiting provides a food source for invertebrates and small mammals when few other fungal resources are available. [[query-how-to-get-rid-of-slugs-and-snails-organically]] frequently feed on the caps.
 
-The species is sensitive to forest disturbance and nitrogen deposition. Populations have declined in areas where clear-cutting or intensive forestry has replaced mixed montane stands with monoculture plantations.
+The species is sensitive to forest disturbance and [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]. Populations have declined in areas where clear-cutting or intensive forestry has replaced mixed montane stands with monoculture plantations.
 
 ## Similar Species
 
@@ -99,7 +99,7 @@ The most likely confusion is with *Tricholoma terreum*, which also fruits in spr
 
 Cultivation of *H. marzuolus* has not been achieved commercially due to its obligate mycorrhizal dependency. Successful fruiting requires living root systems of compatible conifer hosts.
 
-Inoculation trials with *Abies alba* seedlings have produced mycorrhizal root tips in controlled conditions, but fruiting body production has not been reliably induced. Cold stratification and sustained sub-zero periods appear necessary for primordia initiation.
+Inoculation trials with *Abies alba* seedlings have produced mycorrhizal root tips in controlled conditions, but fruiting body production has not been reliably induced. Cold stratification and sustained sub-zero periods appear necessary for [[chen-maitake-primordia-initiation-fruiting]].
 
 The species is occasionally available through specialist spore suppliers for experimental forestry applications, but it is primarily a wild-foraged mushroom.
 
@@ -108,6 +108,8 @@ The species is occasionally available through specialist spore suppliers for exp
 *Amanita rubescens* can occasionally appear in early spring, but has a distinct annulus, volva remains at the base, and turns reddish where bruised.
 
 ## See Also
+
+- [[hygrophorus-chlorophanus]]
 
 - [[cantharellus-cibarius-entity]]
 - [[clitocybe-odora]]

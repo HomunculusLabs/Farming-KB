@@ -38,7 +38,7 @@ were diagnosed with breast cancer.
 ### Anandamide and Early Discoveries
 
 In 1998, researchers from Naples, Italy, discovered that the endogenous
-cannabinoid anandamide blocks human breast cancer cell growth in vitro. By 2000,
+cannabinoid anandamide blocks human breast [[blesching-cannabis-apoptosis-and-cancer-cell-death]] growth in vitro. By 2000,
 a mechanism was identified: cannabinoids suppressed certain growth factors and
 prolactin receptors, inhibiting certain types of breast cancer cell lines.
 
@@ -62,7 +62,7 @@ cancer."
 
 ### CBD and Metastatic Breast Cancer
 
-A 2007 San Francisco team examined cannabinoids in aggressive, rapidly
+A 2007 [[shipibo-san-francisco-ceremonial-center-ucayali]] team examined cannabinoids in aggressive, rapidly
 spreading breast cancer. Scientists reported: "CBD represents the first
 nontoxic exogenous agent that can significantly decrease Id-1 expression in
 metastatic breast cancer cells leading to the down-regulation of tumor

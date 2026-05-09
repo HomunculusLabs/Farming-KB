@@ -1,5 +1,5 @@
 ---
-title: Reflux Apparatus and Laboratory Setup
+title: lemon cannabis alchemy reflux apparatus and laboratory setup and Laboratory Setup
 created: 2026-04-28
 tags:
   - laboratory-equipment
@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-The essential oil of cannabis is extracted by refluxing (boiling) the
+The [[permaculture-designers-manual-essential-oil-plants]] of cannabis is extracted by refluxing (boiling) the
 plant material in a solvent. The oil, containing THC and related
 substances, chlorophyll, and taste/smell compounds, dissolves in the
 solvent (usually alcohol), while cellulose does not. The leached
@@ -74,7 +74,7 @@ ice to fall into the boiling water bath, cooling the rig safely.
 
 Pressure builds dangerously only if ice is neglected or the
 apparatus heats too fast before the lid is sufficiently cooled.
-Reflux for three to four hours dissolves most essential oils into the
+Reflux for three to four hours dissolves most [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] into the
 solvent. See
 [[lemon-cannabis-alchemy-high-volume-extraction-method]] for the
 55-gallon drum apparatus performing refluxing, soxhleting,

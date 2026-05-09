@@ -4,18 +4,19 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [remediation, environment]
-sources: []
+sources:
+  sources: []
 ---
 
 # Bioremediation of Pharmaceutical Contaminants
 
-Pharmaceutical contaminants in the environment represent an emerging class of water pollutants that conventional wastewater treatment plants are not designed to remove.
+Pharmaceutical contaminants in the environment represent an emerging class of water pollutants that conventional [[mollison-designers-wastewater-treatment-wetlands]] plants are not designed to remove.
 
 Pharmaceuticals enter the environment through patient excretion, improper disposal of unused medications, manufacturing effluents, and agricultural use of veterinary pharmaceuticals.
 
 These compounds are biologically active at very low concentrations and can disrupt endocrine function, promote antibiotic resistance, and affect aquatic ecosystem health even at nanogram to microgram per liter levels.
 
-This page provides an overview of pharmaceutical bioremediation, complementing the fungal-specific discussions in [[fungal-treatment-pharmaceutical-wastewater]].
+This page provides an overview of pharmaceutical bioremediation, complementing the fungal-specific discussions in fungal-treatment-pharmaceutical-wastewater.
 
 ## Classes of Pharmaceutical Contaminants
 
@@ -59,7 +60,7 @@ Fluoroquinolone antibiotics are relatively recalcitrant to biodegradation, thoug
 
 Tetracycline antibiotics undergo photodegradation and adsorption more readily than biological degradation in environmental systems.
 
-NSAIDs are degraded by various bacteria through oxidation, hydroxylation, and conjugation reactions, with the degradation efficiency depending on the specific compound and microbial community.
+NSAIDs are degraded by various bacteria through oxidation, hydroxylation, and [[phase-ii-conjugation-reactions-drug-metabolism]], with the degradation efficiency depending on the specific compound and [[edaphic-factors-microbial-community-structure]].
 
 Diclofenac degradation has been demonstrated by white-rot fungi and certain bacteria, but complete mineralization is difficult to achieve.
 
@@ -73,7 +74,7 @@ White-rot fungi are particularly effective for pharmaceutical degradation becaus
 
 [[fungal-cytochrome-p450-biodegradation]], contribute to pharmaceutical degradation through hydroxylation and other oxidative transformations.
 
-Trametes versicolor has demonstrated particularly broad pharmaceutical degradation capacity, removing multiple drug classes simultaneously from wastewater.
+[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] has demonstrated particularly broad pharmaceutical degradation capacity, removing multiple drug classes simultaneously from wastewater.
 
 Pleurotus ostreatus and Bjerkandera adusta have also shown effective pharmaceutical degradation in laboratory studies.
 
@@ -85,11 +86,11 @@ The cometabolic nature of fungal pharmaceutical degradation means that the trans
 
 Fungal bioreactors using white-rot fungi in fluidized-bed, packed-bed, or stirred-tank configurations have demonstrated effective pharmaceutical removal from synthetic and real wastewaters.
 
-[[fungal-bioreactor-types-for-pollutant-removal]] describe reactor designs for pharmaceutical wastewater treatment.
+fungal-bioreactor-types-for-pollutant-removal describe reactor designs for [[singh-pharmaceutical-wastewater-fungal-treatment]] treatment.
 
 Immobilized fungal systems provide operational advantages including easy biomass separation, reuse over multiple treatment cycles, and protection of fungal biomass from shear stress.
 
-[[constructed-wetlands-wastewater-treatment]] describes the application of constructed wetland systems for pharmaceutical removal.
+[[constructed-wetlands-wastewater-treatment]] describes the application of [[comparison-constructed-wetland-vs-backyard-pond]] systems for pharmaceutical removal.
 
 Soil aquifer treatment, where treated wastewater is applied to infiltration basins and allowed to percolate through the vadose zone, provides additional biological degradation of residual pharmaceuticals before groundwater recharge.
 

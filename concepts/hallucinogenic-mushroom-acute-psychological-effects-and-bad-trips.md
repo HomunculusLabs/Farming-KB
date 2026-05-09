@@ -1,5 +1,5 @@
 ---
-title: "Hallucinogenic Mushroom Acute Psychological Effects and Bad Trips"
+title: "emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative Acute Psychological Effects and Bad Trips"
 created: 2026-04-28
 tags:
   - psychology
@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - EMCDDA Thematic Paper: Hallucinogenic Mushrooms, An Emerging Trend Case Study (2006)
+  - EMCDDA Thematic Paper: emcdda-hallucinogenic-mushrooms-emerging-trend-europe, An emcdda-epod-project-emerging-trend-detection-methodology Case Study (2006)
 type: concept
 ---
 
@@ -19,11 +19,11 @@ type: concept
 
 ## Overview
 
-The acute psychological effects of hallucinogenic mushrooms containing psilocybin and psilocin are highly variable, depending on dose, individual sensitivity, previous experiences, and the setting in which they are consumed. User reported experiences range from profoundly positive to severely distressing, with the negative experiences commonly referred to as "bad trips." Understanding the full spectrum of acute psychological effects is essential for both harm reduction and clinical practice.
+The acute psychological effects of hallucinogenic mushrooms containing psilocybin and psilocin are highly variable, depending on dose, individual sensitivity, previous experiences, and the setting in which they are consumed. User reported experiences range from profoundly positive to severely distressing, with the negative experiences commonly referred to as "bad trips." Understanding the full spectrum of acute psychological effects is essential for both [[adverse-effects-and-harm-reduction-psilocybin]] and clinical practice.
 
 ## Factors Influencing Effects
 
-Mushroom effects are dependent on multiple interacting variables:
+[[psychedelic-mushroom-effects-guide]] are dependent on multiple interacting variables:
 
 - **Dose** - the quantity and potency of mushrooms consumed
 - **Individual reaction and sensitivity** - personal neurochemistry and psychological makeup
@@ -108,4 +108,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

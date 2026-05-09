@@ -21,9 +21,9 @@ sources:
 
 ## Overview
 
-Vigna umbellata, commonly known as rice bean or red bean, is an annual legume in the family Fabaceae. It is cultivated primarily in South and Southeast Asia as a food crop, though it remains underutilized compared to its close relatives mung bean and adzuki bean.
+Vigna umbellata, commonly known as rice bean or red bean, is an annual legume in the family Fabaceae. It is cultivated primarily in South and [[psilocybe-southeast-asia-pacific]] as a food crop, though it remains underutilized compared to its close relatives mung bean and adzuki bean.
 
-The species produces small seeds ranging in color from red to yellow, brown, or mottled. It is valued for its nitrogen-fixing ability, drought tolerance, and adaptability to marginal soils, making it a promising crop for sustainable agriculture.
+The species produces small seeds ranging in color from red to yellow, brown, or mottled. It is valued for its nitrogen-fixing ability, [[dighton-fungal-drought-tolerance-plant-water-relations]], and adaptability to marginal soils, making it a promising crop for sustainable agriculture.
 
 Rice bean serves as a dual-purpose crop, providing both edible seeds and nutritious forage. It has received increasing attention from agricultural researchers as a climate-resilient pulse for food security in mountainous and rain-fed regions.
 
@@ -73,9 +73,9 @@ The leaves and young pods are also consumed as vegetables in several Asian cuisi
 
 ## Ecology and Applications
 
-Vigna umbellata contributes to sustainable agriculture through biological nitrogen fixation, adding an estimated 40-80 kg of nitrogen per hectare to the soil. This makes it an excellent component in crop rotation systems and low-input farming.
+Vigna umbellata contributes to sustainable agriculture through [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation, adding an estimated 40-80 kg of nitrogen per hectare to the soil. This makes it an excellent component in crop rotation systems and low-input farming.
 
-In permaculture and agroforestry contexts, rice bean serves as a ground cover crop that suppresses weeds, reduces soil erosion, and improves soil organic matter. Its rapid growth and canopy closure provide effective weed suppression within 30-40 days of planting.
+In permaculture and agroforestry contexts, rice bean serves as a ground cover crop that suppresses weeds, reduces soil erosion, and improves soil [[hamilton-composting-and-organic-matter-management]]. Its rapid growth and canopy closure provide effective weed suppression within 30-40 days of planting.
 
 The species shows promise as a cover crop in conservation agriculture systems. Its residue decomposes readily, releasing nutrients for subsequent crops. Research indicates potential for integration into no-till farming systems in tropical and subtropical regions.
 
@@ -83,7 +83,7 @@ Genetic diversity in rice bean landraces provides a valuable resource for breedi
 
 Germplasm collections maintained by international agricultural research centers hold over 3,000 accessions of rice bean. These collections represent the broad genetic base found across the species' center of diversity in the Himalayan foothills and Southeast Asian highlands.
 
-Breeding efforts have focused on developing determinate growth habits for mechanical harvesting, improved pod shattering resistance, and enhanced culinary quality. Marker-assisted selection programs are underway to exploit the species' genetic potential for abiotic stress tolerance.
+Breeding efforts have focused on developing determinate growth habits for mechanical harvesting, improved pod shattering resistance, and enhanced culinary quality. Marker-assisted selection programs are underway to exploit the species' genetic potential for abiotic [[fungal-lichen-stress-tolerance-and-poikilohydry]].
 
 ## Food Uses and Processing
 
@@ -103,7 +103,7 @@ The hard seed coat that protects against bruchid damage also impedes uniform ger
 
 Research priorities identified by crop scientists include development of early-maturing varieties for double-cropping systems, characterization of the species' rhizobial symbiont specificity, and evaluation of rice bean for phytoremediation of heavy-metal-contaminated soils.
 
-Emerging genomic tools, including whole-genome sequencing and genotyping-by-sequencing, are being applied to rice bean for the first time. These resources will accelerate the identification of quantitative trait loci associated with yield, stress tolerance, and nutritional quality in this neglected crop species.
+Emerging genomic tools, including whole-genome sequencing and genotyping-by-sequencing, are being applied to rice bean for the first time. These resources will accelerate the identification of quantitative trait loci associated with yield, stress tolerance, and [[coleman-winter-greens-nutritional-quality-cold-sweetening]] in this neglected crop species.
 
 ## See Also
 

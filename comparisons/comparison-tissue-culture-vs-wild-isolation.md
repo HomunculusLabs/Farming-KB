@@ -1,5 +1,5 @@
 ---
-title: "Tissue Culture vs Wild Isolation"
+title: "comparison-seed-saving-techniques-vs-tissue-culture-cloning vs Wild Isolation"
 created: 2026-04-28
 tags: [comparison, mushroom-cultivation, strain-development, sterile-technique, mycology]
 date: 2026-04-25
@@ -12,7 +12,7 @@ type: comparison
 
 ## Overview
 
-Tissue culture cloning and [[agar]] work, but they differ in
+Tissue culture cloning and agar work, but they differ in
 starting material, genetic predictability, and the role they play in strain
 development.
 
@@ -22,12 +22,12 @@ development.
 
 Wild isolation involves collecting fresh mushrooms from their natural habitat
 and establishing pure cultures through either tissue culture from the wild
-specimen or spore germination from a wild spore print. The process bridges the
-gap between natural fungal diversity and controlled cultivation, enabling
+specimen or [[growing-gourmet-spore-germination-strain-isolation]] from a wild spore print. The process bridges the
+gap between natural [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] and controlled cultivation, enabling
 cultivators to domesticate new species and preserve local fungal genetics that
 might otherwise be lost to habitat destruction.
 
-Successful wild isolation begins with careful specimen collection. Fresh, young
+Successful wild isolation begins with careful [[fungal-specimen-collection-herbarium-management]]. Fresh, young
 mushrooms in prime condition are essential because the viability of tissue
 cultures depends on the health of the starting material. Specimens should be
 collected from clean environments away from industrial pollution or agricultural
@@ -40,7 +40,7 @@ Wild isolation can use either tissue culture from the wild specimen or spore
 germination. Tissue culture from a wild specimen preserves the exact genotype of
 that particular mushroom, while spore germination introduces genetic
 recombination that may produce novel combinations with different characteristics
-from the parent. Both approaches require rigorous sterile technique because wild
+from the parent. Both approaches require rigorous [[cultivator-sterile-technique-and-agar-culture]] because wild
 specimens carry heavy environmental microbial loads that easily contaminate agar
 plates. Multiple isolation attempts from the same specimen are often necessary
 to obtain a clean culture.
@@ -88,7 +88,7 @@ be obtained through any other means.
 
 ## Hybrid Approaches
 
-The complete strain development pipeline typically uses both methods. Wild
+The complete [[vic-high-true-breeding-strain-development-stabilization]] pipeline typically uses both methods. Wild
 isolation captures new genetic material from nature. Tissue culture preserves
 the best individuals from wild collections or from cultivation trials. The
 resulting cultures are then evaluated through multiple fruiting generations,
@@ -99,4 +99,7 @@ strains were originally developed.
 ## See Also
 
 - [[strain-isolation-from-wild-specimens]]
-- [[sterile-cultivation-technique]]
+- sterile-cultivation-technique
+- [[tissue-culture-cloning]]
+- [[fruiting-conditions]]
+- [[fungal-genetics]]

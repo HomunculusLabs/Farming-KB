@@ -24,7 +24,7 @@ The timing of turning in green manure crops is one of the most consequential dec
 
 Green manure crops start life with a relatively low carbon-to-nitrogen (C/N) ratio. Young, leafy, actively growing vegetation contains plenty of nitrogen relative to its carbon content. When such tender material is dug shallowly into moist soil, it decomposes rapidly and the land can be replanted in roughly two weeks.
 
-The critical transition happens when the plant begins flowering or forming seeds. At that point vegetative growth ceases and the C/N ratio increases markedly as stems become fibrous and woody. What was quick-decomposing green tissue transforms into something the soil microbiology handles much more slowly.
+The critical transition happens when the plant begins flowering or forming seeds. At that point [[cannabis-vegetative-growth-stage]] ceases and the C/N ratio increases markedly as stems become fibrous and woody. What was quick-decomposing green tissue transforms into something the soil microbiology handles much more slowly.
 
 If you allow the green manure just a few extra weeks of growth beyond the ideal point, the consequences are severe:
 
@@ -43,9 +43,9 @@ A practical test for whether turned-in green manure has decomposed enough for pl
 
 ## Legume Versus Non-Legume Considerations
 
-Leguminous green manures such as crimson clover, hairy vetch, and field peas contribute fixed atmospheric nitrogen to the soil in addition to organic matter. However, the decomposition timing rules apply equally to legumes. A mature, flowering legume that has become woody will still impose the four-to-five-week delay. The nitrogen benefit does not compensate for the lost growing season if the material is turned in too late.
+Leguminous green manures such as [[comparison-lupin-vs-crimson-clover-green-manure]], hairy vetch, and field peas contribute fixed atmospheric nitrogen to the soil in addition to [[hamilton-composting-and-organic-matter-management]]. However, the decomposition timing rules apply equally to legumes. A mature, flowering legume that has become woody will still impose the four-to-five-week delay. The nitrogen benefit does not compensate for the lost [[savory-growing-season-and-non-growing-season-management]] if the material is turned in too late.
 
-Non-legume green manures such as cereal rye, winter wheat, and buckwheat contribute organic matter and soil structure improvement but no net nitrogen addition. Their value lies in biomass production, root penetration, and nutrient capture from deep soil layers that would otherwise leach away.
+Non-legume green manures such as cereal rye, winter wheat, and buckwheat contribute organic matter and soil structure improvement but no net nitrogen addition. Their value lies in [[dighton-fungal-biomass-production-aquatic-ecosystems]], root penetration, and nutrient capture from deep soil layers that would otherwise leach away.
 
 ## The Heavy Soil Trap
 
@@ -88,7 +88,7 @@ Gardeners in semi-arid regions without irrigation face an additional risk. A gre
 
 Some cover crop species release chemical residues into the soil that inhibit the germination or growth of subsequent crops. This phenomenon, called allelopathy, is the opposite of what the gardener intends. It is important to research allelopathic interactions before selecting a cover crop species.
 
-Cereal rye is one of the most well-documented allelopathic cover crops. Its residues contain compounds that inhibit weed seed germination, which can be advantageous for weed suppression but may also retard the growth of delicate vegetable seedlings. When using allelopathic cover crops, allow extra time for the compounds to break down before planting, or supplement with a strong nitrogen source such as complete organic fertilizer or chicken manure to offset any temporary nutrient tie-up.
+Cereal rye is one of the most well-documented allelopathic cover crops. Its residues contain compounds that inhibit weed seed germination, which can be advantageous for weed suppression but may also retard the growth of delicate vegetable seedlings. When using allelopathic cover crops, allow extra time for the compounds to break down before planting, or supplement with a strong nitrogen source such as complete [[complete-organic-fertilizer-cof-recipe-solomon]] or chicken manure to offset any temporary nutrient tie-up.
 
 ## Nitrogen Tie-Up During Decomposition
 

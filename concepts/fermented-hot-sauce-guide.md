@@ -1,5 +1,5 @@
 ---
-title: Fermented Hot Sauce Guide
+title: Fermented fermented hot sauce guide Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Fermented Hot Sauce Guide
 
-Lacto-fermented hot sauce develops complex flavor through controlled bacterial fermentation. Unlike vinegar-based hot sauces, fermented sauces use salt and time to encourage Lactobacillus growth, producing lactic acid that preserves and flavors the peppers.
+Lacto-fermented hot sauce develops complex flavor through controlled bacterial fermentation. Unlike vinegar-based hot sauces, fermented sauces use salt and time to encourage Lactobacillus growth, producing [[bionutrients-lab-lactic-acid-bacteria-serum]] that preserves and flavors the peppers.
 
 ## Lacto-Fermentation Basics
 
@@ -68,7 +68,7 @@ For sauces where you want identifiable pepper pieces:
 After fermentation:
 
 1. Transfer mash/peppers to a blender
-2. Add vinegar (white distilled, apple cider, or rice vinegar) at 10-25% of total volume for additional safety and tang
+2. Add vinegar (white distilled, apple cider, or [[brown-rice-vinegar-brv]]) at 10-25% of total volume for additional safety and tang
 3. Blend until smooth
 4. Strain through a fine mesh sieve or food mill if desired (smooth sauce) or leave chunky
 5. Taste and adjust: add more vinegar for tang, salt for seasoning, sugar or honey to balance heat
@@ -89,7 +89,7 @@ Hot sauce improves with age. Store bottled sauce in a cool, dark place for 1-3 m
 
 ## Scaling for Sale
 
-See homestead mushroom business and online homestead sales for general business guidance. Hot sauce specifics:
+See homestead [[cotter-mushroom-business-marketing]] and online homestead sales for general business guidance. Hot sauce specifics:
 
 - Price point: $6-12 per 5oz bottle at farmers markets
 - Cost of goods: $1.50-3.00 per bottle (peppers, vinegar, bottles, labels)
@@ -116,7 +116,6 @@ See homestead mushroom business and online homestead sales for general business 
 - Labels
 
 Fermented hot sauce is a high-margin homestead-crafts product and pairs well with other [[food-fermentation-guide]] preserves like kraut and pickles for market sales.
-
 
 ## Related
 

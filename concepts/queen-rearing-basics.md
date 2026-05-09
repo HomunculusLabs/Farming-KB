@@ -141,18 +141,10 @@ or kill a queen they do not accept.
 - Ensure the colony has adequate food during the introduction period
 
 ## Selecting Breeder Stock
-
-The quality of your queens depends on the genetics of the breeder colony.
-Select for:
-- Gentle temperament
-- High honey production
-- Good winter survival
-- Low Varroa mite loads (VSH or hygiene traits)
-- Resistance to brood diseases
-
-Maintain records of colony performance to inform breeding decisions. See
-[[beekeeping-problems-and-solutions]] for information on selecting for
-disease resistance and [[beekeeping-seasonal-calendar]] for timing queen
-rearing with the seasonal cycle.
-
-See also: [[seed-saving-and-plant-breeding]]
+## See Also
+- [[permaculture-beginners-guide-food-forests-introduction]]
+- [[permaculture-beginners-guide-soil-building-basics]]
+- [[disposable-tray-casing-method-grass-seed-substrate]]
+- [[query-what-is-the-best-cannabis-grow-medium-for-beginners]]
+- [[query-what-is-the-best-way-to-rotate-crops-in-a-vegetable-garden]]
+- [[query-what-is-a-gley-pond-and-how-does-it-work]]

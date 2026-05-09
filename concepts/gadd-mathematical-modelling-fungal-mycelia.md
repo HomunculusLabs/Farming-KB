@@ -1,5 +1,5 @@
 ---
-title: Mathematical Modelling of Fungal Mycelial Form and Function
+title: gadd mathematical modelling fungal mycelia of Fungal Mycelial Form and Function
 created: 2026-04-28
 tags:
   - mathematical-modelling
@@ -41,9 +41,9 @@ often neglected.
 
 Large-scale, spatio-temporal properties of fungal mycelia have been
 addressed by deriving systems of nonlinear partial differential equations
-that represent the interaction of fungal biomass and a growth-limiting
+that represent the interaction of [[bioremediation-fungal-biomass-biosorbent-material]] and a growth-limiting
 substrate. This approach is ideal for modelling dense mycelia growing on
-Petri dishes, foodstuffs, plant surfaces, and building materials. The
+Petri dishes, foodstuffs, plant surfaces, and [[natural-building-materials-guide]]. The
 strategy has allowed study of biomass distribution within mycelia in
 homogeneous and heterogeneous conditions, translocation in various
 habitat configurations, and functional consequences such as acid
@@ -92,8 +92,8 @@ The model tracks five coupled variables across five equations:
 Hyphal tips tend to move in straight lines with small random
 fluctuations, and tip growth rate depends on internal substrate status.
 Branching is modelled as proportional to internal substrate
-concentration, consistent with observations that turgor pressure and
-tip vesicle build-up regulate branching. Nutrient uptake depends on
+concentration, consistent with observations that [[bloomfield-turgor-pressure-and-hyphal-invasion]] and
+tip vesicle build-up regulate branching. [[plant-nutrient-uptake-mechanisms]] depends on
 external and internal substrate concentrations and hyphal surface area.
 Both active (metabolically driven) and passive (diffusive) translocation
 mechanisms are included.
@@ -122,7 +122,7 @@ short-range exploratory mechanism.
 
 ## Functional consequences: acid production
 
-Acidity production (from proton efflux and organic acid excretion) was
+Acidity production (from proton efflux and [[fungal-organic-acid-metal-solubilization]] excretion) was
 modelled as proportional to internal substrate concentration. The model
 generated pH profiles that accurately replicated and extended
 experimental measurements. In tessellated agar droplet systems with

@@ -14,17 +14,17 @@ sources:
   - Leafly Staff (2024). "Gelato #41 Strain Information." Leafly.com.
   - AllBud (2024). "Gelato 41 Marijuana Strain." AllBud.com.
   - Cookies SF (2023). "Strain Library: Gelato Lineage." Cookies.com.
-  - Smart B, et al. (2022). "Cannabinoid and terpene profiles of popular Gelato phenotypes." Journal of Cannabis Research 4(1): 32.
+  - Smart B, et al. (2022). "Cannabinoid and [[cannabis-terpene-profiles-sativa]] of popular Gelato phenotypes." Journal of Cannabis Research 4(1): 32.
   - Clarke RC, Merlin MD (2013). Cannabis: Evolution and Ethnobotany. University of California Press.
 ---
 
 ## Overview
 
-**Gelato 41** is a premium cannabis strain and a specific phenotype of the original **Gelato** cross. It is numbered "41" as one of the numbered phenotypes selected by the breeders at Cookie Family genetics in San Francisco during their Gelato breeding program.
+**Gelato 41** is a premium cannabis strain and a specific phenotype of the original **Gelato** cross. It is numbered "41" as one of the numbered phenotypes selected by the breeders at Cookie Family genetics in San Francisco during their Gelato [[cervantes-breeding-program-design-goal-setting]].
 
 Gelato 41 is widely regarded as the **most potent and desirable** of the numbered Gelato phenotypes. It combines the sweet, dessert-like aroma of the Gelato line with exceptional resin production and a balanced but powerful hybrid effect profile.
 
-The strain has become a foundational parent in modern cannabis breeding, contributing genetics to numerous popular crosses including **Jungle Cake**, **Ice Cream Cake**, and **Jealousy**.
+The strain has become a foundational parent in modern [[oner-cannabis-breeding-fundamentals]], contributing genetics to numerous popular crosses including **Jungle Cake**, **Ice Cream Cake**, and **Jealousy**.
 
 ## Lineage
 
@@ -91,7 +91,7 @@ At higher doses, the indica influence becomes more pronounced, potentially leadi
 
 ### Pests and Diseases
 
-Gelato 41 shows moderate resistance to powdery mildew and botrytis. The dense bud structure can trap moisture, making the late flowering period a critical window for humidity management. Spider mites are the most common pest issue.
+Gelato 41 shows moderate resistance to [[cervantes-powdery-mildew-prevention-treatment]] and botrytis. The dense bud structure can trap moisture, making the late flowering period a critical window for [[stamets-cultivator-humidity-management-fogging-systems]]. Spider mites are the most common pest issue.
 
 Preventive measures include maintaining adequate airflow, avoiding overhead watering during flowering, and applying integrated pest management (IPM) protocols with biological controls (ladybugs, predatory mites) before chemical interventions.
 
@@ -99,7 +99,7 @@ Preventive measures include maintaining adequate airflow, avoiding overhead wate
 
 Medical cannabis patients commonly use Gelato 41 for **chronic stress management**, reporting rapid onset of mood elevation and mental relaxation. The balanced hybrid effect allows functional use during the day at lower doses.
 
-The strain has shown anecdotal effectiveness for **neuropathic pain**, fibromyalgia, and tension headaches. The high myrcene and caryophyllene content may contribute to anti-inflammatory and analgesic effects, though clinical research is lacking.
+The strain has shown anecdotal effectiveness for **neuropathic pain**, fibromyalgia, and tension headaches. The high myrcene and caryophyllene content may contribute to anti-inflammatory and analgesic effects, though [[hofmann-lsd-clinical-research-early-studies]] is lacking.
 
 Some patients report appetite stimulation benefits, making Gelato 41 potentially useful for conditions involving nausea or appetite suppression. The linalool content may provide mild anxiolytic effects that complement THC's therapeutic properties.
 

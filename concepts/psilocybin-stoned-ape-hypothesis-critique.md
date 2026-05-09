@@ -3,26 +3,26 @@ title: Critique of the Stoned Ape Hypothesis
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - The Psilocybin Solution by Simon G. Powell
+  - The powell-psilocybin-solution-ecological-cognition-theory by Simon G. Powell
 type: concept
 tags: [psilocybin]
 ---
 
 # Critique of the Stoned Ape Hypothesis
 
-The idea that psychedelic mushrooms played a role in human evolution -- popularised by Terence McKenna as the "stoned ape hypothesis" -- has generated considerable debate. While Powell's work explores the prehistorical relevance of psilocybin with genuine interest, it also provides important critical perspectives on the more speculative claims associated with this hypothesis.
+The idea that psychedelic mushrooms played a role in human evolution -- popularised by [[terence-mckenna]] as the "stoned ape hypothesis" -- has generated considerable debate. While Powell's work explores the prehistorical relevance of [[psilocybin]] with genuine interest, it also provides important critical perspectives on the more speculative claims associated with this hypothesis.
 
 ## The Core Hypothesis
 
-The stoned ape hypothesis, as articulated by McKenna and others, proposes that psilocybin-containing mushrooms were a significant factor in the evolution of human consciousness, language, and culture. The basic narrative holds that early hominids accidentally ingested hallucinogenic mushrooms while foraging, and that the resulting alterations in consciousness catalysed key developments in human cognition and social organisation.
+The stoned ape hypothesis, as articulated by McKenna and others, proposes that psilocybin-containing mushrooms were a significant factor in the evolution of human consciousness, language, and culture. The basic narrative holds that early hominids accidentally ingested [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] while foraging, and that the resulting alterations in consciousness catalysed key developments in human cognition and social organisation.
 
 Professor David Nichols, president of the Heffter Research Institute, frames a moderate version of this idea: "One can imagine an early hominid accidentally ingesting a hallucinogenic mushroom while foraging for edible foodstuffs. Knowledge of these drugs was handed down through the generations and led to the creation of rituals around their use."
 
 ## Archaeological Evidence
 
-The prehistorical use of psilocybin mushrooms is supported by certain archaeological findings. Rock paintings found at Tassili in Northern Algeria, dating from before 6000 BC (a long time before the Mexican use of psilocybin mushrooms), show mythical shaman-like beings covered in mushrooms. These mushroom motifs are very distinct.
+The prehistorical [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] ushrooms is supported by certain archaeological findings. Rock paintings found at Tassili in Northern Algeria, dating from before 6000 BC (a long time before the Mexican use of psilocybin mushrooms), show mythical shaman-like beings covered in mushrooms. These mushroom motifs are very distinct.
 
-Many have therefore argued that the Goddess-worshipping peoples who inhabited Tassili and who eventually migrated to other parts of the globe used locally gathered psilocybin mushrooms (such as the large species Stropharia cubensis) and that psilocybin influenced their beliefs about Nature and helped evolve many of those aspects of human consciousness (like language, ritual, art etc.) which make our species so unique.
+Many have therefore argued that the Goddess-worshipping peoples who inhabited Tassili and who eventually migrated to other parts of the globe used locally gathered psilocybin mushrooms (such as the large  cubensis) and that psilocybin influenced their beliefs about Nature and helped evolve many of those aspects of human consciousness (like language, ritual, art etc.) which make our species so unique.
 
 ## The Gaian Perspective
 
@@ -55,17 +55,17 @@ McKenna himself has on other occasions conceded that the alien is merely the Oth
 
 Powell's most significant contribution to the debate is his insistence that the stoned ape hypothesis is ultimately about a conceptual paradigm rather than a specific historical proof. The question is not whether psilocybin definitively caused this or that specific evolutionary development, but whether the paradigm that sees consciousness as chemically mutable and potentially enhanced by natural agents is valid.
 
-On this question, the evidence is compelling. Psilocybin can and does alter consciousness in profound ways. It can induce experiences indistinguishable from classical mystical experiences. It has been used in religious contexts for millennia. These facts are not in dispute. What remains open to debate is the extent to which such experiences shaped the trajectory of human evolution.
+On this question, the evidence is compelling. Psilocybin can and does alter consciousness in profound ways. It can induce experiences indistinguishable from classical [[psilocybin-mystical-experiences-personality-change]]. It has been used in religious contexts for millennia. These facts are not in dispute. What remains open to debate is the extent to which such experiences shaped the trajectory of human evolution.
 
 ## The Naturalness Argument
 
-One of Powell's strongest arguments, relevant to the stoned ape debate, is the fundamental naturalness of psilocybin. Serotonin, the neurotransmitter that psilocybin mimics, has emerged as a key neurotransmitter because it can be produced from raw materials available in food. The various compounds employed by brains in order to process information have evolved over millions of years and they are determined by the chemicals available in the environment.
+One of Powell's strongest arguments, relevant to the stoned ape debate, is the fundamental naturalness of psilocybin. [[serotonin]], the neurotransmitter that psilocybin mimics, has emerged as a key neurotransmitter because it can be produced from raw materials available in food. The various compounds employed by brains in order to process information have evolved over millions of years and they are determined by the chemicals available in the environment.
 
-If psilocybin mushrooms have been present in the environments inhabited by humans and their ancestors -- as the global distribution of psilocybin species suggests -- then it is entirely plausible that they have been occasionally ingested and have influenced human consciousness and culture. The question is not whether this happened but how significant its effects were relative to other evolutionary pressures.
+If psilocybin mushrooms have been present in the environments inhabited by humans and their ancestors -- as the [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]] of psilocybin species suggests -- then it is entirely plausible that they have been occasionally ingested and have influenced human consciousness and culture. The question is not whether this happened but how significant its effects were relative to other evolutionary pressures.
 
 ## Prehistorical Evidence Beyond Tassili
 
-The Tassili rock paintings are not the only evidence for ancient psilocybin use. Mushrooms containing psilocybin are indigenous to most parts of the Earth's Temperate Zone, and their global distribution suggests that they have been available to human populations throughout our species' history. Unbeknown to virtually anyone at the time of Wasson's discovery, mushrooms containing psilocybin were to be found growing throughout Europe and North America, and not just in Mexico.
+The Tassili rock paintings are not the only evidence for ancient psilocybin use. Mushrooms containing psilocybin are indigenous to most parts of the Earth's Temperate Zone, and their global distribution suggests that they have been available to human populations throughout our species' history. Unbeknown to virtually anyone at the time of Wasson's discovery, mushrooms containing psilocybin were to be found growing throughout Europe and [[psilocybin-north-america-pacific-northwest]], and not just in Mexico.
 
 It has been speculated that psilocybin was known about by prehistoric Europeans, and that its use influenced the dreamy spiral icons carved on rocks in places like Ireland. Interested readers should consult Paul Devereux's 1997 book The Long Trip for more information on this incipient subject. The Earth, Gaia, a far more efficient and ubiquitous supplier of entheogens than the lab-men at Sandoz, was secretly churning out millions of psilocybin mushrooms across its skin.
 

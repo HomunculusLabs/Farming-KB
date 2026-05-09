@@ -1,5 +1,5 @@
 ---
-title: Mescalero Apache Peyote Shamanism
+title: Mescalero mescalero-apache-peyote-use Shamanism
 created: 2026-04-26
 sources: Harner (ed.), Hallucinogens and Shamanism (1973), Ch. 5 (Boyer, Boyer, Basehart)
 related:
@@ -74,11 +74,13 @@ During 1959-60, there were thirteen accredited Mescalero, Chiricahua, and Lipan 
 
 ## Contrast with Other Tribal Peyote Use
 
-The Mescalero case stands in sharp contrast to the usual picture of amiable, harmonious group sessions of peyote use among other North American tribes, and to the similarly harmonious communal use of ayahuasca among the Cashinahua, Sharanahua, and Campa of the Peruvian Amazon. As with the Jivaro of the Ecuadorian Amazon, hallucinogen use among the Mescalero was identified with individualistic and often hostile supernatural activity.
+The Mescalero case stands in sharp contrast to the usual picture of amiable, harmonious group sessions of peyote use among other [[growing-gourmet-north-american-reishi-species]] tribes, and to the similarly harmonious communal use of ayahuasca among the Cashinahua, Sharanahua, and Campa of the Peruvian Amazon. As with the Jivaro of the Ecuadorian Amazon, hallucinogen use among the Mescalero was identified with individualistic and often hostile supernatural activity.
 
-The peyote ceremonies were never accompanied by the acceptance of Christian beliefs and practices, and the Mescaleros never became involved in the formal Peyote Religion. The use of peyote was intended to affirm the vitality of traditional religious practices at a time when reservation confinement contributed to an increased awareness of social and cultural deprivation. The failure of peyote to integrate into communal religious life illustrates the importance of personality and culture in affecting the impact of the hallucinogenic drug experience.
+The [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]] were never accompanied by the acceptance of Christian beliefs and practices, and the Mescaleros never became involved in the formal Peyote Religion. The use of peyote was intended to affirm the vitality of traditional religious practices at a time when reservation confinement contributed to an increased awareness of social and cultural deprivation. The failure of peyote to integrate into communal religious life illustrates the importance of personality and culture in affecting the impact of the [[emcdda-hallucinogenic-drug-classification-and-terminology-taxonomy]] experience.
 
 ## See Also
+
+- [[mescalero-apache-shamanism-peyote-adoption-rejection]]
 
 - [[hallucinogens-and-shamanism-harner-anthology]]
 - [[harner-shamanic-journey-and-altered-states]]

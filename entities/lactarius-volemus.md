@@ -42,7 +42,7 @@ phosphorus, and B vitamins.
 
 ## [[lichens]]
 - **Sterols** — [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]
-- **Fatty acids** — linoleic acid predominant, with oleic and
+- **[[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]** — linoleic acid predominant, with oleic and
   palmitic as minor components
 
 Preliminary studies suggest mild antioxidant and anti-inflammatory
@@ -60,7 +60,7 @@ compaction, making it a potential bioindicator of forest health.
 
 - *L. corrugis* — darker cap, latex browns more slowly, stronger odor
 - *L. hygrophoroides* — distant gills, latex does not brown
-- *L. rubrilacteus* — latex turns wine-red, western North America
+- *L. rubrilacteus* — latex turns wine-red, western [[psilocybin-north-america-pacific-northwest]]
 - *L. quietus* — latex white, mild taste, more muted brown cap
 
 The combination of cross-veined gills, rapidly browning latex, and
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

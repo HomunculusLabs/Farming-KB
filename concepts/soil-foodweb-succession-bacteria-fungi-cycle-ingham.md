@@ -1,5 +1,5 @@
 ---
-title: Soil Foodweb Succession Bacteria Then Fungi Cycle
+title: Soil soil foodweb succession bacteria fungi cycle ingham Bacteria Then Fungi Cycle
 created: 2026-04-28
 tags: [soil-science, soil-foodweb, ecological-succession, bacteria, fungi, compost, decomposition, ingham]
 date: 2026-04-28
@@ -22,7 +22,7 @@ Fungi possess several advantages over bacteria for degrading complex organic mat
 - **Hyphal penetration**: Fungal hyphae can physically penetrate solid substrates that bacteria cannot access from the outside
 - **Enzyme diversity**: Fungi produce a wider range of extracellular enzymes, including cellulases, ligninases, and phenol oxidases
 - **Nitrogen scavenging**: Fungi can grow in low-nitrogen environments by efficiently scavenging and recycling nitrogen
-- **Translocation ability**: Fungi can transport nutrients from one location to another through their mycelial networks, enabling them to colonize nutrient-poor substrates using resources gathered from elsewhere
+- **Translocation ability**: Fungi can transport nutrients from one location to another through their [[fungal-mycelial-networks-nutrient-translocation]], enabling them to colonize nutrient-poor substrates using resources gathered from elsewhere
 
 As fungal biomass increases, the soil environment shifts:
 
@@ -36,7 +36,7 @@ As bacterial and fungal populations establish, their microbial predators follow.
 
 - **Nutrient mineralization**: When protozoa consume bacteria, they release excess nitrogen and other nutrients in plant-available forms. Bacteria have a low carbon-to-nitrogen ratio (around 5:1), while protozoa require a higher ratio (around 10:1). The difference is excreted as ammonium, which plants can absorb.
 
-- **Population control**: Grazing prevents bacterial and fungal populations from crashing after their initial food source is depleted. By keeping microbial populations in a growth phase, grazing maintains nutrient cycling activity.
+- **Population control**: Grazing prevents bacterial and fungal populations from crashing after their initial food source is depleted. By keeping microbial populations in a growth phase, grazing maintains [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] activity.
 
 - **Foodweb stimulation**: The presence of protozoa and nematodes stimulates bacterial and fungal activity, creating a self-reinforcing cycle of nutrient mineralization.
 
@@ -49,18 +49,18 @@ In mature soils, the foodweb develops additional trophic levels including:
 - **Earthworms** that physically process organic matter and create burrow networks
 - **Higher predators** including ground beetles, centipedes, and spiders
 
-Each additional trophic level adds complexity and stability to the nutrient cycling system. Complex foodwebs are more resistant to disturbance, more efficient at nutrient retention, and more effective at disease suppression.
+Each additional trophic level adds complexity and stability to the nutrient cycling system. Complex foodwebs are more resistant to disturbance, more efficient at nutrient retention, and more effective at [[aact-disease-suppression-mechanisms-ingham]].
 
 ## Managing Succession with Compost Tea
 
 The practical application of understanding soil foodweb succession lies in managing the bacterial-to-fungal ratio of [[elaine-ingham]] recommends matching the tea biology to the plant community being supported:
 
-| Plant Community | Preferred Tea Type | Target Bacterial to Fungal Ratio |
+| Plant Community | Preferred Tea Type | Target [[ingham-bacterial-to-fungal-succession-soil-food-web]] Ratio |
 |---|---|---|
 | Annual vegetables, brassicas | Bacterial tea | Bacteria dominant (10:1 or higher) |
 | Lawn grass, turf | Bacterial tea | Bacteria dominant |
 | Row crops, grains | Balanced tea | Slightly bacterial |
-| Perennial vegetables | Balanced tea | Slightly fungal |
+| [[comparison-perennial-vegetables-vs-cover-crops]] | Balanced tea | Slightly fungal |
 | Pasture, range | Balanced to fungal | Approaching 1:1 |
 | Shrubs, berries | Fungal tea | Fungi dominant (1:10 or higher) |
 | Deciduous trees | Fungal tea | Strongly fungal |
@@ -86,6 +86,6 @@ When making [[ingham-osmotic-shock-sugar-selection-bacteria-fungi]]
 
 - [[soil-food-web-nutrient-cycling]]
 - [[bacterial-vs-fungal-compost-teas]]
-- [[glomalin]]
+- [[glomalin-and-soil-carbon]]
 - compost
 - [[ingham-nutrient-cycling-soil-food-web]]

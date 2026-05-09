@@ -21,7 +21,7 @@ updated: 2026-04-28
 sources:
   - Danesch, U. (2004). "Petasites hybridus extract in migraine." Neurology, 63(2), 2240-2244.
   - Schmitz, K. et al. (2019). "Petasin and isopetasin from Petasites." Phytomedicine, 55, 81-88.
-  - Blumenthal, M. et al. (2000). Herbal Medicine: Expanded Commission E Monographs. Integrative Medicine Communications.
+  - Blumenthal, M. et al. (2000). herbal-medicine: Expanded Commission E Monographs. Integrative Medicine Communications.
   - Meister, A. et al. (1999). "Petasites hybridus for allergic rhinitis." BMJ, 318(7177), 80.
 ---
 
@@ -32,12 +32,12 @@ herbaceous plant in the family Asteraceae, native to Europe and parts of
 Asia. It is one of the best-documented [[permaculture]] Role
 
 - **Propagation:** Division of rhizome segments in spring or autumn;
-  seed propagation difficult but possible with cold stratification
+  [[jeavons-seed-propagation-techniques]] difficult but possible with cold stratification
 - **Growth:** Rapid vegetative spread via rhizome; forms large
   colonies within 2–3 years; tolerates full sun to partial shade
 - **Permaculture applications:** Excellent riparian stabilizer with
-  massive root systems; large leaves provide heavy mulch; bee forage
-  in early spring before most plants flower; however, its aggressive
+  massive root systems; large leaves provide heavy mulch; [[mollison-designers-bee-forage-tree-planting]]
+  in [[coleman-overwintered-onions-and-early-spring-crops]] before most plants flower; however, its aggressive
   spread requires containment (root barriers)
 ## See Also
 
@@ -62,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -104,4 +104,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

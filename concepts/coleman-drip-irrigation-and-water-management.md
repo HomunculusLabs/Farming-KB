@@ -1,5 +1,5 @@
 ---
-title: Drip Irrigation and Water Management
+title: comparison-drip-irrigation-vs-passive-irrigation and Water Management
 created: 2026-04-28
 tags:
   - irrigation
@@ -16,7 +16,7 @@ type: concept
 
 # Drip Irrigation and Water Management
 
-Water management in the winter harvest system is fundamentally different
+Water management in the [[coleman-claytonia-winter-harvest-cultivation]] system is fundamentally different
 from summer growing. The cold, low-light environment of an unheated
 greenhouse dramatically reduces evaporation, and the freeze-thaw cycles
 of winter create unique challenges for irrigation. Coleman's approach
@@ -28,7 +28,7 @@ overwatering in cold conditions.
 Coleman traditionally did not water in the greenhouses from about
 mid-November to early March, since the soil seemed moist enough and
 evaporation levels were low along with the low sun angle. However, a
-pest problem led him to revise this practice. When aphids appeared on
+[[fukuoka-textdoc-pesticide-creates-pest-problem-citrus-orchard]] led him to revise this practice. When aphids appeared on
 spinach starting in early to mid-February, research showed that nitrogen
 levels in the soil were the main factor in aphid multiplication. Nitrogen
 can build up in the soil when there has been no rain or irrigation to
@@ -39,7 +39,7 @@ did not cause any new problems, and he continues the practice.
 
 ## Irrigation for Weed Management
 
-Irrigation plays a strategic role in Coleman's weed control program. When
+Irrigation plays a strategic role in Coleman's [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]] program. When
 practicing pre-emergence flaming, the seedbed may be irrigated during the
 pre-sowing period to encourage weed-seed germination. The weeds are then
 flamed off before the crop emerges. Coleman notes that irrigating after
@@ -64,7 +64,7 @@ garden.
 All irrigation and wash water at Four Season Farm comes from a drilled
 well that is tested annually. Water quality is particularly important for
 a farm selling fresh, raw foods. The washing and packing system must be
-prevented from freezing, which influences greenhouse design. One-quarter
+prevented from freezing, which influences [[passive-solar-design]]. One-quarter
 of the original washing and packing greenhouse had a concrete floor with
 space for the washing and packing operation, requiring protection from
 freezing temperatures.
@@ -106,7 +106,7 @@ manage nitrogen levels and maintain biological activity in the soil
 rather than to supply water for transpiration. In spring, as light levels
 and temperatures rise, irrigation frequency increases again. Understanding
 these seasonal rhythms helps growers avoid both waterlogging and drought
-stress in the protected growing environment.
+stress in the protected [[cannabis-growing-environment-setup]].
 
 ## Related
 

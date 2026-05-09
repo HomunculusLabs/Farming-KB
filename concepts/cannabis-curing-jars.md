@@ -1,5 +1,5 @@
 ---
-title: Cannabis Curing Jars
+title: green-cannabis-curing-drying-buds Jars
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -12,7 +12,7 @@ tags: [cannabis]
 
 ## Overview
 
-Curing jars are airtight glass containers used to slowly and evenly dry harvested cannabis buds, converting THC to its psychoactive form and developing full aroma and flavor. According to Cervantes, ordinary canning jars are the ideal container because they allow buds to be admired while being protected, and glass does not impart any plastic or metal odors.
+Curing jars are airtight glass containers used to slowly and evenly dry harvested [[query-what-causes-airy-loose-cannabis-buds-and-how-to-prevent-them]], converting THC to its psychoactive form and developing full aroma and flavor. According to Cervantes, ordinary canning jars are the ideal container because they allow buds to be admired while being protected, and glass does not impart any plastic or metal odors.
 
 ## Why Cure in Jars
 

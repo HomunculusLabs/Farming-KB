@@ -1,11 +1,12 @@
 ---
-title: Cannabis Flower Anatomy
+title: cervantes cannabis flower anatomy Anatomy
 created: 2026-04-26
 tags: [cannabis, flower-anatomy, calyx, pistil, botany]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -87,7 +88,7 @@ is the large, dominant flower cluster at the top of the plant.
 Terminal buds on main branches form additional large colas. Pistil-
 packed calyxes form these dense clusters along stems. A cluster of
 buds is often called a "top." Plants with strong apical dominance
-naturally form one large main cola, while training techniques like
+naturally form one large main cola, while [[cannabis-training-techniques-comparison]] like
 topping and SCROG encourage multiple colas of similar size.
 
 ## Male Flower Anatomy
@@ -111,7 +112,7 @@ and calyx production rather than seed development.
 
 ## See Also
 
-- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] - trichomes and resin
+- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] - [[greg-green-trichomes-and-resin-glands]]
   glands
 - [[cervantes-sex-determination-pre-flowering]] - identifying sex
   from pre-flowers

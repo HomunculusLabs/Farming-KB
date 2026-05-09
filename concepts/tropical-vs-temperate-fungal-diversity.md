@@ -1,22 +1,23 @@
 ---
-title: Tropical vs Temperate Fungal Diversity
+title: Tropical vs tropical vs temperate fungal diversity Diversity
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [reference]
-sources: []
+sources:
+  sources: []
 ---
 # Tropical vs Temperate Fungal Diversity
 
 ## Overview
 
-The latitudinal diversity gradient — the pattern of increasing species richness from poles to tropics — is one of the most fundamental patterns in biology. For fungi, this gradient is less well documented than for plants and animals, but accumulating evidence suggests that fungal diversity, like plant diversity, is generally higher in tropical regions. However, the relationship is complex and varies across fungal functional groups and habitats. Many circumstantial data, but limited direct evidence, support the commonly held view that species diversity of the fungi as a whole is greater in tropical regions than in temperate ones.
+The latitudinal [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]] — the pattern of increasing species richness from poles to tropics — is one of the most fundamental patterns in biology. For fungi, this gradient is less well documented than for plants and animals, but accumulating evidence suggests that fungal diversity, like plant diversity, is generally higher in tropical regions. However, the relationship is complex and varies across fungal functional groups and habitats. Many circumstantial data, but limited direct evidence, support the commonly held view that species diversity of the fungi as a whole is greater in tropical regions than in temperate ones.
 
 ## Evidence for Higher Tropical Diversity
 
 ### Plant Diversity as a Driver
 
-Plant diversity is the primary driver of fungal diversity, and since tropical forests harbor the greatest plant species richness, they are expected to support the greatest fungal diversity. The strong positive correlation between vascular plant diversity and soil fungal diversity, consistently observed in temperate regions, likely extends to tropical systems. The taxonomic diversity and structural variety of plant taxa exert the greatest influence on microfungal diversity because such a large proportion have at least some degree of host and substratum preference. Lignified tissues such as wood, bark, and bamboo stems decay much more slowly than non-lignified remains and therefore exhibit more extensive succession of fungal species. Distinct guilds of fungi are associated with dead bryophytes, algae, grasses, and other plant groups, suggesting that the diversity of fungi will be strongly positively correlated with the numbers of these plant groups.
+Plant diversity is the primary driver of fungal diversity, and since tropical forests harbor the greatest plant species richness, they are expected to support the greatest fungal diversity. The strong positive correlation between vascular plant diversity and soil fungal diversity, consistently observed in temperate regions, likely extends to tropical systems. The taxonomic diversity and structural variety of plant taxa exert the greatest influence on [[leaf-litter-microfungal-diversity-tropical-temperate]] because such a large proportion have at least some degree of host and substratum preference. Lignified tissues such as wood, bark, and bamboo stems decay much more slowly than non-lignified remains and therefore exhibit more extensive succession of fungal species. Distinct guilds of fungi are associated with dead bryophytes, algae, grasses, and other plant groups, suggesting that the diversity of fungi will be strongly positively correlated with the numbers of these plant groups.
 
 ### Endophyte Diversity
 
@@ -28,13 +29,13 @@ Tropical forests produce macrofungal fruitings throughout the year (rather than 
 
 ### Soil Fungi
 
-Tropical soils contain many minor or rare genera that appear to be primarily tropical in distribution. Among Aspergillus species, a large group of typically tropical species exists. Tropical soils often show distinct assemblages of Penicillium, Trichoderma, and other common genera. However, recent evidence indicates that species diversity in tropical soils is comparable to that in temperate soils when standardized methods are used, suggesting the gradient may be weaker for soil fungi than for plant-associated microfungi. Tropical soils also contain many minor or rare genera commonly associated with overlying litter, whose rarity in mineral soils could indicate incidental introduction.
+[[mollison-designers-tropical-soils-and-cation-exchange-management]] contain many minor or rare genera that appear to be primarily tropical in distribution. Among Aspergillus species, a large group of typically tropical species exists. Tropical soils often show distinct assemblages of Penicillium, Trichoderma, and other common genera. However, recent evidence indicates that species diversity in tropical soils is comparable to that in temperate soils when standardized methods are used, suggesting the gradient may be weaker for soil fungi than for plant-associated microfungi. Tropical soils also contain many minor or rare genera commonly associated with overlying litter, whose rarity in mineral soils could indicate incidental introduction.
 
 ### Quantitative Evidence from Specific Groups
 
 Cannon (1997a) found that the number of species of the Phyllachoraceae ([[fungal-biodiversity-by-ecosystem]] — diversity across ecosystem types
 - [[endophytic-fungal-diversity]] — endophyte diversity patterns
-- [[soil-fungal-diversity]] — soil fungal community composition
+- [[soil-fungal-diversity]] — soil fungal [[core-endorhiza-bacterial-community-composition-cannabis]]
 - [[fungal-biodiversity-tropical-forests]] — tropical forest fungal diversity
 
 ## See Also
@@ -56,7 +57,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -98,4 +99,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

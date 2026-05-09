@@ -30,7 +30,7 @@ of monoamine oxidase A (RIMA). It is not psychedelic alone but
 enables oral DMT activity by blocking first-pass metabolism in
 the gut and liver. Closely related to harmine (7-hydroxy vs
 7-methoxy), harmaline is generally more sedating. It occurs
-naturally in Syrian Rue (*Peganum harmala*) and the Ayahuasca
+naturally in [[golden-guide-syrian-rue-and-maoi-plants]] (*[[mckenna-food-gods-peganum-harmala-soma]]*) and the Ayahuasca
 vine (*Banisteriopsis caapi*).
 
 ## Chemical Identity
@@ -46,7 +46,7 @@ vine (*Banisteriopsis caapi*).
 ## Natural Occurrence
 
 - **Peganum harmala** (Syrian Rue) — seeds contain 3–4%
-  mixed harmala alkaloids; harmaline is a major constituent.
+  mixed [[turner-harmala-alkaloids-preparation-and-dosage]]; harmaline is a major constituent.
 - **Banisteriopsis caapi** (Ayahuasca vine) — bark contains
   harmaline, harmine, and tetrahydroharmine.
 - **Passiflora incarnata** (Passionflower) — trace amounts
@@ -66,7 +66,7 @@ half-life of ~1–3 hours. Onset 20–60 min; duration 4–8 h.
 | GABA-A | ~10 µM        | Positive modul.   |
 
 Secondary actions include GABA-A modulation and imidazoline
-receptor binding, contributing to sedative effects.
+[[tihkal-receptor-binding-serotonin]], contributing to sedative effects.
 
 ## Subjective Effects
 
@@ -102,14 +102,14 @@ sedation than harmine-dominant ones.
 Harmaline is unscheduled in most countries including the U.S.
 Source plants face restrictions: *P. harmala* is scheduled
 in France, Russia, and parts of the Middle East; *B. caapi*
-is protected under South American regulations. Extracted
+is protected under [[chiric-caspi-brunfelsia-south-american-hallucinogen]] regulations. Extracted
 alkaloids sold for consumption may face Federal Analog Act
 scrutiny in the U.S.
 
 ## Toxicity and Safety
 
 > **Warning:** Harmaline is a reversible MAO-A inhibitor with
-> a narrow therapeutic window when combined with tyramine-rich
+> a narrow [[blesching-cannabis-therapeutic-window-dosing]] when combined with tyramine-rich
 > foods (aged cheese, cured meats, fermented products).
 > Ingesting tyramine can precipitate a hypertensive crisis. A
 > tyramine-restricted diet is mandatory for 12 hours before
@@ -130,7 +130,6 @@ nausea, vomiting, and tremor are common.
 | Tremorogenicity | Higher      | Lower             |
 
 The 7-hydroxy group increases polarity, affecting brain
-penetration and receptor interaction versus harmine.
 ## Related Compounds
 
 - **Harmine** — 7-methoxy analogue; more potent MAO-A

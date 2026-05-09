@@ -4,12 +4,12 @@ created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [fungal-ecology, mycology, ecology, forest-floor, decomposition, nutrient-cycling, mycorrhizal, fungi, ecosystem]
-sources: [raw/papers/mycelium-running-stamets.md, raw/papers/the-mushroom-cultivator-stamets.md]
+sources: sources: []
 ---
 
 # Fungal Ecology on the Forest Floor
 
-Fungi are the primary decomposers in forest ecosystems, playing an indispensable role in nutrient cycling, soil formation, and plant community dynamics. The forest floor is, in many ways, a fungal landscape.
+Fungi are the primary decomposers in forest ecosystems, playing an indispensable role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], soil formation, and plant community dynamics. The forest floor is, in many ways, a fungal landscape.
 
 ## The Role of Fungi in Decomposition
 
@@ -22,7 +22,7 @@ Fungi are non-photosynthetic organisms whose primary ecological role is decompos
 ## Wood Decay Fungi
 
 ### White Rot Fungi
-The most numerous decomposers of wood. Produce enzymes (lignin peroxidase, manganese peroxidase, laccase) that break down lignin, leaving cellulose intact. The wood takes on a white, fibrous appearance. Examples: oyster mushroom (Pleurotus ostreatus), turkey tail (Trametes versicolor), shiitake (Lentinula edodes), reishi (Ganoderma lucidum).
+The most numerous decomposers of wood. Produce enzymes (lignin peroxidase, [[fungal-manganese-peroxidase-remediation]], laccase) that break down lignin, leaving cellulose intact. The wood takes on a white, fibrous appearance. Examples: oyster mushroom (Pleurotus ostreatus), turkey tail ([[staycare-trametes-versicolor-bioremediation-applications]]), shiitake (Lentinula edodes), reishi ([[stamets-reishi-ganoderma-lucidum-cultivation]]).
 
 ### Brown Rot Fungi
 Only about 7% of mushrooms are brown rot fungi. Their enzymes break down cellulose, leaving behind brownish, cubically cracked lignin. Commonly seen on downed conifers. Examples: sulphur shelf (Laetiporus sulphureus), agarikon (Fomitopsis officinalis), split-gill polypore (Schizophyllum commune).
@@ -33,7 +33,7 @@ Mycorrhizal fungi form symbiotic associations with the roots of most forest tree
 
 - **Ectomycorrhizal**: Form a sheath around root tips; associate with oaks, pines, spruces, firs, birches. The fungal partner extends the root system's effective reach by 10-100x, accessing water and nutrients (especially phosphorus) far beyond the root zone.
 - **Endomycorrhizal (VAM)**: Penetrate root cells; associate with most herbaceous plants and some trees.
-- **The Wood Wide Web**: Mycelial networks connect multiple trees, facilitating nutrient transfer between individuals. A mother tree can send carbon to shaded seedlings through shared mycorrhizal networks.
+- **The Wood Wide Web**: [[fungal-mycelial-networks-nutrient-translocation]] connect multiple trees, facilitating nutrient transfer between individuals. A mother tree can send carbon to shaded seedlings through shared mycorrhizal networks.
 
 ## Soil Formation
 
@@ -54,7 +54,7 @@ Mushrooms feed a vast array of forest organisms: insects, slugs, deer, squirrels
 ## See Also
 
 - [[mycoforestry-forest-restoration]]
-- [[mycoremediation-overview]]
+- [[cotter-mycoremediation-overview]]
 - [[mushroom-foraging-safety]]
 ## Practical Considerations
 
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

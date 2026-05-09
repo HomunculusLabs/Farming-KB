@@ -24,7 +24,7 @@ stays as DMT. This avoids confusion.
 
 ## Chemical Family and Botanical Context
 
-NMT occupies a central position in tryptamine chemistry as the intermediate
+NMT occupies a central position in [[psilocybin-tryptamine-chemistry-fungi]] as the intermediate
 between tryptamine itself and DMT. The progression from unsubstituted tryptamine
 through N-methyltryptamine to N,N-dimethyltryptamine represents the simplest
 systematic variation of N-alkyl substitution, and understanding this progression
@@ -32,7 +32,7 @@ is fundamental to the broader exploration of tryptamine structure-activity
 relationships.
 
 In nature, NMT is found alongside DMT and [[5-meo-dmt-entity]] in a variety of plant
-species, particularly in the Virola genus (used in South American snuff
+species, particularly in the Virola genus (used in [[chiric-caspi-brunfelsia-south-american-hallucinogen]] snuff
 preparations) and various Acacia species (Australian native plants). The
 co-occurrence of NMT with DMT suggests that NMT serves as a biosynthetic
 intermediate in the plant's production of DMT, via a second N-methylation step
@@ -59,7 +59,7 @@ physiological role remains unclear.
 
 As a substrate for MAO enzymes, NMT would be expected to undergo rapid
 oxidative deamination following oral administration, explaining the lack of
-oral activity. Smoking bypasses first-pass metabolism and delivers the
+[[tihkal-oral-activity-mao-inhibition]]. Smoking bypasses first-pass metabolism and delivers the
 compound directly to the bloodstream, though the very brief duration of
 effects (approximately 15 seconds) suggests rapid CNS metabolism or clearance
 even when administered by this route.
@@ -108,7 +108,9 @@ should not be assumed to contain only NMT
 NMT is not specifically scheduled in most jurisdictions. In the US, NMT is not
 specifically listed on the federal controlled substances schedules, though it
 could potentially be treated as a DMT precursor or analogue under certain
-interpretations. The compound's natural occurrence in numerous plant species
+interpretations. The compound's [[brassinosteroid-natural-occurrence-plant-kingdoms]] in numerous plant species
 complicates regulatory approaches. Some jurisdictions may regulate it as a
 precursor chemical.
 ## See Also
+
+- [[nmt]]

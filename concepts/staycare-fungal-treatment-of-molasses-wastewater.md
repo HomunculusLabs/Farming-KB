@@ -32,7 +32,7 @@ extremely difficult to treat using conventional methods:
   substantial quantities of residual sugars, organic acids, and other
   fermentable compounds that create extremely high oxygen demand.
 - **Low biodegradability**: The melanoidin pigments are highly
-  recalcitrant to conventional aerobic and anaerobic biological
+  recalcitrant to conventional [[query-what-is-the-difference-between-aerobic-and-anaerobic-composting]] biological
   treatment processes.
 - **High mineral salt content**: The effluent contains elevated levels
   of potassium, calcium, and other mineral salts that can inhibit
@@ -50,7 +50,7 @@ functional groups including carboxyl, hydroxyl, and carbonyl groups.
 The combination of high molecular weight, aromatic character, and
 chemical heterogeneity makes melanoidins highly resistant to microbial
 degradation. Conventional activated sludge processes achieve little or
-no colour reduction in molasses spent wash, and anaerobic digestion has
+no colour reduction in molasses spent wash, and [[biogas-digester-basics]] has
 been shown to be ineffective for colour removal from these effluents.
 
 ## White Rot Fungi for Melanoidin Decolorization
@@ -76,7 +76,11 @@ treatment, with varying degrees of success. Key findings include:
 ## Enzymatic Mechanisms
 
 The decolorization of molasses spent wash by white rot fungi is
-attributed primarily to the action of ligninolytic enzymes, including
-Laccase Enzymes in Bioremediation, Lignin Peroxidase and Pollutant Degradation, and
-Manganese Peroxidase in [[kraft-pulp-bleach-effluent-fungal-treatment]],
+attributed primarily to the action of [[singh-ligninolytic-enzymes-fungal-bioremediation]], including
+[[singh-fungal-laccase-enzymes-bioremediation]] in Bioremediation, [[fungal-lignin-peroxidase-veratryl-alcohol]] and Pollutant Degradation, and
+[[fungal-manganese-peroxidase-remediation]] in [[kraft-pulp-bleach-effluent-fungal-treatment]],
 and [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]]
+
+## See Also
+
+- [[molasses-wastewater-fungal-decolorization]]

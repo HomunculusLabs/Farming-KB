@@ -1,5 +1,5 @@
 ---
-title: Organic Lawn Care (Hamilton Method)
+title: hamilton-organic-lawn-care Care (Hamilton Method)
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -12,8 +12,8 @@ sources:
 
 Updated: 2026-04-20
 
-Establishing and maintaining a lawn organically is entirely practical and produces excellent results. The key principles are proper soil preparation, appropriate feeding with organic fertilizers, correct mowing technique, and natural weed management. [[mollison-designers-plant-nursery-propagation-bed-design]] -- prepare the soil and let weed seeds germinate, then hoe them out before sowing
-2. If soil is light or lacks organic matter, apply a 2in (5cm) layer of [[composting-science-solomon]])
+Establishing and maintaining a lawn organically is entirely practical and produces excellent results. The key principles are proper soil preparation, appropriate feeding with [[hamilton-organic-fertilizers-and-plant-nutrition]], correct mowing technique, and natural [[fukuoka-weed-management-and-green-manure]]. mollison-designers-plant-nursery-propagation-bed-design -- prepare the soil and let weed seeds germinate, then hoe them out before sowing
+2. If soil is light or lacks [[hamilton-composting-and-organic-matter-management]], apply a 2in (5cm) layer of [[composting-science-solomon]])
 - Rake with a spring-tine rake at least once a year in spring to remove dead grass (thatch)
 - Trim edges with long-handled shears after mowing
 
@@ -39,7 +39,7 @@ Select grass seed mixtures appropriate to your site conditions and intended use:
 - **General-purpose lawns**: A blend of perennial ryegrass and fescues provides durability and reasonable appearance
 - **Fine lawns**: Chewings fescue and browntop bent create the close, velvety turf of formal lawns but require more maintenance
 - **Shady areas**: Include shade-tolerant varieties such as rough stalk meadow grass and creeping red fescue
-- **Drought-prone sites**: Hard fescue and tall fescue have deeper root systems and better drought tolerance
+- **Drought-prone sites**: Hard fescue and tall fescue have deeper root systems and better [[dighton-fungal-drought-tolerance-plant-water-relations]]
 
 ## Watering Wisely
 
@@ -52,7 +52,7 @@ Lawns are remarkably resilient and can survive extended dry periods by going dor
 - [[seasonal-gardening-calendar]]
 
 ## Source
-- Hamilton, Geoff & Nick Hamilton. "Organic Gardening." The Ornamental Garden section, lawn care, pp. 78-82.
+- Hamilton, Geoff & Nick Hamilton. "[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]." The Ornamental Garden section, lawn care, pp. 78-82.
 - [[hamilton-drought-gardening]]
 
 - [[hamilton-greenhouse-management-organic]]
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

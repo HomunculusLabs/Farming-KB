@@ -42,7 +42,7 @@ Flowers are small, greenish-white, approximately 5 mm in diameter, with separate
 
 The species is native to the Andean highlands from Venezuela and Colombia south through Ecuador, Peru, and Bolivia to northern Argentina. It grows at elevations between 1,500 and 3,000 meters, thriving in cool tropical highland conditions.
 
-Cultivated and naturalized populations are found in Central America, the Caribbean, and parts of subtropical Africa and Asia. The plant has been introduced to Europe and New Zealand as a novelty vegetable.
+Cultivated and naturalized populations are found in [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], the Caribbean, and parts of subtropical Africa and Asia. The plant has been introduced to Europe and New Zealand as a novelty vegetable.
 
 It prefers well-drained, fertile soils with moderate moisture and grows best in full sun to partial shade. The species is frost-sensitive but tolerates cool temperatures better than most cucurbits, making it well-suited to highland agriculture.
 
@@ -50,11 +50,11 @@ It prefers well-drained, fertile soils with moderate moisture and grows best in 
 
 Caigua is propagated from seed, either direct-sown or started in trays and transplanted after the last frost. Seeds germinate in 7–14 days at temperatures above 18°C. Spacing is typically 60–90 cm between plants along rows 1.5–2 m apart.
 
-The vine requires support for optimal production; trellises, fences, or string trellis systems are commonly used. Training the vine vertically improves air circulation and reduces disease pressure while making harvest easier.
+The vine requires support for optimal production; trellises, fences, or string trellis systems are commonly used. Training the vine vertically improves [[stamets-growing-room-air-circulation-co2-management]] and reduces disease pressure while making harvest easier.
 
 Fruiting begins 60–80 days after sowing. Fruits should be harvested at the immature stage when still pale green and tender, approximately 2–3 weeks after fruit set. Over-mature fruits become fibrous and develop bitter compounds.
 
-The crop is relatively pest-resistant compared to other cucurbits, though aphids, whiteflies, and powdery mildew can affect plants in humid conditions. Crop rotation and adequate spacing help minimize disease incidence.
+The crop is relatively pest-resistant compared to other cucurbits, though aphids, whiteflies, and [[cervantes-powdery-mildew-prevention-treatment]] can affect plants in humid conditions. Crop rotation and adequate spacing help minimize disease incidence.
 
 ## Culinary and Nutritional Use
 
@@ -86,11 +86,11 @@ Andean farmers maintain significant genetic diversity in caigua through traditio
 
 The species is not considered threatened in its native range, but landrace diversity is declining as commercial monoculture varieties replace traditional cultivars. Ex situ conservation collections are maintained at several agricultural research stations in Peru and Ecuador.
 
-Research institutions including the International Potato Center (CIP) in Lima have evaluated caigua germplasm for agronomic traits and nutritional composition. Breeding efforts have focused on uniformity of fruit shape, earliness, and disease resistance for commercial production.
+Research institutions including the International Potato Center (CIP) in Lima have evaluated caigua germplasm for agronomic traits and [[dighton-fungal-nutritional-composition-animal-diets]]. Breeding efforts have focused on uniformity of fruit shape, earliness, and disease resistance for commercial production.
 
 ## Economic Importance
 
-Caigua has significant economic value in Andean highland communities, where it is sold in local markets throughout the growing season. Prices are competitive with other fresh vegetables, and the long harvest window provides income stability for smallholder farmers.
+Caigua has significant economic value in Andean highland communities, where it is sold in local markets throughout the [[savory-growing-season-and-non-growing-season-management]]. Prices are competitive with other fresh vegetables, and the long harvest window provides income stability for smallholder farmers.
 
 International interest in caigua has grown due to its novelty appeal in specialty markets and its documented health benefits. Export-quality caigua is produced commercially in Peru and Ecuador for sale to ethnic markets in the United States and Europe.
 
@@ -102,7 +102,7 @@ The crop's reliance on insect pollination can limit fruit set in areas with decl
 
 Post-harvest losses are significant due to the fruit's high water content and thin skin. Cold chain infrastructure is limited in many producing regions, reducing market access for fresh caigua beyond local markets.
 
-Limited formal breeding programs mean that most cultivated caigua consists of unimproved landraces with variable performance. Development of standardized varieties with consistent quality traits would support expansion into commercial markets.
+Limited formal breeding programs mean that most cultivated caigua consists of unimproved landraces with variable performance. Development of standardized varieties with consistent [[cannabis-resin-production-and-quality-traits-clarke]] would support expansion into commercial markets.
 
 ## See Also
 

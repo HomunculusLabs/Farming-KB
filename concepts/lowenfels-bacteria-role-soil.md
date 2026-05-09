@@ -2,7 +2,7 @@
 title: "Bacteria and Their Role in Soil"
 created: 2026-04-26
 updated: 2026-04-25
-sources: "Jeff Lowenfels & Wayne Lewis, Teaming with Microbes"
+sources: "jeff-lowenfels & wayne-lewis, teaming-with-microbes-actinomycetes"
 wikilinks: "lowenfels-soil-food-web-overview lowenfels-fungi-role-soil lowenfels-protozoa-nematodes lowenfels-nutrients-soil-chemistry-ph-cec lowenfels-nutrients-nitrogen-cycle"
 type: concept
 tags: [soil]
@@ -23,19 +23,19 @@ bacterium can produce 5 billion offspring in 12 hours, but natural conditions
 
 ## Primary Decomposers
 
-Bacteria are among the earth's primary decomposers of organic matter, second only
+Bacteria are among the earth's primary decomposers of [[hamilton-composting-and-organic-matter-management]], second only
 to fungi. They decompose plant and animal material to ingest nitrogen, carbon
 compounds, and other nutrients, which are then held immobilized inside their
 bodies. Different kinds of soil bacteria survive on different food sources. Most
 do best decomposing young, still-fresh "green" plant material, which contains lots
 of sugars that are easier to digest than the complex carbon compounds of "brown"
-material (leaves, wood). Bacteria take in food directly through their cell walls
+material (leaves, wood). Bacteria take in food directly through their [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]
 via molecular transport -- membrane proteins act as pumps, using energy to push
 nutrients in and waste products out.
 
 ## Feeding and Root Exudates
 
-Root exudates are favorite foods for certain soil bacteria, and huge populations
+[[root-exudates]] are favorite foods for certain soil bacteria, and huge populations
 concentrate in the rhizosphere, where bacteria also find nutrition from cells
 sloughed off during root-tip growth. Bacteria use enzymes to break bonds holding
 organic chains together before ingestion. They have adapted over millennia to
@@ -52,7 +52,7 @@ vinegar. Facultative anaerobes like E. coli prefer anaerobic environments but
 can survive in aerobic conditions. Aerobic bacteria require air and are the
 beneficial group. The actinomycetes (order Actinomycetales, genus Streptomyces)
 produce the volatile chemicals that give soil its clean, earthy aroma. They grow
-filaments almost like fungal hyphae and are particularly adept at decaying
+filaments almost like [[fungal-hyphae-and-mycelium]] are particularly adept at decaying
 cellulose and chitin -- difficult-to-digest carbon compounds in plant cell walls
 and fungal/arthropod exoskeletons.
 

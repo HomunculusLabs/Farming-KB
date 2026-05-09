@@ -1,5 +1,5 @@
 ---
-title: "ALEPH-7 (4-Propylthio-2,5-dimethoxy-A) -- PIHKAL Entry #7"
+title: "ALEPH-7 (4-Propylthio-2,5-dimethoxy-A) -- 2c-b-pihkal-entry-20 #7"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # ALEPH-7
 
-PIHKAL entry #7. 4-Propylthio-2,5-dimethoxy-A.
+[[2c-b-pihkal-entry-20]] #7. 4-Propylthio-2,5-dimethoxy-A.
 
 ## Dosage and Duration
 
@@ -86,7 +86,7 @@ This drug was the first definition of the
 term, Beth state.
 
 There is something of the Fournier Transform in any and all drug
-experiments. A psychedelic drug experience is a complex combination
+experiments. A [[psychedelic-drug-testing-and-adulterant-screening]] experience is a complex combination
 of many signals going all at the same time. Something like the sound
 
 of an oboe playing the notes of the A-major scale. There are events

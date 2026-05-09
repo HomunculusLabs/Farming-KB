@@ -1,5 +1,5 @@
 ---
-title: "Moringa oleifera"
+title: "comparison-moringa-oleifera-vs-moringa-stenopetala"
 type: species
 tags: [herbal-plant, superfood, medicinal, permaculture, tropical]
 date: 2026-04-28
@@ -45,7 +45,7 @@ sources:
 
 ## Botanical Description
 
-*Moringa oleifera* is a fast-growing, drought-deciduous tree reaching **5–10 m** height (up to 12 m in optimal conditions), with whitish-gray corky bark and a deep taproot conferring exceptional drought tolerance. Leaves are tripinnately compound, 30–60 cm long, with 2–3 pairs of pinnae bearing 4–6 pairs of elliptic to obovate leaflets (1–2 cm × 0.5–1.2 cm). Inflorescences are axillary panicles (15–25 cm) with fragrant, bisexual flowers bearing 5 white spatulate petals and a monadelphous stamen column. Fruits are pendulous tri-lobed capsules (drumstick pods), 20–60 cm × 1.2–1.8 cm, containing 10–20 roughly globular seeds (~38% oil by weight) with three papery wings.
+*Moringa oleifera* is a fast-growing, drought-deciduous tree reaching **5–10 m** height (up to 12 m in optimal conditions), with whitish-gray corky bark and a deep taproot conferring exceptional [[dighton-fungal-drought-tolerance-plant-water-relations]]. Leaves are tripinnately compound, 30–60 cm long, with 2–3 pairs of pinnae bearing 4–6 pairs of elliptic to obovate leaflets (1–2 cm × 0.5–1.2 cm). Inflorescences are axillary panicles (15–25 cm) with fragrant, bisexual flowers bearing 5 white spatulate petals and a monadelphous stamen column. Fruits are pendulous tri-lobed capsules (drumstick pods), 20–60 cm × 1.2–1.8 cm, containing 10–20 roughly globular seeds (~38% oil by weight) with three papery wings.
 
 ## Distribution and Native Range
 
@@ -77,7 +77,7 @@ Dried leaf powder concentrates nutrients significantly: protein ~25–30 g, calc
 
 ## Traditional and Medicinal Uses
 
-In Ayurveda, known as *Shigru* (चिंग्रु), used for 3,000+ years for >300 conditions: *shothahara* (anti-inflammatory), *pramehahara* (antidiabetic), *krimighna* (anthelmintic), *stanyajanana* (galactagogue), *vranaropana* (wound healing). In Siddha medicine, classified as *Kayakalpam* (rejuvenative). In African traditional medicine: leaf tea for diabetes and hypertension, leaf powder for anemia, leaf soup for lactation, seed oil for skin conditions, crushed seeds for water coagulation (Sudan, Malawi).
+In Ayurveda, known as *Shigru* (चिंग्रु), used for 3,000+ years for >300 conditions: *shothahara* (anti-inflammatory), *pramehahara* (antidiabetic), *krimighna* (anthelmintic), *stanyajanana* (galactagogue), *vranaropana* (wound healing). In Siddha medicine, classified as *Kayakalpam* (rejuvenative). In African traditional medicine: leaf tea for diabetes and hypertension, leaf powder for anemia, leaf soup for lactation, seed oil for [[cannabis-for-skin-conditions-detailed]], crushed seeds for water coagulation (Sudan, Malawi).
 
 ## Modern Pharmacological Research
 
@@ -103,13 +103,13 @@ WHO-recommended for rural water treatment. Limitations: does not remove dissolve
 
 ## Permaculture and Agroforestry Applications
 
-A **foundation species** in tropical permaculture: fast growth (3–5 m/year), drought tolerance (250 mm rainfall), vigorous coppicing (harvest every 35–45 days), alley cropping with slow-release N-P-K leaf mulch (4.0:0.3:1.5), living fence (dense hedge in 3–4 months), windbreak, and near-continuous bee forage. Deep taproot mines subsoil nutrients.
+A **foundation species** in tropical permaculture: fast growth (3–5 m/year), drought tolerance (250 mm rainfall), vigorous coppicing (harvest every 35–45 days), [[comparison-alley-cropping-vs-silvopasture]] with slow-release N-P-K leaf mulch (4.0:0.3:1.5), living fence (dense hedge in 3–4 months), windbreak, and near-continuous bee forage. Deep taproot mines subsoil nutrients.
 
 ## Cultivation
 
 | Parameter | Details |
 |-----------|---------|
-| Propagation | Direct seeding (70–90% germination), stem cuttings (1–1.5 m), tissue culture |
+| Propagation | [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] (70–90% germination), stem cuttings (1–1.5 m), [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] |
 | Spacing | 2.5 × 2.5 m (leaf production); 3 × 3 m (pod production); 0.5 × 0.5 m (living fence) |
 | Water needs | 250–1,500 mm/year; minimal irrigation once established |
 | Soil | Adaptable: sandy loams, degraded soils, saline (up to EC 8 dS/m); pH 6.3–7.0 optimal |
@@ -123,8 +123,15 @@ A **foundation species** in tropical permaculture: fast growth (3–5 m/year), d
 - **Biodiesel**: Meets ASTM D6751 and EN 14214 standards; ~1,000–1,500 L/ha competitive with [[mollison-designers-moringa-and-multipurpose-tropical-trees]]
 - [[adaptogenic-herbs-guide]]
 
-- [[permaculture]] — Sustainable design framework
+- permaculture — Sustainable design framework
 - [[homestead-water-purification]] — Methods and technologies for potable water
 - Biodiesel — Renewable diesel fuel from biological sources
 - [[jatropha-curcas-entity]] — Tropical oilseed species
 - Superfood — Nutrient-dense foods with health benefits
+
+## See Also
+
+- [[amorphophallus-konjac]]
+- [[dracaena-draco]]
+- [[faidherbia-albida]]
+- [[lantana-camara]]

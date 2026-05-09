@@ -1,5 +1,5 @@
 ---
-title: "The Willow Basket Hotte: Manure Transport in the French Intensive System"
+title: "The coleman willow basket hotte manure transport Hotte: Manure Transport in the coleman-british-adoption-of-french-intensive-gardening System"
 source: eliot-coleman-winter-harvest-handbook
 topics: french-agriculture, tools, intensive-gardening, farm-infrastructure, history
 ---
@@ -8,7 +8,7 @@ topics: french-agriculture, tools, intensive-gardening, farm-infrastructure, his
 
 ## Narrow Paths and Human-Scale Logistics
 
-The Parisian maraicher system achieved extraordinary production
+The [[coleman-parisian-maraicher-system]] system achieved extraordinary production
 per unit area by devoting nearly all available space to growing
 crops. The access paths and walkways throughout the garden were
 only **10 inches wide** — far too narrow for wheelbarrow use. This
@@ -27,8 +27,8 @@ the back and shoulders.
 
 ### How the Hotte Was Used
 
-The worker would fill the hotte with fresh horse manure (for
-hotbed heat generation) or composted manure (for soil fertility),
+The worker would fill the hotte with fresh [[falconer-horse-manure-varieties]] (for
+hotbed heat generation) or [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]] (for soil fertility),
 then carry it along the narrow paths between the growing beds. To
 empty the basket at the desired location, the worker bent far
 forward, allowing the load of manure to tumble out of the backpack

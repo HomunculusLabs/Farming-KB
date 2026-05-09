@@ -23,7 +23,7 @@ type: concept
 The great plant-drug complex that spans the cultural divide from partnership
 paradise to dominator civilization is alcohol. Alcohol has its roots in the
 deepest stratum of Archaic cultural activities. Ancient civilizations of the
-Near East were preoccupied with beer making. Very early in the development of
+[[ancient-cannabis-use-near-east-and-egypt]] were preoccupied with beer making. Very early in the development of
 human culture, the intoxicating effects of fermented honey and fruit juices must
 have been noticed.
 
@@ -33,12 +33,12 @@ Honey is a magical substance, a medicinal substance in all traditional cultures.
 It has been used to preserve both human bodies and mushrooms. Mead, or fermented
 honey, seems to have been the recreational drug of the Indo-European tribes. This
 was a cultural trait they shared with the mushroom-using pastoralists of the
-ancient Near East.
+[[allegro-fertility-philosophy-of-the-ancient-near-east]] East.
 
 The belief widely held in the classical world that bees were generated from the
 carcasses of cattle makes more sense if seen as an effort to connect bees as a
 source of honey and mead, the supplanting intoxicant, with cattle and the older
-mushroom cult. Mead cults and mushroom cults that used honey as a preservative
+[[african-mushroom-cult-history]]. Mead cults and mushroom cults that used honey as a preservative
 may have developed in close association with each other.
 
 Honey is closely connected to the Great Goddess rites of the Archaic Minoan
@@ -113,7 +113,7 @@ transformation from sacred plant to profane chemical is the central theme of
 McKenna's history of human drug relationships.
 
 The Age of Enlightenment was firmly founded on a drug-based economy. The
-mercantile economy ran in large part on the tobacco of the North American colonies
+mercantile economy ran in large part on the tobacco of the [[growing-gourmet-north-american-reishi-species]] colonies
 and the distilled alcohol and raw sugar of the more tropical outposts. The
 pattern established with alcohol would repeat itself with opium, cocaine, and
 every subsequent drug crisis.

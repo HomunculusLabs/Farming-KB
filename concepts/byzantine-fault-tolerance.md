@@ -80,7 +80,7 @@ Key management is critical because cryptographic identity underlies trust.
 Economic systems must prevent bribery, collusion, and sybil attacks.
 Implementations must handle denial-of-service attacks and malformed messages.
 Formal verification is valuable because protocol errors can be catastrophic.
-Operational monitoring is needed to detect degraded liguzman-allen-gartz-[[ibotenic-acid-entity]]-fungi-cultural-significanceotice.
+Operational monitoring is needed to detect degraded liguzman-allen-gartz-ibotenic-acid-entity-fungi-cultural-significanceotice.
 ## Cultural significance
 Byzantine fault tolerance changed how engineers think about trust.
 It shows that systems can be built without assuming every component is honest.
@@ -104,4 +104,5 @@ If governance changes validator sets carelessly, assumptions may erode.
 ## Related Topics
 These links are conceptual neighbors in the broader wiki rather than direct farming synonyms.
 
-See also: [[holistic-grazing-and-pasture-management]]
+See also: [[pasture-management-and-forage]]
+- [[fungal-salt-tolerance-and-ion-homeostasis]]

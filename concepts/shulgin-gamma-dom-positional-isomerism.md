@@ -1,7 +1,7 @@
 ---
 title: Gamma-DOM (Z-7) - Positional Isomerism in Psychedelic Amphetamines
 source: shulgin-a-pihkal.md
-author: Alexander Shulgin
+author: [[alexander-shulgin]]
 topics: pihkal, gamma-DOM, Z-7, positional isomerism, DOM, psychedelic amphetamines, SAR
 ---
 
@@ -9,7 +9,7 @@ topics: pihkal, gamma-DOM, Z-7, positional isomerism, DOM, psychedelic amphetami
 
 ## Overview
 
-Gamma-DOM (2,6-dimethoxy-4-methylamphetamine), also known by the informal laboratory code Z-7, is a positional isomer of DOM (STP) that demonstrates how the placement of substituents on the benzene ring dramatically affects the pharmacological profile of psychedelic amphetamines. As PiHKAL entry #69, gamma-DOM provides a critical data point in understanding structure-activity relationships within the DO series.
+Gamma-DOM (2,6-dimethoxy-4-methylamphetamine), also known by the informal laboratory code Z-7, is a positional isomer of DOM (STP) that demonstrates how the placement of substituents on the benzene ring dramatically affects the pharmacological profile of psychedelic amphetamines. As [[2c-b-pihkal-entry-20]] #69, gamma-DOM provides a critical data point in understanding structure-activity relationships within the DO series.
 
 ## Chemical Identity
 
@@ -44,7 +44,7 @@ The 2,5-dimethoxy arrangement is the most common and potent pattern found across
 - 2C-B, 2C-I, 2C-E, 2C-D — all 2,5-dimethoxy-4-substituted
 - DOB, DOI, DOC, DOM — all 2,5-dimethoxy-4-substituted amphetamines
 
-The 2,5-dimethoxy configuration appears to be optimal for 5-HT2A receptor binding, which is the primary mechanism of action for classical psychedelics. When the methoxyl groups are shifted to the 2,6 or 2,4 positions, receptor affinity drops dramatically.
+The 2,5-dimethoxy configuration appears to be optimal for 5-HT2A [[tihkal-receptor-binding-serotonin]], which is the primary mechanism of action for classical psychedelics. When the methoxyl groups are shifted to the 2,6 or 2,4 positions, receptor affinity drops dramatically.
 
 ## Synthesis
 
@@ -52,7 +52,7 @@ Gamma-DOM was synthesized from 2,6-dimethoxy-4-methylbenzaldehyde (melting point
 
 ### Nitrostyrene Formation
 
-The benzaldehyde was condensed with nitroethane in the presence of anhydrous ammonium acetate, heated on a steam bath for 16 hours. The product, 1-(2,6-dimethoxy-4-methylphenyl)-2-nitropropene, was obtained as light yellow platelets with a melting point of 123-124°C after recrystallization from absolute ethanol.
+The benzaldehyde was condensed with nitroethane in the presence of anhydrous ammonium acetate, heated on a [[scythian-cannabis-steam-bath-ritual]] for 16 hours. The product, 1-(2,6-dimethoxy-4-methylphenyl)-2-nitropropene, was obtained as light yellow platelets with a melting point of 123-124°C after recrystallization from absolute ethanol.
 
 ### Reduction to Amine
 
@@ -114,12 +114,12 @@ The "interpretive" quality of gamma-DOM, as opposed to the classic psychedelic p
 
 ## Historical Context
 
-Gamma-DOM was synthesized and tested as part of the broader research program at UCSF in the 1960s, during which a number of DOM positional isomers were explored. This work was part of the systematic investigation of structure-activity relationships that Shulgin and colleagues pursued. The compound was never widely distributed and remained a laboratory curiosity, unlike DOM which achieved notoriety as STP.
+Gamma-DOM was synthesized and tested as part of the broader research program at UCSF in the 1960s, during which a number of shulgin gamma dom positional isomerism isomers were explored. This work was part of the systematic investigation of structure-activity relationships that Shulgin and colleagues pursued. The compound was never widely distributed and remained a laboratory curiosity, unlike DOM which achieved notoriety as STP.
 
 ## See Also
 
-- [[shulgin-dom-stp-phenethylamine-amphetamine-relationship|DOM and the 2C-DO Relationship]]
-- [[pihkal-dob|DOB (PiHKAL)]]
-- [[pihkal-2c-b|2C-B (PiHKAL)]]
+- [[shulgin-dom-stp-phenethylamine-amphetamine-relationship]]
+- [[pihkal-dob]]
+- [[pihkal-2c-b]]
 - 5-HT2A Receptor
 - Shulgin's Synthetic Methods

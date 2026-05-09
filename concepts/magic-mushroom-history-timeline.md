@@ -1,5 +1,5 @@
 ---
-title: Magic Mushroom History Timeline
+title: Magic duggar-mushroom-history-and-overview Timeline
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -34,14 +34,14 @@ Psychoactive mushrooms have been used in Mesoamerica for millennia. The Aztecs c
 
 - **1952**: R. Gordon Wasson received letters alerting him to the existence of Mesoamerican mushroom stones and confirming that teonanacatl had been a mushroom. He began organizing expeditions.
 - **1953**: Wasson's first trip to Mexico with his photographer daughter Masha. Guided by Weitlaner, they traveled to Huautla and witnessed a velada (mushroom vigil) performed by local curandero Aurelio Carreras, though only Carreras consumed mushrooms.
-- **1955**: Wasson's third and most famous trip. On June 29-30, accompanied by photographer Allan Richardson, he participated in a velada led by [[maria-sabina-mazatec-mushroom-ceremony|Maria Sabina]], becoming the first known Westerners to intentionally consume psilocybin mushrooms. Wasson consumed six pairs of mushrooms on July 2 and described visions of "brilliant colours, gold and onyx and ebony" and the sensation of approaching "dark gates reaching upward beyond sight."
+- **1955**: Wasson's third and most famous trip. On June 29-30, accompanied by photographer Allan Richardson, he participated in a velada led by [[maria-sabina-mazatec-mushroom-ceremony|Maria Sabina]], becoming the first known Westerners to intentionally consume [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]. Wasson consumed six pairs of mushrooms on July 2 and described visions of "brilliant colours, gold and onyx and ebony" and the sensation of approaching "dark gates reaching upward beyond sight."
 - **1957**: Wasson published a photo essay, "Seeking the Magic Mushroom," in *LIFE* magazine, bringing the existence of psychoactive mushrooms to global public attention.
-- **1956**: Roger Heim, Professor of Mycology at the Musee National d'Histoire Naturelle in Paris, accompanied Wasson to Mexico to classify the hallucinogenic mushroom species.
+- **1956**: Roger Heim, Professor of Mycology at the Musee National d'Histoire Naturelle in Paris, accompanied Wasson to Mexico to classify the [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]] species.
 - **1958**: Albert [[lsd-discovery-and-history|Hofmann]], whom Heim had approached to identify the active ingredients, succeeded in isolating and synthesizing **psilocybin** and **psilocin** from the Mexican mushroom specimens at Sandoz Laboratories in Basel. Sandoz began distributing psilocybin under the brand name Indocybin to researchers worldwide.
 
 ## 1960-1966: Leary, Harvard, and the Counterculture
 
-- **1960**: Timothy Leary, a Harvard psychology professor, traveled to Cuernavaca, Mexico and consumed psilocybin mushrooms. He later described the experience as the most profound of his life. Returning to Harvard, he and Richard Alpert began the Harvard Psilocybin Project, administering psilocybin to volunteers including graduate students, prisoners, and theologians.
+- **1960**: Timothy Leary, a Harvard psychology professor, traveled to Cuernavaca, Mexico and consumed psilocybin mushrooms. He later described the experience as the most profound of his life. Returning to Harvard, he and Richard Alpert began the [[leary-harvard-psilocybin-project]] Project, administering psilocybin to volunteers including graduate students, prisoners, and theologians.
 - **1962**: The Harvard Psilocybin Project conducted the Good Friday Experiment (Walter Pahnke), administering psilocybin to divinity students during a religious service to study mystical experience.
 - **1963**: Leary and Alpert were dismissed from Harvard following controversy over their methods and advocacy. They continued their work independently.
 - **1963**: The last Sandoz patents for LSD production expired, removing barriers to illegal manufacture.
@@ -60,11 +60,11 @@ Psychoactive mushrooms have been used in Mesoamerica for millennia. The Aztecs c
 Despite criminalization, psilocybin mushrooms became widely known and used in the 1970s:
 
 - Folk knowledge spread from intrepid experimenters returning from Mexican mushroom pilgrimages and discovering hallucinogenic species at home.
-- Paul Stamets published *Psilocybe Mushrooms and Their Allies* (1976), becoming America's leading expert on mushroom cultivation.
+- Paul Stamets published *Psilocybe Mushrooms and Their Allies* (1976), becoming America's leading expert on [[accessible-mushroom-cultivation-for-disabilities]].
 - Jonathan Ott, ethnobotanist and chemist, published reference works on the history, chemistry, and preparation of plant hallucinogens.
 - The book *Hallucinogens and Shamanism* (1973), edited by Michael Harner, was published by Oxford University Press.
 - Carlos Castaneda's *The Teachings of Don Juan* (1968) became a massive bestseller, popularizing the idea of psychedelic shamanism.
-- The 1967 San Francisco conference on ethnopharmacologic search for psychoactive drugs and subsequent publications kept psychedelic research visible in academic circles.
+- The 1967 San Francisco conference on ethnopharmacologic search for psychoactive drugs and subsequent publications kept [[mckenna-suppression-psychedelic-research-lsd-therapy]] visible in academic circles.
 
 ## Late 20th Century to Present
 
@@ -90,3 +90,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[magic-mushroom-tipping-point-1970s-america]]

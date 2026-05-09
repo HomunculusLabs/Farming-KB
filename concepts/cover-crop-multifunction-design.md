@@ -1,15 +1,15 @@
 ---
-title: Cover Crop Multifunction Design
+title: Cover cover crop multifunction design Design
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [soil, agriculture, permaculture]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
+  sources: []
 ---
 # Cover Crop Multifunction Design
 
-Cover crops are plants grown specifically to build and hold soil, smother weeds, and perform multiple other ecological functions. They range from long-growing perennials like red fescue and Dutch white clover for permanent cover, to short-term green manures like annual ryegrass and common vetch that are slashed in place after a season. In permaculture design, cover crops are chosen not just for a single function but for the many roles they can play simultaneously.
+Cover crops are plants grown specifically to build and hold soil, smother weeds, and perform multiple other ecological functions. They range from long-growing perennials like red fescue and Dutch white clover for permanent cover, to short-term [[jeavons-green-manures-cover-crops]] like annual ryegrass and common vetch that are slashed in place after a season. In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], cover crops are chosen not just for a single function but for the many roles they can play simultaneously.
 
 ## Primary Functions
 
@@ -19,7 +19,7 @@ Cover crops add organic matter both above and below ground. Their leaves shield 
 
 ### Nitrogen Fixation
 
-Legumes (peas, beans, clovers, vetch, fava beans) host symbiotic bacteria in root nodules that convert atmospheric nitrogen into plant-available form. Research shows that when ryegrass and clover are interplanted, 80 percent of the nitrogen in the ryegrass comes from the clover. The nitrogen transfer happens through constant root growth and dieback -- clover roots slough off along with nitrogen-fixing nodules, and surrounding plants absorb these nutrients as they decay.
+Legumes (peas, beans, clovers, vetch, fava beans) host symbiotic bacteria in root nodules that convert atmospheric nitrogen into plant-available form. Research shows that when ryegrass and clover are interplanted, 80 percent of the nitrogen in the ryegrass comes from the clover. The [[symbiotic-fungi-mycorrhizal-nitrogen-transfer-networks]] happens through constant root growth and dieback -- clover roots slough off along with nitrogen-fixing nodules, and surrounding plants absorb these nutrients as they decay.
 
 ### Weed Suppression
 
@@ -43,7 +43,7 @@ Deep-rooted cover crops ferry minerals from subsoil to the surface. Chicory's le
 
 ### Insect Attraction
 
-The blossoms of buckwheat, phacelia, fava beans, many clovers, bell beans, mustard, and vetch attract nectar-hunting beneficial insects. This makes the cover crop itself a form of [[comparison-food-forest-design-vs-backyard-orchard-design]], cover crops are essential in the less-visited zones. A mix of clover, annual rye, beneficial-insect herbs (yarrow, dill, fennel), and daikon radish under young trees keeps weeds at bay, boosts fertility, and needs mowing only once or twice a year.
+The blossoms of buckwheat, phacelia, fava beans, many clovers, bell beans, mustard, and vetch attract nectar-hunting [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. This makes the cover crop itself a form of [[comparison-food-forest-design-vs-backyard-orchard-design]], cover crops are essential in the less-visited zones. A mix of clover, annual rye, beneficial-insect herbs (yarrow, dill, fennel), and daikon radish under young trees keeps weeds at bay, boosts fertility, and needs mowing only once or twice a year.
 
 ## Related Concepts
 
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

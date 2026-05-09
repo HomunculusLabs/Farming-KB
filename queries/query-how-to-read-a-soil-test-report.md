@@ -5,6 +5,7 @@ tags: [query, soil-science, testing, nutrients, organic-farming]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: query
 ---
@@ -12,18 +13,18 @@ type: query
 # How to Read a Soil Test Report
 
 ## Short Answer
-A soil test report measures pH, organic matter content, nutrient levels (NPK and
-micronutrients), cation exchange capacity, and base saturation. Read it by first
+A soil test report measures pH, [[hamilton-composting-and-organic-matter-management]] content, nutrient levels (NPK and
+micronutrients), [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity, and base saturation. Read it by first
 checking pH and organic matter, then comparing each nutrient level to the optimal
 range for your crop, and finally looking at the base saturation percentages to
 understand nutrient balance. The [[cannabis-ph-management-and-soil-flushing]] page covers pH correction strategies
-using lime, sulfur, and organic amendments for different growing situations.
+using lime, sulfur, and [[cervantes-organic-amendments-chart]] for different growing situations.
 
 Organic matter percentage is the second critical metric to evaluate. Organic matter
-is the foundation of soil health because it feeds the microbial community, improves
+is the foundation of soil health because it feeds the [[edaphic-factors-microbial-community-structure]], improves
 soil structure, increases water-holding capacity, and provides cation exchange sites
 that hold nutrients in a plant-available form. Most agricultural soils have 1 to 5%
-organic matter, while healthy garden soils should target 5 to 10%. If your organic
+organic matter, while [[query-how-to-build-healthy-garden-soil]] soils should target 5 to 10%. If your organic
 matter is below 3%, adding compost, cover crops, or mulch should be your top
 priority before spending money on mineral fertilizers, because low organic matter
 limits the soil's ability to hold and cycle any nutrients you add. The
@@ -71,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

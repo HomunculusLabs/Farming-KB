@@ -13,7 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/ — nutritional composition and ergosterol studies
+  - https://pubmed.ncbi.nlm.nih.gov/ — dighton-fungal-nutritional-composition-animal-diets and ergosterol studies
   - https://www.mycobank.org/ — taxonomic record and synonymy
   - https://www.indexfungorum.org/ — nomenclatural database
   - Arora, David. Mushrooms Demystified. 2nd ed., Ten Speed Press, 1986.
@@ -55,10 +55,10 @@ sources:
 
 ## Distribution and Habitat
 
-- **Geographic range:** Eastern North America from Newfoundland to Florida, westward to the Great Plains; also reported in Central America and parts of Asia
+- **Geographic range:** Eastern North America from Newfoundland to Florida, westward to the Great Plains; also reported in [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and parts of Asia
 - **Habitat:** Ectomycorrhizal with hardwoods — primarily oaks (*Quercus* spp.), but also found with hickories (*Carya*), beech (*Fagus*), tulip poplar (*Liriodendron*), and occasionally conifers
 - **Season:** Summer through autumn (June–October), typically peaking later than *C. cibarius* — hence the common name "late chanterelle"
-- **Ecology:** Ectomycorrhizal mutualist; forms nutrient-exchange relationships with tree root systems; contributes to forest nutrient cycling and soil health
+- **Ecology:** Ectomycorrhizal mutualist; forms nutrient-exchange relationships with tree root systems; contributes to forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and soil health
 - **Preferred conditions:** Warm, humid summers with adequate rainfall; often fruits in abundance following warm rain events in mid-to-late summer
 - **Habitat types:** Oak-hickory forests, mixed hardwood stands, forest edges, disturbed woodland; occasionally found in urban parks with mature oaks
 
@@ -67,7 +67,7 @@ sources:
 - **Macronutrients:** High protein (15–25% dry weight), low fat (<5%), moderate carbohydrates (40–55% dry weight), high dietary fiber
 - **Vitamins:** Rich in B-complex vitamins (B1 thiamine, B2 riboflavin, B3 niacin, B5 pantothenic acid, B9 folate); contains vitamin D₂ (ergocalciferol) from ergosterol when exposed to UV light
 - **Minerals:** Excellent source of potassium, phosphorus, and iron; good source of zinc, copper, manganese, and selenium
-- **Bioactive compounds:** Ergosterol (pro-vitamin D₂), ergothioneine (antioxidant amino acid), β-glucans (immunomodulatory polysaccharides), lovastatin precursors
+- **[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:** Ergosterol (pro-vitamin D₂), ergothioneine (antioxidant amino acid), β-glucans (immunomodulatory polysaccharides), lovastatin precursors
 - **Antioxidant capacity:** High ORAC value; ergothioneine and selenium contribute to significant free-radical scavenging activity
 - **Caloric value:** Approximately 25–35 kcal per 100 g fresh weight
 
@@ -90,8 +90,8 @@ sources:
 ## Cultivation and Permaculture Relevance
 
 - **Cultivation status:** Not commercially cultivated due to its obligate ectomycorrhizal lifestyle; all market supply is wild-harvested
-- **Mycorrhizal inoculation:** Experimental inoculation of oak seedlings with *C. lateritius* spore slurries has shown promise for establishing productive chanterelle patches in managed woodlands and food forests
-- **Permaculture role:** Valued as a wild food resource in food forests and agroforestry systems with mature oaks; promotes soil health and nutrient cycling through mycorrhizal networks
+- **[[teaming-with-fungi-mycorrhizal-inoculation-techniques]]:** Experimental inoculation of oak seedlings with *C. lateritius* spore slurries has shown promise for establishing productive chanterelle patches in managed woodlands and food forests
+- **Permaculture role:** Valued as a wild food resource in food forests and agroforestry systems with mature oaks; promotes soil health and nutrient cycling through [[dighton-mycorrhizal-networks-carbon-transfer]]
 - **Forest management:** Selective logging and prescribed burns that maintain mature oak overstories can enhance chanterelle fruiting; over-removal of oak canopy reduces chanterelle productivity
 - **Sustainable foraging:** Cut at the base rather than pulling; leave mature specimens to release spores; avoid over-harvesting; harvest in baskets to spread spores as you walk
 - **Conservation considerations:** While not threatened, removal of oak forests for development and agricultural conversion reduces available habitat; maintaining oak-dominated woodlands is key to long-term chanterelle productivity
@@ -121,4 +121,7 @@ sources:
 
 ## See Also
 
-- [[edible-wild-mushrooms-foraging-guide]]
+- edible-wild-mushroom-guide
+- [[ectomycorrhiza]]
+- [[ergothioneine]]
+- [[mycorrhizal-inoculation]]

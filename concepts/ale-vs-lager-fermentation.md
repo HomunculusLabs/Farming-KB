@@ -24,11 +24,11 @@ Key characteristics of ale fermentation include:
 - Generally more vigorous and forgiving than lager yeast
 - Does not require cold conditioning, though many ales benefit from aging
 
-The flavor diversity of ale yeasts is remarkable. English ale strains produce moderate ester profiles with notes of pear, apple, and stone fruit. Belgian strains can produce intense fruity, spicy, and phenolic character. American strains tend to be cleaner and more neutral. German wheat beer strains produce the distinctive clove and banana character (4-vinyl guaiacol and isoamyl acetate) of Hefeweizen.
+The flavor diversity of ale yeasts is remarkable. English ale strains produce moderate ester profiles with notes of pear, apple, and [[holzer-stone-fruit-varieties-and-growing]]. Belgian strains can produce intense fruity, spicy, and phenolic character. American strains tend to be cleaner and more neutral. German wheat beer strains produce the distinctive clove and banana character (4-vinyl guaiacol and isoamyl acetate) of Hefeweizen.
 
 ### Lager Yeast (Saccharomyces pastorianus)
 
-Lager yeast is a bottom-fermenting yeast that works best at cool temperatures, typically 45-55 degrees F (7-13 degrees C). It is a hybrid species that evolved from a mating event between S. cerevisiae and S. eubayanus, a cold-tolerant wild yeast discovered in Patagonian beech forests.
+Lager yeast is a bottom-fermenting yeast that works best at cool temperatures, typically 45-55 degrees F (7-13 degrees C). It is a hybrid species that evolved from a mating event between S. cerevisiae and S. eubayanus, a cold-tolerant [[comparison-sourdough-vs-wild-yeast-bread]] discovered in Patagonian beech forests.
 
 Key characteristics of lager fermentation include:
 

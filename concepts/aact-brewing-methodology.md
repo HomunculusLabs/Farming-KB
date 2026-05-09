@@ -1,6 +1,6 @@
 ---
-title: AACT Brewing Methodology
-source: The Field Guide for Actively Aerated Compost Tea - Elaine Ingham
+title: ingham-aact-brewing-equipment-reliability-machine-testing-standards Methodology
+source: The Field Guide for Actively [[actively-aerated-compost-tea-aact-brewing]] Tea - Elaine Ingham
 source_author: Dr. Elaine R. Ingham
 tags: [compost-tea, AACT, brewing, aeration, compost, soil-inoculant, microbial-biology]
 created: 2026-05-08
@@ -34,8 +34,8 @@ factor determining AACT quality. Compost must be fully mature, aerobic,
 and biologically diverse. Immature or anaerobic compost will introduce
 harmful organisms and toxic metabolites into the finished tea.
 
-Good brewing compost should possess a diverse bacterial and fungal
-community. Thermal compost made with diverse feedstocks typically
+Good brewing compost should possess a diverse [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]]
+community. [[ingham-thermal-compost-versus-worm-compost]] made with diverse feedstocks typically
 provides the broadest range of organisms. Vermicompost can also be
 used, though it tends to be more bacterial than fungal in composition.
 
@@ -58,7 +58,7 @@ every system requires a vessel, an aeration source capable of
 maintaining aerobic conditions, and a means of suspending compost
 in the water column.
 
-The air pump or compressor must deliver sufficient dissolved oxygen
+The air pump or compressor must deliver sufficient [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]]
 to maintain aerobic conditions throughout the entire brew cycle. Most
 systems use air diffusers or bubblers positioned to distribute oxygen
 evenly. Dissolved oxygen levels should remain above 6 mg/L at all
@@ -95,7 +95,7 @@ chemical dechlorination treatment.
 Continuous aeration is the defining characteristic that separates AACT
 from other compost tea methods. The air supply must maintain dissolved
 oxygen above 6 mg/L at all times throughout the brew cycle. If
-dissolved oxygen drops below 5.5 mg/L, anaerobic organisms begin to
+dissolved oxygen drops below 5.5 mg/L, [[ingham-anaerobic-organisms-role-soil]] begin to
 proliferate and produce metabolites that can harm plants.
 
 Airflow rate depends on brewer volume and design configuration. As a

@@ -1,5 +1,5 @@
 ---
-title: Molecular Bonds and Chemistry for Gardeners
+title: Molecular molecular bonds and chemistry for gardeners for Gardeners
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -48,9 +48,9 @@ The pH scale runs from 0 (strongly acidic) to 14 (strongly alkaline), with 7 as 
 
 ## Implications for Plant Nutrition
 
-Because water is such a good solvent, plant nutrients must be charged (ionic) to be soluble in water. This means nutrients enter plants almost exclusively as ions. Understanding bond types explains why some compounds are available to plants and others are not, and why soil chemistry (pH, cation exchange) matters so much for nutrient uptake.
+Because water is such a good solvent, plant nutrients must be charged (ionic) to be soluble in water. This means nutrients enter plants almost exclusively as ions. Understanding bond types explains why some compounds are available to plants and others are not, and why soil chemistry (pH, [[mollison-designers-tropical-soils-and-cation-exchange-management]]) matters so much for nutrient uptake.
 
-The concept of electronegativity is particularly relevant. Nitrogen (3.0) and oxygen (3.5) are highly electronegative, pulling electron density toward themselves in bonds. This creates partial charges that attract water molecules and enable dissolution. Carbon (2.5) and hydrogen (2.1) are less electronegative, which is why pure hydrocarbons (like petroleum) are not water-soluble and not available to plants. Understanding these principles helps explain why organic amendments must decompose into ionic forms before plants can use them.
+The concept of electronegativity is particularly relevant. Nitrogen (3.0) and oxygen (3.5) are highly electronegative, pulling [[mckenna-fungal-fossil-gap-spore-electron-density-and-metal-hardness]] toward themselves in bonds. This creates partial charges that attract water molecules and enable dissolution. Carbon (2.5) and hydrogen (2.1) are less electronegative, which is why pure hydrocarbons (like petroleum) are not water-soluble and not available to plants. Understanding these principles helps explain why [[cervantes-organic-amendments-chart]] must decompose into ionic forms before plants can use them.
 
 ### Practical Example: Composting
 
@@ -58,8 +58,8 @@ When organic matter decomposes, large polymers (cellulose, lignin, proteins) are
 
 ### Practical Example: Fertilizer Solubility
 
-Not all fertilizers are equally soluble. Urea (CO(NH2)2) dissolves readily because it forms hydrogen bonds with water, but it must first be converted by the enzyme urease into ammonium (NH4+) and then potentially into nitrate (NO3-) before plants can absorb the nitrogen. Rock phosphate (Ca3(PO4)2) has extremely low solubility because its ionic bonds are very strong in the crystal lattice, which is why it acts as a slow-release phosphorus source. These differences in bond strength and solubility directly affect nutrient availability timing -- a key consideration in [[plant-cell-membrane-transport-proteins]] -- how ions cross membranes
-- [[soil-microbiology-basics]] -- microbes that drive nutrient cycling chemistry
+Not all fertilizers are equally soluble. Urea (CO(NH2)2) dissolves readily because it forms hydrogen bonds with water, but it must first be converted by the enzyme urease into ammonium (NH4+) and then potentially into nitrate (NO3-) before plants can absorb the nitrogen. Rock phosphate (Ca3(PO4)2) has extremely low solubility because its ionic bonds are very strong in the crystal lattice, which is why it acts as a slow-release phosphorus source. These differences in bond strength and solubility directly affect [[ph-and-nutrient-availability-garden-soils]] timing -- a key consideration in [[plant-cell-membrane-transport-proteins]] -- how ions cross membranes
+- [[soil-microbiology-basics]] -- microbes that drive [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] chemistry
 - [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]
 ## Practical Considerations
 
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

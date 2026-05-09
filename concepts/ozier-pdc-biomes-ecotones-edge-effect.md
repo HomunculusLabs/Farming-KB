@@ -1,5 +1,5 @@
 ---
-title: Ozier Pdc Biomes Ecotones Edge Effect
+title: Ozier ozier pdc biomes ecotones edge effect Ecotones bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design
 source: william-ozier-williams-pdc_-a-permaculture-design-cours.md
 author: William WR Ozier
 topics: biomes, ecotones, edge-effect, climate, permaculture, ecology, biodiversity
@@ -9,7 +9,7 @@ topics: biomes, ecotones, edge-effect, climate, permaculture, ecology, biodivers
 
 Understanding biomes, ecotones, and the edge effect is fundamental to
 [[permaculture-design]]. Each
-type demands different strategies for food production, [[keyhole-beds]]** — The indentation creates edge where straight beds
+type demands different strategies for food production, keyhole-beds** — The indentation creates edge where straight beds
   wouldn't
 - **Mandala gardens** — Circular patterns maximize the perimeter-to-area
   ratio
@@ -81,4 +81,6 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+- [[query-what-is-the-edge-effect-in-permaculture]]
+- [[urban-permaculture-edge-effect-microclimate]]
+- [[edge-effect-ecology]]

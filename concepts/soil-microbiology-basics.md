@@ -9,20 +9,20 @@ sources:
 ---
 # Soil Microbiology Basics
 
-The soil food web is the community of organisms living in soil, from bacteria and fungi to protozoa, nematodes, microarthropods, and earthworms. Dr. Elaine Ingham's work demonstrates that these organisms are the primary drivers of soil fertility, plant health, and disease suppression -- not chemical nutrients alone.
+The soil food web is the community of organisms living in soil, from bacteria and fungi to protozoa, nematodes, microarthropods, and earthworms. Dr. Elaine Ingham's work demonstrates that these organisms are the primary drivers of soil fertility, plant health, and [[aact-disease-suppression-mechanisms-ingham]] -- not chemical nutrients alone.
 
 ## The Five Functions of a Healthy Soil Food Web
 
 1. **Out-compete disease organisms**: Beneficial organisms occupy all infection sites and consume all available food, leaving nothing for pathogens. "This is NOT a pesticide effect. There are no toxic chemicals involved."
 2. **Retain nutrients**: Bacteria and fungi immobilize nutrients in their biomass, preventing leaching and runoff
 3. **Make nutrients available at rates plants require**: Protozoa and nematodes consume bacteria and fungi, releasing plant-available forms of nitrogen, phosphorus, and other nutrients
-4. **Decpose toxins**: Bacteria and fungi break down chemical residues and organic toxins
+4. **Decpose toxins**: Bacteria and [[query-can-fungi-break-down-plastic-pollution]] down chemical residues and organic toxins
 5. **Build soil structure**: Microbial glues create microaggregates (bacteria) and macroaggregates (fungi); larger organisms create pore spaces
 
 ## Bacteria
 
 ### Role
-- Primary decomposers of simple organic compounds (sugars, proteins, amino acids)
+- Primary decomposers of simple [[fungal-volatile-organic-compounds-communication]] (sugars, proteins, amino acids)
 - Make the glues that form microaggregates (the basic building blocks of soil structure)
 - Retain nutrients in their biomass
 - Some species fix atmospheric nitrogen (Rhizobium, Azotobacter)
@@ -30,14 +30,14 @@ The soil food web is the community of organisms living in soil, from bacteria an
 - Dominant in annual crop systems, early successional ecosystems, and disturbed soils
 
 ### Key Facts
-- A single gram of healthy soil contains 300,000 to 1,000,000 species of bacteria (by molecular identification)
+- A single gram of healthy soil contains 300,000 to 1,000,000 species of bacteria (by [[biodiversity-fungal-molecular-identification-dna-barcoding]])
 - They reproduce rapidly (20-30 minutes under ideal conditions)
 - Most soil bacteria are aerobic; anaerobic conditions kill beneficial species
 - Simple sugars (molasses, fruit juice) selectively feed bacteria
 - Excess bacterial growth can deplete oxygen, driving soil anaerobic
 
 ### In Compost Tea
-- Minimum threshold: 300 ug/ml for adequate leaf surface coverage
+- Minimum threshold: 300 ug/ml for adequate [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] coverage
 - "Bacteria are the most variable" component of compost tea
 - Active bacteria are more important than total bacteria
 
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

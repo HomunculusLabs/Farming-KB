@@ -1,16 +1,16 @@
 ---
-title: mycorrhizal Inoculum Reduction Techniques
+title: mycorrhizal mycorrhizal inoculum reduction techniques comparative Techniques
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [[mycology]], soil-biology, symbiosis]
+tags: [mycology], soil-biology, symbiosis]
 sources: []
 ---
 # Mycorrhizal Inoculum Reduction Techniques
 
 The ubiquitous presence of [[sterilization]] (which aims to destroy all microorganisms while preserving soil physical and chemical properties) and inoculum reduction (which aims to suppress mycorrhizal formation without necessarily eliminating all microorganisms).
 
-Without inoculum reduction, the presence of native AMF propagules confounds measurements of colonization, plant growth response, and nutrient uptake attributed to experimental inoculation.
+Without inoculum reduction, the presence of native AMF propagules confounds measurements of colonization, plant growth response, and [[plant-nutrient-uptake-mechanisms]] attributed to experimental inoculation.
 
 It is important to distinguish between soil sterilization (which aims to destroy all microorganisms while preserving soil physical and chemical properties) and inoculum reduction (which aims to suppress mycorrhizal formation without necessarily eliminating all microorganisms).
 
@@ -141,8 +141,9 @@ previously available to practitioners working within single disciplines.
 
 For those seeking to deepen their knowledge, recommended resources
 include primary research literature, established reference works,
-practitioner communities, and hands-on experimentation under guided
-conditions. The combination of theoretical study and practical experience
-provides the most robust foundation for developing expertise in this
-area and contributing to its ongoing development and refinement.
+## See Also
 
+- [[rodale-mycorrhizal-inoculum]]
+- [[techniques-arbuscular-mycorrhiza-inoculum-reduction]]
+- [[sterilization]]
+- [[teaming-with-fungi-mycorrhizal-inoculation-techniques]]

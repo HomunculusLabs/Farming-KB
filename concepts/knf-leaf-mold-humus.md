@@ -24,7 +24,7 @@ sources:
 
 # KNF Leaf Mold Humus
 
-Leaf mold is the partially decomposed organic matter found on forest floors beneath deciduous trees. In KNF, leaf mold serves multiple roles: as a collection site for IMO, as a compost ingredient, as a moisture-retaining mulch, and as a source of beneficial fungi and microorganisms. Leaf mold represents the natural end-point of forest nutrient cycling.
+Leaf mold is the partially decomposed [[hamilton-composting-and-organic-matter-management]] found on forest floors beneath deciduous trees. In KNF, leaf mold serves multiple roles: as a collection site for IMO, as a compost ingredient, as a moisture-retaining mulch, and as a source of beneficial fungi and microorganisms. Leaf mold represents the natural end-point of forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 ## What Leaf Mold Does
 
@@ -34,11 +34,11 @@ Leaf mold is the partially decomposed organic matter found on forest floors bene
 - Slow-release source of nutrients and trace minerals
 - Forms the base layer for IMO #3 and #4 cultivation piles
 - Used as floor cover in FMC production areas
-- Contains natural growth factors from decomposed forest vegetation
+- Contains [[ingham-natural-growth-regulators-soil-microbes]] factors from decomposed forest vegetation
 
 ## Collection Sites
 
-- Under deciduous broadleaf trees (bamboo groves are ideal)
+- Under deciduous broadleaf trees ([[fukuoka-textdoc-bamboo-groves-wood-preserves-soil-fertility]] are ideal)
 - Near roots of trees whose roots contain sugar
 - In mountain areas 150-200 m higher than your field elevation
 - Hillside areas near the working field
@@ -75,7 +75,7 @@ Leaf mold is the partially decomposed organic matter found on forest floors bene
 - Improves pile structure and aeration
 
 ### Mulch
-- Spread several layers of rice straw or leaf mold under vinyl mulch
+- Spread several layers of [[fukuoka-rice-straw-mulch-central-technique]] or leaf mold under vinyl mulch
 - Prevents soil-film adhesion and improves aeration
 
 ## Leaf Mold Tea
@@ -92,6 +92,6 @@ A simple extraction method:
 - [[indigenous-microorganisms-imo]] — IMO collection in leaf mold
 - [[fermented-mixed-compost-fmc]] — leaf mold in FMC production
 - [[knf-mineral-liquid]] — mineral liquid for soil ecosystem balance
-- [[composting-systems]] — other composting methods
+- [[composting-systems]] — other [[natural-farming-guide-composting-methods-and-techniques]]
 - [[soil-food-web-nutrient-cycling]] — how leaf mold feeds the soil food web
 - [[mulching-guide]] — leaf mold as mulch material

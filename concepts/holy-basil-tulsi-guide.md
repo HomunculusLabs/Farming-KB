@@ -1,10 +1,11 @@
 ---
-title: Holy Basil (Tulsi) Growing Guide
+title: Holy Basil (Tulsi) comparison-bean-growing-guide-vs-pepper-growing-guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, ethnobotany, asia, companion-planting, pollinators]
-sources: []
+sources:
+  sources: []
 ---
 
 # Holy Basil (Tulsi) Growing Guide (Ocimum sanctum)
@@ -14,7 +15,7 @@ sources: []
 Holy basil, known as Tulsi in Hindi, is a sacred plant in Hinduism and one
 of the most important herbs in Ayurvedic medicine. Referred to as "the
 incomparable one" or "the queen of herbs," tulsi has been cultivated for
-over 3,000 years throughout the Indian subcontinent and Southeast Asia.
+over 3,000 years throughout the Indian subcontinent and [[psilocybe-southeast-asia-pacific]].
 There are three primary varieties used medicinally: Krishna tulsi (purple
 leaves), Rama tulsi (green leaves), and Vana tulsi (wild-type, tall and
 camphor-scented). All share adaptogenic, immunomodulating, and stress-
@@ -96,7 +97,7 @@ Tulsi is a tropical plant that thrives in warm conditions:
 - Light: Full sun (6-8 hours minimum)
 - Soil: Prefers fertile, well-drained loam, pH 6.0-7.5
 - Water: Allow soil to dry slightly between waterings
-- Growing season: 90-120 days from seed to harvest
+- [[savory-growing-season-and-non-growing-season-management]]: 90-120 days from seed to harvest
 
 ### Starting from Seed
 
@@ -110,14 +111,14 @@ Harden off and move outdoors after last frost.
 - Rows 18-24 inches apart
 - Plant at the same depth as the seedling container
 - Water well after transplanting
-- Mulch with 2-3 inches of organic matter to retain moisture and suppress
+- Mulch with 2-3 inches of [[hamilton-composting-and-organic-matter-management]] to retain moisture and suppress
   weeds
 
 ### Care and Maintenance
 - Water when the top inch of soil is dry; avoid overwatering
 - Fertilize lightly every 4-6 weeks with compost tea or balanced organic
   fertilizer
-- Pinch back growing tips regularly to encourage bushy, compact growth
+- Pinch back growing tips regularly to encourage bushy, [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]]
 - Remove flower buds if you want to maximize leaf production (tulsi
   becomes bitter and slows leaf growth after flowering)
 - In cool zones, harvest completely before first frost (can be brought
@@ -132,54 +133,13 @@ summer to root indoors.
 ### Pests and Diseases
 - Aphids: Check undersides of leaves; spray with water or insecticidal soap
 - Whiteflies: Use yellow sticky traps and insecticidal soap
-- Fungal diseases: Avoid overhead watering; ensure good air circulation
+- Fungal diseases: Avoid overhead watering; ensure good [[stamets-growing-room-air-circulation-co2-management]]
 - Japanese beetles: Handpick in severe infestations
 - Root rot: Prevent by ensuring well-drained soil and proper watering
 
 ## Tea Production
 
 Tulsi is one of the best herbs for daily tea consumption:
-
-For fresh tea:
-1. Harvest 8-10 fresh leaves per cup
-2. Pour boiling water over leaves
-3. Cover and steep 5-7 minutes
-4. Strain and enjoy plain or with honey and lemon
-
-For dried tea:
-1. Harvest leafy stems before flowering for the best flavor
-2. Bundle stems and hang upside down, or spread on screens
-3. Dry in a warm, dark, well-ventilated area
-4. Strip leaves from stems when completely dry
-5. Store in airtight containers away from light
-6. Use 1-2 teaspoons per cup; steep 5-7 minutes
-
-Tulsi blends well with:
-- Ginger and lemon for respiratory support
-- Peppermint for digestion and refreshment
-- Chamomile for relaxation and sleep
-- Ashwagandha for comprehensive stress support
-
-## Companion Planting
-
-Tulsi is an excellent garden companion:
-- Repels mosquitoes, flies, and certain garden pests
-- Attracts bees, butterflies, and beneficial insects
-- Said to improve the growth and flavor of nearby tomatoes and peppers
-- Its strong aromatic oils mask the scent of vulnerable crops from pests
-- Plant near vegetable beds, entrances to living spaces, and in pollinator
-  gardens
-
-## Harvesting
-
-- Begin harvesting when plants are 8-12 inches tall
-- Harvest individual leaves or cut stems (leaving at least 2 sets of leaves
-  for regrowth)
-- Regular harvesting encourages bushy growth
-- For the most potent medicine, harvest before flowers open
-- The highest essential oil content is in the morning on warm, sunny days
-- Final harvest before first frost; cut the entire plant
-
 ## See Also
 
 - [[chamomile-growing-guide]] -- combine with tulsi in calming evening tea
@@ -187,4 +147,4 @@ Tulsi is an excellent garden companion:
 - [[ashwagandha-growing-guide]] -- complementary Ayurvedic adaptogen for
   comprehensive stress and wellness support
 
-See also: [[lemongrass-cultivation-and-uses]]
+See also: [[comparison-lemongrass-vs-citronella-vs-palmarosa]]

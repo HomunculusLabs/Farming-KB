@@ -1,5 +1,5 @@
 ---
-title: Solomon Insects Diseases and Pest Management
+title: Solomon solomon insects diseases pest management and Pest Management
 created: 2026-04-18
 updated: 2026-04-18
 sources: Gardening When It Counts (Steve Solomon)
@@ -24,7 +24,7 @@ This means that variety selection is at least as important as soil fertility in 
 1. **Choose resistant varieties** -- This is the single most important pest prevention strategy. Buy from quality seed companies that run trials and note disease resistance
 2. **Maintain soil fertility** -- Healthy plants on balanced nutrition resist pests better
 3. **Provide adequate spacing** -- Crowded plants are stressed plants, and stressed plants attract pests
-4. **Ensure adequate moisture** -- Drought-stressed plants emit chemical signals that attract pests
+4. **Ensure adequate moisture** -- Drought-stressed plants emit [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] that attract pests
 5. **Practice crop rotation** -- Don't grow the same family in the same spot year after year
 6. **Maintain clean conditions** -- Remove disease debris, keep paths clear
 
@@ -33,7 +33,7 @@ This means that variety selection is at least as important as soil fertility in 
 ### Cabbage Root Maggot
 This is one of the most troublesome pests for brassica growers. Remedies include:
 - Using row covers (Reemay) at planting time
-- Applying beneficial nematodes
+- Applying [[ingham-beneficial-nematodes-soil-food-web]]
 - Using paper collars around transplants
 - Timing plantings to avoid peak fly emergence
 - Resistant varieties exist but are not widely available
@@ -69,7 +69,7 @@ Most disease prevention involves:
 
 ## Biological Control: Farmscaping
 
-Solomon references Rex Dufour's ATTRA publication "Farmscaping to Enhance Biological Control," which covers planting strategies to attract and sustain beneficial insects. The key principle: provide habitat for predatory insects (ladybugs, lacewings, parasitic wasps, ground beetles) by:
+Solomon references Rex Dufour's ATTRA publication "Farmscaping to Enhance Biological Control," which covers planting strategies to attract and sustain [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. The key principle: provide habitat for predatory insects (ladybugs, lacewings, parasitic wasps, ground beetles) by:
 - Including flowering plants in and around the garden (umbellifers like dill, fennel, yarrow are particularly attractive to beneficial insects)
 - Maintaining some undisturbed habitat nearby (hedgerows, wild areas)
 - Minimizing broad-spectrum pesticide use that kills beneficials along with pests
@@ -80,7 +80,7 @@ Solomon references Rex Dufour's ATTRA publication "Farmscaping to Enhance Biolog
 Solomon discusses several spray approaches:
 - Kelp teas provide micronutrients and may help plants resist pests
 - Insecticidal soap is effective against soft-bodied insects
-- Bt (Bacillus thuringiensis) is effective against caterpillars
+- Bt ([[cervantes-bacillus-thuringiensis-bt-control]]) is effective against caterpillars
 - Neem oil has broad-spectrum insecticidal and fungicidal properties
 - Hot pepper/garlic sprays as repellents
 
@@ -91,7 +91,7 @@ Solomon discusses several spray approaches:
 3. Use wide spacing to reduce plant stress
 4. Accept some pest damage as normal -- perfection is not the goal
 5. Use biological controls and cultural practices before reaching for sprays
-6. Learn the specific pests and diseases common in your area
+6. Learn the specific [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] common in your area
 
 ## Key References
 

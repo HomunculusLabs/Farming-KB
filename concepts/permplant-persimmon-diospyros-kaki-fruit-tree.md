@@ -16,21 +16,21 @@ type: concept
 
 # Persimmon as Ornamental Fruit Tree in Permaculture
 
-The persimmon (Diospyros kaki), also known as Chinese persimmon or
+The persimmon (permplant persimmon diospyros kaki fruit tree), also known as Chinese persimmon or
 kakee, is a deciduous, round-headed tree growing to about 5 metres.
 Belonging to the family Ebenaceae, it has strikingly coloured autumn
 foliage that makes it an attractive ornamental tree as well as a
 productive fruit producer. Persimmons are valued in [[diospyros-virginiana]] (American Persimmon)
 Fruits are smaller than the Chinese persimmon, usually yellow but can
 be dark red or purple-red. Much higher vitamin C content (66 mg vs 11
-mg per 100 g). Native to eastern and central North America.
+mg per 100 g). Native to eastern and central [[psilocybin-north-america-pacific-northwest]].
 
 ### Diospyros lotus (Date Plum)
 Fruits are smaller still (1-2 cm) and purple-black when ripe. A more
 cold-hardy species suitable for marginal climates.
 
 ### Diospyros digyna (Black Sapote / Chocolate Pudding Fruit)
-An evergreen native of Central America with very sweet fruit and
+An evergreen native of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] with very sweet fruit and
 chocolate brown flesh. The flavour and texture resemble chocolate
 pudding, making it a unique and desirable fruit for subtropical
 systems.
@@ -38,12 +38,12 @@ systems.
 ## Ornamental Value
 
 The striking autumn foliage colours make persimmons excellent
-ornamental plantings. In [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
+ornamental plantings. In 
 
 Persimmons integrate well in mixed plantings with other fruit trees.
 Their relatively small mature size (5 metres) allows them to fit into
 the mid-canopy layer of a food forest. Their moisture requirements
-mean they pair well with ground covers that help retain soil moisture.
+mean they pair well with [[permaculture-plants-food-forest-ground-covers-bamboos]] that help retain soil moisture.
 They can be combined with |figs,
 olives, and other Mediterranean-adapted species in warm temperate
 designs.
@@ -51,13 +51,13 @@ designs.
 ## Design Considerations
 
 - Space requirement: minimum 5 metres between plants
-- Water needs: regular moisture during growing season
+- Water needs: regular moisture during [[savory-growing-season-and-non-growing-season-management]]
 - Soil preference: medium loam, avoid dry or acidic soils
 - Cold tolerance: mature plants to -10 degrees C
 - Bear fruit at 3 years from grafted trees
 - Long productive life once established
 - Dual function: ornamental beauty plus food production
-- Excellent for adding autumn colour to permaculture landscapes
+- Excellent for adding [[leaf-senescence-autumn-colour-change-active-plant-process]] to permaculture landscapes
 
 ## See Also
 
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

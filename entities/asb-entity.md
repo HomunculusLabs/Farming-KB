@@ -10,7 +10,7 @@ sources:
 # ASB (Asymbescaline)
 
 **Chemical name:** 3,4-Diethoxy-5-methoxyphenethylamine
-**PiHKAL entry:** #9
+**[[2c-b-pihkal-entry-20]]:** #9
 
 ## Overview
 
@@ -34,7 +34,7 @@ The synthesis is multistep, starting from 5-bromobourbonal:
 1. **Ethylation:** 5-Bromobourbonal is ethylated with ethyl iodide and KOH in DMF to give 3-bromo-4,5-diethoxybenzaldehyde.
 2. **Imine formation:** The bromoaldehyde is converted to the N-cyclohexyl benzylidenimine (mp 60-61 deg C), which serves as an intermediate for various transformations.
 3. **Lithiation and boronation:** The bromine is replaced via butyllithium-mediated lithiation followed by treatment with butyl borate.
-4. **Hydroxylation:** Oxidation with hydrogen peroxide yields 3,4-diethoxy-5-hydroxybenzaldehyde (mp 70.5-71.5 deg C).
+4. **Hydroxylation:** Oxidation with [[cervantes-hydrogen-peroxide-sterilization]] yields 3,4-diethoxy-5-hydroxybenzaldehyde (mp 70.5-71.5 deg C).
 5. **Methylation:** Treatment with methyl iodide and KOH in EtOH gives 3,4-diethoxy-5-methoxybenzaldehyde.
 6. **Nitrostyrene formation:** Condensation with nitromethane yields the beta-nitrostyrene (mp 89-90 deg C).
 7. **Reduction:** LAH reduction in THF with sulfuric acid provides the final amine as the hydrochloride salt.

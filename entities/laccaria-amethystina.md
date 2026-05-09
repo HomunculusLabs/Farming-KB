@@ -30,7 +30,7 @@ sources:
 **Laccaria amethystina**, commonly known as the amethyst deceiver, is a small
 basidiomycete fungus in the family Hydnangiaceae (or Tricholomataceae in older
 classifications). It is a widespread ectomycorrhizal species associated with a
-broad range of trees in temperate and boreal forests. The common name refers to
+broad range of trees in temperate and [[fungal-diversity-boreal-forests-taiga]]. The common name refers to
 its variable coloration — vibrant amethyst-purple when fresh but fading to a
 nondescript beige or tan when dried, making it one of the more deceptive mushrooms
 for identification.
@@ -43,7 +43,7 @@ Described by August Batsch in 1783 as *Agaricus amethystinus*, later transferred
 to *Laccaria* by Mordecai Cubitt Cooke in 1884. The genus name derives from the
 Latin *lacca* (lacquer), referring to the waxy gill surface. Phylogenetic studies
 place *Laccaria* in the Hydnangiaceae. The species forms a species complex with
-*L. amethysteo-occidentalis* (western North America) and other taxa; some
+*L. amethysteo-occidentalis* (western [[psilocybin-north-america-pacific-northwest]]) and other taxa; some
 populations in Asia may represent distinct lineages.
 
 ## Description
@@ -77,19 +77,19 @@ acidic soils and commonly found in pine plantations on nutrient-poor substrates.
 *L. amethystina* is a generalist ectomycorrhizal fungus, forming associations with
 an exceptionally broad host range. This makes it ecologically important as a
 "networking" species in forest soils, connecting different tree species through
-shared mycelial networks. In permaculture and ecological restoration contexts,
+shared [[fungal-mycelial-networks-nutrient-translocation]]. In permaculture and ecological restoration contexts,
 *Laccaria* species are among the first ectomycorrhizal colonizers of disturbed
 sites and are frequently used in forest nursery inoculation programs. Key roles
 include:
 
-- **Pioneer mycorrhiza:** One of the first ectomycorrhizal fungi to colonize
+- **Pioneer mycorrhiza:** One of the first [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] to colonize
   seedlings in bare or disturbed soils, giving it importance in reforestation
   and mine-site rehabilitation.
 - **Nutrient facilitation:** Enhances phosphorus uptake for host trees and
-  contributes to nitrogen cycling through its extensive extraradical mycelium.
+  contributes to [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]] through its extensive extraradical mycelium.
 - **Soil aggregation:** Contributes to soil structure through hyphal binding of
   soil particles and production of glomalin-related proteins.
-- **Phytoremediation:** Demonstrated tolerance of heavy metals; *Laccaria* species
+- **Phytoremediation:** Demonstrated tolerance of [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]; *Laccaria* species
   have been investigated for use in myco-remediation of contaminated soils.
 
 ## Edibility

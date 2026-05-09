@@ -13,7 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Duke JA. "Handbook of Medicinal Herbs." 2nd ed. CRC Press, 2002.
+  - Duke JA. "Handbook of permaculture-plants-medicinal-herbs-healing." 2nd ed. CRC Press, 2002.
   - Foster S, Duke JA. "A Field Guide to Medicinal Plants." Houghton Mifflin, 2014.
   - Tyler VE, Brady LR, Robbers JE. "Pharmacognosy." 9th ed. Lea & Febiger, 1988.
   - USDA NRCS. "Sanguinaria canadensis Plant Guide." USDA Natural Resources Conservation Service, 2023.
@@ -21,7 +21,7 @@ sources:
 
 # Sanguinaria canadensis
 
-*Sanguinaria canadensis*, commonly known as **bloodroot**, is a perennial herbaceous flowering plant native to eastern North America. The sole species in the genus *Sanguinaria*, it belongs to the poppy family (Papaveraceae) and is named for the distinctive **bright red-orange latex** that bleeds from all parts of the plant when broken. Bloodroot has a long history of use in Native American traditional medicine and has attracted modern pharmacological interest for its bioactive alkaloid content.
+*Sanguinaria canadensis*, commonly known as **bloodroot**, is a perennial herbaceous flowering plant native to [[polypore-fungi-eastern-north-america]] America. The sole species in the genus *Sanguinaria*, it belongs to the poppy family (Papaveraceae) and is named for the distinctive **bright red-orange latex** that bleeds from all parts of the plant when broken. Bloodroot has a long history of use in [[halpern-sacramental-peyote-and-native-american-church]] traditional medicine and has attracted modern pharmacological interest for its bioactive alkaloid content.
 
 ## Taxonomy and Classification
 
@@ -31,7 +31,7 @@ sources:
 - **Genus:** Sanguinaria (monotypic)
 - **Species:** S. canadensis
 
-The genus name derives from Latin *sanguinarius* ("bloody"), referring to the vivid red sap. The specific epithet *canadensis* denotes its Canadian/North American origin. It is closely related to genera within the Papaveroideae including *Papaver* (true poppies), *Chelidonium* (greater celandine), and *Macleaya* (plume poppy).
+The genus name derives from Latin *sanguinarius* ("bloody"), referring to the vivid red sap. The specific epithet *canadensis* denotes its Canadian/[[growing-gourmet-north-american-reishi-species]] origin. It is closely related to genera within the Papaveroideae including *Papaver* (true poppies), *Chelidonium* (greater celandine), and *Macleaya* (plume poppy).
 
 ## Morphology
 
@@ -41,7 +41,7 @@ Bloodroot is a low-growing perennial, typically reaching 10–25 cm in height at
 
 ### Leaves
 
-The leaf is basal, long-petioled, and **palmately lobed** with 5–9 irregularly rounded lobes. The leaf surface is smooth (glabrous) and dark green, with a lighter underside. Leaves can reach 15–30 cm in width and expand fully after flowering. The distinctive shape has been compared to an open hand or a lobed umbrella.
+The leaf is basal, long-petioled, and **palmately lobed** with 5–9 irregularly rounded lobes. The [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is smooth (glabrous) and dark green, with a lighter underside. Leaves can reach 15–30 cm in width and expand fully after flowering. The distinctive shape has been compared to an open hand or a lobed umbrella.
 
 ### Flowers
 
@@ -49,7 +49,7 @@ The flower is solitary, terminal, and borne on a smooth scape that arises from t
 
 - **Stamens:** Numerous (24–48), yellow, surrounding a central pistil
 - **Carpel:** 2-celled, superior ovary
-- **Blooming period:** March–May (early spring)
+- **Blooming period:** March–May ([[coleman-overwintered-onions-and-early-spring-crops]])
 - **Pollination:** By early-season bees and flies; capable of self-pollination
 
 ### Root System
@@ -83,10 +83,12 @@ Bloodroot is a plant of **deciduous woodlands**, thriving in:
 
 It is an indicator species for rich, undisturbed forest ecosystems and is typically found in association with other spring ephemerals including trilliums, Dutchman's breeches (*[[hydrastis-canadensis]]
 
-- [[fungal-spores]]
+- fungal-spores
 
 - Papaveraceae — Poppy family
 - [[chelidonium-majus]] — Greater celandine (related alkaloid-producing plant)
 - Macleaya cordata — Plume poppy (sanguinarine source)
 - Sanguinarine — Primary bioactive alkaloid
 - Myrmecochory — Ant-mediated seed dispersal
+## See Also
+- [[tsuga-canadensis]]

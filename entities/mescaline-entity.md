@@ -13,7 +13,7 @@ sources:
 
 # Mescaline
 
-**Mescaline** (3,4,5-trimethoxyphenethylamine) is a naturally occurring protoalkaloid and classical psychedelic compound of the phenethylamine class. It is the primary psychoactive constituent of the peyote cactus (*Lophophora williamsii*), the San Pedro cactus (*Echinopsis pachanoi*), and several other *Echinopsis* (Trichocereus) species. With a history of human use spanning at least 5,700 years, mescaline is one of the oldest known psychedelics and holds profound cultural and spiritual significance among indigenous peoples of the Americas.
+**Mescaline** (3,4,5-trimethoxyphenethylamine) is a naturally occurring protoalkaloid and classical psychedelic compound of the phenethylamine class. It is the primary psychoactive constituent of the peyote cactus (*Lophophora williamsii*), the San [[san-pedro-cactus-history]] (*Echinopsis pachanoi*), and several other *Echinopsis* (Trichocereus) species. With a history of human use spanning at least 5,700 years, mescaline is one of the oldest known psychedelics and holds profound cultural and spiritual significance among indigenous peoples of the Americas.
 
 ## Chemical Profile
 
@@ -112,3 +112,7 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[cathinone]]
+- [[tabernanthine]]

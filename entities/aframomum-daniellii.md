@@ -12,7 +12,7 @@ sources:
   - Okigbo, R.N. & Mmeka, E.C. (2006). "Antimicrobial potentials of Aframomum daniellii." Journal of Herbs, Spices and Medicinal Plants.
   - Fowomola, A.A. (2003). "Nutritional and anti-nutritional composition of Aframomum daniellii seeds." Journal of Food Science and Technology.
   - Watt, J.M. & Breyer-Brandwijk, M.G. (1962). The Medicinal and Poisonous Plants of Southern and Eastern Africa. E&S Livingstone.
-  - Menzies, I.S. et al. (2004). "Essential oil composition of Aframomum species." Phytochemistry.
+  - Menzies, I.S. et al. (2004). "[[permaculture-designers-manual-essential-oil-plants]] composition of Aframomum species." Phytochemistry.
 ---
 
 ## Overview
@@ -37,7 +37,7 @@ The fruit is a fleshy, ellipsoid capsule 3–5 cm long containing numerous small
 
 A. daniellii occurs naturally in the tropical lowland forests of West and Central Africa, from Sierra Leone eastward through Cameroon, Gabon, and the Democratic Republic of Congo. Its range extends into southern Nigeria and the Congo Basin.
 
-The species inhabits the forest understory and forest margins, often along riverbanks and in moist ravines. It requires high humidity, warm temperatures, and well-draining soils rich in organic matter.
+The species inhabits the forest understory and forest margins, often along riverbanks and in moist ravines. It requires high humidity, warm temperatures, and well-draining soils rich in [[hamilton-composting-and-organic-matter-management]].
 
 Optimal growth conditions include annual rainfall of 1500–3000 mm and temperatures between 24–30°C. The plant is intolerant of frost and prolonged drought.
 
@@ -47,11 +47,11 @@ Wild populations are threatened by deforestation and habitat fragmentation in pa
 
 The seeds of A. daniellii are used as a spice throughout West and Central Africa. They are added to soups, stews, and meat dishes, often in combination with other local spices such as *Xylopia aethiopica* and *Piper guineense*.
 
-In Nigerian cuisine, the seeds are a key ingredient in pepper soup preparations and certain yam-based dishes. They are typically ground or cracked before use to release their essential oils.
+In Nigerian cuisine, the seeds are a key ingredient in pepper soup preparations and certain yam-based dishes. They are typically ground or cracked before use to release their [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]].
 
 Nutritional analysis reveals that the seeds contain moderate amounts of protein, dietary fiber, and minerals including calcium, magnesium, and iron. The essential oil fraction accounts for 2–4% of seed dry weight.
 
-The aril surrounding the seeds is particularly aromatic and is sometimes used separately as a flavoring. Traditional preparation methods include sun-drying the harvested capsules and extracting seeds by hand.
+The aril surrounding the seeds is particularly aromatic and is sometimes used separately as a flavoring. [[kava-traditional-preparation-ceremonial-context]] methods include sun-drying the harvested capsules and extracting seeds by hand.
 
 ## Bioactive Compounds
 
@@ -61,11 +61,11 @@ Flavonoids identified in the species include kaempferol and quercetin glycosides
 
 Tannins, saponins, and alkaloids have been detected in varying concentrations across plant parts. The rhizome contains higher concentrations of phenolic compounds than the seeds.
 
-Laboratory studies have demonstrated antibacterial activity against *Staphylococcus aureus*, *Escherichia coli*, and *Candida albicans*. The essential oil shows particularly strong activity against gram-positive bacteria.
+Laboratory studies have demonstrated antibacterial activity against *Staphylococcus aureus*, *Escherichia coli*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*. The essential oil shows particularly strong activity against gram-positive bacteria.
 
 ## Traditional Medicine
 
-In West African ethnomedicine, A. daniellii seeds are chewed to relieve toothache and gum infections. The antimicrobial properties of the essential oil support this traditional application.
+In West African ethnomedicine, A. daniellii seeds are chewed to relieve toothache and gum infections. The [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] of the essential oil support this traditional application.
 
 Decoctions of the rhizome are administered for coughs, bronchitis, and other respiratory complaints. The expectorant effect is attributed to the volatile terpenoid constituents of the rhizome.
 
@@ -101,6 +101,8 @@ A. angustifolium and A. sulcatum are used locally as spices and medicinal plants
 
 ## See Also
 
+- [[aframomum-melegueta]]
+
 - [[elettaria-cardamomum]]
 - [[amomum-tsao-ko]]
 - [[boesenbergia-rotunda]]
@@ -108,5 +110,5 @@ A. angustifolium and A. sulcatum are used locally as spices and medicinal plants
 - [[illicium-verum]]
 - [[pimpinella-anisum]]
 - [[eugenia-caryophyllata]]
-- [[ferula-assafoetida]]
+- ferula-assafoetida
 - [[syzygium-aromaticum]]

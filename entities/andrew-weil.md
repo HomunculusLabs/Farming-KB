@@ -5,13 +5,14 @@ updated: 2026-04-12
 type: entity
 tags: [person, medicine, health, psychopharmacology, academia]
 sources:
-  - raw/papers/mycelium-running-stamets.md
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
   - raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
 ---
 
 # Andrew Weil
 
-Andrew Weil, MD (b. 1942) is an American physician, author, and leading figure in integrative medicine. He wrote the forewords to both *Mycelium Running* (2005) and *Psilocybin Mushrooms of the World* (1996) by [[paul-stamets]], lending medical credibility to Stamets' work on fungal ecology and medicinal mushrooms.
+Andrew Weil, MD (b. 1942) is an American physician, author, and leading figure in integrative medicine. He wrote the forewords to both *[[woodlovers-mycelium-running-pathway-technique]]* (2005) and *[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World* (1996) by [[paul-stamets]], lending medical credibility to Stamets' work on [[gadd-fungal-ecology-endophytes]] and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]].
 
 ## Early Career and Psychedelic Research
 
@@ -21,7 +22,7 @@ Weil's early medical career included research on psychoactive substances. As a H
 
 Weil's foreword to *Mycelium Running* articulates several key positions on fungal medicine:
 
-**On the medical potential of fungi:** "When we first met, I was questioning why Western medicine had never looked to mushrooms as sources of new therapeutic agents, given their prominence in the traditional pharmacopeias of China, Japan, and Korea." He endorsed Stamets' "Big Idea" that fungi from old-growth forests may be sources of new medicines active against a range of germs, including HIV/AIDS and the causative agents of smallpox and anthrax — potential bioterrorist threats.
+**On the medical potential of fungi:** "When we first met, I was questioning why [[fukuoka-eastern-western-medicine-healing-world-crisis]] had never looked to mushrooms as sources of new therapeutic agents, given their prominence in the traditional pharmacopeias of China, Japan, and Korea." He endorsed Stamets' "Big Idea" that fungi from old-growth forests may be sources of new medicines active against a range of germs, including HIV/AIDS and the causative agents of smallpox and anthrax — potential bioterrorist threats.
 
 **On mycoremediation:** Weil endorsed Stamets' concept that "mycelium can be selected and trained to break down toxic waste, reducing it to harmless metabolites" and the broader [[mycorestoration-overview]] strategy of using fungi to filter water, help trees grow, and control insect pests through completely nontoxic means.
 
@@ -45,7 +46,7 @@ Weil went on to found the field of integrative medicine, which combines conventi
 
 ## Key Works
 
-- *The Natural Mind* (1972) — Early exploration of consciousness-altering substances and their role in human culture
+- *The [[weil-the-natural-mind-altered-states-normalcy]]* (1972) — Early exploration of consciousness-altering substances and their role in human culture
 - *Spontaneous Healing* (1995) — On the body's innate healing capacity
 - *8 Weeks to Optimum Health* (1997) — Practical integrative health guide
 - Numerous books on nutrition, herbal medicine, and healthy aging
@@ -58,6 +59,7 @@ Weil went on to found the field of integrative medicine, which combines conventi
 - [[entheogen-culture]] — Weil's early research on consciousness-altering substances
 - [[medicinal-mushroom-guide]] — Weil helped bring medicinal mushroom research to mainstream attention
 - [[mycorestoration-overview]] — Weil endorsed Stamets' mycorestoration framework
+
 ## Practical Considerations
 
 Successful implementation of Andrew Weil requires attention to
@@ -76,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

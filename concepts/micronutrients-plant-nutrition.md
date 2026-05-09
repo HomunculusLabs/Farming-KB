@@ -40,12 +40,12 @@ The eight essential micronutrients (in rough order of plant requirement):
 - Reduced seed production
 
 ### Sources
-- Organic matter (boron is released during decomposition)
+- [[hamilton-composting-and-organic-matter-management]] (boron is released during decomposition)
 - Borax (sodium borate) — caution: very small amounts needed; toxic in excess
 - Compost and seaweed extracts
 
 ### pH Relationship
-Boron availability decreases at high pH. Liming can induce boron deficiency. Sandy soils with low organic matter are most prone to deficiency.
+Boron availability decreases at high pH. Liming can induce [[query-how-to-fix-boron-deficiency-in-cannabis]]. Sandy soils with low organic matter are most prone to deficiency.
 
 ## Iron (Fe)
 
@@ -53,7 +53,7 @@ Boron availability decreases at high pH. Liming can induce boron deficiency. San
 - Essential for chlorophyll synthesis
 - Component of many enzymes (cytochromes, catalase, peroxidase)
 - Required for electron transport in photosynthesis
-- Involved in nitrogen fixation
+- Involved in [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
 
 ### Deficiency Symptoms
 - Interveinal chlorosis (yellowing between veins) in young leaves
@@ -62,12 +62,12 @@ Boron availability decreases at high pH. Liming can induce boron deficiency. San
 - Most common in alkaline soils (high pH)
 
 ### Iron Chlorosis
-The classic micronutrient deficiency problem. Iron may be abundant in soil but unavailable at high pH due to precipitation as insoluble iron oxides/hydroxides.
+The classic [[cervantes-micronutrient-deficiency-chelation]] problem. Iron may be abundant in soil but unavailable at high pH due to precipitation as insoluble iron oxides/hydroxides.
 
 ### Solutions
 - Lower soil pH (add sulfur, organic matter)
 - Use chelated iron (iron-EDDHA) for rapid correction
-- Apply acidifying organic amendments
+- Apply acidifying [[cervantes-organic-amendments-chart]]
 - Select iron-efficient plant varieties
 
 ## Manganese (Mn)
@@ -101,7 +101,7 @@ More common than deficiency in acid soils. Manganese toxicity causes brown spots
 - Most common in high-pH, phosphorus-rich, or sandy soils
 
 ### Interaction with Phosphorus
-Excessive phosphorus can induce zinc deficiency by reducing zinc availability or uptake. This is a common problem in heavily fertilized soils.
+Excessive phosphorus can induce [[query-how-to-fix-zinc-deficiency-in-cannabis]] by reducing zinc availability or uptake. This is a common problem in heavily fertilized soils.
 
 ## Copper (Cu)
 

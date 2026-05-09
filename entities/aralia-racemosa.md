@@ -12,9 +12,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Fernald, M.L. (1950). "Gray's Manual of Botany." 8th ed. American Book Company.
-  - Moerman, D.E. (1998). "Native American Ethnobotany." Timber Press.
+  - Moerman, D.E. (1998). "[[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany." Timber Press.
   - Foster, S. & Duke, J.A. (2014). "Peterson Field Guide to Medicinal Plants." Houghton Mifflin Harcourt.
-  - Duke, J.A. et al. (2002). "Handbook of Medicinal Herbs." 2nd ed. CRC Press.
+  - Duke, J.A. et al. (2002). "Handbook of [[permaculture-plants-medicinal-herbs-healing]]." 2nd ed. CRC Press.
   - U.S. Forest Service (2024). "Aralia racemosa L." USDA NRCS Plant Database.
 ---
 
@@ -22,7 +22,7 @@ sources:
 
 Aralia racemosa, commonly known as American spikenard, is a perennial herbaceous plant in the family Araliaceae.
 
-It is native to eastern North America, ranging from Canada to the Appalachian Mountains and westward to the Ozarks.
+It is native to [[polypore-fungi-eastern-north-america]] America, ranging from Canada to the Appalachian Mountains and westward to the Ozarks.
 
 The species has a long history of use in Native American traditional medicine and was adopted into 19th-century Thomsonian and Eclectic medical practice.
 
@@ -86,15 +86,15 @@ Extracts of Aralia racemosa root have demonstrated anti-inflammatory activity in
 
 Immunomodulatory effects include stimulation of phagocytosis and enhanced macrophage activity in animal models.
 
-The saponin fraction shows adaptogenic properties comparable to other Araliaceae species, including improved stress tolerance.
+The saponin fraction shows adaptogenic properties comparable to other Araliaceae species, including improved [[fungal-lichen-stress-tolerance-and-poikilohydry]].
 
 Expectorant activity has been documented, supporting the traditional use for respiratory conditions.
 
 Antioxidant capacity is significant, with the root extract showing radical-scavenging activity in DPPH and ABTS assays.
 
-Antimicrobial activity against Staphylococcus aureus and Candida albicans has been observed in vitro.
+Antimicrobial activity against Staphylococcus aureus and [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]] has been observed in vitro.
 
-No clinical trials have been conducted on Aralia racemosa specifically, and all pharmacological data derive from preclinical studies.
+No [[mushroom-cancer-clinical-trials-overview]] have been conducted on Aralia racemosa specifically, and all pharmacological data derive from preclinical studies.
 
 ## Ethnobotanical Use
 
@@ -113,6 +113,8 @@ The root was an official drug in the United States Pharmacopoeia from 1820 to 19
 Current herbal use focuses on respiratory support and as a component of adaptogenic formulations, often combined with other Araliaceae species.
 
 ## See Also
+
+- [[aralia-nudicaulis]]
 
 - [[withania-somnifera]]
 - [[leonurus-cardiaca-entity]]

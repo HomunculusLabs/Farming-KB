@@ -11,9 +11,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Guzmán, G. & Pollock, S.H. (1978). "Notes on the genus Psilocybe: section Stropharia." Mycotaxon 7(1): 161-170.
-  - Stamets, P. (1996). Psilocybin Mushrooms of the World. Ten Speed Press.
+  - Stamets, P. (1996). [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World. Ten Speed Press.
   - Guzmán, G. (2005). "The genus Psilocybe: a systematic revision." Folia Cryptogamica Estonica 38: 19-38.
-  - Allen, J.W. & Merlin, M.D. (1992). "The cultivation of Psilocybe cubensis in defined medium." Journal of Ethnopharmacology 35(3): 225-228.
+  - Allen, J.W. & Merlin, M.D. (1992). "The [[grass-seed-cultivation-of-psilocybe-mushrooms]] cubensis in defined medium." Journal of Ethnopharmacology 35(3): 225-228.
 created: 2026-05-07
 ---
 
@@ -37,7 +37,7 @@ Basidiospores are ellipsoid to rhomboid in face view, 8 to 12 µm by 5 to 7 µm.
 
 ## Distribution and Habitat
 
-*P. tampensis* is distributed across the southeastern United States, primarily along the Gulf Coast from Florida through Louisiana and eastern Texas. It has also been reported from parts of Central America and the Caribbean.
+*P. tampensis* is distributed across the southeastern United States, primarily along the Gulf Coast from Florida through Louisiana and eastern Texas. It has also been reported from parts of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and the Caribbean.
 
 The species fruits in subtropical to tropical climates during warm, humid months, typically from late spring through early autumn. It is most commonly found from June through September following heavy rainfall.
 
@@ -63,7 +63,7 @@ Common effects include visual alterations, altered perception of time, enhanced 
 
 *P. subcubensis*, found in tropical regions, is morphologically similar but produces smaller spores. *P. caerulescens* and *P. weilii* are other southeastern psilocybin species occupying different ecological niches.
 
-Microscopically, the thick-walled spores with a prominent germ pore distinguish *P. tampensis* from non-psychoactive grassland species such as *Panaeolina foenisecii*, which has thinner-walled, darker spores lacking a germ pore.
+Microscopically, the thick-walled spores with a prominent germ pore distinguish *P. tampensis* from non-psychoactive grassland species such as *[[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]*, which has thinner-walled, darker spores lacking a germ pore.
 
 The bluing reaction, caused by the oxidative degradation of psilocin, is typically less pronounced in *P. tampensis* compared to *P. cubensis* or *P. azurescens*. This can make field identification more challenging for casual observers.
 
@@ -73,7 +73,7 @@ The bluing reaction, caused by the oxidative degradation of psilocin, is typical
 
 Colonization temperatures of 24 to 27°C with fruiting triggered by high humidity and temperatures between 21 and 25°C produce reliable flushes. The species responds well to standard casing techniques using peat-based or vermiculite mixtures.
 
-Yields per flush are modest, typically producing smaller fruiting bodies than *P. cubensis* grown under identical conditions. Total biological efficiency on straw substrates is estimated at 30 to 50 percent.
+Yields per flush are modest, typically producing smaller fruiting bodies than *P. cubensis* grown under identical conditions. Total [[stamets-biological-efficiency-yield]] on straw substrates is estimated at 30 to 50 percent.
 
 ## Legal Status
 
@@ -83,7 +83,7 @@ Several jurisdictions have moved toward decriminalization of psilocybin-containi
 
 ## Ecological Role
 
-As a saprotrophic fungus, *P. tampensis* plays a role in decomposing herbaceous plant material in grassland and disturbed habitats. It contributes to nutrient cycling by breaking down cellulose and lignin compounds in dead plant tissue.
+As a saprotrophic fungus, *P. tampensis* plays a role in decomposing herbaceous plant material in grassland and disturbed habitats. It contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by breaking down cellulose and lignin compounds in dead plant tissue.
 
 The species may form associations with grass root systems, though it is not considered a true mycorrhizal partner. Its preference for enriched, disturbed soils suggests an ecological strategy adapted to anthropogenic landscapes.
 
@@ -104,6 +104,6 @@ Subsequent collections have confirmed the species' presence across a wider range
 - [[psilocybin]]
 - [[baeocystin]]
 - [[copelandia-cyanescens]]
-- [[gymnopilus-luteofolius]]
+- gymnopilus-luteofolius
 - [[conocybe-smithii]]
 - [[psilocybe-cyanescens]]

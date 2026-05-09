@@ -1,5 +1,5 @@
 ---
-title: Oxidative Addition vs Photoredox Catalysis
+title: Oxidative oxidative addition vs photoredox catalysis Catalysis
 created: 2026-04-28
 subtitle: Comparing a two-electron organometallic elementary step with a light-driven single-electron catalytic strategy
 tags: [comparison, organometallic-chemistry, photoredox, catalysis, radical-chemistry, synthesis]
@@ -42,7 +42,7 @@ A simplified formula is PC plus light to excited PC, followed by electron transf
 Oxidative addition is usually taught with formal two-electron accounting.
 A low-valent metal such as palladium(0), iridium(I), rhodium(I), or nickel(0) becomes more oxidized.
 The substrate bond is broken and two metal-ligand bonds are formed.
-The formalism is powerful even when real electron density is distributed across ligands and substrate.
+The formalism is powerful even when real [[mckenna-fungal-fossil-gap-spore-electron-density-and-metal-hardness]] is distributed across ligands and substrate.
 Photoredox chemistry usually tracks one-electron oxidation and reduction potentials.
 The excited photocatalyst may be a much stronger oxidant or reductant than its ground state.
 Substrates become radical cations, radical anions, neutral radicals, or ion pairs.
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

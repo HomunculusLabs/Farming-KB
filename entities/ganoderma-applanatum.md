@@ -59,8 +59,8 @@ community of mycoparasites and successor fungi.
 - Causes a slow-progressing white rot, preferentially degrading
   lignin over cellulose
 - Fruit bodies persist for multiple years, adding new tube layers
-  each growing season
-- Widely distributed across temperate regions of North America,
+  each [[savory-growing-season-and-non-growing-season-management]]
+- Widely distributed across temperate regions of [[psilocybin-north-america-pacific-northwest]],
   Europe, and Asia
 
 ### Role as Fungicolous Host
@@ -96,23 +96,23 @@ community of mycoparasites and successor fungi.
 - Used medicinally in traditional Asian medicine, though less
   commonly than G. lucidum (reishi)
 - The artist's conk tradition of scratching images onto pore
-  surfaces has cultural significance
+  surfaces has [[ethnomycology-cultural-significance-sacred-fungi]]
 
 ### Research Methods
 - Fruiting body surveys and herbarium collections for
   distributional studies
 - Wood decay assays to characterize white rot mechanisms
-- Molecular identification via ITS rDNA sequencing
+- [[biodiversity-fungal-molecular-identification-dna-barcoding]] via ITS rDNA sequencing
 - Isozyme analysis for population genetics studies (Smith and
   Sivasithamparam 2000)
 
 ## Relevance
-Ganoderma applanatum occupies a central position in forest ecosystem
+Ganoderma applanatum occupies a central position in [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]]
 dynamics as both a primary wood decomposer and a substrate for diverse
 fungicolous communities. The rich mycoparasitic assemblage documented
 on this species in the source text illustrates the complex web of
 fungal-fungal interactions that structure decomposer communities. Its
-study provides insights into wood decay ecology, fungal succession,
+study provides insights into wood decay ecology, [[dighton-fungal-succession-disturbance]],
 and the biology of fungicolous fungi.
 
 ## See Also

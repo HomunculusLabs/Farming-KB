@@ -24,9 +24,9 @@ created: 2026-04-28
 
 The species has a long history of use in European folk medicine, particularly as a mild sedative, analgesic, and antispasmodic agent.
 
-*Corydalis cava* is closely related to the well-studied Chinese medicinal herb [[corydalis-yanhusuo]] species.
+*Corydalis cava* is closely related to the well-studied Chinese [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]] [[corydalis-yanhusuo]] species.
 
-The alkaloid content varies seasonally, with highest concentrations in the tuber during early spring emergence and lowest during the dormant period.
+The alkaloid content varies seasonally, with highest concentrations in the tuber during [[coleman-overwintered-onions-and-early-spring-crops]] emergence and lowest during the dormant period.
 
 Minor constituents include several aporphine and protoberberine-type alkaloids.
 
@@ -64,7 +64,7 @@ It prefers partial to full shade in humus-rich, well-drained soils with neutral 
 
 Propagation is primarily by division of the tuberous corms in late summer during the dormant period.
 
-Seed propagation is possible but requires cold stratification for germination, and plants may take 2-3 years to flower from seed.
+[[jeavons-seed-propagation-techniques]] is possible but requires cold stratification for germination, and plants may take 2-3 years to flower from seed.
 
 The species is generally pest-free and requires minimal maintenance once established in suitable conditions.
 
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

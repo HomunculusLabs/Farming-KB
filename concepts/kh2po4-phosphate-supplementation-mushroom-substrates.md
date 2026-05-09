@@ -1,5 +1,5 @@
 ---
-title: "KH2PO4 Phosphate Supplementation in Mushroom Cultivation Substrates"
+title: "KH2PO4 kh2po4 phosphate supplementation mushroom substrates in accessible-mushroom-cultivation-for-disabilities Substrates"
 created: 2026-04-28
 tags:
   - phosphate
@@ -21,7 +21,7 @@ type: concept
 Phosphate supplementation is a critical but often overlooked factor in
 mushroom cultivation. In the Gartz, Adam and Vorbrodt (1990) study on
 brassinosteroid effects in [[psilocybe-cubensis]]. This buffering capacity helps maintain
-stable pH during the metabolic activity of growing mycelium, which
+stable pH during the [[arbuscule-isolation-metabolic-activity-assays]] of growing mycelium, which
 tends to acidify its environment through organic acid secretion and
 carbon dioxide dissolution.
 
@@ -66,7 +66,7 @@ extract agar formulations typically include 0.5 to 1.5 g/L.
 
 The higher concentration likely reflected the horse dung and rice grain
 substrate composition. Dung-based substrates can bind phosphorus through
-calcium phosphate precipitation, reducing bioavailability. The elevated
+[[bionutrients-lab-calcium-phosphate-calamansi]] precipitation, reducing bioavailability. The elevated
 KH2PO4 ensured sufficient free phosphate remained in solution despite
 potential binding interactions with calcium and other cations.
 
@@ -93,14 +93,14 @@ for dung-based formulations with significant phosphorus-binding capacity.
 
 KH2PO4 should be dissolved in the hydration water before sterilization
 or pasteurization. It is heat-stable and will not degrade during
-standard substrate preparation. When used with calcium supplements,
+standard [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]. When used with calcium supplements,
 excess calcium can precipitate phosphate as calcium phosphate, reducing
 bioavailability. In such cases, slightly higher KH2PO4 concentrations
 may be warranted.
 
 ## Related Concepts
 
-- Brassinosteroid growth promotion in Psilocybe cubensis for the
+- Brassinosteroid growth promotion in [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] for the
   full study context in which KH2PO4 supplementation was employed
 - Brassinosteroid acceleration of mycelial growth on agar media for
   the agar-phase results of the Gartz experiment
@@ -108,6 +108,8 @@ may be warranted.
   fruiting-phase results on supplemented substrates
 
 ## See Also
+
+- [[monopotassium-phosphate-kh2po4-mushroom-substrate-buffer-nutrient]]
 
 - [[brassinosteroid]]
 - [[fruiting-body-development]]

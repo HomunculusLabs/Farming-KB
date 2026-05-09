@@ -32,11 +32,11 @@ Additional alkaloids found in L. diffusa include:
 
 Pellotine (N-methyl-3,4-dimethoxyphenethylamine) is a phenethylamine alkaloid with sedative and mild psychoactive properties. It produces effects that are qualitatively different from mescaline, typically described as more sedating, dreamy, and less visually intense.
 
-The experience has been compared to a mild dream state rather than the vivid psychedelic experience produced by mescaline-containing cacti. Some users report a sense of physical relaxation, mild euphoria, and dreamlike imagery without the pronounced visual phenomena characteristic of mescaline.
+The experience has been compared to a mild dream state rather than the vivid [[leary-psychedelic-experience-bardo-mapping]] produced by mescaline-containing cacti. Some users report a sense of physical relaxation, mild euphoria, and dreamlike imagery without the pronounced visual phenomena characteristic of mescaline.
 
 Some researchers have reported detecting trace amounts of mescaline in certain L. diffusa specimens, though these findings may reflect misidentification of specimens or natural hybridization zones where the two species ranges approach each other.
 
-The chemical distinction between the two species is generally reliable and consistent, supporting their status as separate species. Chemical analysis is considered the most reliable method for distinguishing L. diffusa from L. williamsii when morphological characteristics are ambiguous.
+The chemical distinction between the two species is generally reliable and consistent, supporting their status as separate species. [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] is considered the most reliable method for distinguishing L. diffusa from L. williamsii when morphological characteristics are ambiguous.
 
 ## Traditional Use
 
@@ -56,7 +56,7 @@ Growth rate is slow, comparable to L. williamsii. Grafting onto faster rootstock
 
 The species is generally considered somewhat more sensitive to overwatering and rot than L. williamsii, requiring careful watering practices. A mineral-based soil mix with added limestone chips replicates its native habitat conditions well.
 
-Seed germination follows standard procedures for Lophophora species, requiring warm, humid conditions. L. diffusa is self-sterile, meaning cross-pollination between different plants is required for viable seed production.
+[[cannabis-seed-germination-methods]] follows standard procedures for Lophophora species, requiring warm, humid conditions. L. diffusa is self-sterile, meaning cross-pollination between different plants is required for viable [[cervantes-seed-production-storage]].
 
 This self-sterility is an important consideration for cultivators, as isolated plants will not produce viable seeds. Growers must maintain at least two genetically distinct plants for successful seed production.
 
@@ -86,12 +86,11 @@ L. diffusa faces significant conservation pressures in its restricted natural ra
 
 Habitat destruction through agricultural expansion, urban development, and road construction continues to reduce available habitat. Illegal collection by both commercial and private collectors further threatens wild populations.
 
-The species extremely limited range makes it particularly vulnerable to habitat loss and climate change. Conservation organizations have called for strengthened protections and habitat restoration efforts in the Sierra Gorda region.
+The species extremely limited range makes it particularly vulnerable to habitat loss and [[dighton-fungi-climate-change-feedback]]. Conservation organizations have called for strengthened protections and habitat restoration efforts in the Sierra Gorda region.
 
 ## See Also
 
 - [[mescaline-entity]]
 
-- [[mescaline-entity]]
 - Pellotine
 - [[trichocereus-pachanoi]]

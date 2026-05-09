@@ -25,7 +25,7 @@ created: 2026-04-28
 
 **Ziziphus jujuba**, commonly known as jujube, Chinese date, or red date, is a small deciduous tree in the family Rhamnaceae.
 
-The species has been cultivated for over 4,000 years and is one of the most important traditional fruit trees in East and South Asia.
+The species has been cultivated for over 4,000 years and is one of the most important traditional [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] in East and South Asia.
 
 Its fruits are consumed fresh, dried, candied, and as a key ingredient in traditional Chinese medicine formulations.
 
@@ -125,17 +125,17 @@ Z. jujuba is an excellent species for food forests in arid and semi-arid tempera
 
 Its deep root system accesses groundwater and improves soil structure through root penetration.
 
-The tree provides nectar for honey production during late summer when few other species are flowering.
+The tree provides nectar for [[mollison-designers-beekeeping-honey-production-permaculture]] during late summer when few other species are flowering.
 
 As a windbreak and living fence, its thorny branches create effective livestock barriers.
 
 It serves as a rootstock for the related Indian jujube (Ziziphus mauritiana) in tropical systems.
 
-The species contributes nitrogen indirectly through leaf litter decomposition in mixed plantings.
+The species contributes nitrogen indirectly through leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]] in mixed plantings.
 
 ## See Also
 
 [[panax-ginseng]]
 [[juglans-regia]]
 [[caragana-arborescens]]
-[[elaeagnus-angustifolia]]
+elaeagnus-angustifolia

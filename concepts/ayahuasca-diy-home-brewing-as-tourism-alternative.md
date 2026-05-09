@@ -1,5 +1,5 @@
 ---
-title: Ayahuasca DIY Home Brewing as Tourism Alternative
+title: Ayahuasca ayahuasca diy home brewing as tourism alternative Brewing as Tourism Alternative
 created: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -16,7 +16,7 @@ tags:
 
 # Ayahuasca DIY Home Brewing as Tourism Alternative
 
-R. Stuart's 2002 account of ayahuasca tourism in Peru
+R. Stuart's 2002 account of [[stuart-r-ayahuasca-tourism-cautionary-ethnography]] in Peru
 concluded with a provocative suggestion: rather than
 traveling to South America, interested individuals could
 brew ayahuasca at home using ingredients ordered from
@@ -26,7 +26,7 @@ the meaning of indigenous practice in a Western context.
 
 ## The Case Against Tourism
 
-Stuart's argument was grounded in direct observation of
+Stuart's argument was grounded in [[fukuoka-direct-observation-method]] of
 the tourism industry's shortcomings. Foreign visitors
 often paid thirty dollars for ceremonies that cost
 Peruvians about two dollars. The character of
@@ -76,7 +76,7 @@ as "botanical specimens" or "research materials"
 to navigate legal ambiguities.
 
 The availability of these supplies democratized
-access to ayahuasca preparation. Practitioners no
+access to [[harner-amazonian-ayahuasca-preparation-methods]]. Practitioners no
 longer needed to travel to the Amazon or cultivate
 the plants themselves. However, quality control
 varied significantly between suppliers, and the
@@ -108,7 +108,7 @@ inhibitors (harmine, harmaline, and tetrahydroharmine)
 from B. caapi, combined with N,N-dimethyltryptamine
 (DMT) from the admixture plant. This combination is
 generally safe when prepared correctly, but
-interactions with prescription medications —
+[[ayahuasca-interactions-with-prescription-medications]] medications —
 particularly SSRIs, MAOIs, and some psychiatric drugs
 — can be dangerous or fatal.
 
@@ -122,7 +122,7 @@ safeguards.
 
 ## Legal Considerations
 
-The legal status of ayahuasca ingredients varies by
+The [[ayahuasca-tourism-legal-status-by-country]] of ayahuasca ingredients varies by
 jurisdiction. B. caapi is generally legal in most
 countries as it contains no controlled substances.
 P. viridis and D. cabrerana contain DMT, which is

@@ -1,7 +1,7 @@
 ---
 title: Mycorrhizal Networks and Carbon Transfer
 created: 2026-04-26
-sources: Dighton (2003) "Fungi in Ecosystem Processes" Ch. 3, 5
+sources: Dighton (2003) "Fungi in fungal-ecosystem-processes-overview" Ch. 3, 5
 tags: [mycorrhiza, carbon-transfer, common-mycelial-network, ectomycorrhiza, arbuscular-mycorrhiza, interplant]
 related: [dighton-fungal-decomposition-nutrient-cycling, dighton-fungal-mediated-plant-competition]
 type: concept
@@ -12,7 +12,7 @@ updated: 2026-04-26
 
 ## Overview
 
-Mycorrhizal fungi form extensive below-ground networks -- the "common mycelial network" or "wood-wide web" -- that interconnect individual plants and facilitate the transfer of carbon, nutrients, and signaling compounds between them. Approximately 90% of higher plant species form mycorrhizal associations (Pirozynski and Malloch, 1975).
+Mycorrhizal fungi form extensive below-ground networks -- the "common [[gadd-mycelial-network-dynamics]]" or "wood-wide web" -- that interconnect individual plants and facilitate the transfer of carbon, nutrients, and signaling compounds between them. Approximately 90% of higher plant species form mycorrhizal associations (Pirozynski and Malloch, 1975).
 
 ## Types of Mycorrhizal Networks
 
@@ -30,7 +30,7 @@ This distribution follows a latitudinal/altitudinal gradient determined by litte
 
 Plants allocate 16-64% of total biomass carbon to below-ground systems (Vogt, 1991). Root respiration accounts for 70-80% of total soil respiration in forested ecosystems. Nearly two-thirds of soil respiration in temperate mixed hardwood forests comes from root activity (Bowden et al., 1993).
 
-Coniferous trees allocate approximately twice as much carbon to roots as deciduous species (Bonan, 1993), a trade-off related to nitrogen acquisition strategies.
+Coniferous trees allocate approximately twice as much carbon to roots as deciduous species (Bonan, 1993), a trade-off related to [[fungal-bacterial-predators-nitrogen-acquisition-soil-ecology]] strategies.
 
 ## Interplant Carbon Transfer
 
@@ -51,11 +51,11 @@ Not all mycorrhizal networks facilitate significant interplant transfer:
 
 ## Mycorrhizal Benefits Beyond Carbon
 
-Mycorrhizal networks provide multiple ecosystem services:
+Mycorrhizal networks provide multiple [[biodiversity-of-fungi-ecosystem-services-agriculture]]:
 
 1. **Enhanced nutrient uptake** -- especially phosphorus and nitrogen
 2. **Pathogen protection** -- via physical barriers (ECM sheath) and chemical interference (Marx, 1973; Duchesne, 1994)
-3. **Drought tolerance** -- through direct water flow via hyphae and improved P nutrition (Auge, 2001)
+3. **[[dighton-fungal-drought-tolerance-plant-water-relations]]** -- through direct water flow via hyphae and improved P nutrition (Auge, 2001)
 4. **Ecosystem stability** -- communal ECM networks provide stability via C and nutrient exchange between connected plants; lack of viable communal ECM networks is attributed to reduced tree survival post-disturbance
 5. **Soil exploration** -- extraradical hyphae extend the effective depletion zone far beyond the root
 
@@ -69,7 +69,7 @@ Jasper (1994) identified four roles of mycorrhizae in ecosystem restoration:
 1. Improved nutrition of establishing plants
 2. Diversity maintenance through altered competitive fitness
 3. Resource recycling and ecosystem stability
-4. Soil stabilization through aggregate formation
+4. Soil stabilization through [[soil-aggregate-formation-fungal-contributions]]
 
 ## Key References
 

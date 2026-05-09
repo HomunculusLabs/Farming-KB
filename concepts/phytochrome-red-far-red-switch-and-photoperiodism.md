@@ -31,7 +31,7 @@ Phytochrome is the photoreceptor protein responsible for plants measuring the le
 
 The story begins with the Maryland Mammoth tobacco strain, discovered by farmers in southern Maryland around 1906. This remarkable plant grew continuously to four and a half metres in height with nearly a hundred leaves, flowering only when frosts set in. While this seemed like a boon, it rarely flowered, meaning farmers could not harvest seed for the next year.
 
-In 1918, Wightman W. Garner and Harry A. Allard at the US Department of Agriculture discovered the cause: Maryland Mammoth was a "short-day" plant that measured day length. When grown outside, the long summer days kept it vegetative. When given artificially shorter days (moved to a dark shed each afternoon), it stopped growing leaves and began flowering.
+In 1918, Wightman W. Garner and Harry A. Allard at the US Department of Agriculture discovered the cause: Maryland Mammoth was a "short-day" plant that measured [[coleman-winter-day-length-and-persephone-months]]. When grown outside, the long summer days kept it vegetative. When given artificially shorter days (moved to a dark shed each afternoon), it stopped growing leaves and began flowering.
 
 ### Photoperiodism
 
@@ -93,7 +93,7 @@ This mechanism makes elegant ecological sense:
 
 - **Morning**: Red light from the rising sun activates phytochrome (converts Pr to Pfr), signaling the plant to "wake up"
 - **Evening**: The last light at the end of the day is far-red (filtered through the atmosphere at low sun angles), converting phytochrome back to Pr, signaling the plant that darkness is coming
-- **Shade detection**: Leaves in canopy shade receive more far-red than red light (because chlorophyll in upper leaves absorbs red), allowing plants to detect and respond to being shaded
+- **[[phytochrome-red-far-red-ratio-shade-detection-plants]]**: Leaves in canopy shade receive more far-red than red light (because chlorophyll in upper leaves absorbs red), allowing plants to detect and respond to being shaded
 
 ### Measuring Night Length
 
@@ -111,7 +111,7 @@ From Darwin's phototropism studies, the "eye" of the plant is in the shoot tip, 
 
 If a single leaf is illuminated with red light in the middle of the night, "it is as if the entire plant were illuminated." Conversely, if all leaves are pruned and only the stem and apex remain, "the plant is blind to any flashes of light, even if the entire plant is illuminated."
 
-This means phytochrome in the leaves receives the light cues and initiates a mobile signal that propagates throughout the plant. The signal, later identified as the protein Flowering Locus T (FT), travels through the phloem from leaves to the shoot apex, where it induces the floral transition.
+This means phytochrome in the leaves receives the light cues and initiates a [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering]] that propagates throughout the plant. The signal, later identified as the protein Flowering Locus T (FT), travels through the phloem from leaves to the shoot apex, where it induces the floral transition.
 
 ## Agricultural Applications
 
@@ -126,6 +126,11 @@ Cannabis is a short-day plant that typically flowers when the dark period exceed
 Light leaks during the dark period can reset phytochrome and delay or disrupt flowering, which is why strict darkness during the 12-hour dark cycle is critical in Cannabis cultivation.
 
 ## See Also
+
+- [[phytochrome-red-far-red-ratio-shade-detection-plants]]
+
+- [[borthwick-far-red-reversal-photoperiodic-discovery]]
+- [[phytochrome-photoperiodism]]
 
 - [[chamovitz-red-far-red-phytochrome-switch-and-plant-memory]]
 - [[what-a-plant-knows-plant-vision-and-light-perception]]

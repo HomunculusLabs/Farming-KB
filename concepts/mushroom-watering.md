@@ -28,7 +28,7 @@ Cuthill established clear timing rules:
 
 He observed that fine crops appear in fields after dry
 summers, never wet ones. This underpinned his conservative
-approach to [[cervantes-growing-medium]] during mushroom bed preparation.
+approach to [[cervantes-growing-medium]] during mushroom [[azurescens-outdoor-bed-preparation-woodchips]].
 
 ## Liquid Manure Water
 
@@ -71,7 +71,7 @@ New September beds required minimal watering. A slight hay
 covering prevented surface cracking, but had to be removed
 periodically to dry, preventing mould growth. The hay was
 replaced after drying, maintaining consistent conditions
-through the critical early weeks of [[mushroom-spawn]]
+through the critical early weeks of mushroom-spawn
 development.
 
 ## After Watering

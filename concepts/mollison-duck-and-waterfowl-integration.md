@@ -1,5 +1,5 @@
 ---
-title: "Duck and Waterfowl Integration in Permaculture Systems"
+title: "mollison duck and waterfowl integration mollison-guinea-pig-integration-in-permaculture-gardens Systems"
 created: 2026-04-26
 tags:
   - permaculture
@@ -22,7 +22,7 @@ shallow water for dabbling. They supply up to 200 eggs per year
 each, are relatively disease-free, and are good foragers. Given
 predator protection, they thrive on the mixed farm. Mollison
 places special emphasis on the unique role of waterfowl in
-permaculture design.
+[[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]].
 
 ## Mollusc Control
 
@@ -60,7 +60,7 @@ turkey, and wildlife such as pheasant and quail on range. The
 latter species differ only in food preferences, preferring more
 snails, berries, and a higher proportion of insect foods. Ducks
 are more disease-resistant than chickens and require less
-supplemental feeding when given access to natural water bodies
+[[savory-supplemental-feeding-and-winter-management]] when given access to natural water bodies
 and marsh forage.
 
 ## Aquatic Plant Nurseries
@@ -77,7 +77,7 @@ serving multiple other functions in the permaculture system.
 Geese are the traditional small grazers of mixed orchards,
 replacing lawn-mowers and tractors to control grasses and
 groundcovers. In the subtropics, rampant greens such as
-comfrey, Tradescantia, arrowroot (Canna), sweet potato greens,
+comfrey, Tradescantia, arrowroot (Canna), [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]] greens,
 cassava foliage, and leguminous tree leaves all supply green
 crop for poultry and domestic animals. Many also yield surplus
 root crop for cold periods, fed as a boiled mash.
@@ -100,7 +100,7 @@ Their foraging in shallow water controls mosquito larvae and
 other insect pests. The integration of ducks with rice paddies
 and taro ponds is a traditional practice that Mollison
 recommends for permaculture designs. Ducks in rice paddies
-control pests, fertilise the crop, and weed the paddy.
+[[query-how-to-control-pests-without-chemicals]], fertilise the crop, and weed the paddy.
 
 ## Predator Protection
 
@@ -122,6 +122,9 @@ integration is a model for modern permaculture design.
 
 ## See Also
 
-- [[mollison-animal-range-management]]
-- [[permaculture-designers-manual-tropical-climates]]
+- mollison-animal-range-management
+- permaculture-designers-manual-tropical-climates
 - [[mollison-wet-tropical-forest-structure-and-polyculture]]
+- [[permaculture-design]]
+- [[mollison-designers-rice-paddy-integrated-duck-fish]]
+- [[mollison-designers-geese-and-duck-weed-control]]

@@ -1,10 +1,11 @@
 ---
-title: "Cannabis Pruning and Training Techniques (SOG, SCROG, LST)"
+title: "Cannabis hamilton-pruning-and-training-fruit-trees Techniques (SOG, SCROG, LST)"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
 tags: [cannabis, pruning]
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
@@ -52,7 +53,7 @@ Bending efficiently neutralizes the growth-inhibiting hormone effect. Much easie
 
 ## Sea of Green (SOG)
 
-A method of growing tight-packed short plants to maximize yield per square foot. Short clones (6-8 inches tall) are packed tightly together in small containers and flowered immediately or after minimal vegetative time. Each plant takes up minimum space for minimum time to produce maximum marijuana.
+A method of growing tight-packed short plants to maximize yield per [[comparison-biointensive-vs-square-foot-gardening]]. Short clones (6-8 inches tall) are packed tightly together in small containers and flowered immediately or after minimal vegetative time. Each plant takes up minimum space for minimum time to produce maximum marijuana.
 
 In a simple SOG layout: 80 total plants in trays illuminated by a single 1000W HID. Each week one tray of ten plants is harvested, and ten new plants are started. It is easy to grow 60+ four-inch rockwool cubes on a flood and drain table.
 
@@ -70,11 +71,11 @@ Spray-paint the inside of containers with copper hydroxide (Griffin's Spin-Out).
 
 ## Stress
 
-Cannabis grows best and produces heaviest when given a stable environment. Stressed plants produce less. Stress-induced trauma includes withholding water, photoperiod fluctuation, low light, nutrient toxicities/deficiencies, extreme temperatures, and mutilation. Stress can cause more resin production but simultaneously causes reduced growth.
+Cannabis grows best and produces heaviest when given a stable environment. Stressed plants produce less. Stress-induced trauma includes withholding water, photoperiod fluctuation, [[darkness-low-light-facilitation-entheogenic-ceremonies]], nutrient toxicities/deficiencies, extreme temperatures, and mutilation. Stress can cause more [[cannabis-glandular-trichome-types-resin-production-clarke]] but simultaneously causes reduced growth.
 
 ## Topping and FIM Pruning
 
-Topping is the removal of the growing tip of the main stem, which causes the plant to develop two new main branches at the node just below the cut. This doubles the number of top colas and creates a wider, bushier plant. Topping should be performed during vegetative growth when the plant has at least four to six nodes. The plant will need a few days to recover from the shock, after which the two new branches will begin growing vigorously.
+Topping is the removal of the growing tip of the main stem, which causes the plant to develop two new main branches at the node just below the cut. This doubles the number of top colas and creates a wider, bushier plant. Topping should be performed during [[cannabis-vegetative-growth-stage]] when the plant has at least four to six nodes. The plant will need a few days to recover from the shock, after which the two new branches will begin growing vigorously.
 
 FIM (Fuck I Missed) pruning is a variation of topping where only part of the growing tip is removed rather than cutting the entire tip. This can produce three to four new branches instead of two, though results are less predictable. FIM is done by cutting approximately 75% of the growing tip, leaving a small portion intact.
 

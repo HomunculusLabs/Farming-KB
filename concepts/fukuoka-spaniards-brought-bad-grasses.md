@@ -1,11 +1,12 @@
 ---
-title: Fukuoka — Spaniards Brought Bad Grasses and California Desertification
+title: Fukuoka — fukuoka spaniards brought bad grasses Bad Grasses and fukuoka-california-desertification-myth-natural-aridity
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # The Spaniards Brought Bad Grasses
@@ -28,8 +29,8 @@ From this, Fukuoka surmised that the vegetation in California underwent a critic
 
 During a conversation with a mineralogist at the California state environmental agency in Sacramento, Fukuoka learned that:
 
-- The parent rock for Japan is the same as for the region around San Francisco
-- Hokkaido shares parent rock with southern Canada; Siberia with Alaska; Southeast Asia with Mexico
+- The parent rock for Japan is the same as for the region around [[shipibo-san-francisco-ceremonial-center-ucayali]]
+- Hokkaido shares parent rock with southern Canada; Siberia with Alaska; [[psilocybe-southeast-asia-pacific]] with Mexico
 - The distribution of parent rock is symmetrical across the Pacific — some specialists believe the Pacific was once a continent
 - Japan has Mt. Fuji and California has Mt. Shasta, both large volcanos at similar latitudes
 - About one-third of the undergrowth in the redwood forests consists of vegetation similar to that found in Japan
@@ -42,7 +43,7 @@ At his talk before thirty officials at the state capitol, Fukuoka pressed the po
 
 ## The Eucalyptus Factor
 
-Traveling through the mountains on the outskirts of San Francisco, Fukuoka encountered large groves of eucalyptus trees — all imported from Australia. The reason they grew so hardily was that there were no native American trees around to speak of. Even the cryptomeria and cypress trees on university campuses did not originally grow there. San Francisco, Berkeley, and Los Angeles were, in Fukuoka's view, "artificial islands in the middle of a desert."
+Traveling through the mountains on the outskirts of San Francisco, Fukuoka encountered large groves of eucalyptus trees — all imported from Australia. The reason they grew so hardily was that there were no [[halpern-sacramental-peyote-and-native-american-church]] trees around to speak of. Even the cryptomeria and cypress trees on university campuses did not originally grow there. San Francisco, Berkeley, and Los Angeles were, in Fukuoka's view, "artificial islands in the middle of a desert."
 
 ## The Rain Falls from Below
 
@@ -65,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

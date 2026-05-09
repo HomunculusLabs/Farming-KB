@@ -12,10 +12,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Sargent, C.S. (1965). "Manual of the Trees of North America." Dover Publications.
-  - Moerman, D.E. (1998). "Native American Ethnobotany." Timber Press.
+  - Sargent, C.S. (1965). "Manual of the Trees of psilocybin-north-america-pacific-northwest." Dover Publications.
+  - Moerman, D.E. (1998). "[[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany." Timber Press.
   - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." 6th ed. Stipes Publishing.
-  - Isely, D. (1990). "Vascular Flora of the Southeastern United States." University of North Carolina Press.
+  - Isely, D. (1990). "Vascular Flora of the Southeastern [[dmt-containing-plants-united-states-halpern]]." University of North Carolina Press.
   - USDA NRCS (2024). "Cercis canadensis L." Plant Database, plants.usda.gov.
 ---
 
@@ -23,7 +23,7 @@ sources:
 
 Cercis canadensis, commonly known as eastern redbud, is a small deciduous tree in the family Fabaceae, subfamily Cercidoideae.
 
-It is native to eastern North America and is widely planted as an ornamental for its showy pink-purple spring flowers.
+It is native to [[polypore-fungi-eastern-north-america]] America and is widely planted as an ornamental for its showy pink-purple spring flowers.
 
 Eastern redbud is one of the first trees to bloom in spring, producing flowers directly on older branches and the trunk before leaf emergence.
 
@@ -67,7 +67,7 @@ Eastern redbud is adaptable to full sun to partial shade, with optimal growth in
 
 The tree is moderately drought-tolerant once established but is intolerant of prolonged waterlogging and poorly drained soils.
 
-It is hardy in USDA zones 4–9, with var. texensis and var. mexicana showing greater heat and drought tolerance.
+It is hardy in USDA zones 4–9, with var. texensis and var. mexicana showing greater heat and [[dighton-fungal-drought-tolerance-plant-water-relations]].
 
 ## Edibility and Nutrition
 
@@ -99,7 +99,7 @@ Seeds are consumed by various bird species including cardinals, bobwhites, and r
 
 The foliage serves as a larval host plant for the redbud leaffolder (Fascista cercerisella) and several species of leafhoppers.
 
-In permaculture design, eastern redbud functions as a nitrogen-fixing canopy understory tree, producing edible yield and wildlife habitat.
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], eastern redbud functions as a nitrogen-fixing canopy understory tree, producing edible yield and wildlife habitat.
 
 Its shallow root system makes it suitable for planting near structures, though branches can be brittle in heavy winds.
 

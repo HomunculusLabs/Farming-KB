@@ -1,5 +1,5 @@
 ---
-title: Fungal In Situ Bioremediation Formulation Strategies
+title: Fungal In Situ fungal-bioremediation-formulation-delivery Strategies
 created: 2026-04-28
 tags: [bioremediation, bioaugmentation, formulation, encapsulation, fungi]
 date: 2026-04-25
@@ -37,14 +37,14 @@ indigenous microbial degradation capacity. Nitrogen and phosphorus are
 the most commonly added nutrients. Composting represents a form of
 biostimulation where mixtures of straw, manure, and agricultural wastes
 are combined with contaminated soils to stimulate consortia of bacteria
-and fungi. The addition of suitable organic amendments alone can
-sometimes improve PAH degradation more than inoculation with specific
+and fungi. The addition of suitable [[cervantes-organic-amendments-chart]] alone can
+sometimes improve [[fungal-pah-degradation-and-soil-bioremediation]] more than inoculation with specific
 fungal species.
 
 ## Alginate Encapsulation
 
 Calcium alginate has emerged as one of the most effective encapsulation
-materials for fungal bioremediation inocula. Spores or mycelial
+materials for [[staycare-composting-as-a-fungal-bioremediation-strategy]] inocula. Spores or mycelial
 fragments are mixed with sodium alginate solution, and upon contact with
 calcium ions, a gel matrix forms that entraps the living propagules.
 The gel allows substrate diffusion, protects the inoculum from
@@ -66,10 +66,10 @@ encourage rapid proliferation upon rehydration.
 
 ## Solid-State Fermentation Formulations
 
-Adapted from mushroom cultivation and koji production, solid-state
+Adapted from [[accessible-mushroom-cultivation-for-disabilities]] and koji production, solid-state
 fermentation involves growing mycelia on solid substrates with minimal
 free water. Lignocellulosic materials such as corn cobs, sawdust, wood
-chips, wheat straw, and peat serve as carriers. After mycelial
+chips, [[non-sterilized-wheat-straw-oyster-cultivation]], and peat serve as carriers. After mycelial
 colonization, the substrate becomes a matrix encapsulating the hyphae.
 
 Rice flour-based solid-state fermentation followed by extrusion has been
@@ -89,3 +89,8 @@ gluten inhibits the growth of some white rot fungi including
 [[staycare-fungal-formulation-in-situ-bioremediation]] for
   additional formulation details
 - [[fungal-immobilization-bioreactor-systems]] for
+
+## See Also
+
+- [[bioremediation-strategies]]
+- fungal-formulation-delivery-in-situ
